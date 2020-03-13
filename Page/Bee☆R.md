@@ -5,17 +5,17 @@
 
 ## 沿革
 
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")千歳台で開業。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") [東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")千歳台で開業。
   - その後、[横浜市](../Page/横浜市.md "wikilink")[青葉区に移転](../Page/青葉区_\(横浜市\).md "wikilink")。
-  - [2003年](../Page/2003年.md "wikilink")に[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[町田市](../Page/町田市.md "wikilink")に再度移転して規模を大型化。
+  - [2003年](../Page/2003年.md "wikilink")に[東京都](../Page/東京都.md "wikilink")[町田市](../Page/町田市.md "wikilink")に再度移転して規模を大型化。
 
 ## 略歴
 
-主に馬力を上げるチューニングを得意としており、タービンの負荷を抑える**レブリミッター**や、[トヨタ車を改造していくうえで障害となる](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[電子制御スロットルを解除する独自商品などを販売](https://ja.wikipedia.org/wiki/スロットル "wikilink")。また車両を[ツインチャージャー](../Page/ツインチャージャー.md "wikilink")化に改造することに取り組んでおり、[SR20DETや](../Page/日産・SRエンジン.md "wikilink")[RB26DETTなどで搭載例がある](https://ja.wikipedia.org/wiki/日産・RB26DETT "wikilink")。一方で[レストア](https://ja.wikipedia.org/wiki/レストア "wikilink")パーツやメニューにも手を広げ、例としてパーツでは[AE86用のカーボンドアトリムやドアの外装](https://ja.wikipedia.org/wiki/トヨタ・AE86 "wikilink")、メニューでは老朽化が進む[BNR32に対して](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")、ボディへのスポット増しを中心とした「プチレストア」と称するコースを取り扱っている。
+主に馬力を上げるチューニングを得意としており、タービンの負荷を抑える**レブリミッター**や、[トヨタ車を改造していくうえで障害となる](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[電子制御スロットルを解除する独自商品などを販売](https://ja.wikipedia.org/wiki/スロットル "wikilink")。また車両を[ツインチャージャー](../Page/ツインチャージャー.md "wikilink")化に改造することに取り組んでおり、[SR20DETや](../Page/日産・SRエンジン.md "wikilink")[RB26DETTなどで搭載例がある](../Page/日産・RB26DETT.md "wikilink")。一方で[レストア](../Page/レストア.md "wikilink")パーツやメニューにも手を広げ、例としてパーツでは[AE86用のカーボンドアトリムやドアの外装](../Page/トヨタ・AE86.md "wikilink")、メニューでは老朽化が進む[BNR32に対して](../Page/日産・スカイライン.md "wikilink")、ボディへのスポット増しを中心とした「プチレストア」と称するコースを取り扱っている。
 
 ## レース実績
 
-[全日本プロドリフト選手権](https://ja.wikipedia.org/wiki/全日本プロドリフト選手権 "wikilink")にR34型スカイラインGT-Rのフロント部分を移植した[R32型スカイラインGT-R（B324R)と](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")2008年からは[ゼロクラウン](../Page/トヨタ・クラウン.md "wikilink")(GRS180) 参戦。ドライバー[手塚強](../Page/手塚強.md "wikilink")（スカイラインGT-R）、[時田雅義](https://ja.wikipedia.org/wiki/時田雅義 "wikilink")（ゼロクラウン）と共に参戦し、優勝1回（2008年・第3戦に手塚が優勝）。タイヤスポンサーは[グッドイヤー](https://ja.wikipedia.org/wiki/グッドイヤー "wikilink")。
+[全日本プロドリフト選手権](../Page/全日本プロドリフト選手権.md "wikilink")にR34型スカイラインGT-Rのフロント部分を移植した[R32型スカイラインGT-R（B324R)と](../Page/日産・スカイライン.md "wikilink")2008年からは[ゼロクラウン](../Page/トヨタ・クラウン.md "wikilink")(GRS180) 参戦。ドライバー[手塚強](../Page/手塚強.md "wikilink")（スカイラインGT-R）、[時田雅義](https://ja.wikipedia.org/wiki/時田雅義 "wikilink")（ゼロクラウン）と共に参戦し、優勝1回（2008年・第3戦に手塚が優勝）。タイヤスポンサーは[グッドイヤー](../Page/グッドイヤー.md "wikilink")。
 
 ## エピソード
 

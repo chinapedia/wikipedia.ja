@@ -1,7 +1,7 @@
 > この記事は[Soul Punch](https://ja.wikipedia.org/wiki/Soul_Punch)から翻訳されています。
 
 
-**Soul Punch**（ソウルパンチ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")に発売した[クレイジーケンバンド](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink")7枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。
+**Soul Punch**（ソウルパンチ）は、[2005年](../Page/2005年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")に発売した[クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")7枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。
 
 ## 内容
 

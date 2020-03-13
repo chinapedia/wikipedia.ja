@@ -5,9 +5,9 @@
 
 ## 解説
 
-[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』オープニングテーマ曲。歌詞の主人公の魚は[フナ](https://ja.wikipedia.org/wiki/フナ "wikilink")であり、フナが[鯉などに対して劣等感をもちつつも](https://ja.wikipedia.org/wiki/コイ "wikilink")、強く生きていこうとするような内容である。
+[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』オープニングテーマ曲。歌詞の主人公の魚は[フナ](../Page/フナ.md "wikilink")であり、フナが[鯉などに対して劣等感をもちつつも](https://ja.wikipedia.org/wiki/コイ "wikilink")、強く生きていこうとするような内容である。
 
-ラストシングルにして初めて[秋元康](../Page/秋元康.md "wikilink")の作詞ではなく、作曲担当の[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")作詞の曲である。これは、楽曲制作の際に後藤がつけていた仮歌の歌詞を[石橋貴明](../Page/石橋貴明.md "wikilink")がいたく気に入り、そのまま正式な歌詞として採用されたからである。PV監督も『[ウルトラマンゼアス](../Page/ウルトラマンゼアス.md "wikilink")』の監督を務めた[中島信也](https://ja.wikipedia.org/wiki/中島信也 "wikilink")が担当している。
+ラストシングルにして初めて[秋元康](../Page/秋元康.md "wikilink")の作詞ではなく、作曲担当の[後藤次利](../Page/後藤次利.md "wikilink")作詞の曲である。これは、楽曲制作の際に後藤がつけていた仮歌の歌詞を[石橋貴明](../Page/石橋貴明.md "wikilink")がいたく気に入り、そのまま正式な歌詞として採用されたからである。PV監督も『[ウルトラマンゼアス](../Page/ウルトラマンゼアス.md "wikilink")』の監督を務めた[中島信也](../Page/中島信也.md "wikilink")が担当している。
 
 これまでの彼ら（「feat. CA」や「front 4men…」含む）のPVは、TV番組などで歌うときの「ショートバージョン」の長さでしか撮影されなかったが、今回は歌自体の短さも相まってか、シングルに収録された歌詞そのままの「フルバージョン」で撮影されている（もちろん、最初で最後である）。また、これまでの彼らの作品と比べると、[コミックソング](../Page/コミックソング.md "wikilink")の要素が高いものになっている。TV出演時やステージ上では、メンバー全員が頭にフナのかぶりものをして歌っていた。こうした理由を当時、石橋貴明は「もともと『偽者の[KinKi Kids](../Page/KinKi_Kids.md "wikilink")』のバックという、いわば“ギャグ”から（グループが）始まったのだから、最後も“ギャグ”で終わろうということ」と語っていた。
 
@@ -15,7 +15,7 @@
 
 1.  Fish Fight\!
       -
-        作詞・作曲・編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+        作詞・作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")
         [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[撤収](../Page/撤収_\(アルバム\).md "wikilink")』に収録。
 2.  Slave
       -

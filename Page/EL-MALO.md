@@ -5,7 +5,7 @@
 
 ## 活動とスタイル
 
-[1993年](../Page/1993年.md "wikilink")にミニアルバム『DAGGER TO FOOL』で[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")からメジャーデビュー。同年12月にアルバム『STARSHIP IN WORSHIP』を発表。2ndアルバム『The Worst Universal Jet Set』ではコーネリアス（[小山田圭吾](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")）をプロデューサーに迎える。骨太なバンドサウンドでありながら、[ハウスミュージック](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")／[クラブ的なアプローチと再構築により](https://ja.wikipedia.org/wiki/クラブ・ミュージック "wikilink")、90年代には[渋谷系](../Page/渋谷系.md "wikilink")の裏番長の異名を取る。2000年代はそれぞれソロ活動が中心となる。[2004年](../Page/2004年.md "wikilink")にアルバム『New Paradigm』を発表、[ライジング・サン・ロックフェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")に出演する。2008年にアルバム『NOFACE BUTT 2EYES』を発表。[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")」に久々のテレビ出演をし、復活を宣言する\[1\]。
+[1993年](../Page/1993年.md "wikilink")にミニアルバム『DAGGER TO FOOL』で[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")からメジャーデビュー。同年12月にアルバム『STARSHIP IN WORSHIP』を発表。2ndアルバム『The Worst Universal Jet Set』ではコーネリアス（[小山田圭吾](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")）をプロデューサーに迎える。骨太なバンドサウンドでありながら、[ハウスミュージック](../Page/ハウス_\(音楽\).md "wikilink")／[クラブ的なアプローチと再構築により](https://ja.wikipedia.org/wiki/クラブ・ミュージック "wikilink")、90年代には[渋谷系](../Page/渋谷系.md "wikilink")の裏番長の異名を取る。2000年代はそれぞれソロ活動が中心となる。[2004年](../Page/2004年.md "wikilink")にアルバム『New Paradigm』を発表、[ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")に出演する。2008年にアルバム『NOFACE BUTT 2EYES』を発表。[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")」に久々のテレビ出演をし、復活を宣言する\[1\]。
 
 ## メンバー
 
@@ -411,25 +411,25 @@ TRCP-022X:期間限定プライス盤</p></td>
 
 ### その他
 
-| 発売日         | タイトル                                                                                                                                      | 規格品番       | 収録曲                              | 備考                                                     |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------- | ------------------------------------------------------ |
-| 1995年4月21日  | [電気グルーヴ](../Page/電気グルーヴ.md "wikilink")『[虹](https://ja.wikipedia.org/wiki/虹_\(電気グルーヴの曲\) "wikilink")』                                      | KSD2-1083  | 虹 (Mojo Mix)                     | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「\[\[マジカル頭脳パワー |
-| 1996年02月21日 | [KOJI1200](https://ja.wikipedia.org/wiki/KOJI1200 "wikilink")『アメリカ大リミックス\!』                                                               | FLCF-3608  | NOW ROMANTIC (San Francisco Mix) |                                                        |
-| 2003年06月11日 | [meg](https://ja.wikipedia.org/wiki/MEG "wikilink")『GROOVE TUBE』                                                                          | WPCL-70001 | GROOVE TUBE EL-MALO mix          |                                                        |
-| 2004年03月17日 | FLOWERS OF ERROR 3                                                                                                                        | BZCS-1026  | アドルフの子守歌                         | 會田茂一監修                                                 |
-| 2004年12月08日 | 802 HEAVY ROTATIONS ～J-HITS COMPLETE '94-'96                                                                                              | MHCL-439   | BLIND                            |                                                        |
-| 2005年5月11日  | [MCU](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink")『[A Peacetime MCU](https://ja.wikipedia.org/wiki/A_Peacetime_MCU "wikilink")』 | BVCR-11070 | SALT SCATTER / MCU　feat.EL-MALO  |                                                        |
-|             |                                                                                                                                           |            |                                  |                                                        |
+| 発売日         | タイトル                                                                                                                   | 規格品番       | 収録曲                              | 備考                                                     |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------- | ---------- | -------------------------------- | ------------------------------------------------------ |
+| 1995年4月21日  | [電気グルーヴ](../Page/電気グルーヴ.md "wikilink")『[虹](../Page/虹_\(電気グルーヴの曲\).md "wikilink")』                                      | KSD2-1083  | 虹 (Mojo Mix)                     | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「\[\[マジカル頭脳パワー |
+| 1996年02月21日 | [KOJI1200](https://ja.wikipedia.org/wiki/KOJI1200 "wikilink")『アメリカ大リミックス\!』                                            | FLCF-3608  | NOW ROMANTIC (San Francisco Mix) |                                                        |
+| 2003年06月11日 | [meg](https://ja.wikipedia.org/wiki/MEG "wikilink")『GROOVE TUBE』                                                       | WPCL-70001 | GROOVE TUBE EL-MALO mix          |                                                        |
+| 2004年03月17日 | FLOWERS OF ERROR 3                                                                                                     | BZCS-1026  | アドルフの子守歌                         | 會田茂一監修                                                 |
+| 2004年12月08日 | 802 HEAVY ROTATIONS ～J-HITS COMPLETE '94-'96                                                                           | MHCL-439   | BLIND                            |                                                        |
+| 2005年5月11日  | [MCU](../Page/MCU_\(ラッパー\).md "wikilink")『[A Peacetime MCU](https://ja.wikipedia.org/wiki/A_Peacetime_MCU "wikilink")』 | BVCR-11070 | SALT SCATTER / MCU　feat.EL-MALO  |                                                        |
+|             |                                                                                                                        |            |                                  |                                                        |
 
 ## ミュージックビデオ
 
-|                                                                   |                                                                                                                                                      |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                            | **曲名**                                                                                                                                               |
-| [ELECROTNIK](https://ja.wikipedia.org/wiki/ELECROTNIK "wikilink") | 「FREEZE」                                                                                                                                             |
-| [須永秀明](../Page/須永秀明.md "wikilink")                                | 「CHASE」([SPACE SHOWER MUSIC AWARDS](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC_AWARDS "wikilink") 1996 BEST ACT VIDEO)「CRACKER」「Limit 45」「和楽全」 |
-| 不明                                                                | 「Blind」「CALM(凪)」「COLOR」「CRACKER\#2」「FOOLS」                                                                                                           |
-|                                                                   |                                                                                                                                                      |
+|                                                                   |                                                                                                                                   |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                            | **曲名**                                                                                                                            |
+| [ELECROTNIK](https://ja.wikipedia.org/wiki/ELECROTNIK "wikilink") | 「FREEZE」                                                                                                                          |
+| [須永秀明](../Page/須永秀明.md "wikilink")                                | 「CHASE」([SPACE SHOWER MUSIC AWARDS](../Page/SPACE_SHOWER_MUSIC_AWARDS.md "wikilink") 1996 BEST ACT VIDEO)「CRACKER」「Limit 45」「和楽全」 |
+| 不明                                                                | 「Blind」「CALM(凪)」「COLOR」「CRACKER\#2」「FOOLS」                                                                                        |
+|                                                                   |                                                                                                                                   |
 
 ## タイアップ
 
@@ -452,8 +452,8 @@ TRCP-022X:期間限定プライス盤</p></td>
 
   - [小山田圭吾](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")
   - [電気グルーヴ](../Page/電気グルーヴ.md "wikilink")
-  - [砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink")
-  - [KICK THE CAN CREW](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")
+  - [砂原良徳](../Page/砂原良徳.md "wikilink")
+  - [KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")
   - [bloodthirsty butchers](https://ja.wikipedia.org/wiki/bloodthirsty_butchers "wikilink")
 
 ## 外部リンク

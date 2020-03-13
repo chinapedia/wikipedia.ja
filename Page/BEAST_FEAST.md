@@ -25,7 +25,7 @@
   - 運営協力
     [DISK GARAGE](https://ja.wikipedia.org/wiki/DISK_GARAGE "wikilink")
   - 後援
-    [SPACE SHOWER TV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")
+    [SPACE SHOWER TV](../Page/スペースシャワーTV.md "wikilink")
     [tvk](../Page/テレビ神奈川.md "wikilink")
     [MTV](../Page/MTV.md "wikilink")
   - 協力
@@ -34,14 +34,14 @@
     [キティMME](https://ja.wikipedia.org/wiki/キティMME "wikilink")
     [ソニー・ミュージックエンタテインメントエピックレコード](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
     [トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")
-    [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")
-    [日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")
+    [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")
+    [日本クラウン](../Page/日本クラウン.md "wikilink")
     [ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")
     [V2レコーズ・ジャパン](../Page/V2レコード.md "wikilink")
-    [ユニバーサルインターナショナル](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")
+    [ユニバーサルインターナショナル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
     [リミテッドレコード](https://ja.wikipedia.org/wiki/リミテッドレコード "wikilink")
     [ロードランナー・ジャパン](https://ja.wikipedia.org/wiki/ロードランナー・ジャパン "wikilink")
-    [ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")
+    [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")
     [DISK UNION](../Page/ディスクユニオン.md "wikilink")
     [TSUTAYA RECORDS](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")
 
@@ -54,7 +54,7 @@
   - [スタティック-X](../Page/スタティック-X.md "wikilink")
   - [ヴィジョン・オブ・ディスオーダー](https://ja.wikipedia.org/wiki/ヴィジョン・オブ・ディスオーダー "wikilink")
   - [UNITED](../Page/UNITED.md "wikilink")
-  - <s>[アーチ・エネミー](https://ja.wikipedia.org/wiki/アーチ・エネミー "wikilink")</s>
+  - <s>[アーチ・エネミー](../Page/アーチ・エネミー.md "wikilink")</s>
   - [デリンジャー・エスケイプ・プラン](https://ja.wikipedia.org/wiki/デリンジャー・エスケイプ・プラン "wikilink")
   - [レイジング・スピードホーン](https://ja.wikipedia.org/wiki/レイジング・スピードホーン "wikilink")
   - [デヴィエイト](https://ja.wikipedia.org/wiki/デヴィエイト "wikilink")
@@ -70,7 +70,7 @@
 
 ##### 8月26日（日）
 
-  - [パンテラ](https://ja.wikipedia.org/wiki/パンテラ "wikilink")
+  - [パンテラ](../Page/パンテラ.md "wikilink")
   - [マシーン・ヘッド](https://ja.wikipedia.org/wiki/マシーン・ヘッド "wikilink")
   - [ワン・ミニット・サイレンス](https://ja.wikipedia.org/wiki/ワン・ミニット・サイレンス "wikilink")
   - [バイオハザード](https://ja.wikipedia.org/wiki/バイオハザード_\(バンド\) "wikilink")
@@ -155,14 +155,14 @@
     CLUB CITTA'
     [SMASH](https://ja.wikipedia.org/wiki/SMASH_\(格闘技団体\) "wikilink")
   - 後援
-    [SPACE SHOWER TV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")
+    [SPACE SHOWER TV](../Page/スペースシャワーTV.md "wikilink")
     [Viewsic](https://ja.wikipedia.org/wiki/Viewsic "wikilink")
     各レコード会社
   - 協賛
     [ESP](../Page/イーエスピー.md "wikilink")
     [DISK UNION](../Page/ディスクユニオン.md "wikilink")
     [PEACE MAKER](https://ja.wikipedia.org/wiki/PEACE_MAKER "wikilink")
-    [ハイネケン](https://ja.wikipedia.org/wiki/ハイネケン "wikilink")
+    [ハイネケン](../Page/ハイネケン.md "wikilink")
   - 協力
     [DISK GAREGE](https://ja.wikipedia.org/wiki/DISK_GAREGE "wikilink")
     [fm osaka](../Page/エフエム大阪.md "wikilink")
@@ -172,8 +172,8 @@
 ##### 12月14日（土）
 
   - [ソウルフライ](../Page/ソウルフライ.md "wikilink")
-  - [モーターヘッド](https://ja.wikipedia.org/wiki/モーターヘッド "wikilink")
-  - [アーチ・エネミー](https://ja.wikipedia.org/wiki/アーチ・エネミー "wikilink")
+  - [モーターヘッド](../Page/モーターヘッド.md "wikilink")
+  - [アーチ・エネミー](../Page/アーチ・エネミー.md "wikilink")
   - [コンヴァージ](../Page/コンヴァージ.md "wikilink")
   - [シャドウズ・フォール](../Page/シャドウズ・フォール.md "wikilink")
   - [トゥデイ・イズ・ザ・デイ](https://ja.wikipedia.org/wiki/トゥデイ・イズ・ザ・デイ "wikilink")
@@ -188,7 +188,7 @@
   - [スレイヤー](../Page/スレイヤー.md "wikilink")
   - <s>[ダウン](https://ja.wikipedia.org/wiki/ダウン_\(バンド\) "wikilink")</s>
   - [マーダードールズ](https://ja.wikipedia.org/wiki/マーダードールズ "wikilink")
-  - [イン・フレイムス](https://ja.wikipedia.org/wiki/イン・フレイムス "wikilink")
+  - [イン・フレイムス](../Page/イン・フレイムス.md "wikilink")
   - [ヘイトブリード](https://ja.wikipedia.org/wiki/ヘイトブリード "wikilink")
   - <s>[ナイル](https://ja.wikipedia.org/wiki/ナイル_\(バンド\) "wikilink")</s>
   - [キルスウィッチ・エンゲイジ](../Page/キルスウィッチ・エンゲイジ.md "wikilink")

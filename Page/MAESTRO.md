@@ -1,19 +1,19 @@
 > この記事は[MAESTRO](https://ja.wikipedia.org/wiki/MAESTRO)から翻訳されています。
 
 
-『**MAESTRO**』（マエストロ）は、[1993年](../Page/1993年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[音楽美学 JOCX-MIDNIGHT](https://ja.wikipedia.org/wiki/JOCX-TV2 "wikilink")』で放送された30分の[クラシック音楽](../Page/クラシック音楽.md "wikilink")紹介番組である。[西村雅彦](https://ja.wikipedia.org/wiki/西村雅彦 "wikilink")の初めてのテレビ主演作品である。
+『**MAESTRO**』（マエストロ）は、[1993年](../Page/1993年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[音楽美学 JOCX-MIDNIGHT](../Page/JOCX-TV2.md "wikilink")』で放送された30分の[クラシック音楽](../Page/クラシック音楽.md "wikilink")紹介番組である。[西村雅彦](https://ja.wikipedia.org/wiki/西村雅彦 "wikilink")の初めてのテレビ主演作品である。
 
 ## 主な出演者
 
   - [西村雅彦](https://ja.wikipedia.org/wiki/西村雅彦 "wikilink")：[マエストロ](../Page/指揮者.md "wikilink")
-  - [小木茂光](https://ja.wikipedia.org/wiki/小木茂光 "wikilink")：コンサートマスター
+  - [小木茂光](../Page/小木茂光.md "wikilink")：コンサートマスター
 
 ## スタッフ
 
   - 企画：[石原隆](../Page/石原隆.md "wikilink")
   - プロデュース：[船津浩一](../Page/船津浩一.md "wikilink")
   - 製作：[共同テレビ](../Page/共同テレビジョン.md "wikilink")
-  - 演出：[本広克行](https://ja.wikipedia.org/wiki/本広克行 "wikilink")、[星護](https://ja.wikipedia.org/wiki/星護 "wikilink")、[舞原賢三](../Page/舞原賢三.md "wikilink")
+  - 演出：[本広克行](../Page/本広克行.md "wikilink")、[星護](../Page/星護.md "wikilink")、[舞原賢三](../Page/舞原賢三.md "wikilink")
 
 ## 番組のスタイル
 
@@ -26,14 +26,14 @@
   - [マーラー](../Page/グスタフ・マーラー.md "wikilink") - 9つの交響曲に共通するテーマなど、マエストロの一人語り。
   - [ベルリオーズ](../Page/エクトル・ベルリオーズ.md "wikilink")
   - [チャイコフスキー](../Page/ピョートル・チャイコフスキー.md "wikilink") - 彼の死にまつわる謎について、マエストロの友人との対話。
-  - [ビゼー](https://ja.wikipedia.org/wiki/ジョルジュ・ビゼー "wikilink") - 「カルメン」役のソプラノが楽屋から出てこない。楽屋入口での攻防。
-  - [ブルックナー](../Page/アントン・ブルックナー.md "wikilink") - ブルックナーの演奏に必要なのは体力か、精神力か。ホルン奏者（[松重豊](https://ja.wikipedia.org/wiki/松重豊 "wikilink")）とコンサートマスターのせめぎ合い。
+  - [ビゼー](../Page/ジョルジュ・ビゼー.md "wikilink") - 「カルメン」役のソプラノが楽屋から出てこない。楽屋入口での攻防。
+  - [ブルックナー](../Page/アントン・ブルックナー.md "wikilink") - ブルックナーの演奏に必要なのは体力か、精神力か。ホルン奏者（[松重豊](../Page/松重豊.md "wikilink")）とコンサートマスターのせめぎ合い。
   - [リスト](../Page/フランツ・リスト.md "wikilink")
   - [ドビュッシー](../Page/クロード・ドビュッシー.md "wikilink") - マエストロがフランス音楽のエスプリを知るまでの格闘。
   - [メンデルスゾーン](../Page/フェリックス・メンデルスゾーン.md "wikilink") - メンデルスゾーンに関する噂話を自分への悪口と誤解するマエストロ。
   - [プッチーニ](../Page/ジャコモ・プッチーニ.md "wikilink") - 彼の生涯を紹介する番組にマエストロが主演したが、オンエアを観て落胆する。
   - [ストラヴィンスキー](../Page/イーゴリ・ストラヴィンスキー.md "wikilink") - 妖艶な女性プロデューサーとマエストロの危険な遊び。
-  - [ブラームス](../Page/ヨハネス・ブラームス.md "wikilink") - [早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")交響楽団（指揮：岩村力）のリハーサル（交響曲第1番）をマエストロが実況解説。
+  - [ブラームス](../Page/ヨハネス・ブラームス.md "wikilink") - [早稲田大学](../Page/早稲田大学.md "wikilink")交響楽団（指揮：岩村力）のリハーサル（交響曲第1番）をマエストロが実況解説。
   - [サティ](../Page/エリック・サティ.md "wikilink") - マエストロのファンであった二人の女子高校生との出会いと悲しい想い出。
   - [ラフマニノフ](../Page/セルゲイ・ラフマニノフ.md "wikilink") - 彼の生涯や作品をテーマに番組を作ることになり、各スタッフが好き勝手に番組を妄想する。
   - [ドヴォルザーク](../Page/アントニン・ドヴォルザーク.md "wikilink") - マエストロの生い立ち（父親役と新入りヴィオラ奏者の二役：[山本圭壱](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")）
@@ -49,10 +49,10 @@
 ## その他
 
   - フェデリコ・フェリーニ監督の「オーケストラ・リハーサル」に着想を得て企画された番組である。
-  - 1 - 11・13・14話の演出を[本広克行](https://ja.wikipedia.org/wiki/本広克行 "wikilink")がつとめていた。
-  - 「[ラヴェル](../Page/モーリス・ラヴェル.md "wikilink")」の回（演出：本広克行）の前半部分は、パトリス・ルコント監督の「ボレロ」のアイディアに類似している（スネアドラムのリズムだけをBGMに、『オーケストラ奏者がボレロを好きではない理由』を列挙していく点など）。後半は、マエストロが実際にオーケストラを指揮して「[ボレロ](https://ja.wikipedia.org/wiki/ボレロ_\(ラヴェル\) "wikilink")」を全曲ノーカットで演奏した。また、これはのちに映画『[交渉人 真下正義](https://ja.wikipedia.org/wiki/交渉人_真下正義 "wikilink")』の中で、西村扮する「10年ぶりに凱旋帰国した伝説の指揮者『前主十路（まえぬし かずみち）』」が演奏会でボレロを（全曲）指揮する、という形で再現された。
+  - 1 - 11・13・14話の演出を[本広克行](../Page/本広克行.md "wikilink")がつとめていた。
+  - 「[ラヴェル](../Page/モーリス・ラヴェル.md "wikilink")」の回（演出：本広克行）の前半部分は、パトリス・ルコント監督の「ボレロ」のアイディアに類似している（スネアドラムのリズムだけをBGMに、『オーケストラ奏者がボレロを好きではない理由』を列挙していく点など）。後半は、マエストロが実際にオーケストラを指揮して「[ボレロ](../Page/ボレロ_\(ラヴェル\).md "wikilink")」を全曲ノーカットで演奏した。また、これはのちに映画『[交渉人 真下正義](../Page/交渉人_真下正義.md "wikilink")』の中で、西村扮する「10年ぶりに凱旋帰国した伝説の指揮者『前主十路（まえぬし かずみち）』」が演奏会でボレロを（全曲）指揮する、という形で再現された。
   - 番組中に流されるクラシックには、曲の紹介と同時に音源（指揮/オーケストラ等）が明示されており、演奏者としてオーケストラが出演するシーンは早稲田大学交響楽団が担当した。
-  - ロケ地は、初期は江戸川総合文化センター、中期以降は[パルテノン多摩](https://ja.wikipedia.org/wiki/パルテノン多摩 "wikilink")およびその周辺が多い。
-  - 番組終了後の1994年、[東芝EMIから当番組をベースとした企画による](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")「マエストロ・クラシック」というコンピレーションCDシリーズが発売された（現在廃盤）。
+  - ロケ地は、初期は江戸川総合文化センター、中期以降は[パルテノン多摩](../Page/パルテノン多摩.md "wikilink")およびその周辺が多い。
+  - 番組終了後の1994年、[東芝EMIから当番組をベースとした企画による](../Page/EMIミュージック・ジャパン.md "wikilink")「マエストロ・クラシック」というコンピレーションCDシリーズが発売された（現在廃盤）。
 
 [Category:1993年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの音楽番組](https://ja.wikipedia.org/wiki/Category:フジテレビの音楽番組 "wikilink") [Category:JOCX-TV2](https://ja.wikipedia.org/wiki/Category:JOCX-TV2 "wikilink") [Category:クラシック音楽のテレビ番組](https://ja.wikipedia.org/wiki/Category:クラシック音楽のテレビ番組 "wikilink")

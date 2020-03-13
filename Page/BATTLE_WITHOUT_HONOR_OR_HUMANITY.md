@@ -5,11 +5,11 @@
 
 ## 概要
 
-布袋が[阪本順治](https://ja.wikipedia.org/wiki/阪本順治 "wikilink")監督の映画『[新・仁義なき戦い](https://ja.wikipedia.org/wiki/新・仁義なき戦い "wikilink")』に出演し、同時に音楽監督をした際に作曲された。タイトルは『[仁義なき戦い](https://ja.wikipedia.org/wiki/仁義なき戦い "wikilink")』の英語直訳。
+布袋が[阪本順治](../Page/阪本順治.md "wikilink")監督の映画『[新・仁義なき戦い](https://ja.wikipedia.org/wiki/新・仁義なき戦い "wikilink")』に出演し、同時に音楽監督をした際に作曲された。タイトルは『[仁義なき戦い](https://ja.wikipedia.org/wiki/仁義なき戦い "wikilink")』の英語直訳。
 
-元来『新・仁義なき戦い』のメインテーマとして作曲されたものだったが、映画を見てこの曲を気に入った[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")により、彼の監督映画『[キル・ビル](https://ja.wikipedia.org/wiki/キル・ビル "wikilink")』のメインテーマに採用された。曲使用のオファーが来た際、布袋は『キル・ビル』用の新曲を書き下ろして提供したいと申し出たが、タランティーノはそれを断り、この曲の流用にこだわった。結果的にこれによって本曲の知名度は大きく上がり、現在では一般的に『キル・ビル』のテーマとして知られる。
+元来『新・仁義なき戦い』のメインテーマとして作曲されたものだったが、映画を見てこの曲を気に入った[クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")により、彼の監督映画『[キル・ビル](../Page/キル・ビル.md "wikilink")』のメインテーマに採用された。曲使用のオファーが来た際、布袋は『キル・ビル』用の新曲を書き下ろして提供したいと申し出たが、タランティーノはそれを断り、この曲の流用にこだわった。結果的にこれによって本曲の知名度は大きく上がり、現在では一般的に『キル・ビル』のテーマとして知られる。
 
-『キル・ビル』以外ではバラエティ番組における喧嘩や対決のシーンでBGMとして頻繁に使われているほか、[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[野球日本代表](../Page/野球日本代表.md "wikilink")（[ワールド・ベースボール・クラシック](https://ja.wikipedia.org/wiki/ワールド・ベースボール・クラシック "wikilink")、[WBSCプレミア12](https://ja.wikipedia.org/wiki/WBSCプレミア12 "wikilink")を含む）中継のテーマ曲としても使用されている（それ以外の利用については下記参照）。
+『キル・ビル』以外ではバラエティ番組における喧嘩や対決のシーンでBGMとして頻繁に使われているほか、[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[野球日本代表](../Page/野球日本代表.md "wikilink")（[ワールド・ベースボール・クラシック](../Page/ワールド・ベースボール・クラシック.md "wikilink")、[WBSCプレミア12](https://ja.wikipedia.org/wiki/WBSCプレミア12 "wikilink")を含む）中継のテーマ曲としても使用されている（それ以外の利用については下記参照）。
 
 楽曲のテーマは「**[低温火傷](https://ja.wikipedia.org/wiki/低温火傷 "wikilink")**」。ガツンとくるインパクトのあるものではなく、ジワジワと迫まり来るようなフレーズを意識して作曲したとのこと\[1\]。
 
@@ -30,24 +30,24 @@
 1.  **BATTLE WITHOUT HONOR OR HUMANITY-ORIGINAL MIX**
 2.  **BATTLE WITHOUT HONOR OR HUMANITY-SAMURAI MIX**
       -
-        映画『[キル・ビル](https://ja.wikipedia.org/wiki/キル・ビル "wikilink")』のセリフが入った後に、テンポが速くなるというアレンジになっている。後にベストアルバム『[ALL TIME SUPER BEST](../Page/ALL_TIME_SUPER_BEST.md "wikilink")』に収録された。
+        映画『[キル・ビル](../Page/キル・ビル.md "wikilink")』のセリフが入った後に、テンポが速くなるというアレンジになっている。後にベストアルバム『[ALL TIME SUPER BEST](../Page/ALL_TIME_SUPER_BEST.md "wikilink")』に収録された。
 3.  **BATTLE WITHOUT HONOR OR HUMANITY-GUITAR KARAOKE**
 
 ### ミュージシャン
 
-  - 布袋寅泰 - [ギター](../Page/ギター.md "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+  - 布袋寅泰 - [ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - [岸利至](../Page/岸利至.md "wikilink") - [プログラミング](../Page/プログラミング.md "wikilink")、オーディオエディット
   - [村田陽一](../Page/村田陽一.md "wikilink") - ホーンアレンジ、[トロンボーン](../Page/トロンボーン.md "wikilink")
   - 荒木敏男、菅坡雅彦 - [トランペット](../Page/トランペット.md "wikilink")
 
 ## その他の利用
 
-  - 入場テーマ曲としての利用機会も多く、[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")在籍当時の[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")外野手やプロレスラーの[アブドーラ・小林](https://ja.wikipedia.org/wiki/アブドーラ・小林 "wikilink")、総合格闘家の[岡見勇信](../Page/岡見勇信.md "wikilink")などが本テーマを使用している。プロボクサーの[井上尚弥](https://ja.wikipedia.org/wiki/井上尚弥 "wikilink")は[World Boxing Super Series決勝の入場曲として](https://ja.wikipedia.org/wiki/World_Boxing_Super_Series "wikilink")、この楽曲を布袋がアレンジして井上に提供した「バトル・オブ・モンスター」を使用した\[6\]。お笑いタレントの[桜塚やっくん](https://ja.wikipedia.org/wiki/桜塚やっくん "wikilink")も（スケバン恐子ネタ）を行う際、この曲で登場するのが定番となっていた。
-  - 『[BATTLE FUNKASTIC](../Page/BATTLE_FUNKASTIC.md "wikilink")』（HOTEI VS RIP SLYME）『[FUNKASTIC BATTLE](https://ja.wikipedia.org/wiki/FUNKASTIC_BATTLE "wikilink")』(RIP SLYME VS HOTEI)は、この曲と[RIP SLYMEの](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")『[FUNKASTIC](../Page/FUNKASTIC.md "wikilink")』の[マッシュアップ](../Page/マッシュアップ.md "wikilink")曲である。
+  - 入場テーマ曲としての利用機会も多く、[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")在籍当時の[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")外野手やプロレスラーの[アブドーラ・小林](https://ja.wikipedia.org/wiki/アブドーラ・小林 "wikilink")、総合格闘家の[岡見勇信](../Page/岡見勇信.md "wikilink")などが本テーマを使用している。プロボクサーの[井上尚弥](https://ja.wikipedia.org/wiki/井上尚弥 "wikilink")は[World Boxing Super Series決勝の入場曲として](https://ja.wikipedia.org/wiki/World_Boxing_Super_Series "wikilink")、この楽曲を布袋がアレンジして井上に提供した「バトル・オブ・モンスター」を使用した\[6\]。お笑いタレントの[桜塚やっくん](../Page/桜塚やっくん.md "wikilink")も（スケバン恐子ネタ）を行う際、この曲で登場するのが定番となっていた。
+  - 『[BATTLE FUNKASTIC](../Page/BATTLE_FUNKASTIC.md "wikilink")』（HOTEI VS RIP SLYME）『[FUNKASTIC BATTLE](https://ja.wikipedia.org/wiki/FUNKASTIC_BATTLE "wikilink")』(RIP SLYME VS HOTEI)は、この曲と[RIP SLYMEの](../Page/RIP_SLYME.md "wikilink")『[FUNKASTIC](../Page/FUNKASTIC.md "wikilink")』の[マッシュアップ](../Page/マッシュアップ.md "wikilink")曲である。
   - [コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")の音楽ゲーム『[Pop'n music 13 カーニバル](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』（[家庭用版のみ](../Page/コンシューマーゲーム.md "wikilink")）および『pop'n music 17 THE MOVIE』（[業務用](../Page/アーケードゲーム.md "wikilink")）に収録された（カバー）。
   - 映画『[近距離恋愛](https://ja.wikipedia.org/wiki/近距離恋愛 "wikilink")』（きんきょりれんあい、原題：*Made of Honor 2008年アメリカ映画）にて使用された、同映画の*[サウンドトラック](https://www.imdb.com/title/tt0866439/soundtrack)*に収録されている。*
-  - 映画『[トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")』にて、バンブルビーが新型カマロをスキャンした場面で使用された。キル・ビルで[ユマ・サーマン](https://ja.wikipedia.org/wiki/ユマ・サーマン "wikilink")が着用していたコスチュームのカラーが、バンブルビーのカラーと同じであることからのパロディ。
-  - [エスエス製薬](../Page/エスエス製薬.md "wikilink")の[OTC医薬品](https://ja.wikipedia.org/wiki/一般用医薬品 "wikilink")『[ハイチオールC](https://ja.wikipedia.org/wiki/ハイチオールC "wikilink")』の[テレビCM](../Page/コマーシャルメッセージ.md "wikilink")「働く女性たちの始動（疲れ）」篇でBGMとして使用された。
+  - 映画『[トランスフォーマー](../Page/トランスフォーマー_\(2007年の映画\).md "wikilink")』にて、バンブルビーが新型カマロをスキャンした場面で使用された。キル・ビルで[ユマ・サーマン](../Page/ユマ・サーマン.md "wikilink")が着用していたコスチュームのカラーが、バンブルビーのカラーと同じであることからのパロディ。
+  - [エスエス製薬](../Page/エスエス製薬.md "wikilink")の[OTC医薬品](../Page/一般用医薬品.md "wikilink")『[ハイチオールC](../Page/ハイチオールC.md "wikilink")』の[テレビCM](../Page/コマーシャルメッセージ.md "wikilink")「働く女性たちの始動（疲れ）」篇でBGMとして使用された。
   - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の「[GALAXY S4](https://ja.wikipedia.org/wiki/Samsung_Galaxy_S4 "wikilink")」と「[Xperia A](https://ja.wikipedia.org/wiki/SO-04E "wikilink")」のCMソングとして、当曲と[ファットボーイ・スリム](../Page/ファットボーイ・スリム.md "wikilink")の「[Right Here Right Now](https://ja.wikipedia.org/wiki/Right_Here_Right_Now_\(ファットボーイ・スリムの曲\) "wikilink")」を[マッシュアップ](../Page/マッシュアップ.md "wikilink")した楽曲が使用された\[7\]。現在のところ音源化はされていない。
   - [2014年](../Page/2014年.md "wikilink")には[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")にてミネラルウォーター「[Buxton water](https://ja.wikipedia.org/wiki/w:Buxton "wikilink")」のCMソングとして使用されている。
 

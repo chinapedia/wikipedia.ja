@@ -1,7 +1,7 @@
 > この記事は[CHRONICLE 2](https://ja.wikipedia.org/wiki/CHRONICLE_2)から翻訳されています。
 
 
-『**CHRONICLE 2**』（クロニクル ツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ミュージック・クリップ集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")発売。発売元は[Ki/oon Records](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")。
+『**CHRONICLE 2**』（クロニクル ツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ミュージック・クリップ集](../Page/ミュージック・ビデオ.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
@@ -16,7 +16,7 @@
 1.  **[LOVE FLIES](../Page/LOVE_FLIES.md "wikilink")**
       -
         （[ディレクター](../Page/ディレクター.md "wikilink")：[武藤眞志](https://ja.wikipedia.org/wiki/武藤眞志 "wikilink")）
-        [yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")の一部シーンに、[特殊メイク](https://ja.wikipedia.org/wiki/特殊メイク "wikilink")が施されている。
+        [yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")の一部シーンに、[特殊メイク](../Page/特殊メイク.md "wikilink")が施されている。
 2.  **[NEO UNIVERSE](https://ja.wikipedia.org/wiki/NEO_UNIVERSE/finale "wikilink")**
       -
         （ディレクター：[穴見文秀](https://ja.wikipedia.org/wiki/穴見文秀 "wikilink")）
@@ -26,7 +26,7 @@
 4.  **[STAY AWAY](../Page/STAY_AWAY.md "wikilink")**
       -
         （ディレクター：[上田拓](https://ja.wikipedia.org/wiki/上田拓 "wikilink")、[多田琢](https://ja.wikipedia.org/wiki/多田琢 "wikilink")）
-5.  **[Anemone](https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13 "wikilink")**
+5.  **[Anemone](../Page/Clicked_Singles_Best_13.md "wikilink")**
       -
         （ディレクター：[ヴィンセント・ギャロ](../Page/ヴィンセント・ギャロ.md "wikilink")〈メインアングル〉、[Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink")〈サブアングル〉）
         正確には**[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")**として収録。[DVD](../Page/DVD.md "wikilink")版のみ、メイン・サブの2種類のアングルから選択できる。メインアングルは、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[映画監督](../Page/映画監督.md "wikilink")・ヴィンセント・ギャロが撮影した映像。独特な撮影・演出方法が使われているが、[tetsuから](https://ja.wikipedia.org/wiki/tetsuya "wikilink")「PVとは認めたくない」と発言されるなど、評判は良くない。サブアングルは、ドームツアー「TOUR 2000 REAL」のライブ映像やレコーディングの模様を中心に構成されている。

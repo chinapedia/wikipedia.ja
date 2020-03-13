@@ -1,15 +1,15 @@
 > この記事は[Mot.Com](https://ja.wikipedia.org/wiki/Mot.Com)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/ファイル:Mot.com_Motomiya.jpg "wikilink") **株式会社Mot.Comもとみや**（もっとこむもとみや）は、[福島県](../Page/福島県.md "wikilink")[本宮市](../Page/本宮市.md "wikilink")、[安達郡](../Page/安達郡.md "wikilink")[大玉村](https://ja.wikipedia.org/wiki/大玉村 "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。**FM Mot.com**の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。
+[right](https://ja.wikipedia.org/wiki/ファイル:Mot.com_Motomiya.jpg "wikilink") **株式会社Mot.Comもとみや**（もっとこむもとみや）は、[福島県](../Page/福島県.md "wikilink")[本宮市](../Page/本宮市.md "wikilink")、[安達郡](../Page/安達郡.md "wikilink")[大玉村](../Page/大玉村.md "wikilink")の各一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")）をする[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。**FM Mot.com**の愛称で[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")をしている。
 
 ## 概要
 
-2006年（平成18年）12月20日開局。開局時点では[本宮町の](https://ja.wikipedia.org/wiki/本宮町_\(福島県\) "wikilink")[白沢村との合併前であり](https://ja.wikipedia.org/wiki/白沢村_\(福島県\) "wikilink")、12日間だけであるが[福島県](../Page/福島県.md "wikilink")では初めての[町](../Page/町.md "wikilink")に所在するラジオ局であった。2007年（平成19年）1月1日に、両町村は合併し本宮市となった。
+2006年（平成18年）12月20日開局。開局時点では[本宮町の](../Page/本宮町_\(福島県\).md "wikilink")[白沢村との合併前であり](../Page/白沢村_\(福島県\).md "wikilink")、12日間だけであるが[福島県](../Page/福島県.md "wikilink")では初めての[町](../Page/町.md "wikilink")に所在するラジオ局であった。2007年（平成19年）1月1日に、両町村は合併し本宮市となった。
 
 可聴範囲は半径約10km、放送エリアはおおむね大玉村、本宮市、二本松市、郡山市の地域\[1\]。
 
-[サイマルラジオおよび](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")[リッスンラジオでネット配信をしている](https://ja.wikipedia.org/wiki/ListenRadio "wikilink")。
+[サイマルラジオおよび](../Page/SimulRadio.md "wikilink")[リッスンラジオでネット配信をしている](https://ja.wikipedia.org/wiki/ListenRadio "wikilink")。
 
   - 沿革
 
@@ -19,7 +19,7 @@
 
 2006年（平成18年）
 
-  - 8月10日　放送局（現[特定地上基幹放送局](https://ja.wikipedia.org/wiki/特定地上基幹放送局 "wikilink")）の[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")取得
+  - 8月10日　放送局（現[特定地上基幹放送局](https://ja.wikipedia.org/wiki/特定地上基幹放送局 "wikilink")）の[予備免許](../Page/予備免許.md "wikilink")取得
   - 12月5日　放送局の免許取得
   - 12月20日　開局
 
@@ -37,7 +37,7 @@
 
 ## 内容
 
-  - 地域番組と[ミュージックバード](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")の再送出をあわせた番組構成
+  - 地域番組と[ミュージックバード](../Page/ミュージックバード.md "wikilink")の再送出をあわせた番組構成
   - 放送時間：6:00 - 25:00
 
 ## 自社制作番組

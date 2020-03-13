@@ -7,7 +7,7 @@
 
 2004年[7月30日](../Page/7月30日.md "wikilink")、[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")内ラグーンで行った『[GLAY EXPO 2004 THE FRUSTRATED 前夜祭](../Page/GLAY_EXPO.md "wikilink")』と31日の『[GLAY EXPO 2004 in UNIVERSAL STUDIOS JAPAN™ “THE FRUSTRATED”](../Page/GLAY_EXPO.md "wikilink")』の模様を収録した3枚組。
 
-メンバーのインタビューや監督[篠原哲雄](https://ja.wikipedia.org/wiki/篠原哲雄 "wikilink")によるショートムービーがライブ映像に織りまぜて収録されている。タレントの[はるの](https://ja.wikipedia.org/wiki/はるの "wikilink")をメインに男女の恋物語を描いている。
+メンバーのインタビューや監督[篠原哲雄](../Page/篠原哲雄.md "wikilink")によるショートムービーがライブ映像に織りまぜて収録されている。タレントの[はるの](https://ja.wikipedia.org/wiki/はるの "wikilink")をメインに男女の恋物語を描いている。
 
 DISC 3には、メンバーによるEXPO館の紹介やオープニングムービー等の特典映像を収録。
 

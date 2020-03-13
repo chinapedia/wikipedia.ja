@@ -5,11 +5,11 @@
 
 ## 解説
 
-前作『[FAIRY TALE](../Page/FAIRY_TALE.md "wikilink")』より約9ヶ月ぶりのリリースとなった。デビュー以来4作連続で[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録。
+前作『[FAIRY TALE](../Page/FAIRY_TALE.md "wikilink")』より約9ヶ月ぶりのリリースとなった。デビュー以来4作連続で[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を記録。
 
 全11曲のうちアルバム曲は5曲。このうち「Tonight, I feel close to you」は[孫燕姿](../Page/孫燕姿.md "wikilink")とデュエットした楽曲。「If I Believe」「SAME」「Just A Little Bit」の歌詞は歌詞カードに直筆で掲載されている。
 
-「If I Believe」「SAME」はアルバム曲としては珍しくフルサイズの[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が制作され、クリップ集『[My Reflection](https://ja.wikipedia.org/wiki/My_Reflection "wikilink")』でどちらも視聴可能である。
+「If I Believe」「SAME」はアルバム曲としては珍しくフルサイズの[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作され、クリップ集『[My Reflection](https://ja.wikipedia.org/wiki/My_Reflection "wikilink")』でどちらも視聴可能である。
 
 ## 収録曲
 
@@ -24,12 +24,12 @@
       -
         15thシングル。映画『[名探偵コナン 迷宮の十字路](../Page/名探偵コナン_迷宮の十字路.md "wikilink")』主題歌。映画で使用されたバージョンで収録されている。
 3.  **[風のららら](../Page/風のららら.md "wikilink")** – 4:22
-      - 作詞：倉木麻衣、作曲：[春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")、編曲：Cybersound
+      - 作詞：倉木麻衣、作曲：[春畑道哉](../Page/春畑道哉.md "wikilink")、編曲：Cybersound
     <!-- end list -->
       -
         17thシングル。アニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン "wikilink")』オープニング・テーマ。
 4.  **[Kiss](../Page/Kiss_\(倉木麻衣の曲\).md "wikilink")** – 4:37
-      - 作詞：倉木麻衣、作曲：[Yoko B. Stone](https://ja.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")、編曲：Cybersound
+      - 作詞：倉木麻衣、作曲：[Yoko B. Stone](../Page/YOKO_Black._Stone.md "wikilink")、編曲：Cybersound
     <!-- end list -->
       -
         16thシングル。「[シーブリーズ](../Page/シーブリーズ.md "wikilink")」CMソング。
@@ -39,7 +39,7 @@
       -
         日本語で「私の心」\[2\]。倉木が大学の第二外国語として学んだスペイン語が使用されている。
 6.  **[I don't wanna lose you](../Page/Make_my_day_\(倉木麻衣の曲\).md "wikilink")** – 4:06
-      - 作詞：倉木麻衣、作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞：倉木麻衣、作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -
         14thシングル「Make my day」のカップリング曲。アルバム用にミックスされている\[3\]。
@@ -67,7 +67,7 @@
 
 ## 関連項目
 
-  - [2003年の音楽](https://ja.wikipedia.org/wiki/2003年の音楽 "wikilink")
+  - [2003年の音楽](../Page/2003年の音楽.md "wikilink")
   - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")
 
 ## 外部リンク

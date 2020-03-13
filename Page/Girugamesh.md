@@ -86,7 +86,7 @@ GIRU-008（2ndプレス）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004年<a href="../Page/12月25日.md" title="wikilink">12月25日</a>（初回盤）<br />
-<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a>（通常盤）</p></td>
+<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a>（通常盤）</p></td>
 <td><p><strong>【空虚の器】～虚策型円盤～</strong></p></td>
 <td><p>GIRU-009（初回盤）<br />
 GIRU-010（通常盤）</p></td>
@@ -150,7 +150,7 @@ GIRU-010（通常盤）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月22日.md" title="wikilink">3月22日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月22日.md" title="wikilink">3月22日</a></p></td>
 <td><p><strong>迷叫テロリズム</strong></p></td>
 <td><p>GJC-000</p></td>
 <td><ol>
@@ -380,7 +380,7 @@ XNDC-30043（通常盤）</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
 <td><p><strong>【獄-初犯型円盤-】初回限定盤</strong></p></td>
 <td><p>GJPN-001</p></td>
 <td><ol>
@@ -400,7 +400,7 @@ XNDC-30043（通常盤）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a><br />
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a><br />
 <a href="../Page/2007年.md" title="wikilink">2007年</a>5月25日（ヨーロッパ盤）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/13’s_reborn" title="wikilink">13’s reborn</a></strong></p></td>
 <td><p>XNDC-10104/B（初回限定盤）<br />
@@ -539,7 +539,7 @@ XNDC-10039（通常盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/12月16日.md" title="wikilink">12月16日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/NOW_(girugameshのアルバム)" title="wikilink">NOW</a></strong></p></td>
+<td><p><strong><a href="../Page/NOW_(girugameshのアルバム).md" title="wikilink">NOW</a></strong></p></td>
 <td><p>XNDC-10046/B（スーパー初回限定盤）<br />
 XNDC-10047/B（初回限定盤）<br />
 XNDC-10048（通常盤）</p></td>

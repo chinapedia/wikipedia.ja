@@ -5,9 +5,9 @@
 
 ## 概要
 
-番組タイトルにある「**さで**」とは[山口弁](https://ja.wikipedia.org/wiki/山口弁 "wikilink")で「**思いっきり**」といった意味を持つ[副詞](../Page/副詞.md "wikilink")（「**さで投げる**」のように用いる）で、「**思い切りリクエスト曲をぶちこんでほしい**」という思いと「**リスナーとのコミュニケーションをとっていきたい**」という意味合いの掛け合わせが番組タイトルの由来。FAXやメールだけでなく電話でのリクエストも受け付けた。
+番組タイトルにある「**さで**」とは[山口弁](../Page/山口弁.md "wikilink")で「**思いっきり**」といった意味を持つ[副詞](../Page/副詞.md "wikilink")（「**さで投げる**」のように用いる）で、「**思い切りリクエスト曲をぶちこんでほしい**」という思いと「**リスナーとのコミュニケーションをとっていきたい**」という意味合いの掛け合わせが番組タイトルの由来。FAXやメールだけでなく電話でのリクエストも受け付けた。
 
-パーソナリティーは公募により選ばれたが、中にはそのまま[ローカルタレント](https://ja.wikipedia.org/wiki/ローカルタレント "wikilink")に転身した者や、現在もFM山口の別番組でパーソナリティーを務める者もいる。
+パーソナリティーは公募により選ばれたが、中にはそのまま[ローカルタレント](../Page/ローカルタレント.md "wikilink")に転身した者や、現在もFM山口の別番組でパーソナリティーを務める者もいる。
 
 本番組終了後も、19時台は17時台からの生ワイド番組「[paradise radio](https://ja.wikipedia.org/wiki/paradise_radio "wikilink")」に内包される形でリクエストプログラムが引き継がれるが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月の「paradise radio」終了後は[JFNCネット枠に移行している](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")。
 
@@ -23,8 +23,8 @@
 
 <!-- end list -->
 
-  - 月曜日：立石三恵子（ミーコ）→のちにエフエム山口に契約アナウンサーとして入社、「[Friday Super Freak](../Page/フライデー・スーパー・フリーク.md "wikilink")」「[DELICIOUS FRIDAY](https://ja.wikipedia.org/wiki/デリシャス・フライデー "wikilink")・[Morning Kiss](../Page/Morning_Kiss_\(FMY\).md "wikilink")」「DELICIOUS FRIDAY・[Heart Beat Basket](https://ja.wikipedia.org/wiki/Heart_Beat_Basket "wikilink")」などを担当。結婚のため退職。
-  - 火曜日：有井美穂子→現在は[しゅうなんFMのパーソナリティとして活動](https://ja.wikipedia.org/wiki/エフエム周南 "wikilink")
+  - 月曜日：立石三恵子（ミーコ）→のちにエフエム山口に契約アナウンサーとして入社、「[Friday Super Freak](../Page/フライデー・スーパー・フリーク.md "wikilink")」「[DELICIOUS FRIDAY](../Page/デリシャス・フライデー.md "wikilink")・[Morning Kiss](../Page/Morning_Kiss_\(FMY\).md "wikilink")」「DELICIOUS FRIDAY・[Heart Beat Basket](https://ja.wikipedia.org/wiki/Heart_Beat_Basket "wikilink")」などを担当。結婚のため退職。
+  - 火曜日：有井美穂子→現在は[しゅうなんFMのパーソナリティとして活動](../Page/エフエム周南.md "wikilink")
   - 水曜日：[沖永優子](../Page/沖永優子.md "wikilink")（おっきー）→ローカルタレントに転身、現在もエフエム山口や[テレビ山口](../Page/テレビ山口.md "wikilink")などで活動中。
   - 木曜日：[津山奈穂子](https://ja.wikipedia.org/wiki/津山奈穂子 "wikilink")→ローカルタレントに転身、[山口朝日放送](../Page/山口朝日放送.md "wikilink")や[山口ケーブルビジョン](../Page/山口ケーブルビジョン.md "wikilink")などで活動。山口特産の新野菜・[はなっこりー](https://ja.wikipedia.org/wiki/はなっこりー "wikilink")のPRソング「はなっこりーの歌」の作詞・歌を手がけたという一面も。
 

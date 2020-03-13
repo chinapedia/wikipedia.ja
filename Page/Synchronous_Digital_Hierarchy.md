@@ -1,7 +1,7 @@
 > この記事は[Synchronous Digital Hierarchy](https://ja.wikipedia.org/wiki/Synchronous_Digital_Hierarchy)から翻訳されています。
 
 
-**同期デジタル・ハイアラーキ**（[英語](../Page/英語.md "wikilink")：synchronous digital hierarchy、略称：**SDH**）は、地域によって異なっていた[プレシオクロナス・デジタル・ハイアラーキ](../Page/Plesiochronous_Digital_Hierarchy.md "wikilink")（plesiochronous digital hierarchy、PDH）を世界的に統一する目的で、[1988年](../Page/1988年.md "wikilink")に[ITU-T](../Page/ITU-T.md "wikilink")が制定\[1\]した。[同期網の構成である](https://ja.wikipedia.org/wiki/同期方式 "wikilink")。Bellcore社によって提案され[ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink")（米国規格協会）で規格化された[SONET](https://ja.wikipedia.org/wiki/Synchronous_Optical_Network "wikilink")（Synchronous Optical NETwork）を元にしているため、SONET/SDHとも表記される。SONETとSDHは、伝送速度系列が違うなどいくつかの相違点がある。
+**同期デジタル・ハイアラーキ**（[英語](../Page/英語.md "wikilink")：synchronous digital hierarchy、略称：**SDH**）は、地域によって異なっていた[プレシオクロナス・デジタル・ハイアラーキ](../Page/Plesiochronous_Digital_Hierarchy.md "wikilink")（plesiochronous digital hierarchy、PDH）を世界的に統一する目的で、[1988年](../Page/1988年.md "wikilink")に[ITU-T](../Page/ITU-T.md "wikilink")が制定\[1\]した。[同期網の構成である](../Page/同期方式.md "wikilink")。Bellcore社によって提案され[ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink")（米国規格協会）で規格化された[SONET](https://ja.wikipedia.org/wiki/Synchronous_Optical_Network "wikilink")（Synchronous Optical NETwork）を元にしているため、SONET/SDHとも表記される。SONETとSDHは、伝送速度系列が違うなどいくつかの相違点がある。
 
 ## 特徴
 

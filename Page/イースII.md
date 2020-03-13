@@ -9,11 +9,11 @@
 
 赤毛の剣士**アドル・クリスティン**が主人公の冒険ファンタジー。『I』のエンディングで飛ばされた**天空のイース**を舞台に、**古代王国イース**の謎に迫る。[原典とされるアドルの冒険日誌は](https://ja.wikipedia.org/wiki/イースシリーズ#冒険日誌 "wikilink")『**Ancient Ys Vanished The Final Chapter**』（**失われし古代王国 最終章**）であり、販売タイトルに含まれてはいないものの副題としてタイトル画面で表示される。『Ancient Ys Vanished Omen』（失われし古代王国 序章）である『I』とは前後編の関係で、『I』で張られた様々な伏線が解き明かされる。『I』をプレイしていることが前提となっているため、『II』だけをプレイしても物語の全容はわからない。
 
-『I』の「今、RPGは優しさの時代へ。」を踏まえた「**優しさから、感動へ。**」を[キャッチコピー](../Page/キャッチコピー.md "wikilink")に、[PC-8801](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink") (PC88) 向けをオリジナルとして[1988年](../Page/1988年.md "wikilink")に発売。[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[家庭用ゲーム機を問わず多くの](../Page/ゲーム機.md "wikilink")[プラットフォームへと](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")[移植がなされている](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")。
+『I』の「今、RPGは優しさの時代へ。」を踏まえた「**優しさから、感動へ。**」を[キャッチコピー](../Page/キャッチコピー.md "wikilink")に、[PC-8801](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink") (PC88) 向けをオリジナルとして[1988年](../Page/1988年.md "wikilink")に発売。[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[家庭用ゲーム機を問わず多くの](../Page/ゲーム機.md "wikilink")[プラットフォームへと](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")[移植がなされている](../Page/移植_\(ソフトウェア\).md "wikilink")。
 
-1998年にはファルコム自ら[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")を行なった『**イースIIエターナル** (IIE)』を発売（詳細は[\#イースエターナル・イースI完全版](https://ja.wikipedia.org/wiki/#イースエターナル・イースI完全版 "wikilink")を参照）。以降の移植作品はこの『IIE』をベースとして行なわれている。
+1998年にはファルコム自ら[リメイク](../Page/リメイク.md "wikilink")を行なった『**イースIIエターナル** (IIE)』を発売（詳細は[\#イースエターナル・イースI完全版](https://ja.wikipedia.org/wiki/#イースエターナル・イースI完全版 "wikilink")を参照）。以降の移植作品はこの『IIE』をベースとして行なわれている。
 
-イースIIの[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")“リリア”の[イメージガールを決める](https://ja.wikipedia.org/wiki/キャンペーンガール "wikilink")『[ミス・リリア・コンテスト](https://ja.wikipedia.org/wiki/ミス・リリア・コンテスト "wikilink")』などの[メディアミックス](../Page/メディアミックス.md "wikilink")も盛んに行われ、[OVA](../Page/OVA.md "wikilink")化、[小説化](../Page/小説化.md "wikilink")、[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")などもなされている。
+イースIIの[ヒロイン](../Page/ヒロイン.md "wikilink")“リリア”の[イメージガールを決める](../Page/キャンペーンガール.md "wikilink")『[ミス・リリア・コンテスト](https://ja.wikipedia.org/wiki/ミス・リリア・コンテスト "wikilink")』などの[メディアミックス](../Page/メディアミックス.md "wikilink")も盛んに行われ、[OVA](../Page/OVA.md "wikilink")化、[小説化](../Page/小説化.md "wikilink")、[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")などもなされている。
 
 ## 開発スタッフ
 
@@ -25,7 +25,7 @@
   - アートディレクター：桶谷正剛
   - グラフィックスデザイン：大浦孝浩・[都築和彦](https://ja.wikipedia.org/wiki/都築和彦 "wikilink")・[山根ともお](https://ja.wikipedia.org/wiki/山根ともお "wikilink")
   - モンスターデザイン：[古代彩乃](../Page/古代彩乃.md "wikilink")
-  - ミュージック：[石川三恵子](https://ja.wikipedia.org/wiki/石川三恵子 "wikilink")・[古代祐三](../Page/古代祐三.md "wikilink")・[永田英哉](../Page/永田英哉.md "wikilink")
+  - ミュージック：[石川三恵子](../Page/石川三恵子.md "wikilink")・[古代祐三](../Page/古代祐三.md "wikilink")・[永田英哉](../Page/永田英哉.md "wikilink")
   - グラフィック：[山根ともお](https://ja.wikipedia.org/wiki/山根ともお "wikilink")
   - プロデューサー：加藤正幸
 
@@ -189,7 +189,7 @@
   - [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版
     タイトルは『**イースII DS**』。Win版をベースとしているが、「体当たり攻撃」を廃止して「剣を振る」操作が追加されている。またマップを3D化しており、ノルティア氷壁やサルモン神殿などの広大なマップエリアでは画面の切り替えがWin版より多く生じている。DSの機能を利用したタッチペンでの操作や、ワイヤレス通信機能を使った最大4人までの通信対戦を行うことが可能となった。
     2008年4月18日に、『I』をセットにして「イースDS／イースII DS SPECIAL BOX」がセブンドリーム・ドットコム限定で発売された。全28曲を収録したオリジナル・サウンドトラックCDをセットにしている。
-  - [PSP版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")
+  - [PSP版](../Page/PlayStation_Portable.md "wikilink")
     タイトルは『**イースI\&IIクロニクルズ**』であり、『I』と一本にまとめられている。Winからのベタ移植。キャラクターグラフィックをWin版と新規描き下ろしとから選択可能。またBGMが3モードから切替可能となっている。詳しくは『[イースI・II\#イースI\&IIクロニクルズ](https://ja.wikipedia.org/wiki/イースI・II#イースI&IIクロニクルズ "wikilink")』を参照。
 
 ## イースIIエターナル・イースII完全版
@@ -274,7 +274,7 @@
 
 ## メディアミックス
 
-[OVA](../Page/OVA.md "wikilink")、[CD等の音楽メディア](../Page/コンパクトディスク.md "wikilink")、[小説](../Page/小説.md "wikilink")、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")、[ゲームブック](https://ja.wikipedia.org/wiki/ゲームブック "wikilink")、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")と、『I』と並びシリーズ内でも特に広く[メディアミックス](../Page/メディアミックス.md "wikilink")が行われている。物語の連続性から『I』とまとめられている物も多い。
+[OVA](../Page/OVA.md "wikilink")、[CD等の音楽メディア](../Page/コンパクトディスク.md "wikilink")、[小説](../Page/小説.md "wikilink")、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")、[ゲームブック](../Page/ゲームブック.md "wikilink")、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")と、『I』と並びシリーズ内でも特に広く[メディアミックス](../Page/メディアミックス.md "wikilink")が行われている。物語の連続性から『I』とまとめられている物も多い。
 
 ### OVA
 

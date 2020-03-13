@@ -18,29 +18,29 @@
   - スロットバック () - [アメリカンフットボールのポジション](../Page/アメリカンフットボールのポジション.md "wikilink")
   - [南](https://ja.wikipedia.org/wiki/南 "wikilink")行き ()
   - [理学学士](https://ja.wikipedia.org/wiki/理学学士 "wikilink") ()
-  - [サンドブラスト](https://ja.wikipedia.org/wiki/サンドブラスト "wikilink") () - 表面加工・洗浄法。
-  - [サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink") ()
+  - [サンドブラスト](../Page/サンドブラスト.md "wikilink") () - 表面加工・洗浄法。
+  - [サイマル放送](../Page/サイマル放送.md "wikilink") ()
   - [二分脊椎症](../Page/二分脊椎症.md "wikilink") ()
-  - [棒渦巻銀河](https://ja.wikipedia.org/wiki/棒渦巻銀河 "wikilink") () の[ハッブル符号](../Page/ハッブル分類.md "wikilink")。
+  - [棒渦巻銀河](../Page/棒渦巻銀河.md "wikilink") () の[ハッブル符号](../Page/ハッブル分類.md "wikilink")。
   - シューズボックス - 間取図などで[下駄箱](../Page/下駄箱.md "wikilink")を表す記号。
 
 ### 固有名詞
 
   - 地理
       - [ソロモン諸島](../Page/ソロモン諸島.md "wikilink") () の[ISO国名コード](https://ja.wikipedia.org/wiki/ISO国名コード "wikilink")。
-      - [サンピエール島・ミクロン島](https://ja.wikipedia.org/wiki/サンピエール島・ミクロン島 "wikilink") () の [FIPS](https://ja.wikipedia.org/wiki/FIPS "wikilink") PUB 10-4 国名コード。
+      - [サンピエール島・ミクロン島](../Page/サンピエール島・ミクロン島.md "wikilink") () の [FIPS](https://ja.wikipedia.org/wiki/FIPS "wikilink") PUB 10-4 国名コード。
       - [南ブリテン](https://ja.wikipedia.org/wiki/南ブリテン "wikilink") ()
   - 企業
-      - [エスビー食品](https://ja.wikipedia.org/wiki/エスビー食品 "wikilink") (S\&B)
+      - [エスビー食品](../Page/エスビー食品.md "wikilink") (S\&B)
       - [ソフトバンクグループ](../Page/ソフトバンクグループ.md "wikilink") ()
           - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")
           - [福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
           - [SoftBank (携帯電話)](../Page/SoftBank_\(携帯電話\).md "wikilink")
       - [西武鉄道](../Page/西武鉄道.md "wikilink") () の[パスネット](https://ja.wikipedia.org/wiki/パスネット "wikilink")での略号。
       - [泉北高速鉄道](../Page/泉北高速鉄道.md "wikilink")の[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink") () カード印字記号、及び駅番号。
-      - [エア・カレドニア・インターナショナル](https://ja.wikipedia.org/wiki/エア・カレドニア・インターナショナル "wikilink") - ニューカレドニアの航空会社。[IATA](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink"): SB。
+      - [エア・カレドニア・インターナショナル](../Page/エア・カレドニア・インターナショナル.md "wikilink") - ニューカレドニアの航空会社。[IATA](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink"): SB。
   - 製品
-      - [Sound Blaster](../Page/Sound_Blaster.md "wikilink") - [クリエイティブテクノロジー](https://ja.wikipedia.org/wiki/クリエイティブテクノロジー "wikilink")社のPC用サウンドカード。
+      - [Sound Blaster](../Page/Sound_Blaster.md "wikilink") - [クリエイティブテクノロジー](../Page/クリエイティブテクノロジー.md "wikilink")社のPC用サウンドカード。
       - [ソングバード (英語教材)](https://ja.wikipedia.org/wiki/ソングバード_\(英語教材\) "wikilink") () - [ラボ・パーティ](https://ja.wikipedia.org/wiki/ラボ・パーティ "wikilink")の中心的活動の1つ。
       - [SB (航空機)](https://ja.wikipedia.org/wiki/SB_\(航空機\) "wikilink") - 第二次世界大戦期のソビエト連邦の爆撃機。
       - [シーブリーズ](../Page/シーブリーズ.md "wikilink") () - アメリカの化粧品ブランド。
@@ -71,4 +71,4 @@
 
   - [片前](https://ja.wikipedia.org/wiki/片前 "wikilink") () - 上着の前ボタンが1列であること。
 
-  - \- [英語](../Page/英語.md "wikilink")の複合[不定代名詞](https://ja.wikipedia.org/wiki/不定代名詞 "wikilink")「誰か」。
+  - \- [英語](../Page/英語.md "wikilink")の複合[不定代名詞](../Page/不定代名詞.md "wikilink")「誰か」。

@@ -1,7 +1,7 @@
 > この記事は[Plesiochronous Digital Hierarchy](https://ja.wikipedia.org/wiki/Plesiochronous_Digital_Hierarchy)から翻訳されています。
 
 
-**プレシオクロナス・デジタル・ハイアラーキ**（[英語](../Page/英語.md "wikilink")：plesiochronous digital hierarchy、略称：**PDH**）は、[同期デジタル・ハイアラーキ](https://ja.wikipedia.org/wiki/Synchronous_Digital_Hierarchy "wikilink")（synchronous digital hierarchy、SDH）によって統一される前の、地域によって異なっていた[同期網の構成である](https://ja.wikipedia.org/wiki/同期方式 "wikilink")。チャネルを段階を踏んで[多重化](../Page/多重化.md "wikilink")するためハイアラーキと呼ばれる。
+**プレシオクロナス・デジタル・ハイアラーキ**（[英語](../Page/英語.md "wikilink")：plesiochronous digital hierarchy、略称：**PDH**）は、[同期デジタル・ハイアラーキ](../Page/Synchronous_Digital_Hierarchy.md "wikilink")（synchronous digital hierarchy、SDH）によって統一される前の、地域によって異なっていた[同期網の構成である](../Page/同期方式.md "wikilink")。チャネルを段階を踏んで[多重化](../Page/多重化.md "wikilink")するためハイアラーキと呼ばれる。
 
 ## 日本のPDH
 
@@ -36,6 +36,6 @@
 
 ## 関連項目
 
-  - [Synchronous Digital Hierarchy](https://ja.wikipedia.org/wiki/Synchronous_Digital_Hierarchy "wikilink")
+  - [Synchronous Digital Hierarchy](../Page/Synchronous_Digital_Hierarchy.md "wikilink")
 
 [Category:通信プロトコル](https://ja.wikipedia.org/wiki/Category:通信プロトコル "wikilink") [Category:光有線通信](https://ja.wikipedia.org/wiki/Category:光有線通信 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

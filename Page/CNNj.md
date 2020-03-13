@@ -1,20 +1,20 @@
 > この記事は[CNNj](https://ja.wikipedia.org/wiki/CNNj)から翻訳されています。
 
 
-**CNNj**（シーエヌエヌジェイ）は、[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")・[スカパー\!（東経110度CS放送）や](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")で視聴できる、[ニュース](../Page/ニュース.md "wikilink")の[CS放送](../Page/衛星放送.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")である。日本向けに[CNNインターナショナル](https://ja.wikipedia.org/wiki/CNNインターナショナル "wikilink")・[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")の放送を行なっている。
+**CNNj**（シーエヌエヌジェイ）は、[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")・[スカパー\!（東経110度CS放送）や](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")で視聴できる、[ニュース](../Page/ニュース.md "wikilink")の[CS放送](../Page/衛星放送.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")である。日本向けに[CNNインターナショナル](../Page/CNNインターナショナル.md "wikilink")・[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")の放送を行なっている。
 
 ## 概要
 
-  - [2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")・[タイム・ワーナー傘下の](https://ja.wikipedia.org/wiki/ワーナーメディア "wikilink")24時間ニュース専門放送局・[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")の日本向けチャンネルとして開局した。日本側で運営するのは、それまで[CNNインターナショナル](https://ja.wikipedia.org/wiki/CNNインターナショナル "wikilink")を日本市場向けに配信していた[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の[委託放送事業者](../Page/委託放送事業者.md "wikilink")・[日本ケーブルテレビジョン](../Page/日本ケーブルテレビジョン.md "wikilink")(JCTV)が引き続き行っている。\[1\]\[2\]
+  - [2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")・[タイム・ワーナー傘下の](../Page/ワーナーメディア.md "wikilink")24時間ニュース専門放送局・[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")の日本向けチャンネルとして開局した。日本側で運営するのは、それまで[CNNインターナショナル](../Page/CNNインターナショナル.md "wikilink")を日本市場向けに配信していた[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の[委託放送事業者](../Page/委託放送事業者.md "wikilink")・[日本ケーブルテレビジョン](../Page/日本ケーブルテレビジョン.md "wikilink")(JCTV)が引き続き行っている。\[1\]\[2\]
   - 「CNNの持つ各ネットワークから日本の視聴者に合った番組をチョイスし、柔軟な番組編成を目指す。」といった趣旨で開局した。この様な混成編成のチャンネルはCNNとしては日本だけである。
-  - 現在は多くの時間帯で、[二ヶ国語放送](https://ja.wikipedia.org/wiki/二ヶ国語放送 "wikilink")を行っている。2016年9月現在、[ボイスオーバー](https://ja.wikipedia.org/wiki/ボイスオーバー "wikilink")形式での日本語同時通訳が入る主音声と、原音のままの副音声が毎日7時から24時の放送が行われている。なお、一部のCNNの番組のコマーシャルを除き、CMは全て英語のままで同時通訳は行われない。\[3\]
+  - 現在は多くの時間帯で、[二ヶ国語放送](https://ja.wikipedia.org/wiki/二ヶ国語放送 "wikilink")を行っている。2016年9月現在、[ボイスオーバー](../Page/ボイスオーバー.md "wikilink")形式での日本語同時通訳が入る主音声と、原音のままの副音声が毎日7時から24時の放送が行われている。なお、一部のCNNの番組のコマーシャルを除き、CMは全て英語のままで同時通訳は行われない。\[3\]
   - 年に1回程度、日本に注目した番組や企画がCNNインターナショナルを中心に放送される。CNNjではこれらを総じてキャンペーンを行っている。\[4\]
 
 ## 歴史
 
 ### 開局以前
 
-  - 1982年から[日本ケーブルテレビジョン](../Page/日本ケーブルテレビジョン.md "wikilink")JCTV が自主製作していた『CNN東京プライム』などの自社制作番組に、17時間30分（自主番組を除く）の放送を開始（主に東京地区限定。関西方面では[ACTV（全関西ケーブルテレビ）が行っていた](https://ja.wikipedia.org/wiki/全関西ケーブルテレビジョン "wikilink")）。[1989年](../Page/1989年.md "wikilink")よりCSで「[CNNインターナショナル](https://ja.wikipedia.org/wiki/CNNインターナショナル "wikilink")（以下、CNNI）」を開始。1995年から24時間放送を開始。
+  - 1982年から[日本ケーブルテレビジョン](../Page/日本ケーブルテレビジョン.md "wikilink")JCTV が自主製作していた『CNN東京プライム』などの自社制作番組に、17時間30分（自主番組を除く）の放送を開始（主に東京地区限定。関西方面では[ACTV（全関西ケーブルテレビ）が行っていた](https://ja.wikipedia.org/wiki/全関西ケーブルテレビジョン "wikilink")）。[1989年](../Page/1989年.md "wikilink")よりCSで「[CNNインターナショナル](../Page/CNNインターナショナル.md "wikilink")（以下、CNNI）」を開始。1995年から24時間放送を開始。
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 
 ### 方針変更
 
-  - 2008年4月からは番組構成が大幅に変更されCNNI中心の編成となり、『アメリカンモーニング』などの多くのCNN USの番組を打ち切った。実際に2008年4月まではCNNIで国際的な緊急ニュースが発生してもCNN USの番組に強制的に切り替わる事や日本に馴染みのないアメリカ国内の緊急ニュースを放映する等が起こっていた。番組編成の変更により、当局の番組構成はCNNIのアジア・太平洋地区の番組構成に殆ど同一に近いものになり、CNN USの番組はCNNIで同時・録画放送されているか、[特番として放送される場合に限られることとなった](https://ja.wikipedia.org/wiki/特別番組 "wikilink")。
+  - 2008年4月からは番組構成が大幅に変更されCNNI中心の編成となり、『アメリカンモーニング』などの多くのCNN USの番組を打ち切った。実際に2008年4月まではCNNIで国際的な緊急ニュースが発生してもCNN USの番組に強制的に切り替わる事や日本に馴染みのないアメリカ国内の緊急ニュースを放映する等が起こっていた。番組編成の変更により、当局の番組構成はCNNIのアジア・太平洋地区の番組構成に殆ど同一に近いものになり、CNN USの番組はCNNIで同時・録画放送されているか、[特番として放送される場合に限られることとなった](../Page/特別番組.md "wikilink")。
 
 <!-- end list -->
 
@@ -72,7 +72,7 @@
 
 <!-- end list -->
 
-  - 同時通訳作業はJCTVのスタジオ内で行われている。なお、原則として同時通訳を使った[音声多重放送](../Page/音声多重放送.md "wikilink")（[2か国語放送](https://ja.wikipedia.org/wiki/2か国語放送 "wikilink")）は日本時間7時から24時の時間帯に行い、深夜の7時間は英語放送のみだが、重大事件や重要なイベントが発生した場合には深夜から早朝の時間帯でも同時通訳を継続する（「[9.11](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")」や、[アメリカ合衆国大統領選挙](../Page/アメリカ合衆国大統領選挙.md "wikilink")の投開票日（現地時間）などで行われたことがある）。
+  - 同時通訳作業はJCTVのスタジオ内で行われている。なお、原則として同時通訳を使った[音声多重放送](../Page/音声多重放送.md "wikilink")（[2か国語放送](../Page/2か国語放送.md "wikilink")）は日本時間7時から24時の時間帯に行い、深夜の7時間は英語放送のみだが、重大事件や重要なイベントが発生した場合には深夜から早朝の時間帯でも同時通訳を継続する（「[9.11](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")」や、[アメリカ合衆国大統領選挙](../Page/アメリカ合衆国大統領選挙.md "wikilink")の投開票日（現地時間）などで行われたことがある）。
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@
 ## CNNの日本での放送
 
   - 日本におけるCNNの放送はCNNjの他に、いくつかの方法がある。
-  - **[NHK BS1](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")**（BS） - [HLN](../Page/HLN.md "wikilink")、[CNNスチューデントニュース](https://ja.wikipedia.org/wiki/CNNスチューデントニュース "wikilink")
+  - **[NHK BS1](../Page/NHK_BS1.md "wikilink")**（BS） - [HLN](../Page/HLN.md "wikilink")、[CNNスチューデントニュース](https://ja.wikipedia.org/wiki/CNNスチューデントニュース "wikilink")
 
 <!-- end list -->
 
@@ -124,7 +124,7 @@
 <!-- end list -->
 
   -
-    2012年10月1日から月曜 - 金曜に『ワールド・ワン(World One)』を[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")していた。2014年7月現在は平日19:00から1時間の間、CNN HDより供給される「ニュー・デイ(NEW DAY) 」を生放送中。その他の時間帯に「トーク・アジア(Talk Asia)」などのニュースショーや情報番組などがCNNjより供給される。（無料放送）。
+    2012年10月1日から月曜 - 金曜に『ワールド・ワン(World One)』を[サイマル放送](../Page/サイマル放送.md "wikilink")していた。2014年7月現在は平日19:00から1時間の間、CNN HDより供給される「ニュー・デイ(NEW DAY) 」を生放送中。その他の時間帯に「トーク・アジア(Talk Asia)」などのニュースショーや情報番組などがCNNjより供給される。（無料放送）。
 
 <!-- end list -->
 
@@ -138,7 +138,7 @@
 
 <!-- end list -->
 
-  - **[テレビ朝日](../Page/テレビ朝日.md "wikilink")/[JCTV](../Page/日本ケーブルテレビジョン.md "wikilink")**(地上波、CS/CATV) - [CNN US (CNN HD)](https://ja.wikipedia.org/wiki/CNN "wikilink")、[CNNI](https://ja.wikipedia.org/wiki/CNNインターナショナル "wikilink")、CNNj
+  - **[テレビ朝日](../Page/テレビ朝日.md "wikilink")/[JCTV](../Page/日本ケーブルテレビジョン.md "wikilink")**(地上波、CS/CATV) - [CNN US (CNN HD)](https://ja.wikipedia.org/wiki/CNN "wikilink")、[CNNI](../Page/CNNインターナショナル.md "wikilink")、CNNj
 
 <!-- end list -->
 
@@ -150,7 +150,7 @@
 
 <!-- end list -->
 
-  - **[Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")**([インターネット動画配信](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")) - CNN US (CNN HD)
+  - **[Hulu](https://ja.wikipedia.org/wiki/Hulu "wikilink")**([インターネット動画配信](../Page/インターネットテレビ.md "wikilink")) - CNN US (CNN HD)
 
 <!-- end list -->
 

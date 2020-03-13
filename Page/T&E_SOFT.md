@@ -1,7 +1,7 @@
 > この記事は[T\&E SOFT](https://ja.wikipedia.org/wiki/T\&E_SOFT)から翻訳されています。
 
 
-**株式会社ティーアンドイーソフト**（*T\&E SOFT Inc.*）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")メーカー。[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")草創期からの老舗ソフトハウスとして知られたが、紆余曲折を経て、[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")の傘下となり、[スパイク・チュンソフト](https://ja.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")第三開発グループ（名古屋オフィス）に再編された。
+**株式会社ティーアンドイーソフト**（*T\&E SOFT Inc.*）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")メーカー。[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")草創期からの老舗ソフトハウスとして知られたが、紆余曲折を経て、[ドワンゴ](../Page/ドワンゴ.md "wikilink")の傘下となり、[スパイク・チュンソフト](https://ja.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")第三開発グループ（名古屋オフィス）に再編された。
 
 ## 概要
 
@@ -11,15 +11,15 @@
 
 社名は創業者である兄の[横山俊朗](https://ja.wikipedia.org/wiki/横山俊朗 "wikilink")と弟の[横山英二](https://ja.wikipedia.org/wiki/横山英二 "wikilink")の名前から付けられたが後に「トライ&エキサイティング」の略称へと変わり、最終的に「テクノロジー&エンターテインメント」の略称へと変わっていった。
 
-[1982年](../Page/1982年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")57年）に[工学社](../Page/工学社.md "wikilink")の[パソコン雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")「[I/O](https://ja.wikipedia.org/wiki/I/O_\(雑誌\) "wikilink")」に[NECのパソコン](../Page/日本電気.md "wikilink")[PC-6001](https://ja.wikipedia.org/wiki/PC-6001 "wikilink")シリーズ向けのゲームのプログラムリストを投稿、掲載し、そのゲームをパッケージ販売することで活動を開始した。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）からはI/O誌でのプログラムリスト公開をやめ、PC-6001以外の多機種展開を始め、2月に発売した [3Dゴルフシミュレーション](https://ja.wikipedia.org/wiki/3Dゴルフシミュレーション "wikilink")がヒット。以後、国産の[8ビットパソコン](../Page/8ビットパソコン.md "wikilink")では、[スターアーサー伝説](https://ja.wikipedia.org/wiki/スターアーサー伝説 "wikilink")シリーズ、[ハイドライドシリーズ](../Page/ハイドライドシリーズ.md "wikilink")、[DAIVA](https://ja.wikipedia.org/wiki/DAIVA "wikilink")などで名を馳せた人気ゲームソフトハウスだった。
+[1982年](../Page/1982年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")57年）に[工学社](../Page/工学社.md "wikilink")の[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")「[I/O](https://ja.wikipedia.org/wiki/I/O_\(雑誌\) "wikilink")」に[NECのパソコン](../Page/日本電気.md "wikilink")[PC-6001](https://ja.wikipedia.org/wiki/PC-6001 "wikilink")シリーズ向けのゲームのプログラムリストを投稿、掲載し、そのゲームをパッケージ販売することで活動を開始した。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）からはI/O誌でのプログラムリスト公開をやめ、PC-6001以外の多機種展開を始め、2月に発売した [3Dゴルフシミュレーション](https://ja.wikipedia.org/wiki/3Dゴルフシミュレーション "wikilink")がヒット。以後、国産の[8ビットパソコン](../Page/8ビットパソコン.md "wikilink")では、[スターアーサー伝説](https://ja.wikipedia.org/wiki/スターアーサー伝説 "wikilink")シリーズ、[ハイドライドシリーズ](../Page/ハイドライドシリーズ.md "wikilink")、[DAIVA](../Page/DAIVA.md "wikilink")などで名を馳せた人気ゲームソフトハウスだった。
 
 [16ビットパソコン](https://ja.wikipedia.org/wiki/16ビットパソコン "wikilink")時代になると、3Dゴルフシミュレーションを引き継いだ[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[11月](../Page/11月.md "wikilink")に発売した[ゴルフ](../Page/ゴルフ.md "wikilink")ゲーム・[遙かなるオーガスタ](../Page/遙かなるオーガスタ.md "wikilink")シリーズが看板作品になる。3D表示システム「POLYSYS（ポリシス）」を使用し、発表当時にこのシステムで「10年は食う」と公言していた。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に経営難の[クリスタルソフト](../Page/クリスタルソフト.md "wikilink")（XTALSOFT）を救済合併し、**T\&E SOFT大阪開発部**を設立。
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）3月に[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")（現[ユニバーサル ミュージック日本法人](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）より発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフト「ハイドライド・スペシャル」の開発で[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")へ参入。1990年（平成2年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト「[地球解放軍ジ・アース](https://ja.wikipedia.org/wiki/地球解放軍ジアース "wikilink")」から自社ブランド販売でのコンシューマ参入を開始した。 [1991年](../Page/1991年.md "wikilink")（平成3年）4月に発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト「NEW 3D GOLF SIMULATION1[遙かなるオーガスタ](../Page/遙かなるオーガスタ.md "wikilink")」がスマッシュヒットしたことから、徐々にパソコンから家庭用ゲーム機へと活動を移行させた。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）3月に[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")（現[ユニバーサル ミュージック日本法人](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）より発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用ソフト「ハイドライド・スペシャル」の開発で[家庭用ゲーム機](https://ja.wikipedia.org/wiki/家庭用ゲーム機 "wikilink")へ参入。1990年（平成2年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト「[地球解放軍ジ・アース](https://ja.wikipedia.org/wiki/地球解放軍ジアース "wikilink")」から自社ブランド販売でのコンシューマ参入を開始した。 [1991年](../Page/1991年.md "wikilink")（平成3年）4月に発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ソフト「NEW 3D GOLF SIMULATION1[遙かなるオーガスタ](../Page/遙かなるオーガスタ.md "wikilink")」がスマッシュヒットしたことから、徐々にパソコンから家庭用ゲーム機へと活動を移行させた。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）に資金難で、横山兄弟の旧知の仲の[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現[スクウェア・エニックス・ホールディングス](https://ja.wikipedia.org/wiki/スクウェア・エニックス・ホールディングス "wikilink")）のオーナー、[宮本雅史が資金援助をする代わりに筆頭株主となり](../Page/宮本雅史_\(投資家\).md "wikilink")、後にスクウェア自身も出資する形で兄弟会社になる。
 
-[2001年](../Page/2001年.md "wikilink")（平成13年）[1月15日](../Page/1月15日.md "wikilink")に**株式会社ティーアンドイーソフト**は[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")と資本・業務提携を行い[2002年](../Page/2002年.md "wikilink")（平成14年）[5月1日](../Page/5月1日.md "wikilink")に**株式会社ディーワンダーランド**となった。同社は現在、ゲーム開発事業を行っていないが、旧コンテンツ制作部が独立した**株式会社ディープ**が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[4月22日](../Page/4月22日.md "wikilink")に**ティーアンドイーソフト**の商標権を取得し、ゲーム開発を継続した。
+[2001年](../Page/2001年.md "wikilink")（平成13年）[1月15日](../Page/1月15日.md "wikilink")に**株式会社ティーアンドイーソフト**は[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")と資本・業務提携を行い[2002年](../Page/2002年.md "wikilink")（平成14年）[5月1日](../Page/5月1日.md "wikilink")に**株式会社ディーワンダーランド**となった。同社は現在、ゲーム開発事業を行っていないが、旧コンテンツ制作部が独立した**株式会社ディープ**が[2005年](../Page/2005年.md "wikilink")（平成17年）[4月22日](../Page/4月22日.md "wikilink")に**ティーアンドイーソフト**の商標権を取得し、ゲーム開発を継続した。
 
 [2019年](../Page/2019年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")、[D4エンタープライズ](../Page/D4エンタープライズ.md "wikilink")は[大黒屋グローバルホールディング](../Page/大黒屋グローバルホールディング.md "wikilink")株式会社が所有していた[ティーアンドイーソフト](https://ja.wikipedia.org/wiki/ティーアンドイーソフト "wikilink")ゲームコンテンツの知的財産権を取得したことを発表した\[1\]。
 
@@ -31,7 +31,7 @@
 
 横山兄弟の兄である**横山俊朗**が[2003年](../Page/2003年.md "wikilink")（平成15年）1月に設立した**[株式会社デジタルゴルフ](https://ja.wikipedia.org/wiki/デジタルゴルフ "wikilink")**が、[2006年](../Page/2006年.md "wikilink")（平成18年）[1月1日](../Page/1月1日.md "wikilink")に**株式会社ディープ**を吸収合併し、名古屋支社を設立。**株式会社デジタルゴルフ**が正式に**ティーアンドイーソフト**のブランド名でゲーム開発をしていた。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月21日](../Page/1月21日.md "wikilink")に名古屋支社の開発部門を**株式会社ティーアンドイーソフト**として分社化し、[1月30日](../Page/1月30日.md "wikilink")に**[株式会社ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")**の子会社[ゲームズアリーナ](https://ja.wikipedia.org/wiki/ゲームズアリーナ "wikilink")が**株式会社ティーアンドイーソフト**の発行済み全株式を取得することを発表、ゲームズアリーナの子会社化（ドワンゴの孫会社化）されることになった\[2\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月21日](../Page/1月21日.md "wikilink")に名古屋支社の開発部門を**株式会社ティーアンドイーソフト**として分社化し、[1月30日](../Page/1月30日.md "wikilink")に**[株式会社ドワンゴ](../Page/ドワンゴ.md "wikilink")**の子会社[ゲームズアリーナ](https://ja.wikipedia.org/wiki/ゲームズアリーナ "wikilink")が**株式会社ティーアンドイーソフト**の発行済み全株式を取得することを発表、ゲームズアリーナの子会社化（ドワンゴの孫会社化）されることになった\[2\]。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）8月にはゲームズアリーナ子会社の[チュンソフト](../Page/チュンソフト.md "wikilink")（現・[スパイク・チュンソフト](https://ja.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")）がティーアンドイーソフト所在地に名古屋オフィスを開設\[3\]\[4\]。あわせて、[内藤時浩](../Page/内藤時浩.md "wikilink")\[5\]や溝邊雄一\[6\]といったスタッフもチュンソフト（2012年4月現在はスパイク・チュンソフト第三開発グループ）所属となった。
 
@@ -57,7 +57,7 @@
   - 2002年（平成14年）7月 - 名古屋市名東区照が丘に**株式会社ディープ**設立。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）1月 - 東京都[港区に](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")**株式会社デジタルゴルフ**設立。
   - 2003年（平成15年）10月 - 本社を東京都[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[東五反田](https://ja.wikipedia.org/wiki/東五反田 "wikilink")に移転。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）4月 - **株式会社ディープ**が**ティーアンドイーソフト**の商標権取得。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）4月 - **株式会社ディープ**が**ティーアンドイーソフト**の商標権取得。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）1月 - **株式会社デジタルゴルフ**が**株式会社ディープ**を吸収合併、名古屋支社を設立。
   - 2006年（平成18年）1月 - **株式会社デジタルゴルフ**が正式に**ティーアンドイーソフト**のブランド名でゲーム開発を開始。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[1月21日](../Page/1月21日.md "wikilink") - **株式会社デジタルゴルフ**名古屋支社の開発部門を**株式会社ティーアンドイーソフト**として分社化。
@@ -103,7 +103,7 @@
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
       - 2月 [レイドック](../Page/レイドック.md "wikilink")
       - 3月 ハイドライド・スペシャル [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")版（東芝EMIより発売）
-      - 12月 [DAIVA](https://ja.wikipedia.org/wiki/DAIVA "wikilink") STORY6 ナーサティアの玉座（東芝EMIより発売）
+      - 12月 [DAIVA](../Page/DAIVA.md "wikilink") STORY6 ナーサティアの玉座（東芝EMIより発売）
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
       - 2月 DAIVA STORY1 ヴリトラの炎
       - 2月 DAIVA STORY2 ドゥルガーの記憶
@@ -184,7 +184,7 @@
       - 11月 ハイドライド1・2・3
   - [2002年](../Page/2002年.md "wikilink")
       - 5月 DISNEY GOLF CLASSICS ディズニーゴルフ クラシック（カプコンより発売）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 2月 スーパーリアルゴルフ（FOMAシリーズ用iアプリ）
       - 11月 [大人のDSゴルフ](../Page/大人のDSゴルフ.md "wikilink")（[任天堂](../Page/任天堂.md "wikilink")より発売）
       - 11月 [ゴルトモ](https://ja.wikipedia.org/wiki/ゴルトモ "wikilink")（デジタルゴルフよりプレサービスを開始し、2006年3月14日にプレサービスを終了）

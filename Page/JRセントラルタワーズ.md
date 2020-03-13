@@ -7,7 +7,7 @@
 
 ## 概要
 
-地上18階建ての低層部と、高さ200 [mを超える](../Page/メートル.md "wikilink")2つのタワーから成る[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")である。建物の高さはオフィス棟（245.1 m・地上51階建て）の方が高いが、階数はホテル棟（226 m・地上53階建て）が多い。竣工時は名古屋市で最も高い建造物であったが、現在は当ビルの南東に位置する[ミッドランドスクエア](../Page/ミッドランドスクエア.md "wikilink")（247 m）にその座を譲っている。晴天時には[岐阜県](../Page/岐阜県.md "wikilink")の岐阜城(金華山)や[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")の[御在所岳](https://ja.wikipedia.org/wiki/御在所岳 "wikilink")などからでもその姿を見ることができ、名古屋の[ランドマーク](../Page/ランドマーク.md "wikilink")として人気スポットになっている。かつては期間限定ではあるものの、名古屋の民放[ラジオ](../Page/ラジオ.md "wikilink")局が共同運営する[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")があった。
+地上18階建ての低層部と、高さ200 [mを超える](../Page/メートル.md "wikilink")2つのタワーから成る[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")である。建物の高さはオフィス棟（245.1 m・地上51階建て）の方が高いが、階数はホテル棟（226 m・地上53階建て）が多い。竣工時は名古屋市で最も高い建造物であったが、現在は当ビルの南東に位置する[ミッドランドスクエア](../Page/ミッドランドスクエア.md "wikilink")（247 m）にその座を譲っている。晴天時には[岐阜県](../Page/岐阜県.md "wikilink")の岐阜城(金華山)や[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")の[御在所岳](../Page/御在所岳.md "wikilink")などからでもその姿を見ることができ、名古屋の[ランドマーク](../Page/ランドマーク.md "wikilink")として人気スポットになっている。かつては期間限定ではあるものの、名古屋の民放[ラジオ](../Page/ラジオ.md "wikilink")局が共同運営する[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")があった。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月23日](../Page/6月23日.md "wikilink")には、[瀬戸デジタルタワー](../Page/瀬戸デジタルタワー.md "wikilink")から送信されている[地上デジタルテレビ放送の難視聴を解消することを目的として](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")、[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")と[テレビ愛知](../Page/テレビ愛知.md "wikilink")がそれぞれ**名駅中継局**を開局した。
 
@@ -48,9 +48,9 @@
 
 [JR_Nagoya_sta06j3872.jpg](https://ja.wikipedia.org/wiki/File:JR_Nagoya_sta06j3872.jpg "fig:JR_Nagoya_sta06j3872.jpg") [JR-Central-Towers-1.jpg](https://ja.wikipedia.org/wiki/File:JR-Central-Towers-1.jpg "fig:JR-Central-Towers-1.jpg") [バブル期に構想され](../Page/バブル景気.md "wikilink")[バブル崩壊](../Page/バブル崩壊.md "wikilink")後に竣工し、一時はその成功が疑問視されたが、竣工後はデパート、オフィス、ホテルとも人気で名古屋の商業中心として[名駅](../Page/名駅.md "wikilink")を[栄と並立する地位に押し上げ](../Page/栄_\(名古屋市\).md "wikilink")、いわゆる「名古屋[摩天楼](https://ja.wikipedia.org/wiki/摩天楼 "wikilink")」の先駆けとなったビルでもある。一部では「[高島屋](../Page/高島屋.md "wikilink")効果」との言い方もあるが、これは地方から一番行きやすい[百貨店](../Page/百貨店.md "wikilink")と[JRが宣伝した影響もある](../Page/東海旅客鉄道.md "wikilink")。
 
-低層階は[ジェイアール名古屋タカシマヤ](../Page/ジェイアール名古屋タカシマヤ.md "wikilink")（一部[東急ハンズ](../Page/東急ハンズ.md "wikilink")）からなる。15階から18階は[名古屋マリオットアソシアホテル](../Page/名古屋マリオットアソシアホテル.md "wikilink")の共用施設とスカイストリートが入居しており、19階以上の高層階はオフィス棟とホテル棟のツイン構造となっている。オフィス棟最上部には展望室があり、[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）本社、[大成建設](https://ja.wikipedia.org/wiki/大成建設 "wikilink")名古屋支店、[三菱商事](../Page/三菱商事.md "wikilink")名古屋支社、株式会社[全日警](../Page/全日警.md "wikilink")名古屋支社など多くの大企業が入っている。ホテル棟には名古屋マリオットアソシアホテルの客室が入り、最上部にはレストランとスカイバンケットがある。51階（最上階）にある展望台「パノラマハウス」は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[10月2日](../Page/10月2日.md "wikilink")にいったん営業を終了した。その後[ジェイアール名古屋タカシマヤ](../Page/ジェイアール名古屋タカシマヤ.md "wikilink")が[エステ](../Page/エステティックサロン.md "wikilink")、[ワインバー](../Page/バー_\(酒場\).md "wikilink")、[カフェなどが連なる](../Page/喫茶店.md "wikilink")「パノラマサロン」として改装し再オープンしている。また、[大名古屋ビルヂング](https://ja.wikipedia.org/wiki/大名古屋ビルヂング "wikilink")の建て替えによる取り壊しに伴い、同ビルにあった大名古屋ビル献血ルームが2011年10月8日にオフィスタワー20階に移転し、新たに「献血ルーム タワーズ20」としてオープンした。
+低層階は[ジェイアール名古屋タカシマヤ](../Page/ジェイアール名古屋タカシマヤ.md "wikilink")（一部[東急ハンズ](../Page/東急ハンズ.md "wikilink")）からなる。15階から18階は[名古屋マリオットアソシアホテル](../Page/名古屋マリオットアソシアホテル.md "wikilink")の共用施設とスカイストリートが入居しており、19階以上の高層階はオフィス棟とホテル棟のツイン構造となっている。オフィス棟最上部には展望室があり、[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）本社、[大成建設](../Page/大成建設.md "wikilink")名古屋支店、[三菱商事](../Page/三菱商事.md "wikilink")名古屋支社、株式会社[全日警](../Page/全日警.md "wikilink")名古屋支社など多くの大企業が入っている。ホテル棟には名古屋マリオットアソシアホテルの客室が入り、最上部にはレストランとスカイバンケットがある。51階（最上階）にある展望台「パノラマハウス」は[2005年](../Page/2005年.md "wikilink")（平成17年）[10月2日](../Page/10月2日.md "wikilink")にいったん営業を終了した。その後[ジェイアール名古屋タカシマヤ](../Page/ジェイアール名古屋タカシマヤ.md "wikilink")が[エステ](../Page/エステティックサロン.md "wikilink")、[ワインバー](../Page/バー_\(酒場\).md "wikilink")、[カフェなどが連なる](../Page/喫茶店.md "wikilink")「パノラマサロン」として改装し再オープンしている。また、[大名古屋ビルヂング](../Page/大名古屋ビルヂング.md "wikilink")の建て替えによる取り壊しに伴い、同ビルにあった大名古屋ビル献血ルームが2011年10月8日にオフィスタワー20階に移転し、新たに「献血ルーム タワーズ20」としてオープンした。
 
-[名古屋中央郵便局旧局舎](../Page/名古屋西郵便局.md "wikilink")（後の、[同局名古屋駅前分室店舗](../Page/名古屋中央郵便局.md "wikilink")）の再開発に伴い、名古屋駅前分室の[ゆうゆう窓口](https://ja.wikipedia.org/wiki/ゆうゆう窓口 "wikilink")・[私書箱](https://ja.wikipedia.org/wiki/私書箱 "wikilink")機能が、同分室から分割される形で当館15階に設置され、同局（現在は、名古屋西局）タワーズ内分室となっていた（2016年10月31日廃止）。なお1階には当ビル竣工時より、タワーズ内郵便局（2015年12月9日まで）が所在していた（現在は、旧名古屋駅前分室の仮店舗跡地に移転し、名古屋柳橋郵便局となっている）。
+[名古屋中央郵便局旧局舎](../Page/名古屋西郵便局.md "wikilink")（後の、[同局名古屋駅前分室店舗](../Page/名古屋中央郵便局.md "wikilink")）の再開発に伴い、名古屋駅前分室の[ゆうゆう窓口](../Page/ゆうゆう窓口.md "wikilink")・[私書箱](../Page/私書箱.md "wikilink")機能が、同分室から分割される形で当館15階に設置され、同局（現在は、名古屋西局）タワーズ内分室となっていた（2016年10月31日廃止）。なお1階には当ビル竣工時より、タワーズ内郵便局（2015年12月9日まで）が所在していた（現在は、旧名古屋駅前分室の仮店舗跡地に移転し、名古屋柳橋郵便局となっている）。
 
 オフィスタワーに割り当てられている固有の[郵便番号](../Page/郵便番号.md "wikilink")は450-60xx（xxは階層。地下・階層不明の場合は450-6090）。オフィス高層用エレベータ・パノラマサロン直通エレベータ（どちらも[三菱電機](../Page/三菱電機.md "wikilink")製)は最高分速360mであり、中部一の速度である（現在は[ミッドランドスクエア](../Page/ミッドランドスクエア.md "wikilink")や[名古屋ルーセントタワー](../Page/名古屋ルーセントタワー.md "wikilink")にも同じ速さのエレベータがある）。テナント料の関係上オフィスを撤退する企業も少なくはない。しかし同時に入居する企業もあるので、名古屋の経済状況をあらわすひとつの例としても考えられている。
 
@@ -62,7 +62,7 @@
 
 ## ライツプロムナード
 
-[サムネイル](https://ja.wikipedia.org/wiki/画像:JR_Central_Towers_in_Towers-Lights2007_01.JPG "wikilink") 開業した2000年以降、毎年[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")を含む[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")には「タワーズライツ」と呼ばれるビルの壁面を利用したイルミネーションを行っていた。[2003年](../Page/2003年.md "wikilink")までは[神戸ルミナリエ](https://ja.wikipedia.org/wiki/神戸ルミナリエ "wikilink")に似たデザインだったが、[2004年](../Page/2004年.md "wikilink")にデザインを大幅に変更した。以後も徐々にデザインを変えていき、末期は白色LEDを多用したシンプルなデザインとなっていた。
+[サムネイル](https://ja.wikipedia.org/wiki/画像:JR_Central_Towers_in_Towers-Lights2007_01.JPG "wikilink") 開業した2000年以降、毎年[クリスマス](../Page/クリスマス.md "wikilink")を含む[年末年始](../Page/年末年始.md "wikilink")には「タワーズライツ」と呼ばれるビルの壁面を利用したイルミネーションを行っていた。[2003年](../Page/2003年.md "wikilink")までは[神戸ルミナリエ](../Page/神戸ルミナリエ.md "wikilink")に似たデザインだったが、[2004年](../Page/2004年.md "wikilink")にデザインを大幅に変更した。以後も徐々にデザインを変えていき、末期は白色LEDを多用したシンプルなデザインとなっていた。
 
 「ライツプロムナード」と改称された2010年にはタワーズテラスでのイルミネーションのみ実施。壁面装飾を中止した理由として**「名古屋ターミナルビルの建て替え工事でバス停が道路上に移転することに伴い、周辺道路の混雑を回避するため（バスのダイヤの遅れを防ぐため）」**としている（2010年11月14日放送の[スタイルプラス](../Page/スタイルプラス.md "wikilink")より）。
 
@@ -86,7 +86,7 @@
 <th><p><a href="../Page/日本のテレビジョン放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">物理<br />
 チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
@@ -98,7 +98,7 @@
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>NHK名古屋<br />
-<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>49ch</p></td>
 <td><p>300mW</p></td>
 <td><p>3.1W</p></td>
@@ -109,7 +109,7 @@
 <tr class="even">
 <td><p>3</p></td>
 <td><p>NHK名古屋<br />
-<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>50ch</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
 <td></td>
@@ -139,14 +139,14 @@
 
 **テレビ愛知**
 
-  - 名古屋市（[西区](../Page/西区_\(名古屋市\).md "wikilink")、中村区、中川区、[港区](../Page/港区_\(名古屋市\).md "wikilink")）、[津島市](../Page/津島市.md "wikilink")、[清須市](https://ja.wikipedia.org/wiki/清須市 "wikilink")、[弥富市](../Page/弥富市.md "wikilink")、[あま市](https://ja.wikipedia.org/wiki/あま市 "wikilink")、[海部郡](../Page/海部郡_\(愛知県\).md "wikilink")[蟹江町](https://ja.wikipedia.org/wiki/蟹江町 "wikilink")及び[飛島村](https://ja.wikipedia.org/wiki/飛島村 "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[木曽岬町](https://ja.wikipedia.org/wiki/木曽岬町 "wikilink")、[桑名市](../Page/桑名市.md "wikilink")、[三重郡](../Page/三重郡.md "wikilink")[朝日町](https://ja.wikipedia.org/wiki/朝日町_\(三重県\) "wikilink")、三重郡[川越町](https://ja.wikipedia.org/wiki/川越町 "wikilink")の沿岸部の各一部、並びに海部郡[大治町](https://ja.wikipedia.org/wiki/大治町 "wikilink")の全域\[14\]。
+  - 名古屋市（[西区](../Page/西区_\(名古屋市\).md "wikilink")、中村区、中川区、[港区](../Page/港区_\(名古屋市\).md "wikilink")）、[津島市](../Page/津島市.md "wikilink")、[清須市](../Page/清須市.md "wikilink")、[弥富市](../Page/弥富市.md "wikilink")、[あま市](https://ja.wikipedia.org/wiki/あま市 "wikilink")、[海部郡](../Page/海部郡_\(愛知県\).md "wikilink")[蟹江町](../Page/蟹江町.md "wikilink")及び[飛島村](../Page/飛島村.md "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[木曽岬町](../Page/木曽岬町.md "wikilink")、[桑名市](../Page/桑名市.md "wikilink")、[三重郡](../Page/三重郡.md "wikilink")[朝日町](../Page/朝日町_\(三重県\).md "wikilink")、三重郡[川越町](../Page/川越町.md "wikilink")の沿岸部の各一部、並びに海部郡[大治町](../Page/大治町.md "wikilink")の全域\[14\]。
 
 ### 歴史
 
 **NHK名古屋（総合・教育）**
 
-  - 2010年[8月5日](../Page/8月5日.md "wikilink")：[予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付
-  - 2010年[8月9日](../Page/8月9日.md "wikilink")：[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始
+  - 2010年[8月5日](../Page/8月5日.md "wikilink")：[予備免許](../Page/予備免許.md "wikilink")交付
+  - 2010年[8月9日](../Page/8月9日.md "wikilink")：[試験放送](../Page/試験放送.md "wikilink")開始
   - 2010年[8月26日](../Page/8月26日.md "wikilink")：免許交付\[15\]
   - 2010年[9月1日](../Page/9月1日.md "wikilink")：放送開始
 
@@ -167,8 +167,8 @@
       - [近鉄名古屋駅](https://ja.wikipedia.org/wiki/近鉄名古屋駅 "wikilink")
   - [名鉄百貨店](../Page/名鉄百貨店.md "wikilink")
   - [松坂屋](../Page/松坂屋.md "wikilink")
-  - 映画『[モスラ3 キングギドラ来襲](https://ja.wikipedia.org/wiki/モスラ3_キングギドラ来襲 "wikilink")』：劇中で[キングギドラ](../Page/キングギドラ.md "wikilink")に破壊される描写がある。
-  - 映画『[小さき勇者たち〜ガメラ〜](https://ja.wikipedia.org/wiki/小さき勇者たち〜ガメラ〜 "wikilink")』：劇中終盤で[ガメラ](https://ja.wikipedia.org/wiki/ガメラ "wikilink")とジーダスの戦いの舞台になり、大規模なロケが行われた。
+  - 映画『[モスラ3 キングギドラ来襲](../Page/モスラ3_キングギドラ来襲.md "wikilink")』：劇中で[キングギドラ](../Page/キングギドラ.md "wikilink")に破壊される描写がある。
+  - 映画『[小さき勇者たち〜ガメラ〜](../Page/小さき勇者たち〜ガメラ〜.md "wikilink")』：劇中終盤で[ガメラ](../Page/ガメラ.md "wikilink")とジーダスの戦いの舞台になり、大規模なロケが行われた。
   - [中日新聞](../Page/中日新聞.md "wikilink") - 題字の字模様にJRセントラルタワーズの絵が描かれている（[静岡県](../Page/静岡県.md "wikilink")版除く）
   - JR東海関連の駅ビル
       - [カルミア](https://ja.wikipedia.org/wiki/カルミア_\(豊橋駅ビル\) "wikilink")
@@ -177,7 +177,7 @@
       - [アントレ](../Page/アントレ_\(駅ビル\).md "wikilink")
       - [キュービックプラザ新横浜](https://ja.wikipedia.org/wiki/キュービックプラザ新横浜 "wikilink")
   - 中部地方で最も高いビル
-      - [アクトシティ浜松](https://ja.wikipedia.org/wiki/アクトシティ浜松 "wikilink")：当ビル完成まで中部地方で最も高いビルであった。
+      - [アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink")：当ビル完成まで中部地方で最も高いビルであった。
       - [ミッドランドスクエア](../Page/ミッドランドスクエア.md "wikilink")：完成により中部地方で最も高いビルの座を同ビルに譲った。
   - [JRゲートタワー](https://ja.wikipedia.org/wiki/JRゲートタワー "wikilink")
 

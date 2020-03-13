@@ -11,7 +11,7 @@
 
 この番組の目的として、1998年4月から2003年9月までは、1974年6月から1998年3月末まで続いていた「オールナイトニッポン（第2部）」からの流れから、おおむね若手パーソナリティの育成を目的にしていた。
 
-1999年3月29日、『[LF+R](https://ja.wikipedia.org/wiki/LF+R "wikilink")』編成がスタートしてからはローマ字表記の『**allnightnippon-r**』へと変更された。しかし、ネット局によっては、直前の『[@llnightnippon.com](https://ja.wikipedia.org/wiki/@llnightnippon.com "wikilink")』につられてか『@llnightnippon-r』と誤記された放送局もあった。その後、『LF+R』終了後の2003年3月をもって『オールナイトニッポンR』と番組名が変更されたが、[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")には「[オールナイトニッポンエバーグリーン](../Page/オールナイトニッポンエバーグリーン.md "wikilink")」開始に伴い、月曜 - 木曜の放送は一時、終了した。その為、2003年10月から「週替わり」として[金曜日](../Page/金曜日.md "wikilink")と[土曜日](../Page/土曜日.md "wikilink")（土曜日は2004年3月までの前番組は「[オールナイトニッポンレコード](https://ja.wikipedia.org/wiki/オールナイトニッポンレコード "wikilink")」）のみが残り、その後も中断期間をはさみながら放送されていたため、いわば、かつての2部の[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")的な要素を持っている。なお、[2006年](../Page/2006年.md "wikilink")4月からは金曜日の週替わりはなくなり、7月から土曜日も週替わりではなくなっていたが、2006年10月から土曜日の週替わりが復活するとともに、放送時間が120分に放送枠が拡大した。ただし、ニッポン放送は[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")でありながら、放送時間は従来と同じ90分となっていた。
+1999年3月29日、『[LF+R](../Page/LF+R.md "wikilink")』編成がスタートしてからはローマ字表記の『**allnightnippon-r**』へと変更された。しかし、ネット局によっては、直前の『[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")』につられてか『@llnightnippon-r』と誤記された放送局もあった。その後、『LF+R』終了後の2003年3月をもって『オールナイトニッポンR』と番組名が変更されたが、[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")には「[オールナイトニッポンエバーグリーン](../Page/オールナイトニッポンエバーグリーン.md "wikilink")」開始に伴い、月曜 - 木曜の放送は一時、終了した。その為、2003年10月から「週替わり」として[金曜日](../Page/金曜日.md "wikilink")と[土曜日](../Page/土曜日.md "wikilink")（土曜日は2004年3月までの前番組は「[オールナイトニッポンレコード](../Page/オールナイトニッポンレコード.md "wikilink")」）のみが残り、その後も中断期間をはさみながら放送されていたため、いわば、かつての2部の[特別番組](../Page/特別番組.md "wikilink")的な要素を持っている。なお、[2006年](../Page/2006年.md "wikilink")4月からは金曜日の週替わりはなくなり、7月から土曜日も週替わりではなくなっていたが、2006年10月から土曜日の週替わりが復活するとともに、放送時間が120分に放送枠が拡大した。ただし、ニッポン放送は[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")でありながら、放送時間は従来と同じ90分となっていた。
 
 なお、2003年3月31日-2004年3月28日の期間のオールナイトニッポン公式サイトである***www.allnightnippon.com***では「オールナイトニッポンR ***スペシャルナイト***」と表記されていたが 、2004年度以降の公式サイトでは「オールナイトニッポンR」だけの表記になっていた。
 
@@ -118,18 +118,18 @@
 ###### 木曜日
 
   - [桃乃未琴](../Page/平岡恵子_\(歌手\).md "wikilink")（[桃乃未琴のオールナイトニッポンR](https://ja.wikipedia.org/wiki/桃乃未琴のオールナイトニッポンR "wikilink")）/1998年4月 - 1998年12月
-  - [TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")/1999年1月 - 1999年3月
+  - [TRICERATOPS](../Page/TRICERATOPS.md "wikilink")/1999年1月 - 1999年3月
       - 1999年3月 - 1999年9月は金曜com（26:30 - 27:00）を担当。
   - [プロデューサーズナイト](https://ja.wikipedia.org/wiki/プロデューサーズナイト "wikilink")（月1回持ち回り制）/1999年3月 - 2000年9月
     1.  [松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")/1999年3月 - 2000年9月
-    2.  [和田薫](https://ja.wikipedia.org/wiki/和田薫_\(芸能事務所社長\) "wikilink")（当時[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")マネージャー、現[ハーモニープロモーション](../Page/ハーモニープロモーション.md "wikilink")代表取締役社長）/1999年3月 - 2000年9月
-    3.  [ヒロ吉田](https://ja.wikipedia.org/wiki/吉田たかよし "wikilink")（[キューンレコード](../Page/キューンミュージック.md "wikilink")）/1999年3月 - 1999年9月
+    2.  [和田薫](../Page/和田薫_\(芸能事務所社長\).md "wikilink")（当時[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")マネージャー、現[ハーモニープロモーション](../Page/ハーモニープロモーション.md "wikilink")代表取締役社長）/1999年3月 - 2000年9月
+    3.  [ヒロ吉田](../Page/吉田たかよし.md "wikilink")（[キューンレコード](../Page/キューンミュージック.md "wikilink")）/1999年3月 - 1999年9月
     4.  [中西建夫](https://ja.wikipedia.org/wiki/中西建夫 "wikilink")（[ディスクガレージ](https://ja.wikipedia.org/wiki/ディスクガレージ "wikilink")）/1999年3月 - 2000年9月
-  - [ビビる](https://ja.wikipedia.org/wiki/ビビる "wikilink")/2000年10月 - 2001年9月
+  - [ビビる](../Page/ビビる.md "wikilink")/2000年10月 - 2001年9月
       - 1999年10月 - 2000年9月は土曜com（26:30 - 27:00）、2001年10月 - 2002年4月は金曜com（25:00 - 27:00）を担当。
       - 大木のみ2005年3月まで（2004年4月 - 9月を除く）は金曜com（25:00 - 27:00）→金曜22:00 - 25:00→水曜1部（25:00 - 27:00）を担当。
-          - 2002年10月 - 2004年3月は堀内とコンビを組み、[堀内健とビビる大木のオールナイトニッポン](https://ja.wikipedia.org/wiki/堀内健とビビる大木のオールナイトニッポン "wikilink")として放送。
-  - [石井和義](https://ja.wikipedia.org/wiki/石井和義 "wikilink")（[正道会館](https://ja.wikipedia.org/wiki/正道会館 "wikilink")の館長）/2001年10月 - 2002年9月
+          - 2002年10月 - 2004年3月は堀内とコンビを組み、[堀内健とビビる大木のオールナイトニッポン](../Page/堀内健とビビる大木のオールナイトニッポン.md "wikilink")として放送。
+  - [石井和義](../Page/石井和義.md "wikilink")（[正道会館](../Page/正道会館.md "wikilink")の館長）/2001年10月 - 2002年9月
   - 芸人魂〜dead or alive〜/2002年10月 - 2003年3月
   - [藤井隆](../Page/藤井隆.md "wikilink")（[藤井隆のオールナイトニッポン](../Page/藤井隆のオールナイトニッポン.md "wikilink")）/2003年4月 - 2003年9月
       - サブタイトルに「アイドル総合研究所」を付けていた。
@@ -150,11 +150,11 @@
       - [いしのだなつよ](../Page/石野田奈津代.md "wikilink")（27:00 - 28:00）/1999年3月 - 2000年9月
       - [FEEL THE BEAT](https://ja.wikipedia.org/wiki/FEEL_THE_BEAT "wikilink")（28:00 - 28:30）/1999年3月 - 1999年9月
           - 火曜日に移動。
-      - [田口理恵](https://ja.wikipedia.org/wiki/田口理恵 "wikilink")（[Say a Little Prayer](https://ja.wikipedia.org/wiki/Say_a_Little_Prayer "wikilink")、28:30 - 29:00）/1999年3月 - 2000年3月
+      - [田口理恵](https://ja.wikipedia.org/wiki/田口理恵 "wikilink")（[Say a Little Prayer](../Page/Say_a_Little_Prayer.md "wikilink")、28:30 - 29:00）/1999年3月 - 2000年3月
       - 夜明けの[ジャンヌダルク](../Page/Janne_Da_Arc.md "wikilink")（28:00 - 28:30）/1999年10月 - 2000年3月
           - 火曜日に移動。
       - [桃乃未琴](../Page/平岡恵子_\(歌手\).md "wikilink")（28:00 - 29:00）/2000年4月 - 2000年9月
-      - [GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")（[GO\!GO\!7188のallnightnippon-r](https://ja.wikipedia.org/wiki/GO!GO!7188のallnightnippon-r "wikilink")）（27:00 - 28:00 → 27:00 - 28:30）/2000年10月 - 2001年9月
+      - [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")（[GO\!GO\!7188のallnightnippon-r](https://ja.wikipedia.org/wiki/GO!GO!7188のallnightnippon-r "wikilink")）（27:00 - 28:00 → 27:00 - 28:30）/2000年10月 - 2001年9月
       - [In the Soup](../Page/In_the_Soup.md "wikilink")（28:00 - 28:30）/2000年10月 - 2001年3月
       - [岸田健作](../Page/岸田健作.md "wikilink")のallnightnippon-r（28:30 - 29:00）/2000年10月 - 2002年3月
       - [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")のallnightnippon-r SparkingChemical（28:00 - 28:30）/2001年4月 - 2001年8月
@@ -188,10 +188,10 @@
       - 荘口彰久 世紀末\!東京道中膝栗毛（28:30 - 29:00）/2000年1月 - 2000年9月
       - [たまそう音楽堂](../Page/たまそう音楽堂.md "wikilink")（27:00 - 28:30）/2000年10月 - 2001年9月
       - [吉田尚記](../Page/吉田尚記.md "wikilink")（28:30 - 29:00）/2000年10月 - 2001年3月
-      - [LF+R](https://ja.wikipedia.org/wiki/LF+R "wikilink") ZERO（28:30 - 29:00）/2001年4月 - 2001年6月
+      - [LF+R](../Page/LF+R.md "wikilink") ZERO（28:30 - 29:00）/2001年4月 - 2001年6月
       - 吉田尚記のLF+Rプロモーターズナイト（28:30 - 29:00）/2001年7月 - 2002年3月
       - [プロデューサーズナイト](https://ja.wikipedia.org/wiki/プロデューサーズナイト "wikilink")（27:00 - 28:30、月1回持ち回り制）/2001年10月 - 2002年3月
-      - [LF+R RECORDスペシャル → オールナイトニッポンレコード](https://ja.wikipedia.org/wiki/オールナイトニッポンレコード "wikilink")（27:00 - 28:30 → 28:30 - 29:00）/2002年4月 - 2006年9月
+      - [LF+R RECORDスペシャル → オールナイトニッポンレコード](../Page/オールナイトニッポンレコード.md "wikilink")（27:00 - 28:30 → 28:30 - 29:00）/2002年4月 - 2006年9月
           - [吉田尚記](../Page/吉田尚記.md "wikilink")/2002年4月 - 2005年9月
           - [冨田のりこ](../Page/冨田憲子.md "wikilink")/2005年10月 - 2006年3月
           - [飯田浩司](../Page/飯田浩司.md "wikilink")/2006年4月 - 2006年9月
@@ -212,7 +212,7 @@
       - 週替わり（オールナイトニッポンR スペシャルナイト、27:00 - 29:00）/2010年1月 - 現在
           - 2010年3月までは芸人が週替わりで担当。
               - 番組宛のメール、HP閲覧数、オールナイトモバイルのダウンロード数により2010年4月からの火曜1部のレギュラーパーソナリティを決定した。
-                1.  [ロッチ](https://ja.wikipedia.org/wiki/ロッチ "wikilink")
+                1.  [ロッチ](../Page/ロッチ.md "wikilink")
                 2.  [フルーツポンチ](../Page/フルーツポンチ_\(お笑いコンビ\).md "wikilink")
                 3.  [平成立川ボーイズのオールナイトニッポンR](https://ja.wikipedia.org/wiki/平成立川ボーイズのオールナイトニッポンR "wikilink")
                 4.  [はんにゃのオールナイトニッポン](https://ja.wikipedia.org/wiki/はんにゃのオールナイトニッポン "wikilink")R
@@ -245,73 +245,73 @@
 
 #### 1999年
 
-| 4月        | 7日 | [SMILE](../Page/SMILE_\(バンド\).md "wikilink")                                | 14日 | [川村結花](../Page/川村結花.md "wikilink")                                            | 21日 | [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")             | 28日 | [大塚利恵](https://ja.wikipedia.org/wiki/大塚利恵 "wikilink")      |
-| --------- | -- | --------------------------------------------------------------------------- | --- | ----------------------------------------------------------------------------- | --- | ----------------------------------------------------------------- | --- | ---------------------------------------------------------- |
-| 5月        | 5日 | **（不明）**                                                                    | 12日 | [YURIMARI](../Page/YURIMARI.md "wikilink")                                    | 19日 | [ザ・サーフコースターズ](../Page/ザ・サーフコースターズ.md "wikilink")                  | 26日 | [La'cryma Christi](../Page/La'cryma_Christi.md "wikilink") |
-| 6月        | 2日 | [MISSION](../Page/MISSION.md "wikilink")                                    | 9日  | [BLANKEY JET CITY](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink") | 16日 | [中澤裕子](../Page/中澤裕子.md "wikilink")                                | 23日 | [L'luvia](../Page/L'luvia.md "wikilink")                   |
-| 7月        | 7日 | [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")                          | 14日 | [アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")                                  | 21日 | \[24\]                                                            | 28日 | [泉川そら](../Page/イズミカワソラ.md "wikilink")                      |
-| 8月        | 4日 | [ARCHE](../Page/ARCHE.md "wikilink")                                        | 11日 | [セブンハウス](../Page/セブンハウス.md "wikilink")                                        | 18日 | [加藤晴彦](../Page/加藤晴彦.md "wikilink")                                | 25日 | [藤井隆](../Page/藤井隆.md "wikilink")                           |
-| 9月        | 1日 | [真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")                 | 8日  | [松尾れい子](../Page/松尾れい子.md "wikilink")                                          | 15日 | **（不明）**                                                          | 22日 | [AN-J](https://ja.wikipedia.org/wiki/AN-J "wikilink")      |
-| 10月       | 6日 | [岸田健作](../Page/岸田健作.md "wikilink")（[With T](../Page/いいとも青年隊.md "wikilink")） | 13日 | [ピテカンバブー](https://ja.wikipedia.org/wiki/ピテカンバブー "wikilink")                   | 20日 | [SR Smoothy](https://ja.wikipedia.org/wiki/SR_Smoothy "wikilink") | 27日 | [佐藤康恵](../Page/佐藤康恵.md "wikilink")                         |
-| 11月       | 3日 | ポカスカジャン                                                                     | 10日 | [LOVE](../Page/The_LOVE.md "wikilink")                                        | 17日 | [コタニキンヤ](https://ja.wikipedia.org/wiki/キンヤ "wikilink")            | 24日 | [Rまにあ](../Page/Rまにあ.md "wikilink")                         |
-| 12月       | 1日 | [HAIR CUTS](https://ja.wikipedia.org/wiki/HAIR_CUTS "wikilink")             | 8日  | [K-1](../Page/K-1.md "wikilink")スペシャル                                         | 15日 | [Λucifer](../Page/Λucifer.md "wikilink")                          | 22日 | [浅倉大介](../Page/浅倉大介.md "wikilink")                         |
-| 注WED1999： |    |                                                                             |     |                                                                               |     |                                                                   |     |                                                            |
+| 4月        | 7日 | [SMILE](../Page/SMILE_\(バンド\).md "wikilink")                                | 14日 | [川村結花](../Page/川村結花.md "wikilink")                          | 21日 | [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")             | 28日 | [大塚利恵](https://ja.wikipedia.org/wiki/大塚利恵 "wikilink")      |
+| --------- | -- | --------------------------------------------------------------------------- | --- | ----------------------------------------------------------- | --- | ----------------------------------------------------------------- | --- | ---------------------------------------------------------- |
+| 5月        | 5日 | **（不明）**                                                                    | 12日 | [YURIMARI](../Page/YURIMARI.md "wikilink")                  | 19日 | [ザ・サーフコースターズ](../Page/ザ・サーフコースターズ.md "wikilink")                  | 26日 | [La'cryma Christi](../Page/La'cryma_Christi.md "wikilink") |
+| 6月        | 2日 | [MISSION](../Page/MISSION.md "wikilink")                                    | 9日  | [BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink")  | 16日 | [中澤裕子](../Page/中澤裕子.md "wikilink")                                | 23日 | [L'luvia](../Page/L'luvia.md "wikilink")                   |
+| 7月        | 7日 | [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")                          | 14日 | [アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")                | 21日 | \[24\]                                                            | 28日 | [泉川そら](../Page/イズミカワソラ.md "wikilink")                      |
+| 8月        | 4日 | [ARCHE](../Page/ARCHE.md "wikilink")                                        | 11日 | [セブンハウス](../Page/セブンハウス.md "wikilink")                      | 18日 | [加藤晴彦](../Page/加藤晴彦.md "wikilink")                                | 25日 | [藤井隆](../Page/藤井隆.md "wikilink")                           |
+| 9月        | 1日 | [真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")                                    | 8日  | [松尾れい子](../Page/松尾れい子.md "wikilink")                        | 15日 | **（不明）**                                                          | 22日 | [AN-J](https://ja.wikipedia.org/wiki/AN-J "wikilink")      |
+| 10月       | 6日 | [岸田健作](../Page/岸田健作.md "wikilink")（[With T](../Page/いいとも青年隊.md "wikilink")） | 13日 | [ピテカンバブー](https://ja.wikipedia.org/wiki/ピテカンバブー "wikilink") | 20日 | [SR Smoothy](https://ja.wikipedia.org/wiki/SR_Smoothy "wikilink") | 27日 | [佐藤康恵](../Page/佐藤康恵.md "wikilink")                         |
+| 11月       | 3日 | ポカスカジャン                                                                     | 10日 | [LOVE](../Page/The_LOVE.md "wikilink")                      | 17日 | [コタニキンヤ](https://ja.wikipedia.org/wiki/キンヤ "wikilink")            | 24日 | [Rまにあ](../Page/Rまにあ.md "wikilink")                         |
+| 12月       | 1日 | [HAIR CUTS](https://ja.wikipedia.org/wiki/HAIR_CUTS "wikilink")             | 8日  | [K-1](../Page/K-1.md "wikilink")スペシャル                       | 15日 | [Λucifer](../Page/Λucifer.md "wikilink")                          | 22日 | [浅倉大介](../Page/浅倉大介.md "wikilink")                         |
+| 注WED1999： |    |                                                                             |     |                                                             |     |                                                                   |     |                                                            |
 
 #### 2000年
 
-| 1月  | 5日 | [花\*花](https://ja.wikipedia.org/wiki/花*花 "wikilink")      | 12日                                                    | [岸田健作](../Page/岸田健作.md "wikilink")（[With T](../Page/いいとも青年隊.md "wikilink")） | 19日     | [真行寺恵里](../Page/真行寺恵里.md "wikilink")                                        | 26日                                                           | [坂本サトル](https://ja.wikipedia.org/wiki/坂本サトル "wikilink")       |
-| --- | -- | --------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------- |
-| 2月  | 2日 | [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")   | 9日                                                     | [アルファルファ](https://ja.wikipedia.org/wiki/東京03 "wikilink")                    | 16日     | [高松健一郎](https://ja.wikipedia.org/wiki/高松健一郎 "wikilink")                     | 23日                                                           | [ポカスカジャン](https://ja.wikipedia.org/wiki/ポカスカジャン "wikilink")   |
-| 3月  | 1日 | [井手功二](https://ja.wikipedia.org/wiki/井手コウジ "wikilink")    | 8日                                                     | [HAIR CUTS](https://ja.wikipedia.org/wiki/HAIR_CUTS "wikilink")             | 15日     | [J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink") | 22日                                                           | [Dragon Ash](../Page/Dragon_Ash.md "wikilink")                |
-| 4月  | 5日 | [オセロ](../Page/オセロ_\(お笑い\).md "wikilink")                  | 12日                                                    | [Jungle Smile](https://ja.wikipedia.org/wiki/Jungle_Smile "wikilink")       | 19日     | [サリンジャー](https://ja.wikipedia.org/wiki/THE_SALINGER "wikilink")             | 26日                                                           | [清水学](https://ja.wikipedia.org/wiki/清水まなぶ "wikilink")         |
-| 5月  | 3日 | [サイケジア](https://ja.wikipedia.org/wiki/サイケジア "wikilink")   | 10日                                                    | [エレキハチマキ](https://ja.wikipedia.org/wiki/エレキハチマキ "wikilink")                 | 17日     | [ふかわりょう](../Page/ふかわりょう.md "wikilink")                                      | 24日                                                           | [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")         |
-| 6月  | 7日 | [沖縄サミットライヴ](../Page/第26回主要国首脳会議.md "wikilink")            | 14日                                                    | [大葉るか](https://ja.wikipedia.org/wiki/大葉るか "wikilink")                       | 21日     | [うたいびとはね](https://ja.wikipedia.org/wiki/唄人羽 "wikilink")                     | 28日                                                           |                                                               |
-| 7月  | 5日 | [COWCOW](https://ja.wikipedia.org/wiki/COWCOW "wikilink") | 12日                                                    | [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")                     | 19日     | [ジョビジョバ](https://ja.wikipedia.org/wiki/ジョビジョバ "wikilink")                   | 26日                                                           |                                                               |
-| 8月  | 2日 | [ビビる](https://ja.wikipedia.org/wiki/ビビる "wikilink")       | 9日                                                     | [ギャグサーキット](https://ja.wikipedia.org/wiki/ギャグサーキット "wikilink")               | 16日     | [In the Soup](../Page/In_the_Soup.md "wikilink")                            | 23日                                                           | 30日                                                           |
-| 9月  | 6日 | [ZEPPET STORE](../Page/ZEPPET_STORE.md "wikilink")        | 13日                                                    | [穴沢賢児](https://ja.wikipedia.org/wiki/穴沢賢児 "wikilink")                       | 20日     | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") | 27日                                                           | [大月俊倫](https://ja.wikipedia.org/wiki/大月俊倫 "wikilink") & 林原めぐみ |
-| 10月 | 4日 | RIZE                                                      | 11日                                                    | [清貴](https://ja.wikipedia.org/wiki/清貴 "wikilink")                           | 18日     | [Tina](../Page/Tina.md "wikilink")                                          | 25日                                                           | [MINAMI](https://ja.wikipedia.org/wiki/MINAMI "wikilink")     |
-| 11月 | 1日 | 8日                                                        | [ゼリ→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink") | 15日                                                                         | うたいびとはね | 22日                                                                         | [PaniCrew](https://ja.wikipedia.org/wiki/PaniCrew "wikilink") | 29日                                                           |
-| 12月 | 6日 | [エレキコミック](../Page/エレキコミック.md "wikilink")                  | 13日                                                    | [K-1](../Page/K-1.md "wikilink")スペシャル                                       | 20日     | [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")                         | 27日                                                           | [大槻真希](https://ja.wikipedia.org/wiki/大槻真希 "wikilink")         |
+| 1月  | 5日 | [花\*花](https://ja.wikipedia.org/wiki/花*花 "wikilink")    | 12日                                                    | [岸田健作](../Page/岸田健作.md "wikilink")（[With T](../Page/いいとも青年隊.md "wikilink")） | 19日     | [真行寺恵里](../Page/真行寺恵里.md "wikilink")                                        | 26日                                        | [坂本サトル](../Page/坂本サトル.md "wikilink")                      |
+| --- | -- | ------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------- | ------- | --------------------------------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------- |
+| 2月  | 2日 | [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink") | 9日                                                     | [アルファルファ](https://ja.wikipedia.org/wiki/東京03 "wikilink")                    | 16日     | [高松健一郎](https://ja.wikipedia.org/wiki/高松健一郎 "wikilink")                     | 23日                                        | [ポカスカジャン](../Page/ポカスカジャン.md "wikilink")                  |
+| 3月  | 1日 | [井手功二](../Page/井手コウジ.md "wikilink")                     | 8日                                                     | [HAIR CUTS](https://ja.wikipedia.org/wiki/HAIR_CUTS "wikilink")             | 15日     | [J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink") | 22日                                        | [Dragon Ash](../Page/Dragon_Ash.md "wikilink")            |
+| 4月  | 5日 | [オセロ](../Page/オセロ_\(お笑い\).md "wikilink")                | 12日                                                    | [Jungle Smile](../Page/Jungle_Smile.md "wikilink")                          | 19日     | [サリンジャー](https://ja.wikipedia.org/wiki/THE_SALINGER "wikilink")             | 26日                                        | [清水学](../Page/清水まなぶ.md "wikilink")                        |
+| 5月  | 3日 | [サイケジア](https://ja.wikipedia.org/wiki/サイケジア "wikilink") | 10日                                                    | [エレキハチマキ](https://ja.wikipedia.org/wiki/エレキハチマキ "wikilink")                 | 17日     | [ふかわりょう](../Page/ふかわりょう.md "wikilink")                                      | 24日                                        | [RIZE](../Page/RIZE.md "wikilink")                        |
+| 6月  | 7日 | [沖縄サミットライヴ](../Page/第26回主要国首脳会議.md "wikilink")          | 14日                                                    | [大葉るか](https://ja.wikipedia.org/wiki/大葉るか "wikilink")                       | 21日     | [うたいびとはね](../Page/唄人羽.md "wikilink")                                        | 28日                                        |                                                           |
+| 7月  | 5日 | [COWCOW](../Page/COWCOW.md "wikilink")                  | 12日                                                    | [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")                     | 19日     | [ジョビジョバ](../Page/ジョビジョバ.md "wikilink")                                      | 26日                                        |                                                           |
+| 8月  | 2日 | [ビビる](../Page/ビビる.md "wikilink")                        | 9日                                                     | [ギャグサーキット](https://ja.wikipedia.org/wiki/ギャグサーキット "wikilink")               | 16日     | [In the Soup](../Page/In_the_Soup.md "wikilink")                            | 23日                                        | 30日                                                       |
+| 9月  | 6日 | [ZEPPET STORE](../Page/ZEPPET_STORE.md "wikilink")      | 13日                                                    | [穴沢賢児](https://ja.wikipedia.org/wiki/穴沢賢児 "wikilink")                       | 20日     | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") | 27日                                        | [大月俊倫](../Page/大月俊倫.md "wikilink") & 林原めぐみ                |
+| 10月 | 4日 | RIZE                                                    | 11日                                                    | [清貴](../Page/清貴.md "wikilink")                                              | 18日     | [Tina](../Page/Tina.md "wikilink")                                          | 25日                                        | [MINAMI](https://ja.wikipedia.org/wiki/MINAMI "wikilink") |
+| 11月 | 1日 | 8日                                                      | [ゼリ→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink") | 15日                                                                         | うたいびとはね | 22日                                                                         | [PaniCrew](../Page/PaniCrew.md "wikilink") | 29日                                                       |
+| 12月 | 6日 | [エレキコミック](../Page/エレキコミック.md "wikilink")                | 13日                                                    | [K-1](../Page/K-1.md "wikilink")スペシャル                                       | 20日     | [HΛL](../Page/HΛL.md "wikilink")                                            | 27日                                        | [大槻真希](https://ja.wikipedia.org/wiki/大槻真希 "wikilink")     |
 
 #### 2001年
 
-| 1月        | 3日 | [荘口彰久](../Page/荘口彰久.md "wikilink")                                                                                                  | 10日 | [森山直太朗](../Page/森山直太朗.md "wikilink")                                        | 17日 | [林雄司](../Page/林雄司.md "wikilink")                                 | 24日 | [Keno](../Page/Keno.md "wikilink")                                                | 31日 | [TRINITY](../Page/TRINITY_\(アーティスト\).md "wikilink") |
-| --------- | -- | ----------------------------------------------------------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------------- | --- | ---------------------------------------------------------------- | --- | --------------------------------------------------------------------------------- | --- | --------------------------------------------------- |
-| 2月        | 7日 | [林邦洋](../Page/林邦洋.md "wikilink")                                                                                                    | 14日 | [PaniCrew](https://ja.wikipedia.org/wiki/PaniCrew "wikilink")               | 21日 | [Take2](https://ja.wikipedia.org/wiki/Take2 "wikilink")          | 28日 | [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")                                |     |                                                     |
-| 3月        | 7日 | [鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")                                                                             | 14日 | ジラフ                                                                         | 21日 | [山嵐](../Page/山嵐_\(バンド\).md "wikilink")                           | 28日 | [矢野真紀](../Page/矢野まき.md "wikilink")                                                |     |                                                     |
-| 4月        | 4日 | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")                                                         | 11日 | [Do As Infinity](../Page/Do_As_Infinity.md "wikilink")                      | 18日 | [セブンハウス](../Page/セブンハウス.md "wikilink")                           | 25日 | [In the Soup](../Page/In_the_Soup.md "wikilink")                                  |     |                                                     |
-| 5月        | 2日 | [藤木直人](https://ja.wikipedia.org/wiki/藤木直人 "wikilink")                                                                               | 9日  | [ゼリ→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")                      | 16日 | [dicot](https://ja.wikipedia.org/wiki/dicot "wikilink")          | 23日 | [川上真二](https://ja.wikipedia.org/wiki/SINJI "wikilink")                            | 30日 |                                                     |
-| 6月        | 6日 | [DASEIN](../Page/DASEIN.md "wikilink")                                                                                              | 13日 | [龍之介](https://ja.wikipedia.org/wiki/龍之介 "wikilink")                         | 20日 | [STEEL](../Page/STEEL.md "wikilink")                             | 27日 |                                                                                   |     |                                                     |
-| 7月        | 4日 | [ハリー吉田](https://ja.wikipedia.org/wiki/I've#その他のスタッフ "wikilink") [1](http://www.geocities.jp/tsubasaarumono_tenshi/tenshi/00_27.htm) | 11日 | [サカノウエヨースケ](../Page/坂上庸介.md "wikilink")                                     | 18日 | [宇頭巻](../Page/宇頭巻.md "wikilink")                                 | 25日 |                                                                                   |     |                                                     |
-| 8月        | 1日 | [belly to belly](https://ja.wikipedia.org/wiki/belly_to_belly "wikilink")                                                           | 8日  | [Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")                | 15日 | [YOPPY](https://ja.wikipedia.org/wiki/エイジアエンジニア#メンバー "wikilink") | 22日 | [氣志團](../Page/氣志團.md "wikilink")                                                  | 29日 |                                                     |
-| 9月        | 5日 | [GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")                                                                 | 12日 | [smorgas](https://ja.wikipedia.org/wiki/smorgas "wikilink")\[25\]           | 19日 | [深作健太](https://ja.wikipedia.org/wiki/深作健太 "wikilink")            | 26日 |                                                                                   |     |                                                     |
-| 10月       | 3日 | [UME](https://ja.wikipedia.org/wiki/UME "wikilink")                                                                                 | 10日 | [ART PIZZA](https://ja.wikipedia.org/wiki/ART_PIZZA "wikilink")             | 17日 | [shame](../Page/SHAME.md "wikilink")                             | 24日 | [GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink") | 31日 | サカノウエヨースケ                                           |
-| 11月       | 7日 | [森山直太朗](../Page/森山直太朗.md "wikilink")                                                                                                | 14日 | [CHARCOAL FILTER](https://ja.wikipedia.org/wiki/CHARCOAL_FILTER "wikilink") | 21日 | GO\!GO\!7188                                                     | 28日 |                                                                                   |     |                                                     |
-| 12月       | 5日 | [中川晃教](https://ja.wikipedia.org/wiki/中川晃教 "wikilink")                                                                               | 12日 | GAGナイトスペシャル                                                                 | 19日 | [M.O.V.E](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")      | 26日 |                                                                                   |     |                                                     |
-| 注WED2001： |    |                                                                                                                                     |     |                                                                             |     |                                                                  |     |                                                                                   |     |                                                     |
+| 1月        | 3日 | [荘口彰久](../Page/荘口彰久.md "wikilink")                                                                                                  | 10日 | [森山直太朗](../Page/森山直太朗.md "wikilink")                              | 17日 | [林雄司](../Page/林雄司.md "wikilink")                                 | 24日 | [Keno](../Page/Keno.md "wikilink")                             | 31日 | [TRINITY](../Page/TRINITY_\(アーティスト\).md "wikilink") |
+| --------- | -- | ----------------------------------------------------------------------------------------------------------------------------------- | --- | ----------------------------------------------------------------- | --- | ---------------------------------------------------------------- | --- | -------------------------------------------------------------- | --- | --------------------------------------------------- |
+| 2月        | 7日 | [林邦洋](../Page/林邦洋.md "wikilink")                                                                                                    | 14日 | [PaniCrew](../Page/PaniCrew.md "wikilink")                        | 21日 | [Take2](../Page/Take2.md "wikilink")                             | 28日 | [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")             |     |                                                     |
+| 3月        | 7日 | [鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")                                                                             | 14日 | ジラフ                                                               | 21日 | [山嵐](../Page/山嵐_\(バンド\).md "wikilink")                           | 28日 | [矢野真紀](../Page/矢野まき.md "wikilink")                             |     |                                                     |
+| 4月        | 4日 | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")                                                         | 11日 | [Do As Infinity](../Page/Do_As_Infinity.md "wikilink")            | 18日 | [セブンハウス](../Page/セブンハウス.md "wikilink")                           | 25日 | [In the Soup](../Page/In_the_Soup.md "wikilink")               |     |                                                     |
+| 5月        | 2日 | [藤木直人](https://ja.wikipedia.org/wiki/藤木直人 "wikilink")                                                                               | 9日  | [ゼリ→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink")            | 16日 | [dicot](https://ja.wikipedia.org/wiki/dicot "wikilink")          | 23日 | [川上真二](../Page/SINJI.md "wikilink")                            | 30日 |                                                     |
+| 6月        | 6日 | [DASEIN](../Page/DASEIN.md "wikilink")                                                                                              | 13日 | [龍之介](https://ja.wikipedia.org/wiki/龍之介 "wikilink")               | 20日 | [STEEL](../Page/STEEL.md "wikilink")                             | 27日 |                                                                |     |                                                     |
+| 7月        | 4日 | [ハリー吉田](https://ja.wikipedia.org/wiki/I've#その他のスタッフ "wikilink") [1](http://www.geocities.jp/tsubasaarumono_tenshi/tenshi/00_27.htm) | 11日 | [サカノウエヨースケ](../Page/坂上庸介.md "wikilink")                           | 18日 | [宇頭巻](../Page/宇頭巻.md "wikilink")                                 | 25日 |                                                                |     |                                                     |
+| 8月        | 1日 | [belly to belly](https://ja.wikipedia.org/wiki/belly_to_belly "wikilink")                                                           | 8日  | [Skoop On Somebody](../Page/Skoop_On_Somebody.md "wikilink")      | 15日 | [YOPPY](https://ja.wikipedia.org/wiki/エイジアエンジニア#メンバー "wikilink") | 22日 | [氣志團](../Page/氣志團.md "wikilink")                               | 29日 |                                                     |
+| 9月        | 5日 | [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")                                                                                    | 12日 | [smorgas](https://ja.wikipedia.org/wiki/smorgas "wikilink")\[25\] | 19日 | [深作健太](../Page/深作健太.md "wikilink")                               | 26日 |                                                                |     |                                                     |
+| 10月       | 3日 | [UME](https://ja.wikipedia.org/wiki/UME "wikilink")                                                                                 | 10日 | [ART PIZZA](https://ja.wikipedia.org/wiki/ART_PIZZA "wikilink")   | 17日 | [shame](../Page/SHAME.md "wikilink")                             | 24日 | [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") | 31日 | サカノウエヨースケ                                           |
+| 11月       | 7日 | [森山直太朗](../Page/森山直太朗.md "wikilink")                                                                                                | 14日 | [CHARCOAL FILTER](../Page/CHARCOAL_FILTER.md "wikilink")          | 21日 | GO\!GO\!7188                                                     | 28日 |                                                                |     |                                                     |
+| 12月       | 5日 | [中川晃教](../Page/中川晃教.md "wikilink")                                                                                                  | 12日 | GAGナイトスペシャル                                                       | 19日 | [M.O.V.E](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")      | 26日 |                                                                |     |                                                     |
+| 注WED2001： |    |                                                                                                                                     |     |                                                                   |     |                                                                  |     |                                                                |     |                                                     |
 
 #### 2002年
 
-| 1月  | 9日 | [マッシュルーム](https://ja.wikipedia.org/wiki/マッシュルーム_\(タレント\) "wikilink")    | 16日 | [ニブンノゴ\!](https://ja.wikipedia.org/wiki/ニブンノゴ! "wikilink")              | 23日 | [唐木恵子](https://ja.wikipedia.org/wiki/春野恵子 "wikilink")                              | 30日 | [サカノウエヨースケ](../Page/坂上庸介.md "wikilink")                                           |
-| --- | -- | ----------------------------------------------------------------------- | --- | ----------------------------------------------------------------------- | --- | ---------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------- |
-| 2月  | 6日 | [KOKIA](../Page/KOKIA.md "wikilink")                                    | 13日 | [Baby Boo](https://ja.wikipedia.org/wiki/Baby_Boo "wikilink")           | 20日 | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")        | 27日 |                                                                                   |
-| 3月  | 6日 | [savage genius](https://ja.wikipedia.org/wiki/savage_genius "wikilink") | 13日 | [鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")                 | 20日 | [Changin' My Life](https://ja.wikipedia.org/wiki/myco#Changin'_My_Life "wikilink") | 27日 |                                                                                   |
-| 4月  | 3日 | [ケツメイシ](../Page/ケツメイシ.md "wikilink")                                    | 10日 | [村田亮](https://ja.wikipedia.org/wiki/ダンデライオン_\(音楽グループ\)#メンバー "wikilink") | 17日 | [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")                                | 24日 | [GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink") |
-| 5月  | 1日 | [シーモネーター](../Page/SEAMO.md "wikilink")                                  | 8日  | [Drug Store](https://ja.wikipedia.org/wiki/Drug_Store "wikilink")       | 15日 | [CUNE](../Page/Cune.md "wikilink")                                                 | 22日 | [SHAKA LABBITS](../Page/SHAKALABBITS.md "wikilink")                               |
-| 6月  | 5日 | [クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")                          | 12日 | [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")                 | 19日 | [dream](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")                 | 26日 | [天野月](../Page/天野月.md "wikilink")子                                                 |
-| 7月  | 3日 | [笹川美和](https://ja.wikipedia.org/wiki/笹川美和 "wikilink")                   | 10日 | [GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")     | 17日 | [shiina](https://ja.wikipedia.org/wiki/椎名法子 "wikilink")                            | 24日 | サマーロックフェスティバル                                                                     |
-| 8月  | 7日 | [堂本剛](../Page/堂本剛.md "wikilink")                                        | 14日 | [Λucifer](../Page/Λucifer.md "wikilink")                                | 21日 | [ソニン](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink")                       | 28日 | [TAKUI](../Page/中島卓偉.md "wikilink")                                               |
-| 9月  | 4日 | [YOGURT-pooh](../Page/YOGURT-pooh.md "wikilink")                        | 11日 | [PE'Z](https://ja.wikipedia.org/wiki/PE'Z "wikilink")                   | 18日 | [ライセンス](https://ja.wikipedia.org/wiki/ライセンス_\(お笑いコンビ\) "wikilink")                 | 25日 |                                                                                   |
-| 10月 | 2日 | [森山直太朗](../Page/森山直太朗.md "wikilink")                                    | 9日  | サカノウエヨースケ                                                               | 16日 | [B-DASH](../Page/B-DASH.md "wikilink")                                             | 23日 | GO\!GO\!7188                                                                      |
-| 11月 | 6日 | [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")                   | 13日 | TAKUI                                                                   | 20日 | [3B LAB.☆](../Page/3B_LAB.☆S.md "wikilink")                                        | 27日 | [より子](../Page/より子.md "wikilink")。                                                 |
-| 12月 | 4日 | CUNE                                                                    | 11日 | [kayoko](https://ja.wikipedia.org/wiki/kayoko "wikilink")               | 18日 | [YeLLOW Generation](https://ja.wikipedia.org/wiki/YeLLOW_Generation "wikilink")    | 25日 | [Kiroro](../Page/Kiroro.md "wikilink")                                            |
+| 1月  | 9日 | [マッシュルーム](https://ja.wikipedia.org/wiki/マッシュルーム_\(タレント\) "wikilink")    | 16日 | [ニブンノゴ\!](../Page/ニブンノゴ!.md "wikilink")                                 | 23日 | [唐木恵子](https://ja.wikipedia.org/wiki/春野恵子 "wikilink")                              | 30日 | [サカノウエヨースケ](../Page/坂上庸介.md "wikilink")                        |
+| --- | -- | ----------------------------------------------------------------------- | --- | ----------------------------------------------------------------------- | --- | ---------------------------------------------------------------------------------- | --- | -------------------------------------------------------------- |
+| 2月  | 6日 | [KOKIA](../Page/KOKIA.md "wikilink")                                    | 13日 | [Baby Boo](../Page/Baby_Boo.md "wikilink")                              | 20日 | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")        | 27日 |                                                                |
+| 3月  | 6日 | [savage genius](https://ja.wikipedia.org/wiki/savage_genius "wikilink") | 13日 | [鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")                 | 20日 | [Changin' My Life](https://ja.wikipedia.org/wiki/myco#Changin'_My_Life "wikilink") | 27日 |                                                                |
+| 4月  | 3日 | [ケツメイシ](../Page/ケツメイシ.md "wikilink")                                    | 10日 | [村田亮](https://ja.wikipedia.org/wiki/ダンデライオン_\(音楽グループ\)#メンバー "wikilink") | 17日 | [HΛL](../Page/HΛL.md "wikilink")                                                   | 24日 | [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") |
+| 5月  | 1日 | [シーモネーター](../Page/SEAMO.md "wikilink")                                  | 8日  | [Drug Store](https://ja.wikipedia.org/wiki/Drug_Store "wikilink")       | 15日 | [CUNE](../Page/Cune.md "wikilink")                                                 | 22日 | [SHAKA LABBITS](../Page/SHAKALABBITS.md "wikilink")            |
+| 6月  | 5日 | [クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")                          | 12日 | [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")                 | 19日 | [dream](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")                 | 26日 | [天野月](../Page/天野月.md "wikilink")子                              |
+| 7月  | 3日 | [笹川美和](https://ja.wikipedia.org/wiki/笹川美和 "wikilink")                   | 10日 | [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")                        | 17日 | [shiina](../Page/椎名法子.md "wikilink")                                               | 24日 | サマーロックフェスティバル                                                  |
+| 8月  | 7日 | [堂本剛](../Page/堂本剛.md "wikilink")                                        | 14日 | [Λucifer](../Page/Λucifer.md "wikilink")                                | 21日 | [ソニン](https://ja.wikipedia.org/wiki/ソニン_\(タレント\) "wikilink")                       | 28日 | [TAKUI](../Page/中島卓偉.md "wikilink")                            |
+| 9月  | 4日 | [YOGURT-pooh](../Page/YOGURT-pooh.md "wikilink")                        | 11日 | [PE'Z](../Page/PE'Z.md "wikilink")                                      | 18日 | [ライセンス](../Page/ライセンス_\(お笑いコンビ\).md "wikilink")                                    | 25日 |                                                                |
+| 10月 | 2日 | [森山直太朗](../Page/森山直太朗.md "wikilink")                                    | 9日  | サカノウエヨースケ                                                               | 16日 | [B-DASH](../Page/B-DASH.md "wikilink")                                             | 23日 | GO\!GO\!7188                                                   |
+| 11月 | 6日 | [RIZE](../Page/RIZE.md "wikilink")                                      | 13日 | TAKUI                                                                   | 20日 | [3B LAB.☆](../Page/3B_LAB.☆S.md "wikilink")                                        | 27日 | [より子](../Page/より子.md "wikilink")。                              |
+| 12月 | 4日 | CUNE                                                                    | 11日 | [kayoko](https://ja.wikipedia.org/wiki/kayoko "wikilink")               | 18日 | [YeLLOW Generation](../Page/YeLLOW_Generation.md "wikilink")                       | 25日 | [Kiroro](../Page/Kiroro.md "wikilink")                         |
 
 #### 2003年
 
-| 1月 | 1日 | [ゆず](../Page/ゆずのオールナイトニッポン.md "wikilink")（「[com](https://ja.wikipedia.org/wiki/@llnightnippon.com "wikilink")」から引き続き出演） | 8日                                                  | [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink") | 15日                                                       | 芸人魂〜dead or alive〜 | 22日                                                 | ゆず                                     | 29日 | [サイコ・ル・シェイム](https://ja.wikipedia.org/wiki/Psycho_le_Cému "wikilink") |
-| -- | -- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------- | ------------------ | --------------------------------------------------- | -------------------------------------- | --- | --------------------------------------------------------------------- |
-| 2月 |    | 5日                                                                                                                      | [一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink") | 12日                                                          | [高田馬場文夫](https://ja.wikipedia.org/wiki/高田馬場文夫 "wikilink") | 19日                | 26日                                                 | [DASEIN](../Page/DASEIN.md "wikilink") |     |                                                                       |
-| 3月 | 5日 | [GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")                                                     | 12日                                                 | [CORE OF SOUL](../Page/CORE_OF_SOUL.md "wikilink")           | 19日                                                       | 26日                | [柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink") |                                        |     |                                                                       |
+| 1月 | 1日 | [ゆず](../Page/ゆずのオールナイトニッポン.md "wikilink")（「[com](../Page/@llnightnippon.com.md "wikilink")」から引き続き出演） | 8日                                                  | [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink") | 15日                                    | 芸人魂〜dead or alive〜 | 22日                                                 | ゆず                                     | 29日 | [サイコ・ル・シェイム](https://ja.wikipedia.org/wiki/Psycho_le_Cému "wikilink") |
+| -- | -- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------- | ------------------ | --------------------------------------------------- | -------------------------------------- | --- | --------------------------------------------------------------------- |
+| 2月 |    | 5日                                                                                                   | [一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink") | 12日                                                          | [高田馬場文夫](../Page/高田馬場文夫.md "wikilink") | 19日                | 26日                                                 | [DASEIN](../Page/DASEIN.md "wikilink") |     |                                                                       |
+| 3月 | 5日 | [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")                                                     | 12日                                                 | [CORE OF SOUL](../Page/CORE_OF_SOUL.md "wikilink")           | 19日                                    | 26日                | [柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink") |                                        |     |                                                                       |
 
 ### 金曜日
 
@@ -337,10 +337,10 @@ ONLY ONE</a></p></th>
 <tr class="odd">
 <td><p>5月</p></td>
 <td><p>2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GO!GO!7188" title="wikilink">GO!GO!7188</a></p></td>
+<td><p><a href="../Page/GO!GO!7188.md" title="wikilink">GO!GO!7188</a></p></td>
 <td><p>9日</p></td>
 <td><p>16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/YeLLOW_Generation" title="wikilink">YeLLOW Generation</a></p></td>
+<td><p><a href="../Page/YeLLOW_Generation.md" title="wikilink">YeLLOW Generation</a></p></td>
 <td><p>23日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/竹内めぐみ" title="wikilink">竹内めぐみ</a></p></td>
 <td><p>30日</p></td>
@@ -361,9 +361,9 @@ ONLY ONE</a></p></th>
 <td><p>4日</p></td>
 <td><p>ゆず</p></td>
 <td><p>11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/深作健太" title="wikilink">深作健太</a></p></td>
+<td><p><a href="../Page/深作健太.md" title="wikilink">深作健太</a></p></td>
 <td><p>18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/塩コショー" title="wikilink">塩コショー</a></p></td>
+<td><p><a href="../Page/塩コショー.md" title="wikilink">塩コショー</a></p></td>
 <td><p>25日</p></td>
 <td></td>
 </tr>
@@ -394,7 +394,7 @@ ONLY ONE</a></p></th>
 <td><p>3日</p></td>
 <td><p><a href="../Page/いとうせいこう.md" title="wikilink">いとうせいこう</a></p></td>
 <td><p>10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/笹川美和のオールナイトニッポン" title="wikilink">笹川美和</a></p></td>
+<td><p><a href="../Page/笹川美和のオールナイトニッポン.md" title="wikilink">笹川美和</a></p></td>
 <td><p>17日</p></td>
 <td><p>SWeetio</p></td>
 <td><p>24日</p></td>
@@ -417,7 +417,7 @@ ONLY ONE</a></p></th>
 <td><p>B-DASH<br />
 <a href="../Page/吉井怜.md" title="wikilink">吉井怜</a></p></td>
 <td><p>12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PE&#39;Z" title="wikilink">PE'Z</a></p></td>
+<td><p><a href="../Page/PE&#39;Z.md" title="wikilink">PE'Z</a></p></td>
 <td><p>19日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大塚愛" title="wikilink">大塚愛</a></p></td>
 <td><p>26日</p></td>
@@ -450,7 +450,7 @@ ONLY ONE</a></p></th>
 <th><p>16日</p></th>
 <th><p><a href="../Page/ザ・マスミサイル.md" title="wikilink">ザ・マスミサイル</a></p></th>
 <th><p>23日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></p></th>
+<th><p><a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></p></th>
 <th><p>30日</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/吉田尚記のオールナイトニッポン#吉田尚記のゲームナイトニッポン" title="wikilink">吉田尚記</a></p></th>
 </tr>
@@ -459,9 +459,9 @@ ONLY ONE</a></p></th>
 <tr class="odd">
 <td><p>2月</p></td>
 <td><p>6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャパハリネット" title="wikilink">ジャパハリネット</a></p></td>
+<td><p><a href="../Page/ジャパハリネット.md" title="wikilink">ジャパハリネット</a></p></td>
 <td><p>13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北出菜奈" title="wikilink">北出菜奈</a></p></td>
+<td><p><a href="../Page/北出菜奈.md" title="wikilink">北出菜奈</a></p></td>
 <td><p>20日</p></td>
 <td><p><a href="../Page/日本アカデミー賞.md" title="wikilink">日本アカデミー賞</a>授賞式</p></td>
 <td><p>27日</p></td>
@@ -515,7 +515,7 @@ ONLY ONE</a></p></th>
 <td><p>11日</p></td>
 <td><p><a href="../Page/FLOW.md" title="wikilink">FLOW</a></p></td>
 <td><p>18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RYTHEM" title="wikilink">RYTHEM</a></p></td>
+<td><p><a href="../Page/RYTHEM.md" title="wikilink">RYTHEM</a></p></td>
 <td><p>25日</p></td>
 <td><p><a href="../Page/おぎやはぎ.md" title="wikilink">おぎやはぎ</a></p></td>
 <td></td>
@@ -568,9 +568,9 @@ ONLY ONE</a></p></th>
 <td><p>8日</p></td>
 <td><p><a href="../Page/おぎやはぎ.md" title="wikilink">おぎやはぎ</a></p></td>
 <td><p>15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TRICERATOPS" title="wikilink">TRICERATOPS</a></p></td>
+<td><p><a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a></p></td>
 <td><p>22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロバート_(お笑いトリオ)" title="wikilink">ロバート</a></p></td>
+<td><p><a href="../Page/ロバート_(お笑いトリオ).md" title="wikilink">ロバート</a></p></td>
 <td><p>29日</p></td>
 <td><p><a href="../Page/アンガールズ.md" title="wikilink">アンガールズ</a></p></td>
 </tr>
@@ -583,7 +583,7 @@ ONLY ONE</a></p></th>
 <td><p>19日</p></td>
 <td><p>芸人魂〜dead or alive〜</p></td>
 <td><p>26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/S-Sence" title="wikilink">S-Sence</a></p></td>
+<td><p><a href="../Page/S-Sence.md" title="wikilink">S-Sence</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -592,7 +592,7 @@ ONLY ONE</a></p></th>
 <td><p>3日</p></td>
 <td><p><a href="../Page/ORANGE_RANGE.md" title="wikilink">ORANGE RANGE</a></p></td>
 <td><p>10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a></p></td>
+<td><p><a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a></p></td>
 <td><p>17日</p></td>
 <td><p>S-Sence</p></td>
 <td><p>24日</p></td>
@@ -625,11 +625,11 @@ ONLY ONE</a></p></th>
 <th><p>7日</p></th>
 <th><p><a href="../Page/DOPING_PANDA.md" title="wikilink">DOPING PANDA</a></p></th>
 <th><p>14日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/S-Sence" title="wikilink">S-Sence</a></p></th>
+<th><p><a href="../Page/S-Sence.md" title="wikilink">S-Sence</a></p></th>
 <th><p>21日</p></th>
 <th><p><a href="../Page/より子.md" title="wikilink">より子</a></p></th>
 <th><p>28日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チョップリン" title="wikilink">チョップリン</a></p></th>
+<th><p><a href="../Page/チョップリン.md" title="wikilink">チョップリン</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -664,18 +664,18 @@ ONLY ONE</a></p></th>
 <td><p>8日</p></td>
 <td><p>豊田かずみ</p></td>
 <td><p>15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RYTHEM" title="wikilink">RYTHEM</a></p></td>
+<td><p><a href="../Page/RYTHEM.md" title="wikilink">RYTHEM</a></p></td>
 <td><p>22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a></p></td>
+<td><p><a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5月</p></td>
 <td><p>6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/あべこうじ" title="wikilink">あべこうじ</a></p></td>
+<td><p><a href="../Page/あべこうじ.md" title="wikilink">あべこうじ</a></p></td>
 <td><p>13日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></p></td>
 <td><p>20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上田晋也と古坂大魔王のオールナイトニッポンR" title="wikilink">上田晋也、古坂和仁</a></p></td>
+<td><p><a href="../Page/上田晋也と古坂大魔王のオールナイトニッポンR.md" title="wikilink">上田晋也、古坂和仁</a></p></td>
 <td><p>27日</p></td>
 <td><p><a href="../Page/チキチキジョニー.md" title="wikilink">チキチキジョニー</a></p></td>
 </tr>
@@ -686,26 +686,26 @@ ONLY ONE</a></p></th>
 <td><p>10日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BENNIE_K" title="wikilink">BENNIE K</a></p></td>
 <td><p>17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンダーグラフ" title="wikilink">アンダーグラフ</a></p></td>
+<td><p><a href="../Page/アンダーグラフ.md" title="wikilink">アンダーグラフ</a></p></td>
 <td><p>24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/風味堂" title="wikilink">風味堂</a></p></td>
+<td><p><a href="../Page/風味堂.md" title="wikilink">風味堂</a></p></td>
 </tr>
 <tr class="even">
 <td><p>7月</p></td>
 <td><p>1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/POISON_GIRL_BAND" title="wikilink">POISON GIRL BAND</a></p></td>
+<td><p><a href="../Page/POISON_GIRL_BAND.md" title="wikilink">POISON GIRL BAND</a></p></td>
 <td><p>8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DEPAPEPE" title="wikilink">DEPAPEPE</a></p></td>
+<td><p><a href="../Page/DEPAPEPE.md" title="wikilink">DEPAPEPE</a></p></td>
 <td><p>15日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI</a></p></td>
 <td><p>22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京キャラクターショー" title="wikilink">東京キャラクターショー</a><br />
+<td><p><a href="../Page/東京キャラクターショー.md" title="wikilink">東京キャラクターショー</a><br />
 2005</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月</p></td>
 <td><p>5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レギュラー_(お笑い)" title="wikilink">レギュラー</a></p></td>
+<td><p><a href="../Page/レギュラー_(お笑い).md" title="wikilink">レギュラー</a></p></td>
 <td><p>12日</p></td>
 <td><p><a href="../Page/美勇伝.md" title="wikilink">美勇伝</a></p></td>
 <td><p>19日</p></td>
@@ -716,7 +716,7 @@ ONLY ONE</a></p></th>
 <tr class="even">
 <td><p>9月</p></td>
 <td><p>2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北出菜奈" title="wikilink">北出菜奈</a></p></td>
+<td><p><a href="../Page/北出菜奈.md" title="wikilink">北出菜奈</a></p></td>
 <td><p>9日</p></td>
 <td><p><a href="../Page/エレキコミック.md" title="wikilink">エレキコミック</a><br />
 <a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></p></td>
@@ -742,7 +742,7 @@ ONLY ONE</a></p></th>
 <td><p>4日</p></td>
 <td><p><a href="../Page/津波信一.md" title="wikilink">津波信一</a>[34]</p></td>
 <td><p>11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Imitation_PoPs_宇宙戦隊NOIZ" title="wikilink">宇宙戦隊NOIZ</a></p></td>
+<td><p><a href="../Page/Imitation_PoPs_宇宙戦隊NOIZ.md" title="wikilink">宇宙戦隊NOIZ</a></p></td>
 <td><p>18日</p></td>
 <td><p><a href="../Page/オリエンタルラジオのオールナイトニッポンR.md" title="wikilink">オリエンタルラジオ</a></p></td>
 <td><p>25日</p></td>
@@ -757,7 +757,7 @@ ONLY ONE</a></p></th>
 <td><p>16日</p></td>
 <td><p><a href="../Page/ヒロシ.md" title="wikilink">ヒロシ</a></p></td>
 <td><p>23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RYTHEM" title="wikilink">RYTHEM</a></p></td>
+<td><p><a href="../Page/RYTHEM.md" title="wikilink">RYTHEM</a></p></td>
 </tr>
 <tr class="even">
 <td><p>注FRI2005： </p></td>
@@ -782,12 +782,12 @@ ONLY ONE</a></p></th>
 <th><p>6日</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/南海キャンディーズ_山ちゃんのオールナイトニッポンR" title="wikilink">山里亮太</a></p></th>
 <th><p>13日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/タイムマシーン3号" title="wikilink">タイムマシーン3号</a></p></th>
+<th><p><a href="../Page/タイムマシーン3号.md" title="wikilink">タイムマシーン3号</a></p></th>
 <th><p>20日</p></th>
 <th><p><a href="../Page/鈴木おさむ.md" title="wikilink">ザ・おさむショー</a><br />
 （<a href="../Page/カリカ_(お笑いコンビ).md" title="wikilink">カリカ</a>、<a href="../Page/ハローバイバイ.md" title="wikilink">ハローバイバイ</a>）</p></th>
 <th><p>27日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/上田晋也と古坂大魔王のオールナイトニッポンR" title="wikilink">上田晋也、古坂和仁</a></p></th>
+<th><p><a href="../Page/上田晋也と古坂大魔王のオールナイトニッポンR.md" title="wikilink">上田晋也、古坂和仁</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -854,11 +854,11 @@ ONLY ONE</a></p></th>
 <tr class="header">
 <th><p>1月</p></th>
 <th><p>8日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/いとうあさこ" title="wikilink">いとうあさこ</a>[36]</p></th>
+<th><p><a href="../Page/いとうあさこ.md" title="wikilink">いとうあさこ</a>[36]</p></th>
 <th><p>15日</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/Rake_(シンガーソングライター)" title="wikilink">Rake</a></p></th>
 <th><p>22日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/後藤ひろひと" title="wikilink">後藤ひろひと</a></p></th>
+<th><p><a href="../Page/後藤ひろひと.md" title="wikilink">後藤ひろひと</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -875,7 +875,7 @@ ONLY ONE</a></p></th>
 <tr class="even">
 <td><p>3月</p></td>
 <td><p>12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福田沙紀" title="wikilink">福田沙紀</a></p></td>
+<td><p><a href="../Page/福田沙紀.md" title="wikilink">福田沙紀</a></p></td>
 <td><p>19日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/w-inds." title="wikilink">w-inds.</a></p></td>
 <td></td>
@@ -915,14 +915,14 @@ ONLY ONE</a></p></th>
 <td><p>9日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SKE48" title="wikilink">SKE48</a></p></td>
 <td><p>16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東貴博" title="wikilink">東貴博</a>[38]</p></td>
+<td><p><a href="../Page/東貴博.md" title="wikilink">東貴博</a>[38]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月</p></td>
 <td><p>6日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SCANDAL_(日本のバンド)" title="wikilink">SCANDAL</a></p></td>
 <td><p>13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/崎本大海" title="wikilink">崎本大海</a></p></td>
+<td><p><a href="../Page/崎本大海.md" title="wikilink">崎本大海</a></p></td>
 <td><p>20日</p></td>
 <td><p>WEAVER</p></td>
 </tr>
@@ -956,7 +956,7 @@ ONLY ONE</a></p></th>
 <tr class="odd">
 <td><p>12月</p></td>
 <td><p>3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハマカーン" title="wikilink">ハマカーン</a></p></td>
+<td><p><a href="../Page/ハマカーン.md" title="wikilink">ハマカーン</a></p></td>
 <td><p>10日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SPYAIRのオールナイトニッポン0(ZERO)" title="wikilink">SPYAIR</a></p></td>
 <td><p>17日</p></td>
@@ -983,11 +983,11 @@ ONLY ONE</a></p></th>
 | 4月        | 1日 | [9 nine](https://ja.wikipedia.org/wiki/9nineのオールナイトニッポンR "wikilink")\[43\] | 8日                                                                     | [D☆DATE](https://ja.wikipedia.org/wiki/D☆DATE "wikilink")                       | 15日                                                                          | [金子ノブアキ](https://ja.wikipedia.org/wiki/金子統昭 "wikilink")                                           |
 | 5月        | 6日 | [NIKIIE](https://ja.wikipedia.org/wiki/NIKIIE "wikilink")                  | 13日                                                                    | 高橋優                                                                             | 20日                                                                          | [東野幸治](../Page/東野幸治.md "wikilink")、[オリエンタルラジオ](../Page/オリエンタルラジオのオールナイトニッポンR.md "wikilink")\[44\] |
 | 6月        | 3日 | [NoGoD](../Page/NoGoD.md "wikilink")                                       | 10日                                                                    | オリエンタルラジオ                                                                       | 17日                                                                          | [TKO](../Page/TKO_\(お笑いコンビ\).md "wikilink")                                                       |
-| 7月        | 1日 | 高橋優\[45\]                                                                  | 8日                                                                     | [東貴博](https://ja.wikipedia.org/wiki/東貴博 "wikilink")他\[46\]                      | 15日                                                                          | ヤフミ（LAID BACK OCEAN）                                                                              |
+| 7月        | 1日 | 高橋優\[45\]                                                                  | 8日                                                                     | [東貴博](../Page/東貴博.md "wikilink")他\[46\]                                         | 15日                                                                          | ヤフミ（LAID BACK OCEAN）                                                                              |
 | 8月        | 5日 | 12日                                                                        | [SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink") | 19日                                                                             | [NICO Touches the Walls](../Page/NICO_Touches_the_Walls.md "wikilink")\[47\] |                                                                                                   |
-| 9月        | 2日 | [THEラブ人間](https://ja.wikipedia.org/wiki/THEラブ人間 "wikilink")                | 9日                                                                     | [SEAMO](../Page/SEAMO.md "wikilink")                                            | 16日                                                                          | [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")                                    |
+| 9月        | 2日 | [THEラブ人間](../Page/THEラブ人間.md "wikilink")                                   | 9日                                                                     | [SEAMO](../Page/SEAMO.md "wikilink")                                            | 16日                                                                          | [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")                                                       |
 | 10月       | 7日 | [風男塾](https://ja.wikipedia.org/wiki/中野風女シスターズ#風男塾 "wikilink")              | 14日                                                                    | [糸色望](../Page/神谷浩史.md "wikilink")\[48\]                                         | 21日                                                                          | NMB48                                                                                             |
-| 11月       | 4日 | [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")          | 11日                                                                    | [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")                         | 18日                                                                          | [三拍子](https://ja.wikipedia.org/wiki/三拍子_\(お笑いコンビ\) "wikilink")\[49\]                              |
+| 11月       | 4日 | [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")          | 11日                                                                    | [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")                         | 18日                                                                          | [三拍子](../Page/三拍子_\(お笑いコンビ\).md "wikilink")\[49\]                                                 |
 | 12月       | 2日 | [サーターアンダギー](https://ja.wikipedia.org/wiki/サーターアンダギー_\(ユニット\) "wikilink")   | 9日                                                                     | [三代目 J Soul Brothers](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink") | 16日                                                                          | NICO Touches the Walls                                                                            |
 | 注FRI2011： |    |                                                                            |                                                                        |                                                                                 |                                                                              |                                                                                                   |
 
@@ -1053,17 +1053,17 @@ ONLY ONE</a></p></th>
 
 #### 2005年
 
-| 4月        | 2日 | ミッドナイト ラン スペシャル                                                           | 9日  | [より子](../Page/より子.md "wikilink")                                            | 16日 | [安井順平](../Page/安井順平.md "wikilink")、[中村豪](https://ja.wikipedia.org/wiki/やるせなす "wikilink") | 23日 | [ビアンコネロ](../Page/ビアンコネロ.md "wikilink")                                                  | 30日 | Dice（[ダイス](https://ja.wikipedia.org/wiki/ダイス_\(お笑い\) "wikilink")）                                  |
-| --------- | -- | ------------------------------------------------------------------------- | --- | --------------------------------------------------------------------------- | --- | ---------------------------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------- | --- | -------------------------------------------------------------------------------------------------- |
-| 5月        | 7日 | [ケーアップ](https://ja.wikipedia.org/wiki/ケーアッププロモーション "wikilink")            | 14日 | [竹仲絵里](../Page/竹仲絵里.md "wikilink")                                          | 21日 | [ダブルブッキング](../Page/ダブルブッキング_\(お笑いコンビ\).md "wikilink")                                    | 28日 | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")                           |     |                                                                                                    |
-| 6月        | 4日 | [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink")     | 11日 | [中ノ森BAND](https://ja.wikipedia.org/wiki/中ノ森BAND "wikilink")                 | 18日 | [次長課長](../Page/次長課長のオールナイトニッポンR.md "wikilink")                                           | 25日 | [松村邦洋](../Page/松村邦洋.md "wikilink") \[50\]                                               |     |                                                                                                    |
-| 7月        | 2日 | [ひなた](../Page/ひなた_\(音楽グループ\).md "wikilink")                               | 9日  | [南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズのオールナイトニッポンR "wikilink") | 16日 | [及川奈央](https://ja.wikipedia.org/wiki/及川奈央 "wikilink")                                    | 23日 | [奥華子](../Page/奥華子.md "wikilink")                                                        | 30日 | \[51\]                                                                                             |
-| 8月        | 6日 | [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")                   | 13日 | [大輪教授](../Page/大輪教授.md "wikilink")                                          | 20日 | [上田晋也、古坂和仁](https://ja.wikipedia.org/wiki/上田晋也と古坂大魔王のオールナイトニッポンR "wikilink")             | 27日 | ライブスペシャル・インディー魂                                                                         |     |                                                                                                    |
-| 9月        | 3日 | [福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")                     | 10日 | 勝山康晴（[コンドルズ](https://ja.wikipedia.org/wiki/コンドルズ "wikilink")）               | 17日 | [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")                                  | 24日 | [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink") |     |                                                                                                    |
-| 10月       | 1日 | [U字工事](../Page/U字工事.md "wikilink")                                        | 8日  | [安田大サーカス](../Page/安田大サーカス.md "wikilink")                                    | 15日 | [ゲッターズ飯田](https://ja.wikipedia.org/wiki/ゲッターズ飯田 "wikilink")                              | 22日 | [ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木のオールナイトニッポン "wikilink")                      | 29日 | [吉田尚記](https://ja.wikipedia.org/wiki/吉田尚記のオールナイトニッポン#ローズオンライン_Presents_吉田尚記のゲームナイトニッポン "wikilink") |
-| 11月       | 5日 | [Tourbillon](https://ja.wikipedia.org/wiki/Tourbillon_\(バンド\) "wikilink") | 12日 | [レミオロメン](https://ja.wikipedia.org/wiki/レミオロメン "wikilink")                   | 19日 | 近藤良平（コンドルズ）                                                                              | 26日 |                                                                                         |     |                                                                                                    |
-| 12月       | 3日 | [BAZRA](../Page/BAZRA.md "wikilink")                                      | 10日 | 福田沙紀                                                                        | 17日 | 吉田尚記                                                                                     | 24日 | \[52\]                                                                                  | 31日 | \[53\]                                                                                             |
-| 注SAT2005： |    |                                                                           |     |                                                                             |     |                                                                                          |     |                                                                                         |     |                                                                                                    |
+| 4月        | 2日 | ミッドナイト ラン スペシャル                                                       | 9日  | [より子](../Page/より子.md "wikilink")                                            | 16日 | [安井順平](../Page/安井順平.md "wikilink")、[中村豪](../Page/やるせなす.md "wikilink") | 23日 | [ビアンコネロ](../Page/ビアンコネロ.md "wikilink")                                                  | 30日 | Dice（[ダイス](https://ja.wikipedia.org/wiki/ダイス_\(お笑い\) "wikilink")）                                  |
+| --------- | -- | --------------------------------------------------------------------- | --- | --------------------------------------------------------------------------- | --- | --------------------------------------------------------------------- | --- | --------------------------------------------------------------------------------------- | --- | -------------------------------------------------------------------------------------------------- |
+| 5月        | 7日 | [ケーアップ](https://ja.wikipedia.org/wiki/ケーアッププロモーション "wikilink")        | 14日 | [竹仲絵里](../Page/竹仲絵里.md "wikilink")                                          | 21日 | [ダブルブッキング](../Page/ダブルブッキング_\(お笑いコンビ\).md "wikilink")                 | 28日 | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")                           |     |                                                                                                    |
+| 6月        | 4日 | [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") | 11日 | [中ノ森BAND](../Page/中ノ森BAND.md "wikilink")                                    | 18日 | [次長課長](../Page/次長課長のオールナイトニッポンR.md "wikilink")                        | 25日 | [松村邦洋](../Page/松村邦洋.md "wikilink") \[50\]                                               |     |                                                                                                    |
+| 7月        | 2日 | [ひなた](../Page/ひなた_\(音楽グループ\).md "wikilink")                           | 9日  | [南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズのオールナイトニッポンR "wikilink") | 16日 | [及川奈央](https://ja.wikipedia.org/wiki/及川奈央 "wikilink")                 | 23日 | [奥華子](../Page/奥華子.md "wikilink")                                                        | 30日 | \[51\]                                                                                             |
+| 8月        | 6日 | [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")               | 13日 | [大輪教授](../Page/大輪教授.md "wikilink")                                          | 20日 | [上田晋也、古坂和仁](../Page/上田晋也と古坂大魔王のオールナイトニッポンR.md "wikilink")             | 27日 | ライブスペシャル・インディー魂                                                                         |     |                                                                                                    |
+| 9月        | 3日 | [福田沙紀](../Page/福田沙紀.md "wikilink")                                    | 10日 | 勝山康晴（[コンドルズ](../Page/コンドルズ.md "wikilink")）                                  | 17日 | [土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")               | 24日 | [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink") |     |                                                                                                    |
+| 10月       | 1日 | [U字工事](../Page/U字工事.md "wikilink")                                    | 8日  | [安田大サーカス](../Page/安田大サーカス.md "wikilink")                                    | 15日 | [ゲッターズ飯田](https://ja.wikipedia.org/wiki/ゲッターズ飯田 "wikilink")           | 22日 | [ビビる大木](../Page/ビビる大木のオールナイトニッポン.md "wikilink")                                         | 29日 | [吉田尚記](https://ja.wikipedia.org/wiki/吉田尚記のオールナイトニッポン#ローズオンライン_Presents_吉田尚記のゲームナイトニッポン "wikilink") |
+| 11月       | 5日 | [Tourbillon](../Page/Tourbillon_\(バンド\).md "wikilink")                | 12日 | [レミオロメン](../Page/レミオロメン.md "wikilink")                                      | 19日 | 近藤良平（コンドルズ）                                                           | 26日 |                                                                                         |     |                                                                                                    |
+| 12月       | 3日 | [BAZRA](../Page/BAZRA.md "wikilink")                                  | 10日 | 福田沙紀                                                                        | 17日 | 吉田尚記                                                                  | 24日 | \[52\]                                                                                  | 31日 | \[53\]                                                                                             |
+| 注SAT2005： |    |                                                                       |     |                                                                             |     |                                                                       |     |                                                                                         |     |                                                                                                    |
 
 #### 2006年
 
@@ -1078,7 +1078,7 @@ ONLY ONE</a></p></th>
 <th><p>21日</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/植村花菜" title="wikilink">植村花菜</a></p></th>
 <th><p>28日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ナチュラル_ハイ" title="wikilink">ナチュラル ハイ</a></p></th>
+<th><p><a href="../Page/ナチュラル_ハイ.md" title="wikilink">ナチュラル ハイ</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1087,7 +1087,7 @@ ONLY ONE</a></p></th>
 <td><p>4日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/出渕誠#レイザーラモンRG" title="wikilink">レイザーラモンRG</a></p></td>
 <td><p>11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AAA_(音楽グループ)" title="wikilink">AAA</a></p></td>
+<td><p><a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a></p></td>
 <td><p>18日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/立川志らら" title="wikilink">立川志らら</a></p></td>
 <td><p>25日</p></td>
@@ -1100,20 +1100,20 @@ ONLY ONE</a></p></th>
 <td><p>11日</p></td>
 <td><p><a href="../Page/HALFBY.md" title="wikilink">HALFBY</a></p></td>
 <td><p>18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></p></td>
+<td><p><a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></p></td>
 <td><p>25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上原奈美" title="wikilink">上原奈美</a></p></td>
+<td><p><a href="../Page/上原奈美.md" title="wikilink">上原奈美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4月</p></td>
 <td><p>1日</p></td>
 <td><p><a href="../Page/ブラックマヨネーズ.md" title="wikilink">ブラックマヨネーズ</a></p></td>
 <td><p>8日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a></p></td>
+<td><p><a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a></p></td>
 <td><p>15日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川嶋あい" title="wikilink">川嶋あい</a></p></td>
 <td><p>22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐久間一行" title="wikilink">佐久間一行</a></p></td>
+<td><p><a href="../Page/佐久間一行.md" title="wikilink">佐久間一行</a></p></td>
 </tr>
 <tr class="even">
 <td><p>5月</p></td>
@@ -1171,7 +1171,7 @@ ONLY ONE</a></p></th>
 <td><p><a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></p></td>
 <td><p>9日</p></td>
 <td><p>AYAKO<br />
-（<a href="https://ja.wikipedia.org/wiki/中ノ森BAND" title="wikilink">中ノ森BAND</a>）</p></td>
+（<a href="../Page/中ノ森BAND.md" title="wikilink">中ノ森BAND</a>）</p></td>
 <td><p>16日</p></td>
 <td><p><a href="../Page/麒麟_(お笑いコンビ).md" title="wikilink">麒麟</a></p></td>
 <td><p>23日</p></td>
@@ -1182,19 +1182,19 @@ ONLY ONE</a></p></th>
 
 #### 2007年
 
-| 1月  | 6日  | [FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")                                                                 | 13日 | [パッション屋良](../Page/パッション屋良.md "wikilink")                | 20日 | [谷山浩子](../Page/谷山浩子.md "wikilink")                      | 27日 | [有楽町音楽室](https://ja.wikipedia.org/wiki/オールナイトニッポンR_有楽町音楽室 "wikilink") |                                        |
-| --- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ------------------------------------------------------- | --- | ------------------------------------------------------- | --- | --------------------------------------------------------------------- | -------------------------------------- |
-| 2月  | 3日  | [三倉茉奈・佳奈](../Page/マナカナ.md "wikilink")                                                                                                             | 10日 | [川村ゆきえ](https://ja.wikipedia.org/wiki/川村ゆきえ "wikilink") | 17日 | [Metis](https://ja.wikipedia.org/wiki/Metis "wikilink") | 24日 |                                                                       |                                        |
-| 3月  | 3日  | [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")                                                                                            | 10日 | [椿屋四重奏](../Page/椿屋四重奏.md "wikilink")                    | 17日 | [チュートリアル](../Page/チュートリアルのオールナイトニッポンR.md "wikilink")    | 24日 | 31日                                                                   | [ジン](../Page/ジン_\(バンド\).md "wikilink") |
-| 4月  | 28日 | [SEAMO](../Page/SEAMO.md "wikilink")（[シーモネーターとDJ TAKI-SHITのオールナイトニッポンR](../Page/シーモネーター&DJ_TAKI-SHIT.md "wikilink")）                              |     |                                                         |     |                                                         |     |                                                                       |                                        |
-| 5月  | 26日 | [サイトウ “JxJx” ジュン](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD#現メンバー "wikilink")（[YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")） |     |                                                         |     |                                                         |     |                                                                       |                                        |
-| 6月  | 23日 | [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink") & [古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")                                 | 30日 | [麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")               |     |                                                         |     |                                                                       |                                        |
-| 7月  | 7日  | 「[Live Earth](https://ja.wikipedia.org/wiki/Live_Earth "wikilink")」 スペシャル（[荘口彰久](../Page/荘口彰久.md "wikilink")）                                     |     |                                                         |     |                                                         |     |                                                                       |                                        |
-| 8月  | 25日 | [木村美紀](https://ja.wikipedia.org/wiki/木村美紀 "wikilink")                                                                                             |     |                                                         |     |                                                         |     |                                                                       |                                        |
-| 9月  | 22日 | 麒麟                                                                                                                                                | 29日 | [モエヤン](https://ja.wikipedia.org/wiki/モエヤン "wikilink")   |     |                                                         |     |                                                                       |                                        |
-| 10月 | 27日 | [にしおかすみこ](../Page/にしおかすみこ.md "wikilink")                                                                                                          |     |                                                         |     |                                                         |     |                                                                       |                                        |
-| 11月 | 24日 | [レッドリボン](../Page/レッドリボン.md "wikilink")プロジェクトスペシャル（[山本シュウ](../Page/山本シュウ.md "wikilink")・[佐々木恭子](../Page/佐々木恭子.md "wikilink")）                      |     |                                                         |     |                                                         |     |                                                                       |                                        |
-| 12月 | 23日 | 木村美紀                                                                                                                                              | 30日 | [UVERworld](../Page/UVERworld.md "wikilink")            |     |                                                         |     |                                                                       |                                        |
+| 1月  | 6日  | [FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")                                                                 | 13日 | [パッション屋良](../Page/パッション屋良.md "wikilink")              | 20日 | [谷山浩子](../Page/谷山浩子.md "wikilink")                      | 27日 | [有楽町音楽室](https://ja.wikipedia.org/wiki/オールナイトニッポンR_有楽町音楽室 "wikilink") |                                        |
+| --- | --- | ------------------------------------------------------------------------------------------------------------------------------------------------- | --- | ----------------------------------------------------- | --- | ------------------------------------------------------- | --- | --------------------------------------------------------------------- | -------------------------------------- |
+| 2月  | 3日  | [三倉茉奈・佳奈](../Page/マナカナ.md "wikilink")                                                                                                             | 10日 | [川村ゆきえ](../Page/川村ゆきえ.md "wikilink")                  | 17日 | [Metis](https://ja.wikipedia.org/wiki/Metis "wikilink") | 24日 |                                                                       |                                        |
+| 3月  | 3日  | [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")                                                                                            | 10日 | [椿屋四重奏](../Page/椿屋四重奏.md "wikilink")                  | 17日 | [チュートリアル](../Page/チュートリアルのオールナイトニッポンR.md "wikilink")    | 24日 | 31日                                                                   | [ジン](../Page/ジン_\(バンド\).md "wikilink") |
+| 4月  | 28日 | [SEAMO](../Page/SEAMO.md "wikilink")（[シーモネーターとDJ TAKI-SHITのオールナイトニッポンR](../Page/シーモネーター&DJ_TAKI-SHIT.md "wikilink")）                              |     |                                                       |     |                                                         |     |                                                                       |                                        |
+| 5月  | 26日 | [サイトウ “JxJx” ジュン](https://ja.wikipedia.org/wiki/YOUR_SONG_IS_GOOD#現メンバー "wikilink")（[YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")） |     |                                                       |     |                                                         |     |                                                                       |                                        |
+| 6月  | 23日 | [Sowelu](https://ja.wikipedia.org/wiki/Sowelu "wikilink") & [古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")                                 | 30日 | [麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")             |     |                                                         |     |                                                                       |                                        |
+| 7月  | 7日  | 「[Live Earth](https://ja.wikipedia.org/wiki/Live_Earth "wikilink")」 スペシャル（[荘口彰久](../Page/荘口彰久.md "wikilink")）                                     |     |                                                       |     |                                                         |     |                                                                       |                                        |
+| 8月  | 25日 | [木村美紀](https://ja.wikipedia.org/wiki/木村美紀 "wikilink")                                                                                             |     |                                                       |     |                                                         |     |                                                                       |                                        |
+| 9月  | 22日 | 麒麟                                                                                                                                                | 29日 | [モエヤン](https://ja.wikipedia.org/wiki/モエヤン "wikilink") |     |                                                         |     |                                                                       |                                        |
+| 10月 | 27日 | [にしおかすみこ](../Page/にしおかすみこ.md "wikilink")                                                                                                          |     |                                                       |     |                                                         |     |                                                                       |                                        |
+| 11月 | 24日 | [レッドリボン](../Page/レッドリボン.md "wikilink")プロジェクトスペシャル（[山本シュウ](../Page/山本シュウ.md "wikilink")・[佐々木恭子](../Page/佐々木恭子.md "wikilink")）                      |     |                                                       |     |                                                         |     |                                                                       |                                        |
+| 12月 | 23日 | 木村美紀                                                                                                                                              | 30日 | [UVERworld](../Page/UVERworld.md "wikilink")          |     |                                                         |     |                                                                       |                                        |
 
 #### 2008年
 
@@ -1216,7 +1216,7 @@ ONLY ONE</a></p></th>
 <tr class="even">
 <td><p>3月</p></td>
 <td><p>22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千原ジュニア" title="wikilink">千原ジュニア</a></p></td>
+<td><p><a href="../Page/千原ジュニア.md" title="wikilink">千原ジュニア</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4月</p></td>
@@ -1231,7 +1231,7 @@ ONLY ONE</a></p></th>
 <tr class="odd">
 <td><p>6月</p></td>
 <td><p>28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SPA!#現在の連載企画" title="wikilink">バカサイ</a>（<a href="https://ja.wikipedia.org/wiki/南海キャンディーズ" title="wikilink">南海キャンディーズ</a> <a href="../Page/山里亮太.md" title="wikilink">山里亮太</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SPA!#現在の連載企画" title="wikilink">バカサイ</a>（<a href="../Page/南海キャンディーズ.md" title="wikilink">南海キャンディーズ</a> <a href="../Page/山里亮太.md" title="wikilink">山里亮太</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>7月</p></td>
@@ -1285,9 +1285,9 @@ ONLY ONE</a></p></th>
 
 #### 2010年
 
-| 1月  | 2日  | [パンクブーブー](https://ja.wikipedia.org/wiki/パンクブーブー "wikilink")       |
+| 1月  | 2日  | [パンクブーブー](../Page/パンクブーブー.md "wikilink")                          |
 | --- | --- | ----------------------------------------------------------------- |
-| 5月  | 29日 | [宅間孝行](https://ja.wikipedia.org/wiki/宅間孝行 "wikilink")             |
+| 5月  | 29日 | [宅間孝行](../Page/宅間孝行.md "wikilink")                                |
 | 7月  | 31日 | [茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")             |
 | 10月 | 30日 | 志磨遼平（[毛皮のマリーズ](https://ja.wikipedia.org/wiki/毛皮のマリーズ "wikilink")） |
 
@@ -1309,9 +1309,9 @@ ONLY ONE</a></p></th>
 | 4月        | 7日  | [MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink") | 14日    |
 | 5月        | 5日  | [moumoon](https://ja.wikipedia.org/wiki/moumoon_YUKAのオールナイトニッポンR "wikilink")      | 12日    |
 | 6月        | 2日  | [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")                           | 9日     |
-| 7月        | 7日  | [磁石](https://ja.wikipedia.org/wiki/磁石_\(お笑いコンビ\) "wikilink")\[60\]\[61\]          | 14日    |
+| 7月        | 7日  | [磁石](../Page/磁石_\(お笑いコンビ\).md "wikilink")\[60\]\[61\]                             | 14日    |
 | 8月        | 4日  | [高橋優](https://ja.wikipedia.org/wiki/高橋優のオールナイトニッポンシリーズ "wikilink")                | 11日    |
-| 9月        | 1日  | [COWCOW](https://ja.wikipedia.org/wiki/COWCOW "wikilink")\[62\]                   | 8日     |
+| 9月        | 1日  | [COWCOW](../Page/COWCOW.md "wikilink")\[62\]                                      | 8日     |
 | 10月       | 6日  | SKE48                                                                             | 13日    |
 | 11月       | 3日  | [back number](https://ja.wikipedia.org/wiki/back_number "wikilink")               | 10日    |
 | 12月       | 1日  | [アルコ&ピース](https://ja.wikipedia.org/wiki/アルコ&ピース "wikilink")                       | 8日     |
@@ -1330,7 +1330,7 @@ ONLY ONE</a></p></th>
 | 8月       | 3日 | [水沢アリー](https://ja.wikipedia.org/wiki/水沢アリー "wikilink")\[81\]                      | 10日 | ラブレターズ\[82\]                                                                  | 24日 | [LIFriends](https://ja.wikipedia.org/wiki/LIFriends "wikilink")\[83\]                            |
 | 9月       | 7日 | [くり万太郎](https://ja.wikipedia.org/wiki/くり万太郎のオールナイトニッポンR "wikilink")\[84\]          | 14日 | [うしろシティ](https://ja.wikipedia.org/wiki/うしろシティ "wikilink")\[85\]               | 28日 | お笑い有楽城                                                                                           |
 | 10月      | 5日 | [忘れらんねえよ](https://ja.wikipedia.org/wiki/忘れらんねえよ "wikilink")\[86\]                  | 12日 | [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")\[87\]               | 26日 | [パンサー](https://ja.wikipedia.org/wiki/パンサー_\(お笑い\) "wikilink")                                    |
-| 11月      | 2日 | [千鳥](https://ja.wikipedia.org/wiki/千鳥_\(お笑いコンビ\) "wikilink")                       | 9日  | [ダーリンハニー](../Page/ダーリンハニー.md "wikilink")\[88\]\[89\]                          | 23日 | [ラブレターズ](https://ja.wikipedia.org/wiki/ラブレターズ "wikilink")\[90\]\[91\]\[92\]                      |
+| 11月      | 2日 | [千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")                                          | 9日  | [ダーリンハニー](../Page/ダーリンハニー.md "wikilink")\[88\]\[89\]                          | 23日 | [ラブレターズ](https://ja.wikipedia.org/wiki/ラブレターズ "wikilink")\[90\]\[91\]\[92\]                      |
 | 12月      | 7日 | [WHITE ASH](https://ja.wikipedia.org/wiki/WHITE_ASH "wikilink")\[93\]              | 14日 | [パンサー](https://ja.wikipedia.org/wiki/パンサー_\(お笑い\) "wikilink")\[94\]           | 28日 | [大原櫻子](https://ja.wikipedia.org/wiki/大原櫻子 "wikilink")\[95\]                                      |
 | 注SAT2013 |    |                                                                                    |     |                                                                               |     |                                                                                                  |
 
@@ -1381,7 +1381,7 @@ ONLY ONE</a></p></th>
 <tr class="even">
 <td><p>5月</p></td>
 <td><p>3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オジンオズボーン" title="wikilink">オジンオズボーン</a></p></td>
+<td><p><a href="../Page/オジンオズボーン.md" title="wikilink">オジンオズボーン</a></p></td>
 <td><p>10日</p></td>
 <td><p><a href="../Page/ザ50回転ズ.md" title="wikilink">ザ50回転ズ</a></p></td>
 <td><p>24日</p></td>
@@ -1441,7 +1441,7 @@ ONLY ONE</a></p></th>
 <td><p>6日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チームしゃちほこ" title="wikilink">チームしゃちほこ</a></p></td>
 <td><p>13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レイザーラモン" title="wikilink">レイザーラモン</a></p></td>
+<td><p><a href="../Page/レイザーラモン.md" title="wikilink">レイザーラモン</a></p></td>
 <td><p>27日</p></td>
 <td><p><a href="../Page/ダブルブッキング_(お笑いコンビ).md" title="wikilink">ダブルブッキング</a>[107]</p></td>
 </tr>
@@ -1549,7 +1549,7 @@ ONLY ONE</a></p></th>
 <td><p>8日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/たんこぶちん" title="wikilink">たんこぶちん</a></p></td>
 <td><p>22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長州力" title="wikilink">長州力</a>[116][117]</p></td>
+<td><p><a href="../Page/長州力.md" title="wikilink">長州力</a>[116][117]</p></td>
 <td><p>29日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐久間宣行" title="wikilink">佐久間宣行</a><br />
 （<a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>プロデューサー）</p></td>
@@ -1570,7 +1570,7 @@ ONLY ONE</a></p></th>
 <td><p>3日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉澤嘉代子" title="wikilink">吉澤嘉代子</a></p></td>
 <td><p>10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/流れ星_(お笑いコンビ)" title="wikilink">流れ星</a></p></td>
+<td><p><a href="../Page/流れ星_(お笑いコンビ).md" title="wikilink">流れ星</a></p></td>
 <td><p>24日</p></td>
 <td><p>清水富美加[118]</p></td>
 <td><p>31日</p></td>
@@ -1691,7 +1691,7 @@ ONLY ONE</a></p></th>
 <td><p>2日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡崎体育" title="wikilink">岡崎体育</a></p></td>
 <td><p>9日</p></td>
-<td><p><a href="../Page/峯田和伸.md" title="wikilink">峯田和伸</a>と<a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">山口隆</a></p></td>
+<td><p><a href="../Page/峯田和伸.md" title="wikilink">峯田和伸</a>と<a href="../Page/サンボマスター.md" title="wikilink">山口隆</a></p></td>
 <td><p>23日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/GLIM_SPANKY" title="wikilink">GLIM SPANKY</a></p></td>
 <td><p>30日</p></td>
@@ -1711,7 +1711,7 @@ ONLY ONE</a></p></th>
 <tr class="even">
 <td><p>9月</p></td>
 <td><p>3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宅間孝行" title="wikilink">宅間孝行</a>[131]</p></td>
+<td><p><a href="../Page/宅間孝行.md" title="wikilink">宅間孝行</a>[131]</p></td>
 <td><p>10日</p></td>
 <td><p><a href="../Page/佐々木彩夏.md" title="wikilink">佐々木彩夏</a><br />
 （<a href="https://ja.wikipedia.org/wiki/ももいろクローバーZ" title="wikilink">ももいろクローバーZ</a>）</p></td>
@@ -1858,7 +1858,7 @@ ONLY ONE</a></p></th>
 <tr class="odd">
 <td><p>10月</p></td>
 <td><p>7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宅間孝行" title="wikilink">宅間孝行</a></p></td>
+<td><p><a href="../Page/宅間孝行.md" title="wikilink">宅間孝行</a></p></td>
 <td><p>14日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高須克弥" title="wikilink">高須克弥</a></p></td>
 <td><p>28日</p></td>
@@ -1907,7 +1907,7 @@ ONLY ONE</a></p></th>
 <th><p>20日</p></th>
 <th><p><a href="../Page/FLOW.md" title="wikilink">FLOW</a>&amp;<a href="../Page/GRANRODEO.md" title="wikilink">GRANRODEO</a></p></th>
 <th><p>27日</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/山崎樹範" title="wikilink">山崎樹範</a></p></th>
+<th><p><a href="../Page/山崎樹範.md" title="wikilink">山崎樹範</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1928,11 +1928,11 @@ ONLY ONE</a></p></th>
 <td><p>3日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/卯月_(お笑い)" title="wikilink">卯月</a>[151][152]</p></td>
 <td><p>10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ナイロン100℃" title="wikilink">ナイロン100℃</a></p></td>
+<td><p><a href="../Page/ナイロン100℃.md" title="wikilink">ナイロン100℃</a></p></td>
 <td><p>17日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/fhána" title="wikilink">fhána</a></p></td>
 <td><p>24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宅間孝行" title="wikilink">宅間孝行</a>[153]</p></td>
+<td><p><a href="../Page/宅間孝行.md" title="wikilink">宅間孝行</a>[153]</p></td>
 </tr>
 <tr class="odd">
 <td><p>注SAT2018　　　 </p></td>
@@ -1964,7 +1964,7 @@ ONLY ONE</a></p></th>
 
 ## 決戦\!お笑い有楽城
 
-2008年より放送されている[イマジンスタジオ](../Page/イマジンスタジオ.md "wikilink")での公開録音番組。ニッポン放送と[日本音楽事業者協会](https://ja.wikipedia.org/wiki/日本音楽事業者協会 "wikilink")が共同で企画・制作している\[157\]。初回はニッポン放送ローカル枠での特別番組として放送されたが、第2回よりオールナイトニッポンR週替わり枠での年2回放送へと移行した。オールナイトニッポンRの終了に伴い、第19回（2018年春）より後継番組である「オールナイトニッポン0(ZERO)」週替わり枠での放送となる。司会は第15回（2016年春）までは[東貴博](https://ja.wikipedia.org/wiki/東貴博 "wikilink")と女性アナウンサー、第16回（2016年秋）からは前回の優勝者と女性アナウンサーが担当し、審査員は原則として[松村邦洋](../Page/松村邦洋.md "wikilink")（東のスケジュールの都合により司会を務めた回もある）・女性タレント・番組制作関係者の3名が務める。
+2008年より放送されている[イマジンスタジオ](../Page/イマジンスタジオ.md "wikilink")での公開録音番組。ニッポン放送と[日本音楽事業者協会](../Page/日本音楽事業者協会.md "wikilink")が共同で企画・制作している\[157\]。初回はニッポン放送ローカル枠での特別番組として放送されたが、第2回よりオールナイトニッポンR週替わり枠での年2回放送へと移行した。オールナイトニッポンRの終了に伴い、第19回（2018年春）より後継番組である「オールナイトニッポン0(ZERO)」週替わり枠での放送となる。司会は第15回（2016年春）までは[東貴博](../Page/東貴博.md "wikilink")と女性アナウンサー、第16回（2016年秋）からは前回の優勝者と女性アナウンサーが担当し、審査員は原則として[松村邦洋](../Page/松村邦洋.md "wikilink")（東のスケジュールの都合により司会を務めた回もある）・女性タレント・番組制作関係者の3名が務める。
 
 毎回十数組の若手芸人たちによるネタバトル（予選）・トークバトル（予選上位3組による「ラジオでのテーマトーク」を模した決勝戦）を行い、優勝者には「オールナイトニッポンR（2018年からは「オールナイトニッポン0(ZERO)」）」単発パーソナリティー権が与えられる\[158\]。優勝者はニッポン放送が飛び降りる4時30分の手前に発表し、4時30分以降は予選敗退者による「下剋上トーク」（決勝戦と同じトークテーマで各自発言）が放送される。イベントの様子をそのまま放送するため、通常パーソナリティが担当する4時前・4時30分前のネット局飛び降りのアナウンスはアナウンサーが別途担当する。公開収録は基本的に3月及び9月だが、実際の放送時期や優勝特典としての単発番組が実現する時期は不定。
 
@@ -1976,12 +1976,12 @@ ONLY ONE</a></p></th>
 | -------------------- | ------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | nowrap|第1回           | nowrap|2008年春 | nowrap|[マシンガンズ](../Page/マシンガンズ.md "wikilink")                               | nowrap|[太田プロダクション](../Page/太田プロダクション.md "wikilink")                                          |
 | nowrap|第2回           | nowrap|2009年春 | nowrap|[ラバーガール](../Page/ラバーガール.md "wikilink")                               | nowrap|[プロダクション人力舎](../Page/プロダクション人力舎.md "wikilink")                                        |
-| nowrap|第3回           | nowrap|2009年秋 | nowrap|[いとうあさこ](https://ja.wikipedia.org/wiki/いとうあさこ "wikilink")            | nowrap|[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")                                                |
+| nowrap|第3回           | nowrap|2009年秋 | nowrap|[いとうあさこ](../Page/いとうあさこ.md "wikilink")                               | nowrap|[マセキ芸能社](../Page/マセキ芸能社.md "wikilink")                                                |
 | nowrap|第4回           | nowrap|2010年春 | nowrap|[フォーリンラブ](../Page/フォーリンラブ.md "wikilink")                             | nowrap|[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")                                |
 | nowrap|第5回           | nowrap|2010年秋 | nowrap|[なすなかにし](../Page/なすなかにし.md "wikilink")\[161\]                        | nowrap|[松竹芸能](../Page/松竹芸能.md "wikilink")                                                    |
-| nowrap|第6回           | nowrap|2011年秋 | nowrap|[三拍子](https://ja.wikipedia.org/wiki/三拍子_\(お笑いコンビ\) "wikilink")       | nowrap|[サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")                              |
-| nowrap|第7回           | nowrap|2012年春 | nowrap|[磁石](https://ja.wikipedia.org/wiki/磁石_\(お笑いコンビ\) "wikilink")         | nowrap|[ホリプロコム](https://ja.wikipedia.org/wiki/ホリプロコム "wikilink")                             |
-| nowrap|第8回           | nowrap|2012年秋 | nowrap|[バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")              | nowrap|[ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")         |
+| nowrap|第6回           | nowrap|2011年秋 | nowrap|[三拍子](../Page/三拍子_\(お笑いコンビ\).md "wikilink")                          | nowrap|[サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")                              |
+| nowrap|第7回           | nowrap|2012年春 | nowrap|[磁石](../Page/磁石_\(お笑いコンビ\).md "wikilink")                            | nowrap|[ホリプロコム](../Page/ホリプロコム.md "wikilink")                                                |
+| nowrap|第8回           | nowrap|2012年秋 | nowrap|[バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")              | nowrap|[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")                            |
 | nowrap|第9回           | nowrap|2013年春 | nowrap|[モグライダー](https://ja.wikipedia.org/wiki/モグライダー "wikilink")            | nowrap|マセキ芸能社                                                                                |
 | nowrap|第10回          | nowrap|2013年秋 | nowrap|[あばれる君](https://ja.wikipedia.org/wiki/あばれる君 "wikilink")              | nowrap|ワタナベエンターテインメント                                                                        |
 | nowrap|第11回          | nowrap|2014年春 | nowrap|[湘南デストラーデ](https://ja.wikipedia.org/wiki/湘南デストラーデ "wikilink")        | nowrap|[SMA HEET Project](https://ja.wikipedia.org/wiki/SMA_HEET_Project "wikilink")         |
@@ -2022,7 +2022,7 @@ ONLY ONE</a></p></th>
 4.  [ニッポン放送広報室公式ツイッター、2012年3月22日発信](https://twitter.com/1242_PR/status/182797409477341184)
 5.
 6.  [ニッポン放送広報室公式ツイッター、2012年10月12日発信](http://twitter.com/1242_pr/status/256616015440535552)
-7.  土曜日のみネットである13局は、『金曜JUNK ZERO Friday Special [城島茂のどっち派?\!](../Page/城島茂のどっち派?!.md "wikilink")』を放送。2008年9月26日まで『[JUNK2](https://ja.wikipedia.org/wiki/JUNK2 "wikilink")』を、2005年4月1日までは『[B-JUNK](../Page/B-JUNK.md "wikilink")』を放送していた。
+7.  土曜日のみネットである13局は、『金曜JUNK ZERO Friday Special [城島茂のどっち派?\!](../Page/城島茂のどっち派?!.md "wikilink")』を放送。2008年9月26日まで『[JUNK2](../Page/JUNK2.md "wikilink")』を、2005年4月1日までは『[B-JUNK](../Page/B-JUNK.md "wikilink")』を放送していた。
 8.  2009年3月までは『城島茂のどっち派?\!』を27:00-28:00に放送していたが、『どっち派?\!』をTBSラジオと同時ネットの24:00-25:00に移動させ、本番組の同時ネットに切り替えた。2010年4月より『[ミュージックナビ〜昨日と今日との交差点〜](https://ja.wikipedia.org/wiki/ミュージックナビ〜昨日と今日との交差点〜 "wikilink")』の同時ネットを開始し、本番組は打ち切られた。
 9.  2011年9月までの最終週は『[はるのオールナイトニッポンR](https://ja.wikipedia.org/wiki/はるのオールナイトニッポンR "wikilink")』を放送。
 10. 1998年4月から2003年9月の間、重大なニュースが入った場合は28:30で打ち切り。
@@ -2039,12 +2039,12 @@ ONLY ONE</a></p></th>
 21. いずれも『[東京ポッド許可局](https://ja.wikipedia.org/wiki/東京ポッド許可局 "wikilink")』のネットに切り替えた。
 22.
 23. 「[あなたへモーニングコール](../Page/あなたへモーニングコール.md "wikilink")」が終了したことに伴う
-24. 27時台は[19](https://ja.wikipedia.org/wiki/19_\(音楽グループ\) "wikilink")、28時台は [ゲッツ](https://ja.wikipedia.org/wiki/ゲッツ "wikilink")。
+24. 27時台は[19](../Page/19_\(音楽グループ\).md "wikilink")、28時台は [ゲッツ](https://ja.wikipedia.org/wiki/ゲッツ "wikilink")。
 25. ネット局のみ。
 26. ニッポン放送は28:00終了。
 27. オールナイトニッポンR・ネクストブレイクスペシャル
 28.
-29. [オールナイトニッポンレコード](https://ja.wikipedia.org/wiki/オールナイトニッポンレコード "wikilink")
+29. [オールナイトニッポンレコード](../Page/オールナイトニッポンレコード.md "wikilink")
 30. 横浜でアっテネ?そんなのアリ～な\!? 2004 SUMMER
 31. [オールナイトニッポンエバーグリーン](../Page/オールナイトニッポンエバーグリーン.md "wikilink")（[ラジオ・チャリティー・ミュージックソン](https://ja.wikipedia.org/wiki/ラジオ・チャリティー・ミュージックソン "wikilink")内）
 32. オールナイトニッポン・ニューイヤーイマジンライブスペシャル（25:00開始）
@@ -2055,7 +2055,7 @@ ONLY ONE</a></p></th>
 37.
 38. 東貴博のオールナイトニッポンR FIREHIP'Sスペシャル（東貴博、[はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")、ハマカーン他 ）
 39. 27:00～28:30はアイドルユニットサマーフェスティバルSP（DJ:[吉田尚記](../Page/吉田尚記.md "wikilink")） 、28:30～29:00（地方局のみ）は[立道聡子](https://ja.wikipedia.org/wiki/立道聡子 "wikilink")。
-40. 正式タイトル表記は「吉田尚記のオールナイトニッポンR [ミューコミ+プラス](https://ja.wikipedia.org/wiki/ミュ〜コミ+プラス "wikilink")・[ノイタミナ](https://ja.wikipedia.org/wiki/ノイタミナ "wikilink")合同新年会」。[吉田尚記のオールナイトニッポンR　ミューコミ×CXノイタミナ連動SP](http://twitter.com/mc1242/status/21921150816747520)
+40. 正式タイトル表記は「吉田尚記のオールナイトニッポンR [ミューコミ+プラス](https://ja.wikipedia.org/wiki/ミュ〜コミ+プラス "wikilink")・[ノイタミナ](../Page/ノイタミナ.md "wikilink")合同新年会」。[吉田尚記のオールナイトニッポンR　ミューコミ×CXノイタミナ連動SP](http://twitter.com/mc1242/status/21921150816747520)
 41.
 42. [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")の担当予定だったが、[2011年東北地方太平洋沖地震による災害報道特別番組に切り替えてネット局のみで放送](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")。ニッポン放送では同様の対応として吉田尚記が出演。SKE48の収録分は再編集されて[オールナイトニッポンモバイル](https://ja.wikipedia.org/wiki/オールナイトニッポンモバイル "wikilink")で配信された。なお、7月26日に放送された『[SKE48のオールナイトニッポン](https://ja.wikipedia.org/wiki/SKE48のオールナイトニッポンシリーズ "wikilink")』は新たに収録されたもの。
 43. 土曜R[3月12日](../Page/3月12日.md "wikilink")放送予定分の振替
@@ -2072,9 +2072,9 @@ ONLY ONE</a></p></th>
 54.
 55. 本編（前半）、[ラバーガール](../Page/ラバーガール.md "wikilink")（優勝者 / 後半）
 56. 番組表では、文字数不足の場合、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")と表記。
-57. ニッポン放送では[洗川雄司](https://ja.wikipedia.org/wiki/洗川雄司 "wikilink")、ネット局は[中村舞子](https://ja.wikipedia.org/wiki/中村舞子 "wikilink")がそれぞれ担当。
+57. ニッポン放送では[洗川雄司](../Page/洗川雄司.md "wikilink")、ネット局は[中村舞子](https://ja.wikipedia.org/wiki/中村舞子 "wikilink")がそれぞれ担当。
 58. 福山雅治のオールナイトニッポン [ラジオ・チャリティー・ミュージックソン スペシャル 『I'm with U キミと、24時間ラジオ』](https://ja.wikipedia.org/wiki/ラジオ・チャリティー・ミュージックソン_スペシャル_『I'm_with_U_キミと、24時間ラジオ』 "wikilink")。[9nineのオールナイトニッポンR](https://ja.wikipedia.org/wiki/9nineのオールナイトニッポンR "wikilink")は4月30日に振り替え。
-59. [ゆずの](../Page/ゆずのオールナイトニッポン.md "wikilink")[オールナイトニッポンR ミュージックソンスペシャル](https://ja.wikipedia.org/wiki/オールナイトニッポン_ラジオ・チャリティー・ミュージックソン "wikilink")
+59. [ゆずの](../Page/ゆずのオールナイトニッポン.md "wikilink")[オールナイトニッポンR ミュージックソンスペシャル](../Page/オールナイトニッポン_ラジオ・チャリティー・ミュージックソン.md "wikilink")
 60.
 61. 一部の地方局の番組表にはmoumoonが担当することになっていた。
 62. 【[オールナイトニッポン45周年 お笑いオールスターウィーク](https://ja.wikipedia.org/wiki/オールナイトニッポン45周年特別企画#オールナイトニッポン45周年_お笑いオールスターウィーク "wikilink")】の一環。
@@ -2093,7 +2093,7 @@ ONLY ONE</a></p></th>
 75.
 76. [モグライダーのオールナイトニッポンR](http://www.allnightnippon.com/info/mogura/)
 77. [RihwaのオールナイトニッポンR](http://www.allnightnippon.com/info/rihwa/)。聞き手は[増田みのり](../Page/増田みのり.md "wikilink")アナウンサー
-78. 「[ニッポン放送サッカースペシャル](https://ja.wikipedia.org/wiki/Jリーグ_RADIO "wikilink") [コンフェデレーションズカップ](https://ja.wikipedia.org/wiki/コンフェデレーションズカップ "wikilink")2013 実況中継」を翌朝6時まで生中継する関係でニッポン放送のみ27:50で飛び降り。
+78. 「[ニッポン放送サッカースペシャル](../Page/Jリーグ_RADIO.md "wikilink") [コンフェデレーションズカップ](https://ja.wikipedia.org/wiki/コンフェデレーションズカップ "wikilink")2013 実況中継」を翌朝6時まで生中継する関係でニッポン放送のみ27:50で飛び降り。
 79. [ミュ〜コミ+プラス](https://ja.wikipedia.org/wiki/ミュ〜コミ+プラス "wikilink")のスペシャル企画として行なわれた『[AKB48グループ研究生オールナイトニッポン選抜総選挙](http://www.allnightnippon.com/mcplus/info.php?yyyy=2013&mm=6&dd=13)』上位3名が出演。
 80. [AKB48グループ研究生のオールナイトニッポンR](http://www.allnightnippon.com/info/akbkr/)
 81. [水沢アリーのオールナイトニッポンR](http://www.allnightnippon.com/info/mizusawa/)
@@ -2132,28 +2132,28 @@ ONLY ONE</a></p></th>
 114. [2016年](../Page/2016年.md "wikilink")1月より「[清水富美加 みなぎるPM](https://ja.wikipedia.org/wiki/清水富美加_みなぎるPM "wikilink")」パーソナリティ
 115. 一部地域のみ28:30～29:00は「真夏の[ブスと野獣](https://ja.wikipedia.org/wiki/ブスと野獣 "wikilink")スペシャル」
 116. インタビュアー・進行役：[上柳昌彦](../Page/上柳昌彦.md "wikilink")、[田崎健太](https://ja.wikipedia.org/wiki/田崎健太 "wikilink")
-117. 一部地域のみ28:30～29:00は「[ほぼ長州力のオールナイトニッポンR](https://ja.wikipedia.org/wiki/長州小力 "wikilink")」
+117. 一部地域のみ28:30～29:00は「[ほぼ長州力のオールナイトニッポンR](../Page/長州小力.md "wikilink")」
 118.
 119. ニッポン放送『[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")の[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")』で行われた、「パーソナリティ決定戦」の優勝特典。伊藤かりん、相楽伊織が出演
 120. ニッポン放送「[アイアプレゼンツ SKE48\&HKT48のアイアイトーク](https://ja.wikipedia.org/wiki/アイアプレゼンツ_SKE48&HKT48のアイアイトーク "wikilink")」で行なわれた、出演権を賭けた対決企画の勝者特典。出演者 - [北川綾巴](https://ja.wikipedia.org/wiki/北川綾巴 "wikilink")、[惣田紗莉渚](https://ja.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[柴田阿弥](https://ja.wikipedia.org/wiki/柴田阿弥 "wikilink")、谷真理佳
 121. ゲスト：[井上苑子](https://ja.wikipedia.org/wiki/井上苑子 "wikilink")
-122. ゲスト：[清野茂樹](https://ja.wikipedia.org/wiki/清野茂樹 "wikilink")・[小島和宏](https://ja.wikipedia.org/wiki/小島和宏 "wikilink")・[はちみつロケット](https://ja.wikipedia.org/wiki/はちみつロケット "wikilink")・[岡田准一](../Page/岡田准一.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）[3](http://www.allnightnippon.com/info/2015academy/aft_index.html)
+122. ゲスト：[清野茂樹](../Page/清野茂樹.md "wikilink")・[小島和宏](https://ja.wikipedia.org/wiki/小島和宏 "wikilink")・[はちみつロケット](https://ja.wikipedia.org/wiki/はちみつロケット "wikilink")・[岡田准一](../Page/岡田准一.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）[3](http://www.allnightnippon.com/info/2015academy/aft_index.html)
 123.
 124. 安本彩花・廣田あいか・小林歌穂・中山莉子が出演、18歳未満のため事前収録。
 125. 『初笑いSP』の優勝特典
 126.
 127. MC：[吉田尚記](../Page/吉田尚記.md "wikilink")、ゲスト：[アイドルネッサンス](https://ja.wikipedia.org/wiki/アイドルネッサンス "wikilink")、[おやゆびプリンセス](https://ja.wikipedia.org/wiki/おやゆびプリンセス "wikilink")、[さんみゅ〜](https://ja.wikipedia.org/wiki/さんみゅ〜 "wikilink")、[SiAM\&POPTUNe](https://ja.wikipedia.org/wiki/SiAM&POPTUNe "wikilink")、[マジカル・パンチライン](https://ja.wikipedia.org/wiki/マジカル・パンチライン "wikilink")、[夢みるアドレセンス](https://ja.wikipedia.org/wiki/夢みるアドレセンス "wikilink")、[Le Siana](https://ja.wikipedia.org/wiki/Le_Siana "wikilink")
-128. 進行役：[垣花正](../Page/垣花正.md "wikilink")、ゲスト：[三丘翔太](https://ja.wikipedia.org/wiki/三丘翔太 "wikilink")、[津吹みゆ](https://ja.wikipedia.org/wiki/津吹みゆ "wikilink")
+128. 進行役：[垣花正](../Page/垣花正.md "wikilink")、ゲスト：[三丘翔太](../Page/三丘翔太.md "wikilink")、[津吹みゆ](https://ja.wikipedia.org/wiki/津吹みゆ "wikilink")
 129. サポート役：[向井慧](https://ja.wikipedia.org/wiki/向井慧 "wikilink")（[パンサー](https://ja.wikipedia.org/wiki/パンサー_\(お笑い\) "wikilink")）
 130. のび太、山さんが出演
-131. ゲスト：[酒井美紀](https://ja.wikipedia.org/wiki/酒井美紀 "wikilink")、安田カナ、[原史奈](https://ja.wikipedia.org/wiki/原史奈 "wikilink")、[入山杏奈](https://ja.wikipedia.org/wiki/入山杏奈 "wikilink")（[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")）
+131. ゲスト：[酒井美紀](https://ja.wikipedia.org/wiki/酒井美紀 "wikilink")、安田カナ、[原史奈](../Page/原史奈.md "wikilink")、[入山杏奈](https://ja.wikipedia.org/wiki/入山杏奈 "wikilink")（[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")）
 132. 真行寺貴秋、大山聡一が出演
 133. [渡邊璃生](https://ja.wikipedia.org/wiki/渡邊璃生 "wikilink")を除くメンバー全員が出演（生放送）
 134. 本来、第3土曜は「[スフィアのオールナイトニッポンR](https://ja.wikipedia.org/wiki/スフィアのオールナイトニッポンR "wikilink")」の放送だが、同番組が放送休止のため、この月のみ第3土曜も週替わりパーソナリティになっている
 135. 今井隆文、高橋秀行、猪塚健太が出演
-136. 「[乃木坂46 新内眞衣の](https://ja.wikipedia.org/wiki/乃木坂46_新内眞衣のオールナイトニッポン0\(ZERO\) "wikilink")[オールナイトニッポンR ラジオ・チャリティー・ミュージックソンスペシャル](https://ja.wikipedia.org/wiki/オールナイトニッポン_ラジオ・チャリティー・ミュージックソン "wikilink")」として放送。
+136. 「[乃木坂46 新内眞衣の](https://ja.wikipedia.org/wiki/乃木坂46_新内眞衣のオールナイトニッポン0\(ZERO\) "wikilink")[オールナイトニッポンR ラジオ・チャリティー・ミュージックソンスペシャル](../Page/オールナイトニッポン_ラジオ・チャリティー・ミュージックソン.md "wikilink")」として放送。
 137. 『[オールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/オールナイトニッポン0\(ZERO\) "wikilink")』の現役パーソナリティとして初めてのオールナイトニッポンRのパーソナリティを務める。
-138. [三四郎のオールナイトニッポン初笑いスペシャル](https://ja.wikipedia.org/wiki/三四郎のオールナイトニッポン0\(ZERO\) "wikilink")（25:00開始）、ゲスト：[ラブレターズ](https://ja.wikipedia.org/wiki/ラブレターズ "wikilink")、[藤井青銅](https://ja.wikipedia.org/wiki/藤井青銅 "wikilink")・中継リポーター：[マシンガンズ](../Page/マシンガンズ.md "wikilink")、[三拍子](https://ja.wikipedia.org/wiki/三拍子_\(お笑いコンビ\) "wikilink")・スタジオ出演者：[Aマッソ](https://ja.wikipedia.org/wiki/Aマッソ "wikilink")、[ルシファー吉岡](https://ja.wikipedia.org/wiki/ルシファー吉岡 "wikilink")、[ぐりんぴーす](https://ja.wikipedia.org/wiki/ぐりんぴーす "wikilink")、フレンチぶる、[インディアンス](https://ja.wikipedia.org/wiki/インディアンス_\(お笑いコンビ\) "wikilink")、（以上がお笑い芸人）[瀬川あやか](https://ja.wikipedia.org/wiki/瀬川あやか "wikilink")、[Brian the Sun](https://ja.wikipedia.org/wiki/Brian_the_Sun "wikilink")（以上がアーティスト）
+138. [三四郎のオールナイトニッポン初笑いスペシャル](https://ja.wikipedia.org/wiki/三四郎のオールナイトニッポン0\(ZERO\) "wikilink")（25:00開始）、ゲスト：[ラブレターズ](https://ja.wikipedia.org/wiki/ラブレターズ "wikilink")、[藤井青銅](https://ja.wikipedia.org/wiki/藤井青銅 "wikilink")・中継リポーター：[マシンガンズ](../Page/マシンガンズ.md "wikilink")、[三拍子](../Page/三拍子_\(お笑いコンビ\).md "wikilink")・スタジオ出演者：[Aマッソ](https://ja.wikipedia.org/wiki/Aマッソ "wikilink")、[ルシファー吉岡](https://ja.wikipedia.org/wiki/ルシファー吉岡 "wikilink")、[ぐりんぴーす](https://ja.wikipedia.org/wiki/ぐりんぴーす "wikilink")、フレンチぶる、[インディアンス](https://ja.wikipedia.org/wiki/インディアンス_\(お笑いコンビ\) "wikilink")、（以上がお笑い芸人）[瀬川あやか](https://ja.wikipedia.org/wiki/瀬川あやか "wikilink")、[Brian the Sun](https://ja.wikipedia.org/wiki/Brian_the_Sun "wikilink")（以上がアーティスト）
 139.
 140. メンバー全員で生放送予定だったが、鈴姫みさこがインフルエンザのため急遽欠席。
 141.
@@ -2161,7 +2161,7 @@ ONLY ONE</a></p></th>
 143.
 144. 三四郎のオールナイトニッポン初笑いスペシャルの優勝特典
 145. 三四郎のオールナイトニッポン初笑いスペシャルにおいて「一番ハネた」ということでパーソナリティを務めることになった。
-146. 『新日本プロレス・CHAOSのオールナイトニッポンR』として放送。出演は[オカダ・カズチカ](https://ja.wikipedia.org/wiki/オカダ・カズチカ "wikilink")、[矢野通](https://ja.wikipedia.org/wiki/矢野通 "wikilink")、[後藤洋央紀](../Page/後藤洋央紀.md "wikilink")、[石井智宏](../Page/石井智宏.md "wikilink")、[YOSHI-HASHI](https://ja.wikipedia.org/wiki/YOSHI-HASHI "wikilink")、[邪道](https://ja.wikipedia.org/wiki/邪道_\(プロレスラー\) "wikilink")、[外道の](https://ja.wikipedia.org/wiki/外道_\(プロレスラー\) "wikilink")7人。
+146. 『新日本プロレス・CHAOSのオールナイトニッポンR』として放送。出演は[オカダ・カズチカ](https://ja.wikipedia.org/wiki/オカダ・カズチカ "wikilink")、[矢野通](../Page/矢野通.md "wikilink")、[後藤洋央紀](../Page/後藤洋央紀.md "wikilink")、[石井智宏](../Page/石井智宏.md "wikilink")、[YOSHI-HASHI](https://ja.wikipedia.org/wiki/YOSHI-HASHI "wikilink")、[邪道](../Page/邪道_\(プロレスラー\).md "wikilink")、[外道の](../Page/外道_\(プロレスラー\).md "wikilink")7人。
 147. パーソナリティの[所属事務所の関係上](../Page/ジャニーズ事務所.md "wikilink")、この回のみ[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")プレミアムエリアフリー及びradikoタイムフリーの非対応となった。[4](http://www.allnightnippon.com/program/annr/2017/11/1111r.html)
 148. 出演:[伊波杏樹](https://ja.wikipedia.org/wiki/伊波杏樹 "wikilink")、[斉藤朱夏](https://ja.wikipedia.org/wiki/斉藤朱夏 "wikilink")、[逢田梨香子](https://ja.wikipedia.org/wiki/逢田梨香子 "wikilink")。
 149. ゲスト：[上白石萌歌](https://ja.wikipedia.org/wiki/上白石萌歌 "wikilink")

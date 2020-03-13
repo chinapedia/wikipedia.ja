@@ -5,14 +5,14 @@
 
 ## 正式名称
 
-  - FX - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[FOXテレビと同系列で](https://ja.wikipedia.org/wiki/フォックス放送 "wikilink")[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")専門のテレビネットワーク ⇒ **[FX (テレビ局)](https://ja.wikipedia.org/wiki/FX_\(テレビ局\) "wikilink")**
+  - FX - [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[FOXテレビと同系列で](../Page/フォックス放送.md "wikilink")[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")専門のテレビネットワーク ⇒ **[FX (テレビ局)](https://ja.wikipedia.org/wiki/FX_\(テレビ局\) "wikilink")**
 
 ## 略語・略称
 
 ### 一般名詞・術語
 
-  - [外国為替](https://ja.wikipedia.org/wiki/外国為替 "wikilink") (**F**oreign **Ex**change)
-      - [外国為替証拠金取引](https://ja.wikipedia.org/wiki/外国為替証拠金取引 "wikilink")
+  - [外国為替](../Page/外国為替.md "wikilink") (**F**oreign **Ex**change)
+      - [外国為替証拠金取引](../Page/外国為替証拠金取引.md "wikilink")
   - 効果 (effects) の音訳 合成写真や合成映像、音にエコーをかける等の意味。
       - [SFX](../Page/SFX.md "wikilink") - 映画などでの特撮のこと。撮影時に加える効果。
       - [VFX](../Page/VFX.md "wikilink") - 映画など視覚効果。撮影後に加える効果のこと。
@@ -44,16 +44,16 @@
   - 商品・製品名
       - サンテFX - [参天製薬](../Page/参天製薬.md "wikilink")の目薬
       - 自動車･オートバイの名称
-          - [トヨタ・カローラFX](https://ja.wikipedia.org/wiki/トヨタ・カローラFX "wikilink") - かつて販売していた[トヨタの](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[乗用車](../Page/乗用車.md "wikilink")
-          - [インフィニティ・FX](https://ja.wikipedia.org/wiki/インフィニティ・FX "wikilink") - [日産の輸出専用乗用車](../Page/日産自動車.md "wikilink")
-          - [フェラーリ・エンツォフェラーリ](https://ja.wikipedia.org/wiki/フェラーリ・エンツォフェラーリ "wikilink")の開発コードネーム。
+          - [トヨタ・カローラFX](../Page/トヨタ・カローラFX.md "wikilink") - かつて販売していた[トヨタの](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")[乗用車](../Page/乗用車.md "wikilink")
+          - [インフィニティ・FX](../Page/インフィニティ・FX.md "wikilink") - [日産の輸出専用乗用車](../Page/日産自動車.md "wikilink")
+          - [フェラーリ・エンツォフェラーリ](../Page/フェラーリ・エンツォフェラーリ.md "wikilink")の開発コードネーム。
           - [Z400FX](../Page/カワサキ・Z400FX.md "wikilink")・[Z750FX](../Page/カワサキ・Z750FX.md "wikilink")・[FX400Rなど](../Page/カワサキ・GPZ400R.md "wikilink") - [カワサキの](../Page/川崎重工業.md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")
   - ゲーム機･コンピュータ関連
       - [PC-FX](../Page/PC-FX.md "wikilink") - [日本電気ホームエレクトロニクス](../Page/日本電気ホームエレクトロニクス.md "wikilink")の[ゲーム機](../Page/ゲーム機.md "wikilink")
       - [FXシステム](../Page/FXシステム.md "wikilink") - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[アーケードゲーム基板](../Page/アーケードゲーム基板.md "wikilink")
       - [PC-9801FX](https://ja.wikipedia.org/wiki/PC-9800シリーズ#ホビーユースへの進出 "wikilink") - [NECの](../Page/日本電気.md "wikilink")[パソコン](../Page/パーソナルコンピュータ.md "wikilink")
-      - [Quadro FX](../Page/NVIDIA_Quadro.md "wikilink") - [GPUメーカー](../Page/Graphics_Processing_Unit.md "wikilink")[NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink")のプロフェッショナル向け製品群
-      - [Athlon 64 FX](../Page/Athlon_64_FX.md "wikilink") - [AMD製のCPUで](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、[Athlon 64の上位モデル](https://ja.wikipedia.org/wiki/Athlon_64 "wikilink")
+      - [Quadro FX](../Page/NVIDIA_Quadro.md "wikilink") - [GPUメーカー](../Page/Graphics_Processing_Unit.md "wikilink")[NVIDIA](../Page/NVIDIA.md "wikilink")のプロフェッショナル向け製品群
+      - [Athlon 64 FX](../Page/Athlon_64_FX.md "wikilink") - [AMD製のCPUで](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、[Athlon 64の上位モデル](../Page/Athlon_64.md "wikilink")
       - [AMD FX](https://ja.wikipedia.org/wiki/AMD_FX "wikilink") - [AMD製の](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")、[Bulldozerアーキテクチャを採用したCPU](https://ja.wikipedia.org/wiki/Bulldozer_\(マイクロアーキテクチャ\) "wikilink")
       - [JavaFX](https://ja.wikipedia.org/wiki/JavaFX "wikilink") - [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")のWebテクノロジ
 
@@ -61,7 +61,7 @@
 
 ### *f* (*x*)
 
-  - [関数](https://ja.wikipedia.org/wiki/関数_\(数学\) "wikilink")
+  - [関数](../Page/関数_\(数学\).md "wikilink")
   - [f(x)](https://ja.wikipedia.org/wiki/f\(x\) "wikilink") - 韓国の歌手グループ
 
 ## フィクションのことがら

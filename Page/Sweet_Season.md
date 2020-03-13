@@ -1,7 +1,7 @@
 > この記事は[Sweet Season](https://ja.wikipedia.org/wiki/Sweet_Season)から翻訳されています。
 
 
-**Sweet Season**（スウィート・シーズン）は、は[TBS系列で](../Page/TBSテレビ.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")から[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全11話。主演は[松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")。松嶋の民放連続ドラマ初主演作。放送時間は[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")[22:00-22:54](https://ja.wikipedia.org/wiki/TBS木曜10時枠の連続ドラマ "wikilink")（2月12日放送の第5話のみ、23:00-23:54）平均視聴率は12.4%、最高視聴率13.9%（第9話）。
+**Sweet Season**（スウィート・シーズン）は、は[TBS系列で](../Page/TBSテレビ.md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")から[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。全11話。主演は[松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")。松嶋の民放連続ドラマ初主演作。放送時間は[木曜日](../Page/木曜日.md "wikilink")[22:00-22:54](../Page/TBS木曜10時枠の連続ドラマ.md "wikilink")（2月12日放送の第5話のみ、23:00-23:54）平均視聴率は12.4%、最高視聴率13.9%（第9話）。
 
 ## 登場人物
 
@@ -17,7 +17,7 @@
     H.I.S.の課長。会社では、部下に慕われるよき上司であったが、真尋と不倫関係に。
     真尋が妊娠したことを知り、妻の千香子に[離婚](../Page/離婚.md "wikilink")を切り出すが、事故で[記憶喪失](https://ja.wikipedia.org/wiki/記憶喪失 "wikilink")になり、真尋との記憶を失ってしまう。
 
-\*;五嶋千香子(30) - [とよた真帆](https://ja.wikipedia.org/wiki/とよた真帆 "wikilink")
+\*;五嶋千香子(30) - [とよた真帆](../Page/とよた真帆.md "wikilink")
 
   -
     [女性誌](https://ja.wikipedia.org/wiki/女性誌 "wikilink")の記者で、明良の妻。旧姓：海老原。明良からは「**チカ**」と呼ばれている。
@@ -40,7 +40,7 @@
   -
     真也の隠し子。[仙台市](../Page/仙台市.md "wikilink")在住。ある日突然藤谷家を訪れる。
 
-\*;藤谷哉也子(47) - [市毛良枝](https://ja.wikipedia.org/wiki/市毛良枝 "wikilink")
+\*;藤谷哉也子(47) - [市毛良枝](../Page/市毛良枝.md "wikilink")
 
   -
     真尋、由真の母。不倫の末戻って来た夫真也を受け入れたが、[隠し子](../Page/隠し子.md "wikilink")の存在を知るに至り、離婚を切り出す。
@@ -70,13 +70,13 @@
 ## スタッフ
 
   - 脚本 - [青柳祐美子](../Page/青柳祐美子.md "wikilink")
-  - プロデューサー - [貴島誠一郎](https://ja.wikipedia.org/wiki/貴島誠一郎 "wikilink")
+  - プロデューサー - [貴島誠一郎](../Page/貴島誠一郎.md "wikilink")
   - 演出 - [福澤克雄](../Page/福澤克雄.md "wikilink")、[片山修](https://ja.wikipedia.org/wiki/片山修 "wikilink")、[三城真一](https://ja.wikipedia.org/wiki/三城真一 "wikilink")
   - プロデューサー補 - 小松貴生
   - 演出補 - 佐々木雅之、坪井敏雄、[瀬戸口克陽](../Page/瀬戸口克陽.md "wikilink")、川嶋龍太郎、浜崎空
   - 選曲 - [辻田昇司](https://ja.wikipedia.org/wiki/辻田昇司 "wikilink")
   - 音楽協力 - 日音
-  - 主題歌 - 「[LOVE AFFAIR 〜秘密のデート](../Page/LOVE_AFFAIR_〜秘密のデート.md "wikilink")」[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") （[タイシタレーベル](https://ja.wikipedia.org/wiki/タイシタレーベル "wikilink")）
+  - 主題歌 - 「[LOVE AFFAIR 〜秘密のデート](../Page/LOVE_AFFAIR_〜秘密のデート.md "wikilink")」[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") （[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")）
   - 協力 - [東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[緑山スタジオ・シティ](../Page/緑山スタジオ・シティ.md "wikilink")
   - 製作著作 - TBS
 

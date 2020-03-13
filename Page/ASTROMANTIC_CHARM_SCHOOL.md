@@ -5,7 +5,7 @@
 
 『ASTROMANTIC』の内容を国内外の一流リミキサーの手によって一新させた、としているアルバムである。
 
-各[インタールード](https://ja.wikipedia.org/wiki/インタールード "wikilink")のナレーションは[矢島正明](https://ja.wikipedia.org/wiki/矢島正明 "wikilink")が担当している。ストーリーは「ASTROMANTICなレディー・ジェントルマンを目指す者のための学校」。ちなみに、初回限定版には隠しボーナストラックが存在し、Curtain CallのMCが矢島正明になっているバージョンが21トラック目に収録されている。
+各[インタールード](https://ja.wikipedia.org/wiki/インタールード "wikilink")のナレーションは[矢島正明](../Page/矢島正明.md "wikilink")が担当している。ストーリーは「ASTROMANTICなレディー・ジェントルマンを目指す者のための学校」。ちなみに、初回限定版には隠しボーナストラックが存在し、Curtain CallのMCが矢島正明になっているバージョンが21トラック目に収録されている。
 
 ## 収録曲
 
@@ -23,7 +23,7 @@
 12. 宇宙のウオウオ -comoesta's mix- by [コモエスタ八重樫](https://ja.wikipedia.org/wiki/コモエスタ八重樫 "wikilink")
 13. I WANNA BE DOWN -Space Cowboy Disco Edit Mix- by [SPACE COWBOY](https://ja.wikipedia.org/wiki/:en:Space_Cowboy_\(music\) "wikilink")
 14. Lesson6
-15. [miss you](https://ja.wikipedia.org/wiki/miss_you_\(m-floの曲\) "wikilink") -Free TEMPO Mix- by [FreeTEMPO](https://ja.wikipedia.org/wiki/FreeTEMPO "wikilink")
+15. [miss you](https://ja.wikipedia.org/wiki/miss_you_\(m-floの曲\) "wikilink") -Free TEMPO Mix- by [FreeTEMPO](../Page/FreeTEMPO.md "wikilink")
 16. WAY U MOVE -m-floating tank mix- by [KENJI JAMMER](https://ja.wikipedia.org/wiki/KENJI_JAMMER "wikilink")
 17. Lesson7
 18. Cosmic Night Run -HALF & HALFBY MIX- by [HALFBY](../Page/HALFBY.md "wikilink")

@@ -23,13 +23,13 @@ __NOTOC__ **ST**, **St**, **st**
 
   - 企業・団体
 
-      - [エステー](https://ja.wikipedia.org/wiki/エステー "wikilink") - 日本の化学工業メーカー
+      - [エステー](../Page/エステー.md "wikilink") - 日本の化学工業メーカー
       - [エス・テー・デュポン](../Page/エス・テー・デュポン.md "wikilink") - フランスの万年筆、ライター、装身具メーカー。
       - [STマイクロエレクトロニクス](../Page/STマイクロエレクトロニクス.md "wikilink") - 半導体の製造・販売を行う多国籍企業。
       - [鳥取三洋電機](https://ja.wikipedia.org/wiki/鳥取三洋電機 "wikilink")の符号。（ex：A1014ST ただし、後に[三洋電機](../Page/三洋電機.md "wikilink")と同じSAに統一された）。
       - [相模鉄道](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")の[パスネット](https://ja.wikipedia.org/wiki/パスネット "wikilink")表記
       - [札幌市交通局](../Page/札幌市交通局.md "wikilink") ()
-      - [西武所沢車両工場](https://ja.wikipedia.org/wiki/西武所沢車両工場 "wikilink")
+      - [西武所沢車両工場](../Page/西武所沢車両工場.md "wikilink")
       - [西日本旅客鉄道吹田工場](../Page/西日本旅客鉄道吹田工場.md "wikilink") ()
       - [ゲルマニアの](https://ja.wikipedia.org/wiki/ゲルマニア_\(航空会社\) "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")
 
@@ -40,8 +40,8 @@ __NOTOC__ **ST**, **St**, **st**
 
   - 資格
 
-      - [言語聴覚士](https://ja.wikipedia.org/wiki/言語聴覚士 "wikilink") ()
-      - [ITストラテジスト試験](https://ja.wikipedia.org/wiki/ITストラテジスト試験 "wikilink") - 日本の国家試験
+      - [言語聴覚士](../Page/言語聴覚士.md "wikilink") ()
+      - [ITストラテジスト試験](../Page/ITストラテジスト試験.md "wikilink") - 日本の国家試験
 
   - [BitCash](../Page/BitCash.md "wikilink") ST - 電子マネー。
 
@@ -69,7 +69,7 @@ __NOTOC__ **ST**, **St**, **st**
 
   - [聖人](../Page/聖人.md "wikilink") ()
   - 底質が[石](../Page/石.md "wikilink")であることを表す[海図](../Page/海図.md "wikilink")記号
-  - [層雲](../Page/層雲.md "wikilink") () の十種[雲形](https://ja.wikipedia.org/wiki/雲形 "wikilink")記号
+  - [層雲](../Page/層雲.md "wikilink") () の十種[雲形](../Page/雲形.md "wikilink")記号
   - [ストークス](https://ja.wikipedia.org/wiki/ストークス "wikilink") - [動粘度](https://ja.wikipedia.org/wiki/動粘度 "wikilink")の単位
   - [鉄道駅](../Page/鉄道駅.md "wikilink") ()
 
@@ -77,7 +77,7 @@ __NOTOC__ **ST**, **St**, **st**
 
   - [1](https://ja.wikipedia.org/wiki/1 "wikilink"), [21](../Page/21.md "wikilink"), [31](../Page/31.md "wikilink"), [41](../Page/41.md "wikilink") …… の英語[序数標識](https://ja.wikipedia.org/wiki/序数標識 "wikilink")。
   - [.st](../Page/.st.md "wikilink") - サントメ・プリンシペの[国別トップレベルドメイン](https://ja.wikipedia.org/wiki/国別トップレベルドメイン "wikilink")
-  - [ソト語](https://ja.wikipedia.org/wiki/ソト語 "wikilink") () の [ISO 639](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")-1言語コード。
+  - [ソト語](https://ja.wikipedia.org/wiki/ソト語 "wikilink") () の [ISO 639](../Page/ISO_639.md "wikilink")-1言語コード。
   - [ステール](../Page/立方メートル.md "wikilink") () - 体積の単位。
   - [ストーン](https://ja.wikipedia.org/wiki/ストーン_\(単位\) "wikilink") () - イギリスの質量の単位
   - s.t. () - 「～のような」。数学で使う。

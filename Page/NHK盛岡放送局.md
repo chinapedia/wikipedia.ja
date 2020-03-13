@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Morioka.JPG "wikilink") **NHK盛岡放送局**（エヌエイチケイもりおかほうそうきょく）は、[岩手県](../Page/岩手県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。局舎は[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の中心部からやや離れた盛岡市上田にある。[岩手大学](https://ja.wikipedia.org/wiki/岩手大学 "wikilink")に近接している。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NHK_Morioka.JPG "wikilink") **NHK盛岡放送局**（エヌエイチケイもりおかほうそうきょく）は、[岩手県](../Page/岩手県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。局舎は[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")の中心部からやや離れた盛岡市上田にある。[岩手大学](https://ja.wikipedia.org/wiki/岩手大学 "wikilink")に近接している。
 
 ## 放送局概要
 
@@ -21,14 +21,14 @@
 
 [Shiwaniiyama_NHK_IBC_digitalTVstation.jpg](https://ja.wikipedia.org/wiki/File:Shiwaniiyama_NHK_IBC_digitalTVstation.jpg "fig:Shiwaniiyama_NHK_IBC_digitalTVstation.jpg")と共用するデジタルテレビ送信所。手前がNHKアナログテレビ・FM、奥が共用デジタルテレビの送信塔|280px\]\]
 
-  - 2005年12月1日、[紫波町](https://ja.wikipedia.org/wiki/紫波町 "wikilink")[新山から地上デジタル放送の本放送を開始した](../Page/新山_\(紫波町\).md "wikilink")。
+  - 2005年12月1日、[紫波町](../Page/紫波町.md "wikilink")[新山から地上デジタル放送の本放送を開始した](../Page/新山_\(紫波町\).md "wikilink")。
       - 総合テレビ 14ch [リモコンキーID](../Page/リモコンキーID.md "wikilink"):1 JOQG-DTV 1kW
       - 教育テレビ 13ch リモコンキーID:2 JOQC-DTV 1kW
 
 <!-- end list -->
 
   -
-    [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")は2006年4月-2007年3月4日までの試験放送時、アナログ・デジタル（12セグ）による盛岡送出のローカル番組放送中は[仙台放送局送出のローカル番組に差し替えて放送していたが](../Page/NHK仙台放送局.md "wikilink")、2007年3月5日から、ワンセグでも盛岡送出のローカル番組を放送するようになり、今日に至る。
+    [ワンセグ](../Page/ワンセグ.md "wikilink")は2006年4月-2007年3月4日までの試験放送時、アナログ・デジタル（12セグ）による盛岡送出のローカル番組放送中は[仙台放送局送出のローカル番組に差し替えて放送していたが](../Page/NHK仙台放送局.md "wikilink")、2007年3月5日から、ワンセグでも盛岡送出のローカル番組を放送するようになり、今日に至る。
 
 ### 中継局
 
@@ -107,7 +107,7 @@
   - 盛岡1（会館鉄塔）HD
   - 盛岡2（[開運橋を望むマンション屋上](../Page/開運橋_\(盛岡市\).md "wikilink")）HD
   - 盛岡3（盛岡駅前）SD
-  - [花巻空港](https://ja.wikipedia.org/wiki/花巻空港 "wikilink")（ターミナルビル屋上）HD
+  - [花巻空港](../Page/花巻空港.md "wikilink")（ターミナルビル屋上）HD
   - 宮古 HD
   - 浄土ヶ浜（宮古市）HD
   - 釜石 HD
@@ -172,7 +172,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤龍文" title="wikilink">佐藤龍文</a></p></td>
+<td><p><a href="../Page/佐藤龍文.md" title="wikilink">佐藤龍文</a></p></td>
 <td><p><a href="../Page/NHK札幌放送局.md" title="wikilink">札幌</a></p></td>
 <td><p>放送部副部長<br />
 岩手県のニュース</p></td>
@@ -272,6 +272,6 @@
   -
 [Category:NHK盛岡](https://ja.wikipedia.org/wiki/Category:NHK盛岡 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:岩手県のマスメディア](https://ja.wikipedia.org/wiki/Category:岩手県のマスメディア "wikilink") [Category:東北地方のテレビ局](https://ja.wikipedia.org/wiki/Category:東北地方のテレビ局 "wikilink") [Category:東北地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東北地方のラジオ局 "wikilink")
 
-1.  過去には[村上由利子](https://ja.wikipedia.org/wiki/村上由利子 "wikilink")、[松村正代](../Page/松村正代.md "wikilink")が在籍。
+1.  過去には[村上由利子](../Page/村上由利子.md "wikilink")、[松村正代](../Page/松村正代.md "wikilink")が在籍。
 2.  通常の「おばんですいわて」は2011年3月いっぱいまで18時からの全国ニュース枠が臨時に拡大されているため基本的には放送休止となっていたが、震災後の翌週は18:10-19:00。その後の平日は東北ブロック向け参加直後にローカル放送を始め18:25頃-19:00という編成でいずれも「[おばんですいわて](../Page/おばんですいわて.md "wikilink")」キャスターの[中山準之助](../Page/中山準之助.md "wikilink")アナが一人で担当し続けた。あまりの献身的な働き振りから岩手県民からの支持は絶大となり、局にも励ましや感謝の手紙が多数届けられた。土・日・祝日は18:45-19:00「県内ローカルニュースと天気予報」に縮小。
 3.  [証言・あの日あの時](http://www.nhk.or.jp/morioka/thumbnail/kennai_news.html) - 現在は「おばんですいわて」内などで放送。

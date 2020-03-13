@@ -3,7 +3,7 @@
 
 **avex ideak**（エイベックス イデアック）は、かつて存在した[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")・ホールディングスの[レコードレーベル](../Page/レコードレーベル.md "wikilink")である。
 
-[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")のエイベックスレーベルで[AGHARTA](https://ja.wikipedia.org/wiki/AGHARTA "wikilink")の「ILE AIYE 〜WAになっておどろう〜」やVOCALAND2のアーティストが中心である。
+[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")のエイベックスレーベルで[AGHARTA](../Page/AGHARTA.md "wikilink")の「ILE AIYE 〜WAになっておどろう〜」やVOCALAND2のアーティストが中心である。
 
 前年に[cutting edgeからリリースされ高い支持を得た](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")『[VOCALAND](https://ja.wikipedia.org/wiki/VOCALAND "wikilink")』の続編制作用に設立されたレーベルであり、avexの名を冠しながらもCDの規格番号は「CT」で始まっている（販売およびCD生産は当時の[東芝EMIが担当した](../Page/EMIミュージック・ジャパン.md "wikilink")）。パッケージ側面でもオーバルａマークとともに、このレーベル名のフルスペルが書き添えられていた。
 
@@ -17,9 +17,9 @@
 
 #### 8cmCD
 
-  - ILE AIYE 〜WAになっておどろう〜 / [AGHARTA](https://ja.wikipedia.org/wiki/AGHARTA "wikilink")
+  - ILE AIYE 〜WAになっておどろう〜 / [AGHARTA](../Page/AGHARTA.md "wikilink")
   - Give it up / [吉沢梨絵](https://ja.wikipedia.org/wiki/吉沢梨絵 "wikilink") from [VOCALAND](https://ja.wikipedia.org/wiki/VOCALAND "wikilink")
-  - Together / [吉田朋代](https://ja.wikipedia.org/wiki/吉田朋代_\(シンガーソングライター\) "wikilink") from VOCALAND
+  - Together / [吉田朋代](../Page/吉田朋代_\(シンガーソングライター\).md "wikilink") from VOCALAND
   - Never Gonna Miss You / 吉沢梨絵 Duet with [KADOMATSU T.](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")
   - ALL OF YOU / 吉沢梨絵
   - Because you are / 吉田朋代

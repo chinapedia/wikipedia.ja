@@ -1,11 +1,11 @@
 > この記事は[LOVE LOVE ](https://ja.wikipedia.org/wiki/LOVE_LOVE_)から翻訳されています。
 
 
-『**LOVE LOVE あいしてる**』（ラブラブあいしてる）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[1996年](../Page/1996年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送されていた[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。毎週[土曜日](../Page/土曜日.md "wikilink") 23:30 - 翌0:00（[JST](../Page/日本標準時.md "wikilink")）に放送されていた。 『[堂本兄弟](../Page/堂本兄弟.md "wikilink")』の前身番組に当たる。
+『**LOVE LOVE あいしてる**』（ラブラブあいしてる）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で](../Page/フジネットワーク.md "wikilink")[1996年](../Page/1996年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送されていた[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。毎週[土曜日](../Page/土曜日.md "wikilink") 23:30 - 翌0:00（[JST](../Page/日本標準時.md "wikilink")）に放送されていた。 『[堂本兄弟](../Page/堂本兄弟.md "wikilink")』の前身番組に当たる。
 
 ## 概要
 
-当番組は、毎週1組のゲストを迎え、トークコーナーと音楽コーナーで構成される。[スポンサー](../Page/スポンサー.md "wikilink")は前番組の流れから引き続き、[Panasonicの一社提供で](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、歴代番組と同様にKinKi Kidsが同社製品「デジカム」などのCMに出演していた。[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")・[プライムタイム](../Page/プライムタイム.md "wikilink")でも不定期で[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")が数回放送され、主にトークコーナーの総集編などがメインだった。
+当番組は、毎週1組のゲストを迎え、トークコーナーと音楽コーナーで構成される。[スポンサー](../Page/スポンサー.md "wikilink")は前番組の流れから引き続き、[Panasonicの一社提供で](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、歴代番組と同様にKinKi Kidsが同社製品「デジカム」などのCMに出演していた。[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")・[プライムタイム](../Page/プライムタイム.md "wikilink")でも不定期で[特別番組](../Page/特別番組.md "wikilink")が数回放送され、主にトークコーナーの総集編などがメインだった。
 
 KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュージシャンからギターの教えを請う等多大なる影響を受け、音楽的にも成長したと言われている。
 
@@ -15,7 +15,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
 
 前番組である『[めちゃ<sup>2</sup>モテたいッ\!](../Page/めちゃ×2モテたいッ!.md "wikilink")』が20時に移るその空いた23時30分の枠で、KinKi Kidsで愛をテーマにした音楽番組をやらないかとプロデューサー[きくち伸](../Page/きくち伸.md "wikilink")が編成から打診されたのがこの番組のきっかけである\[1\]。
 
-当初、KinKi Kidsと組む予定だったのは[玉置浩二](../Page/玉置浩二.md "wikilink")であったが、[スポンサー](../Page/スポンサー.md "wikilink")のパナソニックとの[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")で「玉置浩二は[ソニーのアーティストでは](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")」とパナソニック側が難色をしめしたため、[プロデューサー](../Page/プロデューサー.md "wikilink")のきくち伸が、とっさの思いつきで自身がファンだった「吉田拓郎ならどうでしょうか?」と言ってしまい「吉田拓郎ならいいんじゃないか」ということになったのが吉田の起用の経緯だった\[2\]\[3\]\[4\]。
+当初、KinKi Kidsと組む予定だったのは[玉置浩二](../Page/玉置浩二.md "wikilink")であったが、[スポンサー](../Page/スポンサー.md "wikilink")のパナソニックとの[プレゼンテーション](../Page/プレゼンテーション.md "wikilink")で「玉置浩二は[ソニーのアーティストでは](../Page/ソニー・ミュージックレコーズ.md "wikilink")」とパナソニック側が難色をしめしたため、[プロデューサー](../Page/プロデューサー.md "wikilink")のきくち伸が、とっさの思いつきで自身がファンだった「吉田拓郎ならどうでしょうか?」と言ってしまい「吉田拓郎ならいいんじゃないか」ということになったのが吉田の起用の経緯だった\[2\]\[3\]\[4\]。
 
 元々きくちには吉田拓郎のテレビ番組を作りたいという希望があり[1](http://www.musicman-net.com/relay/67-4.html#item-1)、吉田も『[ザ・ヒットパレード](../Page/ザ・ヒットパレード_\(テレビ番組\).md "wikilink")』のような音楽番組をやってみたいという希望があった\[5\]。しかし、吉田にはテレビに対する恐怖心があり、出演交渉は難航した。きくちはそれを除くのに苦心したという。また当時はCDデビューもしていなかった[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")のKinKi Kidsと組まされることにも抵抗したが、結局KinKi Kidsありきの番組で、きくちからも「拓郎さんひとりでは数字がとれない」とはっきり言われるなどして説得された。
 
@@ -29,7 +29,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
 
 [2001年](../Page/2001年.md "wikilink")3月31日に生放送で「LOVE LOVE ALL STARS解散ライブ」を行って番組が終了。同年4月から時間帯とKinKi Kids以外の出演者を一新して後継番組『**[堂本兄弟](https://ja.wikipedia.org/wiki/新堂本兄弟 "wikilink")**』がスタートした。
 
-[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")には、『**LOVE LOVE堂本兄弟10周年生スペシャル**』と題した[特別番組](https://ja.wikipedia.org/wiki/特別番組 "wikilink")を放送。『LOVE LOVE あいしてる』の第1回ゲストだった安室奈美恵らをゲストに招き、『LOVE LOVE あいしてる』から『（新）堂本兄弟』でのライブ部分の総集編をカウントダウン形式で放送した。第1位は『LOVE LOVE あいしてる200回記念』の生放送で披露された吉田拓郎翻訳詞による[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の「アポロ〜[広島弁](../Page/広島弁.md "wikilink")バージョン〜」。
+[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")には、『**LOVE LOVE堂本兄弟10周年生スペシャル**』と題した[特別番組](../Page/特別番組.md "wikilink")を放送。『LOVE LOVE あいしてる』の第1回ゲストだった安室奈美恵らをゲストに招き、『LOVE LOVE あいしてる』から『（新）堂本兄弟』でのライブ部分の総集編をカウントダウン形式で放送した。第1位は『LOVE LOVE あいしてる200回記念』の生放送で披露された吉田拓郎翻訳詞による[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の「アポロ〜[広島弁](../Page/広島弁.md "wikilink")バージョン〜」。
 
 [2017年](../Page/2017年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")（[金曜日](../Page/金曜日.md "wikilink")）23:00 - 23:58には、『**LOVE LOVE あいしてる 16年ぶりの復活SP**』と題して、2001年3月31日のレギュラー放送終了以来となる約16年ぶりに特別番組として復活した。司会のKinKi Kids、吉田拓郎、レギュラーの篠原ともえ、坂崎幸之助も再集結した\[8\]。ゲストは[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")、[菅田将暉](https://ja.wikipedia.org/wiki/菅田将暉 "wikilink")が出演した。音楽監督は[武部聡志](../Page/武部聡志.md "wikilink")が務めた\[9\]。なお、この特番にパナソニックは提供せず、複数社提供となった。同業他社の[三菱電機](../Page/三菱電機.md "wikilink")もスポンサーの一社だった。
 
@@ -52,12 +52,12 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
 
 スポンサー読みも交代で出演者が行っていた（KinKi Kids、吉田、篠原が担当）。
 
-そのほか、バックバンドである[LOVE LOVE ALL STARSには](https://ja.wikipedia.org/wiki/LOVE_LOVE_ALL_STARS "wikilink")[武部聡志](../Page/武部聡志.md "wikilink")、[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")、[高中正義](../Page/高中正義.md "wikilink")、[樋口宗孝](../Page/樋口宗孝.md "wikilink")（[LOUDNESS](../Page/LOUDNESS.md "wikilink")）、[松本玲二](https://ja.wikipedia.org/wiki/松本玲二 "wikilink")（[TUBE](../Page/TUBE.md "wikilink")）、[松田弘](../Page/松田弘.md "wikilink")（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")）、[野村義男](https://ja.wikipedia.org/wiki/野村義男 "wikilink")、[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")など錚々たるメンバーが名を連ねた。
+そのほか、バックバンドである[LOVE LOVE ALL STARSには](../Page/LOVE_LOVE_ALL_STARS.md "wikilink")[武部聡志](../Page/武部聡志.md "wikilink")、[吉田建](../Page/吉田建.md "wikilink")、[高中正義](../Page/高中正義.md "wikilink")、[樋口宗孝](../Page/樋口宗孝.md "wikilink")（[LOUDNESS](../Page/LOUDNESS.md "wikilink")）、[松本玲二](../Page/松本玲二.md "wikilink")（[TUBE](../Page/TUBE.md "wikilink")）、[松田弘](../Page/松田弘.md "wikilink")（[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")）、[野村義男](../Page/野村義男.md "wikilink")、[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")など錚々たるメンバーが名を連ねた。
 
 ## コーナー
 
   - プリプリプリティ
-    篠原ともえが毎回ゲストの楽屋を訪ねて、視聴者プレゼントとしてグッズや私物をもらおうというコーナー。国際版として「プリプリプリティInternational」があり、[エアロスミス](https://ja.wikipedia.org/wiki/エアロスミス "wikilink")や[ロビン・ウィリアムズ](https://ja.wikipedia.org/wiki/ロビン・ウィリアムズ "wikilink")、[レオナルド・ディカプリオ](../Page/レオナルド・ディカプリオ.md "wikilink")、[ジェームス・ブラウン](https://ja.wikipedia.org/wiki/ジェームス・ブラウン "wikilink")など、来日中の世界のスーパースターが数多く出演した。なぜかキスを迫られる事が多い（特に外国人ゲスト）。正月時期には、このコーナーのみをクローズアップした特番を放送した。番組が終了して14年弱後の[2015年](../Page/2015年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")には、『[バナナマンの決断は金曜日\!](https://ja.wikipedia.org/wiki/バナナマンの決断までのカウントダウン "wikilink")』で「プリプリプリティ2015」として復活を果たし、篠原は往年の衣装を着て[ふなっしー](https://ja.wikipedia.org/wiki/ふなっしー "wikilink")の楽屋を訪ねた。[2017年](../Page/2017年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")放送の16年ぶりの復活特別番組には、ゲストの[菅田将暉](https://ja.wikipedia.org/wiki/菅田将暉 "wikilink")と[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")の楽屋を訪ねた。
+    篠原ともえが毎回ゲストの楽屋を訪ねて、視聴者プレゼントとしてグッズや私物をもらおうというコーナー。国際版として「プリプリプリティInternational」があり、[エアロスミス](../Page/エアロスミス.md "wikilink")や[ロビン・ウィリアムズ](../Page/ロビン・ウィリアムズ.md "wikilink")、[レオナルド・ディカプリオ](../Page/レオナルド・ディカプリオ.md "wikilink")、[ジェームス・ブラウン](../Page/ジェームス・ブラウン.md "wikilink")など、来日中の世界のスーパースターが数多く出演した。なぜかキスを迫られる事が多い（特に外国人ゲスト）。正月時期には、このコーナーのみをクローズアップした特番を放送した。番組が終了して14年弱後の[2015年](../Page/2015年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")には、『[バナナマンの決断は金曜日\!](https://ja.wikipedia.org/wiki/バナナマンの決断までのカウントダウン "wikilink")』で「プリプリプリティ2015」として復活を果たし、篠原は往年の衣装を着て[ふなっしー](https://ja.wikipedia.org/wiki/ふなっしー "wikilink")の楽屋を訪ねた。[2017年](../Page/2017年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")放送の16年ぶりの復活特別番組には、ゲストの[菅田将暉](https://ja.wikipedia.org/wiki/菅田将暉 "wikilink")と[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")の楽屋を訪ねた。
   - カムカムギターキッズ
     KinKi Kidsの二人に、吉田拓郎や坂崎幸之助がギターを教えるコーナー。他にも、[char](https://ja.wikipedia.org/wiki/char "wikilink")やゲストが講師として出演。一時期、楽屋裏のトークコーナーのようになり、視聴者から「本当にギターを教えているのか」という指摘がなされた。
   - ピカピカニューソング
@@ -71,7 +71,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
 
   - 但し番組初期はプリプリがオープニングの前にあり、復活特番ではこの流れであった。
   - 上記の各コーナーは、トークの間に入ることもある。
-  - トーク中のコーナーでは、[ガシャポン](https://ja.wikipedia.org/wiki/ガシャポン "wikilink")にゲストに対するさまざまな質問が書かれた紙が入っており、数回ガチャポンを回して出てきた質問に答えながらトークするコーナー「ガチャガチャマシーン」（後期では「アルファ」が付加）も行われていた。
+  - トーク中のコーナーでは、[ガシャポン](../Page/ガシャポン.md "wikilink")にゲストに対するさまざまな質問が書かれた紙が入っており、数回ガチャポンを回して出てきた質問に答えながらトークするコーナー「ガチャガチャマシーン」（後期では「アルファ」が付加）も行われていた。
 
 ## オープニング
 
@@ -84,7 +84,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
   - 初回のゲストは[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")と[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")。
   - ゲストミュージシャンはLOVE LOVEな歌に関連したミュージシャン、来日中のアーティストや話題のアーティストなどが出演する。99年7月10日のLOVE LOVEあいしてるで[少年隊](../Page/少年隊.md "wikilink")が歌うNai-nai16([シブがき隊](https://ja.wikipedia.org/wiki/シブがき隊 "wikilink"))の演奏を[メガデスの](../Page/メガデス_\(バンド\).md "wikilink")[デイヴ・ムステイン](../Page/デイヴ・ムステイン.md "wikilink")と元メガデス（当時は現メガデス）の[マーティー・フリードマン](https://ja.wikipedia.org/wiki/マーティー・フリードマン "wikilink")が[ギター](../Page/ギター.md "wikilink")を弾き、その後ろで[そうる透](../Page/そうる透.md "wikilink")が笑顔でドラムを叩くという他の番組では見られないようなライブ演奏が見られるというのがこの番組の特徴である。因みにマーティはLOVE LOVEに出演出来ることを喜んでいたが、デイヴはこの番組に出るのはあまり乗り気でなかった事を後の音楽雑誌のインタビューで語っていた。
   - [イングヴェイ・マルムスティーン](../Page/イングヴェイ・マルムスティーン.md "wikilink")が登場した回はイングヴェイ本人がひたすら“イングヴェイ節”を炸裂させ、見るものを圧倒させた。その勢いは当日のゲストだった[観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")をも食ってしまう程であった。
-  - このほか、当時天使の歌声といわれた[シャルロット・チャーチ](https://ja.wikipedia.org/wiki/シャルロット・チャーチ "wikilink")や元[ヴァニラ・ファッジ](../Page/ヴァニラ・ファッジ.md "wikilink") 、[ベック・ボガート & アピス](../Page/ベック・ボガート_&_アピス.md "wikilink") の[カーマイン・アピス](../Page/カーマイン・アピス.md "wikilink")など来日中のミュージシャンが、国内のミュージシャンでは[忌野清志郎](../Page/忌野清志郎.md "wikilink")（ゲストとしても出演）、元[C-C-B](https://ja.wikipedia.org/wiki/C-C-B "wikilink")の[笠浩二](../Page/笠浩二.md "wikilink")、元[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")（ギタリストではなく、ヴァイオリニストとして）などが参加している。
+  - このほか、当時天使の歌声といわれた[シャルロット・チャーチ](../Page/シャルロット・チャーチ.md "wikilink")や元[ヴァニラ・ファッジ](../Page/ヴァニラ・ファッジ.md "wikilink") 、[ベック・ボガート & アピス](../Page/ベック・ボガート_&_アピス.md "wikilink") の[カーマイン・アピス](../Page/カーマイン・アピス.md "wikilink")など来日中のミュージシャンが、国内のミュージシャンでは[忌野清志郎](../Page/忌野清志郎.md "wikilink")（ゲストとしても出演）、元[C-C-B](../Page/C-C-B.md "wikilink")の[笠浩二](../Page/笠浩二.md "wikilink")、元[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")（ギタリストではなく、ヴァイオリニストとして）などが参加している。
   - レギュラー出演者がゲスト扱いだったこともある。[坂崎幸之助](../Page/坂崎幸之助.md "wikilink")と[ブラザー・トム](https://ja.wikipedia.org/wiki/ブラザー・トム "wikilink")がゲストとして出演した例や、[KinKi Kidsがゲスト扱いだった例がある](../Page/KinKi_Kids.md "wikilink")。KinKi Kidsがゲスト扱いの場合、司会は坂崎幸之助とブラザートムが務めていた。
 
 ## ネット局
@@ -236,7 +236,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a> (TNC)</p></td>
 <td></td>
 <td></td>
@@ -299,7 +299,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
   - ディレクター：深沢ボン（深沢一浩）、[清水宏泰](../Page/清水宏泰.md "wikilink")、冨田哲朗
   - 演出：城野智則
   - プロデューサー：[きくち伸](../Page/きくち伸.md "wikilink")
-  - 技術協力：[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、[八峯テレビ](../Page/八峯テレビ.md "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")、[池田屋](https://ja.wikipedia.org/wiki/池田屋_\(テレビ技術会社\) "wikilink")、PRGアジアライティング、サンフォニックス、[TAMCO](https://ja.wikipedia.org/wiki/タムコ "wikilink")
+  - 技術協力：[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、[八峯テレビ](../Page/八峯テレビ.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[池田屋](https://ja.wikipedia.org/wiki/池田屋_\(テレビ技術会社\) "wikilink")、PRGアジアライティング、サンフォニックス、[TAMCO](../Page/タムコ.md "wikilink")
   - 収録スタジオ : [東京メディアシティ](../Page/東京メディアシティ.md "wikilink")
   - 協力：ハーフトーンミュージック
   - 制作協力：CONTROL、オフィス源
@@ -325,7 +325,7 @@ KinKi Kidsは当番組で、吉田拓郎やLOVE LOVE ALL STARS等、大物ミュ
   - 演出：[浜崎綾](https://ja.wikipedia.org/wiki/浜崎綾 "wikilink")
   - プロデューサー：宇賀神裕子
   - チーフプロデューサー：[三浦淳](../Page/三浦淳.md "wikilink")
-  - 技術協力：[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、共同テレビジョン、サンフォニックス、[明光セレクト](https://ja.wikipedia.org/wiki/明光セレクト "wikilink")、IMAGICA、4-Legs、マルチバックス、ハーフトーンミュージック、[YBE](https://ja.wikipedia.org/wiki/よしもとブロードエンタテインメント "wikilink")
+  - 技術協力：[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、共同テレビジョン、サンフォニックス、[明光セレクト](https://ja.wikipedia.org/wiki/明光セレクト "wikilink")、IMAGICA、4-Legs、マルチバックス、ハーフトーンミュージック、[YBE](../Page/よしもとブロードエンタテインメント.md "wikilink")
   - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - 制作協力：[イースト・エンタテインメント](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")、オランジュ、グスク、クリーク・アンド・リバー社
   - 制作：フジテレビ編成局制作センター第二制作室

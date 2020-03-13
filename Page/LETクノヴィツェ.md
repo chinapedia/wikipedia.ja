@@ -7,11 +7,11 @@
 
 ## 概要
 
-[1936年](../Page/1936年.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")機の修理工場として設立され、戦後は東側の航空機メーカーとして、[練習機](https://ja.wikipedia.org/wiki/練習機 "wikilink")や[輸送機](../Page/輸送機.md "wikilink")の[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")をおこなってきた。[1966年](../Page/1966年.md "wikilink")に開発された軽輸送機[L-410シリーズは](../Page/L-410_\(航空機\).md "wikilink")1,100機ほど製作された。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ソ連崩壊](https://ja.wikipedia.org/wiki/ソ連崩壊 "wikilink")で民営化され、[アメリカの農業用飛行機メーカー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、アイヤース()に買収されることになったが、破談になり、生産は停止された。
+[1936年](../Page/1936年.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")機の修理工場として設立され、戦後は東側の航空機メーカーとして、[練習機](../Page/練習機.md "wikilink")や[輸送機](../Page/輸送機.md "wikilink")の[ライセンス生産](../Page/ライセンス生産.md "wikilink")をおこなってきた。[1966年](../Page/1966年.md "wikilink")に開発された軽輸送機[L-410シリーズは](../Page/L-410_\(航空機\).md "wikilink")1,100機ほど製作された。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ソ連崩壊](../Page/ソ連崩壊.md "wikilink")で民営化され、[アメリカの農業用飛行機メーカー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、アイヤース()に買収されることになったが、破談になり、生産は停止された。
 
 ## 歴史
 
-1936年に[シュコダ財閥](../Page/シュコダ財閥.md "wikilink")の一部門として[Kunoviceの工場で航空機の生産を始めた](https://ja.wikipedia.org/wiki/:en:Kunovice_\(Uherské_Hradiště_District\) "wikilink")。第二次世界大戦前から大戦中は修理工場としてのみ運用された。大戦後工場は国有化され1950年から1953年にかけて新工場が建設された。1957年から1967年にかけて**SPP** (*Strojírny první pětiletky* - "第一次5カ年計画")として命名され1967年にLETの名称に戻された。工場ではソビエト連邦からの機体の[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")で練習機である[Yak-11](https://ja.wikipedia.org/wiki/Yak-11_\(航空機\) "wikilink")(C-11として識別された)や多目的機[アエロ Ae-45](https://ja.wikipedia.org/wiki/アエロ_Ae-45 "wikilink")、[Ae-145の生産を行った](https://ja.wikipedia.org/wiki/アエロ_Ae-45 "wikilink")。
+1936年に[シュコダ財閥](../Page/シュコダ財閥.md "wikilink")の一部門として[Kunoviceの工場で航空機の生産を始めた](https://ja.wikipedia.org/wiki/:en:Kunovice_\(Uherské_Hradiště_District\) "wikilink")。第二次世界大戦前から大戦中は修理工場としてのみ運用された。大戦後工場は国有化され1950年から1953年にかけて新工場が建設された。1957年から1967年にかけて**SPP** (*Strojírny první pětiletky* - "第一次5カ年計画")として命名され1967年にLETの名称に戻された。工場ではソビエト連邦からの機体の[ライセンス生産](../Page/ライセンス生産.md "wikilink")で練習機である[Yak-11](../Page/Yak-11_\(航空機\).md "wikilink")(C-11として識別された)や多目的機[アエロ Ae-45](https://ja.wikipedia.org/wiki/アエロ_Ae-45 "wikilink")、[Ae-145の生産を行った](https://ja.wikipedia.org/wiki/アエロ_Ae-45 "wikilink")。
 
 1957年から[L-200 モラヴァ軽飛行機の開発を開始し](https://ja.wikipedia.org/wiki/:en:Let_L-200_Morava "wikilink")、4年後に[Z-37 Cmelak農業機を開発し](https://ja.wikipedia.org/wiki/:en:Zlin_Z-37_Cmelak "wikilink")、両機とも商業的に成功を収めた。末期には[L-29ジェット練習機の生産も行った](https://ja.wikipedia.org/wiki/:en:Aero_L-29_Delfín "wikilink")。
 
@@ -27,7 +27,7 @@
 
 ## 機体リスト
 
-  - LET [C-11](https://ja.wikipedia.org/wiki/Yak-11_\(航空機\) "wikilink")
+  - LET [C-11](../Page/Yak-11_\(航空機\).md "wikilink")
   - LET ブリガディル
   - LET [L-13ブラニック](../Page/L-13_\(滑空機\).md "wikilink")
   - LET [L-23スーパーブラニック](https://ja.wikipedia.org/wiki/L-23_\(滑空機\) "wikilink")

@@ -6,11 +6,11 @@
 ## 解説
 
   - アルバム『[First Love](../Page/First_Love_\(宇多田ヒカルのアルバム\).md "wikilink")』からの[シングル](../Page/シングル.md "wikilink")カット。累計出荷枚数96万枚のヒットとなる\[1\]。
-  - オリコンシングルチャートでの最高順位は12cm盤で記録した2位（2週連続）であるが、8cm盤も合算すると2週連続1位を獲得したことになる。ちなみに当時の1位は[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の「[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink")」（2週目）と[Dragon Ashの](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")「[Grateful Days](../Page/Grateful_Days.md "wikilink")」であった。
+  - オリコンシングルチャートでの最高順位は12cm盤で記録した2位（2週連続）であるが、8cm盤も合算すると2週連続1位を獲得したことになる。ちなみに当時の1位は[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の「[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink")」（2週目）と[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")「[Grateful Days](../Page/Grateful_Days.md "wikilink")」であった。
   - 「First Love」はオリコン[カラオケ](../Page/カラオケ.md "wikilink")チャートで15週連続1位を記録。
   - 2000年春の[選抜高等学校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")の入場行進曲にも採用された。なお、この曲の中で「たばこ」という歌詞が出てくる事も有り、一部では採用に反対する声もあったという。
   - デビュー10周年記念企画として2008年3月10日より4日間、着うたの無料ダウンロードが実施されたところ、ダウンロード数が70万件を突破した。
-  - 発売から15年後の[2015年](../Page/2015年.md "wikilink")[9月23日には](../Page/9月19日.md "wikilink")、ミュージック・ステーション30周年記念特番『[ウルトラFES 2015](https://ja.wikipedia.org/wiki/ウルトラFES#2015 "wikilink")』にてウルトラ[HD](https://ja.wikipedia.org/wiki/HD "wikilink")[リマスター](https://ja.wikipedia.org/wiki/リマスター "wikilink")版として、当時の歌唱シーンが再びO.Aされた。
+  - 発売から15年後の[2015年](../Page/2015年.md "wikilink")[9月23日には](../Page/9月19日.md "wikilink")、ミュージック・ステーション30周年記念特番『[ウルトラFES 2015](https://ja.wikipedia.org/wiki/ウルトラFES#2015 "wikilink")』にてウルトラ[HD](../Page/HD.md "wikilink")[リマスター](https://ja.wikipedia.org/wiki/リマスター "wikilink")版として、当時の歌唱シーンが再びO.Aされた。
 
 ## 収録曲
 
@@ -21,7 +21,7 @@
 1.  **First Love**(4:18)
       -
         編曲、ストリングス・アレンジ：[河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")
-        1999年[TBS系テレビドラマ](../Page/TBSテレビ.md "wikilink")『[魔女の条件](https://ja.wikipedia.org/wiki/魔女の条件 "wikilink")』主題歌。
+        1999年[TBS系テレビドラマ](../Page/TBSテレビ.md "wikilink")『[魔女の条件](../Page/魔女の条件.md "wikilink")』主題歌。
         2014年[NTT東日本CF曲](../Page/東日本電信電話.md "wikilink")。
 2.  **First Love -Strings Mix**(4:20)
       -
@@ -57,7 +57,7 @@
 
 <!-- end list -->
 
-  - [河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")：[keyboards](../Page/キーボード_\(楽器\).md "wikilink")、[programming](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - [河野圭](https://ja.wikipedia.org/wiki/河野圭 "wikilink")：[keyboards](../Page/キーボード_\(楽器\).md "wikilink")、[programming](../Page/ミュージックシーケンサー.md "wikilink")
   - 百々政幸：[synthesizer programming](../Page/シンセサイザー.md "wikilink")
   - 飯田高広：synthesizer programming
   - [秋山浩徳](https://ja.wikipedia.org/wiki/秋山浩徳 "wikilink")：[guitar](../Page/ギター.md "wikilink")
@@ -103,9 +103,9 @@
   - 2007年、[SOTTE BOSSE](../Page/SOTTE_BOSSE.md "wikilink")（アルバム『[innocent view](https://ja.wikipedia.org/wiki/innocent_view "wikilink")』に収録）
   - 2008年、[スコット・マーフィー](https://ja.wikipedia.org/wiki/アリスター "wikilink")（アルバム『[Guilty Pleasures 3](https://ja.wikipedia.org/wiki/Guilty_Pleasures_3 "wikilink")』に収録）
   - 2008年、[中西保志](../Page/中西保志.md "wikilink")（アルバム『STANDARDS 3』に収録）
-  - 2008年、[ジェイク・シマブクロ](https://ja.wikipedia.org/wiki/ジェイク・シマブクロ "wikilink")（アルバム『一期一会』に収録）
+  - 2008年、[ジェイク・シマブクロ](../Page/ジェイク・シマブクロ.md "wikilink")（アルバム『一期一会』に収録）
   - 2009年、[押尾コータロー](../Page/押尾コータロー.md "wikilink")（アルバム『Tussie Mussie』に収録）
-  - 2010年、[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")（アルバム『[VOCALIST 4](https://ja.wikipedia.org/wiki/VOCALIST_4 "wikilink")』に収録）
+  - 2010年、[徳永英明](../Page/徳永英明.md "wikilink")（アルバム『[VOCALIST 4](https://ja.wikipedia.org/wiki/VOCALIST_4 "wikilink")』に収録）
   - 2010年、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")（アルバム『[Request](https://ja.wikipedia.org/wiki/Request_\(アルバム\) "wikilink")』に収録）
   - 2010年、[エリック・マーティン](../Page/エリック・マーティン.md "wikilink")（アルバム『Mr. Vocalist 3』に収録）
   - 2010年、[ボーイズ・II・メン](https://ja.wikipedia.org/wiki/ボーイズ・II・メン "wikilink")（アルバム『Covered: Winter』に収録）

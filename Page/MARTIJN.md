@@ -11,7 +11,7 @@
 
 実態としては小児愛者同士が議論を行うフォーラムに近く、互いの情報交換、主義主張を討論する場としての意味合いが強い。また、こうした意見や投稿をとりまとめ、不定期の機関誌「[OK magazine](../Page/OK_magazine.md "wikilink")」として編集・出版を行っている。
 
-名目上では小児愛関連全般としており、機関誌「[OK magazine](../Page/OK_magazine.md "wikilink")」も含めてその内容には[少女愛](https://ja.wikipedia.org/wiki/少女愛 "wikilink")運動も含まれてはいるが、実際には[少年愛](../Page/少年愛.md "wikilink")がメインとなっている。
+名目上では小児愛関連全般としており、機関誌「[OK magazine](../Page/OK_magazine.md "wikilink")」も含めてその内容には[少女愛](../Page/少女愛.md "wikilink")運動も含まれてはいるが、実際には[少年愛](../Page/少年愛.md "wikilink")がメインとなっている。
 
 会員は1年間の登録となり、機関誌である「OK magazine」の郵送を受けることができる。以後、1年ずつの延長登録となる。
 

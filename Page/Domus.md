@@ -7,7 +7,7 @@
 
 この雑誌の主たる編集者としては、マリオ・ベリーニ（Mario Bellini）、ルイジ・スピネリ（Luigi Spinelli）などがいる。
 
-表紙についても、著名なデザイナーや画家が担当している。例えば、[ヘルベルト・バイヤー](https://ja.wikipedia.org/wiki/ヘルベルト・バイヤー "wikilink")、ハーバート・マター（Herbert Matter, 1907年-1984年）、ポール・ランド（Paul Rand, 1914年-1996年）、マックス・ビル（Max Bill, 1908年-1994年）、[パウル・クレー](../Page/パウル・クレー.md "wikilink")、[ルーチョ・フォンタナ](../Page/ルーチョ・フォンタナ.md "wikilink")、[ル・コルビュジエ](../Page/ル・コルビュジエ.md "wikilink")、[チャールズ・イームズ](../Page/チャールズ・イームズ.md "wikilink")、ミルトン・グレイザー（Milton Glaser, 1929年-）などである（下記Taschenのページを参照）。
+表紙についても、著名なデザイナーや画家が担当している。例えば、[ヘルベルト・バイヤー](../Page/ヘルベルト・バイヤー.md "wikilink")、ハーバート・マター（Herbert Matter, 1907年-1984年）、ポール・ランド（Paul Rand, 1914年-1996年）、マックス・ビル（Max Bill, 1908年-1994年）、[パウル・クレー](../Page/パウル・クレー.md "wikilink")、[ルーチョ・フォンタナ](../Page/ルーチョ・フォンタナ.md "wikilink")、[ル・コルビュジエ](../Page/ル・コルビュジエ.md "wikilink")、[チャールズ・イームズ](../Page/チャールズ・イームズ.md "wikilink")、ミルトン・グレイザー（Milton Glaser, 1929年-）などである（下記Taschenのページを参照）。
 
 ## 日本国内の図書館で所蔵されているDomus
 

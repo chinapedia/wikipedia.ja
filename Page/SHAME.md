@@ -1,7 +1,7 @@
 > この記事は[SHAME](https://ja.wikipedia.org/wiki/SHAME)から翻訳されています。
 
 
-**SHAME**（シェイム）は[大阪府](../Page/大阪府.md "wikilink")出身の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")よりメジャーデビュー。2001年に解散するが2006年にインディーズとして再結成。2008年9月、[コロムビア](../Page/日本コロムビア.md "wikilink")/SONIC BANG RECORDSより再びメジャーデビュー。2009年5月30日に新バンド名[EVERYTHING MUST PASSが発表された](https://ja.wikipedia.org/wiki/EVERYTHING_MUST_PASS "wikilink")。
+**SHAME**（シェイム）は[大阪府](../Page/大阪府.md "wikilink")出身の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")よりメジャーデビュー。2001年に解散するが2006年にインディーズとして再結成。2008年9月、[コロムビア](../Page/日本コロムビア.md "wikilink")/SONIC BANG RECORDSより再びメジャーデビュー。2009年5月30日に新バンド名[EVERYTHING MUST PASSが発表された](https://ja.wikipedia.org/wiki/EVERYTHING_MUST_PASS "wikilink")。
 
 ## メンバー
 
@@ -9,7 +9,7 @@
 
   - **[CUTT](https://ja.wikipedia.org/wiki/CUTT "wikilink")**（前田 一史/まえだ かずひと、[1977年](../Page/1977年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")＆[ギター](../Page/ギター.md "wikilink")・兼[ORCA](../Page/ORCA.md "wikilink")
   - **TAKEYA**（吉村 猛哉/よしむら たけや、[1977年](../Page/1977年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink") - ）[ギター](../Page/ギター.md "wikilink")
-  - **KOSYO**（奥滝 晃将/おくたき こうしょう、[1977年](../Page/1977年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - ）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **KOSYO**（奥滝 晃将/おくたき こうしょう、[1977年](../Page/1977年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 ### サポートメンバー
 
@@ -23,7 +23,7 @@
 
 <!-- end list -->
 
-  - **USSY**（吉田 泰之/よしだ やすゆき、[1977年](../Page/1977年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - ）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **USSY**（吉田 泰之/よしだ やすゆき、[1977年](../Page/1977年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink") - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
@@ -41,8 +41,8 @@
 
 ### デビューから解散まで
 
-  - [1999年](../Page/1999年.md "wikilink") 10月 東芝EMI（現：[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")）よりメジャーデビュー。
-  - [2000年](../Page/2000年.md "wikilink") [スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")、[FM802](../Page/FM802.md "wikilink")にて[ヘビーローテーション](https://ja.wikipedia.org/wiki/ヘビーローテーション "wikilink")に起用される。
+  - [1999年](../Page/1999年.md "wikilink") 10月 東芝EMI（現：[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）よりメジャーデビュー。
+  - [2000年](../Page/2000年.md "wikilink") [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")、[FM802](../Page/FM802.md "wikilink")にて[ヘビーローテーション](https://ja.wikipedia.org/wiki/ヘビーローテーション "wikilink")に起用される。
   - [2000年](../Page/2000年.md "wikilink") [タワーレコード](../Page/タワーレコード.md "wikilink")にてマンスリーライブ「月刊 赤っ恥」を6ヶ月間を行う。他各種イベントに精力的に参加。
   - [2000年](../Page/2000年.md "wikilink")～[2001年](../Page/2001年.md "wikilink") [JFN](https://ja.wikipedia.org/wiki/JFN "wikilink"),[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink"),[FM802](../Page/FM802.md "wikilink"),[Date fm](https://ja.wikipedia.org/wiki/Date_fm "wikilink"),[B-PASS](https://ja.wikipedia.org/wiki/B-PASS "wikilink"), [スポニチ](https://ja.wikipedia.org/wiki/スポニチ "wikilink")大阪版等で[レギュラー](https://ja.wikipedia.org/wiki/レギュラー "wikilink")番組、連載を多数持つ。
   - [2001年](../Page/2001年.md "wikilink") 9月 Official Fan Club "SMPTE" 発足。
@@ -51,7 +51,7 @@
 
 ### 解散から再結成まで
 
-  - [2002年](../Page/2002年.md "wikilink")～[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 各メンバーそれぞれのバンドで活動。
+  - [2002年](../Page/2002年.md "wikilink")～[2005年](../Page/2005年.md "wikilink") 各メンバーそれぞれのバンドで活動。
       - CUTT ： SKYFISH, [ORCA](../Page/ORCA.md "wikilink")
       - TAKEYA ： CHOCOLATE SYRUP → THE GOLDEN SPIDER, plankton
       - KOSYO ： ハッカ → [ORCA](../Page/ORCA.md "wikilink")等サポート多数
@@ -162,7 +162,7 @@
 <li>P.F.P　2. ビリーバーズ</li>
 <li>P.F.P(off vocal)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a>2000年6月度<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a><br />
+<td><p><a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a>2000年6月度<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a><br />
 「<a href="../Page/ヤミツキ.md" title="wikilink">ヤミツキ</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
@@ -462,8 +462,8 @@
   - [グルグル映畫館](../Page/グルグル映畫館.md "wikilink")
   - [hide](https://ja.wikipedia.org/wiki/hide "wikilink")
   - [木村世治](../Page/木村世治.md "wikilink")
-  - [山内圭哉](https://ja.wikipedia.org/wiki/山内圭哉 "wikilink")
-  - [Monthly A Music](https://ja.wikipedia.org/wiki/Monthly_A_Music "wikilink")
+  - [山内圭哉](../Page/山内圭哉.md "wikilink")
+  - [Monthly A Music](../Page/Monthly_A_Music.md "wikilink")
   - [FM802](../Page/FM802.md "wikilink")
   - [桂枝雀_(2代目)](../Page/桂枝雀_\(2代目\).md "wikilink")
 

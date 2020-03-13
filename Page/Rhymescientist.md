@@ -9,7 +9,7 @@
 
 ## 概要・来歴
 
-自らの音楽性をHIPBOP（[ヒップホップ](../Page/ヒップホップ.md "wikilink")+[ジャズ](../Page/ジャズ.md "wikilink")+[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")）という単語で表現しているが、[ロックや](../Page/ロック_\(音楽\).md "wikilink")[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")といったジャンルも吸収している。幅広い音楽層からの支持を集める。
+自らの音楽性をHIPBOP（[ヒップホップ](../Page/ヒップホップ.md "wikilink")+[ジャズ](../Page/ジャズ.md "wikilink")+[ファンク](../Page/ファンク.md "wikilink")）という単語で表現しているが、[ロックや](../Page/ロック_\(音楽\).md "wikilink")[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")といったジャンルも吸収している。幅広い音楽層からの支持を集める。
 
 2007年6月にベースの[MIYA](https://ja.wikipedia.org/wiki/MIYA "wikilink")、ギターのUNOが、2007年12月にドラムスの仁がそれぞれ脱退。新たにギターにNARI、ドラムスにSHIGEを迎える。また、ベースにはセッションミュージシャンのHISASHIがサポートとして加入。その後も精力的に活動を続ける。2008年、ベースのKOUTAが加入。
 
@@ -26,7 +26,7 @@
   - NARI（ナリ）
     [ギター](../Page/ギター.md "wikilink")担当。
   - KOUTA（コウタ）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
   - SHIGE（シゲ）
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。
 
@@ -36,7 +36,7 @@
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。
     2007年12月脱退。
   - [MIYA](https://ja.wikipedia.org/wiki/MIYA "wikilink")（ミヤ）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
     2007年6月脱退。
   - UNO（ウーノ）
     [ギター](../Page/ギター.md "wikilink")担当。
@@ -81,7 +81,7 @@
 <td><ol>
 <li>Real thing ＜Main Mix＞[4:42] 【作詞：Yossan・Pal・<a href="https://ja.wikipedia.org/wiki/COLDFEET" title="wikilink">Lori Fine</a>／作曲：Rhymescientist・Hitoshi Harukawa／編曲：Hitoshi Harukawa】
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>『<a href="https://ja.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>』2006年6・7月度オープニング・テーマ</li>
+<li><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>『<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>』2006年6・7月度オープニング・テーマ</li>
 </ul></li>
 <li>Get lady[4:44] 【作詞：Yossan・Pal／作曲・編曲：Rhymescientist】</li>
 <li>Roadster ＜<a href="../Page/Jazztronik.md" title="wikilink">Jazztronik</a> Remix＞[6:04]</li>
@@ -160,7 +160,7 @@
 <li>You &amp; I (feat.パピコ）</li>
 <li>ノリノリ飲み飲み（feat.サッコン from 韻シスト)</li>
 <li>B (feat.BMS/WE TANG FAMILY-NYC)</li>
-<li>Breakthrough the night (feat.空3000/<a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a>)</li>
+<li>Breakthrough the night (feat.空3000/<a href="../Page/RIZE.md" title="wikilink">RIZE</a>)</li>
 <li>INT #5</li>
 <li>生Time</li>
 </ol></td>
@@ -328,7 +328,7 @@
 | [UGICHIN](../Page/UGICHIN.md "wikilink")              | 「Real thing」    |
 | [奥和義](../Page/奥和義.md "wikilink")                      | 「おまえやから」        |
 | [中村浩紀](https://ja.wikipedia.org/wiki/中村浩紀 "wikilink") | 「ロードスター」        |
-| [松本典子](https://ja.wikipedia.org/wiki/松本典子 "wikilink") | 「ONLY ONE LIFE」 |
+| [松本典子](../Page/松本典子.md "wikilink")                    | 「ONLY ONE LIFE」 |
 |                                                       |                 |
 
 ## 外部リンク

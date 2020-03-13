@@ -11,7 +11,7 @@
 ## 収録曲
 
 1.  **Deep Freeze**
-      - 作詞：愛内里菜 / 作曲：[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink") / 編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
+      - 作詞：愛内里菜 / 作曲：[輝門](../Page/輝門.md "wikilink") / 編曲：[AKIRA](../Page/AKIRA_\(PALM_DRIVE\).md "wikilink")
 2.  **White X-mas Song**
       - 作詞：愛内里菜 / 作曲：輝門 / 編曲：三輪緑
 3.  **Deep Freeze (instrumental)**

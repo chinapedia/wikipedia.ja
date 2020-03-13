@@ -19,7 +19,7 @@
 
 しかし、詞を書いていた[仲野茂](https://ja.wikipedia.org/wiki/仲野茂 "wikilink")が「やっと、今まで恥ずかしくて書けなかったラブソングを書くことが出来た」（「[DOLL](https://ja.wikipedia.org/wiki/DOLL_MAGAZINE "wikilink")」誌[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")6月?号での仲野茂インタビューより趣旨を引用）ためか、バンド自体の活動が停滞、1995年末頃にバンド自体が解散した。
 
-[2006年](../Page/2006年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に野島健太郎以外のもう一人のギターとして[シーナ&ザ・ロケッツ](../Page/シーナ&ザ・ロケッツ.md "wikilink")の[渡辺信之](https://ja.wikipedia.org/wiki/渡辺信之 "wikilink")を迎え、ベースとドラムスはサポートメンバーという組合せで、事実上の再結成ライブが[高円寺](https://ja.wikipedia.org/wiki/高円寺 "wikilink")のライブハウス、[Show Boatで行われた](https://ja.wikipedia.org/wiki/Show_Boat "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に野島健太郎以外のもう一人のギターとして[シーナ&ザ・ロケッツ](../Page/シーナ&ザ・ロケッツ.md "wikilink")の[渡辺信之](https://ja.wikipedia.org/wiki/渡辺信之 "wikilink")を迎え、ベースとドラムスはサポートメンバーという組合せで、事実上の再結成ライブが[高円寺](../Page/高円寺.md "wikilink")のライブハウス、[Show Boatで行われた](https://ja.wikipedia.org/wiki/Show_Boat "wikilink")。
 
 ## メンバー
 

@@ -23,7 +23,7 @@
   - [2004年](../Page/2004年.md "wikilink")（平成16年）　　 - 協会ニュースレター『With you』創刊
   - [2004年](../Page/2004年.md "wikilink")（平成16年）6月 - メールニュース配信開始
   - [2004年](../Page/2004年.md "wikilink")（平成16年）9月 - 事務局　長榎川勝也　就任
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）9月 - **「日本UNHCR協会」**に名称変更
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）9月 - **「日本UNHCR協会」**に名称変更
   - [2007年](../Page/2007年.md "wikilink")（平成19年）6月 - 事務局長　[根本かおる](../Page/根本かおる.md "wikilink")　就任
   - [2009年](../Page/2009年.md "wikilink")（平成21年）4月 - **「国連UNHCR協会」**に名称変更
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）1月 - 事務局長　[高嶋由美子](https://ja.wikipedia.org/wiki/高嶋由美子 "wikilink")　就任
@@ -56,8 +56,8 @@ UNHCR駐日事務所は、国連難民高等弁務官事務所（UNHCR)が、現
 
 <!-- end list -->
 
-  - [MIYAVI](https://ja.wikipedia.org/wiki/MIYAVI "wikilink")　　　　 UNHCR親善大使 （ミュージシャン）　
-  - [吉田都](https://ja.wikipedia.org/wiki/吉田都 "wikilink")　　　　　国連難民サポーター（バレリーナ）
+  - [MIYAVI](../Page/MIYAVI.md "wikilink")　　　　 UNHCR親善大使 （ミュージシャン）　
+  - [吉田都](../Page/吉田都.md "wikilink")　　　　　国連難民サポーター（バレリーナ）
   - [村上雅則](../Page/村上雅則.md "wikilink")　　　　国連難民サポーター（野球評論家）
 
 <!-- end list -->
@@ -76,7 +76,7 @@ UNHCR駐日事務所は、国連難民高等弁務官事務所（UNHCR)が、現
 
 <!-- end list -->
 
-  - [緒方貞子](https://ja.wikipedia.org/wiki/緒方貞子 "wikilink")　　　　第8代[国連難民高等弁務官](https://ja.wikipedia.org/wiki/国際連合難民高等弁務官事務所 "wikilink")（1990-2000年）
+  - [緒方貞子](../Page/緒方貞子.md "wikilink")　　　　第8代[国連難民高等弁務官](https://ja.wikipedia.org/wiki/国際連合難民高等弁務官事務所 "wikilink")（1990-2000年）
   - [滝澤三郎](https://ja.wikipedia.org/wiki/滝澤三郎 "wikilink")　　　　元理事長
 
 ## 脚注

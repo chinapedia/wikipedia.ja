@@ -9,7 +9,7 @@
   - 1986年、活動停止
   - 1991年、熊谷桂子を中心に再結成。
   - 1992年、[CDデビュー](../Page/コンパクトディスク.md "wikilink")。当初は[キーボード・トリオ](../Page/キーボード・トリオ.md "wikilink")編成だったが、1999年にMikaが加入してからは、ツイン・キーボード体制となる。
-  - 2003年発表の『BIOGENESIS』には、ルチオ・ファブッリ（元[PFM](https://ja.wikipedia.org/wiki/プレミアータ・フォルネリア・マルコーニ "wikilink")）やクラウディオ・シモネッティ（元ゴブリン）等のゲストが参加。
+  - 2003年発表の『BIOGENESIS』には、ルチオ・ファブッリ（元[PFM](../Page/プレミアータ・フォルネリア・マルコーニ.md "wikilink")）やクラウディオ・シモネッティ（元ゴブリン）等のゲストが参加。
   - 2005年、現在のギター入り4人編成にメンバーチェンジ
   - 2009年、アルバム『Seventh Hell』を発表。ゲストにハンガリーのAge of NemesisのZoltan Fabianや、[ロビー・ヴァレンタイン](../Page/ロビー・ヴァレンタイン.md "wikilink")等が参加。
   - 2010年、ドイツ Night of the Prog Festival V に出演。
@@ -18,7 +18,7 @@
 
   - '''熊谷桂子 '''（[12月3日](../Page/12月3日.md "wikilink") - ）[東京都](../Page/東京都.md "wikilink")出身。[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作曲
   - **柴田伸子**（[12月28日](../Page/12月28日.md "wikilink") - ）[秋田県](../Page/秋田県.md "wikilink")出身。[ベース](../Page/エレクトリックベース.md "wikilink")
-  - **半田聡**（[7月9日](../Page/7月9日.md "wikilink") - ）[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身。[ギター](../Page/ギター.md "wikilink")
+  - **半田聡**（[7月9日](../Page/7月9日.md "wikilink") - ）[福岡県](../Page/福岡県.md "wikilink")出身。[ギター](../Page/ギター.md "wikilink")
   - **HAZIME**（[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - ）[東京都](../Page/東京都.md "wikilink")出身。[ドラム](../Page/ドラムセット.md "wikilink")
 
 ## 元メンバー

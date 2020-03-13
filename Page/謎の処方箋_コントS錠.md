@@ -18,7 +18,7 @@
 ## スタッフ
 
   - 企画：植村泰之（KTV）
-  - 作・構成：[東野博昭](https://ja.wikipedia.org/wiki/東野博昭 "wikilink")、杉本つよし、桝野幸宏、[小林仁](https://ja.wikipedia.org/wiki/小林仁_\(放送作家\) "wikilink")、森脇尚志
+  - 作・構成：[東野博昭](https://ja.wikipedia.org/wiki/東野博昭 "wikilink")、杉本つよし、桝野幸宏、[小林仁](../Page/小林仁_\(放送作家\).md "wikilink")、森脇尚志
   - TD（テクニカルディレクター）：岩井啓一
   - CAM（カメラマン）：堀田秀人
   - VE（ビデオエンジニア）：平井良昌
@@ -32,13 +32,13 @@
   - メイク：オフィスサヨコ
   - 広報：乾充貴（KTV）
   - 制作進行：谷川陽三
-  - 取材ディレクター：吉村岳朗（[東通企画](https://ja.wikipedia.org/wiki/東通企画 "wikilink")）、北野裕隆
+  - 取材ディレクター：吉村岳朗（[東通企画](../Page/東通企画.md "wikilink")）、北野裕隆
   - 演出・プロデューサー：松本浩（メディアプルポ）
   - プロデューサー：佐藤洋介（KTV）、高林純平・小川純一（松竹芸能）
-  - 技術協力：テレプロ 、[戯音工房](https://ja.wikipedia.org/wiki/戯音工房 "wikilink")
+  - 技術協力：テレプロ 、[戯音工房](../Page/戯音工房.md "wikilink")
   - 美術協力：すくらんぶる、東京衣裳
   - 協力：オフィス元気
-  - 制作協力：[メディアプルポ](https://ja.wikipedia.org/wiki/メディアプルポ "wikilink")
+  - 制作協力：[メディアプルポ](../Page/メディアプルポ.md "wikilink")
   - 制作：関西テレビ、[松竹芸能](../Page/松竹芸能.md "wikilink")
 
 ## 放送局

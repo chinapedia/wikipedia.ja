@@ -3,15 +3,15 @@
 
 『**ドラゴンボールZ 復活のフュージョン\!\!悟空とベジータ**』（ドラゴンボールゼット ふっかつのフュージョン\!\!ごくうとベジータ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")に公開された『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』シリーズの劇場公開作第15弾である。監督は[山内重保](../Page/山内重保.md "wikilink")。
 
-春休みの[東映アニメフェア](https://ja.wikipedia.org/wiki/東映アニメフェア "wikilink")の1作品として上映された。同時上映作は『[スラムダンク 湘北最大の危機\! 燃えろ桜木花道](https://ja.wikipedia.org/wiki/スラムダンク_湘北最大の危機!_燃えろ桜木花道 "wikilink")』『[ママレード・ボーイ](https://ja.wikipedia.org/wiki/ママレード・ボーイ "wikilink")』。
+春休みの[東映アニメフェア](../Page/東映アニメフェア.md "wikilink")の1作品として上映された。同時上映作は『[スラムダンク 湘北最大の危機\! 燃えろ桜木花道](https://ja.wikipedia.org/wiki/スラムダンク_湘北最大の危機!_燃えろ桜木花道 "wikilink")』『[ママレード・ボーイ](../Page/ママレード・ボーイ.md "wikilink")』。
 
 ## 解説
 
 邦画配給収入12億7000万円\[1\]、観客動員数320万人\[2\]。ビデオ販売本数2万5千本\[3\]。
 
-劇場版第11作目の『[ドラゴンボールZ 燃えつきろ\!\!熱戦・烈戦・超激戦](https://ja.wikipedia.org/wiki/ドラゴンボールZ_燃えつきろ!!熱戦・烈戦・超激戦 "wikilink")』以来となる[孫悟空が主人公の劇場版作品](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")。『ドラゴンボール大全集』には「悟空が魔人ブウの名を出したり、[ゴテンクス](../Page/ゴテンクス.md "wikilink")が登場した点、[ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")が死んでいる点から、[魔人ブウ](../Page/魔人ブウ.md "wikilink")戦のさなかの出来事と推測できる」と書かれている\[4\]。
+劇場版第11作目の『[ドラゴンボールZ 燃えつきろ\!\!熱戦・烈戦・超激戦](https://ja.wikipedia.org/wiki/ドラゴンボールZ_燃えつきろ!!熱戦・烈戦・超激戦 "wikilink")』以来となる[孫悟空が主人公の劇場版作品](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")。『ドラゴンボール大全集』には「悟空が魔人ブウの名を出したり、[ゴテンクス](../Page/ゴテンクス.md "wikilink")が登場した点、[ベジータ](../Page/ベジータ.md "wikilink")が死んでいる点から、[魔人ブウ](../Page/魔人ブウ.md "wikilink")戦のさなかの出来事と推測できる」と書かれている\[4\]。
 
-過去に倒された敵の代表として[フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")も出演。また、ボージャックなども登場するが、フリーザが倒された直後に逃亡している。宣伝ポスターには[ナッパ](https://ja.wikipedia.org/wiki/ナッパ "wikilink")や[ラディッツ](https://ja.wikipedia.org/wiki/ラディッツ "wikilink")、ドドリアとザーボン、クウラやサウザー、スラッグやロボットの姿のままのDr.ウィローが描かれていた。またあの世では従来の激闘が繰り広げられるが、現世では一部の戦闘シーンが[カートゥーン](https://ja.wikipedia.org/wiki/カートゥーン "wikilink")調に描写されている。
+過去に倒された敵の代表として[フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")も出演。また、ボージャックなども登場するが、フリーザが倒された直後に逃亡している。宣伝ポスターには[ナッパ](https://ja.wikipedia.org/wiki/ナッパ "wikilink")や[ラディッツ](../Page/ラディッツ.md "wikilink")、ドドリアとザーボン、クウラやサウザー、スラッグやロボットの姿のままのDr.ウィローが描かれていた。またあの世では従来の激闘が繰り広げられるが、現世では一部の戦闘シーンが[カートゥーン](../Page/カートゥーン.md "wikilink")調に描写されている。
 
 本作は劇場版作品の記念すべき15作目ということで、劇場版第10作目の『[ドラゴンボールZ 極限バトル\!\!三大超サイヤ人](../Page/ドラゴンボールZ_極限バトル!!三大超サイヤ人.md "wikilink")』の時と同様にパンフレットは豪華な記事を揃えており、[フュージョンやフリーザ](https://ja.wikipedia.org/wiki/融合_\(ドラゴンボール\)#フュージョン "wikilink")、パイクーハンに関する辞典なども載せられていた。
 
@@ -19,7 +19,7 @@
 
 ## あらすじ
 
-普段のように天国と地獄の管理を行っている閻魔の館で一人の若いサイケ鬼が地獄行きの魂を浄化するスピリッツロンダリング装置のタンクを換え忘れた。満タンになったタンクからは悪の気が漏れ出し、サイケ鬼の体を媒介に、怪物ジャネンバに変化。同時に閻魔の館は結界で封じられてしまい、あの世とこの世の秩序がめちゃくちゃになってしまった。この世ではフリーザなど、かつて倒した悪人達が復活し大混乱。[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")、[孫悟天](https://ja.wikipedia.org/wiki/孫悟天 "wikilink")、[トランクスらが応戦するが](../Page/トランクス_\(ドラゴンボール\).md "wikilink")、根本的な解決法が分からずにいた。
+普段のように天国と地獄の管理を行っている閻魔の館で一人の若いサイケ鬼が地獄行きの魂を浄化するスピリッツロンダリング装置のタンクを換え忘れた。満タンになったタンクからは悪の気が漏れ出し、サイケ鬼の体を媒介に、怪物ジャネンバに変化。同時に閻魔の館は結界で封じられてしまい、あの世とこの世の秩序がめちゃくちゃになってしまった。この世ではフリーザなど、かつて倒した悪人達が復活し大混乱。[孫悟飯](../Page/孫悟飯.md "wikilink")、[孫悟天](../Page/孫悟天.md "wikilink")、[トランクスらが応戦するが](../Page/トランクス_\(ドラゴンボール\).md "wikilink")、根本的な解決法が分からずにいた。
 
 同じ頃、前回の[あの世一武道会](../Page/あの世一武道会.md "wikilink")のやり直しとして再び行われていた武道会の決勝戦にて、突如謎の結晶体が現れる。閻魔界に異常があることを知った悟空とパイクーハンは閻魔のもとへと向かい、結界を破壊しようと試みるも失敗。閻魔から、結界を張った張本人が上にいたジャネンバであると告げられ、ジャネンバ直々の指名もあり、悟空が闘いを挑むことになる。
 
@@ -53,7 +53,7 @@
   - ゾンビ兵
     独裁者と共に悟天たちと戦った兵士。
   - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")
-    かつて宇宙の帝王としてその名を轟かせた宇宙人。人造人間編で未来から来たトランクスに倒されたが、今作ではあの世から蘇り悟飯と対決することとなる。だが、[セルや魔人ブウなど幾多の強敵との戦いを経た悟飯にとってはもはや敵ではなく](../Page/セル_\(ドラゴンボール\).md "wikilink")、通常状態の一撃であの世に送られる。なお、フリーザの号令の際には[ギニュー特戦隊](https://ja.wikipedia.org/wiki/ギニュー特戦隊 "wikilink")や[ザーボンといったかつての部下の他に](https://ja.wikipedia.org/wiki/フリーザ一味#ザーボン "wikilink")、ボージャックやパラガスなど劇場版のゲストキャラクターが多数登場している。
+    かつて宇宙の帝王としてその名を轟かせた宇宙人。人造人間編で未来から来たトランクスに倒されたが、今作ではあの世から蘇り悟飯と対決することとなる。だが、[セルや魔人ブウなど幾多の強敵との戦いを経た悟飯にとってはもはや敵ではなく](../Page/セル_\(ドラゴンボール\).md "wikilink")、通常状態の一撃であの世に送られる。なお、フリーザの号令の際には[ギニュー特戦隊](../Page/ギニュー特戦隊.md "wikilink")や[ザーボンといったかつての部下の他に](https://ja.wikipedia.org/wiki/フリーザ一味#ザーボン "wikilink")、ボージャックやパラガスなど劇場版のゲストキャラクターが多数登場している。
   - 林田
     5年前に亡くなった老人。娘夫婦と孫が墓参りに訪れた際、ジャネンバ事件で一時的に復活した。ドラゴンボールシリーズでは珍しい日本人のキャラクターでもある。
   - ジュリアーノ
@@ -63,21 +63,21 @@
 
 ## 声の出演
 
-  - **[孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")**、**[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")**、**[孫悟天](https://ja.wikipedia.org/wiki/孫悟天 "wikilink")** - [野沢雅子](../Page/野沢雅子.md "wikilink")
-  - **[ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")** - [堀川亮](../Page/堀川りょう.md "wikilink")
+  - **[孫悟空](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")**、**[孫悟飯](../Page/孫悟飯.md "wikilink")**、**[孫悟天](../Page/孫悟天.md "wikilink")** - [野沢雅子](../Page/野沢雅子.md "wikilink")
+  - **[ベジータ](../Page/ベジータ.md "wikilink")** - [堀川亮](../Page/堀川りょう.md "wikilink")
   - **[トランクス](https://ja.wikipedia.org/wiki/トランクス_\(ドラゴンボール\)#トランクス（現代） "wikilink")** - [草尾毅](../Page/草尾毅.md "wikilink")
   - **[ビーデル](../Page/ビーデル.md "wikilink")** - [皆口裕子](../Page/皆口裕子.md "wikilink")
   - **パイクーハン** - [緑川光](../Page/緑川光.md "wikilink")
-  - **[ブルマ](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink")** - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
-  - **[チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")** - [渡辺菜生子](https://ja.wikipedia.org/wiki/渡辺菜生子 "wikilink")
-  - **[ミスター・サタン](https://ja.wikipedia.org/wiki/ミスター・サタン "wikilink")** - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+  - **[ブルマ](../Page/ブルマ_\(ドラゴンボール\).md "wikilink")** - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
+  - **[チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")** - [渡辺菜生子](../Page/渡辺菜生子.md "wikilink")
+  - **[ミスター・サタン](../Page/ミスター・サタン.md "wikilink")** - [郷里大輔](../Page/郷里大輔.md "wikilink")
   - **[フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")** - [中尾隆聖](../Page/中尾隆聖.md "wikilink")
-  - **大界王** - [槐柳二](https://ja.wikipedia.org/wiki/槐柳二 "wikilink")
-  - **東の界王** - [山本圭子](https://ja.wikipedia.org/wiki/山本圭子 "wikilink")
+  - **大界王** - [槐柳二](../Page/槐柳二.md "wikilink")
+  - **東の界王** - [山本圭子](../Page/山本圭子.md "wikilink")
   - **西の界王** - [島田敏](../Page/島田敏.md "wikilink")
-  - **南の界王** - [西尾徳](https://ja.wikipedia.org/wiki/西尾徳 "wikilink")
-  - **青鬼** - [安西正弘](https://ja.wikipedia.org/wiki/安西正弘 "wikilink")
-  - **男** - 宮尾秀幸、[私市淳](https://ja.wikipedia.org/wiki/私市淳 "wikilink")
+  - **南の界王** - [西尾徳](../Page/西尾徳.md "wikilink")
+  - **青鬼** - [安西正弘](../Page/安西正弘.md "wikilink")
+  - **男** - 宮尾秀幸、[私市淳](../Page/私市淳.md "wikilink")
   - **ジャネンバ** - [玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")
   - **ナレーター** - [八奈見乗児](../Page/八奈見乗児.md "wikilink")
 
@@ -87,12 +87,12 @@
   - 原作 - [鳥山明](../Page/鳥山明.md "wikilink")
   - 企画 - [森下孝三](../Page/森下孝三.md "wikilink")、蛭田成一、[清水賢治](../Page/清水賢治.md "wikilink")、金田耕司、[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")
   - 製作担当 - 杉本隆一
-  - 脚本 - [小山高生](https://ja.wikipedia.org/wiki/小山高生 "wikilink")
-  - 音楽 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
+  - 脚本 - [小山高生](../Page/小山高生.md "wikilink")
+  - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影監督 - 武井利晴
   - 録音 - 二宮健治
   - 編集 - 福光伸一
-  - 美術設定 - [窪田忠雄](https://ja.wikipedia.org/wiki/窪田忠雄 "wikilink")
+  - 美術設定 - [窪田忠雄](../Page/窪田忠雄.md "wikilink")
   - 美術監督 - 徳重賢
   - 作画監督 - [山室直儀](../Page/山室直儀.md "wikilink")
   - 監督 - [山内重保](../Page/山内重保.md "wikilink")
@@ -102,9 +102,9 @@
 ## 主題歌
 
   - オープニングテーマ - 「WE GOTTA POWER」
-    作詞 - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲・編曲 - [石川恵樹](../Page/石川恵樹.md "wikilink") / 歌 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")（[日本コロムビア](../Page/日本コロムビア.md "wikilink")）
+    作詞 - [森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲・編曲 - [石川恵樹](../Page/石川恵樹.md "wikilink") / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")（[日本コロムビア](../Page/日本コロムビア.md "wikilink")）
   - エンディングテーマ - 「最強のフュージョン」
-    作詞 - 森雪之丞 / 作曲 - [林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink") / 編曲 - 林有三 / 歌 - 影山ヒロノブ（日本コロムビア）
+    作詞 - 森雪之丞 / 作曲 - [林哲司](../Page/林哲司.md "wikilink") / 編曲 - 林有三 / 歌 - 影山ヒロノブ（日本コロムビア）
 
 ## 映像ソフト
 

@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - [クレジット](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")
+  - [クレジット](../Page/クレジットタイトル.md "wikilink")
       -
         作詞:和教（M1、M2）、和教＆SaCo（M3）、YUKI（M4）
         作曲:和教（M1〜M3）、恩田快人（M4）

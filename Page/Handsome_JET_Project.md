@@ -16,7 +16,7 @@
 
   - [泉陸奥彦](../Page/泉陸奥彦.md "wikilink")（ソロギター演奏、コーラス）
   - [肥塚良彦](../Page/肥塚良彦.md "wikilink")（ベース演奏）
-  - [あさき](https://ja.wikipedia.org/wiki/あさき "wikilink")（コーラス、ベース演奏）
+  - [あさき](../Page/あさき.md "wikilink")（コーラス、ベース演奏）
   - [Jimmy Weckl](https://ja.wikipedia.org/wiki/上高治巳 "wikilink")（コーラス、サックス演奏）
   - [Kozo Nakamura](../Page/中村康三.md "wikilink")（コーラス）
   - [Thomas Howard Lichtenstein](../Page/トーマス・リクテンスタイン.md "wikilink")（作詞）
@@ -47,8 +47,8 @@
 
 ### Handsome JETの参加楽曲
 
-  - P.P.R. （GF3） - 作曲：[小野秀幸](https://ja.wikipedia.org/wiki/小野秀幸 "wikilink")&[桜井敏郎](https://ja.wikipedia.org/wiki/桜井敏郎 "wikilink")（途中から名義がHandsome JET Jr.→Handsome JETへ変更）
-  - しかられ日和 （GF10\&DM9） - Handsome JETと[亜熱帯マジ-SKA爆弾](https://ja.wikipedia.org/wiki/亜熱帯マジ-SKA爆弾 "wikilink")名義（作曲：小野秀幸）
+  - P.P.R. （GF3） - 作曲：[小野秀幸](../Page/小野秀幸.md "wikilink")&[桜井敏郎](https://ja.wikipedia.org/wiki/桜井敏郎 "wikilink")（途中から名義がHandsome JET Jr.→Handsome JETへ変更）
+  - しかられ日和 （GF10\&DM9） - Handsome JETと[亜熱帯マジ-SKA爆弾](../Page/亜熱帯マジ-SKA爆弾.md "wikilink")名義（作曲：小野秀幸）
   - JJ-road （GFV2\&DMV2） - JJ-road名義（[Jimmy Wecklとの合作](https://ja.wikipedia.org/wiki/Jimmy_Weckl "wikilink")）
   - ギタードライブ （GFV3\&DMV3） - 作曲：小野秀幸（ギター演奏は[千本松仁](../Page/千本松仁.md "wikilink")）
   - さよなら便り(GF/DMV4 Яock×Rock)-￢(゜～゜)Γと(\!ΘεΘ\!)名義

@@ -1,7 +1,7 @@
 > この記事は[THE STAND UP](https://ja.wikipedia.org/wiki/THE_STAND_UP)から翻訳されています。
 
 
-**THE STAND UP**（ザ・スタンド・アップ）は[埼玉県](../Page/埼玉県.md "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")出身の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2001年4月1日結成。2003年[BMG JAPANより](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")「[ちっぽけな勇気と…。](https://ja.wikipedia.org/wiki/ちっぽけな勇気と…。 "wikilink")」でメジャーデビュー。2006年[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")に移籍。2008年末をもって活動休止。2012年5月より活動再開。
+**THE STAND UP**（ザ・スタンド・アップ）は[埼玉県](../Page/埼玉県.md "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")出身の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2001年4月1日結成。2003年[BMG JAPANより](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")「[ちっぽけな勇気と…。](https://ja.wikipedia.org/wiki/ちっぽけな勇気と…。 "wikilink")」でメジャーデビュー。2006年[日本クラウン](../Page/日本クラウン.md "wikilink")に移籍。2008年末をもって活動休止。2012年5月より活動再開。
 
 ## メンバー
 
@@ -18,7 +18,7 @@
 
 ※現在は元マスラヲコミッショナーの宇野元英とともに[NANISAMA?](http://www.nanisama.net/)というバンドで活動中
 
-  - **福島アツシ**（ふくしま、[12月2日](../Page/12月2日.md "wikilink") - ）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **福島アツシ**（ふくしま、[12月2日](../Page/12月2日.md "wikilink") - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **塚越ヤスヒロ**（つかこし、[2月17日](../Page/2月17日.md "wikilink") - ）[ドラム](../Page/ドラムセット.md "wikilink")
 
 ## ディスコグラフィー
@@ -70,7 +70,7 @@
 <dt></dt>
 <dd>作詞：坂本タカノリ／作曲：太田タケヒロ／編曲：THE STAND UP
 </dd>
-<dd><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/Pooh!" title="wikilink">Pooh!</a>」2004年1月度エンディングテーマ
+<dd><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系</a>「<a href="../Page/Pooh!.md" title="wikilink">Pooh!</a>」2004年1月度エンディングテーマ
 </dd>
 </dl></li>
 <li>青空色[4:04]
@@ -353,7 +353,7 @@ CRCP-10117</p></td>
 <dt></dt>
 <dd>作詞：坂本タカノリ／作曲：太田タケヒロ／編曲：THE STAND UP
 </dd>
-<dd>NTV系「<a href="https://ja.wikipedia.org/wiki/ロンQ!ハイランド" title="wikilink">ロンQ!ハイランド</a>」エンディングテーマ
+<dd>NTV系「<a href="../Page/ロンQ!ハイランド.md" title="wikilink">ロンQ!ハイランド</a>」エンディングテーマ
 </dd>
 </dl></li>
 <li>熊桜[2:38]
@@ -467,17 +467,17 @@ CRCP-10117</p></td>
 <ol>
 <li>デリケートにキスして / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
 <li>SO EXCITED！ / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
-<li>WILL / <a href="https://ja.wikipedia.org/wiki/SNAIL_RAMP" title="wikilink">SNAIL RAMP</a></li>
+<li>WILL / <a href="../Page/SNAIL_RAMP.md" title="wikilink">SNAIL RAMP</a></li>
 <li>イナズマ / <a href="https://ja.wikipedia.org/wiki/CUNE" title="wikilink">CUNE</a></li>
 <li>あしたのうた / <a href="../Page/DOMINO88.md" title="wikilink">DOMINO88</a></li>
-<li>IN-HIのテーマ / <a href="https://ja.wikipedia.org/wiki/IN-HI" title="wikilink">IN-HI</a></li>
+<li>IN-HIのテーマ / <a href="../Page/IN-HI.md" title="wikilink">IN-HI</a></li>
 <li><strong>僕は君を永遠に / THE STAND UP</strong></li>
 <li>旅人よ笑え / <a href="https://ja.wikipedia.org/wiki/マグネットコーティング_(バンド)" title="wikilink">マグネットコーティング</a></li>
 <li>やのあさって / <a href="https://ja.wikipedia.org/wiki/フーバーオーバー" title="wikilink">フーバーオーバー</a></li>
 <li>XL MAN OSAKA / <a href="../Page/GELUGUGU.md" title="wikilink">THE GELUGUGU</a></li>
 <li>はんぶんこ / <a href="../Page/Bivattchee.md" title="wikilink">Bivattchee</a></li>
 <li>STIRRING UP / <a href="https://ja.wikipedia.org/wiki/DALLAX" title="wikilink">DALLAX</a></li>
-<li>少年激情 / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li>少年激情 / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 </ol>
 <p># one night summer love / [[SQUEEZE</p></td>
 <td><p>|SQUEEZE</p></td>
@@ -525,10 +525,10 @@ CRCP-10117</p></td>
 <td><ol>
 <li>妖怪にご用心 / <a href="https://ja.wikipedia.org/wiki/大槻ケンヂ" title="wikilink">大槻ケンヂ</a> with <a href="../Page/ロリータ18号.md" title="wikilink">ロリータ18号</a></li>
 <li>合体！ゲッターロボ / <a href="https://ja.wikipedia.org/wiki/COCOBAT" title="wikilink">COCOBAT</a></li>
-<li>MAZINGER Z（English ver.) / <a href="https://ja.wikipedia.org/wiki/NICOTINE" title="wikilink">NICOTINE</a></li>
+<li>MAZINGER Z（English ver.) / <a href="../Page/NICOTINE.md" title="wikilink">NICOTINE</a></li>
 <li>マジンガーZ / <a href="https://ja.wikipedia.org/wiki/ロットングラフティー" title="wikilink">ロットングラフティー</a></li>
 <li>今日もどこかでデビルマン / <a href="../Page/デキシード・ザ・エモンズ.md" title="wikilink">デキシード・ザ・エモンズ</a></li>
-<li>おれはグレートマジンガー / <a href="https://ja.wikipedia.org/wiki/HIGHWAY61" title="wikilink">HIGHWAY61</a></li>
+<li>おれはグレートマジンガー / <a href="../Page/HIGHWAY61.md" title="wikilink">HIGHWAY61</a></li>
 <li><strong>ゲッターロボ / THE STAND UP</strong></li>
 <li>キューティー・ハニー / <a href="../Page/大西ユカリと新世界.md" title="wikilink">大西ユカリと新世界</a></li>
 <li>ドロロンえん魔くん / <a href="../Page/GELUGUGU.md" title="wikilink">GELUGUGU</a></li>
@@ -536,7 +536,7 @@ CRCP-10117</p></td>
 <li>Zのテーマ / <a href="https://ja.wikipedia.org/wiki/ANIMETAL" title="wikilink">ANIMETAL</a></li>
 <li>モロダシヒロイン けっこう仮面 / <a href="../Page/ニューロティカ.md" title="wikilink">ニューロティカ</a></li>
 <li>デビルマンの歌 / <a href="https://ja.wikipedia.org/wiki/AGGRESSIVE_DOGS" title="wikilink">AGGRESSIVE DOGS</a></li>
-<li>Z THEME（English ver.) / <a href="https://ja.wikipedia.org/wiki/LOUDNESS" title="wikilink">LOUDNESS</a>
+<li>Z THEME（English ver.) / <a href="../Page/LOUDNESS.md" title="wikilink">LOUDNESS</a>
 </div>
 </div></li>
 </ol></td>
@@ -572,15 +572,15 @@ CRCP-10117</p></td>
 
 ## ミュージックビデオ
 
-|                                                                                            |                                                                                    |
-| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| **監督**                                                                                     | **曲名**                                                                             |
-| [Junya Uchida](https://ja.wikipedia.org/wiki/Junya_Uchida "wikilink")                      | 「信じる事」                                                                             |
-| 坂本タカノリ                                                                                     | 「DEVIL PARTY」                                                                      |
-| [御代川治子](https://ja.wikipedia.org/wiki/御代川治子 "wikilink")                                    | 「サルビア」                                                                             |
-| [ルーシー今井](https://ja.wikipedia.org/wiki/ルーシー今井 "wikilink")(IMAI"LUCY"JUNYA/今井“LUCY”淳也/今井淳也) | 「ありがとう」「ひとつのはじまり」「果てしなく遠い空に」「祈り」                                                   |
-| 不明                                                                                         | 「お月様」「悪魔の恋のメロディー」「夜明けの光」(出演:[松本梨菜](https://ja.wikipedia.org/wiki/松本梨菜 "wikilink")) |
-|                                                                                            |                                                                                    |
+|                                                                                            |                                                                 |
+| ------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| **監督**                                                                                     | **曲名**                                                          |
+| [Junya Uchida](https://ja.wikipedia.org/wiki/Junya_Uchida "wikilink")                      | 「信じる事」                                                          |
+| 坂本タカノリ                                                                                     | 「DEVIL PARTY」                                                   |
+| [御代川治子](https://ja.wikipedia.org/wiki/御代川治子 "wikilink")                                    | 「サルビア」                                                          |
+| [ルーシー今井](https://ja.wikipedia.org/wiki/ルーシー今井 "wikilink")(IMAI"LUCY"JUNYA/今井“LUCY”淳也/今井淳也) | 「ありがとう」「ひとつのはじまり」「果てしなく遠い空に」「祈り」                                |
+| 不明                                                                                         | 「お月様」「悪魔の恋のメロディー」「夜明けの光」(出演:[松本梨菜](../Page/松本梨菜.md "wikilink")) |
+|                                                                                            |                                                                 |
 
 ## 主なライブ
 

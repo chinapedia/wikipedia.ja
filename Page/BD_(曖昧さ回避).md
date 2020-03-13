@@ -14,9 +14,9 @@
 ### 一般名詞・術語
 
   - [Blu-ray Disc](../Page/Blu-ray_Disc.md "wikilink")
-  - [バスドラム](https://ja.wikipedia.org/wiki/バスドラム "wikilink") ()。
+  - [バスドラム](../Page/バスドラム.md "wikilink") ()。
   - [バンド・デシネ](../Page/バンド・デシネ.md "wikilink") () - フランス語圏の漫画。
-  - [絶乾](https://ja.wikipedia.org/wiki/絶乾 "wikilink") () - [パルプ](https://ja.wikipedia.org/wiki/パルプ "wikilink")が完全に乾燥した状態。
+  - [絶乾](https://ja.wikipedia.org/wiki/絶乾 "wikilink") () - [パルプ](../Page/パルプ.md "wikilink")が完全に乾燥した状態。
   - [誕生日](../Page/誕生日.md "wikilink") ()
   - [神学学士](https://ja.wikipedia.org/wiki/神学学士 "wikilink") ()
   - [基礎開発](https://ja.wikipedia.org/wiki/基礎開発 "wikilink") () - [ソフトウェア開発](../Page/ソフトウェア開発.md "wikilink")の1段階。
@@ -39,17 +39,17 @@
 ## コード・形式名
 
   - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink") alpha-2）で、**[バングラデシュ](../Page/バングラデシュ.md "wikilink")**を示す。
-  - [世界気象機関](https://ja.wikipedia.org/wiki/世界気象機関 "wikilink")の国名コードで、**[ブルネイ](../Page/ブルネイ.md "wikilink")**を示す。
+  - [世界気象機関](../Page/世界気象機関.md "wikilink")の国名コードで、**[ブルネイ](../Page/ブルネイ.md "wikilink")**を示す。
   - [米国連邦情報処理標準の国名コード](../Page/連邦情報処理標準.md "wikilink")（FIPS PUB 10-4）で、**[バミューダ諸島](../Page/バミューダ諸島.md "wikilink")**を示す。
-  - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、**[bmi](https://ja.wikipedia.org/wiki/Bmi_\(航空会社\) "wikilink")**を示す。
+  - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、**[bmi](../Page/Bmi_\(航空会社\).md "wikilink")**を示す。
 
 ## 他の記号を付して用いるもの
 
-  - **[.bd](../Page/.bd.md "wikilink")** - バングラデシュの[国別コードトップレベルドメイン](https://ja.wikipedia.org/wiki/国別コードトップレベルドメイン "wikilink")（ccTLD）。
+  - **[.bd](../Page/.bd.md "wikilink")** - バングラデシュの[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")（ccTLD）。
 
 ## フィクションのことがら
 
-  - **B.D.** - 米国の漫画『[ドゥーンズベリー](https://ja.wikipedia.org/wiki/ドゥーンズベリー "wikilink")』(1970) の登場人物。
+  - **B.D.** - 米国の漫画『[ドゥーンズベリー](../Page/ドゥーンズベリー.md "wikilink")』(1970) の登場人物。
   - **B.D.** - 日本のアニメ『[メガゾーン23](../Page/メガゾーン23.md "wikilink")』(1985) の登場人物。
 
 ## 関連項目

@@ -22,7 +22,7 @@
 <td><p><a href="../Page/PRIDE.34.md" title="wikilink">PRIDE.34</a></p></td>
 <td><p>2007年4月8日</p></td>
 <td><p><a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a><a href="https://ja.wikipedia.org/wiki/さいたま市" title="wikilink">さいたま市</a></p></td>
+<td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a><a href="https://ja.wikipedia.org/wiki/さいたま市" title="wikilink">さいたま市</a></p></td>
 <td><p>23,336</p></td>
 </tr>
 <tr class="even">
@@ -91,15 +91,15 @@
 <tr class="odd">
 <td><p><a href="../Page/PRIDE.24.md" title="wikilink">PRIDE.24</a></p></td>
 <td><p>2002年12月23日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マリンメッセ福岡" title="wikilink">マリンメッセ福岡</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a></p></td>
+<td><p><a href="../Page/マリンメッセ福岡.md" title="wikilink">マリンメッセ福岡</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a></p></td>
 <td><p>8,543</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/PRIDE.23.md" title="wikilink">PRIDE.23</a></p></td>
 <td><p>2002年11月24日</p></td>
 <td><p><a href="../Page/東京ドーム.md" title="wikilink">東京ドーム</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/文京区" title="wikilink">文京区</a></p></td>
 <td><p>52,228</p></td>
 </tr>
 <tr class="odd">
@@ -203,7 +203,7 @@
 <tr class="odd">
 <td><p><a href="../Page/PRIDE.8.md" title="wikilink">PRIDE.8</a></p></td>
 <td><p>1999年11月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有明コロシアム" title="wikilink">有明コロシアム</a></p></td>
+<td><p><a href="../Page/有明コロシアム.md" title="wikilink">有明コロシアム</a></p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a></p></td>
 <td><p>10,038</p></td>
 </tr>
@@ -382,7 +382,7 @@
 </tbody>
 </table>
 
-### [PRIDE武士道](https://ja.wikipedia.org/wiki/PRIDE武士道 "wikilink")
+### [PRIDE武士道](../Page/PRIDE武士道.md "wikilink")
 
 軽量級選手や日本人選手の活躍に主眼を置いた興行。他のシリーズに比べやや小規模である。
 
@@ -583,7 +583,7 @@ PRIDEへの登竜門的存在。
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/THE_BEST_(格闘技イベント)" title="wikilink">THE BEST</a></p></td>
 <td><p>2002年2月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 <td><p>東京都文京区</p></td>
 <td></td>
 </tr>
@@ -615,7 +615,7 @@ PRIDE対K-1の構図で開催。日本格闘技史上最多動員数を記録し
 <tr class="odd">
 <td><p><a href="../Page/Dynamite!.md" title="wikilink">Dynamite! SUMMER NIGHT FEVER in 国立</a></p></td>
 <td><p>2002年8月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国立霞ヶ丘陸上競技場" title="wikilink">国立霞ヶ丘競技場</a></p></td>
+<td><p><a href="../Page/国立霞ヶ丘陸上競技場.md" title="wikilink">国立霞ヶ丘競技場</a></p></td>
 <td><p>東京都<a href="https://ja.wikipedia.org/wiki/新宿区" title="wikilink">新宿区</a></p></td>
 <td><p>91,107</p></td>
 </tr>

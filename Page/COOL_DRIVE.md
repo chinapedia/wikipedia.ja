@@ -362,7 +362,7 @@
 <li>INTRO</li>
 <li>World without end</li>
 <li>NEW DAY</li>
-<li>no.1 Feat.OHYAMA”B.M.W”WATARU from <a href="https://ja.wikipedia.org/wiki/PE&#39;Z" title="wikilink">PE'Z</a></li>
+<li>no.1 Feat.OHYAMA”B.M.W”WATARU from <a href="../Page/PE&#39;Z.md" title="wikilink">PE'Z</a></li>
 <li>瞳に咲く情熱の花</li>
 <li>マグロでROCK A GO GO!</li>
 <li>月影サイクリング</li>
@@ -532,16 +532,16 @@ BEST selection &amp; the complete PV collection</strong></p></td>
 | カラーベイビー      | [NTTドコモ関西CMソング](../Page/エヌ・ティ・ティ・ドコモ関西.md "wikilink")                                                                  |
 | アゲハチョウ       | [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[神様のいたずら](../Page/神様のいたずら_\(テレビドラマ\).md "wikilink")」挿入歌 |
 | スーツケース       | TV朝日　朝です生です旅サラダエンディングテーマ                                                                                               |
-| 風向きはいつだって変わる | [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[こちら本池上署](https://ja.wikipedia.org/wiki/こちら本池上署 "wikilink")」主題歌                |
-| 冬の魔法         | [ミツカン](https://ja.wikipedia.org/wiki/ミツカン "wikilink")「[味ぽん](https://ja.wikipedia.org/wiki/味ぽん "wikilink")」CM曲          |
+| 風向きはいつだって変わる | [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")「[こちら本池上署](../Page/こちら本池上署.md "wikilink")」主題歌                                   |
+| 冬の魔法         | [ミツカン](../Page/ミツカン.md "wikilink")「[味ぽん](https://ja.wikipedia.org/wiki/味ぽん "wikilink")」CM曲                             |
 | Smile        | [MUE](https://ja.wikipedia.org/wiki/MUE "wikilink")クリスマス・キャンペーン曲                                                       |
 
 ## 関連項目
 
-  - [Across The View](https://ja.wikipedia.org/wiki/Across_The_View "wikilink")
-  - [FMながと](https://ja.wikipedia.org/wiki/FMながと "wikilink")
-  - [熱血\!スペシャ中学](https://ja.wikipedia.org/wiki/熱血!スペシャ中学 "wikilink")
-  - [ラジオ黄金時代](https://ja.wikipedia.org/wiki/ラジオ黄金時代 "wikilink")
+  - [Across The View](../Page/Across_The_View.md "wikilink")
+  - [FMながと](../Page/FMながと.md "wikilink")
+  - [熱血\!スペシャ中学](../Page/熱血!スペシャ中学.md "wikilink")
+  - [ラジオ黄金時代](../Page/ラジオ黄金時代.md "wikilink")
 
 ## 外部リンク
 

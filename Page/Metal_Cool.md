@@ -1,26 +1,26 @@
 > この記事は[Metal Cool](https://ja.wikipedia.org/wiki/Metal_Cool)から翻訳されています。
 
 
-**Metal Cool**（メタルクール）は、元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[Tamaのソロデビュー](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")[シングル](../Page/シングル.md "wikilink")。
+**Metal Cool**（メタルクール）は、元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[Tamaのソロデビュー](../Page/Tama_\(ベーシスト\).md "wikilink")[シングル](../Page/シングル.md "wikilink")。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")にリリースされた。
+[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")にリリースされた。
 
 ## 概要
 
   - 今作で初めて[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")をとった。
-  - 「[サウダージ](../Page/サウダージ_\(曲\).md "wikilink")」の[c/wの](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")「Search the best way」では[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")と共同で[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")したが、**完全に1人で作詞した作品**は今作が『初』となる。
-  - アルバム『[Great Pleasure](../Page/Great_Pleasure.md "wikilink")』は[インスト曲であったが](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、今作は完全に「歌モノ」となっている。
+  - 「[サウダージ](../Page/サウダージ_\(曲\).md "wikilink")」の[c/wの](https://ja.wikipedia.org/wiki/レコード#A面/B面 "wikilink")「Search the best way」では[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")と共同で[作詞](../Page/作詞.md "wikilink")したが、**完全に1人で作詞した作品**は今作が『初』となる。
+  - アルバム『[Great Pleasure](../Page/Great_Pleasure.md "wikilink")』は[インスト曲であったが](../Page/器楽曲.md "wikilink")、今作は完全に「歌モノ」となっている。
   - 初回限定版には『2nd Live/Metal Cool Night』の応募券が封入されていた。
 
 ## データ
 
-  - [オリコンランキング](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")：初登場45位。
-  - [COUNT DOWN TVランキング](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")：初登場39位。
+  - [オリコンランキング](../Page/オリコンチャート.md "wikilink")：初登場45位。
+  - [COUNT DOWN TVランキング](../Page/COUNT_DOWN_TV.md "wikilink")：初登場39位。
 
 ## 収録曲
 
 1.  **Metal Cool**
-      - [TBS系列番組](../Page/TBSテレビ.md "wikilink")『[アイチテル\!](https://ja.wikipedia.org/wiki/アイチテル! "wikilink")』の[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")がついた曲。
+      - [TBS系列番組](../Page/TBSテレビ.md "wikilink")『[アイチテル\!](../Page/アイチテル!.md "wikilink")』の[タイアップ](../Page/タイアップ.md "wikilink")がついた曲。
 2.  **Strange Days**
       - 歌詞は「曲に引っ張られてできた」とのこと。
       - [The songs for DEATH NOTE the movie～the Last name TRIBUTE～にも収録された曲](https://ja.wikipedia.org/wiki/The_songs_for_DEATH_NOTE_the_movie～the_Last_name_TRIBUTE～ "wikilink")。

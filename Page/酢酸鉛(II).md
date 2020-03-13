@@ -21,14 +21,14 @@
 
 ## 用途
 
-他の鉛化合物の合成や[染料](../Page/染料.md "wikilink")の媒染剤として用いられる。髪染め用の染料の主成分として低濃度で使われる。塗料や[ワニス](../Page/ワニス.md "wikilink")の乾燥剤としても用いられる。また、有機化合物中の[硫黄](../Page/硫黄.md "wikilink")検出で金属[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")を使用したときに生成する[硫化ナトリウム](../Page/硫化ナトリウム.md "wikilink")を検出するのに用いられる。このとき[硫化鉛(II)](https://ja.wikipedia.org/wiki/硫化鉛\(II\) "wikilink") の黒色沈殿ができる。また、[リンドラー触媒](https://ja.wikipedia.org/wiki/リンドラー触媒 "wikilink")の[触媒毒](https://ja.wikipedia.org/wiki/触媒毒 "wikilink")としても用いられる。
+他の鉛化合物の合成や[染料](../Page/染料.md "wikilink")の媒染剤として用いられる。髪染め用の染料の主成分として低濃度で使われる。塗料や[ワニス](../Page/ワニス.md "wikilink")の乾燥剤としても用いられる。また、有機化合物中の[硫黄](../Page/硫黄.md "wikilink")検出で金属[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")を使用したときに生成する[硫化ナトリウム](../Page/硫化ナトリウム.md "wikilink")を検出するのに用いられる。このとき[硫化鉛(II)](https://ja.wikipedia.org/wiki/硫化鉛\(II\) "wikilink") の黒色沈殿ができる。また、[リンドラー触媒](../Page/リンドラー触媒.md "wikilink")の[触媒毒](https://ja.wikipedia.org/wiki/触媒毒 "wikilink")としても用いられる。
 
 ## 危険性
 
-上記の通り鉛中毒の原因物質の一つとなっている。また酢酸鉛(II) などの鉛化合物は[胎盤](https://ja.wikipedia.org/wiki/胎盤 "wikilink")を通過して[胚](https://ja.wikipedia.org/wiki/胚 "wikilink")に達し、胎児の死亡をもたらすと報告されている。鉛の塩は、特定種の動物に対する催奇性も持つ。
+上記の通り鉛中毒の原因物質の一つとなっている。また酢酸鉛(II) などの鉛化合物は[胎盤](../Page/胎盤.md "wikilink")を通過して[胚](../Page/胚.md "wikilink")に達し、胎児の死亡をもたらすと報告されている。鉛の塩は、特定種の動物に対する催奇性も持つ。
 
 ## 関連項目
 
-  - [酢酸鉛(IV)](https://ja.wikipedia.org/wiki/酢酸鉛\(IV\) "wikilink")
+  - [酢酸鉛(IV)](../Page/酢酸鉛\(IV\).md "wikilink")
 
 [Category:鉛の化合物](https://ja.wikipedia.org/wiki/Category:鉛の化合物 "wikilink") [Category:酢酸塩](https://ja.wikipedia.org/wiki/Category:酢酸塩 "wikilink") [Category:SVHC](https://ja.wikipedia.org/wiki/Category:SVHC "wikilink")

@@ -9,7 +9,7 @@
 
   - [麦島隆](https://ja.wikipedia.org/wiki/麦島隆 "wikilink")
   - [三浦晴道](https://ja.wikipedia.org/wiki/三浦晴道 "wikilink")
-  - [浅見博幸](https://ja.wikipedia.org/wiki/浅見博幸 "wikilink")
+  - [浅見博幸](../Page/浅見博幸.md "wikilink")
   - [塚原真理子](https://ja.wikipedia.org/wiki/長谷部真理子 "wikilink")
 
 他
@@ -51,7 +51,7 @@
 
   - [FNNニュースレポート6:00](../Page/FNNニュースレポート6:00.md "wikilink")
   - [FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")
-  - [イブニングニュース](https://ja.wikipedia.org/wiki/イブニングニュース "wikilink")
+  - [イブニングニュース](../Page/イブニングニュース.md "wikilink")
       - [uhbイブニングニュース](https://ja.wikipedia.org/wiki/uhbイブニングニュース "wikilink")（[北海道文化放送](../Page/北海道文化放送.md "wikilink")）
       - [イブニングニュース630](../Page/イブニングニュース630.md "wikilink")（[東海テレビ](../Page/東海テレビ放送.md "wikilink")）
       - [イブニングニュース600](../Page/イブニングニュース600.md "wikilink")（東海テレビ）

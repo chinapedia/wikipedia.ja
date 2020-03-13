@@ -1,14 +1,14 @@
 > この記事は[CSK](https://ja.wikipedia.org/wiki/CSK)から翻訳されています。
 
 
-**CSK杯囲碁アジア対抗戦**（CSKはいいごあじあたいこうせん）は、[囲碁](../Page/囲碁.md "wikilink")の国際[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[中華台北](../Page/チャイニーズタイペイ.md "wikilink")）の4ヶ国・地域の代表選手5名ずつによる団体戦で優勝を争う。2002年に開始し、2006年まで5回開催された。
+**CSK杯囲碁アジア対抗戦**（CSKはいいごあじあたいこうせん）は、[囲碁](../Page/囲碁.md "wikilink")の国際[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[中国](../Page/中国.md "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[中華台北](../Page/チャイニーズタイペイ.md "wikilink")）の4ヶ国・地域の代表選手5名ずつによる団体戦で優勝を争う。2002年に開始し、2006年まで5回開催された。
 
   - 主催 囲碁アジア対抗戦実行委員会
   - 特別協力 [日本棋院](../Page/日本棋院.md "wikilink")
   - 協力 [関西棋院](../Page/関西棋院.md "wikilink")、[中国囲棋協会](../Page/中国囲棋協会.md "wikilink")、[韓国棋院](../Page/韓国棋院.md "wikilink")、[台湾棋院](../Page/台湾棋院.md "wikilink")、(1-3回)沖縄県囲碁連盟、(4回-)[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")
-  - 特別協賛 [CSKグループ](https://ja.wikipedia.org/wiki/CSK_\(企業\) "wikilink") (1-3回)[沖縄県](../Page/沖縄県.md "wikilink")
+  - 特別協賛 [CSKグループ](../Page/CSK_\(企業\).md "wikilink") (1-3回)[沖縄県](../Page/沖縄県.md "wikilink")
   - 協賛 [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")
-  - 後援 [沖縄タイムス](../Page/沖縄タイムス.md "wikilink")社、[琉球新報](../Page/琉球新報.md "wikilink")社、[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")、[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")、[琉球朝日放送](../Page/琉球朝日放送.md "wikilink")、[NHK沖縄放送局](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、日本経済新聞社、[囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")
+  - 後援 [沖縄タイムス](../Page/沖縄タイムス.md "wikilink")社、[琉球新報](../Page/琉球新報.md "wikilink")社、[琉球放送](../Page/琉球放送.md "wikilink")、[沖縄テレビ放送](../Page/沖縄テレビ放送.md "wikilink")、[琉球朝日放送](../Page/琉球朝日放送.md "wikilink")、[NHK沖縄放送局](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、日本経済新聞社、[囲碁・将棋チャンネル](../Page/囲碁・将棋チャンネル.md "wikilink")
 
 ## 方式
 
@@ -89,15 +89,15 @@
 
   - 1回戦
 
-|                                                       |   |   |                                                     |
-| ----------------------------------------------------- | - | - | --------------------------------------------------- |
-| 日本                                                    | 4 | 1 | 中華台北                                                |
-| [加藤正夫](https://ja.wikipedia.org/wiki/加藤正夫 "wikilink") | ○ | × | 林海峰                                                 |
-| [山下敬吾](../Page/山下敬吾.md "wikilink")                    | × | ○ | 王銘琬                                                 |
-| 依田紀基                                                  | ○ | × | [王立誠](https://ja.wikipedia.org/wiki/王立誠 "wikilink") |
-| 羽根直樹                                                  | ○ | × | [張栩](../Page/張栩.md "wikilink")                      |
-| [結城聡](../Page/結城聡.md "wikilink")                      | ○ | × | [黄祥任](https://ja.wikipedia.org/wiki/黄祥任 "wikilink") |
-|                                                       |   |   |                                                     |
+|                                    |   |   |                                                     |
+| ---------------------------------- | - | - | --------------------------------------------------- |
+| 日本                                 | 4 | 1 | 中華台北                                                |
+| [加藤正夫](../Page/加藤正夫.md "wikilink") | ○ | × | 林海峰                                                 |
+| [山下敬吾](../Page/山下敬吾.md "wikilink") | × | ○ | 王銘琬                                                 |
+| 依田紀基                               | ○ | × | [王立誠](../Page/王立誠.md "wikilink")                    |
+| 羽根直樹                               | ○ | × | [張栩](../Page/張栩.md "wikilink")                      |
+| [結城聡](../Page/結城聡.md "wikilink")   | ○ | × | [黄祥任](https://ja.wikipedia.org/wiki/黄祥任 "wikilink") |
+|                                    |   |   |                                                     |
 
 |                                  |   |   |                                                   |
 | -------------------------------- | - | - | ------------------------------------------------- |
@@ -167,15 +167,15 @@
 | 結城聡                                | ○ | × | 丁偉                             |
 |                                    |   |   |                                |
 
-|                                                     |   |   |      |
-| --------------------------------------------------- | - | - | ---- |
-| 韓国                                                  | 5 | 0 | 中華台北 |
-| 李昌鎬                                                 | ○ | × | 張栩   |
-| 劉昌赫                                                 | ○ | × | 王立誠  |
-| 李世乭                                                 | ○ | × | 王銘琬  |
-| [崔哲瀚](https://ja.wikipedia.org/wiki/崔哲瀚 "wikilink") | ○ | × | 林海峰  |
-| 宋泰坤                                                 | ○ | × | 周俊勲  |
-|                                                     |   |   |      |
+|                                  |   |   |      |
+| -------------------------------- | - | - | ---- |
+| 韓国                               | 5 | 0 | 中華台北 |
+| 李昌鎬                              | ○ | × | 張栩   |
+| 劉昌赫                              | ○ | × | 王立誠  |
+| 李世乭                              | ○ | × | 王銘琬  |
+| [崔哲瀚](../Page/崔哲瀚.md "wikilink") | ○ | × | 林海峰  |
+| 宋泰坤                              | ○ | × | 周俊勲  |
+|                                  |   |   |      |
 
   - 2回戦
 
@@ -241,7 +241,7 @@
 | 李昌鎬                                                 | ○ | × | 林海峰  |
 | 朴永訓                                                 | ○ | × | 周俊勲  |
 | 李世乭                                                 | ○ | × | 王立誠  |
-| [崔哲瀚](https://ja.wikipedia.org/wiki/崔哲瀚 "wikilink") | ○ | × | 王銘琬  |
+| [崔哲瀚](../Page/崔哲瀚.md "wikilink")                    | ○ | × | 王銘琬  |
 | [金成龍](https://ja.wikipedia.org/wiki/金成龍 "wikilink") | × | ○ | 張栩   |
 |                                                     |   |   |      |
 

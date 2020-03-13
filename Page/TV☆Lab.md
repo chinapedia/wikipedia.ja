@@ -22,7 +22,7 @@
   - ヒトポリー
   - [RUMOR](https://ja.wikipedia.org/wiki/RUMOR "wikilink")
   - 完全診断\![くりぃむドック](../Page/くりぃむしちゅー.md "wikilink")
-  - [あいはら友子](https://ja.wikipedia.org/wiki/あいはら友子 "wikilink")の開運コロシアム\!\!
+  - [あいはら友子](../Page/あいはら友子.md "wikilink")の開運コロシアム\!\!
   - [クイズ5人の壁](https://ja.wikipedia.org/wiki/クイズ5人の壁 "wikilink")
   - [お台場ガキニュース](https://ja.wikipedia.org/wiki/お台場ガキニュース "wikilink")
   - [タイムバイヤー](https://ja.wikipedia.org/wiki/タイムバイヤー "wikilink")
@@ -31,7 +31,7 @@
   - [ザ・リアル 解除中&捜索中](https://ja.wikipedia.org/wiki/Run_for_money_逃走中#解除中 "wikilink")（ → [クロノス 解除中](https://ja.wikipedia.org/wiki/クロノス_\(テレビ番組\)#解除中 "wikilink")、[ジャンプ\!○○中](../Page/ジャンプ!○○中.md "wikilink")）
   - [キマズイ](https://ja.wikipedia.org/wiki/キマズイ "wikilink")
   - 外国人が見たNIPPON（ → [NIPPON@WORLD](../Page/NIPPON@WORLD.md "wikilink")）
-  - [クイズグランプリ](https://ja.wikipedia.org/wiki/クイズグランプリ "wikilink")2006
+  - [クイズグランプリ](../Page/クイズグランプリ.md "wikilink")2006
   - [戦国料理道](https://ja.wikipedia.org/wiki/戦国料理道 "wikilink")
   - 60億人の新常識・非常識\!（ → [NIPPON@WORLD](../Page/NIPPON@WORLD.md "wikilink")）
   - 芸能界\!キズナ検定 キズナ王選手権への道
@@ -74,15 +74,15 @@
 
 ## 関連項目
 
-  - [登龍門 (フジテレビ)](https://ja.wikipedia.org/wiki/登龍門_\(フジテレビ\) "wikilink")
-  - [登龍門F](https://ja.wikipedia.org/wiki/登龍門F "wikilink")
+  - [登龍門 (フジテレビ)](../Page/登龍門_\(フジテレビ\).md "wikilink")
+  - [登龍門F](../Page/登龍門F.md "wikilink")
   - [ニューカマーズ](../Page/ニューカマーズ.md "wikilink")
   - [FNSソフト工場](https://ja.wikipedia.org/wiki/FNSソフト工場 "wikilink")（[FNS各局制作](../Page/フジネットワーク.md "wikilink")）
   - [オッチモ\!](https://ja.wikipedia.org/wiki/オッチモ! "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
-  - [NHK番組たまご](https://ja.wikipedia.org/wiki/NHK番組たまご "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
-  - [バリューナイトフィーバー](https://ja.wikipedia.org/wiki/バリューナイトフィーバー "wikilink") → [サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [NHK番組たまご](../Page/NHK番組たまご.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
+  - [バリューナイトフィーバー](../Page/バリューナイトフィーバー.md "wikilink") → [サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [企画工場なりあがり](../Page/企画工場なりあがり.md "wikilink")→[21世紀エジソン](../Page/21世紀エジソン.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）
-  - [ドスペ2](https://ja.wikipedia.org/wiki/ドスペ2 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [ドスペ2](../Page/ドスペ2.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
 
 ## 外部リンク
 

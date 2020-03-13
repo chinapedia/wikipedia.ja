@@ -299,7 +299,7 @@
 
   - [トミー・ドカティ](https://ja.wikipedia.org/wiki/トミー・ドカティ "wikilink") 1949-1958
 
-  - [スチュワート・バクスター](https://ja.wikipedia.org/wiki/スチュワート・バクスター "wikilink") 1971-1975
+  - [スチュワート・バクスター](../Page/スチュワート・バクスター.md "wikilink") 1971-1975
 
   - [ノビー・スタイルズ](https://ja.wikipedia.org/wiki/ノビー・スタイルズ "wikilink") 1973-1977
 
@@ -309,7 +309,7 @@
 
   - [デビッド・ベッカム](../Page/デビッド・ベッカム.md "wikilink") 1995
 
-  - [ブライアン・マクブライド](https://ja.wikipedia.org/wiki/ブライアン・マクブライド "wikilink") 2000
+  - [ブライアン・マクブライド](../Page/ブライアン・マクブライド.md "wikilink") 2000
 
   - [デイビット・ヒーリー](https://ja.wikipedia.org/wiki/デイビット・ヒーリー "wikilink") 2001-2004
 

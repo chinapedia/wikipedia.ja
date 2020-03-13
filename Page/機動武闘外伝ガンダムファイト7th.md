@@ -1,11 +1,11 @@
 > この記事は[7th](https://ja.wikipedia.org/wiki/7th)から翻訳されています。
 
 
-『**機動武闘外伝ガンダムファイト7th**』（きどうぶとうがいでんガンダムファイトセブンス）は、[1996年](../Page/1996年.md "wikilink")に『[コミックボンボン](../Page/コミックボンボン.md "wikilink")増刊号』で連載されたおとといきたろうの漫画作品。テレビアニメ『[機動武闘伝Gガンダム](../Page/機動武闘伝Gガンダム.md "wikilink")』の外伝作品である。キャラクターデザイン：[逢坂浩司](https://ja.wikipedia.org/wiki/逢坂浩司 "wikilink")、メカニックデザイン：[大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")。
+『**機動武闘外伝ガンダムファイト7th**』（きどうぶとうがいでんガンダムファイトセブンス）は、[1996年](../Page/1996年.md "wikilink")に『[コミックボンボン](../Page/コミックボンボン.md "wikilink")増刊号』で連載されたおとといきたろうの漫画作品。テレビアニメ『[機動武闘伝Gガンダム](../Page/機動武闘伝Gガンダム.md "wikilink")』の外伝作品である。キャラクターデザイン：[逢坂浩司](../Page/逢坂浩司.md "wikilink")、メカニックデザイン：[大河原邦男](../Page/大河原邦男.md "wikilink")。
 
 ## 概要
 
-[未来世紀](../Page/未来世紀.md "wikilink")32年の第7回[ガンダムファイト](https://ja.wikipedia.org/wiki/ガンダムファイト "wikilink")が舞台。[東方不敗マスター・アジア](https://ja.wikipedia.org/wiki/東方不敗マスター・アジア "wikilink")以下旧[シャッフル同盟](https://ja.wikipedia.org/wiki/シャッフル同盟 "wikilink")の若き日の姿を描く。
+[未来世紀](../Page/未来世紀.md "wikilink")32年の第7回[ガンダムファイト](../Page/ガンダムファイト.md "wikilink")が舞台。[東方不敗マスター・アジア](../Page/東方不敗マスター・アジア.md "wikilink")以下旧[シャッフル同盟](../Page/シャッフル同盟.md "wikilink")の若き日の姿を描く。
 
 『機動武闘伝Gガンダム』の本放送終了後も人気は衰えなかったことから、プラモデル企画として本作が展開されることとなり、テレビアニメ版のスタッフによりキャラクターやメカニックのデザインが行われた。
 
@@ -16,7 +16,7 @@
 ## 登場人物
 
   - シュウジ・クロス
-    ネオジャパン代表。搭乗機は[ヤマトガンダム](https://ja.wikipedia.org/wiki/モビルファイター#ヤマトガンダム "wikilink")。後の[東方不敗マスター・アジア](https://ja.wikipedia.org/wiki/東方不敗マスター・アジア "wikilink")。
+    ネオジャパン代表。搭乗機は[ヤマトガンダム](https://ja.wikipedia.org/wiki/モビルファイター#ヤマトガンダム "wikilink")。後の[東方不敗マスター・アジア](../Page/東方不敗マスター・アジア.md "wikilink")。
   - マックス・バーンズ
     ネオアメリカ代表。搭乗機は[ガンダムフリーダム](https://ja.wikipedia.org/wiki/モビルファイター#ガンダムフリーダム "wikilink")。後のクイーン・ザ・スペード。
   - アラン・リー

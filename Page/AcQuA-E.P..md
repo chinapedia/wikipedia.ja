@@ -1,13 +1,13 @@
 > この記事は[AcQuA-E.P.](https://ja.wikipedia.org/wiki/AcQuA-E.P.)から翻訳されています。
 
 
-**AcQuA EP**（アクア・イーピー）は、[ホストクラブ](https://ja.wikipedia.org/wiki/ホストクラブ "wikilink")で働くホストで構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")。
+**AcQuA EP**（アクア・イーピー）は、[ホストクラブ](../Page/ホストクラブ.md "wikilink")で働くホストで構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループである](../Page/音楽ユニット.md "wikilink")。
 
 ## 概要
 
-正式名は、**AcQuA Entertainment Project**(アクアエンターテイメントプロジェクト）である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ホストクラブ](https://ja.wikipedia.org/wiki/ホストクラブ "wikilink")「**Club ACQUA**」の東京・歌舞伎町店と大阪店のホスト8人で結成したバンドである。[メジャーデビュー以前の名称はAcQuA](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")-E.P.で、7人がボーカル、1人がギターを担当していた。
+正式名は、**AcQuA Entertainment Project**(アクアエンターテイメントプロジェクト）である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ホストクラブ](../Page/ホストクラブ.md "wikilink")「**Club ACQUA**」の東京・歌舞伎町店と大阪店のホスト8人で結成したバンドである。[メジャーデビュー以前の名称はAcQuA](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")-E.P.で、7人がボーカル、1人がギターを担当していた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月27日にシングル「禊-MISOGI-」でデビューを遂げる。同シングルは[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位、[サウンドスキャンジャパン](https://ja.wikipedia.org/wiki/サウンドスキャンジャパン "wikilink")シングルチャート1位を記録。
+[2006年](../Page/2006年.md "wikilink")9月27日にシングル「禊-MISOGI-」でデビューを遂げる。同シングルは[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")3位、[サウンドスキャンジャパン](https://ja.wikipedia.org/wiki/サウンドスキャンジャパン "wikilink")シングルチャート1位を記録。
 
 [2007年](../Page/2007年.md "wikilink")8月9日、ツアー「AcQuA EP SURFACE 2007〜初陣〜」をもってAcQuA-E.P.としての活動を終了。メンバーTohruの脱退後、AcQuA-E.P.の意思を引き継ぐ新たな7人でのバンド『**AGE-OF-EP**(エイジ・オブ・イーピー)』とヴィジュアル系バンド『**AGE**(エイジ)』を始動させた。なお、活動母体となるエンターテインメントプロジェクト名として、「AcQuA-E.P.」の名前は残した。
 
@@ -42,7 +42,7 @@
 <!-- end list -->
 
   -
-    ホスト名・佐々木弌狼。Club ACQUA TOKYO常務取締役。[ベースを担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    ホスト名・佐々木弌狼。Club ACQUA TOKYO常務取締役。[ベースを担当](../Page/ベース_\(弦楽器\).md "wikilink")。
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@
 <!-- end list -->
 
   -
-    ホスト名・楓十座。カリスマナンバー1ホスト。[お兄系](https://ja.wikipedia.org/wiki/お兄系 "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")「[MEN'S ROSES](../Page/MEN'S_ROSES.md "wikilink")」で[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")としても活動した。
+    ホスト名・楓十座。カリスマナンバー1ホスト。[お兄系](../Page/お兄系.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")「[MEN'S ROSES](../Page/MEN'S_ROSES.md "wikilink")」で[ファッションモデル](../Page/ファッションモデル.md "wikilink")としても活動した。
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@
 
 1.  禊-MISOGI-（作詞：[清春](../Page/清春.md "wikilink")）
 2.  Error
-3.  LOVIN' YOU BABY(I WAS MADE FOR LOVIN' YOU)（[KISSのカバー](https://ja.wikipedia.org/wiki/キッス "wikilink")）
+3.  LOVIN' YOU BABY(I WAS MADE FOR LOVIN' YOU)（[KISSのカバー](../Page/キッス.md "wikilink")）
 4.  禊-MISOGI-(Instrumental)
 
 <!-- end list -->

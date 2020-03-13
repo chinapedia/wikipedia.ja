@@ -35,7 +35,7 @@
       - Expression Web 3のSuperPreviewの機能のうち、Internet Explorerの各版の表示比較に限定した無償版が公開されている。
   - [Expression Encoder](https://ja.wikipedia.org/wiki/Microsoft_Expression_Encoder "wikilink")
       - Expression 2から追加された、音声、映像コンテンツを圧縮するためのメディアエンコードと、コンテンツの[ストリーミング](../Page/ストリーミング.md "wikilink")配信を行うツール
-      - Expression 3以降では、標準サポートされている[VC-1](https://ja.wikipedia.org/wiki/VC-1 "wikilink") ([Windows Media Video](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")(WMV), [Windows Media Audio](../Page/Windows_Media_Audio.md "wikilink")(WMA))以外に、[H.264 AVCや](../Page/H.264.md "wikilink")/MPEG-4[Advanced Audio Coding](../Page/AAC.md "wikilink")(AAC)のエンコードに対応する。
+      - Expression 3以降では、標準サポートされている[VC-1](../Page/VC-1.md "wikilink") ([Windows Media Video](../Page/Windows_Media_Video.md "wikilink")(WMV), [Windows Media Audio](../Page/Windows_Media_Audio.md "wikilink")(WMA))以外に、[H.264 AVCや](../Page/H.264.md "wikilink")/MPEG-4[Advanced Audio Coding](../Page/AAC.md "wikilink")(AAC)のエンコードに対応する。
       - Expression 4以降では、VC-1以外のエンコードにも対応するものをExpression Encoder Proとして後述の無償版と区別している。[2011年](../Page/2011年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に公開されたSP1では[NVIDIA](../Page/NVIDIA.md "wikilink") [CUDA](../Page/CUDA.md "wikilink")による[GPU](https://ja.wikipedia.org/wiki/GPU "wikilink")エンコーディングがH.264に対応した。
       - 無償で公開されているWindows Media エンコーダ 9の後継製品という性質もあるため、WMV, WMAへのエンコードとストリーミング配信に対応した無償版のExpression Encoderが公開されている。
   - Expression Encoder Screen Capture

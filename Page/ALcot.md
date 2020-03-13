@@ -40,7 +40,7 @@
 </tr>
 <tr class="even">
 <td><p>1FD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月14日.md" title="wikilink">1月14日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月14日.md" title="wikilink">1月14日</a></p></td>
 <td><p>Clover Heart's append disc TOYつめちゃいました</p></td>
 <td><p>仁村有志</p></td>
 <td><p>宮蔵、大三元</p></td>
@@ -377,7 +377,7 @@
 
 ## Webラジオ
 
-『**あるらじ\! そよぎと六花の Radio de ALcot\!**』のタイトルで2013年6月6日から[HiBiKi Radio Stationにて配信されているラジオ番組](https://ja.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")。2014年6月5日からは[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")でも配信。第1、第3木曜日更新。パーソナリティは[遠野そよぎ](../Page/遠野そよぎ.md "wikilink")、[北見六花](https://ja.wikipedia.org/wiki/北見六花 "wikilink")、宮蔵\[9\]。2016年12月22日第78回の更新後、番組を休止していたが、2018年12月28日に73回から78回までのアーカイブに加え、録り下ろしの最終回を含んだ「あるらじ\! そよぎと六花のRadio de Alcot\! CD vol.07」が発売され、終了となった。
+『**あるらじ\! そよぎと六花の Radio de ALcot\!**』のタイトルで2013年6月6日から[HiBiKi Radio Stationにて配信されているラジオ番組](https://ja.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")。2014年6月5日からは[音泉](../Page/音泉.md "wikilink")でも配信。第1、第3木曜日更新。パーソナリティは[遠野そよぎ](../Page/遠野そよぎ.md "wikilink")、[北見六花](https://ja.wikipedia.org/wiki/北見六花 "wikilink")、宮蔵\[9\]。2016年12月22日第78回の更新後、番組を休止していたが、2018年12月28日に73回から78回までのアーカイブに加え、録り下ろしの最終回を含んだ「あるらじ\! そよぎと六花のRadio de Alcot\! CD vol.07」が発売され、終了となった。
 
 2015年10月から12月の間は『キミのとなりで恋してる\!〜The Respective Happiness〜』の発売と連動した特別番組『**あるらじ\!出張版 とな恋さらさらラジオ**』が配信された。パーソナリティは[歩サラ](https://ja.wikipedia.org/wiki/歩サラ "wikilink")と[立花沙羅](https://ja.wikipedia.org/wiki/立花沙羅 "wikilink")\[10\]。
 

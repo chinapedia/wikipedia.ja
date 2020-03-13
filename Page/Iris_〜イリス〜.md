@@ -10,7 +10,7 @@
   - 瀬戸原 治樹（せとはら はるき）
     主人公。過去の記憶がやや曖昧。幼い時に母を亡くしており、2年前に父が海外赴任して以降、夏実の家に居候している。優しく穏やかな性格。
   - 末永 さくら（すえなが さくら）
-    [声](../Page/声優.md "wikilink") : [前田千亜紀](https://ja.wikipedia.org/wiki/前田ちあき "wikilink")
+    [声](../Page/声優.md "wikilink") : [前田千亜紀](../Page/前田ちあき.md "wikilink")
     主人公のクラスメート。主人公の幼馴染であったが、中学入学時の主人公の引越しにより疎遠になる。おっとり大人しいタイプだが意外にも意地っ張り。[ペンギン](https://ja.wikipedia.org/wiki/ペンギン "wikilink")グッズを集めている。
   - 御堂 東雲（みどう しののめ）
     声 : [笹島かほる](../Page/笹島かほる.md "wikilink")
@@ -41,7 +41,7 @@
 
 ## スタッフ
 
-  - キャラクターデザイン:[篤見唯子](https://ja.wikipedia.org/wiki/篤見唯子 "wikilink")
+  - キャラクターデザイン:[篤見唯子](../Page/篤見唯子.md "wikilink")
   - 原画：エンディングイラスト:[伊藤まさひさ](https://ja.wikipedia.org/wiki/伊藤まさひさ "wikilink")
   - シナリオ:[高瀬伸](https://ja.wikipedia.org/wiki/高瀬伸 "wikilink")
   - 音楽:[阿保剛](../Page/阿保剛.md "wikilink")

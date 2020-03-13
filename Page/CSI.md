@@ -23,7 +23,7 @@
 ## 組織
 
   - [ニューヨーク市立大学スタテンアイランド校](https://ja.wikipedia.org/wiki/ニューヨーク市立大学スタテンアイランド校 "wikilink")
-  - 国際スポーツ委員会（Commission Sportive Internationale） - [国際自動車連盟](https://ja.wikipedia.org/wiki/国際自動車連盟 "wikilink")の下部組織。[FISA](https://ja.wikipedia.org/wiki/FISA "wikilink")の前身。
+  - 国際スポーツ委員会（Commission Sportive Internationale） - [国際自動車連盟](../Page/国際自動車連盟.md "wikilink")の下部組織。[FISA](https://ja.wikipedia.org/wiki/FISA "wikilink")の前身。
   - 株式会社CSI - [テクノプロ・ホールディングス](../Page/テクノプロ・ホールディングス.md "wikilink")の関連会社。現在は組織改編により株式会社[テクノプロ](https://ja.wikipedia.org/wiki/テクノプロ "wikilink")の社内カンパニーのテクノプロ・IT社。
   - [CompuServe Inc.](../Page/CompuServe.md "wikilink"),
   - [Catalytic Solutions, Inc.](https://ja.wikipedia.org/wiki/Catalytic_Solutions,_Inc. "wikilink")

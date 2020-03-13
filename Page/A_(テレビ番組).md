@@ -1,11 +1,11 @@
 > この記事は[A \(\)](https://ja.wikipedia.org/wiki/A_\(\))から翻訳されています。
 
 
-『**A**』（エー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[6月26日](../Page/6月26日.md "wikilink")まで[日本テレビ系列全国](../Page/日本テレビ放送網.md "wikilink")30局（[クロスネット局](../Page/クロスネット局.md "wikilink")の[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、[テレビ大分](../Page/テレビ大分.md "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")含む）ネットで放送されていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[日曜日](../Page/日曜日.md "wikilink")の19時58分から20時54分（[JST](../Page/日本標準時.md "wikilink")）。
+『**A**』（エー）は、[2005年](../Page/2005年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[6月26日](../Page/6月26日.md "wikilink")まで[日本テレビ系列全国](../Page/日本テレビ放送網.md "wikilink")30局（[クロスネット局](../Page/クロスネット局.md "wikilink")の[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")、[テレビ大分](../Page/テレビ大分.md "wikilink")、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")含む）ネットで放送されていた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週[日曜日](../Page/日曜日.md "wikilink")の19時58分から20時54分（[JST](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
-[久米宏](https://ja.wikipedia.org/wiki/久米宏 "wikilink")にとっては2004年3月の『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）終了以来1年振りにテレビに復帰した番組でもあった。また、日本テレビでは1985年3月まで放映の『**[TVスクランブル](https://ja.wikipedia.org/wiki/久米宏のTVスクランブル "wikilink")**』以来ちょうど20年ぶりのレギュラー番組である。司会は他に[松浦亜弥](../Page/松浦亜弥.md "wikilink")など。[インターネット](../Page/インターネット.md "wikilink")の回線をつかって、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")の話題をアジアの人たちと共に提供するコンセプトだった。ちなみに久米が番組の記者会見で**番組名の“A”は“あやや”のイニシャルの“A”である**と語ったが、**正しくは[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")の「A」**である。ただし、番組内の話題として登場した国は[韓国](../Page/大韓民国.md "wikilink")、[中国](../Page/中華人民共和国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[タイのみであった](../Page/タイ王国.md "wikilink")。
+[久米宏](../Page/久米宏.md "wikilink")にとっては2004年3月の『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）終了以来1年振りにテレビに復帰した番組でもあった。また、日本テレビでは1985年3月まで放映の『**[TVスクランブル](../Page/久米宏のTVスクランブル.md "wikilink")**』以来ちょうど20年ぶりのレギュラー番組である。司会は他に[松浦亜弥](../Page/松浦亜弥.md "wikilink")など。[インターネット](../Page/インターネット.md "wikilink")の回線をつかって、[アジア](../Page/アジア.md "wikilink")の話題をアジアの人たちと共に提供するコンセプトだった。ちなみに久米が番組の記者会見で**番組名の“A”は“あやや”のイニシャルの“A”である**と語ったが、**正しくは[アジア](../Page/アジア.md "wikilink")の「A」**である。ただし、番組内の話題として登場した国は[韓国](../Page/大韓民国.md "wikilink")、[中国](../Page/中華人民共和国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[タイのみであった](../Page/タイ王国.md "wikilink")。
 
 タイトルロゴの「*A*」は、「人」と漢数字の「一」を合わせたデザインだった。「新しい**人**への**一**歩」という意味である。
 
@@ -32,7 +32,7 @@
 
 ### 司会
 
-  - [久米宏](https://ja.wikipedia.org/wiki/久米宏 "wikilink")
+  - [久米宏](../Page/久米宏.md "wikilink")
   - [松浦亜弥](../Page/松浦亜弥.md "wikilink")
 
 ### レギュラー
@@ -99,7 +99,7 @@
   - 総合演出：[雨宮秀彦](https://ja.wikipedia.org/wiki/雨宮秀彦 "wikilink")
   - プロデューサー：[磯野太](https://ja.wikipedia.org/wiki/磯野太 "wikilink") ／ 滝川均、青海鉄山、松成鈴代、谷崎聡一郎
   - チーフプロデューサー：[梅原幹](../Page/梅原幹.md "wikilink")
-  - 協力：[アガサス](https://ja.wikipedia.org/wiki/アガサス "wikilink")、フリード、プロポ、One by One、[創輝](https://ja.wikipedia.org/wiki/創輝 "wikilink")、[ザイオン](https://ja.wikipedia.org/wiki/ザイオン_\(テレビ制作会社\) "wikilink")
+  - 協力：[アガサス](https://ja.wikipedia.org/wiki/アガサス "wikilink")、フリード、プロポ、One by One、[創輝](../Page/創輝.md "wikilink")、[ザイオン](../Page/ザイオン_\(テレビ制作会社\).md "wikilink")
   - 海外制作協力：ワイズメンコミュニケーションズ
   - 制作協力：[オフィス・トゥー・ワン](../Page/オフィス・トゥー・ワン.md "wikilink")
   - 製作著作：日テレ
@@ -114,7 +114,7 @@
 
 この番組以降、日本テレビの日曜20時台は巨人戦の野球中継や、報道・番組改編期の特別番組時を除いてスポンサーの表示が全て[カラーで行われるようになった](../Page/フルカラー.md "wikilink")。現在の『[世界の果てまでイッテQ\!](https://ja.wikipedia.org/wiki/世界の果てまでイッテQ! "wikilink")』でもこの形態が守られている。
 
-現在同じ形態をとっている番組には土曜20時台の『[世界一受けたい授業](../Page/世界一受けたい授業.md "wikilink")』などがある。また以前は、同時期に開始した土曜19時台の『[世界\!超マネー研究所](https://ja.wikipedia.org/wiki/世界!超マネー研究所 "wikilink")』も同様だった。
+現在同じ形態をとっている番組には土曜20時台の『[世界一受けたい授業](../Page/世界一受けたい授業.md "wikilink")』などがある。また以前は、同時期に開始した土曜19時台の『[世界\!超マネー研究所](../Page/世界!超マネー研究所.md "wikilink")』も同様だった。
 
 ## 脚注
 

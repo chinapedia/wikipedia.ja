@@ -1,7 +1,7 @@
 > この記事は[SUGO](https://ja.wikipedia.org/wiki/SUGO)から翻訳されています。
 
 
-**スポーツランドSUGO**（スポーツランドすごう）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[柴田郡](https://ja.wikipedia.org/wiki/柴田郡 "wikilink")[村田町](../Page/村田町.md "wikilink")菅生にある総合モータースポーツ施設である。[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")の関連会社によって運営され、国際自動車連盟（FIA）公認の国際レーシングコース（グレード2）を含む\[1\]4つの専用コースを有する、[モトクロス世界選手権](https://ja.wikipedia.org/wiki/モトクロス世界選手権 "wikilink")・[日本グランプリの開催地である](https://ja.wikipedia.org/wiki/日本グランプリ_\(モトクロス\) "wikilink")。
+**スポーツランドSUGO**（スポーツランドすごう）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[柴田郡](https://ja.wikipedia.org/wiki/柴田郡 "wikilink")[村田町](../Page/村田町.md "wikilink")菅生にある総合モータースポーツ施設である。[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")の関連会社によって運営され、国際自動車連盟（FIA）公認の国際レーシングコース（グレード2）を含む\[1\]4つの専用コースを有する、[モトクロス世界選手権](../Page/モトクロス世界選手権.md "wikilink")・[日本グランプリの開催地である](https://ja.wikipedia.org/wiki/日本グランプリ_\(モトクロス\) "wikilink")。
 
 ## 沿革
 
@@ -11,7 +11,7 @@
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）、全長2.66kmのハイスピードコースを、現在のコースレイアウトに全面改修\[4\]。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）より、[スーパーバイク世界選手権](../Page/スーパーバイク世界選手権.md "wikilink")日本大会を開催（2003年まで）。
   - [2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）11月、キャンプ場およびテニス場以外のレジャー・レクリエーション施設を廃止し、2005年4月より[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")事業に特化することを発表\[5\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）5月29日、[モトクロス世界選手権](https://ja.wikipedia.org/wiki/モトクロス世界選手権 "wikilink")シリーズ第5戦[日本グランプリを国内では](https://ja.wikipedia.org/wiki/日本グランプリ_\(モトクロス\) "wikilink")10年ぶりに開催（2007年まで）\[6\]。
+  - [2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）5月29日、[モトクロス世界選手権](../Page/モトクロス世界選手権.md "wikilink")シリーズ第5戦[日本グランプリを国内では](https://ja.wikipedia.org/wiki/日本グランプリ_\(モトクロス\) "wikilink")10年ぶりに開催（2007年まで）\[6\]。
   - [2020年](../Page/2020年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")2年）[1月9日](../Page/1月9日.md "wikilink") - 安全対策並びに将来的なコース改修の検討にあたり、レーシングコースの距離を[モービルマッピングシステム](https://ja.wikipedia.org/wiki/モービルマッピングシステム "wikilink")測量で再測定したところ、測量結果が従来の公認値と異なることが判明。同年より、4輪用コースの距離を3,704.256mから3,586.570mへ、2輪用コースの距離を3,737.50mから3,621.154mへそれぞれ修正した。なお、これまでの大会記録等については変更しない\[7\]。
 
 <table>
@@ -37,7 +37,7 @@
 
 ### 国際レーシングコース
 
-[国際自動車連盟](https://ja.wikipedia.org/wiki/国際自動車連盟 "wikilink")（FIA）公認（グレード2）のオンロードサーキットであり、全長は3,621.154m（シケイン部分を除く3,586.570m）\[8\]で右回りのテクニカルサーキットである。最終コーナーからホームストレートにかけての10%（高低差約73m）の登り勾配が特徴\[9\]。また、このコースは平坦な場所がなく、常に登り、下りの繰り返しである\[10\]。2輪は最終コーナー手前のシケインを通るが、4輪の場合はそのまま直進する。
+[国際自動車連盟](../Page/国際自動車連盟.md "wikilink")（FIA）公認（グレード2）のオンロードサーキットであり、全長は3,621.154m（シケイン部分を除く3,586.570m）\[8\]で右回りのテクニカルサーキットである。最終コーナーからホームストレートにかけての10%（高低差約73m）の登り勾配が特徴\[9\]。また、このコースは平坦な場所がなく、常に登り、下りの繰り返しである\[10\]。2輪は最終コーナー手前のシケインを通るが、4輪の場合はそのまま直進する。
 
 1987年のコース改修の影響で、通常のサーキットでは1コーナーの手前にあるピットロードの出口が、本コースでは2コーナーの後ろにある。ピット数は45個。観客席は、グランドスタンド約12,000席、他13,500席(第1コーナースタンド、SPスタンド、シケインスタンド)である \[11\]。
 
@@ -49,14 +49,14 @@
 | ---------------------------------------------------------------------------------------------------------------------- | -------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | **[フォーミュラ・ニッポン](../Page/フォーミュラ・ニッポン.md "wikilink")/[スーパーフォーミュラ](https://ja.wikipedia.org/wiki/スーパーフォーミュラ "wikilink")** | 1'04.694 | [野尻智紀](https://ja.wikipedia.org/wiki/野尻智紀 "wikilink") | [ダラーラ・SF14](https://ja.wikipedia.org/wiki/ダラーラ・SF14 "wikilink")/[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink") | [2018年](../Page/2018年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink") |
 | **[全日本スポーツプロトタイプカー耐久選手権](../Page/全日本スポーツプロトタイプカー耐久選手権.md "wikilink")**                                                 | 1'06.514 | [テオ・ファビ](../Page/テオ・ファビ.md "wikilink")                | [ジャガー・XJR-14](../Page/ジャガー・XJR-14.md "wikilink")                                                                    | [1991年](../Page/1991年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink") |
-| **[JLMC](https://ja.wikipedia.org/wiki/全日本スポーツカー耐久選手権 "wikilink")**                                                    | 1'13.306 | [黒澤治樹](../Page/黒澤治樹.md "wikilink")                    | クラージュ・LC70/[無限](../Page/M-TEC.md "wikilink")                                                                        | [2007年](../Page/2007年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") |
+| **[JLMC](../Page/全日本スポーツカー耐久選手権.md "wikilink")**                                                                       | 1'13.306 | [黒澤治樹](../Page/黒澤治樹.md "wikilink")                    | クラージュ・LC70/[無限](../Page/M-TEC.md "wikilink")                                                                        | [2007年](../Page/2007年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") |
 | **[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")**                                                      | GT500    | 1'09.676                                              | [塚越広大](../Page/塚越広大.md "wikilink")                                                                                  | [ホンダ・NSX](../Page/ホンダ・NSX.md "wikilink")                                 |
 | GT300                                                                                                                  | 1'16.834 | [山内英輝](https://ja.wikipedia.org/wiki/山内英輝 "wikilink") | [スバル・BRZ](https://ja.wikipedia.org/wiki/スバル・BRZ "wikilink")                                                         | [2019年](../Page/2019年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink") |
-| **[全日本ロードレース選手権](https://ja.wikipedia.org/wiki/全日本ロードレース選手権 "wikilink")**                                              | JSB1000  | 1'27.523                                              | [伊藤真一](https://ja.wikipedia.org/wiki/伊藤真一 "wikilink")                                                               | [ホンダ・CBR1000RR](../Page/ホンダ・CBR1000RR.md "wikilink")                     |
+| **[全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")**                                                                 | JSB1000  | 1'27.523                                              | [伊藤真一](https://ja.wikipedia.org/wiki/伊藤真一 "wikilink")                                                               | [ホンダ・CBR1000RR](../Page/ホンダ・CBR1000RR.md "wikilink")                     |
 
 ### 国際オフロードコース
 
-[国際モーターサイクリズム連盟](https://ja.wikipedia.org/wiki/国際モーターサイクリズム連盟 "wikilink")（FIM）公認の国際オフロードサーキット。2005年から2007年にかけて本コースで[モトクロス世界選手権](https://ja.wikipedia.org/wiki/モトクロス世界選手権 "wikilink")が開催され、2005年12月にはモナコ・モンテカルロにおいて開催された、2005FIMモトクロス・スーパーモト表彰式（2005 FIM Motocross and SuperMoto Prize-giving Ceremony）でスポーツランドSUGOの施設・競技運営・観客への配慮が高く評価され「FIMモトクロス・ベストオーガナイザー賞」を受賞している\[15\]。菅生名物の「大坂」は傾斜角30°全長約70m 最大高低差約35mという規模で、坂というよりも「壁」である。
+[国際モーターサイクリズム連盟](../Page/国際モーターサイクリズム連盟.md "wikilink")（FIM）公認の国際オフロードサーキット。2005年から2007年にかけて本コースで[モトクロス世界選手権](../Page/モトクロス世界選手権.md "wikilink")が開催され、2005年12月にはモナコ・モンテカルロにおいて開催された、2005FIMモトクロス・スーパーモト表彰式（2005 FIM Motocross and SuperMoto Prize-giving Ceremony）でスポーツランドSUGOの施設・競技運営・観客への配慮が高く評価され「FIMモトクロス・ベストオーガナイザー賞」を受賞している\[15\]。菅生名物の「大坂」は傾斜角30°全長約70m 最大高低差約35mという規模で、坂というよりも「壁」である。
 
 ### 西コース
 
@@ -72,16 +72,16 @@
 
 ### バイクレース
 
-  - [全日本ロードレース選手権](https://ja.wikipedia.org/wiki/全日本ロードレース選手権 "wikilink")
-  - [全日本モトクロス選手権](https://ja.wikipedia.org/wiki/全日本モトクロス選手権 "wikilink")
-  - [全日本トライアル選手権](https://ja.wikipedia.org/wiki/全日本トライアル選手権 "wikilink")
+  - [全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")
+  - [全日本モトクロス選手権](../Page/全日本モトクロス選手権.md "wikilink")
+  - [全日本トライアル選手権](../Page/全日本トライアル選手権.md "wikilink")
   - [全日本スーパーモタード選手権](../Page/MOTO1オールスターズ.md "wikilink")
 
 ### カーレース
 
   - [スーパーフォーミュラ](https://ja.wikipedia.org/wiki/スーパーフォーミュラ "wikilink")
   - [SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")
-  - [スーパー耐久](https://ja.wikipedia.org/wiki/スーパー耐久 "wikilink")
+  - [スーパー耐久](../Page/スーパー耐久.md "wikilink")
 
 ### ATV
 
@@ -94,7 +94,7 @@
   - [スーパーバイク世界選手権](../Page/スーパーバイク世界選手権.md "wikilink")
   - [TT-F1世界選手権](https://ja.wikipedia.org/wiki/TT-F1世界選手権 "wikilink")
   - [全日本スポーツプロトタイプカー耐久選手権](../Page/全日本スポーツプロトタイプカー耐久選手権.md "wikilink")
-  - [全日本スポーツカー耐久選手権](https://ja.wikipedia.org/wiki/全日本スポーツカー耐久選手権 "wikilink")（2006年-2007年）
+  - [全日本スポーツカー耐久選手権](../Page/全日本スポーツカー耐久選手権.md "wikilink")（2006年-2007年）
   - [全日本ツーリングカー選手権](https://ja.wikipedia.org/wiki/全日本ツーリングカー選手権 "wikilink")
   - [全日本プロドリフト選手権](../Page/全日本プロドリフト選手権.md "wikilink")
 
@@ -104,7 +104,7 @@
   - LIVE STOCK（1997年、1998年、2003年 ）
   - [スターダストレビュー](../Page/スターダストレビュー.md "wikilink") 「満天の星空の下でスターダスト☆レビュー」（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")）
   - [モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")Concert Tour [2002夏 「LOVE IS ALIVE\!」](../Page/モーニング娘。の作品・出演一覧.md "wikilink")（[2002年](../Page/2002年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")昼夜2公演）
-  - [FM仙台](../Page/エフエム仙台.md "wikilink") 20th Anniversary / [仙台放送](../Page/仙台放送.md "wikilink") 40th Anniversary - Super Collaboration 「FROM S」（2002年[8月31日](../Page/8月31日.md "wikilink")）[稲垣潤一](../Page/稲垣潤一.md "wikilink")、[小田和正](../Page/小田和正.md "wikilink")、[清貴](https://ja.wikipedia.org/wiki/清貴 "wikilink")、[坂本サトル](../Page/坂本サトル.md "wikilink")、[HOUND DOG](../Page/HOUND_DOG.md "wikilink")、[中川晃教](https://ja.wikipedia.org/wiki/中川晃教 "wikilink")
+  - [FM仙台](../Page/エフエム仙台.md "wikilink") 20th Anniversary / [仙台放送](../Page/仙台放送.md "wikilink") 40th Anniversary - Super Collaboration 「FROM S」（2002年[8月31日](../Page/8月31日.md "wikilink")）[稲垣潤一](../Page/稲垣潤一.md "wikilink")、[小田和正](../Page/小田和正.md "wikilink")、[清貴](../Page/清貴.md "wikilink")、[坂本サトル](../Page/坂本サトル.md "wikilink")、[HOUND DOG](../Page/HOUND_DOG.md "wikilink")、[中川晃教](../Page/中川晃教.md "wikilink")
   - [OCN](../Page/OCN.md "wikilink") Presents [MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink") 星空のライヴII CONSTELLATION MISIA 2003（[2003年](../Page/2003年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")）
 
 #### その他
@@ -117,7 +117,7 @@
 
 ## レースクイーン
 
-このサーキットの専属[レースクイーン](../Page/レースクイーン.md "wikilink")である「SUGOレースクイーン」がおり、毎年コンテスト・[オーディション](../Page/オーディション.md "wikilink")が行われてグランプリ、準グランプリが決定し、メンバーが入れ替えられる。[コスチューム](https://ja.wikipedia.org/wiki/コスチューム "wikilink")は、[仙台市](../Page/仙台市.md "wikilink")にある[宮城文化服装専門学校](https://ja.wikipedia.org/wiki/宮城文化服装専門学校 "wikilink")の学生によるデザインが[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）から毎年採用されている\[23\]。
+このサーキットの専属[レースクイーン](../Page/レースクイーン.md "wikilink")である「SUGOレースクイーン」がおり、毎年コンテスト・[オーディション](../Page/オーディション.md "wikilink")が行われてグランプリ、準グランプリが決定し、メンバーが入れ替えられる。[コスチューム](https://ja.wikipedia.org/wiki/コスチューム "wikilink")は、[仙台市](../Page/仙台市.md "wikilink")にある[宮城文化服装専門学校](https://ja.wikipedia.org/wiki/宮城文化服装専門学校 "wikilink")の学生によるデザインが[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）から毎年採用されている\[23\]。
 
 | 年        | SUGO RACE QUEEN                                                                   | 備考                                          |
 | -------- | --------------------------------------------------------------------------------- | ------------------------------------------- |
@@ -158,15 +158,15 @@
 
   - [東北自動車道](../Page/東北自動車道.md "wikilink")
       - [村田ICから約](../Page/村田インターチェンジ.md "wikilink")10分
-      - [仙台南ICから](../Page/仙台南インターチェンジ.md "wikilink")[宮城県道31号仙台村田線](https://ja.wikipedia.org/wiki/宮城県道31号仙台村田線 "wikilink")経由で約20分。
+      - [仙台南ICから](../Page/仙台南インターチェンジ.md "wikilink")[宮城県道31号仙台村田線](../Page/宮城県道31号仙台村田線.md "wikilink")経由で約20分。
   - ビッグレース開催時は[仙台駅](../Page/仙台駅.md "wikilink")より臨時バスが運行される。
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは、[宮城交通](../Page/宮城交通.md "wikilink")・[北仙台バスターミナルからスポーツランド菅生まで直通バスが運行されており](https://ja.wikipedia.org/wiki/北仙台駅 "wikilink")、唯一の公共交通機関であった（仙台よりも近い村田営業所や[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")[大河原駅からはバスが出ていなかった](../Page/大河原駅_\(宮城県\).md "wikilink")）。現在は通常期は全便廃止されたため、公共交通機関で訪れることが不可能である。
+      - [2005年](../Page/2005年.md "wikilink")（平成17年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までは、[宮城交通](../Page/宮城交通.md "wikilink")・[北仙台バスターミナルからスポーツランド菅生まで直通バスが運行されており](https://ja.wikipedia.org/wiki/北仙台駅 "wikilink")、唯一の公共交通機関であった（仙台よりも近い村田営業所や[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")[大河原駅からはバスが出ていなかった](../Page/大河原駅_\(宮城県\).md "wikilink")）。現在は通常期は全便廃止されたため、公共交通機関で訪れることが不可能である。
 
 ## 脚注
 
 ## 関連項目
 
-  - [萩原光](https://ja.wikipedia.org/wiki/萩原光 "wikilink")
+  - [萩原光](../Page/萩原光.md "wikilink")
   - [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")
   - [日本のサーキット一覧](../Page/日本のサーキット一覧.md "wikilink")
   - [仙台のスポーツ](../Page/仙台のスポーツ.md "wikilink")
@@ -174,7 +174,7 @@
 ### 宮城県内のモータースポーツ施設
 
   - [のの岳オフロードコース](../Page/篦岳丘陵.md "wikilink")（[遠田郡](https://ja.wikipedia.org/wiki/遠田郡 "wikilink")[涌谷町](../Page/涌谷町.md "wikilink")）
-  - [アトムサーキット](https://ja.wikipedia.org/wiki/アトムサーキット "wikilink")（[東松島市](https://ja.wikipedia.org/wiki/東松島市 "wikilink")）
+  - [アトムサーキット](https://ja.wikipedia.org/wiki/アトムサーキット "wikilink")（[東松島市](../Page/東松島市.md "wikilink")）
   - [仙台ハイランド](../Page/仙台ハイランド.md "wikilink")（[仙台市](../Page/仙台市.md "wikilink")[青葉区](../Page/青葉区_\(仙台市\).md "wikilink")）
   - [MOTOFIELD MASH\!](https://ja.wikipedia.org/wiki/MOTOFIELD_MASH! "wikilink")（仙台市青葉区）
   - スポーツランドSUGO（[柴田郡](https://ja.wikipedia.org/wiki/柴田郡 "wikilink")[村田町](../Page/村田町.md "wikilink")）

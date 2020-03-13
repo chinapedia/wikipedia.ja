@@ -29,7 +29,7 @@
 
 一方、これ以降視聴者数は緩やかに減少し、シーズン8では平均視聴者数が2000万人を割り込んだ\[5\]。シーズン12第20話「殺しの衝動」（原題 *Altered Stakes*）では、1話あたりの視聴者数が1000万人を割り込む\[6\]など、その勢いには陰りが見えている。
 
-なお、マイアミ編は2012年5月にシーズン10でファイナルを迎え、ニューヨーク編は2013年5月にシーズン9をもって放送を終了した\[7\]\[8\]。2013年時点では、CSIシリーズの中で放送が継続しているのは本作のみとなっていたが、新たなスピンオフ作品として『[CSI:サイバー](https://ja.wikipedia.org/wiki/CSI:サイバー "wikilink")（英題:CSI: Cyber）』の放送が発表された。主演は[パトリシア・アークエット](https://ja.wikipedia.org/wiki/パトリシア・アークエット "wikilink")\[9\]。『CSI:サイバー』の舞台はクアンティコのFBIの話となる。なお、本シリーズに関しては2015年2月にシーズン15で終了、最終話は2時間のテレビ映画になることが決まっている\[10\]\[11\]。また、ラッセル役のテッド・ダンソンが『CSI:サイバー』に本番組と同じ役でレギュラー出演することも発表されている。 しかし、その『CSI:サイバー』も視聴率が伸び悩んだため第2シーズンで打ち切りとなり\[12\]、これによって2016年3月で16年間続いてきたCSIシリーズは終焉を迎えることとなった。
+なお、マイアミ編は2012年5月にシーズン10でファイナルを迎え、ニューヨーク編は2013年5月にシーズン9をもって放送を終了した\[7\]\[8\]。2013年時点では、CSIシリーズの中で放送が継続しているのは本作のみとなっていたが、新たなスピンオフ作品として『[CSI:サイバー](https://ja.wikipedia.org/wiki/CSI:サイバー "wikilink")（英題:CSI: Cyber）』の放送が発表された。主演は[パトリシア・アークエット](../Page/パトリシア・アークエット.md "wikilink")\[9\]。『CSI:サイバー』の舞台はクアンティコのFBIの話となる。なお、本シリーズに関しては2015年2月にシーズン15で終了、最終話は2時間のテレビ映画になることが決まっている\[10\]\[11\]。また、ラッセル役のテッド・ダンソンが『CSI:サイバー』に本番組と同じ役でレギュラー出演することも発表されている。 しかし、その『CSI:サイバー』も視聴率が伸び悩んだため第2シーズンで打ち切りとなり\[12\]、これによって2016年3月で16年間続いてきたCSIシリーズは終焉を迎えることとなった。
 
 ### 社会への影響・批判
 
@@ -45,7 +45,7 @@
 
 2008年、ウォリック・ブラウン役の[ゲイリー・ドゥーダン](../Page/ゲイリー・ドゥーダン.md "wikilink")が契約の更新を断り降板すると発表された。発表から約半月後にゲイリーが複数の[薬物](../Page/薬物.md "wikilink")所持で逮捕。降板の理由に関してさまざまな憶測が飛び交った。
 
-2008年、ギル・グリッソム役の[ウィリアム・ピーターセン](../Page/ウィリアム・ピーターセン.md "wikilink")がシーズン9第10話を最後に番組を降板することが発表された。一部では「マイアミ」「NY」など[スピンオフ](../Page/スピンオフ.md "wikilink")化の方向性に不満を持ったと噂されたが、降板後もピーターセンは[エグゼクティブ・プロデューサー](https://ja.wikipedia.org/wiki/エグゼクティブ・プロデューサー "wikilink")として番組の製作に関わっている。
+2008年、ギル・グリッソム役の[ウィリアム・ピーターセン](../Page/ウィリアム・ピーターセン.md "wikilink")がシーズン9第10話を最後に番組を降板することが発表された。一部では「マイアミ」「NY」など[スピンオフ](../Page/スピンオフ.md "wikilink")化の方向性に不満を持ったと噂されたが、降板後もピーターセンは[エグゼクティブ・プロデューサー](../Page/エグゼクティブ・プロデューサー.md "wikilink")として番組の製作に関わっている。
 
 2009年、ジョージャ・フォックスがシーズン9にゲスト出演。その後、彼女はシーズン10にも出演し、シーズン11からは再びレギュラーとして復帰した。
 
@@ -90,7 +90,7 @@
     演 - [ジョージャ・フォックス](../Page/ジョージャ・フォックス.md "wikilink")、日本語吹替 - [浅野まゆみ](../Page/浅野まゆみ.md "wikilink")
     出演 - 第1シーズン第2話〜第8シーズン第7話、第11シーズン〜最終回（ゲスト出演）第9シーズン第1・2・10話、第10シーズン
     CSI捜査官レベル2→3（特殊技能：要素・元素分析）
-    [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月16日](../Page/9月16日.md "wikilink")生まれ。[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身。両親は元[ヒッピー](../Page/ヒッピー.md "wikilink")だった。[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")出身の才女で、CSI訓練生だった頃にグリッソムの講義を受ける。それが縁となり、サンフランシスコのCSIからグリッソムに引き抜かれた。恩師譲りの[ワーカホリック](https://ja.wikipedia.org/wiki/仕事中毒 "wikilink")。
+    [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[9月16日](../Page/9月16日.md "wikilink")生まれ。[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身。両親は元[ヒッピー](../Page/ヒッピー.md "wikilink")だった。[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")出身の才女で、CSI訓練生だった頃にグリッソムの講義を受ける。それが縁となり、サンフランシスコのCSIからグリッソムに引き抜かれた。恩師譲りの[ワーカホリック](../Page/仕事中毒.md "wikilink")。
     強姦事件の際に自ら囮に志願するなど行動力と勇気がある。また普段はクールだが女性が犠牲になる事件では感情をむき出しにして捜査にのめりこむ熱い面もある。
     第1シーズンでの豚を使った実験が原因で[ベジタリアン](https://ja.wikipedia.org/wiki/ベジタリアン "wikilink")になる。動物愛護派。
     第3シーズンまでは救急班のハンクと交際していたが、（捜査のためやむを得なかったとはいえ）キャサリンにデートを台無しにされたり\[20\]、裁判で被告側の弁護人から証拠の正当性に疑義を呈される\[21\]など、何かと気苦労が多かった。第17話で彼が別の女性と二股をかけていたことが発覚し、破局する\[22\]。
@@ -135,7 +135,7 @@
     フルネームはデヴィッド・グレゴリー・フィリップス。ロビンスの助手として死体発見現場での検死を主に行っている。真面目で温和な性格で腕も優秀だが、奇妙な事態に遭遇するとすぐ動揺してしまう。全身[多毛症](https://ja.wikipedia.org/wiki/多毛症 "wikilink")の被害者の遺体を好奇心で見学しにきたホッジス、アーチー、ヘンリーに対しては強い怒りをあらわにした。猫アレルギー。一時期サラに好意を持っていたが、別の女性と結婚。
     第10シーズンよりレギュラー入り。CSIシリーズでは初の検視官2名のレギュラー入体制。父親は空軍の大佐（S2・E17）
   - デヴィッド・ホッジス (David Hodges)
-    演 - [ウォレス・ランガム](https://ja.wikipedia.org/wiki/ウォレス・ランガム "wikilink")、日本語吹替 - [咲野俊介](https://ja.wikipedia.org/wiki/咲野俊介 "wikilink")
+    演 - [ウォレス・ランガム](https://ja.wikipedia.org/wiki/ウォレス・ランガム "wikilink")、日本語吹替 - [咲野俊介](../Page/咲野俊介.md "wikilink")
     出演 - 第3シーズン第11話〜最終回
     CSI分析官→CSI捜査官（第9シーズン）
     第3シーズンで[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")から異動。新人であるにもかかわらずグリッソムに敬語を使わず、異動の理由は「態度がデカいから」だったと説明した\[33\]（しかし第3シーズン第22話「傷だらけのCSI」では敬語を使って話している）。ウィリアムズ大学出身で、[生化学](../Page/生化学.md "wikilink")修士号を持つ。基本的にラボ勤務だが、たまに現場に出ることもある。第8シーズンよりレギュラーに昇格。
@@ -180,7 +180,7 @@
     ベガス署の刑事。登場時は少年課。[ギャング](../Page/ギャング.md "wikilink")事件を主に担当する。
     自身も[ヒスパニック](../Page/ヒスパニック.md "wikilink")系のため、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")に堪能。第12シーズンのある事件で死亡する。
   - クリス・キャバリエ (Chris Cavaliere)
-    演 - [ホセ・ズニーガ](https://ja.wikipedia.org/wiki/ホセ・ズニーガ "wikilink")、日本語吹替 - [中西俊彦](https://ja.wikipedia.org/wiki/中西俊彦 "wikilink")、[高階俊嗣](https://ja.wikipedia.org/wiki/高階俊嗣 "wikilink")（第6シーズン〜）
+    演 - [ホセ・ズニーガ](https://ja.wikipedia.org/wiki/ホセ・ズニーガ "wikilink")、日本語吹替 - [中西俊彦](https://ja.wikipedia.org/wiki/中西俊彦 "wikilink")、[高階俊嗣](../Page/高階俊嗣.md "wikilink")（第6シーズン〜）
     出演 - 第4シーズン第16話〜
     ベガス署殺人課刑事。第4シーズン第16話から第10シーズンまで度々登場。捜査方法を巡ってニックと対立した事もあった。
 
@@ -259,7 +259,7 @@
     演 - [ゲイリー・ドゥーダン](../Page/ゲイリー・ドゥーダン.md "wikilink")、日本語吹替 - [山野井仁](../Page/山野井仁.md "wikilink")
     出演 - 第1シーズン第1話〜第8シーズン最終話、（ゲスト出演）第9シーズン第1話
     CSI捜査官レベル2→3（特殊技能：[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")・ビジュアル分析）
-    [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[10月10日](../Page/10月10日.md "wikilink")生まれ。メンバー唯一のベガス出身。褐色の肌にグリーンの眼が印象的。
+    [1970年](../Page/1970年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")生まれ。メンバー唯一のベガス出身。褐色の肌にグリーンの眼が印象的。
     7歳で母親を亡くし、祖母に育てられた。父親に会ったことはない。タクシー運転手、[カジノ](../Page/カジノ.md "wikilink")の[ウェイター](../Page/ウェイター.md "wikilink")など様々な職に就きながらラスベガス大学の学位を取得。その当時築いた人脈を捜査に役立てることもある。
     基本的には真面目で上昇志向だが、無類の[ギャンブル](https://ja.wikipedia.org/wiki/ギャンブル "wikilink")好きであるため、そのことが第1シーズン第1・2話での新人の殉職の原因になった。それ以降、賭け事はしないとグリッソムに誓う。同じ時期に判事の汚職に関わったことがあったが、グリッソムに打ち明けて解決した。しかし第3シーズンでは被告側の弁護人からギャンブルに嵌まっていた過去に触れられ、証拠の正当性に疑義を呈されるという経験をすることになった\[50\]。
     ニックとはよきライバル関係である。チーム再編成後は遅番チームに所属。
@@ -276,7 +276,7 @@
     第7シーズンよりレギュラーに昇格したが、第8シーズン第1話を最後に降板。
     第11シーズンにゲストとして再登場し、本部長補佐へと出世しブラス警部の上司となっていることが明かされる。
   - マイケル（マイク）・ケプラー (Michael Keppler)
-    演 - [リーヴ・シュレイバー](https://ja.wikipedia.org/wiki/リーヴ・シュレイバー "wikilink")、日本語吹替 - [立川三貴](../Page/立川三貴.md "wikilink")
+    演 - [リーヴ・シュレイバー](../Page/リーヴ・シュレイバー.md "wikilink")、日本語吹替 - [立川三貴](../Page/立川三貴.md "wikilink")
     出演 - 第7シーズン第12話〜第15話
     [ボルティモア](https://ja.wikipedia.org/wiki/ボルティモア "wikilink")から移ってきた捜査官。フィラデルフィア出身。昼番のはずだったが、サバティカル休暇を取っているグリッソムの穴埋めとして夜番に入る。恋人をレイプした犯人（と思っていた人物）を殺害した過去があった。
     犯人逮捕のために大胆な捜査（[逆行捜査](https://ja.wikipedia.org/wiki/逆行捜査 "wikilink")や[プロファイリング](../Page/プロファイリング.md "wikilink")、本来行う必要がある手順を省略するなど）をし、特に逆行捜査でブラス警部・キャサリン以外のメンバーをだます必要があったため、第7シーズン第13話「罠」以降、メンバーからの信頼が薄かった。しかし、キャサリンは彼と共に捜査をすることが多く、彼の良さを理解していたため、第15話で犯人の銃撃で彼が殉職したことはキャサリンにとってかなり悲痛なものとなった。
@@ -306,7 +306,7 @@
     出演 - 第4シーズン第7話〜9話、18話、第5シーズン第7話
     前任のブライアン・モブリー保安官に代り第4シーズンの第7話から複数回登場。第11シーズンの第17話「魔性のリスト」ではリスト内に名前のみ登場。
   - ホリー・グリッブス (Holly Gribbs)
-    演 - 、日本語吹替 - [山崎美貴](https://ja.wikipedia.org/wiki/山崎美貴 "wikilink")
+    演 - 、日本語吹替 - [山崎美貴](../Page/山崎美貴.md "wikilink")
     出演 - 第1シーズン第1・2話
     シーズン1第1話でCSIに入ってきた新人捜査官。母である交通課の警部補のコネで採用された。ウォリックと組み捜査に当たっていたが、ウォリックが判事に頼まれてスポーツ賭博場に行っている間に、現場に戻ってきた犯人に殺されてしまう。
   - ポール・ミランダー / ダグ・メイソン判事 (Paul Millander)
@@ -325,7 +325,7 @@
     演 - [ニッキー・エイコックス](https://ja.wikipedia.org/wiki/ニッキー・エイコックス "wikilink")→、日本語吹替 - [川上とも子](../Page/川上とも子.md "wikilink")→[弓場沙織](../Page/弓場沙織.md "wikilink")
     ブラス警部の娘。但し、妻の連れ子であるため血は繋がっていない。
   - エディ・ウィロウズ (Eddie Willows)
-    演 - 、日本語吹替 - [柳沢栄治](https://ja.wikipedia.org/wiki/柳沢栄治 "wikilink")
+    演 - 、日本語吹替 - [柳沢栄治](../Page/柳沢栄治.md "wikilink")
     キャサリンの元夫。音楽プロデューサー。第3シーズン第15話で死亡する。
   - レディ・ヘザー (Lady Heather)
     演 - [メリンダ・クラーク](https://ja.wikipedia.org/wiki/メリンダ・クラーク "wikilink")、日本語吹替 - [勝生真沙子](../Page/勝生真沙子.md "wikilink")
@@ -341,7 +341,7 @@
     演 - [スキップ・オブライエン](https://ja.wikipedia.org/wiki/スキップ・オブライエン "wikilink")、日本語吹替 - [金子由之](../Page/金子由之.md "wikilink")
     殺人課の刑事。恰幅の良い白人男性。
   - ジェフリー・マッキーン (Jeffley McKeen)
-    演 - 、日本語吹替 - [千田光男](https://ja.wikipedia.org/wiki/千田光男 "wikilink")
+    演 - 、日本語吹替 - [千田光男](../Page/千田光男.md "wikilink")
     第6シーズン「神の子」から登場。階級は副保安官で、グリッソム達と捜査を巡って対立することがある。
     第8シーズン最終話で、自分が絡んだ殺人事件に深入りされることを恐れて、ウォリックを射殺する。その後、第9シーズン第1話にてCSIチームの捜査により身柄を拘束、逮捕される。刑務所内からも影響力を持っており、第12シーズン最終話及び第13シーズン第1話にて事件を起こす。
   - リストン
@@ -377,13 +377,13 @@
   - シーズン3
     [カーマイン・ジョヴィナッツォ](../Page/カーマイン・ジョヴィナッツォ.md "wikilink")（第1話）、[チャド・マイケル・マーレイ](../Page/チャド・マイケル・マーレイ.md "wikilink")（第2話）、[ウェイド・ウィリアムズ](../Page/ウェイド・ウィリアムズ.md "wikilink")（第5話）、[トム・ヌーナン](https://ja.wikipedia.org/wiki/トム・ヌーナン "wikilink")（第6話）、[ウィリアム・メイポーザー](../Page/ウィリアム・メイポーザー.md "wikilink")（第8話）、[リチャード・バージ](https://ja.wikipedia.org/wiki/リチャード・バージ "wikilink")（第10話）、[チャド・リンドバーグ](https://ja.wikipedia.org/wiki/チャド・リンドバーグ "wikilink")（第11話）[エヴァン・レイチェル・ウッド](../Page/エヴァン・レイチェル・ウッド.md "wikilink")（第12話）、[エリザベス・ミッチェル](https://ja.wikipedia.org/wiki/エリザベス・ミッチェル "wikilink")（第14話）、[ポーリー・ペレット](https://ja.wikipedia.org/wiki/ポーリー・ペレット "wikilink")（第15話）、[ボブ・ガントン](../Page/ボブ・ガントン.md "wikilink")（第22話）、[レイモンド・クルス](https://ja.wikipedia.org/wiki/レイモンド・クルス "wikilink")（第22話）
   - シーズン4
-    [ジョシュ・ホロウェイ](../Page/ジョシュ・ホロウェイ.md "wikilink")（第1話）、[マリソル・ニコルズ](https://ja.wikipedia.org/wiki/マリソル・ニコルズ "wikilink")（第2話）、[ジェフリー・ディーン・モーガン](https://ja.wikipedia.org/wiki/ジェフリー・ディーン・モーガン "wikilink")（第2話）、[ウィリー・ガーソン](https://ja.wikipedia.org/wiki/ウィリー・ガーソン "wikilink")（第5話）、[ヘンリー・ツェニー](https://ja.wikipedia.org/wiki/ヘンリー・ツェニー "wikilink")（第6話）、[ジェフリー・コムズ](https://ja.wikipedia.org/wiki/ジェフリー・コムズ "wikilink")（第6話）、[サンダー・バークレー](https://ja.wikipedia.org/wiki/サンダー・バークレー "wikilink")（第7,8,9,18話）、[マーティン・ドノヴァン](../Page/マーティン・ドノヴァン.md "wikilink")（第8話）、[ルイス・ロンバルディ](https://ja.wikipedia.org/wiki/ルイス・ロンバルディ "wikilink")（第9話）、[ブライアン・オースティン・グリーン](https://ja.wikipedia.org/wiki/ブライアン・オースティン・グリーン "wikilink")(第10話）、[エディ・ジェイミソン](https://ja.wikipedia.org/wiki/エディ・ジェイミソン "wikilink")（第11話）、[スーザン・メイ・プラット](https://ja.wikipedia.org/wiki/スーザン・メイ・プラット "wikilink")（第11話）、[ダニー・ヒューストン](../Page/ダニー・ヒューストン.md "wikilink")（第13話）、[T・J・サイン](https://ja.wikipedia.org/wiki/T・J・サイン "wikilink")（第14話）、[キム・コーツ](https://ja.wikipedia.org/wiki/キム・コーツ "wikilink")（第15話）、[ニコラス・リー](https://ja.wikipedia.org/wiki/ニコラス・リー "wikilink")（第15,16,22話）、[T・R・ナイト](../Page/T・R・ナイト.md "wikilink")（第17話）
+    [ジョシュ・ホロウェイ](../Page/ジョシュ・ホロウェイ.md "wikilink")（第1話）、[マリソル・ニコルズ](https://ja.wikipedia.org/wiki/マリソル・ニコルズ "wikilink")（第2話）、[ジェフリー・ディーン・モーガン](https://ja.wikipedia.org/wiki/ジェフリー・ディーン・モーガン "wikilink")（第2話）、[ウィリー・ガーソン](https://ja.wikipedia.org/wiki/ウィリー・ガーソン "wikilink")（第5話）、[ヘンリー・ツェニー](../Page/ヘンリー・ツェニー.md "wikilink")（第6話）、[ジェフリー・コムズ](https://ja.wikipedia.org/wiki/ジェフリー・コムズ "wikilink")（第6話）、[サンダー・バークレー](https://ja.wikipedia.org/wiki/サンダー・バークレー "wikilink")（第7,8,9,18話）、[マーティン・ドノヴァン](../Page/マーティン・ドノヴァン.md "wikilink")（第8話）、[ルイス・ロンバルディ](https://ja.wikipedia.org/wiki/ルイス・ロンバルディ "wikilink")（第9話）、[ブライアン・オースティン・グリーン](https://ja.wikipedia.org/wiki/ブライアン・オースティン・グリーン "wikilink")(第10話）、[エディ・ジェイミソン](https://ja.wikipedia.org/wiki/エディ・ジェイミソン "wikilink")（第11話）、[スーザン・メイ・プラット](https://ja.wikipedia.org/wiki/スーザン・メイ・プラット "wikilink")（第11話）、[ダニー・ヒューストン](../Page/ダニー・ヒューストン.md "wikilink")（第13話）、[T・J・サイン](https://ja.wikipedia.org/wiki/T・J・サイン "wikilink")（第14話）、[キム・コーツ](https://ja.wikipedia.org/wiki/キム・コーツ "wikilink")（第15話）、[ニコラス・リー](https://ja.wikipedia.org/wiki/ニコラス・リー "wikilink")（第15,16,22話）、[T・R・ナイト](../Page/T・R・ナイト.md "wikilink")（第17話）
   - シーズン5
-    [レイコ・エイルスワース](https://ja.wikipedia.org/wiki/レイコ・エイルスワース "wikilink")（第1話）、[トニー・アメンドーラ](https://ja.wikipedia.org/wiki/トニー・アメンドーラ "wikilink")（第1話）、[ジョン・L・アダムス](https://ja.wikipedia.org/wiki/ジョン・L・アダムス "wikilink")（第1話）、[クリスティン・ローズ](https://ja.wikipedia.org/wiki/クリスティン・ローズ "wikilink")（第2話）、[D・B・ウッドサイド](https://ja.wikipedia.org/wiki/D・B・ウッドサイド "wikilink")（第3話）、[アメリカ・フェレーラ](../Page/アメリカ・フェレーラ.md "wikilink")（第3話）、[メリッサ・レオ](https://ja.wikipedia.org/wiki/メリッサ・レオ "wikilink")（第3話）、[トーマス・デッカー](https://ja.wikipedia.org/wiki/トーマス・デッカー "wikilink")（第3話）、[ブラッド・ハント](https://ja.wikipedia.org/wiki/ブラッド・ハント "wikilink")（第4話）、[デイヴィッド・アンダース](https://ja.wikipedia.org/wiki/デイヴィッド・アンダース "wikilink")（第4話）、[A.J.バックリー](https://ja.wikipedia.org/wiki/A.J.バックリー "wikilink")（第4話）、[ディナ・メイヤー](../Page/ディナ・メイヤー.md "wikilink")（第5話）、[ダグ・サヴァント](https://ja.wikipedia.org/wiki/ダグ・サヴァント "wikilink")（第5話）、[プルイット・テイラー・ヴィンス](https://ja.wikipedia.org/wiki/プルイット・テイラー・ヴィンス "wikilink")（第5話）、[ハリエット・サンソム・ハリス](https://ja.wikipedia.org/wiki/ハリエット・サンソム・ハリス "wikilink")（第6話）、[サマー・グロー](https://ja.wikipedia.org/wiki/サマー・グロー "wikilink")（第6話）、[サンダー・バークレー](https://ja.wikipedia.org/wiki/サンダー・バークレー "wikilink")（第7話）、[ジョナサン・バンクス](https://ja.wikipedia.org/wiki/ジョナサン・バンクス "wikilink")（第7話）、[リンゼイ・クローズ](../Page/リンゼイ・クローズ.md "wikilink")（第8話）、[ケイト・ウォルシュ](../Page/ケイト・ウォルシュ_\(女優\).md "wikilink")（第8話）、[サム・アンダーソン](https://ja.wikipedia.org/wiki/サム・アンダーソン "wikilink")（第8話）、[ナナ・ヴィジター](../Page/ナナ・ヴィジター.md "wikilink")（第9話）、[アレクシス・クルーツ](https://ja.wikipedia.org/wiki/アレクシス・クルーツ "wikilink")（第10話）、[ラッセル・ウォン](https://ja.wikipedia.org/wiki/ラッセル・ウォン "wikilink")（第10話）、[テッド・ルーニー](https://ja.wikipedia.org/wiki/テッド・ルーニー "wikilink")（第11話）、[マイケル・ペーニャ](https://ja.wikipedia.org/wiki/マイケル・ペーニャ "wikilink")（第12話）、[ミーシャ・コリンズ](https://ja.wikipedia.org/wiki/ミーシャ・コリンズ "wikilink")（第13話）、[ジェリコ・イヴァネク](https://ja.wikipedia.org/wiki/ジェリコ・イヴァネク "wikilink")（第13話）、[フォーブス・マーチ](https://ja.wikipedia.org/wiki/フォーブス・マーチ "wikilink")（第14話）、[アンソニー・デニソン](https://ja.wikipedia.org/wiki/アンソニー・デニソン "wikilink")（第15話）、[リー・タージェセン](https://ja.wikipedia.org/wiki/リー・タージェセン "wikilink")（第17話）、[スティーヴン・ボールドウィン](https://ja.wikipedia.org/wiki/スティーヴン・ボールドウィン "wikilink")（第17話）、[ジェームズ・バッジ・デール](https://ja.wikipedia.org/wiki/ジェームズ・バッジ・デール "wikilink")（第21話）、[アニタ・ジレット](https://ja.wikipedia.org/wiki/アニタ・ジレット "wikilink")（第22話）、[アラン・ローゼンバーグ](https://ja.wikipedia.org/wiki/アラン・ローゼンバーグ "wikilink")（第22話）、[ジョン・サクソン](https://ja.wikipedia.org/wiki/ジョン・サクソン "wikilink")（第23話）、[トニー・カーティス](https://ja.wikipedia.org/wiki/トニー・カーティス "wikilink")（第24話：特別出演）
+    [レイコ・エイルスワース](../Page/レイコ・エイルスワース.md "wikilink")（第1話）、[トニー・アメンドーラ](https://ja.wikipedia.org/wiki/トニー・アメンドーラ "wikilink")（第1話）、[ジョン・L・アダムス](https://ja.wikipedia.org/wiki/ジョン・L・アダムス "wikilink")（第1話）、[クリスティン・ローズ](https://ja.wikipedia.org/wiki/クリスティン・ローズ "wikilink")（第2話）、[D・B・ウッドサイド](https://ja.wikipedia.org/wiki/D・B・ウッドサイド "wikilink")（第3話）、[アメリカ・フェレーラ](../Page/アメリカ・フェレーラ.md "wikilink")（第3話）、[メリッサ・レオ](https://ja.wikipedia.org/wiki/メリッサ・レオ "wikilink")（第3話）、[トーマス・デッカー](https://ja.wikipedia.org/wiki/トーマス・デッカー "wikilink")（第3話）、[ブラッド・ハント](https://ja.wikipedia.org/wiki/ブラッド・ハント "wikilink")（第4話）、[デイヴィッド・アンダース](https://ja.wikipedia.org/wiki/デイヴィッド・アンダース "wikilink")（第4話）、[A.J.バックリー](https://ja.wikipedia.org/wiki/A.J.バックリー "wikilink")（第4話）、[ディナ・メイヤー](../Page/ディナ・メイヤー.md "wikilink")（第5話）、[ダグ・サヴァント](https://ja.wikipedia.org/wiki/ダグ・サヴァント "wikilink")（第5話）、[プルイット・テイラー・ヴィンス](https://ja.wikipedia.org/wiki/プルイット・テイラー・ヴィンス "wikilink")（第5話）、[ハリエット・サンソム・ハリス](https://ja.wikipedia.org/wiki/ハリエット・サンソム・ハリス "wikilink")（第6話）、[サマー・グロー](https://ja.wikipedia.org/wiki/サマー・グロー "wikilink")（第6話）、[サンダー・バークレー](https://ja.wikipedia.org/wiki/サンダー・バークレー "wikilink")（第7話）、[ジョナサン・バンクス](https://ja.wikipedia.org/wiki/ジョナサン・バンクス "wikilink")（第7話）、[リンゼイ・クローズ](../Page/リンゼイ・クローズ.md "wikilink")（第8話）、[ケイト・ウォルシュ](../Page/ケイト・ウォルシュ_\(女優\).md "wikilink")（第8話）、[サム・アンダーソン](https://ja.wikipedia.org/wiki/サム・アンダーソン "wikilink")（第8話）、[ナナ・ヴィジター](../Page/ナナ・ヴィジター.md "wikilink")（第9話）、[アレクシス・クルーツ](https://ja.wikipedia.org/wiki/アレクシス・クルーツ "wikilink")（第10話）、[ラッセル・ウォン](https://ja.wikipedia.org/wiki/ラッセル・ウォン "wikilink")（第10話）、[テッド・ルーニー](https://ja.wikipedia.org/wiki/テッド・ルーニー "wikilink")（第11話）、[マイケル・ペーニャ](https://ja.wikipedia.org/wiki/マイケル・ペーニャ "wikilink")（第12話）、[ミーシャ・コリンズ](https://ja.wikipedia.org/wiki/ミーシャ・コリンズ "wikilink")（第13話）、[ジェリコ・イヴァネク](https://ja.wikipedia.org/wiki/ジェリコ・イヴァネク "wikilink")（第13話）、[フォーブス・マーチ](https://ja.wikipedia.org/wiki/フォーブス・マーチ "wikilink")（第14話）、[アンソニー・デニソン](https://ja.wikipedia.org/wiki/アンソニー・デニソン "wikilink")（第15話）、[リー・タージェセン](https://ja.wikipedia.org/wiki/リー・タージェセン "wikilink")（第17話）、[スティーヴン・ボールドウィン](../Page/スティーヴン・ボールドウィン.md "wikilink")（第17話）、[ジェームズ・バッジ・デール](https://ja.wikipedia.org/wiki/ジェームズ・バッジ・デール "wikilink")（第21話）、[アニタ・ジレット](https://ja.wikipedia.org/wiki/アニタ・ジレット "wikilink")（第22話）、[アラン・ローゼンバーグ](https://ja.wikipedia.org/wiki/アラン・ローゼンバーグ "wikilink")（第22話）、[ジョン・サクソン](https://ja.wikipedia.org/wiki/ジョン・サクソン "wikilink")（第23話）、[トニー・カーティス](../Page/トニー・カーティス.md "wikilink")（第24話：特別出演）
   - シーズン6
-    [クレア・デュヴァル](https://ja.wikipedia.org/wiki/クレア・デュヴァル "wikilink")（第4話）、[ジェフリー・ノードリング](https://ja.wikipedia.org/wiki/ジェフリー・ノードリング "wikilink")（第6話）、[ネスター・セラーノ](https://ja.wikipedia.org/wiki/ネスター・セラーノ "wikilink")（第7,8話）、[ジェシカ・コリンズ](https://ja.wikipedia.org/wiki/ジェシカ・コリンズ "wikilink")（第9話）、[エリック・パラディーノ](https://ja.wikipedia.org/wiki/エリック・パラディーノ "wikilink")（第11話）、[テイラー・コール](https://ja.wikipedia.org/wiki/テイラー・コール "wikilink")（第12話）、[フェイ・ダナウェイ](https://ja.wikipedia.org/wiki/フェイ・ダナウェイ "wikilink")（第13話）、[ジョナサン・バンクス](https://ja.wikipedia.org/wiki/ジョナサン・バンクス "wikilink")（第13話）、[ジョニー・ルイス](https://ja.wikipedia.org/wiki/ジョニー・ルイス "wikilink")（第16話）、[ページ・ケネディ](https://ja.wikipedia.org/wiki/ページ・ケネディ "wikilink")（第20話）、[レイ・ワイズ](https://ja.wikipedia.org/wiki/レイ・ワイズ "wikilink")（第21話）、[アマンダ・サイフリッド](../Page/アマンダ・サイフリッド.md "wikilink")（第21話）、[ウィル・ユン・リー](https://ja.wikipedia.org/wiki/ウィル・ユン・リー "wikilink")（第22話）、[カーリー・グラハム](https://ja.wikipedia.org/wiki/カーリー・グラハム "wikilink")（第23話）、[ケリー・カールソン](../Page/ケリー・カールソン.md "wikilink")（第23話）
+    [クレア・デュヴァル](../Page/クレア・デュヴァル.md "wikilink")（第4話）、[ジェフリー・ノードリング](https://ja.wikipedia.org/wiki/ジェフリー・ノードリング "wikilink")（第6話）、[ネスター・セラーノ](https://ja.wikipedia.org/wiki/ネスター・セラーノ "wikilink")（第7,8話）、[ジェシカ・コリンズ](https://ja.wikipedia.org/wiki/ジェシカ・コリンズ "wikilink")（第9話）、[エリック・パラディーノ](https://ja.wikipedia.org/wiki/エリック・パラディーノ "wikilink")（第11話）、[テイラー・コール](https://ja.wikipedia.org/wiki/テイラー・コール "wikilink")（第12話）、[フェイ・ダナウェイ](../Page/フェイ・ダナウェイ.md "wikilink")（第13話）、[ジョナサン・バンクス](https://ja.wikipedia.org/wiki/ジョナサン・バンクス "wikilink")（第13話）、[ジョニー・ルイス](https://ja.wikipedia.org/wiki/ジョニー・ルイス "wikilink")（第16話）、[ページ・ケネディ](https://ja.wikipedia.org/wiki/ページ・ケネディ "wikilink")（第20話）、[レイ・ワイズ](https://ja.wikipedia.org/wiki/レイ・ワイズ "wikilink")（第21話）、[アマンダ・サイフリッド](../Page/アマンダ・サイフリッド.md "wikilink")（第21話）、[ウィル・ユン・リー](https://ja.wikipedia.org/wiki/ウィル・ユン・リー "wikilink")（第22話）、[カーリー・グラハム](https://ja.wikipedia.org/wiki/カーリー・グラハム "wikilink")（第23話）、[ケリー・カールソン](../Page/ケリー・カールソン.md "wikilink")（第23話）
   - シーズン7
-    [ジョン・メイヤー](../Page/ジョン・メイヤー.md "wikilink")（第1話）、[ケヴィン・ラーム](https://ja.wikipedia.org/wiki/ケヴィン・ラーム "wikilink")（第1,2話）、[デビッド・エイゲンバーグ](https://ja.wikipedia.org/wiki/デビッド・エイゲンバーグ "wikilink")（第3話）、[リック・ユーン](../Page/リック・ユーン.md "wikilink")（第3話）、[ジム・ビーバー](https://ja.wikipedia.org/wiki/ジム・ビーバー "wikilink")（第4,7話）、[ビセラス・シャノン](https://ja.wikipedia.org/wiki/ビセラス・シャノン "wikilink")（第4,7,19話）、[セス・ピーターソン](https://ja.wikipedia.org/wiki/セス・ピーターソン "wikilink")（第6話）、[DJクオールズ](../Page/DJクオールズ.md "wikilink")（第7話）、[ヴァレリー・マハフェイ](https://ja.wikipedia.org/wiki/ヴァレリー・マハフェイ "wikilink")（第8話）、[ロジャー・ダルトリー](../Page/ロジャー・ダルトリー.md "wikilink")（第9話）、[レン・キャリオー](https://ja.wikipedia.org/wiki/レン・キャリオー "wikilink")（第15話）、[キャスリーン・クインラン](../Page/キャスリーン・クインラン.md "wikilink")（第16話）、[ローラ・ハリス](../Page/ローラ・ハリス.md "wikilink")（第17話）、[リンジー・フォンセカ](https://ja.wikipedia.org/wiki/リンジー・フォンセカ "wikilink")（第17話）、[ルビー・ディー](../Page/ルビー・ディー.md "wikilink")（第18話）、[ピーター・ストーメア](https://ja.wikipedia.org/wiki/ピーター・ストーメア "wikilink")（第21話）
+    [ジョン・メイヤー](../Page/ジョン・メイヤー.md "wikilink")（第1話）、[ケヴィン・ラーム](https://ja.wikipedia.org/wiki/ケヴィン・ラーム "wikilink")（第1,2話）、[デビッド・エイゲンバーグ](https://ja.wikipedia.org/wiki/デビッド・エイゲンバーグ "wikilink")（第3話）、[リック・ユーン](../Page/リック・ユーン.md "wikilink")（第3話）、[ジム・ビーバー](https://ja.wikipedia.org/wiki/ジム・ビーバー "wikilink")（第4,7話）、[ビセラス・シャノン](https://ja.wikipedia.org/wiki/ビセラス・シャノン "wikilink")（第4,7,19話）、[セス・ピーターソン](https://ja.wikipedia.org/wiki/セス・ピーターソン "wikilink")（第6話）、[DJクオールズ](../Page/DJクオールズ.md "wikilink")（第7話）、[ヴァレリー・マハフェイ](https://ja.wikipedia.org/wiki/ヴァレリー・マハフェイ "wikilink")（第8話）、[ロジャー・ダルトリー](../Page/ロジャー・ダルトリー.md "wikilink")（第9話）、[レン・キャリオー](https://ja.wikipedia.org/wiki/レン・キャリオー "wikilink")（第15話）、[キャスリーン・クインラン](../Page/キャスリーン・クインラン.md "wikilink")（第16話）、[ローラ・ハリス](../Page/ローラ・ハリス.md "wikilink")（第17話）、[リンジー・フォンセカ](https://ja.wikipedia.org/wiki/リンジー・フォンセカ "wikilink")（第17話）、[ルビー・ディー](../Page/ルビー・ディー.md "wikilink")（第18話）、[ピーター・ストーメア](../Page/ピーター・ストーメア.md "wikilink")（第21話）
   - シーズン8
     [アンソニー・ラパリア](https://ja.wikipedia.org/wiki/アンソニー・ラパリア "wikilink")（第6話）、[レイモンド・クルス](https://ja.wikipedia.org/wiki/レイモンド・クルス "wikilink")（第13話）
   - シーズン9
@@ -398,7 +398,7 @@
   - シーズン13
     [ブライアン・ヴァン・ホルト](https://ja.wikipedia.org/wiki/ブライアン・ヴァン・ホルト "wikilink")（第8話）、[ニール・マクドノー](https://ja.wikipedia.org/wiki/ニール・マクドノー "wikilink")（第18話）、[ブラック・サバス](../Page/ブラック・サバス.md "wikilink")（第22話）、[ティム・マシスン](https://ja.wikipedia.org/wiki/ティム・マシスン "wikilink")（第22話）、[エリック・ロバーツ](../Page/エリック・ロバーツ.md "wikilink")（第22話）
   - シーズン14
-    [ジョン・ラッツェンバーガー](https://ja.wikipedia.org/wiki/ジョン・ラッツェンバーガー "wikilink")（第3話）、[ウルフギャング・パック](../Page/ウルフギャング・パック.md "wikilink")（第4話）、[リー・トンプソン](../Page/リー・トンプソン_\(俳優\).md "wikilink")（第7話）、[シェリー・ストリングフィールド](https://ja.wikipedia.org/wiki/シェリー・ストリングフィールド "wikilink")（第8話）、[ジョーダン・スパークス](https://ja.wikipedia.org/wiki/ジョーダン・スパークス "wikilink")（第9話）、[ジョエル・グレイ](https://ja.wikipedia.org/wiki/ジョエル・グレイ "wikilink")（第12話）、[ジャック・コールマン](https://ja.wikipedia.org/wiki/ジャック・コールマン_\(俳優\) "wikilink")（第15話）、[ジーン・シモンズ](../Page/ジーン・シモンズ_\(ミュージシャン\).md "wikilink")（第17話）、[ロバート・デヴィ](https://ja.wikipedia.org/wiki/ロバート・デヴィ "wikilink")（第18話）、[パトリシア・アークエット](https://ja.wikipedia.org/wiki/パトリシア・アークエット "wikilink")（第21話）、[トリート・ウィリアムズ](../Page/トリート・ウィリアムズ.md "wikilink")（第22話）
+    [ジョン・ラッツェンバーガー](https://ja.wikipedia.org/wiki/ジョン・ラッツェンバーガー "wikilink")（第3話）、[ウルフギャング・パック](../Page/ウルフギャング・パック.md "wikilink")（第4話）、[リー・トンプソン](../Page/リー・トンプソン_\(俳優\).md "wikilink")（第7話）、[シェリー・ストリングフィールド](https://ja.wikipedia.org/wiki/シェリー・ストリングフィールド "wikilink")（第8話）、[ジョーダン・スパークス](https://ja.wikipedia.org/wiki/ジョーダン・スパークス "wikilink")（第9話）、[ジョエル・グレイ](https://ja.wikipedia.org/wiki/ジョエル・グレイ "wikilink")（第12話）、[ジャック・コールマン](https://ja.wikipedia.org/wiki/ジャック・コールマン_\(俳優\) "wikilink")（第15話）、[ジーン・シモンズ](../Page/ジーン・シモンズ_\(ミュージシャン\).md "wikilink")（第17話）、[ロバート・デヴィ](https://ja.wikipedia.org/wiki/ロバート・デヴィ "wikilink")（第18話）、[パトリシア・アークエット](../Page/パトリシア・アークエット.md "wikilink")（第21話）、[トリート・ウィリアムズ](../Page/トリート・ウィリアムズ.md "wikilink")（第22話）
   - シーズン15
     [マーク・ポール・ゴスラー](https://ja.wikipedia.org/wiki/マーク・ポール・ゴスラー "wikilink")（第1,6,13,18話）、[マーク・バレー](https://ja.wikipedia.org/wiki/マーク・バレー "wikilink")（第1,6,13,18話）、[ネイサン・ギャンブル](https://ja.wikipedia.org/wiki/ネイサン・ギャンブル "wikilink")（第4話）、[ベラ・ソーン](https://ja.wikipedia.org/wiki/ベラ・ソーン "wikilink")（第4話）、[マーク・ブルカス](https://ja.wikipedia.org/wiki/マーク・ブルカス "wikilink")（第7話）、[グレッグ・グランバーグ](../Page/グレッグ・グランバーグ.md "wikilink")（第7話）、[シャロン・オズボーン](../Page/シャロン・オズボーン.md "wikilink")（第10話）、[ディーン・マクダーモット](../Page/ディーン・マクダーモット.md "wikilink")（第12話）、[グレッグ・エヴィガン](https://ja.wikipedia.org/wiki/グレッグ・エヴィガン "wikilink")（第14話）、[ロブ・エステス](https://ja.wikipedia.org/wiki/ロブ・エステス "wikilink")（第14話）、[リサ・リナ](https://ja.wikipedia.org/wiki/リサ・リナ "wikilink")（第17話）、[ルーク・ベンワード](https://ja.wikipedia.org/wiki/ルーク・ベンワード "wikilink")（第17話）、[ブレット・カレン](https://ja.wikipedia.org/wiki/ブレット・カレン "wikilink")（第17話）、[バリー・ボストウィック](https://ja.wikipedia.org/wiki/バリー・ボストウィック "wikilink")（第18話）
 
@@ -733,7 +733,7 @@
 
 ## ノベライズ
 
-[シェイマス賞](https://ja.wikipedia.org/wiki/シェイマス賞 "wikilink")受賞作家で、映画『[ロード・トゥ・パーディション](../Page/ロード・トゥ・パーディション.md "wikilink")』の原作者として知られる[マックス・アラン・コリンズ](https://ja.wikipedia.org/wiki/マックス・アラン・コリンズ "wikilink")による[ノベライズが](../Page/小説化.md "wikilink")、[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")より刊行されている。 いずれの作品も、登場人物等の設定のみをドラマシリーズから引き継いだ、オリジナル小説。
+[シェイマス賞](https://ja.wikipedia.org/wiki/シェイマス賞 "wikilink")受賞作家で、映画『[ロード・トゥ・パーディション](../Page/ロード・トゥ・パーディション.md "wikilink")』の原作者として知られる[マックス・アラン・コリンズ](https://ja.wikipedia.org/wiki/マックス・アラン・コリンズ "wikilink")による[ノベライズが](../Page/小説化.md "wikilink")、[角川文庫](../Page/角川文庫.md "wikilink")より刊行されている。 いずれの作品も、登場人物等の設定のみをドラマシリーズから引き継いだ、オリジナル小説。
 
   - 『CSI:科学捜査班 ダブル・ディーラー』マックス・アラン・コリンズ著、鎌田三平訳（2005年、角川文庫）ISBN 978-4-04-282606-4
   - 『CSI:科学捜査班 シン・シティ』マックス・アラン・コリンズ著、鎌田三平訳（2005年、角川文庫）ISBN 978-4-04-282607-1

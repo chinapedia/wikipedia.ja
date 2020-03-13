@@ -5,13 +5,13 @@
 
 ## 解説
 
-  - [オリコン週間チャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録。これは[ヒップホップ](../Page/ヒップホップ.md "wikilink")ソロアーティストとしては、同年[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")が発売した『[愛・自分博](../Page/愛・自分博.md "wikilink")』以来2番目の快挙である。
+  - [オリコン週間チャート初登場](../Page/オリコンチャート.md "wikilink")1位を記録。これは[ヒップホップ](../Page/ヒップホップ.md "wikilink")ソロアーティストとしては、同年[KREVA](../Page/KREVA.md "wikilink")が発売した『[愛・自分博](../Page/愛・自分博.md "wikilink")』以来2番目の快挙である。
 
 ## 収録曲
 
 1.  **What's Your Name?**
       -
-        [Lyrics](https://ja.wikipedia.org/wiki/作詞 "wikilink") by Naoki Takada / Music by Naoki Takada & Shintaro"Growth"Izutsu
+        [Lyrics](../Page/作詞.md "wikilink") by Naoki Takada / Music by Naoki Takada & Shintaro"Growth"Izutsu
         自己紹介ナンバー。ライブを意識したナンバーで、間違いなくライブの一曲目はこの曲になるという。
 2.  **[ルパン・ザ・ファイヤー](../Page/ルパン・ザ・ファイヤー.md "wikilink")**
       -
@@ -39,14 +39,14 @@
       -
         Lyrics by Naoki Takada / Music by Naoki Takada & Shintaro"Growth"Izutsu
         本人曰く、BPMをだんだん上げていってラップが早口になる技が[ヒップホップ](../Page/ヒップホップ.md "wikilink")のようだという。
-9.  **怒りの鉄槌 feat. [長州小力](https://ja.wikipedia.org/wiki/長州小力 "wikilink")**
+9.  **怒りの鉄槌 feat. [長州小力](../Page/長州小力.md "wikilink")**
       -
         Lyrics by Naoki Takada,長州小力 / Music by Naoki Takada & DJ 大自然
-        プロレスラー・[長州力](https://ja.wikipedia.org/wiki/長州力 "wikilink")の入場テーマ『パワーホール』を大胆[サンプリング](../Page/サンプリング.md "wikilink")したナンバー。そしてゲストには、[芸人が参加している](https://ja.wikipedia.org/wiki/長州小力 "wikilink")。
+        プロレスラー・[長州力](../Page/長州力.md "wikilink")の入場テーマ『パワーホール』を大胆[サンプリング](../Page/サンプリング.md "wikilink")したナンバー。そしてゲストには、[芸人が参加している](../Page/長州小力.md "wikilink")。
 10. **Champion Road**
       -
         Lyrics by Naoki Takada / Music by Naoki Takada & Shintaro"Growth"Izutsu
-        『[ウイニングイレブン](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")』コンピレーションアルバム『[WE LOVE WE](https://ja.wikipedia.org/wiki/WE_LOVE_WE "wikilink")』収録。本人が気に入っているため、このアルバムにも収録された。
+        『[ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")』コンピレーションアルバム『[WE LOVE WE](https://ja.wikipedia.org/wiki/WE_LOVE_WE "wikilink")』収録。本人が気に入っているため、このアルバムにも収録された。
 11. **Twilight Gemini**
       -
         Lyrics by Naoki Takada / Music by Naoki Takada & Shintaro"Growth"Izutsu

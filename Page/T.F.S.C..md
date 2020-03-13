@@ -11,8 +11,8 @@
 
   - [1955年](../Page/1955年.md "wikilink")　**東芝府中サッカー部**として創部
   - [2004年](../Page/2004年.md "wikilink")　[関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")優勝
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")　[関東リーグ](https://ja.wikipedia.org/wiki/関東サッカーリーグ "wikilink")2部へ昇格
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")　関東リーグ1部へ昇格。チーム名を「**T.F.S.C.**」に改名。
+  - [2005年](../Page/2005年.md "wikilink")　[関東リーグ](../Page/関東サッカーリーグ.md "wikilink")2部へ昇格
+  - [2006年](../Page/2006年.md "wikilink")　関東リーグ1部へ昇格。チーム名を「**T.F.S.C.**」に改名。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")　関東リーグ2部へ降格
   - [2009年](../Page/2009年.md "wikilink")　[東京都サッカートーナメント](../Page/東京都サッカートーナメント.md "wikilink")で3位に入賞。[東京都リーグへ降格](../Page/東京都社会人サッカーリーグ.md "wikilink")
 
@@ -78,7 +78,7 @@
 
 ### ユニフォームサプライヤー
 
-  - [プーマ](https://ja.wikipedia.org/wiki/プーマ "wikilink")
+  - [プーマ](../Page/プーマ.md "wikilink")
 
 ## 歴代所属選手
 

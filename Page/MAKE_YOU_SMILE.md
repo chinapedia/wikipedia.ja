@@ -1,7 +1,7 @@
 > この記事は[MAKE YOU SMILE](https://ja.wikipedia.org/wiki/MAKE_YOU_SMILE)から翻訳されています。
 
 
-『**MAKE YOU SMILE**』（メイク ユー スマイル）は、[丹下桜](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")、[KONAMIより発売された](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")。
+『**MAKE YOU SMILE**』（メイク ユー スマイル）は、[丹下桜](../Page/丹下桜.md "wikilink")の2作目の[アルバム](../Page/アルバム.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")、[KONAMIより発売された](../Page/コナミレーベル.md "wikilink")。
 
 ## 解説
 
@@ -24,13 +24,13 @@
 6.  **I Feel the Wind** \[5:17\]
       - 作詞：[田辺智沙](../Page/田辺智沙.md "wikilink")、作曲：宮島律子、編曲：田辺恵二
 7.  **今はまだ遠いLovesong** \[4:34\]
-      - 作詞・作曲・編曲：[松浦有希](https://ja.wikipedia.org/wiki/松浦有希 "wikilink")
+      - 作詞・作曲・編曲：[松浦有希](../Page/松浦有希.md "wikilink")
 8.  **photo card** \[1:47\]
       - 作詞：丹下桜、作曲・編曲：ながつきまろん
 9.  **[tune my love](https://ja.wikipedia.org/wiki/tune_my_love "wikilink")**-Album Mix- \[4:16\]
       - 作詞: 丹下桜、作曲：ながつきまろん、編曲：田辺恵二
 10. **[MAKE YOU SMILE](https://ja.wikipedia.org/wiki/MAKE_YOU_SMILE/今はまだ遠いLovesong "wikilink")** \[4:32\]
-      - 作詞：丹下桜、作曲：ながつきまろん、編曲：[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
+      - 作詞：丹下桜、作曲：ながつきまろん、編曲：[亀田誠治](../Page/亀田誠治.md "wikilink")
 11. **Wherever you are** \[5:29\]
       - 作詞：丹下桜、作曲・編曲：[中崎英也](../Page/中崎英也.md "wikilink")
 

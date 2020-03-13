@@ -1,11 +1,11 @@
 > この記事は[GUILTY GEAR XX](https://ja.wikipedia.org/wiki/GUILTY_GEAR_XX)から翻訳されています。
 
 
-『**GUILTY GEAR XX**』（ギルティギア イグゼクス）は、[2002年](../Page/2002年.md "wikilink")に[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")が製作・[サミー](https://ja.wikipedia.org/wiki/サミー "wikilink")が販売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。ジャンルは[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")3番目の作品である。正式タイトルは『**GUILTY GEAR XX** \[*The Midnight Carnival*\]』で、一般的な略称は**GGXX**。
+『**GUILTY GEAR XX**』（ギルティギア イグゼクス）は、[2002年](../Page/2002年.md "wikilink")に[アークシステムワークス](../Page/アークシステムワークス.md "wikilink")が製作・[サミー](../Page/サミー.md "wikilink")が販売した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。ジャンルは[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")3番目の作品である。正式タイトルは『**GUILTY GEAR XX** \[*The Midnight Carnival*\]』で、一般的な略称は**GGXX**。
 
 ## 概要
 
-前作『[GUILTY GEAR X](../Page/GUILTY_GEAR_X.md "wikilink")』から4人の新キャラクターや「サイクバースト」などの新しいシステムを追加した作品。前作を凌ぐスタイリッシュなデモの演出、凝りに凝ったスプライトアニメーションのオープニングなど、この作品で新たなGGファンを開拓した。また[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")が、生バンドによる演奏となりこの為に結成された、バンドの[A.S.H.](https://ja.wikipedia.org/wiki/A.S.H. "wikilink")はイベントへの出演のほか単独ライブまで敢行しており、『[月刊アルカディア](https://ja.wikipedia.org/wiki/月刊アルカディア "wikilink")』が主催する対戦格闘ゲーム大会の「[闘劇](../Page/闘劇.md "wikilink")」のテーマ曲も担当した。
+前作『[GUILTY GEAR X](../Page/GUILTY_GEAR_X.md "wikilink")』から4人の新キャラクターや「サイクバースト」などの新しいシステムを追加した作品。前作を凌ぐスタイリッシュなデモの演出、凝りに凝ったスプライトアニメーションのオープニングなど、この作品で新たなGGファンを開拓した。また[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")が、生バンドによる演奏となりこの為に結成された、バンドの[A.S.H.](https://ja.wikipedia.org/wiki/A.S.H. "wikilink")はイベントへの出演のほか単独ライブまで敢行しており、『[月刊アルカディア](../Page/月刊アルカディア.md "wikilink")』が主催する対戦格闘ゲーム大会の「[闘劇](../Page/闘劇.md "wikilink")」のテーマ曲も担当した。
 
 キャラクターの追加やゲームバランスの調整などが行われたマイナーチェンジ版として『\#RELOAD』、『SLASH』、『ACCENT CORE』の3作品が発表されており、各バージョンごとに毎年のペースで[闘劇](../Page/闘劇.md "wikilink")をはじめとして数々の全国規模の大会が行われているなど、ゲームセンターでの対戦ツールとしてもロングランヒットとなった。
 
@@ -74,7 +74,7 @@ PSPで発売された『[GUILTY GEAR JUDGMENT](https://ja.wikipedia.org/wiki/GUI
 
 また稼動前に公式サイト上で、過去のシリーズで使われたキャラクターカラーの人気投票が行われた。この時上位だったカラーは製品版で「EXカラー」として、スタートボタン押しっぱなしでキャラを選択することで使うことが出来る。家庭用版では『\#RELOAD』と『SLASH』のEXカラー計8色が選べるが、これに伴い、数名のキャラのみ同色対戦ができてしまうという事態になっている。
 
-メインビジュアルについては、ソルとカイの密着度が高いので話題を呼んだ。『ギルティギアのWebラジオかもしれない』の第12回放送で、ゼネラルディレクターの[石渡太輔](https://ja.wikipedia.org/wiki/石渡太輔 "wikilink")は「ショックが欲しかった」と語っている。同ラジオのプレゼントコーナーでは「ソルカイのいちゃいちゃしているポスターくれよ」の名で募集していた。
+メインビジュアルについては、ソルとカイの密着度が高いので話題を呼んだ。『ギルティギアのWebラジオかもしれない』の第12回放送で、ゼネラルディレクターの[石渡太輔](../Page/石渡太輔.md "wikilink")は「ショックが欲しかった」と語っている。同ラジオのプレゼントコーナーでは「ソルカイのいちゃいちゃしているポスターくれよ」の名で募集していた。
 
 家庭用では、初代『GG』と『GGX』性能のキャラが使える。また、ロボカイやアバ、聖騎士団ソルといった後から追加されたキャラも『GG』、『GGX』性能を選択できる。また全キャラのGG性能モードに初代『GG』のシステムである「殺界」が使用可能。
 
@@ -96,7 +96,7 @@ PS2版では大量の[バグ](../Page/バグ.md "wikilink")や不具合が発見
 
 海外ではPS2版、PSP版の他にWii版も発売されている。PSP版は[PlayStation Storeでも](../Page/PlayStation_Store.md "wikilink")2800円で配信されている。
 
-家庭用Λ COREでは未収録であったクリフ&ジャスティスが使用キャラとして復活し、ミッションモード、ストーリーモード、サバイバルモードも収録（USA版ではさらにチームバトルモードも収録。）ストーリーモードでは今までシナリオを担当していた[海法紀光](../Page/海法紀光.md "wikilink")から、『[Devil May Cry](https://ja.wikipedia.org/wiki/Devil_May_Cry "wikilink")』シリーズのシナリオを担当した[森橋ビンゴ](../Page/森橋ビンゴ.md "wikilink")に、またソルの声優が[花田光](https://ja.wikipedia.org/wiki/花田光 "wikilink")から[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")に変更されている。またソルと聖騎士団ソルの声を、石渡太輔か中田譲治から選択することができる（ただしストーリーモードの会話パートは中田）。
+家庭用Λ COREでは未収録であったクリフ&ジャスティスが使用キャラとして復活し、ミッションモード、ストーリーモード、サバイバルモードも収録（USA版ではさらにチームバトルモードも収録。）ストーリーモードでは今までシナリオを担当していた[海法紀光](../Page/海法紀光.md "wikilink")から、『[Devil May Cry](https://ja.wikipedia.org/wiki/Devil_May_Cry "wikilink")』シリーズのシナリオを担当した[森橋ビンゴ](../Page/森橋ビンゴ.md "wikilink")に、またソルの声優が[花田光](../Page/花田光.md "wikilink")から[中田譲治](../Page/中田譲治.md "wikilink")に変更されている。またソルと聖騎士団ソルの声を、石渡太輔か中田譲治から選択することができる（ただしストーリーモードの会話パートは中田）。
 
 ジャケットは通常版が聖騎士団ソルとカイ、アペンド版がクリフとジャスティス。
 

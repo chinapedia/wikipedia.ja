@@ -7,7 +7,7 @@
 
 メンバーは[ウエノコウジ](../Page/ウエノコウジ.md "wikilink")、[PATCH](https://ja.wikipedia.org/wiki/PATCH "wikilink")、[楠部真也](https://ja.wikipedia.org/wiki/楠部真也 "wikilink")の三人からなるいわゆる[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
-2002年の2月に解散した[ガレージロック](https://ja.wikipedia.org/wiki/ガレージロック "wikilink")バンド、[GYOGUN REND'SのメンバーであったPATCHが](https://ja.wikipedia.org/wiki/GYOGUN_REND'S "wikilink")、[thee michelle gun elephantのウエノコウジと](https://ja.wikipedia.org/wiki/thee_michelle_gun_elephant "wikilink")[THE NEATBEATSの楠部真也の二人を呼びかけ](../Page/THE_NEATBEATS.md "wikilink")、2003年1月に結成。
+2002年の2月に解散した[ガレージロック](../Page/ガレージロック.md "wikilink")バンド、[GYOGUN REND'SのメンバーであったPATCHが](https://ja.wikipedia.org/wiki/GYOGUN_REND'S "wikilink")、[thee michelle gun elephantのウエノコウジと](https://ja.wikipedia.org/wiki/thee_michelle_gun_elephant "wikilink")[THE NEATBEATSの楠部真也の二人を呼びかけ](../Page/THE_NEATBEATS.md "wikilink")、2003年1月に結成。
 
 ウエノと楠部は結成以降数ヶ月の間、元バンドと平行させて活動を行っていたが、同年10月11日にthee michelle gun elephantが解散し、12月31日には楠部がTHE NEATBEATSを脱退。以降、Radio Carolineでの活動が活発化されることになる。2004年5月には、1stアルバム『[Dead Groovy Action](https://ja.wikipedia.org/wiki/Dead_Groovy_Action "wikilink")』が発売される。
 
@@ -18,7 +18,7 @@
 ## メンバー
 
   - PATCH （[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")）
-  - [ウエノコウジ](../Page/ウエノコウジ.md "wikilink") （[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - [ウエノコウジ](../Page/ウエノコウジ.md "wikilink") （[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
   - 楠部真也 （[ドラムス](../Page/ドラムセット.md "wikilink")）
 
 ## 作品

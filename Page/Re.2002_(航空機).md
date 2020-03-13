@@ -10,15 +10,15 @@
 
 ## 概要
 
-[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")製[ダイムラー・ベンツ DB 601](../Page/ダイムラー・ベンツ_DB_601.md "wikilink")[液冷エンジン](https://ja.wikipedia.org/wiki/液冷エンジン "wikilink")を搭載し、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")にイタリア空軍で採用されたRe.2001アリエテは、前作の[Re.2000ファルコ](../Page/Re.2000_\(航空機\).md "wikilink")([空冷エンジン](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink"))に比べてさほど性能が向上しなかった上に、搭載していたDB601エンジンの供給が不足気味であった。
+[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")製[ダイムラー・ベンツ DB 601](../Page/ダイムラー・ベンツ_DB_601.md "wikilink")[液冷エンジン](../Page/液冷エンジン.md "wikilink")を搭載し、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")にイタリア空軍で採用されたRe.2001アリエテは、前作の[Re.2000ファルコ](../Page/Re.2000_\(航空機\).md "wikilink")([空冷エンジン](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink"))に比べてさほど性能が向上しなかった上に、搭載していたDB601エンジンの供給が不足気味であった。
 
 そこで、Re.2001のエンジンを同程度の出力の国産空冷エンジンであるピアッジョP.XIX RC45“トゥルビーネ([旋風の意](../Page/塵旋風.md "wikilink"))”に換装したのが本機である。このエンジンは直径が小さく、また先細りのカウルやスピナーの形状と相まって、本機の外観は空力的に洗練されたものとなっている。
 
 また、本機は当初から[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")として開発された。胴体及び主翼の下に設けられた合計3つのハードポイントには合計650kgまでの[爆弾](../Page/爆弾.md "wikilink")が搭載可能である。
 
-原型機は[1940年](../Page/1940年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に初飛行し、最高速度こそRe.2001に劣るものの総合的に見て性能向上が認められた。[1942年](../Page/1942年.md "wikilink")から部隊配属されたが、実際に活動を開始したのは[1943年](../Page/1943年.md "wikilink")に入ってからである。1943年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に連合軍が[シチリア島](https://ja.wikipedia.org/wiki/シチリア島 "wikilink")に上陸すると([ハスキー作戦](https://ja.wikipedia.org/wiki/ハスキー作戦 "wikilink"))、これを迎え撃つために本機は同島に展開したが損害も多かった。
+原型機は[1940年](../Page/1940年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に初飛行し、最高速度こそRe.2001に劣るものの総合的に見て性能向上が認められた。[1942年](../Page/1942年.md "wikilink")から部隊配属されたが、実際に活動を開始したのは[1943年](../Page/1943年.md "wikilink")に入ってからである。1943年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に連合軍が[シチリア島](https://ja.wikipedia.org/wiki/シチリア島 "wikilink")に上陸すると([ハスキー作戦](../Page/ハスキー作戦.md "wikilink"))、これを迎え撃つために本機は同島に展開したが損害も多かった。
 
-1943年[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")にイタリアが降伏すると、残存機の一部は連合国側に投降し、10数機が連合国軍機として[地中海](../Page/地中海.md "wikilink")で使用された。また40機あまりがドイツ軍に渡り、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で[レジスタンス掃討の為に使用された](https://ja.wikipedia.org/wiki/レジスタンス運動 "wikilink")。
+1943年[9月8日](../Page/9月8日.md "wikilink")にイタリアが降伏すると、残存機の一部は連合国側に投降し、10数機が連合国軍機として[地中海](../Page/地中海.md "wikilink")で使用された。また40機あまりがドイツ軍に渡り、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で[レジスタンス掃討の為に使用された](../Page/レジスタンス運動.md "wikilink")。
 
 ## スペック
 

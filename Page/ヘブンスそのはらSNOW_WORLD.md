@@ -1,13 +1,13 @@
 > この記事は[SNOW WORLD](https://ja.wikipedia.org/wiki/SNOW_WORLD)から翻訳されています。
 
 
-**ヘブンスそのはらSNOW WORLD**（ヘブンスそのはらスノーワールド）は、[長野県](../Page/長野県.md "wikilink")[下伊那郡](../Page/下伊那郡.md "wikilink")[阿智村](https://ja.wikipedia.org/wiki/阿智村 "wikilink")にある[スキー場](../Page/スキー場.md "wikilink")。 スキー専用ゲレンデとなっており、[スノーボード](../Page/スノーボード.md "wikilink")での滑走はできない。 [サンリオ](../Page/サンリオ.md "wikilink")の[ハローキティ](../Page/ハローキティ.md "wikilink")がゲレンデにやってくることで有名なため、子ども連れのファミリーに人気が高い。 またスキーシーズン以外も営業しており、遊歩道としてコースの一部が開放されている。ゲレンデ最上部には展望台があり、コース上部からは[南アルプスが一望できる](https://ja.wikipedia.org/wiki/赤石山脈 "wikilink")。
+**ヘブンスそのはらSNOW WORLD**（ヘブンスそのはらスノーワールド）は、[長野県](../Page/長野県.md "wikilink")[下伊那郡](../Page/下伊那郡.md "wikilink")[阿智村](../Page/阿智村.md "wikilink")にある[スキー場](../Page/スキー場.md "wikilink")。 スキー専用ゲレンデとなっており、[スノーボード](../Page/スノーボード.md "wikilink")での滑走はできない。 [サンリオ](../Page/サンリオ.md "wikilink")の[ハローキティ](../Page/ハローキティ.md "wikilink")がゲレンデにやってくることで有名なため、子ども連れのファミリーに人気が高い。 またスキーシーズン以外も営業しており、遊歩道としてコースの一部が開放されている。ゲレンデ最上部には展望台があり、コース上部からは[南アルプスが一望できる](https://ja.wikipedia.org/wiki/赤石山脈 "wikilink")。
 
 ## 沿革
 
   - [1996年](../Page/1996年.md "wikilink") - 阿智村などの出資する第三セクター、阿智総合開発株式会社により開業。　　　　　　　　　　
   - [2002年](../Page/2002年.md "wikilink") - 第三セクターを解消、吉川建設系列となる。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - 投資ファンドによりスキー場再生事業会社として設立されたジェイ・マウンテンズ・グループ株式会社が買収。
+  - [2006年](../Page/2006年.md "wikilink") - 投資ファンドによりスキー場再生事業会社として設立されたジェイ・マウンテンズ・グループ株式会社が買収。
 
 ## コース
 
@@ -48,7 +48,7 @@
 普通車約2000台分の駐車場が用意されている。
 
   - レンタル受付
-  - 更衣室・[ロッカー](https://ja.wikipedia.org/wiki/ロッカー "wikilink")
+  - 更衣室・[ロッカー](../Page/ロッカー.md "wikilink")
   - リフト券売所
   - [売店](../Page/売店.md "wikilink")
   - [トイレ](../Page/便所.md "wikilink")
@@ -76,7 +76,7 @@
 
 ## アクセス
 
-  - [中央自動車道](../Page/中央自動車道.md "wikilink") [園原IC](https://ja.wikipedia.org/wiki/園原インターチェンジ "wikilink")(名古屋方面から)より2.8km 約5分
+  - [中央自動車道](../Page/中央自動車道.md "wikilink") [園原IC](../Page/園原インターチェンジ.md "wikilink")(名古屋方面から)より2.8km 約5分
   - 中央自動車道 [飯田山本IC](../Page/飯田山本インターチェンジ.md "wikilink")(諏訪・東京方面から)より14km 約20分
   - [JR](../Page/東海旅客鉄道.md "wikilink")[飯田線](https://ja.wikipedia.org/wiki/飯田線 "wikilink") [飯田駅](../Page/飯田駅.md "wikilink")より[タクシー](../Page/タクシー.md "wikilink")で約40分
 

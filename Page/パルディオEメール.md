@@ -1,7 +1,7 @@
 > この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
 
 
-**パルディオEメール**（パルディオイーメール）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[PHS](../Page/PHS.md "wikilink")（[PHS事業](https://ja.wikipedia.org/wiki/ドコモPHS "wikilink")）の[Eメールサービス](../Page/電子メール.md "wikilink")。端末本体のほか、[パソコンにソフトをインストールする事でも利用できた](../Page/パーソナルコンピュータ.md "wikilink")。現在は、サービス終了している。
+**パルディオEメール**（パルディオイーメール）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[PHS](../Page/PHS.md "wikilink")（[PHS事業](../Page/ドコモPHS.md "wikilink")）の[Eメールサービス](../Page/電子メール.md "wikilink")。端末本体のほか、[パソコンにソフトをインストールする事でも利用できた](../Page/パーソナルコンピュータ.md "wikilink")。現在は、サービス終了している。
 
 ## 概要
 

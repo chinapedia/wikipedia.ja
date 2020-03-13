@@ -1,7 +1,7 @@
 > この記事は[Radio Aktive Project](https://ja.wikipedia.org/wiki/Radio_Aktive_Project)から翻訳されています。
 
 
-**Radio Aktive Project**（レディオ・アクティブ・プロジェクト）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。略称は**R.A.P**。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")はアトミック・レコーズ(Atomik Records)\[1\]。
+**Radio Aktive Project**（レディオ・アクティブ・プロジェクト）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。略称は**R.A.P**。所属[レコード会社](../Page/レコード会社.md "wikilink")はアトミック・レコーズ(Atomik Records)\[1\]。
 
 ## メンバー
 
@@ -10,7 +10,7 @@
 
 ## 概要
 
-ヒップホップグループ、[キングギドラのメンバーであるK](https://ja.wikipedia.org/wiki/KGDR "wikilink") DUB SHINEとDJ OASISがキングギドラのコンセプトを踏襲したユニットである。ユニット名にある“radio aktive”は、「[放射能](../Page/放射能.md "wikilink")をもった、放射能による」を意味する“radioactive”を捩ったもので、音が耳から脳へ届くプロセスを[被曝](https://ja.wikipedia.org/wiki/被曝 "wikilink")に例えた事に由来する\[2\]。
+ヒップホップグループ、[キングギドラのメンバーであるK](../Page/KGDR.md "wikilink") DUB SHINEとDJ OASISがキングギドラのコンセプトを踏襲したユニットである。ユニット名にある“radio aktive”は、「[放射能](../Page/放射能.md "wikilink")をもった、放射能による」を意味する“radioactive”を捩ったもので、音が耳から脳へ届くプロセスを[被曝](https://ja.wikipedia.org/wiki/被曝 "wikilink")に例えた事に由来する\[2\]。
 
 ## 「そりゃあないよ」を巡る出来事
 
@@ -20,13 +20,13 @@
 
 ### シングル
 
-1.  そりゃぁないよ（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")） アトミックボム・レコーズ/[BBMC](../Page/アーティストハウスホールディングス.md "wikilink")
+1.  そりゃぁないよ（[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")） アトミックボム・レコーズ/[BBMC](../Page/アーティストハウスホールディングス.md "wikilink")
       - 11月22日にリリースする予定だったが直前で延期、[11月29日](../Page/11月29日.md "wikilink")から[iTunes Store等での先行配信を行った](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。（現在は削除されている）
       - A面にはタイトルである「そりゃぁないよ」ではなく、「ウチの feat. [JUN-GMC](https://ja.wikipedia.org/wiki/JUN-GMC "wikilink")」が収録されている。
 
 ### アルバム
 
-1.  neworlder （[2009年](../Page/2009年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")） アトミック・レコーズ/[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")・ミュージックパブリッシング
+1.  neworlder （[2009年](../Page/2009年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")） アトミック・レコーズ/[ドワンゴ](../Page/ドワンゴ.md "wikilink")・ミュージックパブリッシング
 
 ### iTunes Store
 

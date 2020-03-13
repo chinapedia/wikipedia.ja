@@ -11,13 +11,13 @@
 
 [同人誌即売会](../Page/同人誌即売会.md "wikilink")において、コミックやアニメーションの二次創作本のみならず、オリジナルCDなどを取り扱っていることを知り、2001年に[コミックマーケット](../Page/コミックマーケット.md "wikilink")61にサークル名「Sound Horizon」で応募するも抽選により落選。そのため、同イベントに当選が決定しており、ジャケットイラスト等を担当している[yokoyan](https://ja.wikipedia.org/wiki/yokoyan "wikilink")のブースで『1st Story CD (plus) Chronicle』を頒布したことがSound Horizonの活動としての第一歩となった。その後も同人誌即売会で自主制作アルバムをリリースしていた。
 
-2004年10月27日、Sound Horizonとして[ベルウッド・レコード](https://ja.wikipedia.org/wiki/ベルウッド・レコード "wikilink")より『[Elysion 〜楽園への前奏曲〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園への前奏曲〜 "wikilink")』でメジャーデビュー。
+2004年10月27日、Sound Horizonとして[ベルウッド・レコード](../Page/ベルウッド・レコード.md "wikilink")より『[Elysion 〜楽園への前奏曲〜](https://ja.wikipedia.org/wiki/Elysion_〜楽園への前奏曲〜 "wikilink")』でメジャーデビュー。
 
 2005年3月2日、[大塚英志](../Page/大塚英志.md "wikilink")原作・[衣谷遊](../Page/衣谷遊.md "wikilink")作画の漫画『[リヴァイアサン](https://ja.wikipedia.org/wiki/リヴァイアサン_\(漫画\) "wikilink")』のイメージアルバム『リヴァイアサン 終末を告げし獣』をリリース、また同年12月21日には[相田裕](../Page/相田裕.md "wikilink")原作の漫画『[GUNSLINGER GIRL](../Page/GUNSLINGER_GIRL.md "wikilink")』のイメージアルバム『poca felicità』をリリース。
 
 2006年6月14日、「**霜月はるか†Revo**（しもつきはるか クロス レヴォ）」名義でシングル『霧の向こうに繋がる世界』をリリース。
 
-2008年、作曲家・[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")とコラボレートし、「**Revo＆梶浦由記**」名義でライブ「Revo＆梶浦由記 Presents Dream Port 2008」を、4月29日に[神戸ワールド記念ホール](https://ja.wikipedia.org/wiki/ワールド記念ホール "wikilink")、5月6日にパシフィコ横浜国立大ホールで開催。5月15日には[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")ホールAで追加公演が行われ、同年6月18日にシングル『[Dream Port](../Page/Dream_Port.md "wikilink")』が発売された。
+2008年、作曲家・[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")とコラボレートし、「**Revo＆梶浦由記**」名義でライブ「Revo＆梶浦由記 Presents Dream Port 2008」を、4月29日に[神戸ワールド記念ホール](../Page/ワールド記念ホール.md "wikilink")、5月6日にパシフィコ横浜国立大ホールで開催。5月15日には[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")ホールAで追加公演が行われ、同年6月18日にシングル『[Dream Port](../Page/Dream_Port.md "wikilink")』が発売された。
 
 2012年8月、他作品とのコラボレーションを専門とした新プロジェクト「**[Linked Horizon](https://ja.wikipedia.org/wiki/Linked_Horizon "wikilink")**」を立ち上げ、10月11日に発売の[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ゲーム『[ブレイブリーデフォルト](https://ja.wikipedia.org/wiki/ブレイブリーデフォルト "wikilink")』とコラボレートし、Linked Horizon名義で主題歌・ボーカライズ楽曲を発表。Revo名義でゲーム内のBGMも全曲担当している。
 
@@ -25,7 +25,7 @@
 
 ## 人物
 
-Sound Horizonは元々Revoの個人活動であったが、途中からメインボーカルとして参加していた[Aramaryの脱退後は唯一の正式メンバーとされている](https://ja.wikipedia.org/wiki/あらまり "wikilink")。
+Sound Horizonは元々Revoの個人活動であったが、途中からメインボーカルとして参加していた[Aramaryの脱退後は唯一の正式メンバーとされている](../Page/あらまり.md "wikilink")。
 
 サングラスがトレードマーク。これはメジャーデビュー以前、『Pico Magic』をリリースした頃からのことである。Revoの名前の由来は「Revolution（革命）」から\[1\]。
 
@@ -33,7 +33,7 @@ Sound Horizonは元々Revoの個人活動であったが、途中からメイン
 
 ### 愛称の由来
 
-ファンからの愛称は「領主（様）」、「（国王）陛下」など。前者はラジオ「[こむちゃっとカウントダウン](https://ja.wikipedia.org/wiki/A&Gメディアステーション_こむちゃっとカウントダウン "wikilink")」にゲスト出演した際のこむちゃファミリーネーム\[3\]が由来で、その後ファンからの愛称となった。こむちゃファミリーネームに関しては、後に「（領主改め）宇宙」となっている\[4\]。
+ファンからの愛称は「領主（様）」、「（国王）陛下」など。前者はラジオ「[こむちゃっとカウントダウン](../Page/A&Gメディアステーション_こむちゃっとカウントダウン.md "wikilink")」にゲスト出演した際のこむちゃファミリーネーム\[3\]が由来で、その後ファンからの愛称となった。こむちゃファミリーネームに関しては、後に「（領主改め）宇宙」となっている\[4\]。
 
 Linked HorizonではSound Horizonと区別をつけるために上記のような設定を無くし、進撃の巨人とのタイアップをきっかけに「鎖地平団」というネタが生まれたことから、Linked Horizon名義で活動している時は共演者から「団長」と呼ばれる事も多くなった。
 
@@ -94,20 +94,20 @@ Sound Horizon名義の作品は「**[Sound Horizon](https://ja.wikipedia.org/wik
 
 **ゲーム音楽アレンジ**
 
-  - ドナドナ・ファンタジー - 原曲：[ドナドナ](../Page/ドナドナ.md "wikilink")＋[ファイナルファンタジー](https://ja.wikipedia.org/wiki/ファイナルファンタジー "wikilink")よりプレリュード
-  - 奇怪ヶ森の歌チョコボ - 原曲：ファイナルファンタジーより[チョコボ](https://ja.wikipedia.org/wiki/チョコボ "wikilink")のテーマ
+  - ドナドナ・ファンタジー - 原曲：[ドナドナ](../Page/ドナドナ.md "wikilink")＋[ファイナルファンタジー](../Page/ファイナルファンタジー.md "wikilink")よりプレリュード
+  - 奇怪ヶ森の歌チョコボ - 原曲：ファイナルファンタジーより[チョコボ](../Page/チョコボ.md "wikilink")のテーマ
   - Dancing Saga - 原曲：[ロマンシングサガメドレー](../Page/ロマンシング_サ・ガ.md "wikilink")
   - ロマンスという名の悲劇 - 原曲：ロマンシングサガよりバトル2（Beat Them Up\!）
   - 果てしなき世界 - 原曲：ロマンシングサガよりアイシャのテーマ
   - ジプシー・ダンサー - 原曲：ロマンシングサガよりバーバラのテーマ
-  - Stardust Green - 原曲：[ロマンシングサガ3よりユリアンのテーマ](https://ja.wikipedia.org/wiki/ロマンシング_サ・ガ3 "wikilink")
+  - Stardust Green - 原曲：[ロマンシングサガ3よりユリアンのテーマ](../Page/ロマンシング_サ・ガ3.md "wikilink")
   - 原始の炎 - 原曲：[サガフロンティアよりアセルスのテーマ](../Page/サガ_フロンティア.md "wikilink")
   - 雨に朽ちゆく調べ - 原曲：[聖剣伝説](../Page/聖剣伝説.md "wikilink")より戦闘2
 
 ### コラボレート
 
   - [霧の向こうに繋がる世界](https://ja.wikipedia.org/wiki/霧の向こうに繋がる世界 "wikilink") （2006年6月14日）
-    「霜月はるか†Revo」名義。Sound Horizonにも参加しているシンガーソングライター・[霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")とのコラボレートシングル。
+    「霜月はるか†Revo」名義。Sound Horizonにも参加しているシンガーソングライター・[霜月はるか](../Page/霜月はるか.md "wikilink")とのコラボレートシングル。
     作詞と作曲を交換し合うコラボレートとなっており、編曲・サウンドプロデュースなども担当。
   - [Dream Port](../Page/Dream_Port.md "wikilink")（2008年6月18日）
     「Revo＆梶浦由記」名義。作曲家・[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")とのコラボレートシングル。
@@ -153,7 +153,7 @@ Sound Horizon名義の作品は「**[Sound Horizon](https://ja.wikipedia.org/wik
   - 『Winter Mix 2003』（2003年12月28日）
       -
         [コミックとらのあな](../Page/コミックとらのあな.md "wikilink")で発売された音楽アルバム。収録曲のうち「White Bell Fantasia」のみ担当。
-  - [森雄介](https://ja.wikipedia.org/wiki/森雄介 "wikilink")『…for rest』 （2006年5月17日）
+  - [森雄介](../Page/森雄介.md "wikilink")『…for rest』 （2006年5月17日）
       -
         作詞・作曲・編曲、サウンドプロデューサーを担当。プロモーションビデオにも[特別出演している](../Page/カメオ出演.md "wikilink")。
     <!-- end list -->
@@ -177,7 +177,7 @@ Sound Horizon名義の作品は「**[Sound Horizon](https://ja.wikipedia.org/wik
 
   - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")（[MMORPG](../Page/MMORPG.md "wikilink")）『[ベルアイル](../Page/ベルアイル.md "wikilink")』
       -
-        タイアップとしてSound Horizon名義でテーマソング「[神々が愛した楽園](../Page/少年は剣を….md "wikilink")」を提供したほか、ゲーム内でも期間限定の[NPCキャラクターとしてRevoがゲスト出演していた](https://ja.wikipedia.org/wiki/ノンプレイヤーキャラクター "wikilink")。
+        タイアップとしてSound Horizon名義でテーマソング「[神々が愛した楽園](../Page/少年は剣を….md "wikilink")」を提供したほか、ゲーム内でも期間限定の[NPCキャラクターとしてRevoがゲスト出演していた](../Page/ノンプレイヤーキャラクター.md "wikilink")。
   - [ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")専用ゲーム『[ブレイブリーデフォルト](https://ja.wikipedia.org/wiki/ブレイブリーデフォルト "wikilink")』
       -
         BGMを担当したほか「Revo Linked BRAVELY DEFAULT Concert」とのタイアップとして同ゲーム内で使用できるRevo本人のフレンド召喚データが期間限定で配信された。また、続編『[ブレイブリーセカンド](https://ja.wikipedia.org/wiki/ブレイブリーセカンド "wikilink")』などのシリーズ作品においても一部BGMが使用されている。

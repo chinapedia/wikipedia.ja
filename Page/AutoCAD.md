@@ -1,7 +1,7 @@
 > この記事は[AutoCAD](https://ja.wikipedia.org/wiki/AutoCAD)から翻訳されています。
 
 
-**AutoCAD**（**オートキャド**）は、[オートデスク](https://ja.wikipedia.org/wiki/オートデスク "wikilink")株式会社が開発する汎用の[CAD](../Page/CAD.md "wikilink")ソフトウェア。1982年、最初のバージョンである1.0が発売された。建築・土木・機械分野をはじめとして、汎用CADとして多く利用されている。
+**AutoCAD**（**オートキャド**）は、[オートデスク](../Page/オートデスク.md "wikilink")株式会社が開発する汎用の[CAD](../Page/CAD.md "wikilink")ソフトウェア。1982年、最初のバージョンである1.0が発売された。建築・土木・機械分野をはじめとして、汎用CADとして多く利用されている。
 
 ## 概要
 

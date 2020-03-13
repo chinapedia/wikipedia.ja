@@ -1,14 +1,14 @@
 > この記事は[RTBF](https://ja.wikipedia.org/wiki/RTBF)から翻訳されています。
 
 
-**RTBF**(**ラジオ&テレビ・ベルギー・フランス語放送** フランス語表記：Radio télévision belge de la communauté française)はベルギーの[公共放送](../Page/公共放送.md "wikilink")局。首都[ブリュッセル](../Page/ブリュッセル.md "wikilink")及び[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")を[公用語](../Page/公用語.md "wikilink")とする同国南部[ワロン地域](../Page/ワロン地域.md "wikilink")を主な対象としている。北部[フランデレン地域](https://ja.wikipedia.org/wiki/フランデレン地域 "wikilink")では　**[vrt](https://ja.wikipedia.org/wiki/VRT "wikilink")**　が[フラマン語](https://ja.wikipedia.org/wiki/フラマン語 "wikilink")放送を行っている。
+**RTBF**(**ラジオ&テレビ・ベルギー・フランス語放送** フランス語表記：Radio télévision belge de la communauté française)はベルギーの[公共放送](../Page/公共放送.md "wikilink")局。首都[ブリュッセル](../Page/ブリュッセル.md "wikilink")及び[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")を[公用語](../Page/公用語.md "wikilink")とする同国南部[ワロン地域](../Page/ワロン地域.md "wikilink")を主な対象としている。北部[フランデレン地域](../Page/フランデレン地域.md "wikilink")では　**[vrt](https://ja.wikipedia.org/wiki/VRT "wikilink")**　が[フラマン語](../Page/フラマン語.md "wikilink")放送を行っている。
 
 ## 歴史
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Tour-RTBF_Luc_Viatour.JPG "wikilink")
 
   - [1930年](../Page/1930年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")　**ベルギー国営放送研究所**として発足。フランス語表記は、**INR** - Institut National belge de Radiodiffusion、オランダ語表記は、**NIR** - Nationaal Instituut voor de Radio-omroepで、両社は各言語毎に独立した法人として、それぞれの事業を行っていた。
-  - [1940年](../Page/1940年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")　[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")のベルギー侵攻により接収され、**ラジオ・ブリュッセル**(Radio Bruxelles)に改称。[ロンドン](../Page/ロンドン.md "wikilink")に逃れたINR職員は、[亡命政府](https://ja.wikipedia.org/wiki/亡命政府 "wikilink")の情報省の謀略放送部隊(RNB - Radiodiffusion Nationale Belge)として、**ラジオ・ベルギー**(Radio Belgique)を呼称し、[BBCスタジオから本土向けの放送を続けた](../Page/英国放送協会.md "wikilink")。
+  - [1940年](../Page/1940年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")　[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")のベルギー侵攻により接収され、**ラジオ・ブリュッセル**(Radio Bruxelles)に改称。[ロンドン](../Page/ロンドン.md "wikilink")に逃れたINR職員は、[亡命政府](../Page/亡命政府.md "wikilink")の情報省の謀略放送部隊(RNB - Radiodiffusion Nationale Belge)として、**ラジオ・ベルギー**(Radio Belgique)を呼称し、[BBCスタジオから本土向けの放送を続けた](../Page/英国放送協会.md "wikilink")。
   - 1945年　終戦後、INRとNIRはブリュッセルからの放送を再開。
   - 1950年　欧州23の放送事業者と共に、EBU[欧州放送連合](../Page/欧州放送連合.md "wikilink")設立。
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")　テレビ放送開始。
@@ -42,9 +42,9 @@
 
 ## 架空ニュース騒動
 
-RTBFは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")夜のテレビで「[フランデレンがベルギーからの独立を宣言した](https://ja.wikipedia.org/wiki/フランデレン地域 "wikilink")」との架空ニュースを放送した。
+RTBFは[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")夜のテレビで「[フランデレンがベルギーからの独立を宣言した](../Page/フランデレン地域.md "wikilink")」との架空ニュースを放送した。
 
-ベルギーではオランダ語（[フラマン語](https://ja.wikipedia.org/wiki/フラマン語 "wikilink")）が使われる北部フランデレンとフランス語が使われる南部[ワロンの不和という問題を抱えているが](../Page/ワロン地域.md "wikilink")、同夜のルポルタージュ番組の開始直後に臨時ニュースとして「国王が国外に脱出した」などの内容のほか、首都「[ブリュッセル](../Page/ブリュッセル.md "wikilink")にある[NATO本部が厳戒体制に入った](../Page/北大西洋条約機構.md "wikilink")」などと放送。30分後にフィクションである旨を表示したが、同局に問い合わせが殺到したり、ウェブサイトにアクセスが集中して繋がりにくくなるなどの騒動となった。同局では「議論のために放送した」としている。
+ベルギーではオランダ語（[フラマン語](../Page/フラマン語.md "wikilink")）が使われる北部フランデレンとフランス語が使われる南部[ワロンの不和という問題を抱えているが](../Page/ワロン地域.md "wikilink")、同夜のルポルタージュ番組の開始直後に臨時ニュースとして「国王が国外に脱出した」などの内容のほか、首都「[ブリュッセル](../Page/ブリュッセル.md "wikilink")にある[NATO本部が厳戒体制に入った](../Page/北大西洋条約機構.md "wikilink")」などと放送。30分後にフィクションである旨を表示したが、同局に問い合わせが殺到したり、ウェブサイトにアクセスが集中して繋がりにくくなるなどの騒動となった。同局では「議論のために放送した」としている。
 
 ## 外部リンク
 

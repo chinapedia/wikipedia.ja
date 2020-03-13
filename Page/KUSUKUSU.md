@@ -1,11 +1,11 @@
 > この記事は[KUSUKUSU](https://ja.wikipedia.org/wiki/KUSUKUSU)から翻訳されています。
 
 
-**関根麻里のKUSUKUSU**（せきねまりのくすくす）は、[bayfmで放送されている](../Page/ベイエフエム.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送開始。
+**関根麻里のKUSUKUSU**（せきねまりのくすくす）は、[bayfmで放送されている](../Page/ベイエフエム.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送開始。
 
 ## 概要
 
-  - 毎週[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")と共に進行する[トーク番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")。一応、[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")になっているが、2013年の間は[桧家住宅](https://ja.wikipedia.org/wiki/桧家住宅 "wikilink")がスポンサーであったため、『**HINOKIYA presents KUSU KUSU**』と表記されていた。
+  - 毎週[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")と共に進行する[トーク番組](../Page/トーク番組.md "wikilink")。一応、[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")になっているが、2013年の間は[桧家住宅](https://ja.wikipedia.org/wiki/桧家住宅 "wikilink")がスポンサーであったため、『**HINOKIYA presents KUSU KUSU**』と表記されていた。
   - [どぶろっく](https://ja.wikipedia.org/wiki/どぶろっく "wikilink")の『女の数だけ歌がある』が本番組内のコーナーの1つになっていたが、2013年3月に木曜日夜のミニ番組として独立、2014年4月以降は火曜日に移動して放送されている。
 
 ## 出演者
@@ -18,15 +18,15 @@
 
   - 第1回目　[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")　
   - 第2回目　キャイ〜ン　
-  - 第3回目　[板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")　
+  - 第3回目　[板尾創路](../Page/板尾創路.md "wikilink")　
   - 第4回目　[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")　
   - 第5回目　jealkb
-  - 第6回目　[流れ星](https://ja.wikipedia.org/wiki/流れ星_\(お笑いコンビ\) "wikilink")　
+  - 第6回目　[流れ星](../Page/流れ星_\(お笑いコンビ\).md "wikilink")　
   - 第7回目　[森三中](../Page/森三中.md "wikilink")
   - 第8回目　森三中
   - 第9回目　はなか
   - 第10回目　[イワイガワ](../Page/イワイガワ.md "wikilink")
-  - 第11回目　[ハローバイバイ](https://ja.wikipedia.org/wiki/ハローバイバイ "wikilink")、[関暁夫](https://ja.wikipedia.org/wiki/関暁夫 "wikilink")
+  - 第11回目　[ハローバイバイ](../Page/ハローバイバイ.md "wikilink")、[関暁夫](../Page/関暁夫.md "wikilink")
   - 第19〜22回目 関根勤
 
 ## 放送時間

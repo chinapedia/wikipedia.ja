@@ -1,7 +1,7 @@
 > この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
 
 
-'''MBS京都プロジェクト '''（えむびーえすきょうとぷろじぇくと）とは、[毎日放送](../Page/毎日放送.md "wikilink")(MBS)が制作・放送する、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")の伝統や美術に関するの番組やイベントなどの総称である。
+'''MBS京都プロジェクト '''（えむびーえすきょうとぷろじぇくと）とは、[毎日放送](../Page/毎日放送.md "wikilink")(MBS)が制作・放送する、[京都府](../Page/京都府.md "wikilink")の伝統や美術に関するの番組やイベントなどの総称である。
 
 ## MBS京都の日
 
@@ -25,13 +25,13 @@
 2007年[5月19日](../Page/5月19日.md "wikilink")[土曜日](../Page/土曜日.md "wikilink")は、「MBS京都スペシャル」として9時25分（実質11時58分）～17時30分まで特別番組が多数放送された。
 
   - [せやねん\!](../Page/せやねん!.md "wikilink")　京都秘（まるひ）の美SP　雅&角のブラブラどこいこ\!?(11:58 - 13;54)
-      - せやねん\!メインパーソナリティの[トミーズ](../Page/トミーズ.md "wikilink")雅と、[ちちんぷいぷいメインパーソナリティの](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")[角淳一](../Page/角淳一.md "wikilink")が、「京都の美」をテーマに町を練り歩く。途中、「スタア祇園の隠れ家」「京大生100人が教える\! 劇うまラーメンキング」などの情報もVTRで紹介。ほかの出演は、[里見浩太朗](https://ja.wikipedia.org/wiki/里見浩太朗 "wikilink")・[未知やすえ](https://ja.wikipedia.org/wiki/未知やすえ "wikilink")・[松井愛](../Page/松井愛.md "wikilink")(MBSアナウンサー)・[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")・[ロザン](../Page/ロザン.md "wikilink")・[千鳥ら](https://ja.wikipedia.org/wiki/千鳥_\(お笑いコンビ\) "wikilink")。
-  - [よしもと新喜劇](https://ja.wikipedia.org/wiki/よしもと新喜劇 "wikilink")京都スペシャル(13:54 - 14:54)
+      - せやねん\!メインパーソナリティの[トミーズ](../Page/トミーズ.md "wikilink")雅と、[ちちんぷいぷいメインパーソナリティの](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")[角淳一](../Page/角淳一.md "wikilink")が、「京都の美」をテーマに町を練り歩く。途中、「スタア祇園の隠れ家」「京大生100人が教える\! 劇うまラーメンキング」などの情報もVTRで紹介。ほかの出演は、[里見浩太朗](../Page/里見浩太朗.md "wikilink")・[未知やすえ](https://ja.wikipedia.org/wiki/未知やすえ "wikilink")・[松井愛](../Page/松井愛.md "wikilink")(MBSアナウンサー)・[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")・[ロザン](../Page/ロザン.md "wikilink")・[千鳥ら](../Page/千鳥_\(お笑いコンビ\).md "wikilink")。
+  - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")京都スペシャル(13:54 - 14:54)
   - クイズ\!京都No.1決定戦(14:54 - 17:00)
-      - [クイズ\!大阪No.1決定戦](https://ja.wikipedia.org/wiki/クイズ!大阪No.1決定戦 "wikilink")の京都版。古都にちなんだクイズ100題が出題される。出演は、トミーズ・[上泉雄一](https://ja.wikipedia.org/wiki/上泉雄一 "wikilink")(MBSアナウンサー)・[北川弘美](https://ja.wikipedia.org/wiki/北川弘美 "wikilink")・[ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")・[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")ら。
+      - [クイズ\!大阪No.1決定戦](https://ja.wikipedia.org/wiki/クイズ!大阪No.1決定戦 "wikilink")の京都版。古都にちなんだクイズ100題が出題される。出演は、トミーズ・[上泉雄一](../Page/上泉雄一.md "wikilink")(MBSアナウンサー)・[北川弘美](https://ja.wikipedia.org/wiki/北川弘美 "wikilink")・[ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")・[レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")ら。
   - [暮らしカルマガジン みかさつかさ京都特集](../Page/暮らしカルマガジン_みかさつかさ.md "wikilink")(17:00 - 17:30)
 
-各番組の間では、[野村啓司](https://ja.wikipedia.org/wiki/野村啓司 "wikilink")(MBS専属パーソナリティ)・[西村麻子](https://ja.wikipedia.org/wiki/西村麻子 "wikilink")(MBSアナウンサー)が、京都からの中継を行う。
+各番組の間では、[野村啓司](../Page/野村啓司.md "wikilink")(MBS専属パーソナリティ)・[西村麻子](../Page/西村麻子.md "wikilink")(MBSアナウンサー)が、京都からの中継を行う。
 
 [5月14日](../Page/5月14日.md "wikilink") - [5月18日](../Page/5月18日.md "wikilink")は、『ちちんぷいぷい』内の[ぷいぷい物産 いっぺんぜひ\!でも](https://ja.wikipedia.org/wiki/ちちんぷいぷいの企画一覧#ぷいぷい物産_いっぺんぜひ! "wikilink")、京都特集が行われた。
 

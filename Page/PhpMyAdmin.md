@@ -24,7 +24,7 @@
 
 ## セキュリティ
 
-phpMyAdminは[Webサーバ](../Page/Webサーバ.md "wikilink")に置くため、容易にアクセスされてしまう危険性がある。また、有名な管理ツールであるため[攻撃の対象とされやすい](../Page/クラッキング_\(コンピューター用語\).md "wikilink")。そのため、最新のバージョンに更新、厳重な[パスワード](https://ja.wikipedia.org/wiki/パスワード "wikilink")管理、[IPSや](https://ja.wikipedia.org/wiki/侵入防止システム "wikilink")[Webアプリケーションファイアーウォールを設置する等の対策が必要である](https://ja.wikipedia.org/wiki/Web_Application_Firewall "wikilink")。
+phpMyAdminは[Webサーバ](../Page/Webサーバ.md "wikilink")に置くため、容易にアクセスされてしまう危険性がある。また、有名な管理ツールであるため[攻撃の対象とされやすい](../Page/クラッキング_\(コンピューター用語\).md "wikilink")。そのため、最新のバージョンに更新、厳重な[パスワード](../Page/パスワード.md "wikilink")管理、[IPSや](https://ja.wikipedia.org/wiki/侵入防止システム "wikilink")[Webアプリケーションファイアーウォールを設置する等の対策が必要である](https://ja.wikipedia.org/wiki/Web_Application_Firewall "wikilink")。
 
 ## 類似品
 

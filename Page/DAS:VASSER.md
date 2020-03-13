@@ -9,7 +9,7 @@
 
 初ライブは1998年1月なんばロケッツで行われる（結成当時は、一狼がまだ高校生であり、活動の拠点は基本的に関西エリアで行われていた。）
 
-初ライブから半年後、当時の[MIRAGEのベースであった](../Page/MIRAGE_\(バンド\).md "wikilink")[KISAKI](../Page/KISAKI.md "wikilink")率いる[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")に所属し、徐々に活動を広げていく（この頃から同じ所属バンドの[Madeth gray'll](../Page/Madeth_gray'll.md "wikilink")、AZALEAや[Dir en grey等のバンドの影響を受け](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")、衣装や楽曲なども[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")系になっていく）。
+初ライブから半年後、当時の[MIRAGEのベースであった](../Page/MIRAGE_\(バンド\).md "wikilink")[KISAKI](../Page/KISAKI.md "wikilink")率いる[Matina](../Page/Matina.md "wikilink")に所属し、徐々に活動を広げていく（この頃から同じ所属バンドの[Madeth gray'll](../Page/Madeth_gray'll.md "wikilink")、AZALEAや[Dir en grey等のバンドの影響を受け](../Page/DIR_EN_GREY.md "wikilink")、衣装や楽曲なども[Matina](../Page/Matina.md "wikilink")系になっていく）。
 
 1999年からはドラムに汰楼を迎え今までの発狂系の音楽から、[ハードロック](../Page/ハードロック.md "wikilink")よりの音楽に変わっていき、メイクや衣装も徐々にフォーマルに変わっていく。2000年には、当時は駆け出しだった[Due'le quartz](https://ja.wikipedia.org/wiki/Due'le_quartz "wikilink")（デュール・クォーツ）と全国ツアーを一緒に回るなど精力的に活動する。ローディには元[サディ](https://ja.wikipedia.org/wiki/サディ "wikilink")の空、元Eze:quLの秦などがヘルプをしていた。
 
@@ -29,21 +29,21 @@
 
 ## メンバー
 
-  - **響兵**（きょうへい） 1978年[6月12日](../Page/6月12日.md "wikilink")生まれ [大阪市](../Page/大阪市.md "wikilink")出身 血液型：A型 身長：180cm 体重：60kg 趣味：[英会話](https://ja.wikipedia.org/wiki/英会話 "wikilink")
+  - **響兵**（きょうへい） 1978年[6月12日](../Page/6月12日.md "wikilink")生まれ [大阪市](../Page/大阪市.md "wikilink")出身 血液型：A型 身長：180cm 体重：60kg 趣味：[英会話](../Page/英会話.md "wikilink")
 
 <!-- end list -->
 
   -
     高校時代は、[黒夢](../Page/黒夢.md "wikilink")の大ファンで、ライブにもよくコスプレで通っていたらしい。
     大阪の大学で秀暁と出会い、バンド活動に専念するのために大学を中退した。
-    [Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")に入ってからは、[Madeth gray'llの翡翠に憧れて髪を金髪にして瓜二つの様な時期もあった](../Page/Madeth_gray'll.md "wikilink")。
-    シンクロ発売以降は、髪を切りその風貌は[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")のスタイルの域を超えてしまった。
+    [Matina](../Page/Matina.md "wikilink")に入ってからは、[Madeth gray'llの翡翠に憧れて髪を金髪にして瓜二つの様な時期もあった](../Page/Madeth_gray'll.md "wikilink")。
+    シンクロ発売以降は、髪を切りその風貌は[Matina](../Page/Matina.md "wikilink")のスタイルの域を超えてしまった。
     2002年、DAS:VASSERの解散後、2003年に元[蜉蝣の喰夜と元k](../Page/蜉蝣_\(バンド\).md "wikilink")@mikazeの新汰とでGUICHE（ギーシュ）という(メタル)ハードコアバンドを結成したが半年で活動休止する。
-    その後、[アメリカのLos](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") Angelesに単独で2年間[留学](https://ja.wikipedia.org/wiki/留学 "wikilink")にする。帰国後は、東京で\[P:D\]という[ミクスチャーバンド](https://ja.wikipedia.org/wiki/ミクスチャーバンド "wikilink")で[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")として活躍するが一年で脱退する。現在は就職し、[Number Mouse](http://www.numbermouse.com)というバンドで社会人として音楽活動を再開している。
+    その後、[アメリカのLos](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") Angelesに単独で2年間[留学](../Page/留学.md "wikilink")にする。帰国後は、東京で\[P:D\]という[ミクスチャーバンド](https://ja.wikipedia.org/wiki/ミクスチャーバンド "wikilink")で[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")として活躍するが一年で脱退する。現在は就職し、[Number Mouse](http://www.numbermouse.com)というバンドで社会人として音楽活動を再開している。
 
 <!-- end list -->
 
-  - **秀暁**（ひであき） 1979年[1月19日](../Page/1月19日.md "wikilink")生まれ [神戸市](../Page/神戸市.md "wikilink")出身 血液型：B型 身長：173cm 体重：50kg 趣味：[釣り](https://ja.wikipedia.org/wiki/釣り "wikilink") [パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink") その他：愛犬家
+  - **秀暁**（ひであき） 1979年[1月19日](../Page/1月19日.md "wikilink")生まれ [神戸市](../Page/神戸市.md "wikilink")出身 血液型：B型 身長：173cm 体重：50kg 趣味：[釣り](../Page/釣り.md "wikilink") [パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink") その他：愛犬家
 
 <!-- end list -->
 
@@ -61,20 +61,20 @@
 
   -
     本名は田中一朗である。
-    DAS:VASSER脱退後は、[JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")に加入し、一朗と改名。ポジションをギターからベースに変える。
+    DAS:VASSER脱退後は、[JILS](../Page/JILS.md "wikilink")に加入し、一朗と改名。ポジションをギターからベースに変える。
     その後、2010年夏ごろ[Kαin](https://ja.wikipedia.org/wiki/Kαin "wikilink")を脱退。
 
 ## 歴史
 
   - 1997年8月、響兵と秀暁を中心に結成。1998年1月に、一狼と修鈴が加入。
-  - 1998年7月、[KISAKI](../Page/KISAKI.md "wikilink")率いるインディーズ事務所[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")に所属する。
+  - 1998年7月、[KISAKI](../Page/KISAKI.md "wikilink")率いるインディーズ事務所[Matina](../Page/Matina.md "wikilink")に所属する。
   - 1999年3月、初の全国ツアー「DECADENCE」を[S](../Page/S_\(バンド\).md "wikilink")、AZALEA、DISTRAYと回る。
   - 1999年9月、修鈴が脱退。その翌月に汰楼が正式加入する。
   - 2000年2月、「ATTEMPT SUICIDE」 ワンマンライブを東京は[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")と大阪は西九条BLAND NEWで行う。両日ともにチケットは即完売する。東京の方は、シングルの「CECIL」が配布される。
   - 2000年6月、[due'le quartzとのカップリングツアー](https://ja.wikipedia.org/wiki/due'le_quartz "wikilink")「D」で全国を回る。
   - 2000年10月、アルバム「シンクロ」がスマッシュヒットする。発売記念に、[渋谷ON AIR WESTでワンマンライブを行う](https://ja.wikipedia.org/wiki/渋谷ON_AIR_WEST "wikilink")。
-  - 2001年1月、所属していた事務所[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")から離脱し、自主で活動を開始する。
-  - 2001年5月1日、ツアーファイナルの大阪BIG CATのワンマンライブで[一狼](https://ja.wikipedia.org/wiki/田中一朗 "wikilink")（→[JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")）と汰楼（→[Waive](../Page/Waive.md "wikilink")）が脱退。
+  - 2001年1月、所属していた事務所[Matina](../Page/Matina.md "wikilink")から離脱し、自主で活動を開始する。
+  - 2001年5月1日、ツアーファイナルの大阪BIG CATのワンマンライブで[一狼](https://ja.wikipedia.org/wiki/田中一朗 "wikilink")（→[JILS](../Page/JILS.md "wikilink")）と汰楼（→[Waive](../Page/Waive.md "wikilink")）が脱退。
   - 2002年2月16日、目黒ライブステーションの主催イベントにて解散する。DAS:VASSERの最後の曲「LILY」をデモテープで配布。
   - 2007年12月26日、結成10年記念で一日復活ライブを大阪で行う。（響兵、秀暁）
   - 2009年9月23日、結成12年記念、一日復活ライブを大阪で行う。(響兵、秀暁、汰楼)
@@ -109,7 +109,7 @@
 -サファイア-</strong></p></td>
 <td><p><small>1.夢又夢<br />
 2.青い…MASK</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Matina" title="wikilink">Matina</a>所属第一弾のデモテープ。<br />
+<td><p><a href="../Page/Matina.md" title="wikilink">Matina</a>所属第一弾のデモテープ。<br />
 プロデュースに、<a href="../Page/Madeth_gray&#39;ll.md" title="wikilink">Madeth gray'llの雪那を迎えて制作</a>。限定1000本を完売</p></td>
 </tr>
 <tr class="even">
@@ -206,7 +206,7 @@
 3.CRASH×3<br />
 4.RE-MIND<br />
 5. wow-ai-nin (incomplete ver.)</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Matina" title="wikilink">Matina</a>脱退後、初の自主制作ミニアルバム。<br />
+<td><p><a href="../Page/Matina.md" title="wikilink">Matina</a>脱退後、初の自主制作ミニアルバム。<br />
 そして4人でのラストの作品。</p></td>
 </tr>
 <tr class="odd">
@@ -262,7 +262,7 @@
 <td><p><small><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/12月18日.md" title="wikilink">12月18日</a><small></p></td>
 <td><p><strong>Scene2</strong></p></td>
 <td><p><small>青い…MASK</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Matina" title="wikilink">Matina</a>の盟友<a href="https://ja.wikipedia.org/wiki/Soleil" title="wikilink">Soleil</a>のオムニバスCD</p></td>
+<td><p><a href="../Page/Matina.md" title="wikilink">Matina</a>の盟友<a href="https://ja.wikipedia.org/wiki/Soleil" title="wikilink">Soleil</a>のオムニバスCD</p></td>
 </tr>
 <tr class="even">
 <td><p><small><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><small></p></td>
@@ -301,7 +301,7 @@
 <td><p><small><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a><small></p></td>
 <td><p><strong>PRELUDE</strong></p></td>
 <td><p><small>症候群〜シンドローム〜</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Matina" title="wikilink">Matina</a>のオムニバスCD。</p></td>
+<td><p><a href="../Page/Matina.md" title="wikilink">Matina</a>のオムニバスCD。</p></td>
 </tr>
 <tr class="even">
 <td><p><small><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a><small></p></td>
@@ -315,20 +315,20 @@
 <td><p><strong>PRELUDE:2<br />
 〜en effort of resalt〜</strong></p></td>
 <td><p><small>トラウマ</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Matina" title="wikilink">Matina</a>のオムニバスCD。</p></td>
+<td><p><a href="../Page/Matina.md" title="wikilink">Matina</a>のオムニバスCD。</p></td>
 </tr>
 <tr class="even">
 <td><p><small><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/2月14日.md" title="wikilink">2月14日</a><small></p></td>
 <td><p><strong>Matina1997〜2002</strong></p></td>
 <td><p><small>CECIL</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Matina" title="wikilink">Matina</a>の最後のオムニバスベストCD。</p></td>
+<td><p><a href="../Page/Matina.md" title="wikilink">Matina</a>の最後のオムニバスベストCD。</p></td>
 </tr>
 </tbody>
 </table>
 
 ## 関連項目
 
-  - [JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")
+  - [JILS](../Page/JILS.md "wikilink")
   - [Waive](../Page/Waive.md "wikilink")
   - [Due'le quartz](https://ja.wikipedia.org/wiki/Due'le_quartz "wikilink")
 

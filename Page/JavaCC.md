@@ -1,7 +1,7 @@
 > この記事は[JavaCC](https://ja.wikipedia.org/wiki/JavaCC)から翻訳されています。
 
 
-**JavaCC** (Java Compiler Compiler) は、[オープンソース](../Page/オープンソース.md "wikilink")の[Java](https://ja.wikipedia.org/wiki/Java "wikilink")向けの[パーサジェネレータ](https://ja.wikipedia.org/wiki/パーサジェネレータ "wikilink")である。 JavaCCは、[yacc](https://ja.wikipedia.org/wiki/yacc "wikilink")と同様に[拡張BNFを入力としてとる](../Page/EBNF.md "wikilink")。yaccとの違いは生成されるパーサがJavaの[ソースコード](../Page/ソースコード.md "wikilink")だということである。 しかしながら、yaccとは異なり、JavaCCは[トップダウンのパーサを構築する](../Page/トップダウン構文解析.md "wikilink")、そのため、[LL](../Page/LL法.md "wikilink") (K) クラスの文法にしか対応していない（厳密にいうと[左再帰](../Page/左再帰.md "wikilink")は使えない）。
+**JavaCC** (Java Compiler Compiler) は、[オープンソース](../Page/オープンソース.md "wikilink")の[Java](https://ja.wikipedia.org/wiki/Java "wikilink")向けの[パーサジェネレータ](../Page/パーサジェネレータ.md "wikilink")である。 JavaCCは、[yacc](https://ja.wikipedia.org/wiki/yacc "wikilink")と同様に[拡張BNFを入力としてとる](../Page/EBNF.md "wikilink")。yaccとの違いは生成されるパーサがJavaの[ソースコード](../Page/ソースコード.md "wikilink")だということである。 しかしながら、yaccとは異なり、JavaCCは[トップダウンのパーサを構築する](../Page/トップダウン構文解析.md "wikilink")、そのため、[LL](../Page/LL法.md "wikilink") (K) クラスの文法にしか対応していない（厳密にいうと[左再帰](../Page/左再帰.md "wikilink")は使えない）。
 
 JavaCCに付属するJJTreeというツールを利用することで、[構文木](https://ja.wikipedia.org/wiki/構文木 "wikilink")を生成することができる。
 

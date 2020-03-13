@@ -1,7 +1,7 @@
 > この記事は[Oberon](https://ja.wikipedia.org/wiki/Oberon)から翻訳されています。
 
 
-**Oberon**（オベロン）は、[チューリッヒ工科大学](../Page/チューリッヒ工科大学.md "wikilink")の[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")率いるチームが設計開発した[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")と[プログラミング言語](../Page/プログラミング言語.md "wikilink")の名称。[天王星](../Page/天王星.md "wikilink")の衛星[オベロンに由来する](https://ja.wikipedia.org/wiki/オベロン_\(衛星\) "wikilink")\[1\]。
+**Oberon**（オベロン）は、[チューリッヒ工科大学](../Page/チューリッヒ工科大学.md "wikilink")の[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")率いるチームが設計開発した[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")と[プログラミング言語](../Page/プログラミング言語.md "wikilink")の名称。[天王星](../Page/天王星.md "wikilink")の衛星[オベロンに由来する](../Page/オベロン_\(衛星\).md "wikilink")\[1\]。
 
 ## Oberon オペレーティングシステム
 
@@ -9,7 +9,7 @@
 
 ### 歴史
 
-[NS32032ベースの](https://ja.wikipedia.org/wiki/NS320xx "wikilink")ワークステーションプロジェクトの一部として開発された。同名の[プログラミング言語](../Page/プログラミング言語.md "wikilink")で記述されている\[2\]。基本システムは[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")と Jürg Gutknecht が設計・実装し、その全貌が彼らの著書 "Project Oberon" で詳述されている\[3\]。その後、チューリッヒ工科大学のチームにより他のハードウェアにも移植され、雑誌などにも紹介されている\[4\]\[5\]\[6\]\[7\]\[8\]。
+[NS32032ベースの](../Page/NS320xx.md "wikilink")ワークステーションプロジェクトの一部として開発された。同名の[プログラミング言語](../Page/プログラミング言語.md "wikilink")で記述されている\[2\]。基本システムは[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")と Jürg Gutknecht が設計・実装し、その全貌が彼らの著書 "Project Oberon" で詳述されている\[3\]。その後、チューリッヒ工科大学のチームにより他のハードウェアにも移植され、雑誌などにも紹介されている\[4\]\[5\]\[6\]\[7\]\[8\]。
 
 ### ユーザインタフェース
 
@@ -17,13 +17,13 @@ Oberonの[ユーザインタフェース](../Page/ユーザインタフェース
 
 ### バージョン
 
-Oberon OS は、一般に無料でいくつかのプラットフォーム上で動作する。非常に小型である。Oberon 言語コンパイラ、各種ユーティリティ、[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")、[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")ネットワーク、GUIなど全てのパッケージを入れても 3.5インチ[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")1枚に納まる。[IBM PC互換機で動作するバージョンを](https://ja.wikipedia.org/wiki/IBM_PC "wikilink") Native Oberon と呼ぶ。
+Oberon OS は、一般に無料でいくつかのプラットフォーム上で動作する。非常に小型である。Oberon 言語コンパイラ、各種ユーティリティ、[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")、[TCP/IP](https://ja.wikipedia.org/wiki/TCP/IP "wikilink")ネットワーク、GUIなど全てのパッケージを入れても 3.5インチ[フロッピーディスク](../Page/フロッピーディスク.md "wikilink")1枚に納まる。[IBM PC互換機で動作するバージョンを](../Page/IBM_PC.md "wikilink") Native Oberon と呼ぶ。
 
 ヴィルトの開発したオリジナルに近いバージョンとして Oberon V4 がある。これもチューリッヒ工科大学で開発されたが、最新版は[リンツ大学](http://www.ssw.uni-linz.ac.at/Oberon.html)にある。ただし、2000年以降開発が停止している。
 
-チューリッヒ工科大学は近年、動的オブジェクトとOSの[並行性](../Page/並行性.md "wikilink")の研究に注力しており、新たな Active Object Oberon という言語とそれを使ったOSをリリースした。そのOSは当初 AOS と呼ばれていたが、現在は A2 または [Bluebottle](https://ja.wikipedia.org/wiki/:en:Bluebottle_OS "wikilink") と呼称されている。チューリッヒ工科大学のサイトでは大部分のソースと共にこれを公開している。現在のバージョンでは[IA-32](https://ja.wikipedia.org/wiki/IA-32 "wikilink")のデュアルプロセッサまでと、[StrongARM](https://ja.wikipedia.org/wiki/StrongARM "wikilink")ファミリをサポートしている。
+チューリッヒ工科大学は近年、動的オブジェクトとOSの[並行性](../Page/並行性.md "wikilink")の研究に注力しており、新たな Active Object Oberon という言語とそれを使ったOSをリリースした。そのOSは当初 AOS と呼ばれていたが、現在は A2 または [Bluebottle](https://ja.wikipedia.org/wiki/:en:Bluebottle_OS "wikilink") と呼称されている。チューリッヒ工科大学のサイトでは大部分のソースと共にこれを公開している。現在のバージョンでは[IA-32](../Page/IA-32.md "wikilink")のデュアルプロセッサまでと、[StrongARM](../Page/StrongARM.md "wikilink")ファミリをサポートしている。
 
-チューリッヒ工科大学の Native Systems Group では、Oberon をベースとした用途限定のOSである stailaOS を開発した\[11\]。これは、リアルタイム解析、高速商取引システム、主記憶のみで動作する[ERPシステムなどが用途とされている](https://ja.wikipedia.org/wiki/企業資源計画 "wikilink")。
+チューリッヒ工科大学の Native Systems Group では、Oberon をベースとした用途限定のOSである stailaOS を開発した\[11\]。これは、リアルタイム解析、高速商取引システム、主記憶のみで動作する[ERPシステムなどが用途とされている](../Page/企業資源計画.md "wikilink")。
 
 ### Native Oberon
 
@@ -45,7 +45,7 @@ Oberon は安全性を指向した言語である。[配列](../Page/配列.md "
 
 Oberon はコードの不透明性をなくし、機能を限定して機能の誤用を防ぐことでミスを減らそうとした。この考え方は [APL](../Page/APL.md "wikilink") と共通するものがあるが、Oberon は簡略化しすぎて可読性を損なうことがないよう意図して設計された。
 
-成功かどうかを定量的に測るのは難しいが、Oberon が当初の目標を達成したかどうかについては異論もある。[Ada](../Page/Ada.md "wikilink") 設計者の1人 Jean Ichbiah は Oberon の簡略化の方針に異議を唱えた。これは、ヴィルトが Ada を「大きすぎる」と非難したことに応えたもので、彼は「ヴィルトは大きな問題への小さな解決策が存在すると考えている。私はそのような奇跡は信じない。大きな問題には大きな解決策しかない\!」と言った。Oberon の開発者たちは、そういう意味では Oberon は行き過ぎていたと考え、Oberon-2 では [FOR文の文法を差し戻した](https://ja.wikipedia.org/wiki/For文 "wikilink")（初期の Oberon には [WHILE文があれば十分と考え削除されていた](https://ja.wikipedia.org/wiki/While文 "wikilink")）。
+成功かどうかを定量的に測るのは難しいが、Oberon が当初の目標を達成したかどうかについては異論もある。[Ada](../Page/Ada.md "wikilink") 設計者の1人 Jean Ichbiah は Oberon の簡略化の方針に異議を唱えた。これは、ヴィルトが Ada を「大きすぎる」と非難したことに応えたもので、彼は「ヴィルトは大きな問題への小さな解決策が存在すると考えている。私はそのような奇跡は信じない。大きな問題には大きな解決策しかない\!」と言った。Oberon の開発者たちは、そういう意味では Oberon は行き過ぎていたと考え、Oberon-2 では [FOR文の文法を差し戻した](../Page/For文.md "wikilink")（初期の Oberon には [WHILE文があれば十分と考え削除されていた](../Page/While文.md "wikilink")）。
 
 機能を省くことでプログラマが「[車輪の再発明](../Page/車輪の再発明.md "wikilink")」のように機能を再実装しなければならなくなるという議論もある。[ライブラリ](../Page/ライブラリ.md "wikilink")はそのような問題を多少なりとも和らげる。[Java](https://ja.wikipedia.org/wiki/Java "wikilink")は（Oberonほどではないが）単純な言語と大きな標準ライブラリの実例である（なお、Oberon の標準ライブラリは Java のものより小さい）。ある言語を習得するということは、その言語の標準ライブラリについても学ぶことであり、Ichbiah の上述の反論は、機能を標準ライブラリに移動させることによる単純化戦略にも拡大して当てはめることができる。ヴィルトや Oberon のファンは、Oberon が基本的かつ効果的にこの問題を防いでいるとしている。
 
@@ -84,19 +84,19 @@ OberonはOSとともにチューリッヒ工科大学などで公開されてい
 
 ヴィルトが2007年に定義したのがOberon-07である。Oberon-2ではなく本来のOberonに基づいており、2011年に仕様が改訂されている。主な変更点は、数値型の明示的変換関数（FLOOR、FLTなど）を必ず使うようにした点、LOOP文とEXIT文を排除した点、WHILE文が拡張された点、RETURN文が関数の最後にのみ存在するようにした点、インポートされた変数や構造のある引数がリードオンリーとなった点、配列をCOPY文を使わずに代入できるようになった点などである\[14\]。
 
-コンパイラの実装としては、32ビットWindows版 [Oberon-07M](http://www.exaprog.com/)\[15\]、32ビット[ARM版](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")、Cortex-M3マイクロコントローラ版、ヴィルトが設計したRISCプロセッサを Xilinx FPGA Spartan-3 ボードに実装したもので動作する版がある。
+コンパイラの実装としては、32ビットWindows版 [Oberon-07M](http://www.exaprog.com/)\[15\]、32ビット[ARM版](../Page/ARMアーキテクチャ.md "wikilink")、Cortex-M3マイクロコントローラ版、ヴィルトが設計したRISCプロセッサを Xilinx FPGA Spartan-3 ボードに実装したもので動作する版がある。
 
 #### Active Oberon
 
-はOberonの別の拡張版で、オブジェクト指向を取り入れ（オブジェクト単位のアクセス制限など）、[表明](https://ja.wikipedia.org/wiki/表明 "wikilink")、プリエンプティブな優先度付きスケジューリング、メソッドの文法の若干の変更などがなされている。オブジェクトはスレッドまたはプロセスとして機能させることもできる。対応するOSはA2またはBluebottleと呼ばれる。
+はOberonの別の拡張版で、オブジェクト指向を取り入れ（オブジェクト単位のアクセス制限など）、[表明](../Page/表明.md "wikilink")、プリエンプティブな優先度付きスケジューリング、メソッドの文法の若干の変更などがなされている。オブジェクトはスレッドまたはプロセスとして機能させることもできる。対応するOSはA2またはBluebottleと呼ばれる。
 
 #### 関連言語
 
-Oberon系統の言語開発は継続している。Oberon-2をさらに発展させたのが [Component Pascal](https://ja.wikipedia.org/wiki/Component_Pascal "wikilink") で、チューリッヒ工科大学からスピンオフしたオベロン・マイクロシステムズや[クイーンズランド工科大学](https://ja.wikipedia.org/wiki/クイーンズランド工科大学 "wikilink")がサポートしている。他にも特定分野向けにOberonの精神を受け継いだ言語として、[Lagoonaや](https://ja.wikipedia.org/wiki/:en:Lagoona_\(programming_language\) "wikilink")[Obliqがある](https://ja.wikipedia.org/wiki/:en:Obliq "wikilink")。
+Oberon系統の言語開発は継続している。Oberon-2をさらに発展させたのが [Component Pascal](https://ja.wikipedia.org/wiki/Component_Pascal "wikilink") で、チューリッヒ工科大学からスピンオフしたオベロン・マイクロシステムズや[クイーンズランド工科大学](../Page/クイーンズランド工科大学.md "wikilink")がサポートしている。他にも特定分野向けにOberonの精神を受け継いだ言語として、[Lagoonaや](https://ja.wikipedia.org/wiki/:en:Lagoona_\(programming_language\) "wikilink")[Obliqがある](https://ja.wikipedia.org/wiki/:en:Obliq "wikilink")。
 
 チューリッヒ工科大学にて、.NET環境向けに Zonnon という新言語が開発されている。Oberonの特徴を引き継ぎつつ、Pascalから一部機能を復活させたものだが、文法は異なる。動的オブジェクト、演算子オーバーロード、例外処理などの機能が追加されている。.NET向けに [Microsoft Visual Studio](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink") のプラグインとして処理系を使用することができる。
 
-Oberon-Vは[数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")向けにOberonを拡張した言語で、特に[ベクタープロセッサやパイプラインアーキテクチャの](../Page/ベクトル計算機.md "wikilink")[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")での利用を意図している。元々は[小セネカにちなみ](https://ja.wikipedia.org/wiki/ルキウス・アンナエウス・セネカ "wikilink") Seneca と呼ばれていた\[16\]。
+Oberon-Vは[数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")向けにOberonを拡張した言語で、特に[ベクタープロセッサやパイプラインアーキテクチャの](../Page/ベクトル計算機.md "wikilink")[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")での利用を意図している。元々は[小セネカにちなみ](../Page/ルキウス・アンナエウス・セネカ.md "wikilink") Seneca と呼ばれていた\[16\]。
 
 ## 脚注
 

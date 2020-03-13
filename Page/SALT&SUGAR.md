@@ -1,7 +1,7 @@
 > この記事は[SALT\&SUGAR](https://ja.wikipedia.org/wiki/SALT\&SUGAR)から翻訳されています。
 
 
-**SALT & SUGAR**（ソルト・アンド・シュガー）は[1996年](../Page/1996年.md "wikilink")5月にスタートした[佐藤竹善](https://ja.wikipedia.org/wiki/佐藤竹善 "wikilink")と[塩谷哲](../Page/塩谷哲.md "wikilink")によるユニット。 佐藤竹善の【[さとう](../Page/砂糖.md "wikilink")】をSUGAR、塩谷哲の【[しお](https://ja.wikipedia.org/wiki/塩 "wikilink")】をSALTとしてSALT\&SUGARとしている （過去に存在した[山本コウタロー](https://ja.wikipedia.org/wiki/山本コウタロー "wikilink")の[ソルティー・シュガー](https://ja.wikipedia.org/wiki/ソルティー・シュガー "wikilink")に酷似）。
+**SALT & SUGAR**（ソルト・アンド・シュガー）は[1996年](../Page/1996年.md "wikilink")5月にスタートした[佐藤竹善](../Page/佐藤竹善.md "wikilink")と[塩谷哲](../Page/塩谷哲.md "wikilink")によるユニット。 佐藤竹善の【[さとう](../Page/砂糖.md "wikilink")】をSUGAR、塩谷哲の【[しお](https://ja.wikipedia.org/wiki/塩 "wikilink")】をSALTとしてSALT\&SUGARとしている （過去に存在した[山本コウタロー](../Page/山本コウタロー.md "wikilink")の[ソルティー・シュガー](../Page/ソルティー・シュガー.md "wikilink")に酷似）。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 1996年5月に全国9箇所でライブを行い活動をスタート、その後11月に1stシングル「DIARY」を、12月には1stアルバム「Concerts」をリリースしている。 また、毎年年末に塩谷哲が「SALTISH NIGHT」を、5月には佐藤竹善が「CROSS YOUR FINGERS」を開催しているが、現在のSALT\&SUGARの活動はこれがメインのようである。
 
-ディズニートリビュート他、[小田和正](../Page/小田和正.md "wikilink")、[鈴木雅之トリビュートなど](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink")、多くの作品を提供している。
+ディズニートリビュート他、[小田和正](../Page/小田和正.md "wikilink")、[鈴木雅之トリビュートなど](../Page/鈴木雅之_\(歌手\).md "wikilink")、多くの作品を提供している。
 
 2009年8月19日には13年ぶりの2ndアルバム「Interactive」「CONCERTS Ⅱ」が同時リリース。9月にはやはり13年ぶりとなる全国ツアーを開始。 先行配信されたALL I WANNA DO（[シェリル・クロウ](../Page/シェリル・クロウ.md "wikilink")のカバー）は、ケイタイ・ダウンロードサイト最大手のレコチョク着うた ジャズ/クラシックうたチャートで、ウィークリー初登場１位を記録した。
 
@@ -122,7 +122,7 @@
 <li><a href="https://ja.wikipedia.org/wiki/w:en:Jarreau_(album)" title="wikilink">Mornin'</a> 【作詞:Al Jarreau/作曲:David Foster】</li>
 <li><a href="https://ja.wikipedia.org/wiki/w:en:Earthbound_(Conner_Reeves_album)" title="wikilink">Earthbound</a> 【作詞作曲:Conner Reeves - Graham Lyle】</li>
 <li>Love's In Need Of Love Today 【作詞作曲:Stevie Wonder】</li>
-<li>処女航海'99 【作詞:<a href="../Page/なかにし礼.md" title="wikilink">なかにし礼</a>/作曲:<a href="https://ja.wikipedia.org/wiki/服部克久" title="wikilink">服部克久</a>】</li>
+<li>処女航海'99 【作詞:<a href="../Page/なかにし礼.md" title="wikilink">なかにし礼</a>/作曲:<a href="../Page/服部克久.md" title="wikilink">服部克久</a>】</li>
 <li>Heal Our Land 【作詞:Labi Siffre/作曲:Jonathan Butler】</li>
 <li><a href="https://ja.wikipedia.org/wiki/w:en:Sweet_Love_(Anita_Baker_song)" title="wikilink">Sweet Love</a> 【作詞作曲:Anita Baker - Louis A. Johnson &amp; Gary Bias】</li>
 <li>The Flame In My Soul 【作詞:高尾直樹/作曲:佐藤竹善】</li>
@@ -148,7 +148,7 @@
 
 ## 主なライブ
 
-  - 2005年07月30日 - [情熱大陸](https://ja.wikipedia.org/wiki/情熱大陸 "wikilink") SPECIAL LIVE SUMMER TIME BONANZA'05
+  - 2005年07月30日 - [情熱大陸](../Page/情熱大陸.md "wikilink") SPECIAL LIVE SUMMER TIME BONANZA'05
   - 2006年12月23日 - 塩谷哲プロデュース Saltish Night Vol.X
   - 2009年08月01日・08日 - 情熱大陸 SPECIAL LIVE SUMMER TIME BONANZA'09
   - 2010年12月23日 - 塩谷哲プロデュース Saltish Night Vol.XIV

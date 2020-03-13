@@ -10,17 +10,17 @@
 <!-- end list -->
 
   -
-    [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[東久留米市](../Page/東久留米市.md "wikilink")出身。
+    [東京都](../Page/東京都.md "wikilink")[東久留米市](../Page/東久留米市.md "wikilink")出身。
     [血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長166cm、体重57kg。
     [日本大学豊山高校](https://ja.wikipedia.org/wiki/日本大学豊山高校 "wikilink")卒、[日本大学法学部](https://ja.wikipedia.org/wiki/日本大学法学部 "wikilink")卒。
     あだ名は「山さん」、また「エディ」と呼ばれる事も多い。
-    特技はものまね（特に[エディ・マーフィ](https://ja.wikipedia.org/wiki/エディ・マーフィ "wikilink")等の外国人や、色々な国の言葉をそれらしく言う事など）。エディ・マーフィについては、小学生の時に彼の映画を見たことでお笑い芸人を目指すきっかけともなり、また誕生日が同じ4月3日ということで「運命を感じた」という\[1\]。
+    特技はものまね（特に[エディ・マーフィ](../Page/エディ・マーフィ.md "wikilink")等の外国人や、色々な国の言葉をそれらしく言う事など）。エディ・マーフィについては、小学生の時に彼の映画を見たことでお笑い芸人を目指すきっかけともなり、また誕生日が同じ4月3日ということで「運命を感じた」という\[1\]。
     趣味は世界の首都を言う事。
     チャームポイントは大きな目と厚い唇。
     新宿のホテルでベルボーイのバイトをしていた。
     実はアイドルオタクで、[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")や[SDN48](https://ja.wikipedia.org/wiki/SDN48 "wikilink")のライブに行っている。特に好きなのはかつて両グループのメンバーだった[野呂佳代](https://ja.wikipedia.org/wiki/野呂佳代 "wikilink")。[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")ともテレビ番組で共演している。
     以前は喫煙者であったが現在は吸っていないとのこと。（2017年6月14日放送の鬼橋美智子花の応援団内での発言より）
-    活動休止後は「山口たかし」もしくは「EE男山口」の芸名で、[ワタナベエンターテインメント九州事業本部](../Page/ワタナベエンターテインメント九州事業本部.md "wikilink")に移籍し[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")で活動している。
+    活動休止後は「山口たかし」もしくは「EE男山口」の芸名で、[ワタナベエンターテインメント九州事業本部](../Page/ワタナベエンターテインメント九州事業本部.md "wikilink")に移籍し[福岡県](../Page/福岡県.md "wikilink")で活動している。
 
 <!-- end list -->
 
@@ -29,13 +29,13 @@
 <!-- end list -->
 
   -
-    [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長170cm、体重57kg。[松戸国際高校](https://ja.wikipedia.org/wiki/松戸国際高校 "wikilink")を卒業後、一浪を経て日本大学法学部卒業。大学時代は[落語研究会](../Page/落語研究会_\(サークル活動\).md "wikilink")（[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")経商法落語研究会）に所属していた。
+    [千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長170cm、体重57kg。[松戸国際高校](https://ja.wikipedia.org/wiki/松戸国際高校 "wikilink")を卒業後、一浪を経て日本大学法学部卒業。大学時代は[落語研究会](../Page/落語研究会_\(サークル活動\).md "wikilink")（[日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")経商法落語研究会）に所属していた。
     落研時代の仲間5人で結成した「セレクティッド5\!」の元メンバー。そのうちの2人は現在「[がっつきたいか](https://ja.wikipedia.org/wiki/がっつきたいか "wikilink")」として[SMA NEET Projectに所属](../Page/SMA_NEET_Project.md "wikilink")。
     あだ名は「ヤッシー」または「ヤシ君」と呼ばれている。
     父親は柔道の師範であり、本人も幼少時より柔道を始め、柔道2段。高校時代には千葉県大会の団体戦でベスト8入り、個人でもベスト16入りを果たす。
     特技は絵を描く事。趣味はTシャツ作り\[2\]。
     チャームポイントは右頬の大きなホクロと濃いヒゲ。
-    「[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")」にて[東野幸治](../Page/東野幸治.md "wikilink")に「顔の貧相さが芸人辞める3日前みたい。[Mr.オクレ](https://ja.wikipedia.org/wiki/Mr.オクレ "wikilink")さん以来の逸材」と言われた。
+    「[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")」にて[東野幸治](../Page/東野幸治.md "wikilink")に「顔の貧相さが芸人辞める3日前みたい。[Mr.オクレ](../Page/Mr.オクレ.md "wikilink")さん以来の逸材」と言われた。
     活動休止後は「ヤッシー」としてピンで活動している。
 
 ## 経歴
@@ -48,13 +48,13 @@
 ## 芸風
 
   -
-    主に[漫才](../Page/漫才.md "wikilink")を主体に活動をしている。山口が[エディ・マーフィ](https://ja.wikipedia.org/wiki/エディ・マーフィ "wikilink")に扮して、昔話を外国映画のパロディで送る紙芝居コントも行っている。
+    主に[漫才](../Page/漫才.md "wikilink")を主体に活動をしている。山口が[エディ・マーフィ](../Page/エディ・マーフィ.md "wikilink")に扮して、昔話を外国映画のパロディで送る紙芝居コントも行っている。
 
 ## エピソード
 
   -
     二人だけで出掛けたのは二回だけで、一度目は中野にあるライブハウス中野twlにお笑いライブを観に行った事で、その時サシャナゴン（現[クールポコ](https://ja.wikipedia.org/wiki/クールポコ "wikilink")）が出演していた。
-    二度目は[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")のライブに行った事である。
+    二度目は[ケツメイシ](../Page/ケツメイシ.md "wikilink")のライブに行った事である。
     プライベートではツッコミの八島がボケている事が多く、ボケの山口がツッコミのような立場になっている事が多い。
     テレビ番組「[コンバット](../Page/コンバット.md "wikilink")」に出演した際には、コントで山口が[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")のものまねをしたり八島が女子高生役をしたりと、若い視聴者の間で人気になった。
     最近の彼らの代表ネタになっている紙芝居コントの紙芝居の絵は全て八島が描いており、描かれるキャラクターは元々八島の好きなものである。
@@ -94,11 +94,11 @@
   - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")（フジテレビ）キャッチコピーは「笑いしたたる」→「笑いもしたたる」
   - [爆笑ピンクカーペット](../Page/爆笑ピンクカーペット.md "wikilink")（フジテレビ）キャッチコピーは「笑いしたたる」
   - [銀幕会議](../Page/銀幕会議.md "wikilink")2（フジテレビ、2006年10月 - 2008年3月）
-  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）戦績1勝3敗　最高413KB
+  - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）戦績1勝3敗　最高413KB
   - [とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")（フジテレビ系）- 山口のみ
       -
         「[細かすぎて伝わらないモノマネ選手権](https://ja.wikipedia.org/wiki/博士と助手～細かすぎて伝わらないモノマネ選手権～ "wikilink")」第3回ファイナリスト
-  - [登龍門F](https://ja.wikipedia.org/wiki/登龍門F "wikilink")（フジテレビ）
+  - [登龍門F](../Page/登龍門F.md "wikilink")（フジテレビ）
   - [大人の自由時間](../Page/大人の自由時間.md "wikilink")（[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")）水曜レギュラー
   - [爆笑レッドシアター](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")（フジテレビ）「ホワイトシアター」出演
   - [あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）
@@ -106,16 +106,16 @@
       -
         発見\!さざなみ芸人「芸人×マニアックモノマネ」
   - [クロノス](../Page/クロノス_\(テレビ番組\).md "wikilink")「[護衛中](https://ja.wikipedia.org/wiki/クロノス_\(テレビ番組\)#第17回-第18回（護衛中） "wikilink")」（フジテレビ、2007年9月2日・9日）- 山口のみ
-  - [科学大好き土よう塾](../Page/科学大好き土よう塾.md "wikilink")（[NHK教育](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
+  - [科学大好き土よう塾](../Page/科学大好き土よう塾.md "wikilink")（[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")）
   - [爆笑一番](https://ja.wikipedia.org/wiki/爆笑一番 "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")、2009年4月24日 - 5月1日）
   - [爆笑ホワイトカーペット](https://ja.wikipedia.org/wiki/爆笑ホワイトカーペット "wikilink")（フジテレビ、2009年10月3日） - キャッチコピーは「笑いもしたたる」
   - [PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")（日本テレビ、2010年10月 - 12月）- 山口のみ月曜日レギュラー（隔週）
   - [新世紀ネタキング決定戦](https://ja.wikipedia.org/wiki/新世紀ネタキング決定戦 "wikilink")（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、2011年2月10日）
   - [アリなし〜アリケン★ゴールデンスタジアム〜](https://ja.wikipedia.org/wiki/アリなし〜アリケン★ゴールデンスタジアム〜 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2011年5月21日・5月28日）- 「ヘリクツ芸人最強タッグ決定戦」、山口のみ
   - [フジテレビからの〜\!](https://ja.wikipedia.org/wiki/フジテレビからの〜! "wikilink")（フジテレビ、2011年5月26日）- 『「[ONE PIECE](../Page/ONE_PIECE.md "wikilink")」を1分で説明』コーナー、山口のみ
-  - [ももち浜ストア](https://ja.wikipedia.org/wiki/ももち浜ストア "wikilink")（[テレビ西日本](../Page/テレビ西日本.md "wikilink")）　山口が火曜日のコーナー「町っと知りタイ！福岡アレコレ」を担当。
+  - [ももち浜ストア](../Page/ももち浜ストア.md "wikilink")（[テレビ西日本](../Page/テレビ西日本.md "wikilink")）　山口が火曜日のコーナー「町っと知りタイ！福岡アレコレ」を担当。
   - [タマリバ](https://ja.wikipedia.org/wiki/タマリバ "wikilink")（テレビ西日本）-　「街角気にリアル」コーナーのレポーター。山口のみ
-  - [めんたいワイド](https://ja.wikipedia.org/wiki/めんたいワイド "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）- 山口のみ
+  - [めんたいワイド](../Page/めんたいワイド.md "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")）- 山口のみ
   - [HKT48のごぼてん\!](https://ja.wikipedia.org/wiki/HKT48のごぼてん! "wikilink")（テレビ西日本）- 山口のみ
 
 ### ラジオ
@@ -123,8 +123,8 @@
   - [ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、2007年8月23日）
   - [爆笑スクランブル](http://ameblo.jp/baku-s)
   - [関根麻里のKUSUKUSU](https://ja.wikipedia.org/wiki/関根麻里のKUSUKUSU "wikilink")（[bayfm](../Page/ベイエフエム.md "wikilink")、2010年8月14日・21日）
-  - [ハイタッチ\!](https://ja.wikipedia.org/wiki/ハイタッチ!_\(ラジオ番組\) "wikilink")（[RKB毎日放送](https://ja.wikipedia.org/wiki/RKBラジオ "wikilink")、2012年10月10日 - ）- 毎週水曜日-金曜日22:00-23:50 山口のみ、[森田美位子](https://ja.wikipedia.org/wiki/森田美位子 "wikilink")とともにMCを務める。
-  - [たかちゃんの電リクじゃんけん](https://ja.wikipedia.org/wiki/たかちゃんの電リクじゃんけん "wikilink")（RKB毎日放送、2014年4月 - ） - 山口のみ、[山内孝徳](https://ja.wikipedia.org/wiki/山内孝徳 "wikilink")の後任。
+  - [ハイタッチ\!](https://ja.wikipedia.org/wiki/ハイタッチ!_\(ラジオ番組\) "wikilink")（[RKB毎日放送](../Page/RKBラジオ.md "wikilink")、2012年10月10日 - ）- 毎週水曜日-金曜日22:00-23:50 山口のみ、[森田美位子](https://ja.wikipedia.org/wiki/森田美位子 "wikilink")とともにMCを務める。
+  - [たかちゃんの電リクじゃんけん](https://ja.wikipedia.org/wiki/たかちゃんの電リクじゃんけん "wikilink")（RKB毎日放送、2014年4月 - ） - 山口のみ、[山内孝徳](../Page/山内孝徳.md "wikilink")の後任。
 
 ## 雑誌
 
@@ -154,7 +154,7 @@
   - [ガリバートンネル](https://ja.wikipedia.org/wiki/ガリバートンネル_\(お笑いコンビ\) "wikilink")
   - [ぼれろ](../Page/ぼれろ.md "wikilink")
   - [かたつむり](https://ja.wikipedia.org/wiki/かたつむり_\(お笑い\) "wikilink")
-  - [東京都出身の人物一覧](https://ja.wikipedia.org/wiki/東京都出身の人物一覧 "wikilink")
+  - [東京都出身の人物一覧](../Page/東京都出身の人物一覧.md "wikilink")
 
 ## 外部リンク
 

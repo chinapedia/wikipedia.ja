@@ -1,9 +1,9 @@
 > この記事は[Applause!](https://ja.wikipedia.org/wiki/Applause!)から翻訳されています。
 
 
-『**Applause\!〜週末の主役達へ〜**』（アプローズ\! しゅうまつのしゅやくたちへ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[JFN系列局で放送されていた](../Page/全国FM放送協議会.md "wikilink")[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")である。
+『**Applause\!〜週末の主役達へ〜**』（アプローズ\! しゅうまつのしゅやくたちへ）は、[2006年](../Page/2006年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[JFN系列局で放送されていた](../Page/全国FM放送協議会.md "wikilink")[ワイド番組](../Page/ワイド番組.md "wikilink")である。
 
-前番組『[SOMETHING](https://ja.wikipedia.org/wiki/SOMETHING "wikilink")』から引き続き[井門宗之](https://ja.wikipedia.org/wiki/井門宗之 "wikilink")がパーソナリティを務めていた。 には「賞賛」といった意味がある。
+前番組『[SOMETHING](../Page/SOMETHING.md "wikilink")』から引き続き[井門宗之](https://ja.wikipedia.org/wiki/井門宗之 "wikilink")がパーソナリティを務めていた。 には「賞賛」といった意味がある。
 
 ## 放送時間
 
@@ -78,7 +78,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Boy-FM）</p></td>
 <td><p>9:00 - 10:55</p></td>
 <td></td>
@@ -91,7 +91,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富山エフエム放送" title="wikilink">富山エフエム放送</a>（FMとやま）</p></td>
+<td><p><a href="../Page/富山エフエム放送.md" title="wikilink">富山エフエム放送</a>（FMとやま）</p></td>
 <td></td>
 <td></td>
 </tr>

@@ -1,7 +1,7 @@
 > この記事は[SoftBank 911SH](https://ja.wikipedia.org/wiki/SoftBank_911SH)から翻訳されています。
 
 
-**SoftBank 911SH**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")911SH）は[シャープ](../Page/シャープ.md "wikilink")が開発しソフトバンクモバイルが販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）11月25日発売。
+**SoftBank 911SH**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")911SH）は[シャープ](../Page/シャープ.md "wikilink")が開発しソフトバンクモバイルが販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末。[2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）11月25日発売。
 
 通称は「**AQUOSケータイ 2nd MODEL**」。
 
@@ -26,7 +26,7 @@
 
 ### ワンセグ
 
-  - [ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")連続再生時間は約5時間(TVアンテナ付きステレオイヤホンマイク使用時)。
+  - [ワンセグ](../Page/ワンセグ.md "wikilink")連続再生時間は約5時間(TVアンテナ付きステレオイヤホンマイク使用時)。
   - YAMAHAのオーディオチップ搭載により、サウンド効果の変更が可能。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
@@ -104,19 +104,19 @@
   - [カスタムスクリーン](https://ja.wikipedia.org/wiki/カスタムスクリーン "wikilink")
   - [バイリンガル](https://ja.wikipedia.org/wiki/バイリンガル "wikilink")
   - [QRコード](../Page/QRコード.md "wikilink")読み取り・作成
-  - ドキュメントビューア（[Microsoft Word](../Page/Microsoft_Word.md "wikilink")（.doc）・[Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")（.xls）・[Microsoft PowerPoint](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint "wikilink")（.ppt）・[PDFデータ](../Page/Portable_Document_Format.md "wikilink")（.pdf）のみ。）
+  - ドキュメントビューア（[Microsoft Word](../Page/Microsoft_Word.md "wikilink")（.doc）・[Microsoft Excel](https://ja.wikipedia.org/wiki/Microsoft_Excel "wikilink")（.xls）・[Microsoft PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")（.ppt）・[PDFデータ](../Page/Portable_Document_Format.md "wikilink")（.pdf）のみ。）
   - 顔認証機能
   - シークレットモード
   - **国際ローミング非対応**
 
-| 主な対応サービス ×=非対応                                                                           |
-| ---------------------------------------------------------------------------------------- |
-| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                                                |
-| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")                                 |
-|                                                                                          |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink")                    |
-| [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")                                |
+| 主な対応サービス ×=非対応                                                        |
+| --------------------------------------------------------------------- |
+| [S\!一斉トーク](../Page/S!一斉トーク.md "wikilink")                             |
+| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")              |
+|                                                                       |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [コンテンツおすすめメール](https://ja.wikipedia.org/wiki/コンテンツおすすめメール "wikilink") |
+| [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")             |
 
 ### Bluetooth対応プロファイル
 

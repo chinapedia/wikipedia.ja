@@ -1,7 +1,7 @@
 > この記事は[Madeth gray\'ll](https://ja.wikipedia.org/wiki/Madeth_gray\'ll)から翻訳されています。
 
 
-'''Madeth gray'll '''（マディス・グレイル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")所属。
+'''Madeth gray'll '''（マディス・グレイル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。[Matina](../Page/Matina.md "wikilink")所属。
 
 ## 解説
 
@@ -16,7 +16,7 @@
 <!-- end list -->
 
   -
-    De≠prive（後の[MIRAGEのYAYOI在籍](../Page/MIRAGE_\(バンド\).md "wikilink")）、DE=LUGEなどでの活動を経てMadeth gray'llを結成。Viergeに在籍していた際にはギターを担当しており、本人もバンドはギターから始めたと言っている\[4\]。De≠priveではKeiと名乗りDE=LUGEでは雅に変更するがMadeth gray'll結成時に再びKeiに戻し、途中翡翠に改名。Madeth gray'llでは全曲においてボーカル・全ての曲の作詞と主旋律を担当した（他メンバーの名がクレジットされている曲はカラオケ状態のものであり、そこに翡翠が旋律を載せるといった方法がとられていた）。[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")元社長の[KISAKI](../Page/KISAKI.md "wikilink")は、[SHOXX](../Page/SHOXX.md "wikilink")のインタビューで「翡翠はマティーナ時代の俺の右腕だった」と語っている。[DAS:VASSER](https://ja.wikipedia.org/wiki/DAS:VASSER "wikilink")の響兵とは、度々ツインボーカルでセッションを行っていた。影響を受けたボーカリストとして[B'z](../Page/B'z.md "wikilink")の[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")を挙げている\[5\]\[6\]。彼の歌詞は初期黒夢の[清春](../Page/清春.md "wikilink")やDeshabillzのSHUNの影響が垣間見えるグロテスクで過激なものであるが、時に悲しげで切ない歌詞を書くことがある。故郷である神戸で起こった[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")の経験によって歌詞の世界が広がり、ボーカリストを目指すようになったといい、「Lucifer」や「白昼夢の惨劇」などの曲はそれら翡翠の過去の体験に由来するとも言われている\[7\]\[8\]。Madeth gray'll解散後はHIZAKIらとともにSchwardix marvallyを結成するも2004年に解散。解散後は引退し現在は就職。2007年には妃＆関西貴族にボーカルでゲスト出演している。
+    De≠prive（後の[MIRAGEのYAYOI在籍](../Page/MIRAGE_\(バンド\).md "wikilink")）、DE=LUGEなどでの活動を経てMadeth gray'llを結成。Viergeに在籍していた際にはギターを担当しており、本人もバンドはギターから始めたと言っている\[4\]。De≠priveではKeiと名乗りDE=LUGEでは雅に変更するがMadeth gray'll結成時に再びKeiに戻し、途中翡翠に改名。Madeth gray'llでは全曲においてボーカル・全ての曲の作詞と主旋律を担当した（他メンバーの名がクレジットされている曲はカラオケ状態のものであり、そこに翡翠が旋律を載せるといった方法がとられていた）。[Matina](../Page/Matina.md "wikilink")元社長の[KISAKI](../Page/KISAKI.md "wikilink")は、[SHOXX](../Page/SHOXX.md "wikilink")のインタビューで「翡翠はマティーナ時代の俺の右腕だった」と語っている。[DAS:VASSER](../Page/DAS:VASSER.md "wikilink")の響兵とは、度々ツインボーカルでセッションを行っていた。影響を受けたボーカリストとして[B'z](../Page/B'z.md "wikilink")の[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")を挙げている\[5\]\[6\]。彼の歌詞は初期黒夢の[清春](../Page/清春.md "wikilink")やDeshabillzのSHUNの影響が垣間見えるグロテスクで過激なものであるが、時に悲しげで切ない歌詞を書くことがある。故郷である神戸で起こった[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")の経験によって歌詞の世界が広がり、ボーカリストを目指すようになったといい、「Lucifer」や「白昼夢の惨劇」などの曲はそれら翡翠の過去の体験に由来するとも言われている\[7\]\[8\]。Madeth gray'll解散後はHIZAKIらとともにSchwardix marvallyを結成するも2004年に解散。解散後は引退し現在は就職。2007年には妃＆関西貴族にボーカルでゲスト出演している。
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 <!-- end list -->
 
   -
-    Madeth gray'll以前にはメシアの肖像（学生時代のコピーバンド）、Lucifer（後のMIRAGEのAKIRAや初代ギター静流が在籍）などで活動していた。当初はギターを担当していたがMadeth gray'llではベースに転向。結成初期からバンドに在籍したメンバーでコアなサウンドはほとんど彼の作曲によるもの。転調、変拍子、不協和音を多用する彼の楽曲は翡翠の描くグロテスクな世界観を支えた。高校三年生のとき、雪那の家で聞かされた「黒装束の調べ」の原曲デモテープを聴いた翡翠は衝撃を受け、是非一緒にバンドをやりたいと願い出て、既にギター二人が決まっていたため、無理矢理ベースに転向してもらったと語っている\[10\]\[11\]\[12\]\[13\]。ベースのプレイ面ではKISAKIの影響を強く受けている\[14\]。他に影響を受けたアーティストとして[ROUAGE](https://ja.wikipedia.org/wiki/ROUAGE "wikilink")のRIKAを挙げており、また、翡翠と同様B'zがバンドを始めるきっかけだったと語っている\[15\]\[16\]。解散後、2001年春にQyubereを結成しボーカルとギターを担当する(雪那改めmasayuki)。エモ/スクリーモロックの関西代表格として2004年ごろからは全国的な活動をスタート。その後、masayukiの個人的な理由によりバンド活動が困難となり2006年に解散したが2010年5月Qyubereの再結成を表明マイスペースを立ち上げた。今後はスローペースだが継続的に活動を続ける模様。現在、結婚し子供が一人いる。また自身のブログでレビューを発表している。
+    Madeth gray'll以前にはメシアの肖像（学生時代のコピーバンド）、Lucifer（後のMIRAGEのAKIRAや初代ギター静流が在籍）などで活動していた。当初はギターを担当していたがMadeth gray'llではベースに転向。結成初期からバンドに在籍したメンバーでコアなサウンドはほとんど彼の作曲によるもの。転調、変拍子、不協和音を多用する彼の楽曲は翡翠の描くグロテスクな世界観を支えた。高校三年生のとき、雪那の家で聞かされた「黒装束の調べ」の原曲デモテープを聴いた翡翠は衝撃を受け、是非一緒にバンドをやりたいと願い出て、既にギター二人が決まっていたため、無理矢理ベースに転向してもらったと語っている\[10\]\[11\]\[12\]\[13\]。ベースのプレイ面ではKISAKIの影響を強く受けている\[14\]。他に影響を受けたアーティストとして[ROUAGE](../Page/ROUAGE.md "wikilink")のRIKAを挙げており、また、翡翠と同様B'zがバンドを始めるきっかけだったと語っている\[15\]\[16\]。解散後、2001年春にQyubereを結成しボーカルとギターを担当する(雪那改めmasayuki)。エモ/スクリーモロックの関西代表格として2004年ごろからは全国的な活動をスタート。その後、masayukiの個人的な理由によりバンド活動が困難となり2006年に解散したが2010年5月Qyubereの再結成を表明マイスペースを立ち上げた。今後はスローペースだが継続的に活動を続ける模様。現在、結婚し子供が一人いる。また自身のブログでレビューを発表している。
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@
 <!-- end list -->
 
   -
-    Burst（[LUNA SEAのコピーバンド](../Page/LUNA_SEA.md "wikilink")）、Distray（後のDのRuiza在籍）を経て1999年にMadeth gray'llに「十字架の結末〜第二の悲劇〜」への参加をきっかけに加入。バンドを始めた頃はベースを弾いており、大阪ではベースの募集が少ないためやむなくギターに転向した\[18\]。LUNA SEAのコピーをやっていたこともあり、好きなギタリストとしては[INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")をあげている\[19\]。加入前から第三者としてMadeth gray'llの独自な音楽性に憧れを抱いていたため、アルバム「Lucifer」作成時に、いくつかの楽曲がポップな、いわゆる一般向けになったことに反発。アレンジのやり直しを要求した\[20\]。自身も「黒死蝶ノ花束」「「M」的被虐症候群」を作曲し、これまでのMadeth gray'llの音楽性を踏襲しつつ彼の個性を加えた楽曲を提供した\[21\]。
+    Burst（[LUNA SEAのコピーバンド](../Page/LUNA_SEA.md "wikilink")）、Distray（後のDのRuiza在籍）を経て1999年にMadeth gray'llに「十字架の結末〜第二の悲劇〜」への参加をきっかけに加入。バンドを始めた頃はベースを弾いており、大阪ではベースの募集が少ないためやむなくギターに転向した\[18\]。LUNA SEAのコピーをやっていたこともあり、好きなギタリストとしては[INORAN](../Page/INORAN.md "wikilink")、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")をあげている\[19\]。加入前から第三者としてMadeth gray'llの独自な音楽性に憧れを抱いていたため、アルバム「Lucifer」作成時に、いくつかの楽曲がポップな、いわゆる一般向けになったことに反発。アレンジのやり直しを要求した\[20\]。自身も「黒死蝶ノ花束」「「M」的被虐症候群」を作曲し、これまでのMadeth gray'llの音楽性を踏襲しつつ彼の個性を加えた楽曲を提供した\[21\]。
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@
 <!-- end list -->
 
   -
-    XXXというXのコピーバンドで活動していた。サポートドラマーとして参加した後、1999年10月正式加入。影響を受けたドラマーとしてX JAPANの[YOSHIKI](../Page/YOSHIKI.md "wikilink")、他にLUNA SEAの[真矢を挙げている](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")\[23\]。X JAPANの[hide](https://ja.wikipedia.org/wiki/hide "wikilink")の熱狂的ファンであり、[hideミュージアム](https://ja.wikipedia.org/wiki/hideミュージアム "wikilink")で行われたMatina主催ライブでは、一度きりであったがhideのコスプレ衣装で登場し、唄も披露している。解散後はBrilliant Sugar（セッションバンド）でライブ活動をしていたが、2002年にボーカルのマコトと共に[ドレミ團](../Page/ドレミ團.md "wikilink")を結成、名前の漢字を零華に改め、現在は東京に拠点を移して活動中。何度かドレミ團のライブでMadeth gray'll時代の映像を放映した。シャープで丹精な顔立ちに似合わぬ、本人曰く「上半身デブ」的な体格の良さと\[24\]、赤を基調とした奇抜な独自のファッションセンスで、ファンの度肝を抜くこともしばしあった。
+    XXXというXのコピーバンドで活動していた。サポートドラマーとして参加した後、1999年10月正式加入。影響を受けたドラマーとしてX JAPANの[YOSHIKI](../Page/YOSHIKI.md "wikilink")、他にLUNA SEAの[真矢を挙げている](../Page/真矢_\(ドラマー\).md "wikilink")\[23\]。X JAPANの[hide](https://ja.wikipedia.org/wiki/hide "wikilink")の熱狂的ファンであり、[hideミュージアム](https://ja.wikipedia.org/wiki/hideミュージアム "wikilink")で行われたMatina主催ライブでは、一度きりであったがhideのコスプレ衣装で登場し、唄も披露している。解散後はBrilliant Sugar（セッションバンド）でライブ活動をしていたが、2002年にボーカルのマコトと共に[ドレミ團](../Page/ドレミ團.md "wikilink")を結成、名前の漢字を零華に改め、現在は東京に拠点を移して活動中。何度かドレミ團のライブでMadeth gray'll時代の映像を放映した。シャープで丹精な顔立ちに似合わぬ、本人曰く「上半身デブ」的な体格の良さと\[24\]、赤を基調とした奇抜な独自のファッションセンスで、ファンの度肝を抜くこともしばしあった。
 
 <!-- end list -->
 
@@ -56,12 +56,12 @@
 
 <!-- end list -->
 
-  - **右狂** （うきょう） 5月3日生まれ [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身
+  - **右狂** （うきょう） 5月3日生まれ [福岡県](../Page/福岡県.md "wikilink")出身
 
 <!-- end list -->
 
   -
-    加入前はマティーナ内のバンド、オルゴールに在籍していた。元ギター・歪の死去、静流の脱退に伴い1999年より加入。「十字架の結末〜第二の悲劇〜」「MOTHER COMPLEX」などで参加している。脱退、Madeth gray'll解散後は翡翠と共にJerry Berryを結成するも活動期間は短く、その後都内で女性ボーカルのバンド「アカシア」のギタリストとして活動していた。2017年からU.K.の名で[ナイトメアのボーカル](https://ja.wikipedia.org/wiki/ナイトメア_\(バンド\) "wikilink")[YOMI](https://ja.wikipedia.org/wiki/YOMI "wikilink")のソロ・プロジェクト『TAKE NO BREAK』のギタリストとして活動していたが、2019年2月に脱退。
+    加入前はマティーナ内のバンド、オルゴールに在籍していた。元ギター・歪の死去、静流の脱退に伴い1999年より加入。「十字架の結末〜第二の悲劇〜」「MOTHER COMPLEX」などで参加している。脱退、Madeth gray'll解散後は翡翠と共にJerry Berryを結成するも活動期間は短く、その後都内で女性ボーカルのバンド「アカシア」のギタリストとして活動していた。2017年からU.K.の名で[ナイトメアのボーカル](../Page/ナイトメア_\(バンド\).md "wikilink")[YOMI](../Page/YOMI.md "wikilink")のソロ・プロジェクト『TAKE NO BREAK』のギタリストとして活動していたが、2019年2月に脱退。
 
 <!-- end list -->
 

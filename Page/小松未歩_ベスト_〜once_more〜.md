@@ -1,11 +1,11 @@
 > この記事は[  once more](https://ja.wikipedia.org/wiki/__once_more)から翻訳されています。
 
 
-『**小松未歩 ベスト 〜once more〜**』（こまつみほ ベスト ワンス モア）は、[小松未歩](../Page/小松未歩.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。2006年11月22日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はGZCA-5096〜GZCA-5097。
+『**小松未歩 ベスト 〜once more〜**』（こまつみほ ベスト ワンス モア）は、[小松未歩](../Page/小松未歩.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。2006年11月22日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-5096〜GZCA-5097。
 
 ## 内容
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発売された自身初のベストアルバム。
+  - [2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発売された自身初のベストアルバム。
   - デビュー曲「[謎](../Page/謎_\(曲\).md "wikilink")」から「[願い事ひとつだけ](../Page/願い事ひとつだけ.md "wikilink")」「[チャンス](../Page/チャンス_\(小松未歩の曲\).md "wikilink")」「[氷の上に立つように](../Page/氷の上に立つように.md "wikilink")」などのヒット作、そして最新シングル「[恋になれ...](../Page/恋になれ....md "wikilink")」までの全シングル曲がリリース順に収録されている他、新曲「happy ending」も収録されている。全シングル曲を収録したため、ディスク2枚組の仕様となっている。
   - オリコンデイリーチャートにおいて初登場18位を記録。これは[TVスポット](../Page/コマーシャルメッセージ.md "wikilink")（オフィシャルによると全3パターン存在する）でのプロモーションが功を奏したと考えられ、近年デイリーチャートでのオリコン20位以内にランクインしなかったことから考慮すれば異例なことである。ウィークリーチャートでは初登場21位を記録した。
   - また、エッセイ集の第2弾『ヘンな物さし2。』もこの作品と同時発売している。
@@ -26,7 +26,7 @@
 2.  **[輝ける星](../Page/輝ける星.md "wikilink")**　編曲:古井弘人
       -
         2ndシングル。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列テレビアニメ『[忍ペンまん丸](../Page/忍ペンまん丸.md "wikilink")』エンディングテーマ。\[2\]
-        出版者:[テレビ朝日ミュージック](https://ja.wikipedia.org/wiki/テレビ朝日ミュージック "wikilink")、ギザミュージック（スプーンフルミュージック）
+        出版者:[テレビ朝日ミュージック](../Page/テレビ朝日ミュージック.md "wikilink")、ギザミュージック（スプーンフルミュージック）
 3.  **[願い事ひとつだけ](../Page/願い事ひとつだけ.md "wikilink")**　編曲:古井弘人
       -
         3rdシングル。読売テレビ制作・日本テレビ系列テレビアニメ『名探偵コナン』エンディングテーマ。
@@ -35,8 +35,8 @@
       -
         4thシングル。
         [フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")『[えすえふ](https://ja.wikipedia.org/wiki/えすえふ "wikilink")』エンディングテーマ（2代目）。
-        [NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[水曜ドラマシリーズ](../Page/水曜ドラマ_\(NHK\).md "wikilink")『[おじさん改造講座](https://ja.wikipedia.org/wiki/おじさん改造講座#テレビドラマ "wikilink")』主題歌。
-        [KBS京都制作](../Page/京都放送.md "wikilink")・[UHF](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")34局ネット[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[J-ROCK ARTIST BEST50](https://ja.wikipedia.org/wiki/J-ROCK_ARTIST_COUNT_DOWN_50 "wikilink")』オープニングテーマ。
+        [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")[水曜ドラマシリーズ](../Page/水曜ドラマ_\(NHK\).md "wikilink")『[おじさん改造講座](https://ja.wikipedia.org/wiki/おじさん改造講座#テレビドラマ "wikilink")』主題歌。
+        [KBS京都制作](../Page/京都放送.md "wikilink")・[UHF](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")34局ネット[音楽番組](../Page/音楽番組.md "wikilink")『[J-ROCK ARTIST BEST50](../Page/J-ROCK_ARTIST_COUNT_DOWN_50.md "wikilink")』オープニングテーマ。
         出版者:ギザミュージック（スプーンフルミュージック）
 5.  **[チャンス](../Page/チャンス_\(小松未歩の曲\).md "wikilink")**　編曲:古井弘人
       -
@@ -52,7 +52,7 @@
         出版者:テレビ朝日ミュージック、ギザミュージック（スプーンフルミュージック）
 8.  **[最短距離で](../Page/最短距離で.md "wikilink")**　編曲:古井弘人
       -
-        8thシングル。[TBS系列情報バラエティ番組](../Page/TBSテレビ.md "wikilink")『[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")』オープニングテーマ。
+        8thシングル。[TBS系列情報バラエティ番組](../Page/TBSテレビ.md "wikilink")『[ランク王国](../Page/ランク王国.md "wikilink")』オープニングテーマ。
         出版者:[日音](../Page/日音.md "wikilink")、ギザミュージック
 9.  **[風がそよぐ場所](../Page/風がそよぐ場所.md "wikilink")**　編曲:古井弘人
       -
@@ -92,15 +92,15 @@
 2.  **[dance](../Page/Dance_\(小松未歩の曲\).md "wikilink")**　編曲:大賀好修
       -
         16thシングル。日本テレビ系列『C/Wラブ（カップリングラブ）』エンディングテーマ。
-        出版者:[日本テレビ音楽](https://ja.wikipedia.org/wiki/日本テレビ音楽 "wikilink")
-3.  **[mysterious love](https://ja.wikipedia.org/wiki/mysterious_love "wikilink")**　編曲:[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        出版者:[日本テレビ音楽](../Page/日本テレビ音楽.md "wikilink")
+3.  **[mysterious love](https://ja.wikipedia.org/wiki/mysterious_love "wikilink")**　編曲:[徳永暁人](../Page/徳永暁人.md "wikilink")
       -
         17thシングル。日本テレビ系列\[3\][番宣バラエティ番組](../Page/番宣番組.md "wikilink")『[TVおじゃマンボウ](../Page/TVおじゃマンボウ.md "wikilink")』エンディングテーマ。
         出版者:日本テレビ音楽
 4.  **[ふたりの願い](../Page/ふたりの願い.md "wikilink")**　編曲:[小林哲](../Page/小林哲.md "wikilink")
       -
         18thシングル。シングルではステレオ収録されているのに対し、本アルバムではモノラル収録となっている。
-        日本テレビ系列音楽番組『[AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』AX POWER PLAY \#026（オープニングテーマ）
+        日本テレビ系列音楽番組『[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")』AX POWER PLAY \#026（オープニングテーマ）
         出版者:日本テレビ音楽
 5.  **[私さがし](../Page/私さがし.md "wikilink")**　編曲:徳永暁人
       -
@@ -120,19 +120,19 @@
         出版者:ギザミュージック
 9.  **[I 〜誰か...](../Page/I_〜誰か....md "wikilink")**　編曲:古井弘人
       -
-        23rdシングル。日本テレビ系列音楽バラエティ番組『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2004年10月度POWER PLAY。\[4\]
+        23rdシングル。日本テレビ系列音楽バラエティ番組『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2004年10月度POWER PLAY。\[4\]
         出版者:日本テレビ音楽
 10. **[I just wanna hold you tight](../Page/I_just_wanna_hold_you_tight.md "wikilink")**　編曲:小林哲
       -
         24thシングル。[テレビ東京系列テレビアニメ](https://ja.wikipedia.org/wiki/TXN "wikilink")『[メルヘヴン](https://ja.wikipedia.org/wiki/MAR_\(漫画\)#アニメ（メルヘヴン） "wikilink")』エンディングテーマ。
-        出版者:[テレビ東京ミュージック](https://ja.wikipedia.org/wiki/テレビ東京ミュージック "wikilink")
+        出版者:[テレビ東京ミュージック](../Page/テレビ東京ミュージック.md "wikilink")
 11. **[あなた色](../Page/あなた色.md "wikilink")**　編曲:古井弘人
       -
         25thシングル。[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")映画番組『[映画天国 チネ★パラ](https://ja.wikipedia.org/wiki/映画楽園_〜シネパラ〜 "wikilink")』グランドオープニングテーマ。
         出版者:日本テレビ音楽
 12. **[恋になれ...](../Page/恋になれ....md "wikilink")**　編曲:大賀好修
       -
-        26thシングル。TBS系列バラエティ番組『[所萬遊記](https://ja.wikipedia.org/wiki/所萬遊記 "wikilink")』エンディングテーマ。
+        26thシングル。TBS系列バラエティ番組『[所萬遊記](../Page/所萬遊記.md "wikilink")』エンディングテーマ。
         出版者:日音、ギザミュージック
 13. **happy ending**　編曲:古井弘人
       -
@@ -146,7 +146,7 @@
   - [古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")（[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
   - [大賀好修](../Page/大賀好修.md "wikilink")（[nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")・[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")）
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）
   - [小林哲](../Page/小林哲.md "wikilink")
 
 ## 外部リンク

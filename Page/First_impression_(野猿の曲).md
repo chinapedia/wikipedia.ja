@@ -17,7 +17,7 @@
 
 1.  First impression
       -
-        作詞：[秋元康](../Page/秋元康.md "wikilink") / 作曲・編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+        作詞：[秋元康](../Page/秋元康.md "wikilink") / 作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")
         2ndアルバム『[evolution](https://ja.wikipedia.org/wiki/evolution_\(野猿のアルバム\) "wikilink")』、ベストアルバム『[撤収](../Page/撤収_\(アルバム\).md "wikilink")』に収録
 2.  泳げない魚
       -

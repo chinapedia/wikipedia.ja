@@ -1,7 +1,7 @@
 > この記事は[Milky Season](https://ja.wikipedia.org/wiki/Milky_Season)から翻訳されています。
 
 
-『**Milky Season**』（ミルキィ・シーズン ）は、『[電撃G'sマガジン](https://ja.wikipedia.org/wiki/電撃G'sマガジン "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）で連載された[読者参加企画](https://ja.wikipedia.org/wiki/読者参加型ゲーム "wikilink")。公式略称は「**ミルキィ**」。
+『**Milky Season**』（ミルキィ・シーズン ）は、『[電撃G'sマガジン](https://ja.wikipedia.org/wiki/電撃G'sマガジン "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）で連載された[読者参加企画](../Page/読者参加型ゲーム.md "wikilink")。公式略称は「**ミルキィ**」。
 
 ## ストーリー
 
@@ -58,7 +58,7 @@
     活発で行動的。とにかく体を動かすことが大好きなアウトドア派。ちなみに怪談好き。
     ゲーム版では、序盤に管理人（主人公）が「スポーツはそれなりにできる」旨の発言をしておかないと、早々に攻略不可になってしまう。
   - 千浦真林（ちうら まりん）
-    声 - [有島モユ](https://ja.wikipedia.org/wiki/有島モユ "wikilink")
+    声 - [有島モユ](../Page/有島モユ.md "wikilink")
     めばえ寮201号室に住む中学2年生。血液型：B型で誕生日は[3月23日](../Page/3月23日.md "wikilink")、身長：150cm
     帰国子女で今ひとつ日本の習慣に慣れていないが、能天気でマイペース。昼寝が趣味で、どこでも寝てしまう。海外生活の経験から話題も豊富で、寮の人気者。
     食欲旺盛でもあり、寝てばかりなのにカロリーが何処に消えているのか不可思議千万。
@@ -74,7 +74,7 @@
     小学生にしか見えないほど、容姿も性格も幼い。多数のぬいぐるみを溺愛していて、出かけるときはうさぎのぬいぐるみ「ゴンゾウくん」を手放さない。語尾を「でし」と結ぶ癖がある。
     他にも「ジンゴロウくん」「ライゾウくん」などの古豪めいた名前のぬいぐるみを多数持っている。なお一人称はうさみゅん。
   - 蘭咲礼香（らんざき れいか）
-    声 - [満仲由紀子](https://ja.wikipedia.org/wiki/満仲由紀子 "wikilink")
+    声 - [満仲由紀子](../Page/満仲由紀子.md "wikilink")
     めばえ寮302号室に住む高校2年生。血液型：O型で誕生日は[11月11日](../Page/11月11日.md "wikilink")、身長：157cm
     大人っぽく、自分が魅力的なことを自覚していて、周囲を困らせることも。常に自分が話題の中心になっていないと気がすまない。お風呂が趣味。
     付き合いの良い管理人を「召し使い」呼ばわりし下僕のように扱き使う様は実に楽しげ。実はお化けが苦手。一人称はアタシ。
@@ -94,7 +94,7 @@
     IQ300の超天才児でタチバナコンツェルンの社長令嬢。すでにいくつもの発明で特許を取得している。物静かで物事を理路整然と考えるが、何でも研究の対象にしたがる。
     ラボとして改造した自室に篭りがちで世俗のレジャーなどには疎い。
   - 森下潤未（もりした うるみ）
-    声 - [岡本麻見](https://ja.wikipedia.org/wiki/岡本麻見 "wikilink")
+    声 - [岡本麻見](../Page/岡本麻見.md "wikilink")
     つぼみ寮202号室に住む小学3年生。血液型：O型で誕生日は[2月2日](../Page/2月2日.md "wikilink")、身長：125cm
     寮生では最年少。ちっちゃくてかわいいのだが、人見知りが激しくすぐ泣いてしまう。カナヅチ。
     管理人との一年を通して大きく成長したようで、最後には笑顔も見せるようになった。一人称はうるみ。
@@ -115,7 +115,7 @@
 ### 主人公
 
   - 管理人
-    声 - [高橋裕吾](https://ja.wikipedia.org/wiki/高橋裕吾 "wikilink")（ドラマCD版）
+    声 - [高橋裕吾](../Page/高橋裕吾.md "wikilink")（ドラマCD版）
     本作の主人公。今春から、父親が経営する早乙女女子大付属の女子寮管理人を勤めることとなった。温和な性格で人当りが良い。自然や動物に親しむことを好み、風流・風情を解する。また、賑やかなイベントやノリの良い会話を得意とする一面もある。一人称は僕。
 
 ## ゲーム版
@@ -138,8 +138,8 @@
   - キャラクターデザイン：[射尾卓弥](https://ja.wikipedia.org/wiki/射尾卓弥 "wikilink")
   - オープニングテーマ：「Milky Season」
       -
-        作詞作曲：[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")
-        ボーカル：[満仲由紀子](https://ja.wikipedia.org/wiki/満仲由紀子 "wikilink")
+        作詞作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")
+        ボーカル：[満仲由紀子](../Page/満仲由紀子.md "wikilink")
 
 ## CD
 
@@ -148,11 +148,11 @@
 
 <!-- end list -->
 
-  - Vol.1 蘭咲礼香&宇佐美ゆん（[満仲由紀子](https://ja.wikipedia.org/wiki/満仲由紀子 "wikilink")&[金田朋子](../Page/金田朋子.md "wikilink")）
-  - Vol.2 立花真白&森下潤未（[今野宏美](../Page/今野宏美.md "wikilink")&[岡本麻見](https://ja.wikipedia.org/wiki/岡本麻見 "wikilink")）
+  - Vol.1 蘭咲礼香&宇佐美ゆん（[満仲由紀子](../Page/満仲由紀子.md "wikilink")&[金田朋子](../Page/金田朋子.md "wikilink")）
+  - Vol.2 立花真白&森下潤未（[今野宏美](../Page/今野宏美.md "wikilink")&[岡本麻見](../Page/岡本麻見.md "wikilink")）
   - Vol.3 綾瀬美樹&野々花沙織（[小倉文江](https://ja.wikipedia.org/wiki/小倉文江 "wikilink")&[陰山真寿美](../Page/陰山真寿美.md "wikilink")）
   - Vol.4 進藤かすみ&遠山さちえ（[葉崎かおり](https://ja.wikipedia.org/wiki/葉崎かおり "wikilink")&[牧島有希](../Page/牧島有希.md "wikilink")）
-  - Vol.5 千浦真林&星波ちはや（[有島モユ](https://ja.wikipedia.org/wiki/有島モユ "wikilink")&[西口有香](../Page/西口有香.md "wikilink")）
+  - Vol.5 千浦真林&星波ちはや（[有島モユ](../Page/有島モユ.md "wikilink")&[西口有香](../Page/西口有香.md "wikilink")）
   - Vol.6 With Collection Box 綾瀬美緒&藤原樹（[小倉文江](https://ja.wikipedia.org/wiki/小倉文江 "wikilink")&[常見良美](https://ja.wikipedia.org/wiki/常見良美 "wikilink")）
 
 <!-- end list -->

@@ -10,7 +10,7 @@
 祝日は放送を休止。代わりに『[TXNニュース](../Page/TXNニュース.md "wikilink")』（7:10 - 7:20）が放送されていた。
 
   - 4:45 - 6:15 『NEWSヘッドライン』関東ローカル（5:30を区切りにして放送）
-  - 6:15 - 6:30 『[マーケットLIVE](https://ja.wikipedia.org/wiki/マーケットLIVE "wikilink")』位置づけとしては別番組
+  - 6:15 - 6:30 『[マーケットLIVE](../Page/マーケットLIVE.md "wikilink")』位置づけとしては別番組
   - 6:30 - 7:20 『NEWSヘッドライン』全国ネット
 
 ## キャスター
@@ -32,7 +32,7 @@
   - 日本テレビ『[あさ天5](https://ja.wikipedia.org/wiki/あさ天5 "wikilink")』（5:00 - 5:59）
   - テレビ朝日『[早起き一番\!天気\&NEWS](https://ja.wikipedia.org/wiki/早起き一番!天気&NEWS "wikilink")』（4:45 - 5:55→4:45 - 5:54）
   - TBSテレビ『[お天気クジラ](../Page/お天気クジラ.md "wikilink")』（5:00 - 6:00→4:45 - 6:00）
-  - フジテレビ『[BBCワールドニュース](https://ja.wikipedia.org/wiki/BBCニュース "wikilink")』（5:00 - 5:30）／『[めざまし天気](../Page/めざまし天気.md "wikilink")』（5:30 - 5:55）
+  - フジテレビ『[BBCワールドニュース](../Page/BBCニュース.md "wikilink")』（5:00 - 5:30）／『[めざまし天気](../Page/めざまし天気.md "wikilink")』（5:30 - 5:55）
 
 ## 当番組終了後のテレビ東京における早朝の帯番組
 

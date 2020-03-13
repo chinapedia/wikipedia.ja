@@ -1,7 +1,7 @@
 > この記事は[GM](https://ja.wikipedia.org/wiki/GM)から翻訳されています。
 
 
-**GMシボレー店**は、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")の日本における[シボレー](https://ja.wikipedia.org/wiki/シボレー "wikilink")ブランド車の正規ディーラーのかつての名称であった。現在は「[キャデラック](../Page/キャデラック.md "wikilink")○○」「シボレー○○」と、ブランド毎に拠点名を分けている。
+**GMシボレー店**は、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")の日本における[シボレー](../Page/シボレー.md "wikilink")ブランド車の正規ディーラーのかつての名称であった。現在は「[キャデラック](../Page/キャデラック.md "wikilink")○○」「シボレー○○」と、ブランド毎に拠点名を分けている。
 
 ## 概要
 
@@ -25,17 +25,17 @@
 （2020年2月現在)
 
   - [カマロ](../Page/シボレー・カマロ.md "wikilink")
-  - [コルベット](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")\[6\]
+  - [コルベット](../Page/シボレー・コルベット.md "wikilink")\[6\]
 
 ### かつての取り扱い車種
 
   - [トレイルブレイザー](../Page/シボレー・トレイルブレイザー.md "wikilink")
   - [ブレイザー](https://ja.wikipedia.org/wiki/シボレー・ブレイザー "wikilink")
-  - [アストロ](https://ja.wikipedia.org/wiki/シボレー・アストロ "wikilink")
+  - [アストロ](../Page/シボレー・アストロ.md "wikilink")
   - [ソニック](https://ja.wikipedia.org/wiki/シボレー・ソニック "wikilink")
   - [MW](../Page/シボレー・MW.md "wikilink")
-  - [クルーズ](https://ja.wikipedia.org/wiki/シボレー・クルーズ "wikilink")
-  - [オプトラ](https://ja.wikipedia.org/wiki/シボレー・オプトラ "wikilink")
+  - [クルーズ](../Page/シボレー・クルーズ.md "wikilink")
+  - [オプトラ](../Page/シボレー・オプトラ.md "wikilink")
   - [キャプティバ](../Page/シボレー・キャプティバ.md "wikilink")
 
 ## 脚注
@@ -47,6 +47,6 @@
 1.  「GMオートワールド店」は日本を含むアジア圏にて展開されていたもので、インドネシアのGMオートワールド店ではスバル車の取扱いがあった。
 2.  MW・クルーズ・オプトラについてはヤナセとして扱いはなかったが、これらの販売店で取り扱いがあった。
 3.  2007年に再びGMJへ移管が行われている。
-4.  それまでの間、GMJが[オペル](../Page/オペル.md "wikilink")・キャデラック・[サーブ](https://ja.wikipedia.org/wiki/サーブ "wikilink")・[ハマー](https://ja.wikipedia.org/wiki/ハマー "wikilink")の輸入権を手にして以降、既存のGMシボレー店での新規取り扱いや新規店舗開設を進めたが、後にキャデラックとシボレーの２ブランド併売に落ち着く。
+4.  それまでの間、GMJが[オペル](../Page/オペル.md "wikilink")・キャデラック・[サーブ](https://ja.wikipedia.org/wiki/サーブ "wikilink")・[ハマー](../Page/ハマー.md "wikilink")の輸入権を手にして以降、既存のGMシボレー店での新規取り扱いや新規店舗開設を進めたが、後にキャデラックとシボレーの２ブランド併売に落ち着く。
 5.  これらの店舗においては三井物産オートモーティブの輸入による[HHR](../Page/シボレー・HHR.md "wikilink")、[トラバース](https://ja.wikipedia.org/wiki/シボレー・トラバース "wikilink")、[タホ](../Page/シボレー・タホ.md "wikilink")、[シルバラードが併売されていた](https://ja.wikipedia.org/wiki/シボレー・シルバラード "wikilink")。
 6.  GMシボレー店として取扱いが無かった時期（ヤナセ専売）・原則としてキャディラックディーラーの取り扱いとなっていた時期があった。現在は全店取扱い。

@@ -1,7 +1,7 @@
 > この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
 
 
-**M・ナイト・シャマラン**（**M. Night Shyamalan**, 本名: Manoj Nelliattu Shyamalan, [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[8月6日](../Page/8月6日.md "wikilink") - ）は、インド系アメリカ人の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")である。
+**M・ナイト・シャマラン**（**M. Night Shyamalan**, 本名: Manoj Nelliattu Shyamalan, [1970年](../Page/1970年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink") - ）は、インド系アメリカ人の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")である。
 
 2008年、インド政府により[パドマ・シュリー勲章](https://ja.wikipedia.org/wiki/パドマ・シュリー勲章 "wikilink")が授与された\[1\]。
 
@@ -17,13 +17,13 @@
 
 1995年に第2作『[翼のない天使](https://ja.wikipedia.org/wiki/翼のない天使 "wikilink")』を脚本・監督したが、1998年まで公開されなかった\[13\]。彼の両親はこの映画ではアソシエイト・プロデューサーであった。映画は限定公開され、600万ドルの製作費に対し、興行収入30万5704ドルを記録した\[14\]。また同年シャマランは[グレッグ・ブルッカー](https://ja.wikipedia.org/wiki/グレッグ・ブルッカー "wikilink")と共同で『[スチュアート・リトル](../Page/スチュアート・リトル.md "wikilink")』の脚本を執筆した。
 
-1999年には脚本・監督を務めた『[シックス・センス](../Page/シックス・センス.md "wikilink")』が商業的に成功をおさめ、[アカデミー賞](../Page/アカデミー賞.md "wikilink")では[作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")、[監督賞](../Page/アカデミー監督賞.md "wikilink")、[脚本賞にノミネートされ](https://ja.wikipedia.org/wiki/アカデミー脚本賞 "wikilink")、国際的な知名度を上げた。2000年公開の『[アンブレイカブル](https://ja.wikipedia.org/wiki/アンブレイカブル "wikilink")』、2002年の『[サイン](../Page/サイン_\(映画\).md "wikilink")』もまた興行的、批評的にも成功した。しかし監督6作目の『[ヴィレッジ](https://ja.wikipedia.org/wiki/ヴィレッジ_\(映画\) "wikilink")』（2004年）が賛否両論の評価となり\[15\]、続く『[レディ・イン・ザ・ウォーター](../Page/レディ・イン・ザ・ウォーター.md "wikilink")』（2006年）は製作費7500万ドルを回収できずに興行的にも失敗し\[16\]、評論家にも酷評され\[17\]、さらにシャマランは[第27回ゴールデンラズベリー賞](../Page/第27回ゴールデンラズベリー賞.md "wikilink")で最低監督賞と最低助演男優賞を受賞した。2008年の『[ハプニング](../Page/ハプニング_\(映画\).md "wikilink")』は興行的に成功するも\[18\]、批評家の反応はまた低迷した\[19\]。
+1999年には脚本・監督を務めた『[シックス・センス](../Page/シックス・センス.md "wikilink")』が商業的に成功をおさめ、[アカデミー賞](../Page/アカデミー賞.md "wikilink")では[作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")、[監督賞](../Page/アカデミー監督賞.md "wikilink")、[脚本賞にノミネートされ](../Page/アカデミー脚本賞.md "wikilink")、国際的な知名度を上げた。2000年公開の『[アンブレイカブル](../Page/アンブレイカブル.md "wikilink")』、2002年の『[サイン](../Page/サイン_\(映画\).md "wikilink")』もまた興行的、批評的にも成功した。しかし監督6作目の『[ヴィレッジ](../Page/ヴィレッジ_\(映画\).md "wikilink")』（2004年）が賛否両論の評価となり\[15\]、続く『[レディ・イン・ザ・ウォーター](../Page/レディ・イン・ザ・ウォーター.md "wikilink")』（2006年）は製作費7500万ドルを回収できずに興行的にも失敗し\[16\]、評論家にも酷評され\[17\]、さらにシャマランは[第27回ゴールデンラズベリー賞](../Page/第27回ゴールデンラズベリー賞.md "wikilink")で最低監督賞と最低助演男優賞を受賞した。2008年の『[ハプニング](../Page/ハプニング_\(映画\).md "wikilink")』は興行的に成功するも\[18\]、批評家の反応はまた低迷した\[19\]。
 
 2010年には[ニコロデオンのテレビアニメ](../Page/ニコロデオン_\(TVチャンネル\).md "wikilink")『[アバター 伝説の少年アン](https://ja.wikipedia.org/wiki/アバター_伝説の少年アン "wikilink")』を原作とした『[エアベンダー](https://ja.wikipedia.org/wiki/エアベンダー "wikilink")』が公開される。これは今までオリジナル脚本を書いてきたシャマランにとって初めての脚色の仕事となった。『エアベンダー』の興行収入は全世界で3億ドルを超えたが\[20\]、[Rotten Tomatoesでの批評家支持率は](https://ja.wikipedia.org/wiki/Rotten_Tomatoes "wikilink")6%でシャマランの作品では過去最低の数値となった\[21\]。また同作品は[第31回ゴールデンラズベリー賞](https://ja.wikipedia.org/wiki/第31回ゴールデンラズベリー賞 "wikilink")では最低作品賞、最低監督賞、最低脚本賞を含む5部門を受賞した\[22\]。
 
 2008年7月、シャマランは[メディア・ライツ・キャピタル](https://ja.wikipedia.org/wiki/メディア・ライツ・キャピタル "wikilink")と共同でナイト・クロニクルズを立ち上げた。シャマランは監督はせずにプロデュースに専念し\[23\]、2010年に第1作『[デビル](https://ja.wikipedia.org/wiki/デビル_\(2010年の映画\) "wikilink")』が公開された。この映画はシャマランの原案をブライアン・ネルソンが脚本化し、[ジョン・エリック・ドゥードル](https://ja.wikipedia.org/wiki/ジョン・エリック・ドゥードル "wikilink")が監督した\[24\]。
 
-2013年5月には[ジェイデン・スミス](https://ja.wikipedia.org/wiki/ジェイデン・スミス "wikilink")と[ウィル・スミス](https://ja.wikipedia.org/wiki/ウィル・スミス "wikilink")主演の『[アフター・アース](https://ja.wikipedia.org/wiki/アフター・アース "wikilink")』が公開された。シャマランはこの作品で初めてデジタルでの映画撮影を行った。\[25\]
+2013年5月には[ジェイデン・スミス](https://ja.wikipedia.org/wiki/ジェイデン・スミス "wikilink")と[ウィル・スミス](../Page/ウィル・スミス.md "wikilink")主演の『[アフター・アース](https://ja.wikipedia.org/wiki/アフター・アース "wikilink")』が公開された。シャマランはこの作品で初めてデジタルでの映画撮影を行った。\[25\]
 
 2014年1月、[ブルース・ウィリス](../Page/ブルース・ウィリス.md "wikilink")を再度迎えた新作映画『Labor of Love』の製作がアナウンスされたが\[26\]、実現に至っていない。
 
@@ -107,7 +107,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2000年の映画.md" title="wikilink">2000</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンブレイカブル" title="wikilink">アンブレイカブル</a><br />
+<td><p><a href="../Page/アンブレイカブル.md" title="wikilink">アンブレイカブル</a><br />
 <em>Unbreakable</em></p></td>
 <td></td>
 <td></td>
@@ -129,7 +129,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2004年の映画.md" title="wikilink">2004</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィレッジ_(映画)" title="wikilink">ヴィレッジ</a><br />
+<td><p><a href="../Page/ヴィレッジ_(映画).md" title="wikilink">ヴィレッジ</a><br />
 <em>The Village</em></p></td>
 <td></td>
 <td></td>
@@ -192,7 +192,7 @@
 <td></td>
 <td></td>
 <td><p>製作総指揮<br />
-<a href="https://ja.wikipedia.org/wiki/ウィル・スミス" title="wikilink">ウィル・スミス</a>原案<br />
+<a href="../Page/ウィル・スミス.md" title="wikilink">ウィル・スミス</a>原案<br />
 共同脚本</p></td>
 </tr>
 <tr class="odd">

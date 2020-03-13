@@ -65,7 +65,7 @@ H.323 においては下記のようなプロトコルや[コーデック](../Pa
   - [RTP](../Page/Real-time_Transport_Protocol.md "wikilink") (Real-time Transport Protocol)
   - [RTCP](../Page/Real-time_Transport_Control_Protocol.md "wikilink") (Real-time Transport Control Protocol)
   - オーディオ・コーデック [G.711](../Page/G.711.md "wikilink")、[G.729](https://ja.wikipedia.org/wiki/G.729 "wikilink")、[G.723.1](https://ja.wikipedia.org/wiki/G.723.1 "wikilink")
-  - ビデオ・コーデック [H.261](https://ja.wikipedia.org/wiki/H.261 "wikilink")、[H.263](https://ja.wikipedia.org/wiki/H.263 "wikilink")
+  - ビデオ・コーデック [H.261](../Page/H.261.md "wikilink")、[H.263](../Page/H.263.md "wikilink")
 
 コーデックとはオーディオ、ビデオなどのデータ表現形式であり、H.323 においてはリアルタイム通信に適したコーデックが指定されている。
 
@@ -95,7 +95,7 @@ H.323 においては下記のようなプロトコルや[コーデック](../Pa
   - [Session Initiation Protocol](../Page/Session_Initiation_Protocol.md "wikilink")
   - [IP電話](../Page/IP電話.md "wikilink")
   - [VoIP](../Page/VoIP.md "wikilink")
-  - [テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")
+  - [テレビ電話](../Page/テレビ電話.md "wikilink")
   - ITU-T Q
       - [Q.931](https://ja.wikipedia.org/wiki/Q.931 "wikilink") : ISDNユーザ・網インタフェース レイヤ3仕様
       - [Q.932](https://ja.wikipedia.org/wiki/Q.932 "wikilink") : ISDN付加サービス制御手順の共通原則
@@ -103,7 +103,7 @@ H.323 においては下記のようなプロトコルや[コーデック](../Pa
       - [H.225.0](https://ja.wikipedia.org/wiki/H.225.0 "wikilink") : パケットに基づくマルチメディア通信システムのためのシグナリングプロトコルとメディア信号のパケット化
       - [H.224](https://ja.wikipedia.org/wiki/H.224 "wikilink") : A real time control protocol for simplex applications using the H.221 LSD/HSD/HLP channels
       - [H.245](https://ja.wikipedia.org/wiki/H.245 "wikilink") : マルチメディア通信用制御プロトコル
-      - [H.261](https://ja.wikipedia.org/wiki/H.261 "wikilink"), [H.263](https://ja.wikipedia.org/wiki/H.263 "wikilink"), [H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink"): 動画像の圧縮符号化
+      - [H.261](../Page/H.261.md "wikilink"), [H.263](../Page/H.263.md "wikilink"), [H.264](../Page/H.264.md "wikilink"): 動画像の圧縮符号化
       - [H.281](https://ja.wikipedia.org/wiki/H.281 "wikilink") : A far end camera control protocol for videoconferences using H.224
       - [H.450.1](https://ja.wikipedia.org/wiki/H.450.1 "wikilink") : H323における付加サービス実現のための汎用機能プロトコル
       - [H.450.2](https://ja.wikipedia.org/wiki/H.450.2 "wikilink") : H323のための通話転送付加サービス

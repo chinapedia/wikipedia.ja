@@ -1,7 +1,7 @@
 > この記事は[ IN db](https://ja.wikipedia.org/wiki/_IN_db)から翻訳されています。
 
 
-**三枝夕夏 IN db**（さえぐさゆうか・イン・デシベル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元・[男女](https://ja.wikipedia.org/wiki/男女 "wikilink")4人組[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")結成。所属していた[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属していた[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[ビーイング](../Page/ビーイング.md "wikilink")傘下の[GIZA studio](../Page/GIZA_studio.md "wikilink")。かつての公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**qp**」。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")解散\[1\]。
+**三枝夕夏 IN db**（さえぐさゆうか・イン・デシベル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元・[男女](https://ja.wikipedia.org/wiki/男女 "wikilink")4人組[バンド](../Page/バンド_\(音楽\).md "wikilink")。[2002年](../Page/2002年.md "wikilink")結成。所属していた[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属していた[レコード会社](../Page/レコード会社.md "wikilink")は[ビーイング](../Page/ビーイング.md "wikilink")傘下の[GIZA studio](../Page/GIZA_studio.md "wikilink")。かつての公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**qp**」。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")解散\[1\]。
 
 ## メンバー
 
@@ -17,23 +17,23 @@
 <tr class="odd">
 <td><p><ruby><rb><strong><a href="../Page/三枝夕夏.md" title="wikilink">三枝夕夏</a></strong></rb><rp>（</rp><rt>さえぐさ ゆうか</rt><rp>）</rp></ruby><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>、<a href="../Page/コーラス_(ポピュラー音楽).md" title="wikilink">コーラス</a>、<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a>、<a href="../Page/作曲.md" title="wikilink">作曲</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>、<a href="../Page/コーラス_(ポピュラー音楽).md" title="wikilink">コーラス</a>、<a href="../Page/作詞.md" title="wikilink">作詞</a>、<a href="../Page/作曲.md" title="wikilink">作曲</a></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a> - <a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a></p></td>
 </tr>
 <tr class="even">
-<td><p><ruby><rb><strong><a href="https://ja.wikipedia.org/wiki/岩井勇一郎" title="wikilink">岩井勇一郎</a></strong></rb><rp>（</rp><rt>いわい ゆういちろう</rt><rp>）</rp></ruby><br />
+<td><p><ruby><rb><strong><a href="../Page/岩井勇一郎.md" title="wikilink">岩井勇一郎</a></strong></rb><rp>（</rp><rt>いわい ゆういちろう</rt><rp>）</rp></ruby><br />
 </p></td>
 <td><p><a href="../Page/ギター.md" title="wikilink">ギター</a>、コーラス、作曲</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a> - 2010年</p></td>
 </tr>
 <tr class="odd">
-<td><p><ruby><rb><strong><a href="https://ja.wikipedia.org/wiki/大藪拓" title="wikilink">大藪拓</a></strong></rb><rp>（</rp><rt>おおやぶ たく</rt><rp>）</rp></ruby><br />
+<td><p><ruby><rb><strong><a href="../Page/大藪拓.md" title="wikilink">大藪拓</a></strong></rb><rp>（</rp><rt>おおやぶ たく</rt><rp>）</rp></ruby><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a>、<a href="https://ja.wikipedia.org/wiki/マニピュレーター#電子音楽" title="wikilink">マニピュレーター</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a>、<a href="https://ja.wikipedia.org/wiki/マニピュレーター#電子音楽" title="wikilink">マニピュレーター</a></p></td>
 <td><p>2003年 - 2010年</p></td>
 </tr>
 <tr class="even">
-<td><p><ruby><rb><strong><a href="https://ja.wikipedia.org/wiki/車谷啓介" title="wikilink">車谷啓介</a></strong></rb><rp>（</rp><rt>くるまたに けいすけ</rt><rp>）</rp></ruby><br />
+<td><p><ruby><rb><strong><a href="../Page/車谷啓介.md" title="wikilink">車谷啓介</a></strong></rb><rp>（</rp><rt>くるまたに けいすけ</rt><rp>）</rp></ruby><br />
 </p></td>
 <td><p><a href="../Page/ドラムセット.md" title="wikilink">ドラムス</a></p></td>
 <td><p>2003年 - 2010年</p></td>
@@ -44,16 +44,16 @@
 ## 来歴
 
   - [2002年](../Page/2002年.md "wikilink")4月頃よりThe Music 272のCMで「夏にお会いしましょう」という三枝夕夏のメッセージと共に「db(デシベル)」を紹介する告知のオンエアーが始まる。具体的なCDリリースの告知では無かったため異例の告知であった。BGMは『[Whenever I think of you](../Page/Whenever_I_think_of_you.md "wikilink")』。
-  - 同時期に、The Music 272や地方局でオンエアーされていた「GIZA station」にて、PVがオンエアーされ、テロップで「db(デシベル)」は三枝夕夏と[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")を中心とする3人組と紹介されている。
+  - 同時期に、The Music 272や地方局でオンエアーされていた「GIZA station」にて、PVがオンエアーされ、テロップで「db(デシベル)」は三枝夕夏と[徳永暁人](../Page/徳永暁人.md "wikilink")を中心とする3人組と紹介されている。
   - [2002年](../Page/2002年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")、アーティスト名が「db(デシベル)」から「三枝夕夏 IN db」に変更となった。ジャケットも「db(デシベル)」名義から「三枝夕夏 IN db」名義に変更となり、写真も変更された。発売のシングル『[Whenever I think of you](../Page/Whenever_I_think_of_you.md "wikilink")』でデビュー。メンバー2名の「制作活動に専念したい」という意向により、「db」は『音楽制作プロジェクト』を指す言葉となり、三枝の[ソロプロジェクトとしてのデビューとなった](../Page/一人バンド.md "wikilink")\[2\]。
 
 <!-- end list -->
 
-  - [2003年](../Page/2003年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")、[hills パン工場にて毎週木曜日に行われるTHURSDAY](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink") LIVE（2008年5月現在はSATURDAY LIVEに名称変更）に初出演。以後、同[ライブにコンスタントに出演することとなる](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。また、このライブにサポートとして参加した車谷等とバンドを結成するきっかけにもなった。このライブはオリジナル曲ばかりではなく、洋楽オールディーズ等をカヴァー演奏しており、『VENUS』は彼等の定番曲になっている。また、ここでのライブをきっかけに、三枝夕夏 IN dbライブの定番となる「デシデシコール」が生まれた\[3\]。他にも、当ライブハウスをテーマにした『[Everybody Jump](../Page/Everybody_Jump.md "wikilink")』（16thシングル・2006年）をリリースするなど、彼等も当ライブハウスを「ホームグラウンド」と自認している。
+  - [2003年](../Page/2003年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink")、[hills パン工場にて毎週木曜日に行われるTHURSDAY](https://ja.wikipedia.org/wiki/hills_パン工場 "wikilink") LIVE（2008年5月現在はSATURDAY LIVEに名称変更）に初出演。以後、同[ライブにコンスタントに出演することとなる](../Page/演奏会.md "wikilink")。また、このライブにサポートとして参加した車谷等とバンドを結成するきっかけにもなった。このライブはオリジナル曲ばかりではなく、洋楽オールディーズ等をカヴァー演奏しており、『VENUS』は彼等の定番曲になっている。また、ここでのライブをきっかけに、三枝夕夏 IN dbライブの定番となる「デシデシコール」が生まれた\[3\]。他にも、当ライブハウスをテーマにした『[Everybody Jump](../Page/Everybody_Jump.md "wikilink")』（16thシングル・2006年）をリリースするなど、彼等も当ライブハウスを「ホームグラウンド」と自認している。
 
 <!-- end list -->
 
-  - [2003年](../Page/2003年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")発売の6thシングル『[君と約束した優しいあの場所まで](../Page/君と約束した優しいあの場所まで.md "wikilink")』 が、[オリコンウィークリーシングルランキングで初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")8位となり、スマッシュヒットを記録した。また、同曲より「db」のメンバーとして岩井・大藪・車谷の3人がバンドメンバーとして加入し、4人編成バンドとして再出発することとなった。
+  - [2003年](../Page/2003年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")発売の6thシングル『[君と約束した優しいあの場所まで](../Page/君と約束した優しいあの場所まで.md "wikilink")』 が、[オリコンウィークリーシングルランキングで初登場](../Page/オリコンチャート.md "wikilink")8位となり、スマッシュヒットを記録した。また、同曲より「db」のメンバーとして岩井・大藪・車谷の3人がバンドメンバーとして加入し、4人編成バンドとして再出発することとなった。
 
 <!-- end list -->
 
@@ -61,7 +61,7 @@
 
 <!-- end list -->
 
-  - 2004年に[愛知県警が歌詞を公募して企画した](https://ja.wikipedia.org/wiki/愛知県警察 "wikilink")「進めよう\!安全なまちづくりイメージソング」の歌手として、地元出身の三枝が起用された。そのイメージソング『Hand to Hand』は2ndアルバムに収録されている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月に三枝が同県警[中警察署](../Page/中警察署.md "wikilink")の[一日警察署長を務めた](https://ja.wikipedia.org/wiki/一日署長 "wikilink")。
+  - 2004年に[愛知県警が歌詞を公募して企画した](https://ja.wikipedia.org/wiki/愛知県警察 "wikilink")「進めよう\!安全なまちづくりイメージソング」の歌手として、地元出身の三枝が起用された。そのイメージソング『Hand to Hand』は2ndアルバムに収録されている。[2005年](../Page/2005年.md "wikilink")6月に三枝が同県警[中警察署](../Page/中警察署.md "wikilink")の[一日警察署長を務めた](../Page/一日署長.md "wikilink")。
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@
 
 ## 音楽
 
-  - 楽曲提供については、主に[大野愛果](../Page/大野愛果.md "wikilink")、[小澤正澄](../Page/小澤正澄.md "wikilink")、[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")など、[ビーイング](../Page/ビーイング.md "wikilink")系の作曲家が担当しているが、10thシングル『[いつも心に太陽を](../Page/いつも心に太陽を_\(三枝夕夏_IN_dbの曲\).md "wikilink")』では三枝夕夏が作曲も担当し、16thシングル『[Everybody Jump](../Page/Everybody_Jump.md "wikilink")』では岩井勇一郎が作曲を担当した。3rdアルバム『[U-ka saegusa IN db III](../Page/U-ka_saegusa_IN_db_III.md "wikilink")』では三枝夕夏が作曲を6曲担当し、17thシングル『[太陽](../Page/太陽_\(三枝夕夏_IN_dbの曲\).md "wikilink")』以降は三枝夕夏が作曲した曲がシングルになることも多くなっていた。
+  - 楽曲提供については、主に[大野愛果](../Page/大野愛果.md "wikilink")、[小澤正澄](../Page/小澤正澄.md "wikilink")、[徳永暁人](../Page/徳永暁人.md "wikilink")など、[ビーイング](../Page/ビーイング.md "wikilink")系の作曲家が担当しているが、10thシングル『[いつも心に太陽を](../Page/いつも心に太陽を_\(三枝夕夏_IN_dbの曲\).md "wikilink")』では三枝夕夏が作曲も担当し、16thシングル『[Everybody Jump](../Page/Everybody_Jump.md "wikilink")』では岩井勇一郎が作曲を担当した。3rdアルバム『[U-ka saegusa IN db III](../Page/U-ka_saegusa_IN_db_III.md "wikilink")』では三枝夕夏が作曲を6曲担当し、17thシングル『[太陽](../Page/太陽_\(三枝夕夏_IN_dbの曲\).md "wikilink")』以降は三枝夕夏が作曲した曲がシングルになることも多くなっていた。
   - [New Cinema 蜥蜴のカバー曲も発表しているが](../Page/New_Cinema_蜥蜴.md "wikilink")、これは岩井・車谷が同バンドのメンバーであったためである。
 
 ## ディスコグラフィ
@@ -105,7 +105,7 @@
 | 9th       | 2004年[9月15日](../Page/9月15日.md "wikilink")                                                   | **[笑顔でいようよ](../Page/笑顔でいようよ.md "wikilink")**                                                                    | CD+DVD                                | GZCA-4013 | 12位  |                                                                                                                           |
 | CD        | GZCA-4014                                                                                   |                                                                                                                 |                                       |           |      |                                                                                                                           |
 | 10th      | 2004年[10月13日](../Page/10月13日.md "wikilink")                                                 | **[いつも心に太陽を](../Page/いつも心に太陽を_\(三枝夕夏_IN_dbの曲\).md "wikilink")**                                                 | CD                                    | GZCA-4024 | 16位  |                                                                                                                           |
-| 11th      | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月16日](../Page/2月16日.md "wikilink") | **[飛び立てない私にあなたが翼をくれた](../Page/飛び立てない私にあなたが翼をくれた.md "wikilink")**                                                | CD                                    | GZCA-4033 | 24位  | [U-ka saegusa IN db III](../Page/U-ka_saegusa_IN_db_III.md "wikilink")                                                    |
+| 11th      | [2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")                    | **[飛び立てない私にあなたが翼をくれた](../Page/飛び立てない私にあなたが翼をくれた.md "wikilink")**                                                | CD                                    | GZCA-4033 | 24位  | [U-ka saegusa IN db III](../Page/U-ka_saegusa_IN_db_III.md "wikilink")                                                    |
 | 12th      | 2005年[6月15日](../Page/6月15日.md "wikilink")                                                   | **[ジューンブライド 〜あなたしか見えない〜](../Page/ジューンブライド_〜あなたしか見えない〜.md "wikilink")**                                          | CD                                    | GZCA-4043 | 12位  |                                                                                                                           |
 | 13th      | 2005年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")                              | **[君の愛に包まれて痛い](../Page/君の愛に包まれて痛い.md "wikilink")**                                                              | CD                                    | GZCA-4052 | 20位  |                                                                                                                           |
 | 14th      | [2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")                    | **[愛のワナ](../Page/愛のワナ.md "wikilink")**                                                                          | CD                                    | GZCA-4060 | 36位  |                                                                                                                           |
@@ -160,7 +160,7 @@
 | 4人組バンド編成期                                        |                                                                                             |                                                                                                                                                                   |      |                |      |
 | [B-VISION](../Page/B-VISION.md "wikilink")       |                                                                                             |                                                                                                                                                                   |      |                |      |
 | 1st                                              | [2003年](../Page/2003年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")                  | **[U-ka saegusa IN db FILM COLLECTION VOL.1 -SHOCKING BLUE-](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_FILM_COLLECTION_VOL.1_-SHOCKING_BLUE- "wikilink")** | DVD  | ONBD-7030      |      |
-| 2nd                                              | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月16日](../Page/2月16日.md "wikilink") | **[U-ka saegusa IN db \[one 1 Live](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_\(one_1_Live\) "wikilink")\]**                                               | DVD  | ONBD-7048      |      |
+| 2nd                                              | [2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")                    | **[U-ka saegusa IN db \[one 1 Live](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_\(one_1_Live\) "wikilink")\]**                                               | DVD  | ONBD-7048      |      |
 | 3rd                                              | 2005年[9月21日](../Page/9月21日.md "wikilink")                                                   | **[U-ka saegusa IN db FILM COLLECTION VOL.2](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_FILM_COLLECTION_VOL.2 "wikilink")**                                 | DVD  | ONBD-7056      | 37位  |
 | 4th                                              | [2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")                    | **[U-ka saegusa IN db "CHOCO II とLIVE"](https://ja.wikipedia.org/wiki/U-ka_saegusa_IN_db_"CHOCO_II_とLIVE" "wikilink")**                                           | DVD  | ONBD-7072      | 22位  |
 | [GIZA studio](../Page/GIZA_studio.md "wikilink") |                                                                                             |                                                                                                                                                                   |      |                |      |
@@ -173,7 +173,7 @@
   - [GIZA studio MAI-K & FRIENDS HOTROD BEACH PARTY](https://ja.wikipedia.org/wiki/GIZA_studio_MAI-K_&_FRIENDS_HOTROD_BEACH_PARTY "wikilink")（2002年7月17日）
       - サーフミュージックをカバーしたオムニバスアルバム。14曲目「SURF CITY」で参加。
   - [OUTRIDE](https://ja.wikipedia.org/wiki/OUTRIDE "wikilink")（2006年6月9日） - [Animelo Summer Live 2006 -OUTRIDE-での企画シングル](https://ja.wikipedia.org/wiki/Animelo_Summer_Live "wikilink")。
-      - 作詞：[奥井雅美](../Page/奥井雅美.md "wikilink")　作曲：[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")　編曲：[河野陽吾](../Page/河野陽吾.md "wikilink")
+      - 作詞：[奥井雅美](../Page/奥井雅美.md "wikilink")　作曲：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")　編曲：[河野陽吾](../Page/河野陽吾.md "wikilink")
       - 出演者全員が歌唱。作詞・作曲は参加アーティストでもある奥井と[JAM Projectの影山ヒロノブが担当](../Page/JAM_Project.md "wikilink")。当時のレーベルメイトの[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")も参加。
   - [Christmas Non-Stop Carol](https://ja.wikipedia.org/wiki/Christmas_Non-Stop_Carol "wikilink")（2010年12月1日）
       - クリスマスソングをカバーしたオムニバスアルバム。3曲目「WINTER WONDERLAND」にて三枝夕夏が参加。ドラムは車谷啓介が担当。

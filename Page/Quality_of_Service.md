@@ -3,7 +3,7 @@
 
 **QoS**（Quality of Service、クオリティ・オブ・サービス）とは、[制御工学](../Page/制御工学.md "wikilink")や[システム工学](../Page/システム工学.md "wikilink")の分野で広く使われる用語で、*サービスがどれだけニーズに合っているか、ユーザを満足させられるか*という尺度を表す。
 
-QoSは一種の[評価関数](https://ja.wikipedia.org/wiki/評価関数 "wikilink")であるため、対象が同じであったとしても、その評価関数を設定した者ごとに値が異なる。
+QoSは一種の[評価関数](../Page/評価関数.md "wikilink")であるため、対象が同じであったとしても、その評価関数を設定した者ごとに値が異なる。
 
 ここでは特に、[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")において重要な通信の品質を確保するために、[ルーター](../Page/ルーター.md "wikilink")やレイヤー3スイッチに実装される技術のひとつとしてのQoSについて説明する。サービス品質とも呼ばれる\[1\]日経NETWORK 2004年1月号 「特集2 QoS」p84-p85</ref>\[2\]日経NETWORK 2007年8月号 「特集2 通信品質」p74-p75</ref>。LANスイッチ（レイヤー2スイッチ）も同様の機能を備えている。
 
@@ -42,7 +42,7 @@ QoSは一種の[評価関数](https://ja.wikipedia.org/wiki/評価関数 "wikili
 
 ### QoS保証の必要性
 
-QoSの保証が必要になる最大の理由は[輻輳](../Page/輻輳.md "wikilink")（ふくそう、Congestion）である。ネットワーク・[トラフィック](https://ja.wikipedia.org/wiki/トラフィック "wikilink")の量が限られていれば、特別の工夫をしなくてもQoSに関する問題はほとんどおこらないからである。輻輳を避けるため[電話網](https://ja.wikipedia.org/wiki/電話網 "wikilink")においては、第1に[アドミッション制御](https://ja.wikipedia.org/wiki/アドミッション制御 "wikilink")が行われる。すなわち QoS が保証できないときには新しいサービス要求を拒絶する。電話網においては第2に個々の呼（Call）を確立する際に、輻輳が起こらないルートを検索して使用する。一方、[インターネット](../Page/インターネット.md "wikilink")をはじめとする [IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")においては、従来、ネットワーク・レベルではこのような制御が行われなかった。そのため、IPネットワークは緊急通信をはじめとする高信頼性が要求される通信用途に使用するのが困難だった。IPネットワークの用途がひろがるにつれて、そこでも QoS保証へのニーズが高まっている。
+QoSの保証が必要になる最大の理由は[輻輳](../Page/輻輳.md "wikilink")（ふくそう、Congestion）である。ネットワーク・[トラフィック](https://ja.wikipedia.org/wiki/トラフィック "wikilink")の量が限られていれば、特別の工夫をしなくてもQoSに関する問題はほとんどおこらないからである。輻輳を避けるため[電話網](../Page/電話網.md "wikilink")においては、第1に[アドミッション制御](https://ja.wikipedia.org/wiki/アドミッション制御 "wikilink")が行われる。すなわち QoS が保証できないときには新しいサービス要求を拒絶する。電話網においては第2に個々の呼（Call）を確立する際に、輻輳が起こらないルートを検索して使用する。一方、[インターネット](../Page/インターネット.md "wikilink")をはじめとする [IPネットワーク](https://ja.wikipedia.org/wiki/IPネットワーク "wikilink")においては、従来、ネットワーク・レベルではこのような制御が行われなかった。そのため、IPネットワークは緊急通信をはじめとする高信頼性が要求される通信用途に使用するのが困難だった。IPネットワークの用途がひろがるにつれて、そこでも QoS保証へのニーズが高まっている。
 
 また、IPネットワーク固有の要因として、近年しだいに QoS保証を必要とする[アプリケーションが増加してきていることがその必要性を高めている](../Page/アプリケーションソフトウェア.md "wikilink")。すなわち、1990年代にはいってからインターネット上で[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")や動画配信といったリアルタイム・アプリケーションが使われるようになり、またビジネス向けの高品質なサービスも求められるようになってきた。また、データ通信が音声通信を量的に上回り、電話網に匹敵する品質をインターネットにおいて実現することが必要となってきている。これはインターネットからみた表現であるが、電話網の側からみればインターネットに匹敵する（あるいはそれ以上の）柔軟さを新しい通信網すなわち NGN（[Next Generation Network](https://ja.wikipedia.org/wiki/Next_Generation_Network "wikilink")）において実現することが目標となっている。
 
@@ -55,7 +55,7 @@ QoSの保証が必要になる最大の理由は[輻輳](../Page/輻輳.md "wiki
 
 ### 使用例
 
-QoSは、他者と差別化し優先させることで安定した[スループット](../Page/スループット.md "wikilink")や低遅延を実現している。CoSの使い方としては、[IP電話](../Page/IP電話.md "wikilink")やビデオ会議/[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")といった[リアルタイム](../Page/リアルタイム.md "wikilink")系トラフィックを最優先。[SNAといった遅延に弱い基幹系トラフィックや](../Page/Systems_Network_Architecture.md "wikilink")、重要度の高い業務系トラフィックを2番目に優先。[電子メール](../Page/電子メール.md "wikilink")や[Webへの](../Page/World_Wide_Web.md "wikilink")[アクセス](../Page/アクセス.md "wikilink")等遅延が生じても問題にならない情報系トラフィックを最も低い優先度とする。
+QoSは、他者と差別化し優先させることで安定した[スループット](../Page/スループット.md "wikilink")や低遅延を実現している。CoSの使い方としては、[IP電話](../Page/IP電話.md "wikilink")やビデオ会議/[テレビ電話](../Page/テレビ電話.md "wikilink")といった[リアルタイム](../Page/リアルタイム.md "wikilink")系トラフィックを最優先。[SNAといった遅延に弱い基幹系トラフィックや](../Page/Systems_Network_Architecture.md "wikilink")、重要度の高い業務系トラフィックを2番目に優先。[電子メール](../Page/電子メール.md "wikilink")や[Webへの](../Page/World_Wide_Web.md "wikilink")[アクセス](../Page/アクセス.md "wikilink")等遅延が生じても問題にならない情報系トラフィックを最も低い優先度とする。
 
 [300px](https://ja.wikipedia.org/wiki/ファイル:LANスイッチ（レイヤー2スイッチ）の優先度情報.PNG "wikilink")
 

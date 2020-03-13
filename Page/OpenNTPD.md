@@ -1,7 +1,7 @@
 > この記事は[OpenNTPD](https://ja.wikipedia.org/wiki/OpenNTPD)から翻訳されています。
 
 
-**OpenNTPD**は、NTP（[Network Time Protocol](../Page/Network_Time_Protocol.md "wikilink")）を利用して計算機の時間を合わせる[ソフトウェア](../Page/ソフトウェア.md "wikilink")で、安全性を考慮して開発され、[BSDライセンス](https://ja.wikipedia.org/wiki/BSDライセンス "wikilink")で公開されている。 OpenNTPDはNTP[サーバ](../Page/サーバ.md "wikilink")と同期して時間を合わせる機能だけでなく、NTPサーバとしても振る舞うことが出来る。 OpenNTPDは初期の頃は[OpenBSD](../Page/OpenBSD.md "wikilink")プロジェクトの一部としてHenning Brauerが開発していた。 Darren Tuckerにより他の様々な[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")で利用できるようにする開発がされてからは、[OpenSSH](https://ja.wikipedia.org/wiki/OpenSSH "wikilink")のようにOpenBSDのサブプロジェクトになっている。この移植版リリースには、OpenSSH と同じくバージョン番号に Portable release を表す **p** がつけられている。
+**OpenNTPD**は、NTP（[Network Time Protocol](../Page/Network_Time_Protocol.md "wikilink")）を利用して計算機の時間を合わせる[ソフトウェア](../Page/ソフトウェア.md "wikilink")で、安全性を考慮して開発され、[BSDライセンス](../Page/BSDライセンス.md "wikilink")で公開されている。 OpenNTPDはNTP[サーバ](../Page/サーバ.md "wikilink")と同期して時間を合わせる機能だけでなく、NTPサーバとしても振る舞うことが出来る。 OpenNTPDは初期の頃は[OpenBSD](../Page/OpenBSD.md "wikilink")プロジェクトの一部としてHenning Brauerが開発していた。 Darren Tuckerにより他の様々な[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")で利用できるようにする開発がされてからは、[OpenSSH](../Page/OpenSSH.md "wikilink")のようにOpenBSDのサブプロジェクトになっている。この移植版リリースには、OpenSSH と同じくバージョン番号に Portable release を表す **p** がつけられている。
 
 ## 歴史
 

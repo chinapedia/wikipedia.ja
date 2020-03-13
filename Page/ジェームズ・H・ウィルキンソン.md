@@ -1,7 +1,7 @@
 > この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
 
 
-**ジェームズ・ハーディ・ウィルキンソン**（James Hardy Wilkinson、[1919年](../Page/1919年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")）は、[物理学](../Page/物理学.md "wikilink")や[工学](../Page/工学.md "wikilink")に有益な[応用数学](https://ja.wikipedia.org/wiki/応用数学 "wikilink")と[計算機科学](../Page/計算機科学.md "wikilink")の境界領域である[数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")の分野で有名\[1\]。
+**ジェームズ・ハーディ・ウィルキンソン**（James Hardy Wilkinson、[1919年](../Page/1919年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")）は、[物理学](../Page/物理学.md "wikilink")や[工学](../Page/工学.md "wikilink")に有益な[応用数学](../Page/応用数学.md "wikilink")と[計算機科学](../Page/計算機科学.md "wikilink")の境界領域である[数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")の分野で有名\[1\]。
 
 ## 経歴
 
@@ -15,7 +15,7 @@
 
 ## 受賞
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")、「高速なデジタルコンピュータを利用した数値解析に関する研究と線形代数と誤差解析の処理に関する深い洞察に対して」[チューリング賞](../Page/チューリング賞.md "wikilink")を受賞した。また同年、[SIAM (学会)での](https://ja.wikipedia.org/wiki/SIAM_\(学会\) "wikilink")[ジョン・フォン・ノイマン](../Page/ジョン・フォン・ノイマン.md "wikilink")記念講演の講演者に選ばれた。
+[1970年](../Page/1970年.md "wikilink")、「高速なデジタルコンピュータを利用した数値解析に関する研究と線形代数と誤差解析の処理に関する深い洞察に対して」[チューリング賞](../Page/チューリング賞.md "wikilink")を受賞した。また同年、[SIAM (学会)での](https://ja.wikipedia.org/wiki/SIAM_\(学会\) "wikilink")[ジョン・フォン・ノイマン](../Page/ジョン・フォン・ノイマン.md "wikilink")記念講演の講演者に選ばれた。
 
 また、ウィルキンソンの栄誉を称えて [J. H. Wilkinson Prize for Numerical Software](https://ja.wikipedia.org/wiki/J._H._Wilkinson_Prize_for_Numerical_Software "wikilink") が創設されている。
 

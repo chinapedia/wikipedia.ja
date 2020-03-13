@@ -9,11 +9,11 @@
 
 この頃は、[レコード](../Page/レコード.md "wikilink")には[バンドが入っているが](../Page/バンド_\(音楽\).md "wikilink")、ステージは生[ギター](../Page/ギター.md "wikilink")中心の時代で、レコードも売れず、[矢沢永吉](../Page/矢沢永吉.md "wikilink")のフィルム・コンサートの前座で歌ったりしていた時代である。[ジャケット写真](https://ja.wikipedia.org/wiki/ジャケット写真 "wikilink")は[京王プラザで撮影された](../Page/京王プラザホテル.md "wikilink")。
 
-このアルバムの制作途中で、[CBSソニーの](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[ディレクター](../Page/ディレクター.md "wikilink")の蔭山敬吾が[人事異動](https://ja.wikipedia.org/wiki/人事異動 "wikilink")で販促に変わり、浜田は怒ったそうである。後任のディレクターには浜田と同い年の[須藤晃](../Page/須藤晃.md "wikilink")が就任し、その後長く共に仕事をしていくこととなる。
+このアルバムの制作途中で、[CBSソニーの](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[ディレクター](../Page/ディレクター.md "wikilink")の蔭山敬吾が[人事異動](../Page/人事異動.md "wikilink")で販促に変わり、浜田は怒ったそうである。後任のディレクターには浜田と同い年の[須藤晃](../Page/須藤晃.md "wikilink")が就任し、その後長く共に仕事をしていくこととなる。
 
 浜田によると「音楽はプロの音になってますよね。『Midnight Blue Train』は、その頃の気持ちが出てる。この頃からポップなメロディを書く浜田省吾、というのが求められていたが、それを跳ね返して『いや、俺はこうだ\!』とも言えず、身近な人からそう言われて、そうかあと思いながらやっていたけど、だんだん出来なくなり、次の『[MIND SCREEN](../Page/MIND_SCREEN.md "wikilink")』でピークに達した」という。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")では最高66位ながら、初めて100位以内へのチャートインを記録した。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高66位ながら、初めて100位以内へのチャートインを記録した。
 
 1996年時点での累計売上は349,944枚（再発盤を含む）\[1\]。
 
@@ -42,7 +42,7 @@
 9.  **からっ風のララバイ**
 10. **ミッドナイト・ブルートレイン**
       -
-        ミュージシャンとしての苦悩や挫折を歌っている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にシングル「[光と影の季節](https://ja.wikipedia.org/wiki/光と影の季節 "wikilink")」のカップリング曲としてリメイクされている。
+        ミュージシャンとしての苦悩や挫折を歌っている。[2005年](../Page/2005年.md "wikilink")にシングル「[光と影の季節](https://ja.wikipedia.org/wiki/光と影の季節 "wikilink")」のカップリング曲としてリメイクされている。
         [2015年](../Page/2015年.md "wikilink")に[福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")がカバー・アルバム『[魂リク](https://ja.wikipedia.org/wiki/魂リク "wikilink")』でカバー。
 
 ## 参加ミュージシャン
@@ -52,7 +52,7 @@
   - Piano and Keyboards：[佐藤準](../Page/佐藤準.md "wikilink")
   - Guitar：[水谷公生](../Page/水谷公生.md "wikilink")
   - Acoustic Guitar：[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")
-  - Percussion：[斉藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノヴ "wikilink")
+  - Percussion：[斉藤ノブ](../Page/斎藤ノヴ.md "wikilink")
   - Saxophone：[Jake H.Concepcion](https://ja.wikipedia.org/wiki/ジェイク・コンセプション "wikilink")
   - Backing Vocal and Guiter Solo on "Midnight Blue Train"：[町支寛二](../Page/町支寛二.md "wikilink")
 

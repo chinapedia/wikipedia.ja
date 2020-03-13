@@ -5,10 +5,10 @@
 
 ## 解説
 
-  - 「Dreamland」は[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")「つながる瞬間（とき）に。Coca-Cola」キャンペーンソング\[1\]であり、CMでは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")からオンエアされた\[2\]。元々はCMのために書き下ろした曲であり、曲題も付けられていなかった\[3\]。当時のコカ・コーラのCM曲はタイアップ形式が通例であり、CM用のオリジナル曲が使用されるのは[1999年](../Page/1999年.md "wikilink")の[川村結花](../Page/川村結花.md "wikilink")以来となる\[4\]。当初はコカ・コーラの公式サイトで[着メロが配信されていたが](../Page/着信メロディ.md "wikilink")、問い合わせが殺到したためCD化が決定した\[5\]。
+  - 「Dreamland」は[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")「つながる瞬間（とき）に。Coca-Cola」キャンペーンソング\[1\]であり、CMでは[2005年](../Page/2005年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")からオンエアされた\[2\]。元々はCMのために書き下ろした曲であり、曲題も付けられていなかった\[3\]。当時のコカ・コーラのCM曲はタイアップ形式が通例であり、CM用のオリジナル曲が使用されるのは[1999年](../Page/1999年.md "wikilink")の[川村結花](../Page/川村結花.md "wikilink")以来となる\[4\]。当初はコカ・コーラの公式サイトで[着メロが配信されていたが](../Page/着信メロディ.md "wikilink")、問い合わせが殺到したためCD化が決定した\[5\]。
   - 「Dreamland」は音楽配信では1か月で120万ダウンロード、累計で340万ダウンロードを記録\[6\]。BENNIE Kのシングルとしては最大の売上を記録した。
-  - この年12月には同曲のクリスマスバージョンが、翌2006年1月にはお正月バージョンも用意された。前者は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")にコカ・コーラの携帯サイトで[着うた](../Page/着うた.md "wikilink")として無料で限定配信された。
-  - 「Dreamland」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は次曲『[Sky](https://ja.wikipedia.org/wiki/Sky_\(BENNIE_Kの曲\) "wikilink")』のDVD付きバージョンに収録。
+  - この年12月には同曲のクリスマスバージョンが、翌2006年1月にはお正月バージョンも用意された。前者は、[2005年](../Page/2005年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")にコカ・コーラの携帯サイトで[着うた](../Page/着うた.md "wikilink")として無料で限定配信された。
+  - 「Dreamland」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は次曲『[Sky](../Page/Sky_\(BENNIE_Kの曲\).md "wikilink")』のDVD付きバージョンに収録。
   - 全曲が4thアルバム『[Japana-rhythm](../Page/Japana-rhythm.md "wikilink")』に収録。『Japana-rhythm』においてDreamlandは「夏」、UNITYは「春」、旅人は「秋」の曲とされている。
 
 ## 収録曲
@@ -56,7 +56,7 @@
 
 ## 外部リンク
 
-  - （[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")公式チャンネルによる[MV](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")）
+  - （[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")公式チャンネルによる[MV](../Page/ミュージック・ビデオ.md "wikilink")）
 
 [Category:BENNIE_Kの楽曲](https://ja.wikipedia.org/wiki/Category:BENNIE_Kの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:コカ・コーラのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:コカ・コーラのコマーシャルソング "wikilink") [Category:ハジ→の楽曲](https://ja.wikipedia.org/wiki/Category:ハジ→の楽曲 "wikilink") [Category:2016年のシングル](https://ja.wikipedia.org/wiki/Category:2016年のシングル "wikilink") [Category:ユニバーサルミュージックジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのシングル "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
 

@@ -92,7 +92,7 @@
 <td><p><a href="../Page/Amiga.md" title="wikilink">Amiga</a><br />
 <a href="../Page/Apple_II.md" title="wikilink">Apple II</a><br />
 <a href="https://ja.wikipedia.org/wiki/PC/AT互換機" title="wikilink">PC/AT互換機</a><br />
-<a href="https://ja.wikipedia.org/wiki/コモドール64" title="wikilink">コモドール64</a><br />
+<a href="../Page/コモドール64.md" title="wikilink">コモドール64</a><br />
 <a href="https://ja.wikipedia.org/wiki/コモドール128" title="wikilink">コモドール128</a></p></td>
 <td><p>Alien Technology Group</p></td>
 <td><p>タイトー</p></td>
@@ -153,13 +153,13 @@
 <td><p>8</p></td>
 <td><p>クイックス2000</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_(ゲーム機)" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation_(ゲーム機).md" title="wikilink">PlayStation</a></p></td>
 <td><p><a href="../Page/サクセス_(ゲーム会社).md" title="wikilink">サクセス</a></p></td>
 <td><p>サクセス</p></td>
 <td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
 <td><p>SLPM 86659</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SuperLiteシリーズ" title="wikilink">SuperLite 1500シリーズ</a></p></td>
+<td><p><a href="../Page/SuperLiteシリーズ.md" title="wikilink">SuperLite 1500シリーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
@@ -178,10 +178,10 @@
 <td><p>10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タイトーメモリーズ#タイトーメモリーズ_ポケット" title="wikilink">タイトーメモリーズ ポケット</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a></p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a></p></td>
 <td><p>タイトー</p></td>
 <td><p>タイトー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク" title="wikilink">UMD</a></p></td>
+<td><p><a href="../Page/ユニバーサル・メディア・ディスク.md" title="wikilink">UMD</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>概要 = アーケード版の移植</p></td>
@@ -192,7 +192,7 @@
 <td><p>[7]<br />
 欧米：2015年7月7日[8][9]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンテンドー3DS" title="wikilink">ニンテンドー3DS</a><br />
-（<a href="https://ja.wikipedia.org/wiki/バーチャルコンソール" title="wikilink">バーチャルコンソール</a>）</p></td>
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
 <td><p>水口エンジニアリング</p></td>
 <td><p>任天堂</p></td>
 <td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a></p></td>
@@ -212,7 +212,7 @@
 <!-- end list -->
 
   -
-    また、ゲームボーイ版のテレビCMには[桂小枝](https://ja.wikipedia.org/wiki/桂小枝 "wikilink")が出演し、[南京玉すだれ](../Page/南京玉すだれ.md "wikilink")を披露した。
+    また、ゲームボーイ版のテレビCMには[桂小枝](../Page/桂小枝.md "wikilink")が出演し、[南京玉すだれ](../Page/南京玉すだれ.md "wikilink")を披露した。
 
 <!-- end list -->
 
@@ -240,7 +240,7 @@
 
   - ゲームボーイ版
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では合計25点（満40点）\[17\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、17.92点（満30点）となっている\[18\]。また、同雑誌1991年5月24日号特別付録の「ゲームボーイ オールカタログ」では「シンプルだが、意外と戦略的要素が高く、頭を使うゲームだ」と紹介されている\[19\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では合計25点（満40点）\[17\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、17.92点（満30点）となっている\[18\]。また、同雑誌1991年5月24日号特別付録の「ゲームボーイ オールカタログ」では「シンプルだが、意外と戦略的要素が高く、頭を使うゲームだ」と紹介されている\[19\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -261,9 +261,9 @@ Akiba PC Hotline\!の佐々木 潤は、FM-7版について、自機の移動速
 
 ## 後世への影響
 
-1982年には本作の続編となる『Qix II - Tournament』が発売された\[27\]ほか、1987年には『[スーパークイックス](../Page/スーパークイックス.md "wikilink")』が発売された。さらに、1989年にはパワーアップアイテム等を採用した続編『[ヴォルフィード](../Page/ヴォルフィード.md "wikilink")』が発売された。 1995年5月にはタイトーからアーケードゲーム『ついんくいっくす』が発売される予定だったが、正式稼働には至らなかった\[28\]。この作品のルールは4方向レバー、1ボタン（ライン）でマーカーを操作し、各ラウンドごとに決められたノルマ（ラウンド1では70パーセント、以降ラウンドの進行により上昇していく）以上の領域を占領すればステージクリアというものだった。同作はシリーズ初となる2人対戦プレイが採用される予定であり、対戦プレイにおいては、残機無制限で先に95パーセントの領域を占領した方のプレイヤーが勝ちとなり、3本勝負により最終的な勝敗が決められる予定だった。また、国内版には[竹本泉](../Page/竹本泉.md "wikilink")が描いた女性キャラクターのグラフィックが用いられる予定だったほか、ロケテストでは女性キャラクターが脱衣するバージョンも存在した\[29\]。一方で、海外版のロケテストでは遺跡や異星人をモチーフとしたグラフィックが採用された。なお、同作の海外版は2002年に[メディアカイト](../Page/メディアカイト.md "wikilink")からサービスが開始される予定であった『ネットげーせん』の対応作品として配信される予定であったが\[30\]、『ネットげーせん』のMAMEソース流用問題による無期延期（後にメディアカイト倒産により頓挫）の影響で再びお蔵入りになっている。 1999年にはゲームボーイカラー用ソフト『[クイックスアドベンチャー](https://ja.wikipedia.org/wiki/クイックスアドベンチャー "wikilink")』が発売された。 2002年10月24日には、サクセスよりSuperLite 1500シリーズの一環としてPlayStation用ソフト『バトルクイックス』が発売された。[2003年](../Page/2003年.md "wikilink")には、[スペースインベーダー](../Page/スペースインベーダー.md "wikilink")25周年記念として[2in1筐体](https://ja.wikipedia.org/wiki/2in1筐体 "wikilink")『スペースインベーダー QIX』が登場した。この作品は筐体の左右に両ゲームオリジナルのデザインが施されている。再度のヒットを狙ったものでなく、記念発売の印象が強い。 2009年12月9日には、タイトーより『[QIX＋＋](https://ja.wikipedia.org/wiki/QIX＋＋ "wikilink")』が Xbox Live Arcade/PlayStationPortable用ソフトとして発売された。この作品はタイトー最後の[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")シリーズ用のゲームタイトルであった。
+1982年には本作の続編となる『Qix II - Tournament』が発売された\[27\]ほか、1987年には『[スーパークイックス](../Page/スーパークイックス.md "wikilink")』が発売された。さらに、1989年にはパワーアップアイテム等を採用した続編『[ヴォルフィード](../Page/ヴォルフィード.md "wikilink")』が発売された。 1995年5月にはタイトーからアーケードゲーム『ついんくいっくす』が発売される予定だったが、正式稼働には至らなかった\[28\]。この作品のルールは4方向レバー、1ボタン（ライン）でマーカーを操作し、各ラウンドごとに決められたノルマ（ラウンド1では70パーセント、以降ラウンドの進行により上昇していく）以上の領域を占領すればステージクリアというものだった。同作はシリーズ初となる2人対戦プレイが採用される予定であり、対戦プレイにおいては、残機無制限で先に95パーセントの領域を占領した方のプレイヤーが勝ちとなり、3本勝負により最終的な勝敗が決められる予定だった。また、国内版には[竹本泉](../Page/竹本泉.md "wikilink")が描いた女性キャラクターのグラフィックが用いられる予定だったほか、ロケテストでは女性キャラクターが脱衣するバージョンも存在した\[29\]。一方で、海外版のロケテストでは遺跡や異星人をモチーフとしたグラフィックが採用された。なお、同作の海外版は2002年に[メディアカイト](../Page/メディアカイト.md "wikilink")からサービスが開始される予定であった『ネットげーせん』の対応作品として配信される予定であったが\[30\]、『ネットげーせん』のMAMEソース流用問題による無期延期（後にメディアカイト倒産により頓挫）の影響で再びお蔵入りになっている。 1999年にはゲームボーイカラー用ソフト『[クイックスアドベンチャー](https://ja.wikipedia.org/wiki/クイックスアドベンチャー "wikilink")』が発売された。 2002年10月24日には、サクセスよりSuperLite 1500シリーズの一環としてPlayStation用ソフト『バトルクイックス』が発売された。[2003年](../Page/2003年.md "wikilink")には、[スペースインベーダー](../Page/スペースインベーダー.md "wikilink")25周年記念として[2in1筐体](../Page/2in1筐体.md "wikilink")『スペースインベーダー QIX』が登場した。この作品は筐体の左右に両ゲームオリジナルのデザインが施されている。再度のヒットを狙ったものでなく、記念発売の印象が強い。 2009年12月9日には、タイトーより『[QIX＋＋](https://ja.wikipedia.org/wiki/QIX＋＋ "wikilink")』が Xbox Live Arcade/PlayStationPortable用ソフトとして発売された。この作品はタイトー最後の[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")シリーズ用のゲームタイトルであった。
 
-他社からも本作のルールをベースとしたゲームが発売・稼働しており、ルールの変更や追加が行われたこともあった。たとえばカネコの『[ギャルズパニック](../Page/ギャルズパニック.md "wikilink")』や[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")の『[ダンシングアイ](../Page/ダンシングアイ.md "wikilink")』はいずれも[脱衣要素を有していることで知られている](https://ja.wikipedia.org/wiki/脱衣麻雀 "wikilink")。 1992年にはデータムポリスターよりスーパーファミコン用ソフト『[カコマ☆ナイト](https://ja.wikipedia.org/wiki/カコマ☆ナイト "wikilink")』が発売された。 1995年にはバンプレストよりアーケードゲーム作品『[タイムボカン](https://ja.wikipedia.org/wiki/タイムボカン "wikilink")』が稼働予定ながらも中止となった。同作には独自ルールとして、ジャンプボタンによって自機がフィールドを移動できるルールが存在した。 2007年には [アトラスの](../Page/アトラス_\(ゲーム会社\).md "wikilink")『[ペルソナ3](../Page/ペルソナ3.md "wikilink")』を題材とした携帯電話用アプリ『[女神転生QIX ペルソナ3](../Page/女神転生QIX_ペルソナ3.md "wikilink")』が配信された。 このほかにも、作中作として収録されたケースとしては『[ぼくのなつやすみ4 瀬戸内少年探偵団「ボクと秘密の地図」](https://ja.wikipedia.org/wiki/ぼくのなつやすみ4_瀬戸内少年探偵団「ボクと秘密の地図」 "wikilink")』があり、作中に登場する吉田商店の50円ゲームで本作をプレイできた。
+他社からも本作のルールをベースとしたゲームが発売・稼働しており、ルールの変更や追加が行われたこともあった。たとえばカネコの『[ギャルズパニック](../Page/ギャルズパニック.md "wikilink")』や[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")の『[ダンシングアイ](../Page/ダンシングアイ.md "wikilink")』はいずれも[脱衣要素を有していることで知られている](../Page/脱衣麻雀.md "wikilink")。 1992年にはデータムポリスターよりスーパーファミコン用ソフト『[カコマ☆ナイト](https://ja.wikipedia.org/wiki/カコマ☆ナイト "wikilink")』が発売された。 1995年にはバンプレストよりアーケードゲーム作品『[タイムボカン](../Page/タイムボカン.md "wikilink")』が稼働予定ながらも中止となった。同作には独自ルールとして、ジャンプボタンによって自機がフィールドを移動できるルールが存在した。 2007年には [アトラスの](../Page/アトラス_\(ゲーム会社\).md "wikilink")『[ペルソナ3](../Page/ペルソナ3.md "wikilink")』を題材とした携帯電話用アプリ『[女神転生QIX ペルソナ3](../Page/女神転生QIX_ペルソナ3.md "wikilink")』が配信された。 このほかにも、作中作として収録されたケースとしては『[ぼくのなつやすみ4 瀬戸内少年探偵団「ボクと秘密の地図」](https://ja.wikipedia.org/wiki/ぼくのなつやすみ4_瀬戸内少年探偵団「ボクと秘密の地図」 "wikilink")』があり、作中に登場する吉田商店の50円ゲームで本作をプレイできた。
 
 ## 脚注
 

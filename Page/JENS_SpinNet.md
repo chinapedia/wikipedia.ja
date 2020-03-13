@@ -19,7 +19,7 @@
       - アメリカでの同名サービスとの互換性は殆ど無し。
   - 1999年 AT\&TとBTは全株式を日本テレコム（JT、現[ソフトバンクテレコム](../Page/ソフトバンクテレコム.md "wikilink")）に譲渡。社名をJENS株式会社に変更。
       - サービス名称はJENS SpinNetとなったが、ドメインはatt.ne.jpのまま使用。
-      - [ODN](https://ja.wikipedia.org/wiki/ODN "wikilink")へのネットワーク統合開始。
+      - [ODN](../Page/ODN.md "wikilink")へのネットワーク統合開始。
   - 2000年4月 ITJITブランドでISP事業を運営していたJTの100%子会社、インテリジェント・テレコム株式会社のデータ通信事業部を統合。
       - ドメイン名は itjit.ad.jp, itjit.ne.jp
       - AS番号は 4682 ITJIT

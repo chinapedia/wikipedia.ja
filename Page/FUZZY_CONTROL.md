@@ -3,39 +3,39 @@
 
 **FUZZY CONTROL**（ファジー・コントロール）は、日本のスリーピース[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。2010年までCountersign、以降DCT entertainment、[DCT records所属](../Page/DCT_records.md "wikilink")。通称「ファジコン」。
 
-バンド名の由来は[ファジィ制御](https://ja.wikipedia.org/wiki/ファジィ制御 "wikilink")(fuzzy control)洗濯機から来ており、「ライブに来たお客さんにグルグル回ったり、ジャンプしたり、楽しんでもらいたい\!」という思いで、JUONが名付けた。
+バンド名の由来は[ファジィ制御](../Page/ファジィ制御.md "wikilink")(fuzzy control)洗濯機から来ており、「ライブに来たお客さんにグルグル回ったり、ジャンプしたり、楽しんでもらいたい\!」という思いで、JUONが名付けた。
 
 バンド単独名義の活動の他、[DREAMS COME TRUEのサポートメンバーとしても活動している](../Page/DREAMS_COME_TRUE.md "wikilink")。
 
 ## メンバー（現在）
 
   - JUON（[Vo](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[Gt](../Page/ギター.md "wikilink")）
-      - 鎌田樹音／[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")生まれ／血液型AB／[沖縄県](../Page/沖縄県.md "wikilink")生まれ、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身／左利き
+      - 鎌田樹音／[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月8日](../Page/3月8日.md "wikilink")生まれ／血液型AB／[沖縄県](../Page/沖縄県.md "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")出身／左利き
       - 生まれてすぐに上京。
-      - 父親はギタリスト。家でよくパーティーを開いており、そこでお客さんにギターを演奏しているのを見て、自分もギターを始めた。母親は[りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")、妻は[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和](https://ja.wikipedia.org/wiki/吉田美和 "wikilink")\[1\]、叔父は[前田達也](../Page/前田達也.md "wikilink")。
+      - 父親はギタリスト。家でよくパーティーを開いており、そこでお客さんにギターを演奏しているのを見て、自分もギターを始めた。母親は[りりィ](https://ja.wikipedia.org/wiki/りりィ "wikilink")、妻は[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")[吉田美和](../Page/吉田美和.md "wikilink")\[1\]、叔父は[前田達也](../Page/前田達也.md "wikilink")。
       - 2016年5月25日に1stソロアルバム「CHANGE THE GAME」をリリース。
-      - サポート活動 ・[スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")(2014〜) ・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")(2014〜)
+      - サポート活動 ・[スガシカオ](../Page/スガシカオ.md "wikilink")(2014〜) ・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")(2014〜)
   - SATOKO（[Dr](../Page/ドラムセット.md "wikilink")&[Cho](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）
       - 菅沼知子／[1982年](../Page/1982年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")生まれ／血液型O／左利き
       - 父親は、「手数王」の異名を持つドラマー、[菅沼孝三](../Page/菅沼孝三.md "wikilink")。夫は[光永泰一朗](../Page/光永泰一朗.md "wikilink")\[2\]。
       - 2013年「たった、少しの覚悟で冒険するドラゴン」（光文社） 出版。
       - 2015年より「DRAMU TO AATO」と題し各地で個展を開催。
       - 2016年クラウドファンディングを実施し、個展を開催。
-      - サポート活動 ・[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")(2007,2008) ・[DAITA](https://ja.wikipedia.org/wiki/DAITA "wikilink")(2011〜) ・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")(2014、2016) ・[花澤香菜](../Page/花澤香菜.md "wikilink")(2014〜) ・[スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")(2015〜) ・[売野雅勇](https://ja.wikipedia.org/wiki/売野雅勇 "wikilink")(2016) ・[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink") ・[LIFE IS GROOVE](https://ja.wikipedia.org/wiki/LIFE_IS_GROOVE "wikilink")(2015) ・[山本彩](https://ja.wikipedia.org/wiki/山本彩 "wikilink")(2016〜)
-  - JOE（[Ba](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")&[Cho](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）
+      - サポート活動 ・[吉川晃司](../Page/吉川晃司.md "wikilink")(2007,2008) ・[DAITA](../Page/DAITA.md "wikilink")(2011〜) ・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")(2014、2016) ・[花澤香菜](../Page/花澤香菜.md "wikilink")(2014〜) ・[スガシカオ](../Page/スガシカオ.md "wikilink")(2015〜) ・[売野雅勇](../Page/売野雅勇.md "wikilink")(2016) ・[徳永暁人](../Page/徳永暁人.md "wikilink") ・[LIFE IS GROOVE](https://ja.wikipedia.org/wiki/LIFE_IS_GROOVE "wikilink")(2015) ・[山本彩](https://ja.wikipedia.org/wiki/山本彩 "wikilink")(2016〜)
+  - JOE（[Ba](../Page/ベース_\(弦楽器\).md "wikilink")&[Cho](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）
       - 星野譲／[1981年](../Page/1981年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")生まれ／血液型A／左利き
       - JUONとSATOKOがスタジオで録った、自分達のマイナスワン音源1万枚を全国に配布し、ベーシスト募集を行ったところ、JOEに出会う。
-      - 尊敬するベーシストは、[J](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")、[フリー](../Page/フリー_\(ミュージシャン\).md "wikilink")。
+      - 尊敬するベーシストは、[J](../Page/J_\(ミュージシャン\).md "wikilink")、[フリー](../Page/フリー_\(ミュージシャン\).md "wikilink")。
       - 2013年 [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink") 「[MADE OF GOLD -featuring DABADA-](https://ja.wikipedia.org/wiki/さぁ鐘を鳴らせ/MADE_OF_GOLD_-featuring_DABADA- "wikilink") 」ミュージックビデオ主演。
       - 2015年、[織田哲郎](../Page/織田哲郎.md "wikilink")が結成した「**ROLL-B DINOSAUR**」（ロール・ビー・ダイナソー）のメンバーとして参加\[3\]。
-      - サポート活動 ・[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")(2008) ・[FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink")(2015〜)
+      - サポート活動 ・[吉川晃司](../Page/吉川晃司.md "wikilink")(2008) ・[FAKE?](../Page/FAKE?.md "wikilink")(2015〜)
 
 **元メンバー**
 
   - [KENKEN](../Page/KenKen.md "wikilink")（ベース）
-      - 金子賢輔（現[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink") ）
+      - 金子賢輔（現[RIZE](../Page/RIZE.md "wikilink") ）
       - 元々、FUZZY CONTROLはJUONとsatoko、そしてkenkenの構成であったが、kenkenが諸事情により脱退、残りの2人はオーディションを行い、JOEが加入する。
-  - [ジン](../Page/ジン_\(バンド\).md "wikilink")、[ONE OK ROCK](https://ja.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")、[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、[UVERworld](../Page/UVERworld.md "wikilink")、[LAID BACK OCEAN](https://ja.wikipedia.org/wiki/LAID_BACK_OCEAN "wikilink")、[ザ・キャプテンズ](https://ja.wikipedia.org/wiki/ザ・キャプテンズ "wikilink")、[DAITA](https://ja.wikipedia.org/wiki/DAITA "wikilink")らと交流がある。
+  - [ジン](../Page/ジン_\(バンド\).md "wikilink")、[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")、[HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")、[UVERworld](../Page/UVERworld.md "wikilink")、[LAID BACK OCEAN](https://ja.wikipedia.org/wiki/LAID_BACK_OCEAN "wikilink")、[ザ・キャプテンズ](../Page/ザ・キャプテンズ.md "wikilink")、[DAITA](../Page/DAITA.md "wikilink")らと交流がある。
 
 ## 主な活動
 
@@ -67,7 +67,7 @@
 
 07.21 1st ALBUM「First Control」
 
-09.「渋谷5夜連続再炎！！[J](../Page/J.md "wikilink") [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink") 5DAYS RED OR DEAD」opening act
+09.「渋谷5夜連続再炎！！[J](../Page/J.md "wikilink") [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink") 5DAYS RED OR DEAD」opening act
 
 09\. Tour「First"Live"Control〜やる気はいつでも腕満じゃい！〜」 東京、名古屋、大阪、福岡
 
@@ -81,7 +81,7 @@
 
 06〜07. Tour「〜幻想とファンタジーの世界へご案内\!〜とはいえヤル気はワンマンじゃい」
 
-07\. 大阪城・太陽の広場音楽ステージ「[オーサカキング](https://ja.wikipedia.org/wiki/オーサカキング "wikilink")」に出演
+07\. 大阪城・太陽の広場音楽ステージ「[オーサカキング](../Page/オーサカキング.md "wikilink")」に出演
 
 08 [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 05
 
@@ -117,7 +117,7 @@
 
 10\. 福岡「[MUSIC CITY TENJIN](https://ja.wikipedia.org/wiki/MUSIC_CITY_TENJIN "wikilink")」ドコモステージ出演
 
-12\. [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")の年末ライブにSATOKO参加
+12\. [吉川晃司](../Page/吉川晃司.md "wikilink")の年末ライブにSATOKO参加
 
 2008
 
@@ -127,7 +127,7 @@
 
 10〜11. Tour「フォースと共にあれ\!\!〜スベテ鍛イレバ君モ…perfect body〜」千葉、大阪、岡山、長崎、福岡、名古屋、仙台、東京
 
-12\. [吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")の年末ライブに、SATOKO・JOE参加、[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のサポートバンドとして参加、[DREAMS COME TRUEのレコーディングに](../Page/DREAMS_COME_TRUE.md "wikilink")、JUON・SATOKO参加
+12\. [吉川晃司](../Page/吉川晃司.md "wikilink")の年末ライブに、SATOKO・JOE参加、[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")のサポートバンドとして参加、[DREAMS COME TRUEのレコーディングに](../Page/DREAMS_COME_TRUE.md "wikilink")、JUON・SATOKO参加
 
 2009
 
@@ -163,7 +163,7 @@
 
 05.〜　Tour「2011ALBUM完全制覇の旅 〜FUZZY CONTROL アルバム全部やりますTOURその2〜」大阪、福岡、名古屋、渋谷
 
-06.19 [DAITA](https://ja.wikipedia.org/wiki/DAITA "wikilink")「THE GUITAR EMISSION -START OF NEW LEGEND-」SATOKO参加
+06.19 [DAITA](../Page/DAITA.md "wikilink")「THE GUITAR EMISSION -START OF NEW LEGEND-」SATOKO参加
 
 06.24　ライブ・ミニアルバム「THE GIG」
 
@@ -175,7 +175,7 @@
 
 10.30　「ドレミ！ABC！1 2 3！ And, SFC！」渋谷タワーレコードインストアーライブ＠Ustream生中継
 
-11\. [DAITA](https://ja.wikipedia.org/wiki/DAITA "wikilink")「DIRECT MANIA II」SATOKO参加
+11\. [DAITA](../Page/DAITA.md "wikilink")「DIRECT MANIA II」SATOKO参加
 
 11.　「[リズム＆ドラム・マガジン](https://ja.wikipedia.org/wiki/リズム＆ドラム・マガジン "wikilink")」12月号／SATOKO表紙
 
@@ -193,11 +193,11 @@
 
 06.14　「Love in Action Meeting（LIVE）」＠日本武道館出演
 
-08〜09　ミュージカル「[ヘドウィグ・アンド・アングリーインチ](https://ja.wikipedia.org/wiki/ヘドウィグ・アンド・アングリーインチ "wikilink")」JUON出演＠渋谷EAST
+08〜09　ミュージカル「[ヘドウィグ・アンド・アングリーインチ](../Page/ヘドウィグ・アンド・アングリーインチ.md "wikilink")」JUON出演＠渋谷EAST
 
 10.01　「[超ハローグッバイ](https://ja.wikipedia.org/wiki/超ハローグッバイ "wikilink")」配信
 
-10.01　ファジビッチ「[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")」配信
+10.01　ファジビッチ「[みんなのうた](../Page/みんなのうた.md "wikilink")」配信
 
 10〜 Tour「ファジビッチ\!\! 2012-2013 〜special guest AKS〜 supported by ミスタードーナツ」東京・愛知・福岡・静岡・大阪・仙台
 
@@ -239,7 +239,7 @@
 
 03.23 MUSIC CUBE 14出演
 
-04.06 [FAKE?](https://ja.wikipedia.org/wiki/FAKE? "wikilink")×FUZZY CONTROL出演
+04.06 [FAKE?](../Page/FAKE?.md "wikilink")×FUZZY CONTROL出演
 
 05.11 バトロックスTOUR at 仙台出演
 
@@ -299,7 +299,7 @@
 
 ## 映画
 
-  - [陽はまた昇る](https://ja.wikipedia.org/wiki/陽はまた昇る_\(映画\) "wikilink")（2002年） - 加賀谷猛役（JUONのみ。クレジットでの表記は「樹音」）
+  - [陽はまた昇る](../Page/陽はまた昇る_\(映画\).md "wikilink")（2002年） - 加賀谷猛役（JUONのみ。クレジットでの表記は「樹音」）
 
 ## CM
 
@@ -406,7 +406,7 @@
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月6日.md" title="wikilink">4月6日</a></p></td>
 <td><p><strong>universe</strong></p></td>
 <td><p>VICL-35781</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -425,7 +425,7 @@
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/11月16日" title="wikilink">11月16日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/11月16日" title="wikilink">11月16日</a></p></td>
 <td><p><strong>think twice</strong></p></td>
 <td><p>VICL-35905</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -445,7 +445,7 @@
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
 <td><p><strong>1℃（イチド）</strong></p></td>
 <td><p>VICL-35970(初回盤)<br />
 VICL-35971(通常盤)</p></td>
@@ -473,7 +473,7 @@ VICL-35971(通常盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月26日.md" title="wikilink">7月26日</a></p></td>
 <td><p><strong><a href="../Page/鼓動_(FUZZY_CONTROLの曲).md" title="wikilink">鼓動</a></strong></p></td>
 <td><p>VIZL-183（初回盤）<br />
 VICL-36067 (通常盤)</p></td>
@@ -693,7 +693,7 @@ VICL-36067 (通常盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
 <td><p><strong>2（twice）</strong></p></td>
 <td><p>VICL-61729(通常盤)<br />
 VICL-61703(1ヶ月限定スペシャル価格)</p></td>
@@ -997,9 +997,9 @@ VICL-61703(1ヶ月限定スペシャル価格)</p></td>
 
 ## タイアップ
 
-| 曲名              | タイアップ                                                                          |
-| --------------- | ------------------------------------------------------------------------------ |
-| あ・あ・あいやいや・あ・あ\! | TBS「[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")」エンディングテーマ |
+| 曲名              | タイアップ                                                       |
+| --------------- | ----------------------------------------------------------- |
+| あ・あ・あいやいや・あ・あ\! | TBS「[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")」エンディングテーマ |
 
 ## 脚注
 

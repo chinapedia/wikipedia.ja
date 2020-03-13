@@ -1,11 +1,11 @@
 > この記事は[ Life](https://ja.wikipedia.org/wiki/_Life)から翻訳されています。
 
 
-『**文化系トークラジオ Life**』（ぶんかけいトークラジオ ライフ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されている[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+『**文化系トークラジオ Life**』（ぶんかけいトークラジオ ライフ）は、[2006年](../Page/2006年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されている[生放送](../Page/生放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
-[サブカルチャー](../Page/サブカルチャー.md "wikilink")分析を通じた社会時評がテーマ。[文化系](https://ja.wikipedia.org/wiki/文化系 "wikilink")サークルの部室のような楽しさを追求する番組。番組サイトでは[Podcastingで本編と外伝が公開されている](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")。
+[サブカルチャー](../Page/サブカルチャー.md "wikilink")分析を通じた社会時評がテーマ。[文化系](https://ja.wikipedia.org/wiki/文化系 "wikilink")サークルの部室のような楽しさを追求する番組。番組サイトでは[Podcastingで本編と外伝が公開されている](../Page/ポッドキャスト.md "wikilink")。
 
 ロゴ、イラストは、漫画家の[浅野いにお](../Page/浅野いにお.md "wikilink")が担当。
 
@@ -33,7 +33,7 @@
 
 ### メインパーソナリティ
 
-  - [鈴木謙介](https://ja.wikipedia.org/wiki/鈴木謙介 "wikilink")（社会学者） - 番組内では「チャーリー」の愛称で呼ばれている。「育児などでまとまった時間が欲しい」との理由で、2012年1月〜6月の半年間、番組出演を休止した。
+  - [鈴木謙介](../Page/鈴木謙介.md "wikilink")（社会学者） - 番組内では「チャーリー」の愛称で呼ばれている。「育児などでまとまった時間が欲しい」との理由で、2012年1月〜6月の半年間、番組出演を休止した。
   - 斎藤哲也（ライター・編集者）
   - [速水健朗](https://ja.wikipedia.org/wiki/速水健朗 "wikilink")（ライター・編集者）
 
@@ -45,7 +45,7 @@
   - [佐々木敦](https://ja.wikipedia.org/wiki/佐々木敦 "wikilink")（批評家）
   - [柳瀬博一](https://ja.wikipedia.org/wiki/柳瀬博一 "wikilink")（編集者）
   - [森山裕之](https://ja.wikipedia.org/wiki/森山裕之 "wikilink")（『[マンスリーよしもとPLUS](https://ja.wikipedia.org/wiki/マンスリーよしもとPLUS "wikilink")』編集長→出版社スタンド・ブックス代表）
-  - [津田大介](https://ja.wikipedia.org/wiki/津田大介 "wikilink")（IT・音楽ジャーナリスト→メディアジャーナリスト→メディアアクティビスト）
+  - [津田大介](../Page/津田大介.md "wikilink")（IT・音楽ジャーナリスト→メディアジャーナリスト→メディアアクティビスト）
   - [澁谷知美](../Page/澁谷知美.md "wikilink")（社会学者）
 
 鈴木、仲俣、佐々木、柳瀬、斉藤、森山の6名は初回からの出演。津田は2006年12月23日のゲスト出演をきっかけにレギュラー化。速水は2008年3月9日がゲスト初出演、2010年1月24日放送分よりレギュラー。澁谷は2009年10月25日がゲスト初出演、2010年8月29日放送分よりレギュラー。
@@ -67,7 +67,7 @@
 
 ## 関連項目
 
-  - [青春リアル](https://ja.wikipedia.org/wiki/青春リアル "wikilink") - [NHK教育で放送されている鈴木出演の討論番組](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（2013年3月終了）。2009年9月放送分にてコラボレーションが行われる。
+  - [青春リアル](https://ja.wikipedia.org/wiki/青春リアル "wikilink") - [NHK教育で放送されている鈴木出演の討論番組](../Page/NHK教育テレビジョン.md "wikilink")（2013年3月終了）。2009年9月放送分にてコラボレーションが行われる。
 
 ## 外部リンク
 

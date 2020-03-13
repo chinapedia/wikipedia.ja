@@ -1,7 +1,7 @@
 > この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
 
 
-**NBC**（、全国放送会社）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[三大ネットワーク](https://ja.wikipedia.org/wiki/ネットワーク_\(放送\)#アメリカ "wikilink")（）のひとつで、[NBCユニバーサル](https://ja.wikipedia.org/wiki/NBCユニバーサル "wikilink")グループの主体となる企業である。ネットワークの本部は[ニューヨーク](../Page/ニューヨーク.md "wikilink")・[マンハッタン](../Page/マンハッタン.md "wikilink")の[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")（[GEビルディング](https://ja.wikipedia.org/wiki/GEビルディング "wikilink")）に置かれている。  [GE_Building_by_David_Shankbone.JPG](https://ja.wikipedia.org/wiki/File:GE_Building_by_David_Shankbone.JPG "fig:GE_Building_by_David_Shankbone.JPG")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NBC_Tower,_Chicago.jpg "wikilink")）\]\]
+**NBC**（、全国放送会社）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[三大ネットワーク](https://ja.wikipedia.org/wiki/ネットワーク_\(放送\)#アメリカ "wikilink")（）のひとつで、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")グループの主体となる企業である。ネットワークの本部は[ニューヨーク](../Page/ニューヨーク.md "wikilink")・[マンハッタン](../Page/マンハッタン.md "wikilink")の[ロックフェラー・センター](../Page/ロックフェラー・センター.md "wikilink")（[GEビルディング](https://ja.wikipedia.org/wiki/GEビルディング "wikilink")）に置かれている。  [GE_Building_by_David_Shankbone.JPG](https://ja.wikipedia.org/wiki/File:GE_Building_by_David_Shankbone.JPG "fig:GE_Building_by_David_Shankbone.JPG")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NBC_Tower,_Chicago.jpg "wikilink")）\]\]
 
 なお、日本の長崎県をエリアとする[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBC）とは一切関係も提携関係もない。
 
@@ -24,9 +24,9 @@
   - [1966年](../Page/1966年.md "wikilink")9月 再放送を除く放送番組が全部カラー放送になる（ABC、CBSも同時）。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") 親会社「RCA」が[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink")に買収されたため、ゼネラル・エレクトリックの傘下となる。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") NBCのラジオ部門が、ウエストウッド・ワン社に売却される（3大ネットワークのうち、初めてラジオネットワークから撤退することとなる）。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") [2000年から](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")[2008年までの](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")[オリンピックのアメリカ国内における独占](../Page/近代オリンピック.md "wikilink")[放映権](https://ja.wikipedia.org/wiki/放映権 "wikilink")を総額35億ドルで獲得（グループ局の[CNBC](../Page/CNBC.md "wikilink")、[MSNBC](../Page/MSNBC.md "wikilink")、[USAネットワーク](../Page/USAネットワーク.md "wikilink")においても放映、[2003年](../Page/2003年.md "wikilink")には[2012年までの独占放映権も獲得](https://ja.wikipedia.org/wiki/ロンドンオリンピック_\(2012年\) "wikilink")、さらに2032年大会までの放映権を獲得\[1\]）。
-  - [2004年](../Page/2004年.md "wikilink") ヴィヴェンディ・ユニバーサル・エンタテインメント（[ヴィヴェンディ・ユニバーサル](https://ja.wikipedia.org/wiki/ヴィヴェンディ・ユニバーサル "wikilink")の娯楽部門で、[映画会社](../Page/映画会社の一覧.md "wikilink")「[ユニヴァーサル](https://ja.wikipedia.org/wiki/ユニヴァーサル映画 "wikilink")」が属す）と合併し、NBCユニバーサルを設立する。
-  - [2009年](../Page/2009年.md "wikilink") テレビの旧[アナログ放送](https://ja.wikipedia.org/wiki/アナログ放送 "wikilink")終了、[デジタル放送](https://ja.wikipedia.org/wiki/デジタル放送 "wikilink")へ完全移行。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") [2000年から](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")[2008年までの](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")[オリンピックのアメリカ国内における独占](../Page/近代オリンピック.md "wikilink")[放映権](../Page/放映権.md "wikilink")を総額35億ドルで獲得（グループ局の[CNBC](../Page/CNBC.md "wikilink")、[MSNBC](../Page/MSNBC.md "wikilink")、[USAネットワーク](../Page/USAネットワーク.md "wikilink")においても放映、[2003年](../Page/2003年.md "wikilink")には[2012年までの独占放映権も獲得](https://ja.wikipedia.org/wiki/ロンドンオリンピック_\(2012年\) "wikilink")、さらに2032年大会までの放映権を獲得\[1\]）。
+  - [2004年](../Page/2004年.md "wikilink") ヴィヴェンディ・ユニバーサル・エンタテインメント（[ヴィヴェンディ・ユニバーサル](../Page/ヴィヴェンディ・ユニバーサル.md "wikilink")の娯楽部門で、[映画会社](../Page/映画会社の一覧.md "wikilink")「[ユニヴァーサル](https://ja.wikipedia.org/wiki/ユニヴァーサル映画 "wikilink")」が属す）と合併し、NBCユニバーサルを設立する。
+  - [2009年](../Page/2009年.md "wikilink") テレビの旧[アナログ放送](https://ja.wikipedia.org/wiki/アナログ放送 "wikilink")終了、[デジタル放送](../Page/デジタル放送.md "wikilink")へ完全移行。
 
 ## 備考
 
@@ -42,7 +42,7 @@
   - [NBC加盟局の一覧](../Page/NBC加盟局の一覧.md "wikilink")
   - [NBC交響楽団](../Page/NBC交響楽団.md "wikilink")（[1937年](../Page/1937年.md "wikilink") - [1954年](../Page/1954年.md "wikilink")）
   - [NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink")
-  - [NBCユニバーサル](https://ja.wikipedia.org/wiki/NBCユニバーサル "wikilink")
+  - [NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")
   - [CNBC](../Page/CNBC.md "wikilink")
   - [MSNBC](../Page/MSNBC.md "wikilink")
   - NBCウェザー・プラス[（英語版）](https://ja.wikipedia.org/wiki/:en:NBC_Weather_Plus "wikilink")

@@ -5,9 +5,9 @@
 
 ## 概要
 
-、MBSラジオの深夜放送の一大改革として2002年4月から「[+M](https://ja.wikipedia.org/wiki/+M "wikilink")」 、「[B](https://ja.wikipedia.org/wiki/B_\(ラジオ番組\) "wikilink")」 と合わせて「深夜のMBS」というイメージを開拓しようと、2時00分 - 4時50分の枠を「[S](https://ja.wikipedia.org/wiki/S_\(ラジオ番組\) "wikilink")」と題して、月 - 木曜（実際の日付では火 - 金曜）に4人のパーソナリティーによる音楽とトークの番組を企画したのが原点である。
+、MBSラジオの深夜放送の一大改革として2002年4月から「[+M](../Page/+M.md "wikilink")」 、「[B](../Page/B_\(ラジオ番組\).md "wikilink")」 と合わせて「深夜のMBS」というイメージを開拓しようと、2時00分 - 4時50分の枠を「[S](../Page/S_\(ラジオ番組\).md "wikilink")」と題して、月 - 木曜（実際の日付では火 - 金曜）に4人のパーソナリティーによる音楽とトークの番組を企画したのが原点である。
 
-それを2004年4月から更に大幅に見直し、火曜 - 金曜日（月 - 木曜深夜）の1時00分 - 3時00分までの2時間（野球中継が延長した場合、[MBSサウンドパークス](https://ja.wikipedia.org/wiki/MBSサウンドパークス "wikilink")の兼ね合いもあり最大1時間ずらした上、時間短縮）に渡り日替わりで5人（火曜日のみ2名）が番組を担当してリニューアルスタートした。2004年9月28日（2004年度下半期編成）以降は4:00までに拡大された。2005年4月1日深夜の放送で終了。後継番組は「[ラジオの達人](https://ja.wikipedia.org/wiki/ラジオの達人 "wikilink")」。
+それを2004年4月から更に大幅に見直し、火曜 - 金曜日（月 - 木曜深夜）の1時00分 - 3時00分までの2時間（野球中継が延長した場合、[MBSサウンドパークス](https://ja.wikipedia.org/wiki/MBSサウンドパークス "wikilink")の兼ね合いもあり最大1時間ずらした上、時間短縮）に渡り日替わりで5人（火曜日のみ2名）が番組を担当してリニューアルスタートした。2004年9月28日（2004年度下半期編成）以降は4:00までに拡大された。2005年4月1日深夜の放送で終了。後継番組は「[ラジオの達人](../Page/ラジオの達人.md "wikilink")」。
 
 ### 放送時間の変遷
 
@@ -29,7 +29,7 @@
 
 ## 関連項目
 
-  - [+M](https://ja.wikipedia.org/wiki/+M "wikilink")
-  - [S](https://ja.wikipedia.org/wiki/S_\(ラジオ番組\) "wikilink")
+  - [+M](../Page/+M.md "wikilink")
+  - [S](../Page/S_\(ラジオ番組\).md "wikilink")
 
 [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:毎日放送ラジオ帯番組の歴史](https://ja.wikipedia.org/wiki/Category:毎日放送ラジオ帯番組の歴史 "wikilink") [Category:毎日放送の深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:毎日放送の深夜ラジオ番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink")

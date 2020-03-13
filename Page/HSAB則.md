@@ -7,7 +7,7 @@
 
 1960年代始めに (Ralph Pearson) によって提示された\[1\]\[2\]\[3\]。一般に軟らかい酸と軟らかい塩基のペアは反応しやすく強い結合を形成する。一方、硬い酸と硬い塩基のペアもまた反応しやすく、強い結合を形成する\[4\]\[5\]。ここで用いる酸、塩基と言う言葉は[ルイスの定義によるものであり](../Page/ギルバート・ルイス.md "wikilink")、HSAB則は主に[錯体](../Page/錯体.md "wikilink")中の金属(ルイス酸)と[配位子](https://ja.wikipedia.org/wiki/配位子 "wikilink")(ルイス塩基)の相性に関して用いられる。硬い酸や硬い塩基を強酸や強塩基、軟らかい酸や塩基を弱い酸や塩基であると考えられることがあるが誤りである。
 
-**硬い酸** (HA) は、[電気陰性度](https://ja.wikipedia.org/wiki/電気陰性度 "wikilink")が低く、また高い[電荷密度](../Page/電荷密度.md "wikilink")をもつものが多く[分極率](../Page/分極率.md "wikilink")が小さいという特徴を持つ\[6\]\[7\]。周期表の金属イオンの多くが該当する\[8\]。[アルカリ金属](https://ja.wikipedia.org/wiki/アルカリ金属 "wikilink")イオン、[プロトン](https://ja.wikipedia.org/wiki/水素イオン "wikilink")、ハロゲン化水素、[アルカリ土類金属](https://ja.wikipedia.org/wiki/アルカリ土類金属 "wikilink")イオン、電荷の高い軽い金属イオンなどがある。HAは、[LUMO](https://ja.wikipedia.org/wiki/HOMO/LUMO "wikilink")（lowest-unoccupied molecular orbitals）のhigh energyを持つ。
+**硬い酸** (HA) は、[電気陰性度](https://ja.wikipedia.org/wiki/電気陰性度 "wikilink")が低く、また高い[電荷密度](../Page/電荷密度.md "wikilink")をもつものが多く[分極率](../Page/分極率.md "wikilink")が小さいという特徴を持つ\[6\]\[7\]。周期表の金属イオンの多くが該当する\[8\]。[アルカリ金属](https://ja.wikipedia.org/wiki/アルカリ金属 "wikilink")イオン、[プロトン](../Page/水素イオン.md "wikilink")、ハロゲン化水素、[アルカリ土類金属](https://ja.wikipedia.org/wiki/アルカリ土類金属 "wikilink")イオン、電荷の高い軽い金属イオンなどがある。HAは、[LUMO](https://ja.wikipedia.org/wiki/HOMO/LUMO "wikilink")（lowest-unoccupied molecular orbitals）のhigh energyを持つ。
 
 **軟らかい酸** (SA) は、電気陰性度が高く、また電荷密度が低いため分極化しやすいという特徴を持つ\[9\]\[10\]。銀、鉛、水銀などの[遷移金属](https://ja.wikipedia.org/wiki/遷移金属 "wikilink")イオン、トリニトロベンゼンなどがある。
 

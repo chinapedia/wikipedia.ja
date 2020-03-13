@@ -1,7 +1,7 @@
 > この記事は[Tai!](https://ja.wikipedia.org/wiki/Tai!)から翻訳されています。
 
 
-『**魔法使いTai\!**』（まほうつかいタイ\!）は、[1996年](../Page/1996年.md "wikilink")の[OVA](../Page/OVA.md "wikilink")発売を皮切りに、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、コミックなどで展開した、アニメ監督・[佐藤順一](https://ja.wikipedia.org/wiki/佐藤順一 "wikilink")原案による作品群。略称は「まほTai\!」。魔法によって起こる、少し不思議な学園生活を描いたドタバタコメディ。
+『**魔法使いTai\!**』（まほうつかいタイ\!）は、[1996年](../Page/1996年.md "wikilink")の[OVA](../Page/OVA.md "wikilink")発売を皮切りに、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")、コミックなどで展開した、アニメ監督・[佐藤順一](../Page/佐藤順一.md "wikilink")原案による作品群。略称は「まほTai\!」。魔法によって起こる、少し不思議な学園生活を描いたドタバタコメディ。
 
 ## あらすじ
 
@@ -13,10 +13,10 @@
 
   - 沢野口沙絵（さわのぐち さえ）
     [声](../Page/声優.md "wikilink") - [小西寛子](../Page/小西寛子.md "wikilink")
-    [1979年](../Page/1979年.md "wikilink")\[1\][12月31日](../Page/12月31日.md "wikilink")生まれ。O型。身長：159cm。B/W/H：80/55/85。北野橋高校2年B組。とてつもなくドジで、鈍感で魔法も上手くないが、何事にも一生懸命に前向きに挑む。武男を深く尊敬し、同時に大好き。[なるとが好きで](https://ja.wikipedia.org/wiki/鳴門巻き "wikilink")、趣味は絵日記。
+    [1979年](../Page/1979年.md "wikilink")\[1\][12月31日](../Page/12月31日.md "wikilink")生まれ。O型。身長：159cm。B/W/H：80/55/85。北野橋高校2年B組。とてつもなくドジで、鈍感で魔法も上手くないが、何事にも一生懸命に前向きに挑む。武男を深く尊敬し、同時に大好き。[なるとが好きで](../Page/鳴門巻き.md "wikilink")、趣味は絵日記。
   - 高倉武男（たかくら たけお）
     声 - [小野坂昌也](../Page/小野坂昌也.md "wikilink")
-    [1979年](../Page/1979年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")生まれ。B型。身長：172cm～175cm。体重：60Kg。3年F組。魔法クラブの部長。いつもスケベな妄想をしている反面、自分には厳しく、いざという時は頼りになる。小さい頃に洞窟で魔法のアイテムを発見して以来、独学で魔法を学ぶ。クラブの中でも最も魔法の知識があり、受験勉強を全くせずに魔法使いを目指す。沙絵を一番大切に想っている。モデルは[佐藤順一](https://ja.wikipedia.org/wiki/佐藤順一 "wikilink")。
+    [1979年](../Page/1979年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")生まれ。B型。身長：172cm～175cm。体重：60Kg。3年F組。魔法クラブの部長。いつもスケベな妄想をしている反面、自分には厳しく、いざという時は頼りになる。小さい頃に洞窟で魔法のアイテムを発見して以来、独学で魔法を学ぶ。クラブの中でも最も魔法の知識があり、受験勉強を全くせずに魔法使いを目指す。沙絵を一番大切に想っている。モデルは[佐藤順一](../Page/佐藤順一.md "wikilink")。
   - 中富七香（なかとみ ななか）
     声 - [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")
     [1979年](../Page/1979年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")生まれ。A型。身長：158cm。2年B組。B/W/H：83/55/84。面倒見がよく、沙絵とは幼稚園の時からの親友。魔法クラブには誘われて渋々入部していて、部員の中では一番の常識人。油壷に片想いしている。
@@ -36,7 +36,7 @@
     声 - [田中敦子](../Page/田中敦子_\(声優\).md "wikilink")（OVA版）、[村井かずさ](../Page/村井かずさ.md "wikilink")（テレビ版）
     沙絵の姉かつ、医大生。19歳。両親が家にいないので母親代わり。性格や運動神経はしっかりしているが、料理は苦手。彼氏がいる。
   - 沢野口佐知子（さわのぐち さわこ）
-    声 - [滝沢久美子](https://ja.wikipedia.org/wiki/滝沢久美子 "wikilink")
+    声 - [滝沢久美子](../Page/滝沢久美子.md "wikilink")
     早紀と沙絵の母親。北海道で沢野口牧場を経営し、障害レース用の馬を育てている。
   - 沢野口栄（さわのぐち さかえ）
     声 - 黒瀬浩一
@@ -50,7 +50,7 @@
     声 - [高乃麗](../Page/高乃麗.md "wikilink")
     七香の母親。健康食品店を営んでいる。
   - 中富直紀（なかとみ なおき）
-    声 - [宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
+    声 - [宮田幸季](../Page/宮田幸季.md "wikilink")
     七香の弟。姉に対して生意気な態度をとる。
 
 ### 高倉家
@@ -68,7 +68,7 @@
 ### 天野家
 
   - 天野梓（あまの あずさ）
-    声 - [高島雅羅](https://ja.wikipedia.org/wiki/高島雅羅 "wikilink")
+    声 - [高島雅羅](../Page/高島雅羅.md "wikilink")
     茜の母親であり、有名女優。
 
 ### マンガ研究会
@@ -83,16 +83,16 @@
     声 - [大野佐和](https://ja.wikipedia.org/wiki/大野佐和 "wikilink")（トミコ）、[水田わさび](../Page/水田わさび.md "wikilink")（チカ）、[高橋広樹](../Page/高橋広樹.md "wikilink")（男子部員）
     3人とも漫画研究会部員。チカはおかっぱ頭な眼鏡っ娘、男子部員は[フォトグラファー](https://ja.wikipedia.org/wiki/フォトグラファー "wikilink")。
   - 久保克人（くぼ かつひと）
-    声 - [白井晃](https://ja.wikipedia.org/wiki/白井晃 "wikilink")
-    都立北野橋高校の教諭。漫画研究会と魔法クラブの顧問だが、なぜか漫画研究会の方に肩入れすることが多い。誰にでも名刺を配る。[声優そっくりの容貌](https://ja.wikipedia.org/wiki/白井晃 "wikilink")。
+    声 - [白井晃](../Page/白井晃.md "wikilink")
+    都立北野橋高校の教諭。漫画研究会と魔法クラブの顧問だが、なぜか漫画研究会の方に肩入れすることが多い。誰にでも名刺を配る。[声優そっくりの容貌](../Page/白井晃.md "wikilink")。
 
 ### 油壺安全委員会
 
   - 御小手ミチコ（みこて ミチコ）&リエ
-    声 - [天神有海](https://ja.wikipedia.org/wiki/天神有海 "wikilink")
+    声 - [天神有海](../Page/天神有海.md "wikilink")
     油壺の親衛隊と、油壺安全委員会の委員長。
   - 増子まどか（ますこ まどか）&平坂光（ひらさか ひかる）
-    声 - [加藤奈々絵](https://ja.wikipedia.org/wiki/加藤奈々絵 "wikilink")（まどか）、[児玉もも代](https://ja.wikipedia.org/wiki/児玉もも代 "wikilink")（光）
+    声 - [加藤奈々絵](../Page/加藤奈々絵.md "wikilink")（まどか）、[児玉もも代](https://ja.wikipedia.org/wiki/児玉もも代 "wikilink")（光）
     2人とも油壺安全委員会のメンバー。
 
 ### その他
@@ -125,28 +125,28 @@
 
   - 本作の舞台は西荻窪周辺がモデルとなっており、当時の景観とほぼ同じ背景が描かれている\[2\]。テレビアニメ版でも荻窪駅（駅名標に「Ogikubo」）が登場している。
   - 作品の告知映像『突撃\!\!トライアングル』では制作スタジオを特集しており、佐藤順一や伊藤郁子のインタビューが聞ける。
-  - 制作中、スタッフルームは[なるとグッズで埋もれ](https://ja.wikipedia.org/wiki/鳴門巻き "wikilink")、研究のために[新横浜ラーメン博物館](../Page/新横浜ラーメン博物館.md "wikilink")にも足を運んでいる。
+  - 制作中、スタッフルームは[なるとグッズで埋もれ](../Page/鳴門巻き.md "wikilink")、研究のために[新横浜ラーメン博物館](../Page/新横浜ラーメン博物館.md "wikilink")にも足を運んでいる。
   - 企画段階でのタイトルは、『エビデイ 魔法使いタイ\!』だった。
 
 ## OVA
 
 [1996年](../Page/1996年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にかけ、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")より発売された。全6話。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[AT-X](../Page/アニメシアターX.md "wikilink")\[3\]、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[チャンネルNECO](https://ja.wikipedia.org/wiki/チャンネルNECO "wikilink")、[2012年](../Page/2012年.md "wikilink")には[キッズステーション](../Page/キッズステーション.md "wikilink")でそれぞれ放送された。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[AT-X](../Page/アニメシアターX.md "wikilink")\[3\]、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[チャンネルNECO](../Page/チャンネルNECO.md "wikilink")、[2012年](../Page/2012年.md "wikilink")には[キッズステーション](../Page/キッズステーション.md "wikilink")でそれぞれ放送された。
 
 [2014年](../Page/2014年.md "wikilink")の年末から[2015年](../Page/2015年.md "wikilink")の年始にかけては、[BS11で集中放送された](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")\[4\]。
 
 ### スタッフ（OVA）
 
-  - 原案・総指揮・絵コンテ - [佐藤順一](https://ja.wikipedia.org/wiki/佐藤順一 "wikilink")
+  - 原案・総指揮・絵コンテ - [佐藤順一](../Page/佐藤順一.md "wikilink")
   - 原作・アニメーション制作 - [トライアングルスタッフ](../Page/トライアングルスタッフ.md "wikilink")
   - キャラクターデザイン・総作画監督 - [伊藤郁子](../Page/伊藤郁子.md "wikilink")
-  - メカニックデザイン - [前田真宏](https://ja.wikipedia.org/wiki/前田真宏_\(アニメ監督\) "wikilink")
-  - 美術監督 - [加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")
+  - メカニックデザイン - [前田真宏](../Page/前田真宏_\(アニメ監督\).md "wikilink")
+  - 美術監督 - [加藤浩](../Page/加藤浩.md "wikilink")
   - 色彩設計 - 西表美智代
   - 撮影監督 - 森下成一
   - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
-  - 音楽 - [大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
+  - 音楽 - [大島ミチル](../Page/大島ミチル.md "wikilink")
   - 音響監督 - [若林和弘](../Page/若林和弘.md "wikilink")
   - プロデューサー - 寺田将人（第1話 - 第5話）→[池口和彦](../Page/池口和彦.md "wikilink")（第6話）、[井上博明](https://ja.wikipedia.org/wiki/井上博明 "wikilink")、安部正次郎
   - 製作 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")
@@ -175,7 +175,7 @@
 <td><p>1</p></td>
 <td><p>ツリガネと高倉先輩と空とぶ魔法</p></td>
 <td><p><a href="../Page/遠藤明範.md" title="wikilink">遠藤明範</a><br />
-<a href="https://ja.wikipedia.org/wiki/佐藤順一" title="wikilink">佐藤順一</a></p></td>
+<a href="../Page/佐藤順一.md" title="wikilink">佐藤順一</a></p></td>
 <td><p>上田芳裕</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋英樹_(アニメーター)" title="wikilink">高橋英樹</a></p></td>
 </tr>
@@ -225,17 +225,17 @@
 
 ### スタッフ（TV）
 
-  - 原案・監督 - [佐藤順一](https://ja.wikipedia.org/wiki/佐藤順一 "wikilink")
+  - 原案・監督 - [佐藤順一](../Page/佐藤順一.md "wikilink")
   - 原作 - [トライアングルスタッフ](../Page/トライアングルスタッフ.md "wikilink")
   - シリーズ構成 - [小中千昭](../Page/小中千昭.md "wikilink")
   - キャラクターデザイン・総作画監督 - [伊藤郁子](../Page/伊藤郁子.md "wikilink")
   - 美術監督 - 加藤朋則
   - 色彩設定 - 西表美智代
   - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
-  - 音楽 - [大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
+  - 音楽 - [大島ミチル](../Page/大島ミチル.md "wikilink")
   - アニメーションプロデューサー - 浅利義美、安部正次郎
   - プロデューサー - [池口和彦](../Page/池口和彦.md "wikilink")
-  - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")、トライアングルスタッフ
+  - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")、トライアングルスタッフ
   - 製作 - [バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")
 
 ### 主題歌（TV）
@@ -266,7 +266,7 @@
 7月7日</p></td>
 <td><p>沙絵と、魔法クラブと、桜の木</p></td>
 <td><p><a href="../Page/小中千昭.md" title="wikilink">小中千昭</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤順一" title="wikilink">佐藤順一</a></p></td>
+<td><p><a href="../Page/佐藤順一.md" title="wikilink">佐藤順一</a></p></td>
 <td><p>佐藤順一<br />
 <a href="../Page/河本昇悟.md" title="wikilink">河本昇悟</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田中雄一_(アニメーター)" title="wikilink">田中雄一</a></p></td>
@@ -275,7 +275,7 @@
 <td><p>2</p></td>
 <td><p>7月14日</p></td>
 <td><p>七香と、ケーキと、危険な夜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横手美智子" title="wikilink">横手美智子</a></p></td>
+<td><p><a href="../Page/横手美智子.md" title="wikilink">横手美智子</a></p></td>
 <td><p><a href="../Page/佐山聖子.md" title="wikilink">佐山聖子</a></p></td>
 <td><p><a href="../Page/志田ただし.md" title="wikilink">志田ただし</a></p></td>
 <td></td>
@@ -389,7 +389,7 @@
 
 ## 魔法使いTai\! vs シャーマニックプリンセス
 
-**魔法使いTai\! vs シャーマニックプリンセス**は、ともにトライアングルスタッフが制作し、バンダイビジュアルから発売されていたOVA『魔法使いTai\!』と『[シャーマニックプリンセス](../Page/シャーマニックプリンセス.md "wikilink")』両シリーズ全巻購入特典として制作された短編アニメである。当初は両作品のキャラクターが共演する作品として企画されていたが、制作の都合で実現せず、代わりに短編『魔法使いTai\!』の演出を『シャーマニックプリンセス』の監督である[本郷みつる](https://ja.wikipedia.org/wiki/本郷みつる "wikilink")が、短編『シャーマニックプリンセス』の演出を佐藤順一がそれぞれ担当する作品となった\[6\]。なお、短編『魔法使いTai\!』には自身が作画と声優を担当した佐藤順一が登場する\[7\]。
+**魔法使いTai\! vs シャーマニックプリンセス**は、ともにトライアングルスタッフが制作し、バンダイビジュアルから発売されていたOVA『魔法使いTai\!』と『[シャーマニックプリンセス](../Page/シャーマニックプリンセス.md "wikilink")』両シリーズ全巻購入特典として制作された短編アニメである。当初は両作品のキャラクターが共演する作品として企画されていたが、制作の都合で実現せず、代わりに短編『魔法使いTai\!』の演出を『シャーマニックプリンセス』の監督である[本郷みつる](../Page/本郷みつる.md "wikilink")が、短編『シャーマニックプリンセス』の演出を佐藤順一がそれぞれ担当する作品となった\[6\]。なお、短編『魔法使いTai\!』には自身が作画と声優を担当した佐藤順一が登場する\[7\]。
 
 ## 小説版
 
@@ -425,7 +425,7 @@
 [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:1996年のOVA](https://ja.wikipedia.org/wiki/Category:1996年のOVA "wikilink") [Category:1999年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1999年のテレビアニメ "wikilink") [Category:日本のオリジナルアニメ作品](https://ja.wikipedia.org/wiki/Category:日本のオリジナルアニメ作品 "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:WOWOWアニメ](https://ja.wikipedia.org/wiki/Category:WOWOWアニメ "wikilink") [Category:トライアングルスタッフ](https://ja.wikipedia.org/wiki/Category:トライアングルスタッフ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:魔法少女アニメ](https://ja.wikipedia.org/wiki/Category:魔法少女アニメ "wikilink") [Category:高等学校を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたアニメ作品 "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:月刊ドラゴンジュニア](https://ja.wikipedia.org/wiki/Category:月刊ドラゴンジュニア "wikilink") [Category:富士見ファンタジア文庫](https://ja.wikipedia.org/wiki/Category:富士見ファンタジア文庫 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink")
 
 1.  小説版において登場する西暦より算出。
-2.  [ゲームラボ](https://ja.wikipedia.org/wiki/ゲームラボ "wikilink") (2002年2月号196ページ).（参考：[魔法使いＴａｉ！　聖地巡礼](http://moeba.chu.jp/kikaku/moetown/kitanohashi.html)）
+2.  [ゲームラボ](../Page/ゲームラボ.md "wikilink") (2002年2月号196ページ).（参考：[魔法使いＴａｉ！　聖地巡礼](http://moeba.chu.jp/kikaku/moetown/kitanohashi.html)）
 3.  [魔法使いTai\! OVA](http://www.at-x.com/program/detail/2188) - AT-X
 4.  [魔法使いTai\!](http://www.bs11.jp/anime/3291/) - BS11
 5.  小西寛子・飯塚雅弓・岩男潤子による[声優ユニット](../Page/声優ユニット.md "wikilink")。

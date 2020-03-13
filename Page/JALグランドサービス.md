@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")に旧JAL系の「空港グランドサービス」（AGS,Airport Ground Service）と旧JAS系の「東亜エアーサービス」（TAS）が合併したのに併せて社名を変更した。
+[2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に旧JAL系の「空港グランドサービス」（AGS,Airport Ground Service）と旧JAS系の「東亜エアーサービス」（TAS）が合併したのに併せて社名を変更した。
 
 ## 事業所所在地
 
@@ -60,7 +60,7 @@
 ## 主な業務
 
   - マーシャリング（[航空機](../Page/航空機.md "wikilink")をスポットに誘導する）→[マーシャラー](../Page/マーシャラー.md "wikilink")
-  - [ボーディング・ブリッジ](https://ja.wikipedia.org/wiki/ボーディング・ブリッジ "wikilink")（搭乗橋）の操作
+  - [ボーディング・ブリッジ](../Page/ボーディング・ブリッジ.md "wikilink")（搭乗橋）の操作
   - [プッシュバック](../Page/プッシュバック.md "wikilink")（機体をバックさせる）および[トーイング](https://ja.wikipedia.org/wiki/トーイング "wikilink")（機体の牽引）
   - 機体洗浄業務(航空機を洗う)
   - 搭載業務(貨物，手荷物を航空機に積む)
@@ -104,7 +104,7 @@
       - 資本金を8000万円に増資。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[9月1日](../Page/9月1日.md "wikilink")
       - 資本金を1億6000万円に増資。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")
+  - [1970年](../Page/1970年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")
       - 資本金を3億2000万円に増資。
   - [1973年](../Page/1973年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")
       - 資本金を4億8000万円に増資。
@@ -117,7 +117,7 @@
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")
       - 資本金を7億2000万円に増資。
   - [1979年](../Page/1979年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")
-      - [新東京国際空港](https://ja.wikipedia.org/wiki/新東京国際空港 "wikilink")南ウイング（当時）における[日本アジア航空](https://ja.wikipedia.org/wiki/日本アジア航空 "wikilink")の旅客カウンター業務開始（後に[JALスカイサービス](https://ja.wikipedia.org/wiki/JALスカイサービス "wikilink")に業務移管）。
+      - [新東京国際空港](https://ja.wikipedia.org/wiki/新東京国際空港 "wikilink")南ウイング（当時）における[日本アジア航空](../Page/日本アジア航空.md "wikilink")の旅客カウンター業務開始（後に[JALスカイサービス](https://ja.wikipedia.org/wiki/JALスカイサービス "wikilink")に業務移管）。
   - [1981年](../Page/1981年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")
       - [エィジィエス通商](https://ja.wikipedia.org/wiki/エィジィエス通商 "wikilink")株式会社設立（2002年11月30日、清算）。
   - [1981年](../Page/1981年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")
@@ -145,9 +145,9 @@
       - 資本金を4億7400万円に減資。
   - [2001年](../Page/2001年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")
       - [エィジィエススカイサポート](https://ja.wikipedia.org/wiki/エィジィエススカイサポート "wikilink")株式会社（ASC）設立。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")
       - 新千歳エアポートサービス(NCAS)と[北海道エアーサービス](https://ja.wikipedia.org/wiki/北海道エアーサービス "wikilink")（HAS）が合併、JALグランドサービス札幌（JGSS）に社名変更。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")
       - 空港グランドサービス(AGS)と東亜エアーサービス（TAS）が合併、JALグランドサービス（JGS）に社名変更。
       - 新社章、新制服を制定。社訓、社歌を廃止。
       - 九州エアポートサービス(KAS)、JALグランドサービス九州（JGSQ）に社名変更。

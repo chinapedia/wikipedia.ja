@@ -3,7 +3,7 @@
 
 [Chinese_HQ-9_launcher.jpg](https://ja.wikipedia.org/wiki/File:Chinese_HQ-9_launcher.jpg "fig:Chinese_HQ-9_launcher.jpg") [HQ-9_Surface-to-air_missiles_20170919.jpg](https://ja.wikipedia.org/wiki/File:HQ-9_Surface-to-air_missiles_20170919.jpg "fig:HQ-9_Surface-to-air_missiles_20170919.jpg") [PLANS_Changchun_(150),_Penang_Strait,_Penang.jpg](https://ja.wikipedia.org/wiki/File:PLANS_Changchun_\(150\),_Penang_Strait,_Penang.jpg "fig:PLANS_Changchun_(150),_Penang_Strait,_Penang.jpg") **HQ-9**（紅旗9、）は、[中国が開発した新世代](../Page/中華人民共和国.md "wikilink")[アクティブレーダーホーミング長距離](https://ja.wikipedia.org/wiki/ミサイルの誘導方式#アクティブ・レーダー・ホーミング_-_ARH "wikilink")[地対空ミサイル](../Page/地対空ミサイル.md "wikilink")（、）である。輸出名、**FT-2000**。
 
-[ロシア](../Page/ロシア.md "wikilink")の[S-300PSにおいて使用された](../Page/S-300_\(ミサイル\).md "wikilink")5V55 シリーズの[ミサイル](../Page/ミサイル.md "wikilink")を基として[1980年代](../Page/1980年代.md "wikilink")に開発が開始され、[1990年代](../Page/1990年代.md "wikilink")に完成した。誘導システムの開発には一部[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[パトリオットミサイル](https://ja.wikipedia.org/wiki/パトリオットミサイル "wikilink")の技術が取り込まれているとされる。
+[ロシア](../Page/ロシア.md "wikilink")の[S-300PSにおいて使用された](../Page/S-300_\(ミサイル\).md "wikilink")5V55 シリーズの[ミサイル](../Page/ミサイル.md "wikilink")を基として[1980年代](../Page/1980年代.md "wikilink")に開発が開始され、[1990年代](../Page/1990年代.md "wikilink")に完成した。誘導システムの開発には一部[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[パトリオットミサイル](../Page/パトリオットミサイル.md "wikilink")の技術が取り込まれているとされる。
 
 また、[艦船発射型の](https://ja.wikipedia.org/wiki/船 "wikilink")**HHQ-9A**（海紅旗9A、）も開発され、現在[蘭州級駆逐艦](../Page/蘭州級駆逐艦.md "wikilink")などに装備されているが、性能は陸上発射型とほぼ同じである。
 

@@ -3,7 +3,7 @@
 
 **D.N.ドリームパートナーズ**（略称：**DNDP**）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")の共同出資による、コンテンツ製作・投資のための[有限責任事業組合](../Page/有限責任事業組合.md "wikilink")。
 
-日本テレビの放送コンテンツと、NTTドコモの[携帯電話](../Page/携帯電話.md "wikilink")サービスを連携させた新たなサービスやコンテンツを開発・提供するために、7年間の期限を設定し、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月に設立された。主に[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")におけるデータ放送と[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")とのコンテンツ間の連動、日本テレビの放送コンテンツのNTTドコモの映像配信サービス（[Vライブ](../Page/Vライブ.md "wikilink")、[iモーション](https://ja.wikipedia.org/wiki/iモーション "wikilink")）への提供、日本テレビ主催のイベントでの[おサイフケータイ](https://ja.wikipedia.org/wiki/おサイフケータイ "wikilink")の活用等が主軸。
+日本テレビの放送コンテンツと、NTTドコモの[携帯電話](../Page/携帯電話.md "wikilink")サービスを連携させた新たなサービスやコンテンツを開発・提供するために、7年間の期限を設定し、[2006年](../Page/2006年.md "wikilink")4月に設立された。主に[ワンセグ](../Page/ワンセグ.md "wikilink")におけるデータ放送と[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")とのコンテンツ間の連動、日本テレビの放送コンテンツのNTTドコモの映像配信サービス（[Vライブ](../Page/Vライブ.md "wikilink")、[iモーション](https://ja.wikipedia.org/wiki/iモーション "wikilink")）への提供、日本テレビ主催のイベントでの[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")の活用等が主軸。
 
 ## 出資コンテンツ
 
@@ -11,7 +11,7 @@
 
   - [DEATH NOTE](https://ja.wikipedia.org/wiki/DEATH_NOTE_\(アニメ\) "wikilink")
   - [砂沙美☆魔法少女クラブ](../Page/砂沙美☆魔法少女クラブ.md "wikilink")
-  - [CLAYMORE](https://ja.wikipedia.org/wiki/CLAYMORE "wikilink")
+  - [CLAYMORE](../Page/CLAYMORE.md "wikilink")
   - [BUZZER BEATER](../Page/BUZZER_BEATER.md "wikilink")（日本テレビ版）
   - [逆境無頼カイジ](https://ja.wikipedia.org/wiki/賭博黙示録カイジ#テレビアニメ "wikilink")
   - [魔人探偵脳噛ネウロ](https://ja.wikipedia.org/wiki/魔人探偵脳噛ネウロ "wikilink")
@@ -20,7 +20,7 @@
   - [ONE OUTS -ワンナウツ-](https://ja.wikipedia.org/wiki/ONE_OUTS "wikilink")
   - [魍魎の匣](../Page/魍魎の匣.md "wikilink")
   - [はじめの一歩 New Challenger](https://ja.wikipedia.org/wiki/はじめの一歩 "wikilink")
-  - [蒼天航路](https://ja.wikipedia.org/wiki/蒼天航路 "wikilink")
+  - [蒼天航路](../Page/蒼天航路.md "wikilink")
   - [君に届け](../Page/君に届け.md "wikilink")
   - [ユルアニ?](https://ja.wikipedia.org/wiki/ユルアニ? "wikilink")
   - [3D彼女 リアルガール](https://ja.wikipedia.org/wiki/3D彼女 "wikilink")
@@ -34,7 +34,7 @@
       - [死ぬかと思った](../Page/死ぬかと思った.md "wikilink")
   - [サタデーTVラボ](../Page/サタデーTVラボ.md "wikilink")
       - [ハリ系](https://ja.wikipedia.org/wiki/ハリ系 "wikilink")
-      - [栞と紙魚子](https://ja.wikipedia.org/wiki/栞と紙魚子 "wikilink")の怪奇事件簿
+      - [栞と紙魚子](../Page/栞と紙魚子.md "wikilink")の怪奇事件簿
       - [2クール](https://ja.wikipedia.org/wiki/2クール "wikilink")
       - [ハッピーミックス](https://ja.wikipedia.org/wiki/ハッピーミックス "wikilink")
       - [絶対やれるギリシャ神話](https://ja.wikipedia.org/wiki/絶対やれるギリシャ神話 "wikilink")
@@ -62,7 +62,7 @@
   - [劇場版 どうぶつの森](../Page/劇場版_どうぶつの森.md "wikilink")
   - [スカイ・クロラ The Sky Crawlers](https://ja.wikipedia.org/wiki/スカイ・クロラシリーズ#映画 "wikilink")
   - [サマーウォーズ](https://ja.wikipedia.org/wiki/サマーウォーズ "wikilink")
-  - [MW-ムウ-](https://ja.wikipedia.org/wiki/MW_\(漫画\) "wikilink")
+  - [MW-ムウ-](../Page/MW_\(漫画\).md "wikilink")
   - [カイジ 人生逆転ゲーム](https://ja.wikipedia.org/wiki/賭博黙示録カイジ#映画 "wikilink")
   - [なくもんか](https://ja.wikipedia.org/wiki/なくもんか "wikilink")
   - [僕の初恋をキミに捧ぐ](https://ja.wikipedia.org/wiki/僕の初恋をキミに捧ぐ#映画 "wikilink")

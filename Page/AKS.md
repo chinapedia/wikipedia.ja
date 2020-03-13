@@ -1,9 +1,9 @@
 > この記事は[AKS](https://ja.wikipedia.org/wiki/AKS)から翻訳されています。
 
 
-**株式会社AKS**（英文社名：**）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[芸能プロダクションである](../Page/芸能事務所.md "wikilink")。
+**株式会社AKS**（英文社名：**）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[芸能プロダクションである](../Page/芸能事務所.md "wikilink")。
 
-社名は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の主要創設者である[秋元康](../Page/秋元康.md "wikilink")（**A**kimoto）・[窪田康志](https://ja.wikipedia.org/wiki/窪田康志 "wikilink")（**K**ubota）・[芝幸太郎](https://ja.wikipedia.org/wiki/芝幸太郎 "wikilink")（**S**hiba）の頭文字を由来とする。芸能プロダクションの経営ほか、音楽・映像ソフトの企画・制作・製造・販売、[音楽出版](https://ja.wikipedia.org/wiki/音楽出版 "wikilink")、映画の企画・制作、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グッズの販売なども手掛けている。日本国内の[AKB48グループ](https://ja.wikipedia.org/wiki/AKB48グループ "wikilink")のうちAKB48・[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")・[NGT48](https://ja.wikipedia.org/wiki/NGT48 "wikilink")の3グループの運営管理会社 である。
+社名は[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の主要創設者である[秋元康](../Page/秋元康.md "wikilink")（**A**kimoto）・[窪田康志](https://ja.wikipedia.org/wiki/窪田康志 "wikilink")（**K**ubota）・[芝幸太郎](https://ja.wikipedia.org/wiki/芝幸太郎 "wikilink")（**S**hiba）の頭文字を由来とする。芸能プロダクションの経営ほか、音楽・映像ソフトの企画・制作・製造・販売、[音楽出版](../Page/音楽出版.md "wikilink")、映画の企画・制作、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グッズの販売なども手掛けている。日本国内の[AKB48グループ](https://ja.wikipedia.org/wiki/AKB48グループ "wikilink")のうちAKB48・[HKT48](https://ja.wikipedia.org/wiki/HKT48 "wikilink")・[NGT48](https://ja.wikipedia.org/wiki/NGT48 "wikilink")の3グループの運営管理会社 である。
 
 ## 概要
 
@@ -15,13 +15,13 @@ AKB48\[3\]・HKT48・NGT48のオーディションに合格した際、最初に
 
 [NMB48](https://ja.wikipedia.org/wiki/NMB48 "wikilink")の 運営については、一時期AKSが行っていたが、2019年6月1日付けで元の運営会社である[KYORAKU吉本.ホールディングス](https://ja.wikipedia.org/wiki/KYORAKU吉本.ホールディングス "wikilink")株式会社に戻った。NMB48の管理業務は、[株式会社Showtitle](https://ja.wikipedia.org/wiki/Showtitle "wikilink")（[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")の子会社。本社は[東京に置かれているが](../Page/東京都区部.md "wikilink")、事務局は[大阪に置かれている](../Page/大阪市.md "wikilink")）が行っている。その経緯から、メンバーの宣材写真が映る場合、AKS所属グループは著作権表示が (©AKS) であるのに対し、NMB48は運営会社の名称ではなくグループ名の (©NMB48あるいは©NMB) となっている。[STU48](https://ja.wikipedia.org/wiki/STU48 "wikilink")に関してもAKSではなく、新設された[株式会社STUが運営管理しており](https://ja.wikipedia.org/wiki/STU_\(企業\) "wikilink")\[11\]、著作権表示は (©STU) となっている\[12\]。
 
-[AKB48 OFFICIAL CAFE & SHOPSは](https://ja.wikipedia.org/wiki/AKB48_SHOP "wikilink")、[フィールズ株式会社と共同で運営している](https://ja.wikipedia.org/wiki/フィールズ_\(企業\) "wikilink")。
+[AKB48 OFFICIAL CAFE & SHOPSは](https://ja.wikipedia.org/wiki/AKB48_SHOP "wikilink")、[フィールズ株式会社と共同で運営している](../Page/フィールズ_\(企業\).md "wikilink")。
 
 ## 沿革
 
 **2006年**
 
-  - [KRKプロデュース株式会社](https://ja.wikipedia.org/wiki/#関係会社 "wikilink")[代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")・[窪田康志](https://ja.wikipedia.org/wiki/窪田康志 "wikilink")が、女性アイドルグループAKB48の運営管理を主たる事業として、東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[白金台](../Page/白金台.md "wikilink")（KRKプロデュース社内）に設立。
+  - [KRKプロデュース株式会社](https://ja.wikipedia.org/wiki/#関係会社 "wikilink")[代表取締役](../Page/代表取締役.md "wikilink")・[窪田康志](https://ja.wikipedia.org/wiki/窪田康志 "wikilink")が、女性アイドルグループAKB48の運営管理を主たる事業として、東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[白金台](../Page/白金台.md "wikilink")（KRKプロデュース社内）に設立。
   - [AKB48劇場](../Page/AKB48劇場.md "wikilink")の運営業務を株式会社office48から移管。それに伴い、AKB48のグループとしての運営管理業務も株式会社office48から移管。
   - AKS[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")（[インディーズ](../Page/インディーズ.md "wikilink")）として、AKB48が2月に「[桜の花びらたち](../Page/桜の花びらたち.md "wikilink")」・6月に「[スカート、ひらり](../Page/スカート、ひらり.md "wikilink")」を[CDシングルリリース](../Page/CD-DA.md "wikilink")。
 
@@ -32,7 +32,7 @@ AKB48\[3\]・HKT48・NGT48のオーディションに合格した際、最初に
 
 **2008年**
 
-  - AKB48の[コンサートDVDおよび](https://ja.wikipedia.org/wiki/AKB48の関連作品#コンサート "wikilink")[劇場公演DVDの企画](https://ja.wikipedia.org/wiki/AKB48の関連作品#劇場公演 "wikilink")、制作、製造、販売業務等を[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")レーベルからAKSレーベルに移譲。
+  - AKB48の[コンサートDVDおよび](https://ja.wikipedia.org/wiki/AKB48の関連作品#コンサート "wikilink")[劇場公演DVDの企画](https://ja.wikipedia.org/wiki/AKB48の関連作品#劇場公演 "wikilink")、制作、製造、販売業務等を[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")レーベルからAKSレーベルに移譲。
   - 5月9日、本社を東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[有明](../Page/有明_\(江東区\).md "wikilink")（KRKプロデュース社内）に移転\[13\]。
 
 **2009年**
@@ -48,12 +48,12 @@ AKB48\[3\]・HKT48・NGT48のオーディションに合格した際、最初に
 **2011年**
 
   - 1月、映画『[DOCUMENTARY of AKB48 to be continued 10年後、少女たちは今の自分に何を思うのだろう?](https://ja.wikipedia.org/wiki/DOCUMENTARY_of_AKB48_to_be_continued_10年後、少女たちは今の自分に何を思うのだろう? "wikilink")』を[東宝](../Page/東宝.md "wikilink")株式会社らと製作。
-  - 5月、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")に事務局を設立し、HKT48の結成・運営に着手。
+  - 5月、[福岡県](../Page/福岡県.md "wikilink")に事務局を設立し、HKT48の結成・運営に着手。
   - 同月、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")に海外2店舗目となる「[AKB48 Official Shop Singapore](https://ja.wikipedia.org/wiki/AKB48_SHOP#海外店舗 "wikilink")」、「[AKB48 THEATER SINGAPORE](https://ja.wikipedia.org/wiki/AKB48_SHOP#海外店舗 "wikilink")」をオープン。
   - 6月、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[台北市](../Page/台北市.md "wikilink")に海外3店舗目となる「[AKB48 OFFICIAL SHOP & CAFE TAIWAN](https://ja.wikipedia.org/wiki/AKB48_SHOP#海外店舗 "wikilink")」をオープン。
   - 同月、AKB48シンガポールプロジェクト第三弾となる「[AKB48 Official Shop & Cafe Singapore](https://ja.wikipedia.org/wiki/AKB48_SHOP#海外店舗 "wikilink")」をオープン。
   - 7月、東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[神宮前に](../Page/神宮前_\(渋谷区\).md "wikilink")「[AKB48 OFFICIAL SHOP HARAJUKU](https://ja.wikipedia.org/wiki/AKB48_SHOP "wikilink")」をオープン。
-  - 同月、榎本善紀（[京楽産業.](../Page/京楽産業..md "wikilink")株式会社代表取締役社長）と細井孝宏（当時・京楽産業.株式会社[取締役](https://ja.wikipedia.org/wiki/取締役 "wikilink")）が取締役に就任\[14\]。これにより全取締役4名中2名が京楽産業.株式会社出身者で占められることとなった\[15\]。また、京楽産業.株式会社からの出資も受け入れた。
+  - 同月、榎本善紀（[京楽産業.](../Page/京楽産業..md "wikilink")株式会社代表取締役社長）と細井孝宏（当時・京楽産業.株式会社[取締役](../Page/取締役.md "wikilink")）が取締役に就任\[14\]。これにより全取締役4名中2名が京楽産業.株式会社出身者で占められることとなった\[15\]。また、京楽産業.株式会社からの出資も受け入れた。
   - 9月、東京都千代田区[神田に](../Page/神田_\(千代田区\).md "wikilink")「[AKB48 CAFE\&SHOP AKIHABARA](https://ja.wikipedia.org/wiki/AKB48_SHOP#AKB48_CAFE&SHOP_AKIHABARA "wikilink")」をオープン。
   - 11月、SKE48全メンバーおよび[株式会社ピタゴラス・プロモーションにおいてSKE](../Page/ピタゴラス・プロモーション.md "wikilink")48事業に従事してきた全スタッフを株式会社AKSへ転籍\[16\]。
   - 同月、[HKT48劇場](https://ja.wikipedia.org/wiki/HKT48#HKT48劇場 "wikilink")（[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区](../Page/中央区_\(福岡市\).md "wikilink")）の運営を開始。
@@ -63,7 +63,7 @@ AKB48\[3\]・HKT48・NGT48のオーディションに合格した際、最初に
 
   - 1月、映画『[DOCUMENTARY of AKB48 Show must go on 少女たちは傷つきながら、夢を見る](https://ja.wikipedia.org/wiki/DOCUMENTARY_of_AKB48_Show_must_go_on_少女たちは傷つきながら、夢を見る "wikilink")』を東宝株式会社らと製作。
   - 3月、本社を東京都千代田区外神田（AKB48劇場内）に移転\[17\]。これに伴い、関連会社3社も東京都千代田区外神田に移転。
-  - 同月、福岡市中央区[大名に](https://ja.wikipedia.org/wiki/大名_\(福岡市\) "wikilink")「[AKB48 CAFE\&SHOP HAKATA](https://ja.wikipedia.org/wiki/AKB48_SHOP#AKB48_CAFE&SHOP_HAKATA "wikilink")」をオープン。
+  - 同月、福岡市中央区[大名に](../Page/大名_\(福岡市\).md "wikilink")「[AKB48 CAFE\&SHOP HAKATA](https://ja.wikipedia.org/wiki/AKB48_SHOP#AKB48_CAFE&SHOP_HAKATA "wikilink")」をオープン。
   - 同月、所属グループSDN48のメンバー全員が卒業\[18\]。
   - 4月、[大阪市](../Page/大阪市.md "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")[難波千日前](https://ja.wikipedia.org/wiki/難波千日前 "wikilink")に「[AKB48 CAFE\&SHOP NAMBA](https://ja.wikipedia.org/wiki/AKB48_SHOP#AKB48_CAFE&SHOP_NAMBA "wikilink")」をオープン\[19\]。
 
@@ -103,7 +103,7 @@ AKB48\[3\]・HKT48・NGT48のオーディションに合格した際、最初に
 ## 役員および組織
 
   - 役員\[36\]
-    [代表取締役](https://ja.wikipedia.org/wiki/代表取締役 "wikilink")社長：[吉成夏子](https://ja.wikipedia.org/wiki/吉成夏子 "wikilink")\[37\]
+    [代表取締役](../Page/代表取締役.md "wikilink")社長：[吉成夏子](https://ja.wikipedia.org/wiki/吉成夏子 "wikilink")\[37\]
     [社外取締役](../Page/社外取締役.md "wikilink")：佐藤明夫（佐藤総合[法律事務所](../Page/法律事務所.md "wikilink")、[弁護士](../Page/弁護士.md "wikilink")）、渡辺洋行（B Dash Ventures株式会社代表取締役社長）
     [社外監査役](https://ja.wikipedia.org/wiki/監査役#日本の監査役 "wikilink")：篠田憲明（三宅坂総合法律事務所、弁護士）
     顧問：竹村滋幸（[ANAホールディングス](https://ja.wikipedia.org/wiki/ANAホールディングス "wikilink")株式会社、特任顧問）
@@ -174,7 +174,7 @@ AKB48\[3\]・HKT48・NGT48のオーディションに合格した際、最初に
   - 長友彩海
   - 武藤小麟
   - [武藤十夢](https://ja.wikipedia.org/wiki/武藤十夢 "wikilink")
-  - [茂木忍](https://ja.wikipedia.org/wiki/茂木忍 "wikilink")
+  - [茂木忍](../Page/茂木忍.md "wikilink")
   - 安田叶
   - 湯本亜美
 
@@ -560,11 +560,11 @@ CGM48：1人
 <div class="NavContent" style="text-align:left">
 
   - [太田プロダクション](../Page/太田プロダクション.md "wikilink")へ移籍
-      - [入山杏奈](https://ja.wikipedia.org/wiki/入山杏奈 "wikilink")・[横山由依](https://ja.wikipedia.org/wiki/横山由依 "wikilink")（過去に[ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")所属）
+      - [入山杏奈](https://ja.wikipedia.org/wiki/入山杏奈 "wikilink")・[横山由依](https://ja.wikipedia.org/wiki/横山由依 "wikilink")（過去に[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")所属）
   - [ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")へ移籍
       - [大家志津香](../Page/大家志津香.md "wikilink")・[柏木由紀](../Page/柏木由紀.md "wikilink")（ともに移籍当初は[ビスケットエンターティメント](../Page/ビスケットエンターティメント.md "wikilink")所属）
   - [Mama\&Sonへ移籍](https://ja.wikipedia.org/wiki/プロダクション尾木#Mama&Son "wikilink")\[41\]
-      - [加藤玲奈](https://ja.wikipedia.org/wiki/加藤玲奈_\(AKB48\) "wikilink")・[向井地美音](../Page/向井地美音.md "wikilink")（過去に[セントラル子供タレント](https://ja.wikipedia.org/wiki/セントラルグループ "wikilink")、[イー・コンセプトに所属](../Page/ジャパン・ミュージックエンターテインメント.md "wikilink")）
+      - [加藤玲奈](https://ja.wikipedia.org/wiki/加藤玲奈_\(AKB48\) "wikilink")・[向井地美音](../Page/向井地美音.md "wikilink")（過去に[セントラル子供タレント](../Page/セントラルグループ.md "wikilink")、[イー・コンセプトに所属](../Page/ジャパン・ミュージックエンターテインメント.md "wikilink")）
 
 **その他の移籍**
 
@@ -590,17 +590,17 @@ CGM48：1人
   - [岩田華怜](https://ja.wikipedia.org/wiki/岩田華怜 "wikilink") - ホリプロへ移籍（過去に[MOCプランニング](https://ja.wikipedia.org/wiki/MOCプランニング "wikilink")に所属）。
   - [大江朝美](https://ja.wikipedia.org/wiki/大江朝美 "wikilink")\[42\] - ニューゲートプロダクション、フリー期間を経てスタークラスターエンターテイメント所属。
   - [大和田南那](https://ja.wikipedia.org/wiki/大和田南那 "wikilink") - フリー期間を経て、[エイジアプロモーション](https://ja.wikipedia.org/wiki/エイジアプロモーション "wikilink")へ移籍。
-  - [片山陽加](../Page/片山陽加.md "wikilink") - AKB48在籍中にアトリエ・ダンカンへ移籍。2013年4月に復帰するも2014年から[アービング所属となり卒業](https://ja.wikipedia.org/wiki/アービング_\(芸能プロダクション\) "wikilink")。
+  - [片山陽加](../Page/片山陽加.md "wikilink") - AKB48在籍中にアトリエ・ダンカンへ移籍。2013年4月に復帰するも2014年から[アービング所属となり卒業](../Page/アービング_\(芸能プロダクション\).md "wikilink")。
   - [川栄李奈](https://ja.wikipedia.org/wiki/川栄李奈 "wikilink") - [エイベックス・ヴァンガード](https://ja.wikipedia.org/wiki/エイベックス・ヴァンガード "wikilink")へ移籍（現在は[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属）。
-  - [川崎希](https://ja.wikipedia.org/wiki/川崎希 "wikilink")\[43\] - [スカイコーポレーションを経て](../Page/スカイコーポレーション_\(芸能事務所\).md "wikilink")、ワタナベエンターテインメントへ移籍。
-  - [菊地あやか](../Page/菊地あやか.md "wikilink")\[44\] - [プロダクション尾木](https://ja.wikipedia.org/wiki/プロダクション尾木 "wikilink")へ移籍後フリーに。
+  - [川崎希](../Page/川崎希.md "wikilink")\[43\] - [スカイコーポレーションを経て](../Page/スカイコーポレーション_\(芸能事務所\).md "wikilink")、ワタナベエンターテインメントへ移籍。
+  - [菊地あやか](../Page/菊地あやか.md "wikilink")\[44\] - [プロダクション尾木](../Page/プロダクション尾木.md "wikilink")へ移籍後フリーに。
   - 後藤萌咲
-  - [佐藤夏希](https://ja.wikipedia.org/wiki/佐藤夏希 "wikilink")\[45\] - ワタナベエンターテインメントへ移籍（移籍当初はビスケットエンターティメント所属）し引退。佐藤夏希・野呂佳代は一度office48と所属契約し、その後AKSに移籍。
+  - [佐藤夏希](../Page/佐藤夏希.md "wikilink")\[45\] - ワタナベエンターテインメントへ移籍（移籍当初はビスケットエンターティメント所属）し引退。佐藤夏希・野呂佳代は一度office48と所属契約し、その後AKSに移籍。
   - [島崎遥香](https://ja.wikipedia.org/wiki/島崎遥香 "wikilink") - [ビッグアップルへ移籍](../Page/ビッグアップル_\(港区\).md "wikilink")。
   - [中塚智実](../Page/中塚智実.md "wikilink") - [ドレスコードを経て](../Page/ドレスコード_\(芸能事務所\).md "wikilink")、現在はフリーランス。
   - [仲俣汐里](https://ja.wikipedia.org/wiki/仲俣汐里 "wikilink") - ワタナベエンターテインメントへ移籍後、引退。
   - [中村麻里子](https://ja.wikipedia.org/wiki/中村麻里子 "wikilink") - 過去にFLOWER AGENTに所属。[シンエイVへ移籍後](https://ja.wikipedia.org/wiki/新栄プロダクション "wikilink")、[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")契約アナウンサーとして活動。
-  - [成田梨紗](https://ja.wikipedia.org/wiki/成田梨紗 "wikilink")\[46\]
+  - [成田梨紗](../Page/成田梨紗.md "wikilink")\[46\]
   - 西山怜那
   - [仁藤萌乃](../Page/仁藤萌乃.md "wikilink") - ホリプロへ移籍。
   - [平田梨奈](https://ja.wikipedia.org/wiki/平田梨奈 "wikilink")
@@ -625,12 +625,12 @@ CGM48：1人
   - 相笠萌 - フリー期間を経て、[オフィスウォーカー](../Page/オフィスウォーカー.md "wikilink")へ移籍。
   - [石田晴香](../Page/石田晴香.md "wikilink") - ホリプロへ移籍。
   - [小嶋真子](https://ja.wikipedia.org/wiki/小嶋真子 "wikilink") - [サンミュージックプロダクション](../Page/サンミュージックプロダクション.md "wikilink")へ移籍。
-  - [佐藤亜美菜](https://ja.wikipedia.org/wiki/佐藤亜美菜 "wikilink") - 一度[アトリエ・ダンカン](https://ja.wikipedia.org/wiki/アトリエ・ダンカン "wikilink")に移籍。その後AKSへ復帰後\[48\]、[大沢事務所](https://ja.wikipedia.org/wiki/大沢事務所 "wikilink")へ移籍。
+  - [佐藤亜美菜](https://ja.wikipedia.org/wiki/佐藤亜美菜 "wikilink") - 一度[アトリエ・ダンカン](https://ja.wikipedia.org/wiki/アトリエ・ダンカン "wikilink")に移籍。その後AKSへ復帰後\[48\]、[大沢事務所](../Page/大沢事務所.md "wikilink")へ移籍。
   - [島田晴香](https://ja.wikipedia.org/wiki/島田晴香 "wikilink") - [フレイヴ エンターテインメント](https://ja.wikipedia.org/wiki/フレイヴ_エンターテインメント "wikilink")（移籍当初は[office48所属](../Page/オフィスフォーティエイト.md "wikilink")）へ移籍後、引退\[49\]。
   - [鈴木紫帆里](https://ja.wikipedia.org/wiki/鈴木紫帆里 "wikilink")
   - [鈴木まりや](https://ja.wikipedia.org/wiki/鈴木まりや "wikilink") - ドレスコードへ移籍（現在はフレイヴ エンターテインメントに所属）。
   - [高城亜樹](https://ja.wikipedia.org/wiki/高城亜樹 "wikilink") - ビスケットエンターティメント・ワタナベエンターテインメント・フリー期間を経て、[アイエス・フィールド](https://ja.wikipedia.org/wiki/アイエス・フィールド "wikilink")へ移籍。
-  - [田野優花](https://ja.wikipedia.org/wiki/田野優花 "wikilink") - [セントラルへ移籍](https://ja.wikipedia.org/wiki/セントラルグループ "wikilink")。
+  - [田野優花](https://ja.wikipedia.org/wiki/田野優花 "wikilink") - [セントラルへ移籍](../Page/セントラルグループ.md "wikilink")。
   - [中田ちさと](https://ja.wikipedia.org/wiki/中田ちさと "wikilink") - 一時[Mousa](https://ja.wikipedia.org/wiki/Mousa "wikilink")に在籍、2015年10月1日復帰、2017年4月24日に卒業。
   - [仲谷明香](../Page/仲谷明香.md "wikilink") - Mousa・フリー期間を経て、[アミュレート](https://ja.wikipedia.org/wiki/アミュレート "wikilink")へ移籍。
   - [永尾まりや](https://ja.wikipedia.org/wiki/永尾まりや "wikilink") - アービングへ移籍。
@@ -1152,13 +1152,13 @@ CGM48：1人
   - 伊藤花菜 - フリー期間を経て、ボックスコーポレーションへ移籍。
   - [今吉めぐみ](https://ja.wikipedia.org/wiki/今吉めぐみ "wikilink") - HoneyBeat、[アークプロダクション](https://ja.wikipedia.org/wiki/アークプロダクション "wikilink")を経てA.M.Entertainmentへ移籍。
   - 岩田優希
-  - [浦野一美](https://ja.wikipedia.org/wiki/浦野一美 "wikilink")\[60\] - AKB48在籍時にプロダクション尾木へ移籍後、フリー期間を経てHIRへ移籍。
+  - [浦野一美](../Page/浦野一美.md "wikilink")\[60\] - AKB48在籍時にプロダクション尾木へ移籍後、フリー期間を経てHIRへ移籍。
   - [大河内美紗](https://ja.wikipedia.org/wiki/大河内美紗 "wikilink") - ニュースタイルプロダクションを経て、現在はフリーランス。
-  - [大堀恵](https://ja.wikipedia.org/wiki/大堀恵 "wikilink")\[61\] - [エーゼット](https://ja.wikipedia.org/wiki/エーゼット "wikilink")を経て、ホリプロへ移籍。
+  - [大堀恵](../Page/大堀恵.md "wikilink")\[61\] - [エーゼット](https://ja.wikipedia.org/wiki/エーゼット "wikilink")を経て、ホリプロへ移籍。
   - 河内麻沙美（過去にXIに所属）
   - [小原春香](../Page/小原春香.md "wikilink") - ドレスコード、マグニファイを経て、現在はフリーランス。
   - [近藤さや香](https://ja.wikipedia.org/wiki/近藤さや香 "wikilink") - [セント・フォース](../Page/セント・フォース.md "wikilink")へ移籍。
-  - [佐藤由加理](https://ja.wikipedia.org/wiki/佐藤由加理 "wikilink")\[62\] - アーティストハウス・ピラミッド、フリー期間、[芸映](https://ja.wikipedia.org/wiki/芸映 "wikilink")プロダクションを経て、現在は再度フリーランス。
+  - [佐藤由加理](../Page/佐藤由加理.md "wikilink")\[62\] - アーティストハウス・ピラミッド、フリー期間、[芸映](../Page/芸映.md "wikilink")プロダクションを経て、現在は再度フリーランス。
   - [手束真知子](../Page/手束真知子.md "wikilink")（過去に[フィットワン](https://ja.wikipedia.org/wiki/フィットワン "wikilink")、ピタゴラス・プロモーションに所属）
   - 仲里安也美
   - [西国原礼子](https://ja.wikipedia.org/wiki/西国原礼子 "wikilink") - [LIBERAを経て](https://ja.wikipedia.org/wiki/LIBERA_\(芸能事務所\) "wikilink")、現在はフリーランス。
@@ -1197,9 +1197,9 @@ CGM48：1人
 
 <div class="NavContent" style="text-align:left">
 
-  - [駒谷仁美](https://ja.wikipedia.org/wiki/駒谷仁美 "wikilink")\[65\] - [サンミュージックブレーン](../Page/サンミュージックブレーン.md "wikilink")へ移籍。
+  - [駒谷仁美](../Page/駒谷仁美.md "wikilink")\[65\] - [サンミュージックブレーン](../Page/サンミュージックブレーン.md "wikilink")へ移籍。
   - [尻無浜冴美](../Page/尻無浜冴美.md "wikilink") - [サディーカ](https://ja.wikipedia.org/wiki/サディーカ "wikilink")を経て、現在はフリーランス（過去にオスカープロモーションに所属）。
-  - [戸島花](https://ja.wikipedia.org/wiki/戸島花 "wikilink") - ドレスコードへ移籍（過去に[プラチカ](https://ja.wikipedia.org/wiki/プラチカ "wikilink")に所属）。
+  - [戸島花](../Page/戸島花.md "wikilink") - ドレスコードへ移籍（過去に[プラチカ](https://ja.wikipedia.org/wiki/プラチカ "wikilink")に所属）。
 
 </div>
 
@@ -1253,7 +1253,7 @@ CGM48：1人
 **その他の移籍**
 
   - チームS
-      - [東李苑](https://ja.wikipedia.org/wiki/東李苑 "wikilink") - フリー期間を経て、[CREATIVE OFFICE CUEへ移籍](https://ja.wikipedia.org/wiki/CREATIVE_OFFICE_CUE "wikilink")。
+      - [東李苑](https://ja.wikipedia.org/wiki/東李苑 "wikilink") - フリー期間を経て、[CREATIVE OFFICE CUEへ移籍](../Page/CREATIVE_OFFICE_CUE.md "wikilink")。
       - 一色嶺奈 - バイトAKB時代にも在籍。
       - 犬塚あさな ※ - [舞夢プロ](../Page/舞夢プロ.md "wikilink")へ移籍。
       - [大矢真那](https://ja.wikipedia.org/wiki/大矢真那 "wikilink") ※ - サン・オフィスへ移籍。
@@ -1345,7 +1345,7 @@ CGM48：1人
       - 佐々木柚香
       - 宮脇理子 - みらいくーる、セレンエンターテインメントを経て、現在はフリーランス。
       - 矢野杏月
-      - 山本由香（現・神谷由香） - [レプロエンタテインメント](https://ja.wikipedia.org/wiki/レプロエンタテインメント "wikilink")へ移籍。
+      - 山本由香（現・神谷由香） - [レプロエンタテインメント](../Page/レプロエンタテインメント.md "wikilink")へ移籍。
   - 7期生
       - 川崎成美 - 名古屋美少女ファクトリーへ移籍。
       - 辻のぞみ
@@ -1469,7 +1469,7 @@ SKEへ移籍
 <div class="NavContent" style="text-align:left">
 
   - チームN
-      - [市川美織](https://ja.wikipedia.org/wiki/市川美織 "wikilink") - [スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")・ボックスコーポレーションなどを経てAKB48在籍時にプロダクション尾木へ移籍。
+      - [市川美織](https://ja.wikipedia.org/wiki/市川美織 "wikilink") - [スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")・ボックスコーポレーションなどを経てAKB48在籍時にプロダクション尾木へ移籍。
   - チームBII
       - [藤江れいな](../Page/藤江れいな.md "wikilink") - AKB48在籍時に[イトーカンパニー](../Page/イトーカンパニー.md "wikilink")へ移籍。
 
@@ -1553,7 +1553,7 @@ SKEへ移籍
       - 江藤彩也香 - フリー期間を経て、[エースクルー・エンタテインメント](https://ja.wikipedia.org/wiki/エースクルー・エンタテインメント "wikilink")へ移籍後、現在再びフリーランス。
       - 仲西彩佳
   - 4期生
-      - [音嶋莉沙](https://ja.wikipedia.org/wiki/音嶋莉沙 "wikilink") - 過去にエイベックス・マネジメントに所属しており、それによる契約の関係でHKT48では合格取り消しとなった\[67\]\[68\]。現在は[代々木アニメーション学院](https://ja.wikipedia.org/wiki/代々木アニメーション学院 "wikilink") [=LOVE](https://ja.wikipedia.org/wiki/=LOVE "wikilink")運営事務局に所属。
+      - [音嶋莉沙](https://ja.wikipedia.org/wiki/音嶋莉沙 "wikilink") - 過去にエイベックス・マネジメントに所属しており、それによる契約の関係でHKT48では合格取り消しとなった\[67\]\[68\]。現在は[代々木アニメーション学院](../Page/代々木アニメーション学院.md "wikilink") [=LOVE](https://ja.wikipedia.org/wiki/=LOVE "wikilink")運営事務局に所属。
 
 </div>
 
@@ -1702,7 +1702,7 @@ AKSは[レコードレーベル](../Page/レコードレーベル.md "wikilink")
   - SKE48運営事務局（旧株式会社ピタゴラス・プロモーション名古屋支社）
     [名古屋市](../Page/名古屋市.md "wikilink")[中区](../Page/中区_\(名古屋市\).md "wikilink")[錦3](https://ja.wikipedia.org/wiki/錦三丁目 "wikilink")-24-17 日本生命栄町ビル5F → 〒460-0003 名古屋市中区錦3-24-4 SUNSHINE SAKAE2F劇場内（一時非開示）、ビルは[京楽産業.](../Page/京楽産業..md "wikilink")株式会社の子会社の[京楽エンタテインメント・リテイルズ](https://ja.wikipedia.org/wiki/京楽エンタテインメント・リテイルズ "wikilink")株式会社が所有。
   - 福岡事業所（HKT48劇場、HKT48運営事務局）
-    福岡市中央区[天神](https://ja.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")1-15-5 天神明治通りビル507号（開設準備室） → 福岡市中央区[地行浜](../Page/シーサイドももち.md "wikilink")2-2-1 [ホークスタウン](https://ja.wikipedia.org/wiki/ホークスタウン "wikilink")モール2 3F・4F → 非公開
+    福岡市中央区[天神](../Page/天神_\(福岡市\).md "wikilink")1-15-5 天神明治通りビル507号（開設準備室） → 福岡市中央区[地行浜](../Page/シーサイドももち.md "wikilink")2-2-1 [ホークスタウン](../Page/ホークスタウン.md "wikilink")モール2 3F・4F → 非公開
     劇場閉鎖後の郵便物受付窓口は、〒810-8691 日本郵便[福岡中央郵便局](../Page/福岡中央郵便局.md "wikilink")私書箱\[77\]
   - NGT48郵便物受付窓口（私書箱）
     新潟市中央区新和1-6-20 アーク笹出（1期生応募受付窓口） → 〒950-8692 日本郵便[新潟中央郵便局](../Page/新潟中央郵便局.md "wikilink")私書箱\[78\]

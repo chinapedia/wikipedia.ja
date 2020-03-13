@@ -1,7 +1,7 @@
 > この記事は[Nintendo World 2006 Wii](https://ja.wikipedia.org/wiki/Nintendo_World_2006_Wii)から翻訳されています。
 
 
-**Nintendo World 2006 Wii体験会**（ニンテンドーワールドにせんろく ウィーたいけんかい）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月](../Page/11月.md "wikilink")に[関東](../Page/関東.md "wikilink")（[千葉](../Page/千葉市.md "wikilink")）、[名古屋](../Page/名古屋市.md "wikilink")、[大阪で開かれた](../Page/大阪市.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")主催の展示会。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")発売の新型[ゲーム機](../Page/ゲーム機.md "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")や[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")の未発売のソフトが体験できた。
+**Nintendo World 2006 Wii体験会**（ニンテンドーワールドにせんろく ウィーたいけんかい）は、[2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink")に[関東](../Page/関東.md "wikilink")（[千葉](../Page/千葉市.md "wikilink")）、[名古屋](../Page/名古屋市.md "wikilink")、[大阪で開かれた](../Page/大阪市.md "wikilink")[任天堂](../Page/任天堂.md "wikilink")主催の展示会。[2006年](../Page/2006年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")発売の新型[ゲーム機](../Page/ゲーム機.md "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")や[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")の未発売のソフトが体験できた。
 
 任天堂は[1991年](../Page/1991年.md "wikilink")から[2001年](../Page/2001年.md "wikilink")にかけて毎年、「[任天堂スペースワールド](../Page/任天堂スペースワールド.md "wikilink")」という展示会を開催していた。現在はこのイベントおよび[2004年](../Page/2004年.md "wikilink")に開催された**「ニンテンドーワールド Touch\! DS」**のように新ハードの発売に合わせて不定期にソフトの体験会を開くという形式変更している。
 
@@ -28,7 +28,7 @@
   - [Wiiやわらかあたま塾](../Page/Wiiでやわらかあたま塾.md "wikilink")（仮称）　（任天堂）
   - [スーパーマリオギャラクシー](../Page/スーパーマリオギャラクシー.md "wikilink")　（任天堂）
   - [ファイアーエムブレム 暁の女神](../Page/ファイアーエムブレム_暁の女神.md "wikilink")　（任天堂）
-  - [マリオストライカーズ チャージド](https://ja.wikipedia.org/wiki/マリオストライカーズ_チャージド "wikilink")（仮称）　（任天堂）
+  - [マリオストライカーズ チャージド](../Page/マリオストライカーズ_チャージド.md "wikilink")（仮称）　（任天堂）
   - [マリオパーティ8](../Page/マリオパーティ8.md "wikilink")（仮称）　（任天堂）
   - [メトロイドプライム3 コラプション](https://ja.wikipedia.org/wiki/メトロイドプライム3_コラプション "wikilink")　（任天堂）
   - [はじめの一歩 Revolution](https://ja.wikipedia.org/wiki/はじめの一歩 "wikilink")　（[AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")）　※大阪会場、東京会場に出展
@@ -37,7 +37,7 @@
   - [カドゥケウス 二つの超執刀](../Page/カドゥケウスZ_2つの超執刀.md "wikilink")　（[アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")）
   - [マーベル アルティメット アライアンス](https://ja.wikipedia.org/wiki/マーベル_アルティメット_アライアンス "wikilink")　（[インターチャネル・ホロン](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")）
   - [GT pro series](https://ja.wikipedia.org/wiki/GT_pro_series "wikilink")　（[エム・ティー・オー](../Page/エム・ティー・オー.md "wikilink")）
-  - [ニード・フォー・スピード カーボン](../Page/ニード・フォー・スピード_カーボン.md "wikilink")　（[エレクトロニック・アーツ](https://ja.wikipedia.org/wiki/エレクトロニック・アーツ "wikilink")）
+  - [ニード・フォー・スピード カーボン](../Page/ニード・フォー・スピード_カーボン.md "wikilink")　（[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")）
   - [Elebits](../Page/Elebits.md "wikilink")　（[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）
   - [ドラゴンクエストソード 仮面の女王と鏡の塔](../Page/ドラゴンクエストソード_仮面の女王と鏡の塔.md "wikilink")　（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）
   - [ネクロネシア](https://ja.wikipedia.org/wiki/ネクロネシア "wikilink")　（[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")）
@@ -53,11 +53,11 @@
   - [コロリンパ](../Page/コロリンパ.md "wikilink")　（ハドソン）
   - [ボンバーマンランド Wii](https://ja.wikipedia.org/wiki/ボンバーマンランド_Wii "wikilink")　（ハドソン）
   - [めざせ\!\! 釣りマスター](https://ja.wikipedia.org/wiki/めざせ!!_釣りマスター "wikilink")（仮称）　（ハドソン）
-  - [SDガンダム スカッドハンマーズ](https://ja.wikipedia.org/wiki/SDガンダム_スカッドハンマーズ "wikilink")　（[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）
+  - [SDガンダム スカッドハンマーズ](../Page/SDガンダム_スカッドハンマーズ.md "wikilink")　（[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）
   - [縁日の達人](https://ja.wikipedia.org/wiki/縁日の達人 "wikilink")　（バンダイナムコゲームス）
   - [たまごっち](../Page/たまごっち.md "wikilink")のピカピカだいとーりょー\!　（バンダイナムコゲームス）
   - [ONE PIECE アンリミテッドアドベンチャー](../Page/ONE_PIECE.md "wikilink")　（バンダイナムコゲームス）
-  - [クレヨンしんちゃん 最強家族カスカベキング うぃ〜](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_最強家族カスカベキング_うぃ〜 "wikilink")　（[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")）
+  - [クレヨンしんちゃん 最強家族カスカベキング うぃ〜](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_最強家族カスカベキング_うぃ〜 "wikilink")　（[バンプレスト](../Page/バンプレスト.md "wikilink")）
   - [牧場物語Wii](../Page/牧場物語_やすらぎの樹.md "wikilink")（仮称）　（[マーベラスインタラクティブ](https://ja.wikipedia.org/wiki/マーベラスインタラクティブ "wikilink")）
   - [THE DOG ISLAND ひとつの花の物語](https://ja.wikipedia.org/wiki/THE_DOG_ISLAND_ひとつの花の物語 "wikilink")　（[ユークス](../Page/ユークス.md "wikilink")）
   - [モンスター4×4 ワールドサーキット](https://ja.wikipedia.org/wiki/モンスター4×4_ワールドサーキット "wikilink")　（[ユービーアイソフト](../Page/ユービーアイソフト.md "wikilink")）
@@ -80,7 +80,7 @@
   - [漢字そのまま DS楽引辞典](../Page/DS楽引辞典.md "wikilink")　（任天堂）
   - [東北大学未来科学技術共同研究センター川島隆太教授監修 脳を鍛える大人のDSトレーニング](https://ja.wikipedia.org/wiki/東北大学未来科学技術共同研究センター川島隆太教授監修_脳を鍛える大人のDSトレーニング "wikilink")　（任天堂）
   - [nintendogs](https://ja.wikipedia.org/wiki/nintendogs "wikilink")　（任天堂）
-  - [タッチで楽しむ百人一首 DS時雨殿](https://ja.wikipedia.org/wiki/タッチで楽しむ百人一首_DS時雨殿 "wikilink")　（任天堂）
+  - [タッチで楽しむ百人一首 DS時雨殿](../Page/タッチで楽しむ百人一首_DS時雨殿.md "wikilink")　（任天堂）
   - [DS美文字トレーニング](../Page/DS美文字トレーニング.md "wikilink")（仮称）　（任天堂）
   - [ウィッシュルーム 天使の記憶](../Page/ウィッシュルーム_天使の記憶.md "wikilink")　（任天堂）
   - [怪盗ワリオ・ザ・セブン](../Page/怪盗ワリオ・ザ・セブン.md "wikilink")　（任天堂）
@@ -95,15 +95,15 @@
   - [流星のロックマン ドラゴン/ペガサス/レオ](../Page/流星のロックマン_\(ゲーム\).md "wikilink")　（カプコン）
   - [リーズのアトリエ 〜オルドールの錬金術士〜](https://ja.wikipedia.org/wiki/リーズのアトリエ_〜オルドールの錬金術士〜 "wikilink")　（[ガスト](../Page/ガスト_\(ゲームブランド\).md "wikilink")）　※出展中止
   - [悪魔城ドラキュラ ギャラリー オブ ラビリンス](../Page/悪魔城ドラキュラ_ギャラリー_オブ_ラビリンス.md "wikilink")　（コナミデジタルエンタテインメント）
-  - [パワプロクンポケット9](https://ja.wikipedia.org/wiki/パワプロクンポケット9 "wikilink")　（コナミデジタルエンタテインメント）
-  - [ボクらの太陽 Diango & Sabata](https://ja.wikipedia.org/wiki/ボクらの太陽 "wikilink")　（コナミデジタルエンタテインメント）
+  - [パワプロクンポケット9](../Page/パワプロクンポケット9.md "wikilink")　（コナミデジタルエンタテインメント）
+  - [ボクらの太陽 Diango & Sabata](../Page/ボクらの太陽.md "wikilink")　（コナミデジタルエンタテインメント）
   - [DS陰山メソッド 電脳反復 ます×ます百ます計算](https://ja.wikipedia.org/wiki/DS陰山メソッド_電脳反復_ます×ます百ます計算 "wikilink")　（[小学館](../Page/小学館.md "wikilink")）
   - [すばらしきこのせかい](../Page/すばらしきこのせかい.md "wikilink")　（スクウェア・エニックス）
   - [チョコボと魔法の絵本](../Page/チョコボと魔法の絵本.md "wikilink")　（スクウェア・エニックス）
   - [ドラゴンクエストモンスターズ ジョーカー](../Page/ドラゴンクエストモンスターズ_ジョーカー.md "wikilink")　（スクウェア・エニックス）
   - [ご当地検定DS](../Page/ご当地検定DS.md "wikilink")　（[スパイク](../Page/スパイク_\(ゲーム会社\).md "wikilink")）
   - [BLEACH DS 2nd 黒衣ひらめく鎮魂歌](https://ja.wikipedia.org/wiki/BLEACH_DS "wikilink")　（セガ）
-  - [オシャレ魔女 ラブ and ベリー 〜DSコレクション〜](https://ja.wikipedia.org/wiki/オシャレ魔女_ラブandベリー "wikilink")　（セガ）
+  - [オシャレ魔女 ラブ and ベリー 〜DSコレクション〜](../Page/オシャレ魔女_ラブandベリー.md "wikilink")　（セガ）
   - [三国志大戦DS](https://ja.wikipedia.org/wiki/三国志大戦#三国志大戦DS "wikilink")　（セガ）
   - [不思議のダンジョン 風来のシレンDS](https://ja.wikipedia.org/wiki/風来のシレン#風来のシレンDS "wikilink")　（セガ）
   - [NARUTO -ナルト- 忍列伝](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-#DS "wikilink")　（[タカラトミー](../Page/タカラトミー.md "wikilink")）
@@ -116,9 +116,9 @@
 
   - [任天堂スペースワールド](../Page/任天堂スペースワールド.md "wikilink")
   - [ニンテンドーワールド Touch\! DS](https://ja.wikipedia.org/wiki/ニンテンドーワールド_Touch!_DS "wikilink")
-  - [次世代ワールドホビーフェア](https://ja.wikipedia.org/wiki/次世代ワールドホビーフェア "wikilink")
-  - [東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")
-  - [Electronic Entertainment Expo](https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo "wikilink")（E3）
+  - [次世代ワールドホビーフェア](../Page/次世代ワールドホビーフェア.md "wikilink")
+  - [東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")
+  - [Electronic Entertainment Expo](../Page/Electronic_Entertainment_Expo.md "wikilink")（E3）
 
 ## 外部リンク
 

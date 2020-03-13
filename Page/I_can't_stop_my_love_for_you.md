@@ -5,14 +5,14 @@
 
 ## 概要
 
-「[恋はスリル、ショック、サスペンス](../Page/恋はスリル、ショック、サスペンス.md "wikilink")」以来2度目のテレビアニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のタイアップ。[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")の「[ワダツミの木](../Page/ワダツミの木.md "wikilink")」にわずか2500枚弱の差で阻まれ、[オリコン週間シングルチャートでは最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位に留まった。「[NAVY BLUE](https://ja.wikipedia.org/wiki/NAVY_BLUE "wikilink")」、「恋はスリル、ショック、サスペンス」に次ぐ自身3番目の売り上げ。初回特典として「LOVE 里菜カード」が封入されている。
+「[恋はスリル、ショック、サスペンス](../Page/恋はスリル、ショック、サスペンス.md "wikilink")」以来2度目のテレビアニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のタイアップ。[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")の「[ワダツミの木](../Page/ワダツミの木.md "wikilink")」にわずか2500枚弱の差で阻まれ、[オリコン週間シングルチャートでは最高位](../Page/オリコンチャート.md "wikilink")2位に留まった。「[NAVY BLUE](../Page/NAVY_BLUE.md "wikilink")」、「恋はスリル、ショック、サスペンス」に次ぐ自身3番目の売り上げ。初回特典として「LOVE 里菜カード」が封入されている。
 
 ## 収録曲
 
 1.  **I can't stop my love for you♥**
-      - 作詞：愛内里菜　作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")　編曲：[尾城九龍](../Page/尾城九龍.md "wikilink")
+      - 作詞：愛内里菜　作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")　編曲：[尾城九龍](../Page/尾城九龍.md "wikilink")
 2.  **pink baby's breath**
-      - 作詞：愛内里菜　作曲：[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink")　編曲：[寺尾広](../Page/寺尾広.md "wikilink")
+      - 作詞：愛内里菜　作曲：[輝門](../Page/輝門.md "wikilink")　編曲：[寺尾広](../Page/寺尾広.md "wikilink")
 3.  **I can't stop my love for you♥ -KENNY'S SUBLIMITY MIX-**
       - リミックス：KENNY（ORIENTA-RHYTHM）
 4.  **I can't stop my love for you♥ -instrumental-**
@@ -23,17 +23,17 @@
 
 ## 収録アルバム
 
-  - [POWER OF WORDS](https://ja.wikipedia.org/wiki/POWER_OF_WORDS "wikilink")（\#1,2、\#2はalbum mix）
+  - [POWER OF WORDS](../Page/POWER_OF_WORDS.md "wikilink")（\#1,2、\#2はalbum mix）
   - [GIZA studio Masterpiece BLEND 2002](https://ja.wikipedia.org/wiki/GIZA_studio_Masterpiece_BLEND_2002 "wikilink")（\#1）
-  - [THE BEST OF DETECTIVE CONAN 2 〜名探偵コナン テーマ曲集2〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_2_〜名探偵コナン_テーマ曲集2〜 "wikilink")（\#1）
-  - [Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(愛内里菜のアルバム\) "wikilink")（\#1）
+  - [THE BEST OF DETECTIVE CONAN 2 〜名探偵コナン テーマ曲集2〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_2_〜名探偵コナン_テーマ曲集2〜.md "wikilink")（\#1）
+  - [Single Collection](../Page/Single_Collection_\(愛内里菜のアルバム\).md "wikilink")（\#1）
   - [ALL SINGLES BEST 〜THANX 10th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
   - [COLORS](https://ja.wikipedia.org/wiki/COLORS_\(愛内里菜のアルバム\) "wikilink")（\#2）
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">オープニングテーマ</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a><br />
 <a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/3月11日.md" title="wikilink">3月11日</a> - <a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/1月13日.md" title="wikilink">1月13日</a></p></td>
 </tr>
 <tr class="even">

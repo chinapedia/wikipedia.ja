@@ -3,7 +3,7 @@
 
 **RISE**（ライズ）は、[キックボクシング](../Page/キックボクシング.md "wikilink")[興行](../Page/興行.md "wikilink")の一つであり、RISEクリエーション株式会社が主催する。また、当興行で認定される王座を示す語としても用いられる。
 
-初代[WMAF](https://ja.wikipedia.org/wiki/マーシャルアーツ日本キックボクシング連盟#世界マーシャルアーツ連盟（WMAF） "wikilink")[世界](../Page/世界.md "wikilink")[スーパーウェルター級](../Page/スーパーウェルター級.md "wikilink")王者の[伊藤隆がプロデュースしている](https://ja.wikipedia.org/wiki/伊藤隆_\(キックボクサー\) "wikilink")。「RISE」の名称は、「**R**eal **I**mpact **S**ports **E**ntertainment」の略であり、英単語「rise」の「昇る」という意味も掛けている。旗揚げ時の名称は「**R.I.S.E.**」であったが2009年5月31日の「RISE 55」からドットが外され「**RISE**」となった\[1\]。
+初代[WMAF](https://ja.wikipedia.org/wiki/マーシャルアーツ日本キックボクシング連盟#世界マーシャルアーツ連盟（WMAF） "wikilink")[世界](../Page/世界.md "wikilink")[スーパーウェルター級](../Page/スーパーウェルター級.md "wikilink")王者の[伊藤隆がプロデュースしている](../Page/伊藤隆_\(キックボクサー\).md "wikilink")。「RISE」の名称は、「**R**eal **I**mpact **S**ports **E**ntertainment」の略であり、英単語「rise」の「昇る」という意味も掛けている。旗揚げ時の名称は「**R.I.S.E.**」であったが2009年5月31日の「RISE 55」からドットが外され「**RISE**」となった\[1\]。
 
 [アマチュア](../Page/アマチュア.md "wikilink")キックボクシングの大会「KAMINARIMON（カミナリモン）」も定期的に開催し、選手育成および競技人口拡大にも取り組んでいる。
 
@@ -13,7 +13,7 @@
 
 ### 設立
 
-2003年2月23日、[伊藤隆と](https://ja.wikipedia.org/wiki/伊藤隆_\(キックボクサー\) "wikilink")[山口元気](https://ja.wikipedia.org/wiki/山口元気 "wikilink")、[内田康弘](https://ja.wikipedia.org/wiki/内田康弘 "wikilink")が「REAL IMPACT SPORTS ENTERTAINMENT」という興行をプロデュースして[ゴールドジム](https://ja.wikipedia.org/wiki/ゴールドジム "wikilink")サウス東京ANNEXで行い、旗揚げした。
+2003年2月23日、[伊藤隆と](../Page/伊藤隆_\(キックボクサー\).md "wikilink")[山口元気](https://ja.wikipedia.org/wiki/山口元気 "wikilink")、[内田康弘](https://ja.wikipedia.org/wiki/内田康弘 "wikilink")が「REAL IMPACT SPORTS ENTERTAINMENT」という興行をプロデュースして[ゴールドジム](https://ja.wikipedia.org/wiki/ゴールドジム "wikilink")サウス東京ANNEXで行い、旗揚げした。
 
 ### 王座認定の開始
 
@@ -21,7 +21,7 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 
 ### K-1とのタッグ
 
-2009年3月29日、[K-1](../Page/K-1.md "wikilink")の中軽量級興行であるK-1 MAXと協力態勢を強化することが発表された。[谷川貞治](https://ja.wikipedia.org/wiki/谷川貞治 "wikilink")K-1イベントプロデューサーは現在のMAXのみでは大会数が少ないため、当落線上の選手に経験を積ませたり、新たな人材を発掘するのが狙いであると説明。R.I.S.E.枠の設置や出場決定トーナメントの開催などを構想に盛り込んでいる。また、2010年5月からはRISEオフィシャルルールをK-1に準ずるものに変更される。
+2009年3月29日、[K-1](../Page/K-1.md "wikilink")の中軽量級興行であるK-1 MAXと協力態勢を強化することが発表された。[谷川貞治](../Page/谷川貞治.md "wikilink")K-1イベントプロデューサーは現在のMAXのみでは大会数が少ないため、当落線上の選手に経験を積ませたり、新たな人材を発掘するのが狙いであると説明。R.I.S.E.枠の設置や出場決定トーナメントの開催などを構想に盛り込んでいる。また、2010年5月からはRISEオフィシャルルールをK-1に準ずるものに変更される。
 
 ### JMDへの参加
 
@@ -120,7 +120,7 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 | 氏名                                                      | 所属       | 日付          | 興行                                    |
 | ------------------------------------------------------- | -------- | ----------- | ------------------------------------- |
 | [阿部勝](https://ja.wikipedia.org/wiki/阿部勝 "wikilink")     | クロスポイント  | 2003年12月23日 | R.I.S.E. Dead or Alive Tournament     |
-| [菊池浩一](https://ja.wikipedia.org/wiki/菊池浩一 "wikilink")   | 寝屋川ジム    | 2004年12月19日 | R.I.S.E. DEAD or ALIVE Tournament '04 |
+| [菊池浩一](../Page/菊池浩一.md "wikilink")                      | 寝屋川ジム    | 2004年12月19日 | R.I.S.E. DEAD or ALIVE Tournament '04 |
 | [高江達二](../Page/TATSUJI.md "wikilink")                   | アイアンアックス | 2005年12月18日 | R.I.S.E. DEAD or ALIVE Tournament '05 |
 | [尾崎圭司](../Page/尾崎圭司.md "wikilink")                      | チームドラゴン  | 2006年12月17日 | R.I.S.E. DEAD OR ALIVE TOURNAMENT '06 |
 | [龍二](../Page/龍二.md "wikilink")                          | リアルディール  | 2007年12月16日 | R.I.S.E. DEAD OR ALIVE TOURNAMENT '07 |
@@ -225,7 +225,7 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 <tr class="odd">
 <td><p>RISE 95</p></td>
 <td><p>2013年9月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 <td><p>東京都文京区</p></td>
 <td></td>
 </tr>
@@ -239,7 +239,7 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 <tr class="odd">
 <td><p>RISE 94</p></td>
 <td><p>2013年7月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 <td><p>東京都文京区</p></td>
 <td></td>
 </tr>
@@ -260,7 +260,7 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 <tr class="even">
 <td><p>RISE 92</p></td>
 <td><p>2013年3月17日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 <td><p>東京都文京区</p></td>
 <td></td>
 </tr>
@@ -274,7 +274,7 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 <tr class="even">
 <td><p>RISE 91/INFINITY2</p></td>
 <td><p>2013年1月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 <td><p>東京都文京区</p></td>
 <td></td>
 </tr>
@@ -302,7 +302,7 @@ R.I.S.E.は2003年の設立以来、[トーナメント方式](../Page/トーナ
 <tr class="even">
 <td><p>RISE 90</p></td>
 <td><p>2012年10月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後楽園ホール" title="wikilink">後楽園ホール</a></p></td>
+<td><p><a href="../Page/後楽園ホール.md" title="wikilink">後楽園ホール</a></p></td>
 <td><p>東京都文京区</p></td>
 <td></td>
 </tr>

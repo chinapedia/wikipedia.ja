@@ -5,7 +5,7 @@
 
 ## 略歴
 
-[ネブラスカ州](https://ja.wikipedia.org/wiki/ネブラスカ州 "wikilink")で生まれ、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で育つ。14歳の時に年齢を偽って[アメリカ陸軍](https://ja.wikipedia.org/wiki/アメリカ陸軍 "wikilink")に入隊し、[州兵](../Page/州兵.md "wikilink")として[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で従軍。帰国後、様々な仕事に就きながら作家となるべく売り込みを続け、1922年に初めての脚本を売ることが出来た。その後[マック・セネット](https://ja.wikipedia.org/wiki/マック・セネット "wikilink")の元で働き、さらに1924年から1929年まで[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")で多くの脚本を執筆した。1929年以降はマネジメントに移行し、1933年にワーナーを去ってウィリアム・ゴーツらと共に映画制作会社[20世紀ピクチャーズ](https://ja.wikipedia.org/wiki/20世紀ピクチャーズ "wikilink")（Twentieth Century Pictures）を設立。20世紀ピクチャーズは1935年に[フォックス映画](https://ja.wikipedia.org/wiki/フォックス映画 "wikilink")を買収し[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")となり、ザナックは副代表として数多くの作品に携わった。
+[ネブラスカ州](https://ja.wikipedia.org/wiki/ネブラスカ州 "wikilink")で生まれ、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で育つ。14歳の時に年齢を偽って[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")に入隊し、[州兵](../Page/州兵.md "wikilink")として[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で従軍。帰国後、様々な仕事に就きながら作家となるべく売り込みを続け、1922年に初めての脚本を売ることが出来た。その後[マック・セネット](https://ja.wikipedia.org/wiki/マック・セネット "wikilink")の元で働き、さらに1924年から1929年まで[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")で多くの脚本を執筆した。1929年以降はマネジメントに移行し、1933年にワーナーを去ってウィリアム・ゴーツらと共に映画制作会社[20世紀ピクチャーズ](https://ja.wikipedia.org/wiki/20世紀ピクチャーズ "wikilink")（Twentieth Century Pictures）を設立。20世紀ピクチャーズは1935年に[フォックス映画](https://ja.wikipedia.org/wiki/フォックス映画 "wikilink")を買収し[20世紀フォックス](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")となり、ザナックは副代表として数多くの作品に携わった。
 
 制作した『[わが谷は緑なりき](../Page/わが谷は緑なりき.md "wikilink")』『[紳士協定](../Page/紳士協定_\(映画\).md "wikilink")』『[イヴの総て](../Page/イヴの総て.md "wikilink")』の3本が[アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")を受賞。ザナック自身も、1937年に[アービング・G・タルバーグ賞](../Page/アービング・G・タルバーグ賞.md "wikilink")の第1回受賞者となった後、1944年と1950年にも同賞を受賞した。
 
@@ -35,7 +35,7 @@
   - [紳士協定](../Page/紳士協定_\(映画\).md "wikilink") *Gentleman's Agreement* (1947)
   - [頭上の敵機](https://ja.wikipedia.org/wiki/頭上の敵機 "wikilink") *Twelve O'Clock High* (1949)
   - [イヴの総て](../Page/イヴの総て.md "wikilink") *All About Eve* (1950)
-  - [革命児サパタ](https://ja.wikipedia.org/wiki/革命児サパタ "wikilink") *Viva Zapata\!* (1952)
+  - [革命児サパタ](../Page/革命児サパタ.md "wikilink") *Viva Zapata\!* (1952)
   - [キリマンジャロの雪](https://ja.wikipedia.org/wiki/キリマンジャロの雪 "wikilink") *The Snows of Kilimanjaro* (1952)
   - [エジプト人](https://ja.wikipedia.org/wiki/エジプト人_\(映画\) "wikilink") *The Egyptian* (1954)
   - 灰色の服を着た男 *The Man in the Gray Flannel Suit* (1956)

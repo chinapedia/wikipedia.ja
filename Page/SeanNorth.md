@@ -47,7 +47,7 @@
 
 ## その他の活動
 
-  - 2006年、佐々木久夫が劇団[スペースノイドの演劇](https://ja.wikipedia.org/wiki/御笠ノ忠次 "wikilink")『[スタンレーの魔女](https://ja.wikipedia.org/wiki/戦場まんがシリーズ "wikilink")』で音楽を担当。
+  - 2006年、佐々木久夫が劇団[スペースノイドの演劇](https://ja.wikipedia.org/wiki/御笠ノ忠次 "wikilink")『[スタンレーの魔女](../Page/戦場まんがシリーズ.md "wikilink")』で音楽を担当。
 
 ## 外部リンク
 

@@ -1,13 +1,13 @@
 > この記事は[Almost in love](https://ja.wikipedia.org/wiki/Almost_in_love)から翻訳されています。
 
 
-「**almost in love**」（オールモスト・イン・ラヴ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の通算16枚目のシングル。 発売元は、[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")。
+「**almost in love**」（オールモスト・イン・ラヴ）は、[2005年](../Page/2005年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の通算16枚目のシングル。 発売元は、[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")。
 
 ## 解説
 
-CHEMISTRY単独名義としては、前作「[Wings of Words](https://ja.wikipedia.org/wiki/Wings_of_Words "wikilink")」から約3ヶ月ぶりに発売されたシングルで、4thアルバム『[fo(u)r](https://ja.wikipedia.org/wiki/fo\(u\)r "wikilink")』からの先行シングル。
+CHEMISTRY単独名義としては、前作「[Wings of Words](../Page/Wings_of_Words.md "wikilink")」から約3ヶ月ぶりに発売されたシングルで、4thアルバム『[fo(u)r](https://ja.wikipedia.org/wiki/fo\(u\)r "wikilink")』からの先行シングル。
 
-「almost in love」は恋から愛に移り変わる様を唄ったバラード曲で、「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」テーマソングとしても使用された。作詞はH.U.B.によるものであるが、CHEMISTRY自身もその作詞に深く携わっているという。本曲で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[紅白歌合戦に出場](../Page/NHK紅白歌合戦.md "wikilink")。
+「almost in love」は恋から愛に移り変わる様を唄ったバラード曲で、「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」テーマソングとしても使用された。作詞はH.U.B.によるものであるが、CHEMISTRY自身もその作詞に深く携わっているという。本曲で[2005年](../Page/2005年.md "wikilink")の[紅白歌合戦に出場](../Page/NHK紅白歌合戦.md "wikilink")。
 
 c/wには、[Crystal Kayとのコラボレーションで話題となった](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、彼女のシングル「[Two As One](../Page/Two_As_One.md "wikilink")」の歌詞違いバージョンと、2月に発売されたシングル「[キミがいる](../Page/キミがいる_\(CHEMISTRYの曲\).md "wikilink")」のリミックスバージョンが収録されている。
 

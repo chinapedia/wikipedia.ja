@@ -5,17 +5,17 @@
 
 ## 来歴
 
-[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身。[ロードアイランド大学](https://ja.wikipedia.org/wiki/ロードアイランド大学 "wikilink")在学中から多くの学生劇に出演。大学卒業後、ソーシャルワーカー、百科事典のセールスマン、中学校教師などの職を経て、1974年、31歳の時に本格的に俳優へ転身。[オフ・ブロードウェイ](https://ja.wikipedia.org/wiki/オフ・ブロードウェイ "wikilink")で幾多の舞台を重ね、[デヴィッド・マメット](https://ja.wikipedia.org/wiki/デヴィッド・マメット "wikilink")にその才能を見い出されて活躍の場を広げ、1984年には[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")に進出、高い評価を得る。
+[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身。[ロードアイランド大学](https://ja.wikipedia.org/wiki/ロードアイランド大学 "wikilink")在学中から多くの学生劇に出演。大学卒業後、ソーシャルワーカー、百科事典のセールスマン、中学校教師などの職を経て、1974年、31歳の時に本格的に俳優へ転身。[オフ・ブロードウェイ](../Page/オフ・ブロードウェイ.md "wikilink")で幾多の舞台を重ね、[デヴィッド・マメット](../Page/デヴィッド・マメット.md "wikilink")にその才能を見い出されて活躍の場を広げ、1984年には[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")に進出、高い評価を得る。
 
 1983年には映画デビュー。1987年の『[グッドモーニング、ベトナム](https://ja.wikipedia.org/wiki/グッドモーニング、ベトナム "wikilink")』で注目を集め、存在感ある脇役としての地位を確立し、多くの大作、話題作に出演。特に90年代に入ってからの活躍は目覚ましく、鋭い目つきとふてぶてしい顔立ちから、[悪役](https://ja.wikipedia.org/wiki/悪役 "wikilink")や政治家や財界人などの権力者の役が多かったが、それを逆手にとり、善人や気弱な男の役も巧みにこなした。今後の活躍が期待されていた矢先、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[ホテル](../Page/ホテル.md "wikilink")で休暇中に[心臓麻痺](https://ja.wikipedia.org/wiki/心臓麻痺 "wikilink")のため54歳で急死した。
 
-『[恋愛小説家](https://ja.wikipedia.org/wiki/恋愛小説家 "wikilink")』で[アカデミー主演男優賞](https://ja.wikipedia.org/wiki/アカデミー主演男優賞 "wikilink")に輝いた[ジャック・ニコルソン](https://ja.wikipedia.org/wiki/ジャック・ニコルソン "wikilink")が、[マイルス・デイヴィス](../Page/マイルス・デイヴィス.md "wikilink")や[ロバート・ミッチャム](../Page/ロバート・ミッチャム.md "wikilink")などの偉大な人物たちとともに、過去に共演したJ・T・ウォルシュの名前を挙げ、「この賞を捧げる」とスピーチした。
+『[恋愛小説家](../Page/恋愛小説家.md "wikilink")』で[アカデミー主演男優賞](../Page/アカデミー主演男優賞.md "wikilink")に輝いた[ジャック・ニコルソン](https://ja.wikipedia.org/wiki/ジャック・ニコルソン "wikilink")が、[マイルス・デイヴィス](../Page/マイルス・デイヴィス.md "wikilink")や[ロバート・ミッチャム](../Page/ロバート・ミッチャム.md "wikilink")などの偉大な人物たちとともに、過去に共演したJ・T・ウォルシュの名前を挙げ、「この賞を捧げる」とスピーチした。
 
 ## 主な出演作品
 
 ### 映画
 
-日本語吹替は主に[池田勝](https://ja.wikipedia.org/wiki/池田勝 "wikilink")、[仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")がつとめていた。
+日本語吹替は主に[池田勝](../Page/池田勝.md "wikilink")、[仲野裕](../Page/仲野裕.md "wikilink")がつとめていた。
 
 <table>
 <thead>

@@ -1,11 +1,11 @@
 > この記事は[Rising Reysol](https://ja.wikipedia.org/wiki/Rising_Reysol)から翻訳されています。
 
 
-**Rising Reysol\!**（ライジング レイソル）は[千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")（チバテレ）の[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")応援番組。毎月第4日曜日にチバテレ第2スタジオから生放送。かつては[日立グループ](https://ja.wikipedia.org/wiki/日立グループ "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組であったが、後にレイソルの地元[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")にある[モラージュ柏](https://ja.wikipedia.org/wiki/モラージュ柏 "wikilink")が、[2016年](../Page/2016年.md "wikilink")からは[千葉県](../Page/千葉県.md "wikilink")内に本社のある[イオンをあわせた](../Page/イオン_\(企業\).md "wikilink")3社で提供している。
+**Rising Reysol\!**（ライジング レイソル）は[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")（チバテレ）の[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")応援番組。毎月第4日曜日にチバテレ第2スタジオから生放送。かつては[日立グループ](../Page/日立グループ.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組であったが、後にレイソルの地元[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")にある[モラージュ柏](https://ja.wikipedia.org/wiki/モラージュ柏 "wikilink")が、[2016年](../Page/2016年.md "wikilink")からは[千葉県](../Page/千葉県.md "wikilink")内に本社のある[イオンをあわせた](../Page/イオン_\(企業\).md "wikilink")3社で提供している。
 
 ## 概要
 
-前身番組の「[CAN DO レイソル](../Page/CAN_DO_レイソル.md "wikilink")」が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、レイソルのJ2降格を機に[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月をもって放送終了。2006年4月、その後継番組として本番組が誕生した（当時の番組名は「Risingレイソル\!」）。2008年6月からセットが大幅に変わり、それに伴いタイトルロゴも、現在使用されている**Rising Reysol\!**と英文字になった。
+前身番組の「[CAN DO レイソル](../Page/CAN_DO_レイソル.md "wikilink")」が[2005年](../Page/2005年.md "wikilink")、レイソルのJ2降格を機に[2006年](../Page/2006年.md "wikilink")3月をもって放送終了。2006年4月、その後継番組として本番組が誕生した（当時の番組名は「Risingレイソル\!」）。2008年6月からセットが大幅に変わり、それに伴いタイトルロゴも、現在使用されている**Rising Reysol\!**と英文字になった。
 
 ちなみに2009年4月以降の[ジェフ千葉応援番組](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")（『[WIN BY ALL\!](https://ja.wikipedia.org/wiki/WIN_BY_ALL! "wikilink")』→『[ジェフ魂12](../Page/ジェフ魂12.md "wikilink")Returns』→『WIN BY ALL\!』）は15分番組なので、レイソルの方が広報活動に力を入れているといえる。\[1\]\[2\]。なお、『WIN BY ALL\!』においても、2016年からイオンがスポンサーに加わっている。
 
@@ -20,7 +20,7 @@
 
 ## 番組の変遷
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月9日](../Page/4月9日.md "wikilink")：「Risingレイソル\!」放送開始（毎月第2・第4日曜日の月2回放送）
+  - [2006年](../Page/2006年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")：「Risingレイソル\!」放送開始（毎月第2・第4日曜日の月2回放送）
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月：タイトルを「Rising Reysol\!」に変更
   - [2009年](../Page/2009年.md "wikilink")1月：まちゃぴんに代わる新MCとして、あや吉が登場。この頃よりレイソル広報担当が出演しなくなり、現在のあや吉と佐藤大の2人体制となる。
   - [2009年](../Page/2009年.md "wikilink")4月：月2回放送から月1回の放送（毎月第4日曜日）に縮小。また、翌日月曜16:30-17:00に再放送をしていたが、同月より[首都圏トライアングル](https://ja.wikipedia.org/wiki/首都圏トライアングル "wikilink")で『[ごごたま](https://ja.wikipedia.org/wiki/ごごたま "wikilink")』（[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）を同時放送することになったため、再放送も取り止め。
@@ -79,7 +79,7 @@
 
 1.  かつての[ジェフ魂12](../Page/ジェフ魂12.md "wikilink")も、「Rising Reysol\!」が月2回だったのに対し、「ジェフ魂」は月1回だった。
 2.  ちなみに[2007年](../Page/2007年.md "wikilink")・[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のサッカー中継ではレイソルの試合しか放送しなかったが、[2009年](../Page/2009年.md "wikilink")に至っては開幕時の段階で千葉県勢2チームの主管試合が1試合も放映されない日程となった。
-3.  その間、2009年及び2010年の[ちばぎんカップ](https://ja.wikipedia.org/wiki/ちばぎんカップ "wikilink")は放送されたが、録画中継であり生中継ではなかった。
+3.  その間、2009年及び2010年の[ちばぎんカップ](../Page/ちばぎんカップ.md "wikilink")は放送されたが、録画中継であり生中継ではなかった。
 4.
 5.  FIFAクラブワールドカップについては、放送権が[日本テレビにあるほか](../Page/日本テレビ放送網.md "wikilink")、FIFAの大会のため映像の使用条件（使用料金・時間など）が厳しいため。
-6.  柏レイソルの前身である[日立製作所本社サッカー部](https://ja.wikipedia.org/wiki/日立製作所本社サッカー部 "wikilink")時代にも天皇杯優勝あり。
+6.  柏レイソルの前身である[日立製作所本社サッカー部](../Page/日立製作所本社サッカー部.md "wikilink")時代にも天皇杯優勝あり。

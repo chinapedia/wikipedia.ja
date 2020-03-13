@@ -13,10 +13,10 @@
 
 ## 主な使用者
 
-  - 元[ARB](https://ja.wikipedia.org/wiki/ARB_\(バンド\) "wikilink") [田中一郎](../Page/田中一郎_\(ミュージシャン\).md "wikilink")
-  - [DEPAPEPE](https://ja.wikipedia.org/wiki/DEPAPEPE "wikilink") 三浦拓也
+  - 元[ARB](../Page/ARB_\(バンド\).md "wikilink") [田中一郎](../Page/田中一郎_\(ミュージシャン\).md "wikilink")
+  - [DEPAPEPE](../Page/DEPAPEPE.md "wikilink") 三浦拓也
   - [南澤大介](https://ja.wikipedia.org/wiki/南澤大介 "wikilink")
-  - [中川イサト](https://ja.wikipedia.org/wiki/中川イサト "wikilink")
+  - [中川イサト](../Page/中川イサト.md "wikilink")
   - [打田十紀夫](https://ja.wikipedia.org/wiki/打田十紀夫 "wikilink")
 
 [Category:ギターの機種](https://ja.wikipedia.org/wiki/Category:ギターの機種 "wikilink")

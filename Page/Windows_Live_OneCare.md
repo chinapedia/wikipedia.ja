@@ -3,7 +3,7 @@
 
 **Windows Live OneCare** （ウィンドウズ ライブ ワンケア）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発していた[インターネットセキュリティスイート](../Page/インターネットセキュリティスイート.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[1月30日](../Page/1月30日.md "wikilink")に[Windows Vistaと並行して発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")。
 
-無償のセキュリティソフトウェア[Microsoft Security Essentials](https://ja.wikipedia.org/wiki/Microsoft_Security_Essentials "wikilink") をリリースする計画のため、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[6月30日](../Page/6月30日.md "wikilink")に小売販売が終了した。[マルウェア](https://ja.wikipedia.org/wiki/マルウェア "wikilink")の定義ファイルの提供自体は、Windows Live OneCare 購読中継続して行われる\[1\]。
+無償のセキュリティソフトウェア[Microsoft Security Essentials](https://ja.wikipedia.org/wiki/Microsoft_Security_Essentials "wikilink") をリリースする計画のため、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[6月30日](../Page/6月30日.md "wikilink")に小売販売が終了した。[マルウェア](../Page/マルウェア.md "wikilink")の定義ファイルの提供自体は、Windows Live OneCare 購読中継続して行われる\[1\]。
 
 [2011年](../Page/2011年.md "wikilink")（[平成](../Page/平成.md "wikilink")23年）[4月12日](../Page/4月12日.md "wikilink")にサポートが終了した\[2\]。
 
@@ -13,7 +13,7 @@
 
 常時実施されている保護対策である。
 
-  - [マルウェア](https://ja.wikipedia.org/wiki/マルウェア "wikilink")からの保護
+  - [マルウェア](../Page/マルウェア.md "wikilink")からの保護
   - [パーソナル ファイアウォールでの双方向の通信制御](../Page/パーソナルファイアウォール.md "wikilink")
   - [フィッシング詐欺](https://ja.wikipedia.org/wiki/フィッシング詐欺 "wikilink")からの保護
   - [Windows Live Messenger](https://ja.wikipedia.org/wiki/Windows_Live_Messenger "wikilink") と [MSN Messenger](https://ja.wikipedia.org/wiki/MSN_Messenger "wikilink") のファイル走査

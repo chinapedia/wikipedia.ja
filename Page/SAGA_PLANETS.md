@@ -11,7 +11,7 @@
 
 ## 作品一覧
 
-廉価版は除く。★は[キネティックノベル](https://ja.wikipedia.org/wiki/キネティックノベル "wikilink")。なお『Coming×Humming\!\!』から『はつゆきさくら』までの4作品は、各々が春夏秋冬と季節に纏わるキーワードを含めており、 一括して「四季シリーズ」とも呼ばれている。
+廉価版は除く。★は[キネティックノベル](../Page/キネティックノベル.md "wikilink")。なお『Coming×Humming\!\!』から『はつゆきさくら』までの4作品は、各々が春夏秋冬と季節に纏わるキーワードを含めており、 一括して「四季シリーズ」とも呼ばれている。
 
 <table>
 <thead>
@@ -89,14 +89,14 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>3月25日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>3月25日</p></td>
 <td><p><strong><a href="../Page/ウソツキは天使のはじまり.md" title="wikilink">ウソツキは天使のはじまり</a></strong></p></td>
 <td><p>有末つかさ</p></td>
 <td><p>TAMAMI</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>3月6日</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>3月6日</p></td>
 <td><p><strong>不思議の国のカノジョ</strong>★</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ほんたにかなえ" title="wikilink">ほんたにかなえ</a></p></td>
 <td><p>博恵夏樹</p></td>

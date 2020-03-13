@@ -1,23 +1,23 @@
 > この記事は[Knock Out VOICE!!](https://ja.wikipedia.org/wiki/Knock_Out_VOICE!!)から翻訳されています。
 
 
-**Knock Out VOICE\!\!**（ノックアウトボイス\!\!）は、〈[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")〉・[BEWE](../Page/BEWE.md "wikilink")・製作元であるウォーターオリオンサイトで配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。
+**Knock Out VOICE\!\!**（ノックアウトボイス\!\!）は、〈[音泉](../Page/音泉.md "wikilink")〉・[BEWE](../Page/BEWE.md "wikilink")・製作元であるウォーターオリオンサイトで配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。
 
 略称は「KOV」が使われる事が多い。
 
-[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[大塚明夫](../Page/大塚明夫.md "wikilink")と[黒田崇矢](https://ja.wikipedia.org/wiki/黒田崇矢 "wikilink")の二人であったが、途中[大塚明夫](../Page/大塚明夫.md "wikilink")のスケジュール都合による欠席へのピンチヒッターに[金谷ヒデユキ](https://ja.wikipedia.org/wiki/金谷ヒデユキ "wikilink")が登場し、終盤は三人がパーソナリティーとして活躍している。
+[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[大塚明夫](../Page/大塚明夫.md "wikilink")と[黒田崇矢](../Page/黒田崇矢.md "wikilink")の二人であったが、途中[大塚明夫](../Page/大塚明夫.md "wikilink")のスケジュール都合による欠席へのピンチヒッターに[金谷ヒデユキ](../Page/金谷ヒデユキ.md "wikilink")が登場し、終盤は三人がパーソナリティーとして活躍している。
 
 ## 配信詳細
 
-  - 配信サイト：[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")・[BEWE](../Page/BEWE.md "wikilink")、[ウォーターオリオン](../Page/ウォーターオリオン.md "wikilink")
+  - 配信サイト：[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")、[ウォーターオリオン](../Page/ウォーターオリオン.md "wikilink")
   - 配信日：隔週[金曜日](../Page/金曜日.md "wikilink")（2007年1月12日放送分迄）→毎週[金曜日](../Page/金曜日.md "wikilink")
-  - 配信期間：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月27日](../Page/10月27日.md "wikilink")～[2007年](../Page/2007年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")
+  - 配信期間：[2006年](../Page/2006年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")～[2007年](../Page/2007年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")
   - スポンサー：[ウォーターオリオン](../Page/ウォーターオリオン.md "wikilink")
 
 ## 概要
 
   - 番組の構成、編集、イベントの企画構成は黒田崇矢が担当。\[1\]\[2\]
-  - 特にアナウンスは無いものの、[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")と[ウォーターオリオン](../Page/ウォーターオリオン.md "wikilink")サイト上にて配信されていた。
+  - 特にアナウンスは無いものの、[音泉](../Page/音泉.md "wikilink")と[ウォーターオリオン](../Page/ウォーターオリオン.md "wikilink")サイト上にて配信されていた。
   - 配信内容は基本的にどちらのサイトも同一であるが、音泉ではモノラルWMA形式であったが、ウォーターオリオンで配信される物はMP3形式のステレオで、高音質なものであり、使用楽曲が一部異なっている。また、特定回においては放送時間の制限から、ウォーターオリオンでのみフルサイズでの配信が行われていた。本編では[パンポットが振られている旨や雑音についても触れられていることがあったことから](https://ja.wikipedia.org/wiki/パンニング_\(音響\) "wikilink")、音泉版がモノラルでビットレートも低いことはパーソナリティー自身の自覚は無かったと思われる。
   - 当初、隔週の番組としてスタートし、各種コーナーにラジオドラマという構成で放送されていたが、反響を受け、隔週から毎週へ配信が変更になった。
   - 音響関係者の退社などの影響を受け、ラジオドラマはシリーズ化はせず、音源の編集、調整などもスケジュールの逼迫もあってままならなくなり、最後は番組終了へとつながっている。

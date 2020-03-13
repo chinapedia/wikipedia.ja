@@ -1,7 +1,7 @@
 > この記事は[Hermann H.\&The Pacemakers](https://ja.wikipedia.org/wiki/Hermann_H.\&The_Pacemakers)から翻訳されています。
 
 
-**Hermann H.\&The Pacemakers**（ヘルマン・エイチ・アンド・ザ・ペースメーカーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、結成。[2001年](../Page/2001年.md "wikilink")、[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")より[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2004年](../Page/2004年.md "wikilink")に活動を休止。[2012年](../Page/2012年.md "wikilink")、活動再開。
+**Hermann H.\&The Pacemakers**（ヘルマン・エイチ・アンド・ザ・ペースメーカーズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、結成。[2001年](../Page/2001年.md "wikilink")、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")より[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2004年](../Page/2004年.md "wikilink")に活動を休止。[2012年](../Page/2012年.md "wikilink")、活動再開。
 
 ## 来歴
 
@@ -24,7 +24,7 @@
       - [9月](../Page/9月.md "wikilink")、梶山 脱退。
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、菊池 正式加入。
   - [2004年](../Page/2004年.md "wikilink")、ミニアルバム『FIREWORKS』リリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、活動休止を発表。
+  - [2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、活動休止を発表。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[Jackson vibeのアルバムに参加するため再集結](../Page/Jackson_vibe.md "wikilink")（石井は不参加）。
   - [2012年](../Page/2012年.md "wikilink")
       - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")にて １日限定復活ライブを敢行。(メンバーは岡本、若井、溝田)
@@ -32,7 +32,7 @@
   - [2013年](../Page/2013年.md "wikilink")
       - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、平床 再加入。
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、ベストアルバム「The Best of Hermann H.\&The Pacemakers」リリース。
-  - [2014年](../Page/2014年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、約10年ぶりとなるアルバム『THE NOISE,THE DANCE』リリース。[中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink")、[町田昌弘](https://ja.wikipedia.org/wiki/町田昌弘 "wikilink")(100's)、[ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")、[あずままどか](https://ja.wikipedia.org/wiki/あずままどか "wikilink")、[濱野夏椰](https://ja.wikipedia.org/wiki/濱野夏椰 "wikilink")([Gateballers](https://ja.wikipedia.org/wiki/Gateballers "wikilink"))らがゲスト参加。
+  - [2014年](../Page/2014年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、約10年ぶりとなるアルバム『THE NOISE,THE DANCE』リリース。[中村一義](../Page/中村一義.md "wikilink")、[町田昌弘](https://ja.wikipedia.org/wiki/町田昌弘 "wikilink")(100's)、[ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")、[あずままどか](https://ja.wikipedia.org/wiki/あずままどか "wikilink")、[濱野夏椰](https://ja.wikipedia.org/wiki/濱野夏椰 "wikilink")([Gateballers](https://ja.wikipedia.org/wiki/Gateballers "wikilink"))らがゲスト参加。
   - [2016年](../Page/2016年.md "wikilink")
       - 9月、岡本洋平が下咽頭癌の治療のため入院。11月に予定されていた15周年ライブは中止となった。
       - 12月、退院
@@ -77,7 +77,7 @@
 
   -
     担当パートの「ウルフ」とは、ステージ上でダンスとシャウトをこなす、言わばパフォーマーである。
-    活動休止後、株式会社「[チッタ エンタテイメント](https://ja.wikipedia.org/wiki/チネチッタ_\(川崎市\) "wikilink")」に就職。エンタテイメント部に就任。
+    活動休止後、株式会社「[チッタ エンタテイメント](../Page/チネチッタ_\(川崎市\).md "wikilink")」に就職。エンタテイメント部に就任。
     活動再開後は「オッサンになったウルフ」とイジられている。
 
 <!-- end list -->
@@ -87,7 +87,7 @@
 <!-- end list -->
 
   -
-    [THE BEACHESのベーシスト](https://ja.wikipedia.org/wiki/THE_BEACHES "wikilink")。TOMOTOMOclubとして、2013年の再結成からサポートベースとして参加。2018年、岡本の復帰と共に正式加入を発表した。
+    [THE BEACHESのベーシスト](../Page/THE_BEACHES.md "wikilink")。TOMOTOMOclubとして、2013年の再結成からサポートベースとして参加。2018年、岡本の復帰と共に正式加入を発表した。
 
 ### 元所属メンバー
 
@@ -96,11 +96,11 @@
 <!-- end list -->
 
   -
-    2003年9月22日、音楽性の違いから脱退。兼ねてから参加していた平床との「cheese」での活動の他、サポート参加していた[SPARTA LOCALSに](https://ja.wikipedia.org/wiki/SPARTA_LOCALS "wikilink")2007年正式加入（2009年の解散まで在籍したが、2016年の再結成時には参加せず）。[ロレッタセコハン](../Page/ロレッタセコハン.md "wikilink")ではギタリストとして参加していた。
+    2003年9月22日、音楽性の違いから脱退。兼ねてから参加していた平床との「cheese」での活動の他、サポート参加していた[SPARTA LOCALSに](../Page/SPARTA_LOCALS.md "wikilink")2007年正式加入（2009年の解散まで在籍したが、2016年の再結成時には参加せず）。[ロレッタセコハン](../Page/ロレッタセコハン.md "wikilink")ではギタリストとして参加していた。
 
 <!-- end list -->
 
-  - 石井康則（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）　1999 - 2005
+  - 石井康則（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")）　1999 - 2005
 
 <!-- end list -->
 
@@ -120,7 +120,7 @@
 ### サポート
 
   - 山下壮（ギター、[LUNKHEAD](https://ja.wikipedia.org/wiki/ランクヘッド "wikilink")）
-  - マシータ（ドラム ex[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")）
+  - マシータ（ドラム ex[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")）
   - 細萱あゆ子 (キーボード、frills, THE BEACHES)
 
 ## 作品
@@ -156,14 +156,14 @@
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                         | 規格品番       | 収録曲                   | 備考                                                                                                       |
-| ----------- | ---------------------------------------------------------------------------- | ---------- | --------------------- | -------------------------------------------------------------------------------------------------------- |
-| 2000年06月22日 | **ハノイ・ロックス・トリビュート～Bloody Knuckles\&Lipstick～美・ヴァイオレンス**                      | WINN-82040 | 4.カフェ・アベニューの想い出       | Warner Indies Network                                                                                    |
-| 2001年08月08日 | **北青山的13曲1000円**                                                             | WPC6-10149 | 12.fruicy machine gun | ワーナーミュージック・ジャパン                                                                                          |
-| 2003年03月26日 | **[BPR5000](https://ja.wikipedia.org/wiki/BPR5000 "wikilink") BURST TRACKS** | RRCA-29013 | 10.PINKIE'S ROCK SHOW | ロードランナー・ジャパン                                                                                             |
-| 2003年5月28日  | **across the sea 〜a tribute to weezer〜**                                     | UPCH-1252  | M-2「in the garage」    | [ウィーザー](https://ja.wikipedia.org/wiki/ウィーザー "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink") |
-| 2003年09月17日 | **BEST OF 蓮沼 1999→2003**                                                     | DIGA-001   | 18.サマーブレイカー           | DISK GARAGE                                                                                              |
-|             |                                                                              |            |                       |                                                                                                          |
+| 発売日         | タイトル                                                      | 規格品番       | 収録曲                   | 備考                                                                                    |
+| ----------- | --------------------------------------------------------- | ---------- | --------------------- | ------------------------------------------------------------------------------------- |
+| 2000年06月22日 | **ハノイ・ロックス・トリビュート～Bloody Knuckles\&Lipstick～美・ヴァイオレンス**   | WINN-82040 | 4.カフェ・アベニューの想い出       | Warner Indies Network                                                                 |
+| 2001年08月08日 | **北青山的13曲1000円**                                          | WPC6-10149 | 12.fruicy machine gun | ワーナーミュージック・ジャパン                                                                       |
+| 2003年03月26日 | **[BPR5000](../Page/BPR5000.md "wikilink") BURST TRACKS** | RRCA-29013 | 10.PINKIE'S ROCK SHOW | ロードランナー・ジャパン                                                                          |
+| 2003年5月28日  | **across the sea 〜a tribute to weezer〜**                  | UPCH-1252  | M-2「in the garage」    | [ウィーザー](../Page/ウィーザー.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink") |
+| 2003年09月17日 | **BEST OF 蓮沼 1999→2003**                                  | DIGA-001   | 18.サマーブレイカー           | DISK GARAGE                                                                           |
+|             |                                                           |            |                       |                                                                                       |
 
 ## ミュージックビデオ
 
@@ -198,7 +198,7 @@
   - 2016年07月 - Hermann H.\&The Pacemakers presents『Dance,don't run\! Vol.3』〜再始動4周年感謝祭 ワンマン！1997ー2016 サンキュー、ヘルマン湾〜
   - 2018年07月 - Hermann H. & The Pacemakers presents NEVER DIE YOUNG
       -
-        w/13日:Gateballers、[忘れらんねえよ](https://ja.wikipedia.org/wiki/忘れらんねえよ "wikilink")、[GOING UNDER GROUND](https://ja.wikipedia.org/wiki/GOING_UNDER_GROUND "wikilink")、[曽我部恵一](../Page/曽我部恵一.md "wikilink")/22日:ROCK骨、[中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink")、[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")、[Caravan](../Page/Caravan.md "wikilink")のほか、クレジット外のスペシャルゲストとしてDr.kyOn（[BO GUMBOS](../Page/BO_GUMBOS.md "wikilink")）、[ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")
+        w/13日:Gateballers、[忘れらんねえよ](https://ja.wikipedia.org/wiki/忘れらんねえよ "wikilink")、[GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink")、[曽我部恵一](../Page/曽我部恵一.md "wikilink")/22日:ROCK骨、[中村一義](../Page/中村一義.md "wikilink")、[POLYSICS](../Page/POLYSICS.md "wikilink")、[Caravan](../Page/Caravan.md "wikilink")のほか、クレジット外のスペシャルゲストとしてDr.kyOn（[BO GUMBOS](../Page/BO_GUMBOS.md "wikilink")）、[ヨースケ@HOME](https://ja.wikipedia.org/wiki/ヨースケ@HOME "wikilink")
 
 ### 出演イベント
 
@@ -221,9 +221,9 @@
   - 2013年08月17日 - RISING SUN ROCK FESTIVAL 2013 in EZO
   - 2013年08月25日 - ウミガメに乗ってやってきました ～竜宮城へようこそ\!～
   - 2013年09月07日 - BAYCAMP 2013
-  - 2013年10月29日 - [POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")対バンツアー2013 帰ってきたULTRA FIGHT OR DIE\!\!\!～ヒサス\! Come On, Toisu\! Ha\!\!～
+  - 2013年10月29日 - [POLYSICS](../Page/POLYSICS.md "wikilink")対バンツアー2013 帰ってきたULTRA FIGHT OR DIE\!\!\!～ヒサス\! Come On, Toisu\! Ha\!\!～
   - 2013年11月19日 - MEGAPHONE MUSIC presents メガホンナイトFES.2013
-  - 2013年11月29日 - [中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink") meets Hermann H. & The Pacemakers
+  - 2013年11月29日 - [中村一義](../Page/中村一義.md "wikilink") meets Hermann H. & The Pacemakers
   - 2014年04月05日 - Yuya Tsuji Presents ETERNAL ROCK CITY.2014
   - 2014年05月24日 - 会いに行けるFUNK'2014
   - 2014年06月08日 - [Getting Better](https://ja.wikipedia.org/wiki/Getting_Better "wikilink") ～18th Anniversary Party"Special"～
@@ -233,7 +233,7 @@
   - 2014年08月23日 - 西風 vol.27
   - 2014年09月06日 - BAYCAMP 2014
   - 2014年09月23日 - SEA SIDE HEAVEN ～中華街ふらりツアー\!\!2014～
-  - 2014年12月20日 - GARAGE 20th Anniversary～Hermann H. & The Pacemakers×[LUNKHEAD](https://ja.wikipedia.org/wiki/LUNKHEAD "wikilink")～
+  - 2014年12月20日 - GARAGE 20th Anniversary～Hermann H. & The Pacemakers×[LUNKHEAD](../Page/LUNKHEAD.md "wikilink")～
   - 2015年06月06日 - [つばき](../Page/つばき_\(ロックバンド\).md "wikilink") 15th Anniversary 正夢になったフェス
   - 2015年09月27日 - ぐるぐるTOIRO 2015
 

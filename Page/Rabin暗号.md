@@ -7,7 +7,7 @@
 
 Rabin暗号は[1979年](../Page/1979年.md "wikilink")、[マイケル・ラビン](../Page/マイケル・ラビン.md "wikilink")により発明された。この暗号は[RSA暗号](../Page/RSA暗号.md "wikilink")と同じく、大きな[合成数](../Page/合成数.md "wikilink")の[素因数分解](../Page/素因数分解.md "wikilink")の困難さを安全性の根拠とした暗号方式である。
 
-この暗号は、鍵となる合成数が素因数分解できない限り、少なくとも[選択平文攻撃](https://ja.wikipedia.org/wiki/選択平文攻撃 "wikilink")による[解読に対して理論的に](https://ja.wikipedia.org/wiki/暗号解読 "wikilink")「安全である」と証明されている。しかしながら[選択暗号文攻撃](https://ja.wikipedia.org/wiki/選択暗号文攻撃 "wikilink")に対しては全く安全でないことも証明できる。そのため、証明可能安全性を有するという意味で[暗号理論](../Page/暗号理論.md "wikilink")的な意義は大きいが、そのまま使用することは推奨されない。
+この暗号は、鍵となる合成数が素因数分解できない限り、少なくとも[選択平文攻撃](https://ja.wikipedia.org/wiki/選択平文攻撃 "wikilink")による[解読に対して理論的に](../Page/暗号解読.md "wikilink")「安全である」と証明されている。しかしながら[選択暗号文攻撃](https://ja.wikipedia.org/wiki/選択暗号文攻撃 "wikilink")に対しては全く安全でないことも証明できる。そのため、証明可能安全性を有するという意味で[暗号理論](../Page/暗号理論.md "wikilink")的な意義は大きいが、そのまま使用することは推奨されない。
 
 ## 暗号方式
 

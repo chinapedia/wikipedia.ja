@@ -1,7 +1,7 @@
 > この記事は[FFG](https://ja.wikipedia.org/wiki/FFG)から翻訳されています。
 
 
-**FFG証券株式会社**（エフエフジーしょうけん、*FFG Securities Co., Ltd.*）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[証券会社](../Page/証券会社.md "wikilink")。
+**FFG証券株式会社**（エフエフジーしょうけん、*FFG Securities Co., Ltd.*）は、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[証券会社](../Page/証券会社.md "wikilink")。
 
 ## 概要
 

@@ -1,7 +1,7 @@
 > この記事は[KANSAI K](https://ja.wikipedia.org/wiki/KANSAI_K)から翻訳されています。
 
 
-**スルッとKANSAI Kカード**(*K CARD*)\[1\]とは、[京阪電気鉄道](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink")\[2\]の磁気式[プリペイドカード](../Page/プリペイドカード.md "wikilink")である。
+**スルッとKANSAI Kカード**(*K CARD*)\[1\]とは、[京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink")\[2\]の磁気式[プリペイドカード](../Page/プリペイドカード.md "wikilink")である。
 
 本項では前身の**Kカード**についても記述する。
 
@@ -24,7 +24,7 @@
 ## 主な図柄
 
   - [鉄道車両](../Page/鉄道車両.md "wikilink")
-      - [京阪特急](https://ja.wikipedia.org/wiki/京阪特急 "wikilink")乗車記念カード（車内限定）
+      - [京阪特急](../Page/京阪特急.md "wikilink")乗車記念カード（車内限定）
   - [競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")
   - [おけいはん](../Page/おけいはん.md "wikilink")
   - [ひらかたパーク](../Page/ひらかたパーク.md "wikilink")

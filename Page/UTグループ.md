@@ -1,7 +1,7 @@
 > この記事は[UT](https://ja.wikipedia.org/wiki/UT)から翻訳されています。
 
 
-**UTグループ株式会社**（ユーティーグループ、UT Group Co., Ltd.）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")東五反田1-11-15に本社を置く技術（技能）者派遣・アウトソーシング事業などを統括する大手[持株会社](../Page/持株会社.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）4月2日、日本エイムとエイペックスの株式移転により設立された。
+**UTグループ株式会社**（ユーティーグループ、UT Group Co., Ltd.）は、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")東五反田1-11-15に本社を置く技術（技能）者派遣・アウトソーシング事業などを統括する大手[持株会社](../Page/持株会社.md "wikilink")である。[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）4月2日、日本エイムとエイペックスの株式移転により設立された。
 
 本項では持株会社であるUTグループ株式会社単独の事項に加えて、UTグループ連結子会社のグループ概要を述べる。
 

@@ -12,14 +12,14 @@
   - 9月1日、サポートギタリストとして参加していたが正式加入し、それまで  だったバンド名を  と変更。
   - [2003年](../Page/2003年.md "wikilink")9月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」初出演。
   - [2004年](../Page/2004年.md "wikilink")12月31日、[代々木第二体育館](https://ja.wikipedia.org/wiki/代々木第二体育館 "wikilink")でカウントダウンライブ（初めてのホールでのライブ）を敢行した。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月、[日本武道館](../Page/日本武道館.md "wikilink")で初の単独ライブ。
+  - [2005年](../Page/2005年.md "wikilink")8月、[日本武道館](../Page/日本武道館.md "wikilink")で初の単独ライブ。
   - 2008年8月16日、 にて女性ボーカリストとしてトリを飾った。
   - 9月、初の海外公演をカナダのバンド と共に行った。
     コロムビアミュージックエンタテインメント移籍、アルバム「」をリリース。
   -
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月、ポニーキャニオン移籍、再メジャーシングル「」リリース
   - 6月17日、ツアー中、ベースの  が[頸部](https://ja.wikipedia.org/wiki/頸部 "wikilink")[蜂窩織炎](../Page/蜂窩織炎.md "wikilink")と診断され入院、手術。これにより[長野](../Page/長野.md "wikilink")、広島、高松、さらに[青森](https://ja.wikipedia.org/wiki/青森 "wikilink")、札幌、[帯広](https://ja.wikipedia.org/wiki/帯広 "wikilink")、名古屋（2会場）が公演延期となった。
-  - 11月、[杏子のコラボアルバム](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")「」に「」で参加。
+  - 11月、[杏子のコラボアルバム](../Page/杏子_\(ミュージシャン\).md "wikilink")「」に「」で参加。
   - 12月、「杏子 2010  ～～」のツアーファイナルに  が参加した。
   - [2011年](../Page/2011年.md "wikilink")12月1日、方向性の違いなどの理由から が11月20日をもって脱退したことが公式ウェブサイトで発表される\[1\]。
   - 12月29日、「 11/12」出演。同日よりベースに  を迎えて新生  始動。
@@ -27,7 +27,7 @@
 
 ## 活動
 
-  - [2004年](../Page/2004年.md "wikilink")以降の[ライブツアー](https://ja.wikipedia.org/wiki/ライブツアー "wikilink")では[ホール](../Page/ホール.md "wikilink")と[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")を平行して活動している。
+  - [2004年](../Page/2004年.md "wikilink")以降の[ライブツアー](https://ja.wikipedia.org/wiki/ライブツアー "wikilink")では[ホール](../Page/ホール.md "wikilink")と[ライブハウス](../Page/ライブハウス.md "wikilink")を平行して活動している。
 
   - これまでシングル、スプリット・シングル、スタジオ・アルバム、ライブ・アルバム、[DVD](../Page/DVD.md "wikilink")をそれぞれ製作すると共に、ライブも精力的に行う。
 
@@ -37,15 +37,15 @@
 
 ## メンバー
 
-  - UKI（ウキ、\[3\] -）[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")・[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")・[鍵盤ハーモニカ](https://ja.wikipedia.org/wiki/鍵盤ハーモニカ "wikilink")・[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - UKI（ウキ、\[3\] -）[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")・[ハーモニカ](../Page/ハーモニカ.md "wikilink")・[鍵盤ハーモニカ](../Page/鍵盤ハーモニカ.md "wikilink")・[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - TAKE-C（タケシ、\[4\] -）[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")・[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")・[ウクレレ](../Page/ウクレレ.md "wikilink")・[バンジョー](../Page/バンジョー.md "wikilink")
   - MAH（マー、\[5\] -）[ドラム](../Page/ドラムセット.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")・[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")・[パーカッション](../Page/パーカッション.md "wikilink")
-  - YOSUKE（ヨウスケ、\[6\] -）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")　TAKE-Cの実の弟。
+  - YOSUKE（ヨウスケ、\[6\] -）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")　TAKE-Cの実の弟。
 
 ## 元メンバー
 
   - MASSY
-  - KING（キング、 -）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[アコースティックベース](https://ja.wikipedia.org/wiki/アコースティックベース "wikilink")・[アップライトベース](https://ja.wikipedia.org/wiki/アップライトベース "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - KING（キング、 -）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[アコースティックベース](https://ja.wikipedia.org/wiki/アコースティックベース "wikilink")・[アップライトベース](https://ja.wikipedia.org/wiki/アップライトベース "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
 
 ## ディスコグラフィ
 
@@ -127,7 +127,7 @@
 </tr>
 <tr class="even">
 <td><p>9th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月18日.md" title="wikilink">5月18日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月18日.md" title="wikilink">5月18日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/between_YOU_and_ME" title="wikilink">between YOU and ME</a></strong></p></td>
 <td><p>XLCN-72005:初回生産限定盤<br />
 XLCN-72006:通常盤</p></td>
@@ -142,7 +142,7 @@ XLCN-72006:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>11th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ダズリングスープ/シルク" title="wikilink">ダズリングスープ/シルク</a></strong></p></td>
 <td><p>QWCX-10001</p></td>
 <td><p>オリコン最高8位、登場回数5回</p></td>
@@ -359,7 +359,7 @@ PCCA-50157:HQCD</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月19日.md" title="wikilink">10月19日</a><br />
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月19日.md" title="wikilink">10月19日</a><br />
 <a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/3月17日.md" title="wikilink">3月17日</a>:HQCD</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CRIMSON_SQUARE" title="wikilink">CRIMSON SQUARE</a></strong></p></td>
 <td><p>XLCN-71014:初回限定BOX仕様<br />
@@ -887,7 +887,7 @@ PCCA-03893:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月16日.md" title="wikilink">2月16日</a></p></td>
 <td><p><strong>SHAKALABBITS VIDEO MUSIC AWARDS GREATEST HITS? VOL.1</strong></p></td>
 <td><p>XLBN-74004</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -913,7 +913,7 @@ PCCA-03893:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月15日.md" title="wikilink">2月15日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月15日.md" title="wikilink">2月15日</a></p></td>
 <td><p><strong>between YOU and ME SHOW 2005 FINAL in 日本武道館</strong></p></td>
 <td><p>XLBN-74005</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1202,7 +1202,7 @@ XNUR-70011:通常盤</p></td>
 <td><p>DISK GARAGE</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
 <td><p><strong>STYLE OF Limited VITALIZE</strong></p></td>
 <td><p>LTDC-088</p></td>
 <td><p>22. 虹が語る夢</p></td>
@@ -1257,13 +1257,13 @@ XNUR-70011:通常盤</p></td>
 
 ## タイアップ
 
-| 曲名            | タイアップ                                                                                                       |
-| ------------- | ----------------------------------------------------------------------------------------------------------- |
-| KARENA        | ドラマ「[ハッピィ★ボーイズ](../Page/ハッピィ★ボーイズ.md "wikilink")」オープニングテーマ                                                  |
-| Soda          | 映画「[サビ男サビ女](https://ja.wikipedia.org/wiki/サビ男サビ女 "wikilink")」主題歌                                            |
-| FLAPPER       | ゲーム「[暴れん坊プリンセス](../Page/暴れん坊プリンセス.md "wikilink")」オープニングテーマ                                                  |
-| mommy's back? | TBS「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」2005年4月・5月度エンディングテーマ                        |
-| ダズリングスープ      | 日本テレビ系「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」2006年10月度エンディングテーマ |
+| 曲名            | タイアップ                                                                                    |
+| ------------- | ---------------------------------------------------------------------------------------- |
+| KARENA        | ドラマ「[ハッピィ★ボーイズ](../Page/ハッピィ★ボーイズ.md "wikilink")」オープニングテーマ                               |
+| Soda          | 映画「[サビ男サビ女](https://ja.wikipedia.org/wiki/サビ男サビ女 "wikilink")」主題歌                         |
+| FLAPPER       | ゲーム「[暴れん坊プリンセス](../Page/暴れん坊プリンセス.md "wikilink")」オープニングテーマ                               |
+| mommy's back? | TBS「[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")」2005年4月・5月度エンディングテーマ     |
+| ダズリングスープ      | 日本テレビ系「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」2006年10月度エンディングテーマ |
 
 ## ライブ
 
@@ -1750,9 +1750,9 @@ SHAKALABBITS 10th ANNIVERSARY　“Riddle Glide Soundsystem”　2008-2009
 <スペシャル>
 
   - 2009/10/03 ZEPP TOKYO
-      - GUEST [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")/[チャットモンチー](../Page/チャットモンチー.md "wikilink")/[NEON GRAVITY](https://ja.wikipedia.org/wiki/NEON_GRAVITY "wikilink")/[BOMB FACTORY](https://ja.wikipedia.org/wiki/BOMB_FACTORY "wikilink")
+      - GUEST [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")/[チャットモンチー](../Page/チャットモンチー.md "wikilink")/[NEON GRAVITY](https://ja.wikipedia.org/wiki/NEON_GRAVITY "wikilink")/[BOMB FACTORY](https://ja.wikipedia.org/wiki/BOMB_FACTORY "wikilink")
   - 2009/10/04 ZEPP TOKYO
-      - GUEST [オレスカバンド](https://ja.wikipedia.org/wiki/オレスカバンド "wikilink")/[B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")/[FED MUSIC](https://ja.wikipedia.org/wiki/FED_MUSIC "wikilink")/[FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink")
+      - GUEST [オレスカバンド](https://ja.wikipedia.org/wiki/オレスカバンド "wikilink")/[B-DASH](../Page/B-DASH.md "wikilink")/[FED MUSIC](https://ja.wikipedia.org/wiki/FED_MUSIC "wikilink")/[FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink")
 
 </div>
 
@@ -2101,11 +2101,11 @@ Hallelujah Circus Acoustic Show II
   - 2012年03月18日 - GO\!FES 2012
   - 2012年08月05日 - ROCK IN JAPAN FESTIVAL 2012
   - 2012年10月28日 - 第2回 [新潟大学](../Page/新潟大学.md "wikilink")医歯学祭「STEP」
-  - 2012年11月02日 - [昭和薬科大学](https://ja.wikipedia.org/wiki/昭和薬科大学 "wikilink") 昭薬祭
-  - 2012年11月03日 - [産業医科大学](https://ja.wikipedia.org/wiki/産業医科大学 "wikilink") 医生祭
+  - 2012年11月02日 - [昭和薬科大学](../Page/昭和薬科大学.md "wikilink") 昭薬祭
+  - 2012年11月03日 - [産業医科大学](../Page/産業医科大学.md "wikilink") 医生祭
   - 2012年12月02日 - ベリテン歳末大感謝祭2012
   - 2012年12月29日 - COUNTDOWN JAPAN 12/13
-  - 2013年05月03日 - [B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink") presents 「SERVICE SPECIAL EDITION」
+  - 2013年05月03日 - [B-DASH](../Page/B-DASH.md "wikilink") presents 「SERVICE SPECIAL EDITION」
   - 2013年07月20日 - [FREEDOM NAGOYA](https://ja.wikipedia.org/wiki/FREEDOM_NAGOYA "wikilink") 2013
   - 2013年08月17日 - SUMMER FEVER
   - 2013年08月24日・25日 - 美浜 CRYSTAL BEACH SOUND 2013
@@ -2115,7 +2115,7 @@ Hallelujah Circus Acoustic Show II
   - 2015年02月22日 - SPACE TrAiN FESTIVAL 2015
   - 2015年04月29日 - TOKYO KAIDO'15〜宇都宮ライブサーキット〜
   - 2015年06月20日 - LIVEHOLIC presents GRAND OPENING SERIES vol.12
-  - 2015年08月22日 - [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")「ほぼ活動休止ライブ」
+  - 2015年08月22日 - [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")「ほぼ活動休止ライブ」
   - 2015年10月24日 - [バンドじゃないもん\!](https://ja.wikipedia.org/wiki/バンドじゃないもん! "wikilink") presents「バンもん\!Fes.」
   - 2015年11月23日 - 下北沢にて'15
   - 2015年12月01日 - [SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink") OF THE MORNING TOUR
@@ -2128,7 +2128,7 @@ Hallelujah Circus Acoustic Show II
       - [Gibson](https://ja.wikipedia.org/wiki/ギブソン社 "wikilink") Les Paul Histric collection 1959 reisue
       - [Gibson](https://ja.wikipedia.org/wiki/ギブソン社 "wikilink") Gibson Custom Shop ES-339
       - GUILD SG-100
-      - [Fender](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") TAKE-C MODEL Proto-00
+      - [Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink") TAKE-C MODEL Proto-00
       - Fender Custom Shop ESQUIER
       - Fender Custom Shop STRATOCASTER
 
@@ -2139,15 +2139,15 @@ Hallelujah Circus Acoustic Show II
   - [暴れん坊プリンセス](../Page/暴れん坊プリンセス.md "wikilink")（OPテーマを担当）
   - [ハッピィ★ボーイズ](../Page/ハッピィ★ボーイズ.md "wikilink")（OPテーマを担当）
   - [175R](../Page/175R.md "wikilink")（インディーズ時代からのバンド仲間であり、2002年7月に合作を発表）
-  - [島田大介](../Page/島田大介.md "wikilink")（多くの[PVを担当](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")）
-  - [宇野亜喜良](https://ja.wikipedia.org/wiki/宇野亜喜良 "wikilink")（『ダズリングスープ／シルク』『モノローグ』『嘘を混ぜ込んだ真実のスープ』『BRACKISH』『Hallelujah Circus Acoustic』などのジャケットを担当）
-  - [蜷川実花](https://ja.wikipedia.org/wiki/蜷川実花 "wikilink")（『ROLLIE』『between YOU and ME』 などのCDジャケットを担当）
+  - [島田大介](../Page/島田大介.md "wikilink")（多くの[PVを担当](../Page/ミュージック・ビデオ.md "wikilink")）
+  - [宇野亜喜良](../Page/宇野亜喜良.md "wikilink")（『ダズリングスープ／シルク』『モノローグ』『嘘を混ぜ込んだ真実のスープ』『BRACKISH』『Hallelujah Circus Acoustic』などのジャケットを担当）
+  - [蜷川実花](../Page/蜷川実花.md "wikilink")（『ROLLIE』『between YOU and ME』 などのCDジャケットを担当）
   - [須藤カンジ](https://ja.wikipedia.org/wiki/須藤カンジ "wikilink")（『Mutron』『少年と白い犬』『Recovery』『Walk Over the Rainbow』『Circadian Bird』『Roller Coaster』『NACHO ROLL』等多くのPVを担当）
   - [Giottographica](https://ja.wikipedia.org/wiki/Giottographica "wikilink")（『Walk Over the Rainbow』『SHAKALABBITS』『Roller Coaster / BIRTHDAY』『NACHO ROLL』『Phasemeter Trippin' Bug Shake』『mademoiselle non non』のCDジャケットを担当）
-  - [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink")（釈迦兎寄合ゲストの定番）
-  - [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink") (2010年11月にコラボアルバム「Justess」に参加)
+  - [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink")（釈迦兎寄合ゲストの定番）
+  - [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink") (2010年11月にコラボアルバム「Justess」に参加)
   - [GLAY](../Page/GLAY.md "wikilink")の[TERU](../Page/TERU.md "wikilink")（交流あり。UKIとテルの好きなブランド[candystripper](https://ja.wikipedia.org/wiki/candystripper "wikilink")を通して）
-  - [高橋瞳](https://ja.wikipedia.org/wiki/高橋瞳 "wikilink")（歌手になるきっかけがシャカラビッツを聴いたことから）
+  - [高橋瞳](../Page/高橋瞳.md "wikilink")（歌手になるきっかけがシャカラビッツを聴いたことから）
 
 ## 外部リンク
 

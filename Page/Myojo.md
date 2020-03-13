@@ -1,17 +1,17 @@
 > この記事は[Myojo](https://ja.wikipedia.org/wiki/Myojo)から翻訳されています。
 
 
-『**Myojo <small>明星</small>**』（みょうじょう）は、[集英社](../Page/集英社.md "wikilink")が発行している老舗[芸能](https://ja.wikipedia.org/wiki/芸能 "wikilink")雑誌である。
+『**Myojo <small>明星</small>**』（みょうじょう）は、[集英社](../Page/集英社.md "wikilink")が発行している老舗[芸能](../Page/芸能.md "wikilink")雑誌である。
 
 旧名は漢字表記の『**明星**』（当時の英語併記は『THE MYOJO』）だが、英語表記に変更後も漢字表記は併記されている。
 
 かつては旬の[俳優](../Page/俳優.md "wikilink")や[タレント](../Page/タレント.md "wikilink")、[歌手](../Page/歌手.md "wikilink")、[スポーツ選手](https://ja.wikipedia.org/wiki/スポーツ選手 "wikilink")等、芸能関係の内容を幅広く扱っていたが、創刊40周年を迎えた[1992年](../Page/1992年.md "wikilink")10月号より『**Myojo 明星**』に改名し大幅リニューアル。その後も数度のリニューアルを経て、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代後半からは[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属する[男性アイドル](https://ja.wikipedia.org/wiki/男性アイドル "wikilink")のタレントを中心とした内容になっている。
 
-なお本誌は、戦前に刊行された『[明星](https://ja.wikipedia.org/wiki/明星_\(文芸誌\) "wikilink")』（文芸誌）や、食品メーカーの[明星食品](https://ja.wikipedia.org/wiki/明星食品 "wikilink")（略称：明星）とは一切関係ない。また、かつて同じ集英社が刊行していた『[週刊明星](../Page/週刊明星.md "wikilink")』（週刊誌）とも である。
+なお本誌は、戦前に刊行された『[明星](https://ja.wikipedia.org/wiki/明星_\(文芸誌\) "wikilink")』（文芸誌）や、食品メーカーの[明星食品](../Page/明星食品.md "wikilink")（略称：明星）とは一切関係ない。また、かつて同じ集英社が刊行していた『[週刊明星](../Page/週刊明星.md "wikilink")』（週刊誌）とも である。
 
 ## 概要・歴史
 
-[1952年](../Page/1952年.md "wikilink")8月、集英社は、かつて『[主婦之友](../Page/主婦の友.md "wikilink")』全盛を築いた編集者本郷保雄を専務取締役に迎え、先行する芸能誌『平凡』（『月刊平凡』、[平凡出版→マガジンハウス発行](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")）や元々映画情報誌で後にアイドル誌として新装開店した『近代映画』（後の『[Kindai](https://ja.wikipedia.org/wiki/Kindai "wikilink")』、[近代映画社](../Page/近代映画社.md "wikilink")発行）に対抗する月刊誌『明星』を創刊した（月号は10月号）。編集ポリシーは、[ミュージカル](../Page/ミュージカル.md "wikilink")のステージをイメージした「ボードビル編集」、創刊当初のサブタイトルは「夢と希望の娯楽雑誌」（のちに「歌と映画の雑誌劇場」）。創刊号の表紙は[津島恵子](../Page/津島恵子.md "wikilink")を起用した。当初は『平凡』や『近代映画』のそっくりさんと揶揄されたが、徐々に部数をのばして100万部に達する。そして『明星』は集英社のドル箱雑誌となり、『平凡』や『近代映画』とともに、アイドル誌の1つとして認知されるようになる。[1970年代](../Page/1970年代.md "wikilink")には全盛期を迎え、[1975年](../Page/1975年.md "wikilink")11月号（表紙は[山口百恵](../Page/山口百恵.md "wikilink")と[豊川誕](https://ja.wikipedia.org/wiki/豊川誕 "wikilink")）は当雑誌史上最高記録となる175万部を売り上げた。
+[1952年](../Page/1952年.md "wikilink")8月、集英社は、かつて『[主婦之友](../Page/主婦の友.md "wikilink")』全盛を築いた編集者本郷保雄を専務取締役に迎え、先行する芸能誌『平凡』（『月刊平凡』、[平凡出版→マガジンハウス発行](../Page/マガジンハウス.md "wikilink")）や元々映画情報誌で後にアイドル誌として新装開店した『近代映画』（後の『[Kindai](https://ja.wikipedia.org/wiki/Kindai "wikilink")』、[近代映画社](../Page/近代映画社.md "wikilink")発行）に対抗する月刊誌『明星』を創刊した（月号は10月号）。編集ポリシーは、[ミュージカル](../Page/ミュージカル.md "wikilink")のステージをイメージした「ボードビル編集」、創刊当初のサブタイトルは「夢と希望の娯楽雑誌」（のちに「歌と映画の雑誌劇場」）。創刊号の表紙は[津島恵子](../Page/津島恵子.md "wikilink")を起用した。当初は『平凡』や『近代映画』のそっくりさんと揶揄されたが、徐々に部数をのばして100万部に達する。そして『明星』は集英社のドル箱雑誌となり、『平凡』や『近代映画』とともに、アイドル誌の1つとして認知されるようになる。[1970年代](../Page/1970年代.md "wikilink")には全盛期を迎え、[1975年](../Page/1975年.md "wikilink")11月号（表紙は[山口百恵](../Page/山口百恵.md "wikilink")と[豊川誕](https://ja.wikipedia.org/wiki/豊川誕 "wikilink")）は当雑誌史上最高記録となる175万部を売り上げた。
 
 ライバル誌だった『平凡』や『Kindai』が廃刊となった後も長らく発行しているが、2010年11月号から本の大きさを同社が発行の『[Seventeen](../Page/Seventeen_\(日本の雑誌\).md "wikilink")』や『[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")』と同サイズに拡大、長年発行された歌詞本付録「YOUNG SONG」が廃止となり、本誌内に組み込まれるなどリニューアルされた（ちなみに2012年の発行部数は23万部にまで減少）。
 
@@ -42,7 +42,7 @@
 <td><p>1</p></td>
 <td><p>1995年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/森田剛" title="wikilink">森田剛</a><br />
-<a href="https://ja.wikipedia.org/wiki/三宅健" title="wikilink">三宅健</a></p></td>
+<a href="../Page/三宅健.md" title="wikilink">三宅健</a></p></td>
 <td><p><a href="../Page/小原裕貴_(1980年生のタレント).md" title="wikilink">小原裕貴</a></p></td>
 <td><p> </p></td>
 </tr>
@@ -126,7 +126,7 @@
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>2007年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/八乙女光" title="wikilink">八乙女光</a></p></td>
+<td><p><a href="../Page/八乙女光.md" title="wikilink">八乙女光</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北山宏光" title="wikilink">北山宏光</a></p></td>
 <td><p> </p></td>
 </tr>
@@ -147,7 +147,7 @@
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2010年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中山優馬" title="wikilink">中山優馬</a></p></td>
+<td><p><a href="../Page/中山優馬.md" title="wikilink">中山優馬</a></p></td>
 <td><p>中島健人</p></td>
 <td></td>
 </tr>
@@ -219,7 +219,7 @@
 
 ## 特別企画ランキング
 
-デビュー後に特別企画として、「恋人にしたい部門」などを中心に、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月号で[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")、[2009年](../Page/2009年.md "wikilink")4月号、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月号、[2011年](../Page/2011年.md "wikilink")4月号で[Hey\! Say\! JUMPのランキングが発表された](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")。ジャニーズJr.のランキング同様、読者がアンケートに答え集計された票数で順位が決まる。
+デビュー後に特別企画として、「恋人にしたい部門」などを中心に、[2005年](../Page/2005年.md "wikilink")3月号で[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")、[2009年](../Page/2009年.md "wikilink")4月号、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月号、[2011年](../Page/2011年.md "wikilink")4月号で[Hey\! Say\! JUMPのランキングが発表された](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")。ジャニーズJr.のランキング同様、読者がアンケートに答え集計された票数で順位が決まる。
 
   - NEWS
 
@@ -256,8 +256,8 @@
 | 年        | ドラマ部門                                                                                                                                         | 男優部門 | 女優部門                                                    | お笑い芸人部門                                                            |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------------------------------- | ------------------------------------------------------------------ |
 | 2004年    | [3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")                                                                                 | 山下智久 | [上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")     | [キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")                  |
-| 2005年    | [ごくせん](../Page/ごくせん.md "wikilink")                                                                                                            | 赤西仁  | [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink") | [オリエンタルラジオ](https://ja.wikipedia.org/wiki/オリエンタルラジオ "wikilink")    |
-| 2006年    | [マイ★ボス マイ★ヒーロー](https://ja.wikipedia.org/wiki/マイ★ボス_マイ★ヒーロー "wikilink")                                                                       | 亀梨和也 | [戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink") | [桜塚やっくん](https://ja.wikipedia.org/wiki/桜塚やっくん "wikilink")          |
+| 2005年    | [ごくせん](../Page/ごくせん.md "wikilink")                                                                                                            | 赤西仁  | [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink") | [オリエンタルラジオ](../Page/オリエンタルラジオ.md "wikilink")                       |
+| 2006年    | [マイ★ボス マイ★ヒーロー](https://ja.wikipedia.org/wiki/マイ★ボス_マイ★ヒーロー "wikilink")                                                                       | 亀梨和也 | [戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink") | [桜塚やっくん](../Page/桜塚やっくん.md "wikilink")                             |
 | 2007年    | [有閑倶楽部](../Page/有閑倶楽部.md "wikilink")                                                                                                          | 山田涼介 | [新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")   | [小島よしお](../Page/小島よしお.md "wikilink")                               |
 | 2008年    | [スクラップ・ティーチャー〜教師再生〜](https://ja.wikipedia.org/wiki/スクラップ・ティーチャー〜教師再生〜 "wikilink")                                                             | 山田涼介 | 上戸彩                                                     | [ジョイマン](https://ja.wikipedia.org/wiki/ジョイマン_\(お笑いコンビ\) "wikilink") |
 | 2009年    | [ブザー・ビート〜崖っぷちのヒーロー〜](https://ja.wikipedia.org/wiki/ブザー・ビート〜崖っぷちのヒーロー〜 "wikilink")／[左目探偵EYE](https://ja.wikipedia.org/wiki/左目探偵EYE "wikilink") | 山田涼介 | 新垣結衣                                                    | [はんにゃ](https://ja.wikipedia.org/wiki/はんにゃ "wikilink")              |
@@ -286,7 +286,7 @@
   - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
   - [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")
   - [Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")
-  - [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
   - [A.B.C-Z](https://ja.wikipedia.org/wiki/A.B.C-Z "wikilink")
   - [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")

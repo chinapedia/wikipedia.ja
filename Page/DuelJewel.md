@@ -11,21 +11,21 @@
 
 ### 現メンバー
 
-| 名前                                                                | パート                                                          | 生年月日                                   | 血液型                                                    | [メンバーカラー](https://ja.wikipedia.org/wiki/メンバーカラー "wikilink") |
-| ----------------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
-| <ruby><rb>**隼人**</rb><rp>（</rp><rt>ハヤト</rt><rp>）</rp></ruby>      | [Vocal](https://ja.wikipedia.org/wiki/Vocal "wikilink")      | [12月29日](../Page/12月29日.md "wikilink") | [B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [赤](../Page/赤.md "wikilink")                                |
-| <ruby><rb>**Shun**</rb><rp>（</rp><rt>シュン</rt><rp>）</rp></ruby>    | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink")    | [2月3日](../Page/2月3日.md "wikilink")     | [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [ピンク](https://ja.wikipedia.org/wiki/ピンク "wikilink")         |
-| <ruby><rb>**祐弥**</rb><rp>（</rp><rt>ユウヤ</rt><rp>）</rp></ruby>      | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink")    | [4月29日](../Page/4月29日.md "wikilink")   | [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [黄色](../Page/黄色.md "wikilink")                              |
-| <ruby><rb>**Natsuki**</rb><rp>（</rp><rt>ナツキ</rt><rp>）</rp></ruby> | [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") | [9月11日](../Page/9月11日.md "wikilink")   | [B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [青](../Page/青.md "wikilink")                                |
-| <ruby><rb>**ばる**</rb><rp>（</rp><rt>バル</rt><rp>）</rp></ruby>       | [Drums](https://ja.wikipedia.org/wiki/Drums "wikilink")      | [2月4日](../Page/2月4日.md "wikilink")     | [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [緑](../Page/緑.md "wikilink")                                |
+| 名前                                                                | パート                                                       | 生年月日                                   | 血液型                                                    | [メンバーカラー](https://ja.wikipedia.org/wiki/メンバーカラー "wikilink") |
+| ----------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
+| <ruby><rb>**隼人**</rb><rp>（</rp><rt>ハヤト</rt><rp>）</rp></ruby>      | [Vocal](https://ja.wikipedia.org/wiki/Vocal "wikilink")   | [12月29日](../Page/12月29日.md "wikilink") | [B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [赤](../Page/赤.md "wikilink")                                |
+| <ruby><rb>**Shun**</rb><rp>（</rp><rt>シュン</rt><rp>）</rp></ruby>    | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink") | [2月3日](../Page/2月3日.md "wikilink")     | [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [ピンク](../Page/ピンク.md "wikilink")                            |
+| <ruby><rb>**祐弥**</rb><rp>（</rp><rt>ユウヤ</rt><rp>）</rp></ruby>      | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink") | [4月29日](../Page/4月29日.md "wikilink")   | [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [黄色](../Page/黄色.md "wikilink")                              |
+| <ruby><rb>**Natsuki**</rb><rp>（</rp><rt>ナツキ</rt><rp>）</rp></ruby> | [Bass](../Page/ベース_\(弦楽器\).md "wikilink")                 | [9月11日](../Page/9月11日.md "wikilink")   | [B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [青](../Page/青.md "wikilink")                                |
+| <ruby><rb>**ばる**</rb><rp>（</rp><rt>バル</rt><rp>）</rp></ruby>       | [Drums](https://ja.wikipedia.org/wiki/Drums "wikilink")   | [2月4日](../Page/2月4日.md "wikilink")     | [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [緑](../Page/緑.md "wikilink")                                |
 
 ### 旧メンバー
 
-| 名前          | パート                                                          | 在籍期間                                                                                                                  |
-| ----------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| **PSY**     | [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月 |
-| **Takashi** | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink")    | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")6月 - [1999年](../Page/1999年.md "wikilink")3月                    |
-| **Ka-non**  | [Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") | [1999年](../Page/1999年.md "wikilink")1月 - [2001年](../Page/2001年.md "wikilink")12月                                      |
+| 名前          | パート                                                       | 在籍期間                                                                                                                  |
+| ----------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **PSY**     | [Bass](../Page/ベース_\(弦楽器\).md "wikilink")                 | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月 |
+| **Takashi** | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink") | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")6月 - [1999年](../Page/1999年.md "wikilink")3月                    |
+| **Ka-non**  | [Bass](../Page/ベース_\(弦楽器\).md "wikilink")                 | [1999年](../Page/1999年.md "wikilink")1月 - [2001年](../Page/2001年.md "wikilink")12月                                      |
 
 ### メンバー変遷
 
@@ -224,7 +224,7 @@ LineData =
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月21日.md" title="wikilink">2月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月21日.md" title="wikilink">2月21日</a></p></td>
 <td><p><strong>The Birth</strong></p></td>
 <td><p>CD</p></td>
 <td><ol>
@@ -240,7 +240,7 @@ LineData =
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月5日.md" title="wikilink">7月5日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月5日.md" title="wikilink">7月5日</a></p></td>
 <td><p><strong>azure</strong></p></td>
 <td><p>CD</p></td>
 <td><ol>
@@ -255,7 +255,7 @@ LineData =
 <td><p>79位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
 <td><p><strong>愛愁メランコリア/Life On...</strong> <strong>（GONE SIDE）</strong></p></td>
 <td><p>CD+DVD</p></td>
 <td><ol>
@@ -309,7 +309,7 @@ LineData =
 <td><ul>
 <li>DVD「Jewelry Box」との同時発売</li>
 <li><a href="https://ja.wikipedia.org/wiki/成田忍" title="wikilink">成田忍</a>との共同プロデュース</li>
-<li>初回限定盤と通常盤で<a href="https://ja.wikipedia.org/wiki/マスタリング" title="wikilink">マスタリング</a>が異なっている[10]</li>
+<li>初回限定盤と通常盤で<a href="../Page/マスタリング.md" title="wikilink">マスタリング</a>が異なっている[10]</li>
 <li>初回限定盤付属DVD：「アイオライト」のMV収録</li>
 </ul></td>
 <td><p>初回限定盤 POCE-94301</p></td>
@@ -647,7 +647,7 @@ LineData =
 <li>月と戯れ</li>
 </ol></td>
 <td><ul>
-<li>初期の楽曲をメンバー自身が選曲し、再レコーディングした<a href="https://ja.wikipedia.org/wiki/セルフカバー" title="wikilink">セルフカバー</a>・<a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">ベストアルバム</a></li>
+<li>初期の楽曲をメンバー自身が選曲し、再レコーディングした<a href="../Page/セルフカバー.md" title="wikilink">セルフカバー</a>・<a href="../Page/ベスト・アルバム.md" title="wikilink">ベストアルバム</a></li>
 <li>「colors」は新曲書き下ろし</li>
 <li><a href="https://ja.wikipedia.org/wiki/シークレットトラック" title="wikilink">シークレットトラック</a>「Paranoid Trash」収録</li>
 <li>初回プレス分封入特典：各メンバーのフォトカード5種類ランダム封入</li>
@@ -678,7 +678,7 @@ LineData =
 <li>「おつかれサマー」の最後の女性の声を祐弥の実妹が担当[12]</li>
 <li>「ASHTAROTH」ではShunが<a href="../Page/ウード.md" title="wikilink">ウード</a>を弾いている[13]</li>
 <li>通常盤のみ12曲目にNoahより「暁」を再レコーディング収録</li>
-<li>初回限定盤付属DVD：<a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a> <a href="../Page/赤坂BLITZ.md" title="wikilink">赤坂BLITZ</a>ライブ「sin」「月と戯れ」2曲+おまけ映像（<a href="../Page/機動戦士ガンダム.md" title="wikilink">ガンダム</a><a href="../Page/バー_(酒場).md" title="wikilink">バー</a>「SIDE-6」（<a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/北九州市" title="wikilink">北九州市</a>小倉）での撮影映像）収録</li>
+<li>初回限定盤付属DVD：<a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a> <a href="../Page/赤坂BLITZ.md" title="wikilink">赤坂BLITZ</a>ライブ「sin」「月と戯れ」2曲+おまけ映像（<a href="../Page/機動戦士ガンダム.md" title="wikilink">ガンダム</a><a href="../Page/バー_(酒場).md" title="wikilink">バー</a>「SIDE-6」（<a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/北九州市" title="wikilink">北九州市</a>小倉）での撮影映像）収録</li>
 <li>初回限定盤会場購入特典DVD：丸秘映像集3</li>
 </ul></td>
 <td><p>初回限定盤 DRDJ-8</p></td>
@@ -714,7 +714,7 @@ LineData =
 <li>「SLIP FROM MY HANDS」の編曲をRYO（<a href="https://ja.wikipedia.org/wiki/defspiral" title="wikilink">defspiral</a>）が担当</li>
 <li>Aタイプのみ11曲目にシングル「愛愁メランコリア」を再レコーディング収録</li>
 <li>Aタイプ付属DVD：「Sad/Mad」のMV+メイキング映像収録</li>
-<li>Bタイプ付属DVD：<a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> <a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA AXライブ</a>「outsider」「約束の詩」2曲収録</li>
+<li>Bタイプ付属DVD：<a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA AXライブ</a>「outsider」「約束の詩」2曲収録</li>
 </ul></td>
 <td><p>Aタイプ DRDJ-19</p></td>
 <td><p>59位</p></td>
@@ -807,7 +807,7 @@ LineData =
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
 <td><p><strong>VISIONS</strong></p></td>
 <td><p>CD+DVD</p></td>
 <td><ol>
@@ -1090,7 +1090,7 @@ LineData =
 <li>ONE SHOT ONE KILL</li>
 </ol></td>
 <td><ul>
-<li>当初は<a href="../Page/日本青年館.md" title="wikilink">日本青年館</a>にて限定販売、その後<a href="https://ja.wikipedia.org/wiki/新星堂" title="wikilink">新星堂</a>ONLINEにて販売</li>
+<li>当初は<a href="../Page/日本青年館.md" title="wikilink">日本青年館</a>にて限定販売、その後<a href="../Page/新星堂.md" title="wikilink">新星堂</a>ONLINEにて販売</li>
 <li>配信限定シングル3曲収録</li>
 </ul></td>
 <td><p>DRDJ-12</p></td>
@@ -1223,7 +1223,7 @@ LineData =
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
 <td><p><strong>Trust</strong></p></td>
 <td><p>VHS</p></td>
 <td><ol>
@@ -1270,7 +1270,7 @@ LineData =
 <li>リインカネーション・フロウ (Live)</li>
 </ol></td>
 <td><ul>
-<li>MV6曲＋<a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/1月4日.md" title="wikilink">1月4日</a> <a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">Shibuya O-EASTライブ</a>5曲収録</li>
+<li>MV6曲＋<a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/1月4日.md" title="wikilink">1月4日</a> <a href="../Page/Shibuya_O-EAST.md" title="wikilink">Shibuya O-EASTライブ</a>5曲収録</li>
 <li>シングル「アイオライト」との同時発売</li>
 </ul></td>
 <td><p>POBE-14301</p></td>
@@ -1376,7 +1376,7 @@ LineData =
 <li>Trust</li>
 </ol></td>
 <td><ul>
-<li><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> <a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA AXライブ</a>19曲収録</li>
+<li><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a> <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA AXライブ</a>19曲収録</li>
 </ul></td>
 <td><p>DRDJ-18</p></td>
 <td><p>93位</p></td>
@@ -1414,7 +1414,7 @@ LineData =
 <li>Tales</li>
 </ol></td>
 <td><ul>
-<li><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/2月1日.md" title="wikilink">2月1日</a> <a href="https://ja.wikipedia.org/wiki/渋谷公会堂" title="wikilink">渋谷公会堂</a>ライブ20曲収録</li>
+<li><a href="../Page/2015年.md" title="wikilink">2015年</a><a href="../Page/2月1日.md" title="wikilink">2月1日</a> <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a>ライブ20曲収録</li>
 </ul></td>
 <td><p>DRDJ-27</p></td>
 <td><p>20位</p></td>
@@ -1735,17 +1735,17 @@ LineData =
 <td><p>UCCD-035</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月6日.md" title="wikilink">6月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月6日.md" title="wikilink">6月6日</a></p></td>
 <td><p>東名阪仙札</p></td>
 <td><p>CD</p></td>
 <td></td>
 <td><ul>
-<li>Backdrop Community Tour（<a href="../Page/6月6日.md" title="wikilink">6月6日</a> <a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">Shibuya O-EAST</a>、<a href="../Page/6月8日.md" title="wikilink">6月8日</a> OSAKA MUSE、<a href="../Page/6月9日.md" title="wikilink">6月9日</a> 名古屋E.L.L.）にて配布</li>
+<li>Backdrop Community Tour（<a href="../Page/6月6日.md" title="wikilink">6月6日</a> <a href="../Page/Shibuya_O-EAST.md" title="wikilink">Shibuya O-EAST</a>、<a href="../Page/6月8日.md" title="wikilink">6月8日</a> OSAKA MUSE、<a href="../Page/6月9日.md" title="wikilink">6月9日</a> 名古屋E.L.L.）にて配布</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p><strong>CANNONBALL vol.2</strong></p></td>
 <td><p>CD</p></td>
 <td><p>betray</p></td>
@@ -1753,7 +1753,7 @@ LineData =
 <td><p>CRCP-40113</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
 <td><p><strong>Shock Edge 2005</strong></p></td>
 <td><p>CD</p></td>
 <td><p>Nauthiz-Lunatic Edit-</p></td>
@@ -1768,7 +1768,7 @@ LineData =
 <td><p>CD</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/JUPITER_(BUCK-TICKの曲)" title="wikilink">JUPITER</a></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/BUCK-TICK" title="wikilink">BUCK-TICK</a>の楽曲カバー</li>
+<li><a href="../Page/BUCK-TICK.md" title="wikilink">BUCK-TICK</a>の楽曲カバー</li>
 </ul></td>
 <td><p>UPCH-20221</p></td>
 </tr>
@@ -1983,13 +1983,13 @@ LineData =
 
 ##### その他の活動
 
-| 日付                                                                                                            | 内容                                                                                   | アーティスト                 | タイトル          | 備考   |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------- | ------------- | ---- |
-| [2016年](../Page/2016年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - [5月1日](../Page/5月1日.md "wikilink") | REVO2016『SESSION 情熱と生活』 - [新国立劇場](https://ja.wikipedia.org/wiki/新国立劇場 "wikilink")小劇場 |                        |               | 楽曲提供 |
-| [2017年](../Page/2017年.md "wikilink")                                                                          | [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")「イディオムガール」                                 |                        |               | 楽曲提供 |
-| [2017年](../Page/2017年.md "wikilink")                                                                          | [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink") Matixx                 | ユグドラシルワークスShun with 砂唏 | 桐一葉           | 楽曲提供 |
-| [2018年](../Page/2018年.md "wikilink")                                                                          | [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink") Matixx                 | ユグドラシルワークスShun with 夜凪 | Killing Bites | 楽曲提供 |
-| [2019年](../Page/2019年.md "wikilink")                                                                          | [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink") EXCHAIN                | ユグドラシルワークスShun with 砂唏 | リドル           | 楽曲提供 |
+| 日付                                                                                                            | 内容                                                                    | アーティスト                 | タイトル          | 備考   |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------- | ------------- | ---- |
+| [2016年](../Page/2016年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") - [5月1日](../Page/5月1日.md "wikilink") | REVO2016『SESSION 情熱と生活』 - [新国立劇場](../Page/新国立劇場.md "wikilink")小劇場     |                        |               | 楽曲提供 |
+| [2017年](../Page/2017年.md "wikilink")                                                                          | [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")「イディオムガール」                  |                        |               | 楽曲提供 |
+| [2017年](../Page/2017年.md "wikilink")                                                                          | [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink") Matixx  | ユグドラシルワークスShun with 砂唏 | 桐一葉           | 楽曲提供 |
+| [2018年](../Page/2018年.md "wikilink")                                                                          | [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink") Matixx  | ユグドラシルワークスShun with 夜凪 | Killing Bites | 楽曲提供 |
+| [2019年](../Page/2019年.md "wikilink")                                                                          | [GITADORA](https://ja.wikipedia.org/wiki/GITADORA "wikilink") EXCHAIN | ユグドラシルワークスShun with 砂唏 | リドル           | 楽曲提供 |
 
 #### ユウヤヤバセ
 
@@ -2141,7 +2141,7 @@ LineData =
 <tr class="odd">
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/7月4日.md" title="wikilink">7月4日</a></p></td>
 <td><p>Anime Expo 2003</p></td>
-<td><p>Anaheim Convention Center（<a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ合衆国</a> <a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="https://ja.wikipedia.org/wiki/アナハイム" title="wikilink">アナハイム</a>）</p></td>
+<td><p>Anaheim Convention Center（<a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ合衆国</a> <a href="../Page/カリフォルニア州.md" title="wikilink">カリフォルニア州</a><a href="../Page/アナハイム.md" title="wikilink">アナハイム</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2165,7 +2165,7 @@ LineData =
 <tr class="odd">
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/2月17日.md" title="wikilink">2月17日</a> - <a href="../Page/2月18日.md" title="wikilink">2月18日</a></p></td>
 <td><p>MegaCon 2007</p></td>
-<td><p>Orange County Convention Center（<a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ合衆国</a> <a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="https://ja.wikipedia.org/wiki/オーランド" title="wikilink">オーランド</a>）</p></td>
+<td><p>Orange County Convention Center（<a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">アメリカ合衆国</a> <a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="../Page/オーランド.md" title="wikilink">オーランド</a>）</p></td>
 <td><p>隼人、ばるが参加</p></td>
 </tr>
 <tr class="even">
@@ -2179,17 +2179,17 @@ LineData =
 
 ### ファン旅行
 
-| 日程                                                                                                                                                    | タイトル                                                 | 場所                                                                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月15日](../Page/4月15日.md "wikilink") - [4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") | DuelJewelファンツアー2006                                  | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")・伊香保、水上        |
-| [2009年](../Page/2009年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - [5月31日](../Page/5月31日.md "wikilink")                                       | 祐弥プロデュース DuelJewel 湯けむり温泉旅行                          | [長野県](../Page/長野県.md "wikilink")・南木曽                              |
-| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - [2月28日](../Page/2月28日.md "wikilink")                    | DuelJewelが？鬼怒川に？来るぅ～～↑                               | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")・日光            |
-| [2011年](../Page/2011年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink") - [2月12日](../Page/2月12日.md "wikilink")                                       | DuelJewelと行く『サイレントヒル～マウンテンペアーでラスタピアー』                | [静岡県](../Page/静岡県.md "wikilink")、[山梨県](../Page/山梨県.md "wikilink") |
-| [2012年](../Page/2012年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") - [5月13日](../Page/5月13日.md "wikilink")                                       | <nowiki>2012 DuelJewelと行く『アウトドアで会うのどや～               | 』in HAKONE</nowiki>                                               |
-| [2013年](../Page/2013年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink") - [5月26日](../Page/5月26日.md "wikilink")                                       | DuelJewelファン旅行2013『沖縄まで広げよう！大きな輪～楽シーサー200％で気分はナハナハ～』 | [沖縄県](../Page/沖縄県.md "wikilink")・那覇                               |
-| [2014年](../Page/2014年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink") - [5月11日](../Page/5月11日.md "wikilink")                                       | DuelJewel2014年ファン旅行～君と伊豆までも～                         | [静岡県](../Page/静岡県.md "wikilink")・伊豆                               |
-| [2015年](../Page/2015年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - [3月8日](../Page/3月8日.md "wikilink")                        | DuelJewelファン旅行2015 雪のアスタルスツ～ライブを添えて～ in 北海道          | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")・札幌、留寿都        |
-| [2016年](../Page/2016年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - [1月31日](../Page/1月31日.md "wikilink")                                       | DuelJewelと行く！夢の国イズニーシー                               | [静岡県](../Page/静岡県.md "wikilink")・西伊豆                              |
+| 日程                                                                                                                                 | タイトル                                                 | 場所                                                                |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- |
+| [2006年](../Page/2006年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink") - [4月16日](../Page/4月16日.md "wikilink")                    | DuelJewelファンツアー2006                                  | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")・伊香保、水上        |
+| [2009年](../Page/2009年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") - [5月31日](../Page/5月31日.md "wikilink")                    | 祐弥プロデュース DuelJewel 湯けむり温泉旅行                          | [長野県](../Page/長野県.md "wikilink")・南木曽                              |
+| [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月27日](../Page/2月27日.md "wikilink") - [2月28日](../Page/2月28日.md "wikilink") | DuelJewelが？鬼怒川に？来るぅ～～↑                               | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")・日光            |
+| [2011年](../Page/2011年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink") - [2月12日](../Page/2月12日.md "wikilink")                    | DuelJewelと行く『サイレントヒル～マウンテンペアーでラスタピアー』                | [静岡県](../Page/静岡県.md "wikilink")、[山梨県](../Page/山梨県.md "wikilink") |
+| [2012年](../Page/2012年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") - [5月13日](../Page/5月13日.md "wikilink")                    | <nowiki>2012 DuelJewelと行く『アウトドアで会うのどや～               | 』in HAKONE</nowiki>                                               |
+| [2013年](../Page/2013年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink") - [5月26日](../Page/5月26日.md "wikilink")                    | DuelJewelファン旅行2013『沖縄まで広げよう！大きな輪～楽シーサー200％で気分はナハナハ～』 | [沖縄県](../Page/沖縄県.md "wikilink")・那覇                               |
+| [2014年](../Page/2014年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink") - [5月11日](../Page/5月11日.md "wikilink")                    | DuelJewel2014年ファン旅行～君と伊豆までも～                         | [静岡県](../Page/静岡県.md "wikilink")・伊豆                               |
+| [2015年](../Page/2015年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - [3月8日](../Page/3月8日.md "wikilink")     | DuelJewelファン旅行2015 雪のアスタルスツ～ライブを添えて～ in 北海道          | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")・札幌、留寿都        |
+| [2016年](../Page/2016年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink") - [1月31日](../Page/1月31日.md "wikilink")                    | DuelJewelと行く！夢の国イズニーシー                               | [静岡県](../Page/静岡県.md "wikilink")・西伊豆                              |
 
 ## タイアップ
 
@@ -2221,7 +2221,7 @@ LineData =
 <li>上映場所：<a href="../Page/丸の内ビルディング.md" title="wikilink">丸ビル</a>1F MARUCUBE</li>
 </ul>
 <ul>
-<li>上映期間：<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>～<a href="../Page/12月24日.md" title="wikilink">12月24日</a></li>
+<li>上映期間：<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a>～<a href="../Page/12月24日.md" title="wikilink">12月24日</a></li>
 </ul></td>
 <td><ul>
 <li>ミニアルバム「VISIONS」</li>
@@ -2229,9 +2229,9 @@ LineData =
 </tr>
 <tr class="odd">
 <td><p>華唄</p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系『<a href="https://ja.wikipedia.org/wiki/最終警告!たけしの本当は怖い家庭の医学" title="wikilink">最終警告!たけしの本当は怖い家庭の医学</a>』EDテーマ</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系『<a href="../Page/最終警告!たけしの本当は怖い家庭の医学.md" title="wikilink">最終警告!たけしの本当は怖い家庭の医学</a>』EDテーマ</p></td>
 <td><ul>
-<li>放送期間：<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>2月～3月</li>
+<li>放送期間：<a href="../Page/2006年.md" title="wikilink">2006年</a>2月～3月</li>
 </ul></td>
 <td><ul>
 <li>ミニアルバム「VISIONS」</li>
@@ -2239,9 +2239,9 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>azure</p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系『<a href="https://ja.wikipedia.org/wiki/最終警告!たけしの本当は怖い家庭の医学" title="wikilink">最終警告!たけしの本当は怖い家庭の医学</a>』EDテーマ</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系『<a href="../Page/最終警告!たけしの本当は怖い家庭の医学.md" title="wikilink">最終警告!たけしの本当は怖い家庭の医学</a>』EDテーマ</p></td>
 <td><ul>
-<li>放送期間：<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>7月～</li>
+<li>放送期間：<a href="../Page/2006年.md" title="wikilink">2006年</a>7月～</li>
 </ul></td>
 <td><ul>
 <li>シングル「azure」</li>

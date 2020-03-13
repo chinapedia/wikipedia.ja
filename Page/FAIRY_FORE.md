@@ -14,7 +14,7 @@
 ## メンバー
 
   - 現王園崇（げんおうぞの　たかし、11月14日生、現：uBuGoe） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - YASU（村野泰弘、5月4日生） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")　[acalli](https://ja.wikipedia.org/wiki/acalli "wikilink")（Beauty maniacs）で活動後、引退。
+  - YASU（村野泰弘、5月4日生） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")　[acalli](https://ja.wikipedia.org/wiki/acalli "wikilink")（Beauty maniacs）で活動後、引退。
   - YOKO（横井善法、6月13日生、現：uBuGoe） - [ドラム](../Page/ドラムセット.md "wikilink")
   - タイト（サポートメンバー、9月5日生、現：KYOKUTOU GIRL FRIEND（ケッチ）） - [ギター](../Page/ギター.md "wikilink")
 
@@ -90,7 +90,7 @@
 ## タイアップ
 
   - [真・女神転生デビルチルドレン](https://ja.wikipedia.org/wiki/真・女神転生デビルチルドレン "wikilink") 主題歌（LOVE SICK、I DOLL）
-  - [FF：U 〜ファイナルファンタジー:アンリミテッド〜](https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜 "wikilink") エンディングテーマ（VIVID、Planetary）
+  - [FF：U 〜ファイナルファンタジー:アンリミテッド〜](../Page/FF：U_〜ファイナルファンタジー:アンリミテッド〜.md "wikilink") エンディングテーマ（VIVID、Planetary）
   - [爆転シュート ベイブレード主題歌](../Page/爆転シュート_ベイブレード_\(アニメ\).md "wikilink")（ジェット）
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink") [Category:2005年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に解散した音楽グループ "wikilink")

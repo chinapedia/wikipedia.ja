@@ -3,9 +3,9 @@
 
 **GUID** () または**グローバル一意識別子**（ぐろーばるいちいしきべつし）は、[UUID](../Page/UUID.md "wikilink")の実装のひとつ、あるいは（事実上）UUIDの別名である。
 
-UUIDの[マイクロソフト](../Page/マイクロソフト.md "wikilink")による実装を指すと解されることもあるが、[オラクルのデータベースや](../Page/Oracle_Database.md "wikilink")[NetIQ](https://ja.wikipedia.org/wiki/NetIQ "wikilink")の[eDirectory](https://ja.wikipedia.org/wiki/NetIQ_eDirectory "wikilink")（[ディレクトリ・サービス](https://ja.wikipedia.org/wiki/ディレクトリ・サービス "wikilink")）、[GUIDパーティションテーブル](https://ja.wikipedia.org/wiki/GUIDパーティションテーブル "wikilink")など、ほぼUUIDを指して、GUIDの語が使われることもある。
+UUIDの[マイクロソフト](../Page/マイクロソフト.md "wikilink")による実装を指すと解されることもあるが、[オラクルのデータベースや](../Page/Oracle_Database.md "wikilink")[NetIQ](https://ja.wikipedia.org/wiki/NetIQ "wikilink")の[eDirectory](https://ja.wikipedia.org/wiki/NetIQ_eDirectory "wikilink")（[ディレクトリ・サービス](../Page/ディレクトリ・サービス.md "wikilink")）、[GUIDパーティションテーブル](../Page/GUIDパーティションテーブル.md "wikilink")など、ほぼUUIDを指して、GUIDの語が使われることもある。
 
-GUIDを生成するツールとして、[Microsoft Windows SDKに付属する](../Page/Microsoft_Windows_SDK.md "wikilink") *GuidGen* \[1\]などがある。GuidGenは[Microsoft Visual Studioのメニューから呼び出すこともできる](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink")。[Windows APIには](https://ja.wikipedia.org/wiki/Windows_API "wikilink")`CoCreateGuid()`関数\[2\]および`UuidCreate()`関数\[3\]が用意されている。[.NET Frameworkには](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")`System.Guid.NewGuid()`メソッドが用意されている\[4\]。
+GUIDを生成するツールとして、[Microsoft Windows SDKに付属する](../Page/Microsoft_Windows_SDK.md "wikilink") *GuidGen* \[1\]などがある。GuidGenは[Microsoft Visual Studioのメニューから呼び出すこともできる](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink")。[Windows APIには](../Page/Windows_API.md "wikilink")`CoCreateGuid()`関数\[2\]および`UuidCreate()`関数\[3\]が用意されている。[.NET Frameworkには](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")`System.Guid.NewGuid()`メソッドが用意されている\[4\]。
 
 ## 構造
 

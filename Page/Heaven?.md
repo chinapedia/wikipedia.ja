@@ -18,12 +18,12 @@
 ## 登場人物
 
   - 伊賀観（いが かん）
-    本作の[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。「ロワン ディシー」シェフドラン。[長崎県](../Page/長崎県.md "wikilink")出身。
+    本作の[主人公](../Page/主人公.md "wikilink")。「ロワン ディシー」シェフドラン。[長崎県](../Page/長崎県.md "wikilink")出身。
     営業スマイルができない上、融通も利かない堅物。理不尽な客への毅然とした態度を買われ、雇われた経緯がある。サービス陣では唯一のフレンチ経験者であるものの、その年数は未だ3年と決して一人前ではない。物語冒頭と結末では上品な老紳士の姿で登場する。
     オーナー・黒須仮名子を初めとする「ロワン ディシー」の個性的な面々の暴走を軌道修正するクッション役を務めるなど苦労は絶えない。
     オーナーに負けず劣らず強引な母親がいる。怒ることは滅多に無いと言われ、ピンチの際には超人的な感覚を発揮する。因みに「観」と言う名前には本人によると「観念」「諦観」の意味を持つらしい。
   - 黒須仮名子（くろす かなこ）
-    本作の[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")兼[狂言回し](../Page/狂言回し.md "wikilink")。「ロワン ディシー」オーナーであり、三流の[ミステリー作家](../Page/推理作家.md "wikilink")。執筆時のペンネームは「**黒須真名**」。
+    本作の[ヒロイン](../Page/ヒロイン.md "wikilink")兼[狂言回し](../Page/狂言回し.md "wikilink")。「ロワン ディシー」オーナーであり、三流の[ミステリー作家](../Page/推理作家.md "wikilink")。執筆時のペンネームは「**黒須真名**」。
     かなりの美人だが、他の追随を許さぬほどの[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")体質。たまに本質を鋭く突いた発言をするものの、大抵は思いつきで周囲を振り回すことが多い。文芸界に広い交友関係を持っているが、詳しい素性はまったく描かれていない謎多き人物。
     現在はあまり執筆活動を行っておらず、借金取りからの逃避場所に「ロワン ディシー」をオープンした経緯がある。
   - 堤計太郎（つつみ けいたろう）
@@ -31,13 +31,13 @@
     スケールの小さい倹約家だが、秀でた企画力・経営力で尽力する縁の下の力持ち。
   - 山懸重臣（やまがた しげおみ）
     「ロワン ディシー」[ソムリエ](../Page/ソムリエ.md "wikilink")。[定年](../Page/定年.md "wikilink")退職した[銀行](../Page/銀行.md "wikilink")の元役員。[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")出身。
-    かつては[神童](https://ja.wikipedia.org/wiki/神童 "wikilink")と呼ばれるほど賢く、銀行では出世街道をひた走っていたが、趣味の[資格](../Page/資格.md "wikilink")取得に没頭するあまり[窓際族](https://ja.wikipedia.org/wiki/窓際族 "wikilink")に追いやられた。
+    かつては[神童](../Page/神童.md "wikilink")と呼ばれるほど賢く、銀行では出世街道をひた走っていたが、趣味の[資格](../Page/資格.md "wikilink")取得に没頭するあまり[窓際族](https://ja.wikipedia.org/wiki/窓際族 "wikilink")に追いやられた。
     フレンチ経験は無く、ソムリエの資格取得に必要な5年間の飲食店勤務年数を得るため、「ロワン ディシー」に勤務する。
-    [営業](https://ja.wikipedia.org/wiki/営業 "wikilink")畑の人間らしく、厭味な客のあしらいもうまいが、時には自分が年寄りであることも利用して人を丸め込みラクをする老獪かつお茶目な人柄。
+    [営業](../Page/営業.md "wikilink")畑の人間らしく、厭味な客のあしらいもうまいが、時には自分が年寄りであることも利用して人を丸め込みラクをする老獪かつお茶目な人柄。
   - 川合太一（かわい たいち）
-    「ロワン ディシー」コミドラン。メンバー内の最年少者。元々は[美容師](https://ja.wikipedia.org/wiki/美容師 "wikilink")の見習いをしていた。
-    屈託のない明るい性格。天性の無邪気さと甘え上手で川合ファンの女性客が多い。[霊感](https://ja.wikipedia.org/wiki/霊感 "wikilink")が強く、「ロワン ディシー」にいる幽霊に水の入ったコップを差し出す姿がたまに見られる。
-    趣味の[トレーディングカード](../Page/トレーディングカード.md "wikilink")を店のあちこちに隠したり、店先に[ビワ](https://ja.wikipedia.org/wiki/ビワ "wikilink")や[焼き栗](https://ja.wikipedia.org/wiki/焼き栗 "wikilink")を植えるなど子供じみた行動をよくとっている。
+    「ロワン ディシー」コミドラン。メンバー内の最年少者。元々は[美容師](../Page/美容師.md "wikilink")の見習いをしていた。
+    屈託のない明るい性格。天性の無邪気さと甘え上手で川合ファンの女性客が多い。[霊感](../Page/霊感.md "wikilink")が強く、「ロワン ディシー」にいる幽霊に水の入ったコップを差し出す姿がたまに見られる。
+    趣味の[トレーディングカード](../Page/トレーディングカード.md "wikilink")を店のあちこちに隠したり、店先に[ビワ](../Page/ビワ.md "wikilink")や[焼き栗](https://ja.wikipedia.org/wiki/焼き栗 "wikilink")を植えるなど子供じみた行動をよくとっている。
   - 小澤（おざわ）
     「ロワン ディシー」[シェフ](../Page/シェフ.md "wikilink")。以前は三つ星レストランに勤めていた。
     料理人としての腕は一流だが、在籍する店（計7軒）がことごとく潰れた過去があり、そのことが強い[トラウマ](https://ja.wikipedia.org/wiki/トラウマ "wikilink")になっている。
@@ -85,16 +85,16 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
   - 黒須仮名子 / 仮名須黒子\[5\] - [石原さとみ](../Page/石原さとみ.md "wikilink")
   - 伊賀観 - [福士蒼汰](https://ja.wikipedia.org/wiki/福士蒼汰 "wikilink")\[6\]（幼少期：[中野遥斗](https://ja.wikipedia.org/wiki/中野遥斗 "wikilink")）
   - 川合太一 - [志尊淳](https://ja.wikipedia.org/wiki/志尊淳 "wikilink")\[7\]
-  - 鱸克雄 - [田口浩正](https://ja.wikipedia.org/wiki/田口浩正 "wikilink")
+  - 鱸克雄 - [田口浩正](../Page/田口浩正.md "wikilink")
   - 和田英代 - [内田慈](https://ja.wikipedia.org/wiki/内田慈 "wikilink")
   - 月川陽平 - [大重わたる](https://ja.wikipedia.org/wiki/大重わたる "wikilink")
   - 高遠大地 - [松本ししまる](https://ja.wikipedia.org/wiki/松本ししまる "wikilink")
   - 小枝繁 - [矢柴俊博](../Page/矢柴俊博.md "wikilink")
   - 幹みのり - 上田遥
-  - 堤計太郎 - [勝村政信](https://ja.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 堤計太郎 - [勝村政信](../Page/勝村政信.md "wikilink")
   - 謎の紳士\[8\] - [舘ひろし](../Page/舘ひろし.md "wikilink")\[9\]（特別出演）
   - 小澤幸應 - [段田安則](../Page/段田安則.md "wikilink")
-  - 山縣重臣 - [岸部一徳](https://ja.wikipedia.org/wiki/岸部一徳 "wikilink")
+  - 山縣重臣 - [岸部一徳](../Page/岸部一徳.md "wikilink")
 
 #### ゲスト
 
@@ -112,31 +112,31 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
 
   - 第2話
 
-:\* 丘野耀司 - [石橋凌](https://ja.wikipedia.org/wiki/石橋凌 "wikilink")\[10\]
+:\* 丘野耀司 - [石橋凌](../Page/石橋凌.md "wikilink")\[10\]
 
 :\* 伊賀勝代 - [財前直見](../Page/財前直見.md "wikilink")\[11\]（第3話・第8話 - 最終話）
 
-:\* 大判辰 - [野間口徹](https://ja.wikipedia.org/wiki/野間口徹 "wikilink")
+:\* 大判辰 - [野間口徹](../Page/野間口徹.md "wikilink")
 
   -
 
   - 第3話
 
-:\* 伊賀静 - [鶴見辰吾](https://ja.wikipedia.org/wiki/鶴見辰吾 "wikilink")\[12\]（最終話）
+:\* 伊賀静 - [鶴見辰吾](../Page/鶴見辰吾.md "wikilink")\[12\]（最終話）
 
-:\* 山田泰三 - [六平直政](https://ja.wikipedia.org/wiki/六平直政 "wikilink")
+:\* 山田泰三 - [六平直政](../Page/六平直政.md "wikilink")
 
 :\* 関優夫 - [越村友一](https://ja.wikipedia.org/wiki/越村友一 "wikilink")
 
 :\* 関晴美 - [鳥居みゆき](../Page/鳥居みゆき.md "wikilink")
 
-:\* 根本親文 - [山内圭哉](https://ja.wikipedia.org/wiki/山内圭哉 "wikilink")（第4話・第9話）
+:\* 根本親文 - [山内圭哉](../Page/山内圭哉.md "wikilink")（第4話・第9話）
 
 :\* 花岡仁志 - [小柳友](../Page/小柳友.md "wikilink")（第4話・第9話）
 
-:\* [桑野信義](https://ja.wikipedia.org/wiki/桑野信義 "wikilink")
+:\* [桑野信義](../Page/桑野信義.md "wikilink")
 
-:\* コメンテーター - [LiLiCo](https://ja.wikipedia.org/wiki/LiLiCo "wikilink")
+:\* コメンテーター - [LiLiCo](../Page/LiLiCo.md "wikilink")
 
 :\* コロッケ屋のおばちゃん - [じゅんこBAN\!BAN\!](https://ja.wikipedia.org/wiki/ちょーちんあんこー "wikilink")（第4話）
 
@@ -170,15 +170,15 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
 
   - 第6話
 
-:\* 土屋文也 - [デビット伊東](https://ja.wikipedia.org/wiki/デビット伊東 "wikilink")\[14\]
+:\* 土屋文也 - [デビット伊東](../Page/デビット伊東.md "wikilink")\[14\]
 
 :\* 谷浩正 - [浜野謙太](https://ja.wikipedia.org/wiki/浜野謙太 "wikilink")\[15\]
 
 :\* 音無真由美 - [黒川智花](https://ja.wikipedia.org/wiki/黒川智花 "wikilink")
 
-:\* 盛田大五郎 - [加治将樹](https://ja.wikipedia.org/wiki/加治将樹 "wikilink")
+:\* 盛田大五郎 - [加治将樹](../Page/加治将樹.md "wikilink")
 
-:\* 牛丼屋のイメージキャラクター - [天山広吉](https://ja.wikipedia.org/wiki/天山広吉 "wikilink")
+:\* 牛丼屋のイメージキャラクター - [天山広吉](../Page/天山広吉.md "wikilink")
 
 :\* レストランの客 - [ひょっこりはん](https://ja.wikipedia.org/wiki/ひょっこりはん "wikilink")
 
@@ -200,7 +200,7 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
 
   - 第8話
 
-:\* 彦坂二郎 - [平泉成](https://ja.wikipedia.org/wiki/平泉成 "wikilink")
+:\* 彦坂二郎 - [平泉成](../Page/平泉成.md "wikilink")
 
 :\* 海浦晴臣 - 岸部一徳
 
@@ -212,7 +212,7 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
 
   - 第9話
 
-:\* 中聖人 - [白井晃](https://ja.wikipedia.org/wiki/白井晃 "wikilink")
+:\* 中聖人 - [白井晃](../Page/白井晃.md "wikilink")
 
 :\* 岡村かずこ - [西尾まり](../Page/西尾まり.md "wikilink")（最終話）
 
@@ -238,7 +238,7 @@ TBSテレビの連続ドラマのスピンオフが[Paravi](https://ja.wikipedia
 
   - 原作 - [佐々木倫子](../Page/佐々木倫子.md "wikilink") 『Heaven? ご苦楽レストラン』（[小学館](../Page/小学館.md "wikilink")[ビッグスピリッツコミックス刊](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")）
   - 脚本 - [吉田恵里香](https://ja.wikipedia.org/wiki/吉田恵里香 "wikilink")
-  - 主題歌 - [あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink") 「[真夏の夜の匂いがする](https://ja.wikipedia.org/wiki/真夏の夜の匂いがする "wikilink")」（[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink") / [Warner Music Japan](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）\[18\]
+  - 主題歌 - [あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink") 「[真夏の夜の匂いがする](https://ja.wikipedia.org/wiki/真夏の夜の匂いがする "wikilink")」（[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink") / [Warner Music Japan](../Page/ワーナーミュージック・ジャパン.md "wikilink")）\[18\]
   - 音楽 - [井筒昭雄](https://ja.wikipedia.org/wiki/井筒昭雄 "wikilink")
   - 料理監修 - [服部幸應](../Page/服部幸應.md "wikilink")
   - 料理指導 - 佐藤月彦
@@ -347,7 +347,7 @@ le finale</p></td>
 <td><p>8.7%</p></td>
 </tr>
 <tr class="odd">
-<td><p>平均視聴率 8.6%（視聴率は<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>調べ、<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・世帯・リアルタイム）</p></td>
+<td><p>平均視聴率 8.6%（視聴率は<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>調べ、<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・世帯・リアルタイム）</p></td>
 <td></td>
 <td></td>
 <td></td>

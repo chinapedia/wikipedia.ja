@@ -1,19 +1,19 @@
 > この記事は[Melody.](https://ja.wikipedia.org/wiki/Melody.)から翻訳されています。
 
 
-**melody.**（メロディー、[1982年](../Page/1982年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ）は、[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")の元女性[歌手](../Page/歌手.md "wikilink")。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。2009年1月に引退時の所属事務所は[テンカラット](https://ja.wikipedia.org/wiki/テンカラット "wikilink")、レコード会社は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。夫は[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の[MIYAVI](https://ja.wikipedia.org/wiki/MIYAVI "wikilink")。妹はクリスティーン（なみんじこと並木に弟子入り）。
+**melody.**（メロディー、[1982年](../Page/1982年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ）は、[日系アメリカ人](https://ja.wikipedia.org/wiki/日系アメリカ人 "wikilink")の元女性[歌手](../Page/歌手.md "wikilink")。[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。2009年1月に引退時の所属事務所は[テンカラット](../Page/テンカラット.md "wikilink")、レコード会社は[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。夫は[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")の[MIYAVI](../Page/MIYAVI.md "wikilink")。妹はクリスティーン（なみんじこと並木に弟子入り）。
 
 ## 来歴・人物
 
 [ドラマー](../Page/ドラマー.md "wikilink")をやっていた父親\[1\]\[2\]と、[沖縄県](../Page/沖縄県.md "wikilink")出身の母親の下、4人姉妹の長女として[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")で生まれ育つ。
 
-母親が歌っている姿を見て、影響を受け、幼い頃から日本で歌手デビューすることを夢見ていた\[3\]。本名でもあるMelodyは、両親が大の[音楽](../Page/音楽.md "wikilink")好きであることから名付けられた。3人の妹のうち2人は音楽由来の名である\[4\]。一般的な名の妹クリスティーンが「なみんじこと並木」に教わりつつ[作詞](../Page/作詞.md "wikilink")や[作曲](../Page/作曲.md "wikilink")を手がけた曲も多数あり、作詞または作曲の欄に愛称の「KURIS」とクレジットされている\[5\]。音楽一家で幼い頃から妹たちとともに音楽の[エリート](https://ja.wikipedia.org/wiki/エリート "wikilink")教育を受けていた。ジャズダンス、ヴォイストレーニング、ピアノとクラシックバレエを習う\[6\]。元々両親の影響で厳格な[ベジタリアンだったため](../Page/菜食主義.md "wikilink")\[7\]、小学校の[給食](../Page/給食.md "wikilink")で出されるまで肉を食べたことがなく、家では牛乳の代わりに[豆乳](../Page/豆乳.md "wikilink")を飲んでいた。その後、ベジタリアンではなくなったが、野菜が大好物である。
+母親が歌っている姿を見て、影響を受け、幼い頃から日本で歌手デビューすることを夢見ていた\[3\]。本名でもあるMelodyは、両親が大の[音楽](../Page/音楽.md "wikilink")好きであることから名付けられた。3人の妹のうち2人は音楽由来の名である\[4\]。一般的な名の妹クリスティーンが「なみんじこと並木」に教わりつつ[作詞](../Page/作詞.md "wikilink")や[作曲](../Page/作曲.md "wikilink")を手がけた曲も多数あり、作詞または作曲の欄に愛称の「KURIS」とクレジットされている\[5\]。音楽一家で幼い頃から妹たちとともに音楽の[エリート](../Page/エリート.md "wikilink")教育を受けていた。ジャズダンス、ヴォイストレーニング、ピアノとクラシックバレエを習う\[6\]。元々両親の影響で厳格な[ベジタリアンだったため](../Page/菜食主義.md "wikilink")\[7\]、小学校の[給食](../Page/給食.md "wikilink")で出されるまで肉を食べたことがなく、家では牛乳の代わりに[豆乳](../Page/豆乳.md "wikilink")を飲んでいた。その後、ベジタリアンではなくなったが、野菜が大好物である。
 
-16歳の時にモデルを務め、19歳の時に来日。当時は、[日本語](../Page/日本語.md "wikilink")での意思疎通に苦労をしていた\[8\]\[9\]。トーク番組など[メディアに出演する際には](../Page/メディア_\(媒体\).md "wikilink")、言葉の端々に英語が散見される。ほとんどの楽曲で[作詞](../Page/作詞.md "wikilink")を担当し、歌詞が全て英語の楽曲もいくつかある。その英語力を生かして、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[英語でしゃべらナイト](https://ja.wikipedia.org/wiki/英語でしゃべらナイト "wikilink")』では、来日した海外の著名人へのインタビュアーを、日本の音楽を海外に紹介する『[J-MELO](https://ja.wikipedia.org/wiki/J-MELO "wikilink")』では[VJを務めた](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")。また、幼い頃からファッションにも強い興味を持ち、学校では[陶芸](../Page/陶芸.md "wikilink")や[ファッション](../Page/ファッション.md "wikilink")の勉強をした\[10\]\[11\]。ファッションの仕事に携わることは、歌手と並ぶ大きな夢であったと述べており\[12\]、歌手引退後にファッションデザイナーとして活動する意向を示唆している\[13\]。
+16歳の時にモデルを務め、19歳の時に来日。当時は、[日本語](../Page/日本語.md "wikilink")での意思疎通に苦労をしていた\[8\]\[9\]。トーク番組など[メディアに出演する際には](../Page/メディア_\(媒体\).md "wikilink")、言葉の端々に英語が散見される。ほとんどの楽曲で[作詞](../Page/作詞.md "wikilink")を担当し、歌詞が全て英語の楽曲もいくつかある。その英語力を生かして、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[英語でしゃべらナイト](../Page/英語でしゃべらナイト.md "wikilink")』では、来日した海外の著名人へのインタビュアーを、日本の音楽を海外に紹介する『[J-MELO](../Page/J-MELO.md "wikilink")』では[VJを務めた](../Page/ビデオジョッキー.md "wikilink")。また、幼い頃からファッションにも強い興味を持ち、学校では[陶芸](../Page/陶芸.md "wikilink")や[ファッション](../Page/ファッション.md "wikilink")の勉強をした\[10\]\[11\]。ファッションの仕事に携わることは、歌手と並ぶ大きな夢であったと述べており\[12\]、歌手引退後にファッションデザイナーとして活動する意向を示唆している\[13\]。
 
-[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")ヴォーカリストとして、m-floのライブではその楽曲とともに大トリで出演することが多かった。
+[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[フィーチャリング](../Page/フィーチャリング.md "wikilink")ヴォーカリストとして、m-floのライブではその楽曲とともに大トリで出演することが多かった。
 
-2009年3月14日、[MIYAVI](https://ja.wikipedia.org/wiki/MIYAVI "wikilink")と入籍、すでに妊娠していた\[14\]。同年7月29日に第1子（長女）を出産。2010年10月21日6時13分、第2子（次女）を出産。
+2009年3月14日、[MIYAVI](../Page/MIYAVI.md "wikilink")と入籍、すでに妊娠していた\[14\]。同年7月29日に第1子（長女）を出産。2010年10月21日6時13分、第2子（次女）を出産。
 
 2012年5月26日、m-flo TOUR 2012「SQUARE ONE」幕張メッセにてスペシャルゲスト出演。
 
@@ -23,17 +23,17 @@
     [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が主宰するRojamの「Click Audition ASIAN MIX」でフィリピンのMARIEJO、ハワイのALYSONとともに一次審査を通過。
   - 2003年
     2月19日、[シングル](../Page/シングル.md "wikilink")『**Dreamin' Away**』でデビュー。
-    春、[PARCOの](https://ja.wikipedia.org/wiki/パルコ "wikilink")2003年春キャンペーン“Miracle?”のイメージ・キャラクターを担当。
+    春、[PARCOの](../Page/パルコ.md "wikilink")2003年春キャンペーン“Miracle?”のイメージ・キャラクターを担当。
     6月18日、2ndシングル『**Simple As That／Over The Rainbow**』リリース。「Over The Rainbow」（[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミュージカル](../Page/ミュージカル.md "wikilink")『[オズの魔法使い](../Page/オズの魔法使い.md "wikilink")』の楽曲を[カバー](../Page/カバー.md "wikilink")）が「[三菱・コルト](../Page/三菱・コルト.md "wikilink")」のCMで使われたことから知名度が高まる。
-    10月22日、[山本領平と共に](../Page/Ryohei.md "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")ヴォーカリストとして参加し、m-flo loves melody. & 山本領平名義でシングル『**[miss you](../Page/Miss_you_\(m-floの曲\).md "wikilink")**』をリリース。[オリコントップ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10入りの大ヒット。これがmelody.の名をさらに広めることになる。
+    10月22日、[山本領平と共に](../Page/Ryohei.md "wikilink")[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[フィーチャリング](../Page/フィーチャリング.md "wikilink")ヴォーカリストとして参加し、m-flo loves melody. & 山本領平名義でシングル『**[miss you](../Page/Miss_you_\(m-floの曲\).md "wikilink")**』をリリース。[オリコントップ](../Page/オリコンチャート.md "wikilink")10入りの大ヒット。これがmelody.の名をさらに広めることになる。
   - 2004年
-    1月22日、1st[アルバム](../Page/アルバム.md "wikilink")『**[Sincerely](../Page/Sincerely_\(melody.のアルバム\).md "wikilink")**』リリース。[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位を記録。
+    1月22日、1st[アルバム](../Page/アルバム.md "wikilink")『**[Sincerely](../Page/Sincerely_\(melody.のアルバム\).md "wikilink")**』リリース。[オリコン初登場](../Page/オリコンチャート.md "wikilink")3位を記録。
     6月9日、4thシングル『**Believe me**』リリース。Japanese Version、English Version（期間限定生産）の2種類同時リリースが話題になる。
     8月16日、本人出演の[ハドソン](../Page/ハドソン.md "wikilink")「着信★うた♪」CMオンエア開始。このCMイメージキャラクターが選ばれた。4thシングルのカップリング曲「So into You (Japanese Version)」がCMソングに起用された。
   - 2005年
     1月12日、5thシングル『**Next To You**』リリース。同時期に本人出演の「[Alpen](../Page/アルペン_\(企業\).md "wikilink")」[CMもオンエアスタート](../Page/コマーシャルメッセージ.md "wikilink")。
     6月25日-8月6日、ライブ『BIGLOBE presents Spicy Time』を行う。
-    8月17日、6thシングル『**[realize／Take a Chance](https://ja.wikipedia.org/wiki/realize/Take_a_Chance "wikilink")**』リリース。「realize」はテレビドラマ『[ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に起用され、オリコントップ10入りのヒット。ドラマの内容（[東大合格を目指す](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")と[教師](https://ja.wikipedia.org/wiki/教師 "wikilink")の物語）と楽曲がマッチしていることから、受験生の応援ソングとしても知られるようになった。
+    8月17日、6thシングル『**[realize／Take a Chance](https://ja.wikipedia.org/wiki/realize/Take_a_Chance "wikilink")**』リリース。「realize」はテレビドラマ『[ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に起用され、オリコントップ10入りのヒット。ドラマの内容（[東大合格を目指す](https://ja.wikipedia.org/wiki/東京大学 "wikilink")[高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")と[教師](https://ja.wikipedia.org/wiki/教師 "wikilink")の物語）と楽曲がマッチしていることから、受験生の応援ソングとしても知られるようになった。
   - 2006年
     2月15日、[☆Taku Takahashiプロデュースによる](https://ja.wikipedia.org/wiki/☆Taku_Takahashi "wikilink")7thシングル『**see you...**』リリース。
     4月12日、2ndアルバム『**[Be as one](../Page/Be_as_one_\(melody.のアルバム\).md "wikilink")**』リリース。アルバムリリースは2年ぶり。前作に引き続きオリコントップ10入り。
@@ -47,14 +47,14 @@
     2月14日、9thシングル『**Finding My Road**』リリース。
     3月9日-4月3日、初のクラブツアー『**melody. CLUB TOUR'07「mel-mode Night」**』を行う。
     3月28日、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")のアルバム『[COSMICOLOR](../Page/COSMICOLOR.md "wikilink")』に収録されている「**STUCK IN YOUR LOVE**」にフィーチャリングヴォーカリストとして参加。
-    4月4日から、[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")『[J-MELO](https://ja.wikipedia.org/wiki/J-MELO "wikilink")』の[VJを務める](https://ja.wikipedia.org/wiki/ビデオジョッキー "wikilink")。
+    4月4日から、[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")『[J-MELO](../Page/J-MELO.md "wikilink")』の[VJを務める](../Page/ビデオジョッキー.md "wikilink")。
     5月30日、10thシングル『**Love Story**』をリリース。「Love Story」は[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[孤独の賭け〜愛しき人よ〜](../Page/孤独の賭け〜愛しき人よ〜.md "wikilink")』挿入歌に起用された。c/w曲「BoRn 2 luv U」はmelody. loves m-flo 名義のm-floとのコラボレーション作品で「STUCK IN YOUR LOVE」の日本語詞バージョンとなっている。
     7月4日、3rdアルバム『**[READY TO GO\!](../Page/READY_TO_GO!.md "wikilink")**』をリリース。オリコン6位を記録した。
   - 2008年
-    2月13日、11thシングル『**[遥花〜はるか〜](../Page/遥花〜はるか〜.md "wikilink")**』リリース。TBS系ドラマ『[だいすき\!\!](../Page/だいすき!!_ゆずの子育て日記.md "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に起用された。
+    2月13日、11thシングル『**[遥花〜はるか〜](../Page/遥花〜はるか〜.md "wikilink")**』リリース。TBS系ドラマ『[だいすき\!\!](../Page/だいすき!!_ゆずの子育て日記.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に起用された。
     4月9日、4thアルバム『**[Lei Aloha](../Page/Lei_Aloha.md "wikilink")**』リリース。
     4月30日、[田中ロウマ](../Page/田中ロウマ.md "wikilink")とのコラボレーション作品『**Boyfriend／Girlfriend**』リリース。
-    10月8日、自身初、5年間の活動の集大成となる[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『**[The Best of melody. 〜Timeline〜](https://ja.wikipedia.org/wiki/The_Best_of_melody._〜Timeline〜 "wikilink")**』をリリース。
+    10月8日、自身初、5年間の活動の集大成となる[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『**[The Best of melody. 〜Timeline〜](https://ja.wikipedia.org/wiki/The_Best_of_melody._〜Timeline〜 "wikilink")**』をリリース。
     10月22日、自身のブログ「melody.'s blog」にて、2009年1月をもってアーティスト活動から引退することを発表。
   - 2009年
     1月、アーティスト活動を引退。オフィシャルサイトは1月12日をもって閉鎖。
@@ -166,7 +166,7 @@
 </tr>
 <tr class="odd">
 <td><p>Believe me（English Version）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カシオ日立モバイルコミュニケーションズ" title="wikilink">カシオ日立モバイルコミュニケーションズ</a>携帯電話「<a href="https://ja.wikipedia.org/wiki/au_(携帯電話)" title="wikilink">au</a> <a href="../Page/CDMA_1X.md" title="wikilink">CDMA 1X</a> <a href="https://ja.wikipedia.org/wiki/A5406CA" title="wikilink">A5406CA</a>」CMソング</p></td>
+<td><p><a href="../Page/カシオ日立モバイルコミュニケーションズ.md" title="wikilink">カシオ日立モバイルコミュニケーションズ</a>携帯電話「<a href="https://ja.wikipedia.org/wiki/au_(携帯電話)" title="wikilink">au</a> <a href="../Page/CDMA_1X.md" title="wikilink">CDMA 1X</a> <a href="../Page/A5406CA.md" title="wikilink">A5406CA</a>」CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p>Next to You</p></td>
@@ -259,7 +259,7 @@
 </tr>
 <tr class="even">
 <td><p>プルメリア</p></td>
-<td><p><a href="../Page/とちぎテレビ.md" title="wikilink">とちぎテレビ</a>「<a href="https://ja.wikipedia.org/wiki/イブニング6_(とちぎテレビ)" title="wikilink">イブニング6</a>」3月度エンディングテーマ</p></td>
+<td><p><a href="../Page/とちぎテレビ.md" title="wikilink">とちぎテレビ</a>「<a href="../Page/イブニング6_(とちぎテレビ).md" title="wikilink">イブニング6</a>」3月度エンディングテーマ</p></td>
 </tr>
 </tbody>
 </table>
@@ -298,7 +298,7 @@ Be as one TOUR 2006
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2006.06.30　東京・[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")
+  - 2006.06.30　東京・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
   - 2006.07.16　名古屋・[ダイアモンドホール](https://ja.wikipedia.org/wiki/CLUB_DIAMOND_HALL "wikilink")
   - 2006.07.17　大阪・[BIG CAT](https://ja.wikipedia.org/wiki/BIG_CAT "wikilink")
 
@@ -318,7 +318,7 @@ Be as one TOUR 2006
 
   - 2006.10.22　岡山・[中国学園大学](../Page/中国学園大学.md "wikilink")
   - 2006.11.03　東京・[芝浦工業大学](../Page/芝浦工業大学.md "wikilink")
-  - 2006.11.05　福岡・[九州女子大学](https://ja.wikipedia.org/wiki/九州女子大学 "wikilink")
+  - 2006.11.05　福岡・[九州女子大学](../Page/九州女子大学.md "wikilink")
   - 2006.11.11　大阪・[関西大学](../Page/関西大学.md "wikilink")
 
 </div>
@@ -404,7 +404,7 @@ melody. PREMIUM ACOUSTIC LIVE
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2007.10.08　福井・[福井工業大学](https://ja.wikipedia.org/wiki/福井工業大学 "wikilink")
+  - 2007.10.08　福井・[福井工業大学](../Page/福井工業大学.md "wikilink")
   - 2007.10.13　埼玉・[防衛医科大学校](../Page/防衛医科大学校.md "wikilink")
   - 2007.10.20　東京・[聖心女子大学](https://ja.wikipedia.org/wiki/聖心女子大学 "wikilink")
   - 2007.10.27　広島・[広島国際学院大学](../Page/広島国際学院大学.md "wikilink")
@@ -445,7 +445,7 @@ melody. PREMIUM ACOUSTIC LIVE
 
   - Hawaiian Express（[旅チャンネル](../Page/旅チャンネル.md "wikilink")）妹・クリスティーンもナビゲーターをやっていた。
   - Fashion TV F\*mode ([SPACE SHOWER TV](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV "wikilink"))
-  - [J-MELO](https://ja.wikipedia.org/wiki/J-MELO "wikilink")（[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")／2007年4月4日-2008年9月24日）
+  - [J-MELO](../Page/J-MELO.md "wikilink")（[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")／2007年4月4日-2008年9月24日）
 
 ### 連載
 
@@ -458,7 +458,7 @@ melody. PREMIUM ACOUSTIC LIVE
 
 ### CM
 
-  - [PARCO](https://ja.wikipedia.org/wiki/パルコ "wikilink")「Miracle?」
+  - [PARCO](../Page/パルコ.md "wikilink")「Miracle?」
   - [ハドソン](../Page/ハドソン.md "wikilink")「着信★うた♪」
   - [Alpen](../Page/アルペン_\(企業\).md "wikilink")
   - [NEC](../Page/日本電気.md "wikilink")[インターネットプロバイダー](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")「BIGLOBEネットスパイス」

@@ -38,7 +38,7 @@
   - [山形放送](../Page/山形放送.md "wikilink")の識別信号（JOEF / JOEF-DTV）。
   - 自動車および自動車部品の名称
       - ホンダ・4代目[シビック](../Page/ホンダ・シビック.md "wikilink")/2代目[CR-Xの型式名](../Page/ホンダ・CR-X.md "wikilink")。E-EF。
-      - 4代目[ヒュンダイ・ソナタ](https://ja.wikipedia.org/wiki/ヒュンダイ・ソナタ "wikilink")の通称。韓国名“EFソナタ”。語源は“エレガント・フィーリング”。
+      - 4代目[ヒュンダイ・ソナタ](../Page/ヒュンダイ・ソナタ.md "wikilink")の通称。韓国名“EFソナタ”。語源は“エレガント・フィーリング”。
       - [スバル・EF型エンジン](https://ja.wikipedia.org/wiki/スバル・EF型エンジン "wikilink") - かつて富士重工業が製造していた直列3気筒エンジン。
       - [ダイハツ・EF型エンジン](../Page/ダイハツ・EF型エンジン.md "wikilink") - ダイハツの660cc・3気筒エンジンの型式。
 

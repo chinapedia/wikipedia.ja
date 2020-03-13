@@ -9,27 +9,27 @@
 
 ## 特徴
 
-機体形状は[レシプロ単発軍用機として一般的なものであり](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、低翼配置の[主翼](https://ja.wikipedia.org/wiki/主翼 "wikilink")と尾輪式の[降着装置](../Page/降着装置.md "wikilink")を持つ。[フラップは穴空き式であり](https://ja.wikipedia.org/wiki/高揚力装置 "wikilink")、[ダイブブレーキを兼ねるようになっていた](../Page/空力ブレーキ.md "wikilink")。[エド・ハイネマン](https://ja.wikipedia.org/wiki/エド・ハイネマン "wikilink")率いる設計チームは当初から引き込み脚を採用するなど、当時の急降下爆撃機としては画期的なスペックであった。また、SBDは良好な運動性と強力な前方機銃を活かし、状況によっては戦闘機との空戦も行った。
+機体形状は[レシプロ単発軍用機として一般的なものであり](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、低翼配置の[主翼](https://ja.wikipedia.org/wiki/主翼 "wikilink")と尾輪式の[降着装置](../Page/降着装置.md "wikilink")を持つ。[フラップは穴空き式であり](../Page/高揚力装置.md "wikilink")、[ダイブブレーキを兼ねるようになっていた](../Page/空力ブレーキ.md "wikilink")。[エド・ハイネマン](https://ja.wikipedia.org/wiki/エド・ハイネマン "wikilink")率いる設計チームは当初から引き込み脚を採用するなど、当時の急降下爆撃機としては画期的なスペックであった。また、SBDは良好な運動性と強力な前方機銃を活かし、状況によっては戦闘機との空戦も行った。
 
 新型艦上爆撃機[SB2C ヘルダイヴァーが登場したが](../Page/SB2C_\(航空機\).md "wikilink")、SB2Cは海軍側の無茶な要求によって若干安定性と操縦性に難がある機体となった。そのため、引渡し後の部隊配備は進まなかった。一方、ドーントレスは[電波航法](https://ja.wikipedia.org/wiki/電波航法 "wikilink")装置や空中[レーダー](../Page/レーダー.md "wikilink")を装備した後期型のSBD-4が780機生産されてその一部はサッチ少佐の考案した艦隊防空システムであるビッグブルーブランケット構想の下で早期警戒機として運用され、その後もSBD-5、SBD-6と改良が加えられた。
 
-母艦搭載の必要がない[海兵隊は終戦間際まで本機を運用し](../Page/アメリカ海兵隊.md "wikilink")、SBD-6のほとんどは海兵隊向けであった。その後、SB2Cの高性能化で母艦部隊は機種交換が進められ、ようやくSB2Cに道を譲り、[終戦](../Page/終戦.md "wikilink")間際に生産が始まった[AD スカイレイダー汎用攻撃機の登場でドーントレスはその姿を消す](https://ja.wikipedia.org/wiki/A-1_\(航空機\) "wikilink")。しかし、SBDは太平洋戦争中の全期間、現役状態であった。
+母艦搭載の必要がない[海兵隊は終戦間際まで本機を運用し](../Page/アメリカ海兵隊.md "wikilink")、SBD-6のほとんどは海兵隊向けであった。その後、SB2Cの高性能化で母艦部隊は機種交換が進められ、ようやくSB2Cに道を譲り、[終戦](../Page/終戦.md "wikilink")間際に生産が始まった[AD スカイレイダー汎用攻撃機の登場でドーントレスはその姿を消す](../Page/A-1_\(航空機\).md "wikilink")。しかし、SBDは太平洋戦争中の全期間、現役状態であった。
 
 ## A-24
 
-[陸軍でも](../Page/アメリカ陸軍.md "wikilink")[ドイツ空軍](https://ja.wikipedia.org/wiki/ドイツ空軍 "wikilink")の急降下爆撃機[Ju 87 シュトゥーカの活躍に衝撃を受けてSBDの空母用装備を取り外したものが](../Page/Ju_87_\(航空機\).md "wikilink")、A-24 バンシー (*Banshee*) として採用されている。総計953機のA-24が生産され、海軍でSBDが引退した後も使用され続けた。A-24は[1948年](../Page/1948年.md "wikilink")の[空軍独立時にも在籍しており](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")、それらは[攻撃機](../Page/攻撃機.md "wikilink")カテゴリ (A) の廃止と共に[戦闘機](../Page/戦闘機.md "wikilink")カテゴリ (F) に移ってF-24と改称している。
+[陸軍でも](../Page/アメリカ陸軍.md "wikilink")[ドイツ空軍](../Page/ドイツ空軍.md "wikilink")の急降下爆撃機[Ju 87 シュトゥーカの活躍に衝撃を受けてSBDの空母用装備を取り外したものが](../Page/Ju_87_\(航空機\).md "wikilink")、A-24 バンシー (*Banshee*) として採用されている。総計953機のA-24が生産され、海軍でSBDが引退した後も使用され続けた。A-24は[1948年](../Page/1948年.md "wikilink")の[空軍独立時にも在籍しており](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")、それらは[攻撃機](../Page/攻撃機.md "wikilink")カテゴリ (A) の廃止と共に[戦闘機](../Page/戦闘機.md "wikilink")カテゴリ (F) に移ってF-24と改称している。
 
 ## 歴史
 
-[thumbだが](https://ja.wikipedia.org/wiki/ファイル:SBD_lands_after_attacking_Kaga.jpg "wikilink")、[ヨークタウン (CV-5)に着艦](https://ja.wikipedia.org/wiki/ヨークタウン_\(CV-5\) "wikilink")。\]\] [thumbに参加するSBD](https://ja.wikipedia.org/wiki/ファイル:Dive_bomber_over_Truk.jpg "wikilink")\]\] 当初基本設計は[ノースロップ](../Page/ノースロップ.md "wikilink")社でXBT-2の名称で行われていたが、ダグラス社が設計を引き継ぐこととなり、XSBD-1と名称が変更された。
+[thumbだが](https://ja.wikipedia.org/wiki/ファイル:SBD_lands_after_attacking_Kaga.jpg "wikilink")、[ヨークタウン (CV-5)に着艦](../Page/ヨークタウン_\(CV-5\).md "wikilink")。\]\] [thumbに参加するSBD](https://ja.wikipedia.org/wiki/ファイル:Dive_bomber_over_Truk.jpg "wikilink")\]\] 当初基本設計は[ノースロップ](../Page/ノースロップ.md "wikilink")社でXBT-2の名称で行われていたが、ダグラス社が設計を引き継ぐこととなり、XSBD-1と名称が変更された。
 
-[1939年](../Page/1939年.md "wikilink")4月より初期型の海兵隊用SBD-1が57機、海軍用SBD-2が87機量産された。部隊配備は1940年に海兵隊から開始されている。しかし、欧州における[ドイツ空軍](https://ja.wikipedia.org/wiki/ドイツ空軍 "wikilink")の急降下爆撃機[Ju 87 スツーカに衝撃を受けた軍は性能が不十分であると判断し](../Page/Ju_87_\(航空機\).md "wikilink")、エンジン・[防弾](https://ja.wikipedia.org/wiki/防弾 "wikilink")性能・機銃攻撃力などに大幅な改良を加えた中期型のSBD-3を584機生産した。このSBD-3は同時期に使用された[九九式艦上爆撃機](https://ja.wikipedia.org/wiki/九九式艦上爆撃機 "wikilink")と比較して速度、航続距離、武装、搭載量などはるかに凌ぐ性能であった。
+[1939年](../Page/1939年.md "wikilink")4月より初期型の海兵隊用SBD-1が57機、海軍用SBD-2が87機量産された。部隊配備は1940年に海兵隊から開始されている。しかし、欧州における[ドイツ空軍](../Page/ドイツ空軍.md "wikilink")の急降下爆撃機[Ju 87 スツーカに衝撃を受けた軍は性能が不十分であると判断し](../Page/Ju_87_\(航空機\).md "wikilink")、エンジン・[防弾](https://ja.wikipedia.org/wiki/防弾 "wikilink")性能・機銃攻撃力などに大幅な改良を加えた中期型のSBD-3を584機生産した。このSBD-3は同時期に使用された[九九式艦上爆撃機](../Page/九九式艦上爆撃機.md "wikilink")と比較して速度、航続距離、武装、搭載量などはるかに凌ぐ性能であった。
 
 1941年12月に開始した太平洋戦争で、最初にSBDを使用したのは、アメリカ陸軍であった。SBDの空母用装備を取り外したA-24が[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")・[オーストラリア](../Page/オーストラリア.md "wikilink")・[ニューギニア](https://ja.wikipedia.org/wiki/ニューギニア "wikilink")の航空基地に配備され、南進する日本軍と戦闘を繰り広げた。
 
-1942年5月、[珊瑚海海戦](../Page/珊瑚海海戦.md "wikilink")でアメリカ海軍は初めてSBDを使用した。SBD-3は、共同で運用された[雷撃機](https://ja.wikipedia.org/wiki/雷撃機 "wikilink")[TBD デバステイターの性能が貧弱で](../Page/TBD_\(航空機\).md "wikilink")、日本[艦隊](../Page/艦隊.md "wikilink")に有効な打撃を与えられない中、[軽空母](../Page/軽空母.md "wikilink")[祥鳳を](../Page/祥鳳_\(空母\).md "wikilink")[撃沈](../Page/撃沈.md "wikilink")し、[空母](https://ja.wikipedia.org/wiki/空母 "wikilink")[翔鶴を中破させた](../Page/翔鶴_\(空母\).md "wikilink")。
+1942年5月、[珊瑚海海戦](../Page/珊瑚海海戦.md "wikilink")でアメリカ海軍は初めてSBDを使用した。SBD-3は、共同で運用された[雷撃機](../Page/雷撃機.md "wikilink")[TBD デバステイターの性能が貧弱で](../Page/TBD_\(航空機\).md "wikilink")、日本[艦隊](../Page/艦隊.md "wikilink")に有効な打撃を与えられない中、[軽空母](../Page/軽空母.md "wikilink")[祥鳳を](../Page/祥鳳_\(空母\).md "wikilink")[撃沈](../Page/撃沈.md "wikilink")し、[空母](https://ja.wikipedia.org/wiki/空母 "wikilink")[翔鶴を中破させた](../Page/翔鶴_\(空母\).md "wikilink")。
 
-1942年6月、[ミッドウェー海戦](https://ja.wikipedia.org/wiki/ミッドウェー海戦 "wikilink")においては、[TBD](../Page/TBD_\(航空機\).md "wikilink")、およびこれが初陣となる新型雷撃機[TBF アベンジャーが戦果を挙げられずに日本](../Page/TBF_\(航空機\).md "wikilink")[機動部隊](https://ja.wikipedia.org/wiki/機動部隊 "wikilink")の[直掩](https://ja.wikipedia.org/wiki/直掩機 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")に低空で撃墜され、全滅に近い損害を受ける中、[クラレンス・マクラスキー](../Page/クラレンス・マクラスキー.md "wikilink")およびマックス・レズリーの率いる本機で構成された部隊が、高空から防空の隙を突いて同海戦に参加した日本機動部隊の4空母のうち[赤城](../Page/赤城_\(空母\).md "wikilink")、[加賀](../Page/加賀_\(空母\).md "wikilink")、[蒼龍を同時に攻撃して撃沈し](../Page/蒼龍_\(空母\).md "wikilink")、残った[飛龍も別に出撃した本機の部隊が撃沈して日本機動部隊主力の撃滅に貢献した](../Page/飛龍_\(空母\).md "wikilink")。
+1942年6月、[ミッドウェー海戦](https://ja.wikipedia.org/wiki/ミッドウェー海戦 "wikilink")においては、[TBD](../Page/TBD_\(航空機\).md "wikilink")、およびこれが初陣となる新型雷撃機[TBF アベンジャーが戦果を挙げられずに日本](../Page/TBF_\(航空機\).md "wikilink")[機動部隊](../Page/機動部隊.md "wikilink")の[直掩](https://ja.wikipedia.org/wiki/直掩機 "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")に低空で撃墜され、全滅に近い損害を受ける中、[クラレンス・マクラスキー](../Page/クラレンス・マクラスキー.md "wikilink")およびマックス・レズリーの率いる本機で構成された部隊が、高空から防空の隙を突いて同海戦に参加した日本機動部隊の4空母のうち[赤城](../Page/赤城_\(空母\).md "wikilink")、[加賀](../Page/加賀_\(空母\).md "wikilink")、[蒼龍を同時に攻撃して撃沈し](../Page/蒼龍_\(空母\).md "wikilink")、残った[飛龍も別に出撃した本機の部隊が撃沈して日本機動部隊主力の撃滅に貢献した](../Page/飛龍_\(空母\).md "wikilink")。
 
 8月7日、ガダルカナル島のアメリカ軍上陸部隊への攻撃に向かった[台南海軍航空隊](../Page/台南海軍航空隊.md "wikilink")の零戦と[第四航空隊](https://ja.wikipedia.org/wiki/第四航空隊 "wikilink")の一式陸攻をアメリカ海軍の艦載機が迎撃した。SBDもこの戦闘に参加しており、後方旋回機銃で、SBDをF4Fと誤認して後方に回った[坂井三郎](../Page/坂井三郎.md "wikilink")の零戦を撃破している。
 
@@ -77,7 +77,7 @@
 </tr>
 <tr class="even">
 <td><p>武装</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブローニングM2重機関銃" title="wikilink">AN/M2 12.7mm機関銃</a> ×2 (弾数計360発) + <a href="../Page/ブローニングM1919重機関銃.md" title="wikilink">AN/M2 7.62mm機関銃</a>×2 (弾数計2,000発)</p></td>
+<td><p><a href="../Page/ブローニングM2重機関銃.md" title="wikilink">AN/M2 12.7mm機関銃</a> ×2 (弾数計360発) + <a href="../Page/ブローニングM1919重機関銃.md" title="wikilink">AN/M2 7.62mm機関銃</a>×2 (弾数計2,000発)</p></td>
 </tr>
 <tr class="odd">
 <td><p>外部兵装</p></td>
@@ -210,7 +210,7 @@
 
   - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")
   - [ニュージーランド](../Page/ニュージーランド.md "wikilink") - [空軍が](../Page/ニュージーランド軍.md "wikilink")3形式68機
-  - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink") - [自由フランス空軍と](https://ja.wikipedia.org/wiki/自由フランス軍 "wikilink")[フランス海軍](https://ja.wikipedia.org/wiki/フランス海軍 "wikilink")が少数機
+  - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink") - [自由フランス空軍と](https://ja.wikipedia.org/wiki/自由フランス軍 "wikilink")[フランス海軍](../Page/フランス海軍.md "wikilink")が少数機
   - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink") - 海軍が1形式9機
   - [メキシコ](../Page/メキシコ.md "wikilink") - [メキシコ空軍が](https://ja.wikipedia.org/wiki/メキシコ軍 "wikilink")1形式を少数機使用した。この内、メキシコ空軍は[1959年](../Page/1959年.md "wikilink")まで本機を使用し、最後の本機使用国となった。
 
@@ -247,7 +247,7 @@
 <td><p>02106<br />
 632</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:1940_Douglas_SBD-3_Dauntless_BuNo_2106_C-N_632_(National_Naval_Aviation_Museum)_(8832706694).jpg" title="fig:1940_Douglas_SBD-3_Dauntless_BuNo_2106_C-N_632_(National_Naval_Aviation_Museum)_(8832706694).jpg">1940_Douglas_SBD-3_Dauntless_BuNo_2106_C-N_632_(National_Naval_Aviation_Museum)_(8832706694).jpg</a></p></td>
-<td><p>アメリカ合衆国<a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="https://ja.wikipedia.org/wiki/ペンサコーラ_(フロリダ州)" title="wikilink">ペンサコーラ</a></p></td>
+<td><p>アメリカ合衆国<a href="https://ja.wikipedia.org/wiki/フロリダ州" title="wikilink">フロリダ州</a><a href="../Page/ペンサコーラ_(フロリダ州).md" title="wikilink">ペンサコーラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/国立海軍航空博物館" title="wikilink">国立海軍航空博物館</a><a href="http://www.navalaviationmuseum.org/">2</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -297,8 +297,8 @@
 <td><p>SBD-3</p></td>
 <td><p>06694</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Douglas_SBD-3_Dauntless_-06694-_‘S-8’_(39272657800).jpg" title="fig:Douglas_SBD-3_Dauntless_-06694-_‘S-8’_(39272657800).jpg">Douglas_SBD-3_Dauntless_-06694-_‘S-8’_(39272657800).jpg</a></p></td>
-<td><p>アメリカ合衆国<a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="https://ja.wikipedia.org/wiki/コーパスクリスティ_(テキサス州)" title="wikilink">コーパスクリスティ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レキシントン_(CV-16)" title="wikilink">USSレキシントン(CV-16)博物館</a></p></td>
+<td><p>アメリカ合衆国<a href="../Page/テキサス州.md" title="wikilink">テキサス州</a><a href="../Page/コーパスクリスティ_(テキサス州).md" title="wikilink">コーパスクリスティ</a></p></td>
+<td><p><a href="../Page/レキシントン_(CV-16).md" title="wikilink">USSレキシントン(CV-16)博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>SBD-2 02106号機が保存されている、海軍航空博物館からの貸出品。<a href="http://usslexington.com/aircraft/sbd-3-dauntless/">8</a></p></td>
@@ -318,7 +318,7 @@
 <td><p>NZ5037<br />
 06853</p></td>
 <td><p><a href="http://s104.photobucket.com/user/flyernzl/media/aircraft/NZ5037a.jpg.html">写真</a></p></td>
-<td><p><a href="../Page/ニュージーランド.md" title="wikilink">ニュージーランド</a><a href="https://ja.wikipedia.org/wiki/南島_(ニュージーランド)" title="wikilink">南島</a><a href="https://ja.wikipedia.org/wiki/クライストチャーチ" title="wikilink">クライストチャーチ</a></p></td>
+<td><p><a href="../Page/ニュージーランド.md" title="wikilink">ニュージーランド</a><a href="../Page/南島_(ニュージーランド).md" title="wikilink">南島</a><a href="../Page/クライストチャーチ.md" title="wikilink">クライストチャーチ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Air_Force_Museum_of_New_Zealand" title="wikilink">ニュージーランド空軍博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -396,7 +396,7 @@ N670AM</p></td>
 <td><p><a href="https://s3.eu-west-2.amazonaws.com/abpic-media-eu-production/pictures/full_size_091/1137402-large.jpg">写真</a></p></td>
 <td><p>アメリカ合衆国<a href="../Page/サウスカロライナ州.md" title="wikilink">サウスカロライナ州</a><a href="https://ja.wikipedia.org/wiki/マウントプレザント_(サウスカロライナ州)" title="wikilink">マウントプレザント</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Patriots_Point" title="wikilink">ペイトリオッツ・ポイント海軍海事博物館</a><br />
-(<a href="https://ja.wikipedia.org/wiki/ヨークタウン_(CV-10)" title="wikilink">空母ヨークタウン (CV-10)</a>)</p></td>
+(<a href="../Page/ヨークタウン_(CV-10).md" title="wikilink">空母ヨークタウン (CV-10)</a>)</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p><a href="https://www.patriotspoint.org/news-and-events/scout-bomber-douglas-sbd-aka-douglas-dauntless/">23</a><a href="https://www.patriotspoint.org/assets/uploads/images/explore/aircraft/factsheets/sbd_dauntless.pdf">24</a></p></td>
@@ -501,7 +501,7 @@ N5254L</p></td>
 <td><p>A-24B</p></td>
 <td><p>42-54654</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:DOUGLAS_A-24B_527.jpg" title="fig:DOUGLAS_A-24B_527.jpg">DOUGLAS_A-24B_527.jpg</a></p></td>
-<td><p>アメリカ合衆国<a href="https://ja.wikipedia.org/wiki/アリゾナ州" title="wikilink">アリゾナ州</a><a href="https://ja.wikipedia.org/wiki/ツーソン" title="wikilink">ツーソン</a></p></td>
+<td><p>アメリカ合衆国<a href="https://ja.wikipedia.org/wiki/アリゾナ州" title="wikilink">アリゾナ州</a><a href="../Page/ツーソン.md" title="wikilink">ツーソン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Pima_Air_&amp;_Space_Museum" title="wikilink">ピマ航空宇宙博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -513,7 +513,7 @@ N5254L</p></td>
 <td><p>42-54682<br />
 N93RW</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Douglas_A-24B_Dauntless_‘54682_-_82_-_S-9’_(N93RW)_(40368765631).jpg" title="fig:Douglas_A-24B_Dauntless_‘54682_-_82_-_S-9’_(N93RW)_(40368765631).jpg">Douglas_A-24B_Dauntless_‘54682_-_82_-_S-9’_(N93RW)_(40368765631).jpg</a></p></td>
-<td><p>アメリカ合衆国テキサス州<a href="https://ja.wikipedia.org/wiki/ガルベストン_(テキサス州)" title="wikilink">ガルベストン</a></p></td>
+<td><p>アメリカ合衆国テキサス州<a href="../Page/ガルベストン_(テキサス州).md" title="wikilink">ガルベストン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Lone_Star_Flight_Museum" title="wikilink">ローンスター飛行博物館</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
@@ -529,8 +529,8 @@ N93RW</p></td>
 ## 関連項目
 
   - [SB2C ヘルダイヴァー](../Page/SB2C_\(航空機\).md "wikilink") - SBDと同時期に活躍した艦上爆撃機。
-  - [九九式艦上爆撃機](https://ja.wikipedia.org/wiki/九九式艦上爆撃機 "wikilink") - 相対した日本の艦上爆撃機。
-  - [爆撃機一覧](https://ja.wikipedia.org/wiki/爆撃機一覧 "wikilink") - [アメリカ軍機の一覧](../Page/アメリカ軍機の一覧.md "wikilink")
+  - [九九式艦上爆撃機](../Page/九九式艦上爆撃機.md "wikilink") - 相対した日本の艦上爆撃機。
+  - [爆撃機一覧](../Page/爆撃機一覧.md "wikilink") - [アメリカ軍機の一覧](../Page/アメリカ軍機の一覧.md "wikilink")
   - [艦上爆撃機](../Page/艦上爆撃機.md "wikilink")
 
 [Category:アメリカ合衆国の爆撃機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の爆撃機 "wikilink") [Category:艦載機](https://ja.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:ダグラスの航空機](https://ja.wikipedia.org/wiki/Category:ダグラスの航空機 "wikilink") [Category:アメリカ合衆国海兵隊の装備](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国海兵隊の装備 "wikilink")

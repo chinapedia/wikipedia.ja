@@ -3,11 +3,11 @@
 
 **特別任務連**（特殊任務中隊，**S**pecial **D**uties **U**nit，**SDU**）は[香港警務処](https://ja.wikipedia.org/wiki/香港警務処 "wikilink")[警察機動部隊](https://ja.wikipedia.org/wiki/警察機動部隊 "wikilink")に属する[特殊部隊](../Page/特殊部隊.md "wikilink")である。別名は「**飛虎隊**」（フェイフードイ、英名Flying Tigers）。
 
-[日本の警察](../Page/日本の警察.md "wikilink")の[特殊急襲部隊](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")(SAT)に近い。
+[日本の警察](../Page/日本の警察.md "wikilink")の[特殊急襲部隊](../Page/特殊急襲部隊.md "wikilink")(SAT)に近い。
 
 ## 設立の経緯
 
-[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")統治下時代に観光貿易都市として発展した[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")は[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")のなかでも観光・貿易の中心地だったため、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")の標的対象になりやすかった（実際に、1971年に[フィリピン航空](../Page/フィリピン航空.md "wikilink")の旅客機が[ハイジャック](../Page/ハイジャック.md "wikilink")され、[啓徳空港](https://ja.wikipedia.org/wiki/啓徳空港 "wikilink")で着陸）。そこで、香港政府はテロ対策能力を向上させるために、1973年に創設された「射手分隊」を統合し、[1974年](../Page/1974年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にSDUを創設した。
+[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")統治下時代に観光貿易都市として発展した[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")は[アジア](../Page/アジア.md "wikilink")のなかでも観光・貿易の中心地だったため、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")の標的対象になりやすかった（実際に、1971年に[フィリピン航空](../Page/フィリピン航空.md "wikilink")の旅客機が[ハイジャック](../Page/ハイジャック.md "wikilink")され、[啓徳空港](../Page/啓徳空港.md "wikilink")で着陸）。そこで、香港政府はテロ対策能力を向上させるために、1973年に創設された「射手分隊」を統合し、[1974年](../Page/1974年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")にSDUを創設した。
 
 ## 任務
 
@@ -19,7 +19,7 @@
 
 ## 装備
 
-  - [グロック17](https://ja.wikipedia.org/wiki/グロック17 "wikilink")/19
+  - [グロック17](../Page/グロック17.md "wikilink")/19
   - [H\&K](../Page/ヘッケラー&コッホ.md "wikilink") [MP5](https://ja.wikipedia.org/wiki/MP5 "wikilink")A3/A4/A5
   - SIG Sauer SG556
   - SIG SG516
@@ -35,7 +35,7 @@
   - 1992年、荃湾にて[AK-47](../Page/AK-47.md "wikilink")などで武装した強盗団6人と交戦。この銃撃戦で3人のSDU隊員(そのうち1人は手榴弾の爆発で失明するという重傷)およびその他4人の警官が負傷したが犯人たちを全員逮捕し、この功績により参加した隊員ら全員が警務処処長より感謝状が授与され、3人の隊員がエリザベス女王より英勇金葉奨を贈られた。
   - 2002年9月、[銅鑼湾](../Page/銅鑼湾.md "wikilink")にあるホテル「南洋酒店」にて、80年代から銃撃戦を繰り広げて「省港旗兵」と呼ばれた元[人民解放軍軍人の](../Page/中国人民解放軍.md "wikilink")[犯罪組織](https://ja.wikipedia.org/wiki/犯罪組織 "wikilink")を統率して武装強盗を行い、長年逃亡していた潘鑾彬らを逮捕する。
   - 2003年、同じく「省港旗兵」を統率してと並ぶ「賊王」と呼ばれたを逮捕する。
-  - 2014年、[九龍城区](https://ja.wikipedia.org/wiki/九龍城区 "wikilink")の啓晴邨にて中国製の[黒星拳銃を持った男が住民を人質に立てこもり事件を起こしたため出動](https://ja.wikipedia.org/wiki/トカレフTT-33 "wikilink")。この事件は、犯人である男が拳銃自殺したことにより収束した。
+  - 2014年、[九龍城区](https://ja.wikipedia.org/wiki/九龍城区 "wikilink")の啓晴邨にて中国製の[黒星拳銃を持った男が住民を人質に立てこもり事件を起こしたため出動](../Page/トカレフTT-33.md "wikilink")。この事件は、犯人である男が拳銃自殺したことにより収束した。
 
 ## 登場作品
 

@@ -5,11 +5,11 @@
 
 ## 概要
 
-[1920年代](../Page/1920年代.md "wikilink")に1機のみが[試作された](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")[戦闘飛行艇で](../Page/水上戦闘機.md "wikilink")、倉庫に保管されていた機体をポルコが購入したもの。
+[1920年代](../Page/1920年代.md "wikilink")に1機のみが[試作された](../Page/プロトタイプ.md "wikilink")[戦闘飛行艇で](../Page/水上戦闘機.md "wikilink")、倉庫に保管されていた機体をポルコが購入したもの。
 
-艇体を兼ねる胴体の上にごく短い支柱によってパラソル翼配置に主翼を置き、その上にまた支柱によって[水冷エンジン](../Page/水冷エンジン.md "wikilink")を搭載する。主翼は浅い後退角を持った[単葉で](../Page/単葉機.md "wikilink")、上反角・下反角はない。胴体・主翼とも[木](https://ja.wikipedia.org/wiki/木 "wikilink")製[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")構造である。[プロペラ](https://ja.wikipedia.org/wiki/プロペラ "wikilink")は[牽引式配置の](../Page/牽引式_\(航空機\).md "wikilink")2枚ブレード。[武装](../Page/武装.md "wikilink")は[7.92mm シュパンダウ機関銃を機首に](../Page/MG08重機関銃.md "wikilink")2門装備しているが、劇中で2人目の座席を作る際に[機関銃](../Page/機関銃.md "wikilink")を1丁降ろしている。また、マンガ版・映画版ともに[撃墜](../Page/撃墜.md "wikilink")前後で姿が少し変わるが、双方においてその形状は各々異なるため、あわせて4タイプの微妙な差異をもつバリエーションが存在する。
+艇体を兼ねる胴体の上にごく短い支柱によってパラソル翼配置に主翼を置き、その上にまた支柱によって[水冷エンジン](../Page/水冷エンジン.md "wikilink")を搭載する。主翼は浅い後退角を持った[単葉で](../Page/単葉機.md "wikilink")、上反角・下反角はない。胴体・主翼とも[木](https://ja.wikipedia.org/wiki/木 "wikilink")製[モノコック](../Page/モノコック.md "wikilink")構造である。[プロペラ](../Page/プロペラ.md "wikilink")は[牽引式配置の](../Page/牽引式_\(航空機\).md "wikilink")2枚ブレード。[武装](../Page/武装.md "wikilink")は[7.92mm シュパンダウ機関銃を機首に](../Page/MG08重機関銃.md "wikilink")2門装備しているが、劇中で2人目の座席を作る際に[機関銃](../Page/機関銃.md "wikilink")を1丁降ろしている。また、マンガ版・映画版ともに[撃墜](../Page/撃墜.md "wikilink")前後で姿が少し変わるが、双方においてその形状は各々異なるため、あわせて4タイプの微妙な差異をもつバリエーションが存在する。
 
-[エンジン](../Page/エンジン.md "wikilink")はマンガ版では・アッソ水冷[V型12気筒](https://ja.wikipedia.org/wiki/V型12気筒 "wikilink")（改造前）、[ロールス・ロイス ケストレル](https://ja.wikipedia.org/wiki/ロールス・ロイス_ケストレル "wikilink")（改装後）を搭載。映画版では改装時に「フォルゴーレ」という架空のエンジンに換装されている。
+[エンジン](../Page/エンジン.md "wikilink")はマンガ版では・アッソ水冷[V型12気筒](../Page/V型12気筒.md "wikilink")（改造前）、[ロールス・ロイス ケストレル](https://ja.wikipedia.org/wiki/ロールス・ロイス_ケストレル "wikilink")（改装後）を搭載。映画版では改装時に「フォルゴーレ」という架空のエンジンに換装されている。
 
 この機体は[宮崎駿](../Page/宮崎駿.md "wikilink")が小学生の時に見た[飛行艇](../Page/飛行艇.md "wikilink")の写真がモデルになったもので、その飛行艇は[マッキ M.33とされている](../Page/マッキ_M.33.md "wikilink")\[1\]。
 
@@ -26,7 +26,7 @@
   - 乗員：1名
   - 出力：改装前 600馬力/改装後（マンガ版）700馬力/改装後（映画版）720馬力
   - 最高速度：330km/h（改装後）
-  - 構造：[木](https://ja.wikipedia.org/wiki/木 "wikilink")製[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")
+  - 構造：[木](https://ja.wikipedia.org/wiki/木 "wikilink")製[モノコック](../Page/モノコック.md "wikilink")
   - 武装：[7.92mm シュパンダウ機関銃](../Page/MG08重機関銃.md "wikilink")×2（改装後×1）
 
 \[3\]

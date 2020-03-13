@@ -28,7 +28,7 @@ NTTグループの大手[広告代理店](../Page/広告代理店.md "wikilink")
   - LIXIL出版 - [LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")グループ
   - [スターツ出版](../Page/スターツ出版.md "wikilink") - スターツグループ
   - [ウェッジ](https://ja.wikipedia.org/wiki/ウェッジ_\(出版社\) "wikilink") - [JR東海グループ](https://ja.wikipedia.org/wiki/東海旅客鉄道#関連会社 "wikilink")
-  - [阪急コミュニケーションズ](https://ja.wikipedia.org/wiki/阪急コミュニケーションズ "wikilink")
+  - [阪急コミュニケーションズ](../Page/阪急コミュニケーションズ.md "wikilink")
   - [オレンジページ](../Page/オレンジページ.md "wikilink") - [JR東日本グループ](../Page/東日本旅客鉄道.md "wikilink")
 
 ## 外部リンク

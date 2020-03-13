@@ -48,7 +48,7 @@
   - OBS[大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")　月曜19:00～19:10
   - MRT[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")　月曜19:30～19:40
   - MBC[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")　月曜19:00～19:10
-  - RBC[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")　月曜18:30～18:40
+  - RBC[琉球放送](../Page/琉球放送.md "wikilink")　月曜18:30～18:40
 
 ## JRN系列とJOMOとの関係
 
@@ -68,11 +68,11 @@
   - 1980年 共石イブニングコント
   - 1981年 イブニングコント
   - 1982年 [共石イブニングライブラリー 〜ライバル達の物語〜](https://ja.wikipedia.org/wiki/共石イブニングライブラリー_〜ライバル達の物語〜 "wikilink")
-  - 1983年 [名取裕子](https://ja.wikipedia.org/wiki/名取裕子 "wikilink") ふりむいて あ・な・た
+  - 1983年 [名取裕子](../Page/名取裕子.md "wikilink") ふりむいて あ・な・た
   - 1984年 [星野知子](../Page/星野知子.md "wikilink")・素顔のままで
   - 1985年 星野知子 素顔のままでPARTII
   - 1986年 [沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")の気分はシェイプアップ
-  - 1987年 [秋野暢子](https://ja.wikipedia.org/wiki/秋野暢子 "wikilink")の全日本なんでもカウントダウン
+  - 1987年 [秋野暢子](../Page/秋野暢子.md "wikilink")の全日本なんでもカウントダウン
   - 1988年 [松下賢次](../Page/松下賢次.md "wikilink")のハロー！スポーツ
   - 1989年 共石ハロー！ベースボール
   - 1990年・1991年 [衣笠祥雄](../Page/衣笠祥雄.md "wikilink")のほっとひといき

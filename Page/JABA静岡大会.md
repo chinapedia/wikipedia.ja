@@ -68,7 +68,7 @@
 </tr>
 <tr class="odd">
 <td><p>1959年（第7回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/NTT東日本硬式野球部" title="wikilink">電電東京</a></strong></p></td>
+<td><p><strong><a href="../Page/NTT東日本硬式野球部.md" title="wikilink">電電東京</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -103,7 +103,7 @@
 </tr>
 <tr class="even">
 <td><p>1964年（第12回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/日本通運硬式野球部" title="wikilink">日本通運</a></strong></p></td>
+<td><p><strong><a href="../Page/日本通運硬式野球部.md" title="wikilink">日本通運</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -159,14 +159,14 @@
 </tr>
 <tr class="even">
 <td><p>1972年（第20回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/日立製作所硬式野球部" title="wikilink">日立製作所</a></strong></p></td>
+<td><p><strong><a href="../Page/日立製作所硬式野球部.md" title="wikilink">日立製作所</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1973年（第21回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">日本楽器</a></strong></p></td>
+<td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">日本楽器</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -222,7 +222,7 @@
 </tr>
 <tr class="odd">
 <td><p>1981年（第29回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SUBARU硬式野球部" title="wikilink">富士重工業</a></strong></p></td>
+<td><p><strong><a href="../Page/SUBARU硬式野球部.md" title="wikilink">富士重工業</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -264,7 +264,7 @@
 </tr>
 <tr class="odd">
 <td><p>1987年（第35回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/NTT東日本硬式野球部" title="wikilink">NTT東京</a></strong></p></td>
+<td><p><strong><a href="../Page/NTT東日本硬式野球部.md" title="wikilink">NTT東京</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -299,14 +299,14 @@
 </tr>
 <tr class="even">
 <td><p>1992年（第40回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三菱重工神戸・高砂硬式野球部" title="wikilink">三菱重工神戸</a></strong></p></td>
+<td><p><strong><a href="../Page/三菱重工神戸・高砂硬式野球部.md" title="wikilink">三菱重工神戸</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1993年（第41回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">ヤマハ</a></strong></p></td>
+<td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -341,7 +341,7 @@
 </tr>
 <tr class="even">
 <td><p>1998年（第46回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR九州硬式野球部" title="wikilink">JR九州</a></strong></p></td>
+<td><p><strong><a href="../Page/JR九州硬式野球部.md" title="wikilink">JR九州</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -390,9 +390,9 @@
 </tr>
 <tr class="odd">
 <td><p>2005年（第53回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三菱重工名古屋硬式野球部" title="wikilink">三菱重工名古屋</a></strong></p></td>
+<td><p><strong><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱重工名古屋</a></strong></p></td>
 <td><p><strong>4</strong>-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/一光硬式野球部" title="wikilink">一光</a></p></td>
+<td><p><a href="../Page/一光硬式野球部.md" title="wikilink">一光</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -418,16 +418,16 @@
 </tr>
 <tr class="odd">
 <td><p>2009年（第57回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR東日本硬式野球部" title="wikilink">JR東日本</a></strong></p></td>
+<td><p><strong><a href="../Page/JR東日本硬式野球部.md" title="wikilink">JR東日本</a></strong></p></td>
 <td><p><strong>6</strong>-5</p></td>
 <td><p>Honda</p></td>
 <td><p>延長13回</p></td>
 </tr>
 <tr class="even">
 <td><p>2010年（<a href="https://ja.wikipedia.org/wiki/第37回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第58回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/セガサミー硬式野球部" title="wikilink">セガサミー</a></strong></p></td>
+<td><p><strong><a href="../Page/セガサミー硬式野球部.md" title="wikilink">セガサミー</a></strong></p></td>
 <td><p><strong>3</strong>-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱自動車岡崎硬式野球部" title="wikilink">三菱自動車岡崎</a></p></td>
+<td><p><a href="../Page/三菱自動車岡崎硬式野球部.md" title="wikilink">三菱自動車岡崎</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -446,16 +446,16 @@
 </tr>
 <tr class="odd">
 <td><p>2013年（<a href="https://ja.wikipedia.org/wiki/第39回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第60回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR東海硬式野球部" title="wikilink">JR東海</a></strong></p></td>
+<td><p><strong><a href="../Page/JR東海硬式野球部.md" title="wikilink">JR東海</a></strong></p></td>
 <td><p><strong>3</strong>-2</p></td>
 <td><p>富士重工業</p></td>
 <td><p>延長11回</p></td>
 </tr>
 <tr class="even">
 <td><p>2014年（<a href="https://ja.wikipedia.org/wiki/第40回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第61回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/鷺宮製作所硬式野球部" title="wikilink">鷺宮製作所</a></strong></p></td>
+<td><p><strong><a href="../Page/鷺宮製作所硬式野球部.md" title="wikilink">鷺宮製作所</a></strong></p></td>
 <td><p><strong>7</strong>-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱重工長崎硬式野球部" title="wikilink">三菱重工長崎</a></p></td>
+<td><p><a href="../Page/三菱重工長崎硬式野球部.md" title="wikilink">三菱重工長崎</a></p></td>
 <td><p>7回コールド</p></td>
 </tr>
 <tr class="odd">
@@ -467,14 +467,14 @@
 </tr>
 <tr class="even">
 <td><p>2016年（<a href="https://ja.wikipedia.org/wiki/第42回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第63回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東邦ガス硬式野球部" title="wikilink">東邦ガス</a></strong></p></td>
+<td><p><strong><a href="../Page/東邦ガス硬式野球部.md" title="wikilink">東邦ガス</a></strong></p></td>
 <td><p><strong>2</strong>-0</p></td>
 <td><p>三菱自動車岡崎</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年（<a href="https://ja.wikipedia.org/wiki/第43回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第64回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東京ガス硬式野球部" title="wikilink">東京ガス</a></strong></p></td>
+<td><p><strong><a href="../Page/東京ガス硬式野球部.md" title="wikilink">東京ガス</a></strong></p></td>
 <td><p><strong>6</strong>-4</p></td>
 <td><p>ヤマハ</p></td>
 <td></td>

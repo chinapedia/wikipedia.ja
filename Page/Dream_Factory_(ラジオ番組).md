@@ -1,7 +1,7 @@
 > この記事は[Dream Factory \(\)](https://ja.wikipedia.org/wiki/Dream_Factory_\(\))から翻訳されています。
 
 
-**Dream Factory**（ドリーム・ファクトリー）は、[1989年](../Page/1989年.md "wikilink")4月 - [2004年](../Page/2004年.md "wikilink")9月まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")）である。かつて7局ネットで放送されていた。
+**Dream Factory**（ドリーム・ファクトリー）は、[1989年](../Page/1989年.md "wikilink")4月 - [2004年](../Page/2004年.md "wikilink")9月まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[音楽番組](../Page/音楽番組.md "wikilink")）である。かつて7局ネットで放送されていた。
 
 ## 概要
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - [松井菜桜子](https://ja.wikipedia.org/wiki/松井菜桜子 "wikilink")（月曜、 - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月）
+  - [松井菜桜子](../Page/松井菜桜子.md "wikilink")（月曜、 - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月）
   - リトルバッハ（火曜、 - 1997年9月）
   - KINUYO（火曜、 - 1997年3月）
   - SEIROCK（木曜、 - 1997年3月）
@@ -93,7 +93,7 @@
 <!-- end list -->
 
   - [ラグーナ](https://ja.wikipedia.org/wiki/ラグーナ "wikilink")（火曜）
-  - [加藤真由](https://ja.wikipedia.org/wiki/加藤真由 "wikilink")（火曜）
+  - [加藤真由](../Page/加藤真由.md "wikilink")（火曜）
   - [山蔭大雄](https://ja.wikipedia.org/wiki/山蔭ヒーロ "wikilink")（金曜）
 
 <!-- end list -->

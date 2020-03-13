@@ -22,7 +22,7 @@
 
 ## 歴代出演者 （元気満タン秋田だwin時代からも含む）
 
-[高橋美樹](../Page/高橋美樹.md "wikilink")、[遠藤里沙](../Page/遠藤里沙.md "wikilink")、[松浦大悟](../Page/松浦大悟.md "wikilink")、[上野泰夫](../Page/上野泰夫.md "wikilink")、[松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink")、[小林美紀](../Page/小林美紀.md "wikilink")、[鍋倉美保](https://ja.wikipedia.org/wiki/鍋倉美保 "wikilink")、[宇奈月満](../Page/宇奈月満.md "wikilink")（リポーター）、[物袋綾子](https://ja.wikipedia.org/wiki/物袋綾子 "wikilink")（リポーター）
+[高橋美樹](../Page/高橋美樹.md "wikilink")、[遠藤里沙](../Page/遠藤里沙.md "wikilink")、[松浦大悟](../Page/松浦大悟.md "wikilink")、[上野泰夫](../Page/上野泰夫.md "wikilink")、[松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink")、[小林美紀](../Page/小林美紀.md "wikilink")、[鍋倉美保](https://ja.wikipedia.org/wiki/鍋倉美保 "wikilink")、[宇奈月満](../Page/宇奈月満.md "wikilink")（リポーター）、[物袋綾子](../Page/物袋綾子.md "wikilink")（リポーター）
 
 ## コーナー
 

@@ -1,7 +1,7 @@
 > この記事は[TOKAI](https://ja.wikipedia.org/wiki/TOKAI)から翻訳されています。
 
 
-**TOKAI**（トーカイ）は、[LPガス事業を行う](../Page/液化石油ガス.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")である。登記上の[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")は**株式会社ザ・トーカイ**。
+**TOKAI**（トーカイ）は、[LPガス事業を行う](../Page/液化石油ガス.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")である。登記上の[商号](../Page/商号.md "wikilink")は**株式会社ザ・トーカイ**。
 
 ガス事業のほか、住宅[建築](../Page/建築.md "wikilink")事業、[保険](../Page/保険.md "wikilink")事業、[ウォーターサーバー](https://ja.wikipedia.org/wiki/ウォーターサーバー "wikilink")事業、リフォーム事業も行っている。
 

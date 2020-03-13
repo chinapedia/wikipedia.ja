@@ -25,7 +25,7 @@
 
   - [明治神宮野球場](../Page/明治神宮野球場.md "wikilink")
   - [横浜スタジアム](../Page/横浜スタジアム.md "wikilink")
-  - [大田スタジアム](https://ja.wikipedia.org/wiki/大田スタジアム "wikilink")
+  - [大田スタジアム](../Page/大田スタジアム.md "wikilink")
 
 この他、[2013年](../Page/2013年.md "wikilink")には[さいたま市岩槻川通公園野球場](../Page/さいたま市岩槻川通公園野球場.md "wikilink")、[2014年](../Page/2014年.md "wikilink")には[上尾市民球場](https://ja.wikipedia.org/wiki/上尾市民球場 "wikilink")が会場として使用されている。
 
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p>1947年（第2回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/横浜金港クラブ" title="wikilink">横浜金港クラブ</a></strong></p></td>
+<td><p><strong><a href="../Page/横浜金港クラブ.md" title="wikilink">横浜金港クラブ</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -122,7 +122,7 @@
 </tr>
 <tr class="odd">
 <td><p>1956年（第11回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR九州硬式野球部" title="wikilink">鹿児島鉄道管理局</a></strong></p></td>
+<td><p><strong><a href="../Page/JR九州硬式野球部.md" title="wikilink">鹿児島鉄道管理局</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -185,7 +185,7 @@
 </tr>
 <tr class="even">
 <td><p>1965年（第20回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/日立製作所硬式野球部" title="wikilink">日立製作所</a></strong></p></td>
+<td><p><strong><a href="../Page/日立製作所硬式野球部.md" title="wikilink">日立製作所</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -220,7 +220,7 @@
 </tr>
 <tr class="odd">
 <td><p>1970年（第25回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/日本通運硬式野球部" title="wikilink">日本通運</a></strong></p></td>
+<td><p><strong><a href="../Page/日本通運硬式野球部.md" title="wikilink">日本通運</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -262,7 +262,7 @@
 </tr>
 <tr class="odd">
 <td><p>1976年（第31回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/NTT東日本硬式野球部" title="wikilink">電電東京</a></strong></p></td>
+<td><p><strong><a href="../Page/NTT東日本硬式野球部.md" title="wikilink">電電東京</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -437,7 +437,7 @@
 </tr>
 <tr class="even">
 <td><p>2001年（第56回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR東日本硬式野球部" title="wikilink">JR東日本</a></strong></p></td>
+<td><p><strong><a href="../Page/JR東日本硬式野球部.md" title="wikilink">JR東日本</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -479,7 +479,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年（第62回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR九州硬式野球部" title="wikilink">JR九州</a></strong></p></td>
+<td><p><strong><a href="../Page/JR九州硬式野球部.md" title="wikilink">JR九州</a></strong></p></td>
 <td><p><strong>9</strong>-0</p></td>
 <td><p><a href="../Page/Honda鈴鹿硬式野球部.md" title="wikilink">ホンダ鈴鹿</a></p></td>
 <td><p>同年度から、優勝チームに日本選手権への出場権が与えられる。</p></td>
@@ -495,12 +495,12 @@
 <td><p>2009年（第64回）</p></td>
 <td><p><strong>新日本石油ENEOS</strong></p></td>
 <td><p><strong>4</strong>-2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三菱日立パワーシステムズ硬式野球部" title="wikilink">三菱重工横浜</a></p></td>
+<td><p><a href="../Page/三菱日立パワーシステムズ硬式野球部.md" title="wikilink">三菱重工横浜</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2010年（<a href="https://ja.wikipedia.org/wiki/第37回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第65回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SUBARU硬式野球部" title="wikilink">富士重工業</a></strong></p></td>
+<td><p><strong><a href="../Page/SUBARU硬式野球部.md" title="wikilink">富士重工業</a></strong></p></td>
 <td><p><strong>4</strong>-1</p></td>
 <td><p>新日本石油ENEOS</p></td>
 <td></td>
@@ -508,7 +508,7 @@
 <tr class="even">
 <td><p>2011年（第66回）</p></td>
 <td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">JX-ENEOS</a><br />
-<a href="https://ja.wikipedia.org/wiki/NTT西日本硬式野球部" title="wikilink">NTT西日本</a></strong>[1]</p></td>
+<a href="../Page/NTT西日本硬式野球部.md" title="wikilink">NTT西日本</a></strong>[1]</p></td>
 <td><p>-</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>（<a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>）の影響で、<br />
@@ -517,7 +517,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012年（<a href="https://ja.wikipedia.org/wiki/第38回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第67回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JFE東日本硬式野球部" title="wikilink">JFE東日本</a></strong></p></td>
+<td><p><strong><a href="../Page/JFE東日本硬式野球部.md" title="wikilink">JFE東日本</a></strong></p></td>
 <td><p><strong>3</strong>-2</p></td>
 <td><p>日本通運</p></td>
 <td></td>
@@ -545,7 +545,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年（<a href="https://ja.wikipedia.org/wiki/第42回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第71回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/日本新薬硬式野球部" title="wikilink">日本新薬</a></strong></p></td>
+<td><p><strong><a href="../Page/日本新薬硬式野球部.md" title="wikilink">日本新薬</a></strong></p></td>
 <td><p><strong>3</strong>-1</p></td>
 <td><p><a href="../Page/日本製鉄かずさマジック.md" title="wikilink">新日鐵住金かずさマジック</a></p></td>
 <td></td>

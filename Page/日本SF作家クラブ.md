@@ -7,11 +7,11 @@
 
 1963年の設立時の英名は、Japan SF Writers Association （略称JSFWA）で\[1\]SF作家や科学ライターのための親睦会だったが、[1999年](../Page/1999年.md "wikilink")の総会で[アメリカSFファンタジー作家協会](https://ja.wikipedia.org/wiki/アメリカSFファンタジー作家協会 "wikilink")（略称SFWA）に倣って、英語表記に「Fantasy」を入れることを決定\[2\]。以後、SF作家のみならず、[ファンタジー](../Page/ファンタジー.md "wikilink")や[推理小説](../Page/推理小説.md "wikilink")を主な活躍の舞台とする小説家も入会するようになった。その初期から[手塚治虫](../Page/手塚治虫.md "wikilink")など[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")にも門戸を開いており、[いしかわじゅん](../Page/いしかわじゅん.md "wikilink")や[大友克洋](../Page/大友克洋.md "wikilink")や[京極夏彦](../Page/京極夏彦.md "wikilink")や[神坂一](../Page/神坂一.md "wikilink")らもメンバーに名を連ねている。
 
-1980年から「[日本SF大賞](../Page/日本SF大賞.md "wikilink")」を主催している。かつて主催していた「[日本SF新人賞](https://ja.wikipedia.org/wiki/日本SF新人賞 "wikilink")」「[日本SF評論賞](https://ja.wikipedia.org/wiki/日本SF評論賞 "wikilink")」の2賞は休止。
+1980年から「[日本SF大賞](../Page/日本SF大賞.md "wikilink")」を主催している。かつて主催していた「[日本SF新人賞](../Page/日本SF新人賞.md "wikilink")」「[日本SF評論賞](https://ja.wikipedia.org/wiki/日本SF評論賞 "wikilink")」の2賞は休止。
 
 ## 設立の経緯
 
-[1963年](../Page/1963年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")、[新宿](../Page/新宿.md "wikilink")の[台湾料理](../Page/台湾料理.md "wikilink")屋山珍居において、[石川喬司](../Page/石川喬司.md "wikilink")・[小松左京](../Page/小松左京.md "wikilink")・[川村哲郎](https://ja.wikipedia.org/wiki/川村哲郎 "wikilink")（筆名、中上守）・[斎藤守弘](../Page/斎藤守弘.md "wikilink")・[斎藤伯好](https://ja.wikipedia.org/wiki/斎藤伯好 "wikilink")・[半村良](../Page/半村良.md "wikilink")・[福島正実](../Page/福島正実.md "wikilink")・[星新一](../Page/星新一.md "wikilink")・[森優](https://ja.wikipedia.org/wiki/森優 "wikilink")・[光瀬龍](../Page/光瀬龍.md "wikilink")・[矢野徹](../Page/矢野徹.md "wikilink")の11人のSF関係者によって発足した。「日本SF作家クラブ」という名称は、[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")が創設した[推理作家](../Page/推理作家.md "wikilink")による「日本探偵作家クラブ」（現・[日本推理作家協会](https://ja.wikipedia.org/wiki/日本推理作家協会 "wikilink")）がヒントになったものとみられる\[3\]。この時の会合の様子は福島正実によって[オープンリール](../Page/オープンリール.md "wikilink")に録音されている\[4\]。
+[1963年](../Page/1963年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")、[新宿](../Page/新宿.md "wikilink")の[台湾料理](../Page/台湾料理.md "wikilink")屋山珍居において、[石川喬司](../Page/石川喬司.md "wikilink")・[小松左京](../Page/小松左京.md "wikilink")・[川村哲郎](https://ja.wikipedia.org/wiki/川村哲郎 "wikilink")（筆名、中上守）・[斎藤守弘](../Page/斎藤守弘.md "wikilink")・[斎藤伯好](https://ja.wikipedia.org/wiki/斎藤伯好 "wikilink")・[半村良](../Page/半村良.md "wikilink")・[福島正実](../Page/福島正実.md "wikilink")・[星新一](../Page/星新一.md "wikilink")・[森優](https://ja.wikipedia.org/wiki/森優 "wikilink")・[光瀬龍](../Page/光瀬龍.md "wikilink")・[矢野徹](../Page/矢野徹.md "wikilink")の11人のSF関係者によって発足した。「日本SF作家クラブ」という名称は、[江戸川乱歩](../Page/江戸川乱歩.md "wikilink")が創設した[推理作家](../Page/推理作家.md "wikilink")による「日本探偵作家クラブ」（現・[日本推理作家協会](../Page/日本推理作家協会.md "wikilink")）がヒントになったものとみられる\[3\]。この時の会合の様子は福島正実によって[オープンリール](../Page/オープンリール.md "wikilink")に録音されている\[4\]。
 
 当時『[SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")』編集長だった福島正実の音頭取りによる設立で、福島が意図していたのは、[純文学](../Page/純文学.md "wikilink")への対抗意識とプロによるSF界のリードだったと言われる\[5\]\[6\]\[7\]。
 
@@ -29,7 +29,7 @@
 
 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")から日本SF大賞、[1999年](../Page/1999年.md "wikilink")から日本SF新人賞（[2009年](../Page/2009年.md "wikilink")をもって終了）、[2006年](../Page/2006年.md "wikilink")から日本SF評論賞（2014年をもって終了）を主催。
 
-その他の活動には、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")には、会員の手塚治虫がアニメ映画『クレオパトラ』を製作した際に群集のシーンの声で参加\[18\]。[2000年](../Page/2000年.md "wikilink")にクラブが編者となった初単行本のアンソロジー『2001』を、[2001年](../Page/2001年.md "wikilink")に[早川書房](../Page/早川書房.md "wikilink")から『SF入門』という共著書を出すなどの活動をしている\[19\]。
+その他の活動には、[1970年](../Page/1970年.md "wikilink")には、会員の手塚治虫がアニメ映画『クレオパトラ』を製作した際に群集のシーンの声で参加\[18\]。[2000年](../Page/2000年.md "wikilink")にクラブが編者となった初単行本のアンソロジー『2001』を、[2001年](../Page/2001年.md "wikilink")に[早川書房](../Page/早川書房.md "wikilink")から『SF入門』という共著書を出すなどの活動をしている\[19\]。
 
 [2012年](../Page/2012年.md "wikilink")から、日本SF作家クラブ会員有志により運営されるネット・マガジン「SF Prologue Wave」が開始された。
 
@@ -144,7 +144,7 @@
 <tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/山田正紀.md" title="wikilink">山田正紀</a>(2003/09～)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武田康廣" title="wikilink">武田康廣</a></p></td>
+<td><p><a href="../Page/武田康廣.md" title="wikilink">武田康廣</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -188,7 +188,7 @@
 
 設立当初は親睦団体という性格が強く、新規入会は全会一致で承認された場合のみという会則が設けられていた\[21\]。そのため、後に会員となった[荒俣宏](../Page/荒俣宏.md "wikilink")は当初入りたくても入れなかったという\[22\]。現会員の[高野史緒](../Page/高野史緒.md "wikilink")についても、２回の入会拒否があったという\[23\]。
 
-[山田正紀](../Page/山田正紀.md "wikilink")会長時代の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に会則が改定され、3名以上の会員の推薦が有る場合に推薦文が事務局通信に掲載され、そこで異議申立てがなければ総会に諮られ、総会参加者の2/3以上の賛成で入会が認められる、という形になった\[24\]。また日本SF大賞受賞者には推薦不要で、いきなり総会で入会の可否が諮られる権利が与えられる\[25\]。ただ入会資格については、長年の運営の間に「プロとして一冊以上の単独著書がある」などの[不文律](https://ja.wikipedia.org/wiki/不文律 "wikilink")が作られており、その経緯についても過去の議事録等が十分に整備されていないことから不透明な部分があるという\[26\]。
+[山田正紀](../Page/山田正紀.md "wikilink")会長時代の[2005年](../Page/2005年.md "wikilink")に会則が改定され、3名以上の会員の推薦が有る場合に推薦文が事務局通信に掲載され、そこで異議申立てがなければ総会に諮られ、総会参加者の2/3以上の賛成で入会が認められる、という形になった\[24\]。また日本SF大賞受賞者には推薦不要で、いきなり総会で入会の可否が諮られる権利が与えられる\[25\]。ただ入会資格については、長年の運営の間に「プロとして一冊以上の単独著書がある」などの[不文律](https://ja.wikipedia.org/wiki/不文律 "wikilink")が作られており、その経緯についても過去の議事録等が十分に整備されていないことから不透明な部分があるという\[26\]。
 
 ## エピソード
 
@@ -203,7 +203,7 @@ SF作家クラブでは一つの不文律ができあがっていた。星新一
 ## 主な入会拒否者・退会者
 
   - [柴野拓美](../Page/柴野拓美.md "wikilink")
-    クラブ発足時、同人誌『[宇宙塵](https://ja.wikipedia.org/wiki/宇宙塵 "wikilink")』を主宰しており、『SFマガジン』とともに当時の日本SFを牽引していたが、上述のような福島正実の意図により外されていた\[34\]\[35\]\[36\]。福島が死去した翌年の[1977年](../Page/1977年.md "wikilink")に日本SF作家クラブが「宇宙塵創刊20周年を祝う会」を主催して功績を称え\[37\]、後に柴野は入会している。
+    クラブ発足時、同人誌『[宇宙塵](../Page/宇宙塵.md "wikilink")』を主宰しており、『SFマガジン』とともに当時の日本SFを牽引していたが、上述のような福島正実の意図により外されていた\[34\]\[35\]\[36\]。福島が死去した翌年の[1977年](../Page/1977年.md "wikilink")に日本SF作家クラブが「宇宙塵創刊20周年を祝う会」を主催して功績を称え\[37\]、後に柴野は入会している。
   - [山野浩一](../Page/山野浩一.md "wikilink")
     日本の[ニュー・ウェーブSF運動を先導していたが思想の違いから再三の誘いを拒んだ](../Page/ニュー・ウェーブ_\(SF\).md "wikilink")\[38\]。のち2007年の[世界SF大会](https://ja.wikipedia.org/wiki/世界SF大会 "wikilink")の「speculative japan」パネルに出席し、翻訳家[増田まもる](https://ja.wikipedia.org/wiki/増田まもる "wikilink")が創設したサイト「speculative japan」の理念に賛同したことから、2008年1月に入会した\[39\]。
   - [川村哲郎](https://ja.wikipedia.org/wiki/川村哲郎 "wikilink")、[斎藤守弘](../Page/斎藤守弘.md "wikilink")
@@ -228,7 +228,7 @@ SF作家クラブでは一つの不文律ができあがっていた。星新一
 
 <!-- end list -->
 
-  - [大森望](https://ja.wikipedia.org/wiki/大森望 "wikilink")
+  - [大森望](../Page/大森望.md "wikilink")
     2014年4月に日本SF大賞特別賞を受賞、その結果無推薦入会動議がクラブ総会にかけられたが、1/3以上の反対票により入会が認められなかった。これによりクラブ選考による賞は与えられたが入会を拒否されたという立場となった。大森は1992年にも同様に入会が却下されており、これらの経緯はすべて[小谷真理](https://ja.wikipedia.org/wiki/小谷真理 "wikilink")および[巽孝之](../Page/巽孝之.md "wikilink")との確執が原因とされた\[49\]\[50\]。さらに、このような事が起こる一方で声優の[池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")を「ファン代表」のような形で入会させているのはおかしいという主張をするものもいた\[51\]（なお実際には、池澤は2009年以降[本の雑誌](https://ja.wikipedia.org/wiki/本の雑誌 "wikilink")や[SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")に書評エッセイ連載を持つ文筆家であり、会則通りの通常の手続きを経て入会している。また、入会翌年の2014年には単独著書として書評集を出版している）。これらの過程で「排他的体質」([東浩紀](../Page/東浩紀.md "wikilink"))、「サークルの雰囲気優先」([我孫子武丸](../Page/我孫子武丸.md "wikilink"))などと批判が続出し\[52\]、[牧野修](../Page/牧野修.md "wikilink")・[菅浩江](../Page/菅浩江.md "wikilink")・[図子慧](https://ja.wikipedia.org/wiki/図子慧 "wikilink")・[福田和代](https://ja.wikipedia.org/wiki/福田和代 "wikilink")・[小川一水](../Page/小川一水.md "wikilink")・[我孫子武丸](../Page/我孫子武丸.md "wikilink")・[倉阪鬼一郎](../Page/倉阪鬼一郎.md "wikilink")・[森下一仁](../Page/森下一仁.md "wikilink")らが一斉退会するという事態に発展した\[53\]。（退会者のうち、牧野修は、2016年『月世界小説』で第35回[日本SF大賞](../Page/日本SF大賞.md "wikilink")・特別賞受賞。）さらに、この事件の前後に、[山田正紀](../Page/山田正紀.md "wikilink")、[堀晃](../Page/堀晃.md "wikilink")、[東浩紀](../Page/東浩紀.md "wikilink")、[笠井潔](../Page/笠井潔.md "wikilink")、[横田順彌](../Page/横田順彌.md "wikilink")、[神林長平](../Page/神林長平.md "wikilink")、[上田早夕里](../Page/上田早夕里.md "wikilink")、[田中啓文](../Page/田中啓文.md "wikilink")らも退会していた（このうち山田・神林は元会長）。
 
 ## 「日本SF作家クラブ」名義の書籍
@@ -266,13 +266,13 @@ SF作家クラブでは一つの不文律ができあがっていた。星新一
 4.  『[ETV特集](../Page/ETV特集.md "wikilink") 21世紀を夢みた日々 ～日本SFの50年～』NHK教育、[2007年](../Page/2007年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")放送。
 5.  小松左京『SFへの遺言』[光文社](../Page/光文社.md "wikilink")、1997年、113頁。
 6.  小松左京『SF魂』[新潮社](../Page/新潮社.md "wikilink")・[新潮新書](../Page/新潮新書.md "wikilink")、2006年、71頁。
-7.  [最相葉月](https://ja.wikipedia.org/wiki/最相葉月 "wikilink")『星新一 1001話をつくった人』新潮社、2007年、311-319頁。
+7.  [最相葉月](../Page/最相葉月.md "wikilink")『星新一 1001話をつくった人』新潮社、2007年、311-319頁。
 8.  『未踏の時代』79頁。
 9.
 10. [2013年の終わりに際して（その２）](http://news.senahideaki.com/article/383854699.html) - 瀬名NEWS・2013年12月29日
 11.
 12. 小松左京『SFへの遺言』[光文社](../Page/光文社.md "wikilink")、1997年、114頁。
-13. [と学会](../Page/と学会.md "wikilink")『と学会年鑑BLUE』[太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink")、2003年、315頁。
+13. [と学会](../Page/と学会.md "wikilink")『と学会年鑑BLUE』[太田出版](../Page/太田出版.md "wikilink")、2003年、315頁。
 14. 『未踏の時代』80頁。
 15. 『[ETV特集](../Page/ETV特集.md "wikilink") 21世紀を夢みた日々 ～日本SFの50年～』NHK教育、[2007年](../Page/2007年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")放送。
 16.

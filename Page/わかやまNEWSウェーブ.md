@@ -123,7 +123,7 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [枝曾丸の紀の国](https://ja.wikipedia.org/wiki/桂枝曾丸 "wikilink")[職人](https://ja.wikipedia.org/wiki/職人 "wikilink")物語→枝曾丸の紀の国歴史探訪（月1回）
+  - [枝曾丸の紀の国](../Page/桂枝曾丸.md "wikilink")[職人](../Page/職人.md "wikilink")物語→枝曾丸の紀の国歴史探訪（月1回）
   - お天気ウェーブ→気象紀伊ワード
   - [チャレンジド](https://ja.wikipedia.org/wiki/チャレンジド "wikilink")\!
   - ふしぎ大好き！きのくにキッズ（→『特捜\!なるほどリサーチ社』として継続）
@@ -263,7 +263,7 @@
 ## コーナーキャスター
 
   - [小島紀和](https://ja.wikipedia.org/wiki/小島紀和 "wikilink")（[気象予報士](../Page/気象予報士.md "wikilink")、金・お天気ウェーブ）
-  - [桂枝曾丸](https://ja.wikipedia.org/wiki/桂枝曾丸 "wikilink")（枝曾丸の紀の国職人物語
+  - [桂枝曾丸](../Page/桂枝曾丸.md "wikilink")（枝曾丸の紀の国職人物語
     →枝曾丸の紀の国歴史探訪、月1回）
   - 山本哲也（シネマナビわかやま）
 

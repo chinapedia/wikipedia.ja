@@ -5,7 +5,7 @@
 
 ## 概要
 
-毎年[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")に行われている[地区連盟主催大会の](../Page/地区連盟主催大会_\(社会人野球\).md "wikilink")1つであり、東海地区を中心とした12チームが優勝を争う。[社会人野球](../Page/社会人野球.md "wikilink")では、[都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")、[JABA東京スポニチ大会](../Page/JABA東京スポニチ大会.md "wikilink")、[JABA九州大会](https://ja.wikipedia.org/wiki/JABA九州大会 "wikilink")に次ぐ歴史を持つ大会である。
+毎年[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")に行われている[地区連盟主催大会の](../Page/地区連盟主催大会_\(社会人野球\).md "wikilink")1つであり、東海地区を中心とした12チームが優勝を争う。[社会人野球](../Page/社会人野球.md "wikilink")では、[都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")、[JABA東京スポニチ大会](../Page/JABA東京スポニチ大会.md "wikilink")、[JABA九州大会](../Page/JABA九州大会.md "wikilink")に次ぐ歴史を持つ大会である。
 
 当初は、全国各地区連盟の持ち回りによる主催で行われていたが、の第23回大会からは東海地区連盟の主催大会となり、の第45回大会以降は[岐阜県](../Page/岐阜県.md "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")の[長良川球場](../Page/長良川球場.md "wikilink")と[大垣市](../Page/大垣市.md "wikilink")の[大垣市北公園野球場](../Page/大垣市北公園野球場.md "wikilink")で開催されている。
 
@@ -128,7 +128,7 @@
 </tr>
 <tr class="odd">
 <td><p>1961年（第15回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三菱重工名古屋硬式野球部" title="wikilink">新三菱重工名古屋</a></strong></p></td>
+<td><p><strong><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">新三菱重工名古屋</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -163,7 +163,7 @@
 </tr>
 <tr class="even">
 <td><p>1966年（第20回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">日本楽器</a></strong></p></td>
+<td><p><strong><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">日本楽器</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -212,7 +212,7 @@
 </tr>
 <tr class="odd">
 <td><p>1973年（第27回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/SUBARU硬式野球部" title="wikilink">富士重工業</a></strong></p></td>
+<td><p><strong><a href="../Page/SUBARU硬式野球部.md" title="wikilink">富士重工業</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -226,14 +226,14 @@
 </tr>
 <tr class="odd">
 <td><p>1975年（第29回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/西濃運輸硬式野球部" title="wikilink">西濃運輸</a></strong></p></td>
+<td><p><strong><a href="../Page/西濃運輸硬式野球部.md" title="wikilink">西濃運輸</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1976年（第30回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/三菱重工名古屋硬式野球部" title="wikilink">三菱名古屋</a></strong></p></td>
+<td><p><strong><a href="../Page/三菱重工名古屋硬式野球部.md" title="wikilink">三菱名古屋</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -296,7 +296,7 @@
 </tr>
 <tr class="odd">
 <td><p>1985年（第39回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JFE東日本硬式野球部" title="wikilink">川崎製鉄千葉</a></strong></p></td>
+<td><p><strong><a href="../Page/JFE東日本硬式野球部.md" title="wikilink">川崎製鉄千葉</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -310,7 +310,7 @@
 </tr>
 <tr class="odd">
 <td><p>1987年（第41回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東京ガス硬式野球部" title="wikilink">東京ガス</a></strong></p></td>
+<td><p><strong><a href="../Page/東京ガス硬式野球部.md" title="wikilink">東京ガス</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -373,7 +373,7 @@
 </tr>
 <tr class="even">
 <td><p>1996年（第50回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/NSBベースボールクラブ" title="wikilink">中山製鋼</a></strong></p></td>
+<td><p><strong><a href="../Page/NSBベースボールクラブ.md" title="wikilink">中山製鋼</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -394,7 +394,7 @@
 </tr>
 <tr class="odd">
 <td><p>1999年（第53回）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JR東海硬式野球部" title="wikilink">JR東海</a></strong></p></td>
+<td><p><strong><a href="../Page/JR東海硬式野球部.md" title="wikilink">JR東海</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -445,7 +445,7 @@
 <td><p>2006年（第60回）</p></td>
 <td><p><strong>西濃運輸</strong></p></td>
 <td><p><strong>1</strong>-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デュプロ硬式野球部" title="wikilink">デュプロ</a></p></td>
+<td><p><a href="../Page/デュプロ硬式野球部.md" title="wikilink">デュプロ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -495,19 +495,19 @@
 <td><p>2013年（<a href="https://ja.wikipedia.org/wiki/第39回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第66回</a>）</p></td>
 <td><p><strong>JR東海</strong></p></td>
 <td><p><strong>6</strong>-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NTT東日本硬式野球部" title="wikilink">NTT東日本</a></p></td>
+<td><p><a href="../Page/NTT東日本硬式野球部.md" title="wikilink">NTT東日本</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年（<a href="https://ja.wikipedia.org/wiki/第40回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第67回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/東邦ガス硬式野球部" title="wikilink">東邦ガス</a></strong></p></td>
+<td><p><strong><a href="../Page/東邦ガス硬式野球部.md" title="wikilink">東邦ガス</a></strong></p></td>
 <td><p><strong>8</strong>-5</p></td>
 <td><p>中日ドラゴンズファーム</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2015年（<a href="https://ja.wikipedia.org/wiki/第41回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第68回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/JFE西日本硬式野球部" title="wikilink">JFE西日本</a></strong></p></td>
+<td><p><strong><a href="../Page/JFE西日本硬式野球部.md" title="wikilink">JFE西日本</a></strong></p></td>
 <td><p><strong>3</strong>-0</p></td>
 <td><p>中日ドラゴンズファーム</p></td>
 <td></td>
@@ -530,15 +530,15 @@
 <td><p>2018年（<a href="https://ja.wikipedia.org/wiki/第44回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第71回</a>）</p></td>
 <td><p><strong>西濃運輸</strong></p></td>
 <td><p><strong>5</strong>-4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日立製作所硬式野球部" title="wikilink">日立製作所</a></p></td>
+<td><p><a href="../Page/日立製作所硬式野球部.md" title="wikilink">日立製作所</a></p></td>
 <td><p>長良川球場が改修に伴い使用できず、<a href="https://ja.wikipedia.org/wiki/KYBスタジアム" title="wikilink">可児市KYBスタジアムにて代替開催</a>。<br />
 中日ドラゴンズファームは参加せず。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年（<a href="https://ja.wikipedia.org/wiki/第45回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第72回</a>）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/日本通運硬式野球部" title="wikilink">日本通運</a></strong></p></td>
+<td><p><strong><a href="../Page/日本通運硬式野球部.md" title="wikilink">日本通運</a></strong></p></td>
 <td><p><strong>13</strong>-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤマハ硬式野球部" title="wikilink">ヤマハ</a></p></td>
+<td><p><a href="../Page/ヤマハ硬式野球部.md" title="wikilink">ヤマハ</a></p></td>
 <td><p>決勝戦は7回コールド。<br />
 中日ドラゴンズファームは参加せず。</p></td>
 </tr>
@@ -558,4 +558,4 @@
 [Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:東海地方の社会人野球](https://ja.wikipedia.org/wiki/Category:東海地方の社会人野球 "wikilink") [Category:岐阜市のスポーツ](https://ja.wikipedia.org/wiki/Category:岐阜市のスポーツ "wikilink") [Category:大垣市の文化](https://ja.wikipedia.org/wiki/Category:大垣市の文化 "wikilink") [Category:1947年開始のイベント](https://ja.wikipedia.org/wiki/Category:1947年開始のイベント "wikilink")
 
 1.  8月に開催する予定だった同年の都市対抗野球が秋に延期となったため、日本選手権の開催も見送りとなった。
-2.  代替行事として、中日ドラゴンズファームを含めた4チームによるチャリティ大会が開催され、[西濃運輸が優勝](https://ja.wikipedia.org/wiki/西濃運輸硬式野球部 "wikilink")。
+2.  代替行事として、中日ドラゴンズファームを含めた4チームによるチャリティ大会が開催され、[西濃運輸が優勝](../Page/西濃運輸硬式野球部.md "wikilink")。

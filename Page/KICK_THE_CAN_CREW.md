@@ -1,13 +1,13 @@
 > この記事は[KICK THE CAN CREW](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW)から翻訳されています。
 
 
-**KICK THE CAN CREW**（キック・ザ・カン・クルー）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")グループ。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")（インディーズ、及びLP版は[BURGER INN RECORDSでリリース](https://ja.wikipedia.org/wiki/BURGER_INN_RECORDS "wikilink")）。通称「**キック**」、[雑誌](../Page/雑誌.md "wikilink")等では[頭文字](https://ja.wikipedia.org/wiki/頭文字 "wikilink")をとって「**KTCC**」とも表記される。グループ名を直訳すると「缶を蹴る奴ら」。その由来は、それぞれ活動していた3人が初めてコラボレートした楽曲「カンケリ」から来ている。[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")等が在籍するコミュニティ[FUNKY GRAMMAR UNITや](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員でもある。
+**KICK THE CAN CREW**（キック・ザ・カン・クルー）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")グループ。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")（インディーズ、及びLP版は[BURGER INN RECORDSでリリース](https://ja.wikipedia.org/wiki/BURGER_INN_RECORDS "wikilink")）。通称「**キック**」、[雑誌](../Page/雑誌.md "wikilink")等では[頭文字](https://ja.wikipedia.org/wiki/頭文字 "wikilink")をとって「**KTCC**」とも表記される。グループ名を直訳すると「缶を蹴る奴ら」。その由来は、それぞれ活動していた3人が初めてコラボレートした楽曲「カンケリ」から来ている。[RHYMESTER](../Page/RHYMESTER.md "wikilink")等が在籍するコミュニティ[FUNKY GRAMMAR UNITや](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")の一員でもある。
 
 ## メンバー
 
-  - **[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")**（リトル、[1976年](../Page/1976年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") - ）：[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")
-  - **[MCU](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink")**（エムシーユー、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）：MC
-  - **[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")**（クレバ、1976年[6月18日](../Page/6月18日.md "wikilink") - ）：MC、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")
+  - **[LITTLE](../Page/LITTLE.md "wikilink")**（リトル、[1976年](../Page/1976年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") - ）：[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")
+  - **[MCU](../Page/MCU_\(ラッパー\).md "wikilink")**（エムシーユー、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）：MC
+  - **[KREVA](../Page/KREVA.md "wikilink")**（クレバ、1976年[6月18日](../Page/6月18日.md "wikilink") - ）：MC、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")
 
 ### サポートメンバー
 
@@ -45,7 +45,7 @@
 
 2004年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に活動休止を発表する。そして、[6月20日](../Page/6月20日.md "wikilink")のライブ「KICK THE CAN CREW LIVE 旅人〜STEP IN THE DAY〜」をもって活動を一旦休止した。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")、LITTLEの自らの誕生日とデビュー10周年記念を兼ねたライブの際にサプライズでKREVAとMCUが花束を持って登場し、活動休止以来となるステージ上での3ショットが実現。[8月3日](../Page/8月3日.md "wikilink")には[茨城県](../Page/茨城県.md "wikilink")の[国営ひたち海浜公園](https://ja.wikipedia.org/wiki/国営ひたち海浜公園 "wikilink")で開催された野外イベント「[ROCK IN JAPAN FESTIVAL 2008](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")」でKREVAがLITTLEとMCUを呼び、4年振りに「イツナロウバ」「アンバランス」の2曲を披露した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月7日](../Page/5月7日.md "wikilink")、LITTLEの自らの誕生日とデビュー10周年記念を兼ねたライブの際にサプライズでKREVAとMCUが花束を持って登場し、活動休止以来となるステージ上での3ショットが実現。[8月3日](../Page/8月3日.md "wikilink")には[茨城県](../Page/茨城県.md "wikilink")の[国営ひたち海浜公園](../Page/国営ひたち海浜公園.md "wikilink")で開催された野外イベント「[ROCK IN JAPAN FESTIVAL 2008](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")」でKREVAがLITTLEとMCUを呼び、4年振りに「イツナロウバ」「アンバランス」の2曲を披露した。
 
 2009年8月2日「[ROCK IN JAPAN FESTIVAL 2009](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")」では3人とも8月2日にそれぞれソロとして出演し去年と同じくKREVAのステージにて復活を果たし観客をわかした。なお披露した曲は｢アンバランス｣である。
 
@@ -63,7 +63,7 @@
 
 MC3人の三者三様の[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")を「キャラ立ち3本マイク」、身長の違いから「大中小」と称している。
 
-特にLITTLEの[押韻](../Page/押韻.md "wikilink")に関しては、[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")にもない[ジャパニーズ](https://ja.wikipedia.org/wiki/ジャパニーズ "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")として新しいものを生み出したと[評価](https://ja.wikipedia.org/wiki/評価 "wikilink")する[音楽](../Page/音楽.md "wikilink")評論家もいると言われている。[キングギドラ](../Page/キングギドラ.md "wikilink")の押韻に憧れたKICK THE CAN CREW、特にLITTLEがその[押韻](../Page/押韻.md "wikilink")を突き詰めた結果生まれた新しい[音楽](../Page/音楽.md "wikilink")だと[評価](https://ja.wikipedia.org/wiki/評価 "wikilink")される事もある\[6\]\[7\][2](https://mobile.twitter.com/yuma_k_0712) \[8\]。
+特にLITTLEの[押韻](../Page/押韻.md "wikilink")に関しては、[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")にもない[ジャパニーズ](https://ja.wikipedia.org/wiki/ジャパニーズ "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")として新しいものを生み出したと[評価](../Page/評価.md "wikilink")する[音楽](../Page/音楽.md "wikilink")評論家もいると言われている。[キングギドラ](../Page/キングギドラ.md "wikilink")の押韻に憧れたKICK THE CAN CREW、特にLITTLEがその[押韻](../Page/押韻.md "wikilink")を突き詰めた結果生まれた新しい[音楽](../Page/音楽.md "wikilink")だと[評価](../Page/評価.md "wikilink")される事もある\[6\]\[7\][2](https://mobile.twitter.com/yuma_k_0712) \[8\]。
 
 楽曲のトラックは、結成当初からKREVA1人の手で作られていたが、シングル「sayonara sayonara」収録の「キックOFF」でDJ TATSUTAとトラックを共作し、以降、アルバム『magic number』には2曲、2003年8月からの7枚連続リリースでは、半分近くを2人（「顔PASSブラザーズ」名義）でプロデュースしている。
 
@@ -331,9 +331,9 @@ VICL-37422(CD)</p></td>
 
   - KICK THE CAN CREW「よってこい feat. NG HEAD, RYO THE SKYWALKER」 (1999年、[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")『ULTIMATE MIX ADJUSTMENT』収録)
   - [嶋野百恵](../Page/嶋野百恵.md "wikilink")「Roots feat. KICK THE CAN CREW & INNOSENCE」 (2000年、嶋野百恵『Roots』収録)
-  - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")「10 Balls+2 featuring Kick The Can Crew」 (2001年、RHYMESTER『[ウワサの真相](../Page/ウワサの真相.md "wikilink")』収録)
+  - [RHYMESTER](../Page/RHYMESTER.md "wikilink")「10 Balls+2 featuring Kick The Can Crew」 (2001年、RHYMESTER『[ウワサの真相](../Page/ウワサの真相.md "wikilink")』収録)
   - [平子理彩](https://ja.wikipedia.org/wiki/平子理彩 "wikilink") 「WALK THIS WAY（CASSETTE VISION MIX）」（2000年1月21日、平子理彩『DON'T WALK THIS WAY』収録）
-  - [THE BOOM](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")「いいあんべえ (monoaural mix) featuring KICK THE CAN CREW」 (2002年、THE BOOM「[この街のどこかに](../Page/この街のどこかに.md "wikilink")」収録)
+  - [THE BOOM](../Page/THE_BOOM.md "wikilink")「いいあんべえ (monoaural mix) featuring KICK THE CAN CREW」 (2002年、THE BOOM「[この街のどこかに](../Page/この街のどこかに.md "wikilink")」収録)
   - [EAST END](../Page/EAST_END.md "wikilink")「FGスポット feat. KICK THE CAN CREW」 (2003年、EAST END『[Beginning of the Endless](../Page/Beginning_of_the_Endless.md "wikilink")』収録)
   - [DJ BEAT](https://ja.wikipedia.org/wiki/DJ_BEAT "wikilink") 「Dancer’s High feat.KICK THE CAN CREW」（2005年7月1日、DJ BEAT『BEAT的遊戯』収録）
   - RHYMESTER「ウィークエンド・シャッフル feat. MCU, RYO-Z, KREVA, CUEZERO, CHANNEL, KOHEI JAPAN, SU, LITTLE, ILMARI, GAKU-MC, SONOMI, PES, K.I.N, 童子-T」 (2006年、RHYMESTER『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』収録)

@@ -1,7 +1,7 @@
 > この記事は[KSB](https://ja.wikipedia.org/wiki/KSB)から翻訳されています。
 
 
-『**KSBニュース**』（ケイエスビーニュース）は、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")の[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")番組の名称である。
+『**KSBニュース**』（ケイエスビーニュース）は、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")の[スポットニュース](../Page/スポットニュース.md "wikilink")番組の名称である。
 
 ## 番組概要
 

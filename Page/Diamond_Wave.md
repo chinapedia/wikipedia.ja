@@ -1,18 +1,18 @@
 > この記事は[Diamond Wave](https://ja.wikipedia.org/wiki/Diamond_Wave)から翻訳されています。
 
 
-「**Diamond Wave**」（ダイアモンド・ウェーブ）は、日本の女性歌手・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の楽曲。倉木の24枚目の[CDシングルとして](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[GIZA studioからリリースされた](../Page/GIZA_studio.md "wikilink")。シングル盤の規格品番はGZCA-7075。
+「**Diamond Wave**」（ダイアモンド・ウェーブ）は、日本の女性歌手・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の楽曲。倉木の24枚目の[CDシングルとして](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")、[2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[GIZA studioからリリースされた](../Page/GIZA_studio.md "wikilink")。シングル盤の規格品番はGZCA-7075。
 
 ## 概要
 
 アルバム『[DIAMOND WAVE](../Page/DIAMOND_WAVE.md "wikilink")』の先行シングルとして発売。
 
-楽曲は[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』テーマソングであり、テレビ番組への出演が少ない倉木ではあるが同番組のオンエア初回放送ではコメント出演した。楽曲を制作するにあたって[ワンガリ・マータイ](https://ja.wikipedia.org/wiki/ワンガリ・マータイ "wikilink")との対談とアースデーコンサートが行われ、自然環境を想う楽曲内容となっている。
+楽曲は[日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』テーマソングであり、テレビ番組への出演が少ない倉木ではあるが同番組のオンエア初回放送ではコメント出演した。楽曲を制作するにあたって[ワンガリ・マータイ](../Page/ワンガリ・マータイ.md "wikilink")との対談とアースデーコンサートが行われ、自然環境を想う楽曲内容となっている。
 
 ## シングル収録曲
 
 1.  「Diamond Wave」 – 4:57
-      - 作詞: 倉木麻衣、作曲・編曲: [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞: 倉木麻衣、作曲・編曲: [徳永暁人](../Page/徳永暁人.md "wikilink")
 2.  「SAFEST PLACE」 – 5:02
       - 作詞: 倉木麻衣、作曲: [大野愛果](../Page/大野愛果.md "wikilink")、編曲: [池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
     <!-- end list -->

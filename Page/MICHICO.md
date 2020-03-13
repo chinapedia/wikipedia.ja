@@ -5,7 +5,7 @@
 
 ## 人物
 
-  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。現在[アトランタ](../Page/アトランタ.md "wikilink")在住。
+  - [東京都](../Page/東京都.md "wikilink")出身。現在[アトランタ](../Page/アトランタ.md "wikilink")在住。
   - 所属レコード会社は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、所属プロダクションは[GIANT SWING PRODUCTIONS](../Page/T.KURA.md "wikilink")。
   - シンガーとしての活動をしているが、バックコーラス、プロデュース、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")などの裏方での仕事をすることが多い。
   - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")などの数々の大物歌手のプロデュースを担当する。　　
@@ -30,11 +30,11 @@
   - [2004年](../Page/2004年.md "wikilink")
       -
         4月7日 4thシングル「O.P.D.」をリリース。
-        12月10日 [VOICE OF LOVE POSSEのシングル](../Page/VOICE_OF_LOVE_POSSE.md "wikilink")「VOICE OF LOVE〜[上を向いて歩こう](https://ja.wikipedia.org/wiki/上を向いて歩こう "wikilink")」にゲスト参加。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+        12月10日 [VOICE OF LOVE POSSEのシングル](../Page/VOICE_OF_LOVE_POSSE.md "wikilink")「VOICE OF LOVE〜[上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")」にゲスト参加。
+  - [2005年](../Page/2005年.md "wikilink")
       -
         3月24日 [JHETT a.k.a.YAKKO for AQUARIUSのアルバム](../Page/AQUARIUS_\(音楽ユニット\).md "wikilink")『JHETT』収録の「Call U Every Nite」にゲスト参加。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       -
         3月29日 EXILEのアルバム『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』収録の「LET THE MUSIC PLAY feat．MICHICO」にゲスト参加。
   - [2007年](../Page/2007年.md "wikilink")
@@ -120,14 +120,14 @@
 <td><p>VOICE OF LOVE〜上を向いて歩こう</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/RATHER_UNIQUE" title="wikilink">RATHER UNIQUE</a></p></td>
+<td><p><a href="../Page/RATHER_UNIQUE.md" title="wikilink">RATHER UNIQUE</a></p></td>
 <td><p>シングル</p></td>
 <td><p><a href="../Page/HEART_of_GOLD.md" title="wikilink">HEART of GOLD</a> （<a href="https://ja.wikipedia.org/wiki/EXILE" title="wikilink">EXILE</a>名義）</p></td>
 <td><p>2004年8月18日</p></td>
 <td><p>Good Dayz</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/JHETT_a.k.a.YAKKO_for_AQUARIUS" title="wikilink">JHETT a.k.a.YAKKO for AQUARIUS</a></p></td>
+<td><p><a href="../Page/JHETT_a.k.a.YAKKO_for_AQUARIUS.md" title="wikilink">JHETT a.k.a.YAKKO for AQUARIUS</a></p></td>
 <td><p>アルバム</p></td>
 <td><p>JHETT</p></td>
 <td><p>2005年3月24日</p></td>
@@ -180,7 +180,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 「[GIRL TALK/the SPEED STAR](https://ja.wikipedia.org/wiki/GIRL_TALK/the_SPEED_STAR "wikilink")」（シングル）
           -
             「GIRL TALK」
-      - 「[WANT ME, WANT ME](https://ja.wikipedia.org/wiki/WANT_ME,_WANT_ME "wikilink")」（シングル）
+      - 「[WANT ME, WANT ME](../Page/WANT_ME,_WANT_ME.md "wikilink")」（シングル）
       - 『[Queen of Hip-Pop](../Page/Queen_of_Hip-Pop.md "wikilink")』（アルバム）
           -
             「WANT ME, WANT ME」「I Wanna Show You My Love」「GIRL TALK」「My Darling」
@@ -211,14 +211,14 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 『Wired2』（アルバム）
           -
             「L.A.D」
-  - [嶋野百恵](https://ja.wikipedia.org/wiki/嶋野百恵 "wikilink")
+  - [嶋野百恵](../Page/嶋野百恵.md "wikilink")
       - 「Baby Baby Service」（シングル）
           -
             「Baby Baby Service」「apple」
       - 『abstract career』（アルバム）
           -
             「Baby Baby Service」
-  - [露崎春女](https://ja.wikipedia.org/wiki/露崎春女 "wikilink")
+  - [露崎春女](../Page/露崎春女.md "wikilink")
   - [AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")
       - 『ORIGINAL A.I.』（アルバム）
           -
@@ -248,7 +248,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 『Thousand Miles Away』（アルバム）
           -
             「Vanity and Reality」
-  - [COLOR](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\) "wikilink")
+  - [COLOR](../Page/DEEP_\(歌手グループ\).md "wikilink")
       - 「[Special love](https://ja.wikipedia.org/wiki/Special_love_\(COLORの曲\) "wikilink")」（シングル）
           -
             「FIND YOU」
@@ -282,7 +282,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
             「Along The Bayside」
   - [ECD](../Page/ECD_\(ミュージシャン\).md "wikilink")
   - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")
-      - 『[EXILE ENTERTAINMENT](https://ja.wikipedia.org/wiki/EXILE_ENTERTAINMENT "wikilink")』（アルバム）
+      - 『[EXILE ENTERTAINMENT](../Page/EXILE_ENTERTAINMENT.md "wikilink")』（アルバム）
           -
             「New Jack Swing」
       - 『[SELECT BEST](../Page/PERFECT_BEST_\(EXILEのアルバム\).md "wikilink")』（アルバム）
@@ -291,7 +291,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 『[ASIA](../Page/ASIA_\(アルバム\).md "wikilink")』（アルバム）
           -
             「Eastern Boyz 'N Eastern Girlz」「STAY <Sit Back Mix>」「最後の告白～STAY part.II～」「LET THE MUSIC PLAY feat.michico for Giant Swing Productions」
-      - 「[Everything](https://ja.wikipedia.org/wiki/Everything_\(EXILEの曲\) "wikilink")」（シングル）
+      - 「[Everything](../Page/Everything_\(EXILEの曲\).md "wikilink")」（シングル）
           -
             「EVOLUTION」
       - 『[EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")』（アルバム）
@@ -339,7 +339,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 『My Life』（アルバム）
           -
             「Happy Ever After」
-  - [JHETT a.k.a.YAKKO for AQUARIUS](https://ja.wikipedia.org/wiki/JHETT_a.k.a.YAKKO_for_AQUARIUS "wikilink")
+  - [JHETT a.k.a.YAKKO for AQUARIUS](../Page/JHETT_a.k.a.YAKKO_for_AQUARIUS.md "wikilink")
       - 『JHETT』（アルバム）
           -
             「Do or Die」「Heart Breaker」「Call U Every Nite」
@@ -355,7 +355,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 「Toy Soldiers」（シングル）
           -
             「Rebirth」
-  - [Lyrico](https://ja.wikipedia.org/wiki/露崎春女 "wikilink")
+  - [Lyrico](../Page/露崎春女.md "wikilink")
       - 「Tears in Christmas」（シングル）
           -
             「Messin' W/My Mind」「事情」
@@ -395,15 +395,15 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 『Querer』（アルバム）
           -
             「How I Love You」
-  - [Rain（ピ）](https://ja.wikipedia.org/wiki/ピ_\(歌手\) "wikilink")）
+  - [Rain（ピ）](../Page/ピ_\(歌手\).md "wikilink")）
       - 『Eternal Rain』（アルバム）
           -
             「Baby baby」
-  - [RATHER UNIQUE](https://ja.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")
+  - [RATHER UNIQUE](../Page/RATHER_UNIQUE.md "wikilink")
       - 「HEART of GOLD」（シングル）
           -
             「Good Dayz」
-  - [Sin](https://ja.wikipedia.org/wiki/Sin_\(R&Bユニット\) "wikilink")
+  - [Sin](../Page/Sin_\(R&Bユニット\).md "wikilink")
       - 「I Want You Back feat. [L.L Brothers](https://ja.wikipedia.org/wiki/LLブラザーズ "wikilink")」（シングル）
       - 「ROOTS」（シングル／アナログ）
           -

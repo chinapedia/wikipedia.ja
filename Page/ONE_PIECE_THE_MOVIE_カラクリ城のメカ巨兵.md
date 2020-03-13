@@ -1,7 +1,7 @@
 > この記事は[ONE PIECE THE MOVIE ](https://ja.wikipedia.org/wiki/ONE_PIECE_THE_MOVIE_)から翻訳されています。
 
 
-『**ONE PIECE THE MOVIE カラクリ城のメカ巨兵**』（ワンピース ザ ムービー カラクリじょうのメカきょへい）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")7作目。キャッチコピーは「このカラクリ兵器の威力を思い知りなさい\!\! VSやんのかぁぁぁぁぁ\!\!\!」。
+『**ONE PIECE THE MOVIE カラクリ城のメカ巨兵**』（ワンピース ザ ムービー カラクリじょうのメカきょへい）は、[2006年](../Page/2006年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](../Page/ONE_PIECE_\(アニメ\).md "wikilink")7作目。キャッチコピーは「このカラクリ兵器の威力を思い知りなさい\!\! VSやんのかぁぁぁぁぁ\!\!\!」。
 
 本作は[チョッパー役](https://ja.wikipedia.org/wiki/トニートニー・チョッパー "wikilink")・[大谷育江](../Page/大谷育江.md "wikilink")の体調不良により、[伊倉一恵](https://ja.wikipedia.org/wiki/伊倉一恵 "wikilink")が代役で登板した。
 
@@ -15,16 +15,16 @@
 
 ### 麦わらの一味
 
-  - [モンキー・D・ルフィ](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink")
+  - [モンキー・D・ルフィ](../Page/モンキー・D・ルフィ.md "wikilink")
     声 - [田中真弓](../Page/田中真弓.md "wikilink")
     本作の主人公。麦わらの一味船長。本作では自身の戦闘方法「ギア2」がテレビシリーズに先駆けて偶発的に発動している。
-  - [ロロノア・ゾロ](https://ja.wikipedia.org/wiki/ロロノア・ゾロ "wikilink")
-    声 - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
+  - [ロロノア・ゾロ](../Page/ロロノア・ゾロ.md "wikilink")
+    声 - [中井和哉](../Page/中井和哉.md "wikilink")
     麦わらの一味戦闘員（剣士）。
-  - [ナミ](https://ja.wikipedia.org/wiki/ナミ_\(ONE_PIECE\) "wikilink")
-    声 - [岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")
+  - [ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink")
+    声 - [岡村明美](../Page/岡村明美.md "wikilink")
     麦わらの一味航海士。
-  - [ウソップ](https://ja.wikipedia.org/wiki/ウソップ "wikilink")
+  - [ウソップ](../Page/ウソップ.md "wikilink")
     声 - [山口勝平](../Page/山口勝平.md "wikilink")
     麦わらの一味狙撃手。
   - [サンジ](../Page/サンジ.md "wikilink")
@@ -33,8 +33,8 @@
   - [トニートニー・チョッパー](https://ja.wikipedia.org/wiki/トニートニー・チョッパー "wikilink")
     声 - [伊倉一恵](https://ja.wikipedia.org/wiki/伊倉一恵 "wikilink")（代役）、[大谷育江](../Page/大谷育江.md "wikilink")（予告編のみ）
     麦わらの一味船医。
-  - [ニコ・ロビン](https://ja.wikipedia.org/wiki/ニコ・ロビン "wikilink")
-    声 - [山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink")
+  - [ニコ・ロビン](../Page/ニコ・ロビン.md "wikilink")
+    声 - [山口由里子](../Page/山口由里子.md "wikilink")
     麦わらの一味考古学者。
 
 ### オリジナルキャラクター
@@ -53,7 +53,7 @@
     ラチェットの部下。
     背中の「本気」と書かれた学ランを着ている。口癖は「～っす」。物覚えが悪く、ラチェットからはたびたび注意されている。戦闘時は上半身・腕が巨大化する。城に侵入したサンジとロビンを襲撃し、パワードスーツを纏いサンジに勝負を挑み、無数の大砲を浴びせたが「羊肉ショット」を受けて吹き飛ばされ敗北した。
   - ローバ
-    声 - [京田尚子](https://ja.wikipedia.org/wiki/京田尚子 "wikilink")
+    声 - [京田尚子](../Page/京田尚子.md "wikilink")
     ラチェットの母親。
     島の正体が巨大カメであることは知らず、研究に没頭する息子のラチェットに頭を悩ませていた。難破していた海賊船で宝箱に入っていたところをルフィたちに拾われた。島に伝わる海の王だけが被ることができる「金の冠」のことを話し、島まで送ってもらった。
   - 権造
@@ -63,7 +63,7 @@
 ## 登場したメカ
 
   - 防衛システム
-    劇中で最初に登場した弓兵メカ。海岸から無数の矢を[ゴーイングメリー号](https://ja.wikipedia.org/wiki/ゴーイングメリー号 "wikilink")に放ったが、ゾロの「三十六煩悩鳳」で全てなぎ払われた。
+    劇中で最初に登場した弓兵メカ。海岸から無数の矢を[ゴーイングメリー号](../Page/ゴーイングメリー号.md "wikilink")に放ったが、ゾロの「三十六煩悩鳳」で全てなぎ払われた。
   - 扇風キング
     対帆船専用兵器。その名の通り大型の扇風機で、上にはラチェットの顔があしらわれている。ゴーイングメリー号を吹き飛ばす事に成功するが、防衛システムのメカが引きずりこまれて大破した。
   - ゾウガメ君5号
@@ -77,15 +77,15 @@
 
 ## スタッフ
 
-  - 製作 - 岡田裕介、[高橋浩](https://ja.wikipedia.org/wiki/高橋浩 "wikilink")、山路則隆、[亀山千広](../Page/亀山千広.md "wikilink")、関一由、竹内淳
+  - 製作 - 岡田裕介、[高橋浩](../Page/高橋浩.md "wikilink")、山路則隆、[亀山千広](../Page/亀山千広.md "wikilink")、関一由、竹内淳
   - 原作 - [尾田栄一郎](../Page/尾田栄一郎.md "wikilink")
   - 企画 - [梅澤淳稔](../Page/梅澤淳稔.md "wikilink")
-  - 脚本 - [伊藤正宏](https://ja.wikipedia.org/wiki/伊藤正宏 "wikilink")
+  - 脚本 - [伊藤正宏](../Page/伊藤正宏.md "wikilink")
   - 音楽 - [田中公平](../Page/田中公平.md "wikilink")、[岩崎文紀](../Page/岩崎文紀.md "wikilink")
   - 製作担当 - 藤岡和実
   - 編集 - 後藤正浩
   - 録音 - 渡辺絵里奈
-  - 効果 - [新井秀徳](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")
+  - 効果 - [新井秀徳](../Page/フィズサウンドクリエイション.md "wikilink")
   - 撮影監督 - 高橋基、大西弘悟
   - CG監督 - 西川和宏
   - 美術監督 - 吉池隆司
@@ -94,7 +94,7 @@
   - カラクリメカデザイン - 大河広行
   - 作画監督補佐 - 三ツ井洋一、[舘直樹](../Page/舘直樹.md "wikilink")、井出武生
   - カラクリメカ作画監督 - 島貫正弘
-  - 監督 - [宇田鋼之介](https://ja.wikipedia.org/wiki/宇田鋼之介 "wikilink")
+  - 監督 - [宇田鋼之介](../Page/宇田鋼之介.md "wikilink")
 
 ## 主題歌
 

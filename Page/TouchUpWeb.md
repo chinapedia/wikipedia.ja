@@ -1,7 +1,7 @@
 > この記事は[TouchUpWeb](https://ja.wikipedia.org/wiki/TouchUpWeb)から翻訳されています。
 
 
-**TouchUpWeb**(タッチアップウェブ)とは、[IPAの](../Page/情報処理推進機構.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")度下期[オープンソースソフトウェア活用基盤整備事業](https://ja.wikipedia.org/wiki/オープンソースソフトウェア活用基盤整備事業 "wikilink")に採択され、開発されたソフトウェア自体、あるいはそのプロジェクトのこと。2009年4月7日にサービスを終了した。
+**TouchUpWeb**(タッチアップウェブ)とは、[IPAの](../Page/情報処理推進機構.md "wikilink")[2005年](../Page/2005年.md "wikilink")度下期[オープンソースソフトウェア活用基盤整備事業](https://ja.wikipedia.org/wiki/オープンソースソフトウェア活用基盤整備事業 "wikilink")に採択され、開発されたソフトウェア自体、あるいはそのプロジェクトのこと。2009年4月7日にサービスを終了した。
 
 [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink") 1.5以降で利用できる[拡張機能である](../Page/拡張機能_\(Mozilla\).md "wikilink")。この拡張機能を使えば、Mozilla Firefoxで閲覧が不可能であった[ウェブサイト](../Page/ウェブサイト.md "wikilink")をMozilla Firefoxで問題なく閲覧することができるようになる。ただし、それぞれのウェブサイト用に作成されたスクリプトを用いるという仕組みであるため、あらゆるウェブサイトに対する対策とはならない。
 
@@ -9,7 +9,7 @@
 
 ## 開発の背景
 
-学校へのLinux導入実験や自治体に対するアンケート結果などでは、[Microsoft Internet Explorerでしか閲覧できないウェブサイトが](https://ja.wikipedia.org/wiki/Microsoft_Internet_Explorer "wikilink")、オープンソース環境の導入障壁の一つとして挙げられている。この障壁へのアプローチとして、[ウェブスタンダードプロジェクト](https://ja.wikipedia.org/wiki/ウェブスタンダードプロジェクト "wikilink")や[もじら組](../Page/もじら組.md "wikilink")が推進している[ウェブ標準](https://ja.wikipedia.org/wiki/ウェブ標準 "wikilink")への啓蒙活動がある。しかし、啓蒙活動だけでは短期間でその障壁を無くすことは非常に困難である。そのため、TouchUpWebプロジェクトでは、既存のウェブサイトに対して動的にスクリプトを適用し、閲覧状況を改善するという[対症療法](https://ja.wikipedia.org/wiki/対症療法 "wikilink")的アプローチを採用した。「[\#プロジェクトへの非難](https://ja.wikipedia.org/wiki/#プロジェクトへの非難 "wikilink")」セクションに後述するように、このようなアプローチに対する非難も存在する。
+学校へのLinux導入実験や自治体に対するアンケート結果などでは、[Microsoft Internet Explorerでしか閲覧できないウェブサイトが](https://ja.wikipedia.org/wiki/Microsoft_Internet_Explorer "wikilink")、オープンソース環境の導入障壁の一つとして挙げられている。この障壁へのアプローチとして、[ウェブスタンダードプロジェクト](../Page/ウェブスタンダードプロジェクト.md "wikilink")や[もじら組](../Page/もじら組.md "wikilink")が推進している[ウェブ標準](../Page/ウェブ標準.md "wikilink")への啓蒙活動がある。しかし、啓蒙活動だけでは短期間でその障壁を無くすことは非常に困難である。そのため、TouchUpWebプロジェクトでは、既存のウェブサイトに対して動的にスクリプトを適用し、閲覧状況を改善するという[対症療法](../Page/対症療法.md "wikilink")的アプローチを採用した。「[\#プロジェクトへの非難](https://ja.wikipedia.org/wiki/#プロジェクトへの非難 "wikilink")」セクションに後述するように、このようなアプローチに対する非難も存在する。
 
 ## ソフトウェアの構成
 
@@ -17,7 +17,7 @@ TouchUpWebソフトウェアは、[Mozilla Firefox用](../Page/Mozilla_Firefox.m
 
 ### TouchUpWeb機能拡張
 
-Mozilla Firefox 1.5以降に対応した拡張機能。別途インストールする[Greasemonkey](https://ja.wikipedia.org/wiki/Greasemonkey "wikilink")という拡張機能連携して、ウェブサイト閲覧状況を改善する機能を有する。以下のような機能を持つ。
+Mozilla Firefox 1.5以降に対応した拡張機能。別途インストールする[Greasemonkey](../Page/Greasemonkey.md "wikilink")という拡張機能連携して、ウェブサイト閲覧状況を改善する機能を有する。以下のような機能を持つ。
 
   - サイトに適用可能なスクリプトを検索し、ダウンロードする機能
   - スクリプト情報の表示機能

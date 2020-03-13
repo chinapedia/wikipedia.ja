@@ -3,7 +3,7 @@
 
 [Adidas_Run_DMC_shoe.jpg](https://ja.wikipedia.org/wiki/File:Adidas_Run_DMC_shoe.jpg "fig:Adidas_Run_DMC_shoe.jpg") **Run-D.M.C.**（ラン・ディーエムシー）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")市出身の[ヒップホップ](../Page/ヒップホップ.md "wikilink")・グループ。ラップとロックを融合した先駆け的存在として知られている。[2002年](../Page/2002年.md "wikilink")に活動休止。
 
-[ローリング・ストーン](https://ja.wikipedia.org/wiki/ローリング・ストーン "wikilink")誌の「オールタイム・グレイテスト・アーティスト100」において第48位\[1\]。
+[ローリング・ストーン](../Page/ローリング・ストーン.md "wikilink")誌の「オールタイム・グレイテスト・アーティスト100」において第48位\[1\]。
 
 ## メンバー
 
@@ -15,13 +15,13 @@
 
 1980年代初期より、[ジェイソン・ミゼル](https://ja.wikipedia.org/wiki/ジャム・マスター・ジェイ "wikilink")（ジャム・マスター・ジェイ）と[ジョゼフ・シモンズ](https://ja.wikipedia.org/wiki/ジョゼフ・シモンズ "wikilink")（Run）、[ダリル・マクダニエルズ](https://ja.wikipedia.org/wiki/ダリル・マクダニエルズ "wikilink")（D.M.C.）は、オレンジ・クラッシュとして活動していた。1982年、Run-D.M.C.に改名し、翌年に「It's Like That」でシングル・デビュー。1984年のファースト・アルバム「[Run-D.M.C.](https://ja.wikipedia.org/wiki/Run-D.M.C._\(アルバム\) "wikilink")」は、ミリオン・ヒットを記録し、ヒップ・ホップのアルバムとして、初のゴールド・ディスクを獲得。1985年の主演映画「[クラッシュ・グルーブ](https://ja.wikipedia.org/wiki/クラッシュ・グルーブ "wikilink")」は、全米週末興行収入成績第2位を記録するヒットとなった\[2\]。
 
-1986年8月、[エアロスミス](https://ja.wikipedia.org/wiki/エアロスミス "wikilink")のヒット曲「[ウォーク・ディス・ウェイ](https://ja.wikipedia.org/wiki/ウォーク・ディス・ウェイ "wikilink")（Walk This Way）」をモチーフにした同名曲が、全米チャート4位（[Billboard Hot 100](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")）を記録（トラックはサンプリングをせず、エアロスミスの[スティーヴン・タイラー](https://ja.wikipedia.org/wiki/スティーヴン・タイラー "wikilink")と[ジョー・ペリー](https://ja.wikipedia.org/wiki/ジョー・ペリー "wikilink")がレコーディングに参加している。また、ミュージック・ビデオにもゲスト出演した）。アルバム「[レイジング・ヘル](https://ja.wikipedia.org/wiki/レイジング・ヘル "wikilink")」の売り上げは、200万枚を記録した。 彼らが着用していた[アディダス](../Page/アディダス.md "wikilink")のスニーカー「スーパースター」やカンゴールのハットは、[オールドスクール・ヒップホップ](../Page/オールドスクール・ヒップホップ.md "wikilink")の[ヒップホップ系ファッション](../Page/ヒップホップ系ファッション.md "wikilink")として定着している。
+1986年8月、[エアロスミス](../Page/エアロスミス.md "wikilink")のヒット曲「[ウォーク・ディス・ウェイ](https://ja.wikipedia.org/wiki/ウォーク・ディス・ウェイ "wikilink")（Walk This Way）」をモチーフにした同名曲が、全米チャート4位（[Billboard Hot 100](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")）を記録（トラックはサンプリングをせず、エアロスミスの[スティーヴン・タイラー](../Page/スティーヴン・タイラー.md "wikilink")と[ジョー・ペリー](../Page/ジョー・ペリー.md "wikilink")がレコーディングに参加している。また、ミュージック・ビデオにもゲスト出演した）。アルバム「[レイジング・ヘル](https://ja.wikipedia.org/wiki/レイジング・ヘル "wikilink")」の売り上げは、200万枚を記録した。 彼らが着用していた[アディダス](../Page/アディダス.md "wikilink")のスニーカー「スーパースター」やカンゴールのハットは、[オールドスクール・ヒップホップ](../Page/オールドスクール・ヒップホップ.md "wikilink")の[ヒップホップ系ファッション](../Page/ヒップホップ系ファッション.md "wikilink")として定着している。
 
-1998年3月に、Run-D.M.C. Vs. Jason Nevinsの名義で「It's Like That」をリリースし、全英チャート1位（Music Week）を記録\[3\]。[フジテレビ系列で深夜に放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[BEAT UK](https://ja.wikipedia.org/wiki/BEAT_UK "wikilink")』のUKシングルチャートでもNo.1を獲得。
+1998年3月に、Run-D.M.C. Vs. Jason Nevinsの名義で「It's Like That」をリリースし、全英チャート1位（Music Week）を記録\[3\]。[フジテレビ系列で深夜に放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[BEAT UK](https://ja.wikipedia.org/wiki/BEAT_UK "wikilink")』のUKシングルチャートでもNo.1を獲得。
 
 2002年10月30日、ジャム・マスター・ジェイがレコーディング・スタジオで射殺され、グループは活動休止を余儀なくされた。
 
-[2009年](../Page/2009年.md "wikilink")、[ロックの殿堂](https://ja.wikipedia.org/wiki/ロックの殿堂 "wikilink")入りを果たす。授賞式でプレゼンターを務めた[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")は、彼らに敬意を払って黒のレザージャケット、シャツ、パンツに黒の[フェドーラ帽](https://ja.wikipedia.org/wiki/フェドーラ帽 "wikilink")のファッションで登場した\[4\]。
+[2009年](../Page/2009年.md "wikilink")、[ロックの殿堂](../Page/ロックの殿堂.md "wikilink")入りを果たす。授賞式でプレゼンターを務めた[エミネム](https://ja.wikipedia.org/wiki/エミネム "wikilink")は、彼らに敬意を払って黒のレザージャケット、シャツ、パンツに黒の[フェドーラ帽](https://ja.wikipedia.org/wiki/フェドーラ帽 "wikilink")のファッションで登場した\[4\]。
 
 ## ディスコグラフィ
 
@@ -532,7 +532,7 @@ ft. Pete Rock &amp; CL Smooth</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards" title="wikilink">MTV Video Music Awards 1987</a></p></td>
+<td><p><a href="../Page/MTV_Video_Music_Awards.md" title="wikilink">MTV Video Music Awards 1987</a></p></td>
 <td><p>最優秀ステージ・パフォーマンス賞</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウォーク・ディス・ウェイ#Run–D.M.C.によるカバー" title="wikilink">Walk This Way</a></p></td>
 <td></td>
@@ -568,7 +568,7 @@ ft. Pete Rock &amp; CL Smooth</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロックの殿堂" title="wikilink">ロックの殿堂</a></p></td>
+<td><p><a href="../Page/ロックの殿堂.md" title="wikilink">ロックの殿堂</a></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>

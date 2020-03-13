@@ -9,13 +9,13 @@
   - [マルチメディアカード](../Page/マルチメディアカード.md "wikilink") (*Multimedia Card*) の略称
   - 金属基複合材料 (*Metal Matrix Composites*) の略称
   - [Microsoft 管理コンソール](https://ja.wikipedia.org/wiki/Microsoft_管理コンソール "wikilink") (*Microsoft Management Console*) の略称
-  - [村田製作所](https://ja.wikipedia.org/wiki/村田製作所 "wikilink") (*Murata Manufacturing Company*) の略称
+  - [村田製作所](../Page/村田製作所.md "wikilink") (*Murata Manufacturing Company*) の略称
   - [MIDIマシンコントロール](https://ja.wikipedia.org/wiki/MIDI#MIDIマシンコントロール "wikilink") (*MIDI Machine Control*) の略称
   - [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")などの[ROM](https://ja.wikipedia.org/wiki/ROM "wikilink")カートリッジに搭載された拡張メモリアクセス機能(*Memory Management Controller*)の略称
 
 ## 自動車
 
-  - [三菱マテリアル](https://ja.wikipedia.org/wiki/三菱マテリアル "wikilink") (*Mitsubishi Material Co.)* の略称 mmc.co.jp[ドメインを取得している](../Page/ドメイン名.md "wikilink")。
+  - [三菱マテリアル](../Page/三菱マテリアル.md "wikilink") (*Mitsubishi Material Co.)* の略称 mmc.co.jp[ドメインを取得している](../Page/ドメイン名.md "wikilink")。
   - [三菱自動車工業](../Page/三菱自動車工業.md "wikilink") (*Mitsubishi Motors Corp.)* のかつての略称
       - 同社のグループ会社の一部に商号として使われている（例→[MMCダイヤモンドファイナンス](../Page/MMCダイヤモンドファイナンス.md "wikilink")）
   - [モーリス自動車](../Page/モーリス_\(自動車\).md "wikilink") (*The Morris Motor Company*) の略称

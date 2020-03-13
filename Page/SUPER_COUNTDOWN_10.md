@@ -9,7 +9,7 @@
 
 ## パーソナリティ
 
-  - [吉田涙子](https://ja.wikipedia.org/wiki/吉田涙子 "wikilink")（[文化放送](../Page/文化放送.md "wikilink")元アナウンサー、現在同局報道記者。）
+  - [吉田涙子](../Page/吉田涙子.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")元アナウンサー、現在同局報道記者。）
 
 ## 音楽チャートの内容
 
@@ -44,7 +44,7 @@
 
   - [全国歌謡ベストテン](../Page/全国歌謡ベストテン.md "wikilink")
   - [決定\!全日本歌謡選抜](../Page/決定!全日本歌謡選抜.md "wikilink")
-  - [スパカン\!](https://ja.wikipedia.org/wiki/スパカン! "wikilink")
+  - [スパカン\!](../Page/スパカン!.md "wikilink")
   - [J-Hits COUNTDOWN](../Page/J-Hits_COUNTDOWN.md "wikilink")
 
 [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink")

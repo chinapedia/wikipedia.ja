@@ -1,13 +1,13 @@
 > この記事は[LONGS](https://ja.wikipedia.org/wiki/LONGS)から翻訳されています。
 
 
-**LONGS** （ロングス、長信銀・商中キャッシュサービス）は、[新生銀行](../Page/新生銀行.md "wikilink")・[あおぞら銀行](../Page/あおぞら銀行.md "wikilink")・[商工組合中央金庫](https://ja.wikipedia.org/wiki/商工組合中央金庫 "wikilink")による[キャッシュサービスの](../Page/現金自動預け払い機.md "wikilink")[ネットワークである](../Page/コンピュータネットワーク.md "wikilink")。
+**LONGS** （ロングス、長信銀・商中キャッシュサービス）は、[新生銀行](../Page/新生銀行.md "wikilink")・[あおぞら銀行](../Page/あおぞら銀行.md "wikilink")・[商工組合中央金庫](../Page/商工組合中央金庫.md "wikilink")による[キャッシュサービスの](../Page/現金自動預け払い機.md "wikilink")[ネットワークである](../Page/コンピュータネットワーク.md "wikilink")。
 
 ## 概要
 
 [1984年](../Page/1984年.md "wikilink")3月から[郵政省](../Page/郵政省.md "wikilink")は[郵便貯金](../Page/郵便貯金.md "wikilink")の[全国オンラインシステムネットワークを稼働し](../Page/金融機関のオンラインシステム.md "wikilink")、全国の[郵便局](../Page/郵便局.md "wikilink")に設置された2万台のCD・ATMから現金を引き出せるサービスを開始した。これは民間金融機関にとっては看過し得ない問題となった。このため、各業態間で[郵貯ネットワークに対抗できるネットワークについて](../Page/郵便貯金システム.md "wikilink")、検討・協議が重ねられた\[1\]。
 
-協議の結果、[地方銀行](../Page/地方銀行.md "wikilink")の[全国カードサービス](https://ja.wikipedia.org/wiki/全国カードサービス "wikilink")（ACS）と[都市銀行](../Page/都市銀行.md "wikilink")の[都銀キャッシュサービス](../Page/BANCS.md "wikilink")（BANCS)の提携が、まず実施されることとなり、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")2月5日から地銀と都銀の業態間のオンライン提携である[全国キャッシュサービス](https://ja.wikipedia.org/wiki/全国キャッシュサービス "wikilink")（MICS）が稼動した。この地銀と都銀の提携を機に、MICSを介した業態間のオンライン提携が進められ\[2\]、同年5月には[第二地方銀行](../Page/第二地方銀行.md "wikilink")、[信託銀行](../Page/信託銀行.md "wikilink")、同年7月から[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")、[信用組合](../Page/信用組合.md "wikilink")、[農業協同組合](../Page/農業協同組合.md "wikilink")、[労働金庫](../Page/労働金庫.md "wikilink")の各業態が提携した\[3\]。
+協議の結果、[地方銀行](../Page/地方銀行.md "wikilink")の[全国カードサービス](../Page/全国カードサービス.md "wikilink")（ACS）と[都市銀行](../Page/都市銀行.md "wikilink")の[都銀キャッシュサービス](../Page/BANCS.md "wikilink")（BANCS)の提携が、まず実施されることとなり、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")2月5日から地銀と都銀の業態間のオンライン提携である[全国キャッシュサービス](https://ja.wikipedia.org/wiki/全国キャッシュサービス "wikilink")（MICS）が稼動した。この地銀と都銀の提携を機に、MICSを介した業態間のオンライン提携が進められ\[2\]、同年5月には[第二地方銀行](../Page/第二地方銀行.md "wikilink")、[信託銀行](../Page/信託銀行.md "wikilink")、同年7月から[信用金庫](https://ja.wikipedia.org/wiki/信用金庫 "wikilink")、[信用組合](../Page/信用組合.md "wikilink")、[農業協同組合](../Page/農業協同組合.md "wikilink")、[労働金庫](../Page/労働金庫.md "wikilink")の各業態が提携した\[3\]。
 
 この提携に取り残された[長期信用銀行](../Page/長期信用銀行.md "wikilink")の[日本興業銀行](../Page/日本興業銀行.md "wikilink")、[日本長期信用銀行](../Page/日本長期信用銀行.md "wikilink")、[日本債券信用銀行](../Page/日本債券信用銀行.md "wikilink")の3行と[商工中金](https://ja.wikipedia.org/wiki/商工中金 "wikilink")は、店舗数が少ないため、オンライン提携の実施に関して、都銀の一部から「利点が少ない」との声が出ていた。しかし、郵便貯金のオンライン網に対抗することなどを考慮し、1992年11月に長信銀側の提携要望を受け入れる事になった。また当時、長信銀と商工中金はオンラインを開放していなかったため\[4\]、共同システムを構築することになった。
 
@@ -21,7 +21,7 @@ LONGSは、MICSを介しBANCSおよび信託銀行オンラインキャッシュ
 
 [2015年](../Page/2015年.md "wikilink")初頭までに、新生銀行は自行ATMのすべてを[セブン銀行](../Page/セブン銀行.md "wikilink")ATMに切り替えた。このためATMの設置はあおぞら銀行と商工中金のみとなり、新生銀行は事実上ネットワークへの接続のみの状態となっている。
 
-[2007年](../Page/2007年.md "wikilink")9月、新生銀行が三浦藤沢信用金庫(後の[かながわ信用金庫](https://ja.wikipedia.org/wiki/かながわ信用金庫 "wikilink"))との直接による相互接続を行った。しかし、前述の通り、新生銀行が自行ATMをすべてセブン銀行に入れ替えるなど、環境の変化が生じたため、かながわ信金側への事実上の片方向接続状態を経て、[2015年](../Page/2015年.md "wikilink")12月31日を以て接続は解除となった。
+[2007年](../Page/2007年.md "wikilink")9月、新生銀行が三浦藤沢信用金庫(後の[かながわ信用金庫](../Page/かながわ信用金庫.md "wikilink"))との直接による相互接続を行った。しかし、前述の通り、新生銀行が自行ATMをすべてセブン銀行に入れ替えるなど、環境の変化が生じたため、かながわ信金側への事実上の片方向接続状態を経て、[2015年](../Page/2015年.md "wikilink")12月31日を以て接続は解除となった。
 
 [2018年](../Page/2018年.md "wikilink")8月27日より、あおぞら銀行は自行のATMをゆうちょ銀行のATMに転換する旨を発表し、年内に置き替えを完了させる。
 

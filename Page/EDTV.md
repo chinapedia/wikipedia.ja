@@ -1,11 +1,11 @@
 > この記事は[EDTV](https://ja.wikipedia.org/wiki/EDTV)から翻訳されています。
 
 
-**EDTV**とはEnhanced Definition Televisionの略称で、一般的に[480i](https://ja.wikipedia.org/wiki/480i "wikilink")（[NTSC](../Page/NTSC.md "wikilink")）や[576i](https://ja.wikipedia.org/wiki/576i "wikilink")（[PAL](../Page/PAL.md "wikilink")）などの[インターレーススキャン（飛越走査）とは対照的にそれぞれ](https://ja.wikipedia.org/wiki/走査 "wikilink")[480p](https://ja.wikipedia.org/wiki/480p "wikilink")（NTSC）や[576p](https://ja.wikipedia.org/wiki/576p "wikilink")のプログレッシブスキャン（順次走査）で表示するための機器や信号、放送方式を指す。通常EDTVは[SDTVにおけるプログレッシブスキャンのものを指し](../Page/標準画質映像.md "wikilink")[HDTVとはみなされないが国によって事情が異なる場合があり](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")、例えばオーストラリアでは576pデジタルTVがHDTVとされる\[1\]。なお日本におけるEDTV放送は[クリアビジョン](https://ja.wikipedia.org/wiki/クリアビジョン "wikilink")および[ワイドクリアビジョン](../Page/ワイドクリアビジョン.md "wikilink")である。
+**EDTV**とはEnhanced Definition Televisionの略称で、一般的に[480i](https://ja.wikipedia.org/wiki/480i "wikilink")（[NTSC](../Page/NTSC.md "wikilink")）や[576i](https://ja.wikipedia.org/wiki/576i "wikilink")（[PAL](../Page/PAL.md "wikilink")）などの[インターレーススキャン（飛越走査）とは対照的にそれぞれ](../Page/走査.md "wikilink")[480p](https://ja.wikipedia.org/wiki/480p "wikilink")（NTSC）や[576p](https://ja.wikipedia.org/wiki/576p "wikilink")のプログレッシブスキャン（順次走査）で表示するための機器や信号、放送方式を指す。通常EDTVは[SDTVにおけるプログレッシブスキャンのものを指し](../Page/標準画質映像.md "wikilink")[HDTVとはみなされないが国によって事情が異なる場合があり](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")、例えばオーストラリアでは576pデジタルTVがHDTVとされる\[1\]。なお日本におけるEDTV放送は[クリアビジョン](https://ja.wikipedia.org/wiki/クリアビジョン "wikilink")および[ワイドクリアビジョン](../Page/ワイドクリアビジョン.md "wikilink")である。
 
 ## 接続性
 
-EDTV信号はSDTV信号より多くの帯域幅を必要とするため、[コンポジットビデオケーブルや](https://ja.wikipedia.org/wiki/コンポジット端子 "wikilink")[S-ビデオケーブルではなくより高い帯域幅が保障されたケーブルを使用する必要がある](../Page/S端子.md "wikilink")。 少なくともD端子ケーブルやコンポーネントビデオケーブル、VGAコネクタ、DVIまたはHDMIコネクタを用いて、プログレッシブ出力対応[DVDプレーヤー](https://ja.wikipedia.org/wiki/DVDプレーヤー "wikilink")か現世代のゲーム機などの家電製品を接続する必要がある。
+EDTV信号はSDTV信号より多くの帯域幅を必要とするため、[コンポジットビデオケーブルや](https://ja.wikipedia.org/wiki/コンポジット端子 "wikilink")[S-ビデオケーブルではなくより高い帯域幅が保障されたケーブルを使用する必要がある](../Page/S端子.md "wikilink")。 少なくともD端子ケーブルやコンポーネントビデオケーブル、VGAコネクタ、DVIまたはHDMIコネクタを用いて、プログレッシブ出力対応[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")か現世代のゲーム機などの家電製品を接続する必要がある。
 
 ## 放送と表示機器
 

@@ -5,13 +5,13 @@
 
 ## 概要
 
-『新撰組異聞PEACE MAKER』では、主人公[鉄之助の](../Page/市村鉄之助.md "wikilink")[新撰組](https://ja.wikipedia.org/wiki/新撰組 "wikilink")入隊から[池田屋事件](../Page/池田屋事件.md "wikilink")までが描かれている。これらの時期など細部は史実と異なるものの、時代の大きな流れに沿ってストーリーが展開する。[エニックスお家騒動](https://ja.wikipedia.org/wiki/エニックスお家騒動 "wikilink")により掲載誌を『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』（[マッグガーデン](https://ja.wikipedia.org/wiki/マッグガーデン "wikilink")）へと移し、池田屋事件から3ヶ月後となる第二部『PEACE MAKER鐵』が連載されたが、2005年春以降休載。その後2009年秋から2010年9月まで、ケータイサイト「コミックi」および「コミックシーモア」にて5巻の続きとなる『PEACE MAKER鐵 油小路編』が配信された。2013年12月にマッグガーデンから刊行された[ムック](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")『時代活劇画伝―斬―ZAN』において新章となる『PEACE MAKER鐵 北上篇』の初回を掲載後、翌2014年1月よりマッグガーデンの[ウェブコミック](https://ja.wikipedia.org/wiki/ウェブコミック "wikilink")配信サイト『WEBコミックBeat's（現：MAGCOMI（マグコミ））』にて連載を再開している。同年9月からは『[月刊コミックガーデン](https://ja.wikipedia.org/wiki/月刊コミックガーデン "wikilink")』（マッグガーデン）でも連載されるようになった。（『月刊コミックガーデン』と『MAGCOMI』の掲載内容の違いはないが、毎月の最新話の更新は『月刊コミックガーデン』の方が早い。）
+『新撰組異聞PEACE MAKER』では、主人公[鉄之助の](../Page/市村鉄之助.md "wikilink")[新撰組](https://ja.wikipedia.org/wiki/新撰組 "wikilink")入隊から[池田屋事件](../Page/池田屋事件.md "wikilink")までが描かれている。これらの時期など細部は史実と異なるものの、時代の大きな流れに沿ってストーリーが展開する。[エニックスお家騒動](../Page/エニックスお家騒動.md "wikilink")により掲載誌を『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』（[マッグガーデン](../Page/マッグガーデン.md "wikilink")）へと移し、池田屋事件から3ヶ月後となる第二部『PEACE MAKER鐵』が連載されたが、2005年春以降休載。その後2009年秋から2010年9月まで、ケータイサイト「コミックi」および「コミックシーモア」にて5巻の続きとなる『PEACE MAKER鐵 油小路編』が配信された。2013年12月にマッグガーデンから刊行された[ムック](../Page/ムック_\(出版\).md "wikilink")『時代活劇画伝―斬―ZAN』において新章となる『PEACE MAKER鐵 北上篇』の初回を掲載後、翌2014年1月よりマッグガーデンの[ウェブコミック](../Page/ウェブコミック.md "wikilink")配信サイト『WEBコミックBeat's（現：MAGCOMI（マグコミ））』にて連載を再開している。同年9月からは『[月刊コミックガーデン](https://ja.wikipedia.org/wiki/月刊コミックガーデン "wikilink")』（マッグガーデン）でも連載されるようになった。（『月刊コミックガーデン』と『MAGCOMI』の掲載内容の違いはないが、毎月の最新話の更新は『月刊コミックガーデン』の方が早い。）
 
 ## あらすじ
 
 物語は元治元年（[1864年](../Page/1864年.md "wikilink")）3月の[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")から始まる。両親を長州藩士に殺された市村鉄之助は、強くなりたい一心で兄・辰之助に付いて[新撰組](https://ja.wikipedia.org/wiki/新撰組 "wikilink")の門を叩く。しかし見た目と態度の悪さから“チビ”とあしらわれ、中々入れてもらえない。そんな折ひょんなことから出会った新撰組隊士の一人・沖田総司の仲立ちでなんとか入隊許可が降りた。土方の小姓となるも、当初の目的である修行のイメージとは異なる自分の立場に不満を感じ葛藤する。
 
-そんな中で新撰組局長・[近藤勇](https://ja.wikipedia.org/wiki/近藤勇 "wikilink")や副長・[土方歳三](../Page/土方歳三.md "wikilink")らと出会い、徐々に鉄之助も組に慣れていった。そんなある日、新撰組の敵役である[尊皇攘夷](https://ja.wikipedia.org/wiki/尊皇攘夷 "wikilink")派の長州藩士・[吉田稔麿](../Page/吉田稔麿.md "wikilink")が[京の町々に放火する騒動を起こす](https://ja.wikipedia.org/wiki/京都 "wikilink")。その最中に鉄之助は一人の少年と町で大喧嘩をしてしまう。少年の名は北村鈴。鈴は吉田に仕える小姓だった。また花街[島原で](../Page/島原_\(京都\).md "wikilink")、鉄之助は以前町で絡まれている所を助けた[禿](../Page/禿.md "wikilink")・沙夜と淡い恋に落ちる。さらに鉄之助はそこで偶然にも鈴と再会し、2人はすぐ友達になるが、廓を訪れた吉田のために再び会えなくなってしまう。その一方で鉄之助の入隊を反対していた辰之助も唯一の家族である鉄之助を想い苦悩する。この他、土方と[山南敬助](../Page/山南敬助.md "wikilink")の確執、沖田に忍び寄る病魔の影など、それぞれの想いが様々に交錯する。互いが心の靄を晴らし切れないまま、物語は[池田屋事件](../Page/池田屋事件.md "wikilink")へと突入する。
+そんな中で新撰組局長・[近藤勇](../Page/近藤勇.md "wikilink")や副長・[土方歳三](../Page/土方歳三.md "wikilink")らと出会い、徐々に鉄之助も組に慣れていった。そんなある日、新撰組の敵役である[尊皇攘夷](https://ja.wikipedia.org/wiki/尊皇攘夷 "wikilink")派の長州藩士・[吉田稔麿](../Page/吉田稔麿.md "wikilink")が[京の町々に放火する騒動を起こす](https://ja.wikipedia.org/wiki/京都 "wikilink")。その最中に鉄之助は一人の少年と町で大喧嘩をしてしまう。少年の名は北村鈴。鈴は吉田に仕える小姓だった。また花街[島原で](../Page/島原_\(京都\).md "wikilink")、鉄之助は以前町で絡まれている所を助けた[禿](../Page/禿.md "wikilink")・沙夜と淡い恋に落ちる。さらに鉄之助はそこで偶然にも鈴と再会し、2人はすぐ友達になるが、廓を訪れた吉田のために再び会えなくなってしまう。その一方で鉄之助の入隊を反対していた辰之助も唯一の家族である鉄之助を想い苦悩する。この他、土方と[山南敬助](../Page/山南敬助.md "wikilink")の確執、沖田に忍び寄る病魔の影など、それぞれの想いが様々に交錯する。互いが心の靄を晴らし切れないまま、物語は[池田屋事件](../Page/池田屋事件.md "wikilink")へと突入する。
 
 ## 登場人物
 
@@ -54,7 +54,7 @@
   - [斎藤一](../Page/斎藤一.md "wikilink")（さいとう はじめ）
     新撰組三番隊隊長で沖田と1、2を争う剣の実力の持ち主。物静かだが何事にも動じず、つかみどころのない性格。霊感が強く、死者の魂と対話できる。また幼少時代から未来を先読みすることが出来たという。よく蕎麦を鉄之助に奢らせ、食べに行く姿が多く見られる。幼いころから己の千里眼のために人生を諦観していたが、油小路の変で海援隊に幽閉された鉄之助と差し向かいで対峙し、己の意志も歴史を動かす歯車になり得ることを悟る。そして終局の後に鉄之助の旅路に付き合う覚悟を決め、彼と共に歩んでいく意思を示した。
     油小路の一件の後は新しい己を始めるという一心と、間者とはいえかつて御陵衛士として活動していたことから「山口二郎」と名前を変えた。鉄之助には御陵衛士の残党や鈴が改心に失敗した場合に更なる復讐を仕掛けてくる可能性があることを知らせ、用心を促した。
-  - [近藤勇](https://ja.wikipedia.org/wiki/近藤勇 "wikilink")（こんどう いさみ）
+  - [近藤勇](../Page/近藤勇.md "wikilink")（こんどう いさみ）
     新撰組局長。大らかな性格で鉄之助にも優しく接するが、時には局長としての厳格な一面も見せている。情に厚い人物である。
     油小路の一件の後、辰之助から小銃の開発・製造の許可の申請を受けた際、辰之助が独学で銃を製造したことに感心しつつも新選組は飛び道具に頼らない剣客集団であるべきという気持ちから申請を却下しようとした。また、倒幕の密勅を受けた薩長軍との戦に備える際にも土方から小銃隊を作ることを検討されるも「戦は己の剣の腕前と刀に込めた気迫によって決まる」と譲らなかった。
   - [山南敬助](../Page/山南敬助.md "wikilink")（やまなみ けいすけ）
@@ -69,10 +69,10 @@
     北上篇より登場。銀之助の長兄であり、銀之助からは「一兄」と呼ばれている。弟想いだが度々起きる銀之助の暴走には頭を悩ませている。新政府軍との戦いで北上した際は2人の弟とともに石巻の地で戦って死のうと言っていたが、本当はまだ幼い銀之助だけでも蝦夷に逃がしてやりたいと思っていた。銀之助の蝦夷行きが決まった後も録五郎とともに石巻に残り、銀之助と別れた。
   - [田村録五郎](https://ja.wikipedia.org/wiki/田村録五郎 "wikilink")（たむら ろくごろう）
     北上篇より登場。銀之助の次兄であり、銀之助からは「録兄」と呼ばれている。弟の銀之助が暴走した際には容赦なく鉄拳制裁を加えている。兄一郎と比べると少しドライな性格であり、子供ながらも新選組の戦力として蝦夷行きを強く望む銀之助に対して外見だけでなく精神的な幼さも指摘していた。銀之助の蝦夷行きが決まった後も一郎とともに石巻に残り、銀之助と別れた。
-  - [野村利三郎](https://ja.wikipedia.org/wiki/野村利三郎 "wikilink")（のむら りさぶろう）
+  - [野村利三郎](../Page/野村利三郎.md "wikilink")（のむら りさぶろう）
     北上篇より登場。土方のことを大変尊敬しており、その敬愛ぶりは鉄之助が土方のお下がりの隊服を着ているのを見て嫉妬の怒りをぶつけるほど。ガラは悪いが仲間の面倒見の良さは土方も評価しており、最年少の銀之助に対しても兄貴分として気さくに接していた。無愛想な上戦闘中に敵味方問わず死者を大量に出す鉄之助を快く思っておらず、戦闘中の「死神」による殺人も、鉄之助の自作自演で実際に自分で殺しているのではないかと思っている。
-  - [三好胖](https://ja.wikipedia.org/wiki/三好胖 "wikilink")（みよし ゆたか）
-    北上篇より登場。本名は小笠原胖之助。[唐津藩](https://ja.wikipedia.org/wiki/唐津藩 "wikilink")藩主の息子であり、丁寧な口調で話す。鉄之助の戦闘を理解しており、「死神」は鉄之助による自作自演という野村の主張に反論、鉄之助もまた「死神」による殺人によって心を痛めている被害者であると主張した。蝦夷地での新政府軍との戦闘で敵からの攻撃で絶体絶命の危機に陥った時、自分を助けに駆けつける鉄之助の姿を見て自分の主張は間違っていなかったことを確信するも、鉄之助が駆けつけたことにより彼の半径十尺以内に入ってしまい、「死神」の銃撃を受け死亡した。
+  - [三好胖](../Page/三好胖.md "wikilink")（みよし ゆたか）
+    北上篇より登場。本名は小笠原胖之助。[唐津藩](../Page/唐津藩.md "wikilink")藩主の息子であり、丁寧な口調で話す。鉄之助の戦闘を理解しており、「死神」は鉄之助による自作自演という野村の主張に反論、鉄之助もまた「死神」による殺人によって心を痛めている被害者であると主張した。蝦夷地での新政府軍との戦闘で敵からの攻撃で絶体絶命の危機に陥った時、自分を助けに駆けつける鉄之助の姿を見て自分の主張は間違っていなかったことを確信するも、鉄之助が駆けつけたことにより彼の半径十尺以内に入ってしまい、「死神」の銃撃を受け死亡した。
   - [島田魁](../Page/島田魁.md "wikilink")（しまだ かい）
     北上篇からの登場だが新選組の古株隊士。大柄な体格で力もあり、近藤、土方からの信頼も厚い。土方の小姓としての役割を務める鉄之助を温かく見守っている。戊辰戦争が始まってからは鉄之助や斎藤達と行動を共にすることが多くなった。情に厚く涙もろい性格でもあり、近藤が流山にて新政府軍の追求を受け切腹を決意した時は涙ながらに介錯の役割を買って出ようとした。
   - [斎藤一諾斎](https://ja.wikipedia.org/wiki/斎藤一諾斎 "wikilink")（さいとう いちだくさい）
@@ -103,7 +103,7 @@
   - [吉田稔麿](../Page/吉田稔麿.md "wikilink")（よしだ としまろ）
     [長州藩](../Page/長州藩.md "wikilink")士。吉田松陰の愛弟子として崇高な理念を持ち活動。京都では桝屋喜右衛門こと古高俊太郎の家に他の長州藩士と共に居住する。鈴が尊敬する師だったが、池田屋事件では臆することなく新撰組と戦い、敗死する。
   - [坂本龍馬](../Page/坂本龍馬.md "wikilink")（さかもと りょうま）
-    [土佐藩](../Page/土佐藩.md "wikilink")士。鉄之助と辰之助の父親のことを知っているようだ。[ドレッドヘアに](../Page/ドレッドロックス.md "wikilink")[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")、[テンガロンハット](../Page/テンガロンハット.md "wikilink")にブーツ、ピストルが特徴。後に京都・[近江屋で中岡慎太郎と共に襲撃され](https://ja.wikipedia.org/wiki/近江屋事件 "wikilink")、鉄之助に変装した鈴に斬り殺された。
+    [土佐藩](../Page/土佐藩.md "wikilink")士。鉄之助と辰之助の父親のことを知っているようだ。[ドレッドヘアに](../Page/ドレッドロックス.md "wikilink")[サングラス](../Page/サングラス.md "wikilink")、[テンガロンハット](../Page/テンガロンハット.md "wikilink")にブーツ、ピストルが特徴。後に京都・[近江屋で中岡慎太郎と共に襲撃され](../Page/近江屋事件.md "wikilink")、鉄之助に変装した鈴に斬り殺された。
   - [中岡慎太郎](../Page/中岡慎太郎.md "wikilink")（なかおか しんたろう）
     土佐藩士。龍馬の仲間。豪快でしっかり者の性格。後に龍馬と共に京都・近江屋で鈴に襲撃され、膕と戦い瀕死の重傷を負わされてその翌々日に死亡した。
   - [桂小五郎](../Page/木戸孝允.md "wikilink")（かつら こごろう）
@@ -123,7 +123,7 @@
 
 ### 旧幕府軍
 
-  - [大鳥圭介](https://ja.wikipedia.org/wiki/大鳥圭介 "wikilink")（おおとり けいすけ）
+  - [大鳥圭介](../Page/大鳥圭介.md "wikilink")（おおとり けいすけ）
     幕臣であり歩兵奉行を務めている。[鳥羽・伏見の戦い](../Page/鳥羽・伏見の戦い.md "wikilink")以降幕府の恭順姿勢に従わない"主戦派"の幕臣・軍人約2000人をまとめている総督であり、旧幕府軍主力の西洋式軍隊「[伝習隊](../Page/伝習隊.md "wikilink")」の隊長でもある。医学・蘭学・兵学・工学・建築学・西洋兵学・英語・写真技術等、様々な分野に優れており、多くの旧幕府軍兵から慕われている。常に笑顔を絶やさず無邪気な面が目立つ一方、新政府軍相手に苦戦を強いられている味方の兵を皮肉る等腹黒い一面ある。実戦経験豊富で頭のきれる土方に目をつけ、彼に僅かな兵を与え最前線で戦わせて実力を試している。
   - [秋月登之助](https://ja.wikipedia.org/wiki/秋月登之助 "wikilink")（あきづき のぼりのすけ）
     [会津藩](../Page/会津藩.md "wikilink")士。大鳥の下伝習隊に加わっており、宇都宮城争奪戦では先鋒隊指揮官として土方と共に戦う。謙虚な性格であり、土方の上官にあたる立場ではあるものの自身よりも年長で豊富な実績を持つ土方に対して尊敬の念を抱いている。（単行本12巻のおまけ漫画では上官であるにも関わらず土方に上座の席を譲ろうとして断られている。）
@@ -136,8 +136,8 @@
     [薩摩藩](../Page/薩摩藩.md "wikilink")士。片目が義眼で片足も義足であるが抜群の戦闘力を誇り、常に肉体の鍛錬を怠らない武人。自ら仕留めた熊の毛皮を軍帽としてかぶっており、義足には仕込み刀を備えている。軍略家としても一流で、戊辰戦争では新政府軍参謀として旧幕府軍を苦しめている。近藤をはじめとする新選組に対しては敵同士ではあるものの「武士よりも武士らしく登りつめた武装集団」として憧れにも似た感情を抱いている。
   - 池上嗣久（いけがみ つぐひさ）
     伊地知の相棒として彼を支えている。伊地知の堅く生真面目な性格に対して文句や憎まれ口を叩くことが多いがお互いに強い信頼関係で結ばれている。見た物、聞いた音、経験した事を決して忘れることができない「超記憶症候群」であり、伊地知が立てた作戦を完全に覚えることができ、伊地知が戦場を離れている間は代わりに戦場を指揮している。
-  - [大山弥助](https://ja.wikipedia.org/wiki/大山巌 "wikilink")（おおやま やすけ）、[野津七次](../Page/野津道貫.md "wikilink")（のづ しちじ）
-    ともに薩摩藩士で後の[陸軍大将](https://ja.wikipedia.org/wiki/陸軍大将 "wikilink")。新政府軍の隊長として旧幕府軍との戦いで活躍する。かつて大鳥圭介から西洋式砲術・西洋式兵法術を学んでおり、[宇都宮城の戦い](../Page/宇都宮城の戦い.md "wikilink")ではかつての師である大鳥の率いる伝習隊と激闘を繰り広げることになる。
+  - [大山弥助](../Page/大山巌.md "wikilink")（おおやま やすけ）、[野津七次](../Page/野津道貫.md "wikilink")（のづ しちじ）
+    ともに薩摩藩士で後の[陸軍大将](../Page/陸軍大将.md "wikilink")。新政府軍の隊長として旧幕府軍との戦いで活躍する。かつて大鳥圭介から西洋式砲術・西洋式兵法術を学んでおり、[宇都宮城の戦い](../Page/宇都宮城の戦い.md "wikilink")ではかつての師である大鳥の率いる伝習隊と激闘を繰り広げることになる。
 
 ## 書誌情報
 
@@ -182,37 +182,37 @@
   - 市村辰之助 - [上田祐司](../Page/うえだゆうじ.md "wikilink")
   - 山崎烝 - [櫻井孝宏](../Page/櫻井孝宏.md "wikilink")
   - 永倉新八 - [山口勝平](../Page/山口勝平.md "wikilink")
-  - 原田左之助 - [乃村健次](https://ja.wikipedia.org/wiki/乃村健次 "wikilink")
+  - 原田左之助 - [乃村健次](../Page/乃村健次.md "wikilink")
   - 藤堂平助 - [鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
-  - 斎藤一 - [松山鷹志](https://ja.wikipedia.org/wiki/松山鷹志 "wikilink")
-  - 島田魁 - [岩崎征実](https://ja.wikipedia.org/wiki/岩崎征実 "wikilink")
+  - 斎藤一 - [松山鷹志](../Page/松山鷹志.md "wikilink")
+  - 島田魁 - [岩崎征実](../Page/岩崎征実.md "wikilink")
   - 近藤勇 - [土師孝也](../Page/土師孝也.md "wikilink")
   - 山南敬助 - [井上倫宏](../Page/井上倫宏.md "wikilink")
   - 山崎歩 - [永島由子](../Page/永島由子.md "wikilink")
-  - 北村鈴 - [今井由香](https://ja.wikipedia.org/wiki/今井由香 "wikilink")
+  - 北村鈴 - [今井由香](../Page/今井由香.md "wikilink")
   - 吉田稔麿 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")
   - 明里 / サラ＝フウマ - [根谷美智子](../Page/根谷美智子.md "wikilink")
   - 沙夜 / サイゾー - [高橋美佳子](../Page/高橋美佳子.md "wikilink")
-  - ハナ - [加藤奈々絵](https://ja.wikipedia.org/wiki/加藤奈々絵 "wikilink")
+  - ハナ - [加藤奈々絵](../Page/加藤奈々絵.md "wikilink")
   - 坂本龍馬 - [江原正士](../Page/江原正士.md "wikilink")
   - 市村龍之介 - [森川智之](../Page/森川智之.md "wikilink")
-  - 鉄之助の母 - [横手久美子](https://ja.wikipedia.org/wiki/氷青 "wikilink")
+  - 鉄之助の母 - [横手久美子](../Page/氷青.md "wikilink")
   - お三津、空蝉 - [利田優子](../Page/利田優子.md "wikilink")
   - 青蛾中将 - [三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink")
   - 布瑠部神実 - [青山穣](../Page/青山穣.md "wikilink")
   - 夕顔 - [佐久間紅美](../Page/佐久間紅美.md "wikilink")
   - ほたる - [沢城みゆき](../Page/沢城みゆき.md "wikilink")
   - キク - [井ノ上奈々](../Page/井ノ上奈々.md "wikilink")
-  - 加須屋左近 - [西前忠久](https://ja.wikipedia.org/wiki/西前忠久 "wikilink")
+  - 加須屋左近 - [西前忠久](../Page/西前忠久.md "wikilink")
   - [桝屋喜右衛門](../Page/古高俊太郎.md "wikilink") - [西松和彦](../Page/西松和彦.md "wikilink")
-  - [宮部鼎蔵](../Page/宮部鼎蔵.md "wikilink") - [宮林康](https://ja.wikipedia.org/wiki/宮林康 "wikilink")
+  - [宮部鼎蔵](../Page/宮部鼎蔵.md "wikilink") - [宮林康](../Page/宮林康.md "wikilink")
   - [松田重助](https://ja.wikipedia.org/wiki/松田重助 "wikilink") - [鈴木貴征](https://ja.wikipedia.org/wiki/鈴木貴征 "wikilink")
 
 ### テレビアニメ（2003年 - 2004年）
 
 [2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2004年](../Page/2004年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")他一部系列局にて放送。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月27日](../Page/3月27日.md "wikilink") - [9月4日](../Page/9月4日.md "wikilink")まで[BS11にて全国放送された](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")。『**PEACE MAKER鐵**』のタイトルで放送されたが、内容は『新撰組異聞PEACE MAKER』のものである。
 
-後述の劇場版アニメ放映に先駆け、[2017年](../Page/2017年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")より、[時代劇専門チャンネル](https://ja.wikipedia.org/wiki/時代劇専門チャンネル "wikilink")で毎週水曜日2話ずつ再放送\[1\]。
+後述の劇場版アニメ放映に先駆け、[2017年](../Page/2017年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")より、[時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")で毎週水曜日2話ずつ再放送\[1\]。
 
 #### スタッフ
 
@@ -405,7 +405,7 @@
 <td><p>空</p></td>
 <td><p>斉藤哲人</p></td>
 <td><p>三好正人</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中嶋敦子" title="wikilink">中嶋敦子</a></p></td>
+<td><p><a href="../Page/中嶋敦子.md" title="wikilink">中嶋敦子</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -516,10 +516,10 @@
   - 土方歳三 - [谷内伸也](../Page/谷内伸也.md "wikilink")
   - 市村辰之助 - [古川雄大](../Page/古川雄大.md "wikilink")
   - 山崎烝 - [榊原徹士](https://ja.wikipedia.org/wiki/榊原徹士 "wikilink")([新撰組リアン](https://ja.wikipedia.org/wiki/新撰組リアン "wikilink"))　
-  - 永倉新八 - [松川尚瑠輝](https://ja.wikipedia.org/wiki/松川尚瑠輝 "wikilink")　
-  - 原田左之助 - [伊崎右典](https://ja.wikipedia.org/wiki/伊崎右典 "wikilink")
-  - 藤堂平助 - [佐野泰臣](https://ja.wikipedia.org/wiki/佐野泰臣 "wikilink")
-  - 近藤勇 - [遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")([ココリコ](../Page/ココリコ.md "wikilink"))　
+  - 永倉新八 - [松川尚瑠輝](../Page/松川尚瑠輝.md "wikilink")　
+  - 原田左之助 - [伊崎右典](../Page/伊崎右典.md "wikilink")
+  - 藤堂平助 - [佐野泰臣](../Page/佐野泰臣.md "wikilink")
+  - 近藤勇 - [遠藤章造](../Page/遠藤章造.md "wikilink")([ココリコ](../Page/ココリコ.md "wikilink"))　
   - 山南敬助 - [上山竜司](https://ja.wikipedia.org/wiki/上山竜司 "wikilink")
   - 山崎歩 - [原幹恵](https://ja.wikipedia.org/wiki/原幹恵 "wikilink")　
   - 明里 / サラ＝フウマ - [中島愛里](../Page/中島愛里.md "wikilink")　
@@ -811,7 +811,7 @@
 ### 『新撰組異聞 PEACE MAKER』（ブルー・シャトル主催）
 
   - 【大阪公演】2007年7月21日 - 7月22日　[松下IMPホール](https://ja.wikipedia.org/wiki/松下IMPホール "wikilink")
-  - 【東京公演】2007年8月2日 - 8月6日　[新国立劇場](https://ja.wikipedia.org/wiki/新国立劇場 "wikilink") 小劇場
+  - 【東京公演】2007年8月2日 - 8月6日　[新国立劇場](../Page/新国立劇場.md "wikilink") 小劇場
 
 <!-- end list -->
 
@@ -819,9 +819,9 @@
 
 <!-- end list -->
 
-  - 吉田稔麿 - [郷本直也](https://ja.wikipedia.org/wiki/郷本直也 "wikilink")
+  - 吉田稔麿 - [郷本直也](../Page/郷本直也.md "wikilink")
   - 土方歳三 - [柄谷吾史](https://ja.wikipedia.org/wiki/柄谷吾史 "wikilink")
-  - 山崎烝・歩 -[矢崎広](https://ja.wikipedia.org/wiki/矢崎広 "wikilink")
+  - 山崎烝・歩 -[矢崎広](../Page/矢崎広.md "wikilink")
   - 近藤勇 - [田中照人](https://ja.wikipedia.org/wiki/田中照人 "wikilink")
   - 山南敬助 - [吉谷光太郎](https://ja.wikipedia.org/wiki/吉谷光太郎 "wikilink")
   - 桝屋・明里 - [古川貴生](https://ja.wikipedia.org/wiki/古川貴生 "wikilink")
@@ -865,7 +865,7 @@
 <!-- end list -->
 
   - 市村鉄之助 - [Takuya](https://ja.wikipedia.org/wiki/Takuya "wikilink")
-  - 北村鈴 - [米原幸佑](https://ja.wikipedia.org/wiki/米原幸佑 "wikilink")（[RUN\&GUN](https://ja.wikipedia.org/wiki/RUN&GUN "wikilink")）
+  - 北村鈴 - [米原幸佑](../Page/米原幸佑.md "wikilink")（[RUN\&GUN](../Page/RUN&GUN.md "wikilink")）
   - 山崎烝・山崎歩 - [齋藤ヤスカ](../Page/齋藤ヤスカ.md "wikilink")
   - 市村辰之助 - [青木映樹](https://ja.wikipedia.org/wiki/青木映樹 "wikilink")
   - 沖田総司 - [松岡佑季](../Page/松岡佑季.md "wikilink")
@@ -878,7 +878,7 @@
   - 沙夜 - [小林由美子](../Page/小林由美子.md "wikilink")（テレビアニメ版市村鉄之助役でもある）
   - 明里 - [浅川クミ](https://ja.wikipedia.org/wiki/浅川クミ "wikilink")
   - 近藤勇 - [柏進](https://ja.wikipedia.org/wiki/柏進 "wikilink")
-  - 原田左之助 - [住谷正樹](https://ja.wikipedia.org/wiki/住谷正樹 "wikilink")（[レイザーラモン](https://ja.wikipedia.org/wiki/レイザーラモン "wikilink")）
+  - 原田左之助 - [住谷正樹](https://ja.wikipedia.org/wiki/住谷正樹 "wikilink")（[レイザーラモン](../Page/レイザーラモン.md "wikilink")）
   - 桂小五郎 - [下出丞一](https://ja.wikipedia.org/wiki/下出丞一 "wikilink")
 
 <!-- end list -->
@@ -912,7 +912,7 @@
   - 永倉新八 - [内藤大希](../Page/内藤大希.md "wikilink")
   - 藤堂平助 - [翁長卓](https://ja.wikipedia.org/wiki/翁長卓 "wikilink")
   - 原田左之助 - [黒藤結軌](https://ja.wikipedia.org/wiki/黒藤結軌 "wikilink")
-  - 吉田稔麿 - [林剛史](https://ja.wikipedia.org/wiki/林剛史 "wikilink")
+  - 吉田稔麿 - [林剛史](../Page/林剛史.md "wikilink")
   - 北村鈴 - [井澤勇貴](../Page/井澤勇貴.md "wikilink")
   - 枡屋喜右衛門 - [森大](https://ja.wikipedia.org/wiki/森大 "wikilink")（少年社中）
   - 坂本竜馬 - [鬼束道歩](https://ja.wikipedia.org/wiki/鬼束道歩 "wikilink")
@@ -948,11 +948,11 @@
   - 近藤勇 - [鬼束道歩](https://ja.wikipedia.org/wiki/鬼束道歩 "wikilink")
   - 山南敬助 - [川嵜祐樹](https://ja.wikipedia.org/wiki/川嵜祐樹 "wikilink")
   - 永倉新八 - [椎名鯛造](../Page/椎名鯛造.md "wikilink")
-  - 藤堂平助 - [水谷百輔](https://ja.wikipedia.org/wiki/水谷百輔 "wikilink")
+  - 藤堂平助 - [水谷百輔](../Page/水谷百輔.md "wikilink")
   - 原田左之助 - [黒藤結軌](https://ja.wikipedia.org/wiki/黒藤結軌 "wikilink")
   - 山崎烝 - [服部翼](https://ja.wikipedia.org/wiki/服部翼 "wikilink")
   - 山崎歩 - [工藤真由](../Page/工藤真由.md "wikilink")
-  - 吉田稔麿 - [伊崎右典](https://ja.wikipedia.org/wiki/伊崎右典 "wikilink")
+  - 吉田稔麿 - [伊崎右典](../Page/伊崎右典.md "wikilink")
   - 北村鈴 - [佐野岳](https://ja.wikipedia.org/wiki/佐野岳 "wikilink")
   - 風魔/明里 - [人見早苗](../Page/人見早苗.md "wikilink")
 
@@ -981,7 +981,7 @@
   - 永倉新八 - 山口勝平
   - 原田左之介 - 乃村健次
   - 藤堂平助 - 鳥海浩輔
-  - 伊東甲子太郎 - [平川大輔](https://ja.wikipedia.org/wiki/平川大輔 "wikilink")
+  - 伊東甲子太郎 - [平川大輔](../Page/平川大輔.md "wikilink")
   - 御陵術士 - [赤羽根健治](https://ja.wikipedia.org/wiki/赤羽根健治 "wikilink")
   - 三浦 - [白井悠介](https://ja.wikipedia.org/wiki/白井悠介 "wikilink")
   - 菊池 - [山口智大](https://ja.wikipedia.org/wiki/山口智大 "wikilink")

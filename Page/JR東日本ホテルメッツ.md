@@ -17,17 +17,17 @@ JR東日本ホテルズが展開する[シティホテルのブランド](https:
 
 近年は店舗ブランドや業態の多角化が進められている。[宇都宮駅](../Page/宇都宮駅.md "wikilink")西口の駅ビル「[パセオ](../Page/パセオ_\(宇都宮市\).md "wikilink")」の空きフロアを改修してホテルフロアへの活用を図った店舗として[2012年](../Page/2012年.md "wikilink")（平成24年）3月27日に「ホテル アール・メッツ宇都宮」が開業。このアール・メッツブランドの「アール」とは、Region（地域の魅力再編集）・Recycle（既存建造物の利活用）・Revival（地域活性化）の、3つのキーワードの頭文字を意味したものである。駅ビルをホテルへ業態転換した例は、[JR東日本グループ管内ではこれが初のケースである](https://ja.wikipedia.org/wiki/東日本旅客鉄道#関係会社 "wikilink")\[7\]。しかし、2018年（平成30年）10月のチェーン名称変更を機に同ホテルについても「JR東日本ホテルメッツ 宇都宮」に改称されている\[8\]。
 
-また、ホテルメッツとメトロポリタンホテルズの中間業態をとる店舗もあり、「ホテルメッツ渋谷」は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[11月11日](../Page/11月11日.md "wikilink")のリニューアル開業時、高層階の13・14階をハイグレードタイプの「プレミアムフロア」として、上質な備品を備えた客室や、「渋谷」や「森」をモチーフにしたコンセプトルームを展開するなど、高級感のある客室構成としている。この他、[2013年](../Page/2013年.md "wikilink")（平成25年）[4月1日](../Page/4月1日.md "wikilink")にリニューアル開業した「ホテルメッツ川崎」では高層階2フロアを「プレミアムフロア」、同年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")に新規開業した「ホテルメッツ新潟」（[新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")南口駅前）でも高層階2フロアを「スーペリアフロア」として、それぞれハイグレードタイプを備えた客室構成としている。
+また、ホテルメッツとメトロポリタンホテルズの中間業態をとる店舗もあり、「ホテルメッツ渋谷」は[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[11月11日](../Page/11月11日.md "wikilink")のリニューアル開業時、高層階の13・14階をハイグレードタイプの「プレミアムフロア」として、上質な備品を備えた客室や、「渋谷」や「森」をモチーフにしたコンセプトルームを展開するなど、高級感のある客室構成としている。この他、[2013年](../Page/2013年.md "wikilink")（平成25年）[4月1日](../Page/4月1日.md "wikilink")にリニューアル開業した「ホテルメッツ川崎」では高層階2フロアを「プレミアムフロア」、同年[4月8日](../Page/4月8日.md "wikilink")に新規開業した「ホテルメッツ新潟」（[新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")南口駅前）でも高層階2フロアを「スーペリアフロア」として、それぞれハイグレードタイプを備えた客室構成としている。
 
 [2019年](../Page/2019年.md "wikilink")（平成31年）2月には初めてJR東日本エリア以外の地域（札幌）に出店予定で\[9\]、それに伴い2018年（平成30年）[10月1日](../Page/10月1日.md "wikilink")より展開済みのホテルにおいてもブランドロゴのリニューアルおよび「**JR東日本ホテルメッツ**」へのホテル名称の変更が実施された\[10\]\[11\]。
 
 ### 特徴
 
-ホテルメッツの特徴として、スタンダードタイプのシングルルーム1泊あたりの宿泊料金が、東京都区内の店舗で15,000円前後、その他の関東各地や地方の店舗で8,000-10,000円前後に設定されていること、朝食券が付帯されていること、シングルルームでは140cm幅のベッドを原則用いていること、[温水洗浄便座](https://ja.wikipedia.org/wiki/温水洗浄便座 "wikilink")と足が伸ばせる[バスタブ](https://ja.wikipedia.org/wiki/バスタブ "wikilink")を備えた[ユニットバス](https://ja.wikipedia.org/wiki/ユニットバス "wikilink")を備えていることが挙げられる。
+ホテルメッツの特徴として、スタンダードタイプのシングルルーム1泊あたりの宿泊料金が、東京都区内の店舗で15,000円前後、その他の関東各地や地方の店舗で8,000-10,000円前後に設定されていること、朝食券が付帯されていること、シングルルームでは140cm幅のベッドを原則用いていること、[温水洗浄便座](../Page/温水洗浄便座.md "wikilink")と足が伸ばせる[バスタブ](https://ja.wikipedia.org/wiki/バスタブ "wikilink")を備えた[ユニットバス](../Page/ユニットバス.md "wikilink")を備えていることが挙げられる。
 
 展開当初の店舗はスタンダードタイプの客室のみの設定だったが、店舗展開が進捗すると、客室面積を広くしたり大画面タイプのテレビを設置するなどして居室構造に高級感を持たせたハイグレードタイプの客室や、女性専用の客室、[ユニバーサルデザイン](../Page/ユニバーサルデザイン.md "wikilink")を取り入れた客室を備えた店舗も出店するようになった。こうした客室は、店舗によって「デラックス」「プレミアム」「スーペリア」「スーペリアデラックス」「レディース」「ユニバーサル」などを客室タイプ名に冠している。このほか、室内に様々なデザインを取り入れたコンセプトルームや、長期滞在向けの家具や備品を備えたレジデンシャルルームを展開している店舗も存在する。
 
-近年は旅行サイトや宿泊予約サイトの普及などもあって、東横イン・[アパホテル](https://ja.wikipedia.org/wiki/アパホテル "wikilink")・[ホテルルートイン](https://ja.wikipedia.org/wiki/ホテルルートイン "wikilink")といった格安ビジネスホテルチェーンや、地場の格安型ビジネスホテルなどとの間で価格競争が激化しているが、ホテルメッツでは大幅な料金割引は行わないため、収益は比較的安定しているとされる。逆に同じJR東日本ホテルズのメトロポリタンホテルズでは、空室に余裕が有れば正価から大幅に割り引いて販売することがあるため、宿泊特化型ホテルのホテルメッツとシティホテルのメトロポリタンホテルズとの間で実売価格が近接し、朝食の有無程度しか差が見あたらないケースもある。
+近年は旅行サイトや宿泊予約サイトの普及などもあって、東横イン・[アパホテル](https://ja.wikipedia.org/wiki/アパホテル "wikilink")・[ホテルルートイン](../Page/ホテルルートイン.md "wikilink")といった格安ビジネスホテルチェーンや、地場の格安型ビジネスホテルなどとの間で価格競争が激化しているが、ホテルメッツでは大幅な料金割引は行わないため、収益は比較的安定しているとされる。逆に同じJR東日本ホテルズのメトロポリタンホテルズでは、空室に余裕が有れば正価から大幅に割り引いて販売することがあるため、宿泊特化型ホテルのホテルメッツとシティホテルのメトロポリタンホテルズとの間で実売価格が近接し、朝食の有無程度しか差が見あたらないケースもある。
 
 ### 施設運営
 
@@ -37,7 +37,7 @@ JR東日本ホテルズが展開する[シティホテルのブランド](https:
 
 さらに[2007年](../Page/2007年.md "wikilink")（平成19年）4月には、[東京ステーションホテル](../Page/東京ステーションホテル.md "wikilink")やメトロポリタンホテルズも含めたJR東日本ホテルズの運営体制が一本化されることになり、株式会社ホテルメトロポリタン（上記の池袋ターミナルビルが会社分割および商号変更した企業）を存続会社に、メッツホテルアンドレストラン、日本ホテル、ホテルエドモントを吸収合併した上で、ホテルメトロポリタンの商号を「**[日本ホテル](https://ja.wikipedia.org/wiki/日本ホテル "wikilink")株式会社**」に改称した。これ以降、関東地方のホテルメッツは同社が店舗運営を行っている\[12\]。
 
-このうち「ホテルメッツ田端」（[田端駅](https://ja.wikipedia.org/wiki/田端駅 "wikilink")北口近く）については[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[2月1日](../Page/2月1日.md "wikilink")の開業当初、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）の子会社「ジェイアールエフ・ホテル」が[FC](https://ja.wikipedia.org/wiki/FC "wikilink")契約を結び運営していた\[13\]。これは同社の田端操駅（現在の[田端信号場駅](../Page/田端信号場駅.md "wikilink")）に隣接する敷地を活用してJR貨物が建設し、JR東日本ホテルズのフランチャイズとして運営を行っていたものだが、2012年（平成24年）[7月1日](../Page/7月1日.md "wikilink")付で日本ホテルに移管され、以後は経営・運営ともJR東日本グループが行っている（詳細は「[JRホテルグループ\#JR貨物](https://ja.wikipedia.org/wiki/JRホテルグループ#JR貨物 "wikilink")」を参照）。
+このうち「ホテルメッツ田端」（[田端駅](https://ja.wikipedia.org/wiki/田端駅 "wikilink")北口近く）については[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）[2月1日](../Page/2月1日.md "wikilink")の開業当初、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）の子会社「ジェイアールエフ・ホテル」が[FC](../Page/FC.md "wikilink")契約を結び運営していた\[13\]。これは同社の田端操駅（現在の[田端信号場駅](../Page/田端信号場駅.md "wikilink")）に隣接する敷地を活用してJR貨物が建設し、JR東日本ホテルズのフランチャイズとして運営を行っていたものだが、2012年（平成24年）[7月1日](../Page/7月1日.md "wikilink")付で日本ホテルに移管され、以後は経営・運営ともJR東日本グループが行っている（詳細は「[JRホテルグループ\#JR貨物](https://ja.wikipedia.org/wiki/JRホテルグループ#JR貨物 "wikilink")」を参照）。
 
 関東地方を除くJR東日本管内各地のホテルメッツは、JR東日本グループの地域子会社が運営している。なお、JR東日本エリア以外の地域で初出店となる、2019年（平成31年）2月1日開業の「JR東日本ホテルメッツ札幌」は、日本ホテルが運営を行っている\[14\]。
 
@@ -146,7 +146,7 @@ JR東日本ホテルズが展開する[シティホテルのブランド](https:
 </tr>
 <tr class="even">
 <td><p><strong>JR東日本ホテルメッツ 目白</strong></p></td>
-<td><p>東京都<a href="https://ja.wikipedia.org/wiki/豊島区" title="wikilink">豊島区</a><a href="https://ja.wikipedia.org/wiki/目白" title="wikilink">目白</a>1-4-1</p></td>
+<td><p>東京都<a href="https://ja.wikipedia.org/wiki/豊島区" title="wikilink">豊島区</a><a href="../Page/目白.md" title="wikilink">目白</a>1-4-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/目白駅" title="wikilink">目白駅</a>徒歩1分</p></td>
 <td><p>95</p></td>
 <td><p>2003年10月1日</p></td>
@@ -242,7 +242,7 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 </tr>
 <tr class="even">
 <td><p><strong>JR東日本ホテルメッツ 溝ノ口</strong></p></td>
-<td><p>神奈川県川崎市<a href="../Page/高津区.md" title="wikilink">高津区</a><a href="https://ja.wikipedia.org/wiki/溝口_(川崎市)" title="wikilink">溝口</a>1-1-5</p></td>
+<td><p>神奈川県川崎市<a href="../Page/高津区.md" title="wikilink">高津区</a><a href="../Page/溝口_(川崎市).md" title="wikilink">溝口</a>1-1-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/武蔵溝ノ口駅" title="wikilink">武蔵溝ノ口駅</a>南口徒歩1分<br />
 東急<a href="https://ja.wikipedia.org/wiki/溝の口駅" title="wikilink">溝の口駅</a>東口徒歩1分</p></td>
 <td><p>100</p></td>
@@ -252,7 +252,7 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 </tr>
 <tr class="odd">
 <td><p><strong>JR東日本ホテルメッツ かまくら大船</strong></p></td>
-<td><p>神奈川県<a href="../Page/鎌倉市.md" title="wikilink">鎌倉市</a><a href="https://ja.wikipedia.org/wiki/大船" title="wikilink">大船</a>1-2-1</p></td>
+<td><p>神奈川県<a href="../Page/鎌倉市.md" title="wikilink">鎌倉市</a><a href="../Page/大船.md" title="wikilink">大船</a>1-2-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大船駅" title="wikilink">大船駅</a>東口徒歩3分</p></td>
 <td><p>156</p></td>
 <td><p>2002年4月27日</p></td>
@@ -314,7 +314,7 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 <!-- end list -->
 
   - JR東日本ホテルメッツ 秋葉原（東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")1丁目17番地6号/[秋葉原駅](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")電気街口南口徒歩1分/日本ホテル運営）、2019年10月開業予定\[16\]
-  - JR東日本ホテルメッツ 新木場東京ベイ（東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新木場](https://ja.wikipedia.org/wiki/新木場 "wikilink")1丁目/[新木場駅](https://ja.wikipedia.org/wiki/新木場駅 "wikilink")徒歩2分/日本ホテル運営）、2019年11月開業予定\[17\]
+  - JR東日本ホテルメッツ 新木場東京ベイ（東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新木場](../Page/新木場.md "wikilink")1丁目/[新木場駅](https://ja.wikipedia.org/wiki/新木場駅 "wikilink")徒歩2分/日本ホテル運営）、2019年11月開業予定\[17\]
   - JR東日本ホテルメッツ 横浜（神奈川県横浜市[神奈川区](https://ja.wikipedia.org/wiki/神奈川区 "wikilink")[鶴屋町](https://ja.wikipedia.org/wiki/鶴屋町_\(横浜市\) "wikilink")1丁目66-9他/[横浜駅](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")直結再開発ビル 「[JR横浜鶴屋町ビル](https://ja.wikipedia.org/wiki/JR横浜鶴屋町ビル "wikilink")」内/日本ホテル運営）、[2020年](../Page/2020年.md "wikilink")6月開業予定\[18\]\[19\]
   - JR東日本ホテルメッツ 横浜桜木町（神奈川県横浜市[中区](../Page/中区_\(横浜市\).md "wikilink")[桜木町](../Page/桜木町_\(横浜市\).md "wikilink")1丁目1-93他/[桜木町駅](https://ja.wikipedia.org/wiki/桜木町駅 "wikilink")隣接「[JR桜木町ビル](https://ja.wikipedia.org/wiki/JR桜木町ビル "wikilink")」内/日本ホテル運営）、2020年6月 開業予定\[20\]\[21\]
 

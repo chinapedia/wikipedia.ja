@@ -1,7 +1,7 @@
 > この記事は[TV\'s HIGH](https://ja.wikipedia.org/wiki/TV\'s_HIGH)から翻訳されています。
 
 
-『**TV's HIGH**』（**ティーヴィーズ・ハイ**）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2000年](../Page/2000年.md "wikilink")10月から[2001年](../Page/2001年.md "wikilink")3月まで毎週[金曜日](../Page/金曜日.md "wikilink")に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")であり、テレビドラマ仕立ての[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。主演は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")。
+『**TV's HIGH**』（**ティーヴィーズ・ハイ**）は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2000年](../Page/2000年.md "wikilink")10月から[2001年](../Page/2001年.md "wikilink")3月まで毎週[金曜日](../Page/金曜日.md "wikilink")に放送されていた[深夜番組](../Page/深夜番組.md "wikilink")であり、テレビドラマ仕立ての[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。主演は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")。
 
 当番組終了後の[2001年](../Page/2001年.md "wikilink")4月から[2009年](../Page/2009年.md "wikilink")3月までの同時間帯は「[チョナン・カン](../Page/チョナン・カン.md "wikilink")」（チョナン・カン2も含む）が放送され、長く[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")メンバーがメインMCの番組が放送された事になる。
 
@@ -12,24 +12,24 @@
 ## 概要
 
   - レギュラー放送開始に先駆け[2000年](../Page/2000年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")には「第0回」が放送された。
-  - 深夜番組ながら豪華な出演者が顔をそろえており、それぞれ個性的なキャラクターが多かった。特に政治家として元[東京都知事](https://ja.wikipedia.org/wiki/東京都知事 "wikilink")の[青島幸男](../Page/青島幸男.md "wikilink")が出演したこと（しかもほぼ毎週）、元総理大臣の[村山富市](../Page/村山富市.md "wikilink")が出演したことはかなりの話題となった。
+  - 深夜番組ながら豪華な出演者が顔をそろえており、それぞれ個性的なキャラクターが多かった。特に政治家として元[東京都知事](../Page/東京都知事.md "wikilink")の[青島幸男](../Page/青島幸男.md "wikilink")が出演したこと（しかもほぼ毎週）、元総理大臣の[村山富市](../Page/村山富市.md "wikilink")が出演したことはかなりの話題となった。
   - 2クールで放送を終了したが、放送されていない地域が多かったため、フジテレビで3月の放送が終了してからも放送を開始する[FNS系列の放送局が多かった](../Page/フジネットワーク.md "wikilink")。（[関西テレビでは](../Page/関西テレビ放送.md "wikilink")4月から放送され始めたものの、不定期だった）
-  - [24時間テレビのパロディや木村本人が同時期に出演していた](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")[HEROの影響もありそれに関連する言及](https://ja.wikipedia.org/wiki/HERO_\(テレビドラマ\) "wikilink")（オープニングテーマを歌っている宇多田ヒカルが最終回で出てくる、初回には[中谷美紀](https://ja.wikipedia.org/wiki/中谷美紀 "wikilink")が声だけの出演を果たす等）もある。
+  - [24時間テレビのパロディや木村本人が同時期に出演していた](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")[HEROの影響もありそれに関連する言及](../Page/HERO_\(テレビドラマ\).md "wikilink")（オープニングテーマを歌っている宇多田ヒカルが最終回で出てくる、初回には[中谷美紀](https://ja.wikipedia.org/wiki/中谷美紀 "wikilink")が声だけの出演を果たす等）もある。
   - 映像ソフト化にあたって、本放送時のシーンがいくつかカット、もしくはBGMの差し替えが行われている。
   - 木村が単独でバラエティ番組のレギュラーを持つのは初であり、2019年現在この番組のみである。
 
 ## キャスト
 
-  - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")（木村拓哉）、初登場第1回
+  - [木村拓哉](../Page/木村拓哉.md "wikilink")（木村拓哉）、初登場第1回
   - [生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")（宅配ピザ屋、上野倉三郎）、初登場第1回
   - [YOU](https://ja.wikipedia.org/wiki/YOU_\(タレント\) "wikilink")（[ADのっち](../Page/アシスタントディレクター.md "wikilink")）、初登場第2回
   - [青島幸男](../Page/青島幸男.md "wikilink")、初登場第2回
   - [木村祐一](../Page/木村祐一.md "wikilink")、初登場第3回
   - [村上淳](../Page/村上淳.md "wikilink")、初登場第８回
   - [宮藤官九郎](../Page/宮藤官九郎.md "wikilink")、初登場第11回
-  - [山西惇](https://ja.wikipedia.org/wiki/山西惇 "wikilink")（勅使河原）
+  - [山西惇](../Page/山西惇.md "wikilink")（勅使河原）
   - [西山喜久恵](../Page/西山喜久恵.md "wikilink")（フジテレビアナウンサー）、第12回
-  - [BANANA MAN](https://ja.wikipedia.org/wiki/バナナマン "wikilink")、最終回
+  - [BANANA MAN](../Page/バナナマン.md "wikilink")、最終回
 
 ### 特別出演
 
@@ -70,7 +70,7 @@
 
 ## スタッフ
 
-  - 作・構成：[三木聡](https://ja.wikipedia.org/wiki/三木聡 "wikilink")、[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")
+  - 作・構成：[三木聡](../Page/三木聡.md "wikilink")、[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")
   - ブレーン：[木村祐一](../Page/木村祐一.md "wikilink")
   - 編曲：[金子隆博](../Page/金子隆博.md "wikilink")
   - 美術制作：井上幸夫
@@ -89,20 +89,20 @@
   - CAM：小川経一
   - VE：川崎淳
   - AUD：中村仁
-  - 照明：豊田秀明（[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")）
+  - 照明：豊田秀明（[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")）
   - 編集：太田友康（[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")）
   - MA：円城寺暁（IMAGICA）
-  - 音響効果：田中寿一（[J-WORKS](https://ja.wikipedia.org/wiki/J-WORKS "wikilink")）
+  - 音響効果：田中寿一（[J-WORKS](../Page/J-WORKS.md "wikilink")）
   - アドバイザー：[坂口修](https://ja.wikipedia.org/wiki/坂口修 "wikilink")
   - CG：フレイムグラフィックス
-  - アートディレクション：[田中秀幸](https://ja.wikipedia.org/wiki/田中秀幸_\(アートディレクター\) "wikilink")
+  - アートディレクション：[田中秀幸](../Page/田中秀幸_\(アートディレクター\).md "wikilink")
   - 協力：[共同テレビ](../Page/共同テレビジョン.md "wikilink")、[万国屋](https://ja.wikipedia.org/wiki/万国屋 "wikilink")
   - TK：楮本真澄
   - 連絡：小林琴美
   - 編成：夏野亮、小中ももこ
   - FD：西村宗範
   - ディレクター：[濱野貴敏](https://ja.wikipedia.org/wiki/濱野貴敏 "wikilink")、佐々木繁雄
-  - 演出：[ユン駒辻](https://ja.wikipedia.org/wiki/小松純也 "wikilink")
+  - 演出：[ユン駒辻](../Page/小松純也.md "wikilink")
   - 制作プロデューサー：[原田冬彦](https://ja.wikipedia.org/wiki/原田冬彦 "wikilink")
   - プロデューサー：[荒井昭博](../Page/荒井昭博.md "wikilink")
   - 制作協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")（※表記なし）

@@ -9,7 +9,7 @@
 
 、[富士製鐵](../Page/富士製鐵.md "wikilink")の[名古屋製鐵所で](https://ja.wikipedia.org/wiki/新日鐵住金名古屋製鐵所 "wikilink")『**富士製鐵名古屋硬式野球部**』として創部。
 
-、母体である富士製鐵と[八幡製鐵](https://ja.wikipedia.org/wiki/八幡製鐵 "wikilink")が合併し[新日本製鐵](../Page/新日本製鐵.md "wikilink")が発足し、これに伴いチーム名を『**新日本製鐵名古屋硬式野球部**』に改称した。
+、母体である富士製鐵と[八幡製鐵](../Page/八幡製鐵.md "wikilink")が合併し[新日本製鐵](../Page/新日本製鐵.md "wikilink")が発足し、これに伴いチーム名を『**新日本製鐵名古屋硬式野球部**』に改称した。
 
 に[都市対抗野球に初出場](../Page/第45回都市対抗野球大会.md "wikilink")。には初出場した[日本選手権で初優勝を果たした](https://ja.wikipedia.org/wiki/第3回社会人野球日本選手権大会 "wikilink")。
 
@@ -36,25 +36,25 @@
 
   - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink") - 出場12回、準優勝1回（1983年）
   - [社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink") - 出場11回、優勝1回（1976年）
-  - [JABA四国大会](https://ja.wikipedia.org/wiki/JABA四国大会 "wikilink") - 優勝1回（1976年）
-  - [JABA新潟大会](https://ja.wikipedia.org/wiki/JABA新潟大会 "wikilink") - 優勝1回（2014年）
-  - [JABA広島大会](https://ja.wikipedia.org/wiki/JABA広島大会 "wikilink") - 優勝1回（1989年）
-  - [JABA高山市長旗・飛騨市長杯争奪高山大会](https://ja.wikipedia.org/wiki/JABA高山市長旗・飛騨市長杯争奪高山大会 "wikilink") - 優勝1回（1994年）
-  - [JABA伊勢・松阪大会](https://ja.wikipedia.org/wiki/JABA伊勢・松阪大会 "wikilink") - 優勝3回（1976年、2004年、2005年）
+  - [JABA四国大会](../Page/JABA四国大会.md "wikilink") - 優勝1回（1976年）
+  - [JABA新潟大会](../Page/JABA新潟大会.md "wikilink") - 優勝1回（2014年）
+  - [JABA広島大会](../Page/JABA広島大会.md "wikilink") - 優勝1回（1989年）
+  - [JABA高山市長旗・飛騨市長杯争奪高山大会](../Page/JABA高山市長旗・飛騨市長杯争奪高山大会.md "wikilink") - 優勝1回（1994年）
+  - [JABA伊勢・松阪大会](../Page/JABA伊勢・松阪大会.md "wikilink") - 優勝3回（1976年、2004年、2005年）
 
 ## 主な出身プロ野球選手
 
-  - [坪井新三郎](../Page/坪井新三郎.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 1969年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")に入団
+  - [坪井新三郎](../Page/坪井新三郎.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 1969年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")に入団
   - [長島吉邦](https://ja.wikipedia.org/wiki/長島吉邦 "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト4位で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団
   - [水谷啓昭](https://ja.wikipedia.org/wiki/水谷啓昭 "wikilink")（投手） - ドラフト3位で中日ドラゴンズに入団
-  - [音重鎮](https://ja.wikipedia.org/wiki/音重鎮 "wikilink")（[外野手](../Page/外野手.md "wikilink")） - ドラフト5位で中日ドラゴンズに入団
+  - [音重鎮](../Page/音重鎮.md "wikilink")（[外野手](../Page/外野手.md "wikilink")） - ドラフト5位で中日ドラゴンズに入団
   - [足利豊](../Page/足利豊.md "wikilink")（投手） - ドラフト4位で[福岡ダイエーホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
   - [山根善伸](../Page/山根善伸.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - ドラフト7位で[横浜大洋ホエールズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [井本直樹](../Page/井本直樹.md "wikilink")（投手） - ドラフト3位で中日ドラゴンズに入団
 
 ## 元プロ野球選手の競技者登録
 
-  - [洗平竜也](../Page/洗平竜也.md "wikilink")（元：[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")） - 投手（2004年～2007年）→退団
+  - [洗平竜也](../Page/洗平竜也.md "wikilink")（元：[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")） - 投手（2004年～2007年）→退団
   - [矢地健人](https://ja.wikipedia.org/wiki/矢地健人 "wikilink")（元：中日ドラゴンズ、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")） - 投手（2016年～2017年）
 
 ## かつて在籍していた選手
@@ -68,11 +68,11 @@
   - [社会人野球チーム一覧](../Page/社会人野球チーム一覧.md "wikilink")
   - [都市対抗野球大会 (愛知県勢)](https://ja.wikipedia.org/wiki/都市対抗野球大会_\(愛知県勢\) "wikilink")
   - [日本製鉄グループ](https://ja.wikipedia.org/wiki/日本製鉄グループ "wikilink")の硬式野球部
-      - [日本製鉄室蘭シャークス](https://ja.wikipedia.org/wiki/日本製鉄室蘭シャークス "wikilink")（旧：新日本製鐵室蘭硬式野球部）
-      - [日本製鉄鹿島硬式野球部](https://ja.wikipedia.org/wiki/日本製鉄鹿島硬式野球部 "wikilink")（旧：住友金属鹿島硬式野球部）
+      - [日本製鉄室蘭シャークス](../Page/日本製鉄室蘭シャークス.md "wikilink")（旧：新日本製鐵室蘭硬式野球部）
+      - [日本製鉄鹿島硬式野球部](../Page/日本製鉄鹿島硬式野球部.md "wikilink")（旧：住友金属鹿島硬式野球部）
       - [日本製鉄かずさマジック](../Page/日本製鉄かずさマジック.md "wikilink")（旧：新日本製鐵君津硬式野球部）
-      - [日本製鉄広畑硬式野球部](https://ja.wikipedia.org/wiki/日本製鉄広畑硬式野球部 "wikilink")
-      - [光シーガルズ](https://ja.wikipedia.org/wiki/光シーガルズ "wikilink")（旧：新日本製鐵光硬式野球部）
+      - [日本製鉄広畑硬式野球部](../Page/日本製鉄広畑硬式野球部.md "wikilink")
+      - [光シーガルズ](../Page/光シーガルズ.md "wikilink")（旧：新日本製鐵光硬式野球部）
       - [日本製鉄大分硬式野球部](../Page/日本製鉄大分硬式野球部.md "wikilink")
       - [新日本製鐵釜石硬式野球部](https://ja.wikipedia.org/wiki/新日本製鐵釜石硬式野球部 "wikilink") - 1988年に廃部。
       - [新日本製鐵堺硬式野球部](https://ja.wikipedia.org/wiki/新日本製鐵堺硬式野球部 "wikilink") - 1995年から休部し、2008年に廃部。

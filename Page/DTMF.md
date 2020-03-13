@@ -3,12 +3,12 @@
 
 [200pxを送出する](https://ja.wikipedia.org/wiki/ファイル:Dialog_knappar_1969.jpg "wikilink")[押しボタン式電話機](../Page/押しボタン式電話機.md "wikilink")（日本国内での愛称は「プッシュホン」）\]\] **DTMF**（）は、0から9までの数字と、\*、\#、A、B、C、Dの記号の計16種類の符号を、低群・高群の2つの[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")[周波数](../Page/周波数.md "wikilink")帯域の合成信号音で送信する方法である。別名「**トーン信号**」 「**プッシュ信号**」「**PB信号**\[1\]」（PBは push button の略）とも呼ばれ、その信号音は人間の可聴域にあるため日本語では「**ピ、ポ、パ**」とも[擬音語](https://ja.wikipedia.org/wiki/擬音語 "wikilink")表記される。
 
-プッシュ式[電話回線](https://ja.wikipedia.org/wiki/電話回線 "wikilink")での[電話番号](../Page/電話番号.md "wikilink")の送出、その他音声回線での数字入力（例・[コールセンター](https://ja.wikipedia.org/wiki/コールセンター "wikilink")での着信後の項目選択）などで用いられる。
+プッシュ式[電話回線](../Page/電話回線.md "wikilink")での[電話番号](../Page/電話番号.md "wikilink")の送出、その他音声回線での数字入力（例・[コールセンター](../Page/コールセンター.md "wikilink")での着信後の項目選択）などで用いられる。
 
 [ダイヤルパルス](../Page/ダイヤルパルス.md "wikilink")信号と比較して次の点が特徴である。
 
   - 情報伝達速度が速い。8数字/秒以上が可能である。
-  - [ツイストペアケーブル](../Page/ツイストペアケーブル.md "wikilink")[通信線路](https://ja.wikipedia.org/wiki/通信線路 "wikilink")のみならず[多重化](../Page/多重化.md "wikilink")・[無線通信](../Page/無線通信.md "wikilink")回線でも使用可能である。
+  - [ツイストペアケーブル](../Page/ツイストペアケーブル.md "wikilink")[通信線路](../Page/通信線路.md "wikilink")のみならず[多重化](../Page/多重化.md "wikilink")・[無線通信](../Page/無線通信.md "wikilink")回線でも使用可能である。
 
 ## 規格
 
@@ -57,7 +57,7 @@
   - 信号周波数偏差
     信号周波数の±1.5%以内
   - 信号送出電力
-    絶対レベルで表した値。Lは、[電気通信事業者](../Page/電気通信事業者.md "wikilink")交換設備から端末設備の接続点までの1,500Hzにおける[通信線路](https://ja.wikipedia.org/wiki/通信線路 "wikilink")伝送損失。
+    絶対レベルで表した値。Lは、[電気通信事業者](../Page/電気通信事業者.md "wikilink")交換設備から端末設備の接続点までの1,500Hzにおける[通信線路](../Page/通信線路.md "wikilink")伝送損失。
       - 低群周波数
         （-16.5+0.8L）dB以上・（-6.5+0.8L）dB以下で、かつ-3.5dBを超えない信号
       - 高群周波数
@@ -71,7 +71,7 @@
 
 ## 関連機器
 
-電話機側音声回路の送話器（[マイクロフォン](../Page/マイクロフォン.md "wikilink")）と[音響接続して](../Page/音響カプラ.md "wikilink")、DTMF信号を送出する**DTMFダイヤラー**と呼ばれる機器がある。信号音を発音する小型[スピーカー](../Page/スピーカー.md "wikilink")を持ち、送話器に密着させて使用する。家庭用[留守番電話](https://ja.wikipedia.org/wiki/留守番電話 "wikilink")機の普及黎明期に、外出先のダイヤル式[公衆電話](../Page/公衆電話.md "wikilink")などから録音機能（再生、消去など）の[遠隔操作](../Page/遠隔操作.md "wikilink")に用いられた。あるいは電子住所録から自動ダイヤルする目的で、[電子手帳](https://ja.wikipedia.org/wiki/電子手帳 "wikilink")や多機能デジタル[腕時計](../Page/腕時計.md "wikilink")に内蔵されたこともある。また、DTMF信号を復号し視覚化する解読器もある。
+電話機側音声回路の送話器（[マイクロフォン](../Page/マイクロフォン.md "wikilink")）と[音響接続して](../Page/音響カプラ.md "wikilink")、DTMF信号を送出する**DTMFダイヤラー**と呼ばれる機器がある。信号音を発音する小型[スピーカー](../Page/スピーカー.md "wikilink")を持ち、送話器に密着させて使用する。家庭用[留守番電話](../Page/留守番電話.md "wikilink")機の普及黎明期に、外出先のダイヤル式[公衆電話](../Page/公衆電話.md "wikilink")などから録音機能（再生、消去など）の[遠隔操作](../Page/遠隔操作.md "wikilink")に用いられた。あるいは電子住所録から自動ダイヤルする目的で、[電子手帳](../Page/電子手帳.md "wikilink")や多機能デジタル[腕時計](../Page/腕時計.md "wikilink")に内蔵されたこともある。また、DTMF信号を復号し視覚化する解読器もある。
 
 ## 開発の経緯
 

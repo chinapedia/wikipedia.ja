@@ -11,11 +11,11 @@
 
 OPEN ICQはその名前に反し実際には、ソースコードを公開しなかった。
 
-[ICQ](https://ja.wikipedia.org/wiki/ICQ "wikilink")から名称に関する告訴を恐れ、また当時の多くのユーザは'キューキュー'という愛称で呼んでいた事から、「QQ」に改名。
+[ICQ](../Page/ICQ.md "wikilink")から名称に関する告訴を恐れ、また当時の多くのユーザは'キューキュー'という愛称で呼んでいた事から、「QQ」に改名。
 
 ## 沿革
 
-  - 1998年11月12日 - 中国[深圳に設立](https://ja.wikipedia.org/wiki/深セン市 "wikilink")。中国最大のインターネットを使った通信ソフトの開発企業。
+  - 1998年11月12日 - 中国[深圳に設立](../Page/深セン市.md "wikilink")。中国最大のインターネットを使った通信ソフトの開発企業。
   - [1999年](../Page/1999年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - テンセントは正式版「テンセントQQ」を無償公開。
   - [2004年](../Page/2004年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - [香港証券取引所](../Page/香港証券取引所.md "wikilink")に上場（コード0700）。
   - [2006年](../Page/2006年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink") - アカウントが5億4900万を上回ったことを表明。
@@ -34,12 +34,12 @@ OPEN ICQはその名前に反し実際には、ソースコードを公開しな
 
 QQには、IMとしての機能の他にも様々な機能が付いている。
 
-  - "Q-Zone"（QQ空間）- ブログ、[SNS機能なども付いている](https://ja.wikipedia.org/wiki/ソーシャル・ネットワーキング・サービス "wikilink")。
+  - "Q-Zone"（QQ空間）- ブログ、[SNS機能なども付いている](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")。
   - "騰訊微博" - ミニブログ、[Twitter](../Page/Twitter.md "wikilink")のようなもの。
   - "QQ音楽" - 音楽の再生、管理ソフト。
   - "QQ影音" - 動画の再生、管理ソフト。
   - "QQ遊戯" - QQの会員が遊べるオンラインゲーム
-  - "QQ秀" - [アバター](https://ja.wikipedia.org/wiki/アバター "wikilink")のようなもの
+  - "QQ秀" - [アバター](../Page/アバター.md "wikilink")のようなもの
   - "QQLive" - [P2P](https://ja.wikipedia.org/wiki/P2P "wikilink")を使い、動画の生放送が可能。[KeyHoleTV](../Page/KeyHoleTV.md "wikilink")や、[USTREAM](https://ja.wikipedia.org/wiki/USTREAM "wikilink")に似ている。
   - "QQ日本版"（QQの日本語バージョン）- 「モバイルQQ日本版」は、テンセント社と[KDDI](../Page/KDDI.md "wikilink")株式会社が提携して日本のユーザ向けに開発したスマートフォン向けリアルタイム通信ソフト
       -

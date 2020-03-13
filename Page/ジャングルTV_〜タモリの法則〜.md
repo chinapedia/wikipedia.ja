@@ -1,11 +1,11 @@
 > この記事は[TV ](https://ja.wikipedia.org/wiki/TV_)から翻訳されています。
 
 
-『**ジャングルTV 〜タモリの法則〜**』（ジャングルテレビ 〜タモリのほうそく〜、[英称](../Page/英語.md "wikilink")：*JUNGLE TV*）は、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）と[イーストの共同制作により](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[1994年](../Page/1994年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")まで毎週[火曜日](../Page/火曜日.md "wikilink")の22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[司会](https://ja.wikipedia.org/wiki/司会 "wikilink")を務める[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。通称は『**ジャングルTV**』。[新聞のテレビ欄には](https://ja.wikipedia.org/wiki/ラテ欄 "wikilink")「ジャングルクッキング」のコーナーが開始した[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃から『**タモリのジャングルTV**』と表記されていた。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施されていた。
+『**ジャングルTV 〜タモリの法則〜**』（ジャングルテレビ 〜タモリのほうそく〜、[英称](../Page/英語.md "wikilink")：*JUNGLE TV*）は、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）と[イーストの共同制作により](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[1994年](../Page/1994年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink")まで毎週[火曜日](../Page/火曜日.md "wikilink")の22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[司会](../Page/司会.md "wikilink")を務める[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。通称は『**ジャングルTV**』。[新聞のテレビ欄には](https://ja.wikipedia.org/wiki/ラテ欄 "wikilink")「ジャングルクッキング」のコーナーが開始した[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃から『**タモリのジャングルTV**』と表記されていた。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施されていた。
 
 ## 概要
 
-放送開始初期は、タモリをメイン[司会](https://ja.wikipedia.org/wiki/司会 "wikilink")とした、[関根勤](../Page/関根勤.md "wikilink")、[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")（[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")・[矢部浩之](../Page/矢部浩之.md "wikilink")）、[伊集院光](../Page/伊集院光.md "wikilink")（1994年4月〜1994年6月）らによる[コント](../Page/コント.md "wikilink")主体の番組であった。放送開始当初の番組の目論見としては、当時すでに、[帯](https://ja.wikipedia.org/wiki/帯番組 "wikilink")・バラエティ番組『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")）、[深夜バラエティ番組](../Page/深夜放送.md "wikilink")『[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（テレビ朝日系列）などでメイン司会者の地位を確立していたタモリに、かつての[芸人](../Page/芸人.md "wikilink")色を出してもらうべく構成された番組であり、どちらかと言えば同じくタモリがメイン司会をしていた、[トークバラエティ番組](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")『[今夜は最高\!](https://ja.wikipedia.org/wiki/今夜は最高! "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")）を彷彿とさせるような[歌](../Page/歌.md "wikilink")と[コント](../Page/コント.md "wikilink")を融合した笑いを提供していた。
+放送開始初期は、タモリをメイン[司会](../Page/司会.md "wikilink")とした、[関根勤](../Page/関根勤.md "wikilink")、[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")（[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")・[矢部浩之](../Page/矢部浩之.md "wikilink")）、[伊集院光](../Page/伊集院光.md "wikilink")（1994年4月〜1994年6月）らによる[コント](../Page/コント.md "wikilink")主体の番組であった。放送開始当初の番組の目論見としては、当時すでに、[帯](https://ja.wikipedia.org/wiki/帯番組 "wikilink")・バラエティ番組『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink")）、[深夜バラエティ番組](../Page/深夜放送.md "wikilink")『[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（テレビ朝日系列）などでメイン司会者の地位を確立していたタモリに、かつての[芸人](../Page/芸人.md "wikilink")色を出してもらうべく構成された番組であり、どちらかと言えば同じくタモリがメイン司会をしていた、[トークバラエティ番組](../Page/トーク番組.md "wikilink")『[今夜は最高\!](../Page/今夜は最高!.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")）を彷彿とさせるような[歌](../Page/歌.md "wikilink")と[コント](../Page/コント.md "wikilink")を融合した笑いを提供していた。
 
 記念すべき第1回は、「森田家の人々」「古今東西ブラザーズバンド」「占いの館」「江戸サリバンショー」「タモリの街角観察学」の5つの[コーナー](https://ja.wikipedia.org/wiki/コーナー "wikilink")が放送された。この初回ゲストはタモリの街角観察学のコーナーに出演した[小堺一機](../Page/小堺一機.md "wikilink")と[清水ミチコ](../Page/清水ミチコ.md "wikilink")の2人だった（後に両者一緒に、8年ぶりに[2002年](../Page/2002年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")放送の「緊急記者会見」と「ジャングルクッキング～真剣対決」にも出演している）。
 
@@ -19,7 +19,7 @@
 
 他には、レギュラーメンバーとは別に様々な分野のゲストを週代わりに2組以上呼ぶなど、TBS・MBS系列の[1990年代](../Page/1990年代.md "wikilink")後半の大人気番組に成長した。その後、番組のマンネリ化はあったものの、コーナーを入れ替えながらも番組は続いた。作ったコーナー数の合計は95コーナー。登場ゲスト総数は469人。
 
-[オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")のタイトルコールは「ジャングルTV」はタモリが担当し、「〜タモリの法則〜」は関根、ナインティナイン、女性メンバーらが担当していた。ただし、一時期は前時間帯番組終了後の番宣CMだけでこのタイトルコールを使用し、オープニングはタモリを模した[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")をした[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")の番組イメージ[キャラクター](../Page/キャラクター.md "wikilink")が「アー」と鳴いてロゴが表示されるという時もあった。ちなみにその「アー」の声の主はもちろんタモリである。
+[オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")のタイトルコールは「ジャングルTV」はタモリが担当し、「〜タモリの法則〜」は関根、ナインティナイン、女性メンバーらが担当していた。ただし、一時期は前時間帯番組終了後の番宣CMだけでこのタイトルコールを使用し、オープニングはタモリを模した[サングラス](../Page/サングラス.md "wikilink")をした[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")の番組イメージ[キャラクター](../Page/キャラクター.md "wikilink")が「アー」と鳴いてロゴが表示されるという時もあった。ちなみにその「アー」の声の主はもちろんタモリである。
 
 番組タイトルロゴ名表記の色は、 『** **』であった。
 
@@ -55,23 +55,23 @@
 ### 準レギュラー
 
   - [渡辺正行](../Page/渡辺正行.md "wikilink")（関根が舞台の都合で休みの時に代理で出演）
-  - [COWCOW](https://ja.wikipedia.org/wiki/COWCOW "wikilink")（[山田與志](https://ja.wikipedia.org/wiki/山田與志 "wikilink")・[多田健二](https://ja.wikipedia.org/wiki/多田健二 "wikilink")）（後期準レギュラー、「ジャングルクッキング」などで活躍）
+  - [COWCOW](../Page/COWCOW.md "wikilink")（[山田與志](https://ja.wikipedia.org/wiki/山田與志 "wikilink")・[多田健二](https://ja.wikipedia.org/wiki/多田健二 "wikilink")）（後期準レギュラー、「ジャングルクッキング」などで活躍）
   - [梶原しげる](../Page/梶原しげる.md "wikilink")　
-  - [石田敦子](https://ja.wikipedia.org/wiki/石田敦子_\(毎日放送\) "wikilink")（毎日放送[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")・現:東京支社テレビ編成部）
+  - [石田敦子](../Page/石田敦子_\(毎日放送\).md "wikilink")（毎日放送[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")・現:東京支社テレビ編成部）
   - [松井愛](../Page/松井愛.md "wikilink")（毎日放送アナウンサー）
 
 ### ナレーション
 
-  - [木村匡也](https://ja.wikipedia.org/wiki/木村匡也 "wikilink")（初期クレジットは「Kyoya」）
+  - [木村匡也](../Page/木村匡也.md "wikilink")（初期クレジットは「Kyoya」）
   - [大森章督](../Page/大森章督.md "wikilink")
   - デイブ・フロム
   - [徳弘夏生](../Page/徳弘夏生.md "wikilink")
-  - [荒川美奈子](https://ja.wikipedia.org/wiki/荒川美奈子 "wikilink")
+  - [荒川美奈子](../Page/荒川美奈子.md "wikilink")
   - 櫻庭裕士
-  - [菅原正志](https://ja.wikipedia.org/wiki/菅原正志 "wikilink")
+  - [菅原正志](../Page/菅原正志.md "wikilink")
   - [梶原しげる](../Page/梶原しげる.md "wikilink")　
-  - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
-  - [佐藤政道](https://ja.wikipedia.org/wiki/佐藤政道 "wikilink")
+  - [中田譲治](../Page/中田譲治.md "wikilink")
+  - [佐藤政道](../Page/佐藤政道.md "wikilink")
   - ウォード・セクストン
 
 ### バックバンド
@@ -165,7 +165,7 @@
 
   - ジャングル奉仕隊
     スペシャル放送時によく行われた企画。
-    レギュラー出演者が、[引越し](../Page/引越し.md "wikilink")、[リフォーム](https://ja.wikipedia.org/wiki/リフォーム "wikilink")など、ある芸能人の役に立つために活動する。
+    レギュラー出演者が、[引越し](../Page/引越し.md "wikilink")、[リフォーム](../Page/リフォーム.md "wikilink")など、ある芸能人の役に立つために活動する。
     [丹波哲郎](../Page/丹波哲郎.md "wikilink")のために犬小屋を作ったこともある。
     だが、相手がお笑い芸人（ナインティナインの場合もある）の場合、過剰なリフォームをして大きなお世話になったり、結果として嫌がらせになるお約束的展開も多かった。
 
@@ -174,12 +174,12 @@
   - 炎の料理人伝説 ジャングルクッキング JUNGLE COOKING（THE RELAY COOK'N SHOW）
     [料理](../Page/料理.md "wikilink")の天才 → 料理の帝王：タモリ、料理の凡人 → 料理の芸術家：関根勤、料理の新人 → 料理の新星：ナインティナインが、ゲストとともに料理に挑戦をする。
     進行役は渡辺満里奈。渡辺降板後は矢部浩之が担当。
-    「お手本VTR」（料理解説と実演：[江上佳奈美](../Page/江上佳奈美.md "wikilink")）を参考に、テーマ料理の完成を目指す。初回のテーマ料理は[オムライス](https://ja.wikipedia.org/wiki/オムライス "wikilink")であった。
+    「お手本VTR」（料理解説と実演：[江上佳奈美](../Page/江上佳奈美.md "wikilink")）を参考に、テーマ料理の完成を目指す。初回のテーマ料理は[オムライス](../Page/オムライス.md "wikilink")であった。
     料理作成の工程は3〜4つほどに分かれており、「今日の料理の運命を決める クッキングホイール（COOKING WHEEL）」と呼ばれるルーレットで、各工程の担当者を決定する。なお、このシステムは矢部が進行役になったのと同時に廃止された。一時期、「レシピダンサーズ」が各工程の担当者を発表していたこともあった。
     ほとんどの回で1回はゲストが担当者に当たっていた。
     特に[明石家さんま](../Page/明石家さんま.md "wikilink")がゲストの回は4工程全て彼に当たり、文句を垂らして料理を作った。その時の料理は「**[さんま](../Page/サンマ.md "wikilink")**定食」だった。料理を作る人を決めるクッキングホイールが全てさんまの所で止まるという珍事が発生し、さんまは驚きの余りにセットの電飾の一部を消した。
     実際には担当者がメインで調理するということであり、調理自体は全員参加していた。生簀から魚をすくいその場で捌く、などのダイナミックな演出もあった。
-    料理好きのタモリは時に真剣に、時に嬉々として調理を行い、たまに余った食材でタモリオリジナル料理を作り、皆に振舞っていた。この時にタモリ専用[七輪](https://ja.wikipedia.org/wiki/七輪 "wikilink")が登場することもあった。
+    料理好きのタモリは時に真剣に、時に嬉々として調理を行い、たまに余った食材でタモリオリジナル料理を作り、皆に振舞っていた。この時にタモリ専用[七輪](../Page/七輪.md "wikilink")が登場することもあった。
     [ふぐ](https://ja.wikipedia.org/wiki/ふぐ "wikilink")を食材として使用したが、ふぐを捌くには専用の免許が必要な為、その部分のみを免許を持っている調理人が処理を行い、さらにスタジオが位置するのが[東京都](../Page/東京都.md "wikilink")であるため、都[条例](../Page/条例.md "wikilink")で認可調理場以外で処理されたふぐは食べることが禁止されている事から、事前に認可調理場で処理されたふぐに差し替えて以後の調理を行った。
     [1994年](../Page/1994年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")スタート、[1999年](../Page/1999年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")終了。
 
@@ -240,7 +240,7 @@
 <!-- end list -->
 
   - 変身\!歌謡ショー
-    進行役の岡村隆史が提示するテーマに沿って、ある曲の歌詞をリメイクする。要は[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")の作成である。
+    進行役の岡村隆史が提示するテーマに沿って、ある曲の歌詞をリメイクする。要は[替え歌](../Page/替え歌.md "wikilink")の作成である。
     ただし、曲のタイトル・歌手は知らされず、各フレーズの文字数のみが発表される。出演者は自分が担当するフレーズのみリメイクする。
     最後に、原曲の歌手が登場し、リメイクされた歌詞で歌う。
     [1999年](../Page/1999年.md "wikilink")春頃に放送された「変身\!歌謡ショー」では、週ゲストの[野村沙知代](../Page/野村沙知代.md "wikilink")とコーナーゲスト[南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink")が、タモリ・関根と共に矢部（岡村の代役進行）を無視し即興で歌を歌うハプニングがあり、タモリは（当番組がTBS系列で放送していることや、タモリが[テレビ朝日系列の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」の司会を務めているにも関わらず）「次は『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』だ」と、他局（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）の番組名を口走ってしまった。
@@ -250,7 +250,7 @@
 
   - 巷の法則
     巷にあるとされている法則を検証するVTR企画。
-    進行役は[石田敦子が担当](https://ja.wikipedia.org/wiki/石田敦子_\(毎日放送\) "wikilink")。
+    進行役は[石田敦子が担当](../Page/石田敦子_\(毎日放送\).md "wikilink")。
     このコーナーにのみコメンテーターとして[ひさうちみちお](../Page/ひさうちみちお.md "wikilink")が出演。
 
 <!-- end list -->
@@ -291,7 +291,7 @@
 
   - チャー1（ワン）グランプリ
     芸能界一おいしい[チャーハン](../Page/チャーハン.md "wikilink")を作るのは誰かを決定するトーナメント戦。
-    [大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")との決勝を制したタモリが優勝した。
+    [大竹まこと](../Page/大竹まこと.md "wikilink")との決勝を制したタモリが優勝した。
     進行役は矢部浩之が担当。
 
 <!-- end list -->
@@ -341,7 +341,7 @@
     視聴者から投稿された珍しい瞬間を撮影したビデオ50本の中から、レギュラー陣が1本を選び、その内容に関して点数をつけるという企画。
     コーナータイトルの由来は、番組の収録が行われている東京メディアシティをもじったもの。
     しかし、実際はビデオはスタッフが用意したものが大半だったり、レギュラー陣が「じゃぁ3番のテープをお願いします」と言うと、タモリが「分かりました。では6番、いってみましょう\!」と違う番号を返していたことから、明らかにタイトルだけで50本も用意していないことがみえみえであった。
-    また、その内容に関しても「**オナラで火をつける**」や「**英語を話す[デーブ・スペクター](https://ja.wikipedia.org/wiki/デーブ・スペクター "wikilink")**」など、奇抜な内容が多く、全体的にグダグダ感が漂い、まるでタモリ自身が司会を務める『[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）のような雰囲気のコーナーであった。
+    また、その内容に関しても「**オナラで火をつける**」や「**英語を話す[デーブ・スペクター](../Page/デーブ・スペクター.md "wikilink")**」など、奇抜な内容が多く、全体的にグダグダ感が漂い、まるでタモリ自身が司会を務める『[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）のような雰囲気のコーナーであった。
 
 <!-- end list -->
 
@@ -358,9 +358,9 @@
 
 ### 最終回時点
 
-  - ナレーション：[菅原正志](https://ja.wikipedia.org/wiki/菅原正志 "wikilink")、[梶原しげる](../Page/梶原しげる.md "wikilink")
+  - ナレーション：[菅原正志](../Page/菅原正志.md "wikilink")、[梶原しげる](../Page/梶原しげる.md "wikilink")
   - 企画：久松定隆（[電通](../Page/電通.md "wikilink")）
-  - 構成：川崎良、[高橋秀樹](https://ja.wikipedia.org/wiki/高橋秀樹_\(放送作家\) "wikilink")、[安達元一](https://ja.wikipedia.org/wiki/安達元一 "wikilink")、須平敦宣、野村正樹
+  - 構成：川崎良、[高橋秀樹](https://ja.wikipedia.org/wiki/高橋秀樹_\(放送作家\) "wikilink")、[安達元一](../Page/安達元一.md "wikilink")、須平敦宣、野村正樹
   - TP（テクニカルプロデューサー）：森野憲俊（以前はTD（テクニカルディレクター））
   - SW（スイッチャー）：島本健司
   - CAM（カメラマン）：長瀬正人
@@ -368,7 +368,7 @@
   - AUD（オーディオ）：石井俊二
   - PA（ピーエー）: 後藤龍幸（サンフォニックス）
   - LD（ライティングディレクター）：石井健治
-  - 音効：田村智之（[J-WORKS](https://ja.wikipedia.org/wiki/J-WORKS "wikilink")）
+  - 音効：田村智之（[J-WORKS](../Page/J-WORKS.md "wikilink")）
   - TK（タイムキーパー）：大塚久子
   - VTR編集：[石丸健一](../Page/まるビデオ.md "wikilink")
   - MA（マルチオーディオ）：松元祐二
@@ -392,14 +392,14 @@
 
 ### 歴代スタッフ
 
-  - ナレーション：[木村匡也](https://ja.wikipedia.org/wiki/木村匡也 "wikilink")（初期クレジットは「Kyoya」）、[大森章督](../Page/大森章督.md "wikilink")、デイブ・フロム、[徳弘夏生](../Page/徳弘夏生.md "wikilink")、[荒川美奈子](https://ja.wikipedia.org/wiki/荒川美奈子 "wikilink")、櫻庭裕士、[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")、[佐藤政道](https://ja.wikipedia.org/wiki/佐藤政道 "wikilink")、ウォード・セクストン
+  - ナレーション：[木村匡也](../Page/木村匡也.md "wikilink")（初期クレジットは「Kyoya」）、[大森章督](../Page/大森章督.md "wikilink")、デイブ・フロム、[徳弘夏生](../Page/徳弘夏生.md "wikilink")、[荒川美奈子](../Page/荒川美奈子.md "wikilink")、櫻庭裕士、[中田譲治](../Page/中田譲治.md "wikilink")、[佐藤政道](../Page/佐藤政道.md "wikilink")、ウォード・セクストン
   - 企画：[田辺昭知](https://ja.wikipedia.org/wiki/田辺昭知 "wikilink")（田辺エージェンシー）
   - 監修：竹島達修（監修に就く前は演出）、波多野健（監修に就く前はプロデューサー）
-  - 構成：[詩村博史](https://ja.wikipedia.org/wiki/詩村博史 "wikilink")、[倉本美津留](https://ja.wikipedia.org/wiki/倉本美津留 "wikilink")、水野しげゆき、[小山薫堂](../Page/小山薫堂.md "wikilink")、[野村正浩](https://ja.wikipedia.org/wiki/野村正浩 "wikilink")、[鮫肌文殊](https://ja.wikipedia.org/wiki/鮫肌文殊 "wikilink")、樋口弘樹、野中浩之、[三木聡](https://ja.wikipedia.org/wiki/三木聡 "wikilink")、松本康男、細川徹、[都築浩](https://ja.wikipedia.org/wiki/都築浩 "wikilink")、海老克哉、[中野俊成](https://ja.wikipedia.org/wiki/中野俊成 "wikilink")、[堀江利幸](../Page/堀江利幸.md "wikilink")、[酒井健作](../Page/酒井健作.md "wikilink")
+  - 構成：[詩村博史](../Page/詩村博史.md "wikilink")、[倉本美津留](../Page/倉本美津留.md "wikilink")、水野しげゆき、[小山薫堂](../Page/小山薫堂.md "wikilink")、[野村正浩](https://ja.wikipedia.org/wiki/野村正浩 "wikilink")、[鮫肌文殊](../Page/鮫肌文殊.md "wikilink")、樋口弘樹、野中浩之、[三木聡](../Page/三木聡.md "wikilink")、松本康男、細川徹、[都築浩](../Page/都築浩.md "wikilink")、海老克哉、[中野俊成](../Page/中野俊成.md "wikilink")、[堀江利幸](../Page/堀江利幸.md "wikilink")、[酒井健作](../Page/酒井健作.md "wikilink")
   - CAM（カメラマン）：花島和弘
   - VE（ビデオエンジニア）：高瀬義美、西脇貴美孝
   - AUD（オーディオ）：間野目政孝
-  - 音効：有馬克己（ジャイロ 旧・東京サウンド企画）、田中寿一（[J-WORKS](https://ja.wikipedia.org/wiki/J-WORKS "wikilink")）
+  - 音効：有馬克己（ジャイロ 旧・東京サウンド企画）、田中寿一（[J-WORKS](../Page/J-WORKS.md "wikilink")）
   - VTR編集：大内一学（RVC）、吉野雅久（RVC）
   - MA（マルチオーディオ）：石沢英雄（ビームテレビセンター）、林光伸（RVC）、浮辺浩二（RVC）
   - 装飾：林成利、松崎純一、鈴木喜勝
@@ -414,7 +414,7 @@
   - 演出：竹島達修 → [西滝順二](https://ja.wikipedia.org/wiki/西瀧順二 "wikilink")、菊池計理、今井康之、安井健、上西浩之、手塚公一、[上川伸廣](../Page/上川伸廣.md "wikilink")
   - プロデューサー：岡田公伸（毎日放送）、白石統一郎・町田修一（電通）、奥村正・瀬崎一世・上川伸廣（イースト）
   - リサーチ：[フルタイム](../Page/フルタイム.md "wikilink")、オフィス文、フォーチュンスープ
-  - 協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、貝印株式会社、カメイガラス、[ジャイロ](https://ja.wikipedia.org/wiki/ジャイロ "wikilink")（旧・東京サウンド企画）
+  - 協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、貝印株式会社、カメイガラス、[ジャイロ](../Page/ジャイロ.md "wikilink")（旧・東京サウンド企画）
 
 ## ネット局と放送時間
 
@@ -434,25 +434,25 @@
 | [静岡県](../Page/静岡県.md "wikilink")                                                     | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）       |                                                                      |                                                                                                                                                     |                                                |         |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")                                  | [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）                |                                                                      |                                                                                                                                                     |                                                |         |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")                                  | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）       |                                                                      |                                                                                                                                                     |                                                |         |
-| [中京広域圏](https://ja.wikipedia.org/wiki/東海3県 "wikilink")                               | [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）   | 現：CBCテレビ                                                             |                                                                                                                                                     |                                                |         |
+| [中京広域圏](../Page/東海3県.md "wikilink")                                                  | [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）   | 現：CBCテレビ                                                             |                                                                                                                                                     |                                                |         |
 | [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink")                    | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）       |                                                                      |                                                                                                                                                     |                                                |         |
 | [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")                                          | [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）     | 現：RSK山陽放送                                                            |                                                                                                                                                     |                                                |         |
 | [広島県](../Page/広島県.md "wikilink")                                                     | [中国放送](../Page/中国放送.md "wikilink")（RCC）                          |                                                                      |                                                                                                                                                     |                                                |         |
 | [山口県](../Page/山口県.md "wikilink")                                                     | [テレビ山口](../Page/テレビ山口.md "wikilink")（tys）                        |                                                                      |                                                                                                                                                     |                                                |         |
 | [愛媛県](../Page/愛媛県.md "wikilink")                                                     | [あいテレビ](../Page/あいテレビ.md "wikilink")（ITV）                        |                                                                      |                                                                                                                                                     |                                                |         |
 | [高知県](../Page/高知県.md "wikilink")                                                     | [テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）                       |                                                                      |                                                                                                                                                     |                                                |         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")                                  | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKB） |                                                                      |                                                                                                                                                     |                                                |         |
+| [福岡県](../Page/福岡県.md "wikilink")                                                     | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKB） |                                                                      |                                                                                                                                                     |                                                |         |
 | [長崎県](../Page/長崎県.md "wikilink")                                                     | [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")（NBC）       |                                                                      |                                                                                                                                                     |                                                |         |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")                                  | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）       |                                                                      |                                                                                                                                                     |                                                |         |
 | [大分県](../Page/大分県.md "wikilink")                                                     | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")（OBS）       |                                                                      |                                                                                                                                                     |                                                |         |
 | [宮崎県](../Page/宮崎県.md "wikilink")                                                     | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）       |                                                                      |                                                                                                                                                     |                                                |         |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                                                   | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）     |                                                                      |                                                                                                                                                     |                                                |         |
-| [沖縄県](../Page/沖縄県.md "wikilink")                                                     | [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")（RBC）       |                                                                      |                                                                                                                                                     |                                                |         |
+| [沖縄県](../Page/沖縄県.md "wikilink")                                                     | [琉球放送](../Page/琉球放送.md "wikilink")（RBC）                          |                                                                      |                                                                                                                                                     |                                                |         |
 
 ## 関連番組
 
   - [ビートたけしのつくり方](../Page/ビートたけしのつくり方.md "wikilink") - ジャングルTVの制作前にイーストの一部スタッフが製作していた。
-  - [タモリの音楽は世界だ](https://ja.wikipedia.org/wiki/タモリの音楽は世界だ "wikilink") - タモリ出演、イースト制作による音楽バラエティ番組。
+  - [タモリの音楽は世界だ](../Page/タモリの音楽は世界だ.md "wikilink") - タモリ出演、イースト制作による音楽バラエティ番組。
 
 ## 脚注
 

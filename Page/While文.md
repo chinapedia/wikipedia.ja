@@ -54,7 +54,7 @@ while (x < 100) {
 `x は 98 です。`
 `x は 99 です。`
 
-[変数](https://ja.wikipedia.org/wiki/変数_\(プログラミング\) "wikilink")`x`の初期値は0であり、ループ本体の処理を1回実行するたびにインクリメントされる。`x`の値が100未満すなわち99のときまではループ本体の処理が実行され、最終的に`x`の値が100になる。その後、継続条件式を評価するとき、条件は成り立たなくなり、ループは終了する。
+[変数](../Page/変数_\(プログラミング\).md "wikilink")`x`の初期値は0であり、ループ本体の処理を1回実行するたびにインクリメントされる。`x`の値が100未満すなわち99のときまではループ本体の処理が実行され、最終的に`x`の値が100になる。その後、継続条件式を評価するとき、条件は成り立たなくなり、ループは終了する。
 
 #### ループの脱出と継続
 
@@ -86,7 +86,7 @@ Full BASIC（INCITS/ISO/IEC 10279-1991 (R2005) "Information Technology – Progr
 
 #### 構文
 
-[Visual Basic .NETにおけるWhile文は以下のような構文である](https://ja.wikipedia.org/wiki/Visual_Basic_.NET "wikilink")\[3\]。[Visual Basicでは](../Page/Visual_Basic.md "wikilink") While...Wend だが、VB.NETでは While...End While となっている。
+[Visual Basic .NETにおけるWhile文は以下のような構文である](../Page/Visual_Basic_.NET.md "wikilink")\[3\]。[Visual Basicでは](../Page/Visual_Basic.md "wikilink") While...Wend だが、VB.NETでは While...End While となっている。
 
 ``` vbnet
 While 条件
@@ -108,7 +108,7 @@ Do [(While|Until) 条件]
 Loop [(While|Until) 条件]
 ```
 
-Do の後に While を続ければ、while文に相当し、Loop の後に Until を続ければ、Pascalの repeat-until に相当する。どちらにも条件を付けなければ、単純な[無限ループ](https://ja.wikipedia.org/wiki/無限ループ "wikilink")になる。
+Do の後に While を続ければ、while文に相当し、Loop の後に Until を続ければ、Pascalの repeat-until に相当する。どちらにも条件を付けなければ、単純な[無限ループ](../Page/無限ループ.md "wikilink")になる。
 
 ## 注
 
@@ -121,7 +121,7 @@ Do の後に While を続ければ、while文に相当し、Loop の後に Until
   - [do-while文](https://ja.wikipedia.org/wiki/do-while文 "wikilink")
   - [goto文](https://ja.wikipedia.org/wiki/goto文 "wikilink")
   - [制御構造](../Page/制御構造.md "wikilink")
-  - [無限ループ](https://ja.wikipedia.org/wiki/無限ループ "wikilink")
+  - [無限ループ](../Page/無限ループ.md "wikilink")
 
 [Category:制御構造](https://ja.wikipedia.org/wiki/Category:制御構造 "wikilink") [Category:C言語](https://ja.wikipedia.org/wiki/Category:C言語 "wikilink") [Category:Pascal](https://ja.wikipedia.org/wiki/Category:Pascal "wikilink")
 

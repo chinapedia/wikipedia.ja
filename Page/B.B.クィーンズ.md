@@ -3,11 +3,11 @@
 
 **B.B.クィーンズ**（ビービークィーンズ、B.B.QUEENS）は、[ビーイング](../Page/ビーイング.md "wikilink")が企画した[音楽グループ](../Page/音楽ユニット.md "wikilink")\[1\]。
 
-[コーラスグループ](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（B.B.クィーンズシスターズ）以外、同じレーベルのミュージシャンを集め結成。グループ名の由来は、所属事務所であるビーイングと当時の所属レコード会社であったBMGルームスの頭文字で「B.B.」となるため、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ブルース](../Page/ブルース.md "wikilink")歌手、[B.B.キング](../Page/B.B.キング.md "wikilink")をもじって「B.B.クィーンズ」とした。なお、B.B.クィーンズシスターズは後に[Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")として単独活動も行っていた。[2011年](../Page/2011年.md "wikilink")に活動再開。
+[コーラスグループ](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（B.B.クィーンズシスターズ）以外、同じレーベルのミュージシャンを集め結成。グループ名の由来は、所属事務所であるビーイングと当時の所属レコード会社であったBMGルームスの頭文字で「B.B.」となるため、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ブルース](../Page/ブルース.md "wikilink")歌手、[B.B.キング](../Page/B.B.キング.md "wikilink")をもじって「B.B.クィーンズ」とした。なお、B.B.クィーンズシスターズは後に[Mi-Ke](../Page/Mi-Ke.md "wikilink")として単独活動も行っていた。[2011年](../Page/2011年.md "wikilink")に活動再開。
 
 ## 概要
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、アニメ『[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")』のエンディングテーマ「[おどるポンポコリン](https://ja.wikipedia.org/wiki/おどるポンポコリン "wikilink")」でデビュー（当初は覆面ユニットであったため、メンバーのプロフィール等は暫く伏せられた）。同年の[オリコン年間シングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位のヒットとなり、同年の[第32回日本レコード大賞](https://ja.wikipedia.org/wiki/第32回日本レコード大賞 "wikilink")ポップス・ロック部門を受賞。『[第41回NHK紅白歌合戦](../Page/第41回NHK紅白歌合戦.md "wikilink")』にも出場している。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、アニメ『[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")』のエンディングテーマ「[おどるポンポコリン](../Page/おどるポンポコリン.md "wikilink")」でデビュー（当初は覆面ユニットであったため、メンバーのプロフィール等は暫く伏せられた）。同年の[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")1位のヒットとなり、同年の[第32回日本レコード大賞](https://ja.wikipedia.org/wiki/第32回日本レコード大賞 "wikilink")ポップス・ロック部門を受賞。『[第41回NHK紅白歌合戦](../Page/第41回NHK紅白歌合戦.md "wikilink")』にも出場している。
 
 当初、メンバーはB.B.クィーンズとしてのテレビ出演を考えてはいなかった\[2\]。「おどるポンポコリン」の爆発的ヒットにより出演要望が殺到した後もしばらくはメンバーのスケジュール調整が取れないこと、早回し音源を使った曲のため生歌唱での再現が難しいことを理由に辞退し続けていた\[3\]。1990年8月29日放送の[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")SUPER』がテレビ初出演となった\[4\]。
 
@@ -49,7 +49,7 @@
 <td><p><br />
  <a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/枚方市.md" title="wikilink">枚方市</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a></strong><br />
-<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a>・<a href="../Page/作曲.md" title="wikilink">作曲</a></p></td>
+<a href="../Page/作詞.md" title="wikilink">作詞</a>・<a href="../Page/作曲.md" title="wikilink">作曲</a></p></td>
 <td><p>●</p></td>
 </tr>
 <tr class="odd">
@@ -58,7 +58,7 @@
 <td><p><br />
  <a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/刈谷市.md" title="wikilink">刈谷市</a></p></td>
 <td><p><strong>ボーカル・<a href="../Page/ギター.md" title="wikilink">ギター</a></strong><br />
-<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a>・<a href="../Page/作曲.md" title="wikilink">作曲</a></p></td>
+<a href="../Page/作詞.md" title="wikilink">作詞</a>・<a href="../Page/作曲.md" title="wikilink">作曲</a></p></td>
 <td><p>●</p></td>
 </tr>
 <tr class="even">
@@ -71,16 +71,16 @@
 <td><p>●</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/栗林誠一郎" title="wikilink">栗林誠一郎</a></strong><br />
+<td><p><strong><a href="../Page/栗林誠一郎.md" title="wikilink">栗林誠一郎</a></strong><br />
 （くりばやし せいいちろう）</p></td>
 <td><p><br />
  <a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></strong><br />
+<td><p><strong><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></strong><br />
 <a href="../Page/作曲.md" title="wikilink">作曲</a></p></td>
 <td><p>●</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/望月衛介" title="wikilink">望月衛介</a></strong><br />
+<td><p><strong><a href="../Page/望月衛介.md" title="wikilink">望月衛介</a></strong><br />
 （もちづき えいすけ）</p></td>
 <td><p><br />
  東京都</p></td>
@@ -89,7 +89,7 @@
 <td><p>●</p></td>
 </tr>
 <tr class="odd">
-<td><p>B.B.クィーンズシスターズ（<a href="https://ja.wikipedia.org/wiki/Mi-Ke" title="wikilink">Mi-Ke</a>）</p></td>
+<td><p>B.B.クィーンズシスターズ（<a href="../Page/Mi-Ke.md" title="wikilink">Mi-Ke</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -140,7 +140,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>1990年4月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おどるポンポコリン" title="wikilink">おどるポンポコリン</a></p></td>
+<td><p><a href="../Page/おどるポンポコリン.md" title="wikilink">おどるポンポコリン</a></p></td>
 <td><p>作詞：<a href="../Page/さくらももこ.md" title="wikilink">さくらももこ</a><br />
 作曲：<a href="../Page/織田哲郎.md" title="wikilink">織田哲郎</a><br />
 編曲：織田哲郎</p></td>
@@ -200,7 +200,7 @@
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2011年5月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/おどるポンポコリン" title="wikilink">おどるポンポコリン 誕生 25th Version〜</a>〜ちびまる子ちゃん</p></td>
+<td><p><a href="../Page/おどるポンポコリン.md" title="wikilink">おどるポンポコリン 誕生 25th Version〜</a>〜ちびまる子ちゃん</p></td>
 <td><p>作詞：さくらももこ<br />
 作曲：織田哲郎<br />
 編曲：葉山たけし</p></td>
@@ -257,26 +257,26 @@
 
 ### DVD
 
-1.  **[BEING LEGEND Live Tour 2012](https://ja.wikipedia.org/wiki/BEING_LEGEND_Live_Tour_2012 "wikilink")** （2012/4/10、[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")、[FIELD OF VIEW](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")と共演）
+1.  **[BEING LEGEND Live Tour 2012](https://ja.wikipedia.org/wiki/BEING_LEGEND_Live_Tour_2012 "wikilink")** （2012/4/10、[T-BOLAN](../Page/T-BOLAN.md "wikilink")、[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")と共演）
 
 ## タイアップ
 
-| 楽曲                                      | タイアップ                                                                                                                             |
-| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **おどるポンポコリン**                           | [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")」初代EDテーマ                 |
-| **ギンギラパラダイス**                           | 「[Victoria](https://ja.wikipedia.org/wiki/ゼビオ "wikilink")」CMソング                                                                   |
-| **君にコケコッコー\!**                          | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「\[\[クイズ世界はSHOW_by_ショーバイ                                                                |
-| **ぼくらの七日間戦争〜Seven Days Dream〜**         | 映画「[ぼくらの七日間戦争2](https://ja.wikipedia.org/wiki/ぼくらの七日間戦争#ぼくらの七日間戦争2 "wikilink")」主題歌                                                |
-| **キスの途中**                               | [NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")「[週刊・ヤング情報](https://ja.wikipedia.org/wiki/週刊・ヤング情報 "wikilink")」EDテーマ |
-| **Dream Island**                        | 「TOKYO SLIM'91」キャンペーン イメージソング                                                                                                     |
-| **ドレミファだいじょーぶ**                         | 日本テレビ系「[はじめてのおつかい](../Page/はじめてのおつかい_\(テレビ番組\).md "wikilink")」主題歌                                                                 |
-| **しょげないでよBaby**                         | 日本テレビ系「はじめてのおつかい」挿入歌                                                                                                              |
-| **夢のENDはいつも目覚まし\!**                     | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ「[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")」2代目OPテーマ         |
-| **おどるポンポコリン〜ちびまる子ちゃん 誕生 25th Version〜** | フジテレビ系アニメ「ちびまる子ちゃん」OPテーマ                                                                                                          |
-| **一番先に、君が好き**                           | 日本テレビ系「はじめてのおつかい 夏の大冒険スペシャル」挿入歌                                                                                                   |
-| **未来のmemories**                         | [TBS系](../Page/TBSテレビ.md "wikilink")「[噂の東京マガジン](https://ja.wikipedia.org/wiki/噂の東京マガジン "wikilink")」EDテーマ                          |
-| **小さな旅**                                | 日本テレビ系「[ぶらり途中下車の旅](https://ja.wikipedia.org/wiki/ぶらり途中下車の旅 "wikilink")」EDテーマ                                                      |
-| **木枯らしが友達**                             |                                                                                                                                   |
+| 楽曲                                      | タイアップ                                                                                                                     |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **おどるポンポコリン**                           | [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")」初代EDテーマ         |
+| **ギンギラパラダイス**                           | 「[Victoria](https://ja.wikipedia.org/wiki/ゼビオ "wikilink")」CMソング                                                           |
+| **君にコケコッコー\!**                          | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「\[\[クイズ世界はSHOW_by_ショーバイ                                                        |
+| **ぼくらの七日間戦争〜Seven Days Dream〜**         | 映画「[ぼくらの七日間戦争2](https://ja.wikipedia.org/wiki/ぼくらの七日間戦争#ぼくらの七日間戦争2 "wikilink")」主題歌                                        |
+| **キスの途中**                               | [NHK総合](../Page/NHK総合テレビジョン.md "wikilink")「[週刊・ヤング情報](https://ja.wikipedia.org/wiki/週刊・ヤング情報 "wikilink")」EDテーマ            |
+| **Dream Island**                        | 「TOKYO SLIM'91」キャンペーン イメージソング                                                                                             |
+| **ドレミファだいじょーぶ**                         | 日本テレビ系「[はじめてのおつかい](../Page/はじめてのおつかい_\(テレビ番組\).md "wikilink")」主題歌                                                         |
+| **しょげないでよBaby**                         | 日本テレビ系「はじめてのおつかい」挿入歌                                                                                                      |
+| **夢のENDはいつも目覚まし\!**                     | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ「[クレヨンしんちゃん](https://ja.wikipedia.org/wiki/クレヨンしんちゃん_\(アニメ\) "wikilink")」2代目OPテーマ |
+| **おどるポンポコリン〜ちびまる子ちゃん 誕生 25th Version〜** | フジテレビ系アニメ「ちびまる子ちゃん」OPテーマ                                                                                                  |
+| **一番先に、君が好き**                           | 日本テレビ系「はじめてのおつかい 夏の大冒険スペシャル」挿入歌                                                                                           |
+| **未来のmemories**                         | [TBS系](../Page/TBSテレビ.md "wikilink")「[噂の東京マガジン](https://ja.wikipedia.org/wiki/噂の東京マガジン "wikilink")」EDテーマ                  |
+| **小さな旅**                                | 日本テレビ系「[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")」EDテーマ                                                                 |
+| **木枯らしが友達**                             |                                                                                                                           |
 
 ## テレビ
 

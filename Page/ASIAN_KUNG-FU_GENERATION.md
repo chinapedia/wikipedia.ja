@@ -7,15 +7,15 @@
 
 1996年4月、[関東学院大学](../Page/関東学院大学.md "wikilink")軽音楽部内で結成された。入学時に後藤はとある音楽サークルから勧誘を受けるが、集合場所を間違えて別の集合場所に行ってしまい、そこで喜多建介と出会う。当時その部活にはUKロックファンが喜多しかおらず、話をしているうちに盛り上がり「バンドを組もう\!\!」となり結成。後藤曰く、「喜多君に待ち伏せされて結成した。」と言う\[1\]。当時、後藤は2部、つまり夜間学生であったので授業が始まるのが夜からであったのにもかかわらず、喜多が夜まで大学構内で待っており後ろから(犬笛のような高さの声で)「後藤君」と声をかけられたというエピソードがある\[2\]。
 
-バンド名の由来は、後藤が好きだった[THEE MICHELLE GUN ELEPHANTが](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")、英単語を3つ使用している事から「3つ単語を使おう」と思い立ち、考えた末に「ASIAN KUNG-FU GENERATION」で決定。「海外の人たちが読んで驚くような名前」という意味も込められている。“[カンフー](https://ja.wikipedia.org/wiki/カンフー "wikilink")”は、後藤が[カンフー映画](https://ja.wikipedia.org/wiki/カンフー映画 "wikilink")好きだから。このバンド名について、[オアシス元メンバーの](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")[ノエル・ギャラガー](https://ja.wikipedia.org/wiki/ノエル・ギャラガー "wikilink")からは「クソ素晴らしいバンド名だ。(Fuck'n cool\!)」とコメントを受けている。また、リアム・ギャラガーから「バンド名にカンフーって付いてるけどお前カンフーできんのか?」と聞かれた際、リアム曰く「クソ下手くそな英語」で「できません。」と答えたという話があるが、後藤曰くデマであるとのこと。略称は、「**アジカン**」。文字媒体では「**AKG**」または「**AKFG**」と称される事もある。ちなみに、「ゴーゴーシーチキンボーイズ」というバンド名の候補もあった\[3\]。また、大学時代山田が加入した際後藤から「バンド名はアジカンだから。」と言われたが正式名称を長らく聞き出せず、「何かの略なんだろうな。」としか思っていなかったというエピソードがある。
+バンド名の由来は、後藤が好きだった[THEE MICHELLE GUN ELEPHANTが](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")、英単語を3つ使用している事から「3つ単語を使おう」と思い立ち、考えた末に「ASIAN KUNG-FU GENERATION」で決定。「海外の人たちが読んで驚くような名前」という意味も込められている。“[カンフー](https://ja.wikipedia.org/wiki/カンフー "wikilink")”は、後藤が[カンフー映画](https://ja.wikipedia.org/wiki/カンフー映画 "wikilink")好きだから。このバンド名について、[オアシス元メンバーの](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")[ノエル・ギャラガー](../Page/ノエル・ギャラガー.md "wikilink")からは「クソ素晴らしいバンド名だ。(Fuck'n cool\!)」とコメントを受けている。また、リアム・ギャラガーから「バンド名にカンフーって付いてるけどお前カンフーできんのか?」と聞かれた際、リアム曰く「クソ下手くそな英語」で「できません。」と答えたという話があるが、後藤曰くデマであるとのこと。略称は、「**アジカン**」。文字媒体では「**AKG**」または「**AKFG**」と称される事もある。ちなみに、「ゴーゴーシーチキンボーイズ」というバンド名の候補もあった\[3\]。また、大学時代山田が加入した際後藤から「バンド名はアジカンだから。」と言われたが正式名称を長らく聞き出せず、「何かの略なんだろうな。」としか思っていなかったというエピソードがある。
 
 「ソラニン」を除く全楽曲の[歌詞](../Page/歌詞.md "wikilink")は、後藤が手掛けている（「ソラニン」は、同名の漫画原作者である[浅野いにお](../Page/浅野いにお.md "wikilink")作詞）。情景描写と心理描写を巧みに駆使した、ほとんど日本語で綴られる抽象度の高い歌詞が特徴である（インディーズ時代は、全編英語詞の楽曲ばかりだった）。CDに付属している歌詞カードが縦書きなのは、後藤が[eastern youthの影響を受けており](https://ja.wikipedia.org/wiki/eastern_youth "wikilink")\[4\]、また、単に横書きが苦手であるからである\[5\]。作詞時も同様に縦書きで歌詞をノートに綴っている。
 
-作曲もほとんどが後藤の手によるものだが、他のメンバーが作曲に関わることもある。また、曲を作ったメンバーが歌えばいいという方針であり、喜多が作曲した「嘘とワンダーランド」では、後藤ではなく喜多がメインボーカルを担当している。なお、初期の音楽性は、叙情的なメロディと歌詞に、後藤の叫ぶ様なエモーショナルなボーカルが乗るという点が[eastern youthと共通しており](https://ja.wikipedia.org/wiki/eastern_youth "wikilink")、影響を色濃く受けている。また、『N.G.S』（"ナンバーガール・シンドローム"の略）というタイトルの楽曲を作ったりするなど、[NUMBER GIRLからの影響も随所に伺える](https://ja.wikipedia.org/wiki/NUMBER_GIRL "wikilink")。曲の[コーラスは](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、殆んど喜多が担当しているが、6th[アルバム](../Page/アルバム.md "wikilink")、『[マジックディスク](https://ja.wikipedia.org/wiki/マジックディスク "wikilink")』収録曲のコーラスは、「双子葉」を除き全て後藤自身が担当した\[6\]。また、自主制作盤、[Easter](https://ja.wikipedia.org/wiki/Easter "wikilink")、[Wonder Futureを除く](https://ja.wikipedia.org/wiki/Wonder_Future "wikilink")[CDジャケットは](../Page/コンパクトディスク.md "wikilink")、全て[中村佑介](https://ja.wikipedia.org/wiki/中村佑介 "wikilink")のイラスト。
+作曲もほとんどが後藤の手によるものだが、他のメンバーが作曲に関わることもある。また、曲を作ったメンバーが歌えばいいという方針であり、喜多が作曲した「嘘とワンダーランド」では、後藤ではなく喜多がメインボーカルを担当している。なお、初期の音楽性は、叙情的なメロディと歌詞に、後藤の叫ぶ様なエモーショナルなボーカルが乗るという点が[eastern youthと共通しており](https://ja.wikipedia.org/wiki/eastern_youth "wikilink")、影響を色濃く受けている。また、『N.G.S』（"ナンバーガール・シンドローム"の略）というタイトルの楽曲を作ったりするなど、[NUMBER GIRLからの影響も随所に伺える](https://ja.wikipedia.org/wiki/NUMBER_GIRL "wikilink")。曲の[コーラスは](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、殆んど喜多が担当しているが、6th[アルバム](../Page/アルバム.md "wikilink")、『[マジックディスク](https://ja.wikipedia.org/wiki/マジックディスク "wikilink")』収録曲のコーラスは、「双子葉」を除き全て後藤自身が担当した\[6\]。また、自主制作盤、[Easter](https://ja.wikipedia.org/wiki/Easter "wikilink")、[Wonder Futureを除く](https://ja.wikipedia.org/wiki/Wonder_Future "wikilink")[CDジャケットは](../Page/コンパクトディスク.md "wikilink")、全て[中村佑介](../Page/中村佑介.md "wikilink")のイラスト。
 
 マネージャーの通称は「キャッツ」。メンバーは、アジカンだけでなく他の音楽も聴くことを勧める。ラジオでは、他バンドの音源、特に[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")を多く流していた。
 
-[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")にて“亜細亜的功夫世代”としてもCDをリリースしている。[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")や[アメリカなどにも広まり](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、アメリカでは、日本からの輸入CDを扱うレーベルに、CDリリースを所望する運動がネット上で起こった結果、「[ソルファ](../Page/ソルファ.md "wikilink")」が「Sol-fa」というタイトルでリリースされた。
+[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")にて“亜細亜的功夫世代”としてもCDをリリースしている。[アジア](../Page/アジア.md "wikilink")や[アメリカなどにも広まり](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、アメリカでは、日本からの輸入CDを扱うレーベルに、CDリリースを所望する運動がネット上で起こった結果、「[ソルファ](../Page/ソルファ.md "wikilink")」が「Sol-fa」というタイトルでリリースされた。
 
 ## メンバー
 
@@ -55,11 +55,11 @@
   - 愛称は「キタケン」「建さん」「建ちゃん」「ケンスイ」など。
   - [神奈川県立横浜立野高等学校](../Page/神奈川県立横浜立野高等学校.md "wikilink")卒業。1浪し、[関東学院大学](../Page/関東学院大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒業。
   - 卒業後は一時期[業務用](../Page/業務用.md "wikilink")[冷蔵庫](https://ja.wikipedia.org/wiki/冷蔵庫 "wikilink")の修理・営業の仕事をしていた。仕事に注力し過ぎたせいでバンド方面に手が回せなくなり、後藤からは「辞めちゃうかもなぁ、でもこいつが居なくなったらバンド続けられないからどうしよう」と思われていたという。
-  - [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")のファンである。
+  - [阪神タイガース](../Page/阪神タイガース.md "wikilink")のファンである。
   - 「エンジェルボイス」や「[スピッツの](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")[草野さんみたい](../Page/草野マサムネ.md "wikilink")」と称される音程の高い歌声を持つが、後藤曰く「最近は飲酒・喫煙・加齢のせいでドブ声化しつつある」。\[9\]
-  - 好きなアーティストは[Manic Street Preachers](https://ja.wikipedia.org/wiki/マニック・ストリート・プリーチャーズ "wikilink")、[Supergrass](../Page/スーパーグラス.md "wikilink")、[Radiohead](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")、[The Libertines](https://ja.wikipedia.org/wiki/ザ・リバティーンズ "wikilink")、[Blur](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[XTC](https://ja.wikipedia.org/wiki/XTC_\(バンド\) "wikilink")、[The Cribs](../Page/ザ・クリブス.md "wikilink")、[Ash](https://ja.wikipedia.org/wiki/アッシュ_\(バンド\) "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")など。
+  - 好きなアーティストは[Manic Street Preachers](https://ja.wikipedia.org/wiki/マニック・ストリート・プリーチャーズ "wikilink")、[Supergrass](../Page/スーパーグラス.md "wikilink")、[Radiohead](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")、[The Libertines](../Page/ザ・リバティーンズ.md "wikilink")、[Blur](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[XTC](../Page/XTC_\(バンド\).md "wikilink")、[The Cribs](../Page/ザ・クリブス.md "wikilink")、[Ash](../Page/アッシュ_\(バンド\).md "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")など。
   - 『[ブルートレイン](../Page/ブルートレイン_\(ASIAN_KUNG-FU_GENERATIONの曲\).md "wikilink")』から作曲も手掛けるようになった。『[嘘とワンダーランド](../Page/ワールドアパート.md "wikilink")』では、作曲を1人で手掛けたことをきっかけにメインボーカルを務めた。
-  - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")のデビュー20周年記念[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[アダムとイヴの林檎](https://ja.wikipedia.org/wiki/アダムとイヴの林檎 "wikilink")』の1曲目「[正しい街](https://ja.wikipedia.org/wiki/無罪モラトリアム#収録曲 "wikilink")」に[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")プロデュースによるスペシャルバンド「theウラシマ’S」のギタリストとして参加。他のメンバーはボーカル&[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")に草野マサムネ（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）、[ドラムスに](../Page/ドラムセット.md "wikilink")[鈴木英哉](../Page/鈴木英哉.md "wikilink")（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）、[ベースに是永亮祐](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")（[雨のパレード](https://ja.wikipedia.org/wiki/雨のパレード "wikilink")）\[10\]。
+  - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")のデビュー20周年記念[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")『[アダムとイヴの林檎](https://ja.wikipedia.org/wiki/アダムとイヴの林檎 "wikilink")』の1曲目「[正しい街](https://ja.wikipedia.org/wiki/無罪モラトリアム#収録曲 "wikilink")」に[亀田誠治](../Page/亀田誠治.md "wikilink")プロデュースによるスペシャルバンド「theウラシマ’S」のギタリストとして参加。他のメンバーはボーカル&[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")に草野マサムネ（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）、[ドラムスに](../Page/ドラムセット.md "wikilink")[鈴木英哉](../Page/鈴木英哉.md "wikilink")（[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")）、[ベースに是永亮祐](../Page/ベース_\(弦楽器\).md "wikilink")（[雨のパレード](https://ja.wikipedia.org/wiki/雨のパレード "wikilink")）\[10\]。
 
 <!-- end list -->
 
@@ -68,16 +68,16 @@
 <!-- end list -->
 
   - **エレキギター**
-      - [Gibson](https://ja.wikipedia.org/wiki/ギブソン_\(楽器メーカー\) "wikilink") [Les Paul](../Page/ギブソン・レスポール.md "wikilink") Standard Historic Collection
-      - Gibson [ES-335](https://ja.wikipedia.org/wiki/ギブソン・ES-335 "wikilink")
-      - [Fender](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") [Telecaster](../Page/フェンダー・テレキャスター.md "wikilink")
+      - [Gibson](../Page/ギブソン_\(楽器メーカー\).md "wikilink") [Les Paul](../Page/ギブソン・レスポール.md "wikilink") Standard Historic Collection
+      - Gibson [ES-335](../Page/ギブソン・ES-335.md "wikilink")
+      - [Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink") [Telecaster](../Page/フェンダー・テレキャスター.md "wikilink")
       - Fender [Stratocaster](../Page/フェンダー・ストラトキャスター.md "wikilink")
   - **アンプ**
       - Bogner Ecstasy
       - [Marshall](https://ja.wikipedia.org/wiki/マーシャル・アンプ "wikilink") JCM900
       - Marshall 1960A
   - **エフェクター**
-      - [BOSS](https://ja.wikipedia.org/wiki/ボス_\(企業\) "wikilink") DD-20（ディレイ）
+      - [BOSS](../Page/ボス_\(企業\).md "wikilink") DD-20（ディレイ）
       - BOSS RV-5（リバーブ）
       - BOSS TR-2（トレモロ）
       - BOSS PH-2（フェーザー）
@@ -112,7 +112,7 @@
   - [静岡県立富士高等学校](../Page/静岡県立富士高等学校.md "wikilink")、関東学院大学[文学部](../Page/文学部.md "wikilink")卒業。
   - 加入のいきさつは、大学の部室内に1人でいたところ、後藤に「好きなバンドは？」と声をかけられ、「[The Beatles](../Page/ビートルズ.md "wikilink")」と返答したためにスカウトを受け加入した。
   - 「写真写りが悪い」という理由で雑誌・[プロモーション](https://ja.wikipedia.org/wiki/プロモーション "wikilink")の写真撮影はほぼ同じ表情であり、そのせいで「無表情な男」と誤解されることもある。
-  - 好きなアーティストは[The Beatles](../Page/ビートルズ.md "wikilink")、[Oasis](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、[The Smashing Pumpkins](https://ja.wikipedia.org/wiki/スマッシング・パンプキンズ "wikilink")、[Pet Shop Boysなど](https://ja.wikipedia.org/wiki/ペット・ショップ・ボーイズ "wikilink")。
+  - 好きなアーティストは[The Beatles](../Page/ビートルズ.md "wikilink")、[Oasis](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、[The Smashing Pumpkins](../Page/スマッシング・パンプキンズ.md "wikilink")、[Pet Shop Boysなど](../Page/ペット・ショップ・ボーイズ.md "wikilink")。
   - 『[ループ＆ループ](../Page/ループ&ループ.md "wikilink")』のPVに、架空の歌手「渋山貴光」として一瞬だけ出演している。この事がきっかけで後藤の[ブログ](../Page/ブログ.md "wikilink")ではしばらく「渋山貴光」と呼ばれ続けていた。
   - [書道](https://ja.wikipedia.org/wiki/書道 "wikilink")6段の腕前であり、グッズの袋にも、彼の書いた文字が使用されたこともある。
   - 『[SCHOOL OF LOCK！](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』内の企画で、[片平里菜](https://ja.wikipedia.org/wiki/片平里菜 "wikilink")の初の[シングル](../Page/シングル.md "wikilink")（[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")盤）である『始まりに』に[プロデューサー](../Page/プロデューサー.md "wikilink")として参加している。
@@ -128,7 +128,7 @@
 <!-- end list -->
 
   - **エレキベース**
-    全て[Fender製](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")。
+    全て[Fender製](../Page/フェンダー_\(楽器メーカー\).md "wikilink")。
       - '62 Jazz Bass
       - '70 Jazz Bass
       - '59 Precision Bass
@@ -139,7 +139,7 @@
       - [Ampeg](https://ja.wikipedia.org/wiki/アンペグ "wikilink") SVT-4PRO／TC Electronic RH750＋Fender TB-2000（アンプヘッド）
       - Ampeg SVT-810E／Fender 610 Pro Cabinet（キャビネット）
   - **エフェクター**
-      - [BOSS](https://ja.wikipedia.org/wiki/ボス_\(企業\) "wikilink") LS-2（ラインセレクター）
+      - [BOSS](../Page/ボス_\(企業\).md "wikilink") LS-2（ラインセレクター）
       - BOSS CEB-3（コーラス）
       - BOSS BB-1X（オーバードライブ）
       - MXR M80 Bass D.I.＋（クリーン／ディストーション）
@@ -167,14 +167,14 @@
   - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[鎌倉市](../Page/鎌倉市.md "wikilink")出身\[14\]。
   - [関東学院中学校高等学校](../Page/関東学院中学校高等学校.md "wikilink")、関東学院大学[工学部](../Page/工学部.md "wikilink")卒業。
   - 愛称は「潔」の他、「キヨポン」「伊地知乃親方」「ピーカン先生」「伊地知勝」など。
-  - 好きなアーティストは[Brian Setzer](../Page/ブライアン・セッツァー.md "wikilink")、[Dream Theater](https://ja.wikipedia.org/wiki/ドリーム・シアター "wikilink")、[HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")、[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")など。
+  - 好きなアーティストは[Brian Setzer](../Page/ブライアン・セッツァー.md "wikilink")、[Dream Theater](../Page/ドリーム・シアター.md "wikilink")、[HUSKING BEE](../Page/HUSKING_BEE.md "wikilink")、[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")など。
   - 他の3人と違いASIAN KUNG-FU GENERATIONの初期メンバーではなく、1年遅れて1997年に加入した。
   - 中学時代は[マーチングバンド](../Page/マーチングバンド.md "wikilink")部（全国強豪レベル）に所属。本人曰く「ここでドラムスの手の基礎ができた」。
   - 本業はドラマーだが、[ギター](../Page/ギター.md "wikilink")・[ピアノ](../Page/ピアノ.md "wikilink")等が演奏できる。『[ラストシーン](../Page/ソルファ.md "wikilink")』曲中のノイズギター、『[月光](../Page/ブルートレイン_\(ASIAN_KUNG-FU_GENERATIONの曲\).md "wikilink")』曲中のピアノは伊地知が演奏している。
   - 後藤曰く、大学時代は「絵に描いたようなチャラ男」だったという。
-  - [クリスチャン](https://ja.wikipedia.org/wiki/クリスチャン "wikilink")であり、[十字架](https://ja.wikipedia.org/wiki/十字架 "wikilink")の[ペンダント](../Page/ペンダント.md "wikilink")をしていることが多い。
+  - [クリスチャン](https://ja.wikipedia.org/wiki/クリスチャン "wikilink")であり、[十字架](../Page/十字架.md "wikilink")の[ペンダント](../Page/ペンダント.md "wikilink")をしていることが多い。
   - 2003年まで「CARAMELMAN」というバンドで活動しており、ASIAN KUNG-FU GENERATIONとの[スプリットアルバム](https://ja.wikipedia.org/wiki/スプリットアルバム "wikilink")も発売している。また2011年より[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")バンド「[PHONO TONES](https://ja.wikipedia.org/wiki/PHONO_TONES "wikilink")」のドラマーとしての活動も行っている。
-  - 高校在学中から[カレー](../Page/カレー.md "wikilink")屋で[アルバイト](../Page/アルバイト.md "wikilink")をしていたことがあり、料理にも造詣が深く、雑誌『SODA』にて[金澤ダイスケと共に](https://ja.wikipedia.org/wiki/フジファブリック#現メンバー "wikilink")「Session in the Kitchen」を連載し、[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")mookから同名のレシピ本も出版した。
+  - 高校在学中から[カレー](../Page/カレー.md "wikilink")屋で[アルバイト](../Page/アルバイト.md "wikilink")をしていたことがあり、料理にも造詣が深く、雑誌『SODA』にて[金澤ダイスケと共に](https://ja.wikipedia.org/wiki/フジファブリック#現メンバー "wikilink")「Session in the Kitchen」を連載し、[ぴあ](../Page/ぴあ.md "wikilink")mookから同名のレシピ本も出版した。
 
 <!-- end list -->
 
@@ -201,7 +201,7 @@
 
 ## 影響
 
-後藤は「自身のルーツ」として、[Oasisの](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")「[Live Forever](https://ja.wikipedia.org/wiki/リヴ・フォーエヴァー_\(オアシスの曲\) "wikilink")」をあげており、「この曲を聴いてなかったら自分が音楽をやってなかったんじゃないかというくらい」だと述べている\[15\]。他には、「10代20代の節目となった曲」として、[フー・ファイターズ](https://ja.wikipedia.org/wiki/フー・ファイターズ "wikilink")の「I’ll Stick Around」とReefの「Naked」を、「音楽を始めてから影響を受けた曲」として、[Weezerの](https://ja.wikipedia.org/wiki/ウィーザー "wikilink")「[Only in Dreams](https://ja.wikipedia.org/wiki/ウィーザー_\(ザ・ブルー・アルバム\)#収録曲 "wikilink")」\[16\]、[eastern youthの](https://ja.wikipedia.org/wiki/eastern_youth "wikilink")「夜明けの歌」\[17\]をあげている。「100年後も誰かの心に残っていて欲しい曲」は[ニール・ヤング](https://ja.wikipedia.org/wiki/ニール・ヤング "wikilink")の「[オンリー・ラヴ・キャン・ブレイク・ユア・ハート](https://ja.wikipedia.org/wiki/オンリー・ラヴ・キャン・ブレイク・ユア・ハート "wikilink")」と[細野晴臣](../Page/細野晴臣.md "wikilink")の「[東京ラッシュ](https://ja.wikipedia.org/wiki/はらいそ#曲目 "wikilink")」だと述べている\[18\]。
+後藤は「自身のルーツ」として、[Oasisの](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")「[Live Forever](https://ja.wikipedia.org/wiki/リヴ・フォーエヴァー_\(オアシスの曲\) "wikilink")」をあげており、「この曲を聴いてなかったら自分が音楽をやってなかったんじゃないかというくらい」だと述べている\[15\]。他には、「10代20代の節目となった曲」として、[フー・ファイターズ](../Page/フー・ファイターズ.md "wikilink")の「I’ll Stick Around」とReefの「Naked」を、「音楽を始めてから影響を受けた曲」として、[Weezerの](../Page/ウィーザー.md "wikilink")「[Only in Dreams](https://ja.wikipedia.org/wiki/ウィーザー_\(ザ・ブルー・アルバム\)#収録曲 "wikilink")」\[16\]、[eastern youthの](https://ja.wikipedia.org/wiki/eastern_youth "wikilink")「夜明けの歌」\[17\]をあげている。「100年後も誰かの心に残っていて欲しい曲」は[ニール・ヤング](../Page/ニール・ヤング.md "wikilink")の「[オンリー・ラヴ・キャン・ブレイク・ユア・ハート](https://ja.wikipedia.org/wiki/オンリー・ラヴ・キャン・ブレイク・ユア・ハート "wikilink")」と[細野晴臣](../Page/細野晴臣.md "wikilink")の「[東京ラッシュ](https://ja.wikipedia.org/wiki/はらいそ#曲目 "wikilink")」だと述べている\[18\]。
 
 ## 来歴
 
@@ -219,32 +219,32 @@
   - **[2002年](../Page/2002年.md "wikilink")**
       - 「[UNDER FLOWER RECORDS](../Page/UNDER_FLOWER_RECORDS.md "wikilink")」のコンピレーションCDに参加。
       - 11月、初の正式な音源となるミニアルバム『[崩壊アンプリファー](../Page/崩壊アンプリファー.md "wikilink")』をリリース。その中の収録曲『遥か彼方』がアニメ『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』のオープニングテーマになる。同日[CX系ELVISに出演](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、これ以降「[サイレン](../Page/サイレン_\(ASIAN_KUNG-FU_GENERATIONの曲\).md "wikilink")」まで5回特集が組まれた。また、「遥か彼方」のPVはこのELVISチームによるものである。
-      - 夏には、「[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")（ROOKIE A GO GO）」、「[SUMMER SONIC '03 東京・大阪](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")」にも出演。
+      - 夏には、「[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")（ROOKIE A GO GO）」、「[SUMMER SONIC '03 東京・大阪](../Page/サマーソニック.md "wikilink")」にも出演。
   - **[2003年](../Page/2003年.md "wikilink")**
       - [4月23日](../Page/4月23日.md "wikilink")、ミニアルバム『崩壊アンプリファー』が[キューンレコード](https://ja.wikipedia.org/wiki/キューンレコード "wikilink")から再発売され、メジャーデビュー。
       - [8月11日](../Page/8月11日.md "wikilink")、初の「[NANO-MUGEN FES](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")」を[新宿LOFTにて開催](../Page/ロフト_\(ライブハウス\).md "wikilink")。
       - [11月19日](../Page/11月19日.md "wikilink")、初のフルアルバムとなる『[君繋ファイブエム](../Page/君繋ファイブエム.md "wikilink")』リリース。
   - **[2004年](../Page/2004年.md "wikilink")**
-      - [4月7日](../Page/4月7日.md "wikilink")、TOKYO FMをキーステーションに、JFN系列38局で『[MOTHER MUSIC RECORDS 〜Over Drive](https://ja.wikipedia.org/wiki/MOTHER_MUSIC_RECORDS "wikilink")』が放送開始。
+      - [4月7日](../Page/4月7日.md "wikilink")、TOKYO FMをキーステーションに、JFN系列38局で『[MOTHER MUSIC RECORDS 〜Over Drive](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")』が放送開始。
       - [7月1日](../Page/7月1日.md "wikilink")、「NANO-MUGEN FES at 武道館」開催。
       - アニメ『[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師_\(アニメ\) "wikilink")』のオープニングテーマに「[リライト](../Page/リライト_\(ASIAN_KUNG-FU_GENERATIONの曲\).md "wikilink")」が起用される。
       - [10月20日](../Page/10月20日.md "wikilink")、2ndアルバム『[ソルファ](../Page/ソルファ.md "wikilink")』リリース。見事オリコン初登場1位を獲得(2週連続1位)。　アジカン初の快挙であった。
-  - **[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+  - **[2005年](../Page/2005年.md "wikilink")**
       - [3月28日](../Page/3月28日.md "wikilink")、「[SPACE SHOWER TV](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV "wikilink") [SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink") 05」で「[君の街まで](../Page/君の街まで.md "wikilink")」がBEST CONCEPT VIDEOを受賞。
       - [7月9日](../Page/7月9日.md "wikilink")、「NANO-MUGEN FES 2005」を[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で開催。
-      - 「[SUMMER SONIC '05](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")」に出演。その前日に名古屋で開かれたSUMMER SONIC EVEで出演できなかったルースターに代わって参加。オアシス、[カサビアン](../Page/カサビアン.md "wikilink")らと共演。
-      - 2004年から続いてきた『[MOTHER MUSIC RECORDS 〜Over Drive](https://ja.wikipedia.org/wiki/MOTHER_MUSIC_RECORDS "wikilink")』が終了。その後は後継番組の『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』（TOKYO FM、水曜日23:05 - ）に出演。
+      - 「[SUMMER SONIC '05](../Page/サマーソニック.md "wikilink")」に出演。その前日に名古屋で開かれたSUMMER SONIC EVEで出演できなかったルースターに代わって参加。オアシス、[カサビアン](../Page/カサビアン.md "wikilink")らと共演。
+      - 2004年から続いてきた『[MOTHER MUSIC RECORDS 〜Over Drive](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")』が終了。その後は後継番組の『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』（TOKYO FM、水曜日23:05 - ）に出演。
   - **[2006年](../Page/2006年.md "wikilink")**
       - 結成10周年を迎えた。
       - [2月15日](../Page/2月15日.md "wikilink")、8thシングル「[ワールドアパート](../Page/ワールドアパート.md "wikilink")」リリース。アジカンにとって初となるオリコンシングルチャート初登場1位を記録。
       - [3月7日](../Page/3月7日.md "wikilink")、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")の[日光市立東中学校](https://ja.wikipedia.org/wiki/日光市立東中学校 "wikilink")で生徒限定でライブを開催した（『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』での企画）。
       - [3月15日](../Page/3月15日.md "wikilink")、3rdアルバム『[ファンクラブ](../Page/ファンクラブ_\(アルバム\).md "wikilink")』リリース。
       - [7月16日](../Page/7月16日.md "wikilink") - [7月17日](../Page/7月17日.md "wikilink")、「NANO-MUGEN FES 2006」を横浜アリーナで開催。
-      - [7月28日](../Page/7月28日.md "wikilink")、この年の[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")（7月28日 - 30日）に出演。念願のグリーンステージでの演奏を果たす。また、トリを務めた[フランツ・フェルディナンドの](https://ja.wikipedia.org/wiki/フランツ・フェルディナンド_\(バンド\) "wikilink")「アウトサイダーズ」に参加。
+      - [7月28日](../Page/7月28日.md "wikilink")、この年の[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")（7月28日 - 30日）に出演。念願のグリーンステージでの演奏を果たす。また、トリを務めた[フランツ・フェルディナンドの](../Page/フランツ・フェルディナンド_\(バンド\).md "wikilink")「アウトサイダーズ」に参加。
       - [10月25日](../Page/10月25日.md "wikilink")、初の編集盤となる『[フィードバックファイル](../Page/フィードバックファイル.md "wikilink")』をリリース。初公開の「絵画教室」「堂々巡りの夜」を収録。また、初回生産限定盤はDVD付きの2枚組である。
       - [11月29日](../Page/11月29日.md "wikilink")、9thシングル「[或る街の群青](../Page/或る街の群青.md "wikilink")」をリリース。12月23日に公開される映画『[鉄コン筋クリート](../Page/鉄コン筋クリート.md "wikilink")』の主題歌となっており、映画とのタイアップはアジカン史上初となる。
   - **[2007年](../Page/2007年.md "wikilink")**
-      - [3月21日](../Page/3月21日.md "wikilink")、Tour酔杯 2006-2007の模様を収録した、3rdDVD『[映像作品集3巻〜Tour酔杯2006-2007 the start of a new season〜](https://ja.wikipedia.org/wiki/映像作品集3巻〜Tour酔杯2006-2007_the_start_of_a_new_season〜 "wikilink")』をリリース。同日発売の[HUSKING BEEのトリビュートアルバムにも](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")「欠けボタンの浜」で参加。
+      - [3月21日](../Page/3月21日.md "wikilink")、Tour酔杯 2006-2007の模様を収録した、3rdDVD『[映像作品集3巻〜Tour酔杯2006-2007 the start of a new season〜](https://ja.wikipedia.org/wiki/映像作品集3巻〜Tour酔杯2006-2007_the_start_of_a_new_season〜 "wikilink")』をリリース。同日発売の[HUSKING BEEのトリビュートアルバムにも](../Page/HUSKING_BEE.md "wikilink")「欠けボタンの浜」で参加。
       - [4月27日](../Page/4月27日.md "wikilink")、2冊目となるヒストリーブック『春か、遥か』を発売。
       - [7月29日](../Page/7月29日.md "wikilink")、韓国で行われた[INCHEON PENTAPORT ROCK FESTIVAL 2007に出演](https://ja.wikipedia.org/wiki/INCHEON_PENTAPORT_ROCK_FESTIVAL_2007 "wikilink")。これはバンド初の海外公演である。
       - 毎年恒例である[NANO-MUGEN FES.は](https://ja.wikipedia.org/wiki/NANO-MUGEN_FES. "wikilink")、バンド活動の多忙のため、2007年度の開催を行わないことが正式に発表された。[NANO-MUGEN FES.を行わない代わりに夏に各地で行われるフェスに精力的に参加](https://ja.wikipedia.org/wiki/NANO-MUGEN_FES. "wikilink")。その象徴が、[9月1日](../Page/9月1日.md "wikilink")。この日は[山梨県](../Page/山梨県.md "wikilink")で行われた[SWEET LOVE SHOWER 2007と](../Page/SWEET_LOVE_SHOWER.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")で行われた[TREASURE05X](https://ja.wikipedia.org/wiki/TREASURE05X "wikilink")を本人たちの希望でダブルブッキング。そして、無事に2つのフェスをこなした。
@@ -407,7 +407,7 @@
 <td><p>ツアーファイナルは初の日本武道館ワンマン</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/3月14日" title="wikilink">3月14日</a> - <a href="../Page/6月26日.md" title="wikilink">6月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/3月14日" title="wikilink">3月14日</a> - <a href="../Page/6月26日.md" title="wikilink">6月26日</a></p></td>
 <td><p><strong>Tour2005 Re:Re:</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -897,7 +897,7 @@ The start of a new season</strong></p></td>
 <td><p>全国各地のZeppを中心に巡るライブハウス・ツアー。特別公演又は恵比寿LIQUID ROOMでの公演のみがワンマンで、他の公演にはそれぞれゲストバンド（<a href="../Page/アナログフィッシュ.md" title="wikilink">アナログフィッシュ</a>や<a href="https://ja.wikipedia.org/wiki/Qomolangma_Tomato" title="wikilink">Qomolangma Tomatoなど</a>）が参加。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a> - <a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a>（<a href="https://ja.wikipedia.org/wiki/3月6日" title="wikilink">3月6日</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a> - <a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a>（<a href="https://ja.wikipedia.org/wiki/3月6日" title="wikilink">3月6日</a>）</p></td>
 <td><p><strong>Tour 2010-2011<br />
 VIBRATION OF THE MUSIC</strong></p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1060,7 +1060,7 @@ VIBRATION OF THE MUSIC</strong></p></td>
 </dl>
 </div>
 </div></td>
-<td><p>過去最多、全国75本を予定していたが、<a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/3月11日.md" title="wikilink">3月11日</a>に発生した<a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>の影響で、11日以降に予定されていた5公演が中止され、実際は70本となってしまった。サポートキーボードとし て、<a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a>の金澤ダイスケと、<a href="../Page/オトナモード.md" title="wikilink">オトナモード</a>の山本健太が参加した（山本健太は3公演のみ参加）。</p></td>
+<td><p>過去最多、全国75本を予定していたが、<a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/3月11日.md" title="wikilink">3月11日</a>に発生した<a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東北地方太平洋沖地震</a>の影響で、11日以降に予定されていた5公演が中止され、実際は70本となってしまった。サポートキーボードとし て、<a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a>の金澤ダイスケと、<a href="../Page/オトナモード.md" title="wikilink">オトナモード</a>の山本健太が参加した（山本健太は3公演のみ参加）。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/2月19日.md" title="wikilink">2月19日</a> - <a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
@@ -1274,7 +1274,7 @@ VIBRATION OF THE MUSIC</strong></p></td>
 <div class="NavContent" style="text-align:left;">
 <dl>
 <dt></dt>
-<dd>11月14日 <a href="../Page/チリ.md" title="wikilink">チリ</a> <a href="https://ja.wikipedia.org/wiki/サンティアゴ" title="wikilink">サンティアゴ</a> Movistar Arena
+<dd>11月14日 <a href="../Page/チリ.md" title="wikilink">チリ</a> <a href="../Page/サンティアゴ.md" title="wikilink">サンティアゴ</a> Movistar Arena
 </dd>
 <dd>11月15日 <a href="https://ja.wikipedia.org/wiki/ブラジル" title="wikilink">ブラジル</a> <a href="../Page/サンパウロ.md" title="wikilink">サンパウロ</a> Teatro Carioca
 </dd>
@@ -1538,7 +1538,7 @@ VIBRATION OF THE MUSIC</strong></p></td>
   - 2011年8月10日 - Talking Rock\! FES.2011
   - 2011年08月28日 - ARABAKI ROCK FEST.11 08
   - 2011年12月29日 - COUNTDOWN JAPAN 11/12
-  - 2012年6月2日 - [ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink") presents「KINOSHITA NIGHT 2012」
+  - 2012年6月2日 - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink") presents「KINOSHITA NIGHT 2012」
   - 2012年7月22日 - KESEN ROCK FESTIVAL'12
   - 2012年8月11日 - RISING SUN ROCK FESTIVAL 2012 in EZO
   - 2012年8月25日 - MONSTER baSH 2012
@@ -1624,7 +1624,7 @@ VIBRATION OF THE MUSIC</strong></p></td>
 <td><p>17位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
 <td><p>THE JAPAN GOLD DISC AWARD 2005</p></td>
 <td><p>12cmCD</p></td>
 <td><p>UPCH-9172</p></td>
@@ -1632,7 +1632,7 @@ VIBRATION OF THE MUSIC</strong></p></td>
 <td><p>19位</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>
 <td><p>Ki/oon Records Overseas Compilation</p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSCL-815/6</p></td>
@@ -1640,7 +1640,7 @@ VIBRATION OF THE MUSIC</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 <td><p><a href="../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_COMPILATION.md" title="wikilink">ASIAN KUNG-FU GENERATION presents NANO-MUGEN COMPILATION</a></p></td>
 <td><p>12cmCD</p></td>
 <td><p>KSCL-827</p></td>
@@ -1860,7 +1860,7 @@ TYCT-60109</p></td>
 | [塚越規](https://ja.wikipedia.org/wiki/塚越規 "wikilink")                                                                                                                     | 「[アフターダーク](https://www.youtube.com/watch?v=uRluqu6yFe4)」                                                                                                                                                  |
 | [鶴岡雅浩](https://ja.wikipedia.org/wiki/鶴岡雅浩 "wikilink")                                                                                                                   | 「[Loser](https://www.youtube.com/watch?v=RfBHVbo543o)」「藤沢ルーザー from DVD「映像作品集6巻〜Tour 2009ワールドワールドワールド〜」」「深呼吸 from DVD「映像作品集6巻〜Tour 2009ワールドワールドワールド〜」」「稲村ヶ崎ジェーン from DVD「映像作品集6巻〜Tour 2009ワールドワールドワールド〜」」  |
 | [豊田利晃](../Page/豊田利晃.md "wikilink")                                                                                                                                      | 「サイレン」「[君という花](https://www.youtube.com/watch?v=MIY3lM-jGkI)」                                                                                                                                              |
-| [中澤一登](https://ja.wikipedia.org/wiki/中澤一登 "wikilink")                                                                                                                   | 「新しい世界」                                                                                                                                                                                                   |
+| [中澤一登](../Page/中澤一登.md "wikilink")                                                                                                                                      | 「新しい世界」                                                                                                                                                                                                   |
 | [長添雅嗣](https://ja.wikipedia.org/wiki/長添雅嗣 "wikilink")                                                                                                                   | 「[ムスタング](https://www.youtube.com/watch?v=IY8wRFYQW9c)」                                                                                                                                                    |
 | [中西尚人](https://ja.wikipedia.org/wiki/中西尚人 "wikilink") / planner 松村祐治                                                                                                    | 「[藤沢ルーザー](https://www.youtube.com/watch?v=XuiDe2ui3HI)」                                                                                                                                                   |
 | [nom](https://ja.wikipedia.org/wiki/nom "wikilink")                                                                                                                     | 「羅針盤 (LIVE at 武道館 2004)」                                                                                                                                                                                  |
@@ -1879,8 +1879,8 @@ TYCT-60109</p></td>
 
 ### 過去
 
-  - [BPR5000](https://ja.wikipedia.org/wiki/BPR5000 "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")）
-  - [MOTHER MUSIC RECORDS](https://ja.wikipedia.org/wiki/MOTHER_MUSIC_RECORDS "wikilink")（TOKYO FM）
+  - [BPR5000](../Page/BPR5000.md "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")）
+  - [MOTHER MUSIC RECORDS](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")（TOKYO FM）
   - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")、『[アジカン LOCKS\!](https://ja.wikipedia.org/wiki/ARTIST_LOCKS!#アジカン_LOCKS! "wikilink")』（[JFN](../Page/全国FM放送協議会.md "wikilink")・TOKYO FM、番組開始 - 2009年3,2010年4月 - 2010年9月,2014年4月[火曜日](../Page/火曜日.md "wikilink")、以後はネットにて不定期放送されている。）
   - [僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")（フジテレビ）2012年1月20日\[21\]
 

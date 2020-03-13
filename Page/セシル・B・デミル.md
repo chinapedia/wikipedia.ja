@@ -17,11 +17,11 @@
 
 1913年には、[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")の[ジェシー・L・ラスキー](https://ja.wikipedia.org/wiki/ジェシー・L・ラスキー "wikilink")らが設立した映画会社にて、[ハリウッド](../Page/ハリウッド.md "wikilink")初の長編映画（80分以上）である「スコウ・マン」を監督し人気を呼んだ。
 
-1915年には「[チート](../Page/チート_\(映画\).md "wikilink")」で[早川雪洲](https://ja.wikipedia.org/wiki/早川雪洲 "wikilink")をトップスターにしたほか\[2\]、運転手兼従者にヤマベという日本人を雇っており、欧州旅行などにも同行させていた\[3\]\[4\]。
+1915年には「[チート](../Page/チート_\(映画\).md "wikilink")」で[早川雪洲](../Page/早川雪洲.md "wikilink")をトップスターにしたほか\[2\]、運転手兼従者にヤマベという日本人を雇っており、欧州旅行などにも同行させていた\[3\]\[4\]。
 
 ### 人気監督
 
-1920年代のデミルは、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")後の好況期における[大衆](https://ja.wikipedia.org/wiki/大衆 "wikilink")の享楽志向を捉えヒット作を連発、デミルはハリウッド映画の創生期の実力者にのし上がる。デミルの成功の秘訣は、たとえ男性客を喜ばすようなシーンであっても、女性も画面に釘付けになるように演出を仕組むことにあった。
+1920年代のデミルは、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")後の好況期における[大衆](../Page/大衆.md "wikilink")の享楽志向を捉えヒット作を連発、デミルはハリウッド映画の創生期の実力者にのし上がる。デミルの成功の秘訣は、たとえ男性客を喜ばすようなシーンであっても、女性も画面に釘付けになるように演出を仕組むことにあった。
 
 例えばバスルームのシーンではバスローブも[ネグリジェ](https://ja.wikipedia.org/wiki/ネグリジェ "wikilink")も最高の品を用意させ、[女優たちが身につける豪勢な](../Page/俳優.md "wikilink")[ジュエリー](https://ja.wikipedia.org/wiki/ジュエリー "wikilink")などの[宝石](../Page/宝石.md "wikilink")類はすべて本物で撮影した。誰もが目を奪われるほどの絢爛豪華な衣装はデミルの映画の代名詞ともなり、多くの女性客を魅了した。このような[金](../Page/金.md "wikilink")に糸目をつけない派手な演出は多くの集客に効果をみせ、夫やボーイフレンド連れの女性らがデミルの映画を見に劇場へ通うようになった。
 
@@ -31,17 +31,17 @@
 
 『[十誡](../Page/十誡_\(映画\).md "wikilink")』（1923年）制作前後、デミルの作風は再度転換期を迎えた。[旧約聖書](../Page/旧約聖書.md "wikilink")という固い主題の作品を扱えば、そのような世論の動きが鎮まるのではないかと映画製作へ踏み切った。しかし、デミルの豪華主義は相変わらずで、映画会社の製作資金を湯水のようにつぎ込んだ。劇中では3千人もの人員や何千頭もの[家畜](../Page/家畜.md "wikilink")をエキストラとして動員し、[モーゼ](https://ja.wikipedia.org/wiki/モーゼ "wikilink")が[紅海](../Page/紅海.md "wikilink")の海水を割るシーンの派手さは後々までの語りぐさとなるほどであった。
 
-予想に反してこの映画がヒットし制作費を超える収益をあげたデミルは、続けて『キング・オブ・キングス』（1927年）、『暴君ネロ』（1932年）、『クレオパトラ』（1934年）など一連の歴史ものを制作し、次々と成功を収めていく。この頃[マスコミは](../Page/マスメディア.md "wikilink")、社内で大勢の側近を従え、[シルクの](https://ja.wikipedia.org/wiki/絹 "wikilink")[シャツ](https://ja.wikipedia.org/wiki/シャツ "wikilink")に[乗馬](../Page/乗馬.md "wikilink")用のブーツをはき（写真参考）気障に決めたスタイルのデミルを揶揄し、デミルの所属する[パラマウント・スタジオを](https://ja.wikipedia.org/wiki/パラマウント映画 "wikilink")**「デミル[王国](../Page/王国.md "wikilink")」**とも呼んだ。[1927年](../Page/1927年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")に設立された「[映画芸術科学アカデミー](../Page/映画芸術科学アカデミー.md "wikilink")」の[36名の創立会員の](https://ja.wikipedia.org/wiki/映画芸術科学アカデミー#36名の創立会員 "wikilink")1人としても名を連ねている。
+予想に反してこの映画がヒットし制作費を超える収益をあげたデミルは、続けて『キング・オブ・キングス』（1927年）、『暴君ネロ』（1932年）、『クレオパトラ』（1934年）など一連の歴史ものを制作し、次々と成功を収めていく。この頃[マスコミは](../Page/マスメディア.md "wikilink")、社内で大勢の側近を従え、[シルクの](../Page/絹.md "wikilink")[シャツ](../Page/シャツ.md "wikilink")に[乗馬](../Page/乗馬.md "wikilink")用のブーツをはき（写真参考）気障に決めたスタイルのデミルを揶揄し、デミルの所属する[パラマウント・スタジオを](../Page/パラマウント映画.md "wikilink")**「デミル[王国](../Page/王国.md "wikilink")」**とも呼んだ。[1927年](../Page/1927年.md "wikilink")[5月11日](../Page/5月11日.md "wikilink")に設立された「[映画芸術科学アカデミー](../Page/映画芸術科学アカデミー.md "wikilink")」の[36名の創立会員の](https://ja.wikipedia.org/wiki/映画芸術科学アカデミー#36名の創立会員 "wikilink")1人としても名を連ねている。
 
-次にデミルの作風が転換したのは、西部開拓史を舞台とする作品を撮り始めた1930年代後半である。この頃の『平原児』（1937年）や『[大平原](https://ja.wikipedia.org/wiki/大平原_\(映画\) "wikilink")』（1939年）などの作品は、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")や[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")における戦雲たれ込める中、揺れ動くアメリカの世情を反映し、アメリカ国民の愛国心を鼓舞することを意図した作品群と位置付けられる。また、「老い」を迎えようとするデミルの製作姿勢の変化を印象付けた。
+次にデミルの作風が転換したのは、西部開拓史を舞台とする作品を撮り始めた1930年代後半である。この頃の『平原児』（1937年）や『[大平原](https://ja.wikipedia.org/wiki/大平原_\(映画\) "wikilink")』（1939年）などの作品は、[アジア](../Page/アジア.md "wikilink")や[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")における戦雲たれ込める中、揺れ動くアメリカの世情を反映し、アメリカ国民の愛国心を鼓舞することを意図した作品群と位置付けられる。また、「老い」を迎えようとするデミルの製作姿勢の変化を印象付けた。
 
 ### 晩年
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後の晩年には、時代の趨勢により[テレビ](../Page/テレビ.md "wikilink")に押された「映画」の復権をめざすようになった。デミルにとって映画は自らの人生を賭けた王国であり領域であった。
 
-既に映画界での名声を確かなものにしていたデミルは、監督以外でも[ビリー・ワイルダー](https://ja.wikipedia.org/wiki/ビリー・ワイルダー "wikilink")の『[サンセット大通り](../Page/サンセット大通り_\(映画\).md "wikilink")』(1950年)に本人役で[カメオ出演](../Page/カメオ出演.md "wikilink")し、その存在感を示している。この頃の監督作品である『[地上最大のショウ](https://ja.wikipedia.org/wiki/地上最大のショウ "wikilink")』（1952年）では翌年の[第25回アカデミー賞](https://ja.wikipedia.org/wiki/第25回アカデミー賞 "wikilink")の[作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")、[脚本賞を獲得し](https://ja.wikipedia.org/wiki/アカデミー脚本賞 "wikilink")、[監督賞にノミネートされた](../Page/アカデミー監督賞.md "wikilink")\[5\]。また[1952年](../Page/1952年.md "wikilink")、[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")を運営する[HFPAは](https://ja.wikipedia.org/wiki/ハリウッド外国人映画記者協会 "wikilink")「エンタテインメント業界に多大なる貢献をした人物に与えられる、従来の部門やカテゴリーの枠を超越した永年功労賞」の新設を決め、ゴールデングローブ賞の中に、サイレント時代から斬新なアイデアでスペクタクル映画を製作し、映画界を先導してきたデミルの名を冠した「[セシル・B・デミル賞](https://ja.wikipedia.org/wiki/ゴールデングローブ賞_セシル・B・デミル賞 "wikilink")」が設けられた\[6\]。映えある第1回受賞者はデミル自身である。
+既に映画界での名声を確かなものにしていたデミルは、監督以外でも[ビリー・ワイルダー](../Page/ビリー・ワイルダー.md "wikilink")の『[サンセット大通り](../Page/サンセット大通り_\(映画\).md "wikilink")』(1950年)に本人役で[カメオ出演](../Page/カメオ出演.md "wikilink")し、その存在感を示している。この頃の監督作品である『[地上最大のショウ](../Page/地上最大のショウ.md "wikilink")』（1952年）では翌年の[第25回アカデミー賞](https://ja.wikipedia.org/wiki/第25回アカデミー賞 "wikilink")の[作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")、[脚本賞を獲得し](../Page/アカデミー脚本賞.md "wikilink")、[監督賞にノミネートされた](../Page/アカデミー監督賞.md "wikilink")\[5\]。また[1952年](../Page/1952年.md "wikilink")、[ゴールデングローブ賞](../Page/ゴールデングローブ賞.md "wikilink")を運営する[HFPAは](https://ja.wikipedia.org/wiki/ハリウッド外国人映画記者協会 "wikilink")「エンタテインメント業界に多大なる貢献をした人物に与えられる、従来の部門やカテゴリーの枠を超越した永年功労賞」の新設を決め、ゴールデングローブ賞の中に、サイレント時代から斬新なアイデアでスペクタクル映画を製作し、映画界を先導してきたデミルの名を冠した「[セシル・B・デミル賞](https://ja.wikipedia.org/wiki/ゴールデングローブ賞_セシル・B・デミル賞 "wikilink")」が設けられた\[6\]。映えある第1回受賞者はデミル自身である。
 
-より多くの集客をめざし、大作映画に見せ物的要素を加えるなどの工夫をこらした。[1956年](../Page/1956年.md "wikilink")、75歳にしてかつての自分の作品『[十誡](../Page/十誡_\(映画\).md "wikilink")』(1923年)を新たに撮り直し、既に重篤な[心臓発作](https://ja.wikipedia.org/wiki/心臓発作 "wikilink")に見舞われる中、執念で『[十戒](../Page/十戒_\(映画\).md "wikilink")』を製作・監督。翌年の[第29回アカデミー賞](https://ja.wikipedia.org/wiki/第29回アカデミー賞 "wikilink")では作品賞にノミネートされ[特殊効果賞を受賞している](https://ja.wikipedia.org/wiki/アカデミー視覚効果賞 "wikilink")。
+より多くの集客をめざし、大作映画に見せ物的要素を加えるなどの工夫をこらした。[1956年](../Page/1956年.md "wikilink")、75歳にしてかつての自分の作品『[十誡](../Page/十誡_\(映画\).md "wikilink")』(1923年)を新たに撮り直し、既に重篤な[心臓発作](https://ja.wikipedia.org/wiki/心臓発作 "wikilink")に見舞われる中、執念で『[十戒](../Page/十戒_\(映画\).md "wikilink")』を製作・監督。翌年の[第29回アカデミー賞](https://ja.wikipedia.org/wiki/第29回アカデミー賞 "wikilink")では作品賞にノミネートされ[特殊効果賞を受賞している](../Page/アカデミー視覚効果賞.md "wikilink")。
 
 ### 死去
 
@@ -49,9 +49,9 @@
 
 ## 政治思想と言動
 
-第二次世界大戦後、アメリカや西側諸国を席巻した所謂「[赤狩り](https://ja.wikipedia.org/wiki/赤狩り "wikilink")」の中、デミルはその[シンパ](https://ja.wikipedia.org/wiki/シンパ "wikilink")として積極的に働き、[ハリウッド・ブラックリスト](../Page/ハリウッド・ブラックリスト.md "wikilink")の作成にも大きく関与した。一方、元々保守派、愛国主義者で知られる映画監督[ジョン・フォード](https://ja.wikipedia.org/wiki/ジョン・フォード "wikilink")は、赤狩りの影響を全く受けなかったが、当時の戦後特有の反動的な風潮や、それに盲信的に迎合するデミルのこうした動きを忌み嫌った。
+第二次世界大戦後、アメリカや西側諸国を席巻した所謂「[赤狩り](../Page/赤狩り.md "wikilink")」の中、デミルはその[シンパ](https://ja.wikipedia.org/wiki/シンパ "wikilink")として積極的に働き、[ハリウッド・ブラックリスト](../Page/ハリウッド・ブラックリスト.md "wikilink")の作成にも大きく関与した。一方、元々保守派、愛国主義者で知られる映画監督[ジョン・フォード](../Page/ジョン・フォード.md "wikilink")は、赤狩りの影響を全く受けなかったが、当時の戦後特有の反動的な風潮や、それに盲信的に迎合するデミルのこうした動きを忌み嫌った。
 
-[1950年](../Page/1950年.md "wikilink")、[全米監督協会](../Page/全米監督協会.md "wikilink")で評議員の立場にあったデミルは「映画の撮影中に関係者全員の政治的傾向について何か気付いたり、知り得た場合は包み隠さず監督協会に報告する」との規定を設けるよう提案し、自分に反目する当時の会長[ジョーゼフ・L・マンキーウィッツ](https://ja.wikipedia.org/wiki/ジョーゼフ・L・マンキーウィッツ "wikilink")がたまたまヨーロッパ旅行中で不在だったのを見計らい、同調する協会員を懐柔するため画策し、これを通すとともに会長不信任案を提出。無論マンキーウィッツ側も黙っておらず、[フレッド・ジンネマン](../Page/フレッド・ジンネマン.md "wikilink")、[ジョージ・スティーヴンス](https://ja.wikipedia.org/wiki/ジョージ・スティーヴンス "wikilink")らの支援を受け、デミル擁護派と真っ向対立し、同年[10月22日](../Page/10月22日.md "wikilink")に緊急総会が招集された。
+[1950年](../Page/1950年.md "wikilink")、[全米監督協会](../Page/全米監督協会.md "wikilink")で評議員の立場にあったデミルは「映画の撮影中に関係者全員の政治的傾向について何か気付いたり、知り得た場合は包み隠さず監督協会に報告する」との規定を設けるよう提案し、自分に反目する当時の会長[ジョーゼフ・L・マンキーウィッツ](../Page/ジョーゼフ・L・マンキーウィッツ.md "wikilink")がたまたまヨーロッパ旅行中で不在だったのを見計らい、同調する協会員を懐柔するため画策し、これを通すとともに会長不信任案を提出。無論マンキーウィッツ側も黙っておらず、[フレッド・ジンネマン](../Page/フレッド・ジンネマン.md "wikilink")、[ジョージ・スティーヴンス](https://ja.wikipedia.org/wiki/ジョージ・スティーヴンス "wikilink")らの支援を受け、デミル擁護派と真っ向対立し、同年[10月22日](../Page/10月22日.md "wikilink")に緊急総会が招集された。
 
 深夜まで紛糾したこの席上、それまで態度を表明していなかったフォードが発言、「私の名前はジョン・フォード、ウェスタンを撮っている者です。アメリカの観客全員がデミルをどれほど深く愛しているかはよく存じている。」と、皮肉に富んだ挨拶の後、デミルを凝視しながら「だがデミルの発言と今夜の振舞いは気に入らない。私としてはマンキーウィッツに信任の一票を投じたい。そして早く家に帰って眠ろうじゃないか。みんな明日には撮影を控えているんだろう?」と名指しでデミルを非難。普段寡黙なフォードの一言は大きく影響し、マンキーウィッツの会長留任が採決され、デミルの提案は却下。協会評議員の地位を追われる結果となった\[7\]。
 
@@ -90,7 +90,7 @@
   - 金色の寝床 *[The Golden Bed](https://ja.wikipedia.org/wiki/:en:The_Golden_Bed "wikilink")* (1925) 監督・製作
   - 昨日への道 *[The Road to Yesterday](https://ja.wikipedia.org/wiki/:en:The_Road_to_Yesterday "wikilink")* (1925) 監督
   - ヴォルガの船唄 *[The Volga Boatman](https://ja.wikipedia.org/wiki/:en:The_Volga_Boatman "wikilink")* (1926) 監督
-  - [キング・オブ・キングス](https://ja.wikipedia.org/wiki/キング・オブ・キングス_\(1927年の映画\) "wikilink") *[The King of Kings](https://ja.wikipedia.org/wiki/:en:The_King_of_Kings "wikilink")* (1927) 監督
+  - [キング・オブ・キングス](../Page/キング・オブ・キングス_\(1927年の映画\).md "wikilink") *[The King of Kings](https://ja.wikipedia.org/wiki/:en:The_King_of_Kings "wikilink")* (1927) 監督
   - 破戒 *[The Godless Girl](https://ja.wikipedia.org/wiki/:en:The_Godless_Girl "wikilink")* (1929) 監督
   - ダイナマイト *[Dynamite](https://ja.wikipedia.org/wiki/:en:Dynamite "wikilink")* (1929) 監督
   - マダム・サタン *[Madam Satan](https://ja.wikipedia.org/wiki/:en:Madam_Satan "wikilink")* (1930) 監督
@@ -108,7 +108,7 @@
   - 軍医ワッセル大佐 *[The Story of Dr. Wassell](https://ja.wikipedia.org/wiki/:en:The_Story_of_Dr._Wassell "wikilink")* (1944) 監督・製作
   - 征服されざる人々 *[Unconquered](https://ja.wikipedia.org/wiki/:en:Unconquered "wikilink")* (1947) 監督・製作
   - [サムソンとデリラ](https://ja.wikipedia.org/wiki/サムソンとデリラ_\(1949年の映画\) "wikilink") *[Samson and Delilah](https://ja.wikipedia.org/wiki/:en:Samson_and_Delilah "wikilink")* (1949) 監督・製作
-  - [地上最大のショウ](https://ja.wikipedia.org/wiki/地上最大のショウ "wikilink") *[The Greatest Show on Earth](https://ja.wikipedia.org/wiki/:en:The_Greatest_Show_on_Earth "wikilink")* (1952) 監督・製作
+  - [地上最大のショウ](../Page/地上最大のショウ.md "wikilink") *[The Greatest Show on Earth](https://ja.wikipedia.org/wiki/:en:The_Greatest_Show_on_Earth "wikilink")* (1952) 監督・製作
   - [十戒](../Page/十戒_\(映画\).md "wikilink") *[The Ten Commandments](https://ja.wikipedia.org/wiki/:en:The_Ten_Commandments "wikilink")* (1956) 監督・製作
 
 ### 出演
@@ -138,7 +138,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/第25回アカデミー賞" title="wikilink">1952</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アカデミー作品賞" title="wikilink">作品賞</a></p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/地上最大のショウ" title="wikilink">地上最大のショウ</a>』</p></td>
+<td><p>『<a href="../Page/地上最大のショウ.md" title="wikilink">地上最大のショウ</a>』</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -184,8 +184,8 @@
 
 ## 関連項目
 
-  - [淀川長治](https://ja.wikipedia.org/wiki/淀川長治 "wikilink")
-  - [ヘンリー・小谷](https://ja.wikipedia.org/wiki/ヘンリー・小谷 "wikilink")
+  - [淀川長治](../Page/淀川長治.md "wikilink")
+  - [ヘンリー・小谷](../Page/ヘンリー・小谷.md "wikilink")
 
 ## 外部リンク
 

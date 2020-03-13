@@ -124,7 +124,7 @@
 <tr class="odd">
 <td><p>1998.1</p></td>
 <td><p>1998.3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川原みなみ" title="wikilink">川原みなみ</a><sup>6</sup></p></td>
+<td><p><a href="../Page/川原みなみ.md" title="wikilink">川原みなみ</a><sup>6</sup></p></td>
 </tr>
 <tr class="even">
 <td><p>1998.4</p></td>

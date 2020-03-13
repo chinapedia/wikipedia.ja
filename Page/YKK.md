@@ -1,7 +1,7 @@
 > この記事は[YKK](https://ja.wikipedia.org/wiki/YKK)から翻訳されています。
 
 
-[YKK_Zipper_on_Jeans_close_up.jpg](https://ja.wikipedia.org/wiki/File:YKK_Zipper_on_Jeans_close_up.jpg "fig:YKK_Zipper_on_Jeans_close_up.jpg") **YKK株式会社**（ワイケイケイ、*YKK Corporation*）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く、日本の大手[非鉄金属](https://ja.wikipedia.org/wiki/非鉄金属 "wikilink")メーカーである。また[YKK APは同社グループの建材部門である](../Page/YKK_AP.md "wikilink")。
+[YKK_Zipper_on_Jeans_close_up.jpg](https://ja.wikipedia.org/wiki/File:YKK_Zipper_on_Jeans_close_up.jpg "fig:YKK_Zipper_on_Jeans_close_up.jpg") **YKK株式会社**（ワイケイケイ、*YKK Corporation*）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く、日本の大手[非鉄金属](../Page/非鉄金属.md "wikilink")メーカーである。また[YKK APは同社グループの建材部門である](../Page/YKK_AP.md "wikilink")。
 
 ## 概要
 
@@ -23,7 +23,7 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
 
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年） - 東日本橋から東京都[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[日本橋馬喰町](../Page/日本橋馬喰町.md "wikilink")に本社を移転
   - [1958年](../Page/1958年.md "wikilink")（昭和33年） - 東京都[台東区](../Page/台東区.md "wikilink")[浅草雷門に本社を移転](../Page/雷門_\(台東区\).md "wikilink")。
-  - 1958年（昭和33年）10月20日 - [昭和天皇](https://ja.wikipedia.org/wiki/昭和天皇 "wikilink")が富山県国体開催に合わせて[行幸](https://ja.wikipedia.org/wiki/行幸 "wikilink")。黒部工場（現牧野工場）が視察先の一つとなる\[1\]。
+  - 1958年（昭和33年）10月20日 - [昭和天皇](../Page/昭和天皇.md "wikilink")が富山県国体開催に合わせて[行幸](../Page/行幸.md "wikilink")。黒部工場（現牧野工場）が視察先の一つとなる\[1\]。
   - [1959年](../Page/1959年.md "wikilink")（昭和34年） - ニュージーランドに最初の海外現地法人設立。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年） - アルミ建材の製造販売を開始。
   - [1963年](../Page/1963年.md "wikilink")（昭和38年） - 東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[神田和泉町](../Page/神田和泉町.md "wikilink")に本社を移転
@@ -58,7 +58,7 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
   - 滑川製造所（富山県[滑川市](../Page/滑川市.md "wikilink")）
   - 北海道工場（北海道[石狩市](../Page/石狩市.md "wikilink")）
   - 東北事業所（宮城県[大崎市](https://ja.wikipedia.org/wiki/大崎市 "wikilink")）
-  - 四国事業所（香川県[綾歌郡](../Page/綾歌郡.md "wikilink")[宇多津町](https://ja.wikipedia.org/wiki/宇多津町 "wikilink")）
+  - 四国事業所（香川県[綾歌郡](../Page/綾歌郡.md "wikilink")[宇多津町](../Page/宇多津町.md "wikilink")）
   - 九州事業所（熊本県[八代市](../Page/八代市.md "wikilink")）
 
 ## その他
@@ -92,7 +92,7 @@ YKKグループの本社機能、およびファスニング事業（Fastening P
   - [ゲンコツの海](https://ja.wikipedia.org/wiki/ゲンコツの海 "wikilink")（[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")） - 一社提供。
   - [ビックリ決定版\!\!](https://ja.wikipedia.org/wiki/ビックリ決定版!! "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 一社提供。
   - [YKKアワー キックボクシング中継](../Page/YKKアワー_キックボクシング中継.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 途中より。
-  - [ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [クイズ100人に聞きました](../Page/クイズ100人に聞きました.md "wikilink")（TBS） - 開始当初は一社提供番組であり、『YKKファミリーアワー クイズ100人に聞きました』というタイトルだった。
   - [筑紫哲也NEWS23](https://ja.wikipedia.org/wiki/筑紫哲也NEWS23 "wikilink")（TBS）
   - [日本テレビ火曜8時枠時代劇](../Page/日本テレビ火曜8時枠時代劇.md "wikilink")

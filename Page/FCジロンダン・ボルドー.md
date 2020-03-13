@@ -7,17 +7,17 @@
 
 現在は[フランスリーグの](https://ja.wikipedia.org/wiki/フランス・プロサッカーリーグ "wikilink")[リーグ・アン](../Page/リーグ・アン.md "wikilink")に所属しており、[1881年](../Page/1881年.md "wikilink")に設立されたフランスで2番目に歴史のあるサッカークラブ。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では｢ジロンディンズ｣と呼ばれている｡黄金期を迎えたのはリーグ優勝3回・[フランスカップ](../Page/クープ・ドゥ・フランス.md "wikilink")2回制覇した1980年代。
 
-1995-96シーズンには、中心選手であったMF[ジネディーヌ・ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")、DF[ビセンテ・リザラズ](https://ja.wikipedia.org/wiki/ビセンテ・リザラズ "wikilink")、FW[クリストフ・デュガリー](https://ja.wikipedia.org/wiki/クリストフ・デュガリー "wikilink")らの活躍により、[UEFAカップで準優勝に輝いた](../Page/UEFAヨーロッパリーグ.md "wikilink")。
+1995-96シーズンには、中心選手であったMF[ジネディーヌ・ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")、DF[ビセンテ・リザラズ](../Page/ビセンテ・リザラズ.md "wikilink")、FW[クリストフ・デュガリー](../Page/クリストフ・デュガリー.md "wikilink")らの活躍により、[UEFAカップで準優勝に輝いた](../Page/UEFAヨーロッパリーグ.md "wikilink")。
 
 2007年夏、監督経験のない[ローラン・ブラン](../Page/ローラン・ブラン.md "wikilink")を招聘し、MF[アルー・ディアッラ](../Page/アルー・ディアッラ.md "wikilink")、DF[マチュー・シャルメ](https://ja.wikipedia.org/wiki/マチュー・シャルメ "wikilink")、DF[スレイマン・ディアワラ](https://ja.wikipedia.org/wiki/スレイマン・ディアワラ "wikilink")など守備的な選手を補強して、シーズンに臨んだ。FW[フェルナンド・カベナギ](../Page/フェルナンド・カベナギ.md "wikilink")が15得点とエースの役割をしっかり果たし、新戦力も軒並み期待以上の活躍を見せた。勝ち点4差で[リヨンに引けを取ったが](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")、最終節まで優勝争いに絡み、2位という好成績を残した。ブラン監督はキャリア1年目にしてリーグ最優秀監督に選出された。
 
 2008年夏に司令塔の[ジョアン・ミクー](../Page/ジョアン・ミクー.md "wikilink")が引退したが、[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")からMF[ヨアン・グルキュフ](../Page/ヨアン・グルキュフ.md "wikilink")をレンタルで、[SMカーン](../Page/SMカーン.md "wikilink")から2007年に[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")MVPに輝いているFW[ヨアン・グフラン](https://ja.wikipedia.org/wiki/ヨアン・グフラン "wikilink")を完全移籍でそれぞれ獲得した。2008-09シーズンは[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")に出場し、グループリーグ3位という結果に終わった。チャンピオンズリーグ敗退により回ったUEFAカップでは決勝トーナメント1回戦で[ガラタサライ](https://ja.wikipedia.org/wiki/ガラタサライ "wikilink")に敗れた。一方、国内リーグ戦はMFグルキュフ、MFディアッラやエースとなったFW[マルアーヌ・シャマフ](https://ja.wikipedia.org/wiki/マルアーヌ・シャマフ "wikilink")ら主力の活躍により、終盤にリーグ新記録となる11連勝で[オリンピック・マルセイユ](../Page/オリンピック・マルセイユ.md "wikilink")、リヨンをかわし、10シーズンぶりのリーグ優勝を果たし、リヨンの連覇を7で止めた。またリーグカップ決勝で[ヴァンヌOC](../Page/ヴァンヌOC.md "wikilink")を倒して2シーズンぶりの優勝も決めた。 ちなみに11連勝でシーズンを終えたボルドーは2009-10シーズンに開幕から3連勝し、14連勝の記録を作った。2009年8月30日のマルセイユ戦で引き分けたために連勝記録が止まった\[1\]。
 
-2009年1月にブラン監督との契約を延長し、5月下旬にMFグルキュフを完全移籍させた。2009年夏にDFディアワラをライバルのマルセイユに引き抜かれたが、それ以外の主力選手は残留し、GK[セドリック・カラッソ](https://ja.wikipedia.org/wiki/セドリック・カラッソ "wikilink")、MF[ヤロスラフ・プラシル](../Page/ヤロスラフ・プラシル.md "wikilink")など層の薄いポジションの補強に努めた。こうして臨んだ2009-10シーズンは、チャンピオンズリーグのグループリーグを首位通過したものの、決勝トーナメント準々決勝でリヨンとのフランス対決に敗れた。リーグ・アも前半戦は2位の[リールに](https://ja.wikipedia.org/wiki/LOSCリール・メトロポール "wikilink")9ポイントの差をつけて首位で折り返したものの、2010年1月に次期[フランス代表監督候補にブランの名前が挙がった事が決定打となり](../Page/サッカーフランス代表.md "wikilink")、後半戦以降は一体感を失い、4月は全く勝てなかったのも合わせて大失速。リーグでは6位に沈んだ。2010-11シーズンは、ブランのフランス代表監督就任により[ジャン・ティガナ](https://ja.wikipedia.org/wiki/ジャン・ティガナ "wikilink")が監督に就いたが、MFグルキュフとFWシャマフの移籍もあってチームは更に不振を極め、ティガナ監督はシーズン途中で辞任。2011-12シーズンは[フランシス・ジロ](https://ja.wikipedia.org/wiki/フランシス・ジロ "wikilink")を監督に据え、リーグ5位となり、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得した。
+2009年1月にブラン監督との契約を延長し、5月下旬にMFグルキュフを完全移籍させた。2009年夏にDFディアワラをライバルのマルセイユに引き抜かれたが、それ以外の主力選手は残留し、GK[セドリック・カラッソ](https://ja.wikipedia.org/wiki/セドリック・カラッソ "wikilink")、MF[ヤロスラフ・プラシル](../Page/ヤロスラフ・プラシル.md "wikilink")など層の薄いポジションの補強に努めた。こうして臨んだ2009-10シーズンは、チャンピオンズリーグのグループリーグを首位通過したものの、決勝トーナメント準々決勝でリヨンとのフランス対決に敗れた。リーグ・アも前半戦は2位の[リールに](../Page/LOSCリール・メトロポール.md "wikilink")9ポイントの差をつけて首位で折り返したものの、2010年1月に次期[フランス代表監督候補にブランの名前が挙がった事が決定打となり](../Page/サッカーフランス代表.md "wikilink")、後半戦以降は一体感を失い、4月は全く勝てなかったのも合わせて大失速。リーグでは6位に沈んだ。2010-11シーズンは、ブランのフランス代表監督就任により[ジャン・ティガナ](../Page/ジャン・ティガナ.md "wikilink")が監督に就いたが、MFグルキュフとFWシャマフの移籍もあってチームは更に不振を極め、ティガナ監督はシーズン途中で辞任。2011-12シーズンは[フランシス・ジロ](https://ja.wikipedia.org/wiki/フランシス・ジロ "wikilink")を監督に据え、リーグ5位となり、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得した。
 
 ## ライバル
 
-FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikipedia.org/wiki/FCナント "wikilink")と[トゥールーズFC](../Page/トゥールーズFC.md "wikilink")である。FCナントとの対戦は[アトランティック・ダービー](https://ja.wikipedia.org/wiki/アトランティック・ダービー "wikilink")と呼ばれ、トゥールーズFCとの対戦は[ガロンヌ・ダービー](https://ja.wikipedia.org/wiki/ガロンヌ・ダービー "wikilink")と呼ばれている。
+FCジロンダン・ボルドーのライバルは[FCナント](../Page/FCナント.md "wikilink")と[トゥールーズFC](../Page/トゥールーズFC.md "wikilink")である。FCナントとの対戦は[アトランティック・ダービー](https://ja.wikipedia.org/wiki/アトランティック・ダービー "wikilink")と呼ばれ、トゥールーズFCとの対戦は[ガロンヌ・ダービー](https://ja.wikipedia.org/wiki/ガロンヌ・ダービー "wikilink")と呼ばれている。
 
 ## タイトル
 
@@ -138,7 +138,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 <td><p>1968-69</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1968-69" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCケルン" title="wikilink">ケルン</a></p></td>
+<td><p><a href="../Page/1.FCケルン.md" title="wikilink">ケルン</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''2–4</p></td>
@@ -250,7 +250,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 <td><p>1985-86</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ_1985-86" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>2–3</p></td>
 <td><p>0–0</p></td>
 <td><p>'''2–3</p></td>
@@ -410,7 +410,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カールスルーエSC" title="wikilink">カールスルーエ</a></p></td>
+<td><p><a href="../Page/カールスルーエSC.md" title="wikilink">カールスルーエ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–3</p></td>
 <td><p>'''1–3</p></td>
@@ -480,7 +480,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 </tr>
 <tr class="odd">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>3-0</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>'''3-0</p></td>
@@ -500,7 +500,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 </tr>
 <tr class="odd">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カールスルーエSC" title="wikilink">カールスルーエ</a></p></td>
+<td><p><a href="../Page/カールスルーエSC.md" title="wikilink">カールスルーエ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>2-0</p></td>
 <td><p>'''4-2</p></td>
@@ -583,7 +583,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 <td><p>1998-99</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1998-99" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–1</p></td>
 <td><p>'''3–2</p></td>
@@ -772,7 +772,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>0–2</p></td>
 <td><p>2–2</p></td>
 <td><p>'''2–4</p></td>
@@ -784,7 +784,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 <td><p>2003-04</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2003-04" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCペトルジャルカ・アカデーミア" title="wikilink">ペトルジャルカ・アカデーミア</a></p></td>
+<td><p><a href="../Page/FCペトルジャルカ・アカデーミア.md" title="wikilink">ペトルジャルカ・アカデーミア</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''3–2</p></td>
@@ -812,7 +812,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 </tr>
 <tr class="even">
 <td><p>4回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>3–1</p></td>
 <td><p>1–0</p></td>
 <td><p>'''4–1</p></td>
@@ -923,7 +923,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RSCアンデルレヒト" title="wikilink">アンデルレヒト</a></p></td>
+<td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–2</p></td>
 <td><p>'''2–3</p></td>
@@ -1025,7 +1025,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 <td><p>2012-13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2012-13" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>3–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''3–2</p></td>
@@ -1052,7 +1052,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>4–0</p></td>
 <td><p>2–1</p></td>
 <td></td>
@@ -1063,7 +1063,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–1</p></td>
 <td><p>'''2–1</p></td>
@@ -1085,7 +1085,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 <td><p>2013-14</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''4位</p></td>
@@ -1318,7 +1318,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 
   - [ローラン・ブラン](../Page/ローラン・ブラン.md "wikilink") 2007.6-2010.5
 
-  - [ジャン・ティガナ](https://ja.wikipedia.org/wiki/ジャン・ティガナ "wikilink") 2010.6-2011.5
+  - [ジャン・ティガナ](../Page/ジャン・ティガナ.md "wikilink") 2010.6-2011.5
 
   - エリック・ベドー 2011.5-2011.6
 
@@ -1354,7 +1354,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 
   - [パトリック・バチストン](https://ja.wikipedia.org/wiki/パトリック・バチストン "wikilink")
 
-  - [ビセンテ・リザラズ](https://ja.wikipedia.org/wiki/ビセンテ・リザラズ "wikilink")
+  - [ビセンテ・リザラズ](../Page/ビセンテ・リザラズ.md "wikilink")
 
   - [マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink")
 
@@ -1372,9 +1372,9 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 
 ### MF
 
-  - [アラン・ジレス](https://ja.wikipedia.org/wiki/アラン・ジレス "wikilink")
+  - [アラン・ジレス](../Page/アラン・ジレス.md "wikilink")
 
-  - [ジャン・ティガナ](https://ja.wikipedia.org/wiki/ジャン・ティガナ "wikilink")
+  - [ジャン・ティガナ](../Page/ジャン・ティガナ.md "wikilink")
 
   - [ベルナール・ジャンジニ](../Page/ベルナール・ジャンジニ.md "wikilink")
 
@@ -1418,11 +1418,11 @@ FCジロンダン・ボルドーのライバルは[FCナント](https://ja.wikip
 
   - [マルク・ヴィルモッツ](../Page/マルク・ヴィルモッツ.md "wikilink")
 
-  - [クリストフ・デュガリー](https://ja.wikipedia.org/wiki/クリストフ・デュガリー "wikilink")
+  - [クリストフ・デュガリー](../Page/クリストフ・デュガリー.md "wikilink")
 
   - [ペドロ・パウレタ](../Page/ペドロ・パウレタ.md "wikilink")
 
-  - [シルヴァン・ヴィルトール](https://ja.wikipedia.org/wiki/シルヴァン・ヴィルトール "wikilink")
+  - [シルヴァン・ヴィルトール](../Page/シルヴァン・ヴィルトール.md "wikilink")
 
   - [マルアン・シャマフ](https://ja.wikipedia.org/wiki/マルアン・シャマフ "wikilink")
 

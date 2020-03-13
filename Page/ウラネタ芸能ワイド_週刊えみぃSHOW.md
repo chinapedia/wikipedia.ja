@@ -9,14 +9,14 @@
 
 番組タイトルは「[エミー賞](../Page/エミー賞.md "wikilink")」をもじっている。毎回、この[一週間](https://ja.wikipedia.org/wiki/一週間 "wikilink")に起こった芸能[ニュース](../Page/ニュース.md "wikilink")の裏話（**ウラネタ**）を[井上公造](../Page/井上公造.md "wikilink")ら芸能リポーター陣が暴露。[東京](../Page/東京.md "wikilink")の番組では聞けないような先取り情報や危険なトークで話題になっている。特に東京でも知られる名物コーナー「イニシャル暴露トーク」では下手をすれば**上沼本人が訴えられる**という危険をはらむほど生々しいため人気が高かった。
 
-番組は[生放送](../Page/生放送.md "wikilink")ではないが、芸能ネタの『鮮度』を保つため、放送前日（土曜日）の夕方に収録している事から[撮って出し](https://ja.wikipedia.org/wiki/撮って出し "wikilink")に近い（『[なるトモ\!](https://ja.wikipedia.org/wiki/なるトモ! "wikilink")』の金曜版と同じ手法）。 他地方のネット局は抗議や多方面の圧力を恐れて、番組内容の過剰な自粛に走る傾向があり、また編成上の都合もあるため、関西ローカル以外の地域では（過去を含めて）放送されていなかった。また、日テレや一部の地方局は、「[昭和×平成 SHOWはHey\! Say\!](https://ja.wikipedia.org/wiki/時空間☆世代バトル_昭和×平成_SHOWはHey!_Say! "wikilink")」などを放送していた。
+番組は[生放送](../Page/生放送.md "wikilink")ではないが、芸能ネタの『鮮度』を保つため、放送前日（土曜日）の夕方に収録している事から[撮って出し](../Page/撮って出し.md "wikilink")に近い（『[なるトモ\!](https://ja.wikipedia.org/wiki/なるトモ! "wikilink")』の金曜版と同じ手法）。 他地方のネット局は抗議や多方面の圧力を恐れて、番組内容の過剰な自粛に走る傾向があり、また編成上の都合もあるため、関西ローカル以外の地域では（過去を含めて）放送されていなかった。また、日テレや一部の地方局は、「[昭和×平成 SHOWはHey\! Say\!](https://ja.wikipedia.org/wiki/時空間☆世代バトル_昭和×平成_SHOWはHey!_Say! "wikilink")」などを放送していた。
 
   - それでも2008年1月27日放送分では、番組冒頭で局アナが「前回放送分で不適切な発言・内容を放送してご迷惑をおかけしました」と、お詫びを行った。
 
 <!-- end list -->
 
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に放送開始から10年目を迎えたこともあり、リニューアルを行うこととなった。これに伴い、長年にわたり上沼恵美子とともに司会を務めた三田村邦彦が降板。その後任にワイドショー番組の司会は初めてとなる[花田勝](https://ja.wikipedia.org/wiki/花田勝 "wikilink")が抜擢される。同年[6月15日](../Page/6月15日.md "wikilink")放送分より花田が新司会者として登場し、[明石家さんま](../Page/明石家さんま.md "wikilink")、[曙太郎](../Page/曙太郎.md "wikilink")、そして実母である[藤田憲子からの](https://ja.wikipedia.org/wiki/藤田紀子 "wikilink")[VTRによるお祝いコメントに加えて](../Page/ビデオテープレコーダ.md "wikilink")、さっそく花田家騒動がネタにされるなど、手荒い歓迎となる。上沼やリポーターから毎度毎度振られてくる花田家ネタをうまく切り返す花田勝のトーク術で再度視聴率も上昇傾向を描きだす。
-  - しかし、「[わくわく宝島](https://ja.wikipedia.org/wiki/わくわく宝島 "wikilink")の中止」・「[鳥人間コンテストの延期](../Page/鳥人間コンテスト選手権大会.md "wikilink")」とともに当番組の終了が発表され、[2009年](../Page/2009年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")で放送終了となった。花田勝が司会を務めたのは約9ヶ月だった。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に放送開始から10年目を迎えたこともあり、リニューアルを行うこととなった。これに伴い、長年にわたり上沼恵美子とともに司会を務めた三田村邦彦が降板。その後任にワイドショー番組の司会は初めてとなる[花田勝](https://ja.wikipedia.org/wiki/花田勝 "wikilink")が抜擢される。同年[6月15日](../Page/6月15日.md "wikilink")放送分より花田が新司会者として登場し、[明石家さんま](../Page/明石家さんま.md "wikilink")、[曙太郎](../Page/曙太郎.md "wikilink")、そして実母である[藤田憲子からの](../Page/藤田紀子.md "wikilink")[VTRによるお祝いコメントに加えて](../Page/ビデオテープレコーダ.md "wikilink")、さっそく花田家騒動がネタにされるなど、手荒い歓迎となる。上沼やリポーターから毎度毎度振られてくる花田家ネタをうまく切り返す花田勝のトーク術で再度視聴率も上昇傾向を描きだす。
+  - しかし、「[わくわく宝島](../Page/わくわく宝島.md "wikilink")の中止」・「[鳥人間コンテストの延期](../Page/鳥人間コンテスト選手権大会.md "wikilink")」とともに当番組の終了が発表され、[2009年](../Page/2009年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")で放送終了となった。花田勝が司会を務めたのは約9ヶ月だった。
       - 後継番組は、引き続き上沼の司会によるバラエティ番組『[愛の修羅バラ\!](https://ja.wikipedia.org/wiki/愛の修羅バラ! "wikilink")』（読売テレビ・[中京テレビ共同制作](../Page/中京テレビ放送.md "wikilink")）が放送開始された。こちらは関西ローカルではなく地方ネットでの放送も行われている。
 
 <!-- end list -->
@@ -95,13 +95,13 @@
   - [斎藤洋介](../Page/斎藤洋介.md "wikilink")
   - [志垣太郎](../Page/志垣太郎.md "wikilink")
   - [坂田利夫](../Page/坂田利夫.md "wikilink")
-  - [ピーター](https://ja.wikipedia.org/wiki/池畑慎之介 "wikilink")
+  - [ピーター](../Page/池畑慎之介.md "wikilink")
   - [間寛平](../Page/間寛平.md "wikilink")
   - [渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")
   - [石原良純](../Page/石原良純.md "wikilink")
   - [舞の海](../Page/舞の海秀平.md "wikilink")
   - [長州小力](../Page/長州小力.md "wikilink")
-  - [城咲仁](https://ja.wikipedia.org/wiki/城咲仁 "wikilink") など
+  - [城咲仁](../Page/城咲仁.md "wikilink") など
 
 #### 過去に出演した人
 
@@ -112,7 +112,7 @@
   - [仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")
   - [松下由樹](https://ja.wikipedia.org/wiki/松下由樹 "wikilink")
   - [山本陽子](../Page/山本陽子.md "wikilink")
-  - [冨家規政](https://ja.wikipedia.org/wiki/冨家規政 "wikilink")
+  - [冨家規政](../Page/冨家規政.md "wikilink")
   - [西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")
   - [叶姉妹](https://ja.wikipedia.org/wiki/叶姉妹 "wikilink")など
 
@@ -152,7 +152,7 @@
 
 <!-- end list -->
 
-  - [なるみ](https://ja.wikipedia.org/wiki/なるみ "wikilink")
+  - [なるみ](../Page/なるみ.md "wikilink")
   - [松木安太郎](../Page/松木安太郎.md "wikilink")
 
 <!-- end list -->
@@ -188,7 +188,7 @@
 <!-- end list -->
 
   -
-    東京本社に異動のため、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")をもって[卒業](../Page/卒業.md "wikilink")（のちに朝日新聞社入社）。
+    東京本社に異動のため、[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")をもって[卒業](../Page/卒業.md "wikilink")（のちに朝日新聞社入社）。
 
 <!-- end list -->
 
@@ -206,14 +206,14 @@
 
 ### かつてのナレーター
 
-  - [島よしのり](https://ja.wikipedia.org/wiki/島よしのり "wikilink")（一部コーナーを除く全範囲を担当）
+  - [島よしのり](../Page/島よしのり.md "wikilink")（一部コーナーを除く全範囲を担当）
 
 ## コーナー
 
 ### 噂の特捜スクープ\!
 
   -
-    以前は、1つのネタに対して、ウラネタを話せるリポーターだけが話すというスタイルであったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")頃からは、「**大疑問**」、「**A（またはB）級事件簿**」などの大きなくくりで、それぞれの持ちネタについてリポーター全員がウラネタを話すスタイルとなっている。毎回3つのテーマでウラネタ披露が行われ、最終テーマは「**実名大暴露シリーズ**」で締める流れとなっている。
+    以前は、1つのネタに対して、ウラネタを話せるリポーターだけが話すというスタイルであったが、[2005年](../Page/2005年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")頃からは、「**大疑問**」、「**A（またはB）級事件簿**」などの大きなくくりで、それぞれの持ちネタについてリポーター全員がウラネタを話すスタイルとなっている。毎回3つのテーマでウラネタ披露が行われ、最終テーマは「**実名大暴露シリーズ**」で締める流れとなっている。
 
 ### 直撃\!芸能ターゲット
 
@@ -254,7 +254,7 @@
 <!-- end list -->
 
   -
-    芸能人3人が自らの手で作ったB級グルメを見た目や味などで審査する。審査は[林繁和](../Page/林裕人.md "wikilink")。過去の優勝者は、[アジャ・コング](https://ja.wikipedia.org/wiki/アジャ・コング "wikilink")、[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")、[ピーター](https://ja.wikipedia.org/wiki/池畑慎之介 "wikilink")。
+    芸能人3人が自らの手で作ったB級グルメを見た目や味などで審査する。審査は[林繁和](../Page/林裕人.md "wikilink")。過去の優勝者は、[アジャ・コング](../Page/アジャ・コング.md "wikilink")、[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")、[ピーター](../Page/池畑慎之介.md "wikilink")。
 
 <!-- end list -->
 
@@ -373,7 +373,7 @@
 <!-- end list -->
 
   -
-    司会が、[高知から三田村に交代して以降](../Page/高知東生.md "wikilink")、三田村があまりにも下らない[ダジャレ](https://ja.wikipedia.org/wiki/ダジャレ "wikilink")や[掛けことば](https://ja.wikipedia.org/wiki/掛けことば "wikilink")を連発したため、[2003年](../Page/2003年.md "wikilink")から、司会者席のテーブルに置かれた“**罰金箱**”である。スベった際や“間”を誤った際、1回につき[500円を徴収される](https://ja.wikipedia.org/wiki/五百円硬貨 "wikilink")。スベったとわかるポイントは三田村の表情と、上沼が罰金箱を持ち上げた時である。毎回三田村は、[スーツの](https://ja.wikipedia.org/wiki/背広 "wikilink")[ポケット](https://ja.wikipedia.org/wiki/ポケット "wikilink")に500円を用意しているという。徴収された全額の使用用途は、定かではない。上沼本人は本気かどうか判らないが「まとまった額になったら番組出演者みんなで旅行に行きましょう」と言っている。三田村の降板により、この罰金箱も廃止された。
+    司会が、[高知から三田村に交代して以降](../Page/高知東生.md "wikilink")、三田村があまりにも下らない[ダジャレ](https://ja.wikipedia.org/wiki/ダジャレ "wikilink")や[掛けことば](https://ja.wikipedia.org/wiki/掛けことば "wikilink")を連発したため、[2003年](../Page/2003年.md "wikilink")から、司会者席のテーブルに置かれた“**罰金箱**”である。スベった際や“間”を誤った際、1回につき[500円を徴収される](../Page/五百円硬貨.md "wikilink")。スベったとわかるポイントは三田村の表情と、上沼が罰金箱を持ち上げた時である。毎回三田村は、[スーツの](../Page/背広.md "wikilink")[ポケット](https://ja.wikipedia.org/wiki/ポケット "wikilink")に500円を用意しているという。徴収された全額の使用用途は、定かではない。上沼本人は本気かどうか判らないが「まとまった額になったら番組出演者みんなで旅行に行きましょう」と言っている。三田村の降板により、この罰金箱も廃止された。
 
 <!-- end list -->
 
@@ -386,7 +386,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月7日](../Page/8月7日.md "wikilink")のオープニングで、[司会](../Page/司会.md "wikilink")である上沼が、[追徴課税](https://ja.wikipedia.org/wiki/追徴課税 "wikilink")についての弁明・釈明を5分程度行った。これを行った理由としては、「最初は、自分の番組で釈明めいたことはしたくなかったが、[芸能](../Page/芸能.md "wikilink")[ワイドショー](../Page/ワイドショー.md "wikilink")を扱うというコンセプトでやっている。自分も[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")の端くれとして言わせてもらいたい」とのことからである。
+  - [2005年](../Page/2005年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")のオープニングで、[司会](../Page/司会.md "wikilink")である上沼が、[追徴課税](https://ja.wikipedia.org/wiki/追徴課税 "wikilink")についての弁明・釈明を5分程度行った。これを行った理由としては、「最初は、自分の番組で釈明めいたことはしたくなかったが、[芸能](../Page/芸能.md "wikilink")[ワイドショー](../Page/ワイドショー.md "wikilink")を扱うというコンセプトでやっている。自分も[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")の端くれとして言わせてもらいたい」とのことからである。
   - [2007年](../Page/2007年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")の放送は、この日の[午前](https://ja.wikipedia.org/wiki/午前 "wikilink")9時42分頃に発生した[能登半島地震](../Page/能登半島地震.md "wikilink")によるNNN[報道特別番組](../Page/報道特別番組.md "wikilink")が放送されたため、放送途中の12時35分で[打ち切られた](../Page/打ち切り.md "wikilink")。なお、この日は[2007年版の華麗なる一族にちなんで](../Page/華麗なる一族_\(2007年のテレビドラマ\).md "wikilink")、「[華麗なる一族](../Page/華麗なる一族.md "wikilink")」の特集が放送される予定であった。この企画は、同年[4月15日](../Page/4月15日.md "wikilink")の回で放送されている。
   - **[どっちの料理ショー](../Page/どっちの料理ショー.md "wikilink")ネタばらし事件**
 
@@ -431,7 +431,7 @@
   - チーフプロデューサー : [妹尾和己](https://ja.wikipedia.org/wiki/妹尾和己 "wikilink")（ytv）
   - 観客動員 : [放送事業社](https://ja.wikipedia.org/wiki/放送事業社 "wikilink")
   - 技術協力 : [大阪東通](../Page/大阪東通.md "wikilink")→[東通](https://ja.wikipedia.org/wiki/東通大阪支社 "wikilink")、[ハートス](https://ja.wikipedia.org/wiki/ハートス "wikilink")、[マウス](../Page/マウス_\(ポストプロダクション\).md "wikilink")、[サウンドエフェクト](../Page/サウンドエフェクト.md "wikilink")、[教映社](https://ja.wikipedia.org/wiki/教映社 "wikilink")、[NiTRo](../Page/日テレ・テクニカル・リソーシズ.md "wikilink")（旧[日本テレビビデオ](https://ja.wikipedia.org/wiki/日本テレビビデオ "wikilink")）、[aex](http://www.aexinc.co.jp/)、[ADEC](https://ja.wikipedia.org/wiki/エイデック_\(映像制作会社\) "wikilink")、[ジェイ・クルー](https://ja.wikipedia.org/wiki/ジェイ・クルー "wikilink")、[mabu](https://ja.wikipedia.org/wiki/mabu "wikilink")、テレプロ・カム、[SpEED](https://ja.wikipedia.org/wiki/SpEED "wikilink")
-  - 美術協力 : [つむら工芸](https://ja.wikipedia.org/wiki/つむら工芸 "wikilink")、[高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")、デンコー、A.I.C
+  - 美術協力 : [つむら工芸](../Page/つむら工芸.md "wikilink")、[高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")、デンコー、A.I.C
   - スタッフ協力 : [オフィスりぷる](../Page/オフィスりぷる.md "wikilink")、[メガバックス](../Page/メガバックス.md "wikilink")、[オンタイム。](https://ja.wikipedia.org/wiki/オンタイム_\(テレビ制作会社\) "wikilink")、[パワーステーション](../Page/パワーステーション_\(番組制作会社\).md "wikilink")、[ブリッジ](https://ja.wikipedia.org/wiki/ブリッジ_\(テレビ制作会社\) "wikilink")、[ウォークオン](../Page/ウォークオン.md "wikilink")、[日テレアックスオン](../Page/日テレアックスオン.md "wikilink")、[インパクト](../Page/インパクト_\(テレビ制作会社\).md "wikilink")
   - 制作著作 : [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")
 
@@ -446,6 +446,6 @@
   - デスク : 奥田由美（メガバックス）、岩見ゆう子（クリエイティブ30〔以前はザ・ワークス所属していた〕）
   - ビデオ編集 : 浅地裕夫・岳崎勉（ytv）
   - スタイリスト : 小田切千鶴子
-  - スタッフ協力 : [クリエイターズユニオン](https://ja.wikipedia.org/wiki/クリエイターズユニオン "wikilink")、[Jワークス](https://ja.wikipedia.org/wiki/Jワークス "wikilink")、[アイ・ティ・エス](https://ja.wikipedia.org/wiki/アイ・ティ・エス "wikilink")、[ザ・ワークス](../Page/ザ・ワークス_\(テレビ制作会社\).md "wikilink")、[クリエイティブ30](../Page/クリエイティブ30.md "wikilink")
+  - スタッフ協力 : [クリエイターズユニオン](https://ja.wikipedia.org/wiki/クリエイターズユニオン "wikilink")、[Jワークス](../Page/Jワークス.md "wikilink")、[アイ・ティ・エス](../Page/アイ・ティ・エス.md "wikilink")、[ザ・ワークス](../Page/ザ・ワークス_\(テレビ制作会社\).md "wikilink")、[クリエイティブ30](../Page/クリエイティブ30.md "wikilink")
 
 [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:読売テレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:読売テレビの情報・ワイドショー番組 "wikilink") [Category:読売テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:読売テレビのバラエティ番組の歴史 "wikilink") [Category:上沼恵美子](https://ja.wikipedia.org/wiki/Category:上沼恵美子 "wikilink") [Category:芸能](https://ja.wikipedia.org/wiki/Category:芸能 "wikilink")

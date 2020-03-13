@@ -13,7 +13,7 @@
 |                                                        退役/ 喪失                                                        |
 |                                                         その後                                                          |
 |                                                         性能諸元                                                         |
-|                                 [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink")                                  |
+|                                           [排水量](../Page/排水量.md "wikilink")                                           |
 |                                                          全長                                                          |
 |                                                          全幅                                                          |
 |                                                          吃水                                                          |
@@ -38,7 +38,7 @@
 
 <File:USS> Langley (CV-1) in 1924 (NNAM.1996.488.010.007).jpg|1924年に撮られたラングレー。 <File:USS> Langley CV-1 hangar 1920s.jpg|ラングレーの格納庫。
 
-ジュピターは海上で航空機を運用するという新たな考えの実験のため、[ノーフォーク海軍工廠](https://ja.wikipedia.org/wiki/ノーフォーク海軍工廠 "wikilink")でアメリカ海軍初の航空母艦に改装された。[1920年](../Page/1920年.md "wikilink")4月11日に天文学者であり航空学のパイオニアでもある[サミュエル・ラングレー](https://ja.wikipedia.org/wiki/サミュエル・ラングレー "wikilink")の名に因み**ラングレー**と改名され、CV-1（航空母艦）に艦種変更される。ラングレーは[1922年](../Page/1922年.md "wikilink")3月20日にケネス・ホィッティング艦長の指揮下再就役する。アメリカ海軍初の航空母艦がラングレーと命名されたのは、[オーヴィル・ライト](https://ja.wikipedia.org/wiki/オーヴィル・ライト "wikilink")と合衆国政府の対立の一端が現れたものであった。
+ジュピターは海上で航空機を運用するという新たな考えの実験のため、[ノーフォーク海軍工廠](https://ja.wikipedia.org/wiki/ノーフォーク海軍工廠 "wikilink")でアメリカ海軍初の航空母艦に改装された。[1920年](../Page/1920年.md "wikilink")4月11日に天文学者であり航空学のパイオニアでもある[サミュエル・ラングレー](../Page/サミュエル・ラングレー.md "wikilink")の名に因み**ラングレー**と改名され、CV-1（航空母艦）に艦種変更される。ラングレーは[1922年](../Page/1922年.md "wikilink")3月20日にケネス・ホィッティング艦長の指揮下再就役する。アメリカ海軍初の航空母艦がラングレーと命名されたのは、[オーヴィル・ライト](https://ja.wikipedia.org/wiki/オーヴィル・ライト "wikilink")と合衆国政府の対立の一端が現れたものであった。
 
 アメリカ海軍初の航空母艦として、ラングレーは数多くの重要な出来事の現場となった。1922年10月17日にバージル・C・グリフィン中尉は最初の飛行機、を操縦し発艦した。飛行機が船から発艦したことおよび飛行甲板を装備した艦はラングレーが初めてではなかったが、グリフィン中尉の発艦はアメリカ海軍の記念碑的出来事であった。9日後、[ゴッドフリー・シャヴァリア](https://ja.wikipedia.org/wiki/ゴッドフリー・シャヴァリア "wikilink")少佐はで最初の着艦を行った。11月18日にホィッティング艦長が発艦を行い、空母艦上から[カタパルト](../Page/カタパルト.md "wikilink")で発艦を行った初の飛行家となった。
 
@@ -46,11 +46,11 @@
 
 ## 水上機母艦
 
-[USS_Langley_(AV-3).jpg](https://ja.wikipedia.org/wiki/File:USS_Langley_\(AV-3\).jpg "fig:USS_Langley_(AV-3).jpg") [USS_Langley_1938.jpg](https://ja.wikipedia.org/wiki/File:USS_Langley_1938.jpg "fig:USS_Langley_1938.jpg") [USS_Langley_(AV-3)_is_torpedoed_south_of_Java_on_27_February_1942.jpg](https://ja.wikipedia.org/wiki/File:USS_Langley_\(AV-3\)_is_torpedoed_south_of_Java_on_27_February_1942.jpg "fig:USS_Langley_(AV-3)_is_torpedoed_south_of_Java_on_27_February_1942.jpg") [USS_Langley_(AV-3)_being_abandoned_south_of_Java_on_27_February_1942_(NH_92472).jpg](https://ja.wikipedia.org/wiki/File:USS_Langley_\(AV-3\)_being_abandoned_south_of_Java_on_27_February_1942_\(NH_92472\).jpg "fig:USS_Langley_(AV-3)_being_abandoned_south_of_Java_on_27_February_1942_(NH_92472).jpg") 1936年10月25日に「ラングレー」はカリフォルニア州の[メア・アイランド海軍工廠](https://ja.wikipedia.org/wiki/メア・アイランド海軍工廠 "wikilink")でオーバーホール及び水上機母艦への改修が行われた。「ラングレー」の空母としての経歴は終了したが、艦で訓練されたパイロットは続く二隻の空母「[レキシントン](https://ja.wikipedia.org/wiki/レキシントン_\(CV-2\) "wikilink")」および「[サラトガ](https://ja.wikipedia.org/wiki/サラトガ_\(CV-3\) "wikilink")」で重要な役割を果たした。
+[USS_Langley_(AV-3).jpg](https://ja.wikipedia.org/wiki/File:USS_Langley_\(AV-3\).jpg "fig:USS_Langley_(AV-3).jpg") [USS_Langley_1938.jpg](https://ja.wikipedia.org/wiki/File:USS_Langley_1938.jpg "fig:USS_Langley_1938.jpg") [USS_Langley_(AV-3)_is_torpedoed_south_of_Java_on_27_February_1942.jpg](https://ja.wikipedia.org/wiki/File:USS_Langley_\(AV-3\)_is_torpedoed_south_of_Java_on_27_February_1942.jpg "fig:USS_Langley_(AV-3)_is_torpedoed_south_of_Java_on_27_February_1942.jpg") [USS_Langley_(AV-3)_being_abandoned_south_of_Java_on_27_February_1942_(NH_92472).jpg](https://ja.wikipedia.org/wiki/File:USS_Langley_\(AV-3\)_being_abandoned_south_of_Java_on_27_February_1942_\(NH_92472\).jpg "fig:USS_Langley_(AV-3)_being_abandoned_south_of_Java_on_27_February_1942_(NH_92472).jpg") 1936年10月25日に「ラングレー」はカリフォルニア州の[メア・アイランド海軍工廠](https://ja.wikipedia.org/wiki/メア・アイランド海軍工廠 "wikilink")でオーバーホール及び水上機母艦への改修が行われた。「ラングレー」の空母としての経歴は終了したが、艦で訓練されたパイロットは続く二隻の空母「[レキシントン](../Page/レキシントン_\(CV-2\).md "wikilink")」および「[サラトガ](../Page/サラトガ_\(CV-3\).md "wikilink")」で重要な役割を果たした。
 
 「ラングレー」は1937年2月26日に改修が完了し、4月11日に AV-3 （水上機母艦）へ艦種変更された。航空機偵察部隊に配属され、[ワシントン州](../Page/ワシントン州.md "wikilink")[シアトル](../Page/シアトル.md "wikilink")、[アラスカ州](../Page/アラスカ州.md "wikilink")[シトカ](https://ja.wikipedia.org/wiki/シトカ "wikilink")、[真珠湾](../Page/真珠湾.md "wikilink")、[サンディエゴ](../Page/サンディエゴ.md "wikilink")で作戦活動を行う。1939年2月1日から7月10日まで大西洋艦隊での任務で展開し、その後太平洋艦隊に配属され9月24日[マニラ](../Page/マニラ.md "wikilink")に到着。後にに配置換えとなり、[飛行艇](../Page/飛行艇.md "wikilink")と水上機からなる飛行偵察部隊の支援活動に従事した\[1\]。
 
-1941年12月7日の[真珠湾攻撃](../Page/真珠湾攻撃.md "wikilink")により[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")が勃発したとき、「ラングレー」は[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[カヴィテに停泊していた](../Page/カヴィテ州.md "wikilink")。「ラングレー」は翌12月8日に出航し、[ボルネオ](https://ja.wikipedia.org/wiki/ボルネオ "wikilink")の[バリクパパン](https://ja.wikipedia.org/wiki/バリクパパン "wikilink")を経て[オーストラリア](../Page/オーストラリア.md "wikilink")の[ダーウィンに向かい](../Page/ダーウィン_\(ノーザンテリトリー\).md "wikilink")、ダーウィンには1942年1月1日到着した。1月11日まで「ラングレー」は[オーストラリア空軍](../Page/オーストラリア空軍.md "wikilink")の対潜哨戒に協力する。その後、「ラングレー」は日本軍に対抗して[オランダ領東インド](https://ja.wikipedia.org/wiki/オランダ領東インド "wikilink")で[ABDA司令部](https://ja.wikipedia.org/wiki/ABDA司令部 "wikilink")（[アーチボルド・ウェーヴェル大将](https://ja.wikipedia.org/wiki/アーチボルド・ウェーヴェル_\(初代ウェーヴェル伯爵\) "wikilink")）の下に結成されたアメリカ、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、オーストラリア4ヵ国の連合軍艦隊（[トーマス・C・ハート](https://ja.wikipedia.org/wiki/トーマス・C・ハート "wikilink")大将）に配属された。
+1941年12月7日の[真珠湾攻撃](../Page/真珠湾攻撃.md "wikilink")により[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")が勃発したとき、「ラングレー」は[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[カヴィテに停泊していた](../Page/カヴィテ州.md "wikilink")。「ラングレー」は翌12月8日に出航し、[ボルネオ](https://ja.wikipedia.org/wiki/ボルネオ "wikilink")の[バリクパパン](https://ja.wikipedia.org/wiki/バリクパパン "wikilink")を経て[オーストラリア](../Page/オーストラリア.md "wikilink")の[ダーウィンに向かい](../Page/ダーウィン_\(ノーザンテリトリー\).md "wikilink")、ダーウィンには1942年1月1日到着した。1月11日まで「ラングレー」は[オーストラリア空軍](../Page/オーストラリア空軍.md "wikilink")の対潜哨戒に協力する。その後、「ラングレー」は日本軍に対抗して[オランダ領東インド](../Page/オランダ領東インド.md "wikilink")で[ABDA司令部](https://ja.wikipedia.org/wiki/ABDA司令部 "wikilink")（[アーチボルド・ウェーヴェル大将](https://ja.wikipedia.org/wiki/アーチボルド・ウェーヴェル_\(初代ウェーヴェル伯爵\) "wikilink")）の下に結成されたアメリカ、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、オーストラリア4ヵ国の連合軍艦隊（[トーマス・C・ハート](https://ja.wikipedia.org/wiki/トーマス・C・ハート "wikilink")大将）に配属された。
 
 [南方作戦](../Page/南方作戦.md "wikilink")での日本軍の進撃は留まる事を知らず、やがて[ジャワ島](../Page/ジャワ島.md "wikilink")に対しても空襲が行われるようになった。連合軍は[ホーカー ハリケーンや](../Page/ホーカー_ハリケーン.md "wikilink")[ブリュスター バッファローで対抗したが](../Page/F2A_\(航空機\).md "wikilink")、日本機の敵ではなかった。連合軍は更なる戦闘機を欲し、[インド](../Page/インド.md "wikilink")に輸送途中の[カーチス P-40を引き抜くことにした](../Page/P-40_\(航空機\).md "wikilink")\[2\]。2月22日、「ラングレー」は元飛行甲板上に32機のカーチス P-40 を乗せ、セイロン行きの MS-5 船団と共にオーストラリアの[フリーマントルを出航した](../Page/フリーマントル_\(西オーストラリア州\).md "wikilink")。その翌日、中将\[3\]は P-40 を大至急輸送するよう命じ、「ラングレー」は同じくP-40 を輸送していた貨物船と共に護衛なしでジャワ島南岸部のに向かったが、貨物船は次第に「ラングレー」から離されていった\[4\]。
 
@@ -65,7 +65,7 @@
 
 救助された「ラングレー」乗員は給油艦「[ペコス](../Page/ペコス_\(AO-6\).md "wikilink")」に移されたが3月1日に「ペコス」も[南雲忠一](../Page/南雲忠一.md "wikilink")中将率いる[機動部隊](../Page/機動部隊.md "wikilink")の空襲により撃沈されたため、「ラングレー」の乗組員も多数死亡した。
 
-一方、「ラングレー」を攻撃した高雄航空隊では攻撃隊指揮官が「ラングレー」の撃沈を報告したものの、上層部はこの報告を採用せず「空母一隻撃破」という評価に留めた\[29\]。また、「ラングレー」被爆を伝える電文を傍受していた日本軍は攻撃したのが「ラングレー」であると推測したものの、1月8日に「[伊25](../Page/伊号第二十五潜水艦.md "wikilink")」が[ジョンストン島](../Page/ジョンストン島.md "wikilink")近海で「撃沈」したのが「ラングレー」であると[大本営発表](https://ja.wikipedia.org/wiki/大本営発表 "wikilink")で報じていた手前、本当の「ラングレー」は大本営発表では「特設空母」と報じられた\[30\]。
+一方、「ラングレー」を攻撃した高雄航空隊では攻撃隊指揮官が「ラングレー」の撃沈を報告したものの、上層部はこの報告を採用せず「空母一隻撃破」という評価に留めた\[29\]。また、「ラングレー」被爆を伝える電文を傍受していた日本軍は攻撃したのが「ラングレー」であると推測したものの、1月8日に「[伊25](../Page/伊号第二十五潜水艦.md "wikilink")」が[ジョンストン島](../Page/ジョンストン島.md "wikilink")近海で「撃沈」したのが「ラングレー」であると[大本営発表](../Page/大本営発表.md "wikilink")で報じていた手前、本当の「ラングレー」は大本営発表では「特設空母」と報じられた\[30\]。
 
 ## 脚注
 
@@ -75,7 +75,7 @@
 
 ## 参考文献
 
-  - [防衛研究所](https://ja.wikipedia.org/wiki/防衛研究所 "wikilink")戦史室編『戦史叢書26 蘭印・ベンガル湾方面海軍進攻作戦』[朝雲新聞](../Page/朝雲新聞.md "wikilink")社、1969年
+  - [防衛研究所](../Page/防衛研究所.md "wikilink")戦史室編『戦史叢書26 蘭印・ベンガル湾方面海軍進攻作戦』[朝雲新聞](../Page/朝雲新聞.md "wikilink")社、1969年
   - 阿部安雄「基地航空隊の艦船攻撃」『写真・太平洋戦争(1)』光人社、1988年、ISBN 4-7698-0413-X
   - 瀬名堯彦「大本営を悩ました米空母情報」『写真・太平洋戦争(2)』光人社、1988年、ISBN 4-7698-0414-8
   - 永井喜之、木俣滋郎『撃沈戦記』[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")、1988年、ISBN 4-257-17208-8

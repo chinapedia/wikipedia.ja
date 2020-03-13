@@ -7,8 +7,8 @@
 
 正式なタイトルは、当初は「SBSテレビ夕刊」だけであったが、1990年4月以後は[TBSから](../Page/TBSテレビ.md "wikilink")18時台前半に放送される全国ニュースの名称を「JNN」のみ省いて付ける。よって、全国ニュースの題名が変わるごとに後ろのサブ題名が変わる仕組みだった。
 
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")**「SBSテレビ夕刊 [ニュースの森](../Page/JNNニュースの森.md "wikilink")」**
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から終了まで**「SBSテレビ夕刊 [EVENING NEWS（イブニング・ニュース）](../Page/JNNイブニング・ニュース.md "wikilink")」**
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")**「SBSテレビ夕刊 [ニュースの森](../Page/JNNニュースの森.md "wikilink")」**
+  - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から終了まで**「SBSテレビ夕刊 [EVENING NEWS（イブニング・ニュース）](../Page/JNNイブニング・ニュース.md "wikilink")」**
 
 ただし、『[JNNニュースコープ](https://ja.wikipedia.org/wiki/JNNニュースコープ "wikilink")』が放送されていた時代、[新聞](../Page/新聞.md "wikilink")[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")には、『ニュースコープ』を当番組の全国ニュースパート扱いとされていたことがあった\[1\]。
 

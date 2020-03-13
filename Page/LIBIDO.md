@@ -5,7 +5,7 @@
 
 [1994年](../Page/1994年.md "wikilink")に発売された『[Libido7](https://ja.wikipedia.org/wiki/Libido7 "wikilink")』では、自ら**オカズウェア**と名乗るように、全編性的シーンという（当時としては）インパクトのある内容が注目され、その後発売された『[放課後恋愛クラブ -恋のエチュード-](../Page/放課後恋愛クラブ_-恋のエチュード-.md "wikilink")』『[放課後マニア倶楽部 -濃いの欲しいの-](../Page/放課後マニア倶楽部_-濃いの欲しいの-.md "wikilink")』の頃には中堅メーカーの一角を占めていた。
 
-しかし、2000年代に入ってからは衰退の一途をたどり、[2001年](../Page/2001年.md "wikilink")頃には内部告発から、[労働基準監督署](https://ja.wikipedia.org/wiki/労働基準監督署 "wikilink")の監査を受けた。その後、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")発売の『花々の想ひ…』をもってブランドとしては解散した。
+しかし、2000年代に入ってからは衰退の一途をたどり、[2001年](../Page/2001年.md "wikilink")頃には内部告発から、[労働基準監督署](../Page/労働基準監督署.md "wikilink")の監査を受けた。その後、[2005年](../Page/2005年.md "wikilink")発売の『花々の想ひ…』をもってブランドとしては解散した。
 
 [2007年](../Page/2007年.md "wikilink")に、**LIBI**ブランドで『Babydoll』をリリースするが、その後まもなく再び活動を停止した。現在キューティーリソースの活動は版権管理などにとどまる。
 
@@ -47,7 +47,7 @@
   - [2002年](../Page/2002年.md "wikilink") - [monologue](https://ja.wikipedia.org/wiki/monologue_\(ゲーム\) "wikilink")※
   - [2003年](../Page/2003年.md "wikilink") - ☆[Libido7 DVD](https://ja.wikipedia.org/wiki/Libido7_DVD "wikilink")※
   - 2003年 - ○[Casual Romance Club](https://ja.wikipedia.org/wiki/Casual_Romance_Club "wikilink")※（放課後恋愛クラブの英語版）
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [花々の想ひ…](https://ja.wikipedia.org/wiki/花々の想ひ… "wikilink")
+  - [2005年](../Page/2005年.md "wikilink") - [花々の想ひ…](https://ja.wikipedia.org/wiki/花々の想ひ… "wikilink")
 
 **キューティーソフト ブランド**
 

@@ -17,7 +17,7 @@
   - ページの内容は[テキストファイル](../Page/テキストファイル.md "wikilink")形式で保存され、データベース管理システムを必要としない。画像などの[バイナリ](../Page/バイナリ.md "wikilink")ファイルも各ページに紐付けられてファイル保存される。
   - [プラグイン](../Page/プラグイン.md "wikilink")により機能を拡張することができる。
   - 更新間隔・回数による定期的な自動バックアップが可能である。
-  - [フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")から利用するための[スキンも標準で用意されている](https://ja.wikipedia.org/wiki/スキン_\(GUI\) "wikilink")。
+  - [フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")から利用するための[スキンも標準で用意されている](../Page/スキン_\(GUI\).md "wikilink")。
   - [GPLに基づくオープンソースの](../Page/GNU_General_Public_License.md "wikilink")[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")として頒布されている。
 
 ## 派生版

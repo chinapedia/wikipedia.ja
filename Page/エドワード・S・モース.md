@@ -7,19 +7,19 @@
 
 [1838年](../Page/1838年.md "wikilink")[メイン州](../Page/メイン州.md "wikilink")[ポートランドに生まれた](../Page/ポートランド_\(メイン州\).md "wikilink")。高校は入退学を繰り返し、[製図工](https://ja.wikipedia.org/wiki/製図工 "wikilink")の勤めも長続きしなかったが、13歳ごろから採集し始めた貝類の標本は、学者が見学にくるほど充実していた。[1854年](../Page/1854年.md "wikilink")、18歳で博物学協会に入会。[1857年](../Page/1857年.md "wikilink")に新種の[カタツムリ](../Page/カタツムリ.md "wikilink")を協会誌上に報告した。
 
-[ダーウィンの](../Page/チャールズ・ダーウィン.md "wikilink")『[種の起源](https://ja.wikipedia.org/wiki/種の起源 "wikilink")』が出版された1859年から2年余、貝類研究の縁で、[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")の[ルイ・アガシー](../Page/ルイ・アガシー.md "wikilink")教授の学生助手を務める。アガシーの教授を受ける中で、アガシーが[腕足類](https://ja.wikipedia.org/wiki/腕足類 "wikilink")を[擬軟体動物](https://ja.wikipedia.org/wiki/擬軟体動物 "wikilink")に分類していたのを疑問に思ったのが、腕足類研究を思い立ったきっかけであった\[2\]。アガシーやジェフェリーズ・ワイマン（[Jefferies Wyman](https://ja.wikipedia.org/wiki/:en:Jefferies_Wyman "wikilink")）の講義を聴き、ワイマンの貝塚発掘にも関係した。生物学界に人脈も作った。1863年にエレン・エリザベス・オーウェン（Elen Elizabeth Owen）と結婚。
+[ダーウィンの](../Page/チャールズ・ダーウィン.md "wikilink")『[種の起源](../Page/種の起源.md "wikilink")』が出版された1859年から2年余、貝類研究の縁で、[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")の[ルイ・アガシー](../Page/ルイ・アガシー.md "wikilink")教授の学生助手を務める。アガシーの教授を受ける中で、アガシーが[腕足類](https://ja.wikipedia.org/wiki/腕足類 "wikilink")を[擬軟体動物](https://ja.wikipedia.org/wiki/擬軟体動物 "wikilink")に分類していたのを疑問に思ったのが、腕足類研究を思い立ったきっかけであった\[2\]。アガシーやジェフェリーズ・ワイマン（[Jefferies Wyman](https://ja.wikipedia.org/wiki/:en:Jefferies_Wyman "wikilink")）の講義を聴き、ワイマンの貝塚発掘にも関係した。生物学界に人脈も作った。1863年にエレン・エリザベス・オーウェン（Elen Elizabeth Owen）と結婚。
 
-講演にたけ、その謝礼金が生活を助けた。1867年、ジョージ・ピーボディ（[George Foster Peabody](https://ja.wikipedia.org/wiki/:en:George_Foster_Peabody "wikilink")）の寄付を得て、3人の研究仲間と[セイラムに](https://ja.wikipedia.org/wiki/セイラム_\(マサチューセッツ州\) "wikilink")『ピーボディー科学アカデミー』（1992年以降の[ピーボディ・エセックス博物館](../Page/ピーボディ・エセックス博物館.md "wikilink")）を開き、1870年まで[軟体動物](../Page/軟体動物.md "wikilink")担当の学芸員を務めた。1868年、セイラムに終生の家を構えた。
+講演にたけ、その謝礼金が生活を助けた。1867年、ジョージ・ピーボディ（[George Foster Peabody](https://ja.wikipedia.org/wiki/:en:George_Foster_Peabody "wikilink")）の寄付を得て、3人の研究仲間と[セイラムに](../Page/セイラム_\(マサチューセッツ州\).md "wikilink")『ピーボディー科学アカデミー』（1992年以降の[ピーボディ・エセックス博物館](../Page/ピーボディ・エセックス博物館.md "wikilink")）を開き、1870年まで[軟体動物](../Page/軟体動物.md "wikilink")担当の学芸員を務めた。1868年、セイラムに終生の家を構えた。
 
 [1871年](../Page/1871年.md "wikilink")、大学卒の学歴がないにもかかわらず、31歳で[ボウディン大学](https://ja.wikipedia.org/wiki/ボウディン大学 "wikilink")教授に就任し、ハーバード大学の講師も兼ねながら、[1874年](../Page/1874年.md "wikilink")までボウディン大学で過ごした。1872年から[アメリカ科学振興協会](../Page/アメリカ科学振興協会.md "wikilink")の幹事になった。
 
 ### 日本へ
 
-[進化論](../Page/進化論.md "wikilink")の観点から[腕足動物](../Page/腕足動物.md "wikilink")を研究対象に選び、[1877年](../Page/1877年.md "wikilink")（[明治](../Page/明治.md "wikilink")10年）6月、腕足動物の種類が多く生息する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に渡った。[文部省](../Page/文部省.md "wikilink")に採集の了解を求めるため[横浜駅から](https://ja.wikipedia.org/wiki/桜木町駅 "wikilink")[新橋駅](https://ja.wikipedia.org/wiki/新橋駅 "wikilink")へ向かう汽車の窓から、[貝塚](../Page/貝塚.md "wikilink")を発見。これが、後に彼によって日本初の[発掘調査](https://ja.wikipedia.org/wiki/発掘調査 "wikilink")が行なわれる[大森貝塚](../Page/大森貝塚.md "wikilink")である。訪問先の文部省では、[外山正一](../Page/外山正一.md "wikilink")から[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の[動物学](../Page/動物学.md "wikilink")・[生理学](../Page/生理学.md "wikilink")教授への就任を請われた。[江ノ島](https://ja.wikipedia.org/wiki/江ノ島 "wikilink")に[臨海実験所を作ろうとも言われた](../Page/江ノ島臨海実験所.md "wikilink")。
+[進化論](../Page/進化論.md "wikilink")の観点から[腕足動物](../Page/腕足動物.md "wikilink")を研究対象に選び、[1877年](../Page/1877年.md "wikilink")（[明治](../Page/明治.md "wikilink")10年）6月、腕足動物の種類が多く生息する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に渡った。[文部省](../Page/文部省.md "wikilink")に採集の了解を求めるため[横浜駅から](https://ja.wikipedia.org/wiki/桜木町駅 "wikilink")[新橋駅](https://ja.wikipedia.org/wiki/新橋駅 "wikilink")へ向かう汽車の窓から、[貝塚](../Page/貝塚.md "wikilink")を発見。これが、後に彼によって日本初の[発掘調査](../Page/発掘調査.md "wikilink")が行なわれる[大森貝塚](../Page/大森貝塚.md "wikilink")である。訪問先の文部省では、[外山正一](../Page/外山正一.md "wikilink")から[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の[動物学](../Page/動物学.md "wikilink")・[生理学](../Page/生理学.md "wikilink")教授への就任を請われた。[江ノ島](https://ja.wikipedia.org/wiki/江ノ島 "wikilink")に[臨海実験所を作ろうとも言われた](../Page/江ノ島臨海実験所.md "wikilink")。
 
-翌7月、東大法理文学部の教授に就任。当時、新設なった東大の外国人教授の大半が研究実績も無い宣教師ばかりだったため、これに呆れたモースは彼らを放逐すると同時に、日本人講師と協力して専門知識を持つ外国人教授の来日に尽力\[3\]。[物理学](../Page/物理学.md "wikilink")の教授には、[トマス・メンデンホール](https://ja.wikipedia.org/wiki/トマス・メンデンホール "wikilink")を、[哲学](../Page/哲学.md "wikilink")の教授には[アーネスト・フェノロサ](https://ja.wikipedia.org/wiki/アーネスト・フェノロサ "wikilink")を斡旋した。さらに、計2,500冊の図書を購入し、寄贈を受け、東大図書館の基礎を作った。
+翌7月、東大法理文学部の教授に就任。当時、新設なった東大の外国人教授の大半が研究実績も無い宣教師ばかりだったため、これに呆れたモースは彼らを放逐すると同時に、日本人講師と協力して専門知識を持つ外国人教授の来日に尽力\[3\]。[物理学](../Page/物理学.md "wikilink")の教授には、[トマス・メンデンホール](https://ja.wikipedia.org/wiki/トマス・メンデンホール "wikilink")を、[哲学](../Page/哲学.md "wikilink")の教授には[アーネスト・フェノロサ](../Page/アーネスト・フェノロサ.md "wikilink")を斡旋した。さらに、計2,500冊の図書を購入し、寄贈を受け、東大図書館の基礎を作った。
 
-そして江ノ島の漁師小屋を『臨海実験所』に改造し、7月17日から8月29日まで採集した。9月12日、講義を始めた。9月16日、動物学科助手の[松村任三](https://ja.wikipedia.org/wiki/松村任三 "wikilink")や、生徒であった[佐々木忠次郎](https://ja.wikipedia.org/wiki/佐々木忠次郎 "wikilink")、[松浦佐用彦](https://ja.wikipedia.org/wiki/松浦佐用彦 "wikilink")と[大森貝塚](../Page/大森貝塚.md "wikilink")を掘り始め、出土品の優品を[教育博物館に展示した](../Page/国立科学博物館.md "wikilink")。9月24日、東大で進化論を講義し、10月、その公開講演もした。
+そして江ノ島の漁師小屋を『臨海実験所』に改造し、7月17日から8月29日まで採集した。9月12日、講義を始めた。9月16日、動物学科助手の[松村任三](../Page/松村任三.md "wikilink")や、生徒であった[佐々木忠次郎](https://ja.wikipedia.org/wiki/佐々木忠次郎 "wikilink")、[松浦佐用彦](https://ja.wikipedia.org/wiki/松浦佐用彦 "wikilink")と[大森貝塚](../Page/大森貝塚.md "wikilink")を掘り始め、出土品の優品を[教育博物館に展示した](../Page/国立科学博物館.md "wikilink")。9月24日、東大で進化論を講義し、10月、その公開講演もした。
 
 大学での講義や研究の合間を縫って、東京各地を見物し、[日光](../Page/日光.md "wikilink")へ採集旅行もした。これらの間に、多くの民芸品や陶磁器を収集したほか、多数のスケッチを書き残した。
 
@@ -29,7 +29,7 @@
 
 1878年（[明治](../Page/明治.md "wikilink")11年）（40歳）、4月下旬、家族をつれて東京大学に戻った。
 
-6月末[浅草](../Page/浅草.md "wikilink")で、『大森村にて発見せし前世界古器物』を500人余に講演し、[考古学](../Page/考古学.md "wikilink")の概要、『旧石器時代』『新石器時代』『青銅器時代』『鉄器時代』の区分、大森貝塚が『新石器時代』に属することを述べ、出土した人骨に傷があり現在の[アイヌ](https://ja.wikipedia.org/wiki/アイヌ "wikilink")には[食人風習がないから](../Page/カニバリズム.md "wikilink")「昔の日本には、アイヌとは別の、食人する人種が住んでいた」と推論した\[4\]。演説会の主催および通訳は、[江木高遠](https://ja.wikipedia.org/wiki/江木高遠 "wikilink")であった。（講演の中の『プレ・アイヌ説』は、考古学の主流にならなかった\[5\]。）
+6月末[浅草](../Page/浅草.md "wikilink")で、『大森村にて発見せし前世界古器物』を500人余に講演し、[考古学](../Page/考古学.md "wikilink")の概要、『旧石器時代』『新石器時代』『青銅器時代』『鉄器時代』の区分、大森貝塚が『新石器時代』に属することを述べ、出土した人骨に傷があり現在の[アイヌ](../Page/アイヌ.md "wikilink")には[食人風習がないから](../Page/カニバリズム.md "wikilink")「昔の日本には、アイヌとは別の、食人する人種が住んでいた」と推論した\[4\]。演説会の主催および通訳は、[江木高遠](https://ja.wikipedia.org/wiki/江木高遠 "wikilink")であった。（講演の中の『プレ・アイヌ説』は、考古学の主流にならなかった\[5\]。）
 
 7月中旬から8月末まで、採集に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を往復した。この間函館にも『臨海実験所』を開いている(矢田部良吉「北海道旅行日誌」鵜沼わか『モースの見た北海道』1991年)。10月の『東京大学生物学会』（現在の『日本動物学会』）の発足に関わった\[6\]。日本初の学会である。
 
@@ -37,7 +37,7 @@
 
 貝塚の土器から興味が広がり、1879年初から、[蜷川式胤](https://ja.wikipedia.org/wiki/蜷川式胤 "wikilink")に日本の陶器について学んだ。5月初めから40日余、[九州](../Page/九州.md "wikilink")、[近畿](https://ja.wikipedia.org/wiki/近畿 "wikilink")地方に採集旅行をし、陶器作りの見学もした。この折に[大阪府八尾市の高安古墳群を調査し](../Page/高安古墳群.md "wikilink")、開山塚古墳の内部のスケッチを添えた論文「日本におけるドルメン」を発表している。
 
-1879年7月、[大森貝塚](../Page/大森貝塚.md "wikilink")発掘の詳報、"[Shell Mounds of Omori](https://ja.wikipedia.org/wiki/#おもな著書 "wikilink")"を、Memoirs of the Science Department, University of Tokio（東京大学理学部英文紀要）の第1巻第1部として出版した。ときの東大綜理[加藤弘之](https://ja.wikipedia.org/wiki/加藤弘之 "wikilink")に、「学術報告書を刊行し、海外と文献類を交換するよう」勧めたのである。（この中で使われた"cord marked pottery"が、日本語の『[縄文土器](../Page/縄文土器.md "wikilink")』となった。）
+1879年7月、[大森貝塚](../Page/大森貝塚.md "wikilink")発掘の詳報、"[Shell Mounds of Omori](https://ja.wikipedia.org/wiki/#おもな著書 "wikilink")"を、Memoirs of the Science Department, University of Tokio（東京大学理学部英文紀要）の第1巻第1部として出版した。ときの東大綜理[加藤弘之](../Page/加藤弘之.md "wikilink")に、「学術報告書を刊行し、海外と文献類を交換するよう」勧めたのである。（この中で使われた"cord marked pottery"が、日本語の『[縄文土器](../Page/縄文土器.md "wikilink")』となった。）
 
 1879年8月10日、冑山（現在の[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")内）の横穴墓群を調査し、その31日、東京大学を満期退職し、9月3日、離日した。後任には、[チャールズ・オーティス・ホイットマン](https://ja.wikipedia.org/wiki/チャールズ・オーティス・ホイットマン "wikilink")を斡旋した。
 
@@ -51,7 +51,7 @@
 
 1882年（明治15年）（44歳）6月初、家族を残し、日本美術研究家の[ビゲローと横浜に着いた](https://ja.wikipedia.org/wiki/ウィリアム・スタージス・ビゲロー "wikilink")。東大側は歓迎し宿舎を提供した。あちこちで講演し、冑山の再訪もしたが、今回は民具と陶器の収集が目的で、民具は、『ピーボディー科学アカデミー』用であった。[大隈重信](../Page/大隈重信.md "wikilink")が、所蔵の全陶器を贈った。
 
-7月下旬から9月上旬まで、[フェノロサ](https://ja.wikipedia.org/wiki/アーネスト・フェノロサ "wikilink")、ビゲローらと、関西・中国へ収集・見学の旅をした。そして武具や和書も集めたのち、1883年2月、単身離日した。
+7月下旬から9月上旬まで、[フェノロサ](../Page/アーネスト・フェノロサ.md "wikilink")、ビゲローらと、関西・中国へ収集・見学の旅をした。そして武具や和書も集めたのち、1883年2月、単身離日した。
 
 ### 帰国
 
@@ -63,7 +63,7 @@
 
 ### 晩年
 
-[1898年](../Page/1898年.md "wikilink")（明治31年）、東京帝国大学（後の東京大学）における生物学の教育・研究の基盤整備、日本初の学会設立などの功績により、日本政府から勲三等[旭日中綬章](https://ja.wikipedia.org/wiki/旭日中綬章 "wikilink")を受けた\[8\]。[1902年](../Page/1902年.md "wikilink")、60歳を越えたモースは、20数年ぶりに動物学の論文の執筆を再開し、[1908年](../Page/1908年.md "wikilink")に渡米した石川に対しても「私は陶器も研究しているが、動物学の研究も止めない。」と述べるなど、高齢になっても研究に対する執念は尽きなかった\[9\]。[1913年](../Page/1913年.md "wikilink")、75歳となったモースは、30年以上前の日記とスケッチをもとに、『Japan Day by Day（日本語訳題：日本その日その日）』の執筆を開始。1914年、ボストン博物学会会長となった。1915年、『ピーボディー科学アカデミー』から改名した『ピーボディー博物館』の名誉会長になった。1917年、『Japan Day by Day』を書き終えて出版した。[1922年](../Page/1922年.md "wikilink")（大正11年）、日本政府から勲二等[瑞宝章](https://ja.wikipedia.org/wiki/瑞宝章 "wikilink")を受けた\[10\]。
+[1898年](../Page/1898年.md "wikilink")（明治31年）、東京帝国大学（後の東京大学）における生物学の教育・研究の基盤整備、日本初の学会設立などの功績により、日本政府から勲三等[旭日中綬章](https://ja.wikipedia.org/wiki/旭日中綬章 "wikilink")を受けた\[8\]。[1902年](../Page/1902年.md "wikilink")、60歳を越えたモースは、20数年ぶりに動物学の論文の執筆を再開し、[1908年](../Page/1908年.md "wikilink")に渡米した石川に対しても「私は陶器も研究しているが、動物学の研究も止めない。」と述べるなど、高齢になっても研究に対する執念は尽きなかった\[9\]。[1913年](../Page/1913年.md "wikilink")、75歳となったモースは、30年以上前の日記とスケッチをもとに、『Japan Day by Day（日本語訳題：日本その日その日）』の執筆を開始。1914年、ボストン博物学会会長となった。1915年、『ピーボディー科学アカデミー』から改名した『ピーボディー博物館』の名誉会長になった。1917年、『Japan Day by Day』を書き終えて出版した。[1922年](../Page/1922年.md "wikilink")（大正11年）、日本政府から勲二等[瑞宝章](../Page/瑞宝章.md "wikilink")を受けた\[10\]。
 
 1923年（85歳）、[関東大震災](../Page/関東大震災.md "wikilink")による東京帝国大学図書館の壊滅を知り、全蔵書を東京帝国大学に寄付する旨、遺言を書き直した。
 
@@ -106,7 +106,7 @@
   - 『中国とその住居、瞥見』（Glimpses of China and Chinese Homes）（1902年）
   - 『火星の謎』（Mars and its Mystery）（1906年）
   - 『日本その日その日』（Japan Day by Day）（1917年）
-      - [石川欣一訳](https://ja.wikipedia.org/wiki/石川欣一_\(ジャーナリスト\) "wikilink")、[平凡社](../Page/平凡社.md "wikilink") [東洋文庫](https://ja.wikipedia.org/wiki/東洋文庫_\(平凡社\) "wikilink")（全3巻、1970年） ISBN 9784582801712、ISBN 9784256801796、ISBN 9784582801798。ワイド版2004年
+      - [石川欣一訳](https://ja.wikipedia.org/wiki/石川欣一_\(ジャーナリスト\) "wikilink")、[平凡社](../Page/平凡社.md "wikilink") [東洋文庫](../Page/東洋文庫_\(平凡社\).md "wikilink")（全3巻、1970年） ISBN 9784582801712、ISBN 9784256801796、ISBN 9784582801798。ワイド版2004年
       - 石川欣一訳 『日本その日その日』 [講談社学術文庫](../Page/講談社学術文庫.md "wikilink")（抜粋訳、2013年）
   - 『日本のすまい・内と外』（Japanese Homes and Their Surroundings）（1885年）
       - 上田篤ほか訳、[鹿島出版会](../Page/鹿島出版会.md "wikilink")（1979年） ISBN 9784306060029

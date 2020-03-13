@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    『[DAIBAッテキ\!\!](https://ja.wikipedia.org/wiki/DAIBAッテキ!!#主なコーナー "wikilink")』内のコーナーをそのまま継続した形で、全編ロケ企画に変え、視聴者からのリクエストを受ける形でチアチェキ軍団（[田中里奈](../Page/田中里奈.md "wikilink")、[町田恵](https://ja.wikipedia.org/wiki/町田恵_\(タレント\) "wikilink")、[久志麻理奈](https://ja.wikipedia.org/wiki/久志麻理奈 "wikilink")、[佐々木絵美子](https://ja.wikipedia.org/wiki/佐々木絵美子 "wikilink")、[野崎恵](https://ja.wikipedia.org/wiki/野崎恵 "wikilink")、[嶋野蘭](https://ja.wikipedia.org/wiki/嶋野蘭 "wikilink")、[大田祐歌](https://ja.wikipedia.org/wiki/大田祐歌 "wikilink")）が出張して行なった。[7月17日](../Page/7月17日.md "wikilink")から[9月18日](../Page/9月18日.md "wikilink")（総集編）まで8回放送、[男子校](https://ja.wikipedia.org/wiki/男子校 "wikilink")の[文化祭](../Page/文化祭.md "wikilink")、[野球](../Page/野球.md "wikilink")チームの応援、うどん屋のPRから彼、彼女への告白、留学する友人を励ますサポート、[トライアスロン](../Page/トライアスロン.md "wikilink")（「第13回[スリーエフ](../Page/スリーエフ.md "wikilink")カップ 日米親善トライアスロン」、チェキッ娘からは[新井利佳](https://ja.wikipedia.org/wiki/新井利佳 "wikilink")が出場）の応援のそれぞれの様子が放送された。
+    『[DAIBAッテキ\!\!](https://ja.wikipedia.org/wiki/DAIBAッテキ!!#主なコーナー "wikilink")』内のコーナーをそのまま継続した形で、全編ロケ企画に変え、視聴者からのリクエストを受ける形でチアチェキ軍団（[田中里奈](../Page/田中里奈.md "wikilink")、[町田恵](../Page/町田恵_\(タレント\).md "wikilink")、[久志麻理奈](../Page/久志麻理奈.md "wikilink")、[佐々木絵美子](../Page/佐々木絵美子.md "wikilink")、[野崎恵](../Page/野崎恵.md "wikilink")、[嶋野蘭](../Page/嶋野蘭.md "wikilink")、[大田祐歌](../Page/大田祐歌.md "wikilink")）が出張して行なった。[7月17日](../Page/7月17日.md "wikilink")から[9月18日](../Page/9月18日.md "wikilink")（総集編）まで8回放送、[男子校](https://ja.wikipedia.org/wiki/男子校 "wikilink")の[文化祭](../Page/文化祭.md "wikilink")、[野球](../Page/野球.md "wikilink")チームの応援、うどん屋のPRから彼、彼女への告白、留学する友人を励ますサポート、[トライアスロン](../Page/トライアスロン.md "wikilink")（「第13回[スリーエフ](../Page/スリーエフ.md "wikilink")カップ 日米親善トライアスロン」、チェキッ娘からは[新井利佳](../Page/新井利佳.md "wikilink")が出場）の応援のそれぞれの様子が放送された。
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   -
-    『[あゝ野麦峠](../Page/あゝ野麦峠.md "wikilink")』のパロディ。[長野県](../Page/長野県.md "wikilink")内の[野麦峠](../Page/野麦峠.md "wikilink")近くで[熊切あさ美](https://ja.wikipedia.org/wiki/くまきりあさ美 "wikilink")、[森知子](https://ja.wikipedia.org/wiki/森知子 "wikilink")、[嶋野蘭](https://ja.wikipedia.org/wiki/嶋野蘭 "wikilink")の3人が合宿し、鶴瓶のために手作りの[絹](../Page/絹.md "wikilink")製パンツを作るという企画。絹糸は[蚕](https://ja.wikipedia.org/wiki/蚕 "wikilink")を育てるという段階から得ていた。1999年[8月14日](../Page/8月14日.md "wikilink")は、1時間全てでこの総集編を放送。なお、この野麦峠近くの合宿所にて、この3人（ユニット名は『プー』）による曲『あしたのあたし』のレコーディングも行なった\[5\]。
+    『[あゝ野麦峠](../Page/あゝ野麦峠.md "wikilink")』のパロディ。[長野県](../Page/長野県.md "wikilink")内の[野麦峠](../Page/野麦峠.md "wikilink")近くで[熊切あさ美](https://ja.wikipedia.org/wiki/くまきりあさ美 "wikilink")、[森知子](../Page/森知子.md "wikilink")、[嶋野蘭](../Page/嶋野蘭.md "wikilink")の3人が合宿し、鶴瓶のために手作りの[絹](../Page/絹.md "wikilink")製パンツを作るという企画。絹糸は[蚕](https://ja.wikipedia.org/wiki/蚕 "wikilink")を育てるという段階から得ていた。1999年[8月14日](../Page/8月14日.md "wikilink")は、1時間全てでこの総集編を放送。なお、この野麦峠近くの合宿所にて、この3人（ユニット名は『プー』）による曲『あしたのあたし』のレコーディングも行なった\[5\]。
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
 <!-- end list -->
 
   -
-    当時[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")の間で流行っていた言葉や事柄を解説していたコーナー。鶴瓶と桜井アナも女子高生のコスプレをして出演。[町田恵と](https://ja.wikipedia.org/wiki/町田恵_\(タレント\) "wikilink")[矢作美樹](../Page/矢作美樹.md "wikilink")が[白衣](../Page/白衣.md "wikilink")姿で進行。
+    当時[女子高生](../Page/女子高生.md "wikilink")の間で流行っていた言葉や事柄を解説していたコーナー。鶴瓶と桜井アナも女子高生のコスプレをして出演。[町田恵と](../Page/町田恵_\(タレント\).md "wikilink")[矢作美樹](../Page/矢作美樹.md "wikilink")が[白衣](../Page/白衣.md "wikilink")姿で進行。
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 <!-- end list -->
 
   -
-    視聴者から寄せられた5・7・5の形式による番組に対する感想、ツッコミなどを[ピアノ](../Page/ピアノ.md "wikilink")演奏の流れる中で紹介するコーナー。進行役は[田中里奈](../Page/田中里奈.md "wikilink")と[甲斐田聡美](https://ja.wikipedia.org/wiki/甲斐田聡美 "wikilink")、パソコンと読み上げ担当は[大田祐歌](https://ja.wikipedia.org/wiki/大田祐歌 "wikilink")。
+    視聴者から寄せられた5・7・5の形式による番組に対する感想、ツッコミなどを[ピアノ](../Page/ピアノ.md "wikilink")演奏の流れる中で紹介するコーナー。進行役は[田中里奈](../Page/田中里奈.md "wikilink")と[甲斐田聡美](../Page/甲斐田聡美.md "wikilink")、パソコンと読み上げ担当は[大田祐歌](../Page/大田祐歌.md "wikilink")。
 
 ### ドリームキャストを使用したコーナー
 
@@ -93,21 +93,21 @@
 
 ### 総合演出
 
-  - [水口昌彦](https://ja.wikipedia.org/wiki/水口昌彦 "wikilink")
+  - [水口昌彦](../Page/水口昌彦.md "wikilink")
 
 ### 出演者
 
   - [矢作美樹](../Page/矢作美樹.md "wikilink")
-  - [新井利佳](https://ja.wikipedia.org/wiki/新井利佳 "wikilink")
-  - [上田愛美](https://ja.wikipedia.org/wiki/上田愛美 "wikilink")
-  - [町田恵](https://ja.wikipedia.org/wiki/町田恵_\(タレント\) "wikilink")
-  - [藤岡麻美](https://ja.wikipedia.org/wiki/藤岡麻美 "wikilink")
-  - [野崎恵](https://ja.wikipedia.org/wiki/野崎恵 "wikilink")
+  - [新井利佳](../Page/新井利佳.md "wikilink")
+  - [上田愛美](../Page/上田愛美.md "wikilink")
+  - [町田恵](../Page/町田恵_\(タレント\).md "wikilink")
+  - [藤岡麻美](../Page/藤岡麻美.md "wikilink")
+  - [野崎恵](../Page/野崎恵.md "wikilink")
   - [忍成修吾](../Page/忍成修吾.md "wikilink")
   - [志ガヤ一馬](https://ja.wikipedia.org/wiki/志ガヤ一馬 "wikilink")
   - [中里栄臣](https://ja.wikipedia.org/wiki/中里栄臣 "wikilink")
   - [笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")
-  - [ドロンズ](https://ja.wikipedia.org/wiki/ドロンズ "wikilink") - 前身番組『[DAIBAッテキ\!\!](../Page/DAIBAッテキ!!.md "wikilink")』に引き続き、当時金曜日の『[DAIBAクシン\!\!GOLD](../Page/DAIBAクシン!!GOLD.md "wikilink")』にて司会を務めていた。
+  - [ドロンズ](../Page/ドロンズ.md "wikilink") - 前身番組『[DAIBAッテキ\!\!](../Page/DAIBAッテキ!!.md "wikilink")』に引き続き、当時金曜日の『[DAIBAクシン\!\!GOLD](../Page/DAIBAクシン!!GOLD.md "wikilink")』にて司会を務めていた。
       - [石本武士](https://ja.wikipedia.org/wiki/石本武士 "wikilink")、[大島直也](../Page/大島直也.md "wikilink")
 
 ほか
@@ -132,11 +132,11 @@
   - [TRF](../Page/TRF.md "wikilink")（7月10日）
   - [観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")（7月24日） - チェキッ娘メンバーの中から3人が出場しての「観月ありさイントロクイズ」が行なわれた。
   - [SILVA](https://ja.wikipedia.org/wiki/SILVA "wikilink")（7月31日）
-  - [藤井尚之](https://ja.wikipedia.org/wiki/藤井尚之 "wikilink")（8月7日） - 現・フジテレビアナウンサー[藤井弘輝](https://ja.wikipedia.org/wiki/藤井弘輝 "wikilink")の叔父。
+  - [藤井尚之](../Page/藤井尚之.md "wikilink")（8月7日） - 現・フジテレビアナウンサー[藤井弘輝](https://ja.wikipedia.org/wiki/藤井弘輝 "wikilink")の叔父。
   - [坂崎幸之助](../Page/坂崎幸之助.md "wikilink")（[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")）（8月21日）
   - [DA PUMP](../Page/DA_PUMP.md "wikilink")（8月28日） - チェキッ娘メンバーが料理でもてなすという企画を行なった。
   - [the end of genesis T.M.R.evolution turbo type D](../Page/T.M.Revolution.md "wikilink")（[西川貴教](../Page/西川貴教.md "wikilink")）（9月4日）
-  - [19](https://ja.wikipedia.org/wiki/19_\(音楽グループ\) "wikilink")（9月11日）
+  - [19](../Page/19_\(音楽グループ\).md "wikilink")（9月11日）
 
 ## KBS京都で放送された回
 

@@ -3,15 +3,15 @@
 
 **AbiWord**（アビーワード）は、フリーで[オープンソース](../Page/オープンソース.md "wikilink")な[ワードプロセッサ](../Page/ワードプロセッサ.md "wikilink")。[GNOME Officeに含まれる](../Page/GNOME_Office.md "wikilink")。ライセンスは[GPL](../Page/GNU_General_Public_License.md "wikilink")\[1\]。"AbiWord"の"Abi"は、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")の"[abierto](https://ja.wikipedia.org/wiki/wikt:en:abierto#Spanish "wikilink")"に由来し、“オープン”を意味する\[2\]。
 
-対応[OSは](../Page/オペレーティングシステム.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink") (PowerPC)、[ReactOS](https://ja.wikipedia.org/wiki/ReactOS "wikilink")、[BeOS](../Page/BeOS.md "wikilink")、[AmigaOS](../Page/AmigaOS.md "wikilink") 4.0 ([Cygnix](https://ja.wikipedia.org/wiki/Cygnix "wikilink") [X11](https://ja.wikipedia.org/wiki/X11 "wikilink")エンジン経由)である。
+対応[OSは](../Page/オペレーティングシステム.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink") (PowerPC)、[ReactOS](../Page/ReactOS.md "wikilink")、[BeOS](../Page/BeOS.md "wikilink")、[AmigaOS](../Page/AmigaOS.md "wikilink") 4.0 ([Cygnix](https://ja.wikipedia.org/wiki/Cygnix "wikilink") [X11](https://ja.wikipedia.org/wiki/X11 "wikilink")エンジン経由)である。
 
 ## 特徴
 
 AbiWordは、文書フォーマット、表、脚注の表示やインデックスの自動作成等の基本的な機能を備える。[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")は[Microsoft Wordに倣っている](../Page/Microsoft_Word.md "wikilink")。ソフトウェアはクロスプラットフォームに対応している。機能の拡張はプラグインによって可能であり、また、他のオフィススイートと簡単にデータを交換することができる。多言語で利用でき、30の言語の辞書が用意されている。[MathML](https://ja.wikipedia.org/wiki/MathML "wikilink")をサポートしており、数式の挿入が可能。また、[Wikipedia](https://ja.wikipedia.org/wiki/Wikipedia "wikilink")のプラグインが含まれており、記事を受信することができる。
 
-インポート・エクスポート可能なファイル形式は、[Rich Text Format](https://ja.wikipedia.org/wiki/Rich_Text_Format "wikilink") (.rtf)、[Microsoft Word](../Page/Microsoft_Word.md "wikilink") ([.doc](https://ja.wikipedia.org/wiki/DOC_\(ファイル_フォーマット\) "wikilink"))、 [OpenDocument Text](../Page/OpenDocument.md "wikilink") (.odt)、[Office Open XML](../Page/Office_Open_XML.md "wikilink") (.docx)、[HTMLと](../Page/HyperText_Markup_Language.md "wikilink")[LaTeX](../Page/LaTeX.md "wikilink")である。このアプリケーション固有のフォーマットは[XML形式である](../Page/Extensible_Markup_Language.md "wikilink")。
+インポート・エクスポート可能なファイル形式は、[Rich Text Format](../Page/Rich_Text_Format.md "wikilink") (.rtf)、[Microsoft Word](../Page/Microsoft_Word.md "wikilink") ([.doc](https://ja.wikipedia.org/wiki/DOC_\(ファイル_フォーマット\) "wikilink"))、 [OpenDocument Text](../Page/OpenDocument.md "wikilink") (.odt)、[Office Open XML](../Page/Office_Open_XML.md "wikilink") (.docx)、[HTMLと](../Page/HyperText_Markup_Language.md "wikilink")[LaTeX](../Page/LaTeX.md "wikilink")である。このアプリケーション固有のフォーマットは[XML形式である](../Page/Extensible_Markup_Language.md "wikilink")。
 
-Windows用に[ポータブルアプリケーション](../Page/ポータブルアプリケーション.md "wikilink")が用意されており、このバージョンでは、アプリケーションをインストールすることなく、[ハードディスクまたは](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[USBメモリから起動できるように設計されている](https://ja.wikipedia.org/wiki/USBフラッシュドライブ "wikilink")。バージョン2.4.2からは[Nokia 770 Internet Tabletをサポートする](https://ja.wikipedia.org/wiki/Nokia_770_Internet_Tablet "wikilink")。
+Windows用に[ポータブルアプリケーション](../Page/ポータブルアプリケーション.md "wikilink")が用意されており、このバージョンでは、アプリケーションをインストールすることなく、[ハードディスクまたは](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[USBメモリから起動できるように設計されている](../Page/USBフラッシュドライブ.md "wikilink")。バージョン2.4.2からは[Nokia 770 Internet Tabletをサポートする](https://ja.wikipedia.org/wiki/Nokia_770_Internet_Tablet "wikilink")。
 
 ## 歴史
 

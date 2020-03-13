@@ -1,7 +1,7 @@
 > この記事は[GNOME ](https://ja.wikipedia.org/wiki/GNOME_)から翻訳されています。
 
 
-**GNOME 端末**（グノームたんまつ、）は、[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")[GNOME](../Page/GNOME.md "wikilink")に付属する[端末エミュレータ](https://ja.wikipedia.org/wiki/端末エミュレータ "wikilink")である。[ハボック・ペニントン](https://ja.wikipedia.org/wiki/ハヴォック・ペニントン "wikilink")（Havoc Pennington）らによって作成された。
+**GNOME 端末**（グノームたんまつ、）は、[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")[GNOME](../Page/GNOME.md "wikilink")に付属する[端末エミュレータ](../Page/端末エミュレータ.md "wikilink")である。[ハボック・ペニントン](https://ja.wikipedia.org/wiki/ハヴォック・ペニントン "wikilink")（Havoc Pennington）らによって作成された。
 
 ## 概要
 

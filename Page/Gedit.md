@@ -1,13 +1,13 @@
 > この記事は[Gedit](https://ja.wikipedia.org/wiki/Gedit)から翻訳されています。
 
 
-**gedit**（ジーエディット）は、[GNOME](../Page/GNOME.md "wikilink")デスクトップの標準[テキストエディタ](../Page/テキストエディタ.md "wikilink")。通常のテキストエディタとしての機能に加え、複数のプログラミング言語に対応したハイライト表示、コードスニペットの追加といった、プログラム開発者向けの機能も有している。キー操作はWindows系[ショートカットキー](https://ja.wikipedia.org/wiki/ショートカットキー "wikilink")で[Microsoft Windowsの操作に慣れたユーザーにも使いやすい](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+**gedit**（ジーエディット）は、[GNOME](../Page/GNOME.md "wikilink")デスクトップの標準[テキストエディタ](../Page/テキストエディタ.md "wikilink")。通常のテキストエディタとしての機能に加え、複数のプログラミング言語に対応したハイライト表示、コードスニペットの追加といった、プログラム開発者向けの機能も有している。キー操作はWindows系[ショートカットキー](../Page/ショートカットキー.md "wikilink")で[Microsoft Windowsの操作に慣れたユーザーにも使いやすい](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## 特徴
 
 [Gedit_Win10.png](https://ja.wikipedia.org/wiki/File:Gedit_Win10.png "fig:Gedit_Win10.png")上で動作するgedit\]\]
 
-geditはGtkSourceView\[1\]経由のシンタックスハイライティング機能をもっており、これは[MediaWiki](https://ja.wikipedia.org/wiki/MediaWiki "wikilink")を含む複数の[プログラミング言語](../Page/プログラミング言語.md "wikilink")と[マークアップ言語](../Page/マークアップ言語.md "wikilink")に対応している。geditはまた、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")のタブを持っており、複数のファイルを同時に編集することができる。タブは、複数のウィンドウ間でユーザーによって任意に移動させることができる。また、GVfsを使ったリモートファイルの編集、完全なアンドゥとリドゥ、検索と置換などにも対応している。他のコード指向の機能としては、行番号の表示、ブラケットマッチング、行折り返し、現在の行のハイライト、自動インデント、自動ファイルバックアップなどが含まれる\[2\]。
+geditはGtkSourceView\[1\]経由のシンタックスハイライティング機能をもっており、これは[MediaWiki](../Page/MediaWiki.md "wikilink")を含む複数の[プログラミング言語](../Page/プログラミング言語.md "wikilink")と[マークアップ言語](../Page/マークアップ言語.md "wikilink")に対応している。geditはまた、[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")のタブを持っており、複数のファイルを同時に編集することができる。タブは、複数のウィンドウ間でユーザーによって任意に移動させることができる。また、GVfsを使ったリモートファイルの編集、完全なアンドゥとリドゥ、検索と置換などにも対応している。他のコード指向の機能としては、行番号の表示、ブラケットマッチング、行折り返し、現在の行のハイライト、自動インデント、自動ファイルバックアップなどが含まれる\[2\]。
 
 Valenciaは、geditのプラグインで、これを用いるとgeditを[Vala](https://ja.wikipedia.org/wiki/Vala "wikilink")のための軽量な[IDE](https://ja.wikipedia.org/wiki/IDE "wikilink")として用いることができる\[3\]。
 
@@ -33,7 +33,7 @@ geditは[GNU General Public Licenseでリリースされている](../Page/GNU_G
 ## 関連項目
 
   - [テキストエディタ](../Page/テキストエディタ.md "wikilink")
-  - [Pluma](https://ja.wikipedia.org/wiki/Pluma "wikilink")
+  - [Pluma](../Page/Pluma.md "wikilink")
 
 ## 脚注
 

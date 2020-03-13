@@ -1,7 +1,7 @@
 > この記事は[Anjuta](https://ja.wikipedia.org/wiki/Anjuta)から翻訳されています。
 
 
-**Anjuta**（アニュータ）は、 [C](../Page/C言語.md "wikilink"), [C++](../Page/C++.md "wikilink"), [Java](https://ja.wikipedia.org/wiki/Java "wikilink"), [JavaScript](../Page/JavaScript.md "wikilink"), [Python](../Page/Python.md "wikilink"), Vala 向けの[GNOME](../Page/GNOME.md "wikilink")アプリケーションの[オープンソース](../Page/オープンソース.md "wikilink")の[統合開発環境](../Page/統合開発環境.md "wikilink")(IDE)。[Windowsの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Visual C++に相当するもの](https://ja.wikipedia.org/wiki/Microsoft_Visual_C++ "wikilink")。
+**Anjuta**（アニュータ）は、 [C](../Page/C言語.md "wikilink"), [C++](../Page/C++.md "wikilink"), [Java](https://ja.wikipedia.org/wiki/Java "wikilink"), [JavaScript](../Page/JavaScript.md "wikilink"), [Python](../Page/Python.md "wikilink"), Vala 向けの[GNOME](../Page/GNOME.md "wikilink")アプリケーションの[オープンソース](../Page/オープンソース.md "wikilink")の[統合開発環境](../Page/統合開発環境.md "wikilink")(IDE)。[Windowsの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Visual C++に相当するもの](../Page/Microsoft_Visual_C++.md "wikilink")。
 
 プロジェクト管理、プロジェクトウィザード、オンボードインタラクティブデバッガを備え、ソースナビゲーションやシンタックス強調などの強力な機能がある。
 

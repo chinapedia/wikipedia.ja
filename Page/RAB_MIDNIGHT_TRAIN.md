@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")に平日の27時（翌日の午前3時）台に再放送番組3番組を含む5番組を放送する形でスタート。（これに伴い、[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作で全国の[JRN系列で放送されていた](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[Be@t B@by\!\!のネット放送を取りやめた](https://ja.wikipedia.org/wiki/Be@t_B@by!! "wikilink")。）
+[2001年](../Page/2001年.md "wikilink")に平日の27時（翌日の午前3時）台に再放送番組3番組を含む5番組を放送する形でスタート。（これに伴い、[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作で全国の[JRN系列で放送されていた](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[Be@t B@by\!\!のネット放送を取りやめた](../Page/Be@t_B@by!!.md "wikilink")。）
 これは、青森放送で[2000年](../Page/2000年.md "wikilink")10月に[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[allnightnippon SUPER\!のネット放送を開始したことにより](https://ja.wikipedia.org/wiki/allnightnippon_SUPER! "wikilink")、それまで放送されていたローカル番組がナイターインによりそれまでの時間帯で放送できなくなったために、この時間の放送枠を設けたものである。（同じようにallnightnippon SUPER\!のネットによって放送時間帯などが変わった番組には[ナイトブリッジ・フォー・ユー](../Page/ナイトブリッジ・フォー・ユー.md "wikilink")や、[金曜ワラッター](https://ja.wikipedia.org/wiki/金曜ワラッター "wikilink")などがある。）
 
 しかし、ナイターオフになるとすべての番組が再放送になることがあったため、実質再放送枠のようなものになってしまった。

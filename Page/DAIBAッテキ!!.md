@@ -1,16 +1,16 @@
 > この記事は[DAIBA!!](https://ja.wikipedia.org/wiki/DAIBA!!)から翻訳されています。
 
 
-**DAIBAッテキ\!\!**（だいばってき）は[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")1998年から1999年にかけて放送されていた[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")。放送時間は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の毎週月～金曜の16:25 - 16:55。メイン司会は[ドロンズ](https://ja.wikipedia.org/wiki/ドロンズ "wikilink")。[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")[チェキッ娘](../Page/チェキッ娘.md "wikilink")を生み出したことで知られる。提供は[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")（[セガ・エンタープライゼス（後のセガサミーホールディングス）](https://ja.wikipedia.org/wiki/セガサミーホールディングス "wikilink")）。
+**DAIBAッテキ\!\!**（だいばってき）は[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")1998年から1999年にかけて放送されていた[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")。放送時間は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の毎週月～金曜の16:25 - 16:55。メイン司会は[ドロンズ](../Page/ドロンズ.md "wikilink")。[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")[チェキッ娘](../Page/チェキッ娘.md "wikilink")を生み出したことで知られる。提供は[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")（[セガ・エンタープライゼス（後のセガサミーホールディングス）](../Page/セガサミーホールディングス.md "wikilink")）。
 
 タイトルは、フジテレビ本社の移転先である「[台場](../Page/台場.md "wikilink")」（[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[台場](https://ja.wikipedia.org/wiki/台場_\(東京都港区\) "wikilink")（[お台場](../Page/お台場.md "wikilink")））と「大抜擢」を引っ掛けて考案された。
 
 ## 出演者
 
-  - [ドロンズ](https://ja.wikipedia.org/wiki/ドロンズ "wikilink")（司会）
+  - [ドロンズ](../Page/ドロンズ.md "wikilink")（司会）
   - [チェキッ娘](../Page/チェキッ娘.md "wikilink")
   - [ブラザートム](https://ja.wikipedia.org/wiki/ブラザートム "wikilink")（月曜）
-  - [大森玲子](https://ja.wikipedia.org/wiki/大森玲子 "wikilink")（月曜）
+  - [大森玲子](../Page/大森玲子.md "wikilink")（月曜）
   - [藤井隆](../Page/藤井隆.md "wikilink")（火曜）
   - [山本シュウ](../Page/山本シュウ.md "wikilink")（水曜）
   - [YURIMARI](../Page/YURIMARI.md "wikilink")（木曜）
@@ -27,10 +27,10 @@
 （以下出典：\[1\]\[2\]）
 
   - チアチェキSHOW\!
-    チェキッ娘から、[田中里奈](../Page/田中里奈.md "wikilink")（リーダー）、[上田愛美](https://ja.wikipedia.org/wiki/上田愛美 "wikilink")、[佐々木絵美子](https://ja.wikipedia.org/wiki/佐々木絵美子 "wikilink")、[野崎恵](https://ja.wikipedia.org/wiki/野崎恵 "wikilink")、[小林裕美](https://ja.wikipedia.org/wiki/上條りかこ "wikilink")、[大田祐歌](https://ja.wikipedia.org/wiki/大田祐歌 "wikilink")がチアチェキ軍団として、[チアガール](https://ja.wikipedia.org/wiki/チアガール "wikilink")の衣装で出演。視聴者からのはがきの内容に「松」「竹」「梅」の評価をつける。このコーナーは、『[DAIBAクシン\!\!cheki b.](https://ja.wikipedia.org/wiki/DAIBAクシン!!cheki_b.#主なコーナー "wikilink")』にも「出張\!チアチェキSHOW\!\!」として引き続き行なわれている。
+    チェキッ娘から、[田中里奈](../Page/田中里奈.md "wikilink")（リーダー）、[上田愛美](../Page/上田愛美.md "wikilink")、[佐々木絵美子](../Page/佐々木絵美子.md "wikilink")、[野崎恵](../Page/野崎恵.md "wikilink")、[小林裕美](../Page/上條りかこ.md "wikilink")、[大田祐歌](../Page/大田祐歌.md "wikilink")がチアチェキ軍団として、[チアガール](https://ja.wikipedia.org/wiki/チアガール "wikilink")の衣装で出演。視聴者からのはがきの内容に「松」「竹」「梅」の評価をつける。このコーナーは、『[DAIBAクシン\!\!cheki b.](https://ja.wikipedia.org/wiki/DAIBAクシン!!cheki_b.#主なコーナー "wikilink")』にも「出張\!チアチェキSHOW\!\!」として引き続き行なわれている。
 
   - 藤井ビクス
-    [藤井隆](../Page/藤井隆.md "wikilink")がツッコミを入れながら、チェキッ娘とオリジナルの[エアロビクス](https://ja.wikipedia.org/wiki/エアロビクス "wikilink")を踊るコーナー。チェキッ娘からの主な出演は、[町田恵](https://ja.wikipedia.org/wiki/町田恵_\(タレント\) "wikilink")、[久志麻里奈](https://ja.wikipedia.org/wiki/久志麻里奈 "wikilink")、[松本江里子](https://ja.wikipedia.org/wiki/松本江里子 "wikilink")、[甲斐田聡美](https://ja.wikipedia.org/wiki/甲斐田聡美 "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")放送で、このコーナーのユニットの名前が「**WAX**」と決まった。
+    [藤井隆](../Page/藤井隆.md "wikilink")がツッコミを入れながら、チェキッ娘とオリジナルの[エアロビクス](https://ja.wikipedia.org/wiki/エアロビクス "wikilink")を踊るコーナー。チェキッ娘からの主な出演は、[町田恵](../Page/町田恵_\(タレント\).md "wikilink")、[久志麻里奈](https://ja.wikipedia.org/wiki/久志麻里奈 "wikilink")、[松本江里子](../Page/松本江里子.md "wikilink")、[甲斐田聡美](../Page/甲斐田聡美.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")放送で、このコーナーのユニットの名前が「**WAX**」と決まった。
 
   - DAI激論
 
@@ -38,7 +38,7 @@
     面白そうなグッズなどを紹介し、それに名前をつけていこうというコーナー。町田恵、[矢作美樹](../Page/矢作美樹.md "wikilink")のリトルマーメイドが進行役。田中里奈、久志麻里奈、野崎恵が名前をつける「チェキチェキ堂」として出演。
 
   - チェキチェキ合唱団
-    チェキッ娘の合唱団仕立てのコント、指揮者役はドロンズ・[石本武士](https://ja.wikipedia.org/wiki/ドロンズ石本 "wikilink")。松本江里子が無表情でソロパートを演じていたのが笑いどころだった。
+    チェキッ娘の合唱団仕立てのコント、指揮者役はドロンズ・[石本武士](../Page/ドロンズ石本.md "wikilink")。松本江里子が無表情でソロパートを演じていたのが笑いどころだった。
 
   - チェキッ娘学園
     学校の教室を舞台としたコント。
@@ -46,10 +46,10 @@
   - 宿題チェキッ
 
   - お掃除隊中継
-    チェキッ娘から2人のメンバーが、他のメンバーの部屋に入ってそこから掃除をしながら生中継をするというコーナー。[1999年](../Page/1999年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")は[熊切あさ美](https://ja.wikipedia.org/wiki/くまきりあさ美 "wikilink")、[3月12日](../Page/3月12日.md "wikilink")はドロンズ・[大島直也](../Page/大島直也.md "wikilink")、[3月17日](../Page/3月17日.md "wikilink")は[五十嵐恵](https://ja.wikipedia.org/wiki/五十嵐恵 "wikilink")のそれぞれの自宅の部屋から中継を行なった。
+    チェキッ娘から2人のメンバーが、他のメンバーの部屋に入ってそこから掃除をしながら生中継をするというコーナー。[1999年](../Page/1999年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")は[熊切あさ美](https://ja.wikipedia.org/wiki/くまきりあさ美 "wikilink")、[3月12日](../Page/3月12日.md "wikilink")はドロンズ・[大島直也](../Page/大島直也.md "wikilink")、[3月17日](../Page/3月17日.md "wikilink")は[五十嵐恵](../Page/五十嵐恵.md "wikilink")のそれぞれの自宅の部屋から中継を行なった。
 
   - 10秒キッカリシュー
-    必ずジャスト10秒で止めるというゲーム。ゲームは顔を水につけての息止め、[ヘッドバンギング](https://ja.wikipedia.org/wiki/ヘッドバンギング "wikilink")、太鼓叩き、など。チェキッ娘のメンバーが石本チームと藤井チームに分かれてのチーム対抗戦で、最後のゲームは石本と藤井のキャプテン対決となっていた。
+    必ずジャスト10秒で止めるというゲーム。ゲームは顔を水につけての息止め、[ヘッドバンギング](../Page/ヘッドバンギング.md "wikilink")、太鼓叩き、など。チェキッ娘のメンバーが石本チームと藤井チームに分かれてのチーム対抗戦で、最後のゲームは石本と藤井のキャプテン対決となっていた。
 
   - 畳でドロンズ
     チェキッ娘メンバーがその場で、[畳](../Page/畳.md "wikilink")の上で書いた[書道](https://ja.wikipedia.org/wiki/書道 "wikilink")作品の披露など。毎回1人に「金チェキ」が贈られた（同時に「ダメチェキ」が選ばれたこともあった）。
@@ -58,7 +58,7 @@
     チェキッ娘がおばさんキャラに扮してスタジオ出演の相談者の悩みに答えていたコーナー。最後に暴れ合うことが多かった。
 
   - 教えて\!BASSMAN
-    [吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")が出演。[CHEE'S](https://ja.wikipedia.org/wiki/CHEE'S "wikilink")結成のきっかけともなったコーナー。
+    [吉田建](../Page/吉田建.md "wikilink")が出演。[CHEE'S](../Page/CHEE'S.md "wikilink")結成のきっかけともなったコーナー。
 
   - ブランド7 お宝ハウス
     ROAD TO THE LONDON
@@ -68,7 +68,7 @@
 
 :\*1999年[2月16日](../Page/2月16日.md "wikilink") - [尾瀬](../Page/尾瀬.md "wikilink")戸倉スキー場
 
-:\*1999年[2月19日](../Page/2月19日.md "wikilink") - [瀬田温泉](https://ja.wikipedia.org/wiki/瀬田_\(世田谷区・川崎市\) "wikilink")
+:\*1999年[2月19日](../Page/2月19日.md "wikilink") - [瀬田温泉](../Page/瀬田_\(世田谷区・川崎市\).md "wikilink")
 
 :\*1999年[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") - [ワイルドブルーヨコハマ](../Page/ワイルドブルーヨコハマ.md "wikilink")
 
@@ -86,7 +86,7 @@
 #### 東京ジョイポリス
 
   - ジョークボックス
-    テーマパーク「[東京ジョイポリス](https://ja.wikipedia.org/wiki/東京ジョイポリス "wikilink")」から中継（木曜日）。[桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")アナ（当時）が中継担当しジョイポリスに集まった人に[ダジャレ](https://ja.wikipedia.org/wiki/ダジャレ "wikilink")を披露してもらうコーナー。[早川伸吾](../Page/早川伸吾.md "wikilink")や[末高斗夢らが出演していた](https://ja.wikipedia.org/wiki/三遊亭とむ "wikilink")。ちなみに桜井は、その後『[DAIBAクシン\!\!cheki b.](https://ja.wikipedia.org/wiki/DAIBAクシン!!cheki_b. "wikilink")』にて[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")とともに司会を務めることになる。
+    テーマパーク「[東京ジョイポリス](https://ja.wikipedia.org/wiki/東京ジョイポリス "wikilink")」から中継（木曜日）。[桜井堅一朗](https://ja.wikipedia.org/wiki/桜井堅一朗 "wikilink")アナ（当時）が中継担当しジョイポリスに集まった人に[ダジャレ](https://ja.wikipedia.org/wiki/ダジャレ "wikilink")を披露してもらうコーナー。[早川伸吾](../Page/早川伸吾.md "wikilink")や[末高斗夢らが出演していた](../Page/三遊亭とむ.md "wikilink")。ちなみに桜井は、その後『[DAIBAクシン\!\!cheki b.](../Page/DAIBAクシン!!cheki_b..md "wikilink")』にて[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")とともに司会を務めることになる。
 
 ## 放送内容
 
@@ -129,7 +129,7 @@
 <tr class="odd">
 <td><p>1998年10月9日（金）</p></td>
 <td><p>初代チェキッ娘6人決定<br />
-ゲスト審査員:<a href="https://ja.wikipedia.org/wiki/江守徹" title="wikilink">江守徹</a>、<a href="../Page/宮澤正明.md" title="wikilink">宮澤正明</a>（写真家）、<a href="https://ja.wikipedia.org/wiki/湯川英一" title="wikilink">湯川英一</a>（<a href="https://ja.wikipedia.org/wiki/セガ" title="wikilink">SEGA専務</a>）</p></td>
+ゲスト審査員:<a href="../Page/江守徹.md" title="wikilink">江守徹</a>、<a href="../Page/宮澤正明.md" title="wikilink">宮澤正明</a>（写真家）、<a href="../Page/湯川英一.md" title="wikilink">湯川英一</a>（<a href="https://ja.wikipedia.org/wiki/セガ" title="wikilink">SEGA専務</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>1998年10月12日（月）</p></td>
@@ -171,7 +171,7 @@
 <tr class="odd">
 <td><p>1998年10月23日（金）</p></td>
 <td><p>チェキッ娘オーディション<br />
-ゲスト審査員：<a href="https://ja.wikipedia.org/wiki/パイレーツ_(タレント)" title="wikilink">パイレーツ</a>、<a href="https://ja.wikipedia.org/wiki/マキシ・プリースト" title="wikilink">マキシ・プリースト</a>、宮澤正明</p></td>
+ゲスト審査員：<a href="../Page/パイレーツ_(タレント).md" title="wikilink">パイレーツ</a>、<a href="https://ja.wikipedia.org/wiki/マキシ・プリースト" title="wikilink">マキシ・プリースト</a>、宮澤正明</p></td>
 </tr>
 <tr class="even">
 <td><p>1998年10月26日（月）</p></td>
@@ -234,7 +234,7 @@
 <tr class="even">
 <td><p>1998年11月13日（金）</p></td>
 <td><p>チェキッ娘オーディション<br />
-ゲスト審査員：<a href="https://ja.wikipedia.org/wiki/千秋_(タレント)" title="wikilink">千秋</a>、<a href="https://ja.wikipedia.org/wiki/SAM_(ダンサー)" title="wikilink">SAM</a>（<a href="../Page/TRF.md" title="wikilink">TRF</a>）、<a href="https://ja.wikipedia.org/wiki/峰岸徹" title="wikilink">峰岸徹</a></p></td>
+ゲスト審査員：<a href="../Page/千秋_(タレント).md" title="wikilink">千秋</a>、<a href="../Page/SAM_(ダンサー).md" title="wikilink">SAM</a>（<a href="../Page/TRF.md" title="wikilink">TRF</a>）、<a href="../Page/峰岸徹.md" title="wikilink">峰岸徹</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1998年11月16日（月）</p></td>
@@ -255,7 +255,7 @@
 <tr class="even">
 <td><p>1998年11月19日（木）</p></td>
 <td><p>チェキッ娘オーディション<br />
-ゲスト審査員：<a href="../Page/神田うの.md" title="wikilink">神田うの</a>、<a href="../Page/黒沢年雄.md" title="wikilink">黒沢年男</a>、<a href="https://ja.wikipedia.org/wiki/TAKUYA" title="wikilink">TAKUYA</a>（<a href="../Page/JUDY_AND_MARY.md" title="wikilink">JUDY AND MARY</a>）</p></td>
+ゲスト審査員：<a href="../Page/神田うの.md" title="wikilink">神田うの</a>、<a href="../Page/黒沢年雄.md" title="wikilink">黒沢年男</a>、<a href="../Page/TAKUYA.md" title="wikilink">TAKUYA</a>（<a href="../Page/JUDY_AND_MARY.md" title="wikilink">JUDY AND MARY</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>1998年11月27日（金）</p></td>
@@ -282,7 +282,7 @@
 <tr class="even">
 <td><p>1998年12月2日（水）</p></td>
 <td><ul>
-<li>眠れるケイタイ（ドロンズ大島が<a href="https://ja.wikipedia.org/wiki/U-turn" title="wikilink">U-turn</a>対馬へ、ドロンズ石本が<a href="https://ja.wikipedia.org/wiki/宮前真樹" title="wikilink">宮前真樹</a>へ生電話）</li>
+<li>眠れるケイタイ（ドロンズ大島が<a href="../Page/U-turn.md" title="wikilink">U-turn</a>対馬へ、ドロンズ石本が<a href="../Page/宮前真樹.md" title="wikilink">宮前真樹</a>へ生電話）</li>
 <li>新チェキッな世界（テーマは「<a href="../Page/IZAM.md" title="wikilink">IZAM</a>の似顔絵」）</li>
 </ul></td>
 </tr>
@@ -314,7 +314,7 @@
 <tr class="odd">
 <td><p>1998年12月9日（水）</p></td>
 <td><ul>
-<li>眠れるケイタイ（大島が<a href="https://ja.wikipedia.org/wiki/原千晶" title="wikilink">原千晶</a>へ、石本が<a href="https://ja.wikipedia.org/wiki/アジャ・コング" title="wikilink">アジャ・コング</a>へ生電話）</li>
+<li>眠れるケイタイ（大島が<a href="https://ja.wikipedia.org/wiki/原千晶" title="wikilink">原千晶</a>へ、石本が<a href="../Page/アジャ・コング.md" title="wikilink">アジャ・コング</a>へ生電話）</li>
 <li>新チェキッな世界（テーマは「<a href="../Page/聖徳太子.md" title="wikilink">聖徳太子</a>の似顔絵」）</li>
 <li>チェキッ娘親衛隊第1号</li>
 </ul></td>
@@ -349,7 +349,7 @@
 <td><p>1998年12月16日（水）</p></td>
 <td><ul>
 <li>チェキッ娘親衛隊第1号</li>
-<li>眠れるケイタイ（大島が<a href="https://ja.wikipedia.org/wiki/遠山景織子" title="wikilink">遠山景織子</a>へ、石本が<a href="https://ja.wikipedia.org/wiki/野々村真" title="wikilink">野々村真</a>へ生電話）</li>
+<li>眠れるケイタイ（大島が<a href="https://ja.wikipedia.org/wiki/遠山景織子" title="wikilink">遠山景織子</a>へ、石本が<a href="../Page/野々村真.md" title="wikilink">野々村真</a>へ生電話）</li>
 <li>新チェキッな世界（テーマは「<a href="../Page/オスマン・サンコン.md" title="wikilink">オスマン・サンコン</a>の似顔絵」、サンコン本人が生出演）</li>
 <li>鉄の寿司（チェキッ娘メンバーが寿司にぎりに挑戦）</li>
 </ul></td>
@@ -403,7 +403,7 @@
 <td><ul>
 <li>眠れるケイタイ</li>
 <li>新チェキッな世界</li>
-<li>ゲスト：<a href="../Page/財前直見.md" title="wikilink">財前直見</a>、<a href="https://ja.wikipedia.org/wiki/上川隆也" title="wikilink">上川隆也</a>、<a href="https://ja.wikipedia.org/wiki/一色紗英" title="wikilink">一色紗英</a>、<a href="https://ja.wikipedia.org/wiki/原沙知絵" title="wikilink">原沙知絵</a>（『<a href="../Page/お水の花道.md" title="wikilink">お水の花道</a>』のPR）</li>
+<li>ゲスト：<a href="../Page/財前直見.md" title="wikilink">財前直見</a>、<a href="../Page/上川隆也.md" title="wikilink">上川隆也</a>、<a href="https://ja.wikipedia.org/wiki/一色紗英" title="wikilink">一色紗英</a>、<a href="https://ja.wikipedia.org/wiki/原沙知絵" title="wikilink">原沙知絵</a>（『<a href="../Page/お水の花道.md" title="wikilink">お水の花道</a>』のPR）</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -512,7 +512,7 @@
 <tr class="even">
 <td><p>1999年1月29日（金）</p></td>
 <td><p>チェキッ娘オーディション<br />
-ゲスト審査員：<a href="https://ja.wikipedia.org/wiki/鈴木蘭々" title="wikilink">鈴木蘭々</a>、<a href="https://ja.wikipedia.org/wiki/持田香織" title="wikilink">持田香織</a>（<a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a>）、小池聰行</p></td>
+ゲスト審査員：<a href="../Page/鈴木蘭々.md" title="wikilink">鈴木蘭々</a>、<a href="https://ja.wikipedia.org/wiki/持田香織" title="wikilink">持田香織</a>（<a href="../Page/Every_Little_Thing.md" title="wikilink">Every Little Thing</a>）、小池聰行</p></td>
 </tr>
 <tr class="odd">
 <td><p>1999年2月1日（月）</p></td>
@@ -580,7 +580,7 @@
 <td><p>1999年2月16日（火）</p></td>
 <td><ul>
 <li>尾瀬戸倉スキー場から中継（森、加藤、大瀧）</li>
-<li>藤井ビクス（東京<a href="https://ja.wikipedia.org/wiki/ジョイポリス" title="wikilink">ジョイポリス</a>から生中継）</li>
+<li>藤井ビクス（東京<a href="../Page/ジョイポリス.md" title="wikilink">ジョイポリス</a>から生中継）</li>
 <li>チェキッ娘DAI激論「男にもてるのは、ポッチャリ?ガリガリ?」</li>
 <li>うわさのチェキメロ（矢作、新井）</li>
 </ul></td>

@@ -15,12 +15,12 @@ GNOME 3.6より、「Nautilus」の名前が「ファイル」に改名された
 
 代表的な機能を挙げる。
 
-  - [GVfs](https://ja.wikipedia.org/wiki/GVfs "wikilink")による、[FTP](../Page/File_Transfer_Protocol.md "wikilink")、Windows [Server Message Block共有](../Page/Server_Message_Block.md "wikilink")、[OBEX](../Page/OBEX.md "wikilink")、[Files transferred over shell protocol](../Page/Files_transferred_over_shell_protocol.md "wikilink")、[HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[WebDAV](../Page/WebDAV.md "wikilink")、[SFTPの利用](https://ja.wikipedia.org/wiki/SSH_File_Transfer_Protocol "wikilink")。
-  - [アイコン](../Page/アイコン.md "wikilink")、[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")、[画像](../Page/画像.md "wikilink")等の[サムネイル](../Page/サムネイル.md "wikilink")表示
+  - [GVfs](https://ja.wikipedia.org/wiki/GVfs "wikilink")による、[FTP](../Page/File_Transfer_Protocol.md "wikilink")、Windows [Server Message Block共有](../Page/Server_Message_Block.md "wikilink")、[OBEX](../Page/OBEX.md "wikilink")、[Files transferred over shell protocol](../Page/Files_transferred_over_shell_protocol.md "wikilink")、[HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink")、[WebDAV](../Page/WebDAV.md "wikilink")、[SFTPの利用](../Page/SSH_File_Transfer_Protocol.md "wikilink")。
+  - [アイコン](../Page/アイコン.md "wikilink")、[テキストファイル](../Page/テキストファイル.md "wikilink")、[画像](../Page/画像.md "wikilink")等の[サムネイル](../Page/サムネイル.md "wikilink")表示
   - [サイドバー](https://ja.wikipedia.org/wiki/サイドバー "wikilink")
-  - [エンブレム](https://ja.wikipedia.org/wiki/エンブレム "wikilink")の設定
+  - [エンブレム](../Page/エンブレム.md "wikilink")の設定
   - [背景](../Page/背景.md "wikilink")の設定
-  - [ブックマーク](https://ja.wikipedia.org/wiki/ブックマーク "wikilink")機能
+  - [ブックマーク](../Page/ブックマーク.md "wikilink")機能
   - [タブ](../Page/タブ.md "wikilink")表示機能
   - 拡張ペイン (同時に二つのディレクトリを表示する機能)
   - [GStreamer](../Page/GStreamer.md "wikilink")による音声ファイルの再生。

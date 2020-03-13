@@ -1,7 +1,7 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-『**スーパーJチャンネル九州・沖縄**』（スーパージェイチャンネルきゅうしゅう おきなわ）は、[2000年](../Page/2000年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")までの間、[九州](../Page/九州.md "wikilink")・[沖縄地方の](../Page/沖縄県.md "wikilink")[ANN各局の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[ブロックネット](https://ja.wikipedia.org/wiki/ブロックネット "wikilink")で放送された[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink") (KBC) 制作の[報道番組](../Page/報道番組.md "wikilink")である。
+『**スーパーJチャンネル九州・沖縄**』（スーパージェイチャンネルきゅうしゅう おきなわ）は、[2000年](../Page/2000年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")までの間、[九州](../Page/九州.md "wikilink")・[沖縄地方の](../Page/沖縄県.md "wikilink")[ANN各局の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[ブロックネット](../Page/ブロックネット.md "wikilink")で放送された[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink") (KBC) 制作の[報道番組](../Page/報道番組.md "wikilink")である。
 
 ## 概要
 
@@ -39,7 +39,7 @@
 <tr class="even">
 <td><p>2003.1.6</p></td>
 <td><p>2006.3.31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田崎日加理" title="wikilink">田崎日加理</a></p></td>
+<td><p><a href="../Page/田崎日加理.md" title="wikilink">田崎日加理</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006.4.3</p></td>
@@ -119,7 +119,7 @@
   - [大久保千夏](../Page/大久保千夏.md "wikilink")
   - [天本圭子](https://ja.wikipedia.org/wiki/天本圭子 "wikilink") - 2008年2月退社。
   - [楠元正孝](../Page/楠元正孝.md "wikilink")
-  - [中嶋美和子](https://ja.wikipedia.org/wiki/中嶋美和子 "wikilink") - 2007年3月退社。
+  - [中嶋美和子](../Page/中嶋美和子.md "wikilink") - 2007年3月退社。
   - [村島里佳](https://ja.wikipedia.org/wiki/村島里佳 "wikilink")
   - [二ノ宮真美](https://ja.wikipedia.org/wiki/二ノ宮真美 "wikilink")
 
@@ -186,7 +186,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a>[4]</p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a>[4]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a>（KBC）<br />
 <strong>（制作局）</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>

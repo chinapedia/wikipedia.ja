@@ -1,7 +1,7 @@
 > この記事は[DRIV3R](https://ja.wikipedia.org/wiki/DRIV3R)から翻訳されています。
 
 
-**DRIV3R**（読み方はDriver3）は、[アタリから発売されている](https://ja.wikipedia.org/wiki/アタリジャパン "wikilink")[カーアクション](../Page/カーアクション.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+**DRIV3R**（読み方はDriver3）は、[アタリから発売されている](../Page/アタリジャパン.md "wikilink")[カーアクション](../Page/カーアクション.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
 
 「[Driver 潜入\!カーチェイス大作戦](https://ja.wikipedia.org/wiki/Driver_潜入!カーチェイス大作戦 "wikilink")」、「[Driver 2](https://ja.wikipedia.org/wiki/w:en:Driver_2 "wikilink")」に続くシリーズ第3作目で、日本では[PlayStation 2用ソフトが](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2004年10月28日、PC日本語版が[ライブドア](../Page/ライブドア.md "wikilink")から2005年9月2日に発売された。
 
@@ -58,15 +58,15 @@
 
 このゲームでは過去3分間までのプレイ記録を残す機能があり、この[リプレイのカメラアングル等を編集して自分好みの映像に仕上げることができる](https://ja.wikipedia.org/wiki/リプレイ_\(ゲーム\) "wikilink")。このゲーム最大の特徴とも言われる。スローモーションやモーションブラーなどの特殊効果を入れることも可能となっている。
 
-過去には[アタリジャパン](https://ja.wikipedia.org/wiki/アタリジャパン "wikilink")DRIV3R公式サイトで自作リプレイを募集し、コンテストを行ったこともある。
+過去には[アタリジャパン](../Page/アタリジャパン.md "wikilink")DRIV3R公式サイトで自作リプレイを募集し、コンテストを行ったこともある。
 
 ## 登場する武器
 
-  - [H\&K USP](https://ja.wikipedia.org/wiki/H&K_USP "wikilink")
+  - [H\&K USP](../Page/H&K_USP.md "wikilink")
   - [ベレッタM92](https://ja.wikipedia.org/wiki/ベレッタM92 "wikilink")
   - [ベレッタM92](https://ja.wikipedia.org/wiki/ベレッタM92 "wikilink")（[減音器付き](../Page/サプレッサー.md "wikilink")）
-  - [H\&K MP5](https://ja.wikipedia.org/wiki/H&K_MP5 "wikilink")
-  - [フランキ・スパス12](https://ja.wikipedia.org/wiki/フランキ・スパス12 "wikilink")
+  - [H\&K MP5](../Page/H&K_MP5.md "wikilink")
+  - [フランキ・スパス12](../Page/フランキ・スパス12.md "wikilink")
   - [UZI](https://ja.wikipedia.org/wiki/ウージー "wikilink")
   - [Mac M11](https://ja.wikipedia.org/wiki/イングラムM10 "wikilink")
   - [M16](../Page/M16自動小銃.md "wikilink")

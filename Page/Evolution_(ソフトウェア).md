@@ -1,7 +1,7 @@
 > この記事は[Evolution \(\)](https://ja.wikipedia.org/wiki/Evolution_\(\))から翻訳されています。
 
 
-**Evolution**（**エボリューション**。以前は**Novell Evolution**）は、[GNOME](../Page/GNOME.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")標準の[個人情報管理ツールかつワークグループ管理ツールで](../Page/Personal_Information_Manager.md "wikilink")、[メールクライアント](../Page/電子メールクライアント.md "wikilink")、[カレンダー](https://ja.wikipedia.org/wiki/カレンダー "wikilink")、アドレス管理、タスク管理機能などを備えている。GNOME 2.8から正式にGNOMEの一部となった。[ノベルが](../Page/ノベル_\(企業\).md "wikilink")[スポンサー](../Page/スポンサー.md "wikilink")となって開発が進められていた。ノベルが[Ximian](https://ja.wikipedia.org/wiki/Ximian "wikilink")を買収する[2003年](../Page/2003年.md "wikilink")以前は、**Ximian Evolution**と名乗っていた。
+**Evolution**（**エボリューション**。以前は**Novell Evolution**）は、[GNOME](../Page/GNOME.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")標準の[個人情報管理ツールかつワークグループ管理ツールで](../Page/Personal_Information_Manager.md "wikilink")、[メールクライアント](../Page/電子メールクライアント.md "wikilink")、[カレンダー](../Page/カレンダー.md "wikilink")、アドレス管理、タスク管理機能などを備えている。GNOME 2.8から正式にGNOMEの一部となった。[ノベルが](../Page/ノベル_\(企業\).md "wikilink")[スポンサー](../Page/スポンサー.md "wikilink")となって開発が進められていた。ノベルが[Ximian](https://ja.wikipedia.org/wiki/Ximian "wikilink")を買収する[2003年](../Page/2003年.md "wikilink")以前は、**Ximian Evolution**と名乗っていた。
 
 [ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")及び機能は、[Microsoft Outlookに似ている](../Page/Microsoft_Outlook.md "wikilink")。異なる機能には、全てのメールでのフルテキストでのインデックス化や、"仮想フォルダ"機能などがある。
 
@@ -17,7 +17,7 @@
 
   - [POPや](../Page/Post_Office_Protocol.md "wikilink")[IMAPでの電子メールの受信と](../Page/Internet_Message_Access_Protocol.md "wikilink")、[SMTPでのメール送信](../Page/Simple_Mail_Transfer_Protocol.md "wikilink")。
   - [SSL](../Page/Transport_Layer_Security.md "wikilink")、[TLS](../Page/Transport_Layer_Security.md "wikilink")、[STARTTLS](https://ja.wikipedia.org/wiki/STARTTLS "wikilink")で暗号化された安全なネットワーク接続。
-  - [GPGや](https://ja.wikipedia.org/wiki/GNU_Privacy_Guard "wikilink")[S/MIME](https://ja.wikipedia.org/wiki/S/MIME "wikilink")による電子メールの暗号化。
+  - [GPGや](../Page/GNU_Privacy_Guard.md "wikilink")[S/MIME](https://ja.wikipedia.org/wiki/S/MIME "wikilink")による電子メールの暗号化。
   - [電子メールフィルタリング](https://ja.wikipedia.org/wiki/電子メールフィルタリング "wikilink")。
   - フォルダー検索。
   - [SpamAssassin](https://ja.wikipedia.org/wiki/SpamAssassin "wikilink")やBogofilterによる[迷惑メール](https://ja.wikipedia.org/wiki/迷惑メール "wikilink")対策。

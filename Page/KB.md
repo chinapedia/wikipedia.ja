@@ -27,7 +27,7 @@
 ### 固有名詞
 
   - 企業
-      - [ケイビーバス](https://ja.wikipedia.org/wiki/ケイビーバス "wikilink")の略称。
+      - [ケイビーバス](../Page/ケイビーバス.md "wikilink")の略称。
       - [京阪バス](../Page/京阪バス.md "wikilink")の略称。
       - 韓国の銀行、[国民銀行の通称](../Page/国民銀行_\(韓国\).md "wikilink")。
       - [神戸電鉄](../Page/神戸電鉄.md "wikilink")の略称。

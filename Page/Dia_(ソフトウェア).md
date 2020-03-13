@@ -1,7 +1,7 @@
 > この記事は[Dia \(\)](https://ja.wikipedia.org/wiki/Dia_\(\))から翻訳されています。
 
 
-**Dia**（ディア、\[1\]）は、 [GNOME](../Page/GNOME.md "wikilink")デスクトップの[ダイアグラム](../Page/ダイアグラム.md "wikilink")[エディタ](https://ja.wikipedia.org/wiki/エディタ "wikilink")。 [Windowsの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Visioに相当するオフィスアプリケーションである](https://ja.wikipedia.org/wiki/Microsoft_Visio "wikilink")。[フローチャート](../Page/フローチャート.md "wikilink")や[UML図を作成することができる](../Page/統一モデリング言語.md "wikilink")。[GPLのもとに](../Page/GNU_General_Public_License.md "wikilink")[フリーで公開されている](../Page/フリーソフトウェア.md "wikilink")。
+**Dia**（ディア、\[1\]）は、 [GNOME](../Page/GNOME.md "wikilink")デスクトップの[ダイアグラム](../Page/ダイアグラム.md "wikilink")[エディタ](https://ja.wikipedia.org/wiki/エディタ "wikilink")。 [Windowsの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Visioに相当するオフィスアプリケーションである](../Page/Microsoft_Visio.md "wikilink")。[フローチャート](../Page/フローチャート.md "wikilink")や[UML図を作成することができる](../Page/統一モデリング言語.md "wikilink")。[GPLのもとに](../Page/GNU_General_Public_License.md "wikilink")[フリーで公開されている](../Page/フリーソフトウェア.md "wikilink")。
 
 ## 出典
 

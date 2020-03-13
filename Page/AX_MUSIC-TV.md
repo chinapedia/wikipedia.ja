@@ -1,7 +1,7 @@
 > この記事は[AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV)から翻訳されています。
 
 
-『**AX MUSIC-TV**』（アックス・ミュージックティーヴィー）は、[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")局で放送された深夜の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**AX MUSIC-TV**』（アックス・ミュージックティーヴィー）は、[2004年](../Page/2004年.md "wikilink")[9月](../Page/9月.md "wikilink")まで[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")局で放送された深夜の[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 概要
 
@@ -35,22 +35,22 @@
   - [藤井隆](../Page/藤井隆.md "wikilink")（AX MUSIC-TV 02 FUJII ROCK）
   - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")（AX MUSIC-TV 01 はなわまおー）
   - [宮地真緒](../Page/宮地真緒.md "wikilink")（AX MUSIC-TV 01 はなわまおー）
-  - [舟津宜史](https://ja.wikipedia.org/wiki/舟津宜史 "wikilink")（ナレーション）
+  - [舟津宜史](../Page/舟津宜史.md "wikilink")（ナレーション）
 
 ## SHIBUYA-AX FILE（→その後「SHIBUYA-AX FILES」へ改称）
 
-番組では、日本テレビが運営するライブスペース・[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")で行われるライブ情報を伝えるコーナー「**SHIBUYA-AX FILE**」が放送されていた。
+番組では、日本テレビが運営するライブスペース・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で行われるライブ情報を伝えるコーナー「**SHIBUYA-AX FILE**」が放送されていた。
 
 内容は、SHIBUYA-AXの紹介ビデオを流しながら画面上部にライブ情報（タイトル・開催日時・出演アーティスト・チケット価格）を流すというもので、1回の放送につき1本のライブ情報しか放送していなかった。しかし、2004年4月に「**SHIBUYA-AX FILES**」へ改称した際に、放送するライブ情報を2本に増やし、ライブによってはチケットの先行電話予約を行うようになった。また、これに伴い番組エンディング時にエンディング曲のPVを流しながら、「**SHIBUYA-AX Pick Up Live**」と題して画面右上にライブ情報（ライブ情報の伝達内容は「SHIBUYA-AX FILE」の時と同じ）を伝えるようになった。
 
-なお、AX MUSIC-TVの後継番組である『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』では、SHIBUYA-AXでのライブ情報は放送されなくなった。
+なお、AX MUSIC-TVの後継番組である『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』では、SHIBUYA-AXでのライブ情報は放送されなくなった。
 
 ## AX POWER PLAY
 
 1.  001 「[Ring my bell](https://ja.wikipedia.org/wiki/Ring_my_bell_\(矢井田瞳の曲\) "wikilink")」[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")
 2.  002 「[INSPIRED FROM RED\&BLUE](https://ja.wikipedia.org/wiki/OVER_THE_RAINBOW/INSPIRED_FROM_RED&BLUE "wikilink")」[globe](https://ja.wikipedia.org/wiki/globe "wikilink")
 3.  003 「REVOLVER」[ゼリ→](https://ja.wikipedia.org/wiki/ゼリ→ "wikilink")
-4.  004 「Love knot」[Baby Boo](https://ja.wikipedia.org/wiki/Baby_Boo "wikilink")
+4.  004 「Love knot」[Baby Boo](../Page/Baby_Boo.md "wikilink")
 5.  005 「恋心」[savage genius](https://ja.wikipedia.org/wiki/savage_genius "wikilink")
 6.  006 「[さわやかな君の気持ち](../Page/さわやかな君の気持ち.md "wikilink")」[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")
 7.  007 「Beautiful Day」[ハックルベリーフィン](https://ja.wikipedia.org/wiki/ハックルベリーフィン_\(バンド\) "wikilink")
@@ -59,24 +59,24 @@
 10. 010 「B-Love」[片岡大志](../Page/片岡大志.md "wikilink")
 11. 011 「咲かずとて」[熊木杏里](https://ja.wikipedia.org/wiki/熊木杏里 "wikilink")
 12. 012 「Twinkle Stars」[wyse](https://ja.wikipedia.org/wiki/wyse_\(音楽バンド\) "wikilink")
-13. 013 「i love you」[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")
+13. 013 「i love you」[TAKUYA](../Page/TAKUYA.md "wikilink")
 14. 014 「[Survival](https://ja.wikipedia.org/wiki/Survival "wikilink")」[MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")
 15. 015 「MOTOKANO」[SORTITA](https://ja.wikipedia.org/wiki/SORTITA "wikilink")
 16. 016 「[touch me,kiss me](https://ja.wikipedia.org/wiki/touch_me,kiss_me "wikilink")」[Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink")
 17. 017 「[飾りじゃないのよ涙は](../Page/飾りじゃないのよ涙は.md "wikilink")」[井上陽水](../Page/井上陽水.md "wikilink")
 18. 018 「[Deep Freeze](../Page/Deep_Freeze.md "wikilink")」[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")
 19. 019 「鮮やかな光」[ROCKING TIME](../Page/ROCKING_TIME.md "wikilink")
-20. 020 「[ピーターパン・シンドローム](https://ja.wikipedia.org/wiki/ピーターパン・シンドローム "wikilink")」[Sound Schedule](https://ja.wikipedia.org/wiki/Sound_Schedule "wikilink")
-21. 021 「浮舟」[GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")
-22. 022 「五秒の再会」[斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")と[玲葉奈](https://ja.wikipedia.org/wiki/Leyona "wikilink")
-23. 023 「ファンキー・モンキー・ベイビー」[キャロル](https://ja.wikipedia.org/wiki/キャロル_\(バンド\) "wikilink")
+20. 020 「[ピーターパン・シンドローム](https://ja.wikipedia.org/wiki/ピーターパン・シンドローム "wikilink")」[Sound Schedule](../Page/Sound_Schedule.md "wikilink")
+21. 021 「浮舟」[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")
+22. 022 「五秒の再会」[斉藤和義](../Page/斉藤和義.md "wikilink")と[玲葉奈](../Page/Leyona.md "wikilink")
+23. 023 「ファンキー・モンキー・ベイビー」[キャロル](../Page/キャロル_\(バンド\).md "wikilink")
 24. 024 「[Wow](https://ja.wikipedia.org/wiki/Wow_\(槇原敬之の曲\) "wikilink")」[槇原敬之](../Page/槇原敬之.md "wikilink")
 25. 025 「空」[SOULHEAD](../Page/SOULHEAD.md "wikilink")
 26. 026 「[ふたりの願い](../Page/ふたりの願い.md "wikilink")」[小松未歩](../Page/小松未歩.md "wikilink")
 27. 027 「[オール・ザ・シングス・シー・セッド](https://ja.wikipedia.org/wiki/オール・ザ・シングス・シー・セッド "wikilink")」[t.A.T.u.](https://ja.wikipedia.org/wiki/t.A.T.u. "wikilink")
 28. 028 「[Flyte Tyme](../Page/Flyte_Tyme.md "wikilink")」[SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")
 29. 029 「ヤングジェネレーション」[JUICE](https://ja.wikipedia.org/wiki/JUICE "wikilink")
-30. 030 「種」[GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")
+30. 030 「種」[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")
 31. 031 「いつもそばで」[MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")
 32. 032 「Can't Stop Lovin' You」[ア・カッペラーズ](https://ja.wikipedia.org/wiki/ア・カッペラーズ "wikilink")
 33. 033 「[AKATSUKI](../Page/KI_\(稲葉浩志のシングル\).md "wikilink")」[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")
@@ -88,28 +88,28 @@
 39. 039 「[ドリームエクスプレス](https://ja.wikipedia.org/wiki/ドリームエクスプレス "wikilink")」[FLOW](../Page/FLOW.md "wikilink")
 40. 040 「Ambition」sweetio
 41. 041 「Honey B」[three NATION](https://ja.wikipedia.org/wiki/three_NATION "wikilink")
-42. 042 「永遠のスペースカウボーイ」[DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")☆STARDUST
-43. 043 「[ぼくらなら](https://ja.wikipedia.org/wiki/ぼくらなら "wikilink")」[GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE "wikilink")
+42. 042 「永遠のスペースカウボーイ」[DAIGO](../Page/DAIGO.md "wikilink")☆STARDUST
+43. 043 「[ぼくらなら](https://ja.wikipedia.org/wiki/ぼくらなら "wikilink")」[GRAPEVINE](../Page/GRAPEVINE.md "wikilink")
 44. 044 「Love★Raspberry Juice」[SweetS](https://ja.wikipedia.org/wiki/SweetS "wikilink")
 45. 045 「ストロベリーチップス」[HALCALI](../Page/HALCALI.md "wikilink")
 46. 046 「カノン」[cune](https://ja.wikipedia.org/wiki/cune "wikilink")
-47. 047 「鴉<KARASU>」[FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")
+47. 047 「鴉<KARASU>」[FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")
 48. 048 「[螢火](https://ja.wikipedia.org/wiki/螢火/Show_Time "wikilink")」[day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")
 49. 049 「[Albireo -アルビレオ-](https://ja.wikipedia.org/wiki/Albireo_-アルビレオ- "wikilink")」[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")
 50. 050 「[SCREEN OF LIFE](../Page/NETWORK_TM.md "wikilink")」[TM NETWORK](../Page/TM_NETWORK.md "wikilink")
 51. 051 「Purple Sky」[CORE OF SOUL](../Page/CORE_OF_SOUL.md "wikilink")
 52. 052 「[モノクロームエフェクト](../Page/モノクロームエフェクト.md "wikilink")」[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")
 53. 053 「イカロス」[竹内めぐみ](https://ja.wikipedia.org/wiki/竹内めぐみ "wikilink")
-54. 054 「Sun Shower」[川口大輔](https://ja.wikipedia.org/wiki/川口大輔 "wikilink")
+54. 054 「Sun Shower」[川口大輔](../Page/川口大輔.md "wikilink")
 55. 055 「[サイレン](../Page/サイレン_\(ASIAN_KUNG-FU_GENERATIONの曲\).md "wikilink")」[ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")
 56. 056 「月の雫」[我那覇美奈](../Page/我那覇美奈.md "wikilink")
 57. 057 「[GET ON THE DANCE FLOOR](https://ja.wikipedia.org/wiki/GET_ON_THE_DANCE_FLOOR "wikilink")」[DA PUMP](../Page/DA_PUMP.md "wikilink")
 58. 058 「[モノクロの景色](https://ja.wikipedia.org/wiki/モノクロの景色 "wikilink")」[ムック](../Page/MUCC.md "wikilink")
-59. 059 「[Movie Star](https://ja.wikipedia.org/wiki/Movie_Star "wikilink")」[Zwei](https://ja.wikipedia.org/wiki/Zwei "wikilink")
-60. 060 「道の空」[Psycho le Cemu](https://ja.wikipedia.org/wiki/Psycho_le_Cemu "wikilink")
+59. 059 「[Movie Star](https://ja.wikipedia.org/wiki/Movie_Star "wikilink")」[Zwei](../Page/Zwei.md "wikilink")
+60. 060 「道の空」[Psycho le Cemu](../Page/Psycho_le_Cemu.md "wikilink")
 61. 061 「[ミノレバ☆ロック](https://ja.wikipedia.org/wiki/ロック番狂わせ/ミノレバ☆ロック "wikilink")」[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")
 62. 062 「GETTING A RUDDER」[HAV](https://ja.wikipedia.org/wiki/hav "wikilink")
-63. 063 「HOLD HEART」[北出菜奈](https://ja.wikipedia.org/wiki/北出菜奈 "wikilink")
+63. 063 「HOLD HEART」[北出菜奈](../Page/北出菜奈.md "wikilink")
 64. 064 「君がいてくれてよかった」[ザ・マスミサイル](../Page/ザ・マスミサイル.md "wikilink")
 65. 065 「[THE SHOW](../Page/THE_SHOW.md "wikilink")」[LIV](https://ja.wikipedia.org/wiki/LIV "wikilink")
 66. 066 「嘘つき」[CANCION](../Page/CANCION.md "wikilink")
@@ -128,6 +128,6 @@
   - ディレクター：田中久也、阿部聡
   - プロデューサー：[環真吾](../Page/環真吾.md "wikilink")←[中村英明](../Page/中村英明.md "wikilink")／本橋武夫、チャーリー小林
   - 総合演出：[金田有浩](https://ja.wikipedia.org/wiki/金田有浩 "wikilink")
-  - チーフプロデューサー：[土屋泰則](https://ja.wikipedia.org/wiki/土屋泰則 "wikilink")←[吉田真](../Page/吉田真_\(プロデューサー\).md "wikilink")
+  - チーフプロデューサー：[土屋泰則](../Page/土屋泰則.md "wikilink")←[吉田真](../Page/吉田真_\(プロデューサー\).md "wikilink")
 
 [Category:2000年代のテレビ番組](https://ja.wikipedia.org/wiki/Category:2000年代のテレビ番組 "wikilink") [Category:日本テレビの音楽番組](https://ja.wikipedia.org/wiki/Category:日本テレビの音楽番組 "wikilink") [Category:日本テレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜番組の歴史 "wikilink") [Category:藤井隆](https://ja.wikipedia.org/wiki/Category:藤井隆 "wikilink")

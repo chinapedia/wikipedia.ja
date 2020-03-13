@@ -1,7 +1,7 @@
 > この記事は[VS \(misono\)](https://ja.wikipedia.org/wiki/VS_\(misono\))から翻訳されています。
 
 
-「**VS**」（ヴァーサス）は、[misono](https://ja.wikipedia.org/wiki/misono "wikilink")が[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")にリリースしたソロデビューシングルである。
+「**VS**」（ヴァーサス）は、[misono](https://ja.wikipedia.org/wiki/misono "wikilink")が[2006年](../Page/2006年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")にリリースしたソロデビューシングルである。
 
 ## デビューに至るまで
 
@@ -9,10 +9,10 @@
 
 ## 概要
 
-  - 「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD+[DVD](../Page/DVD.md "wikilink")」の2形態で発売された。CDジャケットと[PVは同じショットから来ている](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+  - 「[CDのみ](../Page/コンパクトディスク.md "wikilink")」、「CD+[DVD](../Page/DVD.md "wikilink")」の2形態で発売された。CDジャケットと[PVは同じショットから来ている](../Page/ミュージック・ビデオ.md "wikilink")。
   - 前向きな歌詞とDANCE\&ROCKのテーマに相応しいメロディのソロデビュー曲で、オリコン初登場4位を記録した。
   - タイトル曲である「VS」は[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト『[テイルズ オブ ザ テンペスト](https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_テンペスト "wikilink")』主題歌となるが、ソフト開発の遅れなどもあり、本作発売からおよそ半年以上も主題歌となったゲームそのものが発売されず、CMでこの曲が使用されることは無かった。
-  - [PV](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink") では、デビューまでの葛藤の影響を受けて2人のmisonoが戦う様子が描かれている。
+  - [PV](../Page/ミュージック・ビデオ.md "wikilink") では、デビューまでの葛藤の影響を受けて2人のmisonoが戦う様子が描かれている。
   - c/wの『ガラスのくつ』はmisonoが初めて作曲を手掛けたナンバー。
 
 ## 収録曲
@@ -22,7 +22,7 @@
 1.  **VS（ヴァーサス）**
       - 作詞:[misono](https://ja.wikipedia.org/wiki/misono "wikilink")、作曲：[西川進](../Page/西川進.md "wikilink")、編曲：[イズタニタカヒロ](https://ja.wikipedia.org/wiki/イズタニタカヒロ "wikilink")
       - [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")『[テイルズ オブ ザ テンペスト](https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_テンペスト "wikilink")』主題歌
-      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」4月度エンディング・テーマ
+      - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」4月度エンディング・テーマ
 2.  **ガラスのくつ**
       - 作詞・作曲：misono、編曲：久保田光太郎
 3.  **VS（ヴァーサス）** -instrumental-

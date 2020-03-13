@@ -1,11 +1,11 @@
 > この記事は[Versus \(\)](https://ja.wikipedia.org/wiki/Versus_\(\))から翻訳されています。
 
 
-『**Versus**』（バーサス）は[FIGHTING TV サムライ制作のテレビ番組](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")。
+『**Versus**』（バーサス）は[FIGHTING TV サムライ制作のテレビ番組](../Page/FIGHTING_TV_サムライ.md "wikilink")。
 
 ## 概要
 
-  - プロレスラー・格闘技選手など人気選手同士による対談番組。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から放送開始。
+  - プロレスラー・格闘技選手など人気選手同士による対談番組。[2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")から放送開始。
   - 放送開始から月1回の放送をしていたが、2008年10月をもって一旦休止。
   - 2009年4月から不定期で放送再開した。
 
@@ -24,14 +24,14 @@
 <tbody>
 <tr class="odd">
 <td><p>01</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/長州力" title="wikilink">長州力</a></strong></p></td>
+<td><p><strong><a href="../Page/長州力.md" title="wikilink">長州力</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong><a href="../Page/大仁田厚.md" title="wikilink">大仁田厚</a></strong></p></td>
 <td><p><small>それぞれジャパン、<a href="../Page/全日本プロレス.md" title="wikilink">全日本時代について</a>。</small></p></td>
 </tr>
 <tr class="even">
 <td><p>02</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/馳浩" title="wikilink">馳浩</a></strong></p></td>
+<td><p><strong><a href="../Page/馳浩.md" title="wikilink">馳浩</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/佐々木健介" title="wikilink">佐々木健介</a></strong></p></td>
 <td><p><small>かつて新日本で活躍した「馳健コンビ」を振り返る。</small></p></td>
@@ -41,13 +41,13 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/武藤敬司" title="wikilink">武藤敬司</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/前田日明" title="wikilink">前田日明</a></strong></p></td>
-<td><p><small>プロレスと総合格闘技。<a href="https://ja.wikipedia.org/wiki/リングス" title="wikilink">リングス</a>崩壊の理由。</small></p></td>
+<td><p><small>プロレスと総合格闘技。<a href="../Page/リングス.md" title="wikilink">リングス</a>崩壊の理由。</small></p></td>
 </tr>
 <tr class="even">
 <td><p>04</p></td>
 <td><p><strong>武藤敬司</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/TAJIRI" title="wikilink">TAJIRI</a></strong></p></td>
+<td><p><strong><a href="../Page/TAJIRI.md" title="wikilink">TAJIRI</a></strong></p></td>
 <td><p><small>プロレスに必要なエンターテイメントとは。</small></p></td>
 </tr>
 <tr class="odd">
@@ -61,12 +61,12 @@
 <td><p>06</p></td>
 <td><p><strong>前田日明</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/藤原喜明" title="wikilink">藤原喜明</a></strong></p></td>
+<td><p><strong><a href="../Page/藤原喜明.md" title="wikilink">藤原喜明</a></strong></p></td>
 <td><p><small>新日本に反旗、Uインターの結成。</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>07</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/鈴木みのる" title="wikilink">鈴木みのる</a></strong></p></td>
+<td><p><strong><a href="../Page/鈴木みのる.md" title="wikilink">鈴木みのる</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong><a href="../Page/高山善廣.md" title="wikilink">高山善廣</a></strong></p></td>
 <td><p><small>最強外敵タッグとして。戦友として。</small></p></td>
@@ -96,7 +96,7 @@
 <td><p>11</p></td>
 <td><p><strong><a href="../Page/曙太郎.md" title="wikilink">曙</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/力皇猛" title="wikilink">力皇猛</a></strong></p></td>
+<td><p><strong><a href="../Page/力皇猛.md" title="wikilink">力皇猛</a></strong></p></td>
 <td><p><small>角界から転進。改めて同期として。</small></p></td>
 </tr>
 <tr class="even">
@@ -115,9 +115,9 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/藤波辰爾" title="wikilink">藤波辰爾</a></strong></p></td>
+<td><p><strong><a href="../Page/藤波辰爾.md" title="wikilink">藤波辰爾</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/川田利明" title="wikilink">川田利明</a></strong></p></td>
+<td><p><strong><a href="../Page/川田利明.md" title="wikilink">川田利明</a></strong></p></td>
 <td><p><small>老舗団体から「無我」・「ハッスル」へ移籍。</small></p></td>
 </tr>
 <tr class="odd">
@@ -129,11 +129,11 @@
 </tr>
 <tr class="even">
 <td><p>16</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/永田裕志" title="wikilink">永田裕志</a></strong></p></td>
+<td><p><strong><a href="../Page/永田裕志.md" title="wikilink">永田裕志</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/大谷晋二郎" title="wikilink">大谷晋二郎</a></strong><br />
+<td><p><strong><a href="../Page/大谷晋二郎.md" title="wikilink">大谷晋二郎</a></strong><br />
 </p></td>
-<td><p><small><strong><a href="https://ja.wikipedia.org/wiki/村上和成" title="wikilink">村上和成</a></strong>も参加。永田興行でトリオ結成。同期の新日本時代。</small></p></td>
+<td><p><small><strong><a href="../Page/村上和成.md" title="wikilink">村上和成</a></strong>も参加。永田興行でトリオ結成。同期の新日本時代。</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
@@ -146,7 +146,7 @@
 <td><p>18</p></td>
 <td><p><strong><a href="../Page/アントニオ猪木.md" title="wikilink">アントニオ猪木</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/安田忠夫" title="wikilink">安田忠夫</a></strong></p></td>
+<td><p><strong><a href="../Page/安田忠夫.md" title="wikilink">安田忠夫</a></strong></p></td>
 <td><p><small>自殺騒動からの再出発。師から改めて問う。</small></p></td>
 </tr>
 <tr class="odd">
@@ -154,7 +154,7 @@
 <td><p><strong>桜井“マッハ”速人</strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong><a href="../Page/郷野聡寛.md" title="wikilink">郷野聡寛</a></strong></p></td>
-<td><p><small>総合に魅せられて。<a href="https://ja.wikipedia.org/wiki/修斗" title="wikilink">修斗</a>そして<a href="../Page/PRIDE_(格闘技イベント).md" title="wikilink">PRIDE</a>。</small></p></td>
+<td><p><small>総合に魅せられて。<a href="../Page/修斗.md" title="wikilink">修斗</a>そして<a href="../Page/PRIDE_(格闘技イベント).md" title="wikilink">PRIDE</a>。</small></p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -165,7 +165,7 @@
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/高木三四郎" title="wikilink">高木三四郎</a></strong></p></td>
+<td><p><strong><a href="../Page/高木三四郎.md" title="wikilink">高木三四郎</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CIMA_(プロレスラー)" title="wikilink">CIMA</a></strong></p></td>
 <td><p><small>DRAGON GATEとDDTのトップとして。コラボ興行の開催。</small></p></td>
@@ -203,13 +203,13 @@
 <td><p><strong>藤波辰爾</strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong>長州力</strong></p></td>
-<td><p><small>レジェンドと呼ばれている三人の対談。<strong><a href="https://ja.wikipedia.org/wiki/佐山聡" title="wikilink">初代タイガーマスク</a></strong></small>乱入。</p></td>
+<td><p><small>レジェンドと呼ばれている三人の対談。<strong><a href="../Page/佐山聡.md" title="wikilink">初代タイガーマスク</a></strong></small>乱入。</p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
 <td><p><strong>ザ・グレート・サスケ</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/獣神サンダー・ライガー" title="wikilink">獣神サンダー・ライガー</a></strong></p></td>
+<td><p><strong><a href="../Page/獣神サンダー・ライガー.md" title="wikilink">獣神サンダー・ライガー</a></strong></p></td>
 <td><p><small>ジュニアヘビー級の一大ムーブメントを築き上げた2人。</small></p></td>
 </tr>
 <tr class="even">
@@ -228,7 +228,7 @@
 </tr>
 <tr class="even">
 <td><p>30</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/中邑真輔" title="wikilink">中邑真輔</a></strong></p></td>
+<td><p><strong><a href="../Page/中邑真輔.md" title="wikilink">中邑真輔</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong><a href="../Page/岡見勇信.md" title="wikilink">岡見勇信</a></strong></p></td>
 <td><p><small>IWGP王者とUFCサンダー。若き時代の稽古仲間。</small></p></td>
@@ -237,7 +237,7 @@
 <td><p>31</p></td>
 <td><p><strong>前田日明</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/秋山成勲" title="wikilink">秋山成勲</a></strong></p></td>
+<td><p><strong><a href="../Page/秋山成勲.md" title="wikilink">秋山成勲</a></strong></p></td>
 <td><p><small>HERO'sのスーパーバイザーと大物ルーキーの久しぶりの再会。</small></p></td>
 </tr>
 <tr class="even">
@@ -256,9 +256,9 @@
 </tr>
 <tr class="even">
 <td><p>34</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ミノワマン" title="wikilink">ミノワマン</a></strong></p></td>
+<td><p><strong><a href="../Page/ミノワマン.md" title="wikilink">ミノワマン</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/所英男" title="wikilink">所英男</a></strong></p></td>
+<td><p><strong><a href="../Page/所英男.md" title="wikilink">所英男</a></strong></p></td>
 <td><p><small>DREAMを主戦場に活躍する2人の無口対談。2人の格闘観の融合。</small></p></td>
 </tr>
 <tr class="odd">
@@ -270,7 +270,7 @@
 </tr>
 <tr class="even">
 <td><p>36</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/天龍源一郎" title="wikilink">天龍源一郎</a></strong></p></td>
+<td><p><strong><a href="../Page/天龍源一郎.md" title="wikilink">天龍源一郎</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong>高木三四郎</strong></p></td>
 <td><p><small>天龍の目に映る特質な団体。タッグ結成の経緯とは。</small></p></td>
@@ -284,9 +284,9 @@
 </tr>
 <tr class="even">
 <td><p>38</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/五味隆典" title="wikilink">五味隆典</a></strong></p></td>
+<td><p><strong><a href="../Page/五味隆典.md" title="wikilink">五味隆典</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/須藤元気" title="wikilink">須藤元気</a></strong></p></td>
+<td><p><strong><a href="../Page/須藤元気.md" title="wikilink">須藤元気</a></strong></p></td>
 <td><p><small>親友対談。火の玉ボーイの復活。電撃引退の理由。</small></p></td>
 </tr>
 <tr class="odd">
@@ -294,7 +294,7 @@
 <td><p><strong>TAJIRI</strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong>高木三四郎</strong></p></td>
-<td><p><small>それぞれに独自の世界観を持つプロデューサー3人。<strong><a href="https://ja.wikipedia.org/wiki/さくらえみ" title="wikilink">さくらえみ</a></strong>も乱入。</small></p></td>
+<td><p><small>それぞれに独自の世界観を持つプロデューサー3人。<strong><a href="../Page/さくらえみ.md" title="wikilink">さくらえみ</a></strong>も乱入。</small></p></td>
 </tr>
 <tr class="even">
 <td><p>40</p></td>
@@ -342,12 +342,12 @@
 <td><p>46</p></td>
 <td><p><strong>永田裕志</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/秋山準" title="wikilink">秋山準</a></strong></p></td>
+<td><p><strong><a href="../Page/秋山準.md" title="wikilink">秋山準</a></strong></p></td>
 <td><p><small>団体は違えどアマレス出身の同期デビュー。ライバルの2人。</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>47</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ディック東郷" title="wikilink">ディック東郷</a></strong></p></td>
+<td><p><strong><a href="../Page/ディック東郷.md" title="wikilink">ディック東郷</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong>ザ・グレートサスケ</strong></p></td>
 <td><p><small>国内引退の東郷、ユニバからみちのくへ共に過ごした歩み。</small></p></td>
@@ -363,7 +363,7 @@
 <td><p>49</p></td>
 <td><p><strong>天龍源一郎</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/小林健太" title="wikilink">KENTA</a></strong></p></td>
+<td><p><strong><a href="../Page/小林健太.md" title="wikilink">KENTA</a></strong></p></td>
 <td><p><small>団体へ反旗を翻した男たち。改革の先駆者・天龍からの言葉とは。</small></p></td>
 </tr>
 <tr class="even">
@@ -375,21 +375,21 @@
 </tr>
 <tr class="odd">
 <td><p>51</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ハヤブサ_(プロレスラー)" title="wikilink">ハヤブサ</a></strong></p></td>
+<td><p><strong><a href="../Page/ハヤブサ_(プロレスラー).md" title="wikilink">ハヤブサ</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong>ザ・グレート・サスケ</strong></p></td>
 <td><p><small>空中戦でインディーからメジャーへ。同世代を歩んだ２人。</small></p></td>
 </tr>
 <tr class="even">
 <td><p>52</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/天山広吉" title="wikilink">天山広吉</a></strong></p></td>
+<td><p><strong><a href="../Page/天山広吉.md" title="wikilink">天山広吉</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong>蝶野正洋</strong></p></td>
 <td><p><small>天山20th記念で狼群団を再結成。<strong><a href="https://ja.wikipedia.org/wiki/ヒロ斉藤" title="wikilink">ヒロ斉藤</a></strong>も登場。</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>53</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/吉鷹弘" title="wikilink">吉鷹弘</a></strong></p></td>
+<td><p><strong><a href="../Page/吉鷹弘.md" title="wikilink">吉鷹弘</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong><a href="../Page/中井祐樹.md" title="wikilink">中井祐樹</a></strong></p></td>
 <td><p><small>13年振り「SHOOT the SHOOTO」の開催前に両団体のOB選手の対談。</small></p></td>
@@ -412,12 +412,12 @@
 <td><p>56</p></td>
 <td><p><strong>長州力</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アニマル浜口" title="wikilink">アニマル浜口</a></strong></p></td>
+<td><p><strong><a href="../Page/アニマル浜口.md" title="wikilink">アニマル浜口</a></strong></p></td>
 <td><p><small>新日本と国際のレジェント。 </small></p></td>
 </tr>
 <tr class="odd">
 <td><p>57</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/スタン・ハンセン" title="wikilink">スタン・ハンセン</a></strong></p></td>
+<td><p><strong><a href="../Page/スタン・ハンセン.md" title="wikilink">スタン・ハンセン</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong>天龍源一郎</strong></p></td>
 <td><p><small>日本マットに旋風を巻き起こしたレジェンドレスラーの対談。 </small></p></td>
@@ -426,14 +426,14 @@
 <td><p>58</p></td>
 <td><p><strong><a href="../Page/ブル中野.md" title="wikilink">ブル中野</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/神取忍" title="wikilink">神取忍</a></strong></p></td>
+<td><p><strong><a href="../Page/神取忍.md" title="wikilink">神取忍</a></strong></p></td>
 <td><p><small>伝説のチェーンデスマッチを交わした2人。 </small></p></td>
 </tr>
 <tr class="odd">
 <td><p>59</p></td>
 <td><p><strong>スタン・ハンセン</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/小橋建太" title="wikilink">小橋建太</a></strong></p></td>
+<td><p><strong><a href="../Page/小橋建太.md" title="wikilink">小橋建太</a></strong></p></td>
 <td><p><small>豪腕対談シリーズ1。全日本を引退と退団で去り11年ぶりの再会。</small></p></td>
 </tr>
 <tr class="even">
@@ -447,12 +447,12 @@
 <td><p>61</p></td>
 <td><p><strong>スタン・ハンセン</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/小島聡" title="wikilink">小島聡</a></strong></p></td>
+<td><p><strong><a href="../Page/小島聡.md" title="wikilink">小島聡</a></strong></p></td>
 <td><p><small>豪腕対談シリーズ2。ラリアットを伝授した師と弟子。</small></p></td>
 </tr>
 <tr class="even">
 <td><p>62</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/坂口征二" title="wikilink">坂口征二</a></strong></p></td>
+<td><p><strong><a href="../Page/坂口征二.md" title="wikilink">坂口征二</a></strong></p></td>
 <td><p>vs</p></td>
 <td><p><strong>武藤敬司</strong></p></td>
 <td><p><small>新日本と全日本の創立40周年記念、相談役と会長による対談。</small></p></td>
@@ -461,14 +461,14 @@
 <td><p>63</p></td>
 <td><p><strong><a href="../Page/諏訪魔.md" title="wikilink">諏訪魔</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/馳浩" title="wikilink">馳浩</a></strong></p></td>
+<td><p><strong><a href="../Page/馳浩.md" title="wikilink">馳浩</a></strong></p></td>
 <td><p><small>プロレス入りのキッカケであり、デビュー戦の相手である恩師。</small></p></td>
 </tr>
 <tr class="even">
 <td><p>64</p></td>
 <td><p><strong>ハヤブサ</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ミル・マスカラス" title="wikilink">マスカラス</a><br />
+<td><p><strong><a href="../Page/ミル・マスカラス.md" title="wikilink">マスカラス</a><br />
 <a href="../Page/ドス・カラス.md" title="wikilink">ドス・カラス</a></strong></p></td>
 <td><p><small>ハヤブサ少年の憧れたレスラーとの対談。メキシコ遠征でついに実現。</small></p></td>
 </tr>
@@ -482,9 +482,9 @@
 </tr>
 <tr class="even">
 <td><p>66</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/高木三四郎" title="wikilink">高木三四郎</a></strong></p></td>
+<td><p><strong><a href="../Page/高木三四郎.md" title="wikilink">高木三四郎</a></strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/丸藤正道" title="wikilink">丸藤正道</a></strong></p></td>
+<td><p><strong><a href="../Page/丸藤正道.md" title="wikilink">丸藤正道</a></strong></p></td>
 <td><p><small>武道館大会を控えた高木の対談リスクエトは丸藤正道！</small></p></td>
 </tr>
 <tr class="odd">
@@ -603,7 +603,7 @@
 <td><p>83</p></td>
 <td><p><strong>武藤敬司</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/男色ディーノ" title="wikilink">男色ディーノ</a></strong></p></td>
+<td><p><strong><a href="../Page/男色ディーノ.md" title="wikilink">男色ディーノ</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -633,7 +633,7 @@
 <td><p>特</p></td>
 <td><p><strong>ブル中野</strong></p></td>
 <td><p>vs</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アジャ・コング" title="wikilink">アジャ・コング</a></strong></p></td>
+<td><p><strong><a href="../Page/アジャ・コング.md" title="wikilink">アジャ・コング</a></strong></p></td>
 <td><p><small>女子ヒール界の歴史を築いた師弟でありライバルの２人。<br />
 2011年3月、特番「ドキッ!? ブジョシだらけの120分」内で放送された。</small></p></td>
 </tr>

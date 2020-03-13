@@ -1,7 +1,7 @@
 > この記事は[ADC53](https://ja.wikipedia.org/wiki/ADC53)から翻訳されています。
 
 
-**ADC航空53便墜落事故**は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")正午ごろ、[ナイジェリア](../Page/ナイジェリア.md "wikilink")の首都[アブジャ](https://ja.wikipedia.org/wiki/アブジャ "wikilink")郊外の[ンナムディ・アジキウェ国際空港](https://ja.wikipedia.org/wiki/ンナムディ・アジキウェ国際空港 "wikilink")から同国北部の都市[ソコト](https://ja.wikipedia.org/wiki/ソコト "wikilink")に向う予定の[ADC航空](https://ja.wikipedia.org/wiki/ADC航空 "wikilink")53便（[ボーイング737](https://ja.wikipedia.org/wiki/ボーイング737 "wikilink")-200、[機体記号](https://ja.wikipedia.org/wiki/機体記号 "wikilink")5N-BFK）が離陸直後に墜落し、炎上した事故である。
+**ADC航空53便墜落事故**は、[2006年](../Page/2006年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")正午ごろ、[ナイジェリア](../Page/ナイジェリア.md "wikilink")の首都[アブジャ](../Page/アブジャ.md "wikilink")郊外の[ンナムディ・アジキウェ国際空港](https://ja.wikipedia.org/wiki/ンナムディ・アジキウェ国際空港 "wikilink")から同国北部の都市[ソコト](https://ja.wikipedia.org/wiki/ソコト "wikilink")に向う予定の[ADC航空](https://ja.wikipedia.org/wiki/ADC航空 "wikilink")53便（[ボーイング737](../Page/ボーイング737.md "wikilink")-200、[機体記号](https://ja.wikipedia.org/wiki/機体記号 "wikilink")5N-BFK）が離陸直後に墜落し、炎上した事故である。
 
 ## 事故の概要
 
@@ -9,7 +9,7 @@
 
 ナイジェリア政府の高官や国会議員が同便に搭乗していた。ナイジェリアの[イスラム教](../Page/イスラム教.md "wikilink")最高指導者である[ムハマド・マシド](https://ja.wikipedia.org/wiki/ムハマド・マシド "wikilink")の死亡が確認されている。
 
-事故機は[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に製造され、[USエアウェイズ](https://ja.wikipedia.org/wiki/USエアウェイズ "wikilink")が使用していたN323AU（[1988年](../Page/1988年.md "wikilink")N279AUに登録変更）を[2003年](../Page/2003年.md "wikilink")に譲り受けたものである。
+事故機は[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に製造され、[USエアウェイズ](../Page/USエアウェイズ.md "wikilink")が使用していたN323AU（[1988年](../Page/1988年.md "wikilink")N279AUに登録変更）を[2003年](../Page/2003年.md "wikilink")に譲り受けたものである。
 
 ## 事故原因
 

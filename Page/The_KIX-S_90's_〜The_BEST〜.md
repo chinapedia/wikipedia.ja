@@ -1,7 +1,7 @@
 > この記事は[The KIX-S 90\'s The BEST](https://ja.wikipedia.org/wiki/The_KIX-S_90\'s_The_BEST)から翻訳されています。
 
 
-**The KIX-S 90's 〜The BEST〜**(ザ・キックス・ナンティーズ ザ・ベスト)は[KIX-S](https://ja.wikipedia.org/wiki/KIX-S "wikilink")の1枚目のアルバム
+**The KIX-S 90's 〜The BEST〜**(ザ・キックス・ナンティーズ ザ・ベスト)は[KIX-S](../Page/KIX-S.md "wikilink")の1枚目のアルバム
 
 ## 内容
 
@@ -30,8 +30,8 @@
 <!-- end list -->
 
   -
-    作詞:[浜口司](../Page/浜口司.md "wikilink")(1〜15,17)、[安井かずみ](https://ja.wikipedia.org/wiki/安井かずみ "wikilink")(16)
-    作曲:[安宅美春](../Page/安宅美春.md "wikilink")(1〜15,17)、[井上堯之](https://ja.wikipedia.org/wiki/井上堯之 "wikilink")(16)
-    編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")(1,2,4,8,11〜14,17)、[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")(3)、[高橋圭一](../Page/高橋圭一.md "wikilink")・KIX-S(5〜7,10,15,16)、KIX-S(9)
+    作詞:[浜口司](../Page/浜口司.md "wikilink")(1〜15,17)、[安井かずみ](../Page/安井かずみ.md "wikilink")(16)
+    作曲:[安宅美春](../Page/安宅美春.md "wikilink")(1〜15,17)、[井上堯之](../Page/井上堯之.md "wikilink")(16)
+    編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")(1,2,4,8,11〜14,17)、[明石昌夫](../Page/明石昌夫.md "wikilink")(3)、[高橋圭一](../Page/高橋圭一.md "wikilink")・KIX-S(5〜7,10,15,16)、KIX-S(9)
 
 [Category:KIX-Sのアルバム](https://ja.wikipedia.org/wiki/Category:KIX-Sのアルバム "wikilink") [Category:1998年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1998年のベスト・アルバム "wikilink") [Category:テイチクエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:テイチクエンタテインメントのアルバム "wikilink")

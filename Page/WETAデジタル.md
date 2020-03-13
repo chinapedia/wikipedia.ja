@@ -1,17 +1,17 @@
 > この記事は[WETA](https://ja.wikipedia.org/wiki/WETA)から翻訳されています。
 
 
-**WETAデジタル**（ウェタ・デジタル、）は、[ニュージーランド](../Page/ニュージーランド.md "wikilink")[ウェリントン](https://ja.wikipedia.org/wiki/ウェリントン "wikilink")に所在する[VFX](../Page/VFX.md "wikilink")制作会社である。「WETA」は「ウェタ」がもともとの発音にもっとも近い。「」とはニュージーランドに生息する[カマドウマ科](https://ja.wikipedia.org/wiki/カマドウマ科 "wikilink")の大型[昆虫](../Page/昆虫.md "wikilink")の名前である。
+**WETAデジタル**（ウェタ・デジタル、）は、[ニュージーランド](../Page/ニュージーランド.md "wikilink")[ウェリントン](../Page/ウェリントン.md "wikilink")に所在する[VFX](../Page/VFX.md "wikilink")制作会社である。「WETA」は「ウェタ」がもともとの発音にもっとも近い。「」とはニュージーランドに生息する[カマドウマ科](https://ja.wikipedia.org/wiki/カマドウマ科 "wikilink")の大型[昆虫](../Page/昆虫.md "wikilink")の名前である。
 
 ## 概要
 
-[1993年](../Page/1993年.md "wikilink")、[ピーター・ジャクソン](../Page/ピーター・ジャクソン.md "wikilink")と[リチャード・テイラーの仲間により](https://ja.wikipedia.org/wiki/リチャード・テイラー_\(クリエーター\) "wikilink")『[乙女の祈り](https://ja.wikipedia.org/wiki/乙女の祈り_\(映画\) "wikilink")』（1994年）のSFXを制作するために設立された映像スタジオである。この映画では1台のコンピュータによってVFXが制作された。それ以降、会社組織としての規模はより大きく、より複雑に成長してきた。もともと**WETA**と呼ばれていた会社が、[2000年](../Page/2000年.md "wikilink")に特殊メイクやミニチュア製作の工房である****とデジタル・ポストプロダクションの**Weta Digital**の2つの組織に分けられたという経緯から、それぞれの参加作品が混同されることが多い。
+[1993年](../Page/1993年.md "wikilink")、[ピーター・ジャクソン](../Page/ピーター・ジャクソン.md "wikilink")と[リチャード・テイラーの仲間により](https://ja.wikipedia.org/wiki/リチャード・テイラー_\(クリエーター\) "wikilink")『[乙女の祈り](../Page/乙女の祈り_\(映画\).md "wikilink")』（1994年）のSFXを制作するために設立された映像スタジオである。この映画では1台のコンピュータによってVFXが制作された。それ以降、会社組織としての規模はより大きく、より複雑に成長してきた。もともと**WETA**と呼ばれていた会社が、[2000年](../Page/2000年.md "wikilink")に特殊メイクやミニチュア製作の工房である****とデジタル・ポストプロダクションの**Weta Digital**の2つの組織に分けられたという経緯から、それぞれの参加作品が混同されることが多い。
 
 ジャクソン監督による『[指輪物語](../Page/指輪物語.md "wikilink")』の映画化3部作『[ロード・オブ・ザ・リング](../Page/ロード・オブ・ザ・リング.md "wikilink")』（2001年）、『[ロード・オブ・ザ・リング/二つの塔](https://ja.wikipedia.org/wiki/ロード・オブ・ザ・リング/二つの塔 "wikilink")』（2002年）、『[ロード・オブ・ザ・リング/王の帰還](https://ja.wikipedia.org/wiki/ロード・オブ・ザ・リング/王の帰還 "wikilink")』（2003年）における突出したVFXは高く評価され、3作とも[アカデミー視覚効果賞](../Page/アカデミー視覚効果賞.md "wikilink")を受賞した。また、続く『[キング・コング](../Page/キング・コング_\(2005年の映画\).md "wikilink")』（2005年）でも同賞を受賞した。さらには、そのクリーチャーの表現技術を買われて[ジェームズ・キャメロン](../Page/ジェームズ・キャメロン.md "wikilink")監督の『[アバター](https://ja.wikipedia.org/wiki/アバター_\(映画\) "wikilink")』に参加し、異星人ナヴィやパンドラの世界観を見事に表現したことでオスカーを手にした。こうしてアメリカの映画産業から高い評価を示されたことにより、[ILMや](../Page/インダストリアル・ライト&マジック.md "wikilink")[デジタル・ドメイン](../Page/デジタル・ドメイン.md "wikilink")と肩を並べる、世界有数のVFX工房になった。
 
 [『ロード・オブ・ザ・リング』シリーズがもたらしたVFX界における重要な貢献の](https://ja.wikipedia.org/wiki/ロード・オブ・ザ・リングシリーズ "wikilink")1つに、[モーションキャプチャ](../Page/モーションキャプチャ.md "wikilink")やキーフレームアニメーションに最先端のCG技術である[サブサーフェイス・スキャタリング](../Page/サブサーフェイス・スキャタリング.md "wikilink")を組み合わせ、「[ゴラム](../Page/ゴクリ.md "wikilink")」（指輪の力によって容姿が変わってしまった[ホビット](../Page/ホビット.md "wikilink")）という極めて人間に近いCGキャラクターを、初めて納得のいくレベルでメジャー映画の中に成立させたことである。その他にも、この映画では群集アニメーションを制作するために[MASSIVE](../Page/MASSIVE.md "wikilink")というプログラムを開発し、製品化もされた。
 
-また、[Pixologic](https://ja.wikipedia.org/wiki/Pixologic "wikilink")社のソフトウェア・[ZBrush](https://ja.wikipedia.org/wiki/ZBrush "wikilink")の開発にも協力しているほか、WETAと同じくニュージーランドにある[Skymatter Limitedの](https://ja.wikipedia.org/wiki/Skymatter_Limited "wikilink")[MudBox](../Page/MudBox.md "wikilink")の開発にも協力している。MudBoxは、2005年度版『キング・コング』の制作に活用された。
+また、[Pixologic](https://ja.wikipedia.org/wiki/Pixologic "wikilink")社のソフトウェア・[ZBrush](../Page/ZBrush.md "wikilink")の開発にも協力しているほか、WETAと同じくニュージーランドにある[Skymatter Limitedの](https://ja.wikipedia.org/wiki/Skymatter_Limited "wikilink")[MudBox](../Page/MudBox.md "wikilink")の開発にも協力している。MudBoxは、2005年度版『キング・コング』の制作に活用された。
 
 理系大学出身者の間では就職先希望ランキングで上位に入る映像スタジオである。映像スタジオとしては世界最高水準のIT環境を整備しており、35を超える国と地域から集まる約800名のクリエーター（半数はニュージーランド人）が在籍しているが正社員採用はなく、全員が[フリーランス](../Page/フリーランス.md "wikilink")の有期契約である。
 
@@ -35,7 +35,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1994年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/乙女の祈り_(映画)" title="wikilink">乙女の祈り</a><br />
+<td><p><a href="../Page/乙女の祈り_(映画).md" title="wikilink">乙女の祈り</a><br />
 <em>Heavenly Creatures</em></p></td>
 <td></td>
 </tr>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="odd">
 <td><p>1997年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/コンタクト_(映画)" title="wikilink">コンタクト</a><br />
+<td><p><a href="../Page/コンタクト_(映画).md" title="wikilink">コンタクト</a><br />
 <em>Contact</em></p></td>
 <td></td>
 </tr>
@@ -71,7 +71,7 @@
 </tr>
 <tr class="odd">
 <td><p>2004年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイ,ロボット" title="wikilink">アイ,ロボット</a><br />
+<td><p><a href="../Page/アイ,ロボット.md" title="wikilink">アイ,ロボット</a><br />
 <em>I, Robot</em></p></td>
 <td></td>
 </tr>
@@ -500,7 +500,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ブラック・ウィドウ_(映画)" title="wikilink">ブラック・ウィドウ</a><br />
+<td><p><a href="../Page/ブラック・ウィドウ_(映画).md" title="wikilink">ブラック・ウィドウ</a><br />
 <em>Black Widow</em></p></td>
 <td></td>
 </tr>
@@ -514,7 +514,7 @@
 
 ### テレビドラマ
 
-  - [アンブレラ・アカデミー](https://ja.wikipedia.org/wiki/アンブレラ・アカデミー "wikilink") *The Umbrella Academy* (2019年)
+  - [アンブレラ・アカデミー](../Page/アンブレラ・アカデミー.md "wikilink") *The Umbrella Academy* (2019年)
   - [ゲーム・オブ・スローンズ](https://ja.wikipedia.org/wiki/ゲーム・オブ・スローンズ "wikilink")(シーズン8) *Game of Thrones* (2019年)
 
 ## 受賞歴

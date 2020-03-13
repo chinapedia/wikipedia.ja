@@ -9,7 +9,7 @@
 
 1990年に**3D Studio DOS**としてリリース、その後、**3d studio Max** (スリーディー・スタジオ・マックス) としてバージョン3までリリースされ、それ以降の名前は**3ds max** (スリーディーエス・マックス) で、バージョン8からは**3ds Max**と表記されている。単に**Max** (マックス) と呼ばれることも多い。名称はマーケティング部門に所属する女性社員の息子の名前に由来するもので、「Maxか。すごく良い名前だね」と気に入られた結果というエピソードが残されていると、SIGGRAPH2010で語られた\[1\]。
 
-米国サンフランシスコに拠点を置いていたによって開発されていたが、Kinetixは[オートデスク](../Page/オートデスク.md "wikilink")社に買収されオートデスク社の1部門となり、1999年の社との合併に伴い、(2005年3月 **メディア＆エンターテインメント** に部署名を変更)3d Studioの後継として開発された。2005年10月、ライバルソフトである[Maya](https://ja.wikipedia.org/wiki/Maya "wikilink")の開発会社を、2008年10月には[Softimage](https://ja.wikipedia.org/wiki/Softimage "wikilink")を開発していた[Avid](https://ja.wikipedia.org/wiki/Avid "wikilink")の子会社であるSoftimage社をオートデスクが買収し、3ソフトの開発と販売を続けていたが、[Softimage](https://ja.wikipedia.org/wiki/Softimage "wikilink")はバージョン2015で開発終了した。
+米国サンフランシスコに拠点を置いていたによって開発されていたが、Kinetixは[オートデスク](../Page/オートデスク.md "wikilink")社に買収されオートデスク社の1部門となり、1999年の社との合併に伴い、(2005年3月 **メディア＆エンターテインメント** に部署名を変更)3d Studioの後継として開発された。2005年10月、ライバルソフトである[Maya](../Page/Maya.md "wikilink")の開発会社を、2008年10月には[Softimage](../Page/Softimage.md "wikilink")を開発していた[Avid](https://ja.wikipedia.org/wiki/Avid "wikilink")の子会社であるSoftimage社をオートデスクが買収し、3ソフトの開発と販売を続けていたが、[Softimage](../Page/Softimage.md "wikilink")はバージョン2015で開発終了した。
 
 ## 特徴
 
@@ -31,8 +31,8 @@
 
   - [ダンシング・ベイビー](https://ja.wikipedia.org/wiki/ダンシング・ベイビー "wikilink")
   - [Autodesk](https://ja.wikipedia.org/wiki/Autodesk "wikilink")
-  - [Maya](https://ja.wikipedia.org/wiki/Maya "wikilink")
-  - [Softimage](https://ja.wikipedia.org/wiki/Softimage "wikilink")
+  - [Maya](../Page/Maya.md "wikilink")
+  - [Softimage](../Page/Softimage.md "wikilink")
 
 ## 脚注
 

@@ -5,7 +5,7 @@
 
 ## メンバー
 
-岡峰を除くメンバー全員が[専門学校東京ビジュアルアーツ](https://ja.wikipedia.org/wiki/専門学校東京ビジュアルアーツ "wikilink")出身である。
+岡峰を除くメンバー全員が[専門学校東京ビジュアルアーツ](../Page/専門学校東京ビジュアルアーツ.md "wikilink")出身である。
 
   - **[山田将司](https://ja.wikipedia.org/wiki/山田将司_\(ミュージシャン\) "wikilink")**（やまだ まさし、 - ）
 
@@ -34,7 +34,7 @@
 <!-- end list -->
 
   -
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。
     [広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")出身。
 
 <!-- end list -->
@@ -63,39 +63,39 @@
 
 ### シングル
 
-|            | 発売日                                                                                                            | タイトル                                                                                  | 規格品番                                  | 順位  |
-| ---------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------- | --- |
-| インディーズ     |                                                                                                                |                                                                                       |                                       |     |
-| Indies 1st | [2000年](../Page/2000年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")                                       | **風船**                                                                                | KACD-0003                             |     |
-| メジャー       |                                                                                                                |                                                                                       |                                       |     |
-| 1st        | [2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")                                       | **[サニー](https://ja.wikipedia.org/wiki/サニー_\(THE_BACK_HORNの曲\) "wikilink")**           | VICL-35236                            |     |
-| 2nd        | 2001年[8月22日](../Page/8月22日.md "wikilink")                                                                      | **[空、星、海の夜](https://ja.wikipedia.org/wiki/空、星、海の夜 "wikilink")**                       | VICL-35293                            | 71位 |
-| 3rd        | [2002年](../Page/2002年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")                                       | **[世界樹の下で](https://ja.wikipedia.org/wiki/世界樹の下で "wikilink")**                         | VICL-35394                            | 69位 |
-| 4th        | 2002年[8月28日](../Page/8月28日.md "wikilink")                                                                      | **[涙がこぼれたら](https://ja.wikipedia.org/wiki/涙がこぼれたら "wikilink")**                       | VICL-35425                            | 75位 |
-| 5th        | [2003年](../Page/2003年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")                                       | **[未来](https://ja.wikipedia.org/wiki/未来_\(THE_BACK_HORNの曲\) "wikilink")**             | VICL-35464                            | 49位 |
-| 6th        | 2003年[6月18日](../Page/6月18日.md "wikilink")                                                                      | **[光の結晶](https://ja.wikipedia.org/wiki/光の結晶 "wikilink")**                             | VICL-35547                            | 55位 |
-| 7th        | 2003年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")                                                   | **[生命線](https://ja.wikipedia.org/wiki/生命線_\(曲\) "wikilink")**                         | VICL-35566                            | 60位 |
-| 8th        | [2004年](../Page/2004年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                                       | **[夢の花](https://ja.wikipedia.org/wiki/夢の花 "wikilink")**                               | VICL-35694 (初回限定盤) / VICL-35695 (通常盤) | 29位 |
-| 9th        | 2004年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")                                                   | **[コバルトブルー](https://ja.wikipedia.org/wiki/コバルトブルー_\(曲\) "wikilink")**                 | VICL-35708 (初回限定盤) / VICL-35709 (通常盤) | 30位 |
-| 10th       | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") | **[キズナソング](https://ja.wikipedia.org/wiki/キズナソング "wikilink")**                         | VICL-35758 (初回限定盤) / VICL-35759 (通常盤) | 36位 |
-| 11th       | 2005年[12月16日](../Page/12月16日.md "wikilink")                                                                    | **[ブラックホールバースデイ](https://ja.wikipedia.org/wiki/ブラックホールバースデイ "wikilink")**             | VIZL-161 (初回限定盤) / VICL-35928 (通常盤)   | 32位 |
-| 12th       | [2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")                                         | **[初めての呼吸で](https://ja.wikipedia.org/wiki/初めての呼吸で "wikilink")**                       | VICL-35940                            | 34位 |
-| 13th       | 2006年[3月22日](../Page/3月22日.md "wikilink")                                                                      | **[カオスダイバー](https://ja.wikipedia.org/wiki/カオスダイバー "wikilink")**                       | VIZL-174 (初回限定盤) / VICL-35945 (通常盤)   | 31位 |
-| 14th       | 2006年[12月20日](../Page/12月20日.md "wikilink")                                                                    | **[声](https://ja.wikipedia.org/wiki/声_\(THE_BACK_HORNの曲\) "wikilink")**               | VICL-36192 (初回限定盤) / VICL-36199 (通常盤) | 23位 |
-| 15th       | [2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")                                       | **[美しい名前](https://ja.wikipedia.org/wiki/美しい名前 "wikilink")**                           | VICL-36234 (初回限定盤) / VICL-36235 (通常盤) | 24位 |
-| 16th       | 2007年[11月14日](../Page/11月14日.md "wikilink")                                                                    | **[罠](../Page/罠_\(THE_BACK_HORNの曲\).md "wikilink")**                                  | VICL-36361 (初回限定盤) / VICL-36362 (通常盤) | 9位  |
-| 17th       | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")                    | **[覚醒](https://ja.wikipedia.org/wiki/覚醒_\(THE_BACK_HORNの曲\) "wikilink")**             | VIZL-284 (初回限定盤) / VICL-36436 (通常盤)   | 15位 |
-| 18th       | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")                    | **[戦う君よ](https://ja.wikipedia.org/wiki/戦う君よ "wikilink")**                             | VIZL-375 (初回限定盤) / VICL-36572 (通常盤)   | 13位 |
-| 19th       | 2010年[8月4日](../Page/8月4日.md "wikilink")                                                                        | **[閉ざされた世界](https://ja.wikipedia.org/wiki/閉ざされた世界 "wikilink")**                       | VIZL-377 (初回限定盤) / VICL-36592 (通常盤)   | 14位 |
-| Digital    | [2011年](../Page/2011年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")                                       | **[世界中に花束を](https://ja.wikipedia.org/wiki/世界中に花束を "wikilink")**                       |                                       |     |
-| 20th       | [2012年](../Page/2012年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")                                         | **[シリウス](https://ja.wikipedia.org/wiki/シリウス_\(THE_BACK_HORNの曲\) "wikilink")**         | VICL-36691 (初回限定盤) / VICL-36692 (通常盤) | 22位 |
-| 21st       | [2013年](../Page/2013年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")                                       | **[バトルイマ](https://ja.wikipedia.org/wiki/バトルイマ "wikilink")**                           | VIZL-578                              | 13位 |
-| 22nd       | [2014年](../Page/2014年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")                                       | **[シンメトリー/コワレモノ](https://ja.wikipedia.org/wiki/シンメトリー/コワレモノ "wikilink")**             | VIZL-637 (初回限定盤) / VICL-36872 (通常盤)   | 22位 |
-| 23rd       | [2015年](../Page/2015年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")                                         | **[悪人/その先へ](https://ja.wikipedia.org/wiki/悪人/その先へ "wikilink")**                       | VIZL-858 (初回限定盤) / VICL-37090 (通常盤)   | 19位 |
-| 24th       | [2016年](../Page/2016年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")                                     | **[With You](https://ja.wikipedia.org/wiki/With_You_\(THE_BACK_HORNの曲\) "wikilink")** | VIZL-1072 (初回限定盤) / VICL-37231 (通常盤)  | 22位 |
-| 25th       | [2017年](../Page/2017年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")                                       | **[あなたが待ってる](https://ja.wikipedia.org/wiki/あなたが待ってる "wikilink")**                     | VIZL-1137(初回限定盤) / VICL-37253(通常盤)    | 21位 |
-| 26th       | 2017年[7月5日](../Page/7月5日.md "wikilink")                                                                        | '''[孤独を繋いで](https://ja.wikipedia.org/wiki/孤独を繋いで "wikilink") '''                      | VIZL-1165(初回限定盤)/VICL-37285(通常盤)      | 15位 |
-| Digital    | 2018年9月13日                                                                                                     | **ハナレバナレ**                                                                            |                                       |     |
+|            | 発売日                                                                                         | タイトル                                                                                  | 規格品番                                  | 順位  |
+| ---------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------- | --- |
+| インディーズ     |                                                                                             |                                                                                       |                                       |     |
+| Indies 1st | [2000年](../Page/2000年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")                    | **風船**                                                                                | KACD-0003                             |     |
+| メジャー       |                                                                                             |                                                                                       |                                       |     |
+| 1st        | [2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")                    | **[サニー](https://ja.wikipedia.org/wiki/サニー_\(THE_BACK_HORNの曲\) "wikilink")**           | VICL-35236                            |     |
+| 2nd        | 2001年[8月22日](../Page/8月22日.md "wikilink")                                                   | **[空、星、海の夜](https://ja.wikipedia.org/wiki/空、星、海の夜 "wikilink")**                       | VICL-35293                            | 71位 |
+| 3rd        | [2002年](../Page/2002年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")                    | **[世界樹の下で](https://ja.wikipedia.org/wiki/世界樹の下で "wikilink")**                         | VICL-35394                            | 69位 |
+| 4th        | 2002年[8月28日](../Page/8月28日.md "wikilink")                                                   | **[涙がこぼれたら](https://ja.wikipedia.org/wiki/涙がこぼれたら "wikilink")**                       | VICL-35425                            | 75位 |
+| 5th        | [2003年](../Page/2003年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")                    | **[未来](https://ja.wikipedia.org/wiki/未来_\(THE_BACK_HORNの曲\) "wikilink")**             | VICL-35464                            | 49位 |
+| 6th        | 2003年[6月18日](../Page/6月18日.md "wikilink")                                                   | **[光の結晶](https://ja.wikipedia.org/wiki/光の結晶 "wikilink")**                             | VICL-35547                            | 55位 |
+| 7th        | 2003年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")                                | **[生命線](https://ja.wikipedia.org/wiki/生命線_\(曲\) "wikilink")**                         | VICL-35566                            | 60位 |
+| 8th        | [2004年](../Page/2004年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                    | **[夢の花](https://ja.wikipedia.org/wiki/夢の花 "wikilink")**                               | VICL-35694 (初回限定盤) / VICL-35695 (通常盤) | 29位 |
+| 9th        | 2004年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")                                | **[コバルトブルー](https://ja.wikipedia.org/wiki/コバルトブルー_\(曲\) "wikilink")**                 | VICL-35708 (初回限定盤) / VICL-35709 (通常盤) | 30位 |
+| 10th       | [2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") | **[キズナソング](https://ja.wikipedia.org/wiki/キズナソング "wikilink")**                         | VICL-35758 (初回限定盤) / VICL-35759 (通常盤) | 36位 |
+| 11th       | 2005年[12月16日](../Page/12月16日.md "wikilink")                                                 | **[ブラックホールバースデイ](https://ja.wikipedia.org/wiki/ブラックホールバースデイ "wikilink")**             | VIZL-161 (初回限定盤) / VICL-35928 (通常盤)   | 32位 |
+| 12th       | [2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")                      | **[初めての呼吸で](https://ja.wikipedia.org/wiki/初めての呼吸で "wikilink")**                       | VICL-35940                            | 34位 |
+| 13th       | 2006年[3月22日](../Page/3月22日.md "wikilink")                                                   | **[カオスダイバー](https://ja.wikipedia.org/wiki/カオスダイバー "wikilink")**                       | VIZL-174 (初回限定盤) / VICL-35945 (通常盤)   | 31位 |
+| 14th       | 2006年[12月20日](../Page/12月20日.md "wikilink")                                                 | **[声](https://ja.wikipedia.org/wiki/声_\(THE_BACK_HORNの曲\) "wikilink")**               | VICL-36192 (初回限定盤) / VICL-36199 (通常盤) | 23位 |
+| 15th       | [2007年](../Page/2007年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")                    | **[美しい名前](https://ja.wikipedia.org/wiki/美しい名前 "wikilink")**                           | VICL-36234 (初回限定盤) / VICL-36235 (通常盤) | 24位 |
+| 16th       | 2007年[11月14日](../Page/11月14日.md "wikilink")                                                 | **[罠](../Page/罠_\(THE_BACK_HORNの曲\).md "wikilink")**                                  | VICL-36361 (初回限定盤) / VICL-36362 (通常盤) | 9位  |
+| 17th       | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月21日](../Page/5月21日.md "wikilink") | **[覚醒](https://ja.wikipedia.org/wiki/覚醒_\(THE_BACK_HORNの曲\) "wikilink")**             | VIZL-284 (初回限定盤) / VICL-36436 (通常盤)   | 15位 |
+| 18th       | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月21日](../Page/4月21日.md "wikilink") | **[戦う君よ](https://ja.wikipedia.org/wiki/戦う君よ "wikilink")**                             | VIZL-375 (初回限定盤) / VICL-36572 (通常盤)   | 13位 |
+| 19th       | 2010年[8月4日](../Page/8月4日.md "wikilink")                                                     | **[閉ざされた世界](https://ja.wikipedia.org/wiki/閉ざされた世界 "wikilink")**                       | VIZL-377 (初回限定盤) / VICL-36592 (通常盤)   | 14位 |
+| Digital    | [2011年](../Page/2011年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")                    | **[世界中に花束を](https://ja.wikipedia.org/wiki/世界中に花束を "wikilink")**                       |                                       |     |
+| 20th       | [2012年](../Page/2012年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")                      | **[シリウス](https://ja.wikipedia.org/wiki/シリウス_\(THE_BACK_HORNの曲\) "wikilink")**         | VICL-36691 (初回限定盤) / VICL-36692 (通常盤) | 22位 |
+| 21st       | [2013年](../Page/2013年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")                    | **[バトルイマ](https://ja.wikipedia.org/wiki/バトルイマ "wikilink")**                           | VIZL-578                              | 13位 |
+| 22nd       | [2014年](../Page/2014年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")                    | **[シンメトリー/コワレモノ](https://ja.wikipedia.org/wiki/シンメトリー/コワレモノ "wikilink")**             | VIZL-637 (初回限定盤) / VICL-36872 (通常盤)   | 22位 |
+| 23rd       | [2015年](../Page/2015年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")                      | **[悪人/その先へ](https://ja.wikipedia.org/wiki/悪人/その先へ "wikilink")**                       | VIZL-858 (初回限定盤) / VICL-37090 (通常盤)   | 19位 |
+| 24th       | [2016年](../Page/2016年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")                  | **[With You](https://ja.wikipedia.org/wiki/With_You_\(THE_BACK_HORNの曲\) "wikilink")** | VIZL-1072 (初回限定盤) / VICL-37231 (通常盤)  | 22位 |
+| 25th       | [2017年](../Page/2017年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")                    | **[あなたが待ってる](https://ja.wikipedia.org/wiki/あなたが待ってる "wikilink")**                     | VIZL-1137(初回限定盤) / VICL-37253(通常盤)    | 21位 |
+| 26th       | 2017年[7月5日](../Page/7月5日.md "wikilink")                                                     | '''[孤独を繋いで](https://ja.wikipedia.org/wiki/孤独を繋いで "wikilink") '''                      | VIZL-1165(初回限定盤)/VICL-37285(通常盤)      | 15位 |
+| Digital    | 2018年9月13日                                                                                  | **ハナレバナレ**                                                                            |                                       |     |
 
 ### アルバム
 
@@ -150,7 +150,7 @@
 <tr class="even">
 <td><p>1st</p></td>
 <td><p>2001年<a href="../Page/10月17日.md" title="wikilink">10月17日</a> (<a href="../Page/コピーコントロールCD.md" title="wikilink">CCCD</a>)<br />
-<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a> (CD)</p></td>
+<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a> (CD)</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/人間プログラム" title="wikilink">人間プログラム</a></strong></p></td>
 <td><p>VICL-60795 (CCCD)<br />
 VICL-61744 (CD)</p></td>
@@ -433,7 +433,7 @@ VICL-61506 (通常盤)</p></td>
 <td><p>flying DOG</p></td>
 </tr>
 <tr class="odd">
-<td><p>2008年<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p>2008年<a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong>極東最前線2</strong></p></td>
 <td><p>VPCC-8440</p></td>
 <td><p>何もない世界</p></td>
@@ -578,9 +578,9 @@ TYCT-60109 (通常盤)</p></td>
 
 | 曲名       | タイアップ                                                                                                                                                      |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| サニー      | [スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")2001年4月度[PUWER PUSH](../Page/スペースシャワーTV歴代POWER_PUSH一覧.md "wikilink")                      |
+| サニー      | [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")2001年4月度[PUWER PUSH](../Page/スペースシャワーTV歴代POWER_PUSH一覧.md "wikilink")                                         |
 | 未来       | 映画『[アカルイミライ](../Page/アカルイミライ.md "wikilink")』主題歌                                                                                                            |
-| レクイエム    | 映画『[CASSHERN](https://ja.wikipedia.org/wiki/CASSHERN "wikilink")』挿入歌                                                                                       |
+| レクイエム    | 映画『[CASSHERN](../Page/CASSHERN.md "wikilink")』挿入歌                                                                                                          |
 | コバルトブルー  | 日本ケロッグ「コーンフロスティ」CMソング                                                                                                                                      |
 | 奇跡       | 映画『[ZOO](https://ja.wikipedia.org/wiki/ZOO "wikilink")』主題歌                                                                                                 |
 | 罠        | アニメ『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』エンディングテーマ                                                                            |
@@ -613,7 +613,7 @@ TYCT-60109 (通常盤)</p></td>
   - 2008年12月 - マニアックヘブンVol.3～生命のプロミネンス～
   - 2010年02月23日〜04月20日 - THE BACK HORN presents"KYO-MEI大会"
       -
-        w/[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") / [MY WAY MY LOVE](../Page/MY_WAY_MY_LOVE.md "wikilink") / [SPECIAL OTHERS](../Page/SPECIAL_OTHERS.md "wikilink") / [UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink") / [BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink") / [ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink") / [ACIDMAN](../Page/ACIDMAN.md "wikilink") / [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink") / [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink") / [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") / [OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink") / [怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink") / [LOW IQ & THE BEAT BREAKER](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink") / [Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink") / [cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink") / [UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") / [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") / [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") / [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink") / [ミドリ](https://ja.wikipedia.org/wiki/ミドリ "wikilink") / [THE YOUTH](../Page/THE_YOUTH.md "wikilink") / DOLCE / [MOGA THE \\5](https://ja.wikipedia.org/wiki/MOGA_THE_/5 "wikilink") / [andymori](https://ja.wikipedia.org/wiki/andymori "wikilink") / [a flood of circle](https://ja.wikipedia.org/wiki/a_flood_of_circle "wikilink") / [WRECKingCReW](https://ja.wikipedia.org/wiki/WRECKingCReW "wikilink") / DOSE / MY WAY MY LOVE
+        w/[BRAHMAN](../Page/BRAHMAN.md "wikilink") / [MY WAY MY LOVE](../Page/MY_WAY_MY_LOVE.md "wikilink") / [SPECIAL OTHERS](../Page/SPECIAL_OTHERS.md "wikilink") / [UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink") / [BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink") / [ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink") / [ACIDMAN](../Page/ACIDMAN.md "wikilink") / [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink") / [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink") / [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") / [OGRE YOU ASSHOLE](../Page/OGRE_YOU_ASSHOLE.md "wikilink") / [怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink") / [LOW IQ & THE BEAT BREAKER](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink") / [Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink") / [cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink") / [UNLIMITS](https://ja.wikipedia.org/wiki/UNLIMITS "wikilink") / [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") / [GOING UNDER GROUND](../Page/GOING_UNDER_GROUND.md "wikilink") / [サンボマスター](../Page/サンボマスター.md "wikilink") / [ミドリ](https://ja.wikipedia.org/wiki/ミドリ "wikilink") / [THE YOUTH](../Page/THE_YOUTH.md "wikilink") / DOLCE / [MOGA THE \\5](https://ja.wikipedia.org/wiki/MOGA_THE_/5 "wikilink") / [andymori](https://ja.wikipedia.org/wiki/andymori "wikilink") / [a flood of circle](https://ja.wikipedia.org/wiki/a_flood_of_circle "wikilink") / [WRECKingCReW](https://ja.wikipedia.org/wiki/WRECKingCReW "wikilink") / DOSE / MY WAY MY LOVE
   - 2010年07月09日 - 「KYO-MEIワンマンホールライブ」～メビウス戦線異状アリ～
   - 2010年10月06日〜12月06日 - KYO-MEIツアー 〜アサイラム〜
   - 2010年12月20日 - マニアックヘブンvol.5
@@ -685,11 +685,11 @@ TYCT-60109 (通常盤)</p></td>
   - 2006年12月30日・31日 - COUNTDOWN JAPAN 06/07
   - 2007年04月29日 - ARABAKI ROCK FEST.07
   - 2007年08月25日 - OTODAMA '07 音泉魂
-  - 2007年09月03日・05日・07日 - [ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink") TOUR 2007
+  - 2007年09月03日・05日・07日 - [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") TOUR 2007
   - 2007年10月19日 - [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") LIVE TOUR YOUNG FLAG 07
   - 2007年12月30日・31日 - COUNTDOWN JAPAN 07/08
   - 2008年04月27日 - ARABAKI ROCK FEST.08
-  - 2008年06月22日 - [GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink") 2マンTour"徹子のHair"ファイナル
+  - 2008年06月22日 - [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink") 2マンTour"徹子のHair"ファイナル
   - 2008年06月29日 - [湘南音祭](https://ja.wikipedia.org/wiki/湘南音祭 "wikilink")Vol.2
   - 2008年07月13日 - SPACE SHOWER TV presents Double Punch II
   - 2008年07月26日 - [SETSTOCK](../Page/SETSTOCK.md "wikilink") 2008
@@ -703,21 +703,21 @@ TYCT-60109 (通常盤)</p></td>
   - 2009年06月12日・13日・19日・26日・28日・7月8日 - THE BACK HORN × [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") 「大惨事目眩大戦」
   - 2009年07月25日 - [凛として時雨](https://ja.wikipedia.org/wiki/凛として時雨 "wikilink")×THE BACK HORN「トキニ雨＃12」
   - 2009年07月31日 - ROCK IN JAPAN FESTIVAL 2009
-  - 2009年08月20日 - THE BACK HORN × [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") “Blue Monochrome 2”
+  - 2009年08月20日 - THE BACK HORN × [BRAHMAN](../Page/BRAHMAN.md "wikilink") “Blue Monochrome 2”
   - 2009年08月23日 - [Sky Jamboree](https://ja.wikipedia.org/wiki/Sky_Jamboree "wikilink") '09 〜新呼吸〜
   - 2009年08月29日 - SPACE SHOWER SWEET LOVE SHOWER 2009
   - 2009年09月19日 - SCHOOL OF LOCK\! LIVE TOUR YOUNG FLAG 09
-  - 2009年10月11日 - [北星学園大学](https://ja.wikipedia.org/wiki/北星学園大学 "wikilink")学園祭・SPECIAL LIVE 2009 IN 星学祭
+  - 2009年10月11日 - [北星学園大学](../Page/北星学園大学.md "wikilink")学園祭・SPECIAL LIVE 2009 IN 星学祭
   - 2009年10月18日 - 207万人の天才。風とロックFES 福島
   - 2009年11月24日 - 千葉LOOK 20th ANNIVERSARY "6x9=53days"
   - 2009年12月29日 - COUNTDOWN JAPAN 09/10
   - 2009年12月30日 - [RADIO CRAZY](https://ja.wikipedia.org/wiki/RADIO_CRAZY "wikilink") 2009
-  - 2010年03月19日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") BONDS FINAL TOUR
+  - 2010年03月19日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") BONDS FINAL TOUR
   - 2010年05月02日 - ARABAKI ROCK FEST.10
   - 2010年05月15日 - BEA presents F-X 2010
   - 2010年7月3日 - [the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink") ANOMALY TOUR 2010
   - 2010年05月16日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink") 2010(松田晋二のみ)
-  - 2010年07月21日 - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") presents GG10
+  - 2010年07月21日 - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink") presents GG10
   - 2010年07月31日 - SETSTOCK 2010
   - 2010年08月08日 - ROCK IN JAPAN FESTIVAL 2010
   - 2010年08月14日 - RISING SUN ROCK FESTIVAL 2010 in EZO
@@ -740,7 +740,7 @@ TYCT-60109 (通常盤)</p></td>
   - 2011年09月17日 - LIVE福島 風とロックSUPER野馬追
   - 2011年09月23日 - GG11 -GG 10th Anniversary-
   - 2011年09月25日 - [いしがきミュージックフェスティバル](https://ja.wikipedia.org/wiki/いしがきミュージックフェスティバル "wikilink") 2011
-  - 2011年11月15日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") 2011 TOUR「霹靂」
+  - 2011年11月15日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") 2011 TOUR「霹靂」
   - 2011年12月30日 - RADIO CRAZY 2011
   - 2011年12月31日 - COUNTDOWN JAPAN 11/12
   - 2012年01月07日 - "KESEN ROCK TOKYO" round 6.
@@ -750,13 +750,13 @@ TYCT-60109 (通常盤)</p></td>
   - 2012年03月20日 - SANUKI ROCK COLOSSEUM〜BUSTA CUP 3rd round〜
   - 2012年03月25日 - 卒フェス2012 〜サクラサクトキトビラアク〜
   - 2012年03月29日 - 「FLEA SOUNDS」Supported by [ZIP-FM](../Page/ZIP-FM.md "wikilink")「[FIND OUT](https://ja.wikipedia.org/wiki/FIND_OUT "wikilink")」
-  - 2012年04月27日 - [フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")×[斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")「フラカン和義のロッククンロール500万ボルト」
+  - 2012年04月27日 - [フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")×[斉藤和義](../Page/斉藤和義.md "wikilink")「フラカン和義のロッククンロール500万ボルト」
   - 2012年04月29日 - ARABAKI ROCK FEST.12
   - 2012年04月30日 - Niigata Rainbow ROCK Market
   - 2012年06月03日 - [SAKAE SP-RING](https://ja.wikipedia.org/wiki/SAKAE_SP-RING "wikilink") 2012
   - 2012年06月03日 - [UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")/THE BACK HORN
   - 2012年06月18日 - [lego big morl](https://ja.wikipedia.org/wiki/lego_big_morl "wikilink") LIVE 2012 "Thanks Giving" vol.3
-  - 2012年06月29日 - [POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")×清水音泉『POLYONSEN 2012〜テルマエ・ロマンと人間風呂グラム♨〜』
+  - 2012年06月29日 - [POLYSICS](../Page/POLYSICS.md "wikilink")×清水音泉『POLYONSEN 2012〜テルマエ・ロマンと人間風呂グラム♨〜』
   - 2012年07月01日 - LAST ZEPP SENDAI
   - 2012年07月05日 - [locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink") TOUR 2012 "SINCE 1998"
   - 2012年07月12日 - [a flood of circle](https://ja.wikipedia.org/wiki/a_flood_of_circle "wikilink") presents VS tour "(LOVE IS LIKE A) SUMMERTIME BLUES The Circuit"
@@ -785,7 +785,7 @@ TYCT-60109 (通常盤)</p></td>
   - 2013年05月06日 - 風とロック広島 LIVE福島 CARAVAN日本
   - 2013年05月18日・19日 - [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink") 21st CENTURY ROCK BAND TOUR
   - 2013年05月30日 - [ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink") 縁舞 -vol.7-
-  - 2013年05月31日・6月02日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") Tour 相克
+  - 2013年05月31日・6月02日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") Tour 相克
   - 2013年06月09日 - 春日組魂2013 supported by レコメンダー
   - 2013年07月13日 - RollingStone presents THE ROCK FACTORY Vol.4
   - 2013年07月18日 - Talking Rock\! FES.2013
@@ -812,7 +812,7 @@ TYCT-60109 (通常盤)</p></td>
   - 2014年07月20日 - KESEN ROCK FESTIVAL'14
   - 2014年07月27日 - OGA NAMAHAGE ROCK FESTIVAL VOL.5
   - 2014年08月03日 - ROCK IN JAPAN FESTIVAL 2014
-  - 2014年08月12日 - [音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink") LIVE 2014 さらば、友よ「俺達の旅は、8月の秘密」
+  - 2014年08月12日 - [音楽と人](../Page/音楽と人.md "wikilink") LIVE 2014 さらば、友よ「俺達の旅は、8月の秘密」
   - 2014年08月23日 - MONSTER baSH 2014
   - 2014年08月24日 - Re:mix 2014
   - 2014年08月31日 - SPACE SHOWER SWEET LOVE SHOWER 2014
@@ -825,7 +825,7 @@ TYCT-60109 (通常盤)</p></td>
   - 2014年09月27日 - 風とロック芋煮会2014
   - 2014年10月20日 - Light up the darkness vol.2
   - 2014年10月25日 - [龍谷大学](../Page/龍谷大学.md "wikilink") 第92回 龍谷祭ゲストライブ「Ryukoku Fes'14」
-  - 2014年10月26日 - [長岡大学](https://ja.wikipedia.org/wiki/長岡大学 "wikilink") 2014年度 第13回 悠久祭 THE BACK HORN LIVE
+  - 2014年10月26日 - [長岡大学](../Page/長岡大学.md "wikilink") 2014年度 第13回 悠久祭 THE BACK HORN LIVE
   - 2014年10月28日 - スペースシャワー列伝 100巻記念公演 第110巻 燕子花の宴
   - 2014年11月02日 - YNU SPECIAL LIVE 2014
   - 2014年11月03日 - [大阪経済大学](../Page/大阪経済大学.md "wikilink") 第66回大樟祭
@@ -880,17 +880,17 @@ TYCT-60109 (通常盤)</p></td>
 
 ## 交友関係
 
-  - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")
+  - [BRAHMAN](../Page/BRAHMAN.md "wikilink")
       - 『無双の宴』やブラフマンが企画する『tantrism』シリーズへの参加など結成当初から長い付き合いが続いている。
   - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")
-      - ライブに参加したことを自ら公言している。我慢出来ずに観客がいるスタンディング席に紛れ込もうとしてマネージャーに止められていた。また、宇多田の4thアルバム『[ULTRA BLUE](../Page/ULTRA_BLUE.md "wikilink")』収録の「One Night Magic feat.Yamada Masashi」には山田が[コーラスで参加した](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。宇多田の元夫である[紀里谷和明](../Page/紀里谷和明.md "wikilink")は、初期のTHE BACK HORNの楽曲「風船」「空、星、海の夜」の[プロモーション・ビデオの監督を務めていた](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+      - ライブに参加したことを自ら公言している。我慢出来ずに観客がいるスタンディング席に紛れ込もうとしてマネージャーに止められていた。また、宇多田の4thアルバム『[ULTRA BLUE](../Page/ULTRA_BLUE.md "wikilink")』収録の「One Night Magic feat.Yamada Masashi」には山田が[コーラスで参加した](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。宇多田の元夫である[紀里谷和明](../Page/紀里谷和明.md "wikilink")は、初期のTHE BACK HORNの楽曲「風船」「空、星、海の夜」の[プロモーション・ビデオの監督を務めていた](../Page/ミュージック・ビデオ.md "wikilink")。
   - [COCK ROACH](https://ja.wikipedia.org/wiki/COCK_ROACH "wikilink")
       - 共にライブを開催したり、彼らのラストライブにシークレットゲストで登場して彼らの楽曲をカバーするなど、交流が深かった。
   - [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")
       - THE BACK HORNの対バンツアーに参加している。2008年の「爪爪爪 TOUR」にはTHE BACK HORNも対バンとして参加した。
   - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")
       - 2009年に「大惨事目眩大戦」、2014年には「決闘披露宴」と題した対バンツアーを実施。2015年3月に9mm Parabellum Bulletの菅原卓郎、中村和彦、かみじょうちひろと菅波栄純から成る1日限定バンド「**栄純の恩返し**」を結成し、ライブを行った\[5\]。
-  - [ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")
+  - [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")
       - ELLEGARDEN TOUR 2007にゲストとして参加した。また、ELLEGARDEN活動休止後も[Nothing's Carved In Stoneや](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")[the HIATUSと共演している](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")。
   - [MUCC](../Page/MUCC.md "wikilink")
       - メンバー全員山田将司と同郷の茨城出身。2014年4月に開催されたSIX NINE WARS -ぼくらの七ヶ月間戦争- Episode 2.「VS」の郡山公演にTHE BACK HORNが出演。その後KYO-MEI対バンツアーにおいて2015年の大阪公演と2017年の川崎公演にMUCCが出演した。2017年にはMUCC結成20周年記念のトリビュート・アルバムに「最終列車」で参加した後、同年12月27日に開催された20周年を祝うフェス20TH ANNIVERSARY MUCC祭「えん7 FINAL」in 武道館にTHE BACK HORNが出演した。

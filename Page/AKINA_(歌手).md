@@ -7,7 +7,7 @@
 
 ## 来歴
 
-小学校時代は、[沖縄アクターズスクール](https://ja.wikipedia.org/wiki/沖縄アクターズスクール "wikilink")のメンバーで結成したグループの[Folder](../Page/Folder_\(音楽グループ\).md "wikilink")、後に女性のみで再構成した[Folder5](../Page/Folder5.md "wikilink")のフロントメンバーとしてアイドル的な人気を博した。しかし、セールス上で伸び悩み、Folder5が事実上の活動休止状態となった[2002年](../Page/2002年.md "wikilink")後半からはソロで音楽活動を行い、[テレビドラマ](../Page/テレビドラマ.md "wikilink")・[ラジオ番組](../Page/ラジオ番組.md "wikilink")・[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")などにも顔を出している。2008年には水着グラビアにも進出\[2\]。近年は[舞台女優としての活動が多くなっていたが](https://ja.wikipedia.org/wiki/舞台俳優 "wikilink")、2011年3月3日、渋谷CLUB CRAWLにて、ソロ転向後初めての単独ライブを行った。
+小学校時代は、[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")のメンバーで結成したグループの[Folder](../Page/Folder_\(音楽グループ\).md "wikilink")、後に女性のみで再構成した[Folder5](../Page/Folder5.md "wikilink")のフロントメンバーとしてアイドル的な人気を博した。しかし、セールス上で伸び悩み、Folder5が事実上の活動休止状態となった[2002年](../Page/2002年.md "wikilink")後半からはソロで音楽活動を行い、[テレビドラマ](../Page/テレビドラマ.md "wikilink")・[ラジオ番組](../Page/ラジオ番組.md "wikilink")・[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")などにも顔を出している。2008年には水着グラビアにも進出\[2\]。近年は[舞台女優としての活動が多くなっていたが](https://ja.wikipedia.org/wiki/舞台俳優 "wikilink")、2011年3月3日、渋谷CLUB CRAWLにて、ソロ転向後初めての単独ライブを行った。
 
 デビューから[ヴィジョンファクトリー](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー "wikilink")に所属していたが（[レーベルは](../Page/レコードレーベル.md "wikilink")[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")）、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にK-pointと業務提携を締結した。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にヴィジョンファクトリーからK-pointへ移籍した。
 
@@ -17,12 +17,12 @@
 
 デビュー20周年となる2017年の12月に、久々の本格的な歌手活動となるミニアルバム『Flash』を[花とポップス](https://ja.wikipedia.org/wiki/花とポップス "wikilink")よりリリース\[5\]。
 
-私生活では、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")主催の食事会「天野会」で意気投合して2011年秋より交際を開始し\[6\]2012年7月に交際が報じられていた[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")と、旅行先の[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[図書館にてAKINAからプロポーズし](https://ja.wikipedia.org/wiki/ニューヨーク公共図書館 "wikilink")、翌2013年4月30日に結婚\[7\]\[8\]。2013年5月14日、かねてから交際していた大木と同年4月30日に結婚したことが報じられ\[9\]、同日放送の『[PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")』内にて大木が生報告した\[10\]。同年11月23日に故郷の沖縄にて挙式した\[11\]。2015年4月5日に第1子懐妊をブログで報告し\[12\]、8月27日に女児を[帝王切開](../Page/帝王切開.md "wikilink")にて出産した\[13\]\[14\]。
+私生活では、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")主催の食事会「天野会」で意気投合して2011年秋より交際を開始し\[6\]2012年7月に交際が報じられていた[ビビる大木](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")と、旅行先の[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[図書館にてAKINAからプロポーズし](../Page/ニューヨーク公共図書館.md "wikilink")、翌2013年4月30日に結婚\[7\]\[8\]。2013年5月14日、かねてから交際していた大木と同年4月30日に結婚したことが報じられ\[9\]、同日放送の『[PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")』内にて大木が生報告した\[10\]。同年11月23日に故郷の沖縄にて挙式した\[11\]。2015年4月5日に第1子懐妊をブログで報告し\[12\]、8月27日に女児を[帝王切開](../Page/帝王切開.md "wikilink")にて出産した\[13\]\[14\]。
 
 ## エピソード
 
   - 本名の「明那（アキナ）」は、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")にちなんだものである。
-  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")with[SUPER MONKEY'Sのオーディションに参加した事がきっかけで](https://ja.wikipedia.org/wiki/SUPER_MONKEY'S "wikilink")[沖縄アクターズスクール](https://ja.wikipedia.org/wiki/沖縄アクターズスクール "wikilink")に入所した。
+  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")with[SUPER MONKEY'Sのオーディションに参加した事がきっかけで](../Page/SUPER_MONKEY'S.md "wikilink")[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")に入所した。
   - [満島ひかり](https://ja.wikipedia.org/wiki/満島ひかり "wikilink")は「月刊 満島ひかり」のインタビューで「アクターズスクールで一番仲良かったのは宮里明那ですね。とても、ひょうきん者で演歌好きな女の子だった」「自分の個性、ここは譲れないというのが一番あった子で、話が合いました」と語っている。なお、第83回[キネマ旬報賞にて満島は助演女優賞受賞](https://ja.wikipedia.org/wiki/キネマ旬報#キネマ旬報ベスト・テン "wikilink")、AKINAは新人女優賞にノミネートされており、AKINAが受賞していれば、授賞式でFolder5の活動休止後、初めてメンバーが共演する可能性があった。
   - 2011年、沖縄に帰郷したAKINAが[石原萌](https://ja.wikipedia.org/wiki/石原萌 "wikilink")と再会し、その際の写真をブログに掲載した。これにより、Folder5の活動休止後、初めてメンバーが共演した。
   - ビビる大木が[2013年](../Page/2013年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")に放送された自身が司会を務める情報番組「[PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")」の中で、前月30日にAKINAと結婚したことを公表した際に、当日の同番組には、満島ひかりが自身の主演舞台のPRのために生出演していた。
@@ -165,17 +165,17 @@
 
 ### 舞台
 
-  - [中野ブロンディーズ](https://ja.wikipedia.org/wiki/中野ブロンディーズ "wikilink")（2008年12月20日 - 25日、[新国立劇場](https://ja.wikipedia.org/wiki/新国立劇場 "wikilink")小劇場公演） - 主演・瑞希 役
+  - [中野ブロンディーズ](https://ja.wikipedia.org/wiki/中野ブロンディーズ "wikilink")（2008年12月20日 - 25日、[新国立劇場](../Page/新国立劇場.md "wikilink")小劇場公演） - 主演・瑞希 役
   - Love Musical（2009年9月1日 - 13日、全18公演、[赤坂レッドシアター](https://ja.wikipedia.org/wiki/赤坂レッドシアター "wikilink")）- ヒロイン・葵 役
   - スペースシャトルショー第2回公演「BUTLER × BATTLER 〜執事王選手権〜」（2010年1月21日 - 24日、[シアターサンモール](https://ja.wikipedia.org/wiki/シアターサンモール "wikilink")）- ヒロイン・ミヤビ 役
   - AND ENDLESS spring edition 2010「PANDORA'S BY ME 〜NEW WORLD〜」（2010年5月19日 - 30日、[東京芸術劇場](../Page/東京芸術劇場.md "wikilink")小ホール1）- ヒロイン・ニケ 役
   - NEWRAGTIME S\&D session1「NEW WORLD／ESORA\]（2011年6月8日 - 12日、[俳優座劇場](https://ja.wikipedia.org/wiki/俳優座劇場 "wikilink")）
-  - [源氏物語×大黒摩季songs〜ボクは、十二単に恋をする〜](https://ja.wikipedia.org/wiki/源氏物語×大黒摩季songs〜ボクは、十二単に恋をする〜 "wikilink")（2012年5月11日 - 20日、[天王洲 銀河劇場](../Page/天王洲_銀河劇場.md "wikilink")） - [葵の上](https://ja.wikipedia.org/wiki/葵の上 "wikilink") 役
+  - [源氏物語×大黒摩季songs〜ボクは、十二単に恋をする〜](https://ja.wikipedia.org/wiki/源氏物語×大黒摩季songs〜ボクは、十二単に恋をする〜 "wikilink")（2012年5月11日 - 20日、[天王洲 銀河劇場](../Page/天王洲_銀河劇場.md "wikilink")） - [葵の上](../Page/葵の上.md "wikilink") 役
   - \+GOLD FISH（2013年2月7日 - 16日、東京芸術劇場）
 
 ### 映画
 
-  - [南の島のフリムン](https://ja.wikipedia.org/wiki/南の島のフリムン "wikilink")（2009年8月公開、監督：[照屋年之](https://ja.wikipedia.org/wiki/ゴリ_\(お笑い芸人\) "wikilink")、沖縄国際映画祭2009出品予定） - りみ 役
+  - [南の島のフリムン](https://ja.wikipedia.org/wiki/南の島のフリムン "wikilink")（2009年8月公開、監督：[照屋年之](../Page/ゴリ_\(お笑い芸人\).md "wikilink")、沖縄国際映画祭2009出品予定） - りみ 役
   - [走り屋ZEROII -ストリート伝説-](https://ja.wikipedia.org/wiki/走り屋ZEROII_-ストリート伝説- "wikilink")（2009年6月公開、監督：[広瀬陽](https://ja.wikipedia.org/wiki/広瀬陽 "wikilink")） - くるみ 役
   - [メンゲキ\!](https://ja.wikipedia.org/wiki/メンゲキ! "wikilink")（2012年1月公開、メディア4） - 木村美世 役
   - [ハルサーエイカー THE MOVIE エイカーズ](https://ja.wikipedia.org/wiki/ハルサーエイカー2#映画『ハルサーエイカー_THE_MOVIE_エイカーズ』 "wikilink")（2015年1月公開） - 田畑ハル 役
@@ -199,9 +199,9 @@
 
   -   - 9月8日 [GIRL POP FACTORY](https://ja.wikipedia.org/wiki/GIRL_POP_FACTORY "wikilink")02（[フジテレビ721](https://ja.wikipedia.org/wiki/フジテレビTWO "wikilink")）
       - 10月6日 〃（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-      - 11月5日 [MUSIX\!](https://ja.wikipedia.org/wiki/MUSIX! "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-      - 11月7日 [AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink") 01（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）、[うたばん](../Page/うたばん.md "wikilink")（TBS）、[Channel a](https://ja.wikipedia.org/wiki/Channel_a "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
-      - 11月10日 [BEAT MOTION](https://ja.wikipedia.org/wiki/BEAT_MOTION "wikilink")（[NHK-BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")）
+      - 11月5日 [MUSIX\!](../Page/MUSIX!.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+      - 11月7日 [AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink") 01（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）、[うたばん](../Page/うたばん.md "wikilink")（TBS）、[Channel a](https://ja.wikipedia.org/wiki/Channel_a "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）
+      - 11月10日 [BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")（[NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
       - 11月18日 [HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")（フジテレビ）
       - 11月23日 [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
       - 12月14日 [めちゃ2イケてるッ\!](https://ja.wikipedia.org/wiki/めちゃ2イケてるッ! "wikilink")（フジテレビ） - 「[フジテレビ警察](https://ja.wikipedia.org/wiki/めちゃ2イケてるッ!#フジTV警察24時 "wikilink")」のコーナーで[きくち伸](../Page/きくち伸.md "wikilink")プロデューサーから[ストーカー](../Page/ストーカー.md "wikilink")被害に遭う役柄。
@@ -211,9 +211,9 @@
       - 1月1日 第40回[新春かくし芸大会](../Page/新春かくし芸大会.md "wikilink")（フジテレビ） - 扇子オブ・ファンタジアを披露。
       - 1月9日 Channel a
       - 1月11日 [BSジュニアのど自慢](https://ja.wikipedia.org/wiki/BSジュニアのど自慢 "wikilink")（NHK-BS2）
-      - 7月5日 [viewsic](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")（CS731）
+      - 7月5日 [viewsic](../Page/MUSIC_ON!_TV.md "wikilink")（CS731）
       - 7月8日 [おはスタ](../Page/おはスタ.md "wikilink")（テレビ東京）
-      - 7月9日 [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")（日本テレビ）
+      - 7月9日 [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")（日本テレビ）
       - 7月10日 Channel a
       - 8月10日 ピチ☆レモネード（CS731）
       - 8月29日 GIRL POP FACTORY03（CS721）
@@ -239,12 +239,12 @@
       - 10月13日 AKIBAッテキ\!\!\!（[エンタ\!371](https://ja.wikipedia.org/wiki/エンタ!371 "wikilink")） - [ディアステージDEMPAから公開生放送](https://ja.wikipedia.org/wiki/秋葉原ディアステージ "wikilink")。
       - 10月29日 [地球調査船アメディゾン](../Page/地球調査船アメディゾン.md "wikilink")（テレビ東京）
       - 10月31日 [浜ちゃんが\!](https://ja.wikipedia.org/wiki/浜ちゃんが! "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
-      - 11月1日 [南パラZ\!](https://ja.wikipedia.org/wiki/南パラZ! "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
+      - 11月1日 [南パラZ\!](../Page/南パラZ!.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
       - 11月3日 [ガレッジ×ビレッジ](../Page/ガレッジ×ビレッジ.md "wikilink")（テレビ東京）
       - 11月16日 [お笑いワイドショー マルコポロリ\!](../Page/お笑いワイドショー_マルコポロリ!.md "wikilink")（関西テレビ）
       - 11月17日 [全力坂](../Page/全力坂.md "wikilink") NO.482 一の坂（テレビ朝日）
       - 11月26日 〃 NO.486 四の坂
-      - 12月2日 [最終警告\!たけしの本当は怖い家庭の医学](https://ja.wikipedia.org/wiki/最終警告!たけしの本当は怖い家庭の医学 "wikilink")（テレビ朝日）
+      - 12月2日 [最終警告\!たけしの本当は怖い家庭の医学](../Page/最終警告!たけしの本当は怖い家庭の医学.md "wikilink")（テレビ朝日）
       - 12月5日 [ロンブーの怪傑\!トリックスター](../Page/ロンブーの怪傑!トリックスター.md "wikilink")（テレビ東京）
       - 12月13日 [業界技術狩人 ギョーテック](https://ja.wikipedia.org/wiki/業界技術狩人_ギョーテック "wikilink")（テレビ朝日）
       - 12月29日 ラッキーナンバーSHOW（テレビ朝日）
@@ -284,21 +284,21 @@
       - 7月2日 BAY COMFORT（[bayfm](../Page/ベイエフエム.md "wikilink")）
       - 7月4日 club beat freak（[TFM](../Page/エフエム東京.md "wikilink")）
       - 7月9日 [吉田照美のやる気MANMAN\!](../Page/吉田照美のやる気MANMAN!.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）、[The Nutty Radio Show 鬼玉](https://ja.wikipedia.org/wiki/The_Nutty_Radio_Show_鬼玉 "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")）
-      - 10月4日 〜[サタデーホットリクエスト](https://ja.wikipedia.org/wiki/サタデーホットリクエスト "wikilink")（[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")） - レギュラー。
+      - 10月4日 〜[サタデーホットリクエスト](../Page/サタデーホットリクエスト.md "wikilink")（[NHK-FM](../Page/NHK-FM放送.md "wikilink")） - レギュラー。
   - 2004年
       - 4月22日 Ai キキミミアワー（TFM）
-      - 5月5日 [RADICAL LEAGUE](https://ja.wikipedia.org/wiki/RADICAL_LEAGUE "wikilink")（[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")）
+      - 5月5日 [RADICAL LEAGUE](../Page/RADICAL_LEAGUE.md "wikilink")（[FM-FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")）
       - 5月11日 The Nutty Radio Show 鬼玉
       - 5月12日 [レコメン\!](../Page/レコメン!.md "wikilink")（文化放送）
-      - 5月18日 [RADIO-X](https://ja.wikipedia.org/wiki/RADIO-X "wikilink")（NACK5）
+      - 5月18日 [RADIO-X](../Page/RADIO-X.md "wikilink")（NACK5）
   - 2005年
       - 12月24日 サタデーホットリクエスト - HOTライブで「One wish」披露。
-      - 12月27日 nemu RING RING（[J-WAVE](../Page/J-WAVE.md "wikilink")） - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")からの紹介。
+      - 12月27日 nemu RING RING（[J-WAVE](../Page/J-WAVE.md "wikilink")） - [三浦大知](../Page/三浦大知.md "wikilink")からの紹介。
   - 2006年
       - 5月27日 サタデーホットリクエストIN神戸っ！（[NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")）
   - 2008年
       - 6月21日 サタデーホットリクエスト京都スペシャル（[大谷大学](../Page/大谷大学.md "wikilink")講堂棟）
-      - 8月8日 [ゴチャ・まぜっ\!](https://ja.wikipedia.org/wiki/ゴチャ・まぜっ! "wikilink") （[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
+      - 8月8日 [ゴチャ・まぜっ\!](../Page/ゴチャ・まぜっ!.md "wikilink") （[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）
       - 8月22日 ラジカントロプス2.0（[ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")） - WEBでも配信していた。
       - 9月9日 RADICAL LEAGUE
       - 11月1日 高橋克実と山瀬まみおしゃべりキャッチミー（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
@@ -308,7 +308,7 @@
 </div>
 
   - 2009年
-      - 毎週土曜日 [サタデーホットリクエスト](https://ja.wikipedia.org/wiki/サタデーホットリクエスト "wikilink")（NHK-FM）14:00〜18:50
+      - 毎週土曜日 [サタデーホットリクエスト](../Page/サタデーホットリクエスト.md "wikilink")（NHK-FM）14:00〜18:50
 
 ### WEB
 
@@ -325,7 +325,7 @@
   - 2004年
       - 4月30日 ハイパーオンライン GIRLS ON THE WEB FILE No.104 - [参考](http://www.sonymagazines.jp/digi/game/girl/girl0404/)
   - 2007年
-      - 4月14日 VISION MOVIE Vol.6 - [MC担当](https://ja.wikipedia.org/wiki/司会 "wikilink")。
+      - 4月14日 VISION MOVIE Vol.6 - [MC担当](../Page/司会.md "wikilink")。
   - 2008年
       - 2月13日 [滝裕可里](../Page/滝裕可里.md "wikilink")オフィシャルブログ りかゆきた〜これも私。〜 - [ダンスレッスン](http://yukari.vision-blog.jp/archives/553354.html)
       - 7月18日 ORICON STYLE - [参考](https://beauty.oricon.co.jp/news/56267/full/)
@@ -404,21 +404,21 @@
       - 2月21日 [週刊現代](../Page/週刊現代.md "wikilink") 3/5号、[週刊ポスト](../Page/週刊ポスト.md "wikilink") 3/4号
   - 2008年
       - 7月18日 [スポーツ報知](../Page/スポーツ報知.md "wikilink")
-      - 7月19日 [週刊プレイボーイ](https://ja.wikipedia.org/wiki/週刊プレイボーイ "wikilink") 8/4号 - [袋とじ](../Page/袋とじ.md "wikilink")
+      - 7月19日 [週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink") 8/4号 - [袋とじ](../Page/袋とじ.md "wikilink")
       - 7月25日 雑誌[フライデー](https://ja.wikipedia.org/wiki/フライデー_\(雑誌\) "wikilink") 8/8号
       - 8月5日 [FLASH](../Page/FLASH_\(写真週刊誌\).md "wikilink") 8/19・26合併号
       - 8月9日 BOMB 9月号
       - 8月13日 [KING](../Page/KING_\(雑誌\).md "wikilink") 9月号
       - 8月22日 [週刊現代](../Page/週刊現代.md "wikilink") 9/6号
       - 8月24日 [B.L.T.](../Page/B.L.T..md "wikilink") 10月号
-      - 8月26日 [CARトップ](../Page/CARトップ.md "wikilink") 10月号 - 表紙、[週刊実話](https://ja.wikipedia.org/wiki/週刊実話 "wikilink") 9/11号 - [表紙](http://www.nihonjournal.jp/web/jituwa_200834/cover.html)、[ヤングチャンピオン](../Page/ヤングチャンピオン.md "wikilink") 18号
+      - 8月26日 [CARトップ](../Page/CARトップ.md "wikilink") 10月号 - 表紙、[週刊実話](../Page/週刊実話.md "wikilink") 9/11号 - [表紙](http://www.nihonjournal.jp/web/jituwa_200834/cover.html)、[ヤングチャンピオン](../Page/ヤングチャンピオン.md "wikilink") 18号
       - 8月30日 ENTAME 10月号 - ポスター付き。
       - 9月1日 [週刊大衆](../Page/週刊大衆.md "wikilink") 9/15号 - 表紙。
       - 9月6日 カスタムスクーター 10月号 - 表紙。
-      - 9月9日 [週刊アスキー](https://ja.wikipedia.org/wiki/週刊アスキー "wikilink") 9/23号、BOMB 10月号
+      - 9月9日 [週刊アスキー](../Page/週刊アスキー.md "wikilink") 9/23号、BOMB 10月号
       - 9月18日 [サイゾー](../Page/サイゾー.md "wikilink") 10月号 - [参考](http://www.cyzo.com/2008/09/post_919.html)
       - 9月29日 PCfan 10/15号 - [表紙](http://book.mycom.co.jp/pcfan/26203-10,15-08.shtml)
-      - 10月21日 週刊[SPA\!](https://ja.wikipedia.org/wiki/SPA! "wikilink") 10/28号 - 表紙。
+      - 10月21日 週刊[SPA\!](../Page/SPA!.md "wikilink") 10/28号 - 表紙。
       - 11月22日 [Samurai ELO](../Page/Samurai_ELO.md "wikilink") 1月号
       - 11月24日 B.L.T. 1月号
       - 11月29日 ENTAME 1月号
@@ -451,15 +451,15 @@
   - 2001年
       - 8月26日 写真集「AKINA」リリースイベント（[福家書店](../Page/福家書店.md "wikilink")銀座店）
   - 2002年
-      - 7月31日 [GIRL POP FACTORY](https://ja.wikipedia.org/wiki/GIRL_POP_FACTORY "wikilink")02（[Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp "wikilink")）
+      - 7月31日 [GIRL POP FACTORY](https://ja.wikipedia.org/wiki/GIRL_POP_FACTORY "wikilink")02（[Zepp Tokyo](../Page/Zepp.md "wikilink")）
       - 8月25日 写真集「AKINA STYLE」リリースイベント（福家書店銀座店）
       - 10月14日 オアシス21完成記念Music Fest2002（[NHK名古屋](../Page/NHK名古屋放送局.md "wikilink")） - 1曲披露。
   - 2003年
       - 8月9日 EZ「着うた」LIVESTATION（新宿ステーションスクエア） - 台風で中止。
       - 8月31日 〃（名古屋[星が丘テラス](../Page/星が丘テラス.md "wikilink")） - 2曲披露。
-      - 10月14日 GIRL POP FACTORY03（[お台場冒険王](https://ja.wikipedia.org/wiki/お台場冒険王 "wikilink")冒険ランド内冒険野外ステージ）
+      - 10月14日 GIRL POP FACTORY03（[お台場冒険王](../Page/お台場冒険王.md "wikilink")冒険ランド内冒険野外ステージ）
   - 2004年
-      - 5月16日 シングル「BEST OF LOVE」リリースイベント（[東京ドームシティ](../Page/東京ドームシティ.md "wikilink")[ラクーア](https://ja.wikipedia.org/wiki/ラクーア "wikilink")）、（東京ヤマギワソフト U-SHOP1） - 台風で中止
+      - 5月16日 シングル「BEST OF LOVE」リリースイベント（[東京ドームシティ](../Page/東京ドームシティ.md "wikilink")[ラクーア](../Page/ラクーア.md "wikilink")）、（東京ヤマギワソフト U-SHOP1） - 台風で中止
       - 5月21日 VISION Festa Vol.1（六本木morph-tokyo） - 3曲披露。
       - 5月23日 シングル「BEST OF LOVE」リリースイベント（大阪[千里中央](https://ja.wikipedia.org/wiki/千里中央 "wikilink")セルシー広場、広島[フタバ図書](../Page/フタバ図書.md "wikilink")TERA）
       - 5月30日 〃（名古屋ナディアパーク ）

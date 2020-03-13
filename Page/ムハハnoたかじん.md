@@ -104,7 +104,7 @@
 </tr>
 <tr class="even">
 <td><p>2004年11月19日</p></td>
-<td><p><a href="../Page/三宅久之.md" title="wikilink">三宅久之</a>、<a href="https://ja.wikipedia.org/wiki/舛添要一" title="wikilink">舛添要一</a></p></td>
+<td><p><a href="../Page/三宅久之.md" title="wikilink">三宅久之</a>、<a href="../Page/舛添要一.md" title="wikilink">舛添要一</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -124,7 +124,7 @@
 </tr>
 <tr class="even">
 <td><p>2005年1月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳳蘭" title="wikilink">鳳蘭</a>、かつみ・さゆり</p></td>
+<td><p><a href="../Page/鳳蘭.md" title="wikilink">鳳蘭</a>、かつみ・さゆり</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -134,7 +134,7 @@
 </tr>
 <tr class="even">
 <td><p>2005年1月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江守徹" title="wikilink">江守徹</a>、メッセンジャー黒田</p></td>
+<td><p><a href="../Page/江守徹.md" title="wikilink">江守徹</a>、メッセンジャー黒田</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@
 </tr>
 <tr class="odd">
 <td><p>2005年2月18日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/服部克久" title="wikilink">服部克久</a></p></td>
+<td><p><a href="../Page/服部克久.md" title="wikilink">服部克久</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -194,7 +194,7 @@
 </tr>
 <tr class="even">
 <td><p>2005年5月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/崔洋一" title="wikilink">崔洋一</a></p></td>
+<td><p><a href="../Page/崔洋一.md" title="wikilink">崔洋一</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -272,7 +272,7 @@
 </tr>
 <tr class="odd">
 <td><p>2006年10月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上公造" title="wikilink">井上公造</a></p></td>
+<td><p><a href="../Page/井上公造.md" title="wikilink">井上公造</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -307,7 +307,7 @@
 </tr>
 <tr class="even">
 <td><p>2006年12月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戸田奈津子" title="wikilink">戸田奈津子</a></p></td>
+<td><p><a href="../Page/戸田奈津子.md" title="wikilink">戸田奈津子</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年1月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ふじいあきら" title="wikilink">ふじいあきら</a></p></td>
+<td><p><a href="../Page/ふじいあきら.md" title="wikilink">ふじいあきら</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -327,12 +327,12 @@
 </tr>
 <tr class="even">
 <td><p>2007年1月26日</p></td>
-<td><p><a href="../Page/村上信五.md" title="wikilink">村上信五</a>、<a href="https://ja.wikipedia.org/wiki/安田章大" title="wikilink">安田章大</a>、<a href="../Page/大倉忠義.md" title="wikilink">大倉忠義</a>（<a href="https://ja.wikipedia.org/wiki/関ジャニ∞" title="wikilink">関ジャニ∞</a>）</p></td>
+<td><p><a href="../Page/村上信五.md" title="wikilink">村上信五</a>、<a href="../Page/安田章大.md" title="wikilink">安田章大</a>、<a href="../Page/大倉忠義.md" title="wikilink">大倉忠義</a>（<a href="https://ja.wikipedia.org/wiki/関ジャニ∞" title="wikilink">関ジャニ∞</a>）</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年2月2日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤弘道" title="wikilink">佐藤弘道</a></p></td>
+<td><p><a href="../Page/佐藤弘道.md" title="wikilink">佐藤弘道</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -367,7 +367,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年4月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤山直美" title="wikilink">藤山直美</a></p></td>
+<td><p><a href="../Page/藤山直美.md" title="wikilink">藤山直美</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -402,7 +402,7 @@
 </tr>
 <tr class="odd">
 <td><p>2007年6月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤登紀子" title="wikilink">加藤登紀子</a></p></td>
+<td><p><a href="../Page/加藤登紀子.md" title="wikilink">加藤登紀子</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -427,12 +427,12 @@
 </tr>
 <tr class="even">
 <td><p>2007年7月6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/栃東大裕" title="wikilink">栃東大裕</a></p></td>
+<td><p><a href="../Page/栃東大裕.md" title="wikilink">栃東大裕</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年7月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川畑泰史" title="wikilink">川畑泰史</a>、<a href="https://ja.wikipedia.org/wiki/小籔千豊" title="wikilink">小籔千豊</a></p></td>
+<td><p><a href="../Page/川畑泰史.md" title="wikilink">川畑泰史</a>、<a href="../Page/小籔千豊.md" title="wikilink">小籔千豊</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -447,7 +447,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年8月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/周防正行" title="wikilink">周防正行</a></p></td>
+<td><p><a href="../Page/周防正行.md" title="wikilink">周防正行</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -482,12 +482,12 @@
 </tr>
 <tr class="odd">
 <td><p>2007年10月12日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡野あつこ" title="wikilink">岡野あつこ</a></p></td>
+<td><p><a href="../Page/岡野あつこ.md" title="wikilink">岡野あつこ</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年10月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/彦摩呂" title="wikilink">彦摩呂</a>、<a href="https://ja.wikipedia.org/wiki/木之元亮" title="wikilink">木之元亮</a></p></td>
+<td><p><a href="../Page/彦摩呂.md" title="wikilink">彦摩呂</a>、<a href="../Page/木之元亮.md" title="wikilink">木之元亮</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -502,17 +502,17 @@
 </tr>
 <tr class="odd">
 <td><p>2007年11月9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野口健" title="wikilink">野口健</a></p></td>
+<td><p><a href="../Page/野口健.md" title="wikilink">野口健</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年11月30日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ" title="wikilink">パンツェッタ・ジローラモ</a></p></td>
+<td><p><a href="../Page/パンツェッタ・ジローラモ.md" title="wikilink">パンツェッタ・ジローラモ</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年12月7日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/海江田万里" title="wikilink">海江田万里</a></p></td>
+<td><p><a href="../Page/海江田万里.md" title="wikilink">海江田万里</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -522,13 +522,13 @@
 </tr>
 <tr class="odd">
 <td><p>2007年12月21日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青山繁晴" title="wikilink">青山繁晴</a>[17]</p></td>
+<td><p><a href="../Page/青山繁晴.md" title="wikilink">青山繁晴</a>[17]</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
 <td><p>2007年12月29日</p></td>
 <td><p>有田芳生、<a href="../Page/井口成人.md" title="wikilink">井口成人</a>、井上公造<br />
-<a href="../Page/勝谷誠彦.md" title="wikilink">勝谷誠彦</a>、<a href="../Page/村田晃嗣.md" title="wikilink">村田晃嗣</a>、<a href="https://ja.wikipedia.org/wiki/輪島功一" title="wikilink">輪島功一</a></p></td>
+<a href="../Page/勝谷誠彦.md" title="wikilink">勝谷誠彦</a>、<a href="../Page/村田晃嗣.md" title="wikilink">村田晃嗣</a>、<a href="../Page/輪島功一.md" title="wikilink">輪島功一</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -548,7 +548,7 @@
 </tr>
 <tr class="even">
 <td><p>2008年2月1日</p></td>
-<td><p>橋下徹、<a href="https://ja.wikipedia.org/wiki/平松邦夫" title="wikilink">平松邦夫</a></p></td>
+<td><p>橋下徹、<a href="../Page/平松邦夫.md" title="wikilink">平松邦夫</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -618,7 +618,7 @@
 </tr>
 <tr class="even">
 <td><p>2008年6月6日</p></td>
-<td><p>天童よしみ、<a href="https://ja.wikipedia.org/wiki/加藤和也_(ひばりプロダクション)" title="wikilink">加藤和也</a></p></td>
+<td><p>天童よしみ、<a href="../Page/加藤和也_(ひばりプロダクション).md" title="wikilink">加藤和也</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -643,7 +643,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008年7月11日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤田紀子" title="wikilink">藤田憲子</a></p></td>
+<td><p><a href="../Page/藤田紀子.md" title="wikilink">藤田憲子</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -653,7 +653,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008年7月25日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三浦雄一郎" title="wikilink">三浦雄一郎</a></p></td>
+<td><p><a href="../Page/三浦雄一郎.md" title="wikilink">三浦雄一郎</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
@@ -694,12 +694,12 @@
 <tr class="odd">
 <td><p>2008年9月26日</p></td>
 <td><p>金平桂一郎、藤田憲子、山中秀樹、根本美緒<br />
-<a href="../Page/本村健太郎.md" title="wikilink">本村健太郎</a>、<a href="https://ja.wikipedia.org/wiki/中山功太" title="wikilink">中山功太</a>、<a href="../Page/藤崎マーケット.md" title="wikilink">藤崎マーケット</a>、<a href="https://ja.wikipedia.org/wiki/宇都宮まき" title="wikilink">宇都宮まき</a></p></td>
+<a href="../Page/本村健太郎.md" title="wikilink">本村健太郎</a>、<a href="../Page/中山功太.md" title="wikilink">中山功太</a>、<a href="../Page/藤崎マーケット.md" title="wikilink">藤崎マーケット</a>、<a href="../Page/宇都宮まき.md" title="wikilink">宇都宮まき</a></p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="even">
 <td><p>2008年10月10日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金村義明" title="wikilink">金村義明</a>、片岡篤史</p></td>
+<td><p><a href="../Page/金村義明.md" title="wikilink">金村義明</a>、片岡篤史</p></td>
 <td><p>○</p></td>
 </tr>
 <tr class="odd">
@@ -897,7 +897,7 @@
 
 1.  [ムハハ.......](http://ameblo.jp/mutsuo3tides/entry-11746119793.html)
 2.  機能は同じであるが、こちらはボタンを押すとパトランプが点灯回転・ブザー音が何度も鳴らされ、背景のスクリーンには「自主規制中」と映し出される仕組みになっている。再度ボタンを押すと装置の作動が停止する。
-3.  16:55のアニメ『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』（[遅れネット](../Page/遅れネット.md "wikilink")）は休止。17:25の[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")『旬彩日記』は17:55に繰り下げ。17:30の『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』は18:00 - 18:30に繰り下げて『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』として差し替え放送した。
+3.  16:55のアニメ『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』（[遅れネット](../Page/遅れネット.md "wikilink")）は休止。17:25の[ミニ番組](../Page/ミニ番組.md "wikilink")『旬彩日記』は17:55に繰り下げ。17:30の『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』は18:00 - 18:30に繰り下げて『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』として差し替え放送した。
 4.  同じくたかじん司会の関西テレビ製作番組『[たかじん胸いっぱい](https://ja.wikipedia.org/wiki/たかじん胸いっぱい "wikilink")』でアシスタントを務めているが山本に代わって数回ピンチヒッターで登場したことがある。
 5.  橋下がレギュラー降板後に、準レギュラー昇格
 6.  2人の内、1人が宮根とのセットで登場する。2007年12月以前には宮根も含めてローテーションで変わっていた。

@@ -17,7 +17,7 @@
   - [山田麻未](https://ja.wikipedia.org/wiki/山田麻未 "wikilink")（月曜レギュラー）
   - [森理恵](../Page/森理恵.md "wikilink")（火曜レギュラー）
   - [卓田和広](../Page/卓田和広.md "wikilink")（水曜レギュラー）
-  - [小橋アキ](https://ja.wikipedia.org/wiki/小橋亜樹 "wikilink")（水曜レギュラー）
+  - [小橋アキ](../Page/小橋亜樹.md "wikilink")（水曜レギュラー）
   - [深田るみ子](https://ja.wikipedia.org/wiki/深田るみ子 "wikilink")（木曜レギュラー）
   - [DON](../Page/DON.md "wikilink")（金曜レギュラー）
   - [ふかがわ導運](https://ja.wikipedia.org/wiki/深川導運 "wikilink")（金曜レギュラー）
@@ -29,7 +29,7 @@
 
   - [山崎英樹](https://ja.wikipedia.org/wiki/山崎英樹 "wikilink")（初代男性司会者）（-2005年秋改編）
   - [船越ゆかり](../Page/船越ゆかり.md "wikilink")（初代女性司会者）（-2000年秋改編）
-  - [相賀真理子](https://ja.wikipedia.org/wiki/相賀真理子 "wikilink")（2代目女性司会者）（2000年秋改編-2003春改編）
+  - [相賀真理子](../Page/相賀真理子.md "wikilink")（2代目女性司会者）（2000年秋改編-2003春改編）
 
 <!-- end list -->
 
@@ -39,15 +39,15 @@
 <!-- end list -->
 
   - [宮崎明日香](../Page/宮崎明日香.md "wikilink")（初代中継担当）（-2001年12月）
-  - [邑田みさき](https://ja.wikipedia.org/wiki/邑田みさき "wikilink")（2代目中継担当）（2002年1月-2003年春改編）　
+  - [邑田みさき](../Page/邑田みさき.md "wikilink")（2代目中継担当）（2002年1月-2003年春改編）　
   - [橋本真紀](https://ja.wikipedia.org/wiki/橋本真紀 "wikilink")（HBC気象予報士・防災士、週末の天気担当）
-  - [モリマン](https://ja.wikipedia.org/wiki/モリマン "wikilink")（金曜レギュラー）
+  - [モリマン](../Page/モリマン.md "wikilink")（金曜レギュラー）
   - [ビタミンC](../Page/ビタミンC.md "wikilink")（月〜金曜中継担当）
 
 ## 関連番組
 
   - [朝ズバッ\!](https://ja.wikipedia.org/wiki/朝ズバッ! "wikilink")
   - [朝ビタTV](https://ja.wikipedia.org/wiki/朝ビタTV "wikilink")
-  - [きょう発プラス\!](https://ja.wikipedia.org/wiki/きょう発プラス! "wikilink")
+  - [きょう発プラス\!](../Page/きょう発プラス!.md "wikilink")
 
 [Category:北海道放送のテレビ帯番組](https://ja.wikipedia.org/wiki/Category:北海道放送のテレビ帯番組 "wikilink") [Category:北海道のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:北海道のテレビの情報・ワイドショー番組 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink")

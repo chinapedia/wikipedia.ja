@@ -1,7 +1,7 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-『**メ〜テレワイド スーパーJチャンネル**』（メ〜テレワイド スーパージェイチャンネル）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")（メ〜テレ）で放送されていた[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")（[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）である。
+『**メ〜テレワイド スーパーJチャンネル**』（メ〜テレワイド スーパージェイチャンネル）は、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[名古屋テレビ](../Page/名古屋テレビ放送.md "wikilink")（メ〜テレ）で放送されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")（[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）である。
 
 ## 概要
 
@@ -35,20 +35,20 @@
 ### キャスター
 
   - [大川敦子](../Page/大川敦子.md "wikilink") - メインキャスター。2003年3月31日から2004年4月2日まで担当。
-  - [倉橋友和](https://ja.wikipedia.org/wiki/倉橋友和 "wikilink") - サブキャスター、後にメインキャスター。2003年9月28日から2005年4月1日まで担当。
+  - [倉橋友和](../Page/倉橋友和.md "wikilink") - サブキャスター、後にメインキャスター。2003年9月28日から2005年4月1日まで担当。
 
 ### リポーター
 
-  - [加藤歩](https://ja.wikipedia.org/wiki/加藤歩_\(アナウンサー\) "wikilink") - フィールドキャスター。月曜・水曜・木曜・金曜の「怒〜なの\!」を担当。
+  - [加藤歩](../Page/加藤歩_\(アナウンサー\).md "wikilink") - フィールドキャスター。月曜・水曜・木曜・金曜の「怒〜なの\!」を担当。
   - 倉橋友和 - フィールドキャスター。2003年3月31日から同年9月まで担当。
-  - [岡山裕子](https://ja.wikipedia.org/wiki/岡山裕子 "wikilink") - フィールドキャスター。火曜担当。
-  - [高山香織](https://ja.wikipedia.org/wiki/高山香織 "wikilink") - フィールドキャスター。火曜担当。
-  - [影島香代子](https://ja.wikipedia.org/wiki/影島香代子 "wikilink") - 月曜の「寿将家の台所」を担当。
-  - [神取恭子](https://ja.wikipedia.org/wiki/神取恭子 "wikilink") - 月曜の「週間 美-Style」および「神ドリアナのドリ生活」を担当。
+  - [岡山裕子](../Page/岡山裕子.md "wikilink") - フィールドキャスター。火曜担当。
+  - [高山香織](../Page/高山香織.md "wikilink") - フィールドキャスター。火曜担当。
+  - [影島香代子](../Page/影島香代子.md "wikilink") - 月曜の「寿将家の台所」を担当。
+  - [神取恭子](../Page/神取恭子.md "wikilink") - 月曜の「週間 美-Style」および「神ドリアナのドリ生活」を担当。
   - [立松大和](https://ja.wikipedia.org/wiki/立松大和 "wikilink") - 火曜の「立松の旅」を担当。
   - [つボイノリオ](../Page/つボイノリオ.md "wikilink") - 木曜の「つボイノリオの真夜中の美術館」を担当。
-  - [ドン小西](https://ja.wikipedia.org/wiki/小西良幸 "wikilink") - 木曜の「ドン小西のファッションは生き様だ\!」を担当。
-  - [齋藤寿幸](https://ja.wikipedia.org/wiki/齋藤寿幸 "wikilink") - 「斎藤ノススメ」を担当。
+  - [ドン小西](../Page/小西良幸.md "wikilink") - 木曜の「ドン小西のファッションは生き様だ\!」を担当。
+  - [齋藤寿幸](../Page/齋藤寿幸.md "wikilink") - 「斎藤ノススメ」を担当。
 
 ### 天気予報担当
 

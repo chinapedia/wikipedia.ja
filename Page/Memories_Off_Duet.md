@@ -1,7 +1,7 @@
 > この記事は[Memories Off Duet](https://ja.wikipedia.org/wiki/Memories_Off_Duet)から翻訳されています。
 
 
-『**Memories Off Duet**』は、2003年3月27日に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[Memories Off](../Page/Memories_Off.md "wikilink")』と『[Memories Off 2nd](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")』のカップリング版である。また、2004年8月5日に設定原画集などを追加した[SuperLite2000シリーズ版が](../Page/SuperLiteシリーズ.md "wikilink")[サクセスより発売されている](../Page/サクセス_\(ゲーム会社\).md "wikilink")（こちらは[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12才以上対象）。 また2008年9月19日にはPC版が発売されている\[1\]。
+『**Memories Off Duet**』は、2003年3月27日に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[Memories Off](../Page/Memories_Off.md "wikilink")』と『[Memories Off 2nd](../Page/Memories_Off_2nd.md "wikilink")』のカップリング版である。また、2004年8月5日に設定原画集などを追加した[SuperLite2000シリーズ版が](../Page/SuperLiteシリーズ.md "wikilink")[サクセスより発売されている](../Page/サクセス_\(ゲーム会社\).md "wikilink")（こちらは[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12才以上対象）。 また2008年9月19日にはPC版が発売されている\[1\]。
 
 ## Memories Off 2nd 〜雪蛍〜
 
@@ -9,12 +9,12 @@
 
 ## 登場キャラクター
 
-詳しくは[Memories Off及び](../Page/Memories_Off.md "wikilink")[Memories Off 2ndを参照のこと](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")。
+詳しくは[Memories Off及び](../Page/Memories_Off.md "wikilink")[Memories Off 2ndを参照のこと](../Page/Memories_Off_2nd.md "wikilink")。
 
   - 桧月 彩花（ひづき あやか）
     声：[山本麻里安](../Page/山本麻里安.md "wikilink")
   - 今坂 唯笑（いまさか ゆえ）
-    声：[那須めぐみ](https://ja.wikipedia.org/wiki/那須めぐみ "wikilink")
+    声：[那須めぐみ](../Page/那須めぐみ.md "wikilink")
   - 音羽 かおる（おとわ かおる）
     声：[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")
   - 伊吹 みなも（いぶき みなも）
@@ -41,7 +41,7 @@
 
 ## スタッフ
 
-  - キャラクターデザイン - [ささきむつみ](https://ja.wikipedia.org/wiki/ささきむつみ "wikilink")
+  - キャラクターデザイン - [ささきむつみ](../Page/ささきむつみ.md "wikilink")
 
 <!-- end list -->
 
@@ -50,8 +50,8 @@
 <!-- end list -->
 
   - OP「**勇気の翼**」（OVA『[Memories Off](../Page/Memories_Off.md "wikilink")』OP）
-      - 作詞・作曲・編曲 - [志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink") / 歌 - [山本麻里安](../Page/山本麻里安.md "wikilink")
-  - ED「**[オルゴールとピアノと -holy style-](../Page/MAGIC_ATTRACTION.md "wikilink")**」（『[2nd](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")』EDのリミックス）
+      - 作詞・作曲・編曲 - [志倉千代丸](../Page/志倉千代丸.md "wikilink") / 歌 - [山本麻里安](../Page/山本麻里安.md "wikilink")
+  - ED「**[オルゴールとピアノと -holy style-](../Page/MAGIC_ATTRACTION.md "wikilink")**」（『[2nd](../Page/Memories_Off_2nd.md "wikilink")』EDのリミックス）
       - 作詞・作曲 - 志倉千代丸 / 編曲 - [大平勉](../Page/大平勉.md "wikilink") / 歌 - [水樹奈々](../Page/水樹奈々.md "wikilink")
   - 雪蛍ED「**遠いこの空から**」（白河ほたるの[キャラクターソング](../Page/キャラクターソング.md "wikilink")）
       - 作詞・作曲 - 志倉千代丸 / 編曲 - [吉原かつみ](https://ja.wikipedia.org/wiki/吉原かつみ "wikilink") / 歌 - 水樹奈々

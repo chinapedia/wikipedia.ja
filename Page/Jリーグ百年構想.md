@@ -5,7 +5,7 @@
 
 ## 経緯
 
-そもそもは[1996年のJリーグ](../Page/1996年のJリーグ.md "wikilink")開幕に向けて作られた、[キャンペーン](https://ja.wikipedia.org/wiki/キャンペーン "wikilink")の[キャッチコピー](../Page/キャッチコピー.md "wikilink")に由来する。当時、Jリーグの広報活動は[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")が手がけていたが、当時チェアマンを勤めていた[川淵三郎](../Page/川淵三郎.md "wikilink")の「（Jリーグの）理念をきちんと伝えたい」「Jリーグが本当に目指しているものを伝えたい」という考えを聞き、「これはJリーグの[CI（コーポレート・アイデンティティー）活動になる](https://ja.wikipedia.org/wiki/コーポレート・アイデンティティー "wikilink")」と感じた当時の広報スタッフがJリーグで常務理事を務めていた[木之本興三](https://ja.wikipedia.org/wiki/木之本興三 "wikilink")などの了承を得て、[コンペティション](../Page/コンペティション.md "wikilink")形式でキャッチコピーを募ることになった。その背景として、[ヴェルディ川崎（現在の東京ヴェルディ）のオーナーであった](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[渡邉恒雄](../Page/渡邉恒雄.md "wikilink")（当時[読売新聞社](../Page/読売新聞社.md "wikilink")社長）との「チーム呼称論争」が加熱し始めており、川淵がJリーグの理念をストレートに伝える必要性を感じていたのではないかと推測されている。
+そもそもは[1996年のJリーグ](../Page/1996年のJリーグ.md "wikilink")開幕に向けて作られた、[キャンペーン](https://ja.wikipedia.org/wiki/キャンペーン "wikilink")の[キャッチコピー](../Page/キャッチコピー.md "wikilink")に由来する。当時、Jリーグの広報活動は[博報堂](https://ja.wikipedia.org/wiki/博報堂 "wikilink")が手がけていたが、当時チェアマンを勤めていた[川淵三郎](../Page/川淵三郎.md "wikilink")の「（Jリーグの）理念をきちんと伝えたい」「Jリーグが本当に目指しているものを伝えたい」という考えを聞き、「これはJリーグの[CI（コーポレート・アイデンティティー）活動になる](https://ja.wikipedia.org/wiki/コーポレート・アイデンティティー "wikilink")」と感じた当時の広報スタッフがJリーグで常務理事を務めていた[木之本興三](../Page/木之本興三.md "wikilink")などの了承を得て、[コンペティション](../Page/コンペティション.md "wikilink")形式でキャッチコピーを募ることになった。その背景として、[ヴェルディ川崎（現在の東京ヴェルディ）のオーナーであった](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[渡邉恒雄](../Page/渡邉恒雄.md "wikilink")（当時[読売新聞社](../Page/読売新聞社.md "wikilink")社長）との「チーム呼称論争」が加熱し始めており、川淵がJリーグの理念をストレートに伝える必要性を感じていたのではないかと推測されている。
 
 結果的にコンペティションに参加したのは博報堂と、当時[日本代表戦や](../Page/サッカー日本代表.md "wikilink")[トヨタカップを担当していた](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")[電通](../Page/電通.md "wikilink")であった。電通は「われわれの目標は目の前ではなく、もっと先にある」との川淵の考え方を汲み、「**百年構想**」「**あなたの町にも、Jリーグはある。**」という2つのコピーを提案。1996年1月19日のJリーグ広報委員会で電通の案が採用され、同年のJリーグで大体的に展開された。ただ、当初は「あなたの町にも、Jリーグはある。」がメインのコピーとなり、「百年構想」はそれに添えられる形となった
 
@@ -36,7 +36,7 @@
   - **[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")**
       - [FC東京バレーボールチーム](https://ja.wikipedia.org/wiki/FC東京バレーボールチーム "wikilink")
   - **[東京ヴェルディ1969](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")**
-      - [東京ヴェルディバレーボールチーム](https://ja.wikipedia.org/wiki/東京ヴェルディバレーボールチーム "wikilink")
+      - [東京ヴェルディバレーボールチーム](../Page/東京ヴェルディバレーボールチーム.md "wikilink")
       - 東京ヴェルディトライアスロンチーム
       - 東京ヴェルディフットサルクラブジュニアユース
       - 東京ヴェルディビーチサッカーチーム
@@ -55,14 +55,14 @@
           - 7人制ラグビー
       - [湘南ベルマーレロードレーシングチーム](https://ja.wikipedia.org/wiki/湘南ベルマーレロードレーシングチーム "wikilink")（自転車ロードレース、かつて[チームミヤタ](../Page/チームミヤタ.md "wikilink")と提携していたこともある）
   - **[アルビレックス新潟](../Page/アルビレックス新潟.md "wikilink")**
-      - [新潟アルビレックスBB](https://ja.wikipedia.org/wiki/新潟アルビレックスBB "wikilink")（プロバスケットボール）
+      - [新潟アルビレックスBB](../Page/新潟アルビレックスBB.md "wikilink")（プロバスケットボール）
       - [新潟アルビレックスBBラビッツ](https://ja.wikipedia.org/wiki/新潟アルビレックスBBラビッツ "wikilink")（バスケットボール）
-      - [新潟アルビレックス・ベースボール・クラブ](https://ja.wikipedia.org/wiki/新潟アルビレックス・ベースボール・クラブ "wikilink")（プロ野球独立リーグ）
+      - [新潟アルビレックス・ベースボール・クラブ](../Page/新潟アルビレックス・ベースボール・クラブ.md "wikilink")（プロ野球独立リーグ）
       - [アルビレックスチアリーダーズ](../Page/アルビレックスチアリーダーズ.md "wikilink")
       - [チームアルビレックス新潟](../Page/チームアルビレックス新潟.md "wikilink")（アルペンスキー）
       - [新潟アルビレックスランニングクラブ](../Page/新潟アルビレックスランニングクラブ.md "wikilink")
       - [アルビレックスレーシングチーム](https://ja.wikipedia.org/wiki/アルビレックスレーシングチーム "wikilink")（自動車レース）
-  - **[AC長野パルセイロ](https://ja.wikipedia.org/wiki/AC長野パルセイロ "wikilink")**
+  - **[AC長野パルセイロ](../Page/AC長野パルセイロ.md "wikilink")**
       - [AC長野パルセイロアイスホッケー](https://ja.wikipedia.org/wiki/AC長野パルセイロアイスホッケー "wikilink")（アイスホッケー）
       - [AC長野パルセイロバドミントン](https://ja.wikipedia.org/wiki/AC長野パルセイロバドミントン "wikilink")（バドミントン）
   - **[清水エスパルス](../Page/清水エスパルス.md "wikilink")**
@@ -88,14 +88,14 @@
   - **[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")**
       - [川崎市ホームタウンスポーツ推進パートナー](../Page/川崎市ホームタウンスポーツ推進パートナー.md "wikilink")
   - **[横浜F・マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")**、**[横浜FC](../Page/横浜FC.md "wikilink")**
-      - [横浜熱闘倶楽部](https://ja.wikipedia.org/wiki/横浜熱闘倶楽部 "wikilink")（スポーツクラブ）
+      - [横浜熱闘倶楽部](../Page/横浜熱闘倶楽部.md "wikilink")（スポーツクラブ）
   - **湘南ベルマーレ**
       - [横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")（プロ野球）の[ファームチームと連携](../Page/横浜DeNAベイスターズ_\(ファーム\).md "wikilink")
   - **[ガンバ大阪](../Page/ガンバ大阪.md "wikilink")**
-      - [オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")（プロ野球）との連携
-      - [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")（プロ野球）との共通観戦チケットの販売（2003年）
+      - [オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")（プロ野球）との連携
+      - [阪神タイガース](../Page/阪神タイガース.md "wikilink")（プロ野球）との共通観戦チケットの販売（2003年）
   - **[サンフレッチェ広島](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")**
-      - [トップス広島](https://ja.wikipedia.org/wiki/トップス広島 "wikilink")
+      - [トップス広島](../Page/トップス広島.md "wikilink")
       - [P3 HIROSHIMA](../Page/P3_HIROSHIMA.md "wikilink")
   - **[サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")**
       - [福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")（プロ野球）との連携（スポーツキッズプロジェクトの共催、[鷹の祭典](https://ja.wikipedia.org/wiki/鷹の祭典 "wikilink")でのコラボレーションなど）
@@ -125,7 +125,7 @@
 ### その他
 
   - **[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")**
-      - [神戸アスリートタウン構想](https://ja.wikipedia.org/wiki/神戸アスリートタウン構想 "wikilink") - [オリックス・ブルーウェーブとの共通開催日に共通チケット発売](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")（[ユニバー競技場を本拠としていた時代](../Page/神戸総合運動公園ユニバー記念競技場.md "wikilink")）
+      - [神戸アスリートタウン構想](../Page/神戸アスリートタウン構想.md "wikilink") - [オリックス・ブルーウェーブとの共通開催日に共通チケット発売](../Page/オリックス・バファローズ.md "wikilink")（[ユニバー競技場を本拠としていた時代](../Page/神戸総合運動公園ユニバー記念競技場.md "wikilink")）
   - **サンフレッチェ広島**、**[徳島ヴォルティス](../Page/徳島ヴォルティス.md "wikilink")**、**[愛媛FC](https://ja.wikipedia.org/wiki/愛媛FC "wikilink")**、**[ファジアーノ岡山](https://ja.wikipedia.org/wiki/ファジアーノ岡山 "wikilink")**、**[ガイナーレ鳥取](../Page/ガイナーレ鳥取.md "wikilink")**、**[カマタマーレ讃岐](../Page/カマタマーレ讃岐.md "wikilink")**
       - [中国・四国Jクラブ情報懇談会](https://ja.wikipedia.org/wiki/中国・四国Jクラブ情報懇談会 "wikilink")
   - **[アビスパ福岡](../Page/アビスパ福岡.md "wikilink")**、**[ギラヴァンツ北九州](../Page/ギラヴァンツ北九州.md "wikilink")**、**[サガン鳥栖](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")**、**[V・ファーレン長崎](https://ja.wikipedia.org/wiki/V・ファーレン長崎 "wikilink")**、**[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")**、**[ロアッソ熊本](https://ja.wikipedia.org/wiki/ロアッソ熊本 "wikilink")**、**[鹿児島ユナイテッドFC](https://ja.wikipedia.org/wiki/鹿児島ユナイテッドFC "wikilink")**
@@ -150,8 +150,8 @@ Jリーグ百年構想をテーマに、Jリーグクラブやサッカー選手
 <!-- end list -->
 
   -
-    [子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")の[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")からはJリーグやサッカーに関する書籍・雑誌を多数出版しており、[2011年](../Page/2011年.md "wikilink")から[Jリーグオフィシャル書籍](https://ja.wikipedia.org/wiki/Jリーグオフィシャル書籍 "wikilink")（Jリーグイヤーブック・Jリーグオフィシャルファンズガイド）の出版を担当。
-    （イヤーブックは2014年で発売元から撤退<本そのものは引き続き発行>。ファンズガイドは2012年で休刊。2013年からはその事実上の代替で[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")（Jリーグオフィシャルチケッティングパートナー）より「Jリーグ観戦ガイド」を発行）
+    [子会社](../Page/子会社.md "wikilink")の[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")からはJリーグやサッカーに関する書籍・雑誌を多数出版しており、[2011年](../Page/2011年.md "wikilink")から[Jリーグオフィシャル書籍](../Page/Jリーグオフィシャル書籍.md "wikilink")（Jリーグイヤーブック・Jリーグオフィシャルファンズガイド）の出版を担当。
+    （イヤーブックは2014年で発売元から撤退<本そのものは引き続き発行>。ファンズガイドは2012年で休刊。2013年からはその事実上の代替で[ぴあ](../Page/ぴあ.md "wikilink")（Jリーグオフィシャルチケッティングパートナー）より「Jリーグ観戦ガイド」を発行）
 
 ## 関連項目
 

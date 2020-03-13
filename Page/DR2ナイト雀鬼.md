@@ -1,9 +1,9 @@
 > この記事は[DR2](https://ja.wikipedia.org/wiki/DR2)から翻訳されています。
 
 
-『**DR<sup>2</sup>ナイト雀鬼**』（DR<sup>2</sup> NIGHT JANKI、どらどらないとじゃんき）は、[Leaf](../Page/Leaf.md "wikilink")が企画・製作し[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に発売した、[NEC](../Page/日本電気.md "wikilink")[PC-98シリーズ対応の](../Page/PC-9800シリーズ.md "wikilink")[脱衣麻雀](https://ja.wikipedia.org/wiki/脱衣麻雀 "wikilink")形式で[AVG風の](../Page/アドベンチャーゲーム.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
+『**DR<sup>2</sup>ナイト雀鬼**』（DR<sup>2</sup> NIGHT JANKI、どらどらないとじゃんき）は、[Leaf](../Page/Leaf.md "wikilink")が企画・製作し[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に発売した、[NEC](../Page/日本電気.md "wikilink")[PC-98シリーズ対応の](../Page/PC-9800シリーズ.md "wikilink")[脱衣麻雀](../Page/脱衣麻雀.md "wikilink")形式で[AVG風の](../Page/アドベンチャーゲーム.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。
 
-Leaf作品の第1弾でオリジナル[ポスター](../Page/ポスター.md "wikilink")と[BGMを収録した](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")12cm[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")音楽[CDがついていた](../Page/コンパクトディスク.md "wikilink")。
+Leaf作品の第1弾でオリジナル[ポスター](../Page/ポスター.md "wikilink")と[BGMを収録した](../Page/バックグラウンドミュージック.md "wikilink")12cm[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")音楽[CDがついていた](../Page/コンパクトディスク.md "wikilink")。
 
 [MIDI](../Page/MIDI.md "wikilink")音源対応・[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")へのインストールも可。CD音源対応（前述の付属CDを使用）という点が当時としては珍しかった。
 
@@ -85,7 +85,7 @@ Leaf作品の第1弾でオリジナル[ポスター](../Page/ポスター.md "wi
 ## スタッフ
 
   - 原画：[水無月徹](../Page/水無月徹.md "wikilink")
-  - 音楽：チームIOS（[石川真也](https://ja.wikipedia.org/wiki/石川真也 "wikilink")、[折戸伸治](../Page/折戸伸治.md "wikilink")、[下川直哉](https://ja.wikipedia.org/wiki/下川直哉 "wikilink")）
+  - 音楽：チームIOS（[石川真也](https://ja.wikipedia.org/wiki/石川真也 "wikilink")、[折戸伸治](../Page/折戸伸治.md "wikilink")、[下川直哉](../Page/下川直哉.md "wikilink")）
 
 ## 関連商品
 
@@ -96,7 +96,7 @@ Leaf作品の第1弾でオリジナル[ポスター](../Page/ポスター.md "wi
 
 ## 関連項目
 
-  - [Filsnown](https://ja.wikipedia.org/wiki/Filsnown "wikilink") - 本作に続くLeaf2本目のソフト。おまけ要素として行ける開発室には、本作の在庫の山がある。
+  - [Filsnown](../Page/Filsnown.md "wikilink") - 本作に続くLeaf2本目のソフト。おまけ要素として行ける開発室には、本作の在庫の山がある。
   - [フルアニ](../Page/フルアニ.md "wikilink") - 本作以来11年ぶりにLeafがリリースした麻雀ゲーム。
 
 [Category:Leafのゲームソフト](https://ja.wikipedia.org/wiki/Category:Leafのゲームソフト "wikilink") [Category:脱衣麻雀](https://ja.wikipedia.org/wiki/Category:脱衣麻雀 "wikilink") [Category:美少女ゲーム](https://ja.wikipedia.org/wiki/Category:美少女ゲーム "wikilink") [Category:1995年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1995年のアダルトゲーム "wikilink")

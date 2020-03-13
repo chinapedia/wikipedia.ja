@@ -9,7 +9,7 @@
 
 元は[エイリアス・システムズ社の製品だったが](https://ja.wikipedia.org/wiki/:en:Alias_Systems_Corporation "wikilink")、2005年10月、ライバルソフト「[3ds Max](../Page/3ds_Max.md "wikilink")」の[オートデスク](../Page/オートデスク.md "wikilink")社に買収され、開発元が移っている。
 
-ハリウッドをはじめとする映像現場で使われているプロ仕様の[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")ソフトであり、[映画](../Page/映画.md "wikilink")・[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")・[テレビ番組](../Page/テレビ番組.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[CMの制作に使用されている](../Page/コマーシャルメッセージ.md "wikilink")。範囲=シェアで言えば、[VFX](../Page/VFX.md "wikilink")で圧倒的であり、建築ヴィジュアライゼーションでは3ds Maxが多く、[ゲーム](../Page/ゲーム.md "wikilink")では3ds MaxとMayaは50:50だとAutodeskからは言われている。また、日本に限ってなら50%以上のトップのシェアを持っており、残りを[3ds Maxと](../Page/3ds_Max.md "wikilink")[Softimage](https://ja.wikipedia.org/wiki/Softimage "wikilink")が分け合っている状況である\[1\]。
+ハリウッドをはじめとする映像現場で使われているプロ仕様の[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")ソフトであり、[映画](../Page/映画.md "wikilink")・[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")・[テレビ番組](../Page/テレビ番組.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[CMの制作に使用されている](../Page/コマーシャルメッセージ.md "wikilink")。範囲=シェアで言えば、[VFX](../Page/VFX.md "wikilink")で圧倒的であり、建築ヴィジュアライゼーションでは3ds Maxが多く、[ゲーム](../Page/ゲーム.md "wikilink")では3ds MaxとMayaは50:50だとAutodeskからは言われている。また、日本に限ってなら50%以上のトップのシェアを持っており、残りを[3ds Maxと](../Page/3ds_Max.md "wikilink")[Softimage](../Page/Softimage.md "wikilink")が分け合っている状況である\[1\]。
 
 [PowerAnimatorの後継](https://ja.wikipedia.org/wiki/:en:PowerAnimator "wikilink")、ゲーム開発、キャラクターアニメーションを強く意識した製品である。また、いくつかの[機械系CADのデータ形式にも対応しており](../Page/CAD.md "wikilink")、実際に[自動車](../Page/自動車.md "wikilink")メーカーなどの製造業ではデザイン的な要素の強い部品の設計に使用している。
 
@@ -24,7 +24,7 @@
       - キャラクターとアニメーション制作の大幅な改善や、Photoshopとの統合によりPSDファイルとの連携が可能となった。
   - 2005年1月 - Maya6.5が発表。パフォーマンスの向上によりファイルの入出力や画面描画、モデリング、デフォメーション、Maya Artisanなどの生産性が向上。
       - mental rayが3.4へバージョンアップ、mental ray for MayaSatellite、シーンセグメンテーションに新ツールなどが追加された。
-  - 2005年8月 - Maya7から、[トゥーンレンダリング](https://ja.wikipedia.org/wiki/トゥーンレンダリング "wikilink")を表現するためのMaya Vectorが標準装備され、冷たい感じのするリアルな3DCGだけでなく、手塗りの温もりがある3DCGも対応した。
+  - 2005年8月 - Maya7から、[トゥーンレンダリング](../Page/トゥーンレンダリング.md "wikilink")を表現するためのMaya Vectorが標準装備され、冷たい感じのするリアルな3DCGだけでなく、手塗りの温もりがある3DCGも対応した。
       - レンダラーとしてはMaya7からではあるが、それ以前のバージョンでも、ランプシェーダーによってトゥーン表現は可能である。
       - MotionBuilderで採用されているFullBodyIKが搭載された。
   - 2006年8月 - Maya8から、初めて64bitシステムに対応した。

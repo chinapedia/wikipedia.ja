@@ -7,7 +7,7 @@
 
 西暦[2062年](https://ja.wikipedia.org/wiki/2062年 "wikilink")、新たな形の野球「バトルボール」が誕生していた。おっちょこちょいだが熱い闘志を燃やすイッキマンこと沢村一気は、仲間とともに優勝を目指してバトルボールを戦い続ける。
 
-放送枠移動となった前番組『[キン肉マン](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")』の荒唐無稽ぶりを継承した形で、制作前年に[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")が21年振りの優勝・初の日本一になったことによる野球人気にあやかって制作された作品。
+放送枠移動となった前番組『[キン肉マン](https://ja.wikipedia.org/wiki/キン肉マン_\(テレビアニメ\) "wikilink")』の荒唐無稽ぶりを継承した形で、制作前年に[阪神タイガース](../Page/阪神タイガース.md "wikilink")が21年振りの優勝・初の日本一になったことによる野球人気にあやかって制作された作品。
 
 [韓国では](../Page/大韓民国.md "wikilink")[韓国放送公社](../Page/韓国放送公社.md "wikilink")で『**ホームラン王剛速球**』のタイトルで放映されたが、作中の暴力シーンについて視聴者から苦情が殺到したことから放送中止に追いやられた。局側の説明では「予定の放送回数を終えたため」としている\[2\]。
 
@@ -44,14 +44,14 @@
     声 - [野田圭一](../Page/野田圭一.md "wikilink")
     ブループラネッツのドクター。
   - カトリーヌ
-    声 - [山本百合子](https://ja.wikipedia.org/wiki/山本百合子 "wikilink")
+    声 - [山本百合子](../Page/山本百合子.md "wikilink")
     二塁手。ブループラネッツの女性選手。金髪の大柄な女性。バッティングにはラケットを使用。
   - 孫天空
     声 - [古谷徹](../Page/古谷徹.md "wikilink")
     三塁手。ブループラネッツの選手。小柄で身軽。デビルサターンズ戦で深手を負った。
     [孫悟空](../Page/孫悟空.md "wikilink")の子孫の設定。
   - ランボーマン
-    声 - [佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
+    声 - [佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
     投手・一塁。
     [シルヴェスター・スタローン](../Page/シルヴェスター・スタローン.md "wikilink")がモデル。
   - ペラ・ペロー
@@ -70,7 +70,7 @@
     レフト。
   - 養子田監督
     声 - [大竹宏](../Page/大竹宏.md "wikilink")
-    苗字のモデルは当時、[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")の監督だった[吉田義男](https://ja.wikipedia.org/wiki/吉田義男 "wikilink")。
+    苗字のモデルは当時、[阪神タイガース](../Page/阪神タイガース.md "wikilink")の監督だった[吉田義男](https://ja.wikipedia.org/wiki/吉田義男 "wikilink")。
 
 ### ブラッキーズ
 
@@ -81,7 +81,7 @@
     一塁手。孤高的な宇宙代表のブラッキーズの強打者。心臓の発作に苦しむ。
     イッキマンの生き別れの兄。デビルサンダーズ戦で途中からブループラネッツの一員となった。
   - サタノワール
-    声 - [柴田秀勝](https://ja.wikipedia.org/wiki/柴田秀勝 "wikilink")
+    声 - [柴田秀勝](../Page/柴田秀勝.md "wikilink")
     チームのオーナー。
   - デネボラ
     捕手。
@@ -114,13 +114,13 @@
 
   - 企画 - 武井英彦(日本テレビ)、[木村京太郎](https://ja.wikipedia.org/wiki/木村京太郎_\(プロデューサー\) "wikilink")
   - 原作 - [たなみやすお](../Page/田波靖男.md "wikilink")
-  - 漫画版 - [高橋かずお](https://ja.wikipedia.org/wiki/高橋和希 "wikilink")（[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")連載）
+  - 漫画版 - [高橋かずお](../Page/高橋和希.md "wikilink")（[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")連載）
   - 音楽 - [横山菁児](../Page/横山菁児.md "wikilink")
   - 製作担当 - [岸本松司](https://ja.wikipedia.org/wiki/岸本松司 "wikilink")
   - 製作担当補 - [樋口宗久](https://ja.wikipedia.org/wiki/樋口宗久 "wikilink")
   - キャラクター・デザイン - [西城隆詞](../Page/西城隆詞.md "wikilink")
   - OP作画 - 上妻晋作
-  - 美術デザイン - [窪田忠雄](https://ja.wikipedia.org/wiki/窪田忠雄 "wikilink")
+  - 美術デザイン - [窪田忠雄](../Page/窪田忠雄.md "wikilink")
   - シリーズ・ディレクター - [西沢信孝](../Page/西沢信孝.md "wikilink")
   - プロデューサー - 田宮武、横山和夫
   - 撮影 - 玉川芳行 他
@@ -133,7 +133,7 @@
 ## 主題歌・挿入歌
 
   - オープニングテーマ - 「いくぜ\! イッキマン\!\!」
-    作詞 - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲 - フランキー・T / 編曲 - [矢野立美](https://ja.wikipedia.org/wiki/矢野立美 "wikilink") / 歌 - [樋浦一帆](../Page/樋浦一帆.md "wikilink")
+    作詞 - [森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲 - フランキー・T / 編曲 - [矢野立美](../Page/矢野立美.md "wikilink") / 歌 - [樋浦一帆](../Page/樋浦一帆.md "wikilink")
 
   - エンディングテーマ - 「イッキマン・マーチ」
     作詞 - 阿部孝夫/ 作曲・編曲 - 矢野立美 / 歌 - 樋浦一帆
@@ -151,7 +151,7 @@
       -
         作詞 - [森浩美](../Page/森浩美.md "wikilink") / 作曲 - 瀬井広明 / 編曲 - 林有三 / 歌 - 秋本理央
 
-主題歌と挿入歌をそれぞれ収録したEPレコードは、[キングレコード](../Page/キングレコード.md "wikilink")（[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")・レーベル）より発売。
+主題歌と挿入歌をそれぞれ収録したEPレコードは、[キングレコード](../Page/キングレコード.md "wikilink")（[スターチャイルド](../Page/スターチャイルド.md "wikilink")・レーベル）より発売。
 
 ## 各話リスト
 
@@ -539,7 +539,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>
@@ -554,7 +554,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td><p>日曜 8:30 - 9:00</p></td>
 <td></td>
 <td></td>
@@ -591,7 +591,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>月曜 - 木曜 17:00 - 17:30[6]</p></td>
 <td><p>本放送終了後、1988年頃に放送。</p></td>
 <td></td>
@@ -601,7 +601,7 @@
 
 ## コミック版
 
-[講談社](../Page/講談社.md "wikilink")の『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』1986年19号から36号に、原案たなみやすお・作者高橋かずお（現：[高橋和希](https://ja.wikipedia.org/wiki/高橋和希 "wikilink")）によるコミカライズ版が連載された。単行本は全2巻。
+[講談社](../Page/講談社.md "wikilink")の『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』1986年19号から36号に、原案たなみやすお・作者高橋かずお（現：[高橋和希](../Page/高橋和希.md "wikilink")）によるコミカライズ版が連載された。単行本は全2巻。
 
 ## 脚注
 

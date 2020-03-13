@@ -31,7 +31,7 @@
 キリン会館時代からのテナントも入居していた。
 
   - 地下1階 - 南海グリル（[ステーキ](../Page/ステーキ.md "wikilink")ハウス）
-  - 1階 - [カフェ](../Page/カフェ.md "wikilink")、[フラワーショップ](https://ja.wikipedia.org/wiki/花屋 "wikilink")、[チケットセゾン](https://ja.wikipedia.org/wiki/エンタテインメントプラス "wikilink")
+  - 1階 - [カフェ](../Page/カフェ.md "wikilink")、[フラワーショップ](../Page/花屋.md "wikilink")、[チケットセゾン](https://ja.wikipedia.org/wiki/エンタテインメントプラス "wikilink")
   - 2階 - [キリンシティ](https://ja.wikipedia.org/wiki/キリンシティ "wikilink")（ビアパブ）
   - 3階 - レストラン
   - 4階 - プラザギャラリー、会議室

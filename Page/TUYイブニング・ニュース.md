@@ -1,7 +1,7 @@
 > この記事は[TUY](https://ja.wikipedia.org/wiki/TUY)から翻訳されています。
 
 
-『**TUYイブニング・ニュース**』（ティーユーワイ・イブニング・ニュース、ロゴ表示は**TUY eVENING NEWS**）は、[テレビユー山形](../Page/テレビユー山形.md "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")にスタートし、[2011年](../Page/2011年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")（週末（土・日）版を含めると2011年[3月27日](../Page/3月27日.md "wikilink")）まで放送された[山形県](../Page/山形県.md "wikilink")内向けローカル報道番組である。
+『**TUYイブニング・ニュース**』（ティーユーワイ・イブニング・ニュース、ロゴ表示は**TUY eVENING NEWS**）は、[テレビユー山形](../Page/テレビユー山形.md "wikilink")で[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")にスタートし、[2011年](../Page/2011年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")（週末（土・日）版を含めると2011年[3月27日](../Page/3月27日.md "wikilink")）まで放送された[山形県](../Page/山形県.md "wikilink")内向けローカル報道番組である。
 
 ## 概要
 
@@ -24,7 +24,7 @@
   - [甑岳聖海](https://ja.wikipedia.org/wiki/甑岳聖海 "wikilink")（こしきだけ・しょうかい、コメンテイター。同局報道部デスク）
   - [成田純子](https://ja.wikipedia.org/wiki/成田純子 "wikilink")（フィールドキャスター。元同局アナウンサー）
   - [松田明子](https://ja.wikipedia.org/wiki/松田明子_\(アナウンサー\) "wikilink")（メインキャスター→週末版キャスター。同局アナウンサー）
-  - [佐々木瞳](https://ja.wikipedia.org/wiki/佐々木瞳 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで、同局アナウンサー。2010年6月退社の為）
+  - [佐々木瞳](../Page/佐々木瞳.md "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで、同局アナウンサー。2010年6月退社の為）
   - [安藤友江](https://ja.wikipedia.org/wiki/安藤友江 "wikilink")（メインキャスター。同局アナウンサー。2010年6月25日まで。週末版を担当）
   - [山田恵介](https://ja.wikipedia.org/wiki/山田恵介 "wikilink")（天気予報担当。同局アナウンサー。2010年6月25日まで。週末版と金曜ミニコーナー「山田のおじゃまします」を担当）
   - [伊藤博美](https://ja.wikipedia.org/wiki/伊藤博美 "wikilink")（週末版を担当）
@@ -106,7 +106,7 @@
 
 （放送開始から最終回まで）
 
-  - 全曜日:きになるメッセージ（[伝言板](https://ja.wikipedia.org/wiki/伝言板 "wikilink")のコーナー。イレギュラー放送のため、オンエアがたまにない場合がある。後続の『[Nスタやまがた](https://ja.wikipedia.org/wiki/Nスタやまがた "wikilink")』でも放送中。先代の番組『[TUYニュースの森やまがた](../Page/TUYニュースの森やまがた.md "wikilink")』で放送された「やま森メッセージ」の後継コーナー企画でもある。似たようなコーナーとして[NHK山形放送局](../Page/NHK山形放送局.md "wikilink")『[YYほっとチャンネル](https://ja.wikipedia.org/wiki/YYほっとチャンネル "wikilink")』→『[やまモリ\!](https://ja.wikipedia.org/wiki/やまモリ! "wikilink")』／『[やまがたゆうがた600](https://ja.wikipedia.org/wiki/やまがたゆうがた600 "wikilink")』〜『[NHKニュースやまがた6時](https://ja.wikipedia.org/wiki/NHKニュースやまがた6時 "wikilink")』の歴代県内ローカルニュースワイド番組内で放送中の「てれび伝言板」、[山形テレビ](../Page/山形テレビ.md "wikilink")『[YTSテレビ夕刊](https://ja.wikipedia.org/wiki/YTSテレビ夕刊 "wikilink")』内にて放送されていた「テレ夕伝言板（てれゆうでんごんばん）」や現在放送中の『[スーパーJチャンネルYTSゴジダス](https://ja.wikipedia.org/wiki/スーパーJチャンネルYTSゴジダス "wikilink")』の金曜5時台のインサートフロート番組「[キンゴジ - gojidas friday -](https://ja.wikipedia.org/wiki/キンゴジ_-_gojidas_friday_- "wikilink")」で放送中の「伝言板（キンゴジ）」といった以上のコーナーも存在する。ちなみに、このコーナーのタイトルの由来の言葉はTUYのキャッチコピー「きになっちゃう。」からである。このコーナー番組の放送上でのタイトルクレジット表記は「きになるメッセージ。」となっている）
+  - 全曜日:きになるメッセージ（[伝言板](https://ja.wikipedia.org/wiki/伝言板 "wikilink")のコーナー。イレギュラー放送のため、オンエアがたまにない場合がある。後続の『[Nスタやまがた](https://ja.wikipedia.org/wiki/Nスタやまがた "wikilink")』でも放送中。先代の番組『[TUYニュースの森やまがた](../Page/TUYニュースの森やまがた.md "wikilink")』で放送された「やま森メッセージ」の後継コーナー企画でもある。似たようなコーナーとして[NHK山形放送局](../Page/NHK山形放送局.md "wikilink")『[YYほっとチャンネル](https://ja.wikipedia.org/wiki/YYほっとチャンネル "wikilink")』→『[やまモリ\!](https://ja.wikipedia.org/wiki/やまモリ! "wikilink")』／『[やまがたゆうがた600](https://ja.wikipedia.org/wiki/やまがたゆうがた600 "wikilink")』〜『[NHKニュースやまがた6時](https://ja.wikipedia.org/wiki/NHKニュースやまがた6時 "wikilink")』の歴代県内ローカルニュースワイド番組内で放送中の「てれび伝言板」、[山形テレビ](../Page/山形テレビ.md "wikilink")『[YTSテレビ夕刊](../Page/YTSテレビ夕刊.md "wikilink")』内にて放送されていた「テレ夕伝言板（てれゆうでんごんばん）」や現在放送中の『[スーパーJチャンネルYTSゴジダス](../Page/スーパーJチャンネルYTSゴジダス.md "wikilink")』の金曜5時台のインサートフロート番組「[キンゴジ - gojidas friday -](https://ja.wikipedia.org/wiki/キンゴジ_-_gojidas_friday_- "wikilink")」で放送中の「伝言板（キンゴジ）」といった以上のコーナーも存在する。ちなみに、このコーナーのタイトルの由来の言葉はTUYのキャッチコピー「きになっちゃう。」からである。このコーナー番組の放送上でのタイトルクレジット表記は「きになるメッセージ。」となっている）
 
 ## TUY歴代の夕方ニュース
 

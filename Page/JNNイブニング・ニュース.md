@@ -1,7 +1,7 @@
 > この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
 
 
-『**JNNイブニング・ニュース**』（ジェイエヌエヌ - 、英字表記：*JNN EVENING NEWS*）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")（[週末](https://ja.wikipedia.org/wiki/週末 "wikilink")は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")）まで、[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）系列で放送された[夕](../Page/夕.md "wikilink")方の[ニュース番組である](../Page/報道番組.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度は、[土曜日](../Page/土曜日.md "wikilink")以外（[後述](https://ja.wikipedia.org/wiki/#週末版 "wikilink")）で放送した。
+『**JNNイブニング・ニュース**』（ジェイエヌエヌ - 、英字表記：*JNN EVENING NEWS*）は、[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")（[週末](../Page/週末.md "wikilink")は[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")）まで、[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）系列で放送された[夕](../Page/夕.md "wikilink")方の[ニュース番組である](../Page/報道番組.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度は、[土曜日](../Page/土曜日.md "wikilink")以外（[後述](https://ja.wikipedia.org/wiki/#週末版 "wikilink")）で放送した。
 
 ## 概要
 
@@ -17,15 +17,15 @@
 
 他にも2007年11月29日の放送は、[防衛省](../Page/防衛省.md "wikilink")元事務次官夫妻が収賄で逮捕されたニュースと昼前に香川県坂出市で行方不明になっていた祖母と孫姉妹が遺体で発見されたニュースが重なったことからまず、15:55から1時間を元事務次官逮捕関連に終始し、16:54からは坂出の事件と元事務次官逮捕を並列して伝えた（両方とも一旦区切られ飛び降り・飛び乗りしやすいようにしている。いずれも『イブニング・ニュース スペシャル』と題していた）。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけての[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")の放送は、18:00 - 18:30（[12月31日](../Page/12月31日.md "wikilink")は17:30 - 18:00）までの放送で、ニュース・スポーツニュースを放送した後ローカル枠のニュースに入り、ローカル枠のニュースが終了後再びイブニング・ニュースに再接続され天気予報が放送された（地域によっては、天気もローカル枠で放送されることもある）。
+[2005年](../Page/2005年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけての[年末年始](../Page/年末年始.md "wikilink")の放送は、18:00 - 18:30（[12月31日](../Page/12月31日.md "wikilink")は17:30 - 18:00）までの放送で、ニュース・スポーツニュースを放送した後ローカル枠のニュースに入り、ローカル枠のニュースが終了後再びイブニング・ニュースに再接続され天気予報が放送された（地域によっては、天気もローカル枠で放送されることもある）。
 
-『**JNNイブニング・ニュース**』の名称は、TBSと業務提携の関係にある米[CBS](../Page/CBS.md "wikilink")の『[CBSイブニングニュース](../Page/CBSイブニングニュース.md "wikilink")』から由来しているともいう。なおTBSや系列の[HBC](../Page/北海道放送.md "wikilink")、[SBSはかつて同番組を放送していたこともあるが](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、現在はTBS系の[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")と[BS-iで放送されている](../Page/BS-TBS.md "wikilink")。系列局のローカルニュース枠もJNN枠に合わせ、ロゴも流用した『（放送局名・略称）イブニング・ニュース』とした局が多いが、[山陽放送については](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")から夕方のローカルニュースを『[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")（現在は[RSKイブニングニュース](https://ja.wikipedia.org/wiki/RSKイブニングニュース "wikilink")）』という番組名で放送していた（『ニュースの森』時代は「N森・イブニングN」という両併記だった）関係から、ロゴや[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")・テロップ等についてはRSK独自の物を採用している。
+『**JNNイブニング・ニュース**』の名称は、TBSと業務提携の関係にある米[CBS](../Page/CBS.md "wikilink")の『[CBSイブニングニュース](../Page/CBSイブニングニュース.md "wikilink")』から由来しているともいう。なおTBSや系列の[HBC](../Page/北海道放送.md "wikilink")、[SBSはかつて同番組を放送していたこともあるが](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、現在はTBS系の[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")と[BS-iで放送されている](../Page/BS-TBS.md "wikilink")。系列局のローカルニュース枠もJNN枠に合わせ、ロゴも流用した『（放送局名・略称）イブニング・ニュース』とした局が多いが、[山陽放送については](https://ja.wikipedia.org/wiki/山陽放送テレビ "wikilink")[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")から夕方のローカルニュースを『[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")（現在は[RSKイブニングニュース](../Page/RSKイブニングニュース.md "wikilink")）』という番組名で放送していた（『ニュースの森』時代は「N森・イブニングN」という両併記だった）関係から、ロゴや[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")・テロップ等についてはRSK独自の物を採用している。
 
 番組がスタートした2005年3月28日から31日までは、前番組『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』同様に全編ローカルスポンサーだったが、4月1日から番組の後半はナショナルスポンサーとなった。『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』がナショナルスポンサー枠を廃止した2000年4月以降、5年ぶりの復活となった。
 
 ### 平日版
 
-[平日](../Page/平日.md "wikilink")（[祝日を含む](../Page/国民の祝日.md "wikilink")）は、“**[TBS平日ワイド大改編](https://ja.wikipedia.org/wiki/TBS平日ワイド大改編 "wikilink")・夕の変**”としてスタートした大型[ニュース](../Page/ニュース.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")の『**[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")**』内の1コーナーとして放送した。JNN枠の[全国ニュース](https://ja.wikipedia.org/wiki/全国ニュース "wikilink")で、他とは区別した作りのため、17:50に『イブニング・ニュース』のタイトルを表示（但し、一部地域は除かれる）。また、[副音声にて](../Page/音声多重放送.md "wikilink")[英語](../Page/英語.md "wikilink")同時通訳による[二ヶ国語放送を実施した](../Page/2か国語放送.md "wikilink")（一部地域と[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")は除く）。
+[平日](../Page/平日.md "wikilink")（[祝日を含む](../Page/国民の祝日.md "wikilink")）は、“**[TBS平日ワイド大改編](../Page/TBS平日ワイド大改編.md "wikilink")・夕の変**”としてスタートした大型[ニュース](../Page/ニュース.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")の『**[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")**』内の1コーナーとして放送した。JNN枠の[全国ニュース](https://ja.wikipedia.org/wiki/全国ニュース "wikilink")で、他とは区別した作りのため、17:50に『イブニング・ニュース』のタイトルを表示（但し、一部地域は除かれる）。また、[副音声にて](../Page/音声多重放送.md "wikilink")[英語](../Page/英語.md "wikilink")同時通訳による[二ヶ国語放送を実施した](../Page/2か国語放送.md "wikilink")（一部地域と[年末年始](../Page/年末年始.md "wikilink")は除く）。
 
 二ヶ国語放送を実施していない一部地域は[北海道放送](../Page/北海道放送.md "wikilink")の函館・室蘭・旭川・網走・帯広・釧路地区のアナログ放送エリア（これらの地域でも地上デジタル放送では二ヶ国語放送が受信可能(2007年8月末 - 9月上旬にかけての試験放送開始より。正式開始は2007年10月)）と、[青森テレビ](../Page/青森テレビ.md "wikilink")・[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[テレビ山口](../Page/テレビ山口.md "wikilink")のアナログ・デジタル放送全エリアとなっている
 
@@ -47,11 +47,11 @@
 
 週末版の放送途中（通常は、スポーツニュースの前）に、『[JNN報道特集](https://ja.wikipedia.org/wiki/JNN報道特集 "wikilink")』の[予告が流されていた](../Page/番組宣伝.md "wikilink")。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")からは、日曜版の放送途中に『[THE世界遺産](https://ja.wikipedia.org/wiki/THE世界遺産 "wikilink")』の予告が流された。ただ、どちらの場合にも報道系の特番が放送される際には、そちらが優先して流されていた。『THE世界遺産』の予告は、後継の『THE NEWS』でも流されている。
 
-週末版の(全国枠)エンディングでは、提供クレジット(枠)の後、[TBSの様にすぐCMに入る局](../Page/TBSテレビ.md "wikilink")、[ATV](../Page/青森テレビ.md "wikilink")（『[ATVニュース](../Page/ATVニュース.md "wikilink")』）や[MBS](../Page/毎日放送.md "wikilink")（日曜日の『[毎日新聞テレビ夕刊](../Page/毎日新聞テレビ夕刊.md "wikilink")』に限る）の様に次番組の予告を行う局、[RCCや](../Page/中国放送.md "wikilink")[RBCの様に番組タイトルを表示する局がそれぞれある](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")。また[HBCでは日曜日に限り](../Page/北海道放送.md "wikilink")、提供クレジット(枠)の前に次番組（「イブニング・ニュース　このあとは札幌から」）の番組タイトルを表示、その後番組宣伝の5秒CM（『[みのもんたの朝ズバッ\!](https://ja.wikipedia.org/wiki/みのもんたの朝ズバッ! "wikilink")』など）が入り、ローカルニュースに切り替わる。
+週末版の(全国枠)エンディングでは、提供クレジット(枠)の後、[TBSの様にすぐCMに入る局](../Page/TBSテレビ.md "wikilink")、[ATV](../Page/青森テレビ.md "wikilink")（『[ATVニュース](../Page/ATVニュース.md "wikilink")』）や[MBS](../Page/毎日放送.md "wikilink")（日曜日の『[毎日新聞テレビ夕刊](../Page/毎日新聞テレビ夕刊.md "wikilink")』に限る）の様に次番組の予告を行う局、[RCCや](../Page/中国放送.md "wikilink")[RBCの様に番組タイトルを表示する局がそれぞれある](../Page/琉球放送.md "wikilink")。また[HBCでは日曜日に限り](../Page/北海道放送.md "wikilink")、提供クレジット(枠)の前に次番組（「イブニング・ニュース　このあとは札幌から」）の番組タイトルを表示、その後番組宣伝の5秒CM（『[みのもんたの朝ズバッ\!](https://ja.wikipedia.org/wiki/みのもんたの朝ズバッ! "wikilink")』など）が入り、ローカルニュースに切り替わる。
 
 日曜日の放送は他の曜日とは違い、すべてスポンサーがローカルセールスとなっている（局によってはスポンサーなしの地域がある）。2008年3月まで放送されていた土曜日にはネットスポンサーがあった。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")[改編](../Page/改編.md "wikilink")で、土曜版は『JNN報道特集』の後継番組『**[報道特集NEXT](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")**\[1\]』で、当番組とはまた別に、土曜日夕方の[JNNニュース](../Page/JNNニュース.md "wikilink")を放送することになった。これにより、土曜日の通常放送は同年[3月29日](../Page/3月29日.md "wikilink")を以って終了した（ただし[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")は除く、詳細は[下記参照](https://ja.wikipedia.org/wiki/#年末年始版 "wikilink")）。また、この『報道特集NEXT』開始に伴って、[毎日放送](../Page/毎日放送.md "wikilink")（MBS）の制作で放送されていた[通称土6枠のアニメが](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")、[日曜夕方5時枠に移動して放送](../Page/毎日放送制作日曜夕方5時枠のアニメ.md "wikilink")（2008年4月から『**[コードギアス 反逆のルルーシュR2](../Page/コードギアス_反逆のルルーシュ.md "wikilink")**』が放送）されることになった関係上、日曜版は30分繰り下げられた\[2\]。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")[改編](../Page/改編.md "wikilink")で、土曜版は『JNN報道特集』の後継番組『**[報道特集NEXT](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")**\[1\]』で、当番組とはまた別に、土曜日夕方の[JNNニュース](../Page/JNNニュース.md "wikilink")を放送することになった。これにより、土曜日の通常放送は同年[3月29日](../Page/3月29日.md "wikilink")を以って終了した（ただし[年末年始](../Page/年末年始.md "wikilink")は除く、詳細は[下記参照](https://ja.wikipedia.org/wiki/#年末年始版 "wikilink")）。また、この『報道特集NEXT』開始に伴って、[毎日放送](../Page/毎日放送.md "wikilink")（MBS）の制作で放送されていた[通称土6枠のアニメが](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")、[日曜夕方5時枠に移動して放送](../Page/毎日放送制作日曜夕方5時枠のアニメ.md "wikilink")（2008年4月から『**[コードギアス 反逆のルルーシュR2](../Page/コードギアス_反逆のルルーシュ.md "wikilink")**』が放送）されることになった関係上、日曜版は30分繰り下げられた\[2\]。
 
 前述のように2009年4月からは平日版のニュースは『総力報道\!THE NEWS』に移行するが、日曜版も2009年[3月29日](../Page/3月29日.md "wikilink")に放送終了した。後番組は『総力報道\!THE NEWS』の日曜版『**THE NEWS**』、最終回の放送日にはNスタジオはすでにTHE NEWSのセットに衣替えされ、後ろに映っている報道局のフロアにも「総力報道\!THE NEWS」のロゴが付けられていたが、衣替えされたNスタジオで通常通り放送された。なお、2005年春の「ニュースの森」の最終回でも「イブニング・ファイブ」のセットに衣替えされたスタジオで最終回が放送された。また、2008年春に「イブニング・ファイブ」や「NEWS23」のセットが新しくなる際も、新セットでリニューアル前最後の「イブニング・ニュース」が放送されている。現在の放送センターに移動してから2000年までは「NEWS23」以外は、日曜日から翌週の日曜日までの1週間、報道局のフロアから放送することで対応していた。
 
@@ -61,7 +61,7 @@
 
 [1月1日](../Page/1月1日.md "wikilink")（[元日](../Page/元日.md "wikilink")）が土曜・日曜に重ならない限り、この期間の土曜・日曜にも、通常の週末キャスターが担当する。これ以外は、日替わりで男性と女性のアナウンサーが1人ずつ担当する。
 
-年末・[正月三が日](https://ja.wikipedia.org/wiki/正月三が日 "wikilink")は、関東ローカル枠まで放送する系列局もある。
+年末・[正月三が日](../Page/正月三が日.md "wikilink")は、関東ローカル枠まで放送する系列局もある。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から、土曜日夕方のニュースは、当番組に替わって『[報道特集NEXT](https://ja.wikipedia.org/wiki/報道特集_\(TBS\) "wikilink")\[3\]』で伝えられるようになったが、特別編成により同番組が休止される際、夕方のニュースを補完する意味で、この時に限り土曜日にも『イブニング・ニュース』が放送された（[2009年](../Page/2009年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")放送）。
 

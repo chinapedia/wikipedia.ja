@@ -33,13 +33,13 @@
     [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[独占\!\!スポーツ情報](../Page/独占!!スポーツ情報.md "wikilink")』オープニングテーマ曲
     [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[コズミックイプシロン](../Page/コズミックイプシロン.md "wikilink")』1面BGM（タイアップ曲）
   - サイレント・ソング
-    松浦が当時パーソナリティを務めていた『[サウンドストリート](https://ja.wikipedia.org/wiki/サウンドストリート "wikilink")』（[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")）火曜日の企画「マンスリー・ソング」の1曲として作られた（この曲を含む、約1年にわたる放送期間中に作られた楽曲の大半はProduced by Another PSY･S名義でPSY･S Presents "Collection"に収録された）。PSY･Sの楽曲は作曲・編曲のほとんどを松浦雅也が担当しているが、この曲は当時[BARBEE BOYSのギタリストだった](../Page/BARBEE_BOYS.md "wikilink")[いまみちともたか](../Page/いまみちともたか.md "wikilink")が作曲した。BARBEE BOYSは同曲の歌詞とアレンジを変えて「Noisy」というタイトルで、アルバム『Listen\! BARBEE BOYS4』に収録した（なお、男女ツインボーカルが基本の同バンドには珍しく、[杏子のソロナンバーになっている](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")）。この曲をきっかけに両者の交流が始まり、「ノー・キーボード」を謳っていたBARBEE BOYSに松浦がキーボードで参加した。株式会社フェニックス PHENIX 1986 collectionのCM曲として採用された。
+    松浦が当時パーソナリティを務めていた『[サウンドストリート](https://ja.wikipedia.org/wiki/サウンドストリート "wikilink")』（[NHK-FM](../Page/NHK-FM放送.md "wikilink")）火曜日の企画「マンスリー・ソング」の1曲として作られた（この曲を含む、約1年にわたる放送期間中に作られた楽曲の大半はProduced by Another PSY･S名義でPSY･S Presents "Collection"に収録された）。PSY･Sの楽曲は作曲・編曲のほとんどを松浦雅也が担当しているが、この曲は当時[BARBEE BOYSのギタリストだった](../Page/BARBEE_BOYS.md "wikilink")[いまみちともたか](../Page/いまみちともたか.md "wikilink")が作曲した。BARBEE BOYSは同曲の歌詞とアレンジを変えて「Noisy」というタイトルで、アルバム『Listen\! BARBEE BOYS4』に収録した（なお、男女ツインボーカルが基本の同バンドには珍しく、[杏子のソロナンバーになっている](../Page/杏子_\(ミュージシャン\).md "wikilink")）。この曲をきっかけに両者の交流が始まり、「ノー・キーボード」を謳っていたBARBEE BOYSに松浦がキーボードで参加した。株式会社フェニックス PHENIX 1986 collectionのCM曲として採用された。
   - BRAND-NEW MENU
     [セイコー](https://ja.wikipedia.org/wiki/セイコー "wikilink")[腕時計](../Page/腕時計.md "wikilink") ALBA [CM曲](https://ja.wikipedia.org/wiki/CM曲 "wikilink")
   - Another Diary
     セイコー腕時計 ALBA CM曲
   - 3-D天国（スリーディーヘブン）
-    NHK[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink") 1988年10月-11月楽曲
+    NHK[みんなのうた](../Page/みんなのうた.md "wikilink") 1988年10月-11月楽曲
     キューン・ソニーレコード（後の[キューンミュージック](../Page/キューンミュージック.md "wikilink")）から1997年9月1日に発売されたCD『NHK みんなのうた さとうきび畑』で初CD化された。2012年のボックスセット「Psyclropedia」のDISC 3に収録されている。
 
 ## ディスコグラフィ
@@ -85,7 +85,7 @@
 
 #### その他のアルバム
 
-1.  **[PSY・S Presents %22Collection%22](https://ja.wikipedia.org/wiki/PSY・S_Presents_%22Collection%22 "wikilink")** （1987年2月26日） [NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")「[サウンドストリート](https://ja.wikipedia.org/wiki/サウンドストリート "wikilink")」が元となったコラボレーションアルバム
+1.  **[PSY・S Presents %22Collection%22](https://ja.wikipedia.org/wiki/PSY・S_Presents_%22Collection%22 "wikilink")** （1987年2月26日） [NHK-FM](../Page/NHK-FM放送.md "wikilink")「[サウンドストリート](https://ja.wikipedia.org/wiki/サウンドストリート "wikilink")」が元となったコラボレーションアルバム
     <small>Wake Up (A Short Version) / ドリーム・スープ / 本当の嘘 / ビー玉坂 / Woman・S (Bossa nova Version) / サイレント・ソング / 絵に描いたよりPictureness / 風の中で / 私は流行、あなたは世間 (Instrumental Version)</small>
 2.  **[TWO HEARTS](https://ja.wikipedia.org/wiki/TWO_HEARTS_\(アルバム\) "wikilink")** （1991年4月25日） ベストアルバム
     <small>Woman・S(New Version) / 電気とミント(Movie Mix) / Friends or Lovers(New Mix) / Lemonの勇気(New Mix) / ファジィな痛み / Desert(New Version) / Another Diary(New Version) / Brand-New Menu(New Version) / 景色(New Version) / Cubic Lovers / Angel Night～天使のいる場所(New Mix) / 薔薇とノンフィクション / From The Planet With Love('87 Version) / Parachute Limit / Wondering up and down～水のマージナル</small>
@@ -103,7 +103,7 @@
 
 ### ビデオシングル
 
-  - 電気とミント([CDV](https://ja.wikipedia.org/wiki/CDビデオ "wikilink"))（1988年3月5日）
+  - 電気とミント([CDV](../Page/CDビデオ.md "wikilink"))（1988年3月5日）
 
 <small>From The Planet With Love (New Version) / BRAND-NEW MENU (12inch Version) / Chasing The Rainbow / 青空は天気雨 / 電気とミント(ビデオクリップ)</small>
 

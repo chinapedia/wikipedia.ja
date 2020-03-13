@@ -20,9 +20,9 @@
     1991年4月から水曜日20時枠は「[NHKスペシャル](../Page/NHKスペシャル.md "wikilink")」（19時30分 - ）に変更されることになり、これに代わる新しい時代劇枠を[金曜日](../Page/金曜日.md "wikilink")の20時 - 20時45分の枠に「**金曜時代劇**」として放送するようになる。なお[1992年](../Page/1992年.md "wikilink")度のみ[コンプレックス形式が採られたため](../Page/コンプレックス_\(番組形式\).md "wikilink")、19時30分 - 20時15分の枠で時代劇を放送、後半30分枠は現代劇の「[金曜ドラマ](https://ja.wikipedia.org/wiki/金曜ドラマ_\(NHK\) "wikilink")」が併せて放送された。
     その後[2000年](../Page/2000年.md "wikilink")4月の番組大幅改定に伴い、番組枠を[月曜](../Page/月曜日.md "wikilink")21時15分 - 21時58分に移動して「**時代劇ロマン**」として1年間放送した後、[2001年](../Page/2001年.md "wikilink")4月から再び金曜日の21時15分 - 21時58分に戻り、「**金曜時代劇**」のタイトルも復活した。しかし1999年まで原則として年2本（2クールのドラマが2本）の制作であった時代劇枠は、TV時代劇総体の不振という状況もあって、2000年度以降1本ごとの回数が大幅に減らされた。これを補うため、過去に「[正月時代劇](../Page/NHK正月時代劇.md "wikilink")」として放送され好評を博した作品を2回分に再編集しアンコール放送することもこの時期から行われるようになった。
   - （第一次）木曜時代劇
-    [2006年](../Page/2006年.md "wikilink")4月の改編でNHK時代劇枠は[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")の20時 - 20時45分に移動、タイトルも「**木曜時代劇**」となった。およそ年5本程度が制作された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月から3月まで放送された『鞍馬天狗』を以って木曜時代劇は終了した。
+    [2006年](../Page/2006年.md "wikilink")4月の改編でNHK時代劇枠は[木曜日](../Page/木曜日.md "wikilink")の20時 - 20時45分に移動、タイトルも「**木曜時代劇**」となった。およそ年5本程度が制作された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月から3月まで放送された『鞍馬天狗』を以って木曜時代劇は終了した。
   - （第一次）土曜時代劇
-    2008年4月からは土曜日19時30分から20時の30分番組となり、タイトルも「**土曜時代劇**」に変更された（[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")や、定期的に放送されている[特別番組](../Page/特別番組.md "wikilink")『[日本の、これから](https://ja.wikipedia.org/wiki/日本の、これから "wikilink")』などで休止になる日もあった）。
+    2008年4月からは土曜日19時30分から20時の30分番組となり、タイトルも「**土曜時代劇**」に変更された（[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")や、定期的に放送されている[特別番組](../Page/特別番組.md "wikilink")『[日本の、これから](../Page/日本の、これから.md "wikilink")』などで休止になる日もあった）。
     アナログ総合はステレオ放送のみだが、デジタル放送では[解説放送](../Page/解説放送.md "wikilink")が実施されていた。また[NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")で原則毎週金曜日18時25分から18時55分に先行放映があった。NHKワールド・プレミアムでも同時放送（音声はモノラル）されていたが、[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")のクライマックスシリーズや日本シリーズの中継（衛星第1テレビおよびデジタル衛星ハイビジョン単独放送時の同時放送のみ）がある場合は当該週の放送を休止し、翌週に2週分のまとめ放送実施や、総合テレビより先行放送で開始時刻を繰り上げることもあった（2008年[11月1日](../Page/11月1日.md "wikilink")は18時 - 18時30分に繰り上げ放送を実施）。
   - 地上波での終了・BS時代劇へ
     テレビの完全デジタル化に伴う編成の抜本見直しに伴い、2011年3月を以て土曜時代劇は終了した。45年間続いてきた総合テレビでの娯楽時代劇枠は終了し、[NHK BSプレミアムで毎週日曜日に放送する](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")『[BS時代劇](https://ja.wikipedia.org/wiki/BS時代劇 "wikilink")』に事実上移行した。
@@ -30,11 +30,11 @@
     [2012年](../Page/2012年.md "wikilink")4月度の改編は正式な定時の枠としての放送はされていないものの、過去に[BS時代劇](https://ja.wikipedia.org/wiki/BS時代劇 "wikilink")として放送した作品のアンコールとして、『[テンペスト](https://ja.wikipedia.org/wiki/テンペスト_\(池上永一\)#テレビドラマ "wikilink")』を木曜22時台、『[新選組血風録](https://ja.wikipedia.org/wiki/新選組血風録_\(テレビドラマ\)#2011年版 "wikilink")』が日曜13時台の「ドラマアンコール枠」にそれぞれ編成したが、地上波・BSを含めた連続ドラマ枠再強化に伴い、同10月度改編\[1\]で開始した「[薄桜記](https://ja.wikipedia.org/wiki/薄桜記 "wikilink")」以後から正式に木曜20時台を「時代劇」のゾーンとすることが決定。地上波では1年半ぶりとなる娯楽時代劇ゾーンの復活となった。
     なお[2013年](../Page/2013年.md "wikilink")4月度の改編以後は同時に原則として月1回ペースで『[ごきげん歌謡笑劇団](https://ja.wikipedia.org/wiki/ごきげん歌謡笑劇団 "wikilink")』が同枠で編成されることも決まっており、これが放送されるときには休止する。
   - （第二次）木曜時代劇
-    2013年8月まで[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")の20時 - 20時45分では、前年度後期に引き続いて過去に[BS時代劇](https://ja.wikipedia.org/wiki/BS時代劇 "wikilink")として放送した作品のアンコールを編成していたが、先述の連続ドラマ枠の再強化の一環として、2013年9月19日から放送される『[あさきゆめみし 〜八百屋お七異聞](https://ja.wikipedia.org/wiki/あさきゆめみし_〜八百屋お七異聞 "wikilink")』で、土曜時代劇で[2011年](../Page/2011年.md "wikilink")1月から3月まで放送された『[隠密八百八町](https://ja.wikipedia.org/wiki/隠密八百八町 "wikilink")』以来2年半ぶりに地上波でのオリジナル新作時代劇が再開されると同時に、ゾーン名も「**木曜時代劇**」として放送されることになった（またこれまで「ドラマアンコール」\<[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")など一部地域を除く\>としていた日曜 13時5分 - 13時50分の枠も当該週の木曜時代劇の再放送に充てることになったが、2014年は1月からスポーツ中継などの単発枠が放送されることになり、水曜日 0時40分 - 1時25分＜火曜日 24時40分 - 25時25分＞→4月から1時25分 - 2時10分＜同25時25分 - 26時10分＞に移転。2015年度は日中の情報番組の編成見直しなどにより、放送次週の同じ木曜 14時5分 - 14時50分\<[国会中継](../Page/国会中継.md "wikilink")、スポーツ中継などにより変更有\>に再放送を再移動している）。
+    2013年8月まで[木曜日](../Page/木曜日.md "wikilink")の20時 - 20時45分では、前年度後期に引き続いて過去に[BS時代劇](https://ja.wikipedia.org/wiki/BS時代劇 "wikilink")として放送した作品のアンコールを編成していたが、先述の連続ドラマ枠の再強化の一環として、2013年9月19日から放送される『[あさきゆめみし 〜八百屋お七異聞](https://ja.wikipedia.org/wiki/あさきゆめみし_〜八百屋お七異聞 "wikilink")』で、土曜時代劇で[2011年](../Page/2011年.md "wikilink")1月から3月まで放送された『[隠密八百八町](https://ja.wikipedia.org/wiki/隠密八百八町 "wikilink")』以来2年半ぶりに地上波でのオリジナル新作時代劇が再開されると同時に、ゾーン名も「**木曜時代劇**」として放送されることになった（またこれまで「ドラマアンコール」\<[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")など一部地域を除く\>としていた日曜 13時5分 - 13時50分の枠も当該週の木曜時代劇の再放送に充てることになったが、2014年は1月からスポーツ中継などの単発枠が放送されることになり、水曜日 0時40分 - 1時25分＜火曜日 24時40分 - 25時25分＞→4月から1時25分 - 2時10分＜同25時25分 - 26時10分＞に移転。2015年度は日中の情報番組の編成見直しなどにより、放送次週の同じ木曜 14時5分 - 14時50分\<[国会中継](../Page/国会中継.md "wikilink")、スポーツ中継などにより変更有\>に再放送を再移動している）。
     「大河ドラマ」「BS時代劇」もそれぞれ継続されているので、NHKの時代劇番組は地上波・BSを含め週3本放送となる（大河ドラマは地上波・BSで同じ作品を放送）
     [2016年](../Page/2016年.md "wikilink")1月から3月まで放送された『[ちかえもん](https://ja.wikipedia.org/wiki/ちかえもん "wikilink")』を以って木曜時代劇は終了する予定だったが、2016年4月14日より『[鼠、江戸を疾る](https://ja.wikipedia.org/wiki/鼠、江戸を疾る "wikilink")(第2シーズン)』が放送される為、期間限定で木曜20時台の時代劇が放送される。
   - （第二次）土曜時代劇
-    2016年4月改編で（第二次）木曜時代劇が放送されていた時間に『[ファミリーヒストリー](https://ja.wikipedia.org/wiki/ファミリーヒストリー "wikilink")』と『[所さん\!大変ですよ](https://ja.wikipedia.org/wiki/所さん!大変ですよ "wikilink")』が移動するため、時代劇枠を[土曜日](../Page/土曜日.md "wikilink")の18時10分 - 18時45分に移動し、ゾーン名も「**土曜時代劇**」として放送されることになった。同様に作品の入れ替わり時期を中心として年数回程度、同じ時間帯で新番組『[歌う\!SHOW学校](https://ja.wikipedia.org/wiki/歌う!SHOW学校 "wikilink")』（[五木ひろし](https://ja.wikipedia.org/wiki/五木ひろし "wikilink")司会の公開音楽バラエティ）を放送する。
+    2016年4月改編で（第二次）木曜時代劇が放送されていた時間に『[ファミリーヒストリー](https://ja.wikipedia.org/wiki/ファミリーヒストリー "wikilink")』と『[所さん\!大変ですよ](https://ja.wikipedia.org/wiki/所さん!大変ですよ "wikilink")』が移動するため、時代劇枠を[土曜日](../Page/土曜日.md "wikilink")の18時10分 - 18時45分に移動し、ゾーン名も「**土曜時代劇**」として放送されることになった。同様に作品の入れ替わり時期を中心として年数回程度、同じ時間帯で新番組『[歌う\!SHOW学校](https://ja.wikipedia.org/wiki/歌う!SHOW学校 "wikilink")』（[五木ひろし](../Page/五木ひろし.md "wikilink")司会の公開音楽バラエティ）を放送する。
   - 土曜時代ドラマ
     2017年4月改編より土曜日の18時5分 - 18時45分に放送枠を拡大し、「**土曜時代ドラマ**」へと改称してリニューアル。シニア層が多い時代劇の視聴者を若年層にまで広げるため、「新しい時代劇」に挑戦。描かれる時代を[明治](../Page/明治.md "wikilink")、[大正](../Page/大正.md "wikilink")、[昭和](../Page/昭和.md "wikilink")（戦前）まで拡大して、[エンドロールにミニ料理コーナーを配した第](../Page/クレジットタイトル.md "wikilink")1弾『[みをつくし料理帖](https://ja.wikipedia.org/wiki/みをつくし料理帖#テレビドラマ（NHK版） "wikilink")』、戦前の昭和を舞台としたおしゃれな[ラブコメディ](../Page/ラブコメディ.md "wikilink")の第2弾『[悦ちゃん〜昭和駄目パパ恋物語〜](https://ja.wikipedia.org/wiki/悦ちゃん#NHK版（2017年） "wikilink")』、人気コミックを原作に戦国時代への[タイムスリップを描いた第](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")3弾『[アシガール](https://ja.wikipedia.org/wiki/アシガール#テレビドラマ "wikilink")』と、旧来の時代劇とは一線を画した時代劇作品をラインアップしている\[2\]。時代劇の枠を外したことで、昭和初期を描く『[悦ちゃん](https://ja.wikipedia.org/wiki/悦ちゃん "wikilink")』がラインナップされている。2018年4月以後は、『[土曜ドラマ](../Page/土曜ドラマ_\(NHK\).md "wikilink")』（21時枠　不定期で年数回中編放送）、『[よるドラ](../Page/よるドラ.md "wikilink")』（23時30分枠）と夜間帯の連続ドラマ枠が3本放送されているが、同時期から当番組枠は過去に[NHK BSプレミアムの](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「[BS時代劇](https://ja.wikipedia.org/wiki/BS時代劇 "wikilink")」として過去に放送されたものを再編集したものも随時放送されている。
 
@@ -51,7 +51,7 @@
   - [大岡政談 池田大助捕物帳](https://ja.wikipedia.org/wiki/大岡政談_池田大助捕物帳 "wikilink")（1966年4月 - [1967年](../Page/1967年.md "wikilink")3月）
   - [文五捕物絵図](https://ja.wikipedia.org/wiki/文五捕物絵図 "wikilink")（1967年4月 - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")10月）
   - [開化探偵帳](https://ja.wikipedia.org/wiki/開化探偵帳 "wikilink")（1968年11月 - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")10月）
-  - [鞍馬天狗](https://ja.wikipedia.org/wiki/鞍馬天狗_\(1969年のテレビドラマ\) "wikilink")（1969年10月 - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")10月）
+  - [鞍馬天狗](https://ja.wikipedia.org/wiki/鞍馬天狗_\(1969年のテレビドラマ\) "wikilink")（1969年10月 - [1970年](../Page/1970年.md "wikilink")10月）
   - [男は度胸](../Page/男は度胸.md "wikilink")（1970年10月 - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")10月）
   - [天下御免](../Page/天下御免.md "wikilink")（1971年10月 - [1972年](../Page/1972年.md "wikilink")10月）
   - [赤ひげ](../Page/赤ひげ_\(1972年のテレビドラマ\).md "wikilink")（1972年10月 - [1973年](../Page/1973年.md "wikilink")9月）
@@ -89,8 +89,8 @@
   - [腕におぼえあり](../Page/腕におぼえあり.md "wikilink")（[1992年](../Page/1992年.md "wikilink")4月 - 6月）
   - [腕におぼえあり](../Page/腕におぼえあり.md "wikilink")2（1992年9月 - 11月）
   - [腕におぼえあり](../Page/腕におぼえあり.md "wikilink")3（[1993年](../Page/1993年.md "wikilink")1月 - 3月）
-  - [清左衛門残日録](https://ja.wikipedia.org/wiki/清左衛門残日録 "wikilink")（1993年4月 - 7月）
-  - [はやぶさ新八御用帳](https://ja.wikipedia.org/wiki/はやぶさ新八御用帳 "wikilink")（1993年9月 - [1994年](../Page/1994年.md "wikilink")3月）
+  - [清左衛門残日録](../Page/清左衛門残日録.md "wikilink")（1993年4月 - 7月）
+  - [はやぶさ新八御用帳](../Page/はやぶさ新八御用帳.md "wikilink")（1993年9月 - [1994年](../Page/1994年.md "wikilink")3月）
   - [大江戸風雲伝](https://ja.wikipedia.org/wiki/大江戸風雲伝 "wikilink")（1994年4月 - 7月）
   - [戦国武士の有給休暇](https://ja.wikipedia.org/wiki/戦国武士の有給休暇 "wikilink")（1994年8月 - 9月）
   - [十時半睡事件帖](https://ja.wikipedia.org/wiki/十時半睡事件帖_\(テレビドラマ\) "wikilink")（1994年9月 - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3月）
@@ -128,14 +128,14 @@
   - [御宿かわせみ](../Page/御宿かわせみ.md "wikilink")（2003年4月 - 5月）
   - [ゆうれい、貸します〜お染・恋の七変化〜](https://ja.wikipedia.org/wiki/ゆうれい、貸します〜お染・恋の七変化〜 "wikilink")（2003年6月 - 7月）
   - [茂七の事件簿3 ふしぎ草紙](https://ja.wikipedia.org/wiki/茂七の事件簿_ふしぎ草紙 "wikilink")（2003年7月 - 8月）
-  - [蝉しぐれ](https://ja.wikipedia.org/wiki/蝉しぐれ "wikilink")（2003年8月 - 10月）
+  - [蝉しぐれ](../Page/蝉しぐれ.md "wikilink")（2003年8月 - 10月）
   - [転がしお銀](../Page/転がしお銀.md "wikilink")〜父娘あだ討ち江戸日記〜（2003年10月 - 12月）
   - [はんなり菊太郎](../Page/はんなり菊太郎.md "wikilink")2〜京・公事宿事件帳〜（[2004年](../Page/2004年.md "wikilink")1月 - 2月）
   - [茂七の事件簿セレクション](https://ja.wikipedia.org/wiki/茂七の事件簿_ふしぎ草紙 "wikilink")（2004年2月 - 3月）
   - [御宿かわせみ](../Page/御宿かわせみ.md "wikilink")〜第二章〜（2004年4月 - 7月）
   - [慶次郎縁側日記](../Page/慶次郎縁側日記.md "wikilink")（2004年8月 - 10月）
   - [最後の忠臣蔵](../Page/最後の忠臣蔵.md "wikilink")（2004年11月 - 12月）
-  - [華岡青洲の妻](https://ja.wikipedia.org/wiki/華岡青洲の妻 "wikilink")\[3\]（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月 - 3月）
+  - [華岡青洲の妻](https://ja.wikipedia.org/wiki/華岡青洲の妻 "wikilink")\[3\]（[2005年](../Page/2005年.md "wikilink")1月 - 3月）
   - [慶次郎縁側日記](../Page/慶次郎縁側日記.md "wikilink")（2005年3月）：再放送
   - [柳生十兵衛七番勝負](../Page/柳生十兵衛七番勝負.md "wikilink")（2005年4月 - 5月）
   - [御宿かわせみ](../Page/御宿かわせみ.md "wikilink")〜第三章〜（2005年5月 - 8月）
@@ -156,7 +156,7 @@
   - [夏雲あがれ](../Page/夏雲あがれ.md "wikilink")（2007年6月 - 7月）
   - [陽炎の辻〜居眠り磐音 江戸双紙〜](../Page/陽炎の辻〜居眠り磐音_江戸双紙〜.md "wikilink")（2007年7月 - 10月）
   - [風の果て](../Page/風の果て.md "wikilink")（2007年10月 - 12月）
-  - [新選組\!\! 土方歳三 最期の一日](https://ja.wikipedia.org/wiki/新選組!!_土方歳三_最期の一日 "wikilink")（2007年12月）：再編集版
+  - [新選組\!\! 土方歳三 最期の一日](../Page/新選組!!_土方歳三_最期の一日.md "wikilink")（2007年12月）：再編集版
   - [鞍馬天狗](../Page/鞍馬天狗_\(2008年のテレビドラマ\).md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月 - 3月）
 
 ### 土曜時代劇（2008 - 2010年度）
@@ -198,11 +198,11 @@
   - [鼠、江戸を疾る](https://ja.wikipedia.org/wiki/鼠、江戸を疾る "wikilink")（2014年1月9日 - 3月20日、主演：[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")、脚本：[大森寿美男](../Page/大森寿美男.md "wikilink")・川﨑いづみ、原作：[赤川次郎](../Page/赤川次郎.md "wikilink")、製作：NEP・[光和インターナショナル](../Page/光和インターナショナル.md "wikilink")）\[5\]
   - [銀二貫](https://ja.wikipedia.org/wiki/銀二貫 "wikilink")（2014年4月10日 - 6月5日、主演：[林遣都](../Page/林遣都.md "wikilink")、脚本：[森脇京子](https://ja.wikipedia.org/wiki/森脇京子 "wikilink")・[岡本貴也](../Page/岡本貴也.md "wikilink")、原作：[髙田郁](https://ja.wikipedia.org/wiki/高田郁 "wikilink")、製作：[NHK大阪](../Page/NHK大阪放送局.md "wikilink")・[松竹撮影所](../Page/松竹撮影所.md "wikilink")）\[6\]
   - [吉原裏同心](https://ja.wikipedia.org/wiki/吉原裏同心 "wikilink")（2014年6月26日 - 9月18日、主演：[小出恵介](../Page/小出恵介.md "wikilink")、脚本：[尾崎将也](../Page/尾崎将也.md "wikilink")、原作：[佐伯泰英](../Page/佐伯泰英.md "wikilink")、製作：NEP）\[7\]
-  - [ぼんくら](https://ja.wikipedia.org/wiki/ぼんくら "wikilink")（2014年10月16日 - 12月18日、主演：[岸谷五朗](../Page/岸谷五朗.md "wikilink")、脚本：[尾西兼一](../Page/尾西兼一.md "wikilink")、原作：[宮部みゆき](../Page/宮部みゆき.md "wikilink")、製作：NEP）\[8\]
+  - [ぼんくら](../Page/ぼんくら.md "wikilink")（2014年10月16日 - 12月18日、主演：[岸谷五朗](../Page/岸谷五朗.md "wikilink")、脚本：[尾西兼一](../Page/尾西兼一.md "wikilink")、原作：[宮部みゆき](../Page/宮部みゆき.md "wikilink")、製作：NEP）\[8\]
   - [風の峠〜銀漢の賦〜](https://ja.wikipedia.org/wiki/銀漢の賦 "wikilink")（2015年1月15日 - 2月19日、主演：[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")、脚本：[森下直](https://ja.wikipedia.org/wiki/森下直 "wikilink")・西井史子、原作：[葉室麟](../Page/葉室麟.md "wikilink")）\[9\]
   - [かぶき者 慶次](https://ja.wikipedia.org/wiki/かぶき者_慶次 "wikilink")（2015年4月9日 - 6月18日、主演：[藤竜也](../Page/藤竜也.md "wikilink")、脚本：[小松江里子](https://ja.wikipedia.org/wiki/小松江里子 "wikilink")、原案：[火坂雅志](../Page/火坂雅志.md "wikilink")）\[10\]
   - [まんまこと](https://ja.wikipedia.org/wiki/まんまこと "wikilink")〜麻之助裁定帳〜（2015年7月16日 - 10月1日、主演：[福士誠治](../Page/福士誠治.md "wikilink")、脚本：[吉田紀子](../Page/吉田紀子.md "wikilink")、原作：[畠中恵](../Page/畠中恵.md "wikilink")）\[11\]\[12\]
-  - [ぼんくら](https://ja.wikipedia.org/wiki/ぼんくら "wikilink")2（2015年10月22日 - 12月3日 、主演：岸谷五朗、脚本：尾西兼一、原作：宮部みゆき、製作：NEP）\[13\]
+  - [ぼんくら](../Page/ぼんくら.md "wikilink")2（2015年10月22日 - 12月3日 、主演：岸谷五朗、脚本：尾西兼一、原作：宮部みゆき、製作：NEP）\[13\]
   - [ちかえもん](https://ja.wikipedia.org/wiki/ちかえもん "wikilink")（2016年1月14日 - 3月3日、主演：[青木崇高](../Page/青木崇高.md "wikilink")、[松尾スズキ](../Page/松尾スズキ.md "wikilink")、脚本：[藤本有紀](../Page/藤本有紀.md "wikilink")）\[14\]
   - [鼠、江戸を疾る](https://ja.wikipedia.org/wiki/鼠、江戸を疾る "wikilink")2 (2016年4月14日 - 6月2日、主演：[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")、原作：[赤川次郎](../Page/赤川次郎.md "wikilink")) ※[木曜時代劇](https://ja.wikipedia.org/wiki/木曜時代劇 "wikilink")とは別枠扱い
 

@@ -65,7 +65,7 @@ PaintShopは過去に3回、現行製品よりも古いVer.を廉価版として
 
 <!-- end list -->
 
-  - 2006年7月21日、[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")よりPaintShop Pro 9 の本体のみを改題した「PaintShop Pro パーソナル」が1,980円という価格で発売された（現在は販売終了）。これは当時最新版 Corel PaintShop Pro Photo XIの廉価版という位置付けである。
+  - 2006年7月21日、[ソースネクスト](../Page/ソースネクスト.md "wikilink")よりPaintShop Pro 9 の本体のみを改題した「PaintShop Pro パーソナル」が1,980円という価格で発売された（現在は販売終了）。これは当時最新版 Corel PaintShop Pro Photo XIの廉価版という位置付けである。
 
 <!-- end list -->
 
@@ -114,7 +114,7 @@ X8 および X9の各32bit版で、2017年3月8日まで起きていた問題で
   - [Corel PHOTO-PAINT](../Page/Corel_PHOTO-PAINT.md "wikilink")
     [CorelDRAW Graphics Suiteに同梱されている](https://ja.wikipedia.org/wiki/CorelDRAW_Graphics_Suite "wikilink")、PaintShop Proよりプロ向けな画像編集ソフト。CMYK対応、カラーマネージメント対応など高機能化が図られている。「[CorelDRAW](../Page/CorelDRAW.md "wikilink")に配置する画像を加工するためのソフト」という側面が強く、管理機能などは付いていない。また、CorelDRAW Essentialsに同梱されているPhoto-Paint Essentials はオマケ的な要素であり、RAWデータなどを扱うことが出来ない。
   - [Painter](../Page/Painter.md "wikilink")
-    数々の[ペイントソフト](https://ja.wikipedia.org/wiki/ペイントソフト "wikilink")の源流になっているパイオニア的存在。初心者からプロまで使われている本格ソフト。
+    数々の[ペイントソフト](../Page/ペイントソフト.md "wikilink")の源流になっているパイオニア的存在。初心者からプロまで使われている本格ソフト。
 
 ## リリース履歴（日本語版）
 
@@ -328,7 +328,7 @@ Paint Shop Pro 9
 
 <td>
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+[2005年](../Page/2005年.md "wikilink")
 
 </td>
 

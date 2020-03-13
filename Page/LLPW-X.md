@@ -9,7 +9,7 @@
 
 #### 風間ルミ体制
 
-[1992年](../Page/1992年.md "wikilink")1月、[ジャパン女子プロレス](https://ja.wikipedia.org/wiki/ジャパン女子プロレス "wikilink")の解散後に所属選手は同団体の子会社「JWPプロジェクト」を母体に[JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")としての再出発を予定していた。しかし選手会が分裂して[ハーレー斉藤](../Page/ハーレー斉藤.md "wikilink")、[大沢ゆかり](https://ja.wikipedia.org/wiki/ジェンヌゆかり "wikilink")（現：ジェンヌゆかり）、[斉藤緑](https://ja.wikipedia.org/wiki/キャロル美鳥 "wikilink")（現：キャロル美鳥）、[二上美紀子](../Page/GAMI.md "wikilink")（現：GAMI）、[遠藤美月](../Page/遠藤美月.md "wikilink")はJWPに加わらないことになった。この5人と前年にジャパン女子を退団した[半田美希](https://ja.wikipedia.org/wiki/半田美希 "wikilink")、[穂積詩子](https://ja.wikipedia.org/wiki/穂積詩子 "wikilink")、[北村真美](https://ja.wikipedia.org/wiki/レオ北村 "wikilink")（現：レオ北村）のグループ、解散直前にジャパン女子を離脱した[風間ルミ](../Page/風間ルミ.md "wikilink")、[神取忍](../Page/神取忍.md "wikilink")が合流してLLPWを設立。旗揚げに際しては[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")の[立野記代](../Page/立野記代.md "wikilink")、[長嶋美智子](https://ja.wikipedia.org/wiki/長嶋美智子 "wikilink")とジャパン女子の[イーグル沢井](../Page/イーグル沢井.md "wikilink")、[安田留美](../Page/紅夜叉.md "wikilink")（現：紅夜叉）がさらに加わっている。
+[1992年](../Page/1992年.md "wikilink")1月、[ジャパン女子プロレス](../Page/ジャパン女子プロレス.md "wikilink")の解散後に所属選手は同団体の子会社「JWPプロジェクト」を母体に[JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")としての再出発を予定していた。しかし選手会が分裂して[ハーレー斉藤](../Page/ハーレー斉藤.md "wikilink")、[大沢ゆかり](https://ja.wikipedia.org/wiki/ジェンヌゆかり "wikilink")（現：ジェンヌゆかり）、[斉藤緑](https://ja.wikipedia.org/wiki/キャロル美鳥 "wikilink")（現：キャロル美鳥）、[二上美紀子](../Page/GAMI.md "wikilink")（現：GAMI）、[遠藤美月](../Page/遠藤美月.md "wikilink")はJWPに加わらないことになった。この5人と前年にジャパン女子を退団した[半田美希](https://ja.wikipedia.org/wiki/半田美希 "wikilink")、[穂積詩子](https://ja.wikipedia.org/wiki/穂積詩子 "wikilink")、[北村真美](https://ja.wikipedia.org/wiki/レオ北村 "wikilink")（現：レオ北村）のグループ、解散直前にジャパン女子を離脱した[風間ルミ](../Page/風間ルミ.md "wikilink")、[神取忍](../Page/神取忍.md "wikilink")が合流してLLPWを設立。旗揚げに際しては[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")の[立野記代](../Page/立野記代.md "wikilink")、[長嶋美智子](https://ja.wikipedia.org/wiki/長嶋美智子 "wikilink")とジャパン女子の[イーグル沢井](../Page/イーグル沢井.md "wikilink")、[安田留美](../Page/紅夜叉.md "wikilink")（現：紅夜叉）がさらに加わっている。
 
 設立当初の会社名は株式会社レディース・レジェンド・プロ・レスリング。代表に風間が就任。女子プロ界では世界初の代表取締役社長兼現役レスラーとなる。これには選手経験のないいわゆる「背広組」フロントに対する不信感から「男子の[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")や[全日本プロレス](../Page/全日本プロレス.md "wikilink")がそうであるように選手が団体を運営すべき」という半田グループの意向があったといわれる。旗揚げ当初は自前のリングも事務所もなく、1円起業も法制上不可能であり、当時日本の社会で女性が社長になること自体珍しかった（ましてや、プロレス界では尚のこと）ことから周囲からは「女に何ができるんだ」「3ヶ月でつぶれる」などと陰口を叩かれた\[1\]。
 
@@ -17,11 +17,11 @@
 
 [シュートボクシング](../Page/シュートボクシング.md "wikilink")出身の風間、[柔道](../Page/柔道.md "wikilink")出身の神取、[空手を学んでいたハーレー斉藤](https://ja.wikipedia.org/wiki/空手道 "wikilink")、[修斗](../Page/修斗.md "wikilink")経験者の大沢らを擁していたことから[格闘技](../Page/格闘技.md "wikilink")志向が強く1995年には初の女子選手による[バーリトゥード](../Page/バーリトゥード.md "wikilink")大会「[L-1](https://ja.wikipedia.org/wiki/L-1_\(格闘技イベント\) "wikilink")」を開催している。
 
-1992年9月、[ブル中野](../Page/ブル中野.md "wikilink")&[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")（全日本女子）組対[工藤めぐみ](../Page/工藤めぐみ.md "wikilink")&[コンバット豊田](https://ja.wikipedia.org/wiki/コンバット豊田 "wikilink")（[FMW](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")）組戦に始まる団体対抗戦時代においては神取対北斗の壮絶なシングル戦や風間対北斗の敗者髪切りマッチ、LLPWのユニット「[平成GUREN隊](https://ja.wikipedia.org/wiki/平成GUREN隊 "wikilink")（後の[G-MAX](https://ja.wikipedia.org/wiki/G-MAX "wikilink")）」とFMWのユニット「[猛毒隊](https://ja.wikipedia.org/wiki/猛毒隊 "wikilink")」が合体したユニット「[平成猛毒GUREN隊](https://ja.wikipedia.org/wiki/平成猛毒GUREN隊 "wikilink")（後の[JDスター女子プロレス](../Page/JDスター女子プロレス.md "wikilink")のユニット「[裁恐軍](https://ja.wikipedia.org/wiki/裁恐軍 "wikilink")」を加えてユニット「[平成裁恐猛毒GUREN隊](https://ja.wikipedia.org/wiki/平成裁恐猛毒GUREN隊 "wikilink")（後の[裁恐猛毒G-MAX](https://ja.wikipedia.org/wiki/裁恐猛毒G-MAX "wikilink")）となる）」の活動、[WARへの選手派遣などで話題を呼んだ](https://ja.wikipedia.org/wiki/WAR_\(プロレス\) "wikilink")。また紅夜叉の[レディースや穂積の](../Page/暴走族.md "wikilink")[ジュリアナ東京](../Page/ジュリアナ東京.md "wikilink")の女性客などキャラクターレスラーの投入や風間の側近的立場から一転して「理不尽クイーン」として[ヒール人気を呼んだ半田やキャロル](https://ja.wikipedia.org/wiki/ヒール_\(プロレス\) "wikilink")、紅、二上の同世代選手で結成したユニット「[決起軍](https://ja.wikipedia.org/wiki/決起軍_\(LLPW\) "wikilink")」の活躍に加えてさらに1994年、[常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")の主演映画「[SAEKO](https://ja.wikipedia.org/wiki/SAEKO "wikilink")」に[藤原喜明](../Page/藤原喜明.md "wikilink")と共に全面協力して主力レスラーが総出演するなど対抗戦に依存しない話題づくりにも尽力。
+1992年9月、[ブル中野](../Page/ブル中野.md "wikilink")&[北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")（全日本女子）組対[工藤めぐみ](../Page/工藤めぐみ.md "wikilink")&[コンバット豊田](https://ja.wikipedia.org/wiki/コンバット豊田 "wikilink")（[FMW](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")）組戦に始まる団体対抗戦時代においては神取対北斗の壮絶なシングル戦や風間対北斗の敗者髪切りマッチ、LLPWのユニット「[平成GUREN隊](https://ja.wikipedia.org/wiki/平成GUREN隊 "wikilink")（後の[G-MAX](https://ja.wikipedia.org/wiki/G-MAX "wikilink")）」とFMWのユニット「[猛毒隊](https://ja.wikipedia.org/wiki/猛毒隊 "wikilink")」が合体したユニット「[平成猛毒GUREN隊](https://ja.wikipedia.org/wiki/平成猛毒GUREN隊 "wikilink")（後の[JDスター女子プロレス](../Page/JDスター女子プロレス.md "wikilink")のユニット「[裁恐軍](https://ja.wikipedia.org/wiki/裁恐軍 "wikilink")」を加えてユニット「[平成裁恐猛毒GUREN隊](https://ja.wikipedia.org/wiki/平成裁恐猛毒GUREN隊 "wikilink")（後の[裁恐猛毒G-MAX](https://ja.wikipedia.org/wiki/裁恐猛毒G-MAX "wikilink")）となる）」の活動、[WARへの選手派遣などで話題を呼んだ](../Page/WAR_\(プロレス\).md "wikilink")。また紅夜叉の[レディースや穂積の](../Page/暴走族.md "wikilink")[ジュリアナ東京](../Page/ジュリアナ東京.md "wikilink")の女性客などキャラクターレスラーの投入や風間の側近的立場から一転して「理不尽クイーン」として[ヒール人気を呼んだ半田やキャロル](../Page/ヒール_\(プロレス\).md "wikilink")、紅、二上の同世代選手で結成したユニット「[決起軍](https://ja.wikipedia.org/wiki/決起軍_\(LLPW\) "wikilink")」の活躍に加えてさらに1994年、[常盤貴子](https://ja.wikipedia.org/wiki/常盤貴子 "wikilink")の主演映画「[SAEKO](https://ja.wikipedia.org/wiki/SAEKO "wikilink")」に[藤原喜明](../Page/藤原喜明.md "wikilink")と共に全面協力して主力レスラーが総出演するなど対抗戦に依存しない話題づくりにも尽力。
 
 ジャパン女子解散前後の経緯からJWPとの対抗戦は行なわれず対抗戦人気が終息に向かう[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、ジャパン女子の[1989年](../Page/1989年.md "wikilink")デビュー組である紅と[福岡晶](../Page/福岡晶.md "wikilink")（JWP）が互いに一騎討ちを呼びかけたのとジャパン女子の旗揚げメンバーだった[プラム麻里子](../Page/プラム麻里子.md "wikilink")（JWP）のリング禍による急逝という2つの要因によってようやく実現。
 
-1997年、二上と[大向美智子](https://ja.wikipedia.org/wiki/大向美智子 "wikilink")を全日本女子所属選手大量離脱によって出来た女子プロレス団体の1つである[アルシオン](../Page/アルシオン.md "wikilink")に引き抜かれて、また[2000年](../Page/2000年.md "wikilink")以降は観客減や新人の定着難に悩まされた。リングでは代表という立場からそれまで脇役に徹していた風間が沢井やフリーとして参戦していた[井上貴子](../Page/井上貴子_\(プロレスラー\).md "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月に入団）らとヒールユニット「[ブラック・ジョーカー](https://ja.wikipedia.org/wiki/ブラック・ジョーカー "wikilink")」を結成して前面に出て神取が率いるユニット「[チーム・フロンティア](https://ja.wikipedia.org/wiki/チーム・フロンティア "wikilink")」との抗争を展開して人気の維持を図った。
+1997年、二上と[大向美智子](../Page/大向美智子.md "wikilink")を全日本女子所属選手大量離脱によって出来た女子プロレス団体の1つである[アルシオン](../Page/アルシオン.md "wikilink")に引き抜かれて、また[2000年](../Page/2000年.md "wikilink")以降は観客減や新人の定着難に悩まされた。リングでは代表という立場からそれまで脇役に徹していた風間が沢井やフリーとして参戦していた[井上貴子](../Page/井上貴子_\(プロレスラー\).md "wikilink")（[2005年](../Page/2005年.md "wikilink")2月に入団）らとヒールユニット「[ブラック・ジョーカー](https://ja.wikipedia.org/wiki/ブラック・ジョーカー "wikilink")」を結成して前面に出て神取が率いるユニット「[チーム・フロンティア](https://ja.wikipedia.org/wiki/チーム・フロンティア "wikilink")」との抗争を展開して人気の維持を図った。
 
 #### 第1次神取忍体制
 
@@ -116,7 +116,7 @@
 <!-- end list -->
 
   - [二上美紀子](../Page/GAMI.md "wikilink")（現：GAMI）
-  - [大向美智子](https://ja.wikipedia.org/wiki/大向美智子 "wikilink")
+  - [大向美智子](../Page/大向美智子.md "wikilink")
   - [八木淳子](../Page/八木淳子.md "wikilink")
   - [小山亜矢](../Page/亜利弥’.md "wikilink")（現：亜利弥’）
   - [レヴン寛香](../Page/柳沼寛香.md "wikilink")（旧：柳沼寛香、現：HIROKA）
@@ -185,7 +185,7 @@ LLPWが1年間を通じて活躍した選手を表彰する制度。各賞はフ
   - MVP : イーグル沢井
   - ベストバウト賞シングル部門 : [風間ルミ](../Page/風間ルミ.md "wikilink") vs ハーレー斉藤
   - ベストバウト賞タッグ部門 : 神取忍、風間ルミ、ハーレー斉藤 vs [キャロル美鳥](https://ja.wikipedia.org/wiki/キャロル美鳥 "wikilink")、紅夜叉、[二上美紀子](../Page/GAMI.md "wikilink")
-  - 敢闘賞 : [大向美智子](https://ja.wikipedia.org/wiki/大向美智子 "wikilink")
+  - 敢闘賞 : [大向美智子](../Page/大向美智子.md "wikilink")
   - ニューウェーブ賞 : [沖野小百合](https://ja.wikipedia.org/wiki/沖野小百合 "wikilink")
 
 ## 脚注

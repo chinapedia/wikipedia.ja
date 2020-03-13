@@ -7,7 +7,7 @@
 
 2003年10月11日に『**GIRLS A GOGO\!美少女クラブ21**』としてスタート。翌年2004年10月16日からメンバー10人増員で『**GIRLS A GOGO\!美少女クラブ31**』にリニューアル。2005年10月8日からセレクトメンバーの12人のみが出演の『**GIRLS A GOGO\!**』になった。
 
-司会は[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")、[ますだおかだ](../Page/ますだおかだ.md "wikilink")。毎回、1人のゲストを迎えて[美少女クラブ31](../Page/美少女クラブ31.md "wikilink")のメンバー12人（依知川絵美、柏木貴代、[渋谷飛鳥](../Page/渋谷飛鳥.md "wikilink")、[清水由紀](../Page/清水由紀.md "wikilink")、[高部あい](https://ja.wikipedia.org/wiki/高部あい "wikilink")、[内藤理沙](https://ja.wikipedia.org/wiki/内藤理沙 "wikilink")、中島唯、[原幹恵](https://ja.wikipedia.org/wiki/原幹恵 "wikilink")、[福田沙紀](../Page/福田沙紀.md "wikilink")、本田有花、[森田彩華](../Page/森田彩華.md "wikilink")、山内久留実）とトークを繰り広げる。[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")がナビゲートする「U・STYLE」というコーナーもあった。
+司会は[佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")、[ますだおかだ](../Page/ますだおかだ.md "wikilink")。毎回、1人のゲストを迎えて[美少女クラブ31](../Page/美少女クラブ31.md "wikilink")のメンバー12人（依知川絵美、柏木貴代、[渋谷飛鳥](../Page/渋谷飛鳥.md "wikilink")、[清水由紀](../Page/清水由紀.md "wikilink")、[高部あい](../Page/高部あい.md "wikilink")、[内藤理沙](../Page/内藤理沙.md "wikilink")、中島唯、[原幹恵](https://ja.wikipedia.org/wiki/原幹恵 "wikilink")、[福田沙紀](../Page/福田沙紀.md "wikilink")、本田有花、[森田彩華](../Page/森田彩華.md "wikilink")、山内久留実）とトークを繰り広げる。[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")がナビゲートする「U・STYLE」というコーナーもあった。
 
 ## スタッフ
 
@@ -127,7 +127,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a> (KBC)</p></td>
 <td><p>水曜 26:10 - 26:40</p></td>
 <td></td>

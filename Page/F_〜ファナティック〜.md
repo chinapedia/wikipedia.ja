@@ -1,9 +1,9 @@
 > この記事は[F ](https://ja.wikipedia.org/wiki/F_)から翻訳されています。
 
 
-『**F 〜ファナティック〜**』は、[2004年](../Page/2004年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")より[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。PlayStation 2版は[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")：15歳以上対象。キャラクターデザインは[成瀬ちさと](https://ja.wikipedia.org/wiki/成瀬ちさと "wikilink")。
+『**F 〜ファナティック〜**』は、[2004年](../Page/2004年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")より[Windowsと](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。PlayStation 2版は[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")：15歳以上対象。キャラクターデザインは[成瀬ちさと](../Page/成瀬ちさと.md "wikilink")。
 
-19世紀末の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")を舞台に、殺人鬼"[ジャック・ザ・リッパー](https://ja.wikipedia.org/wiki/切り裂きジャック "wikilink")"を追う新聞記者と、彼が出会う人々との間の物語である。
+19世紀末の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")を舞台に、殺人鬼"[ジャック・ザ・リッパー](../Page/切り裂きジャック.md "wikilink")"を追う新聞記者と、彼が出会う人々との間の物語である。
 
 [ファミ通文庫](../Page/ファミ通文庫.md "wikilink")から[ノベライズ作品が刊行されている](../Page/小説化.md "wikilink")（[犬村小六](https://ja.wikipedia.org/wiki/犬村小六 "wikilink")：著）。
 
@@ -17,13 +17,13 @@
 
   - ウィリアム・ドースティン
     本作の主人公で、駆け出しの新聞記者。通称ウィル。
-  - カレン・ウィルソン - [声](../Page/声優.md "wikilink")：[川瀬晶子](https://ja.wikipedia.org/wiki/川瀬晶子_\(声優\) "wikilink")
+  - カレン・ウィルソン - [声](../Page/声優.md "wikilink")：[川瀬晶子](../Page/川瀬晶子_\(声優\).md "wikilink")
     ウィルの勤務している新聞社の編集長の娘。
   - フラン - 声：[折笠富美子](../Page/折笠富美子.md "wikilink")
     ジャック・ザ・リッパーの現れたところに決まって現れる、謎の少女。
   - アリシア・フィオリーゼ - 声：[石毛佐和](../Page/石毛佐和.md "wikilink")
     ミリアの娘。とても病弱。
-  - アニー・ホワイト - 声：[中川亜紀子](https://ja.wikipedia.org/wiki/中川亜紀子 "wikilink")
+  - アニー・ホワイト - 声：[中川亜紀子](../Page/中川亜紀子.md "wikilink")
     貧民街に住む少年。
   - リサ・リル - 声：[大原さやか](../Page/大原さやか.md "wikilink")
     占い師。その力は紛れも無い霊能力。
@@ -50,6 +50,6 @@
 
 :; **『I'm standing』**
 
-::\* 作詞：Bun Yoshida／hajime kanasugi / 作曲：Bun Yoshida/ 編曲：Yoshito Hata / 歌:[佐藤裕美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink")
+::\* 作詞：Bun Yoshida／hajime kanasugi / 作曲：Bun Yoshida/ 編曲：Yoshito Hata / 歌:[佐藤裕美](../Page/佐藤ひろ美.md "wikilink")
 
 [Category:プリンセスソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:プリンセスソフトのゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:ギャルゲー](https://ja.wikipedia.org/wiki/Category:ギャルゲー "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink") [Category:ヴィクトリア朝を舞台とした作品](https://ja.wikipedia.org/wiki/Category:ヴィクトリア朝を舞台とした作品 "wikilink") [Category:ファミ通文庫](https://ja.wikipedia.org/wiki/Category:ファミ通文庫 "wikilink") [Category:犬村小六](https://ja.wikipedia.org/wiki/Category:犬村小六 "wikilink")

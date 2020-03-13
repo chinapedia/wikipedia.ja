@@ -51,26 +51,26 @@
         ワイヤードの女神。常に優しい微笑みを絶やさない慈母のような人格。玲音とワイヤードの関係について全てを知っている存在。
         別存在というよりも、女神が玲音の姿であらわれているという方が近い。
   - 岩倉 康男（いわくら やすお）
-    声 - [大林隆之介](https://ja.wikipedia.org/wiki/大林隆介 "wikilink")
+    声 - [大林隆之介](../Page/大林隆介.md "wikilink")
     玲音の父親。玲音がNAVIに興味を持ったことを喜び、すぐに最新のNAVIを与えて使い方を教えた。かなりのNAVIオタクで、自室に凄いNAVI用の設備がある。
     玲音のことを気遣っていた。実は玲音の実父ではなく、何者かより玲音の養育を託されていた。物語終盤で玲音にそのことを告白し去るが、玲音にとって康男は心の拠り所であり、玲音が神と呼べるものとなってもそれは変わらなかった。
   - 岩倉 美穂（いわくら みほ）
-    声 - [五十嵐麗](https://ja.wikipedia.org/wiki/五十嵐麗 "wikilink")
+    声 - [五十嵐麗](../Page/五十嵐麗.md "wikilink")
     玲音の母親。無口で無表情。夫の趣味を理解していないらしく、康男に愚痴られていた。夫婦仲は意外と良好。康男と同様に玲音の実母ではない。
   - 岩倉 美香（いわくら みか）
     声 - [川澄綾子](../Page/川澄綾子.md "wikilink")
     玲音の姉。少々派手で玲音とは対照的。玲音のことを少し鬱陶しく思っている。ある出来事のせいで後に精神に異常をきたしてしまい、日常的にFAX\[5\]のような音を発声するようになってしまった。
   - 瑞城 ありす（みずき ありす）
-    声 - [浅田葉子](https://ja.wikipedia.org/wiki/浅田葉子 "wikilink")
+    声 - [浅田葉子](../Page/浅田葉子.md "wikilink")
     玲音の親友。非常に面倒見がよく優しい。玲音に明るくなって欲しいといつも気を遣っている。
   - 山本 麗華（やまもと れいか）
-    声 - [手塚ちはる](https://ja.wikipedia.org/wiki/手塚ちはる "wikilink")
+    声 - [手塚ちはる](../Page/手塚ちはる.md "wikilink")
     玲音の同級生。ありすといつもつるんでいて、ありすが玲音をどこかに連れ出すときも必ず一緒にいる。クールな雰囲気を漂わせており大人っぽい。
   - 加藤 樹莉（かとう じゅり）
     声 - [水野愛日](../Page/水野愛日.md "wikilink")
     玲音の同級生。麗華とは対照的に子供っぽく、私服も少女趣味。
   - 四方田 千砂（よもだ ちさ）
-    声 - [武藤寿美](https://ja.wikipedia.org/wiki/武藤寿美 "wikilink")
+    声 - [武藤寿美](../Page/武藤寿美.md "wikilink")
     玲音とは別のクラスの生徒。一度だけ玲音と一緒に帰ったことがある。物語の冒頭で自殺する。
   - タロウ
     声 - [滝本啓人](https://ja.wikipedia.org/wiki/滝本啓人 "wikilink")
@@ -92,7 +92,7 @@
     年下であるミューミューからガキ呼ばわりされても「なんだよそれ」の一言で受け流す。玲音からプシューケーを買おうと金銭のやりとりを考えるも、タロウに却下されている。
     許容力や胆力のある性格だが、上記のことから本人も攻めに転じたいとは思うものの人より前に立つことはできない。その性格ゆえ、最終回では荷物持ちをやらされている。最終回のセリフから、本人は損な役回りや受身の立場を担えるほどの許容力を持っていないことが分かる。それでも受け止める心優しい性格である。
   - カール・ハウスホッフ
-    声 - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
+    声 - [中田譲治](../Page/中田譲治.md "wikilink")
     玲音を監視している謎の男性。金髪碧眼の外国人。ゴーグルのような奇妙な機械を目に装着している。
     玲音が何者か分からないが、「愛」という感情を抱いていると告げた。
   - 林 随錫（リン スイシー）
@@ -115,9 +115,9 @@
   - 撮影監督 - 安津畑隆
   - 編集 - [瀬山武司](../Page/瀬山武司.md "wikilink")
   - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
-  - 音楽 - [仲井戸‘CHABO’麗市](https://ja.wikipedia.org/wiki/仲井戸麗市 "wikilink")
+  - 音楽 - [仲井戸‘CHABO’麗市](../Page/仲井戸麗市.md "wikilink")
   - プロデューサー - [ueda yasuyuki](https://ja.wikipedia.org/wiki/上田耕行 "wikilink")、安部正次郎
-  - 制作協力 - [GENCO](https://ja.wikipedia.org/wiki/ジェンコ "wikilink")
+  - 制作協力 - [GENCO](../Page/ジェンコ.md "wikilink")
   - アニメーション制作 - [トライアングルスタッフ](../Page/トライアングルスタッフ.md "wikilink")
   - 製作 - [PIONEER LDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")
 
@@ -126,7 +126,7 @@
   - オープニングテーマ「DUVET」
     作詞 - Jasmine Rodgers / 歌 - [bôa](../Page/ボア_\(ロックバンド\).md "wikilink")
   - エンディングテーマ「遠い叫び」
-    作詞・作曲 - [仲井戸麗市](https://ja.wikipedia.org/wiki/仲井戸麗市 "wikilink") / 歌 - 仲井戸‘CHABO’麗市
+    作詞・作曲 - [仲井戸麗市](../Page/仲井戸麗市.md "wikilink") / 歌 - 仲井戸‘CHABO’麗市
 
 ### 各話リスト
 
@@ -210,7 +210,7 @@
 <tr class="even">
 <td><p>Layer:08</p></td>
 <td><p>RUMORS</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a></p></td>
 <td><p>田中雄一</p></td>
 <td><p><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
 <td></td>
@@ -342,7 +342,7 @@ Blu-ray Disc化企画の一環でlain_cameraというiPhone用アプリが配信
     声 - [岡本麻弥](../Page/岡本麻弥.md "wikilink")
     27歳。アメリカの大学院を卒業後に日本へ帰国し、玲音を担当することになった新人カウンセラー。カウンセリングを通じて玲音と仲良くなっていく。
   - 牧野 慎一郎（まきの しんいちろう）
-    声 - [渋谷茂](https://ja.wikipedia.org/wiki/渋谷茂 "wikilink")
+    声 - [渋谷茂](../Page/渋谷茂.md "wikilink")
     コンピュータネットワーク上で玲音と交流を持っている普通のサラリーマン。物語の後半で玲音と初めて接触するが、その際にある事件で巻き込まれることになる。
 
 ## 脚注
@@ -351,9 +351,9 @@ Blu-ray Disc化企画の一環でlain_cameraというiPhone用アプリが配信
 
   - [シミュレーテッドリアリティ](https://ja.wikipedia.org/wiki/シミュレーテッドリアリティ "wikilink")
   - [アイソレーション・タンク](../Page/アイソレーション・タンク.md "wikilink")
-  - [電波系](https://ja.wikipedia.org/wiki/電波系 "wikilink")
+  - [電波系](../Page/電波系.md "wikilink")
   - [NOёL](../Page/NOeL.md "wikilink") - 本作のゲーム版とジャンル、プロデューサーを同一とする1996年発売のプレイステーション用ゲームソフト。
-  - [NieA_7](https://ja.wikipedia.org/wiki/NieA_7 "wikilink") - 1999年より連載が開始された安倍吉俊による漫画作品および2000年のアニメ作品。アニメ版の製作スタジオ、プロデューサーが本作と共通する。監督：[佐藤卓哉](../Page/佐藤卓哉.md "wikilink")。
+  - [NieA_7](../Page/NieA_7.md "wikilink") - 1999年より連載が開始された安倍吉俊による漫画作品および2000年のアニメ作品。アニメ版の製作スタジオ、プロデューサーが本作と共通する。監督：[佐藤卓哉](../Page/佐藤卓哉.md "wikilink")。
   - [回路 (映画)](../Page/回路_\(映画\).md "wikilink") - 本作と同一のプロットを元に製作された2001年公開の日本映画。監督：[黒沢清](../Page/黒沢清.md "wikilink")。
   - [神霊狩/GHOST HOUND](https://ja.wikipedia.org/wiki/神霊狩/GHOST_HOUND "wikilink") - 精神医療等を題材とした2007年のアニメ作品。監督・脚本家が本作と共通する。原案：[士郎正宗](https://ja.wikipedia.org/wiki/士郎正宗 "wikilink")。
   - [ですぺら](https://ja.wikipedia.org/wiki/ですぺら "wikilink") - 本作と主要スタッフを同一とする2009年から2011年にかけて展開されたメディアミックス作品。

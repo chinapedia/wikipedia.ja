@@ -1,9 +1,9 @@
 > この記事は[UFO](https://ja.wikipedia.org/wiki/UFO)から翻訳されています。
 
 
-『**イリヤの空、UFOの夏**』（イリヤのそら、ユーフォーのなつ）は、[電撃文庫](../Page/電撃文庫.md "wikilink")から刊行されている[秋山瑞人](../Page/秋山瑞人.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。また、これを原作とする[OVA](../Page/OVA.md "wikilink")・[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")・[ゲーム](../Page/コンピュータゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。
+『**イリヤの空、UFOの夏**』（イリヤのそら、ユーフォーのなつ）は、[電撃文庫](../Page/電撃文庫.md "wikilink")から刊行されている[秋山瑞人](../Page/秋山瑞人.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。また、これを原作とする[OVA](../Page/OVA.md "wikilink")・[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")・[ゲーム](../Page/コンピュータゲーム.md "wikilink")・[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。
 
-原作の[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[駒都えーじ](https://ja.wikipedia.org/wiki/駒都えーじ "wikilink")。
+原作の[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[駒都えーじ](../Page/駒都えーじ.md "wikilink")。
 
 ## 沿革
 
@@ -12,10 +12,10 @@
   - [2001年](../Page/2001年.md "wikilink")
       - 文庫本第1巻発売。
   - [2003年](../Page/2003年.md "wikilink")
-      - 7月から8月にかけてラジオ『[電撃大賞](https://ja.wikipedia.org/wiki/電撃大賞 "wikilink")』内にてラジオドラマが放送。
+      - 7月から8月にかけてラジオ『[電撃大賞](../Page/電撃大賞.md "wikilink")』内にてラジオドラマが放送。
       - 文庫本最終巻（第4巻）発売。
       - 11月、上記のラジオドラマを収録したアルバム『イリヤの空、UFOの夏』発売。このアルバムにはブックレットが付属しており、書き下ろし番外編「それ以外のことについて言えば、」が収録されている。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 2月から6月まで[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")より[OVA](../Page/OVA.md "wikilink")として全6巻が発売され、ネットによる先行配信も行われた。
       - 7月25日、ドラマアルバム『イリヤの空、UFOの夏 園原電波新聞部 号外』発売。
       - 11月15日、画集『イリヤの空、UFOの夏 オフィシャル・イラストレーションズ』発売。本編のプロローグ的な内容の書き下ろし短編「グラウンド・ゼロ」を収録。
@@ -41,7 +41,7 @@
 担当[声優](../Page/声優.md "wikilink")はラジオドラマ版 / OVA版の順。1人しか記載がない場合はOVA版のキャスト。
 
   - 浅羽 直之（あさば なおゆき）
-    声 - [菅沼久義](https://ja.wikipedia.org/wiki/菅沼久義 "wikilink") / [浪川大輔](../Page/浪川大輔.md "wikilink")
+    声 - [菅沼久義](../Page/菅沼久義.md "wikilink") / [浪川大輔](../Page/浪川大輔.md "wikilink")
     園原中学校二年四組一番。園原電波新聞部の初期からの部員。十四歳。本人は余り自覚していないが、周りに流されやすい性格で、部長である水前寺の無謀な行動にいつも振り回されている。実家が理髪店で散髪が得意なため、校内で生徒相手に散髪のこづかい稼ぎをしている。いつまでもクラスに馴染めないでいる伊里野をいつも気に掛けているが、奥手な性格のため、いざとなると何を言っていいか分からなくなってしまう。
     夏休み最後の夜、伊里野と接触したことで「子犬作戦」のターゲットに選定され、本人の知らぬうちに首の皮下に発信機を埋め込まれた。軍の目論見通りに浅羽は伊里野にとってなくてはならない存在に成長し、彼女にとってのいくつかの動機となっていく。
   - 伊里野 加奈（いりや かな）
@@ -52,7 +52,7 @@
     椎名 真由美の言によれば、本当は浅羽よりも一歳年上の十五歳である。
     正体は異星人のUFOに唯一対抗できる能力を持った戦闘機を駆る、特別な資質をもったパイロットの最後の一人。手首の金属球は操縦のためのアクセスデバイス。よく鼻血を出すのも、大量の薬の服用と、過酷な戦闘機動に苛まれた身体のため。
   - 水前寺 邦博（すいぜんじ くにひろ）
-    声 - [三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink") / [神谷浩史](https://ja.wikipedia.org/wiki/神谷浩史 "wikilink")
+    声 - [三木眞一郎](https://ja.wikipedia.org/wiki/三木眞一郎 "wikilink") / [神谷浩史](../Page/神谷浩史.md "wikilink")
     園原電波新聞部部長。三年二組十二番。十五歳。175センチの長身で、全国模試の偏差値は81、100メートルを11秒で走るスーパーマンで、電子機器の扱いにも長け、顔だってまずくないのだが、進路希望調査で「[CIA](https://ja.wikipedia.org/wiki/アメリカ中央情報局 "wikilink")」と本気で書くほどの変人。真実の探求の為なら、いかなる行為でもやってのける驚異の行動力と発想を持つ。しかしその興味の対象は流動的で、UFOに興味を示す前は[心霊現象](../Page/心霊現象.md "wikilink")、その前は[超能力](../Page/超能力.md "wikilink")の取材をしていた。その興味の対象次第で季節の変化を部員達に印象付けている。底無しの胃袋を持ち、過去には鉄人定食を最年少で完食するという偉業を達成している。実家が大地主の農家で、家の敷地の蔵で生活している。お姉さんが苦手。
   - 須藤 晶穂（すどう あきほ）
     声 - [雪乃五月](../Page/ゆきのさつき.md "wikilink") / [千葉紗子](../Page/千葉紗子.md "wikilink")
@@ -64,7 +64,7 @@
     声 - [冬馬由美](../Page/冬馬由美.md "wikilink") / [桑島法子](../Page/桑島法子.md "wikilink")
     夏休み直前に、新しく赴任してきた保健教諭。端麗な容姿と気さくな性格で、生徒の間での人気は高い。美人なのだが、本人はそのことを歯牙にもかけておらず、化粧もしなければ言葉遣いも荒い。実は中野学校出身の陸上自衛軍情報将校であり、子犬作戦の為、伊里野の監視・監督のために園原中学校に潜入した。内心、榎本の計画を快く思っていない。「椎名真由美」は作戦のための偽名で、本名のイニシャルはT・S。
   - 浅羽 夕子（あさば ゆうこ）
-    声 - [高野直子](https://ja.wikipedia.org/wiki/高野直子_\(声優\) "wikilink")
+    声 - [高野直子](../Page/高野直子_\(声優\).md "wikilink")
     浅羽の妹。園原中学校一年一組一番。ある事件がきっかけで、水前寺を毛嫌いしている。少林寺拳法の心得がある。年頃の為か、兄とあまり口を利かなくなっていたが、伊里野の登場により、変化が生まれる。
   - 西久保 正則（にしくぼ まさのり）
     声 - [藤本たかひろ](../Page/藤本たかひろ.md "wikilink")
@@ -73,16 +73,16 @@
     声 - [田中大文](../Page/田中大文.md "wikilink")
     浅羽の級友。いつも西久保と浅羽との三人でつるんでいる。転校が多く、過去には帝都にいたこともある。
   - 島村 清美（しまむら きよみ）
-    声 - [立野香菜子](https://ja.wikipedia.org/wiki/立野香菜子 "wikilink")
+    声 - [立野香菜子](../Page/立野香菜子.md "wikilink")
     晶穂の親友。愛犬（十兵衛）の死で塞ぎ込んでいたが、晶穂のおかげで立ち直る。晶穂を浅羽絡みでからかうのが好き。親がプロボウラーで、ボウリングがうまい。
   - 河口 泰蔵（かわぐち たいぞう）
-    声 - [高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")
+    声 - [高塚正也](../Page/高塚正也.md "wikilink")
     浅羽たちの担任。三十五歳独身。一度怒り出すと見境がつかなくなってしまうところがあり、生徒達からは余り好かれていない。
   - 田代（たしろ）
-    声 - [園部啓一](https://ja.wikipedia.org/wiki/園部啓一 "wikilink")
+    声 - [園部啓一](../Page/園部啓一.md "wikilink")
     園原中学校教頭。
   - 先坂 絵里（さきさか えり）
-    声 - [儀武ゆう子](https://ja.wikipedia.org/wiki/儀武ゆう子 "wikilink")
+    声 - [儀武ゆう子](../Page/儀武ゆう子.md "wikilink")
     椎名の後輩の情報陸曹。子供っぽい外見で高校生にしか見えない。旭日祭の時限定で、椎名の代わりに保健医を代行した。作戦行動後の伊里野をたびたび見ており、罪悪感を持ちながらも任務には忠実である。
   - 木村（きむら）
     榎本の部下。性別不明。まじめな性格らしい。番外編「死体を洗え」とは一切関係ない。
@@ -104,8 +104,8 @@
 
 ## 用語
 
-  - 園原[基地](https://ja.wikipedia.org/wiki/基地 "wikilink")（そのはらきち）
-    園原市内にある大規模な[空軍基地](https://ja.wikipedia.org/wiki/空軍基地 "wikilink")。[戦中](https://ja.wikipedia.org/wiki/戦中 "wikilink")[旧軍](https://ja.wikipedia.org/wiki/旧軍 "wikilink")の園原飛行場だった土地に建設された。[航空自衛軍と](../Page/航空自衛隊.md "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")空軍が常駐している。UFOの目撃談が後を絶たない。「[北](https://ja.wikipedia.org/wiki/北朝鮮 "wikilink")」の脅威の為、その全貌は明らかでは無く、地図にも空白地帯として表記される。
+  - 園原[基地](../Page/基地.md "wikilink")（そのはらきち）
+    園原市内にある大規模な[空軍基地](https://ja.wikipedia.org/wiki/空軍基地 "wikilink")。[戦中](../Page/戦中.md "wikilink")[旧軍](https://ja.wikipedia.org/wiki/旧軍 "wikilink")の園原飛行場だった土地に建設された。[航空自衛軍と](../Page/航空自衛隊.md "wikilink")[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")空軍が常駐している。UFOの目撃談が後を絶たない。「[北](https://ja.wikipedia.org/wiki/北朝鮮 "wikilink")」の脅威の為、その全貌は明らかでは無く、地図にも空白地帯として表記される。
   - 園原[電波](../Page/電波.md "wikilink")[新聞部](https://ja.wikipedia.org/wiki/新聞部 "wikilink")（そのはらでんぱしんぶんぶ）
     水前寺邦博が部長を務める園原中学の新聞部。元々「太陽系電波新聞」だったが、後から入部した晶穂の主張で紙名変更した。晶穂が加わるまでは水前寺と浅羽の二名のみで活動しており、主に水前寺の過激な取材活動で学校側から睨まれていた。取材対象は主に、幽霊や超能力、UFOといったオカルトテーマである。晶穂が入部した後も相変わらずゲリラ部で、学校側から認められた正式な部ではないが、一部の生徒・教師には認知されている。水前寺の雄大な思想の下、今日も活動を続けている。
   - [旭日](../Page/旭日旗.md "wikilink")[祭](../Page/祭.md "wikilink")（きょくじつさい）
@@ -144,7 +144,7 @@
 
 ## ラジオドラマ
 
-2003年7月から8月にかけてラジオ番組『[電撃大賞](https://ja.wikipedia.org/wiki/電撃大賞 "wikilink")』内にて放送。ナレーションは[遠藤守哉](../Page/遠藤守哉.md "wikilink")。
+2003年7月から8月にかけてラジオ番組『[電撃大賞](../Page/電撃大賞.md "wikilink")』内にて放送。ナレーションは[遠藤守哉](../Page/遠藤守哉.md "wikilink")。
 
 ## OVA
 
@@ -156,7 +156,7 @@
   - キャラクター原案 - 駒都えーじ
   - 監督 - [伊藤尚往](https://ja.wikipedia.org/wiki/伊藤尚往 "wikilink")
   - プロデューサー - [柴田宏明](https://ja.wikipedia.org/wiki/柴田宏明 "wikilink")
-  - シリーズ構成・脚本 - [横手美智子](https://ja.wikipedia.org/wiki/横手美智子 "wikilink")
+  - シリーズ構成・脚本 - [横手美智子](../Page/横手美智子.md "wikilink")
   - キャラクターデザイン - [倉嶋丈康](../Page/倉嶋丈康.md "wikilink")
   - 総作画監督 - [志田ただし](../Page/志田ただし.md "wikilink")
   - ブラックマンタデザイン - [佐山善則](https://ja.wikipedia.org/wiki/佐山善則 "wikilink")
@@ -164,12 +164,12 @@
   - 色彩設計 - [辻田邦夫](../Page/辻田邦夫.md "wikilink")、小日置知子
   - 音楽 - [高木洋](../Page/高木洋.md "wikilink")
   - アニメーション制作 - [東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")
-  - 製作 - 東映アニメーション、[ハピネット](https://ja.wikipedia.org/wiki/ハピネット "wikilink")ピクチャーズ
+  - 製作 - 東映アニメーション、[ハピネット](../Page/ハピネット.md "wikilink")ピクチャーズ
 
 ### 主題歌
 
   - オープニングテーマ「[Forever Blue](https://ja.wikipedia.org/wiki/Forever_Blue_\(曲\) "wikilink")」
-    作詞・作曲 - [松浦有希](https://ja.wikipedia.org/wiki/松浦有希 "wikilink") / 編曲 - 高木洋 / 歌 - [今井ちひろ](../Page/今井ちひろ.md "wikilink")
+    作詞・作曲 - [松浦有希](../Page/松浦有希.md "wikilink") / 編曲 - 高木洋 / 歌 - [今井ちひろ](../Page/今井ちひろ.md "wikilink")
   - エンディングテーマ「[ひまわり](https://ja.wikipedia.org/wiki/Forever_Blue_\(曲\) "wikilink")」
     作詞 - [青柳美奈子](https://ja.wikipedia.org/wiki/青柳美奈子 "wikilink") / 作曲 - [表誠治](https://ja.wikipedia.org/wiki/表誠治 "wikilink") / 編曲 - 高木洋 / 歌 - 今井ちひろ
 
@@ -209,7 +209,7 @@
 
 ## 関連項目
 
-  - [セカイ系](https://ja.wikipedia.org/wiki/セカイ系 "wikilink")
+  - [セカイ系](../Page/セカイ系.md "wikilink")
 
 ## 脚注
 

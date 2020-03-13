@@ -5,7 +5,7 @@
 
 ## 概要
 
-日本を始め世界各国で活動し、アルバム『[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")』は世界17ヵ国で同時期発売され、米[ビルボード](../Page/ビルボード.md "wikilink")誌の「チャートでは1位を、「」チャートで9位をそれぞれ記録している\[2\]。ライヴ活動も各国で積極的に行っており、南米を含む全米からヨーロッパ、アジア、オーストラリアまで計30カ国で公演を行っている（2019年7月現在）。[オリコン調べに於ける](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")[平成](../Page/平成.md "wikilink")期での[シングル](../Page/シングル.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総売上は、2,835,048枚である（※1989年1月23日付〜2019年5月6日付。）。
+日本を始め世界各国で活動し、アルバム『[UROBOROS](https://ja.wikipedia.org/wiki/UROBOROS "wikilink")』は世界17ヵ国で同時期発売され、米[ビルボード](../Page/ビルボード.md "wikilink")誌の「チャートでは1位を、「」チャートで9位をそれぞれ記録している\[2\]。ライヴ活動も各国で積極的に行っており、南米を含む全米からヨーロッパ、アジア、オーストラリアまで計30カ国で公演を行っている（2019年7月現在）。[オリコン調べに於ける](../Page/オリコンチャート.md "wikilink")[平成](../Page/平成.md "wikilink")期での[シングル](../Page/シングル.md "wikilink")・[アルバム](../Page/アルバム.md "wikilink")の総売上は、2,835,048枚である（※1989年1月23日付〜2019年5月6日付。）。
 
 ### 音楽性
 
@@ -19,9 +19,9 @@
 
 ### 影響
 
-DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja.wikipedia.org/wiki/デフトーンズ "wikilink")、[THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")、[Muse](https://ja.wikipedia.org/wiki/ミューズ_\(バンド\) "wikilink")、[Nine Inch Nails](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[Pantera](https://ja.wikipedia.org/wiki/パンテラ "wikilink")、[Radiohead](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")、[Smashing Pumpkins](https://ja.wikipedia.org/wiki/スマッシング・パンプキンズ "wikilink")、[Toolである](../Page/トゥール_\(バンド\).md "wikilink")\[4\]。
+DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja.wikipedia.org/wiki/デフトーンズ "wikilink")、[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")、[Muse](../Page/ミューズ_\(バンド\).md "wikilink")、[Nine Inch Nails](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[Pantera](../Page/パンテラ.md "wikilink")、[Radiohead](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")、[Smashing Pumpkins](../Page/スマッシング・パンプキンズ.md "wikilink")、[Toolである](../Page/トゥール_\(バンド\).md "wikilink")\[4\]。
 
-京は中学校１年生の時にクラスメイトが[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の切り抜きを持っているのを見たことがきっかけで音楽に興味を持ったと語っている\[5\]。他に影響を受けたアーティストとしては[X JAPAN](../Page/X_JAPAN.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")をあげている\[6\]。Dieは中学時代に[JUN SKY WALKER(S)と](../Page/JUN_SKY_WALKER\(S\).md "wikilink")[ブルーハーツ](https://ja.wikipedia.org/wiki/ブルーハーツ "wikilink")を見たことでバンドに興味を持ち、その後高校時代に見た[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドに衝撃を受けてバンドを始めたという\[7\]。薫は中学生の時に[DEAD ENDや](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")[筋肉少女帯](https://ja.wikipedia.org/wiki/筋肉少女帯 "wikilink")をよく聴いており、[X JAPANの](../Page/X_JAPAN.md "wikilink")『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』にも衝撃を受ける\[8\]。その後、高校では[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")や[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")のコピーをしていたという\[9\]。Toshiyaは[徳永英明](https://ja.wikipedia.org/wiki/徳永英明 "wikilink")がきっかけで音楽に興味を持ったと述べる\[10\]。中学生の時にX JAPANの「[紅](../Page/紅_\(Xの曲\).md "wikilink")」と「[WEEK END](../Page/WEEK_END.md "wikilink")」を聴いてうるさいだけで嫌いだと思っていたが、その後「[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")」を聴いて見直したという\[11\]。また、[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")を聴いたことがきっかけでギターを始めようと思ったが、弾けないという消極的な理由で高校時代にベースに転向し、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドを始める\[12\]。しかし、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")はベースが難しくて挫折したとも述べている\[13\]。ShinyaはTVで[X JAPANを見て](../Page/X_JAPAN.md "wikilink")、中学１年生の時にバンドを始めることにしたという\[14\]。
+京は中学校１年生の時にクラスメイトが[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の切り抜きを持っているのを見たことがきっかけで音楽に興味を持ったと語っている\[5\]。他に影響を受けたアーティストとしては[X JAPAN](../Page/X_JAPAN.md "wikilink")、[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")をあげている\[6\]。Dieは中学時代に[JUN SKY WALKER(S)と](../Page/JUN_SKY_WALKER\(S\).md "wikilink")[ブルーハーツ](https://ja.wikipedia.org/wiki/ブルーハーツ "wikilink")を見たことでバンドに興味を持ち、その後高校時代に見た[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドに衝撃を受けてバンドを始めたという\[7\]。薫は中学生の時に[DEAD ENDや](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")をよく聴いており、[X JAPANの](../Page/X_JAPAN.md "wikilink")『[BLUE BLOOD](../Page/BLUE_BLOOD.md "wikilink")』にも衝撃を受ける\[8\]。その後、高校では[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")や[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")のコピーをしていたという\[9\]。Toshiyaは[徳永英明](../Page/徳永英明.md "wikilink")がきっかけで音楽に興味を持ったと述べる\[10\]。中学生の時にX JAPANの「[紅](../Page/紅_\(Xの曲\).md "wikilink")」と「[WEEK END](../Page/WEEK_END.md "wikilink")」を聴いてうるさいだけで嫌いだと思っていたが、その後「[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")」を聴いて見直したという\[11\]。また、[BOOWY](https://ja.wikipedia.org/wiki/BOOWY "wikilink")を聴いたことがきっかけでギターを始めようと思ったが、弾けないという消極的な理由で高校時代にベースに転向し、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")のコピーバンドを始める\[12\]。しかし、[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")はベースが難しくて挫折したとも述べている\[13\]。ShinyaはTVで[X JAPANを見て](../Page/X_JAPAN.md "wikilink")、中学１年生の時にバンドを始めることにしたという\[14\]。
 
 メンバーはHMVの企画で、次のようなアルバムがお気に入りだとしている。京は[Bauhausの](../Page/バウハウス_\(バンド\).md "wikilink")『Press The Eject And Give Me The Tape』と[David Sylvianの](../Page/デヴィッド・シルヴィアン.md "wikilink")『[Secrets Of The Beehive](../Page/シークレッツ・オブ・ザ・ビーハイヴ.md "wikilink")』、薫は[The Beatlesの](../Page/ビートルズ.md "wikilink")『[1962-1966](../Page/ザ・ビートルズ1962年〜1966年.md "wikilink")』と『[1967-1970](../Page/ザ・ビートルズ1967年〜1970年.md "wikilink")』、Dieは[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の『LA VIE EN ROSE』 と[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の『[KOOL KIZZ](https://ja.wikipedia.org/wiki/KOOL_KIZZ "wikilink")』、Toshiyaは[Alice in Chainsの](../Page/アリス・イン・チェインズ.md "wikilink")『Dirt』と[Radiohead](https://ja.wikipedia.org/wiki/Radiohead "wikilink")の『[OK Computer](../Page/OK_コンピューター.md "wikilink")』、Shinyaは[AION](../Page/AION.md "wikilink")の『Absolute』と[GARGOYLEの](../Page/Gargoyle.md "wikilink")『檄～ふれぶみ～』などをあげている\[15\]。
 
@@ -51,7 +51,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 
 ### 表現の規制
 
-一部の歌詞や[ミュージック・クリップに関して](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、過激な題材に触れていることからレコード会社や放送媒体から規制が掛けられることがある。 規制されたミュージック・クリップについては、ノーカット版の一部が[フリーウィル](../Page/フリーウィル.md "wikilink")からインディーズ流通で発売されたミュージック・クリップ集『[AVERAGE PSYCHO](../Page/AVERAGE_PSYCHO.md "wikilink")』で視聴できる。
+一部の歌詞や[ミュージック・クリップに関して](../Page/ミュージック・ビデオ.md "wikilink")、過激な題材に触れていることからレコード会社や放送媒体から規制が掛けられることがある。 規制されたミュージック・クリップについては、ノーカット版の一部が[フリーウィル](../Page/フリーウィル.md "wikilink")からインディーズ流通で発売されたミュージック・クリップ集『[AVERAGE PSYCHO](../Page/AVERAGE_PSYCHO.md "wikilink")』で視聴できる。
 
 ## メンバー
 
@@ -89,7 +89,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td><p>1977年3月31日</p></td>
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td></td>
@@ -112,7 +112,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 
 その後再び京、薫、Die、Shinyaの4人が集まり、新たにToshiyaを加え「人間の弱さ、あさはかさ、エゴが原因で引き起こす現象により、人々が受ける様々な心の痛みを世に広める」という意志の元、1997年2月2日に[大阪](../Page/大阪.md "wikilink")で結成。
 
-その後すぐに[COLORのボーカリスト](https://ja.wikipedia.org/wiki/COLOR_\(ロックバンド\) "wikilink")[DYNAMITE TOMMYに見出され](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")、TOMMYと[イーストウエスト・ジャパン](https://ja.wikipedia.org/wiki/イーストウエスト・ジャパン "wikilink")が運営する「ソルフィンステレ」より[インディーズ](../Page/インディーズ.md "wikilink")デビュー。 CDの製作〜流通、コンサートの運営などに関してはフリーウィルと契約して以降はDYNAMITE TOMMYが統括している。
+その後すぐに[COLORのボーカリスト](../Page/COLOR_\(ロックバンド\).md "wikilink")[DYNAMITE TOMMYに見出され](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")、TOMMYと[イーストウエスト・ジャパン](https://ja.wikipedia.org/wiki/イーストウエスト・ジャパン "wikilink")が運営する「ソルフィンステレ」より[インディーズ](../Page/インディーズ.md "wikilink")デビュー。 CDの製作〜流通、コンサートの運営などに関してはフリーウィルと契約して以降はDYNAMITE TOMMYが統括している。
 
 結成後急速に人気を獲得し、インディーズでありながらオリコンのシングル・チャート上位に連続で作品を送り込む。98年発表の「[-I'll-](../Page/-I'll-.md "wikilink")」は最高7位を記録し、インディーズ史上最高記録（当時）を樹立。さらに同年11月にはメジャー・デビューを前にインディーズ・バンドとして初の日本武道館公演を実現した。
 
@@ -134,13 +134,13 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 
 01年には延期となったツアーの振替公演ののち、自身2度目の日本武道館公演を行う。
 
-02年にはアルバム『[鬼葬](../Page/鬼葬.md "wikilink")』を発表し、[東アジア](../Page/東アジア.md "wikilink")4カ国7公演（[上海](../Page/上海市.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[韓国など](../Page/大韓民国.md "wikilink")）を含む[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")ツアーを行い初の海外進出を果たす。のべ10万人を動員し、上海では過熱した観衆の沈静化のために公安が出動するという一幕も見られた。 ツアー最終公演では3年半振りに横浜アリーナ公演を行う。
+02年にはアルバム『[鬼葬](../Page/鬼葬.md "wikilink")』を発表し、[東アジア](../Page/東アジア.md "wikilink")4カ国7公演（[上海](../Page/上海市.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[韓国など](../Page/大韓民国.md "wikilink")）を含む[アジア](../Page/アジア.md "wikilink")ツアーを行い初の海外進出を果たす。のべ10万人を動員し、上海では過熱した観衆の沈静化のために公安が出動するという一幕も見られた。 ツアー最終公演では3年半振りに横浜アリーナ公演を行う。
 
 ### 『VULGAR』以降 〜 欧米進出
 
 02年の「[Child prey](../Page/Child_prey.md "wikilink")」『[six Ugly](https://ja.wikipedia.org/wiki/six_Ugly "wikilink")』でその兆しを見せていたが、03年発表のアルバム『[VULGAR](../Page/VULGAR.md "wikilink")』でヘヴィロックへ大幅に接近。音楽性を大きく変化させた。
 
-音楽性の変化とともに海外からの注目度も増し、05年のアルバム『[Withering to death.](../Page/Withering_to_death..md "wikilink")』はドイツでチャート7位\[23\]、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")では欧米のアーティスト以外で初めてチャートにランク(順位:31位)されるという快挙\[24\]を記録した。
+音楽性の変化とともに海外からの注目度も増し、05年のアルバム『[Withering to death.](../Page/Withering_to_death..md "wikilink")』はドイツでチャート7位\[23\]、[フィンランド](../Page/フィンランド.md "wikilink")では欧米のアーティスト以外で初めてチャートにランク(順位:31位)されるという快挙\[24\]を記録した。
 
 現地からのオファーに応え、2005年5月に[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")で初の欧州単独公演を行い3,500人を収容の会場を完売。過度の興奮に陥ったファンが続出し、警察／消防も出動。翌日の地元紙はこの“事件”を大々的に扱った。その後欧州最大級のロックフェスティバル「Rock am Ring」「Rock im park」、「OCTOPUS ROCK FESTIVAL」への出演を果たす。
 
@@ -156,7 +156,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 
 帰国後、7月31日・8月1日に日本武道館公演を開催。2日分のチケットが45分で完売した。
 
-8月4日より、[KoЯn主宰の北米ツアー](https://ja.wikipedia.org/wiki/コーン_\(バンド\) "wikilink")「[THE FAMILY VALUES TOUR](https://ja.wikipedia.org/wiki/w:Family_Values_Tour_2006 "wikilink")」計31公演へ参加\[28\]、のべ60万人近い観衆の前で演奏した。
+8月4日より、[KoЯn主宰の北米ツアー](../Page/コーン_\(バンド\).md "wikilink")「[THE FAMILY VALUES TOUR](https://ja.wikipedia.org/wiki/w:Family_Values_Tour_2006 "wikilink")」計31公演へ参加\[28\]、のべ60万人近い観衆の前で演奏した。
 
 帰国後の10月14日、日本最大のヘヴィメタルフェス「[LOUD PARK 06](../Page/LOUD_PARK.md "wikilink")」に出演。
 
@@ -166,7 +166,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 
 #### 2007年 - 12カ国 121本のツアー、6thアルバム『THE MARROW OF A BONE』発表
 
-結成10年目となる2007年からは特に世界各国での活動が顕著となり、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、[スイス](../Page/スイス.md "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")など、一日刻みの過密日程で世界中でライブを行うようになっていった\[30\]。
+結成10年目となる2007年からは特に世界各国での活動が顕著となり、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[フィンランド](../Page/フィンランド.md "wikilink")、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、[スイス](../Page/スイス.md "wikilink")、[ポーランド](../Page/ポーランド.md "wikilink")など、一日刻みの過密日程で世界中でライブを行うようになっていった\[30\]。
 
 2月、北米ツアー(全18公演)を行う。 2月7日に6枚目となるアルバム『[THE MARROW OF A BONE](../Page/THE_MARROW_OF_A_BONE.md "wikilink")』を世界11カ国で同時発売。米[ビルボード](../Page/ビルボード.md "wikilink")の[トップ・ヒートシーカーズ](https://ja.wikipedia.org/wiki/トップ・ヒートシーカーズ "wikilink")チャートで8位\[31\]、Top Independent Albumsチャートで21位にそれぞれランクインしている\[32\]。
 
@@ -298,7 +298,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 
 4月1日、約6年ぶりとなるミュージック・クリップ集『[Average Sorrow](https://ja.wikipedia.org/wiki/Average_Sorrow "wikilink")』を発売。翌2日より「TOUR15 THE UNSTOPPABLE LIFE」を10都市15公演で敢行。また、5月17日よりヨーロッパツアーを開催。
 
-6月27日、幕張メッセで行われる[LUNA SEA主催のロックフェス](../Page/LUNA_SEA.md "wikilink")「[LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")」に出演。同ステージで演奏した「[空谷の跫音](https://ja.wikipedia.org/wiki/ARCHE_\(アルバム\) "wikilink")」でLUNA SEAのギタリストである[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")がヴァイオリンで参加した。
+6月27日、幕張メッセで行われる[LUNA SEA主催のロックフェス](../Page/LUNA_SEA.md "wikilink")「[LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")」に出演。同ステージで演奏した「[空谷の跫音](https://ja.wikipedia.org/wiki/ARCHE_\(アルバム\) "wikilink")」でLUNA SEAのギタリストである[SUGIZO](../Page/SUGIZO.md "wikilink")がヴァイオリンで参加した。
 
 9月2日にはミュージック・クリップ集『[AVERAGE PSYCHO 2](https://ja.wikipedia.org/wiki/AVERAGE_PSYCHO_2 "wikilink")』を発売。10日から約1ヶ月に渡ってツアー「TOUR15 NEVER FREE FROM THE AWAKENING」を9都市14公演で敢行。
 
@@ -348,11 +348,11 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 
 #### 2019年
 
-3月20日、[Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp "wikilink")20周年を記念したイベント「Zepp Tokyo 20th Anniversary～Special Live Act 5days～」が、記念日となった3月20日より5日間にわたって開催され、同所で公演数トップ3を誇る3組のうちの1組として出演した(DIR EN GREYは歴代3位。ちなみに、2位は[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")、1位は[HYDE](https://ja.wikipedia.org/wiki/hyde "wikilink")\[39\])。
+3月20日、[Zepp Tokyo](../Page/Zepp.md "wikilink")20周年を記念したイベント「Zepp Tokyo 20th Anniversary～Special Live Act 5days～」が、記念日となった3月20日より5日間にわたって開催され、同所で公演数トップ3を誇る3組のうちの1組として出演した(DIR EN GREYは歴代3位。ちなみに、2位は[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")、1位は[HYDE](https://ja.wikipedia.org/wiki/hyde "wikilink")\[39\])。
 
 6月21日、30枚目となるシングル「[The World of Mercy](https://ja.wikipedia.org/wiki/The_World_of_Mercy "wikilink")」を、同年9月18日に発売することを発表\[40\]。
 
-10月21日、2020年1月29日に発売が予定されている、[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")のカバーアルバム『PARADE III ～RESPECTIVE TRACKS OF BUCK-TICK～』に、DIR EN GREYとして参加することが決定\[41\]。
+10月21日、2020年1月29日に発売が予定されている、[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のカバーアルバム『PARADE III ～RESPECTIVE TRACKS OF BUCK-TICK～』に、DIR EN GREYとして参加することが決定\[41\]。
 
 ## ディスコグラフィー
 
@@ -516,7 +516,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p>「楓」～if trans･･･～ Mechanism For Leave-sin-</p></td>
-<td><p>1月14日 <a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">渋谷ON AIR EAST</a></p></td>
+<td><p>1月14日 <a href="../Page/Shibuya_O-EAST.md" title="wikilink">渋谷ON AIR EAST</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -557,7 +557,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 <tr class="even">
 <td><p>単発コンサート</p></td>
 <td><p>「楓」～if trans…～ Mechanism For Leave-Unknown…Despair…a Lost… ～裁きの血舞台～</p></td>
-<td><p>5月5日 <a href="https://ja.wikipedia.org/wiki/渋谷公会堂" title="wikilink">渋谷公会堂</a></p></td>
+<td><p>5月5日 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -576,7 +576,7 @@ DIR EN GREYがバンドとして影響を受けたのは、[Deftones](https://ja
 <tr class="odd">
 <td><p>単発コンサート</p></td>
 <td><p>～in the secret cradle～ 蝋蜥蜴と硝子蜂</p></td>
-<td><p>8月3日 <a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a><br />
+<td><p>8月3日 <a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a><br />
 8月4日 中野サンプラザ</p></td>
 <td></td>
 </tr>
@@ -696,13 +696,13 @@ Final More Deep [sympathy]～meet evil with evil～</p></td>
 <p>3月21日 <a href="https://ja.wikipedia.org/wiki/Zepp_FUKUOKA" title="wikilink">Zepp Fukuoka</a><br />
 3月22日 広島南区民文化センター<br />
 3月24日 <a href="../Page/松山市民会館.md" title="wikilink">松山市民会館</a><br />
-3月27日 <a href="https://ja.wikipedia.org/wiki/京都劇場" title="wikilink">京都シアター1200</a><br />
+3月27日 <a href="../Page/京都劇場.md" title="wikilink">京都シアター1200</a><br />
 3月28日 京都シアター1200<br />
 3月30日 新潟テルサ<br />
 4月2日 <a href="../Page/金沢市文化ホール.md" title="wikilink">金沢市文化ホール</a><br />
 4月5日 <a href="https://ja.wikipedia.org/wiki/栃木県総合文化センター" title="wikilink">栃木県総合文化センター</a><br />
 4月6日 <a href="https://ja.wikipedia.org/wiki/仙台市民会館" title="wikilink">仙台市民会館</a><br />
-4月9日 <a href="https://ja.wikipedia.org/wiki/東京国際フォーラム" title="wikilink">東京国際フォーラム</a><br />
+4月9日 <a href="../Page/東京国際フォーラム.md" title="wikilink">東京国際フォーラム</a><br />
 4月13日 <a href="../Page/長野県県民文化会館.md" title="wikilink">長野県県民文化会館</a><br />
 4月14日 <a href="../Page/前橋市民文化会館.md" title="wikilink">前橋市民文化会館</a><br />
 4月19日 <a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a><br />
@@ -758,10 +758,10 @@ Final More Deep [sympathy]～meet evil with evil～</p></td>
 <p>23会場全26公演</p>
 </div>
 <div class="NavContent" style="text-align:left">
-<p>1月12日 <a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸国際会館</a> (9/13 振替公演)<br />
+<p>1月12日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a> (9/13 振替公演)<br />
 1月14日 上野市民会館 (9/14 振替公演)<br />
 1月15日 <a href="../Page/長良川国際会議場.md" title="wikilink">長良川国際会議場</a> (9/19 岐阜市民会館 振替公演)<br />
-1月20日 <a href="https://ja.wikipedia.org/wiki/NHKホール" title="wikilink">NHKホール</a> (10/28 振替公演)<br />
+1月20日 <a href="../Page/NHKホール.md" title="wikilink">NHKホール</a> (10/28 振替公演)<br />
 1月21日 NHKホール (10/29 振替公演)<br />
 1月23日 栃木県総合文化センター (9/23 振替公演)<br />
 1月24日 <a href="../Page/仙台市泉文化創造センター.md" title="wikilink">仙台イズミティ21</a> (9/26 振替公演)<br />
@@ -773,7 +773,7 @@ Final More Deep [sympathy]～meet evil with evil～</p></td>
 2月13日 大阪厚生年金会館 (10/24 振替公演)<br />
 2月14日 大阪厚生年金会館 (10/25 振替公演)<br />
 2月16日 <a href="https://ja.wikipedia.org/wiki/浜松市教育文化会館" title="wikilink">浜松市教育文化会館</a> (9/20 振替公演)<br />
-2月17日 <a href="https://ja.wikipedia.org/wiki/神奈川県立県民ホール" title="wikilink">神奈川県民ホール</a><br />
+2月17日 <a href="../Page/神奈川県立県民ホール.md" title="wikilink">神奈川県民ホール</a><br />
 2月22日 <a href="https://ja.wikipedia.org/wiki/川口リリア" title="wikilink">川口リリア</a><br />
 2月26日 <a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a> (10/11 振替公演)<br />
 2月27日 <a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a> (10/10 振替公演)<br />
@@ -809,7 +809,7 @@ Final More Deep [sympathy]～meet evil with evil～</p></td>
 <div class="NavContent" style="text-align:left">
 <p>8月17日 <a href="https://ja.wikipedia.org/wiki/グランキューブ大阪" title="wikilink">グランキューブ大阪</a><br />
 8月18日 グランキューブ大阪<br />
-8月24日 <a href="https://ja.wikipedia.org/wiki/東京ベイNKホール" title="wikilink">東京ベイN.K.ホール</a></p></td>
+8月24日 <a href="../Page/東京ベイNKホール.md" title="wikilink">東京ベイN.K.ホール</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1121,7 +1121,7 @@ Final More Deep [sympathy]～meet evil with evil～</p></td>
 10月24日 日比谷野外音楽堂<br />
 11月7日 BAYSIDE Jenny -FEMALE only-<br />
 11月8日 <a href="https://ja.wikipedia.org/wiki/Electric_Lady_Land" title="wikilink">名古屋E.L.L.</a>(Electric Lady Land) -MALE only-<br />
-11月10日 <a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA-AX</a> -COUPLE only-<br />
+11月10日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a> -COUPLE only-<br />
 11月11日 SHIBUYA-AX -｢a knot｣only-</p></td>
 <td></td>
 </tr>
@@ -3173,7 +3173,7 @@ TOUR2013 TABULA RASA -揚羽ノ羽ノ夢ハ蛹-</p></td>
 
 <!-- end list -->
 
-  - [DYNAMITE TOMMY](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")（[COLOR](https://ja.wikipedia.org/wiki/COLOR_\(ロックバンド\) "wikilink")）
+  - [DYNAMITE TOMMY](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")（[COLOR](../Page/COLOR_\(ロックバンド\).md "wikilink")）
 
 <!-- end list -->
 

@@ -5,7 +5,7 @@
 
 ## 概略
 
-[1962年](../Page/1962年.md "wikilink")にMGBが発表されるが、時代のモアパワー、モアスピードの要求に答えるのと、グループ企業である[BMC](https://ja.wikipedia.org/wiki/BMC "wikilink")傘下の大排気量6気筒[OHV](https://ja.wikipedia.org/wiki/OHV "wikilink")搭載オープンスポーツカー、[オースティン](../Page/オースチン・モーター・カンパニー.md "wikilink")・ヒーリーの置き換え車種として計画された。[1967年](../Page/1967年.md "wikilink")に発表され、オープン2座モデルと、GTと呼ばれる[クーペ](../Page/クーペ.md "wikilink")ボディモデル、GTのレーシング・スペシャルモデルであるGTSの3種類がある。エンジンはBMCグループで実績のあるOHV直列6気筒2,912ccを搭載。
+[1962年](../Page/1962年.md "wikilink")にMGBが発表されるが、時代のモアパワー、モアスピードの要求に答えるのと、グループ企業である[BMC](https://ja.wikipedia.org/wiki/BMC "wikilink")傘下の大排気量6気筒[OHV](../Page/OHV.md "wikilink")搭載オープンスポーツカー、[オースティン](../Page/オースチン・モーター・カンパニー.md "wikilink")・ヒーリーの置き換え車種として計画された。[1967年](../Page/1967年.md "wikilink")に発表され、オープン2座モデルと、GTと呼ばれる[クーペ](../Page/クーペ.md "wikilink")ボディモデル、GTのレーシング・スペシャルモデルであるGTSの3種類がある。エンジンはBMCグループで実績のあるOHV直列6気筒2,912ccを搭載。
 
 モータースポーツの分野ではワークス、セミワークスとして活躍したが、重量バランスとフロントサスペンションの構造上、運動性能が全般に優れているとは言い難く、マーケッティングとしては不成功に終わった。運動性能に関しては[1973年](../Page/1973年.md "wikilink")に類似のコンセプトで開発された**MGB GT/V8**に於いて劇的に改善された。なお、後継車種はこの**MGB GT/V8**、及び[1992年](../Page/1992年.md "wikilink")のV8エンジン搭載の[MG RV8](https://ja.wikipedia.org/wiki/MG_RV8 "wikilink")。
 

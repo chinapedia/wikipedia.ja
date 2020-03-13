@@ -1,11 +1,11 @@
 > この記事は[W-inds.](https://ja.wikipedia.org/wiki/W-inds.)から翻訳されています。
 
 
-**w-inds.** （ウィンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ダンス＆ボーカルユニット。[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")所属。レーベルは[FLIGHT MASTER](../Page/フライトマスター.md "wikilink")。
+**w-inds.** （ウィンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ダンス＆ボーカルユニット。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[FLIGHT MASTER](../Page/フライトマスター.md "wikilink")。
 
 ## 概要
 
-  - ユニット名は北（[千葉と](https://ja.wikipedia.org/wiki/千葉涼平 "wikilink")[緒方が](https://ja.wikipedia.org/wiki/緒方龍一 "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身）と南（[橘が](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身）の**風（wind）**が一つになって世界中に届くようにと名付けられた。その他にも**勝つ（win）**という意味もある。また、「-」や「.」は結成当時[インターネット](../Page/インターネット.md "wikilink")が普及したことを受け、「ネット」でも自分たちを知ってもらいたいという願いも込められている。
+  - ユニット名は北（[千葉と](../Page/千葉涼平.md "wikilink")[緒方が](../Page/緒方龍一.md "wikilink")[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身）と南（[橘が](../Page/橘慶太.md "wikilink")[福岡県](../Page/福岡県.md "wikilink")出身）の**風（wind）**が一つになって世界中に届くようにと名付けられた。その他にも**勝つ（win）**という意味もある。また、「-」や「.」は結成当時[インターネット](../Page/インターネット.md "wikilink")が普及したことを受け、「ネット」でも自分たちを知ってもらいたいという願いも込められている。
 
 <!-- end list -->
 
@@ -13,7 +13,7 @@
 
 <!-- end list -->
 
-  - [DA PUMPの後輩グループにあたり](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")、デビュー曲は当時DA PUMPのメンバーであった[KENが振り付けを担当したほか](https://ja.wikipedia.org/wiki/KEN_\(DA_PUMP\) "wikilink")、お互いのライブで前座を務め合うなどの交流があった。
+  - [DA PUMPの後輩グループにあたり](../Page/DA_PUMP.md "wikilink")、デビュー曲は当時DA PUMPのメンバーであった[KENが振り付けを担当したほか](https://ja.wikipedia.org/wiki/KEN_\(DA_PUMP\) "wikilink")、お互いのライブで前座を務め合うなどの交流があった。
 
 <!-- end list -->
 
@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - 以降も、[中国](../Page/中華人民共和国.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")で原盤リリース、ライブ開催等を行い、各国で様々なアワードを受賞。また、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")へも国際レベルのイベント参加等を通じて相次いで進出している。2009年11月7日付の[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")紙上のインタビューでは、[橘慶太](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")が「マレーシアやシンガポールでライブをやりたい」と語るなど、より一層のアジア圏進出への熱意を表明し、日本国内だけでなく東アジア圏などの海外を勢力範囲として音楽活動を続けている。
+  - 以降も、[中国](../Page/中華人民共和国.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")で原盤リリース、ライブ開催等を行い、各国で様々なアワードを受賞。また、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")へも国際レベルのイベント参加等を通じて相次いで進出している。2009年11月7日付の[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")紙上のインタビューでは、[橘慶太](../Page/橘慶太.md "wikilink")が「マレーシアやシンガポールでライブをやりたい」と語るなど、より一層のアジア圏進出への熱意を表明し、日本国内だけでなく東アジア圏などの海外を勢力範囲として音楽活動を続けている。
 
 <!-- end list -->
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - グループカラーは青。これまでは2005年にリリースされたアルバム『[ageha](https://ja.wikipedia.org/wiki/ageha "wikilink")』のジャケットアートに因み、各メンバーごとにイメージカラー（[涼平](https://ja.wikipedia.org/wiki/千葉涼平 "wikilink")：青、[慶太](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")：黄→2006年より赤、[龍一](https://ja.wikipedia.org/wiki/緒方龍一 "wikilink")：緑）が割り当てられ、公式サインライトの色等に用いられていたが、2009年夏よりグループ統一のイメージカラーとして定められており、ライブでのサインライト使用も青色に制限されている。青色が選ばれたのは当時のマネージャーの発案によるもので、サッカー日本代表のユニフォームカラーに由来し、音楽界の日本代表を目指す意が込められている。なお、メンバーカラーは現在でも衣裳や公式ライブグッズ等に用いられることがある例えば35thシングル「In Love With The Music」のミュージックビデオで各メンバーカラーの衣装を着用している。
+  - グループカラーは青。これまでは2005年にリリースされたアルバム『[ageha](https://ja.wikipedia.org/wiki/ageha "wikilink")』のジャケットアートに因み、各メンバーごとにイメージカラー（[涼平](../Page/千葉涼平.md "wikilink")：青、[慶太](../Page/橘慶太.md "wikilink")：黄→2006年より赤、[龍一](../Page/緒方龍一.md "wikilink")：緑）が割り当てられ、公式サインライトの色等に用いられていたが、2009年夏よりグループ統一のイメージカラーとして定められており、ライブでのサインライト使用も青色に制限されている。青色が選ばれたのは当時のマネージャーの発案によるもので、サッカー日本代表のユニフォームカラーに由来し、音楽界の日本代表を目指す意が込められている。なお、メンバーカラーは現在でも衣裳や公式ライブグッズ等に用いられることがある例えば35thシングル「In Love With The Music」のミュージックビデオで各メンバーカラーの衣装を着用している。
 
 ## 主な出演・開催イベント
 
@@ -136,8 +136,8 @@
 
   - 2008年
       - 5月8日、[首相官邸](https://ja.wikipedia.org/wiki/首相官邸 "wikilink")で行われた日中晩さん会で、[福田康夫](../Page/福田康夫.md "wikilink")元首相、中国の[胡錦濤](https://ja.wikipedia.org/wiki/胡錦濤 "wikilink")国家主席らを前にライブを実施。
-      - 5月24日および26日、[ハノイ](https://ja.wikipedia.org/wiki/ハノイ "wikilink")・[ホーチミン音楽祭に出演](../Page/ホーチミン市.md "wikilink")。
-          - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")親善大使[杉良太郎](https://ja.wikipedia.org/wiki/杉良太郎 "wikilink")の呼びかけにより、[秋川雅史](../Page/秋川雅史.md "wikilink")、[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")らと共に、日本人代表歌手として参加した。
+      - 5月24日および26日、[ハノイ](../Page/ハノイ.md "wikilink")・[ホーチミン音楽祭に出演](../Page/ホーチミン市.md "wikilink")。
+          - [ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")親善大使[杉良太郎](../Page/杉良太郎.md "wikilink")の呼びかけにより、[秋川雅史](../Page/秋川雅史.md "wikilink")、[夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")らと共に、日本人代表歌手として参加した。
       - 5月31日、さいたまスーパーアリーナにて行なわれた、「MTV VIDEO MUSIC AWARDS JAPAN 2008」に出演。
       - 7月14日、[四川大地震](https://ja.wikipedia.org/wiki/四川大地震 "wikilink")[チャリティ](https://ja.wikipedia.org/wiki/チャリティ "wikilink")・ライブ[ハートエイド・四川](https://ja.wikipedia.org/wiki/ハートエイド・四川 "wikilink")に出演。
           - [ジュディ・オング](https://ja.wikipedia.org/wiki/ジュディ・オング "wikilink")、[ジャッキー・チェン](../Page/ジャッキー・チェン.md "wikilink")らを発起人として企画されたイベントである。
@@ -191,7 +191,7 @@
 <!-- end list -->
 
   - 2013年
-      - 11月28日、[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")で行われた「日・ASEAN友好音楽祭〜災害復興への祈り〜」に参加。
+      - 11月28日、[NHKホール](../Page/NHKホール.md "wikilink")で行われた「日・ASEAN友好音楽祭〜災害復興への祈り〜」に参加。
       - 11月30日、「第7回アジア国際子ども映画祭」に出演。
       - 12月14日、[帝国ホテル](../Page/帝国ホテル.md "wikilink")で行われた日・[ASEAN首脳晩さん会で](../Page/東南アジア諸国連合.md "wikilink")、[安倍晋三](https://ja.wikipedia.org/wiki/安倍晋三 "wikilink")首相ら220人を前にライブを実施。
 
@@ -201,7 +201,7 @@
       - 1月18日、約1年2ヶ月振りとなる香港単独公演「w-inds. LIVE TOUR "AWAKE"in Hong Kong」をAsia World Expo：Arena Hall 1（亜洲博覧館Hall 1）にて開催。
       - 2月23日、フィリピン台風被災児童支援チャリティーイベントに出演。
       - 6月11日、「代々木凱旋フリーミニライブ」を代々木公園 野外ステージにて開催。2000年11月26日に代々木公園で3人しかいないお客さんの前で初のストリートライブを行なってから4945日、デビュー14年目に突入したw-inds.がデビュー当時にストリートライブをしていた代々木公園にて、凱旋フリーミニライブを行った。
-      - 6月14日、[MTV Video Music Awards Japanで](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")と共にMCを務めた。
+      - 6月14日、[MTV Video Music Awards Japanで](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")、[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")と共にMCを務めた。
       - 6月29日、宮崎県　フェニックス・シーガイア・リゾート特設会場（シーガイアスクエア１）にて開催された「SEAGAIA MUSIC RESORT 2014」に出演。
       - 8月9日、神奈川県・リビエラ逗子マリーナ特設会場（神奈川県逗子市小坪5-23-16）にて開催された「MTV ZUSHI FES 14 supported by RIVIERA」に出演。
       - 8月14日、東京・国立代々木競技場第一体育館にて開催された「a-nation island powered by inゼリー　Asia Progress 〜from a-nation〜」に出演。
@@ -302,7 +302,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/千葉涼平" title="wikilink">千葉涼平</a></strong> ちば りょうへい</p></td>
+<td><p><strong><a href="../Page/千葉涼平.md" title="wikilink">千葉涼平</a></strong> ちば りょうへい</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">B型</a></p></td>
@@ -310,15 +310,15 @@
 <td><p>リーダー ダンス＆コーラス・ラップ</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/橘慶太" title="wikilink">橘慶太</a></strong> たちばな けいた</p></td>
+<td><p><strong><a href="../Page/橘慶太.md" title="wikilink">橘慶太</a></strong> たちばな けいた</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">Ｂ型</a></p></td>
 <td><p>赤</p></td>
 <td><p>ボーカル＆ダンス</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/緒方龍一" title="wikilink">緒方龍一</a></strong> おがた りゅういち</p></td>
+<td><p><strong><a href="../Page/緒方龍一.md" title="wikilink">緒方龍一</a></strong> おがた りゅういち</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/札幌市" title="wikilink">札幌市</a></p></td>
 <td><p>O型</p></td>
@@ -338,7 +338,7 @@
 
 ## 作品
 
-「順位」は全て[オリコン週間ランキング最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")
+「順位」は全て[オリコン週間ランキング最高位](../Page/オリコンチャート.md "wikilink")
 
 ### シングル
 
@@ -455,7 +455,7 @@
 <td><p>2004年6月2日</p></td>
 <td><p>CCCD</p></td>
 <td><p>4位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a>提供楽曲 c/w「ふたりがふたりで」</p></td>
+<td><p><a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a>提供楽曲 c/w「ふたりがふたりで」</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
@@ -575,7 +575,7 @@
 <td><p>2009年5月13日</p></td>
 <td><p>CD/CD+DVD</p></td>
 <td><p>2位</p></td>
-<td><p>「Rain Is Fallin'」<a href="https://ja.wikipedia.org/wiki/フィーチャリング" title="wikilink">Featuring</a> G-DRAGON(<a href="https://ja.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>) c/w「Upside Down」（初回盤A、通常盤）<br />
+<td><p>「Rain Is Fallin'」<a href="../Page/フィーチャリング.md" title="wikilink">Featuring</a> G-DRAGON(<a href="https://ja.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>) c/w「Upside Down」（初回盤A、通常盤）<br />
 「You are...」（初回盤B、通常盤）</p></td>
 </tr>
 <tr class="odd">
@@ -596,7 +596,7 @@
 <td><p>3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Damon_Sharpe" title="wikilink">Damon Sharpe提供楽曲</a> <a href="http://www.myspace.com/velvetangelsmusic">Velvet Angels</a>が<a href="../Page/ラップ.md" title="wikilink">Rap</a>・<a href="../Page/コーラス_(ポピュラー音楽).md" title="wikilink">コーラスで参加</a><br />
 c/w「Love or Leave」（全盤共通）<br />
-「Now You're Gone」<a href="https://ja.wikipedia.org/wiki/橘慶太" title="wikilink">橘慶太</a>共作曲楽曲（通常盤A）<br />
+「Now You're Gone」<a href="../Page/橘慶太.md" title="wikilink">橘慶太</a>共作曲楽曲（通常盤A）<br />
 「Rain」（通常盤B）</p></td>
 </tr>
 <tr class="odd">
@@ -692,7 +692,7 @@ c/w「Love or Leave」（全盤共通）<br />
 <td><p>2017年1月11日</p></td>
 <td><p>CD/CD+DVD</p></td>
 <td><p>4位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橘慶太" title="wikilink">橘慶太</a>セルフプロデュース c/w「Again」（全盤共通）</p></td>
+<td><p><a href="../Page/橘慶太.md" title="wikilink">橘慶太</a>セルフプロデュース c/w「Again」（全盤共通）</p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
@@ -700,7 +700,7 @@ c/w「Love or Leave」（全盤共通）<br />
 <td><p>2017年9月27日</p></td>
 <td><p>CD/CD+DVD</p></td>
 <td><p>4位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橘慶太" title="wikilink">橘慶太</a>セルフプロデュース c/w「This Love」（全盤共通）<br />
+<td><p><a href="../Page/橘慶太.md" title="wikilink">橘慶太</a>セルフプロデュース c/w「This Love」（全盤共通）<br />
 「A Trip In My Hard Days」（初回盤B）</p></td>
 </tr>
 <tr class="even">
@@ -709,7 +709,7 @@ c/w「Love or Leave」（全盤共通）<br />
 <td><p>2018年3月14日</p></td>
 <td><p>CD/CD+DVD</p></td>
 <td><p>10位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橘慶太" title="wikilink">橘慶太</a>セルフプロデュース c/w「If I said I loved you」（全盤共通）</p></td>
+<td><p><a href="../Page/橘慶太.md" title="wikilink">橘慶太</a>セルフプロデュース c/w「If I said I loved you」（全盤共通）</p></td>
 </tr>
 <tr class="odd">
 <td><p>41</p></td>
@@ -717,7 +717,7 @@ c/w「Love or Leave」（全盤共通）<br />
 <td><p>2019年7月31日</p></td>
 <td><p>CD/CD+DVD</p></td>
 <td><p>16位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橘慶太" title="wikilink">橘慶太</a>セルフプロデュース c/w「Take It Slow」（初回盤、通常盤）<br />
+<td><p><a href="../Page/橘慶太.md" title="wikilink">橘慶太</a>セルフプロデュース c/w「Take It Slow」（初回盤、通常盤）<br />
 「Femme Fatale」（通常盤）</p></td>
 </tr>
 <tr class="even">
@@ -726,7 +726,7 @@ c/w「Love or Leave」（全盤共通）<br />
 <td><p>2020年1月22日</p></td>
 <td><p>CD/CD+DVD</p></td>
 <td><p>25位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橘慶太" title="wikilink">橘慶太</a>セルフプロデュース c/w「CANDY」（初回盤、通常盤）<br />
+<td><p><a href="../Page/橘慶太.md" title="wikilink">橘慶太</a>セルフプロデュース c/w「CANDY」（初回盤、通常盤）<br />
 「We Don't Need To Talk Anymore Remix feat.SKY-HI」（通常盤）</p></td>
 </tr>
 </tbody>
@@ -813,7 +813,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
 | \# | タイトル                                   | 配信日         | 備考                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | -- | -------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1  | **Message**                            | 2009年11月18日 | 2009年11月18日より、[着うた](../Page/着うた.md "wikilink")、[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")での配信限定となったスペシャルソング アジア国際子ども映画祭[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink") 俳優・[杉良太郎](https://ja.wikipedia.org/wiki/杉良太郎 "wikilink")提供楽曲                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 1  | **Message**                            | 2009年11月18日 | 2009年11月18日より、[着うた](../Page/着うた.md "wikilink")、[着うたフル](../Page/着うたフル.md "wikilink")での配信限定となったスペシャルソング アジア国際子ども映画祭[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink") 俳優・[杉良太郎](../Page/杉良太郎.md "wikilink")提供楽曲                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | 2  | **Make you mine ～Trident Rap Edition** | 2014年9月11日  | 2014年9月11日より、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")などの各種楽曲配信サイトで配信限定となった楽曲 10th Album Timelessのリード楽曲である「Make you mine」のラップを加えたバージョン iTunesでは特典として、歌詞つき・スペシャルデジタルブックレットがダウンロード出来る。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | 3  | **Time Has Gone (Future Pop Remix)**   | 2017年9月27日  | 2017年9月27日より、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")などの各種楽曲配信サイトで配信限定となった初の配信限定リミックス楽曲 39th Singleである「Time Has Gone」のリミックス楽曲で、「Time Has Gone」9/27発売に合わせ、同日より配信。 橘慶太自身がリミックスを手掛け、Spotifyバイラルトップ50 日本・台湾にて1位を獲得した。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ４  | **w-inds. LIVE TOUR 2017 "INVISIBLE"** | 2017年11月29日 | 2017年11月29日より、[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")などの各種楽曲配信サイトで配信限定となった初のライブ音源 DVD/Blu-ray「w-inds. LIVE TOUR 2017 "INVISIBLE"」11/29発売に合わせ、同日より同ライブ音源の全世界配信。 橘慶太が初のライブ音源トラックダウンにも挑戦した。 ＜収録内容＞※2017.9.27 at 日本武道館公演 1. Come Back to Bed 2. Backstage 3. Complicated 4. No matter where you are 5. TABOO 6. CAMOUFLAGE 7. wind wind blow 8. We Don’t Need To Talk Anymore 9. Separate Way 10. In your warmth 11. A Trip In My Hard Days 12. ORIGINAL LOVE 13. Boom Word Up 14. Players 15. Drop Drop 16. Time Has Gone 17. Let’s get it on (Reflection Remix by DMD) 18. Superstar (Reflection Remix by DMD) 19. SAY YES (Reflection Remix by DMD) 20. New World (Reflection Remix by DMD) 21. FANTASY 22. In Love With The Music 23. Feel The Fate |
@@ -863,32 +863,32 @@ c/w「Love or Leave」（全盤共通）<br />
 
 ### 参加作品
 
-| タイトル                                                  | 名義                                                                                                                          | 発売日         | 収録作品                                                                                                                  | 備考                                                                                    |
-| ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **World needs love**                                  | Earth Harmony (w-inds., [Folder5](../Page/Folder5.md "wikilink") & [FLAME](https://ja.wikipedia.org/wiki/FLAME "wikilink")) | 2002年8月7日   | 「[World needs love](https://ja.wikipedia.org/wiki/World_needs_love "wikilink")」                                       | 企画[シングル](../Page/シングル.md "wikilink")                                                  |
-| **World needs love (hyper fantasista mix)**           |                                                                                                                             |             |                                                                                                                       |                                                                                       |
-| **I'll be there**                                     | w-inds.                                                                                                                     |             |                                                                                                                       |                                                                                       |
-| **NEW PARADISE 〜 DJ TATSUTA CASSETTE VISION's REMIX** | w-inds. × DJ TATSUTA                                                                                                        | 2003年3月19日  | 『buddies』                                                                                                             | [リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")                     |
-| **Paradox 〜 TinyVoice, Production REMIX**             | w-inds. × [Ryosuke Imai](https://ja.wikipedia.org/wiki/今井了介 "wikilink")                                                     |             |                                                                                                                       |                                                                                       |
-| **Forever Memories 〜 Sweet Memories REMIX**           | w-inds. × DJ CELORY                                                                                                         |             |                                                                                                                       |                                                                                       |
-| **Another Days 〜 The Real Vibe Remix**                | w-inds. × [Shinichiro Murayama](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")                                             |             |                                                                                                                       |                                                                                       |
-| **buddies Mega Mix 〜 TinyVoice, Production REMIX**    | w-inds., FLAME & [Lead](../Page/Lead.md "wikilink") × Ryosuke Imai                                                          |             |                                                                                                                       |                                                                                       |
-| **Storytelling**                                      | w-inds.                                                                                                                     | 2007年11月21日 | 『CHRISTMAS HARMONY ～VISION FACTORY presents』                                                                          | [コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")               |
-| **FREEDOM SKY**                                       |                                                                                                                             |             |                                                                                                                       |                                                                                       |
-| **New World**                                         | DJ KOMORI/w-inds.                                                                                                           | 2010年6月23日  | 『WHAT'S R\&B? 2010』                                                                                                   | [リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")                     |
-| **Stepping on the fire (feat. w-inds.)**              | [RADIO FISH](https://ja.wikipedia.org/wiki/RADIO_FISH "wikilink")                                                           | 2018年6月6日   | 『[RADIO FISH 2017-2018 TOUR "Phalanx"](https://ja.wikipedia.org/wiki/RADIO_FISH_2017-2018_TOUR_"Phalanx" "wikilink")』 | ライブビデオ付属CD                                                                            |
-| **Let’s get it on**                                   | w-inds.                                                                                                                     | 2019年12月25日 | 『Heartbeat(ハートビート)』                                                                                                   | [ノンストップ・コンピレーション・アルバム](https://ja.wikipedia.org/wiki/ノンストップ・コンピレーション・アルバム "wikilink") |
-| **Long Road**                                         |                                                                                                                             |             |                                                                                                                       |                                                                                       |
+| タイトル                                                  | 名義                                                                                                       | 発売日         | 収録作品                                                                                                                  | 備考                                                                                    |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| **World needs love**                                  | Earth Harmony (w-inds., [Folder5](../Page/Folder5.md "wikilink") & [FLAME](../Page/FLAME.md "wikilink")) | 2002年8月7日   | 「[World needs love](https://ja.wikipedia.org/wiki/World_needs_love "wikilink")」                                       | 企画[シングル](../Page/シングル.md "wikilink")                                                  |
+| **World needs love (hyper fantasista mix)**           |                                                                                                          |             |                                                                                                                       |                                                                                       |
+| **I'll be there**                                     | w-inds.                                                                                                  |             |                                                                                                                       |                                                                                       |
+| **NEW PARADISE 〜 DJ TATSUTA CASSETTE VISION's REMIX** | w-inds. × DJ TATSUTA                                                                                     | 2003年3月19日  | 『buddies』                                                                                                             | [リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")                     |
+| **Paradox 〜 TinyVoice, Production REMIX**             | w-inds. × [Ryosuke Imai](https://ja.wikipedia.org/wiki/今井了介 "wikilink")                                  |             |                                                                                                                       |                                                                                       |
+| **Forever Memories 〜 Sweet Memories REMIX**           | w-inds. × DJ CELORY                                                                                      |             |                                                                                                                       |                                                                                       |
+| **Another Days 〜 The Real Vibe Remix**                | w-inds. × [Shinichiro Murayama](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")                          |             |                                                                                                                       |                                                                                       |
+| **buddies Mega Mix 〜 TinyVoice, Production REMIX**    | w-inds., FLAME & [Lead](../Page/Lead.md "wikilink") × Ryosuke Imai                                       |             |                                                                                                                       |                                                                                       |
+| **Storytelling**                                      | w-inds.                                                                                                  | 2007年11月21日 | 『CHRISTMAS HARMONY ～VISION FACTORY presents』                                                                          | [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")                                  |
+| **FREEDOM SKY**                                       |                                                                                                          |             |                                                                                                                       |                                                                                       |
+| **New World**                                         | DJ KOMORI/w-inds.                                                                                        | 2010年6月23日  | 『WHAT'S R\&B? 2010』                                                                                                   | [リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")                     |
+| **Stepping on the fire (feat. w-inds.)**              | [RADIO FISH](https://ja.wikipedia.org/wiki/RADIO_FISH "wikilink")                                        | 2018年6月6日   | 『[RADIO FISH 2017-2018 TOUR "Phalanx"](https://ja.wikipedia.org/wiki/RADIO_FISH_2017-2018_TOUR_"Phalanx" "wikilink")』 | ライブビデオ付属CD                                                                            |
+| **Let’s get it on**                                   | w-inds.                                                                                                  | 2019年12月25日 | 『Heartbeat(ハートビート)』                                                                                                   | [ノンストップ・コンピレーション・アルバム](https://ja.wikipedia.org/wiki/ノンストップ・コンピレーション・アルバム "wikilink") |
+| **Long Road**                                         |                                                                                                          |             |                                                                                                                       |                                                                                       |
 
 ## タイアップ
 
 | タイトル                                 | タイアップ                                                                                                                                                                                                                                                                                                                       | 初出収録作品                                                                                                  |
 | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | **Feel The Fate**                    | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[とりあえずイイ感じ。](../Page/とりあえずイイ感じ。.md "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink") 日本テレビ系『shinD六本木野獣会』エンディングテーマ                                                                                                                                        | 「[Feel The Fate](../Page/Feel_The_Fate.md "wikilink")」                                                  |
-| **Paradox**                          | 日本テレビ系『[FUN](https://ja.wikipedia.org/wiki/FUN "wikilink")』FUN'S RECOMMEND\#019 映画『[Star Light](https://ja.wikipedia.org/wiki/Star_Light "wikilink")』主題歌                                                                                                                                                                    | 「[Paradox](../Page/Paradox_\(w-inds.の曲\).md "wikilink")」                                                |
+| **Paradox**                          | 日本テレビ系『[FUN](../Page/FUN.md "wikilink")』FUN'S RECOMMEND\#019 映画『[Star Light](https://ja.wikipedia.org/wiki/Star_Light "wikilink")』主題歌                                                                                                                                                                                       | 「[Paradox](../Page/Paradox_\(w-inds.の曲\).md "wikilink")」                                                |
 | **try your emotion**                 | 日本テレビ系『[ソルトレイク冬季オリンピック](https://ja.wikipedia.org/wiki/ソルトレイクシティオリンピック "wikilink")』[イメージソング](https://ja.wikipedia.org/wiki/イメージソング "wikilink") （『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』『[SPORTS MAX](https://ja.wikipedia.org/wiki/SPORTS_MAX "wikilink")』は[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")扱い） | 「[try your emotion](https://ja.wikipedia.org/wiki/try_your_emotion "wikilink")」                         |
 | **Another Days**                     | [ファミリーマート](../Page/ファミリーマート.md "wikilink")『M/F/C』[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")                                                                                                                                                                                                                    | 「[Another Days](../Page/Another_Days.md "wikilink")」                                                    |
-| **SUPER LOVER 〜I need you tonight〜** | 日本テレビ系『[あんグラ☆NOW\!](https://ja.wikipedia.org/wiki/あんたにグラッツェ! "wikilink")』2003年5月度エンディングテーマ                                                                                                                                                                                                                                  | 「[SUPER LOVER〜I need you tonight〜](../Page/SUPER_LOVER〜I_need_you_tonight〜.md "wikilink")」              |
+| **SUPER LOVER 〜I need you tonight〜** | 日本テレビ系『[あんグラ☆NOW\!](../Page/あんたにグラッツェ!.md "wikilink")』2003年5月度エンディングテーマ                                                                                                                                                                                                                                                     | 「[SUPER LOVER〜I need you tonight〜](../Page/SUPER_LOVER〜I_need_you_tonight〜.md "wikilink")」              |
 | **Love is message**                  | [ブルボン](../Page/ブルボン.md "wikilink")『MINTREX』[CMソング](https://ja.wikipedia.org/wiki/CMソング "wikilink")                                                                                                                                                                                                                          | 「[Love is message](../Page/Love_is_message.md "wikilink")」                                              |
 | **Long Road**                        | 日本テレビ系『あんグラ☆NOW\!』2003年11月度エンディングテーマ                                                                                                                                                                                                                                                                                        | 「[Long Road](../Page/Long_Road.md "wikilink")」                                                          |
 | **Pieces**                           | ブルボン『フルーツガム』CMソング                                                                                                                                                                                                                                                                                                           | 「[Pieces](https://ja.wikipedia.org/wiki/Pieces_\(w-inds.の曲\) "wikilink")」                               |
@@ -897,15 +897,15 @@ c/w「Love or Leave」（全盤共通）<br />
 | **夢の場所へ**                            | 日本テレビ系『[第83回全国高等学校サッカー選手権大会](../Page/第83回全国高等学校サッカー選手権大会.md "wikilink")』イメージソング                                                                                                                                                                                                                                             | 「[夢の場所へ](../Page/夢の場所へ.md "wikilink")」                                                                  |
 | *' 変わりゆく空*'                          | ブルボン『ブルボンガム』CMソング                                                                                                                                                                                                                                                                                                           | 「[変わりゆく空](../Page/変わりゆく空.md "wikilink")」                                                                |
 | *' 夏空の恋の詩*'                          | ブルボン『ブルボンガム』CMソング                                                                                                                                                                                                                                                                                                           | 『ageha』                                                                                                 |
-| **十六夜の月**                            | 日本テレビ系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2005年9月度[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")                                                                                                                                                            | 「[十六夜の月](../Page/十六夜の月.md "wikilink")」                                                                  |
+| **十六夜の月**                            | 日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2005年9月度[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")                                                                                                                                                                               | 「[十六夜の月](../Page/十六夜の月.md "wikilink")」                                                                  |
 | **約束のカケラ**                           | ブルボン『ブルボンガム』CMソング 日本テレビ系『[クイズ発見バラエティー イッテQ\!](../Page/クイズ発見バラエティー_イッテQ!.md "wikilink")』2005年12月度エンディングテーマ                                                                                                                                                                                                                   | 「[約束のカケラ](https://ja.wikipedia.org/wiki/約束のカケラ "wikilink")」                                             |
-| **IT'S IN THE STARS**                | ブルボン『はなのどガム』CMソング 日本テレビ系『[落下女](https://ja.wikipedia.org/wiki/落下女 "wikilink")』2006年2月度エンディングテーマ                                                                                                                                                                                                                              | 「[IT'S IN THE STARS](../Page/IT'S_IN_THE_STARS.md "wikilink")」                                          |
+| **IT'S IN THE STARS**                | ブルボン『はなのどガム』CMソング 日本テレビ系『[落下女](../Page/落下女.md "wikilink")』2006年2月度エンディングテーマ                                                                                                                                                                                                                                                 | 「[IT'S IN THE STARS](../Page/IT'S_IN_THE_STARS.md "wikilink")」                                          |
 | **TRIAL**                            | [FIFA](https://ja.wikipedia.org/wiki/FIFA "wikilink")、[JFA](https://ja.wikipedia.org/wiki/JFA "wikilink")公認映画『[GOAL\!](../Page/GOAL!.md "wikilink")』日本語吹替え版テーマソング                                                                                                                                                           | 「[TRIAL](../Page/TRIAL_\(曲\).md "wikilink")」                                                            |
-| **ブギウギ66**                           | [dwango](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink").jp CMソング 日本テレビ系『[スポんちゅ](https://ja.wikipedia.org/wiki/スポんちゅ "wikilink")』2006年9月度テーマソング                                                                                                                                                                              | 「[ブギウギ66](../Page/ブギウギ66.md "wikilink")」                                                                |
+| **ブギウギ66**                           | [dwango](../Page/ドワンゴ.md "wikilink").jp CMソング 日本テレビ系『[スポんちゅ](../Page/スポんちゅ.md "wikilink")』2006年9月度テーマソング                                                                                                                                                                                                                    | 「[ブギウギ66](../Page/ブギウギ66.md "wikilink")」                                                                |
 | **ハナムケ**                             | ブルボン『ビタミンCガム』『はなのどガム』CMソング                                                                                                                                                                                                                                                                                                  | 「[ハナムケ](https://ja.wikipedia.org/wiki/ハナムケ "wikilink")」                                                 |
 | **LOVE IS THE GREATEST THING**       | 映画『[シュレック3](../Page/シュレック3.md "wikilink")』日本語吹き替え版イメージソング [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")独占先行配信（TV-SPOT投下）                                                                                                                                                                                    | 「[LOVE IS THE GREATEST THING](../Page/LOVE_IS_THE_GREATEST_THING.md "wikilink")」                        |
 | **SHINING STAR**                     | [北海商科大学](../Page/北海商科大学.md "wikilink")[CFソング](https://ja.wikipedia.org/wiki/CFソング "wikilink")                                                                                                                                                                                                                               | 「LOVE IS THE GREATEST THING」                                                                            |
-| **Beautiful Life**                   | [ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[オトコの子育て](../Page/オトコの子育て.md "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")                                                                                                                                | 「[Beautiful Life](../Page/Beautiful_Life_\(w-inds.の曲\).md "wikilink")」                                  |
+| **Beautiful Life**                   | [ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[オトコの子育て](../Page/オトコの子育て.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")                                                                                                                                                   | 「[Beautiful Life](../Page/Beautiful_Life_\(w-inds.の曲\).md "wikilink")」                                  |
 | **アメあと**                             | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")』第8期エンディングテーマ                                                                                                                                                                     | 「[アメあと](https://ja.wikipedia.org/wiki/アメあと "wikilink")」                                                 |
 | **Everyday**                         | 日本テレビ系『[THE・サンデー NEXT](https://ja.wikipedia.org/wiki/THE・サンデー_NEXT "wikilink")』2009年11月度エンディングテーマ [music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")独占先行配信（TV-SPOT投下）                                                                                                                                            | 「[Everyday/CAN'T GET BACK](https://ja.wikipedia.org/wiki/Everyday/CAN'T_GET_BACK "wikilink")」           |
 | **CAN'T GET BACK**                   | 日本テレビ系『[スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")』2008年11月度エンディングテーマ                                                                                                                                                                                                                                                      | 「[Everyday/CAN'T GET BACK](https://ja.wikipedia.org/wiki/Everyday/CAN'T_GET_BACK "wikilink")」           |
@@ -914,7 +914,7 @@ c/w「Love or Leave」（全盤共通）<br />
 | **Message**                          | アジア国際子ども映画祭テーマソング                                                                                                                                                                                                                                                                                                           | 配信                                                                                                      |
 | **New World**                        | 日本テレビ系『[ドクター・ハウス](https://ja.wikipedia.org/wiki/Dr.HOUSE "wikilink") シーズン2』エンディングテーマ                                                                                                                                                                                                                                        | 「[New World/Truth〜最後の真実〜](https://ja.wikipedia.org/wiki/New_World/Truth〜最後の真実〜 "wikilink")」             |
 | **Truth〜最後の真実〜**                     | [TBS系テレビ](../Page/TBSテレビ.md "wikilink")『[あらびき団](https://ja.wikipedia.org/wiki/あらびき団 "wikilink")』2009年12、1月度エンディングテーマ                                                                                                                                                                                                        | 「[New World/Truth〜最後の真実〜](https://ja.wikipedia.org/wiki/New_World/Truth〜最後の真実〜 "wikilink")」             |
-| **Addicted to love**                 | [NHK](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[土曜時代劇](https://ja.wikipedia.org/wiki/木曜時代劇_\(NHK\) "wikilink")『[まっつぐ〜鎌倉河岸捕物控〜](https://ja.wikipedia.org/wiki/まっつぐ〜鎌倉河岸捕物控〜 "wikilink")』主題歌                                                                                                                      | 「[Addicted to love](https://ja.wikipedia.org/wiki/Addicted_to_love "wikilink")」                         |
+| **Addicted to love**                 | [NHK](../Page/NHK総合テレビジョン.md "wikilink")[土曜時代劇](https://ja.wikipedia.org/wiki/木曜時代劇_\(NHK\) "wikilink")『[まっつぐ〜鎌倉河岸捕物控〜](https://ja.wikipedia.org/wiki/まっつぐ〜鎌倉河岸捕物控〜 "wikilink")』主題歌                                                                                                                                         | 「[Addicted to love](https://ja.wikipedia.org/wiki/Addicted_to_love "wikilink")」                         |
 | **Be As One**                        | テレビ東京系アニメ『[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink")』エンディングテーマ                                                                                                                                                                                                                                                          | 「[Be As One/Let's get it on](https://ja.wikipedia.org/wiki/Be_As_One/Let's_get_it_on "wikilink")」       |
 | **Let's get it on**                  | 日本テレビ系『\[\[スッキリ                                                                                                                                                                                                                                                                                                             | |スッキリ                                                                                                   |
 | **You & I**                          | TBS系『[有田とマツコと男と女](https://ja.wikipedia.org/wiki/有田とマツコと男と女 "wikilink")』2011年8,9月度エンディングテーマ                                                                                                                                                                                                                                  | 「[You & I](https://ja.wikipedia.org/wiki/You_&_I_\(w-inds.の曲\) "wikilink")」                             |
@@ -1002,7 +1002,7 @@ c/w「Love or Leave」（全盤共通）<br />
 7月24日、25日、26日 <a href="https://ja.wikipedia.org/wiki/北海道厚生年金会館" title="wikilink">北海道厚生年金会館</a><br />
 7月28日、29日 <a href="https://ja.wikipedia.org/wiki/神戸国際会館こくさいホール" title="wikilink">神戸国際会館こくさいホール</a><br />
 7月31日、8月1日 <a href="https://ja.wikipedia.org/wiki/広島厚生年金会館" title="wikilink">広島厚生年金会館</a><br />
-8月3日、4日 <a href="https://ja.wikipedia.org/wiki/福岡国際センター" title="wikilink">福岡国際センター</a><br />
+8月3日、4日 <a href="../Page/福岡国際センター.md" title="wikilink">福岡国際センター</a><br />
 8月7日、8日 <a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a><br />
 8月12日、13日 <a href="../Page/長野県県民文化会館.md" title="wikilink">長野県県民文化会館</a><br />
 8月15日、16日 <a href="https://ja.wikipedia.org/wiki/名古屋市総合体育館_レインボーホール" title="wikilink">名古屋市総合体育館 レインボーホール</a><br />
@@ -1026,7 +1026,7 @@ c/w「Love or Leave」（全盤共通）<br />
 <p><strong>16会場29公演</strong></p>
 </div>
 <div class="NavContent">
-<p>7月9日、10日 <a href="https://ja.wikipedia.org/wiki/東京ベイNKホール" title="wikilink">東京ベイNKホール</a><br />
+<p>7月9日、10日 <a href="../Page/東京ベイNKホール.md" title="wikilink">東京ベイNKホール</a><br />
 7月20日、21日 <a href="https://ja.wikipedia.org/wiki/パシフィコ横浜_国立大ホール" title="wikilink">パシフィコ横浜 国立大ホール</a><br />
 7月25日、26日 <a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a><br />
 7月30日、31日 <a href="https://ja.wikipedia.org/wiki/北海道厚生年金会館" title="wikilink">北海道厚生年金会館</a><br />
@@ -1038,7 +1038,7 @@ c/w「Love or Leave」（全盤共通）<br />
 8月20日、21日 <a href="https://ja.wikipedia.org/wiki/名古屋市総合体育館_レインボーホール" title="wikilink">名古屋市総合体育館 レインボーホール</a><br />
 8月25日、26日 <a href="../Page/日本武道館.md" title="wikilink">日本武道館</a><br />
 8月28日 <a href="https://ja.wikipedia.org/wiki/広島県立総合体育館_広島グリーンアリーナ" title="wikilink">広島県立総合体育館 広島グリーンアリーナ</a><br />
-8月30日、31日 <a href="https://ja.wikipedia.org/wiki/福岡国際センター" title="wikilink">福岡国際センター</a><br />
+8月30日、31日 <a href="../Page/福岡国際センター.md" title="wikilink">福岡国際センター</a><br />
 9月3日 <a href="https://ja.wikipedia.org/wiki/アスティとくしま" title="wikilink">アスティとくしま</a><br />
 9月10日、11日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a><br />
 9月24日、25日 <a href="https://ja.wikipedia.org/wiki/新荘体育館" title="wikilink">新荘体育館</a><br />
@@ -1058,7 +1058,7 @@ c/w「Love or Leave」（全盤共通）<br />
 7月14日 <a href="../Page/宇都宮市文化会館.md" title="wikilink">宇都宮市文化会館</a><br />
 7月18日、19日 <a href="https://ja.wikipedia.org/wiki/神奈川県民ホール" title="wikilink">神奈川県民ホール</a><br />
 7月24日、25日 <a href="../Page/大宮ソニックシティ.md" title="wikilink">大宮ソニックシティ</a><br />
-7月27日 <a href="https://ja.wikipedia.org/wiki/アクトシティ浜松" title="wikilink">アクトシティ浜松</a><br />
+7月27日 <a href="../Page/アクトシティ浜松.md" title="wikilink">アクトシティ浜松</a><br />
 7月29日、30日 <a href="https://ja.wikipedia.org/wiki/広島厚生年金会館" title="wikilink">広島厚生年金会館</a><br />
 8月1日、2日 <a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a><br />
 8月5日 <a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a><br />
@@ -1187,7 +1187,7 @@ c/w「Love or Leave」（全盤共通）<br />
 7月26日 <a href="../Page/大宮ソニックシティ.md" title="wikilink">大宮ソニックシティ</a><br />
 7月31日 <a href="https://ja.wikipedia.org/wiki/東京国際フォーラム_ホールA" title="wikilink">東京国際フォーラム ホールA</a><br />
 8月2日 <a href="https://ja.wikipedia.org/wiki/仙台サンプラザ_ホール" title="wikilink">仙台サンプラザ ホール</a><br />
-8月4日 <a href="https://ja.wikipedia.org/wiki/アクトシティ浜松" title="wikilink">アクトシティ浜松</a><br />
+8月4日 <a href="../Page/アクトシティ浜松.md" title="wikilink">アクトシティ浜松</a><br />
 8月7日 <a href="https://ja.wikipedia.org/wiki/新潟テルサ" title="wikilink">新潟テルサ</a><br />
 8月9日、10日 <a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a><br />
 8月12日 <a href="https://ja.wikipedia.org/wiki/ALSOKホール" title="wikilink">ALSOKホール</a><br />
@@ -1458,7 +1458,7 @@ c/w「Love or Leave」（全盤共通）<br />
 <p><strong>1会場1公演</strong></p>
 </div>
 <div class="NavContent">
-<p>11月10日 <a href="https://ja.wikipedia.org/wiki/SHIBUYA-AX" title="wikilink">SHIBUYA-AX</a></p></td>
+<p>11月10日 <a href="../Page/SHIBUYA-AX.md" title="wikilink">SHIBUYA-AX</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2003年</p></td>
@@ -1654,7 +1654,7 @@ c/w「Love or Leave」（全盤共通）<br />
 </div>
 <div class="NavContent">
 <p>3月3日 <a href="https://ja.wikipedia.org/wiki/Zepp_Sapporo" title="wikilink">Zepp Sapporo</a><br />
-3月14日 <a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a><br />
+3月14日 <a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a><br />
 3月16日 <a href="https://ja.wikipedia.org/wiki/Zepp_Nagoya" title="wikilink">Zepp Nagoya</a><br />
 3月16日 <a href="https://ja.wikipedia.org/wiki/Zepp_Namba" title="wikilink">Zepp Namba</a><br />
 4月1日 <a href="https://ja.wikipedia.org/wiki/福岡国際会議場・メインホール" title="wikilink">福岡国際会議場・メインホール</a><br />
@@ -1669,8 +1669,8 @@ c/w「Love or Leave」（全盤共通）<br />
 <p><strong>13会場26公演</strong></p>
 </div>
 <div class="NavContent">
-<p>3月14日 <a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a><br />
-3月23日(昼・夜) <a href="https://ja.wikipedia.org/wiki/長野市芸術館" title="wikilink">長野市芸術館</a>アクトスペース<br />
+<p>3月14日 <a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a><br />
+3月23日(昼・夜) <a href="../Page/長野市芸術館.md" title="wikilink">長野市芸術館</a>アクトスペース<br />
 3月24日(昼・夜) <a href="https://ja.wikipedia.org/wiki/横浜関内ホール_大ホール" title="wikilink">横浜関内ホール　大ホール</a><br />
 4月5日、6日(昼・夜) <a href="https://ja.wikipedia.org/wiki/よみうりホール" title="wikilink">よみうりホール</a><br />
 4月13日(昼・夜) <a href="https://ja.wikipedia.org/wiki/旭川市⺠文化会館_小ホール" title="wikilink">旭川市⺠文化会館 小ホール</a><br />
@@ -1721,7 +1721,7 @@ c/w「Love or Leave」（全盤共通）<br />
 <p><strong>5会場5公演</strong></p>
 </div>
 <div class="NavContent">
-<p>10月26日 <a href="https://ja.wikipedia.org/wiki/甲南女子大学" title="wikilink">甲南女子大学</a><br />
+<p>10月26日 <a href="../Page/甲南女子大学.md" title="wikilink">甲南女子大学</a><br />
 11月1日 <a href="../Page/青山学院女子短期大学.md" title="wikilink">青山学院女子短期大学</a><br />
 11月2日 <a href="../Page/日本工業大学.md" title="wikilink">日本工業大学</a><br />
 11月9日 <a href="https://ja.wikipedia.org/wiki/昭和女子大学_人見記念講堂" title="wikilink">昭和女子大学 人見記念講堂</a><br />
@@ -1739,9 +1739,9 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - [チノパン](https://ja.wikipedia.org/wiki/チノパン "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [力の限りゴーゴゴー\!\!](../Page/力の限りゴーゴゴー!!.md "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
-  - [人気者でいこう\!](https://ja.wikipedia.org/wiki/人気者でいこう! "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
+  - [人気者でいこう\!](../Page/人気者でいこう!.md "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
   - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [大阪発元気ダッシュ\!DOYAH](https://ja.wikipedia.org/wiki/大阪発元気ダッシュ!DOYAH "wikilink") （2001年11月 - 2003年9月、[BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")）
+  - [大阪発元気ダッシュ\!DOYAH](../Page/大阪発元気ダッシュ!DOYAH.md "wikilink") （2001年11月 - 2003年9月、[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
   - [アヤパン](https://ja.wikipedia.org/wiki/アヤパン "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [めちゃめちゃイケてるッ\!](https://ja.wikipedia.org/wiki/めちゃめちゃイケてるッ! "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [新春かくし芸大会2002](https://ja.wikipedia.org/wiki/新春かくし芸大会2002 "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
@@ -1749,14 +1749,14 @@ c/w「Love or Leave」（全盤共通）<br />
   - [進ぬ\!電波少年](../Page/進ぬ!電波少年.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [おはスタ](../Page/おはスタ.md "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [はなまるマーケット](../Page/はなまるマーケット.md "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
-  - [週刊こどもニュース 年末増刊号](https://ja.wikipedia.org/wiki/週刊こどもニュース_年末増刊号 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [週刊こどもニュース 年末増刊号](https://ja.wikipedia.org/wiki/週刊こどもニュース_年末増刊号 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [第40回 新春かくし芸大会2003](https://ja.wikipedia.org/wiki/第40回_新春かくし芸大会2003 "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - FACTORY GENERATION（F超世代）（2003年3月13日 - 2005年2月19日）
       - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")TVBS-G、[韓国](../Page/大韓民国.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[インドネシア](../Page/インドネシア.md "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")8地域で放映
-  - [Pooh\!](https://ja.wikipedia.org/wiki/Pooh! "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
-  - [シブスタ S.B.S.T](https://ja.wikipedia.org/wiki/シブスタ_S.B.S.T "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
+  - [Pooh\!](../Page/Pooh!.md "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
+  - [シブスタ S.B.S.T](../Page/シブスタ_S.B.S.T.md "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [アリゾナの魔法](../Page/アリゾナの魔法.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [汐留スタイル\!](https://ja.wikipedia.org/wiki/汐留スタイル! "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [汐留スタイル\!](../Page/汐留スタイル!.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [ナイナイサイズ\!](../Page/ナイナイサイズ!.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [デジ屋台](../Page/デジ屋台.md "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [第83回全国高校サッカー選手権大会 東京A決勝戦「帝京×修徳」～西が丘サッカー場](https://ja.wikipedia.org/wiki/第83回全国高校サッカー選手権大会_東京A決勝戦「帝京×修徳」～西が丘サッカー場 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
@@ -1772,10 +1772,10 @@ c/w「Love or Leave」（全盤共通）<br />
   - [第83回全国高校サッカー選手権大会 決勝「鹿児島実業×市立船橋」](https://ja.wikipedia.org/wiki/第83回全国高校サッカー選手権大会_決勝「鹿児島実業×市立船橋」 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [全国高校サッカー・ハイライト 蹴球魂～決勝](https://ja.wikipedia.org/wiki/全国高校サッカー・ハイライト_蹴球魂～決勝 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
-  - [クリック\!](https://ja.wikipedia.org/wiki/クリック! "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [クリック\!](../Page/クリック!.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [あっぱれ\!\!さんま大教授](../Page/あっぱれ!!さんま大教授.md "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [くるくるドカン](https://ja.wikipedia.org/wiki/くるくるドカン "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
-  - [浜ちゃんと\!](https://ja.wikipedia.org/wiki/浜ちゃんと! "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [浜ちゃんと\!](../Page/浜ちゃんと!.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [2時っチャオ\!](../Page/2時っチャオ!.md "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [w-inds.M](https://ja.wikipedia.org/wiki/w-inds.M "wikilink") （2008年1月9日 - 2008年12月23日、[MTV](../Page/MTV.md "wikilink")）
   - [ショーパン](https://ja.wikipedia.org/wiki/ショーパン "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
@@ -1788,7 +1788,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [スター☆ドラフト会議](https://ja.wikipedia.org/wiki/スター☆ドラフト会議 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [PON\!](https://ja.wikipedia.org/wiki/PON! "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
-  - [世界一受けたい授業](https://ja.wikipedia.org/wiki/世界一受けたい授業 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [世界一受けたい授業](../Page/世界一受けたい授業.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [オトナの\!](https://ja.wikipedia.org/wiki/オトナの! "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [アカデミーナイトG](https://ja.wikipedia.org/wiki/アカデミーナイトG "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
@@ -1797,73 +1797,73 @@ c/w「Love or Leave」（全盤共通）<br />
 
 ### 音楽番組
 
-  - [MUSIX\!](https://ja.wikipedia.org/wiki/MUSIX! "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
+  - [MUSIX\!](../Page/MUSIX!.md "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [AX MUSIC FACTORY](https://ja.wikipedia.org/wiki/AX_MUSIC_FACTORY "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [ピンク パパラッチ](https://ja.wikipedia.org/wiki/ピンク_パパラッチ "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [ピンパパ](https://ja.wikipedia.org/wiki/ピンパパ "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [FUN](https://ja.wikipedia.org/wiki/FUN "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [FUN](../Page/FUN.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [音楽通信](https://ja.wikipedia.org/wiki/音楽通信 "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
-  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
-  - [速報\!歌の大辞テン](https://ja.wikipedia.org/wiki/速報!歌の大辞テン "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [CDTV-Neo](https://ja.wikipedia.org/wiki/CDTV-Neo "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [スーパースペシャル2001 「ALL JAPAN リクエストアワード」](https://ja.wikipedia.org/wiki/スーパースペシャル2001_「ALL_JAPAN_リクエストアワード」 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [デジタルドリームライブ2001](https://ja.wikipedia.org/wiki/デジタルドリームライブ2001 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [デジタルドリームライブ2001](https://ja.wikipedia.org/wiki/デジタルドリームライブ2001 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [SUPER DREAM LIVE 01 WINTER](https://ja.wikipedia.org/wiki/SUPER_DREAM_LIVE_01_WINTER "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [Mの黙示録](../Page/Mの黙示録.md "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
   - [CDTVスペシャル 超豪華\!年越しライブ2001～2002](https://ja.wikipedia.org/wiki/CDTVスペシャル_超豪華!年越しライブ2001～2002 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [涙と感動\!全部見せますレコード大賞の舞台裏](https://ja.wikipedia.org/wiki/涙と感動!全部見せますレコード大賞の舞台裏 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [パパパパPUFFY](https://ja.wikipedia.org/wiki/パパパパPUFFY "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
-  - [BSジュニアのど自慢](https://ja.wikipedia.org/wiki/BSジュニアのど自慢 "wikilink")([BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink"))
+  - [BSジュニアのど自慢](https://ja.wikipedia.org/wiki/BSジュニアのど自慢 "wikilink")([BS2](../Page/NHK衛星第2テレビジョン.md "wikilink"))
   - [第39回 輝け\!ゴールデンアロー賞](https://ja.wikipedia.org/wiki/第39回_輝け!ゴールデンアロー賞 "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
-  - [第16回日本ゴールドディスク大賞](https://ja.wikipedia.org/wiki/第16回日本ゴールドディスク大賞 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
-  - [AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [第16回日本ゴールドディスク大賞](https://ja.wikipedia.org/wiki/第16回日本ゴールドディスク大賞 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
+  - [AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [ピース・オブ・ 琉球](https://ja.wikipedia.org/wiki/ピース・オブ・_琉球 "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
   - [Under-CDTV](https://ja.wikipedia.org/wiki/Under-CDTV "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [Matthew´s Best Hit TV](https://ja.wikipedia.org/wiki/Matthew´s_Best_Hit_TV "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
-  - [デジタルドリームライブ2002](https://ja.wikipedia.org/wiki/デジタルドリームライブ2002 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
-  - [BSエンターテインメント「アジア2002ミュージック」 「アジア2002ミュージックフェスティバル イン 上海」](https://ja.wikipedia.org/wiki/BSエンターテインメント「アジア2002ミュージック」_「アジア2002ミュージックフェスティバル_イン_上海」 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [デジタルドリームライブ2002](https://ja.wikipedia.org/wiki/デジタルドリームライブ2002 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
+  - [BSエンターテインメント「アジア2002ミュージック」 「アジア2002ミュージックフェスティバル イン 上海」](https://ja.wikipedia.org/wiki/BSエンターテインメント「アジア2002ミュージック」_「アジア2002ミュージックフェスティバル_イン_上海」 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [1億3000万人が選ぶ\!ベストアーティスト30 2002](https://ja.wikipedia.org/wiki/1億3000万人が選ぶ!ベストアーティスト30_2002 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [もう一度見たい\!紅白名場面](https://ja.wikipedia.org/wiki/もう一度見たい!紅白名場面 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [もう一度見たい\!紅白名場面](https://ja.wikipedia.org/wiki/もう一度見たい!紅白名場面 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [CDTVスペシャル超豪華\!年越しライブ2002～2003](https://ja.wikipedia.org/wiki/CDTVスペシャル超豪華!年越しライブ2002～2003 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [涙と感動\!全部見せますレコード大賞の舞台裏](https://ja.wikipedia.org/wiki/涙と感動!全部見せますレコード大賞の舞台裏 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
-  - [ポップジャム スペシャル 「ポップジャム・スペシャル～生放送\!黄金の10周年」](https://ja.wikipedia.org/wiki/ポップジャム_スペシャル_「ポップジャム・スペシャル～生放送!黄金の10周年」 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [ポップジャム スペシャル 「ポップジャム・スペシャル～生放送\!黄金の10周年」](https://ja.wikipedia.org/wiki/ポップジャム_スペシャル_「ポップジャム・スペシャル～生放送!黄金の10周年」 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [祝\!CDTV10周年 超豪華4時間生放送\!](https://ja.wikipedia.org/wiki/祝!CDTV10周年_超豪華4時間生放送! "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [COUNT DOWN TV 夏の3時間スペシャル](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV_夏の3時間スペシャル "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [HEY\!HEY\!HEY\! 祝HEY\!HEY\!HEY\!400回記念スペシャル～さいたまスーパーアリーナ](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_祝HEY!HEY!HEY!400回記念スペシャル～さいたまスーパーアリーナ "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
-  - [Ayu ready?](https://ja.wikipedia.org/wiki/Ayu_ready? "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
+  - [Ayu ready?](../Page/Ayu_ready?.md "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
   - [スーパースペシャル2003 「ベストヒット歌謡祭2003」](https://ja.wikipedia.org/wiki/スーパースペシャル2003_「ベストヒット歌謡祭2003」 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [デジタルドリームライブ2003](https://ja.wikipedia.org/wiki/デジタルドリームライブ2003 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [デジタルドリームライブ2003](https://ja.wikipedia.org/wiki/デジタルドリームライブ2003 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [1億3000万人が選ぶ\!ベストアーティスト2003](https://ja.wikipedia.org/wiki/1億3000万人が選ぶ!ベストアーティスト2003 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [特集 NHK歌謡コンサート 「もう一度見たい\!紅白名場面」](https://ja.wikipedia.org/wiki/特集_NHK歌謡コンサート_「もう一度見たい!紅白名場面」 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [特集 NHK歌謡コンサート 「もう一度見たい\!紅白名場面」](https://ja.wikipedia.org/wiki/特集_NHK歌謡コンサート_「もう一度見たい!紅白名場面」 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [CDTVスペシャル\!\! 「浜崎あゆみ今年もカウントダウン生中継\!&超豪華年越しプレミアライブ2003～2004\!\!」](https://ja.wikipedia.org/wiki/CDTVスペシャル!!_「浜崎あゆみ今年もカウントダウン生中継!&超豪華年越しプレミアライブ2003～2004!!」 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [CDTVスペシャル 「史上最強のラブソング バレンタイン2004プレミアランキング」](https://ja.wikipedia.org/wiki/CDTVスペシャル_「史上最強のラブソング_バレンタイン2004プレミアランキング」 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
-  - [ポップジャム生スペシャルin幕張](https://ja.wikipedia.org/wiki/ポップジャム生スペシャルin幕張 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
-  - [ポップジャム生スペシャルin幕張 完全版](https://ja.wikipedia.org/wiki/ポップジャム生スペシャルin幕張_完全版 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
-  - [衛星放送開始15周年記念 BSドリームライブ2004](https://ja.wikipedia.org/wiki/衛星放送開始15周年記念_BSドリームライブ2004 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [ポップジャム生スペシャルin幕張](https://ja.wikipedia.org/wiki/ポップジャム生スペシャルin幕張 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
+  - [ポップジャム生スペシャルin幕張 完全版](https://ja.wikipedia.org/wiki/ポップジャム生スペシャルin幕張_完全版 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
+  - [衛星放送開始15周年記念 BSドリームライブ2004](https://ja.wikipedia.org/wiki/衛星放送開始15周年記念_BSドリームライブ2004 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [CDTVスペシャル 夏祭りプレミアライブ](https://ja.wikipedia.org/wiki/CDTVスペシャル_夏祭りプレミアライブ "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [ベストヒット歌謡祭2004](https://ja.wikipedia.org/wiki/ベストヒット歌謡祭2004 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [COUNT DOWN TV スペシャル 年越しプレミアライブ2004～2005\!\!](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV_スペシャル_年越しプレミアライブ2004～2005!! "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
-  - [日韓友情音楽祭2005](https://ja.wikipedia.org/wiki/日韓友情音楽祭2005 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
-  - [ポップジャムスペシャル in 神戸](https://ja.wikipedia.org/wiki/ポップジャムスペシャル_in_神戸 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [日韓友情音楽祭2005](https://ja.wikipedia.org/wiki/日韓友情音楽祭2005 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
+  - [ポップジャムスペシャル in 神戸](https://ja.wikipedia.org/wiki/ポップジャムスペシャル_in_神戸 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [w-inds. Spring Special Live](https://ja.wikipedia.org/wiki/w-inds._Spring_Special_Live "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
   - [ベストヒット歌謡祭2005](https://ja.wikipedia.org/wiki/ベストヒット歌謡祭2005 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [COUNT DOWN TV SP 年越しプレミアライブ2005→2006](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV_SP_年越しプレミアライブ2005→2006 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [COUNT DOWN TV スペシャル 「青春ど真ん中ソング\!神田川～青春アミーゴまでたっぷり300曲\!\!」](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV_スペシャル_「青春ど真ん中ソング!神田川～青春アミーゴまでたっぷり300曲!!」 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [MusiG](../Page/MusiG.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [プレミアム10 「ポップジャム デラックス」](https://ja.wikipedia.org/wiki/プレミアム10_「ポップジャム_デラックス」 "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [プレミアム10 「ポップジャム デラックス」](https://ja.wikipedia.org/wiki/プレミアム10_「ポップジャム_デラックス」 "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [ベストヒット歌謡祭2006](https://ja.wikipedia.org/wiki/ベストヒット歌謡祭2006 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [開運音楽堂](../Page/開運音楽堂.md "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [もうすぐレコード大賞2006直前生放送SP\!](https://ja.wikipedia.org/wiki/もうすぐレコード大賞2006直前生放送SP! "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [PVTV](../Page/PVTV.md "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [MTV VIDEO MUSIC AWARDS JAPAN 2007](https://ja.wikipedia.org/wiki/MTV_VIDEO_MUSIC_AWARDS_JAPAN_2007 "wikilink")([MTV](https://ja.wikipedia.org/wiki/MTV_JAPAN "wikilink"))
-  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [水トク\! 「真夏のCDTVスペシャル07～世界陸上も大応援\!最強なつソング&上半期大ヒット濃縮300曲決定版\!」](https://ja.wikipedia.org/wiki/水トク!_「真夏のCDTVスペシャル07～世界陸上も大応援!最強なつソング&上半期大ヒット濃縮300曲決定版!」 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [ベストヒット歌謡祭2007](https://ja.wikipedia.org/wiki/ベストヒット歌謡祭2007 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [月刊MelodiX\!](http://www.tv-tokyo.co.jp/melodix/)([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
-  - [2007日中文化・スポーツ交流年グランドフィナーレコンサート](https://ja.wikipedia.org/wiki/2007日中文化・スポーツ交流年グランドフィナーレコンサート "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [2007日中文化・スポーツ交流年グランドフィナーレコンサート](https://ja.wikipedia.org/wiki/2007日中文化・スポーツ交流年グランドフィナーレコンサート "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [もうすぐレコード大賞2007](https://ja.wikipedia.org/wiki/もうすぐレコード大賞2007 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [COUNT DOWN TV SP 「CDTVSP プレミアライブ2007＞＞2008」](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV_SP_「CDTVSP_プレミアライブ2007＞＞2008」 "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [MMM](https://ja.wikipedia.org/wiki/MMM "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
@@ -1891,7 +1891,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [Music B.B.](https://ja.wikipedia.org/wiki/Music_B.B. "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [ザ・狩人 木金ドラマ～ピアニッシモな僕等](https://ja.wikipedia.org/wiki/ザ・狩人_木金ドラマ～ピアニッシモな僕等 "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [MTV VIDEO MUSIC AID JAPAN 2011](https://ja.wikipedia.org/wiki/MTV_VIDEO_MUSIC_AID_JAPAN_2011 "wikilink")([MTV](https://ja.wikipedia.org/wiki/MTV_JAPAN "wikilink"))
-  - [J-MELO](https://ja.wikipedia.org/wiki/J-MELO "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [J-MELO](../Page/J-MELO.md "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [LOVE VIET NAM 日越友好音楽祭](https://ja.wikipedia.org/wiki/LOVE_VIET_NAM_日越友好音楽祭 "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
   - [第40回2011FNS歌謡祭](https://ja.wikipedia.org/wiki/第40回2011FNS歌謡祭 "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
   - [MTV VIDEO MUSIC AWARDS JAPAN 2012](https://ja.wikipedia.org/wiki/MTV_VIDEO_MUSIC_AWARDS_JAPAN_2012 "wikilink")([MTV](https://ja.wikipedia.org/wiki/MTV_JAPAN "wikilink"))
@@ -1899,7 +1899,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [超流派](https://ja.wikipedia.org/wiki/超流派 "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
   - [ミュージックドラゴン](https://ja.wikipedia.org/wiki/ミュージックドラゴン "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [せまソン♪](https://ja.wikipedia.org/wiki/せまソン♪ "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
-  - [日・ASEAN音楽祭～災害復興への祈り～](https://ja.wikipedia.org/wiki/日・ASEAN音楽祭～災害復興への祈り～ "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [日・ASEAN音楽祭～災害復興への祈り～](https://ja.wikipedia.org/wiki/日・ASEAN音楽祭～災害復興への祈り～ "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
   - [MTV VIDEO MUSIC AWARDS JAPAN 2014](https://ja.wikipedia.org/wiki/MTV_VIDEO_MUSIC_AWARDS_JAPAN_2014 "wikilink")([MTV](https://ja.wikipedia.org/wiki/MTV_JAPAN "wikilink"))
   - [新年だから カンテツde音楽ナイト](https://ja.wikipedia.org/wiki/新年だから_カンテツde音楽ナイト "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
   - [魁\!音楽番付 Eight](https://ja.wikipedia.org/wiki/魁!音楽番付_Eight "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink"))
@@ -1911,7 +1911,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [Good Time Music](https://ja.wikipedia.org/wiki/Good_Time_Music "wikilink")([TBS](../Page/TBSテレビ.md "wikilink"))
   - [Break Out](https://ja.wikipedia.org/wiki/Break_Out "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
   - [流派-R since2001](https://ja.wikipedia.org/wiki/流派-R_since2001 "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
-  - [第2回 日・ASEAN音楽祭～平和への祈り～](https://ja.wikipedia.org/wiki/第2回_日・ASEAN音楽祭～平和への祈り～ "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink"))
+  - [第2回 日・ASEAN音楽祭～平和への祈り～](https://ja.wikipedia.org/wiki/第2回_日・ASEAN音楽祭～平和への祈り～ "wikilink")([NHK総合](../Page/NHK総合テレビジョン.md "wikilink"))
 
 #### TBS 日本有線大賞
 
@@ -1961,7 +1961,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - [ファミリーマート](../Page/ファミリーマート.md "wikilink") 『M / F / C ダブルマスカラ』 （2002年）
   - [ブルボン](../Page/ブルボン.md "wikilink") 『ブルボンガムシリーズ』 （2003年7月 - 2007年1月）
-  - [ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink") 『[イロメロミックス](https://ja.wikipedia.org/wiki/イロメロミックス "wikilink") マナー着信音』 （2005年） - [Lead](../Page/Lead.md "wikilink")との共演
+  - [ドワンゴ](../Page/ドワンゴ.md "wikilink") 『[イロメロミックス](https://ja.wikipedia.org/wiki/イロメロミックス "wikilink") マナー着信音』 （2005年） - [Lead](../Page/Lead.md "wikilink")との共演
   - [警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink") 『【第一弾】第２編　「『電話に工夫』で詐欺ブロック！」編　ＳＯＳ４７　～家族の絆で　ＳＴＯＰ！オレオレ詐欺～』 （2019年）
   - [警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink") 『【第一弾】第３編　「『電話を切る』で詐欺ブロック！」編　ＳＯＳ４７　～家族の絆で　ＳＴＯＰ！オレオレ詐欺～』 （2019年）
   - [警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink") 『【第二弾】第３編　「この人たちは詐欺師です。」』 （2019年）
@@ -1976,7 +1976,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [Audition blue](https://ja.wikipedia.org/wiki/Audition_blue "wikilink")
   - [Oricon style](https://ja.wikipedia.org/wiki/Oricon_style "wikilink")
   - [オリ☆スタ](https://ja.wikipedia.org/wiki/オリ☆スタ "wikilink")
-  - [CanCam](https://ja.wikipedia.org/wiki/CanCam "wikilink")
+  - [CanCam](../Page/CanCam.md "wikilink")
   - [Quick Japan](../Page/Quick_Japan.md "wikilink")
   - [Sound & Recording Magazine](https://ja.wikipedia.org/wiki/Sound_&_Recording_Magazine "wikilink")
   - [サウンド・デザイナー](https://ja.wikipedia.org/wiki/サウンド・デザイナー "wikilink")
@@ -2015,7 +2015,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
 ### インターネット
 
-  - [ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink") [パケットラジオ](https://ja.wikipedia.org/wiki/パケットラジオ "wikilink") 『w-inds.のパケラジドリーム』 （2005年 - 2006年12月25日／全96回）
+  - [ドワンゴ](../Page/ドワンゴ.md "wikilink") [パケットラジオ](https://ja.wikipedia.org/wiki/パケットラジオ "wikilink") 『w-inds.のパケラジドリーム』 （2005年 - 2006年12月25日／全96回）
   - [GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink") [w-inds.デビュー6周年特別企画番組『w-inds.road](http://www.gyao.jp/keyword/ikemen/)』（2007年3月14日 - 5月7日）
   - GyaO『[音楽番組を板尾創路](../Page/音楽番組を板尾創路.md "wikilink")』（2008年1月9日 - 1月16日,2008年4月23日 - 5月22日)
   - 携帯デコレーションメールサイト「デコガール」にてW-inds.デコメ配信中。（2008年3月 - ）
@@ -2053,7 +2053,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
 <!-- end list -->
 
-  - 第34回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink") 最優秀新人賞 （『**[Paradox](../Page/Paradox_\(w-inds.の曲\).md "wikilink")**』）
+  - 第34回[日本有線大賞](../Page/日本有線大賞.md "wikilink") 最優秀新人賞 （『**[Paradox](../Page/Paradox_\(w-inds.の曲\).md "wikilink")**』）
 
   - [第43回日本レコード大賞](https://ja.wikipedia.org/wiki/第43回日本レコード大賞 "wikilink") 最優秀新人賞 （『**[Paradox](../Page/Paradox_\(w-inds.の曲\).md "wikilink")**』）
 
@@ -2065,7 +2065,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - [第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink") 金賞 （『**[Because of you](../Page/Because_of_you_\(w-inds.の曲\).md "wikilink")**』）
 
-  - 第39回 [ゴールデン・アロー賞](https://ja.wikipedia.org/wiki/ゴールデン・アロー賞 "wikilink") 音楽新人賞
+  - 第39回 [ゴールデン・アロー賞](../Page/ゴールデン・アロー賞.md "wikilink") 音楽新人賞
 
   - 第16回 日本ゴールドディスク大賞 ニューアーティストオブザイヤー
 
@@ -2107,7 +2107,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
 <!-- end list -->
 
-  - 第39回 [日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink") 有線音楽賞
+  - 第39回 [日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽賞
 
   - [第48回日本レコード大賞](https://ja.wikipedia.org/wiki/第48回日本レコード大賞 "wikilink") 金賞 （『**[ブギウギ66](../Page/ブギウギ66.md "wikilink")**』）
 
@@ -2171,7 +2171,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
 <!-- end list -->
 
-  - [MTV](../Page/MTV.md "wikilink") WORLD STAGE [VMAJ](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink") 2010 最優秀コラボレーションビデオ賞 （『**[Rain Is Fallin'](https://ja.wikipedia.org/wiki/Rain_Is_Fallin'/HYBRID_DREAM "wikilink")**』）
+  - [MTV](../Page/MTV.md "wikilink") WORLD STAGE [VMAJ](../Page/MTV_Video_Music_Awards_Japan.md "wikilink") 2010 最優秀コラボレーションビデオ賞 （『**[Rain Is Fallin'](https://ja.wikipedia.org/wiki/Rain_Is_Fallin'/HYBRID_DREAM "wikilink")**』）
 
   - [第52回日本レコード大賞](https://ja.wikipedia.org/wiki/第52回日本レコード大賞 "wikilink") 優秀作品賞 （『**[New World](https://ja.wikipedia.org/wiki/New_World/Truth〜最後の真実〜 "wikilink")**』）
 
@@ -2267,7 +2267,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
 ## 関連項目
 
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink") - **w-inds.** - [FLAME](https://ja.wikipedia.org/wiki/FLAME "wikilink") - [Lead](../Page/Lead.md "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink") - **w-inds.** - [FLAME](../Page/FLAME.md "wikilink") - [Lead](../Page/Lead.md "wikilink")
 
 ## 外部リンク
 

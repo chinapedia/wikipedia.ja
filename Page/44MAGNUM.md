@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ジャパニーズヘヴィメタル](https://ja.wikipedia.org/wiki/ジャパニーズ・メタル "wikilink")、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")の先駆けと言えるバンドで、影響を受けたバンドの数は多い([X JAPAN](../Page/X_JAPAN.md "wikilink")、D'ERLANGER等)。 特に[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[瀧川一郎](../Page/瀧川一郎.md "wikilink")と[ドラマー](../Page/ドラマー.md "wikilink")の[菊地哲](../Page/菊地哲.md "wikilink")と元[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")～[GRAND SLAMの加藤純也は](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")、44MAGNUMのローディーとして働いており、瀧川一郎は[広瀬さとし](https://ja.wikipedia.org/wiki/広瀬さとし "wikilink")に弟子入りし、菊地哲は[宮脇知史に弟子入りしていた](../Page/宮脇“JOE”知史.md "wikilink")。
+[ジャパニーズヘヴィメタル](../Page/ジャパニーズ・メタル.md "wikilink")、[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")の先駆けと言えるバンドで、影響を受けたバンドの数は多い([X JAPAN](../Page/X_JAPAN.md "wikilink")、D'ERLANGER等)。 特に[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")[瀧川一郎](../Page/瀧川一郎.md "wikilink")と[ドラマー](../Page/ドラマー.md "wikilink")の[菊地哲](../Page/菊地哲.md "wikilink")と元[REACTION](https://ja.wikipedia.org/wiki/REACTION_\(バンド\) "wikilink")～[GRAND SLAMの加藤純也は](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")、44MAGNUMのローディーとして働いており、瀧川一郎は[広瀬さとし](https://ja.wikipedia.org/wiki/広瀬さとし "wikilink")に弟子入りし、菊地哲は[宮脇知史に弟子入りしていた](../Page/宮脇“JOE”知史.md "wikilink")。
 
 [1977年](../Page/1977年.md "wikilink")、 PAUL（梅原達也 / ボーカル）によって結成される。[1979年](../Page/1979年.md "wikilink")、ギターのJIMMY（広瀬さとし / ギター）が加入。今のバンドの原型ができあがる。その後、メンバーチェンジを繰り返しながら[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に[MOON RECORDSからアルバム](../Page/MOON_RECORDS.md "wikilink")『DANGER』をリリースしメジャーデビュー。
 
@@ -19,7 +19,7 @@
 
 同年4月21日には1986年にレコーディングした未発表アルバム『[STILL ALIVE](https://ja.wikipedia.org/wiki/STILL_ALIVE_\(44MAGNUMのアルバム\) "wikilink")』をデンジャー・クルーよりリリース。音楽雑誌やファンから絶賛をうける。
 
-解散後、梅原は[江川ほーじん](https://ja.wikipedia.org/wiki/江川ほーじん "wikilink")らと共に[RHINOCEROSを結成](https://ja.wikipedia.org/wiki/江川ほーじん#RHINOCEROS\(ライナセロス\) "wikilink")。 広瀬は[橋本みゆきと共に](https://ja.wikipedia.org/wiki/橋本みゆき_\(ロック歌手\) "wikilink")[TOPAZを結成し](https://ja.wikipedia.org/wiki/TOPAZ_\(バンド\) "wikilink")、解散後は[ビーイング](../Page/ビーイング.md "wikilink")系バンドの[spAed](https://ja.wikipedia.org/wiki/spAed "wikilink")や[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")のツアーギタリストとして参加している。 吉川は当時44MAGNUMのローディとして働いていた元REACTIONの加藤純也らと共に[GRAND SLAMを結成](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")。 宮脇は脱退後、[DIAMOND☆YUKAI](https://ja.wikipedia.org/wiki/DIAMOND☆YUKAI "wikilink")や[hide with Spread Beaverのツアーメンバーとして参加](https://ja.wikipedia.org/wiki/hide "wikilink")、1994年には[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")に加入し、2000年には[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")のトリビュートバンドである[RIDER CHIPSに参加した](../Page/RIDER_CHIPS.md "wikilink")。
+解散後、梅原は[江川ほーじん](../Page/江川ほーじん.md "wikilink")らと共に[RHINOCEROSを結成](https://ja.wikipedia.org/wiki/江川ほーじん#RHINOCEROS\(ライナセロス\) "wikilink")。 広瀬は[橋本みゆきと共に](https://ja.wikipedia.org/wiki/橋本みゆき_\(ロック歌手\) "wikilink")[TOPAZを結成し](https://ja.wikipedia.org/wiki/TOPAZ_\(バンド\) "wikilink")、解散後は[ビーイング](../Page/ビーイング.md "wikilink")系バンドの[spAed](https://ja.wikipedia.org/wiki/spAed "wikilink")や[吉川晃司](../Page/吉川晃司.md "wikilink")のツアーギタリストとして参加している。 吉川は当時44MAGNUMのローディとして働いていた元REACTIONの加藤純也らと共に[GRAND SLAMを結成](https://ja.wikipedia.org/wiki/グランドスラム_\(ロックバンド\) "wikilink")。 宮脇は脱退後、[DIAMOND☆YUKAI](https://ja.wikipedia.org/wiki/DIAMOND☆YUKAI "wikilink")や[hide with Spread Beaverのツアーメンバーとして参加](https://ja.wikipedia.org/wiki/hide "wikilink")、1994年には[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")に加入し、2000年には[仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")のトリビュートバンドである[RIDER CHIPSに参加した](../Page/RIDER_CHIPS.md "wikilink")。
 
 [2002年](../Page/2002年.md "wikilink")に復活し、アルバム『IGNITION』をリリースしたが、44MAGNUMとしてのライブは開催されないまま（PAUL＆JIMMYによる22MAGNUM名義でのイベント参加は行われた。）、活動自体が徐々にフェイドアウトしてゆく。
 
@@ -29,7 +29,7 @@
 
 10月13.14日に[目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink")にてライブを開催予定していたが、事務所とのマネージメント契約が突如解除される等した為、寸前まで開催を不安視する意見が多かった。また宮脇のライブスケジュールに44MAGNUMのライブが含まれていない事にも疑念の声が上がっていた。 その不安は的中し、結局この公演は中止となってしまった。
 
-しかし翌年3月1日、前年の鹿鳴館公演の振り替えを兼ねた「関西なぐりこみGIG 2008」（[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")）にて[MARINO](https://ja.wikipedia.org/wiki/MARINO_\(バンド\) "wikilink")、[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")と競演、オリジナルメンバーがステージ上で顔を揃えた（サポート：Stevie（Vo））。
+しかし翌年3月1日、前年の鹿鳴館公演の振り替えを兼ねた「関西なぐりこみGIG 2008」（[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")）にて[MARINO](https://ja.wikipedia.org/wiki/MARINO_\(バンド\) "wikilink")、[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")と競演、オリジナルメンバーがステージ上で顔を揃えた（サポート：Stevie（Vo））。
 
 2009年9月、梅原（Vo）、広瀬（Gu）宮脇（Dr）の従来のメンバーに加え、SHUSE（Ba）元[La'cryma Christi](../Page/La'cryma_Christi.md "wikilink")、梅原の息子であるStevie（Vo）を迎え、 新生44MAGNUMとしてアルバム『[44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM_\(アルバム\) "wikilink")』をリリース。
 
@@ -653,7 +653,7 @@ MOON-28028</p></td>
 
 ### 楽曲提供
 
-  - [ダンプ松本](https://ja.wikipedia.org/wiki/ダンプ松本 "wikilink")『Dump The Heel』『Trouble Maker』（アルバム『極悪』収録）
+  - [ダンプ松本](../Page/ダンプ松本.md "wikilink")『Dump The Heel』『Trouble Maker』（アルバム『極悪』収録）
 
 <!-- end list -->
 
@@ -667,7 +667,7 @@ MOON-28028</p></td>
   - [spAed](https://ja.wikipedia.org/wiki/spAed "wikilink")
       - [片山圭司](../Page/片山圭司.md "wikilink")
       - [山下昌良](../Page/山下昌良.md "wikilink")（[LOUDNESS](../Page/LOUDNESS.md "wikilink")）
-  - [愛してナイト](https://ja.wikipedia.org/wiki/愛してナイト "wikilink")
+  - [愛してナイト](../Page/愛してナイト.md "wikilink")
 
 ## 外部リンク
 

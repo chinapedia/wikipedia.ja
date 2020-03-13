@@ -7,7 +7,7 @@
 
 ## 来歴
 
-チームは1985年に青梅市在住のサッカー愛好家を中心に結成された「青梅フットボールクラブ」が母体とされており、[東京都社会人サッカーリーグ](../Page/東京都社会人サッカーリーグ.md "wikilink")4部からスタート。1991年度から都1部リーグに昇格して以来常に中盤をキープしたが、1994年に[関東サッカーリーグ](https://ja.wikipedia.org/wiki/関東サッカーリーグ "wikilink")昇格を果たす。
+チームは1985年に青梅市在住のサッカー愛好家を中心に結成された「青梅フットボールクラブ」が母体とされており、[東京都社会人サッカーリーグ](../Page/東京都社会人サッカーリーグ.md "wikilink")4部からスタート。1991年度から都1部リーグに昇格して以来常に中盤をキープしたが、1994年に[関東サッカーリーグ](../Page/関東サッカーリーグ.md "wikilink")昇格を果たす。
 
 その後1995年に一度都1部リーグに降格するも1年で復帰し、関東リーグに定着。同リーグで活躍し将来の[JFL参戦を目指していたが](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")2008年、再び都1部リーグに降格。
 
@@ -239,7 +239,7 @@
 <tr class="even">
 <td><p><strong>15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小濱一葵" title="wikilink">小濱一葵</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/共栄大学" title="wikilink">共栄大学</a></p></td>
+<td><p><a href="../Page/共栄大学.md" title="wikilink">共栄大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -330,7 +330,7 @@
 <tr class="odd">
 <td><p><strong>30</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/竹内涼_(1993年生のサッカー選手)" title="wikilink">竹内涼</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/尚美学園大学" title="wikilink">尚美学園大学</a></p></td>
+<td><p><a href="../Page/尚美学園大学.md" title="wikilink">尚美学園大学</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -373,7 +373,7 @@
 
 ### ユニフォームサプライヤー
 
-  - [ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")
+  - [ミズノ](../Page/ミズノ.md "wikilink")
 
 ## 外部リンク
 

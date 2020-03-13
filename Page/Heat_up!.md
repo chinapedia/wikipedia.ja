@@ -1,18 +1,18 @@
 > この記事は[Heat up!](https://ja.wikipedia.org/wiki/Heat_up!)から翻訳されています。
 
 
-『**Heat up\!**』（ヒート・アップ）は、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の3作目のライブDVD。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[テイチクレコードから発売された](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")。
+『**Heat up\!**』（ヒート・アップ）は、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の3作目のライブDVD。[2006年](../Page/2006年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[テイチクレコードから発売された](../Page/テイチクエンタテインメント.md "wikilink")。
 
 ## 概要
 
   - 前作『[Spirits\!\!](https://ja.wikipedia.org/wiki/Spirits!! "wikilink")』から約10ヶ月振りのリリース。
   - 本作は初回生産限定、通常盤の2形態で発売。
-  - 2006年5月から6月にかけて行われたライブツアー『関ジャニ∞ Concert Tour 2006 Funky Tokyo Osaka Nagoya』の千秋楽である[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")第一体育館公演を収録。
+  - 2006年5月から6月にかけて行われたライブツアー『関ジャニ∞ Concert Tour 2006 Funky Tokyo Osaka Nagoya』の千秋楽である[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館公演を収録。
   - 初回生産限定盤の特典DVDには、収録コントとは別バージョンのコント「**∞（エイト）レンジャー ～あった！黒バイク…！？～**」と本公演のダブルアンコールの「**[好きやねん、大阪。](https://ja.wikipedia.org/wiki/好きやねん、大阪。/桜援歌\(Oh!ENKA\)/無限大 "wikilink")**」と
 
 「**[∞SAKAおばちゃんROCK](https://ja.wikipedia.org/wiki/∞SAKAおばちゃんROCK/大阪ロマネスク "wikilink")**」のMVを収録。
 
-  - 2006年9月18日付のオリコンDVD総合チャート及び音楽DVDチャートで初登場1位を記録し、『[Excite\!\!](https://ja.wikipedia.org/wiki/Excite!! "wikilink")』、『[Spirits\!\!](https://ja.wikipedia.org/wiki/Spirits!! "wikilink")』、『[DREAM BOYS](https://ja.wikipedia.org/wiki/DREAM_BOY "wikilink")』（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")と共演）に続き、4作連続でオリコン音楽DVD1位を獲得した。
+  - 2006年9月18日付のオリコンDVD総合チャート及び音楽DVDチャートで初登場1位を記録し、『[Excite\!\!](https://ja.wikipedia.org/wiki/Excite!! "wikilink")』、『[Spirits\!\!](https://ja.wikipedia.org/wiki/Spirits!! "wikilink")』、『[DREAM BOYS](../Page/DREAM_BOY.md "wikilink")』（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")と共演）に続き、4作連続でオリコン音楽DVD1位を獲得した。
 
 ## 収録内容
 
@@ -30,10 +30,10 @@
             作詞：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")　作曲：森元康介
 
             </div>
-    3.  **[浪花いろは節](https://ja.wikipedia.org/wiki/浪花いろは節 "wikilink")**
+    3.  **[浪花いろは節](../Page/浪花いろは節.md "wikilink")**
     4.  **[ミセテクレ](../Page/KJ1_F・T・O.md "wikilink")**
 4.  **[Heat is on](../Page/KJ1_F・T・O.md "wikilink")**
-5.  **[Carnival](../Page/KJ1_F・T・O.md "wikilink")** - [丸山隆平](https://ja.wikipedia.org/wiki/丸山隆平 "wikilink")・[大倉忠義](https://ja.wikipedia.org/wiki/大倉忠義 "wikilink")
+5.  **[Carnival](../Page/KJ1_F・T・O.md "wikilink")** - [丸山隆平](../Page/丸山隆平.md "wikilink")・[大倉忠義](../Page/大倉忠義.md "wikilink")
 6.  **群青涙** - [渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")
       -
 
@@ -42,8 +42,8 @@
         作詞：[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")　作曲：[陶山隼](https://ja.wikipedia.org/wiki/陶山隼 "wikilink")
 
         </div>
-7.  **[果テナキ空](../Page/KJ1_F・T・O.md "wikilink")** - [安田章大](https://ja.wikipedia.org/wiki/安田章大 "wikilink")・[錦戸亮](../Page/錦戸亮.md "wikilink")
-8.  The Detective - [村上信五](https://ja.wikipedia.org/wiki/村上信五 "wikilink")
+7.  **[果テナキ空](../Page/KJ1_F・T・O.md "wikilink")** - [安田章大](../Page/安田章大.md "wikilink")・[錦戸亮](../Page/錦戸亮.md "wikilink")
+8.  The Detective - [村上信五](../Page/村上信五.md "wikilink")
 9.  [エイトレンジャー](../Page/関ジャニ戦隊∞レンジャー.md "wikilink")
     1.  OVERTURE
     2.  **[∞レンジャー](https://ja.wikipedia.org/wiki/ER_\(関ジャニ∞の曲\) "wikilink")**
@@ -66,7 +66,7 @@
         作詞・作曲：飯岡隆志
 
         </div>
-12. **Knockin' Trackin**' - [横山裕](https://ja.wikipedia.org/wiki/横山裕 "wikilink")・村上信五・丸山隆平・安田章大
+12. **Knockin' Trackin**' - [横山裕](../Page/横山裕.md "wikilink")・村上信五・丸山隆平・安田章大
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -74,12 +74,12 @@
         作詞：相田毅　作曲：谷本新
 
         </div>
-13. **[Cool magic city](https://ja.wikipedia.org/wiki/浪花いろは節 "wikilink")**
+13. **[Cool magic city](../Page/浪花いろは節.md "wikilink")**
 14. **[∞SAKAおばちゃんROCK](https://ja.wikipedia.org/wiki/∞SAKAおばちゃんROCK/大阪ロマネスク "wikilink")**
 15. **[オニギシ](../Page/KJ1_F・T・O.md "wikilink")** - [三兄弟](https://ja.wikipedia.org/wiki/関ジャニ∞#グループ内のユニット "wikilink")
 16. **[F・T・O](../Page/KJ1_F・T・O.md "wikilink")**
 17. **[悲しい恋](../Page/KJ1_F・T・O.md "wikilink")**
-18. **[大阪レイニーブルース](https://ja.wikipedia.org/wiki/大阪レイニーブルース "wikilink")**
+18. **[大阪レイニーブルース](../Page/大阪レイニーブルース.md "wikilink")**
 19. **[Eden](../Page/感謝＝∞.md "wikilink")**
 20. **[無限大](https://ja.wikipedia.org/wiki/好きやねん、大阪。/桜援歌\(Oh!ENKA\)/無限大 "wikilink")**
 21. **レース** - 錦戸亮

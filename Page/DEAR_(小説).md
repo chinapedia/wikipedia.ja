@@ -1,7 +1,7 @@
 > この記事は[DEAR \(\)](https://ja.wikipedia.org/wiki/DEAR_\(\))から翻訳されています。
 
 
-『**DEAR**』（ディア）は、[新井輝](https://ja.wikipedia.org/wiki/新井輝 "wikilink")/著、[久瀬たかし](https://ja.wikipedia.org/wiki/久瀬たかし "wikilink")/イラストによる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。2001年3月より発刊中。[富士見ミステリー文庫](https://ja.wikipedia.org/wiki/富士見ミステリー文庫 "wikilink")刊。短編集においては[季遊月あすか](../Page/きゆづきさとこ.md "wikilink")/本文イラスト、[朝倉哲也](https://ja.wikipedia.org/wiki/朝倉哲也 "wikilink")/口絵デザイン。 本編の各巻タイトルに曜日名がつけられていることから、**曜日シリーズ**とも呼ばれる。木曜のあとがきによれば、ゲームを意識して書かれた作品とのことで、繰り返される一日と、そのたびに選択肢が変更されていくという手法はまさしく[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")のようである。
+『**DEAR**』（ディア）は、[新井輝](../Page/新井輝.md "wikilink")/著、[久瀬たかし](https://ja.wikipedia.org/wiki/久瀬たかし "wikilink")/イラストによる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。2001年3月より発刊中。[富士見ミステリー文庫](../Page/富士見ミステリー文庫.md "wikilink")刊。短編集においては[季遊月あすか](../Page/きゆづきさとこ.md "wikilink")/本文イラスト、[朝倉哲也](https://ja.wikipedia.org/wiki/朝倉哲也 "wikilink")/口絵デザイン。 本編の各巻タイトルに曜日名がつけられていることから、**曜日シリーズ**とも呼ばれる。木曜のあとがきによれば、ゲームを意識して書かれた作品とのことで、繰り返される一日と、そのたびに選択肢が変更されていくという手法はまさしく[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")のようである。
 
 ## 概要
 
@@ -82,7 +82,7 @@
 
 ## 既刊一覧
 
-[新井輝](https://ja.wikipedia.org/wiki/新井輝 "wikilink")（著）、[富士見書房](../Page/富士見書房.md "wikilink")〈[富士見ミステリー文庫](https://ja.wikipedia.org/wiki/富士見ミステリー文庫 "wikilink")〉、全5冊
+[新井輝](../Page/新井輝.md "wikilink")（著）、[富士見書房](../Page/富士見書房.md "wikilink")〈[富士見ミステリー文庫](../Page/富士見ミステリー文庫.md "wikilink")〉、全5冊
 
   - 『DEAR 少女がくれた木曜日』、2001年3月23日発売\[1\]、ISBN 4-8291-6116-7-C0193
   - 『DEAR2 あの娘を信じる金曜日』、2001年9月25日発売\[2\]、ISBN 4-8291-6137-X-C0193

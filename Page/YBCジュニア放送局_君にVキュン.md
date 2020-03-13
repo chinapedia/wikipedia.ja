@@ -1,11 +1,11 @@
 > この記事は[YBC V](https://ja.wikipedia.org/wiki/YBC_V)から翻訳されています。
 
 
-『**YBCジュニア放送局 君にVキュン**』（ワイビーシージュニアほうそうきょく きみにブイキュン）は、[山形放送](../Page/山形放送.md "wikilink")テレビでかつて放送されていた[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")内の小中学生をターゲットにしたローカル生[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送期間は[1984年](../Page/1984年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")で、放送時間は月曜 - 金曜 17:30 - 18:00（[JST](../Page/日本標準時.md "wikilink")）。
+『**YBCジュニア放送局 君にVキュン**』（ワイビーシージュニアほうそうきょく きみにブイキュン）は、[山形放送](../Page/山形放送.md "wikilink")テレビでかつて放送されていた[山形県](../Page/山形県.md "wikilink")内の小中学生をターゲットにしたローカル生[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送期間は[1984年](../Page/1984年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")で、放送時間は月曜 - 金曜 17:30 - 18:00（[JST](../Page/日本標準時.md "wikilink")）。
 
 ## 司会
 
-  - [芳賀道也](https://ja.wikipedia.org/wiki/芳賀道也 "wikilink")（当時山形放送アナウンサー）
+  - [芳賀道也](../Page/芳賀道也.md "wikilink")（当時山形放送アナウンサー）
   - [小国みゆき](https://ja.wikipedia.org/wiki/小国みゆき "wikilink")（当時山形放送アナウンサー）
 
 ## 概要
@@ -19,14 +19,14 @@
 
 ※以上のコーナーについては、番組MCの芳賀と小国が体験リポートをするという内容であった。
 
-  - ワールド・クイズ（現在の『[ピヨ卵ワイド](https://ja.wikipedia.org/wiki/ピヨ卵ワイド "wikilink")』でいう「1万円クイズ」「クイズ5555」的なコーナー。）
+  - ワールド・クイズ（現在の『[ピヨ卵ワイド](../Page/ピヨ卵ワイド.md "wikilink")』でいう「1万円クイズ」「クイズ5555」的なコーナー。）
 
 ほか。
 
 ## 「君に、Vキュン」のポーズ
 
   - 「君に」…人差し指を指す。
-  - 「V」…[ピースサイン](https://ja.wikipedia.org/wiki/ピースサイン "wikilink")（[Vサイン](../Page/Vサイン.md "wikilink")）をつくる。
+  - 「V」…[ピースサイン](../Page/ピースサイン.md "wikilink")（[Vサイン](../Page/Vサイン.md "wikilink")）をつくる。
   - 「キュン」…上のサインを反転させる。
 
 ※番組に出演した小中学生は、決まってこのポーズをさせられた。番組MCの芳賀と小国もしていた。

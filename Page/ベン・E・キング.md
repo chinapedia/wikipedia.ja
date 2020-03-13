@@ -1,17 +1,17 @@
 > この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Ben_E._King2.jpg "wikilink") **ベン・E・キング**（**Benjamin Earl King**、本名Benjamin Earl Nelson、[1938年](../Page/1938年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - [2015年](../Page/2015年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ソウル歌手](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")。「[スタンド・バイ・ミー](https://ja.wikipedia.org/wiki/スタンド・バイ・ミー_\(ベン・E・キングの曲\) "wikilink")」のヒットで知られる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Ben_E._King2.jpg "wikilink") **ベン・E・キング**（**Benjamin Earl King**、本名Benjamin Earl Nelson、[1938年](../Page/1938年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - [2015年](../Page/2015年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ソウル歌手](../Page/ソウルミュージック.md "wikilink")。「[スタンド・バイ・ミー](https://ja.wikipedia.org/wiki/スタンド・バイ・ミー_\(ベン・E・キングの曲\) "wikilink")」のヒットで知られる。
 
 ## 略歴
 
 [ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")生まれ。[1958年](../Page/1958年.md "wikilink")にリードシンガーとして[ドリフターズに加入](../Page/ドリフターズ_\(アメリカ\).md "wikilink")。「ダンス・ウィズ・ミー」、「[ラストダンスは私に](https://ja.wikipedia.org/wiki/ラストダンスは私に "wikilink")」などの数々のヒットを放つ。
 
-[1960年](../Page/1960年.md "wikilink")にドリフターズを脱退しソロ歌手に転向。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に「スタンド・バイ・ミー」の大ヒットを放った。この曲はスタンダードナンバーとして[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")をはじめ多くの歌手にカバーされている。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には映画「[スタンド・バイ・ミー](https://ja.wikipedia.org/wiki/スタンド・バイ・ミー "wikilink")」の主題歌に起用されてリバイバルヒットした。
+[1960年](../Page/1960年.md "wikilink")にドリフターズを脱退しソロ歌手に転向。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に「スタンド・バイ・ミー」の大ヒットを放った。この曲はスタンダードナンバーとして[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")をはじめ多くの歌手にカバーされている。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には映画「[スタンド・バイ・ミー](../Page/スタンド・バイ・ミー.md "wikilink")」の主題歌に起用されてリバイバルヒットした。
 
 ベン・E・キング・スタンド・バイ・ミー財団を設立し、慈善活動を行っていた。
 
-2015年4月30日、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[ハッケンサックのハッケンサック大学メディカル](https://ja.wikipedia.org/wiki/ハッケンサック_\(ニュージャージー州\) "wikilink")・センター（[Hackensack University Medical Center](https://ja.wikipedia.org/wiki/:en:Hackensack_University_Medical_Center "wikilink")）で死去\[1\]\[2\]。76歳没。「[冠動脈](https://ja.wikipedia.org/wiki/冠動脈 "wikilink")に問題があった」とキングの代理人は述べたが詳しい死因には言及していない\[3\]。[ローリング・ストーン](https://ja.wikipedia.org/wiki/ローリング・ストーン "wikilink")誌、[デイリー・メール](https://ja.wikipedia.org/wiki/デイリー・メール "wikilink")、[デイリー・テレグラフ](https://ja.wikipedia.org/wiki/デイリー・テレグラフ "wikilink")は自然死と報じている\[4\]\[5\]\[6\]。
+2015年4月30日、[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")[ハッケンサックのハッケンサック大学メディカル](https://ja.wikipedia.org/wiki/ハッケンサック_\(ニュージャージー州\) "wikilink")・センター（[Hackensack University Medical Center](https://ja.wikipedia.org/wiki/:en:Hackensack_University_Medical_Center "wikilink")）で死去\[1\]\[2\]。76歳没。「[冠動脈](../Page/冠動脈.md "wikilink")に問題があった」とキングの代理人は述べたが詳しい死因には言及していない\[3\]。[ローリング・ストーン](../Page/ローリング・ストーン.md "wikilink")誌、[デイリー・メール](../Page/デイリー・メール.md "wikilink")、[デイリー・テレグラフ](../Page/デイリー・テレグラフ.md "wikilink")は自然死と報じている\[4\]\[5\]\[6\]。
 
 ## ディスコグラフィ
 

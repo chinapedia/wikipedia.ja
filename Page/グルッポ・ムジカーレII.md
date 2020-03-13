@@ -1,11 +1,11 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**グルッポ・ムジカーレII**（**Gruppo Musicale II**）は、[1993年](../Page/1993年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に発売された[坂本龍一](../Page/坂本龍一.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。
+**グルッポ・ムジカーレII**（**Gruppo Musicale II**）は、[1993年](../Page/1993年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に発売された[坂本龍一](../Page/坂本龍一.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。
 
 ## 概要
 
-アルバム『[B-2ユニット](https://ja.wikipedia.org/wiki/B-2ユニット "wikilink")』から『[ハートビート](https://ja.wikipedia.org/wiki/ハートビート_\(坂本龍一のアルバム\) "wikilink")』までの曲を収録。選曲は坂本自身が行っている。
+アルバム『[B-2ユニット](../Page/B-2ユニット.md "wikilink")』から『[ハートビート](../Page/ハートビート_\(坂本龍一のアルバム\).md "wikilink")』までの曲を収録。選曲は坂本自身が行っている。
 
 ## 収録曲
 
@@ -18,12 +18,12 @@
       - 作詞：[アート・リンゼイ](../Page/アート・リンゼイ.md "wikilink") / 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[ビューティ](https://ja.wikipedia.org/wiki/ビューティ "wikilink")』収録。
+        アルバム『[ビューティ](../Page/ビューティ.md "wikilink")』収録。
 3.  **Okinawa Song Chin Nuku Jnushii**
       - 詞：[朝比呂志](https://ja.wikipedia.org/wiki/朝比呂志 "wikilink") / 作曲：[三田信一](https://ja.wikipedia.org/wiki/三田信一 "wikilink")
     <!-- end list -->
       -
-        アルバム『[ネオ・ジオ](https://ja.wikipedia.org/wiki/ネオ・ジオ "wikilink")』収録。
+        アルバム『[ネオ・ジオ](../Page/ネオ・ジオ.md "wikilink")』収録。
 4.  **Risky**
       - 作詞：[イギー・ポップ](../Page/イギー・ポップ.md "wikilink") / 作曲：イギー・ポップ、坂本龍一、[ビル・ラズウェル](https://ja.wikipedia.org/wiki/ビル・ラズウェル "wikilink")
     <!-- end list -->
@@ -48,22 +48,22 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[エスペラント](https://ja.wikipedia.org/wiki/エスペラント_\(アルバム\) "wikilink")』収録。
-9.  **[Field Work](https://ja.wikipedia.org/wiki/フィールドワーク_\(曲\) "wikilink")**
+        アルバム『[エスペラント](../Page/エスペラント_\(アルバム\).md "wikilink")』収録。
+9.  **[Field Work](../Page/フィールドワーク_\(曲\).md "wikilink")**
       - 作曲：坂本龍一 / 作詞：坂本龍一、[トーマス・ドルビー](../Page/トーマス・ドルビー.md "wikilink")
     <!-- end list -->
       -
-        シングル『[フィールドワーク](https://ja.wikipedia.org/wiki/フィールドワーク_\(曲\) "wikilink")』収録。
+        シングル『[フィールドワーク](../Page/フィールドワーク_\(曲\).md "wikilink")』収録。
 10. **Tibetan Dance**
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[音楽図鑑](https://ja.wikipedia.org/wiki/音楽図鑑 "wikilink")』収録。
+        アルバム『[音楽図鑑](../Page/音楽図鑑.md "wikilink")』収録。
 11. **Merry Christmas Mr. Lawrence**
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[コーダ](https://ja.wikipedia.org/wiki/コーダ_\(坂本龍一のアルバム\) "wikilink")』収録。
+        アルバム『[コーダ](../Page/コーダ_\(坂本龍一のアルバム\).md "wikilink")』収録。
 12. **Father Christmas**
       - 作曲：坂本龍一
     <!-- end list -->
@@ -78,7 +78,7 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        アルバム『[B-2ユニット](https://ja.wikipedia.org/wiki/B-2ユニット "wikilink")』収録。
+        アルバム『[B-2ユニット](../Page/B-2ユニット.md "wikilink")』収録。
 
 ## 関連項目
 

@@ -1,7 +1,7 @@
 > この記事は[OAB](https://ja.wikipedia.org/wiki/OAB)から翻訳されています。
 
 
-『**OABプライムニュース**』（オーエービープライムニュース）は、[1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[大分朝日放送](../Page/大分朝日放送.md "wikilink")で[平日](https://ja.wikipedia.org/wiki/平日 "wikilink")[夕](../Page/夕.md "wikilink")方に放送されていた[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")発『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』→『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[大分県](../Page/大分県.md "wikilink")ローカルパート扱い）。
+『**OABプライムニュース**』（オーエービープライムニュース）は、[1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[大分朝日放送](../Page/大分朝日放送.md "wikilink")で[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方に放送されていた[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")発『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』→『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[大分県](../Page/大分県.md "wikilink")ローカルパート扱い）。
 
 ## 概要
 
@@ -18,7 +18,7 @@
   - [鈴木麻里](https://ja.wikipedia.org/wiki/鈴木麻里 "wikilink")
   - [天本圭子](https://ja.wikipedia.org/wiki/天本圭子 "wikilink")
   - [楠元正孝](../Page/楠元正孝.md "wikilink")
-  - [中嶋美和子](https://ja.wikipedia.org/wiki/中嶋美和子 "wikilink")
+  - [中嶋美和子](../Page/中嶋美和子.md "wikilink")
 
 ## 放送時間
 
@@ -30,7 +30,7 @@
   - [ステーションEYE](../Page/ステーションEYE.md "wikilink")
   - [スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")
   - [ほっと540九州沖縄](../Page/ほっと540九州沖縄.md "wikilink")
-  - [スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄 "wikilink")
+  - [スーパーJチャンネル九州・沖縄](../Page/スーパーJチャンネル九州・沖縄.md "wikilink")
   - [スーパーJチャンネルおおいた](../Page/スーパーJチャンネルおおいた.md "wikilink") - 後番組。
 
 [Category:1993年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のテレビ番組_\(日本\) "wikilink") [Category:大分朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:大分朝日放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:ステーションEYE](https://ja.wikipedia.org/wiki/Category:ステーションEYE "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

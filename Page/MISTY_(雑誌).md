@@ -1,7 +1,7 @@
 > この記事は[MISTY \(\)](https://ja.wikipedia.org/wiki/MISTY_\(\))から翻訳されています。
 
 
-『**MISTY**』（ミスティ）は、1980年から2011年まで[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")より毎月17日に発売されていた[占い](../Page/占い.md "wikilink")専門の雑誌。編集は[説話社](https://ja.wikipedia.org/wiki/説話社 "wikilink")。同社の『[My Birthday](../Page/My_Birthday.md "wikilink")』と比べ対象年齢が高く、本格的な[占い](../Page/占い.md "wikilink")の記事が多かった。
+『**MISTY**』（ミスティ）は、1980年から2011年まで[実業之日本社](../Page/実業之日本社.md "wikilink")より毎月17日に発売されていた[占い](../Page/占い.md "wikilink")専門の雑誌。編集は[説話社](https://ja.wikipedia.org/wiki/説話社 "wikilink")。同社の『[My Birthday](../Page/My_Birthday.md "wikilink")』と比べ対象年齢が高く、本格的な[占い](../Page/占い.md "wikilink")の記事が多かった。
 
 My Birthday増刊号として1980年にスタート。「MISTY」と名前を変え隔月に刊行。後、月刊化し、2006年の「My Birthday」休刊後も継続された。
 
@@ -35,7 +35,7 @@ My Birthday増刊号として1980年にスタート。「MISTY」と名前を変
   - Dream Culture\!　ココロをリッチに\! - 今月のBrilliantという形で毎月ゲストが変わる。
   - フォーチュン★トラベルin asia（[伊泉龍一](https://ja.wikipedia.org/wiki/伊泉龍一 "wikilink")）
   - ココロとカラダに効くおとりよせ（[海原純子](https://ja.wikipedia.org/wiki/海原純子 "wikilink")）（2006年9月号～）
-  - 幸せのアンテナ（[角田光代](https://ja.wikipedia.org/wiki/角田光代 "wikilink")×[鏡リュウジ](../Page/鏡リュウジ.md "wikilink")）（2006年9月号～）
+  - 幸せのアンテナ（[角田光代](../Page/角田光代.md "wikilink")×[鏡リュウジ](../Page/鏡リュウジ.md "wikilink")）（2006年9月号～）
   - ルネの魔女ガール入門（[ルネ・ヴァン・ダール・ワタナベ](https://ja.wikipedia.org/wiki/ルネ・ヴァン・ダール・ワタナベ "wikilink")）
   - 姫乃宮亜美の優しい光のマザーズタッチ（[姫乃宮亜美](https://ja.wikipedia.org/wiki/姫乃宮亜美 "wikilink")）
   - 鏡リュウジの魔法図書館（[鏡リュウジ](../Page/鏡リュウジ.md "wikilink")）

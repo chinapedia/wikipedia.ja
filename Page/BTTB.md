@@ -6,11 +6,11 @@
 ## 解説
 
   - 坂本自身初の全曲書き下ろしによるピアノアルバム。
-  - [ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")移籍第一弾のアルバムでもあった。
+  - [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")移籍第一弾のアルバムでもあった。
   - 坂本が影響を受けた[モーリス・ラヴェル](../Page/モーリス・ラヴェル.md "wikilink")や[エリック・サティ](../Page/エリック・サティ.md "wikilink")の雰囲気がアルバム全体に出ている。
-  - 準備に6週間、曲を書き始めてから4週間で完成させた。坂本は「短期間だったが『[エスペラント](https://ja.wikipedia.org/wiki/エスペラント_\(アルバム\) "wikilink")』や『[音楽図鑑](https://ja.wikipedia.org/wiki/音楽図鑑 "wikilink")』以来の充実感があったと後日語っている。
+  - 準備に6週間、曲を書き始めてから4週間で完成させた。坂本は「短期間だったが『[エスペラント](../Page/エスペラント_\(アルバム\).md "wikilink")』や『[音楽図鑑](../Page/音楽図鑑.md "wikilink")』以来の充実感があったと後日語っている。
   - 翌[1999年](../Page/1999年.md "wikilink")に行われたオペラ「[LIFE a ryuichi sakamoto opera 1999](../Page/LIFE_a_ryuichi_sakamoto_opera_1999.md "wikilink")」の準備でもあった。
-  - タイトルは「**B**ack **T**o **T**he **B**asic」（原点回帰）の略で、[YMOや坂本のソロアルバム](../Page/イエロー・マジック・オーケストラ.md "wikilink")『[千のナイフ](https://ja.wikipedia.org/wiki/千のナイフ "wikilink")』以前に立ち返るという意味であった\[1\]。タイトルのもう一つの案として「**B**ack」と「**B**asic」を意味する「2B」が考えられた。
+  - タイトルは「**B**ack **T**o **T**he **B**asic」（原点回帰）の略で、[YMOや坂本のソロアルバム](../Page/イエロー・マジック・オーケストラ.md "wikilink")『[千のナイフ](../Page/千のナイフ.md "wikilink")』以前に立ち返るという意味であった\[1\]。タイトルのもう一つの案として「**B**ack」と「**B**asic」を意味する「2B」が考えられた。
   - [1999年](../Page/1999年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")には、このアルバムとマキシシングル『[ウラBTTB](../Page/ウラBTTB.md "wikilink")』に収録された楽曲の譜面「all about BTTB」が坂本監修によりヤマハミュージックメディアから発売された。
 
 ### 発売形態
@@ -35,12 +35,12 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        [ラヴェルが](../Page/モーリス・ラヴェル.md "wikilink")「[ソナチネ](https://ja.wikipedia.org/wiki/ソナチネ "wikilink")」を作った気持ちのように作った曲。途中、[和音](../Page/和音.md "wikilink")と[メロディ](../Page/メロディ.md "wikilink")がぶつかるところでサティ的に聞こえる部分があるが、坂本がミスタッチしたものが、そのまま使われている。アルバムの中でもっともスピードがあり、最後は華やかな終わり方をする。
+        [ラヴェルが](../Page/モーリス・ラヴェル.md "wikilink")「[ソナチネ](../Page/ソナチネ.md "wikilink")」を作った気持ちのように作った曲。途中、[和音](../Page/和音.md "wikilink")と[メロディ](../Page/メロディ.md "wikilink")がぶつかるところでサティ的に聞こえる部分があるが、坂本がミスタッチしたものが、そのまま使われている。アルバムの中でもっともスピードがあり、最後は華やかな終わり方をする。
 3.  **Intermezzo**
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        [ブラームスの](../Page/ヨハネス・ブラームス.md "wikilink")「[インテルメッツォ](../Page/間奏曲.md "wikilink")」をイメージさせる[ロマン派風の曲](../Page/ロマン派音楽.md "wikilink")。ブラームスを真似たわけではなく、雰囲気を似せている。坂本が子供の頃から好きだったブラームスの曲に影響されているとコメントしている\[2\]。中間部の[アルペジオは単なるアルペジオではなく](https://ja.wikipedia.org/wiki/アルペッジョ "wikilink")、その中に[メロディ](../Page/メロディ.md "wikilink")を形成する音を隠すという工夫がされている。[TBS](../Page/TBSテレビ.md "wikilink")「[筑紫哲也 News23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")」にて演奏されたことがある。
+        [ブラームスの](../Page/ヨハネス・ブラームス.md "wikilink")「[インテルメッツォ](../Page/間奏曲.md "wikilink")」をイメージさせる[ロマン派風の曲](../Page/ロマン派音楽.md "wikilink")。ブラームスを真似たわけではなく、雰囲気を似せている。坂本が子供の頃から好きだったブラームスの曲に影響されているとコメントしている\[2\]。中間部の[アルペジオは単なるアルペジオではなく](../Page/アルペッジョ.md "wikilink")、その中に[メロディ](../Page/メロディ.md "wikilink")を形成する音を隠すという工夫がされている。[TBS](../Page/TBSテレビ.md "wikilink")「[筑紫哲也 News23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")」にて演奏されたことがある。
 4.  **Lorenz and Watson**
       - 作曲：坂本龍一
     <!-- end list -->
@@ -55,12 +55,12 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        「Choral No.1」と同じく、オペラの練習のために作った曲。[バッハの](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink")「[マタイ受難曲](https://ja.wikipedia.org/wiki/マタイ受難曲 "wikilink")」のような曲を作りたかったが、結局さらに中世の感じになったとのこと。[フーガ](https://ja.wikipedia.org/wiki/フーガ "wikilink")（[カノン](../Page/カノン.md "wikilink")）になっている。
+        「Choral No.1」と同じく、オペラの練習のために作った曲。[バッハの](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink")「[マタイ受難曲](../Page/マタイ受難曲.md "wikilink")」のような曲を作りたかったが、結局さらに中世の感じになったとのこと。[フーガ](../Page/フーガ.md "wikilink")（[カノン](../Page/カノン.md "wikilink")）になっている。
 7.  **Do Bacteria Sleep?**
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        [モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")の楽器「[口琴](https://ja.wikipedia.org/wiki/口琴 "wikilink")（こうきん）」を使った曲。[青山のスパイラル](https://ja.wikipedia.org/wiki/青山_\(東京都港区\) "wikilink")・カフェで自身が購入したもの。坂本自身は[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")の印象を持っている。
+        [モンゴル](https://ja.wikipedia.org/wiki/モンゴル "wikilink")の楽器「[口琴](../Page/口琴.md "wikilink")（こうきん）」を使った曲。[青山のスパイラル](../Page/青山_\(東京都港区\).md "wikilink")・カフェで自身が購入したもの。坂本自身は[フィリップ・K・ディック](../Page/フィリップ・K・ディック.md "wikilink")の印象を持っている。
 8.  **Bachata**
       - 作曲：坂本龍一
     <!-- end list -->
@@ -75,7 +75,7 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        坂本風「[環境音楽](https://ja.wikipedia.org/wiki/環境音楽 "wikilink")」。本人は「ピアノの音色そのもの」を楽しんでほしいと思っている。
+        坂本風「[環境音楽](../Page/環境音楽.md "wikilink")」。本人は「ピアノの音色そのもの」を楽しんでほしいと思っている。
 11. **Prelude**
       - 作曲：坂本龍一
     <!-- end list -->
@@ -105,7 +105,7 @@
       - 作曲：坂本龍一
     <!-- end list -->
       -
-        通常版のボーナストラック。このアルバム唯一の[連弾](../Page/連弾.md "wikilink")。初出はYMOのアルバム『[イエロー・マジック・オーケストラ](https://ja.wikipedia.org/wiki/イエロー・マジック・オーケストラ_\(アルバム\) "wikilink")』。同曲が坂本のオリジナルアルバムに収録されるのは初のことだった。今回の録音では譜面を起こさず、最初に下のパートをコンピュータに記憶させ、それを再生させて上のパートを演奏した（坂本いわく「一人連弾」）。
+        通常版のボーナストラック。このアルバム唯一の[連弾](../Page/連弾.md "wikilink")。初出はYMOのアルバム『[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ_\(アルバム\).md "wikilink")』。同曲が坂本のオリジナルアルバムに収録されるのは初のことだった。今回の録音では譜面を起こさず、最初に下のパートをコンピュータに記憶させ、それを再生させて上のパートを演奏した（坂本いわく「一人連弾」）。
 
 ### インターナショナル盤
 
@@ -140,5 +140,5 @@
 
 [Category:坂本龍一のアルバム](https://ja.wikipedia.org/wiki/Category:坂本龍一のアルバム "wikilink") [Category:1998年のアルバム](https://ja.wikipedia.org/wiki/Category:1998年のアルバム "wikilink")
 
-1.  [2009年](../Page/2009年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")放送[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")「音楽の美術館・サウンドミュージアム」より
+1.  [2009年](../Page/2009年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")放送[NHK-FM](../Page/NHK-FM放送.md "wikilink")「音楽の美術館・サウンドミュージアム」より
 2.  アルバム『[US](../Page/US_\(坂本龍一のアルバム\).md "wikilink")』より。

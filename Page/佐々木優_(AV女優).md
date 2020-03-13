@@ -3,7 +3,7 @@
 
 **佐々木 優**（ささき ゆう、[1974年](../Page/1974年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。
 
-[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。身長：155cm 、[スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink")：B92・W60・H85。
+[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。身長：155cm 、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B92・W60・H85。
 
 ## 経歴
 
@@ -44,7 +44,7 @@
 
 ### 映画
 
-  - [オールナイトロング3 最終章](https://ja.wikipedia.org/wiki/オールナイトロング3_最終章 "wikilink")（1996年）
+  - [オールナイトロング3 最終章](../Page/オールナイトロング3_最終章.md "wikilink")（1996年）
   - 女囚折檻－いたぶる－（1998年、新日本映像）
 
 [Category:日本のAV女優](https://ja.wikipedia.org/wiki/Category:日本のAV女優 "wikilink") [Category:KUKI女優](https://ja.wikipedia.org/wiki/Category:KUKI女優 "wikilink") [Category:笠倉出版社女優](https://ja.wikipedia.org/wiki/Category:笠倉出版社女優 "wikilink") [Category:h.m.p女優](https://ja.wikipedia.org/wiki/Category:h.m.p女優 "wikilink") [Category:シネマジック女優](https://ja.wikipedia.org/wiki/Category:シネマジック女優 "wikilink") [Category:V\&R女優](https://ja.wikipedia.org/wiki/Category:V&R女優 "wikilink") [Category:エッチアールシー女優](https://ja.wikipedia.org/wiki/Category:エッチアールシー女優 "wikilink") [Category:シャイ企画女優](https://ja.wikipedia.org/wiki/Category:シャイ企画女優 "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

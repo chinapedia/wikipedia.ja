@@ -5,9 +5,9 @@
 
 ## 特徴
 
-三洋電機2機種目の[CDMA 1X WIN端末である](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")。CDMA 1X WIN端末としては珍しく、外部メモリースロットが搭載されず、代わりに発売当時としては最大級の40[MBもの内蔵メモリを搭載していた](https://ja.wikipedia.org/wiki/メガバイト "wikilink")。（このため、2004年当時のEZ「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」対応機種の中では唯一外部メモリ（セキュア）に対応していない。）
+三洋電機2機種目の[CDMA 1X WIN端末である](../Page/CDMA_1X_WIN.md "wikilink")。CDMA 1X WIN端末としては珍しく、外部メモリースロットが搭載されず、代わりに発売当時としては最大級の40[MBもの内蔵メモリを搭載していた](../Page/メガバイト.md "wikilink")。（このため、2004年当時のEZ「[着うたフル](../Page/着うたフル.md "wikilink")」対応機種の中では唯一外部メモリ（セキュア）に対応していない。）
 
-背面に1.5インチの大きな液晶画面を搭載していることも大きな特徴の一つである。これにより、画面下や側面のボタン操作によって、閉じたままでも簡単な操作はほとんど可能になっている。前機種の[W21SA](https://ja.wikipedia.org/wiki/W21SA "wikilink")から引き続き[EZ・FM](../Page/EZ・FM.md "wikilink")に対応する（W21SAと同様、聴取には付属のステレオイヤホンケーブルを挿入する必要がある）。
+背面に1.5インチの大きな液晶画面を搭載していることも大きな特徴の一つである。これにより、画面下や側面のボタン操作によって、閉じたままでも簡単な操作はほとんど可能になっている。前機種の[W21SA](../Page/W21SA.md "wikilink")から引き続き[EZ・FM](../Page/EZ・FM.md "wikilink")に対応する（W21SAと同様、聴取には付属のステレオイヤホンケーブルを挿入する必要がある）。
 
 ## 不具合
 
@@ -15,11 +15,11 @@
 
 ## 対応サービス・機能
 
-  - EZ「[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")」- プリセットコンテンツとして[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")「[花](../Page/花_\(ORANGE_RANGEの曲\).md "wikilink")（short size）」が搭載されている。
+  - EZ「[着うたフル](../Page/着うたフル.md "wikilink")」- プリセットコンテンツとして[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")「[花](../Page/花_\(ORANGE_RANGEの曲\).md "wikilink")（short size）」が搭載されている。
   - EZ「[着うた](../Page/着うた.md "wikilink")」
   - [EZ・FM](../Page/EZ・FM.md "wikilink")
   - EZナビウォーク
-  - [EZチャンネル](https://ja.wikipedia.org/wiki/EZチャンネル "wikilink")
+  - [EZチャンネル](../Page/EZチャンネル.md "wikilink")
   - 赤外線通信
   - ICレコーダー
   - カメラde辞書（[OCRによる文字読取機能](../Page/光学文字認識.md "wikilink")）
@@ -29,7 +29,7 @@
 
   - [三洋電機](../Page/三洋電機.md "wikilink")
   - [京セラ](../Page/京セラ.md "wikilink")
-  - [CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")
+  - [CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")
 
 ## 外部リンク
 

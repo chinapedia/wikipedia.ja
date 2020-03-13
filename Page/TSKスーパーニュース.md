@@ -32,10 +32,10 @@
   - [淵本麻祐子](https://ja.wikipedia.org/wiki/淵本麻祐子 "wikilink")
   - [枡田史子](../Page/枡田史子.md "wikilink")
   - [竹内駒英](https://ja.wikipedia.org/wiki/竹内駒英 "wikilink")
-  - [竹下佳奈](https://ja.wikipedia.org/wiki/竹下佳奈 "wikilink")
+  - [竹下佳奈](../Page/竹下佳奈.md "wikilink")
   - [岩田浩岳](../Page/岩田浩岳.md "wikilink")
   - [河野美知](../Page/河野美知.md "wikilink")
-  - [奥村亜希](https://ja.wikipedia.org/wiki/奥村亜希 "wikilink")
+  - [奥村亜希](../Page/奥村亜希.md "wikilink")
   - [松田朋子](https://ja.wikipedia.org/wiki/松田朋子_\(アナウンサー\) "wikilink")
   - [岡本敦](../Page/岡本敦.md "wikilink")
   - [若林理紗](https://ja.wikipedia.org/wiki/若林理紗 "wikilink")
@@ -103,11 +103,11 @@
 
 ## TSK歴代の夕方ニュース
 
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")開局 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[9月29日](../Page/9月29日.md "wikilink") 「TSKニュース」
+  - [1970年](../Page/1970年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")開局 - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[9月29日](../Page/9月29日.md "wikilink") 「TSKニュース」
   - 1978年[10月2日](../Page/10月2日.md "wikilink") - 1981年[4月3日](../Page/4月3日.md "wikilink") 「[TSKニュース6:45](../Page/TSKニュースレポート6:30.md "wikilink")」（平日）
   - [1981年](../Page/1981年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - 1984年[9月28日](../Page/9月28日.md "wikilink") 「[TSKニュースレポート6:30](../Page/TSKニュースレポート6:30.md "wikilink")」（平日）
-  - [1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [1988年](../Page/1988年.md "wikilink")3月31日 「[TSKイブニングワイド](https://ja.wikipedia.org/wiki/TSKイブニングワイド "wikilink")」（平日→平日・週末）
-  - 1988年4月1日 - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月30日 「[TSKスーパータイム](https://ja.wikipedia.org/wiki/TSKスーパータイム "wikilink")」
+  - [1984年](../Page/1984年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink") - [1988年](../Page/1988年.md "wikilink")3月31日 「[TSKイブニングワイド](../Page/TSKイブニングワイド.md "wikilink")」（平日→平日・週末）
+  - 1988年4月1日 - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月30日 「[TSKスーパータイム](../Page/TSKスーパータイム.md "wikilink")」
   - 1997年3月31日 - 1998年3月29日 「[TSKザ・ヒューマン](https://ja.wikipedia.org/wiki/TSKザ・ヒューマン "wikilink")」
   - 1998年3月30日 - 2013年3月29日 「TSKスーパーニュース FNN」（平日）
       - 1998年[4月4日](../Page/4月4日.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月30日 「TSKスーパーニュース FNN」（週末）

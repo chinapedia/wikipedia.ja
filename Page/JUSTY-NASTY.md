@@ -17,7 +17,7 @@
 
 2015年7月25日に渋谷チェルシーホテル公演「Original Justy-Nasty Live -4 FRENEMIES-」が行われ、アルバム『PLEASURE OF THE SLUTS』収録曲を中心に演奏\[5\]。メンバー書き下ろし新曲4曲を収録した6曲入りNEWミニアルバム『4 FRENEMIES』を会場発売\[6\]。2015年8月22日に大阪 心斎橋パラダイム\[7\]公演が行われた。
 
-2015年9月12日東京 [渋谷 TSUTAYA O-EASTで行われたDEAD](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink") END主催LIVE「四鬼夜行 - 六喰 -」に、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、[GARGOYLEと共に出演](https://ja.wikipedia.org/wiki/Gargoyle "wikilink")\[8\]。
+2015年9月12日東京 [渋谷 TSUTAYA O-EASTで行われたDEAD](../Page/Shibuya_O-EAST.md "wikilink") END主催LIVE「四鬼夜行 - 六喰 -」に、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END_\(バンド\) "wikilink")、[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")、[GARGOYLEと共に出演](../Page/Gargoyle.md "wikilink")\[8\]。
 
 2015年10月18日東京 池袋手刀(CHOP)で行われた大人世代のライブガイド「ライブイコーゼ」presents『Amplifier』vol.4に、vez（ヴェズ）と共に出演。
 
@@ -27,7 +27,7 @@
 
 2016年5月25日、TOUR 2016 -SHOT THE VANITY-ツアーファイナル4月3日[東京キネマ倶楽部](https://ja.wikipedia.org/wiki/東京キネマ倶楽部 "wikilink")でのライブをOFFICIAL BOOTLEG DVDとしてリリース。
 
-D'ERLANGER×Justy-Nasty、夏の京都 & 東京LIVE「The Time Machine Never Destroyed 2016」を、2016年8月7日京都FANJと2016年8月11日[渋谷duo MUSIC EXCHANGEの](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")2か所で行う\[17\]\[18\]\[19\]。
+D'ERLANGER×Justy-Nasty、夏の京都 & 東京LIVE「The Time Machine Never Destroyed 2016」を、2016年8月7日京都FANJと2016年8月11日[渋谷duo MUSIC EXCHANGEの](../Page/Shibuya_O-EAST.md "wikilink")2か所で行う\[17\]\[18\]\[19\]。
 
 2016年8月8日、EX-ANSにLEZYNA参加を発表\[20\]\[21\]。
 
@@ -41,11 +41,11 @@ D'ERLANGER×Justy-Nasty、夏の京都 & 東京LIVE「The Time Machine Never Des
 
 2017年7月26日、SHOWY（Vo）とRALF（Dr）が参加した電動マリオネット（DENDÖ MARIONETTE）がアルバム『輪廻電性』リリース。
 
-2017年7月29日に[Zirco TokyoにてJusty](https://ja.wikipedia.org/wiki/Zirco_Tokyo "wikilink")-Nasty 30th ANNIVERSARY SPECIAL LIVE “Reprises”を開催する。当日、会場で結成30年記念再録ベストアルバム先行発売。
+2017年7月29日に[Zirco TokyoにてJusty](../Page/Zirco_Tokyo.md "wikilink")-Nasty 30th ANNIVERSARY SPECIAL LIVE “Reprises”を開催する。当日、会場で結成30年記念再録ベストアルバム先行発売。
 
 2017年8月6日、TSUTAYA O-EASTで、D'ERLANGER×Justy-Nasty LIVE「The Time Machine Never Destroyed 2017」を行った\[22\]。また、2017年9月13日にリリースされるトリビュートアルバム『D'ERLANGER TRIBUTE ALBUM ～Stairway to Heaven～』（Warner Music Japan、WPCL-12767）に参加\[23\]\[24\]\[25\]。
 
-2018年5月6日、Respect up-beat core tour 2018 番外編 @[吉祥寺CLUB SEATAに](https://ja.wikipedia.org/wiki/吉祥寺CLUB_SEATA "wikilink")、LEZYNA（Gt）とRALF（Dr）が参加。
+2018年5月6日、Respect up-beat core tour 2018 番外編 @[吉祥寺CLUB SEATAに](../Page/吉祥寺CLUB_SEATA.md "wikilink")、LEZYNA（Gt）とRALF（Dr）が参加。
 
 2018年8月4日・5日・11日、[THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink")・Justy-Nasty・[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")による「The Time Machine Never Destroyed 2018」を東名阪で開催。
 
@@ -84,7 +84,7 @@ D'ERLANGER×Justy-Nasty、夏の京都 & 東京LIVE「The Time Machine Never Des
 <!-- end list -->
 
   -
-    ex.[Galla](https://ja.wikipedia.org/wiki/Galla "wikilink")、ex.MUFF、ex.KENICHI FUJISAKI AND SOLID HEARTSサポート、ex.6(six)サポート、ex.藤崎賢一ソロサポート
+    ex.[Galla](../Page/Galla.md "wikilink")、ex.MUFF、ex.KENICHI FUJISAKI AND SOLID HEARTSサポート、ex.6(six)サポート、ex.藤崎賢一ソロサポート
 
 ※大石尚徳（RALF）脱退後から1995年解散までドラムはサポート。結成から現在まで正式ドラムメンバーは大石ただ1人である。
 
@@ -1533,9 +1533,9 @@ CD（11曲）[LP収録分10曲+ボーナストラック1曲]<br />
 
 #### トリビュート参加
 
-| リリース       | タイトル                                              | 参加曲            | 規格 | レーベル                                                                           | 品番         | ギタリスト  |
-| ---------- | ------------------------------------------------- | -------------- | -- | ------------------------------------------------------------------------------ | ---------- | ------ |
-| 2017年9月13日 | **D'ERLANGER TRIBUTE ALBUM ～Stairway to Heaven～** | an aphrodisiac | CD | [Warner Music Japan](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink") | WPCL-12767 | LEZYNA |
+| リリース       | タイトル                                              | 参加曲            | 規格 | レーベル                                                        | 品番         | ギタリスト  |
+| ---------- | ------------------------------------------------- | -------------- | -- | ----------------------------------------------------------- | ---------- | ------ |
+| 2017年9月13日 | **D'ERLANGER TRIBUTE ALBUM ～Stairway to Heaven～** | an aphrodisiac | CD | [Warner Music Japan](../Page/ワーナーミュージック・ジャパン.md "wikilink") | WPCL-12767 | LEZYNA |
 
 ### デモ
 
@@ -2697,7 +2697,7 @@ Vo：ROD、G：LEZYNA、Ba：SHOWY、Dr：RALF<br />
 
 #### 写真集
 
-  - すべてをこの夜に （1990年12月　[音楽専科社](https://ja.wikipedia.org/wiki/音楽専科社 "wikilink")　ISBN 4900343153）
+  - すべてをこの夜に （1990年12月　[音楽専科社](../Page/音楽専科社.md "wikilink")　ISBN 4900343153）
       -
         [ロンドン](../Page/ロンドン.md "wikilink")と[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")で撮影。
   - Justy-Nasty Photo Book （2015年10月18日池袋、会場配布、BEATNIKS RECORDS STORES数量限定前売チケット購入者特典） - 非売品
@@ -2746,7 +2746,7 @@ Vo：ROD、G：LEZYNA、Ba：SHOWY、Dr：RALF<br />
 <td><p>ライブイベント</p></td>
 <td><p>KENICHI FUJISAKI 20th ANNIVERSARY LIVE<br />
 “明日も夢を”</p></td>
-<td><p>2009年6月25日 <a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">渋谷O-CREST</a><br />
+<td><p>2009年6月25日 <a href="../Page/Shibuya_O-EAST.md" title="wikilink">渋谷O-CREST</a><br />
 （藤崎賢一デビュー20周年記念ライブイベント。G.A.N.G.、bluevox、藤崎賢一ソロバンド、6(six)、JUSTY-NASTYが出演。RALFは不参加、ロッキーがサポート）</p></td>
 </tr>
 <tr class="odd">
@@ -2762,8 +2762,8 @@ New Mini Album「4 FRENEMIES」会場発売。</p></td>
 <tr class="even">
 <td><p>ライブイベント</p></td>
 <td><p>DEAD END主催LIVE「四鬼夜行-六喰-」</p></td>
-<td><p>2015年9月12日 渋谷<a href="https://ja.wikipedia.org/wiki/Shibuya_O-EAST" title="wikilink">TSUTAYA O-EAST</a><br />
-（対バン：<a href="https://ja.wikipedia.org/wiki/DEAD_END_(バンド)" title="wikilink">DEAD END</a>、<a href="../Page/D&#39;ERLANGER.md" title="wikilink">D'ERLANGER</a>、<a href="https://ja.wikipedia.org/wiki/Gargoyle" title="wikilink">GARGOYLE</a>）</p></td>
+<td><p>2015年9月12日 渋谷<a href="../Page/Shibuya_O-EAST.md" title="wikilink">TSUTAYA O-EAST</a><br />
+（対バン：<a href="https://ja.wikipedia.org/wiki/DEAD_END_(バンド)" title="wikilink">DEAD END</a>、<a href="../Page/D&#39;ERLANGER.md" title="wikilink">D'ERLANGER</a>、<a href="../Page/Gargoyle.md" title="wikilink">GARGOYLE</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2787,7 +2787,7 @@ New Mini Album「FAKE STAR」会場発売</p></td>
 <td><p>TOUR 2016 -SHOT THE VANITY-</p></td>
 <td><p>＜全5会場＞<br />
 2016年3月5日 <del><a href="../Page/難波ロケッツ.md" title="wikilink">大阪 ROCKETS</a></del>[30] → 大阪 ORTO LOUNGE[31]<br />
-2016年3月12日 <a href="https://ja.wikipedia.org/wiki/HeartLand_STUDIO" title="wikilink">名古屋 HEARTLAND STUDIO</a><br />
+2016年3月12日 <a href="../Page/HeartLand_STUDIO.md" title="wikilink">名古屋 HEARTLAND STUDIO</a><br />
 2016年3月19日 札幌 CRAZY MONKEY<br />
 2016年3月26日 小倉 FUSE<br />
 2016年4月3日 東京 <a href="https://ja.wikipedia.org/wiki/東京キネマ倶楽部" title="wikilink">キネマ倶楽部</a><br />
@@ -2949,10 +2949,10 @@ Justy-Nasty / THE SLUT BANKS / D’ERLANGER</p></td>
 
 ## ミュージックビデオ
 
-| 監督                                                  | 曲名                                                                       |
-| --------------------------------------------------- | ------------------------------------------------------------------------ |
-| [大根仁](https://ja.wikipedia.org/wiki/大根仁 "wikilink") | 「クールなハートは似合わない」（1993年）                                                   |
-| Azvsa chainsaw                                      | 「[Shot The Vanity](https://www.youtube.com/watch?v=YkaSilwXIRE) 」（2016年） |
+| 監督                               | 曲名                                                                       |
+| -------------------------------- | ------------------------------------------------------------------------ |
+| [大根仁](../Page/大根仁.md "wikilink") | 「クールなハートは似合わない」（1993年）                                                   |
+| Azvsa chainsaw                   | 「[Shot The Vanity](https://www.youtube.com/watch?v=YkaSilwXIRE) 」（2016年） |
 
 ## バンドスコア
 

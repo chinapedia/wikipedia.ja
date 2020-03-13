@@ -18,8 +18,8 @@
   - [2000年](../Page/2000年.md "wikilink")、[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")の[インペリアルレコードレーベルに所属し](../Page/インペリアルレコード_\(日本\).md "wikilink")、同年[5月24日](../Page/5月24日.md "wikilink")に[twinkee](https://ja.wikipedia.org/wiki/twinkee "wikilink")というユニット名でデビューシングル『紅い石』をリリースした\[1\]。9月にはセカンドシングル『弦と手』をリリースしている\[2\]。ハイスクールまでの[アメリカ生活での音楽環境](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、双子ならではのハーモニーと二人の独特な感性による世界観が合わさった独特のグループ感により、[R\&Bユニットとして一定の評価を得る](../Page/リズム・アンド・ブルース.md "wikilink")。
   - [2002年](../Page/2002年.md "wikilink")、Dolphin Heartsレーベルに移籍。同年1月からtwinkeeからS-Senceにユニット名を変更（初期はS-Senseとしていたがミニアルバム発売前にS-Senceになっている。）\[3\]する。同年9月にミニアルバム『Ring 4 Hope』をリリースした。twinkee時代よりクラブでのライブパフォーマンスを中心とした活動を行っていた\[4\]が、このRing 4 Hopeは[2001年](../Page/2001年.md "wikilink")よりS-Sence自身が企画していたクラブイベントの名称でもある\[5\]。
   - [2004年](../Page/2004年.md "wikilink")に[UAE](https://ja.wikipedia.org/wiki/UAE_\(音楽ソフト会社\) "wikilink")（United Asia Entertainment）に移籍。『約束/Good-bye』、『潸潸 (sun sun)』をリリースした。同じくUAE所属の[Zero](https://ja.wikipedia.org/wiki/Zero "wikilink")がリリースしたCDにはコーラスなどで参加をしている。この時期にS-Senceが手がけた曲はアジア系のテイストを採り入れた曲がみられていた。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月より『エッセンス裏道ラジオ』と題した[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")（現在VOL.9）を開始する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月、UAEからaspasiaレーベルへ移籍した。
+  - [2005年](../Page/2005年.md "wikilink")10月より『エッセンス裏道ラジオ』と題した[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")（現在VOL.9）を開始する。
+  - [2005年](../Page/2005年.md "wikilink")11月、UAEからaspasiaレーベルへ移籍した。
 
 ## ディスコグラフィー
 

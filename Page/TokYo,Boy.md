@@ -13,7 +13,7 @@
 
 ### 放送開始の経緯、歴史
 
-  - 番組が制作されるきっかけになったのは、[石原慎太郎](../Page/石原慎太郎.md "wikilink")が[東京都知事](https://ja.wikipedia.org/wiki/東京都知事 "wikilink")に当選した際、テリー伊藤が石原から「どうしようもないMXテレビをなんとかしてよ\!テリーさん番組作ってくれないかな?」と何回も尋ねられそこから実現に至った。
+  - 番組が制作されるきっかけになったのは、[石原慎太郎](../Page/石原慎太郎.md "wikilink")が[東京都知事](../Page/東京都知事.md "wikilink")に当選した際、テリー伊藤が石原から「どうしようもないMXテレビをなんとかしてよ\!テリーさん番組作ってくれないかな?」と何回も尋ねられそこから実現に至った。
   - 放送開始当初は週代わりで東京の問題点を探っていくメイン内容と並行して「東京の優良市民を探そう」というサブコーナーもあった。
   - 放送時間変更後はアーティストのオーディション企画が主体となり変更前とは大きく番組内容が変わって行った。
   - 一時期、東京都庁の展望台で「Tokyo Boyまんじゅう」という、当番組とコラボレートした菓子が販売されていたことがある。
@@ -53,12 +53,12 @@
   - [泉麻人](../Page/泉麻人.md "wikilink")
   - [ホーム･チーム](../Page/ホーム・チーム_\(お笑い\).md "wikilink")
   - [360°モンキーズ](https://ja.wikipedia.org/wiki/360°モンキーズ "wikilink")
-  - [ペナルティ・ヒデ](https://ja.wikipedia.org/wiki/ヒデ_\(お笑い芸人\) "wikilink")
+  - [ペナルティ・ヒデ](../Page/ヒデ_\(お笑い芸人\).md "wikilink")
   - [加勢大周](../Page/加勢大周.md "wikilink")
   - [レッド吉田](../Page/レッド吉田.md "wikilink")
   - [辻よしなり](../Page/辻よしなり.md "wikilink")
   - [あきと](https://ja.wikipedia.org/wiki/あきと "wikilink")
-  - [ノッチ](https://ja.wikipedia.org/wiki/ノッチ_\(お笑い芸人\) "wikilink")
+  - [ノッチ](../Page/ノッチ_\(お笑い芸人\).md "wikilink")
   - [TKO](../Page/TKO_\(お笑いコンビ\).md "wikilink")
   - [中川礼二](../Page/中川礼二.md "wikilink")
 
@@ -75,11 +75,11 @@
   - [酒井若菜](../Page/酒井若菜.md "wikilink")
   - [矢沢心](https://ja.wikipedia.org/wiki/矢沢心 "wikilink")
   - [古瀬絵理](https://ja.wikipedia.org/wiki/古瀬絵理 "wikilink")
-  - [家田荘子](https://ja.wikipedia.org/wiki/家田荘子 "wikilink")
+  - [家田荘子](../Page/家田荘子.md "wikilink")
   - [藤崎奈々子](https://ja.wikipedia.org/wiki/藤崎奈々子 "wikilink")
   - [東原亜希](https://ja.wikipedia.org/wiki/東原亜希 "wikilink")
   - [森下千里](https://ja.wikipedia.org/wiki/森下千里 "wikilink")
-  - [大網亜矢乃](https://ja.wikipedia.org/wiki/亜矢乃 "wikilink")
+  - [大網亜矢乃](../Page/亜矢乃.md "wikilink")
   - [田代さやか](https://ja.wikipedia.org/wiki/田代さやか "wikilink")
   - [青島あきな](https://ja.wikipedia.org/wiki/青島あきな "wikilink")
   - [橋本志穂](../Page/橋本志穂.md "wikilink")
@@ -87,7 +87,7 @@
   - [小野真弓](https://ja.wikipedia.org/wiki/小野真弓 "wikilink")
   - [瀬戸早妃](https://ja.wikipedia.org/wiki/瀬戸早妃 "wikilink")
   - [小島くるみ](../Page/小島くるみ.md "wikilink")
-  - [原史奈](https://ja.wikipedia.org/wiki/原史奈 "wikilink")（番組放送開始当初のカバーアイドル）
+  - [原史奈](../Page/原史奈.md "wikilink")（番組放送開始当初のカバーアイドル）
   - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")
   - [脊山麻理子](../Page/脊山麻理子.md "wikilink")
   - [谷澤恵里香](../Page/谷澤恵里香.md "wikilink")
@@ -117,7 +117,7 @@
 
 ## 関連項目
 
-  - [東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink") - 番組でバックアップ企画が行われる。また、[浅草キッド](../Page/浅草キッド.md "wikilink")や[松村邦洋](../Page/松村邦洋.md "wikilink")が大会に参加して走る模様も放送されるが、[2009年](../Page/2009年.md "wikilink")の大会では松村がスタートから15km付近を走行中に意識を失い、一時[心肺停止](https://ja.wikipedia.org/wiki/心肺停止 "wikilink")状態となり病院に運ばれる騒ぎが起きた。
+  - [東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink") - 番組でバックアップ企画が行われる。また、[浅草キッド](../Page/浅草キッド.md "wikilink")や[松村邦洋](../Page/松村邦洋.md "wikilink")が大会に参加して走る模様も放送されるが、[2009年](../Page/2009年.md "wikilink")の大会では松村がスタートから15km付近を走行中に意識を失い、一時[心肺停止](../Page/心肺停止.md "wikilink")状態となり病院に運ばれる騒ぎが起きた。
   - [2016年東京オリンピック構想](https://ja.wikipedia.org/wiki/2016年東京オリンピック構想 "wikilink")
 
 ## 外部リンク

@@ -15,11 +15,11 @@
   - [2000年](../Page/2000年.md "wikilink") - 8月、エレファントラブを脱退。
   - [2001年](../Page/2001年.md "wikilink") - 12月、真心ブラザーズの活動を休止。
   - [2003年](../Page/2003年.md "wikilink") - この年の夏限定のバンド[O.P.KING](../Page/O.P.KING.md "wikilink")を結成し活動。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 5月、真心ブラザーズの活動を再開。
+  - [2005年](../Page/2005年.md "wikilink") - 5月、真心ブラザーズの活動を再開。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")現在、ソロとバンド両方の活動を続けている。
 
-プライベートでは、[2000年](../Page/2000年.md "wikilink")[9月](../Page/9月.md "wikilink")に[JUDY AND MARYボーカルの](../Page/JUDY_AND_MARY.md "wikilink")[YUKIと結婚](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月、長男（1歳11カ月）が急逝。死因は[乳幼児突然死症候群](../Page/乳幼児突然死症候群.md "wikilink")（SIDS）の可能性があると報道された。[2006年](../Page/2006年.md "wikilink")[8月](../Page/8月.md "wikilink")には次男、[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")には三男が誕生した。
+プライベートでは、[2000年](../Page/2000年.md "wikilink")[9月](../Page/9月.md "wikilink")に[JUDY AND MARYボーカルの](../Page/JUDY_AND_MARY.md "wikilink")[YUKIと結婚](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")。[2005年](../Page/2005年.md "wikilink")3月、長男（1歳11カ月）が急逝。死因は[乳幼児突然死症候群](../Page/乳幼児突然死症候群.md "wikilink")（SIDS）の可能性があると報道された。[2006年](../Page/2006年.md "wikilink")[8月](../Page/8月.md "wikilink")には次男、[2009年](../Page/2009年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")には三男が誕生した。
 
 ## ディスコグラフィー
 
@@ -301,7 +301,7 @@
 <p>ゲストミュージシャン</p>
 <ul>
 <li><a href="../Page/奥田民生.md" title="wikilink">奥田民生</a>（ギター＆コーラス）</li>
-<li>グレートマエカワ（<a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a>）＆ユウスケ（元cembalo）</li>
+<li>グレートマエカワ（<a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>）＆ユウスケ（元cembalo）</li>
 <li>佐藤シンイチロウ（the pillows）＆大木温之（The ピーズ）
 </div>
 </div></li>
@@ -461,7 +461,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
 <td><p><strong>life work tour 2004</strong></p></td>
 <td><p>KSBL-5805</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -570,7 +570,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/9月16日.md" title="wikilink">9月16日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a>トリビュート『<a href="https://ja.wikipedia.org/wiki/深夜高速_-生きててよかったの集い-" title="wikilink">深夜高速 -生きててよかったの集い-</a>』</strong></p></td>
+<td><p><strong><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>トリビュート『<a href="https://ja.wikipedia.org/wiki/深夜高速_-生きててよかったの集い-" title="wikilink">深夜高速 -生きててよかったの集い-</a>』</strong></p></td>
 <td><p>AICL-2039</p></td>
 <td><p>14.<a href="https://ja.wikipedia.org/wiki/深夜高速" title="wikilink">深夜高速</a></p></td>
 <td><p>オリコン最高位、登場回数回</p></td>
@@ -598,7 +598,7 @@
 <td><p>オリコン最高80位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a></p></td>
+<td><p><a href="../Page/2014年.md" title="wikilink">2014年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td><p><strong>島田印 -島田昌典ワークス・ヒットコレクション-</strong></p></td>
 <td><p>BVCL-588</p></td>
 <td><p>11.遠い匂い</p></td>
@@ -657,17 +657,17 @@
 
 ## ミュージックビデオ
 
-|                                                                                                               |                                                                                          |
-| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **監督**                                                                                                        | **曲名**                                                                                   |
-| [秋山具義](../Page/秋山具義.md "wikilink")                                                                            | 「ずっと穴を掘り続けている」「遠い匂い」                                                                     |
-| [直](https://ja.wikipedia.org/wiki/直 "wikilink")                                                               | 「スペース 〜拝啓、ジェリー・ガルシア〜」                                                                    |
-| [手コキ塚](https://ja.wikipedia.org/wiki/手コキ塚 "wikilink")                                                         | 「審美銃 from「LIFE WORK TOUR 2004」」                                                          |
-| [手塚一紀](https://ja.wikipedia.org/wiki/手塚一紀 "wikilink")                                                         | 「審美銃」(レコーディングでバックバンドを務めた[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")との共演) |
-| [常盤俊郎](https://ja.wikipedia.org/wiki/常盤俊郎 "wikilink") / [当麻康夫](https://ja.wikipedia.org/wiki/当麻康夫 "wikilink") | 「世界の元 (-Album Version-TV Size Edit)」                                                     |
-| [野村賢一](https://ja.wikipedia.org/wiki/野村賢一 "wikilink")                                                         | 「LIFE」                                                                                   |
-| 不明                                                                                                            | 「いつかのうみ」                                                                                 |
-|                                                                                                               |                                                                                          |
+|                                                                                                               |                                                                       |
+| ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **監督**                                                                                                        | **曲名**                                                                |
+| [秋山具義](../Page/秋山具義.md "wikilink")                                                                            | 「ずっと穴を掘り続けている」「遠い匂い」                                                  |
+| [直](https://ja.wikipedia.org/wiki/直 "wikilink")                                                               | 「スペース 〜拝啓、ジェリー・ガルシア〜」                                                 |
+| [手コキ塚](https://ja.wikipedia.org/wiki/手コキ塚 "wikilink")                                                         | 「審美銃 from「LIFE WORK TOUR 2004」」                                       |
+| [手塚一紀](https://ja.wikipedia.org/wiki/手塚一紀 "wikilink")                                                         | 「審美銃」(レコーディングでバックバンドを務めた[サンボマスター](../Page/サンボマスター.md "wikilink")との共演) |
+| [常盤俊郎](https://ja.wikipedia.org/wiki/常盤俊郎 "wikilink") / [当麻康夫](https://ja.wikipedia.org/wiki/当麻康夫 "wikilink") | 「世界の元 (-Album Version-TV Size Edit)」                                  |
+| [野村賢一](https://ja.wikipedia.org/wiki/野村賢一 "wikilink")                                                         | 「LIFE」                                                                |
+| 不明                                                                                                            | 「いつかのうみ」                                                              |
+|                                                                                                               |                                                                       |
 
 ## 主なライブ
 
@@ -707,7 +707,7 @@
   - 2009年12月30日 - COUNTDOWN JAPAN 09/10
   - 2010年05月16日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink") 2010
       -
-        ゲストアーティスト：[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")/DUKEアイプチ/ハマ・オカモト（[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")）/金澤ダイスケ（[フジファブリック](../Page/フジファブリック.md "wikilink")）
+        ゲストアーティスト：[サンボマスター](../Page/サンボマスター.md "wikilink")/DUKEアイプチ/ハマ・オカモト（[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")）/金澤ダイスケ（[フジファブリック](../Page/フジファブリック.md "wikilink")）
   - 2010年08月06日 - ROCK IN JAPAN FESTIVAL 2010
   - 2010年08月11日 - ロックロックこんにちは\! Ver.14 "ジューシー(十四)"
   - 2010年08月21日 - [AOMORI ROCK FESTIVAL](../Page/AOMORI_ROCK_FESTIVAL.md "wikilink") '10 〜夏の魔物〜

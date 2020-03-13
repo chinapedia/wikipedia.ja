@@ -8,7 +8,7 @@
   - [2001年](../Page/2001年.md "wikilink")：STARHORSE 2001
   - [2002年](../Page/2002年.md "wikilink")：STARHORSE 2002
   - [2003年](../Page/2003年.md "wikilink")：STARHORSE PROGRESS
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")：[STARHORSE2](https://ja.wikipedia.org/wiki/STARHORSE2 "wikilink") NEW GENERATION
+  - [2005年](../Page/2005年.md "wikilink")：[STARHORSE2](../Page/STARHORSE2.md "wikilink") NEW GENERATION
   - [2006年](../Page/2006年.md "wikilink")：STARHORSE2 SECOND FUSION
   - [2007年](../Page/2007年.md "wikilink")：STARHORSE2 THIRD EVOLUTION
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")：STARHORSE2 FOURTH AMBITION
@@ -26,7 +26,7 @@
 
 が稼働開始している。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[STARHORSE2](https://ja.wikipedia.org/wiki/STARHORSE2 "wikilink")シリーズが、[2011年](../Page/2011年.md "wikilink")には[STARHORSE3](https://ja.wikipedia.org/wiki/STARHORSE3 "wikilink")シリーズが開始。[2017年](../Page/2017年.md "wikilink")にはSTARHORSE3のスマートフォンアプリ版であるSTARHORSE Pocketが配信開始。また派生作品として[競艇](../Page/競艇.md "wikilink")を題材にした『[STARBOAT](https://ja.wikipedia.org/wiki/STARBOAT "wikilink")』（スターボート）も稼働した。
+[2005年](../Page/2005年.md "wikilink")には[STARHORSE2](../Page/STARHORSE2.md "wikilink")シリーズが、[2011年](../Page/2011年.md "wikilink")には[STARHORSE3](https://ja.wikipedia.org/wiki/STARHORSE3 "wikilink")シリーズが開始。[2017年](../Page/2017年.md "wikilink")にはSTARHORSE3のスマートフォンアプリ版であるSTARHORSE Pocketが配信開始。また派生作品として[競艇](../Page/競艇.md "wikilink")を題材にした『[STARBOAT](https://ja.wikipedia.org/wiki/STARBOAT "wikilink")』（スターボート）も稼働した。
 
 本項では主に第1世代STARHORSEシリーズにあたる1作目の『STARHORSE』から『 - PROGRESS』及び『 - PROGRESS Returns』について取り上げる。
 
@@ -36,7 +36,7 @@
 
 レースは8〜12頭で行われる。[中山競馬場](../Page/中山競馬場.md "wikilink")・[東京競馬場](../Page/東京競馬場.md "wikilink")・[中京競馬場](../Page/中京競馬場.md "wikilink")・[京都競馬場](../Page/京都競馬場.md "wikilink")・[阪神競馬場](../Page/阪神競馬場.md "wikilink")を[CGで忠実に再現している](../Page/コンピュータグラフィックス.md "wikilink")。なお、阪神競馬場は改修前の状態である。
 
-[同着](../Page/着差_\(競馬\).md "wikilink")・[降着](https://ja.wikipedia.org/wiki/降着制度 "wikilink")・競走中止などは存在しない。これは『STARHORSE2』でも同じである。
+[同着](../Page/着差_\(競馬\).md "wikilink")・[降着](../Page/降着制度.md "wikilink")・競走中止などは存在しない。これは『STARHORSE2』でも同じである。
 
 馬･騎手の名前は全て実名で登場する。実況は[杉本清](../Page/杉本清.md "wikilink")が担当。
 
@@ -81,15 +81,15 @@
 
   - 阪神競馬場を改修後のコースに変更の予定だったが、ゲーム上は旧コースの設定となっている。
       - このため[神戸新聞杯](../Page/神戸新聞杯.md "wikilink")の施行距離が実レースの芝・外回り2400mではなく、芝2000mとなっている。
-  - 障害レースを5レース追加（[中山グランドジャンプ](../Page/中山グランドジャンプ.md "wikilink")、[中山大障害](../Page/中山大障害.md "wikilink")、[阪神スプリングジャンプ](https://ja.wikipedia.org/wiki/阪神スプリングジャンプ "wikilink")、[京都ハイジャンプ](../Page/京都ハイジャンプ.md "wikilink")、FAR EAST GRAND JUMP）。
+  - 障害レースを5レース追加（[中山グランドジャンプ](../Page/中山グランドジャンプ.md "wikilink")、[中山大障害](../Page/中山大障害.md "wikilink")、[阪神スプリングジャンプ](../Page/阪神スプリングジャンプ.md "wikilink")、[京都ハイジャンプ](../Page/京都ハイジャンプ.md "wikilink")、FAR EAST GRAND JUMP）。
       - FAR EAST GRAND JUMPは極東競馬場で行われるオリジナルの障害レースで、上記レースで勝利した馬が招待される\[2\]。
       - 障害レースのショートカットは、障害間の距離が長い場合のみ行われる（障害をジャンプする場面はカットしない）。
-  - 2003年（[ネオユニヴァース](../Page/ネオユニヴァース.md "wikilink")）、2005年（[ディープインパクト](https://ja.wikipedia.org/wiki/ディープインパクト_\(競走馬\) "wikilink")）、2008年（[ディープスカイ](https://ja.wikipedia.org/wiki/ディープスカイ "wikilink")）の各世代の馬が登場。
-  - WBCにSTARHORSE2のSWBCで登場の逃げ馬[オルコックアラビアン](https://ja.wikipedia.org/wiki/オルコックアラビアン "wikilink")が登場、WBCM、WBCC、WBCTにランダムで出走する。
+  - 2003年（[ネオユニヴァース](../Page/ネオユニヴァース.md "wikilink")）、2005年（[ディープインパクト](../Page/ディープインパクト_\(競走馬\).md "wikilink")）、2008年（[ディープスカイ](https://ja.wikipedia.org/wiki/ディープスカイ "wikilink")）の各世代の馬が登場。
+  - WBCにSTARHORSE2のSWBCで登場の逃げ馬[オルコックアラビアン](../Page/オルコックアラビアン.md "wikilink")が登場、WBCM、WBCC、WBCTにランダムで出走する。
   - GI時における勝ち馬の写真の追加（WBC以外は2008年の各レース勝ち馬）、差し替え。
   - GII、GIII、J・GIIレースでは旧仕様のターフィー、勝馬投票券に関する注意喚起が表示されなくなり代わりに競馬場のCGが表示される。
   - 2008年のJRAレーシングプログラムに準拠。これにより、[ジャパンカップダートが東京の](../Page/チャンピオンズカップ_\(中央競馬\).md "wikilink")2100mから阪神の1800mに変更された。
-      - 一部の競走を追加・削除（追加：[阪神カップ](../Page/阪神カップ.md "wikilink")と、前述した障害4レース 変更：[セントウルステークス](../Page/セントウルステークス.md "wikilink")→GIIに格上げ。削除：[CBC賞](../Page/CBC賞.md "wikilink")→GIIIに格下げのため。[シリウスステークス](../Page/シリウスステークス.md "wikilink")→距離が1400mから2000mに延長されたため。[京阪杯](../Page/京阪杯.md "wikilink")→距離が1200mに変更されたため）。ただし[ヴィクトリアマイル](../Page/ヴィクトリアマイル.md "wikilink")は追加対象となっていない。また[中日新聞杯](https://ja.wikipedia.org/wiki/中日新聞杯 "wikilink")は実際のレースでは2006年から2000mとなっているが、施行距離は従来の1800mとなっている。
+      - 一部の競走を追加・削除（追加：[阪神カップ](../Page/阪神カップ.md "wikilink")と、前述した障害4レース 変更：[セントウルステークス](../Page/セントウルステークス.md "wikilink")→GIIに格上げ。削除：[CBC賞](../Page/CBC賞.md "wikilink")→GIIIに格下げのため。[シリウスステークス](../Page/シリウスステークス.md "wikilink")→距離が1400mから2000mに延長されたため。[京阪杯](../Page/京阪杯.md "wikilink")→距離が1200mに変更されたため）。ただし[ヴィクトリアマイル](../Page/ヴィクトリアマイル.md "wikilink")は追加対象となっていない。また[中日新聞杯](../Page/中日新聞杯.md "wikilink")は実際のレースでは2006年から2000mとなっているが、施行距離は従来の1800mとなっている。
   - ダブルチャンスが複数選択されることがあり、全ての馬券がダブルチャンスとなることもある。
   - 『STARHORSE PROGRESS』での馬の代数データや自己生産馬の能力は完全に引き継がれる\[3\]。
 
@@ -215,7 +215,7 @@
 
 ## 関連記事
 
-  - [STARHORSE2](https://ja.wikipedia.org/wiki/STARHORSE2 "wikilink")
+  - [STARHORSE2](../Page/STARHORSE2.md "wikilink")
   - [STARHORSE3](https://ja.wikipedia.org/wiki/STARHORSE3 "wikilink")
   - [STARHORSE4](https://ja.wikipedia.org/wiki/STARHORSE4 "wikilink")
   - [STARBOAT](https://ja.wikipedia.org/wiki/STARBOAT "wikilink")

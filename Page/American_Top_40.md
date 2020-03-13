@@ -19,7 +19,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Casey_Kasem.jpg "wikilink")（1989年頃）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:Ryan_Seacrest_at_2007_MyCokeFest_in_Atlanta.JPG "wikilink")\]\]
 
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")7月4日 - AT40、3時間番組として放送開始。初代DJはケイシー・ケイサム。
+  - [1970年](../Page/1970年.md "wikilink")7月4日 - AT40、3時間番組として放送開始。初代DJはケイシー・ケイサム。
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - AT40、1曲あたりの演奏時間が長くなる傾向が強まったとして、4時間番組に。人気コーナー「Long Distance Dedication」開始。
   - [1988年](../Page/1988年.md "wikilink")
       - 8月6日 - 初代DJケイシー、当初番組を制作していた[ABC Radio Networkとの契約トラブルに伴い](https://ja.wikipedia.org/wiki/ABC_Radio_Network "wikilink")、AT40を降板。
@@ -95,7 +95,7 @@
 
 [1972年](../Page/1972年.md "wikilink")10月14日から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")9月27日まで[ラジオ関東（現ラジオ日本）で](../Page/アール・エフ・ラジオ日本.md "wikilink")、『全米トップ40』というタイトルで放送（[ラジオ関西](../Page/ラジオ関西.md "wikilink")でも遅れネット）。[DJは音楽評論家の](../Page/ディスクジョッキー.md "wikilink")[湯川れい子](../Page/湯川れい子.md "wikilink")と同局アナウンサーの[坂井隆夫](https://ja.wikipedia.org/wiki/坂井隆夫 "wikilink")。他にも現在DJとなった[矢口清治](../Page/矢口清治.md "wikilink")や、音楽評論家となった[今泉圭姫子](https://ja.wikipedia.org/wiki/今泉圭姫子 "wikilink")のデビューのきっかけはこの番組であった。
 
-当時はアメリカからの放送の解説のほか、「Joke Box」（[空耳アワー](https://ja.wikipedia.org/wiki/空耳アワー "wikilink")の先駆けとも言える企画）など日本独自のコーナーも放送され、人気を博した。ケーシーの名文句、"Join me next week our weekly countdown. 'til then, keep your feet on the ground and keep reaching for the stars." を、作詞家兼翻訳家でもあった湯川れい子は「来週まで地面にちゃんとあんよをつけて、星に手をさしのべて待っていてくださいね」と訳して番組の締めに使用していた。
+当時はアメリカからの放送の解説のほか、「Joke Box」（[空耳アワー](../Page/空耳アワー.md "wikilink")の先駆けとも言える企画）など日本独自のコーナーも放送され、人気を博した。ケーシーの名文句、"Join me next week our weekly countdown. 'til then, keep your feet on the ground and keep reaching for the stars." を、作詞家兼翻訳家でもあった湯川れい子は「来週まで地面にちゃんとあんよをつけて、星に手をさしのべて待っていてくださいね」と訳して番組の締めに使用していた。
 
 最終的に後述する[FM東京に番組放送権を奪われ](../Page/エフエム東京.md "wikilink")、ラジオ日本での放送は終了に追い込まれた。
 
@@ -119,9 +119,9 @@
 
 ### 近年
 
-その後、[Fm yokohamaや](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")[α-Station](../Page/エフエム京都.md "wikilink")、[fm osaka](../Page/エフエム大阪.md "wikilink")、[InterFM](../Page/InterFM.md "wikilink")、[ZIP-FM](../Page/ZIP-FM.md "wikilink")などでローカル放送された時期があったものの、2011年9月25日にZIP-FMでの放送終了によって、日本国内のラジオ局で聴けるのはAFNのみとなった。米国などのラジオ局のストリームでは、聴くことができる。[3](http://blogs.yahoo.co.jp/euclid_upland/folder/660848.html)
+その後、[Fm yokohamaや](../Page/横浜エフエム放送.md "wikilink")[α-Station](../Page/エフエム京都.md "wikilink")、[fm osaka](../Page/エフエム大阪.md "wikilink")、[InterFM](../Page/InterFM.md "wikilink")、[ZIP-FM](../Page/ZIP-FM.md "wikilink")などでローカル放送された時期があったものの、2011年9月25日にZIP-FMでの放送終了によって、日本国内のラジオ局で聴けるのはAFNのみとなった。米国などのラジオ局のストリームでは、聴くことができる。[3](http://blogs.yahoo.co.jp/euclid_upland/folder/660848.html)
 
-1986年まで「全米トップ40」が放送されていた[ラジオ日本では](../Page/アール・エフ・ラジオ日本.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")のナイターオフ（金曜19:30〜21:15）に『[ダイ&チャッピーのワールドトップ40](../Page/ダイ&チャッピーのワールドトップ40.md "wikilink")』として19年ぶりに復活した。
+1986年まで「全米トップ40」が放送されていた[ラジオ日本では](../Page/アール・エフ・ラジオ日本.md "wikilink")、[2005年](../Page/2005年.md "wikilink")のナイターオフ（金曜19:30〜21:15）に『[ダイ&チャッピーのワールドトップ40](../Page/ダイ&チャッピーのワールドトップ40.md "wikilink")』として19年ぶりに復活した。
 
 AFNではKix BrooksがDJをつとめるカントリーのみのカウントダウン番組「American Country Countdown」（American Top 40と直接の関係は無い）を放送しており、AFNが所在する地域では比較的容易に聴取することができる。
 

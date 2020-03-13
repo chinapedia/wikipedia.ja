@@ -5,7 +5,7 @@
 
 ## 概要
 
-1998年10月に放送開始。開始当時は[J-PHONE（現在のVodafone→SOFTBANK）](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、その後は[TDK](../Page/TDK.md "wikilink")がスポンサーだった。また、GLAYメンバーの中で唯一、関西発のラジオ番組のDJを務めている事でも話題となった（[TERU](../Page/TERU.md "wikilink")は[bayfm](https://ja.wikipedia.org/wiki/bayfm "wikilink")の「TERU ME NIGHT GLAY」、[TAKURO](../Page/TAKURO.md "wikilink")は[TOKYO FMの](../Page/エフエム東京.md "wikilink")「GLAYライン with TAKURO」「GLAY TAKURO RADIO FACTORY」（現在は共に放送終了）、[HISASHI](../Page/HISASHI.md "wikilink")は[FM-FUJI](https://ja.wikipedia.org/wiki/FM-FUJI "wikilink")の「CYBER NET CITY」（後に「-FULL METAL MIX」と名称変更、現在は放送終了）を務めていた）。この頃、[シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")の雑誌「B-PASS」にて放送中（及び前後）の様子が掲載されていた。
+1998年10月に放送開始。開始当時は[J-PHONE（現在のVodafone→SOFTBANK）](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、その後は[TDK](../Page/TDK.md "wikilink")がスポンサーだった。また、GLAYメンバーの中で唯一、関西発のラジオ番組のDJを務めている事でも話題となった（[TERU](../Page/TERU.md "wikilink")は[bayfm](https://ja.wikipedia.org/wiki/bayfm "wikilink")の「TERU ME NIGHT GLAY」、[TAKURO](../Page/TAKURO.md "wikilink")は[TOKYO FMの](../Page/エフエム東京.md "wikilink")「GLAYライン with TAKURO」「GLAY TAKURO RADIO FACTORY」（現在は共に放送終了）、[HISASHI](../Page/HISASHI.md "wikilink")は[FM-FUJI](https://ja.wikipedia.org/wiki/FM-FUJI "wikilink")の「CYBER NET CITY」（後に「-FULL METAL MIX」と名称変更、現在は放送終了）を務めていた）。この頃、[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")の雑誌「B-PASS」にて放送中（及び前後）の様子が掲載されていた。
 
 2001年2月をもって一旦番組は終了するも、同年12月23日に「XMAS SPECIAL」として1日限りの復帰を果たす。その後、2003年11月に正式復帰。2017年10月に現在の時間帯での放送となる。
 
@@ -18,7 +18,7 @@
 
 ## 選曲について
 
-毎週一つのテーマに沿って、基本的にはJIRO本人が選曲をしている。GLAYの特集を行う場合もあれば、他のアーティストやジャンル別の特集・「○○な時に聴きたい曲」など、テーマは様々である。 自身が[THE PREDATORSを結成している事もあってか](https://ja.wikipedia.org/wiki/THE_PREDATORS "wikilink")、[the pillowsや](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")の曲が流れる事もある。
+毎週一つのテーマに沿って、基本的にはJIRO本人が選曲をしている。GLAYの特集を行う場合もあれば、他のアーティストやジャンル別の特集・「○○な時に聴きたい曲」など、テーマは様々である。 自身が[THE PREDATORSを結成している事もあってか](../Page/THE_PREDATORS.md "wikilink")、[the pillowsや](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")の曲が流れる事もある。
 
 ## ホームページについて
 

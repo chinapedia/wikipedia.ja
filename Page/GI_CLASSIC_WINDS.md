@@ -29,15 +29,15 @@
 
   - 出馬ゲーム
       -
-        1レースごとに3頭の馬がオークションに出ており、買うことができる。馬は年齢・性別があり、出走できるレースが限られている。レースの登録料はない。1レースに全てのステーションで3頭までしか出走できない。2着以内に入賞すれば配当が貰えるが、着外の場合には馬の所有権を失う。複数頭所持していても出馬を指示できるのは1頭のみである。またボーナスポイント制度があり、馬券・順位予想の配当がそのままポイントとなり、1000ポイント貯まると馬が1頭貰える。馬は選ぶことができない。馬は5頭までストックできる。調教・配合は一切ないが、後継機の[GI LEADING SIREに影響を与えたほど](https://ja.wikipedia.org/wiki/GI_LEADING_SIRE "wikilink")、人気があるゲームである。GI CLASSIC WINDSにて特定のレースに出走すると、[ハイセイコー](../Page/ハイセイコー.md "wikilink")や[フレッシュボイス](../Page/フレッシュボイス.md "wikilink")など1994年までに引退した馬が登場することがある。
+        1レースごとに3頭の馬がオークションに出ており、買うことができる。馬は年齢・性別があり、出走できるレースが限られている。レースの登録料はない。1レースに全てのステーションで3頭までしか出走できない。2着以内に入賞すれば配当が貰えるが、着外の場合には馬の所有権を失う。複数頭所持していても出馬を指示できるのは1頭のみである。またボーナスポイント制度があり、馬券・順位予想の配当がそのままポイントとなり、1000ポイント貯まると馬が1頭貰える。馬は選ぶことができない。馬は5頭までストックできる。調教・配合は一切ないが、後継機の[GI LEADING SIREに影響を与えたほど](../Page/GI_LEADING_SIRE.md "wikilink")、人気があるゲームである。GI CLASSIC WINDSにて特定のレースに出走すると、[ハイセイコー](../Page/ハイセイコー.md "wikilink")や[フレッシュボイス](../Page/フレッシュボイス.md "wikilink")など1994年までに引退した馬が登場することがある。
 
 ## 関連記事
 
   - [GI CLASSIC](../Page/GI_CLASSIC.md "wikilink")
-  - [GI CLASSIC EX](https://ja.wikipedia.org/wiki/GI_CLASSIC_EX "wikilink")
-  - [GI LEADING SIRE](https://ja.wikipedia.org/wiki/GI_LEADING_SIRE "wikilink")
-  - [GI WINNING SIRE](https://ja.wikipedia.org/wiki/GI_WINNING_SIRE "wikilink")
-  - [GI TURFWILD](https://ja.wikipedia.org/wiki/GI_TURFWILD "wikilink")
+  - [GI CLASSIC EX](../Page/GI_CLASSIC_EX.md "wikilink")
+  - [GI LEADING SIRE](../Page/GI_LEADING_SIRE.md "wikilink")
+  - [GI WINNING SIRE](../Page/GI_WINNING_SIRE.md "wikilink")
+  - [GI TURFWILD](../Page/GI_TURFWILD.md "wikilink")
 
 ## 公式サイト
 

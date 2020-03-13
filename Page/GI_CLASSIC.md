@@ -15,17 +15,17 @@
 
 稀にダブルアップレースがあり、その場合全ての配当が2倍になる。
 
-レース中は音声による実況が流れる（実況付きのマシンとしては最初期の作品にあたる）。また、ベット時のBGMは、GIIIが2種類、GIIが2種類、GIが1種類、さらに[有馬記念](https://ja.wikipedia.org/wiki/有馬記念 "wikilink")専用のBGMがある。なお、GIIのBGMはそれぞれ『[グラディウス](../Page/グラディウス_\(ゲーム\).md "wikilink")』と『[悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ "wikilink")』のアレンジバージョンとなっている。
+レース中は音声による実況が流れる（実況付きのマシンとしては最初期の作品にあたる）。また、ベット時のBGMは、GIIIが2種類、GIIが2種類、GIが1種類、さらに[有馬記念](https://ja.wikipedia.org/wiki/有馬記念 "wikilink")専用のBGMがある。なお、GIIのBGMはそれぞれ『[グラディウス](../Page/グラディウス_\(ゲーム\).md "wikilink")』と『[悪魔城ドラキュラ](../Page/悪魔城ドラキュラ.md "wikilink")』のアレンジバージョンとなっている。
 
 上位機種として**GI CLASSIC SPECIAL**という作品もある。データの更改に加え、トラックフィールドとステーションを離してステーション2席の間にメダル両替機を搭載させたものである。またステーションを自由に増減させることもできる。但しあまりお店で見かけることが無く、売れ行きは芳しくなかったものと見られる。
 
 ## 関連記事
 
-  - [GI CLASSIC WINDS](https://ja.wikipedia.org/wiki/GI_CLASSIC_WINDS "wikilink")
-  - [GI CLASSIC EX](https://ja.wikipedia.org/wiki/GI_CLASSIC_EX "wikilink")
-  - [GI LEADING SIRE](https://ja.wikipedia.org/wiki/GI_LEADING_SIRE "wikilink")
-  - [GI WINNING SIRE](https://ja.wikipedia.org/wiki/GI_WINNING_SIRE "wikilink")
-  - [GI TURFWILD](https://ja.wikipedia.org/wiki/GI_TURFWILD "wikilink")
+  - [GI CLASSIC WINDS](../Page/GI_CLASSIC_WINDS.md "wikilink")
+  - [GI CLASSIC EX](../Page/GI_CLASSIC_EX.md "wikilink")
+  - [GI LEADING SIRE](../Page/GI_LEADING_SIRE.md "wikilink")
+  - [GI WINNING SIRE](../Page/GI_WINNING_SIRE.md "wikilink")
+  - [GI TURFWILD](../Page/GI_TURFWILD.md "wikilink")
 
 ## 公式サイト
 

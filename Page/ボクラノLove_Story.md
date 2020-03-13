@@ -1,13 +1,13 @@
 > この記事は[Love Story](https://ja.wikipedia.org/wiki/Love_Story)から翻訳されています。
 
 
-「**ボクラノLove Story**」（ボクラノラブ・ストーリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")のメジャー5作目（通算6作目）の[シングル](../Page/シングル.md "wikilink")。
+「**ボクラノLove Story**」（ボクラノラブ・ストーリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")・[WaT](../Page/WaT.md "wikilink")のメジャー5作目（通算6作目）の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
 [着うた](../Page/着うた.md "wikilink")配信サイト、「レコード会社直営」の11月・12月度TV-CFソング。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")初登場1位を記録した前作「[Ready Go\!](../Page/Ready_Go!_\(WaTの曲\).md "wikilink")」から1か月でのリリース。通常版には隠しトークが収録されている。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")初登場1位を記録した前作「[Ready Go\!](../Page/Ready_Go!_\(WaTの曲\).md "wikilink")」から1か月でのリリース。通常版には隠しトークが収録されている。
 
 PVや歌番組などで、ウエンツ瑛士がピアノの弾き語りをしていることが話題になった。
 
@@ -26,10 +26,10 @@ PVや歌番組などで、ウエンツ瑛士がピアノの弾き語りをして
 
 ## 参加ミュージシャン
 
-  - **[WaT](https://ja.wikipedia.org/wiki/WaT "wikilink")**：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#1)
-      - [ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (\#1,2)
-      - [小池徹平](https://ja.wikipedia.org/wiki/小池徹平 "wikilink")：Vocal (\#1,2)、[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink") & [Blues Harp](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink") (\#2,5)
-  - [華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") (\#1,2,4,5)、[Other Instruments](../Page/楽器.md "wikilink") (\#1,4)
+  - **[WaT](../Page/WaT.md "wikilink")**：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#1)
+      - [ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (\#1,2)
+      - [小池徹平](../Page/小池徹平.md "wikilink")：Vocal (\#1,2)、[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink") & [Blues Harp](../Page/ハーモニカ.md "wikilink") (\#2,5)
+  - [華原大輔](https://ja.wikipedia.org/wiki/華原大輔 "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink") (\#1,2,4,5)、[Other Instruments](../Page/楽器.md "wikilink") (\#1,4)
   - [小松清人](https://ja.wikipedia.org/wiki/小松清人 "wikilink")：[Programming](../Page/デスクトップミュージック.md "wikilink") (\#2,5)、Chorus (\#2)
   - [田代衛](https://ja.wikipedia.org/wiki/田代衛 "wikilink")：[Electric Guitar](../Page/エレクトリック・ギター.md "wikilink") & Acoustic Guitar (\#1,2,4,5)
   - [前嶋康明](../Page/前嶋康明.md "wikilink")：[Acoustic Piano](../Page/ピアノ.md "wikilink") (\#1,4)
@@ -40,7 +40,7 @@ PVや歌番組などで、ウエンツ瑛士がピアノの弾き語りをして
 
 ## タイアップ
 
-  - 『[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink") (\#1)
+  - 『[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink") (\#1)
 
 ## 収録アルバム
 

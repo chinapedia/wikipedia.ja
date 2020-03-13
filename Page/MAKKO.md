@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - 本人曰く、山梨の実家には[霊界](https://ja.wikipedia.org/wiki/霊界 "wikilink")へと繋がる穴があるらしい（[2000年](../Page/2000年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")『[ミナミ極楽堂](https://ja.wikipedia.org/wiki/ミナミ極楽堂 "wikilink")』出演時に話していた）。
+  - 本人曰く、山梨の実家には[霊界](../Page/霊界.md "wikilink")へと繋がる穴があるらしい（[2000年](../Page/2000年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")に[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")『[ミナミ極楽堂](https://ja.wikipedia.org/wiki/ミナミ極楽堂 "wikilink")』出演時に話していた）。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")のファンであり、好きな作品ベスト3は『[仮面ライダー](../Page/仮面ライダー.md "wikilink")』『[超神ビビューン](https://ja.wikipedia.org/wiki/超神ビビューン "wikilink")』『[サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009 "wikilink")』
+  - [漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")のファンであり、好きな作品ベスト3は『[仮面ライダー](../Page/仮面ライダー.md "wikilink")』『[超神ビビューン](../Page/超神ビビューン.md "wikilink")』『[サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009 "wikilink")』
 
 <!-- end list -->
 

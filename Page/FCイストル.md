@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**フットボール・クルブ・イストル・ウェスト・プロヴァンス**（**Football Club Istres Ouest Provence**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[イストル](https://ja.wikipedia.org/wiki/イストル "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
+**フットボール・クルブ・イストル・ウェスト・プロヴァンス**（**Football Club Istres Ouest Provence**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[イストル](../Page/イストル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
 
 [1920年](../Page/1920年.md "wikilink")創立。2004-05シーズンに初めて[リーグ・アン](../Page/リーグ・アン.md "wikilink")（1部）に昇格したが、1シーズン限りで降格した。2019-20シーズンは[フランス全国選手権3](https://ja.wikipedia.org/wiki/フランス全国選手権3 "wikilink")（5部）でプレーする。
 

@@ -11,7 +11,7 @@
 
 ## 歴史
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）　[YOSAKOIソーラン祭り](https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り "wikilink")のビデオを見た四ヶ町商店街の関係者等が中心となって作られた2チームが「[おくんち](https://ja.wikipedia.org/wiki/おくんち "wikilink")させぼ祭り」の出し物としてアーケードで演舞。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）　[YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")のビデオを見た四ヶ町商店街の関係者等が中心となって作られた2チームが「[おくんち](https://ja.wikipedia.org/wiki/おくんち "wikilink")させぼ祭り」の出し物としてアーケードで演舞。
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）　第9回、参加予定チームは146になる。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）　第9回、参加予定チームは146になる。
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@
 
   - 名切お祭り広場会場（名切グラウンド） - 本審査と審査結果の発表・表彰、最後の総踊りが行われる。
   - 佐世保駅前会場（[佐世保駅](https://ja.wikipedia.org/wiki/佐世保駅 "wikilink")東口駅前広場）
-  - アルカス広場会場（[アルカスSASEBO](https://ja.wikipedia.org/wiki/アルカスSASEBO "wikilink")前）
+  - アルカス広場会場（[アルカスSASEBO](../Page/アルカスSASEBO.md "wikilink")前）
   - 海上自衛隊倉島岸壁会場
   - 島瀬公園会場
   - E・佐世保公園会場
@@ -65,7 +65,7 @@
   -
 **かつての会場**
 
-  - 国道会場（[国道35号](https://ja.wikipedia.org/wiki/国道35号 "wikilink")の島瀬町～京町間） - 2007年限りで終了。パレード形式。アーケード会場から引き続き演舞していた（前身のさせぼ祭りパレードから同じ形式）。
+  - 国道会場（[国道35号](../Page/国道35号.md "wikilink")の島瀬町～京町間） - 2007年限りで終了。パレード形式。アーケード会場から引き続き演舞していた（前身のさせぼ祭りパレードから同じ形式）。
   - 早岐瀬戸茶市会場 - 2008年より場所変更。ステージ形式。
   - 大宮公園会場
   - 戸尾市場会場
@@ -109,9 +109,9 @@
 
 ## 関連項目
 
-  - [よさこい](https://ja.wikipedia.org/wiki/よさこい "wikilink")
-  - [よさこい祭り](https://ja.wikipedia.org/wiki/よさこい祭り "wikilink") 高知県[高知市](../Page/高知市.md "wikilink")の祭り。全国のよさこい（YOSAKOI）祭りの原点である。
-  - [YOSAKOIソーラン祭り](https://ja.wikipedia.org/wiki/YOSAKOIソーラン祭り "wikilink")
+  - [よさこい](../Page/よさこい.md "wikilink")
+  - [よさこい祭り](../Page/よさこい祭り.md "wikilink") 高知県[高知市](../Page/高知市.md "wikilink")の祭り。全国のよさこい（YOSAKOI）祭りの原点である。
+  - [YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")
   - [佐世保くんち](https://ja.wikipedia.org/wiki/佐世保くんち "wikilink")　[亀山八幡宮の例祭](../Page/亀山八幡宮_\(佐世保市\).md "wikilink")。YOSAKOIさせぼ祭りの発祥となった「おくんちさせぼ祭り」の中心となっていた祭礼である。現在も11月1日～3日に開催。
 
 ## 外部リンク

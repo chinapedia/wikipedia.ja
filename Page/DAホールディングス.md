@@ -1,11 +1,11 @@
 > この記事は[DA](https://ja.wikipedia.org/wiki/DA)から翻訳されています。
 
 
-**株式会社DAホールディングス**は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[持株会社](../Page/持株会社.md "wikilink")。傘下に[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")[投資顧問事業や投資事業などを行う子会社を持つ](https://ja.wikipedia.org/wiki/投資顧問会社 "wikilink")。 不動産ファンドブームの象徴的存在。リーマンショック後の2010年6月1日付で上場廃止した。
+**株式会社DAホールディングス**は、[東京都](../Page/東京都.md "wikilink")[港区に本社を置く](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[持株会社](../Page/持株会社.md "wikilink")。傘下に[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")[投資顧問事業や投資事業などを行う子会社を持つ](https://ja.wikipedia.org/wiki/投資顧問会社 "wikilink")。 不動産ファンドブームの象徴的存在。リーマンショック後の2010年6月1日付で上場廃止した。
 
 ## 沿革
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[8月14日](../Page/8月14日.md "wikilink") - [金子修が](https://ja.wikipedia.org/wiki/金子修_\(実業家\) "wikilink")、欧米型不動産投資顧問業を目的としてダヴィンチ・アドバイザーズ・ジャパン株式会社を資本金1,000万円で東京都港区[西麻布](https://ja.wikipedia.org/wiki/西麻布 "wikilink")一丁目3番4号に設立。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[8月14日](../Page/8月14日.md "wikilink") - [金子修が](https://ja.wikipedia.org/wiki/金子修_\(実業家\) "wikilink")、欧米型不動産投資顧問業を目的としてダヴィンチ・アドバイザーズ・ジャパン株式会社を資本金1,000万円で東京都港区[西麻布](../Page/西麻布.md "wikilink")一丁目3番4号に設立。
   - 1998年11月 - 東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")一丁目5番1号に本社移転。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）1月 - 株式会社ダヴィンチ・アドバイザーズに社名変更。
   - 2000年11月 - 東京都中央区[東日本橋](../Page/東日本橋.md "wikilink")二丁目24番14号に本社移転。

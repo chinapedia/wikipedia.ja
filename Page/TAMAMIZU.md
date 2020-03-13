@@ -1,21 +1,21 @@
 > この記事は[TAMAMIZU](https://ja.wikipedia.org/wiki/TAMAMIZU)から翻訳されています。
 
 
-**TAMA**（タマ・玉　[1月13日](../Page/1月13日.md "wikilink") - ）は、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。血液型B型。
+**TAMA**（タマ・玉　[1月13日](../Page/1月13日.md "wikilink") - ）は、[京都府](../Page/京都府.md "wikilink")出身の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。血液型B型。
 
 ## 来歴
 
 1990年代初期に[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンド、妖花(ようか)のベーシストとして玉水（ギョクスイ）名義で活動後、[1993年](../Page/1993年.md "wikilink")からは[CASCADE](../Page/CASCADE.md "wikilink")（カスケード）結成によりボーカリストへ転向し、TAMA（タマ）名義で活動を開始（結成当初はGYOKU（ギョク）名義）。ボーカルの他に作詞も手がける。
 
-[2002年](../Page/2002年.md "wikilink")のCASCADE解散後、1年間の活動休止期間を経て、TAMAMIZU（タマミズ）名義でソロ活動を開始。デビューシングル『みにくい反逆児』のプロデュースを[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")の[松岡充](../Page/松岡充.md "wikilink")が担当して話題になった。
+[2002年](../Page/2002年.md "wikilink")のCASCADE解散後、1年間の活動休止期間を経て、TAMAMIZU（タマミズ）名義でソロ活動を開始。デビューシングル『みにくい反逆児』のプロデュースを[SOPHIA](../Page/SOPHIA.md "wikilink")の[松岡充](../Page/松岡充.md "wikilink")が担当して話題になった。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")頃から新バンド結成のためメンバー探しを始め、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")1月からロックバンド[FU JI KO](https://ja.wikipedia.org/wiki/FU_JI_KO "wikilink")（フジコ）のボーカリストとして活動。
+[2005年](../Page/2005年.md "wikilink")頃から新バンド結成のためメンバー探しを始め、[2006年](../Page/2006年.md "wikilink")1月からロックバンド[FU JI KO](https://ja.wikipedia.org/wiki/FU_JI_KO "wikilink")（フジコ）のボーカリストとして活動。
 
-[2007年](../Page/2007年.md "wikilink")8月にはCASCADEのドラマー[HIROSHI](https://ja.wikipedia.org/wiki/HIROSHI "wikilink")と[DIG DAGのボーカリストとして活動](https://ja.wikipedia.org/wiki/DIG_DAG "wikilink")。
+[2007年](../Page/2007年.md "wikilink")8月にはCASCADEのドラマー[HIROSHI](../Page/HIROSHI.md "wikilink")と[DIG DAGのボーカリストとして活動](https://ja.wikipedia.org/wiki/DIG_DAG "wikilink")。
 
 [2009年](../Page/2009年.md "wikilink")2月14日からはCASCADEを再結成し、再びそのボーカルを務めている\[1\]。
 
-[2018年](../Page/2018年.md "wikilink")6月22日に[Psycho le CemuのAYAとseek](https://ja.wikipedia.org/wiki/Psycho_le_Cemu "wikilink")、元[Hysteric Blueの](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")[楠瀬タクヤにTAMAMIZUを含めた](https://ja.wikipedia.org/wiki/楠瀬拓哉 "wikilink")4人で[MIMIZUQ](https://ja.wikipedia.org/wiki/MIMIZUQ "wikilink")を結成。同年9月8日に初ライブを開催した\[2\]。
+[2018年](../Page/2018年.md "wikilink")6月22日に[Psycho le CemuのAYAとseek](../Page/Psycho_le_Cemu.md "wikilink")、元[Hysteric Blueの](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")[楠瀬タクヤにTAMAMIZUを含めた](https://ja.wikipedia.org/wiki/楠瀬拓哉 "wikilink")4人で[MIMIZUQ](https://ja.wikipedia.org/wiki/MIMIZUQ "wikilink")を結成。同年9月8日に初ライブを開催した\[2\]。
 
 ## ディスコグラフィー
 
@@ -31,7 +31,7 @@
     2.  風の生まれる場所\[4:01\]
           -
             作詞・作曲・編曲：松岡充
-            [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[チューボーですよ\!](https://ja.wikipedia.org/wiki/チューボーですよ! "wikilink")」エンディングテーマ
+            [TBS系](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")「[チューボーですよ\!](../Page/チューボーですよ!.md "wikilink")」エンディングテーマ
     3.  青く、ただ青く\[4:45\]
           -
             作詞・作曲・編曲：松岡充

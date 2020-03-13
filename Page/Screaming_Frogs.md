@@ -6,14 +6,14 @@
 ## メンバー
 
   - [Tama](https://ja.wikipedia.org/wiki/Tama_\(歌手\) "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") ex.[Hysteric Blue](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")）
-  - 若菜拓馬（[ギター](../Page/ギター.md "wikilink")、unsuspected monogram、[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink") and the Cloud Collectors）
+  - 若菜拓馬（[ギター](../Page/ギター.md "wikilink")、unsuspected monogram、[TAKUYA](../Page/TAKUYA.md "wikilink") and the Cloud Collectors）
   - [楠瀬拓哉](https://ja.wikipedia.org/wiki/楠瀬拓哉 "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink") ex.Hysteric Blue）
   - 佐久間音哉（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[unsuspected monogram](https://ja.wikipedia.org/wiki/unsuspected_monogram "wikilink")）
 
 ### 旧メンバー
 
   - [屋敷豪太](../Page/屋敷豪太.md "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")）
-  - [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")&[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、プロデューサー）
+  - [佐久間正英](../Page/佐久間正英.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")&[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、プロデューサー）
   - 砂山淳一（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
 
 ## 経歴
@@ -21,9 +21,9 @@
   - [2003年](../Page/2003年.md "wikilink")、Hysteric Blue活動休止後に、Tamaのソロユニットとして、若菜拓馬、佐久間正英、屋敷豪太が参加し「The Screaming Frogs」が結成される。
   - [2004年](../Page/2004年.md "wikilink")、Hysteric Blue解散。
     1stアルバム『the frogs at beautiful sunset』が[日本クラウン](../Page/日本クラウン.md "wikilink")からリリースされた。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、2ndアルバム『for the Frogs』リリース。
+  - [2005年](../Page/2005年.md "wikilink")、2ndアルバム『for the Frogs』リリース。
   - [2007年](../Page/2007年.md "wikilink")、神宮外苑花火大会メインステージに出演。
-  - [2009年](../Page/2009年.md "wikilink")、[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師 "wikilink")キャラクターソングに、Tamaと楠瀬拓哉が作詞で参加。若菜拓馬、砂山淳一、佐久間音哉は各パートで収録に参加。
+  - [2009年](../Page/2009年.md "wikilink")、[鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")キャラクターソングに、Tamaと楠瀬拓哉が作詞で参加。若菜拓馬、砂山淳一、佐久間音哉は各パートで収録に参加。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月、Tamaのライヴサポートに楠瀬拓哉、砂山淳一、佐久間音哉が参加。
     LiveではTamaと若菜拓馬以外のパートが流動的だったが、これを機に固定メンバーになる。
   - [2011年](../Page/2011年.md "wikilink")、呼称を「The」を省いた「Screaming Frogs」に改訂。ミニアルバム「きこえてくるよ」をライヴ会場限定でリリース。

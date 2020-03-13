@@ -3,7 +3,7 @@
 
 **K-Meleon**とは、kmeleonbrowser.orgが開発している、[オープンソース](../Page/オープンソース.md "wikilink")の[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。[Gecko](../Page/Gecko.md "wikilink")を使用する[Windows専用のソフトウェアである](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
-[XUL](https://ja.wikipedia.org/wiki/XUL "wikilink")の代わりにWindowsで提供されているAPIを使用してインタフェースを構築しているため、同じGeckoを使用する[Mozilla Firefoxに比べ動作が軽快であり](../Page/Mozilla_Firefox.md "wikilink")、またユーザインターフェースが[Windows Explorerによく似た作りとなっている](../Page/Windows_Explorer.md "wikilink")。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")の[Camino](../Page/Camino.md "wikilink")や[GNOME](../Page/GNOME.md "wikilink")の[Galeon](../Page/Galeon.md "wikilink")などと同様に、対応環境を特化して軽量化するタイプのブラウザである。欧州向けに提供されるWindowsのブラウザ選択画面にも採用されている\[1\]。
+[XUL](../Page/XUL.md "wikilink")の代わりにWindowsで提供されているAPIを使用してインタフェースを構築しているため、同じGeckoを使用する[Mozilla Firefoxに比べ動作が軽快であり](../Page/Mozilla_Firefox.md "wikilink")、またユーザインターフェースが[Windows Explorerによく似た作りとなっている](../Page/Windows_Explorer.md "wikilink")。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")の[Camino](../Page/Camino.md "wikilink")や[GNOME](../Page/GNOME.md "wikilink")の[Galeon](../Page/Galeon.md "wikilink")などと同様に、対応環境を特化して軽量化するタイプのブラウザである。欧州向けに提供されるWindowsのブラウザ選択画面にも採用されている\[1\]。
 
 Firefoxなどに提供された拡張機能は使えないが、Mozilla用のプラグインは利用できる。マクロ機能を備えているため独自の拡張を施すことは可能。また、以前のバージョンでは国際化に問題があったが、現状では解決されている。
 

@@ -1,7 +1,7 @@
 > この記事は[MRO](https://ja.wikipedia.org/wiki/MRO)から翻訳されています。
 
 
-『**MROイブニング・ニュース**』（エムアールオー イブニング・ニュース）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")まで[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MROテレビ）で夕方に放送されていた[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（[TBS発](../Page/TBSテレビ.md "wikilink")『[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』の[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")ローカルパート）。
+『**MROイブニング・ニュース**』（エムアールオー イブニング・ニュース）は、[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")まで[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MROテレビ）で夕方に放送されていた[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")（[TBS発](../Page/TBSテレビ.md "wikilink")『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』の[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")ローカルパート）。
 
 『[MRO NEWS ON 6](../Page/MRO_NEWS_ON_6.md "wikilink")』の後番組として放送。2008年1月4日から2009年3月27日までは『[MROニュースランナー](https://ja.wikipedia.org/wiki/MROニュースランナー "wikilink")』と題して放送された。
 

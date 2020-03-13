@@ -5,7 +5,7 @@
 
 ## W7 / W5
 
-[1994年](../Page/1994年.md "wikilink")11月発売。384ボイス＋12ドラムキットで、16パート32音ポリ。[GMに対応した](../Page/General_MIDI.md "wikilink")[PCM音源](../Page/PCM音源.md "wikilink")を採用している。10万音記憶可能な[シーケンサーを持つシンセサイザーとして発表された](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")。W7は61key、LC鍵盤、W5は76key、FS鍵盤を採用し、W5のキータッチはW7より重くなっている。鍵盤以外の音源部・内蔵シーケンサー部はW7とW5では同一スペックとなっている。 発売当時のイベント\[1\]では[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")[向谷実](../Page/向谷実.md "wikilink")が演奏し、向谷実がイメージキャラクターという位置づけとなっていた\[2\]。 [浅倉大介](../Page/浅倉大介.md "wikilink")も当時、[accessのライブで使用](../Page/Access_\(音楽ユニット\).md "wikilink")。[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")は最近までライブでも使用していた。 またW7に関しては、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が[華原朋美](../Page/華原朋美.md "wikilink")のデビューシングル『[keep yourself alive](https://ja.wikipedia.org/wiki/keep_yourself_alive "wikilink")』のPVにおいて3台並べて演奏している。（しかしこれ以降、小室はヤマハのシンセをフロントに使わなくなっていった。）
+[1994年](../Page/1994年.md "wikilink")11月発売。384ボイス＋12ドラムキットで、16パート32音ポリ。[GMに対応した](../Page/General_MIDI.md "wikilink")[PCM音源](../Page/PCM音源.md "wikilink")を採用している。10万音記憶可能な[シーケンサーを持つシンセサイザーとして発表された](../Page/ミュージックシーケンサー.md "wikilink")。W7は61key、LC鍵盤、W5は76key、FS鍵盤を採用し、W5のキータッチはW7より重くなっている。鍵盤以外の音源部・内蔵シーケンサー部はW7とW5では同一スペックとなっている。 発売当時のイベント\[1\]では[カシオペアの](../Page/カシオペア_\(バンド\).md "wikilink")[向谷実](../Page/向谷実.md "wikilink")が演奏し、向谷実がイメージキャラクターという位置づけとなっていた\[2\]。 [浅倉大介](../Page/浅倉大介.md "wikilink")も当時、[accessのライブで使用](../Page/Access_\(音楽ユニット\).md "wikilink")。[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[kiyo](https://ja.wikipedia.org/wiki/kiyo "wikilink")は最近までライブでも使用していた。 またW7に関しては、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が[華原朋美](../Page/華原朋美.md "wikilink")のデビューシングル『[keep yourself alive](https://ja.wikipedia.org/wiki/keep_yourself_alive "wikilink")』のPVにおいて3台並べて演奏している。（しかしこれ以降、小室はヤマハのシンセをフロントに使わなくなっていった。）
 
 以前の[SYシリーズや](../Page/ヤマハ・SYシリーズ.md "wikilink")[DXシリーズが音作りを中心とするシンセサイザーに対し](../Page/ヤマハ・DXシリーズ.md "wikilink")、Wシリーズは演奏データ（[MIDI](../Page/MIDI.md "wikilink")データ）作成を中心としたシンセサイザーとして設計されている\[3\]。そのため、SYシリーズではなく、別の型番を立ち上げたものと思われる。記憶音数の10万音という数値は当時のシーケンサー専用機[QY300の](../Page/ヤマハ・QYシリーズ.md "wikilink")5万8千音を遙かに超えるスペックである。作成したMIDIデータごとにエディットした音色を記録できるソングバンクという機能があり、ユーザバンクに入りきらない音色を記憶可能としている。\[4\]
 
@@ -15,7 +15,7 @@
 
 [QS300と操作性は似ている部分があるが](https://ja.wikipedia.org/wiki/ヤマハ・QS300 "wikilink")、各パラメータへのアサイナブルボタンとコントロールスライダー1基が装備されていることで、[QS300より自由度のあるシンセサイズが可能となっている](https://ja.wikipedia.org/wiki/ヤマハ・QS300 "wikilink")。（[QS300はジョグダイアルホイールをくるくる回す程度](https://ja.wikipedia.org/wiki/ヤマハ・QS300 "wikilink")）
 
-シーケンサーに重きを置いた機種のためか、W7 / W5の[モジュール版は発売されず](https://ja.wikipedia.org/wiki/音源モジュール "wikilink")、代わりに同時期は[MU80](../Page/ヤマハ・MUシリーズ.md "wikilink")、[MU5が発売されていた](../Page/ヤマハ・MUシリーズ.md "wikilink")。
+シーケンサーに重きを置いた機種のためか、W7 / W5の[モジュール版は発売されず](../Page/音源モジュール.md "wikilink")、代わりに同時期は[MU80](../Page/ヤマハ・MUシリーズ.md "wikilink")、[MU5が発売されていた](../Page/ヤマハ・MUシリーズ.md "wikilink")。
 
 [向谷実](../Page/向谷実.md "wikilink")は、「値段が安くなって、使い勝手がいいという到達点にきていることは確か」、「コンシューマー向けオールインワン・シンセの目標ができた」、「家中使っていない内蔵シーケンサーだらけだから、オールインワン・シンセではないものがほしい。」、「オペレーティングが独創的。ジョグダイヤルやテンキーが使いやすい。簡単にディスプレイを見ながらボリュームを調整できる」、「デジタルっぽい音ではなく、ファットな音や低音を重視した音もあり、中域に固まりがちなエレピの音も高音まで出ている。エフェクトがボイス単独にアサインできるのが使いやすい」、「Wシリーズはプロ向けのシンセではないだろうが、イベントでテキトーに弾けばいいという機材ではない。目いっぱいシーケンスデータを入力しても、音切れをしなかった。マネージャーから、これからW5 2台でやればいいのではないかと言われた。用途に応じてプロもどんどん使っていけるシンセ」と評している\[5\]。
 

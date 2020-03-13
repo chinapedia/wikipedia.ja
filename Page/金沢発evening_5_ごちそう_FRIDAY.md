@@ -5,9 +5,9 @@
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に『**金沢発evening 5**』と題して放送開始。MROにとっては、テレビ放送では初となる[夕方のローカルワイド番組だった](../Page/夕方ワイド番組.md "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に『**金沢発evening 5**』と題して放送開始。MROにとっては、テレビ放送では初となる[夕方のローカルワイド番組だった](../Page/夕方ワイド番組.md "wikilink")。
 
-2007年4月にリニューアルした際に「ごちそう FRIDAY」のサブタイトルを冠するようになり、以後は「食」を重点的に特集するようになった。同年3月までの放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 16時54分 - 18時55分（途中、[TBSの](../Page/TBSテレビ.md "wikilink")『[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』を放送）だったが、このリニューアルで放送枠が金曜 16時52分 - 17時50分（『JNNイブニング・ニュース』開始前まで）に縮小。18時16分以降は『[MROニュースランナー](https://ja.wikipedia.org/wiki/MROニュースランナー "wikilink")』にあてられた。2008年4月からは、[松村玲郎](https://ja.wikipedia.org/wiki/松村玲郎 "wikilink")以外のキャスターが入れ替わり、放送時間が2分拡大した\[1\]。
+2007年4月にリニューアルした際に「ごちそう FRIDAY」のサブタイトルを冠するようになり、以後は「食」を重点的に特集するようになった。同年3月までの放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 16時54分 - 18時55分（途中、[TBSの](../Page/TBSテレビ.md "wikilink")『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』を放送）だったが、このリニューアルで放送枠が金曜 16時52分 - 17時50分（『JNNイブニング・ニュース』開始前まで）に縮小。18時16分以降は『[MROニュースランナー](https://ja.wikipedia.org/wiki/MROニュースランナー "wikilink")』にあてられた。2008年4月からは、[松村玲郎](../Page/松村玲郎.md "wikilink")以外のキャスターが入れ替わり、放送時間が2分拡大した\[1\]。
 
 番組は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")放送分をもって終了。以来、北陸放送はTBSの『[イブニング・ファイブ](../Page/イブニング・ファイブ.md "wikilink")』を金曜日にもネットしていた。
 
@@ -15,7 +15,7 @@
 
 ### メインキャスター
 
-  - [松村玲郎](https://ja.wikipedia.org/wiki/松村玲郎 "wikilink")
+  - [松村玲郎](../Page/松村玲郎.md "wikilink")
   - [YUICHI](../Page/YUICHI.md "wikilink")
 
 ### サブキャスター

@@ -1,17 +1,17 @@
 > この記事は[General MIDI](https://ja.wikipedia.org/wiki/General_MIDI)から翻訳されています。
 
 
-**General MIDI**（ジェネラル・ミディ）とは、基本的な音色マップと[コントロールチェンジ](https://ja.wikipedia.org/wiki/コントロールチェンジ "wikilink")などを規定した[MIDI](../Page/MIDI.md "wikilink")の統一規格である。略称は**GM**。
+**General MIDI**（ジェネラル・ミディ）とは、基本的な音色マップと[コントロールチェンジ](../Page/コントロールチェンジ.md "wikilink")などを規定した[MIDI](../Page/MIDI.md "wikilink")の統一規格である。略称は**GM**。
 
 ## 概要
 
-GMが制定される前、MIDIの音色マップやコントロールチェンジは[MIDI音源のメーカーや機種毎に違っており](https://ja.wikipedia.org/wiki/音源モジュール "wikilink")、他の製品とは基本的に互換性が無かった。例えば、PC（Program Change）の1番にはA社のMIDI音源ではピアノの音色が割り当ててあるが、B社の製品では弦楽器が割り当てられている、ということが多々あった。これにより、違うメーカーのMIDI音源で制作した曲データは、別のMIDI音源では作者の意図しない演奏をすることがあるという問題があった。こういった互換性の問題を解決するために、[1991年](../Page/1991年.md "wikilink")に日本MIDI評議会（現在の[音楽電子事業協会](https://ja.wikipedia.org/wiki/音楽電子事業協会 "wikilink")）と[MIDI Manufacturers Association](https://ja.wikipedia.org/wiki/MIDI_Manufacturers_Association "wikilink") (MMA) によってGMが制定された。
+GMが制定される前、MIDIの音色マップやコントロールチェンジは[MIDI音源のメーカーや機種毎に違っており](../Page/音源モジュール.md "wikilink")、他の製品とは基本的に互換性が無かった。例えば、PC（Program Change）の1番にはA社のMIDI音源ではピアノの音色が割り当ててあるが、B社の製品では弦楽器が割り当てられている、ということが多々あった。これにより、違うメーカーのMIDI音源で制作した曲データは、別のMIDI音源では作者の意図しない演奏をすることがあるという問題があった。こういった互換性の問題を解決するために、[1991年](../Page/1991年.md "wikilink")に日本MIDI評議会（現在の[音楽電子事業協会](https://ja.wikipedia.org/wiki/音楽電子事業協会 "wikilink")）と[MIDI Manufacturers Association](https://ja.wikipedia.org/wiki/MIDI_Manufacturers_Association "wikilink") (MMA) によってGMが制定された。
 
 GMには、GMマップと呼ばれる音色マップ、コントロールチェンジ、[RPN](https://ja.wikipedia.org/wiki/RPN "wikilink")やGMシステムエクスクルーシブなどが決められており、[同時発音数](https://ja.wikipedia.org/wiki/同時発音数 "wikilink")についても記述がある。
 
-GM以外の規格としては、[ローランド](../Page/ローランド.md "wikilink")が推進している[GSや](https://ja.wikipedia.org/wiki/GSフォーマット "wikilink")[ヤマハ](../Page/ヤマハ.md "wikilink")が推進している[XG](../Page/XGフォーマット.md "wikilink")、そしてXGフォーマットの簡易版 XGLite などがある。ほとんどの規格がGMを拡張した規格であるため、GMからみれば上位互換の規格である。
+GM以外の規格としては、[ローランド](../Page/ローランド.md "wikilink")が推進している[GSや](../Page/GSフォーマット.md "wikilink")[ヤマハ](../Page/ヤマハ.md "wikilink")が推進している[XG](../Page/XGフォーマット.md "wikilink")、そしてXGフォーマットの簡易版 XGLite などがある。ほとんどの規格がGMを拡張した規格であるため、GMからみれば上位互換の規格である。
 
-現在はGMの拡張規格であるGM2 (General MIDI 2) がある。しかし、演奏データのMIDIではなく[MP3](../Page/MP3.md "wikilink")など「音」そのものの配信が手軽にできるようになったこと、MIDIからオーディオへの制作環境の変化、専用音源としてGM規格と互換性のない[SoundFont](../Page/SoundFont.md "wikilink")や[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")の普及、GM1における[SC-55mkIIのような標準音源がないこと](https://ja.wikipedia.org/wiki/ローランド・SCシリーズ "wikilink")、GM2で規定されている項目が、GSやXGより少なく、GS/XGのほうが表現豊かな演奏データを作成できるという等の理由から、。
+現在はGMの拡張規格であるGM2 (General MIDI 2) がある。しかし、演奏データのMIDIではなく[MP3](../Page/MP3.md "wikilink")など「音」そのものの配信が手軽にできるようになったこと、MIDIからオーディオへの制作環境の変化、専用音源としてGM規格と互換性のない[SoundFont](../Page/SoundFont.md "wikilink")や[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")の普及、GM1における[SC-55mkIIのような標準音源がないこと](../Page/ローランド・SCシリーズ.md "wikilink")、GM2で規定されている項目が、GSやXGより少なく、GS/XGのほうが表現豊かな演奏データを作成できるという等の理由から、。
 
 ## 必須最低要件
 
@@ -46,7 +46,7 @@ GM対応機器は、プログラムチェンジとコントロールチェンジ
 | Chromatic Percussion |                                                      |                         |                                                                                      |
 | 9                    | 08                                                   | Celesta                 | [チェレスタ](../Page/チェレスタ.md "wikilink")                                                 |
 | 10                   | 09                                                   | Glockenspiel            | [グロッケンシュピール](../Page/グロッケンシュピール.md "wikilink")                                       |
-| 11                   | 0A                                                   | Musical box             | [オルゴール](https://ja.wikipedia.org/wiki/オルゴール "wikilink")                              |
+| 11                   | 0A                                                   | Musical box             | [オルゴール](../Page/オルゴール.md "wikilink")                                                 |
 | 12                   | 0B                                                   | Vibraphone              | [ヴィブラフォン](../Page/ヴィブラフォン.md "wikilink")                                             |
 | 13                   | 0C                                                   | Marimba                 | [マリンバ](../Page/マリンバ.md "wikilink")                                                   |
 | 14                   | 0D                                                   | Xylophone               | [シロフォン](../Page/シロフォン.md "wikilink")                                                 |
@@ -74,8 +74,8 @@ GM対応機器は、プログラムチェンジとコントロールチェンジ
 | 33                   | 20                                                   | Acoustic Bass           | [アコースティックベース](../Page/アコースティック・ベース.md "wikilink")                                    |
 | 34                   | 21                                                   | Electric Bass (finger)  | [フィンガー・ベース](../Page/エレクトリックベース.md "wikilink")                                        |
 | 35                   | 22                                                   | Electric Bass (pick)    | [ピック・ベース](../Page/エレクトリックベース.md "wikilink")                                          |
-| 36                   | 23                                                   | Fretless Bass           | [フレットレスベース](https://ja.wikipedia.org/wiki/フレットレスベース "wikilink")                      |
-| 37                   | 24                                                   | Slap Bass 1             | [スラップベース](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink") 1                         |
+| 36                   | 23                                                   | Fretless Bass           | [フレットレスベース](../Page/フレットレスベース.md "wikilink")                                         |
+| 37                   | 24                                                   | Slap Bass 1             | [スラップベース](../Page/スラップ奏法.md "wikilink") 1                                            |
 | 38                   | 25                                                   | Slap Bass 2             | スラップベース 2                                                                            |
 | 39                   | 26                                                   | Synth Bass 1            | [シンセベース](../Page/シンセベース.md "wikilink") 1                                             |
 | 40                   | 27                                                   | Synth Bass 2            | シンセベース 2                                                                             |
@@ -125,7 +125,7 @@ GM対応機器は、プログラムチェンジとコントロールチェンジ
 | 79                   | 4E                                                   | Whistle                 | [口笛](../Page/口笛.md "wikilink")                                                       |
 | 80                   | 4F                                                   | Ocarina                 | [オカリナ](../Page/オカリナ.md "wikilink")                                                   |
 | Synth Lead           |                                                      |                         |                                                                                      |
-| 81                   | 50                                                   | Lead 1 (square)         | [正方波](https://ja.wikipedia.org/wiki/矩形波 "wikilink")                                  |
+| 81                   | 50                                                   | Lead 1 (square)         | [正方波](../Page/矩形波.md "wikilink")                                                     |
 | 82                   | 51                                                   | Lead 2 (sawtooth)       | [ノコギリ波](https://ja.wikipedia.org/wiki/ノコギリ波 "wikilink")                              |
 | 83                   | 52                                                   | Lead 3 (calliope)       | [カリオペ](https://ja.wikipedia.org/wiki/カリオペ "wikilink")リード                             |
 | 84                   | 53                                                   | Lead 4 (chiff)          | [チフ](https://ja.wikipedia.org/wiki/チフ "wikilink")リード                                 |
@@ -156,9 +156,9 @@ GM対応機器は、プログラムチェンジとコントロールチェンジ
 | 106                  | 69                                                   | Banjo                   | [バンジョー](../Page/バンジョー.md "wikilink")                                                 |
 | 107                  | 6A                                                   | Shamisen                | [三味線](../Page/三味線.md "wikilink")                                                     |
 | 108                  | 6B                                                   | Koto                    | [琴](../Page/琴.md "wikilink")                                                         |
-| 109                  | 6C                                                   | Kalimba                 | [カリンバ](https://ja.wikipedia.org/wiki/カリンバ "wikilink")                                |
+| 109                  | 6C                                                   | Kalimba                 | [カリンバ](../Page/カリンバ.md "wikilink")                                                   |
 | 110                  | 6D                                                   | Bagpipe                 | [バグパイプ](https://ja.wikipedia.org/wiki/バグパイプ "wikilink")                              |
-| 111                  | 6E                                                   | Fiddle                  | [フィドル](https://ja.wikipedia.org/wiki/フィドル "wikilink")                                |
+| 111                  | 6E                                                   | Fiddle                  | [フィドル](../Page/フィドル.md "wikilink")                                                   |
 | 112                  | 6F                                                   | Shanai                  | [シャハナーイ](https://ja.wikipedia.org/wiki/シャハナーイ "wikilink")                            |
 | Percussive           |                                                      |                         |                                                                                      |
 | 113                  | 70                                                   | Tinkle Bell             | [ティンクルベル](https://ja.wikipedia.org/wiki/ティンクルベル "wikilink")                          |
@@ -215,7 +215,7 @@ GM対応機器は、プログラムチェンジとコントロールチェンジ
 | 62  | 3E                                                    | Mute High Conga | ミュートハイ[コンガ](../Page/コンガ.md "wikilink")                             |
 | 63  | 3F                                                    | Open High Conga | オープンハイコンガ                                                          |
 | 64  | 40                                                    | Low Conga       | ローコンガ                                                              |
-| 65  | 41                                                    | High Timbale    | ハイ[ティンバル](https://ja.wikipedia.org/wiki/ティンバレス "wikilink")         |
+| 65  | 41                                                    | High Timbale    | ハイ[ティンバル](../Page/ティンバレス.md "wikilink")                            |
 | 66  | 42                                                    | Low Timbale     | ローティンバル                                                            |
 | 67  | 43                                                    | High Agogo      | ハイ[アゴゴ](../Page/アゴゴ.md "wikilink")                                 |
 | 68  | 44                                                    | Low Agogo       | ローアゴゴ                                                              |
@@ -237,19 +237,19 @@ GM対応機器は、プログラムチェンジとコントロールチェンジ
 
 GMは再生時に受信すべきいくつかのコントローラを規定している[1](http://www.indiana.edu/~emusic/cntrlnumb.html)[2](http://www.midisite.com/info/synth/Control.htm)。
 
-| No. | 機能                                                                             |
-| --- | ------------------------------------------------------------------------------ |
-| 1   | モジュレーション (Modulation)                                                          |
-| 6   | データエントリ [MSB](https://ja.wikipedia.org/wiki/最上位ビット "wikilink") (DataEntryMSB)  |
-| 7   | ボリューム (Part Level)                                                             |
-| 10  | パンポット (Part Panpot)                                                            |
-| 11  | エクスプレッション (Expression)                                                         |
-| 38  | データ エントリ [LSB](https://ja.wikipedia.org/wiki/最下位ビット "wikilink") (DataEntryLSB) |
-| 64  | [サステイン](../Page/サステイン.md "wikilink") (Hold1)                                   |
-| 100 | RPN [LSB](https://ja.wikipedia.org/wiki/最下位ビット "wikilink")                     |
-| 101 | RPN [MSB](https://ja.wikipedia.org/wiki/最上位ビット "wikilink")                     |
-| 120 | 消音 (AllSoundOff)                                                               |
-| 121 | リセット・オールコントロール (ResetAllControl)                                               |
+| No. | 機能                                                                            |
+| --- | ----------------------------------------------------------------------------- |
+| 1   | モジュレーション (Modulation)                                                         |
+| 6   | データエントリ [MSB](https://ja.wikipedia.org/wiki/最上位ビット "wikilink") (DataEntryMSB) |
+| 7   | ボリューム (Part Level)                                                            |
+| 10  | パンポット (Part Panpot)                                                           |
+| 11  | エクスプレッション (Expression)                                                        |
+| 38  | データ エントリ [LSB](../Page/最下位ビット.md "wikilink") (DataEntryLSB)                   |
+| 64  | [サステイン](../Page/サステイン.md "wikilink") (Hold1)                                  |
+| 100 | RPN [LSB](../Page/最下位ビット.md "wikilink")                                       |
+| 101 | RPN [MSB](https://ja.wikipedia.org/wiki/最上位ビット "wikilink")                    |
+| 120 | 消音 (AllSoundOff)                                                              |
+| 121 | リセット・オールコントロール (ResetAllControl)                                              |
 
 ### RPN
 

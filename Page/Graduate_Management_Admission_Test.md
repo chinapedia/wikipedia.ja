@@ -19,11 +19,11 @@
 
 ## その他
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月23日、[富士通](../Page/富士通.md "wikilink")製の「手のひら静脈認証装置(PalmSecure)」を備えて[替え玉受験](https://ja.wikipedia.org/wiki/替え玉受験 "wikilink")を防止することが発表された。同年8月にまず[インド](../Page/インド.md "wikilink")と[韓国に導入され](../Page/大韓民国.md "wikilink")、秋までに[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2009年](../Page/2009年.md "wikilink")5月までに107ヵ国における400以上の試験センターにおいて導入を終え、数百万人以上の受験者がこれによって本人認証されるようになった。\[1\]
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月23日、[富士通](../Page/富士通.md "wikilink")製の「手のひら静脈認証装置(PalmSecure)」を備えて[替え玉受験](../Page/替え玉受験.md "wikilink")を防止することが発表された。同年8月にまず[インド](../Page/インド.md "wikilink")と[韓国に導入され](../Page/大韓民国.md "wikilink")、秋までに[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2009年](../Page/2009年.md "wikilink")5月までに107ヵ国における400以上の試験センターにおいて導入を終え、数百万人以上の受験者がこれによって本人認証されるようになった。\[1\]
 
 ## 関連項目
 
-  - [GRE](https://ja.wikipedia.org/wiki/GRE "wikilink")
+  - [GRE](../Page/GRE.md "wikilink")
 
 ## 脚注
 

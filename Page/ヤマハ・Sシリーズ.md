@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ピアノ](../Page/ピアノ.md "wikilink")サウンドに特化したシンセサイザーとして製造されている。[コルグ・TRINITYシリーズ](../Page/コルグ・TRINITYシリーズ.md "wikilink")以降、シンセサイザーの筐体の色はシルバーが多くなっていったにもかかわらず、このSシリーズはS03SL以外のモデルは全てブラックを採用している。[シーケンサーはプレイバック専用のものを装備している機種もあるが](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、原則的にはついておらず、伴奏データの作成は[PC上で行うようになっている](../Page/パーソナルコンピュータ.md "wikilink")。また、プロ向けに開発され、[プラグインボード装着可能なS](https://ja.wikipedia.org/wiki/Modular_Synthesis_Plug-in_System "wikilink")80、S30の2機種のみを狭義の*Sシリーズ*とし、[ヤマハ・MOTIFシリーズ](../Page/ヤマハ・MOTIFシリーズ.md "wikilink")をベースに作成されたS90とS90 ES、S70 XS、S90 XSを*S90シリーズ*、[DTM用で](../Page/デスクトップミュージック.md "wikilink")、プラグインボード装着不可のS03、S03s、S03BL、S03SL、S08を*S0シリーズ*として別シリーズとして取り扱うこともある。
+[ピアノ](../Page/ピアノ.md "wikilink")サウンドに特化したシンセサイザーとして製造されている。[コルグ・TRINITYシリーズ](../Page/コルグ・TRINITYシリーズ.md "wikilink")以降、シンセサイザーの筐体の色はシルバーが多くなっていったにもかかわらず、このSシリーズはS03SL以外のモデルは全てブラックを採用している。[シーケンサーはプレイバック専用のものを装備している機種もあるが](../Page/ミュージックシーケンサー.md "wikilink")、原則的にはついておらず、伴奏データの作成は[PC上で行うようになっている](../Page/パーソナルコンピュータ.md "wikilink")。また、プロ向けに開発され、[プラグインボード装着可能なS](../Page/Modular_Synthesis_Plug-in_System.md "wikilink")80、S30の2機種のみを狭義の*Sシリーズ*とし、[ヤマハ・MOTIFシリーズ](../Page/ヤマハ・MOTIFシリーズ.md "wikilink")をベースに作成されたS90とS90 ES、S70 XS、S90 XSを*S90シリーズ*、[DTM用で](../Page/デスクトップミュージック.md "wikilink")、プラグインボード装着不可のS03、S03s、S03BL、S03SL、S08を*S0シリーズ*として別シリーズとして取り扱うこともある。
 
 ## シリーズのモデル
 
@@ -26,7 +26,7 @@
   - S03BL
     [2004年](../Page/2004年.md "wikilink")発売。61key。S03SLに併せて、従来の黒いS03も付属[CD-ROM](../Page/CD-ROM.md "wikilink")の添付を2004年から打ち切り、型番を変更したモデル。
   - S90 ES
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")発売。S90の後継機種。[MOTIF ESをベースとしている](../Page/ヤマハ・MOTIFシリーズ.md "wikilink")。88鍵バランスドハンマー鍵盤。[Modular Synthesis Plug-in Systemに対応した](https://ja.wikipedia.org/wiki/Modular_Synthesis_Plug-in_System "wikilink")3基の拡張スロット。波形メモリは228MB、768ノーマルボイス＋65ドラムキット内蔵。3段階のベロシティスイッチを搭載。ベロシティの強弱によって 1キーあたり3種類のサンプリングウェーブ（ステレオサンプリングの音色では6種類のサンプリングウェーブ）が自動的に切り替わって、タッチによるダイナミックかつ微妙な音色変化を可能としている。[グランドピアノ](https://ja.wikipedia.org/wiki/グランドピアノ "wikilink")独特の響きを再現するダンパーレゾナンスという新たなエフェクトを搭載し、ペダルを深く踏み込むことで音を長くのばし、浅く踏み込むことで短く伸ばすなど、音の減衰時間をリアルタイムにコントロールできるハーフダンパー奏法も可能としている。
+    [2005年](../Page/2005年.md "wikilink")発売。S90の後継機種。[MOTIF ESをベースとしている](../Page/ヤマハ・MOTIFシリーズ.md "wikilink")。88鍵バランスドハンマー鍵盤。[Modular Synthesis Plug-in Systemに対応した](../Page/Modular_Synthesis_Plug-in_System.md "wikilink")3基の拡張スロット。波形メモリは228MB、768ノーマルボイス＋65ドラムキット内蔵。3段階のベロシティスイッチを搭載。ベロシティの強弱によって 1キーあたり3種類のサンプリングウェーブ（ステレオサンプリングの音色では6種類のサンプリングウェーブ）が自動的に切り替わって、タッチによるダイナミックかつ微妙な音色変化を可能としている。[グランドピアノ](../Page/グランドピアノ.md "wikilink")独特の響きを再現するダンパーレゾナンスという新たなエフェクトを搭載し、ペダルを深く踏み込むことで音を長くのばし、浅く踏み込むことで短く伸ばすなど、音の減衰時間をリアルタイムにコントロールできるハーフダンパー奏法も可能としている。
   - S70 XS / S90 XS
     [2009年](../Page/2009年.md "wikilink")発売。S90ESの後継機種。S70 XSが76鍵、S90 XSが88鍵で両方ともバランスドハンマー鍵盤。[MOTIF XS直系の音色が搭載されている](../Page/ヤマハ・MOTIFシリーズ.md "wikilink")。波形メモリは456MBに倍増し、そのうち142MB分のピアノ音色はこの機種で新たにサンプリングされたものが使用されている。
 
@@ -35,6 +35,6 @@
   - [ヤマハ・MOTIFシリーズ](../Page/ヤマハ・MOTIFシリーズ.md "wikilink")
   - [ヤマハ・CSシリーズ](../Page/ヤマハ・CSシリーズ.md "wikilink")
   - [ヤマハ・MUシリーズ](../Page/ヤマハ・MUシリーズ.md "wikilink")
-  - [Modular Synthesis Plug-in System](https://ja.wikipedia.org/wiki/Modular_Synthesis_Plug-in_System "wikilink")
+  - [Modular Synthesis Plug-in System](../Page/Modular_Synthesis_Plug-in_System.md "wikilink")
 
 [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:ヤマハの製品](https://ja.wikipedia.org/wiki/Category:ヤマハの製品 "wikilink")

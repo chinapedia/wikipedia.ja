@@ -7,7 +7,7 @@
 
 [シンセサイザー](../Page/シンセサイザー.md "wikilink")の各モジュールに対する変調用の信号源としてLFOはよく使われる。LFOはあくまでも超低域の周波数を[発振](https://ja.wikipedia.org/wiki/発振 "wikilink")するだけなので、これだけでは何の役にも立たない。LFOで発振された低周波信号は必ず他のモジュールに入力されて使われる。この場合の入力や出力、信号といった概念は論理的であるか物理的であるかを問わない。
 
-発振される波形も[正弦波](../Page/正弦波.md "wikilink")、[三角波](https://ja.wikipedia.org/wiki/三角波_\(波形\) "wikilink")、[矩形波](https://ja.wikipedia.org/wiki/矩形波 "wikilink")など数種類がある。
+発振される波形も[正弦波](../Page/正弦波.md "wikilink")、[三角波](https://ja.wikipedia.org/wiki/三角波_\(波形\) "wikilink")、[矩形波](../Page/矩形波.md "wikilink")など数種類がある。
 
 代表的な用途を以下に挙げるが、これ以外にも発想しだいで無限の用途がある。
 

@@ -7,7 +7,7 @@
 
 [2003年](../Page/2003年.md "wikilink")春に、「[21世紀](../Page/21世紀.md "wikilink")を代表する女性ボーカルのバンドを作り出すこと」「日本中から最もきれいな声を探しだす」というテーマで[プロジェクト](../Page/プロジェクト.md "wikilink")が結成され出来たグループである。 グループ名の由来は「I LOVE MUSIC」という一文の“I”と“M”をとって、それを逆にしたことからである（ボーカルのMaikaの略という説も有る）。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月2日](../Page/2月2日.md "wikilink")に、『[未来の地図](../Page/未来の地図.md "wikilink")』でデビューした。[2006年](../Page/2006年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から12ヶ月連続音楽配信と銘打って過去のアーティストのカバー曲をネット配信する。
+[2005年](../Page/2005年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に、『[未来の地図](../Page/未来の地図.md "wikilink")』でデビューした。[2006年](../Page/2006年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")から12ヶ月連続音楽配信と銘打って過去のアーティストのカバー曲をネット配信する。
 
 [2007年](../Page/2007年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")には、初の[ファンクラブ](../Page/ファンクラブ.md "wikilink")[イベント](../Page/イベント.md "wikilink")I LOVE Music♪〜パンニハムハサムニダ開催。
 
@@ -28,7 +28,7 @@
 
 ### シングル
 
-1.  「[未来の地図](../Page/未来の地図.md "wikilink")」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月2日](../Page/2月2日.md "wikilink")発売）
+1.  「[未来の地図](../Page/未来の地図.md "wikilink")」（[2005年](../Page/2005年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")発売）
       -
         初回版と通常版でジャケットのデザインが違う。
 2.  「[オレンジ色のココロ](https://ja.wikipedia.org/wiki/オレンジ色のココロ "wikilink")」（2005年[6月22日](../Page/6月22日.md "wikilink")発売）
@@ -40,7 +40,7 @@
         初回版と通常版で歌詞カードの形（前者はポスター型、後者は普通）が違う。「サンセット」の作詞・作曲は同じ[プロダクション](https://ja.wikipedia.org/wiki/プロダクション "wikilink")の[川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")。
         主なタイアップは、以下の通りである。
           - [サルヂエ](../Page/サルヂエ.md "wikilink")（[中京テレビ制作](../Page/中京テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")29局ネット）[9月](../Page/9月.md "wikilink")度エンディング
-          - [女優魂](https://ja.wikipedia.org/wiki/女優魂 "wikilink")（中京テレビ制作・日本テレビ系29局ネット）9月度エンディング
+          - [女優魂](../Page/女優魂.md "wikilink")（中京テレビ制作・日本テレビ系29局ネット）9月度エンディング
           - [三宅裕司のドシロウト](../Page/三宅裕司のドシロウト.md "wikilink")（[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")制作・日本テレビ系28局ネット）9月度エンディングなど10番組。
         2005年9月の間は、月曜日23:00から[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[あいのり](../Page/あいのり.md "wikilink")』で「[未来の地図](../Page/未来の地図.md "wikilink")」、23:40から中京テレビ・日本テレビ系の『サルヂエ』で「サンセット」が放映された。
 4.  「[Give Me Up](../Page/Give_Me_Up.md "wikilink")」（[2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")）
@@ -55,7 +55,7 @@
         タイアップは、[PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[シャイニング・フォース イクサ](../Page/シャイニング・フォース_イクサ.md "wikilink")』主題歌、エンディング曲である。『シャイニング・フォース イクサ』のキャラが登場する、『[プロジェクト クロスゾーン](https://ja.wikipedia.org/wiki/プロジェクト_クロスゾーン "wikilink")』に主題歌の『WORLD'S LOVE』がボーカル無しでリメイクされ使用されている。
 7.  「BLUE☆STAR」（2007年[4月11日](../Page/4月11日.md "wikilink")発売）
       -
-        タイアップは、オンラインゲーム『アミーゴ・アミーガ』のCMソングと、テレビ神奈川『[新車ファイル クルマのツボ](https://ja.wikipedia.org/wiki/新車ファイル_クルマのツボ "wikilink")』のエンディング曲である。
+        タイアップは、オンラインゲーム『アミーゴ・アミーガ』のCMソングと、テレビ神奈川『[新車ファイル クルマのツボ](../Page/新車ファイル_クルマのツボ.md "wikilink")』のエンディング曲である。
 8.  「Still･･･」（2007年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")発売）
       -
         タイアップは、北海道ローカルCM『[4プラクリスマス](../Page/4丁目プラザ.md "wikilink")10thバーゲン』のCMソングである。また、カップリング曲の「Good bye little girl」は、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の音楽ゲーム[jubeat](https://ja.wikipedia.org/wiki/jubeat "wikilink")に収録された。
@@ -88,7 +88,7 @@
 
 1.  「80's×Mi」([2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")発売　全12曲収録)
       -
-        「[翼の折れたエンジェル](../Page/翼の折れたエンジェル.md "wikilink")」（[中村あゆみ](../Page/中村あゆみ.md "wikilink")） / 「[ふられ気分でRock'n' Roll](https://ja.wikipedia.org/wiki/ふられ気分でRock'n'_Roll "wikilink")」（[TOM★CAT](../Page/TOM★CAT.md "wikilink")） / 「[CHA-CHA-CHA](../Page/CHA-CHA-CHA.md "wikilink")」（[石井明美](https://ja.wikipedia.org/wiki/石井明美 "wikilink")） / 「[フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(レベッカの曲\) "wikilink")」（「[レベッカ](https://ja.wikipedia.org/wiki/レベッカ_\(バンド\) "wikilink")」） / 「[Return to Myself](../Page/Return_to_Myself_〜しない、しない、ナツ。.md "wikilink")」（[浜田麻里](https://ja.wikipedia.org/wiki/浜田麻里 "wikilink")） / 「ボヘミアン」（[葛城ユキ](../Page/葛城ユキ.md "wikilink")） / 「CITY CONNECTION」（[エマニエル坊や](../Page/エマニエル・ルイス.md "wikilink")） / 「[C-Girl](../Page/C-Girl.md "wikilink")」（[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")） / 「[SHOW ME](https://ja.wikipedia.org/wiki/SHOW_ME "wikilink")」（[森川由加里](../Page/森川由加里.md "wikilink")） / 「[赤道小町・ドキッ](https://ja.wikipedia.org/wiki/赤道小町ドキッ "wikilink")」（[山下久美子](../Page/山下久美子.md "wikilink")） / 「[HOLD ON ME](https://ja.wikipedia.org/wiki/Hold_On_Me "wikilink")」（[小比類巻かほる](https://ja.wikipedia.org/wiki/小比類巻かほる "wikilink")） / 「[Give Me Up](../Page/Give_Me_Up.md "wikilink")(Album Version）」（[BaBe](../Page/BaBe.md "wikilink")）
+        「[翼の折れたエンジェル](../Page/翼の折れたエンジェル.md "wikilink")」（[中村あゆみ](../Page/中村あゆみ.md "wikilink")） / 「[ふられ気分でRock'n' Roll](https://ja.wikipedia.org/wiki/ふられ気分でRock'n'_Roll "wikilink")」（[TOM★CAT](../Page/TOM★CAT.md "wikilink")） / 「[CHA-CHA-CHA](../Page/CHA-CHA-CHA.md "wikilink")」（[石井明美](../Page/石井明美.md "wikilink")） / 「[フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(レベッカの曲\) "wikilink")」（「[レベッカ](../Page/レベッカ_\(バンド\).md "wikilink")」） / 「[Return to Myself](../Page/Return_to_Myself_〜しない、しない、ナツ。.md "wikilink")」（[浜田麻里](../Page/浜田麻里.md "wikilink")） / 「ボヘミアン」（[葛城ユキ](../Page/葛城ユキ.md "wikilink")） / 「CITY CONNECTION」（[エマニエル坊や](../Page/エマニエル・ルイス.md "wikilink")） / 「[C-Girl](../Page/C-Girl.md "wikilink")」（[浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")） / 「[SHOW ME](https://ja.wikipedia.org/wiki/SHOW_ME "wikilink")」（[森川由加里](../Page/森川由加里.md "wikilink")） / 「[赤道小町・ドキッ](https://ja.wikipedia.org/wiki/赤道小町ドキッ "wikilink")」（[山下久美子](../Page/山下久美子.md "wikilink")） / 「[HOLD ON ME](https://ja.wikipedia.org/wiki/Hold_On_Me "wikilink")」（[小比類巻かほる](../Page/小比類巻かほる.md "wikilink")） / 「[Give Me Up](../Page/Give_Me_Up.md "wikilink")(Album Version）」（[BaBe](../Page/BaBe.md "wikilink")）
 
 ### ベストアルバム
 
@@ -106,25 +106,25 @@
 
 ## 学園祭出演
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月20日](../Page/9月20日.md "wikilink")に愛知県の私立中高一貫校[滝中学校・高等学校](https://ja.wikipedia.org/wiki/滝中学校・高等学校 "wikilink")で初の学園祭ライブを実現している。その他各地の高校や大学の学園祭にライブを行なっている。
+  - [2005年](../Page/2005年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")に愛知県の私立中高一貫校[滝中学校・高等学校](../Page/滝中学校・高等学校.md "wikilink")で初の学園祭ライブを実現している。その他各地の高校や大学の学園祭にライブを行なっている。
   - [2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")に埼玉県の私立[東京成徳大学深谷高等学校でライブを行なっている](../Page/東京成徳大学深谷中学校・高等学校.md "wikilink")。
 
 ## テレビ番組
 
   - [24時間テレビ 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")28（2005年）
-      - [8月27日](../Page/8月27日.md "wikilink")、日本テレビ系列の[中京テレビ](../Page/中京テレビ放送.md "wikilink")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")）24時間テレビの久屋大通りもちの木広場特設会場にて13:50にMiが登場。[未来の地図](../Page/未来の地図.md "wikilink")、[オレンジ色のココロ](https://ja.wikipedia.org/wiki/オレンジ色のココロ "wikilink")、そしてサンセットを歌い上げた。『サンセット』の曲紹介時にMaikaからこの曲がこの放送局制作[サルヂエ](../Page/サルヂエ.md "wikilink")と[女優魂](https://ja.wikipedia.org/wiki/女優魂 "wikilink")の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月](../Page/9月.md "wikilink")期のテーマ曲になる事が発表された。
+      - [8月27日](../Page/8月27日.md "wikilink")、日本テレビ系列の[中京テレビ](../Page/中京テレビ放送.md "wikilink")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")）24時間テレビの久屋大通りもちの木広場特設会場にて13:50にMiが登場。[未来の地図](../Page/未来の地図.md "wikilink")、[オレンジ色のココロ](https://ja.wikipedia.org/wiki/オレンジ色のココロ "wikilink")、そしてサンセットを歌い上げた。『サンセット』の曲紹介時にMaikaからこの曲がこの放送局制作[サルヂエ](../Page/サルヂエ.md "wikilink")と[女優魂](../Page/女優魂.md "wikilink")の[2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink")期のテーマ曲になる事が発表された。
       - [8月28日](../Page/8月28日.md "wikilink")、同じく日本テレビ系列の[西日本放送](../Page/西日本放送.md "wikilink")（[香川県](../Page/香川県.md "wikilink")）主催でレオマフェスティバルパーク特設ステージに登場。MiスペシャルLIVEやMiチャリティーオークションなどに参加した。
   - 24時間テレビ 「愛は地球を救う」29（2006年）
       - 前年に引き続き[8月26日](../Page/8月26日.md "wikilink")、日本テレビ系列の中京テレビに久屋大通りもちの木広場特設会場にて19:15（実際のタイムスケジュールは19:40）にMiが登場。未来の地図・それぞれの夢・君だけを･･･を歌った。
       - サプライズゲストとして同じ事務所の[川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")が登場。『大切な約束』（[2006年](../Page/2006年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")発売）を歌った。
   - [熱血テレビ](../Page/熱血テレビ.md "wikilink") （生出演）
-  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink") （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月2日](../Page/9月2日.md "wikilink")深夜放送）
+  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink") （[2005年](../Page/2005年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")深夜放送）
   - [世界仰天ニュース](https://ja.wikipedia.org/wiki/世界仰天ニュース "wikilink") ([2006年](../Page/2006年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")21:00 - )　（Maikaのみ出演）
   - [筑紫哲也 NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")（金曜深夜便） ([2007年](../Page/2007年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")24:15 - )　（Mi活動休止までの道のりをドキュメント）
 
 ## ラジオ番組
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")以前
+  - [2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")以前
       - Mi3（Yuriのみ出演）（AIR-G' 2005年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - [4月24日](../Page/4月24日.md "wikilink")）
   - 2005年10月から。
       - Mi 未来の地図（AMラジオ9局ネット。[山形放送](../Page/山形放送.md "wikilink")、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[岐阜ラジオ](https://ja.wikipedia.org/wiki/AM岐阜ラジオ "wikilink")、[ラジオ関西](../Page/ラジオ関西.md "wikilink")、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")、[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）

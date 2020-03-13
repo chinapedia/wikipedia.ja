@@ -7,7 +7,7 @@
 
 ## 概要
 
-主に[CNC](https://ja.wikipedia.org/wiki/CNC "wikilink")[旋盤](../Page/旋盤.md "wikilink")や[マシニングセンタ](../Page/マシニングセンタ.md "wikilink")の、ともに中型機を手掛けている。工作機械製造会社としての歴史は古くないが、機械工作の主流が[数値制御](../Page/NC加工.md "wikilink")（NC）へと移って以降急伸した。現在は日本では、[奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[伊賀市](https://ja.wikipedia.org/wiki/伊賀市 "wikilink")の2箇所に、海外では[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（[デービス](https://ja.wikipedia.org/wiki/デービス郡_\(ユタ州\) "wikilink")）、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")（[天津](../Page/天津市.md "wikilink")）、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")（フロンテン、ゼーバッハ、ビーレフェルト、イダールオーバーシュタイン）、[ポーランド](../Page/ポーランド.md "wikilink")（プレシェフ）、[イタリア](../Page/イタリア.md "wikilink")（トルトナ、ベルガモ）、[ロシア](../Page/ロシア.md "wikilink")（ウリヤノフスク）の10箇所に構えている。
+主に[CNC](https://ja.wikipedia.org/wiki/CNC "wikilink")[旋盤](../Page/旋盤.md "wikilink")や[マシニングセンタ](../Page/マシニングセンタ.md "wikilink")の、ともに中型機を手掛けている。工作機械製造会社としての歴史は古くないが、機械工作の主流が[数値制御](../Page/NC加工.md "wikilink")（NC）へと移って以降急伸した。現在は日本では、[奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[伊賀市](https://ja.wikipedia.org/wiki/伊賀市 "wikilink")の2箇所に、海外では[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（[デービス](https://ja.wikipedia.org/wiki/デービス郡_\(ユタ州\) "wikilink")）、[中国](../Page/中国.md "wikilink")（[天津](../Page/天津市.md "wikilink")）、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")（フロンテン、ゼーバッハ、ビーレフェルト、イダールオーバーシュタイン）、[ポーランド](../Page/ポーランド.md "wikilink")（プレシェフ）、[イタリア](../Page/イタリア.md "wikilink")（トルトナ、ベルガモ）、[ロシア](../Page/ロシア.md "wikilink")（ウリヤノフスク）の10箇所に構えている。
 
 ## 歴史
 
@@ -17,7 +17,7 @@
 
 [2004年](../Page/2004年.md "wikilink")（平成16年）10月には、経営企画、営業などの本社機能を大和郡山から[名古屋へと移転した](../Page/名古屋市.md "wikilink")。本社機能移転の理由としては、1）交通至便な[名古屋駅](../Page/名古屋駅.md "wikilink")前という立地は、全国各地からのアクセスが容易であり、千葉事業所からのアクセスも良いこと、2）主力の伊賀事業所から近く、ビジネス上も断然有利である上、伊賀事業所が名古屋と奈良事業所のほぼ中間に位置し、連携がスムーズに行えること、3）かねてから取引先が経済的に非常に好調な[東海地方](../Page/東海地方.md "wikilink")に多く、その東海地方には[自動車](../Page/自動車.md "wikilink")、[セラミック](https://ja.wikipedia.org/wiki/セラミック "wikilink")、[電子](https://ja.wikipedia.org/wiki/電子 "wikilink")、[航空機](../Page/航空機.md "wikilink")部品メーカーなどの納入先や鋳物などの[サプライヤー](https://ja.wikipedia.org/wiki/サプライヤー "wikilink")が多数存在しているため、さらなる成長の可能性、将来性が大きく期待できることなどが挙げられる。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）2月には、伊賀事業所付近に[三重交通](../Page/三重交通.md "wikilink")[高速バス](../Page/高速バス.md "wikilink")の[バス停留所](../Page/バス停留所.md "wikilink")（御代インター森精機前）が新設され、名古屋駅（[名鉄バスセンター](../Page/名鉄バスセンター.md "wikilink")）から72分と、伊賀事業所への[公共交通でのアクセスが非常に良くなったほか](../Page/公共交通機関.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[常滑市](../Page/常滑市.md "wikilink")に[中部国際空港](../Page/中部国際空港.md "wikilink")が開港し、同空港から本社まで車で約35分、伊賀事業所まで車で約75分と便利になった。
+[2005年](../Page/2005年.md "wikilink")（平成17年）2月には、伊賀事業所付近に[三重交通](../Page/三重交通.md "wikilink")[高速バス](../Page/高速バス.md "wikilink")の[バス停留所](../Page/バス停留所.md "wikilink")（御代インター森精機前）が新設され、名古屋駅（[名鉄バスセンター](../Page/名鉄バスセンター.md "wikilink")）から72分と、伊賀事業所への[公共交通でのアクセスが非常に良くなったほか](../Page/公共交通機関.md "wikilink")、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[常滑市](../Page/常滑市.md "wikilink")に[中部国際空港](../Page/中部国際空港.md "wikilink")が開港し、同空港から本社まで車で約35分、伊賀事業所まで車で約75分と便利になった。
 
 2005年（平成17年）4月には、CNC旋盤における「ビルトインモータ・タレット」の開発において、2004年度[日本機械学会](../Page/日本機械学会.md "wikilink")賞（技術）を受賞した。[2009年](../Page/2009年.md "wikilink")（平成21年）3月、ヨーロッパ最大手の工作機械メーカー、ギルデマイスターグループ（DMGブランド）と資本提携。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）3月末には、[ソニー](../Page/ソニー.md "wikilink")の子会社である[ソニーマニュファクチュアリングシステムズ](../Page/ソニーマニュファクチュアリングシステムズ.md "wikilink")から[計測機器事業を買収し](../Page/計測機器の一覧.md "wikilink")、株式会社マグネスケールを設立した\[2\]。
 
@@ -100,7 +100,7 @@
   - [FIA 世界耐久選手権](https://ja.wikipedia.org/wiki/FIA_世界耐久選手権 "wikilink") (WEC) - 2014年より[ポルシェ・919ハイブリッド](https://ja.wikipedia.org/wiki/ポルシェ・919ハイブリッド "wikilink")にスポンサードを行っていた\[9\]。
   - [フォーミュラ1](../Page/フォーミュラ1.md "wikilink") (F1) - 2004年より[レッドブル・レーシング](../Page/レッドブル・レーシング.md "wikilink")にスポンサードを行っている\[10\]。
   - [世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink") (WRC) - 2017年より[トヨタ・ヤリスWRC](https://ja.wikipedia.org/wiki/トヨタ・ヤリスWRC "wikilink")にスポンサードを行っている\[11\]。
-  - [SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")・[スーパーフォーミュラ](https://ja.wikipedia.org/wiki/スーパーフォーミュラ "wikilink") - 2018年より[チーム ルマンにスポンサードを行っている](https://ja.wikipedia.org/wiki/ルマン_\(企業\) "wikilink")。
+  - [SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")・[スーパーフォーミュラ](https://ja.wikipedia.org/wiki/スーパーフォーミュラ "wikilink") - 2018年より[チーム ルマンにスポンサードを行っている](../Page/ルマン_\(企業\).md "wikilink")。
 
 ### サッカー
 

@@ -5,7 +5,7 @@
 
 なお、第15代目（〜2015年9月）までは[文化放送](../Page/文化放送.md "wikilink")で放送されていた。
 
-放送内容は[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")の携帯コンテンツ『[アニメロミックス](https://ja.wikipedia.org/wiki/アニメロミックス "wikilink")』と連動している。
+放送内容は[ドワンゴ](../Page/ドワンゴ.md "wikilink")の携帯コンテンツ『[アニメロミックス](https://ja.wikipedia.org/wiki/アニメロミックス "wikilink")』と連動している。
 
 [2007年](../Page/2007年.md "wikilink")4月から[超\!放送局](../Page/超!放送局.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月以降は[ニコニコアニメチャンネル](https://ja.wikipedia.org/wiki/ニコニコアニメチャンネル "wikilink")）で配信。
 
@@ -61,7 +61,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月8日.md" title="wikilink">10月8日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月8日.md" title="wikilink">10月8日</a></p></td>
 <td><p>2006年<a href="https://ja.wikipedia.org/wiki/10月28日" title="wikilink">10月28日</a></p></td>
 <td><p>13</p></td>
 <td><p><a href="../Page/阿部玲子.md" title="wikilink">阿部玲子</a></p></td>
@@ -120,7 +120,7 @@
 <td><p>2011年<a href="../Page/10月9日.md" title="wikilink">10月9日</a></p></td>
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></td>
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KENN" title="wikilink">KENN</a></p></td>
+<td><p><a href="../Page/KENN.md" title="wikilink">KENN</a></p></td>
 <td><p><a href="../Page/岡本信彦.md" title="wikilink">岡本信彦</a></p></td>
 </tr>
 <tr class="odd">
@@ -136,7 +136,7 @@
 <td><p>2012年<a href="../Page/10月6日.md" title="wikilink">10月6日</a></p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/12月29日.md" title="wikilink">12月29日</a></p></td>
 <td><p>15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮野真守" title="wikilink">宮野真守</a></p></td>
+<td><p><a href="../Page/宮野真守.md" title="wikilink">宮野真守</a></p></td>
 <td><p>宮野真守のRADIOアニメロミックス 〜STARRING!〜</p></td>
 </tr>
 <tr class="odd">
@@ -198,7 +198,7 @@
 
 「ラジアニfeaturing.新谷良子+後藤邑子」として、番組マキシシングルCD「憂鬱なバンビ〜Summer Girls〜」をリリースした。
 
-ゲストには[奥井雅美](../Page/奥井雅美.md "wikilink")（＃8）、[近江知永](https://ja.wikipedia.org/wiki/近江知永 "wikilink")（＃11）、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")（＃12）。
+ゲストには[奥井雅美](../Page/奥井雅美.md "wikilink")（＃8）、[近江知永](../Page/近江知永.md "wikilink")（＃11）、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")（＃12）。
 
 ### 平野綾
 

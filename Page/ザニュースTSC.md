@@ -1,7 +1,7 @@
 > この記事は[TSC](https://ja.wikipedia.org/wiki/TSC)から翻訳されています。
 
 
-『**ザニュースTSC**』（ザニュース ティーエスシー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビせとうち](../Page/テレビせとうち.md "wikilink")で月曜 - 金曜の夕方に放送されていた[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
+『**ザニュースTSC**』（ザニュース ティーエスシー）は、[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[テレビせとうち](../Page/テレビせとうち.md "wikilink")で月曜 - 金曜の夕方に放送されていた[ローカル](../Page/ローカル番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。
 
 ## 概要
 

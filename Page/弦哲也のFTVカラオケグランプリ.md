@@ -11,13 +11,13 @@
 
 放送開始当初は、[はまつが](https://ja.wikipedia.org/wiki/ホテルハマツ "wikilink")[冠スポンサーに就き](../Page/一社提供.md "wikilink")、**はまつアワー**の番組として放送されていた\[2\]。
 
-2005年に福島テレビでも放送された『[FNS ALLSTARS あっつい25時間テレビやっぱ楽しくなければテレビじゃないもん\!](https://ja.wikipedia.org/wiki/FNS25時間テレビ "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の「トリビアの温泉」のコーナーで、この番組に出た「蒲ちゃん」が取り上げられて全国放送された。またその際、[今田耕司](../Page/今田耕司.md "wikilink")は審査委員長で番組の冠になっている弦と司会者の[金井淳郎](../Page/金井淳郎.md "wikilink")を間違えていて、終始間違えたまま進行していた。
+2005年に福島テレビでも放送された『[FNS ALLSTARS あっつい25時間テレビやっぱ楽しくなければテレビじゃないもん\!](../Page/FNS25時間テレビ.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の「トリビアの温泉」のコーナーで、この番組に出た「蒲ちゃん」が取り上げられて全国放送された。またその際、[今田耕司](../Page/今田耕司.md "wikilink")は審査委員長で番組の冠になっている弦と司会者の[金井淳郎](../Page/金井淳郎.md "wikilink")を間違えていて、終始間違えたまま進行していた。
 
 放送時間は、放送開始から2010年3月までは19:30 - 20:00だったが、同年4月19日放送分から30分拡大し、19:00から放送の1時間枠の番組になった。同時に、弦が深谷純子とともに[福島県](../Page/福島県.md "wikilink")内を旅する新コーナー「ふくしま弦気旅」がスタートした。
 
 [東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）の発生後、番組休止（事実上の打ち切り）。2011年5月9日に[特別番組](../Page/特別番組.md "wikilink")『弦哲也のFTVカラオケグランプリ 弦気になろう\!ふくしま\!』を放送し、同特番内で「一旦お休みします」とアナウンスした。
 
-その後、2013年3月16日に『弦哲也ふくしまへの思い カラオケグランプリスペシャル』が放送された。司会は[藺草英己](https://ja.wikipedia.org/wiki/藺草英己 "wikilink")と[堤友香](https://ja.wikipedia.org/wiki/堤友香 "wikilink")。
+その後、2013年3月16日に『弦哲也ふくしまへの思い カラオケグランプリスペシャル』が放送された。司会は[藺草英己](../Page/藺草英己.md "wikilink")と[堤友香](https://ja.wikipedia.org/wiki/堤友香 "wikilink")。
 
 ## 放送時間
 
@@ -36,11 +36,11 @@
 
 ### 過去
 
-  - [高橋雄一](https://ja.wikipedia.org/wiki/高橋雄一_\(福島テレビ\) "wikilink")（1997年4月 - ）
-  - [荒井律](https://ja.wikipedia.org/wiki/荒井律 "wikilink")（1997年4月 - ）
-  - [関口由香里](https://ja.wikipedia.org/wiki/関口由香里 "wikilink")
-  - [田井麗花](https://ja.wikipedia.org/wiki/田井れい花 "wikilink")（契約アナウンサー）
-  - [山元香里](https://ja.wikipedia.org/wiki/山元香里 "wikilink")
+  - [高橋雄一](../Page/高橋雄一_\(福島テレビ\).md "wikilink")（1997年4月 - ）
+  - [荒井律](../Page/荒井律.md "wikilink")（1997年4月 - ）
+  - [関口由香里](../Page/関口由香里.md "wikilink")
+  - [田井麗花](../Page/田井れい花.md "wikilink")（契約アナウンサー）
+  - [山元香里](../Page/山元香里.md "wikilink")
   - [名和田知加](https://ja.wikipedia.org/wiki/名和田知加 "wikilink")
 
 ## 審査委員

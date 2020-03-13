@@ -5,7 +5,7 @@
 
 ## 概要
 
-中学1年から高卒生までを対象とする。[東大](https://ja.wikipedia.org/wiki/東京大学 "wikilink")・[京大の受験指導を中心に](../Page/京都大学.md "wikilink")、[一橋大](https://ja.wikipedia.org/wiki/一橋大学 "wikilink")・[東工大などの最難関国公立大学](../Page/東京工業大学.md "wikilink")、最難関大医学部、[早大](../Page/早稲田大学.md "wikilink")・[慶大などの最難関私立大対策の講座が開講されている](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")。Z会の本業である通信教育の添削指導やノウハウを応用するが、これとは別に各大学の出題傾向を分析したオリジナルのテキストを使用。大手予備校と比較すると規模の点でこそ劣るものの、講師陣は精鋭揃いで、丁寧な添削指導を通じた集団授業を展開している。
+中学1年から高卒生までを対象とする。[東大](https://ja.wikipedia.org/wiki/東京大学 "wikilink")・[京大の受験指導を中心に](../Page/京都大学.md "wikilink")、[一橋大](../Page/一橋大学.md "wikilink")・[東工大などの最難関国公立大学](../Page/東京工業大学.md "wikilink")、最難関大医学部、[早大](../Page/早稲田大学.md "wikilink")・[慶大などの最難関私立大対策の講座が開講されている](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")。Z会の本業である通信教育の添削指導やノウハウを応用するが、これとは別に各大学の出題傾向を分析したオリジナルのテキストを使用。大手予備校と比較すると規模の点でこそ劣るものの、講師陣は精鋭揃いで、丁寧な添削指導を通じた集団授業を展開している。
 
 2005年（平成17年）、本部を[恵比寿から](../Page/恵比寿_\(渋谷区\).md "wikilink")[神田に移転](../Page/神田_\(千代田区\).md "wikilink")、現在、本部に付設する御茶ノ水教室のほか、首都圏全6教室で指導が展開されている。
 
@@ -19,7 +19,7 @@
 
 **Z会ena**（ゼットかいエナ）は2008年3月〜2010年3月まで存在した[大学受験](../Page/大学受験.md "wikilink")の[予備校](../Page/予備校.md "wikilink")である。**ena**とは、**e**ducation **n**etwork **a**ssociationの略称である。[enaも参照](https://ja.wikipedia.org/wiki/ena_\(予備校\) "wikilink")。
 
-校舎は2008年度は[御茶ノ水](https://ja.wikipedia.org/wiki/御茶ノ水 "wikilink")、[渋谷](../Page/渋谷.md "wikilink")、[横浜](../Page/横浜市.md "wikilink")、[西宮](../Page/西宮市.md "wikilink")、[京都の](../Page/京都市.md "wikilink")5教室。[2009年](../Page/2009年.md "wikilink")度は御茶ノ水校と渋谷校のみ。
+校舎は2008年度は[御茶ノ水](../Page/御茶ノ水.md "wikilink")、[渋谷](../Page/渋谷.md "wikilink")、[横浜](../Page/横浜市.md "wikilink")、[西宮](../Page/西宮市.md "wikilink")、[京都の](../Page/京都市.md "wikilink")5教室。[2009年](../Page/2009年.md "wikilink")度は御茶ノ水校と渋谷校のみ。
 
 もともとは[enaの大学受験部として](https://ja.wikipedia.org/wiki/ena_\(予備校\) "wikilink")[東大理科三類などに多くの合格者を輩出していたが](https://ja.wikipedia.org/wiki/東京大学 "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")をもって、[学究社](https://ja.wikipedia.org/wiki/学究社 "wikilink")はこの部門を[Z会](../Page/Z会.md "wikilink")に譲渡し、Z会enaが誕生した。その際、かつてenaでは数学では[奥田猛](https://ja.wikipedia.org/wiki/奥田猛 "wikilink")が教鞭を執っていたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")をもって引退した。
 

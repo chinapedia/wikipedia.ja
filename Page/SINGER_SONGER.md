@@ -28,9 +28,9 @@
   - [2004年](../Page/2004年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")、タワーレコード創立25周年記念事業『TOWER RECORDS GO\!GO\!25TH 』のテーマソングとして制作されたシングル「SING A SONG 〜NO MUSIC, NO LOVE LIFE〜」を“こっこちゃんとしげるくん”名義でリリース\[6\]\[7\]。
   - [2004年](../Page/2004年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")、メンバーはそのままでバンド名を“SINGER SONGER”と改め、岸田と佐藤の所属バンド「くるり」の年末ライブにスペシャルゲストとして出演\[8\]\[9\]。
   - 2005年3月、バンドのオフィシャルサイトがオープン\[10\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")、1stシングル「[初花凛々](https://ja.wikipedia.org/wiki/初花凛々 "wikilink")」（しょかりんりん）でデビュー\[11\]\[12\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月29日](../Page/6月29日.md "wikilink")、1stアルバム『[ばらいろポップ](../Page/ばらいろポップ.md "wikilink")』をリリース\[13\]\[14\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")、テレビ朝日「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」に唯一の[テレビ](../Page/テレビ.md "wikilink")出演。「初花凛々」を演奏。
+  - [2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")、1stシングル「[初花凛々](https://ja.wikipedia.org/wiki/初花凛々 "wikilink")」（しょかりんりん）でデビュー\[11\]\[12\]。
+  - [2005年](../Page/2005年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")、1stアルバム『[ばらいろポップ](../Page/ばらいろポップ.md "wikilink")』をリリース\[13\]\[14\]。
+  - [2005年](../Page/2005年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")、テレビ朝日「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」に唯一の[テレビ](../Page/テレビ.md "wikilink")出演。「初花凛々」を演奏。
   - 2005年8月6日、「[ROCK IN JAPAN FESTIVAL 2005](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL#2005年 "wikilink")」のGRASS STAGEに出演\[15\]\[16\]。
 
 ## ディスコグラフィ

@@ -14,7 +14,7 @@
 ## 出演
 
   - [フローラン・ダバディー](https://ja.wikipedia.org/wiki/フローラン・ダバディー "wikilink")（2005年5月 - 2008年9月）
-  - [パンツェッタ・ジローラモ](https://ja.wikipedia.org/wiki/パンツェッタ・ジローラモ "wikilink")（2005年5月 - 2007年3月、2008年10月 - ）
+  - [パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")（2005年5月 - 2007年3月、2008年10月 - ）
   - [セイン・カミュ](../Page/セイン・カミュ.md "wikilink")（2005年6月 - 2005年12月）
   - [KONISHIKI](../Page/小錦八十吉_\(6代\).md "wikilink")（2006年6月 - 2006年7月、ダバディーがドイツで[ワールドカップ取材を行っていた為](../Page/2006_FIFAワールドカップ.md "wikilink")）
   - [SHEILA](../Page/SHEILA.md "wikilink")（2007年4月 - ）

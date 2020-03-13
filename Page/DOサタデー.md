@@ -9,7 +9,7 @@
   - [横山やすし](../Page/横山やすし.md "wikilink") - 最初の数か月間のみ出演 。
   - 桂朝丸（現・[桂ざこば](../Page/桂ざこば_\(2代目\).md "wikilink")）
   - [加賀まりこ](../Page/加賀まりこ.md "wikilink")
-  - [桑原征平](../Page/桑原征平.md "wikilink")（当時関西テレビアナウンサー） - 当初は日本全国の朝市や朝食を生中継する企画のリポーターを務めていたが、1982年7月からはスタジオ出演者になり、最終回まで番組のサブ司会を務めていた。そして次番組『[モーニングスタジオ・土曜\!100%](https://ja.wikipedia.org/wiki/モーニングスタジオ・土曜!100% "wikilink")』でメイン司会に抜擢された。
+  - [桑原征平](../Page/桑原征平.md "wikilink")（当時関西テレビアナウンサー） - 当初は日本全国の朝市や朝食を生中継する企画のリポーターを務めていたが、1982年7月からはスタジオ出演者になり、最終回まで番組のサブ司会を務めていた。そして次番組『[モーニングスタジオ・土曜\!100%](../Page/モーニングスタジオ・土曜!100%.md "wikilink")』でメイン司会に抜擢された。
 
 ## テーマ曲
 
@@ -109,7 +109,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/東海テレビ放送.md" title="wikilink">東海テレビ</a></p></td>
 <td></td>
 <td></td>
@@ -146,7 +146,7 @@
 <td><p>現：テレビ愛媛</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td></td>
 <td></td>

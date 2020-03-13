@@ -1775,7 +1775,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Rod_Allen" title="wikilink">Rod Allen</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ロッド・アレン" title="wikilink">ロッド・アレン</a></p></td>
+<td><p><a href="../Page/ロッド・アレン.md" title="wikilink">ロッド・アレン</a></p></td>
 <td><p>1983</p></td>
 <td><p>1988</p></td>
 <td></td>
@@ -1950,7 +1950,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Erick_Almonte" title="wikilink">Erick Almonte</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エリック・アルモンテ" title="wikilink">エリック・アルモンテ</a></p></td>
+<td><p><a href="../Page/エリック・アルモンテ.md" title="wikilink">エリック・アルモンテ</a></p></td>
 <td><p>2001</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -3686,7 +3686,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Chris_Arnold_(baseball)" title="wikilink">Chris Arnold</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリス・アーノルド" title="wikilink">クリス・アーノルド</a></p></td>
+<td><p><a href="../Page/クリス・アーノルド.md" title="wikilink">クリス・アーノルド</a></p></td>
 <td><p>1971</p></td>
 <td><p>1976</p></td>
 <td></td>

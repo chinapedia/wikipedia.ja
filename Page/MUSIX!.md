@@ -15,7 +15,7 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
 
 『ASAYAN』が終了するとこの番組は火曜日夜10時枠に移動。ここでは「モーニング娘。LOVEオーディション2002」の途中経過（ただし最終決定は2003年[1月19日](../Page/1月19日.md "wikilink")の「[日曜ビッグバラエティ](https://ja.wikipedia.org/wiki/日曜ビッグバラエティ "wikilink")」で放送）や[市井紗耶香 in CUBIC CROSSの密着コーナーが放送された](https://ja.wikipedia.org/wiki/市井紗耶香_in_CUBIC_CROSS "wikilink")。なお、「モーニング娘。LOVEオーディション2002」からモーニング娘。の6期メンバー（[亀井絵里](../Page/亀井絵里.md "wikilink")・[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")・[田中れいな](https://ja.wikipedia.org/wiki/田中れいな "wikilink")。発表直前に[藤本美貴](https://ja.wikipedia.org/wiki/藤本美貴 "wikilink")も加入）が誕生しているが、こちらはこの番組が終了した後にデビューした。
 
-なお、この番組はテレビ東京とBSジャパンの共同制作番組で、その他に『[あっぱれ\!日本一](https://ja.wikipedia.org/wiki/あっぱれ!日本一 "wikilink")』（ 〜[2001年](../Page/2001年.md "wikilink")9月）や『[女と愛とミステリー](../Page/女と愛とミステリー.md "wikilink")』（ 〜[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月、4月から『[水曜ミステリー9](https://ja.wikipedia.org/wiki/水曜ミステリー9 "wikilink")』〈BSジャパンは『BSミステリー』〉）がある。
+なお、この番組はテレビ東京とBSジャパンの共同制作番組で、その他に『[あっぱれ\!日本一](https://ja.wikipedia.org/wiki/あっぱれ!日本一 "wikilink")』（ 〜[2001年](../Page/2001年.md "wikilink")9月）や『[女と愛とミステリー](../Page/女と愛とミステリー.md "wikilink")』（ 〜[2005年](../Page/2005年.md "wikilink")3月、4月から『[水曜ミステリー9](../Page/水曜ミステリー9.md "wikilink")』〈BSジャパンは『BSミステリー』〉）がある。
 
 この番組の[視聴率](../Page/視聴率.md "wikilink")は、日曜放送時代は安定していたが、火曜日に移すと徐々に低下。2003年3月18日をもって番組は終了した。本番組終了後は『[日経スペシャル ガイアの夜明け](../Page/日経スペシャル_ガイアの夜明け.md "wikilink")』が枠移動し現在も続いている。
 
@@ -28,9 +28,9 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
 
 ### テレビ東京系列
 
-  - 2000年12月3日〜2001年3月25日 - [日曜日](../Page/日曜日.md "wikilink") 21:54〜22:54（前枠：『[期間限定\!ピカピカ天王洲LIVE](https://ja.wikipedia.org/wiki/期間限定!ピカピカ天王洲LIVE "wikilink")』）
+  - 2000年12月3日〜2001年3月25日 - [日曜日](../Page/日曜日.md "wikilink") 21:54〜22:54（前枠：『[期間限定\!ピカピカ天王洲LIVE](../Page/期間限定!ピカピカ天王洲LIVE.md "wikilink")』）
   - 2001年4月1日〜2002年3月24日 - 日曜日 21:54〜22:48
-  - 2002年4月9日〜2003年3月18日 - [火曜日](../Page/火曜日.md "wikilink") 22:00〜22:54（前枠：『[倫敦音楽館 Lon-mu](https://ja.wikipedia.org/wiki/倫敦音楽館_Lon-mu "wikilink")』）
+  - 2002年4月9日〜2003年3月18日 - [火曜日](../Page/火曜日.md "wikilink") 22:00〜22:54（前枠：『[倫敦音楽館 Lon-mu](../Page/倫敦音楽館_Lon-mu.md "wikilink")』）
 
 ### BSジャパン
 

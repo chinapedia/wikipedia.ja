@@ -7,7 +7,7 @@
 
 [バブル崩壊](../Page/バブル崩壊.md "wikilink")などで六甲山の[保養所](https://ja.wikipedia.org/wiki/保養所 "wikilink")の閉鎖が続いた2000年代初頭、建物が廃墟となって荒廃してしまうことを懸念した[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")六甲山と市民のネットワーク(RCN)が施設の再生化と地域の活性化を目的に、[竹中工務店](../Page/竹中工務店.md "wikilink")所有の休業中の保養所を転用して立ち上げた\[1\]。スペースを神戸市民に開放し、テーマ性をもたせた企画展を中心として、ワークショップなど参加型プログラムにも力点をおき、[宿泊](https://ja.wikipedia.org/wiki/宿泊 "wikilink")して創作活動する人のために貸室（会員制）も行っていた\[2\]。
 
-[2003年](../Page/2003年.md "wikilink")の開館以来「**山の小美術館**」という名称で親しまれ、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月に**RCN CUBE ARTS PLACE** と名称変更され、[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")や[音楽](../Page/音楽.md "wikilink")合宿も行なえるように[グランドピアノ](https://ja.wikipedia.org/wiki/グランドピアノ "wikilink")も新しく設置された。RCNの保養所転用の努力が認められ、施設の購入希望者が現れたため、売却目的で[2006年](../Page/2006年.md "wikilink")12月末に閉館となった。[再生町づくりの成功例と言えよう](../Page/地域おこし.md "wikilink")。
+[2003年](../Page/2003年.md "wikilink")の開館以来「**山の小美術館**」という名称で親しまれ、[2005年](../Page/2005年.md "wikilink")12月に**RCN CUBE ARTS PLACE** と名称変更され、[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")や[音楽](../Page/音楽.md "wikilink")合宿も行なえるように[グランドピアノ](../Page/グランドピアノ.md "wikilink")も新しく設置された。RCNの保養所転用の努力が認められ、施設の購入希望者が現れたため、売却目的で[2006年](../Page/2006年.md "wikilink")12月末に閉館となった。[再生町づくりの成功例と言えよう](../Page/地域おこし.md "wikilink")。
 
 ## 施設
 

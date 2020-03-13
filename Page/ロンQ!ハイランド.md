@@ -1,7 +1,7 @@
 > この記事は[Q!](https://ja.wikipedia.org/wiki/Q!)から翻訳されています。
 
 
-『**ロンQ\!ハイランド**』（ロンキュー ハイランド）は、[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全168回。製作局の日本テレビでは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで、毎週日曜 16:55 - 17:25 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
+『**ロンQ\!ハイランド**』（ロンキュー ハイランド）は、[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。全168回。製作局の日本テレビでは[2005年](../Page/2005年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで、毎週日曜 16:55 - 17:25 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。
 
 前番組『[ロンブー龍](../Page/ロンブー龍.md "wikilink")』が末期に行っていたクイズ企画「**アタマよろこぶ脳トレ\!\!**」を引き継いだ番組。番組タイトルは、スポンサーの一角を担っていた[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")のもじりである。
 
@@ -471,7 +471,7 @@
   - 5×5の25マスがある枠の中に、そのフロアのお題（「○○売場」と表示）に当てはまる言葉が3個隠されている。
   - 解答者は、[シークワーズ](../Page/シークワーズ.md "wikilink")の要領で、隠されている3個の言葉を全て答える。チームの中で誰が答えても良く、3個正解でそのフロアはクリア。
   - 60秒以内に3フロア（3問）正解すればクリア。
-  - 残り時間が15秒になるとBGMが[蛍の光](https://ja.wikipedia.org/wiki/蛍の光 "wikilink")に切り替わる。
+  - 残り時間が15秒になるとBGMが[蛍の光](../Page/蛍の光.md "wikilink")に切り替わる。
   - 2008年6月29日放送分から、タイムリレー方式の「ようこそ見消(みつけし)デパート」（前述）にリニューアルされた。
 
 #### あべこべ13
@@ -587,7 +587,7 @@
 
 ## スタッフ
 
-  - 構成：とちぼり元、[鈴木工務店](https://ja.wikipedia.org/wiki/鈴木工務店_\(放送作家\) "wikilink")、鈴木しげき、高須浩平、[ヒロハラノブヒコ](../Page/ヒロハラノブヒコ.md "wikilink")、[桝本壮志](https://ja.wikipedia.org/wiki/桝本壮志 "wikilink")、[さだ](https://ja.wikipedia.org/wiki/さだ_\(放送作家\) "wikilink")、西村隆志、竹嶋雄太、[ゴージャス染谷](https://ja.wikipedia.org/wiki/ゴージャス染谷 "wikilink")、大熊智
+  - 構成：とちぼり元、[鈴木工務店](https://ja.wikipedia.org/wiki/鈴木工務店_\(放送作家\) "wikilink")、鈴木しげき、高須浩平、[ヒロハラノブヒコ](../Page/ヒロハラノブヒコ.md "wikilink")、[桝本壮志](../Page/桝本壮志.md "wikilink")、[さだ](https://ja.wikipedia.org/wiki/さだ_\(放送作家\) "wikilink")、西村隆志、竹嶋雄太、[ゴージャス染谷](https://ja.wikipedia.org/wiki/ゴージャス染谷 "wikilink")、大熊智
   - ディレクター：白野勝敏、安彦和弘、山崎勝、藤森和彦、渡邊正人
   - 監修：チャーリー小林
   - 演出：武石政人
@@ -698,7 +698,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td><p>日曜 10:55 - 11:25</p></td>
 <td><p>[2]</p></td>

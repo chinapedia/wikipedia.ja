@@ -5,7 +5,7 @@
 
 ## 概要
 
-「昭和59年から大河ドラマは近代路線に移行する」とのタイムテーブルのもと、時代劇大河・最後の作品として「戦国時代・最後の大物」徳川家康を主人公としたこのドラマは企画された。スタッフが意図したものは大河ドラマの王道たる「直球」的作品。当初はオリジナル脚本案も浮上したが、過去にNET系（現:テレビ朝日）でドラマ化された例はあるものの「山岡荘八・著『徳川家康』ほど家康に関する名作はない」との結論に達し、[山岡荘八](../Page/山岡荘八.md "wikilink")の小説『[徳川家康](../Page/徳川家康_\(山岡荘八\).md "wikilink")』を原作にしたドラマ化がスタートした。家康の出生前からその死までを描く山岡版「家康」、その原作に忠実を期し「家康の生涯は生母・於大を抜きには語れない」との意見から於大役に、息子・家康役の[滝田栄](https://ja.wikipedia.org/wiki/滝田栄 "wikilink")より7歳年下の[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")を配するなど大胆な配役がされた。従来陽気な秀吉に比べ老獪な謀略家としての面が強調されていた家康を泰平を求める求道者として描いた。
+「昭和59年から大河ドラマは近代路線に移行する」とのタイムテーブルのもと、時代劇大河・最後の作品として「戦国時代・最後の大物」徳川家康を主人公としたこのドラマは企画された。スタッフが意図したものは大河ドラマの王道たる「直球」的作品。当初はオリジナル脚本案も浮上したが、過去にNET系（現:テレビ朝日）でドラマ化された例はあるものの「山岡荘八・著『徳川家康』ほど家康に関する名作はない」との結論に達し、[山岡荘八](../Page/山岡荘八.md "wikilink")の小説『[徳川家康](../Page/徳川家康_\(山岡荘八\).md "wikilink")』を原作にしたドラマ化がスタートした。家康の出生前からその死までを描く山岡版「家康」、その原作に忠実を期し「家康の生涯は生母・於大を抜きには語れない」との意見から於大役に、息子・家康役の[滝田栄](../Page/滝田栄.md "wikilink")より7歳年下の[大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")を配するなど大胆な配役がされた。従来陽気な秀吉に比べ老獪な謀略家としての面が強調されていた家康を泰平を求める求道者として描いた。
 
 また、それまで一般に知られていなかった若手俳優[役所広司](../Page/役所広司.md "wikilink")が織田信長を演じて人気を博した。この作品で一躍注目を集めた役所は出演ドラマ・映画が増え、NHKでも翌年の[NHK新大型時代劇](https://ja.wikipedia.org/wiki/大河ドラマ#NHK新大型時代劇 "wikilink")『[宮本武蔵](../Page/宮本武蔵_\(NHK新大型時代劇\).md "wikilink")』で主演を果たしている。
 
@@ -21,7 +21,7 @@
 
 ## キャスティング
 
-  - 徳川家康：当初は小柄で丸顔、小太りという従来のイメージのもとキャスティング選考が行われた。リストアップされたのは[緒形拳](../Page/緒形拳.md "wikilink")、[松平健](../Page/松平健.md "wikilink")、[中村梅之助](../Page/中村梅之助_\(4代目\).md "wikilink")、[江守徹](../Page/江守徹.md "wikilink")。しかしながら、前者三人は前年度の大河『[峠の群像](../Page/峠の群像.md "wikilink")』に出演しているため見送り、江守もスケジュールや家康の16歳時からの出演という条件には無理があり、こちらも実現出来なかった。代わってスタッフ間に浮上してきたのが「なにも家康の[そっくりショー](../Page/そっくりショー.md "wikilink")をやるわけではない。われわれの手で新しい家康像を作り出そうではないか」という声で、30代前半の俳優に的を絞り、実力本位で選考した結果、[滝田栄](https://ja.wikipedia.org/wiki/滝田栄 "wikilink")に決定。かくて長身で面長、「最も家康に似ていない俳優」が家康役に決定した。なお、候補の1人だった中村梅之助は2年後のNHK大型時代劇『[真田太平記](../Page/真田太平記_\(テレビドラマ\).md "wikilink")』で家康を演じ、松平健も[徳川家康と三人の女](https://ja.wikipedia.org/wiki/徳川家康と三人の女 "wikilink")（2008年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）と映画「[真田十勇士](https://ja.wikipedia.org/wiki/真田十勇士_\(2014年の劇作品\) "wikilink")」（2016年）で家康を演じている。
+  - 徳川家康：当初は小柄で丸顔、小太りという従来のイメージのもとキャスティング選考が行われた。リストアップされたのは[緒形拳](../Page/緒形拳.md "wikilink")、[松平健](../Page/松平健.md "wikilink")、[中村梅之助](../Page/中村梅之助_\(4代目\).md "wikilink")、[江守徹](../Page/江守徹.md "wikilink")。しかしながら、前者三人は前年度の大河『[峠の群像](../Page/峠の群像.md "wikilink")』に出演しているため見送り、江守もスケジュールや家康の16歳時からの出演という条件には無理があり、こちらも実現出来なかった。代わってスタッフ間に浮上してきたのが「なにも家康の[そっくりショー](../Page/そっくりショー.md "wikilink")をやるわけではない。われわれの手で新しい家康像を作り出そうではないか」という声で、30代前半の俳優に的を絞り、実力本位で選考した結果、[滝田栄](../Page/滝田栄.md "wikilink")に決定。かくて長身で面長、「最も家康に似ていない俳優」が家康役に決定した。なお、候補の1人だった中村梅之助は2年後のNHK大型時代劇『[真田太平記](../Page/真田太平記_\(テレビドラマ\).md "wikilink")』で家康を演じ、松平健も[徳川家康と三人の女](https://ja.wikipedia.org/wiki/徳川家康と三人の女 "wikilink")（2008年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）と映画「[真田十勇士](https://ja.wikipedia.org/wiki/真田十勇士_\(2014年の劇作品\) "wikilink")」（2016年）で家康を演じている。
   - 豊臣秀吉：脚本担当の[小山内美江子](../Page/小山内美江子.md "wikilink")の強い希望により[武田鉄矢](../Page/武田鉄矢.md "wikilink")に秀吉役が配された。武田は2作前の『[おんな太閤記](../Page/おんな太閤記.md "wikilink")』（同作の脚本担当は[橋田壽賀子](https://ja.wikipedia.org/wiki/橋田壽賀子 "wikilink")）の時にも秀吉役の最有力候補だったが、当時はTBS系『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』第2シリーズ（小山内が脚本担当）に出演中だったため実現しなかった。
   - 織田信長：「最後の時代劇大河」になるかも知れない、ということで有終の美を飾らんと番組のヒットを祈念するスタッフは信長役には大物俳優の起用を切望していた。その第一候補は当時の大人気歌手[沢田研二](../Page/沢田研二.md "wikilink")である。この出演依頼に沢田も所属事務所の[渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")も大乗り気。早速スケジュールの調整が行われたが沢田の予定は既に先の先まで埋まっており、拘束時間の長い時代劇大河の入り込む余地は殆んど無く、「出演不可能」の結論が出されたのは配役発表の一週間前\[2\]。トップ演出の大原誠はじめスタッフは急遽大物スターの起用を諦め、新人採用の方針に転換。[時任三郎](https://ja.wikipedia.org/wiki/時任三郎 "wikilink")などが候補に挙がったが、最終的に端役ながら[大河ドラマ](../Page/大河ドラマ.md "wikilink")出演の経験もあり、3年前に連続テレビ小説『[なっちゃんの写真館](../Page/なっちゃんの写真館.md "wikilink")』でヒロインの夫・西城亮平役の滝田とも共演済みで、NHKスタッフには既にその実力が認知されていた[無名塾](../Page/無名塾.md "wikilink")所属の[役所広司](../Page/役所広司.md "wikilink")に決定。放送後、[NHKには問い合わせの電話が殺到](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、評判となった。送られてきたファンレターも番組出演者中最大量。「役所君の持つ、精悍さの中にある優しい瞳に我々は賭けたのだ」というスタッフの意気に応えた\[3\]。
 
@@ -35,7 +35,7 @@
 
   - [徳川家康](../Page/徳川家康.md "wikilink") （とくがわ いえやす）
     （竹千代→松平元信→松平元康→徳川家康）
-    演 : [滝田栄](https://ja.wikipedia.org/wiki/滝田栄 "wikilink")（幼少〜青年期 : [山崎晃一](https://ja.wikipedia.org/wiki/山崎晃一 "wikilink")→[加瀬悦孝](https://ja.wikipedia.org/wiki/加瀬悦孝 "wikilink")→[松田洋治](../Page/松田洋治.md "wikilink")）
+    演 : [滝田栄](../Page/滝田栄.md "wikilink")（幼少〜青年期 : [山崎晃一](https://ja.wikipedia.org/wiki/山崎晃一 "wikilink")→[加瀬悦孝](https://ja.wikipedia.org/wiki/加瀬悦孝 "wikilink")→[松田洋治](../Page/松田洋治.md "wikilink")）
     主人公。江戸幕府初代将軍となった。
   - [松平広忠](../Page/松平広忠.md "wikilink") （まつだいら ひろただ）
     演 : [近藤正臣](../Page/近藤正臣.md "wikilink")
@@ -99,7 +99,7 @@
     演 : [勝野洋](../Page/勝野洋.md "wikilink")\[5\]（幼少期 : [田遠実](https://ja.wikipedia.org/wiki/田遠実 "wikilink")）
     家康の三男。江戸幕府二代将軍。
   - [松平忠吉](../Page/松平忠吉.md "wikilink")
-    演 : [冨家規政](https://ja.wikipedia.org/wiki/冨家規政 "wikilink")（幼少期 : [萩原等志](https://ja.wikipedia.org/wiki/萩原等志 "wikilink")）
+    演 : [冨家規政](../Page/冨家規政.md "wikilink")（幼少期 : [萩原等志](https://ja.wikipedia.org/wiki/萩原等志 "wikilink")）
     家康の四男。
   - [松平忠輝](../Page/松平忠輝.md "wikilink")
     演 : [田中健](../Page/田中健_\(俳優\).md "wikilink")
@@ -116,7 +116,7 @@
 
 徳川家の嫁・孫
 
-  - [徳姫](https://ja.wikipedia.org/wiki/徳姫 "wikilink")
+  - [徳姫](../Page/徳姫.md "wikilink")
     演 : [田中美佐子](../Page/田中美佐子.md "wikilink")（幼少〜少女期 :[北原留美](https://ja.wikipedia.org/wiki/北原留美 "wikilink")→[長谷川真弓](../Page/長谷川真弓_\(女優\).md "wikilink")）
     信長の長女、長男・信康の正室。
   - [峯高院](https://ja.wikipedia.org/wiki/登久姫 "wikilink")
@@ -196,7 +196,7 @@
     演 : [早崎文司](../Page/早崎文司.md "wikilink")
     お久の父。
   - [岩松八弥](../Page/岩松八弥.md "wikilink")
-    演 : [村田雄浩](https://ja.wikipedia.org/wiki/村田雄浩 "wikilink")
+    演 : [村田雄浩](../Page/村田雄浩.md "wikilink")
     広忠の近習、お春の許嫁。
   - [鳥居元忠](../Page/鳥居元忠.md "wikilink")
     演 : [川久保潔](../Page/川久保潔.md "wikilink")（幼少期〜青年期 :[小山渚](https://ja.wikipedia.org/wiki/小山渚 "wikilink")→[草見潤平](https://ja.wikipedia.org/wiki/草見潤平 "wikilink")）
@@ -229,12 +229,12 @@
     演 : [内田勝正](../Page/内田勝正.md "wikilink")（青年期 : [荒木茂](../Page/荒木しげる.md "wikilink")）
     徳川四天王の一人。
   - [井伊直政](../Page/井伊直政.md "wikilink")
-    演 : [平泉成](../Page/平泉成.md "wikilink")（青年期 : [豊原功補](https://ja.wikipedia.org/wiki/豊原功補 "wikilink")）
+    演 : [平泉成](../Page/平泉成.md "wikilink")（青年期 : [豊原功補](../Page/豊原功補.md "wikilink")）
   - [大久保忠隣](../Page/大久保忠隣.md "wikilink")
     演 : [坂西良太](https://ja.wikipedia.org/wiki/坂西良太 "wikilink")（青年期 : [吉田幸紘](https://ja.wikipedia.org/wiki/吉田幸紘 "wikilink")）
     大久保忠世の長男。
   - [大賀弥四郎](https://ja.wikipedia.org/wiki/大賀弥四郎 "wikilink")
-    演 : [寺泉哲章](https://ja.wikipedia.org/wiki/寺泉憲 "wikilink")
+    演 : [寺泉哲章](../Page/寺泉憲.md "wikilink")
     家康の正室の瀬名（鶴姫）築山殿と不義密通、武田の[間者](../Page/スパイ.md "wikilink")。
   - [平岩親吉](../Page/平岩親吉.md "wikilink")
     演 : [宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")（青年期 : [真鍋敏宏](https://ja.wikipedia.org/wiki/真鍋敏宏 "wikilink")）
@@ -290,7 +290,7 @@
   - [鳥居新太郎](../Page/鳥居忠政.md "wikilink")
     演 : [橋爪淳](../Page/橋爪淳.md "wikilink")
     元忠の次男。
-  - [鳥居久五郎](https://ja.wikipedia.org/wiki/鳥居成次 "wikilink")
+  - [鳥居久五郎](../Page/鳥居成次.md "wikilink")
     演 : [中島久之](../Page/中島久之.md "wikilink")
     元忠の三男。
   - [板倉重昌](../Page/板倉重昌.md "wikilink")
@@ -303,7 +303,7 @@
   - [松平重勝](../Page/松平重勝.md "wikilink")
     演 : [児玉謙次](../Page/児玉謙次_\(俳優\).md "wikilink")
   - [安藤直次](../Page/安藤直次.md "wikilink")
-    演 : [伊藤和晃](https://ja.wikipedia.org/wiki/伊藤和晃 "wikilink")
+    演 : [伊藤和晃](../Page/伊藤和晃.md "wikilink")
     尾張藩付家老となった。
   - [安藤重信](../Page/安藤重信.md "wikilink")
     演 : [佐藤和男](https://ja.wikipedia.org/wiki/佐藤和男_\(俳優\) "wikilink")
@@ -356,7 +356,7 @@
     演 : [役所広司](../Page/役所広司.md "wikilink")（青年期 : [伊藤洋一](https://ja.wikipedia.org/wiki/伊藤洋一_\(俳優\) "wikilink")）
     家康の盟友。
   - [濃姫](../Page/濃姫.md "wikilink")
-    演 : [藤真利子](https://ja.wikipedia.org/wiki/藤真利子 "wikilink")
+    演 : [藤真利子](../Page/藤真利子.md "wikilink")
     信長の正室、斎藤道三の娘。
   - [織田信秀](../Page/織田信秀.md "wikilink")
     演 : [伊藤孝雄](../Page/伊藤孝雄.md "wikilink")
@@ -385,7 +385,7 @@
   - [織田三法師](../Page/織田秀信.md "wikilink")
     演 : [永山純一](https://ja.wikipedia.org/wiki/永山純一 "wikilink")
     信長の実孫、信忠の長男。
-  - [織田源三郎](https://ja.wikipedia.org/wiki/織田勝長 "wikilink")
+  - [織田源三郎](../Page/織田勝長.md "wikilink")
     演 : [伊藤秀和](https://ja.wikipedia.org/wiki/伊藤秀和 "wikilink")
     信長の五男。
   - [織田信平](../Page/織田秀敏.md "wikilink")
@@ -395,7 +395,7 @@
 ### 織田家の家臣たち
 
   - [明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")
-    演 : [寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")\[6\]
+    演 : [寺田農](../Page/寺田農.md "wikilink")\[6\]
     もとは足利義昭に仕えていた。突如謀叛を起こして、本能寺にて信長を討ち果たす。
   - [明智秀満](../Page/明智秀満.md "wikilink")
     演 : [大林丈史](../Page/大林丈史.md "wikilink")
@@ -552,7 +552,7 @@
   - [小笠原少斎](https://ja.wikipedia.org/wiki/小笠原秀清 "wikilink")
     演 : ※配役不明
   - [浅野幸長](../Page/浅野幸長.md "wikilink")
-    演 : [森田順平](https://ja.wikipedia.org/wiki/森田順平 "wikilink")
+    演 : [森田順平](../Page/森田順平.md "wikilink")
     浅野長政の長男で高台院の甥。
   - [池田輝政](../Page/池田輝政.md "wikilink")
     演 : [岩尾康延](https://ja.wikipedia.org/wiki/岩尾康延 "wikilink")
@@ -590,7 +590,7 @@
     演 : [柳川慶子](../Page/柳川慶子.md "wikilink")
     大野修理、治房、道犬の実母。
   - [饗庭局](../Page/饗庭局.md "wikilink")
-    演 : [茅島成美](https://ja.wikipedia.org/wiki/茅島成美 "wikilink")
+    演 : [茅島成美](../Page/茅島成美.md "wikilink")
   - [大野修理](../Page/大野治長.md "wikilink")
     演 : [谷隼人](../Page/谷隼人.md "wikilink")
   - [大野治房](../Page/大野治房.md "wikilink")
@@ -605,7 +605,7 @@
 ### 大坂の陣で入城した浪人武将
 
   - [真田幸村](../Page/真田信繁.md "wikilink")
-    演 : [若林豪](https://ja.wikipedia.org/wiki/若林豪 "wikilink")\[7\]
+    演 : [若林豪](../Page/若林豪.md "wikilink")\[7\]
   - [毛利勝永](../Page/毛利勝永.md "wikilink")
     演 : [青木義朗](../Page/青木義朗.md "wikilink")
   - [後藤又兵衛](https://ja.wikipedia.org/wiki/後藤基次 "wikilink")
@@ -618,7 +618,7 @@
     演 : [溝口舜亮](../Page/溝口舜亮.md "wikilink")
     幸村の家臣。
   - 奥原信十郎
-    演 : [井川比佐志](https://ja.wikipedia.org/wiki/井川比佐志 "wikilink")
+    演 : [井川比佐志](../Page/井川比佐志.md "wikilink")
     柳生宗矩の従兄弟。
 
 ### 今川家の人々
@@ -681,10 +681,10 @@
     演 : [水澤心吾](https://ja.wikipedia.org/wiki/水澤心吾 "wikilink")
     氏政の子。
   - [足利義昭](https://ja.wikipedia.org/wiki/足利義昭 "wikilink")
-    演 : [篠原大作](https://ja.wikipedia.org/wiki/篠原大作 "wikilink")
+    演 : [篠原大作](../Page/篠原大作.md "wikilink")
     室町幕府最後の将軍。
   - [細川藤孝](../Page/細川幽斎.md "wikilink")
-    演 : [丸山詠二](https://ja.wikipedia.org/wiki/丸山詠二 "wikilink")
+    演 : [丸山詠二](../Page/丸山詠二.md "wikilink")
     細川忠興の父。
   - [浅井長政](../Page/浅井長政.md "wikilink")
     演 : [柴田侊彦](../Page/柴田てる彦.md "wikilink")
@@ -774,7 +774,7 @@
   - 音楽：[冨田勲](../Page/冨田勲.md "wikilink")\[8\]
   - 演奏：[新室内楽協会](https://ja.wikipedia.org/wiki/新室内楽協会 "wikilink")
   - テーマ音楽演奏：[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")
-  - テーマ音楽指揮：[秋山和慶](https://ja.wikipedia.org/wiki/秋山和慶 "wikilink")
+  - テーマ音楽指揮：[秋山和慶](../Page/秋山和慶.md "wikilink")
   - コーラス：[慶應義塾ワグネル・ソサィエティー男声合唱団](../Page/慶應義塾ワグネル・ソサィエティー男声合唱団.md "wikilink")
   - 考証：[鈴木敬三](../Page/鈴木敬三.md "wikilink")
   - 風俗考証：[磯目篤郎](https://ja.wikipedia.org/wiki/磯目篤郎 "wikilink")
@@ -786,7 +786,7 @@
   - 踊り：[花柳寿楽社中](../Page/花柳壽楽_\(2代目\).md "wikilink")
   - 囃子：[堅田社中](https://ja.wikipedia.org/wiki/堅田喜三久 "wikilink")
   - 能楽・鼓指導：[梅若紀彰](https://ja.wikipedia.org/wiki/梅若紀彰 "wikilink")
-  - 能舞・演奏：[梅若会](https://ja.wikipedia.org/wiki/観世流 "wikilink")
+  - 能舞・演奏：[梅若会](../Page/観世流.md "wikilink")
   - 笛指導・笛演奏：[望月太八](https://ja.wikipedia.org/wiki/望月太八 "wikilink")
   - 琵琶演奏：[中谷譲水](https://ja.wikipedia.org/wiki/中谷譲水 "wikilink")
   - 古式銃指導：[森重民造](https://ja.wikipedia.org/wiki/森重民造 "wikilink")
@@ -794,7 +794,7 @@
   - 茶道指導：[西原暉子](https://ja.wikipedia.org/wiki/西原暉子 "wikilink")
   - 人形制作：[福田啓助](https://ja.wikipedia.org/wiki/福田啓助 "wikilink")
   - 鷹狩指導：[沢田政弘](https://ja.wikipedia.org/wiki/沢田政弘 "wikilink")（[鷹匠役で本編にも出演](../Page/鷹狩.md "wikilink")）
-  - 協力：[蹴鞠保存会](https://ja.wikipedia.org/wiki/蹴鞠保存会 "wikilink")、[大本山総持寺](../Page/總持寺.md "wikilink")、[霊梅院](https://ja.wikipedia.org/wiki/霊梅院 "wikilink")、[薬王院](../Page/高尾山薬王院.md "wikilink")、[上野寛永寺](https://ja.wikipedia.org/wiki/寛永寺 "wikilink")
+  - 協力：[蹴鞠保存会](https://ja.wikipedia.org/wiki/蹴鞠保存会 "wikilink")、[大本山総持寺](../Page/總持寺.md "wikilink")、[霊梅院](https://ja.wikipedia.org/wiki/霊梅院 "wikilink")、[薬王院](../Page/高尾山薬王院.md "wikilink")、[上野寛永寺](../Page/寛永寺.md "wikilink")
   - 制作：[澁谷康生](https://ja.wikipedia.org/wiki/澁谷康生 "wikilink")
   - 美術：内藤政市、蒔田穣、大鹿文明
   - 技術：斎藤政雄、戸塚健庫、石川泰宏

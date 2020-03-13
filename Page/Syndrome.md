@@ -21,7 +21,7 @@
 | **Bass**   |
 | **Drums**  |
 
-**Syndrome**（シンドローム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。当時インディーズレーベル[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")の代表であった[KISAKI](../Page/KISAKI.md "wikilink")が[MIRAGEの解散直後に結成した](../Page/MIRAGE_\(バンド\).md "wikilink")。
+**Syndrome**（シンドローム）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。当時インディーズレーベル[Matina](../Page/Matina.md "wikilink")の代表であった[KISAKI](../Page/KISAKI.md "wikilink")が[MIRAGEの解散直後に結成した](../Page/MIRAGE_\(バンド\).md "wikilink")。
 
 活動期間は3年弱と短いながらも、元メンバーが現在さまざまなバンドで活躍している。
 
@@ -272,7 +272,7 @@ V.A.
   -
     →2003年に[UNDER CODE PRODUCTIONを設立](https://ja.wikipedia.org/wiki/UNDER_CODE_PRODUCTION "wikilink")。
     →2003年に[KISAKI PROJECT feat.樹威を設立](https://ja.wikipedia.org/wiki/KISAKI_PROJECT_feat.樹威 "wikilink")。
-    →2004年に[Phantasmagoria](https://ja.wikipedia.org/wiki/Phantasmagoria "wikilink")を結成。
+    →2004年に[Phantasmagoria](../Page/Phantasmagoria.md "wikilink")を結成。
     →2007年8月31日大阪国際交流センターをもって15年間のミュージシャン活動に終止符。
     →2010年に凛-the end of corruption world-を結成。
 
@@ -319,8 +319,8 @@ V.A.
 
   - [ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")
   - [UNDER CODE PRODUCTION](https://ja.wikipedia.org/wiki/UNDER_CODE_PRODUCTION "wikilink")
-  - [Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")・・・KISAKIが[UNDER CODE PRODUCTIONを設立前に代表を務めていたレーベル](https://ja.wikipedia.org/wiki/UNDER_CODE_PRODUCTION "wikilink")。
-  - [Phantasmagoria](https://ja.wikipedia.org/wiki/Phantasmagoria "wikilink")
+  - [Matina](../Page/Matina.md "wikilink")・・・KISAKIが[UNDER CODE PRODUCTIONを設立前に代表を務めていたレーベル](https://ja.wikipedia.org/wiki/UNDER_CODE_PRODUCTION "wikilink")。
+  - [Phantasmagoria](../Page/Phantasmagoria.md "wikilink")
   - [KISAKI PROJECT feat.樹威](https://ja.wikipedia.org/wiki/KISAKI_PROJECT_feat.樹威 "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2002年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に解散した音楽グループ "wikilink")

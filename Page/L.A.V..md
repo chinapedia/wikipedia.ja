@@ -18,7 +18,7 @@
 
   - 月:DJ TARO
   - 火:Tanja Yujiro
-  - 水:[鈴木ダイ](https://ja.wikipedia.org/wiki/鈴木ダイ_\(ディスクジョッキー\) "wikilink") （※その後「[ミッドナイトランブラー](https://ja.wikipedia.org/wiki/ミッドナイトランブラー "wikilink")」などのパーソナリティへ）
+  - 水:[鈴木ダイ](https://ja.wikipedia.org/wiki/鈴木ダイ_\(ディスクジョッキー\) "wikilink") （※その後「[ミッドナイトランブラー](../Page/ミッドナイトランブラー.md "wikilink")」などのパーソナリティへ）
   - 木:AKI （※その後「[Good Morning\! That's Wakeman Show](https://ja.wikipedia.org/wiki/Good_Morning!_That's_Wakeman_Show "wikilink")」の水曜5時台パーソナリティへ）
 
 **（2005年4月～2006年9月）**
@@ -76,7 +76,7 @@
 
 ## 放送時間の短縮
 
-  - 2006年6月12日【月曜日】は、21：30～0：10まで、2006[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")F組「[日本](../Page/サッカー日本代表.md "wikilink")×[オーストラリア](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")」を生放送する関係で**L.A.V.**の放送時間が21：00～21：30までの30分間だけになった。
+  - 2006年6月12日【月曜日】は、21：30～0：10まで、2006[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")F組「[日本](../Page/サッカー日本代表.md "wikilink")×[オーストラリア](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")」を生放送する関係で**L.A.V.**の放送時間が21：00～21：30までの30分間だけになった。
 
 ## 備考
 

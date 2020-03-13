@@ -23,9 +23,9 @@
       - [エネルギー貯蔵](https://ja.wikipedia.org/wiki/エネルギー貯蔵 "wikilink")設備
       - [工場](../Page/工場.md "wikilink")設備
   - パイプライン本部
-      - [パイプライン](https://ja.wikipedia.org/wiki/パイプライン輸送 "wikilink")
+      - [パイプライン](../Page/パイプライン輸送.md "wikilink")
   - 都市環境本部
-      - [廃棄物](../Page/廃棄物.md "wikilink")処理設備（[溶融炉](https://ja.wikipedia.org/wiki/溶融炉 "wikilink")、[焼却炉](../Page/焼却炉.md "wikilink")など）
+      - [廃棄物](../Page/廃棄物.md "wikilink")処理設備（[溶融炉](../Page/溶融炉.md "wikilink")、[焼却炉](../Page/焼却炉.md "wikilink")など）
       - 廃棄物[選別機](https://ja.wikipedia.org/wiki/選別機 "wikilink")、[破砕機](../Page/シュレッダー.md "wikilink")
       - [バイオマス](../Page/バイオマス.md "wikilink")設備
       - [水道管](../Page/水道管.md "wikilink")
@@ -41,7 +41,7 @@
       - [バラスト](../Page/バラスト.md "wikilink")水システム
       - 搬送機器（[ベルトコンベア](../Page/ベルトコンベア.md "wikilink")、[オートウォーク](https://ja.wikipedia.org/wiki/オートウォーク "wikilink")など）
   - 海外本部
-      - [中国](https://ja.wikipedia.org/wiki/中国 "wikilink")事業部
+      - [中国](../Page/中国.md "wikilink")事業部
       - [東南アジア](../Page/東南アジア.md "wikilink")事業部
       - [欧州](https://ja.wikipedia.org/wiki/欧州 "wikilink")事業部
   - 国内支店統括部
@@ -92,7 +92,7 @@
   - [2002年](../Page/2002年.md "wikilink")（平成14年）1月 - 米国子会社[ナショナル・スチール](https://ja.wikipedia.org/wiki/ナショナル・スチール "wikilink")を、米国[USスチール](../Page/USスチール.md "wikilink")に売却。
   - 2002年（平成14年）[9月19日](../Page/9月19日.md "wikilink") - 上場廃止。
   - 2002年（平成14年）[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [株式移転](../Page/株式移転.md "wikilink")により、[川崎製鉄と共同で](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")[JFEホールディングス](../Page/JFEホールディングス.md "wikilink")を設立。
-  - 2002年（平成14年）[10月1日](../Page/10月1日.md "wikilink") - 日本鋼管・[日立造船](../Page/日立造船.md "wikilink")の造船部門を統合し[ユニバーサル造船](https://ja.wikipedia.org/wiki/ユニバーサル造船 "wikilink")株式会社を設立、鶴見事業所・津製作所の造船部門を同社に譲渡。
+  - 2002年（平成14年）[10月1日](../Page/10月1日.md "wikilink") - 日本鋼管・[日立造船](../Page/日立造船.md "wikilink")の造船部門を統合し[ユニバーサル造船](../Page/ユニバーサル造船.md "wikilink")株式会社を設立、鶴見事業所・津製作所の造船部門を同社に譲渡。
 
 ### JFEエンジニアリング発足後
 

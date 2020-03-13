@@ -1,7 +1,7 @@
 > この記事は[Nanami](https://ja.wikipedia.org/wiki/Nanami)から翻訳されています。
 
 
-**Nanami**（ななみ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女優](../Page/俳優.md "wikilink")・[女性](../Page/女性.md "wikilink")[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。[大妻女子大学短期大学部](https://ja.wikipedia.org/wiki/大妻女子大学短期大学部 "wikilink")英文科卒。現在は休養中。
+**Nanami**（ななみ、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女優](../Page/俳優.md "wikilink")・[女性](../Page/女性.md "wikilink")[ファッションモデル](../Page/ファッションモデル.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")出身。[大妻女子大学短期大学部](https://ja.wikipedia.org/wiki/大妻女子大学短期大学部 "wikilink")英文科卒。現在は休養中。
 
 ## 略歴
 
@@ -92,7 +92,7 @@
   - [non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")（[集英社](../Page/集英社.md "wikilink")）
   - [SEDA](../Page/SEDA.md "wikilink")（[日之出出版](https://ja.wikipedia.org/wiki/日之出出版 "wikilink")）
   - [melon](https://ja.wikipedia.org/wiki/melon "wikilink")（[祥伝社](../Page/祥伝社.md "wikilink")）
-  - [My Birthday](../Page/My_Birthday.md "wikilink")（[実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")）
+  - [My Birthday](../Page/My_Birthday.md "wikilink")（[実業之日本社](../Page/実業之日本社.md "wikilink")）
   - [CANDy](https://ja.wikipedia.org/wiki/CANDy "wikilink")（[白泉社](../Page/白泉社.md "wikilink")）
 
 ## 脚注

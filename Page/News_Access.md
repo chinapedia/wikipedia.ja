@@ -101,11 +101,11 @@
 <!-- end list -->
 
   - ◇[川井綾子](https://ja.wikipedia.org/wiki/川井綾子 "wikilink")（元[青森朝日放送](../Page/青森朝日放送.md "wikilink")）
-  - ◇[清水由美](https://ja.wikipedia.org/wiki/清水由美 "wikilink")（元メ〜テレ）
+  - ◇[清水由美](../Page/清水由美.md "wikilink")（元メ〜テレ）
   - ◇[前田真里](../Page/前田真里_\(アナウンサー\).md "wikilink")（元[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")）
   - 田幸知有紗（降板後[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")）
   - [福田貴子](../Page/福田貴子.md "wikilink")
-  - [青木梨紗](https://ja.wikipedia.org/wiki/青木梨紗 "wikilink")（[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")テレビ営業局テレビ営業部→報道局報道部記者→[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")報道局報道部記者）
+  - [青木梨紗](../Page/青木梨紗.md "wikilink")（[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")テレビ営業局テレビ営業部→報道局報道部記者→[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")報道局報道部記者）
   - 酒井淑絵
   - 宮澤那奈
   - 門馬遥香
@@ -131,7 +131,7 @@
 
   - ニュース映像は『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』のものを流用している。
   - スポーツ中継などで定刻放送できない場合は「News Access」のタイトルで、放送時間を17時台か18時台に繰り上げ（高校野球中継の大幅な延長の場合は20時台以降に繰り下げ）し、5分～10分の短縮版で放送する。
-  - 以前は[ヤンマー](https://ja.wikipedia.org/wiki/ヤンマー "wikilink")提供『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』を内包していたが、その後独立して19:55から別枠で放送。なお、天気予報も引き続き『News Access 730』のキャスターが担当。
+  - 以前は[ヤンマー](../Page/ヤンマー.md "wikilink")提供『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』を内包していたが、その後独立して19:55から別枠で放送。なお、天気予報も引き続き『News Access 730』のキャスターが担当。
   - 2009年4月3日金曜日をもって『ヤン坊マー坊天気予報』とともに放送終了。金曜日の後番組『[週刊\!しっかり見ナイト](https://ja.wikipedia.org/wiki/週刊!しっかり見ナイト "wikilink")』は、金曜19時台のニュースの役割りにもなっていたが、1年後の2010年3月に終了。
 
 ### ごごいち\!ニュースキャッチ
@@ -191,7 +191,7 @@
 <!-- end list -->
 
   - オープニング：「ゆらめき午後」（作曲：[水流ともゆき](https://ja.wikipedia.org/wiki/水流ともゆき "wikilink")）
-  - エンディング：「アンカー」（作曲：[榊原大](https://ja.wikipedia.org/wiki/榊原大 "wikilink")）：「お昼のNews Access」に引き続き使用されている。
+  - エンディング：「アンカー」（作曲：[榊原大](../Page/榊原大.md "wikilink")）：「お昼のNews Access」に引き続き使用されている。
 
 ### お昼のNews Access
 
@@ -210,7 +210,7 @@
   - 「ごごいち\!ニュースキャッチ」の前身となった番組で、メインキャスターやコメンテーターに変更はない。
   - [大和証券グループ](https://ja.wikipedia.org/wiki/大和証券グループ "wikilink")の[一社提供](../Page/一社提供.md "wikilink")となっていたが、後にスポンサー無しとなった。
   - ニュース映像は地上波の昼の[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")のものを流用している。また後半の特集の一部では前夜に放送された『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の関東ローカルパート放送分を流している。以前は12:00-13:50で放送していた。
-  - 2011年10月3日からは内容が大幅にリニューアルされ、番組独自の特集や、取材記者を積極的に出演させるようになったり、今話題の人や与野党党首や幹部クラスをスタジオに迎えたりするようになった。また、これまで不定期出演だった[三反園訓](https://ja.wikipedia.org/wiki/三反園訓 "wikilink")などのテレビ朝日コメンテーターが番組のコメンテーターとなり、以前よりも番組の独自色が強くなった。
+  - 2011年10月3日からは内容が大幅にリニューアルされ、番組独自の特集や、取材記者を積極的に出演させるようになったり、今話題の人や与野党党首や幹部クラスをスタジオに迎えたりするようになった。また、これまで不定期出演だった[三反園訓](../Page/三反園訓.md "wikilink")などのテレビ朝日コメンテーターが番組のコメンテーターとなり、以前よりも番組の独自色が強くなった。
 
 <!-- end list -->
 
@@ -219,7 +219,7 @@
 <!-- end list -->
 
   - オープニング：「lunchtime access」（作曲：[水口浩次](https://ja.wikipedia.org/wiki/水口浩次 "wikilink")）
-  - エンディング：「アンカー」（作曲：[榊原大](https://ja.wikipedia.org/wiki/榊原大 "wikilink")）
+  - エンディング：「アンカー」（作曲：[榊原大](../Page/榊原大.md "wikilink")）
 
 <!-- end list -->
 
@@ -227,7 +227,7 @@
 
 <!-- end list -->
 
-  - アナウンサー：[川瀬眞由美](https://ja.wikipedia.org/wiki/川瀬眞由美 "wikilink")、[高橋真紀子](https://ja.wikipedia.org/wiki/高橋真紀子 "wikilink")、[佐分千恵](../Page/佐分千恵.md "wikilink")、[上宮菜々子](https://ja.wikipedia.org/wiki/上宮菜々子 "wikilink")、[堂真理子](https://ja.wikipedia.org/wiki/堂真理子 "wikilink")、[矢島悠子](https://ja.wikipedia.org/wiki/矢島悠子 "wikilink")、[市川寛子](https://ja.wikipedia.org/wiki/市川寛子 "wikilink")、 [前田有紀](https://ja.wikipedia.org/wiki/前田有紀_\(アナウンサー\) "wikilink")、[大木優紀](https://ja.wikipedia.org/wiki/大木優紀 "wikilink")、[小川彩佳](https://ja.wikipedia.org/wiki/小川彩佳 "wikilink") ほか。
+  - アナウンサー：[川瀬眞由美](https://ja.wikipedia.org/wiki/川瀬眞由美 "wikilink")、[高橋真紀子](../Page/高橋真紀子.md "wikilink")、[佐分千恵](../Page/佐分千恵.md "wikilink")、[上宮菜々子](https://ja.wikipedia.org/wiki/上宮菜々子 "wikilink")、[堂真理子](https://ja.wikipedia.org/wiki/堂真理子 "wikilink")、[矢島悠子](https://ja.wikipedia.org/wiki/矢島悠子 "wikilink")、[市川寛子](https://ja.wikipedia.org/wiki/市川寛子 "wikilink")、 [前田有紀](https://ja.wikipedia.org/wiki/前田有紀_\(アナウンサー\) "wikilink")、[大木優紀](https://ja.wikipedia.org/wiki/大木優紀 "wikilink")、[小川彩佳](https://ja.wikipedia.org/wiki/小川彩佳 "wikilink") ほか。
   - コメンテーター：田中喜代重（[弁護士](../Page/弁護士.md "wikilink")）、三反園訓、角南源五、山田惣一、鈴木悟、伊井忠義、田中良介、小泉成史、秋山知樹、出町譲、岡田豊、長谷川洋、内藤正彦（記者・担当部デスク）ほか。
 
 <!-- end list -->
@@ -238,7 +238,7 @@
 
   - オープニング(nashmusic演奏　NSF-256-25)は、一時通販番組の効果音楽として使われたことがある。
   - ヘッドラインのBGMは、かつてテレビ朝日で放送されていた『[ザ・ニュースキャスター](../Page/ザ・ニュースキャスター.md "wikilink")』の番宣で使用されたものと同じ（他に[長野朝日放送](../Page/長野朝日放送.md "wikilink")の『[ABNステーション](https://ja.wikipedia.org/wiki/ABNステーション "wikilink")』や[フジテレビ系列である](../Page/フジニュースネットワーク.md "wikilink")[BBTの](../Page/富山テレビ放送.md "wikilink")『[富山テレビニュース](https://ja.wikipedia.org/wiki/富山テレビニュース "wikilink")』や[TNCの](../Page/テレビ西日本.md "wikilink")『[TNCニュース](../Page/TNCニュース.md "wikilink")』でも使用されていた）である。
-  - CM前ジングル及び提供BGMは以前、[千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")『[ctcニュース930ライフ](https://ja.wikipedia.org/wiki/ctcニュース930ライフ "wikilink")』の番宣CM・『[TKUニュース](../Page/TKUニュース.md "wikilink")』・[FM宮崎](https://ja.wikipedia.org/wiki/FM宮崎 "wikilink")の『ニュース&ウエザーインフォメーション』のニュース部分のBGMとして使われていた物と同じである。2017年現在、[カンテレ](../Page/カンテレ.md "wikilink")『[ウラマヨ](https://ja.wikipedia.org/wiki/ウラマヨ "wikilink")』の「関西どうかしてるぜ\!ニュース」のコーナーで使用されている。
+  - CM前ジングル及び提供BGMは以前、[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")『[ctcニュース930ライフ](https://ja.wikipedia.org/wiki/ctcニュース930ライフ "wikilink")』の番宣CM・『[TKUニュース](../Page/TKUニュース.md "wikilink")』・[FM宮崎](https://ja.wikipedia.org/wiki/FM宮崎 "wikilink")の『ニュース&ウエザーインフォメーション』のニュース部分のBGMとして使われていた物と同じである。2017年現在、[カンテレ](../Page/カンテレ.md "wikilink")『[ウラマヨ](https://ja.wikipedia.org/wiki/ウラマヨ "wikilink")』の「関西どうかしてるぜ\!ニュース」のコーナーで使用されている。
   - エンディングは、nashmusic演奏　NSF-256-23が使用された。
 
 ## 番組BGM
@@ -247,7 +247,7 @@
 
 ## 関連番組
 
-  - [ANN NEWS〜六本木発](https://ja.wikipedia.org/wiki/ANN_NEWS〜六本木発 "wikilink") （朝日ニュースター・当時）
+  - [ANN NEWS〜六本木発](../Page/ANN_NEWS〜六本木発.md "wikilink") （朝日ニュースター・当時）
 
 <!-- end list -->
 

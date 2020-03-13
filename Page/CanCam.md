@@ -116,7 +116,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019年11月号</p></td>
-<td><p><a href="../Page/宇野実彩子.md" title="wikilink">宇野実彩子</a>(<a href="https://ja.wikipedia.org/wiki/AAA_(音楽グループ)" title="wikilink">AAA</a>)</p></td>
+<td><p><a href="../Page/宇野実彩子.md" title="wikilink">宇野実彩子</a>(<a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -214,20 +214,20 @@
 
 2017年
 
-| 号         | 表紙モデル                                                                                                       | 表紙登場回数 | 備考 |
-| --------- | ----------------------------------------------------------------------------------------------------------- | ------ | -- |
-| 2017年1月号  | [楓](../Page/楓.md "wikilink")                                                                                | 6      |    |
-| 2017年2月号  | [池田エライザ](https://ja.wikipedia.org/wiki/池田エライザ "wikilink")                                                   | 4      |    |
-| 2017年3月号  | [橋本奈々未](https://ja.wikipedia.org/wiki/橋本奈々未 "wikilink")                                                     |        |    |
-| 2017年4月号  | [AAA](../Page/AAA.md "wikilink")                                                                            |        |    |
-| 2017年5月号  | [楓](../Page/楓.md "wikilink")                                                                                | 7      |    |
-| 2017年6月号  | [山本美月](https://ja.wikipedia.org/wiki/山本美月 "wikilink") [伊野尾慧](https://ja.wikipedia.org/wiki/伊野尾慧 "wikilink") | 山本 36  |    |
-| 2017年7月号  | [指原莉乃](https://ja.wikipedia.org/wiki/指原莉乃 "wikilink")                                                       |        |    |
-| 2017年8月号  | [楓](../Page/楓.md "wikilink")                                                                                | 8      |    |
-| 2017年9月号  | [山本美月](https://ja.wikipedia.org/wiki/山本美月 "wikilink")                                                       | 37(最終) |    |
-| 2017年10月号 | [AAA](../Page/AAA.md "wikilink")                                                                            |        |    |
-| 2017年11月号 | [中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")                                                     | 1      |    |
-| 2017年12月号 | [中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")                                                     | 2      |    |
+| 号         | 表紙モデル                                                                                    | 表紙登場回数 | 備考 |
+| --------- | ---------------------------------------------------------------------------------------- | ------ | -- |
+| 2017年1月号  | [楓](../Page/楓.md "wikilink")                                                             | 6      |    |
+| 2017年2月号  | [池田エライザ](https://ja.wikipedia.org/wiki/池田エライザ "wikilink")                                | 4      |    |
+| 2017年3月号  | [橋本奈々未](https://ja.wikipedia.org/wiki/橋本奈々未 "wikilink")                                  |        |    |
+| 2017年4月号  | [AAA](../Page/AAA.md "wikilink")                                                         |        |    |
+| 2017年5月号  | [楓](../Page/楓.md "wikilink")                                                             | 7      |    |
+| 2017年6月号  | [山本美月](https://ja.wikipedia.org/wiki/山本美月 "wikilink") [伊野尾慧](../Page/伊野尾慧.md "wikilink") | 山本 36  |    |
+| 2017年7月号  | [指原莉乃](https://ja.wikipedia.org/wiki/指原莉乃 "wikilink")                                    |        |    |
+| 2017年8月号  | [楓](../Page/楓.md "wikilink")                                                             | 8      |    |
+| 2017年9月号  | [山本美月](https://ja.wikipedia.org/wiki/山本美月 "wikilink")                                    | 37(最終) |    |
+| 2017年10月号 | [AAA](../Page/AAA.md "wikilink")                                                         |        |    |
+| 2017年11月号 | [中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")                                  | 1      |    |
+| 2017年12月号 | [中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")                                  | 2      |    |
 
 2016年
 
@@ -461,7 +461,7 @@
 </tr>
 <tr class="even">
 <td><p>2013年2月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久住小春" title="wikilink">久住小春</a></p></td>
+<td><p><a href="../Page/久住小春.md" title="wikilink">久住小春</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -480,7 +480,7 @@
 <tr class="odd">
 <td><p>2013年5月号</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安座間美優" title="wikilink">安座間美優</a> <a href="https://ja.wikipedia.org/wiki/山本美月" title="wikilink">山本美月</a></p>
-<p><a href="https://ja.wikipedia.org/wiki/久住小春" title="wikilink">久住小春</a></p></td>
+<p><a href="../Page/久住小春.md" title="wikilink">久住小春</a></p></td>
 <td><p>山本 10</p></td>
 <td></td>
 </tr>
@@ -547,7 +547,7 @@
 <td><p><a href="../Page/高橋メアリージュン.md" title="wikilink">高橋メアリージュン</a> <a href="../Page/平山美春.md" title="wikilink">平山美春</a></p>
 <p><a href="../Page/近藤しづか.md" title="wikilink">近藤しづか</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/土屋巴瑞季" title="wikilink">土屋巴瑞季</a></p>
-<p><a href="https://ja.wikipedia.org/wiki/久住小春" title="wikilink">久住小春</a></p></td>
+<p><a href="../Page/久住小春.md" title="wikilink">久住小春</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -559,7 +559,7 @@
 </tr>
 <tr class="odd">
 <td><p>2012年3月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/久住小春" title="wikilink">久住小春</a></p></td>
+<td><p><a href="../Page/久住小春.md" title="wikilink">久住小春</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -610,7 +610,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/安座間美優" title="wikilink">安座間美優</a> <a href="../Page/舞川あいく.md" title="wikilink">舞川あいく</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/山本美月" title="wikilink">山本美月</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/土屋巴瑞季" title="wikilink">土屋巴瑞季</a></p>
-<p><a href="https://ja.wikipedia.org/wiki/久住小春" title="wikilink">久住小春</a></p>
+<p><a href="../Page/久住小春.md" title="wikilink">久住小春</a></p>
 <p><a href="https://ja.wikipedia.org/wiki/森星" title="wikilink">森星</a></p></td>
 <td><p>山本 8 森 3</p></td>
 <td></td>
@@ -722,12 +722,12 @@
 | 2010年1月号  | [西山茉希](https://ja.wikipedia.org/wiki/西山茉希 "wikilink")   |        |    |
 | 2010年2月号  |                                                         |        |    |
 | 2010年3月号  |                                                         |        |    |
-| 2010年4月号  | [徳澤直子](https://ja.wikipedia.org/wiki/徳澤直子 "wikilink")   |        |    |
+| 2010年4月号  | [徳澤直子](../Page/徳澤直子.md "wikilink")                      |        |    |
 | 2010年5月号  | [安座間美優](https://ja.wikipedia.org/wiki/安座間美優 "wikilink") |        |    |
 | 2010年6月号  | [北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")   |        |    |
 | 2010年7月号  | [土屋巴瑞季](https://ja.wikipedia.org/wiki/土屋巴瑞季 "wikilink") |        |    |
 | 2010年8月号  | [舞川あいく](../Page/舞川あいく.md "wikilink")                    |        |    |
-| 2010年9月号  | [徳澤直子](https://ja.wikipedia.org/wiki/徳澤直子 "wikilink")   |        |    |
+| 2010年9月号  | [徳澤直子](../Page/徳澤直子.md "wikilink")                      |        |    |
 | 2010年10月号 | [土屋巴瑞季](https://ja.wikipedia.org/wiki/土屋巴瑞季 "wikilink") |        |    |
 | 2010年11月号 | [安座間美優](https://ja.wikipedia.org/wiki/安座間美優 "wikilink") |        |    |
 | 2010年12月号 | [舞川あいく](../Page/舞川あいく.md "wikilink")                    |        |    |
@@ -740,7 +740,7 @@
 
 女性誌のなかでも群を抜いて積極的な[メディアミックス](../Page/メディアミックス.md "wikilink")展開を見せてきた雑誌で、2005年に発足した公式サイト「CanCam.TV」は2008年半ば頃に180万の月間ページビューを達成\[19\]。同年11月には不定期放送のテレビ番組『テレキャン』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")・[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")）が始動\[20\]。創刊27年目にして初のテレビ進出となった\[21\]。
 
-2012年には[モバゲー配信のソーシャルゲーム](https://ja.wikipedia.org/wiki/Mobage "wikilink")「CanCam Style for Mobage」が始動\[22\]。モバゲーの運営主体にあたる[ディー・エヌ・エー](https://ja.wikipedia.org/wiki/ディー・エヌ・エー "wikilink")社、ならびに[バンダイナムコゲームス社の協賛を得て生まれたモデル育成ゲームで](../Page/バンダイナムコエンターテインメント.md "wikilink")、作中の各種要素が編集部の監修によるものとなっている\[23\]。誌面との連動企画なども盛り込み、同年4月より提供開始\[24\]。
+2012年には[モバゲー配信のソーシャルゲーム](https://ja.wikipedia.org/wiki/Mobage "wikilink")「CanCam Style for Mobage」が始動\[22\]。モバゲーの運営主体にあたる[ディー・エヌ・エー](../Page/ディー・エヌ・エー.md "wikilink")社、ならびに[バンダイナムコゲームス社の協賛を得て生まれたモデル育成ゲームで](../Page/バンダイナムコエンターテインメント.md "wikilink")、作中の各種要素が編集部の監修によるものとなっている\[23\]。誌面との連動企画なども盛り込み、同年4月より提供開始\[24\]。
 
 ## 脚注
 

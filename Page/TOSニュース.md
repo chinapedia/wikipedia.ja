@@ -1,7 +1,7 @@
 > この記事は[TOS](https://ja.wikipedia.org/wiki/TOS)から翻訳されています。
 
 
-『**TOSニュース**』（ティーオーエスニュース）は、[テレビ大分](../Page/テレビ大分.md "wikilink")で放送されている[ローカルニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")）である。
+『**TOSニュース**』（ティーオーエスニュース）は、[テレビ大分](../Page/テレビ大分.md "wikilink")で放送されている[ローカルニュース番組](../Page/報道番組.md "wikilink")（[スポットニュース](../Page/スポットニュース.md "wikilink")）である。
 
 ## 概要
 
@@ -53,10 +53,10 @@
 
 ## その他のニュース番組タイトル
 
-  - TOS [FNNテレビ朝刊](https://ja.wikipedia.org/wiki/FNNテレビ朝刊 "wikilink")
+  - TOS [FNNテレビ朝刊](../Page/FNNテレビ朝刊.md "wikilink")
     1970年4月開局時 - 1994年3月27日
       - 日曜 7:15 - 7:25 → 6:30 - 6:40
-  - [TOSお昼のニュース](https://ja.wikipedia.org/wiki/TOSお昼のニュース "wikilink")
+  - [TOSお昼のニュース](../Page/TOSお昼のニュース.md "wikilink")
     1991年4月1日 - 1993年9月30日
       - 月曜 - 金曜 11:35 - 11:40
   - FNN [TOSスピーク](../Page/TOSスピーク.md "wikilink")
@@ -68,7 +68,7 @@
 
 　　2018年4月2日 ‐
 
-  - [TOSテレニュースFNN](https://ja.wikipedia.org/wiki/TOSテレニュースFNN "wikilink")
+  - [TOSテレニュースFNN](../Page/TOSテレニュースFNN.md "wikilink")
     1993年10月3日 - 2016年3月27日
       - 日曜 11:50 - 12:00
     （全国ニュースは東京から『**産経テレニュースFNN**』）
@@ -100,7 +100,7 @@
 #### 現在
 
   - Live News days
-  - FNNニュース（[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")）
+  - FNNニュース（[年末年始](../Page/年末年始.md "wikilink")）
 
 #### 過去（ANN）
 
@@ -156,7 +156,7 @@
 #### 過去
 
   - [NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")
-  - [NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")
+  - [NNNニュース](../Page/NNNニュース.md "wikilink")
 
 ## 脚注
 

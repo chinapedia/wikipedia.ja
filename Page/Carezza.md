@@ -1,7 +1,7 @@
 > この記事は[Carezza](https://ja.wikipedia.org/wiki/Carezza)から翻訳されています。
 
 
-**carezza**（カレッツァ）は、[野田義治](https://ja.wikipedia.org/wiki/野田義治 "wikilink")率いる[サンズエンタテインメント](../Page/サンズエンタテインメント.md "wikilink")の所属タレントで構成される[芸能人女子フットサル](../Page/芸能人女子フットサル.md "wikilink")チームであった。当初は母体であった[イエローキャブとの混成チームであり](https://ja.wikipedia.org/wiki/イエローキャブ_\(芸能プロダクション\) "wikilink")、[根本はるみ](https://ja.wikipedia.org/wiki/根本はるみ "wikilink")らも参加していたが、[2004年](../Page/2004年.md "wikilink")末、野田義治社長のイエローキャブからの独立に伴いサンズ単独チームとなった。チーム名 "carezza" はイタリア語で「愛撫」「可愛い」「愛らしい」を意味する。チームユニフォームはファーストが白、セカンドはグリーン。2009年末をもって、解散。
+**carezza**（カレッツァ）は、[野田義治](../Page/野田義治.md "wikilink")率いる[サンズエンタテインメント](../Page/サンズエンタテインメント.md "wikilink")の所属タレントで構成される[芸能人女子フットサル](../Page/芸能人女子フットサル.md "wikilink")チームであった。当初は母体であった[イエローキャブとの混成チームであり](https://ja.wikipedia.org/wiki/イエローキャブ_\(芸能プロダクション\) "wikilink")、[根本はるみ](https://ja.wikipedia.org/wiki/根本はるみ "wikilink")らも参加していたが、[2004年](../Page/2004年.md "wikilink")末、野田義治社長のイエローキャブからの独立に伴いサンズ単独チームとなった。チーム名 "carezza" はイタリア語で「愛撫」「可愛い」「愛らしい」を意味する。チームユニフォームはファーストが白、セカンドはグリーン。2009年末をもって、解散。
 
 ## 略歴
 
@@ -32,7 +32,7 @@
     背番号9　[吉野ももみ](../Page/吉野ももみ.md "wikilink")
     背番号10　[磯辺伯実](https://ja.wikipedia.org/wiki/磯辺伯実 "wikilink")（WALNUTS）
     背番号12　[南まりか](../Page/南まりか.md "wikilink")
-    背番号16　[滝ありさ](https://ja.wikipedia.org/wiki/滝ありさ "wikilink")
+    背番号16　[滝ありさ](../Page/滝ありさ.md "wikilink")
     背番号17　[湯本美咲](https://ja.wikipedia.org/wiki/湯本美咲 "wikilink")
     背番号18　[秋山美帆](https://ja.wikipedia.org/wiki/秋山美帆 "wikilink") （GK）
     背番号27　[結城マリエ](https://ja.wikipedia.org/wiki/結城リナ "wikilink")
@@ -51,10 +51,10 @@
   - [河辺瞳](https://ja.wikipedia.org/wiki/河辺瞳 "wikilink") ☆（初代キャプテン） 2005年7月退団
   - [西原杏澄](https://ja.wikipedia.org/wiki/西原杏澄 "wikilink")
   - [根本はるみ](https://ja.wikipedia.org/wiki/根本はるみ "wikilink") ☆
-  - [森ひろこ](https://ja.wikipedia.org/wiki/森ひろこ "wikilink") ☆
+  - [森ひろこ](../Page/森ひろこ.md "wikilink") ☆
   - [矢縄紗弓](https://ja.wikipedia.org/wiki/矢縄紗弓 "wikilink")
   - [秦礼子](https://ja.wikipedia.org/wiki/秦礼子 "wikilink") ☆
-  - [小林ユリ](../Page/小林ユリ.md "wikilink") [ミスマガジン](https://ja.wikipedia.org/wiki/ミスマガジン "wikilink")へ移籍後、退団
+  - [小林ユリ](../Page/小林ユリ.md "wikilink") [ミスマガジン](../Page/ミスマガジン.md "wikilink")へ移籍後、退団
   - [小野崎リイナ](https://ja.wikipedia.org/wiki/小野崎リイナ "wikilink") 2006年1月退団
   - [五十嵐りさ](https://ja.wikipedia.org/wiki/五十嵐りさ "wikilink") 2006年1月退団
   - [田中かおり](https://ja.wikipedia.org/wiki/田中かおり "wikilink") ☆（GK） 2006年1月退団
@@ -63,10 +63,10 @@
   - [伊藤あい](https://ja.wikipedia.org/wiki/伊藤あい "wikilink")　2007年3月退団
   - [小林恵美](../Page/小林恵美.md "wikilink")　2007年4月退団
   - [瀬戸早妃](https://ja.wikipedia.org/wiki/瀬戸早妃 "wikilink")　2007年4月退団
-  - [富田麻帆](https://ja.wikipedia.org/wiki/富田麻帆 "wikilink")　2007年12月退団
+  - [富田麻帆](../Page/富田麻帆.md "wikilink")　2007年12月退団
   - [太田彩乃](../Page/太田彩乃.md "wikilink")　2008年2月退団
   - [井本みさお](../Page/井本みさお.md "wikilink") ☆2008年2月退団→[Team Blue Mountainへ移籍後](../Page/Team_Blue_Mountain.md "wikilink")、退団
-  - [大網亜矢乃](https://ja.wikipedia.org/wiki/亜矢乃 "wikilink")（GK）☆2008年3月退団
+  - [大網亜矢乃](../Page/亜矢乃.md "wikilink")（GK）☆2008年3月退団
   - [ますきあこ](https://ja.wikipedia.org/wiki/ますきあこ "wikilink")　2008年6月15日退団
 
 （☆ - 2004年結成当時のメンバー）

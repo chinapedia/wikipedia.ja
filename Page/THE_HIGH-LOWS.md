@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")、[THE BLUE HEARTSの主要メンバーであった](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")と[真島昌利](../Page/真島昌利.md "wikilink")を中心に結成された。ブルーハーツ解散後、ちょうどバンドを組もうとしていた真島がブルーハーツ関係者であった[大島賢治](../Page/大島賢治.md "wikilink")と[白井幹夫](../Page/白井幹夫.md "wikilink")を誘い、ボーカリストが見つからず、「バンドを辞めて暇そうにしていたので(真島談)」甲本を誘ったのがバンド結成の経緯である。当初は主に学園祭を中心に活動していたが、シングル「[ミサイルマン](../Page/ミサイルマン_\(曲\).md "wikilink")」で正式にデビュー。バンド名の由来は、真島がある日突然閃いたといわれる。また、ギアのハイとローという説もある。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")、[THE BLUE HEARTSの主要メンバーであった](../Page/THE_BLUE_HEARTS.md "wikilink")[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")と[真島昌利](../Page/真島昌利.md "wikilink")を中心に結成された。ブルーハーツ解散後、ちょうどバンドを組もうとしていた真島がブルーハーツ関係者であった[大島賢治](../Page/大島賢治.md "wikilink")と[白井幹夫](../Page/白井幹夫.md "wikilink")を誘い、ボーカリストが見つからず、「バンドを辞めて暇そうにしていたので(真島談)」甲本を誘ったのがバンド結成の経緯である。当初は主に学園祭を中心に活動していたが、シングル「[ミサイルマン](../Page/ミサイルマン_\(曲\).md "wikilink")」で正式にデビュー。バンド名の由来は、真島がある日突然閃いたといわれる。また、ギアのハイとローという説もある。
 
 ファンクラブ(FAN JET)等の業務上の手続きのため、2005年11月に活動休止を発表。「休止とか解散とか、言葉なんかどっちでもいい。10年間やっていたバンドを、今はやっていないだけ」と甲本。「[三谷幸喜](../Page/三谷幸喜.md "wikilink")の映画のために書き下ろした曲を、ハイロウズでやるために準備をしていた矢先にバンドが活動休止になった。大島や調が決定権を持って辞めようと言ったわけじゃない」と甲本は発言している。
 
@@ -15,13 +15,13 @@
 
   - **[甲本ヒロト](../Page/甲本ヒロト.md "wikilink")** [愛称](../Page/愛称.md "wikilink")・ヒロト（こうもと ひろと、1963年3月17日 - ）：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ブルースハープ](../Page/ハーモニカ.md "wikilink")、[ギター](../Page/ギター.md "wikilink")、[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")
       -
-        [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")出身。元[ザ・コーツ](https://ja.wikipedia.org/wiki/ザ・コーツ "wikilink")、[THE BLUE HEARTS](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")、[ヒューストンズ](../Page/ヒューストンズ.md "wikilink")、現[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")。
+        [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")出身。元[ザ・コーツ](https://ja.wikipedia.org/wiki/ザ・コーツ "wikilink")、[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")、[ヒューストンズ](../Page/ヒューストンズ.md "wikilink")、現[ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")。
   - **[真島昌利](../Page/真島昌利.md "wikilink")** 愛称・マーシー（ましま まさとし、1962年2月20日 - ）：ギター、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、作詞、作曲
       -
-        [東京都](../Page/東京都.md "wikilink")[小平市](../Page/小平市.md "wikilink")出身 元[THE BREAKERS](../Page/THE_BREAKERS.md "wikilink")、[THE BLUE HEARTS](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")。現ザ・クロマニヨンズ。
+        [東京都](../Page/東京都.md "wikilink")[小平市](../Page/小平市.md "wikilink")出身 元[THE BREAKERS](../Page/THE_BREAKERS.md "wikilink")、[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")。現ザ・クロマニヨンズ。
   - **[調先人](../Page/調先人.md "wikilink")** 愛称・べっちゃん（しらべ さきと、1963年9月14日 - ）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス
       -
-        [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身 元バサラ、ミン&クリナメン、セルキー他。
+        [福岡県](../Page/福岡県.md "wikilink")出身 元バサラ、ミン&クリナメン、セルキー他。
   - **[大島賢治](../Page/大島賢治.md "wikilink")** 愛称・おーちゃん（おおしま けんじ、1964年12月30日 - ）：[ドラムス](../Page/ドラムセット.md "wikilink")、コーラス
       -
         [東京都](../Page/東京都.md "wikilink")出身 The ブドーカンのドラマーとしてデビュー、元ザ・ブルーハーツ[ディレクター](../Page/ディレクター.md "wikilink")、2・3'S（ニーサンズ）。解散後は、セルキー（脱退）→現HIZMUZ。
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - シングル「[胸がドキドキ](../Page/胸がドキドキ.md "wikilink")」「[相談天国](../Page/相談天国.md "wikilink")」の2枚が[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10位以内に入る。
+  - シングル「[胸がドキドキ](../Page/胸がドキドキ.md "wikilink")」「[相談天国](../Page/相談天国.md "wikilink")」の2枚が[オリコン初登場](../Page/オリコンチャート.md "wikilink")10位以内に入る。
   - [11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")、[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")の初来日となる[日本武道館](../Page/日本武道館.md "wikilink")ライブでオープニング・アクトを務める。
 
 <!-- end list -->
@@ -95,12 +95,12 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
   - [5月18日](../Page/5月18日.md "wikilink")、シングル「[サンダーロード](https://ja.wikipedia.org/wiki/サンダーロード "wikilink")」発売。これがラストシングルとなった。
-  - [11月5日](../Page/11月5日.md "wikilink")、[中央大学](https://ja.wikipedia.org/wiki/中央大学 "wikilink")にて行われた学園祭「中大炎上\!\!↑THE HIGH-LOWS↓LIVE」出演。これがラストライブとなった。なお、最後に演奏した曲は「ハスキー（欲望という名の戦車）」であった。
+  - [11月5日](../Page/11月5日.md "wikilink")、[中央大学](../Page/中央大学.md "wikilink")にて行われた学園祭「中大炎上\!\!↑THE HIGH-LOWS↓LIVE」出演。これがラストライブとなった。なお、最後に演奏した曲は「ハスキー（欲望という名の戦車）」であった。
   - [11月11日](../Page/11月11日.md "wikilink")、↑THE HIGH-LOWS↓活動休止発表。そのまま解散状態となる。11日以前にファンクラブ会員には[ダイレクトメール](../Page/ダイレクトメール.md "wikilink")で活動休止を発表していた。休止及び解散理由等については発表されていない。
 
 <!-- end list -->
@@ -160,7 +160,7 @@
 <td><p>1996年6月24日</p></td>
 <td><p><strong><a href="../Page/相談天国.md" title="wikilink">相談天国</a></strong></p></td>
 <td><p>10位</p></td>
-<td><p><a href="../Page/日産自動車.md" title="wikilink">日産</a>・<a href="../Page/日産・シルビア.md" title="wikilink">シルビア</a><a href="https://ja.wikipedia.org/wiki/コマーシャルソング" title="wikilink">CMソング</a></p></td>
+<td><p><a href="../Page/日産自動車.md" title="wikilink">日産</a>・<a href="../Page/日産・シルビア.md" title="wikilink">シルビア</a><a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -210,7 +210,7 @@
 <td><p>1999年4月21日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/罪と罰_(THE_HIGH-LOWSの曲)" title="wikilink">罪と罰</a></strong></p></td>
 <td><p>24位</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/リングの魂" title="wikilink">リングの魂</a>」オープニングテーマ</p></td>
+<td><p>「<a href="../Page/リングの魂.md" title="wikilink">リングの魂</a>」オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>13th</p></td>
@@ -281,7 +281,7 @@
 <td><p><strong><a href="../Page/日曜日よりの使者.md" title="wikilink">日曜日よりの使者</a></strong></p></td>
 <td><p>20位</p></td>
 <td><p><a href="../Page/本田技研工業.md" title="wikilink">Honda</a>「Do You Have a HONDA?」イメージソング<br />
-映画「<a href="https://ja.wikipedia.org/wiki/ゼブラーマン" title="wikilink">ゼブラーマン</a>」主題歌<br />
+映画「<a href="../Page/ゼブラーマン.md" title="wikilink">ゼブラーマン</a>」主題歌<br />
 <a href="https://ja.wikipedia.org/wiki/北日本放送" title="wikilink">北日本放送</a>「<a href="https://ja.wikipedia.org/wiki/ゼロいち" title="wikilink">ゼロいち</a>」ジングル</p></td>
 </tr>
 <tr class="odd">
@@ -362,7 +362,7 @@
 
 1.  SOTOデナ
       -
-        [ベイ・シティ・ローラーズ](../Page/ベイ・シティ・ローラーズ.md "wikilink")の楽曲、「SATURDAY NIGHT」の[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")。[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")が来日した時のライブの前座で、『[エジンバラからの亀甲縛り](../Page/エディンバラ.md "wikilink")、ベイ・シッティー・ローラーズ』として演奏された。
+        [ベイ・シティ・ローラーズ](../Page/ベイ・シティ・ローラーズ.md "wikilink")の楽曲、「SATURDAY NIGHT」の[替え歌](../Page/替え歌.md "wikilink")。[セックス・ピストルズ](../Page/セックス・ピストルズ.md "wikilink")が来日した時のライブの前座で、『[エジンバラからの亀甲縛り](../Page/エディンバラ.md "wikilink")、ベイ・シッティー・ローラーズ』として演奏された。
 2.  ウェルカム・ピストルズ
       -
         [内田裕也](../Page/内田裕也.md "wikilink")&[尾藤イサオ](https://ja.wikipedia.org/wiki/尾藤イサオ "wikilink")&[ジャッキー吉川とブルーコメッツ](https://ja.wikipedia.org/wiki/ジャッキー吉川とブルーコメッツ "wikilink")の楽曲、「ウェルカム・ビートルズ」の替え歌。SOTOデナと同じく、ピストルズのライブの前座で、『ベイ・シッティー・ローラーズ』として演奏された。
@@ -1116,7 +1116,7 @@
 <!-- end list -->
 
   -
-    松本人志が「乳首相撲はやった仲なんですけれどもね」と、浜田雅功が「自分らほんとテレビ向きちゃうわ」などと発言。また、松本からの「もう『[リンダリンダ](https://ja.wikipedia.org/wiki/リンダリンダ "wikilink")』はやらないの?」との問いに甲本が「そーですね・・・『リンダリンダ』しません」と宣言した。
+    松本人志が「乳首相撲はやった仲なんですけれどもね」と、浜田雅功が「自分らほんとテレビ向きちゃうわ」などと発言。また、松本からの「もう『[リンダリンダ](../Page/リンダリンダ.md "wikilink")』はやらないの?」との問いに甲本が「そーですね・・・『リンダリンダ』しません」と宣言した。
 
 <!-- end list -->
 
@@ -1132,7 +1132,7 @@
 
 ## 関連項目
 
-  - [THE BLUE HEARTS](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")
+  - [THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")
   - [ザ・クロマニヨンズ](../Page/ザ・クロマニヨンズ.md "wikilink")
 
 ## 外部リンク

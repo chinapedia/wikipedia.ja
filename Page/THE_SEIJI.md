@@ -11,7 +11,7 @@
 
 ### 連載終了
 
-  - [かりんと。](https://ja.wikipedia.org/wiki/かりんと。 "wikilink")（原作：[氷幻嵩人](https://ja.wikipedia.org/wiki/氷幻嵩人 "wikilink")、[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink") [2004年](../Page/2004年.md "wikilink")11号 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")25号、[秋田書店](../Page/秋田書店.md "wikilink")、全7巻）
+  - [かりんと。](https://ja.wikipedia.org/wiki/かりんと。 "wikilink")（原作：[氷幻嵩人](https://ja.wikipedia.org/wiki/氷幻嵩人 "wikilink")、[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink") [2004年](../Page/2004年.md "wikilink")11号 - [2005年](../Page/2005年.md "wikilink")25号、[秋田書店](../Page/秋田書店.md "wikilink")、全7巻）
   - [WAVE〜ウェーブ〜](https://ja.wikipedia.org/wiki/WAVE〜ウェーブ〜 "wikilink")（原作：[藤村ZEN](https://ja.wikipedia.org/wiki/藤村ZEN "wikilink")、監修：[藤下真潮](https://ja.wikipedia.org/wiki/藤下真潮 "wikilink")、[ヤングチャンピオン](../Page/ヤングチャンピオン.md "wikilink") [2007年](../Page/2007年.md "wikilink")1号 - 21号 → [月刊ヤングチャンピオン烈](https://ja.wikipedia.org/wiki/月刊ヤングチャンピオン烈 "wikilink") 2007年10号 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月号 、秋田書店、既刊2巻・続巻未刊）
 
 ### 成人向け
@@ -34,7 +34,7 @@
 
 :\* 青空に白桃（[2002年](../Page/2002年.md "wikilink")9月、[富士美出版](../Page/辰巳出版.md "wikilink")）
 
-:\* お父さんごめんなさい。（[2003年](../Page/2003年.md "wikilink")6月、[コアマガジン](https://ja.wikipedia.org/wiki/コアマガジン "wikilink")）
+:\* お父さんごめんなさい。（[2003年](../Page/2003年.md "wikilink")6月、[コアマガジン](../Page/コアマガジン.md "wikilink")）
 
 :\* 体はってますぅ。（2003年[6月17日](../Page/6月17日.md "wikilink")、[竹書房](../Page/竹書房.md "wikilink")）
 

@@ -12,7 +12,7 @@
 ## 収録曲
 
 1.  **PLAYGIRL**
-      - 作詞:愛内里菜 / 作曲:[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") / 編曲:[尾城九龍](../Page/尾城九龍.md "wikilink")
+      - 作詞:愛内里菜 / 作曲:[川島だりあ](../Page/川島だりあ.md "wikilink") / 編曲:[尾城九龍](../Page/尾城九龍.md "wikilink")
     <!-- end list -->
       -
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")』テーマソング。
@@ -26,7 +26,7 @@
     <!-- end list -->
       -
         18thシングル。[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[カミングダウト](../Page/カミングダウト.md "wikilink")』エンディングテーマ。
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』オープニングテーマ。
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』オープニングテーマ。
 4.  **STEP UP\!**
       - 作詞:愛内里菜 / 作曲:大野愛果 / 編曲:[小澤正澄](../Page/小澤正澄.md "wikilink")
     <!-- end list -->
@@ -37,21 +37,21 @@
 6.  **wonderful danger**
       - 作詞:愛内里菜 / 作曲:corin. / 編曲:[AKIRA](https://ja.wikipedia.org/wiki/AKIRA "wikilink")
 7.  **LOVE-FORMATION**
-      - 作詞:愛内里菜 / 作曲:[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink") / 編曲:林良
+      - 作詞:愛内里菜 / 作曲:[輝門](../Page/輝門.md "wikilink") / 編曲:林良
     <!-- end list -->
       -
-        [毎日放送](../Page/毎日放送.md "wikilink")系『[甲子園ボウル](https://ja.wikipedia.org/wiki/甲子園ボウル "wikilink")』主題歌。
+        [毎日放送](../Page/毎日放送.md "wikilink")系『[甲子園ボウル](../Page/甲子園ボウル.md "wikilink")』主題歌。
 8.  **NEVERENDING WINTER**
       - 作詞:愛内里菜 / 作曲:川島だりあ / 編曲:MissTy
 9.  **[Dream×Dream](../Page/Dream×Dream.md "wikilink")**
-      - 作詞:愛内里菜 / 作曲:[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink") / 編曲:corin.
+      - 作詞:愛内里菜 / 作曲:[徳永暁人](../Page/徳永暁人.md "wikilink") / 編曲:corin.
     <!-- end list -->
       -
         16thシングル。全国[東宝](../Page/東宝.md "wikilink")系公開劇場版アニメーション映画『[名探偵コナン 銀翼の奇術師](../Page/名探偵コナン_銀翼の奇術師.md "wikilink")』主題歌。
 10. **MISS YOU**
       - 作詞: 愛内里菜 作曲: 輝門 編曲: [古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
 11. **Seductive Medicine**
-      - 作詞:愛内里菜 / 作曲:[岩井勇一郎](https://ja.wikipedia.org/wiki/岩井勇一郎 "wikilink") / 編曲:[munetoshi](https://ja.wikipedia.org/wiki/munetoshi "wikilink")
+      - 作詞:愛内里菜 / 作曲:[岩井勇一郎](../Page/岩井勇一郎.md "wikilink") / 編曲:[munetoshi](https://ja.wikipedia.org/wiki/munetoshi "wikilink")
 12. **V.I.P**
       - 作詞:愛内里菜 / 作曲・編曲:綿貫正顕
 13. **GIRLS PLAY**

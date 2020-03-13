@@ -3,29 +3,29 @@
 
 『**ドラゴンボールZ 龍拳爆発\!\!悟空がやらねば誰がやる**』（ドラゴンボールゼット りゅうけんばくはつ ごくうがやらねばだれがやる）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月15日](../Page/7月15日.md "wikilink")に公開された『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』シリーズの劇場公開作第16弾。監督は[橋本光夫](https://ja.wikipedia.org/wiki/橋本光夫 "wikilink")。
 
-夏休みの[東映アニメフェア](https://ja.wikipedia.org/wiki/東映アニメフェア "wikilink")の1作品として上映された。同時上映作は『[スラムダンク 吠えろバスケットマン魂\!\! 花道と流川の熱き夏](https://ja.wikipedia.org/wiki/スラムダンク_吠えろバスケットマン魂!!_花道と流川の熱き夏 "wikilink")』『[NINKU -忍空-](https://ja.wikipedia.org/wiki/NINKU_-忍空- "wikilink")』。
+夏休みの[東映アニメフェア](../Page/東映アニメフェア.md "wikilink")の1作品として上映された。同時上映作は『[スラムダンク 吠えろバスケットマン魂\!\! 花道と流川の熱き夏](https://ja.wikipedia.org/wiki/スラムダンク_吠えろバスケットマン魂!!_花道と流川の熱き夏 "wikilink")』『[NINKU -忍空-](../Page/NINKU_-忍空-.md "wikilink")』。
 
 ## 解説
 
 配給収入8.5億円\[1\]、観客動員数240万人\[2\]。
 
-原作が完結したあとに製作発表された。『ドラゴンボール大全集』には「物語中では、[悟空や](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")[ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")が肉体を持っており、地球に平和が戻っている。このことから、[ブウとの闘いが終了したのちの物語であることは](../Page/魔人ブウ.md "wikilink")、ほぼ間違いないだろう」と書かれていた\[3\]。今作はオープニングがなく、クレジットは作中に表記されていた。
+原作が完結したあとに製作発表された。『ドラゴンボール大全集』には「物語中では、[悟空や](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")[ベジータ](../Page/ベジータ.md "wikilink")が肉体を持っており、地球に平和が戻っている。このことから、[ブウとの闘いが終了したのちの物語であることは](../Page/魔人ブウ.md "wikilink")、ほぼ間違いないだろう」と書かれていた\[3\]。今作はオープニングがなく、クレジットは作中に表記されていた。
 
-孫悟空は老界王神の命を譲り受け復活しており、[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")は超サイヤ人にならずに老界王神の潜在能力解放状態で戦い、[ゴテンクス](../Page/ゴテンクス.md "wikilink")は超サイヤ人3に変身して戦い、魔人ブウとの最終決戦時に悟空を「ナンバー1」と認めしがらみを捨てたベジータが、一般市民の盾となり守るシーンなどが描かれている。また、[トランクスが最後にタピオンから未来のトランクスが持っていた物と全く同じデザインの剣を与えられるシーンがあり](../Page/トランクス_\(ドラゴンボール\).md "wikilink")、人造人間編の青年トランクスとのつながりが示唆されている。
+孫悟空は老界王神の命を譲り受け復活しており、[孫悟飯](../Page/孫悟飯.md "wikilink")は超サイヤ人にならずに老界王神の潜在能力解放状態で戦い、[ゴテンクス](../Page/ゴテンクス.md "wikilink")は超サイヤ人3に変身して戦い、魔人ブウとの最終決戦時に悟空を「ナンバー1」と認めしがらみを捨てたベジータが、一般市民の盾となり守るシーンなどが描かれている。また、[トランクスが最後にタピオンから未来のトランクスが持っていた物と全く同じデザインの剣を与えられるシーンがあり](../Page/トランクス_\(ドラゴンボール\).md "wikilink")、人造人間編の青年トランクスとのつながりが示唆されている。
 
 ヒルデガーンとの最終決戦の舞台は「巨大な敵との市街地での決戦」という、『ドラゴンボール』では異例の構成になっている\[4\]。
 
 劇場用予告編は、「悟飯\!悟天\!トランクス\!ベジータ\!フュージョンだ\!\!」と、あたかも全員でフュージョンを行うかのような悟空の台詞で構成されている。初期に配布されていたポスターと映画公開時のポスターでは内容に差異があり、初期には「今度は悟空と悟飯がフュージョン\!?」などと記されていたものもあり、龍拳の要素やトランクスとタピオンの兄弟劇などは宣伝に入っていなかった。なお、劇場公開時のパンフレットはそれまでの過去16作品を初めて「この映画では○○がNo1」といった特集を設けていた。
 
-なお、[亀仙人](https://ja.wikipedia.org/wiki/亀仙人 "wikilink")役の声優は[宮内幸平](https://ja.wikipedia.org/wiki/宮内幸平 "wikilink")亡き後アニメ版では[増岡弘](../Page/増岡弘.md "wikilink")が務めたが、この作品では[佐藤正治が代役として担当した](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")。佐藤は後年の『[ドラゴンボール改](https://ja.wikipedia.org/wiki/ドラゴンボール改 "wikilink")』『[ドラゴンボールZ 神と神](https://ja.wikipedia.org/wiki/ドラゴンボールZ_神と神 "wikilink")』以後の映画、及び『[ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")』で正式にレギュラーに就任して亀仙人役を演じている。また、現時点ではシリーズの劇場長編映画で[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")が音楽を担当した最後の作品となっている。
+なお、[亀仙人](../Page/亀仙人.md "wikilink")役の声優は[宮内幸平](../Page/宮内幸平.md "wikilink")亡き後アニメ版では[増岡弘](../Page/増岡弘.md "wikilink")が務めたが、この作品では[佐藤正治が代役として担当した](../Page/佐藤正治_\(声優\).md "wikilink")。佐藤は後年の『[ドラゴンボール改](https://ja.wikipedia.org/wiki/ドラゴンボール改 "wikilink")』『[ドラゴンボールZ 神と神](https://ja.wikipedia.org/wiki/ドラゴンボールZ_神と神 "wikilink")』以後の映画、及び『[ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")』で正式にレギュラーに就任して亀仙人役を演じている。また、現時点ではシリーズの劇場長編映画で[菊池俊輔](../Page/菊池俊輔.md "wikilink")が音楽を担当した最後の作品となっている。
 
 ## あらすじ
 
-魔人ブウの脅威が去り、グレートサイヤマンの活躍などもあって地球はしばし平和な日々が続いていた。ある日、悟飯と[ビーデル](../Page/ビーデル.md "wikilink")はいつものようにグレートサイヤマンとしての任務をこなしている最中にホイという老人から[オルゴール](https://ja.wikipedia.org/wiki/オルゴール "wikilink")に封じられた勇者を復活させてほしいと頼まれる。オルゴールを鳴らすことができれば勇者は復活するというが、悟空でさえオルゴールの取っ手を回すことはできず、ならば[ドラゴンボールに頼んでみようということで](../Page/ドラゴンボール_\(架空の道具\).md "wikilink")[神龍を呼び出す](https://ja.wikipedia.org/wiki/神龍_\(ドラゴンボール\) "wikilink")。
+魔人ブウの脅威が去り、グレートサイヤマンの活躍などもあって地球はしばし平和な日々が続いていた。ある日、悟飯と[ビーデル](../Page/ビーデル.md "wikilink")はいつものようにグレートサイヤマンとしての任務をこなしている最中にホイという老人から[オルゴール](../Page/オルゴール.md "wikilink")に封じられた勇者を復活させてほしいと頼まれる。オルゴールを鳴らすことができれば勇者は復活するというが、悟空でさえオルゴールの取っ手を回すことはできず、ならば[ドラゴンボールに頼んでみようということで](../Page/ドラゴンボール_\(架空の道具\).md "wikilink")[神龍を呼び出す](https://ja.wikipedia.org/wiki/神龍_\(ドラゴンボール\) "wikilink")。
 
 神龍によって封印を解かれたオルゴールは美しい音色と共に壊れ、そこから[オカリナ](../Page/オカリナ.md "wikilink")を吹きながら一人の青年が現れた。彼こそホイの言っていた伝説の勇者・タピオンであった。タピオンのその雰囲気にトランクスは興味津々でついてまわるが、そこでホイの不審な動きも目撃する。その後打ち解けたトランクスとタピオンは[カプセルコーポレーション](../Page/カプセルコーポレーション.md "wikilink")で一緒に兄弟のように住み始めるが、実はタピオンには恐ろしい秘密が隠されていた。かつてコナッツ星を襲った幻魔人ヒルデガーンが彼の体内に封じられていたのである。
 
-[ブルマの提案で封印されていたオルゴールを再現するも](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink")、先に封印の解かれた下半身と引き合う力を止められず、ついにヒルデガーンは復活してしまった。悟空たちと、幻魔人ヒルデガーンとの戦いが始まる。
+[ブルマの提案で封印されていたオルゴールを再現するも](../Page/ブルマ_\(ドラゴンボール\).md "wikilink")、先に封印の解かれた下半身と引き合う力を止められず、ついにヒルデガーンは復活してしまった。悟空たちと、幻魔人ヒルデガーンとの戦いが始まる。
 
 ## ゲストキャラクター
 
@@ -46,20 +46,20 @@
 
 ## 声の出演
 
-  - **[孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")**、**[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")**、**[孫悟天](https://ja.wikipedia.org/wiki/孫悟天 "wikilink")** - [野沢雅子](../Page/野沢雅子.md "wikilink")
+  - **[孫悟空](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")**、**[孫悟飯](../Page/孫悟飯.md "wikilink")**、**[孫悟天](../Page/孫悟天.md "wikilink")** - [野沢雅子](../Page/野沢雅子.md "wikilink")
   - **[トランクス](https://ja.wikipedia.org/wiki/トランクス_\(ドラゴンボール\)#トランクス（現代） "wikilink")** - [草尾毅](../Page/草尾毅.md "wikilink")
-  - **[クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")**、**ミノシア** - [田中真弓](../Page/田中真弓.md "wikilink")
-  - **[ブルマ](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink")** - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
-  - **[亀仙人](https://ja.wikipedia.org/wiki/亀仙人 "wikilink")** - [佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
+  - **[クリリン](../Page/クリリン.md "wikilink")**、**ミノシア** - [田中真弓](../Page/田中真弓.md "wikilink")
+  - **[ブルマ](../Page/ブルマ_\(ドラゴンボール\).md "wikilink")** - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
+  - **[亀仙人](../Page/亀仙人.md "wikilink")** - [佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
   - **[ビーデル](../Page/ビーデル.md "wikilink")** - [皆口裕子](../Page/皆口裕子.md "wikilink")
-  - **[ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")** - [堀川亮](../Page/堀川りょう.md "wikilink")
+  - **[ベジータ](../Page/ベジータ.md "wikilink")** - [堀川亮](../Page/堀川りょう.md "wikilink")
   - **タピオン**、**シャプナー** - [結城比呂](../Page/優希比呂.md "wikilink")
-  - **ホイ** - [松田重治](https://ja.wikipedia.org/wiki/松田重治 "wikilink")
+  - **ホイ** - [松田重治](../Page/松田重治.md "wikilink")
   - **強盗** - [風間信彦](../Page/風間信彦.md "wikilink")
   - **隊長** - [川津泰彦](https://ja.wikipedia.org/wiki/川津泰彦 "wikilink")
   - **野次馬** - [永田一朗](https://ja.wikipedia.org/wiki/永田一朗 "wikilink")
-  - **女教師** - [大本眞基子](https://ja.wikipedia.org/wiki/大本眞基子 "wikilink")
-  - **通信** - [幸野善之](https://ja.wikipedia.org/wiki/幸野善之 "wikilink")
+  - **女教師** - [大本眞基子](../Page/大本眞基子.md "wikilink")
+  - **通信** - [幸野善之](../Page/幸野善之.md "wikilink")
   - **ヒルデガーン**、**神龍** - [青森伸](../Page/青森伸.md "wikilink")
 
 ## スタッフ
@@ -68,12 +68,12 @@
   - 原作 - [鳥山明](../Page/鳥山明.md "wikilink")
   - 企画 - [森下孝三](../Page/森下孝三.md "wikilink")、蛭田成一、[清水賢治](../Page/清水賢治.md "wikilink")、金田耕司、[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")
   - 製作担当 - 杉本隆一
-  - 脚本 - [小山高生](https://ja.wikipedia.org/wiki/小山高生 "wikilink")
-  - 音楽 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
+  - 脚本 - [小山高生](../Page/小山高生.md "wikilink")
+  - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影監督 - 清水政夫
   - 編集 - 福光伸一
   - 録音 - 二宮健治
-  - 美術設定 - [窪田忠雄](https://ja.wikipedia.org/wiki/窪田忠雄 "wikilink")
+  - 美術設定 - [窪田忠雄](../Page/窪田忠雄.md "wikilink")
   - 美術監督 - [東潤一](https://ja.wikipedia.org/wiki/東潤一 "wikilink")
   - 作画監督 - [山室直儀](../Page/山室直儀.md "wikilink")
   - 監修 - [山内重保](../Page/山内重保.md "wikilink")
@@ -84,7 +84,7 @@
 ## 主題歌
 
   - エンディングテーマ - 「[俺がやらなきゃ誰がやる](https://ja.wikipedia.org/wiki/俺がやらなきゃ誰がやる_\(影山ヒロノブの曲\) "wikilink")」
-    作詞 - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲 - [林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink") / 編曲 - 林有三 / 歌 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+    作詞 - [森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲 - [林哲司](../Page/林哲司.md "wikilink") / 編曲 - 林有三 / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
   - 挿入歌 - 「勇者の笛 〜タピオンのテーマ〜」
     作詞 - 森雪之丞 / 作曲 - 林哲司 / 編曲 - [戸塚修](../Page/戸塚修.md "wikilink") / 歌 - [大矢晋](../Page/大矢晋.md "wikilink")
     ※本編ではメロディーのみ。

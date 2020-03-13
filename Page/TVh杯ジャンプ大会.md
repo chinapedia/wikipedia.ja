@@ -1,7 +1,7 @@
 > この記事は[TVh](https://ja.wikipedia.org/wiki/TVh)から翻訳されています。
 
 
-**[TVh杯ジャンプ大会兼札幌スキー連盟会長杯ジャンプ大会](../Page/テレビ北海道.md "wikilink")**は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](https://ja.wikipedia.org/wiki/大倉山ジャンプ競技場 "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会である。「兼札幌スキー連盟会長杯」と銘打たれているが、札幌スキー連盟名誉会長の[伊藤義郎](https://ja.wikipedia.org/wiki/伊藤義郎 "wikilink")はテレビ北海道の初代社長であり、同局の開局に大いに寄与した伊藤が名誉会長を務める[伊藤組土建](https://ja.wikipedia.org/wiki/伊藤組土建 "wikilink")は[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")に次ぐTVhの第2位の大株主となっている。
+**[TVh杯ジャンプ大会兼札幌スキー連盟会長杯ジャンプ大会](../Page/テレビ北海道.md "wikilink")**は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](../Page/大倉山ジャンプ競技場.md "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会である。「兼札幌スキー連盟会長杯」と銘打たれているが、札幌スキー連盟名誉会長の[伊藤義郎](https://ja.wikipedia.org/wiki/伊藤義郎 "wikilink")はテレビ北海道の初代社長であり、同局の開局に大いに寄与した伊藤が名誉会長を務める[伊藤組土建](https://ja.wikipedia.org/wiki/伊藤組土建 "wikilink")は[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")に次ぐTVhの第2位の大株主となっている。
 
 ## 歴代優勝者
 
@@ -13,7 +13,7 @@
 | 2  | 1991 2 2  | 大倉山シャンツェ | [東和広](https://ja.wikipedia.org/wiki/東和広_\(スキージャンプ\) "wikilink") | [日本空調サービス](../Page/日本空調サービス.md "wikilink")                    | 220.5 | 117.0  | 108.0  |
 | 3  | 1992 2 2  | 大倉山シャンツェ | 渋谷潤                                                             | [たくぎん](https://ja.wikipedia.org/wiki/たくぎん "wikilink")         | 199.8 | 103.5  | 113.5  |
 | 4  | 1993 2 6  | 大倉山シャンツェ | [東輝](../Page/東輝.md "wikilink")                                  | [ニッカウヰスキー](https://ja.wikipedia.org/wiki/ニッカウヰスキー "wikilink") | 217.2 | 118.0  | 105.0  |
-| 5  | 1994 2 6  | 大倉山シャンツェ | [葛西紀明](../Page/葛西紀明.md "wikilink")                              | [地崎工業](https://ja.wikipedia.org/wiki/地崎工業 "wikilink")         | 256.5 | 118.5  | 121.5  |
+| 5  | 1994 2 6  | 大倉山シャンツェ | [葛西紀明](../Page/葛西紀明.md "wikilink")                              | [地崎工業](../Page/地崎工業.md "wikilink")                            | 256.5 | 118.5  | 121.5  |
 | 6  | 1995 2 4  | 大倉山シャンツェ | [原田雅彦](../Page/原田雅彦.md "wikilink")                              | [雪印乳業](../Page/雪印乳業.md "wikilink")                            | 241.2 | 117.0  | 119.5  |
 | 7  | 1996 2 4  | 大倉山シャンツェ | 原田雅彦                                                            | 雪印乳業                                                          | 247.0 | 121.0  | 114.0  |
 | 8  | 1997 2 1  | 大倉山シャンツェ | 東和広                                                             | 日本空調サービス                                                      | 256.5 | 121.0  | 129.0  |
@@ -22,7 +22,7 @@
 | 11 | 2000 2 6  | 大倉山シャンツェ | [西森享平](https://ja.wikipedia.org/wiki/西森享平 "wikilink")           | 白馬スキークラブ                                                      | 270.4 | 128.5  | 132.0  |
 | 12 | 2001 2 10 | 大倉山シャンツェ | [吹田幸隆](https://ja.wikipedia.org/wiki/吹田幸隆 "wikilink")           | 雪印乳業                                                          | 135.1 | 129.5  | ─      |
 | 13 | 2002 2 3  | 大倉山シャンツェ | [岡部孝信](../Page/岡部孝信.md "wikilink")                              | 雪印乳業                                                          | 289.4 | 138.0  | 137.5  |
-| 14 | 2003 2 1  | 大倉山シャンツェ | [一戸剛](https://ja.wikipedia.org/wiki/一戸剛 "wikilink")             | [アインズ](https://ja.wikipedia.org/wiki/アインズ "wikilink")         | 141.9 | 135.5  | ─      |
+| 14 | 2003 2 1  | 大倉山シャンツェ | [一戸剛](../Page/一戸剛.md "wikilink")                                | [アインズ](https://ja.wikipedia.org/wiki/アインズ "wikilink")         | 141.9 | 135.5  | ─      |
 | 15 | 2004 2 1  | 大倉山シャンツェ | 東輝                                                              | 日本空調サービス                                                      | 284.4 | 137.0  | 131.0  |
 | 16 | 2005 2 12 | 大倉山シャンツェ | 東輝                                                              | 日本空調サービス                                                      | 263.7 | 135.5  | 121.0  |
 | 17 | 2006 2 5  | 大倉山シャンツェ | 東輝                                                              | 日本空調サービス                                                      | 273.1 | 129.0  | 133.0  |
@@ -61,7 +61,7 @@
 | 23 | 2012 1 15 | 大倉山シャンツェ | [伊藤有希](https://ja.wikipedia.org/wiki/伊藤有希 "wikilink")   | [下川商業高](../Page/北海道下川商業高等学校.md "wikilink")                  | 264.1 | 123.5  | 136.0  |
 | 24 | 2013 1 26 | 大倉山シャンツェ | 茂野美咲                                                    | ライズJC                                                       | 171.5 | 101.5  | 113.5  |
 | 25 | 2014 3 2  | 大倉山シャンツェ | 吉泉賀子                                                    | 日本空調サービス                                                    | 192.6 | 111.0  | 113.5  |
-| 26 | 2015 2 27 | 大倉山シャンツェ | [高梨沙羅](https://ja.wikipedia.org/wiki/高梨沙羅 "wikilink")   | [クラレ](https://ja.wikipedia.org/wiki/クラレ "wikilink")         | 251.2 | 119.5  | 137.0  |
+| 26 | 2015 2 27 | 大倉山シャンツェ | [高梨沙羅](https://ja.wikipedia.org/wiki/高梨沙羅 "wikilink")   | [クラレ](../Page/クラレ.md "wikilink")                            | 251.2 | 119.5  | 137.0  |
 | 27 | 2016 1 10 | 大倉山シャンツェ | [岩渕香里](https://ja.wikipedia.org/wiki/岩渕香里 "wikilink")   | [松本大学](../Page/松本大学.md "wikilink")                          | 242.7 | 122.5  | 131.5  |
 | 28 | 2017 2 18 | 大倉山シャンツェ | 鴨田鮎華                                                    | 下川商業高                                                       | 222.0 | 120.5  | 125.5  |
 | 29 | 2018 2 24 | 大倉山シャンツェ | [伊藤有希](https://ja.wikipedia.org/wiki/伊藤有希 "wikilink")   | 土屋ホーム                                                       | 269.3 | 132.0  | 140.0  |

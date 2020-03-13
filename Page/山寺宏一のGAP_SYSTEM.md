@@ -23,7 +23,7 @@
 
 ## ラジオ番組
 
-1994年1月から放送開始。当初は東海ラジオのみの放送だったが、後に[ラジオ大阪](../Page/大阪放送.md "wikilink")、[HBCラジオ](../Page/HBCラジオ.md "wikilink")、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")、[山形放送](../Page/山形放送.md "wikilink")などでもネットが開始された\[1\]\[2\] 。1997年3月末をもって3年3か月の放送を終了\[3\]。青森放送では編成の都合で最終回の1つ前の回で終了し、『[さめちゃんの働いてナンボ](https://ja.wikipedia.org/wiki/鮫島大史 "wikilink")』に切り替えた。
+1994年1月から放送開始。当初は東海ラジオのみの放送だったが、後に[ラジオ大阪](../Page/大阪放送.md "wikilink")、[HBCラジオ](../Page/HBCラジオ.md "wikilink")、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")、[山形放送](../Page/山形放送.md "wikilink")などでもネットが開始された\[1\]\[2\] 。1997年3月末をもって3年3か月の放送を終了\[3\]。青森放送では編成の都合で最終回の1つ前の回で終了し、『[さめちゃんの働いてナンボ](../Page/鮫島大史.md "wikilink")』に切り替えた。
 
 ### パーソナリティー
 
@@ -38,7 +38,7 @@
   - やまでらからでまや
   - GAP インフォメーション
   - みわのぬけげ
-  - [ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")
+  - [ラジオドラマ](../Page/ラジオドラマ.md "wikilink")
 
 <!-- end list -->
 
@@ -48,8 +48,8 @@
       - 『新・幕末少年世紀タカマル』\[5\]
       - 『[メタルファイターMIKU](https://ja.wikipedia.org/wiki/メタルファイターMIKU "wikilink")』\[6\]
       - 『[バイストン・ウェル物語 ガーゼィの翼](https://ja.wikipedia.org/wiki/バイストン・ウェル物語_ガーゼィの翼 "wikilink")』\[7\]
-      - 『[青空少女隊](https://ja.wikipedia.org/wiki/青空少女隊 "wikilink")』\[8\]
-      - 『[MAZE☆爆熱時空](https://ja.wikipedia.org/wiki/MAZE☆爆熱時空 "wikilink")』\[9\]
+      - 『[青空少女隊](../Page/青空少女隊.md "wikilink")』\[8\]
+      - 『[MAZE☆爆熱時空](../Page/MAZE☆爆熱時空.md "wikilink")』\[9\]
 
 ## 出典
 

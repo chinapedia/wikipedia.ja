@@ -66,7 +66,7 @@ int main(void) {
 }
 ```
 
-ただしmemset呼び出しはコンパイラ最適化によって除去されることもある。機密性の高い情報をメモリからクリアするなど、セキュリティ脆弱性の解消を目的とする場合は、[C11オプション関数のmemset](https://ja.wikipedia.org/wiki/C11_\(C言語\) "wikilink")_sや、[Windows APIのSecureZeroMemoryなどを使用する](https://ja.wikipedia.org/wiki/Windows_API "wikilink")。
+ただしmemset呼び出しはコンパイラ最適化によって除去されることもある。機密性の高い情報をメモリからクリアするなど、セキュリティ脆弱性の解消を目的とする場合は、[C11オプション関数のmemset](https://ja.wikipedia.org/wiki/C11_\(C言語\) "wikilink")_sや、[Windows APIのSecureZeroMemoryなどを使用する](../Page/Windows_API.md "wikilink")。
 
 ## 実装例
 
@@ -88,7 +88,7 @@ void *MemSet(void *buf, int c, size_t num) {
 ## 関連項目
 
   - [C言語](../Page/C言語.md "wikilink")
-  - [標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")
+  - [標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")
   - [プログラミング言語](../Page/プログラミング言語.md "wikilink")
 
 ## 外部リンク

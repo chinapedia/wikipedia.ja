@@ -1,7 +1,7 @@
 > この記事は[Motorola ROKR E1](https://ja.wikipedia.org/wiki/Motorola_ROKR_E1)から翻訳されています。
 
 
-**Motorola ROKR E1**（モトローラ ロッカー イー-）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月に発売された、[モトローラ](../Page/モトローラ.md "wikilink")の音楽[携帯電話](../Page/携帯電話.md "wikilink")である。一般的には「**ROKR**（ロッカー）」、「**MotoROKR**（モトロッカー）」と呼ばれている。
+**Motorola ROKR E1**（モトローラ ロッカー イー-）は、[2005年](../Page/2005年.md "wikilink")9月に発売された、[モトローラ](../Page/モトローラ.md "wikilink")の音楽[携帯電話](../Page/携帯電話.md "wikilink")である。一般的には「**ROKR**（ロッカー）」、「**MotoROKR**（モトロッカー）」と呼ばれている。
 
 端末に[アップルの携帯電話用](../Page/アップル_\(企業\).md "wikilink")[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")が搭載されており、[パソコン上のiTunesとの連携に対応している](../Page/パーソナルコンピュータ.md "wikilink")。そのため、CDやファイルからのインポートの他、[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")（発売された頃は「iTunes Music Store」）で購入した[音楽](../Page/音楽.md "wikilink")をこの端末で聞くことができる。
 

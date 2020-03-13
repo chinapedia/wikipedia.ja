@@ -17,7 +17,7 @@
 
 弟子に元[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")の[仙堂花歩](../Page/仙堂花歩.md "wikilink")らがいる。
 
-[島田一の介](../Page/島田一の介.md "wikilink")とは40年来の親友である。[帯谷孝史](https://ja.wikipedia.org/wiki/帯谷孝史 "wikilink")とは月一で食事をする関係。
+[島田一の介](../Page/島田一の介.md "wikilink")とは40年来の親友である。[帯谷孝史](../Page/帯谷孝史.md "wikilink")とは月一で食事をする関係。
 
 ## 名前の由来と芸風
 
@@ -48,8 +48,8 @@
   - [キスより簡単](https://ja.wikipedia.org/wiki/キスより簡単 "wikilink")（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、フジテレビ） - 鈴也に間違えられた男性 役
   - [男と女のミステリー](https://ja.wikipedia.org/wiki/男と女のミステリー "wikilink")『[心はロンリー気持ちは「…」VII](https://ja.wikipedia.org/wiki/心はロンリー気持ちは「…」#シリーズ "wikilink")』（[1988年](../Page/1988年.md "wikilink")、フジテレビ）
   - [NHK大河ドラマ](../Page/大河ドラマ.md "wikilink")『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』（[1991年](../Page/1991年.md "wikilink")、NHK） - 小男 役
-  - [土曜グランド劇場](https://ja.wikipedia.org/wiki/土曜グランド劇場 "wikilink")『[三姉妹探偵団](https://ja.wikipedia.org/wiki/三姉妹探偵団 "wikilink")』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、日本テレビ） - 桃源郷・店主 役
-  - [連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[やんちゃくれ](https://ja.wikipedia.org/wiki/やんちゃくれ "wikilink")』（1998年 - [1999年](../Page/1999年.md "wikilink")、NHK） - 奥田寛一 役
+  - [土曜グランド劇場](https://ja.wikipedia.org/wiki/土曜グランド劇場 "wikilink")『[三姉妹探偵団](../Page/三姉妹探偵団.md "wikilink")』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、日本テレビ） - 桃源郷・店主 役
+  - [連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[やんちゃくれ](../Page/やんちゃくれ.md "wikilink")』（1998年 - [1999年](../Page/1999年.md "wikilink")、NHK） - 奥田寛一 役
   - 連続テレビ小説『[あすか](../Page/あすか_\(テレビドラマ\).md "wikilink")』（1999年 - [2000年](../Page/2000年.md "wikilink")、NHK） - 桑田 役
   - 連続テレビ小説『[てるてる家族](../Page/てるてる家族.md "wikilink")』（[2003年](../Page/2003年.md "wikilink") - [2004年](../Page/2004年.md "wikilink")、NHK） - 復員兵
   - 連続テレビ小説『[だんだん](https://ja.wikipedia.org/wiki/だんだん "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [2009年](../Page/2009年.md "wikilink")、NHK） - ライブハウス「ワイルドダック」マスター 役
@@ -72,7 +72,7 @@
 
 ### テレビ
 
-  - 『[タモリのSuperボキャブラ天国](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")』（ネタVTR出演。[たらい](https://ja.wikipedia.org/wiki/たらい "wikilink")に乗せられたり 、子供に暴行されたり した）
+  - 『[タモリのSuperボキャブラ天国](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")』（ネタVTR出演。[たらい](../Page/たらい.md "wikilink")に乗せられたり 、子供に暴行されたり した）
   - [サタうま\!](../Page/サタうま!.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")） - 茂ちゃん軍団としてVTR出演。
   - [探偵ナイトスクープ](https://ja.wikipedia.org/wiki/探偵ナイトスクープ "wikilink") - 依頼のVTR放映の際に、チョイ役（『[リング](https://ja.wikipedia.org/wiki/リング_\(1998年の映画\) "wikilink")』の[貞子役](../Page/山村貞子.md "wikilink")・[幽霊](../Page/幽霊.md "wikilink")役・[ヘタレ](https://ja.wikipedia.org/wiki/ヘタレ "wikilink")の[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")家役）出演することがある。
 
@@ -86,7 +86,7 @@
 
 ### CM
 
-  - [明星食品](https://ja.wikipedia.org/wiki/明星食品 "wikilink") ソース焼そば（1988年）
+  - [明星食品](../Page/明星食品.md "wikilink") ソース焼そば（1988年）
   - [リクルート](../Page/リクルートホールディングス.md "wikilink") [ビーイング](https://ja.wikipedia.org/wiki/ビーイング_\(雑誌\) "wikilink")（1989年）
   - [ハドソン](../Page/ハドソン.md "wikilink") [爆ボンバーマン2](../Page/爆ボンバーマン2.md "wikilink")（1999年）
   - [池田模範堂](../Page/池田模範堂.md "wikilink") [ムヒ](https://ja.wikipedia.org/wiki/ムヒ "wikilink")（村上ショージと共演）

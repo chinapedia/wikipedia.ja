@@ -9,7 +9,7 @@
 
 ## 作品リスト
 
-  - [DAWN -陽はまた昇る-](../Page/DAWN_-陽はまた昇る-.md "wikilink")（原作：[倉科遼](https://ja.wikipedia.org/wiki/倉科遼 "wikilink")、[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")）
+  - [DAWN -陽はまた昇る-](../Page/DAWN_-陽はまた昇る-.md "wikilink")（原作：[倉科遼](../Page/倉科遼.md "wikilink")、[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")）
   - 漫画セクハラ専門学校（[スピリッツ増刊IKKI](../Page/月刊IKKI.md "wikilink")）
   - はたらくおねえさんの制服ずかん
   - [三代目魚武濱田成夫](../Page/三代目魚武濱田成夫.md "wikilink")伝
@@ -22,8 +22,8 @@
   - マンガでわかる上司と部下の職場系心理学
   - マンガ・パソコンの作り方
   - SHIN-DO（原作：[来賀友志](../Page/来賀友志.md "wikilink")）
-  - 百合子のひとりめし（原作：[久住昌之](https://ja.wikipedia.org/wiki/久住昌之 "wikilink")）
-  - んなアホな\!\!（原作：[倉科遼](https://ja.wikipedia.org/wiki/倉科遼 "wikilink")）
+  - 百合子のひとりめし（原作：[久住昌之](../Page/久住昌之.md "wikilink")）
+  - んなアホな\!\!（原作：[倉科遼](../Page/倉科遼.md "wikilink")）
   - 定食ハニー（[週刊漫画ゴラク](../Page/週刊漫画ゴラク.md "wikilink")）
   - カイシャの宿題（[週刊漫画サンデー](https://ja.wikipedia.org/wiki/週刊漫画サンデー "wikilink")）
   - お聞くさん（[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")）

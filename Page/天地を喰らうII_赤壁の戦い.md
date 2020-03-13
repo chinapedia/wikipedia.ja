@@ -7,7 +7,7 @@
 
 [1996年](../Page/1996年.md "wikilink")に[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[セガサターン](../Page/セガサターン.md "wikilink")に移植され、Play Station版は[2006年](../Page/2006年.md "wikilink")に『カプコン ゲームブックス』シリーズとして再発売された他、[2011年](../Page/2011年.md "wikilink")に[PlayStation 3および](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Play Station Portable用ソフトとして](https://ja.wikipedia.org/wiki/Play_Station_Portable "wikilink")[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信された。
 
-その他に携帯電話アプリゲームとしても移植され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")および[Vアプリ](../Page/S!アプリ.md "wikilink")、2006年に[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")にて配信された。
+その他に携帯電話アプリゲームとしても移植され、[2005年](../Page/2005年.md "wikilink")に[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")および[Vアプリ](../Page/S!アプリ.md "wikilink")、2006年に[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")にて配信された。
 
 アーケード版は後に[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[Xbox One用ソフトとして](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")『[カプコン ベルトアクション コレクション](https://ja.wikipedia.org/wiki/カプコン_ベルトアクション_コレクション "wikilink")』（[2018年](../Page/2018年.md "wikilink")）に収録され配信された。同作は[Windows用ソフトとして](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Steam](../Page/Steam.md "wikilink")においても配信された他、パッケージ版も発売されている。
 
@@ -15,7 +15,7 @@
 
 ## 概要
 
-アーケードゲーム『[天地を喰らう](../Page/天地を喰らう_\(アーケードゲーム\).md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の続編だが、ゲームシステムは一新されている。『[ファイナルファイト](https://ja.wikipedia.org/wiki/ファイナルファイト "wikilink")』（1989年）タイプの[ベルトスクロールアクションゲーム](../Page/ベルトスクロールアクションゲーム.md "wikilink")で、最大3人同時プレイが可能\[1\]。[三国志](../Page/三国志.md "wikilink")の[博望坡の戦い](https://ja.wikipedia.org/wiki/博望坡の戦い "wikilink")・[長坂の戦い](../Page/長坂の戦い.md "wikilink")・[赤壁の戦い](../Page/赤壁の戦い.md "wikilink")に基づいてゲームが進行する。プレイヤーキャラクターとして使用できる武将は「五虎大将軍-武勇天下に冠たり\!」のキャッチコピーにて紹介された関羽・張飛・趙雲・黄忠・魏延の5名であるが、「[五虎大将](../Page/五虎大将軍.md "wikilink")」の一人である[馬超](../Page/馬超.md "wikilink")は含まれない\[2\]。
+アーケードゲーム『[天地を喰らう](../Page/天地を喰らう_\(アーケードゲーム\).md "wikilink")』（[1989年](../Page/1989年.md "wikilink")）の続編だが、ゲームシステムは一新されている。『[ファイナルファイト](../Page/ファイナルファイト.md "wikilink")』（1989年）タイプの[ベルトスクロールアクションゲーム](../Page/ベルトスクロールアクションゲーム.md "wikilink")で、最大3人同時プレイが可能\[1\]。[三国志](../Page/三国志.md "wikilink")の[博望坡の戦い](https://ja.wikipedia.org/wiki/博望坡の戦い "wikilink")・[長坂の戦い](../Page/長坂の戦い.md "wikilink")・[赤壁の戦い](../Page/赤壁の戦い.md "wikilink")に基づいてゲームが進行する。プレイヤーキャラクターとして使用できる武将は「五虎大将軍-武勇天下に冠たり\!」のキャッチコピーにて紹介された関羽・張飛・趙雲・黄忠・魏延の5名であるが、「[五虎大将](../Page/五虎大将軍.md "wikilink")」の一人である[馬超](../Page/馬超.md "wikilink")は含まれない\[2\]。
 
 三国志をテーマにした作品だが、戦闘はもっぱら徒手格闘が中心。さらに敵を倒したときの攻撃によっては肉体が真っ二つに切れたり、[首](https://ja.wikipedia.org/wiki/首 "wikilink")が飛んだり、[内臓が飛び散ったりといった残虐性のある描写が目立つ](../Page/器官.md "wikilink")\[3\]。これらの表現はPlayStation版では描写が一部修正されたが、後発のセガサターン版では忠実に再現されている。
 

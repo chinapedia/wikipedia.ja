@@ -1,9 +1,9 @@
 > この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
 
 
-**ビタミンE**（vitamin E）は、[脂溶性ビタミン](https://ja.wikipedia.org/wiki/脂溶性ビタミン "wikilink")の1種である。**トコフェロール**（tocopherol）とも呼ばれ、特に<small>D</small>-α-トコフェロールは自然界に広く普遍的に存在し、[植物](../Page/植物.md "wikilink")、[藻類](../Page/藻類.md "wikilink")、藍藻などの[光合成](https://ja.wikipedia.org/wiki/光合成 "wikilink")生物により合成される。[医薬品](../Page/医薬品.md "wikilink")、[食品](../Page/食品.md "wikilink")、[飼料](https://ja.wikipedia.org/wiki/飼料 "wikilink")などに[疾病](https://ja.wikipedia.org/wiki/疾病 "wikilink")の治療、[栄養](https://ja.wikipedia.org/wiki/栄養 "wikilink")の補給、[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")の[酸化防止剤](../Page/酸化防止剤.md "wikilink")として広く利用されている。
+**ビタミンE**（vitamin E）は、[脂溶性ビタミン](https://ja.wikipedia.org/wiki/脂溶性ビタミン "wikilink")の1種である。**トコフェロール**（tocopherol）とも呼ばれ、特に<small>D</small>-α-トコフェロールは自然界に広く普遍的に存在し、[植物](../Page/植物.md "wikilink")、[藻類](../Page/藻類.md "wikilink")、藍藻などの[光合成](https://ja.wikipedia.org/wiki/光合成 "wikilink")生物により合成される。[医薬品](../Page/医薬品.md "wikilink")、[食品](../Page/食品.md "wikilink")、[飼料](../Page/飼料.md "wikilink")などに[疾病](https://ja.wikipedia.org/wiki/疾病 "wikilink")の治療、[栄養](../Page/栄養.md "wikilink")の補給、[食品添加物](https://ja.wikipedia.org/wiki/食品添加物 "wikilink")の[酸化防止剤](../Page/酸化防止剤.md "wikilink")として広く利用されている。
 
-ビタミンEの構造中の環状部分は、慣用名で[クロマン](https://ja.wikipedia.org/wiki/クロマン "wikilink")と呼ばれる構造である。このクロマンに付く[メチル基](../Page/メチル基.md "wikilink")の位置や有無によって、異なる型のトコフェロールに分類される。[ヒト](../Page/ヒト.md "wikilink")では<small>D</small>-α-トコフェロールがもっとも強い活性をもち、主に[抗酸化物質](https://ja.wikipedia.org/wiki/抗酸化物質 "wikilink")として働くと考えられている。抗酸化物質としての役割は、[代謝](https://ja.wikipedia.org/wiki/代謝 "wikilink")によって生じる[フリーラジカルから細胞を守ることである](https://ja.wikipedia.org/wiki/ラジカル_\(化学\) "wikilink")。
+ビタミンEの構造中の環状部分は、慣用名で[クロマン](https://ja.wikipedia.org/wiki/クロマン "wikilink")と呼ばれる構造である。このクロマンに付く[メチル基](../Page/メチル基.md "wikilink")の位置や有無によって、異なる型のトコフェロールに分類される。[ヒト](../Page/ヒト.md "wikilink")では<small>D</small>-α-トコフェロールがもっとも強い活性をもち、主に[抗酸化物質](https://ja.wikipedia.org/wiki/抗酸化物質 "wikilink")として働くと考えられている。抗酸化物質としての役割は、[代謝](../Page/代謝.md "wikilink")によって生じる[フリーラジカルから細胞を守ることである](../Page/ラジカル_\(化学\).md "wikilink")。
 
 ## 歴史
 
@@ -42,7 +42,7 @@
       - 成人男子（18–29歳） 800 mg/day
       - 成人女子（18–29歳） 650 mg/day
 
-※ビタミンE 1 mg = 1 IU ([国際単位](https://ja.wikipedia.org/wiki/国際単位 "wikilink")) に換算される。
+※ビタミンE 1 mg = 1 IU ([国際単位](../Page/国際単位.md "wikilink")) に換算される。
 
 ## 多く含む食品
 
@@ -207,7 +207,7 @@
 
   -
   -
-  - 日本微量栄養素情報センター：[新潟薬科大学](https://ja.wikipedia.org/wiki/新潟薬科大学 "wikilink")との共同研究事業
+  - 日本微量栄養素情報センター：[新潟薬科大学](../Page/新潟薬科大学.md "wikilink")との共同研究事業
 
   -
 [Category:ビタミン](https://ja.wikipedia.org/wiki/Category:ビタミン "wikilink") [Category:クロマン](https://ja.wikipedia.org/wiki/Category:クロマン "wikilink") [Category:フェノール](https://ja.wikipedia.org/wiki/Category:フェノール "wikilink")

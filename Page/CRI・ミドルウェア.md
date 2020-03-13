@@ -1,7 +1,7 @@
 > この記事は[CRI](https://ja.wikipedia.org/wiki/CRI)から翻訳されています。
 
 
-**株式会社CRI・ミドルウェア**（）は、日本の[ミドルウェア](https://ja.wikipedia.org/wiki/ミドルウェア "wikilink")の研究開発・販売を行う企業である。社名のCRIは、この会社の母体となった株式会社CSK総合研究所（以下旧CRI）の英語表記"**C**SK **R**esearch **I**nstitute"に由来する。
+**株式会社CRI・ミドルウェア**（）は、日本の[ミドルウェア](../Page/ミドルウェア.md "wikilink")の研究開発・販売を行う企業である。社名のCRIは、この会社の母体となった株式会社CSK総合研究所（以下旧CRI）の英語表記"**C**SK **R**esearch **I**nstitute"に由来する。
 
 [ハードを問わず複数機種対応のミドルウェアを開発](../Page/ゲーム機.md "wikilink")・発売しており、2016年04月現在の同社ウェア採用ソフトは3200本以上に及ぶ。採用事例の主流となっているのは動画、音声データの効率圧縮ツールおよびその展開ソフト（ライブラリ）である。同社の開発したソリューションは"CRIWARE"と総称されており、採用ゲームの起動ロゴで確認することができる。
 
@@ -49,7 +49,7 @@
 
 ### 旧CRI
 
-旧CRIは、[CSKグループの一員で](https://ja.wikipedia.org/wiki/CSK_\(企業\) "wikilink")、[マルチメディア](../Page/マルチメディア.md "wikilink")技術の研究・開発やゲームコンテンツの開発を行っていた。CSKとは別会社であったが、「CSK総合研究所＝CSKの（社内）研究部門」という誤解や、CSK自体が他に一般消費者向けビジネスを行っていなかったことから、旧CRIを指して「CSK」と呼ぶ誤用が一般消費者の一部に見られた。
+旧CRIは、[CSKグループの一員で](../Page/CSK_\(企業\).md "wikilink")、[マルチメディア](../Page/マルチメディア.md "wikilink")技術の研究・開発やゲームコンテンツの開発を行っていた。CSKとは別会社であったが、「CSK総合研究所＝CSKの（社内）研究部門」という誤解や、CSK自体が他に一般消費者向けビジネスを行っていなかったことから、旧CRIを指して「CSK」と呼ぶ誤用が一般消費者の一部に見られた。
 
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 株式会社CSK総合研究所設立。
   - [2000年](../Page/2000年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink") - 同じCSKグループのセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）が[バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")で知られる当時の第2ソフトウェア研究開発部 (通称AM2・AM2研)を旧CRIへ営業譲渡。セガの他のソフト開発部門は同年4月に分社化されたが、AM2のみ諸般の事情で先行分離された。旧CRIでは既存部門を「CRI事業部」、AM2を「AM2事業部」とする体制がスタート。
@@ -77,14 +77,14 @@
 
 ### 自社ブランド発売
 
-  - [アフターバーナーII](https://ja.wikipedia.org/wiki/アフターバーナー_\(ゲーム\) "wikilink")（1989年、同名アーケードゲームの移植、[FM TOWNS](../Page/FM_TOWNS.md "wikilink")）
-  - [ギャラクシーフォース](https://ja.wikipedia.org/wiki/ギャラクシーフォース "wikilink")II（同名アーケードゲームの移植、FM TOWNS）
+  - [アフターバーナーII](../Page/アフターバーナー_\(ゲーム\).md "wikilink")（1989年、同名アーケードゲームの移植、[FM TOWNS](../Page/FM_TOWNS.md "wikilink")）
+  - [ギャラクシーフォース](../Page/ギャラクシーフォース.md "wikilink")II（同名アーケードゲームの移植、FM TOWNS）
   - ギャラクシーフォースII（1991年9月13日、同名[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")の移植、[メガドライブ](../Page/メガドライブ.md "wikilink")）
   - アフターバーナーIII（1992年12月18日、ストライクファイター（旧）の移植、[メガCD](../Page/メガCD.md "wikilink")）
   - ダイナブラザーズ（1992年7月24日、食物連鎖生態系[リアルタイムストラテジー](../Page/リアルタイムストラテジー.md "wikilink")、メガドライブ）
   - ダイナブラザーズ2（1993年12月3日、上記の続編、メガドライブ）
       - 2019年9月19日、セガが世界同時発売した復刻系ゲーム機・[メガドライブ ミニにプリインストールされる](https://ja.wikipedia.org/wiki/メガドライブ_ミニ "wikilink")42作品の一つとして、[セガチャンネル用に増補した](https://ja.wikipedia.org/wiki/メガドライブ#ネットワーク事業 "wikilink")「セガチャンネルスペシャル版」が収録された（日本版のみ）。
-  - [ゆみみみっくす](https://ja.wikipedia.org/wiki/ゆみみみっくす "wikilink")（1993年12月10日、同名の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")作品の移植、FM TOWNS）
+  - [ゆみみみっくす](../Page/ゆみみみっくす.md "wikilink")（1993年12月10日、同名の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")作品の移植、FM TOWNS）
   - [ウィングコマンダー](../Page/ウィングコマンダー.md "wikilink")（1994年3月25日、同名のPC作品の移植（ゲームアーツと共同で担当、販売は[SEGA](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）、メガCD）
   - [2度あることはサンドア～ル](https://ja.wikipedia.org/wiki/2度あることはサンドア～ル "wikilink")（1996年4月5日、同名アーケードゲームの移植、[セガサターン](../Page/セガサターン.md "wikilink")）
   - ゆみみみっくす+だいなあいらん予告編（1998年3月27日、同名のゲームアーツ作品の移植、[Windows 95](https://ja.wikipedia.org/wiki/Windows_95 "wikilink")）
@@ -109,7 +109,7 @@
   - [電脳戦機バーチャロン](../Page/電脳戦機バーチャロン.md "wikilink") M.S.B.S. Ver.3.3s（1996年11月29日、セガ、セガサターン）
   - [セガツーリングカーチャンピオンシップ](../Page/セガツーリングカーチャンピオンシップ.md "wikilink")（1997年11月27日、セガ、セガサターン）
   - [機動戦士ガンダム ギレンの野望](../Page/機動戦士ガンダム_ギレンの野望.md "wikilink")（1998年4月9日、[バンダイ](../Page/バンダイ.md "wikilink") / [ESP](../Page/ESP_\(ゲーム会社\).md "wikilink")、セガサターン）
-  - [ソニックアドベンチャー](https://ja.wikipedia.org/wiki/ソニックアドベンチャー "wikilink")（1998年12月23日、セガ、ドリームキャスト（開発協力））
+  - [ソニックアドベンチャー](../Page/ソニックアドベンチャー.md "wikilink")（1998年12月23日、セガ、ドリームキャスト（開発協力））
   - 電脳戦機バーチャロン オラトリオ・タングラム M.S.B.S. Ver.5.45（1999年12月9日、セガ、ドリームキャスト）
 
 ## 脚注
@@ -118,7 +118,7 @@
 
 ## 関連項目
 
-  - [CSK](https://ja.wikipedia.org/wiki/CSK_\(企業\) "wikilink")
+  - [CSK](../Page/CSK_\(企業\).md "wikilink")
   - [セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")
 
 ## 外部リンク

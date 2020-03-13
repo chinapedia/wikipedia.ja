@@ -17,7 +17,7 @@
 
 ## コピーコントロールCDについて
 
-エイベックス社全体では、販売用CDは原則的に[CCCDを採用しないことになった](../Page/コピーコントロールCD.md "wikilink")（レンタル用は一時期ほぼ全タイトルCCCDの時期あり）が、このレーベルに於いては、その原則からはずれた販売用にもCCCDを使用したタイトルが2006年1月の時点でも多数見受けられた。 但し、『[サクラ大戦](../Page/サクラ大戦.md "wikilink")』シリーズにおいては、同シリーズのプロデューサーである[広井王子](https://ja.wikipedia.org/wiki/広井王子 "wikilink")が『**ゲーム音楽のCDがゲーム機で再生出来ない事**』に対する不快感を示していた事から、以前から特例としてCCCDを採用していなかった。
+エイベックス社全体では、販売用CDは原則的に[CCCDを採用しないことになった](../Page/コピーコントロールCD.md "wikilink")（レンタル用は一時期ほぼ全タイトルCCCDの時期あり）が、このレーベルに於いては、その原則からはずれた販売用にもCCCDを使用したタイトルが2006年1月の時点でも多数見受けられた。 但し、『[サクラ大戦](../Page/サクラ大戦.md "wikilink")』シリーズにおいては、同シリーズのプロデューサーである[広井王子](../Page/広井王子.md "wikilink")が『**ゲーム音楽のCDがゲーム機で再生出来ない事**』に対する不快感を示していた事から、以前から特例としてCCCDを採用していなかった。
 
 ## DVD販売について
 
@@ -26,33 +26,33 @@
 ## かつて所属していたアーティスト
 
   - [長澤隆之](https://ja.wikipedia.org/wiki/長澤隆之 "wikilink")（音楽プロデューサー）
-  - [榎本温子](https://ja.wikipedia.org/wiki/榎本温子 "wikilink")
+  - [榎本温子](../Page/榎本温子.md "wikilink")
   - [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
-  - [嘉陽愛子](https://ja.wikipedia.org/wiki/嘉陽愛子 "wikilink")
-  - [茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")（『[涼宮ハルヒの憂鬱](https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱 "wikilink")』関連CDや、2007年1月発売以降のマキシシングルは[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")からリリース）
-  - [菊地美香](https://ja.wikipedia.org/wiki/菊地美香 "wikilink")
+  - [嘉陽愛子](../Page/嘉陽愛子.md "wikilink")
+  - [茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")（『[涼宮ハルヒの憂鬱](https://ja.wikipedia.org/wiki/涼宮ハルヒの憂鬱 "wikilink")』関連CDや、2007年1月発売以降のマキシシングルは[ランティス](../Page/ランティス.md "wikilink")からリリース）
+  - [菊地美香](../Page/菊地美香.md "wikilink")
   - [ZZ](../Page/ZZ_\(バンド\).md "wikilink")
-  - [ISSA](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink") ([DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink"))
+  - [ISSA](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink") ([DA PUMP](../Page/DA_PUMP.md "wikilink"))
   - [V6](../Page/V6_\(グループ\).md "wikilink")
   - [小林沙苗](../Page/小林沙苗.md "wikilink")
   - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")
-  - [東京プリン](https://ja.wikipedia.org/wiki/東京プリン "wikilink")
+  - [東京プリン](../Page/東京プリン.md "wikilink")
   - [安藤高弘](https://ja.wikipedia.org/wiki/安藤高弘 "wikilink")
   - [たかはしごう](../Page/たかはしごう.md "wikilink")
-  - [和田薫](https://ja.wikipedia.org/wiki/和田薫_\(作曲家\) "wikilink")
+  - [和田薫](../Page/和田薫_\(作曲家\).md "wikilink")
   - [田中公平](../Page/田中公平.md "wikilink")
   - [鳴瀬シュウヘイ](../Page/鳴瀬シュウヘイ.md "wikilink")
-  - [渡辺俊幸](https://ja.wikipedia.org/wiki/渡辺俊幸 "wikilink")
+  - [渡辺俊幸](../Page/渡辺俊幸.md "wikilink")
   - [渡部チェル](../Page/渡部チェル.md "wikilink")
   - [三宅一徳](../Page/三宅一徳.md "wikilink")
-  - [広井王子](https://ja.wikipedia.org/wiki/広井王子 "wikilink")
+  - [広井王子](../Page/広井王子.md "wikilink")
   - [NOCCHI](https://ja.wikipedia.org/wiki/NOCCHI "wikilink")
   - [工藤進](https://ja.wikipedia.org/wiki/工藤進 "wikilink")
   - [多田彰文](https://ja.wikipedia.org/wiki/多田彰文 "wikilink")
   - [布施明](https://ja.wikipedia.org/wiki/布施明 "wikilink")
-  - [佐橋俊彦](https://ja.wikipedia.org/wiki/佐橋俊彦 "wikilink")
+  - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
   - [寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")
-  - [BeForU](https://ja.wikipedia.org/wiki/BeForU "wikilink")
+  - [BeForU](../Page/BeForU.md "wikilink")
   - [DRM](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")
   - [Kids Allive](https://ja.wikipedia.org/wiki/Kids_Allive "wikilink")
   - [桃井はるこ](../Page/桃井はるこ.md "wikilink")
@@ -71,19 +71,19 @@ avex2代目ロゴ
   - [アイシールド21](../Page/アイシールド21.md "wikilink")（音楽関連のみ）
   - [ASTROBOY 鉄腕アトム](../Page/アストロボーイ・鉄腕アトム.md "wikilink")（ドラマCDを制作・発売）
   - [A・LI・CE](https://ja.wikipedia.org/wiki/A・LI・CE "wikilink")
-  - [いちご100%](../Page/いちご100%.md "wikilink")(TV版のみ、OVAは他社の担当（音源も[他社が制作](https://ja.wikipedia.org/wiki/ランティス "wikilink")・保有）)
+  - [いちご100%](../Page/いちご100%.md "wikilink")(TV版のみ、OVAは他社の担当（音源も[他社が制作](../Page/ランティス.md "wikilink")・保有）)
   - [頭文字D](../Page/頭文字D.md "wikilink")シリーズ（Final Stageまで）
   - [犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")
-  - [うえきの法則](https://ja.wikipedia.org/wiki/うえきの法則 "wikilink")
+  - [うえきの法則](../Page/うえきの法則.md "wikilink")
   - [エイトマン](https://ja.wikipedia.org/wiki/エイトマン "wikilink")（DVDメモリアルボックス）
-  - [おくさまは女子高生](https://ja.wikipedia.org/wiki/おくさまは女子高生 "wikilink")（ゲーム音源はリリース元（[データム・ポリスター](https://ja.wikipedia.org/wiki/データム・ポリスター "wikilink")）の音楽部門が制作・保有）
-  - [capeta](https://ja.wikipedia.org/wiki/capeta "wikilink")（発売元は[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラス_\(企業\) "wikilink")）
+  - [おくさまは女子高生](https://ja.wikipedia.org/wiki/おくさまは女子高生 "wikilink")（ゲーム音源はリリース元（[データム・ポリスター](../Page/データム・ポリスター.md "wikilink")）の音楽部門が制作・保有）
+  - [capeta](https://ja.wikipedia.org/wiki/capeta "wikilink")（発売元は[マーベラスエンターテイメント](../Page/マーベラス_\(企業\).md "wikilink")）
   - [北へ。〜Diamond Dust Drops〜](../Page/北へ。〜Diamond_Dust_Drops〜.md "wikilink")（アニメ版、ゲーム音源は[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink") マルチメディアユニットが制作・保有）
   - [機動天使エンジェリックレイヤー](../Page/ANGELIC_LAYER.md "wikilink")
-  - [キャプテン](https://ja.wikipedia.org/wiki/キャプテン "wikilink")（DVDメモリアルボックス）
+  - [キャプテン](../Page/キャプテン.md "wikilink")（DVDメモリアルボックス）
   - [キャプテン翼](../Page/キャプテン翼.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")版最新シリーズ）
-  - [ギルガメッシュ](https://ja.wikipedia.org/wiki/ギルガメッシュ_\(漫画\) "wikilink")
-  - [ゴースト・ハント](../Page/悪霊シリーズ.md "wikilink")（アニメ音源は[マーベラスエンターテイメントが制作](https://ja.wikipedia.org/wiki/マーベラス_\(企業\) "wikilink")・保有）
+  - [ギルガメッシュ](../Page/ギルガメッシュ_\(漫画\).md "wikilink")
+  - [ゴースト・ハント](../Page/悪霊シリーズ.md "wikilink")（アニメ音源は[マーベラスエンターテイメントが制作](../Page/マーベラス_\(企業\).md "wikilink")・保有）
   - [Sci-Fi HARRY](../Page/Sci-Fi_HARRY.md "wikilink")
   - [サイボーグ009](https://ja.wikipedia.org/wiki/サイボーグ009_\(アニメ\) "wikilink")(2001-02年)
   - [サクラ大戦シリーズ](https://ja.wikipedia.org/wiki/サクラ大戦シリーズ "wikilink")（TVアニメ版制作開始時から）
@@ -91,30 +91,30 @@ avex2代目ロゴ
   - [07-GHOST](../Page/07-GHOST.md "wikilink")
   - [獣装機攻ダンクーガノヴァ](../Page/獣装機攻ダンクーガノヴァ.md "wikilink")
   - [ゾイド](../Page/ゾイド.md "wikilink")シリーズ（ゾイドTVアニメ第一作の後半から、[ゾイド フューザーズは](https://ja.wikipedia.org/wiki/ゾイド_フューザーズ "wikilink")[R and Cが音源制作](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")）
-  - [高橋留美子劇場](https://ja.wikipedia.org/wiki/高橋留美子劇場 "wikilink")
-  - [チャンス〜トライアングルセッション〜](https://ja.wikipedia.org/wiki/チャンス〜トライアングルセッション〜 "wikilink")（TVアニメ版）
+  - [高橋留美子劇場](../Page/高橋留美子劇場.md "wikilink")
+  - [チャンス〜トライアングルセッション〜](../Page/チャンス〜トライアングルセッション〜.md "wikilink")（TVアニメ版）
   - [天上天下](../Page/天上天下.md "wikilink")
-  - [ドラえもんシリーズ](https://ja.wikipedia.org/wiki/ドラえもん_\(1979年のテレビアニメ\) "wikilink")（2001年 - 2005年度末、映像ソフトのリリースは従来どおり[小学館](../Page/小学館.md "wikilink")（発売元）と[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")（販売元）から）
-  - [NANA](https://ja.wikipedia.org/wiki/NANA "wikilink")（アニメ版の音楽関連のみ、DVDは[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")からリリース）
+  - [ドラえもんシリーズ](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")（2001年 - 2005年度末、映像ソフトのリリースは従来どおり[小学館](../Page/小学館.md "wikilink")（発売元）と[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")（販売元）から）
+  - [NANA](../Page/NANA.md "wikilink")（アニメ版の音楽関連のみ、DVDは[バップ](../Page/バップ.md "wikilink")からリリース）
   - [人間交差点](../Page/人間交差点.md "wikilink")
   - [爆転シュート ベイブレード](https://ja.wikipedia.org/wiki/爆転シュート_ベイブレード "wikilink")
   - [妖逆門](../Page/妖逆門.md "wikilink")
-  - [破邪巨星Gダンガイオー](https://ja.wikipedia.org/wiki/破邪巨星Gダンガイオー "wikilink")
-  - [パワーストーン](https://ja.wikipedia.org/wiki/パワーストーン_\(ゲーム\) "wikilink")
+  - [破邪巨星Gダンガイオー](../Page/破邪巨星Gダンガイオー.md "wikilink")
+  - [パワーストーン](../Page/パワーストーン_\(ゲーム\).md "wikilink")
   - [ヒカルの碁](https://ja.wikipedia.org/wiki/ヒカルの碁_\(アニメ\) "wikilink")
-  - [FF：U 〜ファイナルファンタジー:アンリミテッド〜](https://ja.wikipedia.org/wiki/FF：U_〜ファイナルファンタジー:アンリミテッド〜 "wikilink")
+  - [FF：U 〜ファイナルファンタジー:アンリミテッド〜](../Page/FF：U_〜ファイナルファンタジー:アンリミテッド〜.md "wikilink")
   - [ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")（よみうりテレビ制作シリーズ）
-  - [プレイボール](https://ja.wikipedia.org/wiki/プレイボール_\(漫画\) "wikilink")（1・2）
-  - [星のカービィ](https://ja.wikipedia.org/wiki/星のカービィ_\(アニメ\) "wikilink")
+  - [プレイボール](../Page/プレイボール_\(漫画\).md "wikilink")（1・2）
+  - [星のカービィ](../Page/星のカービィ_\(アニメ\).md "wikilink")
   - [ボボボーボ・ボーボボ](../Page/ボボボーボ・ボーボボ.md "wikilink")（DVD販売のみ、音源制作は[コロムビアMEの担当](../Page/日本コロムビア.md "wikilink")）
   - [蟲師](https://ja.wikipedia.org/wiki/蟲師 "wikilink")（音源はアニメ版・実写映画版ともにマーベラスエンターテイメントから発売）
-  - [メジャーシリーズ](https://ja.wikipedia.org/wiki/メジャー_\(アニメ\) "wikilink")
+  - [メジャーシリーズ](../Page/メジャー_\(アニメ\).md "wikilink")
   - [ヤミと帽子と本の旅人](../Page/ヤミと帽子と本の旅人.md "wikilink")（アダルトゲーム原作のテレビアニメで、エイベックスにとって初めての配給作品である）
-  - [吉永さん家のガーゴイル](../Page/吉永さん家のガーゴイル.md "wikilink")（DVDは[トライネットエンタテインメント](https://ja.wikipedia.org/wiki/トライネットエンタテインメント "wikilink")（発売元）と[ハピネット・ピクチャーズ](https://ja.wikipedia.org/wiki/ハピネット#ハピネット・ピクチャーズ "wikilink")（販売元）からリリース）
-  - [らぶドル 〜Lovely Idol〜](https://ja.wikipedia.org/wiki/らぶドル_〜Lovely_Idol〜 "wikilink")（アニメ版のみ、音源制作は[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")との提携（同社は劇伴制作にも関与））
+  - [吉永さん家のガーゴイル](../Page/吉永さん家のガーゴイル.md "wikilink")（DVDは[トライネットエンタテインメント](../Page/トライネットエンタテインメント.md "wikilink")（発売元）と[ハピネット・ピクチャーズ](https://ja.wikipedia.org/wiki/ハピネット#ハピネット・ピクチャーズ "wikilink")（販売元）からリリース）
+  - [らぶドル 〜Lovely Idol〜](https://ja.wikipedia.org/wiki/らぶドル_〜Lovely_Idol〜 "wikilink")（アニメ版のみ、音源制作は[ランティス](../Page/ランティス.md "wikilink")との提携（同社は劇伴制作にも関与））
   - [リーンの翼](../Page/リーンの翼.md "wikilink")（音楽制作のみ、映像制作は[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")）
-  - [リングにかけろ](https://ja.wikipedia.org/wiki/リングにかけろ "wikilink")1シリーズ（映像販売のみ、映像制作はアニメ制作担当の[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")、音楽制作は[ラムズ](https://ja.wikipedia.org/wiki/ラムズ "wikilink")のインディーズレーベル（販売委託は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")））
-  - [ロックマンエグゼ](https://ja.wikipedia.org/wiki/ロックマンエグゼ_\(アニメ\) "wikilink")（第一作のみ、第二作以降は[カプコン](../Page/カプコン.md "wikilink")系の音楽レーベル（カプコン・セルピューターレーベル）や[テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")が音源を制作・保有）
+  - [リングにかけろ](https://ja.wikipedia.org/wiki/リングにかけろ "wikilink")1シリーズ（映像販売のみ、映像制作はアニメ制作担当の[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")、音楽制作は[ラムズ](../Page/ラムズ.md "wikilink")のインディーズレーベル（販売委託は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")））
+  - [ロックマンエグゼ](../Page/ロックマンエグゼ_\(アニメ\).md "wikilink")（第一作のみ、第二作以降は[カプコン](../Page/カプコン.md "wikilink")系の音楽レーベル（カプコン・セルピューターレーベル）や[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")が音源を制作・保有）
   - [ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")（グランドライン編からパンクハザード編まで）
 
 ### 実写・特撮
@@ -128,13 +128,13 @@ avex2代目ロゴ
       - [仮面ライダー555](../Page/仮面ライダー555.md "wikilink")
       - [仮面ライダー剣](https://ja.wikipedia.org/wiki/仮面ライダー剣 "wikilink")
       - [仮面ライダー響鬼](../Page/仮面ライダー響鬼.md "wikilink")
-      - [仮面ライダー THE FIRST](https://ja.wikipedia.org/wiki/仮面ライダー_THE_FIRST "wikilink")
+      - [仮面ライダー THE FIRST](../Page/仮面ライダー_THE_FIRST.md "wikilink")
       - [仮面ライダーカブト](../Page/仮面ライダーカブト.md "wikilink")
       - [仮面ライダー電王](https://ja.wikipedia.org/wiki/仮面ライダー電王 "wikilink")
       - [仮面ライダー THE NEXT](../Page/仮面ライダー_THE_NEXT.md "wikilink")
       - [仮面ライダーキバ](https://ja.wikipedia.org/wiki/仮面ライダーキバ "wikilink")
       - [仮面ライダーディケイド](https://ja.wikipedia.org/wiki/仮面ライダーディケイド "wikilink")
-  - [魔弾戦記リュウケンドー](https://ja.wikipedia.org/wiki/魔弾戦記リュウケンドー "wikilink")
+  - [魔弾戦記リュウケンドー](../Page/魔弾戦記リュウケンドー.md "wikilink")
   - [東京フレンズ](../Page/東京フレンズ.md "wikilink")（フジテレビ共同制作オリジナルDVDドラマ）
 
 ## 関連する情報誌やテレビ番組

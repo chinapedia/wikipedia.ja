@@ -1,7 +1,7 @@
 > この記事は[FIFA U-17](https://ja.wikipedia.org/wiki/FIFA_U-17)から翻訳されています。
 
 
-**FIFA U-17ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、17歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](https://ja.wikipedia.org/wiki/世界選手権大会 "wikilink")である。[2005年大会までは](../Page/2005_FIFA_U-17世界選手権.md "wikilink")**FIFA U-17世界選手権**（）という大会名であったが、「ワールドカップ」ブランドを向上させるため、[2006年](../Page/2006年.md "wikilink")に[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")を除く全てのFIFA主催の世界大会に「ワールドカップ」の名前をつけることが決定したのに伴い、[2007年大会から現在の大会名に変更された](../Page/2007_FIFA_U-17ワールドカップ.md "wikilink")。
+**FIFA U-17ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、17歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")である。[2005年大会までは](../Page/2005_FIFA_U-17世界選手権.md "wikilink")**FIFA U-17世界選手権**（）という大会名であったが、「ワールドカップ」ブランドを向上させるため、[2006年](../Page/2006年.md "wikilink")に[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")を除く全てのFIFA主催の世界大会に「ワールドカップ」の名前をつけることが決定したのに伴い、[2007年大会から現在の大会名に変更された](../Page/2007_FIFA_U-17ワールドカップ.md "wikilink")。
 
 ## 概要
 
@@ -22,7 +22,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-16選手権" title="wikilink">AFC U-16選手権</a></p></td>
+<td><p><a href="../Page/AFC_U-16選手権.md" title="wikilink">AFC U-16選手権</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -206,7 +206,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2005_FIFA_U-17世界選手権.md" title="wikilink">11</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 - 0</strong></p></td>

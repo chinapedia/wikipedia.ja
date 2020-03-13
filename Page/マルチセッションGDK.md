@@ -1,7 +1,7 @@
 > この記事は[GDK](https://ja.wikipedia.org/wiki/GDK)から翻訳されています。
 
 
-[116px](https://ja.wikipedia.org/wiki/画像:Gdk_dm.jpg "wikilink") [100px](https://ja.wikipedia.org/wiki/画像:Gdk_km.jpg "wikilink") **MultiSession GDK**（**マルチセッションGDK**）は[2001年](../Page/2001年.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した、『[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink") 5thMIX』（以下、GF）＆『[drummania](https://ja.wikipedia.org/wiki/drummania "wikilink") 4thMIX』（以下 dm）のセッションに『[KEYBOARDMANIA](https://ja.wikipedia.org/wiki/KEYBOARDMANIA "wikilink") 3rdMIX』（以下、KM）が加入、3機種をリンクさせて同時に5人までプレイできるようにしたゲーム。「マルセス」などに略することもある。これに対して、『GF』と『dm』だけのリンクプレイを[セッションと呼ぶ](https://ja.wikipedia.org/wiki/セッション_\(ゲーム\) "wikilink")。
+[116px](https://ja.wikipedia.org/wiki/画像:Gdk_dm.jpg "wikilink") [100px](https://ja.wikipedia.org/wiki/画像:Gdk_km.jpg "wikilink") **MultiSession GDK**（**マルチセッションGDK**）は[2001年](../Page/2001年.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した、『[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink") 5thMIX』（以下、GF）＆『[drummania](https://ja.wikipedia.org/wiki/drummania "wikilink") 4thMIX』（以下 dm）のセッションに『[KEYBOARDMANIA](../Page/KEYBOARDMANIA.md "wikilink") 3rdMIX』（以下、KM）が加入、3機種をリンクさせて同時に5人までプレイできるようにしたゲーム。「マルセス」などに略することもある。これに対して、『GF』と『dm』だけのリンクプレイを[セッションと呼ぶ](https://ja.wikipedia.org/wiki/セッション_\(ゲーム\) "wikilink")。
 
 『GF 6th』＆『dm 5th』でも『km 3rd』をリンクさせマルチセッションが可能で、その後『GF』と『dm』は持続的に出たが、『KM』が開発中止になってしまい、現在は設置されている店さえ極少数になっている。また、当時ですら『GF』、『dm』、『KM』の3筐体を並べて配置している店舗があまり多くなかったため、マルチセッションが実際に行われている場面はそれほど多く見られなかった。3人のプレイヤーによるセッションプレイともなれば、それだけで周囲に見物人が現れるほどであった。
 
@@ -277,7 +277,7 @@ CASSANDRA
 
 <td>
 
-[亜熱帯マジ-SKA爆弾](https://ja.wikipedia.org/wiki/亜熱帯マジ-SKA爆弾 "wikilink")
+[亜熱帯マジ-SKA爆弾](../Page/亜熱帯マジ-SKA爆弾.md "wikilink")
 
 </td>
 
@@ -289,7 +289,7 @@ CASSANDRA
 
 <td colspan=2>
 
-[小野秀幸](https://ja.wikipedia.org/wiki/小野秀幸 "wikilink")
+[小野秀幸](../Page/小野秀幸.md "wikilink")
 
 </td>
 
@@ -476,7 +476,7 @@ Thomas Howard Liechtenstein
 
 Vo.：Thomas Howard Liechtenstein
 Gt.\&Dr.：桜井敏郎
-Key.：Jimmy Weckl、[前田尚紀](https://ja.wikipedia.org/wiki/前田尚紀_\(ミュージシャン\) "wikilink")
+Key.：Jimmy Weckl、[前田尚紀](../Page/前田尚紀_\(ミュージシャン\).md "wikilink")
 Bs.：肥塚良彦
 
 </td>

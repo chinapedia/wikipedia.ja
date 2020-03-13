@@ -164,7 +164,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCユース選手権1970" title="wikilink">12</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1970年" title="wikilink">1970年</a></p></td>
+<td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>3 - 0</strong></p></td>

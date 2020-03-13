@@ -21,15 +21,15 @@
 
 2019年度より、[学校法人駿河台学園と業務提携し](../Page/駿台予備学校.md "wikilink")、「第1回東大入試実戦模試」「第1回京大入試実戦模試」を共催している。
 
-また、学習参考書や資格試験の教材を出版している他、1990年代に入ると添削受講者数の減少と時代のニーズに対応し、[学習塾](../Page/学習塾.md "wikilink")・[予備校](../Page/予備校.md "wikilink")の分野に進出。学習塾として首都圏と関西圏に「[Z会進学教室](https://ja.wikipedia.org/wiki/Z会進学教室 "wikilink")」、[学研と共同で全国各地に](../Page/学研ホールディングス.md "wikilink")[フランチャイズ](../Page/フランチャイズ.md "wikilink")方式の[学習塾](../Page/学習塾.md "wikilink")**学研教室**のメニューとして組み入れ（学研教室Z会コース）のほか、大学受験予備校として[東京](../Page/東京都.md "wikilink")・[横浜に](../Page/横浜市.md "wikilink")「[Z会東大進学教室](https://ja.wikipedia.org/wiki/Z会東大進学教室 "wikilink")」、[京都](../Page/京都市.md "wikilink")・[大阪](../Page/大阪市.md "wikilink")・[神戸などに](../Page/神戸市.md "wikilink")「[Z会京大進学教室](https://ja.wikipedia.org/wiki/Z会京大進学教室 "wikilink")」、[渋谷](../Page/東京都.md "wikilink")・[本郷三丁目に東大](../Page/東京都.md "wikilink")・医大志望者向けの完全個別指導塾(中高一貫校中学生・高校生・大学受験生)「[Z会東大個別指導教室プレアデス](https://ja.wikipedia.org/wiki/Z会東大個別指導教室プレアデス "wikilink")」を開校している。なお、最初に対面教育の拠点を置いたのは1985年だが、同時期より「Z会」を無断で称する団体による勧誘が相次いだことから、1980年代後半には「当面渋谷以外で教室を開く予定はありません」（1987年の案内書）などと注意を呼びかけていた。
+また、学習参考書や資格試験の教材を出版している他、1990年代に入ると添削受講者数の減少と時代のニーズに対応し、[学習塾](../Page/学習塾.md "wikilink")・[予備校](../Page/予備校.md "wikilink")の分野に進出。学習塾として首都圏と関西圏に「[Z会進学教室](https://ja.wikipedia.org/wiki/Z会進学教室 "wikilink")」、[学研と共同で全国各地に](../Page/学研ホールディングス.md "wikilink")[フランチャイズ](../Page/フランチャイズ.md "wikilink")方式の[学習塾](../Page/学習塾.md "wikilink")**学研教室**のメニューとして組み入れ（学研教室Z会コース）のほか、大学受験予備校として[東京](../Page/東京都.md "wikilink")・[横浜に](../Page/横浜市.md "wikilink")「[Z会東大進学教室](../Page/Z会東大進学教室.md "wikilink")」、[京都](../Page/京都市.md "wikilink")・[大阪](../Page/大阪市.md "wikilink")・[神戸などに](../Page/神戸市.md "wikilink")「[Z会京大進学教室](https://ja.wikipedia.org/wiki/Z会京大進学教室 "wikilink")」、[渋谷](../Page/東京都.md "wikilink")・[本郷三丁目に東大](../Page/東京都.md "wikilink")・医大志望者向けの完全個別指導塾(中高一貫校中学生・高校生・大学受験生)「[Z会東大個別指導教室プレアデス](https://ja.wikipedia.org/wiki/Z会東大個別指導教室プレアデス "wikilink")」を開校している。なお、最初に対面教育の拠点を置いたのは1985年だが、同時期より「Z会」を無断で称する団体による勧誘が相次いだことから、1980年代後半には「当面渋谷以外で教室を開く予定はありません」（1987年の案内書）などと注意を呼びかけていた。
 
-[1980年代](../Page/1980年代.md "wikilink")には、[アチーブメントテスト](https://ja.wikipedia.org/wiki/アチーブメントテスト "wikilink")（いわゆる[業者テスト](https://ja.wikipedia.org/wiki/業者テスト "wikilink")）を請け負っていた事でも知られる。
+[1980年代](../Page/1980年代.md "wikilink")には、[アチーブメントテスト](../Page/アチーブメントテスト.md "wikilink")（いわゆる[業者テスト](https://ja.wikipedia.org/wiki/業者テスト "wikilink")）を請け負っていた事でも知られる。
 
 「Z会」、「増進会」は株式会社増進会出版社の登録商標（第1508704号、第1508705号ほか）である。[1982年](../Page/1982年.md "wikilink")に初めて商標登録された。
 
 ## 沿革
 
-  - [1931年](../Page/1931年.md "wikilink")（昭和6年） - 藤井豊が[東京](../Page/東京.md "wikilink")・[淀橋](https://ja.wikipedia.org/wiki/淀橋 "wikilink")（[新宿](../Page/新宿.md "wikilink")）において、「実力増進会」を創設。[通信添削を主とする業務を開始した](../Page/通信教育.md "wikilink")。
+  - [1931年](../Page/1931年.md "wikilink")（昭和6年） - 藤井豊が[東京](../Page/東京.md "wikilink")・[淀橋](../Page/淀橋.md "wikilink")（[新宿](../Page/新宿.md "wikilink")）において、「実力増進会」を創設。[通信添削を主とする業務を開始した](../Page/通信教育.md "wikilink")。
   - [1945年](../Page/1945年.md "wikilink")（昭和20年） - 戦災により指導を中断。
   - [1952年](../Page/1952年.md "wikilink")（昭和27年） - [静岡県](../Page/静岡県.md "wikilink")中伊豆にて添削指導を再開。会社の正称を「増進会」とし、会員がつけた愛称「Z会」を略称として併用するようになる。
   - [1960年](../Page/1960年.md "wikilink")（昭和35年） - 個人営業から法人化。[有限会社](../Page/有限会社.md "wikilink")増進会出版社を設立。
@@ -38,13 +38,13 @@
   - [1982年](../Page/1982年.md "wikilink")（昭和57年） - 通信添削[中学生コースを開講](../Page/中学校.md "wikilink")。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年） - [株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")に[組織変更](../Page/組織変更.md "wikilink")し、株式会社増進会出版社に商号変更。また、[渋谷](../Page/渋谷.md "wikilink")に対面教育を行うための進学Z会渋谷教室を開校。
   - [1991年](../Page/1991年.md "wikilink")（平成3年） - 高校生向けの対面教育、東大マスターコースを恵比寿に開校。
-  - [1993年](../Page/1993年.md "wikilink")（平成5年） - 中学生コースに、通信教育中学[作文](https://ja.wikipedia.org/wiki/作文 "wikilink")コースを開講。
+  - [1993年](../Page/1993年.md "wikilink")（平成5年） - 中学生コースに、通信教育中学[作文](../Page/作文.md "wikilink")コースを開講。
   - [1994年](../Page/1994年.md "wikilink")（平成6年） - 高校生向けの対面教育、京大マスターコースを大阪本部教室に開校。
   - [1999年](../Page/1999年.md "wikilink")（平成11年） - 通信教育[小学生コース](../Page/小学校.md "wikilink")（現・小学生コース）を6年生を対象に[静岡](../Page/静岡県.md "wikilink")･[大阪](../Page/大阪.md "wikilink")地域限定で開講。
   - [2000年](../Page/2000年.md "wikilink")（平成12年） - 通信教育小学生コースを全国展開する。出版事業を株式会社ゼット会出版（法人としては現在の株式会社Z会）として分社化。
   - [2002年](../Page/2002年.md "wikilink")（平成14年） - [大学](../Page/大学.md "wikilink")生・[社会人](https://ja.wikipedia.org/wiki/社会人 "wikilink")を対象にした、キャリア開発コースを開講した。また、小学生コース4年生コースを開講。
   - [2004年](../Page/2004年.md "wikilink")（平成16年） - 今までの小学生コースを通信教育小学生Nコースとし、新たに小学1年生を対象にした通信教育小学生Eコースを開講。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年） - 通信教育小学生Eコースに2・3年生コースを開講し、小学生から[大学受験](../Page/大学受験.md "wikilink")生まですべての学年に対応するようになる。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年） - 通信教育小学生Eコースに2・3年生コースを開講し、小学生から[大学受験](../Page/大学受験.md "wikilink")生まですべての学年に対応するようになる。
   - [2006年](../Page/2006年.md "wikilink")（平成18年） - 株式会社増進会出版社（元・通信教育部門）、株式会社Z会対面教育（元・教室部門）、株式会社Z会出版の3社を[経営統合し](../Page/合併_\(企業\).md "wikilink")、事業会社の「株式会社 Z会」が発足。株式会社増進会出版社はこれにより[純粋持株会社化](../Page/持株会社.md "wikilink")。また、通信教育小学生コースに[中学受験](../Page/中学受験.md "wikilink")3年生コースを開講（4 - 6年生は[2007年](../Page/2007年.md "wikilink")以降に開講）、中学受験にも対応するようになる。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - [ena](https://ja.wikipedia.org/wiki/ena "wikilink")大学受験部(渋谷・お茶の水・横浜・京都・西宮)を買収。[Z会enaと名称を変更し](https://ja.wikipedia.org/wiki/Z会東大マスターコース#Z会ena "wikilink")、傘下に置く。また同時に、[ena](https://ja.wikipedia.org/wiki/ena "wikilink")とテキストの使用を含め協力関係を構築。通信教育幼児コース（現・幼児年中・年長コース）を開講。
   - [2009年](../Page/2009年.md "wikilink")（平成21年） - 増進会出版社が株式会社[栄光との業務提携を決定](https://ja.wikipedia.org/wiki/栄光_\(企業\) "wikilink")。栄光の第2位の大株主となる。
@@ -63,7 +63,7 @@
 
 2000年代に入ると、大々的にテレビCMを展開するようになった。CMには野球選手[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")やサッカー選手[小野伸二](../Page/小野伸二.md "wikilink")も起用した。2000年代後半には4パターンの対象部門別CMを15秒の尺で制作するようになり、現在提供しているテレビ番組では「幼児向け+小学生向け」「中学生向け+高校生向け」の2パターンによる週替わりで放送している。
 
-[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ドラゴン桜](https://ja.wikipedia.org/wiki/ドラゴン桜 "wikilink")』の原作者[三田紀房](https://ja.wikipedia.org/wiki/三田紀房 "wikilink")をZ会主催の講演会に招くなどのコラボレーションも実施。受験生にアピールするために様々な方法を展開している。
+[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ドラゴン桜](../Page/ドラゴン桜.md "wikilink")』の原作者[三田紀房](../Page/三田紀房.md "wikilink")をZ会主催の講演会に招くなどのコラボレーションも実施。受験生にアピールするために様々な方法を展開している。
 
 [2014年](../Page/2014年.md "wikilink")には[アニメーション監督](https://ja.wikipedia.org/wiki/アニメーション監督 "wikilink")[新海誠](../Page/新海誠.md "wikilink")らによるCM作品「[クロスロード](https://ja.wikipedia.org/wiki/クロスロード_\(アニメーション作品\) "wikilink")」を制作した。
 
@@ -75,7 +75,7 @@
 
 ## 出版物
 
-通信教育のみでなく、一般書店販売用にも数多くの[参考書](https://ja.wikipedia.org/wiki/学習参考書 "wikilink")・[問題集](https://ja.wikipedia.org/wiki/問題集 "wikilink")等を出版している。以下は代表的な書物。なお、学習参考書に限って独自の流通網のために取扱書店が限定され、取扱書店以外では取寄せが不可。1990年代に比べると刊行数は減った。
+通信教育のみでなく、一般書店販売用にも数多くの[参考書](https://ja.wikipedia.org/wiki/学習参考書 "wikilink")・[問題集](../Page/問題集.md "wikilink")等を出版している。以下は代表的な書物。なお、学習参考書に限って独自の流通網のために取扱書店が限定され、取扱書店以外では取寄せが不可。1990年代に比べると刊行数は減った。
 
   - [緑本](https://ja.wikipedia.org/wiki/緑本 "wikilink") - 現在はセンター試験(大学入学共通テスト)のみ。
   - [速読英単語](../Page/速読英単語.md "wikilink")
@@ -108,13 +108,13 @@
 
 ## 関連項目
 
-  - [アチーブメントテスト](https://ja.wikipedia.org/wiki/アチーブメントテスト "wikilink")
+  - [アチーブメントテスト](../Page/アチーブメントテスト.md "wikilink")
   - [業者テスト](https://ja.wikipedia.org/wiki/業者テスト "wikilink")
   - [即応模試](https://ja.wikipedia.org/wiki/即応模試 "wikilink")
   - [即応オープン](https://ja.wikipedia.org/wiki/即応オープン "wikilink")
   - [オリオン社](https://ja.wikipedia.org/wiki/オリオン社 "wikilink")
   - [Z会進学教室](https://ja.wikipedia.org/wiki/Z会進学教室 "wikilink")
-  - [Z会東大進学教室](https://ja.wikipedia.org/wiki/Z会東大進学教室 "wikilink")
+  - [Z会東大進学教室](../Page/Z会東大進学教室.md "wikilink")
   - [Z会マスターコース](https://ja.wikipedia.org/wiki/Z会マスターコース "wikilink")（関西地区）
 
 ## 外部リンク

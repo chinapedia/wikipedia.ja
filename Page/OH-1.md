@@ -5,11 +5,11 @@
 
 ## 概要
 
-[thumb](https://ja.wikipedia.org/wiki/画像:OH1M_KASM001.jpg "wikilink")（[岐阜かかみがはら航空宇宙博物館](https://ja.wikipedia.org/wiki/岐阜かかみがはら航空宇宙博物館 "wikilink")）\]\] 空中より情報収集を行う観測[ヘリコプター](../Page/ヘリコプター.md "wikilink")は、長らく[ヒューズの](../Page/ヒューズ・ヘリコプターズ.md "wikilink")[OH-6 カイユースであったが](https://ja.wikipedia.org/wiki/OH-6_\(航空機\)#日本での採用 "wikilink")、更なる機能向上を目指して新型機導入が急がれた。防衛庁による選定の結果、[川崎重工業](../Page/川崎重工業.md "wikilink")が主契約会社となり、[富士重工業と](../Page/SUBARU.md "wikilink")[三菱重工業](../Page/三菱重工業.md "wikilink")が協力すると言う形で計画がはじまった。
+[thumb](https://ja.wikipedia.org/wiki/画像:OH1M_KASM001.jpg "wikilink")（[岐阜かかみがはら航空宇宙博物館](../Page/岐阜かかみがはら航空宇宙博物館.md "wikilink")）\]\] 空中より情報収集を行う観測[ヘリコプター](../Page/ヘリコプター.md "wikilink")は、長らく[ヒューズの](../Page/ヒューズ・ヘリコプターズ.md "wikilink")[OH-6 カイユースであったが](https://ja.wikipedia.org/wiki/OH-6_\(航空機\)#日本での採用 "wikilink")、更なる機能向上を目指して新型機導入が急がれた。防衛庁による選定の結果、[川崎重工業](../Page/川崎重工業.md "wikilink")が主契約会社となり、[富士重工業と](../Page/SUBARU.md "wikilink")[三菱重工業](../Page/三菱重工業.md "wikilink")が協力すると言う形で計画がはじまった。
 
 総組み立てや主要部品を川崎、中部胴体を三菱（[名航](https://ja.wikipedia.org/wiki/三菱重工業名古屋航空宇宙システム製作所 "wikilink")）、[エンジン](../Page/エンジン.md "wikilink")を三菱（[名誘](https://ja.wikipedia.org/wiki/三菱重工業名古屋誘導推進システム製作所 "wikilink")）、後部胴体その他を富士が担当している。
 
-以前から川崎では実用ヘリコプターの国産化に意欲を示しており、すでに設計準備の段階を終えていた。また、三菱も先行して国産[ターボシャフトエンジン](https://ja.wikipedia.org/wiki/ジェットエンジン#ターボシャフトエンジン "wikilink")**TS1**の開発を進めており、計画がはじまったのが[1992年](../Page/1992年.md "wikilink")（平成4年）、設計開始は翌[1993年](../Page/1993年.md "wikilink")（平成5年）だが、[1996年](../Page/1996年.md "wikilink")（平成8年）[8月6日](../Page/8月6日.md "wikilink")に初飛行（数日前に三菱の純国産ヘリ[MH2000が初飛行](../Page/MH2000_\(航空機\).md "wikilink")）と言う異例の速さでの完成を果たした。4機の試作機**XOH-1**は川崎での社内飛行実験を経て、翌[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）から[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")で[制式採用され](https://ja.wikipedia.org/wiki/制式名称 "wikilink")、**OH-1**となった。実用試験が行われたあと、[2000年](../Page/2000年.md "wikilink")（平成12年）に量産1号機を納入した。
+以前から川崎では実用ヘリコプターの国産化に意欲を示しており、すでに設計準備の段階を終えていた。また、三菱も先行して国産[ターボシャフトエンジン](https://ja.wikipedia.org/wiki/ジェットエンジン#ターボシャフトエンジン "wikilink")**TS1**の開発を進めており、計画がはじまったのが[1992年](../Page/1992年.md "wikilink")（平成4年）、設計開始は翌[1993年](../Page/1993年.md "wikilink")（平成5年）だが、[1996年](../Page/1996年.md "wikilink")（平成8年）[8月6日](../Page/8月6日.md "wikilink")に初飛行（数日前に三菱の純国産ヘリ[MH2000が初飛行](../Page/MH2000_\(航空機\).md "wikilink")）と言う異例の速さでの完成を果たした。4機の試作機**XOH-1**は川崎での社内飛行実験を経て、翌[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）から[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")で[制式採用され](../Page/制式名称.md "wikilink")、**OH-1**となった。実用試験が行われたあと、[2000年](../Page/2000年.md "wikilink")（平成12年）に量産1号機を納入した。
 
 以後、年間3-4機のペースで調達していたが、平成16年『新防衛大綱』以後は1-2機となっており、平成22年度予算での4機の調達を最後に、量産機34機+試作機4機で調達を終了した。当初は250機を導入する計画であったが、[偵察機](../Page/偵察機.md "wikilink")としては1機当たり19-25億円と高額なことから、310機を調達したOH-6（J型117機、D型193機）を代替できなかった。
 
@@ -21,13 +21,13 @@
 
 ### 機体構造
 
-[JGSDF_OH-1_ashiya_20121124_122204.jpg](https://ja.wikipedia.org/wiki/File:JGSDF_OH-1_ashiya_20121124_122204.jpg "fig:JGSDF_OH-1_ashiya_20121124_122204.jpg") 「観測ヘリコプター」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")領土に侵攻上陸した敵を低空から[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")し、地上攻撃部隊や[戦闘ヘリコプター部隊に最新の情報を提供](../Page/攻撃ヘリコプター.md "wikilink")、戦術を支援する機体である。このため、敵に気づかれないよう極低空を高速で飛行する隠密性と速力、敵に気づかれて攻撃された場合も、情報を完全に伝えるために高い生存性を求められた。
+[JGSDF_OH-1_ashiya_20121124_122204.jpg](https://ja.wikipedia.org/wiki/File:JGSDF_OH-1_ashiya_20121124_122204.jpg "fig:JGSDF_OH-1_ashiya_20121124_122204.jpg") 「観測ヘリコプター」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")領土に侵攻上陸した敵を低空から[偵察](../Page/偵察.md "wikilink")し、地上攻撃部隊や[戦闘ヘリコプター部隊に最新の情報を提供](../Page/攻撃ヘリコプター.md "wikilink")、戦術を支援する機体である。このため、敵に気づかれないよう極低空を高速で飛行する隠密性と速力、敵に気づかれて攻撃された場合も、情報を完全に伝えるために高い生存性を求められた。
 
 最前線での生存率を高めるため、機体は[AH-1Sにも類似した縦列複座](https://ja.wikipedia.org/wiki/AH-1_コブラ#日本 "wikilink")（[タンデム](https://ja.wikipedia.org/wiki/タンデム "wikilink")）式の[コックピットを採用して胴体を細くした](../Page/軍用機のコックピット.md "wikilink")。[レーダー](../Page/レーダー.md "wikilink")反射面積を抑え、目視被発見を避けるとともに、前方から射撃された際の被命中率を下げるため、胴体幅は概ね1m以内に抑えている。搭乗員の生存率を上げるため、座席部分は[装甲](../Page/装甲.md "wikilink")化され、[防弾ガラス](../Page/防弾ガラス.md "wikilink")を採用した。また、油圧系や操縦系はすべて2重になっている。
 
-メインローターは4枚ブレードであり、川崎が開発した無関節（ヒンジレス）のローターハブを採用し、操縦応答性の向上を図った。ローターブレードは12.7ミリクラスの[銃弾にも耐えられる](../Page/弾丸.md "wikilink")[ガラス繊維](../Page/ガラス繊維.md "wikilink")[複合材料](../Page/複合材料.md "wikilink")を使用している。ローターハブ構造が評価され、開発チームは1998年に[AHSインターナショナル](https://ja.wikipedia.org/wiki/:en:AHS_International "wikilink")（アメリカヘリコプター会）より、優れた垂直飛行技術に与えられる[ハワード・ヒューズ](https://ja.wikipedia.org/wiki/ハワード・ヒューズ "wikilink")賞を、アメリカ以外のプロジェクトで初めて授与された\[5\]。
+メインローターは4枚ブレードであり、川崎が開発した無関節（ヒンジレス）のローターハブを採用し、操縦応答性の向上を図った。ローターブレードは12.7ミリクラスの[銃弾にも耐えられる](../Page/弾丸.md "wikilink")[ガラス繊維](../Page/ガラス繊維.md "wikilink")[複合材料](../Page/複合材料.md "wikilink")を使用している。ローターハブ構造が評価され、開発チームは1998年に[AHSインターナショナル](https://ja.wikipedia.org/wiki/:en:AHS_International "wikilink")（アメリカヘリコプター会）より、優れた垂直飛行技術に与えられる[ハワード・ヒューズ](../Page/ハワード・ヒューズ.md "wikilink")賞を、アメリカ以外のプロジェクトで初めて授与された\[5\]。
 
-テールローターは8枚ブレードで、低空飛行時に樹木などと接触する危険を減らすために[ダクテッド方式](../Page/ダクテッドファン.md "wikilink")（機内埋め込み式）を採用、ブレードは騒音を抑えるために不等間隔に配列している。この方式は[仏](https://ja.wikipedia.org/wiki/フランス "wikilink")[アエロスパシアル](../Page/アエロスパシアル.md "wikilink")（現[エアバス・ヘリコプターズ](../Page/エアバス・ヘリコプターズ.md "wikilink")）の[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")（[フェネストロン](https://ja.wikipedia.org/wiki/フェネストロン "wikilink")）であることがOH-X構想当初の懸案であったが、実機の製作段階で特許の期限（20年）が過ぎたため、無料で使用できることとなった。
+テールローターは8枚ブレードで、低空飛行時に樹木などと接触する危険を減らすために[ダクテッド方式](../Page/ダクテッドファン.md "wikilink")（機内埋め込み式）を採用、ブレードは騒音を抑えるために不等間隔に配列している。この方式は[仏](https://ja.wikipedia.org/wiki/フランス "wikilink")[アエロスパシアル](../Page/アエロスパシアル.md "wikilink")（現[エアバス・ヘリコプターズ](../Page/エアバス・ヘリコプターズ.md "wikilink")）の[特許](../Page/特許.md "wikilink")（[フェネストロン](https://ja.wikipedia.org/wiki/フェネストロン "wikilink")）であることがOH-X構想当初の懸案であったが、実機の製作段階で特許の期限（20年）が過ぎたため、無料で使用できることとなった。
 
 観測中に静止するため高性能な姿勢制御装置を搭載しており、[パイロットは空中で手を放していても自動でバランスを取ってホバリングしていられる](https://ja.wikipedia.org/wiki/パイロット_\(航空\) "wikilink")。ローターハブがヒンジレスのため機動性も高く、ヘリコプターでは珍しいループ（宙返り）やロール（横転）などの[曲技飛行](../Page/曲技飛行.md "wikilink")も実現している\[6\]。
 
@@ -35,11 +35,11 @@
 
 ### アビオニクス
 
-[JGSDF_OH-1（32622）_electro-optical_sensor_turret.JPG](https://ja.wikipedia.org/wiki/File:JGSDF_OH-1（32622）_electro-optical_sensor_turret.JPG "fig:JGSDF_OH-1（32622）_electro-optical_sensor_turret.JPG") [観測機](../Page/観測機.md "wikilink")として最重要能力である[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")機構は、後部座席上部に設置された索敵サイトである。[AH-1Sや](https://ja.wikipedia.org/wiki/AH-1_コブラ#日本 "wikilink")[AH-64Dが機体先端に設置されているのに対し](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ#日本 "wikilink")、OH-1は[コックピット上部にあるため](../Page/軍用機のコックピット.md "wikilink")、敵から見えない木陰などに身を隠して偵察できる。
+[JGSDF_OH-1（32622）_electro-optical_sensor_turret.JPG](https://ja.wikipedia.org/wiki/File:JGSDF_OH-1（32622）_electro-optical_sensor_turret.JPG "fig:JGSDF_OH-1（32622）_electro-optical_sensor_turret.JPG") [観測機](../Page/観測機.md "wikilink")として最重要能力である[偵察](../Page/偵察.md "wikilink")機構は、後部座席上部に設置された索敵サイトである。[AH-1Sや](https://ja.wikipedia.org/wiki/AH-1_コブラ#日本 "wikilink")[AH-64Dが機体先端に設置されているのに対し](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ#日本 "wikilink")、OH-1は[コックピット上部にあるため](../Page/軍用機のコックピット.md "wikilink")、敵から見えない木陰などに身を隠して偵察できる。
 
 サイトは[赤外線センサ](../Page/赤外線センサ.md "wikilink")、[可視光線](../Page/可視光線.md "wikilink")[カラーテレビ](../Page/カラーテレビ.md "wikilink")、[レーザー距離測定装置が一体化したもので](../Page/光波測距儀.md "wikilink")、敵上陸地点を昼夜問わずに監視できる。偵察で得られた情報は、リアルタイムで情報を送ることはできず、基地に帰投してからVHSに変換され初めて情報を精査することができる。現状では、リアルタイムに情報を伝達する手段としては無線による音声通話のみである。
 
-コックピットは2基のカラー[液晶](../Page/液晶.md "wikilink")[多機能ディスプレイと](https://ja.wikipedia.org/wiki/マルチファンクションディスプレイ "wikilink")[ヘッドアップディスプレイ](https://ja.wikipedia.org/wiki/ヘッドアップディスプレイ "wikilink")で構成される。また、コックピットには任務適合性の高い[アビオニクス](../Page/アビオニクス.md "wikilink")統合システムを採用した。 {{-}}
+コックピットは2基のカラー[液晶](../Page/液晶.md "wikilink")[多機能ディスプレイと](https://ja.wikipedia.org/wiki/マルチファンクションディスプレイ "wikilink")[ヘッドアップディスプレイ](../Page/ヘッドアップディスプレイ.md "wikilink")で構成される。また、コックピットには任務適合性の高い[アビオニクス](../Page/アビオニクス.md "wikilink")統合システムを採用した。 {{-}}
 
 ### エンジン
 
@@ -49,7 +49,7 @@
 
 ### 武装
 
-[thumb](https://ja.wikipedia.org/wiki/画像:JGSDF_OH-1\(32603\)_Stub_wing_&_SAM-2_launcher\(Right\)_at_Camp_Akeno_October_2,_2016_01.jpg "wikilink") 偵察が主目的であるため軽量化を優先し機関砲等の固定武装は搭載されなかったが、胴体両側の[スタブ・ウィングに](https://ja.wikipedia.org/wiki/小翼 "wikilink")[ハードポイント](https://ja.wikipedia.org/wiki/ハードポイント "wikilink")があり、自衛用（空対空）として[91式携帯地対空誘導弾](https://ja.wikipedia.org/wiki/91式携帯地対空誘導弾 "wikilink")発射機を2基納めたケースを左右2基装備することが可能である。
+[thumb](https://ja.wikipedia.org/wiki/画像:JGSDF_OH-1\(32603\)_Stub_wing_&_SAM-2_launcher\(Right\)_at_Camp_Akeno_October_2,_2016_01.jpg "wikilink") 偵察が主目的であるため軽量化を優先し機関砲等の固定武装は搭載されなかったが、胴体両側の[スタブ・ウィングに](https://ja.wikipedia.org/wiki/小翼 "wikilink")[ハードポイント](https://ja.wikipedia.org/wiki/ハードポイント "wikilink")があり、自衛用（空対空）として[91式携帯地対空誘導弾](../Page/91式携帯地対空誘導弾.md "wikilink")発射機を2基納めたケースを左右2基装備することが可能である。
 
 スタブ・ウィング下には[増槽](../Page/増槽.md "wikilink")の搭載も可能で通常は2基（左右1基）を装備しているため、91式対空誘導弾は最大で4発しか搭載できない。
 
@@ -65,9 +65,9 @@ OH-1の[ライフサイクルコスト](../Page/ライフサイクルコスト.m
 
 ### 戦術能力向上
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）には、翌年導入の[AH-64Dと連携をとることを目的とした](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ#日本 "wikilink")「**観測ヘリコプター用戦術支援システム**」搭載のOH-1試作機（試験用32601号機を改修）が登場した（仮称"OH-1改"）。このシステムは、AH-64Dが持つ僚機とのデータリンク能力を活用するもので、機上での[C4I](https://ja.wikipedia.org/wiki/C4Iシステム "wikilink")（指揮・統制・通信・コンピュータ・情報）能力の向上を図り、地上指揮所やAH-64Dとの情報共有と、陸上戦闘の戦術支援判断を可能となる。当システム搭載のOH-1の[スタブウイングにはデータリンクポッドが装備される](https://ja.wikipedia.org/wiki/小翼 "wikilink")。
+[2005年](../Page/2005年.md "wikilink")（平成17年）には、翌年導入の[AH-64Dと連携をとることを目的とした](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ#日本 "wikilink")「**観測ヘリコプター用戦術支援システム**」搭載のOH-1試作機（試験用32601号機を改修）が登場した（仮称"OH-1改"）。このシステムは、AH-64Dが持つ僚機とのデータリンク能力を活用するもので、機上での[C4I](https://ja.wikipedia.org/wiki/C4Iシステム "wikilink")（指揮・統制・通信・コンピュータ・情報）能力の向上を図り、地上指揮所やAH-64Dとの情報共有と、陸上戦闘の戦術支援判断を可能となる。当システム搭載のOH-1の[スタブウイングにはデータリンクポッドが装備される](https://ja.wikipedia.org/wiki/小翼 "wikilink")。
 
-システムは[2002年](../Page/2002年.md "wikilink")（平成14年）より防衛庁（現[防衛省](../Page/防衛省.md "wikilink")）[技術研究本部](../Page/技術研究本部.md "wikilink")が開発しており、このOH-1改は、機上での情報分析・作戦計画の作成・状況の把握などができ、また、ヘルメットバイザーには各種情報を統合表示することで、[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")ポイント・飛行経路・敵味方の識別などが可能、山がちな[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の地形を考慮し、電波障害を受けないデータリンク能力も持ち合わせている。これにより、[OH-6と](https://ja.wikipedia.org/wiki/OH-6_\(航空機\)#日本での採用 "wikilink")[AH-1Sの組み合わせでは実現できなかった](https://ja.wikipedia.org/wiki/AH-1_コブラ#日本 "wikilink")、非常に高度な作戦が可能となっている。
+システムは[2002年](../Page/2002年.md "wikilink")（平成14年）より防衛庁（現[防衛省](../Page/防衛省.md "wikilink")）[技術研究本部](../Page/技術研究本部.md "wikilink")が開発しており、このOH-1改は、機上での情報分析・作戦計画の作成・状況の把握などができ、また、ヘルメットバイザーには各種情報を統合表示することで、[偵察](../Page/偵察.md "wikilink")ポイント・飛行経路・敵味方の識別などが可能、山がちな[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の地形を考慮し、電波障害を受けないデータリンク能力も持ち合わせている。これにより、[OH-6と](https://ja.wikipedia.org/wiki/OH-6_\(航空機\)#日本での採用 "wikilink")[AH-1Sの組み合わせでは実現できなかった](https://ja.wikipedia.org/wiki/AH-1_コブラ#日本 "wikilink")、非常に高度な作戦が可能となっている。
 
 ## 計画中止となった派生機
 
@@ -118,13 +118,13 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
 
   - 飛行実験隊
 
-[北部方面隊](https://ja.wikipedia.org/wiki/北部方面隊 "wikilink")
+[北部方面隊](../Page/北部方面隊.md "wikilink")
 
   - [北部方面航空隊](../Page/北部方面航空隊.md "wikilink")
       - [第1対戦車ヘリコプター隊](https://ja.wikipedia.org/wiki/対戦車ヘリコプター隊 "wikilink")
       - 北部方面ヘリコプター隊
 
-[東北方面隊](https://ja.wikipedia.org/wiki/東北方面隊 "wikilink")
+[東北方面隊](../Page/東北方面隊.md "wikilink")
 
   - [東北方面航空隊](../Page/東北方面航空隊.md "wikilink")
       - [第2対戦車ヘリコプター隊](https://ja.wikipedia.org/wiki/対戦車ヘリコプター隊 "wikilink")
@@ -142,7 +142,7 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
       - [第5対戦車ヘリコプター隊](https://ja.wikipedia.org/wiki/対戦車ヘリコプター隊 "wikilink")
       - 中部方面ヘリコプター隊
 
-[西部方面隊](https://ja.wikipedia.org/wiki/西部方面隊 "wikilink")
+[西部方面隊](../Page/西部方面隊.md "wikilink")
 
   - [西部方面航空隊](../Page/西部方面航空隊.md "wikilink")
       - [第3対戦車ヘリコプター隊](https://ja.wikipedia.org/wiki/対戦車ヘリコプター隊 "wikilink")
@@ -176,7 +176,7 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
   - [航続距離](../Page/航続距離.md "wikilink") - 550km(機内)、720km(増槽搭載時)
   - 戦闘行動半径 - 200km
   - 機体内燃料積載量 - 1,000L(機内)
-  - 武装 - [91式携帯地対空誘導弾](https://ja.wikipedia.org/wiki/91式携帯地対空誘導弾 "wikilink")×4
+  - 武装 - [91式携帯地対空誘導弾](../Page/91式携帯地対空誘導弾.md "wikilink")×4
 
 ## 登場作品
 
@@ -184,12 +184,12 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
 
   - 『[シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")』
     [木更津駐屯地](../Page/木更津駐屯地.md "wikilink")所属機が登場。第3形態の[ゴジラを攻撃するため](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\)#『シン・ゴジラ』のゴジラ "wikilink")、同じく木更津駐屯地所属の[AH-1S](https://ja.wikipedia.org/wiki/AH-1_コブラ#日本 "wikilink")[対戦車ヘリコプターとともに](../Page/攻撃ヘリコプター.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")上空へ出撃するが、逃げ遅れた住民を攻撃開始の直前に発見する。その後、第4形態に達したゴジラの[東京都](../Page/東京都.md "wikilink")内侵入を防ぐために行われたB-2号計画「タバ作戦」に投入され、攻撃を行うAH-1Sや[AH-64D戦闘ヘリコプターなどの](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ#採用国 "wikilink")[弾着観測と戦果確認を行う](https://ja.wikipedia.org/wiki/射弾観測 "wikilink")。
-  - 『[戦国自衛隊1549](https://ja.wikipedia.org/wiki/戦国自衛隊1549 "wikilink")』
-    [日本映画](../Page/日本映画.md "wikilink")初登場。極秘実験中の事故で[戦国時代へ](../Page/戦国時代_\(日本\).md "wikilink")[タイムスリップした](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")[第三特別実験中隊を救出するため現代から](https://ja.wikipedia.org/wiki/戦国自衛隊1549#第三特別実験中隊 "wikilink")[1549年](../Page/1549年.md "wikilink")に送り込まれた[ロメオ隊に](https://ja.wikipedia.org/wiki/戦国自衛隊1549#ロメオ隊 "wikilink")、[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")「オメガ1」とする機体が配備される。作中では、戦国時代に到着して直ぐに周辺状況の確認のために飛び立ち、加えて天母山の[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")飛行を行うが、その最中に天導衆からの[対空ミサイル攻撃を受けてしまう](https://ja.wikipedia.org/wiki/ミサイル#対空ミサイル "wikilink")。
+  - 『[戦国自衛隊1549](../Page/戦国自衛隊1549.md "wikilink")』
+    [日本映画](../Page/日本映画.md "wikilink")初登場。極秘実験中の事故で[戦国時代へ](../Page/戦国時代_\(日本\).md "wikilink")[タイムスリップした](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")[第三特別実験中隊を救出するため現代から](https://ja.wikipedia.org/wiki/戦国自衛隊1549#第三特別実験中隊 "wikilink")[1549年](../Page/1549年.md "wikilink")に送り込まれた[ロメオ隊に](https://ja.wikipedia.org/wiki/戦国自衛隊1549#ロメオ隊 "wikilink")、[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")「オメガ1」とする機体が配備される。作中では、戦国時代に到着して直ぐに周辺状況の確認のために飛び立ち、加えて天母山の[偵察](../Page/偵察.md "wikilink")飛行を行うが、その最中に天導衆からの[対空ミサイル攻撃を受けてしまう](https://ja.wikipedia.org/wiki/ミサイル#対空ミサイル "wikilink")。
 
 ### アニメ・漫画
 
-  - 『[BLUE SEED](https://ja.wikipedia.org/wiki/BLUE_SEED "wikilink")』
+  - 『[BLUE SEED](../Page/BLUE_SEED.md "wikilink")』
     第23話に登場。植物に覆われた[東京上空で避難命令のアナウンスを行う](../Page/東京都.md "wikilink")。
   - 『[ガールズ&パンツァー 劇場版](https://ja.wikipedia.org/wiki/ガールズ&パンツァー_劇場版 "wikilink")』
     [霞ヶ浦駐屯地](../Page/霞ヶ浦駐屯地.md "wikilink")所属機が登場。蝶野亜美[1等陸尉が](https://ja.wikipedia.org/wiki/大尉#自衛隊 "wikilink")[熊本の西住家に赴く際に搭乗する](https://ja.wikipedia.org/wiki/熊本県 "wikilink")。
@@ -199,10 +199,10 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
     アニメ版では、第1話にて主人公たちが通う[高校の上空を通過していく](https://ja.wikipedia.org/wiki/高等学校 "wikilink")。
   - 『[正解するカド](https://ja.wikipedia.org/wiki/正解するカド "wikilink")』
     アニメ版にて、物体「カド」を観測する自衛隊機として度々登場。
-  - 『[なるたる](https://ja.wikipedia.org/wiki/なるたる "wikilink")』
+  - 『[なるたる](../Page/なるたる.md "wikilink")』
     漫画・アニメ版に[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")「バーバーバー」とする機体が登場。[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")が、[AH-1Sの架空の発展型である](https://ja.wikipedia.org/wiki/AH-1_コブラ#日本 "wikilink")「コブラプラス」とともに、「竜の子」の捕獲作戦に投入する。この機体は、メインローター・マスト頂部に[ロングボウ・レーダーに似た円盤形](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ#AN/APG-78_ロングボウ・レーダー "wikilink")[レドーム](../Page/レドーム.md "wikilink")を搭載している。アニメでは91式携帯空対空誘導弾で攻撃する。
   - 『[べるぜバブ](https://ja.wikipedia.org/wiki/べるぜバブ "wikilink")』
-    第234話に登場。異常事態に陥った石矢魔高校周辺を[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")飛行する。
+    第234話に登場。異常事態に陥った石矢魔高校周辺を[偵察](../Page/偵察.md "wikilink")飛行する。
 
 ### 小説
 
@@ -213,13 +213,13 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
   - 『[ゼロの迎撃](https://ja.wikipedia.org/wiki/安生正#単著 "wikilink")』
     東部方面航空隊所属機が登場。[東京に潜伏した](../Page/東京都.md "wikilink")[北朝鮮](../Page/朝鮮民主主義人民共和国.md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")を捜索する。
   - 『[続・戦国自衛隊](https://ja.wikipedia.org/wiki/戦国自衛隊_\(劇画\)#続・戦国自衛隊 "wikilink")』
-    [戦国時代へ](../Page/戦国時代_\(日本\).md "wikilink")[タイムスリップした自衛隊の装備として登場](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")。「[関ヶ原の戦い](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")」に投入され、弾着観測や敵陣[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")を行う。また、作中では両翼の[スタブウィングに](https://ja.wikipedia.org/wiki/小翼 "wikilink")[ロケットランチャー](../Page/ロケットランチャー.md "wikilink")を搭載可能という設定で、これを搭載したOH-1による、[東軍本陣の](https://ja.wikipedia.org/wiki/関ヶ原の戦い#東軍 "wikilink")[徳川家康](../Page/徳川家康.md "wikilink")への[空爆が計画される](https://ja.wikipedia.org/wiki/空襲 "wikilink")。
+    [戦国時代へ](../Page/戦国時代_\(日本\).md "wikilink")[タイムスリップした自衛隊の装備として登場](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")。「[関ヶ原の戦い](https://ja.wikipedia.org/wiki/関ヶ原の戦い "wikilink")」に投入され、弾着観測や敵陣[偵察](../Page/偵察.md "wikilink")を行う。また、作中では両翼の[スタブウィングに](https://ja.wikipedia.org/wiki/小翼 "wikilink")[ロケットランチャー](../Page/ロケットランチャー.md "wikilink")を搭載可能という設定で、これを搭載したOH-1による、[東軍本陣の](https://ja.wikipedia.org/wiki/関ヶ原の戦い#東軍 "wikilink")[徳川家康](../Page/徳川家康.md "wikilink")への[空爆が計画される](../Page/空襲.md "wikilink")。
   - 『[緋弾のアリア](https://ja.wikipedia.org/wiki/緋弾のアリア "wikilink")』
     星伽家の所有機として登場。ジャックされた[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")「[のぞみ](https://ja.wikipedia.org/wiki/のぞみ_\(列車\) "wikilink")246号」の車上にレキを送り届けるため出動する。
   - 『[ピノキオ急襲](https://ja.wikipedia.org/wiki/大石英司#サイレント・コアシリーズ "wikilink")』
     [佐渡島](../Page/佐渡島.md "wikilink")で[AH-64Dとともに哨戒飛行を行う](https://ja.wikipedia.org/wiki/AH-64D_アパッチ・ロングボウ#採用国 "wikilink")。
   - 『[ルーントルーパーズ 自衛隊漂流戦記](https://ja.wikipedia.org/wiki/ルーントルーパーズ_自衛隊漂流戦記 "wikilink")』
-    異世界へ飛ばされた自衛隊の装備として登場。所属は陸自だが、架空の[いずも型護衛艦](https://ja.wikipedia.org/wiki/いずも型護衛艦 "wikilink")「やしま」に搭載・運用されており、フィルボルグ継承帝国の竜騎士たちと空中戦を繰り広げるAH-64Dを、地形や敵の位置などの情報収集のための偵察や敵への[ヘルファイア誘導レーザーの照射などで後方から支援する](https://ja.wikipedia.org/wiki/ヘルファイア_\(ミサイル\) "wikilink")。
+    異世界へ飛ばされた自衛隊の装備として登場。所属は陸自だが、架空の[いずも型護衛艦](https://ja.wikipedia.org/wiki/いずも型護衛艦 "wikilink")「やしま」に搭載・運用されており、フィルボルグ継承帝国の竜騎士たちと空中戦を繰り広げるAH-64Dを、地形や敵の位置などの情報収集のための偵察や敵への[ヘルファイア誘導レーザーの照射などで後方から支援する](../Page/ヘルファイア_\(ミサイル\).md "wikilink")。
 
 ### ゲーム
 
@@ -235,7 +235,7 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
 ## 関連項目
 
   - [ヘリコプター](../Page/ヘリコプター.md "wikilink")
-  - [OH-6](https://ja.wikipedia.org/wiki/OH-6_\(航空機\) "wikilink")
+  - [OH-6](../Page/OH-6_\(航空機\).md "wikilink")
   - [OH-58 カイオワ](../Page/OH-58_カイオワ.md "wikilink") - アメリカ陸軍の観測ヘリコプター
   - [日本製航空機の一覧](../Page/日本製航空機の一覧.md "wikilink")
   - [航空機メーカーの一覧](../Page/航空機メーカーの一覧.md "wikilink")

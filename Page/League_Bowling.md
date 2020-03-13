@@ -1,7 +1,7 @@
 > この記事は[League Bowling](https://ja.wikipedia.org/wiki/League_Bowling)から翻訳されています。
 
 
-**League Bowling**（**リーグ・ボウリング**）は、[SNKが](../Page/SNK_\(1978年設立の企業\).md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から稼動を開始した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[Multi Video System作品で](https://ja.wikipedia.org/wiki/Multi_Video_System "wikilink")、同年[12月10日](../Page/12月10日.md "wikilink")には家庭用[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")版が発売されている（廉価版も[1991年](../Page/1991年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に発売）。
+**League Bowling**（**リーグ・ボウリング**）は、[SNKが](../Page/SNK_\(1978年設立の企業\).md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から稼動を開始した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[Multi Video System作品で](../Page/Multi_Video_System.md "wikilink")、同年[12月10日](../Page/12月10日.md "wikilink")には家庭用[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")版が発売されている（廉価版も[1991年](../Page/1991年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に発売）。
 
 ## 概要
 

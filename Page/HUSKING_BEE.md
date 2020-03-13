@@ -1,11 +1,11 @@
 > この記事は[HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE)から翻訳されています。
 
 
-**HUSKING BEE**（ハスキング・ビー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は「**ハスキン**」「**ハスビー**」。元ini所属。[1994年](../Page/1994年.md "wikilink")に結成され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に解散。[2012年](../Page/2012年.md "wikilink")に新メンバーを従えて再結成。バンド名は英語で「トウモロコシの皮むき会」の意味。
+**HUSKING BEE**（ハスキング・ビー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は「**ハスキン**」「**ハスビー**」。元ini所属。[1994年](../Page/1994年.md "wikilink")に結成され、[2005年](../Page/2005年.md "wikilink")に解散。[2012年](../Page/2012年.md "wikilink")に新メンバーを従えて再結成。バンド名は英語で「トウモロコシの皮むき会」の意味。
 
 ## 概要
 
-1994年の結成後、初期の頃は当時日本において[エモ](https://ja.wikipedia.org/wiki/エモ "wikilink")/[スクリーモ](https://ja.wikipedia.org/wiki/スクリーモ "wikilink")等の音楽を形容する言葉になじみがなかったためか、[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")バンドの位置づけで認識されていた。後にエモ等のアーティストを多数輩出するDOUGHOUSEより海外版をリリースすることにより、徐々に日本においてもエモの先駆者という扱いを受ける。 2枚目のアルバム『PUT ON FRESH PAINT』から『FOUR COLOR PROBLEM』までの1990年代後半から2000年代には絶大な基盤を確立していった。初期の音楽性は、当時隆盛を極めていた[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")ブームに追随するような、テンポの速い演奏に英語詞のボーカルを乗せるといったものだったが、次第に[ジミー・イート・ワールド](https://ja.wikipedia.org/wiki/ジミー・イート・ワールド "wikilink")や[ウィーザー](https://ja.wikipedia.org/wiki/ウィーザー "wikilink")に代表される泣きメロを重視した[エモ](https://ja.wikipedia.org/wiki/エモ "wikilink")、[パワー・ポップ](https://ja.wikipedia.org/wiki/パワー・ポップ "wikilink")を彷彿させるようなものへと変遷していった。また、それに伴って日本語詞の割合を増やしていき、第1期のラストアルバム『variandante』では全収録曲が日本語詞で書かれた。
+1994年の結成後、初期の頃は当時日本において[エモ](https://ja.wikipedia.org/wiki/エモ "wikilink")/[スクリーモ](../Page/スクリーモ.md "wikilink")等の音楽を形容する言葉になじみがなかったためか、[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")バンドの位置づけで認識されていた。後にエモ等のアーティストを多数輩出するDOUGHOUSEより海外版をリリースすることにより、徐々に日本においてもエモの先駆者という扱いを受ける。 2枚目のアルバム『PUT ON FRESH PAINT』から『FOUR COLOR PROBLEM』までの1990年代後半から2000年代には絶大な基盤を確立していった。初期の音楽性は、当時隆盛を極めていた[メロコア](https://ja.wikipedia.org/wiki/メロコア "wikilink")ブームに追随するような、テンポの速い演奏に英語詞のボーカルを乗せるといったものだったが、次第に[ジミー・イート・ワールド](https://ja.wikipedia.org/wiki/ジミー・イート・ワールド "wikilink")や[ウィーザー](../Page/ウィーザー.md "wikilink")に代表される泣きメロを重視した[エモ](https://ja.wikipedia.org/wiki/エモ "wikilink")、[パワー・ポップ](https://ja.wikipedia.org/wiki/パワー・ポップ "wikilink")を彷彿させるようなものへと変遷していった。また、それに伴って日本語詞の割合を増やしていき、第1期のラストアルバム『variandante』では全収録曲が日本語詞で書かれた。
 
 1枚目のアルバム『GRIP』とシングル『A SINGLE WORD』をトイズファクトリー内の[PIZZA OF DEATH RECORDS](../Page/PIZZA_OF_DEATH_RECORDS.md "wikilink")\[1\]よりリリースしているが、後にはINIというレーベルを立ち上げ、そちらからリリースを行うようになっている。
 
@@ -13,7 +13,7 @@
 
   - [1994年](../Page/1994年.md "wikilink")7月に4人編成で結成。1995年1月にボーカル・ドラムが脱退し、元[CAPTAIN HEDGE HOGの平本レオナがドラムで加入](https://ja.wikipedia.org/wiki/CAPTAIN_HEDGE_HOG "wikilink")。ボーカルを磯部が担当することで3人編成となる。
   - [2000年](../Page/2000年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に元THE NERVELAND、SPIT MIDDLE FINGERの平林一哉が加入し4人編成となる。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")のZEPP TOKYOでのライブ「LAST TOUR050306」で解散となった。
+  - [2005年](../Page/2005年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")のZEPP TOKYOでのライブ「LAST TOUR050306」で解散となった。
   - [2012年](../Page/2012年.md "wikilink")幕張メッセで行われる「DEVILOCK NIGHT FINAL」で再結成。ただし平本は不参加で、サポートドラムとして[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")のtatsuyaが参加。その後、いくつかのイベントライヴに参加。
   - [2012年](../Page/2012年.md "wikilink")[9月](../Page/9月.md "wikilink")、「[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink")2012」にて本格的な再始動を発表。その際に新メンバーの加入と、工藤がスケジュール上、活動が困難なことから離脱することを発表。
   - [2016年](../Page/2016年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、4月8日のライブを持ってベースの岸野とドラムスの山崎が脱退することを発表。後任として元メンバーの工藤哲也が再加入。ドラムスはサポートメンバーで補填する\[2\]。
@@ -26,9 +26,9 @@
 
   -
     通称・いっそん。HUSKING BEE解散後は[CORNER](https://ja.wikipedia.org/wiki/CORNER "wikilink")、[MARS EURYTHMICSでの活動を経て](../Page/MARS_EURYTHMICS.md "wikilink")、ソロプロジェクトの磯部正文BANDや弾き語り等で活動していた。
-    CORNERでは、「[small happiness](https://ja.wikipedia.org/wiki/small_happiness "wikilink")」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月19日](../Page/10月19日.md "wikilink")、[FINE LINESとの](https://ja.wikipedia.org/wiki/FINE_LINES "wikilink")[スプリットシングル](https://ja.wikipedia.org/wiki/スプリット盤 "wikilink")）、「single-01」（[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")）の2枚のシングル、「走るナマケモノ」（[2003年](../Page/2003年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")）、「入り口出口」（2006年[7月19日](../Page/7月19日.md "wikilink")）の2枚のアルバムをリリース。
-    [広島県立広島皆実高等学校](https://ja.wikipedia.org/wiki/広島県立広島皆実高等学校 "wikilink")卒。[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")の後輩にあたり、奥田とは[ROCKIN'ON JAPANの対談やライブイベントでの競演も果たしている](../Page/ROCKIN'ON_JAPAN.md "wikilink")。
-    [渡部陽一](https://ja.wikipedia.org/wiki/渡部陽一 "wikilink")、[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")元総理、[安田大サーカス](../Page/安田大サーカス.md "wikilink")[クロちゃん](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")、[哀川翔](../Page/哀川翔.md "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink") の物真似が得意。
+    CORNERでは、「[small happiness](https://ja.wikipedia.org/wiki/small_happiness "wikilink")」（[2005年](../Page/2005年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")、[FINE LINESとの](https://ja.wikipedia.org/wiki/FINE_LINES "wikilink")[スプリットシングル](https://ja.wikipedia.org/wiki/スプリット盤 "wikilink")）、「single-01」（[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")）の2枚のシングル、「走るナマケモノ」（[2003年](../Page/2003年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")）、「入り口出口」（2006年[7月19日](../Page/7月19日.md "wikilink")）の2枚のアルバムをリリース。
+    [広島県立広島皆実高等学校](../Page/広島県立広島皆実高等学校.md "wikilink")卒。[吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")の後輩にあたり、奥田とは[ROCKIN'ON JAPANの対談やライブイベントでの競演も果たしている](../Page/ROCKIN'ON_JAPAN.md "wikilink")。
+    [渡部陽一](../Page/渡部陽一.md "wikilink")、[麻生太郎](https://ja.wikipedia.org/wiki/麻生太郎 "wikilink")元総理、[安田大サーカス](../Page/安田大サーカス.md "wikilink")[クロちゃん](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")、[哀川翔](../Page/哀川翔.md "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink") の物真似が得意。
 
 <!-- end list -->
 
@@ -71,7 +71,7 @@
 
 <!-- end list -->
 
-  - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、コーラス：**岸野一**（きしの はじめ）
+  - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、コーラス：**岸野一**（きしの はじめ）
 
 <!-- end list -->
 
@@ -431,7 +431,7 @@ PDCA-16:再発</p></td>
 </tr>
 <tr class="odd">
 <td><p>ベスト</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月24日.md" title="wikilink">3月24日</a></p></td>
 <td><p><strong>ANTHOLOGY 1994〜2004/TOY'S FACTORY</strong></p></td>
 <td><p>TFCC-86176</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -631,7 +631,7 @@ TFBQ-18030:DVD</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p><strong>050306</strong></p></td>
 <td><p>TFBQ-18057:DVD</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -770,12 +770,12 @@ TFBQ-18030:DVD</p></td>
 <ol>
 <li><strong>ON THE SURFACE / HUSKING BEE</strong></li>
 <li>TAIKUTU / <a href="https://ja.wikipedia.org/wiki/the_cimons" title="wikilink">the cimons</a></li>
-<li>A PIZZA ALAREDY / <a href="https://ja.wikipedia.org/wiki/SNAIL_RAMP" title="wikilink">SNAIL RAMP</a></li>
+<li>A PIZZA ALAREDY / <a href="../Page/SNAIL_RAMP.md" title="wikilink">SNAIL RAMP</a></li>
 <li>STORY ENDS / <a href="https://ja.wikipedia.org/wiki/SHORTCUT_MIFFY!" title="wikilink">SHORTCUT MIFFY!</a></li>
 <li>ピコピコ / <a href="https://ja.wikipedia.org/wiki/ニャチャン_(バンド)" title="wikilink">ニャチャン</a></li>
 <li>I CAN DO ANITHING / <a href="https://ja.wikipedia.org/wiki/Tar_Tare" title="wikilink">Tar Tare</a></li>
 <li>Go and See My Sweetie Pie / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
-<li>五十音ミュージック / <a href="https://ja.wikipedia.org/wiki/ポカスカジャン" title="wikilink">ポカスカジャン</a></li>
+<li>五十音ミュージック / <a href="../Page/ポカスカジャン.md" title="wikilink">ポカスカジャン</a></li>
 <li>super power / <a href="../Page/PENPALS.md" title="wikilink">PENPALS</a></li>
 <li>Walking in the sky / <a href="https://ja.wikipedia.org/wiki/three_M" title="wikilink">three M</a></li>
 <li>メカ ビーナス / <a href="https://ja.wikipedia.org/wiki/HUMANS" title="wikilink">HUMANS</a></li>
@@ -826,7 +826,7 @@ TFBQ-18030:DVD</p></td>
 <ol>
 <li>CRAZY / <a href="../Page/TROPICAL_GORILLA.md" title="wikilink">TROPICAL GORILLA</a></li>
 <li>SEX IN THE WAY / <a href="https://ja.wikipedia.org/wiki/DISGUSTEENS" title="wikilink">DISGUSTEENS</a></li>
-<li>LONG DISTANCE / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>LONG DISTANCE / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>SHE'S MY EX / <a href="https://ja.wikipedia.org/wiki/NOSHOW" title="wikilink">NOSHOW</a></li>
 <li>MINUTE / <a href="https://ja.wikipedia.org/wiki/SHORT_CIRCUIT_(バンド)" title="wikilink">SHORT CIRCUIT</a></li>
 <li><strong>BIRTHDAY I.O.U. / HUSKING BEE</strong></li>
@@ -853,7 +853,7 @@ Ambience Records</p></td>
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li><a href="../Page/キスしてほしい.md" title="wikilink">キスしてほしい</a>（トゥー・トゥー・トゥー） / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
-<li>ラインを越えて / <a href="https://ja.wikipedia.org/wiki/PEALOUT" title="wikilink">PEALOUT</a></li>
+<li>ラインを越えて / <a href="../Page/PEALOUT.md" title="wikilink">PEALOUT</a></li>
 <li><a href="../Page/情熱の薔薇.md" title="wikilink">情熱の薔薇</a> / <a href="../Page/小島_(バンド).md" title="wikilink">小島</a></li>
 <li>シャララ / <a href="../Page/IN-HI.md" title="wikilink">IN-HI</a></li>
 <li><a href="../Page/TRAIN-TRAIN.md" title="wikilink">TRAIN-TRAIN</a> / <a href="https://ja.wikipedia.org/wiki/UZUMAKI" title="wikilink">U×Z×M×K（UZUMAKI）</a></li>
@@ -863,7 +863,7 @@ Ambience Records</p></td>
 <li><a href="../Page/TOO_MUCH_PAIN.md" title="wikilink">TOO MUCH PAIN</a> / <a href="../Page/SA_(バンド).md" title="wikilink">SA</a></li>
 <li>風船爆弾（バンバンバン） / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
 <li>世界のまん中 / <a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/リンダリンダ" title="wikilink">リンダリンダ</a> / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li><a href="../Page/リンダリンダ.md" title="wikilink">リンダリンダ</a> / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li>少年の詩 / <a href="../Page/PENPALS.md" title="wikilink">PENPALS</a></li>
 <li><a href="../Page/青空_(THE_BLUE_HEARTSの曲).md" title="wikilink">青空</a> / <a href="https://ja.wikipedia.org/wiki/CYLINDER_HEAD_ROCK" title="wikilink">CYLINDER HEAD ROCK</a>
 </div>
@@ -881,7 +881,7 @@ Ambience Records</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>MICKEY MOUSE CLUB MARCH / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>MICKEY MOUSE CLUB MARCH / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>Yo HO / <a href="https://ja.wikipedia.org/wiki/SNUFF" title="wikilink">SNUFF</a></li>
 <li>MAIN STREET ELECTRICAL PARADE / <a href="https://ja.wikipedia.org/wiki/REEL_BIG_FISH" title="wikilink">REEL BIG FISH</a></li>
 <li>IT'S A SMALL WORLD / <a href="https://ja.wikipedia.org/wiki/H2O_(バンド)" title="wikilink">H2O</a></li>
@@ -914,7 +914,7 @@ TYCN-80015:SHM-CD</p></td>
 <ol>
 <li>so many people / <a href="../Page/POTSHOT.md" title="wikilink">POTSHOT</a></li>
 <li><strong>さらば青春 / HUSKING BEE</strong></li>
-<li>孤独な太陽 / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li>孤独な太陽 / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li>孤独な旅人 / <a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 <li>浮雲男 (Takkyu's Japp Tekno ppopp Mix) / <a href="../Page/石野卓球.md" title="wikilink">石野卓球</a></li>
 <li>星の砂 / <a href="../Page/DMBQ.md" title="wikilink">DMBQ</a></li>
@@ -944,9 +944,9 @@ TYCN-80015:SHM-CD</p></td>
 <li>I BURN / ALL LIVING THINGS</li>
 <li>AWESOME LEVEL / <a href="../Page/Cocobat.md" title="wikilink">Cocobat</a></li>
 <li>ゴンドワナへの旅 / <a href="../Page/Smorgas.md" title="wikilink">Smorgas</a></li>
-<li>(Can’t Remember)How we used to be / <a href="https://ja.wikipedia.org/wiki/ELLEGARDEN" title="wikilink">ELLEGARDEN</a></li>
+<li>(Can’t Remember)How we used to be / <a href="../Page/ELLEGARDEN.md" title="wikilink">ELLEGARDEN</a></li>
 <li>Merry Time / NEGATIVE HOLIDAY</li>
-<li>戦風の中に立つ / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li>戦風の中に立つ / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 <li>PINKIE’S ROCK SHOW / Hermann H.&amp;The Pacemakers</li>
 <li>It ain’t over till it’s over / Spinna B-ill&amp;The Cavemans</li>
 <li><strong>The steady-state theory / HUSKING BEE</strong></li>
@@ -964,7 +964,7 @@ TYCN-80015:SHM-CD</p></td>
 </ol></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
 <td><p><strong>animation <a href="https://ja.wikipedia.org/wiki/BECK_(漫画)" title="wikilink">BECK</a> original soundtrack “KEITH”</strong></p></td>
 <td><p>DFCL-1178</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -979,11 +979,11 @@ TYCN-80015:SHM-CD</p></td>
 <li>Piece Of Tears / <a href="https://ja.wikipedia.org/wiki/GOOFY&#39;S_HOLIDAY" title="wikilink">GOOFY'S HOLIDAY</a></li>
 <li>Like A Foojin / <a href="https://ja.wikipedia.org/wiki/Typhoon24" title="wikilink">Typhoon24</a> Feat.Tatsuzo Of YKZ</li>
 <li>Journey / <a href="https://ja.wikipedia.org/wiki/GOOFY&#39;S_HOLIDAY" title="wikilink">GOOFY'S HOLIDAY</a></li>
-<li>50￠ Wisdom / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>50￠ Wisdom / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li><strong>Brightest / HUSKING BEE</strong></li>
 <li>Face / <a href="https://ja.wikipedia.org/wiki/Sister_(バンド)" title="wikilink">Sister</a></li>
 <li>I Call You Love / <a href="../Page/Meister_(バンド).md" title="wikilink">Meister</a></li>
-<li>Little More Than Before (Slip Out) / <a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a></li>
+<li>Little More Than Before (Slip Out) / <a href="../Page/10-FEET.md" title="wikilink">10-FEET</a></li>
 <li>Moon On The Water / BEAT CRUSADERS
 </div>
 </div></li>
@@ -1010,7 +1010,7 @@ TYCN-80015:SHM-CD</p></td>
 <li>THAT'S THE WAY WE UNITE / <a href="../Page/Dragon_Ash.md" title="wikilink">Dragon Ash</a></li>
 <li>MASTADABESTAH / <a href="https://ja.wikipedia.org/wiki/THE_NOVEMBERS" title="wikilink">THE NOVEMBERS</a></li>
 <li>REMIND ME / <a href="../Page/LITE_(バンド).md" title="wikilink">LITE</a></li>
-<li>FLOW (IT’S LIKE THAT) / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a>
+<li>FLOW (IT’S LIKE THAT) / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a>
 </div>
 </div></li>
 </ol></td>
@@ -1039,11 +1039,11 @@ TYCN-80015:SHM-CD</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/コーヒー_(奥田民生の曲)" title="wikilink">人の息子</a> / <a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/さすらい_(奥田民生の曲)" title="wikilink">さすらい</a> / <a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS</a></li>
 <li>And I Love Car / <a href="https://ja.wikipedia.org/wiki/松たか子" title="wikilink">松たか子</a></li>
-<li>御免ライダー / <a href="https://ja.wikipedia.org/wiki/大江千里_(アーティスト)" title="wikilink">大江千里</a></li>
+<li>御免ライダー / <a href="../Page/大江千里_(アーティスト).md" title="wikilink">大江千里</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/イージュー★ライダー" title="wikilink">イージュー★ライダー</a> / <a href="https://ja.wikipedia.org/wiki/andymori" title="wikilink">andymori</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/The_STANDARD" title="wikilink">The STANDARD</a> / <a href="https://ja.wikipedia.org/wiki/CHARA" title="wikilink">Chara</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/マシマロ_(奥田民生の曲)" title="wikilink">マシマロ</a> / <a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/The_STANDARD" title="wikilink">夕陽ヶ丘のサンセット</a> / <a href="https://ja.wikipedia.org/wiki/住岡梨奈" title="wikilink">住岡梨奈</a>＋<a href="https://ja.wikipedia.org/wiki/堂島孝平" title="wikilink">堂島孝平</a>×A.C.E.</li>
+<li><a href="https://ja.wikipedia.org/wiki/The_STANDARD" title="wikilink">夕陽ヶ丘のサンセット</a> / <a href="https://ja.wikipedia.org/wiki/住岡梨奈" title="wikilink">住岡梨奈</a>＋<a href="../Page/堂島孝平.md" title="wikilink">堂島孝平</a>×A.C.E.</li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/CUSTOM" title="wikilink">CUSTOM</a> / HUSKING BEE</strong></li>
 <li>野ばら / <a href="../Page/矢野顕子.md" title="wikilink">矢野顕子</a>
 </div>
@@ -1063,7 +1063,7 @@ TYCN-80015:SHM-CD</p></td>
 <ol>
 <li>襟がゆれてる。 / <a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li>2月 / <a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></li>
-<li>散文とブルース / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>散文とブルース / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>ROOM / <a href="https://ja.wikipedia.org/wiki/COCOBAT" title="wikilink">COCOBAT</a></li>
 <li>9月 / <a href="https://ja.wikipedia.org/wiki/八田ケンヂ" title="wikilink">八田ケンヂ</a></li>
 <li><strong>ocean / HUSKING BEE</strong></li>
@@ -1149,10 +1149,10 @@ TYCN-80015:SHM-CD</p></td>
 <li>8.6 / <a href="https://ja.wikipedia.org/wiki/toe" title="wikilink">toe</a> + <a href="https://ja.wikipedia.org/wiki/土岐麻子" title="wikilink">土岐麻子</a></li>
 <li>WALK / <a href="https://ja.wikipedia.org/wiki/Ken_Yokoyama" title="wikilink">Ken Yokoyama</a></li>
 <li>SHARE THE JOY OF OUR TOUR / <a href="https://ja.wikipedia.org/wiki/WATER_CLOSET" title="wikilink">WATER CLOSET</a></li>
-<li>SUN MYSELF / <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>SUN MYSELF / <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>A SINGLE WORD / <a href="https://ja.wikipedia.org/wiki/FINE_LINES" title="wikilink">FINE LINES</a></li>
 <li>欠けボタンの浜 / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>BY CHANCE / <a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>BY CHANCE / <a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>STILL IN THE SAME PLACE? / <a href="https://ja.wikipedia.org/wiki/WOWW" title="wikilink">WOWW</a></li>
 <li>THE SUN AND THE MOON / <a href="../Page/OVERGROUND_ACOUSTIC_UNDERGROUND.md" title="wikilink">OVERGROUND ACOUSTIC UNDERGROUND</a></li>
 <li>後に跡 / <a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">YOUR SONG IS GOOD</a></li>
@@ -1232,7 +1232,7 @@ TYCN-80015:SHM-CD</p></td>
   - 2005年03月 - LAST TOUR 050306
   - 2012年11月17日〜12月23日（10公演） - HUSKING BEE Brand-New Life 2012
       -
-        w/[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")/[ヒダカトオル SET）](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")（BAND/[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")/[MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")/[THE BAWDIES](https://ja.wikipedia.org/wiki/THE_BAWDIES "wikilink")/[YUTAKA FURUKAWA](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink")/[ASPARAGUS](../Page/ASPARAGUS.md "wikilink")/[NO HITTER](https://ja.wikipedia.org/wiki/NO_HITTER "wikilink")/[SNATCH](https://ja.wikipedia.org/wiki/SNATCH "wikilink")
+        w/[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")/[ヒダカトオル SET）](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")（BAND/[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")/[MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")/[THE BAWDIES](https://ja.wikipedia.org/wiki/THE_BAWDIES "wikilink")/[YUTAKA FURUKAWA](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink")/[ASPARAGUS](../Page/ASPARAGUS.md "wikilink")/[NO HITTER](https://ja.wikipedia.org/wiki/NO_HITTER "wikilink")/[SNATCH](https://ja.wikipedia.org/wiki/SNATCH "wikilink")
   - 2013年03月27日〜-06月15日（13公演） - 『SOMA』release tour 2013
       -
         w/The Starbems
@@ -1299,12 +1299,12 @@ TYCN-80015:SHM-CD</p></td>
   - 2013年02月23日 - BEA × Zepp Fukuoka presents F-X
   - 2013年04月27日 - GARNI 15th Anniversary SATISFACTION\#7
   - 2013年04月29日 - [COMIN'KOBE](https://ja.wikipedia.org/wiki/COMIN'KOBE "wikilink") 2013
-  - 2013年05月08日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") Tour 相克
+  - 2013年05月08日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") Tour 相克
   - 2013年05月09日 - PIRATE SHIP 2013
   - 2013年05月15日・16日・06月29日・30日 - [BACK DROP BOMB](../Page/BACK_DROP_BOMB.md "wikilink") & HUSKING BEE Wレコ発『Double Bond』tour
   - 2013年05月28日 - [clammbon](https://ja.wikipedia.org/wiki/クラムボン_\(バンド\) "wikilink") faVS\!\!\!
   - 2013年06月02日 - [FM802](../Page/FM802.md "wikilink") presents Rockin' Radio\! -OSAKAJOH YAON- supported by [SPACE SHOWER TV](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV "wikilink")
-  - 2013年05月08日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")「Tour 相克」
+  - 2013年05月08日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink")「Tour 相克」
   - 2013年07月15日 - [THE STARBEMS](https://ja.wikipedia.org/wiki/日高央#THE_STARBEMS "wikilink") 1st album release tour "SAD MARATHON 2013"
   - 2013年07月27日 - [JOIN ALIVE](https://ja.wikipedia.org/wiki/JOIN_ALIVE "wikilink") 2013
   - 2013年08月02日 - ROCK IN JAPAN FESTIVAL 2013
@@ -1313,7 +1313,7 @@ TYCN-80015:SHM-CD</p></td>
   - 2013年09月07日 - BAYCAMP 2013
   - 2013年09月09日 - THE WILD ONE
   - 2013年09月13日 - Punkish Wedding 2013
-  - 2013年10月20日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") presents ECHOES
+  - 2013年10月20日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") presents ECHOES
   - 2013年11月07日 - tieemo project Pre Party The Get Up Kids JAPAN tour 2013 Osaka / Nagoya
   - 2013年11月09日 - music festival "tieemo"
   - 2013年11月24日 - 東北ジャム2013 in 石巻
@@ -1405,5 +1405,5 @@ TYCN-80015:SHM-CD</p></td>
 
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:エモ・バンド](https://ja.wikipedia.org/wiki/Category:エモ・バンド "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
-1.  PIZZAは現在の[横山健](../Page/横山健.md "wikilink")（[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")）が運営しているものと違い、当時まだなじみのなかったPUNKをリリースするためのいわば名前だけの存在だった。
+1.  PIZZAは現在の[横山健](../Page/横山健.md "wikilink")（[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")）が運営しているものと違い、当時まだなじみのなかったPUNKをリリースするためのいわば名前だけの存在だった。
 2.  [HUSKING BEEから岸野一と山崎聖之が脱退、新メンバーにテッキン - 音楽ナタリー](http://natalie.mu/music/news/174825)2016年4月

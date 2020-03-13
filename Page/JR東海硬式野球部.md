@@ -34,8 +34,8 @@
 
   - [湧川勉](../Page/湧川勉.md "wikilink")：内野手（[1982年](../Page/1982年.md "wikilink")[阪急ブレーブスドラフト](../Page/オリックス・バファローズ.md "wikilink")5位）
   - [永井智浩](../Page/永井智浩.md "wikilink")：投手（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[福岡ダイエーホークスドラフト](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")1位）
-  - [光原逸裕](https://ja.wikipedia.org/wiki/光原逸裕 "wikilink")：投手（[2004年](../Page/2004年.md "wikilink")オリックスドラフト2巡）
-  - [中山慎也](../Page/中山慎也.md "wikilink")：投手（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")オリックス大学生・社会人ドラフト5巡、退団後の[2016年](../Page/2016年.md "wikilink")から復帰）
+  - [光原逸裕](../Page/光原逸裕.md "wikilink")：投手（[2004年](../Page/2004年.md "wikilink")オリックスドラフト2巡）
+  - [中山慎也](../Page/中山慎也.md "wikilink")：投手（[2005年](../Page/2005年.md "wikilink")オリックス大学生・社会人ドラフト5巡、退団後の[2016年](../Page/2016年.md "wikilink")から復帰）
   - [伊藤義弘](../Page/伊藤義弘.md "wikilink")：投手（[2007年](../Page/2007年.md "wikilink")[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")大学生・社会人ドラフト4巡）
   - [土本恭平](https://ja.wikipedia.org/wiki/土本恭平 "wikilink")：投手（[2009年](../Page/2009年.md "wikilink")[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")ドラフト3位）
 
@@ -46,22 +46,22 @@
 
 ## 元プロ野球選手の競技者登録
 
-  - [井手元健一朗](https://ja.wikipedia.org/wiki/井手元健一朗 "wikilink")投手（元[中日](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")、[西武](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")；退部）
+  - [井手元健一朗](../Page/井手元健一朗.md "wikilink")投手（元[中日](../Page/中日ドラゴンズ.md "wikilink")、[西武](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")；退部）
   - [中田亮二](https://ja.wikipedia.org/wiki/中田亮二 "wikilink")内野手（元中日）
 
 ## 関連項目
 
   - [JR東海](../Page/東海旅客鉄道.md "wikilink")
-  - [JR北海道硬式野球クラブ](https://ja.wikipedia.org/wiki/JR北海道硬式野球クラブ "wikilink")
+  - [JR北海道硬式野球クラブ](../Page/JR北海道硬式野球クラブ.md "wikilink")
   - [JR盛岡硬式野球部](https://ja.wikipedia.org/wiki/JR盛岡硬式野球部 "wikilink")
-  - [JR東日本東北硬式野球部](https://ja.wikipedia.org/wiki/JR東日本東北硬式野球部 "wikilink")
+  - [JR東日本東北硬式野球部](../Page/JR東日本東北硬式野球部.md "wikilink")
   - [JR秋田硬式野球部](https://ja.wikipedia.org/wiki/JR秋田硬式野球部 "wikilink")
   - [JR新潟硬式野球部](https://ja.wikipedia.org/wiki/JR新潟硬式野球部 "wikilink")
   - [JR水戸硬式野球部](https://ja.wikipedia.org/wiki/JR水戸硬式野球部 "wikilink")
-  - [JR千葉硬式野球部](https://ja.wikipedia.org/wiki/JR千葉硬式野球部 "wikilink")
-  - [JR東日本硬式野球部](https://ja.wikipedia.org/wiki/JR東日本硬式野球部 "wikilink")
-  - [JR西日本硬式野球部](https://ja.wikipedia.org/wiki/JR西日本硬式野球部 "wikilink")
-  - [JR四国硬式野球部](https://ja.wikipedia.org/wiki/JR四国硬式野球部 "wikilink")
-  - [JR九州硬式野球部](https://ja.wikipedia.org/wiki/JR九州硬式野球部 "wikilink")
+  - [JR千葉硬式野球部](../Page/JR千葉硬式野球部.md "wikilink")
+  - [JR東日本硬式野球部](../Page/JR東日本硬式野球部.md "wikilink")
+  - [JR西日本硬式野球部](../Page/JR西日本硬式野球部.md "wikilink")
+  - [JR四国硬式野球部](../Page/JR四国硬式野球部.md "wikilink")
+  - [JR九州硬式野球部](../Page/JR九州硬式野球部.md "wikilink")
 
 [Category:東海地方の社会人野球チーム](https://ja.wikipedia.org/wiki/Category:東海地方の社会人野球チーム "wikilink") [Category:名古屋市の野球チーム](https://ja.wikipedia.org/wiki/Category:名古屋市の野球チーム "wikilink") [Category:東海旅客鉄道](https://ja.wikipedia.org/wiki/Category:東海旅客鉄道 "wikilink") [Category:1921年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1921年設立のスポーツチーム "wikilink")

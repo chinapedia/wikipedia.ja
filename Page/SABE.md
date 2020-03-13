@@ -17,7 +17,7 @@
 
 <!-- end list -->
 
-  - [レディースコミック](../Page/レディースコミック.md "wikilink")で活躍する[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[南Q太](https://ja.wikipedia.org/wiki/南Q太 "wikilink")と結婚して一女をもうけたが後に離婚、一人娘を題材にした「快楽天」掲載の『ゆらさん日記』は離婚と同時に連載終了となった。南はその後、[詩人](../Page/詩人.md "wikilink")の[枡野浩一](https://ja.wikipedia.org/wiki/枡野浩一 "wikilink")との間にも一児を儲けるが、まだ前の籍が残っていたので一時的にSABEの子となったことがある。
+  - [レディースコミック](../Page/レディースコミック.md "wikilink")で活躍する[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[南Q太](https://ja.wikipedia.org/wiki/南Q太 "wikilink")と結婚して一女をもうけたが後に離婚、一人娘を題材にした「快楽天」掲載の『ゆらさん日記』は離婚と同時に連載終了となった。南はその後、[詩人](../Page/詩人.md "wikilink")の[枡野浩一](../Page/枡野浩一.md "wikilink")との間にも一児を儲けるが、まだ前の籍が残っていたので一時的にSABEの子となったことがある。
 
 ## 作品リスト
 
@@ -30,7 +30,7 @@
   - BEAUTIFUL MONEY（1998年、ワニマガジン社）
   - ブルマー1999（1999年、ワニマガジン社）
   - 地獄組の女（2000年、久保書店）
-  - 串やきP（2000年、[コミックフラッパー](https://ja.wikipedia.org/wiki/コミックフラッパー "wikilink")、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")）
+  - 串やきP（2000年、[コミックフラッパー](../Page/コミックフラッパー.md "wikilink")、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")）
   - 阿佐谷腐れ酢学園（2003年、[快楽天](https://ja.wikipedia.org/wiki/快楽天 "wikilink")、ワニマガジン社）
   - 雀ロボが行く～\!\!（robot、ワニマガジン社）
   - [世界の孫](../Page/世界の孫.md "wikilink")（2005～2008年、月刊アフタヌーン、講談社）

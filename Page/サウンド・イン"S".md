@@ -1,11 +1,11 @@
 > この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
 
 
-『**サウンド・イン“S”**』（Sound Inn "S"）は、[BS-TBS](../Page/BS-TBS.md "wikilink")で毎月第3土曜日に放送されている[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。かつては、[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。この前番組が放送終了してから34年後の[2015年](../Page/2015年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から「Seiko presents Sound Inn "S"」として新たに放送されている。番組は、SEIKO（現・[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）の一社提供である。
+『**サウンド・イン“S”**』（Sound Inn "S"）は、[BS-TBS](../Page/BS-TBS.md "wikilink")で毎月第3土曜日に放送されている[音楽番組](../Page/音楽番組.md "wikilink")である。かつては、[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1981年](../Page/1981年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。この前番組が放送終了してから34年後の[2015年](../Page/2015年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")から「Seiko presents Sound Inn "S"」として新たに放送されている。番組は、SEIKO（現・[セイコーホールディングス](../Page/セイコーホールディングス.md "wikilink")）の一社提供である。
 
 ## 概要
 
-[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』に対抗した大人の音楽番組として、初代司会に[佐良直美](https://ja.wikipedia.org/wiki/佐良直美 "wikilink")、[しばたはつみ](../Page/しばたはつみ.md "wikilink")、[由美かおる](../Page/由美かおる.md "wikilink")の3人を起用して放送を開始。レギュラー出演者・音楽監修に[世良譲](../Page/世良譲.md "wikilink")を起用したこともあり、ミュージックフェアよりも、ややジャズ、アメリカン・ポップスの選曲が多かった。その後、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")を挟み、1977年より[伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")に司会は交替。レギュラーもその間、初期の[由美かおる](../Page/由美かおる.md "wikilink")から[タイム・ファイブ](../Page/タイム・ファイブ.md "wikilink")、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")と実力派の歌手に次々交替（しばたはつみは最終回まで出演）。ベテラン歌手や演歌歌手だけでなく、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")歌手も多数出演した。また、[東京音楽祭](https://ja.wikipedia.org/wiki/東京音楽祭 "wikilink")で、ゴールデンカナリー賞などの各賞を受賞した国内外のアーティストが多く出演した。
+[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』に対抗した大人の音楽番組として、初代司会に[佐良直美](../Page/佐良直美.md "wikilink")、[しばたはつみ](../Page/しばたはつみ.md "wikilink")、[由美かおる](../Page/由美かおる.md "wikilink")の3人を起用して放送を開始。レギュラー出演者・音楽監修に[世良譲](../Page/世良譲.md "wikilink")を起用したこともあり、ミュージックフェアよりも、ややジャズ、アメリカン・ポップスの選曲が多かった。その後、[いしだあゆみ](../Page/いしだあゆみ.md "wikilink")を挟み、1977年より[伊東ゆかり](https://ja.wikipedia.org/wiki/伊東ゆかり "wikilink")に司会は交替。レギュラーもその間、初期の[由美かおる](../Page/由美かおる.md "wikilink")から[タイム・ファイブ](../Page/タイム・ファイブ.md "wikilink")、[松崎しげる](https://ja.wikipedia.org/wiki/松崎しげる "wikilink")と実力派の歌手に次々交替（しばたはつみは最終回まで出演）。ベテラン歌手や演歌歌手だけでなく、[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")歌手も多数出演した。また、[東京音楽祭](https://ja.wikipedia.org/wiki/東京音楽祭 "wikilink")で、ゴールデンカナリー賞などの各賞を受賞した国内外のアーティストが多く出演した。
 
 初代司会者の三人の衣装はすべて自前のもので、1回放送分内に3着ほどを着用しており、費用は約20万円であった。また、番組のバックダンサーとなる「ホリデー・ガールズ」の衣装はTBS美術部によるもので、同じく1回分で5着ほど着用しており、回によっては1着30万円のものもあった\[1\]。
 
@@ -92,13 +92,13 @@
 
 ### TBSチャンネルでの再放送
 
-[CS放送の](../Page/日本における衛星放送.md "wikilink")[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")（現・TBSチャンネル1）では、開始時期は不明ながら[2007年](../Page/2007年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")まで再放送され、同日午前5時のリピート放送をもって終了した。
+[CS放送の](../Page/日本における衛星放送.md "wikilink")[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")（現・TBSチャンネル1）では、開始時期は不明ながら[2007年](../Page/2007年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")まで再放送され、同日午前5時のリピート放送をもって終了した。
 
 レギュラー放送終了後には追悼特別番組としてたびたび放送されており、終了から約4年10ヶ月ぶりとなる2012年6月26日（初回放送）には同年5月に死去した[尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")の出演した回を、2013年1月3日（初回放送）には前年10月に死去した[桑名正博](../Page/桑名正博.md "wikilink")の出演した回をそれぞれ放送した。
 
 ### スペシャル
 
-当番組が終了して33年半後の[2014年](../Page/2014年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、『**サウンド・イン"S" 音楽のじかん**』というタイトルで『[スパニチ\!\!](https://ja.wikipedia.org/wiki/スパニチ!! "wikilink")』（[日曜](../Page/日曜日.md "wikilink")14:00 - 14:54）枠で放送された（[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")）。また[BS-TBS](../Page/BS-TBS.md "wikilink")でも同年10月24日に“完全版”を放送予定である。引き続きセイコーホールディングスが一社提供した。
+当番組が終了して33年半後の[2014年](../Page/2014年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、『**サウンド・イン"S" 音楽のじかん**』というタイトルで『[スパニチ\!\!](https://ja.wikipedia.org/wiki/スパニチ!! "wikilink")』（[日曜](../Page/日曜日.md "wikilink")14:00 - 14:54）枠で放送された（[関東ローカル](../Page/関東ローカル.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")）。また[BS-TBS](../Page/BS-TBS.md "wikilink")でも同年10月24日に“完全版”を放送予定である。引き続きセイコーホールディングスが一社提供した。
 
 ### 司会
 

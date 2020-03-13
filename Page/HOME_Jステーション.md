@@ -1,7 +1,7 @@
 > この記事は[HOME J](https://ja.wikipedia.org/wiki/HOME_J)から翻訳されています。
 
 
-『**HOME Jステーション**』（ホーム ジェイステーション）は、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")まで[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた夕方の[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である（毎週月曜 - 金曜16:49 - 18:56）。新聞などでは「**Jステーション**」と表記されることが多く、略称に「**Jステ**」がよく用いられる。
+『**HOME Jステーション**』（ホーム ジェイステーション）は、[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")で[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")まで[生放送](../Page/生放送.md "wikilink")されていた夕方の[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である（毎週月曜 - 金曜16:49 - 18:56）。新聞などでは「**Jステーション**」と表記されることが多く、略称に「**Jステ**」がよく用いられる。
 
 ## 番組概要
 
@@ -18,19 +18,19 @@
 『Jステーション』開始以前のHOME制作夕方ワイドは現在より地元指向・情報バラエティ指向が強く、両番組ともに料理コーナーもあった。また、『げっきんLIVE』途中までは17時台を全てローカル枠としていたが、その後徐々に『Jチャンネル』17時台の一部をネットするようになった。
 
   - [ひろしまVOICE](https://ja.wikipedia.org/wiki/ひろしまVOICE "wikilink") （1999年4月 - 2000年3月） - ローカルタレントの[大松しんじ](../Page/大松しんじ.md "wikilink")が司会を務めるなど報道番組色が薄かった。
-  - [げっきんLIVE](https://ja.wikipedia.org/wiki/げっきんLIVE "wikilink") （2000年4月 - 2003年3月） - 途中まで17時台を全てローカルコーナーに充当しており、[中島尚樹](https://ja.wikipedia.org/wiki/中島尚樹 "wikilink")が担当していた「げっきんGENKIN」という現金獲得コーナーなど県内からの中継コーナーがあった。
+  - [げっきんLIVE](https://ja.wikipedia.org/wiki/げっきんLIVE "wikilink") （2000年4月 - 2003年3月） - 途中まで17時台を全てローカルコーナーに充当しており、[中島尚樹](../Page/中島尚樹.md "wikilink")が担当していた「げっきんGENKIN」という現金獲得コーナーなど県内からの中継コーナーがあった。
 
 ## 放送時間
 
   - 月曜 - 金曜 16:49 - 18:56 （[JST](../Page/日本標準時.md "wikilink")、16:50 - 17:36と17:53 - 18:15に『スーパーJチャンネル』〈テレビ朝日制作〉を内包）
-      - [年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")などの休暇日には、『Jステーション』のローカルパート（17:36 - 17:53または18:15 - 18:56）を休止して『Jチャンネル』の17時台特集部分および、関東ローカルパート部分（天気予報・エンディングも含む）を放送する事がある。
+      - [年末年始](../Page/年末年始.md "wikilink")などの休暇日には、『Jステーション』のローカルパート（17:36 - 17:53または18:15 - 18:56）を休止して『Jチャンネル』の17時台特集部分および、関東ローカルパート部分（天気予報・エンディングも含む）を放送する事がある。
       - 18:15から『[カープ応援中継“勝ちグセ。”](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")』として[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")戦が組まれる日は、17時台とANN枠のみに短縮する事がある。
 
 ## 番組終了時点での出演者
 
 ### メインキャスター
 
-  - [榮真樹](https://ja.wikipedia.org/wiki/榮真樹 "wikilink") （2015年3月30日 -。過去にもサブキャスターとして出演していた） 毎週月-金曜MC
+  - [榮真樹](../Page/榮真樹.md "wikilink") （2015年3月30日 -。過去にもサブキャスターとして出演していた） 毎週月-金曜MC
   - [小嶋沙耶香](../Page/小嶋沙耶香.md "wikilink")（2010年3月29日 - ）
       - 2017年9月まで毎週月-金曜MC
       - 2017年10月から毎週月・木・金曜MC
@@ -39,7 +39,7 @@
 ### サブキャスター
 
   - [串山真理](https://ja.wikipedia.org/wiki/串山真理 "wikilink")（2012年4月5日 - ）
-  - [渡辺美佳](https://ja.wikipedia.org/wiki/渡辺美佳 "wikilink")
+  - [渡辺美佳](../Page/渡辺美佳.md "wikilink")
   - [吉弘翔](https://ja.wikipedia.org/wiki/吉弘翔 "wikilink")（2014年4月 - ）
 
 ### コメンテーター
@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [木下富雄](https://ja.wikipedia.org/wiki/木下富雄 "wikilink")（[カープOB](../Page/広島東洋カープ.md "wikilink")）
+  - [木下富雄](../Page/木下富雄.md "wikilink")（[カープOB](../Page/広島東洋カープ.md "wikilink")）
 
 ## 過去の出演者
 
@@ -63,17 +63,17 @@
 
 | 期間        | 男性         | 女性                                                             |
 | --------- | ---------- | -------------------------------------------------------------- |
-| 2003.3.31 | 2006.12.22 | [井村尚嗣](https://ja.wikipedia.org/wiki/井村尚嗣 "wikilink")          |
+| 2003.3.31 | 2006.12.22 | [井村尚嗣](../Page/井村尚嗣.md "wikilink")                             |
 | 2007.1.   | 2009.3.27  | [渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(アナウンサー\) "wikilink") |
 | 2009.3.30 | 2010.3.26  | [中元綾子](../Page/中元綾子.md "wikilink")                             |
 | 2010.3.29 | 2015.3.27  | [小嶋沙耶香](../Page/小嶋沙耶香.md "wikilink")                           |
-| 2015.3.30 | 2018.4.6   | [榮真樹](https://ja.wikipedia.org/wiki/榮真樹 "wikilink")\[3\]       |
+| 2015.3.30 | 2018.4.6   | [榮真樹](../Page/榮真樹.md "wikilink")\[3\]                          |
 |           |            |                                                                |
 
 ### サブキャスター
 
   - [田代香子](https://ja.wikipedia.org/wiki/田代香子 "wikilink") - サブキャスター。
-  - [八木静佳](https://ja.wikipedia.org/wiki/八木静佳 "wikilink") - サブキャスター。出産のために広島ホームテレビを退社し、同時に番組も降板したが、2007年1月から3か月間「目からウロコ」にリポーターとして出演していた。
+  - [八木静佳](../Page/八木静佳.md "wikilink") - サブキャスター。出産のために広島ホームテレビを退社し、同時に番組も降板したが、2007年1月から3か月間「目からウロコ」にリポーターとして出演していた。
   - [奥村奈津美](../Page/奥村奈津美.md "wikilink") - 2007年4月だけ「目からウロコ」を担当。
   - [川上裕子](../Page/川上裕子.md "wikilink") - サブキャスター。
   - [斉藤尚子](../Page/斉藤尚子.md "wikilink") - サブキャスター。
@@ -99,7 +99,7 @@
       - 怒れる食卓（[大松しんじ](../Page/大松しんじ.md "wikilink")）
       - 栄信のセケン学（[坂野栄信](https://ja.wikipedia.org/wiki/坂野栄信 "wikilink")）
   - 金曜
-      - あっちゃんの日本一（[西田篤史](https://ja.wikipedia.org/wiki/西田篤史 "wikilink")）
+      - あっちゃんの日本一（[西田篤史](../Page/西田篤史.md "wikilink")）
       - サキドリ\!まいチャンネル（[大重麻衣](https://ja.wikipedia.org/wiki/大重麻衣 "wikilink")）
       - 食通厳選 オシ\!めし（[冨田奈央子](https://ja.wikipedia.org/wiki/冨田奈央子 "wikilink")）
       - 瀬戸内グルメ天国（[中西希](https://ja.wikipedia.org/wiki/中西希_\(1992年生のアナウンサー\) "wikilink")）
@@ -248,12 +248,12 @@
 </table>
 
   - [大松しんじ](../Page/大松しんじ.md "wikilink")（「目からウロコ」）
-  - [伊藤みのり](https://ja.wikipedia.org/wiki/伊藤みのり "wikilink")（「目からウロコ」）
+  - [伊藤みのり](../Page/伊藤みのり.md "wikilink")（「目からウロコ」）
   - [田中寿江](../Page/田中寿江.md "wikilink")（「目からウロコ」）
 
 ## 特別番組
 
-  - 2017年8月6日（日曜）12:00 - 12:55\[7\]：**『HOME Jステーション[原爆の日SP](https://ja.wikipedia.org/wiki/広島市への原子爆弾投下 "wikilink") 〜爆心地を語り続ける〜』**
+  - 2017年8月6日（日曜）12:00 - 12:55\[7\]：**『HOME Jステーション[原爆の日SP](../Page/広島市への原子爆弾投下.md "wikilink") 〜爆心地を語り続ける〜』**
 
 <!-- end list -->
 

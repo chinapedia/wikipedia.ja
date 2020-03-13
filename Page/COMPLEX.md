@@ -1,7 +1,7 @@
 > この記事は[COMPLEX](https://ja.wikipedia.org/wiki/COMPLEX)から翻訳されています。
 
 
-**COMPLEX**（コンプレックス）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")と元[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")・[布袋寅泰](../Page/布袋寅泰.md "wikilink")の2人によって結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+**COMPLEX**（コンプレックス）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[吉川晃司](../Page/吉川晃司.md "wikilink")と元[BOØWYの](https://ja.wikipedia.org/wiki/BOOWY "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")・[布袋寅泰](../Page/布袋寅泰.md "wikilink")の2人によって結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## メンバー
 
@@ -15,7 +15,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/吉川晃司" title="wikilink">吉川晃司</a></strong><br />
+<td><p><strong><a href="../Page/吉川晃司.md" title="wikilink">吉川晃司</a></strong><br />
 <small>（きっかわ こうじ）</small></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a><br />
@@ -32,7 +32,7 @@
 <a href="../Page/編曲.md" title="wikilink">編曲</a><br />
 <a href="../Page/コーラス_(ポピュラー音楽).md" title="wikilink">コーラス</a><br />
 作詞<br />
-<a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a><br />
+<a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a><br />
 <a href="../Page/キーボード_(楽器).md" title="wikilink">キーボード</a></p></td>
 </tr>
 </tbody>
@@ -48,7 +48,7 @@
 
 結成から2年後の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")、この日開催の[東京ドーム](../Page/東京ドーム.md "wikilink")公演をもって無期限の活動休止状態となる。表向きは活動休止となっているが、事実上の解散である。COMPLEX結成以前から公私に渡る付き合いがあり友人関係だった2人だが、COMPLEX後期には関係が悪化していたことを本人達も認めている。吉川曰く「**離婚したような関係**」。
 
-その後2人の交流はほとんど無かったが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に布袋のCOMPLEX時代の曲を含むベストアルバムがリリースされた。また吉川の口からも布袋に関する話題が出るようになり、布袋のライブに吉川から花が贈られることもあった。
+その後2人の交流はほとんど無かったが、[2005年](../Page/2005年.md "wikilink")に布袋のCOMPLEX時代の曲を含むベストアルバムがリリースされた。また吉川の口からも布袋に関する話題が出るようになり、布袋のライブに吉川から花が贈られることもあった。
 
 ### 復活
 
@@ -66,7 +66,7 @@
 
   - [渡辺プロ](https://ja.wikipedia.org/wiki/渡辺プロ "wikilink")から独立したての吉川と、BOØWY解散後の布袋の、飲み屋での一緒にやろうかと言う話から、双方の事務所も乗り気になり結成へと至る。吉川サイドはアイドルからの脱皮・ソロアーティストとしてのキャリアしかなくロックバンドという活動形態に魅力を感じ、それを通して「自分のコンプレックスそのものである洋楽に匹敵するスケールの大きい音楽」を採算度外視で作るため\[3\]、布袋サイドはソロアルバムに対し、BOØWYファンからの布袋の歌への否定的な声と、ギタリストとしてギターインストの作品を求める声があがり、布袋本人も一流ギタリスト、プロデューサーとして、未熟なボーカリストの自分を認められずにいたため、双方の事務所はこのユニットの企画を積極的に進めていった。
   - ギター雑誌で布袋は「一時的なものではなく、パーマネントにやっていくつもり。吉川もソロをやりたくなったらソロをやるし、俺も『GUITARHYTHM』をやる」と発言。後年、吉川に対しては「君」付けになり、自身の一人称を「僕」と言うようになった（布袋はインタビューの内容や相手によって、意図的に使い分けているようである）。
-  - 結成当時のインタビューで初対面の印象を聞かれ、布袋は「やっぱりアイドルってこんな感じかっていう。肩幅もあってバランスが取れてるし。ロックの奴ってやっぱ斜めじゃん」、吉川は「とにかくデケェ！っていう。俺より背の高い奴なんてそんなに会った事なかったし、190cmなんて規格外でしょ\!」とお互いについて言い表し、「何だ?この会話は。君らプロレスラーか?」と[渋谷陽一](https://ja.wikipedia.org/wiki/渋谷陽一 "wikilink")に突っ込まれていた。
+  - 結成当時のインタビューで初対面の印象を聞かれ、布袋は「やっぱりアイドルってこんな感じかっていう。肩幅もあってバランスが取れてるし。ロックの奴ってやっぱ斜めじゃん」、吉川は「とにかくデケェ！っていう。俺より背の高い奴なんてそんなに会った事なかったし、190cmなんて規格外でしょ\!」とお互いについて言い表し、「何だ?この会話は。君らプロレスラーか?」と[渋谷陽一](../Page/渋谷陽一.md "wikilink")に突っ込まれていた。
 
 ### 解散の原因
 
@@ -80,7 +80,7 @@
 ### その他
 
   - 元[BOØWYのボーカル](https://ja.wikipedia.org/wiki/BOOWY "wikilink")[氷室京介](../Page/氷室京介.md "wikilink")はCOMPLEXについて、雑誌『[宝島](../Page/宝島_\(雑誌\).md "wikilink")』のインタビューで「好きですか？って質問？」、「あんなことがやりてぇのかなと思うよ」、「いや、2人と言うか……あれが布袋の本当にやりたいことなのかなと思って」、「というかソロアルバムを出したじゃん。『[GUITARHYTHM](../Page/GUITARHYTHM.md "wikilink")』を発表したのはわかる。で、あえてバンドを組んでああいう事をやる必要性って言うか、分からないよね」とコメントしている。一方、解散後の2人については「吉川が布袋から受けた音楽的影響は、決して小さいものではないはず。」と語っている。
-  - 「[MODERN VISION](https://ja.wikipedia.org/wiki/ROMANTIC_1990 "wikilink")」など、COMPLEX時代の楽曲で吉川が91年にソロとして活動を再開した後のライブで唄われたりソロとしてカバーされてアルバムに収録されている楽曲もある。
+  - 「[MODERN VISION](../Page/ROMANTIC_1990.md "wikilink")」など、COMPLEX時代の楽曲で吉川が91年にソロとして活動を再開した後のライブで唄われたりソロとしてカバーされてアルバムに収録されている楽曲もある。
   - 吉川が行きつけるスーパーマーケットでたまたま布袋と出会って話し込むなど、現在は悪い関係ではないという事が吉川の口から語られている\[6\]。ちなみに再会時、吉川と布袋は偶然にもまったく同じ靴を履いており、それが会話のきっかけになったという。また前述の通り、行きつけのスーパーが同じことや、「21年ぶりの復活」を話すために会ったのが互いの自宅近くにある公園ということから、いわゆる「ご近所さん」であった。（2012年に布袋は[ロンドン](../Page/ロンドン.md "wikilink")に活動拠点を移している）。
   - 発表した楽曲の権利関係は、全曲布袋の所属事務所の出版社「アイアールシートゥコーポレーション トイボックス・ゼロ」が管理している\[7\]。
 
@@ -96,7 +96,7 @@
 <th><p>タイトル</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/レーベル" title="wikilink">レーベル</a></p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>順位[8]</p></th>
 <th><p>収録アルバム</p></th>
 </tr>
@@ -122,7 +122,7 @@
 <td><p>RT07-2324<br />
 XT10-5036</p></td>
 <td><p>1位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/COMPLEX_(アルバム)" title="wikilink">COMPLEX</a></p></td>
+<td><p><a href="../Page/COMPLEX_(アルバム).md" title="wikilink">COMPLEX</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
@@ -134,7 +134,7 @@ XT10-5036</p></td>
 <td><p>TODT-2486<br />
 TOST-2486</p></td>
 <td><p>1位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ROMANTIC_1990" title="wikilink">ROMANTIC 1990</a></p></td>
+<td><p><a href="../Page/ROMANTIC_1990.md" title="wikilink">ROMANTIC 1990</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -279,7 +279,7 @@ TOBF-5166</p></td>
 <td><p>1位（VHS）</p></td>
 <td><p><a href="../Page/ミュージック・ビデオ.md" title="wikilink">ミュージック・ビデオ</a>集<br />
 DVD盤には『romantic extra』の内容も収録されている<br />
-『<a href="https://ja.wikipedia.org/wiki/COMPLEX_BEST" title="wikilink">COMPLEX BEST</a>』リイシュー初回版付属BDに同一内容の映像が収録されている。</p></td>
+『<a href="../Page/COMPLEX_BEST.md" title="wikilink">COMPLEX BEST</a>』リイシュー初回版付属BDに同一内容の映像が収録されている。</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -320,7 +320,7 @@ TOLF-1070</p></td>
 <td><p>-</p></td>
 <td><p>ミュージック・ビデオ集<br />
 DVD盤『BE MY BABY』に同一内容の映像が収録されている。<br />
-『<a href="https://ja.wikipedia.org/wiki/COMPLEX_BEST" title="wikilink">COMPLEX BEST</a>』リイシュー初回版付属BDに同一内容の映像が収録されている。</p></td>
+『<a href="../Page/COMPLEX_BEST.md" title="wikilink">COMPLEX BEST</a>』リイシュー初回版付属BDに同一内容の映像が収録されている。</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -412,14 +412,14 @@ BD盤はライブCD2枚付きの3枚組</p></td>
 
 ### タイアップ
 
-| 年                                                       | 楽曲         | タイアップ内容                                                                                                                                                      |
-| ------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [1989年](../Page/1989年.md "wikilink")                    | 恋をとめないで    | TBS系[ドラマ23](../Page/ドラマ23.md "wikilink")「[白鳥麗子でございます\!](../Page/白鳥麗子でございます!.md "wikilink")」主題歌                                                               |
-| [1991年](../Page/1991年.md "wikilink")                    | BE MY BABY | [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[セラ](../Page/トヨタ・セラ.md "wikilink")」[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink") |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | 恋をとめないで    | [アサヒ飲料](../Page/アサヒ飲料.md "wikilink")[缶コーヒー](../Page/缶コーヒー.md "wikilink")「[WONDA](../Page/WONDA.md "wikilink")」コマーシャルソング                                      |
-| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | BE MY BABY | トヨタ自動車『[bB](../Page/トヨタ・bB.md "wikilink")「エクササイズ篇」』コマーシャルソング                                                                                                 |
-| [2019年](../Page/2019年.md "wikilink")                    | BE MY BABY | [クラシエ](https://ja.wikipedia.org/wiki/クラシエ "wikilink")『[いち髪](../Page/いち髪.md "wikilink")「歌シャン篇」』コマーシャルソング                                                      |
-|                                                         |            |                                                                                                                                                              |
+| 年                                                       | 楽曲         | タイアップ内容                                                                                                                                   |
+| ------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| [1989年](../Page/1989年.md "wikilink")                    | 恋をとめないで    | TBS系[ドラマ23](../Page/ドラマ23.md "wikilink")「[白鳥麗子でございます\!](../Page/白鳥麗子でございます!.md "wikilink")」主題歌                                            |
+| [1991年](../Page/1991年.md "wikilink")                    | BE MY BABY | [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[セラ](../Page/トヨタ・セラ.md "wikilink")」[コマーシャルソング](../Page/コマーシャルソング.md "wikilink") |
+| [2005年](../Page/2005年.md "wikilink")                    | 恋をとめないで    | [アサヒ飲料](../Page/アサヒ飲料.md "wikilink")[缶コーヒー](../Page/缶コーヒー.md "wikilink")「[WONDA](../Page/WONDA.md "wikilink")」コマーシャルソング                   |
+| [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | BE MY BABY | トヨタ自動車『[bB](../Page/トヨタ・bB.md "wikilink")「エクササイズ篇」』コマーシャルソング                                                                              |
+| [2019年](../Page/2019年.md "wikilink")                    | BE MY BABY | [クラシエ](https://ja.wikipedia.org/wiki/クラシエ "wikilink")『[いち髪](../Page/いち髪.md "wikilink")「歌シャン篇」』コマーシャルソング                                   |
+|                                                         |            |                                                                                                                                           |
 
 ## 公演
 
@@ -503,7 +503,7 @@ BD盤はライブCD2枚付きの3枚組</p></td>
 9.<a href="https://ja.wikipedia.org/wiki/ラ・ヴィアンローズ_(吉川晃司の曲)" title="wikilink">LA VIE EN ROSE</a><br />
 10.<a href="https://ja.wikipedia.org/wiki/カモン・エヴリバディ" title="wikilink">C'MON EVERYBODY</a><br />
 11.<a href="../Page/GUITARHYTHM.md" title="wikilink">GLORIOUS DAYS</a><br />
-12.<a href="https://ja.wikipedia.org/wiki/MODERN_TIME" title="wikilink">サイケデリックHIP</a><br />
+12.<a href="../Page/MODERN_TIME.md" title="wikilink">サイケデリックHIP</a><br />
 13.DANCING WITH THE MOONLIGHT<br />
 14.<a href="https://ja.wikipedia.org/wiki/MAIN_DISH" title="wikilink">No No サーキュレーション</a><br />
 15.<a href="../Page/A-LA-BA・LA-M-BA.md" title="wikilink">A-LA-BA・LA-M-BA</a><br />
@@ -695,8 +695,8 @@ BD盤はライブCD2枚付きの3枚組</p></td>
 1.  [COMPLEX 2011.7.30 東京ドーム公演決定\!\!](http://www.kikkawa.com/live/index.html)K2 NET CAST　2011年4月28日
 2.  \[[http://www.hotei.com/info/index13.html\#110428\]HOTEI.COM](http://www.hotei.com/info/index13.html#110428%5DHOTEI.COM) + TOMOYASU HOTEI OFFICIAL WEBSITE
 3.
-4.  [ダイヤモンド社](https://ja.wikipedia.org/wiki/ダイヤモンド社 "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1991年5月27日号16P-17Pより。
+4.  [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1991年5月27日号16P-17Pより。
 5.
 6.  [FBS福岡放送](../Page/福岡放送.md "wikilink")『ナイトシャッフル』（2009年12月27日放送）吉川出演時のコメントより。
 7.  一般財団法人日本音楽著作権協会「作品データベース検索」より
-8.  [オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")による最高順位を参照。
+8.  [オリコンチャート](../Page/オリコンチャート.md "wikilink")による最高順位を参照。

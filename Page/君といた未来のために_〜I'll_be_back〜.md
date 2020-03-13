@@ -1,7 +1,7 @@
 > この記事は[ I\'ll be back](https://ja.wikipedia.org/wiki/_I\'ll_be_back)から翻訳されています。
 
 
-『**君といた未来のために 〜I'll be back〜**』（きみといたみらいのために アイル・ビー・バック）は、[1999年](../Page/1999年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")から[3月20日](../Page/3月20日.md "wikilink")まで毎週土曜日21:00 - 21:54に[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")「[土曜ドラマ](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[堂本剛](../Page/堂本剛.md "wikilink")。平均視聴率は14.6%。
+『**君といた未来のために 〜I'll be back〜**』（きみといたみらいのために アイル・ビー・バック）は、[1999年](../Page/1999年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")から[3月20日](../Page/3月20日.md "wikilink")まで毎週土曜日21:00 - 21:54に[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")「[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[堂本剛](../Page/堂本剛.md "wikilink")。平均視聴率は14.6%。
 
 ## ストーリー
 
@@ -62,7 +62,7 @@
 
 :\* **優子** - **[蒼和歌子](../Page/平田和歌子.md "wikilink")**
 
-:\* **「古時計」のマスター（下村茂）** - **[篠井英介](https://ja.wikipedia.org/wiki/篠井英介 "wikilink")**
+:\* **「古時計」のマスター（下村茂）** - **[篠井英介](../Page/篠井英介.md "wikilink")**
 
   -
 
@@ -74,10 +74,10 @@
 
 ## スタッフ
 
-  - 脚本 - [大石哲也](../Page/大石哲也.md "wikilink")、[吉田智子](https://ja.wikipedia.org/wiki/吉田智子_\(脚本家\) "wikilink")
+  - 脚本 - [大石哲也](../Page/大石哲也.md "wikilink")、[吉田智子](../Page/吉田智子_\(脚本家\).md "wikilink")
   - 音楽 - [coba](https://ja.wikipedia.org/wiki/coba "wikilink")
   - 演出 - [佐藤東弥](../Page/佐藤東弥.md "wikilink")、唐木昭浩（唐木希浩）、荻野哲弘
-  - 主題歌 - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")「[やめないで,PURE](../Page/やめないで,PURE.md "wikilink")」（[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")）
+  - 主題歌 - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")「[やめないで,PURE](../Page/やめないで,PURE.md "wikilink")」（[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")）
   - 音楽プロデュース - [志田博英](../Page/志田博英.md "wikilink")、[仲西匡](../Page/仲西匡.md "wikilink")
   - プロデューサー - 重松修、井上健、[鈴木聡](https://ja.wikipedia.org/wiki/鈴木聡_\(演出家\) "wikilink")
   - 制作協力 - [ケイファクトリー](../Page/ケイファクトリー.md "wikilink")
@@ -113,7 +113,7 @@
 
 ## 原案
 
-  - [ケン・グリムウッド](https://ja.wikipedia.org/wiki/ケン・グリムウッド "wikilink")『[リプレイ](../Page/リプレイ_\(小説\).md "wikilink")』 - 事後許諾
+  - [ケン・グリムウッド](../Page/ケン・グリムウッド.md "wikilink")『[リプレイ](../Page/リプレイ_\(小説\).md "wikilink")』 - 事後許諾
 
 ## 関連項目
 

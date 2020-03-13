@@ -22,9 +22,9 @@
   - [1993年](../Page/1993年.md "wikilink")12月 - 番組制作部門を独立。株式会社セップ（SeP）設立。
   - [1996年](../Page/1996年.md "wikilink")10月 - パーフェクTV\!（現・スカパー\!プレミアムサービス）で放送開始。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月 - 累積損失一掃のため、株式会社スペースシャワーを[清算](../Page/清算.md "wikilink")。運営は新たに設立された株式会社スペースシャワーネットワークに承継。
-  - [2002年](../Page/2002年.md "wikilink")4月 - ミュージックビデオ専門チャンネル「Video Music Ch.」（「[100%ヒッツ\!スペースシャワーTV プラス](https://ja.wikipedia.org/wiki/100%ヒッツ!スペースシャワーTVプラス "wikilink")」の前身）開局。
+  - [2002年](../Page/2002年.md "wikilink")4月 - ミュージックビデオ専門チャンネル「Video Music Ch.」（「[100%ヒッツ\!スペースシャワーTV プラス](../Page/100%ヒッツ!スペースシャワーTVプラス.md "wikilink")」の前身）開局。
   - [2004年](../Page/2004年.md "wikilink")9月 - 株式会社セップを株式会社スペースシャワーティーヴィ・プロデューシングへ社名変更。ビデオクリップ（PV）等の映像制作事業は新たに設立された株式会社セップに事業承継。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月 - 株式会社スペースシャワーティーヴィ・プロデューシングを株式会社スペースシャワーTVに社名変更。
+  - [2005年](../Page/2005年.md "wikilink")4月 - 株式会社スペースシャワーティーヴィ・プロデューシングを株式会社スペースシャワーTVに社名変更。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月末 - 株式会社スペースシャワーTV会社解散、事業はスペースシャワーネットワークに承継
   - [2009年](../Page/2009年.md "wikilink")10月 - スカパー\!HD、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")、[eo光テレビ](https://ja.wikipedia.org/wiki/eo光テレビ "wikilink")でハイビジョン放送を開始。（チャンネル名は「**スペースシャワーTV HD**」）
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月末 - スカパー\!e2（現・スカパー\!）にて、16:9の画角情報を付加し、フルサイズのSD放送を開始。
@@ -112,7 +112,7 @@
   - **POWER PUSH ( - INTERNATIONAL)**
       -
         注目のアーティスト（主に新人）のPVを1日複数回放送。[ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")、[Dragon Ash](../Page/Dragon_Ash.md "wikilink")、[BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")、[元ちとせ](https://ja.wikipedia.org/wiki/元ちとせ "wikilink")、[HYなど特集後](https://ja.wikipedia.org/wiki/HY_\(バンド\) "wikilink")、知名度を上げたアーティストも多い。
-        なお、同じアーティストが何回か特集されることもある（バンド・ユニット名義で特集された後にソロとして特集されたものも含む）。例としてBUMP OF CHICKENの「LAMP」（インディーズ時代）と「天体観測」（メジャーデビュー後）、[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")の「イツナロウバ」（[KICK THE CAN CREW時代](../Page/KICK_THE_CAN_CREW.md "wikilink")）と「希望の炎」（ソロデビュー曲）などがある。
+        なお、同じアーティストが何回か特集されることもある（バンド・ユニット名義で特集された後にソロとして特集されたものも含む）。例としてBUMP OF CHICKENの「LAMP」（インディーズ時代）と「天体観測」（メジャーデビュー後）、[KREVA](../Page/KREVA.md "wikilink")の「イツナロウバ」（[KICK THE CAN CREW時代](../Page/KICK_THE_CAN_CREW.md "wikilink")）と「希望の炎」（ソロデビュー曲）などがある。
         （歴代POWER PUSH一覧は[こちらから](../Page/スペースシャワーTV歴代POWER_PUSH一覧.md "wikilink")）
 
 <!-- end list -->
@@ -162,7 +162,7 @@
 <tr class="odd">
 <td><p><strong>スペシャのヨルジュウ♪</strong></p></td>
 <td><p><a href="../Page/三原勇希.md" title="wikilink">三原勇希</a>、<a href="https://ja.wikipedia.org/wiki/R-指定_(ラッパー)" title="wikilink">R-指定</a>、<a href="https://ja.wikipedia.org/wiki/ハマ・オカモト" title="wikilink">ハマ・オカモト</a>、<a href="https://ja.wikipedia.org/wiki/04_Limited_Sazabys" title="wikilink">GEN</a>、<br />
-<a href="https://ja.wikipedia.org/wiki/SUPER_BEAVER" title="wikilink">渋谷龍太</a>、<a href="https://ja.wikipedia.org/wiki/矢本悠馬" title="wikilink">矢本悠馬</a>、<a href="https://ja.wikipedia.org/wiki/あっこゴリラ" title="wikilink">あっこゴリラ</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/SUPER_BEAVER" title="wikilink">渋谷龍太</a>、<a href="https://ja.wikipedia.org/wiki/矢本悠馬" title="wikilink">矢本悠馬</a>、<a href="../Page/あっこゴリラ.md" title="wikilink">あっこゴリラ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>オーラル・ジョブズ</strong></p></td>
@@ -233,7 +233,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>ヒマラヤ</strong></p></td>
-<td><p>いとうせいこう、<a href="https://ja.wikipedia.org/wiki/真心ブラザーズ" title="wikilink">真心ブラザーズ</a></p></td>
+<td><p>いとうせいこう、<a href="../Page/真心ブラザーズ.md" title="wikilink">真心ブラザーズ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>AX ARENA</strong></p></td>
@@ -246,7 +246,7 @@
 <tr class="odd">
 <td><p><strong>Bonita</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サニーデイ・サービス" title="wikilink">サニーデイ・サービス</a>、<a href="../Page/スチャダラパー.md" title="wikilink">スチャダラパー</a>、<a href="../Page/エレファントラブ.md" title="wikilink">エレファントラブ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ホフディラン" title="wikilink">ホフディラン</a>、<a href="../Page/原万紀子.md" title="wikilink">原万紀子</a></p></td>
+<a href="../Page/ホフディラン.md" title="wikilink">ホフディラン</a>、<a href="../Page/原万紀子.md" title="wikilink">原万紀子</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>メガロマニアックス</strong></p></td>
@@ -263,7 +263,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>マタハリ</strong></p></td>
-<td><p>ピエール瀧、<a href="https://ja.wikipedia.org/wiki/HIROMIX" title="wikilink">HIROMIX</a>（初代）、<a href="../Page/小日向しえ.md" title="wikilink">小日向しえ</a>（2代目）</p></td>
+<td><p>ピエール瀧、<a href="../Page/HIROMIX.md" title="wikilink">HIROMIX</a>（初代）、<a href="../Page/小日向しえ.md" title="wikilink">小日向しえ</a>（2代目）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>イナズマ</strong></p></td>
@@ -288,7 +288,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>センスオブナンセンス</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フラワーカンパニーズ" title="wikilink">フラワーカンパニーズ</a></p></td>
+<td><p><a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>ユースケの空気3000</strong></p></td>
@@ -299,8 +299,8 @@
 <td><p><a href="../Page/やまだひさし.md" title="wikilink">やまだひさし</a>、<a href="../Page/山野ゆり.md" title="wikilink">山野ゆり</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/熱血!スペシャ中学" title="wikilink">熱血!スペシャ中学</a></strong></p></td>
-<td><p>いとうせいこう、池田貴史（<a href="https://ja.wikipedia.org/wiki/SUPER_BUTTER_DOG" title="wikilink">SUPER BUTTER DOG</a>/<a href="../Page/100s.md" title="wikilink">100s</a>）<br />
+<td><p><strong><a href="../Page/熱血!スペシャ中学.md" title="wikilink">熱血!スペシャ中学</a></strong></p></td>
+<td><p>いとうせいこう、池田貴史（<a href="../Page/SUPER_BUTTER_DOG.md" title="wikilink">SUPER BUTTER DOG</a>/<a href="../Page/100s.md" title="wikilink">100s</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/安めぐみ" title="wikilink">安めぐみ</a>、<a href="https://ja.wikipedia.org/wiki/Salyu" title="wikilink">Salyu</a></p></td>
 </tr>
 <tr class="odd">
@@ -320,14 +320,14 @@ HUNGER（<a href="../Page/GAGLE.md" title="wikilink">GAGLE</a>）、YOSHI（<a h
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/STUDIO_GROWN" title="wikilink">STUDIO GROWN</a></strong></p></td>
 <td><p><a href="../Page/イルリメ.md" title="wikilink">イルリメ</a>、<a href="https://ja.wikipedia.org/wiki/一十三十一" title="wikilink">一十三十一</a>、タブゾンビ（<a href="../Page/SOIL&amp;&quot;PIMP&quot;SESSIONS.md" title="wikilink">SOIL&amp;"PIMP"SESSIONS</a>）<br />
 三宅洋平（<a href="../Page/犬式_a.k.a._Dogggystyle.md" title="wikilink">犬式 a.k.a. Dogggystyle</a>）、<a href="https://ja.wikipedia.org/wiki/Jesrin" title="wikilink">Jesrin</a><br />
-海北大輔（<a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a>）、神宮司治（<a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a>）<br />
+海北大輔（<a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a>）、神宮司治（<a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a>）<br />
 中田裕二（<a href="../Page/椿屋四重奏.md" title="wikilink">椿屋四重奏</a>）、ナカヤマシンペイ（<a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a>）<br />
-サイトウジュン、ヒダカトオル（<a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a>）<br />
+サイトウジュン、ヒダカトオル（<a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/金木孝明" title="wikilink">金木孝明</a>、<a href="https://ja.wikipedia.org/wiki/安藤裕子_(歌手)" title="wikilink">安藤裕子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>YO-HO</strong></p></td>
-<td><p><a href="../Page/萩原健太.md" title="wikilink">萩原健太</a>、<a href="../Page/嶺川貴子.md" title="wikilink">嶺川貴子</a>、<a href="https://ja.wikipedia.org/wiki/鈴木蘭々" title="wikilink">鈴木蘭々</a>、<a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a></p></td>
+<td><p><a href="../Page/萩原健太.md" title="wikilink">萩原健太</a>、<a href="../Page/嶺川貴子.md" title="wikilink">嶺川貴子</a>、<a href="../Page/鈴木蘭々.md" title="wikilink">鈴木蘭々</a>、<a href="https://ja.wikipedia.org/wiki/BONNIE_PINK" title="wikilink">BONNIE PINK</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>BUM</strong></p></td>
@@ -343,14 +343,14 @@ HUNGER（<a href="../Page/GAGLE.md" title="wikilink">GAGLE</a>）、YOSHI（<a h
 </tr>
 <tr class="odd">
 <td><p><strong>REQUEST JAPAN</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千秋_(タレント)" title="wikilink">千秋</a></p></td>
+<td><p><a href="../Page/千秋_(タレント).md" title="wikilink">千秋</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Oxala!" title="wikilink">Oxala!</a></strong></p></td>
 <td><p><a href="../Page/いとうせいこう.md" title="wikilink">いとうせいこう</a>、<a href="../Page/スネオヘアー.md" title="wikilink">スネオヘアー</a>、<a href="https://ja.wikipedia.org/wiki/吉田セイラ" title="wikilink">吉田セイラ</a><br />
-<a href="../Page/タカチャ.md" title="wikilink">タカチャ</a>、三浦拓也（<a href="https://ja.wikipedia.org/wiki/DEPAPEPE" title="wikilink">DEPAPEPE</a>）<br />
+<a href="../Page/タカチャ.md" title="wikilink">タカチャ</a>、三浦拓也（<a href="../Page/DEPAPEPE.md" title="wikilink">DEPAPEPE</a>）<br />
 <a href="../Page/松本素生.md" title="wikilink">松本素生</a>（<a href="../Page/GOING_UNDER_GROUND.md" title="wikilink">GOING UNDER GROUND</a>）<br />
-TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEET</a>）、ピエール瀧、<a href="../Page/森山直太朗.md" title="wikilink">森山直太朗</a>、マリエ</p></td>
+TAKUMA（<a href="../Page/10-FEET.md" title="wikilink">10-FEET</a>）、ピエール瀧、<a href="../Page/森山直太朗.md" title="wikilink">森山直太朗</a>、マリエ</p></td>
 </tr>
 <tr class="odd">
 <td><p>'''[[NEU</p></td>
@@ -381,7 +381,7 @@ TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEE
 </tr>
 <tr class="odd">
 <td><p><strong>SPACE SHOWER HOT 50 チャート★コバーン</strong></p></td>
-<td><p><a href="../Page/鹿野淳.md" title="wikilink">鹿野淳</a>、<a href="https://ja.wikipedia.org/wiki/木村綾子" title="wikilink">木村綾子</a></p></td>
+<td><p><a href="../Page/鹿野淳.md" title="wikilink">鹿野淳</a>、<a href="../Page/木村綾子.md" title="wikilink">木村綾子</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>テレビゲラッチョ!</strong></p></td>
@@ -403,7 +403,7 @@ TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEE
 </tr>
 <tr class="even">
 <td><p><strong>TRANSPORTER</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マーティ・フリードマン" title="wikilink">マーティ・フリードマン</a>、<a href="../Page/奥浜レイラ.md" title="wikilink">奥浜レイラ</a></p></td>
+<td><p><a href="../Page/マーティ・フリードマン.md" title="wikilink">マーティ・フリードマン</a>、<a href="../Page/奥浜レイラ.md" title="wikilink">奥浜レイラ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>studio XL</strong></p></td>
@@ -419,7 +419,7 @@ TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEE
 </tr>
 <tr class="even">
 <td><p><strong>SPACE SHOWER MUSIC UPDATE</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小籔千豊" title="wikilink">小籔千豊</a>、<a href="https://ja.wikipedia.org/wiki/ダースレイダー" title="wikilink">ダースレイダー</a>、<a href="https://ja.wikipedia.org/wiki/マリエ_(モデル)" title="wikilink">マリエ</a>、<a href="../Page/掟ポルシェ.md" title="wikilink">掟ポルシェ</a><br />
+<td><p><a href="../Page/小籔千豊.md" title="wikilink">小籔千豊</a>、<a href="https://ja.wikipedia.org/wiki/ダースレイダー" title="wikilink">ダースレイダー</a>、<a href="https://ja.wikipedia.org/wiki/マリエ_(モデル)" title="wikilink">マリエ</a>、<a href="../Page/掟ポルシェ.md" title="wikilink">掟ポルシェ</a><br />
 <a href="https://ja.wikipedia.org/wiki/THE_BAWDIES" title="wikilink">ROY</a>、<a href="../Page/YOUR_SONG_IS_GOOD.md" title="wikilink">JxJx</a>、<a href="https://ja.wikipedia.org/wiki/阿部洋子" title="wikilink">hiroco</a>、<a href="../Page/TOKYO_No.1_SOUL_SET.md" title="wikilink">渡辺俊美</a>、<a href="../Page/ロンナイ.md" title="wikilink">Katchin'</a>、<a href="https://ja.wikipedia.org/wiki/紗羅マリー" title="wikilink">紗羅マリー</a></p></td>
 </tr>
 <tr class="odd">
@@ -440,7 +440,7 @@ TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEE
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/音楽ヒミツ情報機関_MI6" title="wikilink">音楽ヒミツ情報機関 MI6</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千原ジュニア" title="wikilink">千原ジュニア</a>、<a href="../Page/蔦谷好位置.md" title="wikilink">蔦谷好位置</a>、<a href="https://ja.wikipedia.org/wiki/ニコル_(モデル)" title="wikilink">ニコル</a></p></td>
+<td><p><a href="../Page/千原ジュニア.md" title="wikilink">千原ジュニア</a>、<a href="../Page/蔦谷好位置.md" title="wikilink">蔦谷好位置</a>、<a href="https://ja.wikipedia.org/wiki/ニコル_(モデル)" title="wikilink">ニコル</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/スペシャエリア" title="wikilink">スペシャエリア</a></strong></p></td>
@@ -477,7 +477,7 @@ TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEE
 
 現行のロゴマークは2代目。初代は[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")や稲妻、シャワーが降り注ぐ様などを表した複雑な図案だったが、2代目は**S**をあしらったシンプルなものになった。[1999年](../Page/1999年.md "wikilink")9月ぐらいまでは、すべてロゴの形は変形しても白地だったが、同年10月よりカラー（通常の色、青色）になる。[2004年](../Page/2004年.md "wikilink")10月までは、右上にロゴが表示されていたが、現在は左上に表示されている。
 
-なお、2011年4月にVMCからチャンネル名変更した「[100%ヒッツ\!スペースシャワーTV プラス](https://ja.wikipedia.org/wiki/100%ヒッツ!スペースシャワーTVプラス "wikilink")」は、スペースシャワーTVと同型のSをあしらったものだが右上に「+」が入り、スペースシャワーTVの青色に対して赤色が使用されている。
+なお、2011年4月にVMCからチャンネル名変更した「[100%ヒッツ\!スペースシャワーTV プラス](../Page/100%ヒッツ!スペースシャワーTVプラス.md "wikilink")」は、スペースシャワーTVと同型のSをあしらったものだが右上に「+」が入り、スペースシャワーTVの青色に対して赤色が使用されている。
 
 ロゴマークは特定の日や期間、変化する事がある。なお、切り替わる時間は日本時間午前0時。ただしMVA生中継のロゴマークは放送時間内のみの使用となる。
 
@@ -490,7 +490,7 @@ TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEE
   - 満月の夜 - マークが黄色になる
   - MVA生中継 - Sマークに王冠を被る
   - 2月3日 - Sマークに角が生える（[節分](../Page/節分.md "wikilink")に因む）
-  - 2月14日 - ハート型になる（[バレンタインデー](https://ja.wikipedia.org/wiki/バレンタインデー "wikilink")に因む）
+  - 2月14日 - ハート型になる（[バレンタインデー](../Page/バレンタインデー.md "wikilink")に因む）
   - 3月3日 - 桃の花の形になる（[桃の節句に因む](../Page/上巳.md "wikilink")）
   - 3月14日 - ハート型になる（[ホワイトデー](../Page/ホワイトデー.md "wikilink")に因む）
   - 4月1日 - Sマークが反転する（[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")に因む）
@@ -502,7 +502,7 @@ TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEE
   - 8月8日　- ひげが追加される
   - 8月15日 - ナスの牛になる（お盆に因む）
   - 10月月曜日B - 紅白帽子をかぶる（[体育の日](../Page/体育の日.md "wikilink")に因む）
-  - 10月31日 - カボチャ型になる（[ハロウィン](https://ja.wikipedia.org/wiki/ハロウィン "wikilink")に因む）
+  - 10月31日 - カボチャ型になる（[ハロウィン](../Page/ハロウィン.md "wikilink")に因む）
   - 12月1日 - レッドリボンが付く（[世界エイズデー](../Page/世界エイズデー.md "wikilink")に因む、またスペースシャワーTVの開局記念日でもある）
 
 2009年の12月1日は、20周年ロゴだった。
@@ -510,13 +510,13 @@ TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEE
   - 12月（25日まで） - Sマークの周りにリースが付く、色は白（かつては、Sマークがクリスマスツリー、サンタクロースの帽子を被る形があった）
   - 冬至 - ゆずの形になる
   - 正月 - Sマークが赤くなり、下にお飾り2つ付く（かつては、Sマークが鏡餅の形になった、のちにバックの色がオレンジで、鏡餅をバックにしたSマークとなる）
-  - [FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")開催時で、日本代表戦の時 - サッカーボール柄
+  - [FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")開催時で、日本代表戦の時 - サッカーボール柄
   - 過去に、2001年夏に放送した、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の特別番組のときのみ、正月と同じ赤だった（お飾りなし）
 
 ## その他
 
-  - スペースシャワーネットワークの本社が入居しているビルの隣のビルには[MUSIC ON\! TVを運営する](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")の本社が入居している。
-  - 大阪のラジオ局である[FM802](../Page/FM802.md "wikilink")とは資本関係はないものの、[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")の中井猛元会長とFM802の栗花落光（つゆり ひかる）社長とは、同じ[同志社大学](https://ja.wikipedia.org/wiki/同志社大学 "wikilink")出身であり中井が[渡辺プロダクション](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink")（関西支社）、栗花落が[ラジオ大阪時代からの盟友関係](../Page/大阪放送.md "wikilink")（\[5\]\[6\]）にあることもあって緊密な関係を築いている。
+  - スペースシャワーネットワークの本社が入居しているビルの隣のビルには[MUSIC ON\! TVを運営する](../Page/MUSIC_ON!_TV.md "wikilink")[エムオン・エンタテインメント](https://ja.wikipedia.org/wiki/エムオン・エンタテインメント "wikilink")の本社が入居している。
+  - 大阪のラジオ局である[FM802](../Page/FM802.md "wikilink")とは資本関係はないものの、[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")の中井猛元会長とFM802の栗花落光（つゆり ひかる）社長とは、同じ[同志社大学](../Page/同志社大学.md "wikilink")出身であり中井が[渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")（関西支社）、栗花落が[ラジオ大阪時代からの盟友関係](../Page/大阪放送.md "wikilink")（\[5\]\[6\]）にあることもあって緊密な関係を築いている。
       - 大阪で行われる「[SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink")」をFM802と共同で主催。2004年の同イベントは「80215 & SPACE SHOWER TV 15th ANNIVERSARY SPECIAL」の冠を付け、両局の開局15周年を祝った。
       - 「MEET THE WORLD BEAT」（SSTVでは生中継を行っている）、「MINAMI WHEEL」をはじめとするFM802主催のイベントに後援するケースが他の音楽専門チャンネルと比べると多い。逆に、「[SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」（MVA）や「スペースシャワー列伝」など主催イベントにFM802が後援することもある（ただし、MVA07ではクレジットされていない）。
       - [ちわきまゆみ](../Page/ちわきまゆみ.md "wikilink")、[鈴木しょう治](https://ja.wikipedia.org/wiki/鈴木しょう治 "wikilink")、[マーキー](../Page/マーキー_\(ディスクジョッキー\).md "wikilink")、[ブライアン・バートンルイス](../Page/ブライアン・バートンルイス.md "wikilink")、[土井コマキ](https://ja.wikipedia.org/wiki/土井コマキ "wikilink")、[吉村昌広](../Page/吉村昌広.md "wikilink")等、FM802で活躍したDJがVJを務めた。ちなみに、ちわきは2014年3月現在、スペースシャワーネットワークの[番組審議委員](https://ja.wikipedia.org/wiki/番組審議委員 "wikilink")を務めている\[7\]。
@@ -560,11 +560,11 @@ TAKUMA（<a href="https://ja.wikipedia.org/wiki/10-FEET" title="wikilink">10-FEE
 ## 関連項目
 
   - [スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")
-  - [100%ヒッツ\!スペースシャワーTV プラス](https://ja.wikipedia.org/wiki/100%ヒッツ!スペースシャワーTVプラス "wikilink")
+  - [100%ヒッツ\!スペースシャワーTV プラス](../Page/100%ヒッツ!スペースシャワーTVプラス.md "wikilink")
   - [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink")
   - [SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")
   - [OH\!スーパーミルクチャン](../Page/OH!スーパーミルクチャン.md "wikilink")
-  - [音楽専門チャンネル一覧](https://ja.wikipedia.org/wiki/音楽専門チャンネル一覧 "wikilink")
+  - [音楽専門チャンネル一覧](../Page/音楽専門チャンネル一覧.md "wikilink")
 
 ## 外部リンク
 

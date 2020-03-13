@@ -7,7 +7,7 @@
 
 ### 結成〜メジャーデビューまで
 
-「ENJOY PUNK ROCK」をテーマに世界的に活動し、過去の欧米の曲のパンクカバーも行う。CDレーベル[SkyRecord](https://ja.wikipedia.org/wiki/SkyRecord "wikilink")も経営し、自身もそこからCDを出すこともある。結成当初はメロコアではなくグランジよりのサウンドで、結成してすぐ渡米して外国でメロディック・パンクにふれ、現在のスタイルになる。自主制作版『Royal Mellow Day』を制作し2000枚完売（現在ではプレミアが付き入手困難なため数万円の値段で中古CD店で発売されていることもある）。 アメリカの人気パンクレーベル[NOFX](https://ja.wikipedia.org/wiki/NOFX "wikilink")のメンバーのレーベル「FAT WRECK CHORDS」から日本人代表[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink"), [SPREAD](https://ja.wikipedia.org/wiki/SPREAD "wikilink")と共に「SHORT MUSIC FOR SHORT PEOPLE」に参加（[GREENDAY](https://ja.wikipedia.org/wiki/グリーン・デイ "wikilink"), [THE OFFSPRING](https://ja.wikipedia.org/wiki/オフスプリング "wikilink"), [RANCID等が参加](../Page/ランシド.md "wikilink")）。 その後、フルアルバム「iHola Amigo\!」でCDデビュー、インディーズながら記録的なセールスを記録し、その勢いのままミニアルバム「will kill you...」をリリースする。
+「ENJOY PUNK ROCK」をテーマに世界的に活動し、過去の欧米の曲のパンクカバーも行う。CDレーベル[SkyRecord](https://ja.wikipedia.org/wiki/SkyRecord "wikilink")も経営し、自身もそこからCDを出すこともある。結成当初はメロコアではなくグランジよりのサウンドで、結成してすぐ渡米して外国でメロディック・パンクにふれ、現在のスタイルになる。自主制作版『Royal Mellow Day』を制作し2000枚完売（現在ではプレミアが付き入手困難なため数万円の値段で中古CD店で発売されていることもある）。 アメリカの人気パンクレーベル[NOFX](../Page/NOFX.md "wikilink")のメンバーのレーベル「FAT WRECK CHORDS」から日本人代表[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink"), [SPREAD](https://ja.wikipedia.org/wiki/SPREAD "wikilink")と共に「SHORT MUSIC FOR SHORT PEOPLE」に参加（[GREENDAY](../Page/グリーン・デイ.md "wikilink"), [THE OFFSPRING](../Page/オフスプリング.md "wikilink"), [RANCID等が参加](../Page/ランシド.md "wikilink")）。 その後、フルアルバム「iHola Amigo\!」でCDデビュー、インディーズながら記録的なセールスを記録し、その勢いのままミニアルバム「will kill you...」をリリースする。
 
 ### メジャーデビュー以降〜
 
@@ -35,8 +35,8 @@ D.I.Y精神でセルフプロデュースをしてきたが、5thアルバム「
 
 ### 逸話
 
-  - [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")に続き日本人史上2組目となる、パンクロックの祭典・アメリカの移動型フェス「ワープドツアー」にDrive-thruRECORDSのステージで2年連続出場。
-  - HOWIEとYASUは[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")の細美武士と大学が一緒で結成以前から交流があった。そのためカバーアルバムではよくゲストコーラスとして参加する。そしてギターのYASUは大学時代は痩せていた。
+  - [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")に続き日本人史上2組目となる、パンクロックの祭典・アメリカの移動型フェス「ワープドツアー」にDrive-thruRECORDSのステージで2年連続出場。
+  - HOWIEとYASUは[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の細美武士と大学が一緒で結成以前から交流があった。そのためカバーアルバムではよくゲストコーラスとして参加する。そしてギターのYASUは大学時代は痩せていた。
 
 ## メンバー
 
@@ -248,7 +248,7 @@ D.I.Y精神でセルフプロデュースをしてきたが、5thアルバム「
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong>PREJUDICE</strong></p></td>
 <td><p>WPCL-70022</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -267,7 +267,7 @@ D.I.Y精神でセルフプロデュースをしてきたが、5thアルバム「
 </tr>
 <tr class="odd">
 <td><p>11th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
 <td><p><strong>DON'T ESCAPE FROM REALITIES</strong></p></td>
 <td><p>GNCL-0011</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -686,7 +686,7 @@ WPCL-10128:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>Cover</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
 <td><p><strong>HEY DUDE!WE LOVE THE BEATLES！！！</strong></p></td>
 <td><p>SKYR-0077</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -2342,9 +2342,9 @@ A Girl With A Past</p></td>
   - 2005年08月21日 - GOING KOBE 05
   - 2005年10月23日 - [SHACHI](https://ja.wikipedia.org/wiki/SHACHI "wikilink")&[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink") AOJ Final TOUR
   - 2006年07月22日 - [ウドー・ミュージック・フェスティバル](../Page/ウドー・ミュージック・フェスティバル.md "wikilink")
-  - 2008年11月24日 - I LOVE [STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS "wikilink") TOUR 〜10周年スペシャルファイナル〜
+  - 2008年11月24日 - I LOVE [STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink") TOUR 〜10周年スペシャルファイナル〜
   - 2009年05月27日 - SHINJUKU LOFT 11TH ANNIVERSARY
-  - 2010年02月20日 - [STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS "wikilink")「ザ・ワールド・イズ・マイン TOUR」
+  - 2010年02月20日 - [STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink")「ザ・ワールド・イズ・マイン TOUR」
   - 2011年07月23日 - MOGAMI ROCK FESTIVAL'11
   - 2012年03月18日 - ABASHIRI ONE MAN LIVE 「BABY\! PUNK ROCK NIGHT 2012」
   - 2012年09月29日 - 伊賀忍者音楽祭〜IGA NINJA ROCK Fes.2012〜

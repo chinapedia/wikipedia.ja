@@ -1,7 +1,7 @@
 > この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Kisuke-Box\(Matsuyama-City\).JPG "wikilink") **キスケBOX**（キスケボックス）は、[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")にある[複合商業施設](https://ja.wikipedia.org/wiki/複合商業施設 "wikilink")。[パチンコチェーン](https://ja.wikipedia.org/wiki/パチンコ#パチンコチェーン "wikilink")「ホームラングループ」の「キスケ」が、自社の[パチンコ店](../Page/パチンコ店.md "wikilink")・[ボウリング場](https://ja.wikipedia.org/wiki/ボウリング場 "wikilink")敷地内で[温泉](../Page/温泉.md "wikilink")を掘削して2001年に開業した。
+[thumb](https://ja.wikipedia.org/wiki/画像:Kisuke-Box\(Matsuyama-City\).JPG "wikilink") **キスケBOX**（キスケボックス）は、[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")にある[複合商業施設](../Page/複合商業施設.md "wikilink")。[パチンコチェーン](https://ja.wikipedia.org/wiki/パチンコ#パチンコチェーン "wikilink")「ホームラングループ」の「キスケ」が、自社の[パチンコ店](../Page/パチンコ店.md "wikilink")・[ボウリング場](https://ja.wikipedia.org/wiki/ボウリング場 "wikilink")敷地内で[温泉](../Page/温泉.md "wikilink")を掘削して2001年に開業した。
 
 [2007年](../Page/2007年.md "wikilink")、建物の屋上に[セダム](https://ja.wikipedia.org/wiki/セダム "wikilink")を植えて[屋上緑化](../Page/屋上緑化.md "wikilink")を行う。緑化面積は約3,700平方メートルで建物一棟の屋上緑化としては日本最大級である。
 
@@ -35,8 +35,8 @@
 掘削した[温泉](../Page/温泉.md "wikilink")は、**松山温泉**として当施設で利用されている。また、2本目の源泉を掘削していたが、地下1,700mから摂氏62.1度の温泉が湧出した。同社では、1号源泉と混合して46.0℃で露天風呂と大浴場で使用している。その他の湯船は、少し温めの1号源泉を使用している。\[1\]
 
   - [泉質](../Page/泉質.md "wikilink") - [アルカリ性](https://ja.wikipedia.org/wiki/アルカリ性 "wikilink")単純弱[放射能泉](../Page/放射能泉.md "wikilink")
-  - [源泉](https://ja.wikipedia.org/wiki/源泉 "wikilink")[温度](../Page/温度.md "wikilink") - 62.1[℃](https://ja.wikipedia.org/wiki/℃ "wikilink")(松山温泉2号源泉)
-  - [源泉](https://ja.wikipedia.org/wiki/源泉 "wikilink")使用温度 - 40.0～46.0[℃](https://ja.wikipedia.org/wiki/℃ "wikilink")
+  - [源泉](../Page/源泉.md "wikilink")[温度](../Page/温度.md "wikilink") - 62.1[℃](https://ja.wikipedia.org/wiki/℃ "wikilink")(松山温泉2号源泉)
+  - [源泉](../Page/源泉.md "wikilink")使用温度 - 40.0～46.0[℃](https://ja.wikipedia.org/wiki/℃ "wikilink")
   - 効能 - [神経痛](../Page/神経痛.md "wikilink")、[筋肉痛](https://ja.wikipedia.org/wiki/筋肉痛 "wikilink")、[五十肩](../Page/五十肩.md "wikilink")、関節痛、[運動麻痺](https://ja.wikipedia.org/wiki/神経学#症候 "wikilink")、[アトピー性皮膚炎](../Page/アトピー性皮膚炎.md "wikilink")など。
 
 *注：効能はその効果を万人に保障するものではない。*
@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - [JR四国](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")[予讃線](https://ja.wikipedia.org/wiki/予讃線 "wikilink") [松山駅下車徒歩](https://ja.wikipedia.org/wiki/松山駅_\(愛媛県\) "wikilink")3分
+  - [JR四国](../Page/四国旅客鉄道.md "wikilink")[予讃線](https://ja.wikipedia.org/wiki/予讃線 "wikilink") [松山駅下車徒歩](https://ja.wikipedia.org/wiki/松山駅_\(愛媛県\) "wikilink")3分
 
 <!-- end list -->
 
@@ -58,8 +58,8 @@
   - [伊予鉄道](../Page/伊予鉄道.md "wikilink")[高浜線](https://ja.wikipedia.org/wiki/伊予鉄道高浜線 "wikilink") [大手町駅](https://ja.wikipedia.org/wiki/大手町駅_\(愛媛県\) "wikilink")
   - [伊予鉄高島屋](../Page/伊予鉄高島屋.md "wikilink")
   - [フジグラン松山](https://ja.wikipedia.org/wiki/フジグラン松山 "wikilink")
-  - [総務省](../Page/総務省.md "wikilink")[四国総合通信局](https://ja.wikipedia.org/wiki/総合通信局 "wikilink")
-  - [四国ガス](https://ja.wikipedia.org/wiki/四国ガス "wikilink")松山本社
+  - [総務省](../Page/総務省.md "wikilink")[四国総合通信局](../Page/総合通信局.md "wikilink")
+  - [四国ガス](../Page/四国ガス.md "wikilink")松山本社
   - [伊予銀行](../Page/伊予銀行.md "wikilink")松山駅前支店
   - [愛媛銀行](../Page/愛媛銀行.md "wikilink")松山駅前支店
 

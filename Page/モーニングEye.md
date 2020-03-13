@@ -5,17 +5,17 @@
 
 ## 概要
 
-『[森本毅郎さわやかワイド](../Page/森本毅郎さわやかワイド.md "wikilink")』の後継番組としてスタート。当初は[森本毅郎](../Page/森本毅郎.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")として『森本ワイド』（もりもとワイド）のサブタイトルが付されたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、森本が『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』に移動するため、キャスターを[山本文郎](https://ja.wikipedia.org/wiki/山本文郎 "wikilink")と、当時新人だった[長峰由紀](../Page/長峰由紀.md "wikilink")に交代、同時に司会者の冠が外れた。[1991年](../Page/1991年.md "wikilink")に山本のパートナーが長峰から[渡辺真理](../Page/渡辺真理.md "wikilink")（当時TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）に交代。
+『[森本毅郎さわやかワイド](../Page/森本毅郎さわやかワイド.md "wikilink")』の後継番組としてスタート。当初は[森本毅郎](../Page/森本毅郎.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")として『森本ワイド』（もりもとワイド）のサブタイトルが付されたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、森本が『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』に移動するため、キャスターを[山本文郎](../Page/山本文郎.md "wikilink")と、当時新人だった[長峰由紀](../Page/長峰由紀.md "wikilink")に交代、同時に司会者の冠が外れた。[1991年](../Page/1991年.md "wikilink")に山本のパートナーが長峰から[渡辺真理](../Page/渡辺真理.md "wikilink")（当時TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）に交代。
 
-「ゲストコメンテーター」は極力使っていなかった。例外は月曜の[和田勉](../Page/和田勉.md "wikilink")と、金曜日の[天野祐吉](../Page/天野祐吉.md "wikilink")・[木元教子](../Page/木元教子.md "wikilink")・[山本コウタロー](https://ja.wikipedia.org/wiki/山本コウタロー "wikilink")（特集コーナーの「WEEKポイント」・「WEEKポイント・延長戦」（放送時間拡大時の1992年10月以降から）出演のため）など。
+「ゲストコメンテーター」は極力使っていなかった。例外は月曜の[和田勉](../Page/和田勉.md "wikilink")と、金曜日の[天野祐吉](../Page/天野祐吉.md "wikilink")・[木元教子](../Page/木元教子.md "wikilink")・[山本コウタロー](../Page/山本コウタロー.md "wikilink")（特集コーナーの「WEEKポイント」・「WEEKポイント・延長戦」（放送時間拡大時の1992年10月以降から）出演のため）など。
 
-芸能人は「さん付け」していた（当時の『[ビッグモーニング](https://ja.wikipedia.org/wiki/ビッグモーニング "wikilink")』など朝7時からの番組も同じ）。午後のワイドショーの『3時にあいましょう』や『[スーパーワイド](https://ja.wikipedia.org/wiki/スーパーワイド "wikilink")』に比べると、政治・経済の話題も多く取り上げていた。
+芸能人は「さん付け」していた（当時の『[ビッグモーニング](https://ja.wikipedia.org/wiki/ビッグモーニング "wikilink")』など朝7時からの番組も同じ）。午後のワイドショーの『3時にあいましょう』や『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』に比べると、政治・経済の話題も多く取り上げていた。
 
 1990年代前半は同時間帯の[視聴率](../Page/視聴率.md "wikilink")1位を独走していた\[1\]。
 
 番組末期の1996年4月からの半年間は、[宇崎竜童 & RUコネクション with 井上堯之の楽曲](../Page/宇崎竜童_&_RUコネクション_with_井上堯之.md "wikilink")「鳥の瞳で」（シングル『GOD BLESS TOKYO』カップリング／アルバム『起承転々』所収）がテーマ曲として流れていた。
 
-「[TBSビデオ問題](https://ja.wikipedia.org/wiki/TBSビデオ問題 "wikilink")」の責任を取る形でTBSはワイドショーの廃止を決定した\[2\]ため、1996年9月27日に終了。後継番組は[岡江久美子](../Page/岡江久美子.md "wikilink")・[薬丸裕英](../Page/薬丸裕英.md "wikilink")が司会を務める[生活情報番組](../Page/生活情報番組.md "wikilink")『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』。なお、山本は[午後枠](https://ja.wikipedia.org/wiki/TBSテレビ系列平日午後のワイドショー枠 "wikilink")『[スーパーワイド](https://ja.wikipedia.org/wiki/スーパーワイド "wikilink")』の後継番組で同じく生活情報番組『[素敵なあなた](https://ja.wikipedia.org/wiki/素敵なあなた_\(TBS\) "wikilink")』に異動した。
+「[TBSビデオ問題](../Page/TBSビデオ問題.md "wikilink")」の責任を取る形でTBSはワイドショーの廃止を決定した\[2\]ため、1996年9月27日に終了。後継番組は[岡江久美子](../Page/岡江久美子.md "wikilink")・[薬丸裕英](../Page/薬丸裕英.md "wikilink")が司会を務める[生活情報番組](../Page/生活情報番組.md "wikilink")『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』。なお、山本は[午後枠](https://ja.wikipedia.org/wiki/TBSテレビ系列平日午後のワイドショー枠 "wikilink")『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』の後継番組で同じく生活情報番組『[素敵なあなた](../Page/素敵なあなた_\(TBS\).md "wikilink")』に異動した。
 
 『はなまるマーケット』（2014年3月28日まで）は「生活情報番組」、その後継番組『[いっぷく\!](https://ja.wikipedia.org/wiki/いっぷく! "wikilink")』（同年3月31日 - 2015年3月27日）は「[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")」という位置付けだったが、『いっぷく\!』に代わって2015年3月30日から本枠で開始した『[白熱ライブ ビビット](https://ja.wikipedia.org/wiki/ビビット_\(テレビ番組\) "wikilink")』（2017年4月3日から『ビビット』に改題、2019年9月27日に終了）は「ワイドショー・情報[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")」との位置付けとなり、本番組終了以来18年半ぶりに本枠でのワイドショーが事実上復活となった。
 
@@ -69,7 +69,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/1987年" title="wikilink">1987年</a><a href="../Page/10月5日.md" title="wikilink">10月5日</a></p></td>
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a></p></td>
 <td><p><strong>モーニングEye</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本文郎" title="wikilink">山本文郎</a></p></td>
+<td><p><a href="../Page/山本文郎.md" title="wikilink">山本文郎</a></p></td>
 <td><p><a href="../Page/長峰由紀.md" title="wikilink">長峰由紀</a></p></td>
 </tr>
 <tr class="even">
@@ -104,7 +104,7 @@
 ### コメンテーター
 
   - 月曜：[和田勉](../Page/和田勉.md "wikilink")
-  - 金曜：[天野祐吉](../Page/天野祐吉.md "wikilink")・[木元教子](../Page/木元教子.md "wikilink")・[山本コウタロー](https://ja.wikipedia.org/wiki/山本コウタロー "wikilink")
+  - 金曜：[天野祐吉](../Page/天野祐吉.md "wikilink")・[木元教子](../Page/木元教子.md "wikilink")・[山本コウタロー](../Page/山本コウタロー.md "wikilink")
 
 ほか
 
@@ -133,14 +133,14 @@
   - [三波豊和](../Page/三波豊和.md "wikilink")
   - [田中義剛](../Page/田中義剛.md "wikilink")（「おとなの通信簿」のコーナーで出演）
   - [前田武彦](../Page/前田武彦.md "wikilink")（コメンテーター）・「[朝のホットライン](https://ja.wikipedia.org/wiki/朝のホットライン "wikilink")」お天気マン兼任。
-  - [渡嘉敷勝男](https://ja.wikipedia.org/wiki/渡嘉敷勝男 "wikilink")（「こりゃまた失礼」のコーナーで出演）
+  - [渡嘉敷勝男](../Page/渡嘉敷勝男.md "wikilink")（「こりゃまた失礼」のコーナーで出演）
   - [松岡憲治](../Page/松岡憲治.md "wikilink")（「女の人生相談 どうすりゃいいの?」のコーナーで出演）
 
 ほか
 
 ## コーナー
 
-金曜日には[金谷ヒデユキ](https://ja.wikipedia.org/wiki/金谷ヒデユキ "wikilink")の替え歌コーナーを放送していた時期があった。当時、私生活で問題になった金曜コメンテーターの[山本コウタロー](https://ja.wikipedia.org/wiki/山本コウタロー "wikilink")も替え歌のターゲットになった時があった（「[走れコウタロー](https://ja.wikipedia.org/wiki/走れコウタロー "wikilink")」が使われた）。
+金曜日には[金谷ヒデユキ](../Page/金谷ヒデユキ.md "wikilink")の替え歌コーナーを放送していた時期があった。当時、私生活で問題になった金曜コメンテーターの[山本コウタロー](../Page/山本コウタロー.md "wikilink")も替え歌のターゲットになった時があった（「[走れコウタロー](../Page/走れコウタロー.md "wikilink")」が使われた）。
 
 渡辺真理アナ時代は、水曜日9:55枠で「プリティウーマン」と題したコーナーがあり、各ジャンルで活動する女性をゲストに迎えトークを行った。
 
@@ -278,7 +278,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a></p></td>
 <td></td>
 <td></td>
@@ -309,7 +309,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>1995年10月2日よりネット開始</p></td>
 <td><p>△</p></td>
 </tr>
@@ -324,7 +324,7 @@
 
 ## 関連項目
 
-  - [男はつらいよ 柴又より愛をこめて](../Page/男はつらいよ_柴又より愛をこめて.md "wikilink") - 劇中でタコ社長（[太宰久雄](https://ja.wikipedia.org/wiki/太宰久雄 "wikilink")）が当番組に出演。当時の司会者（森本毅郎、石井和子）もオープニングにクレジットされている。
+  - [男はつらいよ 柴又より愛をこめて](../Page/男はつらいよ_柴又より愛をこめて.md "wikilink") - 劇中でタコ社長（[太宰久雄](../Page/太宰久雄.md "wikilink")）が当番組に出演。当時の司会者（森本毅郎、石井和子）もオープニングにクレジットされている。
 
 [Category:1984年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のテレビ番組_\(日本\) "wikilink") [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:TBSの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:TBSの情報・ワイドショー番組 "wikilink")
 

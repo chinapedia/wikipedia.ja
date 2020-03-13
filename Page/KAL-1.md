@@ -11,7 +11,7 @@
 
 [1954年](../Page/1954年.md "wikilink")（昭和29年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に日本青年飛行連盟が主催した[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")訪問親善飛行に参加し、[セスナ](../Page/セスナ.md "wikilink")の機体と共に[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")までの飛行に成功した。
 
-1号機は昭和29年に[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")へ買い上げられ、連絡機として使用された後に解体された。2号機は川崎の社用機として生涯を終えた後、[1966年](../Page/1966年.md "wikilink")（昭和41年）に[大阪市](../Page/大阪市.md "wikilink")[港区の](../Page/港区_\(大阪市\).md "wikilink")[交通科学博物館](../Page/交通科学博物館.md "wikilink")に引き取られ、展示されていた。[2014年](../Page/2014年.md "wikilink")（平成26年）4月に交通科学博物館が閉鎖されたことにより、2014年12月からは[岐阜県](../Page/岐阜県.md "wikilink")[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")の[かかみがはら航空宇宙科学博物館](https://ja.wikipedia.org/wiki/かかみがはら航空宇宙科学博物館 "wikilink")に移され、現在はその後身の[岐阜かかみがはら航空宇宙博物館](https://ja.wikipedia.org/wiki/岐阜かかみがはら航空宇宙博物館 "wikilink")に展示されている\[1\]。
+1号機は昭和29年に[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")へ買い上げられ、連絡機として使用された後に解体された。2号機は川崎の社用機として生涯を終えた後、[1966年](../Page/1966年.md "wikilink")（昭和41年）に[大阪市](../Page/大阪市.md "wikilink")[港区の](../Page/港区_\(大阪市\).md "wikilink")[交通科学博物館](../Page/交通科学博物館.md "wikilink")に引き取られ、展示されていた。[2014年](../Page/2014年.md "wikilink")（平成26年）4月に交通科学博物館が閉鎖されたことにより、2014年12月からは[岐阜県](../Page/岐阜県.md "wikilink")[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")の[かかみがはら航空宇宙科学博物館](https://ja.wikipedia.org/wiki/かかみがはら航空宇宙科学博物館 "wikilink")に移され、現在はその後身の[岐阜かかみがはら航空宇宙博物館](../Page/岐阜かかみがはら航空宇宙博物館.md "wikilink")に展示されている\[1\]。
 
 ## 設計
 
@@ -35,8 +35,8 @@
 
 ## 関連項目
 
-  - [KAT-1](https://ja.wikipedia.org/wiki/KAT-1 "wikilink")
-  - [KAL-2](https://ja.wikipedia.org/wiki/KAL-2 "wikilink")
+  - [KAT-1](../Page/KAT-1.md "wikilink")
+  - [KAL-2](../Page/KAL-2.md "wikilink")
   - [日本製航空機の一覧](../Page/日本製航空機の一覧.md "wikilink")
 
 [Category:日本の試作機](https://ja.wikipedia.org/wiki/Category:日本の試作機 "wikilink") [Category:日本の軍用機](https://ja.wikipedia.org/wiki/Category:日本の軍用機 "wikilink") [Category:陸上自衛隊の装備品](https://ja.wikipedia.org/wiki/Category:陸上自衛隊の装備品 "wikilink") [Category:川崎重工業製の航空機](https://ja.wikipedia.org/wiki/Category:川崎重工業製の航空機 "wikilink")

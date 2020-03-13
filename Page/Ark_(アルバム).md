@@ -5,7 +5,7 @@
 
 ## 解説
 
-7thアルバム『[ray](https://ja.wikipedia.org/wiki/ray_\(アルバム\) "wikilink")』と同時発売したアルバム。本作品は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の他、[台湾](https://ja.wikipedia.org/wiki/中華民国 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")7ヶ国においてリリースされている\[1\]。
+7thアルバム『[ray](https://ja.wikipedia.org/wiki/ray_\(アルバム\) "wikilink")』と同時発売したアルバム。本作品は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の他、[台湾](../Page/中華民国.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")の[アジア](../Page/アジア.md "wikilink")7ヶ国においてリリースされている\[1\]。
 
 アルバムタイトルとなった『ark』は「箱舟」という意味で、[ken](https://ja.wikipedia.org/wiki/ken "wikilink")がタイトルを付けており\[2\]、同時発売の『ray』に先行してタイトルが決定した\[3\]。ちなみに、当初タイトルは"escape"になる予定だったが、hydeがこのタイトルを拒んだことから『ark』となった\[4\]。
 
@@ -15,7 +15,7 @@
 
 本作と『ray』の6曲目には[yukihiro](https://ja.wikipedia.org/wiki/yukihiro "wikilink")作曲の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")がそれぞれ収録されている。インストが収録されているオリジナルアルバムはこの2作のみである。
 
-前作『HEART』に続いて3作目の[オリコンアルバムチャート首位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。ラルク最大のヒット作となり、[オリコンアルバムランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、2週連続でワンツーフィニッシュを飾った (1位『ark』、2位『ray』)。『ray』を合わせると、初週の売り上げとしてはオリコン最高記録の300万枚を突破した計算となる。オリコン調べの歴代アルバム売上でも、[2017年](../Page/2017年.md "wikilink")現在で58位にランクインしている。
+前作『HEART』に続いて3作目の[オリコンアルバムチャート首位](../Page/オリコンチャート.md "wikilink")、[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。ラルク最大のヒット作となり、[オリコンアルバムランキングで](../Page/オリコンチャート.md "wikilink")、2週連続でワンツーフィニッシュを飾った (1位『ark』、2位『ray』)。『ray』を合わせると、初週の売り上げとしてはオリコン最高記録の300万枚を突破した計算となる。オリコン調べの歴代アルバム売上でも、[2017年](../Page/2017年.md "wikilink")現在で58位にランクインしている。
 
 初回限定盤は、スーパーピクチャーレーベルディスク、スペシャルパッケージ仕様。
 
@@ -27,7 +27,7 @@
       - 作詞:[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink") / 作曲:[ken](https://ja.wikipedia.org/wiki/ken "wikilink") / 編曲:L'Arc〜en〜Ciel & [Hajime Okano](../Page/岡野ハジメ.md "wikilink")
     <!-- end list -->
       -
-        14thシングル。[日本テレビ系番組](../Page/日本テレビ放送網.md "wikilink")『[知ってるつもり?\!](https://ja.wikipedia.org/wiki/知ってるつもり?! "wikilink")』エンディングテーマ。
+        14thシングル。[日本テレビ系番組](../Page/日本テレビ放送網.md "wikilink")『[知ってるつもり?\!](../Page/知ってるつもり?!.md "wikilink")』エンディングテーマ。
 2.  **[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink")**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
@@ -55,7 +55,7 @@
       - 作曲:yukihiro / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        [インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")を多用している。タイトルの意味は「幼虫」で、次曲「Butterfly's（＝蝶） Sleep」と繋がる構成となっている。
+        [インストゥルメンタル](../Page/器楽曲.md "wikilink")。[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")を多用している。タイトルの意味は「幼虫」で、次曲「Butterfly's（＝蝶） Sleep」と繋がる構成となっている。
         後に、リミックスアルバム『ectomorphed works』にて「Larva (ectomorphed long mix)」として[リミックス](../Page/リミックス.md "wikilink")され収録。
 7.  **Butterfly's Sleep**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
@@ -68,7 +68,7 @@
       -
         [ハワイアン・ミュージック風の曲調の楽曲だが](https://ja.wikipedia.org/wiki/ハワイの音楽 "wikilink")、メロディは[スイス](../Page/スイス.md "wikilink")から[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")に向かう電車の中で浮かんだものとtetsuyaは述べている\[6\]。
         タイトルのブルーは「青空」と「憂鬱なブルー」という2つの意味がある。
-        また、この曲でtetsuyaが[バリトン・ギター](../Page/バリトン・ギター.md "wikilink")の[フェンダー・ベースVI](https://ja.wikipedia.org/wiki/フェンダー・ベースVI "wikilink")を弾いており、[ザ・キュアー](https://ja.wikipedia.org/wiki/ザ・キュアー "wikilink")の[ロバート・スミスの影響で使用したと述べている](https://ja.wikipedia.org/wiki/ロバート・スミス_\(ミュージシャン\) "wikilink")\[7\]。
+        また、この曲でtetsuyaが[バリトン・ギター](../Page/バリトン・ギター.md "wikilink")の[フェンダー・ベースVI](https://ja.wikipedia.org/wiki/フェンダー・ベースVI "wikilink")を弾いており、[ザ・キュアー](../Page/ザ・キュアー.md "wikilink")の[ロバート・スミスの影響で使用したと述べている](https://ja.wikipedia.org/wiki/ロバート・スミス_\(ミュージシャン\) "wikilink")\[7\]。
 9.  **真実と幻想と**
       - 作詞:hyde / 作曲:ken / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
@@ -79,7 +79,7 @@
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        [TBS系テレビ番組](../Page/TBSテレビ.md "wikilink")『[エクスプレス](https://ja.wikipedia.org/wiki/エクスプレス_\(テレビ番組\) "wikilink")』テーマソング。
+        [TBS系テレビ番組](../Page/TBSテレビ.md "wikilink")『[エクスプレス](../Page/エクスプレス_\(テレビ番組\).md "wikilink")』テーマソング。
         メンバーが[同性愛](https://ja.wikipedia.org/wiki/同性愛 "wikilink")を描いた曲だと語ったことがある。
 11. **[Pieces](../Page/Pieces_\(L'Arc〜en〜Cielの曲\).md "wikilink") \[ark mix\]**
       - 作詞:hyde / 作曲:tetsu / 編曲:L'Arc〜en〜Ciel & Hajime Okano
@@ -124,7 +124,7 @@
 
   - hyde：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - ken：[Guitars](../Page/ギター.md "wikilink")
-  - tetsu：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - tetsu：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - yukihiro：[Drums](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->
@@ -178,9 +178,9 @@
 
 <!-- end list -->
 
-  - ken：キーボード・プログラミング、タンバリン、"Hong Kong [hand claps](https://ja.wikipedia.org/wiki/拍手 "wikilink")"
+  - ken：キーボード・プログラミング、タンバリン、"Hong Kong [hand claps](../Page/拍手.md "wikilink")"
   - tetsu：キーボード・プログラミング、メタル[パーカッション](../Page/打楽器.md "wikilink")、"Hong Kong hand claps"
-  - 斎藤仁：キーボード・プログラミング、[マニピュレート](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")
+  - 斎藤仁：キーボード・プログラミング、[マニピュレート](../Page/マニピュレーター.md "wikilink")
   - yukihiro："Hong Kong hand claps"
 
 <!-- end list -->
@@ -208,7 +208,7 @@
 
 <!-- end list -->
 
-  - tetsu：キーボード・プログラミング、"[Fender](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") [Bass VI](https://ja.wikipedia.org/wiki/フェンダー・ベースVI "wikilink") Solo"、バッキングボーカル
+  - tetsu：キーボード・プログラミング、"[Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink") [Bass VI](https://ja.wikipedia.org/wiki/フェンダー・ベースVI "wikilink") Solo"、バッキングボーカル
   - 岡野ハジメ：キーボード・プログラミング
   - 斎藤仁：キーボード・プログラミング
   - yukihiro：リズムプログラミング
@@ -248,8 +248,8 @@
 
 ## 収録ベストアルバム
 
-  - 『[Clicked Singles Best 13](https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13 "wikilink")』 (\#2、\#3、\#5、\#11,シングルバージョン)
-  - 『[The Best of L'Arc〜en〜Ciel 1998-2000](https://ja.wikipedia.org/wiki/The_Best_of_L'Arc〜en〜Ciel "wikilink")』 (\#1、\#2、\#3、\#5、\#11,シングルバージョン)
+  - 『[Clicked Singles Best 13](../Page/Clicked_Singles_Best_13.md "wikilink")』 (\#2、\#3、\#5、\#11,シングルバージョン)
+  - 『[The Best of L'Arc〜en〜Ciel 1998-2000](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』 (\#1、\#2、\#3、\#5、\#11,シングルバージョン)
   - 『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』 (\#4、\#5、\#9)
   - 『[TWENITY 1997-1999](https://ja.wikipedia.org/wiki/TWENITY "wikilink")』 (\#2、\#3、\#9、\#11)
   - 『[WORLD'S BEST SELECTION](https://ja.wikipedia.org/wiki/WORLD'S_BEST_SELECTION "wikilink")』 (\#3)

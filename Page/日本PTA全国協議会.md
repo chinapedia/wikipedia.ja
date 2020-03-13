@@ -5,9 +5,9 @@
 
 ## 概要
 
-[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、[アメリカの占領下で](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、アメリカの[第一次教育使節団の報告書による勧告を元に日本独自の検討を加えて誕生した](https://ja.wikipedia.org/wiki/アメリカ教育使節団報告書 "wikilink")、PTA活動の全国連絡協議会である。平成25年度より[公益社団法人](https://ja.wikipedia.org/wiki/公益社団法人 "wikilink")となった。旧主務官庁は[文部科学省](../Page/文部科学省.md "wikilink")。
+[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後、[アメリカの占領下で](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、アメリカの[第一次教育使節団の報告書による勧告を元に日本独自の検討を加えて誕生した](../Page/アメリカ教育使節団報告書.md "wikilink")、PTA活動の全国連絡協議会である。平成25年度より[公益社団法人](https://ja.wikipedia.org/wiki/公益社団法人 "wikilink")となった。旧主務官庁は[文部科学省](../Page/文部科学省.md "wikilink")。
 
-日本PTA全国協議会からすれば、完全な[小](../Page/小学校.md "wikilink")[中学校](../Page/中学校.md "wikilink")での[週五日間授業の実現と](https://ja.wikipedia.org/wiki/学校週5日制 "wikilink")、健全な校外生活、少年[非行](https://ja.wikipedia.org/wiki/非行 "wikilink")の防止、家庭教育、[児童虐待](../Page/児童虐待.md "wikilink")や[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")などの防止と予防のためとされる活動を行っているがその科学的効果測定はされていない。青少年に好ましくない[雑誌](../Page/雑誌.md "wikilink")・テレビ報道、[テレビ](../Page/テレビ.md "wikilink")の[俗悪番組](https://ja.wikipedia.org/wiki/俗悪番組 "wikilink")と主張する意見表明などである。しかし親世代が「見せた方が良い」と思われるものについても、日Pによる「見せたくない」ランキングに入ることがあり、その点から政治的な圧力の存在や完全には意見を統一できない事実の存在も示唆されている。
+日本PTA全国協議会からすれば、完全な[小](../Page/小学校.md "wikilink")[中学校](../Page/中学校.md "wikilink")での[週五日間授業の実現と](../Page/学校週5日制.md "wikilink")、健全な校外生活、少年[非行](../Page/非行.md "wikilink")の防止、家庭教育、[児童虐待](../Page/児童虐待.md "wikilink")や[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")などの防止と予防のためとされる活動を行っているがその科学的効果測定はされていない。青少年に好ましくない[雑誌](../Page/雑誌.md "wikilink")・テレビ報道、[テレビ](../Page/テレビ.md "wikilink")の[俗悪番組](https://ja.wikipedia.org/wiki/俗悪番組 "wikilink")と主張する意見表明などである。しかし親世代が「見せた方が良い」と思われるものについても、日Pによる「見せたくない」ランキングに入ることがあり、その点から政治的な圧力の存在や完全には意見を統一できない事実の存在も示唆されている。
 
 ## 沿革
 
@@ -33,14 +33,14 @@
 
   - 「ワースト番組」にはかつて『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』が毎年のように1位を独占した。しかし、『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』が同時間枠で放送開始されてからは「子どもに見せたくない番組」1位を争うことになった。
   - また、アニメで初のランクインは『[ルパン三世](../Page/ルパン三世_\(TV第2シリーズ\).md "wikilink")』だった。ルパンだけではなく、『[おぼっちゃまくん](../Page/おぼっちゃまくん.md "wikilink")』・『クレヨンしんちゃん』・『[ボボボーボ・ボーボボ](../Page/ボボボーボ・ボーボボ.md "wikilink")』・『[銀魂](../Page/銀魂_\(アニメ\).md "wikilink")』等がランクインされていた。
-  - 1980年代まではドラマがランクインされる事はなかったが、[野島伸司](../Page/野島伸司.md "wikilink")脚本などの[グロテスク](https://ja.wikipedia.org/wiki/グロテスク "wikilink")な表現ドラマが高視聴率をマークするようになった[1994年](../Page/1994年.md "wikilink")以降、「子どもに見せたくない番組」になってから『[女王の教室](https://ja.wikipedia.org/wiki/女王の教室 "wikilink")』・『[14才の母](../Page/14才の母.md "wikilink")』や『[ライフ](https://ja.wikipedia.org/wiki/ライフ_\(漫画\)#テレビドラマ "wikilink")』、『[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")』、『[私が恋愛できない理由](https://ja.wikipedia.org/wiki/私が恋愛できない理由 "wikilink")』、『[蜜の味〜A Taste Of Honey〜](https://ja.wikipedia.org/wiki/蜜の味〜A_Taste_Of_Honey〜 "wikilink")』などのようにドラマもランクインされるようになった。2012年は2本がランクインした。
+  - 1980年代まではドラマがランクインされる事はなかったが、[野島伸司](../Page/野島伸司.md "wikilink")脚本などの[グロテスク](../Page/グロテスク.md "wikilink")な表現ドラマが高視聴率をマークするようになった[1994年](../Page/1994年.md "wikilink")以降、「子どもに見せたくない番組」になってから『[女王の教室](../Page/女王の教室.md "wikilink")』・『[14才の母](../Page/14才の母.md "wikilink")』や『[ライフ](https://ja.wikipedia.org/wiki/ライフ_\(漫画\)#テレビドラマ "wikilink")』、『[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")』、『[私が恋愛できない理由](https://ja.wikipedia.org/wiki/私が恋愛できない理由 "wikilink")』、『[蜜の味〜A Taste Of Honey〜](https://ja.wikipedia.org/wiki/蜜の味〜A_Taste_Of_Honey〜 "wikilink")』などのようにドラマもランクインされるようになった。2012年は2本がランクインした。
   - 一時期、[志村けん](../Page/志村けん.md "wikilink")の番組（『[志村けんのバカ殿様](../Page/志村けんのバカ殿様.md "wikilink")』等）が上位に来ることが多い時期もあった。[パイ投げ](../Page/パイ投げ.md "wikilink")やスイカの[早食い](https://ja.wikipedia.org/wiki/早食い "wikilink")、寿司を握る前に気合入れでつばを手に噴く等、食べ物を粗末にするシーンが多いことが主な原因のようである。『志村けんのバカ殿様』は見せたくない番組の常連である一方、『[天才\!志村どうぶつ園](../Page/天才!志村どうぶつ園.md "wikilink")』は子どもに見せたい番組にランクインされていた。
   - [クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")でのランクインは、[おバカタレント](https://ja.wikipedia.org/wiki/おバカタレント "wikilink")の台頭を理由に『[ヘキサゴンIIクイズパレード](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")』がランクインしていた（理由は不明であるが「子供に見せたい番組」にもランクインされていた）。
   - [子供番組](../Page/子供番組.md "wikilink")では『[ピラメキーノ](https://ja.wikipedia.org/wiki/ピラメキーノ "wikilink")』が2011年・2012年と2年連続でランクインしていた。
 
 ### 子どもに見せたい番組
 
-「子どもに見せたい番組」とは、日本PTA全国協議会が会員を対象にアンケートしていた企画の一つ。小学5年生の保護者、中学2年生の保護者ともに第1位は2002年、2003年は『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』、小学5年生保護者の第1位は2004年・2006年は『[どうぶつ奇想天外](https://ja.wikipedia.org/wiki/どうぶつ奇想天外 "wikilink")』、中学2年生保護者の第1位は2004年は『プロジェクトX』、2006年は『[世界一受けたい授業](https://ja.wikipedia.org/wiki/世界一受けたい授業 "wikilink")』、2005年は小学5年生保護者、中学2年生保護者ともに『[1リットルの涙](../Page/1リットルの涙_\(テレビドラマ\).md "wikilink")』で、2007年度は小学5年生保護者、中学2年生保護者ともに『世界一受けたい授業』であった。[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")による「青少年に見てもらいたい番組」の常連である『[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")』、『[サザエさん](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")』、などのアニメはTOP10には入らないことが多かった。もとの名前は「**PTA推薦番組**」だった。
+「子どもに見せたい番組」とは、日本PTA全国協議会が会員を対象にアンケートしていた企画の一つ。小学5年生の保護者、中学2年生の保護者ともに第1位は2002年、2003年は『[プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")』、小学5年生保護者の第1位は2004年・2006年は『[どうぶつ奇想天外](https://ja.wikipedia.org/wiki/どうぶつ奇想天外 "wikilink")』、中学2年生保護者の第1位は2004年は『プロジェクトX』、2006年は『[世界一受けたい授業](../Page/世界一受けたい授業.md "wikilink")』、2005年は小学5年生保護者、中学2年生保護者ともに『[1リットルの涙](../Page/1リットルの涙_\(テレビドラマ\).md "wikilink")』で、2007年度は小学5年生保護者、中学2年生保護者ともに『世界一受けたい授業』であった。[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")による「青少年に見てもらいたい番組」の常連である『[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")』、『[サザエさん](https://ja.wikipedia.org/wiki/サザエさん_\(テレビアニメ\) "wikilink")』、などのアニメはTOP10には入らないことが多かった。もとの名前は「**PTA推薦番組**」だった。
 
   - 『[まんが日本昔ばなし](../Page/まんが日本昔ばなし.md "wikilink")』は中期以降タイトルバックが出る直前に「PTA推薦番組」という[テロップ](https://ja.wikipedia.org/wiki/テロップ "wikilink")を流して放送していた。
   - 過去にはアニメも日本PTA全国協議会の推薦番組に挙げられた例は多い。『[世界名作劇場](../Page/世界名作劇場.md "wikilink")』枠の各作品は、その典型である。
@@ -56,7 +56,7 @@
 ## 関連項目
 
   - [民間情報教育局](https://ja.wikipedia.org/wiki/民間情報教育局 "wikilink")
-  - [低俗番組](https://ja.wikipedia.org/wiki/低俗番組 "wikilink")
+  - [低俗番組](../Page/低俗番組.md "wikilink")
   - [放送倫理・番組向上機構](https://ja.wikipedia.org/wiki/放送倫理・番組向上機構 "wikilink") (BPO)
   - [民間放送教育協会](../Page/民間放送教育協会.md "wikilink")
   - [日本教職員組合](../Page/日本教職員組合.md "wikilink")

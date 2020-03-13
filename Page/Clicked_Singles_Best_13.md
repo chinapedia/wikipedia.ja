@@ -1,11 +1,11 @@
 > この記事は[Clicked Singles Best 13](https://ja.wikipedia.org/wiki/Clicked_Singles_Best_13)から翻訳されています。
 
 
-『**Clicked Singles Best 13**』（クリックド・シングルズ・ベスト・サーティーン）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
+『**Clicked Singles Best 13**』（クリックド・シングルズ・ベスト・サーティーン）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ベストアルバム](../Page/ベスト・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 
-L'Arc〜en〜Cielとして初となる[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink") (厳密にはシングル曲のみを集めたシングルベスト)。8thアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』に続いて5作目のオリコンアルバムチャート首位を獲得した。約124万枚のセールスを記録し、[2020年](../Page/2020年.md "wikilink")現在、L'Arc〜en〜Cielにとって最後となる6作目の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")となっている。
+L'Arc〜en〜Cielとして初となる[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink") (厳密にはシングル曲のみを集めたシングルベスト)。8thアルバム『[REAL](../Page/REAL_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』に続いて5作目のオリコンアルバムチャート首位を獲得した。約124万枚のセールスを記録し、[2020年](../Page/2020年.md "wikilink")現在、L'Arc〜en〜Cielにとって最後となる6作目の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")となっている。
 
 収録曲をファン投票により決めるベスト・アルバムは以前にもあったが、[Yahoo\! JAPANとのジョイントによる特設サイト](../Page/Yahoo!_JAPAN.md "wikilink")「LArc.yahoo.co.jp」でネットから投票を受け付けたのが画期的であった。投票は8つの国と地域 ([日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[中国](../Page/中華人民共和国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")) で実施。シングル全21曲の表題曲のうち、それぞれ地域で上位だった曲を収録し発売したため各国版で収録曲が異なる。各国によってランクインした曲が異なるのは、L'Arc〜en〜Cielが[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")発売のアルバム『[HEART](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink")』以降、積極的に海外進出を行ったことが影響している。また、2001年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")下旬には[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")でもリリースされ、プロモーションの一環として特設サイトもオープンされた\[1\]。さらに[2004年](../Page/2004年.md "wikilink")、[大韓民国](../Page/大韓民国.md "wikilink")で第4次日本文化開放政策がとられ、日本語で歌われたCDの販売が認可されたことから公式に13曲にボーナストラックを加えた韓国版『Clicked Singles Best 13+2』が発売された。
 
@@ -88,7 +88,7 @@ L'Arc〜en〜Cielとして初となる[ベスト・アルバム](https://ja.wiki
     <!-- end list -->
       -
         [2000年](../Page/2000年.md "wikilink")に開催されたドームツアー「TOUR 2000 REAL」の[東京ドーム](../Page/東京ドーム.md "wikilink")2日目公演において初披露されたバラード。L'Arc〜en〜Cielの楽曲で唯一ベストアルバムで初音源化となった新曲で、後にベストアルバム『[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://ja.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")』にも収録された。
-        タイトルの「[Anemone](https://ja.wikipedia.org/wiki/アネモネ "wikilink")」は花の名前である。2種類の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作されており、同年に発売されたMV集『[CHRONICLE 2](../Page/CHRONICLE_2.md "wikilink")』にどちらも収録されている。
+        タイトルの「[Anemone](../Page/アネモネ.md "wikilink")」は花の名前である。2種類の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が制作されており、同年に発売されたMV集『[CHRONICLE 2](../Page/CHRONICLE_2.md "wikilink")』にどちらも収録されている。
         [2006年](../Page/2006年.md "wikilink")に開催されたライブ「[15th L'Anniversary Live](../Page/15th_L'Anniversary_Live.md "wikilink")」の演奏曲目リクエスト投票では12位を記録し、メドレーの一部で披露された。また、2011年に開催されたライブツアー「20th L'Anniversary Tour」において11年ぶりにフルコーラスで披露された。同ツアーでは[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")アレンジして演奏されている。
           - ken：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink") & Programming
           - 岡野ハジメ：Keyboard & Programming

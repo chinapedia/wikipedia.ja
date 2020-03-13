@@ -15,8 +15,8 @@
   - 第4回：[筒井康隆](../Page/筒井康隆.md "wikilink")（委員長）、[新井素子](../Page/新井素子.md "wikilink")、[井上雅彦](../Page/井上雅彦.md "wikilink")、[久美沙織](../Page/久美沙織.md "wikilink")、[谷甲州](../Page/谷甲州.md "wikilink")、[野阿梓](https://ja.wikipedia.org/wiki/野阿梓 "wikilink")
   - 第5回：[豊田有恒](../Page/豊田有恒.md "wikilink")（委員長）、新井素子、井上雅彦、久美沙織、谷甲州、野阿梓
   - 第6-7回：[夢枕獏](../Page/夢枕獏.md "wikilink")（委員長）、[北野勇作](../Page/北野勇作.md "wikilink")、[牧野修](../Page/牧野修.md "wikilink")、[ひかわ玲子](../Page/ひかわ玲子.md "wikilink")、[森岡浩之](../Page/森岡浩之.md "wikilink")
-  - 第8-9回：[梶尾真治](https://ja.wikipedia.org/wiki/梶尾真治 "wikilink")（委員長）、[小林泰三](../Page/小林泰三.md "wikilink")、[浅暮三文](../Page/浅暮三文.md "wikilink")、[森奈津子](../Page/森奈津子.md "wikilink")、[田中啓文](../Page/田中啓文.md "wikilink")
-  - 第10回：[森下一仁](../Page/森下一仁.md "wikilink")（委員長）、[飯野文彦](../Page/飯野文彦.md "wikilink")、[図子慧](https://ja.wikipedia.org/wiki/図子慧 "wikilink")、[林譲治](https://ja.wikipedia.org/wiki/林譲治_\(作家\) "wikilink")、[若木未生](../Page/若木未生.md "wikilink")
+  - 第8-9回：[梶尾真治](../Page/梶尾真治.md "wikilink")（委員長）、[小林泰三](../Page/小林泰三.md "wikilink")、[浅暮三文](../Page/浅暮三文.md "wikilink")、[森奈津子](../Page/森奈津子.md "wikilink")、[田中啓文](../Page/田中啓文.md "wikilink")
+  - 第10回：[森下一仁](../Page/森下一仁.md "wikilink")（委員長）、[飯野文彦](../Page/飯野文彦.md "wikilink")、[図子慧](https://ja.wikipedia.org/wiki/図子慧 "wikilink")、[林譲治](../Page/林譲治_\(作家\).md "wikilink")、[若木未生](../Page/若木未生.md "wikilink")
   - 第11回：[山田正紀](../Page/山田正紀.md "wikilink")（委員長）、飯野文彦、図子慧、林讓治、若木未生
 
 ## 受賞作一覧

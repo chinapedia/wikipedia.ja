@@ -1,9 +1,9 @@
 > この記事は[Beginners\'Mac](https://ja.wikipedia.org/wiki/Beginners\'Mac)から翻訳されています。
 
 
-『**Beginners'Mac**』（ビギナーズ マック、略称B'MAC）は、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")発行の[コンピュータ雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")。
+『**Beginners'Mac**』（ビギナーズ マック、略称B'MAC）は、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")発行の[コンピュータ雑誌](../Page/パソコン雑誌.md "wikilink")。
 
-[Macintosh](../Page/Macintosh.md "wikilink")専門誌『[MacUser日本版](https://ja.wikipedia.org/wiki/MacUser日本版 "wikilink")』の、初心者向け[雑誌](../Page/雑誌.md "wikilink")として1995年11月に創刊。
+[Macintosh](../Page/Macintosh.md "wikilink")専門誌『[MacUser日本版](../Page/MacUser日本版.md "wikilink")』の、初心者向け[雑誌](../Page/雑誌.md "wikilink")として1995年11月に創刊。
 
 1997年4月に休刊し、MacUser日本版と統合された。
 

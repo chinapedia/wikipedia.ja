@@ -1,7 +1,7 @@
 > この記事は[NOMAD](https://ja.wikipedia.org/wiki/NOMAD)から翻訳されています。
 
 
-**NOMAD**（**ノマド**）は[クリエイティブが製造販売を行っている](https://ja.wikipedia.org/wiki/クリエイティブテクノロジー "wikilink")[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")のシリーズ。[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")記録型から[マイクロドライブ](../Page/マイクロドライブ.md "wikilink")（[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")）記録型までラインナップが豊富。
+**NOMAD**（**ノマド**）は[クリエイティブが製造販売を行っている](../Page/クリエイティブテクノロジー.md "wikilink")[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")のシリーズ。[フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")記録型から[マイクロドライブ](../Page/マイクロドライブ.md "wikilink")（[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")）記録型までラインナップが豊富。
 
 特に、1インチのマイクロドライブを他社に先駆けてデジタルオーディオプレーヤーに採用し、デジタルオーディオプレーヤーを流行させるきっかけにもなった。
 

@@ -15,7 +15,7 @@
 
 ### レギュラー
 
-  - [横山裕](https://ja.wikipedia.org/wiki/横山裕 "wikilink")（当時[関西ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")、現・[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
+  - [横山裕](../Page/横山裕.md "wikilink")（当時[関西ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")、現・[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
   - [渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（同上）
   - ほか
 

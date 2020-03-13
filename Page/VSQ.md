@@ -1,9 +1,9 @@
 > この記事は[VSQ](https://ja.wikipedia.org/wiki/VSQ)から翻訳されています。
 
 
-**株式会社VSQ**（ブイエスキュー\[1\]、*VSQ Co., Ltd.*）は、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")を拠点とする[番組制作会社](../Page/番組制作会社.md "wikilink")。[日本ポストプロダクション協会](https://ja.wikipedia.org/wiki/日本ポストプロダクション協会 "wikilink")加盟。
+**株式会社VSQ**（ブイエスキュー\[1\]、*VSQ Co., Ltd.*）は、[福岡県](../Page/福岡県.md "wikilink")を拠点とする[番組制作会社](../Page/番組制作会社.md "wikilink")。[日本ポストプロダクション協会](https://ja.wikipedia.org/wiki/日本ポストプロダクション協会 "wikilink")加盟。
 
-[テレビ西日本](../Page/テレビ西日本.md "wikilink")（TNC）の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")で、本社も[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[早良区](../Page/早良区.md "wikilink")[百道浜の](../Page/シーサイドももち.md "wikilink")[TNC放送会館](https://ja.wikipedia.org/wiki/TNC放送会館 "wikilink")内に同居する。
+[テレビ西日本](../Page/テレビ西日本.md "wikilink")（TNC）の[子会社](../Page/子会社.md "wikilink")で、本社も[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[早良区](../Page/早良区.md "wikilink")[百道浜の](../Page/シーサイドももち.md "wikilink")[TNC放送会館](https://ja.wikipedia.org/wiki/TNC放送会館 "wikilink")内に同居する。
 
 ## 沿革
 
@@ -14,7 +14,7 @@
 
 ## 主な制作番組
 
-  - 「[ももち浜ストア](https://ja.wikipedia.org/wiki/ももち浜ストア "wikilink")」などTNCの各種番組
+  - 「[ももち浜ストア](../Page/ももち浜ストア.md "wikilink")」などTNCの各種番組
   - 福岡県広報番組（2013年から3番組を一括制作し、テレビ局・県インターネットテレビサイトに配信）
       - 「ふくおか暮らしにプラス」（[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")）
       - 「[ふくおか新発見](https://ja.wikipedia.org/wiki/ふくおか新発見 "wikilink")」（[福岡放送](../Page/福岡放送.md "wikilink")）

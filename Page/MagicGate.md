@@ -1,7 +1,7 @@
 > この記事は[MagicGate](https://ja.wikipedia.org/wiki/MagicGate)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Memory_Stick_PRO_Duo_1GB.jpg "wikilink")\]\] **MagicGate**（マジックゲート、MG）は、[ソニー](../Page/ソニー.md "wikilink")が開発した、[デジタル著作権管理](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink")技術の名称。[OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")というデジタルコンテンツ著作権管理・保護・配信技術に深く関係している技術の一つである。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Memory_Stick_PRO_Duo_1GB.jpg "wikilink")\]\] **MagicGate**（マジックゲート、MG）は、[ソニー](../Page/ソニー.md "wikilink")が開発した、[デジタル著作権管理](../Page/デジタル著作権管理.md "wikilink")技術の名称。[OpenMG](https://ja.wikipedia.org/wiki/OpenMG "wikilink")というデジタルコンテンツ著作権管理・保護・配信技術に深く関係している技術の一つである。
 
 この技術は、同社が開発･発売している[メモリーカード](../Page/メモリーカード.md "wikilink")・[マジックゲートメモリースティック](../Page/メモリースティック.md "wikilink")、[メモリースティックPRO](https://ja.wikipedia.org/wiki/メモリースティック#メモリースティック_PRO "wikilink")、[マジックゲートメモリースティックDuo](https://ja.wikipedia.org/wiki/メモリースティック#メモリースティック_Duo "wikilink")、[メモリースティック PRO Duo](https://ja.wikipedia.org/wiki/メモリースティック#メモリースティック_PRO_Duo "wikilink")、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[メモリーカード](../Page/メモリーカード.md "wikilink")、そして[au携帯電話](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（外部メモリに[メモリースティック Duoを使用する機種](https://ja.wikipedia.org/wiki/メモリースティック_Duo "wikilink")）のセキュアデータの保存などに使用されている。
 

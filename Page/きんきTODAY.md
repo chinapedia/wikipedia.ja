@@ -5,7 +5,7 @@
 
 ## 概要
 
-読売テレビでは1982年3月まで、平日の17:10 - 17:30に関西ローカルの[ワイドニュース](../Page/ワイドニュース.md "wikilink")『[テレトーク10](https://ja.wikipedia.org/wiki/テレトーク10 "wikilink")』を編成。17:30 - 18:30の時間帯で子供向け[アニメ](../Page/アニメ.md "wikilink")を[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")した後に、全国ニュースの『[NNN JUST NEWS](../Page/NNN_JUST_NEWS.md "wikilink")』をはさんで、18:50 - 19:00に『[よみうりニュース](https://ja.wikipedia.org/wiki/よみうりニュース "wikilink")』を放送していた。
+読売テレビでは1982年3月まで、平日の17:10 - 17:30に関西ローカルの[ワイドニュース](../Page/ワイドニュース.md "wikilink")『[テレトーク10](https://ja.wikipedia.org/wiki/テレトーク10 "wikilink")』を編成。17:30 - 18:30の時間帯で子供向け[アニメ](../Page/アニメ.md "wikilink")を[再放送](../Page/再放送.md "wikilink")した後に、全国ニュースの『[NNN JUST NEWS](../Page/NNN_JUST_NEWS.md "wikilink")』をはさんで、18:50 - 19:00に『[よみうりニュース](https://ja.wikipedia.org/wiki/よみうりニュース "wikilink")』を放送していた。
 
 しかし、『テレトーク10』の前枠（17:00 - 17:10）で[日本テレビからのネット受けを実施していた](../Page/日本テレビ放送網.md "wikilink")『[読売新聞ニュース](../Page/読売新聞ニュース.md "wikilink")』の放送時間を、1982年4月の改編で15時台の後半へ繰り上げ。また、読売テレビの自社制作番組として、読売新聞大阪本社発行分夕刊の主要記事を紹介するようになった。そこで、17時台のローカルワイドニュース枠を、在阪民放他局が先に同種の番組（『[MBSナウ](../Page/MBSナウ.md "wikilink")』や『[たいむ6](../Page/たいむ6.md "wikilink")』）を放送していた18時台の前半へ移動。『テレトーク10』を終了させる代わりに、当番組の放送を開始した。
 
@@ -34,10 +34,10 @@
 
 ※[NNN地方局ではこの番組を放送していた頃](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、「[ニュースTODAY](https://ja.wikipedia.org/wiki/ニュースTODAY "wikilink")」と付くか、あるいはそれに類似した番組が放送されていた。
 
-  - [札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")「[STVニュースToday](../Page/STVニュースToday.md "wikilink")」
+  - [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")「[STVニュースToday](../Page/STVニュースToday.md "wikilink")」
   - [山形放送](../Page/山形放送.md "wikilink")「[YBCニュースToday](../Page/YBCニュースToday.md "wikilink")」
   - [宮城テレビ放送](../Page/宮城テレビ放送.md "wikilink")「[みやぎToday](https://ja.wikipedia.org/wiki/NNNみやぎToday "wikilink")」
-  - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")「[ふくしまToday](https://ja.wikipedia.org/wiki/NNNふくしまToday "wikilink")」
+  - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")「[ふくしまToday](../Page/NNNふくしまToday.md "wikilink")」
   - [中京テレビ放送](../Page/中京テレビ放送.md "wikilink")「[中京TODAY](../Page/中京TODAY.md "wikilink")」
   - [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")「[TODAYふくい](https://ja.wikipedia.org/wiki/TODAYふくい "wikilink")」など
 

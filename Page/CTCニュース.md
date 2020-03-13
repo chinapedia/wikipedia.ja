@@ -1,7 +1,7 @@
 > この記事は[CTC](https://ja.wikipedia.org/wiki/CTC)から翻訳されています。
 
 
-**CTCニュース**（シーティーシー ニュース）は、[千葉テレビにて毎日夕方](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")18:00 - 18:10\[1\]に放送されていた[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")番組である。
+**CTCニュース**（シーティーシー ニュース）は、[千葉テレビにて毎日夕方](../Page/千葉テレビ放送.md "wikilink")18:00 - 18:10\[1\]に放送されていた[ローカルニュース](https://ja.wikipedia.org/wiki/ローカルニュース "wikilink")番組である。
 
 ## 概要
 
@@ -27,7 +27,7 @@
 
   - CTCニュース 930ライフ
   - [ニュースC-MASTER](https://ja.wikipedia.org/wiki/ニュースC-MASTER "wikilink")
-  - [スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")
+  - [スポットニュース](../Page/スポットニュース.md "wikilink")
 
 [Category:千葉テレビの番組](https://ja.wikipedia.org/wiki/Category:千葉テレビの番組 "wikilink") [Category:関東・甲信越地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:関東・甲信越地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビのミニ番組 "wikilink") [Category:関東・甲信越地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:関東・甲信越地方のテレビの帯番組 "wikilink") [Category:東京電力一社提供番組](https://ja.wikipedia.org/wiki/Category:東京電力一社提供番組 "wikilink")
 

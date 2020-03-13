@@ -1,9 +1,9 @@
 > この記事は[EVENING GATE](https://ja.wikipedia.org/wiki/EVENING_GATE)から翻訳されています。
 
 
-『**EVENING GATE**』（イブニングゲート）は、[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[エフエム青森](../Page/エフエム青森.md "wikilink")で放送されていた[夕方ワイド番組](https://ja.wikipedia.org/wiki/夕方ワイド番組 "wikilink")である。放送時間は毎週月曜 - 木曜 17:00 - 18:55、金曜 16:00 - 18:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**EVENING GATE**』（イブニングゲート）は、[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[エフエム青森](../Page/エフエム青森.md "wikilink")で放送されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である。放送時間は毎週月曜 - 木曜 17:00 - 18:55、金曜 16:00 - 18:55 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
-16:00から放送の金曜版では、16時台に音楽特集コーナーと週末の情報コーナーと「[FM Radio Shopping](https://ja.wikipedia.org/wiki/FM_Radio_Shopping "wikilink")」のコーナーを、17時台にニュースと交通情報のコーナーを、18時台に音楽情報とエンターテイメント情報のコーナーを設けていた。18時台には他に音楽リクエストコーナー「REQUEST & ARTIST」もあり、同コーナーには歌手やミュージシャンがゲスト出演することがあった。
+16:00から放送の金曜版では、16時台に音楽特集コーナーと週末の情報コーナーと「[FM Radio Shopping](../Page/FM_Radio_Shopping.md "wikilink")」のコーナーを、17時台にニュースと交通情報のコーナーを、18時台に音楽情報とエンターテイメント情報のコーナーを設けていた。18時台には他に音楽リクエストコーナー「REQUEST & ARTIST」もあり、同コーナーには歌手やミュージシャンがゲスト出演することがあった。
 
 ## 出演者
 

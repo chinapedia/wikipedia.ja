@@ -11,7 +11,7 @@
   - シングル曲ではないが、ドリカムの代表曲の一つであり、数多くのアーティストにカバーされている。
   - DREAMS COME TRUEで演奏時間が最も長い曲で（7分20秒）、「未来予想図」と共に吉田が高校時代に作っていた曲だという。2年後の[1991年](../Page/1991年.md "wikilink")に発売された4thアルバム『[MILLION KISSES](../Page/MILLION_KISSES.md "wikilink")』に「未来予想図」が収録されるが、曲が出来たのはそちらの方が先だった為、そのままのタイトルでリリースされている\[1\]。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")発売の5thシングル「[笑顔の行方](../Page/笑顔の行方.md "wikilink")」のカップリング曲としてリカットされており、シングルバージョンの収録時間は6分32秒で、曲の最後でフェードアウトする様にアレンジされている。
-  - [調](https://ja.wikipedia.org/wiki/調 "wikilink")は[嬰ヘ長調](https://ja.wikipedia.org/wiki/嬰ヘ長調 "wikilink")（[変ト長調](https://ja.wikipedia.org/wiki/変ト長調 "wikilink")）\[2\]。
+  - [調](https://ja.wikipedia.org/wiki/調 "wikilink")は[嬰ヘ長調](../Page/嬰ヘ長調.md "wikilink")（[変ト長調](https://ja.wikipedia.org/wiki/変ト長調 "wikilink")）\[2\]。
   - [2007年](../Page/2007年.md "wikilink")には、本曲と「未来予想図」のアンサーソングとして「[ア・イ・シ・テ・ルのサイン 〜わたしたちの未来予想図〜](../Page/ア・イ・シ・テ・ルのサイン_〜わたしたちの未来予想図〜.md "wikilink")」と題してシングル化された。カップリングには**-VERSION '07-**と題してリメイク版が収録された。以降のベスト盤にはリメイク版を中心に収録されている。
 
 ### 定番曲として
@@ -33,7 +33,7 @@
   - [Acid Black Cherry](../Page/Acid_Black_Cherry.md "wikilink") - 2013年発売のアルバム『[Recreation 3](https://ja.wikipedia.org/wiki/Recreation_3 "wikilink")』収録。
   - [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink") - 2014年発売のトリビュート・アルバム『[私とドリカム -DREAMS COME TRUE 25th ANNIVERSARY BEST COVERS-](https://ja.wikipedia.org/wiki/私とドリカム_-DREAMS_COME_TRUE_25th_ANNIVERSARY_BEST_COVERS- "wikilink")』収録。
   - [當山みれい](https://ja.wikipedia.org/wiki/當山みれい "wikilink") - 2014年発売のシングル「[Fallin' Out/I Wanna NO feat.SHUN](https://ja.wikipedia.org/wiki/Fallin'_Out/I_Wanna_NO_feat.SHUN "wikilink")」初回生産限定盤に収録\[3\]。
-  - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink") - 2015年発売のトリビュート・アルバム『[私とドリカム2 -ドリカムワンダーランド2015 開催記念 BEST COVERS-](https://ja.wikipedia.org/wiki/私とドリカム2_-ドリカムワンダーランド2015_開催記念_BEST_COVERS- "wikilink")』収録。
+  - [三浦大知](../Page/三浦大知.md "wikilink") - 2015年発売のトリビュート・アルバム『[私とドリカム2 -ドリカムワンダーランド2015 開催記念 BEST COVERS-](https://ja.wikipedia.org/wiki/私とドリカム2_-ドリカムワンダーランド2015_開催記念_BEST_COVERS- "wikilink")』収録。
   - [クリス・ハート](https://ja.wikipedia.org/wiki/クリス・ハート "wikilink") - 2015年発売のトリビュート・アルバム『Heart Song III』収録。
   - [MACO](https://ja.wikipedia.org/wiki/MACO "wikilink") - 2016年発売のアルバム「love letter」[iTunes Store版に収録](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")\[4\]。
   - [ジェジュン](../Page/ジェジュン.md "wikilink") - 2019年発売のアルバム『Love Covers』収録。
@@ -54,7 +54,7 @@
 
 [Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:1989年の楽曲](https://ja.wikipedia.org/wiki/Category:1989年の楽曲 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink") [Category:変ト長調](https://ja.wikipedia.org/wiki/Category:変ト長調 "wikilink")
 
-1.  「ラジかるッ」の[博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")のコーナーより。
+1.  「ラジかるッ」の[博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")のコーナーより。
 2.
 3.
 4.

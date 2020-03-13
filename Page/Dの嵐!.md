@@ -1,17 +1,17 @@
 > この記事は[D!](https://ja.wikipedia.org/wiki/D!)から翻訳されています。
 
 
-『**Dの嵐\!**』（ディーのあらし\!）は、[日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")[2003年](../Page/2003年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月28日](../Page/9月28日.md "wikilink")、毎週[水曜日](../Page/水曜日.md "wikilink")深夜24時50分 - 25時20分に放送された[嵐の](../Page/嵐_\(グループ\).md "wikilink")[冠](https://ja.wikipedia.org/wiki/冠番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
+『**Dの嵐\!**』（ディーのあらし\!）は、[日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")[2003年](../Page/2003年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、毎週[水曜日](../Page/水曜日.md "wikilink")深夜24時50分 - 25時20分に放送された[嵐の](../Page/嵐_\(グループ\).md "wikilink")[冠](https://ja.wikipedia.org/wiki/冠番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
-嵐が好奇心の赴くままに取材・おバカを決行する[深夜番組](../Page/深夜番組.md "wikilink")である。「[Cの嵐\!](https://ja.wikipedia.org/wiki/Cの嵐! "wikilink")」の次番組で、「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」「[嵐の宿題くん](https://ja.wikipedia.org/wiki/嵐の宿題くん "wikilink")」と続く嵐の深夜番組シリーズの第2作。
+嵐が好奇心の赴くままに取材・おバカを決行する[深夜番組](../Page/深夜番組.md "wikilink")である。「[Cの嵐\!](../Page/Cの嵐!.md "wikilink")」の次番組で、「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」「[嵐の宿題くん](https://ja.wikipedia.org/wiki/嵐の宿題くん "wikilink")」と続く嵐の深夜番組シリーズの第2作。
 
 ## 概要
 
-前番組「[Cの嵐\!](https://ja.wikipedia.org/wiki/Cの嵐! "wikilink")」のコーナー企画「D（ドキュメント）の嵐\!」を番組として独立。[嵐が](../Page/嵐_\(グループ\).md "wikilink")「**ドキュメントプレス嵐**」の[記者](../Page/記者.md "wikilink")に扮し、取材を行う。2004年秋に番組内容をリニューアルしてからは、「**バカ好奇心**」をテーマに対決方式となった。
+前番組「[Cの嵐\!](../Page/Cの嵐!.md "wikilink")」のコーナー企画「D（ドキュメント）の嵐\!」を番組として独立。[嵐が](../Page/嵐_\(グループ\).md "wikilink")「**ドキュメントプレス嵐**」の[記者](../Page/記者.md "wikilink")に扮し、取材を行う。2004年秋に番組内容をリニューアルしてからは、「**バカ好奇心**」をテーマに対決方式となった。
 
 その他に、個人のメインコーナーをはじめとするコーナー企画も放送され、なかでもおバカ実験企画「Aの嵐\!」、[嵐の](../Page/嵐_\(グループ\).md "wikilink")5人が[パジャマ](https://ja.wikipedia.org/wiki/パジャマ "wikilink")で遊ぶだけの「うだうだスペシャル」は、以降の番組に引き継がれている。
 
-[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")は[柴田秀勝](../Page/柴田秀勝.md "wikilink")と、「[Cの嵐\!](https://ja.wikipedia.org/wiki/Cの嵐! "wikilink")」に続き[小林清志](../Page/小林清志.md "wikilink")。
+[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")は[柴田秀勝](../Page/柴田秀勝.md "wikilink")と、「[Cの嵐\!](../Page/Cの嵐!.md "wikilink")」に続き[小林清志](../Page/小林清志.md "wikilink")。
 
 [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")では「嵐のD級教室」というタイトルで放送（日本のテレビ番組専門チャンネル[緯來日本台にて](https://ja.wikipedia.org/wiki/:zh:緯來日本台 "wikilink")）。
 
@@ -21,15 +21,15 @@
 
 [嵐が映像配信会社](../Page/嵐_\(グループ\).md "wikilink")「**ドキュメントプレス嵐**」の[記者](../Page/記者.md "wikilink")に扮し、「見てみたいけど普段見られないもの」を取材する。 取材協力者には番組公式サイトでの投票結果から算出された賞金（1ポイントにつき100円）が贈られる。
 
-「**ドキュメントプレス嵐**」の社長は[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")（[少年隊](../Page/少年隊.md "wikilink")）だが、出演はしていない。 （[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")は前番組「[Cの嵐\!](https://ja.wikipedia.org/wiki/Cの嵐! "wikilink")」では「クレームエージェント嵐」の部長、次番組「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」では「嵐応援団」の団長も務めている。）
+「**ドキュメントプレス嵐**」の社長は[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")（[少年隊](../Page/少年隊.md "wikilink")）だが、出演はしていない。 （[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")は前番組「[Cの嵐\!](../Page/Cの嵐!.md "wikilink")」では「クレームエージェント嵐」の部長、次番組「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」では「嵐応援団」の団長も務めている。）
 
-[スタジオでは](https://ja.wikipedia.org/wiki/スタジオ_\(映像撮影\) "wikilink")[嵐が並んで](../Page/嵐_\(グループ\).md "wikilink")2台の[ソファ](../Page/ソファ.md "wikilink")に座っている（右のソファに右から相葉・松本・二宮、左のソファに右から大野・櫻井）。 ソファーの前には小さな[テーブルがあり](../Page/テーブル_\(家具\).md "wikilink")、後方には[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")社長の[ネームプレート](https://ja.wikipedia.org/wiki/ネームプレート "wikilink")の載ったデスクやボードが置かれている。
+[スタジオでは](../Page/スタジオ_\(映像撮影\).md "wikilink")[嵐が並んで](../Page/嵐_\(グループ\).md "wikilink")2台の[ソファ](../Page/ソファ.md "wikilink")に座っている（右のソファに右から相葉・松本・二宮、左のソファに右から大野・櫻井）。 ソファーの前には小さな[テーブルがあり](../Page/テーブル_\(家具\).md "wikilink")、後方には[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")社長の[ネームプレート](https://ja.wikipedia.org/wiki/ネームプレート "wikilink")の載ったデスクやボードが置かれている。
 
 比較的重いテーマの企画が多かったが、「自称・日本一巨漢」の目黒さんの企画は目黒さん自身が応募。「太っていることがコンプレックス」というネガティヴな悩みは一切なく、「太っているが故に多少人より生活が大変」という事であり、仕事もしており、生活水準は高い方だった。さらに目黒さんは明るく人見知りせず、「目立ちたい」や「芸能人になりたい」という願望もなく、若干変わり者な事から反響が大きく、一時期は月に一度嵐に会っていた。嵐も目黒さんのキャラクターから歳上ながらタメ口で友人のように接し「みんな大好き目黒兄やん」と呼ばれていた。しかし、目黒さんは北海道で仕事をしているため、東京に来れるのは休みの日だけであり、ビデオレターを送っていたが、夏以降仕事が多忙で半年間出演することが出来なかった。こっそり嵐が歌番組に出演中に見学した際には「あれ衣装なのかなぁ？」と若干ズレた事を考えていた。半年後再会した際に100kgのダイエットに成功。しばらく会う事はなかったが、「うだうだSP」にてドッキリで登場。再会に嵐は大喜びしていたが、目黒さんは相変わらずのテンションだった。
 
 ### DVD
 
-「[Cの嵐\!](https://ja.wikipedia.org/wiki/Cの嵐! "wikilink")」「Dの嵐\!」「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」の内容を抜粋した[DVD](../Page/DVD.md "wikilink")「C×D×G no ARASHI\! Vol.1」「C×D×G no ARASHI\! Vol.2」が2006年11月に[バップ](../Page/バップ.md "wikilink")より発売されている。「Dの嵐\!」からは「ほっといたらどうなる?」、「できる\!?できない\!?」、「逆回転（逆再生）」、「自称日本一の巨漢」、「Aの嵐\!」を収録。このDVDは大手オンラインストア[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")のDVD売り上げランキングで1位を記録した。
+「[Cの嵐\!](../Page/Cの嵐!.md "wikilink")」「Dの嵐\!」「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」の内容を抜粋した[DVD](../Page/DVD.md "wikilink")「C×D×G no ARASHI\! Vol.1」「C×D×G no ARASHI\! Vol.2」が2006年11月に[バップ](../Page/バップ.md "wikilink")より発売されている。「Dの嵐\!」からは「ほっといたらどうなる?」、「できる\!?できない\!?」、「逆回転（逆再生）」、「自称日本一の巨漢」、「Aの嵐\!」を収録。このDVDは大手オンラインストア[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")のDVD売り上げランキングで1位を記録した。
 
 ## 放送内容
 
@@ -75,7 +75,7 @@
 <td><p>3</p></td>
 <td><p>7月16日</p></td>
 <td><p>大野</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/秩父山地" title="wikilink">秩父山地</a>の<a href="../Page/鍾乳洞.md" title="wikilink">鍾乳洞</a>の奥にある地底湖 石舟沢</p></td>
+<td><p><a href="../Page/秩父山地.md" title="wikilink">秩父山地</a>の<a href="../Page/鍾乳洞.md" title="wikilink">鍾乳洞</a>の奥にある地底湖 石舟沢</p></td>
 </tr>
 <tr class="even">
 <td><p>松本</p></td>
@@ -129,7 +129,7 @@
 <td><p>9</p></td>
 <td><p>8月27日</p></td>
 <td><p>二宮</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/性別適合手術" title="wikilink">性別適合手術</a>をした人の<a href="https://ja.wikipedia.org/wiki/X線写真" title="wikilink">X線写真</a></p></td>
+<td><p><a href="../Page/性別適合手術.md" title="wikilink">性別適合手術</a>をした人の<a href="https://ja.wikipedia.org/wiki/X線写真" title="wikilink">X線写真</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>大野</p></td>
@@ -226,7 +226,7 @@
 </tr>
 <tr class="even">
 <td><p>相葉</p></td>
-<td><p>野生の<a href="https://ja.wikipedia.org/wiki/キクラゲ" title="wikilink">キクラゲ</a></p></td>
+<td><p>野生の<a href="../Page/キクラゲ.md" title="wikilink">キクラゲ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -244,7 +244,7 @@
 </tr>
 <tr class="odd">
 <td><p>大野・櫻井</p></td>
-<td><p>中身を見る - <a href="https://ja.wikipedia.org/wiki/便秘" title="wikilink">便秘</a>のお腹（<a href="https://ja.wikipedia.org/wiki/X線写真" title="wikilink">X線写真</a>）、<a href="https://ja.wikipedia.org/wiki/かに道楽" title="wikilink">かに道楽</a>の冷蔵庫</p></td>
+<td><p>中身を見る - <a href="../Page/便秘.md" title="wikilink">便秘</a>のお腹（<a href="https://ja.wikipedia.org/wiki/X線写真" title="wikilink">X線写真</a>）、<a href="../Page/かに道楽.md" title="wikilink">かに道楽</a>の冷蔵庫</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -334,7 +334,7 @@
 <td><p>32</p></td>
 <td><p>2月11日</p></td>
 <td><p>相葉</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新宿中央公園" title="wikilink">新宿中央公園</a>の<a href="../Page/ホームレス.md" title="wikilink">ホームレス</a></p></td>
+<td><p><a href="../Page/新宿中央公園.md" title="wikilink">新宿中央公園</a>の<a href="../Page/ホームレス.md" title="wikilink">ホームレス</a></p></td>
 </tr>
 <tr class="even">
 <td><p>33</p></td>
@@ -378,7 +378,7 @@
 <td><p>「動物の疑問<br />
 大解決スペシャル」<br />
 （ロケ地： <a href="../Page/市原ぞうの国.md" title="wikilink">市原ぞうの国</a>）</p></td>
-<td><p><a href="../Page/シマウマ.md" title="wikilink">シマウマ</a>の地肌は<a href="https://ja.wikipedia.org/wiki/縞模様" title="wikilink">縞模様</a>か</p></td>
+<td><p><a href="../Page/シマウマ.md" title="wikilink">シマウマ</a>の地肌は<a href="../Page/縞模様.md" title="wikilink">縞模様</a>か</p></td>
 </tr>
 <tr class="odd">
 <td><p>ライオンは<a href="../Page/エノコログサ.md" title="wikilink">エノコログサ</a>にじゃれるか</p></td>
@@ -519,7 +519,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/性別適合手術" title="wikilink">性別適合手術</a>をした元男性をお手入れなしで3日間ほっといたら?</p></td>
+<td><p><a href="../Page/性別適合手術.md" title="wikilink">性別適合手術</a>をした元男性をお手入れなしで3日間ほっといたら?</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -714,7 +714,7 @@
 <tr class="even">
 <td><p>64</p></td>
 <td><p>9月22日</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/廃墟" title="wikilink">廃墟</a>ツアー」</p></td>
+<td><p>「<a href="../Page/廃墟.md" title="wikilink">廃墟</a>ツアー」</p></td>
 <td><p>11年前に閉鎖したテーマパーク（<a href="https://ja.wikipedia.org/wiki/アリスの森" title="wikilink">アリスの森</a>）<br />
 12年前に突然閉鎖した廃病院</p></td>
 </tr>
@@ -903,7 +903,7 @@
 <td><p>70</p></td>
 <td><p>11月3日</p></td>
 <td><p>二宮・大野</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柳沢慎吾" title="wikilink">柳沢慎吾</a></p></td>
+<td><p><a href="../Page/柳沢慎吾.md" title="wikilink">柳沢慎吾</a></p></td>
 <td><p>アノ中が見たい!</p></td>
 <td><p>カンガルーの袋の中</p></td>
 </tr>
@@ -1057,7 +1057,7 @@
 <td><p>76</p></td>
 <td><p>12月15日</p></td>
 <td><p>二宮・大野</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/古田新太" title="wikilink">古田新太</a></p></td>
+<td><p><a href="../Page/古田新太.md" title="wikilink">古田新太</a></p></td>
 <td><p>ほっといたら<br />
 どうなる?</p></td>
 <td><p>シャンパンの瓶の針金を外してほっといたらどうなる?</p></td>
@@ -1279,7 +1279,7 @@
 <td><p>86</p></td>
 <td><p>3月2日</p></td>
 <td><p>相葉・松本・櫻井</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千秋_(タレント)" title="wikilink">千秋</a></p></td>
+<td><p><a href="../Page/千秋_(タレント).md" title="wikilink">千秋</a></p></td>
 <td><p>原材料からアレ<br />
 を作ってみよう!</p></td>
 <td><p>商品に書かれた原材料から実際に作ってみる<br />
@@ -1651,7 +1651,7 @@
 <td><p>103</p></td>
 <td><p>6月29日</p></td>
 <td><p>相葉・二宮・櫻井</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポカスカジャン" title="wikilink">ポカスカジャン</a></p></td>
+<td><p><a href="../Page/ポカスカジャン.md" title="wikilink">ポカスカジャン</a></p></td>
 <td><p>巨大魚捕獲<br />
 作戦第3弾</p></td>
 <td></td>
@@ -1672,7 +1672,7 @@
 <td><p><a href="../Page/木村祐一.md" title="wikilink">木村祐一</a></p></td>
 <td><p>東京一の売れ残りを<br />
 見てみよう!</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高岩寺#地蔵通り商店街" title="wikilink">地蔵通り商店街</a>（<a href="https://ja.wikipedia.org/wiki/巣鴨" title="wikilink">巣鴨</a>）、谷中銀座商店街（<a href="https://ja.wikipedia.org/wiki/谷中_(台東区)" title="wikilink">谷中</a>）、浅草、北品川商店街（<a href="https://ja.wikipedia.org/wiki/品川_(東京都)" title="wikilink">品川</a>）の商店をめぐり売れ残り商品を探す</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高岩寺#地蔵通り商店街" title="wikilink">地蔵通り商店街</a>（<a href="../Page/巣鴨.md" title="wikilink">巣鴨</a>）、谷中銀座商店街（<a href="../Page/谷中_(台東区).md" title="wikilink">谷中</a>）、浅草、北品川商店街（<a href="../Page/品川_(東京都).md" title="wikilink">品川</a>）の商店をめぐり売れ残り商品を探す</p></td>
 </tr>
 <tr class="odd">
 <td><p>106</p></td>
@@ -1917,21 +1917,21 @@
 
 #### Tの嵐\! (仮)
 
-| 放送日         | テーマ                                                                                           | 紹介された投稿                                                                                                                                                                                                                                 |
-| ----------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2003年7月23日  | バス停                                                                                           | [三途川](https://ja.wikipedia.org/wiki/三途川 "wikilink")（[羽後交通](https://ja.wikipedia.org/wiki/羽後交通 "wikilink")）、ねぎ屋敷（[岩手県交通](../Page/岩手県交通.md "wikilink")）、途中（[江若交通](../Page/江若交通.md "wikilink")）、しばられ地蔵（[京成バス](../Page/京成バス.md "wikilink")） |
-| 2003年8月6日   | バス停                                                                                           | 働く女性の家前（[海津市営バス](https://ja.wikipedia.org/wiki/海津市営バス "wikilink")）、蟻の首（[詫間町](https://ja.wikipedia.org/wiki/詫間町 "wikilink")営バス）、まじ（[備北バス](../Page/備北バス.md "wikilink")）、机（[庄内交通](../Page/庄内交通.md "wikilink")）                             |
-| 2003年9月10日  | 巨大なもの                                                                                         | 巨大な天狗のお面、ダイコン、カボチャ、タヌキの焼き物                                                                                                                                                                                                              |
-| 2003年9月17日  | 巨大なもの                                                                                         | 巨大な五円硬貨、ヒマワリ、土偶（木造駅）、クラッカー                                                                                                                                                                                                              |
-| 2003年9月24日  | 住みずらそうな物件                                                                                     | 斜めに傾斜した家、奥行き90cmの焼き鳥屋、書割の貼られたプレハブ工法|プレハブ住宅                                                                                                                                                                                              |
-| バス停         | [休暇村](../Page/休暇村.md "wikilink")（[南伊豆東海バス](https://ja.wikipedia.org/wiki/南伊豆東海バス "wikilink")） |                                                                                                                                                                                                                                         |
-| 2003年10月15日 | 駅                                                                                             | バスケットボールのゴールがある駅（[能代駅](../Page/能代駅.md "wikilink")）、地上20mにある駅（[宇都井駅](../Page/宇都井駅.md "wikilink")）、河童の駅舎（[田主丸駅](https://ja.wikipedia.org/wiki/田主丸駅 "wikilink")）、理髪店でもある駅（中泉駅）                                                             |
-| 2003年10月22日 | メニュー                                                                                          | ライス付きチャーハン、伊勢エビール、海鮮パフェ（[鳥羽市](../Page/鳥羽市.md "wikilink")）、スイカ定食（[南国市](../Page/南国市.md "wikilink")）                                                                                                                                       |
-| 2004年1月21日  | トイレ                                                                                           | 便器が顔のトイレ、庭園のあるトイレ（[越前町](https://ja.wikipedia.org/wiki/越前町 "wikilink")）、男性用・和式・洋式の便器が揃ったトイレ、トイレットペーパーのホルダーが12個あるトイレ                                                                                                                      |
-| 2004年3月10日  | 短いもの                                                                                          | 5段のエスカレータ（川崎モアーズ）、65cmのガードレール（[豊川市](../Page/豊川市.md "wikilink")）、7mのトンネル（[地名駅](../Page/地名駅.md "wikilink")）、一礼で終わる[塩嶺御野立記念祭](../Page/塩嶺御野立記念祭.md "wikilink")                                                                              |
-| 2004年5月19日  | これ本物?と思うもの                                                                                    | ドラえもん (架空のキャラクター)|ドラえもんの小便小僧など                                                                                                                                                                                                          |
-| 2004年9月8日   | 恐怖写真                                                                                          | 鬼死骸（[宮交栗原バス](https://ja.wikipedia.org/wiki/宮交栗原バス "wikilink")のバス停）、ギロチン工場 鬼頭商店（[桑名市](../Page/桑名市.md "wikilink")）、[ハニベ大仏](../Page/ハニベ大仏.md "wikilink")、マネキン人形の首を利用した植木鉢（[鎌倉市](../Page/鎌倉市.md "wikilink")）                                |
-| 2005年2月16日  | 雑誌                                                                                            | 月刊食堂（[柴田書店](../Page/柴田書店.md "wikilink")）、月刊学校給食（全国学校給食協会）、月刊表面（広信社）、月刊むし（むし社）                                                                                                                                                           |
+| 放送日         | テーマ                                                                        | 紹介された投稿                                                                                                                                                                                                  |
+| ----------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2003年7月23日  | バス停                                                                        | [三途川](../Page/三途川.md "wikilink")（[羽後交通](../Page/羽後交通.md "wikilink")）、ねぎ屋敷（[岩手県交通](../Page/岩手県交通.md "wikilink")）、途中（[江若交通](../Page/江若交通.md "wikilink")）、しばられ地蔵（[京成バス](../Page/京成バス.md "wikilink")）        |
+| 2003年8月6日   | バス停                                                                        | 働く女性の家前（[海津市営バス](https://ja.wikipedia.org/wiki/海津市営バス "wikilink")）、蟻の首（[詫間町](../Page/詫間町.md "wikilink")営バス）、まじ（[備北バス](../Page/備北バス.md "wikilink")）、机（[庄内交通](../Page/庄内交通.md "wikilink")）                 |
+| 2003年9月10日  | 巨大なもの                                                                      | 巨大な天狗のお面、ダイコン、カボチャ、タヌキの焼き物                                                                                                                                                                               |
+| 2003年9月17日  | 巨大なもの                                                                      | 巨大な五円硬貨、ヒマワリ、土偶（木造駅）、クラッカー                                                                                                                                                                               |
+| 2003年9月24日  | 住みずらそうな物件                                                                  | 斜めに傾斜した家、奥行き90cmの焼き鳥屋、書割の貼られたプレハブ工法|プレハブ住宅                                                                                                                                                               |
+| バス停         | [休暇村](../Page/休暇村.md "wikilink")（[南伊豆東海バス](../Page/南伊豆東海バス.md "wikilink")） |                                                                                                                                                                                                          |
+| 2003年10月15日 | 駅                                                                          | バスケットボールのゴールがある駅（[能代駅](../Page/能代駅.md "wikilink")）、地上20mにある駅（[宇都井駅](../Page/宇都井駅.md "wikilink")）、河童の駅舎（[田主丸駅](../Page/田主丸駅.md "wikilink")）、理髪店でもある駅（中泉駅）                                                 |
+| 2003年10月22日 | メニュー                                                                       | ライス付きチャーハン、伊勢エビール、海鮮パフェ（[鳥羽市](../Page/鳥羽市.md "wikilink")）、スイカ定食（[南国市](../Page/南国市.md "wikilink")）                                                                                                        |
+| 2004年1月21日  | トイレ                                                                        | 便器が顔のトイレ、庭園のあるトイレ（[越前町](../Page/越前町.md "wikilink")）、男性用・和式・洋式の便器が揃ったトイレ、トイレットペーパーのホルダーが12個あるトイレ                                                                                                          |
+| 2004年3月10日  | 短いもの                                                                       | 5段のエスカレータ（川崎モアーズ）、65cmのガードレール（[豊川市](../Page/豊川市.md "wikilink")）、7mのトンネル（[地名駅](../Page/地名駅.md "wikilink")）、一礼で終わる[塩嶺御野立記念祭](../Page/塩嶺御野立記念祭.md "wikilink")                                               |
+| 2004年5月19日  | これ本物?と思うもの                                                                 | ドラえもん (架空のキャラクター)|ドラえもんの小便小僧など                                                                                                                                                                           |
+| 2004年9月8日   | 恐怖写真                                                                       | 鬼死骸（[宮交栗原バス](https://ja.wikipedia.org/wiki/宮交栗原バス "wikilink")のバス停）、ギロチン工場 鬼頭商店（[桑名市](../Page/桑名市.md "wikilink")）、[ハニベ大仏](../Page/ハニベ大仏.md "wikilink")、マネキン人形の首を利用した植木鉢（[鎌倉市](../Page/鎌倉市.md "wikilink")） |
+| 2005年2月16日  | 雑誌                                                                         | 月刊食堂（[柴田書店](../Page/柴田書店.md "wikilink")）、月刊学校給食（全国学校給食協会）、月刊表面（広信社）、月刊むし（むし社）                                                                                                                            |
 
 #### Cの嵐\!
 
@@ -2001,7 +2001,7 @@
 
 | 放送日        | 取材担当者 | テーマ                                 | 法則                                                                                                                                                                                                                                      |
 | ---------- | ----- | ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2004年4月7日  | 二宮・大野 | 日本在住インド人                            | 神様の部屋、カレー、タワー（[チャパティ](../Page/チャパティ.md "wikilink")を焼く鉄板）、[ギー](https://ja.wikipedia.org/wiki/ギー "wikilink")、[チャイ](../Page/チャイ.md "wikilink")、ヨーガの本、インド映画「炎（Sholay）」                                                                      |
+| 2004年4月7日  | 二宮・大野 | 日本在住インド人                            | 神様の部屋、カレー、タワー（[チャパティ](../Page/チャパティ.md "wikilink")を焼く鉄板）、[ギー](../Page/ギー.md "wikilink")、[チャイ](../Page/チャイ.md "wikilink")、ヨーガの本、インド映画「炎（Sholay）」                                                                                         |
 | 2004年4月21日 | 大野・櫻井 | 日本在住メキシコ人                           | サボテン、ソンブレロ、[ポンチョ](../Page/ポンチョ.md "wikilink")、[トルティーヤ](../Page/トルティーヤ.md "wikilink")、トルティーヤの容器、[太陽の石](../Page/太陽の石.md "wikilink")、[カンティンフラス](../Page/カンティンフラス.md "wikilink")の人形、[サルサ](../Page/サルサ_\(料理\).md "wikilink")、サラペ（絨毯）、マラカス、骸骨 |
 | 2004年6月30日 | 相葉・松本 | [暴走族](../Page/暴走族.md "wikilink")の女性 | ブーツ、雑誌「[チャンプロード](../Page/チャンプロード.md "wikilink")」、特攻服、漫画「[番長連合](../Page/番長連合.md "wikilink")」、ぬいぐるみ、オーバーオール                                                                                                                               |
 
@@ -2048,7 +2048,7 @@
 <!-- end list -->
 
   -
-    パジャマ姿で遊びながら（[羽根突き](https://ja.wikipedia.org/wiki/羽根突き "wikilink")、[マジカルバナナ](https://ja.wikipedia.org/wiki/マジカル頭脳パワー!!#マジカルバナナ "wikilink")、焼きそば、書き初め）、視聴者が選んだ名場面、未公開映像などを紹介。
+    パジャマ姿で遊びながら（[羽根突き](../Page/羽根突き.md "wikilink")、[マジカルバナナ](https://ja.wikipedia.org/wiki/マジカル頭脳パワー!!#マジカルバナナ "wikilink")、焼きそば、書き初め）、視聴者が選んだ名場面、未公開映像などを紹介。
 
 <!-- end list -->
 
@@ -2066,7 +2066,7 @@
 <!-- end list -->
 
   -
-    [特別番組](../Page/特別番組.md "wikilink")「オーストラリア大陸縦断\!激闘3000キロ ウルトラストロングゲーム」のオーストラリアロケに番組スタッフが同行して撮影。出発前の[成田国際空港](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink")、ロケの休憩時間、パジャマ姿の就寝前（英語禁止しりとり）が収録された。
+    [特別番組](../Page/特別番組.md "wikilink")「オーストラリア大陸縦断\!激闘3000キロ ウルトラストロングゲーム」のオーストラリアロケに番組スタッフが同行して撮影。出発前の[成田国際空港](../Page/成田国際空港.md "wikilink")、ロケの休憩時間、パジャマ姿の就寝前（英語禁止しりとり）が収録された。
 
 <!-- end list -->
 
@@ -2084,7 +2084,7 @@
 <!-- end list -->
 
   -
-    [浴衣](https://ja.wikipedia.org/wiki/浴衣 "wikilink")姿で未公開映像を紹介。
+    [浴衣](../Page/浴衣.md "wikilink")姿で未公開映像を紹介。
 
 #### Mの嵐\!
 
@@ -2105,7 +2105,7 @@
 <tr class="even">
 <td><p>2004年8月18日</p></td>
 <td><p>大野</p></td>
-<td><p>松本への誕生日プレゼントを落としたという用水路（<a href="https://ja.wikipedia.org/wiki/八潮市" title="wikilink">八潮市</a>）から<a href="https://ja.wikipedia.org/wiki/不法投棄" title="wikilink">不法投棄</a>されたごみを<br />
+<td><p>松本への誕生日プレゼントを落としたという用水路（<a href="https://ja.wikipedia.org/wiki/八潮市" title="wikilink">八潮市</a>）から<a href="../Page/不法投棄.md" title="wikilink">不法投棄</a>されたごみを<br />
 引き上げる</p></td>
 </tr>
 <tr class="odd">
@@ -2125,7 +2125,7 @@
 </tr>
 <tr class="even">
 <td><p>大野</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/紙吹雪" title="wikilink">紙吹雪</a>をまく</p></td>
+<td><p><a href="../Page/紙吹雪.md" title="wikilink">紙吹雪</a>をまく</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2153,7 +2153,7 @@
 
 ## 朝なのにDの嵐\!
 
-**朝なのにDの嵐\!**は、[日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")、[4月23日](../Page/4月23日.md "wikilink")、10時30分 - 11時25分に放送された[特別番組](../Page/特別番組.md "wikilink")。
+**朝なのにDの嵐\!**は、[日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")[2005年](../Page/2005年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")、[4月23日](../Page/4月23日.md "wikilink")、10時30分 - 11時25分に放送された[特別番組](../Page/特別番組.md "wikilink")。
 
   - **朝なのにDの嵐\!**
 
@@ -2200,7 +2200,7 @@
 <!-- end list -->
 
   -
-    「[Cの嵐\!](https://ja.wikipedia.org/wiki/Cの嵐! "wikilink")」の前番組。「Dの嵐\!」のシリーズとはスタッフが異なる。
+    「[Cの嵐\!](../Page/Cの嵐!.md "wikilink")」の前番組。「Dの嵐\!」のシリーズとはスタッフが異なる。
 
 ## 外部リンク
 

@@ -29,7 +29,7 @@ Pentium Mは、IA-32の[64ビット](https://ja.wikipedia.org/wiki/64ビット "
 
 モバイルに向かない[NetBurstマイクロアーキテクチャ](../Page/NetBurstマイクロアーキテクチャ.md "wikilink")の代替として開発され、絶対的な性能よりもクロックあたりの処理性能を重視している。[NetBurstマイクロアーキテクチャ](../Page/NetBurstマイクロアーキテクチャ.md "wikilink")のパイプラインを深くし、高クロック化で性能を稼ぐという方向性は抑えられている。その一方でCPUバス周りはNetBurst系の高速なバスを組み合わせており、バス周りがボトルネックとなることを抑えている。
 
-クロックあたりの性能が高く、約1.5倍のクロックの Pentium 4 に匹敵する性能を発揮し、Pentium M の2GHz、Pentium 4 の2.8 GHz 、[Athlon 64](https://ja.wikipedia.org/wiki/Athlon_64 "wikilink") 2800+（1.8 GHz）がおおよそ同じくらいの性能だと言われている。また、低消費電力であるため、発熱が減少し、大型化・高コスト化する一方であった[CPUの冷却装置](../Page/CPUの冷却装置.md "wikilink")の小型化に貢献した。
+クロックあたりの性能が高く、約1.5倍のクロックの Pentium 4 に匹敵する性能を発揮し、Pentium M の2GHz、Pentium 4 の2.8 GHz 、[Athlon 64](../Page/Athlon_64.md "wikilink") 2800+（1.8 GHz）がおおよそ同じくらいの性能だと言われている。また、低消費電力であるため、発熱が減少し、大型化・高コスト化する一方であった[CPUの冷却装置](../Page/CPUの冷却装置.md "wikilink")の小型化に貢献した。
 
 低消費電力と高いパフォーマンスが評価され、モバイルのみならず、モバイル・オン・デスクトップ（MoDT）としての用途に注目が集まった。 デスクトップで Pentium M を使うために、Pentium M 用の[Socket 479](https://ja.wikipedia.org/wiki/Socket_479 "wikilink")（Socket 479M）を使用したデスクトップパソコン向けの[マザーボード](../Page/マザーボード.md "wikilink")も数社から発売された。さらには[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")のマザーボードメーカーの[ASUS](../Page/ASUS.md "wikilink")より、Pentium M(および[Celeron M](https://ja.wikipedia.org/wiki/Celeron_M "wikilink")) を Pentium 4 などに使用されるデスクトップ用の[Socket 478を備えるマザーボードで使用できる](https://ja.wikipedia.org/wiki/Socket_478 "wikilink")[CPU変換アダプタ](../Page/ゲタ_\(CPU\).md "wikilink")（CT-479）も発売された。この製品は、正式には同社製の限られたマザーボードのみで使用できるとされる\[2\]。[Intel SpeedStep テクノロジは公式には機能しないとされる](../Page/Intel_SpeedStep_テクノロジ.md "wikilink")\[3\]。動作にはマザーボードの [BIOS](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink") の[アップデート](https://ja.wikipedia.org/wiki/アップデート "wikilink")が必要。
 
@@ -56,9 +56,9 @@ Pentium Mは、IA-32の[64ビット](https://ja.wikipedia.org/wiki/64ビット "
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Pentium_M_Dothan.jpg "wikilink") 90nmプロセスで製造された。[プロセッサー・ナンバー](../Page/プロセッサー・ナンバー.md "wikilink")はBanias同様700番台。
 
-改良版（Dothan-533）が新チップセット Intel 915 シリーズとともに[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月19日](../Page/1月19日.md "wikilink")に発表される。FSBが400MHzから533MHzに向上した以外はDothanと同一。「ソノマ（Sonoma）」というコードネームで呼ばれた第2世代セントリーノ・プラットフォームとともに用いられる。
+改良版（Dothan-533）が新チップセット Intel 915 シリーズとともに[2005年](../Page/2005年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")に発表される。FSBが400MHzから533MHzに向上した以外はDothanと同一。「ソノマ（Sonoma）」というコードネームで呼ばれた第2世代セントリーノ・プラットフォームとともに用いられる。
 
-同時発表されたチップセットIntel 915シリーズ（正式には「モバイルIntel 915 Expressチップセットファミリ」)は、FSB533/400MHzに対応し、[PCI Expressが使用可能](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")。[DDR2 SDRAMも利用可能になり](../Page/DDR2_SDRAM.md "wikilink")、消費電力を削減できる。 グラフィックス・メディア・アクセラレータ 900（[GMA](https://ja.wikipedia.org/wiki/Intel_GMA "wikilink") 900）が統合された 915G チップセット・ファミリはグラフィックス性能を従来製品よりも大幅に向上し、T\&L にハードウェアレベルで対応していないことなどを除けば、低価格向けの[GPUと同程度の性能を有する](../Page/Graphics_Processing_Unit.md "wikilink")。なお、GMA900 では [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") の [Windows Aero](../Page/Windows_Aero.md "wikilink") ([DWM](https://ja.wikipedia.org/wiki/Desktop_Window_Manager "wikilink"))は使用できない。GMA900 の後継グラフィックである GMA950 では Windows Aero に対応している。 組み合わされる [ICH](https://ja.wikipedia.org/wiki/I/O_コントローラー・ハブ "wikilink") は ICH6M で、最大32[ビット](../Page/ビット.md "wikilink")/192 [kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink") 対応の [HD Audio](https://ja.wikipedia.org/wiki/High_Definition_Audio "wikilink") や[シリアルATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")が使用できる。
+同時発表されたチップセットIntel 915シリーズ（正式には「モバイルIntel 915 Expressチップセットファミリ」)は、FSB533/400MHzに対応し、[PCI Expressが使用可能](../Page/PCI_Express.md "wikilink")。[DDR2 SDRAMも利用可能になり](../Page/DDR2_SDRAM.md "wikilink")、消費電力を削減できる。 グラフィックス・メディア・アクセラレータ 900（[GMA](https://ja.wikipedia.org/wiki/Intel_GMA "wikilink") 900）が統合された 915G チップセット・ファミリはグラフィックス性能を従来製品よりも大幅に向上し、T\&L にハードウェアレベルで対応していないことなどを除けば、低価格向けの[GPUと同程度の性能を有する](../Page/Graphics_Processing_Unit.md "wikilink")。なお、GMA900 では [Windows Vista](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") の [Windows Aero](../Page/Windows_Aero.md "wikilink") ([DWM](https://ja.wikipedia.org/wiki/Desktop_Window_Manager "wikilink"))は使用できない。GMA900 の後継グラフィックである GMA950 では Windows Aero に対応している。 組み合わされる [ICH](https://ja.wikipedia.org/wiki/I/O_コントローラー・ハブ "wikilink") は ICH6M で、最大32[ビット](../Page/ビット.md "wikilink")/192 [kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink") 対応の [HD Audio](https://ja.wikipedia.org/wiki/High_Definition_Audio "wikilink") や[シリアルATA](https://ja.wikipedia.org/wiki/シリアルATA "wikilink")が使用できる。
 
   - Dothan 標準電圧版、FSBはいずれも400MHz
     {| border="1" cellpadding="5" class="wikitable"
@@ -95,7 +95,7 @@ Pentium Mは、IA-32の[64ビット](https://ja.wikipedia.org/wiki/64ビット "
   - [Pentium 4-M](../Page/Pentium_4-M.md "wikilink") - Pentium 4をベースにしたモバイル向けCPU。
   - [Intel Core](../Page/Intel_Core.md "wikilink") - Yonah以降このブランド名に移行した。
   - [Intel A100](https://ja.wikipedia.org/wiki/Intel_A100 "wikilink") - Dothanを流用した[LPIA製品](https://ja.wikipedia.org/wiki/インテル#LPIA "wikilink")。
-  - [Turion 64](https://ja.wikipedia.org/wiki/Turion_64 "wikilink") - 競合他社製品。
+  - [Turion 64](../Page/Turion_64.md "wikilink") - 競合他社製品。
 
 ## 外部リンク
 

@@ -36,9 +36,9 @@
       - [生田斗真](../Page/生田斗真.md "wikilink")
       - [風間俊介](https://ja.wikipedia.org/wiki/風間俊介 "wikilink")
       - [長谷川純](../Page/長谷川純.md "wikilink")
-      - [ジミーMackey](https://ja.wikipedia.org/wiki/ジミーMackey "wikilink")
+      - [ジミーMackey](../Page/ジミーMackey.md "wikilink")
       - [錦戸亮](../Page/錦戸亮.md "wikilink")（当時[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
-      - [横山裕](https://ja.wikipedia.org/wiki/横山裕 "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
+      - [横山裕](../Page/横山裕.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
       - [村上信五](../Page/村上信五.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
       - [渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（当時[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
   - [小倉弘子](https://ja.wikipedia.org/wiki/小倉弘子 "wikilink")アナウンサー

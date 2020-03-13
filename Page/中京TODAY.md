@@ -5,7 +5,7 @@
 
 ## 概要
 
-[中京広域圏では](https://ja.wikipedia.org/wiki/東海3県 "wikilink")、[中部日本放送の](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[CBCニュースワイド](https://ja.wikipedia.org/wiki/CBCニュースワイド "wikilink")』や[東海テレビの](../Page/東海テレビ放送.md "wikilink")『[イブニングニュース630](../Page/イブニングニュース630.md "wikilink")』と並ぶ老舗的ローカルニュース番組だった。放送開始当初は30分番組だったが、その後の1987年10月から[日本テレビ発の](../Page/日本テレビ放送網.md "wikilink")『[NNNライブオンネットワーク](../Page/NNNライブオンネットワーク.md "wikilink")』（全国ニュース）をインサートするようになったことから、『**NNN中京TODAY**』と改名するとともに放送時間が55分に拡大した。キャスターは[春木毅](https://ja.wikipedia.org/wiki/春木毅 "wikilink")\[1\]など。
+[中京広域圏では](../Page/東海3県.md "wikilink")、[中部日本放送の](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[CBCニュースワイド](https://ja.wikipedia.org/wiki/CBCニュースワイド "wikilink")』や[東海テレビの](../Page/東海テレビ放送.md "wikilink")『[イブニングニュース630](../Page/イブニングニュース630.md "wikilink")』と並ぶ老舗的ローカルニュース番組だった。放送開始当初は30分番組だったが、その後の1987年10月から[日本テレビ発の](../Page/日本テレビ放送網.md "wikilink")『[NNNライブオンネットワーク](../Page/NNNライブオンネットワーク.md "wikilink")』（全国ニュース）をインサートするようになったことから、『**NNN中京TODAY**』と改名するとともに放送時間が55分に拡大した。キャスターは[春木毅](https://ja.wikipedia.org/wiki/春木毅 "wikilink")\[1\]など。
 
 番組は、1988年3月に『ライブオンネットワーク』が終了するとともに終了した。なお、同年4月にスタートした後継番組『[中京テレビ（ニュース）プラス1](../Page/中京テレビニュースプラス1.md "wikilink")』は、『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』のローカルパート（18:30 - 19:00）として放送された。
 

@@ -1,7 +1,7 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-**週刊TVガイド**（しゅうかんテレビガイド）は、[東京ニュース通信社](https://ja.wikipedia.org/wiki/東京ニュース通信社 "wikilink")発行の[テレビ情報誌](../Page/テレビ情報誌.md "wikilink")である。毎週[水曜日](../Page/水曜日.md "wikilink")発売。[1962年](../Page/1962年.md "wikilink")（昭和37年）創刊。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で現在発行が続いているテレビ情報誌としては最も歴史がある。通称はTVガイド。
+**週刊TVガイド**（しゅうかんテレビガイド）は、[東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")発行の[テレビ情報誌](../Page/テレビ情報誌.md "wikilink")である。毎週[水曜日](../Page/水曜日.md "wikilink")発売。[1962年](../Page/1962年.md "wikilink")（昭和37年）創刊。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で現在発行が続いているテレビ情報誌としては最も歴史がある。通称はTVガイド。
 
 一方、2011年1月より、同社の月刊誌「TV Japan」が「**月刊TVガイド**」へ誌名変更。この月刊版と「インターネットTVガイド」についてもここで記述する。
 
@@ -11,7 +11,7 @@
 
 ### 発行部数
 
-2016年度（2015年10月から2016年9月まで）の印刷証明付平均部数はTVガイドが231,490部、ライバル誌の[ザテレビジョン](../Page/ザテレビジョン.md "wikilink")が206,858部である\[1\]。しかし、2006年度の637,173部より大幅な減少が継続しており、[出版不況](../Page/出版不況.md "wikilink")や[テレビ離れ](https://ja.wikipedia.org/wiki/テレビ離れ "wikilink")による部数減少傾向は依然として厳しい。
+2016年度（2015年10月から2016年9月まで）の印刷証明付平均部数はTVガイドが231,490部、ライバル誌の[ザテレビジョン](../Page/ザテレビジョン.md "wikilink")が206,858部である\[1\]。しかし、2006年度の637,173部より大幅な減少が継続しており、[出版不況](../Page/出版不況.md "wikilink")や[テレビ離れ](../Page/テレビ離れ.md "wikilink")による部数減少傾向は依然として厳しい。
 
 ### 地方版（対応地域）
 
@@ -32,7 +32,7 @@
       - 岡山・香川・愛媛・高知版（[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")、[香川県](../Page/香川県.md "wikilink")、[愛媛県](../Page/愛媛県.md "wikilink")、[高知県](../Page/高知県.md "wikilink")）
           - 旧：岡山・香川版と旧：愛媛・高知版を統合([サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")と[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")は関西版に一本化)。
       - 広島・島根・鳥取・山口東版\[2\]（[広島県](../Page/広島県.md "wikilink")、[島根県](../Page/島根県.md "wikilink")、[鳥取県](../Page/鳥取県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")）
-      - 福岡・佐賀・山口西版\[3\]（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")）
+      - 福岡・佐賀・山口西版\[3\]（[福岡県](../Page/福岡県.md "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")）
       - 長崎・熊本版（[長崎県](../Page/長崎県.md "wikilink")、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")）
       - 鹿児島・宮崎・大分版（[鹿児島県](../Page/鹿児島県.md "wikilink")、[宮崎県](../Page/宮崎県.md "wikilink")、[大分県](../Page/大分県.md "wikilink")）
           - 旧：鹿児島・宮崎版と旧：大分版を統合。
@@ -64,7 +64,7 @@
           - 徳島県のテレビ局（[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")）と[サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")は関西版と岡山・香川版の両方に掲載されていた。
       - 愛媛・高知版（[愛媛県](../Page/愛媛県.md "wikilink")、[高知県](../Page/高知県.md "wikilink")）
           - 旧：岡山・四国版（岡山県、四国全域）
-      - 福岡・佐賀・山口西版\[5\]（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")）
+      - 福岡・佐賀・山口西版\[5\]（[福岡県](../Page/福岡県.md "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[山口県](../Page/山口県.md "wikilink")）
           - 旧：九州北版（福岡県、佐賀県、大分県）当時は山口県のテレビ局は掲載されていなかった。
       - 大分版（[大分県](../Page/大分県.md "wikilink")）
           - 九州北版（現:福岡・佐賀・山口西版）から分離。
@@ -78,9 +78,9 @@
 
 ### 表紙について
 
-  - 創刊号の表紙を飾ったのは、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")を経て、日本初の[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")として活躍していた[高橋圭三](https://ja.wikipedia.org/wiki/高橋圭三 "wikilink")であった\[6\]。
-  - 架空のキャラクターが表紙を飾ったことがある。架空のキャラクターの表紙はアニメキャラクターとしては[1963年](../Page/1963年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")号の[アトムが](../Page/鉄腕アトム.md "wikilink")、人形劇（着ぐるみ劇）キャラクターとしては[1965年](../Page/1965年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")号の[ブーフーウー](https://ja.wikipedia.org/wiki/ブーフーウー "wikilink")が、特撮ヒーローのキャラクターとしては[1967年](../Page/1967年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")号の[ウルトラマン](../Page/ウルトラマン.md "wikilink")と[マグマ大使がそれぞれ第一号である](https://ja.wikipedia.org/wiki/マグマ大使_\(テレビドラマ\) "wikilink")。また[1977年](../Page/1977年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")号では[蒸気機関車](../Page/蒸気機関車.md "wikilink")が、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")号では[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")（のイラスト）が表紙を飾ったことがある。
-  - [2011年](../Page/2011年.md "wikilink")·創刊49周年時点でのTVガイド表紙登場回数ランキングは1位 [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（46回）、2位 [KinKi Kids](../Page/KinKi_Kids.md "wikilink")（44回）、3位 [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")（40回）、4位 [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（39回）、5位 [嵐](../Page/嵐_\(グループ\).md "wikilink")（31回）、6位 [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（30回）、7位 [山口百恵](../Page/山口百恵.md "wikilink")（29回）、8位 [中居正広](../Page/中居正広.md "wikilink")（28回）、9位 [長瀬智也](../Page/長瀬智也.md "wikilink")（27回）、10位 [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")（25回）、11位 [堂本剛](../Page/堂本剛.md "wikilink")（23回）、11位 [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")（23回）、15位 [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（20回）、16位 [堂本光一](../Page/堂本光一.md "wikilink")（18回）、17位 [近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")（17回）、20位 [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（16回）\[7\]。
+  - 創刊号の表紙を飾ったのは、[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")を経て、日本初の[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")として活躍していた[高橋圭三](../Page/高橋圭三.md "wikilink")であった\[6\]。
+  - 架空のキャラクターが表紙を飾ったことがある。架空のキャラクターの表紙はアニメキャラクターとしては[1963年](../Page/1963年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")号の[アトムが](../Page/鉄腕アトム.md "wikilink")、人形劇（着ぐるみ劇）キャラクターとしては[1965年](../Page/1965年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")号の[ブーフーウー](../Page/ブーフーウー.md "wikilink")が、特撮ヒーローのキャラクターとしては[1967年](../Page/1967年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")号の[ウルトラマン](../Page/ウルトラマン.md "wikilink")と[マグマ大使がそれぞれ第一号である](https://ja.wikipedia.org/wiki/マグマ大使_\(テレビドラマ\) "wikilink")。また[1977年](../Page/1977年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")号では[蒸気機関車](../Page/蒸気機関車.md "wikilink")が、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")号では[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")（のイラスト）が表紙を飾ったことがある。
+  - [2011年](../Page/2011年.md "wikilink")·創刊49周年時点でのTVガイド表紙登場回数ランキングは1位 [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")（46回）、2位 [KinKi Kids](../Page/KinKi_Kids.md "wikilink")（44回）、3位 [木村拓哉](../Page/木村拓哉.md "wikilink")（40回）、4位 [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")（39回）、5位 [嵐](../Page/嵐_\(グループ\).md "wikilink")（31回）、6位 [草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（30回）、7位 [山口百恵](../Page/山口百恵.md "wikilink")（29回）、8位 [中居正広](../Page/中居正広.md "wikilink")（28回）、9位 [長瀬智也](../Page/長瀬智也.md "wikilink")（27回）、10位 [KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")（25回）、11位 [堂本剛](../Page/堂本剛.md "wikilink")（23回）、11位 [関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")（23回）、15位 [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（20回）、16位 [堂本光一](../Page/堂本光一.md "wikilink")（18回）、17位 [近藤真彦](../Page/近藤真彦.md "wikilink")（17回）、20位 [稲垣吾郎](../Page/稲垣吾郎.md "wikilink")（16回）\[7\]。
 
 ### 節目の号に表紙を飾った人物
 

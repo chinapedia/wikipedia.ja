@@ -13,7 +13,7 @@
 ## ナビゲーター
 
   - [小山薫堂](../Page/小山薫堂.md "wikilink")
-  - [クリス智子](https://ja.wikipedia.org/wiki/クリス智子 "wikilink")
+  - [クリス智子](../Page/クリス智子.md "wikilink")
 
 ## 番組内容
 
@@ -73,7 +73,7 @@
 
 ## 特別番組
 
-例年、6 P.M.のスタッフを中心に、クリスマス直前に[J-WAVE HOLIDAY SPECIALとして特別番組を](https://ja.wikipedia.org/wiki/J-WAVE_HOLIDAY_SPECIAL "wikilink")9:00-17:55（または18:00）にかけて放送していた。なお番組終了以後に6 P.M.としての特別番組は放送されていないが、当番組のナビゲーターだった小山・クリス両名の組み合わせによる特別番組は何度か放送されている。
+例年、6 P.M.のスタッフを中心に、クリスマス直前に[J-WAVE HOLIDAY SPECIALとして特別番組を](../Page/J-WAVE_HOLIDAY_SPECIAL.md "wikilink")9:00-17:55（または18:00）にかけて放送していた。なお番組終了以後に6 P.M.としての特別番組は放送されていないが、当番組のナビゲーターだった小山・クリス両名の組み合わせによる特別番組は何度か放送されている。
 
   - 1999年12月23日 AJINOMOTO RADIO QUEST 2001 presents MERRY XMAS TOKIO
   - 2001年12月24日 AJINOMOTO 6 P.M. presents MERRY CHRISTMAS TOKIO

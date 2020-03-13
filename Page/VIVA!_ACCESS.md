@@ -1,7 +1,7 @@
 > この記事は[VIVA! ACCESS](https://ja.wikipedia.org/wiki/VIVA!_ACCESS)から翻訳されています。
 
 
-**VIVA\! ACCESS**（ビバ・アクセス）とは、[J-WAVE](../Page/J-WAVE.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**VIVA\! ACCESS**（ビバ・アクセス）とは、[J-WAVE](../Page/J-WAVE.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
 ## ナビゲーター
 
-  - [南美布](https://ja.wikipedia.org/wiki/南美布 "wikilink")
+  - [南美布](../Page/南美布.md "wikilink")
 
 ### 代理を担当したナビゲーター
 
@@ -28,7 +28,7 @@
   - [キャロル久末](../Page/キャロル久末.md "wikilink")
   - [大槻りこ](../Page/大槻りこ.md "wikilink")
   - [落合健太郎](../Page/落合健太郎.md "wikilink")
-  - [クリス・ペプラー](https://ja.wikipedia.org/wiki/クリス・ペプラー "wikilink")
+  - [クリス・ペプラー](../Page/クリス・ペプラー.md "wikilink")
   - [Sascha](../Page/Sascha.md "wikilink")
   - [ジョージ・ウィリアムズ](../Page/ジョージ・ウィリアムズ_\(タレント\).md "wikilink")
   - [中山智保子](https://ja.wikipedia.org/wiki/中山智保子 "wikilink")
@@ -45,7 +45,7 @@
 <!-- end list -->
 
   -
-    J-WAVEのチャート番組 [TOKIO HOT 100の前週の内容を](https://ja.wikipedia.org/wiki/TOKIO_HOT_100 "wikilink")、同番組ナビゲーターのクリス・ペプラーの紹介で振り返るコーナー。以前は平日9:00-11:30放送の[BOOM TOWN内で放送されていた](https://ja.wikipedia.org/wiki/BOOM_TOWN "wikilink")。
+    J-WAVEのチャート番組 [TOKIO HOT 100の前週の内容を](../Page/TOKIO_HOT_100.md "wikilink")、同番組ナビゲーターのクリス・ペプラーの紹介で振り返るコーナー。以前は平日9:00-11:30放送の[BOOM TOWN内で放送されていた](../Page/BOOM_TOWN.md "wikilink")。
 
 <!-- end list -->
 
@@ -130,7 +130,7 @@
 
 ## 参考
 
-  - J-WAVEの正午をまたぐ日中時間帯の番組としては、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月まで[GOOD TIMES, LUCY\!](https://ja.wikipedia.org/wiki/GOOD_TIMES,_LUCY! "wikilink")（ナビゲーター：[ルーシー・ケント](https://ja.wikipedia.org/wiki/ルーシー・ケント "wikilink")）が放送されていた。同番組の終了とともに放送枠が整理され、この時間帯のワイド番組は一旦消滅する形となったが、当番組の開始により再び放送枠が設けられることとなった。
+  - J-WAVEの正午をまたぐ日中時間帯の番組としては、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月まで[GOOD TIMES, LUCY\!](https://ja.wikipedia.org/wiki/GOOD_TIMES,_LUCY! "wikilink")（ナビゲーター：[ルーシー・ケント](../Page/ルーシー・ケント.md "wikilink")）が放送されていた。同番組の終了とともに放送枠が整理され、この時間帯のワイド番組は一旦消滅する形となったが、当番組の開始により再び放送枠が設けられることとなった。
   - 2004年[12月31日](../Page/12月31日.md "wikilink")の18:00-24:30には、この番組を核とした特別番組の「VIVA\! COUNTDOWN 2005\!\!」が放送された。
 
 [Category:J-WAVEの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの帯番組の歴史 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink")

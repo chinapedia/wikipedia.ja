@@ -5,19 +5,19 @@
 
 ## 概要
 
-怪奇幻想小説とアクションヒーローものを融合した[ヒロイック・ファンタジー](../Page/ヒロイック・ファンタジー.md "wikilink")の生みの親で、「[英雄コナン](../Page/英雄コナン.md "wikilink")」シリーズが有名である。この「コナン」は[大恐慌時代の](../Page/世界恐慌.md "wikilink")[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")『[ウィアード・テイルズ](https://ja.wikipedia.org/wiki/ウィアード・テイルズ "wikilink")』誌上で活躍したキャラクターであり、その文化的影響力は[ターザン](../Page/ターザン.md "wikilink")、[ドラキュラ](../Page/ドラキュラ.md "wikilink")、[シャーロック・ホームズ](../Page/シャーロック・ホームズ.md "wikilink")、[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")、[ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")と肩を並べるものとされている。このシリーズの作品群は多くの模倣を呼び、[ファンタジー](../Page/ファンタジー.md "wikilink")ジャンルに多大な影響を及ぼした。
+怪奇幻想小説とアクションヒーローものを融合した[ヒロイック・ファンタジー](../Page/ヒロイック・ファンタジー.md "wikilink")の生みの親で、「[英雄コナン](../Page/英雄コナン.md "wikilink")」シリーズが有名である。この「コナン」は[大恐慌時代の](../Page/世界恐慌.md "wikilink")[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")『[ウィアード・テイルズ](../Page/ウィアード・テイルズ.md "wikilink")』誌上で活躍したキャラクターであり、その文化的影響力は[ターザン](../Page/ターザン.md "wikilink")、[ドラキュラ](../Page/ドラキュラ.md "wikilink")、[シャーロック・ホームズ](../Page/シャーロック・ホームズ.md "wikilink")、[バットマン](https://ja.wikipedia.org/wiki/バットマン "wikilink")、[ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")と肩を並べるものとされている。このシリーズの作品群は多くの模倣を呼び、[ファンタジー](../Page/ファンタジー.md "wikilink")ジャンルに多大な影響を及ぼした。
 
-また、[ハワード・フィリップス・ラヴクラフト](../Page/ハワード・フィリップス・ラヴクラフト.md "wikilink")とは[文通](../Page/文通.md "wikilink")相手であり、『黒い碑』(*[The Black Stone](https://ja.wikipedia.org/wiki/:en:The_Black_Stone "wikilink")*) などの[クトゥルフ神話](https://ja.wikipedia.org/wiki/クトゥルフ神話 "wikilink")作品も執筆している。また、ラヴクラフトもハワードの創造した世界に対する言及を自作内で行っている。[オーガスト・ダーレス](../Page/オーガスト・ダーレス.md "wikilink")、[クラーク・アシュトン・スミス](https://ja.wikipedia.org/wiki/クラーク・アシュトン・スミス "wikilink")らとの親交も厚かった。
+また、[ハワード・フィリップス・ラヴクラフト](../Page/ハワード・フィリップス・ラヴクラフト.md "wikilink")とは[文通](../Page/文通.md "wikilink")相手であり、『黒い碑』(*[The Black Stone](https://ja.wikipedia.org/wiki/:en:The_Black_Stone "wikilink")*) などの[クトゥルフ神話](https://ja.wikipedia.org/wiki/クトゥルフ神話 "wikilink")作品も執筆している。また、ラヴクラフトもハワードの創造した世界に対する言及を自作内で行っている。[オーガスト・ダーレス](../Page/オーガスト・ダーレス.md "wikilink")、[クラーク・アシュトン・スミス](../Page/クラーク・アシュトン・スミス.md "wikilink")らとの親交も厚かった。
 
 友人の[O・A・クライン](../Page/O・A・クライン.md "wikilink")はSF作家であったが、ハワードの[著作権エージェント](https://ja.wikipedia.org/wiki/著作権エージェント "wikilink")としての職に集中するため執筆活動を休止した。
 
 ## 経歴
 
-[テキサス州](../Page/テキサス州.md "wikilink")出身。生涯のほとんどを[ダラス](../Page/ダラス.md "wikilink")郊外のクロスプレインズと、時にその近郊のブラウンウッドで過ごした。本好きで知的な子供であったが、同時に[ボクシング](../Page/ボクシング.md "wikilink")のファンでもあったため、10代の後半に[ボディビル](https://ja.wikipedia.org/wiki/ボディビル "wikilink")を始め、逞しい青年になる。
+[テキサス州](../Page/テキサス州.md "wikilink")出身。生涯のほとんどを[ダラス](../Page/ダラス.md "wikilink")郊外のクロスプレインズと、時にその近郊のブラウンウッドで過ごした。本好きで知的な子供であったが、同時に[ボクシング](../Page/ボクシング.md "wikilink")のファンでもあったため、10代の後半に[ボディビル](../Page/ボディビル.md "wikilink")を始め、逞しい青年になる。
 
 9歳の時より冒険小説作家となることを夢見たが、23歳までは本当の成功には恵まれなかった。以降30歳で自殺によって死去するまでハワードの作品は様々な雑誌、ジャーナル、新聞に載るようになり、いくつかのジャンルで成功を収めた。コナン作品は1934年に単行本化される寸前まで行ったが、彼の作品は本の形で生前に出版されることはなかった。
 
-[1924年](../Page/1924年.md "wikilink")、怪奇小説専門の[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")『[ウィアード・テイルズ](https://ja.wikipedia.org/wiki/ウィアード・テイルズ "wikilink")』に "Spear and Fang" が売れ、翌1925年にデビューする。以後400編近い作品を次々に執筆し、さまざまなパルプ・マガジンに発表した。[1932年](../Page/1932年.md "wikilink")、「[英雄コナン](../Page/英雄コナン.md "wikilink")」シリーズの第1作「不死鳥の剣」（"[The Phoenix on the Sword](https://ja.wikipedia.org/wiki/:en:The_Phoenix_on_the_Sword "wikilink")"）が『ウィアード・テイルズ』誌に掲載される。
+[1924年](../Page/1924年.md "wikilink")、怪奇小説専門の[パルプ・マガジン](../Page/パルプ・マガジン.md "wikilink")『[ウィアード・テイルズ](../Page/ウィアード・テイルズ.md "wikilink")』に "Spear and Fang" が売れ、翌1925年にデビューする。以後400編近い作品を次々に執筆し、さまざまなパルプ・マガジンに発表した。[1932年](../Page/1932年.md "wikilink")、「[英雄コナン](../Page/英雄コナン.md "wikilink")」シリーズの第1作「不死鳥の剣」（"[The Phoenix on the Sword](https://ja.wikipedia.org/wiki/:en:The_Phoenix_on_the_Sword "wikilink")"）が『ウィアード・テイルズ』誌に掲載される。
 
 その作品内容はヒロイック・ファンタジー、幻想怪奇小説から、[冒険小説](../Page/冒険小説.md "wikilink")、[ハードボイルド](../Page/ハードボイルド.md "wikilink")、歴史冒険小説、[西部劇](../Page/西部劇.md "wikilink")、[スラップスティック](https://ja.wikipedia.org/wiki/スラップスティック "wikilink")小説まで、非常な広範囲に及ぶ。これには、当時のパルプ誌が雑誌・ジャンルを問わず経営が不安定で原稿料の支払いも不安定だったため、雑誌・ジャンルを選ばずにどこにでも売り込まねばならなかったという事情があった。とはいえ、11年間の作家生活で年間の収入は50ドルから2,000ドル以上まで上昇。当時のクロスプレインズでは随一の高収入である\[1\]。1936年の時点では彼の作品のほぼ全ては西部劇ものとなっていた。
 
@@ -121,7 +121,7 @@
 
 彼の自殺とその状況は彼の精神状態について様々な議論を呼ぶものであった。
 
-これらの議論は主に、彼は[エディプスコンプレックス](https://ja.wikipedia.org/wiki/エディプスコンプレックス "wikilink")やそれに類する精神疾患であったのではないか\[4\]、もしくは重い[抑うつ](../Page/抑うつ.md "wikilink")状態であったのではないかというものである。またそういった精神状態が引き金ではなく、母親の死に直面した衝動的なものであろうという説もあるが、実際、この自殺は以前から父親や近しい友人には仄めかしていたものであった。また、[サヴァン症候群](https://ja.wikipedia.org/wiki/サヴァン症候群 "wikilink")、もしくは[アスペルガー症候群](../Page/アスペルガー症候群.md "wikilink")と絡めて語られることもあるが、これは冒険小説という性質からともすれば短絡的な彼の作品内容について非難した文芸批評家によって用いられたものであり、彼自身にそういった兆候は認められなかった。
+これらの議論は主に、彼は[エディプスコンプレックス](../Page/エディプスコンプレックス.md "wikilink")やそれに類する精神疾患であったのではないか\[4\]、もしくは重い[抑うつ](../Page/抑うつ.md "wikilink")状態であったのではないかというものである。またそういった精神状態が引き金ではなく、母親の死に直面した衝動的なものであろうという説もあるが、実際、この自殺は以前から父親や近しい友人には仄めかしていたものであった。また、[サヴァン症候群](../Page/サヴァン症候群.md "wikilink")、もしくは[アスペルガー症候群](../Page/アスペルガー症候群.md "wikilink")と絡めて語られることもあるが、これは冒険小説という性質からともすれば短絡的な彼の作品内容について非難した文芸批評家によって用いられたものであり、彼自身にそういった兆候は認められなかった。
 
 また彼は心臓疾患を抱えていたことも明らかになっている。
 
@@ -167,5 +167,5 @@
 1.  Charles Gramlich, "The Greenwood Encyclopedia of Science Fiction and Fantasy", *volume 2 p.99*, 2005 ISBN 0-313-32952-4
 2.  [英語版テンプレートによる自動生成](https://ja.wikipedia.org/wiki/:en:Template:Inflation "wikilink")
 3.  Glenn Lord, "[The Last Celt](https://ja.wikipedia.org/wiki/:en:The_Last_Celt "wikilink")" *pp.75–79*, 1976 ISBN 978-0-425-03630-3
-4.  主に[L・スプレイグ・ディ・キャンプ](https://ja.wikipedia.org/wiki/L・スプレイグ・ディ・キャンプ "wikilink")による初期の伝記、"[Dark Valley Destiny](https://ja.wikipedia.org/wiki/:en:Dark_Valley_Destiny "wikilink")"で述べられた説だが、この本は様々な欠陥が指摘されている。
+4.  主に[L・スプレイグ・ディ・キャンプ](../Page/L・スプレイグ・ディ・キャンプ.md "wikilink")による初期の伝記、"[Dark Valley Destiny](https://ja.wikipedia.org/wiki/:en:Dark_Valley_Destiny "wikilink")"で述べられた説だが、この本は様々な欠陥が指摘されている。
 5.

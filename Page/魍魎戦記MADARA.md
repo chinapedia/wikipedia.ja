@@ -1,7 +1,7 @@
 > この記事は[MADARA](https://ja.wikipedia.org/wiki/MADARA)から翻訳されています。
 
 
-『**魍魎戦記MADARA**』（もうりょうせんきまだら）は、MADARA PROJECTによる漫画。1987年から[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")『[マル勝ファミコン](../Page/マル勝ファミコン.md "wikilink")』に連載された。[魍魎戦記MADARAシリーズ](https://ja.wikipedia.org/wiki/魍魎戦記MADARAシリーズ "wikilink")の第1作目であり、続編と区別するために『**摩陀羅壱**』とも呼ばれる。小説・コンピュータRPG・OVA・ラジオドラマ等へ幅広く展開した、[メディアミックス](../Page/メディアミックス.md "wikilink")の先駆け的作品である。MADARA PROJECTとはシリーズの制作者集団を指し、連載当時は原作の[大塚英志](../Page/大塚英志.md "wikilink")、作画の[田島昭宇](../Page/田島昭宇.md "wikilink")、世界設定担当の阿賀伸宏（当時は[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")所属）の3人であった。
+『**魍魎戦記MADARA**』（もうりょうせんきまだら）は、MADARA PROJECTによる漫画。1987年から[ゲーム雑誌](../Page/ゲーム雑誌.md "wikilink")『[マル勝ファミコン](../Page/マル勝ファミコン.md "wikilink")』に連載された。[魍魎戦記MADARAシリーズ](../Page/魍魎戦記MADARAシリーズ.md "wikilink")の第1作目であり、続編と区別するために『**摩陀羅壱**』とも呼ばれる。小説・コンピュータRPG・OVA・ラジオドラマ等へ幅広く展開した、[メディアミックス](../Page/メディアミックス.md "wikilink")の先駆け的作品である。MADARA PROJECTとはシリーズの制作者集団を指し、連載当時は原作の[大塚英志](../Page/大塚英志.md "wikilink")、作画の[田島昭宇](../Page/田島昭宇.md "wikilink")、世界設定担当の阿賀伸宏（当時は[工画堂スタジオ](../Page/工画堂スタジオ.md "wikilink")所属）の3人であった。
 
 本項では、シリーズ第1作目の魍魎戦記MADARAについてのみ記す。
 
@@ -31,7 +31,7 @@
     真王摩陀羅の眷属である赤の戦士。ミロク帝に滅ぼされたイズモ族の生き残り。掌妙剄と霊妙剣の達人。
   - 邪魅羅（ジャミラ） : 声 - [冬馬由美](../Page/冬馬由美.md "wikilink")
     カオスと聖神邪の幼馴染み。カオスの妻となる。
-  - 沙門（シャモン） : 声 - [飛田展男](../Page/飛田展男.md "wikilink")、[佐藤政道](https://ja.wikipedia.org/wiki/佐藤政道 "wikilink")
+  - 沙門（シャモン） : 声 - [飛田展男](../Page/飛田展男.md "wikilink")、[佐藤政道](../Page/佐藤政道.md "wikilink")
     イカルガの戦士。幼い頃から摩陀羅と麒麟を兄として見守ってきており彼らの良き理解者。
   - 緋巫佳（ヒミカ） : 声 - [横山智佐](../Page/横山智佐.md "wikilink")
     聖神邪の妹。ロキの妻になる。
@@ -52,7 +52,7 @@
     異常に発達した聴覚で周囲を把握できる。実体は無数の群れをなす蝙蝠に似た魍鬼。必殺技は敵の霊力を封じ、ギミックも使えなくさせる濁骸瘴波（ダクガイショウハ）。耳のチャクラを持つ。
   - 闇界睨魔（オンカイギョウマ）
     巨大な眼球に触手が生えた形態をしている。風姫の村を支配していた。必殺技は全身を覆い隠す「邪雲」と攻撃用の「球電」。魔界での姿は片目を包帯で隠しローブを羽織った老人。目のチャクラを持つ。
-  - 淒斬刃双臀 拿髏（セイザンパソウビ ナロ） : 声 - [田中和実](https://ja.wikipedia.org/wiki/田中和実 "wikilink")
+  - 淒斬刃双臀 拿髏（セイザンパソウビ ナロ） : 声 - [田中和実](../Page/田中和実.md "wikilink")
     淒斬刃双臀 拿穢（セイザンパソウビ ナエ） : 声 - [小林通孝](../Page/小林通孝.md "wikilink")
     拿髏と拿穢は合体して淒斬刃双臀となる。拿髏は左腕の、拿穢は右腕のチャクラを持つ。拿髏（ナロ）、拿穢（ナエ）の名称は、「右」「左」の文字がもとになっており、それぞれを崩して「右→ナロ」「左→ナエ」となる。魔界での姿は人界と同じ二人一組で合体した姿。
   - 貂魎伐跨（チョウリョウバッコ）
@@ -70,7 +70,7 @@
 
 摩陀羅の生い立ちや設定は、[手塚治虫](../Page/手塚治虫.md "wikilink")の漫画『[どろろ](../Page/どろろ.md "wikilink")』に登場する百鬼丸がモチーフになっている\[2\]\[3\]。具体的には、権力者の父親によって身体の複数の部位を魔物に捧げられた後に川に流され、流れ着いた先で世捨て人に拾われるが、成長した後に出生の秘密を知り、身体を取り戻す旅に出立するという過去の経緯や、物語開始時には奪われた身体を補うために武器を仕込んだ義体を装着しているものの、元の身体を取り戻していくことで生身に近づいていくというギミックの設定は、『どろろ』の設定を換骨奪胎したものである\[4\]。
 
-物語全体の骨子は[オットー・ランク](https://ja.wikipedia.org/wiki/オットー・ランク "wikilink")が分析した英雄神話の類型と、[ウラジーミル・プロップ](../Page/ウラジーミル・プロップ.md "wikilink")が分析した魔法民話の類型を合わせたものを下敷きにしたとされる\[5\]。例えば影王はプロップが定義した「偽主人公」の役回りを演じるものとして用意された登場人物である\[6\]。
+物語全体の骨子は[オットー・ランク](../Page/オットー・ランク.md "wikilink")が分析した英雄神話の類型と、[ウラジーミル・プロップ](../Page/ウラジーミル・プロップ.md "wikilink")が分析した魔法民話の類型を合わせたものを下敷きにしたとされる\[5\]。例えば影王はプロップが定義した「偽主人公」の役回りを演じるものとして用意された登場人物である\[6\]。
 
 半身がバイオギミックであるという夏凰翔の設定は、手塚治虫の漫画『[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")』のエピソードである「ウランちゃんの巻」における、雪杉博士に改造されたウランがモチーフとなっている\[7\]。
 
@@ -80,7 +80,7 @@
 
 ## 関連項目
 
-  - [魍魎戦記MADARAシリーズ](https://ja.wikipedia.org/wiki/魍魎戦記MADARAシリーズ "wikilink")
+  - [魍魎戦記MADARAシリーズ](../Page/魍魎戦記MADARAシリーズ.md "wikilink")
 
 [Category:漫画作品_も](https://ja.wikipedia.org/wiki/Category:漫画作品_も "wikilink") [Category:コンプティークの漫画作品](https://ja.wikipedia.org/wiki/Category:コンプティークの漫画作品 "wikilink") [Category:月刊コミックコンプ](https://ja.wikipedia.org/wiki/Category:月刊コミックコンプ "wikilink") [Category:アニメ作品_も](https://ja.wikipedia.org/wiki/Category:アニメ作品_も "wikilink") [Category:1991年のOVA](https://ja.wikipedia.org/wiki/Category:1991年のOVA "wikilink") [Category:アニメイトフィルムのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニメイトフィルムのアニメ作品 "wikilink") [Category:角川書店のアニメ作品](https://ja.wikipedia.org/wiki/Category:角川書店のアニメ作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:ファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:ファミリーコンピュータ用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:魍魎戦記MADARAシリーズ](https://ja.wikipedia.org/wiki/Category:魍魎戦記MADARAシリーズ "wikilink") [Category:大塚英志](https://ja.wikipedia.org/wiki/Category:大塚英志 "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:ラジオドラマ](https://ja.wikipedia.org/wiki/Category:ラジオドラマ "wikilink")
 

@@ -14,7 +14,7 @@
   - [1994年](../Page/1994年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")、[hide](https://ja.wikipedia.org/wiki/hide "wikilink") solo tourに出演。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")、X JAPAN解散を発表。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")、X JAPANがThe Last Liveをもって解散。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")、元[MAKE-UP](https://ja.wikipedia.org/wiki/MAKE-UP "wikilink")のヴォーカリスト[NoBと](https://ja.wikipedia.org/wiki/山田信夫_\(歌手\) "wikilink")[P.A.F](https://ja.wikipedia.org/wiki/P.A.F "wikilink")を結成しシングル「LOVE & FAKE」でデビュー。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")、元[MAKE-UP](../Page/MAKE-UP.md "wikilink")のヴォーカリスト[NoBと](../Page/山田信夫_\(歌手\).md "wikilink")[P.A.F](https://ja.wikipedia.org/wiki/P.A.F "wikilink")を結成しシングル「LOVE & FAKE」でデビュー。
   - 1998年、hide with Spread Beaverのツアーにゲストギタリストとして出演。
   - [1999年](../Page/1999年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、X JAPANのベーシストだった[HEATH](../Page/HEATH.md "wikilink")とhide with Spread Beaverの[I.N.A](../Page/I.N.A.md "wikilink")と組んで『[hide TRIBUTE SPIRITS](https://ja.wikipedia.org/wiki/hide_TRIBUTE_SPIRITS "wikilink")』にhideのデモテープを使った「CELEBRATION」を提供。
   - [2000年](../Page/2000年.md "wikilink")秋、hide TRIBUTEで組んだheath、I.N.Aと[Dope HEADzを結成](../Page/Dope_HEADz.md "wikilink")。ラジオ番組でDope HEADzのヴォーカリストを募集するという企画を敢行。
@@ -35,7 +35,7 @@
   - 2008年[5月3日](../Page/5月3日.md "wikilink") 、Ra:INのメンバーとして、そしてhide with Spread Beaverのゲストギタリストとして、[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")、X JAPANのメンバーとして、[hide memorial summit](https://ja.wikipedia.org/wiki/hide_memorial_summit "wikilink")（hide十周忌追悼ライブ（多数のバンドやミュージシャンが出演のライブ））に出演。
   - 2008年7月5日のパリ、8月2日の台北、9月13日のニューヨークのX JAPANの公演の発表後、世界各国から公演依頼が殺到し、2008年6月現在発表している以外の日本を含め、全世界を回る大規模なツアーを予定していたが、[YOSHIKI](../Page/YOSHIKI.md "wikilink")の持病の頸椎椎間板ヘルニアと腱鞘炎が悪化した為、全公演の延期を決定。
   - 2008年7月19日、自身が出演したロック映画「[attitude](https://ja.wikipedia.org/wiki/attitude_\(映画\) "wikilink")」が下北沢トリウッドにて封切り。
-  - 2008年[8月1日](../Page/8月1日.md "wikilink")、目黒鹿鳴館で行われた[DYNAMITE TOMMY監督の映画](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")「attitude」上映記念ライブ「ROCK ALIVE」に"TOKYOYANKEES ＋ PATA"名義で出演。[TAIJIとの久しぶりの競演を果たす](https://ja.wikipedia.org/wiki/沢田泰司 "wikilink")。
+  - 2008年[8月1日](../Page/8月1日.md "wikilink")、目黒鹿鳴館で行われた[DYNAMITE TOMMY監督の映画](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")「attitude」上映記念ライブ「ROCK ALIVE」に"TOKYOYANKEES ＋ PATA"名義で出演。[TAIJIとの久しぶりの競演を果たす](../Page/沢田泰司.md "wikilink")。
   - 2016年1月15日、Ra:INのライブをキャンセルし、体調不良で入院する。2月3日には、YOSHIKIから大腸憩室炎と門脈塞栓症を併発していることが発表され、X JAPANのアルバムとライブ活動が延期になる。
   - 2016年3月18日、SXSW 2016でのYOSHIKIのスピーチにて、退院したことが明らかにされたが、8月に手術のため再入院し、8月10日に自身のフェイスブックで退院を報告\[1\]。
 
@@ -43,11 +43,11 @@
 
 **ギター**  多数のギターを所有しているが、ここでは代表的なものを紹介する。
 
-  - [1959年](../Page/1959年.md "wikilink")製[ギブソン](https://ja.wikipedia.org/wiki/ギブソン_\(楽器メーカー\) "wikilink")・[レスポールスタンダード](../Page/ギブソン・レスポール.md "wikilink")
+  - [1959年](../Page/1959年.md "wikilink")製[ギブソン](../Page/ギブソン_\(楽器メーカー\).md "wikilink")・[レスポールスタンダード](../Page/ギブソン・レスポール.md "wikilink")
 
 <!-- end list -->
 
-  - メインとして使っていた愛用ギター。シリアルナンバーは「9 0299」通称「1号」。これは、Xのアルバム「[Jealousy](../Page/Jealousy_\(Xのアルバム\).md "wikilink")」のレコーディングで滞在していたアメリカで2万ドルで購入(当時のレートで日本円にすると約270万円)。1958年から[1960年製の](../Page/1959年.md "wikilink")[ギブソン](https://ja.wikipedia.org/wiki/ギブソン_\(楽器メーカー\) "wikilink")・[レスポールスタンダード](../Page/ギブソン・レスポール.md "wikilink")（通称BURST）は全てのエレキギターの中で最も価値が上がったヴィンテージ・ギターで、店員によると、以前の所有者も有名な[ギタリスト](../Page/ギタリスト.md "wikilink")であったらしい。[ピックアップは](../Page/ピックアップ_\(楽器\).md "wikilink")、オールド[P.A.Fの中でも特に希少価値の高いゼブラカラーとリバースゼブラカラーのものが搭載されている](https://ja.wikipedia.org/wiki/PAF_\(ピックアップ\) "wikilink")。
+  - メインとして使っていた愛用ギター。シリアルナンバーは「9 0299」通称「1号」。これは、Xのアルバム「[Jealousy](../Page/Jealousy_\(Xのアルバム\).md "wikilink")」のレコーディングで滞在していたアメリカで2万ドルで購入(当時のレートで日本円にすると約270万円)。1958年から[1960年製の](../Page/1959年.md "wikilink")[ギブソン](../Page/ギブソン_\(楽器メーカー\).md "wikilink")・[レスポールスタンダード](../Page/ギブソン・レスポール.md "wikilink")（通称BURST）は全てのエレキギターの中で最も価値が上がったヴィンテージ・ギターで、店員によると、以前の所有者も有名な[ギタリスト](../Page/ギタリスト.md "wikilink")であったらしい。[ピックアップは](../Page/ピックアップ_\(楽器\).md "wikilink")、オールド[P.A.Fの中でも特に希少価値の高いゼブラカラーとリバースゼブラカラーのものが搭載されている](https://ja.wikipedia.org/wiki/PAF_\(ピックアップ\) "wikilink")。
   - 本人の記憶によると、購入したのは渡米して間もない90年の12月頃で、貯金の殆どを注ぎ込んで購入したそうで、当初ロサンゼルス滞在中に気に入ったギターがあったら数本買うつもりで居たのが、このギターを購入した為に他のギターの購入資金が尽きてしまい、結局滞在中に購入したギターはこの59年と後述のオールドマーティンともう1本別のレスポールの計3本のみだった。
   - PATAはライブでもメインギターとして使用していた。HIDEも1959年製のレスポールを所有しており、こちらはシリアルが「9 0297」と、PATA所有のレスポールとは製造時のシリアルが２番違いで、この2本はほぼ同時期に制作されたものである。HIDEは主にレコーディングでのみ使用していたが1993年末のX JAPANのライブにおいて一度だけ2人で1959年製レスポールを揃えて持ち、「[Joker](https://ja.wikipedia.org/wiki/Standing_Sex/Joker "wikilink")」を演奏したことがある。
   - X JAPANのライブでは半音下げチューニングの曲で使用（X時代はほとんど全ての曲が半音下げチューニングの為、ライブではこれ1本で通すことも多かった）。
@@ -104,7 +104,7 @@
 
 <!-- end list -->
 
-  - 昔は[ジェフ・ベック](../Page/ジェフ・ベック.md "wikilink")や[Char](../Page/Char.md "wikilink")などに惹かれ、ストラトキャスターや[ムスタング](../Page/フェンダー・ムスタング.md "wikilink")、[ジャズマスターなど](https://ja.wikipedia.org/wiki/フェンダー・ジャズマスター "wikilink")、[フェンダー製ギターも何本か所有している中のメイン](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")・ギター。
+  - 昔は[ジェフ・ベック](../Page/ジェフ・ベック.md "wikilink")や[Char](../Page/Char.md "wikilink")などに惹かれ、ストラトキャスターや[ムスタング](../Page/フェンダー・ムスタング.md "wikilink")、[ジャズマスターなど](../Page/フェンダー・ジャズマスター.md "wikilink")、[フェンダー製ギターも何本か所有している中のメイン](../Page/フェンダー_\(楽器メーカー\).md "wikilink")・ギター。
   - ボディーカラーはバーガンディ・ミストと呼ばれるメタリックな光沢のある薄紫色で、スモールヘッドにローズウッド指板という仕様で、ストラトにしては太いネックが特徴。
   - 初のソロ・アルバム『Pata』では、意外にもレスポールよりもストラトの使用頻度が高かったとのこと。アルバム発売当時の雑誌「GIGS」の表紙は、珍しくこのストラトを持ったPATAの姿だった。
   - X JAPANの「[ART OF LIFE](../Page/ART_OF_LIFE.md "wikilink")」でHIDEが奏でるアルペジオは、PATAから貸し出されたこのストラトによるもので、HIDEはいたく気に入っていたという。
@@ -125,7 +125,7 @@
 
   - X時代、どのモデルかは不明だが実家にギターを預けておいた際、事故でネックを折られてしまったことがある。
 
-上記以外にもX以前から使用していたBurnyのレスポールモデルなど、所有しているエレキギターの多くがレスポール等、ギブソン系のギター（セットネックタイプでハムバッキングピックアップ搭載のもの）。1993年の紅白歌合戦で「[Tears](../Page/Tears_\(X_JAPANの曲\).md "wikilink")」を演奏した際には、[ギブソン・SG](https://ja.wikipedia.org/wiki/ギブソン・SG "wikilink")を使用した。
+上記以外にもX以前から使用していたBurnyのレスポールモデルなど、所有しているエレキギターの多くがレスポール等、ギブソン系のギター（セットネックタイプでハムバッキングピックアップ搭載のもの）。1993年の紅白歌合戦で「[Tears](../Page/Tears_\(X_JAPANの曲\).md "wikilink")」を演奏した際には、[ギブソン・SG](../Page/ギブソン・SG.md "wikilink")を使用した。
 
 近年ではXJAPAN再結成後に入手したワインレッドカラーの76年のギブソン レスポールカスタムや、ホワイトカラーの08年製造のレスポールカスタム リイシューモデル等もステージで使用されており、これらも全てリアピックアップはトムホームズ製（恐らくH453）に載せ換えられている。
 
@@ -279,7 +279,7 @@
 <p>後にDope HEADzとなるメンバーによる。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong>Pata's P.A.F.</strong></p></td>
 <td><p><strong>Live</strong></p></td>
 <td><p>ライブ・アルバム</p></td>
@@ -408,14 +408,14 @@
       - [Toshl](https://ja.wikipedia.org/wiki/Toshl "wikilink")
       - [HIDE](https://ja.wikipedia.org/wiki/hide "wikilink")
       - [HEATH](../Page/HEATH.md "wikilink")
-      - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")
-      - [TAIJI](https://ja.wikipedia.org/wiki/沢田泰司 "wikilink")
+      - [SUGIZO](../Page/SUGIZO.md "wikilink")
+      - [TAIJI](../Page/沢田泰司.md "wikilink")
   - [Ra:IN](../Page/Ra:IN.md "wikilink")
-  - [山田信夫](https://ja.wikipedia.org/wiki/山田信夫_\(歌手\) "wikilink")
+  - [山田信夫](../Page/山田信夫_\(歌手\).md "wikilink")
   - [I.N.A](../Page/I.N.A.md "wikilink")
   - [上杉昇](../Page/上杉昇.md "wikilink")
   - [森重樹一](../Page/森重樹一.md "wikilink")
-  - [真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")
+  - [真矢](../Page/真矢_\(ドラマー\).md "wikilink")
   - [マーティー・フリードマン](https://ja.wikipedia.org/wiki/マーティー・フリードマン "wikilink")
   - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")
   - [CRAZY COOL JOE](https://ja.wikipedia.org/wiki/CRAZY_COOL_JOE "wikilink")

@@ -11,7 +11,7 @@
 
 ゲームの容量・ストーリーの少なかった『I』や『II』、キャラクターメイキングが可能だった『[ドラゴンクエストIII そして伝説へ…](../Page/ドラゴンクエストIII_そして伝説へ….md "wikilink")』などはゲーム本編には無いオリジナルシナリオなどを[脚本](../Page/脚本.md "wikilink")側で膨らませることが可能であり、登場キャラクターが非常に少ない『I』などは、原作ゲームには無い、主人公の養親や名前のある町娘などが登場したり、小説版に準拠した小説版オリジナルエピソードなどが挿入されたりしていた。しかし、ゲーム本編の容量・ストーリーが増してゆくにつれ、ドラマCDオリジナルの要素は失われていった。
 
-『I』『II』は1枚。『III』は2枚組。『[ドラゴンクエストIV 導かれし者たち](../Page/ドラゴンクエストIV_導かれし者たち.md "wikilink")』『[ドラゴンクエストV 天空の花嫁](https://ja.wikipedia.org/wiki/ドラゴンクエストV_天空の花嫁 "wikilink")』は3枚別売り。『VI』は2枚別売りだった。
+『I』『II』は1枚。『III』は2枚組。『[ドラゴンクエストIV 導かれし者たち](../Page/ドラゴンクエストIV_導かれし者たち.md "wikilink")』『[ドラゴンクエストV 天空の花嫁](../Page/ドラゴンクエストV_天空の花嫁.md "wikilink")』は3枚別売り。『VI』は2枚別売りだった。
 
 なおいずれのCDも、すでに生産が終了している。
 
@@ -76,7 +76,7 @@
 <div style="float:left; vertical-align:top; margin-right:1em">
 
   - 宿屋のおかみ：[吉田理保子](../Page/吉田理保子.md "wikilink")
-  - ヨシリーン（マイラの道具屋）：[星野充昭](https://ja.wikipedia.org/wiki/星野充昭 "wikilink")
+  - ヨシリーン（マイラの道具屋）：[星野充昭](../Page/星野充昭.md "wikilink")
   - ミナ（ヨシリーンの孫娘）：[冨永みーな](../Page/冨永みーな.md "wikilink")
   - 雨の祠の賢者：[青野武](../Page/青野武.md "wikilink")
   - メルキドの老人：[川久保潔](../Page/川久保潔.md "wikilink")
@@ -130,17 +130,17 @@
   - ナナ（ムーンブルクの王女）：[横山智佐](../Page/横山智佐.md "wikilink")
   - サイヴァ（悪魔神官）：[塩沢兼人](../Page/塩沢兼人.md "wikilink")
   - ハーゴン、シドー：[銀河万丈](../Page/銀河万丈.md "wikilink")
-  - ベリアル：[堀之紀](https://ja.wikipedia.org/wiki/堀之紀 "wikilink")
-  - バズズ：[千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
+  - ベリアル：[堀之紀](../Page/堀之紀.md "wikilink")
+  - バズズ：[千葉繁](../Page/千葉繁.md "wikilink")
 
 </div>
 
 <div style="float:left; vertical-align:top; margin-right:1em">
 
-  - ローレシア王：[小川真司](https://ja.wikipedia.org/wiki/小川真司 "wikilink")
+  - ローレシア王：[小川真司](../Page/小川真司.md "wikilink")
   - デルコンダル王：青野武
   - レシル（ルプガナで魔物に襲われる少女）：[江森浩子](../Page/江森浩子.md "wikilink")
-  - ハレノフ（ルプガナの船の持ち主）：[平野正人](https://ja.wikipedia.org/wiki/平野正人 "wikilink")
+  - ハレノフ（ルプガナの船の持ち主）：[平野正人](../Page/平野正人.md "wikilink")
   - ムーンブルク兵：[田中一成](../Page/田中一成.md "wikilink")
   - デルコンダルの娘：[南場千絵子](../Page/南場千絵子.md "wikilink")
 
@@ -226,7 +226,7 @@ DISC 2
 
   - サイモン：田中一成
   - サリーヌ（サイモンの妻）：南場千絵子
-  - ラルス一世：[石森達幸](https://ja.wikipedia.org/wiki/石森達幸 "wikilink")
+  - ラルス一世：[石森達幸](../Page/石森達幸.md "wikilink")
   - サスケ（マイラの鍛冶屋）：[中尾みち雄](../Page/中尾みち雄.md "wikilink")
   - ヨシリィ（サスケの妻）：[萩森侚子](../Page/萩森じゅん子.md "wikilink")
   - オルテガ：[戸谷公次](../Page/戸谷公次.md "wikilink")
@@ -239,7 +239,7 @@ DISC 2
 <div style="float:left; vertical-align:top; margin-right:1em">
 
   - サマンオサ王：郷里大輔
-  - ヒミコ：[中友子](https://ja.wikipedia.org/wiki/中友子 "wikilink")
+  - ヒミコ：[中友子](../Page/中友子.md "wikilink")
   - バラモス：[佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
   - ゾーマ：[柴田秀勝](../Page/柴田秀勝.md "wikilink")
   - ナレーター：屋良有作
@@ -371,13 +371,13 @@ DISC 2
   - アリーナ：[吉田古奈美](../Page/吉田小南美.md "wikilink")
   - クリフト：[中村大樹](../Page/中村大樹.md "wikilink")
   - ブライ：[八奈見乗児](../Page/八奈見乗児.md "wikilink")
-  - [トルネコ](https://ja.wikipedia.org/wiki/トルネコ "wikilink")：玄田哲章
+  - [トルネコ](../Page/トルネコ.md "wikilink")：玄田哲章
   - マーニャ：富沢美智恵
   - ミネア：江森浩子
   - レイ（勇者）：[金丸淳一](../Page/金丸淳一.md "wikilink")
   - ホイミン：[田中真弓](../Page/田中真弓.md "wikilink")
   - ロレンス：[里内信夫](../Page/里内信夫.md "wikilink")
-  - オーリン：[柴本浩行](https://ja.wikipedia.org/wiki/柴本浩行 "wikilink")
+  - オーリン：[柴本浩行](../Page/柴本浩行.md "wikilink")
   - ハルト五世（バトランド王）：[北村弘一](../Page/北村弘一.md "wikilink")
   - ステファン（ライアンの同僚）：梁田清之
 
@@ -395,8 +395,8 @@ DISC 2
   - シロン（サントハイム兵士）：[太田真一郎](../Page/太田真一郎.md "wikilink")
   - 審判：[小林俊夫](../Page/小林俊夫.md "wikilink")
   - クレイン（レイクナバの親方）：郷里大輔
-  - ネネ：[関根明子](https://ja.wikipedia.org/wiki/関根明子_\(声優\) "wikilink")
-  - ドン・ガアデ：[岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")
+  - ネネ：[関根明子](../Page/関根明子_\(声優\).md "wikilink")
+  - ドン・ガアデ：[岸野幸正](../Page/岸野幸正.md "wikilink")
   - モルダム（ボンモール王）：[稲葉実](../Page/稲葉実.md "wikilink")
   - ポポロ：萩森侚子
 
@@ -643,13 +643,13 @@ DISC 2
 <div style="float:left; vertical-align:top; margin-right:1em">
 
   - ルビス：潘恵子
-  - レイドック：[菅生隆之](https://ja.wikipedia.org/wiki/菅生隆之 "wikilink")
+  - レイドック：[菅生隆之](../Page/菅生隆之.md "wikilink")
   - シェーラ：[田中敦子](../Page/田中敦子_\(声優\).md "wikilink")
   - ターニア：[竹ノ内美奈子](https://ja.wikipedia.org/wiki/竹ノ内美奈子 "wikilink")
-  - ランド：[細井治](https://ja.wikipedia.org/wiki/細井治 "wikilink")
-  - ソルディ/トム：[金尾哲夫](https://ja.wikipedia.org/wiki/金尾哲夫 "wikilink")
-  - グランマーズ：[鈴木れい子](https://ja.wikipedia.org/wiki/鈴木れい子 "wikilink")
-  - ハッサンの父：[岡和男](https://ja.wikipedia.org/wiki/岡和男 "wikilink")
+  - ランド：[細井治](../Page/細井治.md "wikilink")
+  - ソルディ/トム：[金尾哲夫](../Page/金尾哲夫.md "wikilink")
+  - グランマーズ：[鈴木れい子](../Page/鈴木れい子.md "wikilink")
+  - ハッサンの父：[岡和男](../Page/岡和男.md "wikilink")
   - ハッサンの母：[岡本嘉子](../Page/岡本嘉子.md "wikilink")
 
 </div>
@@ -657,19 +657,19 @@ DISC 2
 <div style="float:left; vertical-align:top; margin-right:1em">
 
   - ゲバン：星野充昭
-  - 長老：[丸山詠二](https://ja.wikipedia.org/wiki/丸山詠二 "wikilink")
+  - 長老：[丸山詠二](../Page/丸山詠二.md "wikilink")
   - ゼニス：屋良有作
-  - ブボール：[巴菁子](https://ja.wikipedia.org/wiki/巴菁子 "wikilink")
+  - ブボール：[巴菁子](../Page/巴菁子.md "wikilink")
   - サリイ：[天野由梨](../Page/天野由梨.md "wikilink")
-  - メダル王：[長嶝高士](https://ja.wikipedia.org/wiki/長嶝高士 "wikilink")
+  - メダル王：[長嶝高士](../Page/長嶝高士.md "wikilink")
   - クリムト：[広瀬正志](../Page/広瀬正志.md "wikilink")
-  - マサール：[塚田正昭](https://ja.wikipedia.org/wiki/塚田正昭 "wikilink")
+  - マサール：[塚田正昭](../Page/塚田正昭.md "wikilink")
 
 </div>
 
 <div style="float:left; vertical-align:top; margin-right:1em">
 
-  - ムドー：[徳丸完](https://ja.wikipedia.org/wiki/徳丸完 "wikilink")
+  - ムドー：[徳丸完](../Page/徳丸完.md "wikilink")
   - ジャミラス：[山野井仁](../Page/山野井仁.md "wikilink")
   - デュラン：[中田和宏](../Page/中田和宏.md "wikilink")
   - デスタムーア：[緒方賢一](../Page/緒方賢一.md "wikilink")

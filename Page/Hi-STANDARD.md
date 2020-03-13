@@ -9,12 +9,12 @@
 
 ## メンバー
 
-  - **[難波章浩](../Page/難波章浩.md "wikilink")**（なんば あきひろ、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[6月9日](../Page/6月9日.md "wikilink") -）
+  - **[難波章浩](../Page/難波章浩.md "wikilink")**（なんば あきひろ、[1970年](../Page/1970年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink") -）
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")/[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[TYÜNK](https://ja.wikipedia.org/wiki/TYÜNK "wikilink")、[なんばあきひろ&宇宙船地球号](https://ja.wikipedia.org/wiki/なんばあきひろ&宇宙船地球号 "wikilink")、[ULTRA BRAiN](../Page/ULTRA_BRAiN.md "wikilink")、[難波章浩 NAMBA-](../Page/難波章浩.md "wikilink")-AKIHIRO、[NAMBA69](https://ja.wikipedia.org/wiki/NAMBA69 "wikilink")
   - **[恒岡章](https://ja.wikipedia.org/wiki/恒岡章 "wikilink")**（つねおか あきら、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[6月1日](../Page/6月1日.md "wikilink") -）
     [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")/コーラス担当。[CUBISMO GRAFICO FIVE](https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE "wikilink")、[LOW IQ & THE BEAT BREAKER](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")、[磯部正文](https://ja.wikipedia.org/wiki/磯部正文 "wikilink")BAND、[チャットモンチー](../Page/チャットモンチー.md "wikilink")等
   - **[横山健](../Page/横山健.md "wikilink")**（よこやま けん、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") -）
-    [ギター](../Page/ギター.md "wikilink")/[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[BBQ CHICKENS](https://ja.wikipedia.org/wiki/BBQ_CHICKENS "wikilink")、[Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink")
+    [ギター](../Page/ギター.md "wikilink")/[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[BBQ CHICKENS](../Page/BBQ_CHICKENS.md "wikilink")、[Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink")
 
 ## 来歴
 
@@ -37,7 +37,7 @@
 
 **[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")**
 
-  - 5月14日、アルバム『[ANGRY FIST](../Page/ANGRY_FIST.md "wikilink")』をリリース。[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")4位を記録。
+  - 5月14日、アルバム『[ANGRY FIST](../Page/ANGRY_FIST.md "wikilink")』をリリース。[オリコン初登場](../Page/オリコンチャート.md "wikilink")4位を記録。
   - 8月30日、初の主催フェスとなる「[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink") 97」を[東京都](../Page/東京都.md "wikilink")・[お台場](../Page/お台場.md "wikilink")レインボーステージにて開催。
 
 **[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")**
@@ -60,19 +60,19 @@
 
 **[2000年](../Page/2000年.md "wikilink")**
 
-  - 4月5日、シングル『[Love Is A Battlefield](../Page/Love_Is_A_Battlefield.md "wikilink")』をリリース。[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を記録。
+  - 4月5日、シングル『[Love Is A Battlefield](../Page/Love_Is_A_Battlefield.md "wikilink")』をリリース。[オリコン初登場](../Page/オリコンチャート.md "wikilink")2位を記録。
   - 8月30日、[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")にて「[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink") 2000」を開催。このライブを最後にHi-STANDARDは活動休止。
 
 **[2003年](../Page/2003年.md "wikilink")**
 
-  - 恒岡は[S.P.L.](https://ja.wikipedia.org/wiki/S.P.L. "wikilink")、[CUBISMO GRAFICO FIVEをはじめ](https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE "wikilink")、[LOW IQ \&THE BEAT BREAKERや](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")[佐藤タイジ](../Page/佐藤タイジ.md "wikilink")バンドなど多方面で活動。[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")のサポートドラマーとして「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」に出演。ハイスタ活動休止後に横山が結成した[BBQ CHICKENSでは初期](https://ja.wikipedia.org/wiki/BBQ_CHICKENS "wikilink")（正式ではない）メンバーとして参加していた。
+  - 恒岡は[S.P.L.](https://ja.wikipedia.org/wiki/S.P.L. "wikilink")、[CUBISMO GRAFICO FIVEをはじめ](https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE "wikilink")、[LOW IQ \&THE BEAT BREAKERや](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")[佐藤タイジ](../Page/佐藤タイジ.md "wikilink")バンドなど多方面で活動。[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")のサポートドラマーとして「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」に出演。ハイスタ活動休止後に横山が結成した[BBQ CHICKENSでは初期](../Page/BBQ_CHICKENS.md "wikilink")（正式ではない）メンバーとして参加していた。
 
 **[2004年](../Page/2004年.md "wikilink")**
 
   - 2月、横山が「[Ken Yokoyama](https://ja.wikipedia.org/wiki/KEN_YOKOYAMA "wikilink")」としてバンド活動を開始。
   - 12月11日、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")にて『祝15祭 スペシャプレミアムライブ15連発！Hi-STANDARD LIVE from AIR JAM 2000』が放送。4年ぶりに3人が顔を揃えてライヴを見た感想VTRが流れた。
 
-**[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+**[2005年](../Page/2005年.md "wikilink")**
 
   - 難波は音楽雑誌「[ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink")」のインタビューで、Hi-STANDARDの活動再開を示唆するも8月に「TYÜNK」「なんばあきひろ&宇宙船地球号」名義で2枚のソロ作品を発表し、翌年には「[ULTRA BRAiN](../Page/ULTRA_BRAiN.md "wikilink")」を結成している。
 
@@ -804,7 +804,7 @@ DVD</p></td>
 
 ## カバーした曲
 
-  - SINCE YOU BEEN GONE（[ヘッド・イースト](https://ja.wikipedia.org/wiki/ヘッド・イースト "wikilink")、[レインボー](https://ja.wikipedia.org/wiki/レインボー_\(バンド\) "wikilink")、作詞・作曲[Russ Ballard](https://ja.wikipedia.org/wiki/Russ_Ballard "wikilink")）
+  - SINCE YOU BEEN GONE（[ヘッド・イースト](https://ja.wikipedia.org/wiki/ヘッド・イースト "wikilink")、[レインボー](../Page/レインボー_\(バンド\).md "wikilink")、作詞・作曲[Russ Ballard](https://ja.wikipedia.org/wiki/Russ_Ballard "wikilink")）
   - SATURDAY NIGHT（[ベイ・シティ・ローラーズ](../Page/ベイ・シティ・ローラーズ.md "wikilink")）
   - CALIFORNIA DREAMIN'（[ママス&パパス](../Page/ママス&パパス.md "wikilink")）
   - [HAVE YOU EVER SEEN THE RAIN](https://ja.wikipedia.org/wiki/雨を見たかい "wikilink")（[クリーデンス・クリアウォーター・リバイバル](../Page/クリーデンス・クリアウォーター・リバイバル.md "wikilink")）
@@ -820,7 +820,7 @@ DVD</p></td>
   - NOW YOU DON'T REMEMBER ([SNUFF](https://ja.wikipedia.org/wiki/SNUFF "wikilink"))
   - What Kind Of Love (SNUFF)ライブにて演奏
   - Lovin' You（[ミニー・リパートン](../Page/ミニー・リパートン.md "wikilink")）
-  - PINK PANTHER（[ピンク・パンサー](https://ja.wikipedia.org/wiki/ピンク・パンサー "wikilink")、同名映画/邦題[ピンクの豹](../Page/ピンクの豹.md "wikilink")のテーマ、作曲は[ヘンリー・マンシーニ](https://ja.wikipedia.org/wiki/ヘンリー・マンシーニ "wikilink")）
+  - PINK PANTHER（[ピンク・パンサー](../Page/ピンク・パンサー.md "wikilink")、同名映画/邦題[ピンクの豹](../Page/ピンクの豹.md "wikilink")のテーマ、作曲は[ヘンリー・マンシーニ](../Page/ヘンリー・マンシーニ.md "wikilink")）
   - The Trooper（[アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")）ライブにて演奏
   - My Girl（[テンプテーションズ](../Page/テンプテーションズ.md "wikilink")）
   - Bridge Over Throubled Water（[サイモン&ガーファンクル](../Page/サイモン&ガーファンクル.md "wikilink")）
@@ -829,7 +829,7 @@ DVD</p></td>
 
 ### インディーズブームの走り
 
-  - 日本以外の国では[NOFX](../Page/NOFX.md "wikilink")の[ファット・マイク](https://ja.wikipedia.org/wiki/ファット・マイク "wikilink")にプロデュースされたことでも有名。NOFXのツアーにも参加しておりFAT MIKEが立ち上げたレーベル「Fat Wreck Chords」に所属している。他に[グリーン・デイ](https://ja.wikipedia.org/wiki/グリーン・デイ "wikilink")や[オフスプリング](https://ja.wikipedia.org/wiki/オフスプリング "wikilink")、[ブリンク 182などといった海外のバンドとツアーを回り成功を収めている](https://ja.wikipedia.org/wiki/ブリンク_182 "wikilink")。また[HUSKING BEEや](../Page/HUSKING_BEE.md "wikilink")[SHERBET](https://ja.wikipedia.org/wiki/SHERBET "wikilink")など、メンバーによるバンドプロデュースも行われている。
+  - 日本以外の国では[NOFX](../Page/NOFX.md "wikilink")の[ファット・マイク](https://ja.wikipedia.org/wiki/ファット・マイク "wikilink")にプロデュースされたことでも有名。NOFXのツアーにも参加しておりFAT MIKEが立ち上げたレーベル「Fat Wreck Chords」に所属している。他に[グリーン・デイ](../Page/グリーン・デイ.md "wikilink")や[オフスプリング](../Page/オフスプリング.md "wikilink")、[ブリンク 182などといった海外のバンドとツアーを回り成功を収めている](../Page/ブリンク_182.md "wikilink")。また[HUSKING BEEや](../Page/HUSKING_BEE.md "wikilink")[SHERBET](https://ja.wikipedia.org/wiki/SHERBET "wikilink")など、メンバーによるバンドプロデュースも行われている。
 
 ### アンチメジャー
 

@@ -3,7 +3,7 @@
 
 **ハロルド・E・パーマー**（Harold E. Palmer, [1877年](../Page/1877年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - [1949年](../Page/1949年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")）は、[大正](../Page/大正.md "wikilink")・[昭和](../Page/昭和.md "wikilink")期を代表する応用[英語学](../Page/英語学.md "wikilink")者・英語[教育学者](https://ja.wikipedia.org/wiki/教育学者 "wikilink")・[音声学](../Page/音声学.md "wikilink")者。Speechとしての言語（言語運用）と、Codeとしての言語（言語体系）を区別して、これを[言語教育](../Page/言語教育.md "wikilink")に適用し、20世紀の応用言語学の発展に寄与した。またspeechをさらに第一次伝達（Primary Speech）と第二次伝達（Secondary Speech）の二要素に分けている。
 
-[オーラルメソッド](../Page/オーラルメソッド.md "wikilink")（口頭教授法）を提唱し、[英語教授研究所](../Page/英語教授研究所.md "wikilink")（現在の財団法人[語学教育研究所](https://ja.wikipedia.org/wiki/語学教育研究所 "wikilink")）を設立して日本の[英語教育](../Page/英語教育.md "wikilink")改善に大きく貢献した。[女子学習院](../Page/学習院女子大学.md "wikilink")、[東京文理大](https://ja.wikipedia.org/wiki/東京文理大 "wikilink")、[東京外語大](https://ja.wikipedia.org/wiki/東京外語大 "wikilink")の講師も務めた。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")が堪能であった。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")出身。
+[オーラルメソッド](../Page/オーラルメソッド.md "wikilink")（口頭教授法）を提唱し、[英語教授研究所](../Page/英語教授研究所.md "wikilink")（現在の財団法人[語学教育研究所](../Page/語学教育研究所.md "wikilink")）を設立して日本の[英語教育](../Page/英語教育.md "wikilink")改善に大きく貢献した。[女子学習院](../Page/学習院女子大学.md "wikilink")、[東京文理大](https://ja.wikipedia.org/wiki/東京文理大 "wikilink")、[東京外語大](https://ja.wikipedia.org/wiki/東京外語大 "wikilink")の講師も務めた。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")が堪能であった。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")・[ロンドン](../Page/ロンドン.md "wikilink")出身。
 
 ## 略歴
 
@@ -49,7 +49,7 @@
 ## エピソード
 
   - Palmerは自分の名前をカナで「パーマ」と書いていたが、今日では美容院でのパーマと混同されるのを避けるため「パーマー」と表記するようになった。
-  - [1921年](../Page/1921年.md "wikilink")、第一次大戦後の欧米教育視察に来ていた元文部次官[澤柳政太郎](https://ja.wikipedia.org/wiki/澤柳政太郎 "wikilink")はパーマーに出会う。[松方幸次郎](../Page/松方幸次郎.md "wikilink")氏の経済的援助を得て、パーマーを日本に招くことにした。
+  - [1921年](../Page/1921年.md "wikilink")、第一次大戦後の欧米教育視察に来ていた元文部次官[澤柳政太郎](../Page/澤柳政太郎.md "wikilink")はパーマーに出会う。[松方幸次郎](../Page/松方幸次郎.md "wikilink")氏の経済的援助を得て、パーマーを日本に招くことにした。
   - パーマーの功績を称えて創設された語学教育研究所の「**パーマー賞**」は、素晴らしい実践をしている[中学校](../Page/中学校.md "wikilink")・[高等学校](https://ja.wikipedia.org/wiki/高等学校 "wikilink")の英語教師（または団体）に与えられる最高の栄誉として認められている。
 
 ## 関連文献など

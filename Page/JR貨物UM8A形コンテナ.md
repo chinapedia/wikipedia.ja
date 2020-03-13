@@ -58,7 +58,7 @@
 [File:UM8A-400.jpg|thumb|250px](File:UM8A-400.jpg%7Cthumb%7C250px)|[日本通運](https://ja.wikipedia.org/wiki/日本通運 "wikilink")が所有する軽量系の瓦礫類輸送用、UM8A-400 <File:UM8A->××× 【全国通運】 東日本大震災.jpg|thumb|250px|[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")で発生した木片瓦礫を積み込み、受け入れ先の静岡市へ輸送していた風景。 <File:UM8A-382> 【不明ユーザー】 東日本大震災.jpg|thumb|250px|東日本大震災で発生した瓦礫を搬出する時に、ゲートで厳重に放射線量を測定していた風景。 <File:UM8A-297> ② 【伊豆大島 土石流災害復興現場】より.jpg|thumb|250px|東日本大震災での瓦礫輸送終了後に、余剰となっていたコンテナの一部をクレーン吊り荷役に対応する様に改造して、[伊豆大島](../Page/伊豆大島.md "wikilink")で発生した豪雨瓦礫の輸送に従事した。
 
   - 127, 468, 639
-    [日東工業](https://ja.wikipedia.org/wiki/日東工業 "wikilink")所有、高圧受電設備輸送専用。積載時は[コキ50000形式貨車積載禁止](../Page/国鉄コキ50000形貨車.md "wikilink")。
+    [日東工業](../Page/日東工業.md "wikilink")所有、高圧受電設備輸送専用。積載時は[コキ50000形式貨車積載禁止](../Page/国鉄コキ50000形貨車.md "wikilink")。
 
 ### 1000番台
 

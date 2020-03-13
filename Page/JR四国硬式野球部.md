@@ -34,17 +34,17 @@
 ## 関連項目
 
   - [都市対抗野球大会 (香川県勢)](https://ja.wikipedia.org/wiki/都市対抗野球大会_\(香川県勢\) "wikilink")
-  - [四国旅客鉄道](https://ja.wikipedia.org/wiki/四国旅客鉄道 "wikilink")
+  - [四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")
   - [JR北海道硬式野球クラブ](../Page/JR北海道硬式野球クラブ.md "wikilink")
   - [JR盛岡硬式野球部](https://ja.wikipedia.org/wiki/JR盛岡硬式野球部 "wikilink")
   - [JR東日本東北硬式野球部](../Page/JR東日本東北硬式野球部.md "wikilink")
   - [JR秋田硬式野球部](https://ja.wikipedia.org/wiki/JR秋田硬式野球部 "wikilink")
   - [JR新潟硬式野球部](https://ja.wikipedia.org/wiki/JR新潟硬式野球部 "wikilink")
   - [JR水戸硬式野球部](https://ja.wikipedia.org/wiki/JR水戸硬式野球部 "wikilink")
-  - [JR千葉硬式野球部](https://ja.wikipedia.org/wiki/JR千葉硬式野球部 "wikilink")
+  - [JR千葉硬式野球部](../Page/JR千葉硬式野球部.md "wikilink")
   - [JR東日本硬式野球部](../Page/JR東日本硬式野球部.md "wikilink")
   - [JR東海硬式野球部](../Page/JR東海硬式野球部.md "wikilink")
-  - [JR西日本硬式野球部](https://ja.wikipedia.org/wiki/JR西日本硬式野球部 "wikilink")
+  - [JR西日本硬式野球部](../Page/JR西日本硬式野球部.md "wikilink")
   - [JR九州硬式野球部](../Page/JR九州硬式野球部.md "wikilink")
 
 ## 外部リンク

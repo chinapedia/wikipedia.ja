@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [1988年](../Page/1988年.md "wikilink")、[光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")のバックを主要活動としてスケートボーイズが12人編成で結成され、同年4月、そのうちの6人でSMAPが結成される。それから3年5ヶ月後の[9月9日](../Page/9月9日.md "wikilink")、今シングルでCDデビューを果たす。世間ではこの日を「SMAP誕生の日」としていて、各メディアはライブの映像とともにして毎年ニュースにしている。
+  - [1988年](../Page/1988年.md "wikilink")、[光GENJI](../Page/光GENJI.md "wikilink")のバックを主要活動としてスケートボーイズが12人編成で結成され、同年4月、そのうちの6人でSMAPが結成される。それから3年5ヶ月後の[9月9日](../Page/9月9日.md "wikilink")、今シングルでCDデビューを果たす。世間ではこの日を「SMAP誕生の日」としていて、各メディアはライブの映像とともにして毎年ニュースにしている。
   - この曲で『[第42回NHK紅白歌合戦](../Page/第42回NHK紅白歌合戦.md "wikilink")』に初出場した。
   - 香取はCDデビュー時中学3年生で、学校の給食の時間に香取がデビューした旨のアナウンスと共に校内放送で曲が流れたと『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』などで語っている。
   - 作詞は[2018年](../Page/2018年.md "wikilink")現在、SMAPの楽曲の作詞に最も関わっている人物である[森浩美](../Page/森浩美.md "wikilink")が担当。作曲のJimmy Johnsonも今作はこの名義で、後に[馬飼野康二](../Page/馬飼野康二.md "wikilink")名義と使い分けて多くのSMAPの作品に参加する。
@@ -15,12 +15,12 @@
   - 「Can't Stop\!\! -LOVING-」は[1992年](../Page/1992年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")発売のアルバム『[SMAP 001](https://ja.wikipedia.org/wiki/SMAP_001 "wikilink")』、[2001年](../Page/2001年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")発売のベストアルバム『[Smap Vest](https://ja.wikipedia.org/wiki/Smap_Vest "wikilink")』、[2016年](../Page/2016年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")発売のベストアルバム『[SMAP 25 YEARS](https://ja.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")』に収録されている。また、カップリングのうち一つの「SMAP」は、リミックスとして『[BOO](../Page/BOO_\(アルバム\).md "wikilink")』に再録されている。
   - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』のエンディングテーマ曲に使用された。
   - 2016年12月26日『SMAP×SMAP』最終回のエンディングにて、『SMAP×SMAP』のスタッフと歴代スタッフを含めメンバー全員と一緒に記念撮影するシーンで同曲が使用された。
-  - 2019年7月6日に[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")で放送された『[THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")』のジャニーズシャッフルメドレー第2部で[二宮和也](../Page/二宮和也.md "wikilink")、[錦戸亮](../Page/錦戸亮.md "wikilink")、[亀梨和也](../Page/亀梨和也.md "wikilink")、[薮宏太](https://ja.wikipedia.org/wiki/薮宏太 "wikilink")、[千賀健永](https://ja.wikipedia.org/wiki/千賀健永 "wikilink")によって披露された。
+  - 2019年7月6日に[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")で放送された『[THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink")』のジャニーズシャッフルメドレー第2部で[二宮和也](../Page/二宮和也.md "wikilink")、[錦戸亮](../Page/錦戸亮.md "wikilink")、[亀梨和也](../Page/亀梨和也.md "wikilink")、[薮宏太](../Page/薮宏太.md "wikilink")、[千賀健永](../Page/千賀健永.md "wikilink")によって披露された。
 
 ## チャート成績
 
-  - [1991年](../Page/1991年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")付の[オリコン週間シングルランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週8.1万枚を売り上げ、初登場2位を獲得した。発売された週が[CHAGE\&ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")「[SAY YES](https://ja.wikipedia.org/wiki/SAY_YES "wikilink")」（9月23日付では14.6万枚を売り上げ1位）のヒットと重なり初登場2位止まりとなった\[2\]。
-  - 本作発売の25年後の2016年8月、[SMAPの解散が発表されると](https://ja.wikipedia.org/wiki/SMAP解散騒動 "wikilink")、ファンを中心に自身の最大のヒット曲「[世界に一つだけの花](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")」の売上300万枚を目指した購入運動が起こった。丁度デビュー25周年にあたる2016年9月19日付週間チャート（対象期間:9月5日-11日）に購入が集中したことにより、同週で累積売り上げ枚数が上述の「SAY YES」を突破し「25年越しのリベンジ」を果たした\[3\]。
+  - [1991年](../Page/1991年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")付の[オリコン週間シングルランキングで](../Page/オリコンチャート.md "wikilink")、初週8.1万枚を売り上げ、初登場2位を獲得した。発売された週が[CHAGE\&ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")「[SAY YES](../Page/SAY_YES.md "wikilink")」（9月23日付では14.6万枚を売り上げ1位）のヒットと重なり初登場2位止まりとなった\[2\]。
+  - 本作発売の25年後の2016年8月、[SMAPの解散が発表されると](https://ja.wikipedia.org/wiki/SMAP解散騒動 "wikilink")、ファンを中心に自身の最大のヒット曲「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」の売上300万枚を目指した購入運動が起こった。丁度デビュー25周年にあたる2016年9月19日付週間チャート（対象期間:9月5日-11日）に購入が集中したことにより、同週で累積売り上げ枚数が上述の「SAY YES」を突破し「25年越しのリベンジ」を果たした\[3\]。
 
 ## 収録曲
 

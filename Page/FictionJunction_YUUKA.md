@@ -12,7 +12,7 @@
 
 **結成まで**
 
-  - 1997年 - 1998年頃、梶浦由記は[南青山少女歌劇団](https://ja.wikipedia.org/wiki/南青山少女歌劇団 "wikilink")の劇伴音楽に携わるようになり、そこで同劇団のメンバーであった南里侑香（YUUKA）の存在を知る。
+  - 1997年 - 1998年頃、梶浦由記は[南青山少女歌劇団](../Page/南青山少女歌劇団.md "wikilink")の劇伴音楽に携わるようになり、そこで同劇団のメンバーであった南里侑香（YUUKA）の存在を知る。
   - 2000年以降、南里は南青山少女歌劇団の主要メンバーとして活躍。梶浦は南里が主演したミュージカル作品の楽曲を数多く制作している。
   - 2001年、南里が南青山少女歌劇団を卒団。以降、同劇団は活動休止状態となる。
   - 2003年、アニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』の挿入歌の制作を梶浦が担当、その歌い手として南里が抜擢される。レコーディング時はアーティスト名義が決まっていない状態だったが、梶浦は長年構想を温めていた「[FictionJunction](../Page/FictionJunction.md "wikilink")」プロジェクトをここから始動し、「**FictionJunction featuring YUUKA**」としてデビュー曲「暁の車」を発表する。
@@ -21,7 +21,7 @@
 
   - 2004年、1stシングルのリリースに併せ、ユニット名を「**FictionJunction YUUKA**」と改める。
   - 2004年、アニメ『[MADLAX](../Page/MADLAX.md "wikilink")』挿入歌「nowhere」のコーラス部分のフレーズが人気を博す。
-  - 2004年 - 2005年、3rdシングル「暁の車」が45回にわたって[オリコンの週間ランキングにチャートインする](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。
+  - 2004年 - 2005年、3rdシングル「暁の車」が45回にわたって[オリコンの週間ランキングにチャートインする](../Page/オリコンチャート.md "wikilink")。
   - 2005年、4thシングル「焔の扉」が9月22日付のオリコン・シングルデイリーランキングで第1位を記録する（週間ランキング第5位）。
   - 2007年、初のフルライブとなる「Premium Live 2007」が大阪[BIGCAT](https://ja.wikipedia.org/wiki/BIG_CAT "wikilink")・東京[Shibuya O-Eastで行われる](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")。
   - 2009年、梶浦由記と関連ボーカリスト達の公式ファンクラブ「FictionJunction CLUB」設立。

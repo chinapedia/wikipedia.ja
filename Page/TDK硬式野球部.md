@@ -1,7 +1,7 @@
 > この記事は[TDK](https://ja.wikipedia.org/wiki/TDK)から翻訳されています。
 
 
-**TDK硬式野球部**（ティーディーケイこうしきやきゅうぶ）は、[秋田県](../Page/秋田県.md "wikilink")[にかほ市](https://ja.wikipedia.org/wiki/にかほ市 "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟している[社会人野球](../Page/社会人野球.md "wikilink")の企業チーム。
+**TDK硬式野球部**（ティーディーケイこうしきやきゅうぶ）は、[秋田県](../Page/秋田県.md "wikilink")[にかほ市](../Page/にかほ市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟している[社会人野球](../Page/社会人野球.md "wikilink")の企業チーム。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 、[都市対抗野球に初出場を果たすが初戦敗退に終わる](../Page/第44回都市対抗野球大会.md "wikilink")。その後も、8度目の出場まで初戦で敗退している。
 
-、[都市対抗野球の](../Page/第77回都市対抗野球大会.md "wikilink")1回戦の[伯和ビクトリーズ](https://ja.wikipedia.org/wiki/伯和ビクトリーズ "wikilink")戦で初勝利を挙げると、その後も勝ち進み、決勝では[日産自動車を破り](../Page/日産自動車硬式野球部.md "wikilink")、[秋田県勢および](https://ja.wikipedia.org/wiki/都市対抗野球大会_\(秋田県勢\) "wikilink")[東北勢の初となる優勝を果たした](https://ja.wikipedia.org/wiki/東北地方 "wikilink")。
+、[都市対抗野球の](../Page/第77回都市対抗野球大会.md "wikilink")1回戦の[伯和ビクトリーズ](../Page/伯和ビクトリーズ.md "wikilink")戦で初勝利を挙げると、その後も勝ち進み、決勝では[日産自動車を破り](../Page/日産自動車硬式野球部.md "wikilink")、[秋田県勢および](https://ja.wikipedia.org/wiki/都市対抗野球大会_\(秋田県勢\) "wikilink")[東北勢の初となる優勝を果たした](https://ja.wikipedia.org/wiki/東北地方 "wikilink")。
 
 [2月20日](../Page/2月20日.md "wikilink")、世界的な不況の影響を受け廃部となったTDK千曲川を統合し、TDKグループ唯一の野球部となった\[1\]。なお、TDK千曲川から監督・11選手が移籍した。
 
@@ -18,7 +18,7 @@
   - [1959年](../Page/1959年.md "wikilink") - 創部。
   - [1973年](../Page/1973年.md "wikilink") - [都市対抗野球大会に初出場](../Page/第44回都市対抗野球大会.md "wikilink")（初戦敗退）。
   - [1974年](../Page/1974年.md "wikilink") - [日本選手権に初出場](https://ja.wikipedia.org/wiki/第1回社会人野球日本選手権大会 "wikilink")（第1回大会、2回戦敗退）。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [10月1日](../Page/10月1日.md "wikilink")に市町村合併に伴い本拠地が[にかほ市](https://ja.wikipedia.org/wiki/にかほ市 "wikilink")に変更。
+  - [2005年](../Page/2005年.md "wikilink") - [10月1日](../Page/10月1日.md "wikilink")に市町村合併に伴い本拠地が[にかほ市](../Page/にかほ市.md "wikilink")に変更。
   - [2006年](../Page/2006年.md "wikilink")
       - [9月5日](../Page/9月5日.md "wikilink") - [都市対抗野球で初優勝](../Page/第77回都市対抗野球大会.md "wikilink")。
       - [10月20日](../Page/10月20日.md "wikilink") - [秋田県県民栄誉章](https://ja.wikipedia.org/wiki/秋田県県民栄誉章 "wikilink")を受章。
@@ -32,7 +32,7 @@
 
 ## 出身プロ野球選手
 
-  - [仁部智](https://ja.wikipedia.org/wiki/仁部智 "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト5位で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団　※チーム出身者として初の[プロ野球選手](../Page/プロ野球選手.md "wikilink")
+  - [仁部智](../Page/仁部智.md "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト5位で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団　※チーム出身者として初の[プロ野球選手](../Page/プロ野球選手.md "wikilink")
   - [大原慎司](https://ja.wikipedia.org/wiki/大原慎司 "wikilink")（投手） - ドラフト5位で[横浜ベイスターズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [豊田拓矢](https://ja.wikipedia.org/wiki/豊田拓矢 "wikilink")（投手） - ドラフト3位で[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")に入団
 

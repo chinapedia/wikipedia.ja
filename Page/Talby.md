@@ -1,13 +1,13 @@
 > この記事は[Talby](https://ja.wikipedia.org/wiki/Talby)から翻訳されています。
 
 
-**talby**（**たるびー**）は、三洋マルチメディア鳥取（現・[三洋テクノソリューションズ鳥取](https://ja.wikipedia.org/wiki/三洋テクノソリューションズ鳥取 "wikilink")）が設計・生産した、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[CDMA 1X対応](../Page/CDMA_1X.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")である。端末型番はA5508SA。
+**talby**（**たるびー**）は、三洋マルチメディア鳥取（現・[三洋テクノソリューションズ鳥取](../Page/三洋テクノソリューションズ鳥取.md "wikilink")）が設計・生産した、[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[CDMA 1X対応](../Page/CDMA_1X.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")である。端末型番はA5508SA。
 
 ## 概要
 
-talbyは[au design projectの第](https://ja.wikipedia.org/wiki/au_design_project "wikilink")3弾の端末である。（第1弾は[INFOBAR](https://ja.wikipedia.org/wiki/INFOBAR "wikilink")、第2弾は[CDMA 1X WIN端末である](../Page/CDMA_1X_WIN.md "wikilink")[W11K](../Page/W11K.md "wikilink")）
+talbyは[au design projectの第](https://ja.wikipedia.org/wiki/au_design_project "wikilink")3弾の端末である。（第1弾は[INFOBAR](../Page/INFOBAR.md "wikilink")、第2弾は[CDMA 1X WIN端末である](../Page/CDMA_1X_WIN.md "wikilink")[W11K](../Page/W11K.md "wikilink")）
 
-ストレート式。外部メモリーは非対応。カメラ性能は[CMOS](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink") 約31万画素。
+ストレート式。外部メモリーは非対応。カメラ性能は[CMOS](../Page/CMOSイメージセンサ.md "wikilink") 約31万画素。
 
 端末のデザインは[プロダクトデザイナー](https://ja.wikipedia.org/wiki/プロダクトデザイナー "wikilink")の[マーク・ニューソン](https://ja.wikipedia.org/wiki/マーク・ニューソン "wikilink")([Marc Newson](https://ja.wikipedia.org/wiki/:en:Marc_Newson "wikilink"))による。形状はINFOBARと同じストレートタイプだが、[QVGA液晶に対応するなど折りたたみ式の携帯電話と機能性はほとんど変わらないのが特徴である](../Page/Quarter_Video_Graphics_Array.md "wikilink")。
 

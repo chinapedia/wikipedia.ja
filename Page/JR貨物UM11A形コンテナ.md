@@ -10,7 +10,7 @@
 ### 0番台
 
   - 1 - 61
-    [日本環境鉄道輸送](https://ja.wikipedia.org/wiki/日本環境鉄道輸送 "wikilink")[所有](../Page/所有権.md "wikilink")（[ヤマゼン](https://ja.wikipedia.org/wiki/ヤマゼン "wikilink")借受）、[焼却灰専用](https://ja.wikipedia.org/wiki/灰 "wikilink")。空返回送時は2段重ね可。
+    [日本環境鉄道輸送](https://ja.wikipedia.org/wiki/日本環境鉄道輸送 "wikilink")[所有](../Page/所有権.md "wikilink")（[ヤマゼン](https://ja.wikipedia.org/wiki/ヤマゼン "wikilink")借受）、[焼却灰専用](../Page/灰.md "wikilink")。空返回送時は2段重ね可。
     後に一部[芳賀通運](https://ja.wikipedia.org/wiki/芳賀通運 "wikilink")所有に変更。
 
 <File:UM11A-61----①> 【ヤマゼン】Containers of Japan Rail.jpg|**UM11A-61 日本環境鉄道輸送所／ヤマゼン借受。**

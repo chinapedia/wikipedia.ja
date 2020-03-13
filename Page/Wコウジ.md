@@ -9,9 +9,9 @@
 
 正式にコンビとして活動している訳ではなく、あくまでもピン芸人2人によるユニットである。[ダウンタウンはもちろん](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[志村けん](../Page/志村けん.md "wikilink")、[ビートたけし](../Page/ビートたけし.md "wikilink")、[明石家さんま](../Page/明石家さんま.md "wikilink")、[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")、[とんねるず](../Page/とんねるず.md "wikilink")、[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")の番組でも同じ役割を果たすなど、多くの番組にタッグで出演しており、2人でMCを務めた番組も多い。古くは1980年代後半から[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")で開催されていた吉本の超若手芸人のライブイベント「2丁目jr.たんけんたい」（上部組織に[ダウンタウンと](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、ほぼ同期生クラスの芸人計6組が出演する「2丁目探検隊」があった）の司会進行をペアで務めていたこともある。最も共演が多かったのは[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")前後とみられ、テレビ番組『[今田・東野のCMコウジ園](https://ja.wikipedia.org/wiki/今田・東野のCMコウジ園 "wikilink")』や『[天使のU・B・U・G](../Page/天使のU・B・U・G.md "wikilink")』などの多くが集中している。
 
-1995年には、[武内由紀子](../Page/武内由紀子.md "wikilink")とともに[EAST END×YURIのパロディーグループ](https://ja.wikipedia.org/wiki/EAST_END×YURI "wikilink")「WEST END×YUKI」としてシングル「SO.YA.NA」とミニアルバムを発表した。また、[池谷幸雄](../Page/池谷幸雄.md "wikilink")とともに[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』で「チュンチュンワールド」という楽曲を歌ったこともある。
+1995年には、[武内由紀子](../Page/武内由紀子.md "wikilink")とともに[EAST END×YURIのパロディーグループ](../Page/EAST_END×YURI.md "wikilink")「WEST END×YUKI」としてシングル「SO.YA.NA」とミニアルバムを発表した。また、[池谷幸雄](../Page/池谷幸雄.md "wikilink")とともに[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』で「チュンチュンワールド」という楽曲を歌ったこともある。
 
-『やりすぎコージー』では、[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")が自分も含めて「トリプルコウジ」と自称することがある。
+『やりすぎコージー』では、[千原ジュニア](../Page/千原ジュニア.md "wikilink")が自分も含めて「トリプルコウジ」と自称することがある。
 
 年齢は今田が東野の2歳上であり、芸歴も今田が半年ほど先輩であるため東野は今田を「おにいちゃん」「うちのアニキ」、今田は東野を「うちの弟」などと表現することがある。
 
@@ -62,9 +62,9 @@
 
   - [ラジオDEごめん](../Page/ラジオDEごめん.md "wikilink")（[中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink")）
   - [笑いの殿堂](../Page/笑いの殿堂.md "wikilink")（フジテレビ系）
-  - [まっ昼ま王\!\!](https://ja.wikipedia.org/wiki/まっ昼ま王!! "wikilink")（テレビ朝日系）
+  - [まっ昼ま王\!\!](../Page/まっ昼ま王!!.md "wikilink")（テレビ朝日系）
   - [ゲームカタログ2](https://ja.wikipedia.org/wiki/ゲームカタログ2 "wikilink")（テレビ朝日系）
-  - [ひらめけ\!発明大将軍](https://ja.wikipedia.org/wiki/発明将軍ダウンタウン "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）
+  - [ひらめけ\!発明大将軍](../Page/発明将軍ダウンタウン.md "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）
   - [マジカル頭脳パワー\!\!](../Page/マジカル頭脳パワー!!.md "wikilink")（日本テレビ系）\[4\]
   - [今田・東野のCMコウジ園](https://ja.wikipedia.org/wiki/今田・東野のCMコウジ園 "wikilink")（日本テレビ系）
   - [快傑\!コウジ園](../Page/快傑!コウジ園.md "wikilink")（日本テレビ系）
@@ -72,7 +72,7 @@
   - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")（日本テレビ系）\[5\]
   - [即席\!明るい改造計画](https://ja.wikipedia.org/wiki/即席!明るい改造計画 "wikilink")（[よみうりテレビ](https://ja.wikipedia.org/wiki/よみうりテレビ "wikilink")）
   - [天使のU・B・U・G](../Page/天使のU・B・U・G.md "wikilink")（フジテレビ系）
-  - [冒冒グラフ](https://ja.wikipedia.org/wiki/冒冒グラフ "wikilink")（フジテレビ系）
+  - [冒冒グラフ](../Page/冒冒グラフ.md "wikilink")（フジテレビ系）
   - [oh\!黄金サービス](https://ja.wikipedia.org/wiki/oh!黄金サービス "wikilink")（フジテレビ系）
   - [今田耕司のシブヤ系うらりんご](../Page/今田耕司のシブヤ系うらりんご.md "wikilink")（フジテレビ系）
   - [クイズ\!渡る世間は金ばかり?\!](../Page/クイズ!渡る世間は金ばかり?!.md "wikilink")（テレビ朝日系）
@@ -82,7 +82,7 @@
   - 熱帯シナモンズ（TBS系）
   - 純情学園男組（ABCテレビ）
   - [27時間チャレンジテレビ](../Page/27時間チャレンジテレビ.md "wikilink")（テレビ朝日系）\[6\]
-  - [ぷらちなロンドンブーツ](https://ja.wikipedia.org/wiki/ぷらちなロンドンブーツ "wikilink")（テレビ朝日）\[7\]
+  - [ぷらちなロンドンブーツ](../Page/ぷらちなロンドンブーツ.md "wikilink")（テレビ朝日）\[7\]
   - [志村けんのバカ殿様](../Page/志村けんのバカ殿様.md "wikilink")（フジテレビ系）\[8\]
   - らぶ衛門（テレビ朝日）
   - [ナンバ壱番館](../Page/ナンバ壱番館.md "wikilink")（ナイトinナイト木曜日）朝日放送（ABCテレビ）
@@ -93,7 +93,7 @@
   - [太郎と花子](https://ja.wikipedia.org/wiki/太郎と花子_\(CBCテレビ\) "wikilink")（CBCテレビ）
   - [ネッパ者](../Page/ネッパ者.md "wikilink")（CBCテレビ）
   - [ノブナガ](../Page/ノブナガ.md "wikilink")（CBCテレビ）
-  - [4時ですよーだ](https://ja.wikipedia.org/wiki/4時ですよーだ "wikilink") （毎日放送）
+  - [4時ですよーだ](../Page/4時ですよーだ.md "wikilink") （毎日放送）
   - [夕焼けの松ちゃん浜ちゃん](../Page/夕焼けの松ちゃん浜ちゃん.md "wikilink")（毎日放送）
   - [ダウンタウンのゆーたもん勝ち](../Page/ダウンタウンのゆーたもん勝ち.md "wikilink") （毎日放送）
   - [ダウンタウンのごっつええ感じ](../Page/ダウンタウンのごっつええ感じ.md "wikilink") （フジテレビ系）

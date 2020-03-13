@@ -39,7 +39,7 @@
 
   - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")：出場16回、8強2回（1977、1992年）
   - [社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink")：出場7回、8強1回（1990年）
-  - [JABA北海道大会](https://ja.wikipedia.org/wiki/JABA北海道大会 "wikilink")：優勝3回（1972、1973、1986年）
+  - [JABA北海道大会](../Page/JABA北海道大会.md "wikilink")：優勝3回（1972、1973、1986年）
   - [JABA岡山大会](../Page/JABA岡山大会.md "wikilink")：優勝1回（1987年）
 
 ## 主な出身プロ野球選手
@@ -48,11 +48,11 @@
   - [村井英司](https://ja.wikipedia.org/wiki/村井英司 "wikilink")（[捕手](../Page/捕手.md "wikilink")） - ドラフト4位で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
   - [三浦正行](../Page/三浦正行.md "wikilink")（捕手） - ドラフト6位で[大洋ホエールズから指名を受け](../Page/横浜DeNAベイスターズ.md "wikilink")、翌1975年シーズン終了後に入団
   - [鈴木貴久](../Page/鈴木貴久.md "wikilink")（外野手） - ドラフト5位で[近鉄バファローズに入団](../Page/大阪近鉄バファローズ.md "wikilink")
-  - [島崎毅](https://ja.wikipedia.org/wiki/島崎毅 "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト4位で日本ハムファイターズに入団
+  - [島崎毅](../Page/島崎毅.md "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト4位で日本ハムファイターズに入団
 
 ## 元プロ野球選手の競技者登録
 
-  - [田原藤太郎](https://ja.wikipedia.org/wiki/田原藤太郎 "wikilink")（元：[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")） - 投手→退団
+  - [田原藤太郎](https://ja.wikipedia.org/wiki/田原藤太郎 "wikilink")（元：[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")） - 投手→退団
   - [松井猛](https://ja.wikipedia.org/wiki/松井猛 "wikilink")（元：[大毎オリオンズ](../Page/千葉ロッテマリーンズ.md "wikilink")） - 外野手→退団
   - [浅田肇](https://ja.wikipedia.org/wiki/浅田肇 "wikilink")（元：[国鉄スワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")） - 投手（1956年～1962年）→退団
 
@@ -61,7 +61,7 @@
   - [社会人野球チーム一覧](../Page/社会人野球チーム一覧.md "wikilink")
   - [都市対抗野球大会 (北海道勢)](https://ja.wikipedia.org/wiki/都市対抗野球大会_\(北海道勢\) "wikilink")
   - NTTの硬式野球部（[NTT東日本](../Page/NTT東日本硬式野球部.md "wikilink")、[NTT西日本](../Page/NTT西日本硬式野球部.md "wikilink")）
-      - [東北マークス](https://ja.wikipedia.org/wiki/東北マークス "wikilink")（旧：NTT東北） - 統廃合の際にクラブチーム化。
+      - [東北マークス](../Page/東北マークス.md "wikilink")（旧：NTT東北） - 統廃合の際にクラブチーム化。
       - [NTT関東](https://ja.wikipedia.org/wiki/NTT関東硬式野球部 "wikilink") - 統廃合の際に廃部。
       - [信越硬式野球クラブ](../Page/信越硬式野球クラブ.md "wikilink")（旧：NTT信越） - 統廃合の際にクラブチーム化。
       - [NTT北陸](https://ja.wikipedia.org/wiki/NTT北陸 "wikilink") - 統廃合の際にクラブチーム化。1999年に廃部。

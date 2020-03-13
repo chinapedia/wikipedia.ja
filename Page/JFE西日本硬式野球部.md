@@ -3,13 +3,13 @@
 
 **JFE西日本硬式野球部**（ジェイエフイーにしにほんこうしきやきゅうぶ）は、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")と[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。
 
-運営母体は、[JFEホールディングス](https://ja.wikipedia.org/wiki/JFEホールディングス "wikilink")の中核企業である[鉄鋼](https://ja.wikipedia.org/wiki/鉄鋼 "wikilink")メーカーの[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")。
+運営母体は、[JFEホールディングス](../Page/JFEホールディングス.md "wikilink")の中核企業である[鉄鋼](https://ja.wikipedia.org/wiki/鉄鋼 "wikilink")メーカーの[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")。
 
 ## 概略
 
 ### 誕生の経緯
 
-、[日本鋼管（NKK）と](https://ja.wikipedia.org/wiki/JFEエンジニアリング "wikilink")[川崎製鉄](../Page/川崎製鉄.md "wikilink")が合併し[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")が発足すると発表された。これに伴い、各社所有の野球部はJFEスチールの[JFEスチール東日本製鉄所](../Page/JFEスチール東日本製鉄所.md "wikilink")（千葉・京浜）と[JFEスチール西日本製鉄所](../Page/JFEスチール西日本製鉄所.md "wikilink")（倉敷・福山）を拠点とした2チームに集約されることになった。東日本には川崎製鉄千葉硬式野球部しかなかったことから\[1\]チーム名を[JFE東日本硬式野球部](../Page/JFE東日本硬式野球部.md "wikilink")に改称するのみで済んだが、西日本には[NKK硬式野球部](https://ja.wikipedia.org/wiki/NKK硬式野球部 "wikilink")と[川崎製鉄水島硬式野球部](https://ja.wikipedia.org/wiki/川崎製鉄水島硬式野球部 "wikilink")があったことから、シーズン限りで両チームを廃部にして統合し、から『**JFE西日本硬式野球部**』として[日本野球連盟](../Page/日本野球連盟.md "wikilink")に新規登録される形で活動を開始した。本拠地は、NKKのあった[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")に置かれた。
+、[日本鋼管（NKK）と](../Page/JFEエンジニアリング.md "wikilink")[川崎製鉄](../Page/川崎製鉄.md "wikilink")が合併し[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")が発足すると発表された。これに伴い、各社所有の野球部はJFEスチールの[JFEスチール東日本製鉄所](../Page/JFEスチール東日本製鉄所.md "wikilink")（千葉・京浜）と[JFEスチール西日本製鉄所](../Page/JFEスチール西日本製鉄所.md "wikilink")（倉敷・福山）を拠点とした2チームに集約されることになった。東日本には川崎製鉄千葉硬式野球部しかなかったことから\[1\]チーム名を[JFE東日本硬式野球部](../Page/JFE東日本硬式野球部.md "wikilink")に改称するのみで済んだが、西日本には[NKK硬式野球部](https://ja.wikipedia.org/wiki/NKK硬式野球部 "wikilink")と[川崎製鉄水島硬式野球部](https://ja.wikipedia.org/wiki/川崎製鉄水島硬式野球部 "wikilink")があったことから、シーズン限りで両チームを廃部にして統合し、から『**JFE西日本硬式野球部**』として[日本野球連盟](../Page/日本野球連盟.md "wikilink")に新規登録される形で活動を開始した。本拠地は、NKKのあった[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")に置かれた。
 
 ### 創部後
 
@@ -39,14 +39,14 @@
 ## 主な出身プロ野球選手
 
   - [稲田直人](../Page/稲田直人.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - ドラフト5位で[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")に入団
-  - [田中敬人](https://ja.wikipedia.org/wiki/田中敬人 "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト8位で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団
+  - [田中敬人](../Page/田中敬人.md "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト8位で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団
   - [岡本秀寛](../Page/岡本秀寛.md "wikilink")（投手） - 大学生・社会人ドラフト4位で[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")に入団
   - [内村賢介](../Page/内村賢介.md "wikilink")（内野手） - 退団後、[BCリーグの](../Page/ベースボール・チャレンジ・リーグ.md "wikilink")[石川ミリオンスターズ](../Page/石川ミリオンスターズ.md "wikilink")を経て、2007年育成選手ドラフト1位で[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")に入団
   - [河野竜生](https://ja.wikipedia.org/wiki/河野竜生 "wikilink")（投手） - ドラフト1位で北海道日本ハムファイターズ指名
 
 ## 元プロ野球選手の競技者登録
 
-  - [樋口賢](https://ja.wikipedia.org/wiki/樋口賢 "wikilink")（元：[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")） - 投手（2010年）→退団
+  - [樋口賢](https://ja.wikipedia.org/wiki/樋口賢 "wikilink")（元：[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")） - 投手（2010年）→退団
   - [小林寛](https://ja.wikipedia.org/wiki/小林寛_\(野球\) "wikilink")（元：[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")） - 投手（2018年 - ）
   - [梵英心](../Page/梵英心.md "wikilink")（元：[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")） - コーチ（2020年。エイジェックから派遣）\[2\]
 

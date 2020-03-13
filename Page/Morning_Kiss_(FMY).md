@@ -5,9 +5,9 @@
 
 ## 概要
 
-2001年10月1日、「2001年秋の大改編」の一つとしてスタートした朝のワイド番組。前番組『[Open Sesame\!](https://ja.wikipedia.org/wiki/Open_Sesame! "wikilink")』([JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")) のネットを打ち切って開始された、FM山口初の朝の自社製作ワイド番組である。
+2001年10月1日、「2001年秋の大改編」の一つとしてスタートした朝のワイド番組。前番組『[Open Sesame\!](../Page/Open_Sesame!.md "wikilink")』([JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")) のネットを打ち切って開始された、FM山口初の朝の自社製作ワイド番組である。
 
-開始当初は月曜 - 木曜と金曜で内容が異なっており、金曜は『**[デリシャス・フライデー](https://ja.wikipedia.org/wiki/デリシャス・フライデー "wikilink") Morning Kiss**』（2001年10月 - 2004年3月）→『**Morning Kiss Friday Edition Okky's Super Radio Show**』（フライデー・エディション・オッキーズ・スーパー・レディオショー。2004年4月 - 6月）→『**Morning Kiss Friday Edition**』（2004年7月 - 2005年3月）の番組名で放送されていたが、同年4月に月曜から木曜の内容と同一となった。
+開始当初は月曜 - 木曜と金曜で内容が異なっており、金曜は『**[デリシャス・フライデー](../Page/デリシャス・フライデー.md "wikilink") Morning Kiss**』（2001年10月 - 2004年3月）→『**Morning Kiss Friday Edition Okky's Super Radio Show**』（フライデー・エディション・オッキーズ・スーパー・レディオショー。2004年4月 - 6月）→『**Morning Kiss Friday Edition**』（2004年7月 - 2005年3月）の番組名で放送されていたが、同年4月に月曜から木曜の内容と同一となった。
 
 Morning Kissのオープニングで使われているジングルでは、「**Heart Warm Radio**」という部分が残っていた。
 
@@ -38,7 +38,7 @@ Morning Kissのオープニングで使われているジングルでは、「**
         最新の道路情報
   - 7:40 MUSIC SHOWER　　　　　
       -
-        往年の洋楽のヒット曲から3曲セレクト（提供: [ネッツトヨタ山口](https://ja.wikipedia.org/wiki/ネッツ店 "wikilink")）
+        往年の洋楽のヒット曲から3曲セレクト（提供: [ネッツトヨタ山口](../Page/ネッツ店.md "wikilink")）
     <!-- end list -->
       - 7:45ごろ Today's Focus　　
           -
@@ -50,10 +50,10 @@ Morning Kissのオープニングで使われているジングルでは、「**
   - 8:00 TOKYO FM [SKY](../Page/SKY_\(ラジオ番組\).md "wikilink")
       - 8:00 - 09 [SUZUKI Inside Story](../Page/SUZUKI_Inside_Story.md "wikilink")
       - 8:09 - 10 [Roots Presents マリーに聞いてゴー\!](../Page/Roots_Presents_マリーに聞いてゴー!.md "wikilink")
-      - 8:10 - 20 [Honda SWEET MISSION](https://ja.wikipedia.org/wiki/Honda_SWEET_MISSION "wikilink")
+      - 8:10 - 20 [Honda SWEET MISSION](../Page/Honda_SWEET_MISSION.md "wikilink")
   - 8:20 お父さんお母さんのための今日のHIT DISC　
       -
-        最新の音楽情報を紹介。水曜は[オリコンランキング](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")
+        最新の音楽情報を紹介。水曜は[オリコンランキング](../Page/オリコンチャート.md "wikilink")
   - 8:25 天気予報　　　
       -
         最新の天気予報
@@ -71,7 +71,7 @@ Morning Kissのオープニングで使われているジングルでは、「**
         最新の道路情報
   - 8:55 日経ジャーナル　　　　　
       -
-        日経の経済ニュースを放送する（提供: [宇部興産](https://ja.wikipedia.org/wiki/宇部興産 "wikilink")グループ）
+        日経の経済ニュースを放送する（提供: [宇部興産](../Page/宇部興産.md "wikilink")グループ）
         NEWS BOXと同様のBGMを使用。ヘッドラインを読み上げた後、"JAPANESE ECONOMY JOURNAL"という別の名称が用いられた。
   - 9:00 お仕事前のブレインチェック　
       -
@@ -88,10 +88,10 @@ Morning Kissのオープニングで使われているジングルでは、「**
   - 9:38 インフォメーション・パック　
       -
         「朝刊を読む時間がなかった」という多忙なビジネスマンや主婦のアナタのために、朝刊各紙の1面トップ見出しをコンパクトにチェック。芸能・エンターテインメント情報も紹介。
-  - 10:00 [丸久](https://ja.wikipedia.org/wiki/丸久 "wikilink")・アルク・サンマート10時です\!もぎたてインフォメーション
+  - 10:00 [丸久](../Page/丸久.md "wikilink")・アルク・サンマート10時です\!もぎたてインフォメーション
       - 鈴木アナ担当時 - 車掌・鈴木のなつかしトレイン
       - 新井アナ担当時 - 新井道子のコレがデビュー曲
-  - 10:10 [FM Radio Shopping](https://ja.wikipedia.org/wiki/FM_Radio_Shopping "wikilink")
+  - 10:10 [FM Radio Shopping](../Page/FM_Radio_Shopping.md "wikilink")
   - 10:15 エンディング
 
 ### コーナー終了
@@ -130,7 +130,7 @@ Morning Kissのオープニングで使われているジングルでは、「**
   - [オアシス・チャンスタイム](https://ja.wikipedia.org/wiki/オアシス・チャンスタイム "wikilink")（木・金）
       -
         *[オアシス](http://www.p-world.co.jp/yamaguchi/oasis-tokuyama.htm)の新台パ チスロ、イベント情報*
-        もともと「[デリフラっ\!?](https://ja.wikipedia.org/wiki/デリシャス・フライデー "wikilink")　Morning Kiss」内のみの放送で担当は鈴木晶久アナで普通にインフォメーションを読み上げるだけだったが、「Okky's Super Radio Show」に内包されてからBB金光に変わった。
+        もともと「[デリフラっ\!?](../Page/デリシャス・フライデー.md "wikilink")　Morning Kiss」内のみの放送で担当は鈴木晶久アナで普通にインフォメーションを読み上げるだけだったが、「Okky's Super Radio Show」に内包されてからBB金光に変わった。
         木曜は「オアシス・チャンスタイム〜熱血ゼミナール〜」。金光が講師に扮し、オアシスからのイベント情報をつたえる。
         金曜は「オアシス・チャンスタイム」。今度は寿司屋の大将に扮して、一つ一つのイベントを寿司ネタみたいに届ける。ただし、2004年8月からの型で、以前は奥さんの井戸端会議のようにすることもあった。なお、2006年12月の放送で終了。
   - DJマミー・クリステルの“レトロ・フレグランス”　

@@ -1,7 +1,7 @@
 > この記事は[MEN\'S FOUR Friday](https://ja.wikipedia.org/wiki/MEN\'S_FOUR_Friday)から翻訳されています。
 
 
-『**MEN'S FOUR ビリビリFriday**』（めんずふぉー・びりびりふらいでー）は、[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")が金曜日の11:30 - 15:55に放送していた[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")による[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。通称「**ビリフラ**」。
+『**MEN'S FOUR ビリビリFriday**』（めんずふぉー・びりびりふらいでー）は、[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")が金曜日の11:30 - 15:55に放送していた[生放送](../Page/生放送.md "wikilink")による[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。通称「**ビリフラ**」。
 
 [2004年](../Page/2004年.md "wikilink")4月放送開始。2006年2月24日の放送で、放送開始から100回目を数えたが、番組改編に伴い2006年3月末で放送終了。時間帯が一部移動の上リニューアルし、[ビリフラMAX](../Page/ビリフラMAX.md "wikilink")となった。
 
@@ -34,7 +34,7 @@
   - 13:30 スポーツチェック
   - 13:45 もうすぐお誕生日(エントリーが多いと2時台にも放送)
   - 13:55 [テレマートラジオショッピング](https://ja.wikipedia.org/wiki/テレマートラジオショッピング "wikilink")
-  - 14:15 [FM Radio Shopping](https://ja.wikipedia.org/wiki/FM_Radio_Shopping "wikilink") (JFNC)
+  - 14:15 [FM Radio Shopping](../Page/FM_Radio_Shopping.md "wikilink") (JFNC)
   - 14:30 道路交通情報
   - 14:35 こんなのいやだ\!
   - 14:55 [若槻千夏ACADEMY](https://ja.wikipedia.org/wiki/若槻千夏ACADEMY "wikilink") (JFNC)
@@ -51,13 +51,13 @@
   - 世界[イナバウアー](../Page/イナバウアー.md "wikilink")選手権（2006年3月3日 - 17日）
   - カマン俊山の占いパレス
   - カマン俊山の占いリクエスト
-  - トヨタカローラ山口presents“テイスティング・ドライブ”（担当：[木谷美帆](https://ja.wikipedia.org/wiki/木谷美帆 "wikilink")/15:35 - ）（2005年11月 - 12月）
+  - トヨタカローラ山口presents“テイスティング・ドライブ”（担当：[木谷美帆](../Page/木谷美帆.md "wikilink")/15:35 - ）（2005年11月 - 12月）
 
 ## 公開生放送
 
 半年に一回程度、公開生放送が行われ、番組内で特別企画が行われた。
 
-  - 2005年4月29日 - 大浜海水浴場（[下関市](../Page/下関市.md "wikilink")[豊北町](../Page/豊北町.md "wikilink")[角島](https://ja.wikipedia.org/wiki/角島 "wikilink")）「ビリビリフライデー つのしまECOフェスタスペシャル」
+  - 2005年4月29日 - 大浜海水浴場（[下関市](../Page/下関市.md "wikilink")[豊北町](../Page/豊北町.md "wikilink")[角島](../Page/角島.md "wikilink")）「ビリビリフライデー つのしまECOフェスタスペシャル」
       -
         ゲスト・[ア・カッペラーズ](https://ja.wikipedia.org/wiki/ア・カッペラーズ "wikilink")
   - 2005年9月23日 - [シーモール下関](../Page/シーモール下関.md "wikilink")（下関市竹崎町）

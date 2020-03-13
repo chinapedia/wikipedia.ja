@@ -1,11 +1,11 @@
 > この記事は[BINGO](https://ja.wikipedia.org/wiki/BINGO)から翻訳されています。
 
 
-『**ザ・BINGOスター**』（ザ・ビンゴスター）は、[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[ゲーム](../Page/ゲーム.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。テレビ東京系列局では[1996年](../Page/1996年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")まで、毎週[金曜](../Page/金曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）の1時間[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+『**ザ・BINGOスター**』（ザ・ビンゴスター）は、[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[ゲーム](../Page/ゲーム.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。テレビ東京系列局では[1996年](../Page/1996年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")まで、毎週[金曜](../Page/金曜日.md "wikilink") 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）の1時間[生放送](../Page/生放送.md "wikilink")。
 
 ## 概要
 
-視聴者が当時街頭での配布や雑誌、番組からの取り寄せなどで入手できた「[ビンゴ](https://ja.wikipedia.org/wiki/ビンゴ "wikilink")カード」を使い、テレビを見ながらビンゴに参加するという[視聴者参加型番組](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")。賞金や賞品の上限額が1996年に1000万円にまで引き上げられたのを受け、直前の時間帯に放送されていた『[決戦\!クイズの帝王](../Page/決戦!クイズの帝王.md "wikilink")』と同様に、ビンゴゲームでは自動車や海外ペア旅行などの高額賞品をプレゼントしていた。
+視聴者が当時街頭での配布や雑誌、番組からの取り寄せなどで入手できた「[ビンゴ](../Page/ビンゴ.md "wikilink")カード」を使い、テレビを見ながらビンゴに参加するという[視聴者参加型番組](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")。賞金や賞品の上限額が1996年に1000万円にまで引き上げられたのを受け、直前の時間帯に放送されていた『[決戦\!クイズの帝王](../Page/決戦!クイズの帝王.md "wikilink")』と同様に、ビンゴゲームでは自動車や海外ペア旅行などの高額賞品をプレゼントしていた。
 
 基本的には、スタジオに設けられた巨大[ルーレット](../Page/ルーレット.md "wikilink")による抽選でビンゴの数字を決定。ビンゴの列が縦、横、または斜めに1列揃えばカードに書かれた番号に電話をし、成立を番組に知らせる。成立者の中からコンピュータ抽選（「シャッフル」と呼ばれたスロット式）で選ばれた1人は番組から当選の電話が繋げられ、豪華賞品を賭けたゲームに挑む。抽選に外れた場合でも、その回のビンゴ成立者には全員商品券（途中から番組オリジナル[テレホンカード](../Page/テレホンカード.md "wikilink")）が贈られた。途中からビンゴカードを持っていなくても参加できる、現金や賞品を賭けての[ダーツ](../Page/ダーツ.md "wikilink")ゲームも行われるようになった。
 
@@ -16,7 +16,7 @@
   - キャプテン/[ヒロミ](../Page/ヒロミ.md "wikilink") - この番組内でダーツを投げて視聴者の賞品獲得の成否を決めるコーナーがあったため、『[新・ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")』では「日本一ダーツの上手い芸能人」として「ご指名ダーツ」のプレイヤーにされていた。
   - サブキャプテン/[鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")
   - ナビゲーター/[小島嵩弘](../Page/小島嵩弘.md "wikilink")
-  - ナレーター/[山本百合子](https://ja.wikipedia.org/wiki/山本百合子 "wikilink")
+  - ナレーター/[山本百合子](../Page/山本百合子.md "wikilink")
   - ゲストは当初「クルー」と呼ばれていた（スタジオのセットが[宇宙船](../Page/宇宙船.md "wikilink")という設定だったため）。
 
 ## ビンゴナンバーの抽選
@@ -59,7 +59,7 @@
   - 最初に「ビンゴ\!」の掛け声で、1球目（水色のボール）をシュートして基準となる数字を決定。但しゲームのルール上、1球目でいきなり25に入れた場合は、その時点で終了。
   - そして、2球目（黄色のボール）をシュートして1球目よりも大きい数字に入れられたら、「1UP賞」として4種類の賞品から1品を選んで獲得。1球目の数字以下（同数も含む）に入れてしまった場合にはアウトで、賞品は没収される。
   - さらに、3球目（赤色のボール）をシュートして2球目より大きい数字に入れられたら、「2UP賞」として海外ペア旅行（行き先は当選者が選ぶことができ、さらに途中から現金10万円のお小遣いも加えられた）も獲得。なお、3rdビンゴでの2UP賞は海外ペア旅行ではなく自動車に変わる。当然ながら2球目の数字以下（同数も含む）に入れてしまった場合にはアウトとなり、賞品は全て没収される。
-      - シュート時のBGMは、映画『[ターミネーター2](https://ja.wikipedia.org/wiki/ターミネーター2 "wikilink")』の[サントラ](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")「TANKER CHASE」
+      - シュート時のBGMは、映画『[ターミネーター2](../Page/ターミネーター2.md "wikilink")』の[サントラ](../Page/サウンドトラック.md "wikilink")「TANKER CHASE」
   - 没収された賞品は、次のビンゴにキャリーオーバーされる。
   - 途中でゲームを降りて賞品を確保することも可能。
 
@@ -116,7 +116,7 @@
 
 ## スタッフ
 
-  - 技術協力：[タワーテレビ](../Page/タワーテレビ.md "wikilink")（現・[テクノマックス](https://ja.wikipedia.org/wiki/テクノマックス "wikilink")）
+  - 技術協力：[タワーテレビ](../Page/タワーテレビ.md "wikilink")（現・[テクノマックス](../Page/テクノマックス.md "wikilink")）
   - 美術協力：[ル・オブジェ・アール・スタジオ](../Page/ル・オブジェ・アール・スタジオ.md "wikilink")
   - ディレクター：山本雅泰、西村英二郎、曽我賢一郎、渡辺松太郎
   - 総合演出：上西浩之（イースト）
@@ -137,14 +137,14 @@
 | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                           |                                                                             |                  |     |
 | [大阪府](../Page/大阪府.md "wikilink")                    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                           |                                                                             |                  |     |
 | [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")         | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                       |                                                                             |                  |     |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink") | [TXN九州](../Page/TVQ九州放送.md "wikilink")                         |                                                                             |                  |     |
+| [福岡県](../Page/福岡県.md "wikilink")                    | [TXN九州](../Page/TVQ九州放送.md "wikilink")                         |                                                                             |                  |     |
 | [広島県](../Page/広島県.md "wikilink")                    | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")                     | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") | 録画ネット            |     |
 | [岐阜県](../Page/岐阜県.md "wikilink")                    | [岐阜放送](../Page/岐阜放送.md "wikilink")\[1\]                        | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                   | 同時ネット            |     |
 | [和歌山県](../Page/和歌山県.md "wikilink")                  | [テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")\[2\] |                                                                             |                  |     |
 
 ## 関連項目
 
-  - [THE ビッグ\!](https://ja.wikipedia.org/wiki/THE_ビッグ! "wikilink") - これもビンゴゲームの様式を取り入れた番組。
+  - [THE ビッグ\!](../Page/THE_ビッグ!.md "wikilink") - これもビンゴゲームの様式を取り入れた番組。
 
 ## 注釈
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-フラットトラックレース（[ダートトラックレース](https://ja.wikipedia.org/wiki/ダートトラックレース "wikilink")）をイメージしたオートバイである。フラットトラックレーサー（Flat Track Racer）の頭文字をそのまま転用した車名は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発売された**FTR250**と[2000年](../Page/2000年.md "wikilink")に発売された**FTR**の2車種に付与されており、いずれも250ccクラス（[軽二輪](../Page/普通自動二輪車.md "wikilink")）の[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")を搭載する。
+フラットトラックレース（[ダートトラックレース](../Page/ダートトラックレース.md "wikilink")）をイメージしたオートバイである。フラットトラックレーサー（Flat Track Racer）の頭文字をそのまま転用した車名は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発売された**FTR250**と[2000年](../Page/2000年.md "wikilink")に発売された**FTR**の2車種に付与されており、いずれも250ccクラス（[軽二輪](../Page/普通自動二輪車.md "wikilink")）の[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[SOHC](../Page/SOHC.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")を搭載する。
 
 ## モデル一覧
 
@@ -13,7 +13,7 @@
 
 1986年2月25日発売。型式名MD17。
 
-フラットトラックレースをイメージしていた同社のオートバイは[1982年](../Page/1982年.md "wikilink")に[FT400・500が発売されていたが](https://ja.wikipedia.org/wiki/ホンダ・FT "wikilink")、日本では馴染がなく未知のレースであったこともあり販売は低迷していた。しかし[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[1984年](../Page/1984年.md "wikilink")・[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に2年連続メーカー・ライダーチャンピオンを獲得したことから、軽量・低重心・スリムな車体、応答性の良いシンプルなエンジンを搭載するという、フラットトラックレーサーの技術を導入し、不整地・市街地とも軽快な走りが楽しめるスポーツバイクとして開発されたのが本モデルである。しかし、当時はレーサーレプリカブームであったこともあり、フラットレーサータイプの本モデルは市場に受け入れられず販売は低迷。[1989年](../Page/1989年.md "wikilink")までに生産中止となった。
+フラットトラックレースをイメージしていた同社のオートバイは[1982年](../Page/1982年.md "wikilink")に[FT400・500が発売されていたが](../Page/ホンダ・FT.md "wikilink")、日本では馴染がなく未知のレースであったこともあり販売は低迷していた。しかし[アメリカで](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[1984年](../Page/1984年.md "wikilink")・[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に2年連続メーカー・ライダーチャンピオンを獲得したことから、軽量・低重心・スリムな車体、応答性の良いシンプルなエンジンを搭載するという、フラットトラックレーサーの技術を導入し、不整地・市街地とも軽快な走りが楽しめるスポーツバイクとして開発されたのが本モデルである。しかし、当時はレーサーレプリカブームであったこともあり、フラットレーサータイプの本モデルは市場に受け入れられず販売は低迷。[1989年](../Page/1989年.md "wikilink")までに生産中止となった。
 
 #### 車両解説
 
@@ -90,7 +90,7 @@ XLR250のエンジン刻印がMD17Eから始まるのはその名残である。
 
 <!-- end list -->
 
-  - [2004年](../Page/2004年.md "wikilink")1月30日・[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月28日
+  - [2004年](../Page/2004年.md "wikilink")1月30日・[2005年](../Page/2005年.md "wikilink")1月28日
 
 <!-- end list -->
 

@@ -36,7 +36,7 @@
   - BGMは洋楽で毎日ひとりまたは1グループが出したベストアルバムの中から3曲を選曲、2 - 3曲目が流れる際に交通情報やカーチェッククイズの出題が行われる。
   - カーチェッククイズは三択で正解者のリスナーにはクオカードが送られる。香川県自動車整備振興会の提供。問題出題の後に振興会のCMを流している。
   - かつては「[三菱ダイヤモンドハイウェイ](https://ja.wikipedia.org/wiki/三菱ダイヤモンドハイウェイ "wikilink")」と題してニッポン放送で放送されていたコーナーをスポンサーとタイトルのみネット。三菱石油（現・[JXTGエネルギー](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）提供だった。
-      - この関係もあってか、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[JRN加盟後も多くのJRN系列局がネットしている](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")『[うわさの調査隊](https://ja.wikipedia.org/wiki/うわさの調査隊 "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）はネットされていなかった。なお、隣接の各県の局および大阪の[ABCラジオではネットされていたためそちらで聴取可能だった](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")。
+      - この関係もあってか、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[JRN加盟後も多くのJRN系列局がネットしている](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")『[うわさの調査隊](../Page/うわさの調査隊.md "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）はネットされていなかった。なお、隣接の各県の局および大阪の[ABCラジオではネットされていたためそちらで聴取可能だった](../Page/朝日放送ラジオ.md "wikilink")。
 
 <!-- end list -->
 

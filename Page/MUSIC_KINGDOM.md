@@ -1,7 +1,7 @@
 > この記事は[MUSIC KINGDOM](https://ja.wikipedia.org/wiki/MUSIC_KINGDOM)から翻訳されています。
 
 
-『**MUSIC KINGDOM**』（ミュージックキングダム）は、[2003年](../Page/2003年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送された、[FMヨコハマのチャート番組](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")。毎週月 - 木曜日の19:30 - 23:00に放送していた。
+『**MUSIC KINGDOM**』（ミュージックキングダム）は、[2003年](../Page/2003年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで放送された、[FMヨコハマのチャート番組](../Page/横浜エフエム放送.md "wikilink")。毎週月 - 木曜日の19:30 - 23:00に放送していた。
 
 毎日移り変わるデイリーミュージックチャートを発表しながら、[音楽](../Page/音楽.md "wikilink")・[スポーツ](../Page/スポーツ.md "wikilink")などの[エンターテイメント](https://ja.wikipedia.org/wiki/エンターテイメント "wikilink")情報を放送する。
 
@@ -13,11 +13,11 @@
 
 ### 火曜日
 
-藤田琢己・[山口五和](https://ja.wikipedia.org/wiki/山口五和 "wikilink")
+藤田琢己・[山口五和](../Page/山口五和.md "wikilink")
 
 ### 水曜日
 
-藤田琢己・[植松真美](https://ja.wikipedia.org/wiki/植松真美 "wikilink")
+藤田琢己・[植松真美](../Page/植松真美.md "wikilink")
 
 ### 木曜日
 
@@ -46,10 +46,10 @@
   - CAMPUS INFORMATION　（21:55～）
       - 日替わりで大学情報をお知らせ。
           - 月曜日…[東海大学](../Page/東海大学.md "wikilink")
-          - 第1・第3火曜日…[横浜商科大学](https://ja.wikipedia.org/wiki/横浜商科大学 "wikilink")
+          - 第1・第3火曜日…[横浜商科大学](../Page/横浜商科大学.md "wikilink")
           - 第2・第4火曜日…[東京工芸大学](../Page/東京工芸大学.md "wikilink")
           - 水曜日…[神奈川大学](https://ja.wikipedia.org/wiki/神奈川大学 "wikilink")
-          - 第1・第3木曜日…[鎌倉女子大学](https://ja.wikipedia.org/wiki/鎌倉女子大学 "wikilink")
+          - 第1・第3木曜日…[鎌倉女子大学](../Page/鎌倉女子大学.md "wikilink")
           - 第2・第4木曜日…[相模女子大学](../Page/相模女子大学.md "wikilink")
 
 ## 記録集
@@ -58,7 +58,7 @@
 
 1.  [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")「掌」（19回）
 2.  [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")「虹」（12回）
-3.  [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")「[世界に一つだけの花](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")」・[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")「雪の華」・[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")「ロコローション」（11回）
+3.  [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」・[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")「雪の華」・[ORANGE RANGE](../Page/ORANGE_RANGE.md "wikilink")「ロコローション」（11回）
 
 ### 最長連覇記録
 

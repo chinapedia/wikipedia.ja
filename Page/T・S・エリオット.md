@@ -7,7 +7,7 @@
 
 ## 生涯
 
-誕生は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ミズーリ州](../Page/ミズーリ州.md "wikilink")[セントルイス](../Page/セントルイス.md "wikilink")。1898年にスミス学院に入学する。1904年、[セントルイス万国博覧会](../Page/セントルイス万国博覧会.md "wikilink")を探訪中、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")会場の[イゴロット村に魅せられる](https://ja.wikipedia.org/wiki/イゴロット族 "wikilink")。翌年発表された短編「昔は王様だった男」はその探訪成果である\[1\]\[2\]\[3\]。1906年に入学した[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")では、アーヴィング・バビット等に師事し、卒業後、ヨーロッパ各地と米国を往復し、研究活動を行う。その後は[ソルボンヌ大学や](https://ja.wikipedia.org/wiki/パリ大学 "wikilink")[マールブルク大学](https://ja.wikipedia.org/wiki/フィリップ大学マールブルク "wikilink")、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")にも通う。1917年から1925年まで[ロイズ銀行の渉外部門で働いた](https://ja.wikipedia.org/wiki/ロイズTSB "wikilink")\[4\]。1927年にイギリスに帰化し、[イングランド国教会](../Page/イングランド国教会.md "wikilink")に入信する。「文学では[古典主義](https://ja.wikipedia.org/wiki/古典主義 "wikilink")、政治では[王党派](https://ja.wikipedia.org/wiki/王党派 "wikilink")、宗教はアングロ・カトリック」と自身を語っている。
+誕生は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ミズーリ州](../Page/ミズーリ州.md "wikilink")[セントルイス](../Page/セントルイス.md "wikilink")。1898年にスミス学院に入学する。1904年、[セントルイス万国博覧会](../Page/セントルイス万国博覧会.md "wikilink")を探訪中、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")会場の[イゴロット村に魅せられる](https://ja.wikipedia.org/wiki/イゴロット族 "wikilink")。翌年発表された短編「昔は王様だった男」はその探訪成果である\[1\]\[2\]\[3\]。1906年に入学した[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")では、アーヴィング・バビット等に師事し、卒業後、ヨーロッパ各地と米国を往復し、研究活動を行う。その後は[ソルボンヌ大学や](../Page/パリ大学.md "wikilink")[マールブルク大学](../Page/フィリップ大学マールブルク.md "wikilink")、[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")にも通う。1917年から1925年まで[ロイズ銀行の渉外部門で働いた](https://ja.wikipedia.org/wiki/ロイズTSB "wikilink")\[4\]。1927年にイギリスに帰化し、[イングランド国教会](../Page/イングランド国教会.md "wikilink")に入信する。「文学では[古典主義](../Page/古典主義.md "wikilink")、政治では[王党派](https://ja.wikipedia.org/wiki/王党派 "wikilink")、宗教はアングロ・カトリック」と自身を語っている。
 
 有名な「四月は残酷きわまる月（April is the cruellest month）」で始まる長編詩『[荒地](https://ja.wikipedia.org/wiki/荒地_\(詩\) "wikilink")』で[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")後の不安を描きだした。また、評論『伝統と個人の才能』（*Tradition and the Individual Talent*、1919年）によって、[保守](../Page/保守.md "wikilink")主義の思想家としても知られている。この中で、エリオットは「詩人とは表現するべき個性を持たず、特定の表現手段を持つ人で、それは個性ではなく手段であり、その中で印象や経験が特殊な予期せぬ状態で結合する」と述べている。
 
@@ -15,9 +15,9 @@
 
 ### 荒地
 
-1921年に初稿を執筆。[エズラ・パウンド](https://ja.wikipedia.org/wiki/エズラ・パウンド "wikilink")の助言により、[エピグラフ](https://ja.wikipedia.org/wiki/エピグラフ "wikilink")（[コンラッド](https://ja.wikipedia.org/wiki/ジョゼフ・コンラッド "wikilink")『[闇の奥](../Page/闇の奥.md "wikilink")』の引用）の変更や、エピソードの削除等を行った。
+1921年に初稿を執筆。[エズラ・パウンド](../Page/エズラ・パウンド.md "wikilink")の助言により、[エピグラフ](https://ja.wikipedia.org/wiki/エピグラフ "wikilink")（[コンラッド](../Page/ジョゼフ・コンラッド.md "wikilink")『[闇の奥](../Page/闇の奥.md "wikilink")』の引用）の変更や、エピソードの削除等を行った。
 
-[フレイザー](../Page/ジェームズ・フレイザー.md "wikilink")『[金枝篇](https://ja.wikipedia.org/wiki/金枝篇 "wikilink")』の[聖杯伝説](../Page/聖杯伝説.md "wikilink")を骨格として、[聖書](https://ja.wikipedia.org/wiki/聖書 "wikilink")、[ダンテ](../Page/ダンテ・アリギエーリ.md "wikilink")、[シェイクスピアなどの引用をちりばめ](../Page/ウィリアム・シェイクスピア.md "wikilink")、[意識の流れ](../Page/意識の流れ.md "wikilink")の手法も用いて、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")後の荒廃した世界と救済への予兆を描きだした。末尾には[サンスクリット語](https://ja.wikipedia.org/wiki/サンスクリット語 "wikilink")も使用され、[インド思想の影響も指摘されている](../Page/インド哲学.md "wikilink")。
+[フレイザー](../Page/ジェームズ・フレイザー.md "wikilink")『[金枝篇](../Page/金枝篇.md "wikilink")』の[聖杯伝説](../Page/聖杯伝説.md "wikilink")を骨格として、[聖書](../Page/聖書.md "wikilink")、[ダンテ](../Page/ダンテ・アリギエーリ.md "wikilink")、[シェイクスピアなどの引用をちりばめ](../Page/ウィリアム・シェイクスピア.md "wikilink")、[意識の流れ](../Page/意識の流れ.md "wikilink")の手法も用いて、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")後の荒廃した世界と救済への予兆を描きだした。末尾には[サンスクリット語](https://ja.wikipedia.org/wiki/サンスクリット語 "wikilink")も使用され、[インド思想の影響も指摘されている](../Page/インド哲学.md "wikilink")。
 
 1922年に文芸誌に発表した。433行の難解な詩であり、すぐには理解されなかったが、[1930年代](../Page/1930年代.md "wikilink")になり[F・R・リーヴィス](https://ja.wikipedia.org/wiki/F・R・リーヴィス "wikilink")らに評価されるようになった。
 
@@ -30,14 +30,14 @@
   - [鍵谷幸信](../Page/鍵谷幸信.md "wikilink")訳 紫星堂 1955年
   - 二宮尊道訳 『エリオット全集1 詩集』中央公論社
   - [池谷敏忠](../Page/池谷敏忠.md "wikilink")訳 宇宙時代社出版部 1968年
-  - [西脇順三郎](../Page/西脇順三郎.md "wikilink")訳。新版は『コレクションⅢ 翻訳詩集』（[慶應義塾大学出版会](https://ja.wikipedia.org/wiki/慶應義塾大学出版会 "wikilink")）に収録
+  - [西脇順三郎](../Page/西脇順三郎.md "wikilink")訳。新版は『コレクションⅢ 翻訳詩集』（[慶應義塾大学出版会](../Page/慶應義塾大学出版会.md "wikilink")）に収録
   - [岩崎宗治](https://ja.wikipedia.org/wiki/岩崎宗治 "wikilink")訳 [国文社](../Page/国文社.md "wikilink") 2009年 → [岩波文庫](../Page/岩波文庫.md "wikilink")、2011年
 
 ### 寺院の殺人
 
 1935年に発表された詩劇。[殉教](../Page/殉教.md "wikilink")者[トマス・ア・ベケットを主人公とする](https://ja.wikipedia.org/wiki/トマス・ベケット "wikilink")。[無韻詩で書かれている](https://ja.wikipedia.org/wiki/ブランクヴァース "wikilink")。『寺院の殺人』（1935年）の第2幕に登場する「誘惑者」と主人公トマスの対話は、[シャーロック・ホームズ](../Page/シャーロック・ホームズ.md "wikilink")の『[マスグレーヴ家の儀式](../Page/マスグレーヴ家の儀式.md "wikilink")』を真似たものである。
 
-  - [福田恆存](https://ja.wikipedia.org/wiki/福田恆存 "wikilink")訳（1954年、新潮社）、のち『エリオット全集2　詩劇』
+  - [福田恆存](../Page/福田恆存.md "wikilink")訳（1954年、新潮社）、のち『エリオット全集2　詩劇』
   - [高橋康也](../Page/高橋康也.md "wikilink")訳（1971年、白水社 → 2001年、リキエスタの会）
 
 ### カクテル・パーティ
@@ -50,9 +50,9 @@
 
 1939年、児童向けの詩 『[キャッツ - ポッサムおじさんの猫とつき合う法](../Page/キャッツ_-_ポッサムおじさんの猫とつき合う法.md "wikilink")』を発表した。ポッサムおじさんは、エズラ・パウンドがエリオットにつけたあだ名である。
 
-エリオット没後に、[ウエスト・エンドと](../Page/ウエスト・エンド_\(ロンドン\).md "wikilink")[ブロードウェイにおける](https://ja.wikipedia.org/wiki/ブロードウェイ_\(ニューヨーク\) "wikilink")[アンドリュー・ロイド・ウェバー](https://ja.wikipedia.org/wiki/アンドリュー・ロイド・ウェバー "wikilink")の[ミュージカル](../Page/ミュージカル.md "wikilink")『**[キャッツ](../Page/キャッツ_\(ミュージカル\).md "wikilink")**』の原作となった。
+エリオット没後に、[ウエスト・エンドと](../Page/ウエスト・エンド_\(ロンドン\).md "wikilink")[ブロードウェイにおける](../Page/ブロードウェイ_\(ニューヨーク\).md "wikilink")[アンドリュー・ロイド・ウェバー](https://ja.wikipedia.org/wiki/アンドリュー・ロイド・ウェバー "wikilink")の[ミュージカル](../Page/ミュージカル.md "wikilink")『**[キャッツ](../Page/キャッツ_\(ミュージカル\).md "wikilink")**』の原作となった。
 
-  - 『[袋鼠親爺の手練猫名簿](../Page/キャッツ_-_ポッサムおじさんの猫とつき合う法.md "wikilink")』 [柳瀬尚紀](https://ja.wikipedia.org/wiki/柳瀬尚紀 "wikilink")訳（[評論社](https://ja.wikipedia.org/wiki/評論社 "wikilink")、2009年）、「キャッツ」のイラスト入り訳書。他はリンク先参照
+  - 『[袋鼠親爺の手練猫名簿](../Page/キャッツ_-_ポッサムおじさんの猫とつき合う法.md "wikilink")』 [柳瀬尚紀](../Page/柳瀬尚紀.md "wikilink")訳（[評論社](../Page/評論社.md "wikilink")、2009年）、「キャッツ」のイラスト入り訳書。他はリンク先参照
 
 ### その他
 
@@ -91,7 +91,7 @@
   - 高柳俊一・佐藤亨・野谷啓二・山口均・編『モダンにしてアンチモダン：T.S.エリオットの肖像』[研究社](../Page/研究社.md "wikilink")、2010年、ISBN 978-4-327-47223-8
   - 高柳俊一『T.S.エリオットの思想形成』南窓社、2002年、ISBN 4816500138
   - 丹波菊井『T.S.エリオットの詩と文学：わが始めにわが終りあり、わが終りにわが始めあり』近代文芸社、2002年、ISBN 4773368241
-  - [西部邁](../Page/西部邁.md "wikilink")「個性の滅却：トーマス・エリオット」（『思想の英雄たち 保守の源流をたずねて』 198-212頁に所収）、[角川春樹事務所](https://ja.wikipedia.org/wiki/角川春樹事務所 "wikilink")〈[ハルキ文庫](../Page/ハルキ文庫.md "wikilink")〉、2012年、ISBN 978-4-7584-3629-8
+  - [西部邁](../Page/西部邁.md "wikilink")「個性の滅却：トーマス・エリオット」（『思想の英雄たち 保守の源流をたずねて』 198-212頁に所収）、[角川春樹事務所](../Page/角川春樹事務所.md "wikilink")〈[ハルキ文庫](../Page/ハルキ文庫.md "wikilink")〉、2012年、ISBN 978-4-7584-3629-8
   - 成田興史「T. S. エリオットとトランスパシフィック・イマジネーション：若き日の詩人をめぐる仮説設定を主軸に」（成田興史編『英米文学・英米文化試論：太平洋横断アメリカン・スタディーズの視座から』に所収）、晃学出版、2007年、ISBN 978-4-903742-02-1
   - 佐伯惠子『T.S.エリオット詩劇と共同体再生への道筋』、[英宝社](https://ja.wikipedia.org/wiki/英宝社 "wikilink")、2011年、ISBN 4269721162
   - クレイグ・レイン『T.S.エリオット：イメージ、テキスト、コンテキスト』山形和美訳、[彩流社](../Page/彩流社.md "wikilink")、2008年、ISBN 9784779113550
@@ -104,7 +104,7 @@
 
   - [意識の流れ](../Page/意識の流れ.md "wikilink")
   - [地獄の黙示録](../Page/地獄の黙示録.md "wikilink")（映画）
-  - [渚にて (小説)](https://ja.wikipedia.org/wiki/渚にて_\(小説\) "wikilink") - エリオットの詩が引用され、タイトルもその詩に由来する。
+  - [渚にて (小説)](../Page/渚にて_\(小説\).md "wikilink") - エリオットの詩が引用され、タイトルもその詩に由来する。
 
 ## 外部リンク
 

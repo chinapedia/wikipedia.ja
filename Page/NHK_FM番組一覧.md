@@ -1,7 +1,7 @@
 > この記事は[NHK FM](https://ja.wikipedia.org/wiki/NHK_FM)から翻訳されています。
 
 
-**NHK FM番組一覧**は[NHK-FMで放送されている](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")、もしくは過去に放送された番組の一覧である。一部地上デジタルラジオ実用化試験放送・[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")・[ラジオ第1で放送されている番組もある](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")。
+**NHK FM番組一覧**は[NHK-FMで放送されている](../Page/NHK-FM放送.md "wikilink")、もしくは過去に放送された番組の一覧である。一部地上デジタルラジオ実用化試験放送・[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")・[ラジオ第1で放送されている番組もある](../Page/NHKラジオ第1放送.md "wikilink")。
 
 ラジオ第1、国際放送で放送される番組は、[NHKラジオ第1番組一覧](../Page/NHKラジオ第1番組一覧.md "wikilink")も参照。
 
@@ -29,7 +29,7 @@
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>5:00 <a href="https://ja.wikipedia.org/wiki/音楽の泉" title="wikilink">音楽の泉</a>(再)[2]</p></td>
+<td><p>5:00 <a href="../Page/音楽の泉.md" title="wikilink">音楽の泉</a>(再)[2]</p></td>
 <td><p>5:00 弾き語りフォーユー(再)</p></td>
 <td></td>
 <td></td>
@@ -142,7 +142,7 @@
 <tr class="even">
 <td><p>11</p></td>
 <td><p>11:00 <a href="../Page/弾き語りフォーユー.md" title="wikilink">弾き語りフォーユー</a>[3]</p></td>
-<td><p>11:00 <a href="https://ja.wikipedia.org/wiki/KABUKI_TUNE" title="wikilink">KABUKI TUNE</a> - <a href="https://ja.wikipedia.org/wiki/尾上右近_(2代目)" title="wikilink">尾上右近</a></p></td>
+<td><p>11:00 <a href="../Page/KABUKI_TUNE.md" title="wikilink">KABUKI TUNE</a> - <a href="https://ja.wikipedia.org/wiki/尾上右近_(2代目)" title="wikilink">尾上右近</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172,7 +172,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>12:20 <strong><a href="https://ja.wikipedia.org/wiki/ひるのいこい" title="wikilink">ひるのいこい</a></strong></p></td>
+<td><p>12:20 <strong><a href="../Page/ひるのいこい.md" title="wikilink">ひるのいこい</a></strong></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -270,7 +270,7 @@
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p>19:30 <a href="https://ja.wikipedia.org/wiki/ベストオブクラシック" title="wikilink">ベストオブクラシック</a></p></td>
+<td><p>19:30 <a href="../Page/ベストオブクラシック.md" title="wikilink">ベストオブクラシック</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -278,7 +278,7 @@
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p>21:10 <a href="https://ja.wikipedia.org/wiki/みんなのうた" title="wikilink">みんなのうた</a></p></td>
+<td><p>21:10 <a href="../Page/みんなのうた.md" title="wikilink">みんなのうた</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -314,7 +314,7 @@
 <td><p>23:00 <a href="https://ja.wikipedia.org/wiki/MISIA_アフリカの風" title="wikilink">MISIA 星空のラジオ</a> - <a href="https://ja.wikipedia.org/wiki/MISIA" title="wikilink">MISIA</a></p></td>
 <td><p>23:00 <a href="https://ja.wikipedia.org/wiki/THE_ALFEE_終わらない夢" title="wikilink">THE ALFEE 終わらない夢</a></p></td>
 <td><p>23:00 <a href="https://ja.wikipedia.org/wiki/ミューズノート" title="wikilink">リトグリのミューズノート</a></p></td>
-<td><p>23:00 <a href="https://ja.wikipedia.org/wiki/岸谷香_Unlock_the_heart" title="wikilink">岸谷香 Unlock the heart</a> - <a href="https://ja.wikipedia.org/wiki/岸谷香" title="wikilink">岸谷香</a></p></td>
+<td><p>23:00 <a href="https://ja.wikipedia.org/wiki/岸谷香_Unlock_the_heart" title="wikilink">岸谷香 Unlock the heart</a> - <a href="../Page/岸谷香.md" title="wikilink">岸谷香</a></p></td>
 </tr>
 <tr class="even">
 <td><p>23:50 <a href="https://ja.wikipedia.org/wiki/らじるの時間" title="wikilink">らじるの時間</a></p></td>
@@ -402,7 +402,7 @@
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>5:00 <a href="https://ja.wikipedia.org/wiki/KABUKI_TUNE" title="wikilink">KABUKI TUNE</a>(再)</p></td>
+<td><p>5:00 <a href="../Page/KABUKI_TUNE.md" title="wikilink">KABUKI TUNE</a>(再)</p></td>
 <td><p>5:00 <a href="https://ja.wikipedia.org/wiki/邦楽百番" title="wikilink">邦楽百番</a>(再)</p></td>
 </tr>
 <tr class="odd">
@@ -441,7 +441,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>8:10 <a href="https://ja.wikipedia.org/wiki/現代の音楽_(NHK)" title="wikilink">現代の音楽</a></p></td>
+<td><p>8:10 <a href="../Page/現代の音楽_(NHK).md" title="wikilink">現代の音楽</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -471,7 +471,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>12:15 <strong><a href="https://ja.wikipedia.org/wiki/ひるのいこい" title="wikilink">ひるのいこい</a></strong></p></td>
+<td><p>12:15 <strong><a href="../Page/ひるのいこい.md" title="wikilink">ひるのいこい</a></strong></p></td>
 <td><p>12:15 <a href="../Page/トーキング_ウィズ_松尾堂.md" title="wikilink">トーキング ウィズ 松尾堂</a></p>
 <hr />
 <p><a href="https://ja.wikipedia.org/wiki/グッチ裕三の日曜ヒルは話半分" title="wikilink">グッチ裕三の日曜ヒルは話半分</a> ☆（毎月最終週）</p></td>
@@ -557,7 +557,7 @@
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p>22:00 <a href="https://ja.wikipedia.org/wiki/FMシアター" title="wikilink">FMシアター</a></p></td>
+<td><p>22:00 <a href="../Page/FMシアター.md" title="wikilink">FMシアター</a></p></td>
 <td><p>22:00 <a href="https://ja.wikipedia.org/wiki/サウンドクリエーターズ・ファイル" title="wikilink">サウンドクリエーターズ・ファイル</a> [13][14]</p></td>
 </tr>
 <tr class="odd">
@@ -646,10 +646,10 @@
   - [今日は一日○○三昧](../Page/今日は一日○○三昧.md "wikilink")（不定期・年15回程度、祝日を中心に放送）
   - NHK交響楽団[第9演奏会](../Page/交響曲第9番_\(ベートーヴェン\).md "wikilink")（生放送、12月下旬）
   - [バイロイト音楽祭](../Page/バイロイト音楽祭.md "wikilink")（録音、12月の最終週に連夜放送）
-  - [クロスオーバーイレブン](https://ja.wikipedia.org/wiki/クロスオーバーイレブン "wikilink")（元レギュラー番組。2009年より夏と新春に5日間の新作を放送）
-  - [東京JAZZ](https://ja.wikipedia.org/wiki/東京JAZZ "wikilink")（生中継・2008年以降、開催日程のうち一日、2008年は『三昧』名義で放送された。年末にはダイジェスト放送もある）
-  - ◇[国政選挙](https://ja.wikipedia.org/wiki/国政選挙 "wikilink")[開票速報](https://ja.wikipedia.org/wiki/NHKにおける選挙報道 "wikilink")\[19\]
-  - [国会中継](https://ja.wikipedia.org/wiki/国会中継 "wikilink")（ラジオ第1放送が特設ニュース等により放送できない場合に臨時で放送）
+  - [クロスオーバーイレブン](../Page/クロスオーバーイレブン.md "wikilink")（元レギュラー番組。2009年より夏と新春に5日間の新作を放送）
+  - [東京JAZZ](../Page/東京JAZZ.md "wikilink")（生中継・2008年以降、開催日程のうち一日、2008年は『三昧』名義で放送された。年末にはダイジェスト放送もある）
+  - ◇[国政選挙](https://ja.wikipedia.org/wiki/国政選挙 "wikilink")[開票速報](../Page/NHKにおける選挙報道.md "wikilink")\[19\]
+  - [国会中継](../Page/国会中継.md "wikilink")（ラジオ第1放送が特設ニュース等により放送できない場合に臨時で放送）
 
 ## ローカル放送
 
@@ -679,11 +679,11 @@
   - 5:55-6:00（拠点局からの気象情報など）
   - 6:55-7:00（拠点局からのニュースなど）
   - 7:15-7:20（各地の放送局からのニュースなど）
-  - ※11:50-12:00（地域により11:55-12:00、11:55-の地域と[IPサイマルラジオサービス](../Page/インターネットラジオ.md "wikilink")2者（「[NHKネットラジオ らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink")」、及び、民放ラジオポータルサイト「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」\[20\]\[21\]）は「[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")」を[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")ネット送出）
+  - ※11:50-12:00（地域により11:55-12:00、11:55-の地域と[IPサイマルラジオサービス](../Page/インターネットラジオ.md "wikilink")2者（「[NHKネットラジオ らじる★らじる](https://ja.wikipedia.org/wiki/NHKネットラジオ_らじる★らじる "wikilink")」、及び、民放ラジオポータルサイト「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」\[20\]\[21\]）は「[みんなのうた](../Page/みんなのうた.md "wikilink")」を[裏送り](../Page/裏送り.md "wikilink")ネット送出）
   - 12:10-12:15（各地の放送局からのニュースなど）
   - 12:55-13:00（各地の放送局からの気象情報など）
   - 14:00-18:00（不定期に[仙台](../Page/NHK仙台放送局.md "wikilink")、[前橋](../Page/NHK前橋放送局.md "wikilink")、千葉）
-  - 18:00-18:50（仙台、[青森](../Page/NHK青森放送局.md "wikilink")、[秋田](../Page/NHK秋田放送局.md "wikilink")、[盛岡](https://ja.wikipedia.org/wiki/NHK盛岡放送局 "wikilink")、[山形](https://ja.wikipedia.org/wiki/NHK山形放送局 "wikilink")、[福島](../Page/NHK福島放送局.md "wikilink"))
+  - 18:00-18:50（仙台、[青森](../Page/NHK青森放送局.md "wikilink")、[秋田](../Page/NHK秋田放送局.md "wikilink")、[盛岡](../Page/NHK盛岡放送局.md "wikilink")、[山形](../Page/NHK山形放送局.md "wikilink")、[福島](../Page/NHK福島放送局.md "wikilink"))
   - 18:50-19:00（拠点局からのニュースなど、地域により18:55-19:00）
   - 19:15-19:20（各地の放送局からのニュースなど）
 
@@ -713,8 +713,8 @@
   - [LPサロン](https://ja.wikipedia.org/wiki/LPサロン "wikilink")
   - ひる休みの音楽
   - ひるのミュージックコーナー（「ひるの歌謡曲」の前身、1971年4月5日 - ）
-  - サンデーミュージック（1975年4月13日 - 1977年4月3日、[湯川れい子](https://ja.wikipedia.org/wiki/湯川れい子 "wikilink")）
-  - ヤング・ジョッキー（1976年4月11日 - 1978年11月19日、[渋谷陽一](https://ja.wikipedia.org/wiki/渋谷陽一 "wikilink")）
+  - サンデーミュージック（1975年4月13日 - 1977年4月3日、[湯川れい子](../Page/湯川れい子.md "wikilink")）
+  - ヤング・ジョッキー（1976年4月11日 - 1978年11月19日、[渋谷陽一](../Page/渋谷陽一.md "wikilink")）
   - ひるの民謡（1972年4月8日 - 1984年3月）
   - [くらしの話題](https://ja.wikipedia.org/wiki/くらしの話題 "wikilink")
   - タモリのジャズ特選（不定期放送、1983年 - 1984年）
@@ -736,10 +736,10 @@
   - FMクラシックアワー（1978年11月23日 - 1985年3月、「クラシックコンサート」の前身）
   - クラシックコンサート（1985年4月 - 1991年3月、「ベストオブクラシック」の前身）
   - [サウンドストリート](https://ja.wikipedia.org/wiki/サウンドストリート "wikilink")（1978年11月23日 - 1987年3月）
-      - [サウンドストリート21](https://ja.wikipedia.org/wiki/サウンドストリート21 "wikilink")（2005年 - 2010年）
+      - [サウンドストリート21](../Page/サウンドストリート21.md "wikilink")（2005年 - 2010年）
   - ミュージックシティー（1987年4月6日 - 1990年3月）
   - [ジョイフルポップ](https://ja.wikipedia.org/wiki/ジョイフルポップ "wikilink")（1987年4月6日 - 1990年3月）
-  - 歌謡スペシャル（1983年4月12日 - 1991年3月、[うつみ宮土理](https://ja.wikipedia.org/wiki/うつみ宮土理 "wikilink")）
+  - 歌謡スペシャル（1983年4月12日 - 1991年3月、[うつみ宮土理](../Page/うつみ宮土理.md "wikilink")）
   - FMサウンドクルーザー（1988年4月4日 - 1991年3月）
   - [青少年コンサート](https://ja.wikipedia.org/wiki/青少年コンサート "wikilink")（「シンフォニーコンサート」（1985年4月6日 - ）の前身）
   - [ニュー・ヒット歌謡情報](https://ja.wikipedia.org/wiki/ニュー・ヒット歌謡情報 "wikilink")
@@ -753,9 +753,9 @@
   - BBCロックライブ（1997年4月4日 - 1999年3月、[ピーター・バラカン](../Page/ピーター・バラカン.md "wikilink")）
   - [クロスオーバー11](https://ja.wikipedia.org/wiki/クロスオーバー11 "wikilink")（1978年11月23日 - 2001年3月、その後2005年より特番で復活）
   - [ブラスのひびき](../Page/ブラスのひびき.md "wikilink")（1978年頃 - 2002年3月）
-  - [ミュージックパイロット](https://ja.wikipedia.org/wiki/ミュージックパイロット "wikilink")（1994年4月3日 - 2005年3月22日、[中村貴子](https://ja.wikipedia.org/wiki/中村貴子 "wikilink")）
+  - [ミュージックパイロット](https://ja.wikipedia.org/wiki/ミュージックパイロット "wikilink")（1994年4月3日 - 2005年3月22日、[中村貴子](../Page/中村貴子.md "wikilink")）
   - [ポップスライブラリー](https://ja.wikipedia.org/wiki/ポップスライブラリー "wikilink")（2001年4月 - 2005年3月）
-  - [ひるの歌謡曲](https://ja.wikipedia.org/wiki/ひるの歌謡曲 "wikilink")（1974年4月1日 - 2006年3月31日）
+  - [ひるの歌謡曲](../Page/ひるの歌謡曲.md "wikilink")（1974年4月1日 - 2006年3月31日）
   - [私の名盤コレクション](https://ja.wikipedia.org/wiki/私の名盤コレクション "wikilink")（2005年4月 - 2007年3月）
   - [ホリデーミュージックウェーブ](https://ja.wikipedia.org/wiki/ホリデーミュージックウェーブ "wikilink")\[22\]
   - [世界音楽めぐり](https://ja.wikipedia.org/wiki/世界音楽めぐり "wikilink")
@@ -765,7 +765,7 @@
   - [歌謡スポットライト](../Page/歌謡スポットライト.md "wikilink")（2007年4月 - 2009年3月）
   - [アジアポップスウィンド](https://ja.wikipedia.org/wiki/アジアポップスウィンド "wikilink")（1998年4月4日 - 2009年3月、[関谷元子](https://ja.wikipedia.org/wiki/関谷元子 "wikilink")）
   - [ミュージック・メモリー](https://ja.wikipedia.org/wiki/ミュージック・メモリー "wikilink")（ - 2009年3月）
-  - [サタデーホットリクエスト](https://ja.wikipedia.org/wiki/サタデーホットリクエスト "wikilink")（1996年4月 - 2010年3月）
+  - [サタデーホットリクエスト](../Page/サタデーホットリクエスト.md "wikilink")（1996年4月 - 2010年3月）
       - [サタデーホットリクエスト・WEST](../Page/サタデーホットリクエスト・WEST.md "wikilink")（近畿地方のみ、土曜 16:00 - 18:00。 - 2008年3月）
   - [20世紀の名演奏](https://ja.wikipedia.org/wiki/20世紀の名演奏 "wikilink")（1993年4月 - 2010年3月）
   - [POP UP JAPAN](../Page/POP_UP_JAPAN.md "wikilink")（2007年4月 - 2010年3月）
@@ -775,10 +775,10 @@
   - [きたやまおさむのレクチャー&ミュージック](https://ja.wikipedia.org/wiki/きたやまおさむのレクチャー&ミュージック "wikilink")（2009年3月30日 - 2012年3月26日）
   - [大貫妙子 懐かしい未来](https://ja.wikipedia.org/wiki/大貫妙子_懐かしい未来 "wikilink")（2009年4月28日 - 2012年3月27日）
   - [にっぽんのうた 世界の歌](https://ja.wikipedia.org/wiki/にっぽんのうた_世界の歌 "wikilink")（2009年4月6日 - 2012年3月29日）
-  - [気ままにクラシック](https://ja.wikipedia.org/wiki/気ままにクラシック "wikilink")（2002年4月5日 - 2012年3月30日）
+  - [気ままにクラシック](../Page/気ままにクラシック.md "wikilink")（2002年4月5日 - 2012年3月30日）
   - [熊川哲也のバレエ音楽スタジオ](https://ja.wikipedia.org/wiki/熊川哲也のバレエ音楽スタジオ "wikilink")（2011年4月29日 - 2012年3月30日）
   - [U-18 ユーガタM塾](https://ja.wikipedia.org/wiki/U-18_ユーガタM塾 "wikilink")（2008年4月4日 - 2012年3月31日）
-  - [FMシンフォニー・コンサート](https://ja.wikipedia.org/wiki/FMシンフォニー・コンサート "wikilink")（1985年4月6日 - 2007年4月1日、2009年4月5日 - 2012年4月1日）
+  - [FMシンフォニー・コンサート](../Page/FMシンフォニー・コンサート.md "wikilink")（1985年4月6日 - 2007年4月1日、2009年4月5日 - 2012年4月1日）
   - [大貫妙子 懐かしい未来](https://ja.wikipedia.org/wiki/大貫妙子_懐かしい未来 "wikilink")（ - 2012年4月3日）
   - [FM番組トピックス](https://ja.wikipedia.org/wiki/FM番組トピックス "wikilink")\[24\]
   - [名曲の楽しみ](https://ja.wikipedia.org/wiki/名曲の楽しみ "wikilink")（1971年4月11日 - 2012年12月30日）
@@ -792,8 +792,8 @@
   - [MINMIのレディオMAMA](https://ja.wikipedia.org/wiki/MINMIのレディオMAMA "wikilink")（2013年4月29日 - 2014年8月25日）
   - [健太×近田のロック巌流島](https://ja.wikipedia.org/wiki/健太×近田のロック巌流島 "wikilink")（2014年10月27日 - 2015年3月23日、出演：[萩原健太](../Page/萩原健太.md "wikilink")、[近田春夫](../Page/近田春夫.md "wikilink")）
   - [とことん○○](https://ja.wikipedia.org/wiki/とことん○○ "wikilink")（2011年3月28日 - 2015年3月27日）
-  - [洋楽80’sファン倶楽部](https://ja.wikipedia.org/wiki/洋楽80’sファン倶楽部 "wikilink")（2012年4月8日 - 2015年3月29日、[シャーリー富岡](https://ja.wikipedia.org/wiki/シャーリー富岡 "wikilink")）
-  - [日曜喫茶室](https://ja.wikipedia.org/wiki/日曜喫茶室 "wikilink")（1977年4月10日 - 2017年3月26日）
+  - [洋楽80’sファン倶楽部](https://ja.wikipedia.org/wiki/洋楽80’sファン倶楽部 "wikilink")（2012年4月8日 - 2015年3月29日、[シャーリー富岡](../Page/シャーリー富岡.md "wikilink")）
+  - [日曜喫茶室](../Page/日曜喫茶室.md "wikilink")（1977年4月10日 - 2017年3月26日）
   - [日本の民謡](../Page/日本の民謡.md "wikilink")（1966年4月10日 - 2017年4月2日）
   - [ソング・アプローチ](https://ja.wikipedia.org/wiki/ソング・アプローチ "wikilink")（2013年4月 - 2017年4月2日）
   - [邦楽ジョッキー](https://ja.wikipedia.org/wiki/邦楽ジョッキー "wikilink")
@@ -802,9 +802,9 @@
   - [渡辺祐](../Page/渡辺祐.md "wikilink")の[リビング・ラジオ](https://ja.wikipedia.org/wiki/渡辺祐のリビング・ラジオ "wikilink")（隔週日曜 18:00 - 18:50。2017年4月16日 - 2018年4月1日）
   - [ライブビート](https://ja.wikipedia.org/wiki/ライブビート "wikilink")（最終日曜 22:30 - 23:30。 - 2018年4月1日、[古閑裕](https://ja.wikipedia.org/wiki/古閑裕 "wikilink")）
   - [くるり電波](https://ja.wikipedia.org/wiki/くるり電波 "wikilink")（最終火曜 23:00 - 翌0:00〈再放送 翌週火曜 10:00 - 11:00〉→ 2018年4月より、『金曜カルテット』枠 第1週金曜 23:00 - 23:50〈再放送 翌週金曜 10:00 - 10:50〉。2012年4月24日 - 2019年3月1日 、[くるり](../Page/くるり.md "wikilink")）
-  - [音楽ガハハ](https://ja.wikipedia.org/wiki/音楽ガハハ "wikilink")（最終水曜 23:00 - 翌0:00〈再放送 翌週水曜 10:00 - 11:00〉→ 2018年4月より、『金曜カルテット』枠 第2週金曜 23:00 - 23:50〈再放送 翌週金曜 10:00 - 10:50〉。2016年4月27日 - 2019年3月8日 、[マキタスポーツ](../Page/マキタスポーツ.md "wikilink")・[レキシ](../Page/レキシ.md "wikilink")・[やついいちろう](https://ja.wikipedia.org/wiki/やついいちろう "wikilink")）
-  - [Masayuki Suzuki Radio Show GOOD VIBRATION](https://ja.wikipedia.org/wiki/Masayuki_Suzuki_Radio_Show_GOOD_VIBRATION "wikilink")（最終月曜 最終火曜 23:00 - 翌0:00 → 2018年4月より、『金曜カルテット』枠 第3週金曜 23:00 - 23:50〈再放送 翌週金曜 10:00 - 10:50〉。2015年4月27日 - 2019年3月15日 、[鈴木雅之](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink")）
-  - [久保田利伸 ファンキーフライデー](https://ja.wikipedia.org/wiki/久保田利伸_ファンキーフライデー "wikilink")（最終金曜 23:00 - 翌0:00〈再放送 翌週木曜 10:00 - 11:00〉→ 2018年4月より、『金曜カルテット』枠 第4週金曜 23:00 - 23:50〈再放送 翌週金曜 10:00 - 10:50〉。2017年4月28日 - 2019年3月22日 、[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")）
+  - [音楽ガハハ](https://ja.wikipedia.org/wiki/音楽ガハハ "wikilink")（最終水曜 23:00 - 翌0:00〈再放送 翌週水曜 10:00 - 11:00〉→ 2018年4月より、『金曜カルテット』枠 第2週金曜 23:00 - 23:50〈再放送 翌週金曜 10:00 - 10:50〉。2016年4月27日 - 2019年3月8日 、[マキタスポーツ](../Page/マキタスポーツ.md "wikilink")・[レキシ](../Page/レキシ.md "wikilink")・[やついいちろう](../Page/やついいちろう.md "wikilink")）
+  - [Masayuki Suzuki Radio Show GOOD VIBRATION](https://ja.wikipedia.org/wiki/Masayuki_Suzuki_Radio_Show_GOOD_VIBRATION "wikilink")（最終月曜 最終火曜 23:00 - 翌0:00 → 2018年4月より、『金曜カルテット』枠 第3週金曜 23:00 - 23:50〈再放送 翌週金曜 10:00 - 10:50〉。2015年4月27日 - 2019年3月15日 、[鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink")）
+  - [久保田利伸 ファンキーフライデー](https://ja.wikipedia.org/wiki/久保田利伸_ファンキーフライデー "wikilink")（最終金曜 23:00 - 翌0:00〈再放送 翌週木曜 10:00 - 11:00〉→ 2018年4月より、『金曜カルテット』枠 第4週金曜 23:00 - 23:50〈再放送 翌週金曜 10:00 - 10:50〉。2017年4月28日 - 2019年3月22日 、[久保田利伸](../Page/久保田利伸.md "wikilink")）
   - [AKB48の"私たちの物語"](https://ja.wikipedia.org/wiki/AKB48の"私たちの物語" "wikilink")
   - [らじるの男](https://ja.wikipedia.org/wiki/らじるの男 "wikilink")
   - [ヒャダインの"ガルポプ\!"](https://ja.wikipedia.org/wiki/ヒャダインの"ガルポプ!" "wikilink")
@@ -824,14 +824,14 @@
 [Category:NHK-FMの番組](https://ja.wikipedia.org/wiki/Category:NHK-FMの番組 "wikilink") [Category:ラジオ番組一覧](https://ja.wikipedia.org/wiki/Category:ラジオ番組一覧 "wikilink")
 
 1.  [2019年度前半期放送番組時刻表](https://www.nhk.or.jp/pr/keiei/hensei/pdf/2019_jikokuhyo-kokunai.pdf)
-2.  本放送は[ラジオ第1と](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")で日曜 8:05 - 8:55に放送。
+2.  本放送は[ラジオ第1と](../Page/NHKラジオ第1放送.md "wikilink")[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")で日曜 8:05 - 8:55に放送。
 3.  [NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")では2013年3月までは木曜・金曜の18:30-18:50に放送（休止の場合あり）だったが、2013年4月以降は、国会中継（内閣総理大臣の演説や党首討論の時は除く）や高校野球全国大会（夏の決勝戦は除く）の中継、その他放送権の都合で放送されないスポーツ中継がある関係でラジオ第1放送の同時放送ができない場合の空白時間帯の穴埋めで放送されることになる（月 - 木曜日の11時台に放送される時はFMと同時刻のため原則国内同時放送となるが、別内容となる場合もある）。
-4.  本放送は[ラジオ第1で土曜](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink") 19:45 - 19:50に放送。
+4.  本放送は[ラジオ第1で土曜](../Page/NHKラジオ第1放送.md "wikilink") 19:45 - 19:50に放送。
 5.  [NHK交響楽団定期演奏会](https://ja.wikipedia.org/wiki/#特別番組 "wikilink")（生放送）放送日は[午後7時のニュースは休止となるが](../Page/NHKきょうのニュース.md "wikilink")、例外として、2009年5月9日の2009年度5月Aプログラム・第1646回定期公演放送時には19:00-19:10にニュースを放送するため、番組が一時中断された。また、2009年5月20日は休止の代わりに通常、FMでは放送されることのない20時台のニュース（5分間）を通常放送されているラジオ第1、NHKワールド・ラジオ日本と同時放送した。
 6.  ラジオ第1でW杯やオリンピック等のスポーツ中継やNHK予算審議の録音中継がある時にはFM単独放送（1時台以降は国際放送も同時）となる。
 7.  [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")では年一回ほど[札幌放送局制作の](../Page/NHK札幌放送局.md "wikilink")『[札響FMコンサート](https://ja.wikipedia.org/wiki/札響FMコンサート "wikilink")』（〜11:00）に差し替えられる。
-8.  高校野球地方大会中継（春季・夏季・秋季）があるときは一部地域で休止となる場合がある。本来はラジオ第1放送で放送される高校野球が、この時間帯は「[日曜討論](https://ja.wikipedia.org/wiki/日曜討論 "wikilink")」の放送が最優先となっているための措置である。なお、高校野球全国大会中継があるときは「日曜討論」が録音で夜間（2013年度より24時台）に振替放送されるため、休止はない。
-9.  本放送は[ラジオ第1で土曜](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink") 19:45 - 19:50に放送。
+8.  高校野球地方大会中継（春季・夏季・秋季）があるときは一部地域で休止となる場合がある。本来はラジオ第1放送で放送される高校野球が、この時間帯は「[日曜討論](../Page/日曜討論.md "wikilink")」の放送が最優先となっているための措置である。なお、高校野球全国大会中継があるときは「日曜討論」が録音で夜間（2013年度より24時台）に振替放送されるため、休止はない。
+9.  本放送は[ラジオ第1で土曜](../Page/NHKラジオ第1放送.md "wikilink") 19:45 - 19:50に放送。
 10. 月一回日曜日は[関西地方](https://ja.wikipedia.org/wiki/関西地方 "wikilink")では『[ラジオNMB48](https://ja.wikipedia.org/wiki/ラジオNMB48 "wikilink")』（[大阪局制作](../Page/NHK大阪放送局.md "wikilink")）を放送するため、きらクラ\!の本放送、音の風景は差し替え。
 11. [東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")では『[サバトセーラ東北](https://ja.wikipedia.org/wiki/サバトセーラ東北 "wikilink")』（[仙台局制作](../Page/NHK仙台放送局.md "wikilink")）を放送するため、ラジオ第1のみの放送となる。
 12. [鳥取では](../Page/NHK鳥取放送局.md "wikilink")2011年3月まで毎月最終土曜に『[鳥取文芸館](https://ja.wikipedia.org/wiki/鳥取文芸館 "wikilink")』を放送するため、初回放送を聴くことが出来なかった。
@@ -839,7 +839,7 @@
 14. 国政選挙開票速報のため2007年7月と2009年8月の2度、放送が休止となった。
 15.
 16. 一部地域で放送休止･減力放送のお知らせがある場合は0:59.30で途中飛び降りとなる。
-17. 山田が休みの際、[平幹二朗](https://ja.wikipedia.org/wiki/平幹二朗 "wikilink")が代理で案内役を務めたことがある。
+17. 山田が休みの際、[平幹二朗](../Page/平幹二朗.md "wikilink")が代理で案内役を務めたことがある。
 18.
 19. 以前は午前1時（[ラジオ深夜便](../Page/ラジオ深夜便.md "wikilink")の同時放送開始時刻）まで通常のFM放送の編成を送っていたが、近年は夜間・早朝に混信を起こしやすい地域へ配慮して、ラジオ第1での放送開始時間（通常20時。2009年の総選挙以降は19時55分）に合わせて翌朝5時までの同時放送を行っている。
 20.

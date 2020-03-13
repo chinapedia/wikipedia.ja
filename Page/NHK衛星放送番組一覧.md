@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK衛星放送番組一覧**（エヌエイチケイえいせいほうそうばんぐみいちらん）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")(NHK)の[衛星放送](../Page/衛星放送.md "wikilink")チャンネル、[BS1と](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")[BSプレミアムで放送されている](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")、もしくは過去に放送された番組を一覧にしたものである。すでに閉局となった[衛星第1テレビジョン](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")(旧BS1)、[衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")(BS2)および[衛星ハイビジョン](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")(BShi)で過去に放送された番組も記載した。
+**NHK衛星放送番組一覧**（エヌエイチケイえいせいほうそうばんぐみいちらん）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")(NHK)の[衛星放送](../Page/衛星放送.md "wikilink")チャンネル、[BS1と](../Page/NHK_BS1.md "wikilink")[BSプレミアムで放送されている](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")、もしくは過去に放送された番組を一覧にしたものである。すでに閉局となった[衛星第1テレビジョン](../Page/NHK_BS1.md "wikilink")(旧BS1)、[衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")(BS2)および[衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")(BShi)で過去に放送された番組も記載した。
 
 総合テレビについては[NHK総合テレビ番組一覧](../Page/NHK総合テレビ番組一覧.md "wikilink")、教育テレビについては[NHK教育テレビ番組一覧](../Page/NHK教育テレビ番組一覧.md "wikilink")、国際放送における番組は[NHKワールドTV 番組一覧および](../Page/NHKワールドTV_番組一覧.md "wikilink")[NHKワールドプレミアム 番組一覧を](../Page/NHKワールドプレミアム_番組一覧.md "wikilink")、それぞれ参照のこと。
 
@@ -25,11 +25,11 @@
 
 <!-- end list -->
 
-  - [NHK BSニュース](https://ja.wikipedia.org/wiki/NHK_BSニュース "wikilink")
+  - [NHK BSニュース](../Page/NHK_BSニュース.md "wikilink")
       - NHK BSニュース4K（[NHK BS4Kと同時放送](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")）
   - [キャッチ\!世界のトップニュース](https://ja.wikipedia.org/wiki/キャッチ!世界の視点 "wikilink")（2015年度まではキャッチ\!世界の視点）
   - [国際報道20XX](https://ja.wikipedia.org/wiki/国際報道2014 "wikilink")（XXは放送する年の下2桁を示す）
-  - [ワールドニュース](https://ja.wikipedia.org/wiki/ワールドニュースアワー "wikilink")
+  - [ワールドニュース](../Page/ワールドニュースアワー.md "wikilink")
       - [ワールドニュースアジア](https://ja.wikipedia.org/wiki/ワールドニュースアジア "wikilink")
       - [ワールドニュースアメリカ](https://ja.wikipedia.org/wiki/ワールドニュースアメリカ "wikilink")
   - [BS列島ニュース](https://ja.wikipedia.org/wiki/BS列島ニュース "wikilink")
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - [ABCニュースシャワー](https://ja.wikipedia.org/wiki/ABCニュースシャワー "wikilink")（2018年度まで）→攻略\!ABCニュース英語（2019年度から）
+  - [ABCニュースシャワー](../Page/ABCニュースシャワー.md "wikilink")（2018年度まで）→攻略\!ABCニュース英語（2019年度から）
   - [ABCナイトライン](../Page/ナイトライン.md "wikilink")（上述のワールドニュース アメリカに内包）
   - [PBSニュースアワー](../Page/PBSニュースアワー.md "wikilink")（上述のワールドニュース アメリカに内包）
   - [CNN Student News](../Page/HLN.md "wikilink")
@@ -57,7 +57,7 @@
   - [COOL JAPAN〜発掘\!かっこいいニッポン〜](../Page/COOL_JAPAN〜発掘!かっこいいニッポン〜.md "wikilink")
   - [JAPAN 7DAYS](https://ja.wikipedia.org/wiki/JAPAN_7DAYS "wikilink")
   - [ASIA 7DAYS](https://ja.wikipedia.org/wiki/ASIA_7DAYS "wikilink")
-  - [Begin Japanology](https://ja.wikipedia.org/wiki/Begin_Japanology "wikilink")
+  - [Begin Japanology](../Page/Begin_Japanology.md "wikilink")
   - [BSフォーラム](https://ja.wikipedia.org/wiki/BSフォーラム "wikilink")
   - BS1 2345min.
       - [ヨガ5](https://ja.wikipedia.org/wiki/ヨガ5 "wikilink")
@@ -84,7 +84,7 @@
 
 <!-- end list -->
 
-  - [メジャーリーグ中継](../Page/メジャーリーグ中継_\(NHK\).md "wikilink") - [MLBオールスターゲーム](https://ja.wikipedia.org/wiki/MLBオールスターゲーム "wikilink")、[ワールドシリーズ](../Page/ワールドシリーズ.md "wikilink")[生中継含む](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+  - [メジャーリーグ中継](../Page/メジャーリーグ中継_\(NHK\).md "wikilink") - [MLBオールスターゲーム](../Page/MLBオールスターゲーム.md "wikilink")、[ワールドシリーズ](../Page/ワールドシリーズ.md "wikilink")[生中継含む](../Page/生放送.md "wikilink")。
   - [NHKプロ野球](../Page/NHKプロ野球.md "wikilink") - 原則試合終了まで放送。
       - [デーゲーム](https://ja.wikipedia.org/wiki/デーゲーム "wikilink")
       - [ナイトゲーム](../Page/ナイター.md "wikilink") - 21:49以降も中継が継続する場合はマルチ編成を行い102chで放送（101chは定時番組を放送）。
@@ -94,9 +94,9 @@
   - イングランド・[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")中継 - 録画中継（一部、生中継有り）。
   - イタリア・[セリエA中継](../Page/セリエA_\(サッカー\).md "wikilink") - 録画中継（2010-2011シーズンから）
   - ドイツ・[ブンデスリーガ中継](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink") - 録画中継（2012-2013シーズンから）
-  - [FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")
-  - [FIFA女子ワールドカップ](https://ja.wikipedia.org/wiki/FIFA女子ワールドカップ "wikilink")（[2011年大会から](../Page/2011_FIFA女子ワールドカップ.md "wikilink")）
-  - [AFCアジアカップ](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")
+  - [FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")
+  - [FIFA女子ワールドカップ](../Page/FIFA女子ワールドカップ.md "wikilink")（[2011年大会から](../Page/2011_FIFA女子ワールドカップ.md "wikilink")）
+  - [AFCアジアカップ](../Page/AFCアジアカップ.md "wikilink")
   - [AFCチャンピオンズリーグ](../Page/AFCチャンピオンズリーグ.md "wikilink")
   - [オリンピック](../Page/近代オリンピック.md "wikilink")（夏季・冬季）
 
@@ -110,7 +110,7 @@
   - [ラグビーワールドカップ](../Page/ラグビーワールドカップ.md "wikilink")
   - [アジア競技大会](../Page/アジア競技大会.md "wikilink")
   - [NFL](../Page/NFL.md "wikilink")中継 - 録画、[スーパーボウル](https://ja.wikipedia.org/wiki/スーパーボウル "wikilink")は生中継。
-  - [NBA中継](../Page/NBA中継_\(NHK\).md "wikilink") - 録画、[オールスターゲーム](../Page/NBAオールスターゲーム.md "wikilink")、[NBAファイナル](https://ja.wikipedia.org/wiki/NBAファイナル "wikilink")は生中継。
+  - [NBA中継](../Page/NBA中継_\(NHK\).md "wikilink") - 録画、[オールスターゲーム](../Page/NBAオールスターゲーム.md "wikilink")、[NBAファイナル](../Page/NBAファイナル.md "wikilink")は生中継。
   - [PGAツアー](../Page/PGAツアー.md "wikilink")中継 - 生中継
   - [Bリーグ中継](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")
   - [Wリーグ中継](https://ja.wikipedia.org/wiki/バスケットボール女子日本リーグ機構 "wikilink")
@@ -128,13 +128,13 @@
   - [BSベストスポーツ](../Page/BSベストスポーツ.md "wikilink")
   - [ワールドスポーツMLB](https://ja.wikipedia.org/wiki/ワールドスポーツMLB "wikilink")（2018年度まで）→ワースポ×MLB（2019年度から）（[MLBがシーズンオフの時はワールドスポーツSOCCERに改題](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")）
   - [Jリーグタイム](../Page/Jリーグタイム.md "wikilink")
-  - [NHK競馬中継](../Page/NHK競馬中継.md "wikilink") - [中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")のGI競走のうち、[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")・[優駿牝馬](https://ja.wikipedia.org/wiki/優駿牝馬 "wikilink")（オークス）・[ジャパンカップ](https://ja.wikipedia.org/wiki/ジャパンカップ "wikilink")を放送。
-  - [大相撲中継](https://ja.wikipedia.org/wiki/大相撲中継 "wikilink")
+  - [NHK競馬中継](../Page/NHK競馬中継.md "wikilink") - [中央競馬](../Page/中央競馬.md "wikilink")のGI競走のうち、[桜花賞](https://ja.wikipedia.org/wiki/桜花賞 "wikilink")・[優駿牝馬](https://ja.wikipedia.org/wiki/優駿牝馬 "wikilink")（オークス）・[ジャパンカップ](https://ja.wikipedia.org/wiki/ジャパンカップ "wikilink")を放送。
+  - [大相撲中継](../Page/大相撲中継.md "wikilink")
 
 <!-- end list -->
 
   -
-    地上波の総合テレビで15時・16時台に[国会中継](https://ja.wikipedia.org/wiki/国会中継 "wikilink")や特設ニュースが組まれた場合に限り15:20〜17:05に放送。2011年7月19日放送の名古屋場所十日目は総合テレビのニュースの放送時間延長で17:15までの放送。
+    地上波の総合テレビで15時・16時台に[国会中継](../Page/国会中継.md "wikilink")や特設ニュースが組まれた場合に限り15:20〜17:05に放送。2011年7月19日放送の名古屋場所十日目は総合テレビのニュースの放送時間延長で17:15までの放送。
     2011年11月場所からは定時のマルチ編成としてBS102chで幕下以下の取組の中継を総合テレビの中継開始時間まで（原則として平日は15:12。土日は15:05まで。総合テレビで国会中継や他のスポーツ中継が行なわれる時、特設ニュースが組まれた場合は最大17:05まで）放送。
     [リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")・2か国語放送は通常通り行うが、連動のデータ放送は行われない。
 
@@ -217,7 +217,7 @@
   - [クラシックミステリー 名曲探偵アマデウスセレクション](https://ja.wikipedia.org/wiki/クラシックミステリー_名曲探偵アマデウス "wikilink")
   - [特選オーケストラライブ](https://ja.wikipedia.org/wiki/特選オーケストラライブ "wikilink")
   - [NHKクラシックガイド](https://ja.wikipedia.org/wiki/NHKクラシックガイド "wikilink")
-  - [ザ少年倶楽部](https://ja.wikipedia.org/wiki/ザ少年倶楽部 "wikilink")
+  - [ザ少年倶楽部](../Page/ザ少年倶楽部.md "wikilink")
   - [BS日本のうた](../Page/BS日本のうた.md "wikilink")
   - [J-POP青春の'80](https://ja.wikipedia.org/wiki/J-POP青春の'80 "wikilink")
   - [ワールド・スーパー・ライブ](https://ja.wikipedia.org/wiki/ワールド・スーパー・ライブ "wikilink")
@@ -284,22 +284,22 @@
 
 <!-- end list -->
 
-  - [NHK BSニュース](https://ja.wikipedia.org/wiki/NHK_BSニュース "wikilink")
-  - [ワールドニュースアワー](https://ja.wikipedia.org/wiki/ワールドニュースアワー "wikilink")
+  - [NHK BSニュース](../Page/NHK_BSニュース.md "wikilink")
+  - [ワールドニュースアワー](../Page/ワールドニュースアワー.md "wikilink")
       - ワールドニュースアワー・アジア
-  - [おはよう世界](https://ja.wikipedia.org/wiki/おはよう世界 "wikilink")
+  - [おはよう世界](../Page/おはよう世界.md "wikilink")
   - [アジアクロスロード](../Page/アジアクロスロード.md "wikilink")
-  - [きょうの世界](https://ja.wikipedia.org/wiki/きょうの世界 "wikilink")
+  - [きょうの世界](../Page/きょうの世界.md "wikilink")
   - [NHK NEWSLINE](https://ja.wikipedia.org/wiki/NHK_NEWSLINE "wikilink")
   - [おはよう世界のトップニュース](https://ja.wikipedia.org/wiki/おはよう世界のトップニュース "wikilink")
   - [BSニュース50](../Page/BSニュース50.md "wikilink")
   - [BSニュースワイド2150](https://ja.wikipedia.org/wiki/BSニュースワイド2150 "wikilink")
   - [BSニュースきょうの世界](https://ja.wikipedia.org/wiki/BSニュースきょうの世界 "wikilink")
-  - [経済最前線](https://ja.wikipedia.org/wiki/経済最前線 "wikilink")
-  - [BS23](https://ja.wikipedia.org/wiki/BS23 "wikilink")
+  - [経済最前線](../Page/経済最前線.md "wikilink")
+  - [BS23](../Page/BS23.md "wikilink")
   - [BS22](https://ja.wikipedia.org/wiki/BS22 "wikilink")
   - [BSプライムニュース](https://ja.wikipedia.org/wiki/BSプライムニュース "wikilink")
-  - [BS列島情報 いきいき首都圏](https://ja.wikipedia.org/wiki/首都圏いきいきワイド "wikilink")
+  - [BS列島情報 いきいき首都圏](../Page/首都圏いきいきワイド.md "wikilink")
   - [首都圏ナウ](https://ja.wikipedia.org/wiki/首都圏ナウ "wikilink")
   - [地球天気予報](https://ja.wikipedia.org/wiki/地球天気予報 "wikilink")
   - [BS気象情報](https://ja.wikipedia.org/wiki/BS気象情報 "wikilink")
@@ -309,7 +309,7 @@
   - [News Today Asia](https://ja.wikipedia.org/wiki/News_Today_Asia "wikilink")
   - [WHAT'S ON JAPAN](https://ja.wikipedia.org/wiki/WHAT'S_ON_JAPAN "wikilink")
   - [海外安全情報](../Page/海外安全情報.md "wikilink")（番組自体は継続している）
-  - [土曜解説](https://ja.wikipedia.org/wiki/土曜解説 "wikilink")
+  - [土曜解説](../Page/土曜解説.md "wikilink")
 
 <!-- end list -->
 
@@ -460,7 +460,7 @@
       - [真夜中の王国](https://ja.wikipedia.org/wiki/真夜中の王国 "wikilink")03
   - [ウイークエンド・ジョイ](https://ja.wikipedia.org/wiki/ウイークエンド・ジョイ "wikilink")
   - [ペット相談](https://ja.wikipedia.org/wiki/ペット相談 "wikilink")　
-  - [食彩浪漫](https://ja.wikipedia.org/wiki/食彩浪漫 "wikilink")
+  - [食彩浪漫](../Page/食彩浪漫.md "wikilink")
 
 <!-- end list -->
 
@@ -473,14 +473,14 @@
   - [BSシンフォニーアワー](https://ja.wikipedia.org/wiki/BSシンフォニーアワー "wikilink")
   - [BSあなたが選ぶ時代の歌](https://ja.wikipedia.org/wiki/BSあなたが選ぶ時代の歌 "wikilink")
   - [BS青春のポップス](../Page/BS青春のポップス.md "wikilink")
-  - [BS永遠の音楽大全集](https://ja.wikipedia.org/wiki/BS永遠の音楽大全集 "wikilink")
+  - [BS永遠の音楽大全集](../Page/BS永遠の音楽大全集.md "wikilink")
   - [BSサタデーライブ](https://ja.wikipedia.org/wiki/BSサタデーライブ "wikilink")
   - [サンデーヤングミュージック](../Page/サンデーヤングミュージック.md "wikilink")
   - [渋谷らいぶステージ](https://ja.wikipedia.org/wiki/渋谷らいぶステージ "wikilink")
   - [ウエンズデー J-POP](../Page/ウエンズデー_J-POP.md "wikilink")
   - [フォークの達人](../Page/フォークの達人.md "wikilink")
   - [蔵出し劇場](../Page/蔵出し劇場.md "wikilink") [ビッグショー](../Page/ビッグショー_\(テレビ番組\).md "wikilink")
-  - [NHK歌謡コンサート](https://ja.wikipedia.org/wiki/NHK歌謡コンサート "wikilink")（デジタル放送は5.1サラウンド放送）
+  - [NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink")（デジタル放送は5.1サラウンド放送）
   - [NHKのど自慢](../Page/NHKのど自慢.md "wikilink")（総合テレビとサイマル放送）
   - [SONGS](../Page/SONGS_\(テレビ番組\).md "wikilink")
   - [そう言えば あの時このうた](../Page/そう言えば_あの時このうた.md "wikilink")
@@ -492,7 +492,7 @@
   - サンデーヤングミュージック
       - [アイドルオンステージ](../Page/アイドルオンステージ.md "wikilink")（1993年10月 - 1997年3月）
       - [ミュージック・ジャンプ](../Page/ミュージック・ジャンプ.md "wikilink")（1997年4月 - 2000年3月）
-      - [BEAT MOTION](https://ja.wikipedia.org/wiki/BEAT_MOTION "wikilink")（2000年4月 - 2006年3月）
+      - [BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")（2000年4月 - 2006年3月）
       - [ミュージック・エクスプレス](../Page/ミュージック・エクスプレス.md "wikilink")（2006年4月 - 2007年3月）
   - [BSカラオケ塾](https://ja.wikipedia.org/wiki/BSカラオケ塾 "wikilink")
   - [BS流行歌最前線](https://ja.wikipedia.org/wiki/BS流行歌最前線 "wikilink")
@@ -511,14 +511,14 @@
 <!-- end list -->
 
   - [BS名作アニメ劇場](../Page/BS名作アニメ劇場.md "wikilink")
-  - [衛星アニメ劇場](https://ja.wikipedia.org/wiki/衛星アニメ劇場 "wikilink")
+  - [衛星アニメ劇場](../Page/衛星アニメ劇場.md "wikilink")
   - [星新一](../Page/星新一.md "wikilink")ショートショート
-  - [ななみちゃん](https://ja.wikipedia.org/wiki/ななみちゃん "wikilink")（随時）
+  - [ななみちゃん](../Page/ななみちゃん.md "wikilink")（随時）
   - [BS夏休みアニメ特選](https://ja.wikipedia.org/wiki/BS夏休みアニメ特選 "wikilink")（夏休み）
   - [BS冬休みアニメ特選](https://ja.wikipedia.org/wiki/BS冬休みアニメ特選 "wikilink")（冬休み）
   - [サンデーアニメ劇場](https://ja.wikipedia.org/wiki/サンデーアニメ劇場 "wikilink")
       - [ウルトラマンキッズ 母をたずねて3000万光年](../Page/ウルトラマンキッズ_母をたずねて3000万光年.md "wikilink")
-      - [おにいさまへ…](https://ja.wikipedia.org/wiki/おにいさまへ… "wikilink")
+      - [おにいさまへ…](../Page/おにいさまへ….md "wikilink")
 
 <!-- end list -->
 
@@ -546,10 +546,10 @@
   - [デスパレートな妻たち](../Page/デスパレートな妻たち.md "wikilink")2
   - [北京バイオリン](https://ja.wikipedia.org/wiki/北京バイオリン "wikilink")
   - [スター・トレック 宇宙大作戦](../Page/宇宙大作戦.md "wikilink")（デジタルリマスター版） - デジタル放送の2か国語放送は主音声は日本語モノラル放送、副音声は英語ステレオ放送。
-  - [名探偵モンク](https://ja.wikipedia.org/wiki/名探偵モンク "wikilink")
+  - [名探偵モンク](../Page/名探偵モンク.md "wikilink")
   - [華麗なるペテン師たち](../Page/華麗なるペテン師たち.md "wikilink")
   - [FBI失踪者を追え](https://ja.wikipedia.org/wiki/FBI失踪者を追え "wikilink")
-  - [オールイン 運命の愛](https://ja.wikipedia.org/wiki/オールイン_運命の愛 "wikilink")
+  - [オールイン 運命の愛](../Page/オールイン_運命の愛.md "wikilink")
   - [南北戦争物語 愛と自由への大地](https://ja.wikipedia.org/wiki/南北戦争物語_愛と自由への大地 "wikilink")
   - [ザ・ホスピタル](../Page/ザ・ホスピタル.md "wikilink")
   - [ステート・ウイズイン 〜テロリストの幻影〜](https://ja.wikipedia.org/wiki/ステート・ウイズイン_〜テロリストの幻影〜 "wikilink")
@@ -563,7 +563,7 @@
   - [蔵出し劇場](../Page/蔵出し劇場.md "wikilink")
   - [カシャッと一句\!フォト575](https://ja.wikipedia.org/wiki/カシャッと一句!フォト575 "wikilink")
   - [あなたのアンコール](../Page/あなたのアンコール.md "wikilink")
-  - [BS大好き](https://ja.wikipedia.org/wiki/BS大好き "wikilink")（BShiとの[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")。ただし、BShiではプロ野球中継など特別番組や土曜ドラマ放送時には放送しない場合があるが、この場合はBS2のみで放送される）
+  - [BS大好き](https://ja.wikipedia.org/wiki/BS大好き "wikilink")（BShiとの[サイマル放送](../Page/サイマル放送.md "wikilink")。ただし、BShiではプロ野球中継など特別番組や土曜ドラマ放送時には放送しない場合があるが、この場合はBS2のみで放送される）
   - ワールドニュースアワー（BS1がメジャーリーグ中継により放送できない時は、8時台のみBS2で放送している。）
   - [大逆転将棋](https://ja.wikipedia.org/wiki/大逆転将棋 "wikilink")（毎年正月明けに放送）
   - [ふるさと競演](https://ja.wikipedia.org/wiki/ふるさと競演 "wikilink")（[秋田放送局制作](../Page/NHK秋田放送局.md "wikilink")、不定期に放送される）
@@ -575,10 +575,10 @@
   - [マンガノゲンバ](../Page/マンガノゲンバ.md "wikilink")
   - [アニメギガ](../Page/アニメギガ.md "wikilink")
   - [蔵出し劇場](../Page/蔵出し劇場.md "wikilink")『月替り特集』
-  - [熱中時間〜忙中“趣味”あり〜](https://ja.wikipedia.org/wiki/熱中時間_忙中"趣味"あり "wikilink")
+  - [熱中時間〜忙中“趣味”あり〜](../Page/熱中時間_忙中"趣味"あり.md "wikilink")
   - [三枝一座がやってきた\!](../Page/三枝一座がやってきた!.md "wikilink")
   - [BS熱中夜話](../Page/BS熱中夜話.md "wikilink")
-  - [BSふるさと皆様劇場](https://ja.wikipedia.org/wiki/ふるさと皆様劇場 "wikilink")
+  - [BSふるさと皆様劇場](../Page/ふるさと皆様劇場.md "wikilink")
   - [にっぽん熱中クラブ](https://ja.wikipedia.org/wiki/にっぽん熱中クラブ "wikilink")
   - [Shibuya Deep A](../Page/Shibuya_Deep_A.md "wikilink") - 2011年度より総合テレビに移行。
   - [デジタル・スタジアム](../Page/デジタル・スタジアム.md "wikilink")
@@ -587,17 +587,17 @@
   - [双方向クイズ にっぽん力](../Page/双方向クイズ_にっぽん力.md "wikilink")
   - [素敵にガーデニングライフ](https://ja.wikipedia.org/wiki/素敵にガーデニングライフ "wikilink")
   - [BSティーンズ倶楽部](https://ja.wikipedia.org/wiki/BSティーンズ倶楽部 "wikilink")
-  - [おーい、ニッポン](https://ja.wikipedia.org/wiki/おーい、ニッポン "wikilink")
+  - [おーい、ニッポン](../Page/おーい、ニッポン.md "wikilink")
   - [絶対\!ふるさと主義](https://ja.wikipedia.org/wiki/絶対!ふるさと主義 "wikilink")
   - [大阪発疾走ステージ WEST WIND](../Page/大阪発疾走ステージ_WEST_WIND.md "wikilink")（大阪放送局制作）
   - [BS列車・どーも君号が行く](https://ja.wikipedia.org/wiki/BS列車・どーも君号が行く "wikilink")
-  - [公園通りで会いましょう](https://ja.wikipedia.org/wiki/公園通りで会いましょう "wikilink")
+  - [公園通りで会いましょう](../Page/公園通りで会いましょう.md "wikilink")
   - [BSふれあいホール](https://ja.wikipedia.org/wiki/BSふれあいホール "wikilink")
   - [シブヤらいぶ館](../Page/シブヤらいぶ館.md "wikilink")（2006年4月 - 2007年3月）
   - [BSふれあいステージ](../Page/BSふれあいステージ.md "wikilink")（2007年4月 - 2008年3月）
   - [週刊お宝TV](../Page/週刊お宝TV.md "wikilink")（過去に放送された[テレビ番組](../Page/テレビ番組.md "wikilink")の映像をNHK・[民放](https://ja.wikipedia.org/wiki/民放 "wikilink")問わず紹介し、当時の出演者などをゲストに招き、その番組ゆかりのトークを交えた番組）
       - [お宝TVデラックス](https://ja.wikipedia.org/wiki/お宝TVデラックス "wikilink")（上記番組の続編。2009年3月終了）
-  - [大阪発元気ダッシュ\!DOYAH](https://ja.wikipedia.org/wiki/大阪発元気ダッシュ!DOYAH "wikilink")（大阪放送局制作）
+  - [大阪発元気ダッシュ\!DOYAH](../Page/大阪発元気ダッシュ!DOYAH.md "wikilink")（大阪放送局制作）
   - [集まれパフォーマー\!放課後テレビ](https://ja.wikipedia.org/wiki/集まれパフォーマー!放課後テレビ "wikilink")
   - [西川きよしのバンザイ家族](https://ja.wikipedia.org/wiki/西川きよしのバンザイ家族 "wikilink")
   - ["笑"たいむ](https://ja.wikipedia.org/wiki/"笑"たいむ "wikilink")2008〜2009（2008年4月 - 2009年3月）
@@ -617,8 +617,8 @@
   - [BSどーもくんワールド](../Page/BSどーもくんワールド.md "wikilink")
   - [BSななみDEどーも\!](https://ja.wikipedia.org/wiki/BSななみDEどーも! "wikilink")
   - [金曜アニメ館](https://ja.wikipedia.org/wiki/金曜アニメ館 "wikilink")
-  - [キッズアワー](https://ja.wikipedia.org/wiki/衛星こども劇場 "wikilink")
-  - [衛星こども劇場](https://ja.wikipedia.org/wiki/衛星こども劇場 "wikilink")
+  - [キッズアワー](../Page/衛星こども劇場.md "wikilink")
+  - [衛星こども劇場](../Page/衛星こども劇場.md "wikilink")
   - [健康こどもっち](https://ja.wikipedia.org/wiki/健康こどもっち "wikilink")
 
 <!-- end list -->
@@ -641,12 +641,12 @@
 
 <!-- end list -->
 
-  - [The\!少女マンガ](https://ja.wikipedia.org/wiki/The!少女マンガ "wikilink")
+  - [The\!少女マンガ](../Page/The!少女マンガ.md "wikilink")
   - [BSマンガ夜話](../Page/BSマンガ夜話.md "wikilink")
-  - [BSアニメ夜話](https://ja.wikipedia.org/wiki/BSアニメ夜話 "wikilink")
+  - [BSアニメ夜話](../Page/BSアニメ夜話.md "wikilink")
   - [ふるさとの鉄道](https://ja.wikipedia.org/wiki/ふるさとの鉄道 "wikilink")
-  - [列島縦断 鉄道乗りつくしの旅〜JR20000km全線走破〜](https://ja.wikipedia.org/wiki/列島縦断_鉄道乗りつくしの旅〜JR20000km全線走破〜 "wikilink")（[デジタル衛星ハイビジョンで生放送されたものをその日の夜に録画放送](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")）
-  - [あの日 昭和20年の記憶](https://ja.wikipedia.org/wiki/あの日_昭和20年の記憶 "wikilink")（戦後60年のミニドキュメンタリー番組で2005年1月1日から12月31日まで毎日放送された）
+  - [列島縦断 鉄道乗りつくしの旅〜JR20000km全線走破〜](../Page/列島縦断_鉄道乗りつくしの旅〜JR20000km全線走破〜.md "wikilink")（[デジタル衛星ハイビジョンで生放送されたものをその日の夜に録画放送](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")）
+  - [あの日 昭和20年の記憶](../Page/あの日_昭和20年の記憶.md "wikilink")（戦後60年のミニドキュメンタリー番組で2005年1月1日から12月31日まで毎日放送された）
   - [私の1冊 日本の100冊](https://ja.wikipedia.org/wiki/私の1冊_日本の100冊 "wikilink")
 
 <!-- end list -->
@@ -657,15 +657,15 @@
 
   - [選抜高校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")・[全国高校野球選手権](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")※
       - 開会式、準々決勝、準決勝、決勝、閉会式のみ放送。
-  - [大相撲中継](https://ja.wikipedia.org/wiki/大相撲中継 "wikilink")本場所
+  - [大相撲中継](../Page/大相撲中継.md "wikilink")本場所
       - 13時台の三段目クラスの取組から完全中継していた。2011年初場所をもって放送終了\[2\]
       - [大相撲 幕内の全取組](https://ja.wikipedia.org/wiki/大相撲_幕内の全取組 "wikilink")
-  - [みんなの体操](https://ja.wikipedia.org/wiki/みんなの体操 "wikilink")
+  - [みんなの体操](../Page/みんなの体操.md "wikilink")
   - [NHKニュースおはよう日本](../Page/NHKニュースおはよう日本.md "wikilink")
   - [NHKニュース (正午)](https://ja.wikipedia.org/wiki/NHKニュース_\(正午\) "wikilink") - ただし、国会中継で午前の質疑の中継が延長される（正午にまたがる）場合は休止となる。
   - [NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")
-  - [国会中継](https://ja.wikipedia.org/wiki/国会中継 "wikilink")（随時）
-  - [日曜討論](https://ja.wikipedia.org/wiki/日曜討論 "wikilink")
+  - [国会中継](../Page/国会中継.md "wikilink")（随時）
+  - [日曜討論](../Page/日曜討論.md "wikilink")
   - 気象情報 - ただし、国会中継で午前の質疑の中継が延長される（正午にまたがる）場合は休止となる。
   - [クローズアップ現代](https://ja.wikipedia.org/wiki/クローズアップ現代 "wikilink")
   - [ためしてガッテン](../Page/ためしてガッテン.md "wikilink")
@@ -674,7 +674,7 @@
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")
   - [鶴瓶の家族に乾杯](../Page/鶴瓶の家族に乾杯.md "wikilink")
   - [東京カワイイ★TV](https://ja.wikipedia.org/wiki/東京カワイイ★TV "wikilink")
-  - [トップランナー](https://ja.wikipedia.org/wiki/トップランナー "wikilink")
+  - [トップランナー](../Page/トップランナー.md "wikilink")
   - [めざせ\!会社の星](https://ja.wikipedia.org/wiki/めざせ!会社の星 "wikilink")
   - [すイエんサー](https://ja.wikipedia.org/wiki/すイエんサー "wikilink")
   - [ブラタモリ](https://ja.wikipedia.org/wiki/ブラタモリ "wikilink")
@@ -701,15 +701,15 @@
 総合・教育テレビ、BS1・2で放送されるスポーツ中継も5.1サラウンドで放送。
 
   - [野球](../Page/野球.md "wikilink")（[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")、[選抜高校野球](https://ja.wikipedia.org/wiki/選抜高等学校野球大会 "wikilink")、[大リーグ](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")）
-  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")（[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")、[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")、[天皇杯](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）
-  - [大相撲中継](https://ja.wikipedia.org/wiki/大相撲中継 "wikilink")（2007年春場所限りで放送打ち切り　BS2に1本化）
+  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")（[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")、[天皇杯](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")）
+  - [大相撲中継](../Page/大相撲中継.md "wikilink")（2007年春場所限りで放送打ち切り　BS2に1本化）
   - [NBA](../Page/NBA.md "wikilink")
   - [NFL](../Page/NFL.md "wikilink")
-  - [中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")（ただし、GI競走の一部）
+  - [中央競馬](../Page/中央競馬.md "wikilink")（ただし、GI競走の一部）
   - [ラグビー](../Page/ラグビー.md "wikilink")（[日本選手権](../Page/日本ラグビーフットボール選手権大会.md "wikilink")、[大学選手権](https://ja.wikipedia.org/wiki/全国大学ラグビーフットボール選手権大会 "wikilink")）
-  - [ゴルフ](../Page/ゴルフ.md "wikilink")（[日本オープン](https://ja.wikipedia.org/wiki/日本オープンゴルフ選手権競技 "wikilink")、[日本女子オープン](https://ja.wikipedia.org/wiki/日本女子オープンゴルフ選手権競技 "wikilink")）
+  - [ゴルフ](../Page/ゴルフ.md "wikilink")（[日本オープン](../Page/日本オープンゴルフ選手権競技.md "wikilink")、[日本女子オープン](../Page/日本女子オープンゴルフ選手権競技.md "wikilink")）
   - [テニス](../Page/テニス.md "wikilink")（[ウィンブルドン選手権](../Page/ウィンブルドン選手権.md "wikilink")シングルス、[ジャパンオープン](../Page/ジャパン・オープン・テニス選手権.md "wikilink")） - ウィンブルドン選手権は、2008年から[WOWOW](../Page/WOWOW.md "wikilink")がBSでの放送権を獲得したため、NHKでは総合テレビのみ放送
-  - [陸上競技](../Page/陸上競技.md "wikilink")（[日本陸上競技選手権大会](https://ja.wikipedia.org/wiki/日本陸上競技選手権大会 "wikilink")、[びわ湖毎日マラソン](https://ja.wikipedia.org/wiki/びわ湖毎日マラソン "wikilink")、都道府県対抗駅伝-[男子](../Page/天皇盃全国都道府県対抗男子駅伝競走大会.md "wikilink")・[女子](../Page/皇后盃全国都道府県対抗女子駅伝競走大会.md "wikilink")）
+  - [陸上競技](../Page/陸上競技.md "wikilink")（[日本陸上競技選手権大会](../Page/日本陸上競技選手権大会.md "wikilink")、[びわ湖毎日マラソン](../Page/びわ湖毎日マラソン.md "wikilink")、都道府県対抗駅伝-[男子](../Page/天皇盃全国都道府県対抗男子駅伝競走大会.md "wikilink")・[女子](../Page/皇后盃全国都道府県対抗女子駅伝競走大会.md "wikilink")）
   - [フィギュアスケート](../Page/フィギュアスケート.md "wikilink")（[NHK杯](../Page/NHK杯国際フィギュアスケート競技大会.md "wikilink")）
   - [オリンピック](../Page/近代オリンピック.md "wikilink")（[夏季](../Page/夏季オリンピック.md "wikilink")、[冬季](../Page/冬季オリンピック.md "wikilink")。なお、BShiでの北京オリンピックは総合テレビ・BS1よりも総放送時間は少ない）など。
 
@@ -731,7 +731,7 @@
 
   - [ハイビジョンシネマ](https://ja.wikipedia.org/wiki/ハイビジョンシネマ "wikilink")（金曜、日曜）
   - [スーパーライブ](https://ja.wikipedia.org/wiki/スーパーライブ_\(NHK\) "wikilink")（不定期）
-      - 総合テレビ、BS2で放送される[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")も5.1サラウンドで放送
+      - 総合テレビ、BS2で放送される[音楽番組](../Page/音楽番組.md "wikilink")も5.1サラウンドで放送
   - [ハイビジョンウィークエンドシアター](https://ja.wikipedia.org/wiki/ハイビジョンウィークエンドシアター "wikilink")（土曜）
   - [ハイビジョンステージ](https://ja.wikipedia.org/wiki/ハイビジョンステージ "wikilink")
   - [プレミアムシアター](https://ja.wikipedia.org/wiki/プレミアムシアター "wikilink")（日曜）
@@ -742,7 +742,7 @@
 
 <!-- end list -->
 
-  - [双方向TV 地球☆ゴーラウンド](https://ja.wikipedia.org/wiki/双方向TV_地球ゴーラウンド "wikilink")
+  - [双方向TV 地球☆ゴーラウンド](../Page/双方向TV_地球ゴーラウンド.md "wikilink")
   - [双方向ライブ にっぽんのマジョリティー](../Page/双方向ライブ_にっぽんのマジョリティー.md "wikilink")
   - [双方向クイズ にっぽん力](../Page/双方向クイズ_にっぽん力.md "wikilink")（『にっぽん力検定』から番組名変更）
 
@@ -753,9 +753,9 @@
 <!-- end list -->
 
   - [デジタル・スタジアム](../Page/デジタル・スタジアム.md "wikilink")
-  - [アートエンターテインメント 迷宮美術館](https://ja.wikipedia.org/wiki/アートエンターテインメント_迷宮美術館 "wikilink")
-  - [名作平積み大作戦](https://ja.wikipedia.org/wiki/名作平積み大作戦 "wikilink")（2005年度からの新番組）
-  - [熱中時間 忙中"趣味"あり](https://ja.wikipedia.org/wiki/熱中時間_忙中"趣味"あり "wikilink")
+  - [アートエンターテインメント 迷宮美術館](../Page/アートエンターテインメント_迷宮美術館.md "wikilink")
+  - [名作平積み大作戦](../Page/名作平積み大作戦.md "wikilink")（2005年度からの新番組）
+  - [熱中時間 忙中"趣味"あり](../Page/熱中時間_忙中"趣味"あり.md "wikilink")
   - [ハイビジョン喫茶室](https://ja.wikipedia.org/wiki/ハイビジョン喫茶室 "wikilink")
   - [夢の続き・私の絵本](https://ja.wikipedia.org/wiki/夢の続き・私の絵本 "wikilink")
   - [夢の美術館](https://ja.wikipedia.org/wiki/夢の美術館 "wikilink")
@@ -786,7 +786,7 @@
   - [音のある風景](https://ja.wikipedia.org/wiki/音のある風景 "wikilink")（NHKワールドTVでも放送）
   - [さわやかウインドー](https://ja.wikipedia.org/wiki/さわやかウインドー "wikilink")
   - [列島縦断 鉄道12000キロの旅 〜最長片道切符でゆく42日〜](../Page/列島縦断_鉄道12000キロの旅_〜最長片道切符でゆく42日〜.md "wikilink")(2004年)
-  - [列島縦断 鉄道乗りつくしの旅〜JR20000km全線走破〜](https://ja.wikipedia.org/wiki/列島縦断_鉄道乗りつくしの旅〜JR20000km全線走破〜 "wikilink")（上記番組の続編。なお、ダイジェスト版は総合テレビなどで放送）
+  - [列島縦断 鉄道乗りつくしの旅〜JR20000km全線走破〜](../Page/列島縦断_鉄道乗りつくしの旅〜JR20000km全線走破〜.md "wikilink")（上記番組の続編。なお、ダイジェスト版は総合テレビなどで放送）
   - [ふるさとから、あなたへ](https://ja.wikipedia.org/wiki/ふるさとから、あなたへ "wikilink")（2008年度から放送。総合テレビで毎週金曜日に放映される[地域情報番組](https://ja.wikipedia.org/wiki/地域情報番組 "wikilink")を中心に再構成）
   - [猫のしっぽ カエルの手 京都 大原 ベニシアの手づくり暮らし](https://ja.wikipedia.org/wiki/猫のしっぽ_カエルの手_京都_大原_ベニシアの手づくり暮らし "wikilink")
 
@@ -796,15 +796,15 @@
 
 <!-- end list -->
 
-  - [SAMURAI 7](https://ja.wikipedia.org/wiki/SAMURAI_7 "wikilink")
-  - [十二国記](https://ja.wikipedia.org/wiki/十二国記 "wikilink")
+  - [SAMURAI 7](../Page/SAMURAI_7.md "wikilink")
+  - [十二国記](../Page/十二国記.md "wikilink")
   - [だぁ\!だぁ\!だぁ\!](../Page/だぁ!だぁ!だぁ!.md "wikilink")
   - [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")
   - [カスミン](../Page/カスミン.md "wikilink")
   - [コレクター・ユイ](../Page/コレクター・ユイ.md "wikilink")
   - [プラネテス](../Page/プラネテス.md "wikilink")
-  - [ななみちゃん](https://ja.wikipedia.org/wiki/ななみちゃん "wikilink")
-  - [NHKアニメ劇場](https://ja.wikipedia.org/wiki/NHKアニメ劇場 "wikilink")([火の鳥](../Page/火の鳥_\(漫画\).md "wikilink")、[アガサ・クリスティーの名探偵ポワロとマープル](../Page/アガサ・クリスティーの名探偵ポワロとマープル.md "wikilink")、[雪の女王](../Page/雪の女王_\(NHKアニメ\).md "wikilink"))
+  - [ななみちゃん](../Page/ななみちゃん.md "wikilink")
+  - [NHKアニメ劇場](../Page/NHKアニメ劇場.md "wikilink")([火の鳥](../Page/火の鳥_\(漫画\).md "wikilink")、[アガサ・クリスティーの名探偵ポワロとマープル](../Page/アガサ・クリスティーの名探偵ポワロとマープル.md "wikilink")、[雪の女王](../Page/雪の女王_\(NHKアニメ\).md "wikilink"))
 
 <!-- end list -->
 

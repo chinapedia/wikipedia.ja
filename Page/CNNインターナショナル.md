@@ -10,9 +10,9 @@
 開局当初はヨーロッパのみの配信だったので**CNNヨーロッパ**（CNN Europe）として放送されていたが、放送エリアを拡大するのに伴い**CNNインターナショナル**（以下、CNN/Int'lと表記）に変更された。
 
 主な構成は[アトランタ](../Page/アトランタ.md "wikilink")を中心とし、その他[ロンドン](../Page/ロンドン.md "wikilink")・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")のいずれかのCNN/Int'lのスタジオから、正時より30分間〜60分間の定時ニュース"CNNニュースルーム (CNN News Room)"を放送するのを基本に、"ワールド・ビジネス・トゥデイ"、"ワールドスポーツ" などを放送。週末は科学技術や芸能・政治やスポーツ、ニュースドキュメンタリー、旅番組と多彩な内容。
-開局当初は経費抑制や空き時間が多いなどの理由でアメリカ国内向けの「[ラリー・キング・ライブ](../Page/ラリー・キング・ライブ.md "wikilink")」「[クロスファイア](https://ja.wikipedia.org/wiki/クロスファイア "wikilink")」「[ボス・サイズ](https://ja.wikipedia.org/wiki/ボス・サイズ "wikilink")」「[ヘッドラインニュース](../Page/HLN.md "wikilink")」なども放送していた。
+開局当初は経費抑制や空き時間が多いなどの理由でアメリカ国内向けの「[ラリー・キング・ライブ](../Page/ラリー・キング・ライブ.md "wikilink")」「[クロスファイア](../Page/クロスファイア.md "wikilink")」「[ボス・サイズ](https://ja.wikipedia.org/wiki/ボス・サイズ "wikilink")」「[ヘッドラインニュース](../Page/HLN.md "wikilink")」なども放送していた。
 
-放送地域を「ヨーロッパ・[アフリカ](../Page/アフリカ.md "wikilink")・[中東](../Page/中東.md "wikilink")」「[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")・[太平洋](../Page/オセアニア.md "wikilink")」「[南アジア](../Page/南アジア.md "wikilink")」「[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")」「[南米](https://ja.wikipedia.org/wiki/南米 "wikilink")」の各地域に分け、かつては地域ごとに特色のある編成を行っていたが次第に差異が無くなって行き、現在では[広告](../Page/広告.md "wikilink")が異なる程度である。\[1\]
+放送地域を「ヨーロッパ・[アフリカ](../Page/アフリカ.md "wikilink")・[中東](../Page/中東.md "wikilink")」「[アジア](../Page/アジア.md "wikilink")・[太平洋](../Page/オセアニア.md "wikilink")」「[南アジア](../Page/南アジア.md "wikilink")」「[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")」「[南米](https://ja.wikipedia.org/wiki/南米 "wikilink")」の各地域に分け、かつては地域ごとに特色のある編成を行っていたが次第に差異が無くなって行き、現在では[広告](../Page/広告.md "wikilink")が異なる程度である。\[1\]
 
 日本でも[1984年](../Page/1984年.md "wikilink")4月以来[日本ケーブルテレビジョン](../Page/日本ケーブルテレビジョン.md "wikilink")（JCTV）によって衛星放送・ケーブルテレビ局向けに配信されていた\[2\]が、[2003年](../Page/2003年.md "wikilink")に[CNNj](../Page/CNNj.md "wikilink")に置き換わったため配信終了\[3\]となった。
 
@@ -76,7 +76,7 @@
 
 ## その他
 
-  - 1990年代中盤まではアナログ方式による通信衛星での配信だったためか、受信レベル低下による[スノーノイズ](https://ja.wikipedia.org/wiki/スノーノイズ "wikilink")が入る事が度々あった。日本においてはその場合、JCTVにより「米国での天候不良により画質が乱れている」といった旨の断りのテロップが表示された。
+  - 1990年代中盤まではアナログ方式による通信衛星での配信だったためか、受信レベル低下による[スノーノイズ](../Page/スノーノイズ.md "wikilink")が入る事が度々あった。日本においてはその場合、JCTVにより「米国での天候不良により画質が乱れている」といった旨の断りのテロップが表示された。
 
 ## 脚注
 

@@ -89,7 +89,7 @@
   - 2003年4月 - 2007年9月：[道傳愛子](../Page/道傳愛子.md "wikilink")（当時・NHKアナウンサー。解説委員就任のため番組降板）
   - 2007年10月 - 2010年3月：[長尾香里](../Page/長尾香里.md "wikilink")（NHK国際部記者）
   - 2010年4月 - 2012年3月：[二村伸](https://ja.wikipedia.org/wiki/二村伸 "wikilink")（NHK解説委員）、[小林千恵](../Page/小林千恵.md "wikilink")（NHKアナウンサー）
-  - 2012年4月 - 2012年12月：二村伸、[島津有理子](https://ja.wikipedia.org/wiki/島津有理子 "wikilink")（NHKアナウンサー）
+  - 2012年4月 - 2012年12月：二村伸、[島津有理子](../Page/島津有理子.md "wikilink")（NHKアナウンサー）
   - 2013年1月12日 - 2013年3月：二村伸、[森山春香](../Page/森山春香.md "wikilink")（NHKアナウンサー。島津有理子の産休に伴い代役に起用）
   - 2013年4月 - 2015年3月：[傍田賢治](https://ja.wikipedia.org/wiki/傍田賢治 "wikilink")（NHK国際部記者）、[桑原りさ](https://ja.wikipedia.org/wiki/桑原りさ "wikilink")（フリーアナウンサー）
 

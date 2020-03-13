@@ -21,11 +21,11 @@
 
 <!-- end list -->
 
-  - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")担当。[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")出身。[文化学院](https://ja.wikipedia.org/wiki/文化学院 "wikilink")専門課程美術科出身\[5\]。O型。身長171cm。
+  - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")担当。[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")出身。[文化学院](../Page/文化学院.md "wikilink")専門課程美術科出身\[5\]。O型。身長171cm。
   - ほぼ全ての楽曲の作詞作曲を行っている。レコーディングでは楽曲に応じて[ピアノ](../Page/ピアノ.md "wikilink")や[キーボードもプレイする](../Page/キーボード_\(楽器\).md "wikilink")。無類のビンテージギター好きであり、一時はかなりの数のオールドギターを所有していたが、現在は「本当に必要なギターだけを手元に」「ギターは使ってあげてこそ」との思いから、その多くを手放したという。公式サイトでは現愛機のほとんどを本人の解説付きで公開している。
   - [エド・シーラン](https://ja.wikipedia.org/wiki/エド・シーラン "wikilink")等の活躍から影響を受け、2018年頃より[ルーパーを使った一人即興に興味を持ち自身だけの一人ライブを行ってもいる](https://ja.wikipedia.org/wiki/エフェクター#その他 "wikilink")。
   - 趣味は映画鑑賞、古いオーディオ、車の改造、洋服、インターネット・オークション等。
-  - 父は[イラストレーター](../Page/イラストレーター.md "wikilink")・[エッセイスト](https://ja.wikipedia.org/wiki/エッセイスト "wikilink")・[映画監督](../Page/映画監督.md "wikilink")の[和田誠](../Page/和田誠.md "wikilink")、母は[料理](../Page/料理.md "wikilink")[愛好家](https://ja.wikipedia.org/wiki/愛好家 "wikilink")の[平野レミ](../Page/平野レミ.md "wikilink")、妻は[女優の](../Page/俳優.md "wikilink")[上野樹里](https://ja.wikipedia.org/wiki/上野樹里 "wikilink")。義姉は[DJの](../Page/ディスクジョッキー.md "wikilink")[DJ SAORI](https://ja.wikipedia.org/wiki/DJ_SAORI "wikilink")（長姉）、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[上野まな](https://ja.wikipedia.org/wiki/上野まな "wikilink")（次姉）。弟の妻は[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")で[食育](https://ja.wikipedia.org/wiki/食育 "wikilink")[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")の[和田明日香](https://ja.wikipedia.org/wiki/和田明日香 "wikilink")。父方の祖父は[音響演出家の](https://ja.wikipedia.org/wiki/音響監督 "wikilink")[和田精](../Page/和田精.md "wikilink")、母方の祖父は[フランス文学者](https://ja.wikipedia.org/wiki/フランス文学者 "wikilink")の[平野威馬雄](../Page/平野威馬雄.md "wikilink")、母方の曾祖父は[日本美術史](https://ja.wikipedia.org/wiki/日本美術史 "wikilink")家・[法律家](https://ja.wikipedia.org/wiki/法律家 "wikilink")の[ヘンリイ・パイク・ブイ](https://ja.wikipedia.org/wiki/ヘンリイ・パイク・ブイ "wikilink")。
+  - 父は[イラストレーター](../Page/イラストレーター.md "wikilink")・[エッセイスト](https://ja.wikipedia.org/wiki/エッセイスト "wikilink")・[映画監督](../Page/映画監督.md "wikilink")の[和田誠](../Page/和田誠.md "wikilink")、母は[料理](../Page/料理.md "wikilink")[愛好家](https://ja.wikipedia.org/wiki/愛好家 "wikilink")の[平野レミ](../Page/平野レミ.md "wikilink")、妻は[女優の](../Page/俳優.md "wikilink")[上野樹里](https://ja.wikipedia.org/wiki/上野樹里 "wikilink")。義姉は[DJの](../Page/ディスクジョッキー.md "wikilink")[DJ SAORI](https://ja.wikipedia.org/wiki/DJ_SAORI "wikilink")（長姉）、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[上野まな](https://ja.wikipedia.org/wiki/上野まな "wikilink")（次姉）。弟の妻は[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")で[食育](https://ja.wikipedia.org/wiki/食育 "wikilink")[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")の[和田明日香](https://ja.wikipedia.org/wiki/和田明日香 "wikilink")。父方の祖父は[音響演出家の](../Page/音響監督.md "wikilink")[和田精](../Page/和田精.md "wikilink")、母方の祖父は[フランス文学者](https://ja.wikipedia.org/wiki/フランス文学者 "wikilink")の[平野威馬雄](../Page/平野威馬雄.md "wikilink")、母方の曾祖父は[日本美術史](../Page/日本美術史.md "wikilink")家・[法律家](https://ja.wikipedia.org/wiki/法律家 "wikilink")の[ヘンリイ・パイク・ブイ](https://ja.wikipedia.org/wiki/ヘンリイ・パイク・ブイ "wikilink")。
 
 <!-- end list -->
 
@@ -33,11 +33,11 @@
 
 <!-- end list -->
 
-  - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。東京都[江戸川区](../Page/江戸川区.md "wikilink")出身。A型。身長183cm。
-  - [ベースに触れるキッカケは中学](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")3年生の時に組んでいたバンド。当初は[キーボードを担当していたが](../Page/キーボード_\(楽器\).md "wikilink")、メンバーの都合もあって[ベースを弾く事が多くなっていった](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")\[6\]。家ではギターを弾いていることが多いという\[7\]。「Listen」、「Driver」など、一部楽曲で作詞作曲とボーカルを務めている。
+  - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。東京都[江戸川区](../Page/江戸川区.md "wikilink")出身。A型。身長183cm。
+  - [ベースに触れるキッカケは中学](../Page/ベース_\(弦楽器\).md "wikilink")3年生の時に組んでいたバンド。当初は[キーボードを担当していたが](../Page/キーボード_\(楽器\).md "wikilink")、メンバーの都合もあって[ベースを弾く事が多くなっていった](../Page/ベース_\(弦楽器\).md "wikilink")\[6\]。家ではギターを弾いていることが多いという\[7\]。「Listen」、「Driver」など、一部楽曲で作詞作曲とボーカルを務めている。
   - 深沼元昭のソロプロジェクトである[Mellowhead](https://ja.wikipedia.org/wiki/Mellowhead "wikilink")や、彼が在籍している[PLAGUES](../Page/PLAGUES.md "wikilink")のサポートメンバーも務めている。
   - 昔は完全に夜型人間だったが、今は規則正しい生活に。(月に100kmランニングするまでに)
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")のファンクラブ会報にて、結婚を報告した。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")のファンクラブ会報にて、結婚を報告した。
 
 <!-- end list -->
 
@@ -46,23 +46,23 @@
 <!-- end list -->
 
   - [ドラムス](../Page/ドラムセット.md "wikilink")・コーラス担当。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。A型。身長171cm。
-  - 小学校3年生の時に母親の使っていた[編み物](https://ja.wikipedia.org/wiki/編み物 "wikilink")の棒（編み針）を持って叩くようになったのが、ドラムを始めるキッカケとなった\[8\]。中学3年生の時に初めてドラムセットの前に座ったときにはすでに8ビートや16ビートが叩けるようになっていたという\[9\]。
-  - TRICERATOPS結成前は「バーニッシュストーン・レコーディングスタジオ」のスタジオミュージシャンであった。当時[CHAGE and ASKAのプロデューサーであった](../Page/CHAGE_and_ASKA.md "wikilink")[山里剛](https://ja.wikipedia.org/wiki/山里剛 "wikilink")のアシスタントに付き、CHAGE and ASKAのアルバムなどの製作に参加したことがある。現在もバンド活動と並行して[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")、[阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")、[高橋優](https://ja.wikipedia.org/wiki/高橋優 "wikilink")など、他のミュージシャンのライブでサポートメンバーを務めている。
+  - 小学校3年生の時に母親の使っていた[編み物](../Page/編み物.md "wikilink")の棒（編み針）を持って叩くようになったのが、ドラムを始めるキッカケとなった\[8\]。中学3年生の時に初めてドラムセットの前に座ったときにはすでに8ビートや16ビートが叩けるようになっていたという\[9\]。
+  - TRICERATOPS結成前は「バーニッシュストーン・レコーディングスタジオ」のスタジオミュージシャンであった。当時[CHAGE and ASKAのプロデューサーであった](../Page/CHAGE_and_ASKA.md "wikilink")[山里剛](https://ja.wikipedia.org/wiki/山里剛 "wikilink")のアシスタントに付き、CHAGE and ASKAのアルバムなどの製作に参加したことがある。現在もバンド活動と並行して[吉井和哉](../Page/吉井和哉.md "wikilink")、[阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")、[高橋優](https://ja.wikipedia.org/wiki/高橋優 "wikilink")など、他のミュージシャンのライブでサポートメンバーを務めている。
   - スタジオミュージシャン時代、音楽の道を諦め、実家に帰り、ペンキ屋の道に進もうと考えていた矢先、知人の紹介で和田と林に出会い、TRICERATOPSに加入した。
-  - 既婚、二児の父。趣味に[ゲーム](../Page/ゲーム.md "wikilink")を挙げ、[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")のインタビューで[鬼武者](https://ja.wikipedia.org/wiki/鬼武者 "wikilink")を10時間でクリアしたエピソードや、楽曲製作期間中に[ドラクエVIIをプレイしていた事を明かしている](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")\[10\]。建築塗装技士2級を持つ。かつては愛煙家であったが、現在は完全に禁煙している。
+  - 既婚、二児の父。趣味に[ゲーム](../Page/ゲーム.md "wikilink")を挙げ、[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")のインタビューで[鬼武者](../Page/鬼武者.md "wikilink")を10時間でクリアしたエピソードや、楽曲製作期間中に[ドラクエVIIをプレイしていた事を明かしている](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")\[10\]。建築塗装技士2級を持つ。かつては愛煙家であったが、現在は完全に禁煙している。
 
 ## 音楽性
 
   - デビュー当初から「[ロックで踊る](../Page/ロック_\(音楽\).md "wikilink")」ということをテーマとして掲げており\[11\]、メンバーもブログやインタビューで度々その点に触れていることがある\[12\]\[13\]\[14\]。
-  - また、ブラックミュージックに多く見られる[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")を多用しており、4つ打ち（バスドラムが4/4拍子の拍毎にアタックされるリズム）のディスコ的リズムを用いた楽曲が多いのも特徴。代表曲「Raspberry」「FEVER」「GROOVE WALK」「ROCK MUSIC」などでもそのリズムが用いられている。和田も、過去にライブのMCで「日本のロックには、"リフ"が圧倒的に少ない。俺たちはデビュー以来、そこにはずっとこだわり続けてる」という旨の発言をしていたことがある\[15\]。
+  - また、ブラックミュージックに多く見られる[リフ](../Page/リフ.md "wikilink")を多用しており、4つ打ち（バスドラムが4/4拍子の拍毎にアタックされるリズム）のディスコ的リズムを用いた楽曲が多いのも特徴。代表曲「Raspberry」「FEVER」「GROOVE WALK」「ROCK MUSIC」などでもそのリズムが用いられている。和田も、過去にライブのMCで「日本のロックには、"リフ"が圧倒的に少ない。俺たちはデビュー以来、そこにはずっとこだわり続けてる」という旨の発言をしていたことがある\[15\]。
     『[MADE IN LOVE](https://ja.wikipedia.org/wiki/MADE_IN_LOVE "wikilink")』ではデジタルサウンドも導入している\[16\]。
   - 数曲の例外を除いて、バンドの全曲にコーラス（ハーモニー）が入っていることも特徴である\[17\]。和田もTRICERATOPSについて「世の中の3ピースバンドの中で恐らく一番ハーモニーを多用するバンド」だと述べ、「楽器の音数が少ないので余計（ハーモニーは）大事だと俺は考えてる」とも発言している\[18\]。
   - ソングライターある和田唱本人は「ロックバンド」と括った場合、圧倒的に[ブリティッシュ・ロック](https://ja.wikipedia.org/wiki/ブリティッシュ・ロック "wikilink")派であり、イギリスのロック・グループにフェイバリットを数多く挙げている。「アメリカのバンドは殆どがお洒落じゃない。(本人談)」 しかしこと「音楽」という括りで言えば大のアメリカ音楽ファンである。その趣味指向は40〜50年代の[ジャズ](../Page/ジャズ.md "wikilink")から[モータウン](../Page/モータウン.md "wikilink")等の[R\&Bに代表される黒人音楽を筆頭に](../Page/リズム・アンド・ブルース.md "wikilink")、白人が作った[ミュージカル](../Page/ミュージカル.md "wikilink")音楽や[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")まで幅広い。
-  - 和田はアメリカのロックバンドでもお気に入りはいる。[ザ・ビーチ・ボーイズ](../Page/ザ・ビーチ・ボーイズ.md "wikilink")、[キッス](https://ja.wikipedia.org/wiki/キッス "wikilink")（2000年の来日時には[ポール・スタンレー](../Page/ポール・スタンレー.md "wikilink")のメイク&フル・コスチュームで東京ドームに行くほどの熱の入れようだった）近年は[ザ・ストロークス](../Page/ザ・ストロークス.md "wikilink")のファンである。
+  - 和田はアメリカのロックバンドでもお気に入りはいる。[ザ・ビーチ・ボーイズ](../Page/ザ・ビーチ・ボーイズ.md "wikilink")、[キッス](../Page/キッス.md "wikilink")（2000年の来日時には[ポール・スタンレー](../Page/ポール・スタンレー.md "wikilink")のメイク&フル・コスチュームで東京ドームに行くほどの熱の入れようだった）近年は[ザ・ストロークス](../Page/ザ・ストロークス.md "wikilink")のファンである。
 
 ## その他
 
-  - [GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE "wikilink")とはデビューが同期であり、和田は「ずーっと共にこの音楽の道を歩んで来た、戦友的存在」だと発言している\[19\]。GRAPEVINEも同時期にデビューしたバンドの中でTRICERATOPSと仲が良いとインタビュー内で述べているなど親交がある\[20\]。デビューから11年目の2008年10月13日に[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")で初の2マンライブを行い、2012年に行われたTRICERATOPSの15周年ツアー、2014年の「DINOSAUR ROCK’N ROLL 6」でも2バンドによる対バンが実現した。2016年には対バンツアーが行われる。
+  - [GRAPEVINE](../Page/GRAPEVINE.md "wikilink")とはデビューが同期であり、和田は「ずーっと共にこの音楽の道を歩んで来た、戦友的存在」だと発言している\[19\]。GRAPEVINEも同時期にデビューしたバンドの中でTRICERATOPSと仲が良いとインタビュー内で述べているなど親交がある\[20\]。デビューから11年目の2008年10月13日に[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")で初の2マンライブを行い、2012年に行われたTRICERATOPSの15周年ツアー、2014年の「DINOSAUR ROCK’N ROLL 6」でも2バンドによる対バンが実現した。2016年には対バンツアーが行われる。
     [NONA REEVESともデビュー時期が近く](https://ja.wikipedia.org/wiki/NONA_REEVES "wikilink")、知り合ってからの時期も長いことから親交があったものの、2012年にTRICERATOPSの15周年ライヴで対バンを行うまで、両バンドの2マンライブは実現していなかったという\[21\]。
   - [2000年](../Page/2000年.md "wikilink")からバンド主催のイベント「DINOSAUR ROCK'N ROLL」を不定期に開催しており、複数のアーティストとの対バンを行っている。イベントはこれまで6回（2000年、[2006年](../Page/2006年.md "wikilink")、[2007年](../Page/2007年.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[2011年](../Page/2011年.md "wikilink")、[2014年](../Page/2014年.md "wikilink")）行われている。
   - 多くの有名アーティストと共演してきた事でも知られる。和田は、デビュー時のシャイな自分達からは考えられないと発言しているが、その幅は新人から超大物まで、バラエティに富んでいる。
@@ -149,7 +149,7 @@
 </tr>
 <tr class="odd">
 <td><p>9th</p></td>
-<td><p>1999年<a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p>1999年<a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/if_(TRICERATOPSの曲)" title="wikilink">if</a></strong></p></td>
 <td><p>ESCB-2023</p></td>
 <td></td>
@@ -237,7 +237,7 @@
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/1月26日" title="wikilink">1月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_CAPTAIN" title="wikilink">THE CAPTAIN</a></strong></p></td>
 <td><p>VICL-35764</p></td>
 <td></td>
@@ -412,7 +412,7 @@ MHCL-30402（復刻盤）[30]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月2日.md" title="wikilink">3月2日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月2日.md" title="wikilink">3月2日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/THE_7TH_VOYAGE_OF_TRICERATOPS" title="wikilink">THE 7TH VOYAGE OF TRICERATOPS</a></strong></p></td>
 <td><p>VICL-61574</p></td>
 <td></td>
@@ -438,7 +438,7 @@ NFCD-27126（通常盤）</p></td>
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/WE_ARE_ONE" title="wikilink">WE ARE ONE</a></strong></p></td>
 <td><p>NFCD-27124（初回限定BOX）<br />
 NFCD-27125（初回盤）<br />
@@ -474,7 +474,7 @@ NFCD-27126（通常盤）</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/1月22日.md" title="wikilink">1月22日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/TRICERATOPS_GREATEST_1997-2001" title="wikilink">TRICERATOPS GREATEST 1997-2001</a></strong></p></td>
 <td><p>ESCL-2376</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベスト・アルバム" title="wikilink">ベスト・アルバム</a></p></td>
+<td><p><a href="../Page/ベスト・アルバム.md" title="wikilink">ベスト・アルバム</a></p></td>
 <td><p>29位</p></td>
 </tr>
 <tr class="even">
@@ -731,7 +731,7 @@ VIBL-534</p></td>
 <li>世界でいちばん好きな人(with KAN)</li>
 <li>シラフの月(with <a href="https://ja.wikipedia.org/wiki/山崎まさよし" title="wikilink">山崎まさよし</a>)</li>
 <li>セロリ(with 山崎まさよし)</li>
-<li>I GO WILD(with <a href="https://ja.wikipedia.org/wiki/吉井和哉" title="wikilink">吉井和哉</a>)</li>
+<li>I GO WILD(with <a href="../Page/吉井和哉.md" title="wikilink">吉井和哉</a>)</li>
 <li>球根(with 吉井和哉)</li>
 <li>瞳はダイアモンド</li>
 <li>イケナイコトカイ</li>
@@ -760,7 +760,7 @@ VIBL-534</p></td>
 
 ### 参加・楽曲提供作品
 
-  - [野宮真貴](https://ja.wikipedia.org/wiki/野宮真貴 "wikilink")「Lady Miss Warp」(2002年11月7日)
+  - [野宮真貴](../Page/野宮真貴.md "wikilink")「Lady Miss Warp」(2002年11月7日)
       - 10.YOU ARE MY STAR（和田唱 作詞作曲・コーラス・TRICERATOPSによる演奏）
   - [YOSUI TRIBUTE](../Page/YOSUI_TRIBUTE.md "wikilink")（2004年11月10日）
       - 1.夢の中へ
@@ -791,7 +791,7 @@ VIBL-534</p></td>
       - 1.ピンヒールサーファー （和田唱 作詞作曲・編曲）
   - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")「A NUDE」（2013年9月11日）
       - 7.原始的じゃナイト 〜アナログ ラブ〜 （和田唱 作詞）
-  - [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink") 「[SNOW DOMEの約束/Luv Sick](https://ja.wikipedia.org/wiki/SNOW_DOMEの約束/Luv_Sick "wikilink")」 (2013年11月13日)
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") 「[SNOW DOMEの約束/Luv Sick](https://ja.wikipedia.org/wiki/SNOW_DOMEの約束/Luv_Sick "wikilink")」 (2013年11月13日)
       - 1.SNOW DOMEの約束（和田唱 作詞）
   - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink") 「[Yes we are/ココカラ](https://ja.wikipedia.org/wiki/Yes_we_are/ココカラ "wikilink")」 (2014年4月9日)
       - 2.ココカラ（和田唱 作詞作曲）※初回限定盤BにおいてはM-1.
@@ -808,7 +808,7 @@ VIBL-534</p></td>
   - Dream Power ジョン・レノン スーパー・ライヴ 2004
   - [寺岡呼人](../Page/寺岡呼人.md "wikilink")主催 The Golden Circle（和田唱のみ）
       -
-        寺岡と[奥田民生](../Page/奥田民生.md "wikilink")による**寺田**復活ライヴにて、[フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink")志村、[桜井和寿](../Page/桜井和寿.md "wikilink")とともにスポットゲスト出演。
+        寺岡と[奥田民生](../Page/奥田民生.md "wikilink")による**寺田**復活ライヴにて、[フジファブリック](../Page/フジファブリック.md "wikilink")志村、[桜井和寿](../Page/桜井和寿.md "wikilink")とともにスポットゲスト出演。
         最後の五人セッションでは[大阪で生まれた男](https://ja.wikipedia.org/wiki/大阪で生まれた男 "wikilink")の替え歌を披露し、渋谷区で生まれた男パートを弾き語る。
 
 ### ワンマンライブ・主催イベント
@@ -831,7 +831,7 @@ VIBL-534</p></td>
   - 2008年07月08日〜07月20日 - TRICERATOPS SUMMER TOUR '08 MADE IN LOVE
   - 2008年09月25日 - TRICERATOPS presents DINOSAUR ROCK'N ROLL "Dance Night"
       -
-        w/[RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink")
+        w/[RAM RIDER](../Page/RAM_RIDER.md "wikilink")
   - 2008年11月01日〜12月13日 - TRICERATOPS DANCE TO THE SPACE GROOVE TOUR
   - 2009年08月17日〜08月29日 - TRICERATOPS WILD SUMMER TOUR 2009
   - 2009年08月31日 - TRICERATOPS RIDE TO WARP TOUR 2009
@@ -847,17 +847,17 @@ VIBL-534</p></td>
   - 2011年11月03日〜11月19日 - TRICERATOPS WINTER 2011
   - 2012年04月12日 - 連載・おとといミーティング TRICERATOPS "12-Bar" vol.8 大阪
       -
-        w/[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")
+        w/[吉井和哉](../Page/吉井和哉.md "wikilink")
   - 2012年06月02日〜07月21日 - TRICERATOPS 15TH ANNIVERSARY TOUR
       -
-        w/[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")/[GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE "wikilink")/[SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")/[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")
+        w/[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")/[GRAPEVINE](../Page/GRAPEVINE.md "wikilink")/[SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")/[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")
   - 2012年10月24日 - 連載・おとといミーティングTRICERATOPS"12-Bar" vol.12
       -
         w/[仲井戸"CHABO"麗市](https://ja.wikipedia.org/wiki/仲井戸"CHABO"麗市 "wikilink")
   - 2012年12月30日 - TRICERATOPS 15TH ANNIVERSARY TOUR アンコールライブ
   - 2013年01月26日 - TRICERATOPS 12-Bar"13"
   - 2013年06月21日〜07月30日 - TRICERATOPS 2013 SUMMER TOUR
-  - 2013年08月25日・09月21日 - [宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")\&TRICERATOPS TOUR2013 フーテンのミヤトラ
+  - 2013年08月25日・09月21日 - [宮沢和史](../Page/宮沢和史.md "wikilink")\&TRICERATOPS TOUR2013 フーテンのミヤトラ
   - 2013年11月01日〜12月01日 - WINTER TOUR 2013
   - 2014年04月11日〜04月12日 - TRICERATOPS presents DINOSAUR ROCK'N ROLL 6
       -
@@ -906,7 +906,7 @@ VIBL-534</p></td>
   - 2007年12月29日 - COUNTDOWN JAPAN 07/08
   - 2007年12月31日 - COUNTDOWN JAPAN 07/08 -WEST-
   - 2008年05月03日 - GOING KOBE 08
-  - 2008年05月24日 - [メレンゲ](https://ja.wikipedia.org/wiki/メレンゲ_\(バンド\) "wikilink") 赤イ彗星V
+  - 2008年05月24日 - [メレンゲ](../Page/メレンゲ_\(バンド\).md "wikilink") 赤イ彗星V
   - 2008年05月28日 - ラッキーラクーンナイト2
   - 2008年08月01日 - ROCK IN JAPAN FESTIVAL 2008
   - 2008年12月29日 - COUNTDOWN JAPAN 08/09
@@ -955,7 +955,7 @@ VIBL-534</p></td>
   - 2013年10月28日 - QUATTRO MIRAGE 2013年 〜TOUR MIRAGE VOL.1〜
   - 2013年12月31日 - COUNTDOWN JAPAN 13/14
   - 2014年02月17日 - THE SOLAR BUDOKAN 2014 IN SHIBUYA Vo.1 〜[シアターブルック](https://ja.wikipedia.org/wiki/シアターブルック "wikilink")×TRICERATOPS〜
-  - 2014年02月26日 - 『[音速ライン](https://ja.wikipedia.org/wiki/音速ライン "wikilink")』×『LOFT』新宿5DAYS
+  - 2014年02月26日 - 『[音速ライン](../Page/音速ライン.md "wikilink")』×『LOFT』新宿5DAYS
   - 2014年04月26日 - ARABAKI ROCK FEST.14
   - 2014年06月08日 - [百万石音楽祭〜ミリオンロックフェスティバル〜 2014](https://ja.wikipedia.org/wiki/百万石音楽祭〜ミリオンロックフェスティバル〜 "wikilink")
   - 2014年08月03日 - ROCK IN JAPAN FESTIVAL 2014
@@ -994,14 +994,14 @@ VIBL-534</p></td>
 
 ## 関連項目
 
-  - [Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp "wikilink") - 同会場の開業日にライブ（“THE GREAT SKLETONS MUSIC GUIDE BOOK”ツアーファイナル）を開催しており、同ライブがZepp Tokyoの[こけら落し](../Page/こけら落し.md "wikilink")となった。
-  - [渡辺プロダクション](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink")
+  - [Zepp Tokyo](../Page/Zepp.md "wikilink") - 同会場の開業日にライブ（“THE GREAT SKLETONS MUSIC GUIDE BOOK”ツアーファイナル）を開催しており、同ライブがZepp Tokyoの[こけら落し](../Page/こけら落し.md "wikilink")となった。
+  - [渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")
       - [ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")
       - 渡辺音楽出版
-      - [渡辺ミキ](https://ja.wikipedia.org/wiki/渡辺ミキ "wikilink") - デビュー当時所属していた[渡辺プロダクション](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink")系列の芸能事務所*マニアマニア*の代表取締役。現在は[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")の代表取締役。
-      - マニアマニア - デビュー当時所属していた事務所。[KIX-S](https://ja.wikipedia.org/wiki/KIX-S "wikilink")や[鈴里真帆](../Page/鈴里真帆.md "wikilink")らが所属。2005年に「ワタナベエンターテイメントカレッジ」の運営会社に業務変更。
+      - [渡辺ミキ](../Page/渡辺ミキ.md "wikilink") - デビュー当時所属していた[渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")系列の芸能事務所*マニアマニア*の代表取締役。現在は[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")の代表取締役。
+      - マニアマニア - デビュー当時所属していた事務所。[KIX-S](../Page/KIX-S.md "wikilink")や[鈴里真帆](../Page/鈴里真帆.md "wikilink")らが所属。2005年に「ワタナベエンターテイメントカレッジ」の運営会社に業務変更。
           - TRINITY ARTIST - 現在の所属事務所。*マニアマニア*が芸能養成スクールの運営会社になったので、系列のマネジメント会社として新たに設立された。
-  - [木崎賢治](https://ja.wikipedia.org/wiki/木崎賢治 "wikilink") - 音楽プロデューサー。元渡辺音楽出版の社員で[沢田研二](../Page/沢田研二.md "wikilink")や[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")・[槇原敬之](../Page/槇原敬之.md "wikilink")・[BUMP OF CHICKENらを多数手がける](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")。
+  - [木崎賢治](https://ja.wikipedia.org/wiki/木崎賢治 "wikilink") - 音楽プロデューサー。元渡辺音楽出版の社員で[沢田研二](../Page/沢田研二.md "wikilink")や[吉川晃司](../Page/吉川晃司.md "wikilink")・[槇原敬之](../Page/槇原敬之.md "wikilink")・[BUMP OF CHICKENらを多数手がける](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")。
       - [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") - デビュー前のTRICERATOPSと対バンで共演した際に、木崎に見初められスカウトされた。
 
 ## 脚注

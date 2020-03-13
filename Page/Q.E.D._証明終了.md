@@ -32,8 +32,8 @@
     完璧主義者であり、「（論理的な）理不尽」を見過ごすことは決してなく、厳しく指摘を入れていく。基本的に人間の感情の機微には疎く、加えて善意でしたことが周囲から曲解され悪意になって自分に跳ね返ってきたために、人との付き合い方に難点を持ち、それがコンプレックスとなっている一面を持つ。高校へ編入してからもその経歴や性格から変人扱いされることもあった。反面、人の思考・心理を「論理的」に追求することには長けている。
     普段は何事にも冷静で理性的な性格。基本的に様々な事件や物事には無関心な態度を取るが、自身の意思に関わらず幾度も事件に関わっていき、揉め事が起きたときはそれを解決するトラブルシューター的な役割を担っている。また自身が事件の当事者である場合は時に一人で抱えこんで行動をすることもある。他人への感情はドライに見えるが、可奈の父親の幸太郎からお年玉をもらったりした際には、困惑したような表情を浮かべたのちに恩返しのような形で事件解決に協力するなど、本質的には人嫌いではない様子である。
     ソフトウェア関連会社へ[クラッキングできる程の高度な](../Page/クラッキング_\(コンピューター用語\).md "wikilink")[プログラミング技術を有している](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink")。初期（コミックス2巻あたりまで）は眼鏡をかけることもあったが、現在は使用していない。数学以外の分野にも造詣が深い多趣味な一面もあるが、体を動かすのは得意ではなく運動全般は苦手（ただしプールの底で考え事ができるほど[肺活量](https://ja.wikipedia.org/wiki/肺活量 "wikilink")は優れる）。非常に音痴で、彼の歌は聞く者を苦笑、失笑を超えて石化させる程のレベルである。
-    大学時代に様々な[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")を取得しており、プールもついている程のマンションに一人暮らしをしており生活には全く困っていない（ロキ（後述）曰く、その気になればまだまだ稼げるらしい）。部屋は本と情報機器であふれており、それだけでは飽き足らず近くに貸し倉庫も持っている。それは実の妹をして「本とガラクタで人が泊まれるスペースが無い」と言わしめるほど。
-    聞き込みや調査は可奈にまかせ、自分は思考に集中し推理するタイプの[安楽椅子探偵](https://ja.wikipedia.org/wiki/安楽椅子探偵 "wikilink")。「事件の解決」よりも「理屈に合わないことの真実を暴く」ことを目的として推理している。そのため殺人を含めた事件の犯人を咎めず、見逃すエピソードも多い。
+    大学時代に様々な[特許](../Page/特許.md "wikilink")を取得しており、プールもついている程のマンションに一人暮らしをしており生活には全く困っていない（ロキ（後述）曰く、その気になればまだまだ稼げるらしい）。部屋は本と情報機器であふれており、それだけでは飽き足らず近くに貸し倉庫も持っている。それは実の妹をして「本とガラクタで人が泊まれるスペースが無い」と言わしめるほど。
+    聞き込みや調査は可奈にまかせ、自分は思考に集中し推理するタイプの[安楽椅子探偵](../Page/安楽椅子探偵.md "wikilink")。「事件の解決」よりも「理屈に合わないことの真実を暴く」ことを目的として推理している。そのため殺人を含めた事件の犯人を咎めず、見逃すエピソードも多い。
     作中で想が「[Q.E.D.](../Page/Q.E.D..md "wikilink")」の文字を示したら、その時点より先のストーリーは事件の解決編に移る（初期の作品以外では想自身が記さず、一種の比喩や効果・寓意として登場することが多い）。決め台詞は一通りの推理を終えた後の「以上、証明終了です」。
     『Q.E.D. iff ―証明終了―』では、あまりの本の多さに管理会社に警告され、洋風の一軒家に引っ越した。本人は本を減らしたと言っているが可奈やその友人が見た限りでは全くといって良いほど減っておらず、可奈から「つがいのハムスターか！」と突っ込みを受けた。
   - 水原可奈（みずはら かな）
@@ -45,7 +45,7 @@
     剣道部に所属しており腕は達人クラス（女[武蔵と呼ばれている](../Page/宮本武蔵.md "wikilink")）。だが、剣道に限らず運動全般に類稀なる才能を持ち、およそ運動と名のつくものなら、大抵の行動を数度の練習でモノにする。学校の塀を街路樹を利用した三角跳びで乗り越える、教室の窓から校舎の壁を伝って屋上まで登る、大人でも命の危険を感じる遠泳をこなすなど身体能力は驚異的なレベル。「あの人の周りには重力が無いのかな？」とは想の弁。そのため腕っ節をアピールする場面も多く、気安い相手には口より先に手が出ることもしばしば。クラスでのまとめ役をする際には、その部分が物を言うこともある。本人にはその部分の自覚はかなり希薄である\[5\]。
     事件の推理は想に任せる代わりに、自身は持ち前の行動力で事件関係者への聞き込みや情報収集を担当している名探偵の助手的役回り。また事件・出来事の内容を正確に想に伝えることができる記憶力と言語力の持ち主でもある（作者曰く「燈馬君よりもすごい人」）。
     二輪免許保持者。
-    なお、彼女の名前は[文化放送](../Page/文化放送.md "wikilink")の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")である[水谷加奈](https://ja.wikipedia.org/wiki/水谷加奈 "wikilink")からとられている\[6\]。
+    なお、彼女の名前は[文化放送](../Page/文化放送.md "wikilink")の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")である[水谷加奈](../Page/水谷加奈.md "wikilink")からとられている\[6\]。
 
 ### 準レギュラー
 
@@ -78,7 +78,7 @@
       - 江成 姫子（えなり ひめこ）
         探偵同好会（ミステリ同好会）の会長にして創始者。高圧的な態度と周囲の空気もお構いなしに物事を進める女王様気質な性格から、「クイーン」と呼ばれている。本人も「江成クイーン（[エラリー・クイーン](../Page/エラリー・クイーン.md "wikilink")）」となるこの通称をいたく気に入っている様子。我が意を得た発言をした相手には「あなた、とてもいいことを言いました」と賞賛するのが口癖。資産家の祖母を持つ。想と可奈を頼りにしているが、その反面他の会員の能力に対する信頼は低い。
       - 長家 幸六（ながいえ こうろく）
-        探偵同好会（ミステリ同好会）会員。自分の苗字が[家が複数ある状態](https://ja.wikipedia.org/wiki/長屋 "wikilink")＝HOMESという解釈から、自らを「[ホームズ](../Page/シャーロック・ホームズ.md "wikilink")」と主張している。
+        探偵同好会（ミステリ同好会）会員。自分の苗字が[家が複数ある状態](../Page/長屋.md "wikilink")＝HOMESという解釈から、自らを「[ホームズ](../Page/シャーロック・ホームズ.md "wikilink")」と主張している。
         理論派を自称する理屈屋のメガネ男子だが、理論派を自称する割にはトリックが不合理だったりかなり大きな穴がある推理を展開する上、幽霊や宇宙人といった非科学的なものが大変苦手。仕舞いにはその思考や存在自体を江成からは「カブト虫」と揶揄されている。
       - 盛田 織理（もりた おりさと）
         探偵同好会（ミステリ同好会）会員。筋金入りのオカルトマニアで、不可解な事に対しては何かと宇宙人や幽霊の仕業だという怪奇的な推理を好むため、しばしばホームズと対立する。そのことから「[モルダー](https://ja.wikipedia.org/wiki/Xファイル#FBI "wikilink")」という渾名で呼ばれている。
@@ -111,7 +111,7 @@
 
 ## 『C.M.B.』との関係
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より、『[月刊少年マガジン](https://ja.wikipedia.org/wiki/月刊少年マガジン "wikilink")』にて連載が始まった別作品『[C.M.B. 森羅博物館の事件目録](https://ja.wikipedia.org/wiki/C.M.B._森羅博物館の事件目録 "wikilink")』は、姉妹編にあたり、『Q.E.D.』と同一世界の出来事という設定。『C.M.B.』の第2巻に1コマだけであるが水原警部が登場している。
+[2005年](../Page/2005年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より、『[月刊少年マガジン](https://ja.wikipedia.org/wiki/月刊少年マガジン "wikilink")』にて連載が始まった別作品『[C.M.B. 森羅博物館の事件目録](https://ja.wikipedia.org/wiki/C.M.B._森羅博物館の事件目録 "wikilink")』は、姉妹編にあたり、『Q.E.D.』と同一世界の出来事という設定。『C.M.B.』の第2巻に1コマだけであるが水原警部が登場している。
 
 掲載当時の『マガジンGREAT』（2005年9月号）に掲載された『C.M.B.』の広告には「（Q.E.D.の主人公である）燈馬君のイトコが大活躍するぞ\!\!」の煽り文句が記された。この広告と同様のものが、『C.M.B』第1巻の広告として単行本23巻に収録されている。
 
@@ -124,7 +124,7 @@
   - 『Q.E.D. 証明終了 THE TRICK NOTE』
     作者・加藤元浩と『月刊少年マガジン』編集部による同作品のオフィシャルガイドブック。
     第1話 - 第37話までのストーリーダイジェストや作中使用トリックの解説、単行本未収録カラーイラストやキーワード解説、初期未公開作品（Q.E.D.シリーズではない）のダイジェスト掲載など。
-    [天樹征丸](https://ja.wikipedia.org/wiki/樹林伸 "wikilink")（『[金田一少年の事件簿](../Page/金田一少年の事件簿.md "wikilink")』『[探偵学園Q](../Page/探偵学園Q.md "wikilink")』原作者）との対談ページも設けられている。
+    [天樹征丸](../Page/樹林伸.md "wikilink")（『[金田一少年の事件簿](../Page/金田一少年の事件簿.md "wikilink")』『[探偵学園Q](../Page/探偵学園Q.md "wikilink")』原作者）との対談ページも設けられている。
   - 『Q.E.D. 証明終了 THE TRICK FILE』
     作者・加藤元浩と『月刊少年マガジン』編集部による同作品のオフィシャルガイドブック第2弾。
     第38話 - 第63話までのストーリーダイジェストや作中使用トリックの解説、単行本未収録カラーイラストやキーワード解説、姉妹作品の『C.M.B.』の紹介、テレビドラマ化記念特別読み切り『ドラマ殺人事件』を収録。
@@ -140,7 +140,7 @@
   - 燈馬想（塔場総一郎）- [中村蒼](../Page/中村蒼.md "wikilink")
   - 水原幸太郎（霧之塚幸輔） - [石黒賢](https://ja.wikipedia.org/wiki/石黒賢 "wikilink")
   - 梅宮衿子 - [ちかげ](https://ja.wikipedia.org/wiki/ちかげ "wikilink")［少女時代：[安藤咲良](https://ja.wikipedia.org/wiki/安藤咲良 "wikilink")］第9話
-  - 香坂まどか - [中村静香](https://ja.wikipedia.org/wiki/中村静香 "wikilink")［少女時代：[田辺未佳](https://ja.wikipedia.org/wiki/田辺未佳 "wikilink")］第9話
+  - 香坂まどか - [中村静香](../Page/中村静香.md "wikilink")［少女時代：[田辺未佳](https://ja.wikipedia.org/wiki/田辺未佳 "wikilink")］第9話
   - 西丸浩樹 - [中山卓也](../Page/中山卓也_\(俳優\).md "wikilink")［少年時代：[五十畑哉耶](https://ja.wikipedia.org/wiki/五十畑哉耶 "wikilink")］第9話
   - 笹塚真人（幡ヶ谷真） - [富岡晃一郎](https://ja.wikipedia.org/wiki/富岡晃一郎 "wikilink")
   - 鎌田公男先生 - [野間口徹](../Page/野間口徹.md "wikilink")
@@ -180,21 +180,21 @@
 <td><p>第1回</p></td>
 <td><p>1月8日</p></td>
 <td><p>青の密室</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松田悟志" title="wikilink">松田悟志</a>、<a href="https://ja.wikipedia.org/wiki/本田大輔" title="wikilink">本田大輔</a>、<a href="../Page/田実陽子.md" title="wikilink">田実陽子</a>、<a href="https://ja.wikipedia.org/wiki/友井雄亮" title="wikilink">友井雄亮</a>、<a href="https://ja.wikipedia.org/wiki/尾関伸嗣" title="wikilink">尾関伸嗣</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松田悟志" title="wikilink">松田悟志</a>、<a href="https://ja.wikipedia.org/wiki/本田大輔" title="wikilink">本田大輔</a>、<a href="../Page/田実陽子.md" title="wikilink">田実陽子</a>、<a href="../Page/友井雄亮.md" title="wikilink">友井雄亮</a>、<a href="https://ja.wikipedia.org/wiki/尾関伸嗣" title="wikilink">尾関伸嗣</a></p></td>
 <td><p>6.2%</p></td>
 </tr>
 <tr class="even">
 <td><p>第2回</p></td>
 <td><p>1月15日</p></td>
 <td><p>銀の瞳</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江波杏子" title="wikilink">江波杏子</a>、<a href="https://ja.wikipedia.org/wiki/押元奈緒子" title="wikilink">押元奈緒子</a>、<a href="https://ja.wikipedia.org/wiki/長谷川朝晴" title="wikilink">長谷川朝晴</a>、<a href="../Page/真実一路_(俳優).md" title="wikilink">真実一路</a>、<a href="https://ja.wikipedia.org/wiki/谷本一" title="wikilink">谷本一</a></p></td>
+<td><p><a href="../Page/江波杏子.md" title="wikilink">江波杏子</a>、<a href="https://ja.wikipedia.org/wiki/押元奈緒子" title="wikilink">押元奈緒子</a>、<a href="https://ja.wikipedia.org/wiki/長谷川朝晴" title="wikilink">長谷川朝晴</a>、<a href="../Page/真実一路_(俳優).md" title="wikilink">真実一路</a>、<a href="https://ja.wikipedia.org/wiki/谷本一" title="wikilink">谷本一</a></p></td>
 <td><p>6.1%</p></td>
 </tr>
 <tr class="odd">
 <td><p>第3回</p></td>
 <td><p>1月22日</p></td>
 <td><p>学園祭狂騒曲</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/辻本祐樹" title="wikilink">辻本祐樹</a>、<a href="../Page/川原一馬.md" title="wikilink">川原一馬</a>、<a href="https://ja.wikipedia.org/wiki/鈴之助" title="wikilink">鈴之助</a></p></td>
+<td><p><a href="../Page/辻本祐樹.md" title="wikilink">辻本祐樹</a>、<a href="../Page/川原一馬.md" title="wikilink">川原一馬</a>、<a href="https://ja.wikipedia.org/wiki/鈴之助" title="wikilink">鈴之助</a></p></td>
 <td><p>4.7%</p></td>
 </tr>
 <tr class="even">
@@ -208,7 +208,7 @@
 <td><p>第5回</p></td>
 <td><p>2月5日</p></td>
 <td><p>サスペンス刑事[10]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/青田典子" title="wikilink">青田典子</a>、<a href="../Page/松尾諭.md" title="wikilink">松尾諭</a>、<a href="../Page/住田隆.md" title="wikilink">住田隆</a>、<a href="../Page/井上美琴.md" title="wikilink">井上美琴</a>、<a href="../Page/松風雅也.md" title="wikilink">松風雅也</a></p></td>
+<td><p><a href="../Page/青田典子.md" title="wikilink">青田典子</a>、<a href="../Page/松尾諭.md" title="wikilink">松尾諭</a>、<a href="../Page/住田隆.md" title="wikilink">住田隆</a>、<a href="../Page/井上美琴.md" title="wikilink">井上美琴</a>、<a href="../Page/松風雅也.md" title="wikilink">松風雅也</a></p></td>
 <td><p><span style="color:red;">7.1%</span></p></td>
 </tr>
 <tr class="even">
@@ -229,7 +229,7 @@
 <td><p>第8回</p></td>
 <td><p>2月26日</p></td>
 <td><p>罪と罰</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北条隆博" title="wikilink">北条隆博</a>、<a href="../Page/牧口元美.md" title="wikilink">牧口元美</a>、<a href="../Page/松澤傑.md" title="wikilink">松澤傑</a>、<a href="../Page/きゃんひとみ.md" title="wikilink">きゃんひとみ</a></p></td>
+<td><p><a href="../Page/北条隆博.md" title="wikilink">北条隆博</a>、<a href="../Page/牧口元美.md" title="wikilink">牧口元美</a>、<a href="../Page/松澤傑.md" title="wikilink">松澤傑</a>、<a href="../Page/きゃんひとみ.md" title="wikilink">きゃんひとみ</a></p></td>
 <td><p>5.2%</p></td>
 </tr>
 <tr class="odd">
@@ -244,7 +244,7 @@
 <td><p>最終回</p></td>
 <td><p>3月12日</p></td>
 <td><p>立証責任</p></td>
-<td><p><a href="../Page/田村亮_(俳優).md" title="wikilink">田村亮</a>、<a href="https://ja.wikipedia.org/wiki/原千晶" title="wikilink">原千晶</a>、<a href="https://ja.wikipedia.org/wiki/飯田基祐" title="wikilink">飯田基祐</a>、鈴之助</p></td>
+<td><p><a href="../Page/田村亮_(俳優).md" title="wikilink">田村亮</a>、<a href="https://ja.wikipedia.org/wiki/原千晶" title="wikilink">原千晶</a>、<a href="../Page/飯田基祐.md" title="wikilink">飯田基祐</a>、鈴之助</p></td>
 <td><p>4.8%</p></td>
 </tr>
 <tr class="odd">

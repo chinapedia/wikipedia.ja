@@ -3,7 +3,7 @@
 
 **MOTOCOMPO**（モトコンポ）とは、chihoと[Dr.Usui](https://ja.wikipedia.org/wiki/Dr.Usui "wikilink")を中心に結成されたエレクトロ・ポップ・ユニット。
 
-初期は[PLASTICS](https://ja.wikipedia.org/wiki/PLASTICS "wikilink")の影響を色濃く受けたチープなテクノポップ/ニューウェーブ・サウンドで、1998年に[SPOOZYS](https://ja.wikipedia.org/wiki/松江潤 "wikilink")、[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")などのバンドを中心とした“TOKYO NEWWAVE OF NEWWAVE”シーンを席巻する存在のバンドであったが、世界的な[エレクトロクラッシュ](../Page/エレクトロクラッシュ.md "wikilink")ムーブメントを境に、骨太なエレクトロ・サウンドへとシフト。2010年活動休止。
+初期は[PLASTICS](https://ja.wikipedia.org/wiki/PLASTICS "wikilink")の影響を色濃く受けたチープなテクノポップ/ニューウェーブ・サウンドで、1998年に[SPOOZYS](https://ja.wikipedia.org/wiki/松江潤 "wikilink")、[POLYSICS](../Page/POLYSICS.md "wikilink")などのバンドを中心とした“TOKYO NEWWAVE OF NEWWAVE”シーンを席巻する存在のバンドであったが、世界的な[エレクトロクラッシュ](../Page/エレクトロクラッシュ.md "wikilink")ムーブメントを境に、骨太なエレクトロ・サウンドへとシフト。2010年活動休止。
 
 [Dr.Usui](https://ja.wikipedia.org/wiki/Dr.Usui "wikilink")はソロ名義Dr.USUIとして2008年から2010年までイギリスとタイのフェスを中心に活動。 現在は作曲家・プロデューサーとして活動する傍ら、MOTOCOMPOからのスピンオフユニット「[(M)otocompo](https://ja.wikipedia.org/wiki/\(M\)otocompo "wikilink")」や[南波志帆](https://ja.wikipedia.org/wiki/南波志帆 "wikilink")、[岸田メル](../Page/岸田メル.md "wikilink")、[フレネシ](https://ja.wikipedia.org/wiki/フレネシ "wikilink")、[Julie Wataiらとのユニット](https://ja.wikipedia.org/wiki/Julie_Watai "wikilink")「xxx of WONDER」の活動も展開している。
 

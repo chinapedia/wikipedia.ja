@@ -32,12 +32,12 @@
 
 <!-- end list -->
 
-  - 山本倫和 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 山本倫和 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
   -
-    [1960年](../Page/1960年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")生。
+    [1960年](../Page/1960年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")生。
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 
 ## 経歴
 
-  - ロックンロールミュージカル劇団「[ミスタースリムカンパニー](https://ja.wikipedia.org/wiki/ミスタースリムカンパニー "wikilink")」のメンバーで結成される。
+  - ロックンロールミュージカル劇団「[ミスタースリムカンパニー](../Page/ミスタースリムカンパニー.md "wikilink")」のメンバーで結成される。
   - [1982年](../Page/1982年.md "wikilink")、[CBSソニーからアルバム](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")「発」とシングル「ギブミー・チョコレート」で[デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。同時期に黒田が脱退。
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")プロデュース演出のアルバム「東京JAP大作戦」発売・コンサートデビュー。
   - [1984年](../Page/1984年.md "wikilink")、佐藤が脱退。

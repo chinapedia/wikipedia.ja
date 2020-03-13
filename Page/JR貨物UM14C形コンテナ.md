@@ -11,7 +11,7 @@
 
   - 5001 - 5005
     [ティーエルロジコム](https://ja.wikipedia.org/wiki/ティーエルロジコム "wikilink")[所有](../Page/所有権.md "wikilink")、[液化塩化水素輸送容器専用](../Page/塩化水素.md "wikilink")。最大総重量12.5[t](../Page/トン.md "wikilink")、自重2.5t。
-    [横浜羽沢駅](../Page/横浜羽沢駅.md "wikilink") - [北九州貨物ターミナル駅](https://ja.wikipedia.org/wiki/北九州貨物ターミナル駅 "wikilink")間と横浜羽沢駅 - [梅田駅間の](https://ja.wikipedia.org/wiki/梅田信号場 "wikilink")2ルートで運用。
+    [横浜羽沢駅](../Page/横浜羽沢駅.md "wikilink") - [北九州貨物ターミナル駅](../Page/北九州貨物ターミナル駅.md "wikilink")間と横浜羽沢駅 - [梅田駅間の](https://ja.wikipedia.org/wiki/梅田信号場 "wikilink")2ルートで運用。
 
 <File:UM14C-5001----②> 【東京通運】Containers of Japan Rail.jpg|**UM14C-5001 ティーエルロジコム所有。** <File:UM14C-5003----①> 【東京ロジティック】Containers of Japan Rail.jpg|**UM14C-5003 ティーエルロジコム所有。**
 

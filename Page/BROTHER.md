@@ -23,13 +23,13 @@
   - 白瀬：[加藤雅也](../Page/加藤雅也.md "wikilink")
   - 加藤：[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")
   - 原田：[大杉漣](../Page/大杉漣.md "wikilink")
-  - 石原：[石橋凌](https://ja.wikipedia.org/wiki/石橋凌 "wikilink")
-  - 警察官僚：[大竹まこと](https://ja.wikipedia.org/wiki/大竹まこと "wikilink")
-  - クラブのママ：[かたせ梨乃](https://ja.wikipedia.org/wiki/かたせ梨乃 "wikilink")
+  - 石原：[石橋凌](../Page/石橋凌.md "wikilink")
+  - 警察官僚：[大竹まこと](../Page/大竹まこと.md "wikilink")
+  - クラブのママ：[かたせ梨乃](../Page/かたせ梨乃.md "wikilink")
   - 仁政会組長：[渡哲也](https://ja.wikipedia.org/wiki/渡哲也 "wikilink")
   - 杉本：[ジェームズ・シゲタ](../Page/ジェームズ・シゲタ.md "wikilink")
   - 花岡組長：[奥村公延](../Page/奥村公延.md "wikilink")
-  - [六平直政](https://ja.wikipedia.org/wiki/六平直政 "wikilink")、村上連、[國本鍾建](../Page/國本鍾建.md "wikilink")、[嵯峨周平](https://ja.wikipedia.org/wiki/嵯峨周平 "wikilink")、[吉田晃太郎](https://ja.wikipedia.org/wiki/吉田晃太郎 "wikilink")、[川原和久](https://ja.wikipedia.org/wiki/川原和久 "wikilink")、稲宮誠、[森永健司](https://ja.wikipedia.org/wiki/森永健司 "wikilink")、[ガンビーノ小林](../Page/ガンビーノ小林.md "wikilink")、[冨樫真](../Page/冨樫真.md "wikilink")、[佐野元哉](https://ja.wikipedia.org/wiki/佐野元哉 "wikilink") ほか
+  - [六平直政](../Page/六平直政.md "wikilink")、村上連、[國本鍾建](../Page/國本鍾建.md "wikilink")、[嵯峨周平](https://ja.wikipedia.org/wiki/嵯峨周平 "wikilink")、[吉田晃太郎](https://ja.wikipedia.org/wiki/吉田晃太郎 "wikilink")、[川原和久](../Page/川原和久.md "wikilink")、稲宮誠、[森永健司](https://ja.wikipedia.org/wiki/森永健司 "wikilink")、[ガンビーノ小林](../Page/ガンビーノ小林.md "wikilink")、[冨樫真](../Page/冨樫真.md "wikilink")、[佐野元哉](https://ja.wikipedia.org/wiki/佐野元哉 "wikilink") ほか
 
 ## 作品解説
 
@@ -48,8 +48,8 @@
 ## 受賞歴
 
   - 第11回[東京スポーツ映画大賞](../Page/東京スポーツ映画大賞.md "wikilink") 作品賞
-  - 第38回[ゴールデン・アロー賞](https://ja.wikipedia.org/wiki/ゴールデン・アロー賞 "wikilink") 映画賞（北野武）
-  - 第56回[毎日映画コンクール](https://ja.wikipedia.org/wiki/毎日映画コンクール "wikilink") 男優助演賞（寺島進）
+  - 第38回[ゴールデン・アロー賞](../Page/ゴールデン・アロー賞.md "wikilink") 映画賞（北野武）
+  - 第56回[毎日映画コンクール](../Page/毎日映画コンクール.md "wikilink") 男優助演賞（寺島進）
 
 ## その他
 

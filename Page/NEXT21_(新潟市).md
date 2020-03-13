@@ -1,15 +1,15 @@
 > この記事は[NEXT21 \(\)](https://ja.wikipedia.org/wiki/NEXT21_\(\))から翻訳されています。
 
 
-**NEXT21**（ネクストにじゅういち）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区にある](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。[萬代橋](../Page/萬代橋.md "wikilink")や[朱鷺メッセ](https://ja.wikipedia.org/wiki/朱鷺メッセ "wikilink")、[新潟日報メディアシップ](https://ja.wikipedia.org/wiki/新潟日報メディアシップ "wikilink")などと並び、新潟市の[ランドマーク](../Page/ランドマーク.md "wikilink")的存在となっている。
+**NEXT21**（ネクストにじゅういち）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区にある](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。[萬代橋](../Page/萬代橋.md "wikilink")や[朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")、[新潟日報メディアシップ](https://ja.wikipedia.org/wiki/新潟日報メディアシップ "wikilink")などと並び、新潟市の[ランドマーク](../Page/ランドマーク.md "wikilink")的存在となっている。
 
 ## 概要
 
 [柾谷小路](../Page/柾谷小路.md "wikilink")と[西堀通](https://ja.wikipedia.org/wiki/西堀通 "wikilink")が交わる西堀交差点に面しており、道路を挟んで[新潟三越が立地する](https://ja.wikipedia.org/wiki/新潟三越伊勢丹#新潟三越 "wikilink")。
 
-現在NEXT21が建つ場所にはもともと[新潟奉行所](https://ja.wikipedia.org/wiki/新潟町奉行 "wikilink")→[新潟県庁舎](../Page/新潟県庁舎.md "wikilink")→[新潟市役所](https://ja.wikipedia.org/wiki/新潟市役所 "wikilink")が立地し、[江戸時代](../Page/江戸時代.md "wikilink")から一貫して新潟の行政の中心地となっていたが\[1\]、老朽化し手狭となったため[1989年](../Page/1989年.md "wikilink")に市役所は[学校町通](https://ja.wikipedia.org/wiki/学校町通 "wikilink")に移転となった。中心街である[古町地区の中心という立地であることから跡地は再開発されることになり](https://ja.wikipedia.org/wiki/古町_\(新潟市\) "wikilink")、[新潟交通](../Page/新潟交通.md "wikilink")など複数の[JVがコンペティションで競った結果](../Page/共同企業体.md "wikilink")、[住友生命保険](https://ja.wikipedia.org/wiki/住友生命保険 "wikilink")が担当企業に選定された。[日建設計](../Page/日建設計.md "wikilink")と[大成建設](../Page/大成建設.md "wikilink")のJVによる設計・施工で[1993年](../Page/1993年.md "wikilink")4月に躯体が竣工し、翌年5月にグランドオープンした。
+現在NEXT21が建つ場所にはもともと[新潟奉行所](https://ja.wikipedia.org/wiki/新潟町奉行 "wikilink")→[新潟県庁舎](../Page/新潟県庁舎.md "wikilink")→[新潟市役所](https://ja.wikipedia.org/wiki/新潟市役所 "wikilink")が立地し、[江戸時代](../Page/江戸時代.md "wikilink")から一貫して新潟の行政の中心地となっていたが\[1\]、老朽化し手狭となったため[1989年](../Page/1989年.md "wikilink")に市役所は[学校町通](https://ja.wikipedia.org/wiki/学校町通 "wikilink")に移転となった。中心街である[古町地区の中心という立地であることから跡地は再開発されることになり](https://ja.wikipedia.org/wiki/古町_\(新潟市\) "wikilink")、[新潟交通](../Page/新潟交通.md "wikilink")など複数の[JVがコンペティションで競った結果](../Page/共同企業体.md "wikilink")、[住友生命保険](../Page/住友生命保険.md "wikilink")が担当企業に選定された。[日建設計](../Page/日建設計.md "wikilink")と[大成建設](../Page/大成建設.md "wikilink")のJVによる設計・施工で[1993年](../Page/1993年.md "wikilink")4月に躯体が竣工し、翌年5月にグランドオープンした。
 
-建物は地上21階、地下3階建てで高さは125mあり、1990年代の新潟市で1番の高さを誇っていたが、[2003年](../Page/2003年.md "wikilink")に竣工した万代島ビル（[朱鷺メッセ](https://ja.wikipedia.org/wiki/朱鷺メッセ "wikilink")）に抜かれ市内では2番目の高さである。1階と2階とを結ぶ[エスカレーター](../Page/エスカレーター.md "wikilink")は[螺旋](https://ja.wikipedia.org/wiki/螺旋 "wikilink")状になっているほか、[エレベーター](../Page/エレベーター.md "wikilink")の内部がガラス張りのシースルーエレベーターになっている。
+建物は地上21階、地下3階建てで高さは125mあり、1990年代の新潟市で1番の高さを誇っていたが、[2003年](../Page/2003年.md "wikilink")に竣工した万代島ビル（[朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")）に抜かれ市内では2番目の高さである。1階と2階とを結ぶ[エスカレーター](../Page/エスカレーター.md "wikilink")は[螺旋](../Page/螺旋.md "wikilink")状になっているほか、[エレベーター](../Page/エレベーター.md "wikilink")の内部がガラス張りのシースルーエレベーターになっている。
 
 [2017年](../Page/2017年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")には中央区役所が入り\[2\]、2020年オープン予定の[新潟大和跡地の再開発ビル](https://ja.wikipedia.org/wiki/大和_\(百貨店\)#新潟大和 "wikilink")「古町ルフル」と併せて行政の中心地としての機能復活が進んでいる。
 
@@ -17,7 +17,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Next21_1.JPG "wikilink")\]\] 2 - 5階には中央区役所、6階には小規模の多目的ホールである「新潟市民プラザ」がある。11階 - 15階はオフィスフロア、16階 - 18階は飲食店街フロア、19階は展望ラウンジとなっている。
 
-地下部は、[地下街](https://ja.wikipedia.org/wiki/地下街 "wikilink")「[西堀ROSA](https://ja.wikipedia.org/wiki/西堀ROSA "wikilink")」と直結しており、更にこの地下街を通じて[新潟三越の地下部とも直結している](https://ja.wikipedia.org/wiki/新潟三越伊勢丹 "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")まで[新潟大和](https://ja.wikipedia.org/wiki/大和_\(百貨店\)#新潟大和 "wikilink")（だいわ）の地下部とも直結していたが、新潟大和の閉店に伴い、現在はシャッターが閉まっている。
+地下部は、[地下街](../Page/地下街.md "wikilink")「[西堀ROSA](../Page/西堀ROSA.md "wikilink")」と直結しており、更にこの地下街を通じて[新潟三越の地下部とも直結している](https://ja.wikipedia.org/wiki/新潟三越伊勢丹 "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")まで[新潟大和](https://ja.wikipedia.org/wiki/大和_\(百貨店\)#新潟大和 "wikilink")（だいわ）の地下部とも直結していたが、新潟大和の閉店に伴い、現在はシャッターが閉まっている。
 
 ### 展望フロア
 
@@ -89,7 +89,7 @@
 ## その他
 
   - このビルに隣接するかたちで、商業施設と住宅が入居する29階建ての複合型超高層ビル、「グランドメゾン西堀通タワー\[9\]」の建設が進められ、[2009年](../Page/2009年.md "wikilink")6月に竣工した。
-  - [新潟空港](https://ja.wikipedia.org/wiki/新潟空港 "wikilink")には[航空法](../Page/航空法.md "wikilink")の[制限表面](../Page/制限表面.md "wikilink")のうち円錐表面や外部水平表面が設定されておらず\[10\]、[万代島ビル](https://ja.wikipedia.org/wiki/朱鷺メッセ "wikilink") (143[m](../Page/メートル.md "wikilink")) とともに当ビルの高さ制限には影響がない。
+  - [新潟空港](https://ja.wikipedia.org/wiki/新潟空港 "wikilink")には[航空法](../Page/航空法.md "wikilink")の[制限表面](../Page/制限表面.md "wikilink")のうち円錐表面や外部水平表面が設定されておらず\[10\]、[万代島ビル](../Page/朱鷺メッセ.md "wikilink") (143[m](../Page/メートル.md "wikilink")) とともに当ビルの高さ制限には影響がない。
   - 完成当時、県内は勿論、[本州](../Page/本州.md "wikilink")[日本海](../Page/日本海.md "wikilink")側都市に所在する最も高い建造物であったことや、同じ高層ビルでも、[新潟県庁とは異なり](../Page/新潟県庁舎.md "wikilink")[商業施設](https://ja.wikipedia.org/wiki/商業施設 "wikilink")であることなどから話題を呼び、オープン時には県内から多くの集客を果たした。しかし、完成したNEXT21を一目見ようとする人々によって、市内主要幹線道路は[渋滞](../Page/渋滞.md "wikilink")に陥り、本来であれば20～30分程で可能である[新潟バイパス](../Page/新潟バイパス.md "wikilink")から市内中心部への自動車での乗り入れに、オープン当日は1時間以上要した。無論、建物内部の混み具合も著しく、オープン当日は展望ラウンジまでの行程が完全に順路化され、展望ラウンジでの滞在時間も限られるなどしていた。
   - ラフォーレ原宿・新潟が撤退して生じた空きテナントに、古町の活性化を目的として2017年8月に新潟市中央区役所が移転した。中央区役所の来庁者は1日約1600人で、区役所職員を合わせて古町の昼間人口は2000人増えた。これにより古町の飲食店を中心に客が増え、特に区役所向かいに建つ新潟三越では来客が1日あたり数百人規模で増えたと報道された\[11\]。しかし、売上が低迷していた新潟三越にとって中央区役所移転の効果は「状況を変えるには至ら」ず、2018年9月に2020年で閉鎖することが発表された\[12\]。　
 
@@ -103,7 +103,7 @@ BRT[萬代橋ライン](https://ja.wikipedia.org/wiki/萬代橋ライン "wikili
 
 地下2階 - 地下3階に「[タイムズ](../Page/タイムズ.md "wikilink")NEXT21」が設けられている（106台）。「[くるまでふるまち](https://ja.wikipedia.org/wiki/古町_\(新潟市\)#くるまでふるまち "wikilink")」無料券利用可能\[13\]。県の「おもいやり駐車場協力区画」が6台分あり、対象者は駐車料金の減免を受けることができる\[14\]。
 
-このほか[西堀通](https://ja.wikipedia.org/wiki/西堀通 "wikilink")を北に100メートルほど入った場所に[西堀ROSA](https://ja.wikipedia.org/wiki/西堀ROSA "wikilink")直結の[市営西堀地下駐車場が所在し](https://ja.wikipedia.org/wiki/西堀ROSA#新潟市西堀地下駐車場 "wikilink")、区役所では来庁の際、こちらに駐車するよう案内している(来庁に伴う駐車料金の減免も、上記の「おもいやり駐車場協力区画」利用者を除いては市営西堀地下駐車場以外では受けられない)\[15\]。
+このほか[西堀通](https://ja.wikipedia.org/wiki/西堀通 "wikilink")を北に100メートルほど入った場所に[西堀ROSA](../Page/西堀ROSA.md "wikilink")直結の[市営西堀地下駐車場が所在し](https://ja.wikipedia.org/wiki/西堀ROSA#新潟市西堀地下駐車場 "wikilink")、区役所では来庁の際、こちらに駐車するよう案内している(来庁に伴う駐車料金の減免も、上記の「おもいやり駐車場協力区画」利用者を除いては市営西堀地下駐車場以外では受けられない)\[15\]。
 
 また、やや距離はあるものの[東堀通](https://ja.wikipedia.org/wiki/東堀通 "wikilink")六番町には第2駐車場も所在し、[2019年](../Page/2019年.md "wikilink")現在は[パラカ](../Page/パラカ.md "wikilink")の運営する「新潟市東堀第7駐車場」が「旧 NEXT21第2駐車場」として案内されている\[16\]。
 
@@ -123,8 +123,8 @@ BRT[萬代橋ライン](https://ja.wikipedia.org/wiki/萬代橋ライン "wikili
   - [新潟市役所](https://ja.wikipedia.org/wiki/新潟市役所 "wikilink")
   - [大和 (百貨店)\#新潟大和](https://ja.wikipedia.org/wiki/大和_\(百貨店\)#新潟大和 "wikilink")
   - [ラフォーレ原宿](../Page/ラフォーレ原宿.md "wikilink")
-  - [西堀ROSA](https://ja.wikipedia.org/wiki/西堀ROSA "wikilink")
-  - [朱鷺メッセ](https://ja.wikipedia.org/wiki/朱鷺メッセ "wikilink")、[新潟日報メディアシップ](https://ja.wikipedia.org/wiki/新潟日報メディアシップ "wikilink")、[新潟県庁舎](../Page/新潟県庁舎.md "wikilink") - 同じく展望フロアを有する新潟市内の[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。
+  - [西堀ROSA](../Page/西堀ROSA.md "wikilink")
+  - [朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")、[新潟日報メディアシップ](https://ja.wikipedia.org/wiki/新潟日報メディアシップ "wikilink")、[新潟県庁舎](../Page/新潟県庁舎.md "wikilink") - 同じく展望フロアを有する新潟市内の[超高層ビル](https://ja.wikipedia.org/wiki/超高層ビル "wikilink")。
 
 ## 外部リンク
 

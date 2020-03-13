@@ -7,38 +7,38 @@
 
 全面的なデジタル機材への移行の最中に制作されたため、本作では実験的なアプローチが主体となり、他の[T-SQUARE](../Page/T-SQUARE.md "wikilink")の作品群とはかけ離れた異質な作風となっている。ファンの間でも意見が分かれる作品である。
 
-スクェアの11枚目のアルバムであり、このアルバムから[則竹裕之](https://ja.wikipedia.org/wiki/則竹裕之 "wikilink")がドラマーとして参加している。またこのアルバムを最後にベーシストの[田中豊雪](https://ja.wikipedia.org/wiki/田中豊雪 "wikilink")がスクェアを脱退し、次作『[TRUTH](../Page/TRUTH.md "wikilink")』から[須藤満](https://ja.wikipedia.org/wiki/須藤満 "wikilink")がベーシストとしてスクェアに加入することになる。また、シングルとして「[DROP GOAL](https://ja.wikipedia.org/wiki/DROP_GOAL "wikilink")」が同時発売されている。
+スクェアの11枚目のアルバムであり、このアルバムから[則竹裕之](../Page/則竹裕之.md "wikilink")がドラマーとして参加している。またこのアルバムを最後にベーシストの[田中豊雪](../Page/田中豊雪.md "wikilink")がスクェアを脱退し、次作『[TRUTH](../Page/TRUTH.md "wikilink")』から[須藤満](../Page/須藤満.md "wikilink")がベーシストとしてスクェアに加入することになる。また、シングルとして「[DROP GOAL](https://ja.wikipedia.org/wiki/DROP_GOAL "wikilink")」が同時発売されている。
 
 アナログ盤（LP、カセット）とデジタル盤（CD）では収録時間が異なる。当時CDが一般にも普及し始めた時期で、LPよりも収録できる時間が長い（価格面では少々割高であった）CDには後奏を長めに収録した曲を数曲入れるなどして差別化を図った。なお、現行のリマスター盤CDはアナログ盤をベースにリマスターしたものになっており、収録時間の差異はアナログ盤に準じている。
 
 このアルバムが録音されていた頃に伊東たけしの2ndソロアルバム『L7』がリリースされており、音楽的にもそれまでのスクェア・サウンドとは異なり『L7』の影響を受けている(和泉によると「ADVENTURES」の路線から脱却したかったという)。アナログ機材からデジタル機材に移行する過渡期に制作された実験作であり、ポピュラー性という意味で完成度が高いとは言えない。アルバム全体として、前作と比較して展開に乏しく、ポップさが抑えられた、暗く怪しい雰囲気に包まれている。デビュー当時のフュージョンに回帰しているが、多くの曲でリバーブを完全に浮いて聴こえる程に深く掛けていたり、デジタルシーケンサーによる単調な自動演奏が延々と続くような曲まで収録するなど、楽曲構成に纏まりや抑揚が無く、デジタル機材に関する模索期にあったことが分かる作風となっている。そのような実験的な楽曲の中でも、「宝島」は後に語り継がれる定番曲となった。「LOVE IS IN MY SIGHT」「OVERHEAD KICK」「宝島」の3曲は、多くのテレビやラジオ番組でバックグラウンドミュージックとして使用された。この作品における実験によりデジタル機材に関する一連のノウハウを獲得したのか、次作の「[TRUTH](../Page/TRUTH.md "wikilink")」は非常に高いクオリティを持つ大ヒット作となり、バンドとしての新たな方向性を確立するに至った。
 
-アルバムタイトルどおり、[スポーツ](../Page/スポーツ.md "wikilink")にちなんだタイトルの曲が複数収録されている（「[HIT AND RUN](https://ja.wikipedia.org/wiki/ヒットエンドラン "wikilink")」「[OVERHEAD KICK](https://ja.wikipedia.org/wiki/オーバーヘッドキック "wikilink")」「[DROP GOAL](https://ja.wikipedia.org/wiki/ゴールキック_\(ラグビー\)#ドロップキック "wikilink")」）。
+アルバムタイトルどおり、[スポーツ](../Page/スポーツ.md "wikilink")にちなんだタイトルの曲が複数収録されている（「[HIT AND RUN](../Page/ヒットエンドラン.md "wikilink")」「[OVERHEAD KICK](https://ja.wikipedia.org/wiki/オーバーヘッドキック "wikilink")」「[DROP GOAL](https://ja.wikipedia.org/wiki/ゴールキック_\(ラグビー\)#ドロップキック "wikilink")」）。
 
-伊東は前作『[R・E・S・O・R・T](../Page/R・E・S・O・R・T.md "wikilink")』より、従来使用していたコンピュトーン社製[リリコン](https://ja.wikipedia.org/wiki/リリコン "wikilink")(外部音源を使用するウインド・シンセサイザー・ドライバーを含む)と同時に、伊東がEIZUKA ENGINEERING WORKSHOPに特別に注文して製作された「TAKECON-1」と呼ばれる[ウインドシンセサイザー](https://ja.wikipedia.org/wiki/ウインドシンセサイザー "wikilink")を一部楽曲で使用している。なおリリコンは「LOVE ALL」（ウインド・シンセサイザー・ドライバー+[Prophet-5使用](../Page/シーケンシャル・サーキット_プロフェット5.md "wikilink")）、「OVERHEAD KICK」（ウインド・シンセサイザー・ドライバー+Prophet-5使用）、「雲路」（ウインド・シンセサイザー・ドライバー+[Minimoog使用](https://ja.wikipedia.org/wiki/モーグ・シンセサイザー#%E3%83%9F%E3%83%8B%E3%83%A2%E3%83%BC%E3%82%B0 "wikilink")）で\[1\]、TAKECON-1は「宝島」（TAKECON-1+[DX7使用](https://ja.wikipedia.org/wiki/ヤマハ・DXシリーズ "wikilink")）と「CAMEL LAND」（TAKECON-1+DX7使用）で使用されている\[2\]。なお、リリコンの使用は次作の『TRUTH』までで、1988年発表の『[YES,NO.](../Page/YES,NO..md "wikilink")』以降はリリコンに代わって[AKAI EWIシリーズを使用している](../Page/AKAI_EWIシリーズ.md "wikilink")。
+伊東は前作『[R・E・S・O・R・T](../Page/R・E・S・O・R・T.md "wikilink")』より、従来使用していたコンピュトーン社製[リリコン](../Page/リリコン.md "wikilink")(外部音源を使用するウインド・シンセサイザー・ドライバーを含む)と同時に、伊東がEIZUKA ENGINEERING WORKSHOPに特別に注文して製作された「TAKECON-1」と呼ばれる[ウインドシンセサイザー](../Page/ウインドシンセサイザー.md "wikilink")を一部楽曲で使用している。なおリリコンは「LOVE ALL」（ウインド・シンセサイザー・ドライバー+[Prophet-5使用](../Page/シーケンシャル・サーキット_プロフェット5.md "wikilink")）、「OVERHEAD KICK」（ウインド・シンセサイザー・ドライバー+Prophet-5使用）、「雲路」（ウインド・シンセサイザー・ドライバー+[Minimoog使用](https://ja.wikipedia.org/wiki/モーグ・シンセサイザー#%E3%83%9F%E3%83%8B%E3%83%A2%E3%83%BC%E3%82%B0 "wikilink")）で\[1\]、TAKECON-1は「宝島」（TAKECON-1+[DX7使用](../Page/ヤマハ・DXシリーズ.md "wikilink")）と「CAMEL LAND」（TAKECON-1+DX7使用）で使用されている\[2\]。なお、リリコンの使用は次作の『TRUTH』までで、1988年発表の『[YES,NO.](../Page/YES,NO..md "wikilink")』以降はリリコンに代わって[AKAI EWIシリーズを使用している](../Page/AKAI_EWIシリーズ.md "wikilink")。
 
 ### 吹奏楽アレンジ
 
-当該アルバムの収録曲の一つである「TAKARAJIMA」は、スクェアのオリジナルと共に、『宝島』として、[真島俊夫](https://ja.wikipedia.org/wiki/真島俊夫 "wikilink")の[編曲](../Page/編曲.md "wikilink")による[吹奏楽](../Page/吹奏楽.md "wikilink")アレンジが広く知られている。吹奏楽版は[ラテン](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")[パーカッション](../Page/パーカッション.md "wikilink")を多用した[サンバ調のアレンジとなっている](../Page/サンバ_\(ブラジル\).md "wikilink")。オリジナルでは和泉のピアノソロだった部分が、吹奏楽版ではアルトサックスのソロに書き換えられている。1987年発売の『[ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/ニュー・サウンズ・イン・ブラス "wikilink") 第15集』が初出で、この時のソリストは[須川展也](https://ja.wikipedia.org/wiki/須川展也 "wikilink")。1997年発売の『ニュー・サウンズ・スペシャル 25周年記念盤』ではゲストとして参加した伊東たけしをフィーチャーしている。演奏は共に[東京佼成ウインドオーケストラ](../Page/東京佼成ウインドオーケストラ.md "wikilink")。
+当該アルバムの収録曲の一つである「TAKARAJIMA」は、スクェアのオリジナルと共に、『宝島』として、[真島俊夫](../Page/真島俊夫.md "wikilink")の[編曲](../Page/編曲.md "wikilink")による[吹奏楽](../Page/吹奏楽.md "wikilink")アレンジが広く知られている。吹奏楽版は[ラテン](../Page/ラテン音楽.md "wikilink")[パーカッション](../Page/パーカッション.md "wikilink")を多用した[サンバ調のアレンジとなっている](../Page/サンバ_\(ブラジル\).md "wikilink")。オリジナルでは和泉のピアノソロだった部分が、吹奏楽版ではアルトサックスのソロに書き換えられている。1987年発売の『[ニュー・サウンズ・イン・ブラス](../Page/ニュー・サウンズ・イン・ブラス.md "wikilink") 第15集』が初出で、この時のソリストは[須川展也](../Page/須川展也.md "wikilink")。1997年発売の『ニュー・サウンズ・スペシャル 25周年記念盤』ではゲストとして参加した伊東たけしをフィーチャーしている。演奏は共に[東京佼成ウインドオーケストラ](../Page/東京佼成ウインドオーケストラ.md "wikilink")。
 
-同じくTHE SQUAREの楽曲の吹奏楽アレンジである「[OMENS OF LOVE](https://ja.wikipedia.org/wiki/OMENS_OF_LOVE "wikilink")」と並んで、真島のアレンジャーとしての評価を確立させた楽曲であり、[岩井直溥](https://ja.wikipedia.org/wiki/岩井直溥 "wikilink")は「『オーメンズ・オブ・ラヴ』で、いわゆるシンフォニック・ポップスともいうべき彼ならではのアレンジを完成させ、『宝島』で大爆発する」「この2曲は、いまでも日本中で演奏されているロング・ヒット・スコアで、聞いたところによると、真島くんのオリジナル曲だと錯覚している若い人たちもいるらしい」<small></small>\[3\]と評している。
+同じくTHE SQUAREの楽曲の吹奏楽アレンジである「[OMENS OF LOVE](../Page/OMENS_OF_LOVE.md "wikilink")」と並んで、真島のアレンジャーとしての評価を確立させた楽曲であり、[岩井直溥](../Page/岩井直溥.md "wikilink")は「『オーメンズ・オブ・ラヴ』で、いわゆるシンフォニック・ポップスともいうべき彼ならではのアレンジを完成させ、『宝島』で大爆発する」「この2曲は、いまでも日本中で演奏されているロング・ヒット・スコアで、聞いたところによると、真島くんのオリジナル曲だと錯覚している若い人たちもいるらしい」<small></small>\[3\]と評している。
 
-1987年に発売された「宝島」の吹奏楽譜は、発売から1カ月で売り切れるほどの人気だったといい\[4\]、2011年に「ニュー・サウンズ・イン・ブラス」シリーズ発売元の[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")が実施した「あなたの思い出の曲」「好きな曲」人気投票では第1位に選ばれている\[5\]。
+1987年に発売された「宝島」の吹奏楽譜は、発売から1カ月で売り切れるほどの人気だったといい\[4\]、2011年に「ニュー・サウンズ・イン・ブラス」シリーズ発売元の[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")が実施した「あなたの思い出の曲」「好きな曲」人気投票では第1位に選ばれている\[5\]。
 
 真島は、吹奏楽譜発売から27年経過した2014年6月22日放送の『[題名のない音楽会](https://ja.wikipedia.org/wiki/題名のない音楽会 "wikilink")』にて、発売された楽譜の[ホルン](../Page/ホルン.md "wikilink")パートの一部に誤りがあったことを公表している\[6\]。
 
 ## 収録曲
 
-1.  **LOVE IS IN MY SIGHT**（[安藤まさひろ作曲](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")）
+1.  **LOVE IS IN MY SIGHT**（[安藤まさひろ作曲](../Page/安藤正容.md "wikilink")）
       -
         作曲者の安藤は「今までのスクェア・サウンドを受け継いでいるもの」と語っている\[7\]。
-2.  **LOVE ALL**（[伊東たけし](https://ja.wikipedia.org/wiki/伊東たけし "wikilink")作曲）
+2.  **LOVE ALL**（[伊東たけし](../Page/伊東たけし.md "wikilink")作曲）
       -
         作曲者の伊東は「ビートを中心に、アドリブ・ソロの自由度が生きるようなコード進行ということを考えに入れてます」と語っている\[8\]。
 3.  **HIT AND RUN**（安藤まさひろ作曲）
       -
         シングル「DROP GOAL」のB面に収録。詳しくは[DROP GOALを参照](https://ja.wikipedia.org/wiki/DROP_GOAL "wikilink")。
-4.  **LEAVE ME ALONE**（[和泉宏隆](https://ja.wikipedia.org/wiki/和泉宏隆 "wikilink")作曲）
+4.  **LEAVE ME ALONE**（[和泉宏隆](../Page/和泉宏隆.md "wikilink")作曲）
       -
         作曲者の和泉は「“ひとりでいること” (=Aloneness) と“孤独” (=Loneliness) との間には、大きな隔たりがあります。十年以上も前に、そんなことに思いを馳せて絞り出した曲です」と語っている\[9\]。
 5.  **OVERHEAD KICK**（田中豊雪作曲）
@@ -65,7 +65,7 @@
 ## 参考文献
 
   - 和泉宏隆 編著 『ピアノソロ 和泉宏隆 FORGOTTEN SAGA』 [ヤマハミュージックメディア](../Page/ヤマハミュージックメディア.md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")初版発行、ISBN 4-636-65399-8
-  - 『T-SQUARE 25TH ANNIVERSARY 1976-2001』 [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")、[2001年](../Page/2001年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")第1版発行、ISBN 4-8456-0732-8
+  - 『T-SQUARE 25TH ANNIVERSARY 1976-2001』 [リットーミュージック](../Page/リットーミュージック.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")第1版発行、ISBN 4-8456-0732-8
 
 ## 脚注
 
@@ -73,7 +73,7 @@
 
 ## 関連項目
 
-  - [ニュー・サウンズ・イン・ブラス](https://ja.wikipedia.org/wiki/ニュー・サウンズ・イン・ブラス "wikilink")（New Sounds in Brass） - [フュージョンをはじめとする様々なジャンルの音楽を](../Page/フュージョン_\(音楽\).md "wikilink")[吹奏楽](../Page/吹奏楽.md "wikilink")編成向けに編曲した[楽譜](../Page/楽譜.md "wikilink")および[CDのシリーズ](../Page/コンパクトディスク.md "wikilink")。スクェアの楽曲では、上述の「宝島」の他、「[オーメンズ・オブ・ラヴ](https://ja.wikipedia.org/wiki/OMENS_OF_LOVE "wikilink")」などが同シリーズにおけるフュージョン曲の吹奏楽アレンジの主要なレパートリーの一つとして広く知られる。
+  - [ニュー・サウンズ・イン・ブラス](../Page/ニュー・サウンズ・イン・ブラス.md "wikilink")（New Sounds in Brass） - [フュージョンをはじめとする様々なジャンルの音楽を](../Page/フュージョン_\(音楽\).md "wikilink")[吹奏楽](../Page/吹奏楽.md "wikilink")編成向けに編曲した[楽譜](../Page/楽譜.md "wikilink")および[CDのシリーズ](../Page/コンパクトディスク.md "wikilink")。スクェアの楽曲では、上述の「宝島」の他、「[オーメンズ・オブ・ラヴ](../Page/OMENS_OF_LOVE.md "wikilink")」などが同シリーズにおけるフュージョン曲の吹奏楽アレンジの主要なレパートリーの一つとして広く知られる。
 
 ## 外部リンク
 

@@ -1,19 +1,19 @@
 > この記事は[X \(\)](https://ja.wikipedia.org/wiki/X_\(\))から翻訳されています。
 
 
-『**マルコムX**』（マルコム エックス、英語: ）は、[1992年](../Page/1992年.md "wikilink")製作・公開の[アメリカ合衆国の映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")である。[スパイク・リー](https://ja.wikipedia.org/wiki/スパイク・リー "wikilink")監督。製作はマーヴィン・ワース、[スパイク・リー](https://ja.wikipedia.org/wiki/スパイク・リー "wikilink")。主演は[デンゼル・ワシントン](https://ja.wikipedia.org/wiki/デンゼル・ワシントン "wikilink")。
+『**マルコムX**』（マルコム エックス、英語: ）は、[1992年](../Page/1992年.md "wikilink")製作・公開の[アメリカ合衆国の映画](../Page/アメリカ合衆国の映画.md "wikilink")である。[スパイク・リー](../Page/スパイク・リー.md "wikilink")監督。製作はマーヴィン・ワース、[スパイク・リー](../Page/スパイク・リー.md "wikilink")。主演は[デンゼル・ワシントン](../Page/デンゼル・ワシントン.md "wikilink")。
 
 ## 概要
 
-[マルコムXが亡くなる](https://ja.wikipedia.org/wiki/マルコム・X "wikilink")2年前から緊密に連絡を取り合った上で執筆された[アレックス・ヘイリー](https://ja.wikipedia.org/wiki/アレックス・ヘイリー "wikilink")とマルコムX共著の『マルコムX自伝』をベースにしている。アレックス・ヘイリーはこの映画の製作に関わり、誰よりも完成を心待ちにしていたが完成目前に急逝している。
+[マルコムXが亡くなる](../Page/マルコム・X.md "wikilink")2年前から緊密に連絡を取り合った上で執筆された[アレックス・ヘイリー](../Page/アレックス・ヘイリー.md "wikilink")とマルコムX共著の『マルコムX自伝』をベースにしている。アレックス・ヘイリーはこの映画の製作に関わり、誰よりも完成を心待ちにしていたが完成目前に急逝している。
 
-脚色したのは、[ジェームズ・ボールドウィン](https://ja.wikipedia.org/wiki/ジェームズ・ボールドウィン "wikilink")らであり、映画製作が難航している間に彼の名義でシナリオが書籍化されたこともある。その後もこのシナリオはさまざまなライターの手を渡り、その中には[デヴィッド・マメット](https://ja.wikipedia.org/wiki/デヴィッド・マメット "wikilink")もいた。本作の映画化にあたり、初期のシナリオを使うことになったが、ボールドウィンの遺族の要望で、彼の名は伏せられた。
+脚色したのは、[ジェームズ・ボールドウィン](https://ja.wikipedia.org/wiki/ジェームズ・ボールドウィン "wikilink")らであり、映画製作が難航している間に彼の名義でシナリオが書籍化されたこともある。その後もこのシナリオはさまざまなライターの手を渡り、その中には[デヴィッド・マメット](../Page/デヴィッド・マメット.md "wikilink")もいた。本作の映画化にあたり、初期のシナリオを使うことになったが、ボールドウィンの遺族の要望で、彼の名は伏せられた。
 
 書籍化されたボールドウィンのシナリオは、アイダホ州立大学助教授のブライアン・ノーマンによって、「[クローゼット・スクリーンプレイ](https://ja.wikipedia.org/wiki/クローゼット・スクリーンプレイ "wikilink")」（[クローゼット・ドラマ](https://ja.wikipedia.org/wiki/クローゼット・ドラマ "wikilink")のような映画脚本）と呼ばれた。　
 
-[デンゼル・ワシントン](https://ja.wikipedia.org/wiki/デンゼル・ワシントン "wikilink")はこの映画で[第65回](https://ja.wikipedia.org/wiki/第65回アカデミー賞 "wikilink")[アカデミー主演男優賞](https://ja.wikipedia.org/wiki/アカデミー主演男優賞 "wikilink")にノミネートされた（受賞は『[セント・オブ・ウーマン/夢の香り](https://ja.wikipedia.org/wiki/セント・オブ・ウーマン/夢の香り "wikilink")』の[アル・パチーノ](https://ja.wikipedia.org/wiki/アル・パチーノ "wikilink")）。
+[デンゼル・ワシントン](../Page/デンゼル・ワシントン.md "wikilink")はこの映画で[第65回](https://ja.wikipedia.org/wiki/第65回アカデミー賞 "wikilink")[アカデミー主演男優賞](../Page/アカデミー主演男優賞.md "wikilink")にノミネートされた（受賞は『[セント・オブ・ウーマン/夢の香り](https://ja.wikipedia.org/wiki/セント・オブ・ウーマン/夢の香り "wikilink")』の[アル・パチーノ](../Page/アル・パチーノ.md "wikilink")）。
 
-マルコムXは、『[ドゥ・ザ・ライト・シング](../Page/ドゥ・ザ・ライト・シング_\(映画\).md "wikilink")』など、[スパイク・リー](https://ja.wikipedia.org/wiki/スパイク・リー "wikilink")の監督作品にしばしば登場する。
+マルコムXは、『[ドゥ・ザ・ライト・シング](../Page/ドゥ・ザ・ライト・シング_\(映画\).md "wikilink")』など、[スパイク・リー](../Page/スパイク・リー.md "wikilink")の監督作品にしばしば登場する。
 
 映画の公開に合わせてメイキング本『メイキング オブ マルコムX』（スパイク・リー、[ラルフ・ワイリー](https://ja.wikipedia.org/wiki/ラルフ・ワイリー "wikilink")共著、[片岡理智](https://ja.wikipedia.org/wiki/片岡理智 "wikilink")訳、[ビクター音楽産業](https://ja.wikipedia.org/wiki/ビクター音楽産業 "wikilink")、1993年、ISBN 978-4893890795）も出版された。
 
@@ -40,7 +40,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/マルコムX" title="wikilink">マルコムX</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デンゼル・ワシントン" title="wikilink">デンゼル・ワシントン</a></p></td>
+<td><p><a href="../Page/デンゼル・ワシントン.md" title="wikilink">デンゼル・ワシントン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山寺宏一" title="wikilink">山寺宏一</a></p></td>
 </tr>
 <tr class="even">
@@ -71,7 +71,7 @@
 <tr class="odd">
 <td><p>ベンジャミン2X</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジーン・ラマレ" title="wikilink">ジーン・ラマレ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柴本浩行" title="wikilink">柴本浩行</a></p></td>
+<td><p><a href="../Page/柴本浩行.md" title="wikilink">柴本浩行</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ブラザー・アール</p></td>
@@ -81,12 +81,12 @@
 <tr class="odd">
 <td><p>シドニー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アーネスト・トーマス" title="wikilink">アーネスト・トーマス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村大樹" title="wikilink">中村大樹</a></p></td>
+<td><p><a href="../Page/中村大樹.md" title="wikilink">中村大樹</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ショーティ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スパイク・リー" title="wikilink">スパイク・リー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大塚芳忠" title="wikilink">大塚芳忠</a></p></td>
+<td><p><a href="../Page/スパイク・リー.md" title="wikilink">スパイク・リー</a></p></td>
+<td><p><a href="../Page/大塚芳忠.md" title="wikilink">大塚芳忠</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ソフィア</p></td>
@@ -96,7 +96,7 @@
 <tr class="even">
 <td><p>サミー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ラリー・マッコイ" title="wikilink">ラリー・マッコイ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梅津秀行" title="wikilink">梅津秀行</a></p></td>
+<td><p><a href="../Page/梅津秀行.md" title="wikilink">梅津秀行</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Mr.クーパー</p></td>
@@ -120,17 +120,17 @@
 </tr>
 <tr class="odd">
 <td><p>ペグ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デビ・メイザー" title="wikilink">デビ・メイザー</a></p></td>
+<td><p><a href="../Page/デビ・メイザー.md" title="wikilink">デビ・メイザー</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ミス・ダン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カレン・アレン" title="wikilink">カレン・アレン</a></p></td>
+<td><p><a href="../Page/カレン・アレン.md" title="wikilink">カレン・アレン</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ギル牧師</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリストファー・プラマー" title="wikilink">クリストファー・プラマー</a></p></td>
+<td><p><a href="../Page/クリストファー・プラマー.md" title="wikilink">クリストファー・プラマー</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

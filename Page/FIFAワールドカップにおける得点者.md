@@ -1,7 +1,7 @@
 > この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
 
 
-**FIFAワールドカップにおける得点者**の項では、[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")における得点上位者および国別得点者一覧を表記する。
+**FIFAワールドカップにおける得点者**の項では、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")における得点上位者および国別得点者一覧を表記する。
 
 ## 得点上位者
 
@@ -33,7 +33,7 @@
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミロスラフ・クローゼ" title="wikilink">ミロスラフ・クローゼ</a></p></td>
+<td><p><a href="../Page/ミロスラフ・クローゼ.md" title="wikilink">ミロスラフ・クローゼ</a></p></td>
 <td></td>
 <td><p>16</p></td>
 <td><p>24</p></td>
@@ -81,7 +81,7 @@
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユルゲン・クリンスマン" title="wikilink">ユルゲン・クリンスマン</a></p></td>
+<td><p><a href="../Page/ユルゲン・クリンスマン.md" title="wikilink">ユルゲン・クリンスマン</a></p></td>
 <td></td>
 <td><p>11</p></td>
 <td><p>17</p></td>
@@ -97,7 +97,7 @@
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゲーリー・リネカー" title="wikilink">ゲーリー・リネカー</a></p></td>
+<td><p><a href="../Page/ゲーリー・リネカー.md" title="wikilink">ゲーリー・リネカー</a></p></td>
 <td></td>
 <td><p>10</p></td>
 <td><p>12</p></td>
@@ -105,7 +105,7 @@
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガブリエル・バティストゥータ" title="wikilink">ガブリエル・バティストゥータ</a></p></td>
+<td><p><a href="../Page/ガブリエル・バティストゥータ.md" title="wikilink">ガブリエル・バティストゥータ</a></p></td>
 <td></td>
 <td><p>10</p></td>
 <td><p>12</p></td>
@@ -193,7 +193,7 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カール＝ハインツ・ルンメニゲ" title="wikilink">カール＝ハインツ・ルンメニゲ</a></p></td>
+<td><p><a href="../Page/カール＝ハインツ・ルンメニゲ.md" title="wikilink">カール＝ハインツ・ルンメニゲ</a></p></td>
 <td></td>
 <td><p>9</p></td>
 <td><p>19</p></td>
@@ -249,7 +249,7 @@
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルディ・フェラー" title="wikilink">ルディ・フェラー</a></p></td>
+<td><p><a href="../Page/ルディ・フェラー.md" title="wikilink">ルディ・フェラー</a></p></td>
 <td></td>
 <td><p>8</p></td>
 <td><p>15</p></td>
@@ -339,11 +339,11 @@
       - [1990年](../Page/1990_FIFAワールドカップ.md "wikilink")／オランダ戦 71分
   - [ケヴィン・シーディー](https://ja.wikipedia.org/wiki/ケヴィン・シーディー "wikilink")
       - [1990年](../Page/1990_FIFAワールドカップ.md "wikilink")／イングランド戦 73分
-  - [ジョン・オルドリッジ](https://ja.wikipedia.org/wiki/ジョン・オルドリッジ "wikilink")
+  - [ジョン・オルドリッジ](../Page/ジョン・オルドリッジ.md "wikilink")
       - [1994年](../Page/1994_FIFAワールドカップ.md "wikilink")／メキシコ戦 84分
   - [レイ・ホートン](https://ja.wikipedia.org/wiki/レイ・ホートン "wikilink")
       - [1994年](../Page/1994_FIFAワールドカップ.md "wikilink")／イタリア戦 11分
-  - [ギャリー・ブリーン](https://ja.wikipedia.org/wiki/ギャリー・ブリーン "wikilink")
+  - [ギャリー・ブリーン](../Page/ギャリー・ブリーン.md "wikilink")
       - [2002年](../Page/2002_FIFAワールドカップ.md "wikilink")／GL サウジアラビア戦 61分
   - [ダミアン・ダフ](../Page/ダミアン・ダフ.md "wikilink")
       - [2002年](../Page/2002_FIFAワールドカップ.md "wikilink")／GL サウジアラビア戦 87分
@@ -362,7 +362,7 @@
 
 **3得点**
 
-  - [ブライアン・マクブライド](https://ja.wikipedia.org/wiki/ブライアン・マクブライド "wikilink")
+  - [ブライアン・マクブライド](../Page/ブライアン・マクブライド.md "wikilink")
       - [1998年](../Page/1998_FIFAワールドカップ.md "wikilink")／[GL](../Page/グループリーグ.md "wikilink") イラン戦 87分
       - [2002年](../Page/2002_FIFAワールドカップ.md "wikilink")／GL ポルトガル戦 36分
       - 2002年／ラウンド16 メキシコ戦 8分
@@ -482,7 +482,7 @@
 
 **1得点**
 
-  - [ジョン・チャールズ](https://ja.wikipedia.org/wiki/ジョン・チャールズ "wikilink")
+  - [ジョン・チャールズ](../Page/ジョン・チャールズ.md "wikilink")
       - [1958年](../Page/1958_FIFAワールドカップ.md "wikilink")／GL ハンガリー戦 27分
   - テリー・メドウィン
       - [1958年](../Page/1958_FIFAワールドカップ.md "wikilink")／GLプレーオフ ハンガリー戦 76分
@@ -493,13 +493,13 @@
 
   - [アンドリー・シェフチェンコ](../Page/アンドリー・シェフチェンコ.md "wikilink")
       - [2006年](../Page/2006_FIFAワールドカップ.md "wikilink")／GL サウジアラビア戦 46分
-      - 2006年／GL チュニジア戦 70分 ([PK](https://ja.wikipedia.org/wiki/ペナルティーキック "wikilink"))
+      - 2006年／GL チュニジア戦 70分 ([PK](../Page/ペナルティーキック.md "wikilink"))
 
 **1得点**
 
   - [アンドリー・ルソル](../Page/アンドリー・ルソル.md "wikilink")
       - 2006年／GL サウジアラビア戦 4分
-  - [セルゲイ・レブロフ](https://ja.wikipedia.org/wiki/セルゲイ・レブロフ "wikilink")
+  - [セルゲイ・レブロフ](../Page/セルゲイ・レブロフ.md "wikilink")
       - 2006年／GL サウジアラビア戦 36分
   - [マクシム・カリニチェンコ](https://ja.wikipedia.org/wiki/マクシム・カリニチェンコ "wikilink")
       - 2006年／GL サウジアラビア戦 84分 (PK)
@@ -538,9 +538,9 @@
 
   - [ジョン・アロイージ](../Page/ジョン・アロイージ.md "wikilink")
       - 2006年／GL 日本戦 90分
-  - [クレイグ・ムーア](https://ja.wikipedia.org/wiki/クレイグ・ムーア "wikilink")
+  - [クレイグ・ムーア](../Page/クレイグ・ムーア.md "wikilink")
       - 2006年／GL クロアチア戦 38分(PK)
-  - [ハリー・キューウェル](https://ja.wikipedia.org/wiki/ハリー・キューウェル "wikilink")
+  - [ハリー・キューウェル](../Page/ハリー・キューウェル.md "wikilink")
       - 2006年／GL クロアチア戦 79分
 
 ### オーストリア
@@ -557,8 +557,8 @@
       - 2006年／GL チェコ戦 82分
   - [ハミヌ・ドラマニ](../Page/ハミヌ・ドラマニ.md "wikilink")
       - 2006年／GL アメリカ戦 22分
-  - [スティーヴン・アッピアー](https://ja.wikipedia.org/wiki/スティーヴン・アッピアー "wikilink")
-      - 2006年／GL アメリカ戦 45+分([PK](https://ja.wikipedia.org/wiki/ペナルティーキック "wikilink"))
+  - [スティーヴン・アッピアー](../Page/スティーヴン・アッピアー.md "wikilink")
+      - 2006年／GL アメリカ戦 45+分([PK](../Page/ペナルティーキック.md "wikilink"))
 
 ### カナダ
 
@@ -572,7 +572,7 @@
 
 <!-- end list -->
 
-  - [朴智星](https://ja.wikipedia.org/wiki/朴智星 "wikilink")
+  - [朴智星](../Page/朴智星.md "wikilink")
 
 ### 北アイルランド
 
@@ -591,7 +591,7 @@
 
 **1得点**
 
-  - [ファイサル・アル＝ダヒル](https://ja.wikipedia.org/wiki/ファイサル・アル＝ダヒル "wikilink")
+  - [ファイサル・アル＝ダヒル](../Page/ファイサル・アル＝ダヒル.md "wikilink")
       - [1982年](../Page/1982_FIFAワールドカップ.md "wikilink")／チェコスロバキア戦 57分
   - [アル-ブルシ](https://ja.wikipedia.org/wiki/アル-ブルシ "wikilink")
       - [1982年](../Page/1982_FIFAワールドカップ.md "wikilink")／フランス戦 75分
@@ -600,19 +600,19 @@
 
 **6得点**
 
-  - [ダヴォール・シューケル](https://ja.wikipedia.org/wiki/ダヴォール・シューケル "wikilink")
+  - [ダヴォール・シューケル](../Page/ダヴォール・シューケル.md "wikilink")
       - [1998年](../Page/1998_FIFAワールドカップ.md "wikilink")／GL [ジャマイカ戦](../Page/サッカージャマイカ代表.md "wikilink")　69分
-      - 1998年／GL[日本戦](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")　77分
-      - 1998年／Round of 16[ルーマニア戦](../Page/サッカールーマニア代表.md "wikilink")　45＋2分　[PK](https://ja.wikipedia.org/wiki/ペナルティーキック "wikilink")
+      - 1998年／GL[日本戦](../Page/サッカー日本代表.md "wikilink")　77分
+      - 1998年／Round of 16[ルーマニア戦](../Page/サッカールーマニア代表.md "wikilink")　45＋2分　[PK](../Page/ペナルティーキック.md "wikilink")
       - 1998年／Quarter-final[ドイツ戦](../Page/サッカードイツ代表.md "wikilink")　85分
       - 1998年／Semi-final[フランス戦](../Page/サッカーフランス代表.md "wikilink")　46分
-      - 1998年／Third place match[オランダ戦](https://ja.wikipedia.org/wiki/サッカーオランダ代表 "wikilink")　35分
+      - 1998年／Third place match[オランダ戦](../Page/サッカーオランダ代表.md "wikilink")　35分
 
 **2得点**
 
-  - [ロベルト・プロシネチキ](https://ja.wikipedia.org/wiki/ロベルト・プロシネチキ "wikilink")
+  - [ロベルト・プロシネチキ](../Page/ロベルト・プロシネチキ.md "wikilink")
       - 1998年／GL[ジャマイカ戦](../Page/サッカージャマイカ代表.md "wikilink")　53分 *1990年にユーゴスラビア代表でゴールしており、個人通算2得点目*
-      - 1998年／Third place match[オランダ戦](https://ja.wikipedia.org/wiki/サッカーオランダ代表 "wikilink")　13分
+      - 1998年／Third place match[オランダ戦](../Page/サッカーオランダ代表.md "wikilink")　13分
 
 **1得点**
 
@@ -646,18 +646,18 @@
 
 <!-- end list -->
 
-  - [ニコ・コヴァチ](https://ja.wikipedia.org/wiki/ニコ・コヴァチ "wikilink")
+  - [ニコ・コヴァチ](../Page/ニコ・コヴァチ.md "wikilink")
       - 2006年／GL[オーストラリア戦](https://ja.wikipedia.org/wiki/サッカーオーストラリア代表 "wikilink")　57分
 
 ### コートジボワール
 
 **2得点**
 
-  - [アルナ・ディンダン](../Page/アルナ・ディンダン.md "wikilink") - [2006年](../Page/2006_FIFAワールドカップ.md "wikilink")／[GL](../Page/グループリーグ.md "wikilink") セルビア・モンテネグロ戦 37分 ([PK](https://ja.wikipedia.org/wiki/ペナルティーキック "wikilink")), 67分
+  - [アルナ・ディンダン](../Page/アルナ・ディンダン.md "wikilink") - [2006年](../Page/2006_FIFAワールドカップ.md "wikilink")／[GL](../Page/グループリーグ.md "wikilink") セルビア・モンテネグロ戦 37分 ([PK](../Page/ペナルティーキック.md "wikilink")), 67分
 
 **1得点**
 
-  - [ディディエ・ドログバ](https://ja.wikipedia.org/wiki/ディディエ・ドログバ "wikilink") - 2006年／GL アルゼンチン戦 82分
+  - [ディディエ・ドログバ](../Page/ディディエ・ドログバ.md "wikilink") - 2006年／GL アルゼンチン戦 82分
   - [バカリ・コネ](https://ja.wikipedia.org/wiki/バカリ・コネ "wikilink") - 2006年／GL オランダ戦 38分
   - [ボナベントゥル・カルー](../Page/ボナベントゥル・カルー.md "wikilink") - 2006年／GL セルビア・モンテネグロ戦 86分 (PK)
 
@@ -757,12 +757,12 @@
 
 **2得点**
 
-  - [トマーシュ・ロシツキー](https://ja.wikipedia.org/wiki/トマーシュ・ロシツキー "wikilink")
+  - [トマーシュ・ロシツキー](../Page/トマーシュ・ロシツキー.md "wikilink")
       - [2006年](../Page/2006_FIFAワールドカップ.md "wikilink")／GL アメリカ合衆国戦 36分、76分
 
 **1得点**
 
-  - [ヤン・コレル](https://ja.wikipedia.org/wiki/ヤン・コレル "wikilink")
+  - [ヤン・コレル](../Page/ヤン・コレル.md "wikilink")
       - [2006年](../Page/2006_FIFAワールドカップ.md "wikilink")／GL アメリカ合衆国戦 5分
 
 ### 朝鮮民主主義人民共和国（北朝鮮）
@@ -815,7 +815,7 @@
   - [本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")
       - [2010年](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")／GL カメルーン戦 39分
       - [2010年](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")／GL デンマーク戦 17分
-      - [2014年](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ "wikilink")／GL コートジボワール戦 16分
+      - [2014年](../Page/2014_FIFAワールドカップ.md "wikilink")／GL コートジボワール戦 16分
       - [2018年](../Page/2018_FIFAワールドカップ.md "wikilink")／GL セネガル戦 78分
 
 **2得点**
@@ -823,9 +823,9 @@
   - [稲本潤一](../Page/稲本潤一.md "wikilink")
       - [2002年](../Page/2002_FIFAワールドカップ.md "wikilink")／GL ベルギー戦 67分
       - [2002年](../Page/2002_FIFAワールドカップ.md "wikilink")／GL ロシア戦 51分
-  - [岡崎慎司](https://ja.wikipedia.org/wiki/岡崎慎司 "wikilink")
+  - [岡崎慎司](../Page/岡崎慎司.md "wikilink")
       - [2010年](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")／GL デンマーク戦 87分
-      - [2014年](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ "wikilink")／GL コロンビア戦 45+1分
+      - [2014年](../Page/2014_FIFAワールドカップ.md "wikilink")／GL コロンビア戦 45+1分
   - [乾貴士](../Page/乾貴士.md "wikilink")
       - [2018年](../Page/2018_FIFAワールドカップ.md "wikilink")／GL セネガル戦 34分
       - [2018年](../Page/2018_FIFAワールドカップ.md "wikilink")／ラウンド16 ベルギー戦 52分
@@ -834,7 +834,7 @@
 
   - [中山雅史](../Page/中山雅史.md "wikilink")
       - [1998年](../Page/1998_FIFAワールドカップ.md "wikilink")／GL ジャマイカ戦 74分
-  - [鈴木隆行](https://ja.wikipedia.org/wiki/鈴木隆行 "wikilink")
+  - [鈴木隆行](../Page/鈴木隆行.md "wikilink")
       - [2002年](../Page/2002_FIFAワールドカップ.md "wikilink")／GL ベルギー戦 59分
   - [森島寛晃](../Page/森島寛晃.md "wikilink")
       - [2002年](../Page/2002_FIFAワールドカップ.md "wikilink")／GL チュニジア戦 48分
@@ -842,11 +842,11 @@
       - [2002年](../Page/2002_FIFAワールドカップ.md "wikilink")／GL チュニジア戦 75分
   - [中村俊輔](https://ja.wikipedia.org/wiki/中村俊輔 "wikilink")
       - [2006年](../Page/2006_FIFAワールドカップ.md "wikilink")／GL オーストラリア戦 26分
-  - [玉田圭司](https://ja.wikipedia.org/wiki/玉田圭司 "wikilink")
+  - [玉田圭司](../Page/玉田圭司.md "wikilink")
       - [2006年](../Page/2006_FIFAワールドカップ.md "wikilink")／GL ブラジル戦 34分
-  - [遠藤保仁](https://ja.wikipedia.org/wiki/遠藤保仁 "wikilink")
+  - [遠藤保仁](../Page/遠藤保仁.md "wikilink")
       - [2010年](https://ja.wikipedia.org/wiki/2010_FIFAワールドカップ "wikilink")／GL デンマーク戦 30分
-  - [香川真司](https://ja.wikipedia.org/wiki/香川真司 "wikilink")
+  - [香川真司](../Page/香川真司.md "wikilink")
       - [2018年](../Page/2018_FIFAワールドカップ.md "wikilink")／GL コロンビア戦 6分
   - [大迫勇也](https://ja.wikipedia.org/wiki/大迫勇也 "wikilink")
       - [2018年](../Page/2018_FIFAワールドカップ.md "wikilink")／GL コロンビア戦 73分
@@ -922,7 +922,7 @@
 
 **6得点**
 
-  - [ベベット](https://ja.wikipedia.org/wiki/ジョゼ・ロベルト・ガマ・デ・オリベイラ "wikilink")
+  - [ベベット](../Page/ジョゼ・ロベルト・ガマ・デ・オリベイラ.md "wikilink")
   - [ロベルト・リベリーノ](../Page/ロベルト・リベリーノ.md "wikilink")
 
 **5得点**
@@ -942,12 +942,12 @@
   - [バウタザール](https://ja.wikipedia.org/wiki/オスバウド・ダ・シウバ "wikilink")
   - [ジジ](../Page/ヴァルディール・ペレイラ.md "wikilink")
   - [ジルセウ・ロペス](https://ja.wikipedia.org/wiki/ジルセウ・ロペス・メンデス "wikilink")
-  - [パウロ・ロベルト・ファルカン](https://ja.wikipedia.org/wiki/パウロ・ロベルト・ファルカン "wikilink")
+  - [パウロ・ロベルト・ファルカン](../Page/パウロ・ロベルト・ファルカン.md "wikilink")
   - [ジョゼ・ペラーシオ](https://ja.wikipedia.org/wiki/ジョゼ・ペラーシオ "wikilink")
   - [プレギーニョ](https://ja.wikipedia.org/wiki/プレギーニョ "wikilink")
   - [ロベルト・ディナミッチ](https://ja.wikipedia.org/wiki/ロベルト・ディナミッチ "wikilink")
   - [ロメウ](https://ja.wikipedia.org/wiki/ロメウ "wikilink")
-  - [セザール・サンパイオ](https://ja.wikipedia.org/wiki/セザール・サンパイオ "wikilink")
+  - [セザール・サンパイオ](../Page/セザール・サンパイオ.md "wikilink")
   - [トスタン](../Page/トスタン.md "wikilink")
 
 **2得点**
@@ -1007,7 +1007,7 @@
   - アントニオ・レイン
       - [1982年](../Page/1982_FIFAワールドカップ.md "wikilink")／GL 北アイルランド戦 60分
   - カルロ・コストリー
-      - [2014年](https://ja.wikipedia.org/wiki/2014_FIFAワールドカップ "wikilink")／GL エクアドル戦 31分
+      - [2014年](../Page/2014_FIFAワールドカップ.md "wikilink")／GL エクアドル戦 31分
 
 ### ルーマニア
 

@@ -7,7 +7,7 @@
 
 2003年「BE×BOY GOLD」8月号に掲載された後、2004年6月号から同年10月号まで連載された。その後、描き下ろしも収録したコミックスが2005年3月10日に発行された。
 
-持ち主の愛情を反映して成長する不思議な人形・**ハイブリッドチャイルド**を巡る、短編3作からなる[オムニバス](../Page/オムニバス.md "wikilink")形式の純愛物語であり、[マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")から[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")も発売されている。
+持ち主の愛情を反映して成長する不思議な人形・**ハイブリッドチャイルド**を巡る、短編3作からなる[オムニバス](../Page/オムニバス.md "wikilink")形式の純愛物語であり、[マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")から[ドラマCD](../Page/ドラマCD.md "wikilink")も発売されている。
 
 ## あらすじ
 
@@ -22,22 +22,22 @@
 ※担当[声優](../Page/声優.md "wikilink")は、ドラマCD版 / OVA版の順。
 
   - 和泉小太郎（いずみ こたろう）
-    声 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink") / [岡本信彦](https://ja.wikipedia.org/wiki/岡本信彦 "wikilink")\[1\]、幼少 - [岩崎愛](https://ja.wikipedia.org/wiki/岩崎愛_\(声優\) "wikilink")
+    声 - [福山潤](../Page/福山潤.md "wikilink") / [岡本信彦](../Page/岡本信彦.md "wikilink")\[1\]、幼少 - [岩崎愛](https://ja.wikipedia.org/wiki/岩崎愛_\(声優\) "wikilink")
     名門・和泉家の御曹司にして16代目当主である、第1話の主人公。当主としてはまだまだ出来が悪く怠け者で、葉月に小言を言われる日々を送っている。葉月とは8歳の時からずっと一緒であり、本心では彼を大切に思っている。
   - 葉月（はづき）
-    声 - [鳥海浩輔](https://ja.wikipedia.org/wiki/鳥海浩輔 "wikilink")、幼少 - [近野真昼](../Page/近野真昼.md "wikilink") / [平川大輔](https://ja.wikipedia.org/wiki/平川大輔 "wikilink")\[2\]
+    声 - [鳥海浩輔](../Page/鳥海浩輔.md "wikilink")、幼少 - [近野真昼](../Page/近野真昼.md "wikilink") / [平川大輔](../Page/平川大輔.md "wikilink")\[2\]
     小太郎と10年間一緒にいるハイブリッドチャイルド。第1話の主人公（2人目）。有能かつ冷静沈着で、小太郎を日々厳しく指導するお目付け役。動き出すのに5年、言葉を話すのに1年半かかった型版**0001**の旧式タイプ。拾われた当時はボロボロの状態だったため、体裁を重んじた和泉家の家人に3回も捨てられ、その度に小太郎によって拾い戻されてきた。自身がじきに動かなくなることを冷静に受け止め、自分を救おうと必死になる小太郎を諌める。
   - 黒田（くろだ）
-    声 - [井上和彦](../Page/井上和彦_\(声優\).md "wikilink")、幼少 - [早水リサ](https://ja.wikipedia.org/wiki/早水リサ "wikilink") / [小野友樹](../Page/小野友樹.md "wikilink")、幼少 - [丸山ナオミ](https://ja.wikipedia.org/wiki/丸山ナオミ "wikilink")
+    声 - [井上和彦](../Page/井上和彦_\(声優\).md "wikilink")、幼少 - [早水リサ](../Page/早水リサ.md "wikilink") / [小野友樹](../Page/小野友樹.md "wikilink")、幼少 - [丸山ナオミ](https://ja.wikipedia.org/wiki/丸山ナオミ "wikilink")
     本作品の実質的主人公。全ハイブリッドチャイルドの生みの親で、普段は薄暗い実験室に篭もり研究に明け暮れている人形師。かつてはとある藩に仕えていたカラクリ好きの武官であったが、月島の死後ハイブリッドチャイルドの製作に打ち込む（その数は現在3000体以上。型番の数字が上がるほど、持ち主にとって扱いやすくなっていく）。葉月の外見だけでなく、中身も人間に近い風貌の変化に驚いている。
   - ゆず
-    声 - [宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink") / [代永翼](../Page/代永翼.md "wikilink")\[3\]
-    少年型のハイブリッドチャイルドで、第2話の主人公。壱を心から慕っている。純真無垢かつ明るい性格な一方、自分がなかなか成長しないことに悩んでいた。[カステイラが大好物](https://ja.wikipedia.org/wiki/カステラ "wikilink")。最近[春画本をこっそり読んでいる様子](https://ja.wikipedia.org/wiki/エロ本 "wikilink")。
+    声 - [宮田幸季](../Page/宮田幸季.md "wikilink") / [代永翼](../Page/代永翼.md "wikilink")\[3\]
+    少年型のハイブリッドチャイルドで、第2話の主人公。壱を心から慕っている。純真無垢かつ明るい性格な一方、自分がなかなか成長しないことに悩んでいた。[カステイラが大好物](https://ja.wikipedia.org/wiki/カステラ "wikilink")。最近[春画本をこっそり読んでいる様子](../Page/エロ本.md "wikilink")。
   - 瀬谷壱（せや いち）
     声 - [木村良平](../Page/木村良平.md "wikilink")
     ゆずの主人で、かつては黒田と同じ藩に仕えていた元武官。優しく穏やかで誰からも好かれており、ゆずのことも大事に想い慈しんでいる。黒田とは付き合いの長い友人同士でもある。ある日突然、刺客に襲われて失明する。
   - 月島（つきしま）
-    声 - [緑川光](../Page/緑川光.md "wikilink")、幼少 - [升望](https://ja.wikipedia.org/wiki/升望 "wikilink") / [松岡禎丞](https://ja.wikipedia.org/wiki/松岡禎丞 "wikilink")、幼少 - [木村繭](https://ja.wikipedia.org/wiki/木村繭 "wikilink")
+    声 - [緑川光](../Page/緑川光.md "wikilink")、幼少 - [升望](../Page/升望.md "wikilink") / [松岡禎丞](https://ja.wikipedia.org/wiki/松岡禎丞 "wikilink")、幼少 - [木村繭](https://ja.wikipedia.org/wiki/木村繭 "wikilink")
     黒田と瀬谷の幼馴染（※しかも同い年）で、2人が勤めていた藩の家老。第3話のキーパーソン。黒田が製作するハイブリッドチャイルドのモデル。普段少々幼いが、いざという時には芯が強い性格。黒田とは憎まれ口を叩くばかりだったものの、彼とは両想いであり、御一新の際に責任をもって切腹する。甘党で、中村屋のひよこまんじゅうが大好物。
 
 ## OVA
@@ -58,9 +58,9 @@
   - 編集 - 松村正宏
   - 音響監督 - [たなかかずや](../Page/たなかかずや.md "wikilink")
   - 音楽 - [安瀬聖](../Page/安瀬聖.md "wikilink")
-  - 音楽制作 - [ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")
+  - 音楽制作 - [ランティス](../Page/ランティス.md "wikilink")
   - プロデューサー - 河本紗知、大貫一雄、櫻井優香、浦崎宣光
-  - アニメーション制作 - [スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")
+  - アニメーション制作 - [スタジオディーン](../Page/スタジオディーン.md "wikilink")
 
 ### 主題歌
 
@@ -108,7 +108,7 @@
 <td><p>第3巻</p></td>
 <td><p>夏草のにおい 白雲の風 ひとりと ひとりと ひとり――</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/桑畑絹子" title="wikilink">桑畑絹子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/望月智充" title="wikilink">望月智充</a></p></td>
+<td><p><a href="../Page/望月智充.md" title="wikilink">望月智充</a></p></td>
 <td><p>福田道生</p></td>
 <td><p>中本尚、手島勇人<br />
 荒木弥緒</p></td>

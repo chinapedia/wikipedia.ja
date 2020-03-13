@@ -1,7 +1,7 @@
 > この記事は[Microsoft Combat Flight Simulator](https://ja.wikipedia.org/wiki/Microsoft_Combat_Flight_Simulator)から翻訳されています。
 
 
-**Microsoft Combat Flight Simulator**（マイクロソフトコンバットフライトシミュレータ）は、[Microsoftが開発しているコンバット](../Page/マイクロソフト.md "wikilink")[フライトシミュレーション](../Page/フライトシミュレーション.md "wikilink")ゲーム。 [Microsoft Flight Simulatorがベース](../Page/Microsoft_Flight_Simulator.md "wikilink")。Microsoft Flight Simulatorが[旅客機](../Page/旅客機.md "wikilink")や[セスナ](../Page/セスナ.md "wikilink")などの民間機を[操縦](https://ja.wikipedia.org/wiki/操縦 "wikilink")するのに対し、こちらは主に[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")における[航空戦](https://ja.wikipedia.org/wiki/航空戦 "wikilink")を扱い、[戦闘](../Page/戦闘.md "wikilink")を行う。Microsoft Flight Simulatorと同様にアドオンが豊富である。略称は「CFS」など。
+**Microsoft Combat Flight Simulator**（マイクロソフトコンバットフライトシミュレータ）は、[Microsoftが開発しているコンバット](../Page/マイクロソフト.md "wikilink")[フライトシミュレーション](../Page/フライトシミュレーション.md "wikilink")ゲーム。 [Microsoft Flight Simulatorがベース](../Page/Microsoft_Flight_Simulator.md "wikilink")。Microsoft Flight Simulatorが[旅客機](../Page/旅客機.md "wikilink")や[セスナ](../Page/セスナ.md "wikilink")などの民間機を[操縦](../Page/操縦.md "wikilink")するのに対し、こちらは主に[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")における[航空戦](../Page/航空戦.md "wikilink")を扱い、[戦闘](../Page/戦闘.md "wikilink")を行う。Microsoft Flight Simulatorと同様にアドオンが豊富である。略称は「CFS」など。
 
 ## シリーズ
 
@@ -10,8 +10,8 @@
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月13日](../Page/11月13日.md "wikilink")発売。
 
 [ヨーロッパ戦線](../Page/ヨーロッパ戦線.md "wikilink")が舞台。ベースシステムは[Microsoft Flight Simulator 98](https://ja.wikipedia.org/wiki/Microsoft_Flight_Simulator#Flight_Simulator_98 "wikilink")。インターネットが普及し始めたこともあり、ネット対戦が盛んに行われていた。それまで、レシプロ戦闘機によるネット対戦が可能なゲームは課金制のもの（[Air Warriorや](../Page/Air_Warrior.md "wikilink")[WarBirds](../Page/WarBirds.md "wikilink")、[Flying Circus](https://ja.wikipedia.org/wiki/Flying_Circus "wikilink")）であり、ほとんどが日本語化されていなかったため多くのプレイヤーがこのゲームでレシプロ機の対戦を楽しんだ。
-問題点としては、[P-51Dが異常に高性能に設定されていたため](https://ja.wikipedia.org/wiki/P-51_\(航空機\) "wikilink")、ほとんどP-51Dだけでの対戦になってしまっていたこと、撃墜されると上空から再出撃になるため、わざと低高度でやられて上空から襲いかかるといったプレイや最後に1発でも当てたプレイヤーにスコアが加算されるシステムであったため、墜落確実な敵にプレイヤーが群がってしまうなどといったものがあげられる。
-さらに[チート](https://ja.wikipedia.org/wiki/チート "wikilink")に対して有効な対策が取れなかったことなどから、後継ソフトの発売に伴い廃れていった。
+問題点としては、[P-51Dが異常に高性能に設定されていたため](../Page/P-51_\(航空機\).md "wikilink")、ほとんどP-51Dだけでの対戦になってしまっていたこと、撃墜されると上空から再出撃になるため、わざと低高度でやられて上空から襲いかかるといったプレイや最後に1発でも当てたプレイヤーにスコアが加算されるシステムであったため、墜落確実な敵にプレイヤーが群がってしまうなどといったものがあげられる。
+さらに[チート](../Page/チート.md "wikilink")に対して有効な対策が取れなかったことなどから、後継ソフトの発売に伴い廃れていった。
 
 #### 操縦できる航空機
 
@@ -21,7 +21,7 @@
   - [メッサーシュミット Bf 109E](../Page/メッサーシュミット_Bf109.md "wikilink")
   - スーパーマリン スピットファイア Mk. IX
   - メッサーシュミット Bf 109G
-  - [リパブリック P-47D サンダーボルト](https://ja.wikipedia.org/wiki/P-47_\(航空機\) "wikilink")
+  - [リパブリック P-47D サンダーボルト](../Page/P-47_\(航空機\).md "wikilink")
   - ノースアメリカン P-51D ムスタング
 
 ### Microsoft Combat Flight Simulator 2
@@ -35,10 +35,10 @@
   - [三菱 A6M2 (21 型) 零戦 (零式戦闘機) "ジーク"](https://ja.wikipedia.org/wiki/零式艦上戦闘機 "wikilink") (旧日本海軍)
   - 三菱 A6M5 (52 型) 零戦 (零式戦闘機) "ジーク" (旧日本海軍)
   - [川西 N1K2-J 局地戦闘機 紫電改 "ジョージ"](../Page/紫電改.md "wikilink") (旧日本海軍)
-  - [グラマン F4F-4 ワイルドキャット艦上戦闘機](https://ja.wikipedia.org/wiki/F4F_\(航空機\) "wikilink") (米海軍)
-  - [グラマン F6F-3 ヘルキャット艦上戦闘機](https://ja.wikipedia.org/wiki/F6F_\(航空機\) "wikilink") (米海軍)
+  - [グラマン F4F-4 ワイルドキャット艦上戦闘機](../Page/F4F_\(航空機\).md "wikilink") (米海軍)
+  - [グラマン F6F-3 ヘルキャット艦上戦闘機](../Page/F6F_\(航空機\).md "wikilink") (米海軍)
   - [ロッキード P-38F ライトニング戦闘機](../Page/P-38_\(航空機\).md "wikilink") (米陸軍航空軍)
-  - [ボート F4U-1A コルセア戦闘機](https://ja.wikipedia.org/wiki/F4U_\(航空機\) "wikilink") (米海軍、米海兵隊)
+  - [ボート F4U-1A コルセア戦闘機](../Page/F4U_\(航空機\).md "wikilink") (米海軍、米海兵隊)
 
 ### Microsoft Combat Flight Simulator 3
 
@@ -52,20 +52,20 @@
   - P-47D, D-25 サンダーボルト
   - P-38J, L ライトニング
   - [B-26C, G マローダー](../Page/B-26_\(航空機\).md "wikilink")
-  - [P-80A シューティング スター](https://ja.wikipedia.org/wiki/F-80_\(戦闘機\) "wikilink") (JET)
+  - [P-80A シューティング スター](../Page/F-80_\(戦闘機\).md "wikilink") (JET)
   - [(X) P-55 アセンダー](../Page/XP-55_\(航空機\).md "wikilink")
-  - [タイフーン IB](https://ja.wikipedia.org/wiki/ホーカー_タイフーン "wikilink")
-  - [テンペスト V](https://ja.wikipedia.org/wiki/ホーカー_テンペスト "wikilink")
+  - [タイフーン IB](../Page/ホーカー_タイフーン.md "wikilink")
+  - [テンペスト V](../Page/ホーカー_テンペスト.md "wikilink")
   - スピットファイヤ LF Mk. IXC, E
   - [モスキート B Mk. IV, FB Mk. VI, FB Mk. XVIII](../Page/デ・ハビランド_モスキート.md "wikilink")
   - [B-25C, H, J ミッチェル](../Page/B-25_\(航空機\).md "wikilink")
-  - [デ・ハビランド バンパイヤ F Mk.I](https://ja.wikipedia.org/wiki/デ・ハビランド_バンパイア "wikilink") (JET)
+  - [デ・ハビランド バンパイヤ F Mk.I](../Page/デ・ハビランド_バンパイア.md "wikilink") (JET)
   - メッサーシュミット Bf109G-6, G-10
   - フォッケウルフ Fw190A-5, A-8
-  - [ユンカース Ju88A-4, C-6, P-4](https://ja.wikipedia.org/wiki/Ju_88_\(航空機\) "wikilink")
+  - [ユンカース Ju88A-4, C-6, P-4](../Page/Ju_88_\(航空機\).md "wikilink")
   - [メッサーシュミット Me262A-1a,A-1a/U4, A-2a](https://ja.wikipedia.org/wiki/メッサーシュミットMe262 "wikilink") (JET)
-  - [ドルニエ Do335A-1, B-2 プファイル](https://ja.wikipedia.org/wiki/ドルニエDo335 "wikilink")
-  - [ゴータ Go229](https://ja.wikipedia.org/wiki/ホルテン_Ho229 "wikilink") (JET)
+  - [ドルニエ Do335A-1, B-2 プファイル](../Page/ドルニエDo335.md "wikilink")
+  - [ゴータ Go229](../Page/ホルテン_Ho229.md "wikilink") (JET)
 
 ## アドオンソフトについて
 
@@ -102,7 +102,7 @@
   - 蒼きウル コンバットフライトシミュレータ プレーン&ミッションモジュール 2（GAINAX）
   - Bihind Enemy Lines（[Abacus](https://ja.wikipedia.org/wiki/Abacus "wikilink")）
   - TUSKEGEE FIGHTERS（Abacus）
-  - [Luftwaffe](https://ja.wikipedia.org/wiki/ドイツ空軍 "wikilink") Collection（[The Associates](https://ja.wikipedia.org/wiki/The_Associates "wikilink")）- 「Luftwaffe」を名乗っていなかった[ドイツ帝国陸軍航空隊](https://ja.wikipedia.org/wiki/ドイツ帝国陸軍航空隊 "wikilink")(Deutsches Luftstreitkräfte) や[国家人民軍航空軍](https://ja.wikipedia.org/wiki/ドイツ空軍_\(国家人民軍\) "wikilink")(Luftstreitkräfte) の機体も収録している。
+  - [Luftwaffe](../Page/ドイツ空軍.md "wikilink") Collection（[The Associates](https://ja.wikipedia.org/wiki/The_Associates "wikilink")）- 「Luftwaffe」を名乗っていなかった[ドイツ帝国陸軍航空隊](https://ja.wikipedia.org/wiki/ドイツ帝国陸軍航空隊 "wikilink")(Deutsches Luftstreitkräfte) や[国家人民軍航空軍](https://ja.wikipedia.org/wiki/ドイツ空軍_\(国家人民軍\) "wikilink")(Luftstreitkräfte) の機体も収録している。
 
 ### Microsoft Combat Flight Simulator 2 アドオンソフト
 
@@ -112,7 +112,7 @@
       - 1 珊瑚海・雷撃隊
       - 2 海軍迎撃隊
       - 3 太平洋機動部隊 パールハーバー・ミッドウェイ作​戦
-  - 闘いの翼（[アルファプロジェクト](https://ja.wikipedia.org/wiki/アルファプロジェクト "wikilink")） - [ダウンロード販売版「デジタルプラモデルシリーズ」](http://n.shop.vector.co.jp/service/list/maker/SA009262/index.html)は、パッケージ版で一括収録していた三機種（[飛燕](../Page/三式戦闘機.md "wikilink")、[雷電](https://ja.wikipedia.org/wiki/雷電_\(航空機\) "wikilink")、[彗星](https://ja.wikipedia.org/wiki/彗星_\(航空機\) "wikilink")）機体データがバラ売りとなっている（同じくパッケージ版に収録していたミッション・シナリオ収録有無は調査中）。[公式HP](http://www.apnet.co.jp/software/wings.html)
+  - 闘いの翼（[アルファプロジェクト](https://ja.wikipedia.org/wiki/アルファプロジェクト "wikilink")） - [ダウンロード販売版「デジタルプラモデルシリーズ」](http://n.shop.vector.co.jp/service/list/maker/SA009262/index.html)は、パッケージ版で一括収録していた三機種（[飛燕](../Page/三式戦闘機.md "wikilink")、[雷電](../Page/雷電_\(航空機\).md "wikilink")、[彗星](https://ja.wikipedia.org/wiki/彗星_\(航空機\) "wikilink")）機体データがバラ売りとなっている（同じくパッケージ版に収録していたミッション・シナリオ収録有無は調査中）。[公式HP](http://www.apnet.co.jp/software/wings.html)
   - [MiG-21](https://ja.wikipedia.org/wiki/MiG-21 "wikilink") Interceptor（Just Flight）
   - [BATTLE of BRITAIN](../Page/バトル・オブ・ブリテン.md "wikilink") Memorial Flight（Just Flight）
   - [The Dam Busters](https://ja.wikipedia.org/wiki/イギリス空軍#軍団 "wikilink")（Just Flight）

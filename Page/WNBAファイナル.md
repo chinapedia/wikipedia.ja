@@ -1,7 +1,7 @@
 > この記事は[WNBA](https://ja.wikipedia.org/wiki/WNBA)から翻訳されています。
 
 
-**WNBAファイナル**は北米の[バスケットボール](../Page/バスケットボール.md "wikilink")リーグ[WNBA](https://ja.wikipedia.org/wiki/WNBA "wikilink")でそのシーズンのイースタン・カンファレスとウェスタン・カンファレンスの王者が対決してチャンピオンを決定するシリーズ。プレーオフの締めくくりであり、シーズン最後のイベントでもある。[NBAファイナル](https://ja.wikipedia.org/wiki/NBAファイナル "wikilink")とは違い、5回戦制で先に3勝先取でチャンピオンとなる。
+**WNBAファイナル**は北米の[バスケットボール](../Page/バスケットボール.md "wikilink")リーグ[WNBA](https://ja.wikipedia.org/wiki/WNBA "wikilink")でそのシーズンのイースタン・カンファレスとウェスタン・カンファレンスの王者が対決してチャンピオンを決定するシリーズ。プレーオフの締めくくりであり、シーズン最後のイベントでもある。[NBAファイナル](../Page/NBAファイナル.md "wikilink")とは違い、5回戦制で先に3勝先取でチャンピオンとなる。
 
 ## 歴代成績
 
@@ -15,8 +15,8 @@
 | [2002年](../Page/2002年.md "wikilink")                    | **ロサンゼルス・スパークス**                                                          | 2-0   | ニューヨーク・リバティ                                                                   | リサ・レスリー                                                               |
 | [2003年](../Page/2003年.md "wikilink")                    | **[デトロイト・ショック](https://ja.wikipedia.org/wiki/デトロイト・ショック "wikilink")**     | 2-1   | ロサンゼルス・スパークス                                                                  | [ルース・ライリー](https://ja.wikipedia.org/wiki/ルース・ライリー "wikilink")         |
 | [2004年](../Page/2004年.md "wikilink")                    | **[シアトル・ストーム](https://ja.wikipedia.org/wiki/シアトル・ストーム "wikilink")**       | 2-1   | [コネティカット・サン](https://ja.wikipedia.org/wiki/コネティカット・サン "wikilink")             | [ベティ・レノックス](https://ja.wikipedia.org/wiki/ベティ・レノックス "wikilink")       |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | **[サクラメント・モナークス](https://ja.wikipedia.org/wiki/サクラメント・モナークス "wikilink")** | 3-1   | コネティカット・サン                                                                    | [ヨランダ・グリフィス](https://ja.wikipedia.org/wiki/ヨランダ・グリフィス "wikilink")     |
-| [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") | **デトロイト・ショック**                                                            | 3-2   | サクラメント・モナークス                                                                  | [ディアナ・ノーラン](https://ja.wikipedia.org/wiki/ディアナ・ノーラン "wikilink")       |
+| [2005年](../Page/2005年.md "wikilink")                    | **[サクラメント・モナークス](https://ja.wikipedia.org/wiki/サクラメント・モナークス "wikilink")** | 3-1   | コネティカット・サン                                                                    | [ヨランダ・グリフィス](https://ja.wikipedia.org/wiki/ヨランダ・グリフィス "wikilink")     |
+| [2006年](../Page/2006年.md "wikilink")                    | **デトロイト・ショック**                                                            | 3-2   | サクラメント・モナークス                                                                  | [ディアナ・ノーラン](https://ja.wikipedia.org/wiki/ディアナ・ノーラン "wikilink")       |
 | [2007年](../Page/2007年.md "wikilink")                    | **フェニックス・マーキュリー**                                                         | 3-2   | デトロイト・ショック                                                                    | [キャピー・ポンデクスター](https://ja.wikipedia.org/wiki/キャピー・ポンデクスター "wikilink") |
 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | **デトロイト・ショック**                                                            | 3-0   | [サンアントニオ・シルバースターズ](https://ja.wikipedia.org/wiki/サンアントニオ・シルバースターズ "wikilink") | [ケイティ・スミス](https://ja.wikipedia.org/wiki/ケイティ・スミス "wikilink")         |
 | [2009年](../Page/2009年.md "wikilink")                    | **フェニックス・マーキュリー**                                                         | 3-2   | [インディアナ・フィーバー](https://ja.wikipedia.org/wiki/インディアナ・フィーバー "wikilink")         | [ダイアナ・トーラジ](https://ja.wikipedia.org/wiki/ダイアナ・トーラジ "wikilink")       |

@@ -1,7 +1,7 @@
 > この記事は[Fried Pride](https://ja.wikipedia.org/wiki/Fried_Pride)から翻訳されています。
 
 
-**Fried Pride**（フライド・プライド）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ジャズ](../Page/ジャズ.md "wikilink")・[デュオ](../Page/デュオ.md "wikilink") [ユニット](../Page/ユニット.md "wikilink")。[ホリプロ](../Page/ホリプロ.md "wikilink")所属。2001年日本の[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[コンコード・レコード](../Page/コンコード・レコード.md "wikilink")よりデビュー。[ソウル](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ポップスなども取り入れて活動していた](../Page/ポピュラー音楽.md "wikilink")。
+**Fried Pride**（フライド・プライド）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ジャズ](../Page/ジャズ.md "wikilink")・[デュオ](../Page/デュオ.md "wikilink") [ユニット](../Page/ユニット.md "wikilink")。[ホリプロ](../Page/ホリプロ.md "wikilink")所属。2001年日本の[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[コンコード・レコード](../Page/コンコード・レコード.md "wikilink")よりデビュー。[ソウル](../Page/ソウルミュージック.md "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[ポップスなども取り入れて活動していた](../Page/ポピュラー音楽.md "wikilink")。
 
 ## メンバー
 
@@ -44,7 +44,7 @@
 
   - [リバーサイドホテル](https://ja.wikipedia.org/wiki/リバーサイドホテル "wikilink")
   - [RIDE ON TIME](https://ja.wikipedia.org/wiki/RIDE_ON_TIME_\(山下達郎の曲\)#「RIDE_ON_TIME」カヴァー "wikilink")
-  - [君の瞳に恋してる](https://ja.wikipedia.org/wiki/君の瞳に恋してる "wikilink")
+  - [君の瞳に恋してる](../Page/君の瞳に恋してる.md "wikilink")
 
 ## 脚注
 

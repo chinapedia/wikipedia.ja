@@ -9,9 +9,9 @@
   - Eyesと同じように時刻を知らせるジングルはあるが、かつての[good morning\! That's wakeman show](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")（以下、ウェイクマン）のような英語のコメント（「The time is now ○○ AM.」）である。その後、石川からも時刻アナウンスがあり、スタジオのある東京半蔵門からの空の様子を言う事が多かった。
   - WAKE UP NEWS・おはようSMAP以外のニュース、天気、交通情報等は、TFM報道・情報センターの（田畑）キャスターが読み、担当キャスターへの渡しコメントのみ石川が読み上げた。
     なお、石川と報道・情報センターのキャスターとのやり取りは番組内では少なく、7時台のSports Nonfictionのスポーツヘッドライン以外では2人のやり取りはあまりなかった。
-  - ネット局ではウェイクマン同様、7:00まではB2プログラムとなっており、7時台の全国ネットパート（Aラインネットに該当する時間帯）が終わると各局の朝ワイド番組もしくはJFNC制作のB1プログラム[オープン・セサミや](https://ja.wikipedia.org/wiki/Open_Sesame! "wikilink")[アプローズ～週末の主役達へ～を放送するため](https://ja.wikipedia.org/wiki/Applause!～週末の主役達へ～ "wikilink")、区切りをつけるために7時台以降の全国ネット部分では時刻を知らせるジングルを差し替える局があった。（おもに、JFN共通ジングルか各放送局独自のジングルに差し替えられた。）ラインネットに関しては[JFNラインネット番組](../Page/JFNラインネット番組.md "wikilink")を参照。
+  - ネット局ではウェイクマン同様、7:00まではB2プログラムとなっており、7時台の全国ネットパート（Aラインネットに該当する時間帯）が終わると各局の朝ワイド番組もしくはJFNC制作のB1プログラム[オープン・セサミや](../Page/Open_Sesame!.md "wikilink")[アプローズ～週末の主役達へ～を放送するため](https://ja.wikipedia.org/wiki/Applause!～週末の主役達へ～ "wikilink")、区切りをつけるために7時台以降の全国ネット部分では時刻を知らせるジングルを差し替える局があった。（おもに、JFN共通ジングルか各放送局独自のジングルに差し替えられた。）ラインネットに関しては[JFNラインネット番組](../Page/JFNラインネット番組.md "wikilink")を参照。
   - 前番組と違い、リスナーからのFAXやメールを多く紹介していた。ただし、TFMローカルの時間帯に地方のリスナーから届いたメールを紹介することがかなりあった\[1\]。
-  - BGMに[キリンジ](https://ja.wikipedia.org/wiki/キリンジ "wikilink")の楽曲を[インストゥルメンタルで多く使用していた](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+  - BGMに[キリンジ](../Page/キリンジ.md "wikilink")の楽曲を[インストゥルメンタルで多く使用していた](../Page/器楽曲.md "wikilink")。
   - 同時間前番組の[Eyes on Japanが出演者との兼ね合いから半年で終わったため](../Page/Eyes_on_Japan.md "wikilink")、[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に番組宛に「半年で終わるのですか?」や「半年で終わらないで下さい。」などといった内容のお便りが多数届いた。
   - 最終日は、メール・FAXに加えて、留守番電話を受付け、リスナーの生の声を放送時間中随時放送した。
   - 番組で行なわれた｢プロジェクト｣が複数あり、右上画像の｢飛行船プロジェクト｣のほかに、アフガニスタンの子供たちに“色を贈る”｢レインボープロジェクト｣のような、当番組が終了してからもなお継続したものもある。
@@ -31,7 +31,7 @@
 
 ### メインパーソナリティ
 
-  - [石川實](https://ja.wikipedia.org/wiki/石川實 "wikilink")
+  - [石川實](../Page/石川實.md "wikilink")
 
 ### 代理
 
@@ -134,29 +134,29 @@
   - 6:15 （T）SKY Connection
       -
         毎週金曜日は[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")に在住する元TOKYO FMアナウンサーの[柴田玲](../Page/柴田玲.md "wikilink")と中継を結んでハワイの話題を放送。
-  - 6:25 SKY Weather Report（TFMは[おはようSMAP](https://ja.wikipedia.org/wiki/おはようSMAP "wikilink")を放送）
+  - 6:25 SKY Weather Report（TFMは[おはようSMAP](../Page/おはようSMAP.md "wikilink")を放送）
       -
-        全国の天気。[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")で報道情報センターのキャスターが進行。[日本気象協会](https://ja.wikipedia.org/wiki/日本気象協会 "wikilink")の[気象予報士](../Page/気象予報士.md "wikilink")と電話をつないで全国の天気予報を伝える。おはようSMAPについては該当項を参照。
+        全国の天気。[裏送り](../Page/裏送り.md "wikilink")で報道情報センターのキャスターが進行。[日本気象協会](../Page/日本気象協会.md "wikilink")の[気象予報士](../Page/気象予報士.md "wikilink")と電話をつないで全国の天気予報を伝える。おはようSMAPについては該当項を参照。
   - 6:30 （T）CHECK ON NEWS
       -
         ニュース
   - **6:40 [コスモアースコンシャスアクト～ずっと地球で暮らそう](https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。 "wikilink")**
   - 6:45 （T）－届いたメール・FAXを紹介し、1曲流す－（TFMでは6:49から交通情報を放送）
-  - 6:50 [カラダがよろこぶ朝ごはん](../Page/カラダがよろこぶ朝ごはん.md "wikilink")（一部地域で放送なし／TFMのみ[マルコメ](https://ja.wikipedia.org/wiki/マルコメ "wikilink")提供）
+  - 6:50 [カラダがよろこぶ朝ごはん](../Page/カラダがよろこぶ朝ごはん.md "wikilink")（一部地域で放送なし／TFMのみ[マルコメ](../Page/マルコメ.md "wikilink")提供）
       -
         おいしくてヘルシーな朝食のレシピを紹介。毎週1つの食材をテーマに、その食材を使ったレシピを紹介している。
         このコーナーにおいて石川は紹介された料理に入ってもいないのに、しばしば[肉](../Page/肉.md "wikilink")や[ベーコン](../Page/ベーコン.md "wikilink")など朝から重いものを加えたがる。自身もそれが体に優しくないことはうすうす気づいているようである。
         最近は、江戸近茶流がよく出演する傾向にある
         ちなみにバックでかかっている曲は桜井鉄太朗「Sun Flower Girl」で、実際は1分ほどの曲であり、編集して用いていた。
-  - 6:55 [MY OLYMPIC](https://ja.wikipedia.org/wiki/MY_OLYMPIC "wikilink")（全国ネットされているが、一部地域で放送時間が異なる／[ロッテ](../Page/ロッテ.md "wikilink")提供）
+  - 6:55 [MY OLYMPIC](../Page/MY_OLYMPIC.md "wikilink")（全国ネットされているが、一部地域で放送時間が異なる／[ロッテ](../Page/ロッテ.md "wikilink")提供）
   - 6:58 【前半後半をつなぐ[ステーションブレイク](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")枠】
       -
         JFN系列各局：自社のジングルやコマーシャル
         TOKYO FM：石川が約15秒間その日の東京の天気や首都圏の鉄道の運行状況などを伝えて、最後に「いってらっしゃい」のコールが入る。
         －ここから全国38局フルネット部分－
-  - **7:00 （T）[WONDA モーニングショット WAKE UP NEWS ワンショットコラム](https://ja.wikipedia.org/wiki/WAKE_UP_NEWS "wikilink")**（終了後7:08からTFMでは交通情報、地方局（TFM以外）では「[聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")プラネットグラフティ」（CM扱い）を放送）
+  - **7:00 （T）[WONDA モーニングショット WAKE UP NEWS ワンショットコラム](../Page/WAKE_UP_NEWS.md "wikilink")**（終了後7:08からTFMでは交通情報、地方局（TFM以外）では「[聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink")プラネットグラフティ」（CM扱い）を放送）
   - **7:10 （T）[リポビタンD Sports Nonfiction](../Page/リポビタンD_Sports_Nonfiction.md "wikilink")**
-  - **7:20 （T）[TOYOTA VIEW UP TOMORROW](https://ja.wikipedia.org/wiki/VIEW_UP_TOMORROW "wikilink") Show Biz File**
+  - **7:20 （T）[TOYOTA VIEW UP TOMORROW](../Page/VIEW_UP_TOMORROW.md "wikilink") Show Biz File**
       -
         －38局フルネット部分終了－
         －8時までは地方局（TFM以外）飛び降り－
@@ -171,7 +171,7 @@
         －（一部を除く）地方局飛び乗り－
   - **8:00 （T）[SUZUKI Inside Story](../Page/SUZUKI_Inside_Story.md "wikilink")** [坂井真紀](https://ja.wikipedia.org/wiki/坂井真紀 "wikilink") （一部地域で放送なし）
   - **8:09 [マリーに聞いてゴー\!](../Page/Roots_Presents_マリーに聞いてゴー!.md "wikilink")** （一部地域で放送なし）
-  - **8:10 （T）[Honda SWEET MISSION](https://ja.wikipedia.org/wiki/Honda_SWEET_MISSION "wikilink")**[フローラン・ダバディー](https://ja.wikipedia.org/wiki/フローラン・ダバディー "wikilink")、[SHEILA](../Page/SHEILA.md "wikilink") （一部地域で放送なし）
+  - **8:10 （T）[Honda SWEET MISSION](../Page/Honda_SWEET_MISSION.md "wikilink")**[フローラン・ダバディー](https://ja.wikipedia.org/wiki/フローラン・ダバディー "wikilink")、[SHEILA](../Page/SHEILA.md "wikilink") （一部地域で放送なし）
       -
         －地方局（TFM以外）飛び降り－
   - 8:18 交通情報（[ホンダカーズ東京提供](../Page/Honda_Cars店.md "wikilink")）（月・水・金曜）
@@ -181,12 +181,12 @@
 
 ### 終了したコーナー
 
-  - [Roots TODAY'S INSPIRATION](https://ja.wikipedia.org/wiki/Roots_TODAY'S_INSPIRATION "wikilink")
+  - [Roots TODAY'S INSPIRATION](../Page/Roots_TODAY'S_INSPIRATION.md "wikilink")
       -
         マリーに聞いてゴー！の時間に放送。2007年4月13日終了。
   - SKY News on Air
       -
-        海外からのニュースを紹介するコーナー。MORNING FREEWAY時代より続いていたが、2007年3月をもってコーナースポンサーの[エミレーツ航空](https://ja.wikipedia.org/wiki/エミレーツ航空 "wikilink")が撤退。それ以降もノンスポンサーで放送していたが、2007年9月で終了。
+        海外からのニュースを紹介するコーナー。MORNING FREEWAY時代より続いていたが、2007年3月をもってコーナースポンサーの[エミレーツ航空](../Page/エミレーツ航空.md "wikilink")が撤退。それ以降もノンスポンサーで放送していたが、2007年9月で終了。
   - [SUZUKI Future Navi](https://ja.wikipedia.org/wiki/SUZUKI_Future_Navi "wikilink")
       -
         SUZUKI Inside Storyの時間に放送されていた。2007年9月終了。
@@ -205,12 +205,12 @@
   - [FM岩手](../Page/エフエム岩手.md "wikilink")
   - [Boy-FM](../Page/エフエム山形.md "wikilink")（エフエム山形）
   - [ふくしまFM](../Page/エフエム福島.md "wikilink")
-  - [FM新潟](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink")
+  - [FM新潟](../Page/エフエムラジオ新潟.md "wikilink")
   - [K-MIX](../Page/静岡エフエム放送.md "wikilink")（静岡エフエム）
   - [Radio80](../Page/エフエム岐阜.md "wikilink")（岐阜エフエム）
-  - [FMとやま](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")
+  - [FMとやま](../Page/富山エフエム放送.md "wikilink")
   - [HELLO FIVE](../Page/エフエム石川.md "wikilink")（エフエム石川）
-  - [FM福井](https://ja.wikipedia.org/wiki/福井エフエム放送 "wikilink") - 2007年6月11日は放送休止の為、6時開始となった。
+  - [FM福井](../Page/福井エフエム放送.md "wikilink") - 2007年6月11日は放送休止の為、6時開始となった。
   - [e-radio](../Page/エフエム滋賀.md "wikilink")（エフエム滋賀）
   - [Kiss-FM KOBE](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink") - 特別編成で2007.1.17は5:30飛び降り
   - [FM岡山](../Page/岡山エフエム放送.md "wikilink")
@@ -223,11 +223,11 @@
 
 ### 5:00開始（飛び降りがある、一部コーナーのネットがない放送局）
 
-  - [Date fm](../Page/エフエム仙台.md "wikilink")（エフエム仙台。5:55～6:00に「[心のともしび](https://ja.wikipedia.org/wiki/心のともしび "wikilink")」、6:45〜6:55に「Date fm インフォメーション」、「News\&Weather」を放送するため一旦飛び降り）
-  - [AFM](../Page/エフエム秋田.md "wikilink")（エフエム秋田。5:55～6:00に「[心のともしび](https://ja.wikipedia.org/wiki/心のともしび "wikilink")」を放送するため一度飛び降り）
+  - [Date fm](../Page/エフエム仙台.md "wikilink")（エフエム仙台。5:55～6:00に「[心のともしび](../Page/心のともしび.md "wikilink")」、6:45〜6:55に「Date fm インフォメーション」、「News\&Weather」を放送するため一旦飛び降り）
+  - [AFM](../Page/エフエム秋田.md "wikilink")（エフエム秋田。5:55～6:00に「[心のともしび](../Page/心のともしび.md "wikilink")」を放送するため一度飛び降り）
   - [FMぐんま](../Page/エフエム群馬.md "wikilink")（8時台ネット無し）
   - [RADIO BERRY](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")（エフエム栃木。6:50で一度飛び降り・8時台は「SUZUKI Inside Story」「マリーに聞いてゴー\!」のネット無し）
-  - [FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")（6:50～6:55で一度飛び降り）
+  - [FM長野](../Page/長野エフエム放送.md "wikilink")（6:50～6:55で一度飛び降り）
   - [FM AICHI](../Page/エフエム愛知.md "wikilink")（「アースコンシャスアクト」「MY OLYMPIC」以外の6時台ネット無し）
   - [radio CUBE FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")（金曜日のみ7:00から・8時台ネット無し）
   - [fm osaka](../Page/エフエム大阪.md "wikilink")（5:14、5:58頃、6:29、6:49にCM、5:28頃、6:23頃に「fm osaka X-TREAM」を放送するため一度飛び降り）
@@ -236,13 +236,13 @@
 <!-- end list -->
 
   -
-    枠内では「[コジマ](../Page/コジマ.md "wikilink") Catch The World」（毎日1つのサイトを紹介しているが、TFMとは違うサイトを番組DJが紹介している）を企画ネットしている。過去には[エミレーツ航空](https://ja.wikipedia.org/wiki/エミレーツ航空 "wikilink")提供の企画ネット番組「Sports On Air」(TFMは「News On Air」だが大阪ユーロスポーツの最新情報を番組DJが紹介している）もあった。
+    枠内では「[コジマ](../Page/コジマ.md "wikilink") Catch The World」（毎日1つのサイトを紹介しているが、TFMとは違うサイトを番組DJが紹介している）を企画ネットしている。過去には[エミレーツ航空](../Page/エミレーツ航空.md "wikilink")提供の企画ネット番組「Sports On Air」(TFMは「News On Air」だが大阪ユーロスポーツの最新情報を番組DJが紹介している）もあった。
     2007年4月-7月には同局のローカル番組「[庄司悟のアサイチBANG\!](../Page/庄司悟のアサイチBANG!.md "wikilink")」と連動していた。\[2\]
 
 <!-- end list -->
 
   - [HFM](../Page/広島エフエム放送.md "wikilink")（広島エフエム。6:34～40で一度飛び降り）
-  - [V-air](../Page/エフエム山陰.md "wikilink")（エフエム山陰。6:25～6:35（「[さわやか世の光](https://ja.wikipedia.org/wiki/世の光 "wikilink")」を放送するため）、・6:50～6:55で一旦飛び降り）
+  - [V-air](../Page/エフエム山陰.md "wikilink")（エフエム山陰。6:25～6:35（「[さわやか世の光](../Page/世の光.md "wikilink")」を放送するため）、・6:50～6:55で一旦飛び降り）
   - [fm nagasaki](../Page/エフエム長崎.md "wikilink")（6:00で一度飛び降り）
   - [Air-Radio FM88](../Page/エフエム大分.md "wikilink")（エフエム大分。6:50～6:55で一度飛び降り）
   - [FM沖縄](../Page/エフエム沖縄.md "wikilink")（6:30～6:40で一度飛び降り）

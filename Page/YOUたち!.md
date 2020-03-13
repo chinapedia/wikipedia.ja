@@ -1,7 +1,7 @@
 > この記事は[YOU!](https://ja.wikipedia.org/wiki/YOU!)から翻訳されています。
 
 
-『**YOUたち\!**』は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月8日](../Page/10月8日.md "wikilink")\[1\]から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[日本テレビ系で放送された](../Page/日本テレビ放送網.md "wikilink")[トーク](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[中丸雄一](https://ja.wikipedia.org/wiki/中丸雄一 "wikilink")と[田中聖](https://ja.wikipedia.org/wiki/田中聖 "wikilink")\[2\]、[オセロの](https://ja.wikipedia.org/wiki/オセロ_\(お笑いコンビ\) "wikilink")[中島知子](https://ja.wikipedia.org/wiki/中島知子 "wikilink")が[MCを務める](https://ja.wikipedia.org/wiki/司会 "wikilink")。
+『**YOUたち\!**』は、[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")\[1\]から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[日本テレビ系で放送された](../Page/日本テレビ放送網.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[中丸雄一](../Page/中丸雄一.md "wikilink")と[田中聖](../Page/田中聖.md "wikilink")\[2\]、[オセロの](https://ja.wikipedia.org/wiki/オセロ_\(お笑いコンビ\) "wikilink")[中島知子](https://ja.wikipedia.org/wiki/中島知子 "wikilink")が[MCを務める](../Page/司会.md "wikilink")。
 
 ## 概要
 
@@ -9,18 +9,18 @@
 
 番組の内容は、とある合宿所を舞台とし、「人生のコーチ」であるゲストを招き、まだ若いレギュラー陣が人生や恋愛などを教わっていくというもの\[4\]。各コーナー名は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")の社長である、[ジャニー喜多川](../Page/ジャニー喜多川.md "wikilink")の口癖「YOUたち\! 〜しちゃいなよ」に由来する。
 
-放送開始に先駆け、2006年9月30日と10月1日に\[5\][代々木第一体育館](https://ja.wikipedia.org/wiki/代々木第一体育館 "wikilink")で「you達の音楽大運動会」というタイトルで“新番組前夜祭ライブ”を行い（全3公演\[6\]）、番組にレギュラー出演する[Kitty](https://ja.wikipedia.org/wiki/Kitty "wikilink")と[中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")の他、[Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")、[A.B.C.](https://ja.wikipedia.org/wiki/A.B.C-Z#A.B.C. "wikilink")、[京本大我](https://ja.wikipedia.org/wiki/京本大我 "wikilink")など\[7\]レッスン生を含め11歳から21歳まで総勢100人の[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")が出演\[8\]。番組の司会を担当する中丸も駆け付けた\[9\]。
+放送開始に先駆け、2006年9月30日と10月1日に\[5\][代々木第一体育館](https://ja.wikipedia.org/wiki/代々木第一体育館 "wikilink")で「you達の音楽大運動会」というタイトルで“新番組前夜祭ライブ”を行い（全3公演\[6\]）、番組にレギュラー出演する[Kitty](../Page/Kitty.md "wikilink")と[中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")の他、[Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")、[A.B.C.](https://ja.wikipedia.org/wiki/A.B.C-Z#A.B.C. "wikilink")、[京本大我](https://ja.wikipedia.org/wiki/京本大我 "wikilink")など\[7\]レッスン生を含め11歳から21歳まで総勢100人の[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")が出演\[8\]。番組の司会を担当する中丸も駆け付けた\[9\]。
 
 ## 出演者
 
 ### レギュラー
 
-  - [中丸雄一](https://ja.wikipedia.org/wiki/中丸雄一 "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）\[10\]
+  - [中丸雄一](../Page/中丸雄一.md "wikilink")（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")）\[10\]
   - 田中聖（KAT-TUN）\[11\]
   - 中島知子（[オセロ](https://ja.wikipedia.org/wiki/オセロ_\(お笑いコンビ\) "wikilink")）\[12\]
   - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")\[13\]
-  - [Kitty](https://ja.wikipedia.org/wiki/Kitty "wikilink")\[14\]
-      - [北山宏光](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")、[伊野尾慧](https://ja.wikipedia.org/wiki/伊野尾慧 "wikilink")、[戸塚祥太](../Page/戸塚祥太.md "wikilink")、[八乙女光](https://ja.wikipedia.org/wiki/八乙女光 "wikilink")
+  - [Kitty](../Page/Kitty.md "wikilink")\[14\]
+      - [北山宏光](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")、[伊野尾慧](../Page/伊野尾慧.md "wikilink")、[戸塚祥太](../Page/戸塚祥太.md "wikilink")、[八乙女光](../Page/八乙女光.md "wikilink")
   - [中島裕翔](https://ja.wikipedia.org/wiki/中島裕翔 "wikilink")\[15\]
   - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")\[16\]（詳しくは後述を参照のこと）
   - [ハリセンボン](https://ja.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")\[17\]（プリティメイド）
@@ -31,7 +31,7 @@
   - 2006年10月：中島知子（オセロ）
   - 2006年11月：[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")
   - 2006年12月：[鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")
-  - 2007年01月：[島崎和歌子](https://ja.wikipedia.org/wiki/島崎和歌子 "wikilink")
+  - 2007年01月：[島崎和歌子](../Page/島崎和歌子.md "wikilink")
   - 2007年02月以降：中島知子（オセロ）
 
 ### ジャニーズJr.
@@ -39,7 +39,7 @@
 ゲストらの後ろに控えていたジャニーズJr.（当時）を50音順に記す。
 
   - 2006年10月 - 12月
-    アンダーソン・ケイシー、伊藤拓美、稲見友剛、[岩本ひかる](https://ja.wikipedia.org/wiki/岩本照 "wikilink")、[カミュー・ケイド](https://ja.wikipedia.org/wiki/カミュー・ケイド "wikilink")、神田憲征、木村浩也、[京本大我](https://ja.wikipedia.org/wiki/京本大我 "wikilink")、佐藤駿、鈴木広太、高崎俊吾、滝野雄、[森本慎太郎](https://ja.wikipedia.org/wiki/森本慎太郎 "wikilink")、[森本龍太郎](https://ja.wikipedia.org/wiki/森本龍太郎 "wikilink")、山口海、[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")
+    アンダーソン・ケイシー、伊藤拓美、稲見友剛、[岩本ひかる](../Page/岩本照.md "wikilink")、[カミュー・ケイド](https://ja.wikipedia.org/wiki/カミュー・ケイド "wikilink")、神田憲征、木村浩也、[京本大我](https://ja.wikipedia.org/wiki/京本大我 "wikilink")、佐藤駿、鈴木広太、高崎俊吾、滝野雄、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[森本龍太郎](https://ja.wikipedia.org/wiki/森本龍太郎 "wikilink")、山口海、[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")
   - 2007年1月 - 9月
     伊藤拓美、稲見友剛、[加藤冠](../Page/加藤冠.md "wikilink")、神田憲征、佐藤駿、鈴木広太、高垣俊也、高崎俊吾、滝野雄、久道雅人、ペイン・ダンテ・将之介、森本慎太郎、山口海、山倉沙瑠芙、[ルイス・ジェシー](https://ja.wikipedia.org/wiki/ジェシー_\(俳優\) "wikilink")
 
@@ -57,9 +57,9 @@
 
 ### YOUたち\! 仰天人間に会っちゃいなよ\!
 
-変わった特技を持つ人が、自慢の技を披露する。更にルーレットで当たった出演者も、それがどんなにハードな技でも、その技に挑戦しないといけない。なぜか、田中聖と中丸雄一のルーレット枠が広いため、仰天技に挑戦せざるを得ないことが多い。かつて同じ日本テレビの日曜昼に放送した『TVジョッキー』『[スーパージョッキー](https://ja.wikipedia.org/wiki/スーパージョッキー "wikilink")』のオマージュ。ルーレットもかつて「熱湯コマーシャル」で使われていたものとほぼ同型。
+変わった特技を持つ人が、自慢の技を披露する。更にルーレットで当たった出演者も、それがどんなにハードな技でも、その技に挑戦しないといけない。なぜか、田中聖と中丸雄一のルーレット枠が広いため、仰天技に挑戦せざるを得ないことが多い。かつて同じ日本テレビの日曜昼に放送した『TVジョッキー』『[スーパージョッキー](../Page/スーパージョッキー.md "wikilink")』のオマージュ。ルーレットもかつて「熱湯コマーシャル」で使われていたものとほぼ同型。
 
-田中聖は第一回目（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月8日](../Page/10月8日.md "wikilink")）に熱湯風呂に入ったが、わずか1秒で終わってしまった。
+田中聖は第一回目（[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")）に熱湯風呂に入ったが、わずか1秒で終わってしまった。
 
 ### YOUたち\! 赤っ恥カルタとっちゃいなよ\!
 
@@ -86,7 +86,7 @@
 
 ## スタッフ
 
-  - ナレーション：[我修院達也](https://ja.wikipedia.org/wiki/我修院達也 "wikilink")\[18\]
+  - ナレーション：[我修院達也](../Page/我修院達也.md "wikilink")\[18\]
   - 構成：[桜井慎一](../Page/桜井慎一.md "wikilink")、[渡辺真也](https://ja.wikipedia.org/wiki/渡辺真也_\(放送作家\) "wikilink")、石塚祐介、小山賢太郎、池谷フューチャ、[丸山浩司](https://ja.wikipedia.org/wiki/丸山浩司_\(放送作家\) "wikilink")
   - AP：伊藤実枝子、北口拓也
   - AD：出井由紀　江原里美　白石宗広
@@ -94,32 +94,32 @@
   - 演出：[黒川高](https://ja.wikipedia.org/wiki/黒川高 "wikilink")
   - プロデューサー：[下田明宏](https://ja.wikipedia.org/wiki/下田明宏 "wikilink")、上原敏明
   - プロデューサー・演出：[福士睦](../Page/福士睦.md "wikilink")
-  - チーフプロデューサー：[安岡喜郎](https://ja.wikipedia.org/wiki/安岡喜郎 "wikilink")
+  - チーフプロデューサー：[安岡喜郎](../Page/安岡喜郎.md "wikilink")
   - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
-  - 制作協力：[G-yama](https://ja.wikipedia.org/wiki/ジーヤマ "wikilink")
+  - 制作協力：[G-yama](../Page/ジーヤマ.md "wikilink")
 
 ### 過去のスタッフ
 
-  - チーフプロデューサー：[吉川圭三](https://ja.wikipedia.org/wiki/吉川圭三 "wikilink")
+  - チーフプロデューサー：[吉川圭三](../Page/吉川圭三.md "wikilink")
 
 ## ネット局と放送時間
 
   - [日本テレビほか](../Page/日本テレビ放送網.md "wikilink") 毎週日曜日午前11時45分 - 午後0時35分
-  - 同時ネット局は「[いただきマッスル\!](https://ja.wikipedia.org/wiki/いただきマッスル! "wikilink")」とセットでネットされている局も多い
+  - 同時ネット局は「[いただきマッスル\!](../Page/いただきマッスル!.md "wikilink")」とセットでネットされている局も多い
 
-| 放送局                                                       | 放送日時                 | 備考                                            |
-| --------------------------------------------------------- | -------------------- | --------------------------------------------- |
-| [日本テレビ](../Page/日本テレビ放送網.md "wikilink")                   | 毎週日曜 11:45 - 12:35   | **製作局**                                       |
-| [札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink") | 同時ネット                | YOSAKOIソーラン特番の時は土曜日夕方4時に放送                    |
-| [テレビ岩手](../Page/テレビ岩手.md "wikilink")                      | 同時ネット                |                                               |
-| [山形放送](../Page/山形放送.md "wikilink")                        | 毎週木曜 深夜24:31 - 25:21 | 4日遅れ                                          |
-| [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")                  | 同時ネット                |                                               |
-| [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")     | 同時ネット                | マラソンなどのスポーツ番組などがあるときは、時差ネットもしくは番組が中止になることがある。 |
-| [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")                   | 同時ネット                |                                               |
-| [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")                  | 毎週水曜 深夜24:36 - 25:26 | 10日遅れ                                         |
-| [中京テレビ](../Page/中京テレビ放送.md "wikilink")                    | 同時ネット                |                                               |
-| [福岡放送](../Page/福岡放送.md "wikilink")                        | 同時ネット                |                                               |
-| [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")                  | 同時ネット                |                                               |
+| 放送局                                                   | 放送日時                 | 備考                                            |
+| ----------------------------------------------------- | -------------------- | --------------------------------------------- |
+| [日本テレビ](../Page/日本テレビ放送網.md "wikilink")               | 毎週日曜 11:45 - 12:35   | **製作局**                                       |
+| [札幌テレビ](../Page/札幌テレビ放送.md "wikilink")                | 同時ネット                | YOSAKOIソーラン特番の時は土曜日夕方4時に放送                    |
+| [テレビ岩手](../Page/テレビ岩手.md "wikilink")                  | 同時ネット                |                                               |
+| [山形放送](../Page/山形放送.md "wikilink")                    | 毎週木曜 深夜24:31 - 25:21 | 4日遅れ                                          |
+| [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")              | 同時ネット                |                                               |
+| [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink") | 同時ネット                | マラソンなどのスポーツ番組などがあるときは、時差ネットもしくは番組が中止になることがある。 |
+| [テレビ新潟](../Page/テレビ新潟放送網.md "wikilink")               | 同時ネット                |                                               |
+| [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")              | 毎週水曜 深夜24:36 - 25:26 | 10日遅れ                                         |
+| [中京テレビ](../Page/中京テレビ放送.md "wikilink")                | 同時ネット                |                                               |
+| [福岡放送](../Page/福岡放送.md "wikilink")                    | 同時ネット                |                                               |
+| [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")              | 同時ネット                |                                               |
 
 ### 過去に放送されていたテレビ局
 

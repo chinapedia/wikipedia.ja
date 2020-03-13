@@ -151,7 +151,7 @@
 <td><p>TFCC-86111</p></td>
 <td><ol>
 <li>燃えあがる熱い心</li>
-<li>ありふれた言葉（<a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a>2002年9月度<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a>）</li>
+<li>ありふれた言葉（<a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a>2002年9月度<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a>）</li>
 <li>今日の気分は</li>
 <li>君の前では</li>
 <li>君を待つよ</li>

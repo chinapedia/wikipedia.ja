@@ -1,13 +1,13 @@
 > この記事は[Scramble Commander](https://ja.wikipedia.org/wiki/Scramble_Commander)から翻訳されています。
 
 
-『**スーパーロボット大戦Scramble Commander**』（スーパーロボットたいせん スクランブルコマンダー）とは、[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")が発売した[PlayStation 2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**スーパーロボット大戦Scramble Commander**』（スーパーロボットたいせん スクランブルコマンダー）とは、[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した[PlayStation 2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
 
 キャッチコピーは「**戦局は指揮官が握る**」。
 
 ## 概要
 
-[SDで表現されたロボットたちが競演する](../Page/ちびキャラ.md "wikilink")[クロスオーバー作品](https://ja.wikipedia.org/wiki/クロスオーバー作品 "wikilink")「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」の一つ。シリーズ内シリーズであるScramble Commanderシリーズの1作目にあたる。ベックの開発した『[ジオニックフロント](../Page/ジオニックフロント_機動戦士ガンダム0079.md "wikilink")』をベースに従来の[シミュレーションRPGではなくリアルタイムシミュレーションとして開発された](https://ja.wikipedia.org/wiki/シミュレーションロールプレイングゲーム "wikilink")\[1\]。タイトルロゴのカラーは通常は金色だが、本作は「いつものスパロボとは違うため」という理由で銀色となっている\[2\]\[3\]（ロゴが銀色なのは、『[新スーパーロボット大戦](../Page/新スーパーロボット大戦.md "wikilink")』と本作のみ）。
+[SDで表現されたロボットたちが競演する](../Page/ちびキャラ.md "wikilink")[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」の一つ。シリーズ内シリーズであるScramble Commanderシリーズの1作目にあたる。ベックの開発した『[ジオニックフロント](../Page/ジオニックフロント_機動戦士ガンダム0079.md "wikilink")』をベースに従来の[シミュレーションRPGではなくリアルタイムシミュレーションとして開発された](../Page/シミュレーションロールプレイングゲーム.md "wikilink")\[1\]。タイトルロゴのカラーは通常は金色だが、本作は「いつものスパロボとは違うため」という理由で銀色となっている\[2\]\[3\]（ロゴが銀色なのは、『[新スーパーロボット大戦](../Page/新スーパーロボット大戦.md "wikilink")』と本作のみ）。
 
 今までのシリーズ作品とは異なり、登場するロボットはSDではなくリアルサイズの[3DCGで表現される](../Page/3次元コンピュータグラフィックス.md "wikilink")。ただしロボット間のサイズ差は厳密ではなく、プレイ時に違和感が無いようにある程度補正されている\[4\]。オープニングデモは[東京](../Page/東京.md "wikilink")都内各地でロケーションが行われ\[5\]、町中で戦うスーパーロボットがリアルなCGで表現された。
 
@@ -35,7 +35,7 @@
 
 ### 一覧
 
-  - [超獣機神ダンクーガ](https://ja.wikipedia.org/wiki/超獣機神ダンクーガ "wikilink")
+  - [超獣機神ダンクーガ](../Page/超獣機神ダンクーガ.md "wikilink")
   - [新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")
   - [THE END OF EVANGELION Air/まごころを、君に](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン劇場版_Air/まごころを、君に "wikilink")
   - [機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")
@@ -44,13 +44,13 @@
   - [機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink")
   - [機動戦士ガンダム 逆襲のシャア](../Page/機動戦士ガンダム_逆襲のシャア.md "wikilink")
   - [新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")
-  - [新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink")
+  - [新機動戦記ガンダムW Endless Waltz](../Page/新機動戦記ガンダムW_Endless_Waltz.md "wikilink")
   - [マジンガーZ](../Page/マジンガーZ.md "wikilink")
-  - [グレートマジンガー](https://ja.wikipedia.org/wiki/グレートマジンガー "wikilink")
+  - [グレートマジンガー](../Page/グレートマジンガー.md "wikilink")
   - [ゲッターロボ](../Page/ゲッターロボ.md "wikilink")
-  - [ゲッターロボG](https://ja.wikipedia.org/wiki/ゲッターロボG "wikilink")
-  - [超電磁ロボ コン・バトラーV](https://ja.wikipedia.org/wiki/超電磁ロボ_コン・バトラーV "wikilink")
-  - [勇者ライディーン](https://ja.wikipedia.org/wiki/勇者ライディーン "wikilink")
+  - [ゲッターロボG](../Page/ゲッターロボG.md "wikilink")
+  - [超電磁ロボ コン・バトラーV](../Page/超電磁ロボ_コン・バトラーV.md "wikilink")
+  - [勇者ライディーン](../Page/勇者ライディーン.md "wikilink")
   - [バンプレストオリジナル](https://ja.wikipedia.org/wiki/バンプレストオリジナル "wikilink")
 
 ### 解説
@@ -63,14 +63,14 @@
 
   - マジンガーZ / 兜甲児
   - グレートマジンガー / 剣鉄也
-  - [ガンダム](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink") / [アムロ・レイ](https://ja.wikipedia.org/wiki/アムロ・レイ "wikilink")
+  - [ガンダム](https://ja.wikipedia.org/wiki/ガンダム_\(架空の兵器\) "wikilink") / [アムロ・レイ](../Page/アムロ・レイ.md "wikilink")
   - [ガンダムEz8](https://ja.wikipedia.org/wiki/陸戦型ガンダム#ガンダムEz8 "wikilink") / [シロー・アマダ](https://ja.wikipedia.org/wiki/機動戦士ガンダム_第08MS小隊の登場人物#シロー・アマダ "wikilink")
   - [グフカスタム](https://ja.wikipedia.org/wiki/グフ#グフカスタム "wikilink") / [アイナ・サハリン](https://ja.wikipedia.org/wiki/機動戦士ガンダム_第08MS小隊の登場人物#アイナ・サハリン "wikilink")
-  - [Ζガンダム](../Page/Ζガンダム.md "wikilink") / [カミーユ・ビダン](https://ja.wikipedia.org/wiki/カミーユ・ビダン "wikilink")
+  - [Ζガンダム](../Page/Ζガンダム.md "wikilink") / [カミーユ・ビダン](../Page/カミーユ・ビダン.md "wikilink")
   - [百式](../Page/百式_\(ガンダムシリーズ\).md "wikilink") / [クワトロ・バジーナ](../Page/シャア・アズナブル.md "wikilink")
   - [ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink") / [ジュドー・アーシタ](../Page/ジュドー・アーシタ.md "wikilink")
   - [νガンダム](https://ja.wikipedia.org/wiki/νガンダム "wikilink") / アムロ・レイ
-  - [ウイングガンダムゼロカスタム](https://ja.wikipedia.org/wiki/ウイングガンダムゼロ#Endless_Waltz版 "wikilink") / [ヒイロ・ユイ](https://ja.wikipedia.org/wiki/ヒイロ・ユイ "wikilink")
+  - [ウイングガンダムゼロカスタム](https://ja.wikipedia.org/wiki/ウイングガンダムゼロ#Endless_Waltz版 "wikilink") / [ヒイロ・ユイ](../Page/ヒイロ・ユイ.md "wikilink")
   - [トールギス](../Page/トールギス.md "wikilink") / [ゼクス・マーキス](../Page/ゼクス・マーキス.md "wikilink")
   - ゲッター1 / 流竜馬
   - ゲッタードラゴン / 流竜馬
@@ -100,7 +100,7 @@
 ## スタッフ
 
   - プロデューサー
-    [寺田貴信](https://ja.wikipedia.org/wiki/寺田貴信 "wikilink")
+    [寺田貴信](../Page/寺田貴信.md "wikilink")
     五十嵐恒三
     じっぱひとからげ
     菊池博
@@ -117,11 +117,11 @@
 
 2003年8月23日、24日に幕張メッセにて開催されたキャラクタホビーイベント「Cultural Convention of Characters 2003」に本作は出展された\[9\]。
 
-特設ブースではバンプレストの寺田貴信、ベックの五十嵐恒三、声優の[緑川光](../Page/緑川光.md "wikilink")、[かかずゆみ](https://ja.wikipedia.org/wiki/かかずゆみ "wikilink")によるトークショーを開催。[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、[MIQ](https://ja.wikipedia.org/wiki/MIQ "wikilink")によるステージライブも行われた。
+特設ブースではバンプレストの寺田貴信、ベックの五十嵐恒三、声優の[緑川光](../Page/緑川光.md "wikilink")、[かかずゆみ](../Page/かかずゆみ.md "wikilink")によるトークショーを開催。[ささきいさお](../Page/ささきいさお.md "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、[MIQ](../Page/MIQ.md "wikilink")によるステージライブも行われた。
 
 ### テレビCM
 
-CMナレーションには『ゲッターロボ』の流竜馬などを演じた[神谷明](../Page/神谷明.md "wikilink")と『新世紀エヴァンゲリオン』の葛城ミサト役の[三石琴乃](../Page/三石琴乃.md "wikilink")の2人のものと、[中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")と[茉樹代の](https://ja.wikipedia.org/wiki/川島茉樹代 "wikilink")2人が担当したものがある。
+CMナレーションには『ゲッターロボ』の流竜馬などを演じた[神谷明](../Page/神谷明.md "wikilink")と『新世紀エヴァンゲリオン』の葛城ミサト役の[三石琴乃](../Page/三石琴乃.md "wikilink")の2人のものと、[中田譲治](../Page/中田譲治.md "wikilink")と[茉樹代の](https://ja.wikipedia.org/wiki/川島茉樹代 "wikilink")2人が担当したものがある。
 
 CMソングは、[茉樹代](https://ja.wikipedia.org/wiki/茉樹代 "wikilink")の歌う『NEGAI』。
 

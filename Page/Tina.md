@@ -1,11 +1,11 @@
 > この記事は[Tina](https://ja.wikipedia.org/wiki/Tina)から翻訳されています。
 
 
-**Tina**（ティナ、[1975年](../Page/1975年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink") – ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")[シンガー](../Page/歌手.md "wikilink")。1999年[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")よりメジャーデビュー。
+**Tina**（ティナ、[1975年](../Page/1975年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink") – ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")[シンガー](../Page/歌手.md "wikilink")。1999年[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")よりメジャーデビュー。
 
 ## 来歴
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。 ジャズサックス奏者の父親の影響を受け、幼少の頃からブラックミュージックに親しむ。 1999年シングル『I'll be there』でメジャーデビュー。同年発売の1stアルバム『Colorado』はオリコン初登場1位を獲得。 日本ゴールドディスク大賞“ニューアーティスト・オブ・ザ・イヤー”受賞。 同年キリンビバレッジの缶コーヒー『FIRE』のCMにも出演し話題を呼ぶ。 翌年発売のアルバム『Orario』もオリコン3位を記録。
+[東京都](../Page/東京都.md "wikilink")出身。 ジャズサックス奏者の父親の影響を受け、幼少の頃からブラックミュージックに親しむ。 1999年シングル『I'll be there』でメジャーデビュー。同年発売の1stアルバム『Colorado』はオリコン初登場1位を獲得。 日本ゴールドディスク大賞“ニューアーティスト・オブ・ザ・イヤー”受賞。 同年キリンビバレッジの缶コーヒー『FIRE』のCMにも出演し話題を呼ぶ。 翌年発売のアルバム『Orario』もオリコン3位を記録。
 
 2002年スタジオジブリ作品『猫の恩返し/ ギブリーズepisode 2』にて挿入歌 "[No Woman, No Cry](https://ja.wikipedia.org/wiki/ノー・ウーマン、ノー・クライ "wikilink")" を歌唱。
 
@@ -13,9 +13,9 @@
 
 THE ROOTSのフックアップにより、アメリカのニューヨーク、フィラデルフィアにて、Jill Scott等数々の女性アーティストを輩出した伝説のイベント"Black Lily"(ブラックリリー)に東洋人初のシンガーとして定期的にライブ出演。 それを機にGROOVE THEORYの女性シンガー"Amel Larrieux(アメル・ラリュー)/ 男性R\&Bシンガー"Eric Roberson"(エリック・ロバーソン)そして"Tina" 3人名義でのツアーや、Isley Brothers(アイズレー・ブラザーズ)のステージでの共演等、海外からも多くのアーティスト、ミュージシャンからの信頼も厚い。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月レーベルを[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")に移し、移籍第一弾シングル『PRIDE』を発売。2012年移籍第2弾シングル『Starting Over』、アルバム『A Song For You』をリリース。アルバム収録曲『Be with you』は旅行会社HISのキャンペーンCMソングに起用される。　同年アルバム発売記念全国LIVEを実施。 以降、活動の拠点を日本に移し　精力的にLIVEを重ねている。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月レーベルを[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")に移し、移籍第一弾シングル『PRIDE』を発売。2012年移籍第2弾シングル『Starting Over』、アルバム『A Song For You』をリリース。アルバム収録曲『Be with you』は旅行会社HISのキャンペーンCMソングに起用される。　同年アルバム発売記念全国LIVEを実施。 以降、活動の拠点を日本に移し　精力的にLIVEを重ねている。
 
-デビュー以前より 親交の深い『[NITRO MICROPHONE UNDERGROUND](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")』のMCである[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink"), [SUIKEN](../Page/SUIKEN.md "wikilink")とTinaによるユニット"MONTIEN"として活動。ミニアルバム2枚 アルバム1枚をリリースしている。
+デビュー以前より 親交の深い『[NITRO MICROPHONE UNDERGROUND](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")』のMCである[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink"), [SUIKEN](../Page/SUIKEN.md "wikilink")とTinaによるユニット"MONTIEN"として活動。ミニアルバム2枚 アルバム1枚をリリースしている。
 
 KING OF DIGGINこと[MURO](../Page/MURO.md "wikilink")率いるKODPでは \#22
 
@@ -238,7 +238,7 @@ UMCK-1046:通常盤</p></td>
 <li>HARD TO SAY I'M SORRY(<a href="../Page/シカゴ_(バンド).md" title="wikilink">シカゴ</a>)[3:33]</li>
 <li>CARAVAN(<a href="../Page/デューク・エリントン.md" title="wikilink">デューク・エリントン</a>楽団)[4:34]</li>
 <li>LONG TRAIN RUNNIN'(<a href="../Page/ドゥービー・ブラザーズ.md" title="wikilink">ドゥービー・ブラザーズ</a>)[3:34]</li>
-<li>COPACABANA(AT THE COPA)(<a href="https://ja.wikipedia.org/wiki/バリー・マニロウ" title="wikilink">バリー・マニロウ</a>)[5:47]</li>
+<li>COPACABANA(AT THE COPA)(<a href="../Page/バリー・マニロウ.md" title="wikilink">バリー・マニロウ</a>)[5:47]</li>
 <li>ANOTHER ONE BITES THE DUST(<a href="../Page/クイーン_(バンド).md" title="wikilink">クイーン</a>)[3:06]</li>
 <li>HAVE YOU EVER SEEN THE RAIN?(CCR)[3:36]</li>
 <li>ENDLESS LOVE(<a href="https://ja.wikipedia.org/wiki/ライオネル・リッチー" title="wikilink">ライオネル・リッチー</a>&amp;<a href="../Page/ダイアナ・ロス.md" title="wikilink">ダイアナ・ロス</a>)[4:17]</li>
@@ -832,8 +832,8 @@ Special Guest 近藤房之介@Motion Blue Yokohama
 ## 関連項目
 
   - [Α-MONTHLY COLORS](../Page/Α-MONTHLY_COLORS.md "wikilink")（2000年10月）
-  - [二階健](https://ja.wikipedia.org/wiki/二階健 "wikilink") - 「Magic」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")を制作
-  - [1999年の音楽](https://ja.wikipedia.org/wiki/1999年の音楽 "wikilink")（デビュー – 7月）
+  - [二階健](../Page/二階健.md "wikilink") - 「Magic」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を制作
+  - [1999年の音楽](../Page/1999年の音楽.md "wikilink")（デビュー – 7月）
 
 ## 出典
 

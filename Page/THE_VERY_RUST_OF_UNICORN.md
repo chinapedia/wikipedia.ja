@@ -1,7 +1,7 @@
 > この記事は[THE VERY RUST OF UNICORN](https://ja.wikipedia.org/wiki/THE_VERY_RUST_OF_UNICORN)から翻訳されています。
 
 
-『**THE VERY RUST OF UNICORN**』（ザ・ヴェリー・ラスト・オブ・ユニコーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[UNICORN](https://ja.wikipedia.org/wiki/UNICORN "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。[1994年](../Page/1994年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売。発売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+『**THE VERY RUST OF UNICORN**』（ザ・ヴェリー・ラスト・オブ・ユニコーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[UNICORN](../Page/UNICORN.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売。発売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## 解説
 
@@ -10,10 +10,10 @@
 
 ## リリース履歴
 
-| No. | 日付                                                                       | [レーベル](../Page/レコードレーベル.md "wikilink")                                    | 規格                                    | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考              |
-| --- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- | ------------------------------------- | ----------------------------------------------------- | ---- | --------------- |
-| 1   | [1994年](../Page/1994年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") | [ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink") | [CD](../Page/コンパクトディスク.md "wikilink") | SRCL-2860〜1                                           | 1位   | 初回限定盤、ゴム製CDケース付 |
-| 2   | [1994年](../Page/1994年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink") | ソニー・ミュージックレコーズ                                                            | CD                                    | SRCL-2863〜4                                           | 23位  | 通常盤             |
+| No. | 日付                                                                       | [レーベル](../Page/レコードレーベル.md "wikilink")                 | 規格                                    | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考              |
+| --- | ------------------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------- | ---------------------------------- | ---- | --------------- |
+| 1   | [1994年](../Page/1994年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") | [ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink") | [CD](../Page/コンパクトディスク.md "wikilink") | SRCL-2860〜1                        | 1位   | 初回限定盤、ゴム製CDケース付 |
+| 2   | [1994年](../Page/1994年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink") | ソニー・ミュージックレコーズ                                         | CD                                    | SRCL-2863〜4                        | 23位  | 通常盤             |
 
 ## 収録曲
 
@@ -79,7 +79,7 @@
 7.  **PTA 〜光のネットワーク〜**
 8.  **デーゲーム**
       -
-        [坂上二郎](https://ja.wikipedia.org/wiki/坂上二郎 "wikilink")ボーカルバージョン。
+        [坂上二郎](../Page/坂上二郎.md "wikilink")ボーカルバージョン。
         アルバム初収録バージョン。
 9.  **ブルース**
       -

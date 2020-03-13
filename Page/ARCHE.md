@@ -1,11 +1,11 @@
 > この記事は[ARCHE](https://ja.wikipedia.org/wiki/ARCHE)から翻訳されています。
 
 
-**ARCHE**、**DJ ARCHE**（アーチ、ディージェー・アーチ、[1967年](../Page/1967年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink") - ）は、[サンディ所属の](https://ja.wikipedia.org/wiki/サンディ_\(芸能事務所\) "wikilink")[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[俳優](../Page/俳優.md "wikilink")である。
+**ARCHE**、**DJ ARCHE**（アーチ、ディージェー・アーチ、[1967年](../Page/1967年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink") - ）は、[サンディ所属の](../Page/サンディ_\(芸能事務所\).md "wikilink")[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")、[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[俳優](../Page/俳優.md "wikilink")である。
 
 本名及び旧芸名は**市川 博樹**（いちかわ ひろき）。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[神楽坂](../Page/神楽坂.md "wikilink")出身。血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[神楽坂](../Page/神楽坂.md "wikilink")出身。血液型は[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 来歴・人物
 
@@ -64,17 +64,17 @@
   - [TOYOTA WEEKLY ALBUM TOP10](https://ja.wikipedia.org/wiki/TOYOTA_WEEKLY_ALBUM_TOP10 "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")／[JFN系列](../Page/全国FM放送協議会.md "wikilink")、1994年4月-1999年6月）
   - [ラジカルモンスター](../Page/ラジカルモンスター.md "wikilink")（[SBSラジオ](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、1995年4月-1998年3月）
   - [K-MIX Afternoon Boulevard](../Page/Afternoon_Boulevard.md "wikilink") - 月・火担当（[K-MIX](../Page/静岡エフエム放送.md "wikilink")、2005年4月-2008年3月）
-  - Hits Factory（[Fm yokohama](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")）
+  - Hits Factory（[Fm yokohama](../Page/横浜エフエム放送.md "wikilink")）
   - POP GOES THE WORLD（FMヨコハマ）
   - BOOGIE DOWN FRIDAY（[FM AICHI](../Page/エフエム愛知.md "wikilink")）
-  - THE PLEASURE SEEKERS（K-MIX・FM AICHI・[FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")）
+  - THE PLEASURE SEEKERS（K-MIX・FM AICHI・[FM長野](../Page/長野エフエム放送.md "wikilink")）
   - ALIVE 69（FM-FUJI）
   - CLUB KINGDOM（K-MIX）
   - アーチと耕作のラジマンガOK\!（[民放AMラジオ各局](../Page/民間放送.md "wikilink")）
   - SONY SUPER ROCK（TOKYO FM）
   - ヒット&ドライブ（TOKYO FM）
   - MusicPhotograph（K-MIX、毎週日曜日）
-  - MUSIC GARDEN（[USEN](https://ja.wikipedia.org/wiki/USEN "wikilink")）
+  - MUSIC GARDEN（[USEN](../Page/USEN.md "wikilink")）
   - [赤坂泰彦のミリオンナイツ](https://ja.wikipedia.org/wiki/ミリオンナイツ#赤坂泰彦のミリオンナイツ "wikilink")（TOKYO FM／JFN系列）
       -
         [赤坂泰彦](../Page/赤坂泰彦.md "wikilink")不在時の代役を何度も務めている。
@@ -94,10 +94,10 @@
 <!-- end list -->
 
   - [Music B.B.](https://ja.wikipedia.org/wiki/Music_B.B. "wikilink")（民放テレビ各局）
-  - [小林麻耶のTBSチャンネルガイド](../Page/小林麻耶のTBSチャンネルガイド.md "wikilink")（[TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")、 - 2006年10月15日）
+  - [小林麻耶のTBSチャンネルガイド](../Page/小林麻耶のTBSチャンネルガイド.md "wikilink")（[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")、 - 2006年10月15日）
   - [出水麻衣のTBSチャンネルガイド](../Page/出水麻衣のTBSチャンネルガイド.md "wikilink")（TBSチャンネル、2006年10月16日 - ）
-  - 淑女のカガミ（[NHK BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")）
-  - [全員正解あたりまえ\!クイズ](https://ja.wikipedia.org/wiki/全員正解あたりまえ!クイズ "wikilink")（TBS系列）
+  - 淑女のカガミ（[NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
+  - [全員正解あたりまえ\!クイズ](../Page/全員正解あたりまえ!クイズ.md "wikilink")（TBS系列）
   - ネルコワナクコワ（[東海テレビ](https://ja.wikipedia.org/wiki/東海テレビ "wikilink")）
   - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")スペシャル（TBS系列）
 

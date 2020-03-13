@@ -3,7 +3,7 @@
 
 **慶南FC**（キョンナムFC、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"):、）は、[韓国の南東部](../Page/大韓民国.md "wikilink")、[慶尚南道](../Page/慶尚南道.md "wikilink")の[昌原を本拠地とする韓国プロサッカークラブである](https://ja.wikipedia.org/wiki/昌原市 "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に創設され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")より[Kリーグ](https://ja.wikipedia.org/wiki/Kリーグ "wikilink")に参加している。
+[2005年](../Page/2005年.md "wikilink")に創設され、[2006年](../Page/2006年.md "wikilink")より[Kリーグ](https://ja.wikipedia.org/wiki/Kリーグ "wikilink")に参加している。
 
 ホームスタジアムは発足以降[昌原総合運動場](../Page/昌原総合運動場.md "wikilink")を利用してきたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")からサッカー専用スタジアムの[昌原サッカーセンター](https://ja.wikipedia.org/wiki/昌原サッカーセンター "wikilink")に移転することになった。
 
@@ -70,7 +70,7 @@
 
 ### GK
 
-  - [金秉址](https://ja.wikipedia.org/wiki/金秉址 "wikilink") 2008-2012
+  - [金秉址](../Page/金秉址.md "wikilink") 2008-2012
 
   - [權正赫](https://ja.wikipedia.org/wiki/權正赫_\(サッカー選手\) "wikilink") 2016-
 
@@ -82,7 +82,7 @@
 
   - [金聖吉](../Page/金聖吉.md "wikilink") 2006-2009
 
-  - [戸田和幸](https://ja.wikipedia.org/wiki/戸田和幸 "wikilink") 2009
+  - [戸田和幸](../Page/戸田和幸.md "wikilink") 2009
 
   - [尹ビッガラム](https://ja.wikipedia.org/wiki/尹ビッガラム "wikilink") 2010-2011
 
@@ -108,4 +108,4 @@
 
 [Category:韓国のサッカークラブ](https://ja.wikipedia.org/wiki/Category:韓国のサッカークラブ "wikilink") [Category:慶尚南道](https://ja.wikipedia.org/wiki/Category:慶尚南道 "wikilink")
 
-1.  [＜サッカー＞Ｋリーグチャンピオンの全北、２０１３年に審判買収…](http://japanese.joins.com/article/037/216037.html?servcode=600&sectcode=610) - [中央日報](https://ja.wikipedia.org/wiki/中央日報 "wikilink")
+1.  [＜サッカー＞Ｋリーグチャンピオンの全北、２０１３年に審判買収…](http://japanese.joins.com/article/037/216037.html?servcode=600&sectcode=610) - [中央日報](../Page/中央日報.md "wikilink")

@@ -13,7 +13,7 @@
 
 1.  **グロリアス** \[4:50\]
       -
-        作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲:GLAY、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+        作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲:GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       - TAKURO曰く「自分以外の誰かを主人公にした初めての曲」であり、ボーカルも当時のキャリアの中で最高傑作と賞賛している。また、「『[SPEED POP](../Page/SPEED_POP.md "wikilink")』の頃の緊張した、カッチリとした姿では無く、レコーディングスタジオのロビーで「あぁしようよ、こうしようよ」と言ってるような姿、またその空気を感じてほしい」とも述べている\[2\]。
       - TERUも「無理しないで出せる声を使おうよっていうのが、最終的に決まって。妥協じゃなくて、いい意味で余裕のある歌になりましたね。」と語っている\[3\]。
@@ -36,7 +36,7 @@
 
 ## 関連項目
 
-  - [1996年の音楽](https://ja.wikipedia.org/wiki/1996年の音楽 "wikilink")
+  - [1996年の音楽](../Page/1996年の音楽.md "wikilink")
 
 ## 脚注
 

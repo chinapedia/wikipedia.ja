@@ -7,21 +7,21 @@
 <noinclude></noinclude>
 
   - **[2020年](../Page/2020年.md "wikilink")**
-      - 2/1 [ノエラ・ポントワ](https://ja.wikipedia.org/wiki/ノエラ・ポントワ "wikilink")
-      - 1/20 [ラ・ベル・イロワーズ](https://ja.wikipedia.org/wiki/ラ・ベル・イロワーズ "wikilink")
-      - 1/5 [アロマンシュ＝レ＝バン](https://ja.wikipedia.org/wiki/アロマンシュ＝レ＝バン "wikilink"), [サン＝ヴィゴール＝ル＝グラン](https://ja.wikipedia.org/wiki/サン＝ヴィゴール＝ル＝グラン "wikilink"), [コム (カルヴァドス県)](https://ja.wikipedia.org/wiki/コム_\(カルヴァドス県\) "wikilink"), [コルヴィル＝シュル＝メール](https://ja.wikipedia.org/wiki/コルヴィル＝シュル＝メール "wikilink")
-      - 1/1 [マンシー (フランス)](https://ja.wikipedia.org/wiki/マンシー_\(フランス\) "wikilink")
+      - 2/1 [ノエラ・ポントワ](../Page/ノエラ・ポントワ.md "wikilink")
+      - 1/20 [ラ・ベル・イロワーズ](../Page/ラ・ベル・イロワーズ.md "wikilink")
+      - 1/5 [アロマンシュ＝レ＝バン](../Page/アロマンシュ＝レ＝バン.md "wikilink"), [サン＝ヴィゴール＝ル＝グラン](../Page/サン＝ヴィゴール＝ル＝グラン.md "wikilink"), [コム (カルヴァドス県)](../Page/コム_\(カルヴァドス県\).md "wikilink"), [コルヴィル＝シュル＝メール](../Page/コルヴィル＝シュル＝メール.md "wikilink")
+      - 1/1 [マンシー (フランス)](../Page/マンシー_\(フランス\).md "wikilink")
 
 <!-- end list -->
 
   - **[2019年](../Page/2019年.md "wikilink")**
-      - 12/29 [ル・トロンシェ (イル＝エ＝ヴィレーヌ県)](https://ja.wikipedia.org/wiki/ル・トロンシェ_\(イル＝エ＝ヴィレーヌ県\) "wikilink"), [シャン＝シュル＝レマン](https://ja.wikipedia.org/wiki/シャン＝シュル＝レマン "wikilink"), [タイユブール (シャラント＝マリティーム県)](https://ja.wikipedia.org/wiki/タイユブール_\(シャラント＝マリティーム県\) "wikilink"), [クレピー＝アン＝ヴァロワ](https://ja.wikipedia.org/wiki/クレピー＝アン＝ヴァロワ "wikilink"), [コワイヨル](https://ja.wikipedia.org/wiki/コワイヨル "wikilink")
-      - 12/9 [フランスのストライキ (1995年)](https://ja.wikipedia.org/wiki/フランスのストライキ_\(1995年\) "wikilink"), [フランスのストライキ (2019年)](https://ja.wikipedia.org/wiki/フランスのストライキ_\(2019年\) "wikilink")
-      - 12/5 [ジュール・イルマン](https://ja.wikipedia.org/wiki/ジュール・イルマン "wikilink")
-      - 11/30 [アンリ・デジレ・ランドリュー](https://ja.wikipedia.org/wiki/アンリ・デジレ・ランドリュー "wikilink")
-      - 11/21 [パレ・ル・モニアル](https://ja.wikipedia.org/wiki/パレ・ル・モニアル "wikilink")
+      - 12/29 [ル・トロンシェ (イル＝エ＝ヴィレーヌ県)](../Page/ル・トロンシェ_\(イル＝エ＝ヴィレーヌ県\).md "wikilink"), [シャン＝シュル＝レマン](../Page/シャン＝シュル＝レマン.md "wikilink"), [タイユブール (シャラント＝マリティーム県)](../Page/タイユブール_\(シャラント＝マリティーム県\).md "wikilink"), [クレピー＝アン＝ヴァロワ](../Page/クレピー＝アン＝ヴァロワ.md "wikilink"), [コワイヨル](../Page/コワイヨル.md "wikilink")
+      - 12/9 [フランスのストライキ (1995年)](../Page/フランスのストライキ_\(1995年\).md "wikilink"), [フランスのストライキ (2019年)](../Page/フランスのストライキ_\(2019年\).md "wikilink")
+      - 12/5 [ジュール・イルマン](../Page/ジュール・イルマン.md "wikilink")
+      - 11/30 [アンリ・デジレ・ランドリュー](../Page/アンリ・デジレ・ランドリュー.md "wikilink")
+      - 11/21 [パレ・ル・モニアル](../Page/パレ・ル・モニアル.md "wikilink")
       - 11/20 [ラ・クレイェット城](https://ja.wikipedia.org/wiki/ラ・クレイェット城 "wikilink")
-      - 11/18 [ラ・クレイェット](https://ja.wikipedia.org/wiki/ラ・クレイェット "wikilink")
+      - 11/18 [ラ・クレイェット](../Page/ラ・クレイェット.md "wikilink")
       - 11/14 [レザングル](https://ja.wikipedia.org/wiki/レザングル "wikilink")
       - 10/20 [リヴザルト収容所](https://ja.wikipedia.org/wiki/リヴザルト収容所 "wikilink")
       - 10/17 [ル・ヴェルネ収容所](https://ja.wikipedia.org/wiki/ル・ヴェルネ収容所 "wikilink")

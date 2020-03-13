@@ -7,28 +7,28 @@
 
 ### 現メンバー
 
-  - [TAMA](https://ja.wikipedia.org/wiki/TAMAMIZU "wikilink") （タマ・玉 [1月13日](../Page/1月13日.md "wikilink") - ） : [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身、B型。結成初期は「GYOKU」と名乗っていた\[1\]。オムニバスアルバム「Cry-Max Pleasure Super」に参加した際は作詞者に本名でクレジットされている。
+  - [TAMA](../Page/TAMAMIZU.md "wikilink") （タマ・玉 [1月13日](../Page/1月13日.md "wikilink") - ） : [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[京都府](../Page/京都府.md "wikilink")出身、B型。結成初期は「GYOKU」と名乗っていた\[1\]。オムニバスアルバム「Cry-Max Pleasure Super」に参加した際は作詞者に本名でクレジットされている。
   - [MASASHI](https://ja.wikipedia.org/wiki/MASASHI "wikilink") （マサシ・正志 [11月30日](../Page/11月30日.md "wikilink") - ） : [ギター](../Page/ギター.md "wikilink")、[鹿児島県](../Page/鹿児島県.md "wikilink")出身、A型。結成初期はサポートメンバーとして参加していたが後に正式加入。オムニバスアルバム「Cry-Max Pleasure Super」に参加した際は作曲者に本名でクレジットされている。
-  - [HIROSHI](https://ja.wikipedia.org/wiki/HIROSHI "wikilink") （ヒロシ・寛 [9月18日](../Page/9月18日.md "wikilink") - ） : [ドラムス](../Page/ドラムセット.md "wikilink")、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")出身、A型。
+  - [HIROSHI](../Page/HIROSHI.md "wikilink") （ヒロシ・寛 [9月18日](../Page/9月18日.md "wikilink") - ） : [ドラムス](../Page/ドラムセット.md "wikilink")、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")出身、A型。
 
 ### 旧メンバー
 
-  - [MAKKO](https://ja.wikipedia.org/wiki/MAKKO "wikilink") （マッコウ・真向 [6月24日](../Page/6月24日.md "wikilink") - ） : [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[山梨県](../Page/山梨県.md "wikilink")出身、O型。「Cry-Max Pleasure Super」のクレジットでは「まっこ」と表記されている。
-  - MIYUKI : [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")&[プログラミング](../Page/プログラミング.md "wikilink")。結成初期に在籍していたメンバー。TAMAと共にバンドの中心人物であった。
+  - [MAKKO](../Page/MAKKO.md "wikilink") （マッコウ・真向 [6月24日](../Page/6月24日.md "wikilink") - ） : [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[山梨県](../Page/山梨県.md "wikilink")出身、O型。「Cry-Max Pleasure Super」のクレジットでは「まっこ」と表記されている。
+  - MIYUKI : [ベース](../Page/ベース_\(弦楽器\).md "wikilink")&[プログラミング](../Page/プログラミング.md "wikilink")。結成初期に在籍していたメンバー。TAMAと共にバンドの中心人物であった。
   - KAGEMARU : [シンセサイザー](../Page/シンセサイザー.md "wikilink")。結成初期に在籍していたメンバー。
   - Q-SHI : [ドラムス](../Page/ドラムセット.md "wikilink")。結成初期に在籍していたメンバー。
 
 ### サポートメンバー
 
-  - Megu （メグ [5月24日](../Page/5月24日.md "wikilink") - ） : [Zwei](https://ja.wikipedia.org/wiki/Zwei "wikilink") のメンバーであり、[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。再結成時からサポートメンバーとしてライブやレコーディングに参加。
-  - [高井淳](https://ja.wikipedia.org/wiki/高井淳 "wikilink")（たかい じゅん [1月10日](../Page/1月10日.md "wikilink") - ） : [earthmind](https://ja.wikipedia.org/wiki/earthmind "wikilink") のメンバーであり、[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。2012年のサポートメンバーとして参加。
+  - Megu （メグ [5月24日](../Page/5月24日.md "wikilink") - ） : [Zwei](../Page/Zwei.md "wikilink") のメンバーであり、[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。再結成時からサポートメンバーとしてライブやレコーディングに参加。
+  - [高井淳](https://ja.wikipedia.org/wiki/高井淳 "wikilink")（たかい じゅん [1月10日](../Page/1月10日.md "wikilink") - ） : [earthmind](https://ja.wikipedia.org/wiki/earthmind "wikilink") のメンバーであり、[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。2012年のサポートメンバーとして参加。
   - [人時](../Page/人時.md "wikilink") （ひとき [7月19日](../Page/7月19日.md "wikilink") - ) : 2017年よりサポートメンバーとして参加。
 
 ## 概要
 
 楽曲は[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")による[テクノサウンドと生演奏の同期を多用し](https://ja.wikipedia.org/wiki/テクノ_\(ダンスミュージック\) "wikilink")、TAMAが少年のようなあどけないボーカルで歌うスタイル。メンバーのルックスやTAMAのボーカルスタイル等から[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")バンドとして扱われることも多かった。時折、ギターのMASASHIがTAMAに代わってボーカルを務めることもある。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にメジャーデビューし、[2002年](../Page/2002年.md "wikilink")8月30日に解散するも、[2009年](../Page/2009年.md "wikilink")2月14日に[TAMA](https://ja.wikipedia.org/wiki/TAMAMIZU "wikilink")、[MASASHI](https://ja.wikipedia.org/wiki/MASASHI "wikilink")、[HIROSHI](https://ja.wikipedia.org/wiki/HIROSHI "wikilink")の3人で再結成した\[2\]。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にメジャーデビューし、[2002年](../Page/2002年.md "wikilink")8月30日に解散するも、[2009年](../Page/2009年.md "wikilink")2月14日に[TAMA](../Page/TAMAMIZU.md "wikilink")、[MASASHI](https://ja.wikipedia.org/wiki/MASASHI "wikilink")、[HIROSHI](../Page/HIROSHI.md "wikilink")の3人で再結成した\[2\]。
 
 ファンはカスケーダーと呼ばれている。
 
@@ -50,7 +50,7 @@
 <th></th>
 <th><p>リリース日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>c/w曲</p></th>
 <th><p>最高順位</p></th>
 </tr>
@@ -201,41 +201,41 @@ STRAWBERRY MOON（neut mix）</p></td>
 
 #### オリジナルアルバム
 
-|        | リリース日                                                                                                            | タイトル                                                                                                | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 備考                    | 最高順位 |
-| ------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------- | ---- |
-| Indies | [1994年](../Page/1994年.md "wikilink")                                                                             | **[APOLLO EXERCISER](https://ja.wikipedia.org/wiki/APOLLO_EXERCISER "wikilink")**                   |                                                       |                       |      |
-| 1st    | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") | **[VIVA\!](https://ja.wikipedia.org/wiki/VIVA!_\(アルバム\) "wikilink")**                               | VICL-2163                                             | ミニアルバム                | 55位  |
-| 2nd    | [1996年](../Page/1996年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                                         | **[beautiful human life](https://ja.wikipedia.org/wiki/beautiful_human_life "wikilink")**           | VICL-2166                                             | ミニアルバム                | 71位  |
-| 3rd    | 1996年[10月23日](../Page/10月23日.md "wikilink")                                                                      | **[サムライマン](https://ja.wikipedia.org/wiki/サムライマン "wikilink")**                                       | VICL-8203                                             | 初のフルアルバム              | 49位  |
-| 4th    | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")                      | **[YELLOW MAGICAL TYPHOON](https://ja.wikipedia.org/wiki/YELLOW_MAGICAL_TYPHOON "wikilink")**       | VICL-60070                                            |                       | 31位  |
-| 5th    | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月17日](../Page/6月17日.md "wikilink")                      | **[80＊60=98](https://ja.wikipedia.org/wiki/80*60=98 "wikilink")**                                   | VICL-60242                                            |                       | 6位   |
-| 6th    | [1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")                      | **[コドモZ](https://ja.wikipedia.org/wiki/コドモZ "wikilink")**                                           | VICL-60354                                            |                       | 8位   |
-| 7th    | [2000年](../Page/2000年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")                                         | **[Adrenalin No.5](https://ja.wikipedia.org/wiki/Adrenalin_No.5 "wikilink")**                       | POCH-1951                                             |                       | 15位  |
-| 8th    | [2001年](../Page/2001年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")                                         | **[BUTTERFLY LIMITED EXPRESS](https://ja.wikipedia.org/wiki/BUTTERFLY_LIMITED_EXPRESS "wikilink")** | UPCH-1068                                             |                       | 33位  |
-| 9th    | [2009年](../Page/2009年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")                                         | **[VIVO](https://ja.wikipedia.org/wiki/VIVO_\(CASCADEのアルバム\) "wikilink")**                          | ASCM-6047                                             |                       | 56位  |
-| 10th   | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月19日](../Page/5月19日.md "wikilink")                      | **[メガラニカ](https://ja.wikipedia.org/wiki/メガラニカ_\(CASCADEのアルバム\) "wikilink")**                        | ASCM-6085                                             |                       | 68位  |
-| 11th   | [2011年](../Page/2011年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")                                         | **[サディスティック・グミ](https://ja.wikipedia.org/wiki/サディスティック・グミ "wikilink")**                             | ASCM-6090                                             |                       | 138位 |
-| 12th   | 2011年[9月14日](../Page/9月14日.md "wikilink")                                                                        | **[マゾヒスティック・ガム](https://ja.wikipedia.org/wiki/マゾヒスティック・ガム "wikilink")**                             | ASCM-6091                                             |                       | 131位 |
-| 13th   | [2012年](../Page/2012年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")                                         | **[ヘタウマカウボーイズ](https://ja.wikipedia.org/wiki/ヘタウマカウボーイズ "wikilink")**                               | ASCU-6094                                             |                       | 140位 |
-| 14th   | 2012年[10月17日](../Page/10月17日.md "wikilink")                                                                      | **[MONSTER'S CAMP](https://ja.wikipedia.org/wiki/MONSTER'S_CAMP "wikilink")**                       | ASCU-6098                                             |                       | 133位 |
-| 15th   | [2014年](../Page/2014年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")                                         | **[Jam-packed Jam](https://ja.wikipedia.org/wiki/Jam-packed_Jam "wikilink")**                       | ASCU-6102                                             |                       | 126位 |
-| 16th   | [2015年](../Page/2015年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")                                           | **[XX](https://ja.wikipedia.org/wiki/XX "wikilink")**                                               | ASCU-6103                                             |                       |      |
-| 17th   | [2018年](../Page/2018年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                                         | **[VIVA NICE TASTE](https://ja.wikipedia.org/wiki/VIVA_NICE_TASTE "wikilink")**                     | TKCA-74671                                            | 結成25周年を記念したセルフカバーアルバム |      |
+|        | リリース日                                                                                                            | タイトル                                                                                                | [規格品番](../Page/規格品番.md "wikilink") | 備考                    | 最高順位 |
+| ------ | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------- | --------------------- | ---- |
+| Indies | [1994年](../Page/1994年.md "wikilink")                                                                             | **[APOLLO EXERCISER](https://ja.wikipedia.org/wiki/APOLLO_EXERCISER "wikilink")**                   |                                    |                       |      |
+| 1st    | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") | **[VIVA\!](https://ja.wikipedia.org/wiki/VIVA!_\(アルバム\) "wikilink")**                               | VICL-2163                          | ミニアルバム                | 55位  |
+| 2nd    | [1996年](../Page/1996年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                                         | **[beautiful human life](https://ja.wikipedia.org/wiki/beautiful_human_life "wikilink")**           | VICL-2166                          | ミニアルバム                | 71位  |
+| 3rd    | 1996年[10月23日](../Page/10月23日.md "wikilink")                                                                      | **[サムライマン](https://ja.wikipedia.org/wiki/サムライマン "wikilink")**                                       | VICL-8203                          | 初のフルアルバム              | 49位  |
+| 4th    | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")                      | **[YELLOW MAGICAL TYPHOON](https://ja.wikipedia.org/wiki/YELLOW_MAGICAL_TYPHOON "wikilink")**       | VICL-60070                         |                       | 31位  |
+| 5th    | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月17日](../Page/6月17日.md "wikilink")                      | **[80＊60=98](https://ja.wikipedia.org/wiki/80*60=98 "wikilink")**                                   | VICL-60242                         |                       | 6位   |
+| 6th    | [1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")                      | **[コドモZ](https://ja.wikipedia.org/wiki/コドモZ "wikilink")**                                           | VICL-60354                         |                       | 8位   |
+| 7th    | [2000年](../Page/2000年.md "wikilink")[6月14日](../Page/6月14日.md "wikilink")                                         | **[Adrenalin No.5](https://ja.wikipedia.org/wiki/Adrenalin_No.5 "wikilink")**                       | POCH-1951                          |                       | 15位  |
+| 8th    | [2001年](../Page/2001年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")                                         | **[BUTTERFLY LIMITED EXPRESS](https://ja.wikipedia.org/wiki/BUTTERFLY_LIMITED_EXPRESS "wikilink")** | UPCH-1068                          |                       | 33位  |
+| 9th    | [2009年](../Page/2009年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")                                         | **[VIVO](https://ja.wikipedia.org/wiki/VIVO_\(CASCADEのアルバム\) "wikilink")**                          | ASCM-6047                          |                       | 56位  |
+| 10th   | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月19日](../Page/5月19日.md "wikilink")                      | **[メガラニカ](https://ja.wikipedia.org/wiki/メガラニカ_\(CASCADEのアルバム\) "wikilink")**                        | ASCM-6085                          |                       | 68位  |
+| 11th   | [2011年](../Page/2011年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")                                         | **[サディスティック・グミ](https://ja.wikipedia.org/wiki/サディスティック・グミ "wikilink")**                             | ASCM-6090                          |                       | 138位 |
+| 12th   | 2011年[9月14日](../Page/9月14日.md "wikilink")                                                                        | **[マゾヒスティック・ガム](https://ja.wikipedia.org/wiki/マゾヒスティック・ガム "wikilink")**                             | ASCM-6091                          |                       | 131位 |
+| 13th   | [2012年](../Page/2012年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")                                         | **[ヘタウマカウボーイズ](https://ja.wikipedia.org/wiki/ヘタウマカウボーイズ "wikilink")**                               | ASCU-6094                          |                       | 140位 |
+| 14th   | 2012年[10月17日](../Page/10月17日.md "wikilink")                                                                      | **[MONSTER'S CAMP](https://ja.wikipedia.org/wiki/MONSTER'S_CAMP "wikilink")**                       | ASCU-6098                          |                       | 133位 |
+| 15th   | [2014年](../Page/2014年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")                                         | **[Jam-packed Jam](https://ja.wikipedia.org/wiki/Jam-packed_Jam "wikilink")**                       | ASCU-6102                          |                       | 126位 |
+| 16th   | [2015年](../Page/2015年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")                                           | **[XX](https://ja.wikipedia.org/wiki/XX "wikilink")**                                               | ASCU-6103                          |                       |      |
+| 17th   | [2018年](../Page/2018年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")                                         | **[VIVA NICE TASTE](https://ja.wikipedia.org/wiki/VIVA_NICE_TASTE "wikilink")**                     | TKCA-74671                         | 結成25周年を記念したセルフカバーアルバム |      |
 
 #### ベストアルバム
 
-|     | リリース日                                                                                       | タイトル                                                                          | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 備考 | 最高順位 |
-| --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------- | -- | ---- |
-| 1st | [2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") | **[ピアザ](https://ja.wikipedia.org/wiki/ピアザ_\(CASCADEのアルバム\) "wikilink")**      | VICL-60538                                            |    | 18位  |
-| 2nd | [2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")                    | **[VIVA NICE BEST](https://ja.wikipedia.org/wiki/VIVA_NICE_BEST "wikilink")** | VICL-60958〜9                                          |    | 46位  |
+|     | リリース日                                                                                       | タイトル                                                                          | [規格品番](../Page/規格品番.md "wikilink") | 備考 | 最高順位 |
+| --- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------- | -- | ---- |
+| 1st | [2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") | **[ピアザ](https://ja.wikipedia.org/wiki/ピアザ_\(CASCADEのアルバム\) "wikilink")**      | VICL-60538                         |    | 18位  |
+| 2nd | [2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")                    | **[VIVA NICE BEST](https://ja.wikipedia.org/wiki/VIVA_NICE_BEST "wikilink")** | VICL-60958〜9                       |    | 46位  |
 
 #### 参加オムニバスアルバム
 
-| <small>リリース日</small>                                                                                       | <small>タイトル</small>                                                                        | <small>[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")</small> | <small>収録曲</small>     | <small>最高順位</small> |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ---------------------- | ------------------- |
-| <small>[1993年](../Page/1993年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")</small>                    | <small>**Cry-Max Pleasure ～Welcome to the Front Line Party～**</small>                      | <small>BVCR-1410</small>                                             | <small>DRAW</small>    |                     |
-| <small>[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月24日](../Page/5月24日.md "wikilink")</small> | <small>**Who's Next Cry-Max Pleasure Super ～Loud,Trance and Violence for Extacy～**</small> | <small>BVCR-1532</small>                                             | <small>See Saw</small> |                     |
-| <small>[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")</small> | <small>**原点**</small>                                                                      | <small>UICZ-8078</small>                                             | <small>コングラッチェ</small> |                     |
+| <small>リリース日</small>                                                                                       | <small>タイトル</small>                                                                        | <small>[規格品番](../Page/規格品番.md "wikilink")</small> | <small>収録曲</small>     | <small>最高順位</small> |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------- | ---------------------- | ------------------- |
+| <small>[1993年](../Page/1993年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")</small>                    | <small>**Cry-Max Pleasure ～Welcome to the Front Line Party～**</small>                      | <small>BVCR-1410</small>                          | <small>DRAW</small>    |                     |
+| <small>[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月24日](../Page/5月24日.md "wikilink")</small> | <small>**Who's Next Cry-Max Pleasure Super ～Loud,Trance and Violence for Extacy～**</small> | <small>BVCR-1532</small>                          | <small>See Saw</small> |                     |
+| <small>[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")</small> | <small>**原点**</small>                                                                      | <small>UICZ-8078</small>                          | <small>コングラッチェ</small> |                     |
 
 -----
 
@@ -270,7 +270,7 @@ STRAWBERRY MOON（neut mix）</p></td>
 
   - スーパーカー
 
-:\*[ヒマラヤ](https://ja.wikipedia.org/wiki/ヒマラヤ_\(企業\) "wikilink") CMソング
+:\*[ヒマラヤ](../Page/ヒマラヤ_\(企業\).md "wikilink") CMソング
 
   - S.O.S ロマンティック
 
@@ -290,7 +290,7 @@ STRAWBERRY MOON（neut mix）</p></td>
 
   - TOKYOダーリン
 
-:\*[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[モグモグGOMBO](https://ja.wikipedia.org/wiki/モグモグGOMBO "wikilink")』エンディングテーマ
+:\*[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")』エンディングテーマ
 
   - Sexy Sexy,
 
@@ -298,7 +298,7 @@ STRAWBERRY MOON（neut mix）</p></td>
 
   - STRAWBERRY MOON
 
-:\*[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[世界痛快伝説\!\!運命のダダダダーン\!](https://ja.wikipedia.org/wiki/世界痛快伝説!!運命のダダダダーン! "wikilink")』エンディングテーマ
+:\*[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[世界痛快伝説\!\!運命のダダダダーン\!](../Page/世界痛快伝説!!運命のダダダダーン!.md "wikilink")』エンディングテーマ
 
   - Curry is my Angel
 

@@ -1,11 +1,11 @@
 > この記事は[Sakippo](https://ja.wikipedia.org/wiki/Sakippo)から翻訳されています。
 
 
-「**Sakippo**」（サキッポ）は、[福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。
+「**Sakippo**」（サキッポ）は、[福田沙紀](../Page/福田沙紀.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。
 
 ## 解説
 
-アコースティックなサウンドを基調としたシンプルな楽曲が多く、[福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")のややハスキーなスウィート・ボイスと相俟って良質の仕上がり。「**1980年代の豊かなメロディのエッセンスを引き継ぐ、唯一の(発売当時)10代正統派シンガー**」というキャッチにふさわしいポップ・アルバムでもある。初回盤にはDVDが付属。
+アコースティックなサウンドを基調としたシンプルな楽曲が多く、[福田沙紀](../Page/福田沙紀.md "wikilink")のややハスキーなスウィート・ボイスと相俟って良質の仕上がり。「**1980年代の豊かなメロディのエッセンスを引き継ぐ、唯一の(発売当時)10代正統派シンガー**」というキャッチにふさわしいポップ・アルバムでもある。初回盤にはDVDが付属。
 
 ## 収録曲
 
@@ -30,15 +30,15 @@
         作詞・作曲：tetsuhiko、編曲：tasuku
 7.  **明日雨が上がる頃には** \[4:30\]
       -
-        作詞：[福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")、m-tAnk、作曲:[望月衛介](https://ja.wikipedia.org/wiki/望月衛介 "wikilink")、編曲：[井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")
+        作詞：[福田沙紀](../Page/福田沙紀.md "wikilink")、m-tAnk、作曲:[望月衛介](../Page/望月衛介.md "wikilink")、編曲：[井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")
 8.  **南国の花** \[4:07\]
       -
         作詞：Shoko、作曲：NOBODY　編曲：Koma2Kaz
-9.  **[花束を下さい](https://ja.wikipedia.org/wiki/花束を下さい "wikilink")** \[5:21\]
+9.  **[花束を下さい](../Page/花束を下さい.md "wikilink")** \[5:21\]
       -
         作詞:田形美喜子、作曲:ムラマツテツヤ、編曲:Koma2Kaz
-        2ndシングル。[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』9月度エンディングテーマ
-10. **[幸せのテレパシー](https://ja.wikipedia.org/wiki/幸せのテレパシー "wikilink")** \[4:39\]
+        2ndシングル。[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』9月度エンディングテーマ
+10. **[幸せのテレパシー](../Page/幸せのテレパシー.md "wikilink")** \[4:39\]
       -
         作詞・作曲：[広瀬香美](https://ja.wikipedia.org/wiki/広瀬香美 "wikilink")　編曲：井上ヨシマサ)
         3rdシングル。劇場版「[ムシキング](https://ja.wikipedia.org/wiki/ムシキング#映画 "wikilink")」主題歌。

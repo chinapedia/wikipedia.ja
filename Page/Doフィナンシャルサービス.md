@@ -9,15 +9,15 @@
 
   - Do-Link決済
   - セシールカード
-  - [オートクレジット](https://ja.wikipedia.org/wiki/オートローン "wikilink")
+  - [オートクレジット](../Page/オートローン.md "wikilink")
 
 ## 沿革
 
   - [2002年](../Page/2002年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") - 住商ポケットファイナンス株式会社設立。
-  - [2007年](../Page/2007年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - プロミス株式会社（現[SMBCコンシューマーファイナンス](https://ja.wikipedia.org/wiki/SMBCコンシューマーファイナンス "wikilink")株式会社）の100%子会社として株式会社Doフィナンシャルサービス設立。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - 住商ポケットファイナンス株式会社が[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")をエス・ピー・エフ株式会社に変更。
+  - [2007年](../Page/2007年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") - プロミス株式会社（現[SMBCコンシューマーファイナンス](../Page/SMBCコンシューマーファイナンス.md "wikilink")株式会社）の100%子会社として株式会社Doフィナンシャルサービス設立。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - 住商ポケットファイナンス株式会社が[商号](../Page/商号.md "wikilink")をエス・ピー・エフ株式会社に変更。
   - 2008年[12月1日](../Page/12月1日.md "wikilink") - 株式会社Doフィナンシャルサービスがエス・ピー・エフ株式会社を[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")。
-  - [2011年](../Page/2011年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink") - プロミスがDoフィナンシャルサービス株を[SBIキャピタルソリューションズ](https://ja.wikipedia.org/wiki/SBIホールディングス "wikilink")（現アドミラルキャピタル株式会社）に売却。
+  - [2011年](../Page/2011年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink") - プロミスがDoフィナンシャルサービス株を[SBIキャピタルソリューションズ](../Page/SBIホールディングス.md "wikilink")（現アドミラルキャピタル株式会社）に売却。
 
 ## 外部リンク
 

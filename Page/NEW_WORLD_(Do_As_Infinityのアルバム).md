@@ -7,7 +7,7 @@
 
   - この作品で初のオリコン初登場1位・最高位1位を同時に獲得。
   - 収録曲のほとんどがシングル曲とカップリング曲で占めており、新曲はわずか3曲である。
-  - ブックレットの写真にはシングル｢[We are.](../Page/We_are..md "wikilink")｣の時に撮影されたものが使われている。そのため、｢We are.｣でフロントメンバーから離れた[長尾大](https://ja.wikipedia.org/wiki/長尾大 "wikilink")も写っている。
+  - ブックレットの写真にはシングル｢[We are.](../Page/We_are..md "wikilink")｣の時に撮影されたものが使われている。そのため、｢We are.｣でフロントメンバーから離れた[長尾大](../Page/長尾大.md "wikilink")も写っている。
   - 初回盤はスリーブケース&ボーナストラックを1曲収録。
 
 ## 収録曲
@@ -48,10 +48,10 @@
 
 ## 参加ミュージシャン
 
-  - **[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")(Vox)** ： [伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")・[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")
-  - **[ギター](../Page/ギター.md "wikilink")(Guitar)** ： 大渡亮・[長尾大](https://ja.wikipedia.org/wiki/長尾大 "wikilink")
-  - **[プログラミング](../Page/プログラミング.md "wikilink")(Programming)** ： [中山信彦](https://ja.wikipedia.org/wiki/中山信彦 "wikilink")・[飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")・長尾大・[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
-  - **[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")(Bass)** ： 亀田誠治・[渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")・[小池道昭](https://ja.wikipedia.org/wiki/小池道昭 "wikilink")
+  - **[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")(Vox)** ： [伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")・[大渡亮](../Page/大渡亮.md "wikilink")
+  - **[ギター](../Page/ギター.md "wikilink")(Guitar)** ： 大渡亮・[長尾大](../Page/長尾大.md "wikilink")
+  - **[プログラミング](../Page/プログラミング.md "wikilink")(Programming)** ： [中山信彦](https://ja.wikipedia.org/wiki/中山信彦 "wikilink")・[飯田高広](https://ja.wikipedia.org/wiki/飯田高広 "wikilink")・長尾大・[亀田誠治](../Page/亀田誠治.md "wikilink")
+  - **[ベース](../Page/ベース_\(弦楽器\).md "wikilink")(Bass)** ： 亀田誠治・[渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")・[小池道昭](https://ja.wikipedia.org/wiki/小池道昭 "wikilink")
   - **[キーボード](../Page/キーボード_\(楽器\).md "wikilink")(Keyboard)** ： [上杉洋史](https://ja.wikipedia.org/wiki/上杉洋史 "wikilink")
   - **[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")(Drums)** ： [河村智康](https://ja.wikipedia.org/wiki/河村智康 "wikilink")・[そうる透](../Page/そうる透.md "wikilink")・[倉内充](https://ja.wikipedia.org/wiki/倉内充 "wikilink")・[村石雅行](../Page/村石雅行.md "wikilink")
   - **[ホーン](https://ja.wikipedia.org/wiki/ホーン "wikilink")(Horn)** ： [Yokan](https://ja.wikipedia.org/wiki/Yokan "wikilink")

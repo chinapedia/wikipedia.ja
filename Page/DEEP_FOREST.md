@@ -6,7 +6,7 @@
 ## 内容
 
   - 前作からわずか7ヶ月という早さでリリースされた3rdアルバム。3ヶ月連続リリース[シングル](../Page/シングル.md "wikilink")を含む11曲（初回盤は12曲）収録。
-  - 前作に引き続き[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録し、初動売上は30万枚を突破、オリジナルアルバムでは最も高い売り上げを記録。
+  - 前作に引き続き[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位を記録し、初動売上は30万枚を突破、オリジナルアルバムでは最も高い売り上げを記録。
   - 7ヶ月という短い制作期間である。
   - 初回盤は[ボーナストラック収録](../Page/ボーナス・トラック.md "wikilink")、スリーブケース仕様、ブックレット付き。
   - 「ザ・コンビニⅢ」という経営シミュレーションゲームでこのアルバムのアレンジバージョンがBGM(ゲームソフトをCDplayerで再生すると全曲聞ける)として使われている。
@@ -18,14 +18,14 @@
         3ヶ月連続リリース第三弾。[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』エンディングテーマ。
 2.  **[遠くまで](../Page/遠くまで_\(Do_As_Infinityの曲\).md "wikilink") (Album Ver.)**
       -
-        3ヶ月連続リリース第一弾。[アニメ映画](../Page/アニメーション映画.md "wikilink")『[バンパイアハンターD](https://ja.wikipedia.org/wiki/吸血鬼ハンターD "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。シングル版と異なり、イントロとアウトロの[SE](../Page/SE.md "wikilink")がカットされている。
+        3ヶ月連続リリース第一弾。[アニメ映画](../Page/アニメーション映画.md "wikilink")『[バンパイアハンターD](../Page/吸血鬼ハンターD.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。シングル版と異なり、イントロとアウトロの[SE](../Page/SE.md "wikilink")がカットされている。
 3.  **タダイマ**
       -
         2006年3月15日にリリースされたファン投票によるベストアルバム『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』にも収録されている。
 4.  **Get yourself**
 5.  **[翼の計画](../Page/深い森.md "wikilink")**
       -
-        「深い森」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。伴都美子出演の[花王](../Page/花王.md "wikilink")の[シャンプー](https://ja.wikipedia.org/wiki/シャンプー "wikilink")製品「ラビナス」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        「深い森」の[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")。伴都美子出演の[花王](../Page/花王.md "wikilink")の[シャンプー](../Page/シャンプー.md "wikilink")製品「ラビナス」[CMソング](../Page/コマーシャルソング.md "wikilink")。
 6.  **構造改革**
       -
         イントロ部分を逆再生すると｢[CARNAVAL](../Page/Desire_\(Do_As_Infinityの曲\).md "wikilink")([Desireのカップリング曲](../Page/Desire_\(Do_As_Infinityの曲\).md "wikilink"))｣の一部が聞こえる。
@@ -40,7 +40,7 @@
         『Week\!』のアンサーソングとされている楽曲。
 10. **[冒険者たち](../Page/冒険者たち_\(Do_As_Infinityの曲\).md "wikilink")**
       -
-        先行シングル曲。花王「ラビナス」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+        先行シングル曲。花王「ラビナス」[CMソング](../Page/コマーシャルソング.md "wikilink")。
 11. **遠雷**
       -
         [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[Do The Best](../Page/Do_The_Best.md "wikilink")』及び『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』にも収録されている。PVも制作され、2001年9月27日に発売されたクリップ集『5』で視聴が可能である。

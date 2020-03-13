@@ -46,12 +46,12 @@
   - に～づまはセーラー服（[Puzzlebox](https://ja.wikipedia.org/wiki/Puzzlebox "wikilink")）（2005年）
   - KISS×400 懐かしき日々の連続（[WINTERS](../Page/WINTERS.md "wikilink")）（2005年）
   - Alea -アレア- 紅き月を遙かに望み（[CALIGULA](../Page/CALIGULA.md "wikilink")）（2007年）
-  - きみはぐ（[フロントウイング](https://ja.wikipedia.org/wiki/フロントウイング "wikilink")）（2007年）(作品はアニメ化(R-18)されている 2009年Milkyより)
+  - きみはぐ（[フロントウイング](../Page/フロントウイング.md "wikilink")）（2007年）(作品はアニメ化(R-18)されている 2009年Milkyより)
   - 快感！SPOT☆LIGHT（[ディーゼルマイン](https://ja.wikipedia.org/wiki/ディーゼルマイン "wikilink")）（2010年）
-  - [グリザイアの迷宮](https://ja.wikipedia.org/wiki/グリザイアの迷宮 "wikilink")（[フロントウイング](https://ja.wikipedia.org/wiki/フロントウイング "wikilink")）（2012年、一部原画)
-  - 初恋ピュア学園(※一般向け)([Q-Max](https://ja.wikipedia.org/wiki/Q-Max "wikilink"))(2011年12月-2012年2月 Mobage,Yahoo\!Mobage,GREEで配信。作品の一部は『昔、キモオタ童貞だった俺が金を手に入れたら～』へ再利用)
+  - [グリザイアの迷宮](https://ja.wikipedia.org/wiki/グリザイアの迷宮 "wikilink")（[フロントウイング](../Page/フロントウイング.md "wikilink")）（2012年、一部原画)
+  - 初恋ピュア学園(※一般向け)([Q-Max](../Page/Q-Max.md "wikilink"))(2011年12月-2012年2月 Mobage,Yahoo\!Mobage,GREEで配信。作品の一部は『昔、キモオタ童貞だった俺が金を手に入れたら～』へ再利用)
   - 昔、キモオタ童貞だった俺が金を手に入れたら（G●EE、Mo●ageで活躍した）アイドルのコーマンに入れることができた！（ディーゼルマイン）（2012年）
-  - [グリザイアの楽園](https://ja.wikipedia.org/wiki/グリザイアの楽園 "wikilink")（[フロントウイング](https://ja.wikipedia.org/wiki/フロントウイング "wikilink")）（2013年、一部原画）
+  - [グリザイアの楽園](https://ja.wikipedia.org/wiki/グリザイアの楽園 "wikilink")（[フロントウイング](../Page/フロントウイング.md "wikilink")）（2013年、一部原画）
 
 ### 企画進行中
 
@@ -61,8 +61,8 @@
 
   - ペロペロCandy陽の章設定原画集（コスミックインターナショナル）[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")5月発行
   - ぺろCan2 Lovely Angels原画集（KSSブックス）[2001年](../Page/2001年.md "wikilink")6月発行
-  - INOアートワークスVelvet Skin（[コアマガジン](https://ja.wikipedia.org/wiki/コアマガジン "wikilink")）[2007年](../Page/2007年.md "wikilink")11月発行
-  - 「彼氏いない歴＝年齢」じゃ、どうしてイケナイのよ\!? INOアートワークス（[コアマガジン](https://ja.wikipedia.org/wiki/コアマガジン "wikilink")）[2013年](../Page/2013年.md "wikilink")4月発行 ISBN 978-4-86436-468-3
+  - INOアートワークスVelvet Skin（[コアマガジン](../Page/コアマガジン.md "wikilink")）[2007年](../Page/2007年.md "wikilink")11月発行
+  - 「彼氏いない歴＝年齢」じゃ、どうしてイケナイのよ\!? INOアートワークス（[コアマガジン](../Page/コアマガジン.md "wikilink")）[2013年](../Page/2013年.md "wikilink")4月発行 ISBN 978-4-86436-468-3
 
 ### マンガ雑誌（出版物）
 
@@ -70,7 +70,7 @@
 
 ### 小説（出版物）
 
-  - おっぱいおっぱい三姉妹（[フランス書院](https://ja.wikipedia.org/wiki/フランス書院 "wikilink")）表紙イラスト、挿絵　[2013年](../Page/2013年.md "wikilink")9月発行 (NOVEL 巽 飛呂彦）
+  - おっぱいおっぱい三姉妹（[フランス書院](../Page/フランス書院.md "wikilink")）表紙イラスト、挿絵　[2013年](../Page/2013年.md "wikilink")9月発行 (NOVEL 巽 飛呂彦）
 
 ## 脚注
 

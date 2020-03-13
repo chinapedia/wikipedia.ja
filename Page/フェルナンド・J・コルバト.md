@@ -5,13 +5,13 @@
 
 ## 業績
 
-彼が関わった最初のタイムシェアリングシステム MIT [Compatible Time-Sharing System](../Page/CTSS.md "wikilink") は、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")にデモンストレーションを行った。この経験を生かした次のプロジェクト [Multics](https://ja.wikipedia.org/wiki/Multics "wikilink") には[ハネウェル](https://ja.wikipedia.org/wiki/ハネウェル "wikilink")が参加した。Multics は商業的には成功したとは言えないが、[ケン・トンプソン](../Page/ケン・トンプソン.md "wikilink")らに直接的な影響を与え [UNIX](../Page/UNIX.md "wikilink") の開発を導いた。UNIX はある意味で Multics の直接的な後継であり、世界中で使われ、他のオペレーティングシステムの設計にも影響を与えた。
+彼が関わった最初のタイムシェアリングシステム MIT [Compatible Time-Sharing System](../Page/CTSS.md "wikilink") は、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")にデモンストレーションを行った。この経験を生かした次のプロジェクト [Multics](../Page/Multics.md "wikilink") には[ハネウェル](../Page/ハネウェル.md "wikilink")が参加した。Multics は商業的には成功したとは言えないが、[ケン・トンプソン](../Page/ケン・トンプソン.md "wikilink")らに直接的な影響を与え [UNIX](../Page/UNIX.md "wikilink") の開発を導いた。UNIX はある意味で Multics の直接的な後継であり、世界中で使われ、他のオペレーティングシステムの設計にも影響を与えた。
 
 ## 経歴
 
-[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[オークランドで生まれる](../Page/オークランド_\(カリフォルニア州\).md "wikilink")。[1950年](../Page/1950年.md "wikilink")、[カリフォルニア工科大学](https://ja.wikipedia.org/wiki/カリフォルニア工科大学 "wikilink")を卒業。[1956年](../Page/1956年.md "wikilink")、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")で[物理学](../Page/物理学.md "wikilink")の博士号を取得した。卒業後 MIT 計算センターに勤務し、[1965年](../Page/1965年.md "wikilink")に教授に就任。引退まで MIT にとどまった。
+[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[オークランドで生まれる](../Page/オークランド_\(カリフォルニア州\).md "wikilink")。[1950年](../Page/1950年.md "wikilink")、[カリフォルニア工科大学](../Page/カリフォルニア工科大学.md "wikilink")を卒業。[1956年](../Page/1956年.md "wikilink")、[マサチューセッツ工科大学](../Page/マサチューセッツ工科大学.md "wikilink")で[物理学](../Page/物理学.md "wikilink")の博士号を取得した。卒業後 MIT 計算センターに勤務し、[1965年](../Page/1965年.md "wikilink")に教授に就任。引退まで MIT にとどまった。
 
-数々の賞を受賞しているが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[チューリング賞](../Page/チューリング賞.md "wikilink")を授与された。受賞理由は「汎用大規模タイムシェアリング・リソース共有型コンピュータシステムのコンセプト構築と開発を導いた先駆的業績に対して」。1998年には[C\&C賞](https://ja.wikipedia.org/wiki/C&C賞 "wikilink")受賞。
+数々の賞を受賞しているが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[チューリング賞](../Page/チューリング賞.md "wikilink")を授与された。受賞理由は「汎用大規模タイムシェアリング・リソース共有型コンピュータシステムのコンセプト構築と開発を導いた先駆的業績に対して」。1998年には[C\&C賞](../Page/C&C賞.md "wikilink")受賞。
 
 2012年、[コンピュータ歴史博物館](https://ja.wikipedia.org/wiki/コンピュータ歴史博物館 "wikilink")のフェローに選ばれた\[2\]\[3\]。
 

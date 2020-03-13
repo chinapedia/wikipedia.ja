@@ -23,9 +23,9 @@
 
 <!-- end list -->
 
-  - [西岡徳馬](https://ja.wikipedia.org/wiki/西岡徳馬 "wikilink")
-  - [Take2](https://ja.wikipedia.org/wiki/Take2 "wikilink")（[深沢邦之](https://ja.wikipedia.org/wiki/深沢邦之 "wikilink")・[東貴博](https://ja.wikipedia.org/wiki/東貴博 "wikilink")）
-  - [森公美子](https://ja.wikipedia.org/wiki/森公美子 "wikilink")
+  - [西岡徳馬](../Page/西岡徳馬.md "wikilink")
+  - [Take2](../Page/Take2.md "wikilink")（[深沢邦之](../Page/深沢邦之.md "wikilink")・[東貴博](../Page/東貴博.md "wikilink")）
+  - [森公美子](../Page/森公美子.md "wikilink")
   - [加藤明日美](../Page/加藤明日美.md "wikilink")
 
 ## ルール

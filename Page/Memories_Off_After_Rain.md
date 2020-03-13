@@ -1,17 +1,17 @@
 > この記事は[Memories Off After Rain](https://ja.wikipedia.org/wiki/Memories_Off_After_Rain)から翻訳されています。
 
 
-『**Memories Off After Rain**』（メモリーズオフ アフターレイン）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")第1四半期に[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")、3連作の[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")シリーズである。3作とも[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象。
+『**Memories Off After Rain**』（メモリーズオフ アフターレイン）は、[2005年](../Page/2005年.md "wikilink")第1四半期に[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")、3連作の[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")シリーズである。3作とも[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象。
 
   - Vol.1 折鶴 - 2005年1月27日発売
   - Vol.2 想演 - 2005年2月24日発売
   - Vol.3 卒業 - 2005年3月31日発売
 
-[2009年](../Page/2009年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[PlayStation Portableにて移植版が発売](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。PSP版ではVol.1 - 3まで全てのストーリーがまとめて収録されている。
+[2009年](../Page/2009年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")に[PlayStation Portableにて移植版が発売](../Page/PlayStation_Portable.md "wikilink")。PSP版ではVol.1 - 3まで全てのストーリーがまとめて収録されている。
 
 ## 概要
 
-本シリーズは[Memories Offシリーズ](../Page/Memories_Offシリーズ.md "wikilink")5周年の記念碑的作品。[Memories Offおよび](../Page/Memories_Off.md "wikilink")[Memories Off 2ndの前後に当たる時期のシナリオとなっており](https://ja.wikipedia.org/wiki/Memories_Off_2nd "wikilink")、両作の主人公たちの心の成長がメインテーマである。あくまで外伝であるので、本編と整合性のない部分もあるが、製作側としてはいわゆる「正史」にこだわりはないと述べている。『想い出にかわる君』や『それから』のキャラクターは、時期的に高校に在籍しているのだが、本作には登場しない。これは人数が多すぎて収拾がつかなくなるのを防ぐためである\[1\]。
+本シリーズは[Memories Offシリーズ](../Page/Memories_Offシリーズ.md "wikilink")5周年の記念碑的作品。[Memories Offおよび](../Page/Memories_Off.md "wikilink")[Memories Off 2ndの前後に当たる時期のシナリオとなっており](../Page/Memories_Off_2nd.md "wikilink")、両作の主人公たちの心の成長がメインテーマである。あくまで外伝であるので、本編と整合性のない部分もあるが、製作側としてはいわゆる「正史」にこだわりはないと述べている。『想い出にかわる君』や『それから』のキャラクターは、時期的に高校に在籍しているのだが、本作には登場しない。これは人数が多すぎて収拾がつかなくなるのを防ぐためである\[1\]。
 
 本作から導入された機能として、ゲーム中に登場する用語の説明を参照することで項目が増え、ゲームの世界観などを知ることができる"Encyclopedia"がある。
 
@@ -120,7 +120,7 @@
   - Vol.1 折鶴 - 初代及びpureのCGと音楽が登録される。
   - Vol.2 想演 - 2nd及び2nd 雪蛍の音楽とCGが登録される。
 
-『Vol.3 卒業』では『[メモオフみっくす](https://ja.wikipedia.org/wiki/メモオフみっくす "wikilink")』のデータにより、同作のCGや音楽と、『Memories Off Pure』『Memories Off Festa』および『[KID MIXセクション](https://ja.wikipedia.org/wiki/KID_MIXセクション "wikilink")』のCGが登録される。また、Vol.2のデータで出現するシナリオが存在する。
+『Vol.3 卒業』では『[メモオフみっくす](../Page/メモオフみっくす.md "wikilink")』のデータにより、同作のCGや音楽と、『Memories Off Pure』『Memories Off Festa』および『[KID MIXセクション](https://ja.wikipedia.org/wiki/KID_MIXセクション "wikilink")』のCGが登録される。また、Vol.2のデータで出現するシナリオが存在する。
 
 なお、『Memories Off Duet』『メモオフみっくす』ともKIDから発売された物の他に[サクセスから](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite2000シリーズで発売されたバージョンも存在するが](../Page/SuperLiteシリーズ.md "wikilink")、どちらのバージョンのデータでもCGなどの追加は可能である（ただし、SuperLite2000版のデータはKID版のデータがメモリーカードにない場合のみチェックされる）。
 

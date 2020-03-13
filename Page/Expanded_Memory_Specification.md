@@ -7,7 +7,7 @@
 
 初期のMS-DOSは[Intel 8086向けに作られていたことから](../Page/Intel_8086.md "wikilink")、8086が扱える最大のメモリ空間である1MB以上を扱うことが考慮されていなかった。8086が登場した当初は8ビットプロセッサの最大64KBの空間に比べると余裕があるように見えたが、[ROMや](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")[VRAM](../Page/VRAM.md "wikilink")の為に消費される空間を除いたメインメモリ空間は640KBまたは768KBに制限され、アプリケーションの規模が拡大し、また扱うデータが増大すると1MBでも不足するようになった。
 
-やがて1MBを越えるメモリを扱える上位互換品である[80286や](../Page/Intel_80286.md "wikilink")[80386が登場し](../Page/Intel_80386.md "wikilink")、メモリモジュールが安価に手に入る時代に入ったが、[リアルモード](https://ja.wikipedia.org/wiki/リアルモード "wikilink")でどうやって使うかが問題になった。プロセッサを[プロテクトモード](https://ja.wikipedia.org/wiki/プロテクトモード "wikilink")で動作させれば1MBを越えるメモリを扱えたが、当時のMS-DOSおよびそのアプリケーションは、多くの場合リアルモードで動作していた為である。
+やがて1MBを越えるメモリを扱える上位互換品である[80286や](../Page/Intel_80286.md "wikilink")[80386が登場し](../Page/Intel_80386.md "wikilink")、メモリモジュールが安価に手に入る時代に入ったが、[リアルモード](../Page/リアルモード.md "wikilink")でどうやって使うかが問題になった。プロセッサを[プロテクトモード](../Page/プロテクトモード.md "wikilink")で動作させれば1MBを越えるメモリを扱えたが、当時のMS-DOSおよびそのアプリケーションは、多くの場合リアルモードで動作していた為である。
 
 この壁を乗り越えるハード的な実装は幾つかあったが、代表的なのは後に統一規格として制定された[バンク切り換え](../Page/バンク切り換え.md "wikilink")によるメモリ拡張方式**EMS**である。EMSを使用するソフトではデータを16KB～64KBの窓を通してアクセスする為、データの分解・再結合をしなければならず、またEMSを通常メモリのように透過的に扱う[ライブラリ](../Page/ライブラリ.md "wikilink")も無かった事から、やや煩雑なプログラミングをする必要があった。（コード領域をEMSに展開し、コンベンショナルメモリの負担を軽減するコンパイラはあった）。 80386からは仮想86モードを使ったソフトウエア的なEMSの実装が一般的となった。
 
@@ -46,9 +46,9 @@
 
 ### 仮想86EMS
 
-[80386](https://ja.wikipedia.org/wiki/80386 "wikilink")以降のCPUで使用可能。[IA-32](../Page/IA-32.md "wikilink")の[仮想86モード](https://ja.wikipedia.org/wiki/仮想86モード "wikilink")を用いてEMSを実現する。EMSマネージャは、CPUのメモリマッピング機構を用いて、（プログラムから見て）ページフレームにプロテクトメモリ上のページを出現させる。ソフトウェアEMS同様の汎用性があり、ページ切替も高速。また、汎用拡張バスではなくメモリ専用バス上のメモリを使用可能なために最も高速である。ただし、仮想86モードはプロテクトモードの1タスクである（独立した動作モードではない点に注意）ため、プロテクトモードを使用した際に発生するのと同等の処理速度の低下がある。特に割り込みとI/Oポートへのアクセスでこの速度の低下が顕著となる。
+[80386](https://ja.wikipedia.org/wiki/80386 "wikilink")以降のCPUで使用可能。[IA-32](../Page/IA-32.md "wikilink")の[仮想86モード](../Page/仮想86モード.md "wikilink")を用いてEMSを実現する。EMSマネージャは、CPUのメモリマッピング機構を用いて、（プログラムから見て）ページフレームにプロテクトメモリ上のページを出現させる。ソフトウェアEMS同様の汎用性があり、ページ切替も高速。また、汎用拡張バスではなくメモリ専用バス上のメモリを使用可能なために最も高速である。ただし、仮想86モードはプロテクトモードの1タスクである（独立した動作モードではない点に注意）ため、プロテクトモードを使用した際に発生するのと同等の処理速度の低下がある。特に割り込みとI/Oポートへのアクセスでこの速度の低下が顕著となる。
 
-MS-DOS用ソフトウェアの互換性のために、[Windows 9x系まではMS](https://ja.wikipedia.org/wiki/Windows_9x系 "wikilink")-DOSモード用に[EMM386](../Page/EMM386.md "wikilink")が用意されていた。また仮想86モードに対応したWindowsの[DOSプロンプト](../Page/DOSプロンプト.md "wikilink")では、Windowsの機能により仮想EMSが提供される。特にMS-DOSモードを持たない[Windows NT系ではDOSプロンプト上で動作するアプリケーションに限られるが](../Page/Windows_NT系.md "wikilink")、その後のWindowsにおいてもEMSの設定項目が存在する。
+MS-DOS用ソフトウェアの互換性のために、[Windows 9x系まではMS](../Page/Windows_9x系.md "wikilink")-DOSモード用に[EMM386](../Page/EMM386.md "wikilink")が用意されていた。また仮想86モードに対応したWindowsの[DOSプロンプト](../Page/DOSプロンプト.md "wikilink")では、Windowsの機能により仮想EMSが提供される。特にMS-DOSモードを持たない[Windows NT系ではDOSプロンプト上で動作するアプリケーションに限られるが](../Page/Windows_NT系.md "wikilink")、その後のWindowsにおいてもEMSの設定項目が存在する。
 
 ## 設定上の注意
 
@@ -72,8 +72,8 @@ MS-DOS用ソフトウェアの互換性のために、[Windows 9x系まではMS]
   - [アドレス空間](../Page/アドレス空間.md "wikilink")そのものを拡張する訳ではないので、同時に参照可能なアドレス空間の大きさは1Mバイトのままである。
   - そのためプログラマはページフレームに出現しているページを常に把握してプログラムを開発する必要がある(メモリ管理に手間がかかる)。
   - 仕様として[マルチタスク](../Page/マルチタスク.md "wikilink")処理に必要なシステム保護機能（タスク毎に読み出し専用属性やコード実行専用属性つける等）が無かったため、マルチタスクおよび擬似マルチタスクOSの基本メモリ仕様としては不向きだった。
-  - DOS上で1Mバイトを超えるメモリを使用する方法としては[DOSエクステンダ](https://ja.wikipedia.org/wiki/DOSエクステンダ "wikilink")等より低速である。(DOSエクステンダは[バンク切り換え](../Page/バンク切り換え.md "wikilink")処理が不要である)
-  - 仮想86EMSは、他の[プロテクトモード](https://ja.wikipedia.org/wiki/プロテクトモード "wikilink")プログラムと共存するためには[VCPI](../Page/VCPI.md "wikilink")等の規格に対応する必要がある。
+  - DOS上で1Mバイトを超えるメモリを使用する方法としては[DOSエクステンダ](../Page/DOSエクステンダ.md "wikilink")等より低速である。(DOSエクステンダは[バンク切り換え](../Page/バンク切り換え.md "wikilink")処理が不要である)
+  - 仮想86EMSは、他の[プロテクトモード](../Page/プロテクトモード.md "wikilink")プログラムと共存するためには[VCPI](../Page/VCPI.md "wikilink")等の規格に対応する必要がある。
 
 ## 参考文献
 
@@ -86,10 +86,10 @@ MS-DOS用ソフトウェアの互換性のために、[Windows 9x系まではMS]
 
   - [MS-DOS](../Page/MS-DOS.md "wikilink")
   - [Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-  - [DOSエクステンダ](https://ja.wikipedia.org/wiki/DOSエクステンダ "wikilink")
+  - [DOSエクステンダ](../Page/DOSエクステンダ.md "wikilink")
   - [DPMI](../Page/DPMI.md "wikilink") (DOS Protected Mode Interface)
   - [VCPI](../Page/VCPI.md "wikilink") (Virtual Control Program Interface)
-  - [XMS](https://ja.wikipedia.org/wiki/XMS "wikilink") (Extended Memory Specification)
+  - [XMS](../Page/XMS.md "wikilink") (Extended Memory Specification)
   - [バンク切り換え](../Page/バンク切り換え.md "wikilink")
 
 [Category:メモリ管理](https://ja.wikipedia.org/wiki/Category:メモリ管理 "wikilink") [Category:MS-DOS](https://ja.wikipedia.org/wiki/Category:MS-DOS "wikilink")

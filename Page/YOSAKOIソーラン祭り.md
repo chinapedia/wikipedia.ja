@@ -9,7 +9,7 @@
 
 ## 歴史
 
-[北海道大学](../Page/北海道大学.md "wikilink")の学生だった[長谷川岳](https://ja.wikipedia.org/wiki/長谷川岳 "wikilink")（現・[参議院議員](../Page/参議院議員一覧.md "wikilink")）が大学2年の時、母親がガンを患い、兄が医師として勤める[高知県](../Page/高知県.md "wikilink")の病院へ入院したため、看病のために訪れた際、本場の[よさこい祭り](../Page/よさこい祭り.md "wikilink")に接しその躍動感に感動\[1\]、「こうした光景を北海道でも見られたら…」と、[1991年](../Page/1991年.md "wikilink")12月、学生仲間を募り5名で「YOSAKOIソーラン祭り実行委員会」を発足\[2\]\[3\] させ、高知県の「**よさこい**祭り」と北海道の「**[ソーラン](../Page/ソーラン節.md "wikilink")**節」を融合させた「YOSAKOIソーラン祭り」として企画・立案し、誕生したものである。
+[北海道大学](../Page/北海道大学.md "wikilink")の学生だった[長谷川岳](../Page/長谷川岳.md "wikilink")（現・[参議院議員](../Page/参議院議員一覧.md "wikilink")）が大学2年の時、母親がガンを患い、兄が医師として勤める[高知県](../Page/高知県.md "wikilink")の病院へ入院したため、看病のために訪れた際、本場の[よさこい祭り](../Page/よさこい祭り.md "wikilink")に接しその躍動感に感動\[1\]、「こうした光景を北海道でも見られたら…」と、[1991年](../Page/1991年.md "wikilink")12月、学生仲間を募り5名で「YOSAKOIソーラン祭り実行委員会」を発足\[2\]\[3\] させ、高知県の「**よさこい**祭り」と北海道の「**[ソーラン](../Page/ソーラン節.md "wikilink")**節」を融合させた「YOSAKOIソーラン祭り」として企画・立案し、誕生したものである。
 
 [1992年](../Page/1992年.md "wikilink")6月に「街は舞台だ\! 日本は変わる」を合言葉に、道内16大学の実行委員会150名で第1回YOSAKOIソーラン祭りを開催\[4\]。当初は参加10チーム、参加者1,000人、3会場という規模だった。[1996年](../Page/1996年.md "wikilink")に運営主体がYOSAKOIソーラン祭り実行委員会からYOSAKOIソーラン祭り普及振興会に変わり\[5\]、1998年には祭りの大規模化に伴い運営主体はYOSAKOIソーラン祭り組織委員会に移行したが\[6\]、メインステージである大通西8丁目会場、飛び入り参加型ステージのワオドリスクエアおよび大通公園のパレード広場については現在も企画・運営が[北海道大学](../Page/北海道大学.md "wikilink")はじめ道内の大学生による学生実行委員会によって行われている。
 
@@ -135,7 +135,7 @@
 <td><p>2,080,000人</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>第14回</p></td>
 <td><p>334</p></td>
 <td><p>43,000人</p></td>
@@ -284,7 +284,7 @@
   - 北海道万祭-HOKKAIDO BANZAI-会場 - 札幌市中央区大通西10丁目大通パレード南コース内
   - [一番街](../Page/札幌一番街.md "wikilink") [三越前会場](https://ja.wikipedia.org/wiki/札幌三越 "wikilink") - 札幌市中央区南1条西3丁目
   - 一番街 [丸井今井](../Page/丸井今井.md "wikilink")前会場 - 札幌市中央区南1条西2丁目
-  - [道庁赤れんが会場](https://ja.wikipedia.org/wiki/北海道庁旧本庁舎 "wikilink") - 札幌市中央区北3条西6丁目 庁舎前
+  - [道庁赤れんが会場](../Page/北海道庁旧本庁舎.md "wikilink") - 札幌市中央区北3条西6丁目 庁舎前
   - [ファミリーマート](../Page/ファミリーマート.md "wikilink")・FUNKY[すすきの](../Page/すすきの.md "wikilink")会場(4条会場、5条会場) - 札幌市中央区南4-6条西3-4丁目
   - [JR](../Page/北海道旅客鉄道.md "wikilink")[札幌駅](https://ja.wikipedia.org/wiki/札幌駅 "wikilink")南口広場会場 - 札幌市中央区北5条西4丁目 JR札幌駅南口「人の広場」
   - [サッポロファクトリー](../Page/サッポロファクトリー.md "wikilink")会場 - 札幌市中央区北2条東4丁目
@@ -475,7 +475,7 @@
 </tr>
 <tr class="even">
 <td><p>第14回</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>2</p></td>
 <td><p>10回</p></td>
 <td><p><small>乱舞童、三石なるこ会</small></p></td>
@@ -558,7 +558,7 @@
 <td><p>平岸天神</p></td>
 <td><p>札幌市豊平区</p></td>
 <td><p>20回</p></td>
-<td><p><small><a href="../Page/江別市.md" title="wikilink">江別まっことえぇ</a>＆<a href="https://ja.wikipedia.org/wiki/北海道情報大学" title="wikilink">北海道情報大学</a>、夢想漣えさし</small></p></td>
+<td><p><small><a href="../Page/江別市.md" title="wikilink">江別まっことえぇ</a>＆<a href="../Page/北海道情報大学.md" title="wikilink">北海道情報大学</a>、夢想漣えさし</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -651,7 +651,7 @@ YOSAKOI連</small></p></td>
 
 ## イベントの中継
 
-祭り期間中、道内のテレビ局は[特別番組](../Page/特別番組.md "wikilink")を編成してYOSAKOIを取り上げる。一番放送回数、時間共に長く、毎年北海道内の民放で力を入れているのが[札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")（STV）であり、ゲストを招いての生放送や、過去には同局の生放送が[日本テレビ系列で全国生放送された](../Page/日本テレビネットワーク協議会.md "wikilink")。第16回（[2007年](../Page/2007年.md "wikilink")）では瞬間視聴率が20%を超えた特番もある（ビデオリサーチ調べ、[札幌地区](https://ja.wikipedia.org/wiki/北海道 "wikilink")・世帯・リアルタイム）\[18\]。現在も生放送ではないものの、日本テレビ系列の道外局で特別番組をネットする事がある。
+祭り期間中、道内のテレビ局は[特別番組](../Page/特別番組.md "wikilink")を編成してYOSAKOIを取り上げる。一番放送回数、時間共に長く、毎年北海道内の民放で力を入れているのが[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STV）であり、ゲストを招いての生放送や、過去には同局の生放送が[日本テレビ系列で全国生放送された](../Page/日本テレビネットワーク協議会.md "wikilink")。第16回（[2007年](../Page/2007年.md "wikilink")）では瞬間視聴率が20%を超えた特番もある（ビデオリサーチ調べ、[札幌地区](https://ja.wikipedia.org/wiki/北海道 "wikilink")・世帯・リアルタイム）\[18\]。現在も生放送ではないものの、日本テレビ系列の道外局で特別番組をネットする事がある。
 
 しかし、平均視聴率自体は第16回（2007年）の13.2%以降、第17回（2008年）の10.8%、第18回（2009年）の8.4%と毎年減少し続けている（ビデオリサーチ調べ、札幌地区・世帯・リアルタイム。以下略）。このため、共催団体だった新聞社や放送局の参加が減少していき、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には[FMノースウェーブ](https://ja.wikipedia.org/wiki/FMノースウェーブ "wikilink")（2007年のみ）が撤退、[2009年](../Page/2009年.md "wikilink")には[読売新聞](../Page/読売新聞.md "wikilink")北海道支社、[エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[北海道放送](../Page/北海道放送.md "wikilink")（HBC）と[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）\[19\]、[2011年](../Page/2011年.md "wikilink")には[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB：2014年復帰）が共催団体から撤退しており\[20\]、2013年現在は北海道新聞社、札幌テレビ放送（STV）、テレビ北海道（TVh）の3社のみとなっている。
 
@@ -727,7 +727,7 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
 <!-- end list -->
 
   - [北海道新聞社](../Page/北海道新聞社.md "wikilink")
-  - [札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")
+  - [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")
   - [テレビ北海道](../Page/テレビ北海道.md "wikilink")
   - [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（-2010年、2014年-）
   - [北海道文化放送](../Page/北海道文化放送.md "wikilink") （-2009年）
@@ -776,7 +776,7 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
 
   - [よさこい祭り](../Page/よさこい祭り.md "wikilink") - [高知県](../Page/高知県.md "wikilink")が発祥の祭り
   - [YOSAKOI](../Page/YOSAKOI.md "wikilink") - [高知県](../Page/高知県.md "wikilink")の[よさこい祭り](../Page/よさこい祭り.md "wikilink")が発端となり、全国に波及した「踊り」を主体とする祭の一形態。
-  - [長谷川岳](https://ja.wikipedia.org/wiki/長谷川岳 "wikilink") - 創始者。現・[参議院議員](https://ja.wikipedia.org/wiki/参議院議員 "wikilink")（[自由民主党](../Page/自由民主党_\(日本\).md "wikilink")・[町村派](../Page/清和政策研究会.md "wikilink")）。元YOSAKOIソーラン祭り組織委員会専務理事、株式会社yosanet元取締役。
+  - [長谷川岳](../Page/長谷川岳.md "wikilink") - 創始者。現・[参議院議員](https://ja.wikipedia.org/wiki/参議院議員 "wikilink")（[自由民主党](../Page/自由民主党_\(日本\).md "wikilink")・[町村派](../Page/清和政策研究会.md "wikilink")）。元YOSAKOIソーラン祭り組織委員会専務理事、株式会社yosanet元取締役。
 
 ## 脚注
 

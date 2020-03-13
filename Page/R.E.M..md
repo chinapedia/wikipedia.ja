@@ -18,11 +18,11 @@
 
 1980年に[ジョージア州](../Page/ジョージア州.md "wikilink")[アセンズにて](https://ja.wikipedia.org/wiki/アセンズ_\(ジョージア州\) "wikilink")、[マイケル・スタイプ](https://ja.wikipedia.org/wiki/マイケル・スタイプ "wikilink")（ボーカル）、[ピーター・バック](https://ja.wikipedia.org/wiki/ピーター・バック "wikilink")（ギター）、[マイク・ミルズ](https://ja.wikipedia.org/wiki/マイク・ミルズ "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）、[ビル・ベリー](https://ja.wikipedia.org/wiki/ビル・ベリー "wikilink")（[ドラム](../Page/ドラムセット.md "wikilink")）の4人で結成された。
 
-米国の[インディー](https://ja.wikipedia.org/wiki/インディー "wikilink")レーベル"Hib-Tone"よりシングル「レディオ・フリー・ヨーロッパ（Radio Free Europe）」で1981年にデビュー。翌年に[A\&M傘下のインディーレーベル](../Page/A&Mレコード.md "wikilink")[I.R.S.に移籍](https://ja.wikipedia.org/wiki/:en:I.R.S._Records "wikilink")。5枚のアルバムをリリースした後、6枚目のアルバム『[グリーン](https://ja.wikipedia.org/wiki/グリーン_\(R.E.M.のアルバム\) "wikilink")』より[ワーナーへと移籍](https://ja.wikipedia.org/wiki/ワーナー・ミュージック・グループ "wikilink")。
+米国の[インディー](https://ja.wikipedia.org/wiki/インディー "wikilink")レーベル"Hib-Tone"よりシングル「レディオ・フリー・ヨーロッパ（Radio Free Europe）」で1981年にデビュー。翌年に[A\&M傘下のインディーレーベル](../Page/A&Mレコード.md "wikilink")[I.R.S.に移籍](https://ja.wikipedia.org/wiki/:en:I.R.S._Records "wikilink")。5枚のアルバムをリリースした後、6枚目のアルバム『[グリーン](https://ja.wikipedia.org/wiki/グリーン_\(R.E.M.のアルバム\) "wikilink")』より[ワーナーへと移籍](../Page/ワーナー・ミュージック・グループ.md "wikilink")。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にドラムのビル・ベリーが健康上の理由により脱退。以後は3人で活動。
 
-[2007年](../Page/2007年.md "wikilink")に、[ロックの殿堂](../Page/ロックの殿堂.md "wikilink")入り。授賞式でのプレゼンターは、[パール・ジャム](https://ja.wikipedia.org/wiki/パール・ジャム "wikilink")の[エディ・ヴェダー](https://ja.wikipedia.org/wiki/エディ・ヴェダー "wikilink")。
+[2007年](../Page/2007年.md "wikilink")に、[ロックの殿堂](../Page/ロックの殿堂.md "wikilink")入り。授賞式でのプレゼンターは、[パール・ジャム](../Page/パール・ジャム.md "wikilink")の[エディ・ヴェダー](https://ja.wikipedia.org/wiki/エディ・ヴェダー "wikilink")。
 
 活動31年目の[2011年](../Page/2011年.md "wikilink")9月21日、公式ホームページにて解散を発表。「僕らのファン、友人たちへ：生涯の友として共に歩んできたR.E.M.としての活動を、終わりにすることに決めた。」等とコメントした\[2\]。
 
@@ -30,11 +30,11 @@
 
 ### オリジナルアルバム
 
-  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")『[マーマー](https://ja.wikipedia.org/wiki/マーマー "wikilink")』*Murmur* - 36位、[ゴールド](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink") (US)
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")『[マーマー](https://ja.wikipedia.org/wiki/マーマー "wikilink")』*Murmur* - 36位、[ゴールド](../Page/ゴールドディスク.md "wikilink") (US)
   - [1984年](../Page/1984年.md "wikilink")『[夢の肖像](https://ja.wikipedia.org/wiki/夢の肖像 "wikilink")』*Reckoning* - 27位、ゴールド (US)
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")『[玉手箱](https://ja.wikipedia.org/wiki/玉手箱_\(アルバム\) "wikilink")』*Fables Of The Reconstruction* - 28位、ゴールド (US)
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")『[ライフズ・リッチ・ページェント](https://ja.wikipedia.org/wiki/ライフズ・リッチ・ページェント "wikilink")』*Lifes Rich Pageant* - 21位、ゴールド (US)
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")『[ドキュメント](https://ja.wikipedia.org/wiki/ドキュメント_\(アルバム\) "wikilink")』*Document* - 10位、[プラチナ](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink") (US)
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")『[ドキュメント](https://ja.wikipedia.org/wiki/ドキュメント_\(アルバム\) "wikilink")』*Document* - 10位、[プラチナ](../Page/ゴールドディスク.md "wikilink") (US)
   - [1988年](../Page/1988年.md "wikilink")『[グリーン](https://ja.wikipedia.org/wiki/グリーン_\(R.E.M.のアルバム\) "wikilink")』*Green* - 12位、2xプラチナ (US)
   - [1991年](../Page/1991年.md "wikilink")『[アウト・オブ・タイム](https://ja.wikipedia.org/wiki/アウト・オブ・タイム_\(アルバム\) "wikilink")』*Out Of Time* - 1位、4xプラチナ (US)
   - [1992年](../Page/1992年.md "wikilink")『[オートマチック・フォー・ザ・ピープル](https://ja.wikipedia.org/wiki/オートマチック・フォー・ザ・ピープル "wikilink")』*Automatic For The People* - 2位、4xプラチナ (US) 1位 (UK)
@@ -65,7 +65,7 @@
 
 ### インディーズ時代
 
-[アルペジオを多用したギターサウンドと](https://ja.wikipedia.org/wiki/アルペッジョ "wikilink")、メロディアスなベースラインが特徴である。
+[アルペジオを多用したギターサウンドと](../Page/アルペッジョ.md "wikilink")、メロディアスなベースラインが特徴である。
 
 この時期の作品には歌詞が一切掲載されておらず、スタイプの歌唱も聞き取りづらかった為に、「アメリカ人でも殆ど何を歌っているのかわからない」と言われたほど。
 
@@ -73,7 +73,7 @@
 
 ### ワーナー時代
 
-移籍後のアルバム『[グリーン](https://ja.wikipedia.org/wiki/グリーン_\(R.E.M.のアルバム\) "wikilink")』にて、[マンドリン](../Page/マンドリン.md "wikilink")や[アコーディオン](https://ja.wikipedia.org/wiki/アコーディオン "wikilink")等のトラディショナルな楽器を積極的に取り入れ、後の「ルージング・マイ・レリジョン（Losing My Religion）」の大ヒットへと繋がる。
+移籍後のアルバム『[グリーン](https://ja.wikipedia.org/wiki/グリーン_\(R.E.M.のアルバム\) "wikilink")』にて、[マンドリン](../Page/マンドリン.md "wikilink")や[アコーディオン](../Page/アコーディオン.md "wikilink")等のトラディショナルな楽器を積極的に取り入れ、後の「ルージング・マイ・レリジョン（Losing My Religion）」の大ヒットへと繋がる。
 
 ストリングスを大々的に取り入れた『[オートマチック・フォー・ザ・ピープル](https://ja.wikipedia.org/wiki/オートマチック・フォー・ザ・ピープル "wikilink")』、ノイジーなロックアルバム『モンスター』、各地でのライブ演奏やサウンドチェックを[8トラック](../Page/8トラック.md "wikilink")に録音した『ニュー・アドベンチャーズ・イン・ハイ・ファイ』、と作風の異なるアルバムを次々と発表した。
 
@@ -91,7 +91,7 @@
 
 ## 関連バンド・ミュージシャン
 
-  - R.E.M.のメンバーが影響を受けたバンドとしては、[ヴェルヴェット・アンダーグラウンド](../Page/ヴェルヴェット・アンダーグラウンド.md "wikilink")、[パティ・スミス](https://ja.wikipedia.org/wiki/パティ・スミス "wikilink")、[テレヴィジョン等があげられる](../Page/テレヴィジョン_\(バンド\).md "wikilink")。パティ・スミスは『ニュー・アドベンチャーズ・イン・ハイ・ファイ』収録曲「E-Bow the Letter」に参加している。
+  - R.E.M.のメンバーが影響を受けたバンドとしては、[ヴェルヴェット・アンダーグラウンド](../Page/ヴェルヴェット・アンダーグラウンド.md "wikilink")、[パティ・スミス](../Page/パティ・スミス.md "wikilink")、[テレヴィジョン等があげられる](../Page/テレヴィジョン_\(バンド\).md "wikilink")。パティ・スミスは『ニュー・アドベンチャーズ・イン・ハイ・ファイ』収録曲「E-Bow the Letter」に参加している。
   - ヴェルヴェット・アンダーグラウンドの楽曲を数多くカバーしている。
 
 :\*「[アフター・アワーズ](https://ja.wikipedia.org/wiki/アフター・アワーズ_\(ヴェルヴェット・アンダーグラウンドの曲\) "wikilink")」 - ライブ音源が1990年9月発売のビデオ『[Tourfilm](https://ja.wikipedia.org/wiki/:en:Tourfilm "wikilink")』や1991年のシングル「Losing My Religion」などに収録された\[4\]。
@@ -112,7 +112,7 @@
 
 :\*「[恋はフェニックス](https://ja.wikipedia.org/wiki/恋はフェニックス "wikilink")」 - 1995年のツアーで演奏された\[6\]。
 
-  - [トム・ヨーク](https://ja.wikipedia.org/wiki/トム・ヨーク "wikilink")（[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")）、[クリス・マーティン](../Page/クリス・マーティン.md "wikilink")（[コールドプレイ](https://ja.wikipedia.org/wiki/コールドプレイ "wikilink")）、[ソニック・ユース](https://ja.wikipedia.org/wiki/ソニック・ユース "wikilink")、[パール・ジャム](https://ja.wikipedia.org/wiki/パール・ジャム "wikilink")、[スティーヴン・マルクマス](../Page/スティーヴン・マルクマス.md "wikilink")（[ペイヴメント](../Page/ペイヴメント.md "wikilink")）、[デーモン・アルバーン](https://ja.wikipedia.org/wiki/デーモン・アルバーン "wikilink")（[ブラー](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[ゴリラズ](../Page/ゴリラズ.md "wikilink")）らからのリスペクトを一身に受けている。
+  - [トム・ヨーク](../Page/トム・ヨーク.md "wikilink")（[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")）、[クリス・マーティン](../Page/クリス・マーティン.md "wikilink")（[コールドプレイ](../Page/コールドプレイ.md "wikilink")）、[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")、[パール・ジャム](../Page/パール・ジャム.md "wikilink")、[スティーヴン・マルクマス](../Page/スティーヴン・マルクマス.md "wikilink")（[ペイヴメント](../Page/ペイヴメント.md "wikilink")）、[デーモン・アルバーン](https://ja.wikipedia.org/wiki/デーモン・アルバーン "wikilink")（[ブラー](https://ja.wikipedia.org/wiki/ブラー "wikilink")、[ゴリラズ](../Page/ゴリラズ.md "wikilink")）らからのリスペクトを一身に受けている。
   - [ニルヴァーナの](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")[カート・コバーン](../Page/カート・コバーン.md "wikilink")もR.E.M.への共感を表明していた一人。『オートマチック・フォー・ザ・ピープル』はカートが自殺する直前に聞いていたとされるレコードとしても知られる\[7\]。
   - ピーター・バックのギターサウンドは、デビュー当時[ザ・バーズ](https://ja.wikipedia.org/wiki/ザ・バーズ "wikilink")とよく比較された。
   - 同郷の[B-52's](../Page/B-52's.md "wikilink")のケイト・ピアソンは『アウト・オブ・タイム』の数曲でボーカルとして参加している。

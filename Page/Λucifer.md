@@ -44,7 +44,7 @@ MAKOTOは[タイで人気を誇っており](../Page/タイ王国.md "wikilink")
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/堕天使BLUE" title="wikilink">堕天使BLUE</a></strong></p></td>
 <td><p>PCDM-00009</p></td>
 <td><ol>
-<li>堕天使BLUE 【作詞:<a href="https://ja.wikipedia.org/wiki/森雪之丞" title="wikilink">森雪之丞</a> 作曲:<a href="https://ja.wikipedia.org/wiki/TAKUYA" title="wikilink">TAKUYA</a>】</li>
+<li>堕天使BLUE 【作詞:<a href="../Page/森雪之丞.md" title="wikilink">森雪之丞</a> 作曲:<a href="../Page/TAKUYA.md" title="wikilink">TAKUYA</a>】</li>
 <li>Silent Melody 【作詞:森雪之丞 作曲:TAKUYA】</li>
 <li>堕天使BLUE(off vocal version)</li>
 </ol></td>
@@ -297,8 +297,8 @@ POBE-8202:DVD</p></td>
 
 ## ラジオ
 
-  - [allnightnippon-r](https://ja.wikipedia.org/wiki/オールナイトニッポンR "wikilink")（[2001年](../Page/2001年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")-[2002年](../Page/2002年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
-  - なお、定時番組ではないが、[2003年](../Page/2003年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、解散直前の時に、「[@llnightnippon.com](https://ja.wikipedia.org/wiki/@llnightnippon.com "wikilink")」のパーソナリティーをした経験もあるらしい（番組終了の2時57分～3時の時報まで、メンバー全員で罰ゲームを受けていたらしい）。
+  - [allnightnippon-r](../Page/オールナイトニッポンR.md "wikilink")（[2001年](../Page/2001年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")-[2002年](../Page/2002年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
+  - なお、定時番組ではないが、[2003年](../Page/2003年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、解散直前の時に、「[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")」のパーソナリティーをした経験もあるらしい（番組終了の2時57分～3時の時報まで、メンバー全員で罰ゲームを受けていたらしい）。
   - また、[MAKOTOが同年](https://ja.wikipedia.org/wiki/越中睦 "wikilink")[9月23日](../Page/9月23日.md "wikilink")に「オールナイトニッポン」のパーソナリティをつとめた。（※通常は「[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")」）
 
 ## 出典

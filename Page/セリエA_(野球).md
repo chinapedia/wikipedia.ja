@@ -13,7 +13,7 @@
 
 1960年代からは強豪国[キューバ](../Page/キューバ.md "wikilink")などから、指導者や選手などの人材を招聘、国際試合などにおいてヨーロッパ野球界をリードする存在になったが、[国際野球連盟](../Page/国際野球連盟.md "wikilink")によって国際試合へのプロ選手の参加が認められるようになると状況は一変。他国と比べて実力的に劣るようになり、欧州では[メジャーリーグ](https://ja.wikipedia.org/wiki/メジャーリーグ "wikilink")等へ積極的に選手を送り込んでいた[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の後塵を拝するような状態になってしまった。このため近年では国内リーグの強化だけでなく、アメリカ[マイナーリーグ](../Page/マイナーリーグ.md "wikilink")等へ選手を送り出すという方針が取られている。
 
-また、国際ルールが変更され、金属バット使用から木製バット使用に変更された際に若年層の適応が遅れ、現在の弱体化を招いてしまったと言われている。第35回の[IBAFワールドカップ](https://ja.wikipedia.org/wiki/IBAFワールドカップ "wikilink")の代表チームは平均年齢24.8歳という若年層主体で挑んだが、欧州予選リーグで全7ヵ国中6位という結果に終わった。
+また、国際ルールが変更され、金属バット使用から木製バット使用に変更された際に若年層の適応が遅れ、現在の弱体化を招いてしまったと言われている。第35回の[IBAFワールドカップ](../Page/IBAFワールドカップ.md "wikilink")の代表チームは平均年齢24.8歳という若年層主体で挑んだが、欧州予選リーグで全7ヵ国中6位という結果に終わった。
 
 その後は確実に力をつけ、2010年の[第17回IBAFインターコンチネンタルカップ](https://ja.wikipedia.org/wiki/第17回IBAFインターコンチネンタルカップ "wikilink")では、二軍選手主体とはいえオールプロで挑んだ日本に3-0で完封勝ちをするなど、過去国際野球大会で最高となる3位に入った。
 
@@ -49,12 +49,12 @@
 
 ### 日本人の在籍選手
 
-2003年、[巨人の](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[小野剛がセリエA](https://ja.wikipedia.org/wiki/小野剛_\(野球\) "wikilink")1のサンマリノへ移籍が決定した際にマスコミで報道された。
+2003年、[巨人の](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[小野剛がセリエA](../Page/小野剛_\(野球\).md "wikilink")1のサンマリノへ移籍が決定した際にマスコミで報道された。
 
   - [脇田善旨](https://ja.wikipedia.org/wiki/脇田善旨 "wikilink") 2001年 - ボローニャ（セリエA1）
   - [品田操士](../Page/品田操士.md "wikilink") 2002年 - ボローニャ（セリエA1）
-  - [小野剛](https://ja.wikipedia.org/wiki/小野剛_\(野球\) "wikilink") 2003年 - サンマリノ（セリエA1）
-  - [前田勝宏](https://ja.wikipedia.org/wiki/前田勝宏 "wikilink") 2003年 - ボローニャ（セリエA1）
+  - [小野剛](../Page/小野剛_\(野球\).md "wikilink") 2003年 - サンマリノ（セリエA1）
+  - [前田勝宏](../Page/前田勝宏.md "wikilink") 2003年 - ボローニャ（セリエA1）
   - [浦口雅広](https://ja.wikipedia.org/wiki/浦口雅広 "wikilink") 2004-5年 - レッジョエミリア（セリエA2-A1）
   - [寺田祐也](https://ja.wikipedia.org/wiki/寺田祐也 "wikilink") 2005年 フィオレンティーナ（セリエA2）
   - [湊川誠隆](../Page/湊川誠隆.md "wikilink") 2005-6年 - レッジョエミリア（セリエA1-A2）
@@ -69,7 +69,7 @@
 
   - [レンジャーズ・レディプリア・ベースボール・クラブ](https://ja.wikipedia.org/wiki/レンジャーズ・レディプリア・ベースボール・クラブ "wikilink") - [フォリアーノ・レディプーリア](../Page/フォリアーノ・レディプーリア.md "wikilink")
   - [フォルティトゥード・ベースボール・ボローニャ](https://ja.wikipedia.org/wiki/フォルティトゥード・ベースボール・ボローニャ "wikilink") - [ボローニャ](../Page/ボローニャ.md "wikilink")
-  - [ベースボール・ゴード](https://ja.wikipedia.org/wiki/ベースボール・ゴード "wikilink") - [ルッシ](https://ja.wikipedia.org/wiki/ルッシ "wikilink")
+  - [ベースボール・ゴード](https://ja.wikipedia.org/wiki/ベースボール・ゴード "wikilink") - [ルッシ](../Page/ルッシ.md "wikilink")
   - [Bbc グロッセート](https://ja.wikipedia.org/wiki/Bbc_グロッセート "wikilink") - [グロッセート](../Page/グロッセート.md "wikilink")
   - [ネットゥーノ・ベースボール](https://ja.wikipedia.org/wiki/ネットゥーノ・ベースボール "wikilink") - [ネットゥーノ](../Page/ネットゥーノ.md "wikilink")
   - [パルマ・ベースボール](https://ja.wikipedia.org/wiki/パルマ・ベースボールクラブ "wikilink") - [パルマ](../Page/パルマ.md "wikilink")
@@ -81,7 +81,7 @@
 #### ジローネA
 
   - [アヴィリアーナ・ベースボール](https://ja.wikipedia.org/wiki/アヴィリアーナ・ベースボール "wikilink") - [アヴィリアーナ](../Page/アヴィリアーナ.md "wikilink")
-  - [ボッラーテ・ベースボール・クラブ](https://ja.wikipedia.org/wiki/ボッラーテ・ベースボール・クラブ "wikilink") - [ボッラーテ](https://ja.wikipedia.org/wiki/ボッラーテ "wikilink")
+  - [ボッラーテ・ベースボール・クラブ](https://ja.wikipedia.org/wiki/ボッラーテ・ベースボール・クラブ "wikilink") - [ボッラーテ](../Page/ボッラーテ.md "wikilink")
   - [ノヴァーラ・ベースボール](https://ja.wikipedia.org/wiki/ノヴァーラ・ベースボール "wikilink") - [ノヴァーラ](../Page/ノヴァーラ.md "wikilink")
   - [コッレッキオ・ベースボール・クラブ](https://ja.wikipedia.org/wiki/コッレッキオ・ベースボール・クラブ "wikilink") - [コッレッキオ](../Page/コッレッキオ.md "wikilink")
   - [ジュニア・パルマ・ベースボール・クラブ](https://ja.wikipedia.org/wiki/ジュニア・パルマ・ベースボール・クラブ "wikilink") - パルマ
@@ -145,7 +145,7 @@
 
 2006年を戦ったチームは以下の9チームである。本シーズンは奇数チームのため週ごとに1チームずつ交替で休みの週が生まれた。
 
-  - [オペル](../Page/オペル.md "wikilink")・[アンツィオ](https://ja.wikipedia.org/wiki/アンツィオ・ベースボール "wikilink") (OPEL Anzio) - [アンツィオ](https://ja.wikipedia.org/wiki/アンツィオ "wikilink")
+  - [オペル](../Page/オペル.md "wikilink")・[アンツィオ](https://ja.wikipedia.org/wiki/アンツィオ・ベースボール "wikilink") (OPEL Anzio) - [アンツィオ](../Page/アンツィオ.md "wikilink")
   - コロニエ・デッラ・マレンマ・グロッセート (Colonie della Maremma Grosseto) - グロッセート
   - デ・アンジェリス・ゴード (De Angelis Godo) - ルッシ（ゴード）
   - T\&A サンマリノ (T\&A San Marino) - サンマリノ
@@ -225,7 +225,7 @@
   - [セリエA (バレーボール)](../Page/セリエA_\(バレーボール\).md "wikilink")
   - [セリエA (バスケットボール)](../Page/セリエA_\(バスケットボール\).md "wikilink")
   - [国際野球連盟](../Page/国際野球連盟.md "wikilink") (IBAF)
-  - [IBAFワールドカップ](https://ja.wikipedia.org/wiki/IBAFワールドカップ "wikilink")
+  - [IBAFワールドカップ](../Page/IBAFワールドカップ.md "wikilink")
   - [イタリアンベースボールリーグ](https://ja.wikipedia.org/wiki/イタリアンベースボールリーグ "wikilink")
 
 ## 外部リンク

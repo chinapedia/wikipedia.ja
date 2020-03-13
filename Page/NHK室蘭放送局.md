@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK室蘭放送局**（エヌエイチケイむろらんほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[日胆](https://ja.wikipedia.org/wiki/日胆 "wikilink")（[胆振総合振興局](https://ja.wikipedia.org/wiki/胆振総合振興局 "wikilink")と[日高振興局](https://ja.wikipedia.org/wiki/日高振興局 "wikilink")）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[総合テレビと](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[ラジオ第1](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")・[FM放送で地域放送を行っている](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")。
+**NHK室蘭放送局**（エヌエイチケイむろらんほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[日胆](https://ja.wikipedia.org/wiki/日胆 "wikilink")（[胆振総合振興局](https://ja.wikipedia.org/wiki/胆振総合振興局 "wikilink")と[日高振興局](https://ja.wikipedia.org/wiki/日高振興局 "wikilink")）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink")・[FM放送で地域放送を行っている](../Page/NHK-FM放送.md "wikilink")。
 
 ## 放送局概要
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")・[ラジオ第2](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")・FM放送は、[鹿部町](https://ja.wikipedia.org/wiki/鹿部町 "wikilink")・[函館市](../Page/函館市.md "wikilink")の[内浦湾](https://ja.wikipedia.org/wiki/内浦湾 "wikilink")沿いや[森町以北の](https://ja.wikipedia.org/wiki/森町_\(北海道\) "wikilink")[渡島総合振興局](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")北部を送信エリアに含んでいる。また、[苫小牧市](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")周辺のラジオ第1・第2とFM放送は、[札幌放送局の受信エリアである](../Page/NHK札幌放送局.md "wikilink")。
+  - [教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")・[ラジオ第2](../Page/NHKラジオ第2放送.md "wikilink")・FM放送は、[鹿部町](../Page/鹿部町.md "wikilink")・[函館市](../Page/函館市.md "wikilink")の[内浦湾](../Page/内浦湾.md "wikilink")沿いや[森町以北の](../Page/森町_\(北海道\).md "wikilink")[渡島総合振興局](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")北部を送信エリアに含んでいる。また、[苫小牧市](https://ja.wikipedia.org/wiki/苫小牧市 "wikilink")周辺のラジオ第1・第2とFM放送は、[札幌放送局の受信エリアである](../Page/NHK札幌放送局.md "wikilink")。
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
 地上デジタル放送にもコールサインが付与されたため、室蘭送信所は室蘭放送局の親局となる。
 
   - [室蘭](../Page/室蘭送信所.md "wikilink")（[測量山](../Page/測量山.md "wikilink")）
-      - 総合テレビ（JOIQ-DTV）24ch [出力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")500W（リモコンキーID：**「3」**）
+      - 総合テレビ（JOIQ-DTV）24ch [出力](../Page/空中線電力.md "wikilink")500W（リモコンキーID：**「3」**）
       - 教育テレビ（JOIZ-DTV）16ch 出力1kW（リモコンキーID：**「2」**）
 
 NHKの単独施設。併設の[渡島中継局とともに既設のものをそのまま利用し](https://ja.wikipedia.org/wiki/NHK函館放送局#地上デジタル放送 "wikilink")、送信アンテナのみ新設。2007年10月1日より放送開始。

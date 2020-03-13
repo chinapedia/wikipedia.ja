@@ -32,7 +32,7 @@
 
 ### コード
 
-  - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、**[アリアナ・アフガン航空](https://ja.wikipedia.org/wiki/アリアナ・アフガン航空 "wikilink")**を示す。
+  - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、**[アリアナ・アフガン航空](../Page/アリアナ・アフガン航空.md "wikilink")**を示す。
   - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の行政区画コード（[ISO 3166-2](../Page/ISO_3166-2.md "wikilink")）などのコードで、以下の各国の行政区画を示す。
       - イタリアの**[フォッジャ県](../Page/フォッジャ県.md "wikilink")** - [ISO 3166-2:IT](../Page/ISO_3166-2:IT.md "wikilink")、[イタリア県名略記号](../Page/イタリア共和国の県名略記号.md "wikilink")
   - [NHK福井放送局](../Page/NHK福井放送局.md "wikilink")（JOFG）
@@ -40,7 +40,7 @@
 ### 形式名
 
   - [ファーストグレード](https://ja.wikipedia.org/wiki/ガンプラ#ガンプラの種類 "wikilink") - [ガンプラ](../Page/ガンプラ.md "wikilink")（[ガンダムの](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")[プラモデル](../Page/プラモデル.md "wikilink")）のグレード
-  - [ヤマハ・FG](https://ja.wikipedia.org/wiki/ヤマハ・FG "wikilink") - [ヤマハ](../Page/ヤマハ.md "wikilink")の[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")シリーズ
+  - [ヤマハ・FG](../Page/ヤマハ・FG.md "wikilink") - [ヤマハ](../Page/ヤマハ.md "wikilink")の[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")シリーズ
   - [Nikon FG](https://ja.wikipedia.org/wiki/ニコンの銀塩一眼レフカメラ製品一覧#FG "wikilink") - [ニコン](../Page/ニコン.md "wikilink")の[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")。
 
 ## 関連項目

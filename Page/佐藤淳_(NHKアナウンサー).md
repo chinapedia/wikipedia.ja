@@ -5,7 +5,7 @@
 
 ## 人物
 
-  - [秋田県立横手高等学校](../Page/秋田県立横手高等学校.md "wikilink")を経て[中央大学](https://ja.wikipedia.org/wiki/中央大学 "wikilink")[法学部](../Page/法学部.md "wikilink")卒業後、[1982年](../Page/1982年.md "wikilink")入局、主に報道番組を担当した。東京アナウンス室専任局長などを経て、[2015年](../Page/2015年.md "wikilink")6月から現職。
+  - [秋田県立横手高等学校](../Page/秋田県立横手高等学校.md "wikilink")を経て[中央大学](../Page/中央大学.md "wikilink")[法学部](../Page/法学部.md "wikilink")卒業後、[1982年](../Page/1982年.md "wikilink")入局、主に報道番組を担当した。東京アナウンス室専任局長などを経て、[2015年](../Page/2015年.md "wikilink")6月から現職。
 
 ## 過去の出演番組
 
@@ -23,7 +23,7 @@
 <!-- end list -->
 
   - [NHKニュース (正午)](../Page/NHKニュース_\(テレビ番組\).md "wikilink") （土日 1995年度）
-  - [国会中継](https://ja.wikipedia.org/wiki/国会中継 "wikilink")（1996年度）
+  - [国会中継](../Page/国会中継.md "wikilink")（1996年度）
   - 発信基地
 
 [Category:NHKの元職員アナウンサー](https://ja.wikipedia.org/wiki/Category:NHKの元職員アナウンサー "wikilink") [Category:中央大学出身の人物](https://ja.wikipedia.org/wiki/Category:中央大学出身の人物 "wikilink") [Category:秋田県出身の人物](https://ja.wikipedia.org/wiki/Category:秋田県出身の人物 "wikilink") [Category:1959年生](https://ja.wikipedia.org/wiki/Category:1959年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

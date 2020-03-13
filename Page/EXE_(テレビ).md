@@ -1,7 +1,7 @@
 > この記事は[EXE \(\)](https://ja.wikipedia.org/wiki/EXE_\(\))から翻訳されています。
 
 
-**EXE**（エグゼ）は、[日本ビクター](../Page/日本ビクター.md "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")（現・株式会社[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）製[テレビ受像機](../Page/テレビ受像機.md "wikilink")のブランド。日本ビクターの販売していた[液晶テレビ](https://ja.wikipedia.org/wiki/液晶テレビ "wikilink")、[プラズマテレビ](https://ja.wikipedia.org/wiki/プラズマテレビ "wikilink")、[リアプロジェクションテレビ](https://ja.wikipedia.org/wiki/リアプロジェクションテレビ "wikilink")にEXEのブランド名を採用していた。
+**EXE**（エグゼ）は、[日本ビクター](../Page/日本ビクター.md "wikilink")[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")（現・株式会社[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）製[テレビ受像機](../Page/テレビ受像機.md "wikilink")のブランド。日本ビクターの販売していた[液晶テレビ](https://ja.wikipedia.org/wiki/液晶テレビ "wikilink")、[プラズマテレビ](https://ja.wikipedia.org/wiki/プラズマテレビ "wikilink")、[リアプロジェクションテレビ](../Page/リアプロジェクションテレビ.md "wikilink")にEXEのブランド名を採用していた。
 
 日本国内の家庭用テレビの販売は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")で撤退した。業務用機種とビクター特約店向けの一部機種は以後も継続販売されたが、[2009年](../Page/2009年.md "wikilink")からはチューナー非搭載のディスプレイ[XIVIEW](https://ja.wikipedia.org/wiki/XIVIEW "wikilink")に引き継がれた。その後、2011年頃にはテレビと民生用ディスプレイ事業から完全に撤退し、放送・製作用、産業用、医療用等の業務用ディスプレイに主軸を移した。
 
@@ -49,7 +49,7 @@
 
 ## ビッグスクリーンEXE
 
-ビクターは[プロジェクター](https://ja.wikipedia.org/wiki/プロジェクター "wikilink")用の反射型[液晶](../Page/液晶.md "wikilink")素子（[LCOS](https://ja.wikipedia.org/wiki/LCOS "wikilink")）であるD-ILAを開発、パネルの生産からテレビの組立てまで一貫の垂直統合型事業としてリアプロジェクションテレビを製造していた。2004年に北米で発売した後、2005年には日本国内でも発売した。欧州と北米では薄型モデルも販売した。一度はビクターの主力商品として精力的に売り出したものの、液晶テレビの価格下落に影響されて2007年に撤退。
+ビクターは[プロジェクター](https://ja.wikipedia.org/wiki/プロジェクター "wikilink")用の反射型[液晶](../Page/液晶.md "wikilink")素子（[LCOS](../Page/LCOS.md "wikilink")）であるD-ILAを開発、パネルの生産からテレビの組立てまで一貫の垂直統合型事業としてリアプロジェクションテレビを製造していた。2004年に北米で発売した後、2005年には日本国内でも発売した。欧州と北米では薄型モデルも販売した。一度はビクターの主力商品として精力的に売り出したものの、液晶テレビの価格下落に影響されて2007年に撤退。
 
 ### ラインナップ
 

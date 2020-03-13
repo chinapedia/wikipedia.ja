@@ -5,13 +5,13 @@
 
 ## 一般名
 
-  - [be動詞の変化形の](https://ja.wikipedia.org/wiki/存在動詞 "wikilink")1つ。
-  - [IS曲線](https://ja.wikipedia.org/wiki/IS-LM分析 "wikilink") - [マクロ経済学](../Page/マクロ経済学.md "wikilink")の財市場を表すグラフ。
+  - [be動詞の変化形の](../Page/存在動詞.md "wikilink")1つ。
+  - [IS曲線](../Page/IS-LM分析.md "wikilink") - [マクロ経済学](../Page/マクロ経済学.md "wikilink")の財市場を表すグラフ。
   - [アイドリングストップ](../Page/アイドリングストップ.md "wikilink")（Idling Stop）
   - [半陰陽](https://ja.wikipedia.org/wiki/半陰陽 "wikilink")（Intersexality、インターセクシュアリティ）
-  - [インターバル・シグナル](https://ja.wikipedia.org/wiki/インターバル・シグナル "wikilink")（Interval Signal）
+  - [インターバル・シグナル](../Page/インターバル・シグナル.md "wikilink")（Interval Signal）
   - [情報システム](../Page/情報システム.md "wikilink")（Information System）
-  - Is - [耐震診断](https://ja.wikipedia.org/wiki/耐震診断 "wikilink")における耐震指標（Seismic Index of Structure）の[係数](../Page/係数.md "wikilink")。Is値が低いほど[地震](../Page/地震.md "wikilink")による被害を受けやすい\[1\]。
+  - Is - [耐震診断](../Page/耐震診断.md "wikilink")における耐震指標（Seismic Index of Structure）の[係数](../Page/係数.md "wikilink")。Is値が低いほど[地震](../Page/地震.md "wikilink")による被害を受けやすい\[1\]。
 
 ## 固有名詞
 
@@ -20,7 +20,7 @@
   - [アルカイダから分派した過激派組織](https://ja.wikipedia.org/wiki/アルカーイダ "wikilink")**[ISIL](https://ja.wikipedia.org/wiki/ISIL "wikilink")**の別名**IS**（「イスラム国」の略称、イスラミックステート\[2\]）。他にも **ISIS** 、**ダーイシュ**などの別名がある。
   - [中村博](https://ja.wikipedia.org/wiki/Absorb#中村博 "wikilink")（is） - 日本のミュージシャン。absorbメンバー。
   - [伊勢正三](../Page/伊勢正三.md "wikilink")と[池田聡](../Page/池田聡.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に期間限定で結成したアコースティック音楽ユニット。
-  - [徳島インディゴソックス](https://ja.wikipedia.org/wiki/徳島インディゴソックス "wikilink")（Indigo Socks、徳島IS） - 徳島の野球チーム。
+  - [徳島インディゴソックス](../Page/徳島インディゴソックス.md "wikilink")（Indigo Socks、徳島IS） - 徳島の野球チーム。
   - IS（Ideal Space） - チームは韓国の前プロゲームチーム名。
 
 ### 企業
@@ -34,8 +34,8 @@
   - [アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")の[ISO国名コード](../Page/ISO_3166-1.md "wikilink")
   - [イゼルニア県](../Page/イゼルニア県.md "wikilink")の[ISO 3166-2:IT](../Page/ISO_3166-2:IT.md "wikilink")（イタリアの県）コード
   - [.is](../Page/.is.md "wikilink") - アイスランドの[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")
-  - [アイスランド語](https://ja.wikipedia.org/wiki/アイスランド語 "wikilink")の[ISO 639-1言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")
-  - [イス (伝説都市)](https://ja.wikipedia.org/wiki/イス_\(伝説都市\) "wikilink")
+  - [アイスランド語](https://ja.wikipedia.org/wiki/アイスランド語 "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
+  - [イス (伝説都市)](../Page/イス_\(伝説都市\).md "wikilink")
 
 ### 作品タイトル
 
@@ -48,10 +48,10 @@
 ### 商品名
 
   - 自動車
-      - [ダイハツ・ハイゼット](../Page/ダイハツ・ハイゼット.md "wikilink")iS - ダイハツの[軽トラック](https://ja.wikipedia.org/wiki/軽トラック "wikilink")で、通常のハイゼットトラックとは異なる外装となっている。
-      - [レクサス・IS](https://ja.wikipedia.org/wiki/レクサス・IS "wikilink") - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が[レクサス](../Page/レクサス.md "wikilink")ブランドで製造･販売する高級乗用車。旧日本名[アルテッツァ](https://ja.wikipedia.org/wiki/トヨタ・アルテッツァ "wikilink")。
+      - [ダイハツ・ハイゼット](../Page/ダイハツ・ハイゼット.md "wikilink")iS - ダイハツの[軽トラック](../Page/軽トラック.md "wikilink")で、通常のハイゼットトラックとは異なる外装となっている。
+      - [レクサス・IS](../Page/レクサス・IS.md "wikilink") - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が[レクサス](../Page/レクサス.md "wikilink")ブランドで製造･販売する高級乗用車。旧日本名[アルテッツァ](../Page/トヨタ・アルテッツァ.md "wikilink")。
   - カメラ
-      - [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")製[写真レンズ](../Page/写真レンズ.md "wikilink")・[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")・[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")に搭載される[手ぶれ補正機構](https://ja.wikipedia.org/wiki/手ぶれ補正機構 "wikilink")（Image Stabilizer）。
+      - [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")製[写真レンズ](../Page/写真レンズ.md "wikilink")・[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")・[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")に搭載される[手ぶれ補正機構](../Page/手ぶれ補正機構.md "wikilink")（Image Stabilizer）。
       - [オリンパス](https://ja.wikipedia.org/wiki/オリンパス "wikilink")製のデジタルカメラに内蔵されている手ぶれ補正機構（Image Stabilization）。
   - 携帯電話
       - [ISシリーズ](https://ja.wikipedia.org/wiki/ISシリーズ "wikilink") - [KDDI](../Page/KDDI.md "wikilink")が発売している[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")のシリーズ名。

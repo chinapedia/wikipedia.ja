@@ -1,7 +1,7 @@
 > この記事は[UCAV](https://ja.wikipedia.org/wiki/UCAV)から翻訳されています。
 
 
-[X-47B_over_sea.jpg](https://ja.wikipedia.org/wiki/File:X-47B_over_sea.jpg "fig:X-47B_over_sea.jpg")での運用が前提のX-47B\]\] **UCAV**（）は、[無人航空機](../Page/無人航空機.md "wikilink")（[無人機](../Page/無人機.md "wikilink")、UAV） 、および、[軍用ロボットの一種である](../Page/軍事用ロボット.md "wikilink")。[爆撃任務を行うために特に設計されたものを指す](https://ja.wikipedia.org/wiki/空襲 "wikilink")。
+[X-47B_over_sea.jpg](https://ja.wikipedia.org/wiki/File:X-47B_over_sea.jpg "fig:X-47B_over_sea.jpg")での運用が前提のX-47B\]\] **UCAV**（）は、[無人航空機](../Page/無人航空機.md "wikilink")（[無人機](../Page/無人機.md "wikilink")、UAV） 、および、[軍用ロボットの一種である](../Page/軍事用ロボット.md "wikilink")。[爆撃任務を行うために特に設計されたものを指す](../Page/空襲.md "wikilink")。
 
 ## 概要
 
@@ -19,19 +19,19 @@
 
 ### 歴史
 
-[1960年代](../Page/1960年代.md "wikilink")から[1970年代](../Page/1970年代.md "wikilink")にかけて無線機の小型化や電子誘導装置が発達したことにより、写真[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")などを目的とする[D-21や](https://ja.wikipedia.org/wiki/D-21_\(航空機\) "wikilink")などの無人偵察機が[アメリカや](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イスラエル](../Page/イスラエル.md "wikilink")で本格的に開発され、ライトニングバグの基礎となった標的機のを使って試験的ながら攻撃用途での開発の先鞭も付けられ、[マーベリックミサイルの発射実験などに成功していた](../Page/AGM-65_マーベリック.md "wikilink")\[2\]。
+[1960年代](../Page/1960年代.md "wikilink")から[1970年代](../Page/1970年代.md "wikilink")にかけて無線機の小型化や電子誘導装置が発達したことにより、写真[偵察](../Page/偵察.md "wikilink")などを目的とする[D-21や](https://ja.wikipedia.org/wiki/D-21_\(航空機\) "wikilink")などの無人偵察機が[アメリカや](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イスラエル](../Page/イスラエル.md "wikilink")で本格的に開発され、ライトニングバグの基礎となった標的機のを使って試験的ながら攻撃用途での開発の先鞭も付けられ、[マーベリックミサイルの発射実験などに成功していた](../Page/AGM-65_マーベリック.md "wikilink")\[2\]。
 
 [20世紀](../Page/20世紀.md "wikilink")末からは画像電子機器や通信機器、[コンピュータ](../Page/コンピュータ.md "wikilink")の発達により、衛星通信により遠隔地でもリアルタイムで操縦と映像の取得、気象条件が良ければ完全自動操縦などが可能となり、[対テロ戦争](../Page/対テロ戦争.md "wikilink")が始まった[21世紀](../Page/21世紀.md "wikilink")からは偵察機型から[攻撃機](../Page/攻撃機.md "wikilink")型への展開が行われた\[3\]。
 
-[2002年](../Page/2002年.md "wikilink")12月に[スティンガーで武装した](https://ja.wikipedia.org/wiki/スティンガーミサイル "wikilink")[MQ-1が](https://ja.wikipedia.org/wiki/RQ-1_プレデター "wikilink")[イラク戦争](../Page/イラク戦争.md "wikilink")で[イラク軍](https://ja.wikipedia.org/wiki/イラク軍 "wikilink")の[MiG-25](https://ja.wikipedia.org/wiki/MiG-25 "wikilink")と交戦し、互いに[対空兵器](https://ja.wikipedia.org/wiki/対空兵器 "wikilink")を装備した有人機と無人機の史上初の[空中戦となった](../Page/ドッグファイト.md "wikilink")\[4\]\[5\]。[2007年](../Page/2007年.md "wikilink")に[イラク](../Page/イラク.md "wikilink")と[アフガニスタン](../Page/アフガニスタン.md "wikilink")で[MQ-9が実戦投入された](https://ja.wikipedia.org/wiki/MQ-9_リーパー "wikilink")。[兵器](../Page/兵器.md "wikilink")のトリガーは地上の人間が握っており、制御ループ内に人間も入る形（マン イン ザ ループ）の設計となっている。主な機能として敵のターゲットと攻撃モードは正確を期するために一度ターゲッティング後に専任オペレーター（教育を受けた[将校](https://ja.wikipedia.org/wiki/将校 "wikilink")）が攻撃可否を最終判断する様になっている。これは、システムとしてエラー・ミス・[誤爆](../Page/誤爆.md "wikilink")（[民間人](https://ja.wikipedia.org/wiki/民間人 "wikilink")の死亡リスク）を限り無く未然に防止するためである。また、攻撃に使用する[爆薬は必要最小の物を選択するシステムに都度改善が図られている](../Page/火薬.md "wikilink")。
+[2002年](../Page/2002年.md "wikilink")12月に[スティンガーで武装した](../Page/スティンガーミサイル.md "wikilink")[MQ-1が](../Page/RQ-1_プレデター.md "wikilink")[イラク戦争](../Page/イラク戦争.md "wikilink")で[イラク軍](https://ja.wikipedia.org/wiki/イラク軍 "wikilink")の[MiG-25](https://ja.wikipedia.org/wiki/MiG-25 "wikilink")と交戦し、互いに[対空兵器](../Page/対空兵器.md "wikilink")を装備した有人機と無人機の史上初の[空中戦となった](../Page/ドッグファイト.md "wikilink")\[4\]\[5\]。[2007年](../Page/2007年.md "wikilink")に[イラク](../Page/イラク.md "wikilink")と[アフガニスタン](../Page/アフガニスタン.md "wikilink")で[MQ-9が実戦投入された](https://ja.wikipedia.org/wiki/MQ-9_リーパー "wikilink")。[兵器](../Page/兵器.md "wikilink")のトリガーは地上の人間が握っており、制御ループ内に人間も入る形（マン イン ザ ループ）の設計となっている。主な機能として敵のターゲットと攻撃モードは正確を期するために一度ターゲッティング後に専任オペレーター（教育を受けた[将校](../Page/将校.md "wikilink")）が攻撃可否を最終判断する様になっている。これは、システムとしてエラー・ミス・[誤爆](../Page/誤爆.md "wikilink")（[民間人](../Page/民間人.md "wikilink")の死亡リスク）を限り無く未然に防止するためである。また、攻撃に使用する[爆薬は必要最小の物を選択するシステムに都度改善が図られている](../Page/火薬.md "wikilink")。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")第174戦闘飛行隊は、[F-16からMQ](../Page/F-16_\(戦闘機\).md "wikilink")-9に機材を更新し、最初のUCAVのみによる戦闘攻撃飛行隊となっている。今後は飛行ルートの選定などにおいてもUCAVが完全に自律作動することを目指していると言われている。
 
-攻撃能力を持つ無人機がアフガニスタンと[パキスタン](../Page/パキスタン.md "wikilink")での[ターリバーン](../Page/ターリバーン.md "wikilink")、[アルカーイダ](https://ja.wikipedia.org/wiki/アルカーイダ "wikilink")攻撃に参加しており、[2009年](../Page/2009年.md "wikilink")[8月](../Page/8月.md "wikilink")には[パキスタン・ターリバーン運動](https://ja.wikipedia.org/wiki/パキスタン・ターリバーン運動 "wikilink")の[バイトゥッラー・マフスード](https://ja.wikipedia.org/wiki/バイトゥッラー・マフスード "wikilink")[司令官](../Page/司令官.md "wikilink")、[2013年](../Page/2013年.md "wikilink")[11月](../Page/11月.md "wikilink")には同組織の[ハキームッラー・マフスード](https://ja.wikipedia.org/wiki/ハキームッラー・マフスード "wikilink")司令官の殺害に成功しているが、誤爆や巻き添えによる民間人の犠牲者が多いことが問題となっている\[6\]。これは、無人機操縦員の誤認や地上部隊の誤報、[ヘルファイアミサイルの威力が大きすぎることなどが原因となっている](https://ja.wikipedia.org/wiki/ヘルファイア_\(ミサイル\) "wikilink")\[7\]\[8\]。ヘルファイアミサイルの問題に関してはより小型で精密なスコーピオンミサイルを採用して対処することになっている\[9\]。
+攻撃能力を持つ無人機がアフガニスタンと[パキスタン](../Page/パキスタン.md "wikilink")での[ターリバーン](../Page/ターリバーン.md "wikilink")、[アルカーイダ](https://ja.wikipedia.org/wiki/アルカーイダ "wikilink")攻撃に参加しており、[2009年](../Page/2009年.md "wikilink")[8月](../Page/8月.md "wikilink")には[パキスタン・ターリバーン運動](https://ja.wikipedia.org/wiki/パキスタン・ターリバーン運動 "wikilink")の[バイトゥッラー・マフスード](https://ja.wikipedia.org/wiki/バイトゥッラー・マフスード "wikilink")[司令官](../Page/司令官.md "wikilink")、[2013年](../Page/2013年.md "wikilink")[11月](../Page/11月.md "wikilink")には同組織の[ハキームッラー・マフスード](https://ja.wikipedia.org/wiki/ハキームッラー・マフスード "wikilink")司令官の殺害に成功しているが、誤爆や巻き添えによる民間人の犠牲者が多いことが問題となっている\[6\]。これは、無人機操縦員の誤認や地上部隊の誤報、[ヘルファイアミサイルの威力が大きすぎることなどが原因となっている](../Page/ヘルファイア_\(ミサイル\).md "wikilink")\[7\]\[8\]。ヘルファイアミサイルの問題に関してはより小型で精密なスコーピオンミサイルを採用して対処することになっている\[9\]。
 
 また、世界最大のUCAV輸出国\[10\]となった[中国は](../Page/中華人民共和国.md "wikilink")[翼竜や](https://ja.wikipedia.org/wiki/翼竜_\(航空機\) "wikilink")[彩虹など積極的にUCAVを](https://ja.wikipedia.org/wiki/彩虹_\(航空機\) "wikilink")[発展途上国](https://ja.wikipedia.org/wiki/発展途上国 "wikilink")に輸出してイラク軍\[11\]や[エジプト](../Page/エジプト.md "wikilink")軍\[12\]\[13\]\[14\]の[ISIL](https://ja.wikipedia.org/wiki/ISIL "wikilink")への作戦、[ナイジェリア](../Page/ナイジェリア.md "wikilink")軍の[ボコ・ハラム](https://ja.wikipedia.org/wiki/ボコ・ハラム "wikilink")攻撃\[15\]、[サウジアラビア](../Page/サウジアラビア.md "wikilink")と[アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink")の[イエメン内戦への軍事介入](https://ja.wikipedia.org/wiki/2015年イエメン内戦 "wikilink")\[16\]\[17\]\[18\]などで使用されており、[先進国](https://ja.wikipedia.org/wiki/先進国 "wikilink")に輸出を限定していた米国もこれに規制緩和で対抗し\[19\]、UCAVの拡散による紛争拡大が懸念されている\[20\]。また、[イラン](../Page/イラン.md "wikilink")は武装無人機のによって[シリア](../Page/シリア.md "wikilink")で反政府勢力を攻撃し\[21\]、市販の中国製エンジンを搭載したのような武装無人機を中東の[シーア派](../Page/シーア派.md "wikilink")民兵組織に拡散させて問題になっており\[22\]\[23\]、[イエメン](../Page/イエメン.md "wikilink")の[フーシ](https://ja.wikipedia.org/wiki/フーシ "wikilink")が自前化したアバビール（カセフ1）やなどで[サウジ石油施設攻撃](https://ja.wikipedia.org/wiki/サウジ石油施設攻撃 "wikilink")を起こして世界経済に大きな影響を与えた\[24\]。[2014年リビア内戦](https://ja.wikipedia.org/wiki/2014年リビア内戦 "wikilink")では暫定政府の[トルコ](../Page/トルコ.md "wikilink")製無人攻撃機のと[リビア国民軍](https://ja.wikipedia.org/wiki/リビア国民軍 "wikilink")の中国製無人攻撃機の翼竜が互いに破壊し合う無人機戦争が起きている\[25\]。
 
-[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")組織側でもISILは滑走路での離着陸を必要としない[DJI](https://ja.wikipedia.org/wiki/DJI "wikilink")\[26\]や[スカイウォーカー・テクノロジー](https://ja.wikipedia.org/wiki/スカイウォーカー・テクノロジー "wikilink")など殆どは世界市場でメジャーな中国製\[27\]の商用無人機に爆発物を搭載した事実上のUCAVに改造するといった利用が拡大しており、構造は単純で、真下に爆弾を落とすだけの簡素なものだが、誤差数メートルという驚異的な精度で攻撃できた。小型のドローンは被発見性も低く、騒音も軍用機に比べてはるかに小さいため、直下の兵士が全く気付かないまま攻撃を受けることもあった。戦車に対する攻撃にも使用されており、撃破の事例はまだないが、対戦車榴弾や対戦車ロケットによる攻撃が試みられている。少なくともこの攻撃で乗員が殺傷されたことがISの連日投稿する動画で確認されており、脅威度の高さを裏付けるものとなった。民生用ドローンを攻撃用途に用いる場合、防護が一切ないので小銃弾を受けるだけで簡単に撃墜されてしまうが、十分な高度があれば攻撃後の退避は容易である。赤外線をほとんど出さない上にRCSも低いので、SAMによる対処は不可能である。軍用機として見れば極めて安価であり、歩兵が直接運用し自前で近接航空支援が可能なことから、テロリストから見れば理想的な航空兵器であり、懸念が高まっている。商用無人機の高性能化でイラクでは充電不足で自動帰還したテロ用無人機にISILの戦闘員が誤爆されるという事故も起きている\[28\]。[ベネズエラ](../Page/ベネズエラ.md "wikilink")では爆弾を搭載したDJIの商用無人機を武装化して大統領暗殺を狙ったテロ事件（[Caracas drone attack](https://ja.wikipedia.org/wiki/:en:Caracas_drone_attack "wikilink")）も起きており\[29\]、これはドローンによる国家指導者に対する初のテロとされた\[30\]。 また、アメリカや[イスラエル](../Page/イスラエル.md "wikilink")などの正規軍でも民生用無人機は使用されているが\[31\]\[32\]\[33\]\[34\]\[35\]\[36\]、イスラエル軍はDJIの無人機に[非致死性兵器](../Page/非致死性兵器.md "wikilink")の[催涙弾](https://ja.wikipedia.org/wiki/催涙弾 "wikilink")を搭載して[ガザ地区](https://ja.wikipedia.org/wiki/ガザ地区 "wikilink")におけるデモ隊を攻撃したことが報じられている\[37\]\[38\]。
+[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")組織側でもISILは滑走路での離着陸を必要としない[DJI](https://ja.wikipedia.org/wiki/DJI "wikilink")\[26\]や[スカイウォーカー・テクノロジー](https://ja.wikipedia.org/wiki/スカイウォーカー・テクノロジー "wikilink")など殆どは世界市場でメジャーな中国製\[27\]の商用無人機に爆発物を搭載した事実上のUCAVに改造するといった利用が拡大しており、構造は単純で、真下に爆弾を落とすだけの簡素なものだが、誤差数メートルという驚異的な精度で攻撃できた。小型のドローンは被発見性も低く、騒音も軍用機に比べてはるかに小さいため、直下の兵士が全く気付かないまま攻撃を受けることもあった。戦車に対する攻撃にも使用されており、撃破の事例はまだないが、対戦車榴弾や対戦車ロケットによる攻撃が試みられている。少なくともこの攻撃で乗員が殺傷されたことがISの連日投稿する動画で確認されており、脅威度の高さを裏付けるものとなった。民生用ドローンを攻撃用途に用いる場合、防護が一切ないので小銃弾を受けるだけで簡単に撃墜されてしまうが、十分な高度があれば攻撃後の退避は容易である。赤外線をほとんど出さない上にRCSも低いので、SAMによる対処は不可能である。軍用機として見れば極めて安価であり、歩兵が直接運用し自前で近接航空支援が可能なことから、テロリストから見れば理想的な航空兵器であり、懸念が高まっている。商用無人機の高性能化でイラクでは充電不足で自動帰還したテロ用無人機にISILの戦闘員が誤爆されるという事故も起きている\[28\]。[ベネズエラ](../Page/ベネズエラ.md "wikilink")では爆弾を搭載したDJIの商用無人機を武装化して大統領暗殺を狙ったテロ事件（[Caracas drone attack](https://ja.wikipedia.org/wiki/:en:Caracas_drone_attack "wikilink")）も起きており\[29\]、これはドローンによる国家指導者に対する初のテロとされた\[30\]。 また、アメリカや[イスラエル](../Page/イスラエル.md "wikilink")などの正規軍でも民生用無人機は使用されているが\[31\]\[32\]\[33\]\[34\]\[35\]\[36\]、イスラエル軍はDJIの無人機に[非致死性兵器](../Page/非致死性兵器.md "wikilink")の[催涙弾](https://ja.wikipedia.org/wiki/催涙弾 "wikilink")を搭載して[ガザ地区](../Page/ガザ地区.md "wikilink")におけるデモ隊を攻撃したことが報じられている\[37\]\[38\]。
 
 ### 操縦者の精神的問題
 
@@ -63,7 +63,7 @@
 
 <!-- end list -->
 
-  - [サーブ](https://ja.wikipedia.org/wiki/SAAB "wikilink") SHARC
+  - [サーブ](../Page/SAAB.md "wikilink") SHARC
   - サーブ Filur
   - [EADS](../Page/エアバス・グループ.md "wikilink") UCAV
   - Kentron UCAV-TD
@@ -92,7 +92,7 @@
 <!-- end list -->
 
   -
-    2013年[11月25日](../Page/11月25日.md "wikilink")、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")のAVIC（中航工業）が初飛行に成功した全翼無人ステルス攻撃機\[45\]。
+    2013年[11月25日](../Page/11月25日.md "wikilink")、[中国](../Page/中国.md "wikilink")のAVIC（中航工業）が初飛行に成功した全翼無人ステルス攻撃機\[45\]。
 
 <!-- end list -->
 
@@ -101,11 +101,11 @@
 下のUCAVは人間が搭乗可能なもの。
 
   - [ロッキード・マーティン](../Page/ロッキード・マーティン.md "wikilink") [F-35のUCAV化](../Page/F-35_\(戦闘機\).md "wikilink")
-  - [サーブ](https://ja.wikipedia.org/wiki/SAAB "wikilink") [サーブ 39 グリペンのUCAV化](../Page/サーブ_39_グリペン.md "wikilink")
+  - [サーブ](../Page/SAAB.md "wikilink") [サーブ 39 グリペンのUCAV化](../Page/サーブ_39_グリペン.md "wikilink")
 
 <div style="border: solid 1px; margin: 10px; padding: 10px;">
 
-**注意**：上記のUCAVのなかには、航空機の[プロトタイプ](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")というよりも技術実証試験機と呼ぶべきものも含まれている。そういったものは、そのままの形で生産され、運用されるわけではない（例：[X-36](../Page/X-36_\(航空機\).md "wikilink")。28%の大きさであり、もし量産されるときには本来のサイズで作られる予定であった）
+**注意**：上記のUCAVのなかには、航空機の[プロトタイプ](../Page/プロトタイプ.md "wikilink")というよりも技術実証試験機と呼ぶべきものも含まれている。そういったものは、そのままの形で生産され、運用されるわけではない（例：[X-36](../Page/X-36_\(航空機\).md "wikilink")。28%の大きさであり、もし量産されるときには本来のサイズで作られる予定であった）
 
 </div>
 
@@ -124,8 +124,8 @@
 #### 候補機の予定された性能
 
   - [ステルス機](../Page/ステルス機.md "wikilink")
-  - [合成開口レーダー](https://ja.wikipedia.org/wiki/合成開口レーダー "wikilink")を装備
-  - [レーザー](https://ja.wikipedia.org/wiki/レーザー "wikilink")[兵器](../Page/兵器.md "wikilink")を装備
+  - [合成開口レーダー](../Page/合成開口レーダー.md "wikilink")を装備
+  - [レーザー](../Page/レーザー.md "wikilink")[兵器](../Page/兵器.md "wikilink")を装備
   - SEADや[電子攻撃](https://ja.wikipedia.org/wiki/電子攻撃 "wikilink")が可能
   - 精密誘導兵器（[JDAM](https://ja.wikipedia.org/wiki/JDAM "wikilink")や[SDBなど](https://ja.wikipedia.org/wiki/小直径爆弾 "wikilink")）を投下可能
   - 無人機と地上操作員の間で[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")経由でのリアルタイムデータリンクが可能（流動的に変化する戦況に柔軟に対応）

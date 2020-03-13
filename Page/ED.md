@@ -4,7 +4,7 @@
 **ED**
 
   - [勃起不全](../Page/勃起不全.md "wikilink")(Erectile Dysfunction)。
-  - [摂食障害](https://ja.wikipedia.org/wiki/摂食障害 "wikilink")(Eating Disorder)。
+  - [摂食障害](../Page/摂食障害.md "wikilink")(Eating Disorder)。
   - 公開草案(Exposure Draft)。
   - CP/Mの代表的[ラインエディタ](../Page/テキストエディタ.md "wikilink")。
   - 「エンディング」の略。番組等の[エンディングテーマおよび](https://ja.wikipedia.org/wiki/主題歌#エンディング "wikilink")[エンディングアニメーション](../Page/エンディングアニメーション.md "wikilink")、あるいはコンピュータゲームの[エンディングデモ](../Page/エンディングデモ.md "wikilink")などを指す。
@@ -16,7 +16,7 @@
   - [ED (ソフトウェア)](https://ja.wikipedia.org/wiki/ED_\(ソフトウェア\) "wikilink") - Type74 Softwareが開発したファイル暗号化ソフト。
   - 光学素子における異常[分散性のこと](../Page/分散_\(光学\).md "wikilink")(Extralow Dispersion)。[異常分散レンズ](../Page/異常分散レンズ.md "wikilink")も参照。
   - [エド (テレビドラマ)](../Page/エド_\(テレビドラマ\).md "wikilink")(ED) - アメリカ合衆国のテレビドラマ。
-  - ニンテンドーゲームキューブ用ソフト「[エターナルダークネス 〜招かれた13人〜](https://ja.wikipedia.org/wiki/エターナルダークネス_〜招かれた13人〜 "wikilink")」の略称。
+  - ニンテンドーゲームキューブ用ソフト「[エターナルダークネス 〜招かれた13人〜](../Page/エターナルダークネス_〜招かれた13人〜.md "wikilink")」の略称。
   - [ユークリッド整域](https://ja.wikipedia.org/wiki/ユークリッド整域 "wikilink") (Euclidean domain)
   - ロシアの[フライトシミュレーション](../Page/フライトシミュレーション.md "wikilink")開発企業[Eagle Dynamicsの略称](https://ja.wikipedia.org/wiki/Eagle_Dynamics "wikilink")。
   - [エンデューロレース](../Page/エンデューロレース.md "wikilink")(Enduro race)
@@ -25,7 +25,7 @@
 **Ed**
 
   - [国鉄7270形蒸気機関車](https://ja.wikipedia.org/wiki/国鉄7270形蒸気機関車 "wikilink")（旧北海道官設鉄道B3形）の鉄道作業局時代の形式
-  - [Ed (イラストレーター)](https://ja.wikipedia.org/wiki/Ed_\(イラストレーター\) "wikilink") - 日本のイラストレーター。
+  - [Ed (イラストレーター)](../Page/Ed_\(イラストレーター\).md "wikilink") - 日本のイラストレーター。
 
 **ed**
 

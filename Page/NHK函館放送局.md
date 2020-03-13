@@ -1,17 +1,17 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK函館放送局**（エヌエイチケイはこだてほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[渡島管内と](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")[檜山管内を](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[総合テレビと](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[ラジオ第1放送で地域放送を行っている](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")。
+**NHK函館放送局**（エヌエイチケイはこだてほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[渡島管内と](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")[檜山管内を](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[ラジオ第1放送で地域放送を行っている](../Page/NHKラジオ第1放送.md "wikilink")。
 
 ## 放送局概要
 
   - 所在地：[函館市](../Page/函館市.md "wikilink")千歳町13番1号（郵便番号040-8680）
 
-放送対象地域のうち、[渡島総合振興局](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")北部の[森町](https://ja.wikipedia.org/wiki/森町_\(北海道\) "wikilink")、[八雲町](../Page/八雲町.md "wikilink")には函館放送局管轄の総合テレビ単独の[中継局](../Page/中継局.md "wikilink")（アナログ放送）が設置されている。
+放送対象地域のうち、[渡島総合振興局](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")北部の[森町](../Page/森町_\(北海道\).md "wikilink")、[八雲町](../Page/八雲町.md "wikilink")には函館放送局管轄の総合テレビ単独の[中継局](../Page/中継局.md "wikilink")（アナログ放送）が設置されている。
 
-ただ、これらの地域で[地上デジタル放送が開局する際には](../Page/地上デジタルテレビ放送.md "wikilink")、函館放送局の電波が室蘭市測量山に向いているUHFアンテナでそのままで受信できるよう、室蘭市測量山にNHK単独の「渡島中継局」として函館放送局のデジタル総合テレビ中継局が設置された。ただし、アナログ総合テレビとは異なり、受信範囲を渡島地方に収まるようにするため送信アンテナに指向性が掛けられるが、送信アンテナの性質上、物理的には[長万部町](../Page/長万部町.md "wikilink")に隣接する後志管内[黒松内町](https://ja.wikipedia.org/wiki/黒松内町 "wikilink")や胆振管内[豊浦町](https://ja.wikipedia.org/wiki/豊浦町 "wikilink")、送信所に近い室蘭市の一部地域でも受信可能となっている。\[1\]
+ただ、これらの地域で[地上デジタル放送が開局する際には](../Page/地上デジタルテレビ放送.md "wikilink")、函館放送局の電波が室蘭市測量山に向いているUHFアンテナでそのままで受信できるよう、室蘭市測量山にNHK単独の「渡島中継局」として函館放送局のデジタル総合テレビ中継局が設置された。ただし、アナログ総合テレビとは異なり、受信範囲を渡島地方に収まるようにするため送信アンテナに指向性が掛けられるが、送信アンテナの性質上、物理的には[長万部町](../Page/長万部町.md "wikilink")に隣接する後志管内[黒松内町](../Page/黒松内町.md "wikilink")や胆振管内[豊浦町](../Page/豊浦町.md "wikilink")、送信所に近い室蘭市の一部地域でも受信可能となっている。\[1\]
 
-道内では、札幌局に次いで、**NHK拠点局以外**では初めて、[総合テレビと](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[教育テレビが開局した](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")。
+道内では、札幌局に次いで、**NHK拠点局以外**では初めて、[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[教育テレビが開局した](../Page/NHK教育テレビジョン.md "wikilink")。
 
 2014年、[亀田ラジオ放送所敷地内に簡易の中継設備などを備えた](../Page/NHK亀田ラジオ放送所.md "wikilink")「亀田報道拠点」を新たに建設した。同年5月以降から本格的に運用。\[2\]\[3\]\[4\]
 
@@ -21,7 +21,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK-Hakodate-02.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NHK-Hakodate-03.jpg "wikilink")
 
-  - テレビ（総合・教育）・ラジオ(FM)送信所：函館市[函館山](https://ja.wikipedia.org/wiki/函館山 "wikilink")山頂（函館山テレビ放送所）
+  - テレビ（総合・教育）・ラジオ(FM)送信所：函館市[函館山](../Page/函館山.md "wikilink")山頂（函館山テレビ放送所）
   - ラジオ（第1・第2）送信所：函館市富岡町三丁目（亀田ラジオ放送所）
 
 ### 地上デジタル放送
@@ -30,7 +30,7 @@
 2007年8月30日13時に試験放送開始。10月1日より函館送信所と渡島中継局で本放送開始。
 
   - [函館](../Page/函館山テレビ・FM放送所.md "wikilink") 既存の施設をそのまま使用。指向性が掛けられている。
-      - 総合テレビ（JOVK-DTV）：18ch [出力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")1kW（リモコンキーID：**「3」**）
+      - 総合テレビ（JOVK-DTV）：18ch [出力](../Page/空中線電力.md "wikilink")1kW（リモコンキーID：**「3」**）
       - 教育テレビ（JOVB-DTV）：14ch 出力1kW（リモコンキーID：**「2」**）
 
 <!-- end list -->
@@ -70,7 +70,7 @@
 
 #### 総合テレビ（JOVK-TV）
 
-  - [函館](../Page/函館山テレビ・FM放送所.md "wikilink") 4ch 1kW（[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")の[津軽半島](https://ja.wikipedia.org/wiki/津軽半島 "wikilink")及び[下北半島](https://ja.wikipedia.org/wiki/下北半島 "wikilink")の津軽海峡沿岸部でも受信可能だった。教育テレビも同様）
+  - [函館](../Page/函館山テレビ・FM放送所.md "wikilink") 4ch 1kW（[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")の[津軽半島](../Page/津軽半島.md "wikilink")及び[下北半島](../Page/下北半島.md "wikilink")の津軽海峡沿岸部でも受信可能だった。教育テレビも同様）
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@
   - [古武井](../Page/NHK函館市内単独中継局.md "wikilink") 43ch 1W※
   - [椴法華](../Page/NHK函館市内単独中継局.md "wikilink") 32ch 1W※
   - [函館蛾眉野](../Page/函館蛾眉野テレビ中継局.md "wikilink") 53ch 0.1W
-  - [渡島福島](../Page/福島中継局.md "wikilink") 55ch 10W（青森県[中泊町](https://ja.wikipedia.org/wiki/中泊町 "wikilink")小泊地区、[外ヶ浜町](https://ja.wikipedia.org/wiki/外ヶ浜町 "wikilink")[三厩地区](../Page/三厩村.md "wikilink")、[今別町](../Page/今別町.md "wikilink")でも受信可能）
+  - [渡島福島](../Page/福島中継局.md "wikilink") 55ch 10W（青森県[中泊町](../Page/中泊町.md "wikilink")小泊地区、[外ヶ浜町](../Page/外ヶ浜町.md "wikilink")[三厩地区](../Page/三厩村.md "wikilink")、[今別町](../Page/今別町.md "wikilink")でも受信可能）
   - [知内小谷石](../Page/知内小谷石中継局.md "wikilink") 45ch 0.1W
   - [福島白符](../Page/福島中継局.md "wikilink") 41ch 10W
   - [松前](../Page/松前中継局.md "wikilink") 9ch 3W
@@ -120,7 +120,7 @@
   - [古武井](../Page/NHK函館市内単独中継局.md "wikilink") 45ch 1W※
   - [椴法華](../Page/NHK函館市内単独中継局.md "wikilink") 30ch 1W※
   - [函館蛾眉野](../Page/函館蛾眉野テレビ中継局.md "wikilink") 57ch 0.1W
-  - [渡島福島](../Page/福島中継局.md "wikilink") 53ch 10W （青森県[中泊町](https://ja.wikipedia.org/wiki/中泊町 "wikilink")小泊地区、[外ヶ浜町](https://ja.wikipedia.org/wiki/外ヶ浜町 "wikilink")[三厩地区](../Page/三厩村.md "wikilink")、[今別町](../Page/今別町.md "wikilink")でも受信可能）
+  - [渡島福島](../Page/福島中継局.md "wikilink") 53ch 10W （青森県[中泊町](../Page/中泊町.md "wikilink")小泊地区、[外ヶ浜町](../Page/外ヶ浜町.md "wikilink")[三厩地区](../Page/三厩村.md "wikilink")、[今別町](../Page/今別町.md "wikilink")でも受信可能）
   - [知内小谷石](../Page/知内小谷石中継局.md "wikilink") 47ch 0.1W
   - [福島白符](../Page/福島中継局.md "wikilink")43ch 10W
   - [松前](../Page/松前中継局.md "wikilink") 2ch 3W
@@ -138,7 +138,7 @@
 
 ### ラジオ第1放送（JOVK）
 
-  - [函館](../Page/NHK亀田ラジオ放送所.md "wikilink")[周波数](../Page/周波数.md "wikilink")675kHz 出力5kW（青森県の[津軽地方](https://ja.wikipedia.org/wiki/津軽地方 "wikilink")及び[下北地方](https://ja.wikipedia.org/wiki/下北地方 "wikilink")のほとんどの範囲で受信可能。ラジオ第2放送も同様）
+  - [函館](../Page/NHK亀田ラジオ放送所.md "wikilink")[周波数](../Page/周波数.md "wikilink")675kHz 出力5kW（青森県の[津軽地方](https://ja.wikipedia.org/wiki/津軽地方 "wikilink")及び[下北地方](../Page/下北地方.md "wikilink")のほとんどの範囲で受信可能。ラジオ第2放送も同様）
 
 <!-- end list -->
 

@@ -7,13 +7,13 @@
 
 [AP_headquarters.jpg](https://ja.wikipedia.org/wiki/File:AP_headquarters.jpg "fig:AP_headquarters.jpg") [the_associated_press_building_in_new_york_city.jpg](https://ja.wikipedia.org/wiki/File:the_associated_press_building_in_new_york_city.jpg "fig:the_associated_press_building_in_new_york_city.jpg") [APTNheadquarter.jpg](https://ja.wikipedia.org/wiki/File:APTNheadquarter.jpg "fig:APTNheadquarter.jpg") AP通信は、米国内の放送局や新聞社の協同組合であり、各社はAP通信を通して記事を配信すると同時にAP通信から記事の配信を受ける。アメリカ国外の新聞社や放送局はAP通信の加入者であり、協同組合のメンバーではないのでAPの記事配信に対して料金を支払っている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")現在、約5000のテレビ局とラジオ局、約1700の新聞社と契約しているという。その写真ライブラリには1000万を超える画像が蓄えられている。AP通信は243の支局を持ち、121ヶ国で世界各国のスタッフが活動している。
+[2005年](../Page/2005年.md "wikilink")現在、約5000のテレビ局とラジオ局、約1700の新聞社と契約しているという。その写真ライブラリには1000万を超える画像が蓄えられている。AP通信は243の支局を持ち、121ヶ国で世界各国のスタッフが活動している。
 
-ライバルだった[UPI通信社](../Page/UPI通信社.md "wikilink")が崩壊した現在、AP通信は米国内で全国的に展開している唯一の通信社である。他の[英語](../Page/英語.md "wikilink")でのニュース配信を行っている通信社としては[ロイター](https://ja.wikipedia.org/wiki/ロイター "wikilink")通信や[フランス通信社](../Page/フランス通信社.md "wikilink")（AFP）があるが、これらはアメリカ国外に基盤がある。アメリカでは、[APスタイルブック](https://ja.wikipedia.org/wiki/APスタイルブック "wikilink")が新聞雑誌編集のデファクトスタンダードとなっている。
+ライバルだった[UPI通信社](../Page/UPI通信社.md "wikilink")が崩壊した現在、AP通信は米国内で全国的に展開している唯一の通信社である。他の[英語](../Page/英語.md "wikilink")でのニュース配信を行っている通信社としては[ロイター](../Page/ロイター.md "wikilink")通信や[フランス通信社](../Page/フランス通信社.md "wikilink")（AFP）があるが、これらはアメリカ国外に基盤がある。アメリカでは、[APスタイルブック](https://ja.wikipedia.org/wiki/APスタイルブック "wikilink")が新聞雑誌編集のデファクトスタンダードとなっている。
 
 AP通信の記事は単純に「事実そのもの」を書くスタイルであり、「[逆ピラミッド](https://ja.wikipedia.org/wiki/逆ピラミッド "wikilink")型（結論→重要な情報→その背景といった順）」と呼ばれる書き方をすることが多いため、新聞紙上のスペースに収めるために編集しても本質が失われにくいという特徴を持つ。
 
-他の多くの報道機関と同様に、インターネットはAP通信の財政にとっても脅威となった。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月18日](../Page/4月18日.md "wikilink")の年次総会で、AP通信は2006年度からインターネット上での記事と写真の掲載に対して従来とは別の料金を徴収することを発表した。これまでは、AP通信の記事配信を受けていた各ニュース媒体はネット上への記事掲載については料金を支払っていなかった。後にAP通信はこの計画を取り止め、独自に直接ニュースを一般読者（ターゲットは18歳から34歳）に提供する目的で[asap](http://asap.ap.org/fronts/home.s)を開設した。
+他の多くの報道機関と同様に、インターネットはAP通信の財政にとっても脅威となった。[2005年](../Page/2005年.md "wikilink")[4月18日](../Page/4月18日.md "wikilink")の年次総会で、AP通信は2006年度からインターネット上での記事と写真の掲載に対して従来とは別の料金を徴収することを発表した。これまでは、AP通信の記事配信を受けていた各ニュース媒体はネット上への記事掲載については料金を支払っていなかった。後にAP通信はこの計画を取り止め、独自に直接ニュースを一般読者（ターゲットは18歳から34歳）に提供する目的で[asap](http://asap.ap.org/fronts/home.s)を開設した。
 
 合衆国内の社員は News Media Guild （報道メディアギルド）に参加している。
 
@@ -34,7 +34,7 @@ AP通信は5つの競合する[ニューヨーク](../Page/ニューヨーク.md
 
 ## 逸話
 
-  - アメリカのアニメ「[バッグスバニー](https://ja.wikipedia.org/wiki/バッグス・バニー "wikilink")」（Loony Tunes）には、こんなシーンがある。大スターになって自宅のプールで日光浴をするバッグスバニーに、彼の生い立ちについて尋ねるという取材の電話がかかってくる。その電話を受けたバッグスは、"Unassociated Press?" と応じる。日本語版では、「非[共同通信](../Page/共同通信社.md "wikilink")？」と訳してあった。
+  - アメリカのアニメ「[バッグスバニー](../Page/バッグス・バニー.md "wikilink")」（Loony Tunes）には、こんなシーンがある。大スターになって自宅のプールで日光浴をするバッグスバニーに、彼の生い立ちについて尋ねるという取材の電話がかかってくる。その電話を受けたバッグスは、"Unassociated Press?" と応じる。日本語版では、「非[共同通信](../Page/共同通信社.md "wikilink")？」と訳してあった。
 
 ## 脚注
 

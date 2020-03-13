@@ -1,11 +1,11 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK釧路放送局**（エヌエイチケイくしろほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の釧根地域（[釧路総合振興局](https://ja.wikipedia.org/wiki/釧路総合振興局 "wikilink")管内と[根室振興局](https://ja.wikipedia.org/wiki/根室振興局 "wikilink")管内）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで地域放送を行っている。営業部は帯広放送局に統合されて廃止された。
+**NHK釧路放送局**（エヌエイチケイくしろほうそうきょく）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の釧根地域（[釧路総合振興局](https://ja.wikipedia.org/wiki/釧路総合振興局 "wikilink")管内と[根室振興局](https://ja.wikipedia.org/wiki/根室振興局 "wikilink")管内）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで地域放送を行っている。営業部は帯広放送局に統合されて廃止された。
 
 ## 放送局概要
 
-[1938年](../Page/1938年.md "wikilink")（昭和13年）[2月26日](../Page/2月26日.md "wikilink")開局。[北海道東部の拠点として](https://ja.wikipedia.org/wiki/道東 "wikilink")、いわゆる「[北方領土](https://ja.wikipedia.org/wiki/北方領土 "wikilink")」地域もエリア内にある。実際に開局から第二次世界大戦終結までは管轄下にあったほか、現在も配下の根室支局が北方領土問題に関する取材の最前線基地である。
+[1938年](../Page/1938年.md "wikilink")（昭和13年）[2月26日](../Page/2月26日.md "wikilink")開局。[北海道東部の拠点として](../Page/道東.md "wikilink")、いわゆる「[北方領土](https://ja.wikipedia.org/wiki/北方領土 "wikilink")」地域もエリア内にある。実際に開局から第二次世界大戦終結までは管轄下にあったほか、現在も配下の根室支局が北方領土問題に関する取材の最前線基地である。
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）に開局45周年を迎えたことを機に、記念ソングとなる「釧路川」を制作し、レコード化して発売したり\[1\]、20世紀内は[JR北海道](../Page/北海道旅客鉄道.md "wikilink")[釧路駅](../Page/釧路駅.md "wikilink")で[札幌行き](https://ja.wikipedia.org/wiki/札幌駅 "wikilink")[特急](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")[おおぞらが出発する際に流していたことがある](../Page/おおぞら_\(列車\).md "wikilink")。
 
@@ -28,15 +28,15 @@
 
 ## 沿革
 
-  - [1938年](../Page/1938年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")13年）[2月26日](../Page/2月26日.md "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会釧路放送局**開局、[ラジオ放送開始](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")（出力100W）。
-  - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月](../Page/6月.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。[ラジオ第2放送開始](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")（出力100W）。
+  - [1938年](../Page/1938年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")13年）[2月26日](../Page/2月26日.md "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会釧路放送局**開局、[ラジオ放送開始](../Page/NHKラジオ第1放送.md "wikilink")（出力100W）。
+  - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月](../Page/6月.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承。[ラジオ第2放送開始](../Page/NHKラジオ第2放送.md "wikilink")（出力100W）。
   - [1957年](../Page/1957年.md "wikilink")（昭和32年） - ラジオ放送出力を500Wに増力。
-  - [1959年](../Page/1959年.md "wikilink")（昭和34年） - [NHK釧路（総合）テレビジョン放送開始](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")、緑ヶ丘送信所にアンテナ設置。
+  - [1959年](../Page/1959年.md "wikilink")（昭和34年） - [NHK釧路（総合）テレビジョン放送開始](../Page/NHK総合テレビジョン.md "wikilink")、緑ヶ丘送信所にアンテナ設置。
   - [1960年](../Page/1960年.md "wikilink")（昭和35年） - ラジオ放送出力を1kWに増力。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年） - ローカル放送開始、ラジオ放送出力を10kWに増力。
-  - [1962年](../Page/1962年.md "wikilink")（昭和37年） - [教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（現・Eテレ）放送開始。
+  - [1962年](../Page/1962年.md "wikilink")（昭和37年） - [教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（現・Eテレ）放送開始。
   - [1964年](../Page/1964年.md "wikilink")（昭和39年） - 釧路放送会館落成。
-  - [1965年](../Page/1965年.md "wikilink")（昭和40年） - 総合テレビジョンカラー放送開始。[FM実用化試験放送開始](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")（本放送開始は全国一斉に合わせた）。
+  - [1965年](../Page/1965年.md "wikilink")（昭和40年） - 総合テレビジョンカラー放送開始。[FM実用化試験放送開始](../Page/NHK-FM放送.md "wikilink")（本放送開始は全国一斉に合わせた）。
   - [1977年](../Page/1977年.md "wikilink")（昭和52年） - FM[ステレオ放送](../Page/ステレオ放送.md "wikilink")開始。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年） - 総合テレビジョン[音声多重放送](../Page/音声多重放送.md "wikilink")開始。
   - [2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[10月1日](../Page/10月1日.md "wikilink") - [地上デジタルテレビジョン放送開始](../Page/地上デジタルテレビ放送.md "wikilink")。
@@ -244,7 +244,7 @@
   - PGFMスタジオ
   - [FMリクエストアワー](https://ja.wikipedia.org/wiki/FMリクエストアワー "wikilink")（FM　土15:05 - 18:00）
   - [まるごとニュース北海道](https://ja.wikipedia.org/wiki/まるごとニュース北海道 "wikilink")釧路（2008年4月 - 2010年3月）（総合　月 - 金18:45 - 18:50、18:55 - 18:58）
-  - [ほっからんど釧路](https://ja.wikipedia.org/wiki/ほっからんど北海道 "wikilink")（1991年4月 - 2010年3月）（総合　月 - 金11:50 - 12:00）
+  - [ほっからんど釧路](../Page/ほっからんど北海道.md "wikilink")（1991年4月 - 2010年3月）（総合　月 - 金11:50 - 12:00）
   - [ネットワークニュース北海道](https://ja.wikipedia.org/wiki/ネットワークニュース北海道 "wikilink")釧路（総合、平日 18:45 - 18:50、18:53 - 18:56）
 
 ## アナウンサー・キャスター

@@ -1,7 +1,7 @@
 > この記事は[ASP.NET](https://ja.wikipedia.org/wiki/ASP.NET)から翻訳されています。
 
 
-**ASP.NET**は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発・提供しているWebアプリケーションフレームワークで、動的なウェブサイトや[Webアプリケーションや](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")[Webサービス](https://ja.wikipedia.org/wiki/Webサービス "wikilink")の開発や運用を行う。ASP.NETは[Active Server Pagesを](../Page/Active_Server_Pages.md "wikilink")[.NET向けにしたものである](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")。
+**ASP.NET**は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が開発・提供しているWebアプリケーションフレームワークで、動的なウェブサイトや[Webアプリケーションや](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")[Webサービス](../Page/Webサービス.md "wikilink")の開発や運用を行う。ASP.NETは[Active Server Pagesを](../Page/Active_Server_Pages.md "wikilink")[.NET向けにしたものである](https://ja.wikipedia.org/wiki/.NET_Framework "wikilink")。
 
 ASP.NETのもとには、ウェブサイト・ウェブアプリケーションの作成するために3種類のフレームワークが用意されている\[1\]。
 
@@ -136,7 +136,7 @@ Default.aspx.vb
   - [Microsoft Visual Studio](https://ja.wikipedia.org/wiki/Microsoft_Visual_Studio "wikilink")
   - [Microsoft Visual Web Developer](../Page/Microsoft_Visual_Web_Developer.md "wikilink")
   - [Microsoft SharePoint Designer](https://ja.wikipedia.org/wiki/Microsoft_SharePoint_Designer "wikilink")
-  - [Adobe Dreamweaver](https://ja.wikipedia.org/wiki/Adobe_Dreamweaver "wikilink") MX
+  - [Adobe Dreamweaver](../Page/Adobe_Dreamweaver.md "wikilink") MX
   - [ASP.NET Web Matrix](https://ja.wikipedia.org/wiki/ASP.NET_Web_Matrix "wikilink")
   - [MonoDevelop](https://ja.wikipedia.org/wiki/MonoDevelop "wikilink")
   - [SharpDevelop](../Page/SharpDevelop.md "wikilink")

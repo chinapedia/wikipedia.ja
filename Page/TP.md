@@ -14,13 +14,13 @@
   - [東京湾平均海面](https://ja.wikipedia.org/wiki/日本水準原点#東京湾平均海面 "wikilink") ()
   - [テクニカルポイント](../Page/マジックポイント.md "wikilink") - [テイルズ オブ シリーズなどの](../Page/テイルズ_オブ_シリーズ.md "wikilink")[RPGで使用されるパラメータ](../Page/ロールプレイングゲーム.md "wikilink")
   - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[爆笑トライアウト](https://ja.wikipedia.org/wiki/爆笑トライアウト "wikilink")』の採点法（トライポイント）
-  - [トラーパニ県](https://ja.wikipedia.org/wiki/トラーパニ県 "wikilink") () の[イタリア県名略号および](../Page/イタリア共和国の県名略記号.md "wikilink")[イタリア県名コード](../Page/ISO_3166-2:IT.md "wikilink")
+  - [トラーパニ県](../Page/トラーパニ県.md "wikilink") () の[イタリア県名略号および](../Page/イタリア共和国の県名略記号.md "wikilink")[イタリア県名コード](../Page/ISO_3166-2:IT.md "wikilink")
   - [ツインピークス](../Page/ツインピークス.md "wikilink") ()
   - [トレポネマ・パリディウム](https://ja.wikipedia.org/wiki/トレポネマ・パリディウム "wikilink") (**) - 病原細菌
   - [タレパイ](https://ja.wikipedia.org/wiki/タレパイ "wikilink") の略
   - [ThinkPad](../Page/ThinkPad.md "wikilink")の略
-  - [側頭極](https://ja.wikipedia.org/wiki/側頭極 "wikilink") () - [大脳](https://ja.wikipedia.org/wiki/大脳 "wikilink")の一部、[側頭葉](../Page/側頭葉.md "wikilink")の一番前の部分
-  - [NHK前橋放送局](../Page/NHK前橋放送局.md "wikilink")の[総合テレビと](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[FM放送の](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")（JOTP-DTV/FM）
+  - [側頭極](https://ja.wikipedia.org/wiki/側頭極 "wikilink") () - [大脳](../Page/大脳.md "wikilink")の一部、[側頭葉](../Page/側頭葉.md "wikilink")の一番前の部分
+  - [NHK前橋放送局](../Page/NHK前橋放送局.md "wikilink")の[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送の](../Page/NHK-FM放送.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")（JOTP-DTV/FM）
   - [ポーランドテレコム](https://ja.wikipedia.org/wiki/ポーランドテレコム "wikilink")
   - [フローンの気候区分](https://ja.wikipedia.org/wiki/フローンの気候区分 "wikilink")における気候帯のひとつ。熱帯外帯を意味する。
   - [名古屋鉄道](https://ja.wikipedia.org/wiki/名古屋鉄道 "wikilink")（名鉄）などのICカード式乗車カード[manaca](https://ja.wikipedia.org/wiki/manaca "wikilink")のカード番号の名称。かつて使われていた[プリペイドカード](../Page/プリペイドカード.md "wikilink")である「[トランパス](../Page/トランパス_\(交通プリペイドカード\).md "wikilink")（**T**rans **P**ass）」に由来する。

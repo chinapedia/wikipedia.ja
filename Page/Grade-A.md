@@ -25,6 +25,6 @@
 
 [Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:フジテレビのスポーツ番組 "wikilink") [Category:フジテレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの番組の歴史 "wikilink") [Category:関西テレビのスポーツ番組](https://ja.wikipedia.org/wiki/Category:関西テレビのスポーツ番組 "wikilink") [Category:関西テレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビの番組の歴史 "wikilink") [Category:とんねるず](https://ja.wikipedia.org/wiki/Category:とんねるず "wikilink")
 
-1.  共同制作となったのは1997年3月までそれぞれ一社提供番組時代のスポンサー枠=前半30分間が関西テレビ制作・[KINCHO一社提供](../Page/大日本除虫菊.md "wikilink")、後半30分間がフジテレビ制作・[三菱電機](../Page/三菱電機.md "wikilink")一社提供=の関係があったためである。この体制はその後の『[スーパーナイト](https://ja.wikipedia.org/wiki/スーパーナイト "wikilink")』以降、2018年現在の『[Mr.サンデー](https://ja.wikipedia.org/wiki/Mr.サンデー "wikilink")』に至るまで続けられている。また、この番組以降でこの共同制作枠は全国ネットのスポンサーについては一貫してパートを問わず複数社提供が続いており、当初の複数社提供の中にあったKINCHOと三菱電機はその後スポンサーを降板している。
+1.  共同制作となったのは1997年3月までそれぞれ一社提供番組時代のスポンサー枠=前半30分間が関西テレビ制作・[KINCHO一社提供](../Page/大日本除虫菊.md "wikilink")、後半30分間がフジテレビ制作・[三菱電機](../Page/三菱電機.md "wikilink")一社提供=の関係があったためである。この体制はその後の『[スーパーナイト](../Page/スーパーナイト.md "wikilink")』以降、2018年現在の『[Mr.サンデー](https://ja.wikipedia.org/wiki/Mr.サンデー "wikilink")』に至るまで続けられている。また、この番組以降でこの共同制作枠は全国ネットのスポンサーについては一貫してパートを問わず複数社提供が続いており、当初の複数社提供の中にあったKINCHOと三菱電機はその後スポンサーを降板している。
 2.  その代わり、従来のスポーツニュース番組が放送されていた日曜23:45 - 翌0:45枠ではバラエティ番組『[新ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")』が放送された。
 3.  1997年1月付発行の「スポーツ報知」・「週刊ザテレビジョン」

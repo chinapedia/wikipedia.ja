@@ -5,7 +5,7 @@
 
 ## 解説
 
-[オリコンシングルチャート最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位\[1\]。[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")主演の[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[痛快\!OL通り](../Page/痛快!OL通り.md "wikilink")』の主題歌。
+[オリコンシングルチャート最高](../Page/オリコンチャート.md "wikilink")2位\[1\]。[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")主演の[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[痛快\!OL通り](../Page/痛快!OL通り.md "wikilink")』の主題歌。
 
 アルバム『[ribbon](https://ja.wikipedia.org/wiki/ribbon_\(渡辺美里のアルバム\) "wikilink")』には同曲のリミックスバージョンが収録された。
 

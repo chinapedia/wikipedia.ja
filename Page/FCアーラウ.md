@@ -62,7 +62,7 @@
 
 ## 歴代監督
 
-  - [オットマー・ヒッツフェルト](https://ja.wikipedia.org/wiki/オットマー・ヒッツフェルト "wikilink") 1984-1988
+  - [オットマー・ヒッツフェルト](../Page/オットマー・ヒッツフェルト.md "wikilink") 1984-1988
 
   - [アラン・ガイガー](https://ja.wikipedia.org/wiki/アラン・ガイガー "wikilink") 2002-2003, 2005-2006
 
@@ -78,7 +78,7 @@
 
   - 1998-2002  [マリオ・エッギマン](https://ja.wikipedia.org/wiki/マリオ・エッギマン "wikilink")
   - 2002-2003  [フィリップ・デゲン](../Page/フィリップ・デゲン.md "wikilink")
-  - 2002-2003  [エマヌエル・ポガテッツ](https://ja.wikipedia.org/wiki/エマヌエル・ポガテッツ "wikilink")
+  - 2002-2003  [エマヌエル・ポガテッツ](../Page/エマヌエル・ポガテッツ.md "wikilink")
   - 2004-2006  [アルチュン・バルダニャン](https://ja.wikipedia.org/wiki/アルチュン・バルダニャン "wikilink")
   - 2006-2008  [ジャメル・メスバフ](https://ja.wikipedia.org/wiki/ジャメル・メスバフ "wikilink")
   - 2010  [ヴェリ・ランピ](https://ja.wikipedia.org/wiki/ヴェリ・ランピ "wikilink")

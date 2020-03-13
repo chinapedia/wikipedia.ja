@@ -1,13 +1,13 @@
 > この記事は[RVF](https://ja.wikipedia.org/wiki/RVF)から翻訳されています。
 
 
-**RVF**（アールブイエフ）は、かつて[ホンダ・レーシング](../Page/ホンダ・レーシング.md "wikilink")が開発した[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンを搭載した[オートバイ](../Page/オートバイ.md "wikilink")である。当初は競技専用車両として開発されたものだが、後に[本田技研工業](../Page/本田技研工業.md "wikilink")から一般市販車として製造販売された。
+**RVF**（アールブイエフ）は、かつて[ホンダ・レーシング](../Page/ホンダ・レーシング.md "wikilink")が開発した[水冷](../Page/水冷エンジン.md "wikilink")[4ストローク](https://ja.wikipedia.org/wiki/4ストローク "wikilink")[V型4気筒](../Page/V型4気筒.md "wikilink")エンジンを搭載した[オートバイ](../Page/オートバイ.md "wikilink")である。当初は競技専用車両として開発されたものだが、後に[本田技研工業](../Page/本田技研工業.md "wikilink")から一般市販車として製造販売された。
 
 ## モデル一覧
 
 ### RVF400 (TT-F3)
 
-RVF400とは、[全日本ロードレース選手権](https://ja.wikipedia.org/wiki/全日本ロードレース選手権 "wikilink")TT-F3クラスで活躍した競技専用車両である。ホンダが[ワークス体制で投入したこのマシンは](../Page/ワークス・チーム.md "wikilink")、競技規則により市販車両の[VF400Fをベース車両にしているが](https://ja.wikipedia.org/wiki/ホンダ・VF "wikilink")、エンジンブロックなどの規則で規定されている部分以外は、[フレームから全くの別物である](https://ja.wikipedia.org/wiki/フレーム形式_\(オートバイ\) "wikilink")。
+RVF400とは、[全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")TT-F3クラスで活躍した競技専用車両である。ホンダが[ワークス体制で投入したこのマシンは](../Page/ワークス・チーム.md "wikilink")、競技規則により市販車両の[VF400Fをベース車両にしているが](https://ja.wikipedia.org/wiki/ホンダ・VF "wikilink")、エンジンブロックなどの規則で規定されている部分以外は、[フレームから全くの別物である](https://ja.wikipedia.org/wiki/フレーム形式_\(オートバイ\) "wikilink")。
 
 [HRC契約](../Page/ホンダ・レーシング.md "wikilink")[ライダー](https://ja.wikipedia.org/wiki/ライダー "wikilink")の山本陽一などが搭乗し、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")シーズンを連覇した。1986年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には、RVF400と同様のHRCトリコロールのカラーリングを施した特別仕様の[VFR400R(NC21)を発売した](https://ja.wikipedia.org/wiki/ホンダ・VFR#VFR400R/Z/K\(NC21\) "wikilink")。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")発売の[VFR400R(NC24)ではカタログのモデルに山本を起用するなど](https://ja.wikipedia.org/wiki/ホンダ・VFR#VFR400R\(NC24\) "wikilink")、広告塔としての役割もあった。
 
@@ -17,18 +17,18 @@ RVF400とは、[全日本ロードレース選手権](https://ja.wikipedia.org/w
 
 主な獲得タイトルは次の通りである。
 
-  - [鈴鹿8時間耐久ロードレース](https://ja.wikipedia.org/wiki/鈴鹿8時間耐久ロードレース "wikilink")
-      - 1985年 [ワイン・ガードナー](https://ja.wikipedia.org/wiki/ワイン・ガードナー "wikilink")/[徳野政樹](https://ja.wikipedia.org/wiki/徳野政樹 "wikilink")（チームHRC）
+  - [鈴鹿8時間耐久ロードレース](../Page/鈴鹿8時間耐久ロードレース.md "wikilink")
+      - 1985年 [ワイン・ガードナー](../Page/ワイン・ガードナー.md "wikilink")/[徳野政樹](https://ja.wikipedia.org/wiki/徳野政樹 "wikilink")（チームHRC）
       - 1986年 ワイン・ガードナー/[ドミニク・サロン](https://ja.wikipedia.org/wiki/ドミニク・サロン "wikilink")（チームHRC）
       - 1989年 ドミニク・サロン/[アレックス・ビエラ](https://ja.wikipedia.org/wiki/アレックス・ビエラ "wikilink")（Beamsホンダwithイクザワ）
-      - 1991年 ワイン・ガードナー/[マイケル・ドゥーハン](https://ja.wikipedia.org/wiki/マイケル・ドゥーハン "wikilink")（[OKIホンダ](https://ja.wikipedia.org/wiki/沖電気工業 "wikilink")・レーシングチーム）
+      - 1991年 ワイン・ガードナー/[マイケル・ドゥーハン](../Page/マイケル・ドゥーハン.md "wikilink")（[OKIホンダ](../Page/沖電気工業.md "wikilink")・レーシングチーム）
       - 1992年 ワイン・ガードナー/[ダリル・ビーティー](https://ja.wikipedia.org/wiki/ダリル・ビーティー "wikilink")（OKIホンダ・レーシングチーム）
-  - [全日本ロードレース選手権](https://ja.wikipedia.org/wiki/全日本ロードレース選手権 "wikilink")
+  - [全日本ロードレース選手権](../Page/全日本ロードレース選手権.md "wikilink")
       - 1988年 [宮崎祥司](https://ja.wikipedia.org/wiki/宮崎祥司 "wikilink")
       - 1990年 [岩橋健一郎](https://ja.wikipedia.org/wiki/岩橋健一郎 "wikilink")
       - 1991年 宮崎祥司
   - [FIM世界耐久選手権](../Page/FIM世界耐久選手権.md "wikilink")
-  - [マン島TTレース](https://ja.wikipedia.org/wiki/マン島TTレース "wikilink")
+  - [マン島TTレース](../Page/マン島TTレース.md "wikilink")
 
 ### RVF
 
@@ -46,7 +46,7 @@ RVF400とは、[全日本ロードレース選手権](https://ja.wikipedia.org/w
 
 #### RVF / RC45
 
-[VFR750R(RC30)に代わるレースベース車で](https://ja.wikipedia.org/wiki/ホンダ・VFR#VFR750R\(RC30\) "wikilink")、[スーパーバイク用の](https://ja.wikipedia.org/wiki/スーパーバイク世界選手権 "wikilink")[ホモロゲーション](https://ja.wikipedia.org/wiki/ホモロゲーション "wikilink")マシンとして開発、1994年1月に発売された車両である。当初は日本国内500台\[4\]、。 {{-}}
+[VFR750R(RC30)に代わるレースベース車で](https://ja.wikipedia.org/wiki/ホンダ・VFR#VFR750R\(RC30\) "wikilink")、[スーパーバイク用の](../Page/スーパーバイク世界選手権.md "wikilink")[ホモロゲーション](../Page/ホモロゲーション.md "wikilink")マシンとして開発、1994年1月に発売された車両である。当初は日本国内500台\[4\]、。 {{-}}
 
 ## 脚注
 
@@ -57,7 +57,7 @@ RVF400とは、[全日本ロードレース選手権](https://ja.wikipedia.org/w
 ## 関連項目
 
   - [ホンダ・VF](https://ja.wikipedia.org/wiki/ホンダ・VF "wikilink")
-  - [ホンダ・VFR](https://ja.wikipedia.org/wiki/ホンダ・VFR "wikilink")
+  - [ホンダ・VFR](../Page/ホンダ・VFR.md "wikilink")
 
 ## 外部リンク
 

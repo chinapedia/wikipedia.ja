@@ -9,7 +9,7 @@
 
 ## 経緯
 
-ETOPS制定よりずっと以前、エンジンの信頼性が低かった時代において、双発旅客機（エンジン2基）は、近くの[空港](../Page/空港.md "wikilink")から100[マイル](../Page/マイル.md "wikilink")まで、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")からは空港より60分以上離れたところを飛ぶことが認められていなかった。このため、[大洋](../Page/大洋.md "wikilink")や[北極](../Page/北極.md "wikilink")を最短距離で横断するような航空路に双発旅客機を就航させることは許されなかった。その後、エンジンの信頼性が高まると、エンジン1基のみで飛行できる時間を120分に延長することができるようになった。事前に認定を受けた双発旅客機に対して近くの空港から120分以内の距離の飛行ルートを認めたものが、**ETOPS-120**ルールである（[ボーイング767](https://ja.wikipedia.org/wiki/ボーイング767 "wikilink")が初）。この規制緩和は、燃費や整備費で経済性に優れた双発旅客機をより広範な路線に就航させたいという[航空会社](../Page/航空会社.md "wikilink")の要望に応えたもので、これによって、従来の安全基準に対応するためにエンジンを3基や4基備えた機種（[DC-10](https://ja.wikipedia.org/wiki/マクドネル・ダグラス_DC-10 "wikilink")、[トライスターなど](https://ja.wikipedia.org/wiki/ロッキード_L-1011_トライスター "wikilink")）は発注が減っていった。
+ETOPS制定よりずっと以前、エンジンの信頼性が低かった時代において、双発旅客機（エンジン2基）は、近くの[空港](../Page/空港.md "wikilink")から100[マイル](../Page/マイル.md "wikilink")まで、[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")からは空港より60分以上離れたところを飛ぶことが認められていなかった。このため、[大洋](../Page/大洋.md "wikilink")や[北極](../Page/北極.md "wikilink")を最短距離で横断するような航空路に双発旅客機を就航させることは許されなかった。その後、エンジンの信頼性が高まると、エンジン1基のみで飛行できる時間を120分に延長することができるようになった。事前に認定を受けた双発旅客機に対して近くの空港から120分以内の距離の飛行ルートを認めたものが、**ETOPS-120**ルールである（[ボーイング767](../Page/ボーイング767.md "wikilink")が初）。この規制緩和は、燃費や整備費で経済性に優れた双発旅客機をより広範な路線に就航させたいという[航空会社](../Page/航空会社.md "wikilink")の要望に応えたもので、これによって、従来の安全基準に対応するためにエンジンを3基や4基備えた機種（[DC-10](../Page/マクドネル・ダグラス_DC-10.md "wikilink")、[トライスターなど](../Page/ロッキード_L-1011_トライスター.md "wikilink")）は発注が減っていった。
 
 その後、エンジンの信頼性がさらに向上すると、**ETOPS-180**や**ETOPS-207**という規定が設けられ、航続距離の長い双発旅客機では、[南極大陸](../Page/南極大陸.md "wikilink")など一部を除き地球上すべての地点を飛行できるまでになった\[2\]。
 
@@ -21,25 +21,25 @@ ETOPSの認定は、まず機体とエンジンの組み合わせにより型式
 
 また、ETOPSルールの適用時間は同じ機種・型式の旅客機でも航空会社（の運航実績と整備水準）によって違いがある。
 
-ETOPSルール適用の旅客機は3発機（[ボーイング727](https://ja.wikipedia.org/wiki/ボーイング727 "wikilink")、[DC-10](https://ja.wikipedia.org/wiki/マクドネル・ダグラス_DC-10 "wikilink")、[トライスターなど](https://ja.wikipedia.org/wiki/ロッキード_L-1011_トライスター "wikilink")）や4発機（[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")、[エアバスA340](https://ja.wikipedia.org/wiki/エアバスA340 "wikilink")・[A380など](https://ja.wikipedia.org/wiki/エアバスA380 "wikilink")）よりも、エンジンを中心として厳しい検査体制が採られている。
+ETOPSルール適用の旅客機は3発機（[ボーイング727](../Page/ボーイング727.md "wikilink")、[DC-10](../Page/マクドネル・ダグラス_DC-10.md "wikilink")、[トライスターなど](../Page/ロッキード_L-1011_トライスター.md "wikilink")）や4発機（[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")、[エアバスA340](../Page/エアバスA340.md "wikilink")・[A380など](https://ja.wikipedia.org/wiki/エアバスA380 "wikilink")）よりも、エンジンを中心として厳しい検査体制が採られている。
 
 ## ETOPS-120からETOPS-180へ
 
 [Boeing_777-200_JAL_waiting_resolutely_for_takeoff..._(8499201219).jpg](https://ja.wikipedia.org/wiki/File:Boeing_777-200_JAL_waiting_resolutely_for_takeoff..._\(8499201219\).jpg "fig:Boeing_777-200_JAL_waiting_resolutely_for_takeoff..._(8499201219).jpg")
 
-はじめてETOPS-180の認定を受けた旅客機は[ボーイング777](../Page/ボーイング777.md "wikilink")で、これは同機が搭載している2基のエンジンの信頼性が従来のものから飛躍的に向上したためである。その後[ボーイング757](https://ja.wikipedia.org/wiki/ボーイング757 "wikilink")、[ボーイング767](https://ja.wikipedia.org/wiki/ボーイング767 "wikilink")、[ボーイング737-600/-700/-800/-900](https://ja.wikipedia.org/wiki/ボーイング737_ネクストジェネレーション "wikilink")、[ボーイング787](https://ja.wikipedia.org/wiki/ボーイング787 "wikilink")、[エアバスA300-600](https://ja.wikipedia.org/wiki/エアバスA300-600 "wikilink")、[エアバスA310](https://ja.wikipedia.org/wiki/エアバスA310 "wikilink")、[エアバスA320](../Page/エアバスA320.md "wikilink")、[エアバスA330](https://ja.wikipedia.org/wiki/エアバスA330 "wikilink")にもETOPS-180が認定されている。
+はじめてETOPS-180の認定を受けた旅客機は[ボーイング777](../Page/ボーイング777.md "wikilink")で、これは同機が搭載している2基のエンジンの信頼性が従来のものから飛躍的に向上したためである。その後[ボーイング757](https://ja.wikipedia.org/wiki/ボーイング757 "wikilink")、[ボーイング767](../Page/ボーイング767.md "wikilink")、[ボーイング737-600/-700/-800/-900](https://ja.wikipedia.org/wiki/ボーイング737_ネクストジェネレーション "wikilink")、[ボーイング787](../Page/ボーイング787.md "wikilink")、[エアバスA300-600](https://ja.wikipedia.org/wiki/エアバスA300-600 "wikilink")、[エアバスA310](../Page/エアバスA310.md "wikilink")、[エアバスA320](../Page/エアバスA320.md "wikilink")、[エアバスA330](../Page/エアバスA330.md "wikilink")にもETOPS-180が認定されている。
 
 ## ETOPS-207
 
 ## ETOPS-240
 
-2009年10月に[欧州航空安全機関](https://ja.wikipedia.org/wiki/欧州航空安全機関 "wikilink") ([European Aviation Safety Agency](https://ja.wikipedia.org/wiki/:en:European_Aviation_Safety_Agency "wikilink"),EASA) が[エアバスA330](https://ja.wikipedia.org/wiki/エアバスA330 "wikilink")に対して初のETOPS-240の認定を与えた\[4\]。
+2009年10月に[欧州航空安全機関](https://ja.wikipedia.org/wiki/欧州航空安全機関 "wikilink") ([European Aviation Safety Agency](https://ja.wikipedia.org/wiki/:en:European_Aviation_Safety_Agency "wikilink"),EASA) が[エアバスA330](../Page/エアバスA330.md "wikilink")に対して初のETOPS-240の認定を与えた\[4\]。
 
 ## ETOPS-330
 
 2011年12月に[FAAはボーイング](https://ja.wikipedia.org/wiki/米国連邦航空局 "wikilink")777（777-300ER、777-200LR、777貨物機、GE社のエンジンを搭載した777-200ER）に対してETOPS-330の認定を与えた\[5\]。
 
-2014年5月には[ボーイング787](https://ja.wikipedia.org/wiki/ボーイング787 "wikilink")がFAAからETOPS-330の認定を受けた\[6\]。
+2014年5月には[ボーイング787](../Page/ボーイング787.md "wikilink")がFAAからETOPS-330の認定を受けた\[6\]。
 
 2015年3月に[ボーイング747-8](https://ja.wikipedia.org/wiki/ボーイング747-8 "wikilink")がFAAからETOPS-330の認定を受けたと発表し\[7\]、4発機で初めてETOPSが認定されることになった。
 

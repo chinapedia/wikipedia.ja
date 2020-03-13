@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [2000年](../Page/2000年.md "wikilink")3月15日〜17日に開催された[日本武道館](../Page/日本武道館.md "wikilink")でのコンサート「**野猿 2000GTR 武道館リミテッドインタークーラー付大発表会**」に向けて発売された2ndアルバム。ヒットシングル「[Selfish](../Page/Selfish_\(野猿の曲\).md "wikilink")」「[夜空を待ちながら](../Page/夜空を待ちながら.md "wikilink")」「[First impression](https://ja.wikipedia.org/wiki/First_impression_\(野猿の曲\) "wikilink")」を含む全14曲を収録。
+  - [2000年](../Page/2000年.md "wikilink")3月15日〜17日に開催された[日本武道館](../Page/日本武道館.md "wikilink")でのコンサート「**野猿 2000GTR 武道館リミテッドインタークーラー付大発表会**」に向けて発売された2ndアルバム。ヒットシングル「[Selfish](../Page/Selfish_\(野猿の曲\).md "wikilink")」「[夜空を待ちながら](../Page/夜空を待ちながら.md "wikilink")」「[First impression](../Page/First_impression_\(野猿の曲\).md "wikilink")」を含む全14曲を収録。
   - 初回限定版には「We are the"YAEN"2000」が収録され、通常版ではこの楽曲に変わり「なんでやねんのブルース」が収録された。
   - このアルバムの[CDジャケット](https://ja.wikipedia.org/wiki/CDジャケット "wikilink")は、[芝浦](../Page/芝浦.md "wikilink")の倉庫街にある[ヘリポート](../Page/ヘリポート.md "wikilink")で撮影された。
 
@@ -13,7 +13,7 @@
 
 1.  **Heaven's Rule**
       -
-        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：[後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+        作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲・編曲：[後藤次利](../Page/後藤次利.md "wikilink")
 2.  **[Selfish](../Page/Selfish_\(野猿の曲\).md "wikilink")**
       -
         作詞：秋元康、作曲・編曲：後藤次利
@@ -47,7 +47,7 @@
 10. **Love is Ghost**
       -
         作詞：秋元康、作曲・編曲：後藤次利
-11. **[First impression](https://ja.wikipedia.org/wiki/First_impression_\(野猿の曲\) "wikilink")**
+11. **[First impression](../Page/First_impression_\(野猿の曲\).md "wikilink")**
       -
         作詞：秋元康、作曲・編曲：後藤次利
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")「[お見合い結婚](../Page/お見合い結婚.md "wikilink")」オープニング曲
@@ -62,8 +62,8 @@
 14. **なんでやねんのブルース**
       -
         作詞：秋元康、作曲・編曲：後藤次利
-        歌：[松村匠](https://ja.wikipedia.org/wiki/松村匠 "wikilink")（元「[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")」[AP](https://ja.wikipedia.org/wiki/テレビプロデューサー "wikilink")）
-        通常版に収録。初回限定版のみこの楽曲ではなく「**We are the"YAEN"2000**」が収録されていた。後に、9thシングル「[太陽の化石](https://ja.wikipedia.org/wiki/太陽の化石 "wikilink")」にも収録された。
+        歌：[松村匠](../Page/松村匠.md "wikilink")（元「[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")」[AP](../Page/テレビプロデューサー.md "wikilink")）
+        通常版に収録。初回限定版のみこの楽曲ではなく「**We are the"YAEN"2000**」が収録されていた。後に、9thシングル「[太陽の化石](../Page/太陽の化石.md "wikilink")」にも収録された。
 
 ## 参加ミュージシャン
 

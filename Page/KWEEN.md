@@ -7,11 +7,11 @@
 
 1991年、Queenのボーカル、[フレディ・マーキュリー](../Page/フレディ・マーキュリー.md "wikilink")死後に、Queenが大きな人気を得た国である[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で追悼イベントがなんら行われなかったことを寂しく感じたQueenファンのミュージシャン5名により結成。日本で最初のフレディ追悼ライブを1992年12月に、東京御茶ノ水の日仏会館で開催する。
 
-以後、ライブ活動と多くのメディア出演で、KWEENはQueenトリビュートバンドとしての地位を確立してゆく。日本国内の主要[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")である[クラブチッタ](https://ja.wikipedia.org/wiki/クラブチッタ "wikilink")では毎年11月に追悼公演を実施、さらに[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")、[渋谷AX](https://ja.wikipedia.org/wiki/渋谷AX "wikilink")などでもワンマンライブを展開し、東京以外では、[Big Cat](https://ja.wikipedia.org/wiki/Big_Cat "wikilink")（大阪）、[Electric Lady Land](https://ja.wikipedia.org/wiki/Electric_Lady_Land "wikilink")（名古屋）、[ボトムライン](https://ja.wikipedia.org/wiki/ボトムライン "wikilink")（名古屋）などでライブを行う。その活動は、Queenのギタリスト[ブライアン・メイ](https://ja.wikipedia.org/wiki/ブライアン・メイ "wikilink")の知るところとなり、ブライアンからKWEENボーカル、フレディーエトウに宛てて激励の手紙が届くこととなる。
+以後、ライブ活動と多くのメディア出演で、KWEENはQueenトリビュートバンドとしての地位を確立してゆく。日本国内の主要[ライブハウス](../Page/ライブハウス.md "wikilink")である[クラブチッタ](https://ja.wikipedia.org/wiki/クラブチッタ "wikilink")では毎年11月に追悼公演を実施、さらに[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")、[渋谷AX](https://ja.wikipedia.org/wiki/渋谷AX "wikilink")などでもワンマンライブを展開し、東京以外では、[Big Cat](https://ja.wikipedia.org/wiki/Big_Cat "wikilink")（大阪）、[Electric Lady Land](https://ja.wikipedia.org/wiki/Electric_Lady_Land "wikilink")（名古屋）、[ボトムライン](https://ja.wikipedia.org/wiki/ボトムライン "wikilink")（名古屋）などでライブを行う。その活動は、Queenのギタリスト[ブライアン・メイ](../Page/ブライアン・メイ.md "wikilink")の知るところとなり、ブライアンからKWEENボーカル、フレディーエトウに宛てて激励の手紙が届くこととなる。
 
 そして1997年、1998年、2000年と、KWEENは英国[ロンドン](../Page/ロンドン.md "wikilink")公演を敢行する。現地メディアからも賞賛され、全英ネットの[モーニングショー](../Page/モーニングショー.md "wikilink")「Big Breakfast」での演奏や、いくつかのライブハウスでは動員記録を更新するなど、話題となる。2000年にロンドン、[コベントガーデン](https://ja.wikipedia.org/wiki/コベントガーデン "wikilink")のロードハウスで行った公演では、800人の観客を動員する。
 
-その後、数年間の活動休止を経て2003年、KWEENは大規模ロックフェスティバル「[ライジング・サン・ロックフェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink") in EZO 2003」でカムバックを果たすこととなる。
+その後、数年間の活動休止を経て2003年、KWEENは大規模ロックフェスティバル「[ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink") in EZO 2003」でカムバックを果たすこととなる。
 
 2008年11月22日のクラブチッタ公演をもって、結成当初からのメンバーであり、実質的リーダーであったボーカルのフレディーエトウが脱退。キーボードのスパイクヒロセも脱退。フレディーエトウはスパイクヒロセ（新バンドではベースを担当し、ジョンヒロセと名乗る）を伴って新たなQUEENトリビュートバンドを結成し活動を開始した。KWEENの今後の活動については残ったメンバーから発表されていない。2009年5月段階でオフィシャルホームページが消滅。ブログは同段階で存在はしているが、こちらもフレディーエトウの脱退挨拶を最後に更新されていない。このことから、フロントマンであるボーカリストの脱退により実質的には解散したとみられる。
 
@@ -21,7 +21,7 @@
 
   - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")：江藤洋平（フレディーエトウ）
   - [ギター](../Page/ギター.md "wikilink")：三浦英樹（ブライアンミウラ）
-  - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：降旗俊彰（ジョンフリハタ）
+  - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")：降旗俊彰（ジョンフリハタ）
   - [ドラム](../Page/ドラムセット.md "wikilink")：紀平延久（ロジャーキヒラ）
   - [サポート](https://ja.wikipedia.org/wiki/バックバンド "wikilink")[キーボード](https://ja.wikipedia.org/wiki/キーボード_\(楽器\)#電子楽器としてのキーボード "wikilink")：坂田寿生（スパイクサカタ）
 
@@ -44,9 +44,9 @@
 ## 主なフェスティバル出演歴
 
   - ライジング・サン・ロックフェスティバル in EZO 2003
-  - [サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")2004
+  - [サマーソニック](../Page/サマーソニック.md "wikilink")2004
   - [ピースフルラブ・ロックフェスティバル](https://ja.wikipedia.org/wiki/ピースフルラブ・ロックフェスティバル "wikilink")（複数回出演）
-  - [ライジング・サン・ロックフェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink") 2008 in EZO ([フレディ・エトウ](https://ja.wikipedia.org/wiki/フレディ・エトウ "wikilink")のみの出演。)
+  - [ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink") 2008 in EZO ([フレディ・エトウ](https://ja.wikipedia.org/wiki/フレディ・エトウ "wikilink")のみの出演。)
 
 ## ディスコグラフィ
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-主に[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")や[BGM](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")、バラエティ番組などに楽曲を提供しており、同じアリア・エンターテインメントに所属している[佐藤ひろ美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink")をはじめ、[水樹奈々](../Page/水樹奈々.md "wikilink")、[榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[栗林みな実](../Page/栗林みな実.md "wikilink")、[飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink")、[NANAなど](../Page/NANA_\(歌手\).md "wikilink")、多くのボーカリストに楽曲を提供し続けている。
+主に[PCゲーム](https://ja.wikipedia.org/wiki/PCゲーム "wikilink")、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")の[主題歌](../Page/主題歌.md "wikilink")や[BGM](../Page/バックグラウンドミュージック.md "wikilink")、バラエティ番組などに楽曲を提供しており、同じアリア・エンターテインメントに所属している[佐藤ひろ美](../Page/佐藤ひろ美.md "wikilink")をはじめ、[水樹奈々](../Page/水樹奈々.md "wikilink")、[榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[栗林みな実](../Page/栗林みな実.md "wikilink")、[飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink")、[NANAなど](../Page/NANA_\(歌手\).md "wikilink")、多くのボーカリストに楽曲を提供し続けている。
 
 上松範康は[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")アレンジを多用することが多く、その譜面は本人曰く『鬼の譜面』と称しており、実際にその譜面を演奏したスタジオミュージシャンの[弦一徹からは冗談交じりでクレームが付くことがあった](../Page/落合徹也.md "wikilink")。上松以外の所属作曲家もストリングスアレンジを程度の差はあれ多用する傾向があるが、一方でストリングスの他にもアコースティックギターなどの生楽器を用いたり、打ち込み中心のデジタルサウンドを使用するなど幅広い音作りに対応している。
 
@@ -26,7 +26,7 @@
 
 **2005年**
 
-  - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - [佐藤ひろ美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink")のアルバム「Angelica」発売。全ての楽曲の作編曲をElements Gardenメンバーが担当している(但し、feel時代の楽曲も含む)。Elements Gardenが全曲の作編曲を担当したフルアルバムは初めて。
+  - [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - [佐藤ひろ美](../Page/佐藤ひろ美.md "wikilink")のアルバム「Angelica」発売。全ての楽曲の作編曲をElements Gardenメンバーが担当している(但し、feel時代の楽曲も含む)。Elements Gardenが全曲の作編曲を担当したフルアルバムは初めて。
   - [10月19日](../Page/10月19日.md "wikilink") - [水樹奈々](../Page/水樹奈々.md "wikilink")のシングル「[ETERNAL BLAZE](../Page/ETERNAL_BLAZE.md "wikilink")」発売。オリコン週間2位を記録。上松範康が表題曲の作編曲、藤間仁がカップリングの作編曲を担当した。Elements Gardenの楽曲がオリコン10位以内に入ったのはこれが初めて。以降、Elements Gardenは水樹奈々のシングル・アルバムの多くに関わっており、全メンバーが楽曲を提供している。
 
 **2006年**
@@ -92,7 +92,7 @@
 ## 主なスタッフ（クリエイター）
 
   - **[上松範康](../Page/上松範康.md "wikilink")**（あげまつ のりやす） - Elements Garden主宰。アコースティックな曲からデジタルサウンドを前面に出した曲まで幅広い曲調の曲を制作している。アルパ奏者・[上松美香](../Page/上松美香.md "wikilink")の実兄。
-  - **[藤田淳平](../Page/藤田淳平.md "wikilink")**（ふじた じゅんぺい） - ロック調のギターサウンドや、デジタルサウンドを前面に押し出した曲が得意。メンバー内で唯一エンジニアリング、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")の経験がある。妻は歌手の[Suara](../Page/Suara.md "wikilink")。
+  - **[藤田淳平](../Page/藤田淳平.md "wikilink")**（ふじた じゅんぺい） - ロック調のギターサウンドや、デジタルサウンドを前面に押し出した曲が得意。メンバー内で唯一エンジニアリング、[マニピュレーター](../Page/マニピュレーター.md "wikilink")の経験がある。妻は歌手の[Suara](../Page/Suara.md "wikilink")。
   - **[藤間仁](../Page/藤間仁.md "wikilink")**（ふじま ひとし） - POPSを中心にアコースティックな曲から民族色の強い曲まで柔軟な曲作りをしている。南米へのギター留学の経験があり、自身の楽曲の中にもそれを生かした情熱的なギターアレンジを入れることがある。妻は上松美香である。
   - **[菊田大介](../Page/菊田大介.md "wikilink")**（きくた だいすけ） - 爽やかでキャッチーなPOPSとテクノ系の打ち込みによる楽曲を持ち味としている。
   - **[岩橋星実](https://ja.wikipedia.org/wiki/岩橋星実 "wikilink")**（いわはし せいま） - 以前からアシスタントとして関わっていたが、2011年より本格的に制作に参加\[2\]。[パーカッション](../Page/パーカッション.md "wikilink")も演奏する。
@@ -107,7 +107,7 @@
 
   - 中井康智（なかい やすとも） - 2005年より所属、2006年7月31日脱退と同時に音楽活動を引退。\[3\]
   - [中山真斗](https://ja.wikipedia.org/wiki/中山真斗 "wikilink")（なかやま まさと） - 2007年より活動を開始。作詞やギターも担当する。信念は「一期一会」な楽曲作り。[2013年](../Page/2013年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")脱退。\[4\]
-  - [Evan Call](https://ja.wikipedia.org/wiki/エバン・コール "wikilink")（エバン・コール）\[5\] - [バークリー音楽大学](https://ja.wikipedia.org/wiki/バークリー音楽大学 "wikilink")卒業の[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ人 "wikilink")。[スコアを書くことができる](../Page/楽譜.md "wikilink")[オーケストラ](../Page/オーケストラ.md "wikilink")のほか、本格[メタルサウンドまで](../Page/ヘヴィメタル.md "wikilink")、幅広く対応。[2016年](../Page/2016年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")契約期間満了に伴い脱退。\[6\]
+  - [Evan Call](https://ja.wikipedia.org/wiki/エバン・コール "wikilink")（エバン・コール）\[5\] - [バークリー音楽大学](../Page/バークリー音楽大学.md "wikilink")卒業の[アメリカ人](https://ja.wikipedia.org/wiki/アメリカ人 "wikilink")。[スコアを書くことができる](../Page/楽譜.md "wikilink")[オーケストラ](../Page/オーケストラ.md "wikilink")のほか、本格[メタルサウンドまで](../Page/ヘヴィメタル.md "wikilink")、幅広く対応。[2016年](../Page/2016年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")契約期間満了に伴い脱退。\[6\]
   - 喜多智弘（きた ともひろ） - 当初からアシスタントとして関わっていたが、2011年より本格的に制作に参加。[2016年](../Page/2016年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")契約期間満了に伴い脱退。\[7\]
   - [母里治樹](https://ja.wikipedia.org/wiki/母里治樹 "wikilink")（もり はるき） - 2009年より参加。上松曰く「ストレートに心に響くメロディを作る、可能性を秘めた新人（※加入当時）。」2018年7月31日脱退。\[8\]
   - [末益涼太](https://ja.wikipedia.org/wiki/末益涼太 "wikilink")（すえます りょうた）- 2014年よりElements Gardenに参加。1993年12月11日生まれ。\[9\]。デジタルサウンドのほか、ライブ映えを意識したメロディ作りやアレンジを得意とし、ギターやベースも演奏する。2019年1月31日脱退。\[10\]
@@ -135,7 +135,7 @@
 <!-- end list -->
 
   - [蒼井翔太](../Page/蒼井翔太.md "wikilink")
-  - [佐藤ひろ美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink")（引退）
+  - [佐藤ひろ美](../Page/佐藤ひろ美.md "wikilink")（引退）
   - [新田恵海](https://ja.wikipedia.org/wiki/新田恵海 "wikilink")
   - [MICHI](https://ja.wikipedia.org/wiki/MICHI "wikilink")
 
@@ -150,7 +150,7 @@
   - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")
   - [KIRIKO](https://ja.wikipedia.org/wiki/KIRIKO "wikilink")
   - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") & 佐藤裕美
-  - [MAKO](https://ja.wikipedia.org/wiki/MAKO "wikilink")
+  - [MAKO](../Page/MAKO.md "wikilink")
   - monet
   - [NANA](../Page/NANA_\(歌手\).md "wikilink")
   - [Riryka](../Page/Riryka.md "wikilink")
@@ -162,9 +162,9 @@
   - [片霧烈火](../Page/片霧烈火.md "wikilink")
   - [栗林みな実](../Page/栗林みな実.md "wikilink")
   - [榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")
-  - [霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")
+  - [霜月はるか](../Page/霜月はるか.md "wikilink")
   - [茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")
-  - [富田麻帆](https://ja.wikipedia.org/wiki/富田麻帆 "wikilink")
+  - [富田麻帆](../Page/富田麻帆.md "wikilink")
   - [橋本みゆき](../Page/橋本みゆき.md "wikilink")
   - [飛蘭](https://ja.wikipedia.org/wiki/飛蘭 "wikilink")
   - [真理絵](../Page/真理絵.md "wikilink")
@@ -218,7 +218,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/翼はPleasure_Line" title="wikilink">翼はPleasure Line</a></p></td>
 <td><p>栗林みな実</p></td>
-<td><p>TVアニメ『<a href="https://ja.wikipedia.org/wiki/クロノクルセイド" title="wikilink">クロノクルセイド</a>』OP</p></td>
+<td><p>TVアニメ『<a href="../Page/クロノクルセイド.md" title="wikilink">クロノクルセイド</a>』OP</p></td>
 <td><p>作編曲</p></td>
 </tr>
 <tr class="even">
@@ -301,7 +301,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/心に届く詩" title="wikilink">心に届く詩</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Lia" title="wikilink">Lia</a>（<a href="https://ja.wikipedia.org/wiki/Veil" title="wikilink">Veil</a>）</p></td>
+<td><p><a href="../Page/Lia.md" title="wikilink">Lia</a>（<a href="https://ja.wikipedia.org/wiki/Veil" title="wikilink">Veil</a>）</p></td>
 <td><p>PSPゲーム『<a href="https://ja.wikipedia.org/wiki/シャイニング・ハーツ" title="wikilink">シャイニング・ハーツ</a>』OP</p></td>
 <td><p>作曲（編曲は藤田淳平）</p></td>
 </tr>
@@ -319,13 +319,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/星風のホロスコープ" title="wikilink">星風のホロスコープ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/のみこ" title="wikilink">のみこ</a></p></td>
+<td><p><a href="../Page/のみこ.md" title="wikilink">のみこ</a></p></td>
 <td><p>TVアニメ『<a href="https://ja.wikipedia.org/wiki/星空へ架かる橋" title="wikilink">星空へ架かる橋</a>』OP</p></td>
 <td><p>作詞・作曲（編曲は藤間仁）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オルフェ" title="wikilink">オルフェ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮野真守" title="wikilink">宮野真守</a></p></td>
+<td><p><a href="../Page/宮野真守.md" title="wikilink">宮野真守</a></p></td>
 <td><p>TVアニメ『<a href="https://ja.wikipedia.org/wiki/うたの☆プリンスさまっ♪#テレビアニメ" title="wikilink">うたの☆プリンスさまっ♪マジLOVE1000%</a>』OP</p></td>
 <td><p>作詞・作曲（編曲は藤田淳平）</p></td>
 </tr>
@@ -773,13 +773,13 @@
 <tr class="odd">
 <td><p><a href="../Page/SUPER_GENERATION.md" title="wikilink">SUPER GENERATION</a></p></td>
 <td><p>水樹奈々</p></td>
-<td><p>テレビ朝日『<a href="https://ja.wikipedia.org/wiki/やぐちひとり" title="wikilink">やぐちひとり</a>』ED</p></td>
+<td><p>テレビ朝日『<a href="../Page/やぐちひとり.md" title="wikilink">やぐちひとり</a>』ED</p></td>
 <td><p>編曲</p></td>
 </tr>
 <tr class="even">
 <td><p>ナツメグ〜Precious Last Summer〜</p></td>
 <td><p><a href="../Page/YURIA.md" title="wikilink">YURIA</a></p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/ナツメグ_(ゲーム)" title="wikilink">ナツメグ</a>』OP</p></td>
+<td><p>PCゲーム『<a href="../Page/ナツメグ_(ゲーム).md" title="wikilink">ナツメグ</a>』OP</p></td>
 <td><p>作編曲</p></td>
 </tr>
 <tr class="odd">
@@ -809,7 +809,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KI-ZU-NA〜遥かなる者へ" title="wikilink">KI-ZU-NA〜遥かなる者へ</a></p></td>
 <td><p>ヒトミソラ</p></td>
-<td><p>TVアニメ『<a href="https://ja.wikipedia.org/wiki/我が家のお稲荷さま。" title="wikilink">我が家のお稲荷さま。</a>』OP</p></td>
+<td><p>TVアニメ『<a href="../Page/我が家のお稲荷さま。.md" title="wikilink">我が家のお稲荷さま。</a>』OP</p></td>
 <td><p>編曲</p></td>
 </tr>
 <tr class="even">
@@ -820,7 +820,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/君がいる場所_(高垣彩陽の曲)" title="wikilink">君がいる場所</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高垣彩陽" title="wikilink">高垣彩陽</a></p></td>
+<td><p><a href="../Page/高垣彩陽.md" title="wikilink">高垣彩陽</a></p></td>
 <td><p>TVアニメ『<a href="https://ja.wikipedia.org/wiki/世紀末オカルト学院" title="wikilink">世紀末オカルト学院</a>』ED</p></td>
 <td><p>作編曲</p></td>
 </tr>
@@ -1076,13 +1076,13 @@
 <tr class="odd">
 <td><p>なんてね76's</p></td>
 <td><p>佐藤ひろ美</p></td>
-<td><p>PCゲーム『<a href="https://ja.wikipedia.org/wiki/ラムネ_(ゲーム)" title="wikilink">ラムネ</a>』OP</p></td>
+<td><p>PCゲーム『<a href="../Page/ラムネ_(ゲーム).md" title="wikilink">ラムネ</a>』OP</p></td>
 <td><p>作編曲</p></td>
 </tr>
 <tr class="even">
 <td><p>時代の無双花</p></td>
 <td><p>佐藤ひろ美</p></td>
-<td><p>TVアニメ『<a href="https://ja.wikipedia.org/wiki/機動新撰組_萌えよ剣" title="wikilink">機動新撰組 萌えよ剣TV</a>』OP</p></td>
+<td><p>TVアニメ『<a href="../Page/機動新撰組_萌えよ剣.md" title="wikilink">機動新撰組 萌えよ剣TV</a>』OP</p></td>
 <td><p>編曲</p></td>
 </tr>
 <tr class="odd">
@@ -1135,7 +1135,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フレーム越しの恋" title="wikilink">フレーム越しの恋</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/今井麻美" title="wikilink">今井麻美</a></p></td>
+<td><p><a href="../Page/今井麻美.md" title="wikilink">今井麻美</a></p></td>
 <td><p>OVA『<a href="https://ja.wikipedia.org/wiki/眼鏡なカノジョ" title="wikilink">眼鏡なカノジョ</a>』OP</p></td>
 <td><p>作曲</p></td>
 </tr>
@@ -1148,7 +1148,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/POP_MASTER" title="wikilink">POP MASTER</a></p></td>
 <td><p>水樹奈々</p></td>
-<td><p>日本テレビ『<a href="https://ja.wikipedia.org/wiki/全国高等学校クイズ選手権" title="wikilink">第31回全国高等学校クイズ選手権</a>』応援ソング</p></td>
+<td><p>日本テレビ『<a href="../Page/全国高等学校クイズ選手権.md" title="wikilink">第31回全国高等学校クイズ選手権</a>』応援ソング</p></td>
 <td><p>編曲</p></td>
 </tr>
 <tr class="even">
@@ -1469,7 +1469,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Love_Jump" title="wikilink">Love Jump</a></p></td>
 <td><p>栗林みな実</p></td>
-<td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/紅" title="wikilink">紅</a>』OP</p></td>
+<td><p>テレビアニメ『<a href="../Page/紅.md" title="wikilink">紅</a>』OP</p></td>
 <td><p>作編曲</p></td>
 </tr>
 <tr class="odd">
@@ -1755,21 +1755,21 @@
 
 ### 母里治樹
 
-| 曲名                                                                                 | 歌手名                                                   | タイアップ                                                                                                                                           | 楽曲提供        |
-| ---------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-|                                                                                    |                                                       |                                                                                                                                                 |             |
-| Kiss Me\!                                                                          | グライダー                                                 | ドラマ『[ケータイ少女 〜恋の課外授業〜](https://ja.wikipedia.org/wiki/ケータイ少女#ドラマ "wikilink")』OP                                                                   | 作編曲         |
-| [Silent Bible](https://ja.wikipedia.org/wiki/Silent_Bible "wikilink")              | 水樹奈々                                                  | PSPゲーム『[魔法少女リリカルなのはA's PORTABLE -THE BATTLE OF ACES-](https://ja.wikipedia.org/wiki/魔法少女リリカルなのはA's_PORTABLE_-THE_BATTLE_OF_ACES- "wikilink")』OP | 作曲（編曲は菊田大介） |
-| [snow ring](https://ja.wikipedia.org/wiki/fly_away_t.p.s "wikilink")               | 佐咲紗花                                                  | [インターネットテレビ](https://ja.wikipedia.org/wiki/インターネットテレビ "wikilink")番組『電波研究社』1月度ED                                                                 | 編曲          |
-| この日のままで                                                                            | [NANA](../Page/NANA_\(歌手\).md "wikilink")             | PCゲーム『グリザイアの果実』幸ED                                                                                                                              | 作編曲         |
-| 桃色の花咲く頃に                                                                           | 真理絵                                                   | PCゲーム『鬼ごっこ\!』ED                                                                                                                                 | 作編曲         |
-| 閃光のPRISONER                                                                        | [南里侑香](https://ja.wikipedia.org/wiki/南里侑香 "wikilink") | TVアニメ『[魔法戦争](https://ja.wikipedia.org/wiki/魔法戦争 "wikilink")』OP                                                                                  | 作曲（編曲は岩橋星実） |
-| [想像を超えた世界](https://ja.wikipedia.org/wiki/想像を超えた世界 "wikilink")                      | 新田恵海                                                  |                                                                                                                                                 | 作編曲         |
-| [spilt memories](https://ja.wikipedia.org/wiki/UNLIMITED_\(蒼井翔太のアルバム\) "wikilink") | 蒼井翔太                                                  |                                                                                                                                                 | 作編曲         |
-| 初恋をまた始めよう                                                                          | 来栖 翔（下野 紘）                                            |                                                                                                                                                 | 作編曲         |
-| Dazzling darling                                                                   | 皇 綺羅（小野大輔）                                            |                                                                                                                                                 | 作編曲         |
-| オン・ユア・マーク！                                                                         | 寿 嶺二（森久保祥太郎）                                          |                                                                                                                                                 | 編曲（作曲は藤田淳平） |
-| Feather in the hand                                                                | 聖川真斗（鈴村健一）、カミュ（前野智昭）、鳳 瑛二（内田雄馬）                       | 「うたの☆プリンスさまっ♪ マジLOVEキングダム」挿入歌                                                                                                                   | 作編曲         |
+| 曲名                                                                                 | 歌手名                                       | タイアップ                                                                                                                                           | 楽曲提供        |
+| ---------------------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+|                                                                                    |                                           |                                                                                                                                                 |             |
+| Kiss Me\!                                                                          | グライダー                                     | ドラマ『[ケータイ少女 〜恋の課外授業〜](https://ja.wikipedia.org/wiki/ケータイ少女#ドラマ "wikilink")』OP                                                                   | 作編曲         |
+| [Silent Bible](https://ja.wikipedia.org/wiki/Silent_Bible "wikilink")              | 水樹奈々                                      | PSPゲーム『[魔法少女リリカルなのはA's PORTABLE -THE BATTLE OF ACES-](https://ja.wikipedia.org/wiki/魔法少女リリカルなのはA's_PORTABLE_-THE_BATTLE_OF_ACES- "wikilink")』OP | 作曲（編曲は菊田大介） |
+| [snow ring](https://ja.wikipedia.org/wiki/fly_away_t.p.s "wikilink")               | 佐咲紗花                                      | [インターネットテレビ](../Page/インターネットテレビ.md "wikilink")番組『電波研究社』1月度ED                                                                                    | 編曲          |
+| この日のままで                                                                            | [NANA](../Page/NANA_\(歌手\).md "wikilink") | PCゲーム『グリザイアの果実』幸ED                                                                                                                              | 作編曲         |
+| 桃色の花咲く頃に                                                                           | 真理絵                                       | PCゲーム『鬼ごっこ\!』ED                                                                                                                                 | 作編曲         |
+| 閃光のPRISONER                                                                        | [南里侑香](../Page/南里侑香.md "wikilink")        | TVアニメ『[魔法戦争](https://ja.wikipedia.org/wiki/魔法戦争 "wikilink")』OP                                                                                  | 作曲（編曲は岩橋星実） |
+| [想像を超えた世界](https://ja.wikipedia.org/wiki/想像を超えた世界 "wikilink")                      | 新田恵海                                      |                                                                                                                                                 | 作編曲         |
+| [spilt memories](https://ja.wikipedia.org/wiki/UNLIMITED_\(蒼井翔太のアルバム\) "wikilink") | 蒼井翔太                                      |                                                                                                                                                 | 作編曲         |
+| 初恋をまた始めよう                                                                          | 来栖 翔（下野 紘）                                |                                                                                                                                                 | 作編曲         |
+| Dazzling darling                                                                   | 皇 綺羅（小野大輔）                                |                                                                                                                                                 | 作編曲         |
+| オン・ユア・マーク！                                                                         | 寿 嶺二（森久保祥太郎）                              |                                                                                                                                                 | 編曲（作曲は藤田淳平） |
+| Feather in the hand                                                                | 聖川真斗（鈴村健一）、カミュ（前野智昭）、鳳 瑛二（内田雄馬）           | 「うたの☆プリンスさまっ♪ マジLOVEキングダム」挿入歌                                                                                                                   | 作編曲         |
 
 ### 岩橋星実
 
@@ -1901,7 +1901,7 @@
 </tr>
 <tr class="odd">
 <td><p>闇の花嫁 Overture</p></td>
-<td><p>英作詞（<a href="https://ja.wikipedia.org/wiki/金春智子" title="wikilink">金春智子</a>と共作）・作編曲</p></td>
+<td><p>英作詞（<a href="../Page/金春智子.md" title="wikilink">金春智子</a>と共作）・作編曲</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1919,13 +1919,13 @@
 </tr>
 <tr class="even">
 <td><p>VANQUISH</p></td>
-<td><p>南那城メィジ（<a href="https://ja.wikipedia.org/wiki/木村昴" title="wikilink">木村昴</a>）</p></td>
+<td><p>南那城メィジ（<a href="../Page/木村昴.md" title="wikilink">木村昴</a>）</p></td>
 <td><p>作編曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ワタクシは忠実な犬です。</p></td>
-<td><p>ローエン（<a href="https://ja.wikipedia.org/wiki/鈴木達央" title="wikilink">鈴木達央</a>）</p></td>
+<td><p>ローエン（<a href="../Page/鈴木達央.md" title="wikilink">鈴木達央</a>）</p></td>
 <td><p>編曲（作曲は藤田淳平）</p></td>
 <td></td>
 </tr>
@@ -1940,7 +1940,7 @@
 <td><p>EMOLIAR</p></td>
 <td><p>楚神ウリエ（近藤隆）<br />
 南那城メィジ（木村昴）<br />
-棗坂シキ（<a href="https://ja.wikipedia.org/wiki/平川大輔" title="wikilink">平川大輔</a>）</p></td>
+棗坂シキ（<a href="../Page/平川大輔.md" title="wikilink">平川大輔</a>）</p></td>
 <td><p>作編曲</p></td>
 <td></td>
 </tr>
@@ -2153,7 +2153,7 @@
 </tr>
 <tr class="even">
 <td><p>GREEN AMBITION</p></td>
-<td><p>愛島セシル（<a href="https://ja.wikipedia.org/wiki/鳥海浩輔" title="wikilink">鳥海浩輔</a>）</p></td>
+<td><p>愛島セシル（<a href="../Page/鳥海浩輔.md" title="wikilink">鳥海浩輔</a>）</p></td>
 <td><p>うたの☆プリンスさまっ♪ マジLOVEレボリューションズ<br />
 イメージソング</p></td>
 <td><p>編曲（作詞・作曲は上松範康）</p></td>
@@ -2576,7 +2576,7 @@
   - [転生したらスライムだった件](https://ja.wikipedia.org/wiki/転生したらスライムだった件 "wikilink")
   - [となりの怪物くん](https://ja.wikipedia.org/wiki/となりの怪物くん "wikilink")
   - [BanG Dream\!プロジェクト](https://ja.wikipedia.org/wiki/BanG_Dream! "wikilink")
-  - [B型H系](https://ja.wikipedia.org/wiki/B型H系 "wikilink")
+  - [B型H系](../Page/B型H系.md "wikilink")
   - [WHITE ALBUM](../Page/WHITE_ALBUM.md "wikilink")
   - [護くんに女神の祝福を\!](../Page/護くんに女神の祝福を!.md "wikilink")
   - [モーレツ宇宙海賊](https://ja.wikipedia.org/wiki/ミニスカ宇宙海賊 "wikilink")
@@ -2586,17 +2586,17 @@
 
   - [暁WORKS](../Page/AKABEiSOFT2.md "wikilink")
       - [コミュ - 黒い竜と優しい王国 -](https://ja.wikipedia.org/wiki/コミュ_-_黒い竜と優しい王国_- "wikilink")
-  - [ういんどみる](https://ja.wikipedia.org/wiki/ういんどみる "wikilink")
+  - [ういんどみる](../Page/ういんどみる.md "wikilink")
       - [はぴねす\!](../Page/はぴねす!.md "wikilink")
       - [祝福のカンパネラ](https://ja.wikipedia.org/wiki/祝福のカンパネラ "wikilink")
       - [Hyper→Highspeed→Genius](https://ja.wikipedia.org/wiki/Hyper→Highspeed→Genius "wikilink")
   - [FC01](../Page/F&C.md "wikilink")
-      - [Canvas2](https://ja.wikipedia.org/wiki/Canvas2 "wikilink")
+      - [Canvas2](../Page/Canvas2.md "wikilink")
   - 九頭龍
       - [死妹人形](../Page/死妹人形.md "wikilink")
   - [GROOVER](../Page/GROOVER.md "wikilink")
-      - [グリーングリーン2 恋のスペシャルサマー](https://ja.wikipedia.org/wiki/グリーングリーン2_恋のスペシャルサマー "wikilink")
-      - [グリーングリーン3 ハローグッバイ](https://ja.wikipedia.org/wiki/グリーングリーン3_ハローグッバイ "wikilink")
+      - [グリーングリーン2 恋のスペシャルサマー](../Page/グリーングリーン2_恋のスペシャルサマー.md "wikilink")
+      - [グリーングリーン3 ハローグッバイ](../Page/グリーングリーン3_ハローグッバイ.md "wikilink")
   - [クロシェット](https://ja.wikipedia.org/wiki/クロシェット "wikilink")
       - [カミカゼ☆エクスプローラー\!](https://ja.wikipedia.org/wiki/カミカゼ☆エクスプローラー! "wikilink")
   - [CLOCKUP](../Page/CLOCKUP_\(ブランド\).md "wikilink")
@@ -2604,7 +2604,7 @@
   - [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")
       - [スーパーボンバーマン R](https://ja.wikipedia.org/wiki/スーパーボンバーマン_R "wikilink")
   - [コットンソフト](../Page/コットンソフト.md "wikilink")
-      - [ナツメグ](https://ja.wikipedia.org/wiki/ナツメグ_\(ゲーム\) "wikilink")
+      - [ナツメグ](../Page/ナツメグ_\(ゲーム\).md "wikilink")
       - [レコンキスタ](../Page/レコンキスタ_\(ゲーム\).md "wikilink")
       - [ナギサの](https://ja.wikipedia.org/wiki/ナギサの "wikilink")
       - [アンバークォーツ](https://ja.wikipedia.org/wiki/アンバークォーツ "wikilink")
@@ -2625,11 +2625,11 @@
       - 太陽のプロミア Flowering Days
   - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")
       - [ワイルドアームズ クロスファイア](../Page/ワイルドアームズ_クロスファイア.md "wikilink")
-  - [Terios](https://ja.wikipedia.org/wiki/Terios "wikilink")
+  - [Terios](../Page/Terios.md "wikilink")
       - [夜刀姫斬鬼行](../Page/夜刀姫斬鬼行.md "wikilink")
   - [ねこねこソフト](../Page/ねこねこソフト.md "wikilink")
-      - [サナララ](https://ja.wikipedia.org/wiki/サナララ "wikilink")R
-  - [Hearts](https://ja.wikipedia.org/wiki/ソフパル "wikilink")
+      - [サナララ](../Page/サナララ.md "wikilink")R
+  - [Hearts](../Page/ソフパル.md "wikilink")
       - [メルクリア 〜水の都に恋の花束を〜](https://ja.wikipedia.org/wiki/メルクリア_〜水の都に恋の花束を〜 "wikilink")
   - [ひよこソフト](https://ja.wikipedia.org/wiki/ひよこソフト "wikilink")桃組
       - おしえて☆エッチなレシピ -アナタとワタシのあま〜いせいかつ\!-
@@ -2641,7 +2641,7 @@
   - [ブロッコリー](../Page/ブロッコリー_\(企業\).md "wikilink")
       - [うたの☆プリンスさまっ♪](https://ja.wikipedia.org/wiki/うたの☆プリンスさまっ♪ "wikilink")
       - [神々の悪戯](https://ja.wikipedia.org/wiki/神々の悪戯 "wikilink")
-  - [FrontWing](https://ja.wikipedia.org/wiki/フロントウイング "wikilink")
+  - [FrontWing](../Page/フロントウイング.md "wikilink")
       - ピュアガール
       - [タイムリープぱらだいす](https://ja.wikipedia.org/wiki/タイムリープ_\(ゲーム\) "wikilink")
       - [ほしうた](https://ja.wikipedia.org/wiki/ほしうた "wikilink")
@@ -2673,7 +2673,7 @@
       - 舞風のメルト -Where leads to feeling destination-
       - [竜翼のメロディア -Diva with the blessed dragonol-](https://ja.wikipedia.org/wiki/竜翼のメロディア_-Diva_with_the_blessed_dragonol- "wikilink")
   - その他
-      - [リトル・ウィッチ パルフェ 黒猫魔法店物語](https://ja.wikipedia.org/wiki/リトル・ウィッチ_パルフェ "wikilink")
+      - [リトル・ウィッチ パルフェ 黒猫魔法店物語](../Page/リトル・ウィッチ_パルフェ.md "wikilink")
 
 ## ディスコグラフィ
 
@@ -2698,8 +2698,8 @@
     16. 夢の月 （Vocal：KAKO / 作詞：kanoko / 作編曲：藤間仁）
   - **Elements Garden II -TONE CLUSTER-**（[2009年](../Page/2009年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")発売）
     1.  Introduction （作編曲：Elements Garden）
-    2.  Deus Ex Machina （Vocal：[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink") / 作詞・作曲・編曲：Elements Garden\[14\]）
-    3.  尋ねビト （Vocal：Veil∞[Lia](https://ja.wikipedia.org/wiki/Lia "wikilink") / 作詞：Bee' / 作編曲：藤間仁）
+    2.  Deus Ex Machina （Vocal：[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink") / 作詞・作曲・編曲：Elements Garden\[14\]）
+    3.  尋ねビト （Vocal：Veil∞[Lia](../Page/Lia.md "wikilink") / 作詞：Bee' / 作編曲：藤間仁）
     4.  星☆に願いを （Vocal：NANA / 作詞・作曲・編曲：上松範康）
     5.  ENGAGE LINKS （Vocal：真理絵 / 作詞：ayachi / 作曲：藤田淳平 / 編曲：中山真斗）
     6.  アルカディア・パレード （Vocal・作詞：片霧烈火 / 作編曲：藤田淳平）
@@ -2715,7 +2715,7 @@
     16. 祝福のカンパネラ （Vocal：佐藤ひろ美・NANA / 作詞：佐藤ひろ美 / 作曲：上松範康 / 編曲：菊田大介）
   - **Elements Garden III -phenomena-**（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")発売）
     1.  Introduction （作編曲：Elements Garden）
-    2.  PLEASE KILL OUR MUSIC （Vocal：[谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink") / 作詞・作曲・編曲：Elements Garden\[16\]）
+    2.  PLEASE KILL OUR MUSIC （Vocal：[谷山紀章](../Page/谷山紀章.md "wikilink") / 作詞・作曲・編曲：Elements Garden\[16\]）
     3.  Crimson Star （Vocal：富田麻帆 / 作詞：Bee' / 作編曲：上松範康）
     4.  1/6000000000\[17\] （Vocal：音無 蘭・凛・蓮(CV 高本めぐみ) / 作詞：[RUCCA](https://ja.wikipedia.org/wiki/溝口貴紀 "wikilink") / 作編曲：菊田大介）
     5.  Believe forever （Vocal：佐藤ひろ美 / 作詞：Bee' / 作曲：上松範康 / 編曲：中山真斗）
@@ -2755,7 +2755,7 @@
 8.  [お知らせ](http://www.ariamusic.co.jp/news/20180930124700/)
 9.  [末益涼太のtwitter](https://twitter.com/ryotasuemasu) および [Elements Gardenによる紹介ページ](http://www.ariamusic.co.jp/elements-garden/suemasu/) による。
 10. [お知らせ](http://www.ariamusic.co.jp/news/20190131204725/)
-11. [i☆Ris](https://ja.wikipedia.org/wiki/i☆Ris "wikilink")、[井上あずみ](https://ja.wikipedia.org/wiki/井上あずみ "wikilink")、[Wake Up, Girls\!](https://ja.wikipedia.org/wiki/Wake_Up,_Girls!_\(声優ユニット\) "wikilink")、[内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")、[串田アキラ](https://ja.wikipedia.org/wiki/串田アキラ "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")、[下野紘](https://ja.wikipedia.org/wiki/下野紘 "wikilink")、[JAM Project](../Page/JAM_Project.md "wikilink")、[鈴木このみ](https://ja.wikipedia.org/wiki/鈴木このみ "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[TRUE](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink")、[豊永利行](https://ja.wikipedia.org/wiki/豊永利行 "wikilink")、[中川翔子](../Page/中川翔子.md "wikilink")、[羽多野渉](https://ja.wikipedia.org/wiki/羽多野渉 "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、[水木一郎](../Page/水木一郎.md "wikilink")、[Minami](https://ja.wikipedia.org/wiki/Minami "wikilink")、[三森すずこ](https://ja.wikipedia.org/wiki/三森すずこ "wikilink")、[May'n](../Page/May'n.md "wikilink")、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")
+11. [i☆Ris](https://ja.wikipedia.org/wiki/i☆Ris "wikilink")、[井上あずみ](../Page/井上あずみ.md "wikilink")、[Wake Up, Girls\!](https://ja.wikipedia.org/wiki/Wake_Up,_Girls!_\(声優ユニット\) "wikilink")、[内田真礼](https://ja.wikipedia.org/wiki/内田真礼 "wikilink")、[串田アキラ](../Page/串田アキラ.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[ささきいさお](../Page/ささきいさお.md "wikilink")、[下野紘](../Page/下野紘.md "wikilink")、[JAM Project](../Page/JAM_Project.md "wikilink")、[鈴木このみ](https://ja.wikipedia.org/wiki/鈴木このみ "wikilink")、[鈴村健一](../Page/鈴村健一.md "wikilink")、[竹達彩奈](../Page/竹達彩奈.md "wikilink")、[茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")、[TRUE](../Page/唐沢美帆.md "wikilink")、[豊永利行](../Page/豊永利行.md "wikilink")、[中川翔子](../Page/中川翔子.md "wikilink")、[羽多野渉](../Page/羽多野渉.md "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")、[水木一郎](../Page/水木一郎.md "wikilink")、[Minami](https://ja.wikipedia.org/wiki/Minami "wikilink")、[三森すずこ](https://ja.wikipedia.org/wiki/三森すずこ "wikilink")、[May'n](../Page/May'n.md "wikilink")、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")
 12. 公式サイト上では、この [バナー](http://white-soft.jp/products/unmei/img/unmei_bn1024.jpg) のみにしか表記がない。
 13. アニメイトTVインタビュー [1](http://www.animate.tv/news/detail.php?id=atv080805b) において、作詞は主に上松・中山が、作編曲は主に藤田・藤間・菊田が担当したとの発言がある。
 14. 電撃萌王ブログ [2](http://moeoh.dengeki.com/blog/2009/08/2_15.html) などから。

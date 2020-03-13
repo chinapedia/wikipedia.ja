@@ -1,15 +1,15 @@
 > この記事は[Will \(\)](https://ja.wikipedia.org/wiki/Will_\(\))から翻訳されています。
 
 
-『**will**』（ウィル）は、日本の歌手[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の19枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1999年12月1日にTHIS ONE（[ガウスエンタテインメント](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")）よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): GRCO-3003)。
+『**will**』（ウィル）は、日本の歌手[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の19枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1999年12月1日にTHIS ONE（[ガウスエンタテインメント](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): GRCO-3003)。
 
 ## 背景
 
-『will』は、中森が[ガウスエンタテインメント在籍時に最後に発表した](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")で、1999年12月1日に[CD](../Page/コンパクトディスク.md "wikilink") (GRCO-3003)でリリースされた\[1\]\[2\]。本作のサウンド・プロデュースは、[藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink")が手掛けた\[3\]。レコーディングは、VICTOR STUDIO、TOWERSIDE STUDIO、DK STUDIOで行われた\[4\]。収録内容は、本作からの先行シングルおよび同時発売となったシングルの3曲を収録した\[5\]\[6\]\[7\]\[8\]。また、1998年6月発表の前スタジオ・アルバム『[SPOON](https://ja.wikipedia.org/wiki/SPOON_\(中森明菜のアルバム\) "wikilink")』収録曲の「[幻惑](https://ja.wikipedia.org/wiki/SPOON_\(中森明菜のアルバム\) "wikilink")」、同アルバム収録のシングル「[帰省 〜Never Forget〜](../Page/帰省_〜Never_Forget〜.md "wikilink")」と「[嵐の中で](../Page/今夜、流れ星.md "wikilink")」のリミックス・バージョンを収録した\[9\]\[10\]\[11\]\[12\]。さらに、1999年8月18日発売の『[ウィザードリィ 〜DIMGUIL〜](https://ja.wikipedia.org/wiki/ウィザードリィのシリーズ一覧#WIZ_DIMGUIL "wikilink")』の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")盤『[ウィザードリィ 〜DIMGUIL〜 ORIGINAL SOUND TRACK](../Page/ウィザードリィ_〜DIMGUIL〜_ORIGINAL_SOUND_TRACK.md "wikilink")』収録曲の「[月の微笑](https://ja.wikipedia.org/wiki/月の微笑 "wikilink")」を収録した\[13\]\[14\]。本作オリジナルの新曲は、「garnet」、「Pretend」、「こんなにも…」の3曲である\[15\]。
+『will』は、中森が[ガウスエンタテインメント在籍時に最後に発表した](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")で、1999年12月1日に[CD](../Page/コンパクトディスク.md "wikilink") (GRCO-3003)でリリースされた\[1\]\[2\]。本作のサウンド・プロデュースは、[藤原いくろう](../Page/藤原いくろう.md "wikilink")が手掛けた\[3\]。レコーディングは、VICTOR STUDIO、TOWERSIDE STUDIO、DK STUDIOで行われた\[4\]。収録内容は、本作からの先行シングルおよび同時発売となったシングルの3曲を収録した\[5\]\[6\]\[7\]\[8\]。また、1998年6月発表の前スタジオ・アルバム『[SPOON](../Page/SPOON_\(中森明菜のアルバム\).md "wikilink")』収録曲の「[幻惑](../Page/SPOON_\(中森明菜のアルバム\).md "wikilink")」、同アルバム収録のシングル「[帰省 〜Never Forget〜](../Page/帰省_〜Never_Forget〜.md "wikilink")」と「[嵐の中で](../Page/今夜、流れ星.md "wikilink")」のリミックス・バージョンを収録した\[9\]\[10\]\[11\]\[12\]。さらに、1999年8月18日発売の『[ウィザードリィ 〜DIMGUIL〜](https://ja.wikipedia.org/wiki/ウィザードリィのシリーズ一覧#WIZ_DIMGUIL "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")盤『[ウィザードリィ 〜DIMGUIL〜 ORIGINAL SOUND TRACK](../Page/ウィザードリィ_〜DIMGUIL〜_ORIGINAL_SOUND_TRACK.md "wikilink")』収録曲の「[月の微笑](https://ja.wikipedia.org/wiki/月の微笑 "wikilink")」を収録した\[13\]\[14\]。本作オリジナルの新曲は、「garnet」、「Pretend」、「こんなにも…」の3曲である\[15\]。
 
 同サウンドトラック盤には、本作にも収録された「月の微笑」を含む2バージョン（ギターバージョン、オーケストラバージョン）が収録されている\[16\]\[17\]。本作では"〜Accoustic Version"という表記だが、同サントラ盤のギターバージョンと同じ内容である\[18\]\[19\]\[20\]\[21\]。
 
-ガウスエンタテインメントは、2005年7月1日に[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")に吸収合併されている\[22\]。
+ガウスエンタテインメントは、2005年7月1日に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")に吸収合併されている\[22\]。
 
 ## シングル
 
@@ -21,7 +21,7 @@
 
 ## チャート成績
 
-『will』は、[オリコン週間アルバムチャートで最高順位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")52位を記録し、同チャートに計1週ランクインした\[39\]。
+『will』は、[オリコン週間アルバムチャートで最高順位](../Page/オリコンチャート.md "wikilink")52位を記録し、同チャートに計1週ランクインした\[39\]。
 
 ## 収録曲
 
@@ -32,7 +32,7 @@
 ### スタッフ
 
   - プロデューサー & ディレクター: Kazuhiro Chiba (Gauss Entertainment "A\&R)
-  - サウンド・プロデュース: [藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink") (ON THE ZOU Rock)
+  - サウンド・プロデュース: [藤原いくろう](../Page/藤原いくろう.md "wikilink") (ON THE ZOU Rock)
   - レコーディング・エンジニアズ: 奥原秀明、Seiji Sekine、Naoki Ibaraki (VICTOR STUDIO)
   - Recorded & Mixed at : VICTOR STUDIO、TOWERSIDE STUDIO、DK STUDIO
   - Mixed by 奥原秀明・Seiji Sekine (VICTOR STUDIO)
@@ -53,7 +53,7 @@
 ### ミュージシャン
 
   - 「tobira 〜OVERTURE, [Trust Me](../Page/Trust_Me_\(中森明菜の曲\).md "wikilink") 〜all' espanola」
-      - キーボード: [藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink")
+      - キーボード: [藤原いくろう](../Page/藤原いくろう.md "wikilink")
       - G.Guit: [千代正行](https://ja.wikipedia.org/wiki/千代正行 "wikilink")
       - マニピュレーター: Nobuo Moriyasu
       - ミックス: 奥原秀明
@@ -74,7 +74,7 @@
       - G.Guit: 千代正行
       - エレクトリック・ギター: 松原正樹
       - ミックス: Seiji Sekine
-  - 「[幻惑](https://ja.wikipedia.org/wiki/SPOON_\(中森明菜のアルバム\) "wikilink") 〜amabile "A"」
+  - 「[幻惑](../Page/SPOON_\(中森明菜のアルバム\).md "wikilink") 〜amabile "A"」
       - キーボード、マニピュレーター: 岩崎元是
       - G.Guit: 千代正行
       - エレクトリック・ギター: 松原正樹

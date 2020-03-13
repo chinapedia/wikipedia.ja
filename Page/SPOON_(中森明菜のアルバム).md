@@ -1,15 +1,15 @@
 > この記事は[SPOON \(\)](https://ja.wikipedia.org/wiki/SPOON_\(\))から翻訳されています。
 
 
-『**SPOON**』（スプーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の18枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1998年6月17日にTHIS ONE（[ガウスエンタテインメント](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")）よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): GRCO-3001)。
+『**SPOON**』（スプーン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の18枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。このアルバムは1998年6月17日にTHIS ONE（[ガウスエンタテインメント](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")）よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): GRCO-3001)。
 
 ## 背景
 
-『SPOON』は、1997年3月発表の前作『[SHAKER](../Page/SHAKER_\(中森明菜のアルバム\).md "wikilink")』から、およそ1年3か月ぶりとなる1998年6月17日に[CD](../Page/コンパクトディスク.md "wikilink") (GRCO-3001)でリリースされた、[ガウスエンタテインメント移籍第](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")1弾となった[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である\[1\]\[2\]\[3\]\[4\]。初回生産分は、赤色に加工したカラーCDケースとなっている\[5\]\[6\]。このアルバムの[プロデュースは](https://ja.wikipedia.org/wiki/音楽プロデュース "wikilink")、前作に続いて中森が手掛け、サウンド・プロデュースは[藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink")が担当した\[7\]\[8\]\[9\]。中森はこのアルバムの基本コンセプトについて、「四季を通じての、そして人生のイベントを一枚に収めた作品にしたかったんです。」と明かした\[10\]。また、1年中、末永く耳を傾けてもらえる作品にしたかったと述べている\[11\]。レーベルでは本作について、四季折々の風情に加えて、中森の女性観も反映された内容と説明している\[12\]。本作の作曲家陣には、[ディアマンテス](https://ja.wikipedia.org/wiki/ディアマンテス "wikilink")のボーカリストの[アルベルト城間](https://ja.wikipedia.org/wiki/アルベルト城間 "wikilink")、[宇都美慶子](../Page/宇都美慶子.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")のシンガー・ソング・ライターの[Origa](https://ja.wikipedia.org/wiki/Origa "wikilink")、[小林明子](../Page/小林明子.md "wikilink")、[松田博幸](../Page/松田博幸.md "wikilink")らを迎えた\[13\]\[14\]。このアルバムの楽曲集めのため、楽曲の練り直しや入れ替えなどで4か月ほど期間を要したと中森は語っている\[15\]。
+『SPOON』は、1997年3月発表の前作『[SHAKER](../Page/SHAKER_\(中森明菜のアルバム\).md "wikilink")』から、およそ1年3か月ぶりとなる1998年6月17日に[CD](../Page/コンパクトディスク.md "wikilink") (GRCO-3001)でリリースされた、[ガウスエンタテインメント移籍第](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")1弾となった[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である\[1\]\[2\]\[3\]\[4\]。初回生産分は、赤色に加工したカラーCDケースとなっている\[5\]\[6\]。このアルバムの[プロデュースは](https://ja.wikipedia.org/wiki/音楽プロデュース "wikilink")、前作に続いて中森が手掛け、サウンド・プロデュースは[藤原いくろう](../Page/藤原いくろう.md "wikilink")が担当した\[7\]\[8\]\[9\]。中森はこのアルバムの基本コンセプトについて、「四季を通じての、そして人生のイベントを一枚に収めた作品にしたかったんです。」と明かした\[10\]。また、1年中、末永く耳を傾けてもらえる作品にしたかったと述べている\[11\]。レーベルでは本作について、四季折々の風情に加えて、中森の女性観も反映された内容と説明している\[12\]。本作の作曲家陣には、[ディアマンテス](https://ja.wikipedia.org/wiki/ディアマンテス "wikilink")のボーカリストの[アルベルト城間](https://ja.wikipedia.org/wiki/アルベルト城間 "wikilink")、[宇都美慶子](../Page/宇都美慶子.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")のシンガー・ソング・ライターの[Origa](../Page/Origa.md "wikilink")、[小林明子](../Page/小林明子.md "wikilink")、[松田博幸](../Page/松田博幸.md "wikilink")らを迎えた\[13\]\[14\]。このアルバムの楽曲集めのため、楽曲の練り直しや入れ替えなどで4か月ほど期間を要したと中森は語っている\[15\]。
 
 本作リリース後の1998年6月21日からは、本作を引っ提げた同名のコンサート・ツアー[SPOONを開催した](https://ja.wikipedia.org/wiki/#SPOON_\(中森明菜のコンサート・ツアー\) "wikilink")\[16\]\[17\]\[18\]。
 
-本作収録曲の「幻惑」は、翌年の1999年12月1日リリースのスタジオ・アルバム『[will](https://ja.wikipedia.org/wiki/will_\(中森明菜のアルバム\) "wikilink")』にてリミックスバージョンで収録された\[19\]\[20\]。また、同日リリースのシングル「[Trust Me](../Page/Trust_Me_\(中森明菜の曲\).md "wikilink")」のカップリング曲として、本作収録曲の「雪の花 〜White X'Mas〜」が「[雪の花 〜White X'mas〜 (chamber music version)](../Page/Trust_Me_\(中森明菜の曲\).md "wikilink")」として収録された\[21\]\[22\]。2008年2月リリースの[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』の初回限定盤(DISC 2)には、本作収録曲の「雨の日は人魚」、「楽園の女神」、「雪の花 〜White X'Mas〜」、「BLOWING FROM THE SUN」、「花曇り」が収録された\[23\]\[24\]。
+本作収録曲の「幻惑」は、翌年の1999年12月1日リリースのスタジオ・アルバム『[will](https://ja.wikipedia.org/wiki/will_\(中森明菜のアルバム\) "wikilink")』にてリミックスバージョンで収録された\[19\]\[20\]。また、同日リリースのシングル「[Trust Me](../Page/Trust_Me_\(中森明菜の曲\).md "wikilink")」のカップリング曲として、本作収録曲の「雪の花 〜White X'Mas〜」が「[雪の花 〜White X'mas〜 (chamber music version)](../Page/Trust_Me_\(中森明菜の曲\).md "wikilink")」として収録された\[21\]\[22\]。2008年2月リリースの[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[歌姫伝説 〜90's BEST〜](../Page/歌姫伝説_〜90's_BEST〜.md "wikilink")』の初回限定盤(DISC 2)には、本作収録曲の「雨の日は人魚」、「楽園の女神」、「雪の花 〜White X'Mas〜」、「BLOWING FROM THE SUN」、「花曇り」が収録された\[23\]\[24\]。
 
 ## シングル
 
@@ -24,7 +24,7 @@
 
 ## チャート成績
 
-『SPOON』は、[オリコン週間アルバムチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1998年6月29日付で、最高順位17位を記録した\[36\]\[37\]\[38\]。同チャートには、計3週に渡ってランクインしている\[39\]。
+『SPOON』は、[オリコン週間アルバムチャートの](../Page/オリコンチャート.md "wikilink")1998年6月29日付で、最高順位17位を記録した\[36\]\[37\]\[38\]。同チャートには、計3週に渡ってランクインしている\[39\]。
 
 ## 収録曲
 
@@ -35,12 +35,12 @@
 ### ミュージシャン
 
   - 「ユア・バースディ」
-      - シンセサイザー、ピアノ、マニピュレーター - [梁邦彦](https://ja.wikipedia.org/wiki/梁邦彦 "wikilink")
+      - シンセサイザー、ピアノ、マニピュレーター - [梁邦彦](../Page/梁邦彦.md "wikilink")
       - ドラムス - 石川雅春
       - ベース - WATANABE HITOSHI
       - ギター - 古川望、NAKAMURA SHUJI
       - パーカッションズ - KAKEHASHI IKUO、Christoher Hardy
-      - コーラス・アレンジメント&コーラス - [ORIGA](https://ja.wikipedia.org/wiki/Origa "wikilink")
+      - コーラス・アレンジメント&コーラス - [ORIGA](../Page/Origa.md "wikilink")
       - Mixed by OKUHARA"OKUCHAN"HIDEAKI
   - 「雨の日は人魚」
       - シンセサイザー - SHIRAKAWA TADASHI
@@ -104,12 +104,12 @@
 <!-- end list -->
 
   - 梁邦彦 appears by the courtesy of [POLYDOR K.K.](https://ja.wikipedia.org/wiki/ポリドール・レコード#日本のポリドール "wikilink")
-  - ORIGA appears by the courtesy of [TOSHIBA EMI LTD.](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")
+  - ORIGA appears by the courtesy of [TOSHIBA EMI LTD.](../Page/EMIミュージック・ジャパン.md "wikilink")
 
 ### スタッフ
 
   - プロデューサー: [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")
-  - サウンド・プロデューサー: [藤原いくろう](https://ja.wikipedia.org/wiki/藤原いくろう "wikilink") (ON THE ZOU Rock)
+  - サウンド・プロデューサー: [藤原いくろう](../Page/藤原いくろう.md "wikilink") (ON THE ZOU Rock)
   - ディレクター: MORI TOMOMICHI (GAUSS ENTRETAINMENT)
   - レコーディング・エンジニア: OKUHARA"OKUCHAN"HIDEAKI (VICTOR STUDIO)、SHIMOYAMA YUTAKA (VICTOR STUDIO)、SEKINE"SEICHAN"SEIJI (VICTOR STUDIO)、Yoshi Tamla、FUJII SATORU、MAEDA MOTOHIKO (AZABU WEST STUDIO)
   - ボーカル・リレーション: SEKINE"SEICHAN"SEIJI (VICTOR STUDIO)
@@ -174,24 +174,24 @@
 | --------- | ----------------------------------------------------- | ------------------------------------------------------------------------- |
 | 6月21日     | [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [パシフィコ横浜](https://ja.wikipedia.org/wiki/パシフィコ横浜 "wikilink")国立大ホール         |
 | 6月23日     | [鹿児島県](../Page/鹿児島県.md "wikilink")                    | [鹿児島市民文化ホール](../Page/鹿児島市民文化ホール.md "wikilink")第一ホール                       |
-| 6月26日     | [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")   | [福岡サンパレス](../Page/福岡サンパレス.md "wikilink")                                  |
+| 6月26日     | [福岡県](../Page/福岡県.md "wikilink")                      | [福岡サンパレス](../Page/福岡サンパレス.md "wikilink")                                  |
 | 6月28日     | [大阪府](../Page/大阪府.md "wikilink")                      | [大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink")大ホール         |
-| 6月30日     | [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")   | [京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink")第一ホール                |
+| 6月30日     | [京都府](../Page/京都府.md "wikilink")                      | [京都会館](https://ja.wikipedia.org/wiki/京都会館 "wikilink")第一ホール                |
 | 7月3日      | [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")   | 鈴鹿市文化会館                                                                   |
 | 7月5日      | [兵庫県](../Page/兵庫県.md "wikilink")                      | [神戸国際会館ハーバーランドプラザホール](https://ja.wikipedia.org/wiki/神戸国際会館#参考 "wikilink") |
 | 7月7日      | [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")   | [岡山シンフォニーホール](../Page/岡山シンフォニーホール.md "wikilink")                          |
-| 7月10日     | [長野県](../Page/長野県.md "wikilink")                      | [長野県県民文化会館](https://ja.wikipedia.org/wiki/長野県県民文化会館 "wikilink")大ホール       |
+| 7月10日     | [長野県](../Page/長野県.md "wikilink")                      | [長野県県民文化会館](../Page/長野県県民文化会館.md "wikilink")大ホール                          |
 | 7月15日     | [静岡県](../Page/静岡県.md "wikilink")                      | [静岡市民文化会館](../Page/静岡市民文化会館.md "wikilink")                                |
 | 7月17日     | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [北海道厚生年金会館](https://ja.wikipedia.org/wiki/北海道厚生年金会館 "wikilink")           |
 | 7月22日     | [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")   | [仙台サンプラザ](../Page/仙台サンプラザ.md "wikilink")                                  |
 | 7月24日     | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")   | [桐生市市民文化会館](../Page/桐生市市民文化会館.md "wikilink")シルクホール                        |
-| 7月26日     | [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")   | [東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")ホールA       |
+| 7月26日     | [東京都](../Page/東京都.md "wikilink")                      | [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")ホールA                          |
 | 7月27日     |                                                       |                                                                           |
 |           |                                                       |                                                                           |
 
 ## 関連項目
 
-  - [徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink") - ガウスエンタテインメントは、2005年7月1日に徳間ジャパンコミュニケーションズに吸収合併されている\[43\]。
+  - [徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink") - ガウスエンタテインメントは、2005年7月1日に徳間ジャパンコミュニケーションズに吸収合併されている\[43\]。
 
 ## 参照
 

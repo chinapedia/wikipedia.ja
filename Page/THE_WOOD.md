@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    ボーカル/[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+    ボーカル/[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 
 [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")の[ワンカップ大関](../Page/ワンカップ大関.md "wikilink")のCM「神々・大地の恵み」篇に、オリジナルのCMソングと共にメンバー全員が[弥生人](../Page/弥生人.md "wikilink")に扮し出演する。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に「柳ジョージ&レイニーウッド」として24年ぶりにオリジナル・メンバーが集い、一夜限りの復活[ライブが行なわれた](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に「柳ジョージ&レイニーウッド」として24年ぶりにオリジナル・メンバーが集い、一夜限りの復活[ライブが行なわれた](../Page/演奏会.md "wikilink")。
 
 ## ディスコグラフィー
 

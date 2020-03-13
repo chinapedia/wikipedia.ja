@@ -9,7 +9,7 @@
 
 **SmarTone Telecommunications Holdings Limited**の子会社であり、株式の53%をが保有する。SmarTone Mobile Communications LimitedはSmarTone Macauの株式の72%を保有する。
 
-[2004年](../Page/2004年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の[Vodafoneとのパートナーシップ協定により](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より新ブランド**SmarTone-Vodafone**を正式に発足させた。
+[2004年](../Page/2004年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の[Vodafoneとのパートナーシップ協定により](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")より新ブランド**SmarTone-Vodafone**を正式に発足させた。
 
 [2011年](../Page/2011年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")に同年12月よりパートナーシップ協定を終了、ブランド名をSmarToneに戻すことが発表された\[1\]。
 

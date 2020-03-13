@@ -5,11 +5,11 @@
 
 ## RCM音源搭載機種
 
-'''[ヤマハ・SYシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・SYシリーズ "wikilink")のSY99、SY77、[ヤマハ・TGシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・TGシリーズ "wikilink")のTG77の3機種のみ。
+'''[ヤマハ・SYシリーズ](../Page/ヤマハ・SYシリーズ.md "wikilink")のSY99、SY77、[ヤマハ・TGシリーズ](../Page/ヤマハ・TGシリーズ.md "wikilink")のTG77の3機種のみ。
 
 ## AFM音源
 
-RCM音源に採用されている[FM音源](../Page/FM音源.md "wikilink")。6オペレーター仕様のFM音源に、[TX81Zなどで採用された](https://ja.wikipedia.org/wiki/ヤマハ・TXシリーズ "wikilink")[サイン波](https://ja.wikipedia.org/wiki/サイン波 "wikilink")を読み替えて作った複数のオシレーター仕様の方式を取り入れて更に拡張した。アルゴリズムやフィードバックの本数が増えた他、レゾナンス付きのフィルターも装備されている。指先のタッチで自在にダイナミックな音色変化の演奏をできる。
+RCM音源に採用されている[FM音源](../Page/FM音源.md "wikilink")。6オペレーター仕様のFM音源に、[TX81Zなどで採用された](../Page/ヤマハ・TXシリーズ.md "wikilink")[サイン波](https://ja.wikipedia.org/wiki/サイン波 "wikilink")を読み替えて作った複数のオシレーター仕様の方式を取り入れて更に拡張した。アルゴリズムやフィードバックの本数が増えた他、レゾナンス付きのフィルターも装備されている。指先のタッチで自在にダイナミックな音色変化の演奏をできる。
 
 ## コンボリューション
 
@@ -27,11 +27,11 @@ FM音源とAWM音源を組み合わせられる機種として、SY35、TG33、S
 
 ## 他社の類似した音源
 
-[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")が開発した**MOD-7**という音源がある。これは、コルグ独自の[物理モデル音源](../Page/物理モデル音源.md "wikilink")（MOSS音源）のVPM(Variable Phase Modulation)アルゴリズムのテクノロジーをベースにしたディジタルシンセシスであり、VPMシンセシス音源とも呼ばれる。FMシンセシスやPCM波形のモジュレーター使用、パッチング、ウェイブ・シェイビングでの加工、さらには6個のオシレーターによるアナログシンセシスも可能となっている。現在では[OASYSの追加音源や](https://ja.wikipedia.org/wiki/コルグ・OASYS "wikilink")[KRONOSの標準音源としてリリースされている](https://ja.wikipedia.org/wiki/コルグ・KRONOS "wikilink")。
+[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")が開発した**MOD-7**という音源がある。これは、コルグ独自の[物理モデル音源](../Page/物理モデル音源.md "wikilink")（MOSS音源）のVPM(Variable Phase Modulation)アルゴリズムのテクノロジーをベースにしたディジタルシンセシスであり、VPMシンセシス音源とも呼ばれる。FMシンセシスやPCM波形のモジュレーター使用、パッチング、ウェイブ・シェイビングでの加工、さらには6個のオシレーターによるアナログシンセシスも可能となっている。現在では[OASYSの追加音源や](../Page/コルグ・OASYS.md "wikilink")[KRONOSの標準音源としてリリースされている](https://ja.wikipedia.org/wiki/コルグ・KRONOS "wikilink")。
 
 ## 関連項目
 
-  - [ヤマハ・SYシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・SYシリーズ "wikilink")
-  - [ヤマハ・TGシリーズ](https://ja.wikipedia.org/wiki/ヤマハ・TGシリーズ "wikilink")
+  - [ヤマハ・SYシリーズ](../Page/ヤマハ・SYシリーズ.md "wikilink")
+  - [ヤマハ・TGシリーズ](../Page/ヤマハ・TGシリーズ.md "wikilink")
 
 [Category:電子音源の合成方式](https://ja.wikipedia.org/wiki/Category:電子音源の合成方式 "wikilink") [Category:シンセサイザー](https://ja.wikipedia.org/wiki/Category:シンセサイザー "wikilink") [Category:ヤマハ](https://ja.wikipedia.org/wiki/Category:ヤマハ "wikilink")

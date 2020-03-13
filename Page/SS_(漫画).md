@@ -1,13 +1,13 @@
 > この記事は[SS \(\)](https://ja.wikipedia.org/wiki/SS_\(\))から翻訳されています。
 
 
-『**SS**』（エスエス）は[東本昌平](https://ja.wikipedia.org/wiki/東本昌平 "wikilink")の漫画作品、またはそれを原作とする実写映画である。「SS」は「スペシャルステージ」\[1\]の略である。
+『**SS**』（エスエス）は[東本昌平](../Page/東本昌平.md "wikilink")の漫画作品、またはそれを原作とする実写映画である。「SS」は「スペシャルステージ」\[1\]の略である。
 
 [小学館](../Page/小学館.md "wikilink")の[漫画雑誌](../Page/日本の漫画雑誌.md "wikilink")『[ビッグコミックスペリオール](../Page/ビッグコミックスペリオール.md "wikilink")』に[2000年](../Page/2000年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")まで連載され単行本は全9巻が発行されている。
 
 ## 概要
 
-大佛（以下ダイブツ）と栗原の間に生じていた距離等が解けていく過程で周囲の大人（中年以上）の忘れていた感情を呼び覚ます様子も描かれている。2人の[中年](https://ja.wikipedia.org/wiki/中年 "wikilink")男性を中心に[自動車](../Page/自動車.md "wikilink")を介した夢の実現と現実の問題を描いた作品で、東本作品では唯一、四輪を題材としており、二輪は[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")や[ミニバイク](https://ja.wikipedia.org/wiki/ミニバイク "wikilink")しか出てこない。また、東本作品で最も早く[実写化されている](https://ja.wikipedia.org/wiki/#実写映画版 "wikilink")。なお、実写映画版ではあらすじがやや異なる。
+大佛（以下ダイブツ）と栗原の間に生じていた距離等が解けていく過程で周囲の大人（中年以上）の忘れていた感情を呼び覚ます様子も描かれている。2人の[中年](../Page/中年.md "wikilink")男性を中心に[自動車](../Page/自動車.md "wikilink")を介した夢の実現と現実の問題を描いた作品で、東本作品では唯一、四輪を題材としており、二輪は[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")や[ミニバイク](https://ja.wikipedia.org/wiki/ミニバイク "wikilink")しか出てこない。また、東本作品で最も早く[実写化されている](https://ja.wikipedia.org/wiki/#実写映画版 "wikilink")。なお、実写映画版ではあらすじがやや異なる。
 
 自動車の描写や登場人物の回顧録が細部に渡っており、[世界ラリー選手権](../Page/世界ラリー選手権.md "wikilink") (WRC) の歴史や解説が描かれている話もあり、第6巻以降では専門用語と説明が多用されている。
 
@@ -19,7 +19,7 @@
 
 ## あらすじ
 
-自動車[整備工のダイブツは](https://ja.wikipedia.org/wiki/整備士 "wikilink")、かつて学生[ラリー](../Page/ラリー.md "wikilink")ドライバーをやっていたが、[全日本ラリー](https://ja.wikipedia.org/wiki/全日本ラリー "wikilink")でのクラッシュや妻の妊娠によりその道を閉ざされた過去を持つ。
+自動車[整備工のダイブツは](../Page/整備士.md "wikilink")、かつて学生[ラリー](../Page/ラリー.md "wikilink")ドライバーをやっていたが、[全日本ラリー](https://ja.wikipedia.org/wiki/全日本ラリー "wikilink")でのクラッシュや妻の妊娠によりその道を閉ざされた過去を持つ。
 
 給料停滞以外は生活は至って平凡なものだったが、妻の故郷に帰ったときにテレビで[ダカール・ラリー](../Page/ダカール・ラリー.md "wikilink")（以下パリダカ）を見たことによってラリーへの夢が再び蘇り、その後、社長の冗談をきっかけに工場に眠っていた[スタリオン4WDラリー](https://ja.wikipedia.org/wiki/三菱・スタリオン#.E3.82.B9.E3.82.BF.E3.83.AA.E3.82.AA.E3.83.B34WD.E3.83.A9.E3.83.AA.E3.83.BC.E3.81.AE.E5.AD.98.E5.9C.A8 "wikilink")（以下スタリオン4WD）を現物支給で入手し峠や首都高を攻めるようになるが、そこには拭いきれぬ未練（というよりそれと似たような感情）があった。
 
@@ -37,8 +37,8 @@
     この作品の主人公で通称「ダイブツ」（[1977年](../Page/1977年.md "wikilink")時点では「オーちゃん」と呼ばれていた）。自動車整備工で学生ラリードライバーとして栗原と組んでいた。テレビで偶然パリダカのスタートを見たことや社長の冗談から西山モータースに放置されていたスタリオン4WDをボーナスの現物支給として入手し、峠を走行させ若い走り屋達から「ジャッキー」と称されることになる。家庭での愛車は、[初代デリカスターワゴン4WD（L系）](https://ja.wikipedia.org/wiki/三菱・デリカスターワゴン#.E5.88.9D.E4.BB.A3.EF.BC.881979.E5.B9.B4-1986.E5.B9.B4.EF.BC.89 "wikilink")。
     実写版では体型がやや異なる。
   - 栗原
-    [自動車評論家](https://ja.wikipedia.org/wiki/自動車評論家 "wikilink")だが、気取った性格のため敬遠する人もいる（後述の山崎もその1人）。第2巻から登場。学生ラリーコドライバーとしてダイブツと組んでいたが、そのときの事故により西山モータースを抜け、一時期[Gr.Aスタリオンのドライバーをしていた](https://ja.wikipedia.org/wiki/全日本ツーリングカー選手権_\(1985年-1993年\) "wikilink")。原作では頭部が禿げで[かつらを被っていたがダイブツに水を撒かれた際に発覚する](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")。[下戸](https://ja.wikipedia.org/wiki/下戸 "wikilink")で、第2巻では[烏龍茶](https://ja.wikipedia.org/wiki/烏龍茶 "wikilink")を飲む。
-    最初は黄色の[ポルシェ・911（993型）に乗っていたがダイブツの想いを理解する為に別荘から](https://ja.wikipedia.org/wiki/ポルシェ・993 "wikilink")[フォード・RS200](https://ja.wikipedia.org/wiki/フォード・RS200 "wikilink")を持ち出しダイブツに挑む。
+    [自動車評論家](https://ja.wikipedia.org/wiki/自動車評論家 "wikilink")だが、気取った性格のため敬遠する人もいる（後述の山崎もその1人）。第2巻から登場。学生ラリーコドライバーとしてダイブツと組んでいたが、そのときの事故により西山モータースを抜け、一時期[Gr.Aスタリオンのドライバーをしていた](../Page/全日本ツーリングカー選手権_\(1985年-1993年\).md "wikilink")。原作では頭部が禿げで[かつらを被っていたがダイブツに水を撒かれた際に発覚する](https://ja.wikipedia.org/wiki/かつら_\(装身具\) "wikilink")。[下戸](https://ja.wikipedia.org/wiki/下戸 "wikilink")で、第2巻では[烏龍茶](../Page/烏龍茶.md "wikilink")を飲む。
+    最初は黄色の[ポルシェ・911（993型）に乗っていたがダイブツの想いを理解する為に別荘から](https://ja.wikipedia.org/wiki/ポルシェ・993 "wikilink")[フォード・RS200](../Page/フォード・RS200.md "wikilink")を持ち出しダイブツに挑む。
   - 山崎
     通称「山ちゃん」。自動車整備工でダイブツとは高校時代からつるんでいた。また、カブキやアンキモらのような走り屋の話し相手でもある。ダイブツがスタリオン4WDに拘り続ける理由を掴めずにいたが、第9巻では中学時代に所属していた野球部での経験からその心情を理解することができた。
   - 西山
@@ -95,18 +95,18 @@
 ### 実写のみ登場
 
   - ナオミ
-    栗原の通うバーの[ホステス](https://ja.wikipedia.org/wiki/ホステス "wikilink")で実写版のみ登場。彼女が偶然見たタイムアタックのサイトで栗原はダイブツがスタリオンを走らせている事を知ることとなる。
+    栗原の通うバーの[ホステス](../Page/ホステス.md "wikilink")で実写版のみ登場。彼女が偶然見たタイムアタックのサイトで栗原はダイブツがスタリオンを走らせている事を知ることとなる。
   - アキラ
-    走り屋の1人で実写版のみ登場（ただしよく似た走り屋は原作に登場する）。フォーカスRSワールドラリーカーの事を「ラリーの名門[フォードの作った世界最速のラリーマシン](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")」と言っていた。
+    走り屋の1人で実写版のみ登場（ただしよく似た走り屋は原作に登場する）。フォーカスRSワールドラリーカーの事を「ラリーの名門[フォードの作った世界最速のラリーマシン](../Page/フォード・モーター.md "wikilink")」と言っていた。
 
 ## 主な登場車種
 
   - [三菱・ミニカエコノターボG（H11V）](https://ja.wikipedia.org/wiki/三菱・ミニカ#5.E4.BB.A3.E7.9B.AE.EF.BC.88H11A.EF.BD.A5V.2FH12A.EF.BD.A5V.2FH14A.EF.BD.A5V.2FH15A.EF.BD.A5V.E3.80.811984.E5.B9.B4-1989.E5.B9.B4.EF.BC.89 "wikilink")
     三崎のおばちゃんのもので、序盤でダイブツがこの車で峠を攻めていた。
-  - [トヨタ・カローラレビン](https://ja.wikipedia.org/wiki/トヨタ・カローラレビン#AE86.E5.9E.8B "wikilink")[（AE86）](https://ja.wikipedia.org/wiki/トヨタ・AE86 "wikilink")
+  - [トヨタ・カローラレビン](https://ja.wikipedia.org/wiki/トヨタ・カローラレビン#AE86.E5.9E.8B "wikilink")[（AE86）](../Page/トヨタ・AE86.md "wikilink")
     ダイブツと栗原が学生時代に[全日本ラリー選手権](https://ja.wikipedia.org/wiki/全日本ラリー選手権 "wikilink")参戦の際に乗っていたが、タイムロスによる焦りで谷底へ落下、[三菱](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink")[ワークス](../Page/ワークス・チーム.md "wikilink")[ドライバーへの道を断つことになった](https://ja.wikipedia.org/wiki/レーサー "wikilink")。
   - 三菱・スタリオン4WDラリー
-    学生時代にダイブツが試乗した際に破損させ修理の為に西山モータースに入庫していたが、[グループB](https://ja.wikipedia.org/wiki/グループB "wikilink")廃止に伴いそのまま放置されていた。それを後にダイブツがボーナスの現物支給で入手した。
+    学生時代にダイブツが試乗した際に破損させ修理の為に西山モータースに入庫していたが、[グループB](../Page/グループB.md "wikilink")廃止に伴いそのまま放置されていた。それを後にダイブツがボーナスの現物支給で入手した。
   - ポルシェ・911 カレラRS（993型）
     栗原の愛車で、チューニングが施されていたが第8巻で元[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")歌手の朝風マリーに譲る。
   - フォード・RS200
@@ -190,25 +190,25 @@
 
 ### スタッフ
 
-  - 原作：[東本昌平](https://ja.wikipedia.org/wiki/東本昌平 "wikilink")
+  - 原作：[東本昌平](../Page/東本昌平.md "wikilink")
   - 脚本：[十川誠志](../Page/十川誠志.md "wikilink")
   - 監督：[小林義則](../Page/小林義則.md "wikilink")
   - 音楽：HeavensDust
   - カースタント車輌技術：[大井貴之](../Page/大井貴之.md "wikilink")
   - カースタント：大井義浩、大井こずゑ、菊池靖
-  - 後援：[ラリージャパン](https://ja.wikipedia.org/wiki/ラリージャパン "wikilink")
+  - 後援：[ラリージャパン](../Page/ラリージャパン.md "wikilink")
   - 協賛：[カロッツェリア](../Page/カロッツェリア_\(AV機器\).md "wikilink")
   - 企画・製作統括：吉岡市雄
   - プロデュース：岡島広和、神子力
   - 制作協力：アットアームズ、マジカル、共同テレビジョン
   - 製作：SS製作委員会（[ジェネオンエンタテインメント](https://ja.wikipedia.org/wiki/ジェネオンエンタテインメント "wikilink")、マジカル、[共同テレビジョン](../Page/共同テレビジョン.md "wikilink")、リベロ、コムセント）
-  - 主題歌：「[I Promise You](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")」[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")
+  - 主題歌：「[I Promise You](https://ja.wikipedia.org/wiki/DEEN_The_Best_Classics "wikilink")」[DEEN](../Page/DEEN.md "wikilink")
   - 上映時間：100分
 
 ### キャスト
 
   - ダイブツ：[哀川翔](../Page/哀川翔.md "wikilink")
-  - 栗原：[遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")
+  - 栗原：[遠藤憲一](../Page/遠藤憲一.md "wikilink")
   - ギラ子：[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")
   - カブキ：[TEAH](https://ja.wikipedia.org/wiki/TEAH "wikilink")
   - アンキモ：[幸将司](https://ja.wikipedia.org/wiki/幸将司 "wikilink")
@@ -220,7 +220,7 @@
   - ユウスケ：[林孝明](https://ja.wikipedia.org/wiki/林孝明 "wikilink")
   - 山崎：[中倉健太郎](https://ja.wikipedia.org/wiki/中倉健太郎 "wikilink")
   - 西山社長：[ミッキー・カーチス](../Page/ミッキー・カーチス.md "wikilink")
-  - 志村：[桑野信義](https://ja.wikipedia.org/wiki/桑野信義 "wikilink")
+  - 志村：[桑野信義](../Page/桑野信義.md "wikilink")
   - 蘭子：[メイサツキ](https://ja.wikipedia.org/wiki/メイサツキ "wikilink")
   - 奈津美：[大久保麻梨子](https://ja.wikipedia.org/wiki/大久保麻理子 "wikilink")
   - ナオミ：[福永ちな](../Page/福永ちな.md "wikilink")
@@ -233,7 +233,7 @@
 ## 関連項目
 
   - [ビッグコミックスペリオール](../Page/ビッグコミックスペリオール.md "wikilink")
-  - [三菱・スタリオン](https://ja.wikipedia.org/wiki/三菱・スタリオン "wikilink")
+  - [三菱・スタリオン](../Page/三菱・スタリオン.md "wikilink")
 
 ## 脚注
 

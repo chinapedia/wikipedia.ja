@@ -11,12 +11,12 @@
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
+全[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[LUNA SEA](../Page/LUNA_SEA.md "wikilink")
 
 1.  **END OF SORROW**
-    [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")原曲。
+    [SUGIZO](../Page/SUGIZO.md "wikilink")原曲。
 2.  **TWICE**
-    [INORAN](https://ja.wikipedia.org/wiki/INORAN "wikilink")原曲。
+    [INORAN](../Page/INORAN.md "wikilink")原曲。
     サビでは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に[ディレイ](https://ja.wikipedia.org/wiki/ディレイ "wikilink")をかけている。
 
 ## 収録アルバム

@@ -5,7 +5,7 @@
 
 ## 歴史
 
-サザランドは[ヴァネヴァー・ブッシュ](https://ja.wikipedia.org/wiki/ヴァネヴァー・ブッシュ "wikilink")の *[As We May Think](https://ja.wikipedia.org/wiki/:en:As_We_May_Think "wikilink")* での[Memex](../Page/Memex.md "wikilink")に触発された。また、Sketchpadに触発されたのが[ダグラス・エンゲルバート](../Page/ダグラス・エンゲルバート.md "wikilink")で、彼は[スタンフォード研究所の](../Page/SRIインターナショナル.md "wikilink") [Augmentation Research Center](https://ja.wikipedia.org/wiki/:en:Augmentation_Research_Center "wikilink") (ARC) にて [oN-Line System](https://ja.wikipedia.org/wiki/NLS "wikilink") を設計・開発した。
+サザランドは[ヴァネヴァー・ブッシュ](../Page/ヴァネヴァー・ブッシュ.md "wikilink")の *[As We May Think](https://ja.wikipedia.org/wiki/:en:As_We_May_Think "wikilink")* での[Memex](../Page/Memex.md "wikilink")に触発された。また、Sketchpadに触発されたのが[ダグラス・エンゲルバート](../Page/ダグラス・エンゲルバート.md "wikilink")で、彼は[スタンフォード研究所の](../Page/SRIインターナショナル.md "wikilink") [Augmentation Research Center](https://ja.wikipedia.org/wiki/:en:Augmentation_Research_Center "wikilink") (ARC) にて [oN-Line System](../Page/NLS.md "wikilink") を設計・開発した。
 
 Sketchpad は[ベクタースキャン](../Page/ベクタースキャン.md "wikilink")[ブラウン管](../Page/ブラウン管.md "wikilink")と[ライトペン](../Page/ライトペン.md "wikilink")を使用して、世界初の完全な[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")を実現している。プログラム構成上の特筆すべき点として、[データ構造](../Page/データ構造.md "wikilink")の設計において「オブジェクト」や「インスタンス」といった概念を採用し、いわゆる[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")の先駆けのひとつと言えることも挙げられる。基本的発想は、ある図形を作成したら、それを複製して何度でも実体化(instantiate)できるということである。ユーザーが元の図形に変更を加えると、他の全てのインスタンスが同じように変形される。Sketchpad は図形の幾何学的属性に簡単に制約を加えることもできた。例えば、直線の長さとか2つの直線の交わる角度などを固定できる。
 
@@ -15,7 +15,7 @@ Sketchpadに先駆けて[BBNテクノロジーズ](../Page/BBNテクノロジー
 
 Sketchpad は[MITの](../Page/マサチューセッツ工科大学.md "wikilink")[TX-2コンピュータ上で動作した](../Page/TX-0.md "wikilink")。TX-2は36ビットワードで、64kワードの記憶容量である。36ビットに表示すべき点についての情報を格納でき、20ビットでX-Y座標を表し、残る16ビットでその点が属するコンポーネント（図形）のアドレスを表した。
 
-当時、コンピュータの一般的な使用法はもっぱら[バッチ処理](https://ja.wikipedia.org/wiki/バッチ処理 "wikilink")であったことに注意が必要である。なぜかといえば、研究の黎明期を抜けて商用の時代に入ったコンピュータは、もはや個人が占有できるものではなくなっていたからで、そういった状況の中で、こんにちのようなコンピュータの使い方の先駆者であったと言える、サザランドや他の研究者たちは多大な労力を要した。
+当時、コンピュータの一般的な使用法はもっぱら[バッチ処理](../Page/バッチ処理.md "wikilink")であったことに注意が必要である。なぜかといえば、研究の黎明期を抜けて商用の時代に入ったコンピュータは、もはや個人が占有できるものではなくなっていたからで、そういった状況の中で、こんにちのようなコンピュータの使い方の先駆者であったと言える、サザランドや他の研究者たちは多大な労力を要した。
 
 TX-2で大きな[ブラウン管](../Page/ブラウン管.md "wikilink")で表示させて対話的に操作できるようにするには多大な作業が必要であった。サザランドがそれを成し遂げたとき、あとでバッチ処理に戻せる必要があった。このためにハードウェアの大々的な改修とソフトウェアの開発が必要となった。
 

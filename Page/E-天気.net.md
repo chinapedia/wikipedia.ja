@@ -11,10 +11,10 @@
 
   - [1996年](../Page/1996年.md "wikilink")10月 - 株式会社スペースシャワーにより、**ウェザーシャワー24**の名称でお天気専門チャンネル開局
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月 - スペースシャワー清算、株式会社[スペースシャワーネットワーク](../Page/スペースシャワーネットワーク.md "wikilink")が承継
-  - [2000年](../Page/2000年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink") - チャンネル名を**e-天気.net**に変更。予報情報は[ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")から[日本気象協会](https://ja.wikipedia.org/wiki/日本気象協会 "wikilink")に切り替わる
+  - [2000年](../Page/2000年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink") - チャンネル名を**e-天気.net**に変更。予報情報は[ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")から[日本気象協会](../Page/日本気象協会.md "wikilink")に切り替わる
   - [2001年](../Page/2001年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - スカパー\!（Ch.743）「スカイウェザー」と統合する
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月9日](../Page/3月9日.md "wikilink") - スペースシャワーネットワーク、気象情報テレビ番組制作の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")となる**株式会社eTEN**を設立
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月 - スペースシャワーネットワーク、e-天気.netの名称でYahoo\!動画コンテンツを提供
+  - [2005年](../Page/2005年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink") - スペースシャワーネットワーク、気象情報テレビ番組制作の[子会社](../Page/子会社.md "wikilink")となる**株式会社eTEN**を設立
+  - [2006年](../Page/2006年.md "wikilink")11月 - スペースシャワーネットワーク、e-天気.netの名称でYahoo\!動画コンテンツを提供
   - [2007年](../Page/2007年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - スペースシャワーネットワーク、eTENへの吸収分割（動画コンテンツ・衛星役務利用放送事業の譲渡）及び株式会社スカイパーフェクト・コミュニケーションズ（現・[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")株式会社）との株式交換に伴いe-天気.netの運営から撤退、eTENがe-天気.netの名称を持つ事業すべての運営者になるとともに、スカイパーフェクト・コミュニケーションズの子会社となる
   - 2007年3月 - eTEN本社を東京都港区[六本木](../Page/六本木.md "wikilink")から東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[恵比寿西へ移転](../Page/恵比寿_\(渋谷区\).md "wikilink")
   - 2007年[9月25日](../Page/9月25日.md "wikilink") - eTEN本社を東京都港区[赤坂のスカパーJSAT本社と同一ビル内へ移転](../Page/赤坂_\(東京都港区\).md "wikilink")
@@ -28,7 +28,7 @@
 
 ## テレビ版e-天気.net
 
-有料放送であるが、[コピーガード](https://ja.wikipedia.org/wiki/コピーガード "wikilink")はかかっていない。
+有料放送であるが、[コピーガード](../Page/コピーガード.md "wikilink")はかかっていない。
 
 ### 気象データ番組
 
@@ -74,10 +74,10 @@
   - 2009年4月1日より番組開始が1時間前倒しされ、2分番組に戻る。
   - 2011年6月30日終了。
   - **出演者**
-      - 2011年6月の最終月…（月）[田井中蘭](../Page/宇佐美蘭.md "wikilink")（火・木）[福岡良子](https://ja.wikipedia.org/wiki/福岡良子 "wikilink")（水・金）[伊藤友里](../Page/伊藤友里.md "wikilink")、[鷲尾春果](../Page/鷲尾春果.md "wikilink")のどちらか（土・日）[田代大輔](https://ja.wikipedia.org/wiki/田代大輔 "wikilink")と伊藤、鷲尾のどちらか
+      - 2011年6月の最終月…（月）[田井中蘭](../Page/宇佐美蘭.md "wikilink")（火・木）[福岡良子](https://ja.wikipedia.org/wiki/福岡良子 "wikilink")（水・金）[伊藤友里](../Page/伊藤友里.md "wikilink")、[鷲尾春果](../Page/鷲尾春果.md "wikilink")のどちらか（土・日）[田代大輔](../Page/田代大輔.md "wikilink")と伊藤、鷲尾のどちらか
       - 2009年4月 - …（月〜水）[若菜三千代](https://ja.wikipedia.org/wiki/若菜三千代 "wikilink")（木）[斉藤恵理](https://ja.wikipedia.org/wiki/斎藤恵理_\(気象予報士\) "wikilink")（金・日）[中島俊夫](https://ja.wikipedia.org/wiki/中島俊夫 "wikilink")（土）[佐藤温子](https://ja.wikipedia.org/wiki/佐藤温子 "wikilink")
       - 2008年10月 - 2009年3月…（月・土）[佐々木聡美](https://ja.wikipedia.org/wiki/佐々木聡美 "wikilink")（火・金）若菜三千代（水）[松並健治](https://ja.wikipedia.org/wiki/松並健治 "wikilink")（木）斎藤恵理（日）中島俊夫
-      - 2008年7月 - 2008年9月…（月・金）[井坂綾](https://ja.wikipedia.org/wiki/井坂綾 "wikilink")（火・水）若菜三千代（木）斎藤恵理 （土）[尾又泰二](https://ja.wikipedia.org/wiki/尾又泰二 "wikilink")（日）中島俊夫
+      - 2008年7月 - 2008年9月…（月・金）[井坂綾](../Page/井坂綾.md "wikilink")（火・水）若菜三千代（木）斎藤恵理 （土）[尾又泰二](https://ja.wikipedia.org/wiki/尾又泰二 "wikilink")（日）中島俊夫
       - 2008年4月 - 2008年6月…（月・水）若菜三千代（火・金）井坂綾（木・日）斎藤恵理（土）中島俊夫
       - 2007年10月 - 2008年3月…（月・水）若菜三千代（火・金）井坂綾（木）中島俊夫（土）[太谷智一](https://ja.wikipedia.org/wiki/太谷智一 "wikilink")（日）[川坂勇太](https://ja.wikipedia.org/wiki/川坂勇太 "wikilink")
       - \- 2007年9月…（月）[野村絵理奈](https://ja.wikipedia.org/wiki/野村絵理奈 "wikilink")（火）井坂綾（水）[美濃岡洋子](../Page/美濃岡洋子.md "wikilink")（木）川坂勇太（金）[小野塚千恵](https://ja.wikipedia.org/wiki/小野塚千恵 "wikilink")（土）斎藤恵理（日）[加藤順子](https://ja.wikipedia.org/wiki/加藤順子 "wikilink")
@@ -91,9 +91,9 @@
   - 2011年6月30日終了。
   - **出演者**
       - 2011年6月の最終月…（月・火・金）[美濃岡洋子](../Page/美濃岡洋子.md "wikilink")（水・木）[國本未華](https://ja.wikipedia.org/wiki/國本未華 "wikilink")（土・日）[河津真人](https://ja.wikipedia.org/wiki/河津真人 "wikilink")
-      - 2009年4月 - …（月）[小川亜希子](../Page/小川亜希子.md "wikilink")（火）[田代大輔](https://ja.wikipedia.org/wiki/田代大輔 "wikilink")（水・土）[佐々木聡美](https://ja.wikipedia.org/wiki/佐々木聡美 "wikilink")（木・金）[美濃岡洋子](../Page/美濃岡洋子.md "wikilink")（日）[岡村真美子](https://ja.wikipedia.org/wiki/岡村真美子 "wikilink")
+      - 2009年4月 - …（月）[小川亜希子](../Page/小川亜希子.md "wikilink")（火）[田代大輔](../Page/田代大輔.md "wikilink")（水・土）[佐々木聡美](https://ja.wikipedia.org/wiki/佐々木聡美 "wikilink")（木・金）[美濃岡洋子](../Page/美濃岡洋子.md "wikilink")（日）[岡村真美子](https://ja.wikipedia.org/wiki/岡村真美子 "wikilink")
       - 2009年1月 - 2009年3月…（月・木・金）美濃岡洋子（火）[中島俊夫](https://ja.wikipedia.org/wiki/中島俊夫 "wikilink")（水・土・日）岡村真美子
-      - 2008年10月 - 2008年12月…（月・木・金）美濃岡洋子（火）[海老原美代子](https://ja.wikipedia.org/wiki/海老原美代子 "wikilink")（水・土・日）岡村真美子
+      - 2008年10月 - 2008年12月…（月・木・金）美濃岡洋子（火）[海老原美代子](../Page/海老原美代子.md "wikilink")（水・土・日）岡村真美子
       - 2008年7月 - 2008年9月…（月）佐々木聡美（火）海老原美代子（水）[松並健治](https://ja.wikipedia.org/wiki/松並健治 "wikilink")（木・金）美濃岡洋子（土・日）岡村真美子
       - 2008年4月 - 2008年6月…（月・火）海老原美代子（水）松並健治（木・金）美濃岡洋子（土）佐々木聡美（日）[尾又泰二](https://ja.wikipedia.org/wiki/尾又泰二 "wikilink")
       - 2007年10月 - 2008年3月…（月・火）海老原美代子（水）松並健治（木・金）美濃岡洋子（土・日）[斉藤恵理](https://ja.wikipedia.org/wiki/斎藤恵理_\(気象予報士\) "wikilink")
@@ -115,7 +115,7 @@
   - 地球温暖化、自然環境、気候変動をテーマとした映像作品。
   - 放送期間 2008年8月、2008年11月 - 12月
   - **出演者**
-      - ナビゲーター 2008年8月 - …[井坂綾](https://ja.wikipedia.org/wiki/井坂綾 "wikilink")、2008年11月 - 12月…[田村愛](https://ja.wikipedia.org/wiki/田村愛_\(女優\) "wikilink")
+      - ナビゲーター 2008年8月 - …[井坂綾](../Page/井坂綾.md "wikilink")、2008年11月 - 12月…[田村愛](https://ja.wikipedia.org/wiki/田村愛_\(女優\) "wikilink")
 
 #### 終了した番組
 

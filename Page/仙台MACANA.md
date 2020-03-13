@@ -1,7 +1,7 @@
 > この記事は[MACANA](https://ja.wikipedia.org/wiki/MACANA)から翻訳されています。
 
 
-**仙台MACANA**（せんだいマカナ）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉区にある](../Page/青葉区_\(仙台市\).md "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")である。
+**仙台MACANA**（せんだいマカナ）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉区にある](../Page/青葉区_\(仙台市\).md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")である。
 
 ## 概要
 

@@ -22,7 +22,7 @@
   - amaパッケージは[squashFS](https://ja.wikipedia.org/wiki/squashFS "wikilink")形式をベースにした圧縮ファイルであり、amaはwizpyOS起動時に自動でマウントされる。amaにアプリケーションで必要なライブラリなどを内包させることで、共有ライブラリの依存問題に囚われることなく、任意でアプリケーションの追加・削除ができる仕組みになっている。
   - ターボリナックス社より公開されている『wizpyOSアプリケーション開発キット』で独自のamaパッケージの作成が可能。開発キットはTurbolinux FUJI環境で動作する。
   - wizpyOS上における、wizpy本体のファームウェア及びプリインストールされているアプリケーション等の一括アップデート
-  - wizpy製品登録ユーザー向けのネットワークストレージサービス（500[MBまで](https://ja.wikipedia.org/wiki/メガバイト "wikilink")）の利用が可能だったがこのサービスは既に終了している。http://www.wizpy.jp/index.php?action_info_detail=true\&category=1\&number=178
+  - wizpy製品登録ユーザー向けのネットワークストレージサービス（500[MBまで](../Page/メガバイト.md "wikilink")）の利用が可能だったがこのサービスは既に終了している。http://www.wizpy.jp/index.php?action_info_detail=true\&category=1\&number=178
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@
   - [電子メールクライアント](../Page/電子メールクライアント.md "wikilink")（[Thunderbird](../Page/Mozilla_Thunderbird.md "wikilink")）
   - [オフィスソフト](../Page/オフィススイート.md "wikilink")（[OpenOffice.org](../Page/OpenOffice.org.md "wikilink") ※4GBモデルのみ。2GBは別途インストール）
   - [日本語入力システム](../Page/日本語入力システム.md "wikilink")（[ATOK](../Page/ATOK.md "wikilink")）
-  - [Skype](https://ja.wikipedia.org/wiki/Skype "wikilink")
+  - [Skype](../Page/Skype.md "wikilink")
   - 音楽再生（[Amarok](../Page/Amarok.md "wikilink")）
   - [画像ビューア](https://ja.wikipedia.org/wiki/画像ビューア "wikilink")（[showimg](https://ja.wikipedia.org/wiki/showimg "wikilink")）
   - [メディアプレーヤー](../Page/メディアプレーヤー.md "wikilink")（Turboメディアプレーヤー ※wmvの再生が可能）
@@ -52,7 +52,7 @@
 
 PCと接続時はマスストレージ、USBオーディオ機器として認識される。
 
-  - 音楽再生（[OGG](https://ja.wikipedia.org/wiki/Ogg_Vorbis "wikilink"),[MP3](../Page/MP3.md "wikilink"),[WMA](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")）
+  - 音楽再生（[OGG](https://ja.wikipedia.org/wiki/Ogg_Vorbis "wikilink"),[MP3](../Page/MP3.md "wikilink"),[WMA](../Page/Windows_Media_Audio.md "wikilink")）
   - 音声録音（[MP3](../Page/MP3.md "wikilink")）
   - FMラジオ
   - 静止画表示（[JPEG](../Page/JPEG.md "wikilink")）

@@ -1,7 +1,7 @@
 > この記事は[HooK SENDAI](https://ja.wikipedia.org/wiki/HooK_SENDAI)から翻訳されています。
 
 
-'''HooK SENDAI '''（ふっくせんだい）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉区にある](../Page/青葉区_\(仙台市\).md "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")である。
+'''HooK SENDAI '''（ふっくせんだい）は、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉区にある](../Page/青葉区_\(仙台市\).md "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")である。
 
 ## 概要
 

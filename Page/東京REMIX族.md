@@ -1,7 +1,7 @@
 > この記事は[REMIX](https://ja.wikipedia.org/wiki/REMIX)から翻訳されています。
 
 
-『**東京REMIX族**』（ とうきょうリミックスぞく、 TOKYO REMIX ZOKU）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月から[2013年](../Page/2013年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2013年3月まで[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の一社提供であり、番組名も『DoCoMo TOKYO REMIX ZOKU』であった。
+『**東京REMIX族**』（ とうきょうリミックスぞく、 TOKYO REMIX ZOKU）は、[2005年](../Page/2005年.md "wikilink")4月から[2013年](../Page/2013年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2013年3月まで[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の一社提供であり、番組名も『DoCoMo TOKYO REMIX ZOKU』であった。
 
 ## 概要
 

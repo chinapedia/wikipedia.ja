@@ -13,22 +13,22 @@ THKの名前の由来はタフネス「Toughness」、ハイクオリティ「Hi
 
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") - 4月 東邦精工株式会社として設立。
   - [1972年](../Page/1972年.md "wikilink") - 12月 株式会社日新製作所を合併。
-  - [1984年](../Page/1984年.md "wikilink") - 1月 THK株式会社に[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")変更。
+  - [1984年](../Page/1984年.md "wikilink") - 1月 THK株式会社に[商号](../Page/商号.md "wikilink")変更。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - 4月 東洋精工株式会社を合併。
   - [1988年](../Page/1988年.md "wikilink") - 4月 THK販売株式会社を合併。
   - [1989年](../Page/1989年.md "wikilink") - 11月 [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")に上場。
   - [2001年](../Page/2001年.md "wikilink") - 2月 [東証](../Page/東京証券取引所.md "wikilink")1部に上場。
   - [2003年](../Page/2003年.md "wikilink") - 販売拠点のTHK上海を設立。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 生産拠点のTHK精密工業有限公司(無錫・遼寧)を設立。
+  - [2005年](../Page/2005年.md "wikilink") - 生産拠点のTHK精密工業有限公司(無錫・遼寧)を設立。
   - [2017年](../Page/2017年.md "wikilink") - 本社を[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[西五反田](https://ja.wikipedia.org/wiki/西五反田 "wikilink")から港区芝浦へ移転。
 
 ## 主な事業所
 
-  - 甲府工場（[山梨県](../Page/山梨県.md "wikilink")[中央市](https://ja.wikipedia.org/wiki/中央市 "wikilink")）
+  - 甲府工場（[山梨県](../Page/山梨県.md "wikilink")[中央市](../Page/中央市.md "wikilink")）
   - 岐阜工場（[岐阜県](../Page/岐阜県.md "wikilink")不破郡[関ケ原町](../Page/関ケ原町.md "wikilink")）
   - 三重工場（[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[松阪市](../Page/松阪市.md "wikilink")）
-  - 山口工場（[山口県](../Page/山口県.md "wikilink")[山陽小野田市](https://ja.wikipedia.org/wiki/山陽小野田市 "wikilink")）
-  - 山形工場（[山形県](https://ja.wikipedia.org/wiki/山形県 "wikilink")[東根市](../Page/東根市.md "wikilink")）
+  - 山口工場（[山口県](../Page/山口県.md "wikilink")[山陽小野田市](../Page/山陽小野田市.md "wikilink")）
+  - 山形工場（[山形県](../Page/山形県.md "wikilink")[東根市](../Page/東根市.md "wikilink")）
 
 ## 主要子会社
 
@@ -40,8 +40,8 @@ THKの名前の由来はタフネス「Toughness」、ハイクオリティ「Hi
   - [THKリズム](https://ja.wikipedia.org/wiki/THKリズム "wikilink")
   - エルトレーディング
   - 日本スライド工業
-  - THK Holdings ofAmerica, L.L.C.（[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")・[シャンバーグ](https://ja.wikipedia.org/wiki/シャンバーグ "wikilink")）
-  - THK America, Inc.（[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")・[シャンバーグ](https://ja.wikipedia.org/wiki/シャンバーグ "wikilink")）
+  - THK Holdings ofAmerica, L.L.C.（[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")・[シャンバーグ](../Page/シャンバーグ.md "wikilink")）
+  - THK America, Inc.（[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")・[シャンバーグ](../Page/シャンバーグ.md "wikilink")）
   - THK Manufacturing of America, Inc.（アメリカ[オハイオ州](../Page/オハイオ州.md "wikilink")・[ヘブロン](https://ja.wikipedia.org/wiki/ヘブロン_\(オハイオ州\) "wikilink")）
   - THK RHYTHM NORTH AMERICA CO., LTD.（アメリカ・[テネシー州](../Page/テネシー州.md "wikilink")）
   - THK Europe B.V. （[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")）
@@ -49,7 +49,7 @@ THKの名前の由来はタフネス「Toughness」、ハイクオリティ「Hi
   - THK France S.A.S（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ダーディリー](https://ja.wikipedia.org/wiki/ダーディリー "wikilink")）
   - THK Manufacturing of Europe S.A.S.（フランス・[エンジスハイム](https://ja.wikipedia.org/wiki/エンジスハイム "wikilink")）
   - THK Manufacturing of Ireland Ltd.（[アイルランド](../Page/アイルランド.md "wikilink")・[ダブリン](../Page/ダブリン.md "wikilink")）
-  - THK（中国）投資有限公司（[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")[遼寧省](../Page/遼寧省.md "wikilink")[大連市](https://ja.wikipedia.org/wiki/大連市 "wikilink")）
+  - THK（中国）投資有限公司（[中国](../Page/中国.md "wikilink")[遼寧省](../Page/遼寧省.md "wikilink")[大連市](https://ja.wikipedia.org/wiki/大連市 "wikilink")）
   - THK（上海）国際貿易有限公司（中国[上海市](../Page/上海市.md "wikilink")）
   - 大連THK瓦軸工業有限公司（中国遼寧省大連市）
   - THK（無錫）精密工業有限公司（中国[江蘇省](../Page/江蘇省.md "wikilink")[無錫市](../Page/無錫市.md "wikilink")）
@@ -61,7 +61,7 @@ THKの名前の由来はタフネス「Toughness」、ハイクオリティ「Hi
   - THK LM SYSTEM Pte. Ltd.（[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")）
   - THK RHYTHM(THAILAND) CO., LTD.（[タイ](../Page/タイ王国.md "wikilink")）
   - THK MANUFACTURING OF VIETNAM CO., LTD.（[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")・[バックニン](https://ja.wikipedia.org/wiki/バックニン "wikilink")）
-  - THK RHYTHM MALAYSIA Sdn. Bhd.（[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[ペナン州](https://ja.wikipedia.org/wiki/ペナン州 "wikilink")）
+  - THK RHYTHM MALAYSIA Sdn. Bhd.（[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")・[ペナン州](../Page/ペナン州.md "wikilink")）
 
 ### 関連会社
 

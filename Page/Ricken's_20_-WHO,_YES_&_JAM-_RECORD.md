@@ -1,11 +1,11 @@
 > この記事は[Ricken\'s 20 -WHO, YES \& JAM- RECORD](https://ja.wikipedia.org/wiki/Ricken\'s_20_-WHO,_YES_\&_JAM-_RECORD)から翻訳されています。
 
 
-『**Ricken's 20 -WHO, YES & JAM- RECORD**』（リッケンズ・トゥエンティ フー・イエス・アンド・ジャム レコード）は[Ricken's](../Page/Ricken's.md "wikilink")の[ライブ・アルバム](https://ja.wikipedia.org/wiki/ライブ・アルバム "wikilink")。
+『**Ricken's 20 -WHO, YES & JAM- RECORD**』（リッケンズ・トゥエンティ フー・イエス・アンド・ジャム レコード）は[Ricken's](../Page/Ricken's.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。
 
 ## 内容
 
-20回目のワンマンライブをCD化。石田匠の[The Kaleidoscope](../Page/The_Kaleidoscope.md "wikilink")、佐々木収の[MOON CHILD時代の楽曲も披露](https://ja.wikipedia.org/wiki/MOON_CHILD_\(バンド\) "wikilink")。ただし、石田の作曲作品「Ah ha ha\!」「オン・ザ・ロード」「おおきな木」の3曲は同時発売のライブDVD『Ricken's 20 -WHO, YES & JAM- MOVIE』のみの収録曲である。
+20回目のワンマンライブをCD化。石田匠の[The Kaleidoscope](../Page/The_Kaleidoscope.md "wikilink")、佐々木収の[MOON CHILD時代の楽曲も披露](../Page/MOON_CHILD_\(バンド\).md "wikilink")。ただし、石田の作曲作品「Ah ha ha\!」「オン・ザ・ロード」「おおきな木」の3曲は同時発売のライブDVD『Ricken's 20 -WHO, YES & JAM- MOVIE』のみの収録曲である。
 
 ## 収録曲
 
@@ -23,14 +23,14 @@
 12. Massage
 13. give me some mo'rock
 14. 愛すべきひとよ - 原曲:[The Kaleidoscope](../Page/The_Kaleidoscope.md "wikilink")
-15. ESCAPE - 原曲:[MOON CHILD](https://ja.wikipedia.org/wiki/MOON_CHILD_\(バンド\) "wikilink")
+15. ESCAPE - 原曲:[MOON CHILD](../Page/MOON_CHILD_\(バンド\).md "wikilink")
 16. One size fitz all
 17. フルスロットル
 
 ## 関連項目
 
   - [Ricken's](../Page/Ricken's.md "wikilink")
-  - [MOON CHILD](https://ja.wikipedia.org/wiki/MOON_CHILD_\(バンド\) "wikilink")
+  - [MOON CHILD](../Page/MOON_CHILD_\(バンド\).md "wikilink")
   - [The Kaleidoscope](../Page/The_Kaleidoscope.md "wikilink")
 
 [Category:Ricken'sのアルバム](https://ja.wikipedia.org/wiki/Category:Ricken'sのアルバム "wikilink") [Category:2006年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:2006年のライブ・アルバム "wikilink")

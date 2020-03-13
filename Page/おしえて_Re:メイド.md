@@ -1,11 +1,11 @@
 > この記事は[ Re:](https://ja.wikipedia.org/wiki/_Re:)から翻訳されています。
 
 
-『**おしえて Re:メイド**』は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[ユニゾンシフト・アクセントより発売された](https://ja.wikipedia.org/wiki/ソフパル "wikilink")[18禁ダメッコメイドさん再教育アドベンチャーである](../Page/アダルトゲーム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には、同封されていた冊子「メイドのたしなみBook」をPDFファイルに変更した廉価版Memorial Editionが発売された。また、OVAは2007年[10月25日](../Page/10月25日.md "wikilink")に『おしえて Re:メイド（れっすん1）』、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")には『おしえて Re:メイド（れっすん2）』がそれぞれ発売された。
+『**おしえて Re:メイド**』は、[2006年](../Page/2006年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")に[ユニゾンシフト・アクセントより発売された](../Page/ソフパル.md "wikilink")[18禁ダメッコメイドさん再教育アドベンチャーである](../Page/アダルトゲーム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には、同封されていた冊子「メイドのたしなみBook」をPDFファイルに変更した廉価版Memorial Editionが発売された。また、OVAは2007年[10月25日](../Page/10月25日.md "wikilink")に『おしえて Re:メイド（れっすん1）』、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")には『おしえて Re:メイド（れっすん2）』がそれぞれ発売された。
 
 ## 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月28日](../Page/7月28日.md "wikilink") - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")(PC)特別版発売（18禁）
+  - [2006年](../Page/2006年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink") - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")(PC)特別版発売（18禁）
   - [2007年](../Page/2007年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink") - OVA『おしえて Re:メイド（れっすん1）』発売（18禁）
   - 2007年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink") - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")(PC)Memorial Edition発売（18禁）
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月25日](../Page/2月25日.md "wikilink") - OVA『おしえて Re:メイド（れっすん2）』発売（18禁）
@@ -53,11 +53,11 @@
     今回の仕事の実質的な依頼人。朱里の実の姉で、学園の理事長補佐であり、実権を握る学園の実質No2でもある眼帯のメイド長。目的の為には手段を選ばず公の為には私を犠牲にする事も厭わない性格。
     学園内での公称はウィストル。しかし、生徒間ではギリーの蔑称も存在する。この学園の第一期卒業生でもある。
     学園七不思議の一つとして、能面と評されるほど、表情を表に出さないのだが、朱里の前では表情を溢してしまう事もしばしば。
-  - ユニス:声：[神村ひな](https://ja.wikipedia.org/wiki/神村ひな "wikilink")
+  - ユニス:声：[神村ひな](../Page/神村ひな.md "wikilink")
     「厚顔無恥のトリックスター」と評されている。誕生日 2月14日、血液型 AB 型、身長 139cm、3サイズ B：63 W：46 H：65。
     フィリネの側に居たくて、わざと落ちこぼれの振りをしていた生徒。メイド界の名門一族の末娘として生まれ、類まれな才能を持ち合わせていながら、不幸のお嬢様フィリネに惚れ込んでしまい道を踏み外している。（紫からは、実力は主席級と評価されている。）裏表の使い分けが激しい性格。
     意外と常識人だが、精神的に子どもなので刹那的な衝動で行動する。
-  - マコ・ミコ:声：[成瀬未亜](https://ja.wikipedia.org/wiki/成瀬未亜 "wikilink")
+  - マコ・ミコ:声：[成瀬未亜](../Page/成瀬未亜.md "wikilink")
     「無邪気な邪悪たち」と評されている。誕生日 6月21日、血液型 AB型、身長 145cm、3サイズ B：74 W：54 H：76。
     ユニスの取り巻きの双子。一見、出来なさそうな容姿だが、実は器用で能力は高い。快楽主義で自分達が楽しければ、それでよいと言う性格。
   - 西園寺小次郎太（さいおんじこじろうた）:声：[間寺司](../Page/間寺司.md "wikilink")

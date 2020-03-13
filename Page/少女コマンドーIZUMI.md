@@ -5,16 +5,16 @@
 
 ## 概要
 
-フジテレビの超人気ドラマだった『[スケバン刑事](../Page/スケバン刑事.md "wikilink")』シリーズの後番組としてスタートしたが、前作ほどの人気は得られず\[1\]、放送開始から4か月で[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")となった（物語は完結させている）。
+フジテレビの超人気ドラマだった『[スケバン刑事](../Page/スケバン刑事.md "wikilink")』シリーズの後番組としてスタートしたが、前作ほどの人気は得られず\[1\]、放送開始から4か月で[打ち切り](../Page/打ち切り.md "wikilink")となった（物語は完結させている）。
 番組終了の2ヶ月後、本ドラマを制作した東映とフジテレビは『[花のあすか組](https://ja.wikipedia.org/wiki/花のあすか組!#テレビドラマ "wikilink")』で女学生主人公の特撮ドラマを復活させたが、編成方針の変更で月曜日のローカルセールス枠に放送時間が変更された。
 
-[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")主演の[アクション映画](../Page/アクション映画.md "wikilink")と同名の『[コマンドー](https://ja.wikipedia.org/wiki/コマンドー "wikilink")』を冠したタイトルに加えて、オープニングでは主人公が[対戦車ロケット](https://ja.wikipedia.org/wiki/対戦車ロケット "wikilink")[ランチャー](../Page/ランチャー.md "wikilink")（[M72 LAW](../Page/M72_LAW.md "wikilink")）を撃つシーン（第一話の流用）が使われ、予告編では構えるカットが使用されていた（ドラマ中、使用したのは第1話と最終回のみで、実際にはサバイバルソーという[手錠](../Page/手錠.md "wikilink")のような形のワイヤーソウ（携帯式ワイヤーノコギリ）を格闘やトラップの回避に使用した）。
+[アーノルド・シュワルツェネッガー](../Page/アーノルド・シュワルツェネッガー.md "wikilink")主演の[アクション映画](../Page/アクション映画.md "wikilink")と同名の『[コマンドー](../Page/コマンドー.md "wikilink")』を冠したタイトルに加えて、オープニングでは主人公が[対戦車ロケット](https://ja.wikipedia.org/wiki/対戦車ロケット "wikilink")[ランチャー](../Page/ランチャー.md "wikilink")（[M72 LAW](../Page/M72_LAW.md "wikilink")）を撃つシーン（第一話の流用）が使われ、予告編では構えるカットが使用されていた（ドラマ中、使用したのは第1話と最終回のみで、実際にはサバイバルソーという[手錠](../Page/手錠.md "wikilink")のような形のワイヤーソウ（携帯式ワイヤーノコギリ）を格闘やトラップの回避に使用した）。
 
 地上波での再放送は[石川テレビや](../Page/石川テレビ放送.md "wikilink")[北海道文化放送](../Page/北海道文化放送.md "wikilink")で行われたことがあるが、関東地区や関西地区では未だに行われていない。その後、2007年3月に[DVD](../Page/DVD.md "wikilink")が発売された。
 
 ## ストーリー
 
-身に覚えのない殺人の罪を着せられた女子高生・五条いづみは警官から逃走中、海に転落し行方不明となる。しかし、謎の集団がいづみを救出し、その肉体を改造して殺人兵器となるための訓練を彼女に受けさせる。3年後、いづみは脱走を図り、組織の機密事項であったいづみを抹殺する指令が下る。組織の刺客に追い詰められ極限に達したその時、頭の中に謎の声が響く……「[バイオフィードバック](https://ja.wikipedia.org/wiki/バイオフィードバック "wikilink")\! 戦う意思が、お前の身体を最終兵器に変える\!」それとともにいづみの身体は常人を遥かに超えたパワーとスピードで刺客を倒してしまった。自分の身体の秘密に戸惑いながらも、その能力と訓練中に身に着けた技能で組織に立ち向かっていくのだった。
+身に覚えのない殺人の罪を着せられた女子高生・五条いづみは警官から逃走中、海に転落し行方不明となる。しかし、謎の集団がいづみを救出し、その肉体を改造して殺人兵器となるための訓練を彼女に受けさせる。3年後、いづみは脱走を図り、組織の機密事項であったいづみを抹殺する指令が下る。組織の刺客に追い詰められ極限に達したその時、頭の中に謎の声が響く……「[バイオフィードバック](../Page/バイオフィードバック.md "wikilink")\! 戦う意思が、お前の身体を最終兵器に変える\!」それとともにいづみの身体は常人を遥かに超えたパワーとスピードで刺客を倒してしまった。自分の身体の秘密に戸惑いながらも、その能力と訓練中に身に着けた技能で組織に立ち向かっていくのだった。
 
 ## オマージュ
 
@@ -32,7 +32,7 @@
   - 武藤萌 - [加藤麻里](../Page/加藤麻里.md "wikilink")
   - 滝沢 - [神名良二](https://ja.wikipedia.org/wiki/神名良二 "wikilink")
   - 東大寺刑事 - [原島達也](https://ja.wikipedia.org/wiki/原島達也 "wikilink")
-  - 石津麟一郎 - [渡辺裕之](https://ja.wikipedia.org/wiki/渡辺裕之 "wikilink")
+  - 石津麟一郎 - [渡辺裕之](../Page/渡辺裕之.md "wikilink")
   - 藤原英二 - [地井武男](../Page/地井武男.md "wikilink")
 
 ### ゲスト
@@ -48,10 +48,10 @@
   - 田代洋平 - [岩本宗規](https://ja.wikipedia.org/wiki/岩本宗規 "wikilink")（第7話）
   - 宮園優子 - [久保田理香](https://ja.wikipedia.org/wiki/久保田理香 "wikilink")（第7話）
   - 如月智子 - [森村聡美](https://ja.wikipedia.org/wiki/森村聡美 "wikilink")（第8話）
-  - 執事 - [長江英和](https://ja.wikipedia.org/wiki/長江英和 "wikilink")（第8話）
+  - 執事 - [長江英和](../Page/長江英和.md "wikilink")（第8話）
   - A-JARI（第9話）
   - 矢追 - [篠塚勝](../Page/篠塚勝.md "wikilink")（第9話）
-  - 山下 - [浜田晃](https://ja.wikipedia.org/wiki/浜田晃 "wikilink")（第9話）
+  - 山下 - [浜田晃](../Page/浜田晃.md "wikilink")（第9話）
   - 北里マリコ - [布瀬智子](https://ja.wikipedia.org/wiki/布瀬智子 "wikilink")（第10話）
   - 北里イサオ - [駒崎涼太郎](https://ja.wikipedia.org/wiki/駒崎涼太郎 "wikilink")（第10話）
   - 飛葉亮 - [樋口悟郎](https://ja.wikipedia.org/wiki/樋口悟郎 "wikilink")（第12話）
@@ -61,7 +61,7 @@
 ## スタッフ
 
   - 企画 - [前田和也](https://ja.wikipedia.org/wiki/前田和也_\(プロデューサー\) "wikilink")（フジテレビ）、[中曽根千治](https://ja.wikipedia.org/wiki/中曽根千治 "wikilink")（東映）
-  - 脚本 - [我妻正義](https://ja.wikipedia.org/wiki/我妻正義 "wikilink")、[武上純希](https://ja.wikipedia.org/wiki/武上純希 "wikilink")、[神戸一彦](../Page/神戸一彦.md "wikilink")、[柿崎明彦](https://ja.wikipedia.org/wiki/柿崎明彦 "wikilink")
+  - 脚本 - [我妻正義](https://ja.wikipedia.org/wiki/我妻正義 "wikilink")、[武上純希](../Page/武上純希.md "wikilink")、[神戸一彦](../Page/神戸一彦.md "wikilink")、[柿崎明彦](https://ja.wikipedia.org/wiki/柿崎明彦 "wikilink")
   - 音楽 - [A-JARI](../Page/A-JARI.md "wikilink")
   - 撮影 - 林迪雄、村上俊郎
   - 照明 - 大須賀国男、上原福松、関口弥太郎
@@ -97,7 +97,7 @@
 <!-- end list -->
 
   -
-    A-JARIは音楽も担当し、『A・JARI FACTORY VOL.1 FOR SHOJYO COMMANDO "IZUMI"』(1988年、東芝EMI)としてアルバムがリリースされている。第9話では本人役で出演した。A-JARIは『スケバン刑事』の模倣作品『[セーラー服反逆同盟](https://ja.wikipedia.org/wiki/セーラー服反逆同盟 "wikilink")』の主題歌Shadow of Loveも担当し、その曲は本作第1話で挿入歌として使用された。Shadow of Love以外にも何曲か挿入歌として使われていた。
+    A-JARIは音楽も担当し、『A・JARI FACTORY VOL.1 FOR SHOJYO COMMANDO "IZUMI"』(1988年、東芝EMI)としてアルバムがリリースされている。第9話では本人役で出演した。A-JARIは『スケバン刑事』の模倣作品『[セーラー服反逆同盟](../Page/セーラー服反逆同盟.md "wikilink")』の主題歌Shadow of Loveも担当し、その曲は本作第1話で挿入歌として使用された。Shadow of Love以外にも何曲か挿入歌として使われていた。
 
 ## 挿入歌
 
@@ -247,7 +247,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均視聴率 7.12%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
+<td><p>平均視聴率 7.12%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）</p></td>
 <td></td>
 <td></td>
 <td></td>

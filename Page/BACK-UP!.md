@@ -13,22 +13,22 @@
 
   - [おすぎ](../Page/おすぎ.md "wikilink")
   - [ピーコ](../Page/ピーコ.md "wikilink")
-  - [岸田健作](https://ja.wikipedia.org/wiki/岸田健作 "wikilink")
-  - [菊間千乃](https://ja.wikipedia.org/wiki/菊間千乃 "wikilink")（当時フジテレビアナウンサー、『いいとも\!』元レギュラー）
+  - [岸田健作](../Page/岸田健作.md "wikilink")
+  - [菊間千乃](../Page/菊間千乃.md "wikilink")（当時フジテレビアナウンサー、『いいとも\!』元レギュラー）
 
 ### 出演経験がある芸人
 
-  - [三瓶](https://ja.wikipedia.org/wiki/三瓶 "wikilink") - この番組で一躍全国区に進出。番組で三瓶スペシャルが放送されたこともある。
+  - [三瓶](../Page/三瓶.md "wikilink") - この番組で一躍全国区に進出。番組で三瓶スペシャルが放送されたこともある。
   - [安田大サーカス](../Page/安田大サーカス.md "wikilink")
-  - [飛石連休](https://ja.wikipedia.org/wiki/飛石連休_\(お笑いコンビ\) "wikilink")
+  - [飛石連休](../Page/飛石連休_\(お笑いコンビ\).md "wikilink")
   - [ランディーズ](../Page/ランディーズ.md "wikilink")
   - [劇団ひとり](../Page/劇団ひとり.md "wikilink")
-  - [オジンオズボーン](https://ja.wikipedia.org/wiki/オジンオズボーン "wikilink")
+  - [オジンオズボーン](../Page/オジンオズボーン.md "wikilink")
   - [スピードワゴン](../Page/スピードワゴン.md "wikilink")
   - [さくらんぼブービー](../Page/さくらんぼブービー.md "wikilink")
   - [アメリカザリガニ](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")
-  - [テント](https://ja.wikipedia.org/wiki/テント_\(漫談家\) "wikilink")
-  - [バーレスクエンジン](https://ja.wikipedia.org/wiki/バーレスクエンジン "wikilink")（バンド）
+  - [テント](../Page/テント_\(漫談家\).md "wikilink")
+  - [バーレスクエンジン](../Page/バーレスクエンジン.md "wikilink")（バンド）
 
 ## スタッフ
 
@@ -44,7 +44,7 @@
       - CAM：寺本和美
       - VE：竹内貴志
       - AUD：斉藤哲史
-  - 照明：土倉潤一（[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")）
+  - 照明：土倉潤一（[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")）
   - 美術制作：行武直高（フジテレビ）
   - デザイン：深井誠之（フジテレビ）
   - 美術進行：大野恭一郎

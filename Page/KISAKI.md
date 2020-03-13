@@ -8,26 +8,26 @@
 ### 1990年代
 
   - 1993年よりいくつかのバンドを経て、1995年に**[Stella Maria](https://ja.wikipedia.org/wiki/Stella_Maria "wikilink")**に加入。加入後、大阪アムホールワンマン(500名動員)を決行。
-  - 1995年、**[La:Sadie's](https://ja.wikipedia.org/wiki/La;sadies "wikilink")**（現[DIR EN GREYのメンバー](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")4人が在籍）を結成。
+  - 1995年、**[La:Sadie's](https://ja.wikipedia.org/wiki/La;sadies "wikilink")**（現[DIR EN GREYのメンバー](../Page/DIR_EN_GREY.md "wikilink")4人が在籍）を結成。
   - 1997年1月、**[MIRAGE](../Page/MIRAGE_\(バンド\).md "wikilink")**を結成。
-  - 1997年11月01日、レーベル**[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")**を設立。
+  - 1997年11月01日、レーベル**[Matina](../Page/Matina.md "wikilink")**を設立。
 
 ### 2000年代
 
-  - 2000年1月、**[Syndrome](https://ja.wikipedia.org/wiki/Syndrome "wikilink")**を結成。
+  - 2000年1月、**[Syndrome](../Page/Syndrome.md "wikilink")**を結成。
   - 2003年3月、レーベル**[UNDER CODE PRODUCTION](https://ja.wikipedia.org/wiki/UNDER_CODE_PRODUCTION "wikilink")**を設立。この頃**KISAKI PROJECT feat.樹威**を結成。
-  - 2004年11月1日、**[Phantasmagoria](https://ja.wikipedia.org/wiki/Phantasmagoria "wikilink")**を結成。
-  - 2006年12月22日、約４６００万円を脱税したとして[和歌山地検に](../Page/和歌山地方検察庁.md "wikilink")[所得税法](../Page/所得税法.md "wikilink")違反の容疑で[在宅起訴](https://ja.wikipedia.org/wiki/在宅起訴 "wikilink")される\[2\]。この事件に関して[大阪地方裁判所](https://ja.wikipedia.org/wiki/大阪地方裁判所 "wikilink")は、KISAKIに未納の分の税金を納めるほか、[追徴課税](https://ja.wikipedia.org/wiki/追徴課税 "wikilink")として6400万円を支払う懲役1年半執行猶予4年の有罪判決を下す。全国各紙の新聞やTVなどのマスコミに取り上げられた。
+  - 2004年11月1日、**[Phantasmagoria](../Page/Phantasmagoria.md "wikilink")**を結成。
+  - 2006年12月22日、約４６００万円を脱税したとして[和歌山地検に](../Page/和歌山地方検察庁.md "wikilink")[所得税法](../Page/所得税法.md "wikilink")違反の容疑で[在宅起訴](https://ja.wikipedia.org/wiki/在宅起訴 "wikilink")される\[2\]。この事件に関して[大阪地方裁判所](../Page/大阪地方裁判所.md "wikilink")は、KISAKIに未納の分の税金を納めるほか、[追徴課税](https://ja.wikipedia.org/wiki/追徴課税 "wikilink")として6400万円を支払う懲役1年半執行猶予4年の有罪判決を下す。全国各紙の新聞やTVなどのマスコミに取り上げられた。
   - 2007年4月5日 公式サイト上で「2007年8月31日、バンド活動の引退」を表明。
   - 2007年8月31日、大阪国際交流センターでのワンマンライブをもってバンド活動を引退。プロデュース業に専念する。
   - 2007年10月31日、ラストシングル「memory of tears〜忘却の落陽に映る情景〜」をリリース。ヴォーカルには[ヴィドールの](../Page/ヴィドール_\(バンド\).md "wikilink")[ジュイを起用](https://ja.wikipedia.org/wiki/樹威 "wikilink")。
   - 2008年4月5日、TV大阪にてKISAKI完全プロデュースSPECIAL番組「VISUAL ROCK GATE」を開始、同年6月27日をもって放送終了。
-  - 2008年5月3日 東京・味の素スタジアム「hide memorial summit」にてPhantasmagoria奇跡の限定復活公演を果たす。(共演：[hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink") / [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") / [DJ OZMA](../Page/DJ_OZMA.md "wikilink") / [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink") / [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink") etc)
+  - 2008年5月3日 東京・味の素スタジアム「hide memorial summit」にてPhantasmagoria奇跡の限定復活公演を果たす。(共演：[hide with Spread Beaver](https://ja.wikipedia.org/wiki/hide_with_Spread_Beaver "wikilink") / [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") / [DJ OZMA](../Page/DJ_OZMA.md "wikilink") / [RIZE](../Page/RIZE.md "wikilink") / [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink") etc)
   - 2008年7月23日、KISAKI SOLO WORKS SPECIAL EDITION「The Solitude Songs」をリリース。ゲストヴォーカルにジュイを起用。
   - 2008年8月30日、大阪城野外音楽堂にて「SHOCK WAVE in 大阪城野音」にてPhantasmagoriaがメインアクトを務める。
   - 2008年8月31日、SHIBUYA-AXにてPhantasmagoria復活＆解散ライブ「forbidden -INSANITY of the UNDERWORLD-」を開催。(即日SOLD OUT)
   - 2009年4月11日、[渋谷O-WEST](https://ja.wikipedia.org/wiki/渋谷O-WEST "wikilink")にてファッション雑誌『[men's SPIDER](https://ja.wikipedia.org/wiki/men's_SPIDER "wikilink")』 PRESENTS「融合と革命の嵐」というイベントにて同雑誌のモデル達によるバンド「[メンズスパイダーバンド](https://ja.wikipedia.org/wiki/メンズスパイダーバンド "wikilink")」へ、「GOKAN」という楽曲の提供及び、同バンドのプロデュースを行う。
-  - 2009年4月29日に発売された伊集院明朗率いるFLESH FOR FLANKENSTEINに[清春](../Page/清春.md "wikilink")（[黒夢](../Page/黒夢.md "wikilink")＆[SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")）をゲスト・ヴォーカリストに迎えたSUPER BEST ALBUM「DJ FLANKEN STEIN」のリリース及び、発売記念イベントのプロデュースを手掛ける。
+  - 2009年4月29日に発売された伊集院明朗率いるFLESH FOR FLANKENSTEINに[清春](../Page/清春.md "wikilink")（[黒夢](../Page/黒夢.md "wikilink")＆[SADS](../Page/SADS.md "wikilink")）をゲスト・ヴォーカリストに迎えたSUPER BEST ALBUM「DJ FLANKEN STEIN」のリリース及び、発売記念イベントのプロデュースを手掛ける。
   - 2009年6月27日、東京キネマ倶楽部にて開催されたKneuklid Romance奇跡の一日復活公演のプロデュースを行う。このイベントの開催に合わせて、Kneuklid Romance限定復活記念音源MAXI-SINGLE「SHINE」の制作＆MEMORIAL BEST BOX「Kneuklid Romance-Phantom〜phantom of the 10th year-」のプロデュースも行う。同バンドの楽曲「Fantastic idea」をカヴァーする。
   - 2009年8月23日、大阪[服部緑地野外音楽堂](https://ja.wikipedia.org/wiki/服部緑地野外音楽堂 "wikilink")にて開催された 「Bands Shock REVOLUTION 〜びじゅある祭2009〜」へ当日限定スペシャル・バンド「妃\&B.S.Revolution」を率いメインアクトで出演を果たす。
   - 2009年9月9日、[真矢](https://ja.wikipedia.org/wiki/真矢 "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）とのコラボレートプロジェクト「Seven」のデビュー作「キラーチューン」へ楽曲提供を行う。
@@ -58,7 +58,7 @@
 
 :\* 9月14日 東日本大震災チャリティープロジェクトCD「BLUE PLANET JAPAN」に参加。
 
-:\* 11月27日 赤坂BLITZにてKISAKIプロデュースによる90年代ビジュアルシーンを一世風靡したアーティスト、バンドを集めたイベント「輪‧廻‧転‧生〜A RETURN of "VISUAL MONSTER"〜」を開催し、KISAKI PROJECT feat.砂月としてメインアクトで出演。サポートメンバーにはG.JACK(ex.[Gilles de Rais](https://ja.wikipedia.org/wiki/Gilles_de_Rais "wikilink"))＆Yoshitsugu(ex.[Eins:Vier](../Page/Eins:Vier.md "wikilink")) Ds.HAYATO(ex.[Moi dix Mois](https://ja.wikipedia.org/wiki/Moi_dix_Mois "wikilink"))を揃える。SOLD OUT。
+:\* 11月27日 赤坂BLITZにてKISAKIプロデュースによる90年代ビジュアルシーンを一世風靡したアーティスト、バンドを集めたイベント「輪‧廻‧転‧生〜A RETURN of "VISUAL MONSTER"〜」を開催し、KISAKI PROJECT feat.砂月としてメインアクトで出演。サポートメンバーにはG.JACK(ex.[Gilles de Rais](https://ja.wikipedia.org/wiki/Gilles_de_Rais "wikilink"))＆Yoshitsugu(ex.[Eins:Vier](../Page/Eins:Vier.md "wikilink")) Ds.HAYATO(ex.[Moi dix Mois](../Page/Moi_dix_Mois.md "wikilink"))を揃える。SOLD OUT。
 
   - **2012年**
 
@@ -242,10 +242,10 @@
 
 ## 人物
 
-  - 16歳の頃からバンドのローディーなど音楽活動に携わり、18歳で[La:Sadie's結成](https://ja.wikipedia.org/wiki/La;sadies "wikilink")（現[DIR EN GREYのメンバー](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")4人が在籍していた）、20歳で[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")を設立。
+  - 16歳の頃からバンドのローディーなど音楽活動に携わり、18歳で[La:Sadie's結成](https://ja.wikipedia.org/wiki/La;sadies "wikilink")（現[DIR EN GREYのメンバー](../Page/DIR_EN_GREY.md "wikilink")4人が在籍していた）、20歳で[Matina](../Page/Matina.md "wikilink")を設立。
   - ロックマガジン「[ROCK and READ](https://ja.wikipedia.org/wiki/ROCK_and_READ "wikilink")」インタビュー内で、KISAKIは「自分より他人のために何ができるかを考えている」と述べている。
   - [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")には特に強いこだわりを持っている。[バラード](../Page/バラード.md "wikilink")を魅力的に歌える人が好きであるとの事。
-  - [Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")時代からプロデュースをしてきた[ヴィドールとは仲が良く](../Page/ヴィドール_\(バンド\).md "wikilink")、特にヴォーカルのジュイ、ベースのラメとの親交は深い。またこの2人は、Phantasmagoriaのラストライブにあたり、自身の予定に都合をつけて駆け付けている。
+  - [Matina](../Page/Matina.md "wikilink")時代からプロデュースをしてきた[ヴィドールとは仲が良く](../Page/ヴィドール_\(バンド\).md "wikilink")、特にヴォーカルのジュイ、ベースのラメとの親交は深い。またこの2人は、Phantasmagoriaのラストライブにあたり、自身の予定に都合をつけて駆け付けている。
   - 2013年にバンド活動20周年を記念してのイベント「C'est la vie〜REMAIN OF THE 2OTH YEARS HISTORY〜」3月10日 大阪BIG CAT、3月30日 川崎CLUB CITTA'を開催。
 
 ## バンド歴
@@ -317,7 +317,7 @@ KISAKIが代表を務めるインディーズレーベル。2003年3月設立。
   - [cious pi cious](https://ja.wikipedia.org/wiki/cious_pi_cious "wikilink") (2004年)
   - [秘密結社コドモA](https://ja.wikipedia.org/wiki/秘密結社コドモA "wikilink") (2004年〜2007年改名)
       - [キボウ屋本舗](https://ja.wikipedia.org/wiki/キボウ屋本舗 "wikilink") (2007年〜2008年解散)
-  - [Phantasmagoria](https://ja.wikipedia.org/wiki/Phantasmagoria "wikilink") (2004年〜2010年解散)
+  - [Phantasmagoria](../Page/Phantasmagoria.md "wikilink") (2004年〜2010年解散)
   - [音鬼](https://ja.wikipedia.org/wiki/音鬼 "wikilink") (2005年)
   - [Pashya](https://ja.wikipedia.org/wiki/Pashya "wikilink") (2006年〜2007年解散)
   - [Dali](https://ja.wikipedia.org/wiki/Dali_\(バンド\) "wikilink") (2006年〜2012年解散)
@@ -388,11 +388,11 @@ KISAKIが代表を務めるインディーズレーベル。2003年3月設立。
 
 ## 関連項目
 
-  - [Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")
+  - [Matina](../Page/Matina.md "wikilink")
   - [UNDER CODE PRODUCTION](https://ja.wikipedia.org/wiki/UNDER_CODE_PRODUCTION "wikilink")
   - [MIRAGE](../Page/MIRAGE_\(バンド\).md "wikilink")
-  - [Syndrome](https://ja.wikipedia.org/wiki/Syndrome "wikilink")
-  - [Phantasmagoria](https://ja.wikipedia.org/wiki/Phantasmagoria "wikilink")
+  - [Syndrome](../Page/Syndrome.md "wikilink")
+  - [Phantasmagoria](../Page/Phantasmagoria.md "wikilink")
   - [凛-the end of corruption world-](https://ja.wikipedia.org/wiki/凛_\(バンド\) "wikilink")
   - [∀NTI FEMINISM](https://ja.wikipedia.org/wiki/∀NTI_FEMINISM "wikilink") 2001年頃に参加。その頃に製作された音源やPVにも参加した。
 

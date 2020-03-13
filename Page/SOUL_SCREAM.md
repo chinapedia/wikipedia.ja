@@ -1,7 +1,7 @@
 > この記事は[SOUL SCREAM](https://ja.wikipedia.org/wiki/SOUL_SCREAM)から翻訳されています。
 
 
-**SOUL SCREAM**（ソウル・スクリーム）は[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、現在の名前に改名。1997年[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")よりメジャーデビュー。2002年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に移籍。
+**SOUL SCREAM**（ソウル・スクリーム）は[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、現在の名前に改名。1997年[ポリスター](../Page/ポリスター.md "wikilink")よりメジャーデビュー。2002年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")に移籍。
 
 ## メンバー
 
@@ -17,7 +17,7 @@
 
 ## 略歴
 
-  - [1994年](../Page/1994年.md "wikilink")、[錦糸町](https://ja.wikipedia.org/wiki/錦糸町 "wikilink")のクラブ「Nude」で知り合った[HAB I SCREAM](https://ja.wikipedia.org/wiki/HAB_I_SCREAM "wikilink")、E.G.G MAN等とヒップホップユニット**SOUL SCREAM**を結成する。
+  - [1994年](../Page/1994年.md "wikilink")、[錦糸町](../Page/錦糸町.md "wikilink")のクラブ「Nude」で知り合った[HAB I SCREAM](https://ja.wikipedia.org/wiki/HAB_I_SCREAM "wikilink")、E.G.G MAN等とヒップホップユニット**SOUL SCREAM**を結成する。
   - [1996年](../Page/1996年.md "wikilink")、1stアルバム『THE DEEP』を発売。
   - [1999年](../Page/1999年.md "wikilink")、2ndアルバム『The positive gravity ～案とヒント～』を発売。
   - [2000年](../Page/2000年.md "wikilink")、3rdアルバム『THE POSITIVE ENERGY』を発売。
@@ -27,7 +27,7 @@
 
 ## 概要
 
-  - [キングギドラや雷](https://ja.wikipedia.org/wiki/KGDR "wikilink")（現[KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink")）が主催していた「亜熱帯雨林」に出演するなど、日本語ラップの黎明期からシーンに関わる。
+  - [キングギドラや雷](../Page/KGDR.md "wikilink")（現[KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink")）が主催していた「亜熱帯雨林」に出演するなど、日本語ラップの黎明期からシーンに関わる。
   - かつて**文系B-BOY**と呼ばれた、[さんぴんCAMP](https://ja.wikipedia.org/wiki/さんぴんCAMP "wikilink")の頃まで日本のヒップホップシーンを支えてきた重要なファン層に最も支持されていた。
   - かつてはPOWER RICE CREW (E.G.G.MAN、HAB、ALG)やYOUNG INDIAなどといった名義で活動していた。
 
@@ -64,9 +64,9 @@
 
 ### 客演
 
-  - 「口からでまかせ feat. キングギドラ,SOUL SCREAM」 / [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") 『EGOTOPIA』（1995年6月25日）
+  - 「口からでまかせ feat. キングギドラ,SOUL SCREAM」 / [RHYMESTER](../Page/RHYMESTER.md "wikilink") 『EGOTOPIA』（1995年6月25日）
   - 「脱皮再起展開（中心送信）」 / NAKED ARTZ 『浸透～Penetration』（1997年3月21日） - ※feat. **YOUNG INDIA**名義で客演。
-  - 「HIP HOP 2ZERO01 feat. SOUL SCREAM」 / [RINO LATINA II](https://ja.wikipedia.org/wiki/RINO_LATINA_II "wikilink") 『Carnival Of Rino』（2001年12月5日）
+  - 「HIP HOP 2ZERO01 feat. SOUL SCREAM」 / [RINO LATINA II](../Page/RINO_LATINA_II.md "wikilink") 『Carnival Of Rino』（2001年12月5日）
   - 「黄金のカルテット feat. SOUL SCREAM」 / [麻波25](https://ja.wikipedia.org/wiki/麻波25 "wikilink") 『MUSIC BOX』（2002年10月23日）
   - 「MY WAY feat. SOUL SCREAM」 / DJ CELORY 『BEAUTIFUL TOMORROW』（2008年1月16日）
   - 「花火 / SOUL SCREAM」 / [SEEDA](https://ja.wikipedia.org/wiki/SEEDA "wikilink") & DJ ISSO 『CONCRETE GREEN 7』（2008年8月20日）
@@ -76,7 +76,7 @@
 #### アルバム
 
   - 『The Circle』 （[2003年](../Page/2003年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")）
-  - 『THE ONE \[FLOW,RHYME,BEATS\&LIFE\]』 （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月22日](../Page/3月22日.md "wikilink")）
+  - 『THE ONE \[FLOW,RHYME,BEATS\&LIFE\]』 （[2006年](../Page/2006年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")）
   - 『PALPABLE』 （[2009年](../Page/2009年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")）
   - 『HAB I SCREAM』 （2015年[3月4日](../Page/3月4日.md "wikilink")）
 
@@ -97,7 +97,7 @@
   - [SUITE CHIC](../Page/SUITE_CHIC.md "wikilink")
   - [日曜日](../Page/日曜日.md "wikilink")
   - [Rhymester](https://ja.wikipedia.org/wiki/Rhymester "wikilink")
-  - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")
+  - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")
 
 ## 外部リンク
 

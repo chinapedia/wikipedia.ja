@@ -7,11 +7,11 @@
 
 かつての東京12チャンネルが社名をテレビ東京に改めたのを機に放送を開始。東京12チャンネル時代には朝のニュース番組がなかったことから\[1\]、これが朝の時間帯への初進出ニュースとなった。一時期、[日本テレビ系列の](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")や[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")、[フジテレビ系列](../Page/フジニュースネットワーク.md "wikilink")（開始当初はフジテレビ系列/[テレビ朝日系列のクロスネット](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")）の[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")でも放送されていた。
 
-番組は主に、[ニューヨーク](../Page/ニューヨーク.md "wikilink")など海外の市況速報と、[日本経済新聞](../Page/日本経済新聞.md "wikilink")など日経4紙の記事紹介、ゲストへのインタビュー、その他のニュースと天気予報の紹介などによって構成されていた。当初は[富士通](../Page/富士通.md "wikilink")の一社提供で放送されていたが、途中から同社に加え、[丸三証券](https://ja.wikipedia.org/wiki/丸三証券 "wikilink")などの複数社提供となった。
+番組は主に、[ニューヨーク](../Page/ニューヨーク.md "wikilink")など海外の市況速報と、[日本経済新聞](../Page/日本経済新聞.md "wikilink")など日経4紙の記事紹介、ゲストへのインタビュー、その他のニュースと天気予報の紹介などによって構成されていた。当初は[富士通](../Page/富士通.md "wikilink")の一社提供で放送されていたが、途中から同社に加え、[丸三証券](../Page/丸三証券.md "wikilink")などの複数社提供となった。
 
 [テレビせとうち](../Page/テレビせとうち.md "wikilink")と[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")では本放送開始後初めて放送されたネット番組であった\[2\]。
 
-1993年4月に同タイトルでの放送を終了。以後は『[ビジネスレーダー](https://ja.wikipedia.org/wiki/ビジネスレーダー "wikilink")』と題して放送された。
+1993年4月に同タイトルでの放送を終了。以後は『[ビジネスレーダー](../Page/ビジネスレーダー.md "wikilink")』と題して放送された。
 
 ## 放送時間
 
@@ -27,7 +27,7 @@
   - [鶴岡巍](../Page/鶴岡巍.md "wikilink")（1981.10.1-1992.3.27）
   - [久保田麻三留](../Page/久保田麻三留.md "wikilink")（1992.3.30-10.2）
   - [内山敏夫](https://ja.wikipedia.org/wiki/内山敏夫 "wikilink")（1992.10.5-1993.4.2）
-  - [日高充](https://ja.wikipedia.org/wiki/日高充 "wikilink")（代役）
+  - [日高充](../Page/日高充.md "wikilink")（代役）
 
 ### サブキャスター
 

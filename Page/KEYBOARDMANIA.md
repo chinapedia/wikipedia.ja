@@ -11,7 +11,7 @@
 
 KEYBOARDMANIA 3rdMIXでは、GUITARFREAKS 5thMIX、drummania 4thMIXとのセッションが可能となっている。（[マルチセッションGDK](../Page/マルチセッションGDK.md "wikilink")も参照）演出面においては、上記二機種とは異なりサイバーなイメージとなっている。元々、[pop'n musicの新作として開発していたこともあり](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")、類似する部分がある。
 
-[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")をはじめ、海外でも発売されており、ほとんどの地域では名称は"KEYBOARDMANIA"のままであるが、[韓国では](../Page/大韓民国.md "wikilink")"**KEYBOARDHEAVEN**"（**キーボードヘブン**）に名称を変更して発売されていた\[4\]。
+[アジア](../Page/アジア.md "wikilink")をはじめ、海外でも発売されており、ほとんどの地域では名称は"KEYBOARDMANIA"のままであるが、[韓国では](../Page/大韓民国.md "wikilink")"**KEYBOARDHEAVEN**"（**キーボードヘブン**）に名称を変更して発売されていた\[4\]。
 
 初心者はもとより鍵盤楽器の演奏に素養がないプレーヤーにとってはハードルが高く、3rdMIXをもって完結したが、本作の楽曲が他のBEMANIシリーズに移植されるようになった。
 
@@ -97,7 +97,7 @@ KEYBOARDMANIA2ndMIX公式サイトより\[6\]
 ## 主要アーティスト
 
   - [Mr.T](../Page/内田智之.md "wikilink")
-  - [村井聖夜](https://ja.wikipedia.org/wiki/村井聖夜 "wikilink")
+  - [村井聖夜](../Page/村井聖夜.md "wikilink")
   - [古賀博樹](../Page/古賀博樹.md "wikilink")
   - [Q-Mex](../Page/久米由基.md "wikilink")
   - NAHJEE
@@ -107,7 +107,7 @@ KEYBOARDMANIA2ndMIX公式サイトより\[6\]
   - [dj TAKA](../Page/石川貴之.md "wikilink")
   - [久保田修](https://ja.wikipedia.org/wiki/久保田修_\(作曲家\) "wikilink")
   - [泉陸奥彦](../Page/泉陸奥彦.md "wikilink")
-  - [小野秀幸](https://ja.wikipedia.org/wiki/小野秀幸 "wikilink")
+  - [小野秀幸](../Page/小野秀幸.md "wikilink")
   - [佐々木博史](../Page/佐々木博史.md "wikilink")
   - [Jimmy Weckl](https://ja.wikipedia.org/wiki/上高治巳 "wikilink")
   - [SLAKE](../Page/藤井岳彦.md "wikilink")（SPARKER名義）

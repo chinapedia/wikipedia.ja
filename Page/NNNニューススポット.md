@@ -1,11 +1,11 @@
 > この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
 
 
-『**NNNニューススポット**』（エヌエヌエヌニューススポット）は、[1963年](../Page/1963年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](../Page/日本ニュースネットワーク.md "wikilink")）で放送されていた[スポット枠の](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")[報道番組](../Page/報道番組.md "wikilink")である。タイトルロゴは1970年代から最終回まで変更されなかった。
+『**NNNニューススポット**』（エヌエヌエヌニューススポット）は、[1963年](../Page/1963年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](../Page/日本ニュースネットワーク.md "wikilink")）で放送されていた[スポット枠の](../Page/スポットニュース.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")である。タイトルロゴは1970年代から最終回まで変更されなかった。
 
 ## 概要
 
-日本テレビ系列で放送された[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")の総称。
+日本テレビ系列で放送された[スポットニュース](../Page/スポットニュース.md "wikilink")の総称。
 
 毎日20:54（実際は20:55、基本枠・前後の番組によって時間が変わる）からのスポット枠はNNN系列で全国ネットされていた。一部地域によってはローカルニュースに差し替えられる場合があった。また、末期は特番期の20時台と21時台の間が[ステブレレスで始まる事も多く](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")、番組自体がない事もあった。
 
@@ -13,15 +13,15 @@
 
 大晦日など『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』や『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』などの最終ニュース休止で23時以降も長時間番組の中でニュースコーナーがない場合は、この番組がその日の最終便ニュース番組となる場合もあった（なお、2007年の大晦日から2008年の正月三が日はこの番組の放送自体がなかった）。
 
-また、かつては午後にも放送され、一部地域でネット放送され、[日本テレビのアナウンサーが](../Page/日本テレビ放送網.md "wikilink")1〜3項目のニュースを伝えていたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")いっぱいで終了した。さらに遡れば、『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』放送開始までは月〜金曜日の13:55からの放送もあった。
+また、かつては午後にも放送され、一部地域でネット放送され、[日本テレビのアナウンサーが](../Page/日本テレビ放送網.md "wikilink")1〜3項目のニュースを伝えていたが、[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")いっぱいで終了した。さらに遡れば、『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』放送開始までは月〜金曜日の13:55からの放送もあった。
 
 [中京テレビなど](../Page/中京テレビ放送.md "wikilink")、同番組名を冠しながらローカルニュースを放送している系列局も存在していた。
 
-NNN系列のスポットニュース枠として45年にわたり放送されたが、日本テレビ本体の収益悪化などに伴い[リストラ](../Page/リストラ.md "wikilink")対象番組に含まれ、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")をもって終了した。同時に[1993年](../Page/1993年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[関東ローカル](https://ja.wikipedia.org/wiki/関東ローカル "wikilink")で放送されていた「あすの天気」（前身「あすの全国の天気」）（一時期は後述のプレ番組でループ表示していた）も終了している。これにより日本テレビは、平日及び土・日曜日を含めて20:54のスポットニュース枠から一時撤退することになった。
+NNN系列のスポットニュース枠として45年にわたり放送されたが、日本テレビ本体の収益悪化などに伴い[リストラ](../Page/リストラ.md "wikilink")対象番組に含まれ、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月29日](../Page/9月29日.md "wikilink")をもって終了した。同時に[1993年](../Page/1993年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[関東ローカル](../Page/関東ローカル.md "wikilink")で放送されていた「あすの天気」（前身「あすの全国の天気」）（一時期は後述のプレ番組でループ表示していた）も終了している。これにより日本テレビは、平日及び土・日曜日を含めて20:54のスポットニュース枠から一時撤退することになった。
 
 ### NNN報道特別番組としての復活
 
-[2011年](../Page/2011年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")・[16日](../Page/3月16日.md "wikilink")・[18日](../Page/3月18日.md "wikilink")・[21日](../Page/3月21日.md "wikilink")・[22日は](../Page/3月22日.md "wikilink")、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連報道のため『まもなく\!』の[代替番組](../Page/代替番組.md "wikilink")として『NNN[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")』が本番組と同様の形で放送された。東北・日テレのみ。なお、[17日は](../Page/3月17日.md "wikilink")『[ママ大好き\!](https://ja.wikipedia.org/wiki/ママ大好き! "wikilink")』、[19日は](../Page/3月19日.md "wikilink")『[ワーズハウスへようこそ](https://ja.wikipedia.org/wiki/ワーズハウスへようこそ "wikilink")』、[20日は](../Page/3月20日.md "wikilink")『[音のソノリティ](../Page/音のソノリティ.md "wikilink")』を通常どおり放送した。
+[2011年](../Page/2011年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")・[16日](../Page/3月16日.md "wikilink")・[18日](../Page/3月18日.md "wikilink")・[21日](../Page/3月21日.md "wikilink")・[22日は](../Page/3月22日.md "wikilink")、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連報道のため『まもなく\!』の[代替番組](../Page/代替番組.md "wikilink")として『NNN[報道特別番組](../Page/報道特別番組.md "wikilink")』が本番組と同様の形で放送された。東北・日テレのみ。なお、[17日は](../Page/3月17日.md "wikilink")『[ママ大好き\!](https://ja.wikipedia.org/wiki/ママ大好き! "wikilink")』、[19日は](../Page/3月19日.md "wikilink")『[ワーズハウスへようこそ](https://ja.wikipedia.org/wiki/ワーズハウスへようこそ "wikilink")』、[20日は](../Page/3月20日.md "wikilink")『[音のソノリティ](../Page/音のソノリティ.md "wikilink")』を通常どおり放送した。
 
 ### 日本テレビにおけるスポットニュースの復活
 
@@ -31,9 +31,9 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 
 ### 13時台
 
-1993年4月以降は14・15時台に移動して『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』に内包（「NEWS撮って出し」）。中断を経て現在は『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』のニュースコーナーに継承。なお、1987年10月以降は『[午後は○○おもいッきりテレビ](../Page/午後は○○おもいッきりテレビ.md "wikilink")』内にニュースコーナー（「情報特急便」）が開始されたため、ニュースが連続して放送されていた。
+1993年4月以降は14・15時台に移動して『[ザ・ワイド](../Page/ザ・ワイド.md "wikilink")』に内包（「NEWS撮って出し」）。中断を経て現在は『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』のニュースコーナーに継承。なお、1987年10月以降は『[午後は○○おもいッきりテレビ](../Page/午後は○○おもいッきりテレビ.md "wikilink")』内にニュースコーナー（「情報特急便」）が開始されたため、ニュースが連続して放送されていた。
 
-なお12:00からの情報ワイドショー番組におけるスポットニュースは『おもいッきりテレビ』終了後も『[おもいッきりイイ\!\!テレビ](../Page/おもいッきりイイ!!テレビ.md "wikilink")』（ニュースエスプレッソ）→『[おもいッきりDON\!](https://ja.wikipedia.org/wiki/おもいッきりDON! "wikilink")』（[丸岡キャスターのNEWSエクスプレス](https://ja.wikipedia.org/wiki/丸岡いずみ "wikilink")）→『[DON\!](https://ja.wikipedia.org/wiki/DON! "wikilink")』（NEWSエクスプレス）→『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』（NNNニュース）とそれぞれ13:30前後に放送されているので、2つの情報ワイド番組でぞれぞれスポットニュースの枠は連続で用意されている）
+なお12:00からの情報ワイドショー番組におけるスポットニュースは『おもいッきりテレビ』終了後も『[おもいッきりイイ\!\!テレビ](../Page/おもいッきりイイ!!テレビ.md "wikilink")』（ニュースエスプレッソ）→『[おもいッきりDON\!](https://ja.wikipedia.org/wiki/おもいッきりDON! "wikilink")』（[丸岡キャスターのNEWSエクスプレス](../Page/丸岡いずみ.md "wikilink")）→『[DON\!](https://ja.wikipedia.org/wiki/DON! "wikilink")』（NEWSエクスプレス）→『[ヒルナンデス\!](https://ja.wikipedia.org/wiki/ヒルナンデス! "wikilink")』（NNNニュース）とそれぞれ13:30前後に放送されているので、2つの情報ワイド番組でぞれぞれスポットニュースの枠は連続で用意されている）
 
   - 1972年4月 - 1974年3月　平日13:25 - 13:30\[3\]
   - 1974年4月 - 1987年9月　平日13:55 - 14:00\[4\]
@@ -81,9 +81,9 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 
 ### 20・21時台
 
-1960年代から1970年代にかけては、[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")がある日は、延長扱いではなく、最初から21時台の番組を21:30からに繰り下げていたため、本番組もそれに伴って30分繰り下げとなっていた。
+1960年代から1970年代にかけては、[プロ野球中継](../Page/プロ野球中継.md "wikilink")がある日は、延長扱いではなく、最初から21時台の番組を21:30からに繰り下げていたため、本番組もそれに伴って30分繰り下げとなっていた。
 
-1980年3月以降は、原則20:54 - 21:00は本番組+『番組フラッシュ』（番組宣伝番組）、21:54 - 22:00は『[NNN海外スポット](https://ja.wikipedia.org/wiki/NNN海外スポット "wikilink")』+天気予報（21・22時台が2時間枠の場合は21:00 - 21:02に天気予報のみ放送）という形となり、21 - 22時台の枠は廃止された。1981年10月からは21:54 - 22:00が天気予報＋『番組フラッシュ』に変更。以後、放送終了までに、徐々に20:54 - 21:00が本番組＋天気予報、21:54 - 22:00が[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")という形に統一されていった。なお1984年のナイターシーズン中、日曜19:00 - 20:54に[プロ野球中継が編成された時は](../Page/Fun!BASEBALL!!.md "wikilink")、日曜21:00のスポーツニュース番組『[サンデースポーツ9](../Page/サンデースポーツ9.md "wikilink")』（1983年9月 - 1984年9月放送。21:00 - 21:54）と本番組を入れ替え、21:48 - 21:54で放送される事があった。
+1980年3月以降は、原則20:54 - 21:00は本番組+『番組フラッシュ』（番組宣伝番組）、21:54 - 22:00は『[NNN海外スポット](https://ja.wikipedia.org/wiki/NNN海外スポット "wikilink")』+天気予報（21・22時台が2時間枠の場合は21:00 - 21:02に天気予報のみ放送）という形となり、21 - 22時台の枠は廃止された。1981年10月からは21:54 - 22:00が天気予報＋『番組フラッシュ』に変更。以後、放送終了までに、徐々に20:54 - 21:00が本番組＋天気予報、21:54 - 22:00が[ミニ番組](../Page/ミニ番組.md "wikilink")という形に統一されていった。なお1984年のナイターシーズン中、日曜19:00 - 20:54に[プロ野球中継が編成された時は](../Page/Fun!BASEBALL!!.md "wikilink")、日曜21:00のスポーツニュース番組『[サンデースポーツ9](../Page/サンデースポーツ9.md "wikilink")』（1983年9月 - 1984年9月放送。21:00 - 21:54）と本番組を入れ替え、21:48 - 21:54で放送される事があった。
 
 重大なニュースが入って夕方のニュース（[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")→[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")）で「特報」編成となった場合、20時台の番組と当番組との枠を入れ替えることがあった\[15\]。
 
@@ -152,7 +152,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 <td><p><strong>製作局</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td><p><a href="../Page/STVニューススポット.md" title="wikilink">STVニューススポット</a></p></td>
 <td><p>×</p></td>
 <td><p>1991年10月より現タイトル<br />
@@ -228,7 +228,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 <tr class="even">
 <td><p><a href="../Page/テレビ金沢.md" title="wikilink">テレビ金沢</a>（KTK）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ金沢ニュース" title="wikilink">テレビ金沢ニュース</a></p></td>
-<td><p>2007年9月までは『<a href="https://ja.wikipedia.org/wiki/北國新聞ニュース" title="wikilink">北國新聞ニュース</a>』<br />
+<td><p>2007年9月までは『<a href="../Page/北國新聞ニュース.md" title="wikilink">北國新聞ニュース</a>』<br />
 開局からの数年は『<a href="https://ja.wikipedia.org/wiki/KTKニューススポット" title="wikilink">KTKニューススポット</a>』として同時ネット</p></td>
 <td></td>
 </tr>
@@ -312,13 +312,13 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 </tr>
 <tr class="even">
 <td><p><a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a>（TOS）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TOSニュース" title="wikilink">TOSニュース</a></p></td>
+<td><p><a href="../Page/TOSニュース.md" title="wikilink">TOSニュース</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>（UMK）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UMKニュース" title="wikilink">UMK NEWS</a></p></td>
+<td><p><a href="../Page/UMKニュース.md" title="wikilink">UMK NEWS</a></p></td>
 <td><p>△</p></td>
 <td><p>月・金はローカルニュース、火-木・土は<a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジ系の</a>『<a href="https://ja.wikipedia.org/wiki/FNNレインボー発" title="wikilink">FNNレインボー発</a>』をネット</p></td>
 </tr>
@@ -334,7 +334,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 
 ## ハプニング
 
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")午後放送のこの番組のオープニングのBGMで、誤って同局制作の『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』の[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")が流れた事がある。この日の『笑点』は特別編成の都合上、このニュースの後の午後3時から放送されることになっていた（本来流すはずのオープニングの曲は、[黛敏郎](../Page/黛敏郎.md "wikilink")作曲の『NNNニュースのテーマ』（1973年制作）だった）。この日の担当アナウンサーは[多昌博志](https://ja.wikipedia.org/wiki/多昌博志 "wikilink")で、ニュースの内容も「緊迫する[韓国を協議](../Page/大韓民国.md "wikilink")」というものだった。後になってテーマ曲が違っていたことに気付き、番組最後には多昌による謝罪があった\[43\]。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[6月28日](../Page/6月28日.md "wikilink")午後放送のこの番組のオープニングのBGMで、誤って同局制作の『[笑点](https://ja.wikipedia.org/wiki/笑点 "wikilink")』の[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")が流れた事がある。この日の『笑点』は特別編成の都合上、このニュースの後の午後3時から放送されることになっていた（本来流すはずのオープニングの曲は、[黛敏郎](../Page/黛敏郎.md "wikilink")作曲の『NNNニュースのテーマ』（1973年制作）だった）。この日の担当アナウンサーは[多昌博志](../Page/多昌博志.md "wikilink")で、ニュースの内容も「緊迫する[韓国を協議](../Page/大韓民国.md "wikilink")」というものだった。後になってテーマ曲が違っていたことに気付き、番組最後には多昌による謝罪があった\[43\]。
 
 ## 四国放送の「ニューススポット」
 
@@ -351,16 +351,16 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 
 1.
 2.
-3.  12:30の『[お昼のワイドショー](https://ja.wikipedia.org/wiki/お昼のワイドショー "wikilink")』と13:30の『[ごちそうさま](https://ja.wikipedia.org/wiki/ごちそうさま_\(テレビ番組\) "wikilink")』が、それぞれ30分ずつ繰り上がったため設置。なお開いた13:15 - 13:20には10分帯番組『[千夏・英太のハハア\!なるほど](https://ja.wikipedia.org/wiki/千夏・英太のハハア!なるほど "wikilink")』→『[スターアルバム](https://ja.wikipedia.org/wiki/スターアルバム "wikilink")』を設置した。
-4.  13:15の帯番組が15分番組『[おしゃれ](https://ja.wikipedia.org/wiki/おしゃれ "wikilink")』に代わり、13:45 - 14:00の[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")制作[日昼ドラが廃枠になったため移動](https://ja.wikipedia.org/wiki/北日本放送制作昼の帯ドラマ "wikilink")。
+3.  12:30の『[お昼のワイドショー](../Page/お昼のワイドショー.md "wikilink")』と13:30の『[ごちそうさま](../Page/ごちそうさま_\(テレビ番組\).md "wikilink")』が、それぞれ30分ずつ繰り上がったため設置。なお開いた13:15 - 13:20には10分帯番組『[千夏・英太のハハア\!なるほど](https://ja.wikipedia.org/wiki/千夏・英太のハハア!なるほど "wikilink")』→『[スターアルバム](https://ja.wikipedia.org/wiki/スターアルバム "wikilink")』を設置した。
+4.  13:15の帯番組が15分番組『[おしゃれ](../Page/おしゃれ.md "wikilink")』に代わり、13:45 - 14:00の[北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")制作[日昼ドラが廃枠になったため移動](https://ja.wikipedia.org/wiki/北日本放送制作昼の帯ドラマ "wikilink")。
 5.  『[午後は○○おもいッきりテレビ](../Page/午後は○○おもいッきりテレビ.md "wikilink")』に内包
 6.  『[読売新聞ニュース](../Page/読売新聞ニュース.md "wikilink")』が17:00から15:50に枠移動したため放送終了。
-7.  12:00 - 12:55に『[新婚さん\!目方でドン\!](https://ja.wikipedia.org/wiki/目方でドーン! "wikilink")』が設置されたため、13:10の[ガイド枠](https://ja.wikipedia.org/wiki/ガイド_\(テレビ放送\) "wikilink")、13:15の『[TVジョッキー](https://ja.wikipedia.org/wiki/TVジョッキー "wikilink")日曜大行進』、14:15の『[日曜スペシャル](https://ja.wikipedia.org/wiki/日曜スペシャル_\(日本テレビ\) "wikilink")』、15:45の『[日曜映画劇場](https://ja.wikipedia.org/wiki/日曜映画劇場 "wikilink")』と共に15分繰上げ（『日SP』は移動と同時に『日曜特番』に改題）。
+7.  12:00 - 12:55に『[新婚さん\!目方でドン\!](../Page/目方でドーン!.md "wikilink")』が設置されたため、13:10の[ガイド枠](https://ja.wikipedia.org/wiki/ガイド_\(テレビ放送\) "wikilink")、13:15の『[TVジョッキー](../Page/TVジョッキー.md "wikilink")日曜大行進』、14:15の『[日曜スペシャル](https://ja.wikipedia.org/wiki/日曜スペシャル_\(日本テレビ\) "wikilink")』、15:45の『[日曜映画劇場](https://ja.wikipedia.org/wiki/日曜映画劇場 "wikilink")』と共に15分繰上げ（『日SP』は移動と同時に『日曜特番』に改題）。
 8.  土曜は原則『サスペンス傑作劇場』の後に固定。
 9.  『サスペンス傑作劇場』の前に『[メレンゲの気持ち](../Page/メレンゲの気持ち.md "wikilink")』が放送開始したため。
 10. 『メレンゲの気持ち』が30分拡大したため。
 11. 1日開始の『[ヒットで突っ走れ\!](https://ja.wikipedia.org/wiki/ヒットで突っ走れ! "wikilink")』の放送枠が30分拡大したため。
-12. 前半枠が『ヒットで突っ走れ\!』の後継番組である『[全国テキに歌ァ\!](https://ja.wikipedia.org/wiki/全国テキに歌ァ! "wikilink")』、後半枠が『[いじわるばあさん](../Page/いじわるばあさん.md "wikilink")（アニメ第1作）』と本番組だったのが、前半枠が『[奇想天外歌合戦](https://ja.wikipedia.org/wiki/奇想天外歌合戦 "wikilink")』と本番組、後半枠が『[新オバケのQ太郎](https://ja.wikipedia.org/wiki/新オバケのQ太郎 "wikilink")』に変わったため、元に戻る。1972年10月に前半枠が『[アストロガンガー](https://ja.wikipedia.org/wiki/アストロガンガー "wikilink")』のみになったことにより廃枠。
+12. 前半枠が『ヒットで突っ走れ\!』の後継番組である『[全国テキに歌ァ\!](https://ja.wikipedia.org/wiki/全国テキに歌ァ! "wikilink")』、後半枠が『[いじわるばあさん](../Page/いじわるばあさん.md "wikilink")（アニメ第1作）』と本番組だったのが、前半枠が『[奇想天外歌合戦](https://ja.wikipedia.org/wiki/奇想天外歌合戦 "wikilink")』と本番組、後半枠が『[新オバケのQ太郎](https://ja.wikipedia.org/wiki/新オバケのQ太郎 "wikilink")』に変わったため、元に戻る。1972年10月に前半枠が『[アストロガンガー](../Page/アストロガンガー.md "wikilink")』のみになったことにより廃枠。
 13. 『[ディズニーランド](../Page/ディズニーランド_\(テレビ番組\).md "wikilink")』を金曜20時枠から移動したため設置。1971年10月に『[ゴールデン・キックボクシング](../Page/ゴールデン・キックボクシング.md "wikilink")』（前半枠）と『[日清世界クイズ](../Page/日清世界クイズ.md "wikilink")』（後半枠）を設置したため一旦中止。
 14. 『[日曜日だョ\!ドリフターズ\!\!](../Page/日曜日だョ!ドリフターズ!!.md "wikilink")』設置のため復活。1971年10月24日に『[資生堂・サンデーヒットパレード](../Page/資生堂・サンデーヒットパレード.md "wikilink")』（前半枠）と『[ルパン三世 (TV第1シリーズ)](../Page/ルパン三世_\(TV第1シリーズ\).md "wikilink")』（後半枠）設置のため廃枠。
 15. 例・20:54 - 21:00→19:58 - 20:04（一部は20:00 - 20:06）
@@ -377,7 +377,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 26.
 27. 22時台が30分番組2本立ての編成だったため。
 28.
-29. 21:30 - 22:26に『[土曜グランド劇場](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")』放送のため。
+29. 21:30 - 22:26に『[土曜グランド劇場](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")』放送のため。
 30. 21:30 - 22:26に『[火曜日の女シリーズ](../Page/火曜日の女シリーズ.md "wikilink")』放送のため。
 31.
 32.
@@ -390,5 +390,5 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 39.
 40.
 41.
-42. 火曜は2時間ドラマ枠（『[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")』→『[火曜ドラマゴールド](../Page/火曜ドラマゴールド.md "wikilink")』）、金曜は[金曜ロードショーが絡んで放送枠を確保できなかった為](https://ja.wikipedia.org/wiki/金曜ロードSHOW! "wikilink")。ただし『ニューススポット』終了までこの体制は続いた。
+42. 火曜は2時間ドラマ枠（『[火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink")』→『[火曜ドラマゴールド](../Page/火曜ドラマゴールド.md "wikilink")』）、金曜は[金曜ロードショーが絡んで放送枠を確保できなかった為](../Page/金曜ロードSHOW!.md "wikilink")。ただし『ニューススポット』終了までこの体制は続いた。
 43. 笑えるけど超ヤバい\! テレビ放送事故&ハプニング（2007年　マイケル宮内・著　[廣済堂出版](https://ja.wikipedia.org/wiki/廣済堂出版 "wikilink")）p.64 - 65

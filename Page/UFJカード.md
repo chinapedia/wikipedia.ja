@@ -1,15 +1,15 @@
 > この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
 
 
-**UFJカード**（ユーエフジェイカード、*UFJ Card*）は、かつて[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社及び[UFJカードグループ](https://ja.wikipedia.org/wiki/#UFJカードグループ "wikilink")（以下「三菱UFJニコス等」）が発行していた[クレジットカードである](https://ja.wikipedia.org/wiki/クレジットカード_\(日本\) "wikilink")。
+**UFJカード**（ユーエフジェイカード、*UFJ Card*）は、かつて[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社及び[UFJカードグループ](https://ja.wikipedia.org/wiki/#UFJカードグループ "wikilink")（以下「三菱UFJニコス等」）が発行していた[クレジットカードである](../Page/クレジットカード_\(日本\).md "wikilink")。
 
 狭義には三菱UFJニコス等が発行する[VISA](https://ja.wikipedia.org/wiki/VISA "wikilink")ブランドのUFJカード（「UFJ VISAカード」）及び[MasterCard](https://ja.wikipedia.org/wiki/MasterCard "wikilink")ブランドのUFJカード（「UFJ MasterCard」）を指し、広義には三菱UFJニコスが発行する「[UFJ JCBカード](https://ja.wikipedia.org/wiki/#UFJ_JCBカード "wikilink")」も含むが、この項目ではUFJ VISAカード及びUFJ MasterCardを「UFJカード」と、UFJ JCBカードは「[UFJ JCBカード](https://ja.wikipedia.org/wiki/#UFJ_JCBカード "wikilink")」とそれぞれを区別して記述する。
 
 ## 概要
 
-「UFJカード」及び「[UFJ JCBカード](https://ja.wikipedia.org/wiki/#UFJ_JCBカード "wikilink")」は、旧[東海銀行](../Page/東海銀行.md "wikilink")系の株式会社[ミリオンカード・サービス](https://ja.wikipedia.org/wiki/ミリオンカード・サービス "wikilink")（フランチャイジーを含む）及び旧[三和銀行](../Page/三和銀行.md "wikilink")系のフィナンシャルワンカード（旧三和カードサービス）が前身である。[2002年](../Page/2002年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")にミリオンカード・サービスがフィナンシャルワンカードを[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")し、[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")を株式会社UFJカード（登記上は株式会社ユーエフジェイカード）に変更。合わせて、それぞれが発行していたクレジットカードも現在の名称に変更した。
+「UFJカード」及び「[UFJ JCBカード](https://ja.wikipedia.org/wiki/#UFJ_JCBカード "wikilink")」は、旧[東海銀行](../Page/東海銀行.md "wikilink")系の株式会社[ミリオンカード・サービス](https://ja.wikipedia.org/wiki/ミリオンカード・サービス "wikilink")（フランチャイジーを含む）及び旧[三和銀行](../Page/三和銀行.md "wikilink")系のフィナンシャルワンカード（旧三和カードサービス）が前身である。[2002年](../Page/2002年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")にミリオンカード・サービスがフィナンシャルワンカードを[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")し、[商号](../Page/商号.md "wikilink")を株式会社UFJカード（登記上は株式会社ユーエフジェイカード）に変更。合わせて、それぞれが発行していたクレジットカードも現在の名称に変更した。
 
-なお、株式会社UFJカードは[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")に日本信販株式会社に吸収合併（商号は「UFJニコス」へ変更）され消滅したが、カードブランドとしては同社が当該吸収合併前から発行しているクレジットカードである[NICOS](https://ja.wikipedia.org/wiki/NICOS "wikilink")カードとは統合されず、その後更に[協同クレジットサービス](https://ja.wikipedia.org/wiki/協同クレジットサービス "wikilink")株式会社及び株式会社[ディーシーカード](../Page/ディーシーカード.md "wikilink")を吸収合併して[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社となって以降も、[ギフトカード](https://ja.wikipedia.org/wiki/ギフトカード "wikilink")の統合など一部のサービスの共通化をしつつも展開を継続\[1\]していたが、個人向けプロパーカードは[2009年](../Page/2009年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")以降順次新規募集を終了、三菱UFJニコス本体が発行するUFJカードは提携カード及び法人向けのみとなる。その後、2012年1月23日にはブランドを[MUFGカード](../Page/MUFGカード.md "wikilink")に変更する旨が三菱UFJニコスから発表され、7月16日を以てMUFGカードに統合された\[2\]。各種提携カード及びUFJカードグループ各社も順次MUFGブランドへの移行が進んでいる。
+なお、株式会社UFJカードは[2005年](../Page/2005年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に日本信販株式会社に吸収合併（商号は「UFJニコス」へ変更）され消滅したが、カードブランドとしては同社が当該吸収合併前から発行しているクレジットカードである[NICOS](../Page/NICOS.md "wikilink")カードとは統合されず、その後更に[協同クレジットサービス](../Page/協同クレジットサービス.md "wikilink")株式会社及び株式会社[ディーシーカード](../Page/ディーシーカード.md "wikilink")を吸収合併して[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社となって以降も、[ギフトカード](../Page/ギフトカード.md "wikilink")の統合など一部のサービスの共通化をしつつも展開を継続\[1\]していたが、個人向けプロパーカードは[2009年](../Page/2009年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")以降順次新規募集を終了、三菱UFJニコス本体が発行するUFJカードは提携カード及び法人向けのみとなる。その後、2012年1月23日にはブランドを[MUFGカード](../Page/MUFGカード.md "wikilink")に変更する旨が三菱UFJニコスから発表され、7月16日を以てMUFGカードに統合された\[2\]。各種提携カード及びUFJカードグループ各社も順次MUFGブランドへの移行が進んでいる。
 
 ## UFJカード
 
@@ -41,7 +41,7 @@
 
 ## UFJ JCBカード
 
-「UFJ JCBカード」は、三菱UFJニコス（旧株式会社三和カードサービス）が株式会社[ジェーシービー](../Page/ジェーシービー.md "wikilink")（JCB）のフランチャイジー（FC）として発行するJCBカードである。尚、同社はこれ以外に[JAバンク](../Page/JAバンク.md "wikilink")との提携による「[JA JCBカード](https://ja.wikipedia.org/wiki/JAカード#JA_JCBカード "wikilink")」も発行（旧[協同クレジットサービス](https://ja.wikipedia.org/wiki/協同クレジットサービス "wikilink")株式会社から引継）しているが、券面の[デザイン](../Page/デザイン.md "wikilink")が異なる。
+「UFJ JCBカード」は、三菱UFJニコス（旧株式会社三和カードサービス）が株式会社[ジェーシービー](../Page/ジェーシービー.md "wikilink")（JCB）のフランチャイジー（FC）として発行するJCBカードである。尚、同社はこれ以外に[JAバンク](../Page/JAバンク.md "wikilink")との提携による「[JA JCBカード](https://ja.wikipedia.org/wiki/JAカード#JA_JCBカード "wikilink")」も発行（旧[協同クレジットサービス](../Page/協同クレジットサービス.md "wikilink")株式会社から引継）しているが、券面の[デザイン](../Page/デザイン.md "wikilink")が異なる。
 
 JCBのFCとして発行している為、利用する事が出来る加盟店はJCBの加盟店\[3\]であり、三菱UFJニコスのVISA・MasterCard・Nicos加盟店で利用する事は出来ない。また、利用する事が出来るサービスは[JCBグループ](../Page/JCBグループ.md "wikilink")のものであり、UFJカード独自のサービスを利用する事は出来ない。なお、UFJカードグループの中にも三菱UFJニコスと同様にJCBのFCとしてJCBカードを発行しているものがあるが、「UFJ JCBカード」と称されるのは、三菱UFJニコスがJCBのFCとして発行するものをいう。
 
@@ -84,7 +84,7 @@ Arubaraは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../P
 
 ## 提携カード
 
-括弧内の各企業と三菱UFJニコスが提携し発行する[提携カード](https://ja.wikipedia.org/wiki/提携カード "wikilink")は以下のとおり。2012年7月16日発行分から、MUFGカードに移行した。
+括弧内の各企業と三菱UFJニコスが提携し発行する[提携カード](../Page/提携カード.md "wikilink")は以下のとおり。2012年7月16日発行分から、MUFGカードに移行した。
 
 ### ショッピング
 
@@ -98,20 +98,20 @@ Arubaraは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../P
   - BMW Card（[BMW](../Page/BMW.md "wikilink")）
   - MINI Card（[MINI](../Page/ミニ_\(BMW\).md "wikilink")）2/3サイズのミニカードが追加発行される
   - Honda Cカード （[本田技研工業](../Page/本田技研工業.md "wikilink")・現在は終了）
-  - JAF・UFJカード ([JAF](https://ja.wikipedia.org/wiki/日本自動車連盟 "wikilink")・新規募集停止）JAF会員証とクレジットカードの一体型カード
+  - JAF・UFJカード ([JAF](../Page/日本自動車連盟.md "wikilink")・新規募集停止）JAF会員証とクレジットカードの一体型カード
   - 鈴鹿サーキットファンクラブカード （[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")）
-  - ツインリンクもてぎファンクラブカード （[ツインリンクもてぎ](https://ja.wikipedia.org/wiki/ツインリンクもてぎ "wikilink")・現在は終了）
+  - ツインリンクもてぎファンクラブカード （[ツインリンクもてぎ](../Page/ツインリンクもてぎ.md "wikilink")・現在は終了）
 
 ### 通信
 
   - DoCoMo UFJ Card （[DoCoMo](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・現在は終了）
-  - フュージョンメンバーズカード （[フュージョンコミュニケーションズ](https://ja.wikipedia.org/wiki/楽天コミュニケーションズ "wikilink")・現在は終了）
+  - フュージョンメンバーズカード （[フュージョンコミュニケーションズ](../Page/楽天コミュニケーションズ.md "wikilink")・現在は終了）
 
 ### 航空
 
   - スカイマークカード （[スカイマーク](https://ja.wikipedia.org/wiki/スカイマーク "wikilink")エアラインズ・現在は終了）
   - セントレアカード （[中部国際空港](../Page/中部国際空港.md "wikilink")）
-  - Miles & More UFJカード （[ルフトハンザドイツ航空](https://ja.wikipedia.org/wiki/ルフトハンザドイツ航空 "wikilink")）
+  - Miles & More UFJカード （[ルフトハンザドイツ航空](../Page/ルフトハンザドイツ航空.md "wikilink")）
   - ワンパスUFJカード→MileagePlus MUFGカード（[コンチネンタル航空](https://ja.wikipedia.org/wiki/コンチネンタル航空 "wikilink")・現[ユナイテッド航空](https://ja.wikipedia.org/wiki/ユナイテッド航空 "wikilink")）
 
 ### その他
@@ -162,7 +162,7 @@ Arubaraは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../P
 <tr class="odd">
 <td><p><a href="../Page/J-WESTカード.md" title="wikilink">J-WESTカード</a></p></td>
 <td><p>MasterCard</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西日本旅客鉄道" title="wikilink">西日本旅客鉄道</a>（JR西日本）[11]</p></td>
+<td><p><a href="../Page/西日本旅客鉄道.md" title="wikilink">西日本旅客鉄道</a>（JR西日本）[11]</p></td>
 <td><p><a href="../Page/SMART_ICOCA.md" title="wikilink">SMART ICOCA追加カード</a><br />
 <a href="https://ja.wikipedia.org/wiki/エクスプレス予約#EX-ICサービス" title="wikilink">EX-IC追加カード</a>（「エクスプレス」のみ）</p></td>
 </tr>
@@ -203,7 +203,7 @@ VISA付帯のみ<a href="../Page/ゴールドカード.md" title="wikilink">JQ C
 ## 三菱UFJニコスの加盟店
 
   - 加盟店の数は、旧UFJニコス株式会社が2796千店、旧株式会社ディーシーカードが1679千店（いずれも[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")現在）であり、重複を考慮しない単純合計では4475千店である\[12\]。
-  - NICOS、UFJ(MILLION)、DCの三ブランドのVISA/MasterCardは旧日本信販・UFJカード・ディーシーカードの合併以前も各々の加盟店で相互に利用可能であり、合併を機にNICOS国内専用カードもUFJ/DC加盟店でも扱える様になったが、[JR西日本の](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[みどりの窓口](../Page/みどりの窓口.md "wikilink")等、システムの関係上一部NICOS国内専用カードを利用できない加盟店が存在する。ただし、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")以降に3ブランドを、新ブランド[MUFGカード](../Page/MUFGカード.md "wikilink")に順次統合する方針が示された\[13\]が、実際にはUFJブランドがフランチャイジー・提携・解放扱いを含めてMUFGブランドに移行したのみで、[2009年](../Page/2009年.md "wikilink")に一時NICOS/DCの自社での新規申込が停止されたものの、[2012年](../Page/2012年.md "wikilink")にNICOS一般/VISAO（国際ブランド付のみ）とDC一般/ゴールドの申込が再開されており、完全統合までには時間を要する模様\[14\]。
+  - NICOS、UFJ(MILLION)、DCの三ブランドのVISA/MasterCardは旧日本信販・UFJカード・ディーシーカードの合併以前も各々の加盟店で相互に利用可能であり、合併を機にNICOS国内専用カードもUFJ/DC加盟店でも扱える様になったが、[JR西日本の](../Page/西日本旅客鉄道.md "wikilink")[みどりの窓口](../Page/みどりの窓口.md "wikilink")等、システムの関係上一部NICOS国内専用カードを利用できない加盟店が存在する。ただし、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")以降に3ブランドを、新ブランド[MUFGカード](../Page/MUFGカード.md "wikilink")に順次統合する方針が示された\[13\]が、実際にはUFJブランドがフランチャイジー・提携・解放扱いを含めてMUFGブランドに移行したのみで、[2009年](../Page/2009年.md "wikilink")に一時NICOS/DCの自社での新規申込が停止されたものの、[2012年](../Page/2012年.md "wikilink")にNICOS一般/VISAO（国際ブランド付のみ）とDC一般/ゴールドの申込が再開されており、完全統合までには時間を要する模様\[14\]。
 
 ## UFJカードグループ
 

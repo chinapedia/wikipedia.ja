@@ -1,7 +1,7 @@
 > この記事は[MORNING JACK](https://ja.wikipedia.org/wiki/MORNING_JACK)から翻訳されています。
 
 
-**MORNING JACK**（モーニング ジャック）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")で放送されていた[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")放送開始、[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送終了。
+**MORNING JACK**（モーニング ジャック）は、[ZIP-FM](../Page/ZIP-FM.md "wikilink")で放送されていた[生放送](../Page/生放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")放送開始、[2009年](../Page/2009年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送終了。
 
 ## 番組概要
 
@@ -13,7 +13,7 @@
 
 ## 放送時間
 
-  - 毎週[月曜日](../Page/月曜日.md "wikilink")～[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 6:00～10:00 ([JST](../Page/日本標準時.md "wikilink"))
+  - 毎週[月曜日](../Page/月曜日.md "wikilink")～[木曜日](../Page/木曜日.md "wikilink") 6:00～10:00 ([JST](../Page/日本標準時.md "wikilink"))
 
 ## 放送日の変遷
 
@@ -24,7 +24,7 @@
 
 ### 2004年4月～2005年3月
 
-  - [月曜日](../Page/月曜日.md "wikilink")～[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") - [落合健太郎](https://ja.wikipedia.org/wiki/落合健太郎 "wikilink")
+  - [月曜日](../Page/月曜日.md "wikilink")～[木曜日](../Page/木曜日.md "wikilink") - [落合健太郎](../Page/落合健太郎.md "wikilink")
   - [金曜日](../Page/金曜日.md "wikilink") - [都竹悦子](../Page/都竹悦子.md "wikilink")
 
 ### 2005年4月～2009年3月

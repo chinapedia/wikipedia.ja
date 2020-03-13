@@ -5,7 +5,7 @@
 
 ## 組織
 
-  - [ジー・オーグループ](https://ja.wikipedia.org/wiki/ジー・オーグループ "wikilink") - 企業、日本
+  - [ジー・オーグループ](../Page/ジー・オーグループ.md "wikilink") - 企業、日本
 
   - \- 航空会社、アメリカ
 
@@ -18,7 +18,7 @@
 
 ## 小説
 
-  - [GO (小説)](https://ja.wikipedia.org/wiki/GO_\(小説\) "wikilink") - 2001年、日本
+  - [GO (小説)](../Page/GO_\(小説\).md "wikilink") - 2001年、日本
 
 ## ゲーム
 

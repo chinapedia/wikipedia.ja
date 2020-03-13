@@ -18,15 +18,15 @@
 
 J-WAVEは、『Across The View』を局として最も重要な楽曲と位置づけている。現在でもJ-WAVEのイメージを象徴する楽曲である。
 
-  - サービス放送（['AZ'-STATION J-WAVE](https://ja.wikipedia.org/wiki/'AZ'-STATION_J-WAVE "wikilink")）開始時の最初の曲
+  - サービス放送（['AZ'-STATION J-WAVE](../Page/'AZ'-STATION_J-WAVE.md "wikilink")）開始時の最初の曲
   - サービス放送中、時報前に流れた曲
   - サービス放送終了時の最後の曲
   - **開局（本放送開始）して最初に流れた曲**（この楽曲を説明する際に最も使われる言葉）
   - 番組モニター募集等、初期のJ-WAVEからのお知らせ
   - 2012年4月22日の[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")からの放送終了時の最後の曲
-  - 翌23日の[東京スカイツリー](https://ja.wikipedia.org/wiki/東京スカイツリー "wikilink")からの放送開始後の最初の曲
+  - 翌23日の[東京スカイツリー](../Page/東京スカイツリー.md "wikilink")からの放送開始後の最初の曲
   - 2015年11月1日の[港FM中継局開局直前に流れた曲](../Page/六本木ヒルズ森タワー.md "wikilink")
-  - 開局から現在に至るまでの[放送終了時の曲](https://ja.wikipedia.org/wiki/インターバル・シグナル "wikilink")
+  - 開局から現在に至るまでの[放送終了時の曲](../Page/インターバル・シグナル.md "wikilink")
 
 J-WAVE（当時はエフエムジャパン）サービス放送時からこの楽曲がオンエアされると、凄まじい量の問い合わせが局に殺到し、その量は本放送開始前までに1500件に迫るものだったという。
 
@@ -47,7 +47,7 @@ J-WAVE開局翌年の[1989年](../Page/1989年.md "wikilink")に放送開始。[
 
 [1999年](../Page/1999年.md "wikilink")4月より、放送時間が20:00-21:30に移動となり、曜日ごとにサブタイトルがつくようになった。
 
-[2001年](../Page/2001年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")をもって、放送時間を多少遅い時間にずらした「[OH\! MY RADIO](https://ja.wikipedia.org/wiki/OH!_MY_RADIO "wikilink")」に移行する形で終了となった。
+[2001年](../Page/2001年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")をもって、放送時間を多少遅い時間にずらした「[OH\! MY RADIO](../Page/OH!_MY_RADIO.md "wikilink")」に移行する形で終了となった。
 
 番組タイトルは前述のとおり、リチャード・バーマーの楽曲『Across The View』に由来しており、番組中で流された時期もあった。しかし、番組後期この楽曲は流されず、オープニングテーマは[KOOL & THE GANGの](../Page/クール・アンド・ザ・ギャング.md "wikilink")『Chocolatebutter Milk』であった。
 
@@ -66,19 +66,19 @@ J-WAVE開局翌年の[1989年](../Page/1989年.md "wikilink")に放送開始。[
   - [アレックス](../Page/アレックス.md "wikilink")
   - [加藤紀子](https://ja.wikipedia.org/wiki/加藤紀子 "wikilink")
   - [川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")([the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink"))
-  - [スガシカオ](https://ja.wikipedia.org/wiki/スガシカオ "wikilink")
-  - [杉真理](https://ja.wikipedia.org/wiki/杉真理 "wikilink")
+  - [スガシカオ](../Page/スガシカオ.md "wikilink")
+  - [杉真理](../Page/杉真理.md "wikilink")
   - [鈴木桃子](../Page/鈴木桃子.md "wikilink")
   - CHIE(YOYOYO)
   - [CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")
   - [DJ DRAGON](../Page/DJ_DRAGON.md "wikilink")、[はな](../Page/はな_\(タレント\).md "wikilink") “J'S JOURNAL”
-  - [ピストン西沢](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink")
+  - [ピストン西沢](../Page/ピストン西沢.md "wikilink")
   - [深津絵里](https://ja.wikipedia.org/wiki/深津絵里 "wikilink")
-  - [ホフディラン](https://ja.wikipedia.org/wiki/ホフディラン "wikilink")
+  - [ホフディラン](../Page/ホフディラン.md "wikilink")
   - [MISIA](https://ja.wikipedia.org/wiki/MISIA "wikilink")
   - [モーリー・ロバートソン](../Page/モーリー・ロバートソン.md "wikilink")
   - [葉千栄](../Page/葉千栄.md "wikilink")
-  - [ロバート・ハリス](https://ja.wikipedia.org/wiki/ロバート・ハリス_\(1948年生\) "wikilink")
+  - [ロバート・ハリス](../Page/ロバート・ハリス_\(1948年生\).md "wikilink")
   - [渡辺満里奈](../Page/渡辺満里奈.md "wikilink")
 
 #### 20:00開始時代
@@ -87,7 +87,7 @@ J-WAVE開局翌年の[1989年](../Page/1989年.md "wikilink")に放送開始。[
 
   - DRAGON、はな “J'S JOURNAL” （月曜、1999年4月-1999年9月）
   - [TRICERATOPS](../Page/TRICERATOPS.md "wikilink") “PRIDE & JOY” （月曜、1999年10月-2001年6月）
-  - [SNAIL RAMP](https://ja.wikipedia.org/wiki/SNAIL_RAMP "wikilink") “ABENISTA FIRE” （月曜、2001年7月-2001年9月）
+  - [SNAIL RAMP](../Page/SNAIL_RAMP.md "wikilink") “ABENISTA FIRE” （月曜、2001年7月-2001年9月）
   - [川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")(the brilliant green) “ROCKIN' RABBIT” （火曜、1999年4月-2001年9月）
   - ホフディラン “WWW”（水曜、1999年4月-1999年6月）
   - ネモ & ダイスケ([cool drive makers](../Page/COOL_DRIVE.md "wikilink")) “DRIVE ME BLUES” （水曜、1999年7月-2000年3月）

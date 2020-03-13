@@ -9,7 +9,7 @@
 
 ### XJR1200
 
-**XJR1200**は[1994年](../Page/1994年.md "wikilink")に発売された。先行して発売されていたXJR400の[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")仕様であり、車体種別は[ネイキッドタイプで](../Page/ネイキッド_\(オートバイ\).md "wikilink")、[エンジンは](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")・[並列4気筒であるが](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")、これは同社のツアラーモデルである[FJ1200から流用されたものであり](../Page/ヤマハ・FJ.md "wikilink")[排気量](../Page/排気量.md "wikilink")は1188ccである。二輪用空冷4気筒エンジンでは世界最大の排気量である。 同時期に発売されていた[ホンダ・CB1000スーパーフォア](../Page/ホンダ・CB1000スーパーフォア.md "wikilink")の対抗車種として人気を博した。
+**XJR1200**は[1994年](../Page/1994年.md "wikilink")に発売された。先行して発売されていたXJR400の[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")仕様であり、車体種別は[ネイキッドタイプで](../Page/ネイキッド_\(オートバイ\).md "wikilink")、[エンジンは](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")・[並列4気筒であるが](../Page/直列4気筒.md "wikilink")、これは同社のツアラーモデルである[FJ1200から流用されたものであり](../Page/ヤマハ・FJ.md "wikilink")[排気量](../Page/排気量.md "wikilink")は1188ccである。二輪用空冷4気筒エンジンでは世界最大の排気量である。 同時期に発売されていた[ホンダ・CB1000スーパーフォア](../Page/ホンダ・CB1000スーパーフォア.md "wikilink")の対抗車種として人気を博した。
 
 [1996年](../Page/1996年.md "wikilink")には、当該車種をベースに[ハーフカウルを装着し](https://ja.wikipedia.org/wiki/カウル#オートバイ "wikilink")、併せて[メーター](https://ja.wikipedia.org/wiki/メーター "wikilink")類をハンドルマウントからカウルマウントに変更したXJR1200Rも発売された。基本モデルほどの台数は出ず数年間で生産終了となった。 {{-}}
 
@@ -23,11 +23,11 @@
 
   - 2003年
 
-平成13年騒音規制に対応すべく、容量を増大した[サイレンサーを採用](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")。また、同社輸出用大型二輪車[FZS1000と同型の軽量前後](https://ja.wikipedia.org/wiki/ヤマハ・FZ1 "wikilink")[ホイールに換装](../Page/車輪.md "wikilink")。先に軽量化を達成していた2000年モデルと比較し、さらに2kgの軽量化を達成した3世代目モデルとなる。ちなみに[2004年](../Page/2004年.md "wikilink")より、全世界共通となる260km/hフルスケールのスピードメーターが装備されている。
+平成13年騒音規制に対応すべく、容量を増大した[サイレンサーを採用](https://ja.wikipedia.org/wiki/マフラー_\(原動機\) "wikilink")。また、同社輸出用大型二輪車[FZS1000と同型の軽量前後](../Page/ヤマハ・FZ1.md "wikilink")[ホイールに換装](../Page/車輪.md "wikilink")。先に軽量化を達成していた2000年モデルと比較し、さらに2kgの軽量化を達成した3世代目モデルとなる。ちなみに[2004年](../Page/2004年.md "wikilink")より、全世界共通となる260km/hフルスケールのスピードメーターが装備されている。
 
   - 2006年
 
-平成19年排出ガス規制に対応するため同型のエンジンとしては初めて[FIを採用](../Page/燃料噴射装置.md "wikilink")。また、サイレンサーは両側出しから右側集合となり、排気デバイス[EXUP](https://ja.wikipedia.org/wiki/EXUP "wikilink")が採用された。
+平成19年排出ガス規制に対応するため同型のエンジンとしては初めて[FIを採用](../Page/燃料噴射装置.md "wikilink")。また、サイレンサーは両側出しから右側集合となり、排気デバイス[EXUP](../Page/EXUP.md "wikilink")が採用された。
 
 日本国内仕様は[2017年](../Page/2017年.md "wikilink")にメーカーより生産終了が公表されている。
 

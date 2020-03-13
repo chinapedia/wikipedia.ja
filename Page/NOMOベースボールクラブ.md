@@ -17,7 +17,7 @@
 
 、運営法人が[大阪府](../Page/大阪府.md "wikilink")から特定非営利活動法人として認定された。同年3月に、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に[クラブチーム](../Page/クラブチーム_\(社会人野球\).md "wikilink")『**NOMOベースボールクラブ**』として新規登録された\[1\]。
 
-、[都市対抗野球の](../Page/第76回都市対抗野球大会.md "wikilink")[阪和地区2次予選で](../Page/第76回都市対抗野球大会予選.md "wikilink")7年連続で本戦出場を狙っていた[松下電器と対戦](../Page/パナソニック野球部.md "wikilink")。5-3で勝利したことによって、松下電器を予選敗退に追い込んだ。さらに、近畿予選で快進撃を続けた結果、創部から2年で都市対抗野球への初出場を決めた。企業チームの流れを汲まないクラブチームの出場は、[全足利クラブ](https://ja.wikipedia.org/wiki/全足利クラブ "wikilink")以来27年振りであった。本戦では初戦で[JR東日本に](https://ja.wikipedia.org/wiki/JR東日本硬式野球部 "wikilink")1-6のスコアで敗退したが、同時に初出場を決めていた[全日本クラブ野球選手権](https://ja.wikipedia.org/wiki/全日本クラブ野球選手権 "wikilink")では優勝した。さらに、当時所属していた[柳田殖生](../Page/柳田殖生.md "wikilink")[内野手](../Page/内野手.md "wikilink")が、[NPBドラフト会議で](../Page/2005年度新人選手選択会議_\(日本プロ野球\).md "wikilink")[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")から5巡目で指名。後に入団したため、チーム出身者から初めての[プロ野球選手](../Page/プロ野球選手.md "wikilink")が誕生した。
+、[都市対抗野球の](../Page/第76回都市対抗野球大会.md "wikilink")[阪和地区2次予選で](../Page/第76回都市対抗野球大会予選.md "wikilink")7年連続で本戦出場を狙っていた[松下電器と対戦](../Page/パナソニック野球部.md "wikilink")。5-3で勝利したことによって、松下電器を予選敗退に追い込んだ。さらに、近畿予選で快進撃を続けた結果、創部から2年で都市対抗野球への初出場を決めた。企業チームの流れを汲まないクラブチームの出場は、[全足利クラブ](../Page/全足利クラブ.md "wikilink")以来27年振りであった。本戦では初戦で[JR東日本に](../Page/JR東日本硬式野球部.md "wikilink")1-6のスコアで敗退したが、同時に初出場を決めていた[全日本クラブ野球選手権](https://ja.wikipedia.org/wiki/全日本クラブ野球選手権 "wikilink")では優勝した。さらに、当時所属していた[柳田殖生](../Page/柳田殖生.md "wikilink")[内野手](../Page/内野手.md "wikilink")が、[NPBドラフト会議で](../Page/2005年度新人選手選択会議_\(日本プロ野球\).md "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")から5巡目で指名。後に入団したため、チーム出身者から初めての[プロ野球選手](../Page/プロ野球選手.md "wikilink")が誕生した。
 
 、[日本選手権本戦への初出場を決めたことによって](https://ja.wikipedia.org/wiki/第33回社会人野球日本選手権大会 "wikilink")、都市対抗野球・クラブ選手権を含めた**社会人野球の日本野球連盟主催[3大大会すべてへの出場](../Page/3大大会_\(社会人野球\).md "wikilink")**を果たした。社会人野球の同一チームとしては初めての快挙だったが、本戦では、初戦で[ホンダ熊本に](../Page/Honda熊本硬式野球部.md "wikilink")1-5というスコアで敗退した。
 
@@ -27,9 +27,9 @@
 
 ### 豊岡市への本拠地移転後（2013年 - ）
 
-1月に、豊岡市での活動を開始した\[8\]。移転後は、[こうのとりスタジアム](https://ja.wikipedia.org/wiki/こうのとりスタジアム "wikilink")をメイン球場\[9\]に定めながら、[兵庫県立但馬ドーム](https://ja.wikipedia.org/wiki/兵庫県立但馬ドーム "wikilink")など市内の4施設で活動する\[10\]。
+1月に、豊岡市での活動を開始した\[8\]。移転後は、[こうのとりスタジアム](https://ja.wikipedia.org/wiki/こうのとりスタジアム "wikilink")をメイン球場\[9\]に定めながら、[兵庫県立但馬ドーム](../Page/兵庫県立但馬ドーム.md "wikilink")など市内の4施設で活動する\[10\]。
 
-豊岡市内に[城崎温泉](../Page/城崎温泉.md "wikilink")を擁することから、所属選手は城崎温泉旅館協同組合に加盟する[旅館](https://ja.wikipedia.org/wiki/旅館 "wikilink")・[ホテル](../Page/ホテル.md "wikilink")で働くとともに\[11\]、勤務先や市が提供する寮で生活するようになった。このような事情から、1月に温泉街の一角で大規模な火災が発生した直後には、選手たちが[ボランティア](../Page/ボランティア.md "wikilink")で復旧作業に従事している\[12\]。
+豊岡市内に[城崎温泉](../Page/城崎温泉.md "wikilink")を擁することから、所属選手は城崎温泉旅館協同組合に加盟する[旅館](../Page/旅館.md "wikilink")・[ホテル](../Page/ホテル.md "wikilink")で働くとともに\[11\]、勤務先や市が提供する寮で生活するようになった。このような事情から、1月に温泉街の一角で大規模な火災が発生した直後には、選手たちが[ボランティア](../Page/ボランティア.md "wikilink")で復旧作業に従事している\[12\]。
 
 、本拠地移転後初めて（チームとしては10年振り）のクラブ選手権出場を果たした。
 
@@ -55,7 +55,7 @@
 
 活動資金については、[野茂英雄](../Page/野茂英雄.md "wikilink")が大半を出資するほか、運営法人に登録した正会員・賛助会員からの会費・寄付で賄っている。また、[キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")と共同で、オリジナルデザインの[自動販売機](../Page/自動販売機.md "wikilink")を開発。この販売機での売上および、同社から設置者に支払われる販売手数料の一部を、活動資金に充てている\[13\]。
 
-代表理事は、野茂および、野茂の新日本製鐵堺時代の監督・清水信英。清水は、チームの設立当初から監督も務めている。また、野茂の近鉄時代のチームメイト（[金村義明](../Page/金村義明.md "wikilink")・[光山英和](https://ja.wikipedia.org/wiki/光山英和 "wikilink")・[佐々木修](../Page/佐々木修_\(野球\).md "wikilink")・[池上誠一](../Page/池上誠一.md "wikilink")・[小池秀郎](https://ja.wikipedia.org/wiki/小池秀郎 "wikilink")）が、運営理事に名を連ねる\[14\]。
+代表理事は、野茂および、野茂の新日本製鐵堺時代の監督・清水信英。清水は、チームの設立当初から監督も務めている。また、野茂の近鉄時代のチームメイト（[金村義明](../Page/金村義明.md "wikilink")・[光山英和](../Page/光山英和.md "wikilink")・[佐々木修](../Page/佐々木修_\(野球\).md "wikilink")・[池上誠一](../Page/池上誠一.md "wikilink")・[小池秀郎](../Page/小池秀郎.md "wikilink")）が、運営理事に名を連ねる\[14\]。
 
 [クラブチームとして運営しているため](../Page/クラブチーム_\(社会人野球\).md "wikilink")、チームに所属する選手は、他の企業に正社員やアルバイトとして勤務。平日の夜間や週末を、チームでの練習に充てている。また、[NPB](https://ja.wikipedia.org/wiki/NPB "wikilink")で活躍する選手の輩出を設立当初から目標に掲げているため、NPB球団のスカウトへの露出が高い[独立リーグ](../Page/独立リーグ.md "wikilink")や企業チームへの移籍には寛容である。
 
@@ -63,7 +63,7 @@
 
 ### 青少年育成活動
 
-当クラブでは、「ベースボールクリニック」を随時実施するなど、野球を通じた青少年の育成活動にも取り組んでいる。また、野茂の名を冠した少年野球大会「NOMO CUP」を毎年開催。[ボーイズリーグ](https://ja.wikipedia.org/wiki/ボーイズリーグ "wikilink")で選抜された中学生選手のアメリカ遠征にも協力している\[17\]ほか、本拠地を兵庫県豊岡市へ移転してからは、同県出身の[栗山巧](https://ja.wikipedia.org/wiki/栗山巧 "wikilink")（[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[外野手](../Page/外野手.md "wikilink")）と共に「NOMO KURIYAMA ALL STAR GAME」（小学生の[軟式野球](https://ja.wikipedia.org/wiki/軟式野球 "wikilink")による神戸選抜チームと但馬選抜チームの対抗戦）を主催している。
+当クラブでは、「ベースボールクリニック」を随時実施するなど、野球を通じた青少年の育成活動にも取り組んでいる。また、野茂の名を冠した少年野球大会「NOMO CUP」を毎年開催。[ボーイズリーグ](../Page/ボーイズリーグ.md "wikilink")で選抜された中学生選手のアメリカ遠征にも協力している\[17\]ほか、本拠地を兵庫県豊岡市へ移転してからは、同県出身の[栗山巧](../Page/栗山巧.md "wikilink")（[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[外野手](../Page/外野手.md "wikilink")）と共に「NOMO KURIYAMA ALL STAR GAME」（小学生の[軟式野球](../Page/軟式野球.md "wikilink")による神戸選抜チームと但馬選抜チームの対抗戦）を主催している。
 
 ### その他
 
@@ -74,12 +74,12 @@
   - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")：出場1回
   - [社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink")：出場1回
   - [全日本クラブ野球選手権大会](../Page/全日本クラブ野球選手権大会.md "wikilink")：出場5回、優勝1回（2005年）、準優勝1回（2007年）
-  - [JABA高砂市長杯争奪大会](https://ja.wikipedia.org/wiki/JABA高砂市長杯争奪大会 "wikilink")：優勝1回（2006年）
+  - [JABA高砂市長杯争奪大会](../Page/JABA高砂市長杯争奪大会.md "wikilink")：優勝1回（2006年）
 
 ## 主な出身プロ野球選手
 
-  - [柳田殖生](../Page/柳田殖生.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 大学生・社会人ドラフト5位で[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")に入団
-  - [藤江均](https://ja.wikipedia.org/wiki/藤江均 "wikilink")（[投手](../Page/投手.md "wikilink")） - [東邦ガスへ移籍し](https://ja.wikipedia.org/wiki/東邦ガス硬式野球部 "wikilink")、ドラフト2位で[横浜ベイスターズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
+  - [柳田殖生](../Page/柳田殖生.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 大学生・社会人ドラフト5位で[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")に入団
+  - [藤江均](https://ja.wikipedia.org/wiki/藤江均 "wikilink")（[投手](../Page/投手.md "wikilink")） - [東邦ガスへ移籍し](../Page/東邦ガス硬式野球部.md "wikilink")、ドラフト2位で[横浜ベイスターズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [福元淳史](https://ja.wikipedia.org/wiki/福元淳史 "wikilink")（内野手） - 2008年育成選手ドラフト4位で[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に入団
   - [石田淳也](https://ja.wikipedia.org/wiki/石田淳也 "wikilink")（投手） - 育成選手ドラフト3位で[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")に入団
   - [河野大樹](https://ja.wikipedia.org/wiki/河野大樹 "wikilink")（内野手） - 育成選手ドラフト7位で[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に入団　※本拠地を豊岡市へ移転してから初めてのドラフト指名
@@ -89,20 +89,20 @@
 ◎：現在も運営理事として在籍
 
   - [沼田浩](https://ja.wikipedia.org/wiki/沼田浩 "wikilink")（元：[日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")） - 投手→退部
-  - [光山英和](https://ja.wikipedia.org/wiki/光山英和 "wikilink")（元：[近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")、[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")他） - コーチ→退部　◎
+  - [光山英和](../Page/光山英和.md "wikilink")（元：[近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")、[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")他） - コーチ→退部　◎
   - [鈴木俊雄](../Page/鈴木俊雄.md "wikilink")（元：[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")） - コーチ→退部
-  - [小池秀郎](https://ja.wikipedia.org/wiki/小池秀郎 "wikilink")（元：[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")他） - 投手兼任コーチ→退部　◎
-      - 小池と同じく[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")を退団した[高村祐](https://ja.wikipedia.org/wiki/高村祐 "wikilink")も、小池と共に当クラブの練習に参加していた。ただし、小池と違って、入部には至らなかった。ちなみに、野茂・小池・高村とも、ドラフト1位で近鉄に入団した投手である。
+  - [小池秀郎](../Page/小池秀郎.md "wikilink")（元：[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")他） - 投手兼任コーチ→退部　◎
+      - 小池と同じく[2005年](../Page/2005年.md "wikilink")に[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")を退団した[高村祐](../Page/高村祐.md "wikilink")も、小池と共に当クラブの練習に参加していた。ただし、小池と違って、入部には至らなかった。ちなみに、野茂・小池・高村とも、ドラフト1位で近鉄に入団した投手である。
   - [杉原洋](../Page/杉原洋.md "wikilink")（元：千葉ロッテマリーンズ） - 投手（2007年～2009年）→[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")　※[柳川事件](../Page/柳川事件.md "wikilink")以降3例目のNPB復帰選手
   - [柳田将利](../Page/柳田将利.md "wikilink")（元：千葉ロッテマリーンズ） - 内野手（2010年～2012年）→退部
-  - [原井和也](https://ja.wikipedia.org/wiki/原井和也 "wikilink")（元：千葉ロッテマリーンズ、[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")） - コーチ（2011年）→退部
+  - [原井和也](../Page/原井和也.md "wikilink")（元：千葉ロッテマリーンズ、[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")） - コーチ（2011年）→退部
   - [深谷亮司](../Page/深谷亮司.md "wikilink")（元：[オリックス・ブルーウェーブ](../Page/オリックス・バファローズ.md "wikilink")） - コーチ→退部
   - [中尾明生](../Page/中尾明生.md "wikilink")（元：[南海ホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")） - コーチ
 
 ## かつて在籍した選手
 
   - [須田健太](../Page/須田健太.md "wikilink")（投手） - 2008年に[シアトル・マリナーズ](../Page/シアトル・マリナーズ.md "wikilink")とマイナー契約
-  - [寺地健](https://ja.wikipedia.org/wiki/寺地健 "wikilink")（投手） - 2006年に[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に[打撃投手](https://ja.wikipedia.org/wiki/打撃投手 "wikilink")として入団
+  - [寺地健](https://ja.wikipedia.org/wiki/寺地健 "wikilink")（投手） - 2006年に[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に[打撃投手](../Page/打撃投手.md "wikilink")として入団
 
 ## 脚注・出典
 

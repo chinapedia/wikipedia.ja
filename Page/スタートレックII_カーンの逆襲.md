@@ -5,7 +5,7 @@
 
 ## ストーリー
 
-建造から20年がたち老朽化した[エンタープライズ号は練習艦となり](../Page/エンタープライズ_\(スタートレック\).md "wikilink")[カーク提督は地上任務に戻り](../Page/ジェームズ・T・カーク.md "wikilink")、[スポック](https://ja.wikipedia.org/wiki/スポック "wikilink")はエンタープライズの艦長となっていた。今回の任務は、カーク提督の査察のもと候補生達を乗せて訓練航海に出航する平穏なもののはずだった。しかしその頃、20世紀の[遺伝子工学](../Page/遺伝子工学.md "wikilink")によって生まれた優生人間[カーンたちは連邦艦](https://ja.wikipedia.org/wiki/カーン・ノニエン・シン "wikilink")[U.S.S.リライアント号を乗っ取り](../Page/ミランダ級.md "wikilink")、かつてカーク船長らによって追放されていた流刑星からの脱出を果たしていた。カーンはマーカス博士たちが研究していた計画、命のない不毛の星に生命を誕生させる「[ジェネシス計画](https://ja.wikipedia.org/wiki/ジェネシス計画_\(スタートレック\) "wikilink")」の存在を知り、それを狙っていた。生命を生み出す力を持つ一方で大いなる破壊力をも合わせ持つジェネシス装置を奪い宇宙を支配し、カーク提督への復讐を果たすべくカーンの攻撃が始まる。
+建造から20年がたち老朽化した[エンタープライズ号は練習艦となり](../Page/エンタープライズ_\(スタートレック\).md "wikilink")[カーク提督は地上任務に戻り](../Page/ジェームズ・T・カーク.md "wikilink")、[スポック](../Page/スポック.md "wikilink")はエンタープライズの艦長となっていた。今回の任務は、カーク提督の査察のもと候補生達を乗せて訓練航海に出航する平穏なもののはずだった。しかしその頃、20世紀の[遺伝子工学](../Page/遺伝子工学.md "wikilink")によって生まれた優生人間[カーンたちは連邦艦](https://ja.wikipedia.org/wiki/カーン・ノニエン・シン "wikilink")[U.S.S.リライアント号を乗っ取り](../Page/ミランダ級.md "wikilink")、かつてカーク船長らによって追放されていた流刑星からの脱出を果たしていた。カーンはマーカス博士たちが研究していた計画、命のない不毛の星に生命を誕生させる「[ジェネシス計画](https://ja.wikipedia.org/wiki/ジェネシス計画_\(スタートレック\) "wikilink")」の存在を知り、それを狙っていた。生命を生み出す力を持つ一方で大いなる破壊力をも合わせ持つジェネシス装置を奪い宇宙を支配し、カーク提督への復讐を果たすべくカーンの攻撃が始まる。
 
 ## みどころ
 
@@ -41,16 +41,16 @@
 <td><p><a href="../Page/ジェームズ・T・カーク.md" title="wikilink">ジェームズ・カーク</a></p></td>
 <td><p>カーク船長</p></td>
 <td><p><a href="../Page/ウィリアム・シャトナー.md" title="wikilink">ウィリアム・シャトナー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/矢島正明" title="wikilink">矢島正明</a></p></td>
+<td><p><a href="../Page/矢島正明.md" title="wikilink">矢島正明</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スポック" title="wikilink">スポック</a></p></td>
+<td><p><a href="../Page/スポック.md" title="wikilink">スポック</a></p></td>
 <td><p>Mr.スポック</p></td>
 <td><p><a href="../Page/レナード・ニモイ.md" title="wikilink">レナード・ニモイ</a></p></td>
 <td><p><a href="../Page/瑳川哲朗.md" title="wikilink">瑳川哲朗</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レナード・マッコイ" title="wikilink">レナード・マッコイ</a></p></td>
+<td><p><a href="../Page/レナード・マッコイ.md" title="wikilink">レナード・マッコイ</a></p></td>
 <td><p>Dr.マッコイ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディフォレスト・ケリー" title="wikilink">ディフォレスト・ケリー</a></p></td>
 <td><p><a href="../Page/山内雅人.md" title="wikilink">山内雅人</a></p></td>
@@ -58,7 +58,7 @@
 <tr class="odd">
 <td><p><a href="../Page/モンゴメリー・スコット.md" title="wikilink">モンゴメリー・スコット</a></p></td>
 <td><p>チャーリー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェームズ・ドゥーアン" title="wikilink">ジェームズ・ドゥーアン</a></p></td>
+<td><p><a href="../Page/ジェームズ・ドゥーアン.md" title="wikilink">ジェームズ・ドゥーアン</a></p></td>
 <td><p><a href="../Page/小林修_(声優).md" title="wikilink">小林修</a></p></td>
 </tr>
 <tr class="even">
@@ -72,7 +72,7 @@
 <td><p>加藤</p></td>
 <td><p><a href="../Page/ジョージ・タケイ.md" title="wikilink">ジョージ・タケイ</a></p></td>
 <td><p><a href="../Page/富山敬.md" title="wikilink">富山敬</a><br />
-（<a href="https://ja.wikipedia.org/wiki/坂東尚樹" title="wikilink">坂東尚樹</a>）</p></td>
+（<a href="../Page/坂東尚樹.md" title="wikilink">坂東尚樹</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/パヴェル・チェコフ.md" title="wikilink">パベル・チェコフ</a></p></td>
@@ -97,7 +97,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/サーヴィック" title="wikilink">サーヴィック</a>大尉</p></td>
 <td><p>　</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カースティ・アレイ" title="wikilink">カースティ・アレイ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/駒塚由衣" title="wikilink">駒塚由衣</a></p></td>
+<td><p><a href="../Page/駒塚由衣.md" title="wikilink">駒塚由衣</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クラーク・テレル" title="wikilink">クラーク・テレル</a>艦長</p></td>
@@ -120,7 +120,7 @@
 
   -
     演出：[佐藤敏夫](https://ja.wikipedia.org/wiki/佐藤敏夫_\(音響監督\) "wikilink")、翻訳：岩佐幸子（追加収録分：中村久世）、調整：小野敦志、効果：遠藤堯雄／桜井俊哉、制作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
-    その他声の出演：[麦人](../Page/麦人.md "wikilink")、[納谷六朗](../Page/納谷六朗.md "wikilink")、[嶋俊介](https://ja.wikipedia.org/wiki/嶋俊介 "wikilink")、[加藤正之](https://ja.wikipedia.org/wiki/加藤正之 "wikilink")、小島敏彦、[西村知道](../Page/西村知道.md "wikilink")、[横尾まり](../Page/横尾まり.md "wikilink")、[羽村京子](https://ja.wikipedia.org/wiki/羽村京子 "wikilink")、[古田信幸](https://ja.wikipedia.org/wiki/古田信幸 "wikilink")
+    その他声の出演：[麦人](../Page/麦人.md "wikilink")、[納谷六朗](../Page/納谷六朗.md "wikilink")、[嶋俊介](../Page/嶋俊介.md "wikilink")、[加藤正之](../Page/加藤正之.md "wikilink")、小島敏彦、[西村知道](../Page/西村知道.md "wikilink")、[横尾まり](../Page/横尾まり.md "wikilink")、[羽村京子](../Page/羽村京子.md "wikilink")、[古田信幸](../Page/古田信幸.md "wikilink")
     追加収録分その他声の出演：[真殿光昭](../Page/真殿光昭.md "wikilink")、[湯屋敦子](../Page/湯屋敦子.md "wikilink")、樫井笙人、[佐藤美智子](https://ja.wikipedia.org/wiki/佐藤美智子 "wikilink")
 
 <!-- end list -->
@@ -131,7 +131,7 @@
 
   -
     演出：佐藤敏夫、翻訳：岩佐幸子、調整：上村利秋、制作：スタジオ・エコー
-    その他声の出演：[石井隆夫](https://ja.wikipedia.org/wiki/石井隆夫 "wikilink")、[林一夫](https://ja.wikipedia.org/wiki/林一夫 "wikilink")、[小形満](https://ja.wikipedia.org/wiki/小形満 "wikilink")、[清水敏孝](../Page/清水敏孝.md "wikilink")、[上田燿司](../Page/上田燿司.md "wikilink")、[戸部順子](https://ja.wikipedia.org/wiki/戸部順子 "wikilink")、[小林麻由子](https://ja.wikipedia.org/wiki/小林麻由子 "wikilink")
+    その他声の出演：[石井隆夫](../Page/石井隆夫.md "wikilink")、[林一夫](../Page/林一夫.md "wikilink")、[小形満](../Page/小形満.md "wikilink")、[清水敏孝](../Page/清水敏孝.md "wikilink")、[上田燿司](../Page/上田燿司.md "wikilink")、[戸部順子](https://ja.wikipedia.org/wiki/戸部順子 "wikilink")、[小林麻由子](https://ja.wikipedia.org/wiki/小林麻由子 "wikilink")
 
 ## スタッフ
 
@@ -145,7 +145,7 @@
 
 ## 関連項目
 
-  - [コバヤシマル](https://ja.wikipedia.org/wiki/コバヤシマル "wikilink")
+  - [コバヤシマル](../Page/コバヤシマル.md "wikilink")
 
 ## 外部リンク
 

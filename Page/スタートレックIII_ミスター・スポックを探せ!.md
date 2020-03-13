@@ -31,10 +31,10 @@
 <td><p><a href="../Page/ジェームズ・T・カーク.md" title="wikilink">ジェームズ・T・カーク</a></p></td>
 <td><p>カーク船長</p></td>
 <td><p><a href="../Page/ウィリアム・シャトナー.md" title="wikilink">ウィリアム・シャトナー</a>　</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/矢島正明" title="wikilink">矢島正明</a></p></td>
+<td><p><a href="../Page/矢島正明.md" title="wikilink">矢島正明</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スポック" title="wikilink">スポック</a>　</p></td>
+<td><p><a href="../Page/スポック.md" title="wikilink">スポック</a>　</p></td>
 <td><p>Mr.スポック</p></td>
 <td><p><a href="../Page/レナード・ニモイ.md" title="wikilink">レナード・ニモイ</a><br />
 カール・スティーヴン<br />
@@ -45,7 +45,7 @@
 <td><p><a href="../Page/瑳川哲朗.md" title="wikilink">瑳川哲朗</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レナード・マッコイ" title="wikilink">レナード・マッコイ</a></p></td>
+<td><p><a href="../Page/レナード・マッコイ.md" title="wikilink">レナード・マッコイ</a></p></td>
 <td><p>Dr.マッコイ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディフォレスト・ケリー" title="wikilink">ディフォレスト・ケリー</a></p></td>
 <td><p><a href="../Page/山内雅人.md" title="wikilink">山内雅人</a></p></td>
@@ -53,7 +53,7 @@
 <tr class="odd">
 <td><p><a href="../Page/モンゴメリー・スコット.md" title="wikilink">モンゴメリー・スコット</a></p></td>
 <td><p>チャーリー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェームズ・ドゥーアン" title="wikilink">ジェームズ・ドゥーアン</a></p></td>
+<td><p><a href="../Page/ジェームズ・ドゥーアン.md" title="wikilink">ジェームズ・ドゥーアン</a></p></td>
 <td><p><a href="../Page/小林修_(声優).md" title="wikilink">小林修</a></p></td>
 </tr>
 <tr class="even">
@@ -67,7 +67,7 @@
 <td><p>加藤</p></td>
 <td><p><a href="../Page/ジョージ・タケイ.md" title="wikilink">ジョージ・タケイ</a></p></td>
 <td><p><a href="../Page/富山敬.md" title="wikilink">富山敬</a><br />
-（<a href="https://ja.wikipedia.org/wiki/坂東尚樹" title="wikilink">坂東尚樹</a>）</p></td>
+（<a href="../Page/坂東尚樹.md" title="wikilink">坂東尚樹</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/パヴェル・チェコフ.md" title="wikilink">パベル・チェコフ</a></p></td>
@@ -90,7 +90,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/クルーグ" title="wikilink">クルーグ</a>艦長</p></td>
 <td><p>　</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリストファー・ロイド" title="wikilink">クリストファー・ロイド</a></p></td>
+<td><p><a href="../Page/クリストファー・ロイド.md" title="wikilink">クリストファー・ロイド</a></p></td>
 <td><p><a href="../Page/内海賢二.md" title="wikilink">内海賢二</a>[2]</p></td>
 </tr>
 <tr class="even">
@@ -114,8 +114,8 @@
 
   -
     演出：小山悟、翻訳：[木原たけし](https://ja.wikipedia.org/wiki/木原たけし "wikilink")（追加収録分：中村久世）、調整：荒井孝、効果：遠藤堯雄／桜井俊哉、制作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
-    その他声の出演：[飯塚昭三](../Page/飯塚昭三.md "wikilink")、[若本規夫](../Page/若本規夫.md "wikilink")、[藤本譲](https://ja.wikipedia.org/wiki/藤本譲 "wikilink")、[沢田敏子](../Page/沢田敏子.md "wikilink")、[麦人](../Page/麦人.md "wikilink")、[嶋俊介](https://ja.wikipedia.org/wiki/嶋俊介 "wikilink")、[北村弘一](https://ja.wikipedia.org/wiki/北村弘一 "wikilink")、[島田敏](../Page/島田敏.md "wikilink")、[堀越真己](https://ja.wikipedia.org/wiki/堀越真己 "wikilink")、[星野充昭](https://ja.wikipedia.org/wiki/星野充昭 "wikilink")、[石塚運昇](../Page/石塚運昇.md "wikilink")
-    追加収録分その他声の出演：[中澤やよい](../Page/中澤やよい.md "wikilink")、[真殿光昭](../Page/真殿光昭.md "wikilink")、[中庸助](https://ja.wikipedia.org/wiki/中庸助 "wikilink")
+    その他声の出演：[飯塚昭三](../Page/飯塚昭三.md "wikilink")、[若本規夫](../Page/若本規夫.md "wikilink")、[藤本譲](../Page/藤本譲.md "wikilink")、[沢田敏子](../Page/沢田敏子.md "wikilink")、[麦人](../Page/麦人.md "wikilink")、[嶋俊介](../Page/嶋俊介.md "wikilink")、[北村弘一](../Page/北村弘一.md "wikilink")、[島田敏](../Page/島田敏.md "wikilink")、[堀越真己](../Page/堀越真己.md "wikilink")、[星野充昭](../Page/星野充昭.md "wikilink")、[石塚運昇](../Page/石塚運昇.md "wikilink")
+    追加収録分その他声の出演：[中澤やよい](../Page/中澤やよい.md "wikilink")、[真殿光昭](../Page/真殿光昭.md "wikilink")、[中庸助](../Page/中庸助.md "wikilink")
 
 <!-- end list -->
 
@@ -125,7 +125,7 @@
 
   -
     演出：[佐藤敏夫](https://ja.wikipedia.org/wiki/佐藤敏夫_\(音響監督\) "wikilink")、翻訳：木原たけし（復刻部分：中村久世）、調整：上村利秋、制作：スタジオ・エコー
-    その他声の出演：[寺島信子](../Page/寺島信子.md "wikilink")、[寺杣昌紀](../Page/てらそままさき.md "wikilink")、[仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")、[諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink")、[小宮和枝](../Page/小宮和枝.md "wikilink")、[廣田行生](https://ja.wikipedia.org/wiki/廣田行生 "wikilink")、[佐藤晴男](https://ja.wikipedia.org/wiki/佐藤晴男 "wikilink")、[松井範雄](../Page/松井範雄.md "wikilink")、[沢りつお](https://ja.wikipedia.org/wiki/沢りつお "wikilink")、[後藤敦](../Page/後藤敦.md "wikilink")、[華村りこ](https://ja.wikipedia.org/wiki/華村りこ "wikilink")、[上田陽司](../Page/上田燿司.md "wikilink")、[飯島肇](../Page/飯島肇.md "wikilink")、[戸部順子](https://ja.wikipedia.org/wiki/戸部順子 "wikilink")、[倉持良子](https://ja.wikipedia.org/wiki/倉持良子 "wikilink")
+    その他声の出演：[寺島信子](../Page/寺島信子.md "wikilink")、[寺杣昌紀](../Page/てらそままさき.md "wikilink")、[仲野裕](../Page/仲野裕.md "wikilink")、[諸角憲一](https://ja.wikipedia.org/wiki/諸角憲一 "wikilink")、[小宮和枝](../Page/小宮和枝.md "wikilink")、[廣田行生](../Page/廣田行生.md "wikilink")、[佐藤晴男](../Page/佐藤晴男.md "wikilink")、[松井範雄](../Page/松井範雄.md "wikilink")、[沢りつお](../Page/沢りつお.md "wikilink")、[後藤敦](../Page/後藤敦.md "wikilink")、[華村りこ](https://ja.wikipedia.org/wiki/華村りこ "wikilink")、[上田陽司](../Page/上田燿司.md "wikilink")、[飯島肇](../Page/飯島肇.md "wikilink")、[戸部順子](https://ja.wikipedia.org/wiki/戸部順子 "wikilink")、[倉持良子](https://ja.wikipedia.org/wiki/倉持良子 "wikilink")
 
 ## スタッフ
 

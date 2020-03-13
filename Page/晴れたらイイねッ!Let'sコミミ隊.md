@@ -1,15 +1,15 @@
 > この記事は[!Let\'s](https://ja.wikipedia.org/wiki/!Let\'s)から翻訳されています。
 
 
-『**晴れたらイイねッ\!Let'sコミミ隊**』（はれたらイイねッ レッツ・コミミたい）は、[フジテレビ系列局ほかで放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[旅番組](https://ja.wikipedia.org/wiki/旅番組 "wikilink")である。製作局のフジテレビでは[2003年](../Page/2003年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送。それ以前にも[1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで『**晴れたらイイねッ\!**』と題して放送されていた。
+『**晴れたらイイねッ\!Let'sコミミ隊**』（はれたらイイねッ レッツ・コミミたい）は、[フジテレビ系列局ほかで放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[旅番組](../Page/旅番組.md "wikilink")である。製作局のフジテレビでは[2003年](../Page/2003年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで放送。それ以前にも[1994年](../Page/1994年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで『**晴れたらイイねッ\!**』と題して放送されていた。
 
 ## 概要
 
 出演者各々が小耳に挟んだ「コミミ情報」を手がかりにして繰り広げる旅の模様を放送していた番組。旅人役を務めていたのは主にフジテレビの[アナウンサーで](../Page/日本のアナウンサー.md "wikilink")、毎回2、3人が輪番出演していた。他に[タレント](../Page/タレント.md "wikilink")も準レギュラーとして出演していた。
 
-第1回では、本番組の企画者でプロデューサーでもある[益田由美](../Page/益田由美.md "wikilink")、新人研修を受けた後の[木佐彩子](https://ja.wikipedia.org/wiki/木佐彩子 "wikilink")、[内海光司](https://ja.wikipedia.org/wiki/内海光司 "wikilink")、[藤波辰爾](../Page/藤波辰爾.md "wikilink")の4人が出演していた。なお、番組最多の出演者は益田である。かつてはアナウンサーが水着姿や入浴シーンなどを披露することもあったが、末期にはそのようなシーンはタレントがこなすことが多くなっていった。
+第1回では、本番組の企画者でプロデューサーでもある[益田由美](../Page/益田由美.md "wikilink")、新人研修を受けた後の[木佐彩子](https://ja.wikipedia.org/wiki/木佐彩子 "wikilink")、[内海光司](../Page/内海光司.md "wikilink")、[藤波辰爾](../Page/藤波辰爾.md "wikilink")の4人が出演していた。なお、番組最多の出演者は益田である。かつてはアナウンサーが水着姿や入浴シーンなどを披露することもあったが、末期にはそのようなシーンはタレントがこなすことが多くなっていった。
 
-当初はローカルスポンサーによる放送で、系列局であってもこの番組を放送しない局もあったが、前番組『[キンカン民謡セレクション](https://ja.wikipedia.org/wiki/キンカン素人民謡名人戦 "wikilink")』の放送時間変更版である『[キンカン民謡ふるさとめぐり](https://ja.wikipedia.org/wiki/キンカン素人民謡名人戦 "wikilink")』からの移行で[キンカンの一社提供番組になり](https://ja.wikipedia.org/wiki/金冠堂 "wikilink")、これを機に全国ネット番組に昇格した。なお、キンカンの一社提供は2006年9月24日放送分まで続いたが（番組の終了後には[イオンの](../Page/イオン_\(企業\).md "wikilink")[CMが](../Page/コマーシャルメッセージ.md "wikilink")[ヒッチハイクで流れていた](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")）、同年10月1日放送分をもって[MITSUBISHI MOTORSを筆頭とする複数社提供になり](../Page/三菱自動車工業.md "wikilink")、キンカンはこの枠から完全撤退することになった。
+当初はローカルスポンサーによる放送で、系列局であってもこの番組を放送しない局もあったが、前番組『[キンカン民謡セレクション](../Page/キンカン素人民謡名人戦.md "wikilink")』の放送時間変更版である『[キンカン民謡ふるさとめぐり](../Page/キンカン素人民謡名人戦.md "wikilink")』からの移行で[キンカンの一社提供番組になり](../Page/金冠堂.md "wikilink")、これを機に全国ネット番組に昇格した。なお、キンカンの一社提供は2006年9月24日放送分まで続いたが（番組の終了後には[イオンの](../Page/イオン_\(企業\).md "wikilink")[CMが](../Page/コマーシャルメッセージ.md "wikilink")[ヒッチハイクで流れていた](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")）、同年10月1日放送分をもって[MITSUBISHI MOTORSを筆頭とする複数社提供になり](../Page/三菱自動車工業.md "wikilink")、キンカンはこの枠から完全撤退することになった。
 
 途中、1998年4月から1999年9月まで『[土曜一番\!花やしき](../Page/土曜一番!花やしき.md "wikilink")』に吸収され、同番組内で放送されていたことがある（『花やしき』非ネット局では引き続き単独番組として放送）。この時期のみ、『花やしき』のスタジオにおいてメイン司会者とロケリポーターによるトークもありという構成になっていた。1999年10月に再び単独番組化した。
 
@@ -22,10 +22,10 @@
 ## 出演者
 
   - フジテレビアナウンサー - 2、3人が週替わりで出演。ナレーションも彼らが週替わりで担当していた。特に[奥寺健](../Page/奥寺健.md "wikilink")、[伊藤利尋](../Page/伊藤利尋.md "wikilink")が担当する機会が多かった。
-  - [Take2](https://ja.wikipedia.org/wiki/Take2 "wikilink") - [深沢邦之](https://ja.wikipedia.org/wiki/深沢邦之 "wikilink")と[東貴博](https://ja.wikipedia.org/wiki/東貴博 "wikilink")のいずれかが出演。
-  - [中村豪](https://ja.wikipedia.org/wiki/やるせなす "wikilink")（[やるせなす](https://ja.wikipedia.org/wiki/やるせなす "wikilink")）
+  - [Take2](../Page/Take2.md "wikilink") - [深沢邦之](../Page/深沢邦之.md "wikilink")と[東貴博](../Page/東貴博.md "wikilink")のいずれかが出演。
+  - [中村豪](../Page/やるせなす.md "wikilink")（[やるせなす](../Page/やるせなす.md "wikilink")）
   - [岡田圭右](../Page/岡田圭右.md "wikilink")（[ますだおかだ](../Page/ますだおかだ.md "wikilink")）
-  - [内海光司](https://ja.wikipedia.org/wiki/内海光司 "wikilink")
+  - [内海光司](../Page/内海光司.md "wikilink")
   - [山本淳一](../Page/山本淳一.md "wikilink")
 
 ## コーナー
@@ -42,7 +42,7 @@
 ### 途中まで実施していたコーナー
 
   - 晴れたら通信 - その回の出演者たちが旅を振り返るコーナー。
-  - 堺の車窓から - [堺正幸](../Page/堺正幸.md "wikilink")の担当コーナー。『[世界の車窓から](https://ja.wikipedia.org/wiki/世界の車窓から "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）のパロディ。
+  - 堺の車窓から - [堺正幸](../Page/堺正幸.md "wikilink")の担当コーナー。『[世界の車窓から](../Page/世界の車窓から.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）のパロディ。
   - 尚子の酒 - [田代尚子](https://ja.wikipedia.org/wiki/田代尚子 "wikilink")の担当コーナー。
   - 彩ゴハン - [高島彩](../Page/高島彩.md "wikilink")の担当コーナー。
   - 美奈子のeふぉま\! - [中野美奈子](../Page/中野美奈子.md "wikilink")の担当コーナー。
@@ -249,7 +249,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td></td>
 <td></td>

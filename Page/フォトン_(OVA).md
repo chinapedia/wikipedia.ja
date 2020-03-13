@@ -7,7 +7,7 @@
 
 本作は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月21日](../Page/11月21日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")にかけて発表された、全六巻からなる[OVA](../Page/OVA.md "wikilink")である。いつとも知れぬ砂漠の惑星上で、主人公フォトンとキーネのどたばたを描く。
 
-なお、本作発売前の[1996年](../Page/1996年.md "wikilink")2月から3月にかけて[KBS京都のラジオ番組](../Page/京都放送.md "wikilink")『[折笠愛のムーンライトカフェ](https://ja.wikipedia.org/wiki/折笠愛のムーンライトカフェ "wikilink")』内で[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")が放送されている。このラジオドラマは設定の細部が後に発売されるOVAとは異なっている他、配役も「フォトン・[石田彰](../Page/石田彰.md "wikilink")」「キーネ・[折笠愛](../Page/折笠愛.md "wikilink")」など、OVAとは全く別である。このラジオドラマはCD化されていない。
+なお、本作発売前の[1996年](../Page/1996年.md "wikilink")2月から3月にかけて[KBS京都のラジオ番組](../Page/京都放送.md "wikilink")『[折笠愛のムーンライトカフェ](https://ja.wikipedia.org/wiki/折笠愛のムーンライトカフェ "wikilink")』内で[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")が放送されている。このラジオドラマは設定の細部が後に発売されるOVAとは異なっている他、配役も「フォトン・[石田彰](../Page/石田彰.md "wikilink")」「キーネ・[折笠愛](../Page/折笠愛.md "wikilink")」など、OVAとは全く別である。このラジオドラマはCD化されていない。
 
 ## あらすじ
 
@@ -21,7 +21,7 @@
     声：[竹内順子](../Page/竹内順子.md "wikilink")
     本作の主人公である少年。無口で間抜けながらも義理堅い性格をしており、怪力を生かして窮地を脱してきた。
   - キーネ・アクア
-    声：[黒田由美](https://ja.wikipedia.org/wiki/市原由美 "wikilink")
+    声：[黒田由美](../Page/市原由美.md "wikilink")
     フォトンが出会った謎の少女で、のちにフォトンの妻となる。
     その正体は銀河結界炉にかかわる人物であり、700年前にフォトンらの惑星へと墜落した。
   - アウン・フレイヤ
@@ -66,7 +66,7 @@
   - 音楽 - [西岡治彦](https://ja.wikipedia.org/wiki/西岡治彦 "wikilink")
   - 音楽監督 - [田中一也](../Page/たなかかずや.md "wikilink")
   - プロデューサー - 島名光二、沢登昌樹、[井上博明](https://ja.wikipedia.org/wiki/井上博明 "wikilink")、長谷川康雄
-  - 制作 - [AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
+  - 制作 - [AIC](../Page/アニメインターナショナルカンパニー.md "wikilink")
   - 製作 - [キングレコード](../Page/キングレコード.md "wikilink")、[ムービック](../Page/ムービック.md "wikilink")
 
 ## 主題歌
@@ -140,7 +140,7 @@
 下司泰弘</p></td>
 <td><p>高橋しんや、渡辺浩二<br />
 松山光治、箕輪悟<br />
-北島信幸・泉明宏・<a href="https://ja.wikipedia.org/wiki/中澤一登" title="wikilink">中沢一登</a>（レイアウト）</p></td>
+北島信幸・泉明宏・<a href="../Page/中澤一登.md" title="wikilink">中沢一登</a>（レイアウト）</p></td>
 </tr>
 </tbody>
 </table>

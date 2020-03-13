@@ -11,7 +11,7 @@
 
 メキシコ、アメリカでの生活を長く経験してきたためか、他の日本のロックミュージシャンには持ち得ない希有な音楽的センスを持ち合わせている。ライブでは主に3ピース編成で、自身はエレキギター、アコースティックギター、ピアノを曲によって持ち替えながら歌うというスタイルを取っている。
 
-[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")（[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")）がソロプロジェクト制作のために募ったオーディションに応募し、シンセプログラマー、マニピュレーターとして キャリアをスタートさせる。 YOSHII LOVINSON名義で発売した1stアルバム「[at the black hole](https://ja.wikipedia.org/wiki/at_the_black_hole "wikilink")」、2ndアルバム「[WHITE ROOM](../Page/WHITE_ROOM_\(YOSHII_LOVINSONのアルバム\).md "wikilink")」に[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")、ギタリストとして参加。その後、一般企業に就職しサラリーマン生活を送っていたが、[菊地英昭](../Page/菊地英昭.md "wikilink")（[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")）から声がかかり即刻脱サラを決意し退職する。菊地英昭プロデュース[brainchild's](https://ja.wikipedia.org/wiki/brainchild's "wikilink")の1st シングル「Buster」にプログラミング、アレンジ、コーラスとして参加。2ndシングル「There」においては[featuring artist](https://ja.wikipedia.org/wiki/featuring_artist "wikilink") 螢汰としてメインボーカル、作詞を担当。
+[吉井和哉](../Page/吉井和哉.md "wikilink")（[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")）がソロプロジェクト制作のために募ったオーディションに応募し、シンセプログラマー、マニピュレーターとして キャリアをスタートさせる。 YOSHII LOVINSON名義で発売した1stアルバム「[at the black hole](https://ja.wikipedia.org/wiki/at_the_black_hole "wikilink")」、2ndアルバム「[WHITE ROOM](../Page/WHITE_ROOM_\(YOSHII_LOVINSONのアルバム\).md "wikilink")」に[プログラマー](https://ja.wikipedia.org/wiki/プログラマー "wikilink")、ギタリストとして参加。その後、一般企業に就職しサラリーマン生活を送っていたが、[菊地英昭](../Page/菊地英昭.md "wikilink")（[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")）から声がかかり即刻脱サラを決意し退職する。菊地英昭プロデュース[brainchild's](https://ja.wikipedia.org/wiki/brainchild's "wikilink")の1st シングル「Buster」にプログラミング、アレンジ、コーラスとして参加。2ndシングル「There」においては[featuring artist](https://ja.wikipedia.org/wiki/featuring_artist "wikilink") 螢汰としてメインボーカル、作詞を担当。
 
   - [2009年](../Page/2009年.md "wikilink")、brainchild'sの活動と平行し、ソロ活動をスタートさせる。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、アーティスト名をKeitaからKeita The Newestと改名。ライブ活動も積極的に行うようになる。
@@ -25,7 +25,7 @@
   - 2012年12月、下北沢440でKeita The Newestワンマンライブを敢行。
   - 2013年2月、brainchild'sのツアーメンバーとして全国6カ所での「TIPP13」ライブツアーを敢行。
   - 2013年4月、下北沢Club251でKeita The Newest3周年記念ワンマンライブを敢行。
-  - 2013年7月、[Shibuya O-EASTで行われたライブイベント](../Page/Shibuya_O-EAST.md "wikilink")「貴ちゃんナイト」にbrainchild'sメンバーとして[吉川晃司](https://ja.wikipedia.org/wiki/吉川晃司 "wikilink")、[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")らと共演する。
+  - 2013年7月、[Shibuya O-EASTで行われたライブイベント](../Page/Shibuya_O-EAST.md "wikilink")「貴ちゃんナイト」にbrainchild'sメンバーとして[吉川晃司](../Page/吉川晃司.md "wikilink")、[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")らと共演する。
   - 2014年5月 brainchild's 4thアルバム「4」の制作に参加、featuring artistとして2曲作詞、メインボーカルを努める。
   - 2014年11月、brainchild'sのメンバーとして、初の[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")での公演を含む全国9カ所を巡るアコースティックツアーを敢行。
   - 201５年３月、Keita The Newest初となるライブDVDをリリースする。
@@ -40,7 +40,7 @@
 
 （以下東芝EMIミュージックよりリリース）
 
-  - [YOSHII LOVINSON](https://ja.wikipedia.org/wiki/YOSHII_LOVINSON "wikilink") ([吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")/[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")）1stシングル「TALI」[マニピュレート](https://ja.wikipedia.org/wiki/マニピュレート "wikilink") （2003年）
+  - [YOSHII LOVINSON](https://ja.wikipedia.org/wiki/YOSHII_LOVINSON "wikilink") ([吉井和哉](../Page/吉井和哉.md "wikilink")/[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")）1stシングル「TALI」[マニピュレート](https://ja.wikipedia.org/wiki/マニピュレート "wikilink") （2003年）
   - YOSHII LOVINSON 3rdシングル「[トブヨウニ](https://ja.wikipedia.org/wiki/トブヨウニ "wikilink")」プログラミング、ギター（2004年）
   - YOSHII LOVINSON 4thシングル「[CALL ME](https://ja.wikipedia.org/wiki/CALL_ME "wikilink")」プログラミング（2005年）
   - YOSHII LOVINSON 1stアルバム「[at the black hole](https://ja.wikipedia.org/wiki/at_the_black_hole "wikilink")」キーボード（2004年）

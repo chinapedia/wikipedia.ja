@@ -1,7 +1,7 @@
 > この記事は[Girl is Girl by nicola](https://ja.wikipedia.org/wiki/Girl_is_Girl_by_nicola)から翻訳されています。
 
 
-**Girl is Girl by nicola**（ガールイズガール バイニコラ） は女子小中学生向け[セレクトショップ](https://ja.wikipedia.org/wiki/セレクトショップ "wikilink")で通称「ニコラショップ」。また同店で主に販売される[ファッション](../Page/ファッション.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")。
+**Girl is Girl by nicola**（ガールイズガール バイニコラ） は女子小中学生向け[セレクトショップ](../Page/セレクトショップ.md "wikilink")で通称「ニコラショップ」。また同店で主に販売される[ファッション](../Page/ファッション.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")。
 
 [2002年](../Page/2002年.md "wikilink")、[伊藤忠商事](https://ja.wikipedia.org/wiki/伊藤忠商事 "wikilink")と[新潮社](../Page/新潮社.md "wikilink")の提携により、新潮社の女子小中学生向けファッション誌『[ニコラ](https://ja.wikipedia.org/wiki/ニコラ_\(雑誌\) "wikilink")』読者層を対象にしたセレクトショップとして[原宿](../Page/原宿.md "wikilink")に一号店を開店。
 

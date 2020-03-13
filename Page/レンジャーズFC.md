@@ -9,13 +9,13 @@
 
 1872年3月に創立された歴史の古いクラブであり、[スコティッシュ・フットボールリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ "wikilink")に最初から参加した11クラブのうちの一つである\[2\]。リーグ戦では、1988-89シーズンから1996-97シーズンまでの9連覇を含む54回の優勝回数を誇り、他クラブの追随を許さない。
 
-同じグラスゴーを本拠地とする[セルティックとは長年ライバル関係にあり](https://ja.wikipedia.org/wiki/セルティックFC "wikilink")、両クラブの試合は[オールドファーム](https://ja.wikipedia.org/wiki/オールドファーム "wikilink")」と呼ばれ、世界的に有名な[ダービーマッチ](../Page/ダービーマッチ.md "wikilink")として凄まじい熱狂で迎えられる\[3\]\[4\]。レンジャーズFCは16世紀のスコットランドで起こった宗教改革によって多数派となった[長老派](https://ja.wikipedia.org/wiki/長老派 "wikilink")（プロテスタント系）の支持が多い。[北アイルランド](../Page/北アイルランド.md "wikilink")の[プロテスタント](../Page/プロテスタント.md "wikilink")も、主に17～18世紀スコットランドやイングランドから移住したプロテスタントの子孫なので、レンジャーズのファンを形成する。一方、セルティックFCは[カトリック系で](https://ja.wikipedia.org/wiki/カトリック教会 "wikilink")19世紀にアイルランドから飢饉を逃れ渡ってきたアイルランド移民の子孫の支持が多い。また、同じ背景を持つ[アイルランド](../Page/アイルランド.md "wikilink")や[北アイルランド](../Page/北アイルランド.md "wikilink")にも根強い人気を誇る。
+同じグラスゴーを本拠地とする[セルティックとは長年ライバル関係にあり](../Page/セルティックFC.md "wikilink")、両クラブの試合は[オールドファーム](https://ja.wikipedia.org/wiki/オールドファーム "wikilink")」と呼ばれ、世界的に有名な[ダービーマッチ](../Page/ダービーマッチ.md "wikilink")として凄まじい熱狂で迎えられる\[3\]\[4\]。レンジャーズFCは16世紀のスコットランドで起こった宗教改革によって多数派となった[長老派](https://ja.wikipedia.org/wiki/長老派 "wikilink")（プロテスタント系）の支持が多い。[北アイルランド](../Page/北アイルランド.md "wikilink")の[プロテスタント](../Page/プロテスタント.md "wikilink")も、主に17～18世紀スコットランドやイングランドから移住したプロテスタントの子孫なので、レンジャーズのファンを形成する。一方、セルティックFCは[カトリック系で](../Page/カトリック教会.md "wikilink")19世紀にアイルランドから飢饉を逃れ渡ってきたアイルランド移民の子孫の支持が多い。また、同じ背景を持つ[アイルランド](../Page/アイルランド.md "wikilink")や[北アイルランド](../Page/北アイルランド.md "wikilink")にも根強い人気を誇る。
 
 レンジャーズFCとセルティックFCの関係は宗教的なもののみならず、英国連合の政治的、民族的な関係をも含む複雑な背景があり、オールドファームでは[ユニオンジャック](https://ja.wikipedia.org/wiki/ユニオンジャック "wikilink")を掲げるレンジャーズサポーターやアイルランド国旗を掲げるセルティックサポーターの姿も多く見られる。
 
 2012年2月14日、会社更生法の適用申請を行い、クラブの経営権が管財人の手に渡った\[5\]。この時点では大口債権者に対して4900万ポンド（約58億8000万円）の負債を抱えており、裁判の結果次第では7500万ポンドまで膨らむ可能性があった\[6\]。この破産により、リーグ規定で勝ち点10を剥奪されたほか、新戦力の獲得や登録に制限を課される可能性が生じた\[7\]。同年7月、リーグ所属クラブによる投票によって4部に相当するスコティッシュ・フットボールリーグ3部への所属が決定した\[8\]。その後、2012-13シーズンからの4年間で3度の昇格を果たし、2016-17シーズンからトップリーグのプレミアシップに復帰を果たした。
 
-2018年5月4日、元[リヴァプールおよび](../Page/リヴァプールFC.md "wikilink")[イングランド代表キャプテンの](../Page/サッカーイングランド代表.md "wikilink")[スティーヴン・ジェラード](https://ja.wikipedia.org/wiki/スティーヴン・ジェラード "wikilink")が4年契約で監督に就任した\[9\]。
+2018年5月4日、元[リヴァプールおよび](../Page/リヴァプールFC.md "wikilink")[イングランド代表キャプテンの](../Page/サッカーイングランド代表.md "wikilink")[スティーヴン・ジェラード](../Page/スティーヴン・ジェラード.md "wikilink")が4年契約で監督に就任した\[9\]。
 
 ## タイトル
 
@@ -430,7 +430,7 @@
 
 </div>
 
-([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))    ([第2主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))
+([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))    ([第2主将](../Page/主将.md "wikilink"))
 
 ### ローン移籍
 
@@ -603,7 +603,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/グレアム・スーネス" title="wikilink">グレアム・スーネス</a></p></td>
+<td><p><a href="../Page/グレアム・スーネス.md" title="wikilink">グレアム・スーネス</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -629,7 +629,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ディック・アドフォカート" title="wikilink">ディック・アドフォカート</a></p></td>
+<td><p><a href="../Page/ディック・アドフォカート.md" title="wikilink">ディック・アドフォカート</a></p></td>
 <td></td>
 <td><p>[10]</p></td>
 <td></td>
@@ -798,7 +798,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーヴン・ジェラード" title="wikilink">スティーヴン・ジェラード</a></p></td>
+<td><p><a href="../Page/スティーヴン・ジェラード.md" title="wikilink">スティーヴン・ジェラード</a></p></td>
 <td><p>[34]</p></td>
 <td></td>
 <td></td>
@@ -841,13 +841,13 @@
 
   - [バジール・ボリ](../Page/バジール・ボリ.md "wikilink") 1994-1995
 
-  - [ジェンナーロ・ガットゥーゾ](https://ja.wikipedia.org/wiki/ジェンナーロ・ガットゥーゾ "wikilink") 1997-1999
+  - [ジェンナーロ・ガットゥーゾ](../Page/ジェンナーロ・ガットゥーゾ.md "wikilink") 1997-1999
 
   - [ロレンツォ・アモルーゾ](https://ja.wikipedia.org/wiki/ロレンツォ・アモルーゾ "wikilink") 1997-2003
 
   - [コリン・ヘンドリー](https://ja.wikipedia.org/wiki/コリン・ヘンドリー "wikilink") 1998-2000
 
-  - [ジョバンニ・ファン・ブロンクホルスト](https://ja.wikipedia.org/wiki/ジョバンニ・ファン・ブロンクホルスト "wikilink") 1998-2001
+  - [ジョバンニ・ファン・ブロンクホルスト](../Page/ジョバンニ・ファン・ブロンクホルスト.md "wikilink") 1998-2001
 
   - [アーサー・ニューマン](https://ja.wikipedia.org/wiki/アーサー・ニューマン "wikilink") 1998-2003
 
@@ -861,7 +861,7 @@
 
   - [ヘニング・ベルグ](../Page/ヘニング・ベルグ.md "wikilink") 2003-2004
 
-  - [フランク・デ・ブール](https://ja.wikipedia.org/wiki/フランク・デ・ブール "wikilink") 2003-2004
+  - [フランク・デ・ブール](../Page/フランク・デ・ブール.md "wikilink") 2003-2004
 
   - [ズラブ・ヒザニシヴィリ](../Page/ズラブ・ヒザニシヴィリ.md "wikilink") 2003-2006
 
@@ -877,7 +877,7 @@
 
   - [イアン・デュラン](https://ja.wikipedia.org/wiki/イアン・デュラン "wikilink") 1984-1998
 
-  - [グレアム・スーネス](https://ja.wikipedia.org/wiki/グレアム・スーネス "wikilink") 1986-1991
+  - [グレアム・スーネス](../Page/グレアム・スーネス.md "wikilink") 1986-1991
 
   - [イアン・ファーガソン](https://ja.wikipedia.org/wiki/イアン・ファーガソン "wikilink") 1988-2000
 
@@ -887,7 +887,7 @@
 
   - [バリー・ファーガソン](../Page/バリー・ファーガソン.md "wikilink") 1994-2003, 2005-2009
 
-  - [ポール・ガスコイン](https://ja.wikipedia.org/wiki/ポール・ガスコイン "wikilink") 1995-1998
+  - [ポール・ガスコイン](../Page/ポール・ガスコイン.md "wikilink") 1995-1998
 
   - [ヨルグ・アルベルツ](https://ja.wikipedia.org/wiki/ヨルグ・アルベルツ "wikilink") 1996-2001
 
@@ -895,7 +895,7 @@
 
   - [クラウディオ・レイナ](../Page/クラウディオ・レイナ.md "wikilink") 1999-2001
 
-  - [ロナルド・デ・ブール](https://ja.wikipedia.org/wiki/ロナルド・デ・ブール "wikilink") 2000-2004
+  - [ロナルド・デ・ブール](../Page/ロナルド・デ・ブール.md "wikilink") 2000-2004
 
   - [クリスティアン・ネルリンガー](../Page/クリスティアン・ネルリンガー.md "wikilink") 2001-2004
 
@@ -925,7 +925,7 @@
 
 ### FW
 
-  - [アレックス・ファーガソン](https://ja.wikipedia.org/wiki/アレックス・ファーガソン "wikilink") 1967-1969
+  - [アレックス・ファーガソン](../Page/アレックス・ファーガソン.md "wikilink") 1967-1969
 
   - [アリー・マッコイスト](https://ja.wikipedia.org/wiki/アリー・マッコイスト "wikilink") 1983-1998
 
@@ -937,9 +937,9 @@
 
   - [ゴードン・デューリー](https://ja.wikipedia.org/wiki/ゴードン・デューリー "wikilink") 1993-2000
 
-  - [ブライアン・ラウドルップ](https://ja.wikipedia.org/wiki/ブライアン・ラウドルップ "wikilink") 1994-1998
+  - [ブライアン・ラウドルップ](../Page/ブライアン・ラウドルップ.md "wikilink") 1994-1998
 
-  - [オレグ・サレンコ](https://ja.wikipedia.org/wiki/オレグ・サレンコ "wikilink") 1995
+  - [オレグ・サレンコ](../Page/オレグ・サレンコ.md "wikilink") 1995
 
   - [ロッド・ワレス](https://ja.wikipedia.org/wiki/ロッド・ワレス "wikilink") 1998-2001
 

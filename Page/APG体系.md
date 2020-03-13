@@ -27,7 +27,7 @@ APG分類体系の初版（[書誌](https://ja.wikipedia.org/wiki/#APG_I_bibliog
 
 第2版（APG II 2003 または APG II と表記する。[書誌](https://ja.wikipedia.org/wiki/#APG_II_bibliography "wikilink")）は2003年に公表された。主要な変更点は以下の2点である：
 
-  - 初版で分類未確定とされていた多くの[タクソン](https://ja.wikipedia.org/wiki/タクソン "wikilink")を分類した。
+  - 初版で分類未確定とされていた多くの[タクソン](../Page/タクソン.md "wikilink")を分類した。
   - 一部の分類群については、大きな科にまとめても、あるいはより細かい科に分類してもよいとした。
 
 ### APG III

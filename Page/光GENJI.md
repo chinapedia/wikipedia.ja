@@ -1,7 +1,7 @@
 > この記事は[GENJI](https://ja.wikipedia.org/wiki/GENJI)から翻訳されています。
 
 
-**光GENJI**（ひかるゲンジ）は、[1980年代](../Page/1980年代.md "wikilink")終盤から[1990年代](../Page/1990年代.md "wikilink")前半に活動していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である\[1\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からデビューし\[2\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。[内海光司](https://ja.wikipedia.org/wiki/内海光司 "wikilink")、[大沢樹生](https://ja.wikipedia.org/wiki/大沢樹生 "wikilink")、[諸星和己](https://ja.wikipedia.org/wiki/諸星和己 "wikilink")、[佐藤寛之](../Page/佐藤寛之.md "wikilink")、[山本淳一](../Page/山本淳一.md "wikilink")、[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、[佐藤敦啓からなる](https://ja.wikipedia.org/wiki/佐藤アツヒロ "wikilink")7人編成の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")で、メディア等では「最後のスーパーアイドル」などと称されている。
+**光GENJI**（ひかるゲンジ）は、[1980年代](../Page/1980年代.md "wikilink")終盤から[1990年代](../Page/1990年代.md "wikilink")前半に活動していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である\[1\]。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")からデビューし\[2\]、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に解散した。[内海光司](../Page/内海光司.md "wikilink")、[大沢樹生](../Page/大沢樹生.md "wikilink")、[諸星和己](../Page/諸星和己.md "wikilink")、[佐藤寛之](../Page/佐藤寛之.md "wikilink")、[山本淳一](../Page/山本淳一.md "wikilink")、[赤坂晃](https://ja.wikipedia.org/wiki/赤坂晃 "wikilink")、[佐藤敦啓からなる](../Page/佐藤アツヒロ.md "wikilink")7人編成の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")で、メディア等では「最後のスーパーアイドル」などと称されている。
 
 ## メンバー
 
@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/内海光司" title="wikilink">内海光司</a></strong><br />
+<td><p><strong><a href="../Page/内海光司.md" title="wikilink">内海光司</a></strong><br />
 <small>（うちうみ こうじ[5]）</small></p></td>
 <td><p>[6]、<a href="https://ja.wikipedia.org/wiki/ABO式血液型#A型の亜種" title="wikilink">A型</a>[7]、<br />
 <a href="../Page/東京都.md" title="wikilink">東京都</a>出身[8]</p></td>
@@ -26,7 +26,7 @@
 <td><p>ジャニーズ事務所[9]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/大沢樹生" title="wikilink">大沢樹生</a></strong><br />
+<td><p><strong><a href="../Page/大沢樹生.md" title="wikilink">大沢樹生</a></strong><br />
 <small>（おおさわ みきお[10]）</small></p></td>
 <td><p>[11]、<a href="https://ja.wikipedia.org/wiki/ABO式血液型#A型の亜種" title="wikilink">A型</a>[12]、<br />
 <a href="../Page/東京都.md" title="wikilink">東京都</a>出身[13]</p></td>
@@ -47,7 +47,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/諸星和己" title="wikilink">諸星和己</a></strong><br />
+<td><p><strong><a href="../Page/諸星和己.md" title="wikilink">諸星和己</a></strong><br />
 <small>（もろほし かずみ[16]）</small></p></td>
 <td><p>[17]、<a href="https://ja.wikipedia.org/wiki/ABO式血液型#A型の亜種" title="wikilink">A型</a>[18]、<br />
 <a href="../Page/静岡県.md" title="wikilink">静岡県</a>出身[19]</p></td>
@@ -81,7 +81,7 @@ AKIRA &amp; KOHJI</p></td>
 <td><p>GOLD STAR[36]</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/佐藤アツヒロ" title="wikilink">佐藤敦啓</a></strong><br />
+<td><p><strong><a href="../Page/佐藤アツヒロ.md" title="wikilink">佐藤敦啓</a></strong><br />
 <small>（さとう あつひろ[37]）</small></p></td>
 <td><p>[38]、<a href="https://ja.wikipedia.org/wiki/ABO式血液型#A型の亜種" title="wikilink">A型</a>[39]、<br />
 <a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a>出身[40]</p></td>
@@ -142,9 +142,9 @@ AKIRA &amp; KOHJI</p></td>
 
 ### 労働基準法
 
-デビュー当初、赤坂晃と佐藤敦啓は[労働基準法](../Page/労働基準法.md "wikilink")（第61条）により、原則夜8時以降〜翌朝5時までの生出演ができないとされていて、当初は「歌の部分のみ事前収録する」「メンバー5人が歌っている生映像に出演できない2人のVTRを合成する」「当時バックで踊っていた[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[中居](../Page/中居正広.md "wikilink")・[木村が代わりに入る](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")」等の工夫をしていたが、当時出演していた『ザ・ベストテン』や『歌のトップテン』などの生放送番組に時々メンバー全員で出演したときもあり、夜8時以降に出演したり出演しなかったりという状況が続いていた（労働基準法に関しては、[伊藤つかさ](../Page/伊藤つかさ.md "wikilink")が『ザ・ベストテン』にランクインした際、番組側の自主規制により生出演できなかったというエピソードがある）。
+デビュー当初、赤坂晃と佐藤敦啓は[労働基準法](../Page/労働基準法.md "wikilink")（第61条）により、原則夜8時以降〜翌朝5時までの生出演ができないとされていて、当初は「歌の部分のみ事前収録する」「メンバー5人が歌っている生映像に出演できない2人のVTRを合成する」「当時バックで踊っていた[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[中居](../Page/中居正広.md "wikilink")・[木村が代わりに入る](../Page/木村拓哉.md "wikilink")」等の工夫をしていたが、当時出演していた『ザ・ベストテン』や『歌のトップテン』などの生放送番組に時々メンバー全員で出演したときもあり、夜8時以降に出演したり出演しなかったりという状況が続いていた（労働基準法に関しては、[伊藤つかさ](../Page/伊藤つかさ.md "wikilink")が『ザ・ベストテン』にランクインした際、番組側の自主規制により生出演できなかったというエピソードがある）。
 
-この状況に関して、当時14歳のメンバーが[深夜](../Page/深夜.md "wikilink")の歌番組に出演した疑いで管轄する[労働基準監督署](https://ja.wikipedia.org/wiki/労働基準監督署 "wikilink")が[1988年](../Page/1988年.md "wikilink")[6月](../Page/6月.md "wikilink")に事務所へ調査に入った際、「報酬面」「税法上の取り扱い」「事業所所得として課税されている」などの実態を確認して考察した結果\[63\]、メンバーは「[労働者とは認められない](https://ja.wikipedia.org/wiki/労働#労働者 "wikilink")」（=労働基準法は適用されない）という判断を下した\[64\]。さらに光GENJIの出演に関する諮問があって[国会](https://ja.wikipedia.org/wiki/国会 "wikilink")や関係機関で議論が行われ、[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")において一定の条件（他人によって代替できない、“人気”等当人の個性が重要な要素となっている、契約形態が[雇用](../Page/雇用.md "wikilink")契約でない、など）を満たした者は「表現者」とみなし労働基準法を適用しない（端的には「**人気の無い者**は労働者とみなす」）という結論になり、[1988年](../Page/1988年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")に[通達](../Page/通達.md "wikilink")（いわゆる「[芸能タレント通達](https://ja.wikipedia.org/wiki/芸能タレント通達 "wikilink")」「光GENJI通達」[昭和63年](../Page/1988年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")、基収355号）\[65\]が出され、それ以降は夜9時以降であっても、メンバー全員で出演することが多くなった。
+この状況に関して、当時14歳のメンバーが[深夜](../Page/深夜.md "wikilink")の歌番組に出演した疑いで管轄する[労働基準監督署](../Page/労働基準監督署.md "wikilink")が[1988年](../Page/1988年.md "wikilink")[6月](../Page/6月.md "wikilink")に事務所へ調査に入った際、「報酬面」「税法上の取り扱い」「事業所所得として課税されている」などの実態を確認して考察した結果\[63\]、メンバーは「[労働者とは認められない](https://ja.wikipedia.org/wiki/労働#労働者 "wikilink")」（=労働基準法は適用されない）という判断を下した\[64\]。さらに光GENJIの出演に関する諮問があって[国会](https://ja.wikipedia.org/wiki/国会 "wikilink")や関係機関で議論が行われ、[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")において一定の条件（他人によって代替できない、“人気”等当人の個性が重要な要素となっている、契約形態が[雇用](../Page/雇用.md "wikilink")契約でない、など）を満たした者は「表現者」とみなし労働基準法を適用しない（端的には「**人気の無い者**は労働者とみなす」）という結論になり、[1988年](../Page/1988年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")に[通達](../Page/通達.md "wikilink")（いわゆる「[芸能タレント通達](https://ja.wikipedia.org/wiki/芸能タレント通達 "wikilink")」「光GENJI通達」[昭和63年](../Page/1988年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink")、基収355号）\[65\]が出され、それ以降は夜9時以降であっても、メンバー全員で出演することが多くなった。
 
 ## ディスコグラフィ
 
@@ -869,7 +869,7 @@ Disc3　過去のリリース楽曲からのベストセレクション。メン
 </dd>
 <dd>M-3 RUN RUN 乱太郎（<a href="../Page/SAY・S.md" title="wikilink">SAY・S</a>）
 </dd>
-<dd>M-7 もっとでっかくNo.1（<a href="https://ja.wikipedia.org/wiki/諸星和己" title="wikilink">諸星和己</a>）※
+<dd>M-7 もっとでっかくNo.1（<a href="../Page/諸星和己.md" title="wikilink">諸星和己</a>）※
 </dd>
 <dd>M-9 微笑をあずけて（光GENJI）
 </dd>
@@ -1092,9 +1092,9 @@ Disc3　過去のリリース楽曲からのベストセレクション。メン
       - [あぶない少年III](../Page/あぶない少年III.md "wikilink")（1988年10月12日〜1989年3月29日） - 赤坂晃・佐藤敦啓
   - [ワイルドで行こう\! BORN TO BE WILD](../Page/ワイルドで行こう!_BORN_TO_BE_WILD.md "wikilink") （1988年10月17日〜1989年3 月20日、フジテレビ） - 内海・大沢
   - [HOTEL](../Page/HOTEL.md "wikilink")（TBS） - 赤坂
-  - [想い出にかわるまで](https://ja.wikipedia.org/wiki/想い出にかわるまで "wikilink")（TBS） - 大沢
+  - [想い出にかわるまで](../Page/想い出にかわるまで.md "wikilink")（TBS） - 大沢
   - 若さま侍捕物帖（テレビ朝日） - 内海・佐藤敦啓
-  - [名奉行 遠山の金さん](https://ja.wikipedia.org/wiki/名奉行_遠山の金さん "wikilink")（テレビ朝日） - 内海
+  - [名奉行 遠山の金さん](../Page/名奉行_遠山の金さん.md "wikilink")（テレビ朝日） - 内海
   - [素敵な人\!](https://ja.wikipedia.org/wiki/素敵な人! "wikilink") （テレビ朝日） - 佐藤寛之
   - [アンバランス](https://ja.wikipedia.org/wiki/アンバランス_（ネオドラマ） "wikilink")（テレビ朝日） - 大沢
 
@@ -1106,7 +1106,7 @@ Disc3　過去のリリース楽曲からのベストセレクション。メン
 
   - 「火曜ロードショー特別企画 光GENJIドラマスペシャル」[スターライト・キッズ 新・北斗七星伝説](../Page/スターライト・キッズ.md "wikilink")（1988年10月11日、TBS） - メンバー主演
   - [源義経](../Page/源義経_\(1990年のテレビドラマ\).md "wikilink") （1990年1月1日、TBS） - 内海・大沢・諸星
-  - [天と地と](https://ja.wikipedia.org/wiki/天と地と "wikilink")〜黎明編 （1990年4月20日、日本テレビ） - 大沢
+  - [天と地と](../Page/天と地と.md "wikilink")〜黎明編 （1990年4月20日、日本テレビ） - 大沢
   - [評論\! 家族](https://ja.wikipedia.org/wiki/評論!_家族 "wikilink") （1990年7月22日、TBS） - 赤坂
   - [ダンナ様は18歳](https://ja.wikipedia.org/wiki/だんなさまは18歳#単発ドラマ版 "wikilink") （1990年8月4日、TBS） - 諸星
   - [世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")（フジテレビ）
@@ -1137,17 +1137,17 @@ Disc3　過去のリリース楽曲からのベストセレクション。メン
 
 | 年度/放送回                                                  | 曲目                                            | 対戦相手                                                       |
 | ------------------------------------------------------- | --------------------------------------------- | ---------------------------------------------------------- |
-| 1988年（昭和63年）/[第39回](../Page/第39回NHK紅白歌合戦.md "wikilink") | 光GENJI '88メドレーガラスの十代〜パラダイス銀河〜Diamondハリケーン〜剣の舞 | [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")      |
+| 1988年（昭和63年）/[第39回](../Page/第39回NHK紅白歌合戦.md "wikilink") | 光GENJI '88メドレーガラスの十代〜パラダイス銀河〜Diamondハリケーン〜剣の舞 | [中山美穂](../Page/中山美穂.md "wikilink")                         |
 | 1989年（平成元年）/[第40回](../Page/第40回NHK紅白歌合戦.md "wikilink")  | 太陽がいっぱい                                       | [Wink](../Page/Wink.md "wikilink")                         |
 | 1990年（平成2年）/[第41回](../Page/第41回NHK紅白歌合戦.md "wikilink")  | CO CO RO                                      | [DREAMS COME TRUE](../Page/DREAMS_COME_TRUE.md "wikilink") |
 | 1991年（平成3年）/[第42回](../Page/第42回NHK紅白歌合戦.md "wikilink")  | WINNING RUN                                   |                                                            |
-| 1992年（平成4年）/[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink")  | リラの咲くころバルセロナへ                                 | [Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")    |
+| 1992年（平成4年）/[第43回](../Page/第43回NHK紅白歌合戦.md "wikilink")  | リラの咲くころバルセロナへ                                 | [Mi-Ke](../Page/Mi-Ke.md "wikilink")                       |
 | 1993年（平成5年）/[第44回](../Page/第44回NHK紅白歌合戦.md "wikilink")  | 勇気100％                                        | [長山洋子](../Page/長山洋子.md "wikilink")                         |
 |                                                         |                                               |                                                            |
 
 ## 受賞歴
 
-  - 1987年　第25回[ゴールデン・アロー賞](https://ja.wikipedia.org/wiki/ゴールデン・アロー賞 "wikilink")・最優秀新人賞
+  - 1987年　第25回[ゴールデン・アロー賞](../Page/ゴールデン・アロー賞.md "wikilink")・最優秀新人賞
   - 1988年　第26回[ゴールデンアロー賞](https://ja.wikipedia.org/wiki/ゴールデンアロー賞 "wikilink")・話題賞
   - 1988年　第2回[ゴールドディスク大賞](https://ja.wikipedia.org/wiki/ゴールドディスク大賞 "wikilink")・The Grand Prix New Artist of the Year
   - 1988年　第2回[ゴールドディスク大賞](https://ja.wikipedia.org/wiki/ゴールドディスク大賞 "wikilink")・The Best New Artist of the Year
@@ -1175,7 +1175,7 @@ Disc3　過去のリリース楽曲からのベストセレクション。メン
   - [光源氏](../Page/光源氏.md "wikilink")
   - [SAY・S](../Page/SAY・S.md "wikilink")
   - [少年御三家](https://ja.wikipedia.org/wiki/少年御三家 "wikilink")
-  - [近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")
+  - [近藤真彦](../Page/近藤真彦.md "wikilink")
   - [少年隊](../Page/少年隊.md "wikilink")
       - [男闘呼組](../Page/男闘呼組.md "wikilink")
       - [忍者](../Page/忍者_\(グループ\).md "wikilink")
@@ -1252,7 +1252,7 @@ Disc3　過去のリリース楽曲からのベストセレクション。メン
 57.
 58.
 59. 明星編集部編／橋本治解題『「明星」50年 601枚の表紙』集英社新書 2002年。
-60. 月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink") 1988年4月号特集「ラジオ界面白大百科事典 これがラジオのNo.1」（46ページ）
+60. 月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1988年4月号特集「ラジオ界面白大百科事典 これがラジオのNo.1」（46ページ）
 61. 月刊ラジオパラダイス 1988年9月号特集「ラジパラタイムス」（68ページ）
 62. [2007年度 JASRAC寄附講座 音楽・文化産業論Ⅱ](http://www.ritsumei.ac.jp/acd/cg/ss/07jasrac/kouki/12/kouki12.htm)
 63. [第147回国会 青少年問題に関する特別委員会 第5号 平成十二年四月十三日（木曜日）](http://www.shugiin.go.jp/itdb_kaigiroku.nsf/html/kaigiroku/007314720000413005.htm) [衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")会議録 2000年4月13日

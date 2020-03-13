@@ -44,7 +44,7 @@
       - 小島希里訳 岩波少年文庫 1990年
   - 1979年 『影―小さな5つの話』（原題：*Throwing Shadows*）;1999年のフェニックス賞受賞作
   - 1982年 『800番への旅』（原題：*Journey to an 800 Number*）
-      - [岡本浜江訳](https://ja.wikipedia.org/wiki/岡本濱江 "wikilink") [小野かおる](https://ja.wikipedia.org/wiki/小野かおる "wikilink")絵 佑学社 1987年
+      - [岡本浜江訳](https://ja.wikipedia.org/wiki/岡本濱江 "wikilink") [小野かおる](../Page/小野かおる.md "wikilink")絵 佑学社 1987年
       - 小島希里訳 岩波少年文庫 2000年
       - [金原瑞人](../Page/金原瑞人.md "wikilink"),小島希里訳 岩波少年文庫 2005年
   - 1986年 『エリコの丘から』（原題：*Up from Jericho Tel*）

@@ -34,7 +34,7 @@
 
   - [園田雅之](https://ja.wikipedia.org/wiki/園田雅之 "wikilink")
   - [金井陽子](https://ja.wikipedia.org/wiki/金井陽子 "wikilink")
-  - [小笠原正典](https://ja.wikipedia.org/wiki/小笠原正典 "wikilink")
+  - [小笠原正典](../Page/小笠原正典.md "wikilink")
   - [吉本いく子](https://ja.wikipedia.org/wiki/吉本いく子 "wikilink")
   - [阿部洋樹](https://ja.wikipedia.org/wiki/阿部洋樹 "wikilink")
   - [杉村幸子](https://ja.wikipedia.org/wiki/杉村幸子 "wikilink")
@@ -111,8 +111,8 @@
 
 ## 関連項目
 
-  - [TOSニュース](https://ja.wikipedia.org/wiki/TOSニュース "wikilink")
-  - [テレビ大分番組一覧](https://ja.wikipedia.org/wiki/テレビ大分番組一覧 "wikilink")
+  - [TOSニュース](../Page/TOSニュース.md "wikilink")
+  - [テレビ大分番組一覧](../Page/テレビ大分番組一覧.md "wikilink")
   - FNNスーパーニュース
   - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")
 

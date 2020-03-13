@@ -50,7 +50,7 @@
 <td><p><strong><a href="../Page/どんな時でもHold_Me_Tight.md" title="wikilink">どんな時でもHold Me Tight</a></strong></p></td>
 <td><p>作詞：山田恭二<br />
 作曲：<a href="../Page/有馬ゆみこ.md" title="wikilink">瀬木祐未子</a><br />
-編曲：<a href="https://ja.wikipedia.org/wiki/明石昌夫" title="wikilink">明石昌夫</a></p></td>
+編曲：<a href="../Page/明石昌夫.md" title="wikilink">明石昌夫</a></p></td>
 <td><p>81位</p></td>
 <td><p><a href="../Page/BAAD_(アルバム).md" title="wikilink">BAAD</a></p></td>
 </tr>
@@ -59,7 +59,7 @@
 <td><p><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/5月26日.md" title="wikilink">5月26日</a></p></td>
 <td><p>'''<a href="../Page/愛したい愛せない.md" title="wikilink">愛したい愛せない</a></p></td>
 <td><p>作詞：山田恭二<br />
-作曲：<a href="https://ja.wikipedia.org/wiki/羽田一郎" title="wikilink">羽田一郎</a><br />
+作曲：<a href="../Page/羽田一郎.md" title="wikilink">羽田一郎</a><br />
 編曲：<a href="../Page/葉山たけし.md" title="wikilink">葉山たけし</a></p></td>
 <td><p>23位</p></td>
 <td></td>
@@ -79,7 +79,7 @@
 <td><p><a href="../Page/1994年.md" title="wikilink">1994年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
 <td><p><strong><a href="../Page/抱きしめたいもう一度.md" title="wikilink">抱きしめたいもう一度</a></strong></p></td>
 <td><p>作詞：山田恭二<br />
-作曲：<a href="https://ja.wikipedia.org/wiki/川島だりあ" title="wikilink">川島だりあ</a><br />
+作曲：<a href="../Page/川島だりあ.md" title="wikilink">川島だりあ</a><br />
 編曲：明石昌夫</p></td>
 <td><p>50位</p></td>
 <td><p><a href="../Page/GET_BACK_TOGETHER.md" title="wikilink">GET BACK TOGETHER</a>　</p></td>
@@ -114,7 +114,7 @@
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/胸に抱いて忘れない" title="wikilink">胸に抱いて忘れない</a></strong></p></td>
 <td><p>作詞：早川悠<br />
 作曲：大田紳一郎<br />
@@ -145,7 +145,7 @@
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/8月5日.md" title="wikilink">8月5日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/発明BOYカニパン" title="wikilink">恋してはじめて知った君</a></strong></p></td>
+<td><p><strong><a href="../Page/発明BOYカニパン.md" title="wikilink">恋してはじめて知った君</a></strong></p></td>
 <td><p>作詞：BAAD<br />
 作曲：大田紳一郎<br />
 編曲：T. SAITO・BAAD</p></td>

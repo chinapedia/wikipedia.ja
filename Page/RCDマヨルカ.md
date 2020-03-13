@@ -1,19 +1,19 @@
 > この記事は[RCD](https://ja.wikipedia.org/wiki/RCD)から翻訳されています。
 
 
-**レアル・クルブ・デポルティーボ・マヨルカSAD** [S.A.D.](https://ja.wikipedia.org/wiki/ソシエダ・アノニマ・デポルティーバ "wikilink")（, , , ）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")州[パルマ・デ・マヨルカ](../Page/パルマ・デ・マヨルカ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")に本拠地を置くサッカークラブの中でもっとも歴史が古い。2019-20シーズンは[ラ・リーガ](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")（1部）に所属。RCDマジョルカと表記されることもある。
+**レアル・クルブ・デポルティーボ・マヨルカSAD** [S.A.D.](https://ja.wikipedia.org/wiki/ソシエダ・アノニマ・デポルティーバ "wikilink")（, , , ）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")州[パルマ・デ・マヨルカ](../Page/パルマ・デ・マヨルカ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")に本拠地を置くサッカークラブの中でもっとも歴史が古い。2019-20シーズンは[ラ・リーガ](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属。RCDマジョルカと表記されることもある。
 
 ## 歴史
 
-その歴史は[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")のサッカークラブで最も古く、1916年にエンジニアのアドルフォ・バスケスによって設立された。最初期に使用したスタジアムはブエノス・アイレス(Buenos Aires)と呼ばれ、同年3月25日に[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")との間で行われた落成試合は0-8で敗れた。1931年に[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")に初参戦し、[テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（当時3部）でプレーした。1945年9月22日には新スタジアムの[エス・フォルティが落成した](https://ja.wikipedia.org/wiki/エスタディオ・リュイス・ストハル "wikilink")。1959年には[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）に初昇格し、1年後の1959-60シーズン終了後には[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")（1部）初昇格を決めた。1970年代半ばまではプリメーラ・ディビシオンとセグンダ・ディビシオンを行ったり来たりしたが、1970年代後半にはテルセーラ・ディビシオンや[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（現3部）に低迷した。1980年代半ば以降は再びプリメーラ・ディビシオンやセグンダ・ディビシオンに定着し、1990-91シーズンの[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")では過去最高の準優勝という成績を残した。1980年代後半や2000年代前半に在籍した[ミゲル・アンヘル・ナダル](../Page/ミゲル・アンヘル・ナダル.md "wikilink")はクラブ史上最多の255試合に出場している。
+その歴史は[バレアレス諸島](https://ja.wikipedia.org/wiki/バレアレス諸島 "wikilink")のサッカークラブで最も古く、1916年にエンジニアのアドルフォ・バスケスによって設立された。最初期に使用したスタジアムはブエノス・アイレス(Buenos Aires)と呼ばれ、同年3月25日に[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")との間で行われた落成試合は0-8で敗れた。1931年に[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")に初参戦し、[テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（当時3部）でプレーした。1945年9月22日には新スタジアムの[エス・フォルティが落成した](https://ja.wikipedia.org/wiki/エスタディオ・リュイス・ストハル "wikilink")。1959年には[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")（2部）に初昇格し、1年後の1959-60シーズン終了後には[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）初昇格を決めた。1970年代半ばまではプリメーラ・ディビシオンとセグンダ・ディビシオンを行ったり来たりしたが、1970年代後半にはテルセーラ・ディビシオンや[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（現3部）に低迷した。1980年代半ば以降は再びプリメーラ・ディビシオンやセグンダ・ディビシオンに定着し、1990-91シーズンの[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")では過去最高の準優勝という成績を残した。1980年代後半や2000年代前半に在籍した[ミゲル・アンヘル・ナダル](../Page/ミゲル・アンヘル・ナダル.md "wikilink")はクラブ史上最多の255試合に出場している。
 
 ### クラブの黄金期
 
-1996-97シーズンのセグンダ・ディビシオンを3位で終えてプリメーラ・ディビシオンに昇格すると、1997-98シーズンはコパ・デル・レイで準優勝、リーグ戦で5位となった。1998年夏には[スーペルコパ・デ・エスパーニャ](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink")で優勝し、クラブ初となる主要なタイトルを獲得した。[エクトル・クーペル](https://ja.wikipedia.org/wiki/エクトル・クーペル "wikilink")監督が率いた1998-99シーズンはGK[カルロス・ロア](https://ja.wikipedia.org/wiki/カルロス・ロア "wikilink")が[サモラ賞](../Page/サモラ賞.md "wikilink")を獲得するなど堅固な守備でリーグ戦3位となり、[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")ではオランダの[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")やクロアチアの[NKヴァルテクス・ヴァラジュディン](../Page/NKヴァルテクス・ヴァラジュディン.md "wikilink")やイングランドの[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")などを破って決勝に進出したが、決勝でイタリアの[SSラツィオ](../Page/SSラツィオ.md "wikilink")に1-2で敗れて優勝はならなかった。以後はプリメーラ・ディビシオンの中位に定着し、2000-01シーズンは61得点でリーグ戦3位となった。[グレゴリオ・マンサーノ](https://ja.wikipedia.org/wiki/グレゴリオ・マンサーノ "wikilink")監督が率いた2002-03シーズンのコパ・デル・レイでは5シーズンぶりに決勝に進出して、[エルチェ](../Page/エルチェ.md "wikilink")で行われた決勝で[レクレアティーボ・ウェルバ](../Page/レクレアティーボ・ウェルバ.md "wikilink")に3-0で勝利し、スーペルコパや下部リーグでの優勝を除けばクラブ初となるタイトルを獲得した。2004年夏にエースFW[サミュエル・エトオ](https://ja.wikipedia.org/wiki/サミュエル・エトオ "wikilink")を[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")に売却したため、2004-05シーズンは序盤から低迷し、セグンダ・ディビシオン降格の危機に瀕していた。[ベニート・フローロ](../Page/ベニート・フローロ.md "wikilink")監督を解任し、クーペル監督にバトンタッチしたが、終盤戦まで降格圏内をさまよい続けた。しかし、シーズン最終盤に驚異的なペースで勝ち点を積み上げ、最終節でプリメーラ残留を決めた。この快挙をマヨルカ地元新聞紙は「マヨルカの奇跡」として称えた。2005-06シーズンは序盤から失点を重ね、4勝7分12敗と降格が濃厚となったところでクーペル監督が辞任した。後任のマンサーノ監督は6勝6分3敗と持ち直し、13位で残留を決めた。2006-07シーズンはMF[ホナス・グティエレス](../Page/ホナス・グティエレス.md "wikilink")などが仕掛けるサイド攻撃がはまり、12位で余裕の残留を果たした。2007-08シーズンはDF[ダビド・ナバーロ](../Page/ダビド・ナバーロ.md "wikilink")、MF[ボルハ・バレーロ](https://ja.wikipedia.org/wiki/ボルハ・バレーロ "wikilink")などの新戦力が活躍したが、特に[ヘタフェCF](https://ja.wikipedia.org/wiki/ヘタフェCF "wikilink")からやってきたFW[ダニエル・グイサ](https://ja.wikipedia.org/wiki/ダニエル・グイサ "wikilink")は26節からの13試合で16得点と爆発してリーグ得点王（[ピチーチ賞](../Page/ピチーチ賞.md "wikilink")）のタイトルを獲得。チーム全体ではリーグ4位の69得点を記録し、[UEFAヨーロッパリーグ出場権獲得にあと一歩に迫る](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")7位に躍進した。
+1996-97シーズンのセグンダ・ディビシオンを3位で終えてプリメーラ・ディビシオンに昇格すると、1997-98シーズンはコパ・デル・レイで準優勝、リーグ戦で5位となった。1998年夏には[スーペルコパ・デ・エスパーニャ](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink")で優勝し、クラブ初となる主要なタイトルを獲得した。[エクトル・クーペル](https://ja.wikipedia.org/wiki/エクトル・クーペル "wikilink")監督が率いた1998-99シーズンはGK[カルロス・ロア](https://ja.wikipedia.org/wiki/カルロス・ロア "wikilink")が[サモラ賞](../Page/サモラ賞.md "wikilink")を獲得するなど堅固な守備でリーグ戦3位となり、[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")ではオランダの[KRCヘンク](https://ja.wikipedia.org/wiki/KRCヘンク "wikilink")やクロアチアの[NKヴァルテクス・ヴァラジュディン](../Page/NKヴァルテクス・ヴァラジュディン.md "wikilink")やイングランドの[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")などを破って決勝に進出したが、決勝でイタリアの[SSラツィオ](../Page/SSラツィオ.md "wikilink")に1-2で敗れて優勝はならなかった。以後はプリメーラ・ディビシオンの中位に定着し、2000-01シーズンは61得点でリーグ戦3位となった。[グレゴリオ・マンサーノ](https://ja.wikipedia.org/wiki/グレゴリオ・マンサーノ "wikilink")監督が率いた2002-03シーズンのコパ・デル・レイでは5シーズンぶりに決勝に進出して、[エルチェ](../Page/エルチェ.md "wikilink")で行われた決勝で[レクレアティーボ・ウェルバ](../Page/レクレアティーボ・ウェルバ.md "wikilink")に3-0で勝利し、スーペルコパや下部リーグでの優勝を除けばクラブ初となるタイトルを獲得した。2004年夏にエースFW[サミュエル・エトオ](../Page/サミュエル・エトオ.md "wikilink")を[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")に売却したため、2004-05シーズンは序盤から低迷し、セグンダ・ディビシオン降格の危機に瀕していた。[ベニート・フローロ](../Page/ベニート・フローロ.md "wikilink")監督を解任し、クーペル監督にバトンタッチしたが、終盤戦まで降格圏内をさまよい続けた。しかし、シーズン最終盤に驚異的なペースで勝ち点を積み上げ、最終節でプリメーラ残留を決めた。この快挙をマヨルカ地元新聞紙は「マヨルカの奇跡」として称えた。2005-06シーズンは序盤から失点を重ね、4勝7分12敗と降格が濃厚となったところでクーペル監督が辞任した。後任のマンサーノ監督は6勝6分3敗と持ち直し、13位で残留を決めた。2006-07シーズンはMF[ホナス・グティエレス](../Page/ホナス・グティエレス.md "wikilink")などが仕掛けるサイド攻撃がはまり、12位で余裕の残留を果たした。2007-08シーズンはDF[ダビド・ナバーロ](../Page/ダビド・ナバーロ.md "wikilink")、MF[ボルハ・バレーロ](https://ja.wikipedia.org/wiki/ボルハ・バレーロ "wikilink")などの新戦力が活躍したが、特に[ヘタフェCF](../Page/ヘタフェCF.md "wikilink")からやってきたFW[ダニエル・グイサ](https://ja.wikipedia.org/wiki/ダニエル・グイサ "wikilink")は26節からの13試合で16得点と爆発してリーグ得点王（[ピチーチ賞](../Page/ピチーチ賞.md "wikilink")）のタイトルを獲得。チーム全体ではリーグ4位の69得点を記録し、[UEFAヨーロッパリーグ出場権獲得にあと一歩に迫る](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")7位に躍進した。
 
 ### 破産とクラブの立て直し
 
-2008年7月22日にはクラブの株式の96%を5000万英ポンド以上の金額でイングランドの投資家ポール・デヴィッドソンに売却することが発表された\[1\]。しかし、11月にはデヴィッドソンが資金不足から取引を完了させることができないことが明らかにされ、彼のクラブへの興味が売名以上のものかどうか疑問が持たれた。同2008年夏にはグイサやMF[アリエル・イバガサ](../Page/アリエル・イバガサ.md "wikilink")など主力を何人も売却したため、2009年2月にはリーグ最下位に低迷。2009年1月15日、実業家のマテオ・アレマニーがマルティ＝ミンガーロ一家から3年ぶりにクラブの経営権を取得すると\[2\]、頼れるベテランGK[ドゥドゥ・アワット](../Page/ドゥドゥ・アワット.md "wikilink")を獲得するなど、内外でポジティブなチーム作りを進め、後半戦19試合を11勝4分4敗と立て直し、13シーズン連続での残留を決めた。2009-10シーズンはリーグ戦5位で[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得し、コパ・デル・レイでも3シーズン連続での準々決勝進出を果たした。2010年5月下旬、RCDマヨルカは経営破綻を宣言し、4250万ポンドから5130万ポンドと見積もられる借入金の管理は必然的に裁判所の下に置かれた\[3\]。7月9日、かつての監督[ロレンソ・セラ・フェレール](https://ja.wikipedia.org/wiki/ロレンソ・セラ・フェレール "wikilink")やプロテニス選手でマヨルカ出身の[ラファエル・ナダル](https://ja.wikipedia.org/wiki/ラファエル・ナダル "wikilink")などを含む団体がクラブの経営権を取得した\[4\]\[5\]\[6\]。しかし、クラブの不安定な財政状況を確認した[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")(UEFA)は2010年7月22日、RCDマヨルカがUEFA主催の大会に出場する権利を剥奪し、UEFAヨーロッパリーグは[ビジャレアルCF](https://ja.wikipedia.org/wiki/ビジャレアルCF "wikilink")に譲渡された\[7\]。ピッチ外でのごたごたや財政難にもかかわらず、[ミカエル・ラウドルップ](https://ja.wikipedia.org/wiki/ミカエル・ラウドルップ "wikilink")監督に率いられた2010-11シーズンは安定した戦いで14シーズン連続のプリメーラ・ディビシオン残留を決めた。しかし、2012-13シーズンに18位に終わり、2部降格。その後は下部リーグでの闘いが続き、2016年1月、元[NBA](../Page/NBA.md "wikilink")プレイヤーの[スティーブ・ナッシュ](../Page/スティーブ・ナッシュ.md "wikilink")と[フェニックス・サンズ](../Page/フェニックス・サンズ.md "wikilink")オーナーのロバート・サーバーによって買収された\[8\]。だがその後も低迷は続き、2016-17シーズンには2部で20位に沈み1980-81シーズン以来となる[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（3部）降格が決定\[9\]。2017-18シーズンに1年で2部復帰を決めると、2018-19シーズンに[デポルティーボ・ラ・コルーニャ](https://ja.wikipedia.org/wiki/デポルティーボ・ラ・コルーニャ "wikilink")との1部昇格プレーオフを制し、2年連続昇格で7年ぶりにリーガ復帰を果たした\[10\]。
+2008年7月22日にはクラブの株式の96%を5000万英ポンド以上の金額でイングランドの投資家ポール・デヴィッドソンに売却することが発表された\[1\]。しかし、11月にはデヴィッドソンが資金不足から取引を完了させることができないことが明らかにされ、彼のクラブへの興味が売名以上のものかどうか疑問が持たれた。同2008年夏にはグイサやMF[アリエル・イバガサ](../Page/アリエル・イバガサ.md "wikilink")など主力を何人も売却したため、2009年2月にはリーグ最下位に低迷。2009年1月15日、実業家のマテオ・アレマニーがマルティ＝ミンガーロ一家から3年ぶりにクラブの経営権を取得すると\[2\]、頼れるベテランGK[ドゥドゥ・アワット](../Page/ドゥドゥ・アワット.md "wikilink")を獲得するなど、内外でポジティブなチーム作りを進め、後半戦19試合を11勝4分4敗と立て直し、13シーズン連続での残留を決めた。2009-10シーズンはリーグ戦5位で[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")出場権を獲得し、コパ・デル・レイでも3シーズン連続での準々決勝進出を果たした。2010年5月下旬、RCDマヨルカは経営破綻を宣言し、4250万ポンドから5130万ポンドと見積もられる借入金の管理は必然的に裁判所の下に置かれた\[3\]。7月9日、かつての監督[ロレンソ・セラ・フェレール](https://ja.wikipedia.org/wiki/ロレンソ・セラ・フェレール "wikilink")やプロテニス選手でマヨルカ出身の[ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink")などを含む団体がクラブの経営権を取得した\[4\]\[5\]\[6\]。しかし、クラブの不安定な財政状況を確認した[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")(UEFA)は2010年7月22日、RCDマヨルカがUEFA主催の大会に出場する権利を剥奪し、UEFAヨーロッパリーグは[ビジャレアルCF](../Page/ビジャレアルCF.md "wikilink")に譲渡された\[7\]。ピッチ外でのごたごたや財政難にもかかわらず、[ミカエル・ラウドルップ](../Page/ミカエル・ラウドルップ.md "wikilink")監督に率いられた2010-11シーズンは安定した戦いで14シーズン連続のプリメーラ・ディビシオン残留を決めた。しかし、2012-13シーズンに18位に終わり、2部降格。その後は下部リーグでの闘いが続き、2016年1月、元[NBA](../Page/NBA.md "wikilink")プレイヤーの[スティーブ・ナッシュ](../Page/スティーブ・ナッシュ.md "wikilink")と[フェニックス・サンズ](../Page/フェニックス・サンズ.md "wikilink")オーナーのロバート・サーバーによって買収された\[8\]。だがその後も低迷は続き、2016-17シーズンには2部で20位に沈み1980-81シーズン以来となる[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（3部）降格が決定\[9\]。2017-18シーズンに1年で2部復帰を決めると、2018-19シーズンに[デポルティーボ・ラ・コルーニャ](../Page/デポルティーボ・ラ・コルーニャ.md "wikilink")との1部昇格プレーオフを制し、2年連続昇格で7年ぶりにリーガ復帰を果たした\[10\]。
 
 ## クラブ名
 
@@ -98,7 +98,7 @@
 ### 個人
 
   - **通算最多出場**:  [ミゲル・アンヘル・ナダル](../Page/ミゲル・アンヘル・ナダル.md "wikilink") （255試合）
-  - **プリメーラ・ディビシオンでの通算最多得点**:  [サミュエル・エトオ](https://ja.wikipedia.org/wiki/サミュエル・エトオ "wikilink") （54得点）
+  - **プリメーラ・ディビシオンでの通算最多得点**:  [サミュエル・エトオ](../Page/サミュエル・エトオ.md "wikilink") （54得点）
   - **プリメーラ・ディビシオンでの1シーズン最多得点**:  [ダニエル・グイサ](https://ja.wikipedia.org/wiki/ダニエル・グイサ "wikilink") - （27得点、2007-08シーズン）
 
 <!-- end list -->
@@ -302,19 +302,19 @@
 </tr>
 <tr class="odd">
 <td><p>1960-61</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>9位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1961-62</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>11位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1962-63</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>13位</p></td>
 <td></td>
 </tr>
@@ -332,7 +332,7 @@
 </tr>
 <tr class="even">
 <td><p>1965-66</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>15位</p></td>
 <td></td>
 </tr>
@@ -356,7 +356,7 @@
 </tr>
 <tr class="even">
 <td><p>1969-70</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>15位</p></td>
 <td></td>
 </tr>
@@ -452,7 +452,7 @@
 </tr>
 <tr class="even">
 <td><p>1983-84</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>17位</p></td>
 <td></td>
 </tr>
@@ -470,13 +470,13 @@
 </tr>
 <tr class="odd">
 <td><p>1986-87</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>6位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1987-88</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>18位</p></td>
 <td></td>
 </tr>
@@ -488,19 +488,19 @@
 </tr>
 <tr class="even">
 <td><p>1989-90</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>10位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1990-91</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>15位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1991-92</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>20位</p></td>
 <td></td>
 </tr>
@@ -555,97 +555,97 @@
 </tr>
 <tr class="even">
 <td><p>1997-98</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>5位</p></td>
 <td><p>準優勝</p></td>
 </tr>
 <tr class="odd">
 <td><p>1998-99</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>3位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>1999-00</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>10位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000-01</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>3位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2001-02</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>16位</p></td>
 <td><p>ラウンド16</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002-03</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>9位</p></td>
 <td><p>優勝</p></td>
 </tr>
 <tr class="even">
 <td><p>2003-04</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>11位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004-05</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>17位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2005-06</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>13位</p></td>
 <td><p>3回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006-07</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>12位</p></td>
 <td><p>ラウンド16</p></td>
 </tr>
 <tr class="even">
 <td><p>2007-08</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>7位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008-09</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>9位</p></td>
 <td><p>準決勝敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2009-10</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>5位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2010-11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>17位</p></td>
 <td><p>ラウンド16</p></td>
 </tr>
 <tr class="even">
 <td><p>2011-12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>8位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012-13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>18位</p></td>
 <td><p>ラウンド16</p></td>
 </tr>
@@ -699,7 +699,7 @@
 </tr>
 <tr class="even">
 <td><p>2019-20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン" title="wikilink">プリメーラ</a></p></td>
+<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
 <td><p>位</p></td>
 <td></td>
 </tr>
@@ -711,7 +711,7 @@
 
 -----
 
-  - **28**シーズン - [プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")
+  - **28**シーズン - [プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")
   - **36**シーズン - [セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")
   - **3**シーズン - [セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")
   - **12**シーズン - [テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")
@@ -775,7 +775,7 @@
 </tr>
 <tr class="odd">
 <td><p>2004-2006</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エクトル・ラウル・クーペル" title="wikilink">エクトル・クーペル</a></p></td>
+<td><p><a href="../Page/エクトル・ラウル・クーペル.md" title="wikilink">エクトル・クーペル</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2006-2010</p></td>
@@ -783,7 +783,7 @@
 </tr>
 <tr class="odd">
 <td><p>2010-2011</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミカエル・ラウドルップ" title="wikilink">ミカエル・ラウドルップ</a></p></td>
+<td><p><a href="../Page/ミカエル・ラウドルップ.md" title="wikilink">ミカエル・ラウドルップ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
@@ -815,7 +815,7 @@
 </tr>
 <tr class="odd">
 <td><p>2014-2015</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴァレリー・カルピン" title="wikilink">ヴァレリー・カルピン</a></p></td>
+<td><p><a href="../Page/ヴァレリー・カルピン.md" title="wikilink">ヴァレリー・カルピン</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
@@ -846,7 +846,7 @@
 
   - [パコ・ブーヨ](https://ja.wikipedia.org/wiki/フランシスコ・ブーヨ "wikilink") 1975-1976
 
-  - [ボグダン・ステレア](https://ja.wikipedia.org/wiki/ボグダン・ステレア "wikilink") 1991-1993
+  - [ボグダン・ステレア](../Page/ボグダン・ステレア.md "wikilink") 1991-1993
 
   - [カルロス・ロア](https://ja.wikipedia.org/wiki/カルロス・ロア "wikilink") 1997-2002
 
@@ -920,11 +920,11 @@
 
   - [サンティアゴ・エスケーロ](../Page/サンティアゴ・エスケーロ.md "wikilink") 1998
 
-  - [ディエゴ・トリスタン](https://ja.wikipedia.org/wiki/ディエゴ・トリスタン "wikilink") 1999-2000、2006-2007
+  - [ディエゴ・トリスタン](../Page/ディエゴ・トリスタン.md "wikilink") 1999-2000、2006-2007
 
   - [ダニエル・ゴンサレス・グイサ](https://ja.wikipedia.org/wiki/ダニエル・ゴンサレス・グイサ "wikilink") 1999-2002、2007-2008
 
-  - [サミュエル・エトオ](https://ja.wikipedia.org/wiki/サミュエル・エトオ "wikilink") 2000-2004
+  - [サミュエル・エトオ](../Page/サミュエル・エトオ.md "wikilink") 2000-2004
 
   - [ベルナルド・ロメオ](../Page/ベルナルド・ロメオ.md "wikilink") 2004-2005
 

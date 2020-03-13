@@ -7,7 +7,7 @@
 
 誌名は、[旧約聖書](../Page/旧約聖書.md "wikilink")・[士師記](../Page/士師記.md "wikilink")の登場人物の一人で、怪力を誇る[サムソン](../Page/サムソン.md "wikilink")から取られた。
 
-[1982年](../Page/1982年.md "wikilink")7月に[海鳴館](https://ja.wikipedia.org/wiki/海鳴館 "wikilink")から創刊された（販売[ビデオ出版](https://ja.wikipedia.org/wiki/インテルフィン "wikilink")）。[ふくよかな男性が好きな](../Page/肥満.md "wikilink")「[デブ専](https://ja.wikipedia.org/wiki/肥満嗜好 "wikilink")」、中年好き、高年者が好きな「[フケ専](https://ja.wikipedia.org/wiki/フケ専 "wikilink")」のゲイにターゲットを絞っているのが特徴である。「[アドン](https://ja.wikipedia.org/wiki/アドン_\(雑誌\) "wikilink")」の元編集者が創刊に関わっており、創刊間もない頃は若年/普通体型路線で、誌面構成などもアドンに似ていたが\[1\]\[2\]、[1980年代](../Page/1980年代.md "wikilink")後半から路線転換し現在に至っている。
+[1982年](../Page/1982年.md "wikilink")7月に[海鳴館](https://ja.wikipedia.org/wiki/海鳴館 "wikilink")から創刊された（販売[ビデオ出版](https://ja.wikipedia.org/wiki/インテルフィン "wikilink")）。[ふくよかな男性が好きな](../Page/肥満.md "wikilink")「[デブ専](../Page/肥満嗜好.md "wikilink")」、中年好き、高年者が好きな「[フケ専](https://ja.wikipedia.org/wiki/フケ専 "wikilink")」のゲイにターゲットを絞っているのが特徴である。「[アドン](https://ja.wikipedia.org/wiki/アドン_\(雑誌\) "wikilink")」の元編集者が創刊に関わっており、創刊間もない頃は若年/普通体型路線で、誌面構成などもアドンに似ていたが\[1\]\[2\]、[1980年代](../Page/1980年代.md "wikilink")後半から路線転換し現在に至っている。
 
 掲載されるモデルのタイプは、中年で太目を基本に幅広く網羅している。なお、季刊誌「豊漫」（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")創刊）と増刊号「DAVE」が同じ海鳴館から出版されており、豊漫は高年齢のモデルに絞ったもの、DAVEは若デブ専門誌としてサムソン本誌から分岐したものである。
 
@@ -21,7 +21,7 @@
 
 ### 表紙画
 
-[パソコン普及以前は](../Page/パーソナルコンピュータ.md "wikilink")[だいこく](https://ja.wikipedia.org/wiki/だいこく "wikilink")が表紙画を担当。[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")は特に新人の投稿作品が[他誌に比べハードルも低いせいか掲載が多いが](../Page/ゲイ雑誌.md "wikilink")、他誌でも活躍する[小日向や](https://ja.wikipedia.org/wiki/小日向_\(漫画家\) "wikilink")[TORU](https://ja.wikipedia.org/wiki/TORU "wikilink")、一般誌でも活躍する[熊田プウ助](../Page/熊田プウ助.md "wikilink")、[山田参助](https://ja.wikipedia.org/wiki/山田参助 "wikilink")やイラストレーターの[高蔵大介](https://ja.wikipedia.org/wiki/高蔵大介 "wikilink")等も漫画や[小説](../Page/小説.md "wikilink")の[挿絵](../Page/挿絵.md "wikilink")を描いている。
+[パソコン普及以前は](../Page/パーソナルコンピュータ.md "wikilink")[だいこく](https://ja.wikipedia.org/wiki/だいこく "wikilink")が表紙画を担当。[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")は特に新人の投稿作品が[他誌に比べハードルも低いせいか掲載が多いが](../Page/ゲイ雑誌.md "wikilink")、他誌でも活躍する[小日向や](../Page/小日向_\(漫画家\).md "wikilink")[TORU](../Page/TORU.md "wikilink")、一般誌でも活躍する[熊田プウ助](../Page/熊田プウ助.md "wikilink")、[山田参助](../Page/山田参助.md "wikilink")やイラストレーターの[高蔵大介](https://ja.wikipedia.org/wiki/高蔵大介 "wikilink")等も漫画や[小説](../Page/小説.md "wikilink")の[挿絵](../Page/挿絵.md "wikilink")を描いている。
 
 ### 読者メッセージ
 

@@ -1,22 +1,22 @@
 > この記事は[SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO)から翻訳されています。
 
 
-**SUGIZO**（スギゾー、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[LUNA SEA](../Page/LUNA_SEA.md "wikilink")、[X JAPAN及び](../Page/X_JAPAN.md "wikilink")[Violet UKの](https://ja.wikipedia.org/wiki/Violet_UK "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")・[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")。愛称は「スギちゃん」、「スギ様」。
+**SUGIZO**（スギゾー、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。[LUNA SEA](../Page/LUNA_SEA.md "wikilink")、[X JAPAN及び](../Page/X_JAPAN.md "wikilink")[Violet UKの](../Page/Violet_UK.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")・[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")。愛称は「スギちゃん」、「スギ様」。
 
 ## 経歴
 
   - [1989年](../Page/1989年.md "wikilink") - **LUNACY**に加入。
   - [1992年](../Page/1992年.md "wikilink") - **[LUNA SEA](../Page/LUNA_SEA.md "wikilink")**のギタリストとして、2ndアルバム『[IMAGE](../Page/IMAGE_\(LUNA_SEAのアルバム\).md "wikilink")』でメジャーデビュー。
   - [1996年](../Page/1996年.md "wikilink") - 自身がパーソナリティーを務めるラジオ番組「**ΕΛΕΥΘΕΡΙΑ（エレフセリア）**」がスタート（ギリシャ語で「自由」の意）。番組では、古今東西の良質な音楽を紹介。オープニングテーマは[DJ SHADOWの](https://ja.wikipedia.org/wiki/DJ_SHADOW "wikilink")「Changeling」。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 渡英。ソロ・プロジェクトのレコーディングに着手する。自身のレーベル「**CROSS**」を発足（候補として、他に[アカシックレコード](https://ja.wikipedia.org/wiki/アカシックレコード "wikilink")などが挙がっていた）。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - 渡英。ソロ・プロジェクトのレコーディングに着手する。自身のレーベル「**CROSS**」を発足（候補として、他に[アカシックレコード](../Page/アカシックレコード.md "wikilink")などが挙がっていた）。
       - 7月 - シングル「LUCIFER」でソロ・デビュー。以降、この年にリリースされる一連のマテリアルには、全て[リミックス](../Page/リミックス.md "wikilink")盤（「[レプリカント](../Page/ブレードランナー.md "wikilink")」シリーズ）を用意。PeshayやArtemis、Fabio、Grooveriderなど、当時の[ドラムンベース](../Page/ドラムンベース.md "wikilink")シーンを彩ったアーティストが集結。
       - [FOOL'S MATEのバックアップを受けて](https://ja.wikipedia.org/wiki/FOOL'S_MATE "wikilink")、自らが主宰するクラブイヴェント、**ABSTRACT DAY**を開催。全国を廻る。国内外の気鋭ミュージシャンを招いて、多種多様な音楽ジャンルが交差（クロス）する空間を演出。
       - [FUJI ROCK FESTIVALへ出演する予定が台風の直撃を受け](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")、運営判断により開催中止となる。
-      - 8月 - [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて、自身が尊敬するミュージシャン[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")、[土屋昌巳](../Page/土屋昌巳.md "wikilink")、元[ジャパンのメンバーらを招いて行われたクロスオーヴァーなクラブ](https://ja.wikipedia.org/wiki/ジャパン_\(バンド\) "wikilink")・ツアー**ABSTRACT DAY**ファイナルを迎える。
+      - 8月 - [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")にて、自身が尊敬するミュージシャン[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")、[土屋昌巳](../Page/土屋昌巳.md "wikilink")、元[ジャパンのメンバーらを招いて行われたクロスオーヴァーなクラブ](../Page/ジャパン_\(バンド\).md "wikilink")・ツアー**ABSTRACT DAY**ファイナルを迎える。
       - 11月 - 1stオリジナル・アルバム『TRUTH?』リリース。[坂本龍一](../Page/坂本龍一.md "wikilink")、[ミック・カーン](../Page/ミック・カーン.md "wikilink")、ルイーズ・ローズ（[ラム](../Page/ラム_\(バンド\).md "wikilink")）、ヴァレリー・エティエンヌ（[ガリアーノ](https://ja.wikipedia.org/wiki/ガリアーノ "wikilink")）ほか、多彩なゲストミュージシャンが参加。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - LUNA SEAでの活動を再開。
       - 3月 - エレフセリアが[BayFM](https://ja.wikipedia.org/wiki/BayFM "wikilink")の番組改編に伴い終了。翌月より[J-WAVE](../Page/J-WAVE.md "wikilink")にて**EIN SOF（アインソフ）**をスタート。
-  - [1999年](../Page/1999年.md "wikilink") - 初のレーベルコンピレーションアルバム『GRAND CROSS 1999』リリース。レーベルメイトである土屋昌巳、JBK（元[ジャパンのメンバーによるトリオ](https://ja.wikipedia.org/wiki/ジャパン_\(バンド\) "wikilink")）らの楽曲を収録。
+  - [1999年](../Page/1999年.md "wikilink") - 初のレーベルコンピレーションアルバム『GRAND CROSS 1999』リリース。レーベルメイトである土屋昌巳、JBK（元[ジャパンのメンバーによるトリオ](../Page/ジャパン_\(バンド\).md "wikilink")）らの楽曲を収録。
   - [2000年](../Page/2000年.md "wikilink") - 東京ドームでのライブをもって、LUNA SEA終幕。
   - [2001年](../Page/2001年.md "wikilink") - オフィシャルファンクラブ「SCUZZ」（現「SOUL'S MATE」）発足。
       - 映画「[Soundtrack](../Page/Soundtrack.md "wikilink")」で初主演。
@@ -40,16 +40,16 @@
       - 5月 - **X JAPAN**に正式加入\[2\]。
       - 12月 - ソロ初の日本国外公演を成功させる\[3\]。配信限定シングルの連続リリースを開始。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") GACKT主演の舞台「眠狂四郎無頼控」の音楽監督を担当。
-  - [2011年](../Page/2011年.md "wikilink") 2月 - **[Violet UK](https://ja.wikipedia.org/wiki/Violet_UK "wikilink")**に正式加入\[4\]。
+  - [2011年](../Page/2011年.md "wikilink") 2月 - **[Violet UK](../Page/Violet_UK.md "wikilink")**に正式加入\[4\]。
   - [2014年](../Page/2014年.md "wikilink") 4月11日 - 29日 舞台「[海峡の光](https://ja.wikipedia.org/wiki/海峡の光 "wikilink")」の音楽を担当。
-  - [2018年](../Page/2018年.md "wikilink") 4月 - [サントリー](https://ja.wikipedia.org/wiki/サントリーフーズ "wikilink")「[ペプシ Jコーラ](../Page/ペプシコーラ.md "wikilink")」のCMに出演。“怪物舞踏団”の一員として[石川さゆり](../Page/石川さゆり.md "wikilink")・[KenKen](../Page/KenKen.md "wikilink")・DJ RENA・[にゃんごすたー](https://ja.wikipedia.org/wiki/にゃんごすたー "wikilink")と共演。また、CM使用曲の作曲も担当\[5\]。
+  - [2018年](../Page/2018年.md "wikilink") 4月 - [サントリー](../Page/サントリーフーズ.md "wikilink")「[ペプシ Jコーラ](../Page/ペプシコーラ.md "wikilink")」のCMに出演。“怪物舞踏団”の一員として[石川さゆり](../Page/石川さゆり.md "wikilink")・[KenKen](../Page/KenKen.md "wikilink")・DJ RENA・[にゃんごすたー](https://ja.wikipedia.org/wiki/にゃんごすたー "wikilink")と共演。また、CM使用曲の作曲も担当\[5\]。
 
 ## 人物
 
   - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[秦野市](../Page/秦野市.md "wikilink")出身。[神奈川県立伊勢原高等学校](../Page/神奈川県立伊勢原高等学校.md "wikilink")卒業。身長175cm。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
   - 出生時の本名は「**杉原 康弘**」だが、2度改名しており、1度目の改名では**杉原 悠**、現在は**杉原 有音**（すぎはら ゆうね）。
   - 両親がオーケストラ([東京都交響楽団](../Page/東京都交響楽団.md "wikilink"))の団員という音楽一家に生まれ（父親はトランペット、母親はチェロ）、3歳の頃から[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")を学ぶ。[篠崎功子](../Page/篠崎功子.md "wikilink")に師事。
-  - ロックに最初に触れたのは中学1年の13歳の時。[YMOと](../Page/イエロー・マジック・オーケストラ.md "wikilink")[ジャパンと](https://ja.wikipedia.org/wiki/ジャパン_\(バンド\) "wikilink")[RCサクセション](../Page/RCサクセション.md "wikilink")だった。「これだ」と思った瞬間に、音楽をやっていきたいと思い、その時には既にステージに立っている自分の姿を自分の中に描いていて、音楽でプロになりたいと思っていた。その後、パンクが好きになり、「パンクスもどきの真似小僧」になり、高校1年生の時は何もしないで遊んでいた。フラフラ遊びながらも、「俺は何をしたいのかな」と悩み、最終的に行き着いたのが音楽だった。高校2年生の時からは「ギター一辺倒」で、当時は「これをやりたい」という音楽がなかったのと、たまたまやっていたバンドがヘビメタ系だったため、「テクニックを磨くにはヘビメタがいい」と思い、だんだんのめり込んでいった\[6\]。
+  - ロックに最初に触れたのは中学1年の13歳の時。[YMOと](../Page/イエロー・マジック・オーケストラ.md "wikilink")[ジャパンと](../Page/ジャパン_\(バンド\).md "wikilink")[RCサクセション](../Page/RCサクセション.md "wikilink")だった。「これだ」と思った瞬間に、音楽をやっていきたいと思い、その時には既にステージに立っている自分の姿を自分の中に描いていて、音楽でプロになりたいと思っていた。その後、パンクが好きになり、「パンクスもどきの真似小僧」になり、高校1年生の時は何もしないで遊んでいた。フラフラ遊びながらも、「俺は何をしたいのかな」と悩み、最終的に行き着いたのが音楽だった。高校2年生の時からは「ギター一辺倒」で、当時は「これをやりたい」という音楽がなかったのと、たまたまやっていたバンドがヘビメタ系だったため、「テクニックを磨くにはヘビメタがいい」と思い、だんだんのめり込んでいった\[6\]。
   - クラシック育ちだが、幼い頃は「偉大な昔の作曲家が作った音楽を、いわば『コピー』するわけでしょ。今ではそれはそれで素晴らしいことだなって思うんだけど、当時はそれがイヤだった」ので、「やるんだったら、自分で曲を書きたかった」と言っており、「曲といえるかどうかはわからないけど、ピアノを弾きながら音を譜面に書くっていうことは、小学校の低学年からしてましたね。初めてちゃんとした曲を作ったのは、18才か17才で自分のバンド（PINOCCHIO）を作った時。」\[7\]
   - ロックのカルチャー・ショックを受けてすぐに楽器が欲しくなったが、「なぜかわからないけど」アコースティック・ギターを購入。そしてコードをひとつふたつ覚えただけで弾かなくなり、その後「曲を聞いてもベースの音ばかり耳に入ってきてた」のでベースに興味を持つ。自分にいちばんフィットするものを探すため、ベースの他にもピアノやキーボード、トランペットもやった。今では「ギターが体の一部っていうか、話すための道具みたいなもの」だと言っている\[8\]。
   - 初めてのバンドは、先輩に誘われてベースとして入ったバンド。しかし、何か納得いかないものがあり、ギターと再び出会い、「やっと巡り合えた」と感じ、ギターに転向。理論的にどの楽器がいちばん可能性があるかなどと考えていたが、結局は「手で触った感覚がギターがいちばんしっくりくる」という理由でギターを選んだ\[9\]。
@@ -57,7 +57,7 @@
   - アームやワーミーを多用したり（本人いわく「ブフャー・ギター」）、ディレイも多用することが多い。最初に買ったエフェクターはディレイとディスト―ションで、その次にワーミー・ペダルを購入し、ワーミーに対する深い愛を持っている\[10\]。
   - LUNA SEAを始めてから「クラシックを習っていて良かった」と思うようになった。しかし、クラシックの理論や知識を持っていたため、作曲をするようになった頃は、それに縛られ、「音っていうのはこういうふうに重ねるものだから」と考え、それがかえって自分の発想の邪魔となり、作曲がうまくいかなかったと言っていた。また、クラシックが基礎にある人にはめずらしく、「やりたいことは何でもやっちゃえ。音楽に法律はない」という発想を持っており、その理由として昔「クラシックや様式美を拒否していたから」と言っている。しかし同時に、「パンクも、あんな下手なのは駄目だ」と思っていて、一生懸命テクニック面も突き詰めた。\[11\]
   - 「凝り性で、完璧主義者」と自認するように、音楽性、サウンド面はもちろん、ライブ会場の設営にも細かく指示を出す。ライブ会場ではステージだけではなく、観客席のチェックもする。ライブのドキュメンタリー映像では度々スタッフと討論したり、時には衝突する映像も残っている。
-  - 自身が尊敬し影響を受けたミュージシャンとして挙げるのは、[YMOと](../Page/イエロー・マジック・オーケストラ.md "wikilink")[土屋昌巳](../Page/土屋昌巳.md "wikilink")、[渡辺香津美](https://ja.wikipedia.org/wiki/渡辺香津美 "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END "wikilink")、[フランク・ザッパ](https://ja.wikipedia.org/wiki/フランク・ザッパ "wikilink")、[スティーブ・ヴァイ](https://ja.wikipedia.org/wiki/スティーブ・ヴァイ "wikilink")、[ロバート・フリップ](../Page/ロバート・フリップ.md "wikilink")、[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")、[マイルス・デイヴィス](../Page/マイルス・デイヴィス.md "wikilink")、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")、[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")、[ジャパン](https://ja.wikipedia.org/wiki/ジャパン_\(バンド\) "wikilink")。ジャパンには特に影響を受けており、高校時代に[真矢が](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")「ドラムセットを買うならどんなのを買えばいい？」と相談してきた時、ジャパンの[スティーヴ・ジャンセン](https://ja.wikipedia.org/wiki/スティーヴ・ジャンセン "wikilink")と同じドラムセットを買うようにアドバイスしたり、ジャパンのトリビュートアルバムには2曲参加（内1曲は自身の初ボーカル曲）という程の思い入れである。
+  - 自身が尊敬し影響を受けたミュージシャンとして挙げるのは、[YMOと](../Page/イエロー・マジック・オーケストラ.md "wikilink")[土屋昌巳](../Page/土屋昌巳.md "wikilink")、[渡辺香津美](../Page/渡辺香津美.md "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END "wikilink")、[フランク・ザッパ](../Page/フランク・ザッパ.md "wikilink")、[スティーブ・ヴァイ](https://ja.wikipedia.org/wiki/スティーブ・ヴァイ "wikilink")、[ロバート・フリップ](../Page/ロバート・フリップ.md "wikilink")、[ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")、[マイルス・デイヴィス](../Page/マイルス・デイヴィス.md "wikilink")、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")、[デヴィッド・ボウイ](https://ja.wikipedia.org/wiki/デヴィッド・ボウイ "wikilink")、[ジャパン](../Page/ジャパン_\(バンド\).md "wikilink")。ジャパンには特に影響を受けており、高校時代に[真矢が](../Page/真矢_\(ドラマー\).md "wikilink")「ドラムセットを買うならどんなのを買えばいい？」と相談してきた時、ジャパンの[スティーヴ・ジャンセン](https://ja.wikipedia.org/wiki/スティーヴ・ジャンセン "wikilink")と同じドラムセットを買うようにアドバイスしたり、ジャパンのトリビュートアルバムには2曲参加（内1曲は自身の初ボーカル曲）という程の思い入れである。
   - 自他共に認めるオタクであり、[宇宙](../Page/宇宙.md "wikilink")や[考古学](../Page/考古学.md "wikilink")、[ナチズム](../Page/ナチズム.md "wikilink")、[天文学](../Page/天文学.md "wikilink")、[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")、[スタートレック](../Page/スタートレック.md "wikilink")、[生物学](../Page/生物学.md "wikilink")、[エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")、[007](https://ja.wikipedia.org/wiki/007 "wikilink")、[ガンダムなどに関心がある](https://ja.wikipedia.org/wiki/ガンダムシリーズ "wikilink")。
   - 中学では、[バレーボール](../Page/バレーボール.md "wikilink")部に在籍していた。
   - 両胸〜両肩〜両腕〜両手手の甲にかけてタトゥーを施している。
@@ -162,7 +162,7 @@
   - **[JUNO REACTOR](https://ja.wikipedia.org/wiki/ジュノ・リアクター "wikilink")**（2006年より参加）
   - **[S.K.I.N.](../Page/S.K.I.N..md "wikilink")**
   - **[X JAPAN](../Page/X_JAPAN.md "wikilink")**（サポートの後に正式加入）
-  - **[Violet UK](https://ja.wikipedia.org/wiki/Violet_UK "wikilink")**（2011年2月より正式加入）
+  - **[Violet UK](../Page/Violet_UK.md "wikilink")**（2011年2月より正式加入）
 
 また[2001年](../Page/2001年.md "wikilink")には、[映画](../Page/映画.md "wikilink")『サウンドトラック』（監督/[二階健](../Page/二階健.md "wikilink")）の音楽を担当するだけでなく、自ら主演するなど、様々な分野で活動を続けている。
 
@@ -974,7 +974,7 @@
 </ol></td>
 <td><p>VACK-1180</p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/フランク・ザッパ" title="wikilink">フランク・ザッパ</a>の楽曲をSUGIZOが選曲したコンピレーションアルバム。</li>
+<li><a href="../Page/フランク・ザッパ.md" title="wikilink">フランク・ザッパ</a>の楽曲をSUGIZOが選曲したコンピレーションアルバム。</li>
 <li><a href="../Page/ボアダムス.md" title="wikilink">ボアダムス</a>、<a href="../Page/東京スカパラダイスオーケストラ.md" title="wikilink">東京スカパラダイスオーケストラ</a>のメンバーが選曲したmeetsザッパシリーズの続編。</li>
 </ul></td>
 </tr>
@@ -1139,7 +1139,7 @@
 <td><p><strong>a tribute to JAPAN: Life in Tokyo</strong></p></td>
 <td><p>THE EXPERIENCE OF SWIMMING (Le Fou名義) QUIET LIFE</p></td>
 <td><p>BVCR-764</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イギリス" title="wikilink">イギリス</a>のロックバンド、<a href="https://ja.wikipedia.org/wiki/ジャパン_(バンド)" title="wikilink">ジャパンの</a><a href="https://ja.wikipedia.org/wiki/トリビュートアルバム" title="wikilink">トリビュートアルバム</a>。 Le Fou名義の「THE EXPERIENCE OF SWIMMING」は、後にソロ名義で発表される「Le Fou」の原型となる。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イギリス" title="wikilink">イギリス</a>のロックバンド、<a href="../Page/ジャパン_(バンド).md" title="wikilink">ジャパンの</a><a href="https://ja.wikipedia.org/wiki/トリビュートアルバム" title="wikilink">トリビュートアルバム</a>。 Le Fou名義の「THE EXPERIENCE OF SWIMMING」は、後にソロ名義で発表される「Le Fou」の原型となる。</p></td>
 </tr>
 <tr class="even">
 <td><p>1999/2/24</p></td>
@@ -1421,7 +1421,7 @@
       - [TAIJI](../Page/沢田泰司.md "wikilink")
   - [LUNA SEA](../Page/LUNA_SEA.md "wikilink")
       - [RYUICHI](../Page/河村隆一.md "wikilink")
-      - [真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")
+      - [真矢](../Page/真矢_\(ドラマー\).md "wikilink")
       - [J](../Page/J_\(ミュージシャン\).md "wikilink")
       - [INORAN](../Page/INORAN.md "wikilink")
   - [S.K.I.N.](../Page/S.K.I.N..md "wikilink")

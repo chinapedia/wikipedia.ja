@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - [戸城憲夫](https://ja.wikipedia.org/wiki/戸城憲夫 "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")([THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink")、[BAD SiX BABiES](https://ja.wikipedia.org/wiki/BAD_SiX_BABiES "wikilink")/ex.[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[LANCE OF THRILL](https://ja.wikipedia.org/wiki/LANCE_OF_THRILL "wikilink"))
+  - [戸城憲夫](../Page/戸城憲夫.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")([THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink")、[BAD SiX BABiES](https://ja.wikipedia.org/wiki/BAD_SiX_BABiES "wikilink")/ex.[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")、[LANCE OF THRILL](https://ja.wikipedia.org/wiki/LANCE_OF_THRILL "wikilink"))
   - [坂下丈朋](../Page/坂下たけとも.md "wikilink") - [ギター](../Page/ギター.md "wikilink")(THE SLUT BANKS、BAD SiX BABiES/ex.[SADS](../Page/SADS.md "wikilink"))
   - [満園英二](https://ja.wikipedia.org/wiki/満園英二 "wikilink") - [ドラム](../Page/ドラムセット.md "wikilink")([森重樹一](../Page/森重樹一.md "wikilink")/ex.SADS、THE SLUT BANKS)
 
@@ -15,7 +15,7 @@
 
 ## 経歴
 
-[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[森重樹一](../Page/森重樹一.md "wikilink")と元ZIGGYの[戸城憲夫](https://ja.wikipedia.org/wiki/戸城憲夫 "wikilink")が再生[ハノイ・ロックス](https://ja.wikipedia.org/wiki/ハノイ・ロックス "wikilink")のライブ会場で再会した事がきっかけでスタート、その後、元[SADS](../Page/SADS.md "wikilink")のギタリスト[坂下丈朋が加入](../Page/坂下たけとも.md "wikilink")、その紹介で同じく元SADSのドラマー[満園英二](https://ja.wikipedia.org/wiki/満園英二 "wikilink")が加入し、現在のメンバーとなる。森重と戸城の二人で今まで試していなかった方法＝楽曲の主導を戸城が持つという形を取り、主に作曲は戸城、作詞を森重というスタイルである。
+[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[森重樹一](../Page/森重樹一.md "wikilink")と元ZIGGYの[戸城憲夫](../Page/戸城憲夫.md "wikilink")が再生[ハノイ・ロックス](../Page/ハノイ・ロックス.md "wikilink")のライブ会場で再会した事がきっかけでスタート、その後、元[SADS](../Page/SADS.md "wikilink")のギタリスト[坂下丈朋が加入](../Page/坂下たけとも.md "wikilink")、その紹介で同じく元SADSのドラマー[満園英二](https://ja.wikipedia.org/wiki/満園英二 "wikilink")が加入し、現在のメンバーとなる。森重と戸城の二人で今まで試していなかった方法＝楽曲の主導を戸城が持つという形を取り、主に作曲は戸城、作詞を森重というスタイルである。
 
 2004～2005年にかけてインディーズで活動、2006年に[徳間ジャパンからメジャーデビュー](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。
 2011年1月13日、戸城のウェブサイト「世田谷スポーツ」で森重の脱退が公表され、以降は活動停止中である。

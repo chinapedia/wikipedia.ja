@@ -1,7 +1,7 @@
 > この記事は[WaT](https://ja.wikipedia.org/wiki/WaT)から翻訳されています。
 
 
-**WaT**（ワット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")。[2002年](../Page/2002年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[バーニングプロダクション](https://ja.wikipedia.org/wiki/バーニングプロダクション "wikilink")。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[ユニバーサルミュージックで](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、所属[レーベルは](../Page/レコードレーベル.md "wikilink")[ユニバーサルシグマ内の](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")[A\&M RECORDS](https://ja.wikipedia.org/wiki/A&Mレコード#日本での事業 "wikilink")。公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**So WaT?**」。[2016年](../Page/2016年.md "wikilink")解散。
+**WaT**（ワット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")。[2002年](../Page/2002年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[バーニングプロダクション](https://ja.wikipedia.org/wiki/バーニングプロダクション "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ユニバーサルミュージックで](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、所属[レーベルは](../Page/レコードレーベル.md "wikilink")[ユニバーサルシグマ内の](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")[A\&M RECORDS](https://ja.wikipedia.org/wiki/A&Mレコード#日本での事業 "wikilink")。公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**So WaT?**」。[2016年](../Page/2016年.md "wikilink")解散。
 
 ## メンバー
 
@@ -60,7 +60,7 @@
       - 3月1日、1st[アルバム](../Page/アルバム.md "wikilink")『[卒業TIME〜僕らのはじまり〜](../Page/卒業TIME〜僕らのはじまり〜.md "wikilink")』をリリース。
       - 初の全国ツアーライブ『WaT ENTERTAINMENT SHOW 2006 ACT "do" LIVE Vol.4』を行う。
       - 『2006 [バレーボール世界選手権](../Page/バレーボール世界選手権.md "wikilink")』オフィシャルサポーターに抜擢。
-      - 『第43回 2005年度 [ゴールデン・アロー賞](https://ja.wikipedia.org/wiki/ゴールデン・アロー賞 "wikilink")』 新人賞受賞。
+      - 『第43回 2005年度 [ゴールデン・アロー賞](../Page/ゴールデン・アロー賞.md "wikilink")』 新人賞受賞。
       - 『第20回 2005年度 [日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』 ニュー・アーティスト・オブ・ザ・イヤー受賞。
       - 『第39回 [ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")』 最優秀新人賞受賞。
       - 『第39回 [日本有線大賞](../Page/日本有線大賞.md "wikilink")』 特別賞受賞。
@@ -74,7 +74,7 @@
       - 5月、WaTのライブとしては2年ぶりとなる『WaT LIVE TOUR2008 “凶×小吉＝大吉TOUR”』で全国6都市10公演。最終日の日比谷野外大音楽堂では、雨の中びしょ濡れのライブとなった。「e2 byスカパー」の生中継も入り、2人が歌っている姿を映像として初披露した。
       - 『[第59回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第59回NHK紅白歌合戦 "wikilink")』に4年連続出場。（「[36℃](https://ja.wikipedia.org/wiki/36℃ "wikilink")」）
   - 2010年
-      - 2年ぶりのシングルとなる「[君が僕にKissをした](https://ja.wikipedia.org/wiki/君が僕にKissをした "wikilink")」を[7月28日](../Page/7月28日.md "wikilink")に、「[24/7〜もう一度〜](https://ja.wikipedia.org/wiki/24/7〜もう一度〜 "wikilink")」を[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")にそれぞれリリース。
+      - 2年ぶりのシングルとなる「[君が僕にKissをした](https://ja.wikipedia.org/wiki/君が僕にKissをした "wikilink")」を[7月28日](../Page/7月28日.md "wikilink")に、「[24/7〜もう一度〜](https://ja.wikipedia.org/wiki/24/7〜もう一度〜 "wikilink")」を[9月8日](../Page/9月8日.md "wikilink")にそれぞれリリース。
   - 2015年
       - 2011年以降、WaTとしての活動は行われず、ウエンツは司会業中心、小池は俳優業中心の活動を行っていたが、2月に再始動して、音楽特番で活動を再開し、CDの発売や単独公演の開催の予定を発表した。
       - 11月19日、再始動後初めて『[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")』に出演。また、ウエンツは司会も担当。
@@ -89,7 +89,7 @@
 
 ## エピソード
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に出場した際は[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")で小池のギターの弦が切れ、更に[サビ](../Page/サビ.md "wikilink")部分でカメラがマイクのコードを引っ掛け、スタンドマイクが転倒するという前代未聞のハプニングに見舞われた。やむを得ず、マイク転倒から立て直されるまでの数秒間は生声で歌を披露した\[3\]。
+  - [2005年](../Page/2005年.md "wikilink")の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に出場した際は[イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")で小池のギターの弦が切れ、更に[サビ](../Page/サビ.md "wikilink")部分でカメラがマイクのコードを引っ掛け、スタンドマイクが転倒するという前代未聞のハプニングに見舞われた。やむを得ず、マイク転倒から立て直されるまでの数秒間は生声で歌を披露した\[3\]。
   - なお2度目の紅白歌合戦出場の際は、本番で楽屋からステージに移動するエレベーターが急停止し、二人とも閉じ込められるという災難に見舞われている。
   - インディーズデビュー直前の頃にメンバーが3人になったことがある。（2010年8月1日誰だって波乱爆笑より）そのメンバーはピアノとサックスができたらしい\[4\]。
 
@@ -102,7 +102,7 @@
 | インディーズ (BP Records)                                  |                                                                                                                |                                                                                                 |                                        |           |      |                                                           |
 | \#                                                   | [2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")                                       | **[卒業TIME](../Page/卒業TIME.md "wikilink")**                                                      | [CD](../Page/コンパクトディスク.md "wikilink")  | BPRE-1001 | 67位  | [卒業TIME〜僕らのはじまり〜](../Page/卒業TIME〜僕らのはじまり〜.md "wikilink")  |
 | メジャー ([A\&M RECORDS](../Page/A&Mレコード.md "wikilink")) |                                                                                                                |                                                                                                 |                                        |           |      |                                                           |
-| 1st                                                  | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月2日](../Page/11月2日.md "wikilink")                    | **[僕のキモチ](../Page/僕のキモチ.md "wikilink")**                                                        | CD+[DVD](../Page/DVD.md "wikilink")    | UMCK-9127 | 2位   | 卒業TIME〜僕らのはじまり〜                                           |
+| 1st                                                  | [2005年](../Page/2005年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")                                       | **[僕のキモチ](../Page/僕のキモチ.md "wikilink")**                                                        | CD+[DVD](../Page/DVD.md "wikilink")    | UMCK-9127 | 2位   | 卒業TIME〜僕らのはじまり〜                                           |
 | CD+[トレーディングカード](../Page/トレーディングカード.md "wikilink")    | UMCK-9128                                                                                                      |                                                                                                 |                                        |           |      |                                                           |
 | CD                                                   | UMCK-5135                                                                                                      |                                                                                                 |                                        |           |      |                                                           |
 | 2nd                                                  | [2006年](../Page/2006年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")                                       | **[5センチ。](../Page/5センチ。.md "wikilink")**                                                        | CD                                     | UMCK-9135 | 2位   |                                                           |
@@ -123,7 +123,7 @@
 | 9th                                                  | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月28日](../Page/7月28日.md "wikilink")                    | **[君が僕にKissをした](https://ja.wikipedia.org/wiki/君が僕にKissをした "wikilink")**                         | CD+DVD                                 | UMCK-9363 | 7位   |                                                           |
 | UMCK-9364                                            |                                                                                                                |                                                                                                 |                                        |           |      |                                                           |
 | CD                                                   | UMCK-5283                                                                                                      |                                                                                                 |                                        |           |      |                                                           |
-| 10th                                                 | 2010年[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")                                                     | **[24/7〜もう一度〜](https://ja.wikipedia.org/wiki/24/7〜もう一度〜 "wikilink")**                           | CD+DVD                                 | UMCK-9374 | 10位  |                                                           |
+| 10th                                                 | 2010年[9月8日](../Page/9月8日.md "wikilink")                                                                        | **[24/7〜もう一度〜](https://ja.wikipedia.org/wiki/24/7〜もう一度〜 "wikilink")**                           | CD+DVD                                 | UMCK-9374 | 10位  |                                                           |
 | CD                                                   | UMCK-5292                                                                                                      |                                                                                                 |                                        |           |      |                                                           |
 
 ### オリジナルアルバム
@@ -167,7 +167,7 @@
 
 ### ワンマンライブ
 
-会場は主に[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")や[多目的ホール](../Page/多目的ホール.md "wikilink")が中心。初期には4回に渡り**WaT Entertainment Show Act"do"Live**と題された、[芝居](https://ja.wikipedia.org/wiki/芝居 "wikilink")=Actと[演奏会](../Page/演奏会.md "wikilink")=Live、2つのパートで構成された公演を主催していた。中期以降は一般的な公演で開催されている。
+会場は主に[ライブハウス](../Page/ライブハウス.md "wikilink")や[多目的ホール](../Page/多目的ホール.md "wikilink")が中心。初期には4回に渡り**WaT Entertainment Show Act"do"Live**と題された、[芝居](https://ja.wikipedia.org/wiki/芝居 "wikilink")=Actと[演奏会](../Page/演奏会.md "wikilink")=Live、2つのパートで構成された公演を主催していた。中期以降は一般的な公演で開催されている。
 
 <table>
 <thead>
@@ -220,7 +220,7 @@
 </div></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>6月4日 - 6月5日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>6月4日 - 6月5日</p></td>
 <td><p>単発公演</p></td>
 <td><p>WaT Entertainment Show Act"do"Live Vol.3</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -283,7 +283,7 @@
 5/12 Zepp Nagoya (愛知県)※<br />
 5/13 Zepp Nagoya (愛知県)<br />
 5/14 Zepp Osaka (大阪府)<br />
-5/16 Zepp Fukuoka (<a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a>)<br />
+5/16 Zepp Fukuoka (<a href="../Page/福岡県.md" title="wikilink">福岡県</a>)<br />
 5/20 Zepp Tokyo (東京都)<br />
 5/27 <a href="../Page/フェスティバルホール.md" title="wikilink">大阪フェスティバルホール</a> (大阪府)※<br />
 5/29 横浜BLITZ (神奈川県)※<br />
@@ -346,7 +346,7 @@
 
   - 「[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")」（2005年）
   - 「[e2 by スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")」（2007年 - ）
-  - 「[グリコ乳業](https://ja.wikipedia.org/wiki/グリコ乳業 "wikilink")　カフェオーレ」（2014年 - ）※[小島瑠璃子](https://ja.wikipedia.org/wiki/小島瑠璃子 "wikilink")と共演
+  - 「[グリコ乳業](../Page/グリコ乳業.md "wikilink")　カフェオーレ」（2014年 - ）※[小島瑠璃子](https://ja.wikipedia.org/wiki/小島瑠璃子 "wikilink")と共演
 
 ### 音楽番組
 

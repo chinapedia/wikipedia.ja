@@ -1,7 +1,7 @@
 > この記事は[Iceman](https://ja.wikipedia.org/wiki/Iceman)から翻訳されています。
 
 
-**Iceman**（アイスマン）は、キーボーディスト[浅倉大介](../Page/浅倉大介.md "wikilink")、ギタリスト[伊藤賢一](../Page/伊藤賢一.md "wikilink")、ボーカリスト[黒田倫弘](https://ja.wikipedia.org/wiki/黒田倫弘 "wikilink")による日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1996年](../Page/1996年.md "wikilink")にデビュー、[2000年](../Page/2000年.md "wikilink")に活動を休止した。
+**Iceman**（アイスマン）は、キーボーディスト[浅倉大介](../Page/浅倉大介.md "wikilink")、ギタリスト[伊藤賢一](../Page/伊藤賢一.md "wikilink")、ボーカリスト[黒田倫弘](../Page/黒田倫弘.md "wikilink")による日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1996年](../Page/1996年.md "wikilink")にデビュー、[2000年](../Page/2000年.md "wikilink")に活動を休止した。
 
 ## メンバー
 
@@ -11,7 +11,7 @@
   - [伊藤賢一](../Page/伊藤賢一.md "wikilink")
       - ギター
       - 作詞、作曲
-  - [黒田倫弘](https://ja.wikipedia.org/wiki/黒田倫弘 "wikilink")
+  - [黒田倫弘](../Page/黒田倫弘.md "wikilink")
       - ボーカル
       - 作詞
 

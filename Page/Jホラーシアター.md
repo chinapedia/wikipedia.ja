@@ -24,7 +24,7 @@
   - 安積まどか - [星野真里](../Page/星野真里.md "wikilink")
   - 立花七恵 - [木村多江](https://ja.wikipedia.org/wiki/木村多江 "wikilink")
   - 桐野優子 - [真木よう子](https://ja.wikipedia.org/wiki/真木よう子 "wikilink")
-  - 平田俊一 - [山崎樹範](https://ja.wikipedia.org/wiki/山崎樹範 "wikilink")
+  - 平田俊一 - [山崎樹範](../Page/山崎樹範.md "wikilink")
   - 鏡の老女 - [草村礼子](../Page/草村礼子.md "wikilink")
   - 中園雪乃 - [羽田美智子](https://ja.wikipedia.org/wiki/羽田美智子 "wikilink")
   - 岸田孝 - [モロ師岡](../Page/モロ師岡.md "wikilink")
@@ -33,7 +33,7 @@
   - 黄色いカーディガンの患者 - [浅見小四郎](https://ja.wikipedia.org/wiki/浅見小四郎 "wikilink")
   - 安楽死の老人 - [前田昌明](../Page/前田昌明.md "wikilink")
   - 着物の老女 - [森康子](../Page/森康子.md "wikilink")
-  - 塩崎君江（婦長） - [南果歩](https://ja.wikipedia.org/wiki/南果歩 "wikilink")
+  - 塩崎君江（婦長） - [南果歩](../Page/南果歩.md "wikilink")
   - 赤井潔 - [佐野史郎](../Page/佐野史郎.md "wikilink")
 
 ### スタッフ
@@ -58,17 +58,17 @@
 
 ### キャスト（予言）
 
-  - 里見英樹 - [三上博史](https://ja.wikipedia.org/wiki/三上博史 "wikilink")
+  - 里見英樹 - [三上博史](../Page/三上博史.md "wikilink")
   - 里見綾香 - [酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")
   - 里見奈々 - [井上花菜](https://ja.wikipedia.org/wiki/井上花菜 "wikilink")\[1\]
   - 若窪沙百合 - [堀北真希](https://ja.wikipedia.org/wiki/堀北真希 "wikilink")
   - 宮本美里 - [小野真弓](https://ja.wikipedia.org/wiki/小野真弓 "wikilink")
-  - 鬼形礼 - [山本圭](https://ja.wikipedia.org/wiki/山本圭 "wikilink")
+  - 鬼形礼 - [山本圭](../Page/山本圭.md "wikilink")
   - 御子柴聡子 - [吉行和子](../Page/吉行和子.md "wikilink")
 
 ### スタッフ（予言）
 
-  - 原作 - [つのだじろう](../Page/つのだじろう.md "wikilink")『[恐怖新聞](https://ja.wikipedia.org/wiki/恐怖新聞 "wikilink")』
+  - 原作 - [つのだじろう](../Page/つのだじろう.md "wikilink")『[恐怖新聞](../Page/恐怖新聞.md "wikilink")』
   - 脚本 - 高木登、鶴田法男
   - 監督 - [鶴田法男](../Page/鶴田法男.md "wikilink")
   - 美術 - 斎藤岩男

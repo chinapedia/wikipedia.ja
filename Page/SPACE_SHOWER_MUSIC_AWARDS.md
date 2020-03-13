@@ -17,32 +17,32 @@
 
 ## 開催会場・期日一覧
 
-| 回  | 年                                                       | 会場                                                                  | 日程            |
-| -- | ------------------------------------------------------- | ------------------------------------------------------------------- | ------------- |
-| 1  | [1996年](../Page/1996年.md "wikilink")                    | 恵比寿ガーデンホール                                                          |               |
-| 2  | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") | [中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")         |               |
-| 3  | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") | [渋谷公会堂](../Page/渋谷公会堂.md "wikilink")                                |               |
-| 4  | [1999年](../Page/1999年.md "wikilink")                    | 全編VTR                                                               |               |
-| 5  | [2000年](../Page/2000年.md "wikilink")                    |                                                                     |               |
-| 6  | [2002年](../Page/2002年.md "wikilink")                    | [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")                      |               |
-| 7  | [2003年](../Page/2003年.md "wikilink")                    | [日本武道館](../Page/日本武道館.md "wikilink")                                | 2003年3月8日(土)  |
-| 8  | [2004年](../Page/2004年.md "wikilink")                    | 2004年3月11日(木)                                                       |               |
-| 9  | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | 2005年3月28日(月)                                                       |               |
-| 10 | [2006年](../Page/2006年.md "wikilink")                    | 2006年3月17日(金)                                                       |               |
-| 11 | [2007年](../Page/2007年.md "wikilink")                    | 2007年3月17日(土)                                                       |               |
-| 12 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | 2008年3月15日(土)                                                       |               |
-| 13 | [2009年](../Page/2009年.md "wikilink")                    | 全編VTR                                                               |               |
-| 14 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") |                                                                     |               |
-| 15 | [2011年](../Page/2011年.md "wikilink")                    |                                                                     |               |
-| 16 | [2012年](../Page/2012年.md "wikilink")                    |                                                                     |               |
-| 17 | [2013年](../Page/2013年.md "wikilink")                    |                                                                     |               |
-| 18 | [2014年](../Page/2014年.md "wikilink")                    |                                                                     |               |
-| 19 | [2015年](../Page/2015年.md "wikilink")                    |                                                                     |               |
-| 20 | [2016年](../Page/2016年.md "wikilink")                    | [東京国際フォーラム ホールA](../Page/東京国際フォーラム.md "wikilink")                   | 2016年2月28日(日) |
-| 21 | [2017年](../Page/2017年.md "wikilink")                    | 2017年3月7日(火)                                                        |               |
-| 22 | [2018年](../Page/2018年.md "wikilink")                    | [パシフィコ横浜国立大ホール](https://ja.wikipedia.org/wiki/横浜国際平和会議場 "wikilink") | 2018年3月1日(木)  |
-| 23 | [2019年](../Page/2019年.md "wikilink")                    | [NHKホール](../Page/NHKホール.md "wikilink")                              | 2019年3月7日(木)  |
-| 24 | [2020年](../Page/2020年.md "wikilink")                    | [東京国際フォーラム ホールA](../Page/東京国際フォーラム.md "wikilink")                   | 2020年3月13日(金) |
+| 回  | 年                                                       | 会場                                                | 日程            |
+| -- | ------------------------------------------------------- | ------------------------------------------------- | ------------- |
+| 1  | [1996年](../Page/1996年.md "wikilink")                    | 恵比寿ガーデンホール                                        |               |
+| 2  | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") | [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")          |               |
+| 3  | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") | [渋谷公会堂](../Page/渋谷公会堂.md "wikilink")              |               |
+| 4  | [1999年](../Page/1999年.md "wikilink")                    | 全編VTR                                             |               |
+| 5  | [2000年](../Page/2000年.md "wikilink")                    |                                                   |               |
+| 6  | [2002年](../Page/2002年.md "wikilink")                    | [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")    |               |
+| 7  | [2003年](../Page/2003年.md "wikilink")                    | [日本武道館](../Page/日本武道館.md "wikilink")              | 2003年3月8日(土)  |
+| 8  | [2004年](../Page/2004年.md "wikilink")                    | 2004年3月11日(木)                                     |               |
+| 9  | [2005年](../Page/2005年.md "wikilink")                    | 2005年3月28日(月)                                     |               |
+| 10 | [2006年](../Page/2006年.md "wikilink")                    | 2006年3月17日(金)                                     |               |
+| 11 | [2007年](../Page/2007年.md "wikilink")                    | 2007年3月17日(土)                                     |               |
+| 12 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | 2008年3月15日(土)                                     |               |
+| 13 | [2009年](../Page/2009年.md "wikilink")                    | 全編VTR                                             |               |
+| 14 | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") |                                                   |               |
+| 15 | [2011年](../Page/2011年.md "wikilink")                    |                                                   |               |
+| 16 | [2012年](../Page/2012年.md "wikilink")                    |                                                   |               |
+| 17 | [2013年](../Page/2013年.md "wikilink")                    |                                                   |               |
+| 18 | [2014年](../Page/2014年.md "wikilink")                    |                                                   |               |
+| 19 | [2015年](../Page/2015年.md "wikilink")                    |                                                   |               |
+| 20 | [2016年](../Page/2016年.md "wikilink")                    | [東京国際フォーラム ホールA](../Page/東京国際フォーラム.md "wikilink") | 2016年2月28日(日) |
+| 21 | [2017年](../Page/2017年.md "wikilink")                    | 2017年3月7日(火)                                      |               |
+| 22 | [2018年](../Page/2018年.md "wikilink")                    | [パシフィコ横浜国立大ホール](../Page/横浜国際平和会議場.md "wikilink")  | 2018年3月1日(木)  |
+| 23 | [2019年](../Page/2019年.md "wikilink")                    | [NHKホール](../Page/NHKホール.md "wikilink")            | 2019年3月7日(木)  |
+| 24 | [2020年](../Page/2020年.md "wikilink")                    | [東京国際フォーラム ホールA](../Page/東京国際フォーラム.md "wikilink") | 2020年3月13日(金) |
 
 ## 歴代受賞作品・歌手
 
@@ -83,7 +83,7 @@
 | 6  | [2002年](../Page/2002年.md "wikilink")                    | [traveling](https://ja.wikipedia.org/wiki/traveling "wikilink")                        | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                                          | [紀里谷和明](../Page/紀里谷和明.md "wikilink")                            |
 | 7  | [2003年](../Page/2003年.md "wikilink")                    | [東京](../Page/東京_\(桑田佳祐の曲\).md "wikilink")                                              | [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")                           | [信藤三雄](../Page/信藤三雄.md "wikilink")                              |
 | 8  | [2004年](../Page/2004年.md "wikilink")                    | [くるみ](https://ja.wikipedia.org/wiki/掌/くるみ "wikilink")                                  | [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")             | [丹下紘希](../Page/丹下紘希.md "wikilink")                              |
-| 9  | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | [GALAXY](../Page/GALAXY_\(RIP_SLYMEの曲\).md "wikilink")                                 | [RIP SLYME](../Page/RIP_SLYME.md "wikilink")                                    | [辻川幸一郎](../Page/辻川幸一郎.md "wikilink")                            |
+| 9  | [2005年](../Page/2005年.md "wikilink")                    | [GALAXY](../Page/GALAXY_\(RIP_SLYMEの曲\).md "wikilink")                                 | [RIP SLYME](../Page/RIP_SLYME.md "wikilink")                                    | [辻川幸一郎](../Page/辻川幸一郎.md "wikilink")                            |
 | 10 | [2006年](../Page/2006年.md "wikilink")                    | [JOY](../Page/JOY_\(YUKIの曲\).md "wikilink")                                            | [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")                    | [中村剛](../Page/中村剛_\(映像ディレクター\).md "wikilink")                   |
 | 11 | [2007年](../Page/2007年.md "wikilink")                    | [しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")                                     | Mr.Children                                                                     | 丹下紘希                                                            |
 | 12 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | [花の名](../Page/花の名.md "wikilink")                                                       | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")     | [番場秀一](../Page/番場秀一.md "wikilink")                              |
@@ -101,10 +101,10 @@
 
 ### ALBUM OF THE YEAR
 
-| 回  | 年                                    | 受賞アルバム                                                                             | アーティスト                                                              |
-| -- | ------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 22 | [2018年](../Page/2018年.md "wikilink") | [THE GIFT](https://ja.wikipedia.org/wiki/THE_GIFT_\(Hi-STANDARDのアルバム\) "wikilink") | [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink") |
-| 23 | [2019年](../Page/2019年.md "wikilink") | [POP VIRUS](https://ja.wikipedia.org/wiki/POP_VIRUS "wikilink")                    | [星野源](../Page/星野源.md "wikilink")                                    |
+| 回  | 年                                    | 受賞アルバム                                                                             | アーティスト                                           |
+| -- | ------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------ |
+| 22 | [2018年](../Page/2018年.md "wikilink") | [THE GIFT](https://ja.wikipedia.org/wiki/THE_GIFT_\(Hi-STANDARDのアルバム\) "wikilink") | [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink") |
+| 23 | [2019年](../Page/2019年.md "wikilink") | [POP VIRUS](https://ja.wikipedia.org/wiki/POP_VIRUS "wikilink")                    | [星野源](../Page/星野源.md "wikilink")                 |
 
 ### SONG OF THE YEAR
 
@@ -191,7 +191,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/Perfume" title="wikilink">Perfume</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平井堅" title="wikilink">平井堅</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RADWIMPS" title="wikilink">RADWIMPS</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Hi-STANDARD" title="wikilink">Hi-STANDARD</a></p></td>
+<td><p><a href="../Page/Hi-STANDARD.md" title="wikilink">Hi-STANDARD</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/METAFIVE" title="wikilink">METAFIVE</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中田ヤスタカ" title="wikilink">中田ヤスタカ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルーノ・マーズ" title="wikilink">BRUNO MARS</a></p></td>
@@ -207,7 +207,7 @@
 <a href="https://ja.wikipedia.org/wiki/クリープハイプ" title="wikilink">クリープハイプ</a>／監督：<a href="https://ja.wikipedia.org/wiki/松居大悟" title="wikilink">松居大悟</a></p></td>
 <td><p>-</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/最&amp;高" title="wikilink">最&amp;高</a>』<br />
-<a href="https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ" title="wikilink">きゃりーぱみゅぱみゅ</a>／監督：<a href="https://ja.wikipedia.org/wiki/田中秀幸_(アートディレクター)" title="wikilink">田中秀幸</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ" title="wikilink">きゃりーぱみゅぱみゅ</a>／監督：<a href="../Page/田中秀幸_(アートディレクター).md" title="wikilink">田中秀幸</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田辺秀伸" title="wikilink">田辺秀伸</a></p></td>
 <td><p>-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ" title="wikilink">きゃりーぱみゅぱみゅ</a></p></td>
@@ -270,7 +270,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI" title="wikilink">SEKAI NO OWARI</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/あいみょん" title="wikilink">あいみょん</a></p></td>
 <td><p>『SOUNDS LIKE SHIT: the story of Hi-STANDARD』<br />
-<a href="https://ja.wikipedia.org/wiki/Hi-STANDARD" title="wikilink">Hi-STANDARD</a>／監督：<a href="https://ja.wikipedia.org/wiki/梅田航" title="wikilink">梅田航</a></p></td>
+<a href="../Page/Hi-STANDARD.md" title="wikilink">Hi-STANDARD</a>／監督：<a href="https://ja.wikipedia.org/wiki/梅田航" title="wikilink">梅田航</a></p></td>
 <td><p>『タイムマシーンにのって』<br />
 <a href="https://ja.wikipedia.org/wiki/PUNPEE" title="wikilink">PUNPEE</a>／監督：<a href="https://ja.wikipedia.org/wiki/Ghetto_Hollywood" title="wikilink">Ghetto Hollywood</a></p></td>
 <td><p>-</p></td>
@@ -290,15 +290,15 @@
 
 ### BEST ALTERNATIVE VIDEO
 
-| 回  | 年            | 受賞曲                                                                                   | アーティスト                                                                | 監督                                                            |
-| -- | ------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 3  | nowrap|1998年 | カミナリワン                                                                                | [ギターウルフ](../Page/ギターウルフ.md "wikilink")                                | [竹内鉄郎](../Page/竹内鉄郎.md "wikilink")                            |
-| 6  | 2002年        | SICK GUY/STUPID MAGAZINES                                                             | [BBQ CHICKENS](https://ja.wikipedia.org/wiki/BBQ_CHICKENS "wikilink") | [UGICHIN](../Page/UGICHIN.md "wikilink")                      |
-| 7  | 2003年        | PIZZA OF DEATH'S THEME〜FAT BOY                                                        | UGICHIN、[Ken Yokoyama](../Page/横山健.md "wikilink")                     |                                                               |
-| 8  | 2004年        | [夜行性の生き物3匹](https://ja.wikipedia.org/wiki/ゆらゆら帝国のしびれ "wikilink")                      | [ゆらゆら帝国](https://ja.wikipedia.org/wiki/ゆらゆら帝国 "wikilink")             | [山口保幸](../Page/山口保幸.md "wikilink")                            |
-| 13 | 2009年        | [A MAN FROM THE NEW TOWN](https://ja.wikipedia.org/wiki/THE_ReACTION_E.P. "wikilink") | [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")          | [田中裕介](../Page/田中裕介.md "wikilink")                            |
-| 14 | 2010年        | [おやすみパラドックス](https://ja.wikipedia.org/wiki/おやすみパラドックス/ジェニーはご機嫌ななめ "wikilink")         | [やくしまるえつこ](https://ja.wikipedia.org/wiki/やくしまるえつこ "wikilink")         | [冨永昌敬](../Page/冨永昌敬.md "wikilink")                            |
-| 15 | 2011年        | \[\[eee-P                                                                             | \!|How are you?\]\]                                                   | [POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink") |
+| 回  | 年            | 受賞曲                                                                                   | アーティスト                                                        | 監督                                         |
+| -- | ------------ | ------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------ |
+| 3  | nowrap|1998年 | カミナリワン                                                                                | [ギターウルフ](../Page/ギターウルフ.md "wikilink")                        | [竹内鉄郎](../Page/竹内鉄郎.md "wikilink")         |
+| 6  | 2002年        | SICK GUY/STUPID MAGAZINES                                                             | [BBQ CHICKENS](../Page/BBQ_CHICKENS.md "wikilink")            | [UGICHIN](../Page/UGICHIN.md "wikilink")   |
+| 7  | 2003年        | PIZZA OF DEATH'S THEME〜FAT BOY                                                        | UGICHIN、[Ken Yokoyama](../Page/横山健.md "wikilink")             |                                            |
+| 8  | 2004年        | [夜行性の生き物3匹](https://ja.wikipedia.org/wiki/ゆらゆら帝国のしびれ "wikilink")                      | [ゆらゆら帝国](../Page/ゆらゆら帝国.md "wikilink")                        | [山口保幸](../Page/山口保幸.md "wikilink")         |
+| 13 | 2009年        | [A MAN FROM THE NEW TOWN](https://ja.wikipedia.org/wiki/THE_ReACTION_E.P. "wikilink") | [YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")  | [田中裕介](../Page/田中裕介.md "wikilink")         |
+| 14 | 2010年        | [おやすみパラドックス](https://ja.wikipedia.org/wiki/おやすみパラドックス/ジェニーはご機嫌ななめ "wikilink")         | [やくしまるえつこ](https://ja.wikipedia.org/wiki/やくしまるえつこ "wikilink") | [冨永昌敬](../Page/冨永昌敬.md "wikilink")         |
+| 15 | 2011年        | \[\[eee-P                                                                             | \!|How are you?\]\]                                           | [POLYSICS](../Page/POLYSICS.md "wikilink") |
 
 ### BEST GROOVE VIDEO
 
@@ -360,7 +360,7 @@
 <td><p>2008年</p></td>
 <td><p><a href="../Page/少年ヤング.md" title="wikilink">少年ヤング</a></p></td>
 <td><p>電気グルーヴ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中秀幸_(アートディレクター)" title="wikilink">田中秀幸</a></p></td>
+<td><p><a href="../Page/田中秀幸_(アートディレクター).md" title="wikilink">田中秀幸</a></p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
@@ -389,14 +389,14 @@ SHANE LESTER</p></td>
 
 ### BEST HIP HOP VIDEO
 
-| 回  | 年            | 受賞曲                                                                               | アーティスト                                                          | 監督                                                                  |
-| -- | ------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 5  | nowrap|2000年 | MR.DYNAMITE                                                                       | [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")       | 園田賢次                                                                |
-| 6  | 2002年        | [楽園ベイベー](../Page/楽園ベイベー.md "wikilink")                                            | [RIP SLYME](../Page/RIP_SLYME.md "wikilink")                    | [groovisions](https://ja.wikipedia.org/wiki/groovisions "wikilink") |
-| 7  | 2003年        | [ザ・グレート・アマチュアリズム](https://ja.wikipedia.org/wiki/ザ・グレート・アマチュアリズム "wikilink")       | [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink") | 秦太郎                                                                 |
-| 13 | 2009年        | Fate                                                                              | [ANARCHY](../Page/ANARCHY.md "wikilink")                        | 上山亮二                                                                |
-| 14 | 2010年        | [ONCE AGAIN](https://ja.wikipedia.org/wiki/ONCE_AGAIN_\(RHYMESTERの曲\) "wikilink") | RHYMESTER                                                       | tatsuaki                                                            |
-| 15 | 2011年        | [PUBLIC ENEMY](https://ja.wikipedia.org/wiki/PUBLIC_ENEMY_\(AK-69の曲\) "wikilink") | [AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")         | 中茎強                                                                 |
+| 回  | 年            | 受賞曲                                                                               | アーティスト                                                    | 監督                                                                  |
+| -- | ------------ | --------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------- |
+| 5  | nowrap|2000年 | MR.DYNAMITE                                                                       | [ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") | 園田賢次                                                                |
+| 6  | 2002年        | [楽園ベイベー](../Page/楽園ベイベー.md "wikilink")                                            | [RIP SLYME](../Page/RIP_SLYME.md "wikilink")              | [groovisions](https://ja.wikipedia.org/wiki/groovisions "wikilink") |
+| 7  | 2003年        | [ザ・グレート・アマチュアリズム](https://ja.wikipedia.org/wiki/ザ・グレート・アマチュアリズム "wikilink")       | [RHYMESTER](../Page/RHYMESTER.md "wikilink")              | 秦太郎                                                                 |
+| 13 | 2009年        | Fate                                                                              | [ANARCHY](../Page/ANARCHY.md "wikilink")                  | 上山亮二                                                                |
+| 14 | 2010年        | [ONCE AGAIN](https://ja.wikipedia.org/wiki/ONCE_AGAIN_\(RHYMESTERの曲\) "wikilink") | RHYMESTER                                                 | tatsuaki                                                            |
+| 15 | 2011年        | [PUBLIC ENEMY](https://ja.wikipedia.org/wiki/PUBLIC_ENEMY_\(AK-69の曲\) "wikilink") | [AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")   | 中茎強                                                                 |
 
 ### BEST REGGAE VIDEO
 
@@ -471,7 +471,7 @@ SHANE LESTER</p></td>
 | 回  | 年            | 受賞曲                                                                            | アーティスト                                                                              | 監督                                                    |
 | -- | ------------ | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | 1  | nowrap|1996年 | Either Wise Fool                                                               | [GUNIW TOOLS](../Page/GUNIW_TOOLS.md "wikilink")                                    | FULL                                                  |
-| 2  | 1997年        | 永遠なるもの                                                                         | [中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink")                               | [中村友彦](https://ja.wikipedia.org/wiki/中村友彦 "wikilink") |
+| 2  | 1997年        | 永遠なるもの                                                                         | [中村一義](../Page/中村一義.md "wikilink")                                                  | [中村友彦](https://ja.wikipedia.org/wiki/中村友彦 "wikilink") |
 | 3  | 1998年        | [冷たい花](../Page/冷たい花.md "wikilink")                                             | [the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink") | 浅井健                                                   |
 | 4  | 1999年        | [Automatic](https://ja.wikipedia.org/wiki/Automatic/time_will_tell "wikilink") | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                                              | 伊澤豊                                                   |
 | 5  | 2000年        | EPISODE1                                                                       | [スケボーキング](../Page/スケボーキング.md "wikilink") feat.Kj                                    | [須永秀明](../Page/須永秀明.md "wikilink")                    |
@@ -490,23 +490,23 @@ SHANE LESTER</p></td>
 
 1998年までは「BEST INTERNATIONAL CLIP」
 
-| 回  | 年            | 受賞曲                                                                                                                                                      | アーティスト                                                                                          | 監督                                                                                                |
-| -- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 1  | nowrap|1996年 | [VIRTUAL INSANITY](https://ja.wikipedia.org/wiki/:en:Virtual_Insanity "wikilink")                                                                        | [ジャミロクワイ](https://ja.wikipedia.org/wiki/ジャミロクワイ "wikilink")                                     | [JONATHAN GLAZER](https://ja.wikipedia.org/wiki/:en:Jonathan_Glazer "wikilink")                   |
-| 2  | 1997年        | [ELEKTROBANK](https://ja.wikipedia.org/wiki/:en:Elektrobank "wikilink")                                                                                  | [ケミカル・ブラザーズ](https://ja.wikipedia.org/wiki/ケミカル・ブラザーズ "wikilink")                               | [SPIKE JONZE](https://ja.wikipedia.org/wiki/スパイク・ジョーンズ "wikilink")                                |
-| 3  | 1998年        | [INTERGALACTIC](https://ja.wikipedia.org/wiki/:en:Intergalactic_\(song\) "wikilink")                                                                     | [ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")                                                  | [NATHANIAL HORNBLOWER](https://ja.wikipedia.org/wiki/:en:Adam_Yauch "wikilink")                   |
-| 4  | 1999年        | [LET FOREVER BE](https://ja.wikipedia.org/wiki/:en:Let_Forever_Be "wikilink")                                                                            | ケミカル・ブラザーズ                                                                                      | [MICHEL GONDRY](https://ja.wikipedia.org/wiki/:en:Michel_Gondry "wikilink")                       |
-| 5  | 2000年        | [SEXX LAWS](https://ja.wikipedia.org/wiki/:en:Sexx_Laws "wikilink")                                                                                      | [ベック](../Page/ベック_\(歌手\).md "wikilink")                                                         | [BECK HANSEN](https://ja.wikipedia.org/wiki/:en:Beck "wikilink")                                  |
-| 6  | 2002年        | [WHERE'S YOUR HEAD AT?](https://ja.wikipedia.org/wiki/:en:Where's_Your_Head_At "wikilink")                                                               | [ベースメント・ジャックス](../Page/ベースメント・ジャックス.md "wikilink")                                              | TRAKTOR                                                                                           |
-| 7  | 2003年        | [BY THE WAY](../Page/バイ・ザ・ウェイ.md "wikilink")                                                                                                             | [レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")                                      | [Jonathan Dayton & Valerie Faris](https://ja.wikipedia.org/wiki/ジョナサン・デイトン&ヴァレリー・ファリス "wikilink") |
-| 8  | 2004年        | [CRAZY IN LOVE](https://ja.wikipedia.org/wiki/クレイジー・イン・ラブ "wikilink")                                                                                    | [ビヨンセ](https://ja.wikipedia.org/wiki/ビヨンセ "wikilink") feat.[ジェイ・Z](../Page/ジェイ・Z.md "wikilink") | [JAKE NAVA](https://ja.wikipedia.org/wiki/:en:Jake_Nava "wikilink")                               |
-| 9  | 2005年        | [AMERICAN IDIOT](https://ja.wikipedia.org/wiki/アメリカン・イディオット_\(曲\) "wikilink")                                                                            | [グリーン・デイ](https://ja.wikipedia.org/wiki/グリーン・デイ "wikilink")                                     | [SAMUEL BAYER](https://ja.wikipedia.org/wiki/:en:Samuel_Bayer "wikilink")                         |
-| 10 | 2006年        | [HUNG UP](../Page/ハング・アップ.md "wikilink")                                                                                                                 | [マドンナ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")                                    | [JOHAN SODERBERG](https://ja.wikipedia.org/wiki/:en:Johan_Söderberg "wikilink")                   |
-| 11 | 2007年        | [DANI CALIFORNIA](../Page/ダニー・カリフォルニア.md "wikilink")                                                                                                     | レッド・ホット・チリ・ペッパーズ                                                                                | TONY K                                                                                            |
-| 12 | 2008年        | [D.A.N.C.E.](https://ja.wikipedia.org/wiki/:en:D.A.N.C.E. "wikilink")                                                                                    | [ジャスティス](https://ja.wikipedia.org/wiki/ジャスティス_\(バンド\) "wikilink")                               | [JONAS＆FRANCOIS](https://ja.wikipedia.org/wiki/:en:Jonas_&_François "wikilink")                   |
-| 13 | 2009年        | [VIOLET HILL](https://ja.wikipedia.org/wiki/:en:Violet_Hill "wikilink")                                                                                  | [コールドプレイ](https://ja.wikipedia.org/wiki/コールドプレイ "wikilink")                                     | [ASA MADER](https://ja.wikipedia.org/wiki/:en:Asa_Mader "wikilink")                               |
-| 14 | 2010年        | [PAPARAZZI](https://ja.wikipedia.org/wiki/パパラッチ_\(レディー・ガガの曲\) "wikilink")                                                                                | [レディー・ガガ](https://ja.wikipedia.org/wiki/レディー・ガガ "wikilink")                                     | [JONAS ACKERLUND](https://ja.wikipedia.org/wiki/:en:Jonas_Åkerlund "wikilink")                    |
-| 15 | 2011年        | [RUNAWAY](https://ja.wikipedia.org/wiki/:en:Runaway_\(Kanye_West_song\) "wikilink") feat.[PUSHA T](https://ja.wikipedia.org/wiki/:en:Pusha_T "wikilink") | [カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")                                   | [Hype Williams](https://ja.wikipedia.org/wiki/:en:Hype_Williams "wikilink")                       |
+| 回  | 年            | 受賞曲                                                                                                                                                      | アーティスト                                                                       | 監督                                                                                                |
+| -- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1  | nowrap|1996年 | [VIRTUAL INSANITY](https://ja.wikipedia.org/wiki/:en:Virtual_Insanity "wikilink")                                                                        | [ジャミロクワイ](../Page/ジャミロクワイ.md "wikilink")                                     | [JONATHAN GLAZER](https://ja.wikipedia.org/wiki/:en:Jonathan_Glazer "wikilink")                   |
+| 2  | 1997年        | [ELEKTROBANK](https://ja.wikipedia.org/wiki/:en:Elektrobank "wikilink")                                                                                  | [ケミカル・ブラザーズ](../Page/ケミカル・ブラザーズ.md "wikilink")                               | [SPIKE JONZE](../Page/スパイク・ジョーンズ.md "wikilink")                                                   |
+| 3  | 1998年        | [INTERGALACTIC](https://ja.wikipedia.org/wiki/:en:Intergalactic_\(song\) "wikilink")                                                                     | [ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")                               | [NATHANIAL HORNBLOWER](https://ja.wikipedia.org/wiki/:en:Adam_Yauch "wikilink")                   |
+| 4  | 1999年        | [LET FOREVER BE](https://ja.wikipedia.org/wiki/:en:Let_Forever_Be "wikilink")                                                                            | ケミカル・ブラザーズ                                                                   | [MICHEL GONDRY](https://ja.wikipedia.org/wiki/:en:Michel_Gondry "wikilink")                       |
+| 5  | 2000年        | [SEXX LAWS](https://ja.wikipedia.org/wiki/:en:Sexx_Laws "wikilink")                                                                                      | [ベック](../Page/ベック_\(歌手\).md "wikilink")                                      | [BECK HANSEN](https://ja.wikipedia.org/wiki/:en:Beck "wikilink")                                  |
+| 6  | 2002年        | [WHERE'S YOUR HEAD AT?](https://ja.wikipedia.org/wiki/:en:Where's_Your_Head_At "wikilink")                                                               | [ベースメント・ジャックス](../Page/ベースメント・ジャックス.md "wikilink")                           | TRAKTOR                                                                                           |
+| 7  | 2003年        | [BY THE WAY](../Page/バイ・ザ・ウェイ.md "wikilink")                                                                                                             | [レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")                   | [Jonathan Dayton & Valerie Faris](https://ja.wikipedia.org/wiki/ジョナサン・デイトン&ヴァレリー・ファリス "wikilink") |
+| 8  | 2004年        | [CRAZY IN LOVE](https://ja.wikipedia.org/wiki/クレイジー・イン・ラブ "wikilink")                                                                                    | [ビヨンセ](../Page/ビヨンセ.md "wikilink") feat.[ジェイ・Z](../Page/ジェイ・Z.md "wikilink") | [JAKE NAVA](https://ja.wikipedia.org/wiki/:en:Jake_Nava "wikilink")                               |
+| 9  | 2005年        | [AMERICAN IDIOT](https://ja.wikipedia.org/wiki/アメリカン・イディオット_\(曲\) "wikilink")                                                                            | [グリーン・デイ](../Page/グリーン・デイ.md "wikilink")                                     | [SAMUEL BAYER](https://ja.wikipedia.org/wiki/:en:Samuel_Bayer "wikilink")                         |
+| 10 | 2006年        | [HUNG UP](../Page/ハング・アップ.md "wikilink")                                                                                                                 | [マドンナ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")                 | [JOHAN SODERBERG](https://ja.wikipedia.org/wiki/:en:Johan_Söderberg "wikilink")                   |
+| 11 | 2007年        | [DANI CALIFORNIA](../Page/ダニー・カリフォルニア.md "wikilink")                                                                                                     | レッド・ホット・チリ・ペッパーズ                                                             | TONY K                                                                                            |
+| 12 | 2008年        | [D.A.N.C.E.](https://ja.wikipedia.org/wiki/:en:D.A.N.C.E. "wikilink")                                                                                    | [ジャスティス](https://ja.wikipedia.org/wiki/ジャスティス_\(バンド\) "wikilink")            | [JONAS＆FRANCOIS](https://ja.wikipedia.org/wiki/:en:Jonas_&_François "wikilink")                   |
+| 13 | 2009年        | [VIOLET HILL](https://ja.wikipedia.org/wiki/:en:Violet_Hill "wikilink")                                                                                  | [コールドプレイ](../Page/コールドプレイ.md "wikilink")                                     | [ASA MADER](https://ja.wikipedia.org/wiki/:en:Asa_Mader "wikilink")                               |
+| 14 | 2010年        | [PAPARAZZI](https://ja.wikipedia.org/wiki/パパラッチ_\(レディー・ガガの曲\) "wikilink")                                                                                | [レディー・ガガ](https://ja.wikipedia.org/wiki/レディー・ガガ "wikilink")                  | [JONAS ACKERLUND](https://ja.wikipedia.org/wiki/:en:Jonas_Åkerlund "wikilink")                    |
+| 15 | 2011年        | [RUNAWAY](https://ja.wikipedia.org/wiki/:en:Runaway_\(Kanye_West_song\) "wikilink") feat.[PUSHA T](https://ja.wikipedia.org/wiki/:en:Pusha_T "wikilink") | [カニエ・ウェスト](https://ja.wikipedia.org/wiki/カニエ・ウェスト "wikilink")                | [Hype Williams](https://ja.wikipedia.org/wiki/:en:Hype_Williams "wikilink")                       |
 
 ### BEST ARTIST VIDEO
 
@@ -522,8 +522,8 @@ SHANE LESTER</p></td>
 
   - 2005年「[GALAXY](../Page/GALAXY_\(RIP_SLYMEの曲\).md "wikilink")」（RIP SLYME）監督：辻川幸一郎
   - 2006年「HeartBreaker」（[TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")）監督：須永秀明
-  - 2007年「HEAT ISLAND feat. FIRE BALL」（[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")）監督：MODEA(Tatsuaki＆Natori)
-  - 2008年「[ストロングスタイル](../Page/ストロングスタイル_\(曲\).md "wikilink")」（[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")）監督：須永秀明
+  - 2007年「HEAT ISLAND feat. FIRE BALL」（[RHYMESTER](../Page/RHYMESTER.md "wikilink")）監督：MODEA(Tatsuaki＆Natori)
+  - 2008年「[ストロングスタイル](../Page/ストロングスタイル_\(曲\).md "wikilink")」（[KREVA](../Page/KREVA.md "wikilink")）監督：須永秀明
 
 ### BEST ELECTRO VIDEO
 
@@ -531,10 +531,10 @@ SHANE LESTER</p></td>
 
 ### BEST COMPUTER GRAPHIC VIDEO
 
-  - 1999年「[PULSE](https://ja.wikipedia.org/wiki/PULSE "wikilink")」（[THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")）監督：オカモトケンジ
+  - 1999年「[PULSE](https://ja.wikipedia.org/wiki/PULSE "wikilink")」（[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")）監督：オカモトケンジ
   - 2000年「[Nothing's Gonna Change](../Page/Nothing's_Gonna_Change.md "wikilink")」（[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")）監督：田中秀幸、ピエール瀧
   - 2002年「[Dispatch feat.Dev Large,Nipps\&Vincent Galluo](../Page/Dispatch.md "wikilink")」（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）監督：中根ひろし（[ELECROTNIK](https://ja.wikipedia.org/wiki/ELECROTNIK "wikilink")）
-  - 2003年「STREET STARS BREAKIN'」（[DJ TASAKA](https://ja.wikipedia.org/wiki/DJ_TASAKA "wikilink")）監督：宇川直宏
+  - 2003年「STREET STARS BREAKIN'」（[DJ TASAKA](../Page/DJ_TASAKA.md "wikilink")）監督：宇川直宏
   - 2005年「THE RISING SUNS」（[石野卓球](../Page/石野卓球.md "wikilink")）監督：田中秀幸
 
 ### BEST ANIMATION VIDEO
@@ -549,7 +549,7 @@ SHANE LESTER</p></td>
   - 2004年「FATBROS」（[HIFANA](../Page/HIFANA.md "wikilink")）監督：+cruz/peng/fan
   - 2006年「WAMONO〜和モノ〜」（HIFANA）監督：+CRUZ
   - 2007年「MOUTH MUSIC feat. TAKKYU ISHINO,SHINCO」（[AFRA & INCREDIBLE BEATBOX BAND](../Page/AFRA_&_INCREDIBLE_BEATBOX_BAND.md "wikilink")）監督：SHASHAMIN & easeback
-  - 2008年「[美しい](https://ja.wikipedia.org/wiki/美しい_\(ゆらゆら帝国の曲\) "wikilink")」（[ゆらゆら帝国](https://ja.wikipedia.org/wiki/ゆらゆら帝国 "wikilink")）監督：天久聖一／山口保幸
+  - 2008年「[美しい](https://ja.wikipedia.org/wiki/美しい_\(ゆらゆら帝国の曲\) "wikilink")」（[ゆらゆら帝国](../Page/ゆらゆら帝国.md "wikilink")）監督：天久聖一／山口保幸
 
 ### BEST CREATIVE WORK
 
@@ -563,9 +563,9 @@ SHANE LESTER</p></td>
 
   - 1996年「A〜ha under the moon」（[宮本浩次](../Page/宮本浩次_\(シンガーソングライター\).md "wikilink")）監督：大原正裕、渡部達也
       -
-        「[拝啓、ジョンレノン](https://ja.wikipedia.org/wiki/拝啓、ジョン・レノン "wikilink")」（[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")）監督：塩坂芳樹、藪下晃正
+        「[拝啓、ジョンレノン](https://ja.wikipedia.org/wiki/拝啓、ジョン・レノン "wikilink")」（[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")）監督：塩坂芳樹、藪下晃正
         「CHASE」（[EL-MALO](../Page/EL-MALO.md "wikilink")）監督：須永秀明
-  - 2000年「FUNKY ウーロン茶」（[SUPER BUTTER DOG](https://ja.wikipedia.org/wiki/SUPER_BUTTER_DOG "wikilink")）監督：丹下鉱希
+  - 2000年「FUNKY ウーロン茶」（[SUPER BUTTER DOG](../Page/SUPER_BUTTER_DOG.md "wikilink")）監督：丹下鉱希
   - 2002年「[明日があるさ](../Page/明日があるさ.md "wikilink")」（[ウルフルズ](../Page/ウルフルズ.md "wikilink")）監督：竹内鉄郎
   - 2003年「[地球ブルース〜337〜](https://ja.wikipedia.org/wiki/地球ブルース〜337〜/DJDJ_［for_RADIO］ "wikilink")」（[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")）監督：須永秀明
 
@@ -576,7 +576,7 @@ SHANE LESTER</p></td>
 
 ### BEST IMPACT VIDEO
 
-  - 2007年「[Juicy Jungle](https://ja.wikipedia.org/wiki/Juicy_Jungle "wikilink") feat.[吉川晃司](../Page/吉川晃司.md "wikilink")」（[DISCO TWINS](../Page/DISCO_TWINS_\(バンド\).md "wikilink") ([DJ TASAKA](https://ja.wikipedia.org/wiki/DJ_TASAKA "wikilink")+[KAGAMI](../Page/KAGAMI.md "wikilink"))）監督：田中秀幸
+  - 2007年「[Juicy Jungle](https://ja.wikipedia.org/wiki/Juicy_Jungle "wikilink") feat.[吉川晃司](../Page/吉川晃司.md "wikilink")」（[DISCO TWINS](../Page/DISCO_TWINS_\(バンド\).md "wikilink") ([DJ TASAKA](../Page/DJ_TASAKA.md "wikilink")+[KAGAMI](../Page/KAGAMI.md "wikilink"))）監督：田中秀幸
   - 2008年「[群青](../Page/群青_\(スピッツの曲\).md "wikilink")」（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）監督：大宮エリー
 
 ### BEST SSTV ONLY EDITION
@@ -594,7 +594,7 @@ SHANE LESTER</p></td>
   - 2002年「YOU ARE GOD」（[スケボーキング](../Page/スケボーキング.md "wikilink")）監督：須永秀明
   - 2003年「[東京](../Page/東京_\(桑田佳祐の曲\).md "wikilink")」（[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")）監督：信藤三雄
   - 2004年「SECRET LOVE STORY」（[氣志團](../Page/氣志團.md "wikilink")）監督：スミス
-  - 2005年「[3月9日](../Page/3月9日_\(曲\).md "wikilink")」（[レミオロメン](https://ja.wikipedia.org/wiki/レミオロメン "wikilink")）監督：森淳一
+  - 2005年「[3月9日](../Page/3月9日_\(曲\).md "wikilink")」（[レミオロメン](../Page/レミオロメン.md "wikilink")）監督：森淳一
   - 2006年「[さくら](../Page/さくら_\(ケツメイシの曲\).md "wikilink")」（[ケツメイシ](../Page/ケツメイシ.md "wikilink")）監督：山口保幸
   - 2007年「[純恋歌](../Page/純恋歌.md "wikilink")」（[湘南乃風](../Page/湘南乃風.md "wikilink")）監督：平野康祐
   - 2008年「[LALALA feat.若旦那（湘南乃風）（Short Movie Ver.）](https://ja.wikipedia.org/wiki/LALALA_feat._若旦那\(湘南乃風\)/FUTURECHECKA_feat._SIMON,_COMA-CHI&TARO_SOUL "wikilink")」（[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")）監督：久保茂昭
@@ -618,16 +618,16 @@ SHANE LESTER</p></td>
 
 ### BEST SHOOTING VIDEO
 
-| 回  | 年     | 受賞曲                                                                                         | アーティスト                                                        | 監督                                                                  |
-| -- | ----- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 4  | 1999年 | プライベートサーファー                                                                                 | [UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")      | [田中秀幸](https://ja.wikipedia.org/wiki/田中秀幸_\(アートディレクター\) "wikilink") |
-| 5  | 2000年 | [エイリアンズ](https://ja.wikipedia.org/wiki/エイリアンズ "wikilink")                                   | [キリンジ](https://ja.wikipedia.org/wiki/キリンジ "wikilink")         | 吉田喜子                                                                |
-| 6  | 2002年 | [PEACE -strings version-](https://ja.wikipedia.org/wiki/PEACE_-strings_version- "wikilink") | [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")          | [河瀬直美](https://ja.wikipedia.org/wiki/河瀬直美 "wikilink")               |
-| 7  | 2003年 | 02                                                                                          | [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")         | 井上靖雄                                                                |
-| 8  | 2004年 | [タンデム](https://ja.wikipedia.org/wiki/タンデム_\(曲\) "wikilink")                                 | [HALCALI](../Page/HALCALI.md "wikilink")                      | [田中秀幸](https://ja.wikipedia.org/wiki/田中秀幸_\(アートディレクター\) "wikilink") |
-| 9  | 2005年 | [Home Sweet Home](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(YUKIの曲\) "wikilink")      | [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")  | [服部一成](../Page/服部一成.md "wikilink")                                  |
-| 14 | 2010年 | [ふたつの唇](https://ja.wikipedia.org/wiki/THE_GENERATION_〜ふたつの唇〜 "wikilink")                    | [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")       | [久保茂昭](../Page/久保茂昭.md "wikilink")                                  |
-| 15 | 2011年 | [マニフェスト](https://ja.wikipedia.org/wiki/マニフェスト_\(RADWIMPSの曲\) "wikilink")                    | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink") | 直                                                                   |
+| 回  | 年     | 受賞曲                                                                                         | アーティスト                                                        | 監督                                                    |
+| -- | ----- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------- |
+| 4  | 1999年 | プライベートサーファー                                                                                 | [UA](https://ja.wikipedia.org/wiki/UA_\(歌手\) "wikilink")      | [田中秀幸](../Page/田中秀幸_\(アートディレクター\).md "wikilink")      |
+| 5  | 2000年 | [エイリアンズ](https://ja.wikipedia.org/wiki/エイリアンズ "wikilink")                                   | [キリンジ](../Page/キリンジ.md "wikilink")                            | 吉田喜子                                                  |
+| 6  | 2002年 | [PEACE -strings version-](https://ja.wikipedia.org/wiki/PEACE_-strings_version- "wikilink") | [JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")          | [河瀬直美](https://ja.wikipedia.org/wiki/河瀬直美 "wikilink") |
+| 7  | 2003年 | 02                                                                                          | [RIZE](../Page/RIZE.md "wikilink")                            | 井上靖雄                                                  |
+| 8  | 2004年 | [タンデム](https://ja.wikipedia.org/wiki/タンデム_\(曲\) "wikilink")                                 | [HALCALI](../Page/HALCALI.md "wikilink")                      | [田中秀幸](../Page/田中秀幸_\(アートディレクター\).md "wikilink")      |
+| 9  | 2005年 | [Home Sweet Home](https://ja.wikipedia.org/wiki/Home_Sweet_Home_\(YUKIの曲\) "wikilink")      | [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")  | [服部一成](../Page/服部一成.md "wikilink")                    |
+| 14 | 2010年 | [ふたつの唇](https://ja.wikipedia.org/wiki/THE_GENERATION_〜ふたつの唇〜 "wikilink")                    | [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")       | [久保茂昭](../Page/久保茂昭.md "wikilink")                    |
+| 15 | 2011年 | [マニフェスト](https://ja.wikipedia.org/wiki/マニフェスト_\(RADWIMPSの曲\) "wikilink")                    | [RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink") | 直                                                     |
 
 ## 賞の統計
 
@@ -680,7 +680,7 @@ SHANE LESTER</p></td>
 
 ## 関連項目
 
-  - [MTV Video Music Awards Japan](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")（競合他社であるMTVジャパンによるミュージックビデオの祭典。）
+  - [MTV Video Music Awards Japan](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")（競合他社であるMTVジャパンによるミュージックビデオの祭典。）
 
 ## 外部リンク
 

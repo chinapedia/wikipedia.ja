@@ -1,7 +1,7 @@
 > この記事は[MODEL](https://ja.wikipedia.org/wiki/MODEL)から翻訳されています。
 
 
-『**未来MODEL**』（みらいモデル）は、[2004年](../Page/2004年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[テレビ東京系列局と](https://ja.wikipedia.org/wiki/TXN "wikilink")[岐阜放送](../Page/岐阜放送.md "wikilink")で毎週土曜 22:30 - 22:54 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた[オーディション](../Page/オーディション.md "wikilink")番組である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と[博報堂DYメディアパートナーズ](https://ja.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")の共同制作。[ユニリーバ・ジャパン](../Page/ユニリーバ・ジャパン.md "wikilink")（スポンサー表記は「LuX」）を筆頭とする複数社提供だった。
+『**未来MODEL**』（みらいモデル）は、[2004年](../Page/2004年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで[テレビ東京系列局と](https://ja.wikipedia.org/wiki/TXN "wikilink")[岐阜放送](../Page/岐阜放送.md "wikilink")で毎週土曜 22:30 - 22:54 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた[オーディション](../Page/オーディション.md "wikilink")番組である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と[博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")の共同制作。[ユニリーバ・ジャパン](../Page/ユニリーバ・ジャパン.md "wikilink")（スポンサー表記は「LuX」）を筆頭とする複数社提供だった。
 
 ## 概要
 

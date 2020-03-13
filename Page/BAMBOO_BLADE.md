@@ -1,7 +1,7 @@
 > この記事は[BAMBOO BLADE](https://ja.wikipedia.org/wiki/BAMBOO_BLADE)から翻訳されています。
 
 
-『**BAMBOO BLADE**』（バンブーブレード）は、原作：[土塚理弘](../Page/土塚理弘.md "wikilink")、作画：[五十嵐あぐり](../Page/五十嵐あぐり.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[剣道](../Page/剣道.md "wikilink")を題材としている。[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")の漫画雑誌『[ヤングガンガン](https://ja.wikipedia.org/wiki/ヤングガンガン "wikilink")』創刊号（[2004年](../Page/2004年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")発売）\[1\]より[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")18号（[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売）まで連載された。通称は「**バンブー**」「**バンブレ**」。 同じくスクウェアエニックスの漫画雑誌『[月刊ビッグガンガン](../Page/月刊ビッグガンガン.md "wikilink")』創刊号（[2016年](../Page/2016年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")発売）にて連載終了した『BAMBOO BLADE C』と『BBデフォルメ』をもってシリーズ全4部作の完結となった。
+『**BAMBOO BLADE**』（バンブーブレード）は、原作：[土塚理弘](../Page/土塚理弘.md "wikilink")、作画：[五十嵐あぐり](../Page/五十嵐あぐり.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[剣道](../Page/剣道.md "wikilink")を題材としている。[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")の漫画雑誌『[ヤングガンガン](../Page/ヤングガンガン.md "wikilink")』創刊号（[2004年](../Page/2004年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")発売）\[1\]より[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")18号（[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売）まで連載された。通称は「**バンブー**」「**バンブレ**」。 同じくスクウェアエニックスの漫画雑誌『[月刊ビッグガンガン](../Page/月刊ビッグガンガン.md "wikilink")』創刊号（[2016年](../Page/2016年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")発売）にて連載終了した『BAMBOO BLADE C』と『BBデフォルメ』をもってシリーズ全4部作の完結となった。
 
 ## 概要
 
@@ -70,7 +70,7 @@
     『ブラックデュラン』の後番組。前作の反動で、メンバーの数が非常に多くなっている。名称のみの登場で、『BAMBOO BLADE B』でも名称のみ登場している。
       - アニメ版での異同他
         第20話にて、遊園地のヒーローショーでレッドブレイバーと共演する。またタマキも原作と異なり番組を視聴しており、作品の出来について色々と語る場面がある。
-          - コスモワン - [小川輝晃](https://ja.wikipedia.org/wiki/小川輝晃 "wikilink")
+          - コスモワン - [小川輝晃](../Page/小川輝晃.md "wikilink")
   - しばくぞ\! 宇宙警察忍者侍オメガセイバー
     『コスモサーティーン』の後番組で、作中のバトルヒーローシリーズの中では最新作。前述の『清村くんと杉小路くんろ』とクロスオーバーしており、『清杉ろ』の方で企画会議が、本作の作中で放映内容が描かれる。
     ヒーローの武装がながいものような形状、さらにバイクが四足歩行をするなど、視聴したタマキ曰く「戦闘シーンはかっこよかったがデザインはどうにかならなかったのか」とのこと。
@@ -262,7 +262,7 @@ BAMBOO BLADE C
 ### スタッフ
 
   - 原作 - [土塚理弘](../Page/土塚理弘.md "wikilink")（原作）、[五十嵐あぐり](../Page/五十嵐あぐり.md "wikilink")（作画）
-  - 掲載 - 「[ヤングガンガン](https://ja.wikipedia.org/wiki/ヤングガンガン "wikilink")」（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")刊）
+  - 掲載 - 「[ヤングガンガン](../Page/ヤングガンガン.md "wikilink")」（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")刊）
   - 監督 - [斎藤久](../Page/斎藤久.md "wikilink")
   - 脚本 - [倉田英之](../Page/倉田英之.md "wikilink")
   - チーフ演出 - 五十嵐達矢
@@ -433,7 +433,7 @@ BAMBOO BLADE C
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>アニメーションとドリーム</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/もりたけし" title="wikilink">もりたけし</a></p></td>
+<td><p><a href="../Page/もりたけし.md" title="wikilink">もりたけし</a></p></td>
 <td><p>奥野耕太</p></td>
 <td><p>沈宏</p></td>
 <td><p>12月10日</p></td>
@@ -609,13 +609,13 @@ BAMBOO BLADE C
 
 ### 関連書籍
 
-  - TVアニメバンブーブレード公式ガイドブック（[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")刊） - ISBN 978-4-86176-535-3 2008年6月7日初版発行
+  - TVアニメバンブーブレード公式ガイドブック（[ジャイブ](../Page/ジャイブ.md "wikilink")刊） - ISBN 978-4-86176-535-3 2008年6月7日初版発行
   - バンブーブレードOFFICIAL FAN BOOK（[Gakken刊](../Page/学研ホールディングス.md "wikilink")） - ISBN 978-4-05-605186-5 2008年6月20日初版発行
 
 ### インターネットラジオ
 
   - [ラジオ・バンブーブレード〜文武両道\!](../Page/ラジオ・バンブーブレード〜文武両道!.md "wikilink")
-    2007年10月22日から2008年4月21日（最終更新）まで[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")にて配信された。パーソナリティは小西克幸（石田虎侍役）、豊口めぐみ（千葉紀梨乃役）、広橋涼（川添珠姫役）の3人。
+    2007年10月22日から2008年4月21日（最終更新）まで[音泉](../Page/音泉.md "wikilink")にて配信された。パーソナリティは小西克幸（石田虎侍役）、豊口めぐみ（千葉紀梨乃役）、広橋涼（川添珠姫役）の3人。
 
 ### CM
 
@@ -629,7 +629,7 @@ BAMBOO BLADE C
 
 :\* **キリノ伝言板** - 部活の連絡をキリノが伝言板に書き残していくが、毎回文中に誤字が含まれており、確認した部員から突っ込みが入る。
 
-:\* **キルミヤ** - 『[キル・ビル](https://ja.wikipedia.org/wiki/キル・ビル "wikilink")』のパロディ。ミヤミヤが行く手を阻む敵を斬り捨てながら、東海道の旅を続ける。敵は主に[酔っ払い](../Page/酔っ払い.md "wikilink")（出没は、[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")→[箱根町](../Page/箱根町.md "wikilink")→[沼津市](../Page/沼津市.md "wikilink")→[大津市](../Page/大津市.md "wikilink")→[京都市](../Page/京都市.md "wikilink")・東寺にて大団円へ）。
+:\* **キルミヤ** - 『[キル・ビル](../Page/キル・ビル.md "wikilink")』のパロディ。ミヤミヤが行く手を阻む敵を斬り捨てながら、東海道の旅を続ける。敵は主に[酔っ払い](../Page/酔っ払い.md "wikilink")（出没は、[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")→[箱根町](../Page/箱根町.md "wikilink")→[沼津市](../Page/沼津市.md "wikilink")→[大津市](../Page/大津市.md "wikilink")→[京都市](../Page/京都市.md "wikilink")・東寺にて大団円へ）。
 
 :\* **スペース☆アズマ** - 東が宇宙船の乗組員となり、宇宙船のトラブルに慌てふためく。
 
@@ -640,7 +640,7 @@ BAMBOO BLADE C
   - バンブーブレード〜“それから”の挑戦〜
     2009年5月28日発売。[ガジェットソフト](https://ja.wikipedia.org/wiki/ガジェットソフト "wikilink")から発売。
       - ジャンル - 燃え萌え真剣（ホンキ）アドベンチャーゲーム
-      - 対応機種 - [PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")
+      - 対応機種 - [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")
       - CERO指定 - A（全年齢対象）
 
 ## 脚注

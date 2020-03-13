@@ -3,7 +3,7 @@
 
 **Pケルト語**とは[ケルト語派](../Page/ケルト語派.md "wikilink")に属する[言語](../Page/言語.md "wikilink")の一部である。
 
-[古代ギリシア](../Page/古代ギリシア.md "wikilink")時代に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の中部から拡散していった[ケルト人](../Page/ケルト人.md "wikilink")という[民族](../Page/民族.md "wikilink")の共通言語が、年代を経るうちに現代[ケルト諸言語に分かれていった](https://ja.wikipedia.org/wiki/ケルト語 "wikilink")。この現代ケルト語に二派がある。すなわち[アイルランド語](../Page/アイルランド語.md "wikilink")、スコットランドの[ゲール語](../Page/ゲール語.md "wikilink")と[マン島語](https://ja.wikipedia.org/wiki/マン島語 "wikilink")を含む[Qケルト語](https://ja.wikipedia.org/wiki/Qケルト語 "wikilink")とPケルト語である。
+[古代ギリシア](../Page/古代ギリシア.md "wikilink")時代に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")の中部から拡散していった[ケルト人](../Page/ケルト人.md "wikilink")という[民族](../Page/民族.md "wikilink")の共通言語が、年代を経るうちに現代[ケルト諸言語に分かれていった](https://ja.wikipedia.org/wiki/ケルト語 "wikilink")。この現代ケルト語に二派がある。すなわち[アイルランド語](../Page/アイルランド語.md "wikilink")、スコットランドの[ゲール語](../Page/ゲール語.md "wikilink")と[マン島語](../Page/マン島語.md "wikilink")を含む[Qケルト語](https://ja.wikipedia.org/wiki/Qケルト語 "wikilink")とPケルト語である。
 
 現代のPケルト語は[ブリソン諸語](https://ja.wikipedia.org/wiki/ブリソン諸語 "wikilink")(Brythonic)と総称され、
 

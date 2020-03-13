@@ -9,7 +9,7 @@
 
 [フリーウェア](../Page/フリーウェア.md "wikilink")や[シェアウェア](../Page/シェアウェア.md "wikilink")などの[コンピュータプログラムを大勢の人に提供するためにもFTPサーバは利用される](../Page/プログラム_\(コンピュータ\).md "wikilink")。本来はFTPサーバはユーザーアカウントと[パスワード](../Page/パスワード.md "wikilink")による認証が必要だが、このような目的で提供されるサーバは匿名で転送 (たいていダウンロードだけに限定) できる。この際、伝統的にユーザーアカウントには**Anonymous**（英語で[匿名](../Page/匿名.md "wikilink")の意味）や**ftp**、パスワードには自分の[電子メール](../Page/電子メール.md "wikilink")アドレスを入力することが多い。
 
-FTPによる通信は暗号化されていないため、暗号化していない機密情報をそのまま送受信することになると、危険である。[SSHに対応しているサーバの多くは](../Page/Secure_Shell.md "wikilink")、[SSH File Transfer Protocol](https://ja.wikipedia.org/wiki/SSH_File_Transfer_Protocol "wikilink") (SFTP) で暗号化した方式で安全にファイル転送することができる。[SSL/TLSのうえでFTPのやりとりをする](../Page/Transport_Layer_Security.md "wikilink")[FTPS](../Page/FTPS.md "wikilink")といった方式をサポートしているサーバもある。しかし、従来の習慣から、旧来のFTPを利用しているユーザーは多い。
+FTPによる通信は暗号化されていないため、暗号化していない機密情報をそのまま送受信することになると、危険である。[SSHに対応しているサーバの多くは](../Page/Secure_Shell.md "wikilink")、[SSH File Transfer Protocol](../Page/SSH_File_Transfer_Protocol.md "wikilink") (SFTP) で暗号化した方式で安全にファイル転送することができる。[SSL/TLSのうえでFTPのやりとりをする](../Page/Transport_Layer_Security.md "wikilink")[FTPS](../Page/FTPS.md "wikilink")といった方式をサポートしているサーバもある。しかし、従来の習慣から、旧来のFTPを利用しているユーザーは多い。
 
 ## FTPサーバソフトウェア一覧
 

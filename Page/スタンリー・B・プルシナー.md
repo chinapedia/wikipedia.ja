@@ -3,7 +3,7 @@
 
 ` `
 
-**スタンリー・ベン・プルシナー**（Stanley Ben Prusiner、M.D.[1942年](../Page/1942年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[生化学者](https://ja.wikipedia.org/wiki/生化学者 "wikilink")、[医師](../Page/医師.md "wikilink")。[カリフォルニア大学サンフランシスコ校](../Page/カリフォルニア大学サンフランシスコ校.md "wikilink") (UCSF) の[神経学](https://ja.wikipedia.org/wiki/神経学 "wikilink")、[生化学](../Page/生化学.md "wikilink")の教授。[蛋白質](https://ja.wikipedia.org/wiki/蛋白質 "wikilink")である[プリオン](../Page/プリオン.md "wikilink")が病原性物質として振る舞うことを発見し、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を単独で受賞した。
+**スタンリー・ベン・プルシナー**（Stanley Ben Prusiner、M.D.[1942年](../Page/1942年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink") - ）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[生化学者](https://ja.wikipedia.org/wiki/生化学者 "wikilink")、[医師](../Page/医師.md "wikilink")。[カリフォルニア大学サンフランシスコ校](../Page/カリフォルニア大学サンフランシスコ校.md "wikilink") (UCSF) の[神経学](../Page/神経学.md "wikilink")、[生化学](../Page/生化学.md "wikilink")の教授。[蛋白質](https://ja.wikipedia.org/wiki/蛋白質 "wikilink")である[プリオン](../Page/プリオン.md "wikilink")が病原性物質として振る舞うことを発見し、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を単独で受賞した。
 
 ## 経歴
 
@@ -12,9 +12,9 @@
 ## 主な受賞歴
 
   - [1993年](../Page/1993年.md "wikilink") [ディクソン賞](https://ja.wikipedia.org/wiki/ディクソン賞 "wikilink")医学部門（[ピッツバーグ大学](../Page/ピッツバーグ大学.md "wikilink")）
-  - [1994年](../Page/1994年.md "wikilink") [アルバート・ラスカー基礎医学研究賞](https://ja.wikipedia.org/wiki/アルバート・ラスカー基礎医学研究賞 "wikilink")
+  - [1994年](../Page/1994年.md "wikilink") [アルバート・ラスカー基礎医学研究賞](../Page/アルバート・ラスカー基礎医学研究賞.md "wikilink")
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") [パウル・エールリヒ&ルートヴィヒ・ダルムシュテッター賞](https://ja.wikipedia.org/wiki/パウル・エールリヒ&ルートヴィヒ・ダルムシュテッター賞 "wikilink")
-  - [1996年](../Page/1996年.md "wikilink") [慶應医学賞](https://ja.wikipedia.org/wiki/慶應医学賞 "wikilink")
+  - [1996年](../Page/1996年.md "wikilink") [慶應医学賞](../Page/慶應医学賞.md "wikilink")
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") ノーベル生理学・医学賞、[ルイザ・グロス・ホロウィッツ賞](../Page/ルイザ・グロス・ホロウィッツ賞.md "wikilink")（[コロンビア大学](https://ja.wikipedia.org/wiki/コロンビア大学 "wikilink")）
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") [ベンジャミン・フランクリン・メダル](https://ja.wikipedia.org/wiki/ベンジャミン・フランクリン・メダル_\(フランクリン協会\) "wikilink")
   - [2009年](../Page/2009年.md "wikilink") [アメリカ国家科学賞](../Page/アメリカ国家科学賞.md "wikilink")

@@ -1,14 +1,14 @@
 > この記事は[Access \(\)](https://ja.wikipedia.org/wiki/Access_\(\))から翻訳されています。
 
 
-**access**（アクセス）は、キーボーディスト[浅倉大介](../Page/浅倉大介.md "wikilink")とボーカリスト[貴水博之](https://ja.wikipedia.org/wiki/貴水博之 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1992年](../Page/1992年.md "wikilink")にデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より活動を休止するが[2002年](../Page/2002年.md "wikilink")に活動再開。所属レーベルは[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。所属事務所は[Darwin](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")（浅倉）、[Guan Barl](../Page/ぐあんばーる.md "wikilink")（貴水）。
+**access**（アクセス）は、キーボーディスト[浅倉大介](../Page/浅倉大介.md "wikilink")とボーカリスト[貴水博之](../Page/貴水博之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1992年](../Page/1992年.md "wikilink")にデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より活動を休止するが[2002年](../Page/2002年.md "wikilink")に活動再開。所属レーベルは[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。所属事務所は[Darwin](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")（浅倉）、[Guan Barl](../Page/ぐあんばーる.md "wikilink")（貴水）。
 
 ## メンバー
 
   - [浅倉大介](../Page/浅倉大介.md "wikilink")
       - キーボード
       - 作曲、編曲、プロデュース
-  - [貴水博之](https://ja.wikipedia.org/wiki/貴水博之 "wikilink")
+  - [貴水博之](../Page/貴水博之.md "wikilink")
       - ボーカル
       - 作詞
 
@@ -119,7 +119,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -192,7 +192,7 @@
   - 5月14日、配信限定シングル『CATCH THE RAINBOW 2011（Pray For Japan Version）』をリリース。
   - 8月3日、19thシングル『[Share The Love](https://ja.wikipedia.org/wiki/Share_The_Love "wikilink")』をリリース（オリコン最高位14位）。
   - 8月6日〜28日、ライブツアー「access TOUR 2011 OPERATION CONNECT」（4都市6公演）を行う。
-  - 12月31日、ライブ「encore of "OPERATION CONNECT"」（[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")）、「access COUNTDOWN LIVE 2011〜2012」（中野サンプラザ）を行う。
+  - 12月31日、ライブ「encore of "OPERATION CONNECT"」（[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")）、「access COUNTDOWN LIVE 2011〜2012」（中野サンプラザ）を行う。
 
 <!-- end list -->
 
@@ -1625,24 +1625,24 @@ double decades + half Special SYNC LIVE 1125/1126</p></td>
 
 ## タイアップ
 
-| 楽曲                            | タイアップ                                                                                                                                          |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| **HOT CRUISING NIGHT**        | [ニッポン放送](../Page/ニッポン放送.md "wikilink")「[伊集院光のOh\!デカナイト](../Page/伊集院光のOh!デカナイト.md "wikilink")」OPテーマ                                             |
-| **NAKED DESIRE**              | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[上岡龍太郎にはダマされないぞ\!](https://ja.wikipedia.org/wiki/上岡龍太郎にはダマされないぞ! "wikilink")」EDテーマ |
-| **NIGHT WAVE**                | ニッポン放送「伊集院光のOh\!デカナイト」OPテーマ                                                                                                                    |
-| **TRY AGAIN**                 | [TBS系](../Page/TBSテレビ.md "wikilink")「[実業団駅伝](../Page/全日本実業団対抗駅伝競走大会.md "wikilink")」EDテーマ                                                       |
-| **夢を見たいから**                   | フジテレビ系「[たけし・逸見の平成教育委員会](https://ja.wikipedia.org/wiki/たけし・逸見の平成教育委員会 "wikilink")」EDテーマ                                                         |
-| **MISTY HEARTBREAK**          | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[ジャングルの王者ターちゃん](https://ja.wikipedia.org/wiki/ジャングルの王者ターちゃん "wikilink")♡」EDテーマ     |
-| **SWEET SILENCE**             | フジテレビ系「[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")」EDテーマ                                                                                 |
-| **Only the love survive**     | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[ろみひー](../Page/ろみひー.md "wikilink")」EDテーマ                                                              |
-| **REAL AT NIGHT 〜眠れぬ夜の向こうに〜** | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[内村プロデュース](../Page/内村プロデュース.md "wikilink")」EDテーマ                                                         |
-| **瞳ノ翼**                       | TBS系アニメ「[コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")」stage24・25テーマ曲                                                                |
-| **Doubt & Trust 〜ダウト&トラスト〜**  | テレビ東京系アニメ「[D.Gray-man](https://ja.wikipedia.org/wiki/D.Gray-man "wikilink")」OPテーマ                                                              |
-| **Dream Runner**              | ドラマ「[ここはグリーン・ウッド](https://ja.wikipedia.org/wiki/ここはグリーン・ウッド "wikilink")〜青春男子寮日誌〜」OPテーマ                                                         |
-| **PARADISE**                  | フジテレビ系ドラマ「[結婚披露宴〜人生最悪の3時間〜](../Page/結婚披露宴〜人生最悪の3時間〜.md "wikilink")」挿入歌                                                                         |
-| **Bet 〜追憶のRoulette〜**         | フジテレビ系「[スキモノ](https://ja.wikipedia.org/wiki/スキモノ "wikilink")」EDテーマ                                                                             |
-| **24sync**                    | テレビ朝日系「[ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")」EDテーマ                                                                                  |
-| **Knock beautiful smile**     | テレビ朝日系「[musicる TV](https://ja.wikipedia.org/wiki/musicる_TV "wikilink")」EDテーマ                                                                   |
+| 楽曲                            | タイアップ                                                                                                                       |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **HOT CRUISING NIGHT**        | [ニッポン放送](../Page/ニッポン放送.md "wikilink")「[伊集院光のOh\!デカナイト](../Page/伊集院光のOh!デカナイト.md "wikilink")」OPテーマ                          |
+| **NAKED DESIRE**              | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[上岡龍太郎にはダマされないぞ\!](../Page/上岡龍太郎にはダマされないぞ!.md "wikilink")」EDテーマ |
+| **NIGHT WAVE**                | ニッポン放送「伊集院光のOh\!デカナイト」OPテーマ                                                                                                 |
+| **TRY AGAIN**                 | [TBS系](../Page/TBSテレビ.md "wikilink")「[実業団駅伝](../Page/全日本実業団対抗駅伝競走大会.md "wikilink")」EDテーマ                                    |
+| **夢を見たいから**                   | フジテレビ系「[たけし・逸見の平成教育委員会](https://ja.wikipedia.org/wiki/たけし・逸見の平成教育委員会 "wikilink")」EDテーマ                                      |
+| **MISTY HEARTBREAK**          | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[ジャングルの王者ターちゃん](../Page/ジャングルの王者ターちゃん.md "wikilink")♡」EDテーマ     |
+| **SWEET SILENCE**             | フジテレビ系「[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")」EDテーマ                                                              |
+| **Only the love survive**     | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[ろみひー](../Page/ろみひー.md "wikilink")」EDテーマ                                           |
+| **REAL AT NIGHT 〜眠れぬ夜の向こうに〜** | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[内村プロデュース](../Page/内村プロデュース.md "wikilink")」EDテーマ                                      |
+| **瞳ノ翼**                       | TBS系アニメ「[コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")」stage24・25テーマ曲                                             |
+| **Doubt & Trust 〜ダウト&トラスト〜**  | テレビ東京系アニメ「[D.Gray-man](../Page/D.Gray-man.md "wikilink")」OPテーマ                                                              |
+| **Dream Runner**              | ドラマ「[ここはグリーン・ウッド](../Page/ここはグリーン・ウッド.md "wikilink")〜青春男子寮日誌〜」OPテーマ                                                         |
+| **PARADISE**                  | フジテレビ系ドラマ「[結婚披露宴〜人生最悪の3時間〜](../Page/結婚披露宴〜人生最悪の3時間〜.md "wikilink")」挿入歌                                                      |
+| **Bet 〜追憶のRoulette〜**         | フジテレビ系「[スキモノ](https://ja.wikipedia.org/wiki/スキモノ "wikilink")」EDテーマ                                                          |
+| **24sync**                    | テレビ朝日系「[ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")」EDテーマ                                                               |
+| **Knock beautiful smile**     | テレビ朝日系「[musicる TV](https://ja.wikipedia.org/wiki/musicる_TV "wikilink")」EDテーマ                                                |
 
 ## 外部リンク
 

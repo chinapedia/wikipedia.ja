@@ -17,7 +17,7 @@
 
 ## メンバー
 
-  - Jay（[ジェイ](https://ja.wikipedia.org/wiki/ジェイ_\(韓国の歌手\) "wikilink")、제이、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")\[3\]または[1984年](../Page/1984年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")\[4\] - ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - Jay（[ジェイ](https://ja.wikipedia.org/wiki/ジェイ_\(韓国の歌手\) "wikilink")、제이、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")\[3\]または[1984年](../Page/1984年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")\[4\] - ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - Jungmo（ジュンモ、김정모（[キム・ジョンモ](https://ja.wikipedia.org/wiki/キム・ジョンモ "wikilink")）、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")\[5\] - ） [ギター](../Page/ギター.md "wikilink")（2004年 - 2018年）、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - GINJO - [DJ](../Page/ディスクジョッキー.md "wikilink")\[6\]
 
@@ -31,8 +31,8 @@
 ### 日本シングル
 
   - [Scorpio](https://ja.wikipedia.org/wiki/Scorpio "wikilink") ([2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink"))
-  - [Rhapsody](https://ja.wikipedia.org/wiki/Rhapsody_\(TRAXの曲\) "wikilink") ([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink"))：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[志村通](../Page/志村通.md "wikilink")』エンディングテーマ
-  - Blaze Away ([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月14日](../Page/9月14日.md "wikilink"))：[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[アイシールド21](../Page/アイシールド21.md "wikilink")』エンディングテーマ
+  - [Rhapsody](https://ja.wikipedia.org/wiki/Rhapsody_\(TRAXの曲\) "wikilink") ([2005年](../Page/2005年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink"))：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系『[志村通](../Page/志村通.md "wikilink")』エンディングテーマ
+  - Blaze Away ([2005年](../Page/2005年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink"))：[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[アイシールド21](../Page/アイシールド21.md "wikilink")』エンディングテーマ
   - RESOLUTION ([2006年](../Page/2006年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink"))
   - Find The Way/Cold Rain‐初雨‐ ([2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink"))
   - Light On You (光の中で) ([2007年](../Page/2007年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink"))：[ネクソンジャパン](https://ja.wikipedia.org/wiki/ネクソンジャパン "wikilink")オンラインゲーム『[テイルズウィーバー](../Page/テイルズウィーバー.md "wikilink")』世界の扉　メインテーマ
@@ -41,7 +41,7 @@
 
   - 1st Single「PARADOX」([2004年](../Page/2004年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink"))
   - 日本2nd Single「Scorpio」([2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink"))韓日同時発売
-  - 日本3rd Single「Blaze Away」([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月14日](../Page/9月14日.md "wikilink"))韓日同時発売
+  - 日本3rd Single「Blaze Away」([2005年](../Page/2005年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink"))韓日同時発売
   - 日本5th Single「Find The Way/Cold Rain-初雨-」([2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink"))韓日同時発売
   - 1st Album「初雨」」([2006年](../Page/2006年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink"))
   - 1st Mini Album「Let You Go」([2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月25日](../Page/1月25日.md "wikilink"))

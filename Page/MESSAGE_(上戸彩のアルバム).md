@@ -9,7 +9,7 @@
   - 初回限定盤は、「[愛のために。](https://ja.wikipedia.org/wiki/愛のために。 "wikilink")」のPVとメイキング集を収録したDVD付き。通常盤は、スペシャルブックレット封入。リリースイベント参加券両方に封入。
   - 当初発表された収録曲リストから排除された「幸せになるように」は、未発表曲となった。また、「太陽と月」の仮タイトルは「隣にいてほしい」であった。
   - 本作のプロモーションとして、アルバム発売前の[3月2日](../Page/3月2日.md "wikilink")からは、CDショップ店頭にて、シングル「[愛のために。](https://ja.wikipedia.org/wiki/愛のために。 "wikilink")」「[微熱](https://ja.wikipedia.org/wiki/微熱_\(上戸彩の曲\) "wikilink")」「[感傷](https://ja.wikipedia.org/wiki/感傷/MERMAID "wikilink")」「[MESSAGE](https://ja.wikipedia.org/wiki/MESSAGE/PERSONAL "wikilink")」のプロモーションビデオと共に、上戸彩「メッセージ入りプロモーションビデオ」をオンエアした。
-  - [2003年](../Page/2003年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に[新堂本兄弟](https://ja.wikipedia.org/wiki/新堂本兄弟 "wikilink")の「ベストヒットたかみー」コーナーで初披露した「[贈る言葉](https://ja.wikipedia.org/wiki/贈る言葉 "wikilink")」は、自身初のカバーとなった。
+  - [2003年](../Page/2003年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に[新堂本兄弟](https://ja.wikipedia.org/wiki/新堂本兄弟 "wikilink")の「ベストヒットたかみー」コーナーで初披露した「[贈る言葉](../Page/贈る言葉.md "wikilink")」は、自身初のカバーとなった。
 
 ## 収録曲
 
@@ -19,16 +19,16 @@
         7thシングル
         [テレビ朝日](../Page/テレビ朝日.md "wikilink")系開局45周年記念ドラマ『[エースをねらえ\!](https://ja.wikipedia.org/wiki/エースをねらえ!#TVドラマ "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")
         後に、織田哲郎がセルフカバー。
-2.  **[贈る言葉](https://ja.wikipedia.org/wiki/贈る言葉 "wikilink")**
+2.  **[贈る言葉](../Page/贈る言葉.md "wikilink")**
       -
-        作詞：[武田鉄矢](../Page/武田鉄矢.md "wikilink")、作曲：[千葉和臣](https://ja.wikipedia.org/wiki/千葉和臣 "wikilink")、編曲：[Sin](https://ja.wikipedia.org/wiki/Sin_\(音楽プロデューサー\) "wikilink")
-        [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[3年B組金八先生 伝説の教壇に立て\!](https://ja.wikipedia.org/wiki/3年B組金八先生_伝説の教壇に立て! "wikilink") 』主題歌
-        [海援隊のカバー曲](https://ja.wikipedia.org/wiki/海援隊_\(フォークグループ\) "wikilink")。シングル「[風/贈る言葉](https://ja.wikipedia.org/wiki/風_\(上戸彩の曲\) "wikilink")」としてリカットされた。
+        作詞：[武田鉄矢](../Page/武田鉄矢.md "wikilink")、作曲：[千葉和臣](../Page/千葉和臣.md "wikilink")、編曲：[Sin](https://ja.wikipedia.org/wiki/Sin_\(音楽プロデューサー\) "wikilink")
+        [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[3年B組金八先生 伝説の教壇に立て\!](../Page/3年B組金八先生_伝説の教壇に立て!.md "wikilink") 』主題歌
+        [海援隊のカバー曲](../Page/海援隊_\(フォークグループ\).md "wikilink")。シングル「[風/贈る言葉](https://ja.wikipedia.org/wiki/風_\(上戸彩の曲\) "wikilink")」としてリカットされた。
 3.  **[MESSAGE 〜album version〜](https://ja.wikipedia.org/wiki/MESSAGE/PERSONAL "wikilink")**
       -
-        作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink")、作曲：[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")、編曲：Sin
+        作詞：[岩里祐穂](../Page/岩里祐穂.md "wikilink")、作曲：[HΛL](../Page/HΛL.md "wikilink")、編曲：Sin
         4thシングル
-        [ニベア花王](https://ja.wikipedia.org/wiki/ニベア花王 "wikilink")「8×4」CMソング
+        [ニベア花王](../Page/ニベア花王.md "wikilink")「8×4」CMソング
         本作のタイトル曲。
 4.  **青空**
       -
@@ -37,7 +37,7 @@
       -
         作詞・作曲・編曲：[PIPELINE PROJECT](https://ja.wikipedia.org/wiki/PIPELINE_PROJECT "wikilink")
         5thシングル
-        [TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")『[ひと夏のパパへ](https://ja.wikipedia.org/wiki/ひと夏のパパへ "wikilink")』主題歌
+        [TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")『[ひと夏のパパへ](../Page/ひと夏のパパへ.md "wikilink")』主題歌
 6.  **[MERMAID](https://ja.wikipedia.org/wiki/感傷/MERMAID "wikilink")**
       -
         作詞・作曲・編曲：PIPELINE PROJECT
@@ -54,7 +54,7 @@
         この曲はアルバムバージョンで収録されており、終盤のアコースティックギターの回数がシングルでは2回・アルバムでは4回になっている。
 9.  **[微熱](https://ja.wikipedia.org/wiki/微熱_\(上戸彩の曲\) "wikilink")**
       -
-        作詞：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、作曲：[渡辺未来](https://ja.wikipedia.org/wiki/渡辺未来 "wikilink")、編曲：[水島康貴](../Page/水島康貴.md "wikilink")
+        作詞：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、作曲：[渡辺未来](../Page/渡辺未来.md "wikilink")、編曲：[水島康貴](../Page/水島康貴.md "wikilink")
         6thシングル
 10. **キセキ**
       -

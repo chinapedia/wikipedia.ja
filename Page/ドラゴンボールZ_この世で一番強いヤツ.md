@@ -1,15 +1,15 @@
 > この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
 
 
-『**ドラゴンボールZ この世で一番強いヤツ**』（ドラゴンボールゼット このよでいちばんつよいヤツ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")に公開された『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』シリーズの劇場公開作第5弾である。監督は[西尾大介](https://ja.wikipedia.org/wiki/西尾大介 "wikilink")。
+『**ドラゴンボールZ この世で一番強いヤツ**』（ドラゴンボールゼット このよでいちばんつよいヤツ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")に公開された『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』シリーズの劇場公開作第5弾である。監督は[西尾大介](../Page/西尾大介.md "wikilink")。
 
-春休みの[東映アニメまつりの](https://ja.wikipedia.org/wiki/東映まんがまつり "wikilink")1作品として上映された。同時上映作は『[悪魔くん ようこそ悪魔ランドへ\!\!](https://ja.wikipedia.org/wiki/悪魔くん#第2作 "wikilink")』、『[魔法使いサリー](https://ja.wikipedia.org/wiki/魔法使いサリー#劇場版 "wikilink")』（第2作）。
+春休みの[東映アニメまつりの](../Page/東映まんがまつり.md "wikilink")1作品として上映された。同時上映作は『[悪魔くん ようこそ悪魔ランドへ\!\!](https://ja.wikipedia.org/wiki/悪魔くん#第2作 "wikilink")』、『[魔法使いサリー](https://ja.wikipedia.org/wiki/魔法使いサリー#劇場版 "wikilink")』（第2作）。
 
 ## 解説
 
 邦画配給収入9億5000万円\[1\]、観客動員数270万人\[2\]。1996年初頭時点におけるビデオ販売本数は3万3千本\[3\]。
 
-時期的には「悟空の道着の、胸の亀マークと背の界王マークからみて[ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")戦〜悟空[ナメック星](https://ja.wikipedia.org/wiki/ナメック星 "wikilink")到着までの間の出来事だろう。だがナメック星で戦闘中のハズの悟飯が地球にいるなどの矛盾も」と『ドラゴンボール大全集』では解説されている\[4\]。本作では、まだ[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")の力が不安定な時期だったため不思議な力を持った子供として描写されていた。また、第一線から退いた[亀仙人](https://ja.wikipedia.org/wiki/亀仙人 "wikilink")が戦う描写や、[チチが前作とはうって変わった教育ママぶりが強調されている](../Page/チチ_\(ドラゴンボール\).md "wikilink")。劇場版で定番となる[クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")の台詞「何でオレだけ…」は今作で初登場となる。
+時期的には「悟空の道着の、胸の亀マークと背の界王マークからみて[ベジータ](../Page/ベジータ.md "wikilink")戦〜悟空[ナメック星](../Page/ナメック星.md "wikilink")到着までの間の出来事だろう。だがナメック星で戦闘中のハズの悟飯が地球にいるなどの矛盾も」と『ドラゴンボール大全集』では解説されている\[4\]。本作では、まだ[孫悟飯](../Page/孫悟飯.md "wikilink")の力が不安定な時期だったため不思議な力を持った子供として描写されていた。また、第一線から退いた[亀仙人](../Page/亀仙人.md "wikilink")が戦う描写や、[チチが前作とはうって変わった教育ママぶりが強調されている](../Page/チチ_\(ドラゴンボール\).md "wikilink")。劇場版で定番となる[クリリン](../Page/クリリン.md "wikilink")の台詞「何でオレだけ…」は今作で初登場となる。
 
 ## あらすじ
 
@@ -17,12 +17,12 @@
 
 ## ゲストキャラクター
 
-バイオマン以外は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の[名古屋名物をもじった名前になっている](../Page/名古屋市.md "wikilink")\[5\]。これらの名前は脚本家の[小山高生](https://ja.wikipedia.org/wiki/小山高生 "wikilink")が考えたもの\[6\]。
+バイオマン以外は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")の[名古屋名物をもじった名前になっている](../Page/名古屋市.md "wikilink")\[5\]。これらの名前は脚本家の[小山高生](../Page/小山高生.md "wikilink")が考えたもの\[6\]。
 
   - Dr.ウィロー\[7\]
     [神龍の力によって永久氷壁の中から](https://ja.wikipedia.org/wiki/神龍_\(ドラゴンボール\) "wikilink")50年ぶりに復活を遂げ、人間たちの支配を目論む[悪の天才科学者](../Page/マッドサイエンティスト.md "wikilink")。かつては「不世出の天才」と呼ばれるほどだったが、狂気に満ちた極端な思想の持ち主だったために表の世界から葬り去られ、「永久凍土の中で死に絶え報いを受けた」と報じられていたが生存していた。その途上で病に倒れたが、助手であるDr.コーチンの手を借りて脳だけを生命維持装置へと移植され、そのまま研究所の最深部で生き延びていた。自分を偉大な頭脳の持ち主だと考え、それを変人扱いしこの世から葬り去ろうとした世間に復讐を誓い、自分の科学力で支配することで復讐を遂げようと画策している。
-    一人称は「ワシ」。性格は理知的で落ち着いた口調の人物だが、[ブルマに反論されたり助手のコーチンが制止を無視して悟飯を挑発し続けた時は怒鳴るなど激情的な部分もある](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink")。
-    脳は透明なバイザーで覆われ、その内部は透明な溶液で満たされており、普段はバイザー部分のみを壁から露出させているが、真の姿は巨大なサイボーグ。その巨体を研究所のコア部分に隠していた。Dr.ウィロー自身はこの姿を「醜い身体」と評していたが、3倍界王拳を発動した悟空の突進や4倍界王拳[かめはめ波](https://ja.wikipedia.org/wiki/かめはめ波 "wikilink")にも耐えるほどの強固な装甲を持ち、衝撃波だけで悟飯やピッコロを吹き飛ばすなど、規格外の強さを誇る。研究所のコアとは機能が連動しているらしく、決着の際はコアからエネルギーを吸い寄せている。また「とてつもなく強い気が近づいている」と悟空の気配を察知したり、[気を読む能力を持っていた様子](https://ja.wikipedia.org/wiki/気_\(ドラゴンボール\) "wikilink")。
+    一人称は「ワシ」。性格は理知的で落ち着いた口調の人物だが、[ブルマに反論されたり助手のコーチンが制止を無視して悟飯を挑発し続けた時は怒鳴るなど激情的な部分もある](../Page/ブルマ_\(ドラゴンボール\).md "wikilink")。
+    脳は透明なバイザーで覆われ、その内部は透明な溶液で満たされており、普段はバイザー部分のみを壁から露出させているが、真の姿は巨大なサイボーグ。その巨体を研究所のコア部分に隠していた。Dr.ウィロー自身はこの姿を「醜い身体」と評していたが、3倍界王拳を発動した悟空の突進や4倍界王拳[かめはめ波](../Page/かめはめ波.md "wikilink")にも耐えるほどの強固な装甲を持ち、衝撃波だけで悟飯やピッコロを吹き飛ばすなど、規格外の強さを誇る。研究所のコアとは機能が連動しているらしく、決着の際はコアからエネルギーを吸い寄せている。また「とてつもなく強い気が近づいている」と悟空の気配を察知したり、[気を読む能力を持っていた様子](https://ja.wikipedia.org/wiki/気_\(ドラゴンボール\) "wikilink")。
     最強の武術家の体を自分の物にするために、当初は亀仙人を誘拐してその肉体を奪おうとしていた。しかし、亀仙人の最強伝説が過去のものであると知ると、強気な態度を取ったブルマから悟空のことを聞き、即座に標的を悟空へと変更。3体の凶暴戦士が倒され、ピッコロの洗脳が解けて自らの手駒が全滅すると、真の姿を現して自ら悟空たちに戦いを挑む。一時は悟空たちを圧倒するが、4倍界王拳かめはめ波によって大気圏外に吹き飛ばされる。その後は極大エネルギー波で地球そのものを吹き飛ばそうとするが、悟空の元気玉によって押し返され消滅した。
     作者である[鳥山明](../Page/鳥山明.md "wikilink")のデザインでは大きさの設定はされておらず、機械の身体の中には脳以外の臓器も描かれていた。『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』の特集記事では、「無敵のロボット・マジンウルトラ28号」と解説されている\[8\]。名前の由来は[ういろう](https://ja.wikipedia.org/wiki/外郎_\(菓子\) "wikilink")\[9\]。
   - Dr.コーチン
@@ -36,10 +36,10 @@
         名前の由来は、[きしめん](../Page/きしめん.md "wikilink")から\[12\]。
       - エビフリャー　
         薄いピンクの肌に巨体が特徴で、凶暴戦士最大のパワーを持つ。また掌から触れたものを凍らせる「凍結拳」を放つ。Dr.コーチンに合わせて言葉を発するなど、彼の意思と同調しているかのような描写があった。悟飯とクリリンを凍らせるが、最後は界王拳の一撃で壁に吹き飛ばされて倒された。
-        名前の由来は、[エビフライ](https://ja.wikipedia.org/wiki/エビフライ "wikilink")から\[13\]。
+        名前の由来は、[エビフライ](../Page/エビフライ.md "wikilink")から\[13\]。
       - ミソカッツン
         凶暴戦士一番の巨大な体。イボが沢山付いた皮膚をしており、ゴムのように極めて柔らかい体型で、亀仙人や悟空のかめはめ波をも跳ね返すが、悟空の界王拳には体が耐え切れず、腹部に穴を空けられて倒された。
-        名前の由来は、[味噌カツ](https://ja.wikipedia.org/wiki/味噌カツ "wikilink")から\[14\]。
+        名前の由来は、[味噌カツ](../Page/味噌カツ.md "wikilink")から\[14\]。
   - バイオマン
     Dr.ウィローの手下の戦闘生物で複数体存在する。知能はそれほど高くないが、簡単な会話などは可能である。無機的かつ抑揚の無い口調ではあるが感情は持っているようで、煙の中から咳き込みながら現れた亀仙人を見て唖然とし、汗をかく場面もある。ツルマイツブリ山を訪れた悟飯とウーロンを数体掛かりで襲ったが、ピッコロによって蹴散らされ、内1体は口から放ったエネルギー波によって倒される。その後、Dr.コーチンと共に[カメハウス](../Page/カメハウス.md "wikilink")を訪れ、亀仙人に戦いを挑むも一蹴される。しかし、ブルマを人質に取って亀仙人を連行した。
     名前の由来はバイオ工学で作られたから\[15\]。
@@ -47,19 +47,19 @@
 
 ## 声の出演
 
-  - **[孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")、[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")** - [野沢雅子](../Page/野沢雅子.md "wikilink")
+  - **[孫悟空](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")、[孫悟飯](../Page/孫悟飯.md "wikilink")** - [野沢雅子](../Page/野沢雅子.md "wikilink")
   - **[ピッコロ](../Page/ピッコロ_\(ドラゴンボール\).md "wikilink")** - [古川登志夫](../Page/古川登志夫.md "wikilink")
-  - **[クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")** - [田中真弓](../Page/田中真弓.md "wikilink")
-  - **[ブルマ](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink")** - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
-  - **[亀仙人](https://ja.wikipedia.org/wiki/亀仙人 "wikilink")** - [宮内幸平](https://ja.wikipedia.org/wiki/宮内幸平 "wikilink")
-  - **[チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")** - [荘真由美](https://ja.wikipedia.org/wiki/荘真由美 "wikilink")
+  - **[クリリン](../Page/クリリン.md "wikilink")** - [田中真弓](../Page/田中真弓.md "wikilink")
+  - **[ブルマ](../Page/ブルマ_\(ドラゴンボール\).md "wikilink")** - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
+  - **[亀仙人](../Page/亀仙人.md "wikilink")** - [宮内幸平](../Page/宮内幸平.md "wikilink")
+  - **[チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")** - [荘真由美](../Page/荘真由美.md "wikilink")
   - '''[ウーロン](https://ja.wikipedia.org/wiki/ウーロン "wikilink") ''' - [龍田直樹](../Page/龍田直樹.md "wikilink")
   - **[神龍](https://ja.wikipedia.org/wiki/神龍_\(ドラゴンボール\) "wikilink")** - [内海賢二](../Page/内海賢二.md "wikilink")
-  - **Dr.コーチン** - [矢田耕司](https://ja.wikipedia.org/wiki/矢田耕司 "wikilink")
-  - **キシーメ** - [岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")
-  - **エビフリャー** - [山口健](https://ja.wikipedia.org/wiki/山口健 "wikilink")
-  - '''ミソカッツン ''' - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
-  - **Dr.ウィロー** - [中田浩二](https://ja.wikipedia.org/wiki/中田浩二_\(俳優\) "wikilink")
+  - **Dr.コーチン** - [矢田耕司](../Page/矢田耕司.md "wikilink")
+  - **キシーメ** - [岸野幸正](../Page/岸野幸正.md "wikilink")
+  - **エビフリャー** - [山口健](../Page/山口健.md "wikilink")
+  - '''ミソカッツン ''' - [郷里大輔](../Page/郷里大輔.md "wikilink")
+  - **Dr.ウィロー** - [中田浩二](../Page/中田浩二_\(俳優\).md "wikilink")
   - **ナレーター** - [八奈見乗児](../Page/八奈見乗児.md "wikilink")
 
 ## スタッフ
@@ -68,23 +68,23 @@
   - 原作 - [鳥山明](../Page/鳥山明.md "wikilink")
   - 企画 - [森下孝三](../Page/森下孝三.md "wikilink")
   - 製作担当 - 岸本松司
-  - 脚本 - [小山高生](https://ja.wikipedia.org/wiki/小山高生 "wikilink")
-  - 音楽 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
+  - 脚本 - [小山高生](../Page/小山高生.md "wikilink")
+  - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影監督 - 池上元秋
   - 編集 - 福光伸一
   - 録音 - 二宮健治
   - 美術監督 - [池田祐二](https://ja.wikipedia.org/wiki/池田祐二 "wikilink")
-  - 作画監督 - [前田実](https://ja.wikipedia.org/wiki/前田実 "wikilink")
-  - 監督 - [西尾大介](https://ja.wikipedia.org/wiki/西尾大介 "wikilink")
+  - 作画監督 - [前田実](../Page/前田実.md "wikilink")
+  - 監督 - [西尾大介](../Page/西尾大介.md "wikilink")
   - 原画 - [海老沢幸男](https://ja.wikipedia.org/wiki/海老沢幸男 "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[江口寿志](../Page/江口寿志.md "wikilink")、[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、[志田直俊](https://ja.wikipedia.org/wiki/志田直俊 "wikilink") 他
   - 宣伝協力 - [週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ## 主題歌
 
-  - オープニングテーマ - 『[CHA-LA HEAD-CHA-LA](https://ja.wikipedia.org/wiki/CHA-LA_HEAD-CHA-LA "wikilink")』
-    作詞 - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - [山本健司](https://ja.wikipedia.org/wiki/山本健司 "wikilink") / 歌 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+  - オープニングテーマ - 『[CHA-LA HEAD-CHA-LA](../Page/CHA-LA_HEAD-CHA-LA.md "wikilink")』
+    作詞 - [森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - [山本健司](../Page/山本健司.md "wikilink") / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
   - エンディングテーマ - 『[戦（I・KU・SA）](https://ja.wikipedia.org/wiki/「ドラゴンボール」「ドラゴンボールZ」大全集 "wikilink")』
-    作詞 - [佐藤大](https://ja.wikipedia.org/wiki/佐藤大 "wikilink") / 作曲 - [池毅](../Page/池毅.md "wikilink") / 編曲 - 山本健司 / 歌 - 影山ヒロノブ
+    作詞 - [佐藤大](../Page/佐藤大.md "wikilink") / 作曲 - [池毅](../Page/池毅.md "wikilink") / 編曲 - 山本健司 / 歌 - 影山ヒロノブ
   - 挿入歌 - 『[ピッコロさんだ〜いすき♡](https://ja.wikipedia.org/wiki/「ドラゴンボール」「ドラゴンボールZ」大全集 "wikilink")』
     作詞 - [谷穂ちろる](../Page/谷穂ちろる.md "wikilink") / 作曲 - 池毅 / 編曲 - 山本健司 / 歌 - 野沢雅子
 

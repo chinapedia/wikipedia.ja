@@ -5,7 +5,7 @@
 
   - [SCSIパラレルインタフェイス](../Page/Small_Computer_System_Interface.md "wikilink") (SCSI Parallel Interface)
 
-  - \- [IPsec](https://ja.wikipedia.org/wiki/IPsec "wikilink")で使われる32bitの識別子。
+  - \- [IPsec](../Page/IPsec.md "wikilink")で使われる32bitの識別子。
 
   - [シリアル・ペリフェラル・インタフェース](../Page/シリアル・ペリフェラル・インタフェース.md "wikilink") (Serial Peripheral Interface) - コンピュータ内部で使われるデバイス同士を接続する際、端子数が少なくて済む接続方式。SPIバス
 
@@ -19,7 +19,7 @@
 
   - [ソニー・ピクチャーズ・イメージワークス](../Page/ソニー・ピクチャーズ・イメージワークス.md "wikilink") (Sony Pictures Imageworks)
 
-  - [ステートフル・パケット・インスペクション](https://ja.wikipedia.org/wiki/ファイアウォール#ステートフルパケットインスペクション "wikilink") (Stateful Packet Inspection) - [コンピュータネットワーク](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")における[ファイアウォール](../Page/ファイアウォール.md "wikilink")の一種
+  - [ステートフル・パケット・インスペクション](https://ja.wikipedia.org/wiki/ファイアウォール#ステートフルパケットインスペクション "wikilink") (Stateful Packet Inspection) - [コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")における[ファイアウォール](../Page/ファイアウォール.md "wikilink")の一種
 
   - [Susie](../Page/Susie.md "wikilink")プラグイン(.spi)
 
@@ -27,9 +27,9 @@
 
   - （Swiss Performance Index） - [スイス株価指数](https://ja.wikipedia.org/wiki/スイス株価指数 "wikilink")も参照。
 
-  - [SPI総合検査](https://ja.wikipedia.org/wiki/SPI総合検査 "wikilink") (Synthetic Personality Inventory） - [リクルート人事測定事業部](https://ja.wikipedia.org/wiki/リクルートホールディングス "wikilink")（現[リクルートマネジメントソリューションズ](https://ja.wikipedia.org/wiki/リクルートマネジメントソリューションズ "wikilink")）が開発した[就職試験](https://ja.wikipedia.org/wiki/就職試験 "wikilink")で用いられる[適性検査](../Page/適性検査.md "wikilink")。現在は[SPI3](https://ja.wikipedia.org/wiki/SPI3 "wikilink")が使われている。
+  - [SPI総合検査](https://ja.wikipedia.org/wiki/SPI総合検査 "wikilink") (Synthetic Personality Inventory） - [リクルート人事測定事業部](../Page/リクルートホールディングス.md "wikilink")（現[リクルートマネジメントソリューションズ](https://ja.wikipedia.org/wiki/リクルートマネジメントソリューションズ "wikilink")）が開発した[就職試験](https://ja.wikipedia.org/wiki/就職試験 "wikilink")で用いられる[適性検査](../Page/適性検査.md "wikilink")。現在は[SPI3](https://ja.wikipedia.org/wiki/SPI3 "wikilink")が使われている。
 
-  - [システム・パケット・インタフェース](https://ja.wikipedia.org/wiki/システム・パケット・インタフェース "wikilink") (System Packet Interface) - 光インターネットワーキングフォーラム(Optical Internetworking Forum, [OIF](https://ja.wikipedia.org/wiki/OIF "wikilink"))準拠の高速通信インタフェース規格。2.5Gbpsの[OC-48](https://ja.wikipedia.org/wiki/OC-48 "wikilink")(SPI-3)や10Gbpsの[OC-192](https://ja.wikipedia.org/wiki/OC-192 "wikilink")(SPI-4.2)などがある。[SDHを参照のこと](https://ja.wikipedia.org/wiki/Synchronous_Digital_Hierarchy "wikilink")。
+  - [システム・パケット・インタフェース](https://ja.wikipedia.org/wiki/システム・パケット・インタフェース "wikilink") (System Packet Interface) - 光インターネットワーキングフォーラム(Optical Internetworking Forum, [OIF](https://ja.wikipedia.org/wiki/OIF "wikilink"))準拠の高速通信インタフェース規格。2.5Gbpsの[OC-48](https://ja.wikipedia.org/wiki/OC-48 "wikilink")(SPI-3)や10Gbpsの[OC-192](https://ja.wikipedia.org/wiki/OC-192 "wikilink")(SPI-4.2)などがある。[SDHを参照のこと](../Page/Synchronous_Digital_Hierarchy.md "wikilink")。
 
   - [Spi (俳優)](https://ja.wikipedia.org/wiki/Spi_\(俳優\) "wikilink") - 日本の男性俳優、歌手。
 

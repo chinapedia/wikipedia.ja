@@ -26,7 +26,7 @@
 
 ### 嗜好
 
-好物は[バーボンウィスキー](https://ja.wikipedia.org/wiki/バーボンウィスキー "wikilink")。初期は[アーリータイムズ](../Page/アーリータイムズ.md "wikilink")を愛飲していた。また喫煙家で捜査情報を整理するために煙草を吸う場面が多い。こちらは初期では[ラッキーストライク](https://ja.wikipedia.org/wiki/ラッキーストライク "wikilink")だった。カウンターだけの小さなバーで、煙草をくゆらしながらバーボンを飲むのが日課。[C.パーカーや](../Page/チャーリー・パーカー.md "wikilink")[J.コルトレーンなどの](../Page/ジョン・コルトレーン.md "wikilink")[モダンジャズ](https://ja.wikipedia.org/wiki/モダンジャズ "wikilink")を好んで聴く。
+好物は[バーボンウィスキー](https://ja.wikipedia.org/wiki/バーボンウィスキー "wikilink")。初期は[アーリータイムズ](../Page/アーリータイムズ.md "wikilink")を愛飲していた。また喫煙家で捜査情報を整理するために煙草を吸う場面が多い。こちらは初期では[ラッキーストライク](../Page/ラッキーストライク.md "wikilink")だった。カウンターだけの小さなバーで、煙草をくゆらしながらバーボンを飲むのが日課。[C.パーカーや](../Page/チャーリー・パーカー.md "wikilink")[J.コルトレーンなどの](../Page/ジョン・コルトレーン.md "wikilink")[モダンジャズ](https://ja.wikipedia.org/wiki/モダンジャズ "wikilink")を好んで聴く。
 
 ### 作中の履歴
 

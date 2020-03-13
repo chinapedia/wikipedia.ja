@@ -1,13 +1,13 @@
 > この記事は[Sunflower\'s Garden](https://ja.wikipedia.org/wiki/Sunflower\'s_Garden)から翻訳されています。
 
 
-**Sunflower's Garden**（サンフラワーズ・ガーデン）は、男女4人によって構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")で結成、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に解散した。
+**Sunflower's Garden**（サンフラワーズ・ガーデン）は、男女4人によって構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")で結成、[2005年](../Page/2005年.md "wikilink")に解散した。
 
 ## 概要・来歴
 
-メンバーは前川浩透、本田有佳里、[川縁清志](https://ja.wikipedia.org/wiki/歌う応援隊ヒトミリリィ "wikilink")、中村逸人の4人。リーダーは中村である。詳細は後述の[メンバーの節を参照のこと](https://ja.wikipedia.org/wiki/#メンバー "wikilink")。
+メンバーは前川浩透、本田有佳里、[川縁清志](../Page/歌う応援隊ヒトミリリィ.md "wikilink")、中村逸人の4人。リーダーは中村である。詳細は後述の[メンバーの節を参照のこと](https://ja.wikipedia.org/wiki/#メンバー "wikilink")。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、リーダーの中村逸人を中心に金沢市にてバンドを結成。[2002年](../Page/2002年.md "wikilink")に“歌に力02”365日年中無休ライブを行う中、3月6日にシングル『Brand-new』でメジャーデビュー。[2004年](../Page/2004年.md "wikilink")、初のオリジナルアルバム『ひまわり花粉症』を[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発表し、翌年にはワンマンライブ『ひまわり熱中症』を行うなどの活動を展開したが、結成9年目となる[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月18日](../Page/7月18日.md "wikilink")にバンドは解散された。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、リーダーの中村逸人を中心に金沢市にてバンドを結成。[2002年](../Page/2002年.md "wikilink")に“歌に力02”365日年中無休ライブを行う中、3月6日にシングル『Brand-new』でメジャーデビュー。[2004年](../Page/2004年.md "wikilink")、初のオリジナルアルバム『ひまわり花粉症』を[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発表し、翌年にはワンマンライブ『ひまわり熱中症』を行うなどの活動を展開したが、結成9年目となる[2005年](../Page/2005年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")にバンドは解散された。
 
 メジャーデビューから解散までにシングル3枚、アルバム2枚をリリースした。詳細は後述の[作品の節を参照のこと](https://ja.wikipedia.org/wiki/#作品 "wikilink")。
 
@@ -17,8 +17,8 @@
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[アコースティックギター](https://ja.wikipedia.org/wiki/アコースティックギター "wikilink")担当。[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[金沢市](https://ja.wikipedia.org/wiki/金沢市 "wikilink")出身。血液型はAB型。
   - 本田有佳里
     [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。石川県金沢市出身。血液型はAB型。
-  - [川縁清志](https://ja.wikipedia.org/wiki/歌う応援隊ヒトミリリィ "wikilink")
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[福井県](../Page/福井県.md "wikilink")[福井市](../Page/福井市.md "wikilink")出身。血液型はO型。解散後[歌う応援隊ヒトミリリィ](https://ja.wikipedia.org/wiki/歌う応援隊ヒトミリリィ "wikilink")（男女ユニット）を結成。2009年には合同会社Big Bear Rich Records（インディーズレーベル）を設立。
+  - [川縁清志](../Page/歌う応援隊ヒトミリリィ.md "wikilink")
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[福井県](../Page/福井県.md "wikilink")[福井市](../Page/福井市.md "wikilink")出身。血液型はO型。解散後[歌う応援隊ヒトミリリィ](../Page/歌う応援隊ヒトミリリィ.md "wikilink")（男女ユニット）を結成。2009年には合同会社Big Bear Rich Records（インディーズレーベル）を設立。
   - 中村逸人
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。Sunflower's Gardenのリーダー。石川県金沢市出身。血液型はA型。解散後はサポートドラマーとして、様々なミュージシャンのレコーディングやライブに参加している。
 

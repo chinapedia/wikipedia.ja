@@ -1,7 +1,7 @@
 > この記事は[Microsoft XNA](https://ja.wikipedia.org/wiki/Microsoft_XNA)から翻訳されています。
 
 
-**Microsoft XNA**は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")によるコンピュータゲームデザイン、開発および管理を促進することを目的としたゲーム開発のためのツールである。マネージ実行環境を完備する。[2004年](../Page/2004年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[サンノゼ](../Page/サンノゼ.md "wikilink")の[Game Developers Conferenceで発表され](https://ja.wikipedia.org/wiki/Game_Developers_Conference "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月11日にリリースされた。[2014年](../Page/2014年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に終了\[1\]。
+**Microsoft XNA**は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")によるコンピュータゲームデザイン、開発および管理を促進することを目的としたゲーム開発のためのツールである。マネージ実行環境を完備する。[2004年](../Page/2004年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")、[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の[サンノゼ](../Page/サンノゼ.md "wikilink")の[Game Developers Conferenceで発表され](../Page/Game_Developers_Conference.md "wikilink")、[2006年](../Page/2006年.md "wikilink")12月11日にリリースされた。[2014年](../Page/2014年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に終了\[1\]。
 
 XNAは「XNA's Not Acronymed」（XNAは[頭字語](../Page/頭字語.md "wikilink")ではない）の[再帰的頭字語](../Page/再帰的頭字語.md "wikilink")である。
 
@@ -49,7 +49,7 @@ XNA Game Studio 2.0は [Xbox LIVE](https://ja.wikipedia.org/wiki/Xbox_LIVE "wiki
 
 2010年9月16日に正式公開された[4](http://www.microsoft.com/download/en/details.aspx?id=23714)。このバージョンのXNA Game Studioは、2010年10月15日に正式公開されたWindows Phone Developer Tools\[[http://www.microsoft.com/download/en/details.aspx?id=13890\]という](http://www.microsoft.com/download/en/details.aspx?id=13890%5Dという)、[Windows Phone 7用アプリケーション開発キットに付属するようになっている](https://ja.wikipedia.org/wiki/Windows_Phone_7 "wikilink")。ただし、[スタンドアローン](../Page/スタンドアローン.md "wikilink")インストーラーも別途提供されており、単体でのダウンロードおよびインストールも可能である。Visual Studio 2010に対応している。
 
-特に大幅な変更のあったグラフィックス関係のAPIは、XNA 3.xまでの[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink") 9をほぼラップした形のものから大幅に刷新され、Direct3D 10以降の洗練されたインターフェイスをある程度模倣したものとなっている（ただし内部的には依然としてDirect3D 9のラッパーでしかないため、Windows Vista/7であってもDirect3D 10の機能は使えない）。 XNA 4.0では、これまでのWindowsおよびXbox 360に加えて、Windows Phone 7を動作プラットフォームとしてサポートするようになった。一方、Zune/Zune HDのサポートは終了し、Windows Phone 7用ゲームとして移行する必要がある[5](http://msdn.microsoft.com/ja-jp/library/bb200104.aspx)。 また、XNA 4.0では、Windows 7およびWindows Phone 7のマルチタッチ機能やセンサー機能を利用できるようになった。 さらに、動作プラットフォームを厳密に規定するための、ReachプロファイルおよびHiDefプロファイルという概念が追加された。
+特に大幅な変更のあったグラフィックス関係のAPIは、XNA 3.xまでの[Direct3D](../Page/Direct3D.md "wikilink") 9をほぼラップした形のものから大幅に刷新され、Direct3D 10以降の洗練されたインターフェイスをある程度模倣したものとなっている（ただし内部的には依然としてDirect3D 9のラッパーでしかないため、Windows Vista/7であってもDirect3D 10の機能は使えない）。 XNA 4.0では、これまでのWindowsおよびXbox 360に加えて、Windows Phone 7を動作プラットフォームとしてサポートするようになった。一方、Zune/Zune HDのサポートは終了し、Windows Phone 7用ゲームとして移行する必要がある[5](http://msdn.microsoft.com/ja-jp/library/bb200104.aspx)。 また、XNA 4.0では、Windows 7およびWindows Phone 7のマルチタッチ機能やセンサー機能を利用できるようになった。 さらに、動作プラットフォームを厳密に規定するための、ReachプロファイルおよびHiDefプロファイルという概念が追加された。
 
 ## Dream‐Build‐Play
 

@@ -1,11 +1,11 @@
 > この記事は[!DX](https://ja.wikipedia.org/wiki/!DX)から翻訳されています。
 
 
-『**魁\!セレソンDX**』（さきがけ\! セレソンデラックス）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")開局25周年記念事業の一環として、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月から同年12月まで放送された[深夜ドラマ](../Page/深夜ドラマ.md "wikilink")。[劇団](https://ja.wikipedia.org/wiki/劇団 "wikilink")「[東京セレソンDX](https://ja.wikipedia.org/wiki/東京セレソンデラックス "wikilink")」による「斬新かつ実験的な連続ドラマ」を目指した番組である。
+『**魁\!セレソンDX**』（さきがけ\! セレソンデラックス）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")開局25周年記念事業の一環として、[2006年](../Page/2006年.md "wikilink")10月から同年12月まで放送された[深夜ドラマ](../Page/深夜ドラマ.md "wikilink")。[劇団](../Page/劇団.md "wikilink")「[東京セレソンDX](https://ja.wikipedia.org/wiki/東京セレソンデラックス "wikilink")」による「斬新かつ実験的な連続ドラマ」を目指した番組である。
 
 ## 内容
 
-[宅間孝行](https://ja.wikipedia.org/wiki/宅間孝行 "wikilink")がそれぞれ主役を演じる別々のストーリーが展開される。しかし、3つのストーリーは、男が一生を通じて1人の女性を愛した物語としてつながっている。
+[宅間孝行](../Page/宅間孝行.md "wikilink")がそれぞれ主役を演じる別々のストーリーが展開される。しかし、3つのストーリーは、男が一生を通じて1人の女性を愛した物語としてつながっている。
 
 ### ヤンキー魂
 
@@ -17,7 +17,7 @@
       - マリリン - 松永亜樹
       - サイパン - 飯島ぼぼぼ
       - ボッキン - [越村友一](https://ja.wikipedia.org/wiki/越村友一 "wikilink")
-      - ゲスト - [渡辺いっけい](https://ja.wikipedia.org/wiki/渡辺いっけい "wikilink")（喫茶店のマスター）、[佐藤重幸](https://ja.wikipedia.org/wiki/戸次重幸 "wikilink")、[伊藤高史](https://ja.wikipedia.org/wiki/伊藤高史 "wikilink")ほか
+      - ゲスト - [渡辺いっけい](https://ja.wikipedia.org/wiki/渡辺いっけい "wikilink")（喫茶店のマスター）、[佐藤重幸](../Page/戸次重幸.md "wikilink")、[伊藤高史](../Page/伊藤高史.md "wikilink")ほか
 
 #### サブタイトル
 
@@ -41,7 +41,7 @@
   - 出演
       - マスター - 宅間孝行
       - 茜 - 阿南敦子
-      - ゲスト - [中越典子](../Page/中越典子.md "wikilink")（第1回）、[斉木しげる](https://ja.wikipedia.org/wiki/斉木しげる "wikilink")（第2回）、[板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")（第3回）、[山崎裕太](https://ja.wikipedia.org/wiki/山崎裕太 "wikilink")（第4回）、[デーブ・スペクター](https://ja.wikipedia.org/wiki/デーブ・スペクター "wikilink")（第5回）、[本上まなみ](https://ja.wikipedia.org/wiki/本上まなみ "wikilink")（第6回）、[笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")（第7回）、[遠野凪子](https://ja.wikipedia.org/wiki/遠野なぎこ "wikilink")（第8回）、[蛭子能収](../Page/蛭子能収.md "wikilink")（第9回）、[須藤理彩](https://ja.wikipedia.org/wiki/須藤理彩 "wikilink")（第10回）、[清水ミチコ](../Page/清水ミチコ.md "wikilink")（第11回）、渡辺いっけい（写真）
+      - ゲスト - [中越典子](../Page/中越典子.md "wikilink")（第1回）、[斉木しげる](../Page/斉木しげる.md "wikilink")（第2回）、[板尾創路](../Page/板尾創路.md "wikilink")（第3回）、[山崎裕太](../Page/山崎裕太.md "wikilink")（第4回）、[デーブ・スペクター](../Page/デーブ・スペクター.md "wikilink")（第5回）、[本上まなみ](https://ja.wikipedia.org/wiki/本上まなみ "wikilink")（第6回）、[笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")（第7回）、[遠野凪子](https://ja.wikipedia.org/wiki/遠野なぎこ "wikilink")（第8回）、[蛭子能収](../Page/蛭子能収.md "wikilink")（第9回）、[須藤理彩](https://ja.wikipedia.org/wiki/須藤理彩 "wikilink")（第10回）、[清水ミチコ](../Page/清水ミチコ.md "wikilink")（第11回）、渡辺いっけい（写真）
       - ナレーター - [泉龍太](https://ja.wikipedia.org/wiki/泉龍太 "wikilink")
 
 ### 老人魂
@@ -53,11 +53,11 @@
       - 健太君 - 吉成浩一
       - 真彦（息子） - 西村清孝
       - 良子さん（嫁） - 高橋亜里沙
-      - おばあちゃん（絹子） - [うつみ宮土理](https://ja.wikipedia.org/wiki/うつみ宮土理 "wikilink")（写真・最終回ゲスト）
+      - おばあちゃん（絹子） - [うつみ宮土理](../Page/うつみ宮土理.md "wikilink")（写真・最終回ゲスト）
 
 ## スタッフ
 
-  - 脚本・演出 - [サタケミキオ](https://ja.wikipedia.org/wiki/宅間孝行 "wikilink")
+  - 脚本・演出 - [サタケミキオ](../Page/宅間孝行.md "wikilink")
   - 構成 - [山名宏和](../Page/山名宏和.md "wikilink")
   - 企画 - 恩田宏紀、緒方宣之、東京セレソンDX
   - TD - 岡野明彦、吉川均
@@ -80,7 +80,7 @@
   - 車輌 - フェネック
   - 制作進行 -
   - イラスト - [五月女ケイ子](../Page/五月女ケイ子.md "wikilink")
-  - 制作協力 - [千代田ビデオ](../Page/千代田ビデオ.md "wikilink")、アクトファースト、[サウンドエフェクト](https://ja.wikipedia.org/wiki/サウンドエフェクト "wikilink")、[イイジマルーム](https://ja.wikipedia.org/wiki/イイジマルーム "wikilink")、[アクターズセブン](https://ja.wikipedia.org/wiki/アクターズセブン "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[glow](https://ja.wikipedia.org/wiki/glow_\(ポストプロダクション\) "wikilink")、[タカツメディアサービス](https://ja.wikipedia.org/wiki/タカツメディアサービス "wikilink")、東京衣裳、[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")、[読売映像](https://ja.wikipedia.org/wiki/読売映像 "wikilink")
+  - 制作協力 - [千代田ビデオ](../Page/千代田ビデオ.md "wikilink")、アクトファースト、[サウンドエフェクト](../Page/サウンドエフェクト.md "wikilink")、[イイジマルーム](../Page/イイジマルーム.md "wikilink")、[アクターズセブン](https://ja.wikipedia.org/wiki/アクターズセブン "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[glow](https://ja.wikipedia.org/wiki/glow_\(ポストプロダクション\) "wikilink")、[タカツメディアサービス](https://ja.wikipedia.org/wiki/タカツメディアサービス "wikilink")、東京衣裳、[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")、[読売映像](https://ja.wikipedia.org/wiki/読売映像 "wikilink")
   - 編成 - 金岡英司
   - 番組宣伝 -
   - ディレクター - [ウエダダイスケ](https://ja.wikipedia.org/wiki/ウエダダイスケ "wikilink")

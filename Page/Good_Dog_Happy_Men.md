@@ -6,22 +6,22 @@
 ## メンバー
 
   - 門田匡陽（もんでん まさあき）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")/[ギター](../Page/ギター.md "wikilink")担当。
-      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")生まれ。みずがめ座。B型。[BURGER NUDSのVo](https://ja.wikipedia.org/wiki/BURGER_NUDS "wikilink")\&G。
+      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")[東京都](../Page/東京都.md "wikilink")生まれ。みずがめ座。B型。[BURGER NUDSのVo](../Page/BURGER_NUDS.md "wikilink")\&G。
       - 現在はPoet-type.M名義でソロ活動を行っている。
 
 ### 元メンバー
 
   - 内田武瑠（うちだ たける）[ドラムス担当](../Page/ドラムセット.md "wikilink")。
-      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")まれ。O型。元BURGER NUDSのドラマー。
+      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")[東京都](../Page/東京都.md "wikilink")まれ。O型。元BURGER NUDSのドラマー。
       - CDジャケットのアートワーク、一部楽曲でボーカルを担当。
       - 2010年6月1日、公式サイト上にて脱退が発表された。
       - 現在は[ショピン](https://ja.wikipedia.org/wiki/ショピン "wikilink")で活動中。
 
 <!-- end list -->
 
-  - 韮沢雄希（にらさわ ゆうき）[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
-      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")生まれ。O型。
-      - 元子役で、1992から1993年に放送された特撮番組『[特捜エクシードラフト](https://ja.wikipedia.org/wiki/特捜エクシードラフト "wikilink")』に「日向勝」役で出演していた。
+  - 韮沢雄希（にらさわ ゆうき）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
+      - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")[東京都](../Page/東京都.md "wikilink")生まれ。O型。
+      - 元子役で、1992から1993年に放送された特撮番組『[特捜エクシードラフト](../Page/特捜エクシードラフト.md "wikilink")』に「日向勝」役で出演していた。
       - 2009年4月30日、新宿LOFTでのライブをもって脱退。
 
 <!-- end list -->

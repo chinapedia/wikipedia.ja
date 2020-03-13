@@ -1,14 +1,14 @@
 > この記事は[Mnet](https://ja.wikipedia.org/wiki/Mnet)から翻訳されています。
 
 
-**Mnet**（エムネット、）とは、[大韓民国](../Page/大韓民国.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")、および[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")・[スカパー\!プレミアムサービス光](https://ja.wikipedia.org/wiki/スカパー!プレミアムサービス光 "wikilink")（Ch.658）、[スカパー\!（東経110度CS放送）](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（Ch.318）で放送されている韓国系[音楽](../Page/音楽.md "wikilink")専門チャンネルである。キャッチコピーは「**WE ARE K-POP**」。
+**Mnet**（エムネット、）とは、[大韓民国](../Page/大韓民国.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")、および[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")・[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")（Ch.658）、[スカパー\!（東経110度CS放送）](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（Ch.318）で放送されている韓国系[音楽](../Page/音楽.md "wikilink")専門チャンネルである。キャッチコピーは「**WE ARE K-POP**」。
 
 ## チャンネル詳細
 
 ### 韓国
 
   - 演奏所・本社は[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[麻浦区](../Page/麻浦区.md "wikilink")のCJ ENMセンター内。Mnetはチャンネル名称で、[CJ ENMが運営会社の正式名称である](https://ja.wikipedia.org/wiki/CJ_E&M "wikilink")。
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にミュージックネットワークで開局。[2002年](../Page/2002年.md "wikilink")に、今のMnetに名称を変更した。音楽番組に限らず芸能番組、エンターテイメント番組を制作する。[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")、インターネット「Mnet.com」、または[衛星DMB](https://ja.wikipedia.org/wiki/衛星DMB "wikilink")「MyMnet」で視聴可能（すべて生放送）。衛星放送の[Skylifeではケーブルテレビ市場に注力するため](https://ja.wikipedia.org/wiki/KTスカイライフ "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")以降一時視聴不可能となっていたが、[2009年](../Page/2009年.md "wikilink")5月に放送を再開した。加入者数は2006年時点で1000万人（ケーブルテレビパックセット視聴者数も含む）。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[インターネット](../Page/インターネット.md "wikilink")上で生で視聴可能になった。[VOD](https://ja.wikipedia.org/wiki/VOD "wikilink")サービスも始めている。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にミュージックネットワークで開局。[2002年](../Page/2002年.md "wikilink")に、今のMnetに名称を変更した。音楽番組に限らず芸能番組、エンターテイメント番組を制作する。[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")、インターネット「Mnet.com」、または[衛星DMB](https://ja.wikipedia.org/wiki/衛星DMB "wikilink")「MyMnet」で視聴可能（すべて生放送）。衛星放送の[Skylifeではケーブルテレビ市場に注力するため](https://ja.wikipedia.org/wiki/KTスカイライフ "wikilink")、[2005年](../Page/2005年.md "wikilink")以降一時視聴不可能となっていたが、[2009年](../Page/2009年.md "wikilink")5月に放送を再開した。加入者数は2006年時点で1000万人（ケーブルテレビパックセット視聴者数も含む）。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[インターネット](../Page/インターネット.md "wikilink")上で生で視聴可能になった。[VOD](https://ja.wikipedia.org/wiki/VOD "wikilink")サービスも始めている。
   - [1999年](../Page/1999年.md "wikilink")に第1回音楽祭（現行の[Mnet Asian Music Awards](../Page/Mnet_Asian_Music_Awards.md "wikilink")）を開催。2002年に**Mnet Music Video Festival**に改名。2006年に[KMTV](https://ja.wikipedia.org/wiki/KMTV "wikilink")がグループ化したことにより**Mnet KM Music Festival**（MKMF）に改名。2009年には対象地域をアジアに拡大し**Mnet Asian Music Awards**（MAMA）の名称となった。
 
 ### 日本

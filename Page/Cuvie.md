@@ -3,11 +3,11 @@
 
 **Cuvie**（キュービー\[1\]、[1976年](../Page/1976年.md "wikilink")\[2\] [7月20日](../Page/7月20日.md "wikilink")\[3\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[成年向け漫画](https://ja.wikipedia.org/wiki/成年向け漫画 "wikilink")雑誌、一般向け漫画雑誌の双方で活動している。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身\[4\]。
 
-[ペンネーム](../Page/ペンネーム.md "wikilink")はファッション雑誌『[CUTiE](https://ja.wikipedia.org/wiki/CUTiE "wikilink")』に由来する\[5\]。
+[ペンネーム](../Page/ペンネーム.md "wikilink")はファッション雑誌『[CUTiE](../Page/CUTiE.md "wikilink")』に由来する\[5\]。
 
 ## 特色
 
-成人向け漫画では[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")の男女や学生同士のカップルを取り扱った純愛ものから、男性視点、女性視点の浮気や性愛に溺れる背徳性の高い作品まで、幅広い作風を持つ。また、大変な速筆家としても知られ、一般誌での連載中でもコンスタントに成人向け作品を発表し、年に3〜4冊のペースで単行本を出し続けている上に、単行本未収録原稿が多くある作家として知られている。そのため、オーディオドラマCD付き限定版コミックスの「通常版」に未収録作品を追加掲載したりもしている。
+成人向け漫画では[幼馴染](../Page/幼馴染.md "wikilink")の男女や学生同士のカップルを取り扱った純愛ものから、男性視点、女性視点の浮気や性愛に溺れる背徳性の高い作品まで、幅広い作風を持つ。また、大変な速筆家としても知られ、一般誌での連載中でもコンスタントに成人向け作品を発表し、年に3〜4冊のペースで単行本を出し続けている上に、単行本未収録原稿が多くある作家として知られている。そのため、オーディオドラマCD付き限定版コミックスの「通常版」に未収録作品を追加掲載したりもしている。
 
 ## 来歴
 
@@ -15,15 +15,15 @@
 
 小学校から高校までは[クラシックバレエ](https://ja.wikipedia.org/wiki/クラシックバレエ "wikilink")を習っていたが挫折する。この経験が、2013年に連載開始する「[絢爛たるグランドセーヌ](https://ja.wikipedia.org/wiki/絢爛たるグランドセーヌ "wikilink")」の執筆に結びつくことになる。
 
-[同志社大学](https://ja.wikipedia.org/wiki/同志社大学 "wikilink")在学中に[コミックマーケット](../Page/コミックマーケット.md "wikilink")で編集者のスカウトを受け、漫画家の道を歩む\[6\]。
+[同志社大学](../Page/同志社大学.md "wikilink")在学中に[コミックマーケット](../Page/コミックマーケット.md "wikilink")で編集者のスカウトを受け、漫画家の道を歩む\[6\]。
 
 ### デビュー後
 
-[2001年](../Page/2001年.md "wikilink")、[桜桃書房](https://ja.wikipedia.org/wiki/桜桃書房 "wikilink")発行の成人向け[コミックアンソロジー](https://ja.wikipedia.org/wiki/コミックアンソロジー "wikilink")『[I.D COMIC](https://ja.wikipedia.org/wiki/I.D_COMIC "wikilink")』で商業誌デビューした。それ以後は同社の他、[茜新社](../Page/茜新社.md "wikilink")、[一水社](https://ja.wikipedia.org/wiki/一水社 "wikilink")、[オークラ出版](../Page/オークラ出版.md "wikilink")、[オークス](../Page/オークス_\(出版社\).md "wikilink")、[コスミック出版](https://ja.wikipedia.org/wiki/コスミック出版 "wikilink")、[晋遊舎](https://ja.wikipedia.org/wiki/晋遊舎 "wikilink")、[富士美出版](https://ja.wikipedia.org/wiki/富士美出版 "wikilink")、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")が発行する成年向け漫画雑誌、コミックアンソロジーに作品が掲載される。また、[2002年](../Page/2002年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")までは[光彩書房](https://ja.wikipedia.org/wiki/光彩書房 "wikilink")発行の少女向けコミックアンソロジー『[光彩コミックスピンキーティーンズ](https://ja.wikipedia.org/wiki/光彩コミックスピンキーティーンズ "wikilink")』シリーズでも連載を持っていた。
+[2001年](../Page/2001年.md "wikilink")、[桜桃書房](https://ja.wikipedia.org/wiki/桜桃書房 "wikilink")発行の成人向け[コミックアンソロジー](https://ja.wikipedia.org/wiki/コミックアンソロジー "wikilink")『[I.D COMIC](https://ja.wikipedia.org/wiki/I.D_COMIC "wikilink")』で商業誌デビューした。それ以後は同社の他、[茜新社](../Page/茜新社.md "wikilink")、[一水社](https://ja.wikipedia.org/wiki/一水社 "wikilink")、[オークラ出版](../Page/オークラ出版.md "wikilink")、[オークス](../Page/オークス_\(出版社\).md "wikilink")、[コスミック出版](https://ja.wikipedia.org/wiki/コスミック出版 "wikilink")、[晋遊舎](../Page/晋遊舎.md "wikilink")、[富士美出版](https://ja.wikipedia.org/wiki/富士美出版 "wikilink")、[ワニマガジン社](../Page/ワニマガジン社.md "wikilink")が発行する成年向け漫画雑誌、コミックアンソロジーに作品が掲載される。また、[2002年](../Page/2002年.md "wikilink")から[2003年](../Page/2003年.md "wikilink")までは[光彩書房](https://ja.wikipedia.org/wiki/光彩書房 "wikilink")発行の少女向けコミックアンソロジー『[光彩コミックスピンキーティーンズ](https://ja.wikipedia.org/wiki/光彩コミックスピンキーティーンズ "wikilink")』シリーズでも連載を持っていた。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、『[月刊ドラゴンエイジ](https://ja.wikipedia.org/wiki/月刊ドラゴンエイジ "wikilink")』（[富士見書房](../Page/富士見書房.md "wikilink")）で初の長編作品『[ドロテア 〜魔女の鉄鎚〜](https://ja.wikipedia.org/wiki/ドロテア_〜魔女の鉄鎚〜 "wikilink")』を発表して以降は、一般向け漫画雑誌でも作品が掲載されるようになっている。
+[2005年](../Page/2005年.md "wikilink")、『[月刊ドラゴンエイジ](../Page/月刊ドラゴンエイジ.md "wikilink")』（[富士見書房](../Page/富士見書房.md "wikilink")）で初の長編作品『[ドロテア 〜魔女の鉄鎚〜](../Page/ドロテア_〜魔女の鉄鎚〜.md "wikilink")』を発表して以降は、一般向け漫画雑誌でも作品が掲載されるようになっている。
 
-[2014年](../Page/2014年.md "wikilink")現在、『[チャンピオンRED](https://ja.wikipedia.org/wiki/チャンピオンRED "wikilink")』（秋田書店）で『[絢爛たるグランドセーヌ](https://ja.wikipedia.org/wiki/絢爛たるグランドセーヌ "wikilink")』、『[ネメシス](https://ja.wikipedia.org/wiki/ネメシス_\(アンソロジーコミック\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）で『[ひとはけの虹](https://ja.wikipedia.org/wiki/ひとはけの虹 "wikilink")』を連載中である。
+[2014年](../Page/2014年.md "wikilink")現在、『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』（秋田書店）で『[絢爛たるグランドセーヌ](https://ja.wikipedia.org/wiki/絢爛たるグランドセーヌ "wikilink")』、『[ネメシス](https://ja.wikipedia.org/wiki/ネメシス_\(アンソロジーコミック\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）で『[ひとはけの虹](https://ja.wikipedia.org/wiki/ひとはけの虹 "wikilink")』を連載中である。
 
 ### 同人活動
 
@@ -33,7 +33,7 @@
 
 ### 単行本 (全年齢向け)
 
-  - [ドロテア 〜魔女の鉄鎚〜](https://ja.wikipedia.org/wiki/ドロテア_〜魔女の鉄鎚〜 "wikilink") （[富士見書房](../Page/富士見書房.md "wikilink") <カドカワコミックスドラゴンJr>、全6巻）
+  - [ドロテア 〜魔女の鉄鎚〜](../Page/ドロテア_〜魔女の鉄鎚〜.md "wikilink") （[富士見書房](../Page/富士見書房.md "wikilink") <カドカワコミックスドラゴンJr>、全6巻）
   - ハコイリ （[秋田書店](../Page/秋田書店.md "wikilink") <ヤングチャンピオン烈コミックス>、全1巻）
     1.  2007年10月 ISBN 978-4-2532-5500-4
   - [NIGHTMARE MAKER](https://ja.wikipedia.org/wiki/NIGHTMARE_MAKER "wikilink") （秋田書店 <ヤングチャンピオン烈コミックス>、全6巻）

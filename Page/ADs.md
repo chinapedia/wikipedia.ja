@@ -1,7 +1,7 @@
 > この記事は[ADs](https://ja.wikipedia.org/wiki/ADs)から翻訳されています。
 
 
-**ADs**（エーディーズ）は、[大阪](../Page/大阪府.md "wikilink")・[朝日放送ラジオ](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")（ABCラジオ）の深夜番組で、[AD](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")（[アシスタントディレクター](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")）として番組をサポートしている大学生アルバイト集団の総称である。
+**ADs**（エーディーズ）は、[大阪](../Page/大阪府.md "wikilink")・[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）の深夜番組で、[AD](../Page/アシスタントディレクター.md "wikilink")（[アシスタントディレクター](../Page/アシスタントディレクター.md "wikilink")）として番組をサポートしている大学生アルバイト集団の総称である。
 
 ## ADs概要
 
@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    番組[アシスタントディレクター](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")、オンエア音源の制作、メール・FAX等の整理など･･･
+    番組[アシスタントディレクター](../Page/アシスタントディレクター.md "wikilink")、オンエア音源の制作、メール・FAX等の整理など･･･
 
 <!-- end list -->
 

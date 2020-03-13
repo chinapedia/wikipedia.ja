@@ -5,9 +5,9 @@
 
 ## 概要
 
-クラブカラーから**ヴィオラ**（[イタリア語](../Page/イタリア語.md "wikilink")で「[紫](https://ja.wikipedia.org/wiki/紫 "wikilink")・[菫色](https://ja.wikipedia.org/wiki/菫色 "wikilink")」）の愛称で呼ばれる。また、フィレンツェ市のシンボルである百合の紋章から**ジリアーティ**（[イタリア語](../Page/イタリア語.md "wikilink")で「百合の人」）とも呼ばれる。
+クラブカラーから**ヴィオラ**（[イタリア語](../Page/イタリア語.md "wikilink")で「[紫](../Page/紫.md "wikilink")・[菫色](https://ja.wikipedia.org/wiki/菫色 "wikilink")」）の愛称で呼ばれる。また、フィレンツェ市のシンボルである百合の紋章から**ジリアーティ**（[イタリア語](../Page/イタリア語.md "wikilink")で「百合の人」）とも呼ばれる。
 
-クラブの全盛期にはリーグ戦、[コッパ・イタリア](https://ja.wikipedia.org/wiki/コッパ・イタリア "wikilink")、カップウィナーズカップなどで優勝を経験するなど、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[ユヴェントス](../Page/ユヴェントスFC.md "wikilink")、[ローマなどのトップグループに次ぐ強豪クラブとして確固たる地位を築いた](../Page/ASローマ.md "wikilink")。
+クラブの全盛期にはリーグ戦、[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")、カップウィナーズカップなどで優勝を経験するなど、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[ユヴェントス](../Page/ユヴェントスFC.md "wikilink")、[ローマなどのトップグループに次ぐ強豪クラブとして確固たる地位を築いた](../Page/ASローマ.md "wikilink")。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")代中期以降も[ガブリエル・バティストゥータ](../Page/ガブリエル・バティストゥータ.md "wikilink")、[マヌエル・ルイ・コスタ](../Page/マヌエル・ルイ・コスタ.md "wikilink")らを擁して上位に食い込んだ。
 
@@ -21,7 +21,7 @@
 
 旅先の[イングランド](../Page/イングランド.md "wikilink")で観たサッカーに魅了された創設者のルイジ・リドルフィ伯爵は、**パレストラ・ジンナスティカ・リベルタス** (*Palestra Ginnastica Libertas*) と**クラブ・スポルティーヴォ・フィレンツェ** (*Club Sportivo Firenze*) というフィレンツェの2つのサッカークラブを合併させて、[1926年](../Page/1926年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")に**ACフィオレンティーナ** (*Associazione Calcistica Fiorentina*) を創設した。初期のクラブカラーは紫ではなく、フィレンツェの市章と同じ赤と白のシャツを着ていた。\[2\]\[3\]
 
-1930-31シーズンの[セリエBで優勝して](../Page/セリエB_\(サッカー\).md "wikilink")、\[4\]1931-32シーズンよりセリエAに参加。[1930年W杯優勝メンバーだった](../Page/1930_FIFAワールドカップ.md "wikilink")[ウルグアイ人](https://ja.wikipedia.org/wiki/ウルグアイ人 "wikilink")FW[ペドロ・ペトローネ](https://ja.wikipedia.org/wiki/ペドロ・ペトローネ "wikilink")がリーグ得点王となる活躍を見せ、セリエA初年度は18チーム中4位に食い込んだ。\[5\]1931年9月13日にはホームスタジアムの[スタディオ・アルテミオ・フランキ](../Page/スタディオ・アルテミオ・フランキ_\(フィレンツェ\).md "wikilink")（当時はスタディオ・ジョヴァンニ・ベルタと呼称）が開場した。1938-39シーズンにセリエBへと降格したが、1シーズンでセリエAに復帰。1939-40シーズンの[コッパ・イタリア](https://ja.wikipedia.org/wiki/コッパ・イタリア "wikilink")では[ジェノアを決勝で破り](../Page/ジェノアCFC.md "wikilink")、クラブ初タイトルを獲得した。
+1930-31シーズンの[セリエBで優勝して](../Page/セリエB_\(サッカー\).md "wikilink")、\[4\]1931-32シーズンよりセリエAに参加。[1930年W杯優勝メンバーだった](../Page/1930_FIFAワールドカップ.md "wikilink")[ウルグアイ人](https://ja.wikipedia.org/wiki/ウルグアイ人 "wikilink")FW[ペドロ・ペトローネ](https://ja.wikipedia.org/wiki/ペドロ・ペトローネ "wikilink")がリーグ得点王となる活躍を見せ、セリエA初年度は18チーム中4位に食い込んだ。\[5\]1931年9月13日にはホームスタジアムの[スタディオ・アルテミオ・フランキ](../Page/スタディオ・アルテミオ・フランキ_\(フィレンツェ\).md "wikilink")（当時はスタディオ・ジョヴァンニ・ベルタと呼称）が開場した。1938-39シーズンにセリエBへと降格したが、1シーズンでセリエAに復帰。1939-40シーズンの[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")では[ジェノアを決勝で破り](../Page/ジェノアCFC.md "wikilink")、クラブ初タイトルを獲得した。
 
 1950年代から1960年代にかけてクラブは全盛期を迎えた。初めて[スクデットを獲得した](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)#スクデット "wikilink")1955-56シーズンは2位の[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")に勝ち点12差をつけての独走優勝だった。\[6\]1956-57シーズンには[UEFAチャンピオンズカップで準優勝](../Page/UEFAチャンピオンズリーグ.md "wikilink")（優勝は[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")）。1960-61シーズンには[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")で優勝したが、これはイタリアのクラブにとって最初の欧州タイトルでもあった。
 
@@ -29,9 +29,9 @@
 
 [Gabriel_batistuta.jpg](https://ja.wikipedia.org/wiki/File:Gabriel_batistuta.jpg "fig:Gabriel_batistuta.jpg") [Rui_Costa.jpg](https://ja.wikipedia.org/wiki/File:Rui_Costa.jpg "fig:Rui_Costa.jpg") 1980年にクラブを買収した宅建業者のフラヴィオ・ポンテッロは、1990年に人気選手の[ロベルト・バッジョ](../Page/ロベルト・バッジョ.md "wikilink")を[ユヴェントスに売却したことで](../Page/ユヴェントスFC.md "wikilink")[ティフォージから大きな批判を浴びつつオーナーの座を追われた](https://ja.wikipedia.org/wiki/ティフォシ "wikilink")\[7\]\[8\]。クラブ経営は映画王の[マリオ・チェッキ・ゴーリ](../Page/マリオ・チェッキ・ゴーリ.md "wikilink")が引き継いだが、補強に失敗して1993-94シーズンに54年ぶりにセリエBへ降格した\[9\]。マリオの没後は息子の[ヴィットーリオ・チェッキ・ゴーリ](https://ja.wikipedia.org/wiki/ヴィットーリオ・チェッキ・ゴーリ "wikilink")が会長に就任した。
 
-セリエB降格でも、[クラウディオ・ラニエリ](https://ja.wikipedia.org/wiki/クラウディオ・ラニエリ "wikilink")が監督に就任してチームを立て直し、残留した[アルゼンチン人](https://ja.wikipedia.org/wiki/アルゼンチン人 "wikilink")FW[ガブリエル・バティストゥータ](../Page/ガブリエル・バティストゥータ.md "wikilink")の活躍もあり、1年でセリエAに復帰。セリエAに昇格した1994-95シーズン以降はバティストゥータとポルトガル人ゲームメーカーの[マヌエル・ルイ・コスタ](../Page/マヌエル・ルイ・コスタ.md "wikilink")らを擁して上位に食い込み、1996年には[コッパ・イタリア](https://ja.wikipedia.org/wiki/コッパ・イタリア "wikilink")を制覇した。
+セリエB降格でも、[クラウディオ・ラニエリ](../Page/クラウディオ・ラニエリ.md "wikilink")が監督に就任してチームを立て直し、残留した[アルゼンチン人](https://ja.wikipedia.org/wiki/アルゼンチン人 "wikilink")FW[ガブリエル・バティストゥータ](../Page/ガブリエル・バティストゥータ.md "wikilink")の活躍もあり、1年でセリエAに復帰。セリエAに昇格した1994-95シーズン以降はバティストゥータとポルトガル人ゲームメーカーの[マヌエル・ルイ・コスタ](../Page/マヌエル・ルイ・コスタ.md "wikilink")らを擁して上位に食い込み、1996年には[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")を制覇した。
 
-1998-99シーズンは、[ジョバンニ・トラパットーニ](https://ja.wikipedia.org/wiki/ジョバンニ・トラパットーニ "wikilink")が監督に就任しシーズン前半を首位で折り返すも、最終的には首位から勝ち点差14の3位に終わった\[10\]。
+1998-99シーズンは、[ジョバンニ・トラパットーニ](../Page/ジョバンニ・トラパットーニ.md "wikilink")が監督に就任しシーズン前半を首位で折り返すも、最終的には首位から勝ち点差14の3位に終わった\[10\]。
 
 ### 経営破綻と4部降格
 
@@ -41,27 +41,27 @@
 
 ### セリエA復帰とカルチョ・スキャンダル
 
-フロレンティア・ヴィオラは2002-03シーズン、[主将](https://ja.wikipedia.org/wiki/主将 "wikilink")の[アンジェロ・ディ・リービオ](https://ja.wikipedia.org/wiki/アンジェロ・ディ・リービオ "wikilink")とエースストライカーの[クリスティアン・リガノ](../Page/クリスティアン・リガノ.md "wikilink")を中心に戦い、セリエC2を優勝。2003年には管財人より「フィオレンティーナ」の商標権を入札により250万ユーロで獲得し、2003-04シーズンからは**ACFフィオレンティーナ** (*ACF Fiorentina*) として戦うことになった。また特例によりこのシーズンは3部ではなく2部の[セリエBに編入された](../Page/セリエB_\(サッカー\).md "wikilink")。\[11\]
+フロレンティア・ヴィオラは2002-03シーズン、[主将](../Page/主将.md "wikilink")の[アンジェロ・ディ・リービオ](../Page/アンジェロ・ディ・リービオ.md "wikilink")とエースストライカーの[クリスティアン・リガノ](../Page/クリスティアン・リガノ.md "wikilink")を中心に戦い、セリエC2を優勝。2003年には管財人より「フィオレンティーナ」の商標権を入札により250万ユーロで獲得し、2003-04シーズンからは**ACFフィオレンティーナ** (*ACF Fiorentina*) として戦うことになった。また特例によりこのシーズンは3部ではなく2部の[セリエBに編入された](../Page/セリエB_\(サッカー\).md "wikilink")。\[11\]
 
-いきなり2つ上のリーグで戦うことになったフィオレンティーナは苦戦するも、リガノの得点力はセリエBでも群を抜いており、なんとかセリエA下位クラブとのプレーオフ権が与えられる6位を確保。プレーオフではリガノとディ・リーヴィオが故障で出場出来ないという危機的状況であったが、[ACペルージャを下して](https://ja.wikipedia.org/wiki/ペルージャ・カルチョ "wikilink")3季ぶりにセリエAへ復帰することとなった。
+いきなり2つ上のリーグで戦うことになったフィオレンティーナは苦戦するも、リガノの得点力はセリエBでも群を抜いており、なんとかセリエA下位クラブとのプレーオフ権が与えられる6位を確保。プレーオフではリガノとディ・リーヴィオが故障で出場出来ないという危機的状況であったが、[ACペルージャを下して](../Page/ペルージャ・カルチョ.md "wikilink")3季ぶりにセリエAへ復帰することとなった。
 
-[Prandelli.jpg](https://ja.wikipedia.org/wiki/File:Prandelli.jpg "fig:Prandelli.jpg") [Luca_Toni_Fiorentina.jpg](https://ja.wikipedia.org/wiki/File:Luca_Toni_Fiorentina.jpg "fig:Luca_Toni_Fiorentina.jpg") [Adrian_Mutu_Roberto_Vicario.jpg](https://ja.wikipedia.org/wiki/File:Adrian_Mutu_Roberto_Vicario.jpg "fig:Adrian_Mutu_Roberto_Vicario.jpg") 2004-05シーズンには[中田英寿](../Page/中田英寿.md "wikilink")や[マルティン・ヨルゲンセン](../Page/マルティン・ヨルゲンセン.md "wikilink")、[トマーシュ・ウイファルシ](https://ja.wikipedia.org/wiki/トマーシュ・ウイファルシ "wikilink")、[ジョルジョ・キエッリーニ](https://ja.wikipedia.org/wiki/ジョルジョ・キエッリーニ "wikilink")、[ファブリツィオ・ミッコリ](../Page/ファブリツィオ・ミッコリ.md "wikilink")、[エンツォ・マレスカ](../Page/エンツォ・マレスカ.md "wikilink")などの有力選手を一気に獲得してセリエAを戦ったが、急造チーム故なかなか勝ち点を獲得出来ず、シーズンを通して残留争いをすることとなる。実はこの苦戦の裏には、ユヴェントスのオーナーが仕掛けた審判による八百長、いわゆる[カルチョ・スキャンダル](../Page/カルチョ・スキャンダル.md "wikilink")が存在していた（八百長に加わらないクラブに対しては不利な判定を下すというもの）。また、大型補強により加わった新加入の外国人選手達と、それにより出場機会を奪われたセリエB時代からクラブを支えていたと自負する一部のイタリア人選手達との間に軋轢が生じ、ロッカールームの空気もまとまりにかけるものであった。結果、フィオレンティーナは最終節で勝たなければ再び降格という所まで追い詰められたが、アルテミオ・フランキで開催されたシーズン最終節ではディ・リーヴィオの活躍などもあり、残留を決めることとなった。このシーズンは16位でセリエAを終えた。
+[Prandelli.jpg](https://ja.wikipedia.org/wiki/File:Prandelli.jpg "fig:Prandelli.jpg") [Luca_Toni_Fiorentina.jpg](https://ja.wikipedia.org/wiki/File:Luca_Toni_Fiorentina.jpg "fig:Luca_Toni_Fiorentina.jpg") [Adrian_Mutu_Roberto_Vicario.jpg](https://ja.wikipedia.org/wiki/File:Adrian_Mutu_Roberto_Vicario.jpg "fig:Adrian_Mutu_Roberto_Vicario.jpg") 2004-05シーズンには[中田英寿](../Page/中田英寿.md "wikilink")や[マルティン・ヨルゲンセン](../Page/マルティン・ヨルゲンセン.md "wikilink")、[トマーシュ・ウイファルシ](https://ja.wikipedia.org/wiki/トマーシュ・ウイファルシ "wikilink")、[ジョルジョ・キエッリーニ](../Page/ジョルジョ・キエッリーニ.md "wikilink")、[ファブリツィオ・ミッコリ](../Page/ファブリツィオ・ミッコリ.md "wikilink")、[エンツォ・マレスカ](../Page/エンツォ・マレスカ.md "wikilink")などの有力選手を一気に獲得してセリエAを戦ったが、急造チーム故なかなか勝ち点を獲得出来ず、シーズンを通して残留争いをすることとなる。実はこの苦戦の裏には、ユヴェントスのオーナーが仕掛けた審判による八百長、いわゆる[カルチョ・スキャンダル](../Page/カルチョ・スキャンダル.md "wikilink")が存在していた（八百長に加わらないクラブに対しては不利な判定を下すというもの）。また、大型補強により加わった新加入の外国人選手達と、それにより出場機会を奪われたセリエB時代からクラブを支えていたと自負する一部のイタリア人選手達との間に軋轢が生じ、ロッカールームの空気もまとまりにかけるものであった。結果、フィオレンティーナは最終節で勝たなければ再び降格という所まで追い詰められたが、アルテミオ・フランキで開催されたシーズン最終節ではディ・リーヴィオの活躍などもあり、残留を決めることとなった。このシーズンは16位でセリエAを終えた。
 
-2005-06シーズンには、前年度の低迷を受けクラブは幹部の大刷新を行う。オーナー兼会長であった[ディエゴ・デッラ・ヴァッレ](https://ja.wikipedia.org/wiki/ディエゴ・デッラ・ヴァッレ "wikilink")は名誉会長に退き、実際的なクラブの舵取りは、副会長であった弟の[アンドレア・デッラ・ヴァッレ](https://ja.wikipedia.org/wiki/アンドレア・デッラ・ヴァッレ "wikilink")に譲りアンドレアが会長に就任。また当時[レッチェの躍進を支えていた](https://ja.wikipedia.org/wiki/USレッチェ "wikilink")[パンタレオ・コルヴィーノ](https://ja.wikipedia.org/wiki/パンタレオ・コルヴィーノ "wikilink")を新たにスポーツディレクターに迎え、夫人の看病のために監督業を休業していた[チェーザレ・プランデッリ](../Page/チェーザレ・プランデッリ.md "wikilink")を新体制の監督として招聘。クラブのプロジェクトも中長期的なものに変更し、2010年以降にスクデットを狙える「有望な若手選手と共に成長するクラブ」をスローガンとした。新体制の幹部は前年度に造反したとされる選手達を格安で放出し、新たに[ルカ・トーニ](../Page/ルカ・トーニ.md "wikilink")、[ステファノ・フィオーレ](https://ja.wikipedia.org/wiki/ステファノ・フィオーレ "wikilink")、[クリスティアン・ブロッキ](../Page/クリスティアン・ブロッキ.md "wikilink")、[セバスティアン・フレイ](https://ja.wikipedia.org/wiki/セバスティアン・フレイ "wikilink")などのベテラン選手やプランデッリ監督の元教え子を集め、また無名の有望選手を発掘することに長けたコルヴィーノは[アレッサンドロ・ガンベリーニ](../Page/アレッサンドロ・ガンベリーニ.md "wikilink")、[リッカルド・モントリーヴォ](../Page/リッカルド・モントリーヴォ.md "wikilink")、[マヌエル・パスクアル](../Page/マヌエル・パスクアル.md "wikilink")らの若手選手に投資した。このシーズンは前年に獲得した選手たちが漸くまとまってきたことに加え、新加入のルカ・トーニの大活躍もあってクラブは躍進し、チャンピオンズリーグ出場権が与えられる4位となった。
+2005-06シーズンには、前年度の低迷を受けクラブは幹部の大刷新を行う。オーナー兼会長であった[ディエゴ・デッラ・ヴァッレ](https://ja.wikipedia.org/wiki/ディエゴ・デッラ・ヴァッレ "wikilink")は名誉会長に退き、実際的なクラブの舵取りは、副会長であった弟の[アンドレア・デッラ・ヴァッレ](https://ja.wikipedia.org/wiki/アンドレア・デッラ・ヴァッレ "wikilink")に譲りアンドレアが会長に就任。また当時[レッチェの躍進を支えていた](../Page/USレッチェ.md "wikilink")[パンタレオ・コルヴィーノ](https://ja.wikipedia.org/wiki/パンタレオ・コルヴィーノ "wikilink")を新たにスポーツディレクターに迎え、夫人の看病のために監督業を休業していた[チェーザレ・プランデッリ](../Page/チェーザレ・プランデッリ.md "wikilink")を新体制の監督として招聘。クラブのプロジェクトも中長期的なものに変更し、2010年以降にスクデットを狙える「有望な若手選手と共に成長するクラブ」をスローガンとした。新体制の幹部は前年度に造反したとされる選手達を格安で放出し、新たに[ルカ・トーニ](../Page/ルカ・トーニ.md "wikilink")、[ステファノ・フィオーレ](../Page/ステファノ・フィオーレ.md "wikilink")、[クリスティアン・ブロッキ](../Page/クリスティアン・ブロッキ.md "wikilink")、[セバスティアン・フレイ](../Page/セバスティアン・フレイ.md "wikilink")などのベテラン選手やプランデッリ監督の元教え子を集め、また無名の有望選手を発掘することに長けたコルヴィーノは[アレッサンドロ・ガンベリーニ](../Page/アレッサンドロ・ガンベリーニ.md "wikilink")、[リッカルド・モントリーヴォ](../Page/リッカルド・モントリーヴォ.md "wikilink")、[マヌエル・パスクアル](../Page/マヌエル・パスクアル.md "wikilink")らの若手選手に投資した。このシーズンは前年に獲得した選手たちが漸くまとまってきたことに加え、新加入のルカ・トーニの大活躍もあってクラブは躍進し、チャンピオンズリーグ出場権が与えられる4位となった。
 
 ユヴェントス、ミラン、[ラツィオと同様に](../Page/SSラツィオ.md "wikilink")、セリエAの八百長問題に関わったとして、2006年7月14日に「セリエB降格および勝ち点-12点からのリーグ戦開始」との判決が下された。同年7月25日の控訴審判決において、セリエA残留で2006-07シーズンは－19点からのスタート、2005-06シーズンの勝ち点－30点の判決が下った（[カルチョ・スキャンダル](../Page/カルチョ・スキャンダル.md "wikilink")の項を参照）。この判決を不服とした一部サポーターがフーリガン化し、フィレンツェ周辺の鉄道を一時不法占拠する事態にまで発展した。
 
 ### カルチョ・スキャンダルを越えて
 
-勝ち点の大幅剥奪から始まった2006-07シーズンであったが、トーニの破壊力は健在であり、クラブは連戦連勝、勝ち点剥奪がなければチャンピオンズリーグ圏内のリーグ3位（最終順位は5位）というシーズンとなった。またシーズン中にレギュラーポジションを獲得し成長した[アレッサンドロ・ガンベリーニ](../Page/アレッサンドロ・ガンベリーニ.md "wikilink")やゴールキーパーの[セバスティアン・フレイ](https://ja.wikipedia.org/wiki/セバスティアン・フレイ "wikilink")を中心とした守備陣も奮闘し、チームはリーグ最少失点でシーズンを終えた。トーニはこのシーズン限りで[バイエルン・ミュンヘンに去ったが](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")、長い放浪の末フィオレンティーナでかつての輝きを取り戻した[アドリアン・ムトゥ](https://ja.wikipedia.org/wiki/アドリアン・ムトゥ "wikilink")、[チェーザレ・プランデッリ](../Page/チェーザレ・プランデッリ.md "wikilink")監督就任以降じっくりと育ててきた若手の[ジャンパオロ・パッツィーニ](../Page/ジャンパオロ・パッツィーニ.md "wikilink")やモントリーヴォがクラブの屋台骨を支える存在へと成長し\[12\]、2007-08シーズンはリーグ戦4位、UEFAカップ準決勝進出というセリエA復帰後最高の成績で終わった。
+勝ち点の大幅剥奪から始まった2006-07シーズンであったが、トーニの破壊力は健在であり、クラブは連戦連勝、勝ち点剥奪がなければチャンピオンズリーグ圏内のリーグ3位（最終順位は5位）というシーズンとなった。またシーズン中にレギュラーポジションを獲得し成長した[アレッサンドロ・ガンベリーニ](../Page/アレッサンドロ・ガンベリーニ.md "wikilink")やゴールキーパーの[セバスティアン・フレイ](../Page/セバスティアン・フレイ.md "wikilink")を中心とした守備陣も奮闘し、チームはリーグ最少失点でシーズンを終えた。トーニはこのシーズン限りで[バイエルン・ミュンヘンに去ったが](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")、長い放浪の末フィオレンティーナでかつての輝きを取り戻した[アドリアン・ムトゥ](../Page/アドリアン・ムトゥ.md "wikilink")、[チェーザレ・プランデッリ](../Page/チェーザレ・プランデッリ.md "wikilink")監督就任以降じっくりと育ててきた若手の[ジャンパオロ・パッツィーニ](../Page/ジャンパオロ・パッツィーニ.md "wikilink")やモントリーヴォがクラブの屋台骨を支える存在へと成長し\[12\]、2007-08シーズンはリーグ戦4位、UEFAカップ準決勝進出というセリエA復帰後最高の成績で終わった。
 
-2008-09シーズンは[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")に出場するにあたり、大型補強を敢行する。[アルベルト・ジラルディーノ](https://ja.wikipedia.org/wiki/アルベルト・ジラルディーノ "wikilink")、[ステヴァン・ヨヴェティッチ](https://ja.wikipedia.org/wiki/ステヴァン・ヨヴェティッチ "wikilink")、[フアン・マヌエル・バルガス](../Page/フアン・マヌエル・バルガス.md "wikilink")、[フェリペ・メロ](https://ja.wikipedia.org/wiki/フェリペ・メロ "wikilink")などの高額移籍金選手に投資した。かつての恩師の下で復活を果たしたジラルディーノや、ブラジル代表に初選出される程の存在感を示したフェリペ・メロら新戦力の活躍もあり、チャンピオンズリーグとの二足の草鞋にも耐え2年連続でリーグ戦を4位で終える。一方で大型補強の煽りを受け出場機会を減らした若手選手が不満を訴え、クラブはパッツィーニや[パブロ・ダニエル・オスヴァルド](https://ja.wikipedia.org/wiki/パブロ・ダニエル・オスヴァルド "wikilink")らの有望若手選手数人を手放すことになる。9シーズンぶりに参加したチャンピオンズリーグでは予備予選を勝ち抜き本大会に出場するが、バイエルン・ミュンヘン、[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")らに退けられ、グループリーグで敗退した。
+2008-09シーズンは[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")に出場するにあたり、大型補強を敢行する。[アルベルト・ジラルディーノ](../Page/アルベルト・ジラルディーノ.md "wikilink")、[ステヴァン・ヨヴェティッチ](https://ja.wikipedia.org/wiki/ステヴァン・ヨヴェティッチ "wikilink")、[フアン・マヌエル・バルガス](../Page/フアン・マヌエル・バルガス.md "wikilink")、[フェリペ・メロ](https://ja.wikipedia.org/wiki/フェリペ・メロ "wikilink")などの高額移籍金選手に投資した。かつての恩師の下で復活を果たしたジラルディーノや、ブラジル代表に初選出される程の存在感を示したフェリペ・メロら新戦力の活躍もあり、チャンピオンズリーグとの二足の草鞋にも耐え2年連続でリーグ戦を4位で終える。一方で大型補強の煽りを受け出場機会を減らした若手選手が不満を訴え、クラブはパッツィーニや[パブロ・ダニエル・オスヴァルド](https://ja.wikipedia.org/wiki/パブロ・ダニエル・オスヴァルド "wikilink")らの有望若手選手数人を手放すことになる。9シーズンぶりに参加したチャンピオンズリーグでは予備予選を勝ち抜き本大会に出場するが、バイエルン・ミュンヘン、[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")らに退けられ、グループリーグで敗退した。
 
-2009-10シーズンには昨年活躍したメロの他、[ズドラヴコ・クズマノヴィッチ](../Page/ズドラヴコ・クズマノヴィッチ.md "wikilink")、[フランコ・セミオーリ](../Page/フランコ・セミオーリ.md "wikilink")らを放出するも、思うように補強が進まず不安を抱えたままシーズンをスタートする。しかしながらチャンピオンズリーグでは[スポルティングCPとのプレーオフを](https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル "wikilink")[アウェーゴール](https://ja.wikipedia.org/wiki/アウェーゴール "wikilink")の差で辛くも突破し、続くグループリーグではヨヴェティッチらの活躍もあり[リヴァプールに連勝](../Page/リヴァプールFC.md "wikilink")。昨年苦杯を呈した[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")らを抑え首位で通過する。迎えた決勝トーナメント1回戦では[バイエルン・ミュンヘンと対戦](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")。ファーストレグでは試合終了間際オフサイドポジションに居た[ミロスラフ・クローゼ](https://ja.wikipedia.org/wiki/ミロスラフ・クローゼ "wikilink")のゴールが認められる誤審もあり、トータルスコア4-4ながらもアウェーゴールの差で大会を去ることとなった。一方リーグ戦ではカップ戦での疲労もあってか不安定な戦いが続き、中位から下位を彷徨うことになる。冬には主将を務めていた[ダリオ・ダイネッリ](../Page/ダリオ・ダイネッリ.md "wikilink")がジェノアに移籍、更にムトゥのドーピング陽性反応が発覚。これによりで同選手は9ヶ月の出場停止を言い渡されることになる。これらがチームのさらなるモチベーション低下に大きく影響したと見られ、その後もチームの調子は上がらず最終的にリーグを11位で終え、3年ぶりに欧州カップ戦の舞台から姿を消すこととなった。
+2009-10シーズンには昨年活躍したメロの他、[ズドラヴコ・クズマノヴィッチ](../Page/ズドラヴコ・クズマノヴィッチ.md "wikilink")、[フランコ・セミオーリ](../Page/フランコ・セミオーリ.md "wikilink")らを放出するも、思うように補強が進まず不安を抱えたままシーズンをスタートする。しかしながらチャンピオンズリーグでは[スポルティングCPとのプレーオフを](../Page/スポルティング・クルーベ・デ・ポルトゥガル.md "wikilink")[アウェーゴール](../Page/アウェーゴール.md "wikilink")の差で辛くも突破し、続くグループリーグではヨヴェティッチらの活躍もあり[リヴァプールに連勝](../Page/リヴァプールFC.md "wikilink")。昨年苦杯を呈した[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")らを抑え首位で通過する。迎えた決勝トーナメント1回戦では[バイエルン・ミュンヘンと対戦](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")。ファーストレグでは試合終了間際オフサイドポジションに居た[ミロスラフ・クローゼ](../Page/ミロスラフ・クローゼ.md "wikilink")のゴールが認められる誤審もあり、トータルスコア4-4ながらもアウェーゴールの差で大会を去ることとなった。一方リーグ戦ではカップ戦での疲労もあってか不安定な戦いが続き、中位から下位を彷徨うことになる。冬には主将を務めていた[ダリオ・ダイネッリ](../Page/ダリオ・ダイネッリ.md "wikilink")がジェノアに移籍、更にムトゥのドーピング陽性反応が発覚。これによりで同選手は9ヶ月の出場停止を言い渡されることになる。これらがチームのさらなるモチベーション低下に大きく影響したと見られ、その後もチームの調子は上がらず最終的にリーグを11位で終え、3年ぶりに欧州カップ戦の舞台から姿を消すこととなった。
 
 2010-11シーズンは開幕前にヨヴェティッチが負傷で長期離脱が決定。出場停止のムトゥと併せ2大エースを欠いたままリーグ開幕を迎えたチームはその後も負傷者が相次ぎ、一時はリーグ最下位まで低迷する。しかしながら先述の両エースの戦線復帰に伴いチームは徐々に復調。最終的には降格圏の18位に勝ち点15差を付けリーグ9位でシーズンを終えた。
 
-2011-12シーズンは開幕10試合で3勝4敗3分の成績不振から[シニシャ・ミハイロヴィチ](../Page/シニシャ・ミハイロヴィチ.md "wikilink")が2011年11月6日の[キエーヴォ戦に敗れた翌日](https://ja.wikipedia.org/wiki/ACキエーヴォ・ヴェローナ "wikilink")、解任された\[13\]。後任には[デリオ・ロッシ](https://ja.wikipedia.org/wiki/デリオ・ロッシ "wikilink")が就任し、3バックに切り替えるなどしたものの、成績は上昇せず、終盤戦には残留争いに巻き込まれた。冬には[アマウリをユヴェントスから獲得したものの](../Page/アマウリ・カルヴァーリョ・デ・オリヴェイラ.md "wikilink")、1ゴールと完全な期待外れだった。2012年5月2日の[ノヴァーラ戦では](https://ja.wikipedia.org/wiki/ノヴァーラ・カルチョ "wikilink")、前半32分に途中交代を命じられたことに腹を立て、皮肉を込めた拍手をした[アデム・リャイッチ](https://ja.wikipedia.org/wiki/アデム・リャイッチ "wikilink")にロッシが殴りかかり、試合後ロッシは解任された。後任にはチームマネジャーを務めていた[ヴィンチェンツォ・グエリーニ](https://ja.wikipedia.org/wiki/ヴィンチェンツォ・グエリーニ "wikilink")が就任\[14\]。残り2試合を指揮した。昨シーズン公式戦出場ゼロだったヨヴェティッチが14ゴールを決めてひとり気を吐くも、最終的には13位で終える。また、この年のシーズン終了後SDを務めたコルヴィーノが任期満了により退任した。
+2011-12シーズンは開幕10試合で3勝4敗3分の成績不振から[シニシャ・ミハイロヴィチ](../Page/シニシャ・ミハイロヴィチ.md "wikilink")が2011年11月6日の[キエーヴォ戦に敗れた翌日](../Page/ACキエーヴォ・ヴェローナ.md "wikilink")、解任された\[13\]。後任には[デリオ・ロッシ](https://ja.wikipedia.org/wiki/デリオ・ロッシ "wikilink")が就任し、3バックに切り替えるなどしたものの、成績は上昇せず、終盤戦には残留争いに巻き込まれた。冬には[アマウリをユヴェントスから獲得したものの](../Page/アマウリ・カルヴァーリョ・デ・オリヴェイラ.md "wikilink")、1ゴールと完全な期待外れだった。2012年5月2日の[ノヴァーラ戦では](https://ja.wikipedia.org/wiki/ノヴァーラ・カルチョ "wikilink")、前半32分に途中交代を命じられたことに腹を立て、皮肉を込めた拍手をした[アデム・リャイッチ](https://ja.wikipedia.org/wiki/アデム・リャイッチ "wikilink")にロッシが殴りかかり、試合後ロッシは解任された。後任にはチームマネジャーを務めていた[ヴィンチェンツォ・グエリーニ](https://ja.wikipedia.org/wiki/ヴィンチェンツォ・グエリーニ "wikilink")が就任\[14\]。残り2試合を指揮した。昨シーズン公式戦出場ゼロだったヨヴェティッチが14ゴールを決めてひとり気を吐くも、最終的には13位で終える。また、この年のシーズン終了後SDを務めたコルヴィーノが任期満了により退任した。
 
 ### コルヴィーノの退任とモンテッラによる改革
 
@@ -69,12 +69,12 @@
 
 2012-13シーズンは前シーズン攻撃的なサッカーで[カターニア](../Page/カターニア.md "wikilink")を躍進させた[ヴィンチェンツォ・モンテッラ](../Page/ヴィンチェンツォ・モンテッラ.md "wikilink")を新監督に迎えた。ナスタシッチ、ガンベリーニ、ベーラミを放出した一方、レンタルバックを含め15人もの補強を敢行。[フアン・クアドラード](https://ja.wikipedia.org/wiki/フアン・クアドラード "wikilink")、[ボルハ・バレロ](https://ja.wikipedia.org/wiki/ボルハ・バレロ "wikilink")、[ゴンサロ・ロドリゲス](../Page/ゴンサロ・ロドリゲス.md "wikilink")、[アルベルト・アクィラーニ](../Page/アルベルト・アクィラーニ.md "wikilink")、[ダビド・ピサーロ](../Page/ダビド・ピサーロ.md "wikilink")、[ステファン・サヴィッチ](https://ja.wikipedia.org/wiki/ステファン・サヴィッチ "wikilink")ら新加入の選手が多く主力を担った。冬の移籍市場では[ジュゼッペ・ロッシ](../Page/ジュゼッペ・ロッシ.md "wikilink")も獲得している。シーズンではピサーロ、バレーロ、アクイラーニらを中心とした攻撃的なポゼッションサッカーを展開。ヨヴェティッチ、リャイッチらの活躍もあり、得点数リーグ1位のナポリと1点差の72得点を記録。最終的にはチャンピオンズリーグ出場権は逃したが4位に入り、ヨーロッパリーグ出場権を獲得した。
 
-2013-14シーズンはエースのヨヴェティッチが[マンチェスター・シティFC](https://ja.wikipedia.org/wiki/マンチェスター・シティFC "wikilink")に移籍、リャイッチも[ASローマ](../Page/ASローマ.md "wikilink")に移籍。しかしマラガから[ホアキン・サンチェス](https://ja.wikipedia.org/wiki/ホアキン・サンチェス "wikilink")、ACミランから[マッシモ・アンブロジーニ](https://ja.wikipedia.org/wiki/マッシモ・アンブロジーニ "wikilink")、バイエルン・ミュンヘンから[マリオ・ゴメス](../Page/マリオ・ゴメス.md "wikilink")、パレルモから[ヨシップ・イリチッチ](https://ja.wikipedia.org/wiki/ヨシップ・イリチッチ "wikilink")ら有力選手を獲得。新加入のマリオ・ゴメスの活躍が期待されていたが早々に故障。代わりにジュゼッペ・ロッシが開幕から前半戦はセリエＡ得点ランキングで首位を走るなど際立った活躍を見せた。ロッシは2014年初に故障したもののクアドラードなどの活躍でチームも好調を保ち、リーグ戦は前年と同じ4位で終わってヨーロッパリーグ出場権を獲得。[コッパ・イタリア](https://ja.wikipedia.org/wiki/コッパ・イタリア "wikilink")は決勝で[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")に敗れて準優勝、ヨーロッパリーグはラウンド16で[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")に敗れてベスト16で終わった。シーズン途中に[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")から[アンデルソン](../Page/アンデルソン・ルイス・デ・アブレウ・オリベイラ.md "wikilink")、[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")から[アレッサンドロ・マトリ](https://ja.wikipedia.org/wiki/アレッサンドロ・マトリ "wikilink")をどちらも期限付き移籍で獲得（シーズン終了後に復帰）。
+2013-14シーズンはエースのヨヴェティッチが[マンチェスター・シティFC](../Page/マンチェスター・シティFC.md "wikilink")に移籍、リャイッチも[ASローマ](../Page/ASローマ.md "wikilink")に移籍。しかしマラガから[ホアキン・サンチェス](../Page/ホアキン・サンチェス.md "wikilink")、ACミランから[マッシモ・アンブロジーニ](../Page/マッシモ・アンブロジーニ.md "wikilink")、バイエルン・ミュンヘンから[マリオ・ゴメス](../Page/マリオ・ゴメス.md "wikilink")、パレルモから[ヨシップ・イリチッチ](https://ja.wikipedia.org/wiki/ヨシップ・イリチッチ "wikilink")ら有力選手を獲得。新加入のマリオ・ゴメスの活躍が期待されていたが早々に故障。代わりにジュゼッペ・ロッシが開幕から前半戦はセリエＡ得点ランキングで首位を走るなど際立った活躍を見せた。ロッシは2014年初に故障したもののクアドラードなどの活躍でチームも好調を保ち、リーグ戦は前年と同じ4位で終わってヨーロッパリーグ出場権を獲得。[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")は決勝で[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")に敗れて準優勝、ヨーロッパリーグはラウンド16で[ユヴェントスFC](../Page/ユヴェントスFC.md "wikilink")に敗れてベスト16で終わった。シーズン途中に[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")から[アンデルソン](../Page/アンデルソン・ルイス・デ・アブレウ・オリベイラ.md "wikilink")、[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")から[アレッサンドロ・マトリ](https://ja.wikipedia.org/wiki/アレッサンドロ・マトリ "wikilink")をどちらも期限付き移籍で獲得（シーズン終了後に復帰）。
 
-2014-15シーズン開幕前、アンブロジーニが契約満了につき引退、[ラファウ・ヴォルスキ](https://ja.wikipedia.org/wiki/ラファウ・ヴォルスキ "wikilink")が[FCバーリ1908](../Page/FCバーリ1908.md "wikilink")へ期限付き移籍。[ムニル・エル・ハムダウィ](https://ja.wikipedia.org/wiki/ムニル・エル・ハムダウィ "wikilink")が期限付き移籍していた[マラガCF](https://ja.wikipedia.org/wiki/マラガCF "wikilink")から復帰。[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")（2013-14シーズンは[セビージャFC](https://ja.wikipedia.org/wiki/セビージャFC "wikilink")に期限付き移籍）から[マルコ・マリン](https://ja.wikipedia.org/wiki/マルコ・マリン "wikilink")、[マンチェスター・シティから](https://ja.wikipedia.org/wiki/マンチェスター・シティFC "wikilink")[マイカ・リチャーズ](../Page/マイカ・リチャーズ.md "wikilink")が期限付き移籍で加入。[ミラン・バデリ](https://ja.wikipedia.org/wiki/ミラン・バデリ "wikilink")が[ハンブルガーSV](https://ja.wikipedia.org/wiki/ハンブルガーSV "wikilink")から完全移籍。と例年に比べて動きの少ないオフシーズンとなった。開幕前の練習中にロッシがまたしても故障してシーズン全ての離脱となる。これを初めとして攻撃陣に負傷者が非常に多く、前半戦は中位をさまようこととなる。冬の市場でFWの穴を埋めるために[広州恒大から](https://ja.wikipedia.org/wiki/広州恒大淘宝足球倶楽部 "wikilink")[アレッサンドロ・ディアマンティ](https://ja.wikipedia.org/wiki/アレッサンドロ・ディアマンティ "wikilink")、[アルベルト・ジラルディーノ](https://ja.wikipedia.org/wiki/アルベルト・ジラルディーノ "wikilink")をどちらも期限付きで獲得。クアドラードが[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")へ移籍したが、同じチェルシーからエジプト代表[モハメド・サラー](https://ja.wikipedia.org/wiki/モハメド・サラー "wikilink")を期限付きで獲得。加入直後はサラーが出色の活躍を見せたものの元イタリア代表の二人は期待に応えられず苦戦が続いたが、上位が落ちてきたこともあって最終戦で去年と同じ4位に滑り込み、EL出場権を獲得した。しかしチーム得点王がイリチッチの8点、2位タイの7点の中にDFのゴンサロ・ロドリゲスがいるという攻撃陣の不甲斐なさが目立ったシーズンとなった。ヨーロッパリーグは準決勝で前年度優勝（この大会でも優勝している）の[セビージャFC](https://ja.wikipedia.org/wiki/セビージャFC "wikilink")に敗れてベスト4、コッパ・イタリアも準決勝でユヴェントスに敗れてベスト4に終わった。シーズン終了後に意見の相違などからモンテッラ監督を解任。[スイス王者](../Page/スーパーリーグ_\(スイス\).md "wikilink")[FCバーゼル](../Page/FCバーゼル.md "wikilink")監督であった[パウロ・ソウザ](../Page/パウロ・ソウザ.md "wikilink")が新監督に就任。\[15\]。
+2014-15シーズン開幕前、アンブロジーニが契約満了につき引退、[ラファウ・ヴォルスキ](https://ja.wikipedia.org/wiki/ラファウ・ヴォルスキ "wikilink")が[FCバーリ1908](../Page/FCバーリ1908.md "wikilink")へ期限付き移籍。[ムニル・エル・ハムダウィ](https://ja.wikipedia.org/wiki/ムニル・エル・ハムダウィ "wikilink")が期限付き移籍していた[マラガCF](../Page/マラガCF.md "wikilink")から復帰。[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")（2013-14シーズンは[セビージャFC](../Page/セビージャFC.md "wikilink")に期限付き移籍）から[マルコ・マリン](https://ja.wikipedia.org/wiki/マルコ・マリン "wikilink")、[マンチェスター・シティから](../Page/マンチェスター・シティFC.md "wikilink")[マイカ・リチャーズ](../Page/マイカ・リチャーズ.md "wikilink")が期限付き移籍で加入。[ミラン・バデリ](https://ja.wikipedia.org/wiki/ミラン・バデリ "wikilink")が[ハンブルガーSV](../Page/ハンブルガーSV.md "wikilink")から完全移籍。と例年に比べて動きの少ないオフシーズンとなった。開幕前の練習中にロッシがまたしても故障してシーズン全ての離脱となる。これを初めとして攻撃陣に負傷者が非常に多く、前半戦は中位をさまようこととなる。冬の市場でFWの穴を埋めるために[広州恒大から](https://ja.wikipedia.org/wiki/広州恒大淘宝足球倶楽部 "wikilink")[アレッサンドロ・ディアマンティ](https://ja.wikipedia.org/wiki/アレッサンドロ・ディアマンティ "wikilink")、[アルベルト・ジラルディーノ](../Page/アルベルト・ジラルディーノ.md "wikilink")をどちらも期限付きで獲得。クアドラードが[チェルシーFC](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")へ移籍したが、同じチェルシーからエジプト代表[モハメド・サラー](https://ja.wikipedia.org/wiki/モハメド・サラー "wikilink")を期限付きで獲得。加入直後はサラーが出色の活躍を見せたものの元イタリア代表の二人は期待に応えられず苦戦が続いたが、上位が落ちてきたこともあって最終戦で去年と同じ4位に滑り込み、EL出場権を獲得した。しかしチーム得点王がイリチッチの8点、2位タイの7点の中にDFのゴンサロ・ロドリゲスがいるという攻撃陣の不甲斐なさが目立ったシーズンとなった。ヨーロッパリーグは準決勝で前年度優勝（この大会でも優勝している）の[セビージャFC](../Page/セビージャFC.md "wikilink")に敗れてベスト4、コッパ・イタリアも準決勝でユヴェントスに敗れてベスト4に終わった。シーズン終了後に意見の相違などからモンテッラ監督を解任。[スイス王者](../Page/スーパーリーグ_\(スイス\).md "wikilink")[FCバーゼル](../Page/FCバーゼル.md "wikilink")監督であった[パウロ・ソウザ](../Page/パウロ・ソウザ.md "wikilink")が新監督に就任。\[15\]。
 
-2015-16シーズン、GKでは正GKの[ネトがユベントスへ](https://ja.wikipedia.org/wiki/ノルベルト・ムラーラ・ネト "wikilink")、ロサーティは[ペルージャ・カルチョ](https://ja.wikipedia.org/wiki/ペルージャ・カルチョ "wikilink")へ移籍し、[クリスティアーノ・ルパテッリ](https://ja.wikipedia.org/wiki/クリスティアーノ・ルパテッリ "wikilink")は引退した。DFでは[マイカ・リチャーズ](../Page/マイカ・リチャーズ.md "wikilink")はマンチェスター・シティへ復帰。[ステファン・サヴィッチ](https://ja.wikipedia.org/wiki/ステファン・サヴィッチ "wikilink")が[マリオ・スアレス](https://ja.wikipedia.org/wiki/マリオ・スアレス "wikilink")との交換トレードの形で[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")へ、[ミケーレ・カンポレーゼ](https://ja.wikipedia.org/wiki/ミケーレ・カンポレーゼ "wikilink")は[エンポリへ移籍](https://ja.wikipedia.org/wiki/エンポリFC "wikilink")。MFでは[モハメド・サラー](https://ja.wikipedia.org/wiki/モハメド・サラー "wikilink")がチェルシー復帰（のちにローマに期限付き移籍）、[ホアキン・サンチェス](https://ja.wikipedia.org/wiki/ホアキン・サンチェス "wikilink")と[フアン・マヌエル・バルガス](../Page/フアン・マヌエル・バルガス.md "wikilink")が[レアル・ベティス](https://ja.wikipedia.org/wiki/レアル・ベティス "wikilink")へ、[アルベルト・アクィラーニ](../Page/アルベルト・アクィラーニ.md "wikilink")が[スポルティングCPへ移籍](https://ja.wikipedia.org/wiki/スポルティング・クルーベ・デ・ポルトゥガル "wikilink")。FWでは[マリオ・ゴメス](../Page/マリオ・ゴメス.md "wikilink")が[ベシクタシュJK](https://ja.wikipedia.org/wiki/ベシクタシュJK "wikilink")へ移籍した。これに代わってFW[ニコラ・カリニッチ](https://ja.wikipedia.org/wiki/ニコラ・カリニッチ "wikilink")、[ジョアン・ベルドゥ](https://ja.wikipedia.org/wiki/ジョアン・ベルドゥ "wikilink")、DF[ダヴィデ・アストーリ](https://ja.wikipedia.org/wiki/ダヴィデ・アストーリ "wikilink")、[ジウベルト・ジュニオール](https://ja.wikipedia.org/wiki/ジウベルト・ジュニオール "wikilink")、GK[ルイージ・セーペ](https://ja.wikipedia.org/wiki/ルイージ・セーペ "wikilink")などを獲得し、多数の選手の入れ替えが行われた。
-チームはシーズン開幕から好調を維持し、第7節で[アタランタを](https://ja.wikipedia.org/wiki/アタランタBC "wikilink")3-0で下し約16年ぶりにリーグ首位に立った。しかし第13節で[エンポリと引き分け首位を明け渡すと徐々に調子を落とし](https://ja.wikipedia.org/wiki/エンポリFC "wikilink")、2016年1月からの23試合では僅か7勝と大苦戦。結局この年もCL出場権を得た[ユーベ](../Page/ユヴェントスFC.md "wikilink")、[ローマ](../Page/ASローマ.md "wikilink")、[ナポリの](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")3チームからは1つも勝ち星を得ることができず、5位でシーズンを終えることとなった。カップ戦においては[コパ・イタリア](https://ja.wikipedia.org/wiki/コパ・イタリア "wikilink")初戦でカルピに、[ELは決勝T一回戦で](../Page/UEFAヨーロッパリーグ.md "wikilink")[トッテナムに敗れ](https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC "wikilink")、大会を後にした。またシーズン終了後にはチームに11年間在籍しキャプテンを務めた[マヌエル・パスクアル](../Page/マヌエル・パスクアル.md "wikilink")が契約満了により退団、後に[エンポリに加入した](https://ja.wikipedia.org/wiki/エンポリFC "wikilink")。
+2015-16シーズン、GKでは正GKの[ネトがユベントスへ](https://ja.wikipedia.org/wiki/ノルベルト・ムラーラ・ネト "wikilink")、ロサーティは[ペルージャ・カルチョ](../Page/ペルージャ・カルチョ.md "wikilink")へ移籍し、[クリスティアーノ・ルパテッリ](https://ja.wikipedia.org/wiki/クリスティアーノ・ルパテッリ "wikilink")は引退した。DFでは[マイカ・リチャーズ](../Page/マイカ・リチャーズ.md "wikilink")はマンチェスター・シティへ復帰。[ステファン・サヴィッチ](https://ja.wikipedia.org/wiki/ステファン・サヴィッチ "wikilink")が[マリオ・スアレス](https://ja.wikipedia.org/wiki/マリオ・スアレス "wikilink")との交換トレードの形で[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")へ、[ミケーレ・カンポレーゼ](https://ja.wikipedia.org/wiki/ミケーレ・カンポレーゼ "wikilink")は[エンポリへ移籍](../Page/エンポリFC.md "wikilink")。MFでは[モハメド・サラー](https://ja.wikipedia.org/wiki/モハメド・サラー "wikilink")がチェルシー復帰（のちにローマに期限付き移籍）、[ホアキン・サンチェス](../Page/ホアキン・サンチェス.md "wikilink")と[フアン・マヌエル・バルガス](../Page/フアン・マヌエル・バルガス.md "wikilink")が[レアル・ベティス](../Page/レアル・ベティス.md "wikilink")へ、[アルベルト・アクィラーニ](../Page/アルベルト・アクィラーニ.md "wikilink")が[スポルティングCPへ移籍](../Page/スポルティング・クルーベ・デ・ポルトゥガル.md "wikilink")。FWでは[マリオ・ゴメス](../Page/マリオ・ゴメス.md "wikilink")が[ベシクタシュJK](../Page/ベシクタシュJK.md "wikilink")へ移籍した。これに代わってFW[ニコラ・カリニッチ](https://ja.wikipedia.org/wiki/ニコラ・カリニッチ "wikilink")、[ジョアン・ベルドゥ](https://ja.wikipedia.org/wiki/ジョアン・ベルドゥ "wikilink")、DF[ダヴィデ・アストーリ](https://ja.wikipedia.org/wiki/ダヴィデ・アストーリ "wikilink")、[ジウベルト・ジュニオール](https://ja.wikipedia.org/wiki/ジウベルト・ジュニオール "wikilink")、GK[ルイージ・セーペ](https://ja.wikipedia.org/wiki/ルイージ・セーペ "wikilink")などを獲得し、多数の選手の入れ替えが行われた。
+チームはシーズン開幕から好調を維持し、第7節で[アタランタを](../Page/アタランタBC.md "wikilink")3-0で下し約16年ぶりにリーグ首位に立った。しかし第13節で[エンポリと引き分け首位を明け渡すと徐々に調子を落とし](../Page/エンポリFC.md "wikilink")、2016年1月からの23試合では僅か7勝と大苦戦。結局この年もCL出場権を得た[ユーベ](../Page/ユヴェントスFC.md "wikilink")、[ローマ](../Page/ASローマ.md "wikilink")、[ナポリの](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")3チームからは1つも勝ち星を得ることができず、5位でシーズンを終えることとなった。カップ戦においては[コパ・イタリア](https://ja.wikipedia.org/wiki/コパ・イタリア "wikilink")初戦でカルピに、[ELは決勝T一回戦で](../Page/UEFAヨーロッパリーグ.md "wikilink")[トッテナムに敗れ](../Page/トッテナム・ホットスパーFC.md "wikilink")、大会を後にした。またシーズン終了後にはチームに11年間在籍しキャプテンを務めた[マヌエル・パスクアル](../Page/マヌエル・パスクアル.md "wikilink")が契約満了により退団、後に[エンポリに加入した](../Page/エンポリFC.md "wikilink")。
 
 2017-18シーズンは[ゴンサロ・ロドリゲス](../Page/ゴンサロ・ロドリゲス.md "wikilink")、[フェデリコ・ベルナルデスキ](https://ja.wikipedia.org/wiki/フェデリコ・ベルナルデスキ "wikilink")、[ヨシップ・イリチッチ](https://ja.wikipedia.org/wiki/ヨシップ・イリチッチ "wikilink")、[チプリアン・タタルシャヌ](https://ja.wikipedia.org/wiki/チプリアン・タタルシャヌ "wikilink")、[マティアス・ベシーノ](https://ja.wikipedia.org/wiki/マティアス・ベシーノ "wikilink")、[ボルハ・バレロ](https://ja.wikipedia.org/wiki/ボルハ・バレロ "wikilink")ら主力が多く退団した\[16\]。2018年3月4日[キャプテンの](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink")[ダヴィデ・アストーリ](https://ja.wikipedia.org/wiki/ダヴィデ・アストーリ "wikilink")が遠征先[ウーディネ](../Page/ウーディネ.md "wikilink")の[ホテル](../Page/ホテル.md "wikilink")で[心臓発作](https://ja.wikipedia.org/wiki/心臓発作 "wikilink")により急死した\[17\]。
 
@@ -87,12 +87,12 @@
 
 <!-- end list -->
 
-  - '''[コッパ・イタリア](https://ja.wikipedia.org/wiki/コッパ・イタリア "wikilink")：6回 '''[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")
+  - '''[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")：6回 '''[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")
       - 1939-40, 1960-61, 1965-66, 1974-75, 1995-96, 2000-01
 
 <!-- end list -->
 
-  - **[スーペルコッパ・イタリアーナ](https://ja.wikipedia.org/wiki/スーペルコッパ・イタリアーナ "wikilink")：1回** [30x30ピクセル](https://ja.wikipedia.org/wiki/ファイル:Supercoppaitaliana.png "wikilink")
+  - **[スーペルコッパ・イタリアーナ](../Page/スーペルコッパ・イタリアーナ.md "wikilink")：1回** [30x30ピクセル](https://ja.wikipedia.org/wiki/ファイル:Supercoppaitaliana.png "wikilink")
       - 1996
 
 ### 国際タイトル
@@ -102,85 +102,85 @@
 
 ## 過去の成績
 
-| シーズン                                                                        | ディビジョン                                             | [コッパ・イタリア](https://ja.wikipedia.org/wiki/コッパ・イタリア "wikilink") | [欧州カップ](https://ja.wikipedia.org/wiki/UEFA "wikilink") |
-| --------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------ |
-| リーグ                                                                         | 試                                                  | 勝                                                             | 分                                                      |
-| 1945-46                                                                     | [セリエA](../Page/セリエA_\(サッカー\).md "wikilink")        | 20                                                            | 10                                                     |
-| 1946-47                                                                     | セリエA                                               | 38                                                            | 10                                                     |
-| 1947-48                                                                     | セリエA                                               | 40                                                            | 18                                                     |
-| 1948-49                                                                     | セリエA                                               | 38                                                            | 15                                                     |
-| 1949-50                                                                     | セリエA                                               | 38                                                            | 18                                                     |
-| 1950-51                                                                     | セリエA                                               | 38                                                            | 18                                                     |
-| 1951-52                                                                     | セリエA                                               | 38                                                            | 17                                                     |
-| 1952-53                                                                     | セリエA                                               | 34                                                            | 11                                                     |
-| 1953-54                                                                     | セリエA                                               | 34                                                            | 15                                                     |
-| 1954-55                                                                     | セリエA                                               | 34                                                            | 14                                                     |
-| 1955-56                                                                     | セリエA                                               | 34                                                            | 20                                                     |
-| 1956-57                                                                     | セリエA                                               | 34                                                            | 16                                                     |
-| 1957-58                                                                     | セリエA                                               | 34                                                            | 16                                                     |
-| 1958-59                                                                     | セリエA                                               | 34                                                            | 20                                                     |
-| 1959-60                                                                     | セリエA                                               | 34                                                            | 20                                                     |
-| 1960-61                                                                     | セリエA                                               | 34                                                            | 13                                                     |
-| 1961-62                                                                     | セリエA                                               | 34                                                            | 19                                                     |
-| 1962-63                                                                     | セリエA                                               | 34                                                            | 15                                                     |
-| 1963-64                                                                     | セリエA                                               | 34                                                            | 14                                                     |
-| 1964-65                                                                     | セリエA                                               | 34                                                            | 16                                                     |
-| 1965-66                                                                     | セリエA                                               | 34                                                            | 16                                                     |
-| 1966-67                                                                     | セリエA                                               | 34                                                            | 15                                                     |
-| 1967-68                                                                     | セリエA                                               | 30                                                            | 13                                                     |
-| 1968-69                                                                     | セリエA                                               | 30                                                            | 16                                                     |
-| 1969-70                                                                     | セリエA                                               | 30                                                            | 15                                                     |
-| 1970-71                                                                     | セリエA                                               | 30                                                            | 3                                                      |
-| 1971-72                                                                     | セリエA                                               | 30                                                            | 12                                                     |
-| 1972-73                                                                     | セリエA                                               | 30                                                            | 16                                                     |
-| 1973-74                                                                     | セリエA                                               | 30                                                            | 10                                                     |
-| 1974-75                                                                     | セリエA                                               | 30                                                            | 9                                                      |
-| 1975-76                                                                     | セリエA                                               | 30                                                            | 9                                                      |
-| 1976-77                                                                     | セリエA                                               | 30                                                            | 12                                                     |
-| 1977-78                                                                     | セリエA                                               | 30                                                            | 7                                                      |
-| 1978-79                                                                     | セリエA                                               | 30                                                            | 10                                                     |
-| 1979-80                                                                     | セリエA                                               | 30                                                            | 11                                                     |
-| 1980-81                                                                     | セリエA                                               | 30                                                            | 9                                                      |
-| 1981-82                                                                     | セリエA                                               | 30                                                            | 17                                                     |
-| 1982-83                                                                     | セリエA                                               | 30                                                            | 12                                                     |
-| 1983-84                                                                     | セリエA                                               | 30                                                            | 12                                                     |
-| 1984-85                                                                     | セリエA                                               | 30                                                            | 8                                                      |
-| 1985-86                                                                     | セリエA                                               | 30                                                            | 10                                                     |
-| 1986-87                                                                     | セリエA                                               | 30                                                            | 8                                                      |
-| 1987-88                                                                     | セリエA                                               | 30                                                            | 9                                                      |
-| 1988-89                                                                     | セリエA                                               | 34                                                            | 12                                                     |
-| 1989-90                                                                     | セリエA                                               | 34                                                            | 7                                                      |
-| 1990-91                                                                     | セリエA                                               | 34                                                            | 8                                                      |
-| 1991-92                                                                     | セリエA                                               | 34                                                            | 10                                                     |
-| 1992-93                                                                     | セリエA                                               | 34                                                            | 8                                                      |
-| 1993-94                                                                     | [セリエB](../Page/セリエB_\(サッカー\).md "wikilink")        | 38                                                            | 17                                                     |
-| 1994-95                                                                     | セリエA                                               | 34                                                            | 12                                                     |
-| 1995-96                                                                     | セリエA                                               | 34                                                            | 17                                                     |
-| 1996-97                                                                     | セリエA                                               | 34                                                            | 10                                                     |
-| 1997-98                                                                     | セリエA                                               | 34                                                            | 15                                                     |
-| [1998-99](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_1998-1999 "wikilink") | セリエA                                               | 34                                                            | 16                                                     |
-| [1999-00](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_1999-2000 "wikilink") | セリエA                                               | 34                                                            | 13                                                     |
-| [2000-01](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2000-2001 "wikilink") | セリエA                                               | 34                                                            | 10                                                     |
-| [2001-02](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2001-2002 "wikilink") | セリエA                                               | 34                                                            | 5                                                      |
-| 2002-03                                                                     | [セリエC2](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink") | 34                                                            | 20                                                     |
-| 2003-04                                                                     | セリエB                                               | 46                                                            | 19                                                     |
-| [2004-05](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2004-2005 "wikilink") | セリエA                                               | 38                                                            | 9                                                      |
-| [2005-06](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2005-2006 "wikilink") | セリエA                                               | 38                                                            | 22                                                     |
-| [2006-07](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2006-2007 "wikilink") | セリエA                                               | 38                                                            | 21                                                     |
-| [2007-08](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2007-2008 "wikilink") | セリエA                                               | 38                                                            | 19                                                     |
-| [2008-09](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2008-2009 "wikilink") | セリエA                                               | 38                                                            | 21                                                     |
-| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink")              | ラウンド32                                             |                                                               |                                                        |
-| [2009-10](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2009-2010 "wikilink") | セリエA                                               | 38                                                            | 13                                                     |
-| [2010-11](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2010-2011 "wikilink") | セリエA                                               | 38                                                            | 12                                                     |
-| [2011-12](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2011-2012 "wikilink") | セリエA                                               | 38                                                            | 11                                                     |
-| [2012-13](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2012-2013 "wikilink") | セリエA                                               | 38                                                            | 21                                                     |
-| [2013-14](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2013-2014 "wikilink") | セリエA                                               | 38                                                            | 19                                                     |
-| [2014-15](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2014-2015 "wikilink") | セリエA                                               | 38                                                            | 18                                                     |
-| [2015-16](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2015-2016 "wikilink") | セリエA                                               | 38                                                            | 18                                                     |
-| [2016-17](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2016-2017 "wikilink") | セリエA                                               | 38                                                            | 16                                                     |
-| [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink") | セリエA                                               | 38                                                            | 16                                                     |
-| [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                               | 38                                                            | 8                                                      |
-| [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                               | 38                                                            |                                                        |
+| シーズン                                                                        | ディビジョン                                             | [コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink") | [欧州カップ](https://ja.wikipedia.org/wiki/UEFA "wikilink") |
+| --------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------ |
+| リーグ                                                                         | 試                                                  | 勝                                          | 分                                                      |
+| 1945-46                                                                     | [セリエA](../Page/セリエA_\(サッカー\).md "wikilink")        | 20                                         | 10                                                     |
+| 1946-47                                                                     | セリエA                                               | 38                                         | 10                                                     |
+| 1947-48                                                                     | セリエA                                               | 40                                         | 18                                                     |
+| 1948-49                                                                     | セリエA                                               | 38                                         | 15                                                     |
+| 1949-50                                                                     | セリエA                                               | 38                                         | 18                                                     |
+| 1950-51                                                                     | セリエA                                               | 38                                         | 18                                                     |
+| 1951-52                                                                     | セリエA                                               | 38                                         | 17                                                     |
+| 1952-53                                                                     | セリエA                                               | 34                                         | 11                                                     |
+| 1953-54                                                                     | セリエA                                               | 34                                         | 15                                                     |
+| 1954-55                                                                     | セリエA                                               | 34                                         | 14                                                     |
+| 1955-56                                                                     | セリエA                                               | 34                                         | 20                                                     |
+| 1956-57                                                                     | セリエA                                               | 34                                         | 16                                                     |
+| 1957-58                                                                     | セリエA                                               | 34                                         | 16                                                     |
+| 1958-59                                                                     | セリエA                                               | 34                                         | 20                                                     |
+| 1959-60                                                                     | セリエA                                               | 34                                         | 20                                                     |
+| 1960-61                                                                     | セリエA                                               | 34                                         | 13                                                     |
+| 1961-62                                                                     | セリエA                                               | 34                                         | 19                                                     |
+| 1962-63                                                                     | セリエA                                               | 34                                         | 15                                                     |
+| 1963-64                                                                     | セリエA                                               | 34                                         | 14                                                     |
+| 1964-65                                                                     | セリエA                                               | 34                                         | 16                                                     |
+| 1965-66                                                                     | セリエA                                               | 34                                         | 16                                                     |
+| 1966-67                                                                     | セリエA                                               | 34                                         | 15                                                     |
+| 1967-68                                                                     | セリエA                                               | 30                                         | 13                                                     |
+| 1968-69                                                                     | セリエA                                               | 30                                         | 16                                                     |
+| 1969-70                                                                     | セリエA                                               | 30                                         | 15                                                     |
+| 1970-71                                                                     | セリエA                                               | 30                                         | 3                                                      |
+| 1971-72                                                                     | セリエA                                               | 30                                         | 12                                                     |
+| 1972-73                                                                     | セリエA                                               | 30                                         | 16                                                     |
+| 1973-74                                                                     | セリエA                                               | 30                                         | 10                                                     |
+| 1974-75                                                                     | セリエA                                               | 30                                         | 9                                                      |
+| 1975-76                                                                     | セリエA                                               | 30                                         | 9                                                      |
+| 1976-77                                                                     | セリエA                                               | 30                                         | 12                                                     |
+| 1977-78                                                                     | セリエA                                               | 30                                         | 7                                                      |
+| 1978-79                                                                     | セリエA                                               | 30                                         | 10                                                     |
+| 1979-80                                                                     | セリエA                                               | 30                                         | 11                                                     |
+| 1980-81                                                                     | セリエA                                               | 30                                         | 9                                                      |
+| 1981-82                                                                     | セリエA                                               | 30                                         | 17                                                     |
+| 1982-83                                                                     | セリエA                                               | 30                                         | 12                                                     |
+| 1983-84                                                                     | セリエA                                               | 30                                         | 12                                                     |
+| 1984-85                                                                     | セリエA                                               | 30                                         | 8                                                      |
+| 1985-86                                                                     | セリエA                                               | 30                                         | 10                                                     |
+| 1986-87                                                                     | セリエA                                               | 30                                         | 8                                                      |
+| 1987-88                                                                     | セリエA                                               | 30                                         | 9                                                      |
+| 1988-89                                                                     | セリエA                                               | 34                                         | 12                                                     |
+| 1989-90                                                                     | セリエA                                               | 34                                         | 7                                                      |
+| 1990-91                                                                     | セリエA                                               | 34                                         | 8                                                      |
+| 1991-92                                                                     | セリエA                                               | 34                                         | 10                                                     |
+| 1992-93                                                                     | セリエA                                               | 34                                         | 8                                                      |
+| 1993-94                                                                     | [セリエB](../Page/セリエB_\(サッカー\).md "wikilink")        | 38                                         | 17                                                     |
+| 1994-95                                                                     | セリエA                                               | 34                                         | 12                                                     |
+| 1995-96                                                                     | セリエA                                               | 34                                         | 17                                                     |
+| 1996-97                                                                     | セリエA                                               | 34                                         | 10                                                     |
+| 1997-98                                                                     | セリエA                                               | 34                                         | 15                                                     |
+| [1998-99](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_1998-1999 "wikilink") | セリエA                                               | 34                                         | 16                                                     |
+| [1999-00](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_1999-2000 "wikilink") | セリエA                                               | 34                                         | 13                                                     |
+| [2000-01](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2000-2001 "wikilink") | セリエA                                               | 34                                         | 10                                                     |
+| [2001-02](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2001-2002 "wikilink") | セリエA                                               | 34                                         | 5                                                      |
+| 2002-03                                                                     | [セリエC2](../Page/レガ・プロ・セコンダ・ディヴィジオーネ.md "wikilink") | 34                                         | 20                                                     |
+| 2003-04                                                                     | セリエB                                               | 46                                         | 19                                                     |
+| [2004-05](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2004-2005 "wikilink") | セリエA                                               | 38                                         | 9                                                      |
+| [2005-06](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2005-2006 "wikilink") | セリエA                                               | 38                                         | 22                                                     |
+| [2006-07](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2006-2007 "wikilink") | セリエA                                               | 38                                         | 21                                                     |
+| [2007-08](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2007-2008 "wikilink") | セリエA                                               | 38                                         | 19                                                     |
+| [2008-09](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2008-2009 "wikilink") | セリエA                                               | 38                                         | 21                                                     |
+| [UC](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink")              | ラウンド32                                             |                                            |                                                        |
+| [2009-10](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2009-2010 "wikilink") | セリエA                                               | 38                                         | 13                                                     |
+| [2010-11](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2010-2011 "wikilink") | セリエA                                               | 38                                         | 12                                                     |
+| [2011-12](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2011-2012 "wikilink") | セリエA                                               | 38                                         | 11                                                     |
+| [2012-13](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2012-2013 "wikilink") | セリエA                                               | 38                                         | 21                                                     |
+| [2013-14](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2013-2014 "wikilink") | セリエA                                               | 38                                         | 19                                                     |
+| [2014-15](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2014-2015 "wikilink") | セリエA                                               | 38                                         | 18                                                     |
+| [2015-16](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2015-2016 "wikilink") | セリエA                                               | 38                                         | 18                                                     |
+| [2016-17](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2016-2017 "wikilink") | セリエA                                               | 38                                         | 16                                                     |
+| [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink") | セリエA                                               | 38                                         | 16                                                     |
+| [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                               | 38                                         | 8                                                      |
+| [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                               | 38                                         |                                                        |
 
 ## 現所属メンバー
 
@@ -238,7 +238,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スヴェン・ゴラン・エリクソン" title="wikilink">スヴェン・ゴラン・エリクソン</a></p></td>
+<td><p><a href="../Page/スヴェン・ゴラン・エリクソン.md" title="wikilink">スヴェン・ゴラン・エリクソン</a></p></td>
 <td></td>
 <td><p>1987-1989</p></td>
 </tr>
@@ -258,7 +258,7 @@
 <td><p>1992-1993</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クラウディオ・ラニエリ" title="wikilink">クラウディオ・ラニエリ</a></p></td>
+<td><p><a href="../Page/クラウディオ・ラニエリ.md" title="wikilink">クラウディオ・ラニエリ</a></p></td>
 <td></td>
 <td><p>1993-1997</p></td>
 </tr>
@@ -268,7 +268,7 @@
 <td><p>1997</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョバンニ・トラパットーニ" title="wikilink">ジョバンニ・トラパットーニ</a></p></td>
+<td><p><a href="../Page/ジョバンニ・トラパットーニ.md" title="wikilink">ジョバンニ・トラパットーニ</a></p></td>
 <td></td>
 <td><p>1998-2000</p></td>
 </tr>
@@ -374,7 +374,7 @@
 
   - [ヴァレリオ・フィオーリ](../Page/ヴァレリオ・フィオーリ.md "wikilink")
 
-  - [フランチェスコ・トルド](https://ja.wikipedia.org/wiki/フランチェスコ・トルド "wikilink")
+  - [フランチェスコ・トルド](../Page/フランチェスコ・トルド.md "wikilink")
 
   - [マルコ・ストラーリ](../Page/マルコ・ストラーリ.md "wikilink")
 
@@ -388,7 +388,7 @@
 
   - [アルトゥール・ボルツ](../Page/アルトゥール・ボルツ.md "wikilink")
 
-  - [セバスティアン・フレイ](https://ja.wikipedia.org/wiki/セバスティアン・フレイ "wikilink")
+  - [セバスティアン・フレイ](../Page/セバスティアン・フレイ.md "wikilink")
 
   - [エミリアーノ・ヴィヴィアーノ](https://ja.wikipedia.org/wiki/エミリアーノ・ヴィヴィアーノ "wikilink")
 
@@ -440,7 +440,7 @@
 
   - [ゴンサロ・ロドリゲス](../Page/ゴンサロ・ロドリゲス.md "wikilink")
 
-  - [ジョルジョ・キエッリーニ](https://ja.wikipedia.org/wiki/ジョルジョ・キエッリーニ "wikilink")
+  - [ジョルジョ・キエッリーニ](../Page/ジョルジョ・キエッリーニ.md "wikilink")
 
 <!-- end list -->
 
@@ -472,15 +472,15 @@
 
   - [アントニオ・ディ・ジェンナロ](https://ja.wikipedia.org/wiki/アントニオ・ディ・ジェンナロ "wikilink")
 
-  - [ドゥンガ](https://ja.wikipedia.org/wiki/ドゥンガ "wikilink")
+  - [ドゥンガ](../Page/ドゥンガ.md "wikilink")
 
   - [マジーニョ](https://ja.wikipedia.org/wiki/イオマール・ド・ナシメント "wikilink")
 
-  - [アンジェロ・ディ・リービオ](https://ja.wikipedia.org/wiki/アンジェロ・ディ・リービオ "wikilink")
+  - [アンジェロ・ディ・リービオ](../Page/アンジェロ・ディ・リービオ.md "wikilink")
 
   - [ニコラ・ベルティ](https://ja.wikipedia.org/wiki/ニコラ・ベルティ "wikilink")
 
-  - [シュテファン・エッフェンベルク](https://ja.wikipedia.org/wiki/シュテファン・エッフェンベルク "wikilink")
+  - [シュテファン・エッフェンベルク](../Page/シュテファン・エッフェンベルク.md "wikilink")
 
   -  [アンドレイ・カンチェルスキス](https://ja.wikipedia.org/wiki/アンドレイ・カンチェルスキス "wikilink")
 
@@ -492,7 +492,7 @@
 
   - [ジャンニ・ギグー](https://ja.wikipedia.org/wiki/ジャンニ・ギグー "wikilink")
 
-  - [ステファノ・フィオーレ](https://ja.wikipedia.org/wiki/ステファノ・フィオーレ "wikilink")
+  - [ステファノ・フィオーレ](../Page/ステファノ・フィオーレ.md "wikilink")
 
 <!-- end list -->
 
@@ -510,7 +510,7 @@
 
   - [クリスティアーノ・ザネッティ](../Page/クリスティアーノ・ザネッティ.md "wikilink")
 
-  - [マッシモ・アンブロジーニ](https://ja.wikipedia.org/wiki/マッシモ・アンブロジーニ "wikilink")
+  - [マッシモ・アンブロジーニ](../Page/マッシモ・アンブロジーニ.md "wikilink")
 
   - [ダビド・ピサーロ](../Page/ダビド・ピサーロ.md "wikilink")
 
@@ -520,9 +520,9 @@
 
   - [マルコ・マルキオンニ](../Page/マルコ・マルキオンニ.md "wikilink")
 
-  - [ホアキン・サンチェス](https://ja.wikipedia.org/wiki/ホアキン・サンチェス "wikilink")
+  - [ホアキン・サンチェス](../Page/ホアキン・サンチェス.md "wikilink")
 
-  - [マヌエレ・ブラージ](https://ja.wikipedia.org/wiki/マヌエレ・ブラージ "wikilink")
+  - [マヌエレ・ブラージ](../Page/マヌエレ・ブラージ.md "wikilink")
 
   - [ハイメ・バルデス](https://ja.wikipedia.org/wiki/ハイメ・バルデス "wikilink")
 
@@ -576,9 +576,9 @@
 
   - [ダニエル・ベルトーニ](https://ja.wikipedia.org/wiki/ダニエル・ベルトーニ "wikilink")
 
-  - [ラモン・ディアス](https://ja.wikipedia.org/wiki/ラモン・ディアス "wikilink")
+  - [ラモン・ディアス](../Page/ラモン・ディアス.md "wikilink")
 
-  - [ダニエレ・マッサーロ](https://ja.wikipedia.org/wiki/ダニエレ・マッサーロ "wikilink")
+  - [ダニエレ・マッサーロ](../Page/ダニエレ・マッサーロ.md "wikilink")
 
   - [マリウス・ラカトゥシュ](https://ja.wikipedia.org/wiki/マリウス・ラカトゥシュ "wikilink")
 
@@ -592,7 +592,7 @@
 
   - [ガブリエル・バティストゥータ](../Page/ガブリエル・バティストゥータ.md "wikilink")
 
-  - [ブライアン・ラウドルップ](https://ja.wikipedia.org/wiki/ブライアン・ラウドルップ "wikilink")
+  - [ブライアン・ラウドルップ](../Page/ブライアン・ラウドルップ.md "wikilink")
 
 <!-- end list -->
 
@@ -608,17 +608,17 @@
 
   - [ルカ・トーニ](../Page/ルカ・トーニ.md "wikilink")
 
-  - [アドリアン・ムトゥ](https://ja.wikipedia.org/wiki/アドリアン・ムトゥ "wikilink")
+  - [アドリアン・ムトゥ](../Page/アドリアン・ムトゥ.md "wikilink")
 
   - [ファブリツィオ・ミッコリ](../Page/ファブリツィオ・ミッコリ.md "wikilink")
 
   - [アマウリ](../Page/アマウリ・カルヴァーリョ・デ・オリヴェイラ.md "wikilink")
 
-  - [アドリアーノ](https://ja.wikipedia.org/wiki/アドリアーノ・レイテ・リベイロ "wikilink")
+  - [アドリアーノ](../Page/アドリアーノ・レイテ・リベイロ.md "wikilink")
 
   - [ハビエル・ポルティージョ](../Page/ハビエル・ポルティージョ.md "wikilink")
 
-  - [アルベルト・ジラルディーノ](https://ja.wikipedia.org/wiki/アルベルト・ジラルディーノ "wikilink")
+  - [アルベルト・ジラルディーノ](../Page/アルベルト・ジラルディーノ.md "wikilink")
 
   - [ファビオ・クアリャレッラ](../Page/ファビオ・クアリャレッラ.md "wikilink")
 
@@ -670,7 +670,7 @@
 
   - [ルカ・アリアッティ](https://ja.wikipedia.org/wiki/ルカ・アリアッティ "wikilink") 2004-2005
 
-  - [アンジェロ・ディ・リービオ](https://ja.wikipedia.org/wiki/アンジェロ・ディ・リービオ "wikilink") 2001-2004
+  - [アンジェロ・ディ・リービオ](../Page/アンジェロ・ディ・リービオ.md "wikilink") 2001-2004
 
   - [マヌエル・ルイ・コスタ](../Page/マヌエル・ルイ・コスタ.md "wikilink") 2000-2001
 
@@ -678,7 +678,7 @@
 
   - [フランチェスコ・バイアーノ](https://ja.wikipedia.org/wiki/フランチェスコ・バイアーノ "wikilink") 1994-1995
 
-  - [シュテファン・エッフェンベルク](https://ja.wikipedia.org/wiki/シュテファン・エッフェンベルク "wikilink") 1993-1994
+  - [シュテファン・エッフェンベルク](../Page/シュテファン・エッフェンベルク.md "wikilink") 1993-1994
 
 ## ユニフォーム
 
@@ -728,7 +728,7 @@
 </tr>
 <tr class="even">
 <td><p>2002</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミズノ" title="wikilink">MIZUNO</a></p></td>
+<td><p><a href="../Page/ミズノ.md" title="wikilink">MIZUNO</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

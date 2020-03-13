@@ -22,9 +22,9 @@
 
 ## チャンネル・周波数
 
-  - [総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")　アナログ54ch・デジタル29ch（リモコンキーID**「3」**。以下[豊橋市](../Page/豊橋市.md "wikilink")、[豊川市](../Page/豊川市.md "wikilink")、[新城市](../Page/新城市.md "wikilink")とその周辺部）
-  - [Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")　アナログ50ch・デジタル24ch(リモコンキーID**「2」**)
-  - [FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") 85.3MHz
+  - [総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")　アナログ54ch・デジタル29ch（リモコンキーID**「3」**。以下[豊橋市](../Page/豊橋市.md "wikilink")、[豊川市](../Page/豊川市.md "wikilink")、[新城市](../Page/新城市.md "wikilink")とその周辺部）
+  - [Eテレ](../Page/NHK教育テレビジョン.md "wikilink")　アナログ50ch・デジタル24ch(リモコンキーID**「2」**)
+  - [FM放送](../Page/NHK-FM放送.md "wikilink") 85.3MHz
 
 <!-- end list -->
 

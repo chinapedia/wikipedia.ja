@@ -1,22 +1,22 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK津放送局**（エヌエイチケイつほうそうきょく）は、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[総合テレビと](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[FM放送で県域放送を行っている](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")。
+**NHK津放送局**（エヌエイチケイつほうそうきょく）は、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で県域放送を行っている](../Page/NHK-FM放送.md "wikilink")。
 
 ## 沿革
 
   - [1940年](../Page/1940年.md "wikilink")（昭和15年）[9月1日](../Page/9月1日.md "wikilink") - **名古屋中央放送局津出張所**開設（この日を開局日としている）。受信機相談および料金業務などを行う。\[1\]
-  - [1942年](../Page/1942年.md "wikilink")（昭和17年）10月15日 - 上野臨時放送所を設置（呼出符号なし）。電波管制による措置として、100Wで県下初の[第一放送の電波を発射](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")。\[2\]
+  - [1942年](../Page/1942年.md "wikilink")（昭和17年）10月15日 - 上野臨時放送所を設置（呼出符号なし）。電波管制による措置として、100Wで県下初の[第一放送の電波を発射](../Page/NHKラジオ第1放送.md "wikilink")。\[2\]
   - [1945年](../Page/1945年.md "wikilink")（昭和20年）[10月26日](../Page/10月26日.md "wikilink") - 上野臨時放送所、上野中継放送所に改称。
   - [1946年](../Page/1946年.md "wikilink")（昭和21年）[9月1日](../Page/9月1日.md "wikilink") - 上野中継放送所に呼出符号JOCK4割り当て。
   - [1948年](../Page/1948年.md "wikilink")（昭和23年）[5月1日](../Page/5月1日.md "wikilink") - 津出張所、津支局に改称。
   - 1948年（昭和23年）[7月1日](../Page/7月1日.md "wikilink") - 上野中継放送所の呼出符号JOCTに変更。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[3月3日](../Page/3月3日.md "wikilink") - 津市大門町に局舎を新築、落成式を挙行。\[3\]
   - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）7月1日 - 津支局、**津放送局**に改称（送信施設なし）。\[4\]
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）[4月6日](../Page/4月6日.md "wikilink") - FMラジオ放送（呼出符号JONP-FM）開局。\[5\]
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）[4月6日](../Page/4月6日.md "wikilink") - FMラジオ放送（呼出符号JONP-FM）開局。\[5\]
   - [1973年](../Page/1973年.md "wikilink")（昭和48年）[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") - 津市丸之内養正町に新築された**津放送会館**に移転。
   - 1973年（昭和48年）[4月2日](../Page/4月2日.md "wikilink") - 県域ローカルのテレビ放送を開始。\[6\]
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[4月1日](../Page/4月1日.md "wikilink") - [三重テレビと共に](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[地上デジタル放送開始](../Page/地上デジタルテレビ放送.md "wikilink")。特別番組を共同制作。愛知・岐阜両県でも放送。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[4月1日](../Page/4月1日.md "wikilink") - [三重テレビと共に](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[地上デジタル放送開始](../Page/地上デジタルテレビ放送.md "wikilink")。特別番組を共同制作。愛知・岐阜両県でも放送。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月24日](../Page/7月24日.md "wikilink") - アナログ放送終了。翌日午前0時までに完全停波。
   - [2017年](../Page/2017年.md "wikilink")（平成29年）[11月6日](../Page/11月6日.md "wikilink") - FM放送が終日ステレオ放送となった。
 
@@ -136,7 +136,7 @@
 
 ### 補足
 
-  - [リモコンキーID](../Page/リモコンキーID.md "wikilink")はEテレは全国共通の**「[2](../Page/2.md "wikilink")」**を使うが、総合に関しては**「[1](https://ja.wikipedia.org/wiki/1 "wikilink")」**ではなく**「[3](../Page/3.md "wikilink")」**を使用している。理由としては、**「親局のアナログ1chが民放（[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")・[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[岐阜県](../Page/岐阜県.md "wikilink")の[東海3県](https://ja.wikipedia.org/wiki/東海3県 "wikilink")では[東海テレビ放送](../Page/東海テレビ放送.md "wikilink")）であり、そのような地域は全て当該民放がリモコンキーID「[1](https://ja.wikipedia.org/wiki/1 "wikilink")」を選択**していることが挙げられこの場合、NHK総合は「[3](../Page/3.md "wikilink")」となっている。
+  - [リモコンキーID](../Page/リモコンキーID.md "wikilink")はEテレは全国共通の**「[2](../Page/2.md "wikilink")」**を使うが、総合に関しては**「[1](https://ja.wikipedia.org/wiki/1 "wikilink")」**ではなく**「[3](../Page/3.md "wikilink")」**を使用している。理由としては、**「親局のアナログ1chが民放（[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")・[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[岐阜県](../Page/岐阜県.md "wikilink")の[東海3県](../Page/東海3県.md "wikilink")では[東海テレビ放送](../Page/東海テレビ放送.md "wikilink")）であり、そのような地域は全て当該民放がリモコンキーID「[1](https://ja.wikipedia.org/wiki/1 "wikilink")」を選択**していることが挙げられこの場合、NHK総合は「[3](../Page/3.md "wikilink")」となっている。
 
   - 教育テレビとラジオ第1放送・第2放送は[名古屋放送局からカバー](../Page/NHK名古屋放送局.md "wikilink")・中継されている\[7\]。。
 
@@ -209,7 +209,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/中村信博_(アナウンサー)" title="wikilink">中村信博</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK高知放送局" title="wikilink">高知</a></p></td>
+<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/まるっと!" title="wikilink">まるっと!</a>みえ</p></td>
 </tr>
 <tr class="odd">
@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/橋爪秀範.md" title="wikilink">橋爪秀範</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK富山放送局" title="wikilink">富山</a></p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td><p>|みえDE川柳<br />
 放送部副部長</p></td>
 </tr>

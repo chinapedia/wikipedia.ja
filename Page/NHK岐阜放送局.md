@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK岐阜放送局**（エヌエイチケイぎふほうそうきょく）は、[岐阜県](../Page/岐阜県.md "wikilink")を放送対象地域とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[総合テレビと](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[FM放送で県域放送を行っている](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")。
+**NHK岐阜放送局**（エヌエイチケイぎふほうそうきょく）は、[岐阜県](../Page/岐阜県.md "wikilink")を放送対象地域とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[FM放送で県域放送を行っている](../Page/NHK-FM放送.md "wikilink")。
 
 ## 沿革
 
@@ -188,13 +188,13 @@
 ### 放送エリアについて
 
   - 親局の放送エリアは、基本的に[濃尾平野](../Page/濃尾平野.md "wikilink")とその周辺部に限られる。岐阜県全体からするとかなり狭いが人口比では結構多い。
-  - 教育テレビ及びAMラジオ2波（第1放送・第2放送）は、親局エリアは[中京](https://ja.wikipedia.org/wiki/東海3県 "wikilink")[広域圏扱いとして名古屋局を直接受信](../Page/広域放送.md "wikilink")。教育テレビ・中波ラジオの県内の中継局は名古屋局から中継され、カバーされている\[3\]。なお、岐阜市内には名古屋局（[NHK鍋田ラジオ放送所](../Page/NHK鍋田ラジオ放送所.md "wikilink")）の送信が万一できなくなった際に運用されるラジオ第1放送の予備送信所が設置されている。
+  - 教育テレビ及びAMラジオ2波（第1放送・第2放送）は、親局エリアは[中京](../Page/東海3県.md "wikilink")[広域圏扱いとして名古屋局を直接受信](../Page/広域放送.md "wikilink")。教育テレビ・中波ラジオの県内の中継局は名古屋局から中継され、カバーされている\[3\]。なお、岐阜市内には名古屋局（[NHK鍋田ラジオ放送所](../Page/NHK鍋田ラジオ放送所.md "wikilink")）の送信が万一できなくなった際に運用されるラジオ第1放送の予備送信所が設置されている。
   - 前述した通り、総合テレビは県内中継局が先に開局し後で岐阜親局が開局したため、アナログ放送では「親局がUHFで中継局がVHF」という、いわば逆転現象が起きていたが、アナログ放送の終了に伴い、この状態は解消された。
   - 総合テレビの県域放送が始まる前、[岐阜放送](../Page/岐阜放送.md "wikilink")テレビにて[NHKニュース](../Page/NHKニュース.md "wikilink")を「岐阜放送ニュース」として放送していた。
 
 ## 支局
 
-  - [高山](https://ja.wikipedia.org/wiki/NHK高山支局 "wikilink")
+  - [高山](../Page/NHK高山支局.md "wikilink")
   - [多治見](../Page/多治見市.md "wikilink")
 
 ## 主な岐阜局制作番組
@@ -221,7 +221,7 @@
 
 <!-- end list -->
 
-  - [FC岐阜](https://ja.wikipedia.org/wiki/FC岐阜 "wikilink")関連番組
+  - [FC岐阜](../Page/FC岐阜.md "wikilink")関連番組
 
 <!-- end list -->
 

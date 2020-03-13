@@ -1,14 +1,14 @@
 > この記事は[YKK AP](https://ja.wikipedia.org/wiki/YKK_AP)から翻訳されています。
 
 
-**YKK AP株式会社**（ワイケイケイエイピー、）は、[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")[建材](https://ja.wikipedia.org/wiki/建材 "wikilink")メーカー。[YKK](https://ja.wikipedia.org/wiki/YKK "wikilink")グループで[ファスナー事業と並ぶ中核事業を担う](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")。アルミサッシの国内シェアは[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")（トステム）に次いで第2位。社名の「**AP**」の部分は「**A**rchitectural **P**roducts」の略。
+**YKK AP株式会社**（ワイケイケイエイピー、）は、[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")[建材](https://ja.wikipedia.org/wiki/建材 "wikilink")メーカー。[YKK](../Page/YKK.md "wikilink")グループで[ファスナー事業と並ぶ中核事業を担う](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")。アルミサッシの国内シェアは[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")（トステム）に次いで第2位。社名の「**AP**」の部分は「**A**rchitectural **P**roducts」の略。
 
 ## 歴史
 
-  - [1957年](../Page/1957年.md "wikilink")（昭和32年） - 吉田工業（現・[YKK](https://ja.wikipedia.org/wiki/YKK "wikilink")）の子会社で[スライドファスナーの輸出と伸銅品の営業を手がける](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")「吉田商事」として発足
+  - [1957年](../Page/1957年.md "wikilink")（昭和32年） - 吉田工業（現・[YKK](../Page/YKK.md "wikilink")）の子会社で[スライドファスナーの輸出と伸銅品の営業を手がける](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")「吉田商事」として発足
   - [1959年](../Page/1959年.md "wikilink")（昭和34年） - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")でアルミ溶解と押し出しの操業開始
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年） - アルミ建具・スパンドレルなどの生産開始
-  - [1962年](../Page/1962年.md "wikilink")（昭和37年） - ビル用アルミ[サッシ](https://ja.wikipedia.org/wiki/サッシ "wikilink")の生産開始
+  - [1962年](../Page/1962年.md "wikilink")（昭和37年） - ビル用アルミ[サッシ](../Page/サッシ.md "wikilink")の生産開始
   - [1966年](../Page/1966年.md "wikilink")（昭和41年） - 一般木造住宅用ハイサッシの生産開始
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年） - 各種サッシ用部品の社内生産を開始
   - [1972年](../Page/1972年.md "wikilink")（昭和47年） - 四国工場（香川県 現・四国事業所）が操業開始
@@ -35,7 +35,7 @@
   - [2002年](../Page/2002年.md "wikilink")（平成14年） - 東陶機器株式会社（現・TOTO株式会社）、大建工業株式会社とリモデル分野で業務提携。商号を「YKK AP株式会社」に変更する
   - [2003年](../Page/2003年.md "wikilink")（平成15年） - YKK株式会社の建材製造事業本部を統合し、YKKグループの建材事業を完全一体化。ビル用システムサッシ「SYSTEMA」シリーズの生産販売開始
   - [2004年](../Page/2004年.md "wikilink")（平成16年） - 東陶機器株式会社（現・TOTO株式会社）、大建工業株式会社と「ショールーム広島」を開設
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年） - YKK APアメリカ社が「NAHBショー」に住宅用樹脂窓を出展。「YKK APショールーム品川」を開設
+  - [2005年](../Page/2005年.md "wikilink")（平成17年） - YKK APアメリカ社が「NAHBショー」に住宅用樹脂窓を出展。「YKK APショールーム品川」を開設
   - [2006年](../Page/2006年.md "wikilink")（平成18年） - 窓事業ブランド「APW」第一弾商品として「APW700」「APW500」を発売
   - [2007年](../Page/2007年.md "wikilink")（平成19年） - 「価値検証センター」を開設
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年） - YKK AP FACADE社をシンガポールに設立。YKK AP上海社を設立
@@ -77,7 +77,7 @@
 
 ## 関連項目
 
-  - [YKK](https://ja.wikipedia.org/wiki/YKK "wikilink")
+  - [YKK](../Page/YKK.md "wikilink")
   - [カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")
   - [YKK APサッカー部](../Page/YKK_APサッカー部.md "wikilink")
   - [YKK AP東北女子サッカー部フラッパーズ](https://ja.wikipedia.org/wiki/東京電力女子サッカー部マリーゼ "wikilink")

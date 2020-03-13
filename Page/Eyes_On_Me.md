@@ -7,7 +7,7 @@
 
 ## 概要
 
-[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ファイナルファンタジーVIII](../Page/ファイナルファンタジーVIII.md "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")（エンディングテーマ）のボーカルを誰にするかと言うことでスタッフ内で話し合いになった際に、スタッフ達が持ち寄ったCDの中に、当時日本では無名に近かった王菲の作品があり、それを聴いたスタッフ達が直感で決めたという\[1\]。
+[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ファイナルファンタジーVIII](../Page/ファイナルファンタジーVIII.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")（エンディングテーマ）のボーカルを誰にするかと言うことでスタッフ内で話し合いになった際に、スタッフ達が持ち寄ったCDの中に、当時日本では無名に近かった王菲の作品があり、それを聴いたスタッフ達が直感で決めたという\[1\]。
 
 [1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に日本で発売され、オリコン総合シングルチャート初登場は25位。オリコン洋楽シングルチャートでは19週連続1位を記録するなど50万枚を越える大ヒットとなった\[2\]。
 
@@ -34,7 +34,7 @@
 
 ## ダンスマニアシリーズにおけるリミックス版
 
-[ダンスマニア](https://ja.wikipedia.org/wiki/ダンスマニア "wikilink")シリーズではたびたび[リミックス](../Page/リミックス.md "wikilink")版が収録されている。
+[ダンスマニア](../Page/ダンスマニア.md "wikilink")シリーズではたびたび[リミックス](../Page/リミックス.md "wikilink")版が収録されている。
 
   - **Eyes On Me featured in Final Fantasy VIII (Almighty Mix)** - Dancemania X5、Dancemania Diamond、ZIP mania III、ZIP mania BESTに収録。
 

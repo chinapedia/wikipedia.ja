@@ -13,11 +13,11 @@
 
 ## チャンネル・周波数
 
-  - [総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") デジタル：29ch（リモコンキーID**「3」**）（以下、[高山市](../Page/高山市.md "wikilink")中心部）
-  - [教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") デジタル：31ch（リモコンキーID**「2」**）
-  - [ラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink") 792kHz
-  - [ラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink") 1125kHz
-  - [FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") 86.1MHz
+  - [総合テレビ](../Page/NHK総合テレビジョン.md "wikilink") デジタル：29ch（リモコンキーID**「3」**）（以下、[高山市](../Page/高山市.md "wikilink")中心部）
+  - [教育テレビ](../Page/NHK教育テレビジョン.md "wikilink") デジタル：31ch（リモコンキーID**「2」**）
+  - [ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink") 792kHz
+  - [ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink") 1125kHz
+  - [FM放送](../Page/NHK-FM放送.md "wikilink") 86.1MHz
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
 
 ## 関連項目
 
-  - [飛騨高山テレ・エフエム](https://ja.wikipedia.org/wiki/飛騨高山テレ・エフエム "wikilink") - 局舎内に入居するコミュニティFM運営企業。
+  - [飛騨高山テレ・エフエム](../Page/飛騨高山テレ・エフエム.md "wikilink") - 局舎内に入居するコミュニティFM運営企業。
   - [高山中継局](../Page/高山中継局.md "wikilink")
   - [NHK宮中継局](https://ja.wikipedia.org/wiki/NHK宮中継局 "wikilink")
   - [下呂中継局](https://ja.wikipedia.org/wiki/下呂中継局 "wikilink")

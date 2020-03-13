@@ -1,15 +1,15 @@
 > この記事は[PureMail --](https://ja.wikipedia.org/wiki/PureMail_--)から翻訳されています。
 
 
-『**Pure Mail**』（ピュアメール）は、[2000年](../Page/2000年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")（CD版。DVD版は[2001年](../Page/2001年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")）に[オーバーフローより発売された](https://ja.wikipedia.org/wiki/オーバーフロー_\(ブランド\) "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。
+『**Pure Mail**』（ピュアメール）は、[2000年](../Page/2000年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")（CD版。DVD版は[2001年](../Page/2001年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")）に[オーバーフローより発売された](../Page/オーバーフロー_\(ブランド\).md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。
 
 ## 概要
 
-オーバーフローの第1作として企画（諸般の事情により第2作として発売）された[凌辱](https://ja.wikipedia.org/wiki/凌辱 "wikilink")・[調教](https://ja.wikipedia.org/wiki/調教 "wikilink")物であるが、『[ら〜じ・PonPon](https://ja.wikipedia.org/wiki/ら〜じ・PonPon "wikilink")』のために企画からメイザーズぬまきちが離れた後、表向きのみ「学園純愛物」に変更された。リアリティにこだわって作られているため、各ヒロインには2、3人のモデルが存在しており、作中のシチュエーション、メールやチャット内容も取材を元に生々しさを出している。
+オーバーフローの第1作として企画（諸般の事情により第2作として発売）された[凌辱](https://ja.wikipedia.org/wiki/凌辱 "wikilink")・[調教](../Page/調教.md "wikilink")物であるが、『[ら〜じ・PonPon](https://ja.wikipedia.org/wiki/ら〜じ・PonPon "wikilink")』のために企画からメイザーズぬまきちが離れた後、表向きのみ「学園純愛物」に変更された。リアリティにこだわって作られているため、各ヒロインには2、3人のモデルが存在しており、作中のシチュエーション、メールやチャット内容も取材を元に生々しさを出している。
 
-[2001年](../Page/2001年.md "wikilink")には[グリーンバニー](https://ja.wikipedia.org/wiki/グリーンバニー "wikilink")によって[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")化され、全2巻で発売された。
+[2001年](../Page/2001年.md "wikilink")には[グリーンバニー](../Page/グリーンバニー.md "wikilink")によって[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")化され、全2巻で発売された。
 
-2001年[4月27日](../Page/4月27日.md "wikilink")に発売された『**オーバーフロー ぷれじゃ〜ボックス**』には、本作の外伝に当たる『**ピュアメール外伝**』と、本作の7年後を描いた『**その後のピュアメール**』が掲載されている。 このうち、『その後のピュアメール』は、同ブランドの『[School Days](https://ja.wikipedia.org/wiki/School_Days "wikilink")』と同じ時間軸であることが示唆されている。
+2001年[4月27日](../Page/4月27日.md "wikilink")に発売された『**オーバーフロー ぷれじゃ〜ボックス**』には、本作の外伝に当たる『**ピュアメール外伝**』と、本作の7年後を描いた『**その後のピュアメール**』が掲載されている。 このうち、『その後のピュアメール』は、同ブランドの『[School Days](../Page/School_Days.md "wikilink")』と同じ時間軸であることが示唆されている。
 
 ## ゲームシステム
 
@@ -19,7 +19,7 @@
 
 PC内に『ら〜じ・PonPon』がインストール済みでセーブデータが存在すると、テキストや展開が通常と変わる場合がある。また、エンディングにクレジットされている協力メーカー作品がインストールされていると、チャット中のアイコンが各メーカー作品の物になり、会話にもそれ関連の選択肢が出現する。
 
-時系列としては『[Summerラディッシュバケーション\!\!](https://ja.wikipedia.org/wiki/Summerラディッシュバケーション!!シリーズ "wikilink")』の後、『[Summerラディッシュバケーション\!\! 2](https://ja.wikipedia.org/wiki/Summerラディッシュバケーション!!シリーズ "wikilink")』、『[ら〜じ・PonPon](https://ja.wikipedia.org/wiki/ら〜じ・PonPon "wikilink")』と同時期。本作の後が『[MISS EACH OTHER](https://ja.wikipedia.org/wiki/MISS_EACH_OTHER "wikilink")』、『[LOST M](https://ja.wikipedia.org/wiki/LOST_M "wikilink")』、更に半年後が『[School Days](https://ja.wikipedia.org/wiki/School_Days "wikilink")』『[Cross Days](https://ja.wikipedia.org/wiki/Cross_Days "wikilink")』となっている。
+時系列としては『[Summerラディッシュバケーション\!\!](https://ja.wikipedia.org/wiki/Summerラディッシュバケーション!!シリーズ "wikilink")』の後、『[Summerラディッシュバケーション\!\! 2](https://ja.wikipedia.org/wiki/Summerラディッシュバケーション!!シリーズ "wikilink")』、『[ら〜じ・PonPon](https://ja.wikipedia.org/wiki/ら〜じ・PonPon "wikilink")』と同時期。本作の後が『[MISS EACH OTHER](https://ja.wikipedia.org/wiki/MISS_EACH_OTHER "wikilink")』、『[LOST M](https://ja.wikipedia.org/wiki/LOST_M "wikilink")』、更に半年後が『[School Days](../Page/School_Days.md "wikilink")』『[Cross Days](https://ja.wikipedia.org/wiki/Cross_Days "wikilink")』となっている。
 
 ## ユーザーサポート
 
@@ -49,7 +49,7 @@ PC内に『ら〜じ・PonPon』がインストール済みでセーブデータ
 ## スタッフ
 
   - 監督、シナリオ監修：メイザーズぬまきち
-  - キャラクターデザイン、原画：[西E田](https://ja.wikipedia.org/wiki/西E田 "wikilink")
+  - キャラクターデザイン、原画：[西E田](../Page/西E田.md "wikilink")
   - OSデザイン：[りつべ](../Page/小林立.md "wikilink")
   - 背景原画：おおしろしげき、かわせみはるか
   - シナリオ：屑美たけゆき、マロガッツ、メイザーズぬまきち、GON
@@ -66,7 +66,7 @@ PC内に『ら〜じ・PonPon』がインストール済みでセーブデータ
 ## 復刻・DL版
 
   - 2006年[1月27日](../Page/1月27日.md "wikilink")に発売された『オーバーフロー プレミアム・トリロジーBOX』には、復刻版と『その後のピュアメール』が収録された。
-  - 『[School Days](https://ja.wikipedia.org/wiki/School_Days "wikilink")』の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化（放送開始は[2007年](../Page/2007年.md "wikilink")7月）に伴い、2007年[2月16日](../Page/2月16日.md "wikilink")より[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")が開始された。
+  - 『[School Days](../Page/School_Days.md "wikilink")』の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化（放送開始は[2007年](../Page/2007年.md "wikilink")7月）に伴い、2007年[2月16日](../Page/2月16日.md "wikilink")より[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")が開始された。
 
 ## 関連商品
 
@@ -77,7 +77,7 @@ PC内に『ら〜じ・PonPon』がインストール済みでセーブデータ
 
 ### アダルトアニメ
 
-  - [グリーンバニー](https://ja.wikipedia.org/wiki/グリーンバニー "wikilink")制作の[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")。全2巻。
+  - [グリーンバニー](../Page/グリーンバニー.md "wikilink")制作の[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")。全2巻。
 
 アダルトアニメ版はストーリーに重きを置いているため、Hシーンは物語の演出上に必要な場面のみに限られており、各巻で2箇所ずつあるのみである\[1\]。 また、原作では隠れキャラクターだった悠美がメインキャラクターとして登場している\[2\]。
 

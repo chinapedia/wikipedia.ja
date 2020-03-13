@@ -7,11 +7,11 @@
 
 長きに渡って放送されてきた「[ザ・ヒットパレード](../Page/ザ・ヒットパレード_\(ラジオ番組\).md "wikilink")」の後番組。当番組のヒットは当時、[電リク](../Page/電リク.md "wikilink")・音楽番組一辺倒だった[ナイターオフ](https://ja.wikipedia.org/wiki/ナイターオフ "wikilink")18～21時台の番組編成に一石を投じる形となり現在では各局とも趣向を凝らした情報番組、バラエティ番組が作られるようになった。
 
-番組構成としては、当時としては珍しい[インターネット](../Page/インターネット.md "wikilink")によるリクエスト、番組コーナー参加コンテンツを中心として、[音楽](../Page/音楽.md "wikilink")、[スポーツ](../Page/スポーツ.md "wikilink")、[リフォーム](https://ja.wikipedia.org/wiki/リフォーム "wikilink")など、さまざまなジャンルのコーナーを展開していた。また、21:40-21:50頃には、[2001年](../Page/2001年.md "wikilink")度に「**スネークマンニュースショー**」を[2002年](../Page/2002年.md "wikilink")度は「**S21スネークマンショー21**」を放送していた。
+番組構成としては、当時としては珍しい[インターネット](../Page/インターネット.md "wikilink")によるリクエスト、番組コーナー参加コンテンツを中心として、[音楽](../Page/音楽.md "wikilink")、[スポーツ](../Page/スポーツ.md "wikilink")、[リフォーム](../Page/リフォーム.md "wikilink")など、さまざまなジャンルのコーナーを展開していた。また、21:40-21:50頃には、[2001年](../Page/2001年.md "wikilink")度に「**スネークマンニュースショー**」を[2002年](../Page/2002年.md "wikilink")度は「**S21スネークマンショー21**」を放送していた。
 
-番組開始頃から[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")までネット上で[BBSが公開され](../Page/電子掲示板.md "wikilink")、大槻りこと[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")との活発な意見が番組外でも活発に交わされた。特に2001年[6月](../Page/6月.md "wikilink")頃、大槻の番組終了時に発した一言からBBSにまで広まった「シャービック騒動」は語り草となっている。
+番組開始頃から[2001年](../Page/2001年.md "wikilink")[9月](../Page/9月.md "wikilink")までネット上で[BBSが公開され](../Page/電子掲示板.md "wikilink")、大槻りこと[リスナー](../Page/リスナー.md "wikilink")との活発な意見が番組外でも活発に交わされた。特に2001年[6月](../Page/6月.md "wikilink")頃、大槻の番組終了時に発した一言からBBSにまで広まった「シャービック騒動」は語り草となっている。
 
-また、2001年10月～2002年3月のナイターオフシーズンは、[金曜日](../Page/金曜日.md "wikilink")のみ[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")が「**e-NITE WEST**」（イーナイト ウエスト）と題した番組を[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")[ローカルで放送していた](https://ja.wikipedia.org/wiki/ローカル番組 "wikilink")。内容は、パーソナリティであるピン芸人と女性アナウンサーの進行のもと、[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")の若手芸人を毎週[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に呼び、[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")やゲームを展開するというものであった。
+また、2001年10月～2002年3月のナイターオフシーズンは、[金曜日](../Page/金曜日.md "wikilink")のみ[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")が「**e-NITE WEST**」（イーナイト ウエスト）と題した番組を[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")[ローカルで放送していた](../Page/ローカル番組.md "wikilink")。内容は、パーソナリティであるピン芸人と女性アナウンサーの進行のもと、[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")の若手芸人を毎週[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に呼び、[トーク](https://ja.wikipedia.org/wiki/トーク "wikilink")やゲームを展開するというものであった。
 
 後番組は「[mix](https://ja.wikipedia.org/wiki/mix "wikilink")」。
 
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-  - [たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")（[ピン芸人](https://ja.wikipedia.org/wiki/ピン芸人 "wikilink")）
+  - [たむらけんじ](../Page/たむらけんじ.md "wikilink")（[ピン芸人](../Page/ピン芸人.md "wikilink")）
   - [八木早希](https://ja.wikipedia.org/wiki/八木早希 "wikilink")（当時[MBS](../Page/毎日放送.md "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）
 
 ## 放送時間
@@ -81,7 +81,7 @@
 
 <!-- end list -->
 
-  - S21・[スネークマンショー](https://ja.wikipedia.org/wiki/スネークマンショー "wikilink")21
+  - S21・[スネークマンショー](../Page/スネークマンショー.md "wikilink")21
 
 <!-- end list -->
 
@@ -99,8 +99,8 @@
 
   - 構成・演出:[桑原茂一](../Page/桑原茂一.md "wikilink")
   - Sコント21テーマ音楽:[安田寿之](https://ja.wikipedia.org/wiki/安田寿之 "wikilink")
-  - 脚本:[大堀こういち](../Page/大堀こういち.md "wikilink")、[バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")ほか
-  - 出演:[小林顕作](../Page/小林顕作.md "wikilink")、大堀こういち、バナナマン、[峯村リエ](../Page/峯村リエ.md "wikilink")、[山崎一](https://ja.wikipedia.org/wiki/山崎一 "wikilink")ほか
+  - 脚本:[大堀こういち](../Page/大堀こういち.md "wikilink")、[バナナマン](../Page/バナナマン.md "wikilink")ほか
+  - 出演:[小林顕作](../Page/小林顕作.md "wikilink")、大堀こういち、バナナマン、[峯村リエ](../Page/峯村リエ.md "wikilink")、[山崎一](../Page/山崎一.md "wikilink")ほか
   - 製作:[CLUB KING](https://ja.wikipedia.org/wiki/CLUB_KING "wikilink")
 
 ## スポンサー

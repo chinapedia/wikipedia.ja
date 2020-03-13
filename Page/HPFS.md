@@ -1,7 +1,7 @@
 > この記事は[HPFS](https://ja.wikipedia.org/wiki/HPFS)から翻訳されています。
 
 
-**HPFS**（High Performance Filesystem、エイチ・ピー・エフ・エス）は、[1989年](../Page/1989年.md "wikilink")に発売された[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")のバージョン1.2以降で導入された[ファイルシステム](../Page/ファイルシステム.md "wikilink")。従来の[FATファイルシステムの欠点を補うため](../Page/File_Allocation_Table.md "wikilink")、最大ファイル名長の拡張（255[バイトまで](../Page/バイト_\(情報\).md "wikilink")）、最大ボリュームサイズの拡張、ファイル属性の付加（[拡張属性](https://ja.wikipedia.org/wiki/拡張ファイル属性 "wikilink"): EA）、[フラグメンテーション](https://ja.wikipedia.org/wiki/フラグメンテーション "wikilink")の最小化、ファイルパフォーマンスの高速化などの改良が行われた。
+**HPFS**（High Performance Filesystem、エイチ・ピー・エフ・エス）は、[1989年](../Page/1989年.md "wikilink")に発売された[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")のバージョン1.2以降で導入された[ファイルシステム](../Page/ファイルシステム.md "wikilink")。従来の[FATファイルシステムの欠点を補うため](../Page/File_Allocation_Table.md "wikilink")、最大ファイル名長の拡張（255[バイトまで](../Page/バイト_\(情報\).md "wikilink")）、最大ボリュームサイズの拡張、ファイル属性の付加（[拡張属性](https://ja.wikipedia.org/wiki/拡張ファイル属性 "wikilink"): EA）、[フラグメンテーション](../Page/フラグメンテーション.md "wikilink")の最小化、ファイルパフォーマンスの高速化などの改良が行われた。
 
 ## 概要
 

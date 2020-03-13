@@ -1,20 +1,20 @@
 > この記事は[THE!](https://ja.wikipedia.org/wiki/THE!)から翻訳されています。
 
 
-『**THEスペシャル\!**』（ザ スペシャル）は、[2004年](../Page/2004年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系列局が編成していた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[単発特別番組枠](https://ja.wikipedia.org/wiki/単発特別番組枠 "wikilink")である。編成時間は毎週土曜 19:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**THEスペシャル\!**』（ザ スペシャル）は、[2004年](../Page/2004年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系列局が編成していた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")である。編成時間は毎週土曜 19:00 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
-2004年3月まで放送された『[スーパースペシャル](https://ja.wikipedia.org/wiki/スーパースペシャル "wikilink")』の後継番組として2004年4月3日に放送開始。
+2004年3月まで放送された『[スーパースペシャル](../Page/スーパースペシャル.md "wikilink")』の後継番組として2004年4月3日に放送開始。
 
 。
 
-本枠放送番組のうち、[よみうりテレビ製作の](../Page/讀賣テレビ放送.md "wikilink")『[鳥人間コンテスト](../Page/鳥人間コンテスト選手権大会.md "wikilink")』や『[ベストヒット歌謡祭](https://ja.wikipedia.org/wiki/ベストヒット歌謡祭 "wikilink")』は、枠の終了後にも単独で毎年放送されている\[1\]。
+本枠放送番組のうち、[よみうりテレビ製作の](../Page/讀賣テレビ放送.md "wikilink")『[鳥人間コンテスト](../Page/鳥人間コンテスト選手権大会.md "wikilink")』や『[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")』は、枠の終了後にも単独で毎年放送されている\[1\]。
 
 ## スタッフ
 
   - プロデューサー：[今村司](../Page/今村司.md "wikilink") → 上田識喜 → [竹内尊実](../Page/竹内尊実.md "wikilink")
-  - チーフプロデューサー：[吉田真](https://ja.wikipedia.org/wiki/吉田真_\(プロデューサー\) "wikilink") → [政橋雅人](../Page/政橋雅人.md "wikilink")
+  - チーフプロデューサー：[吉田真](../Page/吉田真_\(プロデューサー\).md "wikilink") → [政橋雅人](../Page/政橋雅人.md "wikilink")
 
 ## 放送番組一覧
 
@@ -32,7 +32,7 @@
 <tbody>
 <tr class="odd">
 <td><p>4月3日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/次の瞬間、熱くなれ。THE_BASEBALL" title="wikilink">プロ野球中継</a>「<a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">巨人</a>×<a href="https://ja.wikipedia.org/wiki/阪神タイガース" title="wikilink">阪神</a>」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/次の瞬間、熱くなれ。THE_BASEBALL" title="wikilink">プロ野球中継</a>「<a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">巨人</a>×<a href="../Page/阪神タイガース.md" title="wikilink">阪神</a>」</p></td>
 <td><p>ステレオ</p></td>
 <td></td>
 <td><p>開幕戦（第2戦）につき17:30から放送</p></td>
@@ -109,8 +109,8 @@
 </tr>
 <tr class="even">
 <td><p>6月19日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ものまねバトル" title="wikilink">ものまねバトル</a>特別版 史上最強軍団への道 新ネタ&amp;反省会SP</p></td>
-<td><p><a href="../Page/原口あきまさ.md" title="wikilink">原口あきまさ</a>、<a href="https://ja.wikipedia.org/wiki/ホリ_(タレント)" title="wikilink">ホリ</a>、<a href="https://ja.wikipedia.org/wiki/はなわ" title="wikilink">はなわ</a>、<a href="../Page/コージー冨田.md" title="wikilink">コージー冨田</a></p></td>
+<td><p><a href="../Page/ものまねバトル.md" title="wikilink">ものまねバトル</a>特別版 史上最強軍団への道 新ネタ&amp;反省会SP</p></td>
+<td><p><a href="../Page/原口あきまさ.md" title="wikilink">原口あきまさ</a>、<a href="../Page/ホリ_(タレント).md" title="wikilink">ホリ</a>、<a href="https://ja.wikipedia.org/wiki/はなわ" title="wikilink">はなわ</a>、<a href="../Page/コージー冨田.md" title="wikilink">コージー冨田</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -119,7 +119,7 @@
 <td><p><a href="../Page/K-1.md" title="wikilink">K-1</a>ビースト2004</p></td>
 <td><p>ステレオ</p></td>
 <td><p><a href="../Page/ボブ・サップ.md" title="wikilink">ボブ・サップ</a><br />
-ナレーター：<a href="https://ja.wikipedia.org/wiki/垂木勉" title="wikilink">垂木勉</a></p></td>
+ナレーター：<a href="../Page/垂木勉.md" title="wikilink">垂木勉</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -233,7 +233,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a> (STV)</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a> (STV)</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -394,7 +394,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a> (FBS)</p></td>
 <td></td>
 <td></td>
@@ -436,12 +436,12 @@
 
 ## 関連項目
 
-  - [土曜トップスペシャル](https://ja.wikipedia.org/wiki/土曜トップスペシャル "wikilink")
-  - [スーパースペシャル](https://ja.wikipedia.org/wiki/スーパースペシャル "wikilink")
+  - [土曜トップスペシャル](../Page/土曜トップスペシャル.md "wikilink")
+  - [スーパースペシャル](../Page/スーパースペシャル.md "wikilink")
 
 [Category:THEスペシャル\!](https://ja.wikipedia.org/wiki/Category:THEスペシャル! "wikilink")
 
 1.  2008年度までは木曜19:00枠の『[モクスペ](../Page/モクスペ.md "wikilink")』で放送されることもあった。
-2.  2004年10月から『億万のココロ・愛しのマネー$伝説』と題してレギュラー化 → 2005年4月に『[世界\!超マネー研究所](https://ja.wikipedia.org/wiki/世界!超マネー研究所 "wikilink")』と改題。
+2.  2004年10月から『億万のココロ・愛しのマネー$伝説』と題してレギュラー化 → 2005年4月に『[世界\!超マネー研究所](../Page/世界!超マネー研究所.md "wikilink")』と改題。
 3.  芸能人参加者。
-4.  番組のVTR送出は日本テレビが行った。この番組は、同日21:00からの『[土曜ドラマ](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink") [愛情イッポン\!](../Page/愛情イッポン!.md "wikilink")』、22:00からの『[エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")』、23:00からの『[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")』、23:30の『[ナイナイサイズ\!](../Page/ナイナイサイズ!.md "wikilink")』、23:55からの『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』とともに『ジャンボリースペシャル [長井秀和](../Page/長井秀和.md "wikilink")を見て海外へ行け』と題して放送された。
+4.  番組のVTR送出は日本テレビが行った。この番組は、同日21:00からの『[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink") [愛情イッポン\!](../Page/愛情イッポン!.md "wikilink")』、22:00からの『[エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")』、23:00からの『[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")』、23:30の『[ナイナイサイズ\!](../Page/ナイナイサイズ!.md "wikilink")』、23:55からの『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』とともに『ジャンボリースペシャル [長井秀和](../Page/長井秀和.md "wikilink")を見て海外へ行け』と題して放送された。

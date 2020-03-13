@@ -11,9 +11,9 @@
 
 <!-- end list -->
 
-  - [山崎銀之丞](https://ja.wikipedia.org/wiki/山崎銀之丞 "wikilink")（～1991年9月）- 1987年3月までは月曜・木曜・金曜担当、1987年4月から月～金全曜日担当
-  - [坂口卓司](https://ja.wikipedia.org/wiki/坂口卓司 "wikilink")（～1987年3月の火曜・水曜日のみ）
-  - 足達ヒデヤ（現・[安達ひでや](https://ja.wikipedia.org/wiki/安達ひでや "wikilink")、1991年10月～）
+  - [山崎銀之丞](../Page/山崎銀之丞.md "wikilink")（～1991年9月）- 1987年3月までは月曜・木曜・金曜担当、1987年4月から月～金全曜日担当
+  - [坂口卓司](../Page/坂口卓司.md "wikilink")（～1987年3月の火曜・水曜日のみ）
+  - 足達ヒデヤ（現・[安達ひでや](../Page/安達ひでや.md "wikilink")、1991年10月～）
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@
 
 ## 概略
 
-KBCラジオ「[PAO〜N ぼくらラジオ異星人](https://ja.wikipedia.org/wiki/PAO〜N "wikilink")」がスタートしたことによって、リスナーが離れていった\[1\][RKBラジオ](../Page/RKBラジオ.md "wikilink")の名番組「[スマッシュ\!\!11](https://ja.wikipedia.org/wiki/スマッシュ!!11 "wikilink")」の後番組としてスタート。番組第一期の86年度のみ、山崎銀之丞（月・木・金）と坂口卓司アナ（火・水）の2人体制だったが、87年春の改編で、坂口アナが「[歌謡曲ヒット情報](../Page/歌謡曲ヒット情報.md "wikilink")」担当になったため番組を離れ、山崎が毎日担当となった。なお、この番組は[ニッポン放送](../Page/ニッポン放送.md "wikilink")の番組「[ヤングパラダイス](https://ja.wikipedia.org/wiki/ヤングパラダイス "wikilink")」を手本として製作されたという\[2\]\[3\]。
+KBCラジオ「[PAO〜N ぼくらラジオ異星人](../Page/PAO〜N.md "wikilink")」がスタートしたことによって、リスナーが離れていった\[1\][RKBラジオ](../Page/RKBラジオ.md "wikilink")の名番組「[スマッシュ\!\!11](../Page/スマッシュ!!11.md "wikilink")」の後番組としてスタート。番組第一期の86年度のみ、山崎銀之丞（月・木・金）と坂口卓司アナ（火・水）の2人体制だったが、87年春の改編で、坂口アナが「[歌謡曲ヒット情報](../Page/歌謡曲ヒット情報.md "wikilink")」担当になったため番組を離れ、山崎が毎日担当となった。なお、この番組は[ニッポン放送](../Page/ニッポン放送.md "wikilink")の番組「[ヤングパラダイス](../Page/ヤングパラダイス.md "wikilink")」を手本として製作されたという\[2\]\[3\]。
 
 初期の1年間はなかなか軌道に乗れなかったが、山崎が毎日担当となった87年頃より人気が出始め、通常の「日替り定食」「うまか情報局」といったハガキネタコーナーよりも、むしろ週1回は必ず行われていた街角収録「突撃ティーンズクラブ」や番組主催のキャンプ、クリスマスパーティーを始めとした[イベント](../Page/イベント.md "wikilink")の多さ\[4\]で、リスナーの心を掴んでいた。
 
@@ -48,7 +48,7 @@ KBCラジオ「[PAO〜N ぼくらラジオ異星人](https://ja.wikipedia.org/wi
   - 22:20ミュージックビレッジ～[おねがい\!チェッカーズ](../Page/おねがい!チェッカーズ.md "wikilink")（[ライオン提供](../Page/ライオン_\(企業\).md "wikilink") [ニッポン放送](../Page/ニッポン放送.md "wikilink")制作）
   - 22:40日替り定食
   - 22:45田原俊彦心はストレート（[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")提供 ニッポン放送制作）
-  - 23:05クイズBOKAN（[ベスト電器](https://ja.wikipedia.org/wiki/ベスト電器 "wikilink")提供）
+  - 23:05クイズBOKAN（[ベスト電器](../Page/ベスト電器.md "wikilink")提供）
   - 23:15うまか情報局（[ハウス食品](../Page/ハウス食品.md "wikilink")提供）
   - HiHiクイズ
 
@@ -85,12 +85,12 @@ KBCラジオ「[PAO〜N ぼくらラジオ異星人](https://ja.wikipedia.org/wi
   - レッツ\!リンボー　（「レッツ\!うがい」のリンボー版。89年度後半に実施）
   - 山崎先生の家庭訪問　（その名の通り、山崎銀之丞がリスナーの自宅を家庭訪問する。その模様は一週間後に番組で放送されていた。89年度前半に実施）\[8\]
   - 山崎銀之丞と行くHiHiHiツアー旅行　（山崎が同行する宿泊形式のツアー旅行。春に開催。行き先は88年度が沖縄、89年度は北海道であった。89年度まで実施）
-  - HiHiHiサマーキャンプ　（88年度から続く1泊2日のキャンプ。行き先は88年度と同じく[八女郡](../Page/八女郡.md "wikilink")[黒木町](https://ja.wikipedia.org/wiki/黒木町 "wikilink")(現・[八女市](../Page/八女市.md "wikilink"))の「グリーンピア八女」であった。89年度まで実施）\[9\]
+  - HiHiHiサマーキャンプ　（88年度から続く1泊2日のキャンプ。行き先は88年度と同じく[八女郡](../Page/八女郡.md "wikilink")[黒木町](../Page/黒木町.md "wikilink")(現・[八女市](../Page/八女市.md "wikilink"))の「グリーンピア八女」であった。89年度まで実施）\[9\]
   - うまか仲間大集合　（当番組最大のスポンサーであったハウス食品とタイアップしたイベント。ゲームや体操をしながら商品を獲得していく。夏に開催。90年度まで実施）\[10\]
-  - HiHiHiクリスマスパーティー　（福岡市中央区の電気ビルにて行われていたライブ主体のイベント。アイドルのライブに加え山崎本人によるライブも行われた。89年度の参加アイドルは[中山忍](https://ja.wikipedia.org/wiki/中山忍 "wikilink")・[河田純子](https://ja.wikipedia.org/wiki/河田純子 "wikilink")・[田山真美子](https://ja.wikipedia.org/wiki/田山真美子 "wikilink")から成るユニット「[楽天使](../Page/楽天使.md "wikilink")」であった。尚、90年度にはかつて当番組のリスナーであった[諸岡なほ子](../Page/諸岡なほ子.md "wikilink")が新人アイドルとして番組に錦を飾った。91年度まで実施）\[11\]
+  - HiHiHiクリスマスパーティー　（福岡市中央区の電気ビルにて行われていたライブ主体のイベント。アイドルのライブに加え山崎本人によるライブも行われた。89年度の参加アイドルは[中山忍](https://ja.wikipedia.org/wiki/中山忍 "wikilink")・[河田純子](https://ja.wikipedia.org/wiki/河田純子 "wikilink")・[田山真美子](../Page/田山真美子.md "wikilink")から成るユニット「[楽天使](../Page/楽天使.md "wikilink")」であった。尚、90年度にはかつて当番組のリスナーであった[諸岡なほ子](../Page/諸岡なほ子.md "wikilink")が新人アイドルとして番組に錦を飾った。91年度まで実施）\[11\]
   - 祈願の旅　（毎年2月上旬に山崎がリスナーから送られて来たあらゆる祈願の葉書を[宝満山](../Page/宝満山.md "wikilink")山頂まで届けて祈願する。リスナー参加型のイベントではないがスタート地点で山崎の応援に駆けつけたリスナーもいた。尚、後任の足達ヒデヤにも受け継がれている。最終年度まで実施）\[12\]。
   - 象足シスターズ卒業式　（1年間、象足シスターズとして活躍した女性5人を送り出す卒業イベント。[中洲](../Page/中洲.md "wikilink")の[明治生命](https://ja.wikipedia.org/wiki/明治生命 "wikilink")ホールにて91年度まで実施）
-  - 座禅大会「HiHiHiヤル気の会」　（[糟屋郡](../Page/糟屋郡.md "wikilink")[篠栗町](https://ja.wikipedia.org/wiki/篠栗町 "wikilink")の[城戸南蔵院](https://ja.wikipedia.org/wiki/城戸南蔵院 "wikilink")にて。当時RKBラジオにてレギュラー番組を持っていた[林寛乗](https://ja.wikipedia.org/wiki/林寛乗 "wikilink")住職のご好意による）\[13\]
+  - 座禅大会「HiHiHiヤル気の会」　（[糟屋郡](../Page/糟屋郡.md "wikilink")[篠栗町](../Page/篠栗町.md "wikilink")の[城戸南蔵院](https://ja.wikipedia.org/wiki/城戸南蔵院 "wikilink")にて。当時RKBラジオにてレギュラー番組を持っていた[林寛乗](https://ja.wikipedia.org/wiki/林寛乗 "wikilink")住職のご好意による）\[13\]
   - バイリンガルトークショー　（[神津カンナ](../Page/神津カンナ.md "wikilink")を迎えてのトークショー）
   - 篠栗春爛漫ウォークラリー　（本来は当時RKBラジオで放送されていた「[ほがらかウィークリー](https://ja.wikipedia.org/wiki/ほがらかウィークリー "wikilink")」のイベントであったが、山崎がウォークラリーに挑戦することもあって多くのリスナーが参加した）
   - 博多どんたく港まつり中洲Nパサール舞台　（89年5月3日及び4日の[博多どんたく](../Page/博多どんたく.md "wikilink")では山崎が象足シスターズを引退したばかりの[倉品淳子](https://ja.wikipedia.org/wiki/倉品淳子 "wikilink")と一緒に中洲のNパサール舞台で司会を2日間に渡って担当し、山崎や倉品目当てに多くのリスナーが訪れた）
@@ -117,7 +117,7 @@ KBCラジオ「[PAO〜N ぼくらラジオ異星人](https://ja.wikipedia.org/wi
 ### 主なAD
 
   - 行本秀樹（現在も福岡の各メディアで音響を担当）
-  - [高橋徹郎](https://ja.wikipedia.org/wiki/高橋徹郎 "wikilink")（劇団「[ギンギラ太陽'S](https://ja.wikipedia.org/wiki/ギンギラ太陽'S "wikilink")」主宰、タレント、ラジオパーソナリティー、[KBCテレビ](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")「[ドォーモ](https://ja.wikipedia.org/wiki/ドォーモ "wikilink")」のレポーター）
+  - [高橋徹郎](../Page/高橋徹郎.md "wikilink")（劇団「[ギンギラ太陽'S](../Page/ギンギラ太陽'S.md "wikilink")」主宰、タレント、ラジオパーソナリティー、[KBCテレビ](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")「[ドォーモ](../Page/ドォーモ.md "wikilink")」のレポーター）
 
 <!-- end list -->
 
@@ -140,7 +140,7 @@ KBCラジオ「[PAO〜N ぼくらラジオ異星人](https://ja.wikipedia.org/wi
       - 月曜日：倉品淳子
       - 火曜日：[阪田友美](../Page/阪田友美.md "wikilink")（象足時代よりシンガーソングライターとして活動）
       - 水曜日：中野典子
-      - 木曜日：[富永倫子](https://ja.wikipedia.org/wiki/富永倫子 "wikilink")（象足時代は同じ漢字で読みは「とみなが みちこ」として活動、1988年度よりRKB毎日放送アナウンサー）
+      - 木曜日：[富永倫子](../Page/富永倫子.md "wikilink")（象足時代は同じ漢字で読みは「とみなが みちこ」として活動、1988年度よりRKB毎日放送アナウンサー）
       - 金曜日：味園由美子
 
 <!-- end list -->
@@ -186,7 +186,7 @@ KBCラジオ「[PAO〜N ぼくらラジオ異星人](https://ja.wikipedia.org/wi
       - 火曜日：川口香（象足時代より地元タレント事務所に所属）
       - 水曜日：小原良
       - 木曜日：[木原友香](../Page/木原友香.md "wikilink")（1995年度より[FM福岡のアナウンサーとして活躍し](../Page/エフエム福岡.md "wikilink")2003年9月からはフリー。[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")報道部の[近藤鉄太郎](../Page/近藤鉄太郎.md "wikilink")夫人）
-      - 金曜日：[中野早杜子](../Page/中野早杜子.md "wikilink")（モモコクラブ出身。[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")「[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")」レギュラーを経て現在は元・[プロ野球](../Page/プロ野球.md "wikilink")選手の[高波文一](https://ja.wikipedia.org/wiki/高波文一 "wikilink")夫人）
+      - 金曜日：[中野早杜子](../Page/中野早杜子.md "wikilink")（モモコクラブ出身。[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")「[恋のから騒ぎ](https://ja.wikipedia.org/wiki/恋のから騒ぎ "wikilink")」レギュラーを経て現在は元・[プロ野球](../Page/プロ野球.md "wikilink")選手の[高波文一](../Page/高波文一.md "wikilink")夫人）
 
 <!-- end list -->
 
@@ -213,13 +213,13 @@ KBCラジオ「[PAO〜N ぼくらラジオ異星人](https://ja.wikipedia.org/wi
 
 [Category:RKB毎日放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:RKB毎日放送のラジオ帯番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink") [Category:1986年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のラジオ番組_\(日本\) "wikilink")
 
-1.  月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink") 1988年8月号特集「全国4大エリア 夜ワイド合戦絵巻」より。
+1.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1988年8月号特集「全国4大エリア 夜ワイド合戦絵巻」より。
 2.
 3.  「なつかしラジオ大全」（[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")刊　170ページ）より。
 4.
 5.
 6.  月刊ラジオパラダイス 1989年10月号（76ページ）掲載。
-7.  月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink") 1989年9月号（76ページ）掲載。
+7.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1989年9月号（76ページ）掲載。
 8.
 9.
 10.

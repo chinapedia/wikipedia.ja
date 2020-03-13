@@ -5,7 +5,7 @@
 
 なお、[2000年](../Page/2000年.md "wikilink")12月にTBSにて同作品が放送された際、放送枠の都合でエンドロールのカットを含む再編集版が放送された。
 
-メンバーは当時[グラビアなどで活躍していた](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")[優香](../Page/優香.md "wikilink")、[吉井怜](../Page/吉井怜.md "wikilink")、[堀越のり](../Page/堀越のり.md "wikilink")、[唐沢美帆](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink")であった。1999年5月21日、[新宿東映パラス2でのライブをもって解散](https://ja.wikipedia.org/wiki/新宿三丁目イーストビル "wikilink")\[1\]。
+メンバーは当時[グラビアなどで活躍していた](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")[優香](../Page/優香.md "wikilink")、[吉井怜](../Page/吉井怜.md "wikilink")、[堀越のり](../Page/堀越のり.md "wikilink")、[唐沢美帆](../Page/唐沢美帆.md "wikilink")であった。1999年5月21日、[新宿東映パラス2でのライブをもって解散](https://ja.wikipedia.org/wiki/新宿三丁目イーストビル "wikilink")\[1\]。
 
 なお優香はホリプロ所属だが、吉井はホリプロ系列会社の[ホリエージェンシー](../Page/ホリエージェンシー.md "wikilink")所属。唐沢はホリプロを離れ現在SCOOP MUSICの所属となり、TRUE名義でアニソン歌手としても活動中。堀越は結婚後暫くしてホリプロを退所し芸能界を引退。ちなみに現時点で全員が既婚者である。
 

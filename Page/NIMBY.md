@@ -21,14 +21,14 @@ NIMBYの対象は個人的な主観や感情も多々含まれるため、判断
 
 ### 衛生面と環境への影響から反対される施設
 
-[騒音](../Page/騒音.md "wikilink")、[大気汚染](https://ja.wikipedia.org/wiki/大気汚染 "wikilink")、[水質汚染](https://ja.wikipedia.org/wiki/水質汚染 "wikilink")、[悪臭](../Page/悪臭.md "wikilink")、[放射能汚染](../Page/放射能汚染.md "wikilink")、[疫病](../Page/疫病.md "wikilink")（[伝染病](../Page/伝染病.md "wikilink")）などの[公害](../Page/公害.md "wikilink")が発生するという理由で反対されることがある。
+[騒音](../Page/騒音.md "wikilink")、[大気汚染](https://ja.wikipedia.org/wiki/大気汚染 "wikilink")、[水質汚染](../Page/水質汚染.md "wikilink")、[悪臭](../Page/悪臭.md "wikilink")、[放射能汚染](../Page/放射能汚染.md "wikilink")、[疫病](../Page/疫病.md "wikilink")（[伝染病](../Page/伝染病.md "wikilink")）などの[公害](../Page/公害.md "wikilink")が発生するという理由で反対されることがある。
 
   - [学校](https://ja.wikipedia.org/wiki/学校 "wikilink")（保育園・幼稚園、小中高校、専門学校・大学）
   - [清掃工場](../Page/清掃工場.md "wikilink")・[最終処分場](../Page/最終処分場.md "wikilink")
   - [下水処理場](../Page/下水処理場.md "wikilink")
   - [火葬場](../Page/火葬場.md "wikilink")
   - [食肉処理施設](https://ja.wikipedia.org/wiki/食肉処理施設 "wikilink")
-  - [核施設](https://ja.wikipedia.org/wiki/Category:原子力施設 "wikilink")（[原子力発電所](../Page/原子力発電所.md "wikilink")、[核燃料再処理工場](https://ja.wikipedia.org/wiki/再処理工場 "wikilink")、[放射性廃棄物処理設備](https://ja.wikipedia.org/wiki/放射性廃棄物処理設備 "wikilink")など）
+  - [核施設](https://ja.wikipedia.org/wiki/Category:原子力施設 "wikilink")（[原子力発電所](../Page/原子力発電所.md "wikilink")、[核燃料再処理工場](../Page/再処理工場.md "wikilink")、[放射性廃棄物処理設備](https://ja.wikipedia.org/wiki/放射性廃棄物処理設備 "wikilink")など）
   - [空港](../Page/空港.md "wikilink")
   - [バイオセーフティーレベル](../Page/バイオセーフティーレベル.md "wikilink")が高い研究所
   - 軍事施設（[軍事基地](../Page/軍事基地.md "wikilink")、砲兵工廠など）
@@ -37,29 +37,29 @@ NIMBYの対象は個人的な主観や感情も多々含まれるため、判断
 
 児童の目につくことで、教育や風紀に悪影響を及ぼすという理由で反対されることがある。
 
-  - [風俗営業等の規制及び業務の適正化等に関する法律](../Page/風俗営業等の規制及び業務の適正化等に関する法律.md "wikilink")（風営法）と各地の[条例](../Page/条例.md "wikilink")に基づき設置される、[風俗店](../Page/風俗店.md "wikilink")・[遊技場](https://ja.wikipedia.org/wiki/遊技場 "wikilink")全般。[ネオンサイン](https://ja.wikipedia.org/wiki/ネオンサイン "wikilink")と[騒音](../Page/騒音.md "wikilink")により、景観と住環境が損なわれるという理由で反対されることもあるが、学校などの公共施設から離れた郊外であれば[地方公共団体](../Page/地方公共団体.md "wikilink")に建築（出店）を許可される可能性がある。
+  - [風俗営業等の規制及び業務の適正化等に関する法律](../Page/風俗営業等の規制及び業務の適正化等に関する法律.md "wikilink")（風営法）と各地の[条例](../Page/条例.md "wikilink")に基づき設置される、[風俗店](../Page/風俗店.md "wikilink")・[遊技場](https://ja.wikipedia.org/wiki/遊技場 "wikilink")全般。[ネオンサイン](../Page/ネオンサイン.md "wikilink")と[騒音](../Page/騒音.md "wikilink")により、景観と住環境が損なわれるという理由で反対されることもあるが、学校などの公共施設から離れた郊外であれば[地方公共団体](../Page/地方公共団体.md "wikilink")に建築（出店）を許可される可能性がある。
       - [パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")・パチスロ店
       - [ゲームセンター](../Page/ゲームセンター.md "wikilink")
       - [ソープランド](https://ja.wikipedia.org/wiki/ソープランド "wikilink")
       - [ファッションヘルス](../Page/ファッションヘルス.md "wikilink")
       - [ラブホテル](../Page/ラブホテル.md "wikilink")など
   - [消費者金融](../Page/消費者金融.md "wikilink")
-  - [刑務所](../Page/刑務所.md "wikilink")・[矯正施設](https://ja.wikipedia.org/wiki/矯正施設 "wikilink")（[少年院](../Page/少年院.md "wikilink")・[鑑別所など](https://ja.wikipedia.org/wiki/少年鑑別所 "wikilink")）
-      - 被収容者（[受刑者](https://ja.wikipedia.org/wiki/受刑者 "wikilink")）の脱走があった場合、または被収容者と通じる関係者（暴力団の幹部や家族など）が面会や釈放時に訪問することで、近隣の治安の悪化が懸念される。
-  - [公営競技](https://ja.wikipedia.org/wiki/公営競技 "wikilink")の施設および[場外発売所](https://ja.wikipedia.org/wiki/場外発売所 "wikilink")
-      - [競馬場](../Page/競馬場.md "wikilink")、[競艇場](https://ja.wikipedia.org/wiki/競艇場 "wikilink")、[競輪場](https://ja.wikipedia.org/wiki/競輪場 "wikilink")、[オートレース場](https://ja.wikipedia.org/wiki/オートレース場 "wikilink")など
+  - [刑務所](../Page/刑務所.md "wikilink")・[矯正施設](../Page/矯正施設.md "wikilink")（[少年院](../Page/少年院.md "wikilink")・[鑑別所など](../Page/少年鑑別所.md "wikilink")）
+      - 被収容者（[受刑者](../Page/受刑者.md "wikilink")）の脱走があった場合、または被収容者と通じる関係者（暴力団の幹部や家族など）が面会や釈放時に訪問することで、近隣の治安の悪化が懸念される。
+  - [公営競技](../Page/公営競技.md "wikilink")の施設および[場外発売所](https://ja.wikipedia.org/wiki/場外発売所 "wikilink")
+      - [競馬場](../Page/競馬場.md "wikilink")、[競艇場](../Page/競艇場.md "wikilink")、[競輪場](../Page/競輪場.md "wikilink")、[オートレース場](../Page/オートレース場.md "wikilink")など
       - [場外勝馬投票券発売所](../Page/場外勝馬投票券発売所.md "wikilink")・[競艇場外発売場](../Page/競艇場外発売場.md "wikilink")・[競輪場外車券売場](../Page/競輪場外車券売場.md "wikilink")
 
 ### 医療・福祉施設
 
   - [精神科](../Page/精神科.md "wikilink")病院
-  - [知的障碍者](https://ja.wikipedia.org/wiki/知的障害 "wikilink")・[精神障碍者の](https://ja.wikipedia.org/wiki/精神障害者 "wikilink")[グループホーム](https://ja.wikipedia.org/wiki/グループホーム "wikilink")、[福祉施設](https://ja.wikipedia.org/wiki/福祉施設 "wikilink")。
+  - [知的障碍者](https://ja.wikipedia.org/wiki/知的障害 "wikilink")・[精神障碍者の](https://ja.wikipedia.org/wiki/精神障害者 "wikilink")[グループホーム](../Page/グループホーム.md "wikilink")、[福祉施設](https://ja.wikipedia.org/wiki/福祉施設 "wikilink")。
   - [児童相談所](../Page/児童相談所.md "wikilink")
   - [ダルク](../Page/DARC.md "wikilink")
 
 ### その他の施設
 
-  - 埋葬施設（[火葬場](../Page/火葬場.md "wikilink")、[墓地](https://ja.wikipedia.org/wiki/墓地 "wikilink")[霊園](../Page/霊園.md "wikilink")、[ペット霊園](https://ja.wikipedia.org/wiki/ペット霊園 "wikilink")）
+  - 埋葬施設（[火葬場](../Page/火葬場.md "wikilink")、[墓地](../Page/墓地.md "wikilink")[霊園](../Page/霊園.md "wikilink")、[ペット霊園](https://ja.wikipedia.org/wiki/ペット霊園 "wikilink")）
   - [道路](../Page/道路.md "wikilink")、[交通機関](https://ja.wikipedia.org/wiki/交通機関 "wikilink")（[車輌基地](../Page/車両基地.md "wikilink")、機関庫、[貨物駅](../Page/貨物駅.md "wikilink")や[新幹線](../Page/新幹線.md "wikilink")などの[鉄道施設](../Page/鉄道施設.md "wikilink")、[空港](../Page/空港.md "wikilink")）
   - [発電所](../Page/発電所.md "wikilink")
   - [ダム](../Page/ダム.md "wikilink")
@@ -97,7 +97,7 @@ NIMBY問題におけるこれらの論点はいずれも程度と主観の問題
   - 自衛隊関連施設 - [防衛施設周辺の生活環境の整備等に関する法律](https://ja.wikipedia.org/wiki/防衛施設周辺の生活環境の整備等に関する法律 "wikilink")
   - [在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")基地 - [駐留軍等の再編の円滑な実施に関する特別措置法](https://ja.wikipedia.org/wiki/駐留軍等の再編の円滑な実施に関する特別措置法 "wikilink")
   - 空港 - [特定空港周辺航空機騒音対策特別措置法](https://ja.wikipedia.org/wiki/特定空港周辺航空機騒音対策特別措置法 "wikilink")
-  - [成田国際空港](https://ja.wikipedia.org/wiki/成田国際空港 "wikilink") - [成田国際空港の安全確保に関する緊急措置法](https://ja.wikipedia.org/wiki/成田国際空港の安全確保に関する緊急措置法 "wikilink")・[成田国際空港周辺整備のための国の財政上の特別措置に関する法律](https://ja.wikipedia.org/wiki/成田国際空港周辺整備のための国の財政上の特別措置に関する法律 "wikilink")
+  - [成田国際空港](../Page/成田国際空港.md "wikilink") - [成田国際空港の安全確保に関する緊急措置法](https://ja.wikipedia.org/wiki/成田国際空港の安全確保に関する緊急措置法 "wikilink")・[成田国際空港周辺整備のための国の財政上の特別措置に関する法律](https://ja.wikipedia.org/wiki/成田国際空港周辺整備のための国の財政上の特別措置に関する法律 "wikilink")
   - 産業廃棄物処理施設 - [産業廃棄物の処理に係る特定施設の整備の促進に関する法律](https://ja.wikipedia.org/wiki/産業廃棄物の処理に係る特定施設の整備の促進に関する法律 "wikilink")
   - ダム - [水源地域対策特別措置法](../Page/水源地域対策特別措置法.md "wikilink")
 
@@ -105,19 +105,19 @@ NIMBY問題におけるこれらの論点はいずれも程度と主観の問題
 
 ### 施設に対する例
 
-  - 2007年1月、[高知県](../Page/高知県.md "wikilink")[安芸郡](../Page/安芸郡_\(高知県\).md "wikilink")[東洋町](https://ja.wikipedia.org/wiki/東洋町 "wikilink")で、当時の町長が独断で[高レベル放射性廃棄物](../Page/高レベル放射性廃棄物.md "wikilink")処分場の設置にかかる文献調査を依頼していたことが明らかになり、[リコール運動が起きた](../Page/リコール_\(地方公共団体\).md "wikilink")。これを受けて同年4月に行われた町長選挙の結果、反対派の候補が当選し、調査は取り下げられることとなった\[10\]。
-  - [成田空港問題](../Page/成田空港問題.md "wikilink") - 新東京国際空港（現・成田国際空港）建設の杜撰な進め方により、住民等からの大規模な反対運動（[三里塚闘争](https://ja.wikipedia.org/wiki/三里塚闘争 "wikilink")）やそれに伴う規模の縮小並びに国家レベルでの著しい[機会損失](https://ja.wikipedia.org/wiki/機会損失 "wikilink")及び経済的・人的損失を招いた。
-      - [成田新幹線](../Page/成田新幹線.md "wikilink") - 東京駅と新東京国際空港を結ぶ路線として計画されたが、沿線自治体や住民らの建設反対運動によりとん挫し、昭和47年告示第466号以前に告知された[新幹線鉄道の基本計画のうち唯一の](https://ja.wikipedia.org/wiki/建設を開始すべき新幹線鉄道の路線を定める基本計画 "wikilink")[未成線](../Page/未成線.md "wikilink")となった。
+  - 2007年1月、[高知県](../Page/高知県.md "wikilink")[安芸郡](../Page/安芸郡_\(高知県\).md "wikilink")[東洋町](../Page/東洋町.md "wikilink")で、当時の町長が独断で[高レベル放射性廃棄物](../Page/高レベル放射性廃棄物.md "wikilink")処分場の設置にかかる文献調査を依頼していたことが明らかになり、[リコール運動が起きた](../Page/リコール_\(地方公共団体\).md "wikilink")。これを受けて同年4月に行われた町長選挙の結果、反対派の候補が当選し、調査は取り下げられることとなった\[10\]。
+  - [成田空港問題](../Page/成田空港問題.md "wikilink") - 新東京国際空港（現・成田国際空港）建設の杜撰な進め方により、住民等からの大規模な反対運動（[三里塚闘争](../Page/三里塚闘争.md "wikilink")）やそれに伴う規模の縮小並びに国家レベルでの著しい[機会損失](https://ja.wikipedia.org/wiki/機会損失 "wikilink")及び経済的・人的損失を招いた。
+      - [成田新幹線](../Page/成田新幹線.md "wikilink") - 東京駅と新東京国際空港を結ぶ路線として計画されたが、沿線自治体や住民らの建設反対運動によりとん挫し、昭和47年告示第466号以前に告知された[新幹線鉄道の基本計画のうち唯一の](../Page/建設を開始すべき新幹線鉄道の路線を定める基本計画.md "wikilink")[未成線](../Page/未成線.md "wikilink")となった。
   - [国鉄横浜新貨物線](https://ja.wikipedia.org/wiki/東海道貨物線 "wikilink") - 通勤線混雑緩和のために[横浜駅](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")を迂回する貨物専用線が計画されたが（[鶴見](https://ja.wikipedia.org/wiki/鶴見駅 "wikilink")-[東戸塚](https://ja.wikipedia.org/wiki/東戸塚駅 "wikilink")）、恩恵を受けずに騒音のみを被ることが予想された沿線からの反対運動を招き、着工が遅れた。
   - [名古屋新幹線訴訟](https://ja.wikipedia.org/wiki/名古屋新幹線訴訟 "wikilink")
-  - [原子力商船むつ](https://ja.wikipedia.org/wiki/むつ_\(原子力船\) "wikilink")
+  - [原子力商船むつ](../Page/むつ_\(原子力船\).md "wikilink")
   - [東京ゴミ戦争](https://ja.wikipedia.org/wiki/東京ゴミ戦争 "wikilink")
   - [普天間基地移設問題](https://ja.wikipedia.org/wiki/普天間基地移設問題 "wikilink")
   - [小金井ごみ問題](https://ja.wikipedia.org/wiki/小金井ごみ問題 "wikilink")、[小金井市\#ゴミ処理](https://ja.wikipedia.org/wiki/小金井市#ゴミ処理 "wikilink")、[二枚橋衛生組合](https://ja.wikipedia.org/wiki/二枚橋衛生組合 "wikilink")も参照
 
 ### 特定の属性の人々に対する例
 
-  - [米国国務省の統計によると](https://ja.wikipedia.org/wiki/アメリカ合衆国国務省 "wikilink")、2015年10月以降に[バージニア州](../Page/バージニア州.md "wikilink")が受け入れた難民121人のうち、112人は[ワシントンDC校外の高級住宅街から少なくとも](../Page/ワシントンD.C..md "wikilink")100マイル（約161キロメートル）離れたコミュニティに割り振られた\[11\]。米国有数の高級住宅街で、政府やメディアの関係者が暮らす[フェアファックスや](https://ja.wikipedia.org/wiki/フェアファックス郡_\(バージニア州\) "wikilink")[ラウドン](https://ja.wikipedia.org/wiki/ラウドン郡_\(バージニア州\) "wikilink")、[アーリントンといった郡に配置された難民はたった](../Page/アーリントン郡_\(バージニア州\).md "wikilink")9人だった\[12\]。なお、ワシントンでは、成人人口の64％が人権を重視する「純粋[リベラル](../Page/リベラル.md "wikilink")」の議員によって代表されていて、保守派は「純粋保守」と「保守」をあわせても19%しかいなかった<ref>チャールズ・マレー.『 階級「断絶」社会アメリカ: 新上流と新下流の出現』. p.153, 東京, 草思社, 2013, ISBN 978-4-7942-1958-9.
+  - [米国国務省の統計によると](../Page/アメリカ合衆国国務省.md "wikilink")、2015年10月以降に[バージニア州](../Page/バージニア州.md "wikilink")が受け入れた難民121人のうち、112人は[ワシントンDC校外の高級住宅街から少なくとも](../Page/ワシントンD.C..md "wikilink")100マイル（約161キロメートル）離れたコミュニティに割り振られた\[11\]。米国有数の高級住宅街で、政府やメディアの関係者が暮らす[フェアファックスや](https://ja.wikipedia.org/wiki/フェアファックス郡_\(バージニア州\) "wikilink")[ラウドン](https://ja.wikipedia.org/wiki/ラウドン郡_\(バージニア州\) "wikilink")、[アーリントンといった郡に配置された難民はたった](../Page/アーリントン郡_\(バージニア州\).md "wikilink")9人だった\[12\]。なお、ワシントンでは、成人人口の64％が人権を重視する「純粋[リベラル](../Page/リベラル.md "wikilink")」の議員によって代表されていて、保守派は「純粋保守」と「保守」をあわせても19%しかいなかった<ref>チャールズ・マレー.『 階級「断絶」社会アメリカ: 新上流と新下流の出現』. p.153, 東京, 草思社, 2013, ISBN 978-4-7942-1958-9.
 
 <span class="Z3988" title="url_ver=Z39.88-2004&ctx_ver=Z39.88-2004&rfr_id=info%3Asid%2Fzotero.org%3A2&rft_id=urn%3Aisbn%3A978-4-7942-1958-9&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&rft.genre=book&rft.btitle=%E9%9A%8E%E7%B4%9A%E3%80%8C%E6%96%AD%E7%B5%B6%E3%80%8D%E7%A4%BE%E4%BC%9A%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%3A%20%E6%96%B0%E4%B8%8A%E6%B5%81%E3%81%A8%E6%96%B0%E4%B8%8B%E6%B5%81%E3%81%AE%E5%87%BA%E7%8F%BE&rft.place=%E6%9D%B1%E4%BA%AC&rft.publisher=%E8%8D%89%E6%80%9D%E7%A4%BE&rft.aufirst=%E3%83%BC&rft.aulast=%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%9E%E3%83%AC&rft.au=%E3%83%BC%20%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%9E%E3%83%AC&rft.au=%E6%98%8E%E7%BE%8E%20%E6%A9%98&rft.date=2013-02-21&rft.isbn=978-4-7942-1958-9&rft.language=%E6%97%A5%E6%9C%AC%E8%AA%9E"></span></ref>。
 
@@ -147,7 +147,7 @@ NIMBY問題におけるこれらの論点はいずれも程度と主観の問題
   - [Eyesore](https://ja.wikipedia.org/wiki/w:Eyesore "wikilink")
   - [Highway revolts](https://ja.wikipedia.org/wiki/w:Highway_revolts "wikilink")
   - [LULU (土地利用)](https://ja.wikipedia.org/wiki/LULU_\(土地利用\) "wikilink")
-  - [ラッダイト運動](https://ja.wikipedia.org/wiki/ラッダイト運動 "wikilink")
+  - [ラッダイト運動](../Page/ラッダイト運動.md "wikilink")
   - [東京ゴミ戦争](https://ja.wikipedia.org/wiki/東京ゴミ戦争 "wikilink")
   - [Pulp mill conflict between Argentina and Uruguay](https://ja.wikipedia.org/wiki/w:Uruguay_River_pulp_mill_dispute "wikilink")
   - [Smart growth](https://ja.wikipedia.org/wiki/w:Smart_growth "wikilink")

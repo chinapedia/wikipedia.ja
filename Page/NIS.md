@@ -8,7 +8,7 @@
   - 官公庁
 
       - [海軍捜査局](https://ja.wikipedia.org/wiki/海軍犯罪捜査局 "wikilink")  - アメリカ。現 海軍犯罪捜査局。
-      - [大韓民国国家情報院](https://ja.wikipedia.org/wiki/大韓民国国家情報院 "wikilink")
+      - [大韓民国国家情報院](../Page/大韓民国国家情報院.md "wikilink")
       - [ギリシア国家情報庁](https://ja.wikipedia.org/wiki/ギリシア国家情報庁 "wikilink")
       - [ノルウェー情報部](https://ja.wikipedia.org/wiki/ノルウェー情報部 "wikilink")
       - [ベルギー統計局](https://ja.wikipedia.org/wiki/ベルギー統計局 "wikilink") [{{nl](https://ja.wikipedia.org/wiki/:en:Statistics_Belgium "wikilink")
@@ -30,7 +30,7 @@
           - [針ニッケル鉱](https://ja.wikipedia.org/wiki/針ニッケル鉱 "wikilink")
       - [ナトリウムヨードシンポータ](https://ja.wikipedia.org/wiki/ナトリウムヨードシンポータ "wikilink")
 
-  - [{{en](https://ja.wikipedia.org/wiki/ネットワーク・インフォメーション・サービス "wikilink") - サン・マイクロシステムズの開発したユーザ情報共有システム。
+  - [{{en](../Page/ネットワーク・インフォメーション・サービス.md "wikilink") - サン・マイクロシステムズの開発したユーザ情報共有システム。
 
   - [{{en](https://ja.wikipedia.org/wiki/ノートン・インターネットセキュリティ "wikilink") - シマンテックのセキュリティソフト。
 
@@ -38,7 +38,7 @@
 
   - [国家技術革新システム](https://ja.wikipedia.org/wiki/国家技術革新システム "wikilink")
 
-  - [名古屋国際学園](https://ja.wikipedia.org/wiki/名古屋国際学園 "wikilink")
+  - [名古屋国際学園](../Page/名古屋国際学園.md "wikilink")
 
   - [西町インターナショナルスクール](../Page/西町インターナショナルスクール.md "wikilink")
 

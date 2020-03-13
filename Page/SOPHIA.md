@@ -32,7 +32,7 @@
 <tr class="odd">
 <td><p><strong>黒柳能生</strong><br />
 （くろやなぎ よしお）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td><p>、<a href="https://ja.wikipedia.org/wiki/ABO式血液型" title="wikilink">O型</a>、<a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/知立市.md" title="wikilink">知立市</a>出身</p></td>
 <td><p>愛称クロ 現在はラーメン屋</p></td>
 </tr>
@@ -85,7 +85,7 @@
 
 <!-- end list -->
 
-  - 2月19日、「little cloud」をリリース。『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』の[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")として起用され、初の10万枚超え。
+  - 2月19日、「little cloud」をリリース。『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』の[タイアップ](../Page/タイアップ.md "wikilink")として起用され、初の10万枚超え。
   - 4月23日、1stフルアルバム『little circus』を発売。
   - 7月9日、「街」をアルバム『little circus』からシングルカットして、シングルとして発売。ロングヒットを記録。
   - 8月30日、[日本武道館](../Page/日本武道館.md "wikilink")で念願のライブを結成3年、デビュー2年で成功させる。
@@ -125,7 +125,7 @@
 
 <!-- end list -->
 
-  - アルバム『進化論』のリリースを含め、シングル4枚、アルバム1枚、[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")2枚、これまでの[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")作品の[DVD](../Page/DVD.md "wikilink")化など精力的に活動。
+  - アルバム『進化論』のリリースを含め、シングル4枚、アルバム1枚、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")2枚、これまでの[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")作品の[DVD](../Page/DVD.md "wikilink")化など精力的に活動。
   - 大阪[万博記念公園](../Page/万博記念公園.md "wikilink")での凱旋ライブ『**獅子に翼II**』を成功させた。
 
 <!-- end list -->
@@ -145,7 +145,7 @@
 
   - 1月1日、高校サッカー選手権大会のテーマソング「理由なきNew Days」リリース。
   - 9月25日、前作から2年6ヶ月ぶり、5枚目のフルアルバム『夢』をリリース。
-  - ツアー『for dreamers only』にて[カウントダウン](https://ja.wikipedia.org/wiki/カウントダウン "wikilink")ライブを大阪で行った。
+  - ツアー『for dreamers only』にて[カウントダウン](../Page/カウントダウン.md "wikilink")ライブを大阪で行った。
 
 <!-- end list -->
 
@@ -169,7 +169,7 @@
   - 1月26日、DVD「everblue films-I」をリリース。シングル「青い季節」をモチーフにした[ショートムービー](https://ja.wikipedia.org/wiki/ショートムービー "wikilink")を収録。
   - 4月から全国ツアー『“Sophism Or Sophistication”』がスタート。
   - 8月、「**獅子に翼IV**」を昨年に引き続き[インボイスSEIBUドーム](https://ja.wikipedia.org/wiki/インボイスSEIBUドーム "wikilink")で開催。
-  - 秋にデビュー10周年記念の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")選曲のためネット投票を公式HPで行う。2週間で10万件を越えるアクセスを記録。
+  - 秋にデビュー10周年記念の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")選曲のためネット投票を公式HPで行う。2週間で10万件を越えるアクセスを記録。
   - 11月19日から12月3日にかけて東京6公演、大阪3公演にわたるツアー『TOUR 2005 a piece of blue sky 〜遥かなる宝島〜』を敢行。これは総制作費に2億円（[東京ドーム](../Page/東京ドーム.md "wikilink")ライブ並の予算）をかけ、シナリオに沿って進行する芝居仕立てのライブで、従来と異なるスタイルであった。
 
 <!-- end list -->
@@ -181,7 +181,7 @@
   - 2月22日、シングル「エンドロール」、「brother & sister」を2枚同時リリース。
   - 3月23日、アルバム『We』をリリース。
   - 4月には4年振りの武道館ライブ『THE DAY OF NEXT STAGE』を決行。
-  - 全国ツアー『W+e』、また11年ぶりとなるスタンディングツアー『Dear…brother\&sister』を全国の[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink")系ライブハウスで行った。
+  - 全国ツアー『W+e』、また11年ぶりとなるスタンディングツアー『Dear…brother\&sister』を全国の[Zepp](../Page/Zepp.md "wikilink")系ライブハウスで行った。
 
 <!-- end list -->
 
@@ -191,10 +191,10 @@
 
   - 3月21日、シングル「君と月の光」をリリース。インストアイベントにて各地で購入者限定の握手会が行われた。
   - 2005年に行った『a piece of blue sky 〜遥かなる宝島〜』を東京厚生年金会館にて再公演した。
-  - 7月、[横浜赤レンガ倉庫](https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫 "wikilink")にて単発ライブを行った。
+  - 7月、[横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")にて単発ライブを行った。
   - 9月12日、シングル「青空の破片」をリリース。TBSで同年9月16日に放送した秋の単発ドラマ『[ひまわり〜夏目雅子27年の生涯と母の愛〜](../Page/ひまわり〜夏目雅子27年の生涯と母の愛〜.md "wikilink")』のテーマソングに起用。この楽曲の収益は全額「夏目雅子ひまわり基金」に寄付された。
   - 10月10日、アルバム『2007』をリリース。それに伴い全国ツアーを行う。2005年以来のカウントダウンライブが大阪で行われた。
-  - 11月14日、7月に行われた[横浜赤レンガ倉庫](https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫 "wikilink")での単発ライブの模様がDVDで発売。
+  - 11月14日、7月に行われた[横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")での単発ライブの模様がDVDで発売。
 
 <!-- end list -->
 
@@ -202,7 +202,7 @@
 
 <!-- end list -->
 
-  - ゴールデンウィークに、2006年以来2度目のZeppツアーを敢行。来場者には限定CD「BANDAGE」を会場別で配布した(着うた・着うたフル限定での配信もある)。[4月24日](../Page/4月24日.md "wikilink")の[ライブでは](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、[事務所](../Page/事務所.md "wikilink")側のミスにより違う日のCDを配布してしまう。該当者は、チケットを郵送すると新しいCDが送られてくる事となり、これにより行っていない日のCDも入手できた。
+  - ゴールデンウィークに、2006年以来2度目のZeppツアーを敢行。来場者には限定CD「BANDAGE」を会場別で配布した(着うた・着うたフル限定での配信もある)。[4月24日](../Page/4月24日.md "wikilink")の[ライブでは](../Page/演奏会.md "wikilink")、[事務所](../Page/事務所.md "wikilink")側のミスにより違う日のCDを配布してしまう。該当者は、チケットを郵送すると新しいCDが送られてくる事となり、これにより行っていない日のCDも入手できた。
   - 7月には今まで前例のない神戸[メリケンパーク](../Page/メリケンパーク.md "wikilink")にてライブを行った。
   - 秋から冬にかけて全国ツアー『BAND AGE』を成功させた。
   - レコード会社の移籍を発表。UNIVERSAL Jへ。
@@ -227,7 +227,7 @@
 
   - 1月20日、セルフカバーアルバム『15』をリリース。初回盤はスペシャルプライスで発売した。オリコンアルバムチャート初登場10位。
   - 3月にアルバム『15』の初回盤購入者の中から抽選で500人を招待してのフリーライブを渋谷O-WESTにて開催。ニコニコ動画にて完全生中継。
-  - [3月21日](../Page/3月21日.md "wikilink")に公式サイト及びマスコミ向けプレスリリースにて、都啓一が[悪性リンパ腫](../Page/悪性リンパ腫.md "wikilink")に罹患していることが判明し、抗がん剤治療のために療養生活に入ること、[4月10日](../Page/4月10日.md "wikilink")の[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")公演を最後にグループとしてのライブ活動を休止し、他のメンバーはそれぞれ同バンドの楽曲制作および各々の個人的音楽活動を行うことなどが発表された\[1\]\[2\]。それに伴い、予定されていたツアー、「獅子に翼」が中止となった。
+  - [3月21日](../Page/3月21日.md "wikilink")に公式サイト及びマスコミ向けプレスリリースにて、都啓一が[悪性リンパ腫](../Page/悪性リンパ腫.md "wikilink")に罹患していることが判明し、抗がん剤治療のために療養生活に入ること、[4月10日](../Page/4月10日.md "wikilink")の[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")公演を最後にグループとしてのライブ活動を休止し、他のメンバーはそれぞれ同バンドの楽曲制作および各々の個人的音楽活動を行うことなどが発表された\[1\]\[2\]。それに伴い、予定されていたツアー、「獅子に翼」が中止となった。
   - 7月にロサンゼルスにて行われたANIME EXPO 2010にメインアクトとしてゲスト出演。都本人の意向もあり4人のメンバーでの出演。ニコニコ動画にて生中継が行われた。同会場で行われたAX2010のイベントの中で最大動員を記録。
 
 <!-- end list -->
@@ -241,7 +241,7 @@
   - 7月27日、avex trax移籍第1弾シングル「[cod-E 〜Eの暗号〜](https://ja.wikipedia.org/wiki/cod-E_〜Eの暗号〜 "wikilink")」リリース。松岡充主演の「仮面ライダー エターナル」の主題歌。
   - 8月13日、[日本武道館](../Page/日本武道館.md "wikilink")にて復活ライブ開催。チケット発売日当日にSOLD OUT。
   - 8月28日、[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")大阪([長居スタジアムにて観衆](../Page/長居陸上競技場.md "wikilink")5万人の前にシークレットゲストで初登場。16年の歴史の中でSOPHIA史上初のフェス解禁となる。
-  - 10月、[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink")大阪、名古屋、東京にて[ファンクラブ](../Page/ファンクラブ.md "wikilink")限定ライブ「Eternal presents SOPHIA ZEPP TOUR 2011」を行った。
+  - 10月、[Zepp](../Page/Zepp.md "wikilink")大阪、名古屋、東京にて[ファンクラブ](../Page/ファンクラブ.md "wikilink")限定ライブ「Eternal presents SOPHIA ZEPP TOUR 2011」を行った。
   - 10月23日、さいたまスーパーアリーナにて[V-ROCK FESTIVALに出演](https://ja.wikipedia.org/wiki/V-ROCK_FESTIVAL "wikilink")。
   - 12月25日、[Zepp TOKYOにてSOPHIA](https://ja.wikipedia.org/wiki/Zepp_TOKYO "wikilink") Premium X'mas 2011 "P.L.T" 〜Party\&Live\&Touch〜を実施。
 
@@ -276,7 +276,7 @@
 
   - ツアー『ALIVE』以降、「本編だけで余力を残さず完全燃焼してるつもりだから」という理由で[アンコール](../Page/アンコール.md "wikilink")は基本的に行わなかった。本来満足した客が自主的に行うものであるはずのアンコールが慣例化し、行われるのが半ば暗黙の了解になっていることに疑問を抱いた結果である。このため全く行わないというわけではなく、ライブハウスツアーや野外等の特殊なライブ、またはライブの内容が良く会場の開放時間に余裕があるときなどは、稀に行われることもあった。
   - 2019年現在、トイズファクトリー、東芝EMI、ユニバーサルミュージック在籍時に発売したシングル・アルバム・VHSは廃盤になっている。トイズファクトリーで発表したシングル曲のうち「進化論 〜GOOD MORNING\! -HELLO\! 21st-CENTURY〜」から「-僕はここにいる-」までの9曲のPVはVHS・DVDなどになっていなかったため、2005年に東芝EMIからDVD『philosophy-VII』として発売された。
-  - ライブのSEは、本編が始まる直前には必ず[エディット・ピアフ](../Page/エディット・ピアフ.md "wikilink")の「愛の讃歌」が流れた。終了後は同じくピアフの「ばら色の人生」が流された。ちなみに「愛の讃歌」は2005年にシングル「one summer day」の[カップリングとして](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")[カバー](../Page/カバー.md "wikilink")した他、原曲に松岡のオリジナル歌詞を付けた「青空の破片（かけら）」という曲を「獅子に翼IV」と2005年11月放送の[BEAT MOTION](https://ja.wikipedia.org/wiki/BEAT_MOTION "wikilink")、ライブツアー「SOPHIA 10th ANNIVERSARRY TOUR 2005 a piece of blue sky〜遥かなる宝島〜」にて披露。長らく音源の無い曲となっていたが、2007年9月にCD化。
+  - ライブのSEは、本編が始まる直前には必ず[エディット・ピアフ](../Page/エディット・ピアフ.md "wikilink")の「愛の讃歌」が流れた。終了後は同じくピアフの「ばら色の人生」が流された。ちなみに「愛の讃歌」は2005年にシングル「one summer day」の[カップリングとして](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")[カバー](../Page/カバー.md "wikilink")した他、原曲に松岡のオリジナル歌詞を付けた「青空の破片（かけら）」という曲を「獅子に翼IV」と2005年11月放送の[BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")、ライブツアー「SOPHIA 10th ANNIVERSARRY TOUR 2005 a piece of blue sky〜遥かなる宝島〜」にて披露。長らく音源の無い曲となっていたが、2007年9月にCD化。
   - 毎年[ファンクラブ](../Page/ファンクラブ.md "wikilink")で希望者を募ってメンバーと共に旅行に出掛ける[イベント](../Page/イベント.md "wikilink")「さく-a\!」（さくあ）が催された。国内だけに留まらず[オーストラリア](../Page/オーストラリア.md "wikilink")など海外も訪れ、適時[メンバー](https://ja.wikipedia.org/wiki/メンバー "wikilink")と交流したりしながら旅行を楽しんだ。ちなみに「さく-a\!」というのは略称で、正式名称は「**さくれつ\!THE DYNAMITE Holiday inゴージャス ミラクル ファンタスティク アーンド デリシャス ○○（目的地名） with スィート デンジャラス Funky sophia\!**」である。
   - 2007年のツアーの神戸公演(2007.11.29)より、ヒマワリの花（造花・300円）を販売し、その収益金の全額を夏目雅子ひまわり基金及び夏目雅子ひまわり基金の推薦団体へ寄付することとする（なおSOPHIAにとっての「ヒマワリの花」は、LIVEで観客の大部分が持参し、彼らの初めてのシングル曲「ヒマワリ」で各々手に持つことが、ファンには知られているが、自然発生的に始まった事であり、今まで公式に売られたことはなかった\[3\]）。
   - ツアーでの神戸・新潟公演では[阪神淡路大震災](https://ja.wikipedia.org/wiki/阪神淡路大震災 "wikilink")発生をもとに作った『Like forever』を演奏している。また、2008年に松岡、赤松、都の出身地である兵庫県への恩返しを込めて、メリケンパークにてライブを行った。
@@ -295,7 +295,7 @@
 <th><p>規格</p></th>
 <th><p>販売生産番号</p></th>
 <th><p>c/w</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">チャート</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">チャート</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -624,7 +624,7 @@ TOCT-40143(通常盤)</p></td>
 <tr class="odd">
 <td><p>-</p></td>
 <td><p>BANDAGE</p></td>
-<td><p>2008年4月2日<a href="https://ja.wikipedia.org/wiki/着うたフル" title="wikilink">着うたフル</a>等で配信開始<br />
+<td><p>2008年4月2日<a href="../Page/着うたフル.md" title="wikilink">着うたフル</a>等で配信開始<br />
 TOUR'08『BANDAGE』各会場にて限定配布</p></td>
 <td><p>12cmCD</p></td>
 <td><p>-</p></td>
@@ -680,9 +680,9 @@ AVCD-48602(通常盤)</p></td>
 </tbody>
 </table>
 
-| アーティスト名                                                   | タイトル                                                                                  | リリース       | 規格     | 販売生産番号     | c/w | オリコンシングルチャート |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- | ------ | ---------- | --- | ------------ |
-| [Gaphia](https://ja.wikipedia.org/wiki/Gaphia "wikilink") | [I Love you, SAYONARA](https://ja.wikipedia.org/wiki/I_Love_you,_SAYONARA "wikilink") | 2002年9月11日 | 12cmCD | TFCC-89047 | \-  | 初登場4位        |
+| アーティスト名                                | タイトル                                                                                  | リリース       | 規格     | 販売生産番号     | c/w | オリコンシングルチャート |
+| -------------------------------------- | ------------------------------------------------------------------------------------- | ---------- | ------ | ---------- | --- | ------------ |
+| [Gaphia](../Page/Gaphia.md "wikilink") | [I Love you, SAYONARA](https://ja.wikipedia.org/wiki/I_Love_you,_SAYONARA "wikilink") | 2002年9月11日 | 12cmCD | TFCC-89047 | \-  | 初登場4位        |
 
 ### アルバム
 
@@ -990,7 +990,7 @@ TOCT-25837</p></td>
 
   - 19thシングル「ROCK STAR」
 
-[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")
+[亀田誠治](../Page/亀田誠治.md "wikilink")
 
   - 22ndシングル「-僕はここにいる-」
   - 5thフルアルバム『夢』(1)(6)(7)(8)(9)(10)(12)(14)
@@ -1020,7 +1020,7 @@ TOCT-25837</p></td>
 
   - 22ndシングル「-僕はここにいる-」PV
 
-[大坪草次郎](https://ja.wikipedia.org/wiki/大坪草次郎 "wikilink")
+[大坪草次郎](../Page/大坪草次郎.md "wikilink")
 
   - 2ndシングル「Early summer rain」PV
 
@@ -1175,7 +1175,7 @@ TOCT-25837</p></td>
 
 <!-- end list -->
 
-  - TOUR 2003-04"for dreamers only"SPECIAL PRE LIVE - [SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")
+  - TOUR 2003-04"for dreamers only"SPECIAL PRE LIVE - [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
   - TOUR 2003-04"for dreamers only" - 35ケ所/38公演
 
 <!-- end list -->
@@ -1191,7 +1191,7 @@ TOCT-25837</p></td>
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -1216,7 +1216,7 @@ TOCT-25837</p></td>
 <!-- end list -->
 
   - LIVE 2007 "a piece of blue sky-II〜遥かなる宝島〜" - 1ヶ所6公演
-  - LIVE 2007 "スターライトヨコハマ" - [横浜赤レンガ倉庫](https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫 "wikilink")イベント広場(特設ステージ)
+  - LIVE 2007 "スターライトヨコハマ" - [横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")イベント広場(特設ステージ)
   - TOUR 2007 "2007" - 22ヶ所25公演
 
 <!-- end list -->
@@ -1280,15 +1280,15 @@ TOCT-25837</p></td>
 ## タイアップ
 
   - little cloud（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")』エンディングテーマ）
-  - 街〜Single version〜（[カプコン](../Page/カプコン.md "wikilink") [プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[ブレス オブ ファイアIII](../Page/ブレス_オブ_ファイアIII.md "wikilink")』[CFイメージソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")）
-  - Place〜（NTV系[ドラマ](../Page/ドラマ.md "wikilink")『[甘い生活。](https://ja.wikipedia.org/wiki/甘い生活。 "wikilink")』オープニングテーマ）
-  - ミサイル（[花王](../Page/花王.md "wikilink")『[ソフィーナ](https://ja.wikipedia.org/wiki/ソフィーナ "wikilink") オーブ』CFソング）
+  - 街〜Single version〜（[カプコン](../Page/カプコン.md "wikilink") [プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[ブレス オブ ファイアIII](../Page/ブレス_オブ_ファイアIII.md "wikilink")』[CFイメージソング](../Page/コマーシャルソング.md "wikilink")）
+  - Place〜（NTV系[ドラマ](../Page/ドラマ.md "wikilink")『[甘い生活。](../Page/甘い生活。.md "wikilink")』オープニングテーマ）
+  - ミサイル（[花王](../Page/花王.md "wikilink")『[ソフィーナ](../Page/ソフィーナ.md "wikilink") オーブ』CFソング）
   - walk
 
 <!-- end list -->
 
   -
-    （[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")』10月度エンディングテーマ）
+    （[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")』10月度エンディングテーマ）
     （TVK『Muton@Di;GA』10月度オープニング・エンディングテーマ）
     （HIMARAYA『ウインターキャンペーンソング』[中部](../Page/中部地方.md "wikilink")・[北陸地区限定](../Page/北陸地方.md "wikilink")）
 
@@ -1327,7 +1327,7 @@ TOCT-25837</p></td>
 <!-- end list -->
 
   -
-    （NTV系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』7月度POWER PLAY）
+    （NTV系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』7月度POWER PLAY）
     （NTV系『[ニュースプラス1](https://ja.wikipedia.org/wiki/ニュースプラス1 "wikilink")』エンタメSPORTSテーマソング）
     （[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")『[全国高校野球選手権大会](https://ja.wikipedia.org/wiki/全国高校野球選手権大会 "wikilink")』埼玉予選イメージソング）
 
@@ -1374,7 +1374,7 @@ TOCT-25837</p></td>
 <!-- end list -->
 
   -
-    （NTV系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』7月度POWER PLAY）
+    （NTV系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』7月度POWER PLAY）
     （NTV系『[スッキリ\!\!](https://ja.wikipedia.org/wiki/スッキリ!! "wikilink")』7月エンディングテーマ）
     （NTV系『[ポシュレデパート深夜店](https://ja.wikipedia.org/wiki/ポシュレデパート深夜店 "wikilink")』7月オープニングテーマ）
 
@@ -1406,10 +1406,10 @@ TOCT-25837</p></td>
 
 ## 関連項目
 
-  - [ガレッジセール](../Page/ガレッジセール.md "wikilink") - 番組の企画で[Gaphia](https://ja.wikipedia.org/wiki/Gaphia "wikilink")としてコラボレート。
+  - [ガレッジセール](../Page/ガレッジセール.md "wikilink") - 番組の企画で[Gaphia](../Page/Gaphia.md "wikilink")としてコラボレート。
   - [ふしぎなメルモ](../Page/ふしぎなメルモ.md "wikilink") - シングル「KURU KURU」でCDジャケットやPV中に起用するなどのコラボレート。
   - [岡村靖幸](../Page/岡村靖幸.md "wikilink") - シングル「HARD WORKER」にてプロデューサーを務めた。
-  - [亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink") - 2003年以降のほぼ全ての楽曲においてSOPHIAとのダブルプロデュースを行っている。
+  - [亀田誠治](../Page/亀田誠治.md "wikilink") - 2003年以降のほぼ全ての楽曲においてSOPHIAとのダブルプロデュースを行っている。
 
 ## 脚注
 

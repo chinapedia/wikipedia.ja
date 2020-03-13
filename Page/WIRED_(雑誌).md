@@ -9,7 +9,7 @@
 
 ## US版WIRED
 
-本国版は1993年1月に創刊された。その創刊号のなかで、『WIRED』は単なるテクノロジーについての雑誌ではなく、デジタル革命を人類が火を扱えるようになったときに匹敵するほどの社会変化だととらえ、そこにmeaning（意味）とcontext（文脈）を与えていくことを「究極の[ラグジュアリー](../Page/ラグジュアリー.md "wikilink")」だと宣言した。その後、その時々の社会変化に応じて、[ロングテール](https://ja.wikipedia.org/wiki/ロングテール "wikilink")や[クラウドソーシング](https://ja.wikipedia.org/wiki/クラウドソーシング "wikilink")といった時代を象徴するキーワードを提唱してきた実績がある。
+本国版は1993年1月に創刊された。その創刊号のなかで、『WIRED』は単なるテクノロジーについての雑誌ではなく、デジタル革命を人類が火を扱えるようになったときに匹敵するほどの社会変化だととらえ、そこにmeaning（意味）とcontext（文脈）を与えていくことを「究極の[ラグジュアリー](../Page/ラグジュアリー.md "wikilink")」だと宣言した。その後、その時々の社会変化に応じて、[ロングテール](../Page/ロングテール.md "wikilink")や[クラウドソーシング](https://ja.wikipedia.org/wiki/クラウドソーシング "wikilink")といった時代を象徴するキーワードを提唱してきた実績がある。
 
 1993年といえば、[アップルがちょうど](../Page/アップル_\(企業\).md "wikilink")[PowerBook](../Page/PowerBook.md "wikilink")を発売したばかりのころで、[NCSA Mosaicが発表され](../Page/NCSA_Mosaic.md "wikilink")[ワールド・ワイド・ウェブ](https://ja.wikipedia.org/wiki/ワールド・ワイド・ウェブ "wikilink")（WWW）が一般に普及しようとしていたころだった。『WIRED』の創刊を目指していた[ジェーン・メトカーフ](https://ja.wikipedia.org/wiki/ジェーン・メトカーフ "wikilink")と[ルイス・ロゼット](https://ja.wikipedia.org/wiki/ルイス・ロゼット "wikilink")は、1993年にアメリカの[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")で開催された[TEDカンファレンス](https://ja.wikipedia.org/wiki/TEDカンファレンス "wikilink")に参加した。そこで2人は[MITメディアラボ](../Page/MITメディアラボ.md "wikilink")の創設者[ニコラス・ネグロポンテ](../Page/ニコラス・ネグロポンテ.md "wikilink")と出会い、資金提供を受けることができた。ネグロポンテは創刊後6年間レギュラーコラムニストとしても参加した。[初代](https://ja.wikipedia.org/wiki/初代 "wikilink")のエグゼクティブ・エディター、[ケヴィン・ケリー](https://ja.wikipedia.org/wiki/ケヴィン・ケリー "wikilink")はもともと[ホール・アース・カタログ](https://ja.wikipedia.org/wiki/ホール・アース・カタログ "wikilink")や[ホール・アース・レヴュー](https://ja.wikipedia.org/wiki/ホール・アース・レヴュー "wikilink")の編集者だった。そのため、[ブルース・スターリング](../Page/ブルース・スターリング.md "wikilink")や[スチュアート・ブランド](../Page/スチュアート・ブランド.md "wikilink")など、その頃の関係者がWIREDにも多く関わっていた\[2\]。
 
@@ -23,7 +23,7 @@
 
 1994年の創刊当初はアメリカ版の翻訳記事が中心だったが、徐々に日本独自記事が増える。「爆笑問題の日本原論」（[爆笑問題](../Page/爆笑問題.md "wikilink")）も、[宝島30](https://ja.wikipedia.org/wiki/宝島30 "wikilink")で連載されていたものを引き継ぎこの雑誌で連載していた。
 
-1998年の休刊後、[編集長](../Page/編集長.md "wikilink")だった[小林弘人](https://ja.wikipedia.org/wiki/小林弘人 "wikilink")が連載のいくつかを引き継いで[1999年](../Page/1999年.md "wikilink")6月号より[サイゾー](https://ja.wikipedia.org/wiki/サイゾー "wikilink")を創刊した。
+1998年の休刊後、[編集長](../Page/編集長.md "wikilink")だった[小林弘人](https://ja.wikipedia.org/wiki/小林弘人 "wikilink")が連載のいくつかを引き継いで[1999年](../Page/1999年.md "wikilink")6月号より[サイゾー](../Page/サイゾー.md "wikilink")を創刊した。
 
 ウェブサイトの Hotwired Japan\[4\]は、2006年3月31日にコンテンツの停止を発表し、事実上の休刊をした。それ以降、2007年5月からWIRED VISIONが翻訳を行っていた。
 
@@ -49,7 +49,7 @@ Vol.1は第2回雑誌大賞にて、「雑誌新人賞」を受賞\[6\]。11月1
 
 ## 関連項目
 
-  - [ロングテール](https://ja.wikipedia.org/wiki/ロングテール "wikilink")
+  - [ロングテール](../Page/ロングテール.md "wikilink")
   - [クラウドソーシング](https://ja.wikipedia.org/wiki/クラウドソーシング "wikilink")
 
 ## 外部リンク

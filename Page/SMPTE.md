@@ -19,7 +19,7 @@
   - [SMPTE 344M](https://ja.wikipedia.org/wiki/SMPTE_344M "wikilink"): Enhanced Serial Digital Interface (ED-SDI)
   - [SMPTE 372M](https://ja.wikipedia.org/wiki/SMPTE_372M "wikilink"): High Definition Serial Digital Interface HD-SDI (DL HD-SDI)
   - SMPTE 377M - [MXFファイルフォーマット標準規格](../Page/Material_Exchange_Format.md "wikilink")
-  - SMPTE 421M - [VC-1](https://ja.wikipedia.org/wiki/VC-1 "wikilink")動画像符号化に関する標準規格
+  - SMPTE 421M - [VC-1](../Page/VC-1.md "wikilink")動画像符号化に関する標準規格
   - [SMPTE 424M](https://ja.wikipedia.org/wiki/SMPTE_424M "wikilink"): 3 Gbit/s シリアルデジタルインターフェース (3G-SDI)
   - [DPX](https://ja.wikipedia.org/wiki/DPX "wikilink")
   - [Material Exchange Format](../Page/Material_Exchange_Format.md "wikilink")

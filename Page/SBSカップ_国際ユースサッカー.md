@@ -5,9 +5,9 @@
 
 [1977年](../Page/1977年.md "wikilink")に静岡放送の創立25周年記念事業として、韓国の高校を招待し[静岡県](../Page/静岡県.md "wikilink")内の高校との親善試合を開催した事が始まりである。[1979年](../Page/1979年.md "wikilink")からは日本ユース代表 (U-18) 、静岡県高校選抜と海外から招いた強豪クラブユースチーム、あるいはユースのナショナルチームを招き、静岡県内の各スタジアムを舞台に総当りリーグ戦で熱戦を繰り広げる。会場は[藤枝総合運動公園サッカー場](../Page/藤枝総合運動公園サッカー場.md "wikilink")、[静岡県草薙総合運動場陸上競技場](../Page/静岡県草薙総合運動場陸上競技場.md "wikilink")、[エコパスタジアムの](../Page/静岡県小笠山総合運動公園スタジアム.md "wikilink")3箇所で1日ずつ行なわれる（2012年の場合）。
 
-この大会では[小野伸二](../Page/小野伸二.md "wikilink")、[高原直泰](../Page/高原直泰.md "wikilink")、[川口能活](../Page/川口能活.md "wikilink")といった静岡県に縁のあるサッカー選手をはじめとした数多くの選手が出場し、世界への登竜門的な位置づけもある。1985年大会では、当時ブラジルの[キンゼ・デ・ジャウーに留学していた](https://ja.wikipedia.org/wiki/ECキンゼ・デ・ノヴェンブロ_\(ジャウー\) "wikilink")[三浦知良](../Page/三浦知良.md "wikilink")が静岡に凱旋し、静岡高校選抜のDF[中山雅史](../Page/中山雅史.md "wikilink")、FW[武田修宏](https://ja.wikipedia.org/wiki/武田修宏 "wikilink")らと試合を行った\[1\]。
+この大会では[小野伸二](../Page/小野伸二.md "wikilink")、[高原直泰](../Page/高原直泰.md "wikilink")、[川口能活](../Page/川口能活.md "wikilink")といった静岡県に縁のあるサッカー選手をはじめとした数多くの選手が出場し、世界への登竜門的な位置づけもある。1985年大会では、当時ブラジルの[キンゼ・デ・ジャウーに留学していた](https://ja.wikipedia.org/wiki/ECキンゼ・デ・ノヴェンブロ_\(ジャウー\) "wikilink")[三浦知良](../Page/三浦知良.md "wikilink")が静岡に凱旋し、静岡高校選抜のDF[中山雅史](../Page/中山雅史.md "wikilink")、FW[武田修宏](../Page/武田修宏.md "wikilink")らと試合を行った\[1\]。
 
-また、[ロナウジーニョ](../Page/ロナウジーニョ.md "wikilink")や[パトリック・クライファート](https://ja.wikipedia.org/wiki/パトリック・クライファート "wikilink")などもこの大会に参加した。この模様は静岡放送や[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")にて全国に中継される。
+また、[ロナウジーニョ](../Page/ロナウジーニョ.md "wikilink")や[パトリック・クライファート](../Page/パトリック・クライファート.md "wikilink")などもこの大会に参加した。この模様は静岡放送や[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")にて全国に中継される。
 
 ## 歴代大会結果
 
@@ -26,7 +26,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>1977</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/静岡北高等学校" title="wikilink">自動車工業高校</a>、<a href="../Page/静岡県立藤枝東高等学校.md" title="wikilink">藤枝東高校</a>、<a href="https://ja.wikipedia.org/wiki/静岡県立清水東高等学校" title="wikilink">清水東高校</a>、（韓国）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/静岡北高等学校" title="wikilink">自動車工業高校</a>、<a href="../Page/静岡県立藤枝東高等学校.md" title="wikilink">藤枝東高校</a>、<a href="../Page/静岡県立清水東高等学校.md" title="wikilink">清水東高校</a>、（韓国）</p></td>
 <td><p>親善試合</p></td>
 <td></td>
 <td></td>
@@ -34,7 +34,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>1978</p></td>
-<td><p><a href="../Page/静岡県立藤枝東高等学校.md" title="wikilink">藤枝東高校</a>、<a href="https://ja.wikipedia.org/wiki/静岡県立清水東高等学校" title="wikilink">清水東高校</a>、静岡県選抜、大田商高校（韓国）</p></td>
+<td><p><a href="../Page/静岡県立藤枝東高等学校.md" title="wikilink">藤枝東高校</a>、<a href="../Page/静岡県立清水東高等学校.md" title="wikilink">清水東高校</a>、静岡県選抜、大田商高校（韓国）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52,7 +52,7 @@
 <td><p>1980</p></td>
 <td><p>静岡県選抜</p></td>
 <td><p>5-2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/静岡県立清水東高等学校" title="wikilink">清水東高校</a></p></td>
+<td><p><a href="../Page/静岡県立清水東高等学校.md" title="wikilink">清水東高校</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -84,7 +84,7 @@
 <td><p>1984</p></td>
 <td><p><a href="../Page/フェイエノールト.md" title="wikilink">フェイエノールト</a></p></td>
 <td><p>3-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/静岡県立清水東高等学校" title="wikilink">清水東高校</a></p></td>
+<td><p><a href="../Page/静岡県立清水東高等学校.md" title="wikilink">清水東高校</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -130,7 +130,7 @@
 <tr class="even">
 <td><p>14</p></td>
 <td><p>1990</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボタフォゴFR" title="wikilink">ボタフォゴFR</a></p></td>
+<td><p><a href="../Page/ボタフォゴFR.md" title="wikilink">ボタフォゴFR</a></p></td>
 <td><p>1-1<br />
 <small>(<a href="../Page/PK戦.md" title="wikilink">PK</a> 5-3)</small></p></td>
 <td><p>静岡県選抜</p></td>
@@ -179,7 +179,7 @@
 <tr class="even">
 <td><p>20</p></td>
 <td><p>1996</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/グレミオFBPA" title="wikilink">グレミオ</a></p></td>
+<td><p><a href="../Page/グレミオFBPA.md" title="wikilink">グレミオ</a></p></td>
 <td><p>3-1</p></td>
 <td><p>静岡県選抜</p></td>
 <td></td>
@@ -195,7 +195,7 @@
 <tr class="even">
 <td><p>22</p></td>
 <td><p>1998</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クルゼイロEC" title="wikilink">クルゼイロ</a></p></td>
+<td><p><a href="../Page/クルゼイロEC.md" title="wikilink">クルゼイロ</a></p></td>
 <td><p>4-1</p></td>
 <td></td>
 <td></td>
@@ -214,15 +214,15 @@
 <td></td>
 <td><p>0-0<br />
 <small>(<a href="../Page/PK戦.md" title="wikilink">PK</a> 4-3)</small></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SEパルメイラス" title="wikilink">パルメイラス</a></p></td>
+<td><p><a href="../Page/SEパルメイラス.md" title="wikilink">パルメイラス</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
 <td><p>2001</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バレンシアCF" title="wikilink">バレンシア</a></p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>1-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SEパルメイラス" title="wikilink">パルメイラス</a></p></td>
+<td><p><a href="../Page/SEパルメイラス.md" title="wikilink">パルメイラス</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

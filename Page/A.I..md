@@ -1,7 +1,7 @@
 > この記事は[A.I.](https://ja.wikipedia.org/wiki/A.I.)から翻訳されています。
 
 
-『**A.I.**』（エー・アイ、*A.I. Artificial Intelligence*）は、[2001年の](../Page/2001年の映画.md "wikilink")[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")[SF映画](../Page/SF映画.md "wikilink")。
+『**A.I.**』（エー・アイ、*A.I. Artificial Intelligence*）は、[2001年の](../Page/2001年の映画.md "wikilink")[アメリカの](../Page/アメリカ合衆国の映画.md "wikilink")[SF映画](../Page/SF映画.md "wikilink")。
 
 ## 製作
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - ジゴロ・ジョー：[ジュード・ロウ](https://ja.wikipedia.org/wiki/ジュード・ロウ "wikilink")
+  - ジゴロ・ジョー：[ジュード・ロウ](../Page/ジュード・ロウ.md "wikilink")
     もう一人の主人公で女性を悦ばせる男性型[セックス・ロボットとして造られた](https://ja.wikipedia.org/wiki/セクサロイド "wikilink")。
     客の一人が他殺体で発見され、その事件の容疑者として警察に追われる身となる。逃亡の為に胸部の営業許可証を手首の内側に内蔵したナイフで切除したことにより未登録のロボットと誤解される。森で出会ったデイビッドと共にショーの見世物として連れ去られてしまうが、無事に脱出する。だが警察に連れ去られ、「僕は生きた、そして消える！」とデイビッドに言い残した。その後の去就は描かれていない。髪型や人相を自由に変えたり、首を横に[クラッキング](https://ja.wikipedia.org/wiki/クラッキング "wikilink")することで[ジャズ](../Page/ジャズ.md "wikilink")などの曲を流し、相手が望む雰囲気を作ることができる。気分が良いときなどで突然ダンスをする癖を持つ。
 
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - モニカ・スウィントン：[フランセス・オコナー](https://ja.wikipedia.org/wiki/フランセス・オコナー "wikilink")
+  - モニカ・スウィントン：[フランセス・オコナー](../Page/フランセス・オコナー.md "wikilink")
     ロボット製作会社の社員・ヘンリーの妻。息子のマーティンがいるが、彼は不治の病を患い冷凍睡眠している。その為デイビッドが彼女の家族としてやってきた。デイビッドに自身を永遠に愛するようにプログラムするが、マーティンが病を克服した事により、招かざる客のデイビッドを除け者にし、問題を起こした彼を森に捨て車で走り去っていった。2000年後、クローンとして復活するが、その時点での彼女の寿命は1日しかなく、デイビッドと共にその最後の時間を楽しんだ。
   - ホビー教授
     デイビッドの生みの親。息子のデイビッドを失ったことから、愛情を持つ息子とそっくりな少年型ロボットを作成、デイビッドと名付ける。デイビッドを自身のロボット製造会社に勤めている部下の社員、ヘンリー・スウィントン夫妻に預けた。デイビッドが森に捨てられた時点から彼を監視する。森に捨てられた後デイビッドがモニカから聞いた[おとぎ話](https://ja.wikipedia.org/wiki/おとぎ話 "wikilink")の[ピノキオ](https://ja.wikipedia.org/wiki/ピノキオ "wikilink")の話を信じ、ブルー・フェアリーにロボットの体から人間してもらい母と家族に愛されたいと願った事を知り、彼を完成度の高い本物の人間そのものだと評価する。デイビッドのほかに同じタイプのロボットを複数体を製造、所有している。（「[DARLENE](https://ja.wikipedia.org/wiki/ダーレン "wikilink")」と書かれた女の子型ロボット体や冒頭に出てきた女性型ロボットなど）
@@ -51,25 +51,25 @@
 
 ## キャスト
 
-| 役名               | 俳優                                                                | 日本語吹き替え                                                 |
-| ---------------- | ----------------------------------------------------------------- | ------------------------------------------------------- |
-| ソフト版             | [TBS版](../Page/TBSテレビ.md "wikilink")                              |                                                         |
-| デイビッド            | [ハーレイ・ジョエル・オスメント](../Page/ハーレイ・ジョエル・オスメント.md "wikilink")          | [常盤祐貴](../Page/常盤祐貴.md "wikilink")                      |
-| ジゴロ・ジョー          | [ジュード・ロウ](https://ja.wikipedia.org/wiki/ジュード・ロウ "wikilink")       | [大川透](../Page/大川透.md "wikilink")                        |
-| モニカ・スウィントン       | [フランセス・オコナー](https://ja.wikipedia.org/wiki/フランセス・オコナー "wikilink") | [紗ゆり](https://ja.wikipedia.org/wiki/紗ゆり "wikilink")     |
-| ヘンリー・スウィントン      | [サム・ロバーズ](https://ja.wikipedia.org/wiki/サム・ロバーズ "wikilink")       | [井上和彦](../Page/井上和彦_\(声優\).md "wikilink")               |
-| マーティン・スウィントン     | [ジェイク・トーマス](https://ja.wikipedia.org/wiki/ジェイク・トーマス "wikilink")   | [村上想太](https://ja.wikipedia.org/wiki/村上想太 "wikilink")   |
-| アレン・ホビー教授        | [ウィリアム・ハート](https://ja.wikipedia.org/wiki/ウィリアム・ハート "wikilink")   | [仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")     |
-| ジョンソン＝ジョンソン卿     | [ブレンダン・グリーソン](../Page/ブレンダン・グリーソン.md "wikilink")                  | [岩崎ひろし](https://ja.wikipedia.org/wiki/岩崎ひろし "wikilink") |
-| テディの声            | [ジャック・エンジェル](https://ja.wikipedia.org/wiki/ジャック・エンジェル "wikilink") | [大平透](../Page/大平透.md "wikilink")                        |
-| Dr.ノウの声          | [ロビン・ウィリアムズ](https://ja.wikipedia.org/wiki/ロビン・ウィリアムズ "wikilink") | [小川真司](https://ja.wikipedia.org/wiki/小川真司 "wikilink")   |
-| スペシャリストの声        | [ベン・キングスレー](https://ja.wikipedia.org/wiki/ベン・キングスレー "wikilink")   | [青野武](../Page/青野武.md "wikilink")                        |
-| ブルー・メカ（青い髪の妖精）の声 | [メリル・ストリープ](https://ja.wikipedia.org/wiki/メリル・ストリープ "wikilink")   | [高島雅羅](../Page/高島雅羅.md "wikilink")                      |
-| コメディアンの声         | [クリス・ロック](../Page/クリス・ロック.md "wikilink")                          |                                                         |
-|                  |                                                                   |                                                         |
+| 役名               | 俳優                                                                | 日本語吹き替え                                               |
+| ---------------- | ----------------------------------------------------------------- | ----------------------------------------------------- |
+| ソフト版             | [TBS版](../Page/TBSテレビ.md "wikilink")                              |                                                       |
+| デイビッド            | [ハーレイ・ジョエル・オスメント](../Page/ハーレイ・ジョエル・オスメント.md "wikilink")          | [常盤祐貴](../Page/常盤祐貴.md "wikilink")                    |
+| ジゴロ・ジョー          | [ジュード・ロウ](../Page/ジュード・ロウ.md "wikilink")                          | [大川透](../Page/大川透.md "wikilink")                      |
+| モニカ・スウィントン       | [フランセス・オコナー](../Page/フランセス・オコナー.md "wikilink")                    | [紗ゆり](../Page/紗ゆり.md "wikilink")                      |
+| ヘンリー・スウィントン      | [サム・ロバーズ](https://ja.wikipedia.org/wiki/サム・ロバーズ "wikilink")       | [井上和彦](../Page/井上和彦_\(声優\).md "wikilink")             |
+| マーティン・スウィントン     | [ジェイク・トーマス](https://ja.wikipedia.org/wiki/ジェイク・トーマス "wikilink")   | [村上想太](https://ja.wikipedia.org/wiki/村上想太 "wikilink") |
+| アレン・ホビー教授        | [ウィリアム・ハート](../Page/ウィリアム・ハート.md "wikilink")                      | [仲野裕](../Page/仲野裕.md "wikilink")                      |
+| ジョンソン＝ジョンソン卿     | [ブレンダン・グリーソン](../Page/ブレンダン・グリーソン.md "wikilink")                  | [岩崎ひろし](../Page/岩崎ひろし.md "wikilink")                  |
+| テディの声            | [ジャック・エンジェル](https://ja.wikipedia.org/wiki/ジャック・エンジェル "wikilink") | [大平透](../Page/大平透.md "wikilink")                      |
+| Dr.ノウの声          | [ロビン・ウィリアムズ](../Page/ロビン・ウィリアムズ.md "wikilink")                    | [小川真司](../Page/小川真司.md "wikilink")                    |
+| スペシャリストの声        | [ベン・キングスレー](https://ja.wikipedia.org/wiki/ベン・キングスレー "wikilink")   | [青野武](../Page/青野武.md "wikilink")                      |
+| ブルー・メカ（青い髪の妖精）の声 | [メリル・ストリープ](../Page/メリル・ストリープ.md "wikilink")                      | [高島雅羅](../Page/高島雅羅.md "wikilink")                    |
+| コメディアンの声         | [クリス・ロック](../Page/クリス・ロック.md "wikilink")                          |                                                       |
+|                  |                                                                   |                                                       |
 
   - ソフト版吹き替え - [VHS](../Page/VHS.md "wikilink")・[DVD](../Page/DVD.md "wikilink")・[BD収録](../Page/Blu-ray_Disc.md "wikilink")
-  - TBS版吹き替え - 初回放送2005年1月12日『[水曜プレミア](https://ja.wikipedia.org/wiki/水曜プレミア "wikilink")』(20:00-22:54)※ノーカット放送
+  - TBS版吹き替え - 初回放送2005年1月12日『[水曜プレミア](../Page/水曜プレミア.md "wikilink")』(20:00-22:54)※ノーカット放送
 
 ## スタッフ
 
@@ -78,7 +78,7 @@
   - プロダクション:アンブリン、スタンリー・キューブリック
   - 原作:[ブライアン・オールディス](../Page/ブライアン・オールディス.md "wikilink")「スーパートイズ」（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")発表）
   - VFX:[インダストリアル・ライト&マジック](../Page/インダストリアル・ライト&マジック.md "wikilink")
-  - VFXスーパーバイザー:[デニス・ミューレン](https://ja.wikipedia.org/wiki/デニス・ミューレン "wikilink")
+  - VFXスーパーバイザー:[デニス・ミューレン](../Page/デニス・ミューレン.md "wikilink")
   - クリーチャー・スーパーバイザー:[スタン・ウィンストン](../Page/スタン・ウィンストン.md "wikilink")
   - 音楽:[ジョン・ウィリアムズ](../Page/ジョン・ウィリアムズ_\(作曲家\).md "wikilink")
 
@@ -108,5 +108,5 @@
 2.
 3.
 4.
-5.  「スペシャリスト」が絶滅した人類について語る台詞に"space-time"（[時空](../Page/時空.md "wikilink")）という単語が2度出てくるが、日本語字幕作成者の[戸田奈津子](https://ja.wikipedia.org/wiki/戸田奈津子 "wikilink")はこれを「宇宙時間」と誤訳している。
+5.  「スペシャリスト」が絶滅した人類について語る台詞に"space-time"（[時空](../Page/時空.md "wikilink")）という単語が2度出てくるが、日本語字幕作成者の[戸田奈津子](../Page/戸田奈津子.md "wikilink")はこれを「宇宙時間」と誤訳している。
 6.  「映像の魔術師 スピルバーグ自作を語る」より。

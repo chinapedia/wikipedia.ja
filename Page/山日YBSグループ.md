@@ -9,7 +9,7 @@
 
 山梨文化会館に設置されている電光掲示板では[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")や[山梨日日新聞](../Page/山梨日日新聞.md "wikilink")社を中心に番組情報、ニュース、イベント情報などを発信している。
 
-山梨文化会館の構内には[FM甲府の本社も入っている](https://ja.wikipedia.org/wiki/エフエム甲府 "wikilink")。また、[プロサッカークラブ](../Page/日本プロサッカーリーグ.md "wikilink")・[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")を運営する[ヴァンフォーレ山梨スポーツクラブ](https://ja.wikipedia.org/wiki/ヴァンフォーレ山梨スポーツクラブ "wikilink")の筆頭株主（但し保有株式が25％のためグループに含まれない）でもあり、役員の派遣をはじめ系列会社が各種イベントや広告管理も行っている。
+山梨文化会館の構内には[FM甲府の本社も入っている](../Page/エフエム甲府.md "wikilink")。また、[プロサッカークラブ](../Page/日本プロサッカーリーグ.md "wikilink")・[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")を運営する[ヴァンフォーレ山梨スポーツクラブ](https://ja.wikipedia.org/wiki/ヴァンフォーレ山梨スポーツクラブ "wikilink")の筆頭株主（但し保有株式が25％のためグループに含まれない）でもあり、役員の派遣をはじめ系列会社が各種イベントや広告管理も行っている。
 
 グループの経営は創設時から野口家が一括して経営を行なっており、グループ会社の代表取締役社長の名前は一部企業を除いて[野口英一の名前が連なっている](https://ja.wikipedia.org/wiki/野口英一_\(実業家\) "wikilink")。また、野口家は[静新SBSグループ](https://ja.wikipedia.org/wiki/静新SBSグループ "wikilink")（[静岡新聞](../Page/静岡新聞.md "wikilink")・[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")）の大石家と姻戚関係にあるなど友好関係にある。
 
@@ -95,7 +95,7 @@
 <tr class="even">
 <td><p>山梨文化学園</p></td>
 <td><p>－</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルチャーセンター" title="wikilink">カルチャーセンター</a></p></td>
+<td><p><a href="../Page/カルチャーセンター.md" title="wikilink">カルチャーセンター</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>新聞センター</p></td>
@@ -131,7 +131,7 @@
   - [山梨文化会館](../Page/山梨文化会館.md "wikilink")
   - [グループ企業](https://ja.wikipedia.org/wiki/グループ企業 "wikilink")
   - [読売新聞社](../Page/読売新聞社.md "wikilink")
-  - [山梨県小瀬スポーツ公園野球場](https://ja.wikipedia.org/wiki/山梨県小瀬スポーツ公園野球場 "wikilink") - 山梨放送が2014年3月1日より5年間の命名権を取得。「**山日YBS球場**」の呼称を用いる\[1\] 。
+  - [山梨県小瀬スポーツ公園野球場](../Page/山梨県小瀬スポーツ公園野球場.md "wikilink") - 山梨放送が2014年3月1日より5年間の命名権を取得。「**山日YBS球場**」の呼称を用いる\[1\] 。
 
 ## 脚注
 

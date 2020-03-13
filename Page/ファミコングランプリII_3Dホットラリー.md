@@ -60,7 +60,7 @@
 
   - 『3Dホットラリー』
       -
-        [岡素世](https://ja.wikipedia.org/wiki/岡素世 "wikilink")などが作曲した本作のBGMが収録された[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。1988年7月25日発売。発売元[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")、販売元[徳間コミュニケーションズ](https://ja.wikipedia.org/wiki/徳間コミュニケーションズ "wikilink")。CD1枚組み。
+        [岡素世](../Page/岡素世.md "wikilink")などが作曲した本作のBGMが収録された[サウンドトラック](../Page/サウンドトラック.md "wikilink")。1988年7月25日発売。発売元[徳間ジャパン](https://ja.wikipedia.org/wiki/徳間ジャパン "wikilink")、販売元[徳間コミュニケーションズ](https://ja.wikipedia.org/wiki/徳間コミュニケーションズ "wikilink")。CD1枚組み。
         アレンジバージョンが3トラック、オリジナルバージョンが8トラックの計11トラックが収録されている。オリジナルバージョンにも実際の車の走行音などが加わったリミックスが施されている。
 
 ## スタッフ
@@ -68,13 +68,13 @@
   - エグゼクティブ・プロデューサー：[山内溥](https://ja.wikipedia.org/wiki/山内溥 "wikilink")
   - プロデューサー：KATTOBI MIYAMOTO（[宮本茂](https://ja.wikipedia.org/wiki/宮本茂 "wikilink")）
   - デザイナー：YONQUE ISSHIN（清水一伸）、MACH HISHIDA（菱田達也）
-  - サウンド・コンポーザー：NIGE NO KANAZASHI（金指英樹）、GSX SUGA（菅浩秋）、JUMP SOYO（[岡素世](https://ja.wikipedia.org/wiki/岡素世 "wikilink")）
+  - サウンド・コンポーザー：NIGE NO KANAZASHI（金指英樹）、GSX SUGA（菅浩秋）、JUMP SOYO（[岡素世](../Page/岡素世.md "wikilink")）
   - プログラマー：MIYA AOKI、WAHYO IWATA（[岩田聡](../Page/岩田聡.md "wikilink")）、GSX SUGA、FLZ KANAI（金井誠）、HOT SHIMIZU（[清水隆雄](https://ja.wikipedia.org/wiki/清水隆雄 "wikilink")）、西田泰也
   - イベント・システム・オペレーター：N.AKITA、K.YARIMOTO、T.MATSUDA、Z.IIDA、K.TAMAI、Y.TSUJI、S.YAMABE
 
 ## 評価
 
-ゲーム誌「[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")」の「クロスレビュー」では合計26点（満40点）\[3\]、「[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")」の読者投票による『ゲーム通信簿』での評価は以下の通りとなっており、17.60点（満25点）となっている\[4\]。
+ゲーム誌「[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")」の「クロスレビュー」では合計26点（満40点）\[3\]、「[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")」の読者投票による『ゲーム通信簿』での評価は以下の通りとなっており、17.60点（満25点）となっている\[4\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |

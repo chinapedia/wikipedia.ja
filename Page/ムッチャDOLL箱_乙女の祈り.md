@@ -1,7 +1,7 @@
 > この記事は[DOLL ](https://ja.wikipedia.org/wiki/DOLL_)から翻訳されています。
 
 
-『**ムッチャDOLL箱 乙女の祈り**』（ムッチャドールばこ おとめのいのり）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[よみうりテレビと](../Page/讀賣テレビ放送.md "wikilink")[中京テレビの](../Page/中京テレビ放送.md "wikilink")2局で放送された[特別番組](../Page/特別番組.md "wikilink")。番組の製作はよみうりテレビが担当。
+『**ムッチャDOLL箱 乙女の祈り**』（ムッチャドールばこ おとめのいのり）は、[2005年](../Page/2005年.md "wikilink")に[よみうりテレビと](../Page/讀賣テレビ放送.md "wikilink")[中京テレビの](../Page/中京テレビ放送.md "wikilink")2局で放送された[特別番組](../Page/特別番組.md "wikilink")。番組の製作はよみうりテレビが担当。
 
 ## 番組内容
 
@@ -12,7 +12,7 @@
   - [若槻千夏](https://ja.wikipedia.org/wiki/若槻千夏 "wikilink")
   - [小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")
   - [岩佐真悠子](https://ja.wikipedia.org/wiki/岩佐真悠子 "wikilink")
-  - [浜田翔子](https://ja.wikipedia.org/wiki/浜田翔子_\(タレント\) "wikilink")
+  - [浜田翔子](../Page/浜田翔子_\(タレント\).md "wikilink")
 
 ## 主なコーナー
 

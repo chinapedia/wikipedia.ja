@@ -159,7 +159,7 @@
 <li>Daytripper （<a href="../Page/ビートルズ.md" title="wikilink">The Beatles</a>） [0:58]</li>
 <li>Like A Virgin （<a href="https://ja.wikipedia.org/wiki/マドンナ_(歌手)" title="wikilink">Madonna</a>） [0:50]</li>
 <li>One More Time （<a href="../Page/ダフト・パンク.md" title="wikilink">Daft Punk</a>） [0:50]</li>
-<li>Getchoo （<a href="https://ja.wikipedia.org/wiki/ウィーザー" title="wikilink">Weezer</a>） [0:49]</li>
+<li>Getchoo （<a href="../Page/ウィーザー.md" title="wikilink">Weezer</a>） [0:49]</li>
 <li>Itsy Bitsy Teenie Yellow Polka Dot Bikini （<a href="https://ja.wikipedia.org/wiki/:en:Brian_Hyland" title="wikilink">Brian Hyland</a>） [0:55]</li>
 <li>Territorial Pissings （<a href="../Page/ニルヴァーナ_(アメリカ合衆国のバンド).md" title="wikilink">Nirvana</a>） [0:50]</li>
 <li>Buffalo Soldier （<a href="../Page/ボブ・マーリー.md" title="wikilink">Bob Marley</a>） [1:13]</li>
@@ -241,7 +241,7 @@
 <li>Right Here, Right Now [1:11]</li>
 <li>Shibuya PM5, Tonight [1:06]</li>
 <li>Dough Song [1:31]</li>
-<li>Ace Of Spades （<a href="https://ja.wikipedia.org/wiki/モーターヘッド" title="wikilink">Motorhead</a>） [1:32]</li>
+<li>Ace Of Spades （<a href="../Page/モーターヘッド.md" title="wikilink">Motorhead</a>） [1:32]</li>
 <li>Sick Boy （<a href="../Page/G.B.H._(バンド).md" title="wikilink">G.B.H.</a>） [0:58]</li>
 <li>Rise Above （<a href="https://ja.wikipedia.org/wiki/ブラック・フラッグ" title="wikilink">Black Flag</a>） [1:06]</li>
 <li>Shakedown [1:38]</li>

@@ -13,7 +13,7 @@
 
 しかし、2008-09シーズンは5戦連続負けなしなど一時的に浮上の兆しを見せたものの、シーズンを通じ下位に低迷。最終節の[ウェストハム戦に敗れると翌シーズンは](https://ja.wikipedia.org/wiki/ウェストハム・ユナイテッドFC "wikilink")1997-98シーズン以来、フットボールリーグ・チャンピオンシップで戦うことが決まった。
 
-2009-10シーズンは、2009年10月、サウスゲートが解任され、新監督に[ゴードン・ストラカン](../Page/ゴードン・ストラカン.md "wikilink")が就任。\[1\]サウスゲートが解任された時点では昇格圏内と勝ち点1差の4位に付けていた。\[2\]冬の移籍市場では[セルティック時代の教え子である](../Page/セルティックFC.md "wikilink")[スティーヴン・マクマナス](../Page/スティーヴン・マクマナス.md "wikilink")、[クリス・キレン](../Page/クリス・キレン.md "wikilink")などを獲得したが11位となり1年でのプレミアリーグ復帰はならなかった。2010-11シーズンも12位。2011-12シーズンは7位でプレミアリーグ復帰はならなかった。2012-13シーズンは16位、2013-14シーズンは12位、2014-15シーズンは4位（[プレーオフの末](https://ja.wikipedia.org/wiki/フットボールリーグ・プレーオフ2015 "wikilink")、3位・[ノリッジに敗戦](https://ja.wikipedia.org/wiki/ノリッジ・シティFC "wikilink")）だった。
+2009-10シーズンは、2009年10月、サウスゲートが解任され、新監督に[ゴードン・ストラカン](../Page/ゴードン・ストラカン.md "wikilink")が就任。\[1\]サウスゲートが解任された時点では昇格圏内と勝ち点1差の4位に付けていた。\[2\]冬の移籍市場では[セルティック時代の教え子である](../Page/セルティックFC.md "wikilink")[スティーヴン・マクマナス](../Page/スティーヴン・マクマナス.md "wikilink")、[クリス・キレン](../Page/クリス・キレン.md "wikilink")などを獲得したが11位となり1年でのプレミアリーグ復帰はならなかった。2010-11シーズンも12位。2011-12シーズンは7位でプレミアリーグ復帰はならなかった。2012-13シーズンは16位、2013-14シーズンは12位、2014-15シーズンは4位（[プレーオフの末](https://ja.wikipedia.org/wiki/フットボールリーグ・プレーオフ2015 "wikilink")、3位・[ノリッジに敗戦](../Page/ノリッジ・シティFC.md "wikilink")）だった。
 
 2015-16シーズンはホームでの最終節で[ブライトン・アンド・ホーヴ・アルビオンと](../Page/ブライトン・アンド・ホーヴ・アルビオンFC.md "wikilink")1-1で引き分け、2位でシーズンを終え、2008-09シーズン以来8年ぶりのプレミアリーグ昇格を果たした。
 
@@ -386,7 +386,7 @@
 
   - [マーク・シュワルツァー](../Page/マーク・シュワルツァー.md "wikilink")
 
-  - [ビクトル・バルデス](https://ja.wikipedia.org/wiki/ビクトル・バルデス "wikilink")
+  - [ビクトル・バルデス](../Page/ビクトル・バルデス.md "wikilink")
 
 ### DF
 
@@ -394,7 +394,7 @@
 
   - [アベル・シャビエル](https://ja.wikipedia.org/wiki/アベル・シャビエル "wikilink")
 
-  - [ミハエル・ライツィハー](https://ja.wikipedia.org/wiki/ミハエル・ライツィハー "wikilink")
+  - [ミハエル・ライツィハー](../Page/ミハエル・ライツィハー.md "wikilink")
 
   - [ブランコ](https://ja.wikipedia.org/wiki/クラウディオ・イブライム・バス・レアル "wikilink")
 
@@ -410,21 +410,21 @@
 
   - [ポール・ガスコイン](../Page/ポール・ガスコイン.md "wikilink")
 
-  - [ポール・インス](https://ja.wikipedia.org/wiki/ポール・インス "wikilink")
+  - [ポール・インス](../Page/ポール・インス.md "wikilink")
 
-  - [クリスティアン・カランブー](https://ja.wikipedia.org/wiki/クリスティアン・カランブー "wikilink")
+  - [クリスティアン・カランブー](../Page/クリスティアン・カランブー.md "wikilink")
 
-  - [クリスティアン・ツィーゲ](https://ja.wikipedia.org/wiki/クリスティアン・ツィーゲ "wikilink")
+  - [クリスティアン・ツィーゲ](../Page/クリスティアン・ツィーゲ.md "wikilink")
 
   - [ドリーバ](https://ja.wikipedia.org/wiki/ドリバル・ギドニ・ジュニオール "wikilink")
 
-  - [ジュニーニョ・パウリスタ](https://ja.wikipedia.org/wiki/ジュニーニョ・パウリスタ "wikilink")
+  - [ジュニーニョ・パウリスタ](../Page/ジュニーニョ・パウリスタ.md "wikilink")
 
-  - [ガイスカ・メンディエタ](https://ja.wikipedia.org/wiki/ガイスカ・メンディエタ "wikilink")
+  - [ガイスカ・メンディエタ](../Page/ガイスカ・メンディエタ.md "wikilink")
 
   - [リカルジーニョ](../Page/リカルド・ルイス・ポッズィ・ロドリゲス.md "wikilink")
 
-  - [ボウデヴィン・ゼンデン](https://ja.wikipedia.org/wiki/ボウデヴィン・ゼンデン "wikilink")
+  - [ボウデヴィン・ゼンデン](../Page/ボウデヴィン・ゼンデン.md "wikilink")
 
   - [ジョゼフ＝デジレ・ジョブ](../Page/ジョゼフ＝デジレ・ジョブ.md "wikilink")
 
@@ -438,17 +438,17 @@
 
   - [ファブリツィオ・ラバネッリ](https://ja.wikipedia.org/wiki/ファブリツィオ・ラバネッリ "wikilink")
 
-  - [アレン・ボクシッチ](https://ja.wikipedia.org/wiki/アレン・ボクシッチ "wikilink")
+  - [アレン・ボクシッチ](../Page/アレン・ボクシッチ.md "wikilink")
 
   - [ジミー・フロイド・ハッセルバインク](../Page/ジミー・フロイド・ハッセルバインク.md "wikilink")
 
   - [ハミルトン・リカルド](../Page/ハミルトン・リカルド.md "wikilink")
 
-  - [マーク・ヴィドゥカ](https://ja.wikipedia.org/wiki/マーク・ヴィドゥカ "wikilink")
+  - [マーク・ヴィドゥカ](../Page/マーク・ヴィドゥカ.md "wikilink")
 
   - [シラールド・ネーメト](https://ja.wikipedia.org/wiki/シラールド・ネーメト "wikilink")
 
-  - [李同国](https://ja.wikipedia.org/wiki/李同国 "wikilink")
+  - [李同国](../Page/李同国.md "wikilink")
 
   - [トゥンジャイ・シャンル](../Page/トゥンジャイ・シャンル.md "wikilink")
 

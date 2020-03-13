@@ -349,7 +349,7 @@
 <td><p>1968-69</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1968-69" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>2-0</p></td>
 <td><p>1-3</p></td>
 <td><p>'''3-3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
@@ -407,7 +407,7 @@
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レッドスター・ベオグラード" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
+<td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''1-2</p></td>
@@ -508,7 +508,7 @@
 
 ### DF
 
-  - [ダニー・ガビドン](https://ja.wikipedia.org/wiki/ダニー・ガビドン "wikilink") 1998 - 2000
+  - [ダニー・ガビドン](../Page/ダニー・ガビドン.md "wikilink") 1998 - 2000
 
   - [コスミン・コントラ](https://ja.wikipedia.org/wiki/コスミン・コントラ "wikilink") 2004 - 2005
 
@@ -538,7 +538,7 @@
 
   - [ジェイソン・クーマス](../Page/ジェイソン・クーマス.md "wikilink") 2002 - 2007
 
-  - [マーク・キンセラ](https://ja.wikipedia.org/wiki/マーク・キンセラ "wikilink") 2003 - 2004
+  - [マーク・キンセラ](../Page/マーク・キンセラ.md "wikilink") 2003 - 2004
 
   - [稲本潤一](../Page/稲本潤一.md "wikilink") 2004
 
@@ -574,7 +574,7 @@
 
   - [ネイサン・エリントン](../Page/ネイサン・エリントン.md "wikilink") 2005 - 2007
 
-  - [ジョン・ハートソン](https://ja.wikipedia.org/wiki/ジョン・ハートソン "wikilink") 2006 - 2007
+  - [ジョン・ハートソン](../Page/ジョン・ハートソン.md "wikilink") 2006 - 2007
 
   - [クレイグ・ビーティ](../Page/クレイグ・ビーティ.md "wikilink") 2007 - 2009
 
@@ -582,7 +582,7 @@
 
   - [ピーター・オデムウィンギー](https://ja.wikipedia.org/wiki/ピーター・オデムウィンギー "wikilink") 2010 - 2013
 
-  - [ニコラ・アネルカ](https://ja.wikipedia.org/wiki/ニコラ・アネルカ "wikilink") 2013 - 2014
+  - [ニコラ・アネルカ](../Page/ニコラ・アネルカ.md "wikilink") 2013 - 2014
 
   - [ヴィクター・アニチェベ](https://ja.wikipedia.org/wiki/ヴィクター・アニチェベ "wikilink") 2013 - 2016
 

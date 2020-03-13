@@ -622,7 +622,7 @@
 
   - [サイモン・チャールトン](https://ja.wikipedia.org/wiki/サイモン・チャールトン "wikilink") 2004 - 2006
 
-  - [ギャリー・ドハーティ](https://ja.wikipedia.org/wiki/ギャリー・ドハーティ "wikilink") 2004 - 2010
+  - [ギャリー・ドハーティ](../Page/ギャリー・ドハーティ.md "wikilink") 2004 - 2010
 
   - [カラム・ダヴェンポート](../Page/カラム・ダヴェンポート.md "wikilink") 2005 - 2006
 
@@ -686,7 +686,7 @@
 
   - [ダヴィド・ストリハフカ](https://ja.wikipedia.org/wiki/ダヴィド・ストリハフカ "wikilink") 2007
 
-  - [ジョン・ハートソン](https://ja.wikipedia.org/wiki/ジョン・ハートソン "wikilink") 2007
+  - [ジョン・ハートソン](../Page/ジョン・ハートソン.md "wikilink") 2007
 
   - [グラント・ホルト](https://ja.wikipedia.org/wiki/グラント・ホルト "wikilink") 2009-2013
 

@@ -301,7 +301,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・デ・ブール" title="wikilink">フランク・デ・ブール</a></p></td>
+<td><p><a href="../Page/フランク・デ・ブール.md" title="wikilink">フランク・デ・ブール</a></p></td>
 <td><p>2017年6月26日</p></td>
 <td><p>2017年9月11日 </p></td>
 <td></td>
@@ -339,7 +339,7 @@
 
     [ギャレス・サウスゲイト](https://ja.wikipedia.org/wiki/ギャレス・サウスゲイト "wikilink") 1989-1995
 
-    [アシュリー・コール](https://ja.wikipedia.org/wiki/アシュリー・コール "wikilink") 1999-2000
+    [アシュリー・コール](../Page/アシュリー・コール.md "wikilink") 1999-2000
 
     [トニー・ポポヴィッチ](../Page/トニー・ポポヴィッチ.md "wikilink") 2001-2006
 

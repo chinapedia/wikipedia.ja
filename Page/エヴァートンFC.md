@@ -1,7 +1,7 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**エヴァートン・フットボール・クラブ**（*Everton Football Club*, <small>[イギリス英語](https://ja.wikipedia.org/wiki/イギリス英語 "wikilink")発音</small>：）は、[イングランド](../Page/イングランド.md "wikilink")・[リヴァプール](../Page/リヴァプール.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[青](../Page/赤.md "wikilink")。愛称は**トフィーズ**（*The Toffees，*）。
+**エヴァートン・フットボール・クラブ**（*Everton Football Club*, <small>[イギリス英語](../Page/イギリス英語.md "wikilink")発音</small>：）は、[イングランド](../Page/イングランド.md "wikilink")・[リヴァプール](../Page/リヴァプール.md "wikilink")をホームタウンとする、イングランドプロサッカーリーグ（[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")）に加盟するプロサッカークラブ。クラブカラーは[青](../Page/赤.md "wikilink")。愛称は**トフィーズ**（*The Toffees，*）。
 
 ## 概要
 
@@ -21,15 +21,15 @@
 
 2012-13シーズンまでに国内最多の110シーズン、トップリーグに所属し続けている。1980年代までは9度のリーグ制覇を含め、数多くのタイトルを獲得したイングランドフットボール界を代表する古豪クラブの一角であったが、1992年の[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")発足以降は概ね中堅の地位に甘んじている。
 
-2017-18シーズンはエースである[ロメル・ルカク](https://ja.wikipedia.org/wiki/ロメル・ルカク "wikilink")が[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")に移籍したことを受け大型補強を敢行。13年ぶりに[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")が復帰し、他にも[デイヴィ・クラーセン](https://ja.wikipedia.org/wiki/デイヴィ・クラーセン "wikilink")、[マイケル・キーン](https://ja.wikipedia.org/wiki/マイケル・キーン_\(1993年生のサッカー選手\) "wikilink")、[ジョーダン・ピックフォード](https://ja.wikipedia.org/wiki/ジョーダン・ピックフォード "wikilink")、[サンドロ・ラミレス](https://ja.wikipedia.org/wiki/サンドロ・ラミレス "wikilink")らを獲得した。しかし[アシュリー・ウィリアムズや移籍してきたキーン](https://ja.wikipedia.org/wiki/アシュリー・ウィリアムズ_\(サッカー選手\) "wikilink")、左サイドバックの不足から、本職でないポジションでプレーさせられた[クコ・マルティナ](https://ja.wikipedia.org/wiki/クコ・マルティナ "wikilink")をはじめとするディフェンス陣やシグルズソン、シュネデルランの不調、プレミアリーグ初挑戦となるサンドロやクラーセンがイングランドのサッカーに順応出来なかったことに加え得点力不足に悩んだ。結果リーグ戦及び[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")では成績が振るわず、プレミアリーグ第9節終了後、[ロナルド・クーマン](https://ja.wikipedia.org/wiki/ロナルド・クーマン "wikilink")監督を解任、デイヴィッド・アンスワース暫定監督を経て、残留請負人と名高い[サム・アラダイス](../Page/サム・アラダイス.md "wikilink")監督を招聘した。冬の移籍期間で[ベジクタシュ](https://ja.wikipedia.org/wiki/ベジクタシュ "wikilink")から[ジェンク・トスン](https://ja.wikipedia.org/wiki/ジェンク・トスン "wikilink")を、[アーセナルから](../Page/アーセナルFC.md "wikilink")[セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink")を獲得し、彼らの活躍もあって最終的に8位でリーグ戦を終えたが、あくまで “残留” を目標とするアラダイス監督は、強豪チーム相手に勝ちにいかず、引き分けを狙う守備的な戦術に徹したり、若手起用に消極的だった。それが故に、ファンのみならず選手からも不満の念を抱かれてしまい（[アデモラ・ルックマン](https://ja.wikipedia.org/wiki/アデモラ・ルックマン "wikilink")が[RBライプツィヒ](https://ja.wikipedia.org/wiki/RBライプツィヒ "wikilink")にレンタル移籍した等）、シーズン終了後に解任された。また補強選手の多くが活躍できなかったこともあり、フットボールディレクターのスティーブ・ウォルシュも共に解任された。
+2017-18シーズンはエースである[ロメル・ルカク](https://ja.wikipedia.org/wiki/ロメル・ルカク "wikilink")が[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")に移籍したことを受け大型補強を敢行。13年ぶりに[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")が復帰し、他にも[デイヴィ・クラーセン](https://ja.wikipedia.org/wiki/デイヴィ・クラーセン "wikilink")、[マイケル・キーン](https://ja.wikipedia.org/wiki/マイケル・キーン_\(1993年生のサッカー選手\) "wikilink")、[ジョーダン・ピックフォード](https://ja.wikipedia.org/wiki/ジョーダン・ピックフォード "wikilink")、[サンドロ・ラミレス](https://ja.wikipedia.org/wiki/サンドロ・ラミレス "wikilink")らを獲得した。しかし[アシュリー・ウィリアムズや移籍してきたキーン](https://ja.wikipedia.org/wiki/アシュリー・ウィリアムズ_\(サッカー選手\) "wikilink")、左サイドバックの不足から、本職でないポジションでプレーさせられた[クコ・マルティナ](https://ja.wikipedia.org/wiki/クコ・マルティナ "wikilink")をはじめとするディフェンス陣やシグルズソン、シュネデルランの不調、プレミアリーグ初挑戦となるサンドロやクラーセンがイングランドのサッカーに順応出来なかったことに加え得点力不足に悩んだ。結果リーグ戦及び[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")では成績が振るわず、プレミアリーグ第9節終了後、[ロナルド・クーマン](../Page/ロナルド・クーマン.md "wikilink")監督を解任、デイヴィッド・アンスワース暫定監督を経て、残留請負人と名高い[サム・アラダイス](../Page/サム・アラダイス.md "wikilink")監督を招聘した。冬の移籍期間で[ベジクタシュ](https://ja.wikipedia.org/wiki/ベジクタシュ "wikilink")から[ジェンク・トスン](https://ja.wikipedia.org/wiki/ジェンク・トスン "wikilink")を、[アーセナルから](../Page/アーセナルFC.md "wikilink")[セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink")を獲得し、彼らの活躍もあって最終的に8位でリーグ戦を終えたが、あくまで “残留” を目標とするアラダイス監督は、強豪チーム相手に勝ちにいかず、引き分けを狙う守備的な戦術に徹したり、若手起用に消極的だった。それが故に、ファンのみならず選手からも不満の念を抱かれてしまい（[アデモラ・ルックマン](https://ja.wikipedia.org/wiki/アデモラ・ルックマン "wikilink")が[RBライプツィヒ](https://ja.wikipedia.org/wiki/RBライプツィヒ "wikilink")にレンタル移籍した等）、シーズン終了後に解任された。また補強選手の多くが活躍できなかったこともあり、フットボールディレクターのスティーブ・ウォルシュも共に解任された。
 
-2018-19シーズンは前シーズンからの立て直しを図り、[マルコ・シウバ](https://ja.wikipedia.org/wiki/マルコ・シウバ "wikilink")新監督を筆頭に、フットボールディレクターに[PSVで様々な有力選手を発掘してきたマルセル](https://ja.wikipedia.org/wiki/PSVアイントホーフェン "wikilink")・ブランズを据え、短期的ではなく長期的な視野でチーム力を上げることを目標に若手選手を中心にチームの補強ポイントを的確に補強していった。このような方針から[ワトフォードから](../Page/ワトフォードFC.md "wikilink")[リシャルリソン](https://ja.wikipedia.org/wiki/リシャルリソン・デ・アンドラーデ "wikilink")、[バルセロナから](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")[リュカ・ディニュ](https://ja.wikipedia.org/wiki/リュカ・ディニュ "wikilink")、[ジェリー・ミナ](https://ja.wikipedia.org/wiki/ジェリー・ミナ "wikilink")、レンタルで[アンドレ・ゴメス](https://ja.wikipedia.org/wiki/アンドレ・ゴメス "wikilink")、[シャフタール・ドネツク](https://ja.wikipedia.org/wiki/シャフタール・ドネツク "wikilink")から[ベルナルジ](https://ja.wikipedia.org/wiki/ベルナルジ・アニシオ・カルデイラ・ドゥアルテ "wikilink")、[チェルシーからレンタルで](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[クル・ズマ](https://ja.wikipedia.org/wiki/クル・ズマ "wikilink")を獲得。第6節まではたった1勝とシウバ監督の戦術が中々浸透しなかったものの、徐々に監督の哲学が浸透していくとチームの調子も上向いていった。補強した選手のほぼ全員が好パフォーマンスを見せ、第12節を終えてミナを除く上記の選手がスタメンに名を連ねる機会が多くなっている。一方のミナもリーグ戦初出場となった第12節のチェルシー戦でマン・オブ・ザ・マッチに選出されるなどして活躍した。また、昨季低調なパフォーマンスに終始したキーンやシグルズソンも好調を維持し、結果としてリシャルリソンはブラジル代表に初めて選出、キーンはイングランド代表に、ズマとディニュはフランス代表に復帰することができた。
+2018-19シーズンは前シーズンからの立て直しを図り、[マルコ・シウバ](https://ja.wikipedia.org/wiki/マルコ・シウバ "wikilink")新監督を筆頭に、フットボールディレクターに[PSVで様々な有力選手を発掘してきたマルセル](../Page/PSVアイントホーフェン.md "wikilink")・ブランズを据え、短期的ではなく長期的な視野でチーム力を上げることを目標に若手選手を中心にチームの補強ポイントを的確に補強していった。このような方針から[ワトフォードから](../Page/ワトフォードFC.md "wikilink")[リシャルリソン](https://ja.wikipedia.org/wiki/リシャルリソン・デ・アンドラーデ "wikilink")、[バルセロナから](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")[リュカ・ディニュ](https://ja.wikipedia.org/wiki/リュカ・ディニュ "wikilink")、[ジェリー・ミナ](https://ja.wikipedia.org/wiki/ジェリー・ミナ "wikilink")、レンタルで[アンドレ・ゴメス](https://ja.wikipedia.org/wiki/アンドレ・ゴメス "wikilink")、[シャフタール・ドネツク](https://ja.wikipedia.org/wiki/シャフタール・ドネツク "wikilink")から[ベルナルジ](https://ja.wikipedia.org/wiki/ベルナルジ・アニシオ・カルデイラ・ドゥアルテ "wikilink")、[チェルシーからレンタルで](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[クル・ズマ](https://ja.wikipedia.org/wiki/クル・ズマ "wikilink")を獲得。第6節まではたった1勝とシウバ監督の戦術が中々浸透しなかったものの、徐々に監督の哲学が浸透していくとチームの調子も上向いていった。補強した選手のほぼ全員が好パフォーマンスを見せ、第12節を終えてミナを除く上記の選手がスタメンに名を連ねる機会が多くなっている。一方のミナもリーグ戦初出場となった第12節のチェルシー戦でマン・オブ・ザ・マッチに選出されるなどして活躍した。また、昨季低調なパフォーマンスに終始したキーンやシグルズソンも好調を維持し、結果としてリシャルリソンはブラジル代表に初めて選出、キーンはイングランド代表に、ズマとディニュはフランス代表に復帰することができた。
 
 ## エピソード
 
   - 同じ[マージーサイド](../Page/マージーサイド.md "wikilink")州・[リヴァプール](../Page/リヴァプール.md "wikilink")に本拠を置く[リヴァプールFC](../Page/リヴァプールFC.md "wikilink")とはライバル関係にある。両クラブの試合は「[マージーサイド・ダービー](../Page/マージーサイド・ダービー.md "wikilink")」と呼ばれ、[マンチェスター・ダービー](../Page/マンチェスター・ダービー.md "wikilink")、[ノース・ロンドン・ダービー](../Page/ノース・ロンドン・ダービー.md "wikilink")、[タイン・ウェア・ダービー](../Page/タイン・ウェア・ダービー.md "wikilink")などと並びイングランドでも最も盛り上がる[ダービーマッチ](../Page/ダービーマッチ.md "wikilink")の一つである。
   - リヴァプール出身の[ビートルズ](../Page/ビートルズ.md "wikilink")のメンバーがエヴァートンファンであるか、リヴァプールファンであるかは謎とされ、長年論争の的となってきた\[2\]。ただ、少なくとも[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")は自身がエヴァートンのファンであることを言明している\[3\]。また、ビートルズ解散後に発表された[青盤と](../Page/ザ・ビートルズ1967年〜1970年.md "wikilink")[赤盤は](../Page/ザ・ビートルズ1962年〜1966年.md "wikilink")、それぞれエヴァートンとリヴァプールのチームカラーをモチーフとしている\[4\]。
-  - イギリス人映画監督の[ケン・ローチ](https://ja.wikipedia.org/wiki/ケン・ローチ "wikilink")は、サッカーを扱った作品を2本撮っているが、そのうちの1本は労働者階級のエヴァートンのサポーターを描いた[テレビ映画](https://ja.wikipedia.org/wiki/テレビ映画 "wikilink")「[ザ・ゴールデン・ビジョン](https://ja.wikipedia.org/wiki/ザ・ゴールデン・ビジョン "wikilink")」である。
+  - イギリス人映画監督の[ケン・ローチ](../Page/ケン・ローチ.md "wikilink")は、サッカーを扱った作品を2本撮っているが、そのうちの1本は労働者階級のエヴァートンのサポーターを描いた[テレビ映画](../Page/テレビ映画.md "wikilink")「[ザ・ゴールデン・ビジョン](https://ja.wikipedia.org/wiki/ザ・ゴールデン・ビジョン "wikilink")」である。
 
 ## タイトル
 
@@ -612,7 +612,7 @@
 <td><p>1965-66</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ1965-66" title="wikilink">インターシティーズ・フェアーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCニュルンベルク" title="wikilink">ニュルンベルク</a></p></td>
+<td><p><a href="../Page/1.FCニュルンベルク.md" title="wikilink">ニュルンベルク</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–1</p></td>
 <td><p>'''2–1</p></td>
@@ -660,7 +660,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルシア・メンヒェングラートバッハ" title="wikilink">ボルシアMG</a></p></td>
+<td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシアMG</a></p></td>
 <td><p>1–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''2–2<br />
@@ -761,7 +761,7 @@
 </tr>
 <tr class="odd">
 <td><p>決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/SKラピード・ウィーン" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>colspan="2" style="background-color:#CFF" align="center" </p></td>
 <td><p>'''3–1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
@@ -821,7 +821,7 @@
 </tr>
 <tr class="odd">
 <td><p>グループA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/1.FCニュルンベルク" title="wikilink">ニュルンベルク</a></p></td>
+<td><p><a href="../Page/1.FCニュルンベルク.md" title="wikilink">ニュルンベルク</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>2-0</p></td>
 <td><p>'''1位</p></td>
@@ -840,7 +840,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZ</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>3-2</p></td>
 <td></td>
@@ -944,7 +944,7 @@
 <td><p>2014-15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/VfLヴォルフスブルク" title="wikilink">ヴォルフスブルク</a></p></td>
+<td><p><a href="../Page/VfLヴォルフスブルク.md" title="wikilink">ヴォルフスブルク</a></p></td>
 <td><p>4–1</p></td>
 <td><p>2–0</p></td>
 <td><p>'''1位</p></td>
@@ -961,7 +961,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/LOSCリール・メトロポール" title="wikilink">リール</a></p></td>
+<td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">リール</a></p></td>
 <td><p>3–0</p></td>
 <td><p>0–0</p></td>
 <td></td>
@@ -982,7 +982,7 @@
 </tr>
 <tr class="odd">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>2–5</p></td>
 <td><p>'''4–6</p></td>
@@ -1012,7 +1012,7 @@
 </tr>
 <tr class="even">
 <td><p>グループE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アタランタBC" title="wikilink">アタランタ</a></p></td>
+<td><p><a href="../Page/アタランタBC.md" title="wikilink">アタランタ</a></p></td>
 <td><p>1-5</p></td>
 <td><p>0-3</p></td>
 <td><p>'''3位</p></td>
@@ -1094,7 +1094,7 @@
 <td><p>2017.11.30 - 2018.05.16</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ロナルド・クーマン" title="wikilink">ロナルド・クーマン</a></p></td>
+<td><p><a href="../Page/ロナルド・クーマン.md" title="wikilink">ロナルド・クーマン</a></p></td>
 <td></td>
 <td><p>2016.06.14 - 2017.10.23</p></td>
 </tr>
@@ -1185,7 +1185,7 @@
 
   - [ジョン・ラディ](https://ja.wikipedia.org/wiki/ジョン・ラディ "wikilink") 2005 - 2010
 
-  - [ティム・ハワード](https://ja.wikipedia.org/wiki/ティム・ハワード "wikilink") 2006 - 2007,2007 - 2016
+  - [ティム・ハワード](../Page/ティム・ハワード.md "wikilink") 2006 - 2007,2007 - 2016
 
   - [カルロ・ナッシュ](https://ja.wikipedia.org/wiki/カルロ・ナッシュ "wikilink") 2008 - 2010
 
@@ -1277,7 +1277,7 @@
 
   - [サイモン・デイヴィス](../Page/サイモン・デイヴィス.md "wikilink") 2005 - 2007
 
-  - [アンディ・ファン・デル・メイデ](https://ja.wikipedia.org/wiki/アンディ・ファン・デル・メイデ "wikilink") 2005 - 2009
+  - [アンディ・ファン・デル・メイデ](../Page/アンディ・ファン・デル・メイデ.md "wikilink") 2005 - 2009
 
   - [ミケル・アルテタ](../Page/ミケル・アルテタ.md "wikilink") 2005 - 2011
 
@@ -1305,7 +1305,7 @@
 
   - [ゲーリー・リネカー](../Page/ゲーリー・リネカー.md "wikilink") 1985 - 1986
 
-  - [ダニエル・アモカチ](https://ja.wikipedia.org/wiki/ダニエル・アモカチ "wikilink") 1994 - 1996
+  - [ダニエル・アモカチ](../Page/ダニエル・アモカチ.md "wikilink") 1994 - 1996
 
   - [ケビン・キャンベル](https://ja.wikipedia.org/wiki/ケビン・キャンベル "wikilink") 1999 - 2005
 
@@ -1335,7 +1335,7 @@
 
   - [ヤクブ・アイェグベニ](../Page/ヤクブ・アイェグベニ.md "wikilink") 2007 - 2011
 
-  - [ルイ・サハ](https://ja.wikipedia.org/wiki/ルイ・サハ "wikilink") 2008 - 2012
+  - [ルイ・サハ](../Page/ルイ・サハ.md "wikilink") 2008 - 2012
 
   - [キーラン・アガード](https://ja.wikipedia.org/wiki/キーラン・アガード "wikilink") 2008 - 2011
 

@@ -1,7 +1,7 @@
 > この記事は[ALL JAPAN SUPER COUNT DOWN](https://ja.wikipedia.org/wiki/ALL_JAPAN_SUPER_COUNT_DOWN)から翻訳されています。
 
 
-**ALL JAPAN SUPER COUNTDOWN**（オールジャパンスーパーカウントダウン）は、[2003年](../Page/2003年.md "wikilink")4月から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")までの毎週日曜、12時55分～18時（[プロ野球](../Page/プロ野球.md "wikilink")シーズンは16時から21時まで）に[NACK5で放送していた](../Page/エフエムナックファイブ.md "wikilink")[カウントダウン](../Page/カウントダウン.md "wikilink")[音楽](../Page/音楽.md "wikilink")番組である。
+**ALL JAPAN SUPER COUNTDOWN**（オールジャパンスーパーカウントダウン）は、[2003年](../Page/2003年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")までの毎週日曜、12時55分～18時（[プロ野球](../Page/プロ野球.md "wikilink")シーズンは16時から21時まで）に[NACK5で放送していた](../Page/エフエムナックファイブ.md "wikilink")[カウントダウン](../Page/カウントダウン.md "wikilink")[音楽](../Page/音楽.md "wikilink")番組である。
 
 ## 概要
 

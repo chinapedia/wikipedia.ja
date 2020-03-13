@@ -11,7 +11,7 @@
 
 [1988年](../Page/1988年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")放送開始。20年を超える[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")で、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")の放送分（『CBSドキュメント』としての最終回）の時点で1009回を数える 。
 
-放送時間は、当初は、[日曜日](../Page/日曜日.md "wikilink")の深夜（[月曜日](../Page/月曜日.md "wikilink")未明）に放送されていた。その後、[金曜日](../Page/金曜日.md "wikilink")の深夜（[土曜日](../Page/土曜日.md "wikilink")未明）に移ったあと、2006年4月から現在の[水曜日](../Page/水曜日.md "wikilink")の深夜（[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")未明）に放送されていた。
+放送時間は、当初は、[日曜日](../Page/日曜日.md "wikilink")の深夜（[月曜日](../Page/月曜日.md "wikilink")未明）に放送されていた。その後、[金曜日](../Page/金曜日.md "wikilink")の深夜（[土曜日](../Page/土曜日.md "wikilink")未明）に移ったあと、2006年4月から現在の[水曜日](../Page/水曜日.md "wikilink")の深夜（[木曜日](../Page/木曜日.md "wikilink")未明）に放送されていた。
 
 また、地上波より数カ月遅れ（2009年12月の時点では約1カ月遅れ）であったが、[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")でも放送されていた。2010年1月から地上波での放送が月2回に減ったことによって、同年2月にはニュースバードでの放送がほぼ地上波に追いついていた。
 
@@ -19,7 +19,7 @@
 
 内容はCBSの『[60 Minutes](../Page/60_Minutes.md "wikilink")』の日本語版放送を主とするが、まれに『[48 Hours](../Page/48_Hours.md "wikilink")』を放映することがある（『48 Hours』は1990年代まで水曜深夜に『新アメリカ紀行』『ドキュメントUSA』などのタイトルで独立枠として放映していた時期もあった）。
 
-[1994年](../Page/1994年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")深夜の放送は、旧テレビ局舎から送出される最後の番組となった。その後に放送されていた『[世界かれいどすこうぷ](https://ja.wikipedia.org/wiki/世界かれいどすこうぷ "wikilink")』などの通常番組を休止し、[3日午前](../Page/10月3日.md "wikilink")1時15分から[クロージング映像のあと](../Page/局名告知.md "wikilink")、「現在のテレビ局舎（旧社屋）からの放送を終え、翌朝から新放送センター（つまり現在の社屋）からの放送となる」旨の静止画像の告知が放送されて[カラーバー](https://ja.wikipedia.org/wiki/カラーバー "wikilink")映像を経て停波し、TBSテレビの開局から40年近く続いた旧テレビ局舎からの放送を終えた。
+[1994年](../Page/1994年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")深夜の放送は、旧テレビ局舎から送出される最後の番組となった。その後に放送されていた『[世界かれいどすこうぷ](https://ja.wikipedia.org/wiki/世界かれいどすこうぷ "wikilink")』などの通常番組を休止し、[3日午前](../Page/10月3日.md "wikilink")1時15分から[クロージング映像のあと](../Page/局名告知.md "wikilink")、「現在のテレビ局舎（旧社屋）からの放送を終え、翌朝から新放送センター（つまり現在の社屋）からの放送となる」旨の静止画像の告知が放送されて[カラーバー](../Page/カラーバー.md "wikilink")映像を経て停波し、TBSテレビの開局から40年近く続いた旧テレビ局舎からの放送を終えた。
 
 2010年3月に21年半続いた地上波・TBSテレビでの放送を終了し、バラカンと吉川が番組存続を訴えつつ終了となる異例の最終回となった。放送終了に伴い一部視聴者を中心に番組復活を願う電子署名活動が[署名TV](https://ja.wikipedia.org/wiki/署名TV "wikilink")で開始され、[Facebook](../Page/Facebook.md "wikilink")内にもグループが設立された（グループメンバーにはバラカン、佐々木かをりが参加）。同年3月30日付の[読売新聞](../Page/読売新聞.md "wikilink")（東京本社管内）朝刊でも番組終了を残念がる記事が掲載され、同年4月13日にトーク・ライブイベント（会場：阿佐ヶ谷LOFT A、バラカンが参加）が開催された。
 
@@ -66,7 +66,7 @@
 
 ※番組に参加したTBSアナウンサーを紹介（TBS入社順。退社者を含む）。
 
-  - [宇野淑子](../Page/宇野淑子.md "wikilink")、[林美雄](../Page/林美雄.md "wikilink")、[宮内鎮雄](https://ja.wikipedia.org/wiki/宮内鎮雄 "wikilink")、[近藤美矩](../Page/近藤美矩.md "wikilink")、[鈴木順](https://ja.wikipedia.org/wiki/鈴木順 "wikilink")、吉川美代子、[柴田秀一](../Page/柴田秀一.md "wikilink")、[浦口直樹](https://ja.wikipedia.org/wiki/浦口直樹 "wikilink")、[岡崎潤司](../Page/岡崎潤司.md "wikilink")、[戸田恵美子](../Page/戸田恵美子.md "wikilink")、[向井政生](../Page/向井政生.md "wikilink")、[有村美香](../Page/有村美香.md "wikilink")、[秋沢淳子](../Page/秋沢淳子.md "wikilink")、[伊藤隆太](../Page/伊藤隆太.md "wikilink")、[高野貴裕](../Page/高野貴裕.md "wikilink")、[蓮見孝之](../Page/蓮見孝之.md "wikilink")
+  - [宇野淑子](../Page/宇野淑子.md "wikilink")、[林美雄](../Page/林美雄.md "wikilink")、[宮内鎮雄](../Page/宮内鎮雄.md "wikilink")、[近藤美矩](../Page/近藤美矩.md "wikilink")、[鈴木順](../Page/鈴木順.md "wikilink")、吉川美代子、[柴田秀一](../Page/柴田秀一.md "wikilink")、[浦口直樹](../Page/浦口直樹.md "wikilink")、[岡崎潤司](../Page/岡崎潤司.md "wikilink")、[戸田恵美子](../Page/戸田恵美子.md "wikilink")、[向井政生](../Page/向井政生.md "wikilink")、[有村美香](../Page/有村美香.md "wikilink")、[秋沢淳子](../Page/秋沢淳子.md "wikilink")、[伊藤隆太](../Page/伊藤隆太.md "wikilink")、[高野貴裕](../Page/高野貴裕.md "wikilink")、[蓮見孝之](../Page/蓮見孝之.md "wikilink")
 
 以上、TBSアナウンサー名鑑（2002年 - 2009年版）での掲載データに基づく。
 
@@ -139,7 +139,7 @@
 
 ## エピソード
 
-  - [NHKの](../Page/NHK総合テレビジョン.md "wikilink")『[サラリーマンNEO](../Page/サラリーマンNEO.md "wikilink")』で「NEOドキュメント」としてパロディ化された。バラカンが本人役と記者役、[宮崎美子](../Page/宮崎美子.md "wikilink")が[吉川美代子](../Page/吉川美代子.md "wikilink")役を演じ、TBSのOBである[宮内鎮雄](https://ja.wikipedia.org/wiki/宮内鎮雄 "wikilink")がナレーションを担当した。
+  - [NHKの](../Page/NHK総合テレビジョン.md "wikilink")『[サラリーマンNEO](../Page/サラリーマンNEO.md "wikilink")』で「NEOドキュメント」としてパロディ化された。バラカンが本人役と記者役、[宮崎美子](../Page/宮崎美子.md "wikilink")が[吉川美代子](../Page/吉川美代子.md "wikilink")役を演じ、TBSのOBである[宮内鎮雄](../Page/宮内鎮雄.md "wikilink")がナレーションを担当した。
 
 ## 出典
 

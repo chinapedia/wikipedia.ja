@@ -7,7 +7,7 @@
 
 主な獲得タイトルは1976年の[FAカップ](../Page/FAカップ.md "wikilink")優勝のみで、リーグ戦の最高順位は1983-84シーズンの2位である。ホームグラウンドは[セント・メリーズ・スタジアム](https://ja.wikipedia.org/wiki/セント・メリーズ・スタジアム "wikilink")（収容人数32,505人）。2001年に旧ホームグラウンドの[ザ・デルから移転した](../Page/ザ・デル_\(サウサンプトン\).md "wikilink")。
 
-アカデミー（ユース組織）には定評があり、これまで、[セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink")、[アダム・ララーナ](https://ja.wikipedia.org/wiki/アダム・ララーナ "wikilink")、[アレックス・オックスレイド＝チェンバレン](https://ja.wikipedia.org/wiki/アレックス・チェンバレン "wikilink")（いずれも[イングランド代表](../Page/サッカーイングランド代表.md "wikilink")）、[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")（[ウェールズ代表](../Page/サッカーウェールズ代表.md "wikilink")）、[クリス・ベアード](../Page/クリス・ベアード.md "wikilink")（[北アイルランド代表](../Page/サッカー北アイルランド代表.md "wikilink")）をはじめ、[ウェイン・ブリッジ](https://ja.wikipedia.org/wiki/ウェイン・ブリッジ "wikilink")（元[イングランド代表](../Page/サッカーイングランド代表.md "wikilink")）、アンドリュー・サーマン（元U-21[イングランド代表](../Page/サッカーイングランド代表.md "wikilink")）、ネイサン・ダイアーなどといった有望な選手を輩出していることで知られる。また、[ニューカッスル・ユナイテッドの英雄で元](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")[イングランド代表の](../Page/サッカーイングランド代表.md "wikilink")[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")もサウサンプトンのユース出身である。
+アカデミー（ユース組織）には定評があり、これまで、[セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink")、[アダム・ララーナ](https://ja.wikipedia.org/wiki/アダム・ララーナ "wikilink")、[アレックス・オックスレイド＝チェンバレン](https://ja.wikipedia.org/wiki/アレックス・チェンバレン "wikilink")（いずれも[イングランド代表](../Page/サッカーイングランド代表.md "wikilink")）、[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")（[ウェールズ代表](../Page/サッカーウェールズ代表.md "wikilink")）、[クリス・ベアード](../Page/クリス・ベアード.md "wikilink")（[北アイルランド代表](../Page/サッカー北アイルランド代表.md "wikilink")）をはじめ、[ウェイン・ブリッジ](../Page/ウェイン・ブリッジ.md "wikilink")（元[イングランド代表](../Page/サッカーイングランド代表.md "wikilink")）、アンドリュー・サーマン（元U-21[イングランド代表](../Page/サッカーイングランド代表.md "wikilink")）、ネイサン・ダイアーなどといった有望な選手を輩出していることで知られる。また、[ニューカッスル・ユナイテッドの英雄で元](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")[イングランド代表の](../Page/サッカーイングランド代表.md "wikilink")[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")もサウサンプトンのユース出身である。
 
 ## 歴史
 
@@ -29,11 +29,11 @@
 
 1990年代には成績がやや低迷したが、その中で活躍したのがクラブのレジェンド、[マット・ル・ティシエ](../Page/マット・ル・ティシエ.md "wikilink")であった。ル・ティシエは、1986年のデビュー以来、2002年の引退までサウサンプトン一筋で活躍して209ゴールを挙げ、"Le God"と呼ばれた\[3\]。
 
-2000年代に入り、2001年8月にホームスタジアムを103年間使用した[ザ・デルから](../Page/ザ・デル_\(サウサンプトン\).md "wikilink")[セント・メリーズ・スタジアム](https://ja.wikipedia.org/wiki/セント・メリーズ・スタジアム "wikilink")に移転した。2002-03シーズンには[FAカップ](../Page/FAカップ.md "wikilink")で準優勝し、翌2003-04シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")に出場した。しかし、2004-05シーズンは成績が振るわず、2004年12月には前月にライバルチームの[ポーツマスの監督を辞任したばかりの](https://ja.wikipedia.org/wiki/ポーツマスFC "wikilink")[ハリー・レドナップ](https://ja.wikipedia.org/wiki/ハリー・レドナップ "wikilink")が監督に就任してチームのてこ入れを図った\[4\]が、その甲斐もなく、2005年5月15日、セント・メリーズ・スタジアムで行われた最終節で[マンチェスター・ユナイテッドに](../Page/マンチェスター・ユナイテッドFC.md "wikilink")1-2で敗れ、20位（最下位）でシーズンを終了し、27年間所属したトップディビジョンから[チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）に降格することとなった\[5\]。
+2000年代に入り、2001年8月にホームスタジアムを103年間使用した[ザ・デルから](../Page/ザ・デル_\(サウサンプトン\).md "wikilink")[セント・メリーズ・スタジアム](https://ja.wikipedia.org/wiki/セント・メリーズ・スタジアム "wikilink")に移転した。2002-03シーズンには[FAカップ](../Page/FAカップ.md "wikilink")で準優勝し、翌2003-04シーズンの[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")に出場した。しかし、2004-05シーズンは成績が振るわず、2004年12月には前月にライバルチームの[ポーツマスの監督を辞任したばかりの](../Page/ポーツマスFC.md "wikilink")[ハリー・レドナップ](https://ja.wikipedia.org/wiki/ハリー・レドナップ "wikilink")が監督に就任してチームのてこ入れを図った\[4\]が、その甲斐もなく、2005年5月15日、セント・メリーズ・スタジアムで行われた最終節で[マンチェスター・ユナイテッドに](../Page/マンチェスター・ユナイテッドFC.md "wikilink")1-2で敗れ、20位（最下位）でシーズンを終了し、27年間所属したトップディビジョンから[チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")（2部）に降格することとなった\[5\]。
 
 ### クラブ低迷期 -運営会社の倒産、リーグ1への降格-
 
-[チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")1年目となった2005-06シーズンは、2005年8月29日の[コヴェントリー・シティ戦から](../Page/コヴェントリー・シティFC.md "wikilink")2006年3月28日の[バーンリー戦まで](../Page/バーンリーFC.md "wikilink")35試合でわずか5勝しかできず、1部昇格どころか2部残留も危ぶまれたが、最後の6試合で5勝してシーズンを12位で終了し、降格を免れた。なお、シーズン中の2005年12月、[ハリー・レドナップ](https://ja.wikipedia.org/wiki/ハリー・レドナップ "wikilink")は辞任して再び[ポーツマスの監督に復帰した](https://ja.wikipedia.org/wiki/ポーツマスFC "wikilink")。2006年1月、期待の若手の[セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink")（当時16歳）が報酬500万ポンドから1200万ポンドという条件で[アーセナルに移籍した](../Page/アーセナルFC.md "wikilink")\[6\]。
+[チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")1年目となった2005-06シーズンは、2005年8月29日の[コヴェントリー・シティ戦から](../Page/コヴェントリー・シティFC.md "wikilink")2006年3月28日の[バーンリー戦まで](../Page/バーンリーFC.md "wikilink")35試合でわずか5勝しかできず、1部昇格どころか2部残留も危ぶまれたが、最後の6試合で5勝してシーズンを12位で終了し、降格を免れた。なお、シーズン中の2005年12月、[ハリー・レドナップ](https://ja.wikipedia.org/wiki/ハリー・レドナップ "wikilink")は辞任して再び[ポーツマスの監督に復帰した](../Page/ポーツマスFC.md "wikilink")。2006年1月、期待の若手の[セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink")（当時16歳）が報酬500万ポンドから1200万ポンドという条件で[アーセナルに移籍した](../Page/アーセナルFC.md "wikilink")\[6\]。
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Before_the_Kick-off_-_geograph.org.uk_-_431355.jpg "wikilink") 2006-07シーズンはボーランド人ストライカーのグレゴーシュ・ラジアック、[マレク・サガノフスキ](https://ja.wikipedia.org/wiki/マレク・サガノフスキ "wikilink")、当時17歳の[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")の活躍もあって、6位で終了して昇格プレーオフに出場するも、準決勝でPK戦の末に[ダービー・カウンティに敗れて昇格を逃した](../Page/ダービー・カウンティFC.md "wikilink")。翌2007-08シーズンは、クラブの財政状況の悪化を防ぐために[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")、[ケンウィン・ジョーンズなどの主力選手を売却せざるを得なくなったこともあり](../Page/ケンワイン・ジョーンズ.md "wikilink")、一転して残留争いに巻き込まれ、最終節で[シェフィールド・ユナイテッドに](../Page/シェフィールド・ユナイテッドFC.md "wikilink")3-2で勝利してようやく残留を決めた。ところが、翌2008-09シーズンには運営会社が会社再建手続に入ったため勝ち点10を剥奪された結果、23位で終了して[リーグ1](https://ja.wikipedia.org/wiki/フットボールリーグ1 "wikilink")（3部）に降格し、2009-10シーズンも勝ち点-10からスタートすることとなった。
 
@@ -49,7 +49,7 @@
 
 2014年5月27日、ポチェッティーノが辞任し[トッテナム・ホットスパーFC](../Page/トッテナム・ホットスパーFC.md "wikilink")の監督に就任\[13\]。
 
-2014年6月16日、オランダ人の[ロナルド・クーマン](https://ja.wikipedia.org/wiki/ロナルド・クーマン "wikilink")が監督に就任。契約期間は3年\[14\]。
+2014年6月16日、オランダ人の[ロナルド・クーマン](../Page/ロナルド・クーマン.md "wikilink")が監督に就任。契約期間は3年\[14\]。
 
 2014年夏の移籍市場では、[アダム・ララーナ](https://ja.wikipedia.org/wiki/アダム・ララーナ "wikilink")、[リッキー・ランバート](https://ja.wikipedia.org/wiki/リッキー・ランバート "wikilink")、[ルーク・ショー](https://ja.wikipedia.org/wiki/ルーク・ショー "wikilink")、[デヤン・ロヴレン](https://ja.wikipedia.org/wiki/デヤン・ロヴレン "wikilink")といった主力が退団した。一方で[トビー・アルデルヴァイレルト](https://ja.wikipedia.org/wiki/トビー・アルデルヴァイレルト "wikilink")、[ライアン・バートランド](../Page/ライアン・バートランド.md "wikilink")、[サディオ・マネ](https://ja.wikipedia.org/wiki/サディオ・マネ "wikilink")、[ドゥシャン・タディッチ](https://ja.wikipedia.org/wiki/ドゥシャン・タディッチ "wikilink")、[グラツィアーノ・ペッレ](https://ja.wikipedia.org/wiki/グラツィアーノ・ペッレ "wikilink")、[フレイザー・フォースター](https://ja.wikipedia.org/wiki/フレイザー・フォースター "wikilink")、[シェーン・ロング](https://ja.wikipedia.org/wiki/シェーン・ロング "wikilink")ら実力者を多く獲得し、冬の移籍市場では[エルイェロ・エリア](https://ja.wikipedia.org/wiki/エルイェロ・エリア "wikilink")、[フィリップ・ジュリチッチ](https://ja.wikipedia.org/wiki/フィリップ・ジュリチッチ "wikilink")を獲得。
 
@@ -162,13 +162,13 @@
 
 [StMary'sStadium-1.jpg](https://ja.wikipedia.org/wiki/File:StMary'sStadium-1.jpg "fig:StMary'sStadium-1.jpg") クラブは1898年から103年間、[ザ・デルをホームスタジアムにしていたが](../Page/ザ・デル_\(サウサンプトン\).md "wikilink")、2001年8月に[セント・メリーズ・スタジアム](https://ja.wikipedia.org/wiki/セント・メリーズ・スタジアム "wikilink")（収容人数32,505人）に移転した。最多観客動員数は、2012年4月28日の[チャンピオンシップ](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink")、[コヴェントリー・シティ戦の](../Page/コヴェントリー・シティFC.md "wikilink")32,363人である。
 
-セント・メリーズ・スタジアムでは過去に国際試合も行われており、2002年には、[イングランド代表](../Page/サッカーイングランド代表.md "wikilink") vs. [マケドニア代表の試合が行われた](https://ja.wikipedia.org/wiki/サッカーマケドニア共和国代表 "wikilink")。イングランド代表は[デヴィッド・ベッカム](https://ja.wikipedia.org/wiki/デヴィッド・ベッカム "wikilink")、[スティーヴン・ジェラード](https://ja.wikipedia.org/wiki/スティーヴン・ジェラード "wikilink")のゴールにより2-2で引き分けた。
+セント・メリーズ・スタジアムでは過去に国際試合も行われており、2002年には、[イングランド代表](../Page/サッカーイングランド代表.md "wikilink") vs. [マケドニア代表の試合が行われた](https://ja.wikipedia.org/wiki/サッカーマケドニア共和国代表 "wikilink")。イングランド代表は[デヴィッド・ベッカム](https://ja.wikipedia.org/wiki/デヴィッド・ベッカム "wikilink")、[スティーヴン・ジェラード](../Page/スティーヴン・ジェラード.md "wikilink")のゴールにより2-2で引き分けた。
 
 「ステープルウッド」として知られるクラブのトレーニング施設はサウサンプトン近郊のマーチウッドにある。トレーニング施設は、ここ10年で多大な設備投資がされ、現在、国内でも有数の施設となっていたが、2009年12月8日、2階建ての最新鋭の建物に建て替えることが発表された\[15\]。
 
 ## アンセム
 
-クラブの[アンセム](https://ja.wikipedia.org/wiki/アンセム "wikilink")は、スポーツの[応援歌](../Page/応援歌.md "wikilink")としてもポピュラーな「[聖者の行進](https://ja.wikipedia.org/wiki/聖者の行進 "wikilink")」（When the Saints Go Marching In）である。「聖者の行進」はプレミアリーグでは他に[トッテナムや](../Page/トッテナム・ホットスパーFC.md "wikilink")[リヴァプールなども](../Page/リヴァプールFC.md "wikilink")[チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")に用いているが、サウサンプトンはニックネームが "The Saints" であるため、オリジナルの歌詞を変えずに使用している数少ないチームの一つである。
+クラブの[アンセム](../Page/アンセム.md "wikilink")は、スポーツの[応援歌](../Page/応援歌.md "wikilink")としてもポピュラーな「[聖者の行進](../Page/聖者の行進.md "wikilink")」（When the Saints Go Marching In）である。「聖者の行進」はプレミアリーグでは他に[トッテナムや](../Page/トッテナム・ホットスパーFC.md "wikilink")[リヴァプールなども](../Page/リヴァプールFC.md "wikilink")[チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")に用いているが、サウサンプトンはニックネームが "The Saints" であるため、オリジナルの歌詞を変えずに使用している数少ないチームの一つである。
 
 ## エンブレム
 
@@ -176,7 +176,7 @@
 
 ## ダービーマッチ
 
-サウサンプトンからわずか17マイル（約27km）の位置に本拠地を構える[ポーツマスとは](https://ja.wikipedia.org/wiki/ポーツマスFC "wikilink")、その距離の近さといずれも港町であるということからライバル関係にある\[17\]。ポーツマスとの一戦は「サウスコースト・ダービー（South Coast derby、もしくはハンプシャー・ダービー）」と呼ばれ、過去71回の対戦でサウサンプトンの35勝21敗15引き分け（2019年現在）となっている。直近の対戦は、2019年9月に[フラットン・パーク](https://ja.wikipedia.org/wiki/フラットン・パーク "wikilink")で行われたアウェイゲーム([カラバオ・カップ](../Page/EFLカップ.md "wikilink"))で4-0の勝利を収めた。
+サウサンプトンからわずか17マイル（約27km）の位置に本拠地を構える[ポーツマスとは](../Page/ポーツマスFC.md "wikilink")、その距離の近さといずれも港町であるということからライバル関係にある\[17\]。ポーツマスとの一戦は「サウスコースト・ダービー（South Coast derby、もしくはハンプシャー・ダービー）」と呼ばれ、過去71回の対戦でサウサンプトンの35勝21敗15引き分け（2019年現在）となっている。直近の対戦は、2019年9月に[フラットン・パーク](https://ja.wikipedia.org/wiki/フラットン・パーク "wikilink")で行われたアウェイゲーム([カラバオ・カップ](../Page/EFLカップ.md "wikilink"))で4-0の勝利を収めた。
 
 ## クラブ各種記録
 
@@ -204,7 +204,7 @@
 
 **最も若い出場選手**
 
-  - [セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink") – 16歳143日 vs [ウルヴァーハンプトン・ワンダラーズ](https://ja.wikipedia.org/wiki/ウルヴァーハンプトン・ワンダラーズFC "wikilink"), 2005年8月6日
+  - [セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink") – 16歳143日 vs [ウルヴァーハンプトン・ワンダラーズ](../Page/ウルヴァーハンプトン・ワンダラーズFC.md "wikilink"), 2005年8月6日
 
 **最高額移籍選手（他チームへの移籍）**
 
@@ -264,7 +264,7 @@
 
   - David Merrington 1995-1996
 
-  - [グレアム・スーネス](https://ja.wikipedia.org/wiki/グレアム・スーネス "wikilink") 1996-1997
+  - [グレアム・スーネス](../Page/グレアム・スーネス.md "wikilink") 1996-1997
 
   - Dave Jones 1997-2000
 
@@ -296,7 +296,7 @@
 
   - [マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink") 2013-2014
 
-  - [ロナルド・クーマン](https://ja.wikipedia.org/wiki/ロナルド・クーマン "wikilink") 2014-2016
+  - [ロナルド・クーマン](../Page/ロナルド・クーマン.md "wikilink") 2014-2016
 
   - [クロード・ピュエル](../Page/クロード・ピュエル.md "wikilink") 2016-2017
 
@@ -324,7 +324,7 @@
 
 **[DF](../Page/ディフェンダー_\(サッカー\).md "wikilink")**
 
-  - [ウェイン・ブリッジ](https://ja.wikipedia.org/wiki/ウェイン・ブリッジ "wikilink") 1997-2003
+  - [ウェイン・ブリッジ](../Page/ウェイン・ブリッジ.md "wikilink") 1997-2003
 
   - [ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink") 2005-2007
 
@@ -445,7 +445,7 @@
 
 [Category:サウサンプトンFC](https://ja.wikipedia.org/wiki/Category:サウサンプトンFC "wikilink") [Category:ハンプシャーのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ハンプシャーのサッカークラブ "wikilink") [Category:サウサンプトン](https://ja.wikipedia.org/wiki/Category:サウサンプトン "wikilink") [Category:プレミアリーグのサッカークラブ](https://ja.wikipedia.org/wiki/Category:プレミアリーグのサッカークラブ "wikilink") [Category:1885年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1885年設立のスポーツチーム "wikilink")
 
-1.  エンブレムの世界 サウサンプトン『[サッカーマガジン](../Page/サッカーマガジン.md "wikilink")』2012年1月31日号、[ベースボール・マガジン社](https://ja.wikipedia.org/wiki/ベースボール・マガジン社 "wikilink")、2012年、[雑誌](../Page/雑誌コード.md "wikilink")23885-1/31, 053頁。
+1.  エンブレムの世界 サウサンプトン『[サッカーマガジン](../Page/サッカーマガジン.md "wikilink")』2012年1月31日号、[ベースボール・マガジン社](../Page/ベースボール・マガジン社.md "wikilink")、2012年、[雑誌](../Page/雑誌コード.md "wikilink")23885-1/31, 053頁。
 2.
 3.  "[Premier League heroes: Matt Le Tissier](http://soccernet.espn.go.com/columns/story?id=674952&sec=england&root=england&cc=4716)" ESPNFC（[2012年](../Page/2012年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")閲覧）
 4.  "[Saints name Redknapp as boss](http://news.bbc.co.uk/sport2/hi/football/teams/s/southampton/4077461.stm)" BBC Sport（[2012年](../Page/2012年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")閲覧）

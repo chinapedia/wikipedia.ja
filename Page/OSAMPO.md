@@ -1,7 +1,7 @@
 > この記事は[OSAMPO](https://ja.wikipedia.org/wiki/OSAMPO)から翻訳されています。
 
 
-「**OSAMPO**」（おさんぽ）は、[Char](../Page/Char.md "wikilink")の17枚目のシングルで、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌](../Page/歌.md "wikilink")。[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink"):Char。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")まで、[NHKの歌番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")」で放送\[1\]。
+「**OSAMPO**」（おさんぽ）は、[Char](../Page/Char.md "wikilink")の17枚目のシングルで、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌](../Page/歌.md "wikilink")。[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink"):Char。[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")まで、[NHKの歌番組](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[みんなのうた](../Page/みんなのうた.md "wikilink")」で放送\[1\]。
 
 歌はChar、アニメーションは[古川タク](../Page/古川タク.md "wikilink")。Charによれば、子供に楽しんでもらいたいということで作成した曲。歌詞では、1番では冬の散歩を、2番では春から夏にかけてを歌っている。
 

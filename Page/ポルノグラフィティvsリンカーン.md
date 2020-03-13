@@ -16,7 +16,7 @@
 ## 収録曲
 
 1.  **LION** ／ [PORNO GRAFFITTI](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")
-      - 作詞:[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")、作曲:[TAMA](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")
+      - 作詞:[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")、作曲:[TAMA](../Page/Tama_\(ベーシスト\).md "wikilink")
     <!-- end list -->
       -
         メジャーデビュー後にリメイクされ、1stアルバム『[ロマンチスト・エゴイスト](https://ja.wikipedia.org/wiki/ロマンチスト・エゴイスト "wikilink")』に「**ライオン**」として収録された。

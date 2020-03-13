@@ -3,7 +3,7 @@
 
 **The Phanky OKstra**（**ザ・ファンキー・オーケストラ**）は、[2001年](../Page/2001年.md "wikilink")結成の5人組[J-POP](../Page/J-POP.md "wikilink")ユニット。
 
-2005年春スタートの[フジテレビ系音楽情報番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[69★TRIBE ロック族](../Page/69★TRIBE_ロック族.md "wikilink")』で、番組開始から取り上げられ続け、その年、音源未発売ながら、「[SUMMER SONIC 05](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")」Dance Tentに出演（東京（[幕張](https://ja.wikipedia.org/wiki/幕張新都心 "wikilink")）会場のみ）した。
+2005年春スタートの[フジテレビ系音楽情報番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[69★TRIBE ロック族](../Page/69★TRIBE_ロック族.md "wikilink")』で、番組開始から取り上げられ続け、その年、音源未発売ながら、「[SUMMER SONIC 05](../Page/サマーソニック.md "wikilink")」Dance Tentに出演（東京（[幕張](https://ja.wikipedia.org/wiki/幕張新都心 "wikilink")）会場のみ）した。
 
 2008年活動停止
 
@@ -58,7 +58,7 @@ RZCD-45453:CD</p></td>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2007/09/12</p></td>
-<td><p><strong>TPOの<a href="https://ja.wikipedia.org/wiki/黒ネコのタンゴ" title="wikilink">黒ネコのタンゴ</a></strong></p></td>
+<td><p><strong>TPOの<a href="../Page/黒ネコのタンゴ.md" title="wikilink">黒ネコのタンゴ</a></strong></p></td>
 <td><p>RZCD-45531</p></td>
 <td><ol>
 <li>TPOの黒ネコのタンゴ [2:52] 【作詞:T.P.O./作曲:フランチェスコ・パガーノ,Armando Soricillo/編曲:sarudog】</li>
@@ -67,7 +67,7 @@ RZCD-45453:CD</p></td>
 <li>夜心 (instrumental)</li>
 </ol></td>
 <td><p>rhythm zone<br />
-<a href="https://ja.wikipedia.org/wiki/童謡" title="wikilink">童謡</a>のカバー。<br />
+<a href="../Page/童謡.md" title="wikilink">童謡</a>のカバー。<br />
 オリコン圏外</p></td>
 </tr>
 <tr class="odd">

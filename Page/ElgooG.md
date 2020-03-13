@@ -1,7 +1,7 @@
 > この記事は[ElgooG](https://ja.wikipedia.org/wiki/ElgooG)から翻訳されています。
 
 
-**elgooG**（エルグーグ）は、検索エンジン「[Google](../Page/Google.md "wikilink")」の[インターネット](../Page/インターネット.md "wikilink")[検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")を掻い潜るための[ミラーサイト](https://ja.wikipedia.org/wiki/ミラーサイト "wikilink")の一つである。
+**elgooG**（エルグーグ）は、検索エンジン「[Google](../Page/Google.md "wikilink")」の[インターネット](../Page/インターネット.md "wikilink")[検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")を掻い潜るための[ミラーサイト](../Page/ミラーサイト.md "wikilink")の一つである。
 
 ## 経緯
 
@@ -19,15 +19,15 @@
       - [Google](../Page/Google.md "wikilink")
       - [金盾](../Page/金盾.md "wikilink")
       - [検閲](https://ja.wikipedia.org/wiki/検閲 "wikilink")
-      - [日本における検閲](https://ja.wikipedia.org/wiki/日本における検閲 "wikilink")
+      - [日本における検閲](../Page/日本における検閲.md "wikilink")
       - [言論統制](../Page/言論統制.md "wikilink")
       - [ネット検閲](../Page/ネット検閲.md "wikilink")
       - [情報操作](../Page/情報操作.md "wikilink")
-      - [言論の自由](https://ja.wikipedia.org/wiki/言論の自由 "wikilink")
+      - [言論の自由](../Page/言論の自由.md "wikilink")
       - [中華人民共和国](../Page/中華人民共和国.md "wikilink")
       - [ミャンマー](../Page/ミャンマー.md "wikilink")
   - フィルタリング避けの対象語句
-      - [法輪功](https://ja.wikipedia.org/wiki/法輪功 "wikilink")
+      - [法輪功](../Page/法輪功.md "wikilink")
       - [天安門](../Page/天安門.md "wikilink")
       - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")
       - [チベット](https://ja.wikipedia.org/wiki/チベット "wikilink")

@@ -3,13 +3,13 @@
 
 **アンドリューW.K.**（Andrew W.K.、[1979年](../Page/1979年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink") - ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、および彼の率いる[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")。本名は**アンドリュー・ファタリー・ウィルクス＝クライアー**（Andrew Fetterly Wilkes-Krier）。
 
-激しいロックサウンドでパーティーチューンを歌い上げるのが最大の特徴（パーティー以外の内容の楽曲も存在する）。数々のパフォーマンスと奇行から「パーティーバカ」と評され、近年の洋楽には珍しく日本盤に収録された全ての楽曲に[邦題](https://ja.wikipedia.org/wiki/邦題 "wikilink")がつけられている。
+激しいロックサウンドでパーティーチューンを歌い上げるのが最大の特徴（パーティー以外の内容の楽曲も存在する）。数々のパフォーマンスと奇行から「パーティーバカ」と評され、近年の洋楽には珍しく日本盤に収録された全ての楽曲に[邦題](../Page/邦題.md "wikilink")がつけられている。
 
 ## 経歴
 
-幼い頃から[ジャズ](../Page/ジャズ.md "wikilink")[ピアノ](../Page/ピアノ.md "wikilink")などを学びつつ[ハードロック](../Page/ハードロック.md "wikilink")、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")に傾倒しバンド活動を経て17歳でソロ活動を開始。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")デビュー。ストリート活動と激しいライヴパフォーマンスで[フー・ファイターズ](https://ja.wikipedia.org/wiki/フー・ファイターズ "wikilink")のオープニング・アクトに抜擢されるなど人気を集め[2001年](../Page/2001年.md "wikilink")に「*I Get Wet*（邦題：アイ・ゲット・ウェット〜パーティー・一直線！）」でメジャーデビュー。アンドリュー自身が鼻血を出している衝撃的なジャケットが[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で問題視されるなど話題を呼び、アルバムからのシングル「Party Hard（邦題：パーティー・一直線！）」が大ヒット。日本でも人気に火がつき[2002年](../Page/2002年.md "wikilink")と[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[サマーソニック](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")に来日している。
+幼い頃から[ジャズ](../Page/ジャズ.md "wikilink")[ピアノ](../Page/ピアノ.md "wikilink")などを学びつつ[ハードロック](../Page/ハードロック.md "wikilink")、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")に傾倒しバンド活動を経て17歳でソロ活動を開始。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")デビュー。ストリート活動と激しいライヴパフォーマンスで[フー・ファイターズ](../Page/フー・ファイターズ.md "wikilink")のオープニング・アクトに抜擢されるなど人気を集め[2001年](../Page/2001年.md "wikilink")に「*I Get Wet*（邦題：アイ・ゲット・ウェット〜パーティー・一直線！）」でメジャーデビュー。アンドリュー自身が鼻血を出している衝撃的なジャケットが[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で問題視されるなど話題を呼び、アルバムからのシングル「Party Hard（邦題：パーティー・一直線！）」が大ヒット。日本でも人気に火がつき[2002年](../Page/2002年.md "wikilink")と[2006年](../Page/2006年.md "wikilink")に[サマーソニック](../Page/サマーソニック.md "wikilink")に来日している。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")には[小島よしお](../Page/小島よしお.md "wikilink")のギャグ「そんなの関係ねぇ」「オッパッピー」を歌詞に取り入れた「そんなの関係ねぇロック」を[着うた](../Page/着うた.md "wikilink")限定で発売し、累計で5万ダウンロード超のヒットになった\[1\]。以後、同年[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")には[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")の「[キセキ](https://ja.wikipedia.org/wiki/キセキ_\(GReeeeNの曲\) "wikilink")」、[7月30日](../Page/7月30日.md "wikilink")には「安藤竜」名義で[鼠先輩](https://ja.wikipedia.org/wiki/鼠先輩 "wikilink")の「[六本木](../Page/六本木.md "wikilink")〜GIROPPON」の[カバー](../Page/カバー.md "wikilink")をそれぞれ着うた限定で発売した。さらに、それら[邦楽](../Page/邦楽.md "wikilink")ヒット曲のカヴァーばかりを収録したアルバム『[一発勝負〜カヴァーズ](https://ja.wikipedia.org/wiki/一発勝負〜カヴァーズ "wikilink")』を2008年11月26日に発売、それと同時に新曲「パーティー絶叫！」を収録したキャリア初のベスト・アルバム『一網打尽〜ベスト』、ベスト・アルバムとカヴァー・アルバムをセットにした2枚組アルバム『一挙両得〜ベスト&カヴァーズ』も発売した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")には[小島よしお](../Page/小島よしお.md "wikilink")のギャグ「そんなの関係ねぇ」「オッパッピー」を歌詞に取り入れた「そんなの関係ねぇロック」を[着うた](../Page/着うた.md "wikilink")限定で発売し、累計で5万ダウンロード超のヒットになった\[1\]。以後、同年[7月23日](../Page/7月23日.md "wikilink")には[GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")の「[キセキ](https://ja.wikipedia.org/wiki/キセキ_\(GReeeeNの曲\) "wikilink")」、[7月30日](../Page/7月30日.md "wikilink")には「安藤竜」名義で[鼠先輩](https://ja.wikipedia.org/wiki/鼠先輩 "wikilink")の「[六本木](../Page/六本木.md "wikilink")〜GIROPPON」の[カバー](../Page/カバー.md "wikilink")をそれぞれ着うた限定で発売した。さらに、それら[邦楽](../Page/邦楽.md "wikilink")ヒット曲のカヴァーばかりを収録したアルバム『[一発勝負〜カヴァーズ](https://ja.wikipedia.org/wiki/一発勝負〜カヴァーズ "wikilink")』を2008年11月26日に発売、それと同時に新曲「パーティー絶叫！」を収録したキャリア初のベスト・アルバム『一網打尽〜ベスト』、ベスト・アルバムとカヴァー・アルバムをセットにした2枚組アルバム『一挙両得〜ベスト&カヴァーズ』も発売した。
 
 ## 人物
 
@@ -30,7 +30,7 @@
 
   - アイ・ゲット・ウェット〜パーティー・一直線\!（*I Get Wet*） [2001年](../Page/2001年.md "wikilink")
   - 一匹狼（*The Wolf*） [2003年](../Page/2003年.md "wikilink")
-  - 兄貴、危機一髪\!（*Close Calls With Brick Walls*） [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - 兄貴、危機一髪\!（*Close Calls With Brick Walls*） [2006年](../Page/2006年.md "wikilink")
   - KISEKI（*KISEKI*） [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
   - 一網打尽〜ベスト（*Premium Collection - The Very Best So Far*） [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
   - [一発勝負〜カヴァーズ](https://ja.wikipedia.org/wiki/一発勝負〜カヴァーズ "wikilink")（*Premium Collection - The Japan Covers*） [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
@@ -46,7 +46,7 @@
 ### ゲスト
 
   - 『[笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink") 2003年9月26日）
-  - 『[ROCK FUJIYAMA](../Page/ROCK_FUJIYAMA.md "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月5日](../Page/7月5日.md "wikilink")）※このほかスタッフに交じってのワンシーン登場も多数見られた。
+  - 『[ROCK FUJIYAMA](../Page/ROCK_FUJIYAMA.md "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") [2006年](../Page/2006年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")）※このほかスタッフに交じってのワンシーン登場も多数見られた。
 
 ## 脚注
 

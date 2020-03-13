@@ -1,7 +1,7 @@
 > この記事は[GNP \(\)](https://ja.wikipedia.org/wiki/GNP_\(\))から翻訳されています。
 
 
-**GNP**（ジーエヌピー）とは、「[義理](../Page/義理.md "wikilink")（G）」、「[人情](https://ja.wikipedia.org/wiki/人情 "wikilink")（N）」、「[プレゼント](../Page/贈り物.md "wikilink")（P）」の3要素のこと。転じてこの3要素によって[商品](../Page/商品.md "wikilink")を[販売](../Page/販売.md "wikilink")したり[サービス](../Page/サービス.md "wikilink")を提供したりすること、またはその3要素を主とした[営業](https://ja.wikipedia.org/wiki/営業 "wikilink")手段および[商売](https://ja.wikipedia.org/wiki/商売 "wikilink")方法のことをさす。このような営業手段は**GNP営業**、**GNP商法**、**GNPセールス**とも言う。もちろん本来のGNPの意味である「国民総生産（Gross National Products）」とは無関係。
+**GNP**（ジーエヌピー）とは、「[義理](../Page/義理.md "wikilink")（G）」、「[人情](https://ja.wikipedia.org/wiki/人情 "wikilink")（N）」、「[プレゼント](../Page/贈り物.md "wikilink")（P）」の3要素のこと。転じてこの3要素によって[商品](../Page/商品.md "wikilink")を[販売](../Page/販売.md "wikilink")したり[サービス](../Page/サービス.md "wikilink")を提供したりすること、またはその3要素を主とした[営業](../Page/営業.md "wikilink")手段および[商売](https://ja.wikipedia.org/wiki/商売 "wikilink")方法のことをさす。このような営業手段は**GNP営業**、**GNP商法**、**GNPセールス**とも言う。もちろん本来のGNPの意味である「国民総生産（Gross National Products）」とは無関係。
 
 代表的なものに[マルチ商法](../Page/マルチ商法.md "wikilink")があるが、[生命保険](https://ja.wikipedia.org/wiki/生命保険 "wikilink")外交員（生保レディーなどの保険募集人）の[保険商品販売や](https://ja.wikipedia.org/wiki/保険#保険商品 "wikilink")、[化粧品](../Page/化粧品.md "wikilink")などの[訪問販売](../Page/訪問販売.md "wikilink")もこの要素が強い販売形態であることが多い。
 

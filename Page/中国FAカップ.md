@@ -85,8 +85,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/2002年の中国FAカップ" title="wikilink">8</a></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td><p><strong><a href="../Page/青島中能足球倶楽部.md" title="wikilink">青島頤中</a></strong></p></td>
-<td><p><strong>3 - 1</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>0 - 2</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>3 - 1</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>0 - 2</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="../Page/遼寧宏運足球倶楽部.md" title="wikilink">遼寧波導</a></p></td>
 <td></td>
 </tr>
@@ -108,7 +108,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2005年の中国FAカップ" title="wikilink">11</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><strong><a href="../Page/大連実徳足球倶楽部.md" title="wikilink">大連実徳</a></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td><p><a href="../Page/山東魯能泰山足球倶楽部.md" title="wikilink">山東魯能泰山</a></p></td>
@@ -116,7 +116,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2006年の中国FAカップ" title="wikilink">12</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><strong><a href="../Page/山東魯能泰山足球倶楽部.md" title="wikilink">山東魯能泰山</a></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td><p><a href="../Page/大連実徳足球倶楽部.md" title="wikilink">大連実徳</a></p></td>
@@ -202,8 +202,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/2016年の中国FAカップ" title="wikilink">18</a></p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/広州恒大淘宝足球倶楽部" title="wikilink">広州恒大淘宝</a></strong></p></td>
-<td><p><strong>1 - 1</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>2 - 2</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>1 - 1</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>2 - 2</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/江蘇蘇寧足球倶楽部" title="wikilink">江蘇蘇寧</a></p></td>
 <td><p>|</p></td>
 </tr>
@@ -211,8 +211,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/2017年の中国FAカップ" title="wikilink">19</a></p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a></p></td>
 <td><p><strong><a href="../Page/上海緑地申花足球倶楽部.md" title="wikilink">上海緑地申花</a></strong></p></td>
-<td><p><strong>1 - 0</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a><br />
-<strong>2 - 3</strong> <a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">AG</a></p></td>
+<td><p><strong>1 - 0</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a><br />
+<strong>2 - 3</strong> <a href="../Page/アウェーゴール.md" title="wikilink">AG</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上海上港集団足球倶楽部" title="wikilink">上海上港</a></p></td>
 <td><p>|</p></td>
 </tr>

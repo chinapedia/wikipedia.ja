@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - [DJ JIN](../Page/DJ_JIN.md "wikilink") (from [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink"))
+  - [DJ JIN](../Page/DJ_JIN.md "wikilink") (from [RHYMESTER](../Page/RHYMESTER.md "wikilink"))
   - LADI (from [Jazzy Sport](https://ja.wikipedia.org/wiki/Jazzy_Sport "wikilink") / [Physical Sound Sport](https://ja.wikipedia.org/wiki/Physical_Sound_Sport "wikilink"))
   - [Masaya Fantasista](https://ja.wikipedia.org/wiki/Masaya_Fantasista "wikilink") (from [Jazzy Sport](https://ja.wikipedia.org/wiki/Jazzy_Sport "wikilink") / [Physical Sound Sport](https://ja.wikipedia.org/wiki/Physical_Sound_Sport "wikilink"))
   - [FREEDOMCHICKEN](https://ja.wikipedia.org/wiki/FREEDOMCHICKEN "wikilink") (from [Jazzy Sport brooklyn](https://ja.wikipedia.org/wiki/Jazzy_Sport_Brooklyn "wikilink") / [14catherine](https://ja.wikipedia.org/wiki/14catherine "wikilink"))
@@ -25,7 +25,7 @@
     2.  XL feat.Count Bass D
     3.  Green Like The Sun feat.Bembe Segue
     4.  Prismatic Moment
-    5.  A Song feat.PES & SU from [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")
+    5.  A Song feat.PES & SU from [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
     6.  Chalk It Up feat.Bahamadia
     7.  8 Bit Bug
     8.  This way before feat.Maspyke

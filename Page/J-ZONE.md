@@ -14,18 +14,18 @@
   - J-ZONE川口店（[川口グリーンシティ](../Page/イオンモール川口.md "wikilink")「かでん館」内\[5\]、埼玉県川口市\[6\]、店舗面積390[m<sup>2</sup>](../Page/平方メートル.md "wikilink")\[7\]、1997年（平成9年）11月22日開店\[8\])
   - J-ZONE[ワンダーシティ店](https://ja.wikipedia.org/wiki/イオンモール名古屋ワンダーシティ "wikilink")（愛知県名古屋市）
   - J-ZONE姫路岩端店（ジャスコ岩端店、兵庫県姫路市）
-  - J-ZONE[イオン成田店](https://ja.wikipedia.org/wiki/イオンモール成田 "wikilink")（千葉県成田市）
+  - J-ZONE[イオン成田店](../Page/イオンモール成田.md "wikilink")（千葉県成田市）
 
 <!-- end list -->
 
   -
-    ジャスコイオン成田店では、J-ZONE店舗廃止後もジャスコ家電売り場内にコーナーとして存続し、スーパーの一角でありながら、[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、[メモリ等の](../Page/Random_Access_Memory.md "wikilink")[バルク品](https://ja.wikipedia.org/wiki/バルク品 "wikilink")や、PCケース、[マザーボード](https://ja.wikipedia.org/wiki/マザーボード "wikilink")、[グラフィックカード](https://ja.wikipedia.org/wiki/グラフィックカード "wikilink")等のパーツを扱っていた。2006年09月のジャスコの改装に伴いコーナーが廃止され、一部[バルク品](https://ja.wikipedia.org/wiki/バルク品 "wikilink")の[HDDや](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[グラフィックカード](https://ja.wikipedia.org/wiki/グラフィックカード "wikilink")などを扱っているほかは、通常の生活家電のみの扱いとなった。\[9\]
+    ジャスコイオン成田店では、J-ZONE店舗廃止後もジャスコ家電売り場内にコーナーとして存続し、スーパーの一角でありながら、[HDD](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")、[メモリ等の](../Page/Random_Access_Memory.md "wikilink")[バルク品](../Page/バルク品.md "wikilink")や、PCケース、[マザーボード](../Page/マザーボード.md "wikilink")、[グラフィックカード](https://ja.wikipedia.org/wiki/グラフィックカード "wikilink")等のパーツを扱っていた。2006年09月のジャスコの改装に伴いコーナーが廃止され、一部[バルク品](../Page/バルク品.md "wikilink")の[HDDや](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[グラフィックカード](https://ja.wikipedia.org/wiki/グラフィックカード "wikilink")などを扱っているほかは、通常の生活家電のみの扱いとなった。\[9\]
 
 ## 脚注
 
 [Category:かつて存在した日本の家電量販店](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の家電量販店 "wikilink") [Category:イオングループの歴史](https://ja.wikipedia.org/wiki/Category:イオングループの歴史 "wikilink") [Category:1997年設立の企業](https://ja.wikipedia.org/wiki/Category:1997年設立の企業 "wikilink")
 
-1.  “ジャスコ、パソコン販売の新会社J・ZONE設立へ 11月22日第1号店”. [日本食糧新聞](https://ja.wikipedia.org/wiki/日本食糧新聞 "wikilink")(日本食糧新聞社). (1997年10月27日)
+1.  “ジャスコ、パソコン販売の新会社J・ZONE設立へ 11月22日第1号店”. [日本食糧新聞](../Page/日本食糧新聞.md "wikilink")(日本食糧新聞社). (1997年10月27日)
 2.
 3.
 4.  [Ｔ・ＺＯＮＥ公式ページ店舗情報（過去のアーカイブ）](https://web.archive.org/web/19990502003104/http://ado.co.jp:80/shop/index.htm#jzone)

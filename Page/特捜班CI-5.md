@@ -10,7 +10,7 @@
 ## 登場人物
 
   - コーレイ部長
-    演：[ゴードン・ジャクソン](https://ja.wikipedia.org/wiki/ゴードン・ジャクソン "wikilink") [Gordon Jackson](https://ja.wikipedia.org/wiki/:en:Gordon_Jackson "wikilink")、吹替：[森山周一郎](https://ja.wikipedia.org/wiki/森山周一郎 "wikilink")
+    演：[ゴードン・ジャクソン](https://ja.wikipedia.org/wiki/ゴードン・ジャクソン "wikilink") [Gordon Jackson](https://ja.wikipedia.org/wiki/:en:Gordon_Jackson "wikilink")、吹替：[森山周一郎](../Page/森山周一郎.md "wikilink")
   - ドイル
     演：[マーティン・ショウ](https://ja.wikipedia.org/wiki/マーティン・ショウ "wikilink") [Martin Shaw](https://ja.wikipedia.org/wiki/:en:Martin_Shaw "wikilink")、吹替：[野島昭生](../Page/野島昭生.md "wikilink")
   - ボーディ

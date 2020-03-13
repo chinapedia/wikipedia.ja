@@ -15,7 +15,7 @@ CDジャーナルは森下の歌唱姿勢を「クセも少なく万人受け」
 
 1.  **[SOMEBODY TO BELIEVE](../Page/SOMEBODY_TO_BELIEVE.md "wikilink")**
       -
-        作詞:向井玲子 作曲:[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") 編曲:[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞:向井玲子 作曲:[川島だりあ](../Page/川島だりあ.md "wikilink") 編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **もっとずっと近くに感じたい**
       -
         作詞:森山翔 作曲:[多々納好夫](../Page/多々納好夫.md "wikilink") 編曲:[小澤正澄](../Page/小澤正澄.md "wikilink")
@@ -30,7 +30,7 @@ CDジャーナルは森下の歌唱姿勢を「クセも少なく万人受け」
         作詞:森下由実子 作曲:多々納好夫 編曲:小澤正澄
 6.  **We'll Be Together**
       -
-        作詞:森下由実子 作曲:大槻啓之 編曲:[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作詞:森下由実子 作曲:大槻啓之 編曲:[徳永暁人](../Page/徳永暁人.md "wikilink")
 7.  **もう一つの未来**
       -
         作詞:向井玲子 作曲:竹村かおり 編曲:小澤正澄
@@ -46,14 +46,14 @@ CDジャーナルは森下の歌唱姿勢を「クセも少なく万人受け」
   - 池田大介 - キーボード
   - [鈴木英俊](../Page/鈴木英俊.md "wikilink") - ギター
   - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink") - ギター
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")（[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")） - コーラス
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")（[ZYYG](../Page/ZYYG.md "wikilink")） - コーラス
   - 古川真一 - コーラス
 
 ## 脚注
 
 ## 関連項目
 
-  - [1994年の音楽](https://ja.wikipedia.org/wiki/1994年の音楽 "wikilink")
+  - [1994年の音楽](../Page/1994年の音楽.md "wikilink")
   - [ビーイング](../Page/ビーイング.md "wikilink")
 
 [Category:ZAIN_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:ZAIN_RECORDSのアルバム "wikilink") [Category:1994年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1994年のミニ・アルバム "wikilink")

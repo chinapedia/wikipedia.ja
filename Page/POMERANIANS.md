@@ -43,7 +43,7 @@
 
 ## 関連項目
 
-  - [熱血\!スペシャ中学](https://ja.wikipedia.org/wiki/熱血!スペシャ中学 "wikilink")
+  - [熱血\!スペシャ中学](../Page/熱血!スペシャ中学.md "wikilink")
 
 ## 外部リンク
 

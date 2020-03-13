@@ -1,7 +1,7 @@
 > この記事は[Runtime Revolution](https://ja.wikipedia.org/wiki/Runtime_Revolution)から翻訳されています。
 
 
-**LiveCode Ltd.（旧名 Runtime Revolution Ltd.）** は[スコットランド](../Page/スコットランド.md "wikilink")の[エディンバラ](../Page/エディンバラ.md "wikilink")にある[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")向け[ソフトハウス](https://ja.wikipedia.org/wiki/ソフトハウス "wikilink")である。1997年創立。[統合開発環境](../Page/統合開発環境.md "wikilink") 「LiveCode（旧名Revolution）」シリーズで知られる。「LiveCode」シリーズは、クロスプラットフォームの[デスクトップアプリケーション](https://ja.wikipedia.org/wiki/デスクトップアプリケーション "wikilink")開発、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android.md "wikilink")等の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の開発、CGI等のウェブページが作成できるサーバーでの開発、並びにLiveCodeアプリをHTML5ウェブアプリに変換する機能（2017年開発途中）がある。LiveCode（旧名revTalk）は、通常の英語のようなプログラミング言語[HyperTalk](https://ja.wikipedia.org/wiki/HyperTalk "wikilink")に類似した、「LiveCode」シリーズで使用される[スクリプト言語](../Page/スクリプト言語.md "wikilink")の名称でもある。
+**LiveCode Ltd.（旧名 Runtime Revolution Ltd.）** は[スコットランド](../Page/スコットランド.md "wikilink")の[エディンバラ](../Page/エディンバラ.md "wikilink")にある[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")向け[ソフトハウス](https://ja.wikipedia.org/wiki/ソフトハウス "wikilink")である。1997年創立。[統合開発環境](../Page/統合開発環境.md "wikilink") 「LiveCode（旧名Revolution）」シリーズで知られる。「LiveCode」シリーズは、クロスプラットフォームの[デスクトップアプリケーション](https://ja.wikipedia.org/wiki/デスクトップアプリケーション "wikilink")開発、[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android.md "wikilink")等の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の開発、CGI等のウェブページが作成できるサーバーでの開発、並びにLiveCodeアプリをHTML5ウェブアプリに変換する機能（2017年開発途中）がある。LiveCode（旧名revTalk）は、通常の英語のようなプログラミング言語[HyperTalk](../Page/HyperTalk.md "wikilink")に類似した、「LiveCode」シリーズで使用される[スクリプト言語](../Page/スクリプト言語.md "wikilink")の名称でもある。
 
 ## 概要
 

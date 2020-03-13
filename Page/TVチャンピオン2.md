@@ -1,7 +1,7 @@
 > この記事は[TV2](https://ja.wikipedia.org/wiki/TV2)から翻訳されています。
 
 
-『**TVチャンピオン2**』（てれびちゃんぴおんつー、TV champion2）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で毎週木曜日19:57 - 20:54 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。前身の『[TVチャンピオン](https://ja.wikipedia.org/wiki/TVチャンピオン "wikilink")』を継承している。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。2008年9月18日の番組終了後、同年[10月16日](../Page/10月16日.md "wikilink")より元チャンピオン達が出演する『[チャンピオンズ〜達人のワザが世界を救う〜](https://ja.wikipedia.org/wiki/チャンピオンズ〜達人のワザが世界を救う〜 "wikilink")』に改題・リニューアルした。
+『**TVチャンピオン2**』（てれびちゃんぴおんつー、TV champion2）は、[2006年](../Page/2006年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で毎週木曜日19:57 - 20:54 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。前身の『[TVチャンピオン](../Page/TVチャンピオン.md "wikilink")』を継承している。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。2008年9月18日の番組終了後、同年[10月16日](../Page/10月16日.md "wikilink")より元チャンピオン達が出演する『[チャンピオンズ〜達人のワザが世界を救う〜](https://ja.wikipedia.org/wiki/チャンピオンズ〜達人のワザが世界を救う〜 "wikilink")』に改題・リニューアルした。
 
 ## 番組概要
 
@@ -17,7 +17,7 @@
 
 なお、競技内容については前番組から継続して行われている競技が多いので、詳細は[TVチャンピオン\#主な競技](https://ja.wikipedia.org/wiki/TVチャンピオン#主な競技 "wikilink")を参照の事。
 
-演出面も大きく変更された。テーマ曲やテロップ表示はスポーツ大会を模したようなものになり、各競技を表す[アイコン](../Page/アイコン.md "wikilink")が作られるようになった。出場者の[ゼッケン](https://ja.wikipedia.org/wiki/ゼッケン "wikilink")は白を基調として上下に色分けのための線を施したデザインになった。前回チャンピオンは基本的にゼッケンの色分けは金色となる（前番組では赤地に金枠であった）。
+演出面も大きく変更された。テーマ曲やテロップ表示はスポーツ大会を模したようなものになり、各競技を表す[アイコン](../Page/アイコン.md "wikilink")が作られるようになった。出場者の[ゼッケン](../Page/ゼッケン.md "wikilink")は白を基調として上下に色分けのための線を施したデザインになった。前回チャンピオンは基本的にゼッケンの色分けは金色となる（前番組では赤地に金枠であった）。
 
 2008年9月18日の最終回では「和菓子職人選手権」が放送され、CHAMPION STAGEで2名の勝敗を決する審査員を16年半のチャンピオンのうち43組（46名）が務め、高橋が8連覇を達成し番組は幕を閉じた。
 
@@ -25,7 +25,7 @@
 
 ### スタジオMC
 
-  - [田中義剛](https://ja.wikipedia.org/wiki/田中義剛 "wikilink")
+  - [田中義剛](../Page/田中義剛.md "wikilink")
   - [松本明子](../Page/松本明子.md "wikilink")
 
 ※スタジオは冒頭の前説及びエンディングの次回予告部分のみ。
@@ -36,25 +36,25 @@
   - [中村有志](../Page/中村有志.md "wikilink")
   - [辻よしなり](../Page/辻よしなり.md "wikilink")
   - [原口あきまさ](../Page/原口あきまさ.md "wikilink")
-  - [山崎まさや](https://ja.wikipedia.org/wiki/山崎まさや "wikilink")（[ジョーダンズ](https://ja.wikipedia.org/wiki/ジョーダンズ "wikilink")）
+  - [山崎まさや](../Page/山崎まさや.md "wikilink")（[ジョーダンズ](../Page/ジョーダンズ.md "wikilink")）
   - [梶原しげる](../Page/梶原しげる.md "wikilink")（ゆるキャラ王選手権）
-  - [レッド吉田](https://ja.wikipedia.org/wiki/レッド吉田 "wikilink")（[TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")）
-  - [梅田淳](https://ja.wikipedia.org/wiki/梅田淳 "wikilink")
+  - [レッド吉田](../Page/レッド吉田.md "wikilink")（[TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")）
+  - [梅田淳](../Page/梅田淳.md "wikilink")
   - [水野裕子](../Page/水野裕子.md "wikilink")
-  - [堤下敦](https://ja.wikipedia.org/wiki/堤下敦 "wikilink")
-  - [福永ちな](https://ja.wikipedia.org/wiki/福永ちな "wikilink")
-  - [セイン・カミュ](https://ja.wikipedia.org/wiki/セイン・カミュ "wikilink")
-  - [深沢邦之](https://ja.wikipedia.org/wiki/深沢邦之 "wikilink")
+  - [堤下敦](../Page/堤下敦.md "wikilink")
+  - [福永ちな](../Page/福永ちな.md "wikilink")
+  - [セイン・カミュ](../Page/セイン・カミュ.md "wikilink")
+  - [深沢邦之](../Page/深沢邦之.md "wikilink")
 
 ### ナレーター
 
-  - [田中信夫](https://ja.wikipedia.org/wiki/田中信夫 "wikilink")（オープニングのタイトルコール、エンディングおよび各ステージのルール説明など）
+  - [田中信夫](../Page/田中信夫.md "wikilink")（オープニングのタイトルコール、エンディングおよび各ステージのルール説明など）
   - [田子千尋](https://ja.wikipedia.org/wiki/田子千尋 "wikilink")（各ステージの実況など）
   - [阪井あかね](../Page/阪井あかね.md "wikilink")（選手のプロフィールなど）
 
 ### 実況
 
-  - [矢野武](https://ja.wikipedia.org/wiki/矢野武 "wikilink")
+  - [矢野武](../Page/矢野武.md "wikilink")
   - [市川勝也](https://ja.wikipedia.org/wiki/市川勝也 "wikilink")
 
 ## 番組でのエピソード・珍事
@@ -70,7 +70,7 @@
   - アキバ王選手権（寺尾幸紘）
   - 全国犬通選手権（金倉高志：ドッグキャッチ）
   - SL名物パン職人選手権（ドゥーセ・ドミニク・ジョン・モリス）
-  - 全国大食い選手権（[赤阪尊子](https://ja.wikipedia.org/wiki/赤阪尊子 "wikilink")）
+  - 全国大食い選手権（[赤阪尊子](../Page/赤阪尊子.md "wikilink")）
   - 全国お花屋さん[フラワーアレンジメント](https://ja.wikipedia.org/wiki/フラワーアレンジメント "wikilink")選手権（[柿崎順一](../Page/柿崎順一.md "wikilink")・[桜井慎](https://ja.wikipedia.org/wiki/桜井慎 "wikilink")）
   - 全国折り紙王選手権（[神谷哲史](../Page/神谷哲史.md "wikilink")）
   - 全国温泉通選手権（井上隆徳）
@@ -82,7 +82,7 @@
   - サンドアート王選手権（黒潮町砂像連盟）
   - 史上最強パチプロ王（[大崎一万発](https://ja.wikipedia.org/wiki/大崎一万発 "wikilink")）
   - 寿司職人選手権（[川澄健](https://ja.wikipedia.org/wiki/川澄健 "wikilink")）
-  - 全国魚通選手権（[さかなクン](https://ja.wikipedia.org/wiki/さかなクン "wikilink")）
+  - 全国魚通選手権（[さかなクン](../Page/さかなクン.md "wikilink")）
   - ダメ犬しつけ王選手権（白川真二・白川ドッグスクール）
   - 中華四天王選手権（宮本荘三）
   - 手先が器用選手権（原口高陽）
@@ -96,11 +96,11 @@
   - 鼻大王選手権（木村克己）
   - 全国パン通選手権（南谷久子）
   - フルーツカット王選手権（平野泰三・フルーツアカデミー\[1\]）
-  - 全国プロモデラー選手権（[山田卓司](https://ja.wikipedia.org/wiki/山田卓司_\(プロモデラー\) "wikilink")）
+  - 全国プロモデラー選手権（[山田卓司](../Page/山田卓司_\(プロモデラー\).md "wikilink")）
   - 文房具通選手権（[高畑正幸](https://ja.wikipedia.org/wiki/高畑正幸 "wikilink")）
   - ペーパークラフト王選手権（大熊光男）
   - 野菜フルーツ王選手権（田村善男）
-  - ゆるキャラ王選手権（わたる([本州四国連絡高速道路](https://ja.wikipedia.org/wiki/本州四国連絡高速道路 "wikilink"))）
+  - ゆるキャラ王選手権（わたる([本州四国連絡高速道路](../Page/本州四国連絡高速道路.md "wikilink"))）
   - 和菓子職人選手権（高橋弘光）
 
 ほか多数
@@ -126,8 +126,8 @@
   - ビジュアルフォーマット：松本哲也
   - VTR編集：西本静香、三井慎一郎
   - MA：長瀬貴広
-  - CG：[エンネットワーク](https://ja.wikipedia.org/wiki/エンネットワーク "wikilink")
-  - 音響効果：大久保吉久（[3×7](https://ja.wikipedia.org/wiki/ヴェントゥオノ "wikilink")）
+  - CG：[エンネットワーク](../Page/エンネットワーク.md "wikilink")
+  - 音響効果：大久保吉久（[3×7](../Page/ヴェントゥオノ.md "wikilink")）
   - タイトルロゴ：[佐藤可士和](../Page/佐藤可士和.md "wikilink")
   - 番宣：岡仁（テレビ東京）
   - AD（アシスタントディレクター）：桜井賢一、田中里美、木幡直樹、関口誠、奈須亮三、塩田誠、仁平飛鳥、張亮、小谷中薰、柴田竜幹（ホールマン）、豊川康成、市葉純一、入山真也、佐藤雄二、河田俊（[ゼロクリエイト](../Page/ゼロクリエイト.md "wikilink")）、露木友規之、田中晋也（テレビ東京）
@@ -137,9 +137,9 @@
   - 演出：[佐久間宣行](https://ja.wikipedia.org/wiki/佐久間宣行 "wikilink")、高砂佳典、村上徹夫（テレビ東京）、内山慶祐（ゼロクリエイト）
   - 総合演出：株木亘（テレビ東京）
   - プロデューサー：越山進（テレビ東京、以前は総合演出）、[永井宏明](https://ja.wikipedia.org/wiki/永井宏明_\(テレビプロデューサー\) "wikilink")（テレビ東京） / 土方教裕、新美信二、橋本元康（ホールマン）、今井勘太、酒井英樹（ゼロクリエイト）
-  - 技術・美術協力：[テクノマックス](https://ja.wikipedia.org/wiki/テクノマックス "wikilink")、[テレビ東京アート](../Page/テレビ東京アート.md "wikilink")、[CC Factory](https://ja.wikipedia.org/wiki/クリエイティヴ・コア#CCファクトリー（旧TDKビデオセンター） "wikilink")、ライズカンパニー、パワービジョン、LOOP、アビス（ABYSS）、LOGO市
+  - 技術・美術協力：[テクノマックス](../Page/テクノマックス.md "wikilink")、[テレビ東京アート](../Page/テレビ東京アート.md "wikilink")、[CC Factory](https://ja.wikipedia.org/wiki/クリエイティヴ・コア#CCファクトリー（旧TDKビデオセンター） "wikilink")、ライズカンパニー、パワービジョン、LOOP、アビス（ABYSS）、LOGO市
   - 映像協力：NHK
-  - 音楽協力：[テレビ東京ミュージック](https://ja.wikipedia.org/wiki/テレビ東京ミュージック "wikilink")
+  - 音楽協力：[テレビ東京ミュージック](../Page/テレビ東京ミュージック.md "wikilink")
   - 制作協力：[ホールマン](../Page/ホールマン.md "wikilink")、[零CREATE](../Page/ゼロクリエイト.md "wikilink")
   - 製作著作：テレビ東京
 
@@ -206,9 +206,9 @@
 
 ## 関連項目
 
-  - [TVチャンピオン](https://ja.wikipedia.org/wiki/TVチャンピオン "wikilink")
+  - [TVチャンピオン](../Page/TVチャンピオン.md "wikilink")
   - [TVチャンピオン極 ～KIWAMI～](https://ja.wikipedia.org/wiki/TVチャンピオン極_〜KIWAMI〜 "wikilink")
-  - [元祖\!大食い王決定戦](../Page/元祖!大食い王決定戦.md "wikilink")（大食い関連は別番組として扱う。ただし、[赤阪尊子](https://ja.wikipedia.org/wiki/赤阪尊子 "wikilink")や[ギャル曽根](../Page/ギャル曽根.md "wikilink")などは本番組の[デカ盛り](https://ja.wikipedia.org/wiki/デカ盛り "wikilink")王選手権などにゲスト出演したことがある。）
+  - [元祖\!大食い王決定戦](../Page/元祖!大食い王決定戦.md "wikilink")（大食い関連は別番組として扱う。ただし、[赤阪尊子](../Page/赤阪尊子.md "wikilink")や[ギャル曽根](../Page/ギャル曽根.md "wikilink")などは本番組の[デカ盛り](../Page/デカ盛り.md "wikilink")王選手権などにゲスト出演したことがある。）
 
 ## 外部リンク
 

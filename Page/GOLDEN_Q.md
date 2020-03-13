@@ -5,7 +5,7 @@
 
 ## 内容
 
-シャ乱Qが唯一[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得したアルバム。
+シャ乱Qが唯一[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を獲得したアルバム。
 
 ## 収録曲
 
@@ -14,13 +14,13 @@
         作詞:[つんく](https://ja.wikipedia.org/wiki/つんく "wikilink") 作曲:[たいせー](../Page/たいせい.md "wikilink") 編曲:シャ乱Q
 2.  **大阪エレジー**
       -
-        作詞:つんく 作曲:[はたけ](https://ja.wikipedia.org/wiki/はたけ "wikilink") 編曲:シャ乱Q
+        作詞:つんく 作曲:[はたけ](../Page/はたけ.md "wikilink") 編曲:シャ乱Q
 3.  **泣かないで**
       -
         作詞・作曲:つんく 編曲:シャ乱Q
 4.  **脱出**
       -
-        作詞:[まこと](https://ja.wikipedia.org/wiki/まこと_\(ミュージシャン\) "wikilink") 作詞:つんく 編曲:シャ乱Q
+        作詞:[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink") 作詞:つんく 編曲:シャ乱Q
 5.  **こんなにあなたを愛しているのに**
       -
         作詞:まこと 作曲:はたけ 編曲:シャ乱Q
@@ -64,8 +64,8 @@
 
   - [シャ乱Q](../Page/シャ乱Q.md "wikilink")
       - [つんく](https://ja.wikipedia.org/wiki/つんく "wikilink")
-      - [はたけ](https://ja.wikipedia.org/wiki/はたけ "wikilink")
-      - [まこと](https://ja.wikipedia.org/wiki/まこと_\(ミュージシャン\) "wikilink")
+      - [はたけ](../Page/はたけ.md "wikilink")
+      - [まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")
       - [しゅう](../Page/しゅう.md "wikilink")
       - [たいせー](../Page/たいせい.md "wikilink")
 

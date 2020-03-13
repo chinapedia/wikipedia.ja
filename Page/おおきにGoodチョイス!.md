@@ -11,16 +11,16 @@
 
   - [super collection DREAM melody of memories](https://ja.wikipedia.org/wiki/super_collection_DREAM_melody_of_memories "wikilink")（企画・制作/発売元：[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
   - [FUN Greatest Hits of 90's](../Page/FUN_Greatest_Hits_of_90's.md "wikilink")（企画・制作/発売元：[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")）
-  - [歌王 演歌名曲120選](https://ja.wikipedia.org/wiki/歌王_演歌名曲120選 "wikilink")（企画・制作/発売元：BMG JAPAN）
-  - [歌心 流行歌120選](https://ja.wikipedia.org/wiki/歌心_流行歌120選 "wikilink")（企画・制作/発売元：BMG JAPAN）
+  - [歌王 演歌名曲120選](../Page/歌王_演歌名曲120選.md "wikilink")（企画・制作/発売元：BMG JAPAN）
+  - [歌心 流行歌120選](../Page/歌心_流行歌120選.md "wikilink")（企画・制作/発売元：BMG JAPAN）
   - [COUNTDOWN BEING](../Page/COUNTDOWN_BEING.md "wikilink")（企画・制作/発売元：[J-DISC Being](../Page/J-DISC_Being.md "wikilink")）
   - [a-box 〜avex Best Hit Collection〜](https://ja.wikipedia.org/wiki/a-box_〜avex_Best_Hit_Collection〜 "wikilink")（企画・制作/発売元：[エイベックス・マーケティング](https://ja.wikipedia.org/wiki/エイベックス・マーケティング "wikilink")）
       - [a-box NEO](https://ja.wikipedia.org/wiki/a-box_NEO "wikilink")（企画・制作・発売元：エイベックス・マーケティング、レーベル：avex club）
-  - [魅惑のムード歌謡デラックス](../Page/魅惑のムード歌謡デラックス.md "wikilink")（企画・制作/発売元：[テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")）
+  - [魅惑のムード歌謡デラックス](../Page/魅惑のムード歌謡デラックス.md "wikilink")（企画・制作/発売元：[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")）
   - [徳光和夫のイントロオン\!\!](https://ja.wikipedia.org/wiki/徳光和夫のイントロオン!! "wikilink")（企画・制作・発売元：[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")）
   - [J-Love](https://ja.wikipedia.org/wiki/J-Love "wikilink")（企画・制作・発売元：ソニー・ミュージックダイレクト）
   - [音女](https://ja.wikipedia.org/wiki/音女 "wikilink")COMPLETE BOX 〜100話100曲〜（企画・制作/発売元：エイベックス・マーケティング）
-  - [My Romance](https://ja.wikipedia.org/wiki/My_Romance "wikilink")（企画・制作・発売元：[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）
+  - [My Romance](https://ja.wikipedia.org/wiki/My_Romance "wikilink")（企画・制作・発売元：[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
 
 ### 生活アイディア用品
 
@@ -70,7 +70,7 @@
 
 ## 関連項目
 
-  - [saQwa](https://ja.wikipedia.org/wiki/サクワ "wikilink")
+  - [saQwa](../Page/サクワ.md "wikilink")
   - [ワールドコレクションゴールド](https://ja.wikipedia.org/wiki/ワールドコレクションゴールド "wikilink")
       -
         [毎日放送](../Page/毎日放送.md "wikilink")が制作する、テレビショッピングのコンセプトに近い番組。ただし、『おおきにGoodチョイス\!』は関西ローカルのみの放送であるが、この番組は[デジタルダイレクト](https://ja.wikipedia.org/wiki/デジタルダイレクト "wikilink")が販売するブランド『saQwa ～サクワスタイル～』にもネットされている。

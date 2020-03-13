@@ -1,21 +1,21 @@
 > この記事は[TheSoul](https://ja.wikipedia.org/wiki/TheSoul)から翻訳されています。
 
 
-**theSoul**（ザ・ソウル）は[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。バンド名は「theSoul」で、theとSoulの間の半角スペースは無い。
+**theSoul**（ザ・ソウル）は[福岡県](../Page/福岡県.md "wikilink")出身の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。バンド名は「theSoul」で、theとSoulの間の半角スペースは無い。
 
 ## 来歴
 
 [2003年](../Page/2003年.md "wikilink")、河野と村井の2人で結成。[2004年](../Page/2004年.md "wikilink")に現メンバーとなる。
 
-[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")内の[キャナルシティ博多](../Page/キャナルシティ博多.md "wikilink")、[警固公園](https://ja.wikipedia.org/wiki/警固公園 "wikilink")などでストリートライヴを行い、多くの聴衆を集めたことで、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")の『[ドォーモ](https://ja.wikipedia.org/wiki/ドォーモ "wikilink")』でも紹介されたことがあった。その後[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月に[東京](../Page/東京.md "wikilink")に活動の中心を移すため上京。[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")周辺から東京でのストリートライヴを始め、ここでも300人を超すなど多くの観客を集めた。
+[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")内の[キャナルシティ博多](../Page/キャナルシティ博多.md "wikilink")、[警固公園](https://ja.wikipedia.org/wiki/警固公園 "wikilink")などでストリートライヴを行い、多くの聴衆を集めたことで、[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")の『[ドォーモ](../Page/ドォーモ.md "wikilink")』でも紹介されたことがあった。その後[2005年](../Page/2005年.md "wikilink")2月に[東京](../Page/東京.md "wikilink")に活動の中心を移すため上京。[新宿駅](https://ja.wikipedia.org/wiki/新宿駅 "wikilink")周辺から東京でのストリートライヴを始め、ここでも300人を超すなど多くの観客を集めた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[Zepp Fukuokaでワンマンライブを行う](https://ja.wikipedia.org/wiki/Zepp_Fukuoka "wikilink")。同年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[東芝EMIより](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")「誰も知らない歌」でメジャーデビュー。
+[2006年](../Page/2006年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[Zepp Fukuokaでワンマンライブを行う](https://ja.wikipedia.org/wiki/Zepp_Fukuoka "wikilink")。同年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")、[東芝EMIより](../Page/EMIミュージック・ジャパン.md "wikilink")「誰も知らない歌」でメジャーデビュー。
 
 [2009年](../Page/2009年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に独立し、株式会社サンライズジャパン設立。
 
 ## メンバー
 
-  - 河野健太郎（かわのけんたろう、[1976年](../Page/1976年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - ）リーダー。ボーカル・ギター・キーボード。[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身
+  - 河野健太郎（かわのけんたろう、[1976年](../Page/1976年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - ）リーダー。ボーカル・ギター・キーボード。[福岡県](../Page/福岡県.md "wikilink")出身
   - 村井清崇（むらいきよたか、[1979年](../Page/1979年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - ）ボーカル。[長崎県](../Page/長崎県.md "wikilink")出身
   - 金城裕紀（きんじょうゆうき、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[2月7日](../Page/2月7日.md "wikilink") - ）ベース。[沖縄県](../Page/沖縄県.md "wikilink")出身
   - 楯岡裕人（たておかひろと、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月14日](../Page/1月14日.md "wikilink") - ）ギター。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身
@@ -77,7 +77,7 @@
 <li>栞 【作詞作曲:河野健太郎/編曲:十川知司】</li>
 <li>誰も知らない歌(Inst.)</li>
 </ol></td>
-<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TVエンディングテーマ</a><br />
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TVエンディングテーマ</a><br />
 オリコン最高96位</p></td>
 </tr>
 <tr class="even">
@@ -87,7 +87,7 @@
 <td><p>TOCT-40078</p></td>
 <td><ol>
 <li>白い街 【作詞:河野健太郎,宮原芽映/作曲:河野健太郎/編曲:十川知司】</li>
-<li>OVER 【作詞:河野健太郎,宮原芽映/作曲:河野健太郎/編曲:<a href="https://ja.wikipedia.org/wiki/羽毛田丈史" title="wikilink">羽毛田丈史</a>】</li>
+<li>OVER 【作詞:河野健太郎,宮原芽映/作曲:河野健太郎/編曲:<a href="../Page/羽毛田丈史.md" title="wikilink">羽毛田丈史</a>】</li>
 <li>白い街(Instrumental)</li>
 </ol></td>
 <td><p>TBS系「<a href="../Page/日立_世界・ふしぎ発見!.md" title="wikilink">日立 世界・ふしぎ発見!</a>」エンディングテーマ<br />

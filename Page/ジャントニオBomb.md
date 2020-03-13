@@ -1,7 +1,7 @@
 > この記事は[Bomb](https://ja.wikipedia.org/wiki/Bomb)から翻訳されています。
 
 
-『**ジャントニオBomb**』（じゃんとにお ぼむ）は、[浜岡賢次](../Page/浜岡賢次.md "wikilink")の[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")の中の一つ。1994年から1年間『[月刊少年チャンピオン](https://ja.wikipedia.org/wiki/月刊少年チャンピオン "wikilink")』に連載された。全1巻。
+『**ジャントニオBomb**』（じゃんとにお ぼむ）は、[浜岡賢次](../Page/浜岡賢次.md "wikilink")の[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")の中の一つ。1994年から1年間『[月刊少年チャンピオン](../Page/月刊少年チャンピオン.md "wikilink")』に連載された。全1巻。
 
 ## 登場人物
 

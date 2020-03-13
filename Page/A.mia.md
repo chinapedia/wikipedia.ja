@@ -1,7 +1,7 @@
 > この記事は[A.mia](https://ja.wikipedia.org/wiki/A.mia)から翻訳されています。
 
 
-**a.mia**（エイミア）（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - ）は[横浜市](../Page/横浜市.md "wikilink")出身の[リズム・アンド・ブルース](../Page/リズム・アンド・ブルース.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。[神奈川県立金井高等学校](../Page/神奈川県立金井高等学校.md "wikilink")卒業。2002年[ユニバーサルJよりデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。現在は[Little Hippiesというバンドで活動している](https://ja.wikipedia.org/wiki/Little_Hippies "wikilink")。
+**a.mia**（エイミア）（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") - ）は[横浜市](../Page/横浜市.md "wikilink")出身の[リズム・アンド・ブルース](../Page/リズム・アンド・ブルース.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。[神奈川県立金井高等学校](../Page/神奈川県立金井高等学校.md "wikilink")卒業。2002年[ユニバーサルJよりデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。現在は[Little Hippiesというバンドで活動している](https://ja.wikipedia.org/wiki/Little_Hippies "wikilink")。
 
 ## ディスコグラフィー
 
@@ -11,7 +11,7 @@
     1.  luvmirage,\[4:25\]
           -
             作詞：a.mia／作曲・編曲：SATORU SUGAWARA
-            [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVオープニングテーマ](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")
+            [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVオープニングテーマ](../Page/COUNT_DOWN_TV.md "wikilink")
     2.  影と闇とこの空へ\[4:58\]
           -
             作詞：a.mia／作曲・編曲：SATORU SUGAWARA
@@ -43,7 +43,7 @@
     1.  あなただけを\[5:11\]
           -
             作詞：a.mia／作曲・編曲：sugawara satoru
-            ドラマ「[クニミツの政](https://ja.wikipedia.org/wiki/クニミツの政 "wikilink")」挿入歌
+            ドラマ「[クニミツの政](../Page/クニミツの政.md "wikilink")」挿入歌
     2.  情熱の果実 feat.Lady Q\[4:32\]
           -
             作詞：a.mia／作曲・編曲：sugawara satoru
@@ -52,7 +52,7 @@
 5.  [LAT.43°N 〜forty-three degrees north latitude〜](../Page/LAT.43°N_〜forty-three_degrees_north_latitude〜.md "wikilink")（2003年10月29日）
     1.  LAT.43°N 〜forty-three degrees north latitude〜\[5:49\]
           -
-            作詞・作曲：[YOSHIDA MIWA](https://ja.wikipedia.org/wiki/吉田美和 "wikilink")／編曲：sugawara satoru
+            作詞・作曲：[YOSHIDA MIWA](../Page/吉田美和.md "wikilink")／編曲：sugawara satoru
             [DREAMS COME TRUEのカバー](../Page/DREAMS_COME_TRUE.md "wikilink")。ドラマ「[エ・アロール それがどうしたの](../Page/エ・アロール_それがどうしたの.md "wikilink")」主題歌
     2.  夜明けの詩 with VOJA\[5:26\]
           -

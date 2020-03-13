@@ -7,7 +7,7 @@
 
 ## Ryu Kurokageの背景
 
-[児童ポルノ禁止法により](https://ja.wikipedia.org/wiki/児童買春、児童ポルノに係る行為等の処罰及び児童の保護等に関する法律 "wikilink")[少女ヌード](https://ja.wikipedia.org/wiki/少女ヌード "wikilink")が取締られるようになる少し前の時期に、本名名義と併用された力武靖のペンネームである。この頃、力武はかねてから[少女ヌード写真集](https://ja.wikipedia.org/wiki/少女ヌード写真集 "wikilink")を出版してきた[さーくる社](https://ja.wikipedia.org/wiki/さーくる社 "wikilink")からのリリースを縮小し、自らのオフィスである[力武靖写真事務所](https://ja.wikipedia.org/wiki/力武靖写真事務所 "wikilink")（[スタジオR](https://ja.wikipedia.org/wiki/スタジオR "wikilink")）や[ロリコンショップ](../Page/ロリコンショップ.md "wikilink")・ペペから[無修正](https://ja.wikipedia.org/wiki/無修正 "wikilink")作品として発表するようになっていった。
+[児童ポルノ禁止法により](https://ja.wikipedia.org/wiki/児童買春、児童ポルノに係る行為等の処罰及び児童の保護等に関する法律 "wikilink")[少女ヌード](https://ja.wikipedia.org/wiki/少女ヌード "wikilink")が取締られるようになる少し前の時期に、本名名義と併用された力武靖のペンネームである。この頃、力武はかねてから[少女ヌード写真集](https://ja.wikipedia.org/wiki/少女ヌード写真集 "wikilink")を出版してきた[さーくる社](https://ja.wikipedia.org/wiki/さーくる社 "wikilink")からのリリースを縮小し、自らのオフィスである[力武靖写真事務所](../Page/力武靖写真事務所.md "wikilink")（[スタジオR](https://ja.wikipedia.org/wiki/スタジオR "wikilink")）や[ロリコンショップ](../Page/ロリコンショップ.md "wikilink")・ペペから[無修正](https://ja.wikipedia.org/wiki/無修正 "wikilink")作品として発表するようになっていった。
 
 さーくる社から出された写真集が2000円～2500円であるのに対してこれらは4000円以上と高価で、また、ペペによる限定販売であったことから市場は極めて狭いものとなった。
 
@@ -174,6 +174,6 @@
 ## 関連項目
 
   - [ロリータ](../Page/ロリータ.md "wikilink")
-  - [少女愛](https://ja.wikipedia.org/wiki/少女愛 "wikilink")
+  - [少女愛](../Page/少女愛.md "wikilink")
 
 [Category:日本の写真家](https://ja.wikipedia.org/wiki/Category:日本の写真家 "wikilink") [Category:少女愛](https://ja.wikipedia.org/wiki/Category:少女愛 "wikilink")

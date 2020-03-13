@@ -19,7 +19,7 @@
   - [篠田陽子](https://ja.wikipedia.org/wiki/篠田陽子 "wikilink")（フリーアナウンサー）
   - [高木恵子](https://ja.wikipedia.org/wiki/高木恵子 "wikilink")（当時岐阜放送アナウンサー） - 「Touch\! the Sports」を担当。
   - [熊田力三](https://ja.wikipedia.org/wiki/熊田力三 "wikilink")（当時岐阜放送アナウンサー） - 2006年3月まで出演。
-  - [伊藤伸久](https://ja.wikipedia.org/wiki/伊藤伸久 "wikilink")（当時岐阜放送アナウンサー） - 2006年4月から2007年3月まで出演。
+  - [伊藤伸久](../Page/伊藤伸久.md "wikilink")（当時岐阜放送アナウンサー） - 2006年4月から2007年3月まで出演。
 
 ## コーナー
 

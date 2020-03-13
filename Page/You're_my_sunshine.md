@@ -6,11 +6,11 @@
 ## 解説
 
   - [1996年](../Page/1996年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
-  - 自身が出演した[ブリストル・マイヤーズ スクイブ](../Page/ブリストル・マイヤーズ_スクイブ.md "wikilink")（現・[エフティ資生堂](https://ja.wikipedia.org/wiki/エフティ資生堂 "wikilink")）「[シーブリーズ](../Page/シーブリーズ.md "wikilink") '96」CFイメージソング。初期CFで使われたバージョンはCDパッケージ版とはテンポや曲調が違っていた。翌1997年も、2年連続で起用された（楽曲は「[How to be a Girl](https://ja.wikipedia.org/wiki/How_to_be_a_Girl "wikilink")」）。
+  - 自身が出演した[ブリストル・マイヤーズ スクイブ](../Page/ブリストル・マイヤーズ_スクイブ.md "wikilink")（現・[エフティ資生堂](../Page/エフティ資生堂.md "wikilink")）「[シーブリーズ](../Page/シーブリーズ.md "wikilink") '96」CFイメージソング。初期CFで使われたバージョンはCDパッケージ版とはテンポや曲調が違っていた。翌1997年も、2年連続で起用された（楽曲は「[How to be a Girl](../Page/How_to_be_a_Girl.md "wikilink")」）。
   - 曲中の[ラップからテンポアップするダンスナンバー](https://ja.wikipedia.org/wiki/ラップ_\(音楽\) "wikilink")。[華原朋美](../Page/華原朋美.md "wikilink")がコーラスで参加。
   - 振付はお馴染みの[KABA](../Page/KABA.ちゃん.md "wikilink")（元[dos](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")）が担当。
   - 初動で40万枚を突破し、ダンスナンバーでのシングルでは自己最高初動を記録した。
-  - [オリコンでは](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3作連続、出荷ベースでは4作連続で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。
+  - [オリコンでは](../Page/オリコンチャート.md "wikilink")3作連続、出荷ベースでは4作連続で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した。
   - 累計出荷枚数は135万枚\[1\]。
   - 「You're my sunshine (EXTENDED MIX)」がアナログ盤「Chase the Chance / Don't wanna cry / You're my sunshine」に収録されている。
   - 「You're my sunshine (2013 SUMMER)」が小室哲哉の[iTunes Store](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[配信限定](../Page/音楽配信.md "wikilink")[リミックス](../Page/リミックス.md "wikilink")・アルバム『[DEBF EDM 2013 SUMMER](https://ja.wikipedia.org/wiki/DEBF_EDM_2013_SUMMER "wikilink")』にノンストップで収録されている。また、それを基調として作り直された「You're my sunshine 2014」が小室哲哉のアルバム『[TETSUYA KOMURO EDM TOKYO](https://ja.wikipedia.org/wiki/TETSUYA_KOMURO_EDM_TOKYO "wikilink")』に収録されている。
@@ -34,7 +34,7 @@
 
 <!-- end list -->
 
-  - オリジナル『**[SWEET 19 BLUES](https://ja.wikipedia.org/wiki/SWEET_19_BLUES "wikilink")**』(Hollywood Mix)
+  - オリジナル『**[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")**』(Hollywood Mix)
       - 冒頭のサビの歌唱がカットされ、シングルのSTRAIGHT RUNより長い[イントロとして流れている](../Page/導入部.md "wikilink")。[2000年](../Page/2000年.md "wikilink")に行われた全国ツアー『[NAMIE AMURO TOUR "GENIUS 2000"](https://ja.wikipedia.org/wiki/NAMIE_AMURO_TOUR_“GENIUS_2000” "wikilink")』ではこのバージョンで披露されている。なお、アメリカのテレビドラマ「[スパイ大作戦](../Page/スパイ大作戦.md "wikilink")」のメインテーマのフレーズを引用している\[2\]。
   - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
       - 編曲、ミックスはSTRAIGHT RUNであるが、終わり方がシングルと異なり、ラストサビが[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")でなく最後まで流れる終わり方になっている。

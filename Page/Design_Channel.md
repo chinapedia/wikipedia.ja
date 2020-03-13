@@ -1,7 +1,7 @@
 > この記事は[Design Channel](https://ja.wikipedia.org/wiki/Design_Channel)から翻訳されています。
 
 
-『**Design Channel**』（デザイン・チャンネル）は、「デザイン」をテーマにした[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで放送されていた。放送回数は全163回。
+『**Design Channel**』（デザイン・チャンネル）は、「デザイン」をテーマにした[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で[2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで放送されていた。放送回数は全163回。
 
 ## 内容
 
@@ -29,18 +29,18 @@
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [伊東豊雄](../Page/伊東豊雄.md "wikilink")
-  - [隈研吾](https://ja.wikipedia.org/wiki/隈研吾 "wikilink")
+  - [隈研吾](../Page/隈研吾.md "wikilink")
   - [サイトウマコト](https://ja.wikipedia.org/wiki/サイトウマコト "wikilink")
   - [斎藤和弘](https://ja.wikipedia.org/wiki/斎藤和弘 "wikilink")
   - [森田恭通](https://ja.wikipedia.org/wiki/森田恭通 "wikilink")
   - [高野秀士](https://ja.wikipedia.org/wiki/高野秀士 "wikilink")
   - [喜多俊之](../Page/喜多俊之.md "wikilink")
   - [小黒一三](../Page/小黒一三.md "wikilink")
-  - [内田繁](https://ja.wikipedia.org/wiki/内田繁 "wikilink")
+  - [内田繁](../Page/内田繁.md "wikilink")
   - [副田高行](https://ja.wikipedia.org/wiki/副田高行 "wikilink")
   - [盛田昌夫](https://ja.wikipedia.org/wiki/盛田昌夫 "wikilink")
   - [團紀彦](https://ja.wikipedia.org/wiki/團紀彦 "wikilink")
-  - [浅葉克己](https://ja.wikipedia.org/wiki/浅葉克己 "wikilink")
+  - [浅葉克己](../Page/浅葉克己.md "wikilink")
   - [中西元男](../Page/中西元男.md "wikilink")
   - [安藤忠雄](../Page/安藤忠雄.md "wikilink")
   - [森浩生](https://ja.wikipedia.org/wiki/森浩生 "wikilink")
@@ -59,7 +59,7 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [中島信也](https://ja.wikipedia.org/wiki/中島信也 "wikilink")
+  - [中島信也](../Page/中島信也.md "wikilink")
   - [手塚貴晴](../Page/手塚貴晴.md "wikilink")・[手塚由比](../Page/手塚由比.md "wikilink")
   - [川上元美](https://ja.wikipedia.org/wiki/川上元美 "wikilink")
   - [日比野克彦](../Page/日比野克彦.md "wikilink")
@@ -67,12 +67,12 @@
   - [永井弘明](https://ja.wikipedia.org/wiki/永井弘明 "wikilink")
   - [町田ひろ子](https://ja.wikipedia.org/wiki/町田ひろ子 "wikilink")
   - [永井一史](https://ja.wikipedia.org/wiki/永井一史 "wikilink")
-  - [松岡正剛](https://ja.wikipedia.org/wiki/松岡正剛 "wikilink")
+  - [松岡正剛](../Page/松岡正剛.md "wikilink")
   - [伊藤節](https://ja.wikipedia.org/wiki/伊藤節 "wikilink")
-  - [原研哉](https://ja.wikipedia.org/wiki/原研哉 "wikilink")
+  - [原研哉](../Page/原研哉.md "wikilink")
   - [杉本貴志](https://ja.wikipedia.org/wiki/杉本貴志 "wikilink")
   - [マルセル・ワンダース](https://ja.wikipedia.org/wiki/マルセル・ワンダース "wikilink")
-  - [野中ともよ](https://ja.wikipedia.org/wiki/野中ともよ "wikilink")
+  - [野中ともよ](../Page/野中ともよ.md "wikilink")
   - [奥村靫正](../Page/奥村靫正.md "wikilink")
   - [北川原温](../Page/北川原温.md "wikilink")
   - [メグホソキ](https://ja.wikipedia.org/wiki/メグホソキ "wikilink")
@@ -94,7 +94,7 @@
   - [長谷川祐子](https://ja.wikipedia.org/wiki/長谷川祐子 "wikilink")
   - [辻村久信](https://ja.wikipedia.org/wiki/辻村久信 "wikilink")
   - [左合ひとみ](https://ja.wikipedia.org/wiki/左合ひとみ "wikilink")
-  - [中村史郎](https://ja.wikipedia.org/wiki/中村史郎 "wikilink")
+  - [中村史郎](../Page/中村史郎.md "wikilink")
 
 </div>
 
@@ -105,8 +105,8 @@
   - 展覧会が紹介されるのは、その展覧会が終了してから。
   - デザイン特講は観客を前に実際に講義される。流れは講師紹介-講義-キーワード-講義の繰り返しで行われる。2～4週間続く。
   - デザイン特講講師の観客は一般人ではなくデザインに関係する人々。（主には学生）
-  - BGMはある程度決まったものが流される。（[FreeTEMPO](https://ja.wikipedia.org/wiki/FreeTEMPO "wikilink")の楽曲を使うことが多い）
-  - オープニングはクレジットは無いが、[砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink")のearth beat。エンディングは[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves [坂本龍一](../Page/坂本龍一.md "wikilink")のI WANNA BE down。
+  - BGMはある程度決まったものが流される。（[FreeTEMPO](../Page/FreeTEMPO.md "wikilink")の楽曲を使うことが多い）
+  - オープニングはクレジットは無いが、[砂原良徳](../Page/砂原良徳.md "wikilink")のearth beat。エンディングは[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink") loves [坂本龍一](../Page/坂本龍一.md "wikilink")のI WANNA BE down。
   - 外国人が登場する場合基本的にどこの国の人であろうとも英語で話し、内容は字幕で表される。
   - 「はなの私が気になったデザイン」は、はなが友達から貰ったり、ノミ市で買ってきた物なので、同じものを購入するのは難しい。
   - 「川上麻衣子の私が気になったデザイン」は、はなとは違い比較的現在でも買える物を紹介している。

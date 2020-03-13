@@ -1,18 +1,18 @@
 > この記事は[KING](https://ja.wikipedia.org/wiki/KING)から翻訳されています。
 
 
-**ラジKING**（ラジキング）は、[KRY山口放送ラジオで](https://ja.wikipedia.org/wiki/山口放送 "wikilink")[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")から放送を開始した[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**ラジKING**（ラジキング）は、[KRY山口放送ラジオで](https://ja.wikipedia.org/wiki/山口放送 "wikilink")[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")から放送を開始した[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
-31年間続いた『[Swing Saturday ねぎって行こう\!](https://ja.wikipedia.org/wiki/Swing_Saturday_ねぎって行こう! "wikilink")』の後を受ける形で「**さだとあ～やのラジKING**」（さだとあ～やのラジキング）のタイトルでスタート。前番組から引き続き[ネッツトヨタ山口が](https://ja.wikipedia.org/wiki/ネッツ店 "wikilink")[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")となり、前番組で好評だった[中古車](https://ja.wikipedia.org/wiki/中古車 "wikilink")を値切る企画も引き続き行われる。
+31年間続いた『[Swing Saturday ねぎって行こう\!](../Page/Swing_Saturday_ねぎって行こう!.md "wikilink")』の後を受ける形で「**さだとあ～やのラジKING**」（さだとあ～やのラジキング）のタイトルでスタート。前番組から引き続き[ネッツトヨタ山口が](../Page/ネッツ店.md "wikilink")[スポンサー](../Page/スポンサー.md "wikilink")となり、前番組で好評だった[中古車](../Page/中古車.md "wikilink")を値切る企画も引き続き行われる。
 
 パーソナリティの[塚田文](../Page/塚田文.md "wikilink")アナウンサーが、2009年3月31日をもって山口放送を退社したため（後任は[小野口奈々](https://ja.wikipedia.org/wiki/小野口奈々 "wikilink")アナウンサー）、タイトルが「さだとあ～やのラジKING」から「ラジKING」となった。 また、アナウンサーの[福谷貞夫](../Page/福谷貞夫.md "wikilink")アナウンサーが、2011年7月30日をもって山口放送を退社し（後任は[渡辺三千彦](../Page/渡辺三千彦.md "wikilink")アナウンサー）、また9月末をもって小野口奈々アナウンサーが「熱血テレビ」のMCとなったため、番組を降板し（後任は中村衣里アナウンサー）、同時に「**ラジKING GOLD**」（ラジキング ゴールド）に改名された。
 
 ## 放送時間
 
   - 毎週土曜日 16:00 - 16:55
-      - 初回放送は14:30 - 15:30に「[KRY秋まつり](https://ja.wikipedia.org/wiki/KRY秋まつり "wikilink")」公開[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")でのお披露目となった。
+      - 初回放送は14:30 - 15:30に「[KRY秋まつり](https://ja.wikipedia.org/wiki/KRY秋まつり "wikilink")」公開[生放送](../Page/生放送.md "wikilink")でのお披露目となった。
 
 ## パーソナリティ
 

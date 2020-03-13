@@ -7,7 +7,7 @@
 
 [ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で[スタジオ・ミュージシャン](../Page/スタジオ・ミュージシャン.md "wikilink")として活動していたリチャード・ペイジ、スティーヴ・ジョージが結成した[ペイジズ](https://ja.wikipedia.org/wiki/ペイジズ "wikilink")を前身とする。ペイジズ解散後、ペイジとジョージは新たなメンバーにスティーヴ・ファリスや[パット・マステロット](https://ja.wikipedia.org/wiki/パット・マステロット "wikilink")を迎えて**Mr.ミスター**を結成、[1984年](../Page/1984年.md "wikilink")にデビューした。
 
-この直後、リチャード・ペイジはボビー・キンボールの後釜として[TOTOのボーカリストに](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")、[ピーター・セテラ](../Page/ピーター・セテラ.md "wikilink")の後釜として[シカゴのボーカリスト](../Page/シカゴ_\(バンド\).md "wikilink")／ベーシストに誘われた。両者とも超大物バンドであり、ペイジにとっては大出世の話だったが、自身のバンドを続けるためにいずれも断っている。
+この直後、リチャード・ペイジはボビー・キンボールの後釜として[TOTOのボーカリストに](../Page/TOTO_\(バンド\).md "wikilink")、[ピーター・セテラ](../Page/ピーター・セテラ.md "wikilink")の後釜として[シカゴのボーカリスト](../Page/シカゴ_\(バンド\).md "wikilink")／ベーシストに誘われた。両者とも超大物バンドであり、ペイジにとっては大出世の話だったが、自身のバンドを続けるためにいずれも断っている。
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、2作目のアルバム『ウェルカム・トゥ・ザ・リアル・ワールド』からシングルカットされた「ブロークン・ウィングス」が全米1位を記録。続くシングル「キリエ」も1位、アルバムも1位の大ヒットとなり、バンドはブレイクした。
 
@@ -27,7 +27,7 @@
 
 ## メンバー
 
-  - リチャード・ペイジ (Richard Page) - リード[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - リチャード・ペイジ (Richard Page) - リード[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - スティーヴ・ジョージ (Steve George) - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[サックス](../Page/サクソフォーン.md "wikilink")、バックボーカル
   - スティーヴ・ファリス (Steve Farris) - [ギター](../Page/ギター.md "wikilink")、バックボーカル (1982年-1988年)
   - [パット・マステロット](https://ja.wikipedia.org/wiki/パット・マステロット "wikilink") (Pat Mastelotto) - [ドラム](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")

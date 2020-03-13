@@ -1,7 +1,7 @@
 > この記事は[Babamania](https://ja.wikipedia.org/wiki/Babamania)から翻訳されています。
 
 
-**babamania**（ババメイニア）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1992年に前身となるバンドを結成。[2000年](../Page/2000年.md "wikilink")に[テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")よりデビュー。 2011年2月11日、オリジナルメンバーにて復活ライブを行い、事実上の活動再開。
+**babamania**（ババメイニア）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1992年に前身となるバンドを結成。[2000年](../Page/2000年.md "wikilink")に[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")よりデビュー。 2011年2月11日、オリジナルメンバーにて復活ライブを行い、事実上の活動再開。
 
 ## メンバー
 
@@ -462,8 +462,8 @@ TECI-1109:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>Wanna Rock</p></td>
-<td><p>日本テレビ『<a href="https://ja.wikipedia.org/wiki/ブラックワイドショー" title="wikilink">ブラックワイドショー</a>』EDテーマ/TVゲーム『FIFA04』に収録<br />
-<a href="https://ja.wikipedia.org/wiki/坂本奈緒子" title="wikilink">坂本奈緒子</a>テーマ曲</p></td>
+<td><p>日本テレビ『<a href="../Page/ブラックワイドショー.md" title="wikilink">ブラックワイドショー</a>』EDテーマ/TVゲーム『FIFA04』に収録<br />
+<a href="../Page/坂本奈緒子.md" title="wikilink">坂本奈緒子</a>テーマ曲</p></td>
 </tr>
 <tr class="even">
 <td><p>Jungle Radio</p></td>
@@ -473,7 +473,7 @@ TECI-1109:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>Doobee Doowop Communication</p></td>
-<td><p>アニメ『<a href="https://ja.wikipedia.org/wiki/ロックマンエグゼStream" title="wikilink">ロックマンエグゼStream</a>』EDテーマ</p></td>
+<td><p>アニメ『<a href="../Page/ロックマンエグゼStream.md" title="wikilink">ロックマンエグゼStream</a>』EDテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>Bellbottom Sandwich</p></td>

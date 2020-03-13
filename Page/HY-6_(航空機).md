@@ -1,9 +1,9 @@
 > この記事は[HY-6 \(\)](https://ja.wikipedia.org/wiki/HY-6_\(\))から翻訳されています。
 
 
-**HY-6**（中国語:**轟油6**）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ツポレフ](https://ja.wikipedia.org/wiki/ツポレフ "wikilink")[Tu-16双発爆撃機を](../Page/Tu-16_\(航空機\).md "wikilink")[西安飛機工業公司](https://ja.wikipedia.org/wiki/西安飛機工業公司 "wikilink")が国産化した[H-6爆撃機を基に](../Page/H-6_\(航空機\).md "wikilink")[空中給油機](../Page/空中給油機.md "wikilink")に改造した機体である。H-6Uとも呼称される。
+**HY-6**（中国語:**轟油6**）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ツポレフ](../Page/ツポレフ.md "wikilink")[Tu-16双発爆撃機を](../Page/Tu-16_\(航空機\).md "wikilink")[西安飛機工業公司](https://ja.wikipedia.org/wiki/西安飛機工業公司 "wikilink")が国産化した[H-6爆撃機を基に](../Page/H-6_\(航空機\).md "wikilink")[空中給油機](../Page/空中給油機.md "wikilink")に改造した機体である。H-6Uとも呼称される。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に初飛行し、[1993年](../Page/1993年.md "wikilink")に[J-8D戦闘機との](https://ja.wikipedia.org/wiki/J-8II_\(航空機\) "wikilink")[空中給油](https://ja.wikipedia.org/wiki/空中給油 "wikilink")訓練が開始された。2006年現在およそ20機が運用されていると見られている\[1\]。ただし、[Su-27やSu-30とは規格が合わないため](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")[中国人民解放軍](../Page/中国人民解放軍.md "wikilink")は2005年に別途8機の[Il-78空中給油機をロシアに発注した](../Page/Il-78_\(航空機\).md "wikilink")（ロシアとの間で調達価格などをめぐる紛糾が発生したため取り消してウクライナに中古のIl-78MPを3機発注）。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に初飛行し、[1993年](../Page/1993年.md "wikilink")に[J-8D戦闘機との](../Page/J-8II_\(航空機\).md "wikilink")[空中給油](../Page/空中給油.md "wikilink")訓練が開始された。2006年現在およそ20機が運用されていると見られている\[1\]。ただし、[Su-27やSu-30とは規格が合わないため](https://ja.wikipedia.org/wiki/Su-27_\(航空機\) "wikilink")[中国人民解放軍](../Page/中国人民解放軍.md "wikilink")は2005年に別途8機の[Il-78空中給油機をロシアに発注した](../Page/Il-78_\(航空機\).md "wikilink")（ロシアとの間で調達価格などをめぐる紛糾が発生したため取り消してウクライナに中古のIl-78MPを3機発注）。
 
 ## 概要
 

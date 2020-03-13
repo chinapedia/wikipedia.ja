@@ -1,9 +1,9 @@
 > この記事は[R\&B](https://ja.wikipedia.org/wiki/R\&B)から翻訳されています。
 
 
-**コンテンポラリー・R\&B**（単に**R\&B**としても知られている、）は、[リズム・アンド・ブルース](../Page/リズム・アンド・ブルース.md "wikilink")、[ポップ](../Page/ポップ・ミュージック.md "wikilink")、[ソウル](https://ja.wikipedia.org/wiki/ソウル・ミュージック "wikilink")、[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")の要素を組み合わせた音楽ジャンルである。
+**コンテンポラリー・R\&B**（単に**R\&B**としても知られている、）は、[リズム・アンド・ブルース](../Page/リズム・アンド・ブルース.md "wikilink")、[ポップ](../Page/ポップ・ミュージック.md "wikilink")、[ソウル](https://ja.wikipedia.org/wiki/ソウル・ミュージック "wikilink")、[ファンク](../Page/ファンク.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")の要素を組み合わせた音楽ジャンルである。
 
-略称“R\&B”は、伝統的なリズム・アンド・ブルースに由来するが、現代ではコンテンポラリー・R\&Bを指す事が多い。[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")、[スティービー・ワンダー](https://ja.wikipedia.org/wiki/スティービー・ワンダー "wikilink")\[1\]、[ホイットニー・ヒューストン](https://ja.wikipedia.org/wiki/ホイットニー・ヒューストン "wikilink")\[2\]\[3\]、[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")らによって普及した。
+略称“R\&B”は、伝統的なリズム・アンド・ブルースに由来するが、現代ではコンテンポラリー・R\&Bを指す事が多い。[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")、[スティービー・ワンダー](https://ja.wikipedia.org/wiki/スティービー・ワンダー "wikilink")\[1\]、[ホイットニー・ヒューストン](../Page/ホイットニー・ヒューストン.md "wikilink")\[2\]\[3\]、[マライア・キャリー](https://ja.wikipedia.org/wiki/マライア・キャリー "wikilink")らによって普及した。
 
 ## 脚注
 

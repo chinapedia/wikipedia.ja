@@ -1,13 +1,13 @@
 > この記事は[SCAPE-GOD](https://ja.wikipedia.org/wiki/SCAPE-GOD)から翻訳されています。
 
 
-『**SCAPE-GOD**』（スケープゴッド）は、[高遠るい](../Page/高遠るい.md "wikilink")によるアクション漫画。[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")刊行『[電撃帝王](https://ja.wikipedia.org/wiki/電撃帝王 "wikilink")』Vol.5（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月）から連載。vol.11（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月）で完結。
+『**SCAPE-GOD**』（スケープゴッド）は、[高遠るい](../Page/高遠るい.md "wikilink")によるアクション漫画。[メディアワークス](../Page/メディアワークス.md "wikilink")刊行『[電撃帝王](https://ja.wikipedia.org/wiki/電撃帝王 "wikilink")』Vol.5（[2005年](../Page/2005年.md "wikilink")4月）から連載。vol.11（[2006年](../Page/2006年.md "wikilink")11月）で完結。
 
 ## 作品概要
 
 舞台は「特異（エクストラニアス）」と呼ばれる怪物達が何の前触れもなく人を襲う世界、女の子の姿をした神様と女子高生の特異との戦いを描くバイオレンス・ストーリー。
 
-内容は[ダーク・ファンタジー](../Page/ダーク・ファンタジー.md "wikilink")にあたり、[SFや](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[百合の要素を取り入れている](https://ja.wikipedia.org/wiki/百合_\(ジャンル\) "wikilink")。
+内容は[ダーク・ファンタジー](../Page/ダーク・ファンタジー.md "wikilink")にあたり、[SFや](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[百合の要素を取り入れている](../Page/百合_\(ジャンル\).md "wikilink")。
 
 ## ストーリー
 
@@ -22,9 +22,9 @@
 ## 登場人物
 
   - ひつじさん
-    [主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")。巨大な剣を武器にはるか古代より特異と戦い続けていた神。名は持っていなかったが、頭部にある角の形状より「ひつじさん」と呼ばれることに。宇宙と同時に誕生した究極の存在であり、宇宙消滅を防ぐため、その代償に全ての不運と永遠の苦痛を背負う事に。
+    [主人公](../Page/主人公.md "wikilink")。巨大な剣を武器にはるか古代より特異と戦い続けていた神。名は持っていなかったが、頭部にある角の形状より「ひつじさん」と呼ばれることに。宇宙と同時に誕生した究極の存在であり、宇宙消滅を防ぐため、その代償に全ての不運と永遠の苦痛を背負う事に。
   - 牧原緑（まきはら　みどり）
-    [ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")の女子高生。[男に興味がなく女の子が大好き](../Page/レズビアン.md "wikilink")。母親を特異に殺され、父親も[借金](https://ja.wikipedia.org/wiki/借金 "wikilink")を残して蒸発し、今は一人暮らし。ひつじさんとの出会いが彼女の運命を大きく変える。
+    [ヒロイン](../Page/ヒロイン.md "wikilink")の女子高生。[男に興味がなく女の子が大好き](../Page/レズビアン.md "wikilink")。母親を特異に殺され、父親も[借金](../Page/借金.md "wikilink")を残して蒸発し、今は一人暮らし。ひつじさんとの出会いが彼女の運命を大きく変える。
   - 七瀬（ななせ）
     緑の親友の女の子。緑より告白を受けるが、友達でいたいため断る。だが、仲直りする前に特異に殺されてしまう。
   - ブルック・ニューマン
@@ -34,7 +34,7 @@
   - ブラックゴート
     合衆国がひつじさんを研究して開発した、対『特異』独立遊撃人工神格。ひつじさんをも凌ぐ実力を持つが、実は特異により確実にひつじさんを抹殺するために作られた存在だった。顔が後述の羊に似ているが、その理由は最終話にて明らかになる。
   - 牧原羊（まきはら　よう）
-    ひつじさんと緑の「息子」。女性の体つきから[両性具有](https://ja.wikipedia.org/wiki/両性具有 "wikilink")であると思われる。16歳の誕生日、迎えに来た特異三女神により、その身が最後の特異「不法の獣（アンチメサイア）」となった事を告げられ、己の使命を全うする道を選ぶ。
+    ひつじさんと緑の「息子」。女性の体つきから[両性具有](../Page/両性具有.md "wikilink")であると思われる。16歳の誕生日、迎えに来た特異三女神により、その身が最後の特異「不法の獣（アンチメサイア）」となった事を告げられ、己の使命を全うする道を選ぶ。
   - 檎桐鸞（ごとう　らん）
     『[CYNTHIA THE MISSION](../Page/CYNTHIA_THE_MISSION.md "wikilink")』からのゲストキャラ。「ひつじや」法務部弁護士。
 
@@ -42,7 +42,7 @@
 
 古代から存在した謎の怪物。
 
-  - [人面犬](https://ja.wikipedia.org/wiki/人面犬 "wikilink")
+  - [人面犬](../Page/人面犬.md "wikilink")
     集団で現れて人を襲う。アヌビスがやられると退散した。
 
   - [アヌビス](../Page/アヌビス.md "wikilink")
@@ -55,16 +55,16 @@
     [マンハッタン](../Page/マンハッタン.md "wikilink")に飛来した群体で行動する特異。アメリカ軍の[タングステン](../Page/タングステン.md "wikilink")弾による対空砲火によりほぼ殲滅される。
 
   - [斉天大聖](../Page/斉天大聖.md "wikilink")
-    一言で言うと、[マンドリル](https://ja.wikipedia.org/wiki/マンドリル "wikilink")の顔をした[孫悟空](../Page/孫悟空.md "wikilink")。空港で飛行機を墜落させたりしたが、ひつじさんに戒めの呪文を唱えられて倒される。
+    一言で言うと、[マンドリル](../Page/マンドリル.md "wikilink")の顔をした[孫悟空](../Page/孫悟空.md "wikilink")。空港で飛行機を墜落させたりしたが、ひつじさんに戒めの呪文を唱えられて倒される。
 
   - 蛇神[ヴリトラ](../Page/ヴリトラ.md "wikilink")
     [ヨルダン](../Page/ヨルダン.md "wikilink")-[死海](../Page/死海.md "wikilink")にて、ひつじさん法術戦用端末（ソーサリーモバイル）第6号により撃破される。
 
   - 巨神[テュポーン](https://ja.wikipedia.org/wiki/テュポーン "wikilink")
-    [中国](https://ja.wikipedia.org/wiki/中国 "wikilink")-[三峡](https://ja.wikipedia.org/wiki/三峡 "wikilink")にて、ひつじさん白兵戦用端末（コンバット・モバイル）東方第08小隊により撃破される。
+    [中国](../Page/中国.md "wikilink")-[三峡](https://ja.wikipedia.org/wiki/三峡 "wikilink")にて、ひつじさん白兵戦用端末（コンバット・モバイル）東方第08小隊により撃破される。
 
-  - [蜃](https://ja.wikipedia.org/wiki/蜃 "wikilink")気楼
-    [エジプト](../Page/エジプト.md "wikilink")-[カイロ](https://ja.wikipedia.org/wiki/カイロ "wikilink")にて、首都中の人間に幻覚を見せて体内に取り込んで消化し、4体の特異を育てていた。牧原たちも飲み込んだが、ひつじさん非戦闘用端末（シビリアン・モバイル）第壱号の「第二次宇宙開闢（セカンド・ビッグバン）」により倒される。
+  - [蜃](../Page/蜃.md "wikilink")気楼
+    [エジプト](../Page/エジプト.md "wikilink")-[カイロ](../Page/カイロ.md "wikilink")にて、首都中の人間に幻覚を見せて体内に取り込んで消化し、4体の特異を育てていた。牧原たちも飲み込んだが、ひつじさん非戦闘用端末（シビリアン・モバイル）第壱号の「第二次宇宙開闢（セカンド・ビッグバン）」により倒される。
 
   - [ミノタウロス](https://ja.wikipedia.org/wiki/ミーノータウロス "wikilink")
     本編に登場する間もなく倒される。
@@ -72,13 +72,13 @@
   - [リヴァイアサン](https://ja.wikipedia.org/wiki/リヴァイアサン "wikilink")
     蜃気楼が育てていた4体の特異の一体。[黙示録](https://ja.wikipedia.org/wiki/黙示録 "wikilink")級の神獣。
 
-  - [蚩尤](https://ja.wikipedia.org/wiki/蚩尤 "wikilink")
+  - [蚩尤](../Page/蚩尤.md "wikilink")
     蜃気楼が育てていた4体の特異の一体。軍神。
 
   - [フェンリル](../Page/フェンリル.md "wikilink")
     蜃気楼が育てていた4体の特異の一体。黙示録級の神獣。
 
-  - [アズィ・ダハーカ](https://ja.wikipedia.org/wiki/アジ・ダハーカ "wikilink")
+  - [アズィ・ダハーカ](../Page/アジ・ダハーカ.md "wikilink")
     蜃気楼が育てていた4体の特異の一体。黙示録級の神獣。作者によると、[キングギドラ](../Page/キングギドラ.md "wikilink")がモデル。
 
   - [蛭子](https://ja.wikipedia.org/wiki/蛭子 "wikilink")
@@ -94,7 +94,7 @@
     特異三女神の一人。
 
   - 不法の獣（アンチメサイア）
-    [反救世主](https://ja.wikipedia.org/wiki/反キリスト "wikilink")。最後の特異と言われる。
+    [反救世主](../Page/反キリスト.md "wikilink")。最後の特異と言われる。
 
   - 白キ神（[ベリボーグ](https://ja.wikipedia.org/wiki/ベロボーグ "wikilink")）
 

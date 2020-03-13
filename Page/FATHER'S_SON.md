@@ -1,7 +1,7 @@
 > この記事は[FATHER\'S SON](https://ja.wikipedia.org/wiki/FATHER\'S_SON)から翻訳されています。
 
 
-『**FATHER'S SON**』（ファーザーズ・サン）は、[1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に発売された[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。[オリコン最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を記録。
+『**FATHER'S SON**』（ファーザーズ・サン）は、[1988年](../Page/1988年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に発売された[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。[オリコン最高](../Page/オリコンチャート.md "wikilink")1位を記録。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 大きなテーマとしては「[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")」「[戦争と戦後](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")」といったものが中心。1曲目「BLOOD LINE (フェンスの向こうの星条旗)」と2曲目「RISING SUN (風の勲章)」の印象が強いため、非常に重いメッセージ・アルバムのように感じられるが、半数はラブソングである。父親の死、[バブル経済](../Page/バブル経済.md "wikilink")、戦後の家族のあり方などを鋭く描き出している。
 
-浜田が30代半ばに入ったこともあり、より大人の世界観の歌を書き上げている。当時の[インタビュー](../Page/インタビュー.md "wikilink")でも「いつまでも若者の歌は歌えない。[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")が成長していくように、[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")も僕と一緒に成長してほしい」と語っている。
+浜田が30代半ばに入ったこともあり、より大人の世界観の歌を書き上げている。当時の[インタビュー](../Page/インタビュー.md "wikilink")でも「いつまでも若者の歌は歌えない。[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")が成長していくように、[リスナー](../Page/リスナー.md "wikilink")も僕と一緒に成長してほしい」と語っている。
 
 翌年にバラード集『[Wasted Tears](https://ja.wikipedia.org/wiki/Wasted_Tears "wikilink")』を制作後、音楽活動から距離を置くようになっている。後に浜田は「何をすべきか分からなかった。もう音楽を辞めようかと考えていた」と語っている。
 
@@ -25,7 +25,7 @@
 
   - All Chorus Arranged by [町支寛二](../Page/町支寛二.md "wikilink")
   - All Horn Arranged by [古村敏比古](../Page/古村敏比古.md "wikilink")
-  - All Strings Arranged by [梁邦彦](https://ja.wikipedia.org/wiki/梁邦彦 "wikilink")
+  - All Strings Arranged by [梁邦彦](../Page/梁邦彦.md "wikilink")
 
 **BLOOD LINE (フェンスの向こうの星条旗)**
 
@@ -42,7 +42,7 @@
   - Drums：高橋伸之
   - Electric Bass：江澤宏明
   - 12-Steing Acoustic Guitar & Electric Guitar：町支寛二
-  - Acoustic Piano：[梁邦彦](https://ja.wikipedia.org/wiki/梁邦彦 "wikilink")
+  - Acoustic Piano：[梁邦彦](../Page/梁邦彦.md "wikilink")
   - Synthesizer Programming：中山信彦
   - Synthesizer：板倉雅一
   - Flute：古村敏比古

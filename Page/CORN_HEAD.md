@@ -82,7 +82,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p>め組のひと feat.<a href="https://ja.wikipedia.org/wiki/MEGUMI" title="wikilink">MEGUMI</a></p></td>
 <td><p>UPCH-5198</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -321,7 +321,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月30日.md" title="wikilink">11月30日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月30日.md" title="wikilink">11月30日</a></p></td>
 <td><p><strong>FOR MY LADY'S</strong></p></td>
 <td><p>GICH-12</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -345,7 +345,7 @@
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p>LOVE SEEKER</p></td>
 <td><p>GICH-15</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -359,7 +359,7 @@
 <p># アゲナ</p></td>
 <td><ol>
 <li>LET IT GO feat.<a href="https://ja.wikipedia.org/wiki/JiN" title="wikilink">JiN</a></li>
-<li>LOVE SEEKER〜見つけたんだ〜 feat.<a href="https://ja.wikipedia.org/wiki/KEN-U" title="wikilink">KEN-U</a>,<a href="../Page/Home_Grown.md" title="wikilink">Home Grown</a></li>
+<li>LOVE SEEKER〜見つけたんだ〜 feat.<a href="../Page/KEN-U.md" title="wikilink">KEN-U</a>,<a href="../Page/Home_Grown.md" title="wikilink">Home Grown</a></li>
 <li>ライター</li>
 <li>DANCE HALL QUEEN</li>
 <li>FIESTA</li>
@@ -397,7 +397,7 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>Sky Higher</li>
-<li>放て彼方へ ft.<a href="https://ja.wikipedia.org/wiki/KEN-U" title="wikilink">KEN-U</a></li>
+<li>放て彼方へ ft.<a href="../Page/KEN-U.md" title="wikilink">KEN-U</a></li>
 <li>Nice Day</li>
 <li>In Da City ft.<a href="https://ja.wikipedia.org/wiki/RUEED" title="wikilink">RUEED</a></li>
 <li>Water Splash</li>
@@ -406,7 +406,7 @@
 <li>君が踊りだせば</li>
 <li>後ろからガっと!</li>
 <li>What's Up Hey Girl ft.<a href="https://ja.wikipedia.org/wiki/FINGER" title="wikilink">FINGER</a></li>
-<li>かけがえのない ft.<a href="https://ja.wikipedia.org/wiki/SATOMI&#39;" title="wikilink">SATOMI'</a></li>
+<li>かけがえのない ft.<a href="../Page/SATOMI&#39;.md" title="wikilink">SATOMI'</a></li>
 <li>One More Night ft.JIN
 </div>
 </div></li>
@@ -431,11 +431,11 @@
 <li>BEST KID</li>
 <li>End Of The World</li>
 <li>Making The Road</li>
-<li>May I See... feat. <a href="https://ja.wikipedia.org/wiki/KEN-U" title="wikilink">KEN-U</a></li>
+<li>May I See... feat. <a href="../Page/KEN-U.md" title="wikilink">KEN-U</a></li>
 <li>よくある...</li>
 <li>FOLLOW ME</li>
 <li>NEVER GIVE UP</li>
-<li>Smoke In Tha Marmalade Ver. CORN HEAD feat. <a href="https://ja.wikipedia.org/wiki/DS455" title="wikilink">DS455</a></li>
+<li>Smoke In Tha Marmalade Ver. CORN HEAD feat. <a href="../Page/DS455.md" title="wikilink">DS455</a></li>
 <li>Skit 〜イツカ ノ ダレカ〜</li>
 <li>MY LIFE</li>
 <li>THANK YOU
@@ -535,7 +535,7 @@
 <ol>
 <li>Intro</li>
 <li>PRESSURE TO PLEASURE / <a href="https://ja.wikipedia.org/wiki/JUN_4_SHOT" title="wikilink">JUN 4 SHOT</a></li>
-<li>飛んで跳ねとけ / <a href="https://ja.wikipedia.org/wiki/H-MAN" title="wikilink">H-MAN</a></li>
+<li>飛んで跳ねとけ / <a href="../Page/H-MAN.md" title="wikilink">H-MAN</a></li>
 <li>吸飲希望者 / <a href="https://ja.wikipedia.org/wiki/BOXER_KID" title="wikilink">BOXER KID</a></li>
 <li>ももかん</li>
 <li>現場至上主義 / <a href="https://ja.wikipedia.org/wiki/RYO_THE_SKYWALKER" title="wikilink">RYO THE SKYWALKER</a></li>
@@ -589,7 +589,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DS455" title="wikilink">DS455</a>『BAYSIDE RIDAZ』</p></td>
+<td><p><a href="../Page/DS455.md" title="wikilink">DS455</a>『BAYSIDE RIDAZ』</p></td>
 <td><p>WINX-82045</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -657,7 +657,7 @@
 <li>WHAT'S ON YORU MIND(Interlude)</li>
 <li>ZUGU ZUGU ZUUM feat.<a href="https://ja.wikipedia.org/wiki/RANKIN_TAXI" title="wikilink">RANKIN TAXI</a></li>
 <li>15:03</li>
-<li>STRAWBERRY <a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a> REMIX feat.KREVA</li>
+<li>STRAWBERRY <a href="../Page/KREVA.md" title="wikilink">KREVA</a> REMIX feat.KREVA</li>
 <li>SPARCLE〜JABROCK MIX〜</li>
 <li>明日へ (Outro)</li>
 <li>STRAWBERRY
@@ -771,7 +771,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/DS455" title="wikilink">DS455</a>『DabStar Clique』</p></td>
+<td><p><a href="../Page/DS455.md" title="wikilink">DS455</a>『DabStar Clique』</p></td>
 <td><p>UPCH-1211</p></td>
 <td><p>16.Smoke In Tha Marmalade+ feat.CORN HEAD</p></td>
 <td><p>UNIVERSAL J</p></td>
@@ -852,13 +852,13 @@
 <div class="NavContent" style="text-align:left;">
 <ol>
 <li>G.P. FUNK / <a href="https://ja.wikipedia.org/wiki/GP_a.k.a.GREEN_PEEACE" title="wikilink">GP a.k.a.GREEN PEEACE</a></li>
-<li>CHECK1・2 / <a href="https://ja.wikipedia.org/wiki/ラッパ我リヤ" title="wikilink">ラッパ我リヤ</a></li>
+<li>CHECK1・2 / <a href="../Page/ラッパ我リヤ.md" title="wikilink">ラッパ我リヤ</a></li>
 <li>Back To The Basic feat.SOUL SCREAM / ラッパ我リヤ</li>
 <li>R.G.力学 / ラッパ我リヤ</li>
 <li>ENTER THE 我〜燃えよ！我リヤ〜 / ラッパ我リヤ</li>
 <li>BIG BIG MONEY feat.HIRO / <a href="https://ja.wikipedia.org/wiki/ZEEBRA" title="wikilink">ZEEBRA</a></li>
 <li>G.Y.M / <a href="https://ja.wikipedia.org/wiki/OJ&amp;ST" title="wikilink">OJ&amp;ST</a>,<a href="../Page/KM-MARKIT.md" title="wikilink">KM-MARKIT</a>,<a href="https://ja.wikipedia.org/wiki/BRZ" title="wikilink">BRZ</a></li>
-<li>365/7 / <a href="https://ja.wikipedia.org/wiki/INDEMORAL" title="wikilink">INDEMORAL</a></li>
+<li>365/7 / <a href="../Page/INDEMORAL.md" title="wikilink">INDEMORAL</a></li>
 <li>サラブ列島 / <a href="https://ja.wikipedia.org/wiki/BACKGAMMON" title="wikilink">BACKGAMMON</a></li>
 <li>一刀両断 feat.煙巻 / <a href="https://ja.wikipedia.org/wiki/UZI" title="wikilink">UZI</a></li>
 <li>かけ / <a href="https://ja.wikipedia.org/wiki/REAL_STYLA" title="wikilink">REAL STYLA</a></li>
@@ -874,7 +874,7 @@
 <li>MAKE THE FUNKY ドラマ(inst) / <a href="https://ja.wikipedia.org/wiki/餓鬼レンジャー" title="wikilink">餓鬼レンジャー</a></li>
 <li>MONKY 4 / 餓鬼レンジャー</li>
 <li>CHAIN REACTION Re-Reaction Remix feat.UZI, <a href="../Page/DELI.md" title="wikilink">DELI</a>, Q, <a href="https://ja.wikipedia.org/wiki/BIGZAM" title="wikilink">BIGZAM</a>, <a href="../Page/TOKONA-X.md" title="wikilink">TOKONA-X</a>,<a href="https://ja.wikipedia.org/wiki/GORE-TEX" title="wikilink">GORE-TEX</a> / <a href="../Page/MURO.md" title="wikilink">MURO</a></li>
-<li>ワードスクリーマーズ feat.WORD SWINGAZ -Free style session- / <a href="https://ja.wikipedia.org/wiki/SOUL_SCREAM" title="wikilink">SOUL SCREAM</a></li>
+<li>ワードスクリーマーズ feat.WORD SWINGAZ -Free style session- / <a href="../Page/SOUL_SCREAM.md" title="wikilink">SOUL SCREAM</a></li>
 <li>誰が、今…(WHO'S DA HUSTLA?) / <a href="https://ja.wikipedia.org/wiki/WORD_SWINGAZ" title="wikilink">WORD SWINGAZ</a></li>
 <li>地球最後の日(inst) / MICADELIC</li>
 <li>LA LA means MICADELIC / MICADELIC</li>
@@ -964,7 +964,7 @@
 <li>BAY SQUAD / 風林火山, <a href="https://ja.wikipedia.org/wiki/YOYO-C" title="wikilink">YOYO-C</a>,<a href="https://ja.wikipedia.org/wiki/MUMMY-D" title="wikilink">MUMMY-D</a>,NANJAMAN,<a href="https://ja.wikipedia.org/wiki/MACCHO" title="wikilink">MACCHO</a>&amp;<a href="https://ja.wikipedia.org/wiki/SUPER_CRISS" title="wikilink">SUPER CRISS</a></li>
 <li>昭和イズム / Fu-rinkazan feat.NANJAMAN</li>
 <li>ZERO / Fu-rinkazan</li>
-<li>lowride 4 life / <a href="https://ja.wikipedia.org/wiki/DS455" title="wikilink">DS455</a></li>
+<li>lowride 4 life / <a href="../Page/DS455.md" title="wikilink">DS455</a></li>
 <li>STILL BELONG IN THE STREET / DS455</li>
 <li>STILL BELONG IN THE STREET(REMIX) / DS455 feat.<a href="../Page/BIG_RON.md" title="wikilink">BIG RON</a></li>
 <li>BAY SIDE CRUSIN / BIG RON feat.<a href="https://ja.wikipedia.org/wiki/richee" title="wikilink">richee</a>&amp;DS455</li>
@@ -979,7 +979,7 @@
 <td><p>GLAND SLAM RECORDS</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
 <td><p>Dancehall Premier Presents Reggae Million II</p></td>
 <td><p>UPCI-1028</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -990,12 +990,12 @@
 <ol>
 <li>million II intro / <a href="https://ja.wikipedia.org/wiki/HASE-T" title="wikilink">HASE-T</a></li>
 <li>炎 / <a href="https://ja.wikipedia.org/wiki/JUMBO_MAATCH" title="wikilink">JUMBO MAATCH</a></li>
-<li>CIRCUIT / <a href="https://ja.wikipedia.org/wiki/MICKY_RICH" title="wikilink">MICKY RICH</a>、<a href="https://ja.wikipedia.org/wiki/KEN-U" title="wikilink">KEN-U</a>、<a href="https://ja.wikipedia.org/wiki/DOMINO-KAT" title="wikilink">DOMINO-KAT</a></li>
+<li>CIRCUIT / <a href="https://ja.wikipedia.org/wiki/MICKY_RICH" title="wikilink">MICKY RICH</a>、<a href="../Page/KEN-U.md" title="wikilink">KEN-U</a>、<a href="https://ja.wikipedia.org/wiki/DOMINO-KAT" title="wikilink">DOMINO-KAT</a></li>
 <li>FOR YOU / <a href="https://ja.wikipedia.org/wiki/ROCKIN&#39;_TOSH" title="wikilink">ROCKIN' TOSH</a>、<a href="https://ja.wikipedia.org/wiki/MAKU_DI_IVER" title="wikilink">MAKU DI IVER</a>、<a href="../Page/Rickie-G.md" title="wikilink">Rickie-G</a></li>
 <li><strong>GOT WINU / CORN HEAD</strong></li>
 <li>BIG GUN / <a href="https://ja.wikipedia.org/wiki/BOXER_KID" title="wikilink">BOXER KID</a>、KEN-U</li>
 <li>MAN GET BUSY / <a href="https://ja.wikipedia.org/wiki/NG_HEAD" title="wikilink">NG HEAD</a></li>
-<li>醤油ベビ / <a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a></li>
+<li>醤油ベビ / <a href="../Page/KREVA.md" title="wikilink">KREVA</a></li>
 <li>POSITIVE / <a href="https://ja.wikipedia.org/wiki/ATOOSHI" title="wikilink">ATOOSHI</a></li>
 <li>エデンの浜辺 / Rickie-G</li>
 <li>いい湯 〜JAPANESE ORIGINAL〜 / <a href="https://ja.wikipedia.org/wiki/Jr.Dee" title="wikilink">Jr.Dee</a>、<a href="https://ja.wikipedia.org/wiki/BONG_MAN" title="wikilink">BONG MAN</a></li>
@@ -1008,7 +1008,7 @@
 <td><p>オリコン最高166位、登場回数3回</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/JIN" title="wikilink">JIN</a> with CORN HEAD『ONE』</p></td>
 <td><p>GICH-10</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1027,7 +1027,7 @@
 <td><p>SHOGUNATE</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
 <td><p>BREAKS &amp; BEATS DISNEY</p></td>
 <td><p>AVCW-12472</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1059,7 +1059,7 @@
 <td><p>オリコン最高41位、登場回数8回</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p>SHOGUNATE ALL STARS</p></td>
 <td><p>GICH-17</p></td>
 <td><p>2.ONE -N.O.S.REMIX- / CORN HEAD<br />
@@ -1067,14 +1067,14 @@
 <td><p>SHOGUNATE</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
 <td><p>WE LOVE WE (WE LOVE Winning Eleven)</p></td>
 <td><p>KFCA-10005</p></td>
 <td><p>7.KICK OFF / CORN HEAD &amp; MINESHIN-HOLD</p></td>
 <td><p>オリコン最高201位</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
 <td><p>JAPANESE REGGAE COMPILATION "HOTTA FIRE"</p></td>
 <td><p>KICS-1256</p></td>
 <td><p>4.WHO DA MAN / CORN HEAD feat. CHAPPiE RANKX<br />
@@ -1082,7 +1082,7 @@
 <td><p>キングレコード</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月13日" title="wikilink">12月13日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/12月13日" title="wikilink">12月13日</a></p></td>
 <td><p>2 HITS</p></td>
 <td></td>
 <td><p>RODS-0002</p></td>
@@ -1280,7 +1280,7 @@ YRCN-11104</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/7月29日.md" title="wikilink">7月29日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/HIBIKILLA" title="wikilink">HIBIKILLA</a>『BE FREE』</p></td>
+<td><p><a href="../Page/HIBIKILLA.md" title="wikilink">HIBIKILLA</a>『BE FREE』</p></td>
 <td><p>VDRP-0001</p></td>
 <td><p>10.Treasure Hunt Feat. CORN HEAD</p></td>
 <td><p>オリコン最高278位</p></td>
@@ -1573,7 +1573,7 @@ TOXF-5718</p></td>
 
 ## 関連項目
 
-  - [デジタル・チャリティー・ミュージックソン](https://ja.wikipedia.org/wiki/デジタル・チャリティー・ミュージックソン "wikilink")
+  - [デジタル・チャリティー・ミュージックソン](../Page/デジタル・チャリティー・ミュージックソン.md "wikilink")
   - [ブロードバンド\!ニッポン](../Page/ブロードバンド!ニッポン.md "wikilink")
 
 ## 外部リンク

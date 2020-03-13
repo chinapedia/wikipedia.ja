@@ -209,9 +209,9 @@
   - 「輪廻 -ロンド-」（編曲）
   - 「GO∞2」（編曲）
 
-**[加藤和樹](https://ja.wikipedia.org/wiki/加藤和樹 "wikilink")**
+**[加藤和樹](../Page/加藤和樹.md "wikilink")**
 
-  - 「[instinctive love](https://ja.wikipedia.org/wiki/in_LOVE "wikilink")」（[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")と共編曲）
+  - 「[instinctive love](https://ja.wikipedia.org/wiki/in_LOVE "wikilink")」（[TAKUYA](../Page/TAKUYA.md "wikilink")と共編曲）
 
 **[喜多修平](../Page/喜多修平.md "wikilink")**
 
@@ -363,7 +363,7 @@
 
 <!-- end list -->
 
-  - **[Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")**
+  - **[Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")**
       - 「[キスしちゃうぞ](https://ja.wikipedia.org/wiki/MUSIC_COLOSSEUM "wikilink")」（編曲）
 
 <!-- end list -->
@@ -373,7 +373,7 @@
 
 <!-- end list -->
 
-  - **[玉森裕太](https://ja.wikipedia.org/wiki/玉森裕太 "wikilink")**
+  - **[玉森裕太](../Page/玉森裕太.md "wikilink")**
       - 「T song 1 〜Can Try〜」（作詞・作曲）
 
 <!-- end list -->
@@ -396,7 +396,7 @@
       - 「[Best Friend](../Page/星をめざして.md "wikilink")」（編曲）
       - 「[with me](https://ja.wikipedia.org/wiki/weeeek "wikilink")」（編曲）
       - 「[Sweet Martini](https://ja.wikipedia.org/wiki/チュムチュム "wikilink")」（編曲）
-      - 「[ずっと](https://ja.wikipedia.org/wiki/Touch_\(NEWSのアルバム\) "wikilink")」（編曲）
+      - 「[ずっと](../Page/Touch_\(NEWSのアルバム\).md "wikilink")」（編曲）
       - 「[真冬のナガレボシ](https://ja.wikipedia.org/wiki/pacific "wikilink")」（編曲）
 
 <!-- end list -->
@@ -486,7 +486,7 @@
 
   - 「きみに逢いたくて」（作曲・編曲）
 
-**[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")**
+**[TAKUYA](../Page/TAKUYA.md "wikilink")**
 
   - 「54it 2004」（編曲）
 
@@ -570,7 +570,7 @@
   - 「[ヒマワリ](https://ja.wikipedia.org/wiki/My_Way〜ULala〜 "wikilink")」（編曲）
   - 「[プレゼント](https://ja.wikipedia.org/wiki/ブランケット・スノウ "wikilink")」（編曲）
 
-**[AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")**
+**[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")**
 
   - 「[ハレルヤ](../Page/ハレルヤ_\(AAAの曲\).md "wikilink")」（作曲・編曲・キーボード）
   - 「[Winter lander\!\!](../Page/Black&White.md "wikilink")」（編曲）
@@ -578,7 +578,7 @@
   - 「[Welcome to This World](../Page/ATTACK.md "wikilink")」（編曲）
   - 「[ミカンセイ](../Page/ALL_\(AAAのアルバム\).md "wikilink")」（作曲）
 
-**[TRUE](https://ja.wikipedia.org/wiki/唐沢美帆 "wikilink")**
+**[TRUE](../Page/唐沢美帆.md "wikilink")**
 
   - 「キネマ」（作曲・編曲）
   - 「ヒカリ」（作曲・編曲）
@@ -677,11 +677,11 @@
   - 「[Spring rain](https://ja.wikipedia.org/wiki/Spring_rain "wikilink")」（編曲）
   - 「[Crazy in my love](https://ja.wikipedia.org/wiki/EMOTIONAL_HISTORY "wikilink")」（編曲・キーボード）
 
-**[三浦涼介](https://ja.wikipedia.org/wiki/三浦涼介 "wikilink")**
+**[三浦涼介](../Page/三浦涼介.md "wikilink")**
 
   - 「escape」（編曲）
 
-**[三重野瞳](https://ja.wikipedia.org/wiki/三重野瞳 "wikilink")**
+**[三重野瞳](../Page/三重野瞳.md "wikilink")**
 
   - 「恋のかけら」（作曲）
 

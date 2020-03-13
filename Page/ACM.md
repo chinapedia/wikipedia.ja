@@ -20,13 +20,13 @@
 
   - [アカデミー・オブ・カントリーミュージック](https://ja.wikipedia.org/wiki/アカデミー・オブ・カントリーミュージック "wikilink") (Academy of Country Music) - アメリカ合衆国のカントリー・ミュージック組織。
 
-  - [ACM (企業)](https://ja.wikipedia.org/wiki/ACM_\(企業\) "wikilink") - アンパンマンこどもミュージアムの企画・運営を行う企業。
+  - [ACM (企業)](../Page/ACM_\(企業\).md "wikilink") - アンパンマンこどもミュージアムの企画・運営を行う企業。
 
-  - [AWS Certificate Manager](https://ja.wikipedia.org/wiki/AWS_Certificate_Manager "wikilink") - TLS証明書の認証局等のサービス。
+  - [AWS Certificate Manager](../Page/AWS_Certificate_Manager.md "wikilink") - TLS証明書の認証局等のサービス。
 
   - の略。Windowsの音声圧縮マネージャ。
 
-  - \- F1[モナコ・グランプリ](https://ja.wikipedia.org/wiki/モナコ・グランプリ "wikilink")、ラリー競技[ラリー・モンテカルロ](https://ja.wikipedia.org/wiki/ラリー・モンテカルロ "wikilink")を主催する、[モナコ](../Page/モナコ.md "wikilink")自動車クラブ。
+  - \- F1[モナコ・グランプリ](https://ja.wikipedia.org/wiki/モナコ・グランプリ "wikilink")、ラリー競技[ラリー・モンテカルロ](../Page/ラリー・モンテカルロ.md "wikilink")を主催する、[モナコ](../Page/モナコ.md "wikilink")自動車クラブ。
 
   - \- ロシアの[現代音楽協会](https://ja.wikipedia.org/wiki/現代音楽協会 "wikilink")。
 

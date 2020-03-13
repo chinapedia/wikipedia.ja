@@ -104,5 +104,5 @@
 
 [Category:中国・四国地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:中国・四国地方のコミュニティ放送局 "wikilink") [Category:山口県のマスメディア](https://ja.wikipedia.org/wiki/Category:山口県のマスメディア "wikilink")
 
-1.  [Music Bird](../Page/ミュージックバード.md "wikilink")、[J-WAVE](../Page/J-WAVE.md "wikilink")、[第一興商Star digio](https://ja.wikipedia.org/wiki/スターデジオ "wikilink")、[C・A・N](../Page/キャンシステム.md "wikilink")、[FM AMERICAなど](https://ja.wikipedia.org/wiki/FMアメリカ "wikilink")
+1.  [Music Bird](../Page/ミュージックバード.md "wikilink")、[J-WAVE](../Page/J-WAVE.md "wikilink")、[第一興商Star digio](../Page/スターデジオ.md "wikilink")、[C・A・N](../Page/キャンシステム.md "wikilink")、[FM AMERICAなど](https://ja.wikipedia.org/wiki/FMアメリカ "wikilink")
 2.  隣接する市にあるコミュニティFMのうち[FM NANAKO](../Page/エフエム萩.md "wikilink")（萩市）は[J-WAVE](../Page/J-WAVE.md "wikilink")を、[COME ON\! FM](../Page/コミュニティエフエム下関.md "wikilink")（下関市）は[ミュージックバード](../Page/ミュージックバード.md "wikilink")をそれぞれ配信している。

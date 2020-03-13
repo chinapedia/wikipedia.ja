@@ -30,7 +30,7 @@
 
 ### Ole\! アルディージャ
 
-  - 2003年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月25日](../Page/2月25日.md "wikilink")
+  - 2003年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - [2005年](../Page/2005年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")
       - 毎週金曜 23:30 - 23:45
       - 毎週土曜 7:15 - 7:30（再放送）
   - 2005年[3月4日](../Page/3月4日.md "wikilink") - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
@@ -48,7 +48,7 @@
 
 ## 出演
 
-  - 浜谷健司（[ハマカーン](https://ja.wikipedia.org/wiki/ハマカーン "wikilink")）（2018年1月 - ）
+  - 浜谷健司（[ハマカーン](../Page/ハマカーン.md "wikilink")）（2018年1月 - ）
   - [松村澪](https://ja.wikipedia.org/wiki/松村澪 "wikilink")（2019年6月 - ）
 
 ### 過去の出演

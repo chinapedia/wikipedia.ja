@@ -3,7 +3,7 @@
 
 **マリオテニスGC**（マリオテニスジーシー、*Mario Power Tennis*）は、[キャメロット製作](../Page/キャメロット_\(ゲーム会社\).md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")発売の[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[アクションスポーツゲーム](../Page/アクションゲーム.md "wikilink")。[マリオテニス](../Page/マリオテニス.md "wikilink")の第3作目。
 
-[2009年](../Page/2009年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に『[Wiiであそぶ マリオテニスGC](https://ja.wikipedia.org/wiki/Wiiであそぶセレクション "wikilink")』として[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")向けに[移植された](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")。
+[2009年](../Page/2009年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に『[Wiiであそぶ マリオテニスGC](https://ja.wikipedia.org/wiki/Wiiであそぶセレクション "wikilink")』として[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")向けに[移植された](../Page/移植_\(ソフトウェア\).md "wikilink")。
 
 ## 概要
 
@@ -64,7 +64,7 @@
   - [ドンキーコング](../Page/ドンキーコング_\(ゲームキャラクター・2代目\).md "wikilink")（パワー）
   - [ディディーコング](../Page/ディディーコング.md "wikilink")（スピード）
   - [テレサ](../Page/テレサ_\(ゲームキャラクター\).md "wikilink")（トリッキー）
-  - [ヘイホー](https://ja.wikipedia.org/wiki/ヘイホー_\(ゲームキャラクター\) "wikilink")（テクニック）
+  - [ヘイホー](../Page/ヘイホー_\(ゲームキャラクター\).md "wikilink")（テクニック）
   - [クッパ](../Page/クッパ_\(ゲームキャラクター\).md "wikilink")（パワー）
   - [クッパJr.](../Page/クッパJr..md "wikilink")（トリッキー）
 
@@ -76,8 +76,8 @@
 
   - [プロペラヘイホー](https://ja.wikipedia.org/wiki/ヘイホー_\(ゲームキャラクター\)#バリエーション "wikilink")（トリッキー）
   - [パタパタ](../Page/パタパタ_\(ゲームキャラクター\).md "wikilink")（テクニック）　※前作の「トリッキー」タイプから変更
-  - [ハナチャン](https://ja.wikipedia.org/wiki/ハナチャン_\(ゲームキャラクター\) "wikilink")（ディフェンス）
-  - [ボスパックン](https://ja.wikipedia.org/wiki/ボスパックン "wikilink")（パワー）
+  - [ハナチャン](../Page/ハナチャン_\(ゲームキャラクター\).md "wikilink")（ディフェンス）
+  - [ボスパックン](../Page/ボスパックン.md "wikilink")（パワー）
 
 ある程度トーナメントが進むと、隠しキャラや隠しコートが使えるようになる。 詳しくは後述するが、ヨッシーは防御系スペシャルショットで体の色を変えることができる。 ダブルスでの優勝シーンはワンパターンだが、シングルスの優勝シーンはキャラによって異なる。
 

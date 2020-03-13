@@ -1,7 +1,7 @@
 > この記事は[XOOPS](https://ja.wikipedia.org/wiki/XOOPS)から翻訳されています。
 
 
-**XOOPS**（ズープス、"e**X**tensible **O**bject **O**riented **P**ortal **S**ystem"）は、[ポータルシステムとして開発された](../Page/ポータルサイト.md "wikilink")[コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS) である。ユーザーは[Webサイトを多数のモジュールとテーマを用いて構築](../Page/ウェブサイト.md "wikilink")・更新する。
+**XOOPS**（ズープス、"e**X**tensible **O**bject **O**riented **P**ortal **S**ystem"）は、[ポータルシステムとして開発された](../Page/ポータルサイト.md "wikilink")[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS) である。ユーザーは[Webサイトを多数のモジュールとテーマを用いて構築](../Page/ウェブサイト.md "wikilink")・更新する。
 
 XOOPSは[PHPで記述されている](../Page/PHP_\(プログラミング言語\).md "wikilink")。[GPLに基づいて無償で公開されており](../Page/GNU_General_Public_License.md "wikilink")、修正・再配布することができる。
 
@@ -18,7 +18,7 @@ XOOPSはポータルシステムとして開発が始められたが、現在は
   - [2001年](../Page/2001年.md "wikilink")〜[2002年](../Page/2002年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [PHP-Nuke](../Page/PHP-Nuke.md "wikilink")ベースのmyPHPNukeを基にしたバージョンが[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")開発者により発表、公開
   - [2002年](../Page/2002年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - XOOPS 1.3.0がリリース。初の正規安定版となる
   - [2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - XOOPS 2.0.0リリース\[3\]
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月27日](../Page/7月27日.md "wikilink") - XOOPS 2.2.0をベータとして公開\[4\]
+  - [2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") - XOOPS 2.2.0をベータとして公開\[4\]
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月22日](../Page/9月22日.md "wikilink") - XOOPS 2.0にXOOPS 2.2の機能を結合させたXOOPS 2.3.0を発表\[5\]
   - [2009年](../Page/2009年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink") - 管理画面が一新されたXOOPS 2.4.0を発表\[6\]
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月13日](../Page/2月13日.md "wikilink") - XOOPS Project公認の日本語サポートサイトの設置\[7\]
@@ -81,7 +81,7 @@ XOOPSは多数のメディアより高い評価を受け受賞もある。
 <!-- end list -->
 
   - テーマベースのスキンを変更できるインターフェース
-    XOOPSはページ表示に[テーマを使用する](https://ja.wikipedia.org/wiki/スキン_\(GUI\) "wikilink")。管理者・ユーザはテーマを選択し、Webサイトの表示を変更することができる。
+    XOOPSはページ表示に[テーマを使用する](../Page/スキン_\(GUI\).md "wikilink")。管理者・ユーザはテーマを選択し、Webサイトの表示を変更することができる。
 
 <!-- end list -->
 
@@ -158,7 +158,7 @@ XOOPSは[PHP-Nuke](../Page/PHP-Nuke.md "wikilink")からの派生であるが、
 
 ## 関連項目
 
-  - [コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS)
+  - [コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS)
   - [PHP-Nuke](../Page/PHP-Nuke.md "wikilink")
   - [XOOPS Cube](../Page/XOOPS_Cube.md "wikilink")
   - [ImpressCMS](https://ja.wikipedia.org/wiki/ImpressCMS "wikilink")

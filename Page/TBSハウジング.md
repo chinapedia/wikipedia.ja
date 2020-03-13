@@ -5,7 +5,7 @@
 
 ## 概要
 
-TBSハウジングの事業主は[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")（TBSHD）子会社でラジオ放送事業者のTBS**ラジオ**（TBS **R**）\[1\]であり、同じくTBSHD子会社（＝TBSラジオの兄弟会社）で「TBS\[2\]」を略称とするテレビ放送事業者の[TBS**テレビ**ではない](../Page/TBSテレビ.md "wikilink")。これは、ハウジング事業がテレビ・ラジオの放送事業が分社化される前（＝旧東京放送の[ラテ兼営](https://ja.wikipedia.org/wiki/ラテ兼営 "wikilink")時代）はラジオ関係の部署に属していたためである\[3\]。このため、テレビとラジオの放送事業が分社化された現在、[コマーシャルはTBSラジオと](../Page/コマーシャルメッセージ.md "wikilink")[BS-TBS](../Page/BS-TBS.md "wikilink")を中心に放送されている。ただし、分社化前はテレビでも頻繁にCM放送を行っていた。宇都宮インターパーク会場の工事発注主は「東京放送」となっている（2007年10月12日に現地看板で確認）。また、看板やホームページで使用されている「TBS」のロゴは専らTBSテレビで使用しているTBSグループ共通ロゴが使われており、TBSラジオではほとんど使用されることのない[ジ〜ン](../Page/ジ〜ン.md "wikilink")も使用されているのみならず、TBSテレビのマスコット[BooBo](../Page/BooBo.md "wikilink")もホームページに登場している。
+TBSハウジングの事業主は[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")（TBSHD）子会社でラジオ放送事業者のTBS**ラジオ**（TBS **R**）\[1\]であり、同じくTBSHD子会社（＝TBSラジオの兄弟会社）で「TBS\[2\]」を略称とするテレビ放送事業者の[TBS**テレビ**ではない](../Page/TBSテレビ.md "wikilink")。これは、ハウジング事業がテレビ・ラジオの放送事業が分社化される前（＝旧東京放送の[ラテ兼営](../Page/ラテ兼営.md "wikilink")時代）はラジオ関係の部署に属していたためである\[3\]。このため、テレビとラジオの放送事業が分社化された現在、[コマーシャルはTBSラジオと](../Page/コマーシャルメッセージ.md "wikilink")[BS-TBS](../Page/BS-TBS.md "wikilink")を中心に放送されている。ただし、分社化前はテレビでも頻繁にCM放送を行っていた。宇都宮インターパーク会場の工事発注主は「東京放送」となっている（2007年10月12日に現地看板で確認）。また、看板やホームページで使用されている「TBS」のロゴは専らTBSテレビで使用しているTBSグループ共通ロゴが使われており、TBSラジオではほとんど使用されることのない[ジ〜ン](../Page/ジ〜ン.md "wikilink")も使用されているのみならず、TBSテレビのマスコット[BooBo](../Page/BooBo.md "wikilink")もホームページに登場している。
 
 企画・運営はTBSHD傘下の株式会社[TBSグロウディア](https://ja.wikipedia.org/wiki/TBSグロウディア "wikilink")（旧・[TBSサービス](https://ja.wikipedia.org/wiki/TBSサービス "wikilink")）、広告代理店である株式会社コスモセブン、不動産販売代理店である株式会社三友ラジオ・エージェンシーの3社が分担して行っている。
 
@@ -15,7 +15,7 @@ TBSハウジングの事業主は[東京放送ホールディングス](../Page/
 
 [2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")よりCMソングが変更され、[白井貴子が歌っている](../Page/白井貴子_\(歌手\).md "wikilink")。
 
-展示場は主に[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[郊外](../Page/郊外.md "wikilink")の、付近に大型ショッピングセンターなどがある場所に展開している。現在は[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")・[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")・[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")・[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")に展示場がある。2013年4月には[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")環内唯一の住宅展示場\[6\]である渋谷会場がオープンした。
+展示場は主に[首都圏](https://ja.wikipedia.org/wiki/首都圏_\(日本\) "wikilink")[郊外](../Page/郊外.md "wikilink")の、付近に大型ショッピングセンターなどがある場所に展開している。現在は[埼玉県](../Page/埼玉県.md "wikilink")・[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")・[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")・[東京都](../Page/東京都.md "wikilink")に展示場がある。2013年4月には[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")環内唯一の住宅展示場\[6\]である渋谷会場がオープンした。
 
 ## 展示場一覧
 
@@ -38,7 +38,7 @@ TBSハウジングの事業主は[東京放送ホールディングス](../Page/
   - 新高崎会場 : 群馬県[高崎市](../Page/高崎市.md "wikilink")
   - 太田会場 : 群馬県[太田市](../Page/太田市.md "wikilink")
   - 桐生会場 : 群馬県[桐生市](../Page/桐生市.md "wikilink")
-  - 千葉あすみヶ丘会場 : [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[千葉市](../Page/千葉市.md "wikilink")
+  - 千葉あすみヶ丘会場 : [千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")
 
 ## 脚注
 

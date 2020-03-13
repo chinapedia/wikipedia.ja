@@ -14,10 +14,10 @@
         作曲:生沢佑一 編曲:TWINZER
 2.  **[LEAVE ME ALONE](../Page/LEAVE_ME_ALONE.md "wikilink")**
       -
-        作詞:[三浦徳子](../Page/三浦徳子.md "wikilink") 作曲・編曲:[春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")
+        作詞:[三浦徳子](../Page/三浦徳子.md "wikilink") 作曲・編曲:[春畑道哉](../Page/春畑道哉.md "wikilink")
 3.  **Let's stay together**
       -
-        作詞:小田佳奈子 作曲:生沢佑一 編曲:[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞:小田佳奈子 作曲:生沢佑一 編曲:[明石昌夫](../Page/明石昌夫.md "wikilink")
         シングル「I Will Wait For You」のカップリング曲。
 4.  **[OH SHINY DAYS](../Page/OH_SHINY_DAYS_\(曲\).md "wikilink")**
       -
@@ -45,10 +45,10 @@
 ## 参加アーティスト
 
   - 高原裕枝 - コーラス
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink") ([ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink")) - コーラス
-  - [上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink") ([WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")) - コーラス
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink") ([ZYYG](../Page/ZYYG.md "wikilink")) - コーラス
+  - [上杉昇](../Page/上杉昇.md "wikilink") ([WANDS](../Page/WANDS.md "wikilink")) - コーラス
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink") - コーラス
-  - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink") ([DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")) - サックス
+  - [勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink") ([DIMENSION](../Page/DIMENSION.md "wikilink")) - サックス
   - ホリエアキラ - ギター
   - 葉山たけし - ギター
   - 野田行文（[野田雪文](https://ja.wikipedia.org/wiki/野田雪文 "wikilink")) - ギター

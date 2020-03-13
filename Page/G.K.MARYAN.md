@@ -1,7 +1,7 @@
 > この記事は[G.K.MARYAN](https://ja.wikipedia.org/wiki/G.K.MARYAN)から翻訳されています。
 
 
-**G.K.MARYAN**（ジー・ケー・マーヤン、本名：小林 雅史（こばやし まさし）、1970年6月11日-)は[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")出身、[KAMINARI-KAZOKU.](https://ja.wikipedia.org/wiki/KAMINARI-KAZOKU. "wikilink")（雷）の一員。2000年ソロデビュー。
+**G.K.MARYAN**（ジー・ケー・マーヤン、本名：小林 雅史（こばやし まさし）、1970年6月11日-)は[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")出身、[KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink")（雷）の一員。2000年ソロデビュー。
 
 ## ディスコグラフィ
 
@@ -37,7 +37,7 @@
   - MICROPHONE PAGER／Don't Turn Off Your Light　『Room \# 160』 feat. RINO, GAMA, PATRICK, G.K.MARYAN
   - 続・悪名／俺の言い分 feat. UZI
   - YOU THE ROCK／BLACK MONDAY feat. MIC MASTERZ（MACKA-CHIN, SHIKI, HAB, GAMA, YOTTY, E.G.G. MAN, RINO, G.K. MARYAN, PATRICK, DAMAGE, TWIGY, MUMMY-D, DEV-LARGE）
-  - [証言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")／LAMP EYE feat. YOU THE ROCK, G.K.MARYAN, TWIGY, ZEEBRA, DEV LARGE
+  - [証言](../Page/証言_\(ヒップホップ\).md "wikilink")／LAMP EYE feat. YOU THE ROCK, G.K.MARYAN, TWIGY, ZEEBRA, DEV LARGE
   - 雷／カミナリ・夜ジェット
   - MURO／WEEKEND FUNK \#7 feat. BOO, G.K.MARYAN, GORE-TEX, RED BURN WINKLE, S-WORD, TINA
   - YOU THE ROCK★／NO JOKE TALKS 〜GET UP BROTHER〜 feat. G.K.MARYAN, DEV LARGE
@@ -80,17 +80,17 @@
 
 ## 大麻取締法違反
 
-[2014年](../Page/2014年.md "wikilink")9月17日、[大麻取締法](https://ja.wikipedia.org/wiki/大麻取締法 "wikilink")違反の疑いで逮捕された。同年の春ごろ、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")内の路上で知人男性に乾燥[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")を譲り渡した疑い。同年、不起訴処分。\[1\]。
+[2014年](../Page/2014年.md "wikilink")9月17日、[大麻取締法](../Page/大麻取締法.md "wikilink")違反の疑いで逮捕された。同年の春ごろ、[東京都](../Page/東京都.md "wikilink")内の路上で知人男性に乾燥[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")を譲り渡した疑い。同年、不起訴処分。\[1\]。
 
 ## 出典
 
 ## 関連項目
 
-  - [KAMINARI-KAZOKU.](https://ja.wikipedia.org/wiki/KAMINARI-KAZOKU. "wikilink")
+  - [KAMINARI-KAZOKU.](../Page/KAMINARI-KAZOKU..md "wikilink")
   - [Yotty](https://ja.wikipedia.org/wiki/YOTTY "wikilink")
   - [MC. ABU](https://ja.wikipedia.org/wiki/MC_ABU "wikilink")
   - [城南ウォーリアーズ](https://ja.wikipedia.org/wiki/城南ウォーリアーズ "wikilink")
-  - [証言](https://ja.wikipedia.org/wiki/証言_\(ヒップホップ\) "wikilink")
+  - [証言](../Page/証言_\(ヒップホップ\).md "wikilink")
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1970年生](https://ja.wikipedia.org/wiki/Category:1970年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

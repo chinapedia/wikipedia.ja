@@ -3,7 +3,7 @@
 
 **POI**
 
-  - [Apache POI](https://ja.wikipedia.org/wiki/Apache_POI "wikilink") - [Apache Software Foundationにおける](https://ja.wikipedia.org/wiki/Apache_Software_Foundation "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で[CSVファイルや](../Page/Comma-Separated_Values.md "wikilink")[Microsoft](../Page/マイクロソフト.md "wikilink") [OLE2](../Page/Object_Linking_and_Embedding.md "wikilink") 複合ドキュメントを読み書き操作するための[API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") を扱う一連のプロジェクト。
+  - [Apache POI](../Page/Apache_POI.md "wikilink") - [Apache Software Foundationにおける](https://ja.wikipedia.org/wiki/Apache_Software_Foundation "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")で[CSVファイルや](../Page/Comma-Separated_Values.md "wikilink")[Microsoft](../Page/マイクロソフト.md "wikilink") [OLE2](../Page/Object_Linking_and_Embedding.md "wikilink") 複合ドキュメントを読み書き操作するための[API](../Page/アプリケーションプログラミングインタフェース.md "wikilink") を扱う一連のプロジェクト。
 
   - Panoramic optical Imager - [パノラマ写真](../Page/パノラマ写真.md "wikilink")参照
 
@@ -21,7 +21,7 @@
   - [インド系移民](https://ja.wikipedia.org/wiki/インド系移民と在外インド人 "wikilink")(Person of Indian Origin)の略称。
 
   -
-  - \- [電気通信事業者](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")同士が相互に通信網を接続する際の接続点のこと。
+  - \- [電気通信事業者](../Page/電気通信事業者.md "wikilink")同士が相互に通信網を接続する際の接続点のこと。
 
 <!-- end list -->
 

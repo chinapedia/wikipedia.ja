@@ -1,7 +1,7 @@
 > この記事は[Vodafone 702MO](https://ja.wikipedia.org/wiki/Vodafone_702MO)から翻訳されています。
 
 
-**Vodafone 702MO**（ボーダフォン ナナマルニエムオー）は[モトローラ](../Page/モトローラ.md "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売していた[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。姉妹機種として[Vodafone 702sMOがある](../Page/Vodafone_702sMO.md "wikilink")。
+**Vodafone 702MO**（ボーダフォン ナナマルニエムオー）は[モトローラ](../Page/モトローラ.md "wikilink")が開発し、ボーダフォン日本法人（現[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")）が販売していた[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式のVodafone 3G（現[SoftBank 3G](../Page/SoftBank_3G.md "wikilink")）サービスを利用可能な[携帯電話](../Page/携帯電話.md "wikilink")端末。姉妹機種として[Vodafone 702sMOがある](../Page/Vodafone_702sMO.md "wikilink")。
 
 日本国外ではMotorola V980として販売されている。
 

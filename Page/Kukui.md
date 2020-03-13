@@ -1,13 +1,13 @@
 > この記事は[Kukui](https://ja.wikipedia.org/wiki/Kukui)から翻訳されています。
 
 
-**kukui**（くくい）は、[myu](https://ja.wikipedia.org/wiki/Myu_\(作曲家\) "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）・[霜月はるか](https://ja.wikipedia.org/wiki/霜月はるか "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[Mellow Headに所属している](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+**kukui**（くくい）は、[myu](https://ja.wikipedia.org/wiki/Myu_\(作曲家\) "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）・[霜月はるか](../Page/霜月はるか.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[Mellow Headに所属している](../Page/ランティス.md "wikilink")。
 
 ## 概要
 
 ### 来歴
 
-元々は「refio」なるmyuと[riya](https://ja.wikipedia.org/wiki/riya "wikilink")のユニットであったが、riyaが[菊地創](https://ja.wikipedia.org/wiki/菊地創 "wikilink")とのユニット「[eufonius](https://ja.wikipedia.org/wiki/eufonius "wikilink")」の結成に伴って脱退する。その後「refio」はmyuのソロプロジェクトとなったが、ボーカルに霜月はるかを迎え「refio＋霜月はるか」として、シングル「透明シェルター」を発売する。これ以後は「kukui」としての活動をはじめ、アルバム「光の螺旋律」にて新たにデビューを果たすことになる。はメンバー以外も参加していることがある。
+元々は「refio」なるmyuと[riya](https://ja.wikipedia.org/wiki/riya "wikilink")のユニットであったが、riyaが[菊地創](../Page/菊地創.md "wikilink")とのユニット「[eufonius](https://ja.wikipedia.org/wiki/eufonius "wikilink")」の結成に伴って脱退する。その後「refio」はmyuのソロプロジェクトとなったが、ボーカルに霜月はるかを迎え「refio＋霜月はるか」として、シングル「透明シェルター」を発売する。これ以後は「kukui」としての活動をはじめ、アルバム「光の螺旋律」にて新たにデビューを果たすことになる。はメンバー以外も参加していることがある。
 
 ### ユニット名の由来
 

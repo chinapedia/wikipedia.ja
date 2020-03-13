@@ -5,7 +5,7 @@
 
 ## 概要
 
-UFO専門の施設は国内的にも珍しく、UFO関係の[ビデオ](../Page/ビデオ.md "wikilink")や[写真](../Page/写真.md "wikilink")等の資料をおよそ3000点所蔵している。この施設のある[福島市](../Page/福島市.md "wikilink")飯野地域はUFOの目撃例が多く、シンボルの[千貫森](https://ja.wikipedia.org/wiki/千貫森 "wikilink")と共に**UFOの里**として知られている。  [1992年](../Page/1992年.md "wikilink")[11月](../Page/11月.md "wikilink")に開館。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")の[伊達郡](../Page/伊達郡.md "wikilink")[飯野町の福島市への編入合併に伴い](https://ja.wikipedia.org/wiki/飯野町_\(福島県\) "wikilink")、**いいのまちUFOふれあい館**から改称した。
+UFO専門の施設は国内的にも珍しく、UFO関係の[ビデオ](../Page/ビデオ.md "wikilink")や[写真](../Page/写真.md "wikilink")等の資料をおよそ3000点所蔵している。この施設のある[福島市](../Page/福島市.md "wikilink")飯野地域はUFOの目撃例が多く、シンボルの[千貫森](https://ja.wikipedia.org/wiki/千貫森 "wikilink")と共に**UFOの里**として知られている。  [1992年](../Page/1992年.md "wikilink")[11月](../Page/11月.md "wikilink")に開館。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")の[伊達郡](../Page/伊達郡.md "wikilink")[飯野町の福島市への編入合併に伴い](../Page/飯野町_\(福島県\).md "wikilink")、**いいのまちUFOふれあい館**から改称した。
 
 この施設は、[ニンゲンBOX](https://ja.wikipedia.org/wiki/ニンゲンBOX〜プレミア!新種バカ図鑑〜 "wikilink")、[1億人の大質問\!?笑ってコラえて\!](../Page/1億人の大質問!?笑ってコラえて!.md "wikilink")、[天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")、[ひるどき日本列島](../Page/ひるどき日本列島.md "wikilink")、[24CH△NNEL](https://ja.wikipedia.org/wiki/24CH△NNEL "wikilink")、[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")などで紹介されている。
 

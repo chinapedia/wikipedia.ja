@@ -1,16 +1,16 @@
 > この記事は[JWAY](https://ja.wikipedia.org/wiki/JWAY)から翻訳されています。
 
 
-**JWAYコミュニティチャンネル**（ジェイウェイコミュニティチャンネル）は、[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[日立市](../Page/日立市.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局、[JWAY](../Page/JWAY.md "wikilink")が運営する、地域情報番組中心のケーブルテレビ放送である。愛称は、**コミコミ9chひたち**（コミコミ9チャンネルひたち）。通称は、**JWAY9ch**（ジェイウェイ9チャンネル）。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月1日](../Page/3月1日.md "wikilink")、開局。
+**JWAYコミュニティチャンネル**（ジェイウェイコミュニティチャンネル）は、[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局、[JWAY](../Page/JWAY.md "wikilink")が運営する、地域情報番組中心のケーブルテレビ放送である。愛称は、**コミコミ9chひたち**（コミコミ9チャンネルひたち）。通称は、**JWAY9ch**（ジェイウェイ9チャンネル）。[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月1日](../Page/3月1日.md "wikilink")、開局。
 
 ## 放送番組
 
-  - JWAY劇場（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月7日 - ）
+  - JWAY劇場（[2006年](../Page/2006年.md "wikilink")8月7日 - ）
       - ドラマ番組。[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")・[民放](https://ja.wikipedia.org/wiki/民放 "wikilink")で過去に放送された[ドラマ](../Page/ドラマ.md "wikilink")を放送する（現在のところ、NHK連続テレビ小説のみ放送）。3話分を1回にまとめて放送。毎週土曜は、1週間分を1回にまとめて、「総集編」として放送。（アナログのみ放送、デジタルでは「ほっとかわらばん」「告知ひろば」「今月のオススメ」に差し替え。）
           - 第1作：NHK[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")「[おしん](../Page/おしん.md "wikilink")」（放送開始 - [2007年](../Page/2007年.md "wikilink")3月31日）
-          - 第2作：NHK連続テレビ小説「[ふたりっ子](https://ja.wikipedia.org/wiki/ふたりっ子 "wikilink")」（2007年4月16日 - 8月20日）
+          - 第2作：NHK連続テレビ小説「[ふたりっ子](../Page/ふたりっ子.md "wikilink")」（2007年4月16日 - 8月20日）
           - 第3作：NHK連続テレビ小説「[ちゅらさん](../Page/ちゅらさん.md "wikilink")」（2007年9月3日 - 12月31日）
-          - 第4作：NHK連続テレビ小説「[ひまわり](https://ja.wikipedia.org/wiki/ひまわり_\(1996年のテレビドラマ\) "wikilink")」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月7日 - 6月15日）
+          - 第4作：NHK連続テレビ小説「[ひまわり](../Page/ひまわり_\(1996年のテレビドラマ\).md "wikilink")」（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月7日 - 6月15日）
           - 第5作：NHK連続テレビ小説「[はね駒](../Page/はね駒.md "wikilink")」（2008年8月4日 - ）
   - ほっとかわらばん（開局 - ）
       - 情報番組（自社制作）。日立市内の情報、話題を伝える番組。キャスターは、日立市民が務める「市民アナウンサー」や、JWAY営業部に所属するアナウンサー。
@@ -29,10 +29,10 @@
   - [全国高等学校野球選手権茨城大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")
       - 特別番組（自社制作）。毎年7月に開催される「[全国高等学校野球選手権茨城大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権茨城大会 "wikilink")」の日立市民球場での全試合を生中継（2007年までと2014年）、日立市内にある高校の試合を録画放送する。実況と解説は日立市民が務める。2014年は開会式と水戸市民球場で開催される準々決勝・準決勝も生中継。
   - ゆく年くる年（大晦日）
-      - 特別番組（自社制作）。毎年[大晦日](../Page/大晦日.md "wikilink")、「[ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年 "wikilink")」（NHK）の裏番組として、初詣客で賑わう神峰神社から生中継で放送する年越し番組。ちなみに、「[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")」の裏番組は、「ほっとかわらばん」（既述）の特別版である。
+      - 特別番組（自社制作）。毎年[大晦日](../Page/大晦日.md "wikilink")、「[ゆく年くる年](../Page/ゆく年くる年.md "wikilink")」（NHK）の裏番組として、初詣客で賑わう神峰神社から生中継で放送する年越し番組。ちなみに、「[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")」の裏番組は、「ほっとかわらばん」（既述）の特別版である。
   - [QVC](../Page/QVC.md "wikilink")
       - 通信販売。地上アナログ2chのサイマル放送。
-  - [フーディーズTV](https://ja.wikipedia.org/wiki/食と旅のフーディーズTV "wikilink")
+  - [フーディーズTV](../Page/食と旅のフーディーズTV.md "wikilink")
       - 教養番組。グルメ関連を取り扱う専門チャンネル**食と旅のフーディーズTV**から一部の番組を放送。
   - お天気カメラ（開局 - ）
       - JWAY本社に設置されたカメラの映像。
@@ -47,7 +47,7 @@
 ## 関連項目
 
   - [ケーブルテレビ局の一覧](../Page/ケーブルテレビ局の一覧.md "wikilink")
-  - [セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")
+  - [セットトップボックス](../Page/セットトップボックス.md "wikilink")
   - [ケーブルテレビ向けCS放送](../Page/ケーブルテレビ向けCS放送.md "wikilink")
   - [デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink")
   - [ホームターミナル](https://ja.wikipedia.org/wiki/ホームターミナル "wikilink")

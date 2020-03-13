@@ -5,19 +5,19 @@
 
 ## 概要
 
-同時に5thシングル「[ずっと2人で…／GONE WITH THE WIND](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")」も発売されている。[2001年](../Page/2001年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に、『[VIDEO GLAY 2](https://ja.wikipedia.org/wiki/VIDEO_GLAY_2 "wikilink")』『[無限のdéjà vu DOCUMENT of “BEAT out\!” TOURS](https://ja.wikipedia.org/wiki/無限のdéjà_vu_DOCUMENT_of_"BEAT_out!"_TOURS "wikilink")』と共に[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")からDVD化されているが、現在は廃盤になっている。
+同時に5thシングル「[ずっと2人で…／GONE WITH THE WIND](https://ja.wikipedia.org/wiki/ずっと2人で…/GONE_WITH_THE_WIND "wikilink")」も発売されている。[2001年](../Page/2001年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に、『[VIDEO GLAY 2](../Page/VIDEO_GLAY_2.md "wikilink")』『[無限のdéjà vu DOCUMENT of “BEAT out\!” TOURS](https://ja.wikipedia.org/wiki/無限のdéjà_vu_DOCUMENT_of_"BEAT_out!"_TOURS "wikilink")』と共に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からDVD化されているが、現在は廃盤になっている。
 
 ## 収録曲
 
 1.  **SPEED POP (Introduction)**
 2.  **[RAIN](../Page/RAIN_\(GLAYの曲\).md "wikilink")**
-3.  **[真夏の扉](https://ja.wikipedia.org/wiki/真夏の扉 "wikilink")**
+3.  **[真夏の扉](../Page/真夏の扉.md "wikilink")**
       -
         「[GLAY EXPO 2001 GLOBAL COMMUNICATION](../Page/GLAY_EXPO.md "wikilink")」石狩公演にてこのPVとともに演奏された。
 4.  **[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")**
       -
         PVでは唯一元メンバーのNOBUMASAが映っている。
-5.  **[Freeze My Love](https://ja.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
+5.  **[Freeze My Love](../Page/Freeze_My_Love.md "wikilink")**
 6.  **[INNOCENCE](../Page/彼女の“Modern…”.md "wikilink")**
       -
         エンドロール扱いであり正式なPVではない。「RAIN」「真夏の扉」やライブでの舞台裏の映像が盛り込まれている。エンドクレジットではNOBUMASAがメンバーとして表記されているが、実際に映っているのはNOBUMASA以外の4人のみである。

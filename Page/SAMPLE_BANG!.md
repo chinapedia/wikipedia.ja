@@ -1,7 +1,7 @@
 > この記事は[SAMPLE BANG!](https://ja.wikipedia.org/wiki/SAMPLE_BANG!)から翻訳されています。
 
 
-『**SAMPLE BANG\!**』（サンプル バン\!）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の16枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売。
+『**SAMPLE BANG\!**』（サンプル バン\!）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の16枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売。
 
 ## 解説
 
@@ -27,7 +27,7 @@
         作詞・作曲:[T2ya](../Page/T2ya.md "wikilink") / 編曲:[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink") / ホーンアレンジ:[山本拓夫](../Page/山本拓夫.md "wikilink")
 3.  **退屈な日曜日**
       -
-        作詞・作曲:[横山剣](https://ja.wikipedia.org/wiki/横山剣 "wikilink") / 編曲:横山剣・[小野瀬雅生](https://ja.wikipedia.org/wiki/小野瀬雅生 "wikilink")・[高橋利光](https://ja.wikipedia.org/wiki/高橋利光 "wikilink") / ホーンアレンジ:横山剣・中西圭一・Tiro the Dog Homes
+        作詞・作曲:[横山剣](../Page/横山剣.md "wikilink") / 編曲:横山剣・[小野瀬雅生](https://ja.wikipedia.org/wiki/小野瀬雅生 "wikilink")・[高橋利光](https://ja.wikipedia.org/wiki/高橋利光 "wikilink") / ホーンアレンジ:横山剣・中西圭一・Tiro the Dog Homes
 4.  **Dawn**
       -
         作詞・作曲:森元康介 / 編曲:[中野雄太](../Page/中野雄太.md "wikilink")・森元康介 / ストリングスアレンジ:中野雄太
@@ -38,12 +38,12 @@
         6thベストアルバム「[SMAP 25 YEARS](https://ja.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")」にも収録された。
 5.  **僕の太陽**
       -
-        作詞・作曲:[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink") / 編曲:[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
+        作詞・作曲:[宮沢和史](../Page/宮沢和史.md "wikilink") / 編曲:[森俊之](https://ja.wikipedia.org/wiki/森俊之 "wikilink")
 6.  **HOLIDAY IN THE SUN**
       -
         作詞・RAP詞:Lori Fine([COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")) / RAP詞:SHINGO & GARTHE / 作曲・編曲:Ahn Jeong hoone
         全英詞の楽曲であり、中居・木村・香取に歌詞カードには記載されていないラップパートがある。
-7.  **Fine, Peace\!** - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")・[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
+7.  **Fine, Peace\!** - [木村拓哉](../Page/木村拓哉.md "wikilink")・[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
       -
         作詞:佐原けいこ / 作曲:日比野元気 / 編曲:春川仁志
         5thベストアルバム「[SMAP AID](https://ja.wikipedia.org/wiki/SMAP_AID "wikilink")」、6thベストアルバムにも収録されている。
@@ -69,7 +69,7 @@
       - 36thシングル
 13. **It's a wonderful world.**
       -
-        作詞:[Satomi](../Page/Satomi.md "wikilink") / 作曲:[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink") / 編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink") / コーラスアレンジ:松本良喜
+        作詞:[Satomi](../Page/Satomi.md "wikilink") / 作曲:[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink") / 編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink") / コーラスアレンジ:松本良喜
 
 ### DISC-2「KAIZOKU BANG\!」
 
@@ -88,10 +88,10 @@
         作詞:森浩美 / 作曲:小森田実
     <!-- end list -->
       - 23rdシングルのリミックスバージョン
-4.  **[オリジナル スマイル](../Page/オリジナル_スマイル.md "wikilink")**/**[青いイナズマ](https://ja.wikipedia.org/wiki/青いイナズマ "wikilink")**（Phasio REMIX）
+4.  **[オリジナル スマイル](../Page/オリジナル_スマイル.md "wikilink")**/**[青いイナズマ](../Page/青いイナズマ.md "wikilink")**（Phasio REMIX）
       -
         作詞:森浩美 / 作曲:Mark Davis（オリジナル スマイル）
-        作詞:森浩美 / 作曲:[林田健司](https://ja.wikipedia.org/wiki/林田健司 "wikilink")（青いイナズマ）
+        作詞:森浩美 / 作曲:[林田健司](../Page/林田健司.md "wikilink")（青いイナズマ）
     <!-- end list -->
       - 13th/22ndシングルのリミックスバージョン
 
@@ -99,7 +99,7 @@
 
 1.  **ブリブリマン** - [中居正広](../Page/中居正広.md "wikilink")
       -
-        作詞:[N.マッピー](../Page/中居正広.md "wikilink")・[井手コウジ](https://ja.wikipedia.org/wiki/井手コウジ "wikilink") / 作曲:N.マッピー・NAT All Stars
+        作詞:[N.マッピー](../Page/中居正広.md "wikilink")・[井手コウジ](../Page/井手コウジ.md "wikilink") / 作曲:N.マッピー・NAT All Stars
 2.  **SPECIAL** - 木村拓哉
       -
         作詞・作曲・編曲:[シライシ紗トリ](../Page/シライシ紗トリ.md "wikilink")

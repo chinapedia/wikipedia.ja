@@ -9,15 +9,15 @@
 
 ## 来歴
 
-  - [1979年](../Page/1979年.md "wikilink")、日本のガールズ・パンク・バンドの先駆けであったBOYS BOYSのベーシスト小嶋さちほを中心に結成。[新宿ロフトで初ライブを行う](https://ja.wikipedia.org/wiki/ロフト_\(ライブハウス\) "wikilink")。初代メンバーは、小嶋（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）以外に、ケイ（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、鈴木洋子（[ギター](../Page/ギター.md "wikilink")）、野沢久仁子（[ドラムス](../Page/ドラムセット.md "wikilink")）、トヨ（[シンセサイザー](../Page/シンセサイザー.md "wikilink")）の五人であったが、すぐにケイとトヨが脱退。\[1\]
-  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")3月、小嶋が発行していたミニコミ「チェンジ2000」に出したメンバー募集に応募してきた高橋佐代子がボーカルとして加入する。二人が最初にあったのは[ストラングラーズ](https://ja.wikipedia.org/wiki/ストラングラーズ "wikilink")の来日公演である。当時中学生であった高橋は上下黒づくめの服であったと小嶋は後のインタビューで述べている。同年12月、インディーズ・レーベルのジャンク・コネクションより1st.シングル『ASH-LAH』をリリース。
+  - [1979年](../Page/1979年.md "wikilink")、日本のガールズ・パンク・バンドの先駆けであったBOYS BOYSのベーシスト小嶋さちほを中心に結成。[新宿ロフトで初ライブを行う](../Page/ロフト_\(ライブハウス\).md "wikilink")。初代メンバーは、小嶋（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）以外に、ケイ（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、鈴木洋子（[ギター](../Page/ギター.md "wikilink")）、野沢久仁子（[ドラムス](../Page/ドラムセット.md "wikilink")）、トヨ（[シンセサイザー](../Page/シンセサイザー.md "wikilink")）の五人であったが、すぐにケイとトヨが脱退。\[1\]
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")3月、小嶋が発行していたミニコミ「チェンジ2000」に出したメンバー募集に応募してきた高橋佐代子がボーカルとして加入する。二人が最初にあったのは[ストラングラーズ](../Page/ストラングラーズ.md "wikilink")の来日公演である。当時中学生であった高橋は上下黒づくめの服であったと小嶋は後のインタビューで述べている。同年12月、インディーズ・レーベルのジャンク・コネクションより1st.シングル『ASH-LAH』をリリース。
   - [1981年](../Page/1981年.md "wikilink")、ソノシート『ZELDA』をリリース。
-  - メジャーデビューは[1982年](../Page/1982年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")、日本フォノグラム（後のマーキュリー・ミュージックエンタテインメント。現在は[ユニバーサルミュージックK.K.に吸収](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）よりアルバム『ZELDA』とシングル『ミラージュ・ラヴァー』を同時リリース。プロデュースは[LIZARD](https://ja.wikipedia.org/wiki/LIZARD "wikilink")のモモヨであった。なお、この時のメンバーは小嶋、高橋、鈴木、野沢の四人。
-  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に、ギターが鈴木から石原富紀江、ドラムが野沢から小澤亜子（ex.[新●月](https://ja.wikipedia.org/wiki/新●月 "wikilink")）に交替。石原はハードロック出身であるにも関わらず、テクニック面では「[ヘタウマ](https://ja.wikipedia.org/wiki/ヘタウマ "wikilink")」であったが、これが当時のZELDAの雰囲気に適合した。また石原のハーモナイザーを使用した独特のキラキラした音色と、インド音階を上手に組み合わせた中近東的なソロは、現在でも革新的である（ライブアルバム「Dancing Days」で堪能できる）。そして[ジャパンの](https://ja.wikipedia.org/wiki/ジャパン_\(バンド\) "wikilink")[スティーヴ・ジャンセン](https://ja.wikipedia.org/wiki/スティーヴ・ジャンセン "wikilink")を師と仰ぐ（雑誌「キーボードスペシャル」創刊号より）、小澤は、古今のロックバンドのドラマーには珍しく16ビートを基調とした端正かつタイトなドラミングであり、[シーケンサーの操作や](https://ja.wikipedia.org/wiki/シーケンサー_\(音楽\) "wikilink")[シンセサイザー](../Page/シンセサイザー.md "wikilink")の音色作りにも習熟していた。そして、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")をプロデューサーに、ゲストに[鈴木慶一](../Page/鈴木慶一.md "wikilink")を迎えて2nd.アルバム『CARNAVAL』をリリース。ZELDAはニューウェイヴバンドとして不動の地位となった。
+  - メジャーデビューは[1982年](../Page/1982年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")、日本フォノグラム（後のマーキュリー・ミュージックエンタテインメント。現在は[ユニバーサルミュージックK.K.に吸収](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）よりアルバム『ZELDA』とシングル『ミラージュ・ラヴァー』を同時リリース。プロデュースは[LIZARD](https://ja.wikipedia.org/wiki/LIZARD "wikilink")のモモヨであった。なお、この時のメンバーは小嶋、高橋、鈴木、野沢の四人。
+  - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に、ギターが鈴木から石原富紀江、ドラムが野沢から小澤亜子（ex.[新●月](https://ja.wikipedia.org/wiki/新●月 "wikilink")）に交替。石原はハードロック出身であるにも関わらず、テクニック面では「[ヘタウマ](https://ja.wikipedia.org/wiki/ヘタウマ "wikilink")」であったが、これが当時のZELDAの雰囲気に適合した。また石原のハーモナイザーを使用した独特のキラキラした音色と、インド音階を上手に組み合わせた中近東的なソロは、現在でも革新的である（ライブアルバム「Dancing Days」で堪能できる）。そして[ジャパンの](../Page/ジャパン_\(バンド\).md "wikilink")[スティーヴ・ジャンセン](https://ja.wikipedia.org/wiki/スティーヴ・ジャンセン "wikilink")を師と仰ぐ（雑誌「キーボードスペシャル」創刊号より）、小澤は、古今のロックバンドのドラマーには珍しく16ビートを基調とした端正かつタイトなドラミングであり、[シーケンサーの操作や](https://ja.wikipedia.org/wiki/シーケンサー_\(音楽\) "wikilink")[シンセサイザー](../Page/シンセサイザー.md "wikilink")の音色作りにも習熟していた。そして、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")をプロデューサーに、ゲストに[鈴木慶一](../Page/鈴木慶一.md "wikilink")を迎えて2nd.アルバム『CARNAVAL』をリリース。ZELDAはニューウェイヴバンドとして不動の地位となった。
   - [1984年](../Page/1984年.md "wikilink")には小嶋、高橋の二人が別ユニット『**[招き猫カゲキ団](https://ja.wikipedia.org/wiki/招き猫カゲキ団 "wikilink")**』としても活動、同年9月、アルバム『第一歌曲集』をリリース。アコースティックの脱力系昭和レトロ、唱歌的要素を持ったユニットであり、聞き手に緊張を強いた当時のZELDAとは正反対の音楽であった。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に所属レコード会社をCBSソニー（[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）に移籍。前作同様、白井良明プロデュースの3rd.アルバム『空色帽子の日』をリリース。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")公開の映画『**[ビリィ・ザ・キッドの新しい夜明け](https://ja.wikipedia.org/wiki/ビリィ・ザ・キッドの新しい夜明け "wikilink")**』に、メンバー全員が出演(バンド・ZELDAとして)。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、元[四人囃子](../Page/四人囃子.md "wikilink")の[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")をプロデューサーに迎えて4th.アルバム『C-ROCK WORK』をリリース。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、元[四人囃子](../Page/四人囃子.md "wikilink")の[佐久間正英](../Page/佐久間正英.md "wikilink")をプロデューサーに迎えて4th.アルバム『C-ROCK WORK』をリリース。
   - [1988年](../Page/1988年.md "wikilink")頃より、小嶋がファンク／ブラックミュージックに傾倒。プログレ出身でもともと16ビートを叩いていたドラムの小澤はすんなり対応できたが、8ビートのハードロック出身であり、「ヘタウマ」であった石原は適性を活かせないようであった。（ライヴではファンク特有の16ビートカッティングに苦渋する石原の姿が見られた）。それにより新たに生まれ変わったZELDAの5th.アルバム『SHOUT SISTER SHOUT』をリリース。
   - [1989年](../Page/1989年.md "wikilink")、前作以上にファンク／ブラックミュージック色を強めた6th.アルバム『D.R.O.P.』をリリース。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、ギターの石原が脱退。これより約1年間活動を休止、この間に所属レコード会社が[avex系のレーベル](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、[cutting edgeに移る](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。
@@ -34,7 +34,7 @@
         後に[ボ・ガンボス](https://ja.wikipedia.org/wiki/ボ・ガンボス "wikilink")のボーカル、久富隆司（どんと）の夫人となる。長男は[ズットズレテルズ](https://ja.wikipedia.org/wiki/ズットズレテルズ "wikilink")のラキタ。次男は[ナツノムジナ](https://ja.wikipedia.org/wiki/ナツノムジナ "wikilink")、[Gateballers](https://ja.wikipedia.org/wiki/Gateballers "wikilink")の久富奈良。
   - **高橋佐代子** （たかはし さよこ、[1964年](../Page/1964年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink") - ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       -
-        『招き猫カゲキ団』では“高橋小夜子”名義も有り 。後に**SAYOKO**名義でエイベックスからソロデビュー。現在は元[JAGATARA](https://ja.wikipedia.org/wiki/JAGATARA "wikilink")の[OTOらと結成した](https://ja.wikipedia.org/wiki/OTO_\(ミュージシャン\) "wikilink")**[サヨコオトナラ](https://ja.wikipedia.org/wiki/サヨコオトナラ "wikilink")**というバンドのボーカル。
+        『招き猫カゲキ団』では“高橋小夜子”名義も有り 。後に**SAYOKO**名義でエイベックスからソロデビュー。現在は元[JAGATARA](../Page/JAGATARA.md "wikilink")の[OTOらと結成した](https://ja.wikipedia.org/wiki/OTO_\(ミュージシャン\) "wikilink")**[サヨコオトナラ](https://ja.wikipedia.org/wiki/サヨコオトナラ "wikilink")**というバンドのボーカル。
   - **鈴木洋子** （すずき ようこ） - [ギター](../Page/ギタリスト.md "wikilink")
   - **石原富紀江** （いしはら ふきえ、[1960年](../Page/1960年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink") - ） - ギター、[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")卒業
   - **本村直美** （もとむら なおみ） - [ギター](../Page/ギター.md "wikilink")
@@ -80,7 +80,7 @@
   - LOVE LIVE LIFE （[1993年](../Page/1993年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")）
   - 冷たくしないで （[1993年](../Page/1993年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")）
   - あなただけがすべてじゃない （[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月8日](../Page/11月8日.md "wikilink")）
-  - かなしくて （[1996年](../Page/1996年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")）※[TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』エンディングテーマ
+  - かなしくて （[1996年](../Page/1996年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")）※[TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』エンディングテーマ
   - 金木犀 （[1996年](../Page/1996年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")）
 
 ### アルバム

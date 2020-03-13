@@ -5,7 +5,7 @@
 
 ## クラス図
 
-Singleton パターンの一般的な[クラス図](https://ja.wikipedia.org/wiki/クラス図 "wikilink")を示す。
+Singleton パターンの一般的な[クラス図](../Page/クラス図.md "wikilink")を示す。
 
 [center](https://ja.wikipedia.org/wiki/ファイル:Singleton_UML_class_diagram.svg "wikilink")
 
@@ -188,7 +188,7 @@ public class FooMultiton {
 ## 関連項目
 
   - [デザインパターン](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")
-  - [クリティカルセクション](https://ja.wikipedia.org/wiki/クリティカルセクション "wikilink")
+  - [クリティカルセクション](../Page/クリティカルセクション.md "wikilink")
   - [排他制御](../Page/排他制御.md "wikilink")
   - [マルチスレッド](https://ja.wikipedia.org/wiki/マルチスレッド "wikilink")
   - [グローバル変数](../Page/グローバル変数.md "wikilink")

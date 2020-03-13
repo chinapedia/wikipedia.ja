@@ -1,13 +1,13 @@
 > この記事は[NEVER SAY GOODBYE --](https://ja.wikipedia.org/wiki/NEVER_SAY_GOODBYE_--)から翻訳されています。
 
 
-『**NEVER SAY GOODBYE**』-**ある愛の軌跡**-（ネバー・セイ・グッドバイ あるあいのきせき）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[宙組](https://ja.wikipedia.org/wiki/宙組_\(宝塚歌劇\) "wikilink")で上演されたミュージカル作品である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")3月24日から5月8日（新人公演は4月11日）に[宝塚大劇場](https://ja.wikipedia.org/wiki/宝塚大劇場 "wikilink")、同年5月26日から7月2日（新人公演は6月6日）に[東京宝塚劇場](https://ja.wikipedia.org/wiki/東京宝塚劇場 "wikilink")で上演された。
+『**NEVER SAY GOODBYE**』-**ある愛の軌跡**-（ネバー・セイ・グッドバイ あるあいのきせき）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[宙組](../Page/宙組_\(宝塚歌劇\).md "wikilink")で上演されたミュージカル作品である。[2006年](../Page/2006年.md "wikilink")3月24日から5月8日（新人公演は4月11日）に[宝塚大劇場](../Page/宝塚大劇場.md "wikilink")、同年5月26日から7月2日（新人公演は6月6日）に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で上演された。
 
-形式名は「ミュージカル」。2幕30場。作・演出は[小池修一郎](https://ja.wikipedia.org/wiki/小池修一郎 "wikilink")。
+形式名は「ミュージカル」。2幕30場。作・演出は[小池修一郎](../Page/小池修一郎.md "wikilink")。
 
 ## 概説
 
-当時の宙組主演コンビ[和央ようか](https://ja.wikipedia.org/wiki/和央ようか "wikilink")・[花總まり](https://ja.wikipedia.org/wiki/花總まり "wikilink")の退団公演。
+当時の宙組主演コンビ[和央ようか](../Page/和央ようか.md "wikilink")・[花總まり](../Page/花總まり.md "wikilink")の退団公演。
 使用楽曲をアメリカのミュージカル作曲家、[フランク・ワイルドホーン](https://ja.wikipedia.org/wiki/フランク・ワイルドホーン "wikilink")が全曲書き下ろして話題になった。
 オリジナルミュージカルの発信が同歌劇団の興行の柱だが、作曲はアメリカ人作曲家、台本・歌詞・演出は日本人演出家がそれぞれ担当しての日米合作オリジナルミュージカル製作は、同歌劇団史上初めてとなる大型企画であった。
 
@@ -63,15 +63,15 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [和央ようか](https://ja.wikipedia.org/wiki/和央ようか "wikilink")\[1\]
+  - [和央ようか](../Page/和央ようか.md "wikilink")\[1\]
   - [美郷真也](../Page/美郷真也.md "wikilink")\[2\]
   - [寿つかさ](../Page/寿つかさ.md "wikilink")\[3\]
   - [鈴奈沙也](https://ja.wikipedia.org/wiki/鈴奈沙也 "wikilink")\[4\]
-  - [花總まり](https://ja.wikipedia.org/wiki/花總まり "wikilink")\[5\]
+  - [花總まり](../Page/花總まり.md "wikilink")\[5\]
   - [彩苑ゆき](https://ja.wikipedia.org/wiki/彩苑ゆき "wikilink")\[6\]
   - [初嶺麿代](../Page/初嶺麿代.md "wikilink")\[7\]
   - [毬穂えりな](https://ja.wikipedia.org/wiki/毬穂えりな "wikilink")\[8\]
-  - [大和悠河](https://ja.wikipedia.org/wiki/大和悠河 "wikilink")\[9\]
+  - [大和悠河](../Page/大和悠河.md "wikilink")\[9\]
   - [夢大輝](https://ja.wikipedia.org/wiki/夢大輝 "wikilink")\[10\]
 
 </div>
@@ -83,7 +83,7 @@
   - [遼河はるひ](../Page/遼河はるひ.md "wikilink")\[13\]
   - [月丘七央](https://ja.wikipedia.org/wiki/月丘七央 "wikilink")\[14\]
   - [天羽珠紀](https://ja.wikipedia.org/wiki/天羽珠紀 "wikilink")\[15\]
-  - [紫城るい](https://ja.wikipedia.org/wiki/紫城るい "wikilink")\[16\]
+  - [紫城るい](../Page/紫城るい.md "wikilink")\[16\]
   - [悠未ひろ](../Page/悠未ひろ.md "wikilink")\[17\]
   - [夏大海](https://ja.wikipedia.org/wiki/夏大海 "wikilink")\[18\]
   - [珠洲春希](https://ja.wikipedia.org/wiki/珠洲春希 "wikilink")\[19\]
@@ -195,7 +195,7 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [立ともみ](../Page/立ともみ.md "wikilink")（[専科所属](https://ja.wikipedia.org/wiki/専科_\(宝塚歌劇\) "wikilink")）\[88\]
+  - [立ともみ](../Page/立ともみ.md "wikilink")（[専科所属](../Page/専科_\(宝塚歌劇\).md "wikilink")）\[88\]
   - [磯野千尋](../Page/磯野千尋.md "wikilink")（専科所属）\[89\]
 
 </div>

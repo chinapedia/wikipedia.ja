@@ -1,11 +1,11 @@
 > この記事は[Adapter ](https://ja.wikipedia.org/wiki/Adapter_)から翻訳されています。
 
 
-**Adapter パターン**（アダプター・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink") (Gang of Four; 4人のギャングたち) によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。Adapter パターンを用いると、既存の[クラスに対して修正を加えることなく](../Page/クラス_\(コンピュータ\).md "wikilink")、[インタフェースを変更することができる](../Page/インタフェース_\(情報技術\).md "wikilink")。Adapter パターンを実現するための手法として[継承を利用した手法と](https://ja.wikipedia.org/wiki/継承_\(プログラミング\) "wikilink")[委譲](../Page/委譲.md "wikilink")を利用した手法が存在する。それぞれについて以下の節で説明する。
+**Adapter パターン**（アダプター・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink") (Gang of Four; 4人のギャングたち) によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。Adapter パターンを用いると、既存の[クラスに対して修正を加えることなく](../Page/クラス_\(コンピュータ\).md "wikilink")、[インタフェースを変更することができる](../Page/インタフェース_\(情報技術\).md "wikilink")。Adapter パターンを実現するための手法として[継承を利用した手法と](../Page/継承_\(プログラミング\).md "wikilink")[委譲](../Page/委譲.md "wikilink")を利用した手法が存在する。それぞれについて以下の節で説明する。
 
 ## 継承を利用したAdapter
 
-[継承を利用したAdapterは](https://ja.wikipedia.org/wiki/継承_\(プログラミング\) "wikilink")、利用したいクラスの[サブクラスを作成し](../Page/サブクラス_\(計算機科学\).md "wikilink")、そのサブクラスに対して必要な[インタフェースを実装することで実現される](../Page/インタフェース_\(情報技術\).md "wikilink")。
+[継承を利用したAdapterは](../Page/継承_\(プログラミング\).md "wikilink")、利用したいクラスの[サブクラスを作成し](../Page/サブクラス_\(計算機科学\).md "wikilink")、そのサブクラスに対して必要な[インタフェースを実装することで実現される](../Page/インタフェース_\(情報技術\).md "wikilink")。
 
 ### サンプルプログラム
 
@@ -32,7 +32,7 @@ class ProductAdapter extends Product implements ProductPrice{
 
 ### クラス図
 
-継承を利用したAdapterの[クラス図](https://ja.wikipedia.org/wiki/クラス図 "wikilink")は以下のようになる。
+継承を利用したAdapterの[クラス図](../Page/クラス図.md "wikilink")は以下のようになる。
 
 [center](https://ja.wikipedia.org/wiki/ファイル:Adapter_using_inheritance_UML_class_diagram.svg "wikilink")
 
@@ -73,7 +73,7 @@ class ProductAdapter implements ProductPrice{
 
 ### クラス図
 
-委譲を利用したAdapterの[クラス図](https://ja.wikipedia.org/wiki/クラス図 "wikilink")は以下のようになる。
+委譲を利用したAdapterの[クラス図](../Page/クラス図.md "wikilink")は以下のようになる。
 
 [center](https://ja.wikipedia.org/wiki/ファイル:Adapter_using_delegation_UML_class_diagram.svg "wikilink") ※上図において、extendsはimplementsでも良い。
 

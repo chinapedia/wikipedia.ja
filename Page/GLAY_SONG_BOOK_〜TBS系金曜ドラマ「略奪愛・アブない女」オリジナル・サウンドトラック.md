@@ -19,7 +19,7 @@
 
 1.  **[月に祈る \#1](../Page/BEAT_out!.md "wikilink")**
       - 編曲：TAKURO・柏原利勝
-2.  **[Freeze My Love (orchestra)](https://ja.wikipedia.org/wiki/Freeze_My_Love "wikilink")**
+2.  **[Freeze My Love (orchestra)](../Page/Freeze_My_Love.md "wikilink")**
       - 編曲：[斎藤ネコ](../Page/斎藤ネコ.md "wikilink")
 3.  **[春を愛する人 (orchestra)](../Page/春を愛する人.md "wikilink")**
       - 編曲：斎藤ネコ

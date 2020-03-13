@@ -15,7 +15,7 @@
 
 格闘ゲーム初期の作品らしく「ボーナスステージ」が用意されている。以降のシリーズでは「ボーナスステージ」は取り入れられていない。
 
-同じ格闘ゲームのSNK『[餓狼伝説スペシャル](https://ja.wikipedia.org/wiki/餓狼伝説スペシャル "wikilink")』、[カプコン](../Page/カプコン.md "wikilink")『[スーパーストリートファイターII](https://ja.wikipedia.org/wiki/スーパーストリートファイターII "wikilink")』といったライバルを抑えて第7回[ゲーメスト](../Page/ゲーメスト.md "wikilink")大賞を受賞している。
+同じ格闘ゲームのSNK『[餓狼伝説スペシャル](../Page/餓狼伝説スペシャル.md "wikilink")』、[カプコン](../Page/カプコン.md "wikilink")『[スーパーストリートファイターII](https://ja.wikipedia.org/wiki/スーパーストリートファイターII "wikilink")』といったライバルを抑えて第7回[ゲーメスト](../Page/ゲーメスト.md "wikilink")大賞を受賞している。
 
 ## システム
 
@@ -32,7 +32,7 @@
   - 素手攻撃
     武器が飛ばされたり、壊れたりした時は素手で戦うことになる。威力は武器攻撃の時より桁外れに小さく、ほとんどのキャラクターは不利な状況に陥り、苦戦を強いられる。武器が飛ばされただけなら自分から離れた地面に刺さっているため、それを拾えば通常通りの武器攻撃が出来るようになる。壊れた場合は、そのラウンドを素手で戦うことになる。尚、武器が無くても、蹴りの威力は変わらない。
 
-ちなみに本作と続編の『真』では『[ストリートファイター](https://ja.wikipedia.org/wiki/ストリートファイター_\(ゲーム\) "wikilink")』シリーズ風の擬似6ボタンとなっている（ネオジオ版はハード上4ボタンしかないため、AとBボタン同時押しで強斬り、CとDボタン同時押しで強蹴りとなる）。
+ちなみに本作と続編の『真』では『[ストリートファイター](../Page/ストリートファイター_\(ゲーム\).md "wikilink")』シリーズ風の擬似6ボタンとなっている（ネオジオ版はハード上4ボタンしかないため、AとBボタン同時押しで強斬り、CとDボタン同時押しで強蹴りとなる）。
 
 ### 対戦形式
 
@@ -65,18 +65,18 @@
 
 ### 使用キャラクター
 
-  - [覇王丸](https://ja.wikipedia.org/wiki/覇王丸 "wikilink")
-    声 - [臼井雅基](https://ja.wikipedia.org/wiki/臼井雅基 "wikilink")
+  - [覇王丸](../Page/覇王丸.md "wikilink")
+    声 - [臼井雅基](../Page/臼井雅基.md "wikilink")
     本作の主人公。強者との戦いを何より楽しみ、世界には様々な剣術の使い手がいることを老学者に聞き、強い人間と剣を交わすため旅に出る。河豚毒という日本刀が武器。
   - [橘右京](../Page/橘右京.md "wikilink")
-    声 - [矢野栄路](https://ja.wikipedia.org/wiki/や乃えいじ "wikilink")
+    声 - [矢野栄路](../Page/や乃えいじ.md "wikilink")
     居合の達人。肺病を患っている。思い人である女性「小田桐圭」に魔界の入り口に咲くと言われる究極の花をわたすために求め歩く。
-  - [ナコルル](https://ja.wikipedia.org/wiki/ナコルル "wikilink")
-    声 - [生駒治美](https://ja.wikipedia.org/wiki/生駒治美 "wikilink")
+  - [ナコルル](../Page/ナコルル.md "wikilink")
+    声 - [生駒治美](../Page/生駒治美.md "wikilink")
     自然を愛するアイヌ出身の少女。大自然の悲痛な悲鳴を感じ取り、敵を討つ為に宝刀チチウシを抜く決意をする。お供の鷹であるママハハと一緒に戦う。突進技が多く、機動力がある。
     本作と『真』では1Pカラーと2Pカラーの勝利デモの顔の表情のグラフィックが大きく変わる。2Pカラーはその別人のような勝気な表情から、プレイヤーから裏ナコルルや紫ナコルルと呼ばれ、以降のシリーズでも恒例となっている。
   - [ガルフォード](../Page/ガルフォード.md "wikilink")
-    声 - [稲毛一弘](https://ja.wikipedia.org/wiki/Kay稲毛 "wikilink")
+    声 - [稲毛一弘](../Page/Kay稲毛.md "wikilink")
     [アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")・[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")出身で金髪碧眼のアメリカン忍者。流派は甲賀流＋ガルフォード忍術。持ち前の明るさと正義感で天草を討つ為に立ち上がる。お供の犬であるパピィも忍犬として一緒に戦う。忍者のため、機動力がある。
   - [シャルロット](../Page/シャルロット_\(サムライスピリッツ\).md "wikilink")
     声 - 生駒治美
@@ -92,7 +92,7 @@
     売れっ子の[歌舞伎](../Page/歌舞伎.md "wikilink")役者。歌舞伎の素晴らしさを世に伝えるために旅に出る。薙刀を振り回し、踊るように戦う。
   - [王虎](https://ja.wikipedia.org/wiki/王虎_\(サムライスピリッツ\) "wikilink")
     声 - 坂井貴行
-    [中国](https://ja.wikipedia.org/wiki/中国 "wikilink")出身のある王家の末裔。人材不足のため、異国に有力な人材を探しに旅に出る。大きな青龍刀を使用し、巨体から豪快に技を繰り出す。
+    [中国](../Page/中国.md "wikilink")出身のある王家の末裔。人材不足のため、異国に有力な人材を探しに旅に出る。大きな青龍刀を使用し、巨体から豪快に技を繰り出す。
   - [タムタム](https://ja.wikipedia.org/wiki/タムタム_\(サムライスピリッツ\) "wikilink")
     声 - 稲毛一弘
     南米のグリーンヘル出身。普段は子ども好きな優しい男性だが、戦いの場では素顔を「神の面」という凶悪な顔を象った仮面で隠している。異常に高い身長(285cm)と細いウエスト(33cm)を持つが、普通の人間である。自分の村の守り神であるパレンケストーンを盗まれたことからタムタムが捜索することとなった。マヤ流という独特の戦い方で、大きな刀と大きな身体で戦う。
@@ -143,7 +143,7 @@
     ネオジオ版が配信されている。
   - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")/Wii版『サムライスピリッツ 六番勝負』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")発売）
     シリーズ6本のカップリング作品。本作はネオジオ版準拠の移植。プレイステーション2版は[ネオジオオンラインコレクション](https://ja.wikipedia.org/wiki/ネオジオオンラインコレクション "wikilink")の1作で、オンライン対戦することができた（現在はオンラインサービスは終了している）。Wii版はオンライン対戦が出来ないかわりに、ミニゲームが用意されている。
-  - [PlayStation Portable版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『SNK ARCADE CLASSICS Vol.1』（[2009年](../Page/2009年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")発売）
+  - [PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")『SNK ARCADE CLASSICS Vol.1』（[2009年](../Page/2009年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")発売）
     ネオジオ作品16タイトルのカップリング作品。ネオジオ版を収録。
   - [PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")/PSP・NEO GEO Station版（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")発売）
     NEO GEO Stationでネオジオ版を配信。
@@ -177,5 +177,5 @@
 
 1.
 2.
-3.  同じSNK作品である『[餓狼伝説](https://ja.wikipedia.org/wiki/餓狼伝説 "wikilink")』シリーズの[不知火舞](../Page/不知火舞.md "wikilink")の一族とは無関係。
+3.  同じSNK作品である『[餓狼伝説](../Page/餓狼伝説.md "wikilink")』シリーズの[不知火舞](../Page/不知火舞.md "wikilink")の一族とは無関係。
 4.  [株式会社QBQ](http://qbq.jp/)編　『[懐かしスーパーファミコン　パーフェクトガイド](http://diapress.jp/archives/7402.html)』　[マガジンボックス](http://www.magazinebox.co.jp/)（M.B.ムック）、2016年。ISBN 9784866400082 p20

@@ -5,7 +5,7 @@
 
 ## 歴史
 
-`ls`は[AT\&T](../Page/AT&T.md "wikilink") [UNIX](../Page/UNIX.md "wikilink")の最初のバージョンから存在していた。その名称は、[Multics](https://ja.wikipedia.org/wiki/Multics "wikilink")に存在した類似のコマンドから継承された。現在使われている主な実装には、[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink")によるものと[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[Darwinなどの](../Page/Darwin_\(オペレーティングシステム\).md "wikilink")[BSD](../Page/BSD.md "wikilink")系システムで用いられているものの2つがある。どちらも[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であり、[オープンソース](../Page/オープンソース.md "wikilink")である。
+`ls`は[AT\&T](../Page/AT&T.md "wikilink") [UNIX](../Page/UNIX.md "wikilink")の最初のバージョンから存在していた。その名称は、[Multics](../Page/Multics.md "wikilink")に存在した類似のコマンドから継承された。現在使われている主な実装には、[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink")によるものと[FreeBSD](../Page/FreeBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[Darwinなどの](../Page/Darwin_\(オペレーティングシステム\).md "wikilink")[BSD](../Page/BSD.md "wikilink")系システムで用いられているものの2つがある。どちらも[フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であり、[オープンソース](../Page/オープンソース.md "wikilink")である。
 
 ## 振る舞い
 
@@ -15,7 +15,7 @@
 
 オプションが指定されなかった場合、`ls`はファイル名のみを表示する。しかし、この形式では[ファイルタイプ](https://ja.wikipedia.org/wiki/UNIXファイルタイプ "wikilink")、[パーミッション](../Page/ファイルパーミッション.md "wikilink")、サイズなどの情報がわからない。`ls`には表示形式を変更するオプションが多く存在するが、もっとも一般的なものは次に挙げたものである。
 
-  - `-l` :長い形式で表示する。ファイルタイプ、パーミッション、[ハードリンク](https://ja.wikipedia.org/wiki/ハードリンク "wikilink")の数、所有者、グループ、サイズ、日付、ファイル名。
+  - `-l` :長い形式で表示する。ファイルタイプ、パーミッション、[ハードリンク](../Page/ハードリンク.md "wikilink")の数、所有者、グループ、サイズ、日付、ファイル名。
   - `-F` :ファイルの性質を表す文字をファイル名の末尾に付加する。例えば「`*`」は実行可能ファイル、「`/`」はディレクトリを表し、通常のファイルは何も付加されない。
   - `-a` :「`.`」で始まるファイル名のものを含め、ディレクトリ内のすべてのファイルを表示する。
   - `-R` :サブディレクトリ内のファイルを再帰的に表示する。従って、`ls -R /`とするとシステムに存在するすべてのファイルを表示する。

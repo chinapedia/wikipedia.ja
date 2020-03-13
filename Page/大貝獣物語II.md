@@ -180,11 +180,11 @@
 
 ## 関連項目
 
-  - [貝獣物語](https://ja.wikipedia.org/wiki/貝獣物語 "wikilink")
+  - [貝獣物語](../Page/貝獣物語.md "wikilink")
   - [大貝獣物語](../Page/大貝獣物語.md "wikilink")
   - [大貝獣物語 THE MIRACLE OF THE ZONE](../Page/大貝獣物語_THE_MIRACLE_OF_THE_ZONE.md "wikilink")
   - [バースデイ](../Page/バースデイ_\(企業\).md "wikilink")
-  - [六土開正](https://ja.wikipedia.org/wiki/六土開正 "wikilink") - 作曲担当
+  - [六土開正](../Page/六土開正.md "wikilink") - 作曲担当
 
 ## 外部リンク
 

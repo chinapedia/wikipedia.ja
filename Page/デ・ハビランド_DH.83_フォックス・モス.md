@@ -26,11 +26,11 @@
 
 ## 参考文献
 
-  - 分冊百科「週刊 ワールド・エアクラフト」No.85 [2001年](../Page/2001年.md "wikilink") [デアゴスティーニ社](https://ja.wikipedia.org/wiki/デアゴスティーニ・ジャパン "wikilink")
+  - 分冊百科「週刊 ワールド・エアクラフト」No.85 [2001年](../Page/2001年.md "wikilink") [デアゴスティーニ社](../Page/デアゴスティーニ・ジャパン.md "wikilink")
 
 [Category:イギリスの旅客機](https://ja.wikipedia.org/wiki/Category:イギリスの旅客機 "wikilink") [Category:デ・ハビランドの航空機](https://ja.wikipedia.org/wiki/Category:デ・ハビランドの航空機 "wikilink")
 
 1.  [野沢正](https://ja.wikipedia.org/wiki/野沢正 "wikilink") 『日本航空機総集 九州・日立・昭和・日飛・諸社篇』 [出版協同社](https://ja.wikipedia.org/wiki/出版協同社 "wikilink")、1980年、49 - 54頁。。
 2.  [野沢正](https://ja.wikipedia.org/wiki/野沢正 "wikilink") 『日本航空機総集 輸入機篇』 [出版協同社](https://ja.wikipedia.org/wiki/出版協同社 "wikilink")、1972年、120頁。。
-3.  [日本陸軍のデ・ハビランドD.H.83フォックス・モス（1932）](http://www.tobunken.go.jp/kindai/detail.php?pid=175&cate=航空機&sum=2&select=指定しない&textfield=フォックス・モス) 日本航空史の揺籃〜発展期（喜多川コレクション） - [東京文化財研究所](https://ja.wikipedia.org/wiki/東京文化財研究所 "wikilink")公式サイト。2015年10月25日閲覧。
+3.  [日本陸軍のデ・ハビランドD.H.83フォックス・モス（1932）](http://www.tobunken.go.jp/kindai/detail.php?pid=175&cate=航空機&sum=2&select=指定しない&textfield=フォックス・モス) 日本航空史の揺籃〜発展期（喜多川コレクション） - [東京文化財研究所](../Page/東京文化財研究所.md "wikilink")公式サイト。2015年10月25日閲覧。
 4.

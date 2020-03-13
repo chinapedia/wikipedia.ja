@@ -4,8 +4,8 @@
 {{ Infobox 航空機 | 名称=デ・ハビランド DH.106 コメット | 画像=<File:Comet> 4.jpg | キャプション=英国海外航空のDH.106 コメットIV | 用途=[旅客機](../Page/旅客機.md "wikilink")、[軍用機](../Page/軍用機.md "wikilink") | 分類=第1世代ジェット旅客機 | 設計者= | 製造者=[デ・ハビランド・エアクラフト](../Page/デ・ハビランド・エアクラフト.md "wikilink") | 運用者 more=:
 
   -   - [英国海外航空](../Page/英国海外航空.md "wikilink")
-      - [メキシカーナ航空](https://ja.wikipedia.org/wiki/メキシカーナ航空 "wikilink")
-      - [アルゼンチン航空](https://ja.wikipedia.org/wiki/アルゼンチン航空 "wikilink")
+      - [メキシカーナ航空](../Page/メキシカーナ航空.md "wikilink")
+      - [アルゼンチン航空](../Page/アルゼンチン航空.md "wikilink")
       - [エールフランス航空](https://ja.wikipedia.org/wiki/エールフランス航空 "wikilink")
       - [オリンピック航空](../Page/オリンピック航空.md "wikilink")
       - [ミドル・イースト航空](../Page/ミドル・イースト航空.md "wikilink")
@@ -23,11 +23,11 @@
 
 第二次世界大戦中、イギリス政府は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")との取り決めで、欧州戦線に投入する重[爆撃機](../Page/爆撃機.md "wikilink")の生産に集中することになり、一方のアメリカは[輸送機](../Page/輸送機.md "wikilink")供給を担当することになった。
 
-アメリカはこの取り決めにより、高性能旅客機の設計をベースとした軍用輸送機を大量生産した。主力双発機のダグラス[C-47](https://ja.wikipedia.org/wiki/C-47_\(航空機\) "wikilink")（[DC-3の軍用型](https://ja.wikipedia.org/wiki/ダグラス_DC-3 "wikilink")）のみならず、C-54（[ダグラス DC-4の軍用型](../Page/ダグラス_DC-4.md "wikilink")）や、与圧機構装備のC-69（[ロッキード コンステレーションの軍用型](https://ja.wikipedia.org/wiki/ロッキード_コンステレーション "wikilink")）など、当時最大級の4発の大型プロペラ輸送機をも生産・供給し、その過程で後年にまで至る大型輸送機の製造・運用ノウハウを蓄積していったのである。
+アメリカはこの取り決めにより、高性能旅客機の設計をベースとした軍用輸送機を大量生産した。主力双発機のダグラス[C-47](https://ja.wikipedia.org/wiki/C-47_\(航空機\) "wikilink")（[DC-3の軍用型](../Page/ダグラス_DC-3.md "wikilink")）のみならず、C-54（[ダグラス DC-4の軍用型](../Page/ダグラス_DC-4.md "wikilink")）や、与圧機構装備のC-69（[ロッキード コンステレーションの軍用型](../Page/ロッキード_コンステレーション.md "wikilink")）など、当時最大級の4発の大型プロペラ輸送機をも生産・供給し、その過程で後年にまで至る大型輸送機の製造・運用ノウハウを蓄積していったのである。
 
 対[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")戦での機材供給合理化には両国分担も適切であったが、イギリスからすれば、自国メーカーがその能力を爆撃機生産に傾注し続けることは、戦争終結後に見込まれる民間輸送機需要へのノウハウ構築に寄与しないのは明らかであった。
 
-当時の[チャーチル政権は](../Page/ウィンストン・チャーチル.md "wikilink")、戦後の民間航空分野でも自国の先進性を保持し、その市場のニーズを探る目的で、[保守党の政治家であると共に英国航空界の指導的立場にあった](https://ja.wikipedia.org/wiki/保守党_\(イギリス\) "wikilink")[ロード・ブラバゾン・タラを委員長とする](https://ja.wikipedia.org/wiki/ジョン・ムーア＝ブラバゾン "wikilink")[ブラバゾン委員会](https://ja.wikipedia.org/wiki/ブラバゾン委員会 "wikilink")を[1943年](../Page/1943年.md "wikilink")2月に立ち上げ、具体的なプランを検討させることになった。翌[1944年](../Page/1944年.md "wikilink")にはタイプ1からタイプ4までの旅客機案がまとめられ、各々が国内の航空機メーカーに提示された。
+当時の[チャーチル政権は](../Page/ウィンストン・チャーチル.md "wikilink")、戦後の民間航空分野でも自国の先進性を保持し、その市場のニーズを探る目的で、[保守党の政治家であると共に英国航空界の指導的立場にあった](../Page/保守党_\(イギリス\).md "wikilink")[ロード・ブラバゾン・タラを委員長とする](https://ja.wikipedia.org/wiki/ジョン・ムーア＝ブラバゾン "wikilink")[ブラバゾン委員会](https://ja.wikipedia.org/wiki/ブラバゾン委員会 "wikilink")を[1943年](../Page/1943年.md "wikilink")2月に立ち上げ、具体的なプランを検討させることになった。翌[1944年](../Page/1944年.md "wikilink")にはタイプ1からタイプ4までの旅客機案がまとめられ、各々が国内の航空機メーカーに提示された。
 
 ### コメットの開発
 
@@ -37,13 +37,13 @@
 
 計画着手時には24席クラスの無尾翼機案が有力だったが、[同年](../Page/1946年.md "wikilink")、デ・ハビランド社がドイツの[Me163「コメート」を摸して開発した無尾翼高速研究機](../Page/メッサーシュミット_Me163.md "wikilink")[DH.108は試験飛行中に墜落](../Page/デ・ハビランド_DH.108.md "wikilink")、同社創業社長サー・ジェフリー・デ・ハビランド（[Geoffrey de Havilland](https://ja.wikipedia.org/wiki/:en:Geoffrey_de_Havilland "wikilink")）の息子で事故機の操縦者だったジェフリー・ジュニアは死亡した。このためデ・ハビランド社長にとって、世界初のジェット旅客機を自らの手で早期に完成させることは悲願になり、機体は堅実な緩後退翼案に転換すると共に、融通性重視で自社製[ターボジェットエンジン](../Page/ターボジェットエンジン.md "wikilink")「[ゴースト](https://ja.wikipedia.org/wiki/デ・ハビランド_ゴースト "wikilink")」 エンジンが選定された。
 
-イギリスで開発され、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")終結時には既に十分な実績を積んでいた[遠心圧縮式ターボジェットエンジンだったが](../Page/遠心式圧縮機.md "wikilink")、機械的限界から推力5,000[ポンド（lbf）](https://ja.wikipedia.org/wiki/重量ポンド "wikilink")（≒22k[N](../Page/ニュートン_\(単位\).md "wikilink"), 2,300[kg](https://ja.wikipedia.org/wiki/キログラム重 "wikilink")）以上に向上する余地がほとんどなく、当時における最強水準であったデ・ハビランド「ゴースト」や[ロールス・ロイス「ニーン」とて例外ではなかった](https://ja.wikipedia.org/wiki/ロールス・ロイス_ニーン "wikilink")。
+イギリスで開発され、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")終結時には既に十分な実績を積んでいた[遠心圧縮式ターボジェットエンジンだったが](../Page/遠心式圧縮機.md "wikilink")、機械的限界から推力5,000[ポンド（lbf）](../Page/重量ポンド.md "wikilink")（≒22k[N](../Page/ニュートン_\(単位\).md "wikilink"), 2,300[kg](https://ja.wikipedia.org/wiki/キログラム重 "wikilink")）以上に向上する余地がほとんどなく、当時における最強水準であったデ・ハビランド「ゴースト」や[ロールス・ロイス「ニーン」とて例外ではなかった](https://ja.wikipedia.org/wiki/ロールス・ロイス_ニーン "wikilink")。
 
 ジェットエンジンの改良面で、遠心式よりも構造は複雑化するが、小径で応答性に勝り、制御パラメータがより多く取れ、発展性のある[軸流式への転換は技術的必然であった](../Page/軸流式圧縮機.md "wikilink")。しかし後退翼と同様に、軸流式ターボジェットエンジンの分野で先陣を切っていたドイツの技術者は、ドイツ敗戦と同時に米ソが奪い合う形で自国に招聘していたため、英仏は独自開発を余儀なくされ、スタートラインから大きく出遅れていた。コメットの設計着手時に基礎研究段階にあった、軸流式エンジンの[ロールス・ロイス「エイヴォン」](https://ja.wikipedia.org/wiki/ロールス・ロイス_エイヴォン "wikilink")、並びに[アームストロング・シドレー「サファイア」の開発は難航し](https://ja.wikipedia.org/wiki/アームストロング・シドレー_サファイア "wikilink")、実用化は[1950年](../Page/1950年.md "wikilink")以降になると予想された。それらの完成を待っていてはコメット計画全体が遅延するため、敢えて小出力の「ゴースト」で試作が進められることになった。
 
-機体の規模に対して、4発をもってしても推力が不足する「ゴースト」の採用は、設計全体に影響を及ぼした。コメットがいまだ製図板上にあった[1947年](../Page/1947年.md "wikilink")末に、米[ボーイング](../Page/ボーイング.md "wikilink")はドイツから受け入れた亡命技術者達に青天井の予算を与え、戦時中のプロジェクトを継続させた結果、[後退翼を持つ超革新的な](https://ja.wikipedia.org/wiki/翼平面形 "wikilink")6発式大型ジェット[戦略爆撃機](../Page/戦略爆撃機.md "wikilink") [B-47](https://ja.wikipedia.org/wiki/B-47_\(航空機\) "wikilink") を進空させると共に、後に主流となる主翼[パイロン](https://ja.wikipedia.org/wiki/パイロン "wikilink")吊下式のエンジン搭載法を特許で固めてしまった（ボーイングはその後1952年に進空させた超大型ジェット爆撃機・[B-52において](../Page/B-52_\(航空機\).md "wikilink")、8発ものエンジンを吊下式で搭載して必要なパワーを確保している）。このため、デ・ハビランド社の主任技師ロナルド・ビショップ（Ronald Bishop）は、空気抵抗の低減を兼ねて主翼付根に大径な遠心式エンジンを2基ずつ埋め込む回避策を選んだ。
+機体の規模に対して、4発をもってしても推力が不足する「ゴースト」の採用は、設計全体に影響を及ぼした。コメットがいまだ製図板上にあった[1947年](../Page/1947年.md "wikilink")末に、米[ボーイング](../Page/ボーイング.md "wikilink")はドイツから受け入れた亡命技術者達に青天井の予算を与え、戦時中のプロジェクトを継続させた結果、[後退翼を持つ超革新的な](../Page/翼平面形.md "wikilink")6発式大型ジェット[戦略爆撃機](../Page/戦略爆撃機.md "wikilink") [B-47](../Page/B-47_\(航空機\).md "wikilink") を進空させると共に、後に主流となる主翼[パイロン](https://ja.wikipedia.org/wiki/パイロン "wikilink")吊下式のエンジン搭載法を特許で固めてしまった（ボーイングはその後1952年に進空させた超大型ジェット爆撃機・[B-52において](../Page/B-52_\(航空機\).md "wikilink")、8発ものエンジンを吊下式で搭載して必要なパワーを確保している）。このため、デ・ハビランド社の主任技師ロナルド・ビショップ（Ronald Bishop）は、空気抵抗の低減を兼ねて主翼付根に大径な遠心式エンジンを2基ずつ埋め込む回避策を選んだ。
 
-推力の不足を補い、高[与圧](../Page/与圧.md "wikilink")（高度 35,000 ft=約 10,000 m 時に 0.75 気圧=2,700 m 相当を保つ）と、-60 度Cに達する低温に耐える必要から、機体には[「DH.98 モスキート」など同社のお家芸とも言える木製高速機で十分な経験を積んだ](../Page/デ・ハビランド_モスキート.md "wikilink")、[エポキシ接着剤が多用され](https://ja.wikipedia.org/wiki/接着剤#接着剤の種類#有機系接着剤#合成系接着剤 "wikilink")、新開発の[超々ジュラルミン薄肉](../Page/ジュラルミン.md "wikilink")[モノコック](https://ja.wikipedia.org/wiki/モノコック "wikilink")構造による徹底した軽量化と、表皮の平滑化が図られた。後に総ての大型機に装備される[ボギー式](../Page/ボギー台車.md "wikilink")[主輪を初採用したのもコメットで](../Page/降着装置.md "wikilink")、これらは[ロイヤル・エアクラフト・エスタブリッシュメント](https://ja.wikipedia.org/wiki/ロイヤル・エアクラフト・エスタブリッシュメント "wikilink") (RAE) との共同開発である。
+推力の不足を補い、高[与圧](../Page/与圧.md "wikilink")（高度 35,000 ft=約 10,000 m 時に 0.75 気圧=2,700 m 相当を保つ）と、-60 度Cに達する低温に耐える必要から、機体には[「DH.98 モスキート」など同社のお家芸とも言える木製高速機で十分な経験を積んだ](../Page/デ・ハビランド_モスキート.md "wikilink")、[エポキシ接着剤が多用され](https://ja.wikipedia.org/wiki/接着剤#接着剤の種類#有機系接着剤#合成系接着剤 "wikilink")、新開発の[超々ジュラルミン薄肉](../Page/ジュラルミン.md "wikilink")[モノコック](../Page/モノコック.md "wikilink")構造による徹底した軽量化と、表皮の平滑化が図られた。後に総ての大型機に装備される[ボギー式](../Page/ボギー台車.md "wikilink")[主輪を初採用したのもコメットで](../Page/降着装置.md "wikilink")、これらは[ロイヤル・エアクラフト・エスタブリッシュメント](https://ja.wikipedia.org/wiki/ロイヤル・エアクラフト・エスタブリッシュメント "wikilink") (RAE) との共同開発である。
 
 ## 完成
 
@@ -51,11 +51,11 @@
 
 [Dh_Comet.jpg](https://ja.wikipedia.org/wiki/File:Dh_Comet.jpg "fig:Dh_Comet.jpg") コメット試作初号機の進空が行われた[1949年](../Page/1949年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")は、ジェフリー・デハビランド社長自身の57歳の誕生日であった。彼はこの日、世界初のジェット旅客機の初飛行にあたり、チーフ・テストパイロットの[ジョン・カニンガム](../Page/ジョン・カニンガム.md "wikilink")元空軍大佐と共に、自ら操縦席に座った。
 
-これは当時の最新鋭機である[ダグラス DC-7よりも早く](https://ja.wikipedia.org/wiki/ダグラス_DC-7 "wikilink")、ロッキード コンステレーションの改良版であるL-1649スーパーコンステレーションとほぼ同時であるものの、アメリカのライバル達はいずれも巡航速度500km/h台以下の[レシプロ機であり](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、コメットの実用化は他の追随を引き離した独走状態であった。
+これは当時の最新鋭機である[ダグラス DC-7よりも早く](../Page/ダグラス_DC-7.md "wikilink")、ロッキード コンステレーションの改良版であるL-1649スーパーコンステレーションとほぼ同時であるものの、アメリカのライバル達はいずれも巡航速度500km/h台以下の[レシプロ機であり](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")、コメットの実用化は他の追随を引き離した独走状態であった。
 
 しかし同時期の軍用機分野では、既に[1947年](../Page/1947年.md "wikilink")に後退翼の大型ジェット戦略爆撃機B-47が実用化されており、そのスケールと共に「[フラミンゴ](../Page/フラミンゴ.md "wikilink")のようにスマート」と評されたほど優美なフォルムで全世界に衝撃を与えていた。対してまるでレシプロ機をジェットエンジンに換装したのみのように見え、さらに後退翼もない保守的な外観のコメットには失望の声も半ばしていたという。
 
-[試作](https://ja.wikipedia.org/wiki/プロトタイプ "wikilink")2号機の処女飛行も、[1950年](../Page/1950年.md "wikilink")の同じ7月27日に同じメンバーでなされた。その後テスト飛行が本格化され、離着陸時の安定性や、舗装が貧弱な滑走路への重量配分を考慮し、主脚が大型のタイヤ1個から現代の大型旅客機でもよくみられる4個のものに変更されるなど、就航を見すえて様々な改良が施された。
+[試作](../Page/プロトタイプ.md "wikilink")2号機の処女飛行も、[1950年](../Page/1950年.md "wikilink")の同じ7月27日に同じメンバーでなされた。その後テスト飛行が本格化され、離着陸時の安定性や、舗装が貧弱な滑走路への重量配分を考慮し、主脚が大型のタイヤ1個から現代の大型旅客機でもよくみられる4個のものに変更されるなど、就航を見すえて様々な改良が施された。
 
 ### 就航
 
@@ -67,13 +67,13 @@
 
 ### 運航拡大
 
-[DH_Comet_1_BOAC_Heathrow_1953.jpg](https://ja.wikipedia.org/wiki/File:DH_Comet_1_BOAC_Heathrow_1953.jpg "fig:DH_Comet_1_BOAC_Heathrow_1953.jpg") [Air_France_De_Havilland_DH.106_Comet_1A_(F-BGNX)_at_Hatfield.jpg](https://ja.wikipedia.org/wiki/File:Air_France_De_Havilland_DH.106_Comet_1A_\(F-BGNX\)_at_Hatfield.jpg "fig:Air_France_De_Havilland_DH.106_Comet_1A_(F-BGNX)_at_Hatfield.jpg") 翌[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")には試作2号機が[ファーンボロー国際航空ショー](https://ja.wikipedia.org/wiki/ファーンボロー国際航空ショー "wikilink")で超低空90度[バンク](../Page/バンク.md "wikilink")（[ローリング](https://ja.wikipedia.org/wiki/ローリング "wikilink")）ターンを決めて見せたほか、[エリザベス王太后らを乗せた招待飛行を行うなど](https://ja.wikipedia.org/wiki/エリザベス・ボーズ＝ライアン "wikilink")、イギリス航空界はその存在を存分にアピールした。
+[DH_Comet_1_BOAC_Heathrow_1953.jpg](https://ja.wikipedia.org/wiki/File:DH_Comet_1_BOAC_Heathrow_1953.jpg "fig:DH_Comet_1_BOAC_Heathrow_1953.jpg") [Air_France_De_Havilland_DH.106_Comet_1A_(F-BGNX)_at_Hatfield.jpg](https://ja.wikipedia.org/wiki/File:Air_France_De_Havilland_DH.106_Comet_1A_\(F-BGNX\)_at_Hatfield.jpg "fig:Air_France_De_Havilland_DH.106_Comet_1A_(F-BGNX)_at_Hatfield.jpg") 翌[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")には試作2号機が[ファーンボロー国際航空ショー](https://ja.wikipedia.org/wiki/ファーンボロー国際航空ショー "wikilink")で超低空90度[バンク](../Page/バンク.md "wikilink")（[ローリング](https://ja.wikipedia.org/wiki/ローリング "wikilink")）ターンを決めて見せたほか、[エリザベス王太后らを乗せた招待飛行を行うなど](../Page/エリザベス・ボーズ＝ライアン.md "wikilink")、イギリス航空界はその存在を存分にアピールした。
 
-さらに8月には[南回り航路経由でヒースロー](https://ja.wikipedia.org/wiki/ヨーロッパ航空航路#南回りヨーロッパ線 "wikilink")-[羽田間](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")（[ローマ](../Page/ローマ.md "wikilink")、[カルカッタ](https://ja.wikipedia.org/wiki/カルカッタ "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など経由）や、ヒースロー-[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")という長距離路線にも定期就航した。第二次世界大戦争中にジェット機の試作と量産開始にまで成功したものの、[占領](https://ja.wikipedia.org/wiki/占領 "wikilink")下で航空機開発の一切を禁じられ、ジェット時代の到来になす術もなくいた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元航空[技術者](https://ja.wikipedia.org/wiki/技術者 "wikilink")たちは、コメットの銀翼と快音に悔しがったと言う。
+さらに8月には[南回り航路経由でヒースロー](https://ja.wikipedia.org/wiki/ヨーロッパ航空航路#南回りヨーロッパ線 "wikilink")-[羽田間](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")（[ローマ](../Page/ローマ.md "wikilink")、[カルカッタ](https://ja.wikipedia.org/wiki/カルカッタ "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など経由）や、ヒースロー-[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")という長距離路線にも定期就航した。第二次世界大戦争中にジェット機の試作と量産開始にまで成功したものの、[占領](../Page/占領.md "wikilink")下で航空機開発の一切を禁じられ、ジェット時代の到来になす術もなくいた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元航空[技術者](../Page/技術者.md "wikilink")たちは、コメットの銀翼と快音に悔しがったと言う。
 
 「[ドル箱](../Page/ドル箱.md "wikilink")路線」の1つであった[大西洋](../Page/大西洋.md "wikilink")横断路線にこそ就航していなかったものの、順次航路を全世界に拡大したのみならず、まもなく[エールフランス](../Page/エールフランス.md "wikilink")や[トランス・カナダ航空](../Page/エア・カナダ.md "wikilink")、UATなどでも運航開始され、懸念された[燃費](../Page/燃費.md "wikilink")も低廉な[ジェット燃料](../Page/ジェット燃料.md "wikilink")と高い満席率で相殺できることがわかり、就航当初の様子見気分は払拭された。また、[イギリス王室](../Page/イギリス王室.md "wikilink")メンバーの海外訪問や[イギリス連邦](../Page/イギリス連邦.md "wikilink")諸国、そして[植民地](../Page/植民地.md "wikilink")訪問にも頻繁に利用され、その威信を内外に誇示した\[2\]。
 
-ロールス・ロイス・エイヴォン・エンジン搭載のパワーアップ型 Mk.IIは、[日本航空](../Page/日本航空.md "wikilink")や[パンアメリカン航空](../Page/パンアメリカン航空.md "wikilink")、[エア・インディア](../Page/エア・インディア.md "wikilink")、[南アフリカ航空](https://ja.wikipedia.org/wiki/南アフリカ航空 "wikilink")、[アルゼンチン航空](https://ja.wikipedia.org/wiki/アルゼンチン航空 "wikilink")など世界中の長距離国際線を運航する[フラッグ・キャリア](https://ja.wikipedia.org/wiki/フラッグ・キャリア "wikilink")から50機以上のバックオーダーを抱え、コメットは順風満帆の船出であった。
+ロールス・ロイス・エイヴォン・エンジン搭載のパワーアップ型 Mk.IIは、[日本航空](../Page/日本航空.md "wikilink")や[パンアメリカン航空](../Page/パンアメリカン航空.md "wikilink")、[エア・インディア](../Page/エア・インディア.md "wikilink")、[南アフリカ航空](../Page/南アフリカ航空.md "wikilink")、[アルゼンチン航空](../Page/アルゼンチン航空.md "wikilink")など世界中の長距離国際線を運航する[フラッグ・キャリア](../Page/フラッグ・キャリア.md "wikilink")から50機以上のバックオーダーを抱え、コメットは順風満帆の船出であった。
 
 さらに[大西洋横断飛行](../Page/大西洋横断飛行.md "wikilink")用に航続距離延長と機体の延長が施されることとなったコメットMk.IIIは、パンアメリカン航空やキャピタル航空などの[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")の航空会社からの発注を受けるなど、[量産体制に入ったデ](../Page/大量生産.md "wikilink")・ハビランド社は前途洋々であった。
 
@@ -97,7 +97,7 @@
 
 人力制御で1954年6月初旬から開始された試験では、致命的な破損が発生まで数ヶ月かかると予想されたところ、実際には3週間足らずで発生した。その後実験データを解析した結果、数万フライト分と計算されていた[構造](../Page/構造.md "wikilink")[寿命](../Page/寿命.md "wikilink")が、実際には一桁低かったことが判明した。[1955年](../Page/1955年.md "wikilink")2月には、離着陸サイクルで加減圧と熱収縮の反復に晒されたことで発生した金属疲労が原因だとする、最終報告が纏められた。窓枠の角、或いは航法装置取付部に亀裂が発生し、これが成長して機体が破裂的な空中分解に至ったのである。
 
-この[シークエンス](../Page/シークエンス.md "wikilink")が明らかになったことで、その後のジェット旅客機は、[応力](../Page/応力.md "wikilink")の集中する窓などの開口部の角を丸くし、また万一亀裂が生じてもその成長を食い止める[フェイルセーフ](https://ja.wikipedia.org/wiki/フェイルセーフ "wikilink")構造が採り入れられた。
+この[シークエンス](../Page/シークエンス.md "wikilink")が明らかになったことで、その後のジェット旅客機は、[応力](../Page/応力.md "wikilink")の集中する窓などの開口部の角を丸くし、また万一亀裂が生じてもその成長を食い止める[フェイルセーフ](../Page/フェイルセーフ.md "wikilink")構造が採り入れられた。
 
 なお、連続墜落事故発生当時、製造ライン上にあったMk.II は、世界各国の航空会社から受けていた発注を総てキャンセルされたが、胴体構造を変更、強化し、飛行回数を制限した上で、イギリス空軍の[輸送機](../Page/輸送機.md "wikilink")として継続運用され、安全性を実証する傍ら飛行データの収集が続けられた。
 
@@ -105,17 +105,17 @@
 
 ### Mk.IIIの登場
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:DH106_Comet_3_G-ANLO_FAR_1954.jpg "wikilink") [G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_(6812607529).jpg](https://ja.wikipedia.org/wiki/File:G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_\(6812607529\).jpg "fig:G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_(6812607529).jpg") [G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_(6812605709).jpg](https://ja.wikipedia.org/wiki/File:G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_\(6812605709\).jpg "fig:G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_(6812605709).jpg") 続くMk.IIIは抜本的な改設計を受け、[大西洋横断飛行](../Page/大西洋横断飛行.md "wikilink")が可能なストレッチ版の本格仕様に成長し、[1954年](../Page/1954年.md "wikilink")末に初飛行したものの、同年[367-80](../Page/ボーイング367-80.md "wikilink")（後の[ボーイング707](https://ja.wikipedia.org/wiki/ボーイング707 "wikilink")）を進空させたアメリカの[ボーイング](../Page/ボーイング.md "wikilink")が、自社の新型機が実用化するまでの間、[FAAに政治的圧力を掛けてアメリカの耐空証明の再発行を先延ばしさせ続けさせたとも言われ](../Page/連邦航空局.md "wikilink")、設計着手から10年を経ていたコメットはこの空白期間にリードを失い、陳腐化を余儀なくされてしまった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:DH106_Comet_3_G-ANLO_FAR_1954.jpg "wikilink") [G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_(6812607529).jpg](https://ja.wikipedia.org/wiki/File:G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_\(6812607529\).jpg "fig:G-APDC_DH106_Comet_4_G-APFH_B707-436_BOAC_LHR_02SEP63_(6812607529).jpg") [G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_(6812605709).jpg](https://ja.wikipedia.org/wiki/File:G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_\(6812605709\).jpg "fig:G-AROV_DH106_Comet_4C_Dan-Air_MAN_MAY79_(6812605709).jpg") 続くMk.IIIは抜本的な改設計を受け、[大西洋横断飛行](../Page/大西洋横断飛行.md "wikilink")が可能なストレッチ版の本格仕様に成長し、[1954年](../Page/1954年.md "wikilink")末に初飛行したものの、同年[367-80](../Page/ボーイング367-80.md "wikilink")（後の[ボーイング707](../Page/ボーイング707.md "wikilink")）を進空させたアメリカの[ボーイング](../Page/ボーイング.md "wikilink")が、自社の新型機が実用化するまでの間、[FAAに政治的圧力を掛けてアメリカの耐空証明の再発行を先延ばしさせ続けさせたとも言われ](../Page/連邦航空局.md "wikilink")、設計着手から10年を経ていたコメットはこの空白期間にリードを失い、陳腐化を余儀なくされてしまった。
 
 ### 競争の激化
 
-改良型のMk.IVは、かねてから運航を行っていた英国海外航空に併せて、アルゼンチン航空、ダン・エア、[オリンピック航空](../Page/オリンピック航空.md "wikilink")や[メヒカーナ航空](https://ja.wikipedia.org/wiki/メキシカーナ航空 "wikilink")、[マレーシア・シンガポール航空など多数の航空会社からの発注を受け](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")、[1958年](../Page/1958年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に英国海外航空の手によって漸くロンドン - [ニューヨーク](../Page/ニューヨーク.md "wikilink")間の定期便に再就航した。
+改良型のMk.IVは、かねてから運航を行っていた英国海外航空に併せて、アルゼンチン航空、ダン・エア、[オリンピック航空](../Page/オリンピック航空.md "wikilink")や[メヒカーナ航空](../Page/メキシカーナ航空.md "wikilink")、[マレーシア・シンガポール航空など多数の航空会社からの発注を受け](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")、[1958年](../Page/1958年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に英国海外航空の手によって漸くロンドン - [ニューヨーク](../Page/ニューヨーク.md "wikilink")間の定期便に再就航した。
 
-しかしMk.IVは、わずか1か月弱後に就航した、より高速でより大型のボーイング707や[ダグラス DC-8ら第](https://ja.wikipedia.org/wiki/ダグラス_DC-8 "wikilink")2世代機との競合に敗退し、その後英国海外航空までがボーイング707を発注した上に、皮肉なことに、血縁関係ともいえる[シュド・カラベル](https://ja.wikipedia.org/wiki/シュド・カラベル "wikilink")が好調なセールスとなったこと。さらに、[1960年代](../Page/1960年代.md "wikilink")に入り事実上の後継機となるイギリス製の[ヴィッカースVC-10や](../Page/ビッカース_VC-10.md "wikilink")、中短距離向けの[ホーカー・シドレー トライデントが就航したことなどによりオーダーが途絶え](../Page/ホーカー・シドレー_トライデント.md "wikilink")、[1964年](../Page/1964年.md "wikilink")末にシリーズ合計112機をもって生産を終了した。
+しかしMk.IVは、わずか1か月弱後に就航した、より高速でより大型のボーイング707や[ダグラス DC-8ら第](../Page/ダグラス_DC-8.md "wikilink")2世代機との競合に敗退し、その後英国海外航空までがボーイング707を発注した上に、皮肉なことに、血縁関係ともいえる[シュド・カラベル](https://ja.wikipedia.org/wiki/シュド・カラベル "wikilink")が好調なセールスとなったこと。さらに、[1960年代](../Page/1960年代.md "wikilink")に入り事実上の後継機となるイギリス製の[ヴィッカースVC-10や](../Page/ビッカース_VC-10.md "wikilink")、中短距離向けの[ホーカー・シドレー トライデントが就航したことなどによりオーダーが途絶え](../Page/ホーカー・シドレー_トライデント.md "wikilink")、[1964年](../Page/1964年.md "wikilink")末にシリーズ合計112機をもって生産を終了した。
 
 ### 退役
 
-生産は終了したものの、Mk.IIとMk.IVシリーズの事故率は同時代に就航していた競合機より明らかに低く、連続事故後に施された安全対策が完全に奏功したことを実証してみせ、その後も[英国欧州航空](../Page/英国欧州航空.md "wikilink")や[TAP ポルトガル航空](https://ja.wikipedia.org/wiki/TAP_ポルトガル航空 "wikilink")、[ミドル・イースト航空](../Page/ミドル・イースト航空.md "wikilink")、[エジプト航空](https://ja.wikipedia.org/wiki/エジプト航空 "wikilink")など世界各国の航空会社で運用された。
+生産は終了したものの、Mk.IIとMk.IVシリーズの事故率は同時代に就航していた競合機より明らかに低く、連続事故後に施された安全対策が完全に奏功したことを実証してみせ、その後も[英国欧州航空](../Page/英国欧州航空.md "wikilink")や[TAP ポルトガル航空](https://ja.wikipedia.org/wiki/TAP_ポルトガル航空 "wikilink")、[ミドル・イースト航空](../Page/ミドル・イースト航空.md "wikilink")、[エジプト航空](../Page/エジプト航空.md "wikilink")など世界各国の航空会社で運用された。
 
 しかし、国際線旅客機の急速な大型化や高速化、さらに中近距離路線のジェット化により、英国海外航空を含む主要な運航航空会社もボーイング707やダグラスDC-8などへの代替を進め、英国航空会社は1960年代後半に運航を終了した。さらにほかの航空会社も、より運航効率の良い[ボーイング727](../Page/ボーイング727.md "wikilink")やホーカー・シドレー トライデント、[ボーイング737](../Page/ボーイング737.md "wikilink")や[マクドネル・ダグラス DC-9などの中型機が相次いで登場したこともあり](../Page/マクドネル・ダグラス_DC-9.md "wikilink")、[1982年](../Page/1982年.md "wikilink")までに全ての航空会社から全機退役している。なお最後まで使用した航空会社はイギリスのダン・エアであった。
 
@@ -142,7 +142,7 @@
 
 ### ニムロッド
 
-コメットを原型として、燃費改善のため[ロールス・ロイス スペイ](https://ja.wikipedia.org/wiki/ロールス・ロイス_スペイ "wikilink")[ターボファン](https://ja.wikipedia.org/wiki/ターボファン "wikilink")エンジンに換装した[対潜哨戒機](../Page/対潜哨戒機.md "wikilink")[ニムロッドが](https://ja.wikipedia.org/wiki/BAE_ニムロッド "wikilink")[1967年](../Page/1967年.md "wikilink")から64機製作され、2011年の退役まで[イギリス空軍](../Page/イギリス空軍.md "wikilink")で現用された。
+コメットを原型として、燃費改善のため[ロールス・ロイス スペイ](https://ja.wikipedia.org/wiki/ロールス・ロイス_スペイ "wikilink")[ターボファン](https://ja.wikipedia.org/wiki/ターボファン "wikilink")エンジンに換装した[対潜哨戒機](../Page/対潜哨戒機.md "wikilink")[ニムロッドが](../Page/BAE_ニムロッド.md "wikilink")[1967年](../Page/1967年.md "wikilink")から64機製作され、2011年の退役まで[イギリス空軍](../Page/イギリス空軍.md "wikilink")で現用された。
 
 [ロッキード L-188 エレクトラ同様](../Page/ロッキード_L-188.md "wikilink")、劣速と低燃費が哨戒機としての適性を満たし、かつ適当なサイズ、出自が旅客機のため搭載電子機器にとっても良好な居住性、長時間滞空性能、ジェット燃料使用による資材共通化などが評価された。
 
@@ -161,9 +161,9 @@
 [Mexicana_de_Havilland_Comet_4_APM.jpg](https://ja.wikipedia.org/wiki/File:Mexicana_de_Havilland_Comet_4_APM.jpg "fig:Mexicana_de_Havilland_Comet_4_APM.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:MSA_Comet_Groves.jpg "wikilink")
 
   - [英国海外航空](../Page/英国海外航空.md "wikilink") (BOAC)
-      - 現在は[ブリティッシュ・エアウェイズ](https://ja.wikipedia.org/wiki/ブリティッシュ・エアウェイズ "wikilink")
+      - 現在は[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")
   - [英国欧州航空](../Page/英国欧州航空.md "wikilink") (BEA)
-      - 現在は[ブリティッシュ・エアウェイズ](https://ja.wikipedia.org/wiki/ブリティッシュ・エアウェイズ "wikilink")
+      - 現在は[ブリティッシュ・エアウェイズ](../Page/ブリティッシュ・エアウェイズ.md "wikilink")
   - BEA エアツアーズ
   - ダン・エアー
   - チャネル・エアー
@@ -171,11 +171,11 @@
   - [オリンピック航空](../Page/オリンピック航空.md "wikilink")
   - [ミドルイースト航空](https://ja.wikipedia.org/wiki/ミドルイースト航空 "wikilink") (MEA)
   - ユナイテッド・アラブ航空
-  - [エジプト航空](https://ja.wikipedia.org/wiki/エジプト航空 "wikilink")
+  - [エジプト航空](../Page/エジプト航空.md "wikilink")
   - イースト・アフリカン航空
   - [スーダン航空](../Page/スーダン航空.md "wikilink")
   - [メヒカーナ航空](https://ja.wikipedia.org/wiki/メヒカーナ航空 "wikilink")
-  - [アルゼンチン航空](https://ja.wikipedia.org/wiki/アルゼンチン航空 "wikilink")
+  - [アルゼンチン航空](../Page/アルゼンチン航空.md "wikilink")
   - AREAエクアドル航空
 
 ### 軍
@@ -196,7 +196,7 @@
   -
 ## 関連項目
 
-  - [コーンズ](https://ja.wikipedia.org/wiki/コーンズ "wikilink")
+  - [コーンズ](../Page/コーンズ.md "wikilink")
   - [マッハの恐怖](../Page/マッハの恐怖.md "wikilink")
   - [ハンドレページ マラソン](../Page/ハンドレページ_マラソン.md "wikilink") - ブラバゾン委員会での4種類の旅客機のうちの1つ
   - [ビッカース バイカウント](../Page/ビッカース_バイカウント.md "wikilink") - ブラバゾン委員会での4種類の旅客機のうちの1つ

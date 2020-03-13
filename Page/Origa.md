@@ -1,11 +1,11 @@
 > この記事は[Origa](https://ja.wikipedia.org/wiki/Origa)から翻訳されています。
 
 
-**ORIGA**（オリガ、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - [2015年](../Page/2015年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を拠点に活動した[ロシア人](../Page/ロシア人.md "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。本名は**オリガ・ヴィターリエヴナ・ヤコヴレヴァ**（[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：／[ラテン](../Page/ラテン文字.md "wikilink")[翻字](../Page/翻字.md "wikilink")：）である。
+**ORIGA**（オリガ、[1970年](../Page/1970年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - [2015年](../Page/2015年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を拠点に活動した[ロシア人](../Page/ロシア人.md "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。本名は**オリガ・ヴィターリエヴナ・ヤコヴレヴァ**（[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：／[ラテン](../Page/ラテン文字.md "wikilink")[翻字](../Page/翻字.md "wikilink")：）である。
 
 ## 略歴・人物
 
-[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ロシア共和国](../Page/ロシア・ソビエト連邦社会主義共和国.md "wikilink")（現：ロシア連邦）[ノヴォシビルスク](https://ja.wikipedia.org/wiki/ノヴォシビルスク "wikilink")郊外の農村生まれ。幼い頃からエストラーダ（ロシアの軽音楽）やロシア民謡に親しみ、9歳の時にテレビ出演して、兵役を終え帰郷する兵士についての歌を披露している。[ペレストロイカ](../Page/ペレストロイカ.md "wikilink")期に西側の[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")に初めて触れ、深い感銘を受ける。
+[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ロシア共和国](../Page/ロシア・ソビエト連邦社会主義共和国.md "wikilink")（現：ロシア連邦）[ノヴォシビルスク](../Page/ノヴォシビルスク.md "wikilink")郊外の農村生まれ。幼い頃からエストラーダ（ロシアの軽音楽）やロシア民謡に親しみ、9歳の時にテレビ出演して、兵役を終え帰郷する兵士についての歌を披露している。[ペレストロイカ](../Page/ペレストロイカ.md "wikilink")期に西側の[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")に初めて触れ、深い感銘を受ける。
 
 元々は音楽教師志望で音楽学校に通っていたが、同校卒業間近の[1991年](../Page/1991年.md "wikilink")夏にソ連を訪れた[札幌大学](../Page/札幌大学.md "wikilink")の教授と偶然懇意になり、急遽日本に招かれる。卒業後の1991年11月に[姉妹都市](../Page/姉妹都市.md "wikilink")の交流プログラムの一員として来日する。[札幌で](https://ja.wikipedia.org/wiki/札幌市 "wikilink")3か月[ホームステイ](../Page/ホームステイ.md "wikilink")する間に数々のコンサートやテレビ出演を重ねていたところをスカウトされ、[1992年](../Page/1992年.md "wikilink")に札幌のインディーズ・レーベルからアルバムを発売している。
 
@@ -29,18 +29,18 @@
     1.  風の中のソリテア
     2.  あなたがいるから
   - [ポーリュシカ・ポーレ](https://ja.wikipedia.org/wiki/ポーリュシカ・ポーレ "wikilink")“Le Vent Vert”〜Le Temps Bleu〜
-      - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")発売（EMIミュージック・ジャパン）
+      - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")発売（EMIミュージック・ジャパン）
     <!-- end list -->
     1.  ポーリュシカ・ポーレ“Le Vent Vert”〜Le Temps Bleu〜
-          - テレビドラマ『[青の時代](https://ja.wikipedia.org/wiki/青の時代_\(テレビドラマ\) "wikilink")』オープニング主題歌
+          - テレビドラマ『[青の時代](../Page/青の時代_\(テレビドラマ\).md "wikilink")』オープニング主題歌
     2.  リリカ
   - 水のまどろみ
       - [2004年](../Page/2004年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")発売（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
     <!-- end list -->
     1.  水のまどろみ
           - テレビアニメ『[ファンタジックチルドレン](https://ja.wikipedia.org/wiki/ファンタジックチルドレン "wikilink")』エンディング主題歌
-          - 作詞：[濱田理恵](https://ja.wikipedia.org/wiki/濱田理恵 "wikilink")
-          - 作曲・編曲：[梁邦彦](https://ja.wikipedia.org/wiki/梁邦彦 "wikilink")
+          - 作詞：[濱田理恵](../Page/濱田理恵.md "wikilink")
+          - 作曲・編曲：[梁邦彦](../Page/梁邦彦.md "wikilink")
     2.  水のまどろみ（Russian Version）
     3.  水のまどろみ（TV Version）
     4.  水のまどろみ（Instrumental）
@@ -116,7 +116,7 @@
     9.  SERENATA
     10. QUESTE SARANNO
   - AURORA
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")発売（GEMMATIKA Records）
+      - [2005年](../Page/2005年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")発売（GEMMATIKA Records）
     <!-- end list -->
     1.  Aurora
     2.  Chance
@@ -171,11 +171,11 @@
 
 ### アニメ
 
-  - [アリーテ姫](https://ja.wikipedia.org/wiki/アリーテ姫 "wikilink") オリジナル・サウンドトラック
+  - [アリーテ姫](../Page/アリーテ姫.md "wikilink") オリジナル・サウンドトラック
       - 2001年7月11日発売（EMIミュージック・ジャパン）
           - クラスノ・ソンツェ
           - 魔女の指輪
-              - 劇場公開アニメ『[アリーテ姫](https://ja.wikipedia.org/wiki/アリーテ姫 "wikilink")』主題歌、他
+              - 劇場公開アニメ『[アリーテ姫](../Page/アリーテ姫.md "wikilink")』主題歌、他
 
 <!-- end list -->
 
@@ -192,7 +192,7 @@
               - 作詞：ORIGA / [Tim Jensen](https://ja.wikipedia.org/wiki/ティム・ジェンセン "wikilink")
               - 作曲・編曲：[菅野よう子](../Page/菅野よう子.md "wikilink")
   - コックリ島のひととき 〜ボラボラ様からの贈りもの〜
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月2日](../Page/3月2日.md "wikilink")発売（ビクターエンタテインメント）
+      - [2005年](../Page/2005年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")発売（ビクターエンタテインメント）
           - 浮遊夢
               - テレビアニメ『[ファンタジックチルドレン](https://ja.wikipedia.org/wiki/ファンタジックチルドレン "wikilink")』イメージソング
               - 作詞・作曲・編曲：ORIGA
@@ -242,10 +242,10 @@
   - [2+1](https://ja.wikipedia.org/wiki/2+1 "wikilink") - 日本でOrigaと共演したロシアの音楽ユニット。
   - [菅野よう子](../Page/菅野よう子.md "wikilink") - 数多くの楽曲を共作。菅野のコンサートにもたびたびゲスト参加した。
   - [浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink") - 所属事務所「[ロード&スカイ](https://ja.wikipedia.org/wiki/ロード&スカイ "wikilink")」の先輩。シングル「[我が心のマリア](https://ja.wikipedia.org/wiki/我が心のマリア "wikilink")」で共演。
-  - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink") - ライブ・メンバーとして参加。
+  - [SUGIZO](../Page/SUGIZO.md "wikilink") - ライブ・メンバーとして参加。
   - [告発〜国選弁護人](https://ja.wikipedia.org/wiki/告発〜国選弁護人 "wikilink") - メインテーマ曲のボーカルとして参加。
   - [KAGAYA](https://ja.wikipedia.org/wiki/KAGAYA "wikilink") - プラネタリウム番組などを手がける映像作家、画家。Origaはたびたび挿入歌を担当した。
-  - [姫神](../Page/姫神.md "wikilink") - 姫神が作曲した楽曲の[フィーチャリング](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")として共演。
+  - [姫神](../Page/姫神.md "wikilink") - 姫神が作曲した楽曲の[フィーチャリング](../Page/フィーチャリング.md "wikilink")として共演。
 
 ## 外部リンク
 

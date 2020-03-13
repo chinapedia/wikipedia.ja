@@ -1,7 +1,7 @@
 > この記事は[AOL](https://ja.wikipedia.org/wiki/AOL)から翻訳されています。
 
 
-|略称= |国籍= |本社郵便番号= |本社所在地=[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")市 |本店郵便番号= |本店所在地= |設立= |業種=情報・通信業 |統一金融機関コード= |SWIFTコード= |事業内容= |代表者=[ティム・アームストロング](https://ja.wikipedia.org/wiki/:en:Tim_Armstrong_\(executive\) "wikilink") ([CEO兼](../Page/最高経営責任者.md "wikilink")[会長](../Page/会長.md "wikilink")) |資本金= |発行済株式総数= |売上高= |営業利益= |純利益= |純資産= |総資産= |従業員数= |決算期= |主要株主= |主要子会社= |関係する人物= |外部リンク=[www.aol.com](https://www.aol.com/) |特記事項= }} **AOL**（エーオーエル）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の大手[インターネット](../Page/インターネット.md "wikilink")サービス会社、あるいは同社がアメリカを中心に世界各国で提供する[インターネット接続サービス](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")・[ポータルサイト](../Page/ポータルサイト.md "wikilink")の名称である。2017年6月、[ベライゾンが買収した](../Page/ベライゾン・コミュニケーションズ.md "wikilink")[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")と統合し新たに[Oath](https://ja.wikipedia.org/wiki/Oath "wikilink")となった\[1\]。
+|略称= |国籍= |本社郵便番号= |本社所在地=[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")市 |本店郵便番号= |本店所在地= |設立= |業種=情報・通信業 |統一金融機関コード= |SWIFTコード= |事業内容= |代表者=[ティム・アームストロング](https://ja.wikipedia.org/wiki/:en:Tim_Armstrong_\(executive\) "wikilink") ([CEO兼](../Page/最高経営責任者.md "wikilink")[会長](../Page/会長.md "wikilink")) |資本金= |発行済株式総数= |売上高= |営業利益= |純利益= |純資産= |総資産= |従業員数= |決算期= |主要株主= |主要子会社= |関係する人物= |外部リンク=[www.aol.com](https://www.aol.com/) |特記事項= }} **AOL**（エーオーエル）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の大手[インターネット](../Page/インターネット.md "wikilink")サービス会社、あるいは同社がアメリカを中心に世界各国で提供する[インターネット接続サービス](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")・[ポータルサイト](../Page/ポータルサイト.md "wikilink")の名称である。2017年6月、[ベライゾンが買収した](../Page/ベライゾン・コミュニケーションズ.md "wikilink")[Yahoo\!](../Page/Yahoo!.md "wikilink")と統合し新たに[Oath](https://ja.wikipedia.org/wiki/Oath "wikilink")となった\[1\]。
 
 ## 概要
 
@@ -11,11 +11,11 @@
 
 接続ソフト「AOL Dialer（日本ではAOL接続ソフトとして提供）」と[AOL Instant Messengerを提供しており](../Page/AOL_Instant_Messenger.md "wikilink")、**スクリーンネーム**と呼ばれる、任意で決められるユーザー名を使用してAOL独自のコンテンツを使用したり、AOL会員同士とのコミュニケーションなどができる。
 
-1997年9月に[CompuServe](../Page/CompuServe.md "wikilink")を\[2\]、1998年に[ネットスケープコミュニケーションズ](../Page/ネットスケープコミュニケーションズ.md "wikilink")を買収\[3\]。また、2000年に[タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")（[タイム (雑誌)](https://ja.wikipedia.org/wiki/タイム_\(雑誌\) "wikilink")・[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")・[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")等を傘下に持つ）を買収し、世界最大の[複合企業体になった](../Page/コングロマリット.md "wikilink")。しかし[ITバブル](https://ja.wikipedia.org/wiki/ITバブル "wikilink")崩壊によってAOL単体での業績が悪化すると同グループ内での影響力を失い、2002年以降は[タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")の一部門として位置づけられるようになった。「世紀の結婚」などと言われたタイム・ワーナーとの合併であったが、新興勢力の台頭の中で業績は伸び悩み、2009年12月9日にタイム・ワーナーと正式に合併を解消、独立企業として再出発した\[4\]。
+1997年9月に[CompuServe](../Page/CompuServe.md "wikilink")を\[2\]、1998年に[ネットスケープコミュニケーションズ](../Page/ネットスケープコミュニケーションズ.md "wikilink")を買収\[3\]。また、2000年に[タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")（[タイム (雑誌)](../Page/タイム_\(雑誌\).md "wikilink")・[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")・[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")等を傘下に持つ）を買収し、世界最大の[複合企業体になった](../Page/コングロマリット.md "wikilink")。しかし[ITバブル](https://ja.wikipedia.org/wiki/ITバブル "wikilink")崩壊によってAOL単体での業績が悪化すると同グループ内での影響力を失い、2002年以降は[タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")の一部門として位置づけられるようになった。「世紀の結婚」などと言われたタイム・ワーナーとの合併であったが、新興勢力の台頭の中で業績は伸び悩み、2009年12月9日にタイム・ワーナーと正式に合併を解消、独立企業として再出発した\[4\]。
 
 ## 日本での事業
 
-1997年から日本で[ISP事業を開始](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")\[5\]。2006年時点、日本の顧客数は推定40万人（非公開）。 当時、「オンラインサインアップ」・「AOL接続ソフト」などが収録された[CD-ROM](../Page/CD-ROM.md "wikilink")を頒布、あるいは[パソコン雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")の付録CD-ROMに収載する方法で会員を増やした。
+1997年から日本で[ISP事業を開始](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")\[5\]。2006年時点、日本の顧客数は推定40万人（非公開）。 当時、「オンラインサインアップ」・「AOL接続ソフト」などが収録された[CD-ROM](../Page/CD-ROM.md "wikilink")を頒布、あるいは[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")の付録CD-ROMに収載する方法で会員を増やした。
 
 2001年には最大手の携帯電話会社である[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が資本参画し、「[DoCoMo AOL](../Page/ドコモ・エーオーエル.md "wikilink")」となるが、2年半後に提携解消し、DoCoMo AOLは2004年7月に[ADSL](../Page/ADSL.md "wikilink")回線の[電気通信事業](../Page/電気通信事業.md "wikilink")者である[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")（現・[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）に買収され、日本におけるAOL事業はイー・アクセスに譲渡された。 その後、メールサービスなどのコンテンツ部門・AOLジャパンのサイトの運営をAOL ASIAへ移行し、イー・アクセスは接続事業者としてAOL契約のアクセスラインのみ提供する形となった。
 
@@ -26,7 +26,7 @@
   - 1996年 - [三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")、[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")、America Online, Inc.により日本法人**AOLジャパン株式会社**を設立。
   - 1997年4月15日 - 日本におけるAOL 日本語版サービスを開始。
   - 2001年2月 - [NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")が資本参加し、**[株式会社ドコモ・エーオーエル](../Page/ドコモ・エーオーエル.md "wikilink")**に社名変更。
-  - 2001年6月 - NTTドコモの[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")サービスと提携する、AOLi（[Webメール](https://ja.wikipedia.org/wiki/Webメール "wikilink")サービス）を開始。
+  - 2001年6月 - NTTドコモの[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")サービスと提携する、AOLi（[Webメール](../Page/Webメール.md "wikilink")サービス）を開始。
   - 2003年12月 - NTTドコモが資本撤退。米AOLの100%子会社化に伴い再び**AOLジャパン**に社名を戻す。
   - 2004年7月 - [イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")株式会社（現・[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")株式会社）に営業譲渡。
   - 2004年8月 - AOLiサービス終了

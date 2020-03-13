@@ -73,7 +73,7 @@ L&=\\begin{pmatrix}1&0\\\\\\frac{a_{21}}{a_{11}}&1\\end{pmatrix}\\\\ U&=\\begin{
     下三角行列 *L* と[対角行列](../Page/対角行列.md "wikilink") *D* と上三角行列 *U* の積に分解する。
     \[A = LDU\]
   - LUP 分解
-    下三角行列 *L* と上三角行列 *U* と[置換行列](https://ja.wikipedia.org/wiki/置換行列 "wikilink") *P* の積に分解する。
+    下三角行列 *L* と上三角行列 *U* と[置換行列](../Page/置換行列.md "wikilink") *P* の積に分解する。
     \[PA = LU\]
 
 ## 脚注

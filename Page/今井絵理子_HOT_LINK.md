@@ -7,7 +7,7 @@
 
 放送時間はTBSラジオのみ月曜深夜（火曜午前）0:00 - 1:00（2002年5月から最終回までは、5分番組「[セインカミュ・RAIJIN Junk English](../Page/RAIJIN_COMICS.md "wikilink")」放送のため、0:00 - 0:55までに短縮）で、ネットしていたJRN系列のラジオ局では同じ月曜深夜（火曜午前）3:00 - 4:00（こちらも2002年5月から最終回までは上記番組のため、3:05 - 4:00までに短縮）。
 
-2000年10月2日に「**[Be@t B@by\!\!](https://ja.wikipedia.org/wiki/Be@t_B@by!! "wikilink") 今井絵理子 HOT LINK**（ビートベイビー いまいえりこ ホットリンク）」として放送スタート。この番組が彼女の初のソロレギュラーでのラジオ番組となった。2002年4月にBe@t B@by\!\!枠が[Junk枠に変更されたため](../Page/JUNK.md "wikilink")、「**月曜Junk 今井絵理子 HOT LINK**（げつようジャンク いまいえりこ ホットリンク）」へタイトルを改めた。2003年3月24日の放送をもって終了。130回目の放送だった。
+2000年10月2日に「**[Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink") 今井絵理子 HOT LINK**（ビートベイビー いまいえりこ ホットリンク）」として放送スタート。この番組が彼女の初のソロレギュラーでのラジオ番組となった。2002年4月にBe@t B@by\!\!枠が[Junk枠に変更されたため](../Page/JUNK.md "wikilink")、「**月曜Junk 今井絵理子 HOT LINK**（げつようジャンク いまいえりこ ホットリンク）」へタイトルを改めた。2003年3月24日の放送をもって終了。130回目の放送だった。
 
 番組開始当初はEriko with CrunchのCrunch（クランチ）のメンバーを迎えての企画もあった。
 
@@ -71,7 +71,7 @@
   - [上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink")
   - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")
   - [MAKOTO](https://ja.wikipedia.org/wiki/MAKOTO "wikilink")
-  - [RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")
+  - [RIZE](../Page/RIZE.md "wikilink")
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")
   - [坂本昌行](../Page/坂本昌行.md "wikilink")
   - [知念里奈](https://ja.wikipedia.org/wiki/知念里奈 "wikilink")

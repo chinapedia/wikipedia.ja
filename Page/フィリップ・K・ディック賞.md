@@ -42,7 +42,7 @@
 <td><p>『アヌビスの門』<em>The Anubis Gates</em></p></td>
 <td><p><a href="../Page/ティム・パワーズ.md" title="wikilink">ティム・パワーズ</a></p></td>
 <td><p>『黒龍とお茶を』<em>Tea with the Black Dragon</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/R・A・マカヴォイ" title="wikilink">R・A・マカヴォイ</a></p></td>
+<td><p><a href="../Page/R・A・マカヴォイ.md" title="wikilink">R・A・マカヴォイ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1984年</p></td>
@@ -96,7 +96,7 @@
 <tr class="even">
 <td><p>1990年</p></td>
 <td><p><em>Points of Departure</em></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/パット・マーフィー" title="wikilink">パット・マーフィー</a></p></td>
+<td><p><a href="../Page/パット・マーフィー.md" title="wikilink">パット・マーフィー</a></p></td>
 <td><p><em>The Schizogenic Man</em></p></td>
 <td></td>
 </tr>

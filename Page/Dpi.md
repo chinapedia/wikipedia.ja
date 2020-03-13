@@ -29,7 +29,7 @@
 
   - [lpi](https://ja.wikipedia.org/wiki/lpi "wikilink") (lines per inch)
   - [ppi](https://ja.wikipedia.org/wiki/ppi "wikilink") (pixels per inch)
-  - [解像度](https://ja.wikipedia.org/wiki/解像度 "wikilink")
+  - [解像度](../Page/解像度.md "wikilink")
   - [分解能](../Page/分解能.md "wikilink")
   - [スクリーン線数](../Page/スクリーン線数.md "wikilink")
 

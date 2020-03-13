@@ -16,9 +16,9 @@
 
 ## 概要
 
-放送時間はTBSラジオのみ[火曜](../Page/火曜日.md "wikilink")24:00 - 25:00（[2002年](../Page/2002年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")までは5分の[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")「[セインのRAIJIN Junk English](https://ja.wikipedia.org/wiki/RAIJIN_COMICS#ラジオ番組 "wikilink")」が内包されていた関係で、24:00 - 24:55までに短縮された）で、ネットしていたJRN系列のラジオ局では同じ火曜27:00 - 28:00（こちらも2002年5月14日から2003年3月18日までは上記番組が内包された関係で27:05 - 28:00までに短縮された）。
+放送時間はTBSラジオのみ[火曜](../Page/火曜日.md "wikilink")24:00 - 25:00（[2002年](../Page/2002年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")までは5分の[ミニ番組](../Page/ミニ番組.md "wikilink")「[セインのRAIJIN Junk English](https://ja.wikipedia.org/wiki/RAIJIN_COMICS#ラジオ番組 "wikilink")」が内包されていた関係で、24:00 - 24:55までに短縮された）で、ネットしていたJRN系列のラジオ局では同じ火曜27:00 - 28:00（こちらも2002年5月14日から2003年3月18日までは上記番組が内包された関係で27:05 - 28:00までに短縮された）。
 
-2000年10月3日に『**[Be@t B@by\!\!](https://ja.wikipedia.org/wiki/Be@t_B@by!! "wikilink") タンポポ編集部 OH-SO-RO\!**』として放送スタート。2002年4月にBe@t B@by\!\!枠が[Junk枠に変更されたため](../Page/JUNK.md "wikilink")、『**火曜Junk タンポポ編集部 OH-SO-RO\!**』へタイトルを改めた。
+2000年10月3日に『**[Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink") タンポポ編集部 OH-SO-RO\!**』として放送スタート。2002年4月にBe@t B@by\!\!枠が[Junk枠に変更されたため](../Page/JUNK.md "wikilink")、『**火曜Junk タンポポ編集部 OH-SO-RO\!**』へタイトルを改めた。
 
 タイトルは、10代の若者の、共通のファッション、流行、悩み、喜びを皆で分かち合う「おそろい」の番組にしようと考え、番組ディレクターの[オフサイド大西](../Page/オフサイド大西.md "wikilink")が名付けた。
 

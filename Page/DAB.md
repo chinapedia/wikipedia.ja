@@ -7,7 +7,7 @@
 
 [EUREKA](../Page/EUREKA.md "wikilink")が[ヨーロッパ連合のために開発した](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")（Project number EU147）。1987年から2000年の期間開発が行われ、主な部分は1980年代に開発された。550以上のサービスにより、2.85億人以上が受信可能地域にいる。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で最初に本格放送が始まった。2001年時点で50の民放、[英国放送協会](../Page/英国放送協会.md "wikilink")（BBC）がロンドンで受信できた。現在、DABフォーラムには30ヶ国が参加している。中でも[ノルウェー](../Page/ノルウェー.md "wikilink")は国内の地形特性の影響と対経費を勘案し、2017年末までにFMラジオ放送を廃止し世界初のDABへの完全移行を完了した\[1\]。
 
-[デジタル変調](../Page/デジタル変調.md "wikilink")は[OFDMで圧縮方式は](https://ja.wikipedia.org/wiki/直交周波数分割多重方式 "wikilink")[MPEG Audio Layer 2である](https://ja.wikipedia.org/wiki/MP3#MPEG-1/2_Audio_Layer-2 "wikilink")。
+[デジタル変調](../Page/デジタル変調.md "wikilink")は[OFDMで圧縮方式は](../Page/直交周波数分割多重方式.md "wikilink")[MPEG Audio Layer 2である](https://ja.wikipedia.org/wiki/MP3#MPEG-1/2_Audio_Layer-2 "wikilink")。
 
 従来のラジオでは自動車などの移動中に送信所のエリアから外れた場合周波数を手作業で変更していたが、DABでは自動で行われる。また文字放送\[2\]によって曲名や交通情報などの情報が得られる。さらにマルチチャンネル、[HTMLデータ](../Page/HyperText_Markup_Language.md "wikilink")、電子番組表などのサービスも行われる。
 

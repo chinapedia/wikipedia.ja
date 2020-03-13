@@ -1,7 +1,7 @@
 > この記事は[ON THE WAY COMEDY ](https://ja.wikipedia.org/wiki/ON_THE_WAY_COMEDY_)から翻訳されています。
 
 
-『**ON THE WAY COMEDY 道草**』（オン・ザ・ウェイ・コメディ・みちくさ）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに月曜から木曜の夕方に](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JFN系列各局で放送されていた](../Page/全国FM放送協議会.md "wikilink")[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")である。[2001年](../Page/2001年.md "wikilink")10月スタート。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月27日終了。
+『**ON THE WAY COMEDY 道草**』（オン・ザ・ウェイ・コメディ・みちくさ）は、[TOKYO FMを](../Page/エフエム東京.md "wikilink")[キーステーションに月曜から木曜の夕方に](https://ja.wikipedia.org/wiki/キー局 "wikilink")[JFN系列各局で放送されていた](../Page/全国FM放送協議会.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")である。[2001年](../Page/2001年.md "wikilink")10月スタート。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月27日終了。
 
 放送開始当初は37局ネットであったが、[2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")より[Kiss-FM KOBEでもネットを開始](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")、38局[フルネット](https://ja.wikipedia.org/wiki/フルネット "wikilink")となった。
 
@@ -11,7 +11,7 @@
 
 放送時間は[系列局](https://ja.wikipedia.org/wiki/系列局 "wikilink")によって異なっていた。
 
-祝日、年末年始でも休まず放送されるが、特別編成（ホリデースペシャルや[FMフェスティバル](https://ja.wikipedia.org/wiki/FMフェスティバル "wikilink")放送時）などで時間が変更になるケースがあった\[1\]。
+祝日、年末年始でも休まず放送されるが、特別編成（ホリデースペシャルや[FMフェスティバル](../Page/FMフェスティバル.md "wikilink")放送時）などで時間が変更になるケースがあった\[1\]。
 
 毎年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")はJFN系列フルネットで15:00 - 18:00まで「FMフェスティバル」が放送されるため、放送時間が変更された\[2\]。また、[12月31日](../Page/12月31日.md "wikilink")や[1月1日](../Page/1月1日.md "wikilink")の放送時間が変更になる局もあった\[3\]。
 
@@ -41,7 +41,7 @@
 
 ## ラジオドラマについて
 
-話中に登場するキャラクターには、[履歴書](https://ja.wikipedia.org/wiki/履歴書 "wikilink")なみに細かに設定がされており、キャラクターページにおいてそれを見ることができた。また、演じる役者（ゲスト）は[俳優](../Page/俳優.md "wikilink")のみにとどまらず、[歌手](../Page/歌手.md "wikilink")や[声優](../Page/声優.md "wikilink")など多彩。工藤道絵がつくるクレイアートもイメージを膨らませるのに一役買った。
+話中に登場するキャラクターには、[履歴書](../Page/履歴書.md "wikilink")なみに細かに設定がされており、キャラクターページにおいてそれを見ることができた。また、演じる役者（ゲスト）は[俳優](../Page/俳優.md "wikilink")のみにとどまらず、[歌手](../Page/歌手.md "wikilink")や[声優](../Page/声優.md "wikilink")など多彩。工藤道絵がつくるクレイアートもイメージを膨らませるのに一役買った。
 
 舞台は、タイトルが示すように路上（基本的に車中）である。
 
@@ -59,7 +59,7 @@
 
   - 2006年7月3日の放送から、オープニング[テーマ曲](https://ja.wikipedia.org/wiki/テーマ曲 "wikilink")が変わった（[服部隆之](../Page/服部隆之.md "wikilink")作曲）。
   - [モバHO\!](../Page/モバHO!.md "wikilink")ではアニメ版も放送されていた。
-  - 毎年9月には「道草○周年ファン感謝月間」（○には数字が入る）と題して、過去にオンエアされた作品5作品を5週にわたって[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")していた。再放送される5作品は、[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")による投票で決められる。投票は8月下旬に道草公式サイトで行なわれ、再放送は5位から順に行なわれていた。
+  - 毎年9月には「道草○周年ファン感謝月間」（○には数字が入る）と題して、過去にオンエアされた作品5作品を5週にわたって[再放送](../Page/再放送.md "wikilink")していた。再放送される5作品は、[リスナー](../Page/リスナー.md "wikilink")による投票で決められる。投票は8月下旬に道草公式サイトで行なわれ、再放送は5位から順に行なわれていた。
 
 ## 各話タイトル
 
@@ -80,7 +80,7 @@
 
   - ドラマ前口上 出演：[マキタスポーツ](../Page/マキタスポーツ.md "wikilink")、[加賀美幸子](../Page/加賀美幸子.md "wikilink")（声の出演）
   - 「さよなら不思議ちゃん」（2017年12月9日放送）出演：[門脇麦](https://ja.wikipedia.org/wiki/門脇麦 "wikilink")、[皆川猿時](../Page/皆川猿時.md "wikilink")
-  - 「バンパイアはつらいよ」（2017年12月9日放送）出演：[鹿賀丈史](../Page/鹿賀丈史.md "wikilink")、[荒川良々](https://ja.wikipedia.org/wiki/荒川良々 "wikilink")
+  - 「バンパイアはつらいよ」（2017年12月9日放送）出演：[鹿賀丈史](../Page/鹿賀丈史.md "wikilink")、[荒川良々](../Page/荒川良々.md "wikilink")
   - 「平田家の人々」（2017年12月16日放送）出演：[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")、[石田ひかり](../Page/石田ひかり.md "wikilink")、[蒔田彩珠](https://ja.wikipedia.org/wiki/蒔田彩珠 "wikilink")、[遠藤史人](https://ja.wikipedia.org/wiki/遠藤史人 "wikilink")
   - 「棒がいっぽん」（2018年5月12日放送）出演：[賀来賢人](../Page/賀来賢人.md "wikilink")、[市川実日子](https://ja.wikipedia.org/wiki/市川実日子 "wikilink")
   - 「富田さんの鍋」（2018年5月12日放送）出演：賀来賢人、市川実日子

@@ -402,7 +402,7 @@
 </tr>
 <tr class="odd">
 <td><p>縁は異なもの</p></td>
-<td><p>NHK教育「<a href="https://ja.wikipedia.org/wiki/課外授業_ようこそ先輩" title="wikilink">課外授業 ようこそ先輩</a>」主題歌</p></td>
+<td><p>NHK教育「<a href="../Page/課外授業_ようこそ先輩.md" title="wikilink">課外授業 ようこそ先輩</a>」主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p>片想いのオレンジ</p></td>
@@ -415,7 +415,7 @@
 </tr>
 <tr class="even">
 <td><p>ふたつの夢</p></td>
-<td><p>ANB系「<a href="https://ja.wikipedia.org/wiki/目撃!ドキュン" title="wikilink">目撃!ドキュン</a>」エンディングテーマ</p></td>
+<td><p>ANB系「<a href="../Page/目撃!ドキュン.md" title="wikilink">目撃!ドキュン</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>おはようの風景</p></td>

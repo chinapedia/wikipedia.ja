@@ -7,13 +7,13 @@
 
 放送時間は毎週金曜日の13:30（2006年3月までは13:00） - 15:55。
 
-[2003年](../Page/2003年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")にスタート。パーソナリティーは[斉藤リョーツ](https://ja.wikipedia.org/wiki/斉藤リョーツ "wikilink")と[藤井悠](https://ja.wikipedia.org/wiki/藤井悠 "wikilink")。
+[2003年](../Page/2003年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")にスタート。パーソナリティーは[斉藤リョーツ](https://ja.wikipedia.org/wiki/斉藤リョーツ "wikilink")と[藤井悠](../Page/藤井悠.md "wikilink")。
 
 前番組は「[ヒルサイド・アヴェニュー フライデー・スペシャル](https://ja.wikipedia.org/wiki/ヒルサイド・アヴェニュー#ヒルサイド・アヴェニュー_フライデー・スペシャル "wikilink")」。この時間帯は自社製作番組を放送しているJFN系列局が多く、ネット局は少ない。そのため、初期は斉藤がこれを逆手にとり、「**日本全国のところどころをネットしてお送りします**」と発言していた。
 
 テーマ曲は[LITTLE TEMPO](../Page/LITTLE_TEMPO.md "wikilink")「MUSICAL BRAIN FOOD」。
 
-[TOKYO FMではこの時間](../Page/エフエム東京.md "wikilink")、「[よんぱち 48hours 〜WEEKEND MEISTER〜](https://ja.wikipedia.org/wiki/よんぱち_48hours_〜WEEKEND_MEISTER〜 "wikilink")」を放送している。
+[TOKYO FMではこの時間](../Page/エフエム東京.md "wikilink")、「[よんぱち 48hours 〜WEEKEND MEISTER〜](../Page/よんぱち_48hours_〜WEEKEND_MEISTER〜.md "wikilink")」を放送している。
 
 ## ネット局
 
@@ -190,10 +190,10 @@
   - 14:21 ゲストコーナー
   - 14:40 クイズ240
   - 14:49 メッセージ紹介、リクエスト
-  - 14:55 [MY OLYMPIC α](https://ja.wikipedia.org/wiki/MY_OLYMPIC "wikilink")（JFN全国ネット番組、一部局は除く）
+  - 14:55 [MY OLYMPIC α](../Page/MY_OLYMPIC.md "wikilink")（JFN全国ネット番組、一部局は除く）
   - 15:00 15時台オープニング、おとなのいただき情報 または ALOHA HOT LINE
       -
-        【「ALOHA HOT LINE」はハワイのラジオ局「[KZOO](https://ja.wikipedia.org/wiki/KZOO "wikilink")」のスタジオと中継を繋ぎ、同局のアナウンサーである[小椋カリーン弘恵](https://ja.wikipedia.org/wiki/小椋カリーン弘恵 "wikilink")\[15\]\[16\]にハワイの話題を伝えてもらう】
+        【「ALOHA HOT LINE」はハワイのラジオ局「[KZOO](../Page/KZOO.md "wikilink")」のスタジオと中継を繋ぎ、同局のアナウンサーである[小椋カリーン弘恵](https://ja.wikipedia.org/wiki/小椋カリーン弘恵 "wikilink")\[15\]\[16\]にハワイの話題を伝えてもらう】
   - 15:11 メッセージ紹介、リクエスト
   - 15:20 音楽ランキング
       -

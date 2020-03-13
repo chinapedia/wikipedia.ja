@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")(同年8月9日説もある)\[1\]。に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用として[移植された](https://ja.wikipedia.org/wiki/移植_\(ソフトウェア\) "wikilink")。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")(同年8月9日説もある)\[1\]。に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用として[移植された](../Page/移植_\(ソフトウェア\).md "wikilink")。
 
 その他、[PC-8801などの](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")版に[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")版などがリリースされ、また、[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")『ジャレココレクションVol.1』（[2003年](../Page/2003年.md "wikilink")）にファミリーコンピュータ版の移植が収録された他、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用『じゃじゃ丸Jr.伝承記〜ジャレコレもあり候〜』（[2004年](../Page/2004年.md "wikilink")）にも収録されている。
 
@@ -205,7 +205,7 @@
 
 ## 関連項目
 
-  - [ゲーム天国](https://ja.wikipedia.org/wiki/ゲーム天国 "wikilink")
+  - [ゲーム天国](../Page/ゲーム天国.md "wikilink")
 
 ## 外部リンク
 

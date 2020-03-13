@@ -1,13 +1,13 @@
 > この記事は[Train Simulator+GO! ](https://ja.wikipedia.org/wiki/Train_Simulator+GO!_)から翻訳されています。
 
 
-『**Train Simulator+電車でGO\! 東京急行編**』（トレインシミュレータプラスでんしゃでゴー とうきょうきゅうこうへん）は[2003年](../Page/2003年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[音楽館](https://ja.wikipedia.org/wiki/音楽館 "wikilink")から発売された、[PlayStation 2用電車運転ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。総合プロデューサーは[向谷実](../Page/向谷実.md "wikilink")。
+『**Train Simulator+電車でGO\! 東京急行編**』（トレインシミュレータプラスでんしゃでゴー とうきょうきゅうこうへん）は[2003年](../Page/2003年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[音楽館](../Page/音楽館.md "wikilink")から発売された、[PlayStation 2用電車運転ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。総合プロデューサーは[向谷実](../Page/向谷実.md "wikilink")。
 
 ## 作品紹介
 
-常にリアルさを追求し続ける[音楽館](https://ja.wikipedia.org/wiki/音楽館 "wikilink")の「[Train Simulator](https://ja.wikipedia.org/wiki/Train_Simulator_\(音楽館\) "wikilink")」と、電車の運転に[エンタテインメント](https://ja.wikipedia.org/wiki/エンタテインメント "wikilink")性を取り入れた[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の「[電車でGO\!](../Page/電車でGO!.md "wikilink")」という2大鉄道ゲームのコラボレーションという、鉄道ゲーム初の試みが行われた作品。 「電車でGO\!モード」では「Train Simulator」の実写映像に、これまでの「電車でGO\!」のゲーム画面（持ち時間、ナビゲーターなど）を併せたもので、「Train Simulator」のリアルさと「電車でGO\!」のゲーム性が一体化したモードと言える。ただし、ゲームを進めていくうえでメインとなる「試験」は「Train Simulator」モードで行われる。 また、「電車でGO\!」のキャラクター「鉄ちゃん」も大幅なイメージチェンジをして登場。ただし、この作品以降、一貫して発売元にタイトーの名前が入っているものの、TSシリーズ中で鉄ちゃんが登場するのはこの作品のみである。
+常にリアルさを追求し続ける[音楽館](../Page/音楽館.md "wikilink")の「[Train Simulator](../Page/Train_Simulator_\(音楽館\).md "wikilink")」と、電車の運転に[エンタテインメント](https://ja.wikipedia.org/wiki/エンタテインメント "wikilink")性を取り入れた[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の「[電車でGO\!](../Page/電車でGO!.md "wikilink")」という2大鉄道ゲームのコラボレーションという、鉄道ゲーム初の試みが行われた作品。 「電車でGO\!モード」では「Train Simulator」の実写映像に、これまでの「電車でGO\!」のゲーム画面（持ち時間、ナビゲーターなど）を併せたもので、「Train Simulator」のリアルさと「電車でGO\!」のゲーム性が一体化したモードと言える。ただし、ゲームを進めていくうえでメインとなる「試験」は「Train Simulator」モードで行われる。 また、「電車でGO\!」のキャラクター「鉄ちゃん」も大幅なイメージチェンジをして登場。ただし、この作品以降、一貫して発売元にタイトーの名前が入っているものの、TSシリーズ中で鉄ちゃんが登場するのはこの作品のみである。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月17日](../Page/2月17日.md "wikilink")（当初[1月27日](../Page/1月27日.md "wikilink")発売予定だったが延期された）には[PSP版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")「**Mobile Train Simulator+電車でGO\! 東京急行編**」も発売。紹介ビデオでは[エスパー伊東](https://ja.wikipedia.org/wiki/エスパー伊東 "wikilink")が登場した。
+[2005年](../Page/2005年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")（当初[1月27日](../Page/1月27日.md "wikilink")発売予定だったが延期された）には[PSP版](../Page/PlayStation_Portable.md "wikilink")「**Mobile Train Simulator+電車でGO\! 東京急行編**」も発売。紹介ビデオでは[エスパー伊東](https://ja.wikipedia.org/wiki/エスパー伊東 "wikilink")が登場した。
 
 [2006年](../Page/2006年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")には、PS2版の廉価版「**Train Simulator+電車でGO\! 東京急行編 音楽館ポケットブックス**」が発売されている。
 
@@ -34,7 +34,7 @@ PlayStation 2版に[CEROレーティング表示はない](https://ja.wikipedia.
 
 #### 田園都市線
 
-  - [5000系](https://ja.wikipedia.org/wiki/東急5000系電車_\(2代\) "wikilink")
+  - [5000系](../Page/東急5000系電車_\(2代\).md "wikilink")
       -
         PS2版発売当時の最新鋭車両。
         加速性能とブレーキ応答性に優れるが、力行からノッチオフとした際のタイムラグが大きいのが難点。
@@ -63,7 +63,7 @@ PlayStation 2版に[CEROレーティング表示はない](https://ja.wikipedia.
       -
         界磁チョッパ制御やワンハンドルマスコンなど、新機軸を多数導入した車両。
         空気ブレーキの効きがかなり強いが、応答性がやや悪め。加速性能は概ね平均的だが、高速域では伸び悩む。
-  - [5050系](https://ja.wikipedia.org/wiki/東急5000系電車_\(2代\) "wikilink")（PSP版のみ）
+  - [5050系](../Page/東急5000系電車_\(2代\).md "wikilink")（PSP版のみ）
       -
         PSP版のみに登場する東横線の最新鋭車両。5000系にあったノッチオフのラグは少なくなり、加速、減速、応答性の全ての面において高い性能を持つ。
         本作では桜木町～横浜間を走行するが、実車が営業運転を開始したのは[みなとみらい線開業後である](https://ja.wikipedia.org/wiki/横浜高速鉄道みなとみらい線 "wikilink")。

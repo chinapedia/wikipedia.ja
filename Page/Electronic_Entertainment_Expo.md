@@ -7,15 +7,15 @@
 
 米国の業界団体[Entertainment Software Association](https://ja.wikipedia.org/wiki/Entertainment_Software_Association "wikilink")（ESA）の主催で毎年5月中旬から6月初めの間の数日間に開かれており、[ロサンゼルス・コンベンションセンター](https://ja.wikipedia.org/wiki/ロサンゼルス・コンベンションセンター "wikilink")を会場として1週間近くに渡って行われる。流通向けの見本市という位置付けから入場できるのは業界関係者、即ち流通・ゲーム制作及び報道関係者に限られる。1997・1998年のみ[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")の[Georgia World Congress Centerで行われた](https://ja.wikipedia.org/wiki/:en:Georgia_World_Congress_Center "wikilink")。
 
-[ファミコン](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")[ブームに始まった](https://ja.wikipedia.org/wiki/流行 "wikilink")[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")市場が[SCEIのプラットフォーム参入を経て一大産業として確立してきた](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に当時のInteractive Digital Software Association（ESAの前身）が第1回を開催して以来、主にテレビゲーム分野の商品がターゲットとなっている。しかし近年ではコンピューターゲームの進歩とジャンル間のボーダーレス化により、[PCゲームを含む視聴覚上のコンピューターゲーム全般が対象に含まれようとしている](../Page/パソコンゲーム.md "wikilink")。
+[ファミコン](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")[ブームに始まった](../Page/流行.md "wikilink")[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")市場が[SCEIのプラットフォーム参入を経て一大産業として確立してきた](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に当時のInteractive Digital Software Association（ESAの前身）が第1回を開催して以来、主にテレビゲーム分野の商品がターゲットとなっている。しかし近年ではコンピューターゲームの進歩とジャンル間のボーダーレス化により、[PCゲームを含む視聴覚上のコンピューターゲーム全般が対象に含まれようとしている](../Page/パソコンゲーム.md "wikilink")。
 
-本来は米国内における[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")シーズンにかけての商材を流通側が検討するための展示会に過ぎないが、実質的には全世界のコンピューターゲーム娯楽市場の動向を占うものとなっている。そのためE3における新作ゲームの発表と出展については、今後の市場影響力を左右するものとして各ゲームメーカーとも大変に重要視している。E3での話題性を狙い綿密な戦略を練る結果として、E3には各社から重大な発表や人気の高い新作がぶつけられてくることが多い。全世界のゲーム制作者やゲームファンもそれらのことを承知していて、E3の展示や報道に対しては多大な関心と注目が寄せられている。
+本来は米国内における[クリスマス](../Page/クリスマス.md "wikilink")シーズンにかけての商材を流通側が検討するための展示会に過ぎないが、実質的には全世界のコンピューターゲーム娯楽市場の動向を占うものとなっている。そのためE3における新作ゲームの発表と出展については、今後の市場影響力を左右するものとして各ゲームメーカーとも大変に重要視している。E3での話題性を狙い綿密な戦略を練る結果として、E3には各社から重大な発表や人気の高い新作がぶつけられてくることが多い。全世界のゲーム制作者やゲームファンもそれらのことを承知していて、E3の展示や報道に対しては多大な関心と注目が寄せられている。
 
-[2007年](../Page/2007年.md "wikilink")は、大規模な出展によるコストの増加やメーカーが個別に開催するイベントが増えたなどの理由で規模を大幅に縮小し、完全招待制の業界関係者のみによるイベントとなった。名称も「E3 Media and Business Summit」と変更し、場所も[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンタモニカ](https://ja.wikipedia.org/wiki/サンタモニカ "wikilink")に移して開催された。「The 2008 E3 Media & Business Summit」では再び開催場所をLACCに戻して、2008年7月15日から17日にかけて開催された。
+[2007年](../Page/2007年.md "wikilink")は、大規模な出展によるコストの増加やメーカーが個別に開催するイベントが増えたなどの理由で規模を大幅に縮小し、完全招待制の業界関係者のみによるイベントとなった。名称も「E3 Media and Business Summit」と変更し、場所も[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンタモニカ](../Page/サンタモニカ.md "wikilink")に移して開催された。「The 2008 E3 Media & Business Summit」では再び開催場所をLACCに戻して、2008年7月15日から17日にかけて開催された。
 
 しかし、この極端な規模縮小は、「E3の地位を大幅に下げることになり、注目されなくなることから開催する意味がなくなる」という批判が集まったため\[1\]、[2009年](../Page/2009年.md "wikilink")以降は、縮小前に相当する規模に戻して開催されている。。
 
-日本の[任天堂](../Page/任天堂.md "wikilink")は、[CESA主催の](https://ja.wikipedia.org/wiki/コンピュータエンターテインメント協会 "wikilink")[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")には出展しないが、E3には 出展している。
+日本の[任天堂](../Page/任天堂.md "wikilink")は、[CESA主催の](../Page/コンピュータエンターテインメント協会.md "wikilink")[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")には出展しないが、E3には 出展している。
 
 ## 内容
 
@@ -29,7 +29,7 @@
 
 ## E3/Tokyo'96
 
-[1996年](../Page/1996年.md "wikilink")に一度だけE3が日本で開催されたことがある。同年[11月1日](../Page/11月1日.md "wikilink")から[4日まで](../Page/11月4日.md "wikilink")[幕張メッセ](../Page/幕張メッセ.md "wikilink")にて「**E3/Tokyo'96**」という名称で[テレビ朝日](../Page/テレビ朝日.md "wikilink")などが主催者となり開催された。そもそもこれは[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")主催の[PlayStation EXPOとの併催という形だったが](https://ja.wikipedia.org/wiki/PlayStation_EXPO "wikilink")、同年8月から始まった[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")とバッティングしたこともあり、国内・海外の主力ゲームメーカーの出展が少なく小規模な展示にとどまり、結果的に失敗に終わった\[2\]。
+[1996年](../Page/1996年.md "wikilink")に一度だけE3が日本で開催されたことがある。同年[11月1日](../Page/11月1日.md "wikilink")から[4日まで](../Page/11月4日.md "wikilink")[幕張メッセ](../Page/幕張メッセ.md "wikilink")にて「**E3/Tokyo'96**」という名称で[テレビ朝日](../Page/テレビ朝日.md "wikilink")などが主催者となり開催された。そもそもこれは[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")主催の[PlayStation EXPOとの併催という形だったが](https://ja.wikipedia.org/wiki/PlayStation_EXPO "wikilink")、同年8月から始まった[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")とバッティングしたこともあり、国内・海外の主力ゲームメーカーの出展が少なく小規模な展示にとどまり、結果的に失敗に終わった\[2\]。
 
 ## 開催実績
 
@@ -68,7 +68,7 @@
 
 ## 関連項目
 
-  - [東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")（TGS） - 東京で開催される日本最大のゲーム見本市。
+  - [東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")（TGS） - 東京で開催される日本最大のゲーム見本市。
   - [ゲームズコム](https://ja.wikipedia.org/wiki/ゲームズコム "wikilink")（GC） - 欧州最大のゲーム[見本市](../Page/見本市.md "wikilink")。
   - [Game Developers Conference](../Page/Game_Developers_Conference.md "wikilink")
   - [ゲームズ・コンベンション](https://ja.wikipedia.org/wiki/ゲームズ・コンベンション "wikilink")

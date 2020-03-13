@@ -5,7 +5,7 @@
 
 2014年以降は[指輪物語](../Page/指輪物語.md "wikilink")を原作とした[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")、[シャドウ・オブ・モルドール](https://ja.wikipedia.org/wiki/シャドウ・オブ・モルドール "wikilink")とその続編を手がけている。
 
-なお2004年に[タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")の[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")・エンターテイメント(Warner Bros. Entertainment)に買収されて傘下となっている。
+なお2004年に[タイム・ワーナー](https://ja.wikipedia.org/wiki/タイム・ワーナー "wikilink")の[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")・エンターテイメント(Warner Bros. Entertainment)に買収されて傘下となっている。
 
 ## Lithtech Engine
 
@@ -13,7 +13,7 @@
 
 DirectXを推進する[マイクロソフト](../Page/マイクロソフト.md "wikilink")は[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")に最適化されたゲームエンジンの必要性を考えていた時期があり、このMonolith Productionsと共同開発の形で**DirectEngine**という名称でゲームエンジンの開発を行っていた（当時このゲームエンジンを採用するマイクロソフトのゲームとして「RIOT:Mobile Armor」というゲームも開発されていた）。しかしながら開発の途中でMonolith Productionsが開発途中のゲームエンジンおよびゲームの権利を完全に買収して完成させたものが**Lithtech Engine**である（「RIOT:Mobile Armor」も「SHOGO:Mobile Armor Division」と名称を改めて1998年に発売された）。
 
-当時すでに[Quake](https://ja.wikipedia.org/wiki/Quake "wikilink")エンジン、[Unreal](../Page/Unreal.md "wikilink")エンジンといった実績のあるゲームエンジンが存在しており、画像の品質などの点で大きく優位な点が存在しなかったため、初期のバージョンでの採用例は多くない。それでもDirectXとの親和性とプログラミングの簡易さからくるゲーム製作の単純化を謳っていた。
+当時すでに[Quake](../Page/Quake.md "wikilink")エンジン、[Unreal](../Page/Unreal.md "wikilink")エンジンといった実績のあるゲームエンジンが存在しており、画像の品質などの点で大きく優位な点が存在しなかったため、初期のバージョンでの採用例は多くない。それでもDirectXとの親和性とプログラミングの簡易さからくるゲーム製作の単純化を謳っていた。
 
 Lithtech 2.0以降のバージョン（この際ゲームエンジン開発部門もLithtech Inc.として分割された。さらにTouchdown Entertainmentと会社名が変わっている）では頻繁に改定(2.2,2.3,2,4)が行われている。さらにバージョン2.2から派生したLithtech Talon、Lithtech Triton、MMORPG向けのLithtech Discovery、根本から大きな改定を行ったLithtech Jupiter、そしてDirectX 9の要素を活用、および[Havok](https://ja.wikipedia.org/wiki/Havok "wikilink")物理エンジンも採用可能となったJupiter Extendedにつながっている。
 

@@ -6,8 +6,8 @@
 ## 概要
 
   - [1月31日](../Page/1月31日.md "wikilink")にリリースされた9thアルバム『[LOVE IS BEAUTIFUL](../Page/LOVE_IS_BEAUTIFUL.md "wikilink")』のナビゲート盤と位置づけられた先行シングルである。
-  - 本作品はCDのみの通常盤の他に4種類のDVD付きの限定版も同時発売である。DVDには「100万回のKISS」の[PVと](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、2006年にGLAYが参加したライブでの映像が各1曲ずつ収録されている。
-  - [キスによって伝えられる愛を描いた曲](https://ja.wikipedia.org/wiki/接吻 "wikilink")。[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")や[殺人](../Page/殺人.md "wikilink")等の事件が横行する現代へのメッセージソングともとれる。「もし自分たち（が親や周りの人間）だったら（いじめの）[SOS](https://ja.wikipedia.org/wiki/SOS "wikilink")に気付くことができる男でありたい」とのテーマで作られた。
+  - 本作品はCDのみの通常盤の他に4種類のDVD付きの限定版も同時発売である。DVDには「100万回のKISS」の[PVと](../Page/ミュージック・ビデオ.md "wikilink")、2006年にGLAYが参加したライブでの映像が各1曲ずつ収録されている。
+  - [キスによって伝えられる愛を描いた曲](https://ja.wikipedia.org/wiki/接吻 "wikilink")。[いじめ](https://ja.wikipedia.org/wiki/いじめ "wikilink")や[殺人](../Page/殺人.md "wikilink")等の事件が横行する現代へのメッセージソングともとれる。「もし自分たち（が親や周りの人間）だったら（いじめの）[SOS](../Page/SOS.md "wikilink")に気付くことができる男でありたい」とのテーマで作られた。
   - 限定盤4種類のCDジャケットはそれぞれ[春夏秋冬](../Page/春夏秋冬.md "wikilink")をイメージしている。
 
 ## 収録曲
@@ -15,7 +15,7 @@
 ### CD
 
 1.  **100万回のKISS**
-      - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY & [佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+      - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink")　編曲：GLAY & [佐久間正英](../Page/佐久間正英.md "wikilink")
 2.  **LONE WOLF**
       - 作詞・作曲：TAKURO　編曲：GLAY & 佐久間正英
 3.  **100万回のKISS (Instrumental)** ※通常盤のみ収録
@@ -72,7 +72,7 @@
 
 ## 関連項目
 
-  - [2007年の音楽](https://ja.wikipedia.org/wiki/2007年の音楽 "wikilink")
+  - [2007年の音楽](../Page/2007年の音楽.md "wikilink")
 
 ## 外部リンク
 

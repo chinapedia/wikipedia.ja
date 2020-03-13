@@ -1,16 +1,16 @@
 > この記事は[JAZZY](https://ja.wikipedia.org/wiki/JAZZY)から翻訳されています。
 
 
-宝塚ミュージカル・ファンタジー『**JAZZYな妖精たち**』（ジャジーなようせいたち）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[月組](https://ja.wikipedia.org/wiki/月組_\(宝塚歌劇\) "wikilink")で上演されたミュージカル作品である。17場。2005年9月23日から10月31日（新人公演：10月18日）に[宝塚大劇場](https://ja.wikipedia.org/wiki/宝塚大劇場 "wikilink")、同年11月18日から12月25日（新人公演：11月29日）に[東京宝塚劇場](https://ja.wikipedia.org/wiki/東京宝塚劇場 "wikilink")で上演された。伴演作はグランド・レビュー『[REVUE OF DREAMS](https://ja.wikipedia.org/wiki/REVUE_OF_DREAMS "wikilink")』。
+宝塚ミュージカル・ファンタジー『**JAZZYな妖精たち**』（ジャジーなようせいたち）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[月組](../Page/月組_\(宝塚歌劇\).md "wikilink")で上演されたミュージカル作品である。17場。2005年9月23日から10月31日（新人公演：10月18日）に[宝塚大劇場](../Page/宝塚大劇場.md "wikilink")、同年11月18日から12月25日（新人公演：11月29日）に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で上演された。伴演作はグランド・レビュー『[REVUE OF DREAMS](https://ja.wikipedia.org/wiki/REVUE_OF_DREAMS "wikilink")』。
 
 ## 概説
 
 1920年代の[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク](../Page/ニューヨーク.md "wikilink")を舞台に、[アイルランド](../Page/アイルランド.md "wikilink")の同じ孤児院で育った5人の幼馴染の再会を描いた。
 
-[瀬奈じゅん](https://ja.wikipedia.org/wiki/瀬奈じゅん "wikilink")・[彩乃かなみ](https://ja.wikipedia.org/wiki/彩乃かなみ "wikilink")のトップお披露目公演。
-瀬奈はダンサーであることから、プロローグでは[ジーン・バトラー](https://ja.wikipedia.org/wiki/ジーン・バトラー "wikilink")の振付による[アイリッシュダンスが披露された](https://ja.wikipedia.org/wiki/リバーダンス "wikilink")。
+[瀬奈じゅん](../Page/瀬奈じゅん.md "wikilink")・[彩乃かなみ](../Page/彩乃かなみ.md "wikilink")のトップお披露目公演。
+瀬奈はダンサーであることから、プロローグでは[ジーン・バトラー](https://ja.wikipedia.org/wiki/ジーン・バトラー "wikilink")の振付による[アイリッシュダンスが披露された](../Page/リバーダンス.md "wikilink")。
 
-[東京宝塚劇場](https://ja.wikipedia.org/wiki/東京宝塚劇場 "wikilink")公演は、脚本と演出が多少変更となりラストシーンが大幅に改変された。
+[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")公演は、脚本と演出が多少変更となりラストシーンが大幅に改変された。
 
 ## スタッフ
 
@@ -25,10 +25,10 @@
 
 ※「（）」は新人公演
 
-  - パトリック・ゲール\[1\]（下院議員候補\[2\])：[瀬奈じゅん](https://ja.wikipedia.org/wiki/瀬奈じゅん "wikilink")（[真野すがた](../Page/真野すがた.md "wikilink")）
-  - シャノン・マクニール\[3\](童話作家\[4\])：[彩乃かなみ](https://ja.wikipedia.org/wiki/彩乃かなみ "wikilink")（[城咲あい](../Page/城咲あい.md "wikilink")）
-  - ウォルター・クーフリン\[5\]()：[霧矢大夢](https://ja.wikipedia.org/wiki/霧矢大夢 "wikilink")（[青樹泉](../Page/青樹泉.md "wikilink")）
-  - ティモシー・キャラハン\[6\](ゴシップ記者\[7\])：[大空祐飛](https://ja.wikipedia.org/wiki/大空ゆうひ "wikilink")（[彩那音](https://ja.wikipedia.org/wiki/彩那音 "wikilink")）
+  - パトリック・ゲール\[1\]（下院議員候補\[2\])：[瀬奈じゅん](../Page/瀬奈じゅん.md "wikilink")（[真野すがた](../Page/真野すがた.md "wikilink")）
+  - シャノン・マクニール\[3\](童話作家\[4\])：[彩乃かなみ](../Page/彩乃かなみ.md "wikilink")（[城咲あい](../Page/城咲あい.md "wikilink")）
+  - ウォルター・クーフリン\[5\]()：[霧矢大夢](../Page/霧矢大夢.md "wikilink")（[青樹泉](../Page/青樹泉.md "wikilink")）
+  - ティモシー・キャラハン\[6\](ゴシップ記者\[7\])：[大空祐飛](../Page/大空ゆうひ.md "wikilink")（[彩那音](../Page/彩那音.md "wikilink")）
   - ミック・オブライエン\[8\](警官\[9\])：[月船さらら](../Page/月船さらら.md "wikilink")（[明日海りお](../Page/明日海りお.md "wikilink")）
 
 <!-- end list -->

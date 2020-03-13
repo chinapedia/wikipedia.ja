@@ -3,9 +3,9 @@
 
 （アイムラヴィニット）は、[マクドナルド](../Page/マクドナルド.md "wikilink")にて[2003年](../Page/2003年.md "wikilink")9月から導入された全世界統一の[宣伝文句](https://ja.wikipedia.org/wiki/宣伝文句 "wikilink")。[日本語](../Page/日本語.md "wikilink")に直訳すると「私はそれが好き」。この場合の意味は「私のお気に入り」という意味。
 
-は  の非標準発音  を表した[視覚なまり](https://ja.wikipedia.org/wiki/視覚なまり "wikilink")。本来アラビア語には[アポストロフィー](https://ja.wikipedia.org/wiki/アポストロフィー "wikilink")は無いが、この宣伝文句のアラビア語版では英語版と同様にアポストロフィーが付されている。
+は  の非標準発音  を表した[視覚なまり](https://ja.wikipedia.org/wiki/視覚なまり "wikilink")。本来アラビア語には[アポストロフィー](../Page/アポストロフィー.md "wikilink")は無いが、この宣伝文句のアラビア語版では英語版と同様にアポストロフィーが付されている。
 
-この広報活動のテーマソングは[ジャスティン・ティンバーレイク](https://ja.wikipedia.org/wiki/ジャスティン・ティンバーレイク "wikilink")が作曲した  であり、世界中で展開されているテレビ広告でもその曲の一部が使われている。日本では当初は原曲がそのまま使われていたが、次第に、テレビ広告に合わせて[編曲](../Page/編曲.md "wikilink")がなされるようになった。
+この広報活動のテーマソングは[ジャスティン・ティンバーレイク](../Page/ジャスティン・ティンバーレイク.md "wikilink")が作曲した  であり、世界中で展開されているテレビ広告でもその曲の一部が使われている。日本では当初は原曲がそのまま使われていたが、次第に、テレビ広告に合わせて[編曲](../Page/編曲.md "wikilink")がなされるようになった。
 
 ## 訳語と使用国
 
@@ -27,7 +27,7 @@
   - [ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")
   - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")
   - [マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")
-  - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")）
+  - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")（[中華民国](../Page/中華民国.md "wikilink")）
   - [アンドラ](../Page/アンドラ.md "wikilink")
   - [タイ王国](../Page/タイ王国.md "wikilink")
   - [ルクセンブルク](../Page/ルクセンブルク.md "wikilink")
@@ -65,7 +65,7 @@
   - [マルタ](../Page/マルタ.md "wikilink")
   - [スロバキア](../Page/スロバキア.md "wikilink")
   - [南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")
-  - [カタール](https://ja.wikipedia.org/wiki/カタール "wikilink")
+  - [カタール](../Page/カタール.md "wikilink")
   - [クロアチア](../Page/クロアチア.md "wikilink")
   - [サモア](../Page/サモア.md "wikilink")
   - [フィジー](../Page/フィジー.md "wikilink")
@@ -89,11 +89,11 @@
   - [アゼルバイジャン](../Page/アゼルバイジャン.md "wikilink")
   - [サモア](../Page/アメリカ領サモア.md "wikilink")
   - [モーリシャス](../Page/モーリシャス.md "wikilink")
-  - [モンテネグロ](https://ja.wikipedia.org/wiki/モンテネグロ "wikilink")
+  - [モンテネグロ](../Page/モンテネグロ.md "wikilink")
   - [ポルトガル](../Page/ポルトガル.md "wikilink")
   - [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")
   - [スイス](../Page/スイス.md "wikilink")
-  - [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")
+  - [フィンランド](../Page/フィンランド.md "wikilink")
 
 である。国・地域によっては現地語に翻訳された句が使用される。
 
@@ -140,7 +140,7 @@
 <a href="../Page/メキシコ.md" title="wikilink">メキシコ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/タガログ語" title="wikilink">タガログ語</a></p></td>
+<td><p><a href="../Page/タガログ語.md" title="wikilink">タガログ語</a></p></td>
 <td></td>
 <td><p>ラヴ・コ・ト</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フィリピン" title="wikilink">フィリピン</a></p></td>

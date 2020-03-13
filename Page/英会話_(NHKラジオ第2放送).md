@@ -1,7 +1,7 @@
 > この記事は[ \(NHK2\)](https://ja.wikipedia.org/wiki/_\(NHK2\))から翻訳されています。
 
 
-『NHKラジオ**英会話**』（えいかいわ）は、[1992年](../Page/1992年.md "wikilink")度から[2001年](../Page/2001年.md "wikilink")度まで[NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")で放送されていた[語学番組](https://ja.wikipedia.org/wiki/語学番組 "wikilink")である。
+『NHKラジオ**英会話**』（えいかいわ）は、[1992年](../Page/1992年.md "wikilink")度から[2001年](../Page/2001年.md "wikilink")度まで[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")で放送されていた[語学番組](../Page/語学番組.md "wikilink")である。
 
 1992年にそれまで放送されていたNHKラジオ「**英語会話**」をリニューアルし、番組名を変更し、放送時間を15分から20分に延長して始まった。[2002年](../Page/2002年.md "wikilink")度からは「[英会話レッツスピーク](../Page/英会話レッツスピーク.md "wikilink")」としてリニューアルされた。
 

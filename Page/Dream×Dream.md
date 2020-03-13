@@ -6,16 +6,16 @@
 ## 概要
 
   - 仮タイトルは「love in the sky」。
-  - 『[名探偵コナン 銀翼の奇術師](../Page/名探偵コナン_銀翼の奇術師.md "wikilink")』の主題歌。3度目の『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")であるが、ソロとしては最初で最後の劇場版のタイアップである（その後[愛内里菜&三枝夕夏](../Page/愛内里菜&三枝夕夏.md "wikilink")として、『[名探偵コナン 紺碧の棺](../Page/名探偵コナン_紺碧の棺.md "wikilink")』主題歌に「[七つの海を渡る風のように](../Page/七つの海を渡る風のように.md "wikilink")」が起用された）。
+  - 『[名探偵コナン 銀翼の奇術師](../Page/名探偵コナン_銀翼の奇術師.md "wikilink")』の主題歌。3度目の『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』[タイアップ](../Page/タイアップ.md "wikilink")であるが、ソロとしては最初で最後の劇場版のタイアップである（その後[愛内里菜&三枝夕夏](../Page/愛内里菜&三枝夕夏.md "wikilink")として、『[名探偵コナン 紺碧の棺](../Page/名探偵コナン_紺碧の棺.md "wikilink")』主題歌に「[七つの海を渡る風のように](../Page/七つの海を渡る風のように.md "wikilink")」が起用された）。
   - オリコンTOP5入りは逃したが、売り上げは前作より3万枚以上増えた。
   - 2009年7月25日に行われた「里菜祭り2009」開催に先駆けて、公式サイトで行われたリクエスト投票では第1位となっている。
 
 ## 収録曲
 
 1.  **Dream×Dream**
-      - 作詞：愛内里菜　作曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")　編曲：corin.
+      - 作詞：愛内里菜　作曲：[徳永暁人](../Page/徳永暁人.md "wikilink")　編曲：corin.
 2.  **Sweet Peach Tree**
-      - 作詞：愛内里菜　作曲：[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink")　編曲：三輪緑
+      - 作詞：愛内里菜　作曲：[輝門](../Page/輝門.md "wikilink")　編曲：三輪緑
 3.  **Melody Flag**
       - 作詞：愛内里菜　作曲・編曲：corin.
 4.  **Dream×Dream -instrumental-**
@@ -26,8 +26,8 @@
 
 ## 収録アルバム
 
-  - [PLAYGIRL](https://ja.wikipedia.org/wiki/PLAYGIRL_\(アルバム\) "wikilink")（\#1）
-  - [THE BEST OF DETECTIVE CONAN 〜The Movie Themes Collection〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜The_Movie_Themes_Collection〜 "wikilink")（\#1）
+  - [PLAYGIRL](../Page/PLAYGIRL_\(アルバム\).md "wikilink")（\#1）
+  - [THE BEST OF DETECTIVE CONAN 〜The Movie Themes Collection〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜The_Movie_Themes_Collection〜.md "wikilink")（\#1）
   - [THE BEST OF DETECTIVE CONAN 3 〜名探偵コナン　テーマ曲集3〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_3_〜名探偵コナン_テーマ曲集3〜.md "wikilink")（\#1）
   - [ALL SINGLES BEST 〜THANX 10th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
   - [GIZA studio presents -Girls-](https://ja.wikipedia.org/wiki/GIZA_studio_presents_-Girls- "wikilink")（\#1）

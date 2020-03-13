@@ -416,15 +416,15 @@ DONA-35</p></td>
   - 葛飾ラプソディー〜ヤムヤムversion〜
     [フジテレビ系アニメ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")』オープニングテーマ
   - Precious Days
-    [NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")『[天才てれびくんMAX](https://ja.wikipedia.org/wiki/天才てれびくんMAX "wikilink")』[紙フトタッチダウンコーナー](https://ja.wikipedia.org/wiki/天才てれびくんシリーズのスポーツコーナー#紙フトタッチダウン "wikilink")2006年度エンディングテーマ
+    [NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")『[天才てれびくんMAX](https://ja.wikipedia.org/wiki/天才てれびくんMAX "wikilink")』[紙フトタッチダウンコーナー](https://ja.wikipedia.org/wiki/天才てれびくんシリーズのスポーツコーナー#紙フトタッチダウン "wikilink")2006年度エンディングテーマ
     フジテレビ系『[めちゃ<sup>2</sup>イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』2007年1月13日-2008年1月26日エンディングテーマ
     [千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ "wikilink")『[高校野球ダイジェスト](https://ja.wikipedia.org/wiki/高校野球ダイジェスト "wikilink")』エンディングテーマ
 
 <!-- end list -->
 
   - Clover
-    [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[草野☆キッド](https://ja.wikipedia.org/wiki/草野☆キッド "wikilink")』オープニングテーマ
-    [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")』5月度お題歌
+    [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[草野☆キッド](../Page/草野☆キッド.md "wikilink")』オープニングテーマ
+    [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』5月度お題歌
     [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[jubeat ripples](https://ja.wikipedia.org/wiki/jubeat_ripples "wikilink")』に使用されている
   - Brand New Day
     [GyaOドラマ](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")『[ラブ・コレ2 東京Love Collection](https://ja.wikipedia.org/wiki/ラブ・コレ2_東京Love_Collection "wikilink")』テーマソング

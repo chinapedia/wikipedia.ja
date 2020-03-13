@@ -11,11 +11,11 @@
 
 コンセプチュアルなライブを最大の魅力とし、新曲やツアーごとに宇宙海賊・桃太郎など多彩な衣装を披露する、コントやダンスなどのパフォーマンスを行うといったスタイルが海外でも人気を呼び、2004年には[アメリカでライブを行い成功を収めている](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。また、「[ニューズウィーク](../Page/ニューズウィーク.md "wikilink")日本版」（2004年10月20日号）の特集「世界が尊敬する日本人100」に選出された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月3日](../Page/2月3日.md "wikilink")、長野県・[穂高神社](../Page/穂高神社.md "wikilink")[節分](../Page/節分.md "wikilink")祭に参加。 [6月3日](../Page/6月3日.md "wikilink")、DAISHIが[覚せい剤取締法](../Page/覚せい剤取締法.md "wikilink")違反の疑いで神奈川県警に逮捕され、バンドは[8月10日](../Page/8月10日.md "wikilink")付けで事務所から独立。直後にDAISHIを抜いた4名で構成された「SYNECTICS」として活動開始、各々の活動を続けつつも、暫くバンド活動は自粛していた。
+[2005年](../Page/2005年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")、長野県・[穂高神社](../Page/穂高神社.md "wikilink")[節分](../Page/節分.md "wikilink")祭に参加。 [6月3日](../Page/6月3日.md "wikilink")、DAISHIが[覚せい剤取締法](../Page/覚せい剤取締法.md "wikilink")違反の疑いで神奈川県警に逮捕され、バンドは[8月10日](../Page/8月10日.md "wikilink")付けで事務所から独立。直後にDAISHIを抜いた4名で構成された「SYNECTICS」として活動開始、各々の活動を続けつつも、暫くバンド活動は自粛していた。
 
-[2006年](../Page/2006年.md "wikilink")活動再開、ライブ日程やCDの発売が決定したが[5月7日](../Page/5月7日.md "wikilink")の[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")公演をもって無期限活動停止、[6月14日](../Page/6月14日.md "wikilink")には「SYNECTICS」も終了となり、それぞれのメンバーが他のバンドで活動。
+[2006年](../Page/2006年.md "wikilink")活動再開、ライブ日程やCDの発売が決定したが[5月7日](../Page/5月7日.md "wikilink")の[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")公演をもって無期限活動停止、[6月14日](../Page/6月14日.md "wikilink")には「SYNECTICS」も終了となり、それぞれのメンバーが他のバンドで活動。
 
-[2009年](../Page/2009年.md "wikilink")で結成から10年を迎え、記念ライブ"Psycho le Cému 10th Anniversary Legend of sword"を[6月6日](../Page/6月6日.md "wikilink")・[6月7日](../Page/6月7日.md "wikilink")は[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")、[6月12日](../Page/6月12日.md "wikilink")に[Zepp Tokyoで開催](https://ja.wikipedia.org/wiki/Zepp "wikilink")。再び活動停止。
+[2009年](../Page/2009年.md "wikilink")で結成から10年を迎え、記念ライブ"Psycho le Cému 10th Anniversary Legend of sword"を[6月6日](../Page/6月6日.md "wikilink")・[6月7日](../Page/6月7日.md "wikilink")は[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")、[6月12日](../Page/6月12日.md "wikilink")に[Zepp Tokyoで開催](../Page/Zepp.md "wikilink")。再び活動停止。
 
 [2014年](../Page/2014年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")、活動再開（復活）宣言とともに結成15周年記念ライヴ"Psycho le Cému 15th Anniversary Live TOKYO PARALLEL WORLD"を発表。公式サイト、ツイッター、YouTubeチャンネルも開設された。
 
@@ -74,7 +74,7 @@
   - LidaとYURAサマが「[Dacco](https://ja.wikipedia.org/wiki/Dacco "wikilink")」というユニットを組んでいる。
   - YURAサマは他のヴィジュアル系ミュージシャンや演劇関係者とともに[アラスタ](https://ja.wikipedia.org/wiki/アラスタ "wikilink")（「アラジンとスターオーシャンの秘宝」という主催ミュージカルが母体の演劇・ライブなどを組み込んだイベント）を主催。
   - AYA・seekは[Mix Speaker's,Inc.を結成](https://ja.wikipedia.org/wiki/Mix_Speaker's,Inc. "wikilink")。
-  - DAISHIはソロ活動の後「[The ROMEO](../Page/The_ROMEO.md "wikilink")」を結成、現在は「SiXX」として活動。私生活では[2016年](../Page/2016年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")に[タレント](../Page/タレント.md "wikilink")の[時東ぁみ](https://ja.wikipedia.org/wiki/時東ぁみ "wikilink")と結婚\[2\]\[3\]。
+  - DAISHIはソロ活動の後「[The ROMEO](../Page/The_ROMEO.md "wikilink")」を結成、現在は「SiXX」として活動。私生活では[2016年](../Page/2016年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")に[タレント](../Page/タレント.md "wikilink")の[時東ぁみ](../Page/時東ぁみ.md "wikilink")と結婚\[2\]\[3\]。
 
 ## ディスコグラフィー
 
@@ -203,7 +203,7 @@ PLGC-029</p></td>
 <td><p>CRCP-10035</p></td>
 <td><ol>
 <li>激愛メリーゴーランド 【作詞作曲:Lida/編曲:Psycho le Cemu,<a href="https://ja.wikipedia.org/wiki/富樫明生" title="wikilink">富樫明生</a>】&lt;TXドラマ「吸血キラー／聖少女バフィー」エンディング・テーマ&gt;</li>
-<li>『LONG□DISTANCE』 【作詞:DAISHI/作曲:AYA/編曲:Psycho le Cemu,<a href="https://ja.wikipedia.org/wiki/佐久間正英" title="wikilink">佐久間正英</a>】</li>
+<li>『LONG□DISTANCE』 【作詞:DAISHI/作曲:AYA/編曲:Psycho le Cemu,<a href="../Page/佐久間正英.md" title="wikilink">佐久間正英</a>】</li>
 <li>春夏秋冬 【作詞作曲:Lida/編曲:Psycho le Cemu,佐久間正英】&lt;JSB「新・音楽楽園」エンディング・テーマ」&gt;</li>
 </ol></td>
 <td><p>オリコン最高8位、登場回数9回</p></td>

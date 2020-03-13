@@ -7,7 +7,7 @@
 
 [1938年](../Page/1938年.md "wikilink")（昭和13年）に**弘前放送局**として開局。かつてはアナウンサーが在籍し、独自の放送を行っていた。
 
-[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")では[仙台中央放送局](../Page/NHK仙台放送局.md "wikilink")、[秋田放送局](../Page/NHK秋田放送局.md "wikilink")、[山形放送局に次ぐ](../Page/NHK山形放送局.md "wikilink")4番目の開局であり青森放送局より3年早い。その関係で[1988年](../Page/1988年.md "wikilink")（昭和63年）7月の支局降格以降もラジオの[コールサインには](https://ja.wikipedia.org/wiki/識別信号 "wikilink")[親局](https://ja.wikipedia.org/wiki/親局 "wikilink")並みの**JORG**（ラジオ第1）・**JORC**（ラジオ第2）が与えられており、廃止される[1991年](../Page/1991年.md "wikilink")（平成3年）頃まではラジオで弘前局のコールサインもアナウンスされていた。
+[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")では[仙台中央放送局](../Page/NHK仙台放送局.md "wikilink")、[秋田放送局](../Page/NHK秋田放送局.md "wikilink")、[山形放送局に次ぐ](../Page/NHK山形放送局.md "wikilink")4番目の開局であり青森放送局より3年早い。その関係で[1988年](../Page/1988年.md "wikilink")（昭和63年）7月の支局降格以降もラジオの[コールサインには](https://ja.wikipedia.org/wiki/識別信号 "wikilink")[親局](../Page/親局.md "wikilink")並みの**JORG**（ラジオ第1）・**JORC**（ラジオ第2）が与えられており、廃止される[1991年](../Page/1991年.md "wikilink")（平成3年）頃まではラジオで弘前局のコールサインもアナウンスされていた。
 
 [1967年](../Page/1967年.md "wikilink")（昭和42年）に現在の**弘前放送会館**が落成してから40年以上が経過しているが、外壁のリフォームが行われ[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には[三つのたまご](../Page/三つのたまご.md "wikilink")の[ロゴマーク](https://ja.wikipedia.org/wiki/ロゴマーク "wikilink")へ変更している。
 
@@ -69,7 +69,7 @@
 
 ### 道路
 
-  - [青森県道31号弘前鯵ケ沢線](https://ja.wikipedia.org/wiki/青森県道31号弘前鯵ケ沢線 "wikilink")（弘前中央高校そば）
+  - [青森県道31号弘前鯵ケ沢線](../Page/青森県道31号弘前鯵ケ沢線.md "wikilink")（弘前中央高校そば）
 
 ## 支局周辺
 
@@ -84,8 +84,8 @@
 
 ## 関連項目
 
-  - [NHK八戸支局](https://ja.wikipedia.org/wiki/NHK八戸支局 "wikilink")
-  - [日本放送協会放送局の一覧](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")
+  - [NHK八戸支局](../Page/NHK八戸支局.md "wikilink")
+  - [日本放送協会放送局の一覧](../Page/日本放送協会放送局の一覧.md "wikilink")
   - [山本和之](../Page/山本和之.md "wikilink")（元：NHK弘前支局長、現：NHK文化センター弘前支社長）
 
 ## 外部リンク

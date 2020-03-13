@@ -92,7 +92,7 @@
 3.  市川哲史『私がヴィジュアル系だった頃。』（竹書房、2005年）p. 110
 4.  小松成美『YOSHIKI / 佳樹』（角川書店、2009年）p. 421
 5.
-6.  [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月26日](../Page/6月26日.md "wikilink")放送・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列「[ソロモンの王宮](https://ja.wikipedia.org/wiki/ソロモンの王宮 "wikilink")」番組中のYOSHIKIの発言より。
+6.  [2005年](../Page/2005年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")放送・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列「[ソロモンの王宮](../Page/ソロモンの王宮.md "wikilink")」番組中のYOSHIKIの発言より。
 7.  小松成美 『YOSHIKI / 佳樹』 角川書店
 8.
 9.  [Repo\! The Generic Opera Production notes](http://lionsgatepublicity.com/epk/repo/docs/pro_notes.doc) Lions Gate Entertainment 2008-11-12

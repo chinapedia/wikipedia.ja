@@ -1,7 +1,7 @@
 > この記事は[BP](https://ja.wikipedia.org/wiki/BP)から翻訳されています。
 
 
-**株式会社日経BP**（にっけいビーピー）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")（日経）の[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")で、[出版社](../Page/出版社.md "wikilink")である。**日経BP社**などと表記される。
+**株式会社日経BP**（にっけいビーピー）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[日本経済新聞社](../Page/日本経済新聞社.md "wikilink")（日経）の[子会社](../Page/子会社.md "wikilink")で、[出版社](../Page/出版社.md "wikilink")である。**日経BP社**などと表記される。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 このため[株式](../Page/株式.md "wikilink")が、日本経済新聞社に譲渡される際の売買価格は、額面約5000万円が300億円超の価格となった。不動産を所有せず、[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")にある日経神田別館、小川町三井ビルなど周辺、ニチレイ神田三崎町ビルなどに事業所を置いていたが、[バブル崩壊](../Page/バブル崩壊.md "wikilink")後まもなく取引銀行のひとつ[三井信託銀行](https://ja.wikipedia.org/wiki/三井信託銀行 "wikilink")から[伊藤忠](https://ja.wikipedia.org/wiki/伊藤忠 "wikilink")が販売し[第一不動産が所有していた不動産が](https://ja.wikipedia.org/wiki/エフ・アール・イー "wikilink")[不良債権](../Page/不良債権.md "wikilink")となっており担保をわずかに下回ってもよいからといって、初めて不動産を購入し、[砂防会館](../Page/砂防会館.md "wikilink")隣の日経BP本社ビルとして改築と新館を建築した。同時に[報知新聞社](../Page/報知新聞社.md "wikilink")あとの近隣のビルにも事業所をかまえた。その後日経BP社本社ビルの市場価格は大幅に下落後に、[NBFプラチナタワー](https://ja.wikipedia.org/wiki/NBFプラチナタワー "wikilink")に移転。
 
-ビジネス情報誌「[日経ビジネス](../Page/日経ビジネス.md "wikilink")」を始め、ビジネス・IT・医療・電子・機械・土木・建築・サービスなど、あらゆる分野の情報誌を、出版取次や書店を通さない読者直販誌で発行する他、「[日経ビジネスアソシエ](https://ja.wikipedia.org/wiki/日経ビジネスアソシエ "wikilink")」「[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")」など書店販売の雑誌や書籍の発行、総合ニュースサイト「nikkei BPnet」技術系総合情報サイト「日経 xTECH」「[nikkei TRENDYnet](../Page/日経トレンディ.md "wikilink")」など、各種[ウェブサイト](../Page/ウェブサイト.md "wikilink")の運営、「[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")（共催）」などの各種展示会の開催などを行っている。また、かつては商用[パソコン通信](../Page/パソコン通信.md "wikilink")サービス「[日経MIX](https://ja.wikipedia.org/wiki/日経MIX "wikilink")」の運営を行っていた事でも知られている。
+ビジネス情報誌「[日経ビジネス](../Page/日経ビジネス.md "wikilink")」を始め、ビジネス・IT・医療・電子・機械・土木・建築・サービスなど、あらゆる分野の情報誌を、出版取次や書店を通さない読者直販誌で発行する他、「[日経ビジネスアソシエ](https://ja.wikipedia.org/wiki/日経ビジネスアソシエ "wikilink")」「[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")」など書店販売の雑誌や書籍の発行、総合ニュースサイト「nikkei BPnet」技術系総合情報サイト「日経 xTECH」「[nikkei TRENDYnet](../Page/日経トレンディ.md "wikilink")」など、各種[ウェブサイト](../Page/ウェブサイト.md "wikilink")の運営、「[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")（共催）」などの各種展示会の開催などを行っている。また、かつては商用[パソコン通信](../Page/パソコン通信.md "wikilink")サービス「[日経MIX](https://ja.wikipedia.org/wiki/日経MIX "wikilink")」の運営を行っていた事でも知られている。
 
 2008年7月1日には、同じ日経グループの日経ホーム出版社と合併し、発行誌を継承した。
 

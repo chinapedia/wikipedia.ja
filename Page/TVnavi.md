@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")創刊\[1\]、毎月24日発売。1か月分の[テレビ番組表](https://ja.wikipedia.org/wiki/テレビ番組表 "wikilink")や番組の見どころを紹介。タレントの出演情報のほか過去に放送された[テレビ番組](../Page/テレビ番組.md "wikilink")の特集企画、[韓国の俳優](../Page/大韓民国.md "wikilink")・女優の最新ニュースなどの企画も掲載している。番組表は[日刊スポーツPRESS](https://ja.wikipedia.org/wiki/日刊編集センター "wikilink")（旧・日刊編集センター）\[2\]から配信を受けている。
+[2003年](../Page/2003年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")創刊\[1\]、毎月24日発売。1か月分の[テレビ番組表](https://ja.wikipedia.org/wiki/テレビ番組表 "wikilink")や番組の見どころを紹介。タレントの出演情報のほか過去に放送された[テレビ番組](../Page/テレビ番組.md "wikilink")の特集企画、[韓国の俳優](../Page/大韓民国.md "wikilink")・女優の最新ニュースなどの企画も掲載している。番組表は[日刊スポーツPRESS](../Page/日刊編集センター.md "wikilink")（旧・日刊編集センター）\[2\]から配信を受けている。
 
 [マスコット](../Page/マスコット.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")は[イヌ](../Page/イヌ.md "wikilink")の「**ナビー**」（通称：ナビーくん）。
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - 作品大賞：『[野ブタ。をプロデュース](https://ja.wikipedia.org/wiki/野ブタ。をプロデュース "wikilink")』
+  - 作品大賞：『[野ブタ。をプロデュース](../Page/野ブタ。をプロデュース.md "wikilink")』
   - 主演男優賞：[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")（[義経](../Page/義経_\(NHK大河ドラマ\).md "wikilink")）
   - 主演女優賞：[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink")（[ごくせん](../Page/ごくせん_\(テレビドラマ\).md "wikilink")）
   - 助演男優賞：[松本潤](../Page/松本潤.md "wikilink")（[花より男子](https://ja.wikipedia.org/wiki/花より男子 "wikilink")）
@@ -72,7 +72,7 @@
 <!-- end list -->
 
   - 作品大賞：『[華麗なる一族](../Page/華麗なる一族_\(2007年のテレビドラマ\).md "wikilink")』
-  - 主演男優賞：[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")（華麗なる一族）
+  - 主演男優賞：[木村拓哉](../Page/木村拓哉.md "wikilink")（華麗なる一族）
   - 主演女優賞：[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")（[ハケンの品格](../Page/ハケンの品格.md "wikilink")）
   - 助演男優賞：[小栗旬](../Page/小栗旬.md "wikilink")（[花ざかりの君たちへ〜イケメン♂パラダイス〜](https://ja.wikipedia.org/wiki/花ざかりの君たちへ_\(テレビドラマ\)#花ざかりの君たちへ〜イケメン♂パラダイス〜 "wikilink")）
   - 助演女優賞：[新垣結衣](https://ja.wikipedia.org/wiki/新垣結衣 "wikilink")（[パパとムスメの7日間](../Page/パパとムスメの7日間.md "wikilink")）
@@ -130,7 +130,7 @@
   - 主演男優賞：大沢たかお（JIN-仁-）
   - 主演女優賞：[松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")（家政婦のミタ）
   - 助演男優賞：[長谷川博己](https://ja.wikipedia.org/wiki/長谷川博己 "wikilink")（家政婦のミタ）
-  - 助演女優賞：[杏](https://ja.wikipedia.org/wiki/杏_\(女優\) "wikilink")（[妖怪人間ベム](https://ja.wikipedia.org/wiki/妖怪人間ベム "wikilink")）
+  - 助演女優賞：[杏](https://ja.wikipedia.org/wiki/杏_\(女優\) "wikilink")（[妖怪人間ベム](../Page/妖怪人間ベム.md "wikilink")）
   - 新人賞（男優）：[鈴木福](https://ja.wikipedia.org/wiki/鈴木福 "wikilink")（妖怪人間ベム、[マルモのおきて](https://ja.wikipedia.org/wiki/マルモのおきて "wikilink")）
   - 新人賞（女優）：[瀧本美織](https://ja.wikipedia.org/wiki/瀧本美織 "wikilink")（連続テレビ小説 [てっぱん](https://ja.wikipedia.org/wiki/てっぱん "wikilink")、[美男ですね](https://ja.wikipedia.org/wiki/美男ですね "wikilink")）
 
@@ -143,7 +143,7 @@
   - 作品大賞：『[鍵のかかった部屋](https://ja.wikipedia.org/wiki/鍵のかかった部屋 "wikilink")』
   - 主演男優賞：[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")（鍵のかかった部屋）
   - 主演女優賞：[堀北真希](https://ja.wikipedia.org/wiki/堀北真希 "wikilink")（[梅ちゃん先生](https://ja.wikipedia.org/wiki/梅ちゃん先生 "wikilink")）
-  - 助演男優賞：[西島秀俊](https://ja.wikipedia.org/wiki/西島秀俊 "wikilink")（[ストロベリーナイト](https://ja.wikipedia.org/wiki/ストロベリーナイト "wikilink")）
+  - 助演男優賞：[西島秀俊](../Page/西島秀俊.md "wikilink")（[ストロベリーナイト](https://ja.wikipedia.org/wiki/ストロベリーナイト "wikilink")）
   - 助演女優賞：[栗山千明](https://ja.wikipedia.org/wiki/栗山千明 "wikilink")（[ATARU](https://ja.wikipedia.org/wiki/ATARU "wikilink")）
   - 新人賞（男優）：[知念侑李](https://ja.wikipedia.org/wiki/知念侑李 "wikilink")（[スプラウト](../Page/スプラウト_\(漫画\).md "wikilink")、[最高の人生の終り方〜エンディングプランナー〜](https://ja.wikipedia.org/wiki/最高の人生の終り方〜エンディングプランナー〜 "wikilink")）
   - 新人賞（女優）：[入来茉里](https://ja.wikipedia.org/wiki/入来茉里 "wikilink")（[ラッキーセブン](https://ja.wikipedia.org/wiki/ラッキーセブン_\(テレビドラマ\) "wikilink")）
@@ -157,7 +157,7 @@
   - 作品大賞：『[安堂ロイド〜A.I. knows LOVE?〜](https://ja.wikipedia.org/wiki/安堂ロイド〜A.I._knows_LOVE?〜 "wikilink")』
   - 主演男優賞：木村拓哉（安堂ロイド〜A.I. knows LOVE?〜）
   - 主演女優賞：綾瀬はるか（[八重の桜](https://ja.wikipedia.org/wiki/八重の桜 "wikilink")）
-  - 助演男優賞：[斎藤工](https://ja.wikipedia.org/wiki/斎藤工 "wikilink")（[ミス・パイロット](https://ja.wikipedia.org/wiki/ミス・パイロット "wikilink")、[ガラスの家](https://ja.wikipedia.org/wiki/ガラスの家 "wikilink")）
+  - 助演男優賞：[斎藤工](../Page/斎藤工.md "wikilink")（[ミス・パイロット](https://ja.wikipedia.org/wiki/ミス・パイロット "wikilink")、[ガラスの家](https://ja.wikipedia.org/wiki/ガラスの家 "wikilink")）
   - 助演女優賞：[上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")（[半沢直樹](https://ja.wikipedia.org/wiki/半沢直樹 "wikilink")）
   - 新人賞（男優）：[藤井流星](https://ja.wikipedia.org/wiki/藤井流星 "wikilink")（[ミス・パイロット](https://ja.wikipedia.org/wiki/ミス・パイロット "wikilink")）
   - 新人賞（女優）：[黒木華](https://ja.wikipedia.org/wiki/黒木華 "wikilink")（[リーガルハイ](https://ja.wikipedia.org/wiki/リーガルハイ "wikilink") (第2期)）
@@ -171,7 +171,7 @@
   - 作品大賞：『[死神くん](https://ja.wikipedia.org/wiki/死神くん#テレビドラマ "wikilink")』
   - 主演男優賞：[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")
   - 主演女優賞：[杏](https://ja.wikipedia.org/wiki/杏_\(女優\) "wikilink")
-  - 助演男優賞：[松重豊](https://ja.wikipedia.org/wiki/松重豊 "wikilink")
+  - 助演男優賞：[松重豊](../Page/松重豊.md "wikilink")
   - 助演女優賞：[石原さとみ](../Page/石原さとみ.md "wikilink")
   - 新人賞（男優）：[工藤阿須加](https://ja.wikipedia.org/wiki/工藤阿須加 "wikilink")
   - 新人賞（女優）：[鈴木梨央](https://ja.wikipedia.org/wiki/鈴木梨央 "wikilink")
@@ -204,7 +204,7 @@
   - 中部版（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")、[岐阜県](../Page/岐阜県.md "wikilink")、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")）
   - 関西版（[滋賀県](../Page/滋賀県.md "wikilink")、[京都府](../Page/京都府.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")、[兵庫県](../Page/兵庫県.md "wikilink")、[奈良県](../Page/奈良県.md "wikilink")、[和歌山県](../Page/和歌山県.md "wikilink")）
   - 広島・岡山・香川版（[広島県](../Page/広島県.md "wikilink")、[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")、[香川県](../Page/香川県.md "wikilink")）
-  - 九州版（[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[長崎県](../Page/長崎県.md "wikilink")、[大分県](../Page/大分県.md "wikilink")）
+  - 九州版（[福岡県](../Page/福岡県.md "wikilink")、[佐賀県](../Page/佐賀県.md "wikilink")、[長崎県](../Page/長崎県.md "wikilink")、[大分県](../Page/大分県.md "wikilink")）
   - 鹿児島・熊本・宮崎版（[鹿児島県](../Page/鹿児島県.md "wikilink")、[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")、[宮崎県](../Page/宮崎県.md "wikilink")）
 
 ## 姉妹誌

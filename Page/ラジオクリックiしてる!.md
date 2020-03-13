@@ -7,13 +7,13 @@
 
 ### 番組内容
 
-前番組の[船守さちこのスーパーランキング](../Page/船守さちこのスーパーランキング.md "wikilink")の後を継ぐ形で、[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")から届いた[ハガキ](https://ja.wikipedia.org/wiki/ハガキ "wikilink")、[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、[電話](../Page/電話.md "wikilink")、[メール](https://ja.wikipedia.org/wiki/メール "wikilink")による[リクエストと](../Page/リクエスト番組.md "wikilink")、札幌市内にあるCD店の売り上げで決める番組独自のランキング上位20位までの紹介とネタコーナーが主な内容。
+前番組の[船守さちこのスーパーランキング](../Page/船守さちこのスーパーランキング.md "wikilink")の後を継ぐ形で、[リスナー](../Page/リスナー.md "wikilink")から届いた[ハガキ](https://ja.wikipedia.org/wiki/ハガキ "wikilink")、[FAX](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、[電話](../Page/電話.md "wikilink")、[メール](https://ja.wikipedia.org/wiki/メール "wikilink")による[リクエストと](../Page/リクエスト番組.md "wikilink")、札幌市内にあるCD店の売り上げで決める番組独自のランキング上位20位までの紹介とネタコーナーが主な内容。
 
 ### [パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")
 
-  - 1999年4月-1999年10月 [柳沢利幸](https://ja.wikipedia.org/wiki/柳沢利幸 "wikilink")(ヤナギー、当時STVアナウンサー)・[熊谷明美](https://ja.wikipedia.org/wiki/熊谷明美 "wikilink")(アケミー、STVアナウンサー)・[奈良愛美](../Page/奈良愛美.md "wikilink")(マナミー)
+  - 1999年4月-1999年10月 [柳沢利幸](https://ja.wikipedia.org/wiki/柳沢利幸 "wikilink")(ヤナギー、当時STVアナウンサー)・[熊谷明美](../Page/熊谷明美.md "wikilink")(アケミー、STVアナウンサー)・[奈良愛美](../Page/奈良愛美.md "wikilink")(マナミー)
   - 1999年10月-2002年9月 熊谷明美(番組では「アケコ」と呼ばれる。)
-  - 2002年10月-2004年3月 熊谷明美、[大森俊治](https://ja.wikipedia.org/wiki/大森俊治 "wikilink")(現[ROMIO MACHINEボーカル](../Page/ロミオマシーン.md "wikilink"))
+  - 2002年10月-2004年3月 熊谷明美、[大森俊治](../Page/大森俊治.md "wikilink")(現[ROMIO MACHINEボーカル](../Page/ロミオマシーン.md "wikilink"))
 
 ### 放送時間
 
@@ -31,7 +31,7 @@
 
 リスナー2名の一発芸を聞き、どちらがよかったかを投票する。勝ち抜け方式。
 
-  - [ラジ坊クリ坊天気予報](https://ja.wikipedia.org/wiki/ヤン坊マー坊天気予報 "wikilink")(後に改名)
+  - [ラジ坊クリ坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")(後に改名)
 
 明日の天気予報。改名後、「森の仲間」としてリスナーが[ものまね](https://ja.wikipedia.org/wiki/ものまね "wikilink")を披露。
 
@@ -60,7 +60,7 @@
 
   - ジャイアンアケコのコーナー
 
-2003年に[アタヤンPUSH\!](https://ja.wikipedia.org/wiki/アタヤンPUSH! "wikilink")と共に製作された受験生応援ソング「がんばれ\!\!受験生\!\!」の熊谷明美パートで周りで起こった変化を送る。
+2003年に[アタヤンPUSH\!](../Page/アタヤンPUSH!.md "wikilink")と共に製作された受験生応援ソング「がんばれ\!\!受験生\!\!」の熊谷明美パートで周りで起こった変化を送る。
 
   - 突然テルテルリクエスト
 
@@ -82,8 +82,8 @@
 
 ## 関連項目
 
-  - [スーパーヒットチャートなまらん](https://ja.wikipedia.org/wiki/スーパーヒットチャートなまらん "wikilink") - 現在のSTVラジオ音楽ランキング番組。
-  - [朝6生ワイド](https://ja.wikipedia.org/wiki/朝6生ワイド "wikilink") - 現在の熊谷明美担当の番組。
+  - [スーパーヒットチャートなまらん](../Page/スーパーヒットチャートなまらん.md "wikilink") - 現在のSTVラジオ音楽ランキング番組。
+  - [朝6生ワイド](../Page/朝6生ワイド.md "wikilink") - 現在の熊谷明美担当の番組。
   - [ラジ魂](../Page/ラジ魂.md "wikilink")\!\! - 現在の大森俊治担当の番組。
 
 [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:STVラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:STVラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink")

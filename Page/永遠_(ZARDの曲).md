@@ -5,14 +5,14 @@
 
 ## 概要
 
-  - 表題曲は、当時の流行語にもなった[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[失楽園](https://ja.wikipedia.org/wiki/失楽園_\(渡辺淳一の小説\) "wikilink")』の主題歌。シングルCDジャケットの題字は、『失楽園』の作者である[渡辺淳一](../Page/渡辺淳一.md "wikilink")が[毛筆](https://ja.wikipedia.org/wiki/毛筆 "wikilink")による直筆で記したものである。
+  - 表題曲は、当時の流行語にもなった[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[失楽園](../Page/失楽園_\(渡辺淳一の小説\).md "wikilink")』の主題歌。シングルCDジャケットの題字は、『失楽園』の作者である[渡辺淳一](../Page/渡辺淳一.md "wikilink")が[毛筆](https://ja.wikipedia.org/wiki/毛筆 "wikilink")による直筆で記したものである。
   - 初登場1位となり、TOP10に6週ランクインするなどロングセラーとなった。
   - 「坂井さんなりの大人の恋愛を詞にしてほしい」と作者に言われ、何回か書き直して完成された。「テーマは秘めたる想ひ。タイトルの意味がより重く、深い意味で皆さんに伝われば」と言葉を残している\[1\]。
-  - 元々は[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")「[NEW EOS KISS](../Page/キヤノン_EOS_Kiss.md "wikilink")」[CMソングとして起用され](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")、「**Fallin' of the Rain**」（『[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")』（[千葉テレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）にてこの曲名で紹介）として[1996年](../Page/1996年.md "wikilink")中頃から、キヤノン提供の番組中に放映されていた。しかし『失楽園』の主題歌を担当することになり、キヤノンに了解を取り付け、改作しCD化することになった\[2\]。なお、CMでオンエアされたバージョンは『[ZARD BLEND II 〜LEAF\&SNOW〜](https://ja.wikipedia.org/wiki/ZARD_BLEND_II_〜LEAF&SNOW〜 "wikilink")』に「**永遠〜君と僕の間に〜**」として収録されている。
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")のZARDシングル初の表題作曲作であり、[イーグルス](https://ja.wikipedia.org/wiki/イーグルス "wikilink")の「[ホテルカリフォルニア](../Page/ホテル・カリフォルニア_\(曲\).md "wikilink")」にインスパイアされ作ったと述べている\[3\]。徳永の提供作での初めての大ヒット作となり、徳永が以降数々のZARD作品を手掛けるきっかけとなる。
+  - 元々は[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")「[NEW EOS KISS](../Page/キヤノン_EOS_Kiss.md "wikilink")」[CMソングとして起用され](../Page/コマーシャルソング.md "wikilink")、「**Fallin' of the Rain**」（『[CD NEWS](https://ja.wikipedia.org/wiki/CD_NEWS "wikilink")』（[千葉テレビ](../Page/千葉テレビ放送.md "wikilink")）にてこの曲名で紹介）として[1996年](../Page/1996年.md "wikilink")中頃から、キヤノン提供の番組中に放映されていた。しかし『失楽園』の主題歌を担当することになり、キヤノンに了解を取り付け、改作しCD化することになった\[2\]。なお、CMでオンエアされたバージョンは『[ZARD BLEND II 〜LEAF\&SNOW〜](https://ja.wikipedia.org/wiki/ZARD_BLEND_II_〜LEAF&SNOW〜 "wikilink")』に「**永遠〜君と僕の間に〜**」として収録されている。
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")のZARDシングル初の表題作曲作であり、[イーグルス](../Page/イーグルス.md "wikilink")の「[ホテルカリフォルニア](../Page/ホテル・カリフォルニア_\(曲\).md "wikilink")」にインスパイアされ作ったと述べている\[3\]。徳永の提供作での初めての大ヒット作となり、徳永が以降数々のZARD作品を手掛けるきっかけとなる。
   - 当時のエンジニアHarukaによると「めずらしくアレンジは一つしかなかったが、シングル、ベスト全部でバージョンが違い、目立つものは間奏以降がモノラルとステレオのものがある」\[4\]である。ミックスはマイケル・ブラウアーが担当した。
-  - PVは[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")のエルミラージ砂漠で撮影され、坂井が深紅のスーツ姿で[ポンティアック・GTO](../Page/ポンティアック・GTO.md "wikilink")を運転するシーンが見られる。[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』の第2次特典「show reel ver.03」と『[ZARD Le Portfolio 1991-2006](https://ja.wikipedia.org/wiki/ZARD_Le_Portfolio_1991-2006 "wikilink")』で視聴可能である。いずれも2番から最後までの映像となっていたが、2016年に発売されたミュージック・ビデオ集『[ZARD MUSIC VIDEO COLLECTION 〜25th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ZARD_MUSIC_VIDEO_COLLECTION_〜25th_ANNIVERSARY〜 "wikilink")』に初めてフルサイズで収録された。
-  - 初の全国ツアー『[What a beautiful moment](https://ja.wikipedia.org/wiki/What_a_beautiful_moment "wikilink")』のオープニングでは、PVで使用された映像と共に、「永遠 (What a beautiful moment Tour Opening Ver.)」と題した[インストとして使用された](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。後にこの音源は、38thシングル「[かけがえのないもの](https://ja.wikipedia.org/wiki/かけがえのないもの "wikilink")」のカップリングに収録された。
+  - PVは[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")のエルミラージ砂漠で撮影され、坂井が深紅のスーツ姿で[ポンティアック・GTO](../Page/ポンティアック・GTO.md "wikilink")を運転するシーンが見られる。[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』の第2次特典「show reel ver.03」と『[ZARD Le Portfolio 1991-2006](../Page/ZARD_Le_Portfolio_1991-2006.md "wikilink")』で視聴可能である。いずれも2番から最後までの映像となっていたが、2016年に発売されたミュージック・ビデオ集『[ZARD MUSIC VIDEO COLLECTION 〜25th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ZARD_MUSIC_VIDEO_COLLECTION_〜25th_ANNIVERSARY〜 "wikilink")』に初めてフルサイズで収録された。
+  - 初の全国ツアー『[What a beautiful moment](../Page/What_a_beautiful_moment.md "wikilink")』のオープニングでは、PVで使用された映像と共に、「永遠 (What a beautiful moment Tour Opening Ver.)」と題した[インストとして使用された](../Page/器楽曲.md "wikilink")。後にこの音源は、38thシングル「[かけがえのないもの](../Page/かけがえのないもの.md "wikilink")」のカップリングに収録された。
   - ベストアルバム『[ZARD BEST The Single Collection 〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜 "wikilink")』の第3次特典のENHANCED CD、ライブアルバム『[ZARD Cruising & Live 〜限定盤ライヴCD〜](../Page/ZARD_Cruising_&_Live_〜限定盤ライヴCD〜.md "wikilink")』のCD-ROMには英語詞バージョンが収録された。いずれも歌詞は未掲載だったが、『ZARD ALBUM COLLECTION 20th ANNIVERSARY』に収録され、初めて歌詞が掲載された。
   - 2007年に行われたファン投票では4位となり、ベストアルバム『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』にはライブバージョンが収録された。
 
@@ -20,12 +20,12 @@
 
 1.  **永遠**
       -
-        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       - コーラスに、MARY、SUZZY、MIKE WASHINGTONが参加。
 2.  **I can't let go**
       -
-        作詞：坂井泉水　作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")　編曲：[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
+        作詞：坂井泉水　作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲：[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
     <!-- end list -->
       - PVは「永遠」のメイキング映像が使用されている。
       - 編曲はZARDの楽曲では初めて古井弘人が手がけた。
@@ -50,7 +50,7 @@
 <!-- end list -->
 
   - [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink") - カバーアルバム『[続こううたう](https://ja.wikipedia.org/wiki/続こううたう "wikilink")』（2016年7月20日発売）に収録\[5\]
-  - [DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink") - カバーアルバム『Deing』（2018年12月5日発売）に収録
+  - [DAIGO](../Page/DAIGO.md "wikilink") - カバーアルバム『Deing』（2018年12月5日発売）に収録
 
 ## 脚注
 

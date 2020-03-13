@@ -3,11 +3,11 @@
 
 **PAPA B**（パパ・ビー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。本名、**高木 秀彰**。
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。[AWAKE SOUNDS](https://ja.wikipedia.org/wiki/AWAKE_SOUNDS "wikilink")（[Capitol Music](../Page/Capitol_Music.md "wikilink")）所属。以前は**PAPA BON**という名前だったが、2001年[ユニバーサルJからのメジャーデビューをきっかけに改名](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。日本のレゲエミュージシャンとしてはベテランの域に達した者として知られる。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。[AWAKE SOUNDS](https://ja.wikipedia.org/wiki/AWAKE_SOUNDS "wikilink")（[Capitol Music](../Page/Capitol_Music.md "wikilink")）所属。以前は**PAPA BON**という名前だったが、2001年[ユニバーサルJからのメジャーデビューをきっかけに改名](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。日本のレゲエミュージシャンとしてはベテランの域に達した者として知られる。
 
 ## 来歴
 
-1992年、オムニバス盤『HARD MAN FI DEAD』に収録された「DOGGER TALK」でデビュー。[ジャマイカ](../Page/ジャマイカ.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")などを中心に活動。 もともとは[パトワ](https://ja.wikipedia.org/wiki/パトワ "wikilink")で歌うスタイルであったが、1993年末から、日本語を中心にしたスタイルに転換。[V.I.P International](https://ja.wikipedia.org/wiki/V.I.P_International "wikilink")、[JAPjam INTERNATIONAL](https://ja.wikipedia.org/wiki/JAPjam_INTERNATIONAL "wikilink")、[CHINAMAN](https://ja.wikipedia.org/wiki/CHINAMAN "wikilink")、[JAH MATICなど数多くの](https://ja.wikipedia.org/wiki/JAH_MATIC "wikilink")[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")から立て続けに7インチシングルをリリースし、評判となる。 1998年には初のアルバム『SWORD MAN』をリリース。この頃より、活動拠点を完全に日本に移す。 2000年には、[MIGHTY CROWNがリリースした](https://ja.wikipedia.org/wiki/MIGHTY_CROWN "wikilink")[ミックステープ](https://ja.wikipedia.org/wiki/ミックステープ "wikilink")『LIFE STYLE』に収録された、[CHOZEN LEEとの](https://ja.wikipedia.org/wiki/CHOZEN_LEE "wikilink")[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")曲「生きてこそ」が話題を呼んだ(この曲は、後に別ミックスでシングル「MONEY CAN'T BUY」に収録された)。
+1992年、オムニバス盤『HARD MAN FI DEAD』に収録された「DOGGER TALK」でデビュー。[ジャマイカ](../Page/ジャマイカ.md "wikilink")、[ニューヨーク](../Page/ニューヨーク.md "wikilink")などを中心に活動。 もともとは[パトワ](../Page/パトワ.md "wikilink")で歌うスタイルであったが、1993年末から、日本語を中心にしたスタイルに転換。[V.I.P International](https://ja.wikipedia.org/wiki/V.I.P_International "wikilink")、[JAPjam INTERNATIONAL](https://ja.wikipedia.org/wiki/JAPjam_INTERNATIONAL "wikilink")、[CHINAMAN](https://ja.wikipedia.org/wiki/CHINAMAN "wikilink")、[JAH MATICなど数多くの](https://ja.wikipedia.org/wiki/JAH_MATIC "wikilink")[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")から立て続けに7インチシングルをリリースし、評判となる。 1998年には初のアルバム『SWORD MAN』をリリース。この頃より、活動拠点を完全に日本に移す。 2000年には、[MIGHTY CROWNがリリースした](https://ja.wikipedia.org/wiki/MIGHTY_CROWN "wikilink")[ミックステープ](https://ja.wikipedia.org/wiki/ミックステープ "wikilink")『LIFE STYLE』に収録された、[CHOZEN LEEとの](https://ja.wikipedia.org/wiki/CHOZEN_LEE "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")曲「生きてこそ」が話題を呼んだ(この曲は、後に別ミックスでシングル「MONEY CAN'T BUY」に収録された)。
 
 ## ディスコグラフィー
 
@@ -115,7 +115,7 @@ CCCD</p></td>
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>2006年5月17日</p></td>
-<td><p><strong>Life is Beautiful feat.<a href="https://ja.wikipedia.org/wiki/横山剣" title="wikilink">横山剣</a></strong></p></td>
+<td><p><strong>Life is Beautiful feat.<a href="../Page/横山剣.md" title="wikilink">横山剣</a></strong></p></td>
 <td><p>TOCT-5007</p></td>
 <td><ol>
 <li>Life is Beautiful</li>
@@ -438,7 +438,7 @@ CCCD</p></td>
   - [HOME GROWN](https://ja.wikipedia.org/wiki/HOME_GROWN "wikilink") feat. **PAPA B**「いざ ゆきな」
   - [HOME GROWN](https://ja.wikipedia.org/wiki/HOME_GROWN "wikilink") feat. **PAPA B**「Zoot Suits」
   - [餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")&**PAPA B**「破AH\!」
-  - [クレイジーケンバンド](https://ja.wikipedia.org/wiki/クレイジーケンバンド "wikilink")「ハマのアンバサダーw/FIRE BALL and PAPA B」
+  - [クレイジーケンバンド](../Page/クレイジーケンバンド.md "wikilink")「ハマのアンバサダーw/FIRE BALL and PAPA B」
   - [PUSHIM](https://ja.wikipedia.org/wiki/PUSHIM "wikilink")「雨のバンドネオン featuring PAPA B」
   - [Mighty Crown](https://ja.wikipedia.org/wiki/Mighty_Crown "wikilink"),[Fire Ball](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink"),PAPA B,[Guan Chai](https://ja.wikipedia.org/wiki/Guan_Chai "wikilink")「Dancehall Fiesta〜レゲエ祭のテーマ〜」（2004年7月28日）
   - [Reggae Disco Rockers](../Page/Reggae_Disco_Rockers.md "wikilink")「No Limit feat.PAPA-B」

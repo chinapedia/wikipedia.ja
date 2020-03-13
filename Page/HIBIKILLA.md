@@ -1,7 +1,7 @@
 > この記事は[HIBIKILLA](https://ja.wikipedia.org/wiki/HIBIKILLA)から翻訳されています。
 
 
-**HIBIKILLA**（ヒビキラー）（本名：**工藤響己**、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月14日](../Page/5月14日.md "wikilink") - ）は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[江別市](../Page/江別市.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[北海道大麻高等学校](https://ja.wikipedia.org/wiki/北海道大麻高等学校 "wikilink")、[立教大学](../Page/立教大学.md "wikilink")卒業。2006年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャーデビュー。
+**HIBIKILLA**（ヒビキラー）（本名：**工藤響己**、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月14日](../Page/5月14日.md "wikilink") - ）は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[江別市](../Page/江別市.md "wikilink")出身の[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")である。[北海道大麻高等学校](../Page/北海道大麻高等学校.md "wikilink")、[立教大学](../Page/立教大学.md "wikilink")卒業。2006年[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャーデビュー。
 
 ## ディスコグラフィー
 
@@ -18,7 +18,7 @@
     8.  ありえない
     9.  Five The 梁山泊 feat.[HAN-KUN](https://ja.wikipedia.org/wiki/HAN-KUN "wikilink"),[UZI](https://ja.wikipedia.org/wiki/UZI_\(ミュージシャン\) "wikilink"),[RUDEBWOY FACE](https://ja.wikipedia.org/wiki/RUDE_BOY_FACE "wikilink") and [AKTION](https://ja.wikipedia.org/wiki/AKTION "wikilink")
     10. Positive Vibes
-    11. 朝五時の太陽 feat.[KEN-U](https://ja.wikipedia.org/wiki/KEN-U "wikilink")
+    11. 朝五時の太陽 feat.[KEN-U](../Page/KEN-U.md "wikilink")
     12. History
     13. One Inna Million
     14. Give Iziz feat.TURBULENCE
@@ -27,7 +27,7 @@
 
   - 『濃厚民族』（2007年8月1日）
     1.  Intro 0:39
-    2.  あっぱれ\!JAPAN feat.[JUMBO MAATCH](https://ja.wikipedia.org/wiki/Mighty_Jam_Rock "wikilink") 3:23
+    2.  あっぱれ\!JAPAN feat.[JUMBO MAATCH](../Page/Mighty_Jam_Rock.md "wikilink") 3:23
     3.  Northern Light Bomb 2:59
     4.  My Number One 3:37
     5.  What's Cooking?feat.Everton Blender 4:42
@@ -196,7 +196,7 @@
 
 ### CM・タイアップ
 
-  - 「やりたいほうだい」[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")・[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")CMソング（2005年）
+  - 「やりたいほうだい」[ドワンゴ](../Page/ドワンゴ.md "wikilink")・[いろメロミックス](https://ja.wikipedia.org/wiki/いろメロミックス "wikilink")CMソング（2005年）
   - 「LIFE」[モヤモヤさまぁ〜ず2](../Page/モヤモヤさまぁ〜ず2.md "wikilink")エンディングテーマ（2010年3月）
 
 ## 外部リンク

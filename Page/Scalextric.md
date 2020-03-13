@@ -3,11 +3,11 @@
 
 [Scalextric1.jpg](https://ja.wikipedia.org/wiki/File:Scalextric1.jpg "fig:Scalextric1.jpg")
 
-**Scalextric** (スケーレックストリック) は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ホーンビィ](https://ja.wikipedia.org/wiki/ホーンビィ "wikilink")傘下の[スロットカー](https://ja.wikipedia.org/wiki/スロットカー "wikilink")ブランド。
+**Scalextric** (スケーレックストリック) は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ホーンビィ](https://ja.wikipedia.org/wiki/ホーンビィ "wikilink")傘下の[スロットカー](../Page/スロットカー.md "wikilink")ブランド。
 
 ## 概要
 
-[1957年](../Page/1957年.md "wikilink")に登場した[スロットカー](https://ja.wikipedia.org/wiki/スロットカー "wikilink")のブランドで、主に1/32スケールで展開している。当初はミニモデルズ社 (''Minimodels *) によって展開されていたが、後に買収や倒産を経て[鉄道模型](../Page/鉄道模型.md "wikilink")メーカーである[ホーンビィ](https://ja.wikipedia.org/wiki/ホーンビィ "wikilink") (*Hornby '') のスロットカーブランドとなった。一時期1/24スケールも手がけていた。
+[1957年](../Page/1957年.md "wikilink")に登場した[スロットカー](../Page/スロットカー.md "wikilink")のブランドで、主に1/32スケールで展開している。当初はミニモデルズ社 (''Minimodels *) によって展開されていたが、後に買収や倒産を経て[鉄道模型](../Page/鉄道模型.md "wikilink")メーカーである[ホーンビィ](https://ja.wikipedia.org/wiki/ホーンビィ "wikilink") (*Hornby '') のスロットカーブランドとなった。一時期1/24スケールも手がけていた。
 
 [2004年](../Page/2004年.md "wikilink")にデジタル式のレーンチェンジシステム「Sport」 (後述) を導入した。デジタル式車両はアナログ式コースを走行できるものの、アナログ式車両はデジタルキットを組み込まなければデジタル式コースでは使用できない。一部のアナログ製品では車体の大きさの都合上、デジタルキットを組み込むことが出来ないため注意が必要である。
 
@@ -19,9 +19,9 @@
 
 [1958年](../Page/1958年.md "wikilink")に[ラインズ・ブラザーズ](https://ja.wikipedia.org/wiki/ラインズ・ブラザーズ "wikilink")社 (''Lines Bros Ltd. *) に買収され、トライアング (*Tri-ang *) ブランド傘下のスロットカーブランドとなった。製造はハバントのミニモデルズ社の工場で続けられた。[1960年](../Page/1960年.md "wikilink")に車体がプラスチック製となり、[1963年](../Page/1963年.md "wikilink")にコースもプラスチック製に変更された。トライアングの販路に乗り、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")、[北米](https://ja.wikipedia.org/wiki/北米 "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")など世界中で展開された。[1967年](../Page/1967年.md "wikilink")にラインズブラザーズ社傘下の組織改編により、ミニモデルズ社はロベックス社 (*Rovex *) に吸収され、製造はハバントからロベックス社のマーゲート (*Margate *) 工場へ移された。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")にラインズ・ブラザーズ社のスロットカー部門がロベックス・トライアング社 (*Rovex Tri-ang Ltd. '') となった。
 
-[1967年](../Page/1967年.md "wikilink")、アメリカやヨーロッパ諸国で普及していた1/24スケールに参入したものの、同スケールにおいて出遅れたため売り上げが伸びず、コースも種類が少なかった。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")には撤退した。トライアングではスケーレックストリックとは別にミニック・モーターウェイ (''MINIC Motor Way '')と呼ばれる[ミニカーの走行システムを展開していたものの](https://ja.wikipedia.org/wiki/ミニカー_\(玩具\) "wikilink")、スロットカーに一本化するため[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")に終了した。
+[1967年](../Page/1967年.md "wikilink")、アメリカやヨーロッパ諸国で普及していた1/24スケールに参入したものの、同スケールにおいて出遅れたため売り上げが伸びず、コースも種類が少なかった。[1970年](../Page/1970年.md "wikilink")には撤退した。トライアングではスケーレックストリックとは別にミニック・モーターウェイ (''MINIC Motor Way '')と呼ばれる[ミニカーの走行システムを展開していたものの](../Page/ミニカー_\(玩具\).md "wikilink")、スロットカーに一本化するため[1970年](../Page/1970年.md "wikilink")に終了した。
 
-[1972年](../Page/1972年.md "wikilink")にラインズ・ブラザーズ社が倒産すると、ロベックス・トライアング社は複合企業体のDunbee Combex Marx (DCM) に買収された。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にDCMが倒産すると[マネジメント・バイアウト](https://ja.wikipedia.org/wiki/マネジメント・バイアウト "wikilink")により、「**ホーンビィ・ホビーズ**」 (''Hornby Hobbies Ltd. '') が設立された。[1980年代](../Page/1980年代.md "wikilink")から[1990年代](../Page/1990年代.md "wikilink")前半にかけてはスロットカー市場は低調であったものの、[1990年代](../Page/1990年代.md "wikilink")後半にスロットカーブームが起こり、1/64スケールにも参入した。[1990年代](../Page/1990年代.md "wikilink")には製造拠点がマーゲートからアジアに移された。
+[1972年](../Page/1972年.md "wikilink")にラインズ・ブラザーズ社が倒産すると、ロベックス・トライアング社は複合企業体のDunbee Combex Marx (DCM) に買収された。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")にDCMが倒産すると[マネジメント・バイアウト](../Page/マネジメント・バイアウト.md "wikilink")により、「**ホーンビィ・ホビーズ**」 (''Hornby Hobbies Ltd. '') が設立された。[1980年代](../Page/1980年代.md "wikilink")から[1990年代](../Page/1990年代.md "wikilink")前半にかけてはスロットカー市場は低調であったものの、[1990年代](../Page/1990年代.md "wikilink")後半にスロットカーブームが起こり、1/64スケールにも参入した。[1990年代](../Page/1990年代.md "wikilink")には製造拠点がマーゲートからアジアに移された。
 
 [2002年](../Page/2002年.md "wikilink")、デジタル式の「**Sport**」システムを導入することが発表され[2004年](../Page/2004年.md "wikilink")から発売された。このシステムによって、手元のコントローラーの操作のみで走行コースの変更が可能となった。従来のアナログ製品は「**Classic**」となった。
 
@@ -36,7 +36,7 @@
 ## 関連項目
 
   - [ホーンビィ](https://ja.wikipedia.org/wiki/ホーンビィ "wikilink")
-  - [スロットカー](https://ja.wikipedia.org/wiki/スロットカー "wikilink")
+  - [スロットカー](../Page/スロットカー.md "wikilink")
   - [スロットレーシング](../Page/スロットレーシング.md "wikilink")
   - [SCX](https://ja.wikipedia.org/wiki/SCX "wikilink")
   - [ラインズ・ブラザーズ](https://ja.wikipedia.org/wiki/ラインズ・ブラザーズ "wikilink")

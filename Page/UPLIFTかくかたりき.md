@@ -1,7 +1,7 @@
 > この記事は[UPLIFT](https://ja.wikipedia.org/wiki/UPLIFT)から翻訳されています。
 
 
-**UPLIFTかくかたりき**（アップリフトかくかたりき）は、[ショウゲート](https://ja.wikipedia.org/wiki/ショウゲート "wikilink")の提供するラジオ番組のプロモーションのための[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組（ファーストシーズン時は当時の社名の「東芝エンタテインメント」名義）。[キャララジオ](../Page/キャララジオ.md "wikilink")にて、ファーストシーズンが[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[11月17日](../Page/11月17日.md "wikilink")までの6週間限定で、毎週金曜日に配信された。約40分の番組。セカンドシーズンは[2007年](../Page/2007年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")から[7月6日](../Page/7月6日.md "wikilink")まで4週にわたって配信。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")からサードシーズンが開始されている。
+**UPLIFTかくかたりき**（アップリフトかくかたりき）は、[ショウゲート](https://ja.wikipedia.org/wiki/ショウゲート "wikilink")の提供するラジオ番組のプロモーションのための[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組（ファーストシーズン時は当時の社名の「東芝エンタテインメント」名義）。[キャララジオ](../Page/キャララジオ.md "wikilink")にて、ファーストシーズンが[2006年](../Page/2006年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[11月17日](../Page/11月17日.md "wikilink")までの6週間限定で、毎週金曜日に配信された。約40分の番組。セカンドシーズンは[2007年](../Page/2007年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")から[7月6日](../Page/7月6日.md "wikilink")まで4週にわたって配信。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月11日](../Page/1月11日.md "wikilink")からサードシーズンが開始されている。
 
 ## パーソナリティ
 
@@ -9,7 +9,7 @@
 
 ## ファーストシーズン
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[11月17日](../Page/11月17日.md "wikilink")まで配信。
+[2006年](../Page/2006年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[11月17日](../Page/11月17日.md "wikilink")まで配信。
 
 ### 第1週目
 
@@ -20,8 +20,8 @@
 
 **ゲスト**
 
-  - [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")（声優）
-  - [下屋則子](https://ja.wikipedia.org/wiki/下屋則子 "wikilink")（声優）
+  - [生天目仁美](../Page/生天目仁美.md "wikilink")（声優）
+  - [下屋則子](../Page/下屋則子.md "wikilink")（声優）
 
 **エピソード**
 
@@ -33,9 +33,9 @@
 
 **ゲスト**
 
-  - [佐藤利奈](https://ja.wikipedia.org/wiki/佐藤利奈 "wikilink")（声優）
+  - [佐藤利奈](../Page/佐藤利奈.md "wikilink")（声優）
   - [偽まる](../Page/川瀬浩平.md "wikilink")（プロデューサー）
-  - [水島努](https://ja.wikipedia.org/wiki/水島努 "wikilink")（監督）
+  - [水島努](../Page/水島努.md "wikilink")（監督）
 
 **エピソード**
 
@@ -65,8 +65,8 @@
 
 **ゲスト**
 
-  - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")（声優）
-  - [おかゆまさき](https://ja.wikipedia.org/wiki/おかゆまさき "wikilink")（原作者）
+  - [千葉紗子](../Page/千葉紗子.md "wikilink")（声優）
+  - [おかゆまさき](../Page/おかゆまさき.md "wikilink")（原作者）
 
 **エピソード**
 
@@ -85,8 +85,8 @@
 
 **ゲスト**
 
-  - [千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")（声優）
-  - [おかゆまさき](https://ja.wikipedia.org/wiki/おかゆまさき "wikilink")（原作者）
+  - [千葉紗子](../Page/千葉紗子.md "wikilink")（声優）
+  - [おかゆまさき](../Page/おかゆまさき.md "wikilink")（原作者）
 
 **エピソード**
 
@@ -105,7 +105,7 @@
 
 **エピソード**
 
-  - UPLIFTひとり語りの番組は、「[中原小麦のまじかるナースステーション](https://ja.wikipedia.org/wiki/中原小麦のまじかるナースステーション "wikilink")24時間スペシャル」内の番組「UPLIFTの今日はここまで」以来だが、奇しくも収録したのは同じスタジオだった。
+  - UPLIFTひとり語りの番組は、「[中原小麦のまじかるナースステーション](../Page/中原小麦のまじかるナースステーション.md "wikilink")24時間スペシャル」内の番組「UPLIFTの今日はここまで」以来だが、奇しくも収録したのは同じスタジオだった。
 
 ## セカンドシーズン
 
@@ -115,11 +115,11 @@
 
 **関連番組**
 
-  - [デビルメイクライ](https://ja.wikipedia.org/wiki/デビルメイクライシリーズ "wikilink")
+  - [デビルメイクライ](../Page/デビルメイクライシリーズ.md "wikilink")
 
 **ゲスト**
 
-  - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+  - [森川智之](../Page/森川智之.md "wikilink")
 
 **エピソード**
 
@@ -150,7 +150,7 @@
 
   - [斉藤友里子](https://ja.wikipedia.org/wiki/斉藤友里子 "wikilink")（[ロフトプラスワン](https://ja.wikipedia.org/wiki/ロフトプラスワン "wikilink") プロデューサー）
 
-**エピソード** [7月6日](../Page/7月6日.md "wikilink")配信分は[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")制作の「遠藤正明/きただにひろしの 漢二人でやってます」との2番組並行配信。
+**エピソード** [7月6日](../Page/7月6日.md "wikilink")配信分は[ランティス](../Page/ランティス.md "wikilink")制作の「遠藤正明/きただにひろしの 漢二人でやってます」との2番組並行配信。
 
 ## サードシーズン
 
@@ -164,7 +164,7 @@
 
 **ゲスト**
 
-  - [喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")
+  - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
   - [明坂聡美](../Page/明坂聡美.md "wikilink")
 
 **エピソード**
@@ -173,7 +173,7 @@
 
 **パーソナリティー**
 
-  - [喜多村英梨](https://ja.wikipedia.org/wiki/喜多村英梨 "wikilink")
+  - [喜多村英梨](../Page/喜多村英梨.md "wikilink")
   - [明坂聡美](../Page/明坂聡美.md "wikilink")
 
 **エピソード**

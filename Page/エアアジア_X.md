@@ -7,15 +7,15 @@
 
 ### フライ・アジアン・エクスプレス
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")の経営再建の為、国内ローカル路線96路線が[エアアジア](https://ja.wikipedia.org/wiki/エアアジア "wikilink")に移管された。[ボルネオ島](../Page/ボルネオ島.md "wikilink")の[サラワク州](https://ja.wikipedia.org/wiki/サラワク州 "wikilink")及び[サバ州](https://ja.wikipedia.org/wiki/サバ州 "wikilink")のローカル路線の運航の再委託先として、同年8月1日に**フライ・アジアン・エクスプレス** (Fly Asian Xpress Sdn Bhd, FAX)が設立され、約40路線が運航されていた。
+[2006年](../Page/2006年.md "wikilink")、[マレーシア航空](https://ja.wikipedia.org/wiki/マレーシア航空 "wikilink")の経営再建の為、国内ローカル路線96路線が[エアアジア](https://ja.wikipedia.org/wiki/エアアジア "wikilink")に移管された。[ボルネオ島](../Page/ボルネオ島.md "wikilink")の[サラワク州](../Page/サラワク州.md "wikilink")及び[サバ州](../Page/サバ州.md "wikilink")のローカル路線の運航の再委託先として、同年8月1日に**フライ・アジアン・エクスプレス** (Fly Asian Xpress Sdn Bhd, FAX)が設立され、約40路線が運航されていた。
 
-[2007年](../Page/2007年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")、エアアジア[CEOのトニー](https://ja.wikipedia.org/wiki/最高経営責任者 "wikilink")・フェルナンデスが、同社の運航する路線を[ファイアフライへ移管させる提案をした](../Page/ファイアフライ_\(航空会社\).md "wikilink")。同年[9月30日](../Page/9月30日.md "wikilink")、フライ・アジアン・エクスプレスは全ての路線の運航を終了した。翌[10月1日](../Page/10月1日.md "wikilink")よりマレーシア航空が設立した子会社、**[MASwings](../Page/MASwings.md "wikilink")** が全ての路線を引き継いだ\[1\] \[2\]。
+[2007年](../Page/2007年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")、エアアジア[CEOのトニー](../Page/最高経営責任者.md "wikilink")・フェルナンデスが、同社の運航する路線を[ファイアフライへ移管させる提案をした](../Page/ファイアフライ_\(航空会社\).md "wikilink")。同年[9月30日](../Page/9月30日.md "wikilink")、フライ・アジアン・エクスプレスは全ての路線の運航を終了した。翌[10月1日](../Page/10月1日.md "wikilink")よりマレーシア航空が設立した子会社、**[MASwings](../Page/MASwings.md "wikilink")** が全ての路線を引き継いだ\[1\] \[2\]。
 
-2007年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、社名を**AirAsia X Sdn Bhd**へと変更した。名前の由来は日本の有名ロックバンド[X JAPANから取ったとエアアジア](../Page/X_JAPAN.md "wikilink")[CEOのトニー](https://ja.wikipedia.org/wiki/最高経営責任者 "wikilink")・フェルナンデスが明かしている\[3\]。
+2007年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、社名を**AirAsia X Sdn Bhd**へと変更した。名前の由来は日本の有名ロックバンド[X JAPANから取ったとエアアジア](../Page/X_JAPAN.md "wikilink")[CEOのトニー](../Page/最高経営責任者.md "wikilink")・フェルナンデスが明かしている\[3\]。
 
 ### エアアジア X
 
-2007年[1月5日](../Page/1月5日.md "wikilink")、「**AirAsia X**」のブランド名で、国際長距離路線に参入すると発表した。2007年[8月](../Page/8月.md "wikilink")、[ヴァージン・グループ](https://ja.wikipedia.org/wiki/ヴァージン・グループ "wikilink")が20[%の株式を取得](../Page/パーセント記号.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[オリックスが](../Page/オリックス_\(企業\).md "wikilink")10%の株式を取得した\[4\]。[A340](https://ja.wikipedia.org/wiki/A340 "wikilink")型機退役以降は[A330](https://ja.wikipedia.org/wiki/A330 "wikilink")シリーズのみで運航していて、2018年以降、2015年に発注した[A330neo](https://ja.wikipedia.org/wiki/A330#旅客型の派生型とA330neoの開発 "wikilink")、[A350](https://ja.wikipedia.org/wiki/A350 "wikilink")型機の導入予定。
+2007年[1月5日](../Page/1月5日.md "wikilink")、「**AirAsia X**」のブランド名で、国際長距離路線に参入すると発表した。2007年[8月](../Page/8月.md "wikilink")、[ヴァージン・グループ](../Page/ヴァージン・グループ.md "wikilink")が20[%の株式を取得](../Page/パーセント記号.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、[オリックスが](../Page/オリックス_\(企業\).md "wikilink")10%の株式を取得した\[4\]。[A340](https://ja.wikipedia.org/wiki/A340 "wikilink")型機退役以降は[A330](https://ja.wikipedia.org/wiki/A330 "wikilink")シリーズのみで運航していて、2018年以降、2015年に発注した[A330neo](https://ja.wikipedia.org/wiki/A330#旅客型の派生型とA330neoの開発 "wikilink")、[A350](https://ja.wikipedia.org/wiki/A350 "wikilink")型機の導入予定。
 
 しかし、[2012年](../Page/2012年.md "wikilink")3月以降インド、ヨーロッパの税制や燃料費の高騰からロンドン線等のヨーロッパ線や中東線を運休した\[5\]。
 
@@ -23,7 +23,7 @@
 
 ## 保有機材
 
-  - [エアバスA330](https://ja.wikipedia.org/wiki/エアバスA330 "wikilink")-300型機（C12/Y365）： 24 機\[8\]\[9\]（エコノミークラスが3-3-3[アブレスト](https://ja.wikipedia.org/wiki/アブレスト "wikilink")（9席）であり、通常より座席数が多い\[10\]）
+  - [エアバスA330](../Page/エアバスA330.md "wikilink")-300型機（C12/Y365）： 24 機\[8\]\[9\]（エコノミークラスが3-3-3[アブレスト](https://ja.wikipedia.org/wiki/アブレスト "wikilink")（9席）であり、通常より座席数が多い\[10\]）
 
 <!-- end list -->
 
@@ -101,10 +101,10 @@
 <td><p><a href="../Page/西安市.md" title="wikilink">西安</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/武漢市" title="wikilink">武漢</a></p></td>
+<td><p><a href="../Page/武漢市.md" title="wikilink">武漢</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/長沙市" title="wikilink">長沙</a></p></td>
+<td><p><a href="../Page/長沙市.md" title="wikilink">長沙</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -128,7 +128,7 @@
 <td><p><a href="../Page/ジャイプル.md" title="wikilink">ジャイプール</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アムリトサル" title="wikilink">アムリトサル</a></p></td>
+<td><p><a href="../Page/アムリトサル.md" title="wikilink">アムリトサル</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -143,10 +143,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/メルボルン" title="wikilink">メルボルン</a></p></td>
+<td><p><a href="../Page/メルボルン.md" title="wikilink">メルボルン</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/パース_(西オーストラリア州)" title="wikilink">パース</a></p></td>
+<td><p><a href="../Page/パース_(西オーストラリア州).md" title="wikilink">パース</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ゴールドコースト_(クイーンズランド州).md" title="wikilink">ゴールドコースト</a></p></td>
@@ -220,7 +220,7 @@
 
 #### 日本
 
-日本への就航は2008年末を予定していたが、先延ばしとなっていた。2010年12月9日、エアアジア Xは正式にクアラルンプール-東京/羽田線を就航開始\[18\]。就航記念として、座席数限定で本体価格片道99[リンギット](https://ja.wikipedia.org/wiki/リンギット "wikilink")、5,000[円の航空券がインターネット販売された](../Page/円_\(通貨\).md "wikilink")。2011年11月30日に大阪/関西、2014年3月17日に名古屋/中部にそれぞれ就航開始\[19\]。さらに同年11月21日から東京/成田に就航開始。しかし名古屋/中部線は2015年2月14日をもって\[20\]、東京/成田線は8月19日をもってそれぞれ運休となったが\[21\]、2019年11月20日に成田線に再就航予定\[22\]。2019年2月28日に、[福岡](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")－クアラルンプール線を週4便で就航\[23\]。 2017年6月28日から以遠権行使し、クアラルンプール/関西/ホノルルに就航し、北米乗り入れも開始した。
+日本への就航は2008年末を予定していたが、先延ばしとなっていた。2010年12月9日、エアアジア Xは正式にクアラルンプール-東京/羽田線を就航開始\[18\]。就航記念として、座席数限定で本体価格片道99[リンギット](../Page/リンギット.md "wikilink")、5,000[円の航空券がインターネット販売された](../Page/円_\(通貨\).md "wikilink")。2011年11月30日に大阪/関西、2014年3月17日に名古屋/中部にそれぞれ就航開始\[19\]。さらに同年11月21日から東京/成田に就航開始。しかし名古屋/中部線は2015年2月14日をもって\[20\]、東京/成田線は8月19日をもってそれぞれ運休となったが\[21\]、2019年11月20日に成田線に再就航予定\[22\]。2019年2月28日に、[福岡](https://ja.wikipedia.org/wiki/福岡空港 "wikilink")－クアラルンプール線を週4便で就航\[23\]。 2017年6月28日から以遠権行使し、クアラルンプール/関西/ホノルルに就航し、北米乗り入れも開始した。
 
 ## サービス
 
@@ -228,8 +228,8 @@
   - 預け手荷物は30リンギットから
   - [機内食](../Page/機内食.md "wikilink")は有償で販売される。事前予約も可能であり、[マレーシア料理](https://ja.wikipedia.org/wiki/マレーシア料理 "wikilink")、[多国籍料理](https://ja.wikipedia.org/wiki/多国籍料理 "wikilink")、ベジタリアン料理、子供向け料理等から選択可能である\[25\]。
   - 毛布、枕、アイマスクのセットを航空券予約時に購入できるほか、機内販売している\[26\]。
-  - ビデオ、オーディオなどが利用できる[タブレットを有償で貸し出している](https://ja.wikipedia.org/wiki/タブレット_\(コンピュータ\) "wikilink")\[27\]。
-  - プレミアムフラットベッド\[28\] という、[ビジネスクラス](https://ja.wikipedia.org/wiki/ビジネスクラス "wikilink")相当のサービスがあり、座席はライフラットのベッドになる。事前座席指定、優先チェックイン、ラウンジの利用\[29\]、優先搭乗、機内食、枕と毛布のレンタル、優先入国審査\[30\]、機内預け荷物の優先等のサービスがある。料金はエコノミーの約2-3倍である。
+  - ビデオ、オーディオなどが利用できる[タブレットを有償で貸し出している](../Page/タブレット_\(コンピュータ\).md "wikilink")\[27\]。
+  - プレミアムフラットベッド\[28\] という、[ビジネスクラス](../Page/ビジネスクラス.md "wikilink")相当のサービスがあり、座席はライフラットのベッドになる。事前座席指定、優先チェックイン、ラウンジの利用\[29\]、優先搭乗、機内食、枕と毛布のレンタル、優先入国審査\[30\]、機内預け荷物の優先等のサービスがある。料金はエコノミーの約2-3倍である。
   - 2011年5月3日以降の予約については燃油サーチャージを徴収している\[31\]。
   - [Optiontown](https://www.optiontown.com) と提携しており、直前の空席状況に応じて、座席のアップグレード(UTo)、隣席を空席にするサービス(ESo)を割引手数料で利用できる\[32\]。
 

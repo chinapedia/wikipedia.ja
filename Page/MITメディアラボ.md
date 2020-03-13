@@ -7,7 +7,7 @@
 
 ## 運営
 
-[2011年](../Page/2011年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")、[伊藤穰一](https://ja.wikipedia.org/wiki/伊藤穰一 "wikilink")が、**MITメディアラボ**の第4代所長に選出された（2019年9月7日に不祥事の責任をとり辞任\[2\]）。前任はコンピューター研究者の[フランク・モス](https://ja.wikipedia.org/wiki/フランク・モス "wikilink")が同研究所所長であった。（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")～2011年）
+[2011年](../Page/2011年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")、[伊藤穰一](../Page/伊藤穰一.md "wikilink")が、**MITメディアラボ**の第4代所長に選出された（2019年9月7日に不祥事の責任をとり辞任\[2\]）。前任はコンピューター研究者の[フランク・モス](https://ja.wikipedia.org/wiki/フランク・モス "wikilink")が同研究所所長であった。（[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")～2011年）
 
 MITメディアラボには約70人の運営管理スタッフと支援スタッフがいる。 副所長として、[石井裕とAndrew](../Page/石井裕_\(コンピューター研究者\).md "wikilink") Lippmanがいる。
 
@@ -39,7 +39,7 @@ MITメディアラボには約70人の運営管理スタッフと支援スタッ
 
 ## 建物
 
-[2009年](../Page/2009年.md "wikilink")、メディアラボは、[プリツカー賞](../Page/プリツカー賞.md "wikilink")の受賞経験がある日本人建築家、[槇文彦](https://ja.wikipedia.org/wiki/槇文彦 "wikilink")によって設計された新しい建物に移転した\[3\]。
+[2009年](../Page/2009年.md "wikilink")、メディアラボは、[プリツカー賞](../Page/プリツカー賞.md "wikilink")の受賞経験がある日本人建築家、[槇文彦](../Page/槇文彦.md "wikilink")によって設計された新しい建物に移転した\[3\]。
 
 当初のWiesnerビル（E15）と新しいビル（E14）の組み合わせには、メディアラボ以外にも「List Visual Arts Center」、「School of Architecture and Planning's Program in Art」、「ACT（Culture and Technology）」、「Comparative Media Studies」におけるMITのプログラムが収容されている。
 

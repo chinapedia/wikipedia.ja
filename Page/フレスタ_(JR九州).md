@@ -1,9 +1,9 @@
 > この記事は[ \(JR\)](https://ja.wikipedia.org/wiki/_\(JR\))から翻訳されています。
 
 
-**フレスタ**（FRIESTA）は、かつて存在した[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）系列の駅ビル型[複合商業施設](https://ja.wikipedia.org/wiki/複合商業施設 "wikilink")である。 [2014年](../Page/2014年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")に、フレスタSASEBOを除く11施設 が**[えきマチ1丁目](https://ja.wikipedia.org/wiki/えきマチ1丁目 "wikilink")**に名称変更\[1\]\[2\]。同年11月1日にはフレスタSASEBOも[えきマチ1丁目佐世保](../Page/えきマチ1丁目佐世保.md "wikilink")になり\[3\]、フレスタという名称は消滅した。
+**フレスタ**（FRIESTA）は、かつて存在した[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）系列の駅ビル型[複合商業施設](../Page/複合商業施設.md "wikilink")である。 [2014年](../Page/2014年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")に、フレスタSASEBOを除く11施設 が**[えきマチ1丁目](https://ja.wikipedia.org/wiki/えきマチ1丁目 "wikilink")**に名称変更\[1\]\[2\]。同年11月1日にはフレスタSASEBOも[えきマチ1丁目佐世保](../Page/えきマチ1丁目佐世保.md "wikilink")になり\[3\]、フレスタという名称は消滅した。
 
-同系列の複合商業施設には「[アミュプラザ](https://ja.wikipedia.org/wiki/アミュプラザ "wikilink")」などがあるが、フレスタはアミュプラザよりも小規模なものが多かった。JR九州の子会社である[JR九州ビルマネジメント](https://ja.wikipedia.org/wiki/JR九州ビルマネジメント "wikilink")株式会社が経営していた。
+同系列の複合商業施設には「[アミュプラザ](../Page/アミュプラザ.md "wikilink")」などがあるが、フレスタはアミュプラザよりも小規模なものが多かった。JR九州の子会社である[JR九州ビルマネジメント](https://ja.wikipedia.org/wiki/JR九州ビルマネジメント "wikilink")株式会社が経営していた。
 
 ## 主な施設
 
@@ -44,7 +44,7 @@
   - [駅ナカ](../Page/駅ナカ.md "wikilink")
   - [えきマチ1丁目](https://ja.wikipedia.org/wiki/えきマチ1丁目 "wikilink")
   - [デイトス](../Page/デイトス.md "wikilink")
-  - [アミュプラザ](https://ja.wikipedia.org/wiki/アミュプラザ "wikilink")
+  - [アミュプラザ](../Page/アミュプラザ.md "wikilink")
 
 ## 外部リンク
 

@@ -16,7 +16,7 @@
 <!-- end list -->
 
   -
-    1999年シーズンの500ccクラスを再現。収録サーキット数は5（[ツインリンクもてぎ](https://ja.wikipedia.org/wiki/ツインリンクもてぎ "wikilink")、[ドニントン・サーキットが追加](https://ja.wikipedia.org/wiki/ドニントン・パーク "wikilink")）。
+    1999年シーズンの500ccクラスを再現。収録サーキット数は5（[ツインリンクもてぎ](../Page/ツインリンクもてぎ.md "wikilink")、[ドニントン・サーキットが追加](../Page/ドニントン・パーク.md "wikilink")）。
     1999年に同社がリリースした『500GP』のリメイク移植。移植に当たって上記コースの他、隠しキャラクターや実際のプレス写真の収集要素が追加。
     細かな点では『500GP』では完全に再現されていなかった鈴鹿サーキットのシケインが、実際のシケインと同様の形状に変更されている。
 
@@ -27,7 +27,7 @@
 <!-- end list -->
 
   -
-    2000年シーズンの500ccクラスを再現。収録サーキット数は10（[ブガッティ・サーキット](../Page/ブガッティ・サーキット.md "wikilink")、[ムジェロ・サーキット](../Page/ムジェロ・サーキット.md "wikilink")、[カタロニア・サーキット](https://ja.wikipedia.org/wiki/カタロニア・サーキット "wikilink")、[TTサーキット・アッセン](../Page/TTサーキット・アッセン.md "wikilink")、[ザクセンリンク](../Page/ザクセンリンク.md "wikilink")が追加）。
+    2000年シーズンの500ccクラスを再現。収録サーキット数は10（[ブガッティ・サーキット](../Page/ブガッティ・サーキット.md "wikilink")、[ムジェロ・サーキット](../Page/ムジェロ・サーキット.md "wikilink")、[カタロニア・サーキット](../Page/カタロニア・サーキット.md "wikilink")、[TTサーキット・アッセン](../Page/TTサーキット・アッセン.md "wikilink")、[ザクセンリンク](../Page/ザクセンリンク.md "wikilink")が追加）。
     新たな要素として、レインコンディションとなる雨が追加された他、[ケニー・ロバーツ](../Page/ケニー・ロバーツ.md "wikilink")等の往年のGPライダー5人がライバルとして登場する「レジェンズモード」が追加（「レジェンズモード」以外でも往年のGPライダーは使用可能）。
 
 <!-- end list -->
@@ -37,7 +37,7 @@
 <!-- end list -->
 
   -
-    2002年シーズンのMotoGPクラスを再現。収録サーキット数は15（[ブルノ・サーキット](../Page/ブルノ・サーキット.md "wikilink")、[エストリル・サーキット](https://ja.wikipedia.org/wiki/エストリル・サーキット "wikilink")、[セパン・インターナショナル・サーキット](https://ja.wikipedia.org/wiki/セパン・インターナショナル・サーキット "wikilink")、[フィリップ・アイランド・サーキット](../Page/フィリップ・アイランド・サーキット.md "wikilink")、バレンシア・サーキットが追加）。
+    2002年シーズンのMotoGPクラスを再現。収録サーキット数は15（[ブルノ・サーキット](../Page/ブルノ・サーキット.md "wikilink")、[エストリル・サーキット](../Page/エストリル・サーキット.md "wikilink")、[セパン・インターナショナル・サーキット](../Page/セパン・インターナショナル・サーキット.md "wikilink")、[フィリップ・アイランド・サーキット](../Page/フィリップ・アイランド・サーキット.md "wikilink")、バレンシア・サーキットが追加）。
     新たな要素として、マルチタップを用いた4人画面分割対戦、ブレーキアシスト機能が追加。本作のみの要素として、バイクのハンドル周りを写す「コックピットビュー」が存在する。本作から使用媒体が[CDから](../Page/コンパクトディスク.md "wikilink")[DVD](../Page/DVD.md "wikilink")となった。
 
 <!-- end list -->
@@ -59,7 +59,7 @@
   -
     2007年シーズンのMotoGPクラスを再現。収録サーキット数は18。
 
-## [PSP版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")
+## [PSP版](../Page/PlayStation_Portable.md "wikilink")
 
 [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")レーベルから発売。
 
@@ -85,7 +85,7 @@
 <!-- end list -->
 
   -
-    [THQ](https://ja.wikipedia.org/wiki/THQ "wikilink")による[Windows版の移植](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
+    [THQ](../Page/THQ.md "wikilink")による[Windows版の移植](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
 ## [Xbox 360版](../Page/Xbox_360.md "wikilink")
 
@@ -99,7 +99,7 @@
 
 ## [Windows対応](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 
-[THQ](https://ja.wikipedia.org/wiki/THQ "wikilink") から発売。
+[THQ](../Page/THQ.md "wikilink") から発売。
 
   - MotoGP：Ultimate Racing Technology
   - MotoGP：Ultimate Racing Technology 2
@@ -114,11 +114,11 @@
   -
     ナムコよりリリースされた、MotoGPより前の最高峰クラスであった1998年シーズンのGP500クラスを再現した[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。使用基板は[SYSTEM SUPER 23](https://ja.wikipedia.org/wiki/SYSTEM23 "wikilink")。
     筐体はデラックス、スタンダード、ミニの3種類が存在し、日本ではデラックス筐体のみが稼動。いずれも1人用筐体のみだが、筐体を連結することにより最大4人までの対戦が可能。
-    [ミック・ドゥーハンの](https://ja.wikipedia.org/wiki/マイケル・ドゥーハン "wikilink")[ホンダ・NSR500](../Page/ホンダ・NSR500.md "wikilink")（[レプソル・ホンダ](https://ja.wikipedia.org/wiki/レプソル・ホンダ "wikilink")）、[阿部典史](../Page/阿部典史.md "wikilink")の[ヤマハ・YZR500](https://ja.wikipedia.org/wiki/ヤマハ・YZR500 "wikilink")（ヤマハチーム・レイニー）、[青木宣篤](../Page/青木宣篤.md "wikilink")の[スズキ・RGV-Γ500](../Page/スズキ・RGV-Γ500.md "wikilink")（[スズキ・グランプリ・チーム](https://ja.wikipedia.org/wiki/スズキ・MotoGP "wikilink")）を実物大で精巧に再現したバイクに跨りゲームをプレイする。
+    [ミック・ドゥーハンの](../Page/マイケル・ドゥーハン.md "wikilink")[ホンダ・NSR500](../Page/ホンダ・NSR500.md "wikilink")（[レプソル・ホンダ](https://ja.wikipedia.org/wiki/レプソル・ホンダ "wikilink")）、[阿部典史](../Page/阿部典史.md "wikilink")の[ヤマハ・YZR500](../Page/ヤマハ・YZR500.md "wikilink")（ヤマハチーム・レイニー）、[青木宣篤](../Page/青木宣篤.md "wikilink")の[スズキ・RGV-Γ500](../Page/スズキ・RGV-Γ500.md "wikilink")（[スズキ・グランプリ・チーム](https://ja.wikipedia.org/wiki/スズキ・MotoGP "wikilink")）を実物大で精巧に再現したバイクに跨りゲームをプレイする。
     これらのバイクにはセンサーが搭載されており、プレイヤーがバイクに伏せ込むと、空気抵抗が減り直線での最高速が上がるという、実際のGPライダーが行っている行為が再現されていた。
     全17台でレースする通常モードの他に、筐体内に記録されている最速プレイヤーや開発スタッフ、開発に協力した[青木三兄弟](https://ja.wikipedia.org/wiki/青木三兄弟 "wikilink")のゴーストとタイムを競うタイムアタックモードが存在。
     マシン選択時に隠しコマンドを入力すると実在選手を選択してプレイできる、対戦モード以外のモードではスタート前にクレジットを投入する事でラップ数を最大20周まで増やせるといった要素もあった。
-    収録サーキット数は3（[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")、[ポール・リカール・サーキット](https://ja.wikipedia.org/wiki/ポール・リカール・サーキット "wikilink")、[ヘレス・サーキット](https://ja.wikipedia.org/wiki/ヘレス・サーキット "wikilink")）。うち鈴鹿サーキットは最終コーナー手前のシケイン形状が非常に緩く、完全に再現が成されていない。
+    収録サーキット数は3（[鈴鹿サーキット](../Page/鈴鹿サーキット.md "wikilink")、[ポール・リカール・サーキット](../Page/ポール・リカール・サーキット.md "wikilink")、[ヘレス・サーキット](../Page/ヘレス・サーキット.md "wikilink")）。うち鈴鹿サーキットは最終コーナー手前のシケイン形状が非常に緩く、完全に再現が成されていない。
     ナムコのPS2版『MotoGP』はこの『500GP』のリメイク移植である。
 
 <!-- end list -->

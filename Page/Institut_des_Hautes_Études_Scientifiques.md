@@ -5,9 +5,9 @@
 
 ## 概要
 
-[1958年](../Page/1958年.md "wikilink")に[レオン・モチャーン](https://ja.wikipedia.org/wiki/レオン・モチャーン "wikilink")により設立された。同年に[グロタンディークと](../Page/アレクサンドル・グロタンディーク.md "wikilink")[デュドネが教授として選任された](../Page/ジャン・デュドネ.md "wikilink")。その後、グロタンディークは[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")に研究所に軍からの資金援助があることを知ったことから、研究所を去ることになった。
+[1958年](../Page/1958年.md "wikilink")に[レオン・モチャーン](https://ja.wikipedia.org/wiki/レオン・モチャーン "wikilink")により設立された。同年に[グロタンディークと](../Page/アレクサンドル・グロタンディーク.md "wikilink")[デュドネが教授として選任された](../Page/ジャン・デュドネ.md "wikilink")。その後、グロタンディークは[1970年](../Page/1970年.md "wikilink")に研究所に軍からの資金援助があることを知ったことから、研究所を去ることになった。
 
-[プリンストン高等研究所](../Page/プリンストン高等研究所.md "wikilink")と並ぶ数学の研究所として有名で、現在までにI.H.É.S.に所属していた[フィールズ賞](../Page/フィールズ賞.md "wikilink")受賞者は[トム](../Page/ルネ・トム.md "wikilink")、グロタンディーク、[ドリーニュ](../Page/ピエール・ルネ・ドリーニュ.md "wikilink")、[コンヌ](https://ja.wikipedia.org/wiki/アラン・コンヌ "wikilink")、[ブルガン](https://ja.wikipedia.org/wiki/ジャン・ブルガン "wikilink")、[コンツェビッチ](../Page/マキシム・コンツェビッチ.md "wikilink")、[ラフォルグで合計](https://ja.wikipedia.org/wiki/ローラン・ラフォルグ "wikilink")7人いる。
+[プリンストン高等研究所](../Page/プリンストン高等研究所.md "wikilink")と並ぶ数学の研究所として有名で、現在までにI.H.É.S.に所属していた[フィールズ賞](../Page/フィールズ賞.md "wikilink")受賞者は[トム](../Page/ルネ・トム.md "wikilink")、グロタンディーク、[ドリーニュ](../Page/ピエール・ルネ・ドリーニュ.md "wikilink")、[コンヌ](../Page/アラン・コンヌ.md "wikilink")、[ブルガン](../Page/ジャン・ブルガン.md "wikilink")、[コンツェビッチ](../Page/マキシム・コンツェビッチ.md "wikilink")、[ラフォルグで合計](../Page/ローラン・ラフォルグ.md "wikilink")7人いる。
 
 ## 歴代所長
 
@@ -21,11 +21,11 @@
   - 数学
       - [ミハイル・グロモフ](../Page/ミハイル・グロモフ.md "wikilink") (Mikhail Gromov)
       - [マキシム・コンツェビッチ](../Page/マキシム・コンツェビッチ.md "wikilink") (Maxim Kontsevich)
-      - [ローラン・ラフォルグ](https://ja.wikipedia.org/wiki/ローラン・ラフォルグ "wikilink") (Laurent Lafforgue)
+      - [ローラン・ラフォルグ](../Page/ローラン・ラフォルグ.md "wikilink") (Laurent Lafforgue)
   - 物理学
       - [チボー・ダムール](https://ja.wikipedia.org/wiki/チボー・ダムール "wikilink") (Thibault Damour)
       - [ニキータ・ネクラソフ](https://ja.wikipedia.org/wiki/ニキータ・ネクラソフ "wikilink") (Nikita Nekrasov)
-  - レオン・モチャーン教授 [アラン・コンヌ](https://ja.wikipedia.org/wiki/アラン・コンヌ "wikilink") (Alain Connes)
+  - レオン・モチャーン教授 [アラン・コンヌ](../Page/アラン・コンヌ.md "wikilink") (Alain Connes)
   - [ダヴィッド・ルエール](../Page/ダヴィッド・ルエール.md "wikilink")名誉教授 (David Ruelle)
   - [ルイ・ミシェル](https://ja.wikipedia.org/wiki/ルイ・ミシェル "wikilink")教授
       - [マイケル・R・ダグラス](https://ja.wikipedia.org/wiki/マイケル・R・ダグラス "wikilink") (Michael R. Douglas)

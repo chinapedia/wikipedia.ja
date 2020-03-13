@@ -48,7 +48,7 @@
   - [1994年](../Page/1994年.md "wikilink")（平成6年）11月 - 三井造船鉄構工事株式会社（現三井造船鉄構エンジニアリング株式会社）と共同で三造リフレ株式会社を設立。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）3月 - 株式会社エム・ディー特機（現三井造船マシナリー・サービス株式会社）を設立。
   - 1995年（平成7年）9月 - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のBabcock Energy Limited（後のMitsui Babcock Energy Limited）を買収。
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）7月 - 日本初のキルン式[ガス化溶融炉](https://ja.wikipedia.org/wiki/ガス化溶融炉 "wikilink")を福岡県八女西部広域事務組合から受注。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）7月 - 日本初のキルン式[ガス化溶融炉](../Page/ガス化溶融炉.md "wikilink")を福岡県八女西部広域事務組合から受注。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）1月 - 三井造船プラントエンジニアリングが、三井造船エンジニアリングと合併。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）1月 - 三井造船鉄構工事が、三造リフレ及び株式会社運搬機エンジニアリングの2社と合併。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）4月 - [新潟鐵工所](../Page/新潟鐵工所.md "wikilink")から造船事業の営業譲渡を受け、新潟造船株式会社設立。
@@ -68,7 +68,7 @@
   - 三井E\&S造船
       - 玉野艦船工場 - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[玉野市](../Page/玉野市.md "wikilink")玉3丁目1-1
       - 千葉工場 - [千葉県](../Page/千葉県.md "wikilink")[市原市](../Page/市原市.md "wikilink")八幡海岸通1
-      - 由良修繕部 - [和歌山県](../Page/和歌山県.md "wikilink")[日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[由良町](https://ja.wikipedia.org/wiki/由良町 "wikilink")大字網代193-13
+      - 由良修繕部 - [和歌山県](../Page/和歌山県.md "wikilink")[日高郡](../Page/日高郡_\(和歌山県\).md "wikilink")[由良町](../Page/由良町.md "wikilink")大字網代193-13
   - 三井E\&Sマシナリー
       - 玉野機械工場 - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[玉野市](../Page/玉野市.md "wikilink")玉3丁目1-1
       - 大分工場 - [大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")日吉原3
@@ -79,16 +79,16 @@
 
 #### 艦艇
 
-[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")中より艦艇建造に携わり、主に海防艦を建造、戦後も[自衛艦](https://ja.wikipedia.org/wiki/自衛艦 "wikilink")の建造を続けている。
+[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")中より艦艇建造に携わり、主に海防艦を建造、戦後も[自衛艦](../Page/自衛艦.md "wikilink")の建造を続けている。
 
   - [日本海軍](../Page/大日本帝国海軍.md "wikilink")
 
 <!-- end list -->
 
-  - [海防艦](https://ja.wikipedia.org/wiki/海防艦 "wikilink")
-      - [占守（しむしゅ）型](https://ja.wikipedia.org/wiki/占守型海防艦 "wikilink")：[占守](https://ja.wikipedia.org/wiki/占守_\(海防艦\) "wikilink")（しむしゅ） - [石垣](https://ja.wikipedia.org/wiki/石垣_\(海防艦\) "wikilink")（いしがき）
-      - [択捉（えとろふ）型](https://ja.wikipedia.org/wiki/択捉型海防艦 "wikilink")：[松輪](https://ja.wikipedia.org/wiki/松輪_\(海防艦\) "wikilink")（まつわ）- [壱岐](https://ja.wikipedia.org/wiki/壱岐_\(海防艦\) "wikilink")（いき）- [若宮](https://ja.wikipedia.org/wiki/若宮_\(海防艦\) "wikilink")（わかみや）- [満珠](https://ja.wikipedia.org/wiki/満珠_\(海防艦\) "wikilink")（まんじゅ）
-      - [鵜来（うくる）型](https://ja.wikipedia.org/wiki/鵜来型海防艦 "wikilink") - [稲木](https://ja.wikipedia.org/wiki/稲木_\(海防艦\) "wikilink")（いなぎ） -[羽節](https://ja.wikipedia.org/wiki/羽節_\(海防艦\) "wikilink")（はぶし） - [男鹿](https://ja.wikipedia.org/wiki/男鹿_\(海防艦\) "wikilink")（おしか） - [金輪](https://ja.wikipedia.org/wiki/金輪_\(海防艦\) "wikilink")（かなわ） - [高根](https://ja.wikipedia.org/wiki/高根_\(海防艦\) "wikilink")（たかね）
+  - [海防艦](../Page/海防艦.md "wikilink")
+      - [占守（しむしゅ）型](../Page/占守型海防艦.md "wikilink")：[占守](https://ja.wikipedia.org/wiki/占守_\(海防艦\) "wikilink")（しむしゅ） - [石垣](https://ja.wikipedia.org/wiki/石垣_\(海防艦\) "wikilink")（いしがき）
+      - [択捉（えとろふ）型](../Page/択捉型海防艦.md "wikilink")：[松輪](https://ja.wikipedia.org/wiki/松輪_\(海防艦\) "wikilink")（まつわ）- [壱岐](https://ja.wikipedia.org/wiki/壱岐_\(海防艦\) "wikilink")（いき）- [若宮](https://ja.wikipedia.org/wiki/若宮_\(海防艦\) "wikilink")（わかみや）- [満珠](https://ja.wikipedia.org/wiki/満珠_\(海防艦\) "wikilink")（まんじゅ）
+      - [鵜来（うくる）型](../Page/鵜来型海防艦.md "wikilink") - [稲木](https://ja.wikipedia.org/wiki/稲木_\(海防艦\) "wikilink")（いなぎ） -[羽節](https://ja.wikipedia.org/wiki/羽節_\(海防艦\) "wikilink")（はぶし） - [男鹿](https://ja.wikipedia.org/wiki/男鹿_\(海防艦\) "wikilink")（おしか） - [金輪](https://ja.wikipedia.org/wiki/金輪_\(海防艦\) "wikilink")（かなわ） - [高根](https://ja.wikipedia.org/wiki/高根_\(海防艦\) "wikilink")（たかね）
   - [砲艦](../Page/砲艦.md "wikilink")
       - [熱海（あたみ）型](../Page/熱海型砲艦.md "wikilink")：[熱海](../Page/熱海_\(砲艦\).md "wikilink")
       - [小鷹](https://ja.wikipedia.org/wiki/小鷹_\(砲艦\) "wikilink")
@@ -115,7 +115,7 @@
 
   - [護衛艦](../Page/護衛艦.md "wikilink")
       - [いかづち型](../Page/いかづち型護衛艦.md "wikilink")：[DE-203 いなづま](https://ja.wikipedia.org/wiki/いなづま_\(護衛艦・初代\) "wikilink")
-      - [あやなみ型](https://ja.wikipedia.org/wiki/あやなみ型護衛艦 "wikilink")：[DD-106 しきなみ](https://ja.wikipedia.org/wiki/しきなみ_\(護衛艦\) "wikilink") - [DD-110 たかなみ](https://ja.wikipedia.org/wiki/たかなみ_\(護衛艦・初代\) "wikilink")
+      - [あやなみ型](../Page/あやなみ型護衛艦.md "wikilink")：[DD-106 しきなみ](https://ja.wikipedia.org/wiki/しきなみ_\(護衛艦\) "wikilink") - [DD-110 たかなみ](https://ja.wikipedia.org/wiki/たかなみ_\(護衛艦・初代\) "wikilink")
       - [いすず型](https://ja.wikipedia.org/wiki/いすず型護衛艦 "wikilink")：[DE-211 いすず](https://ja.wikipedia.org/wiki/いすず_\(護衛艦\) "wikilink")
       - [やまぐも型](../Page/やまぐも型護衛艦.md "wikilink")：[DD-113 やまぐも](https://ja.wikipedia.org/wiki/やまぐも_\(護衛艦\) "wikilink")
       - [みねぐも型](../Page/みねぐも型護衛艦.md "wikilink")：[DD-116 みねぐも](https://ja.wikipedia.org/wiki/みねぐも_\(護衛艦\) "wikilink")
@@ -123,12 +123,12 @@
       - [DE-226 いしかり](../Page/いしかり_\(護衛艦\).md "wikilink")
       - [はつゆき型](../Page/はつゆき型護衛艦.md "wikilink")：[はまゆきDD-126](https://ja.wikipedia.org/wiki/はまゆき_\(護衛艦\) "wikilink") - [DD-131 せとゆき](https://ja.wikipedia.org/wiki/せとゆき_\(練習艦\) "wikilink")
       - [あさぎり型](../Page/あさぎり型護衛艦.md "wikilink")：[DD-152 やまぎり](https://ja.wikipedia.org/wiki/やまぎり_\(護衛艦\) "wikilink")
-      - [あぶくま型](https://ja.wikipedia.org/wiki/あぶくま型護衛艦 "wikilink")：[DE-229 あぶくま](https://ja.wikipedia.org/wiki/あぶくま_\(護衛艦\) "wikilink") - [DE-231 おおよど](https://ja.wikipedia.org/wiki/おおよど_\(護衛艦\) "wikilink")
-      - [むらさめ型](https://ja.wikipedia.org/wiki/むらさめ型護衛艦 "wikilink")：[DD-102 はるさめ](https://ja.wikipedia.org/wiki/はるさめ_\(護衛艦・2代\) "wikilink")
+      - [あぶくま型](../Page/あぶくま型護衛艦.md "wikilink")：[DE-229 あぶくま](https://ja.wikipedia.org/wiki/あぶくま_\(護衛艦\) "wikilink") - [DE-231 おおよど](https://ja.wikipedia.org/wiki/おおよど_\(護衛艦\) "wikilink")
+      - [むらさめ型](../Page/むらさめ型護衛艦.md "wikilink")：[DD-102 はるさめ](https://ja.wikipedia.org/wiki/はるさめ_\(護衛艦・2代\) "wikilink")
       - [あきづき型](../Page/あきづき型護衛艦_\(2代\).md "wikilink")：[DD-118 ふゆづき](https://ja.wikipedia.org/wiki/ふゆづき_\(護衛艦\) "wikilink")
       - [3900トン型](https://ja.wikipedia.org/wiki/3900トン型護衛艦 "wikilink")
   - [補給艦](../Page/補給艦.md "wikilink")
-      - [ましゅう型](https://ja.wikipedia.org/wiki/ましゅう型補給艦 "wikilink")：[AOE-425 ましゅう](../Page/ましゅう_\(補給艦\).md "wikilink")
+      - [ましゅう型](../Page/ましゅう型補給艦.md "wikilink")：[AOE-425 ましゅう](../Page/ましゅう_\(補給艦\).md "wikilink")
   - 掃海母艦
       - [うらが型](../Page/うらが型掃海母艦.md "wikilink")：[MST-464 ぶんご](https://ja.wikipedia.org/wiki/ぶんご_\(掃海母艦\) "wikilink")
   - [潜水艦救難艦](../Page/潜水艦救難艦.md "wikilink")
@@ -139,7 +139,7 @@
   - [海洋観測艦](../Page/海洋観測艦.md "wikilink")
       - [AGS-5106 しょうなん](https://ja.wikipedia.org/wiki/しょうなん_\(海洋観測艦\) "wikilink")
   - [音響測定艦](https://ja.wikipedia.org/wiki/音響測定艦 "wikilink")
-      - [ひびき型](../Page/ひびき型音響測定艦.md "wikilink")：[AOS-5201 ひびき](https://ja.wikipedia.org/wiki/ひびき_\(音響測定艦\) "wikilink") - [AOS-5202 はりま](https://ja.wikipedia.org/wiki/はりま_\(音響測定艦\) "wikilink") - [AOS-5203 あき](https://ja.wikipedia.org/wiki/あき_\(音響測定艦\) "wikilink")
+      - [ひびき型](../Page/ひびき型音響測定艦.md "wikilink")：[AOS-5201 ひびき](https://ja.wikipedia.org/wiki/ひびき_\(音響測定艦\) "wikilink") - [AOS-5202 はりま](https://ja.wikipedia.org/wiki/はりま_\(音響測定艦\) "wikilink") - [AOS-5203 あき](../Page/あき_\(音響測定艦\).md "wikilink")
   - [輸送艦](../Page/輸送艦.md "wikilink")
       - [おおすみ型](../Page/おおすみ型輸送艦_\(2代\).md "wikilink")：[LST-4001 おおすみ](https://ja.wikipedia.org/wiki/おおすみ_\(輸送艦・2代\) "wikilink") - [LST-4002 しもきた](https://ja.wikipedia.org/wiki/しもきた_\(輸送艦・2代\) "wikilink")
 
@@ -180,7 +180,7 @@
   - 「波上丸」 - 1936年（昭和11年）竣工\[36\]
   - 「[浮島丸](https://ja.wikipedia.org/wiki/浮島丸_\(特設巡洋艦\) "wikilink")」 - 1937年（昭和12年）竣工\[37\]
   - 「[報國丸](../Page/報国丸_\(特設巡洋艦\).md "wikilink")」 - [1940年](../Page/1940年.md "wikilink")（昭和15年）竣工\[38\]。優秀船舶建造助成施設適用船\[39\]
-  - 「[愛國丸](https://ja.wikipedia.org/wiki/愛国丸_\(特設巡洋艦\) "wikilink")」 - 1941年（昭和16年）竣工\[40\]。優秀船舶建造助成施設適用船\[41\]
+  - 「[愛國丸](../Page/愛国丸_\(特設巡洋艦\).md "wikilink")」 - 1941年（昭和16年）竣工\[40\]。優秀船舶建造助成施設適用船\[41\]
   - 「[護國丸](https://ja.wikipedia.org/wiki/護国丸_\(特設巡洋艦\) "wikilink")」 - [1942年](../Page/1942年.md "wikilink")（昭和17年）竣工\[42\]。優秀船舶建造助成施設適用船\[43\]
 
 <!-- end list -->
@@ -237,8 +237,8 @@
   - 深海無人探査機「[かいこう](../Page/かいこう.md "wikilink")」 - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）竣工
   - [測量船](../Page/測量船.md "wikilink")「[昭洋](https://ja.wikipedia.org/wiki/昭洋_\(測量船・2代\) "wikilink")」 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）竣工、[シップ・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/シップ・オブ・ザ・イヤー "wikilink")1998授賞
   - [LNG運搬船](https://ja.wikipedia.org/wiki/LNGタンカー "wikilink")「プテリ デリマ サツ」（メンブレンタンク式） - [2002年](../Page/2002年.md "wikilink")（平成14年）竣工
-  - 地球深部探査船「[ちきゅう](https://ja.wikipedia.org/wiki/ちきゅう "wikilink")」（船体部分） - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）竣工
-  - [FPSO](https://ja.wikipedia.org/wiki/FPSO "wikilink")（浮体式石油生産・貯蔵・積出設備） Kerr-McGee Global Producer III - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）竣工
+  - 地球深部探査船「[ちきゅう](../Page/ちきゅう.md "wikilink")」（船体部分） - [2005年](../Page/2005年.md "wikilink")（平成17年）竣工
+  - [FPSO](https://ja.wikipedia.org/wiki/FPSO "wikilink")（浮体式石油生産・貯蔵・積出設備） Kerr-McGee Global Producer III - [2005年](../Page/2005年.md "wikilink")（平成17年）竣工
   - 鉱石運搬船「[ブラジル・マル](https://ja.wikipedia.org/wiki/ぶらじる丸#BRASIL_MARU "wikilink")」 - [2007年](../Page/2007年.md "wikilink")（平成19年）竣工、シップ・オブ・ザ・イヤー2007授賞
   - LNG運搬船「グランド メレヤ」（モス球形タンク式） - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）竣工
   - [ばら積み貨物船](https://ja.wikipedia.org/wiki/ばら積み貨物船 "wikilink")「FATHER NEPTUNE」 - [2009年](../Page/2009年.md "wikilink")（平成21年）竣工
@@ -248,7 +248,7 @@
 
 [太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")[終戦](../Page/終戦.md "wikilink")後、1946年（昭和21年）5月から政府の[傾斜生産方式](../Page/傾斜生産方式.md "wikilink")に応えるため、三井造船玉野造船所では一時的に[鉄道車両](../Page/鉄道車両.md "wikilink")製造に関わった\[53\]\[54\]。
 
-三井鉱山（現・[日本コークス工業](../Page/日本コークス工業.md "wikilink")）、三菱鉱業（現・[三菱マテリアル](../Page/三菱マテリアル.md "wikilink")）等から[石炭車](https://ja.wikipedia.org/wiki/石炭車 "wikilink")1,000両以上を受注・製造した\[55\]\[56\]。鉄道車両工事も行われ、[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")広島鉄道局・大阪鉄道局、[東京急行電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")（当時は[大東急](../Page/大東急.md "wikilink")時代）から相当量の発注があった\[57\]\[58\]。
+三井鉱山（現・[日本コークス工業](../Page/日本コークス工業.md "wikilink")）、三菱鉱業（現・[三菱マテリアル](../Page/三菱マテリアル.md "wikilink")）等から[石炭車](../Page/石炭車.md "wikilink")1,000両以上を受注・製造した\[55\]\[56\]。鉄道車両工事も行われ、[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")広島鉄道局・大阪鉄道局、[東京急行電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")（当時は[大東急](../Page/大東急.md "wikilink")時代）から相当量の発注があった\[57\]\[58\]。
 
   - 製造例
 
@@ -260,7 +260,7 @@
 
 ## 船舶用エンジン
 
-三井造船のエンジン生産拠点は玉野事業所に集約されている\[63\]。大型船舶用エンジンでは国内シェア5割を担い2015年度には貨物船向けを中心に181基のエンジンを製造した\[64\]。過去には1基10万馬力級の船舶用[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")も製造していた時期もあるが\[65\]、2016年時点で主力となっているエンジンは、シリンダー直径50cm、5-6気筒の1万5000-2万馬力のディーゼルエンジンである\[66\]。2017-2019年に[今治造船](https://ja.wikipedia.org/wiki/今治造船 "wikilink")向けの11気筒10万馬力のエンジンを生産するために、35億円をかけて玉野事業所の5面加工機や自動溶接ラインやエンジンの試験運転設備を増強する\[67\]。
+三井造船のエンジン生産拠点は玉野事業所に集約されている\[63\]。大型船舶用エンジンでは国内シェア5割を担い2015年度には貨物船向けを中心に181基のエンジンを製造した\[64\]。過去には1基10万馬力級の船舶用[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")も製造していた時期もあるが\[65\]、2016年時点で主力となっているエンジンは、シリンダー直径50cm、5-6気筒の1万5000-2万馬力のディーゼルエンジンである\[66\]。2017-2019年に[今治造船](../Page/今治造船.md "wikilink")向けの11気筒10万馬力のエンジンを生産するために、35億円をかけて玉野事業所の5面加工機や自動溶接ラインやエンジンの試験運転設備を増強する\[67\]。
 
 ## 関連企業
 

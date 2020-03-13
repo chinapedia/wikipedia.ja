@@ -1,21 +1,21 @@
 > この記事は[FictionJunction](https://ja.wikipedia.org/wiki/FictionJunction)から翻訳されています。
 
 
-**FictionJunction**（フィクションジャンクション）は、[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")による[ソロプロジェクト上のコードネーム](../Page/一人バンド.md "wikilink")・総称である。所属事務所は[スペースクラフトプロデュース](https://ja.wikipedia.org/wiki/スペースクラフトプロデュース "wikilink")を経て、現在は個人事務所となる[FictionJunction Musicに所属](https://ja.wikipedia.org/wiki/FictionJunction_Music "wikilink")。レーベルは、[FlyingDog](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink")。
+**FictionJunction**（フィクションジャンクション）は、[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")による[ソロプロジェクト上のコードネーム](../Page/一人バンド.md "wikilink")・総称である。所属事務所は[スペースクラフトプロデュース](https://ja.wikipedia.org/wiki/スペースクラフトプロデュース "wikilink")を経て、現在は個人事務所となる[FictionJunction Musicに所属](https://ja.wikipedia.org/wiki/FictionJunction_Music "wikilink")。レーベルは、[FlyingDog](../Page/フライングドッグ.md "wikilink")。
 
 ## 概要
 
 ### 「FictionJunction」統一前
 
-同プロジェクトは、アニメの主題歌や劇伴を中心に手掛けるマルチ音楽コンポーザー、[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")の[ソロ・プロジェクトである](../Page/一人バンド.md "wikilink")。楽曲のプロデュース([作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink"))、及び[ピアノ](../Page/ピアノ.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・[コーラスは](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、梶浦自身が担当するが、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")をはじめ、その他のミュージシャンは固定されておらず、[器楽曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")も存在する流動的なユニットである。
+同プロジェクトは、アニメの主題歌や劇伴を中心に手掛けるマルチ音楽コンポーザー、[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")の[ソロ・プロジェクトである](../Page/一人バンド.md "wikilink")。楽曲のプロデュース([作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink"))、及び[ピアノ](../Page/ピアノ.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・[コーラスは](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、梶浦自身が担当するが、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")をはじめ、その他のミュージシャンは固定されておらず、[器楽曲](../Page/器楽曲.md "wikilink")も存在する流動的なユニットである。
 
-プロジェクトの始動は2003年、梶浦とボーカルの[南里侑香](../Page/南里侑香.md "wikilink")をメンバーとした「[FictionJunction　YUUKA](https://ja.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")」である。(詳細は、同項を参照のこと。)当初のグループ名は、「FictionJunction featuring YUUKA」であったが、2004年に1stシングル「[瞳の欠片](../Page/瞳の欠片.md "wikilink")」をリリースするのとともに、現グループ名に変更となった。グループ名の「FictionJunction」は、梶浦自身が"Fiction"(創作)し、楽曲ごとにボーカリストらと"Junction"(交差・接合)して新たなものを送り出すというコンセプトから命名されたという。
+プロジェクトの始動は2003年、梶浦とボーカルの[南里侑香](../Page/南里侑香.md "wikilink")をメンバーとした「[FictionJunction　YUUKA](../Page/FictionJunction_YUUKA.md "wikilink")」である。(詳細は、同項を参照のこと。)当初のグループ名は、「FictionJunction featuring YUUKA」であったが、2004年に1stシングル「[瞳の欠片](../Page/瞳の欠片.md "wikilink")」をリリースするのとともに、現グループ名に変更となった。グループ名の「FictionJunction」は、梶浦自身が"Fiction"(創作)し、楽曲ごとにボーカリストらと"Junction"(交差・接合)して新たなものを送り出すというコンセプトから命名されたという。
 
 2005年には、梶浦が音楽を担当した[NHKのテレビアニメーション](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ツバサ・クロニクル](https://ja.wikipedia.org/wiki/ツバサ・クロニクル "wikilink")」の挿入歌を歌うにあたって、新たに[織田かおり](../Page/織田かおり.md "wikilink")と[窪田啓子](../Page/窪田啓子.md "wikilink")がボーカリストに起用され、それぞれ「FictionJunction KAORI」と「FictionJunction KEIKO」としてデビューする。更に、同年には梶浦が音楽を担当したテレビアニメ「[エレメンタルジェレイド](https://ja.wikipedia.org/wiki/エレメンタルジェレイド "wikilink")」の挿入歌を歌うにあたって、新たに[加藤あすか](https://ja.wikipedia.org/wiki/加藤あすか "wikilink")が、翌年には、[OVA](../Page/OVA.md "wikilink")「[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")～ユリア伝～」の挿入歌を歌うにあたって、[大滝若菜](https://ja.wikipedia.org/wiki/大滝若菜 "wikilink")がボーカリストに起用され、それぞれ「FictionJunction ASUKA」、「FictionJunction WAKANA」としてデビューする。
 
 ### 「FictionJunction」統一後
 
-2009年に、それまでは「FictionJunction ○○」(○○には、ボーカルの名前が入る)として別々の名義で活動していたもの「FictionJunction」名義に統一され、ボーカルが固定されない1つのユニットとして[Flying Dogと契約](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink")。同時に、梶浦のサウンドトラックに参加していた[貝田由里子](https://ja.wikipedia.org/wiki/貝田由里子 "wikilink")もボーカルとして加わり、梶浦とその関連ボーカリストの公式ファンクラブ「FictionJunction CLUB」が設立される。但し、南里侑香は、同ユニットの一員でありながら、「FictionJunction YUUKA」としても、活動している。ちなみに、このページの作品の項目で主に解説するのは、この2009年以降の「FictionJunction」のみとする。
+2009年に、それまでは「FictionJunction ○○」(○○には、ボーカルの名前が入る)として別々の名義で活動していたもの「FictionJunction」名義に統一され、ボーカルが固定されない1つのユニットとして[Flying Dogと契約](../Page/フライングドッグ.md "wikilink")。同時に、梶浦のサウンドトラックに参加していた[貝田由里子](https://ja.wikipedia.org/wiki/貝田由里子 "wikilink")もボーカルとして加わり、梶浦とその関連ボーカリストの公式ファンクラブ「FictionJunction CLUB」が設立される。但し、南里侑香は、同ユニットの一員でありながら、「FictionJunction YUUKA」としても、活動している。ちなみに、このページの作品の項目で主に解説するのは、この2009年以降の「FictionJunction」のみとする。
 
 「FictionJunction」統一後は、梶浦本人とボーカルのKAORI、KEIKO、WAKANA、YURIKO KAIDAを中心に、テレビアニメのタイアップ曲を含むシングルやアルバムをリリース。ライブ活動にも注力し、ライブアルバムもリリースされている。
 
@@ -54,7 +54,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/梶浦由記" title="wikilink">梶浦由記</a></p></td>
 <td><p><a href="../Page/キーボード_(楽器).md" title="wikilink">Keyboard</a><br />
 <a href="../Page/コーラス_(ポピュラー音楽).md" title="wikilink">Chorus</a></p></td>
-<td><p>楽曲の<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a>、<a href="../Page/作曲.md" title="wikilink">作曲</a>、<a href="../Page/編曲.md" title="wikilink">編曲</a>も担当。</p></td>
+<td><p>楽曲の<a href="../Page/作詞.md" title="wikilink">作詞</a>、<a href="../Page/作曲.md" title="wikilink">作曲</a>、<a href="../Page/編曲.md" title="wikilink">編曲</a>も担当。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/織田かおり.md" title="wikilink">織田かおり</a></p></td>
@@ -80,7 +80,7 @@
 <tr class="odd">
 <td><p><a href="../Page/南里侑香.md" title="wikilink">南里侑香</a></p></td>
 <td><p>Vocal</p></td>
-<td><p>2003年「<a href="https://ja.wikipedia.org/wiki/FictionJunction_YUUKA" title="wikilink">FictionJunction YUUKA</a>」でデビュー。</p></td>
+<td><p>2003年「<a href="../Page/FictionJunction_YUUKA.md" title="wikilink">FictionJunction YUUKA</a>」でデビュー。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/結城アイラ.md" title="wikilink">加藤あすか</a></p></td>
@@ -199,7 +199,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/かとうかなこ.md" title="wikilink">かとうかなこ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アコーディオン" title="wikilink">Accordion</a></p></td>
+<td><p><a href="../Page/アコーディオン.md" title="wikilink">Accordion</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -222,7 +222,7 @@
 
 ## 作品
 
-**[FictionJunction YUUKA](https://ja.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")**名義のものは当該ページを参照。 2009年以前の楽曲については、参加ボーカル各記事のディスコグラフィを参照のこと。
+**[FictionJunction YUUKA](../Page/FictionJunction_YUUKA.md "wikilink")**名義のものは当該ページを参照。 2009年以前の楽曲については、参加ボーカル各記事のディスコグラフィを参照のこと。
 
 ### シングル
 
@@ -268,14 +268,14 @@
 
 ## タイアップ
 
-| 曲                   | タイアップ                                                                                                                                                          |
-| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Parallel Hearts** | テレビアニメ「[PandoraHearts](../Page/PandoraHearts.md "wikilink")」オープニングテーマ                                                                                          |
-| **時の向こう幻の空**        | テレビアニメ「[おおかみかくし](https://ja.wikipedia.org/wiki/おおかみかくし "wikilink")」オープニングテーマ                                                                                   |
-| **stone cold**      | テレビアニメ「[セイクリッドセブン](https://ja.wikipedia.org/wiki/セイクリッドセブン "wikilink")」オープニングテーマ                                                                               |
-| **Distance**        | テレビアニメ「[機動戦士ガンダムSEED HD　リマスター](../Page/機動戦士ガンダムSEED.md "wikilink")」エンディングテーマ                                                                                   |
-| **etarnal blue**    | [PlayStation　Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")　「[戦律のストラタス](https://ja.wikipedia.org/wiki/戦律のストラタス "wikilink")」オープニングテーマ |
-| **from the edge**   | テレビアニメ｢[鬼滅の刃](https://ja.wikipedia.org/wiki/鬼滅の刃 "wikilink")｣エンディングテーマ                                                                                         |
+| 曲                   | タイアップ                                                                                                                                       |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Parallel Hearts** | テレビアニメ「[PandoraHearts](../Page/PandoraHearts.md "wikilink")」オープニングテーマ                                                                       |
+| **時の向こう幻の空**        | テレビアニメ「[おおかみかくし](https://ja.wikipedia.org/wiki/おおかみかくし "wikilink")」オープニングテーマ                                                                |
+| **stone cold**      | テレビアニメ「[セイクリッドセブン](https://ja.wikipedia.org/wiki/セイクリッドセブン "wikilink")」オープニングテーマ                                                            |
+| **Distance**        | テレビアニメ「[機動戦士ガンダムSEED HD　リマスター](../Page/機動戦士ガンダムSEED.md "wikilink")」エンディングテーマ                                                                |
+| **etarnal blue**    | [PlayStation　Portable](../Page/PlayStation_Portable.md "wikilink")　「[戦律のストラタス](https://ja.wikipedia.org/wiki/戦律のストラタス "wikilink")」オープニングテーマ |
+| **from the edge**   | テレビアニメ｢[鬼滅の刃](https://ja.wikipedia.org/wiki/鬼滅の刃 "wikilink")｣エンディングテーマ                                                                      |
 
 ## 関連項目
 

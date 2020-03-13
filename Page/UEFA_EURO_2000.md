@@ -1,23 +1,23 @@
 > この記事は[UEFA EURO 2000](https://ja.wikipedia.org/wiki/UEFA_EURO_2000)から翻訳されています。
 
 
-**UEFA EURO 2000**（ウエファ・ユーロ2000）は第11回目の[UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")である。本大会は[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の共催で[2000年](../Page/2000年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")から同年[7月2日](../Page/7月2日.md "wikilink")にかけて行われた。
+**UEFA EURO 2000**（ウエファ・ユーロ2000）は第11回目の[UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")である。本大会は[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の共催で[2000年](../Page/2000年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")から同年[7月2日](../Page/7月2日.md "wikilink")にかけて行われた。
 
 ## 概要
 
-開催国であるベルギー・オランダ及び[予選を通過した](https://ja.wikipedia.org/wiki/UEFA_EURO_2000予選 "wikilink")14カ国で争われた。
+開催国であるベルギー・オランダ及び[予選を通過した](../Page/UEFA_EURO_2000予選.md "wikilink")14カ国で争われた。
 
-この大会では開催国の一つ[ベルギーが一次リーグで敗退し](../Page/サッカーベルギー代表.md "wikilink")、[ワールドカップと欧州選手権で続いていた開催国は必ず一次リーグを突破するという伝統が初めて崩れたが](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")、もう一つの開催国である[オランダが準決勝まで残ったことにより](https://ja.wikipedia.org/wiki/サッカーオランダ代表 "wikilink")、欧州選手権開催国は必ず準決勝以上まで残るという伝統は辛うじて守られた。
+この大会では開催国の一つ[ベルギーが一次リーグで敗退し](../Page/サッカーベルギー代表.md "wikilink")、[ワールドカップと欧州選手権で続いていた開催国は必ず一次リーグを突破するという伝統が初めて崩れたが](../Page/FIFAワールドカップ.md "wikilink")、もう一つの開催国である[オランダが準決勝まで残ったことにより](../Page/サッカーオランダ代表.md "wikilink")、欧州選手権開催国は必ず準決勝以上まで残るという伝統は辛うじて守られた。
 
 グループステージから全体的にハイスコアの競り合いが多かったこと、準決勝の[イタリア対オランダの試合ではオランダがPK戦での](../Page/サッカーイタリア代表.md "wikilink")3本も含め計5本のPKを失敗、[フランチェスコ・トッティ](../Page/フランチェスコ・トッティ.md "wikilink")がPK戦で[ファン・デル・サール](https://ja.wikipedia.org/wiki/ファン・デル・サール "wikilink")からチップキックでゴールを奪うなど、決勝戦の内容も合わせて記憶に残る名シーンや名勝負の多かった大会として語られることが多い。
 
-決勝はたがいに2度目の優勝を狙う[フランスとイタリアが対戦した](../Page/サッカーフランス代表.md "wikilink")。後半10分に[マルコ・デルベッキオ](https://ja.wikipedia.org/wiki/マルコ・デルベッキオ "wikilink")のゴールでイタリアが先制しそのまま終わるかと思われたが、後半[ロスタイム](../Page/ロスタイム.md "wikilink")に[シルヴァン・ヴィルトール](https://ja.wikipedia.org/wiki/シルヴァン・ヴィルトール "wikilink")が同点ゴールを決めて2大会連続で延長戦に突入。延長前半13分にフランスの[ダビド・トレゼゲ](https://ja.wikipedia.org/wiki/ダビド・トレゼゲ "wikilink")が[ゴールデンゴール](../Page/ゴールデンゴール.md "wikilink")を決めて地元開催だった[1984年大会以来](../Page/UEFA欧州選手権1984.md "wikilink")16年ぶり2回目の優勝を果たし、[1998 FIFAワールドカップとの](../Page/1998_FIFAワールドカップ.md "wikilink")2冠を達成した。
+決勝はたがいに2度目の優勝を狙う[フランスとイタリアが対戦した](../Page/サッカーフランス代表.md "wikilink")。後半10分に[マルコ・デルベッキオ](https://ja.wikipedia.org/wiki/マルコ・デルベッキオ "wikilink")のゴールでイタリアが先制しそのまま終わるかと思われたが、後半[ロスタイム](../Page/ロスタイム.md "wikilink")に[シルヴァン・ヴィルトール](../Page/シルヴァン・ヴィルトール.md "wikilink")が同点ゴールを決めて2大会連続で延長戦に突入。延長前半13分にフランスの[ダビド・トレゼゲ](https://ja.wikipedia.org/wiki/ダビド・トレゼゲ "wikilink")が[ゴールデンゴール](../Page/ゴールデンゴール.md "wikilink")を決めて地元開催だった[1984年大会以来](../Page/UEFA欧州選手権1984.md "wikilink")16年ぶり2回目の優勝を果たし、[1998 FIFAワールドカップとの](../Page/1998_FIFAワールドカップ.md "wikilink")2冠を達成した。
 
 ## 予選
 
 ## 出場国
 
-[RR5111-0079R.gif](https://ja.wikipedia.org/wiki/File:RR5111-0079R.gif "fig:RR5111-0079R.gif") EURO2000の本大会には、開催国である[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、及び[予選を通過した](https://ja.wikipedia.org/wiki/UEFA_EURO_2000予選 "wikilink")14カ国が出場した。出場国は次の通り。
+[RR5111-0079R.gif](https://ja.wikipedia.org/wiki/File:RR5111-0079R.gif "fig:RR5111-0079R.gif") EURO2000の本大会には、開催国である[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")と[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、及び[予選を通過した](../Page/UEFA_EURO_2000予選.md "wikilink")14カ国が出場した。出場国は次の通り。
 
 **グループ A**
 
@@ -63,21 +63,21 @@
 
 ### ベルギー
 
-| スタジアム名                                                                     | 所在地                                                   | 収容人数   |
-| -------------------------------------------------------------------------- | ----------------------------------------------------- | ------ |
-| [スタッド・ロワ・ボードゥワン](https://ja.wikipedia.org/wiki/ボードゥアン国王競技場 "wikilink")     | [ブリュッセル](../Page/ブリュッセル.md "wikilink")                | 50,000 |
-| [ヤン・ブレイデル・スタディオン](https://ja.wikipedia.org/wiki/ヤン・ブレイデルスタディオン "wikilink") | [ブルッヘ](https://ja.wikipedia.org/wiki/ブルッヘ "wikilink") | 30,000 |
-| [スタッド・ドゥ・スクレッサン](https://ja.wikipedia.org/wiki/スタッド・モーリス・デュフラン "wikilink") | [リエージュ](../Page/リエージュ.md "wikilink")                  | 30,000 |
-| [スタッド・デュ・ペイ・ド・シャルルロワ](../Page/スタッド・デュ・ペイ・ド・シャルルロワ.md "wikilink")           | [シャルルロワ](../Page/シャルルロワ.md "wikilink")                | 30,000 |
+| スタジアム名                                                                     | 所在地                                    | 収容人数   |
+| -------------------------------------------------------------------------- | -------------------------------------- | ------ |
+| [スタッド・ロワ・ボードゥワン](../Page/ボードゥアン国王競技場.md "wikilink")                        | [ブリュッセル](../Page/ブリュッセル.md "wikilink") | 50,000 |
+| [ヤン・ブレイデル・スタディオン](https://ja.wikipedia.org/wiki/ヤン・ブレイデルスタディオン "wikilink") | [ブルッヘ](../Page/ブルッヘ.md "wikilink")     | 30,000 |
+| [スタッド・ドゥ・スクレッサン](https://ja.wikipedia.org/wiki/スタッド・モーリス・デュフラン "wikilink") | [リエージュ](../Page/リエージュ.md "wikilink")   | 30,000 |
+| [スタッド・デュ・ペイ・ド・シャルルロワ](../Page/スタッド・デュ・ペイ・ド・シャルルロワ.md "wikilink")           | [シャルルロワ](../Page/シャルルロワ.md "wikilink") | 30,000 |
 
 ### オランダ
 
-| スタジアム名                                                                      | 所在地                                                         | 収容人数   |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------- | ------ |
-| [アムステルダム・アレナ](https://ja.wikipedia.org/wiki/アムステルダム・アレナ "wikilink")         | [アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink") | 50,000 |
-| [フェイエノールト・スタディオン](https://ja.wikipedia.org/wiki/フェイエノールト・スタディオン "wikilink") | [ロッテルダム](../Page/ロッテルダム.md "wikilink")                      | 50,000 |
-| [フィリップス・スタディオン](https://ja.wikipedia.org/wiki/フィリップス・スタディオン "wikilink")     | [アイントホーフェン](../Page/アイントホーフェン.md "wikilink")                | 33,000 |
-| [ヘルレドーム](https://ja.wikipedia.org/wiki/ヘルレドーム "wikilink")・スタディオン            | [アーネム](../Page/アーネム.md "wikilink")                          | 30,000 |
+| スタジアム名                                                              | 所在地                                                         | 収容人数   |
+| ------------------------------------------------------------------- | ----------------------------------------------------------- | ------ |
+| [アムステルダム・アレナ](https://ja.wikipedia.org/wiki/アムステルダム・アレナ "wikilink") | [アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink") | 50,000 |
+| [フェイエノールト・スタディオン](../Page/フェイエノールト・スタディオン.md "wikilink")            | [ロッテルダム](../Page/ロッテルダム.md "wikilink")                      | 50,000 |
+| [フィリップス・スタディオン](../Page/フィリップス・スタディオン.md "wikilink")                | [アイントホーフェン](../Page/アイントホーフェン.md "wikilink")                | 33,000 |
+| [ヘルレドーム](https://ja.wikipedia.org/wiki/ヘルレドーム "wikilink")・スタディオン    | [アーネム](../Page/アーネム.md "wikilink")                          | 30,000 |
 
 ## グループリーグ
 
@@ -201,7 +201,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フィリップス・スタディオン" title="wikilink">フィリップス・スタディオン</a> (20:45)</p></td>
+<td><p><a href="../Page/フィリップス・スタディオン.md" title="wikilink">フィリップス・スタディオン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a><br />
@@ -269,10 +269,10 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アラン・シアラー" title="wikilink">シアラー</a> (53分)</p></td>
+<td><p><a href="../Page/アラン・シアラー.md" title="wikilink">シアラー</a> (53分)</p></td>
 </tr>
 <tr class="odd">
-<td><p>主審：<a href="https://ja.wikipedia.org/wiki/ピエルルイジ・コッリーナ" title="wikilink">ピエルルイジ・コッリーナ</a>(<a href="../Page/イタリアサッカー連盟.md" title="wikilink">イタリア</a>)</p></td>
+<td><p>主審：<a href="../Page/ピエルルイジ・コッリーナ.md" title="wikilink">ピエルルイジ・コッリーナ</a>(<a href="../Page/イタリアサッカー連盟.md" title="wikilink">イタリア</a>)</p></td>
 </tr>
 </tbody>
 </table></td>
@@ -300,8 +300,8 @@
 <td><p>0</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アラン・シアラー" title="wikilink">シアラー</a> (41分) PK<br />
-<a href="https://ja.wikipedia.org/wiki/マイケル・オーウェン" title="wikilink">オーウェン</a> (45分)</p></td>
+<td><p><a href="../Page/アラン・シアラー.md" title="wikilink">シアラー</a> (41分) PK<br />
+<a href="../Page/マイケル・オーウェン.md" title="wikilink">オーウェン</a> (45分)</p></td>
 </tr>
 <tr class="odd">
 <td><p>主審：<a href="https://ja.wikipedia.org/wiki/ウルス_・マイヤー" title="wikilink">ウルス ・マイヤー</a>(<a href="https://ja.wikipedia.org/wiki/スイスサッカー協会" title="wikilink">スイス</a>)</p></td>
@@ -316,7 +316,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フェイエノールト・スタディオン" title="wikilink">フェイエノールト・スタディオン</a> (20:45)</p></td>
+<td><p><a href="../Page/フェイエノールト・スタディオン.md" title="wikilink">フェイエノールト・スタディオン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a><br />
@@ -326,9 +326,9 @@
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/セルジオ・コンセイソン" title="wikilink">コンセイソン</a> (35分)<br />
-<a href="https://ja.wikipedia.org/wiki/セルジオ・コンセイソン" title="wikilink">コンセイソン</a> (54分)<br />
-<a href="https://ja.wikipedia.org/wiki/セルジオ・コンセイソン" title="wikilink">コンセイソン</a> (71分)</p></td>
+<td><p><a href="../Page/セルジオ・コンセイソン.md" title="wikilink">コンセイソン</a> (35分)<br />
+<a href="../Page/セルジオ・コンセイソン.md" title="wikilink">コンセイソン</a> (54分)<br />
+<a href="../Page/セルジオ・コンセイソン.md" title="wikilink">コンセイソン</a> (71分)</p></td>
 </tr>
 <tr class="odd">
 <td><p>主審：<a href="https://ja.wikipedia.org/wiki/ディック・ヨル" title="wikilink">ディック・ヨル</a>(<a href="https://ja.wikipedia.org/wiki/オランダサッカー協会" title="wikilink">オランダ</a>)</p></td>
@@ -432,7 +432,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ボードゥアン国王競技場" title="wikilink">スタッド・ロワ・ボードゥワン</a> (20:45)</p></td>
+<td><p><a href="../Page/ボードゥアン国王競技場.md" title="wikilink">スタッド・ロワ・ボードゥワン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Belgium.svg" title="fig:Flag_of_Belgium.svg">Flag_of_Belgium.svg</a><br />
@@ -495,7 +495,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ボードゥアン国王競技場" title="wikilink">スタッド・ロワ・ボードゥワン</a> (20:45)</p></td>
+<td><p><a href="../Page/ボードゥアン国王競技場.md" title="wikilink">スタッド・ロワ・ボードゥワン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a><br />
@@ -506,7 +506,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/フランチェスコ・トッティ.md" title="wikilink">トッティ</a> (6分)<br />
-<a href="https://ja.wikipedia.org/wiki/ステファノ・フィオーレ" title="wikilink">フィオーレ</a> (66分)</p></td>
+<a href="../Page/ステファノ・フィオーレ.md" title="wikilink">フィオーレ</a> (66分)</p></td>
 </tr>
 <tr class="odd">
 <td><p>主審：<a href="https://ja.wikipedia.org/wiki/ガルシア・アランダ" title="wikilink">ガルシア・アランダ</a>(<a href="../Page/スペインサッカー連盟.md" title="wikilink">スペイン</a>)</p></td>
@@ -527,7 +527,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フィリップス・スタディオン" title="wikilink">フィリップス・スタディオン</a> (20:45)</p></td>
+<td><p><a href="../Page/フィリップス・スタディオン.md" title="wikilink">フィリップス・スタディオン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Sweden.svg" title="fig:Flag_of_Sweden.svg">Flag_of_Sweden.svg</a><br />
@@ -558,7 +558,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ボードゥアン国王競技場" title="wikilink">スタッド・ロワ・ボードゥワン</a> (20:45)</p></td>
+<td><p><a href="../Page/ボードゥアン国王競技場.md" title="wikilink">スタッド・ロワ・ボードゥワン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Turkey.svg" title="fig:Flag_of_Turkey.svg">Flag_of_Turkey.svg</a><br />
@@ -584,7 +584,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フィリップス・スタディオン" title="wikilink">フィリップス・スタディオン</a> (20:45)</p></td>
+<td><p><a href="../Page/フィリップス・スタディオン.md" title="wikilink">フィリップス・スタディオン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a><br />
@@ -699,7 +699,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フェイエノールト・スタディオン" title="wikilink">フェイエノールト・スタディオン</a> (18:30)</p></td>
+<td><p><a href="../Page/フェイエノールト・スタディオン.md" title="wikilink">フェイエノールト・スタディオン</a> (18:30)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a><br />
@@ -767,7 +767,7 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ズラトコ・ザホヴィッチ" title="wikilink">ザホヴィッチ</a> (59分)</p></td>
+<td><p><a href="../Page/ズラトコ・ザホヴィッチ.md" title="wikilink">ザホヴィッチ</a> (59分)</p></td>
 </tr>
 <tr class="odd">
 <td><p>主審：<a href="../Page/マルクス・メルク.md" title="wikilink">マルクス・メルク</a>(<a href="https://ja.wikipedia.org/wiki/ドイツサッカー連盟" title="wikilink">ドイツ</a>)</p></td>
@@ -853,7 +853,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p>主審：<a href="https://ja.wikipedia.org/wiki/グレアム・ポール" title="wikilink">グレアム・ポール</a>(<a href="https://ja.wikipedia.org/wiki/フットボール・アソシエーション" title="wikilink">イングランド</a>)</p></td>
+<td><p>主審：<a href="https://ja.wikipedia.org/wiki/グレアム・ポール" title="wikilink">グレアム・ポール</a>(<a href="../Page/フットボール・アソシエーション.md" title="wikilink">イングランド</a>)</p></td>
 </tr>
 </tbody>
 </table></td>
@@ -964,9 +964,9 @@
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ローラン・ブラン" title="wikilink">ブラン</a> (16分)<br />
+<td><p><a href="../Page/ローラン・ブラン.md" title="wikilink">ブラン</a> (16分)<br />
 <a href="../Page/ティエリ・アンリ.md" title="wikilink">アンリ</a> (64分)<br />
-<a href="https://ja.wikipedia.org/wiki/シルヴァン・ヴィルトール" title="wikilink">ウィルトール</a> (90分)</p></td>
+<a href="../Page/シルヴァン・ヴィルトール.md" title="wikilink">ウィルトール</a> (90分)</p></td>
 </tr>
 <tr class="odd">
 <td><p>主審：<a href="https://ja.wikipedia.org/wiki/ギュンター・ベンコ" title="wikilink">ギュンター・ベンコ</a>(<a href="https://ja.wikipedia.org/wiki/オーストリアサッカー協会" title="wikilink">オーストリア</a>)</p></td>
@@ -991,10 +991,10 @@
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フランク・デ・ブール" title="wikilink">フランク・デ・ブール</a> (89分) PK</p></td>
+<td><p><a href="../Page/フランク・デ・ブール.md" title="wikilink">フランク・デ・ブール</a> (89分) PK</p></td>
 </tr>
 <tr class="odd">
-<td><p>主審：<a href="https://ja.wikipedia.org/wiki/ピエルルイジ・コッリーナ" title="wikilink">ピエルルイジ・コッリーナ</a>(<a href="../Page/イタリアサッカー連盟.md" title="wikilink">イタリア</a>)</p></td>
+<td><p>主審：<a href="../Page/ピエルルイジ・コッリーナ.md" title="wikilink">ピエルルイジ・コッリーナ</a>(<a href="../Page/イタリアサッカー連盟.md" title="wikilink">イタリア</a>)</p></td>
 </tr>
 </tbody>
 </table></td>
@@ -1025,7 +1025,7 @@
 <td><p><a href="../Page/カレル・ポボルスキー.md" title="wikilink">ポボルスキー</a> (35分) PK</p></td>
 </tr>
 <tr class="odd">
-<td><p>主審：<a href="https://ja.wikipedia.org/wiki/グレアム・ポール" title="wikilink">グレアム・ポール</a>(<a href="https://ja.wikipedia.org/wiki/フットボール・アソシエーション" title="wikilink">イングランド</a>)</p></td>
+<td><p>主審：<a href="https://ja.wikipedia.org/wiki/グレアム・ポール" title="wikilink">グレアム・ポール</a>(<a href="../Page/フットボール・アソシエーション.md" title="wikilink">イングランド</a>)</p></td>
 </tr>
 </tbody>
 </table></td>
@@ -1037,7 +1037,7 @@
 <td><table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フェイエノールト・スタディオン" title="wikilink">フェイエノールト・スタディオン</a> (20:45)</p></td>
+<td><p><a href="../Page/フェイエノールト・スタディオン.md" title="wikilink">フェイエノールト・スタディオン</a> (20:45)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Denmark.svg" title="fig:Flag_of_Denmark.svg">Flag_of_Denmark.svg</a><br />
@@ -1103,7 +1103,7 @@
 <td><p>0</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クリストフ・デュガリー" title="wikilink">デュガリー</a> (8分)<br />
+<td><p><a href="../Page/クリストフ・デュガリー.md" title="wikilink">デュガリー</a> (8分)<br />
 <a href="../Page/ダヴィド・トレゼゲ.md" title="wikilink">トレゼゲ</a> (31分)</p></td>
 </tr>
 <tr class="odd">
@@ -1136,7 +1136,7 @@
 ## 関連項目
 
   - [欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")
-  - [UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")
+  - [UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")
 
 ## 外部リンク
 

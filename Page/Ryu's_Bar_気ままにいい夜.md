@@ -11,16 +11,16 @@
 
 [ジュリー・ドレフュス](../Page/ジュリー・ドレフュス.md "wikilink")がアシスタントを務めた回で、[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")がゲストとして招かれた。関西弁嫌い（方言嫌い）のジュリーは、鶴甁に対しても終始しかめっ面であった。下を向いて両手で自身のこめかみを押さえ、鶴瓶が視野に入らないようにしているジュリーを、「大丈夫でんの?具合でも悪いんですか?」と気遣う鶴瓶に、「私にかまわないで」「なにも話さなくていい」と発言。鶴瓶は終始不穏な空気を追い払おうとしたが、ジュリーが何を言っても受け付けなかったため、鶴甁の行動も徒労に終わり、その回はそのまま放送された。
 
-また、村上自身は番組内で、大の[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")ファンであることを公言していた\[3\]。
+また、村上自身は番組内で、大の[阪神タイガース](../Page/阪神タイガース.md "wikilink")ファンであることを公言していた\[3\]。
 
-1990年10月7日からは[中村勘九郎（5代目）司会のトーク番組](https://ja.wikipedia.org/wiki/中村勘三郎_\(18代目\) "wikilink")『[今宵はKANKURO](../Page/今宵はKANKURO.md "wikilink")』スタートに伴い、同じ日曜日の23:00 - 23:30に移動したが、1991年3月31日をもって3年半の放送を終了した。最終回のゲストは村上龍の希望で、[柄谷行人](../Page/柄谷行人.md "wikilink")と[いとうせいこう](../Page/いとうせいこう.md "wikilink")が出演した。
+1990年10月7日からは[中村勘九郎（5代目）司会のトーク番組](../Page/中村勘三郎_\(18代目\).md "wikilink")『[今宵はKANKURO](../Page/今宵はKANKURO.md "wikilink")』スタートに伴い、同じ日曜日の23:00 - 23:30に移動したが、1991年3月31日をもって3年半の放送を終了した。最終回のゲストは村上龍の希望で、[柄谷行人](../Page/柄谷行人.md "wikilink")と[いとうせいこう](../Page/いとうせいこう.md "wikilink")が出演した。
 
 ## 主な出演者
 
   - [村上龍](../Page/村上龍.md "wikilink")
   - [岡部まり](../Page/岡部まり.md "wikilink")
   - [ジュリー・ドレフュス](../Page/ジュリー・ドレフュス.md "wikilink")
-  - [森口瑤子](https://ja.wikipedia.org/wiki/森口瑤子 "wikilink")
+  - [森口瑤子](../Page/森口瑤子.md "wikilink")
   - [田中秀幸](../Page/田中秀幸_\(声優\).md "wikilink")（ナレーター）
 
 ## Ryu's Barスペシャル21
@@ -28,7 +28,7 @@
 [2001年](../Page/2001年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")には『Ryu's Barスペシャル21』と題し、1度限りのスペシャル番組として放送された。
 
   - [アシスタント](https://ja.wikipedia.org/wiki/アシスタント "wikilink")：[石田ゆり子](../Page/石田ゆり子.md "wikilink")
-  - ゲスト：[中田英寿](../Page/中田英寿.md "wikilink")、[坂本龍一](../Page/坂本龍一.md "wikilink")、[ビートたけし](../Page/ビートたけし.md "wikilink")、[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
+  - ゲスト：[中田英寿](../Page/中田英寿.md "wikilink")、[坂本龍一](../Page/坂本龍一.md "wikilink")、[ビートたけし](../Page/ビートたけし.md "wikilink")、[中山美穂](../Page/中山美穂.md "wikilink")
 
 ## スタッフ
 
@@ -37,7 +37,7 @@
   - オープニング：小田原雅文（レイ・グラフィック）
   - 音楽：山本剛トリオ
   - 美術デザイン：[根本研二](../Page/根本研二.md "wikilink")
-  - 美術制作：[ウッドオフィス](https://ja.wikipedia.org/wiki/ウッドオフィス "wikilink")
+  - 美術制作：[ウッドオフィス](../Page/ウッドオフィス.md "wikilink")
   - TD：田沢政春
   - カメラ：斉藤晴夫
   - 照明：藤井友之
@@ -57,7 +57,7 @@
   - プロデューサー：春藤憲伺（MBS）→[渡辺高志](../Page/渡辺高志.md "wikilink")（MBS）、[倉内均](https://ja.wikipedia.org/wiki/倉内均 "wikilink")（nexus→AMAZON）
   - 技術協力：浜町スタジオ、[東京テレビセンター](https://ja.wikipedia.org/wiki/東京テレビセンター "wikilink")
   - 制作協力：ブレーンボックス
-  - 製作：毎日放送、[nexus](https://ja.wikipedia.org/wiki/ネクサス_\(プロダクション\) "wikilink")→[AMAZON](https://ja.wikipedia.org/wiki/アマゾン_\(映像製作\) "wikilink")
+  - 製作：毎日放送、[nexus](../Page/ネクサス_\(プロダクション\).md "wikilink")→[AMAZON](https://ja.wikipedia.org/wiki/アマゾン_\(映像製作\) "wikilink")
 
 ## 脚注
 
@@ -70,4 +70,4 @@
 
 1.  [岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")、[テレビ山梨](../Page/テレビ山梨.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")など一部の系列局を除く。
 2.  [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")では[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")ネット開始。[長崎新聞](../Page/長崎新聞.md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")付朝刊[ラ・テ欄で確認](https://ja.wikipedia.org/wiki/番組表 "wikilink")。
-3.  1980年代に刊行された短篇集『走れ\!タカハシ』にみられる[高橋慶彦](https://ja.wikipedia.org/wiki/高橋慶彦 "wikilink")への傾倒や、その後今日までのメディアにおいてはむしろ[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")のファンであったと発言していた機会の方が多い。
+3.  1980年代に刊行された短篇集『走れ\!タカハシ』にみられる[高橋慶彦](../Page/高橋慶彦.md "wikilink")への傾倒や、その後今日までのメディアにおいてはむしろ[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")のファンであったと発言していた機会の方が多い。

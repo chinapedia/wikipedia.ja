@@ -1,15 +1,15 @@
 > この記事は[MULTI MAX](https://ja.wikipedia.org/wiki/MULTI_MAX)から翻訳されています。
 
 
-**MULTI MAX** （マルチマックス）は、[CHAGE](../Page/Chage.md "wikilink")・[村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")・[淺井ひろみ](https://ja.wikipedia.org/wiki/淺井ひろみ "wikilink")から構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[歌手](../Page/歌手.md "wikilink")グループと見なされることもあるが、全員が同時に[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を取ることは少ない。正式名称は1991年まで**CHAGE'S SUPER BAND MULTI MAX**（チャゲズ スーパーバンド マルチマックス）、1992年以降は**CHAGE PRESENTS MULTI MAX**（チャゲプレゼンツ マルチマックス）。略称はマルチ、MM、M<sup>2</sup>。
+**MULTI MAX** （マルチマックス）は、[CHAGE](../Page/Chage.md "wikilink")・[村上啓介](../Page/村上啓介.md "wikilink")・[淺井ひろみ](../Page/淺井ひろみ.md "wikilink")から構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[歌手](../Page/歌手.md "wikilink")グループと見なされることもあるが、全員が同時に[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を取ることは少ない。正式名称は1991年まで**CHAGE'S SUPER BAND MULTI MAX**（チャゲズ スーパーバンド マルチマックス）、1992年以降は**CHAGE PRESENTS MULTI MAX**（チャゲプレゼンツ マルチマックス）。略称はマルチ、MM、M<sup>2</sup>。
 
 ## メンバー
 
-| 人名                                                                   | 主なパート                                                              |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")**（チャゲ）     | **[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・ギター・コーラス** |
-| **[村上啓介](https://ja.wikipedia.org/wiki/村上啓介 "wikilink")**（むらかみ・けいすけ） | **[ギター](../Page/ギター.md "wikilink")・ボーカル・コーラス**                     |
-| **[淺井ひろみ](https://ja.wikipedia.org/wiki/淺井ひろみ "wikilink")**（あさい・ひろみ） | **ボーカル・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")**            |
+| 人名                                                               | 主なパート                                                              |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **[CHAGE](https://ja.wikipedia.org/wiki/CHAGE "wikilink")**（チャゲ） | **[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・ギター・コーラス** |
+| **[村上啓介](../Page/村上啓介.md "wikilink")**（むらかみ・けいすけ）                | **[ギター](../Page/ギター.md "wikilink")・ボーカル・コーラス**                     |
+| **[淺井ひろみ](../Page/淺井ひろみ.md "wikilink")**（あさい・ひろみ）                | **ボーカル・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")**            |
 
 ## バンド名の由来
 
@@ -559,14 +559,14 @@ MULTI MAX '89</strong></p></th>
 
 ## タイアップ曲
 
-| 起用年                                                                                                    | 曲名                                                                   | タイアップ先                                                                                                            |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| 1991年                                                                                                  | WINDY ROAD                                                           | [朋友建設](https://ja.wikipedia.org/wiki/朋友建設 "wikilink") [CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink") |
-| LOVE                                                                                                   | [日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")「レーサー100」CMソング |                                                                                                                   |
-| [東映](../Page/東映.md "wikilink")映画『[JINGI 仁義](https://ja.wikipedia.org/wiki/JINGI_仁義#映画版 "wikilink")』主題歌 |                                                                      |                                                                                                                   |
-| 1993年                                                                                                  | 勇気の言葉                                                                | [エースコック](https://ja.wikipedia.org/wiki/エースコック "wikilink")「[スーパーカップ](../Page/スーパーカップ.md "wikilink")」CMソング          |
-| [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『\[\[独占                                                        | SPORTS情報|独占                                                          | SPORTS情報\]\]』イメージソング                                                                                              |
-| 1996年                                                                                                  | どうだい                                                                 | 日本テレビ系『[TVおじゃマンモス](../Page/TVおじゃマンモス.md "wikilink")』エンディングテーマ                                                     |
+| 起用年                                                                                                    | 曲名                                                                   | タイアップ先                                                                                         |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| 1991年                                                                                                  | WINDY ROAD                                                           | [朋友建設](https://ja.wikipedia.org/wiki/朋友建設 "wikilink") [CMソング](../Page/コマーシャルソング.md "wikilink") |
+| LOVE                                                                                                   | [日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")「レーサー100」CMソング |                                                                                                |
+| [東映](../Page/東映.md "wikilink")映画『[JINGI 仁義](https://ja.wikipedia.org/wiki/JINGI_仁義#映画版 "wikilink")』主題歌 |                                                                      |                                                                                                |
+| 1993年                                                                                                  | 勇気の言葉                                                                | [エースコック](../Page/エースコック.md "wikilink")「[スーパーカップ](../Page/スーパーカップ.md "wikilink")」CMソング          |
+| [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『\[\[独占                                                        | SPORTS情報|独占                                                          | SPORTS情報\]\]』イメージソング                                                                           |
+| 1996年                                                                                                  | どうだい                                                                 | 日本テレビ系『[TVおじゃマンモス](../Page/TVおじゃマンモス.md "wikilink")』エンディングテーマ                                  |
 
 ## エピソード
 

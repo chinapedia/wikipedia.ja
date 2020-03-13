@@ -17,18 +17,18 @@
 
 ## 歴史
 
-それ以前から論文や会話で「4GL」という単語は使われていたが、最初に公式に使ったのは[1982年](../Page/1982年.md "wikilink")のの著書 *Applications Development Without Programmers* であった\[3\]。同書では、手続き型でない高級[仕様記述言語](../Page/仕様記述言語.md "wikilink")を指していた。最初の原始的な4GLとしては、[IBM](../Page/IBM.md "wikilink")の[RPG](../Page/RPG_\(プログラム言語\).md "wikilink")（1960年）が挙げられる。その後、Informatics の [MARK-IV](https://ja.wikipedia.org/wiki/MARK-IV "wikilink")（1967年）、[スペリー](https://ja.wikipedia.org/wiki/スペリー "wikilink")の[MAPPER](https://ja.wikipedia.org/wiki/MAPPER "wikilink")（1969年から社内で使用、1979年外部リリース）が登場した。
+それ以前から論文や会話で「4GL」という単語は使われていたが、最初に公式に使ったのは[1982年](../Page/1982年.md "wikilink")のの著書 *Applications Development Without Programmers* であった\[3\]。同書では、手続き型でない高級[仕様記述言語](../Page/仕様記述言語.md "wikilink")を指していた。最初の原始的な4GLとしては、[IBM](../Page/IBM.md "wikilink")の[RPG](../Page/RPG_\(プログラム言語\).md "wikilink")（1960年）が挙げられる。その後、Informatics の [MARK-IV](https://ja.wikipedia.org/wiki/MARK-IV "wikilink")（1967年）、[スペリー](../Page/スペリー.md "wikilink")の[MAPPER](https://ja.wikipedia.org/wiki/MAPPER "wikilink")（1969年から社内で使用、1979年外部リリース）が登場した。
 
 4GL という用語が生き延びてきた原因はいくつかある。まずこの用語は非常に広範囲のソフトウェア製品に適用される。また、ある種の特徴や実装能力を求める手法全体を表すとも考えられる。3GLはプログラマに大きな力を与えたが、同様に4GLは一般の人々に開発環境を開放した。
 
-ある意味では4GLは[ブラックボックス](https://ja.wikipedia.org/wiki/ブラックボックス "wikilink")処理の例であり、世代が後になるほど機械そのものから遠くなっている。このため、4GLはエラーが発生した場合に理解するのが困難で[デバッグ](../Page/デバッグ.md "wikilink")しづらい傾向がある。4GLはビジネス分野で主に使われ、技術分野でも一部使われている。機械そのものから遠いということは、応用分野に近くなっていることを意味する。
+ある意味では4GLは[ブラックボックス](../Page/ブラックボックス.md "wikilink")処理の例であり、世代が後になるほど機械そのものから遠くなっている。このため、4GLはエラーが発生した場合に理解するのが困難で[デバッグ](../Page/デバッグ.md "wikilink")しづらい傾向がある。4GLはビジネス分野で主に使われ、技術分野でも一部使われている。機械そのものから遠いということは、応用分野に近くなっていることを意味する。
 
 初期の4GLでサポートされていたデータ入力方法は、[パンチカード](../Page/パンチカード.md "wikilink")での入力を考慮して、1行72桁に制限されていた。4GLは少ないパンチカードで各種処理が可能になっており、当時の3GLのプログラムのカードデッキに比較すると、枚数が非常に少なくて済んだ\[4\]。その後、コンピュータのメモリが増え、パンチカードから端末入力に変わっても、72桁のパンチカードのメタファーがそのまま使われ続けた。それでも、非常に洗練されたアプリケーションがサポートされた。インタフェースが改善され、より長い文が入力可能となり、文法に沿った改行などが可能になると、さらに能力がもたらされた。例えば[Nomadには](https://ja.wikipedia.org/wiki/:en:Nomad_software "wikilink")、以下のような一節がある。
 
   -
     もう1つのNormadの能力を示す例として、Nicholas Rawlings はコンピュータ歴史博物館のNCSS社に関する展示へのコメントがある。それによると、[ジェームズ・マーチン](https://ja.wikipedia.org/wiki/ジェームズ・マーチン "wikilink")は自身が *Engineer's Problem* と呼ぶ標準問題（職務格付けが平均で7以上の技術者に6%の昇給を与える）をNomadで解く方法をRawlingsに尋ねた。マーチンはCOBOLのプログラムが書かれた数十枚の紙と、Informatics社の MARK-IV で書かれた1、2枚の紙を提示した。Rawlings は同じ処理を行うプログラムを次の1行で提示した……
 
-4GLの発展はいくつかの要因に影響を受けており、特にハードウェアとオペレーティングシステムの制限は大きな影響を与えた。4GLが登場したころ、ハードウェアやオペレーティングシステムが違えば、アプリケーション開発環境はシステム固有なものにならざるを得なかった。例えば、[スペリー](https://ja.wikipedia.org/wiki/スペリー "wikilink")の[MAPPER](https://ja.wikipedia.org/wiki/MAPPER "wikilink")がそれである。MAPPERは様々なアプリケーションに有効であることを証明し、最新のプラットフォームに移植されてきた。最新版は[ユニシス](https://ja.wikipedia.org/wiki/ユニシス "wikilink")のBISに含まれている\[5\]。MARK-IV は現在では[CAから](https://ja.wikipedia.org/wiki/CA_\(企業\) "wikilink") VISION:BUILDER として販売されている。
+4GLの発展はいくつかの要因に影響を受けており、特にハードウェアとオペレーティングシステムの制限は大きな影響を与えた。4GLが登場したころ、ハードウェアやオペレーティングシステムが違えば、アプリケーション開発環境はシステム固有なものにならざるを得なかった。例えば、[スペリー](../Page/スペリー.md "wikilink")の[MAPPER](https://ja.wikipedia.org/wiki/MAPPER "wikilink")がそれである。MAPPERは様々なアプリケーションに有効であることを証明し、最新のプラットフォームに移植されてきた。最新版は[ユニシス](../Page/ユニシス.md "wikilink")のBISに含まれている\[5\]。MARK-IV は現在では[CAから](https://ja.wikipedia.org/wiki/CA_\(企業\) "wikilink") VISION:BUILDER として販売されている。
 
 [アッチソン・トピカ・アンド・サンタフェ鉄道](../Page/アッチソン・トピカ・アンド・サンタフェ鉄道.md "wikilink")はシステム開発に[MAPPER](https://ja.wikipedia.org/wiki/MAPPER "wikilink")を使った。これは4GLを使った[ソフトウェアプロトタイピング](../Page/ソフトウェアプロトタイピング.md "wikilink")であり、エンドユーザーによるプログラム開発プロジェクトの例である\[6\]。この場合の考え方は、鉄道の専門家にMAPPERの使い方を習得させる方が、プログラマに「鉄道操作の複雑な事情」を教えるよりも簡単だ、というものであった\[7\]。
 
@@ -70,11 +70,11 @@
       - [Informix-4GL](http://www-06.ibm.com/jp/software/data/informix/tools/4gl/)
       - [LabVIEW](../Page/LabVIEW.md "wikilink")
       - [Mathematica](../Page/Mathematica.md "wikilink")
-      - [MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink")
+      - [MATLAB](../Page/MATLAB.md "wikilink")
       - [NATURAL](http://www.softwareag.com/Corporate/products/natural/default.asp)
       - [PL/SQL](https://ja.wikipedia.org/wiki/PL/SQL "wikilink")
       - [Progress OpenEdge](http://www.progress.com/openedge/index.ssp)
-      - [R言語](https://ja.wikipedia.org/wiki/R言語 "wikilink")
+      - [R言語](../Page/R言語.md "wikilink")
       - [S言語](../Page/S言語.md "wikilink")
       - [SAS](../Page/SAS_Institute.md "wikilink")
       - [SPSS](../Page/SPSS.md "wikilink")
@@ -88,7 +88,7 @@
       - [Oracle Forms](http://www.oracle.com/technology/global/jp/products/forms/index.html)
   - [GUI生成](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")
       - [4th Dimension](http://www.4d.com/)
-      - [MATLAB](https://ja.wikipedia.org/wiki/MATLAB "wikilink") の GUIDE
+      - [MATLAB](../Page/MATLAB.md "wikilink") の GUIDE
       - [Omnis Studio](http://www.omnis.net/index.html?detail=overview)
       - [OpenROAD](http://www.ingres.com/products/openroad.php)
       - [Revolution](http://www.runrev.com/home/product-family/)
@@ -115,6 +115,6 @@
 2.  35th Hawaii International Conference on System Sciences - 1002 [Domain-Specific Languages for Software Engineering](http://csdl2.computer.org/comp/proceedings/hicss/2001/0981/09/09819071.pdf)
 3.  Martin, James. *Application Development Without Programmers.* Prentice-Hall, 1981. ISBN 0-13-038943-9.
 4.  [Columbia University Computing History: IBM Cards](http://www.columbia.edu/acis/history/cards.html)
-5.  [Unisys](https://ja.wikipedia.org/wiki/ユニシス "wikilink"). [Business Information Server](http://www.unisys.com.hk/products/software/application__development/business__information__server/features.htm) (BIS).
+5.  [Unisys](../Page/ユニシス.md "wikilink"). [Business Information Server](http://www.unisys.com.hk/products/software/application__development/business__information__server/features.htm) (BIS).
 6.  Louis Schlueter, User-Designed Computing: The Next Generation, 1988. \[book on report generator and MAPPER systems\]
 7.  McNurlin & Sprague. [Technologies for Developing Systems](http://telaga.cs.ui.ac.id/WebKuliah/IKI42400/2004/McNurlin-5ed-ch09.pdf) Information Systems Management in Practice. Prentice Hall, 2003. ISBN 0-13-101139-1

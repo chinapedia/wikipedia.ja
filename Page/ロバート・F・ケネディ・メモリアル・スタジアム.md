@@ -25,7 +25,7 @@
 
   - 9月30日 - セネタースの最後の試合だったが、ファンの乱入で[没収試合](https://ja.wikipedia.org/wiki/没収試合 "wikilink")となった。
 
-  - 7月19日 - オールドタイマーズ・ゲームで、当時75歳の[ルーク・アップリング](../Page/ルーク・アップリング.md "wikilink")が[ウォーレン・スパーン](https://ja.wikipedia.org/wiki/ウォーレン・スパーン "wikilink")からホームランを打った。
+  - 7月19日 - オールドタイマーズ・ゲームで、当時75歳の[ルーク・アップリング](../Page/ルーク・アップリング.md "wikilink")が[ウォーレン・スパーン](../Page/ウォーレン・スパーン.md "wikilink")からホームランを打った。
 
   - 4月14日 - ナショナルズ最初の試合。[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")に5-3で勝利。
 
@@ -39,13 +39,13 @@
 
 <!-- end list -->
 
-  - [1966年](../Page/1966年.md "wikilink")11月27日 - レッドスキンズが[ニューヨーク・ジャイアンツ](https://ja.wikipedia.org/wiki/ニューヨーク・ジャイアンツ "wikilink")に72-41で勝利。両チーム合計113点はNFL史上最多。
+  - [1966年](../Page/1966年.md "wikilink")11月27日 - レッドスキンズが[ニューヨーク・ジャイアンツ](../Page/ニューヨーク・ジャイアンツ.md "wikilink")に72-41で勝利。両チーム合計113点はNFL史上最多。
   - [1972年](https://ja.wikipedia.org/wiki/1972年のNFL "wikilink")12月31日 - レッドスキンズが[NFCチャンピオンシップゲーム](https://ja.wikipedia.org/wiki/NFCチャンピオンシップゲーム "wikilink")で[ダラス・カウボーイズ](../Page/ダラス・カウボーイズ.md "wikilink")を26-3で破り、[第7回スーパーボウル](https://ja.wikipedia.org/wiki/第7回スーパーボウル "wikilink")出場を決めた。
   - [1973年](https://ja.wikipedia.org/wiki/1973年のNFL "wikilink")10月8日 - カウボーイズとの[マンデーナイトフットボール](../Page/マンデーナイトフットボール.md "wikilink")で試合最後のプレーで、レッドスキンズのS[ケン・ヒューストン](https://ja.wikipedia.org/wiki/ケン・ヒューストン "wikilink")が相手WR[ウォルト・ギャリソン](https://ja.wikipedia.org/wiki/ウォルト・ギャリソン "wikilink")をゴール直前で止めて勝利。
   - [1977年](https://ja.wikipedia.org/wiki/1977年のNFL "wikilink")12月17日 - レッドスキンズが[ロサンゼルス・ラムズ](../Page/ロサンゼルス・ラムズ.md "wikilink")に17-14で勝利、この試合は[ジョージ・アレンが指揮した最後の試合となった](https://ja.wikipedia.org/wiki/ジョージ・アレン_\(アメリカンフットボールコーチ\) "wikilink")。
-  - [1981年](https://ja.wikipedia.org/wiki/1981年のNFL "wikilink")10月25日 - レッドスキンズが[ニューイングランド・ペイトリオッツ](https://ja.wikipedia.org/wiki/ニューイングランド・ペイトリオッツ "wikilink")に24-22で勝利。この試合は、[ジョー・ギブスヘッドコーチの初勝利であった](https://ja.wikipedia.org/wiki/ジョー・ギブス_\(アメリカンフットボール\) "wikilink")。
+  - [1981年](https://ja.wikipedia.org/wiki/1981年のNFL "wikilink")10月25日 - レッドスキンズが[ニューイングランド・ペイトリオッツ](../Page/ニューイングランド・ペイトリオッツ.md "wikilink")に24-22で勝利。この試合は、[ジョー・ギブスヘッドコーチの初勝利であった](https://ja.wikipedia.org/wiki/ジョー・ギブス_\(アメリカンフットボール\) "wikilink")。
   - [1983年](https://ja.wikipedia.org/wiki/1982年のNFL "wikilink")1月17日 - NFCチャンピオンシップゲームでカウボーイズに31-17で勝利、レッドスキンズが[第17回スーパーボウル](https://ja.wikipedia.org/wiki/第17回スーパーボウル "wikilink")出場を決めた。
-  - [1983年](https://ja.wikipedia.org/wiki/1983年のNFL "wikilink")9月5日 - レッドスキンズの新人CB[ダレル・グリーン](https://ja.wikipedia.org/wiki/ダレル・グリーン "wikilink")が、カウボーイズのRB[トニー・ドーセット](https://ja.wikipedia.org/wiki/トニー・ドーセット "wikilink")を後ろから追いかけて、TDを阻止した。
+  - [1983年](https://ja.wikipedia.org/wiki/1983年のNFL "wikilink")9月5日 - レッドスキンズの新人CB[ダレル・グリーン](../Page/ダレル・グリーン.md "wikilink")が、カウボーイズのRB[トニー・ドーセット](https://ja.wikipedia.org/wiki/トニー・ドーセット "wikilink")を後ろから追いかけて、TDを阻止した。
   - [1985年](https://ja.wikipedia.org/wiki/1985年のNFL "wikilink")11月18日 - ジャイアンツとのマンデーナイトフットボールで、ジャイアンツのLB[ローレンス・テイラー](https://ja.wikipedia.org/wiki/ローレンス・テイラー "wikilink")にレッドスキンズQB[ジョー・サイズマン](https://ja.wikipedia.org/wiki/ジョー・サイズマン "wikilink")がサックされた際、足を骨折しそのまま引退に追い込まれた。試合は控えQB[ジェイ・シュローダー](https://ja.wikipedia.org/wiki/ジェイ・シュローダー "wikilink")の活躍で、23-21でレッドスキンズが勝利した。
   - [1988年](https://ja.wikipedia.org/wiki/1987年のNFL "wikilink")1月17日 - [ミネソタ・バイキングス](../Page/ミネソタ・バイキングス.md "wikilink")とのNFCチャンピオンシップゲームで、ダレル・グリーンが[ウェイド・ウィルソン](https://ja.wikipedia.org/wiki/ウェイド・ウィルソン "wikilink")のパスをエンドゾーンでインターセプト、レッドスキンズが[第22回スーパーボウル](https://ja.wikipedia.org/wiki/第22回スーパーボウル "wikilink")出場を決めた。
   - [1992年](https://ja.wikipedia.org/wiki/1991年のNFL "wikilink")1月12日 - NFCチャンピオンシップゲームで[デトロイト・ライオンズ](../Page/デトロイト・ライオンズ.md "wikilink")を41-10で破り、レッドスキンズが[第26回スーパーボウル](https://ja.wikipedia.org/wiki/第26回スーパーボウル "wikilink")出場を決めた。

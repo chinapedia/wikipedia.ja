@@ -5,13 +5,13 @@
 
 ## 概要
 
-それまで全国ニュース「[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")」の前後に放送されていた情報番組「[Lばんテレポート](https://ja.wikipedia.org/wiki/Lばんテレポート "wikilink")」とニュース番組「[FTVスーパーニュース](https://ja.wikipedia.org/wiki/FTVスーパーニュース "wikilink")」を合体させるかたちで、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送開始。 これによりFTVで29年間半引き継がれてきた「テレポート」の名前がタイトルから消滅した。 16:55スタートの「スーパーニュース」は、基本的には16:55-18:16.55までは東京発の全国ニュースで、18:16.55-19:00までローカルニュースを放送するところが多いが、この番組は17時台の全国ニュースも必要最小限に抑え、ローカルニュース主体の番組体制となっている。
+それまで全国ニュース「[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")」の前後に放送されていた情報番組「[Lばんテレポート](../Page/Lばんテレポート.md "wikilink")」とニュース番組「[FTVスーパーニュース](../Page/FTVスーパーニュース.md "wikilink")」を合体させるかたちで、[2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送開始。 これによりFTVで29年間半引き継がれてきた「テレポート」の名前がタイトルから消滅した。 16:55スタートの「スーパーニュース」は、基本的には16:55-18:16.55までは東京発の全国ニュースで、18:16.55-19:00までローカルニュースを放送するところが多いが、この番組は17時台の全国ニュースも必要最小限に抑え、ローカルニュース主体の番組体制となっている。
 
 しかし、ニュースを中心に扱う18時台は高視聴率を維持していたものの、安定しない視聴率が続いた。そのため、キャスター変更や内容のリニューアルが続いた。第3スタジオがHD化されるのに伴い、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")改編でLばん冠が外れることとなり、2007年[3月30日](../Page/3月30日.md "wikilink")を持って「Lばんスーパーニュース」は終了、Lばんテレポート時代から使ってきたLばん冠番組は消滅した。2007年4月2日からは平日の全国・ローカル枠も全て「FTVスーパーニュース」となる。平日キャスターに同局の[千田淳一](../Page/千田淳一.md "wikilink")記者が出演、土曜版での2003年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")（当時[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）以来4年ぶりの登板となる。
 
 ## エピソード
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の放送で事件の被害者がそのまま生で顔を隠して出演したことがある。
+  - [2005年](../Page/2005年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の放送で事件の被害者がそのまま生で顔を隠して出演したことがある。
 
 <!-- end list -->
 
@@ -27,14 +27,14 @@
 
 ### ニュースキャスター兼司会者担当
 
-  - [2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")
+  - [2003年](../Page/2003年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")
       - [原國雄](../Page/原國雄.md "wikilink")
-      - [原田幸子](https://ja.wikipedia.org/wiki/原田幸子 "wikilink")
+      - [原田幸子](../Page/原田幸子.md "wikilink")
       - [向井佐都子](https://ja.wikipedia.org/wiki/向井佐都子 "wikilink")
   - 2005年[4月1日](../Page/4月1日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")
-      - [浜中順子](https://ja.wikipedia.org/wiki/浜中順子 "wikilink")
+      - [浜中順子](../Page/浜中順子.md "wikilink")
       - [坂井有生](../Page/坂井有生.md "wikilink")
-      - [関口由香里](https://ja.wikipedia.org/wiki/関口由香里 "wikilink")
+      - [関口由香里](../Page/関口由香里.md "wikilink")
 
 ### お天気担当
 
@@ -47,10 +47,10 @@
 
 [郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")担当のキャスター。
 
-  - [上山美紀](https://ja.wikipedia.org/wiki/上山美紀 "wikilink")（2003年[3月31日](../Page/3月31日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")3月31日）
+  - [上山美紀](../Page/上山美紀.md "wikilink")（2003年[3月31日](../Page/3月31日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")3月31日）
   - 関口由香里（2004年[4月1日](../Page/4月1日.md "wikilink") - 2005年3月31日）
-  - [海附雅美](https://ja.wikipedia.org/wiki/海附雅美 "wikilink")（2005年4月1日 - [2006年](../Page/2006年.md "wikilink")3月31日）
-  - [武田真紀](https://ja.wikipedia.org/wiki/武田真紀 "wikilink")（契約アナウンサー、2006年[4月3日](../Page/4月3日.md "wikilink") - [8月31日](../Page/8月31日.md "wikilink")）
+  - [海附雅美](../Page/海附雅美.md "wikilink")（2005年4月1日 - [2006年](../Page/2006年.md "wikilink")3月31日）
+  - [武田真紀](../Page/武田真紀.md "wikilink")（契約アナウンサー、2006年[4月3日](../Page/4月3日.md "wikilink") - [8月31日](../Page/8月31日.md "wikilink")）
   - [若槻麻美](../Page/若槻麻美.md "wikilink")（契約アナウンサー、2006年[11月20日](../Page/11月20日.md "wikilink") - 2007年3月30日、次番組でも引き続き）
 
 ## タイムテーブル
@@ -80,7 +80,7 @@
   - 福島テレビ
   - Lばんテレポート（前番組）
   - FNNスーパーニュース
-  - [FTVスーパーニュース](https://ja.wikipedia.org/wiki/FTVスーパーニュース "wikilink")（平日17時台のみ、後番組）
+  - [FTVスーパーニュース](../Page/FTVスーパーニュース.md "wikilink")（平日17時台のみ、後番組）
 
 ## 外部リンク
 

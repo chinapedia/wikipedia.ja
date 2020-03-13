@@ -9,11 +9,11 @@
 
   - [2002年](../Page/2002年.md "wikilink") 結成
   - [2004年](../Page/2004年.md "wikilink") オフィシャル・ファンクラブ発足
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") [キングレコード](../Page/キングレコード.md "wikilink")からシングル「[Cassis](../Page/Cassis_\(曲\).md "wikilink")」をリリースし、メジャー流通となる
+  - [2005年](../Page/2005年.md "wikilink") [キングレコード](../Page/キングレコード.md "wikilink")からシングル「[Cassis](../Page/Cassis_\(曲\).md "wikilink")」をリリースし、メジャー流通となる
   - [2006年](../Page/2006年.md "wikilink") [日本武道館](../Page/日本武道館.md "wikilink")でのワンマンライブ開催
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") [Sony Music Recordsにレーベルを移籍](../Page/ソニー・ミュージックレコーズ.md "wikilink")
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") [東京ドーム](../Page/東京ドーム.md "wikilink")でのワンマンライブ開催
-  - [2011年](../Page/2011年.md "wikilink") 「[SUMMER SONIC](https://ja.wikipedia.org/wiki/サマーソニック "wikilink")」、「[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink")」出演
+  - [2011年](../Page/2011年.md "wikilink") 「[SUMMER SONIC](../Page/サマーソニック.md "wikilink")」、「[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス "wikilink")」出演
   - 2012年 「気志團万博2012」出演
   - [2013年](../Page/2013年.md "wikilink") 初のワールドツアー敢行
   - [2014年](../Page/2014年.md "wikilink") 「[LOUD PARK](../Page/LOUD_PARK.md "wikilink")」出演
@@ -100,14 +100,14 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 
   - ライブの動員数が増えないなか、[2002年](../Page/2002年.md "wikilink")4月に1stシングル「別れ道」をリリース\[4\]。神楽坂DIMENSION（現：神楽坂EXPLOSION）で無料ワンマンライブを実施したところ100人程の集客があったものの、以降のライブからはまた以前の動員数に戻ってしまう\[5\]。同年6月に1stシングルの2ndプレスをリリース。2ndシングル「鬼畜教師（32歳独身）の悩殺講座」を発表するころには徐々にファンも増加していたが、全国ツアーを開催した際は地方の客入りが芳しくなかったという\[6\]。3rdシングル「午前0時のとらうまラヂオ」の制作を始めるがリリースに行き詰る（のち[2003年](../Page/2003年.md "wikilink")11月に発売された）\[7\]。[高田馬場AREA](../Page/高田馬場AREA.md "wikilink")でワンマンライブを開催後、オムニバス盤「妖幻鏡 -moon-」への参加を誘われ「おくり火」を発表\[8\]。
   - [2003年](../Page/2003年.md "wikilink")1月に由寧が脱退し、急遽後任ドラマーとして[戒が誘われる](../Page/戒_\(ミュージシャン\).md "wikilink")。2月1日のイベントで演奏に参加し、そのまま加入\[9\]。
-  - 当時の所属事務所 [Eternalが](https://ja.wikipedia.org/wiki/Eternal_\(レーベル\) "wikilink")2003年4月29日 市川CLUB GIOにて行われたレーベルイベント「喧嘩上等」を最後に解散したことから、[PS COMPANYと契約](https://ja.wikipedia.org/wiki/PS_COMPANY "wikilink")。
+  - 当時の所属事務所 [Eternalが](https://ja.wikipedia.org/wiki/Eternal_\(レーベル\) "wikilink")2003年4月29日 市川CLUB GIOにて行われたレーベルイベント「喧嘩上等」を最後に解散したことから、[PS COMPANYと契約](../Page/PS_COMPANY.md "wikilink")。
 
 ### 大日本異端芸者ガゼット
 
   - PS COMPANYに移籍後初のミニアルバム『COCKAYNE SOUP』をリリースしたころから“大日本異端芸者”のキャッチフレーズを付け、“**大日本異端芸者「ガゼット」**”と名乗るようになる\[10\]。2003年の末、[FOOL'S MATE主催のライブ](https://ja.wikipedia.org/wiki/FOOL'S_MATE "wikilink")「Beauti-Fool's Fest03」に出演\[11\]。この頃からメジャーなヴィジュアル系雑誌への掲載が増え、知名度が急速に高まる\[12\]。
   - [2004年](../Page/2004年.md "wikilink")1月、自身初となる1,000人超え規模の会場[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")でワンマンライブを成功させる。同年4月に全国ワンマンツアー、9月には[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのワンマンライブを敢行し、活動規模を拡げていく\[13\]。10月に1stアルバム『[DISORDER](../Page/DISORDER.md "wikilink")』をリリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月、7thシングル『[reila](https://ja.wikipedia.org/wiki/reila "wikilink")』がオリコン総合チャート8位にランクイン。4月に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")（2デイズ）、9月には[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")・ホールAにてワンマンライブを開催した\[14\]。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")秋から所属事務所 [PS COMPANYが](https://ja.wikipedia.org/wiki/PS_COMPANY "wikilink")[キングレコード](../Page/キングレコード.md "wikilink")と提携。それに伴い『[Cassis](../Page/Cassis_\(曲\).md "wikilink")』からはメジャー流通となり、実質的なメジャーデビューとなった\[15\]。
+  - [2005年](../Page/2005年.md "wikilink")3月、7thシングル『[reila](https://ja.wikipedia.org/wiki/reila "wikilink")』がオリコン総合チャート8位にランクイン。4月に[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")（2デイズ）、9月には[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")・ホールAにてワンマンライブを開催した\[14\]。
+  - [2005年](../Page/2005年.md "wikilink")秋から所属事務所 [PS COMPANYが](../Page/PS_COMPANY.md "wikilink")[キングレコード](../Page/キングレコード.md "wikilink")と提携。それに伴い『[Cassis](../Page/Cassis_\(曲\).md "wikilink")』からはメジャー流通となり、実質的なメジャーデビューとなった\[15\]。
 
 ### the GazettE
 
@@ -125,12 +125,12 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 
 <!-- end list -->
 
-  - [2009年](../Page/2009年.md "wikilink")3月25日に14thシングル『[DISTRESS AND COMA](https://ja.wikipedia.org/wiki/DISTRESS_AND_COMA "wikilink")』をリリース。発売日には[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて1,700人限定の抽選参加型ライブを中心に、[SHIBUYA‐BOXXでの抽選会](https://ja.wikipedia.org/wiki/SHIBUYA_BOXX "wikilink")（前述のライブの抽選）、[渋谷PARCOでの映像放映と](https://ja.wikipedia.org/wiki/渋谷パルコ "wikilink")、渋谷3会場でのイベントを開催した。同年7月には4thアルバム『DIM』をリリース。10月には15thシングル『[BEFORE I DECAY](https://ja.wikipedia.org/wiki/BEFORE_I_DECAY "wikilink")』を発表し、表題曲が映画「[ワイルド・スピード MAX](https://ja.wikipedia.org/wiki/ワイルド・スピード_MAX "wikilink")」の日本版イメージソング（日本語吹き替え版のエンディング、およびCM曲）に起用された。
+  - [2009年](../Page/2009年.md "wikilink")3月25日に14thシングル『[DISTRESS AND COMA](https://ja.wikipedia.org/wiki/DISTRESS_AND_COMA "wikilink")』をリリース。発売日には[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて1,700人限定の抽選参加型ライブを中心に、[SHIBUYA‐BOXXでの抽選会](../Page/SHIBUYA_BOXX.md "wikilink")（前述のライブの抽選）、[渋谷PARCOでの映像放映と](https://ja.wikipedia.org/wiki/渋谷パルコ "wikilink")、渋谷3会場でのイベントを開催した。同年7月には4thアルバム『DIM』をリリース。10月には15thシングル『[BEFORE I DECAY](https://ja.wikipedia.org/wiki/BEFORE_I_DECAY "wikilink")』を発表し、表題曲が映画「[ワイルド・スピード MAX](https://ja.wikipedia.org/wiki/ワイルド・スピード_MAX "wikilink")」の日本版イメージソング（日本語吹き替え版のエンディング、およびCM曲）に起用された。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")7月21日リリースの16thシングル『[SHIVER](https://ja.wikipedia.org/wiki/SHIVER "wikilink")』より、[キングレコード](../Page/キングレコード.md "wikilink")から[Sony Music Recordsへレコード会社を移籍](../Page/ソニー・ミュージックレコーズ.md "wikilink")。シングル表題曲はバンド初のアニメタイアップ「[黒執事II](https://ja.wikipedia.org/wiki/黒執事#テレビアニメ（第2期） "wikilink")」のオープニングテーマ曲に起用された。その後『[Red](https://ja.wikipedia.org/wiki/Red_\(the_GazettEの曲\) "wikilink")』、『[PLEDGE](https://ja.wikipedia.org/wiki/PLEDGE "wikilink")』とシングルをコンスタントにリリースし、同年12月26日に全国ホールツアー「TOUR 10 NAMELESS LIBERTY SIX BULLETS」の最終公演として「TOUR 10 NAMELESS LIBERTY SIX BULLETS FINAL \[THE NAMELESS LIBERTY\]」を自身初となる[東京ドーム](../Page/東京ドーム.md "wikilink")にて開催した。
 
 <!-- end list -->
 
-  - [2011年](../Page/2011年.md "wikilink")、[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の影響により3月23日に予定されていたライブDVD『THE NAMELESS LIBERTY AT 10.12.26 TOKYO DOME』と『[TRACES BEST OF 2005-2009](https://ja.wikipedia.org/wiki/TRACES_BEST_OF_2005-2009 "wikilink")』のリリースが延期となる。同年8月の「[SUMMER SONIC](https://ja.wikipedia.org/wiki/サマーソニック "wikilink") 2011」を皮切りに、9月には「[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス#2011 "wikilink") 2011」への出演と、国内大型ロックフェスへ参加するようになる。
+  - [2011年](../Page/2011年.md "wikilink")、[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の影響により3月23日に予定されていたライブDVD『THE NAMELESS LIBERTY AT 10.12.26 TOKYO DOME』と『[TRACES BEST OF 2005-2009](https://ja.wikipedia.org/wiki/TRACES_BEST_OF_2005-2009 "wikilink")』のリリースが延期となる。同年8月の「[SUMMER SONIC](../Page/サマーソニック.md "wikilink") 2011」を皮切りに、9月には「[イナズマロックフェス](https://ja.wikipedia.org/wiki/イナズマロックフェス#2011 "wikilink") 2011」への出演と、国内大型ロックフェスへ参加するようになる。
 
 <!-- end list -->
 

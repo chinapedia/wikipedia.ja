@@ -9,7 +9,7 @@ __TOC__{{-}}
 
 ## 概要
 
-このシリーズより、[組紐屋の竜](../Page/組紐屋の竜.md "wikilink")を演じる[京本政樹](../Page/京本政樹.md "wikilink")と[花屋の政](https://ja.wikipedia.org/wiki/花屋の政 "wikilink")\[1\]を演じる[村上弘明](https://ja.wikipedia.org/wiki/村上弘明 "wikilink")が登場。ともに当時二十歳代で独身だった彼らは、前シリーズまでの[飾り職人の秀](../Page/飾り職人の秀.md "wikilink")を演じる[三田村邦彦](../Page/三田村邦彦.md "wikilink")と[三味線屋の勇次](../Page/三味線屋の勇次.md "wikilink")を演じる[中条きよし](../Page/中条きよし.md "wikilink")のコンビ以上に[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")的人気を得た。なお村上は、前年放送の『[必殺仕事人IV](https://ja.wikipedia.org/wiki/必殺仕事人IV "wikilink")』第14話に政のパイロット版とも言える殺し屋小平次役としてゲスト出演している。
+このシリーズより、[組紐屋の竜](../Page/組紐屋の竜.md "wikilink")を演じる[京本政樹](../Page/京本政樹.md "wikilink")と[花屋の政](https://ja.wikipedia.org/wiki/花屋の政 "wikilink")\[1\]を演じる[村上弘明](../Page/村上弘明.md "wikilink")が登場。ともに当時二十歳代で独身だった彼らは、前シリーズまでの[飾り職人の秀](../Page/飾り職人の秀.md "wikilink")を演じる[三田村邦彦](../Page/三田村邦彦.md "wikilink")と[三味線屋の勇次](../Page/三味線屋の勇次.md "wikilink")を演じる[中条きよし](../Page/中条きよし.md "wikilink")のコンビ以上に[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")的人気を得た。なお村上は、前年放送の『[必殺仕事人IV](../Page/必殺仕事人IV.md "wikilink")』第14話に政のパイロット版とも言える殺し屋小平次役としてゲスト出演している。
 
 京本にとって、初の必殺シリーズへの出演となり、彼の存在が世間に広く知られたことで本作は特に有名ではあるが、前年の[1984年](../Page/1984年.md "wikilink")に必殺シリーズと全く同じスタッフで作られた連続テレビドラマ『[京都マル秘指令 ザ新選組](https://ja.wikipedia.org/wiki/京都マル秘指令_ザ新選組 "wikilink")』にレギュラー出演している。当時の京本は時代劇を中心に出演していたため、現代劇への出演依頼に当初は躊躇しつつも、かねてから自らがファンであった必殺シリーズへの出演の約束をプロデューサーらから提示され、それを条件に出演を果たした。
 
@@ -23,7 +23,7 @@ __TOC__{{-}}
 
 本放送時期に上映された映画『[必殺\! ブラウン館の怪物たち](../Page/必殺!_ブラウン館の怪物たち.md "wikilink")』の撮影で、竜役の京本が右脚を骨折。本作の撮影にも支障を来たすこととなり、第21話以降、竜の出演シーンは仕事料の分配と殺しの場面のみとなり、京本自らの嘆願により、[大竹修造](../Page/大竹修造.md "wikilink")が代役で竜の全身シーンを演じた\[4\]。この影響もあり従来の仕事人シリーズより短い全26話で終了となった。
 
-最終回となった第26話「主水、下町の玉三郎と出会う」は次々作『[必殺仕事人V・激闘編](https://ja.wikipedia.org/wiki/必殺仕事人V・激闘編 "wikilink")』で、はぐれ仕事人・弐を演じる[梅沢富美男](https://ja.wikipedia.org/wiki/梅沢富美男 "wikilink")が、仕事人・早変わりの梅富\[5\]役でゲスト出演した。また、『[必殺仕事人2015](https://ja.wikipedia.org/wiki/必殺仕事人2015 "wikilink")』以降、仕事人・瓦屋の陣八郎役でレギュラー出演する[遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")が悪役として出演している\[6\]。
+最終回となった第26話「主水、下町の玉三郎と出会う」は次々作『[必殺仕事人V・激闘編](../Page/必殺仕事人V・激闘編.md "wikilink")』で、はぐれ仕事人・弐を演じる[梅沢富美男](../Page/梅沢富美男.md "wikilink")が、仕事人・早変わりの梅富\[5\]役でゲスト出演した。また、『[必殺仕事人2015](https://ja.wikipedia.org/wiki/必殺仕事人2015 "wikilink")』以降、仕事人・瓦屋の陣八郎役でレギュラー出演する[遠藤憲一](../Page/遠藤憲一.md "wikilink")が悪役として出演している\[6\]。
 
 ## あらすじ
 
@@ -46,7 +46,7 @@ __TOC__{{-}}
     里の忍たちが自身を狙っていることを知った際は主水たちに迷惑を掛けたくないという一心で敢えて無愛想になり、江戸を抜けようとしたが、主水たちの協力で忍者軍団と戦い、九十九一族を葬った（第12話）。
     最後の仕事を終えたあと、主水に見送られ江戸を去っていった。（第26話）
   - [花屋の政](../Page/政_\(必殺シリーズ\).md "wikilink")
-    演 - [村上弘明](https://ja.wikipedia.org/wiki/村上弘明 "wikilink")
+    演 - [村上弘明](../Page/村上弘明.md "wikilink")
     花屋。加代の借家の一階に住んでおり、加代に花屋の商売を手伝わせることがある。主水たちと組む前は竜とコンビを組み、裏の仕事を請け負っていた。
     情に流されやすいが、初期は嫌味な部分もあった。曲がったことを嫌う熱血漢で、自身の身内が殺された時などは一人で暴走し、主水と対立することがあった。
     最後の仕事の際、殺害相手を警護していた忍に顔を見られ、命を狙われたが生き延びており、主水・加代・竜が集まった場所に姿を見せた後旅立った。（第26話）
@@ -55,7 +55,7 @@ __TOC__{{-}}
     西洋医学所に合格するため、日々、勉学に励む受験生。許婚のお新と玉助の執拗な求愛に辟易している。加代と同じく、第4話以降は殺しの衣装に着替えて出陣する。
     最終話で、西洋医学所の試験に合格したのを機に仕事から外されるが、加代と合流し一緒に最後の仕事を遂行、その後長崎へ留学するために江戸を去るが、一人遠くから他の仲間の旅立ちを見送っていた。
   - [おりく](https://ja.wikipedia.org/wiki/おりく "wikilink")
-    演 - [山田五十鈴](https://ja.wikipedia.org/wiki/山田五十鈴 "wikilink")\[7\]\[8\]
+    演 - [山田五十鈴](../Page/山田五十鈴.md "wikilink")\[7\]\[8\]
     仕事人の元締。今回は三味線屋を営まず、流しの三味線弾きとなっている。家も勇次と住んでいた店ではなく、荒れ寺に住んでいる。第11話を最後に姿を消す。
     ただし、映画『必殺\! ブラウン館の怪物たち』には登場している。裏の仕事のために京都へ旅立つが江戸の元締に先手を打つ為に、江戸へ一足先に戻っており、異人屋敷での死闘には参戦していない。
 
@@ -77,10 +77,10 @@ __TOC__{{-}}
     ただし、主水を嫌っている訳ではなく、主水の意見に賛同することもある。
   - [玉助](https://ja.wikipedia.org/wiki/玉助 "wikilink")
     演 - [梅津栄](../Page/梅津栄.md "wikilink")
-    前作『[必殺仕事人IV](https://ja.wikipedia.org/wiki/必殺仕事人IV "wikilink")』から引き続き登場。順之助に付きまとうオカマの中年男性で、本作では神出鬼没に磨きが掛かり、様々な変装で現れるようになった。
+    前作『[必殺仕事人IV](../Page/必殺仕事人IV.md "wikilink")』から引き続き登場。順之助に付きまとうオカマの中年男性で、本作では神出鬼没に磨きが掛かり、様々な変装で現れるようになった。
     順之助の受験合格には喜んでいたが、もう塾に来ることがないと知り、悲しんでいた。怒ると男の自我を取り戻し、怖い一面を見せる。
   - お新
-    演 - [灘陽子](https://ja.wikipedia.org/wiki/森口瑤子 "wikilink")
+    演 - [灘陽子](../Page/森口瑤子.md "wikilink")
     順之助の両親が決めた許婚。早熟で色事に興味を持ち、お医者さんごっこと称して順之助に迫っては迷惑がられる。
     順之助の前ではお淑やかな娘を装うが、勝気な性格で意外に腕っ節も強く、玉助が現れると本性をむき出しにした取っ組み合いの痴話喧嘩となることがあった。
   - 西順庵
@@ -120,7 +120,7 @@ __TOC__{{-}}
 
 :\* お久 - 中本美鈴
 
-:\* 孫七 - [戸浦六宏](https://ja.wikipedia.org/wiki/戸浦六宏 "wikilink")
+:\* 孫七 - [戸浦六宏](../Page/戸浦六宏.md "wikilink")
 
 :\* 鳴門屋 - [西山辰夫](../Page/西山辰夫.md "wikilink")
 
@@ -138,7 +138,7 @@ __TOC__{{-}}
 
 :\* お直 - [小田かおる](https://ja.wikipedia.org/wiki/小田かおる "wikilink")
 
-:\* 白雲道人 - [花紀京](https://ja.wikipedia.org/wiki/花紀京 "wikilink")
+:\* 白雲道人 - [花紀京](../Page/花紀京.md "wikilink")
 
 :\* 玄円 - [北九州男](https://ja.wikipedia.org/wiki/北九州男 "wikilink")
 
@@ -168,7 +168,7 @@ __TOC__{{-}}
 
 :\* 猪之吉 - [成瀬正](../Page/成瀬正孝.md "wikilink")
 
-:\* 銀次 - [高峰圭二](https://ja.wikipedia.org/wiki/高峰圭二 "wikilink")
+:\* 銀次 - [高峰圭二](../Page/高峰圭二.md "wikilink")
 
 :\* 渡世人 - [岩尾正隆](../Page/岩尾正隆.md "wikilink")
 
@@ -198,7 +198,7 @@ __TOC__{{-}}
 
 :\* 源庵 - [草薙幸二郎](../Page/草薙幸二郎.md "wikilink")
 
-:\* 幸兵衛 - [外山高士](https://ja.wikipedia.org/wiki/外山高士 "wikilink")
+:\* 幸兵衛 - [外山高士](../Page/外山高士.md "wikilink")
 
 :\* お君 - [川田あつ子](../Page/川田あつ子.md "wikilink")
 
@@ -254,7 +254,7 @@ __TOC__{{-}}
 
   - 第10話「主水 ヘソクリを盗まれる」
 
-:\* 綾乃 - [塩沢とき](https://ja.wikipedia.org/wiki/塩沢とき "wikilink")\[13\]
+:\* 綾乃 - [塩沢とき](../Page/塩沢とき.md "wikilink")\[13\]
 
 :\* 三野田伊織 - [川合伸旺](../Page/川合伸旺.md "wikilink")
 
@@ -402,7 +402,7 @@ __TOC__{{-}}
 
 :\* 音吉 - [藤堂新二](../Page/藤堂新二.md "wikilink")
 
-:\* 辰蔵 - [外山高士](https://ja.wikipedia.org/wiki/外山高士 "wikilink")
+:\* 辰蔵 - [外山高士](../Page/外山高士.md "wikilink")
 
 :\* 卯之吉 - [当銀長太郎](https://ja.wikipedia.org/wiki/当銀長太郎 "wikilink")
 
@@ -414,7 +414,7 @@ __TOC__{{-}}
 
 :\* 木阿弥 - [丹波義隆](../Page/丹波義隆.md "wikilink")
 
-:\* 大黒屋徳兵衛 - [田口計](https://ja.wikipedia.org/wiki/田口計 "wikilink")
+:\* 大黒屋徳兵衛 - [田口計](../Page/田口計.md "wikilink")
 
 :\* 宗久 - [須藤健](https://ja.wikipedia.org/wiki/須藤健 "wikilink")
 
@@ -488,7 +488,7 @@ __TOC__{{-}}
 
   - 第23話「加代、五千両の金塊を拾う」
 
-:\* 田倉勘助 - [島田順司](https://ja.wikipedia.org/wiki/島田順司 "wikilink")
+:\* 田倉勘助 - [島田順司](../Page/島田順司.md "wikilink")
 
 :\* 後藤伊三郎 - [原口剛](../Page/原口剛.md "wikilink")
 
@@ -538,11 +538,11 @@ __TOC__{{-}}
 
   - 第26話「主水、下町の玉三郎と出会う」
 
-:\* 早変りの梅富 - [梅沢富美男](https://ja.wikipedia.org/wiki/梅沢富美男 "wikilink")
+:\* 早変りの梅富 - [梅沢富美男](../Page/梅沢富美男.md "wikilink")
 
-:\* 徳川宗孝 - [遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")
+:\* 徳川宗孝 - [遠藤憲一](../Page/遠藤憲一.md "wikilink")
 
-:\* お島 - [斉藤林子](https://ja.wikipedia.org/wiki/斉藤林子 "wikilink")
+:\* お島 - [斉藤林子](../Page/斉藤林子.md "wikilink")
 
 :\* 田村郷八 - [唐沢民賢](../Page/唐沢民賢.md "wikilink")
 
@@ -570,14 +570,14 @@ __TOC__{{-}}
 
 ## スタッフ
 
-  - 制作 - [山内久司](https://ja.wikipedia.org/wiki/山内久司 "wikilink")（朝日放送）
+  - 制作 - [山内久司](../Page/山内久司.md "wikilink")（朝日放送）
   - プロデューサー - 辰野悦央（朝日放送）、櫻井洋三（松竹）
   - 脚本 - [吉田剛](https://ja.wikipedia.org/wiki/吉田剛_\(脚本家\) "wikilink")、[篠崎好](https://ja.wikipedia.org/wiki/篠崎好 "wikilink")、保利吉紀、中原朗、[林千代](https://ja.wikipedia.org/wiki/林千代 "wikilink")、鶉野昭彦、[三田純市](../Page/三田純市.md "wikilink")
   - 音楽 - [平尾昌晃](../Page/平尾昌晃.md "wikilink")
-  - 監督 - [広瀬襄](../Page/広瀬襄.md "wikilink")、八木美津雄、[田中徳三](https://ja.wikipedia.org/wiki/田中徳三 "wikilink")、[松野宏軌](https://ja.wikipedia.org/wiki/松野宏軌 "wikilink")、[黒田義之](../Page/黒田義之.md "wikilink")、[津島勝](../Page/津島勝.md "wikilink")、家喜俊彦
+  - 監督 - [広瀬襄](../Page/広瀬襄.md "wikilink")、八木美津雄、[田中徳三](../Page/田中徳三.md "wikilink")、[松野宏軌](https://ja.wikipedia.org/wiki/松野宏軌 "wikilink")、[黒田義之](../Page/黒田義之.md "wikilink")、[津島勝](../Page/津島勝.md "wikilink")、家喜俊彦
   - ナレーション
       - 語り - [中村梅之助](../Page/中村梅之助_\(4代目\).md "wikilink")
-      - 作 - [山内久司](https://ja.wikipedia.org/wiki/山内久司 "wikilink")
+      - 作 - [山内久司](../Page/山内久司.md "wikilink")
   - 協力 - [エクラン演技集団](https://ja.wikipedia.org/wiki/エクラン社 "wikilink")、新演技座
   - 製作協力 - 京都映画撮影所（現・松竹撮影所）
   - 制作 - 朝日放送、松竹
@@ -587,7 +587,7 @@ __TOC__{{-}}
   - 主題歌 - 藤田絵美子\[19\]「さよならさざんか」\[20\]（[リバスターレコード](https://ja.wikipedia.org/wiki/リバスター音産 "wikilink")）
       -
         作詞：[宇山清太郎](https://ja.wikipedia.org/wiki/宇山清太郎 "wikilink")、作曲：[平尾昌晃](../Page/平尾昌晃.md "wikilink")、編曲：[竜崎孝路](../Page/竜崎孝路.md "wikilink")
-        次作『[必殺橋掛人](https://ja.wikipedia.org/wiki/必殺橋掛人 "wikilink")』でも引き続き使用された（歌詞は1番のまま変わらず）。
+        次作『[必殺橋掛人](../Page/必殺橋掛人.md "wikilink")』でも引き続き使用された（歌詞は1番のまま変わらず）。
         レギュラー出演者ではない歌手が歌ったのは[金沢明子](../Page/金沢明子.md "wikilink")の「浜千鳥情話」以来。
   - 挿入歌 - 京本政樹「哀しみ色の…」（ビクターレコード・[インビテーションレーベル](../Page/Invitation_\(レーベル\).md "wikilink")（現：[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")））
       -
@@ -627,7 +627,7 @@ __TOC__{{-}}
 | 第23話 | 1985年7月5日  | 加代、五千両の金塊を拾う                                                                              | 篠崎好  | 松野宏軌  |
 | 第24話 | 1985年7月12日 | 花屋の政 雷雨の中で闘う                                                                              |      |       |
 | 第25話 | 1985年7月19日 | 主水、[源氏](../Page/源氏.md "wikilink")と[平家](https://ja.wikipedia.org/wiki/平家 "wikilink")に泣かされる | 三田純市 | 黒田義之  |
-| 第26話 | 1985年7月26日 | 主水、[下町の玉三郎と出会う](https://ja.wikipedia.org/wiki/梅沢富美男 "wikilink")                           | 保利吉紀 | 松野宏軌  |
+| 第26話 | 1985年7月26日 | 主水、[下町の玉三郎と出会う](../Page/梅沢富美男.md "wikilink")                                              | 保利吉紀 | 松野宏軌  |
 
 ## ネット局
 
@@ -793,7 +793,7 @@ __TOC__{{-}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
 <td><p>テレビ朝日系列</p></td>
 <td></td>
@@ -831,7 +831,7 @@ __TOC__{{-}}
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p>TBS系列</p></td>
 <td></td>
 </tr>
@@ -844,7 +844,7 @@ __TOC__{{-}}
 
 [Category:必殺シリーズ](https://ja.wikipedia.org/wiki/Category:必殺シリーズ "wikilink") [Category:1985年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1985年のテレビドラマ "wikilink") [Category:必殺仕事人](https://ja.wikipedia.org/wiki/Category:必殺仕事人 "wikilink")
 
-1.  次作『[必殺仕事人V・激闘編](https://ja.wikipedia.org/wiki/必殺仕事人V・激闘編 "wikilink")』以降の主水シリーズでは、鍛冶屋の政。
+1.  次作『[必殺仕事人V・激闘編](../Page/必殺仕事人V・激闘編.md "wikilink")』以降の主水シリーズでは、鍛冶屋の政。
 2.
 3.
 4.  『META‐JiDAIGEKI by Kyomoto‐MiX』(文芸社) p.160-161
@@ -855,7 +855,7 @@ __TOC__{{-}}
 9.  第1、16話
 10. 第1、2話
 11. 野際は政の養母でもある仕事人役。後にスペシャル『[必殺仕事人2007](../Page/必殺仕事人2007.md "wikilink")』『[同2009](https://ja.wikipedia.org/wiki/必殺仕事人2009 "wikilink")』で、レギュラー出演を果たす。
-12. 斉藤と萬田は劇場[映画](../Page/映画.md "wikilink")第1作『[必殺\! THE HISSATSU](../Page/必殺!_THE_HISSATSU.md "wikilink")』の石亀とその妻 お娟役。2人は次作『[必殺橋掛人](https://ja.wikipedia.org/wiki/必殺橋掛人 "wikilink")』に夫婦役で、レギュラー出演する。
+12. 斉藤と萬田は劇場[映画](../Page/映画.md "wikilink")第1作『[必殺\! THE HISSATSU](../Page/必殺!_THE_HISSATSU.md "wikilink")』の石亀とその妻 お娟役。2人は次作『[必殺橋掛人](../Page/必殺橋掛人.md "wikilink")』に夫婦役で、レギュラー出演する。
 13. 塩沢は後に劇場映画『必殺\! ブラウン館の怪物たち』にゲスト出演。
 14. 賀来は政の元恋人である被害者役。当時、村上と賀来は交際が噂されていた。のちに『必殺仕事人2009』第2話に被害者の母親役でゲスト出演する。
 15. 第6話他

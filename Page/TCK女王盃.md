@@ -9,7 +9,7 @@ TCKは大井競馬の愛称である東京シティ競馬 (Tokyo City Keiba) の
 
 ## 概要
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に5歳（現4歳）から10歳（現9歳）の[牝馬](https://ja.wikipedia.org/wiki/牝馬 "wikilink")限定の別定の中央・地方全国指定交流の重賞競走として創設された。第1回は大井競馬場のダート2000mで施行された。[2004年](../Page/2004年.md "wikilink")より出走条件は4歳（旧5歳）以上牝馬限定、施行距離はダート1800mに変更となった。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に5歳（現4歳）から10歳（現9歳）の[牝馬](../Page/牝馬.md "wikilink")限定の別定の中央・地方全国指定交流の重賞競走として創設された。第1回は大井競馬場のダート2000mで施行された。[2004年](../Page/2004年.md "wikilink")より出走条件は4歳（旧5歳）以上牝馬限定、施行距離はダート1800mに変更となった。
 
 [エンプレス杯](../Page/エンプレス杯.md "wikilink")の前哨戦の位置付けられており、本競走で上位2着までに入った地方所属馬には同年のエンプレス杯の優先出走権が付与される\[2\]。
 
@@ -252,15 +252,15 @@ TCKは大井競馬の愛称である東京シティ競馬 (Tokyo City Keiba) の
 
 ## 歴史
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 大井競馬場のダート2000mの5歳（現4歳）から10歳（現9歳）の牝馬限定・[中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")・[地方競馬](../Page/地方競馬.md "wikilink")全国指定交流の別定重賞（統一GIII・南関東G2）競走、TCK女王盃として創設。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - 大井競馬場のダート2000mの5歳（現4歳）から10歳（現9歳）の牝馬限定・[中央競馬](../Page/中央競馬.md "wikilink")・[地方競馬](../Page/地方競馬.md "wikilink")全国指定交流の別定重賞（統一GIII・南関東G2）競走、TCK女王盃として創設。
   - [2001年](../Page/2001年.md "wikilink") - [馬齢](../Page/馬齢.md "wikilink")表示の国際基準への変更に伴い、出走条件が「5歳から10歳の牝馬」から「4歳から9歳の牝馬」に変更。
   - [2004年](../Page/2004年.md "wikilink")
       - 出走条件を「4歳以上牝馬」に変更（10歳以上の牝馬が出走可能になった）。
       - 施行距離をダート1800mに変更。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - レマーズガールが史上初の連覇。
       - [武豊](../Page/武豊.md "wikilink")が[騎手](../Page/騎手.md "wikilink")として史上初の連覇。
-      - 湯浅三郎が[調教師](https://ja.wikipedia.org/wiki/調教師 "wikilink")として史上初の連覇。
+      - 湯浅三郎が[調教師](../Page/調教師.md "wikilink")として史上初の連覇。
   - [2007年](../Page/2007年.md "wikilink") - [国際セリ名簿基準委員会](../Page/国際セリ名簿基準委員会.md "wikilink")（ICSC）の勧告に伴う重賞の格付け表記の変更により、統一グレード表記をJpnIIIに変更。なお、南関東グレードは併記しないことになった。
   - [2014年](../Page/2014年.md "wikilink") - この年より農林水産大臣賞典として施行。
 
@@ -274,16 +274,16 @@ TCKは大井競馬の愛称である東京シティ競馬 (Tokyo City Keiba) の
 | 第2回  | 1999年1月20日 | 2000m | [ケープリズバーン](https://ja.wikipedia.org/wiki/ケープリズバーン "wikilink")         | 牝4 | [JRA](../Page/日本中央競馬会.md "wikilink") | 2:08.0 | [熊沢重文](../Page/熊沢重文.md "wikilink")                             | [池江泰郎](../Page/池江泰郎.md "wikilink")                         | [（有）社台レースホース](../Page/社台レースホース.md "wikilink")                                        |
 | 第3回  | 2000年2月3日  | 2000m | [ヤマノリアル](https://ja.wikipedia.org/wiki/ヤマノリアル "wikilink")             | 牝4 | [船橋](../Page/船橋競馬場.md "wikilink")    | 2:06.9 | [張田京](../Page/張田京.md "wikilink")                               | 後藤稔                                                        | 山泉惠宥                                                                                 |
 | 第4回  | 2001年1月31日 | 2000m | [ベラミロード](../Page/ベラミロード.md "wikilink")                                | 牝5 | [宇都宮](../Page/宇都宮競馬場.md "wikilink")  | 2:06.4 | [内田利雄](../Page/内田利雄.md "wikilink")                             | 室井康雄                                                       | 室井征巳                                                                                 |
-| 第5回  | 2002年1月23日 | 2000m | [レディバラード](https://ja.wikipedia.org/wiki/レディバラード "wikilink")           | 牝5 | JRA                                  | 2:06.8 | [藤田伸二](https://ja.wikipedia.org/wiki/藤田伸二 "wikilink")          | [山内研二](../Page/山内研二.md "wikilink")                         | [（株）ロードホースクラブ](../Page/ロードホースクラブ.md "wikilink")                                      |
+| 第5回  | 2002年1月23日 | 2000m | [レディバラード](https://ja.wikipedia.org/wiki/レディバラード "wikilink")           | 牝5 | JRA                                  | 2:06.8 | [藤田伸二](../Page/藤田伸二.md "wikilink")                             | [山内研二](../Page/山内研二.md "wikilink")                         | [（株）ロードホースクラブ](../Page/ロードホースクラブ.md "wikilink")                                      |
 | 第6回  | 2003年2月5日  | 2000m | [ネームヴァリュー](../Page/ネームヴァリュー.md "wikilink")                            | 牝5 | 船橋                                   | 2:06.7 | [佐藤隆](../Page/佐藤隆_\(競馬\).md "wikilink")                        | [川島正行](../Page/川島正行.md "wikilink")                         | 富岡眞治                                                                                 |
 | 第7回  | 2004年1月21日 | 1800m | [レマーズガール](https://ja.wikipedia.org/wiki/レマーズガール "wikilink")           | 牝4 | JRA                                  | 1:53.1 | [武豊](../Page/武豊.md "wikilink")                                 | [湯浅三郎](../Page/湯浅三郎.md "wikilink")                         | [平井豊光](../Page/平井豊光.md "wikilink")                                                   |
 | 第8回  | 2005年1月19日 | 1800m | レマーズガール                                                               | 牝5 | JRA                                  | 1:52.7 | 武豊                                                             | 湯浅三郎                                                       | 平井豊光                                                                                 |
 | 第9回  | 2006年1月18日 | 1800m | [グラッブユアハート](https://ja.wikipedia.org/wiki/グラッブユアハート "wikilink")       | 牝6 | JRA                                  | 1:53.8 | [安藤勝己](../Page/安藤勝己.md "wikilink")                             | [畠山吉宏](https://ja.wikipedia.org/wiki/畠山吉宏 "wikilink")      | [吉田和子](../Page/吉田和子_\(社台グループ\).md "wikilink")                                        |
 | 第10回 | 2007年1月24日 | 1800m | [サウンドザビーチ](https://ja.wikipedia.org/wiki/サウンドザビーチ "wikilink")         | 牝6 | JRA                                  | 1:52.7 | [勝浦正樹](../Page/勝浦正樹.md "wikilink")                             | [藤原辰雄](../Page/藤原辰雄.md "wikilink")                         | 飯田正                                                                                  |
-| 第11回 | 2008年1月16日 | 1800m | [ラピッドオレンジ](https://ja.wikipedia.org/wiki/ラピッドオレンジ "wikilink")         | 牝5 | JRA                                  | 1:54.1 | [内田博幸](https://ja.wikipedia.org/wiki/内田博幸 "wikilink")          | [小笠倫弘](https://ja.wikipedia.org/wiki/小笠倫弘 "wikilink")      | （有）社台レースホース                                                                          |
+| 第11回 | 2008年1月16日 | 1800m | [ラピッドオレンジ](https://ja.wikipedia.org/wiki/ラピッドオレンジ "wikilink")         | 牝5 | JRA                                  | 1:54.1 | [内田博幸](../Page/内田博幸.md "wikilink")                             | [小笠倫弘](https://ja.wikipedia.org/wiki/小笠倫弘 "wikilink")      | （有）社台レースホース                                                                          |
 | 第12回 | 2009年1月21日 | 1800m | [ヤマトマリオン](https://ja.wikipedia.org/wiki/ヤマトマリオン "wikilink")           | 牝6 | JRA                                  | 1:53.3 | [幸英明](../Page/幸英明.md "wikilink")                               | [安達昭夫](https://ja.wikipedia.org/wiki/安達昭夫 "wikilink")      | 坂東まさ子                                                                                |
-| 第13回 | 2010年1月20日 | 1800m | [ユキチャン](../Page/ユキチャン.md "wikilink")                                  | 牝5 | [川崎](../Page/川崎競馬場.md "wikilink")    | 1:52.9 | [今野忠成](../Page/今野忠成.md "wikilink")                             | [山崎尋美](https://ja.wikipedia.org/wiki/山崎尋美 "wikilink")      | [金子真人](https://ja.wikipedia.org/wiki/金子真人 "wikilink")                                |
-| 第14回 | 2011年2月2日  | 1800m | [ラヴェリータ](https://ja.wikipedia.org/wiki/ラヴェリータ "wikilink")             | 牝5 | JRA                                  | 1:52.4 | [M.デムーロ](https://ja.wikipedia.org/wiki/ミルコ・デムーロ "wikilink")    | [松元茂樹](../Page/松元茂樹.md "wikilink")                         | [前田幸治](https://ja.wikipedia.org/wiki/前田幸治 "wikilink")                                |
+| 第13回 | 2010年1月20日 | 1800m | [ユキチャン](../Page/ユキチャン.md "wikilink")                                  | 牝5 | [川崎](../Page/川崎競馬場.md "wikilink")    | 1:52.9 | [今野忠成](../Page/今野忠成.md "wikilink")                             | [山崎尋美](https://ja.wikipedia.org/wiki/山崎尋美 "wikilink")      | [金子真人](../Page/金子真人.md "wikilink")                                                   |
+| 第14回 | 2011年2月2日  | 1800m | [ラヴェリータ](https://ja.wikipedia.org/wiki/ラヴェリータ "wikilink")             | 牝5 | JRA                                  | 1:52.4 | [M.デムーロ](../Page/ミルコ・デムーロ.md "wikilink")                       | [松元茂樹](../Page/松元茂樹.md "wikilink")                         | [前田幸治](https://ja.wikipedia.org/wiki/前田幸治 "wikilink")                                |
 | 第15回 | 2012年1月18日 | 1800m | [ハルサンサン](https://ja.wikipedia.org/wiki/ハルサンサン "wikilink")             | 牝4 | 船橋                                   | 1:53.6 | [今野忠成](../Page/今野忠成.md "wikilink")                             | [佐藤賢二](../Page/佐藤賢二.md "wikilink")                         | 三村茂                                                                                  |
 | 第16回 | 2013年1月23日 | 1800m | [メーデイア](https://ja.wikipedia.org/wiki/メーデイア_\(競走馬\) "wikilink")       | 牝5 | JRA                                  | 1:53.7 | [濱中俊](../Page/浜中俊.md "wikilink")                               | [笹田和秀](https://ja.wikipedia.org/wiki/笹田和秀 "wikilink")      | （有）社台レースホース                                                                          |
 | 第17回 | 2014年1月22日 | 1800m | メーデイア                                                                 | 牝6 | JRA                                  | 1:51.4 | 濱中俊                                                            | 笹田和秀                                                       | （有）社台レースホース                                                                          |

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[DJはかつて同局で生放送された平日朝のワイド番組](../Page/ディスクジョッキー.md "wikilink")「[FMソフィア](https://ja.wikipedia.org/wiki/FMソフィア "wikilink")」でDJを務め、また近年[テレビ番組](../Page/テレビ番組.md "wikilink")の[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")としても八面六臂の活躍を見せる[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[坂上みき](../Page/坂上みき.md "wikilink")。また番組開始当初から2004年3月までは月-金曜までの放送で、DJは月-木曜が坂上が務め、金曜が[鈴木万由香](../Page/鈴木万由香.md "wikilink")・[進藤晶子](https://ja.wikipedia.org/wiki/進藤晶子 "wikilink")が務めていたが、2004年4月から金曜日については「[よんぱち 48hours 〜WEEKEND MEISTER〜](https://ja.wikipedia.org/wiki/よんぱち_48hours_〜WEEKEND_MEISTER〜 "wikilink")」スタートに伴い金曜の放送を終了し、以降は月 - 木曜までの放送となった。
+[DJはかつて同局で生放送された平日朝のワイド番組](../Page/ディスクジョッキー.md "wikilink")「[FMソフィア](https://ja.wikipedia.org/wiki/FMソフィア "wikilink")」でDJを務め、また近年[テレビ番組](../Page/テレビ番組.md "wikilink")の[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")としても八面六臂の活躍を見せる[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[坂上みき](../Page/坂上みき.md "wikilink")。また番組開始当初から2004年3月までは月-金曜までの放送で、DJは月-木曜が坂上が務め、金曜が[鈴木万由香](../Page/鈴木万由香.md "wikilink")・[進藤晶子](https://ja.wikipedia.org/wiki/進藤晶子 "wikilink")が務めていたが、2004年4月から金曜日については「[よんぱち 48hours 〜WEEKEND MEISTER〜](../Page/よんぱち_48hours_〜WEEKEND_MEISTER〜.md "wikilink")」スタートに伴い金曜の放送を終了し、以降は月 - 木曜までの放送となった。
 
 坂上の軽快なおしゃべりと共に[音楽](../Page/音楽.md "wikilink")・[映画](../Page/映画.md "wikilink")・[ファッション](../Page/ファッション.md "wikilink")など、常に流行の最新情報を提供する番組であった。
 

@@ -1,7 +1,7 @@
 > この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
 
 
-**氏賀 Y太**（うじが わいた、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[10月9日](../Page/10月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[新潟県](../Page/新潟県.md "wikilink")出身、[埼玉県](../Page/埼玉県.md "wikilink")在住。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。既婚、子供あり。 　
+**氏賀 Y太**（うじが わいた、[1970年](../Page/1970年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[新潟県](../Page/新潟県.md "wikilink")出身、[埼玉県](../Page/埼玉県.md "wikilink")在住。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。既婚、子供あり。 　
 
 ## 概要
 

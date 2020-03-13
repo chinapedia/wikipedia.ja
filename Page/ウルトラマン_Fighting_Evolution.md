@@ -14,13 +14,13 @@
   - [ウルトラマン Fighting Evolution Rebirth](https://ja.wikipedia.org/wiki/#ウルトラマン_Fighting_Evolution_Rebirth "wikilink")
     2005年10月27日発売。PlayStation 2用ソフト。2007年7月19日にBEST版として再発売された。
   - [ウルトラマン Fighting Evolution 0](../Page/ウルトラマン_Fighting_Evolution_0.md "wikilink")
-    2006年7月20日発売。[PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。
+    2006年7月20日発売。[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")。
 
 ## ウルトラマン Fighting Evolution
 
 1998年2月19日発売。[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。
 
-  - 登場キャラは[ウルトラマン](../Page/ウルトラマン.md "wikilink")・[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\) "wikilink")・[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")・[バルタン星人](../Page/バルタン星人.md "wikilink")・[ダダ](../Page/ダダ_\(ウルトラ怪獣\).md "wikilink")・[エレキング](../Page/エレキング.md "wikilink")・[メトロン星人](../Page/メトロン星人.md "wikilink")・[キングジョー](../Page/キングジョー.md "wikilink")の8人。隠しキャラクターとして、[ゴモラ](../Page/ゴモラ_\(ウルトラ怪獣\).md "wikilink")・[マグマ星人](https://ja.wikipedia.org/wiki/マグマ星人 "wikilink")・[エースキラー](https://ja.wikipedia.org/wiki/エースキラー_\(ウルトラ怪獣\) "wikilink")・[ゼットン](../Page/ゼットン.md "wikilink")の4人が登場する。
+  - 登場キャラは[ウルトラマン](../Page/ウルトラマン.md "wikilink")・[ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")・[ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")・[バルタン星人](../Page/バルタン星人.md "wikilink")・[ダダ](../Page/ダダ_\(ウルトラ怪獣\).md "wikilink")・[エレキング](../Page/エレキング.md "wikilink")・[メトロン星人](../Page/メトロン星人.md "wikilink")・[キングジョー](../Page/キングジョー.md "wikilink")の8人。隠しキャラクターとして、[ゴモラ](../Page/ゴモラ_\(ウルトラ怪獣\).md "wikilink")・[マグマ星人](../Page/マグマ星人.md "wikilink")・[エースキラー](https://ja.wikipedia.org/wiki/エースキラー_\(ウルトラ怪獣\) "wikilink")・[ゼットン](../Page/ゼットン.md "wikilink")の4人が登場する。
   - 必殺技は基本的に各キャラ一つずつ（ウルトラセブンのみ2つ）持ち、コマンド入力で出すことができる。発動までに時間がかかり、その最中に攻撃されると発動しない。発動されても軸ずらしなどで回避可能。
   - この作品に[ウルトラマンA](../Page/ウルトラマンA.md "wikilink")と[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")は登場しないが、『ウルトラマンA』の戦闘曲や『ウルトラマンレオ』の前期オープニングテーマのアレンジ版が流れている。
   - 3D表現されたウルトラマンやウルトラ怪獣など評価点も存在するが、もっさりとした動作、バリエーションの少ない単発技をちまちま出し合いながら、最後は強力すぎる必殺技で決着をつけるという、どのキャラを使っても大味かつ単調なバトルが展開される点などから、ゲームとしての評価は決して高いとは言い切れない\[1\]。
@@ -45,7 +45,7 @@
 <!-- end list -->
 
   - [ウルトラマン](../Page/ウルトラマン.md "wikilink")
-  - [ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\) "wikilink")
+  - [ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")
   - [ウルトラマンジャック](../Page/帰ってきたウルトラマン.md "wikilink")
   - [ウルトラマンA](../Page/ウルトラマンA.md "wikilink")
   - [ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")
@@ -57,12 +57,12 @@
   - [ゴモラ](../Page/ゴモラ_\(ウルトラ怪獣\).md "wikilink")
   - [エースキラー](https://ja.wikipedia.org/wiki/エースキラー_\(ウルトラ怪獣\) "wikilink")
   - [タイラント](https://ja.wikipedia.org/wiki/タイラント_\(ウルトラ怪獣\) "wikilink")
-  - [マグマ星人](https://ja.wikipedia.org/wiki/マグマ星人 "wikilink")
+  - [マグマ星人](../Page/マグマ星人.md "wikilink")
   - [レッドギラス](https://ja.wikipedia.org/wiki/ウルトラマンレオの登場怪獣#双子怪獣_レッドギラス "wikilink")、[ブラックギラス](https://ja.wikipedia.org/wiki/ウルトラマンレオの登場怪獣#双子怪獣_ブラックギラス "wikilink")（ウルトラモード、又は技のみ）
   - [ゼットン](../Page/ゼットン.md "wikilink")
   - [ダダ](../Page/ダダ_\(ウルトラ怪獣\).md "wikilink")
   - [ベムスター](../Page/ベムスター.md "wikilink")
-  - [ヤプール](https://ja.wikipedia.org/wiki/ヤプール人 "wikilink")（ウルトラモード限定）
+  - [ヤプール](../Page/ヤプール人.md "wikilink")（ウルトラモード限定）
 
 ### ウルトラモード
 
@@ -141,7 +141,7 @@
 <!-- end list -->
 
   - [ウルトラマン](../Page/ウルトラマン.md "wikilink")
-  - [ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\) "wikilink")
+  - [ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")
   - [ウルトラマンジャック](../Page/帰ってきたウルトラマン.md "wikilink")
   - [ウルトラマンA](../Page/ウルトラマンA.md "wikilink")
   - [ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")
@@ -163,9 +163,9 @@
   - [エースキラー](https://ja.wikipedia.org/wiki/エースキラー_\(ウルトラ怪獣\) "wikilink")
   - [タイラント](https://ja.wikipedia.org/wiki/タイラント_\(ウルトラ怪獣\) "wikilink")
   - [エースロボット](https://ja.wikipedia.org/wiki/ウルトラマンAの登場怪獣#ロボット超人_エースロボット "wikilink")
-  - [マグマ星人](https://ja.wikipedia.org/wiki/マグマ星人 "wikilink")
+  - [マグマ星人](../Page/マグマ星人.md "wikilink")
   - [レッドギラス](https://ja.wikipedia.org/wiki/ウルトラマンレオの登場怪獣#双子怪獣_レッドギラス "wikilink")、[ブラックギラス](https://ja.wikipedia.org/wiki/ウルトラマンレオの登場怪獣#双子怪獣_ブラックギラス "wikilink")（ウルトラモード、又は技のみ）
-  - [ゴルザ](https://ja.wikipedia.org/wiki/ゴルザ "wikilink")（強化）
+  - [ゴルザ](../Page/ゴルザ.md "wikilink")（強化）
   - [レイキュバス](https://ja.wikipedia.org/wiki/ウルトラマンダイナの登場怪獣#宇宙海獣_レイキュバス "wikilink")（冷気、炎）
   - [ガンQ](https://ja.wikipedia.org/wiki/ガンQ#奇獣_ガンQ "wikilink")
   - [ゼットン](../Page/ゼットン.md "wikilink")
@@ -526,16 +526,16 @@
 <!-- end list -->
 
   - [ウルトラマン](../Page/ウルトラマン.md "wikilink")
-  - [ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン_\(キャラクター\) "wikilink")
+  - [ウルトラセブン](../Page/ウルトラセブン_\(キャラクター\).md "wikilink")
   - [ウルトラマンタロウ](../Page/ウルトラマンタロウ.md "wikilink")
   - [ウルトラマンティガ](../Page/ウルトラマンティガ.md "wikilink")（マルチ、スカイ、パワー）
   - [ウルトラマンガイア](../Page/ウルトラマンガイア.md "wikilink")（V2、スプリームヴァージョン）
   - [ウルトラマンアグル](https://ja.wikipedia.org/wiki/ウルトラマンアグル "wikilink")（V2）
   - [ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")（ルナ、コロナ、エクリプス）
-  - [ブルトン](https://ja.wikipedia.org/wiki/ブルトン_\(ウルトラ怪獣\) "wikilink")
+  - [ブルトン](../Page/ブルトン_\(ウルトラ怪獣\).md "wikilink")
   - [ゴモラ](../Page/ゴモラ_\(ウルトラ怪獣\).md "wikilink")
   - [レッドキング](../Page/レッドキング.md "wikilink")
-  - [ジェロニモン](https://ja.wikipedia.org/wiki/ジェロニモン "wikilink")
+  - [ジェロニモン](../Page/ジェロニモン.md "wikilink")
   - [バルタン星人](../Page/バルタン星人.md "wikilink")
   - [メフィラス星人](../Page/メフィラス星人.md "wikilink")
   - [エレキング](../Page/エレキング.md "wikilink")

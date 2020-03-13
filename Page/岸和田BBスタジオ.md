@@ -20,7 +20,7 @@
 
 ## 関連項目
 
-  - [まいど\!火曜日はKEIRIN](https://ja.wikipedia.org/wiki/まいど!火曜日はKEIRIN "wikilink")（[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")競輪中継番組）
+  - [まいど\!火曜日はKEIRIN](../Page/まいど!火曜日はKEIRIN.md "wikilink")（[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")競輪中継番組）
 
 ## 外部リンク
 

@@ -14,9 +14,9 @@
   - [1993年](../Page/1993年.md "wikilink") - シングル「君が欲しくてたまらない」でデビュー。
   - [1994年](../Page/1994年.md "wikilink") - 後藤、藤本が加入。栗林が脱退し、加藤が加入。
   - [1996年](../Page/1996年.md "wikilink") - 初のライブツアーを行う。以後ライブ活動がZYYGの活動全体において大きな比重を占める。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - B-GramRECORDSの電話24時間テープ案内で、アニメ『[発明BOYカニパン](https://ja.wikipedia.org/wiki/発明BOYカニパン "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）の後期エンディングテーマに決定したとアナウンスされるも発売中止になる。また、クリスマス期のライブ以後、表立った活動が無くなる。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - B-GramRECORDSの電話24時間テープ案内で、アニメ『[発明BOYカニパン](../Page/発明BOYカニパン.md "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）の後期エンディングテーマに決定したとアナウンスされるも発売中止になる。また、クリスマス期のライブ以後、表立った活動が無くなる。
   - [1999年](../Page/1999年.md "wikilink") - FC会報にて解散を宣言。ベスト盤等のリリースやライブは実施されなかった。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 解散時行われなかった、ラストライブを実施することが発表される。
+  - [2005年](../Page/2005年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 解散時行われなかった、ラストライブを実施することが発表される。
   - [2006年](../Page/2006年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink") - 高山、後藤、加藤、藤本で一夜限りのラストライブを行う。
   - 2019年4月1日 - 後藤の呼びかけにより20年振りに第2期メンバーでの再結成を発表、7月14日と同月21日に復活ライブを実施。
   - 2019年[12月7日](../Page/12月7日.md "wikilink") - 結成以来初となるファンミーティングを昼夜2公演で実施。
@@ -32,7 +32,7 @@
 <!-- end list -->
 
   -
-    福岡県出身。デビュー曲を除く全ての作詞を担当。[ビーイング](../Page/ビーイング.md "wikilink")の主催するBADオーディションに合格し、デビュー。同期には、元[BAAD](https://ja.wikipedia.org/wiki/BAAD "wikilink")、現[doaの](../Page/Doa_\(ミュージシャン\).md "wikilink")[大田紳一郎](../Page/大田紳一郎.md "wikilink")がいる。ZYYG解散後は[BON-BON BLANCOの](https://ja.wikipedia.org/wiki/BON-BON_BLANCO "wikilink")1stアルバム「BEAT GOES ON」の収録曲「LIVE」の作曲を手がけた。
+    福岡県出身。デビュー曲を除く全ての作詞を担当。[ビーイング](../Page/ビーイング.md "wikilink")の主催するBADオーディションに合格し、デビュー。同期には、元[BAAD](../Page/BAAD.md "wikilink")、現[doaの](../Page/Doa_\(ミュージシャン\).md "wikilink")[大田紳一郎](../Page/大田紳一郎.md "wikilink")がいる。ZYYG解散後は[BON-BON BLANCOの](../Page/BON-BON_BLANCO.md "wikilink")1stアルバム「BEAT GOES ON」の収録曲「LIVE」の作曲を手がけた。
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 <!-- end list -->
 
   -
-    東京都出身。在籍時はデビュー曲を除く全ての作曲、並びに全ての楽曲の編曲を担当。ZYYGでの活動と平行して作曲家としても活躍、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")、[WANDS](../Page/WANDS.md "wikilink")、[MANISH](https://ja.wikipedia.org/wiki/MANISH "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、[柳原愛子の楽曲を手がける](https://ja.wikipedia.org/wiki/柳原愛子_\(歌手\) "wikilink")。
+    東京都出身。在籍時はデビュー曲を除く全ての作曲、並びに全ての楽曲の編曲を担当。ZYYGでの活動と平行して作曲家としても活躍、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")、[WANDS](../Page/WANDS.md "wikilink")、[MANISH](../Page/MANISH.md "wikilink")、[DEEN](../Page/DEEN.md "wikilink")、[柳原愛子の楽曲を手がける](https://ja.wikipedia.org/wiki/柳原愛子_\(歌手\) "wikilink")。
 
 <!-- end list -->
 
@@ -88,7 +88,7 @@
 <!-- end list -->
 
   -
-    東京都出身。栗林脱退後のシークレットライブへの参加を経て、正式に加入。[松井常松](https://ja.wikipedia.org/wiki/松井常松 "wikilink")と並ぶ[ダウンピッキング](https://ja.wikipedia.org/wiki/ダウンピッキング "wikilink")の使い手である。
+    東京都出身。栗林脱退後のシークレットライブへの参加を経て、正式に加入。[松井常松](../Page/松井常松.md "wikilink")と並ぶ[ダウンピッキング](https://ja.wikipedia.org/wiki/ダウンピッキング "wikilink")の使い手である。
 
 <!-- end list -->
 
@@ -97,11 +97,11 @@
 <!-- end list -->
 
   -
-    三重県出身。パワフルかつテクニカルなドラミングで、加藤と共にZYYGの[ビートを支えた](https://ja.wikipedia.org/wiki/ドラム・ビート "wikilink")。近年[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の重鎮[GERARD](../Page/GERARD.md "wikilink")に参加、活動の幅を広げている。
+    三重県出身。パワフルかつテクニカルなドラミングで、加藤と共にZYYGの[ビートを支えた](../Page/ドラム・ビート.md "wikilink")。近年[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の重鎮[GERARD](../Page/GERARD.md "wikilink")に参加、活動の幅を広げている。
 
 ## ライブ
 
-  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[久留米市](../Page/久留米市.md "wikilink")でシークレットライブ（詳細は不明）。サポートを勤めた加藤が後に正式に加入する。
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")でシークレットライブ（詳細は不明）。サポートを勤めた加藤が後に正式に加入する。
   - [1996年](../Page/1996年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")-[4月13日](../Page/4月13日.md "wikilink") - **LIVE ROCKIN' HIGH Vol.01“Noizy Beat”**（4公演）
       - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - [福岡DRUM Be-1](https://ja.wikipedia.org/wiki/ライブハウス#福岡県 "wikilink")
       - [4月4日](../Page/4月4日.md "wikilink") - [横浜CLUB 24](https://ja.wikipedia.org/wiki/ライブハウス#神奈川県 "wikilink")

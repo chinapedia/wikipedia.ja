@@ -41,7 +41,7 @@
       - 出場芸人としては珍しく地方大会を苦手としており、1度も勝利した事がなかった（0勝3敗）。初挑戦の[仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink")収録（2000年1月15日放送回）では169KB（10位）を記録して敗退している。\[2\]また、初めて出場したチャンピオン大会（第6回セミファイナルBブロック・[大阪](../Page/大阪.md "wikilink")収録）においても354KB\[3\]で10位と良い成績を残せていなかった。2000年11月5日放送回では441kbを記録し、初のトップを獲得。また同時に初の連勝と初の400kb台を記録した。因みにワタナベエンターテインメント所属の芸人の中でトップ合格を果たすのは彼らが初となる。\[4\]
   - [第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink") - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")・[テツandトモ](../Page/テツandトモ.md "wikilink")の応援。
   - [初詣\!爆笑ヒットパレード](../Page/初詣!爆笑ヒットパレード.md "wikilink")（フジテレビ、[2004年](../Page/2004年.md "wikilink")はコンビで。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")は今泉のみ）
-  - [イエヤス](https://ja.wikipedia.org/wiki/イエヤス "wikilink")（[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
+  - [イエヤス](../Page/イエヤス.md "wikilink")（[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
   - [大笑点](../Page/大笑点.md "wikilink")（日本テレビ）
   - [登龍門F](../Page/登龍門F.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [ウンナン極限ネタバトル\! ザ・イロモネア 笑わせたら100万円](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink") （[TBS](../Page/TBSテレビ.md "wikilink")、今泉のみ）『ゴールドラッシュ』2週目クリア
@@ -49,7 +49,7 @@
   - [爆笑一番](https://ja.wikipedia.org/wiki/爆笑一番 "wikilink")（[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")、今泉のみ）
   - [新春ホワイトカーペット](https://ja.wikipedia.org/wiki/新春ホワイトカーペット "wikilink")(フジテレビ、今泉のみ)キャッチコピーは「今日はハッキリ物申す」
   - [爆笑レッドカーペット](../Page/爆笑レッドカーペット.md "wikilink")(フジテレビ、今泉のみ)キャッチコピーは「今日はハッキリ物申す」
-      - コラボカーペットで[ハイキングウォーキング](../Page/ハイキングウォーキング.md "wikilink")[鈴木Q太郎](https://ja.wikipedia.org/wiki/鈴木Q太郎 "wikilink")、[キングオブコメディ](https://ja.wikipedia.org/wiki/キングオブコメディ "wikilink")[今野浩喜](https://ja.wikipedia.org/wiki/今野浩喜 "wikilink")(第1回のみ)､[我が家](../Page/我が家.md "wikilink")[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")(第1回のみ)、[ロッチ](https://ja.wikipedia.org/wiki/ロッチ "wikilink")[中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")(第2回のみ)、[狩野英孝](../Page/狩野英孝.md "wikilink")(第3回のみ)と言ってみ隊名義で共演(Q太郎を含む2人は全て参加)。
+      - コラボカーペットで[ハイキングウォーキング](../Page/ハイキングウォーキング.md "wikilink")[鈴木Q太郎](https://ja.wikipedia.org/wiki/鈴木Q太郎 "wikilink")、[キングオブコメディ](../Page/キングオブコメディ.md "wikilink")[今野浩喜](../Page/今野浩喜.md "wikilink")(第1回のみ)､[我が家](../Page/我が家.md "wikilink")[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")(第1回のみ)、[ロッチ](../Page/ロッチ.md "wikilink")[中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")(第2回のみ)、[狩野英孝](../Page/狩野英孝.md "wikilink")(第3回のみ)と言ってみ隊名義で共演(Q太郎を含む2人は全て参加)。
       - 2009年8月29日でコラボカーペットで共演した言ってみ隊の第1回のメンバーと共にレッドカーペット賞を受賞
   - [ケータイ捜査官7](https://ja.wikipedia.org/wiki/ケータイ捜査官7 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [新世紀ネタキング決定戦](https://ja.wikipedia.org/wiki/新世紀ネタキング決定戦 "wikilink")（[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、今泉のみ）

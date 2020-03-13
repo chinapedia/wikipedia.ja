@@ -16,7 +16,7 @@
   - **田中和将**（たなか かずまさ、 - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
       - [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。[大阪府](../Page/大阪府.md "wikilink")[枚方市](../Page/枚方市.md "wikilink")育ち(ROCKIN'ON JAPANの2万字インタビューによると、かなり複雑な家庭環境の少年時代を送る)。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[大阪府立守口高校卒業](https://ja.wikipedia.org/wiki/大阪府立守口高等学校 "wikilink")。
       - 作詞と一部楽曲(主にアルバム、c/w)での作曲を手がける。
-      - [Fender JAZZMASTER](https://ja.wikipedia.org/wiki/フェンダー・ジャズマスター "wikilink")、[Fender TELECASTER](../Page/フェンダー・テレキャスター.md "wikilink")、[Gibson SG SPECIAL](https://ja.wikipedia.org/wiki/ギブソン・SG "wikilink")、[Epiphone CASINO](../Page/エピフォン・カジノ.md "wikilink")、[Gibson J-50を使用](../Page/ギブソン・J-45.md "wikilink")。
+      - [Fender JAZZMASTER](../Page/フェンダー・ジャズマスター.md "wikilink")、[Fender TELECASTER](../Page/フェンダー・テレキャスター.md "wikilink")、[Gibson SG SPECIAL](../Page/ギブソン・SG.md "wikilink")、[Epiphone CASINO](../Page/エピフォン・カジノ.md "wikilink")、[Gibson J-50を使用](../Page/ギブソン・J-45.md "wikilink")。
       - トレードマークは虹色ストラップ。[FTK\&K](../Page/FTK&K.md "wikilink")でもボーカル、ギターを担当している。
       - 兄が持っていた[RCサクセション](../Page/RCサクセション.md "wikilink")、[THE STREET SLIDERS](../Page/THE_STREET_SLIDERS.md "wikilink")、[ゴダイゴ](../Page/ゴダイゴ.md "wikilink")のCDを聴いたことが、音楽にハマるキッカケとなっている。
       - 読書家であることを公言しており、作家や作品が詞のモチーフになった楽曲も多々ある。自身が好きな作家に[坂口安吾](../Page/坂口安吾.md "wikilink")や[安部公房](../Page/安部公房.md "wikilink")、[阿佐田哲也](https://ja.wikipedia.org/wiki/阿佐田哲也 "wikilink")の名を挙げている\[1\]。
@@ -38,7 +38,7 @@
 
   - **金戸覚**（かねと さとる、 - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       - [愛媛県](../Page/愛媛県.md "wikilink")出身。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。駒澤大学卒業。元[WILLIES APPLE](https://ja.wikipedia.org/wiki/WILLIES_APPLE "wikilink")、元[JOHN BRIEF](https://ja.wikipedia.org/wiki/JOHN_BRIEF "wikilink")。[B.F.I](https://ja.wikipedia.org/wiki/B.F.I "wikilink")、[FTK\&K](../Page/FTK&K.md "wikilink")でも活動している。
-      - [寺岡呼人](../Page/寺岡呼人.md "wikilink")や[玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")、[柳田久美子](https://ja.wikipedia.org/wiki/柳田久美子 "wikilink")、[門田匡陽](https://ja.wikipedia.org/wiki/門田匡陽 "wikilink")などのライブやレコーディングにも参加している。
+      - [寺岡呼人](../Page/寺岡呼人.md "wikilink")や[玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")、[柳田久美子](../Page/柳田久美子.md "wikilink")、[門田匡陽](https://ja.wikipedia.org/wiki/門田匡陽 "wikilink")などのライブやレコーディングにも参加している。
       - 西原休養時の2001年にライブ「Whitewood」に参加。西原脱退後の2003年のツアー以降、再びサポートとしてバンドの作品及びライブに参加。
   - **高野勲**（たかの いさお、 - ）[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")
       - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。元[benzo](https://ja.wikipedia.org/wiki/benzo "wikilink")。
@@ -65,7 +65,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にミニアルバム『[覚醒](https://ja.wikipedia.org/wiki/覚醒_\(アルバム\) "wikilink")』でメジャーデビューし、東京に進出する。
 
-[1999年](../Page/1999年.md "wikilink")に4thシングル「[スロウ](https://ja.wikipedia.org/wiki/スロウ_\(GRAPEVINEの曲\) "wikilink")」でブレイク。同年にリリースされた2ndアルバム『[Lifetime](https://ja.wikipedia.org/wiki/Lifetime "wikilink")』はバンド最高位となる[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位を獲得した。
+[1999年](../Page/1999年.md "wikilink")に4thシングル「[スロウ](https://ja.wikipedia.org/wiki/スロウ_\(GRAPEVINEの曲\) "wikilink")」でブレイク。同年にリリースされた2ndアルバム『[Lifetime](https://ja.wikipedia.org/wiki/Lifetime "wikilink")』はバンド最高位となる[オリコン初登場](../Page/オリコンチャート.md "wikilink")3位を獲得した。
 
 [2001年](../Page/2001年.md "wikilink")、結成当時からのリーダーである西原誠が、[ジストニア](../Page/ジストニア.md "wikilink")治療に専念するためバンドを一時離脱。同年に行われた全国ツアー「Whitewood」では、サポートメンバーに金戸覚（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）と高野勲（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）を迎える形で行われ、以降のライブはキーボードを加えた5人編成で活動している。西原は翌[2002年](../Page/2002年.md "wikilink")に復帰するが、ジストニアの症状が再発した為、同年内をもって脱退。
 
@@ -87,7 +87,7 @@
 
   - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の田中の書く歌詞はデビュー当時から「非常に奥行きがあり、深読みしていけば尽きる事がない文学性を持つ」とメディアから絶賛されているが当の本人は「ストレートに書くと恥ずかしいからちょっと捻っているだけ」と語っている\[16\]。また、「読んできている本とかの影響で、あんまり歌詞を書こうと思ってない」、「歌詞というよりは感覚で捉えてくれっていう感じになってきてます」とも発言している\[17\]。
   - デビューとしては珍しい[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")という形態であったが、それは当時の主流であった8cm[シングル](../Page/シングル.md "wikilink")、また流行していた12cmシングルでデビューしたくないというメンバーの天邪鬼な性格からきたものだった。その後1st・2ndシングルは8cmで発売するが、3rdシングルからは12cmになり、また1st・2ndシングルに至っては12cmで再発もされている。メンバーはこの事について、「デビュー当初、シングルは『8cmの短冊でなくては』ということにこだわっておりました」と後に理由を明かしている\[18\]。
-  - デビュー当時から現在まで、全てのメンバー(特に田中と西原)は、インタビューや著書などで、幾度となく[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ブルース](../Page/ブルース.md "wikilink")や[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")などの、いわゆる[ブラック・ミュージック](https://ja.wikipedia.org/wiki/ブラック・ミュージック "wikilink")や古典的なロック(田中曰く、「ルーツ・ロック」)からの影響を公言しており、作曲やプレイスタイル、楽曲のタイトルなどにも、それが反映されている。しかし、近年は、田中が[ウィルコ](https://ja.wikipedia.org/wiki/ウィルコ_\(バンド\) "wikilink")\[19\]や[バトルス](https://ja.wikipedia.org/wiki/バトルス "wikilink")からの影響を公言するなど、[ポスト・ロック](https://ja.wikipedia.org/wiki/ポスト・ロック "wikilink")的なアプローチや後述のセッションによる作曲も増え、より多角的なサウンドになっている。特にウィルコは、メンバー全員が好きなバンドであるという\[20\]。
+  - デビュー当時から現在まで、全てのメンバー(特に田中と西原)は、インタビューや著書などで、幾度となく[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ブルース](../Page/ブルース.md "wikilink")や[ファンク](../Page/ファンク.md "wikilink")などの、いわゆる[ブラック・ミュージック](https://ja.wikipedia.org/wiki/ブラック・ミュージック "wikilink")や古典的なロック(田中曰く、「ルーツ・ロック」)からの影響を公言しており、作曲やプレイスタイル、楽曲のタイトルなどにも、それが反映されている。しかし、近年は、田中が[ウィルコ](https://ja.wikipedia.org/wiki/ウィルコ_\(バンド\) "wikilink")\[19\]や[バトルス](https://ja.wikipedia.org/wiki/バトルス "wikilink")からの影響を公言するなど、[ポスト・ロック](https://ja.wikipedia.org/wiki/ポスト・ロック "wikilink")的なアプローチや後述のセッションによる作曲も増え、より多角的なサウンドになっている。特にウィルコは、メンバー全員が好きなバンドであるという\[20\]。
   - アルバム「退屈の花」に収録されている「1\&MORE」は、[矢野顕子](../Page/矢野顕子.md "wikilink")の「[ひとつだけ](https://ja.wikipedia.org/wiki/ごはんができたよ#収録曲 "wikilink")」にインスパイアされて書いた曲である。
   - シングル「君を待つ間」は亀井が初めて作曲した曲である。当時のメンバーはかなりベタ褒めした。
   - シングル「超える」のc/w「エレウテリア」とは、[サミュエル・ベケット](../Page/サミュエル・ベケット.md "wikilink")の[戯曲](../Page/戯曲.md "wikilink")のひとつで、「自由」を意味する。
@@ -264,7 +264,7 @@
 </tr>
 <tr class="odd">
 <td><p>17th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月20日.md" title="wikilink">7月20日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/その未来/アダバナ" title="wikilink">その未来/アダバナ</a></strong></p></td>
 <td><p>22位</p></td>
 <td><p>PCCA.70118</p></td>
@@ -272,7 +272,7 @@
 </tr>
 <tr class="even">
 <td><p>18th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/放浪フリーク" title="wikilink">放浪フリーク</a></strong></p></td>
 <td><p>57位</p></td>
 <td><p>PCCA.70124</p></td>
@@ -492,7 +492,7 @@ PCJA.00051（アナログ盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a><br />
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a><br />
 <a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a>（再発盤）</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/déraciné" title="wikilink">déraciné</a></strong></p></td>
 <td><p>19位</p></td>
@@ -829,7 +829,7 @@ PCBP-50599:DVD</p></td>
 </tr>
 <tr class="even">
 <td><p>ビデオクリップ集</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/7CLIPS+MORE" title="wikilink">7CLIPS+MORE</a></strong></p></td>
 <td><p>PCBP-51533:DVD</p></td>
 <td><p>80位</p></td>
@@ -894,13 +894,13 @@ VIZL-769:DVD</p></td>
   - **[そら](https://ja.wikipedia.org/wiki/そら_\(GRAPEVINEの曲\) "wikilink")**（[TBS](../Page/TBSテレビ.md "wikilink")「[BLITZ INDEX](https://ja.wikipedia.org/wiki/BLITZ_INDEX "wikilink")」1997年12月オープニングテーマ）
   - **[君を待つ間](https://ja.wikipedia.org/wiki/君を待つ間 "wikilink")**（TBS「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」1998年4月エンディングテーマ）
   - **[白日](https://ja.wikipedia.org/wiki/白日_\(GRAPEVINEの曲\) "wikilink")**（[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")「[ミュージックスクエア (NHK-FM)](https://ja.wikipedia.org/wiki/ミュージックスクエア "wikilink")」オープニングテーマ）
-  - **[スロウ](https://ja.wikipedia.org/wiki/スロウ_\(GRAPEVINEの曲\) "wikilink")**（[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[リングの魂](https://ja.wikipedia.org/wiki/リングの魂 "wikilink")」エンディングテーマ）
+  - **[スロウ](https://ja.wikipedia.org/wiki/スロウ_\(GRAPEVINEの曲\) "wikilink")**（[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[リングの魂](../Page/リングの魂.md "wikilink")」エンディングテーマ）
   - **[光について](https://ja.wikipedia.org/wiki/光について "wikilink")**（TBS「[新ウンナンの気分は上々。](../Page/ウンナンの気分は上々。.md "wikilink")」NHK総合「[てれごじ。](../Page/てれごじ。.md "wikilink")」エンディングテーマ）
   - **[いけすかない](https://ja.wikipedia.org/wiki/Lifetime "wikilink")**（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[プロモマニア](https://ja.wikipedia.org/wiki/プロモマニア "wikilink")」エンディングテーマ）
   - **[羽根](https://ja.wikipedia.org/wiki/羽根/JIVE "wikilink")**（[NHK BS-2](../Page/NHK衛星第2テレビジョン.md "wikilink")「[新・真夜中の王国](https://ja.wikipedia.org/wiki/新・真夜中の王国 "wikilink")」オープニングテーマ）
-  - **[ダイヤグラム](https://ja.wikipedia.org/wiki/Here_\(GRAPEVINEのアルバム\) "wikilink")**（テレビ朝日「[AFCアジアカップ](https://ja.wikipedia.org/wiki/AFCアジアカップ "wikilink")2000」テーマソング）
+  - **[ダイヤグラム](https://ja.wikipedia.org/wiki/Here_\(GRAPEVINEのアルバム\) "wikilink")**（テレビ朝日「[AFCアジアカップ](../Page/AFCアジアカップ.md "wikilink")2000」テーマソング）
   - **[discord](https://ja.wikipedia.org/wiki/discord_\(曲\) "wikilink")**（WOWOW「[コパ・アメリカ](../Page/コパ・アメリカ.md "wikilink")2001」テーマソング）
-  - **[（All the young）Yellow](https://ja.wikipedia.org/wiki/Circulator "wikilink")**（[ダンロップ](https://ja.wikipedia.org/wiki/ダンロップ "wikilink")「[デジタイヤ](https://ja.wikipedia.org/wiki/デジタイヤ "wikilink")」CMソング）
+  - **[（All the young）Yellow](https://ja.wikipedia.org/wiki/Circulator "wikilink")**（[ダンロップ](../Page/ダンロップ.md "wikilink")「[デジタイヤ](https://ja.wikipedia.org/wiki/デジタイヤ "wikilink")」CMソング）
   - **[ナツノヒカリ](https://ja.wikipedia.org/wiki/ナツノヒカリ "wikilink")**（[TBS系列](../Page/TBSテレビ.md "wikilink")『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』[2002年](../Page/2002年.md "wikilink")6・7月度エンディングテーマ）
   - **[BLUE BACK](https://ja.wikipedia.org/wiki/BLUE_BACK "wikilink")**（テレビ朝日「[さまぁ〜ずと優香の怪しい××貸しちゃうのかよ\!\!](../Page/さまぁ〜ずと優香の怪しい××貸しちゃうのかよ!!.md "wikilink")」エンディングテーマ）
   - **[会いにいく](https://ja.wikipedia.org/wiki/会いにいく_\(GRAPEVINEの曲\) "wikilink")**（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[TVおじゃマンボウ](../Page/TVおじゃマンボウ.md "wikilink")」エンディングテーマ）
@@ -936,7 +936,7 @@ VIZL-769:DVD</p></td>
       - 「Shiny Day」（バックバンド、コーラスとして参加）
   - [ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink") トリビュート・アルバム『[ユニコーン・トリビュート](../Page/ユニコーン・トリビュート.md "wikilink")』（2007年10月24日）
       - 「[ニッポンへ行くの巻](../Page/ヒゲとボイン_\(アルバム\).md "wikilink")」
-  - [柳田久美子](https://ja.wikipedia.org/wiki/柳田久美子 "wikilink") マキシ･シングル『あなたと私』（2007年9月26日）
+  - [柳田久美子](../Page/柳田久美子.md "wikilink") マキシ･シングル『あなたと私』（2007年9月26日）
       - 「レモン色の世界」(西川･ギター参加)
   - [The Ma'am](https://ja.wikipedia.org/wiki/The_Ma'am "wikilink") ミニアルバム『Always』（2007年9月11日）
       - 「ハートエイクAZ　with田中和将」
@@ -1032,7 +1032,7 @@ VIZL-769:DVD</p></td>
 24.
 25.
 26. [GRAPEVINEの田中和将と高野勲によるPermanents、 スタジオライヴをYouTube上に公開](https://rockinon.com/news/detail/70978) 2012年7月30日付 RO69
-27. 『[音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")』　2015年2月号　25P
+27. 『[音楽と人](../Page/音楽と人.md "wikilink")』　2015年2月号　25P
 28. 『音楽と人』　2015年2月号　7P
 29. [1](https://www.j-wave.co.jp/blog/news/2017/06/grapevine20.html) J-WAVE NEWS GRAPEVINE、後輩バンドに“20曲歌える”と言われ…？ 2017年6月23日記事
 30. [2](https://natalie.mu/music/pp/grapevine06) ナタリー 田中和将×斎藤宏介 先輩後輩で浮かび上がる意外な共通項

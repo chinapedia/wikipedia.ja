@@ -9,7 +9,7 @@
 
 ## 推移
 
-音声雑音低減の仕組みにおいて、1970年代の主流は[ドルビー研究所](https://ja.wikipedia.org/wiki/ドルビー研究所 "wikilink")が開発したドルビーBタイプであったが、これに代わる方式を目指し各社が開発を競い各種ノイズリダクションシステムが派生する。東芝はadresユニットやadresを内蔵する[カセットテープレコーダー](https://ja.wikipedia.org/wiki/カセットテープレコーダー "wikilink")や[ラジオカセットレコーダー](https://ja.wikipedia.org/wiki/ラジオカセットレコーダー "wikilink")、[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・[ユニバーサル ミュージック合同会社](https://ja.wikipedia.org/wiki/ユニバーサル_ミュージック合同会社 "wikilink")）はadresディスクなる[レコード](../Page/レコード.md "wikilink")やadresミュージックテープなる[コンパクトカセット](../Page/コンパクトカセット.md "wikilink")テープなど、ハードとソフト両面で本方式を推進する。1980年、ドルビーCタイプが発表されると主流はドルビー方式に回帰し、東芝の方針転換と共に本方式は衰退する。
+音声雑音低減の仕組みにおいて、1970年代の主流は[ドルビー研究所](https://ja.wikipedia.org/wiki/ドルビー研究所 "wikilink")が開発したドルビーBタイプであったが、これに代わる方式を目指し各社が開発を競い各種ノイズリダクションシステムが派生する。東芝はadresユニットやadresを内蔵する[カセットテープレコーダー](https://ja.wikipedia.org/wiki/カセットテープレコーダー "wikilink")や[ラジオカセットレコーダー](../Page/ラジオカセットレコーダー.md "wikilink")、[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・[ユニバーサル ミュージック合同会社](https://ja.wikipedia.org/wiki/ユニバーサル_ミュージック合同会社 "wikilink")）はadresディスクなる[レコード](../Page/レコード.md "wikilink")やadresミュージックテープなる[コンパクトカセット](../Page/コンパクトカセット.md "wikilink")テープなど、ハードとソフト両面で本方式を推進する。1980年、ドルビーCタイプが発表されると主流はドルビー方式に回帰し、東芝の方針転換と共に本方式は衰退する。
 
 ## 関連項目
 

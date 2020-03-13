@@ -51,9 +51,9 @@
   - [大笑点](../Page/大笑点.md "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")）
   - オバドラ夜な夜な草むしり（[MXTV](../Page/東京メトロポリタンテレビジョン.md "wikilink")）
   - [SCENE](https://ja.wikipedia.org/wiki/SCENE_\(テレビ番組\) "wikilink")（MXTV）
-  - [イエヤス](https://ja.wikipedia.org/wiki/イエヤス "wikilink")（[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
+  - [イエヤス](../Page/イエヤス.md "wikilink")（[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）
   - [わらいのちから](https://ja.wikipedia.org/wiki/わらいのちから "wikilink")（ケーブルウエスト）
-  - [おしゃべりやってま〜す火曜日](https://ja.wikipedia.org/wiki/おしゃ火 "wikilink")（[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")・[K'z Station](https://ja.wikipedia.org/wiki/K'z_Station "wikilink")）※緒方のみ
+  - [おしゃべりやってま〜す火曜日](https://ja.wikipedia.org/wiki/おしゃ火 "wikilink")（[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")・[K'z Station](../Page/K'z_Station.md "wikilink")）※緒方のみ
   - [TOYOTA](https://ja.wikipedia.org/wiki/TOYOTA "wikilink") [ピットイン・タイム　たまけん](../Page/玉川美沙_たまなび.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）※緒方のみ
   - [ゼベック・オンライン](../Page/ゼベック・オンライン.md "wikilink")（MXTV、2004年11月1日）
   - [大人の自由時間](../Page/大人の自由時間.md "wikilink")・なぎら開放計画（[日本BS放送](https://ja.wikipedia.org/wiki/日本BS放送 "wikilink")、緒方）

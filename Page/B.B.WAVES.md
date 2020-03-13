@@ -5,7 +5,7 @@
 
 ## 概要
 
-[サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")や[日本武道館](../Page/日本武道館.md "wikilink")コンサート、[ハウス食品](../Page/ハウス食品.md "wikilink")「[ククレカレー](../Page/ククレカレー.md "wikilink")」のCMなどで活躍していた。[B.B.WAVES](https://ja.wikipedia.org/wiki/B.B.WAVES "wikilink")をモデルにした漫画「はじけて！B.B.！」にては[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")や[B.B.WAVES](https://ja.wikipedia.org/wiki/B.B.WAVES "wikilink")のメンバーが実名で登場。
+[サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")や[日本武道館](../Page/日本武道館.md "wikilink")コンサート、[ハウス食品](../Page/ハウス食品.md "wikilink")「[ククレカレー](../Page/ククレカレー.md "wikilink")」のCMなどで活躍していた。[B.B.WAVES](../Page/B.B.WAVES.md "wikilink")をモデルにした漫画「はじけて！B.B.！」にては[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")や[B.B.WAVES](../Page/B.B.WAVES.md "wikilink")のメンバーが実名で登場。
 
 ## オリジナルメンバー
 

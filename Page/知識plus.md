@@ -5,7 +5,7 @@
 
 ## 概要
 
-疑問点を解決できるという[人力検索はてなや](https://ja.wikipedia.org/wiki/はてなのサービス一覧#人力検索はてな "wikilink")[Yahoo\!知恵袋](https://ja.wikipedia.org/wiki/Yahoo!知恵袋 "wikilink")、[OKWave](https://ja.wikipedia.org/wiki/OKWave "wikilink")などと同じQ＆Aサイトで、人力検索はてなは有料であるのに対して知識plusは無料で参加できる。ポイントを貯めると称号別の[アバター](../Page/アバター.md "wikilink")アイテムが買えるようになるという特徴がある。
+疑問点を解決できるという[人力検索はてなや](https://ja.wikipedia.org/wiki/はてなのサービス一覧#人力検索はてな "wikilink")[Yahoo\!知恵袋](../Page/Yahoo!知恵袋.md "wikilink")、[OKWave](https://ja.wikipedia.org/wiki/OKWave "wikilink")などと同じQ＆Aサイトで、人力検索はてなは有料であるのに対して知識plusは無料で参加できる。ポイントを貯めると称号別の[アバター](../Page/アバター.md "wikilink")アイテムが買えるようになるという特徴がある。
 
 2009年6月24日、不具合の修正やアップデート対応が困難であることを理由にハンゲームメンテナンス終了後サービスは終了した。サービス終了後は、知識plusのページは閲覧できなくなり、知識plus限定アバターショップの販売は終了された。
 
@@ -25,7 +25,7 @@
 
 ## 注意点
 
-  - 意見募集やアンケート行為は禁止されており、そのようなことは、[アンケート](https://ja.wikipedia.org/wiki/アンケート "wikilink")plusで行わなければ削除の対象となる。
+  - 意見募集やアンケート行為は禁止されており、そのようなことは、[アンケート](../Page/アンケート.md "wikilink")plusで行わなければ削除の対象となる。
   - 投稿項目を間違ったディレクトリで投稿すると削除の対象となる。携帯電話からの投稿は、サーバー上の問題からディレクトリが[文字化け](../Page/文字化け.md "wikilink")しているため、削除されない。
   - 投稿内容が意見募集や悩み相談などは通報対象であるが、必ずしも削除されるわけではない。また、哲学的な質問などもあまり削除の対象にはならない。
   - 性的なことを連想させる単語は、生物学的な質問などであっても削除される場合がある。実際に[NAVER](https://ja.wikipedia.org/wiki/NAVER "wikilink")から[ハンゲーム](../Page/ハンゲーム.md "wikilink")に管理が移行された際、生物学的な内容にもかかわらず[生理](https://ja.wikipedia.org/wiki/生理 "wikilink")などの単語が入っていた多くの知識が削除された。
@@ -85,7 +85,7 @@
   - 2004年7月　　アンケートplus機能追加
   - 2004年10月　知識plusキャラクター「チエビット」作成
   - 2004年11月　知識plusモバイルスタート
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月　Dナビ制度休止
+  - [2005年](../Page/2005年.md "wikilink")1月　Dナビ制度休止
   - 2005年6月　[NAVER](https://ja.wikipedia.org/wiki/NAVER "wikilink")からオンラインゲームサイト[Hangame](https://ja.wikipedia.org/wiki/Hangame "wikilink")内のサービスへと移行したことに伴い、知識plusのURL変更（\[<http://plus.naver.co.jp/> [http://plus.naver.co.jp/\]から\[http://plus.hangame.co.jp/](http://plus.naver.co.jp/%5Dから%5Bhttp://plus.hangame.co.jp/) [http://plus.hangame.co.jp/\]へ）および悩みplusと個人掲示板のサービス終了](http://plus.hangame.co.jp/%5Dへ）および悩みplusと個人掲示板のサービス終了)
   - [2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") 知識plusモバイルサービス終了
   - 2009年[6月24日](../Page/6月24日.md "wikilink") 知識plus全サービス終了

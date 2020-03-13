@@ -21,7 +21,7 @@
   - 十文字美月：[三国由奈](https://ja.wikipedia.org/wiki/三国由奈 "wikilink")
   - 天宮沙輝：[福井裕佳梨](../Page/福井裕佳梨.md "wikilink")
   - 昴麻奈美：[高木梓](https://ja.wikipedia.org/wiki/高木梓 "wikilink")
-  - 石井篤：[栩原楽人](https://ja.wikipedia.org/wiki/栩原楽人 "wikilink")
+  - 石井篤：[栩原楽人](../Page/栩原楽人.md "wikilink")
   - 安奈：[松本智代美](https://ja.wikipedia.org/wiki/松本智代美 "wikilink")（2話）
   - タメ：[高田善](https://ja.wikipedia.org/wiki/高田善 "wikilink")
   - ヨタ：[森田猛虎](https://ja.wikipedia.org/wiki/森田猛虎 "wikilink")

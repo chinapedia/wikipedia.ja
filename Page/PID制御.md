@@ -125,7 +125,7 @@ CHR法（外乱効果抑制）
 
 ## 歴史
 
-[Scross_helmsman.jpg](https://ja.wikipedia.org/wiki/File:Scross_helmsman.jpg "fig:Scross_helmsman.jpg") 制御技術と理論の起源は、蒸気機関の[調速機](https://ja.wikipedia.org/wiki/調速機 "wikilink")から始まった。PID制御は、その後、特に船の自動操舵の開発の中で発達していった。1911年、エルマー・アンブローズ・スペリー([:en:Elmer Ambrose Sperry](https://ja.wikipedia.org/wiki/:en:Elmer_Ambrose_Sperry "wikilink"))が、PID制御器の構成を成した船の自動操舵機構を開発した。[1922年](../Page/1922年.md "wikilink")には、ニコラス・マイノースキー(Nicolas Minorsky)が船の自動操舵に関して数式化された制御理論の発表を行い、これがPID制御の最初の着想とされている。
+[Scross_helmsman.jpg](https://ja.wikipedia.org/wiki/File:Scross_helmsman.jpg "fig:Scross_helmsman.jpg") 制御技術と理論の起源は、蒸気機関の[調速機](../Page/調速機.md "wikilink")から始まった。PID制御は、その後、特に船の自動操舵の開発の中で発達していった。1911年、エルマー・アンブローズ・スペリー([:en:Elmer Ambrose Sperry](https://ja.wikipedia.org/wiki/:en:Elmer_Ambrose_Sperry "wikilink"))が、PID制御器の構成を成した船の自動操舵機構を開発した。[1922年](../Page/1922年.md "wikilink")には、ニコラス・マイノースキー(Nicolas Minorsky)が船の自動操舵に関して数式化された制御理論の発表を行い、これがPID制御の最初の着想とされている。
 
 その後[1936年](../Page/1936年.md "wikilink")、テイラー社(Taylor Instruments)のカレンダー(Callender)らにより、空気式PID調整器の原型が製作された。しかしPIDパラメータの調整の仕方が不明であったため、この調整器の売れ行きは不調に終わった。これを受けて、1942年に同テイラー社のジョン・ジーグラ(John G. Ziegler)とナサニエル・ニコルス(Nathaniel B. Nichols)らにより、実用的なPIDパラメータの調整則が考案された。さらに、この調整則は同テイラー社のジェラルディン・クーン(Geraldine Coon)により広められ、良く知られるようになった。
 

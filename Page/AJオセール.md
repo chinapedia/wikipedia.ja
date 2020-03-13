@@ -9,7 +9,7 @@
 
 1961年に[ギー・ルー](https://ja.wikipedia.org/wiki/ギー・ルー "wikilink")監督が就任し、44年間指揮を執った。就任当時はアマチュアチームだったオセールを初めての1部昇格に導き、1995-96シーズンのリーグ優勝、[フランスカップ優勝](../Page/クープ・ドゥ・フランス.md "wikilink")4回を成し遂げた。[1998 FIFAワールドカップで優勝したフランス代表メンバーの内のGK](../Page/1998_FIFAワールドカップ.md "wikilink")[リオネル・シャルボニエ](https://ja.wikipedia.org/wiki/リオネル・シャルボニエ "wikilink")、FW[ベルナール・ディオメド](../Page/ベルナール・ディオメド.md "wikilink")、FW[ステファン・ギバルシュ](https://ja.wikipedia.org/wiki/ステファン・ギバルシュ "wikilink")はその時点でAJオセールに所属する選手であり、DF[ローラン・ブラン](../Page/ローラン・ブラン.md "wikilink")は1996年までAJオセールに所属していた\[1\]。
 
-2006年に[ジャン・フェルナンデス](https://ja.wikipedia.org/wiki/ジャン・フェルナンデス "wikilink")が監督に就任すると、当時[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")で[ジュニーニョ・ペルナンブカーノ](https://ja.wikipedia.org/wiki/ジュニーニョ・ペルナンブカーノ "wikilink")の控えに甘んじ出場機会を減らしていたソショー時代の秘蔵っ子[ブノワ・ペドレッティ](https://ja.wikipedia.org/wiki/ブノワ・ペドレッティ "wikilink")を獲得。チーム造りに数年を要したが、2009-10シーズンにはユース出身の選手を中心とした高い位置からのコンパクトな組織的守備でボールを奪い、ペドレッティから前線の[ダニエル・ニクラエ](https://ja.wikipedia.org/wiki/ダニエル・ニクラエ "wikilink")、[イレネウシュ・イェレン](https://ja.wikipedia.org/wiki/イレネウシュ・イェレン "wikilink")にロング・スルーパスを送る高速カウンター戦術を完成。リーグ最少失点でリーグ3位、ジャン・フェルナンデスはリーグ最優秀監督賞受賞と大躍進のシーズンとなった。
+2006年に[ジャン・フェルナンデス](https://ja.wikipedia.org/wiki/ジャン・フェルナンデス "wikilink")が監督に就任すると、当時[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")で[ジュニーニョ・ペルナンブカーノ](../Page/ジュニーニョ・ペルナンブカーノ.md "wikilink")の控えに甘んじ出場機会を減らしていたソショー時代の秘蔵っ子[ブノワ・ペドレッティ](https://ja.wikipedia.org/wiki/ブノワ・ペドレッティ "wikilink")を獲得。チーム造りに数年を要したが、2009-10シーズンにはユース出身の選手を中心とした高い位置からのコンパクトな組織的守備でボールを奪い、ペドレッティから前線の[ダニエル・ニクラエ](https://ja.wikipedia.org/wiki/ダニエル・ニクラエ "wikilink")、[イレネウシュ・イェレン](https://ja.wikipedia.org/wiki/イレネウシュ・イェレン "wikilink")にロング・スルーパスを送る高速カウンター戦術を完成。リーグ最少失点でリーグ3位、ジャン・フェルナンデスはリーグ最優秀監督賞受賞と大躍進のシーズンとなった。
 
 [ゼニト・サンクトペテルブルク](https://ja.wikipedia.org/wiki/ゼニト・サンクトペテルブルク "wikilink")とのプレーオフの末に出場を決めた2010-11シーズンの[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")グループリーグでは[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[アヤックスと同組となった](../Page/アヤックス・アムステルダム.md "wikilink")。[オセール](../Page/オセール.md "wikilink")の人口は3万8000人弱であり、そのシーズンの本選グループリーグに出場するクラブの本拠地の中で最も人口が少ない都市である\[2\]。
 
@@ -139,7 +139,7 @@
 
   - [ローラン・ブラン](../Page/ローラン・ブラン.md "wikilink") 1995-1996
 
-  - [ネディエリコ・ゼリッチ](https://ja.wikipedia.org/wiki/ネディエリコ・ゼリッチ "wikilink") 1996-1997
+  - [ネディエリコ・ゼリッチ](../Page/ネディエリコ・ゼリッチ.md "wikilink") 1996-1997
 
   - [ジョセフ・ヨボ](https://ja.wikipedia.org/wiki/ジョセフ・ヨボ "wikilink") 1997-1998
 

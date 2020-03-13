@@ -45,7 +45,7 @@ VoIP網を集中管理するのがIPセントレックスである。
 
 企業向け[Fixed Mobile Convergenceとして](https://ja.wikipedia.org/wiki/Fixed_Mobile_Convergence "wikilink")、構外で使用する[携帯電話](../Page/携帯電話.md "wikilink")などの管理も一括して請け負う形式が多いので、[電気通信事業者](../Page/電気通信事業者.md "wikilink")による顧客の囲い込みの武器となることが期待されている。
 
-無線IP電話機を使用したものが実用化されている。また、携帯電話を内線でそのまま使用し、携帯電話の通話料金の低減が可能なサービスが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に開始された。
+無線IP電話機を使用したものが実用化されている。また、携帯電話を内線でそのまま使用し、携帯電話の通話料金の低減が可能なサービスが、[2005年](../Page/2005年.md "wikilink")に開始された。
 
   - 携帯電話と無線IP電話機のデュアル機を構内の[無線LAN](../Page/無線LAN.md "wikilink")に接続するもの。専用の端末が必要。[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[PASSAGE DUPLEが代表的なサービス](https://ja.wikipedia.org/wiki/PASSAGE_DUPLE "wikilink")。ピックアップ、ダイヤルイン、着信転送、といった通常のビジネス用内線と同等の機能を有しているほか、プレゼンス機能などもある。ただし構内に無線LANアンテナを立てるなど、初期費用が高い。
       - このようなモバイルセントレックスのASPサービスとしてNTTドコモの[ビジネスmoperaIPセントレックス](https://ja.wikipedia.org/wiki/ビジネスmoperaIPセントレックス "wikilink")や[NTTPCコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTPCコミュニケーションズ "wikilink")のモバイルセントレックスサービスなどが提供されている。

@@ -21,7 +21,7 @@
       - 12:40頃（[高田文夫のラジオビバリー昼ズ](../Page/高田文夫のラジオビバリー昼ズ.md "wikilink")内）
       - 14:45頃（[テリー伊藤のってけラジオ](../Page/テリー伊藤のってけラジオ.md "wikilink")内）※「[日本通運](https://ja.wikipedia.org/wiki/日本通運 "wikilink")ワールドスポーツニュース」というコーナー名で放送。
       - 17:13頃（[高嶋ひでたけの特ダネラジオ 夕焼けホットライン内](../Page/高嶋ひでたけの特ダネラジオ_夕焼けホットライン.md "wikilink")）（提供：[吉野家](../Page/吉野家.md "wikilink")）
-      - 17:45頃（[ショウアップナイタープレイボール](https://ja.wikipedia.org/wiki/ショウアップナイタープレイボール "wikilink")内）
+      - 17:45頃（[ショウアップナイタープレイボール](../Page/ショウアップナイタープレイボール.md "wikilink")内）
   - 土曜日
       - 5:20頃（[栗村智 あなたと朝イチバン内](../Page/栗村智_あなたと朝イチバン.md "wikilink")）
       - 15:55頃（担当:[増田みのり](../Page/増田みのり.md "wikilink")、※ミニ番組）
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   - [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")　(月 - 金)9:40 - 9:45（「[9時ですリクエストプラザ](https://ja.wikipedia.org/wiki/9時ですリクエストプラザ "wikilink")」内）※2007年度の放送時間。「リクプラ」のパーソナリティが情報を伝える。
-  - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink") (月 - 金)10:00前（「[かにタク言ったもん勝ち](https://ja.wikipedia.org/wiki/かにタク言ったもん勝ち "wikilink")」内）
+  - [東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink") (月 - 金)10:00前（「[かにタク言ったもん勝ち](../Page/かにタク言ったもん勝ち.md "wikilink")」内）
   - [MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink") (月 - 金)11:00台（「[さてはトコトン菊水丸](../Page/さてはトコトン菊水丸.md "wikilink")」内）、17:48（[MBSタイガースナイター内](https://ja.wikipedia.org/wiki/MBSタイガースライブ "wikilink")、提供：吉野家）
 
 （注）：　独自内容に差し替え

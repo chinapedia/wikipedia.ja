@@ -1,7 +1,7 @@
 > この記事は[Train Simulator ](https://ja.wikipedia.org/wiki/Train_Simulator_)から翻訳されています。
 
 
-『**Train Simulator 京成・都営浅草・京急線**』（トレインシミュレータ けいせい・とえいあさくさ・けいきゅうせん）は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[音楽館](../Page/音楽館.md "wikilink")から発売された[PlayStation 2用電車運転ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。当初は[7月21日](../Page/7月21日.md "wikilink")に発売を予定していたが、発売延期となった。
+『**Train Simulator 京成・都営浅草・京急線**』（トレインシミュレータ けいせい・とえいあさくさ・けいきゅうせん）は[2005年](../Page/2005年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[音楽館](../Page/音楽館.md "wikilink")から発売された[PlayStation 2用電車運転ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。当初は[7月21日](../Page/7月21日.md "wikilink")に発売を予定していたが、発売延期となった。
 
 これまでのTrain Simulatorには無い「ライセンス制度」、「ポイント制度」を導入した。
 
@@ -112,7 +112,7 @@
 
 ## 運転可能なダイヤ
 
-ダイヤは[2004年](../Page/2004年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")ダイヤ改正時のダイヤを使用している。京成線は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")にスカイライナー（ダイヤ改正はスカイライナーのみ）、[2006年](../Page/2006年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に一部の列車の発車時刻や車両数の修正、都営線・京急線は同年[12月10日](../Page/12月10日.md "wikilink")にダイヤ改正が行われた為、このダイヤは存在していない。
+ダイヤは[2004年](../Page/2004年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")ダイヤ改正時のダイヤを使用している。京成線は[2005年](../Page/2005年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")にスカイライナー（ダイヤ改正はスカイライナーのみ）、[2006年](../Page/2006年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に一部の列車の発車時刻や車両数の修正、都営線・京急線は同年[12月10日](../Page/12月10日.md "wikilink")にダイヤ改正が行われた為、このダイヤは存在していない。
 
 ※特記していないダイヤの模範運転は、京成ダイヤでは3000形、都営ダイヤでは5300形1次車、京急ダイヤでは600形によって行われる。
 

@@ -42,7 +42,7 @@
 基本的に[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")出演者が多い。
 
   - [青空](../Page/青空_\(お笑い\).md "wikilink")
-  - [アジアン](https://ja.wikipedia.org/wiki/アジアン "wikilink")
+  - [アジアン](../Page/アジアン.md "wikilink")
   - [イシバシハザマ](../Page/イシバシハザマ.md "wikilink")（baseよしもと時代）
   - 田中上阪（現: [ジェットコースター](../Page/ジェットコースター_\(お笑いコンビ\).md "wikilink")）
   - 鎌鼬（現: [かまいたち](../Page/かまいたち_\(お笑いコンビ\).md "wikilink")）
@@ -67,7 +67,7 @@
   - [フロントストーリー](../Page/フロントストーリー.md "wikilink")（解散）
   - [平成ノブシコブシ](../Page/平成ノブシコブシ.md "wikilink")
   - [ミサイルマン](../Page/ミサイルマン_\(お笑いコンビ\).md "wikilink")
-  - [レギュラー](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")（baseよしもと時代）
+  - [レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")（baseよしもと時代）
   - [笑い飯](../Page/笑い飯.md "wikilink")
 
 <!-- end list -->
@@ -83,7 +83,7 @@
   - [小籔千豊](../Page/小籔千豊.md "wikilink")
   - [シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")
   - [たむらけんじ](../Page/たむらけんじ.md "wikilink")
-  - [千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")
+  - [千原ジュニア](../Page/千原ジュニア.md "wikilink")
   - [チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")
   - $10（現: [テンダラー](../Page/テンダラー_\(お笑いコンビ\).md "wikilink")）
   - [土肥ポン太](../Page/土肥ポン太.md "wikilink")
@@ -98,7 +98,7 @@
   - [月亭八光](../Page/月亭八光.md "wikilink")（2008年12月2日初登場）
 
 ほか
-また、東京から[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")、[トータルテンボス](../Page/トータルテンボス.md "wikilink")がゲストに来たことがある。
+また、東京から[千原ジュニア](../Page/千原ジュニア.md "wikilink")、[トータルテンボス](../Page/トータルテンボス.md "wikilink")がゲストに来たことがある。
 
   - 罰ゲーム担当者枠
 
@@ -206,7 +206,7 @@
 <!-- end list -->
 
   -
-    サバンナ・八木が自分の考えたゲームを発表し、出演者で実際に遊んでみるコーナー。何かの[パクリ](https://ja.wikipedia.org/wiki/パクリ "wikilink")のものも多い。たまに、商品がでるが、八木が家からもってきたものなど、あまりいいものではない。ゲームの経過を考慮して罰ゲームを受ける者が決められ、若手芸人に痛い目に合わされるが、八木が罰ゲームを受けることが多い。コーナー開始前に八木の口上とその後に一発ギャグが行われるが、この部分は[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")等の東京芸人にも評価が高かった。
+    サバンナ・八木が自分の考えたゲームを発表し、出演者で実際に遊んでみるコーナー。何かの[パクリ](https://ja.wikipedia.org/wiki/パクリ "wikilink")のものも多い。たまに、商品がでるが、八木が家からもってきたものなど、あまりいいものではない。ゲームの経過を考慮して罰ゲームを受ける者が決められ、若手芸人に痛い目に合わされるが、八木が罰ゲームを受けることが多い。コーナー開始前に八木の口上とその後に一発ギャグが行われるが、この部分は[千原ジュニア](../Page/千原ジュニア.md "wikilink")等の東京芸人にも評価が高かった。
 
 <!-- end list -->
 

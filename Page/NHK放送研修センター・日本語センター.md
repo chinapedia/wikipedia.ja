@@ -5,7 +5,7 @@
 
 ## 概要
 
-日本語センタースクールの教室は[東京都](../Page/東京都.md "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")、並びに[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[新橋の](https://ja.wikipedia.org/wiki/新橋_\(東京都港区\) "wikilink")3ヶ所にあり、アナウンスや朗読の技術の基礎から実践までを[NHKのアナウンサー](https://ja.wikipedia.org/wiki/NHK放送センター#NHK放送センター所轄のアナウンサー "wikilink")（[放送研修センターに](https://ja.wikipedia.org/wiki/NHK放送センター#日本語センター "wikilink")[出向しているアナウンサーも含む](https://ja.wikipedia.org/wiki/人事#出向・転籍 "wikilink")）が直々に指導を行う。また遠隔地の受講者のために[通信教育](../Page/通信教育.md "wikilink")講座も用意されている。
+日本語センタースクールの教室は[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")、並びに[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[新橋の](../Page/新橋_\(東京都港区\).md "wikilink")3ヶ所にあり、アナウンスや朗読の技術の基礎から実践までを[NHKのアナウンサー](https://ja.wikipedia.org/wiki/NHK放送センター#NHK放送センター所轄のアナウンサー "wikilink")（[放送研修センターに](https://ja.wikipedia.org/wiki/NHK放送センター#日本語センター "wikilink")[出向しているアナウンサーも含む](https://ja.wikipedia.org/wiki/人事#出向・転籍 "wikilink")）が直々に指導を行う。また遠隔地の受講者のために[通信教育](../Page/通信教育.md "wikilink")講座も用意されている。
 
 その他学校や企業向けにNHKのアナウンサーが出張して講義を行う講座もある。
 
@@ -13,7 +13,7 @@
 
 日本語センター職員のアナウンサーは、NHK本体（各地放送局）を定年\[1\]を経過したり、あるいは女性の結婚・育児などのため退職したアナウンサーが「移籍」することが多いが、NHK本体に籍を置きながら当センターに出向する現役アナウンサーも若干名いる。
 
-下記の中には、東京アナウンス室の業務補完にあたっている人も少なくない（[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")の字幕キャスターや視覚障害者に向けた副音声解説放送、深夜時間帯の[ラジオ第1](https://ja.wikipedia.org/wiki/ラジオ第1放送 "wikilink")・[FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")・[国際放送](../Page/国際放送.md "wikilink")（[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")）のラジオニュース、[海外安全情報](../Page/海外安全情報.md "wikilink")、[気象通報](../Page/気象通報.md "wikilink")、[株式市況](../Page/株式市況.md "wikilink")など。※印は主に株式市況、気象通報、昼間もしくは深夜時間帯のニュースなどを担当）。
+下記の中には、東京アナウンス室の業務補完にあたっている人も少なくない（[リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")の字幕キャスターや視覚障害者に向けた副音声解説放送、深夜時間帯の[ラジオ第1](https://ja.wikipedia.org/wiki/ラジオ第1放送 "wikilink")・[FM](../Page/NHK-FM放送.md "wikilink")・[国際放送](../Page/国際放送.md "wikilink")（[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")）のラジオニュース、[海外安全情報](../Page/海外安全情報.md "wikilink")、[気象通報](../Page/気象通報.md "wikilink")、[株式市況](../Page/株式市況.md "wikilink")など。※印は主に株式市況、気象通報、昼間もしくは深夜時間帯のニュースなどを担当）。
 
 ### 男性
 
@@ -63,7 +63,7 @@
   - [樋口淳一](https://ja.wikipedia.org/wiki/樋口淳一 "wikilink")
   - [藤原尚武](https://ja.wikipedia.org/wiki/藤原尚武 "wikilink")\[27\]
   - [古屋明信](https://ja.wikipedia.org/wiki/古屋明信 "wikilink")\[28\]
-  - [星野豊](https://ja.wikipedia.org/wiki/星野豊 "wikilink")
+  - [星野豊](../Page/星野豊.md "wikilink")
   - [松井治伸](../Page/松井治伸.md "wikilink")
   - [三宅民夫](../Page/三宅民夫.md "wikilink")
   - [村田昭](https://ja.wikipedia.org/wiki/村田昭_\(アナウンサー\) "wikilink")

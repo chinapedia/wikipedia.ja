@@ -1,7 +1,7 @@
 > この記事は[UK](https://ja.wikipedia.org/wiki/UK)から翻訳されています。
 
 
-**UKラジオエイド** ([英語](../Page/英語.md "wikilink"): **UK Radio Aid**) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に[インド洋大津波の犠牲者に向けての義援金を募るために行われた](../Page/スマトラ島沖地震.md "wikilink")[商業放送](../Page/民間放送.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")の[チャリティー](../Page/チャリティー.md "wikilink")イベント、及びそれを[生中継した](../Page/生放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")名である。
+**UKラジオエイド** ([英語](../Page/英語.md "wikilink"): **UK Radio Aid**) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で[2005年](../Page/2005年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")に[インド洋大津波の犠牲者に向けての義援金を募るために行われた](../Page/スマトラ島沖地震.md "wikilink")[商業放送](../Page/民間放送.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")の[チャリティー](../Page/チャリティー.md "wikilink")イベント、及びそれを[生中継した](../Page/生放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")名である。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ## 番組内容
 
-番組進行は全英の人気[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")によって行われ、各界、特に[音楽](../Page/音楽.md "wikilink")界の有名人が多数ゲストに招かれた。更には当時の[首相](../Page/イギリスの首相.md "wikilink")、[トニー・ブレア](../Page/トニー・ブレア.md "wikilink")も特別出演した。また、番組中は[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")の協力でチャリティーオークションも行われ、ブレア首相による首相官邸（[ダウニング街10番地](https://ja.wikipedia.org/wiki/ダウニング街10番地 "wikilink")）ガイド付き[ツアーや](../Page/旅行.md "wikilink")[フランク・スキナー](../Page/フランク・スキナー.md "wikilink")寄贈の[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")が実際着ていたTシャツなど、出演者がそれぞれの品物を持ち寄って実施された。
+番組進行は全英の人気[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")によって行われ、各界、特に[音楽](../Page/音楽.md "wikilink")界の有名人が多数ゲストに招かれた。更には当時の[首相](../Page/イギリスの首相.md "wikilink")、[トニー・ブレア](../Page/トニー・ブレア.md "wikilink")も特別出演した。また、番組中は[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")の協力でチャリティーオークションも行われ、ブレア首相による首相官邸（[ダウニング街10番地](../Page/ダウニング街10番地.md "wikilink")）ガイド付き[ツアーや](../Page/旅行.md "wikilink")[フランク・スキナー](../Page/フランク・スキナー.md "wikilink")寄贈の[エルヴィス・プレスリー](../Page/エルヴィス・プレスリー.md "wikilink")が実際着ていたTシャツなど、出演者がそれぞれの品物を持ち寄って実施された。
 
 スタジオでは、[ブライアン・アダムス](../Page/ブライアン・アダムス.md "wikilink")、[ラッセル・ワトソン](../Page/ラッセル・ワトソン.md "wikilink")など[バンド](../Page/バンド_\(音楽\).md "wikilink")・[歌手](../Page/歌手.md "wikilink")による生演奏や[コメディアン達による](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")[コメディーも披露された](../Page/喜劇.md "wikilink")。
 

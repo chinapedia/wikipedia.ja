@@ -1,7 +1,7 @@
 > この記事は[NOCTY](https://ja.wikipedia.org/wiki/NOCTY)から翻訳されています。
 
 
-**NOCTY**（のくてぃ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")[溝口にある商業ビル](https://ja.wikipedia.org/wiki/溝口_\(川崎市\) "wikilink")。正式名は「ノクティプラザ」。管理運営はみぞのくち新都市株式会社が行っている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月開業。
+**NOCTY**（のくてぃ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[高津区](../Page/高津区.md "wikilink")[溝口にある商業ビル](../Page/溝口_\(川崎市\).md "wikilink")。正式名は「ノクティプラザ」。管理運営はみぞのくち新都市株式会社が行っている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月開業。
 
 NOCTYの名称は、溝口の 「のくち」+cityによる。溝口の駅前再開発により建設されたビルのうちの2棟で、駅に近い側にあり主に専門店が入る**ノクティ1**とその東側にあり丸井が核テナントとなっている**ノクティ2**からなる。
 
@@ -14,8 +14,8 @@ NOCTYの名称は、溝口の 「のくち」+cityによる。溝口の駅前再
 ### 施設
 
   - 2-8F ショッピングフロア(10:30-20:00)
-    8F：レストラン・ビューティー・スクール([たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニック, 英会話[イーオン](https://ja.wikipedia.org/wiki/イーオン "wikilink")など)
-    7F：文具・書籍([文教堂](https://ja.wikipedia.org/wiki/文教堂 "wikilink")書店など)
+    8F：レストラン・ビューティー・スクール([たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニック, 英会話[イーオン](../Page/イーオン.md "wikilink")など)
+    7F：文具・書籍([文教堂](../Page/文教堂.md "wikilink")書店など)
     6F：生活雑貨([無印良品](https://ja.wikipedia.org/wiki/無印良品 "wikilink"))
     5F：手芸・旅行・保険・ビューティー([新宿オカダヤ](https://ja.wikipedia.org/wiki/オカダヤ "wikilink"), [近畿日本ツーリスト](https://ja.wikipedia.org/wiki/近畿日本ツーリスト "wikilink")など)
     4F：レディス&メンズファッション・雑貨・コスメ・ビューティー([ジーユー](https://ja.wikipedia.org/wiki/ジーユー "wikilink")など)

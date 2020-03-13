@@ -1,13 +1,13 @@
 > この記事は[SAP](https://ja.wikipedia.org/wiki/SAP)から翻訳されています。
 
 
-**SAPジャパン**（エスエイピー・ジャパン）は、企業向け基盤システムである[ERP](https://ja.wikipedia.org/wiki/企業資源計画 "wikilink") (Enterprise Resource Planning)[パッケージなどを提供するヨーロッパ最大級の大手](../Page/パッケージソフトウェア.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")会社[SAP SEの日本法人](../Page/SAP_\(企業\).md "wikilink")。
+**SAPジャパン**（エスエイピー・ジャパン）は、企業向け基盤システムである[ERP](../Page/企業資源計画.md "wikilink") (Enterprise Resource Planning)[パッケージなどを提供するヨーロッパ最大級の大手](../Page/パッケージソフトウェア.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")会社[SAP SEの日本法人](../Page/SAP_\(企業\).md "wikilink")。
 
 ## 概要
 
-SAPジャパンは、1992年10月に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")最大級のIT企業であり、ビジネスソフトウェアで売上高世界4位の独[SAPの](../Page/SAP_\(企業\).md "wikilink")100%[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")として設立され、[ソフトウェア](../Page/ソフトウェア.md "wikilink")製品の販売および導入支援、テクニカルサポートを提供する[コンピュータ](../Page/コンピュータ.md "wikilink")関連[サービス](../Page/サービス.md "wikilink")企業である。
+SAPジャパンは、1992年10月に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")最大級のIT企業であり、ビジネスソフトウェアで売上高世界4位の独[SAPの](../Page/SAP_\(企業\).md "wikilink")100%[子会社](../Page/子会社.md "wikilink")として設立され、[ソフトウェア](../Page/ソフトウェア.md "wikilink")製品の販売および導入支援、テクニカルサポートを提供する[コンピュータ](../Page/コンピュータ.md "wikilink")関連[サービス](../Page/サービス.md "wikilink")企業である。
 
-企業の基幹システムである[ERPパッケージをはじめ](https://ja.wikipedia.org/wiki/企業資源計画 "wikilink")、[CRM](../Page/顧客関係管理.md "wikilink")、SRM、[SCM](https://ja.wikipedia.org/wiki/サプライチェーン・マネジメント "wikilink")、[EPM製品などのエンタープライズ向け業務アプリケーションで高いシェアを有している](../Page/ビジネス業績管理.md "wikilink")。また、近年ではデータベースやビジネスインテリジェンス製品など幅広く分野のソフトウェアを提供しており、日本国内ソフトウェア市場においては、2014年時点の売上高は7位に位置している。\[1\]　従来の[オンプレミス](https://ja.wikipedia.org/wiki/オンプレミス "wikilink")のパッケージソフトウェア依存からの脱却を目指しており、[SaaS](../Page/SaaS.md "wikilink")および[PaaS分野での](../Page/Platform_as_a_Service.md "wikilink")[クラウドサービスでも急速にシェアを伸ばしている](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")。\[2\]\[3\]
+企業の基幹システムである[ERPパッケージをはじめ](../Page/企業資源計画.md "wikilink")、[CRM](../Page/顧客関係管理.md "wikilink")、SRM、[SCM](../Page/サプライチェーン・マネジメント.md "wikilink")、[EPM製品などのエンタープライズ向け業務アプリケーションで高いシェアを有している](../Page/ビジネス業績管理.md "wikilink")。また、近年ではデータベースやビジネスインテリジェンス製品など幅広く分野のソフトウェアを提供しており、日本国内ソフトウェア市場においては、2014年時点の売上高は7位に位置している。\[1\]　従来の[オンプレミス](https://ja.wikipedia.org/wiki/オンプレミス "wikilink")のパッケージソフトウェア依存からの脱却を目指しており、[SaaS](../Page/SaaS.md "wikilink")および[PaaS分野での](../Page/Platform_as_a_Service.md "wikilink")[クラウドサービスでも急速にシェアを伸ばしている](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")。\[2\]\[3\]
 
 主な競合には[日本オラクル](../Page/日本オラクル.md "wikilink")、[日本マイクロソフト](https://ja.wikipedia.org/wiki/日本マイクロソフト "wikilink")、[ワークスアプリケーションズ](../Page/ワークスアプリケーションズ.md "wikilink")などがあり、シェア争いを繰り広げている。\[4\]
 
@@ -112,7 +112,7 @@ SAPジャパンは国内のデータセンターから稼働率99.9%のアプリ
   - [SAP Business One](https://ja.wikipedia.org/wiki/SAP_Business_One "wikilink"): SAP社の開発したERPソフトウェア。中堅・中小企業向け「シンプルかつパワフル」がコンセプト
   - [SAP NetWeaver](https://ja.wikipedia.org/wiki/SAP_NetWeaver "wikilink"): SAPアプリケーションを開発、運用するために必要な統合プラットフォーム。
   - [ABAP](https://ja.wikipedia.org/wiki/ABAP "wikilink"): SAPアプリケーションを開発するためのSAP社の独自[プログラミング言語](../Page/プログラミング言語.md "wikilink")。[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")対応。
-  - [SAPユニバーシティ・アライアンス](https://ja.wikipedia.org/wiki/SAPユニバーシティ・アライアンス "wikilink")
+  - [SAPユニバーシティ・アライアンス](../Page/SAPユニバーシティ・アライアンス.md "wikilink")
 
 ## 外部リンク
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-2017年現在、複数回受賞した選手は、[マーク・ヒューズ](../Page/マーク・ヒューズ_\(ウェールズ人サッカー選手\).md "wikilink")、[アラン・シアラー](https://ja.wikipedia.org/wiki/アラン・シアラー "wikilink")、[ティエリ・アンリ](../Page/ティエリ・アンリ.md "wikilink")、[クリスティアーノ・ロナウド](https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド "wikilink")、[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")の5名である。受賞回数や[PFA年間最優秀若手選手賞](../Page/PFA年間最優秀若手選手賞.md "wikilink")等の賞を受賞したものは対象外といったような制限はなく、同じ選手がダブルで受賞する年もある。4月にノミネート選手が発表され、協会のメンバーは2名の選手に投票することになる。受賞者はPFAの他の賞の受賞者と共に、後日ロンドンで表彰される。同じ[サッカー選手](../Page/サッカー選手.md "wikilink")から選ばれる賞であるため、とても価値のある賞である。2005年の受賞者である[ジョン・テリー](https://ja.wikipedia.org/wiki/ジョン・テリー "wikilink")は、「口だけの評論家、ジャーナリストではなく同じピッチに立つ選手から評価されるのは、最高の名誉。」であるとこの賞を評している。
+2017年現在、複数回受賞した選手は、[マーク・ヒューズ](../Page/マーク・ヒューズ_\(ウェールズ人サッカー選手\).md "wikilink")、[アラン・シアラー](../Page/アラン・シアラー.md "wikilink")、[ティエリ・アンリ](../Page/ティエリ・アンリ.md "wikilink")、[クリスティアーノ・ロナウド](../Page/クリスティアーノ・ロナウド.md "wikilink")、[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")の5名である。受賞回数や[PFA年間最優秀若手選手賞](../Page/PFA年間最優秀若手選手賞.md "wikilink")等の賞を受賞したものは対象外といったような制限はなく、同じ選手がダブルで受賞する年もある。4月にノミネート選手が発表され、協会のメンバーは2名の選手に投票することになる。受賞者はPFAの他の賞の受賞者と共に、後日ロンドンで表彰される。同じ[サッカー選手](../Page/サッカー選手.md "wikilink")から選ばれる賞であるため、とても価値のある賞である。2005年の受賞者である[ジョン・テリー](../Page/ジョン・テリー.md "wikilink")は、「口だけの評論家、ジャーナリストではなく同じピッチに立つ選手から評価されるのは、最高の名誉。」であるとこの賞を評している。
 
 ## 歴代受賞者
 
@@ -151,7 +151,7 @@
 </tr>
 <tr class="even">
 <td><p>1994-95</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラン・シアラー" title="wikilink">アラン・シアラー</a></p></td>
+<td><p><a href="../Page/アラン・シアラー.md" title="wikilink">アラン・シアラー</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -163,7 +163,7 @@
 </tr>
 <tr class="even">
 <td><p>1996-97</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アラン・シアラー" title="wikilink">アラン・シアラー</a></p></td>
+<td><p><a href="../Page/アラン・シアラー.md" title="wikilink">アラン・シアラー</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -187,13 +187,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/FAプレミアリーグ2000-2001.md" title="wikilink">2000-01</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テディ・シェリンガム" title="wikilink">テディ・シェリンガム</a></p></td>
+<td><p><a href="../Page/テディ・シェリンガム.md" title="wikilink">テディ・シェリンガム</a></p></td>
 <td></td>
 <td><p>FWA</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FAプレミアリーグ2001-2002" title="wikilink">2001-02</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルート・ファン・ニステルローイ" title="wikilink">ルート・ファン・ニステルローイ</a></p></td>
+<td><p><a href="../Page/ルート・ファン・ニステルローイ.md" title="wikilink">ルート・ファン・ニステルローイ</a></p></td>
 <td></td>
 <td><p>FPY</p></td>
 </tr>
@@ -211,25 +211,25 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/FAプレミアリーグ2004-2005.md" title="wikilink">2004-05</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・テリー" title="wikilink">ジョン・テリー</a></p></td>
+<td><p><a href="../Page/ジョン・テリー.md" title="wikilink">ジョン・テリー</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FAプレミアリーグ2005-2006" title="wikilink">2005-06</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーヴン・ジェラード" title="wikilink">スティーヴン・ジェラード</a></p></td>
+<td><p><a href="../Page/FAプレミアリーグ2005-2006.md" title="wikilink">2005-06</a></p></td>
+<td><p><a href="../Page/スティーヴン・ジェラード.md" title="wikilink">スティーヴン・ジェラード</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/FAプレミアリーグ2006-2007.md" title="wikilink">2006-07</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
+<td><p><a href="../Page/クリスティアーノ・ロナウド.md" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
 <td></td>
 <td><p>FWA,FPY,YPY</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2007-2008" title="wikilink">2007-08</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
+<td><p><a href="../Page/クリスティアーノ・ロナウド.md" title="wikilink">クリスティアーノ・ロナウド</a></p></td>
 <td></td>
 <td><p>FWA,FPY</p></td>
 </tr>
@@ -241,7 +241,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2009-2010" title="wikilink">2009-10</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウェイン・ルーニー" title="wikilink">ウェイン・ルーニー</a></p></td>
+<td><p><a href="../Page/ウェイン・ルーニー.md" title="wikilink">ウェイン・ルーニー</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -3,7 +3,7 @@
 
 {{ Infobox 航空機 | 名称= IMAM Ro.57 | 画像= <File:Italian_IMAM_Ro.57_bis_fighter_front_quarter_view.jpg> | キャプション= | 用途=[戦闘機](../Page/戦闘機.md "wikilink")/[急降下爆撃機](../Page/急降下爆撃機.md "wikilink") | 分類= | 設計者= ジョヴァンニ・ガラッソ（Giovanni Galasso） | 製造者=[IMAM](../Page/インドゥストリエ・メッカーニケ・アエロナウティケ・メリディオナーリ.md "wikilink") | 運用者= | 初飛行年月日= | 生産数=50 - 75機 | 生産開始年月日= | 運用開始年月日=[1943年](../Page/1943年.md "wikilink") | 退役年月日= | 運用状況= | ユニットコスト= }}
 
-'''Ro.57 '''は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[イタリア](../Page/イタリア.md "wikilink")で生産された双発・単座の[戦闘機](../Page/戦闘機.md "wikilink")である。当初は[迎撃機として開発されたが](https://ja.wikipedia.org/wiki/要撃機 "wikilink")、性能不足のため[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")や[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")として少数が利用された。
+'''Ro.57 '''は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[イタリア](../Page/イタリア.md "wikilink")で生産された双発・単座の[戦闘機](../Page/戦闘機.md "wikilink")である。当初は[迎撃機として開発されたが](../Page/要撃機.md "wikilink")、性能不足のため[戦闘爆撃機](../Page/戦闘爆撃機.md "wikilink")や[急降下爆撃機](../Page/急降下爆撃機.md "wikilink")として少数が利用された。
 
 ## 概要
 

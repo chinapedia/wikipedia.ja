@@ -94,7 +94,7 @@
  M_2 & D_2
 \end{matrix}\right]\]
 
-という形の行列に相似変換することができ、さらに[ヤコビ法](https://ja.wikipedia.org/wiki/ヤコビ法 "wikilink")の反復行列\(M_J=-D^{-1}\left(L+U\right)\)の [スペクトル半径](https://ja.wikipedia.org/wiki/スペクトル半径 "wikilink")\(\rho\left(M_J\right)\)が既知であるときである。 なお、上の行列内の\(D_1,D_2\)は[対角行列](../Page/対角行列.md "wikilink")である。
+という形の行列に相似変換することができ、さらに[ヤコビ法](../Page/ヤコビ法.md "wikilink")の反復行列\(M_J=-D^{-1}\left(L+U\right)\)の [スペクトル半径](https://ja.wikipedia.org/wiki/スペクトル半径 "wikilink")\(\rho\left(M_J\right)\)が既知であるときである。 なお、上の行列内の\(D_1,D_2\)は[対角行列](../Page/対角行列.md "wikilink")である。
 
 このとき、SOR法の反復行列の[スペクトル半径](https://ja.wikipedia.org/wiki/スペクトル半径 "wikilink")\(\rho\left(M_{\omega}\right)\)が最小となる\(\omega\)の最適値は、 次の形で得られる\[9\]。
 
@@ -125,7 +125,7 @@
 
   - [数値解析](https://ja.wikipedia.org/wiki/数値解析 "wikilink")
   - [数値線形代数](https://ja.wikipedia.org/wiki/数値線形代数 "wikilink")
-  - [ヤコビ法](https://ja.wikipedia.org/wiki/ヤコビ法 "wikilink")
+  - [ヤコビ法](../Page/ヤコビ法.md "wikilink")
   - [ガウス＝ザイデル法](../Page/ガウス＝ザイデル法.md "wikilink")
 
 [Category:応用力学](https://ja.wikipedia.org/wiki/Category:応用力学 "wikilink") [Category:数値線形代数](https://ja.wikipedia.org/wiki/Category:数値線形代数 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink") [Category:数値解析](https://ja.wikipedia.org/wiki/Category:数値解析 "wikilink")

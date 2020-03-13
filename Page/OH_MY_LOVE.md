@@ -1,7 +1,7 @@
 > この記事は[OH MY LOVE](https://ja.wikipedia.org/wiki/OH_MY_LOVE)から翻訳されています。
 
 
-『**OH MY LOVE**』（オー・マイ・ラブ）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1994年](../Page/1994年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")に[B-Gram RECORDSから発売された](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")5枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**OH MY LOVE**』（オー・マイ・ラブ）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1994年](../Page/1994年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")5枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -25,7 +25,7 @@
 
         作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
         作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")
-        編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 
         </div>
 
@@ -39,7 +39,7 @@
         <div class="NavContent" style="text-align: left;font-size:small;">
 
         作詞：坂井泉水
-        作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
+        作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
         編曲：明石昌夫
 
         </div>
@@ -57,7 +57,7 @@
 
         </div>
 
-        10thシングルの表題曲。最初の[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")のスピードがゆるやかになり、ボーカルや楽器に対するエコーが強くなり、楽器などの[音圧も強くなっており](../Page/音圧レベル.md "wikilink")、全体のミックスや栗林誠一郎と思われる[コーラスもシングルバージョンと異なっている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。この曲の[PVを](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")のスタジオを使用していたことが[2007年](../Page/2007年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")に坂井泉水の追悼番組の中で明らかにされた。
+        10thシングルの表題曲。最初の[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")のスピードがゆるやかになり、ボーカルや楽器に対するエコーが強くなり、楽器などの[音圧も強くなっており](../Page/音圧レベル.md "wikilink")、全体のミックスや栗林誠一郎と思われる[コーラスもシングルバージョンと異なっている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。この曲の[PVを](../Page/ミュージック・ビデオ.md "wikilink")[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")のスタジオを使用していたことが[2007年](../Page/2007年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")に坂井泉水の追悼番組の中で明らかにされた。
 4.  **[もう少し あと少し…](../Page/もう少し_あと少し….md "wikilink")**
       -
 
@@ -75,13 +75,13 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")、坂井泉水
+        作詞：[上杉昇](../Page/上杉昇.md "wikilink")、坂井泉水
         作曲：栗林誠一郎
         編曲：明石昌夫
 
         </div>
 
-        **[ZYYG](https://ja.wikipedia.org/wiki/ZYYG "wikilink"),[REV](https://ja.wikipedia.org/wiki/出口雅之 "wikilink"),ZARD&[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")**名義で発表した「[果てしない夢を](../Page/果てしない夢を.md "wikilink")」のカップリング曲。本作では[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を坂井のみで[レコーディングした](../Page/録音.md "wikilink")[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")バージョン。[サビ](../Page/サビ.md "wikilink")の部分や[サックスの演奏](../Page/サクソフォーン.md "wikilink")、コーラスパートなどが微妙に異なる。また、最後のサビの一部がカットされている。作詞はWANDSの上杉昇との共作。ドラムは、[青山純](../Page/青山純.md "wikilink")が叩いた。\[3\]
+        **[ZYYG](../Page/ZYYG.md "wikilink"),[REV](../Page/出口雅之.md "wikilink"),ZARD&[WANDS](../Page/WANDS.md "wikilink")**名義で発表した「[果てしない夢を](../Page/果てしない夢を.md "wikilink")」のカップリング曲。本作では[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")を坂井のみで[レコーディングした](../Page/録音.md "wikilink")[セルフカバー](../Page/セルフカバー.md "wikilink")バージョン。[サビ](../Page/サビ.md "wikilink")の部分や[サックスの演奏](../Page/サクソフォーン.md "wikilink")、コーラスパートなどが微妙に異なる。また、最後のサビの一部がカットされている。作詞はWANDSの上杉昇との共作。ドラムは、[青山純](../Page/青山純.md "wikilink")が叩いた。\[3\]
 6.  **[この愛に泳ぎ疲れても](https://ja.wikipedia.org/wiki/この愛に泳ぎ疲れても/Boy "wikilink")**
       -
 
@@ -131,7 +131,7 @@
 
         </div>
 
-        [ボサノヴァ](../Page/ボサノヴァ.md "wikilink")調で始まるが、2コーラス目から曲調が変わり、最後は[ラ・カンパネッラ](https://ja.wikipedia.org/wiki/ラ・カンパネッラ "wikilink")を彷彿させるピアノの旋律で終わる。
+        [ボサノヴァ](../Page/ボサノヴァ.md "wikilink")調で始まるが、2コーラス目から曲調が変わり、最後は[ラ・カンパネッラ](../Page/ラ・カンパネッラ.md "wikilink")を彷彿させるピアノの旋律で終わる。
 
         全国ツアーで「私は言葉（歌詞）を大切にしてきました。そんな想いのこもった曲を聴いてください」と語った直後に歌われた曲である。
 
@@ -163,10 +163,10 @@
 
 ## 関連項目
 
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")
   - [織田哲郎](../Page/織田哲郎.md "wikilink")
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
-  - [1994年の音楽](https://ja.wikipedia.org/wiki/1994年の音楽 "wikilink")
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
+  - [1994年の音楽](../Page/1994年の音楽.md "wikilink")
 
 ## 脚注
 

@@ -7,9 +7,9 @@
 
 [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[綜合警備保障](https://ja.wikipedia.org/wiki/綜合警備保障 "wikilink")と[日本化成](../Page/日本化成.md "wikilink")の共同出資により設立。[機械警備](../Page/機械警備.md "wikilink")・[工場](../Page/工場.md "wikilink")などの[常駐警備](../Page/常駐警備.md "wikilink")・[現金輸送警備をおもな業務としている](../Page/貴重品輸送警備.md "wikilink")。
 
-[金融機関](../Page/金融機関.md "wikilink")の警送業務や[福島空港](https://ja.wikipedia.org/wiki/福島空港 "wikilink")の空港保安警備業務なども行っている。
+[金融機関](../Page/金融機関.md "wikilink")の警送業務や[福島空港](../Page/福島空港.md "wikilink")の空港保安警備業務なども行っている。
 
-[2004年](../Page/2004年.md "wikilink")に日本化成が保有する[株式](../Page/株式.md "wikilink")を綜合警備保障に譲渡。これにより綜合警備保障の100%[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")となった。
+[2004年](../Page/2004年.md "wikilink")に日本化成が保有する[株式](../Page/株式.md "wikilink")を綜合警備保障に譲渡。これにより綜合警備保障の100%[子会社](../Page/子会社.md "wikilink")となった。
 
 2015年7月13日に商号を「福島綜合警備保障株式会社」から変更した。
 
@@ -20,7 +20,7 @@
   - 郡山支社/郡山市虎丸町14-2　社団法人郡山法人会会館
   - 福島支社/[福島市](../Page/福島市.md "wikilink")松浪町6-18　福綜ビル
   - いわき支社/[いわき市](../Page/いわき市.md "wikilink")平谷川瀬字三十九町43-1
-  - 県南支社/[白河市](https://ja.wikipedia.org/wiki/白河市 "wikilink")北真舟25-2　パークシティ104
+  - 県南支社/[白河市](../Page/白河市.md "wikilink")北真舟25-2　パークシティ104
   - 会津若松支社/[会津若松市](https://ja.wikipedia.org/wiki/会津若松市 "wikilink")インター西97
   - 相双支社/[南相馬市](https://ja.wikipedia.org/wiki/南相馬市 "wikilink")原町区桜井町2丁目376番地
 

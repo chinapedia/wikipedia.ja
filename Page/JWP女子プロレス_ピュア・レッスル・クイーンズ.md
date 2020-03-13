@@ -1,7 +1,7 @@
 > この記事は[JWP ](https://ja.wikipedia.org/wiki/JWP_)から翻訳されています。
 
 
-『**JWP女子プロレス ピュア・レッスル・クイーンズ**』（ジェイ・ダブリュー・ピー・じょしプロレス・ピュア・レッスル・クイーンズ）は、[ジャレコ](../Page/ジャレコ.md "wikilink")から発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[プロレス](../Page/プロレス.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")。[女子プロレス](../Page/女子プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")「[JWP女子プロレス](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink")」の協力のもと作成された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ゲームソフト。
+『**JWP女子プロレス ピュア・レッスル・クイーンズ**』（ジェイ・ダブリュー・ピー・じょしプロレス・ピュア・レッスル・クイーンズ）は、[ジャレコ](../Page/ジャレコ.md "wikilink")から発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[プロレス](../Page/プロレス.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")。[女子プロレス](../Page/女子プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")「[JWP女子プロレス](../Page/JWP女子プロレス.md "wikilink")」の協力のもと作成された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用ゲームソフト。
 
 ## 各種モード
 

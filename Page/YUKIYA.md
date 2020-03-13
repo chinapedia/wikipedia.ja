@@ -9,8 +9,8 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、無名の新人ながらファーストアルバムがオリコンインディーズチャート1位となる。
   - [1996年](../Page/1996年.md "wikilink")、[Kreis](../Page/Kreis.md "wikilink")設立。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")と契約し上京。マネージメントオフィスとして[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")とも契約する。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、D≒SIRE解散。この頃からプロデューサーとしても活動が活発になり、[Dir en greyの作品なども手がけている](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")。
-  - [1999年](../Page/1999年.md "wikilink")、YUKIYA with Kreis Projectとして、ソロCD『MOMENT』を東芝EMIよりリリース。[JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")結成。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、D≒SIRE解散。この頃からプロデューサーとしても活動が活発になり、[Dir en greyの作品なども手がけている](../Page/DIR_EN_GREY.md "wikilink")。
+  - [1999年](../Page/1999年.md "wikilink")、YUKIYA with Kreis Projectとして、ソロCD『MOMENT』を東芝EMIよりリリース。[JILS](../Page/JILS.md "wikilink")結成。
   - [2007年](../Page/2007年.md "wikilink")、JILS解体。[Kαin](https://ja.wikipedia.org/wiki/Kαin "wikilink")結成。新レーベル「Kränze」設立。
 
 ## 人物
@@ -18,7 +18,7 @@
   - プロデュース業をこなしながら、自らのバンド[Kαin](https://ja.wikipedia.org/wiki/Kαin "wikilink")のヴォーカリストとして活動している。「高田純三」などの名義で他アーティストへの楽曲の提供も行っている。
   - D≒SIRE結成前のアマチュアバンド（マッハ団の原型）ではギタリストだった。
   - [CRAZE](../Page/CRAZE.md "wikilink")の[瀧川一郎](../Page/瀧川一郎.md "wikilink")モデルのピックを愛用している。
-  - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")、[ARB](https://ja.wikipedia.org/wiki/ARB_\(バンド\) "wikilink")、[PERSONZ](../Page/PERSONZ.md "wikilink")らを敬愛し、彼らと同じく自らも本拠地とする[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")への深い愛着を公言している。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より10年間、[12月24日](../Page/12月24日.md "wikilink")に新宿LOFTでワンマンライブを行っていた。
+  - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")、[ARB](../Page/ARB_\(バンド\).md "wikilink")、[PERSONZ](../Page/PERSONZ.md "wikilink")らを敬愛し、彼らと同じく自らも本拠地とする[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")への深い愛着を公言している。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")より10年間、[12月24日](../Page/12月24日.md "wikilink")に新宿LOFTでワンマンライブを行っていた。
   - 尊敬する人物として、上京した際に自らを吉本興業に誘った[大崎洋](../Page/大崎洋.md "wikilink")（現在の吉本興業社長）と清水義則の名を度々あげている。
 
 ## 作品
@@ -48,7 +48,7 @@
 
 <!-- end list -->
 
-  - トリビュートアルバム『[UP-BEAT](../Page/UP-BEAT.md "wikilink") TRIBUTE』 （1997年9月25日、[east west japan](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")、AMCM-4331）
+  - トリビュートアルバム『[UP-BEAT](../Page/UP-BEAT.md "wikilink") TRIBUTE』 （1997年9月25日、[east west japan](../Page/ワーナーミュージック・ジャパン.md "wikilink")、AMCM-4331）
       -
         YUKIYA「BLIND AGE」を収録。
   - [sukekiyo](https://ja.wikipedia.org/wiki/sukekiyo "wikilink")『ADORATIO』 （2017年6月、[Blu-spec CD2](https://ja.wikipedia.org/wiki/Blu-spec_CD2 "wikilink")、[sun-krad](../Page/フリーウィル.md "wikilink")）
@@ -63,9 +63,9 @@
 
   - [Kreis](../Page/Kreis.md "wikilink")
   - [Kαin](https://ja.wikipedia.org/wiki/Kαin "wikilink")
-  - [JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")
+  - [JILS](../Page/JILS.md "wikilink")
   - [D≒SIRE](../Page/D≒SIRE.md "wikilink")
-  - [Dir en grey](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")(「[JEALOUS](https://ja.wikipedia.org/wiki/JEALOUS_\(Dir_en_greyの曲\) "wikilink")」、「[-I'll-](../Page/-I'll-.md "wikilink")」プロデュース)
+  - [Dir en grey](../Page/DIR_EN_GREY.md "wikilink")(「[JEALOUS](https://ja.wikipedia.org/wiki/JEALOUS_\(Dir_en_greyの曲\) "wikilink")」、「[-I'll-](../Page/-I'll-.md "wikilink")」プロデュース)
 
 ## 外部リンク
 

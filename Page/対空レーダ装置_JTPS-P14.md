@@ -5,11 +5,11 @@
 
 ## 特徴
 
-[JGSDF_JTPS-P14.jpg](https://ja.wikipedia.org/wiki/File:JGSDF_JTPS-P14.jpg "fig:JGSDF_JTPS-P14.jpg") 中高度から高高度より侵入する敵を探知するためのものである。[71式対空レーダ装置 JTPS-P5の後継として](https://ja.wikipedia.org/wiki/71式対空レーダ装置_JTPS-P5 "wikilink")[1988年](../Page/1988年.md "wikilink")度から配備が始まった。配備先は、主として[師団](../Page/師団.md "wikilink")・[旅団](../Page/旅団.md "wikilink")隷下の高射特科大隊、本部管理中隊であり、師団・旅団の野戦防空における主たるセンサーとなる。なお、強力な探知能力と引き換えに機動力に欠け、また、低空域での探知能力にもやや不足があることから、より小型で機動性に優れ、低高度に重点をおいた[JTPS-P9や](https://ja.wikipedia.org/wiki/79式対空レーダ装置_JTPS-P9 "wikilink")[JTPS-P18と組み合わされるかたちで運用されることが多い](https://ja.wikipedia.org/wiki/低空レーダ装置_JTPS-P18 "wikilink")。
+[JGSDF_JTPS-P14.jpg](https://ja.wikipedia.org/wiki/File:JGSDF_JTPS-P14.jpg "fig:JGSDF_JTPS-P14.jpg") 中高度から高高度より侵入する敵を探知するためのものである。[71式対空レーダ装置 JTPS-P5の後継として](https://ja.wikipedia.org/wiki/71式対空レーダ装置_JTPS-P5 "wikilink")[1988年](../Page/1988年.md "wikilink")度から配備が始まった。配備先は、主として[師団](../Page/師団.md "wikilink")・[旅団](../Page/旅団.md "wikilink")隷下の高射特科大隊、本部管理中隊であり、師団・旅団の野戦防空における主たるセンサーとなる。なお、強力な探知能力と引き換えに機動力に欠け、また、低空域での探知能力にもやや不足があることから、より小型で機動性に優れ、低高度に重点をおいた[JTPS-P9や](https://ja.wikipedia.org/wiki/79式対空レーダ装置_JTPS-P9 "wikilink")[JTPS-P18と組み合わされるかたちで運用されることが多い](../Page/低空レーダ装置_JTPS-P18.md "wikilink")。
 
-通常[73式大型トラック](https://ja.wikipedia.org/wiki/73式大型トラック "wikilink")に搭載されるが、地上に器材を降ろして使用することもある。移動時はアンテナを倒しているが、使用時は[フェイズド・アレイ・アンテナを立てて使用する](https://ja.wikipedia.org/wiki/フェーズドアレイレーダー "wikilink")。地上設置時は、固定脚を伸ばして機器を安定させる。なお、表示方式はPPI・RSI方式である。また、本体のほかに[電源車](../Page/電源車.md "wikilink")が必要となっており、その諸元は115V・60Hz・10k[VAである](https://ja.wikipedia.org/wiki/ボルトアンペア "wikilink")。
+通常[73式大型トラック](../Page/73式大型トラック.md "wikilink")に搭載されるが、地上に器材を降ろして使用することもある。移動時はアンテナを倒しているが、使用時は[フェイズド・アレイ・アンテナを立てて使用する](../Page/フェーズドアレイレーダー.md "wikilink")。地上設置時は、固定脚を伸ばして機器を安定させる。なお、表示方式はPPI・RSI方式である。また、本体のほかに[電源車](../Page/電源車.md "wikilink")が必要となっており、その諸元は115V・60Hz・10k[VAである](https://ja.wikipedia.org/wiki/ボルトアンペア "wikilink")。
 
-なお探知距離については正確な数値は不明であるが、2010年4月29日に行われた[下志津駐屯地](https://ja.wikipedia.org/wiki/下志津駐屯地 "wikilink")創設55周年記念行事の展示にて、下志津から[仙台や](../Page/仙台市.md "wikilink")[名古屋上空の航空機を探知可能](../Page/名古屋市.md "wikilink")（双方とも下志津から約300kmの距離）と解説されている。
+なお探知距離については正確な数値は不明であるが、2010年4月29日に行われた[下志津駐屯地](../Page/下志津駐屯地.md "wikilink")創設55周年記念行事の展示にて、下志津から[仙台や](../Page/仙台市.md "wikilink")[名古屋上空の航空機を探知可能](../Page/名古屋市.md "wikilink")（双方とも下志津から約300kmの距離）と解説されている。
 
 配備から20年以上が経過しており、更新という形で探知精度や中・高空域の目標情報の迅速・正確な収集・処理・伝送及び機動性の向上を図った新たな対空レーダ装置1号JTPS-P25が対空戦闘指揮統制システムの一つとして開発され、[2012年](../Page/2012年.md "wikilink")度より配備される予定である。
 
@@ -20,7 +20,7 @@
 
   - [陸上自衛隊の装備品一覧](../Page/陸上自衛隊の装備品一覧.md "wikilink")
 
-  - [師団対空情報処理システム](https://ja.wikipedia.org/wiki/師団対空情報処理システム "wikilink") - 高射特科部隊が使用する[C4Iシステム](https://ja.wikipedia.org/wiki/C4Iシステム "wikilink")。JTPS-P14はそのサブシステムとして動作する。
+  - [師団対空情報処理システム](../Page/師団対空情報処理システム.md "wikilink") - 高射特科部隊が使用する[C4Iシステム](https://ja.wikipedia.org/wiki/C4Iシステム "wikilink")。JTPS-P14はそのサブシステムとして動作する。
 
   - \- [アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")が運用する同級機。[Sバンド](https://ja.wikipedia.org/wiki/Sバンド "wikilink")を採用している。
 

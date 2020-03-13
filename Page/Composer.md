@@ -3,7 +3,7 @@
 
 **Composer**は、[PHP](../Page/PHP_\(プログラミング言語\).md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")向けの[ソフトウェア](../Page/ソフトウェア.md "wikilink")および必要な[ライブラリ](../Page/ライブラリ.md "wikilink")の依存関係を管理する標準形式を提供するアプリケーションレベルの[パッケージ管理システム](../Page/パッケージ管理システム.md "wikilink")である。 Nils AdermannとJordi Boggianoにより開発され、現在も両氏によってプロジェクトの管理が継続されている。両氏は2011年4月に開発を開始し、2012年3月1日に初めてリリースされた\[1\]。[Node.js](https://ja.wikipedia.org/wiki/Node.js "wikilink")の『[npm](https://ja.wikipedia.org/wiki/npm_\(パッケージ管理ツール\) "wikilink")』および[Ruby](../Page/Ruby.md "wikilink")の『[bundler](https://ja.wikipedia.org/wiki/:en:Bundler_\(software\) "wikilink")』から強い影響を受けている\[2\]。
 
-[コマンドライン上で動作し](../Page/キャラクタユーザインタフェース.md "wikilink")、アプリケーションが依存するライブラリなどをインストールする。 また、利用可能なパッケージを含んでいるメインリポジトリ『Packagist』\[3\] で利用可能なPHPアプリケーションをインストールすることも可能であるほか、ライブラリ向けに[サードパーティー](https://ja.wikipedia.org/wiki/サードパーティー "wikilink")のコードを容易に利用出来る[オートロード](https://ja.wikipedia.org/wiki/オートロード "wikilink")情報を指定できる機能も提供されている。
+[コマンドライン上で動作し](../Page/キャラクタユーザインタフェース.md "wikilink")、アプリケーションが依存するライブラリなどをインストールする。 また、利用可能なパッケージを含んでいるメインリポジトリ『Packagist』\[3\] で利用可能なPHPアプリケーションをインストールすることも可能であるほか、ライブラリ向けに[サードパーティー](../Page/サードパーティー.md "wikilink")のコードを容易に利用出来る[オートロード](https://ja.wikipedia.org/wiki/オートロード "wikilink")情報を指定できる機能も提供されている。
 
 また、[Laravel](https://ja.wikipedia.org/wiki/Laravel "wikilink")を含めた有名な[オープンソース](../Page/オープンソース.md "wikilink")のPHPプロジェクトの重要な機能の一部として利用されている\[4\]。
 

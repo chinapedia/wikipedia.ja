@@ -14,15 +14,15 @@
 <!-- end list -->
 
   - MC natsack
-    [2月11日](../Page/2月11日.md "wikilink")生まれ。日本の[ハッピーハードコア](https://ja.wikipedia.org/wiki/ハッピーハードコア "wikilink")シーン初期から活躍する[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。好きな食べ物はモツ刺し。ハードコアテクノレーベルである[RUSH HOUR2の主宰者でもある](https://ja.wikipedia.org/wiki/RUSH_HOUR2 "wikilink")。
+    [2月11日](../Page/2月11日.md "wikilink")生まれ。日本の[ハッピーハードコア](../Page/ハッピーハードコア.md "wikilink")シーン初期から活躍する[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。好きな食べ物はモツ刺し。ハードコアテクノレーベルである[RUSH HOUR2の主宰者でもある](https://ja.wikipedia.org/wiki/RUSH_HOUR2 "wikilink")。
     アルバムでの声優の起用や日本[アニメ](../Page/アニメ.md "wikilink")の影響を色濃く受けた幻想的な世界観等は、マーケティング的要素を狙ったものであるとネットラジオ等で言われているが、実の所はNatsackの個人的趣味であるとも本人がこぼしている。
-    ライブパフォーマンスに関しては2006年12月に、都内を中心に活躍する[UK HARDCORE](https://ja.wikipedia.org/wiki/UKハードコア "wikilink")、[Drum 'n' BassのDJである](https://ja.wikipedia.org/wiki/ドラムンベース "wikilink") "DJ TEKKA" とnatsackのDJ\&MCというスタイルで行うと発表されている。これは前述の女性が急病で出られなくなったことがあり、たまたま遊びに来ていたDJ TEKKAが急遽代役としてステージに立ったことがきっかけである。
+    ライブパフォーマンスに関しては2006年12月に、都内を中心に活躍する[UK HARDCORE](https://ja.wikipedia.org/wiki/UKハードコア "wikilink")、[Drum 'n' BassのDJである](../Page/ドラムンベース.md "wikilink") "DJ TEKKA" とnatsackのDJ\&MCというスタイルで行うと発表されている。これは前述の女性が急病で出られなくなったことがあり、たまたま遊びに来ていたDJ TEKKAが急遽代役としてステージに立ったことがきっかけである。
 
 ## 来歴
 
 [ガバの](../Page/ガバ_\(音楽\).md "wikilink")1ジャンルである[ニュースタイルガバ](https://ja.wikipedia.org/wiki/ニュースタイルガバ "wikilink")を基本としたハードなダンスポップを得意とし、結成時期などは非公開である（少なくとも2004年後半には結成されていると思われる）。
 
-デビュー作は『beatmania IIDX 11 IIDX RED』に収録された楽曲「gigadelic」。この曲で一躍注目を浴びることとなる。同曲は『IIDX RED』の[ロケテスト](https://ja.wikipedia.org/wiki/ロケテスト "wikilink")段階から収録されており、その譜面の強烈な難易度もあり一気に話題となった。その後[クラブ](../Page/クラブ.md "wikilink")イベントを行いながら、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[HOBiRECORDS](https://ja.wikipedia.org/wiki/HOBiRECORDS "wikilink")からデビューアルバム『teranoid underground edition』を、さらに同日には[avex traxから](https://ja.wikipedia.org/wiki/avex_trax "wikilink")『teranoid overground edition 』を発売と[インディーズ](../Page/インディーズ.md "wikilink")と[メジャーから同時にCDを発売する](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")（同時にメジャーデビューする）。さらに『teranoid underground edition』は発売に先駆けて[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月29・30日に開催された[コミックマーケット](../Page/コミックマーケット.md "wikilink")69で先行発売を行い、午前中で準備された約300枚を完売させた（開場が午前10時であることを考えると約2時間強で完売したことになる）。
+デビュー作は『beatmania IIDX 11 IIDX RED』に収録された楽曲「gigadelic」。この曲で一躍注目を浴びることとなる。同曲は『IIDX RED』の[ロケテスト](https://ja.wikipedia.org/wiki/ロケテスト "wikilink")段階から収録されており、その譜面の強烈な難易度もあり一気に話題となった。その後[クラブ](../Page/クラブ.md "wikilink")イベントを行いながら、[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[HOBiRECORDS](https://ja.wikipedia.org/wiki/HOBiRECORDS "wikilink")からデビューアルバム『teranoid underground edition』を、さらに同日には[avex traxから](https://ja.wikipedia.org/wiki/avex_trax "wikilink")『teranoid overground edition 』を発売と[インディーズ](../Page/インディーズ.md "wikilink")と[メジャーから同時にCDを発売する](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")（同時にメジャーデビューする）。さらに『teranoid underground edition』は発売に先駆けて[2005年](../Page/2005年.md "wikilink")12月29・30日に開催された[コミックマーケット](../Page/コミックマーケット.md "wikilink")69で先行発売を行い、午前中で準備された約300枚を完売させた（開場が午前10時であることを考えると約2時間強で完売したことになる）。
 
 [Ryu☆](https://ja.wikipedia.org/wiki/Ryu☆ "wikilink")、[good-cool](https://ja.wikipedia.org/wiki/good-cool "wikilink")などと親交が深く、イベントへのゲスト参加やアルバムにゲスト参加していたりしている（アルバムには[声優](../Page/声優.md "wikilink")である[伊藤静](../Page/伊藤静.md "wikilink")や[榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")も参加している）。
 
@@ -54,14 +54,14 @@
 
 <!-- end list -->
 
-  - VIRGIN F (teranoid mix) - [AAAのアルバム](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")『[REMIX ATTACK](../Page/REMIX_ATTACK.md "wikilink")』にてリミキサーとしてteranoidが単独で参加。
-  - あなたがいるだけで (teranoid vs dj zet new style gabba mix feat. MC NATSACK) - [LIAの](https://ja.wikipedia.org/wiki/Lia "wikilink")「enigmatic LIA」にてリミキサーとして参加。
-  - Ana (teranoid & MC Natsack REMIX) - [LIAの](https://ja.wikipedia.org/wiki/Lia "wikilink")『enigmatic LIA2』にリミキサーとして参加。
+  - VIRGIN F (teranoid mix) - [AAAのアルバム](../Page/AAA_\(音楽グループ\).md "wikilink")『[REMIX ATTACK](../Page/REMIX_ATTACK.md "wikilink")』にてリミキサーとしてteranoidが単独で参加。
+  - あなたがいるだけで (teranoid vs dj zet new style gabba mix feat. MC NATSACK) - [LIAの](../Page/Lia.md "wikilink")「enigmatic LIA」にてリミキサーとして参加。
+  - Ana (teranoid & MC Natsack REMIX) - [LIAの](../Page/Lia.md "wikilink")『enigmatic LIA2』にリミキサーとして参加。
   - 「エキサイティング帰宅部ハンゲー部ダンス篇」 - [ハンゲーム](../Page/ハンゲーム.md "wikilink")のCM連動企画作品にteranoidがリミキサーとして参加。
   - spEEEEEEEEEEEEEEEEdphobiA 230pLus+ (ft. MC Natsack vEr.) - [HARDCORE TANO\*Cの](../Page/HARDCORE_TANO*C.md "wikilink")『DiGiTAL GENERATiON EP』に収録される[kenta-v.ez.](https://ja.wikipedia.org/wiki/kenta-v.ez. "wikilink")の楽曲にNatsackがゲストとして参加。
   - Drop da Hardcore　- （Ultimate A-Style収録//teranoid featuring MC KENT, MC Natsack\&MC RALLY名義）ゲストMCとしてMC KENTとMC RALLYが参加。
   - still dope - （Ultimate A-Style2収録//teranoid featuring MC KENT名義）ゲストMCとしてMC KENTが参加。
-  - Crystal World (teranoid Remix) - [LIAの](https://ja.wikipedia.org/wiki/Lia "wikilink")『enigmatic LIA3』にリミキサーとして参加。
+  - Crystal World (teranoid Remix) - [LIAの](../Page/Lia.md "wikilink")『enigmatic LIA3』にリミキサーとして参加。
   - CG25 - 『PURE EXISTENCE』(TOTAL DISCOMMUNICATION）にBetwixt & Betweenとのコラボレーション楽曲（teranoid v.s. Betwixt & Between名義）で参加
   - Back on fear - 『HARDCORE SYNDROME5』（[HARDCORE TANO\*C](../Page/HARDCORE_TANO*C.md "wikilink"))にteranoid名義で参加
   - Ramses　-　『SPEED BALL GT』（HARDCORE TANO\*C）にteranoid名義で参加

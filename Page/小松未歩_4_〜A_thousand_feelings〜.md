@@ -1,7 +1,7 @@
 > この記事は[ 4 A thousand feelings](https://ja.wikipedia.org/wiki/_4_A_thousand_feelings)から翻訳されています。
 
 
-『**小松未歩 4 〜A thousand feelings〜**』（こまつみほ フォー ア サウザンド フィーリングズ）は、[小松未歩](../Page/小松未歩.md "wikilink")の4枚目のアルバム。2001年3月7日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はGZCA-1064。
+『**小松未歩 4 〜A thousand feelings〜**』（こまつみほ フォー ア サウザンド フィーリングズ）は、[小松未歩](../Page/小松未歩.md "wikilink")の4枚目のアルバム。2001年3月7日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-1064。
 
 ## 内容
 
@@ -19,7 +19,7 @@
 1.  **[君の瞳には映らない](../Page/君の瞳には映らない.md "wikilink")**　編曲:[大賀好修](../Page/大賀好修.md "wikilink")
       -
         11thシングル。恋愛三部作のシングル曲のうち「未来（あした）の恋」に位置する楽曲である。
-        [テレビ大阪](../Page/テレビ大阪.md "wikilink")制作[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『アメロク』エンディングテーマ。
+        [テレビ大阪](../Page/テレビ大阪.md "wikilink")制作[音楽番組](../Page/音楽番組.md "wikilink")『アメロク』エンディングテーマ。
         出版者:ギザミュージック
 2.  **[あなたがいるから](../Page/あなたがいるから_\(小松未歩の曲\).md "wikilink")**　編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
       -
@@ -34,14 +34,14 @@
         出版者:ギザミュージック
 5.  **I don't know the truth**　編曲:大賀好修
       -
-        [プレイステーション2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[デジタルノベル](../Page/ビジュアルノベル.md "wikilink")『[Missing Blue](https://ja.wikipedia.org/wiki/Missing_Blue "wikilink")』（[トンキンハウス](https://ja.wikipedia.org/wiki/トンキンハウス "wikilink")）エンディングテーマ。
+        [プレイステーション2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[デジタルノベル](../Page/ビジュアルノベル.md "wikilink")『[Missing Blue](../Page/Missing_Blue.md "wikilink")』（[トンキンハウス](../Page/トンキンハウス.md "wikilink")）エンディングテーマ。
         出版者:ギザミュージック
 6.  **[Love gone <Album Mix>](../Page/Love_gone.md "wikilink")**　編曲:大賀好修
       -
         12thシングル。恋愛三部作のシングル曲のうち「過去（きのう）の恋」に位置する楽曲である。
         アルバムバージョンとしてリマスタリングを施して収録している。
         [TBS系列](../Page/TBSテレビ.md "wikilink")『ココロTV』エンディングテーマ。
-        [日音](../Page/日音.md "wikilink")制作[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[P.S. 〜Pop Shake〜](https://ja.wikipedia.org/wiki/P.S._-Pop_Shake- "wikilink")』オープニングテーマ。
+        [日音](../Page/日音.md "wikilink")制作[音楽番組](../Page/音楽番組.md "wikilink")『[P.S. 〜Pop Shake〜](https://ja.wikipedia.org/wiki/P.S._-Pop_Shake- "wikilink")』オープニングテーマ。
         出版者:日音、ギザミュージック
 7.  **ともだち以上**　編曲:大賀好修
       -
@@ -64,7 +64,7 @@
 ## レコーディング参加
 
   - 小松未歩 - コーラス（\#1,\#3,\#5,\#6,\#7,\#8,\#9,\#10）
-      - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")（[B.B.クィーンズ](https://ja.wikipedia.org/wiki/B.B.クィーンズ "wikilink")・[Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")） - コーラス（\#2,\#6,\#11）\[3\]
+      - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")（[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")・[Mi-Ke](../Page/Mi-Ke.md "wikilink")） - コーラス（\#2,\#6,\#11）\[3\]
       - [大賀好修](../Page/大賀好修.md "wikilink")（[nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")・[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")） - ギター、プログラミング（\#2）
       - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink") - プログラミング（\#2）
 

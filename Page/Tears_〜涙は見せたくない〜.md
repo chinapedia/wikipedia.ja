@@ -5,8 +5,8 @@
 
 ## 内容
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")に発売。アニメ『[結界師](https://ja.wikipedia.org/wiki/結界師 "wikilink")』のオープニングテーマとして起用されている「[Sha la la -アヤカシNIGHT-](../Page/Sha_la_la_-アヤカシNIGHT-.md "wikilink")」（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜放送、[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売）に先駆けてリリースされた。
-  - [プロモーションビデオは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")2種類存在し、それぞれ内容も違う。フルサイズで発表されたバージョンはテレビ放送などで使用されていたが、ショートサイズのバージョンは[スペースクラフト](../Page/スペースクラフト.md "wikilink")による宇浦冴香オフィシャルサイトでの配信他、店頭PRによるビデオ映像のみでしか発表されていない。
+  - [2006年](../Page/2006年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")に発売。アニメ『[結界師](../Page/結界師.md "wikilink")』のオープニングテーマとして起用されている「[Sha la la -アヤカシNIGHT-](../Page/Sha_la_la_-アヤカシNIGHT-.md "wikilink")」（[2006年](../Page/2006年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜放送、[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売）に先駆けてリリースされた。
+  - [プロモーションビデオは](../Page/ミュージック・ビデオ.md "wikilink")2種類存在し、それぞれ内容も違う。フルサイズで発表されたバージョンはテレビ放送などで使用されていたが、ショートサイズのバージョンは[スペースクラフト](../Page/スペースクラフト.md "wikilink")による宇浦冴香オフィシャルサイトでの配信他、店頭PRによるビデオ映像のみでしか発表されていない。
 
 ## 収録曲
 
@@ -18,7 +18,7 @@
 
 ## タイアップ
 
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")』2006年12月度オープニングテーマ
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")』2006年12月度オープニングテーマ
 
 ## 関連項目
 

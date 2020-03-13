@@ -1,7 +1,7 @@
 > この記事は[NAMBLA](https://ja.wikipedia.org/wiki/NAMBLA)から翻訳されています。
 
 
-**NAMBLA**（ナンブラ、またはナムブラ、[英語](../Page/英語.md "wikilink"):North American Man/Boy Love Association）は、未成年者の少年との合法的な[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")をする事を求める[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の組織である。日本語では**“北アメリカ少年愛協会”**（きたアメリカしょうねんあいきょうかい）と訳される。NAMBLAは[体罰](../Page/体罰.md "wikilink")・[強姦](../Page/強姦.md "wikilink")・[誘拐](https://ja.wikipedia.org/wiki/誘拐 "wikilink")に反対し、[性的搾取にも反対している](https://ja.wikipedia.org/wiki/性的虐待 "wikilink")。
+**NAMBLA**（ナンブラ、またはナムブラ、[英語](../Page/英語.md "wikilink"):North American Man/Boy Love Association）は、未成年者の少年との合法的な[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")をする事を求める[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の組織である。日本語では**“北アメリカ少年愛協会”**（きたアメリカしょうねんあいきょうかい）と訳される。NAMBLAは[体罰](../Page/体罰.md "wikilink")・[強姦](../Page/強姦.md "wikilink")・[誘拐](https://ja.wikipedia.org/wiki/誘拐 "wikilink")に反対し、[性的搾取にも反対している](../Page/性的虐待.md "wikilink")。
 
 過去には児童福祉団体により児童売買春を行う地下組織であるとされたり、そうした裏情報の案内を[小児性愛者に対して行うとされたこともあったが](../Page/ペドフィリア.md "wikilink")、現在ではそれらが事実無根の児童福祉団体自身による[思い込み](https://ja.wikipedia.org/wiki/思い込み "wikilink")であったことがわかっている。
 
@@ -31,7 +31,7 @@
       - [制度的少年愛](../Page/少年愛.md "wikilink")
       - [性嗜好としての少年愛](../Page/少年性愛.md "wikilink")
   - [ペドフィリア](../Page/ペドフィリア.md "wikilink")
-  - [性的虐待](https://ja.wikipedia.org/wiki/性的虐待 "wikilink")
+  - [性的虐待](../Page/性的虐待.md "wikilink")
 
 ## 外部リンク
 

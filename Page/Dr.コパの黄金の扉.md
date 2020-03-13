@@ -1,7 +1,7 @@
 > この記事は[Dr.](https://ja.wikipedia.org/wiki/Dr.)から翻訳されています。
 
 
-**Dr.コパの黄金の扉**（ドクターコパおうごんのとびら）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2017年](../Page/2017年.md "wikilink")3月まで[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")で放送されていた夜の番組である。
+**Dr.コパの黄金の扉**（ドクターコパおうごんのとびら）は、[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2017年](../Page/2017年.md "wikilink")3月まで[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")で放送されていた夜の番組である。
 
 ## パーソナリティ
 
@@ -11,7 +11,7 @@
 
   - [Dr.コパ](../Page/Dr.コパ.md "wikilink")-メインパーソナリティ
   - [スーザン小山](https://ja.wikipedia.org/wiki/スーザン小山 "wikilink")（ 2015年10月\~番組終了）　
-  - [平川尚子](https://ja.wikipedia.org/wiki/平川尚子 "wikilink")（KBCアナウンサー、2006年10月～2007年3月 [2015年](../Page/2015年.md "wikilink")10月\~番組終了）　
+  - [平川尚子](../Page/平川尚子.md "wikilink")（KBCアナウンサー、2006年10月～2007年3月 [2015年](../Page/2015年.md "wikilink")10月\~番組終了）　
 
 <!-- end list -->
 
@@ -19,16 +19,16 @@
 
 <!-- end list -->
 
-  - [ドーター・コパ](https://ja.wikipedia.org/wiki/ドーター・コパ "wikilink")（Dr.コパの実娘、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月～9月）
+  - [ドーター・コパ](https://ja.wikipedia.org/wiki/ドーター・コパ "wikilink")（Dr.コパの実娘、[2006年](../Page/2006年.md "wikilink")4月～9月）
       - 2006年9月まではDr.コパとドーター・コパの親子2人のやりとりで放送。
-  - [太田祐輔](https://ja.wikipedia.org/wiki/太田祐輔 "wikilink")（[KBC](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、2006年10月～[2007年](../Page/2007年.md "wikilink")3月）
-  - [高島宗一郎](https://ja.wikipedia.org/wiki/高島宗一郎 "wikilink")（KBCアナウンサー、2006年10月～2007年3月）上記2人が主に担当の時が多かった。
-  - [田崎日加理](https://ja.wikipedia.org/wiki/田崎日加理 "wikilink")（当時KBCアナウンサー、2007年10月～2008年3月）
+  - [太田祐輔](../Page/太田祐輔.md "wikilink")（[KBC](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")、2006年10月～[2007年](../Page/2007年.md "wikilink")3月）
+  - [高島宗一郎](../Page/高島宗一郎.md "wikilink")（KBCアナウンサー、2006年10月～2007年3月）上記2人が主に担当の時が多かった。
+  - [田崎日加理](../Page/田崎日加理.md "wikilink")（当時KBCアナウンサー、2007年10月～2008年3月）
   - [大津貴子](https://ja.wikipedia.org/wiki/大津貴子 "wikilink")(2008年4月COONに改名）（シンガーソングライター、2007年10月～2008年3月）
   - [徳丸佳代](https://ja.wikipedia.org/wiki/徳丸佳代 "wikilink")（野球解説者・[若田部健一](../Page/若田部健一.md "wikilink")夫人、福岡担当、2008年4月～2008年9月）
-  - [夏目ナナ](https://ja.wikipedia.org/wiki/夏目ナナ "wikilink")（[AV女優](../Page/AV女優.md "wikilink")・タレント、東京担当、2008年4月～2008年9月）
-  - [彩乃かなみ](https://ja.wikipedia.org/wiki/彩乃かなみ "wikilink")（女優、元[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")、2008年10月～2009年9月）
-  - [枦山南美](https://ja.wikipedia.org/wiki/枦山南美 "wikilink")（フリーアナウンサー、元[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、2009年10月〜2010年3月）
+  - [夏目ナナ](../Page/夏目ナナ.md "wikilink")（[AV女優](../Page/AV女優.md "wikilink")・タレント、東京担当、2008年4月～2008年9月）
+  - [彩乃かなみ](../Page/彩乃かなみ.md "wikilink")（女優、元[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")、2008年10月～2009年9月）
+  - [枦山南美](../Page/枦山南美.md "wikilink")（フリーアナウンサー、元[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、2009年10月〜2010年3月）
   - [宮島咲良](../Page/宮島咲良.md "wikilink")-(\~2015年9月)
       -
         2010年3月でKBCを退社、その直後から担当。KBCアナウンサーだったため、Dr.コパとはそれなりに面識があったものとみられる。
@@ -36,7 +36,7 @@
 ### 備考
 
   - 2007年3月まではDr.コパとKBCアナウンサー1人のペアで進行。誰が担当になるかはDr.コパのスケジュールの都合なのか固定されなかった。
-  - また、上記のアナウンサー以外のKBCアナウンサー[宮本けいすけ](https://ja.wikipedia.org/wiki/宮本けいすけ "wikilink")・[近藤鉄太郎](https://ja.wikipedia.org/wiki/近藤鉄太郎 "wikilink")等が担当した回や、KBCラジオの他の番組担当の[スター高橋](https://ja.wikipedia.org/wiki/高橋徹郎 "wikilink")・[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")・[徳永玲子](https://ja.wikipedia.org/wiki/徳永玲子 "wikilink")等タレントが担当した回もあった。
+  - また、上記のアナウンサー以外のKBCアナウンサー[宮本けいすけ](https://ja.wikipedia.org/wiki/宮本けいすけ "wikilink")・[近藤鉄太郎](../Page/近藤鉄太郎.md "wikilink")等が担当した回や、KBCラジオの他の番組担当の[スター高橋](../Page/高橋徹郎.md "wikilink")・[TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")・[徳永玲子](../Page/徳永玲子.md "wikilink")等タレントが担当した回もあった。
 
 ## 放送時間
 

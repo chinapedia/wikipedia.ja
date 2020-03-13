@@ -1,11 +1,11 @@
 > この記事は[LIVE musiQ from LIVE TOUR 005musiQat MAKUHARI MESSE 2005.04.01](https://ja.wikipedia.org/wiki/LIVE_musiQ_from_LIVE_TOUR_005musiQat_MAKUHARI_MESSE_2005.04.01)から翻訳されています。
 
 
-『**LIVE musiQ 〜from LIVE TOUR 005"musiQ"at MAKUHARI MESSE 2005.04.01〜**』（ライブ ミュージック 〜フロム ライブ ツアー 005"ムジーク"アット マクハリ メッセ 2005.04.01〜）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")3枚目の[DVD](../Page/DVD.md "wikilink")。
+『**LIVE musiQ 〜from LIVE TOUR 005"musiQ"at MAKUHARI MESSE 2005.04.01〜**』（ライブ ミュージック 〜フロム ライブ ツアー 005"ムジーク"アット マクハリ メッセ 2005.04.01〜）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")3枚目の[DVD](../Page/DVD.md "wikilink")。
 
 ## 解説
 
-  - ORANGE RANGE初の[ライブDVD](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。2005年[4月1日](../Page/4月1日.md "wikilink")に行われた「LIVE TOUR 005 “musiQ”」の[幕張メッセ](../Page/幕張メッセ.md "wikilink")での最終公演（実際はこのあと、福岡での延期公演があった）の映像が収録されている。
+  - ORANGE RANGE初の[ライブDVD](../Page/演奏会.md "wikilink")。2005年[4月1日](../Page/4月1日.md "wikilink")に行われた「LIVE TOUR 005 “musiQ”」の[幕張メッセ](../Page/幕張メッセ.md "wikilink")での最終公演（実際はこのあと、福岡での延期公演があった）の映像が収録されている。
   - 収録時間の関係上、収録されなかったライブ映像も存在する（『[ミッションinポッピプル](../Page/1st_CONTACT.md "wikilink")』『[papa](https://ja.wikipedia.org/wiki/musiQ "wikilink")』など）。
   - 曲間のMCが全てカットされている。
 
@@ -46,7 +46,7 @@
 11. シティボーイ
       -
         2ndアルバム「musiQ」収録曲。
-        MCたちが変なサングラスやカツラをかぶり、曲に合わせて[KATCHAN以外がステップを踏むなど](https://ja.wikipedia.org/wiki/北尾一人 "wikilink")、曲のイメージを表現している。
+        MCたちが変なサングラスやカツラをかぶり、曲に合わせて[KATCHAN以外がステップを踏むなど](../Page/北尾一人.md "wikilink")、曲のイメージを表現している。
 12. サムライマニア
       -
         デビューシングル「[キリキリマイ](../Page/キリキリマイ.md "wikilink")」c/w。
@@ -73,7 +73,7 @@
       -
         デビューシングル。
 
-〜[アンコール](https://ja.wikipedia.org/wiki/アンコール "wikilink")〜
+〜[アンコール](../Page/アンコール.md "wikilink")〜
 
 1.  [＊〜アスタリスク〜](../Page/*〜アスタリスク〜.md "wikilink")
       -
@@ -87,7 +87,7 @@
 
 ## 関連項目
 
-  - [2005年の音楽](https://ja.wikipedia.org/wiki/2005年の音楽 "wikilink")
+  - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
   - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
   - [musiQ](https://ja.wikipedia.org/wiki/musiQ "wikilink")
 

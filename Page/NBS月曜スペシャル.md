@@ -7,11 +7,11 @@
 
 ## 概要
 
-1995年3月まで月曜19時台に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")していた自社制作番組『[BIG HIPS](https://ja.wikipedia.org/wiki/BIG_HIPS "wikilink")』に替わって開始された。
+1995年3月まで月曜19時台に[生放送](../Page/生放送.md "wikilink")していた自社制作番組『[BIG HIPS](https://ja.wikipedia.org/wiki/BIG_HIPS "wikilink")』に替わって開始された。
 
-[旅](https://ja.wikipedia.org/wiki/旅番組 "wikilink")・[グルメ](https://ja.wikipedia.org/wiki/料理番組 "wikilink")・[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")など毎週様々なジャンルの企画を放送していた。
+[旅](../Page/旅番組.md "wikilink")・[グルメ](../Page/料理番組.md "wikilink")・[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")など毎週様々なジャンルの企画を放送していた。
 
-同局の[大株主である](../Page/株主.md "wikilink")[北野建設が主要](../Page/北野建設_\(長野県\).md "wikilink")[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")を務めていたが降板。その後は複数企業によりスポンサードされている。
+同局の[大株主である](../Page/株主.md "wikilink")[北野建設が主要](../Page/北野建設_\(長野県\).md "wikilink")[スポンサー](../Page/スポンサー.md "wikilink")を務めていたが降板。その後は複数企業によりスポンサードされている。
 
 本番組放送時間帯において、フジテレビ（ほか大半の系列局）で放送されている『[ネプリーグ](https://ja.wikipedia.org/wiki/ネプリーグ "wikilink")』が2015年4月からネットワークセールス枠に転換されるため\[2\]、本番組は同年3月23日放送の「地方創生のフロントランナーへ！」（ゲスト：[峰竜太](../Page/峰竜太.md "wikilink")）を以って終了。20年の歴史に幕を閉じた。その後、NBSの自社制作番組は2015年4月から金曜日の19時台に移動し、4月17日から『[フォーカス∞信州](https://ja.wikipedia.org/wiki/フォーカス∞信州 "wikilink")』がスタートしている\[3\]。
 
@@ -50,4 +50,4 @@
 1.  1995年4月17日、2015年3月23日 信濃毎日新聞 テレビ欄
 2.  [番組公式Twitterでの告知(1)](https://twitter.com/cxnepleague/status/576393278150463488)・[番組公式Twitterでの告知(2)](https://twitter.com/cxnepleague/status/576394490765692928) - いずれも2015年3月16日閲覧。
 3.   2015年4月3日閲覧
-4.  主に19・20時台放送のレギュラー番組の2時間（又は3時間）スペシャル、[バレーボールワールドカップ](https://ja.wikipedia.org/wiki/バレーボールワールドカップ "wikilink")などのスポーツ中継等。[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")特番の場合も休止となる。
+4.  主に19・20時台放送のレギュラー番組の2時間（又は3時間）スペシャル、[バレーボールワールドカップ](../Page/バレーボールワールドカップ.md "wikilink")などのスポーツ中継等。[年末年始](../Page/年末年始.md "wikilink")特番の場合も休止となる。

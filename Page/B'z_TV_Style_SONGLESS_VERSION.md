@@ -1,11 +1,11 @@
 > この記事は[B\'z TV Style SONGLESS VERSION](https://ja.wikipedia.org/wiki/B\'z_TV_Style_SONGLESS_VERSION)から翻訳されています。
 
 
-『**B'z TV Style SONGLESS VERSION**』（ビーズ・ティーヴィー・スタイル・ソングレス・ヴァージョン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[B'z](../Page/B'z.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")1枚目の[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")である。
+『**B'z TV Style SONGLESS VERSION**』（ビーズ・ティーヴィー・スタイル・ソングレス・ヴァージョン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[B'z](../Page/B'z.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")1枚目の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である。
 
 ## 内容
 
-後にBMGルームス（現：[VERMILLION RECORDS](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")）の設立に伴い、発売権がBMGルームスに移行。
+後にBMGルームス（現：[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）の設立に伴い、発売権がBMGルームスに移行。
 
 タイトルに含まれる**TV Style**とは、テレビ出演の際などに使われる、オリジナル音源からメイン・ボーカルのみを抜き出したいわゆる「カラオケ」バージョンのことである。38thシングル「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」初回盤収録の4th beat「愛のバクダン（TV STYLE）」も同じである。
 
@@ -13,7 +13,7 @@
 
 また、歌詞カードの最後のページには、B'zの9thシングル「[ALONE](../Page/ALONE_\(B'zの曲\).md "wikilink")」までのDISCOGRAPHYが記載されている。
 
-同時発売として、[B.B.クィーンズ](https://ja.wikipedia.org/wiki/B.B.クィーンズ "wikilink")&[Mi-Ke](https://ja.wikipedia.org/wiki/Mi-Ke "wikilink")による同名のカラオケアルバムも発売されており、規格品番がBV(M)CK-5001で採番されている。本作品は、BV(M)CK-5002が採番されている。
+同時発売として、[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")&[Mi-Ke](../Page/Mi-Ke.md "wikilink")による同名のカラオケアルバムも発売されており、規格品番がBV(M)CK-5001で採番されている。本作品は、BV(M)CK-5002が採番されている。
 
 現在、『[BREAK THROUGH](../Page/BREAK_THROUGH.md "wikilink")』以前の楽曲の代表原盤権はBMG JAPANの事業を継承した[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント "wikilink")傘下の[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")に存在するため、当作のように初期の楽曲とそれ以降のビーイングが代表原盤権を持つ楽曲の音源をそのまま混在させた作品を再び発売することは困難になっている。
 
@@ -36,7 +36,7 @@
 
 ## 関連項目
 
-  - [1992年の音楽](https://ja.wikipedia.org/wiki/1992年の音楽 "wikilink")
+  - [1992年の音楽](../Page/1992年の音楽.md "wikilink")
   - [B'z TV STYLE II Songless Version](../Page/B'z_TV_STYLE_II_Songless_Version.md "wikilink")
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:BMGビクターのアルバム](https://ja.wikipedia.org/wiki/Category:BMGビクターのアルバム "wikilink") [Category:オフヴォーカル・アルバム](https://ja.wikipedia.org/wiki/Category:オフヴォーカル・アルバム "wikilink")

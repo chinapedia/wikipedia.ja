@@ -6,16 +6,16 @@
 ## 解説
 
   - 1995年1月から3か月連続でリリースされ、いずれも[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録した「[CRAZY GONNA CRAZY](../Page/CRAZY_GONNA_CRAZY.md "wikilink")」、「[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink")」、「[Overnight Sensation 〜時代はあなたに委ねてる〜](../Page/Overnight_Sensation_〜時代はあなたに委ねてる〜.md "wikilink")」を含む全13曲が収録されており、trfのアルバム売上トップである。
-  - また、表記こそはされていないが先行シングル曲の3曲は、全てアルバム・ミックスで収録されている。[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")の要素を強くするために[ブラス](https://ja.wikipedia.org/wiki/ブラス "wikilink")を全面に押し出し、黒人のコーラスを織り交ぜたアレンジが加えられた上で録り直され、改めて[ミキシング](../Page/ミキシング.md "wikilink")が施された\[1\]\[2\]\[3\]。
-  - 前作『[BILLIONAIRE 〜BOY MEETS GIRL〜](https://ja.wikipedia.org/wiki/BILLIONAIRE_〜BOY_MEETS_GIRL〜 "wikilink")』とはイメージが変わり、シングル「Overnight Sensation 〜時代はあなたに委ねてる〜」に見られるように、全体のアレンジは1970年代の[ソウルミュージック](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")系の音色と[モータウン](../Page/モータウン.md "wikilink")の姿勢をベースにし、それをtrfが新たな形で発信した作品である。小室の打ち出したコンセプトは「今を生きている人のハングリーな環境や精神」「たとえ現状がマイナスであっても、忘れたくない上昇志向」を表現していて、それがタイトルにも反映されている\[4\]\[5\]。これはアルバムジャケットとなった「男性メンバーの放熱している感じ・女性メンバーの発光している感じ」を写した[赤外線写真](../Page/赤外線写真.md "wikilink")を見た瞬間に決まった\[6\]。
+  - また、表記こそはされていないが先行シングル曲の3曲は、全てアルバム・ミックスで収録されている。[ファンク](../Page/ファンク.md "wikilink")の要素を強くするために[ブラス](https://ja.wikipedia.org/wiki/ブラス "wikilink")を全面に押し出し、黒人のコーラスを織り交ぜたアレンジが加えられた上で録り直され、改めて[ミキシング](../Page/ミキシング.md "wikilink")が施された\[1\]\[2\]\[3\]。
+  - 前作『[BILLIONAIRE 〜BOY MEETS GIRL〜](https://ja.wikipedia.org/wiki/BILLIONAIRE_〜BOY_MEETS_GIRL〜 "wikilink")』とはイメージが変わり、シングル「Overnight Sensation 〜時代はあなたに委ねてる〜」に見られるように、全体のアレンジは1970年代の[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")系の音色と[モータウン](../Page/モータウン.md "wikilink")の姿勢をベースにし、それをtrfが新たな形で発信した作品である。小室の打ち出したコンセプトは「今を生きている人のハングリーな環境や精神」「たとえ現状がマイナスであっても、忘れたくない上昇志向」を表現していて、それがタイトルにも反映されている\[4\]\[5\]。これはアルバムジャケットとなった「男性メンバーの放熱している感じ・女性メンバーの発光している感じ」を写した[赤外線写真](../Page/赤外線写真.md "wikilink")を見た瞬間に決まった\[6\]。
   - [DJ KOOは](../Page/DJ_KOO.md "wikilink")「[WORLD GROOVE](https://ja.wikipedia.org/wiki/WORLD_GROOVE "wikilink")」制作時とは意識を変え「『今まではこうだった、今はこうだ、今からはこうしたい』と言う感じの流れがあるから、気分が前向きになれるんだと思います。音も1970年代のソウルと1980年代初頭から急激に変化してきたダンスミュージックの流れ、1990年代の最新のリズムが1曲の中で同居している。だからこそ、この縦の時間軸の流れを持っているアルバムが生まれた」\[7\]「今までのtrfは機械的な部分が魅力だったけど、人から湧き出る人間的な温かさを大切にした」\[8\]と話している。
   - [YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")は「『例え現状が悪くてもポジティブでいたいね』『大失恋しても何かポジティブな感情を持っていようね』等、今正に前進している人も、ちょっと停滞してる人もポジティブな気持ちを思い起こしてもらえる歌を中心にしている」と解釈している\[9\]。
   - 初回盤は写真集付きの特製ケース仕様となっている。
-  - [avex traxの当時の販売元](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")の新譜案内に4月3日(月)発売決定で告知されており、一部CDショップでは新譜案内を店頭に貼った上で予約を承ってた。実際は、異例の１週間前倒しで発売された。
+  - [avex traxの当時の販売元](https://ja.wikipedia.org/wiki/avex_trax "wikilink")[日本クラウン](../Page/日本クラウン.md "wikilink")の新譜案内に4月3日(月)発売決定で告知されており、一部CDショップでは新譜案内を店頭に貼った上で予約を承ってた。実際は、異例の１週間前倒しで発売された。
 
 ## 売上
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に入り、3か月連続でリリースされた[シングルCD](https://ja.wikipedia.org/wiki/シングルCD "wikilink")が、3か月連続のミリオンセラーを記録するという、日本の音楽界初の快挙を成し遂げるほどの人気絶頂期であったため、発売時には当然のように話題となった。発売日がほぼ同じであった[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")『[DELICIOUS](../Page/DELICIOUS_\(DREAMS_COME_TRUEのアルバム\).md "wikilink")』とアルバムチャートで激戦を展開し、結果的に200万枚を超える売上を記録した。これは1995年の[オリコン年間アルバムチャート第](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位である（第1位は『DELICIOUS』）。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に入り、3か月連続でリリースされた[シングルCD](https://ja.wikipedia.org/wiki/シングルCD "wikilink")が、3か月連続のミリオンセラーを記録するという、日本の音楽界初の快挙を成し遂げるほどの人気絶頂期であったため、発売時には当然のように話題となった。発売日がほぼ同じであった[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")『[DELICIOUS](../Page/DELICIOUS_\(DREAMS_COME_TRUEのアルバム\).md "wikilink")』とアルバムチャートで激戦を展開し、結果的に200万枚を超える売上を記録した。これは1995年の[オリコン年間アルバムチャート第](../Page/オリコンチャート.md "wikilink")2位である（第1位は『DELICIOUS』）。
 
 ## 記録
 
@@ -54,7 +54,7 @@
 
         [LIVE UFO](../Page/LIVE_UFO.md "wikilink") '95「月が地球にKISSをする」テーマ曲\[11\]。
 
-        DJ KOOは制作の際に[ビートルズ](../Page/ビートルズ.md "wikilink")の「[マジカル・ミステリー・ツアー](https://ja.wikipedia.org/wiki/マジカル・ミステリー・ツアー "wikilink")」を意識している\[12\]。
+        DJ KOOは制作の際に[ビートルズ](../Page/ビートルズ.md "wikilink")の「[マジカル・ミステリー・ツアー](../Page/マジカル・ミステリー・ツアー.md "wikilink")」を意識している\[12\]。
 3.  **[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink")**
       -
 
@@ -213,7 +213,7 @@
 <!-- end list -->
 
   - [DJ KOO](../Page/DJ_KOO.md "wikilink")：[DJ](../Page/ディスクジョッキー.md "wikilink")
-  - [SAM](https://ja.wikipedia.org/wiki/SAM_\(ダンサー\) "wikilink")：[Dance](https://ja.wikipedia.org/wiki/ダンス "wikilink")
+  - [SAM](../Page/SAM_\(ダンサー\).md "wikilink")：[Dance](../Page/ダンス.md "wikilink")
   - ETSU：Dance
   - [YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (全曲)
   - CHIHARU：Dance
@@ -228,8 +228,8 @@
   - [久保こーじ](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")：Programming (\#2,3,4,7,11,12)、[Electric Guitar](../Page/エレクトリック・ギター.md "wikilink") (\#9)
   - 溝口和彦：Programming (\#5,6)
   - 近藤昭雄：Keyboard (\#9)
-  - [湊雅史](https://ja.wikipedia.org/wiki/湊雅史 "wikilink")：[Drum](../Page/ドラムセット.md "wikilink") (\#2,3,4,7,11,12)
-  - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") (\#2,3,4,7,11,12)
+  - [湊雅史](../Page/湊雅史.md "wikilink")：[Drum](../Page/ドラムセット.md "wikilink") (\#2,3,4,7,11,12)
+  - [美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink") (\#2,3,4,7,11,12)
   - 宮下智：Bass (\#9)
   - 角田順：[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink") (\#2,3,6,11)、Electric Guitar (\#2,3,4,7,11,12)
   - 木村健：Electric Guitar (\#5)
@@ -256,10 +256,10 @@
 
 [Category:TRFのアルバム](https://ja.wikipedia.org/wiki/Category:TRFのアルバム "wikilink") [Category:1995年のアルバム](https://ja.wikipedia.org/wiki/Category:1995年のアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:1995年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  [ダイヤモンド社](https://ja.wikipedia.org/wiki/ダイヤモンド社 "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1995年3月27日号102P
+1.  [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1995年3月27日号102P
 2.
 3.
-4.  『[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")』1995年3月28日号 270P
+4.  『[ぴあ](../Page/ぴあ.md "wikilink")』1995年3月28日号 270P
 5.  [角川書店](../Page/角川書店.md "wikilink")刊『[月刊カドカワ](../Page/月刊カドカワ.md "wikilink")』1995年5月号「trf『快楽のGROOVE』」236P-238P
 6.
 7.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1995年5月号29P-31P

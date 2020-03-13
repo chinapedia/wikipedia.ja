@@ -1,7 +1,7 @@
 > この記事は[Nucleus CMS](https://ja.wikipedia.org/wiki/Nucleus_CMS)から翻訳されています。
 
 
-**Nucleus CMS**（ニュークリアス・シーエムエス）は、[PHPとデータベースによって動作するサーバ設置型の](../Page/PHP_\(プログラミング言語\).md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")な[ブログ](../Page/ブログ.md "wikilink")向け[コンテンツ管理システム](https://ja.wikipedia.org/wiki/コンテンツ管理システム "wikilink") (CMS) である。
+**Nucleus CMS**（ニュークリアス・シーエムエス）は、[PHPとデータベースによって動作するサーバ設置型の](../Page/PHP_\(プログラミング言語\).md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")な[ブログ](../Page/ブログ.md "wikilink")向け[コンテンツ管理システム](../Page/コンテンツ管理システム.md "wikilink") (CMS) である。
 
 ## [ライセンス](../Page/ライセンス.md "wikilink")
 

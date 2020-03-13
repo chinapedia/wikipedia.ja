@@ -1,7 +1,7 @@
 > この記事は[ \(C\)](https://ja.wikipedia.org/wiki/_\(C\))から翻訳されています。
 
 
-『**リーズン**』（**Reason**）は、[スパイス・ガールズ](https://ja.wikipedia.org/wiki/スパイス・ガールズ "wikilink")の[メラニーC](https://ja.wikipedia.org/wiki/メラニーC "wikilink")の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")に[ヴァージン・レコード](https://ja.wikipedia.org/wiki/ヴァージン・レコード "wikilink")から発売された。UKアルバムチャートで5位を記録。発売したその週で3万876枚を売り上げる。また、ファーストアルバムと同じく[ゴールド・ディスク](https://ja.wikipedia.org/wiki/ゴールド・ディスク "wikilink")をイギリスで獲得する。
+『**リーズン**』（**Reason**）は、[スパイス・ガールズ](../Page/スパイス・ガールズ.md "wikilink")の[メラニーC](https://ja.wikipedia.org/wiki/メラニーC "wikilink")の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")に[ヴァージン・レコード](../Page/ヴァージン・レコード.md "wikilink")から発売された。UKアルバムチャートで5位を記録。発売したその週で3万876枚を売り上げる。また、ファーストアルバムと同じく[ゴールド・ディスク](https://ja.wikipedia.org/wiki/ゴールド・ディスク "wikilink")をイギリスで獲得する。
 
 ## トラック・リスト
 

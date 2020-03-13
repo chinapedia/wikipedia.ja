@@ -9,7 +9,7 @@
 
 ## 組織構成
 
-組織の構造としては[<span style="font-size:120%;">E</span>NATURE.NET](https://ja.wikipedia.org/wiki/ENATURE.NET "wikilink")（[RussianBare.com](https://ja.wikipedia.org/wiki/RussianBare.com "wikilink")）の傘下となっており、[書籍も含めたHoly](../Page/本.md "wikilink") Natureブランドの[著作物](../Page/著作物.md "wikilink")は<span style="font-size:120%;">E</span>NATURE.NETから[製作](https://ja.wikipedia.org/wiki/製作 "wikilink")・[販売](../Page/販売.md "wikilink")が行われている。
+組織の構造としては[<span style="font-size:120%;">E</span>NATURE.NET](../Page/ENATURE.NET.md "wikilink")（[RussianBare.com](https://ja.wikipedia.org/wiki/RussianBare.com "wikilink")）の傘下となっており、[書籍も含めたHoly](../Page/本.md "wikilink") Natureブランドの[著作物](../Page/著作物.md "wikilink")は<span style="font-size:120%;">E</span>NATURE.NETから[製作](https://ja.wikipedia.org/wiki/製作 "wikilink")・[販売](../Page/販売.md "wikilink")が行われている。
 
   - 代表：Michael M.Rusinov
   - 取締役：Bob Smith
@@ -49,6 +49,6 @@
   - [スポーツ](../Page/スポーツ.md "wikilink")
   - [ストリーキング](../Page/ストリーキング_\(パフォーマンス\).md "wikilink")
   - [全裸水泳](../Page/全裸水泳.md "wikilink")
-  - [混浴](https://ja.wikipedia.org/wiki/混浴 "wikilink")
+  - [混浴](../Page/混浴.md "wikilink")
 
 [Category:社会運動](https://ja.wikipedia.org/wiki/Category:社会運動 "wikilink")

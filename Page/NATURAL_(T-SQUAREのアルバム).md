@@ -7,13 +7,13 @@
 
 スクェアの15枚目のオリジナルアルバムにあたる。収録曲のうち「CONTROL」、「WIND SONG」、「SNOWBIRD」、「LABYRINTH OF LOVE」の4曲は[ザ・リッピントンズ](../Page/ザ・リッピントンズ.md "wikilink")の[ラス・フリーマンがプロデュースしており](../Page/ラス・フリーマン_\(ギタリスト\).md "wikilink")（残り6曲はスクェア自身のセルフプロデュース）、そのうち「CONTROL」以外の3曲はフリーマンが作曲にも関わっている。
 
-このアルバムを最後にサクソフォーンとEWI担当の[伊東たけし](https://ja.wikipedia.org/wiki/伊東たけし "wikilink")はスクェアを退団し、次のアルバム『NEW-S』から[本田雅人](https://ja.wikipedia.org/wiki/本田雅人 "wikilink")が新メンバーとしてスクェアに入団することになる。
+このアルバムを最後にサクソフォーンとEWI担当の[伊東たけし](../Page/伊東たけし.md "wikilink")はスクェアを退団し、次のアルバム『NEW-S』から[本田雅人](../Page/本田雅人.md "wikilink")が新メンバーとしてスクェアに入団することになる。
 
 ## 収録曲
 
-1.  **CONTROL** - [安藤まさひろ作曲](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")
+1.  **CONTROL** - [安藤まさひろ作曲](../Page/安藤正容.md "wikilink")
 2.  **DAISY FIELD** - 安藤まさひろ作曲
-3.  **WIND SONG** - [和泉宏隆](https://ja.wikipedia.org/wiki/和泉宏隆 "wikilink")、ラス・フリーマン作曲
+3.  **WIND SONG** - [和泉宏隆](../Page/和泉宏隆.md "wikilink")、ラス・フリーマン作曲
 4.  **WHITE MANE** - 和泉宏隆作曲
 5.  **HAPPY SONG** - 伊東たけし作曲
 6.  **SNOWBIRD** - 安藤まさひろ、ラス・フリーマン作曲

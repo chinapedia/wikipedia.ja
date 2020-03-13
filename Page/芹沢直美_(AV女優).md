@@ -3,19 +3,19 @@
 
 **芹沢 直美**（せりざわ なおみ、[1981年](../Page/1981年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") -）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")、[ストリッパー](../Page/ストリッパー一覧.md "wikilink")。旧芸名、**東 千聖**（あずま ちさと）。
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")160cm、[スリーサイズ](https://ja.wikipedia.org/wiki/スリーサイズ "wikilink") は[B](https://ja.wikipedia.org/wiki/バスト "wikilink")88cm・[W](../Page/ウエスト.md "wikilink")58cm・[H](https://ja.wikipedia.org/wiki/尻 "wikilink")88cm。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")出身。[身長](../Page/身長.md "wikilink")160cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink") は[B](../Page/バスト.md "wikilink")88cm・[W](../Page/ウエスト.md "wikilink")58cm・[H](../Page/尻.md "wikilink")88cm。
 
 ストリッパーとしてのデビュー当時は、生年月日は[1982年](../Page/1982年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")とされていた。
 
 ## 略歴・人物
 
-[2002年](../Page/2002年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、[新宿TSミュージック](https://ja.wikipedia.org/wiki/新宿TSミュージック "wikilink")で**東 千聖**（あずま ちさと）の芸名でデビュー。わずか3ヵ月後の[8月1日](../Page/8月1日.md "wikilink")、芸名を**芹沢 直美**（せりざわ なおみ）に改名。
+[2002年](../Page/2002年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")、[新宿TSミュージック](../Page/新宿TSミュージック.md "wikilink")で**東 千聖**（あずま ちさと）の芸名でデビュー。わずか3ヵ月後の[8月1日](../Page/8月1日.md "wikilink")、芸名を**芹沢 直美**（せりざわ なおみ）に改名。
 
 [2004年](../Page/2004年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")にはAV女優としてデビュー。雑誌グラビアも飾るようになる。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に引退を表明。しかし同年[12月1日](../Page/12月1日.md "wikilink")、TSミュージックにて復帰、再び舞台を踏むこととなる。
+[2005年](../Page/2005年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に引退を表明。しかし同年[12月1日](../Page/12月1日.md "wikilink")、TSミュージックにて復帰、再び舞台を踏むこととなる。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にはAV女優としても復活したが、2008年4月にあわらミュージックを途中降板し、以後休業している。
+[2006年](../Page/2006年.md "wikilink")にはAV女優としても復活したが、2008年4月にあわらミュージックを途中降板し、以後休業している。
 
 趣味はフィットネス、特技は料理。
 
@@ -36,7 +36,7 @@
   - 強淫絶頂・3（2004年10月21日、プレステージ）
   - 強淫絶頂・4（2004年11月19日、[プレステージ](../Page/プレステージ_\(アダルトビデオ\).md "wikilink")）
   - 痴女覚醒（2004年12月17日、ビデオメーカー）
-  - 超・騎乗Bomb\! 4時間（2005年3月21日、h.m.p）- 他出演：[古都ひかる](https://ja.wikipedia.org/wiki/古都ひかる "wikilink")、[一色あずさ](../Page/一色あずさ.md "wikilink")、[滝沢優奈](../Page/滝沢優奈.md "wikilink")、[水元ゆうな](https://ja.wikipedia.org/wiki/水元ゆうな "wikilink")、[みずき紗英](https://ja.wikipedia.org/wiki/みずき紗英 "wikilink")、ほか ※総集編
+  - 超・騎乗Bomb\! 4時間（2005年3月21日、h.m.p）- 他出演：[古都ひかる](https://ja.wikipedia.org/wiki/古都ひかる "wikilink")、[一色あずさ](../Page/一色あずさ.md "wikilink")、[滝沢優奈](../Page/滝沢優奈.md "wikilink")、[水元ゆうな](../Page/水元ゆうな.md "wikilink")、[みずき紗英](../Page/みずき紗英.md "wikilink")、ほか ※総集編
   - ラストラスSEXY GIRLS 芹沢直美 BEST①（2005年12月15日、ビデオメーカー）
   - h.m.pヒットアイドルサーチ お姉さまでエロい女優（2006年6月10日、h.m.p）- 他出演：[美月れいな](../Page/美月れいな.md "wikilink")、[水嶋友穂](../Page/水嶋友穂.md "wikilink")、[美神ルナ](../Page/美神ルナ.md "wikilink")、一色あずさ、[瀬戸由衣](../Page/瀬戸由衣.md "wikilink") ほか ※総集編
   - 感じるレイプ?\! 中出し20連発 女教師・芹沢直美 もがき 喘ぎ 墜ちていく…レイプで感じるドスケベ 女教師（2006年7月6日、[アイエナジー](../Page/アイエナジー.md "wikilink")）

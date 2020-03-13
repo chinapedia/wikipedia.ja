@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")から、『OH\!ハッピー・デー』の終了をうけて、放送開始。[J-WAVE](../Page/J-WAVE.md "wikilink")の同時間帯に放送されていた『[BOOM TOWN](https://ja.wikipedia.org/wiki/BOOM_TOWN "wikilink")』とは、激しい聴取率1位争いをしていた。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")から、『OH\!ハッピー・デー』の終了をうけて、放送開始。[J-WAVE](../Page/J-WAVE.md "wikilink")の同時間帯に放送されていた『[BOOM TOWN](../Page/BOOM_TOWN.md "wikilink")』とは、激しい聴取率1位争いをしていた。
 
 大阪で人気があった[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")・[玉川美沙](../Page/玉川美沙.md "wikilink")を関東で最初に起用。この番組を担当する前に、NACK5で『サタデー・オン・ザ・ウェイ』を半年間担当していたが、玉川美沙の人気はこの番組から火が付いた、といってもよいだろう。
 

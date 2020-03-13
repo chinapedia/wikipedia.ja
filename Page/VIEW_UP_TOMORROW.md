@@ -47,7 +47,7 @@
 
 ## 関連項目
 
-  - [WAKE UP NEWS](https://ja.wikipedia.org/wiki/WAKE_UP_NEWS "wikilink")
+  - [WAKE UP NEWS](../Page/WAKE_UP_NEWS.md "wikilink")
   - [リポビタンD Sports Nonfiction](../Page/リポビタンD_Sports_Nonfiction.md "wikilink")
 
 [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:トヨタグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:トヨタグループ単独提供番組 "wikilink")

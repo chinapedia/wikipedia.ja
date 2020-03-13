@@ -5,11 +5,11 @@
 
 ## 概要
 
-前番組『[FNN YTSニュースワイド60](https://ja.wikipedia.org/wiki/YTSニュースワイド60 "wikilink")』を改題し、フジテレビの番組名に合わせる形でスタートした。フジテレビや他の[FNN系列局とは違い](../Page/フジニュースネットワーク.md "wikilink")、山形テレビはタイトルに「ニュース」をつけて放送していた（フジテレビでは『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』『[FNN DATE LINE](../Page/FNN_DATE_LINE.md "wikilink")』とともに「フジテレビから『ニュース』が消えた」と報道されていたほどである）。
+前番組『[FNN YTSニュースワイド60](../Page/YTSニュースワイド60.md "wikilink")』を改題し、フジテレビの番組名に合わせる形でスタートした。フジテレビや他の[FNN系列局とは違い](../Page/フジニュースネットワーク.md "wikilink")、山形テレビはタイトルに「ニュース」をつけて放送していた（フジテレビでは『[FNNスピーク](../Page/FNNスピーク.md "wikilink")』『[FNN DATE LINE](../Page/FNN_DATE_LINE.md "wikilink")』とともに「フジテレビから『ニュース』が消えた」と報道されていたほどである）。
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列へのネットチェンジ（詳細は[山形テレビ\#ネットチェンジ](https://ja.wikipedia.org/wiki/山形テレビ#ネットチェンジ "wikilink")を参照のこと）と同時に番組も終了し、以降はANN系列のニュース番組のタイトルを使用している（例：『[スーパーJチャンネルYTSゴジダス](https://ja.wikipedia.org/wiki/スーパーJチャンネルYTSゴジダス "wikilink")』）。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列へのネットチェンジ（詳細は[山形テレビ\#ネットチェンジ](https://ja.wikipedia.org/wiki/山形テレビ#ネットチェンジ "wikilink")を参照のこと）と同時に番組も終了し、以降はANN系列のニュース番組のタイトルを使用している（例：『[スーパーJチャンネルYTSゴジダス](../Page/スーパーJチャンネルYTSゴジダス.md "wikilink")』）。
 
-なお、正式タイトルは『**FNN YTSニュース スーパータイム → YTSニュース スーパータイム FNN**』だった。後番組は『[YTSステーションEYE](https://ja.wikipedia.org/wiki/YTSステーションEYE "wikilink")』。
+なお、正式タイトルは『**FNN YTSニュース スーパータイム → YTSニュース スーパータイム FNN**』だった。後番組は『[YTSステーションEYE](../Page/YTSステーションEYE.md "wikilink")』。
 
 ## タイトルバック
 
@@ -50,8 +50,8 @@
 
   - [FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")
   - [FNN福井テレビスーパータイム](../Page/FNN福井テレビスーパータイム.md "wikilink")（[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")） - 同時期にスタート。
-  - [OHKスーパータイム](https://ja.wikipedia.org/wiki/OHKスーパータイム "wikilink")（[岡山放送](../Page/岡山放送.md "wikilink")） - 同時期にスタート。
-  - [SAYスーパータイム](https://ja.wikipedia.org/wiki/SAYスーパータイム "wikilink") - 山形テレビがANN系列にネットチェンジしてから4年後の1997年に山形県にFNN系列局の[さくらんぼテレビが開局した](../Page/さくらんぼテレビジョン.md "wikilink")。同局のサービス放送期間中に放送されていたのがこの番組であるが、開局数日前に『FNNスーパータイム』が終了し、『[FNNニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")』がスタートしたため、この時間帯のニュースは『[SAYニュース555 ザ・ヒューマン](https://ja.wikipedia.org/wiki/SAYニュース555_ザ・ヒューマン "wikilink")』になった。
+  - [OHKスーパータイム](../Page/OHKスーパータイム.md "wikilink")（[岡山放送](../Page/岡山放送.md "wikilink")） - 同時期にスタート。
+  - [SAYスーパータイム](../Page/SAYスーパータイム.md "wikilink") - 山形テレビがANN系列にネットチェンジしてから4年後の1997年に山形県にFNN系列局の[さくらんぼテレビが開局した](../Page/さくらんぼテレビジョン.md "wikilink")。同局のサービス放送期間中に放送されていたのがこの番組であるが、開局数日前に『FNNスーパータイム』が終了し、『[FNNニュース555 ザ・ヒューマン](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")』がスタートしたため、この時間帯のニュースは『[SAYニュース555 ザ・ヒューマン](https://ja.wikipedia.org/wiki/SAYニュース555_ザ・ヒューマン "wikilink")』になった。
   - [ニュース一番星](../Page/ニュース一番星.md "wikilink") - 本番組の直前番組。正式タイトルは『○曜一番星』。
 
 [Category:1987年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のテレビ番組_\(日本\) "wikilink") [Category:山形テレビの番組](https://ja.wikipedia.org/wiki/Category:山形テレビの番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink")

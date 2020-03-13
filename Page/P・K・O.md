@@ -101,7 +101,7 @@
 
   - **Di Gi Charat X'mas Album Welcome to X'mas**　（2000年12月2日）
       - ONLY★YOU～君を守りたい～
-      - PARTY☆NIGHT(ｵｰﾙｽﾀｰﾊﾞｰｼﾞｮﾝ)　　(真田アサミ・沢城みゆき・氷上恭子・[亀井芳子](../Page/亀井芳子.md "wikilink")・[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")・[南央美](../Page/南央美.md "wikilink")・[内藤玲](https://ja.wikipedia.org/wiki/内藤玲 "wikilink")・[森訓久](../Page/森訓久.md "wikilink")・鳥海浩輔・鈴木千尋・サエキトモ）
+      - PARTY☆NIGHT(ｵｰﾙｽﾀｰﾊﾞｰｼﾞｮﾝ)　　(真田アサミ・沢城みゆき・氷上恭子・[亀井芳子](../Page/亀井芳子.md "wikilink")・[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")・[南央美](../Page/南央美.md "wikilink")・[内藤玲](../Page/内藤玲.md "wikilink")・[森訓久](../Page/森訓久.md "wikilink")・鳥海浩輔・鈴木千尋・サエキトモ）
   - **でじこのサウンドガーデン**　（2001年4月25日）
       - LOVE ピョコラ様
   - **Di Gi Charat CD-BOX Special Version**　（2001年5月29日）

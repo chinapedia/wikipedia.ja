@@ -1,7 +1,7 @@
 > この記事は[Pokemon The Park 2005](https://ja.wikipedia.org/wiki/Pokemon_The_Park_2005)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Expo_2005_Sasashima_Satellite_Studio_De･La･Fantasia03.jpg "wikilink") **Pokémon The Park 2005**（ポケモン ザ パーク 2005）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月18日](../Page/3月18日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村区](../Page/中村区.md "wikilink")[平池町の](https://ja.wikipedia.org/wiki/平池町_\(名古屋市\) "wikilink")[デ・ラ・ファンタジア](../Page/デ・ラ・ファンタジア.md "wikilink")内に設けられた、[ポケットモンスター](../Page/ポケットモンスター.md "wikilink")の世界観を元にした[遊園地](../Page/遊園地.md "wikilink")。通称「**ポケパーク** (PokéPark)」。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Expo_2005_Sasashima_Satellite_Studio_De･La･Fantasia03.jpg "wikilink") **Pokémon The Park 2005**（ポケモン ザ パーク 2005）は、[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[3月18日](../Page/3月18日.md "wikilink")から同年[9月25日](../Page/9月25日.md "wikilink")まで[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村区](../Page/中村区.md "wikilink")[平池町の](https://ja.wikipedia.org/wiki/平池町_\(名古屋市\) "wikilink")[デ・ラ・ファンタジア](../Page/デ・ラ・ファンタジア.md "wikilink")内に設けられた、[ポケットモンスター](../Page/ポケットモンスター.md "wikilink")の世界観を元にした[遊園地](../Page/遊園地.md "wikilink")。通称「**ポケパーク** (PokéPark)」。
 
 主題歌は「ハロー\!サンキュー\!」（歌：[ベッキー](../Page/ベッキー.md "wikilink")（&ポケパークKIDS合唱団））。
 
@@ -34,8 +34,8 @@
   - ポケモンふわふわキッズ
   - [ポケモンだいすきクラブ](https://ja.wikipedia.org/wiki/ポケモンだいすきクラブ "wikilink")ステージ
   - ポケモンゲームコーナー
-  - ポケモン[3Dアドベンチャー](https://ja.wikipedia.org/wiki/立体映画 "wikilink") - ラ・バーモささしま（現：[マーケットスクエアささしま](https://ja.wikipedia.org/wiki/マーケットスクエアささしま "wikilink")）内の[109シネマズ](../Page/109シネマズ.md "wikilink")名古屋にて放映。ポケモンのキャラクターの1つである「[ニャース](https://ja.wikipedia.org/wiki/ニャース "wikilink")」を、ニンテンドーDSの通信機能を使って受け取ることができた。
-  - ウォークスルーアドベンチャー「[ミュウと波導の勇者ルカリオ](https://ja.wikipedia.org/wiki/劇場版ポケットモンスター_アドバンスジェネレーション_ミュウと波導の勇者_ルカリオ "wikilink")」 - このアトラクションを利用する場合のみ、リザベーション・チケット（予約券）が使えた。
+  - ポケモン[3Dアドベンチャー](https://ja.wikipedia.org/wiki/立体映画 "wikilink") - ラ・バーモささしま（現：[マーケットスクエアささしま](../Page/マーケットスクエアささしま.md "wikilink")）内の[109シネマズ](../Page/109シネマズ.md "wikilink")名古屋にて放映。ポケモンのキャラクターの1つである「[ニャース](https://ja.wikipedia.org/wiki/ニャース "wikilink")」を、ニンテンドーDSの通信機能を使って受け取ることができた。
+  - ウォークスルーアドベンチャー「[ミュウと波導の勇者ルカリオ](../Page/劇場版ポケットモンスター_アドバンスジェネレーション_ミュウと波導の勇者_ルカリオ.md "wikilink")」 - このアトラクションを利用する場合のみ、リザベーション・チケット（予約券）が使えた。
 
 ### ショップ・カフェ
 
@@ -78,7 +78,7 @@
 
   - パーク内で働いていたスタッフは数名の社員、または契約社員と[派遣会社](https://ja.wikipedia.org/wiki/派遣会社 "wikilink")からの[アルバイト](../Page/アルバイト.md "wikilink")で構成されていた。アルバイトは全員研修を受け、初期からのスタッフは2月中旬から約1か月間にわたり講師が専門的な指導を行なっている。なお、期間中も随時募集は続けられた。
   - スタッフは大きく4つに分類され、それぞれアトラクションのキャスト（乗り物係）、[Edyカード](https://ja.wikipedia.org/wiki/Edyカード "wikilink")販売スタッフ、パーク内限定の商品を扱うショップ店員、誘導員（雑用要員）。さらに警備会社2社、清掃会社、デ・ラ・ファンタジア運営スタッフなどがいた。
-  - 期間中3回慰労会が開催された。最終日翌日の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[9月26日](../Page/9月26日.md "wikilink")にラ・バーモささしまの隣にある[Zepp Nagoyaで最後の慰労会が開催された](https://ja.wikipedia.org/wiki/Zepp "wikilink")。また終了から約1か月後、スタッフ全員に非売品の[DVD](../Page/DVD.md "wikilink")が配布されている。
+  - 期間中3回慰労会が開催された。最終日翌日の[2005年](../Page/2005年.md "wikilink")（平成17年）[9月26日](../Page/9月26日.md "wikilink")にラ・バーモささしまの隣にある[Zepp Nagoyaで最後の慰労会が開催された](../Page/Zepp.md "wikilink")。また終了から約1か月後、スタッフ全員に非売品の[DVD](../Page/DVD.md "wikilink")が配布されている。
 
 ## 入場者数
 
@@ -98,7 +98,7 @@
 ## 関連項目
 
   - [デ・ラ・ファンタジア](../Page/デ・ラ・ファンタジア.md "wikilink")
-      - [マーケットスクエアささしま](https://ja.wikipedia.org/wiki/マーケットスクエアささしま "wikilink")
+      - [マーケットスクエアささしま](../Page/マーケットスクエアささしま.md "wikilink")
   - [2005年日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")
   - [中部国際空港](../Page/中部国際空港.md "wikilink")
   - [りんくうパパラ](../Page/りんくうパパラ.md "wikilink")

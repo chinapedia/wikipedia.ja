@@ -34,27 +34,27 @@
 
 （[イタリア軍](../Page/イタリア軍.md "wikilink")）
 
-  - [カルカノM1938](https://ja.wikipedia.org/wiki/カルカノM1938 "wikilink")ライフル
-  - [ベレッタ Modello 1938Aサブマシンガン](https://ja.wikipedia.org/wiki/ベレッタ_Modello_1938A "wikilink")
-  - [ブレダM30軽機関銃](https://ja.wikipedia.org/wiki/ブレダM30軽機関銃 "wikilink")
-  - [ベレッタM1934](https://ja.wikipedia.org/wiki/ベレッタM1934 "wikilink")拳銃
-  - [OTO M35型手榴弾](https://ja.wikipedia.org/wiki/OTO_M35型手榴弾 "wikilink")（通称：赤い悪魔）
+  - [カルカノM1938](../Page/カルカノM1938.md "wikilink")ライフル
+  - [ベレッタ Modello 1938Aサブマシンガン](../Page/ベレッタ_Modello_1938A.md "wikilink")
+  - [ブレダM30軽機関銃](../Page/ブレダM30軽機関銃.md "wikilink")
+  - [ベレッタM1934](../Page/ベレッタM1934.md "wikilink")拳銃
+  - [OTO M35型手榴弾](../Page/OTO_M35型手榴弾.md "wikilink")（通称：赤い悪魔）
   - [Da 47/32M](https://ja.wikipedia.org/wiki/Da_47/32 "wikilink")35ベーラー47mm対戦車砲
 
 （[ドイツ軍](../Page/ドイツ国防軍.md "wikilink")）
 
   - [Gew43](https://ja.wikipedia.org/wiki/Gew43 "wikilink")自動小銃（狙撃用スコープ装着）
-  - [MP40](https://ja.wikipedia.org/wiki/MP40 "wikilink")短機関銃
+  - [MP40](../Page/MP40.md "wikilink")短機関銃
   - ケーベルグラナーテ（モーゼル Kar98k ライフルにグレネード弾装着）
   - モーゼル[Kar98k](../Page/Kar98k.md "wikilink")ライフル（狙撃スコープ付）
   - モーゼル[Kar98k](../Page/Kar98k.md "wikilink")ライフル
-  - [StG 44](https://ja.wikipedia.org/wiki/StG44_\(突撃銃\) "wikilink")
+  - [StG 44](../Page/StG44_\(突撃銃\).md "wikilink")
   - [MG42](https://ja.wikipedia.org/wiki/MG42 "wikilink")重機関銃（通称：ヒトラーの電気のこぎり）
   - RPzB 43[パンツァーシュレック](../Page/パンツァーシュレック.md "wikilink")
   - [ワルサーP38](https://ja.wikipedia.org/wiki/ワルサーP38 "wikilink")　拳銃
-  - [M24型柄付手榴弾](https://ja.wikipedia.org/wiki/M24型柄付手榴弾 "wikilink")（通称：ポテトマッシャー）
+  - [M24型柄付手榴弾](../Page/M24型柄付手榴弾.md "wikilink")（通称：ポテトマッシャー）
   - [8.8cm FlaK 36](https://ja.wikipedia.org/wiki/8.8_cm_FlaK_18/36/37 "wikilink") 88ﾐﾘ砲
-  - [2cm Flakvierling 38](https://ja.wikipedia.org/wiki/2cm_Flakvierling38 "wikilink")　4連装対空機関砲
+  - [2cm Flakvierling 38](../Page/2cm_Flakvierling38.md "wikilink")　4連装対空機関砲
   - [ティーガーI](../Page/ティーガーI.md "wikilink")戦車
   - [Sd. Kfz. 251兵員輸送車](../Page/Sd_Kfz_251.md "wikilink")（ハーフトラック）
   - [8cm sGrW 34](https://ja.wikipedia.org/wiki/8cm迫撃砲sGrW34 "wikilink")（[迫撃砲](../Page/迫撃砲.md "wikilink")）
@@ -65,9 +65,9 @@
   - [メダル・オブ・オナー アライドアサルト](../Page/メダル・オブ・オナー_アライドアサルト.md "wikilink")
   - [メダル・オブ・オナー アライドアサルト リロード](../Page/メダル・オブ・オナー_アライドアサルト_リロード.md "wikilink")
   - [メダル・オブ・オナー パシフィックアサルト](../Page/メダル・オブ・オナー_パシフィックアサルト.md "wikilink")
-  - [メダル・オブ・オナー 史上最大の作戦](https://ja.wikipedia.org/wiki/メダル・オブ・オナー_史上最大の作戦 "wikilink")
-  - [メダル・オブ・オナー ライジングサン](https://ja.wikipedia.org/wiki/メダル・オブ・オナー_ライジングサン "wikilink")
-  - [メダル・オブ・オナー ヨーロッパ強襲](https://ja.wikipedia.org/wiki/メダル・オブ・オナー_ヨーロッパ強襲 "wikilink")
+  - [メダル・オブ・オナー 史上最大の作戦](../Page/メダル・オブ・オナー_史上最大の作戦.md "wikilink")
+  - [メダル・オブ・オナー ライジングサン](../Page/メダル・オブ・オナー_ライジングサン.md "wikilink")
+  - [メダル・オブ・オナー ヨーロッパ強襲](../Page/メダル・オブ・オナー_ヨーロッパ強襲.md "wikilink")
   - [メダル・オブ・オナー ヒーローズ](../Page/メダル・オブ・オナー_ヒーローズ.md "wikilink")
   - [メダル・オブ・オナー ヴァンガード](../Page/メダル・オブ・オナー_ヴァンガード.md "wikilink")
 

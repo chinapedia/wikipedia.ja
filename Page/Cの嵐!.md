@@ -3,21 +3,21 @@
 
 『**Cの嵐\!**』（クレームのあらし\!）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")[冠](https://ja.wikipedia.org/wiki/冠番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。 [日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")[2002年](../Page/2002年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")、毎週[水曜日](../Page/水曜日.md "wikilink")24:58 - 25:28に放送された。
 
-嵐が[役所](../Page/役所.md "wikilink")や[企業](../Page/企業.md "wikilink")の[クレーム](https://ja.wikipedia.org/wiki/クレーム "wikilink")処理を代行する[深夜番組](../Page/深夜番組.md "wikilink")で、「[Dの嵐\!](../Page/Dの嵐!.md "wikilink")」「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」「[嵐の宿題くん](https://ja.wikipedia.org/wiki/嵐の宿題くん "wikilink")」と続く嵐の深夜番組シリーズの第1作。
+嵐が[役所](../Page/役所.md "wikilink")や[企業](../Page/企業.md "wikilink")の[クレーム](../Page/クレーム.md "wikilink")処理を代行する[深夜番組](../Page/深夜番組.md "wikilink")で、「[Dの嵐\!](../Page/Dの嵐!.md "wikilink")」「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」「[嵐の宿題くん](https://ja.wikipedia.org/wiki/嵐の宿題くん "wikilink")」と続く嵐の深夜番組シリーズの第1作。
 
 ## 概要
 
-[嵐が日本初の](../Page/嵐_\(グループ\).md "wikilink")[クレーム](https://ja.wikipedia.org/wiki/クレーム "wikilink")処理会社「**クレームエージェント嵐**」の社員に扮し、依頼主である[役所](../Page/役所.md "wikilink")や[企業](../Page/企業.md "wikilink")、団体に代わってクレーム処理を行う。 （後に[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")は「[Dの嵐\!](../Page/Dの嵐!.md "wikilink")」では「ドキュメントプレス嵐」の社長、「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」では「嵐応援団」の団長も務めたが、出演はしていない。）
+[嵐が日本初の](../Page/嵐_\(グループ\).md "wikilink")[クレーム](../Page/クレーム.md "wikilink")処理会社「**クレームエージェント嵐**」の社員に扮し、依頼主である[役所](../Page/役所.md "wikilink")や[企業](../Page/企業.md "wikilink")、団体に代わってクレーム処理を行う。 （後に[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")は「[Dの嵐\!](../Page/Dの嵐!.md "wikilink")」では「ドキュメントプレス嵐」の社長、「[Gの嵐\!](../Page/Gの嵐!.md "wikilink")」では「嵐応援団」の団長も務めたが、出演はしていない。）
 
 [ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")は[小林清志](../Page/小林清志.md "wikilink")。
 
 ### クレームエージェント嵐
 
-[嵐が日本初の](../Page/嵐_\(グループ\).md "wikilink")[クレーム](https://ja.wikipedia.org/wiki/クレーム "wikilink")処理会社「**クレームエージェント嵐**」の社員に扮し、依頼主である[役所](../Page/役所.md "wikilink")や[企業](../Page/企業.md "wikilink")、団体に代わってクレーム処理を行う。
+[嵐が日本初の](../Page/嵐_\(グループ\).md "wikilink")[クレーム](../Page/クレーム.md "wikilink")処理会社「**クレームエージェント嵐**」の社員に扮し、依頼主である[役所](../Page/役所.md "wikilink")や[企業](../Page/企業.md "wikilink")、団体に代わってクレーム処理を行う。
 
 「**クレームエージェント嵐**」の部長は[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")（[少年隊](../Page/少年隊.md "wikilink")）で、2003年6月18日・25日放送回（放送終了前の総集編）には出社し、出演している。
 
-[スタジオでは](https://ja.wikipedia.org/wiki/スタジオ_\(映像撮影\) "wikilink")[嵐が各々のパソコンを前に一つのデスクを囲み](../Page/嵐_\(グループ\).md "wikilink")（左から順に櫻井・大野・二宮・松本・相葉）、後方には[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")部長の[ネームプレート](https://ja.wikipedia.org/wiki/ネームプレート "wikilink")の載ったデスクやラックが置かれている。
+[スタジオでは](../Page/スタジオ_\(映像撮影\).md "wikilink")[嵐が各々のパソコンを前に一つのデスクを囲み](../Page/嵐_\(グループ\).md "wikilink")（左から順に櫻井・大野・二宮・松本・相葉）、後方には[東山紀之](https://ja.wikipedia.org/wiki/東山紀之 "wikilink")部長の[ネームプレート](https://ja.wikipedia.org/wiki/ネームプレート "wikilink")の載ったデスクやラックが置かれている。
 
 ### コーナー企画
 
@@ -26,7 +26,7 @@
 <!-- end list -->
 
   -
-    [スタジオから](https://ja.wikipedia.org/wiki/スタジオ_\(映像撮影\) "wikilink")[視聴者](../Page/視聴者.md "wikilink")のクレーム処理を代行する。
+    [スタジオから](../Page/スタジオ_\(映像撮影\).md "wikilink")[視聴者](../Page/視聴者.md "wikilink")のクレーム処理を代行する。
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
 <td><p>7月3日</p></td>
 <td><p>相葉・櫻井</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北区役所_(東京都)" title="wikilink">東京都北区役所</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/放置自転車" title="wikilink">放置自転車</a></p></td>
+<td><p><a href="../Page/放置自転車.md" title="wikilink">放置自転車</a></p></td>
 </tr>
 <tr class="even">
 <td><p>松本・二宮・大野</p></td>
@@ -130,7 +130,7 @@
 <td><p>7月31日</p></td>
 <td><p>松本・櫻井</p></td>
 <td><p><a href="../Page/家電量販店.md" title="wikilink">家電量販店</a><br />
-<a href="https://ja.wikipedia.org/wiki/ビックカメラ" title="wikilink">ビックカメラ</a></p></td>
+<a href="../Page/ビックカメラ.md" title="wikilink">ビックカメラ</a></p></td>
 <td><p>店内、<a href="../Page/テレビ受像機.md" title="wikilink">テレビ受像機</a></p></td>
 </tr>
 <tr class="odd">
@@ -160,7 +160,7 @@
 <td><p>二宮・櫻井</p></td>
 <td><p>中古車買取業者<br />
 <a href="https://ja.wikipedia.org/wiki/アップルジャパン_(中古車)" title="wikilink">アップルジャパン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中古車" title="wikilink">中古車</a>の査定</p></td>
+<td><p><a href="../Page/中古車.md" title="wikilink">中古車</a>の査定</p></td>
 </tr>
 <tr class="odd">
 <td><p>相葉・松本・大野</p></td>
@@ -315,7 +315,7 @@ ZOO</p></td>
 <td><p>大野・櫻井</p></td>
 <td><p>ゲーム会社<br />
 <a href="../Page/カプコン.md" title="wikilink">カプコン</a></p></td>
-<td><p><a href="../Page/コンピュータゲーム.md" title="wikilink">コンピュータゲーム</a>、<a href="https://ja.wikipedia.org/wiki/永久パターン" title="wikilink">永久パターン</a></p></td>
+<td><p><a href="../Page/コンピュータゲーム.md" title="wikilink">コンピュータゲーム</a>、<a href="../Page/永久パターン.md" title="wikilink">永久パターン</a></p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
@@ -413,7 +413,7 @@ ZOO</p></td>
 <td><p>2月26日</p></td>
 <td><p>相葉・大野</p></td>
 <td><p>テレビドラマ<br />
-<a href="https://ja.wikipedia.org/wiki/よい子の味方_〜新米保育士物語〜" title="wikilink">よい子の味方 〜新米保育士物語〜</a></p></td>
+<a href="../Page/よい子の味方_〜新米保育士物語〜.md" title="wikilink">よい子の味方 〜新米保育士物語〜</a></p></td>
 <td><p>主演の櫻井</p></td>
 </tr>
 <tr class="odd">
@@ -494,7 +494,7 @@ ZOO</p></td>
 <td><p>5月14日</p></td>
 <td><p>相葉・松本・二宮</p></td>
 <td><p><a href="../Page/豊島区役所.md" title="wikilink">豊島区役所</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/放置自転車" title="wikilink">放置自転車</a>、<a href="https://ja.wikipedia.org/wiki/自転車" title="wikilink">自転車</a>、<a href="../Page/ポイ捨て.md" title="wikilink">ポイ捨て</a></p></td>
+<td><p><a href="../Page/放置自転車.md" title="wikilink">放置自転車</a>、<a href="https://ja.wikipedia.org/wiki/自転車" title="wikilink">自転車</a>、<a href="../Page/ポイ捨て.md" title="wikilink">ポイ捨て</a></p></td>
 </tr>
 <tr class="even">
 <td><p>46</p></td>

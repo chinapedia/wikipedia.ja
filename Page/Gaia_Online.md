@@ -7,7 +7,7 @@
 
   - ガイアジャーナル、[ウェブログ](https://ja.wikipedia.org/wiki/ウェブログ "wikilink")の一種。
   - 友だちリスト。
-  - ガイアフィシング、[釣り](https://ja.wikipedia.org/wiki/釣り "wikilink")の[フラッシュ](https://ja.wikipedia.org/wiki/Macromedia_Flash "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")。
+  - ガイアフィシング、[釣り](../Page/釣り.md "wikilink")の[フラッシュ](https://ja.wikipedia.org/wiki/Macromedia_Flash "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")。
   - [チャット](../Page/チャット.md "wikilink")。
   - ガイアハウシング, [ショックウェーブで](../Page/マクロメディア.md "wikilink")[シムピープル](../Page/シムピープル.md "wikilink")らしい家がたてる。
 

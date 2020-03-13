@@ -45,7 +45,7 @@ MINIX 1.5は[1991年](../Page/1991年.md "wikilink")にリリースされ、IBM 
 
 [MINIX_3.2_Top_Command.png](https://ja.wikipedia.org/wiki/File:MINIX_3.2_Top_Command.png "fig:MINIX_3.2_Top_Command.png")"コマンド実行中のMINIX\]\] [Minix_3.png](https://ja.wikipedia.org/wiki/File:Minix_3.png "fig:Minix_3.png")（[twm](https://ja.wikipedia.org/wiki/twm "wikilink")）実行中のMINIX\]\]
 
-MINIX 3は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月24日](../Page/10月24日.md "wikilink")、タネンバウムよってACMシンポジウムにおいてアナウンスされた。このOSは、依然としてタネンバウムとWoodhullのテキストで用いられていたが、これは「限られたリソースのシステムや[組み込み](https://ja.wikipedia.org/wiki/組み込み "wikilink")コンピュータ、また高い信頼性を要求するアプリケーションで使える\[5\]」ことを目指して包括的に再設計された。
+MINIX 3は、[2005年](../Page/2005年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")、タネンバウムよってACMシンポジウムにおいてアナウンスされた。このOSは、依然としてタネンバウムとWoodhullのテキストで用いられていたが、これは「限られたリソースのシステムや[組み込み](https://ja.wikipedia.org/wiki/組み込み "wikilink")コンピュータ、また高い信頼性を要求するアプリケーションで使える\[5\]」ことを目指して包括的に再設計された。
 
 MINIX 3は、現在[IA-32](../Page/IA-32.md "wikilink")と[ARM](https://ja.wikipedia.org/wiki/ARM "wikilink")アーキテクチャのシステムをサポートしている。OSは[Live CDのフォーマットで提供され](../Page/Live_CD.md "wikilink")、これはコンピュータにインストールすることなしに試すことができる。また、様々なバージョンの仮想化システム（Bochs、[QEMU](../Page/QEMU.md "wikilink")、[VMware](../Page/VMware.md "wikilink")、[VirtualBox](../Page/VirtualBox.md "wikilink")、[Virtual PCを含む](https://ja.wikipedia.org/wiki/Virtual_PC "wikilink")）にも対応している。
 

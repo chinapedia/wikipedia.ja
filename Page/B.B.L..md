@@ -1,7 +1,7 @@
 > この記事は[B.B.L.](https://ja.wikipedia.org/wiki/B.B.L.)から翻訳されています。
 
 
-『**B.B.L.**』（ビービーエル）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで土曜深夜22:30 - 23:00に[FM-FUJIで放送されていた](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[美勇伝](../Page/美勇伝.md "wikilink")。ラジオでは初のレギュラーである。番組名は美（**B**eauty）、勇（**B**rave）、伝（**L**egend）、の頭文字を合わせたものから由来している。
+『**B.B.L.**』（ビービーエル）は、[2005年](../Page/2005年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで土曜深夜22:30 - 23:00に[FM-FUJIで放送されていた](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[美勇伝](../Page/美勇伝.md "wikilink")。ラジオでは初のレギュラーである。番組名は美（**B**eauty）、勇（**B**rave）、伝（**L**egend）、の頭文字を合わせたものから由来している。
 
 ## 放送時間
 
@@ -55,7 +55,7 @@
 
 :;オリジナルナンバー
 
-::様々なアーティストの曲が流れる。2005年4月17日 ・ 24日放送分では美勇伝の1人がハロー\!プロジェクトに所属するソロやユニットの曲をリクエストした。同年10月9日放送分は、石川のユニットでもある[DEF.DIVA](https://ja.wikipedia.org/wiki/DEF.DIVA "wikilink")の『好きすぎて バカみたい』が流れた。
+::様々なアーティストの曲が流れる。2005年4月17日 ・ 24日放送分では美勇伝の1人がハロー\!プロジェクトに所属するソロやユニットの曲をリクエストした。同年10月9日放送分は、石川のユニットでもある[DEF.DIVA](../Page/DEF.DIVA.md "wikilink")の『好きすぎて バカみたい』が流れた。
 
 :;ラストナンバー
 

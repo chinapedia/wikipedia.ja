@@ -5,7 +5,7 @@
 
 ## 概要
 
-[TBSビデオ問題](https://ja.wikipedia.org/wiki/TBSビデオ問題 "wikilink")によって『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』が急遽[打ち切り](../Page/打ち切り.md "wikilink")になったため、同時間帯はしばらく[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")で穴埋めされていたが、およそ4か月ぶりに[生放送](../Page/生放送.md "wikilink")番組を再開した。
+[TBSビデオ問題](../Page/TBSビデオ問題.md "wikilink")によって『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』が急遽[打ち切り](../Page/打ち切り.md "wikilink")になったため、同時間帯はしばらく[再放送](../Page/再放送.md "wikilink")で穴埋めされていたが、およそ4か月ぶりに[生放送](../Page/生放送.md "wikilink")番組を再開した。
 
 TBSが報道系[ワイドショー](../Page/ワイドショー.md "wikilink")からの撤退を宣言したため、本番組は同時にスタートした『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』と同様に芸能や報道は扱わず、生活情報を中心とした内容であった。『はなまるマーケット』が家事を中心とした内容に対し、本番組は主にファッション、グルメ、旅行などを取り上げていた。
 
@@ -13,7 +13,7 @@ TBSが報道系[ワイドショー](../Page/ワイドショー.md "wikilink")か
 
 ## 出演者
 
-  - **[山本文郎](https://ja.wikipedia.org/wiki/山本文郎 "wikilink")** ： 司会。元TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。
+  - **[山本文郎](../Page/山本文郎.md "wikilink")** ： 司会。元TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。
   - **[大島さと子](../Page/大島さと子.md "wikilink")** ： 司会。
   - **[水島裕](../Page/水島裕_\(声優\).md "wikilink")** ： 曜日担当レポーター\[2\]。
   - **[福田直代](https://ja.wikipedia.org/wiki/福田直代 "wikilink")：**レポーター　レギュラー

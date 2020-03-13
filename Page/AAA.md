@@ -18,7 +18,7 @@
 上記の「評価レベルが高い」という意味にちなんでつけられた名称や、略語に由来して正式表記になっているものなど。
 
   - **AAA**（トリプレア） - [メキシコ](../Page/メキシコ.md "wikilink")の[プロレス](../Page/プロレス.md "wikilink")（[ルチャリブレ](../Page/ルチャリブレ.md "wikilink")）団体（1992年 - ） ⇒ **[AAA (プロレス)](../Page/AAA_\(プロレス\).md "wikilink")**
-  - **AAA**（トリプルエー） - 日本の音楽グループ（2005年 - ） ⇒ **[AAA (音楽グループ)](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")**
+  - **AAA**（トリプルエー） - 日本の音楽グループ（2005年 - ） ⇒ **[AAA (音楽グループ)](../Page/AAA_\(音楽グループ\).md "wikilink")**
   - **AAA**（トリプルエー） - [名古屋テレビで放送されたオーディション番組](../Page/名古屋テレビ放送.md "wikilink")
   - **AAA**（トリプルエー） - [松本若菜](../Page/松本若菜.md "wikilink")等が所属する芸能事務所
   - **AAA**（トリプルエー） - [フクシマハルカ](../Page/フクシマハルカ.md "wikilink")の漫画（2008年 - ） ⇒ **[AAA (漫画)](../Page/AAA_\(漫画\).md "wikilink")**
@@ -69,7 +69,7 @@
   - スポーツ
       - [アメリカン・エアラインズ・アリーナ](../Page/アメリカン・エアラインズ・アリーナ.md "wikilink")（American Airlines Arena） - アメリカ合衆国フロリダ州マイアミの屋内競技施設
   - 音楽・芸能
-      - [エイベックス・アーティスト・アカデミー](https://ja.wikipedia.org/wiki/エイベックス・プランニング&デベロップメント "wikilink")（avex artist academy） - 日本の[音楽スクール](../Page/アクターズスクール.md "wikilink")。
+      - [エイベックス・アーティスト・アカデミー](../Page/エイベックス・プランニング&デベロップメント.md "wikilink")（avex artist academy） - 日本の[音楽スクール](../Page/アクターズスクール.md "wikilink")。
       - [Asia Artist Awards](https://ja.wikipedia.org/wiki/Asia_Artist_Awards "wikilink")（アジアアーティストアワード）- [韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の授賞式。
   - ゲーム
       - 日本のコンシューマーゲームソフト開発会社[トライエース](../Page/トライエース.md "wikilink")の通称

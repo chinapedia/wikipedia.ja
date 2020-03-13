@@ -72,7 +72,7 @@
 ## 関連作品
 
   - 『[キングスフィールド](../Page/キングスフィールド.md "wikilink")』シリーズ - 武器ムーンライトソードが本来登場するのがこの作品。
-  - 『[METAL WOLF CHAOS](https://ja.wikipedia.org/wiki/METAL_WOLF_CHAOS "wikilink")』 - 巫術蒼龍が（兵器に形を変えて）主人公用の武器として登場している。（※ メーカーはともに[フロム・ソフトウェア](../Page/フロム・ソフトウェア.md "wikilink")）
+  - 『[METAL WOLF CHAOS](../Page/METAL_WOLF_CHAOS.md "wikilink")』 - 巫術蒼龍が（兵器に形を変えて）主人公用の武器として登場している。（※ メーカーはともに[フロム・ソフトウェア](../Page/フロム・ソフトウェア.md "wikilink")）
 
 ## 外部リンク
 

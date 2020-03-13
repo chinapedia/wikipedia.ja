@@ -13,13 +13,13 @@
 
 [ジャケット写真は](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")、アップで撮影された目の中にメンバーが映っているというデザイン。これは、『[インタビュー・ウィズ・バンパイア](https://ja.wikipedia.org/wiki/インタビュー・ウィズ・バンパイア "wikilink")』や『[ドラキュラ](../Page/ドラキュラ_\(1992年の映画\).md "wikilink")』などの映画からインスピレーションを得たメンバーからの「ビジュアルの世界観からロゴも含めてイメージを膨らませてほしい」という意向を反映させたもの\[3\]。また本作のジャケットから「[BE THERE](../Page/BE_THERE.md "wikilink")」より続いた[タイアップ](../Page/タイアップ.md "wikilink")の表記がなくなり、シールで保護フィルムに貼る方式に変更された。また、Rooms RECORDS（現在の[VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）より発売されたそれまでのシングルのジャケットにもタイアップ表示が消えた\[4\]。
 
-CDジャケット及びCDラベルのLOVE PHANTOMの"T"の表記は[十字架](https://ja.wikipedia.org/wiki/十字架 "wikilink")（♰）となっている。
+CDジャケット及びCDラベルのLOVE PHANTOMの"T"の表記は[十字架](../Page/十字架.md "wikilink")（♰）となっている。
 
 ## 記録
 
 発売を1ヵ月後に控えたアルバムからの先行シングルにもかかわらず、初動売上は当時の歴代1位となる95.1万枚を記録し、発売から2週間でミリオンセラーとなった。1995年に年間シングルチャートで10位を獲得し、1991年から5年連続でトップ10入りを果たした（こちらも当時の歴代1位）。
 
-累計186.2万枚を売り上げ（[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")）、B'zのシングルでは「[愛のままにわがままに 僕は君だけを傷つけない](../Page/愛のままにわがままに_僕は君だけを傷つけない.md "wikilink")」に次いで2番目に高い売上を記録しており、B'zの代表作の1つである。
+累計186.2万枚を売り上げ（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）、B'zのシングルでは「[愛のままにわがままに 僕は君だけを傷つけない](../Page/愛のままにわがままに_僕は君だけを傷つけない.md "wikilink")」に次いで2番目に高い売上を記録しており、B'zの代表作の1つである。
 
 本作で[CHAGE and ASKAのシングル総売上最多枚数を抜き](../Page/CHAGE_and_ASKA.md "wikilink")、総売上が1650万枚となった。
 
@@ -34,7 +34,7 @@ CDジャケット及びCDラベルのLOVE PHANTOMの"T"の表記は[十字架](h
         発売前に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でこの曲が披露された。なお、当番組で2回目の演奏時にはストリングスのイントロをカットし、代わりに「[spirit loose](../Page/LOOSE.md "wikilink")」をイントロに使用した。
         『ミュージックステーション』では「[今夜月の見える丘に](../Page/今夜月の見える丘に.md "wikilink")」、「[ultra soul](https://ja.wikipedia.org/wiki/ultra_soul "wikilink")」、「[愛のバクダン](../Page/愛のバクダン.md "wikilink")」と並んで一番演奏された回数が多いB'zの楽曲になっている。
         [NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")では62位にランクインした。
-        使用ギターはYAMAHA MG-M CUSTOM Black Burst(松本孝弘モデル、公式サイトではMGM-IIと紹介されている)。これは長年使用され数タイプあったヤマハ松本モデルの最終形とも言えるギターであり、[ヤマハ](../Page/ヤマハ.md "wikilink")[MG-Mとしてシングルでメイン](https://ja.wikipedia.org/wiki/ヤマハ・MG-M "wikilink")・フィーチャリングされた最後の曲になる。
+        使用ギターはYAMAHA MG-M CUSTOM Black Burst(松本孝弘モデル、公式サイトではMGM-IIと紹介されている)。これは長年使用され数タイプあったヤマハ松本モデルの最終形とも言えるギターであり、[ヤマハ](../Page/ヤマハ.md "wikilink")[MG-Mとしてシングルでメイン](../Page/ヤマハ・MG-M.md "wikilink")・フィーチャリングされた最後の曲になる。
         初披露は1995年のライブツアー『[B'z LIVE-GYM Pleasure '95 BUZZ\!\!](../Page/"BUZZ!!"_THE_MOVIE.md "wikilink")』。同ライブツアーにおいて稲葉が[バンパイアの扮装をし](../Page/吸血鬼.md "wikilink")、高さ数十メートルのセットの高台からダイブするという演出用に制作された楽曲。当初は「[VAMPIRE WOMAN](../Page/RISKY_\(アルバム\).md "wikilink")」にこの演出が割り当てられていたが、新しく曲を制作しようということで本曲の制作に至った経緯がある\[6\]\[7\]。
         歌詞の世界観も、[フランケンシュタイン](../Page/フランケンシュタイン.md "wikilink")や[ドラキュラ](../Page/ドラキュラ.md "wikilink")など日常的でない主人公の恋をイメージして作詞したという\[8\]\[9\]。
         ライブの定番曲で演奏される際は[レーザー光線](https://ja.wikipedia.org/wiki/レーザー光線 "wikilink")がよく使用されるが、上記のようにストリングスのイントロをカットすることがある。近年ではストリングスのイントロを松本がギターで演奏することもある。
@@ -51,10 +51,10 @@ CDジャケット及びCDラベルのLOVE PHANTOMの"T"の表記は[十字架](h
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
   - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")、編曲 (\#2)
-  - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink"):[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、全曲編曲
+  - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink"):[マニピュレーター](../Page/マニピュレーター.md "wikilink")、全曲編曲
   - デニー・フォンハイザー:[ドラム](../Page/ドラムセット.md "wikilink") (\#2)
-  - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink") (\#2)
-  - [増田隆宣](https://ja.wikipedia.org/wiki/増田隆宣 "wikilink"):[オルガン](../Page/オルガン.md "wikilink")・[モーグ](../Page/モーグ・シンセサイザー.md "wikilink") (\#2)
+  - [明石昌夫](../Page/明石昌夫.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink") (\#2)
+  - [増田隆宣](../Page/増田隆宣.md "wikilink"):[オルガン](../Page/オルガン.md "wikilink")・[モーグ](../Page/モーグ・シンセサイザー.md "wikilink") (\#2)
   - [篠崎Strings](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink"):[ストリングス](../Page/弦楽器.md "wikilink") (\#1)
   - 森朱美:[オペラ](../Page/声楽.md "wikilink") (\#1)
   - [宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink"):Female Voice (\#1)
@@ -71,7 +71,7 @@ CDジャケット及びCDラベルのLOVE PHANTOMの"T"の表記は[十字架](h
 
   - [LOOSE](../Page/LOOSE.md "wikilink")
   - [B'z TV STYLE II Songless Version](../Page/B'z_TV_STYLE_II_Songless_Version.md "wikilink") (TV STYLE)
-  - [B'z The Best "Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"Pleasure" "wikilink")
+  - [B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")
   - [B'z The Best "ULTRA Pleasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")
   - [B'z The Best XXV 1988-1998](https://ja.wikipedia.org/wiki/B'z_The_Best_XXV_1988-1998 "wikilink")
 
@@ -99,7 +99,7 @@ CDジャケット及びCDラベルのLOVE PHANTOMの"T"の表記は[十字架](h
 ## カバー
 
   - [上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink") - ライブで「[juice](https://ja.wikipedia.org/wiki/juice_\(B'zの曲\) "wikilink")」と共にカバー。
-  - [チン☆パラ](https://ja.wikipedia.org/wiki/チン☆パラ "wikilink") - [ア・カペラ](../Page/ア・カペラ.md "wikilink")でカバー（2002年に発売したシングル「[LA-PUNCH改](https://ja.wikipedia.org/wiki/LA-PUNCH改 "wikilink")」に収録）。
+  - [チン☆パラ](../Page/チン☆パラ.md "wikilink") - [ア・カペラ](../Page/ア・カペラ.md "wikilink")でカバー（2002年に発売したシングル「[LA-PUNCH改](https://ja.wikipedia.org/wiki/LA-PUNCH改 "wikilink")」に収録）。
 
 ## 脚注
 

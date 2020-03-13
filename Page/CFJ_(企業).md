@@ -1,7 +1,7 @@
 > この記事は[CFJ \(\)](https://ja.wikipedia.org/wiki/CFJ_\(\))から翻訳されています。
 
 
-**CFJ合同会社**（シーエフジェイ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[金融](../Page/金融.md "wikilink")大手[シティグループ](https://ja.wikipedia.org/wiki/シティグループ "wikilink")の一員のみなし貸金業者（元[消費者金融](../Page/消費者金融.md "wikilink")）会社の日本法人である。「CFJ」は「CitiFinancial Japan」の略である。
+**CFJ合同会社**（シーエフジェイ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[金融](../Page/金融.md "wikilink")大手[シティグループ](../Page/シティグループ.md "wikilink")の一員のみなし貸金業者（元[消費者金融](../Page/消費者金融.md "wikilink")）会社の日本法人である。「CFJ」は「CitiFinancial Japan」の略である。
 
 ## 概要
 
@@ -29,7 +29,7 @@
 
 ## 関連項目
 
-  - [マルフク (貸金業)](https://ja.wikipedia.org/wiki/マルフク_\(貸金業\) "wikilink")
+  - [マルフク (貸金業)](../Page/マルフク_\(貸金業\).md "wikilink")
   - [ファロン](../Page/ファロン.md "wikilink")
   - [Second Life](../Page/Second_Life.md "wikilink")
   - [ワクワクウォッチング](../Page/ワクワクウォッチング.md "wikilink")

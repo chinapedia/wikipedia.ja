@@ -12,20 +12,20 @@
   - この曲で、[第39回日本レコード大賞](https://ja.wikipedia.org/wiki/第39回日本レコード大賞 "wikilink")の大賞を受賞し、昨年の「[Don't wanna cry](../Page/Don't_wanna_cry.md "wikilink")」に引き続き、2年連続の受賞となった。感極まり、涙ながらの熱唱となった。他にも、第11回“[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")”ソング・オブ・ザ・イヤー（邦楽部門大賞）などを受賞。
   - 『[第48回NHK紅白歌合戦](../Page/第48回NHK紅白歌合戦.md "wikilink")』では、この曲で紅組のトリを務めた後、出産・育児のため歌手活動を1年間休業。カムバックした翌1998年の『[第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")』で1年ぶりに公の前に登場し、2年連続で同曲を熱唱。歌唱中、会場から暖かい拍手と声援に感極まって涙を流すシーンがあった。
   - 「TV LIFE」誌発表の、'97 TV LIFE ドラマ大賞・主題歌賞を受賞。「バージンロード」は作品賞も受賞しており、2冠となった。
-  - [オリコン及び出荷ベースで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、自身最大の売上のシングルである。ちなみに楽曲を制作した小室哲哉にとっても提供した楽曲の中で最大の売上となっており、[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")のレーベルから発売されたシングルとしても同様である。
+  - [オリコン及び出荷ベースで](../Page/オリコンチャート.md "wikilink")、自身最大の売上のシングルである。ちなみに楽曲を制作した小室哲哉にとっても提供した楽曲の中で最大の売上となっており、[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")のレーベルから発売されたシングルとしても同様である。
   - 小室哲哉がこの楽曲を制作したとき、すぐさま安室を電話で「すごくいい曲が出来たんだ。」と言って呼び出し聞かせたというエピソードがある。安室はその時実際にこの楽曲を聴いて鳥肌が立ったと語っている。
   - 1997年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に安室が結婚すると、「安室の将来の運命を予言していた曲」としてさらに話題になり、再びチャートインした（しかし、安室は[2002年](../Page/2002年.md "wikilink")に[離婚](../Page/離婚.md "wikilink")している）。
   - 歌詞の中にある「Let's a party time tonight」は誤植であり、実際は「It's a party time tonight」であったと小室自身が語っている（文法的にはlet us＋動詞となる）。また「CAN YOU CELEBRATE?」という表現自体もそうであるように、意味として和製英語（というよりは小室自身の造語）に近いものが歌詞の中には多い。これは歌詞の意味合いよりも「サウンドに気持ちよくはまるフレーズ」を重要視しているためであると小室本人が語っている。事実、英語に限らず日本語の文法がおかしい曲も多数存在するが、これも意図的である。
   - 累計出荷枚数は約250万枚\[2\]。この出荷枚数にはマキシシングル盤は含まれていない。
   - オリコンチャートにおける売上枚数は229.6万枚\[3\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[10月29日](../Page/10月29日.md "wikilink")発売の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")「[.LOVE](https://ja.wikipedia.org/wiki/.LOVE "wikilink")」にも収録されている。
-  - 1997年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売のコンピレーション・アルバム『[VELFARRE](https://ja.wikipedia.org/wiki/velfarre "wikilink") VOL.9 〜ESTA\! DISCO LATINO〜』に「CAN YOU CELEBRATE? ("D" NITE REMIX)」がノンストップで収録されている。フルコーラス版は[インストとともに](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")[Dub Master Xの](https://ja.wikipedia.org/wiki/Dub_Master_X "wikilink")[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")「DUB WA SELF REMIX 13」（非売品）に収録されている。
+  - 1997年[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")発売のコンピレーション・アルバム『[VELFARRE](https://ja.wikipedia.org/wiki/velfarre "wikilink") VOL.9 〜ESTA\! DISCO LATINO〜』に「CAN YOU CELEBRATE? ("D" NITE REMIX)」がノンストップで収録されている。フルコーラス版は[インストとともに](../Page/器楽曲.md "wikilink")[Dub Master Xの](https://ja.wikipedia.org/wiki/Dub_Master_X "wikilink")[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")「DUB WA SELF REMIX 13」（非売品）に収録されている。
   - 『バージンロード』に子役として出演していた当時[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[大島優子](https://ja.wikipedia.org/wiki/大島優子 "wikilink")は『[FNS名曲の祭典 秘蔵映像で振り返る55年 -NO MUSIC, NO TV.-](https://ja.wikipedia.org/wiki/FNS名曲の祭典_秘蔵映像で振り返る55年_-NO_MUSIC,_NO_TV.- "wikilink")』(フジテレビ系)で小室と共演した際、「ずっと心の中にあった」と語っている。
   - 本作発売から19年後の[2016年](../Page/2016年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")には、ミュージック・ステーション30周年記念特番『[ウルトラFES 2016](https://ja.wikipedia.org/wiki/ウルトラFES#2016 "wikilink")』にてウルトラ[HD](../Page/HD.md "wikilink")[リマスター](https://ja.wikipedia.org/wiki/リマスター "wikilink")版として、当時の歌唱シーンが再び放送された。
 
 ## 主な記録
 
-  - [オリコン調べによると](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、1997年のシングルおよび、自身のシングルで最高初動(82.8万枚)。
+  - [オリコン調べによると](../Page/オリコンチャート.md "wikilink")、1997年のシングルおよび、自身のシングルで最高初動(82.8万枚)。
   - 登場7週目で[ダブルミリオン](https://ja.wikipedia.org/wiki/ダブルミリオン "wikilink")を達成している。
   - [HEY\!HEY\!HEY\!MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")・3週連続（97/03/03〜03/17・\#104〜106）1位。
   - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でもシングルが発売され、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")国内の総合チャートで5位を記録した。20万枚（人口比からすると日本の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")に匹敵する）を超える大ヒット。
@@ -42,7 +42,7 @@
   - 1998オリコン年間カラオケリクエスト回数7位。
   - 1998オリコン年間アーティストセールス13位。
   - [第49回NHK紅白歌合戦](../Page/第49回NHK紅白歌合戦.md "wikilink")での、歌手別瞬間最高視聴率は64.9%で1位（ビデオリサーチ調べ、関東地区）。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[元日](../Page/元日.md "wikilink")に放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink")「全部歌えるカラオケ祭り日本の名曲ベスト100」の歴代カラオケランキングで1位。
+  - [2005年](../Page/2005年.md "wikilink")[元日](../Page/元日.md "wikilink")に放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink")「全部歌えるカラオケ祭り日本の名曲ベスト100」の歴代カラオケランキングで1位。
   - 2005年に[NHKが実施した](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で紅組23位。
   - オリコン調べによると、国内のシングルセールス・女性ソロ部門で1位。
   - オリジナル版はオリコン歴代14位。参考記録となるが、オリジナルとマキシを合算するとオリコン歴代9位に相当する（12cm盤はオリジナル版を除いたリミックス版であるため、公式にも合算はされない）。

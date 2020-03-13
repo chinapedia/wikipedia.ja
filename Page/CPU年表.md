@@ -35,11 +35,11 @@
 <!-- end list -->
 
   -
-    電卓用。いわゆるオールインワンタイプを指向した、[マイクロコントローラ](https://ja.wikipedia.org/wiki/マイクロコントローラ "wikilink")（ワンチップマイコン）的なLSIの最初（ないし最初期のもののひとつ）。日本の電卓戦争に価格破壊をもたらした。
+    電卓用。いわゆるオールインワンタイプを指向した、[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")（ワンチップマイコン）的なLSIの最初（ないし最初期のもののひとつ）。日本の電卓戦争に価格破壊をもたらした。
 
 <!-- end list -->
 
-  - 1972年4月 [8008発表](https://ja.wikipedia.org/wiki/Intel_8008 "wikilink")。8ビット
+  - 1972年4月 [8008発表](../Page/Intel_8008.md "wikilink")。8ビット
 
 <!-- end list -->
 
@@ -65,16 +65,16 @@
   - 1974年 [モトローラ](../Page/モトローラ.md "wikilink") [6800](../Page/MC6800.md "wikilink")
       -
         8ビットCPU。モトローラ初のマイクロプロセッサ。[日立の](../Page/日立製作所.md "wikilink") 8ビットパソコンで採用された。
-  - [1975年](../Page/1975年.md "wikilink") [モステクノロジー](https://ja.wikipedia.org/wiki/モステクノロジー "wikilink") [6502](../Page/MOS_6502.md "wikilink") 発表。※出荷は1976年
+  - [1975年](../Page/1975年.md "wikilink") [モステクノロジー](../Page/モステクノロジー.md "wikilink") [6502](../Page/MOS_6502.md "wikilink") 発表。※出荷は1976年
 
 <!-- end list -->
 
   -
-    8ビットCPU。モトローラ 6800 の派生マイクロプロセッサ。シンプル化による高速化を指向し、[アキュムレータが一本しかないという特徴的な設計](https://ja.wikipedia.org/wiki/アキュムレータ_\(コンピュータ\) "wikilink")。当時としては破格の安値で売り出され、[アップルの](../Page/アップル_\(企業\).md "wikilink") [Apple II](../Page/Apple_II.md "wikilink") 、[コモドール](../Page/コモドール.md "wikilink")の[PET2001](https://ja.wikipedia.org/wiki/PET2001 "wikilink")など北米のパソコンに多く採用される。また、6502の派生型CPUが[任天堂](../Page/任天堂.md "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（ファミコン）で使用された。
+    8ビットCPU。モトローラ 6800 の派生マイクロプロセッサ。シンプル化による高速化を指向し、[アキュムレータが一本しかないという特徴的な設計](../Page/アキュムレータ_\(コンピュータ\).md "wikilink")。当時としては破格の安値で売り出され、[アップルの](../Page/アップル_\(企業\).md "wikilink") [Apple II](../Page/Apple_II.md "wikilink") 、[コモドール](../Page/コモドール.md "wikilink")の[PET2001](https://ja.wikipedia.org/wiki/PET2001 "wikilink")など北米のパソコンに多く採用される。また、6502の派生型CPUが[任天堂](../Page/任天堂.md "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（ファミコン）で使用された。
 
 <!-- end list -->
 
-  - 1976年6月 [テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink") [TMS9900](https://ja.wikipedia.org/wiki/TMS9900 "wikilink")
+  - 1976年6月 [テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink") [TMS9900](../Page/TMS9900.md "wikilink")
 
 <!-- end list -->
 
@@ -107,7 +107,7 @@
   - [1982年](../Page/1982年.md "wikilink")3月 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [80286](../Page/Intel_80286.md "wikilink") 発表。
       -
         16ビットCPU。1980年代後半-1990年代初頭のパソコンの代表的なCPUとなった。メモリ空間を16MBに拡大した。
-  - [1984年](../Page/1984年.md "wikilink") モトローラ [MC68020](https://ja.wikipedia.org/wiki/MC68020 "wikilink")
+  - [1984年](../Page/1984年.md "wikilink") モトローラ [MC68020](../Page/MC68020.md "wikilink")
       -
         外部バスも32ビット化した本格的な 32ビットCPU。業務用ワークステーションやMacintoshで採用された。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月 インテル [DRAM事業から撤退](../Page/Dynamic_Random_Access_Memory.md "wikilink")
@@ -129,11 +129,11 @@
         ほぼ最初の商用 32ビットRISC CPU。[DECや](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[シリコングラフィックス](../Page/シリコングラフィックス.md "wikilink")のワークステーションで採用された。MIPSはその後、いったんシリコングラフィックスに買収されCPUの開発を続けた。
   - 1986年 [エイコーン・コンピュータ](https://ja.wikipedia.org/wiki/エイコーン・コンピュータ "wikilink") ARM2を開発
       -
-        32ビット RISC CPU。[Acorn Archimedesに搭載された](https://ja.wikipedia.org/wiki/Acorn_Archimedes "wikilink")。6502の発展として設計されCISCとしての特徴も併せ持つ。低消費電力に注力した[ARMアーキテクチャ](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")は後にGSM携帯電話や[アップル・ニュートン](https://ja.wikipedia.org/wiki/アップル・ニュートン "wikilink")に採用され組み込みCPUとして圧倒的なシェアを誇る。
-  - 1986年10月 [ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) [PA-RISC](https://ja.wikipedia.org/wiki/PA-RISC "wikilink")
+        32ビット RISC CPU。[Acorn Archimedesに搭載された](https://ja.wikipedia.org/wiki/Acorn_Archimedes "wikilink")。6502の発展として設計されCISCとしての特徴も併せ持つ。低消費電力に注力した[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")は後にGSM携帯電話や[アップル・ニュートン](../Page/アップル・ニュートン.md "wikilink")に採用され組み込みCPUとして圧倒的なシェアを誇る。
+  - 1986年10月 [ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) [PA-RISC](../Page/PA-RISC.md "wikilink")
       -
         32ビットRISC CPU。HP のワークステーションで採用された。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") [モトローラ](../Page/モトローラ.md "wikilink") [MC68030](https://ja.wikipedia.org/wiki/MC68030 "wikilink")
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") [モトローラ](../Page/モトローラ.md "wikilink") [MC68030](../Page/MC68030.md "wikilink")
       -
         32ビットCPU。[Macintosh](../Page/Macintosh.md "wikilink")、[NeXT](../Page/NeXT.md "wikilink") 、[X68030](https://ja.wikipedia.org/wiki/X68030 "wikilink")で採用された。
   - 1987年 [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink") [SPARC](../Page/SPARC.md "wikilink") 出荷
@@ -144,7 +144,7 @@
         32ビットRISC CPU。シリコングラフィックスのワークステーションで採用された。また、時代が下ると [R2000](../Page/R2000.md "wikilink")/[R3000](../Page/R3000.md "wikilink") から派生したCPUが[通信機器](../Page/通信機器.md "wikilink")や[プリンタなどの組み込み機器で多く用いられるようになり](https://ja.wikipedia.org/wiki/プリンター "wikilink")、組み込みCPUの一角を築いている。[ソニー](../Page/ソニー.md "wikilink")の[ゲーム機](../Page/ゲーム機.md "wikilink") [プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")（[1994年](../Page/1994年.md "wikilink")12月発売）でも採用された。
   - 1988年 [テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink") TMS320C30
       -
-        [デジタルシグナルプロセッサ](../Page/デジタルシグナルプロセッサ.md "wikilink") (DSP) で有名なチップ。→ [NS320xx](https://ja.wikipedia.org/wiki/NS320xx "wikilink")
+        [デジタルシグナルプロセッサ](../Page/デジタルシグナルプロセッサ.md "wikilink") (DSP) で有名なチップ。→ [NS320xx](../Page/NS320xx.md "wikilink")
   - [1989年](../Page/1989年.md "wikilink")4月 インテル [i486](https://ja.wikipedia.org/wiki/Intel_486 "wikilink")
       -
         32ビットCPU。[80386](../Page/Intel_80386.md "wikilink") の後継CPUで、[1990年代](../Page/1990年代.md "wikilink")半ばのパソコンの代表的なCPUとなった。キャッシュ搭載により性能を向上させた。
@@ -161,7 +161,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
         32ビットCISC CPU。[386ライセンス訴訟](https://ja.wikipedia.org/wiki/386ライセンス訴訟 "wikilink")でもめていたが、AMDは独自に[80386](https://ja.wikipedia.org/wiki/80386 "wikilink")互換CPUを作り上げた。
   - [1992年](../Page/1992年.md "wikilink")10月 [IBM](../Page/IBM.md "wikilink")/[モトローラ](../Page/モトローラ.md "wikilink") [PowerPC 601発表](../Page/PowerPC_601.md "wikilink")。
       -
-        32ビットRISC CPU。[POWERをベースに](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")[MC88000](https://ja.wikipedia.org/wiki/MC88000 "wikilink")の[CPUバス](../Page/CPUバス.md "wikilink")を組み合わせて開発された。IBMの[オフコン](../Page/オフィスコンピュータ.md "wikilink") [RS/6000](https://ja.wikipedia.org/wiki/RS/6000 "wikilink") や[アップル](../Page/アップル_\(企業\).md "wikilink") [Power Macintosh](../Page/Macintosh.md "wikilink") （[1994年](../Page/1994年.md "wikilink")発売）で採用された。アップルは、Macintoshで従来 [CISC](../Page/CISC.md "wikilink") CPUであるモトローラ[68000系を採用していたが](../Page/MC68000.md "wikilink")、まったく新しい RISC CPUに変え、従来のソフトを[MacOS](../Page/MacOS.md "wikilink")のコード変換機構を通して動かす方法を選んだ。
+        32ビットRISC CPU。[POWERをベースに](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")[MC88000](../Page/MC88000.md "wikilink")の[CPUバス](../Page/CPUバス.md "wikilink")を組み合わせて開発された。IBMの[オフコン](../Page/オフィスコンピュータ.md "wikilink") [RS/6000](https://ja.wikipedia.org/wiki/RS/6000 "wikilink") や[アップル](../Page/アップル_\(企業\).md "wikilink") [Power Macintosh](../Page/Macintosh.md "wikilink") （[1994年](../Page/1994年.md "wikilink")発売）で採用された。アップルは、Macintoshで従来 [CISC](../Page/CISC.md "wikilink") CPUであるモトローラ[68000系を採用していたが](../Page/MC68000.md "wikilink")、まったく新しい RISC CPUに変え、従来のソフトを[MacOS](../Page/MacOS.md "wikilink")のコード変換機構を通して動かす方法を選んだ。
   - 1992年 [DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink") [Alpha](https://ja.wikipedia.org/wiki/DEC_Alpha "wikilink")
       -
         64ビットRISC CPU。新規に設計されたCPU。不遇の道を歩んだ。
@@ -171,7 +171,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
   - [1993年](../Page/1993年.md "wikilink")3月 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink") 発表
       -
         32ビットCPU。[パイプラインや](https://ja.wikipedia.org/wiki/命令パイプライン "wikilink")[スーパースカラ](https://ja.wikipedia.org/wiki/スーパースカラ "wikilink")などの[RISC](../Page/RISC.md "wikilink")技術を導入し、[CISC](../Page/CISC.md "wikilink")の86系のハンディを補う。インテルは、[CISC](../Page/CISC.md "wikilink")と[RISC](../Page/RISC.md "wikilink")を折衷し、従来のCPUの互換性を保つ方式を選んだ。
-  - [1994年](../Page/1994年.md "wikilink") モトローラ[MC68060](https://ja.wikipedia.org/wiki/MC68060 "wikilink")
+  - [1994年](../Page/1994年.md "wikilink") モトローラ[MC68060](../Page/MC68060.md "wikilink")
 
 <!-- end list -->
 
@@ -183,15 +183,15 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
   - [1994年](../Page/1994年.md "wikilink") MIPS [R8000](https://ja.wikipedia.org/wiki/R8000 "wikilink")
       -
         64ビットRISC CPU。
-  - 1994年 [ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) [PA-RISC](https://ja.wikipedia.org/wiki/PA-RISC "wikilink")7200
+  - 1994年 [ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) [PA-RISC](../Page/PA-RISC.md "wikilink")7200
       -
         64ビットRISC CPU。
 
 ## 1990年代後半 クロック数競争
 
-業務用 [CPU](../Page/CPU.md "wikilink") の分野では、この頃、急速に能力を向上させてきたパソコンに押されて[ワークステーション](../Page/ワークステーション.md "wikilink")市場を徐々に失っていった。代わって[インターネット](../Page/インターネット.md "wikilink")時代の到来とともに、業務用CPUは徐々に[サーバ](../Page/サーバ.md "wikilink")分野へと拡大していった。サーバ向けプロセッサではCPUの64ビット化は一段落し、高クロック化・[マルチプロセッシング](https://ja.wikipedia.org/wiki/マルチプロセッシング "wikilink")へと向かった。
+業務用 [CPU](../Page/CPU.md "wikilink") の分野では、この頃、急速に能力を向上させてきたパソコンに押されて[ワークステーション](../Page/ワークステーション.md "wikilink")市場を徐々に失っていった。代わって[インターネット](../Page/インターネット.md "wikilink")時代の到来とともに、業務用CPUは徐々に[サーバ](../Page/サーバ.md "wikilink")分野へと拡大していった。サーバ向けプロセッサではCPUの64ビット化は一段落し、高クロック化・[マルチプロセッシング](../Page/マルチプロセッシング.md "wikilink")へと向かった。
 
-パソコンCPUの分野では[1990年代](../Page/1990年代.md "wikilink")半ばに [Windows3.1や](../Page/Microsoft_Windows_3.x.md "wikilink")[Windows95](../Page/Microsoft_Windows_95.md "wikilink") などの [GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink") [OS](../Page/オペレーティングシステム.md "wikilink") が普及したことで、個人ユーザーの間でもCPUの性能を極端に追い求めるスピード飢餓（その究極は[自作パソコン](https://ja.wikipedia.org/wiki/自作パソコン "wikilink")ユーザによるCPUの[オーバークロック](../Page/オーバークロック.md "wikilink")である）の状態も出現した。一方、1990年代後半には、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")、[Pentium III](../Page/Pentium_III.md "wikilink") の時代に急激な性能向上が見られ、1990年代末頃になるとスピード飢餓の時代も徐々に解消していった。この過程で x86系CPUの互換品を作っていたメーカーの再編が進み、[NexGen](https://ja.wikipedia.org/wiki/NexGen "wikilink")を買収した AMD が勢いを伸ばした。1990年代末頃になると、CPUやグラフィックチップの分野から撤退したり事業を売却したりする動きも活発になった。
+パソコンCPUの分野では[1990年代](../Page/1990年代.md "wikilink")半ばに [Windows3.1や](../Page/Microsoft_Windows_3.x.md "wikilink")[Windows95](../Page/Microsoft_Windows_95.md "wikilink") などの [GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink") [OS](../Page/オペレーティングシステム.md "wikilink") が普及したことで、個人ユーザーの間でもCPUの性能を極端に追い求めるスピード飢餓（その究極は[自作パソコン](../Page/自作パソコン.md "wikilink")ユーザによるCPUの[オーバークロック](../Page/オーバークロック.md "wikilink")である）の状態も出現した。一方、1990年代後半には、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink")、[Pentium III](../Page/Pentium_III.md "wikilink") の時代に急激な性能向上が見られ、1990年代末頃になるとスピード飢餓の時代も徐々に解消していった。この過程で x86系CPUの互換品を作っていたメーカーの再編が進み、[NexGen](https://ja.wikipedia.org/wiki/NexGen "wikilink")を買収した AMD が勢いを伸ばした。1990年代末頃になると、CPUやグラフィックチップの分野から撤退したり事業を売却したりする動きも活発になった。
 
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") IBM/モトローラ [PowerPC 604](../Page/PowerPC_604.md "wikilink")
       -
@@ -207,7 +207,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
         32ビットCISC CPU。
         CISC命令をRISC的命令セット(μOPs)に変換して実行する、当時のトレンドをインテルが初めて採用したCPU。当時の先進的技術を全て盛り込んだ[P6マイクロアーキテクチャ](../Page/P6マイクロアーキテクチャ.md "wikilink")の設計プロファイルは、10年以上に渡って同社におけるプロセッサ設計の土台となる。
   - [1996年](../Page/1996年.md "wikilink") [MIPS](../Page/ミップス・テクノロジーズ.md "wikilink") [R10000](https://ja.wikipedia.org/wiki/R10000 "wikilink")
-  - 1996年4月 [ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) [PA-RISC](https://ja.wikipedia.org/wiki/PA-RISC "wikilink")8000
+  - 1996年4月 [ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) [PA-RISC](../Page/PA-RISC.md "wikilink")8000
       -
         64ビットRISC CPU。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") AMD [K6](https://ja.wikipedia.org/wiki/K6 "wikilink")
@@ -219,13 +219,13 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
   - 1997年 サン・マイクロシステムズ [UltraSPARC II](../Page/SPARC.md "wikilink")
   - 1997年1月 インテル、MMX Pentium発表。
       -
-        32ビットCPU。マルチメディア用演算機能 ([MMX](https://ja.wikipedia.org/wiki/MMX "wikilink")) を搭載。
+        32ビットCPU。マルチメディア用演算機能 ([MMX](../Page/MMX.md "wikilink")) を搭載。
   - 1997年5月 インテル、[Pentium II発表](../Page/Pentium_II.md "wikilink")
       -
         32ビットCPU。第6世代のコア。独自のカートリッジを採用するなど従来と異なる方向を打ち出したが、やや迷走気味になった。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")1月 コンパックが [DEC](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink") を買収
       -
-        [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で情報産業の再編が進みつつあった中での大きな事件の1つであり、DECの保有していた[StrongARM](https://ja.wikipedia.org/wiki/StrongARM "wikilink")はインテルに売却された。
+        [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で情報産業の再編が進みつつあった中での大きな事件の1つであり、DECの保有していた[StrongARM](../Page/StrongARM.md "wikilink")はインテルに売却された。
   - 1998年 [IBM](../Page/IBM.md "wikilink")、 [PowerPC750L](../Page/PowerPC_G3.md "wikilink") 世界初の銅配線で製作されたCPU。消費電力の削減が可能になった。
   - 1998年 AMD [K6-2](https://ja.wikipedia.org/wiki/K6-2 "wikilink")
       -
@@ -242,7 +242,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
         32ビットCPU。インテル Pentium III と激しい性能競争を繰り広げ、一時、クロックではインテルCPUを上回った。
   - 1999年 モトローラ [XPC7400を出荷](../Page/PowerPC_G4.md "wikilink")。
       -
-        32ビットRISC CPU。128ビット[SIMD](https://ja.wikipedia.org/wiki/SIMD "wikilink")の[AltiVec](../Page/AltiVec.md "wikilink")を搭載し、「PowerPC G4」と呼ばれる。[Power Mac](../Page/Power_Mac.md "wikilink")、PowerBookのCPUとして採用されたほか、[ルーター](../Page/ルーター.md "wikilink")など組み込みシステム向けにも広く利用される。
+        32ビットRISC CPU。128ビット[SIMD](../Page/SIMD.md "wikilink")の[AltiVec](../Page/AltiVec.md "wikilink")を搭載し、「PowerPC G4」と呼ばれる。[Power Mac](../Page/Power_Mac.md "wikilink")、PowerBookのCPUとして採用されたほか、[ルーター](../Page/ルーター.md "wikilink")など組み込みシステム向けにも広く利用される。
 
 ## 2000年代前半 クロック数競争の終焉とマルチコア時代の到来
 
@@ -256,7 +256,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
 
 2004年末、インテルのPentium 4が採用していたNetBurstマイクロアーキテクチャは、発熱と消費電力の増加が抑えられず、ついに一般向けCPUの周波数が3.8GHzで頭打ちになった。インテルは周波数向上をあきらめ、64ビット･SIMD･プリフェッチ・マルチコアなどの技術で性能向上を図ることになる。これに関連して、インテルもAMDに続き[プロセッサー・ナンバー](../Page/プロセッサー・ナンバー.md "wikilink")を導入することになる。インテルは開発中のCPUをキャンセルしてクロックあたりの性能を重視した路線への転換を余儀なくされることとなった。
 
-業務用CPUでは、x86ベースの[PCサーバ](../Page/PCサーバ.md "wikilink")が広がり､インテルが[IA-64](https://ja.wikipedia.org/wiki/IA-64 "wikilink")をリリースして本格的にサーバCPUの牙城へと乗り出した。高性能CPUを製造するための投資が莫大なものとなり、従来[ワークステーション](../Page/ワークステーション.md "wikilink")分野や[サーバ](../Page/サーバ.md "wikilink")分野をリードしてきた[RISC](../Page/RISC.md "wikilink") CPUのメーカーも、他社との提携を行ったり組み込み分野に重点を置くなどの方向転換を行った。
+業務用CPUでは、x86ベースの[PCサーバ](../Page/PCサーバ.md "wikilink")が広がり､インテルが[IA-64](../Page/IA-64.md "wikilink")をリリースして本格的にサーバCPUの牙城へと乗り出した。高性能CPUを製造するための投資が莫大なものとなり、従来[ワークステーション](../Page/ワークステーション.md "wikilink")分野や[サーバ](../Page/サーバ.md "wikilink")分野をリードしてきた[RISC](../Page/RISC.md "wikilink") CPUのメーカーも、他社との提携を行ったり組み込み分野に重点を置くなどの方向転換を行った。
 
   - [2000年](../Page/2000年.md "wikilink") [2000年問題](../Page/2000年問題.md "wikilink")、大きな混乱なし。
   - 2000年 [サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink") 、[UltraSPARC III](../Page/SPARC.md "wikilink")
@@ -267,7 +267,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
   - 2000年3月 AMD Athlon の動作周波数が1[GHz](https://ja.wikipedia.org/wiki/GHz "wikilink")に到達。
   - 2000年10月　IBM、[RS64](../Page/RS64.md "wikilink")-IVを発表
       -
-        64ビットPowerPCマイクロプロセッサ。市場に出回った製品としては初めて[同時マルチスレッディング](https://ja.wikipedia.org/wiki/同時マルチスレッディング "wikilink")を実装した。RS64ファミリとしては最後の製品であり、その後は[POWER4](https://ja.wikipedia.org/wiki/POWER4 "wikilink")に道を譲ることとなった。
+        64ビットPowerPCマイクロプロセッサ。市場に出回った製品としては初めて[同時マルチスレッディング](../Page/同時マルチスレッディング.md "wikilink")を実装した。RS64ファミリとしては最後の製品であり、その後は[POWER4](https://ja.wikipedia.org/wiki/POWER4 "wikilink")に道を譲ることとなった。
   - 2000年11月 インテル [Pentium 4](../Page/Pentium_4.md "wikilink") 発表
       -
         32ビットCPU。高い周波数の動作を強く意識。マルチメディア用演算機能を拡張したSSE2を搭載。
@@ -276,14 +276,14 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
         32ビットサーバ用CPU。
   - 2001年5月 インテル [Itanium](../Page/Itanium.md "wikilink") 発売開始
       -
-        初めて[IA-64](https://ja.wikipedia.org/wiki/IA-64 "wikilink")アーキテクチャを実装したCPU。構想は[1999年](../Page/1999年.md "wikilink")10月に発表していた。新開発のIA-64命令に加えて、[IA-32](https://ja.wikipedia.org/wiki/IA-32 "wikilink")命令デコーダを搭載した64ビットサーバ用CPUで、他社のRISCプロセッサの置き換えを狙った。
+        初めて[IA-64](../Page/IA-64.md "wikilink")アーキテクチャを実装したCPU。構想は[1999年](../Page/1999年.md "wikilink")10月に発表していた。新開発のIA-64命令に加えて、[IA-32](../Page/IA-32.md "wikilink")命令デコーダを搭載した64ビットサーバ用CPUで、他社のRISCプロセッサの置き換えを狙った。
   - [2002年](../Page/2002年.md "wikilink") [IBM](../Page/IBM.md "wikilink") [POWER4](https://ja.wikipedia.org/wiki/POWER4 "wikilink")
       -
-        サーバ／[メインフレーム用CPU](https://ja.wikipedia.org/wiki/汎用コンピュータ "wikilink")。業界に先駆けて対称型[マルチコア](https://ja.wikipedia.org/wiki/マルチコア "wikilink")を採用した64ビットプロセッサで、その設計は後の[PowerPC 970のベースとなった](../Page/PowerPC_970.md "wikilink")。
+        サーバ／[メインフレーム用CPU](https://ja.wikipedia.org/wiki/汎用コンピュータ "wikilink")。業界に先駆けて対称型[マルチコア](../Page/マルチコア.md "wikilink")を採用した64ビットプロセッサで、その設計は後の[PowerPC 970のベースとなった](../Page/PowerPC_970.md "wikilink")。
   - 2002年5月 [ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) とコンパックが合併
   - 2002年4月 インテル [Itanium 2](https://ja.wikipedia.org/wiki/Itanium_2 "wikilink") 発売開始
       -
-        64ビットサーバ用CPU。メモリアクセス機能を改善、演算ユニットを増加させ性能を向上させた。[IA-32](https://ja.wikipedia.org/wiki/IA-32 "wikilink")性能を改善したものの、同時期の80x86プロセッサの性能には遠く及ばず、後継のプロセッサではIA-32命令デコード機能が削除された。
+        64ビットサーバ用CPU。メモリアクセス機能を改善、演算ユニットを増加させ性能を向上させた。[IA-32](../Page/IA-32.md "wikilink")性能を改善したものの、同時期の80x86プロセッサの性能には遠く及ばず、後継のプロセッサではIA-32命令デコード機能が削除された。
   - [2003年](../Page/2003年.md "wikilink")3月 インテル [Pentium M](../Page/Pentium_M.md "wikilink") 発売開始。
       -
         32ビットCPU。モバイルパソコンに特化したプロセッサであった。
@@ -305,7 +305,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
 <!-- end list -->
 
   -
-    [同時マルチスレッディング](https://ja.wikipedia.org/wiki/同時マルチスレッディング "wikilink")（SMT）機能を搭載し、ワンチップで2つのスレッドを実行可能。
+    [同時マルチスレッディング](../Page/同時マルチスレッディング.md "wikilink")（SMT）機能を搭載し、ワンチップで2つのスレッドを実行可能。
 
 <!-- end list -->
 
@@ -322,16 +322,16 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
 
 ## 2000年代後半 電力効率向上の流れ
 
-クロック周波数の急激な増大に伴い発熱と消費電力が増大の一途をたどり、マイクロアーキテクチャの複雑化とクロックの増大で性能を稼ぐ従来の方向性は行き詰まった。半導体の微細化につれて[リーク電流](../Page/リーク電流.md "wikilink")が加速度的に増大し、半導体回路を単純に微細化しても高速化につながりにくくなった。インテルとAMDで約2年ぐらいごとに行われていた新規のCPUコアの開発ペースも鈍化し、既存コアの改良に開発の重点が向けられる。なお[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")は、2007年に発表したコードネーム[Penryn](https://ja.wikipedia.org/wiki/Penryn "wikilink")より、[ムーアの法則](../Page/ムーアの法則.md "wikilink")に続くモデルとして、CPUの製造プロセスとアーキテクチャを1年ごとに交互に進化させていく「チックタックモデル」を導入している。「消費電力あたりの性能」が重要視され、マルチコアCPUが普及する。パーソナルコンピュータ向けでは2コアが主流だが、サーバ向けCPUでは「[UltraSPARC T1](../Page/UltraSPARC_T1.md "wikilink")」のようにマルチコアと[ハードウェアマルチスレッディング](../Page/ハードウェアマルチスレッディング.md "wikilink")によりワンチップで数十のスレッドを実行するCPUが現れる。単一[スレッドの実行速度は停滞気味となり](../Page/スレッド_\(コンピュータ\).md "wikilink")、ハードウェアによる[仮想化](../Page/仮想化.md "wikilink")機能の搭載や、相対的に低いクロックでも高い性能を引き出しやすい[SIMD](https://ja.wikipedia.org/wiki/SIMD "wikilink")の性能向上に力点が置かれるようになった。
+クロック周波数の急激な増大に伴い発熱と消費電力が増大の一途をたどり、マイクロアーキテクチャの複雑化とクロックの増大で性能を稼ぐ従来の方向性は行き詰まった。半導体の微細化につれて[リーク電流](../Page/リーク電流.md "wikilink")が加速度的に増大し、半導体回路を単純に微細化しても高速化につながりにくくなった。インテルとAMDで約2年ぐらいごとに行われていた新規のCPUコアの開発ペースも鈍化し、既存コアの改良に開発の重点が向けられる。なお[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")は、2007年に発表したコードネーム[Penryn](https://ja.wikipedia.org/wiki/Penryn "wikilink")より、[ムーアの法則](../Page/ムーアの法則.md "wikilink")に続くモデルとして、CPUの製造プロセスとアーキテクチャを1年ごとに交互に進化させていく「チックタックモデル」を導入している。「消費電力あたりの性能」が重要視され、マルチコアCPUが普及する。パーソナルコンピュータ向けでは2コアが主流だが、サーバ向けCPUでは「[UltraSPARC T1](../Page/UltraSPARC_T1.md "wikilink")」のようにマルチコアと[ハードウェアマルチスレッディング](../Page/ハードウェアマルチスレッディング.md "wikilink")によりワンチップで数十のスレッドを実行するCPUが現れる。単一[スレッドの実行速度は停滞気味となり](../Page/スレッド_\(コンピュータ\).md "wikilink")、ハードウェアによる[仮想化](../Page/仮想化.md "wikilink")機能の搭載や、相対的に低いクロックでも高い性能を引き出しやすい[SIMD](../Page/SIMD.md "wikilink")の性能向上に力点が置かれるようになった。
 
-  - 2005年1月 AMD [Turion 64概要発表](https://ja.wikipedia.org/wiki/Turion_64 "wikilink")。
-  - 2005年2月 [Cell](https://ja.wikipedia.org/wiki/Cell_Broadband_Engine "wikilink") 概要発表。
-    [ヘテロジニアスマルチコア](https://ja.wikipedia.org/wiki/ヘテロジニアスマルチコア "wikilink")。[プレイステーション3に搭載されたものは](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、8コアで3.2GHz動作。
-  - 2005年5月 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium D](https://ja.wikipedia.org/wiki/Pentium_D "wikilink")
+  - 2005年1月 AMD [Turion 64概要発表](../Page/Turion_64.md "wikilink")。
+  - 2005年2月 [Cell](../Page/Cell_Broadband_Engine.md "wikilink") 概要発表。
+    [ヘテロジニアスマルチコア](../Page/ヘテロジニアスマルチコア.md "wikilink")。[プレイステーション3に搭載されたものは](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、8コアで3.2GHz動作。
+  - 2005年5月 [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium D](../Page/Pentium_D.md "wikilink")
     [Intel VTと呼ばれるハードウェア仮想化機能をもつ](https://ja.wikipedia.org/wiki/Intel_VT "wikilink")。
   - 2005年5月 AMD マルチコア[Opteron](https://ja.wikipedia.org/wiki/Opteron "wikilink")
     第3世代のOpteron。
-  - 2005年6月 AMD [Athlon 64 X2](https://ja.wikipedia.org/wiki/Athlon_64_X2 "wikilink")
+  - 2005年6月 AMD [Athlon 64 X2](../Page/Athlon_64_X2.md "wikilink")
 
 <!-- end list -->
 
@@ -360,13 +360,13 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
     P6+アーキテクチャを拡張してパイプライン数を増やし、さらに128ビット処理が可能な広バンド幅ALUを搭載した高IPC設計。[Intel 64](https://ja.wikipedia.org/wiki/x64 "wikilink") 搭載。従来デスクトップパソコン向けに提供されていたNetBurstアーキテクチャが予想以上の発熱と消費電力の増大で限界を迎えたため、Pentium Dをも置き換えるCPUとなった。
   - 2006年10月　IBM 、サーバ向けCPU [POWER6](../Page/POWER_\(マイクロプロセッサ\).md "wikilink") を発表。
     コアごとに4MBの2次キャッシュ、毎秒75GBのメモリアクセス、65nmプロセスで4.5GHzを実現。POWERファミリでは初めて[VMXを搭載した](../Page/AltiVec.md "wikilink")。
-  - 2006年11月11日　ソニー・コンピュータエンタテインメント、[Cell](https://ja.wikipedia.org/wiki/Cell_Broadband_Engine "wikilink") 搭載の[プレイステーション3発売](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
+  - 2006年11月11日　ソニー・コンピュータエンタテインメント、[Cell](../Page/Cell_Broadband_Engine.md "wikilink") 搭載の[プレイステーション3発売](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
   - 2007年7月20日 Intelの次世代64ビットマイクロアーキテクチャ[Nehalemの実働試作CPUを発表](https://ja.wikipedia.org/wiki/Nehalemマイクロアーキテクチャ "wikilink")。あわせて32nm液浸リソグラフィによる試作ウエハと共に一般公開された。
   - 2007年11月12日　インテル、45nmプロセスで製作された Intel Core 2 プロセッサ （コードネーム : [Penryn](https://ja.wikipedia.org/wiki/Intel_Core_2#Penryn "wikilink")）を発表。
     [ハフニウム](../Page/ハフニウム.md "wikilink")を使ったHigh-K絶縁膜・金属ゲートを初めて採用、Super Shuffleエンジン、ATA命令などを新たに搭載、Radix-16 dividerによる高速な除算を実現。
   - 2007年11月19日 AMD K10マイクロアーキテクチャに基づいたデスクトップ用プロセッサ [Phenom](https://ja.wikipedia.org/wiki/Phenom "wikilink")を発表した。Phenomのバリエーションにおいてはクアッドコアの他に、世界初の x86 トリプルコア採用 CPU Phenom 8000 シリーズが発売された。
   - 2008年3月2日 インテル、低消費電力プロセッサ [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink") （コードネーム : Silverthorne）を発表。
-    あえて[アウトオブオーダー実行](https://ja.wikipedia.org/wiki/アウトオブオーダー実行 "wikilink")を採用せず、他方[同時マルチスレッディング](https://ja.wikipedia.org/wiki/同時マルチスレッディング "wikilink")を採用するなど、消費電力と性能に関する取り組みに特徴がある。
+    あえて[アウトオブオーダー実行](https://ja.wikipedia.org/wiki/アウトオブオーダー実行 "wikilink")を採用せず、他方[同時マルチスレッディング](../Page/同時マルチスレッディング.md "wikilink")を採用するなど、消費電力と性能に関する取り組みに特徴がある。
   - 2008年4月9日、サンと富士通は、UltraSPARC T2 Plus（コードネーム : Victoria Falls）発表。
     SMP対応機能が追加され、SMP構成で256ハードウェアスレッドをサポート。\[1\]\[2\]
   - 2008年11月 インテル、[Nehalemマイクロアーキテクチャ](https://ja.wikipedia.org/wiki/Nehalemマイクロアーキテクチャ "wikilink")を採用した第一世代Coreシリーズを発表。
@@ -399,9 +399,9 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
 
 ## 2010年代 CPUのSoC化
 
-2000年代には、クロック周波数当たりの性能を稼ぐために[SIMD](https://ja.wikipedia.org/wiki/SIMD "wikilink")などCPUに内蔵された命令の複雑化・多様化が進み､並列処理に特化した[GPUなどの専用回路もCPUの一機能として取り込まれつつある](../Page/Graphics_Processing_Unit.md "wikilink")。
+2000年代には、クロック周波数当たりの性能を稼ぐために[SIMD](../Page/SIMD.md "wikilink")などCPUに内蔵された命令の複雑化・多様化が進み､並列処理に特化した[GPUなどの専用回路もCPUの一機能として取り込まれつつある](../Page/Graphics_Processing_Unit.md "wikilink")。
 
-パーソナルコンピュータやPCサーバだけでなく、スーパーコンピュータやハイエンドのサーバーにおいてもx86の進出が進み、汎用CPUの分野においてはx86の勢力がますます強まった。一方、2010年代に入り著しくなっているのが、組み込み用途とデスクトップの境界領域にあたる携帯デバイスの成長である。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")など、[モバイルオペレーティングシステム](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")を搭載した情報機器にはパソコン並みの汎用性が強く求められ､組み込み向けプロセッサと汎用CPUの境界はあいまいとなりつつある。この分野においては多様なニーズに特化した[SoCに組み込まれる](../Page/System-on-a-chip.md "wikilink")[ARMアーキテクチャ](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")が標準の座を固め、[Atomなどのx](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")86プロセッサの進出は不調に終わった。
+パーソナルコンピュータやPCサーバだけでなく、スーパーコンピュータやハイエンドのサーバーにおいてもx86の進出が進み、汎用CPUの分野においてはx86の勢力がますます強まった。一方、2010年代に入り著しくなっているのが、組み込み用途とデスクトップの境界領域にあたる携帯デバイスの成長である。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")や[タブレットコンピュータ](https://ja.wikipedia.org/wiki/タブレットコンピュータ "wikilink")など、[モバイルオペレーティングシステム](https://ja.wikipedia.org/wiki/モバイルオペレーティングシステム "wikilink")を搭載した情報機器にはパソコン並みの汎用性が強く求められ､組み込み向けプロセッサと汎用CPUの境界はあいまいとなりつつある。この分野においては多様なニーズに特化した[SoCに組み込まれる](../Page/System-on-a-chip.md "wikilink")[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")が標準の座を固め、[Atomなどのx](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink")86プロセッサの進出は不調に終わった。
 
   - 2010年2月9日 IBM、[POWER7を発表](../Page/POWER_\(マイクロプロセッサ\).md "wikilink")。
 
@@ -527,7 +527,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
 
 2010年代後半になると、半導体の集積ペースの鈍化が顕著となり、「[ムーアの法則](../Page/ムーアの法則.md "wikilink")の終焉」が語られだした。最先端の半導体プロセスのコストは微細化のたびに高騰を続け、[東芝](../Page/東芝.md "wikilink")、[ルネサス](../Page/ルネサスエレクトロニクス.md "wikilink")、[GlobalFoundries](https://ja.wikipedia.org/wiki/GlobalFoundries "wikilink")など名だたる半導体メーカーは開発競争から次々と脱落。[IBM](../Page/IBM.md "wikilink")は半導体製造部門を譲渡し撤退した。[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")、[UMC](../Page/UMC.md "wikilink")も先端プロセスの立ち上げでもたつき、最先端ロジックの開発競争では世界最大手の半導体製造ファウンドリとしてトップを走る[TSMC](../Page/TSMC.md "wikilink")に[サムスン電子](../Page/サムスン電子.md "wikilink")が食いつく状態となっている。
 
-汎用プロセッサの性能向上ペースが緩やかになったため、[カスタムチップを活用した](../Page/ASIC.md "wikilink")[ハードウェアアクセラレーション](../Page/ハードウェアアクセラレーション.md "wikilink")の多用がトレンドとなる。半導体分野の技術革新はモバイルと高密度サーバが主導するようになり、ハイエンドコンピューティングの分野にもArmアーキテクチャが進出した。日々生成される[ビッグデータ](https://ja.wikipedia.org/wiki/ビッグデータ "wikilink")を活用して有用な知見を得るため「データセントリック・コンピューティング」が叫ばれ、サーバ各メーカーはArmや[RISC-V](https://ja.wikipedia.org/wiki/RISC-V "wikilink")コアと独自開発の専用回路を組み合わせた（例えば[機械学習](https://ja.wikipedia.org/wiki/機械学習 "wikilink")に特化した[TPUなど](https://ja.wikipedia.org/wiki/テンソル・プロセッシング・ユニット "wikilink")）ASICの開発を競うようになった。ただし、このようなASICは汎用CPUではないためこの項目では詳述しない。
+汎用プロセッサの性能向上ペースが緩やかになったため、[カスタムチップを活用した](../Page/ASIC.md "wikilink")[ハードウェアアクセラレーション](../Page/ハードウェアアクセラレーション.md "wikilink")の多用がトレンドとなる。半導体分野の技術革新はモバイルと高密度サーバが主導するようになり、ハイエンドコンピューティングの分野にもArmアーキテクチャが進出した。日々生成される[ビッグデータ](https://ja.wikipedia.org/wiki/ビッグデータ "wikilink")を活用して有用な知見を得るため「データセントリック・コンピューティング」が叫ばれ、サーバ各メーカーはArmや[RISC-V](https://ja.wikipedia.org/wiki/RISC-V "wikilink")コアと独自開発の専用回路を組み合わせた（例えば[機械学習](../Page/機械学習.md "wikilink")に特化した[TPUなど](https://ja.wikipedia.org/wiki/テンソル・プロセッシング・ユニット "wikilink")）ASICの開発を競うようになった。ただし、このようなASICは汎用CPUではないためこの項目では詳述しない。
 
   - 2015年8月 インテル、[Skylakeマイクロアーキテクチャ](https://ja.wikipedia.org/wiki/Skylakeマイクロアーキテクチャ "wikilink")を採用した第6世代Coreシリーズを発表。
 
@@ -545,7 +545,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
 <!-- end list -->
 
   -
-    64ビットマルチコアCPU。全モデル動作周波数の増加(最大で300MHz)。CPUに接続された最大16の[PCI Express](https://ja.wikipedia.org/wiki/PCI_Express "wikilink") 3.0レーン。[PCHに接続された最大](../Page/サウスブリッジ.md "wikilink")24のPCI Express 3.0レーンに対応。Intel [Optane](https://ja.wikipedia.org/wiki/Optane "wikilink") テクノロジーのサポート
+    64ビットマルチコアCPU。全モデル動作周波数の増加(最大で300MHz)。CPUに接続された最大16の[PCI Express](../Page/PCI_Express.md "wikilink") 3.0レーン。[PCHに接続された最大](../Page/サウスブリッジ.md "wikilink")24のPCI Express 3.0レーンに対応。Intel [Optane](https://ja.wikipedia.org/wiki/Optane "wikilink") テクノロジーのサポート
     今まであった｢Core m5｣･｢Core m7｣はブランドから排除された。プロセスルールは14nmから変更はない。
 
 <!-- end list -->
@@ -631,7 +631,7 @@ CPUの分野では業務用向けに[64ビット](https://ja.wikipedia.org/wiki/
 <!-- end list -->
 
   -
-    Arm v8.2準拠のメニーコアプロセッサ。「[京](https://ja.wikipedia.org/wiki/京_\(スーパーコンピュータ\) "wikilink")」の後継機「[富岳](https://ja.wikipedia.org/wiki/富岳_\(スーパーコンピュータ\) "wikilink")」に搭載されるほか、[クレイ](https://ja.wikipedia.org/wiki/クレイ "wikilink")も自社ハードウェアに採用の意向を示している。
+    Arm v8.2準拠のメニーコアプロセッサ。「[京](https://ja.wikipedia.org/wiki/京_\(スーパーコンピュータ\) "wikilink")」の後継機「[富岳](https://ja.wikipedia.org/wiki/富岳_\(スーパーコンピュータ\) "wikilink")」に搭載されるほか、[クレイ](../Page/クレイ.md "wikilink")も自社ハードウェアに採用の意向を示している。
 
 <!-- end list -->
 

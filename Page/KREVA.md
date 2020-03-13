@@ -9,25 +9,25 @@
 
 ### BY PHAR THE DOPEST時代
 
-[東京都立国際高等学校](https://ja.wikipedia.org/wiki/東京都立国際高等学校 "wikilink")を経て、[慶應義塾大学環境情報学部](https://ja.wikipedia.org/wiki/慶應義塾大学環境情報学部 "wikilink")（SFC）に進学。在学中の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に、小学生時代からの同級生であるCUE（現・[CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink")）と共にBY PHAR THE DOPESTを結成し、[アンダーグラウンドでの活動を始める](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\) "wikilink")。卒業後も、その活動を1998年頃まで続け、アルバム『BY PHAR THE DOPEST』をリリースするまでに至る。
+[東京都立国際高等学校](../Page/東京都立国際高等学校.md "wikilink")を経て、[慶應義塾大学環境情報学部](https://ja.wikipedia.org/wiki/慶應義塾大学環境情報学部 "wikilink")（SFC）に進学。在学中の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に、小学生時代からの同級生であるCUE（現・[CUEZERO](../Page/CUEZERO.md "wikilink")）と共にBY PHAR THE DOPESTを結成し、[アンダーグラウンドでの活動を始める](../Page/アンダーグラウンド_\(文化\).md "wikilink")。卒業後も、その活動を1998年頃まで続け、アルバム『BY PHAR THE DOPEST』をリリースするまでに至る。
 
 ### KICK THE CAN CREW時代
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から、[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")と[DJ SHUHO](../Page/DJ_SHUHO.md "wikilink")、[MCUとともに活動を開始したKICK](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink") THE CAN CREWでは、MCとほぼすべての曲のトラックメーキングを担当。2002年には、「マルシェ」で[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")出場を果たす。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から、[LITTLE](../Page/LITTLE.md "wikilink")と[DJ SHUHO](../Page/DJ_SHUHO.md "wikilink")、[MCUとともに活動を開始したKICK](../Page/MCU_\(ラッパー\).md "wikilink") THE CAN CREWでは、MCとほぼすべての曲のトラックメーキングを担当。2002年には、「マルシェ」で[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")出場を果たす。
 
 ### ソロ活動時代
 
-[2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink")、[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")での2daysライブを最後にKICK THE CAN CREWの活動を休止。同年、自らを、「新人クレバ」と称し、ソロ活動を開始した。自身の誕生日[6月18日](../Page/6月18日.md "wikilink")、インディーズからシングル「希望の炎」を10908枚限定リリース。そして[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")、ポニーキャニオン内[レーベルの](../Page/レコードレーベル.md "wikilink")"Knife Edge"から、シングル「音色」でメジャーデビューし、本格的なソロ活動を開始。10月には、2ndシングル「ひとりじゃないのよ」、11月には、ファースト・アルバム『[新人クレバ](../Page/新人クレバ.md "wikilink")』をリリース。
+[2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink")、[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")での2daysライブを最後にKICK THE CAN CREWの活動を休止。同年、自らを、「新人クレバ」と称し、ソロ活動を開始した。自身の誕生日[6月18日](../Page/6月18日.md "wikilink")、インディーズからシングル「希望の炎」を10908枚限定リリース。そして[9月8日](../Page/9月8日.md "wikilink")、ポニーキャニオン内[レーベルの](../Page/レコードレーベル.md "wikilink")"Knife Edge"から、シングル「音色」でメジャーデビューし、本格的なソロ活動を開始。10月には、2ndシングル「ひとりじゃないのよ」、11月には、ファースト・アルバム『[新人クレバ](../Page/新人クレバ.md "wikilink")』をリリース。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、インディーズデビューから約1年を経て、「新人クレバ」から「KREVA 2nd season」と銘を変え、更なる活動を展開。「ファンキーグラマラス feat.Mummy-D（マボロシ/Rhymester）」「イッサイガッサイ」「スタート」「国民的行事」と前年を超える4枚のシングルをリリースした。
+[2005年](../Page/2005年.md "wikilink")、インディーズデビューから約1年を経て、「新人クレバ」から「KREVA 2nd season」と銘を変え、更なる活動を展開。「ファンキーグラマラス feat.Mummy-D（マボロシ/Rhymester）」「イッサイガッサイ」「スタート」「国民的行事」と前年を超える4枚のシングルをリリースした。
 
-[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に、アルバム『[愛・自分博](../Page/愛・自分博.md "wikilink")』をリリースし、邦楽ヒップホップ“ソロアーティスト”初の[オリコンウィークリーチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位（2月13日付け）を獲得。同アルバムを引き下げたツアー「KREVA TOUR 2006 愛・自分博 〜国民的行事〜」の千秋楽でも、邦楽ヒップホップ“ソロアーティスト”初となる[日本武道館](../Page/日本武道館.md "wikilink")公演を果たす。9月には、「SPACE SHOWER SWEET LOVE SHOWER 2006」で、10年ぶりにBY PHAR THE DOPESTとしての活動を再開。シングル「恥じゃない」、アルバム『[だからどうした\!](../Page/だからどうした!.md "wikilink")』を発売。また、[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")のツアー『TOUR2006 THANK YOU YOSHII KAZUYA』のオープニングも手掛けた。
+[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に、アルバム『[愛・自分博](../Page/愛・自分博.md "wikilink")』をリリースし、邦楽ヒップホップ“ソロアーティスト”初の[オリコンウィークリーチャート](../Page/オリコンチャート.md "wikilink")1位（2月13日付け）を獲得。同アルバムを引き下げたツアー「KREVA TOUR 2006 愛・自分博 〜国民的行事〜」の千秋楽でも、邦楽ヒップホップ“ソロアーティスト”初となる[日本武道館](../Page/日本武道館.md "wikilink")公演を果たす。9月には、「SPACE SHOWER SWEET LOVE SHOWER 2006」で、10年ぶりにBY PHAR THE DOPESTとしての活動を再開。シングル「恥じゃない」、アルバム『[だからどうした\!](../Page/だからどうした!.md "wikilink")』を発売。また、[吉井和哉](../Page/吉井和哉.md "wikilink")のツアー『TOUR2006 THANK YOU YOSHII KAZUYA』のオープニングも手掛けた。
 
-[2007年](../Page/2007年.md "wikilink")5月からは、[TOKYO FM及び](../Page/エフエム東京.md "wikilink")[JFNのヒューマン](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")・コンシャス・プロジェクトの一環として、[久保田利伸](../Page/久保田利伸.md "wikilink")とのツアーを実施し、[久保田利伸 meets KREVA名義で](../Page/久保田利伸_meets_KREVA.md "wikilink")[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")シングルをリリース。6月からは、邦楽ヒップホップ“ソロアーティスト”初の大ホールツアーとして、「KREVA CONCERT TOUR '07 SEASON-1『意味深』」を開催。[5月25日](../Page/5月25日.md "wikilink")、[渋谷センター街](../Page/渋谷センター街.md "wikilink")のボードにて夏に3rdアルバム（[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")）のリリースと、6月に[草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）とのコラボレーションを発表したことも話題となった。10月からは、この年2度目のツアーとなる「KREVA CONCERT TOUR '07 『K-ing』」を開催。さらに「[テレビ朝日](../Page/テレビ朝日.md "wikilink")開局50周年記念 KREVA CONCERT TOUR '07」として、11月23日より2日間（1日目はゲストデー、2日目はノンゲストデーとして）、自身2度目の武道館で開催した。ゲストデーには、ツアーに帯同した5人に加え、[CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink")、[DABO](../Page/DABO.md "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")、[久保田利伸](../Page/久保田利伸.md "wikilink")、[ALI-KICK](https://ja.wikipedia.org/wiki/ALI-KICK "wikilink")、[KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink")、[SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")らが出演。ノンゲストデーでは、MC、DJなどすべて1人でライブを進行してみせた。
+[2007年](../Page/2007年.md "wikilink")5月からは、[TOKYO FM及び](../Page/エフエム東京.md "wikilink")[JFNのヒューマン](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")・コンシャス・プロジェクトの一環として、[久保田利伸](../Page/久保田利伸.md "wikilink")とのツアーを実施し、[久保田利伸 meets KREVA名義で](../Page/久保田利伸_meets_KREVA.md "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")シングルをリリース。6月からは、邦楽ヒップホップ“ソロアーティスト”初の大ホールツアーとして、「KREVA CONCERT TOUR '07 SEASON-1『意味深』」を開催。[5月25日](../Page/5月25日.md "wikilink")、[渋谷センター街](../Page/渋谷センター街.md "wikilink")のボードにて夏に3rdアルバム（[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")）のリリースと、6月に[草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")）とのコラボレーションを発表したことも話題となった。10月からは、この年2度目のツアーとなる「KREVA CONCERT TOUR '07 『K-ing』」を開催。さらに「[テレビ朝日](../Page/テレビ朝日.md "wikilink")開局50周年記念 KREVA CONCERT TOUR '07」として、11月23日より2日間（1日目はゲストデー、2日目はノンゲストデーとして）、自身2度目の武道館で開催した。ゲストデーには、ツアーに帯同した5人に加え、[CUEZERO](../Page/CUEZERO.md "wikilink")、[DABO](../Page/DABO.md "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")、[久保田利伸](../Page/久保田利伸.md "wikilink")、[ALI-KICK](https://ja.wikipedia.org/wiki/ALI-KICK "wikilink")、[KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink")、[SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")らが出演。ノンゲストデーでは、MC、DJなどすべて1人でライブを進行してみせた。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")には、自身初となる[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の『[クレバのベスト盤](../Page/クレバのベスト盤.md "wikilink")』を発売。また、映画『[隠し砦の三悪人 THE LAST PRINCESS](../Page/隠し砦の三悪人_THE_LAST_PRINCESS.md "wikilink")』に出演。同映画の主題歌「[裏切り御免](https://ja.wikipedia.org/wiki/裏切り御免 "wikilink")」を、KREVA、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[亀田誠治](../Page/亀田誠治.md "wikilink")による期間限定ユニット「[The THREE](https://ja.wikipedia.org/wiki/The_THREE "wikilink")」が担当した。5月後半より、全国ツアー「クレハーカップ」を全国13か所17公演で開催し、約5万5千人を動員した。同年[8月3日](../Page/8月3日.md "wikilink")に、[国営ひたち海浜公園](https://ja.wikipedia.org/wiki/国営ひたち海浜公園 "wikilink")で開催された野外イベント「[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008」ではLITTLEとMCUと共に4年振りに「イツナロウバ」「アンバランス」の2曲を披露した。同月には、MTVのアコースティック・ライブ「MTV UNPLUGGED KREVA」に出演した。9月3日には自身初となるPV集『チャートバスターズK\!』をリリースし、オリコンDVD音楽ウィークリーチャート初登場1位を獲得した。しかしながら、この年はシングル曲のリリースは、ソロ活動以降初めて0に終わった。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")には、自身初となる[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")の『[クレバのベスト盤](../Page/クレバのベスト盤.md "wikilink")』を発売。また、映画『[隠し砦の三悪人 THE LAST PRINCESS](../Page/隠し砦の三悪人_THE_LAST_PRINCESS.md "wikilink")』に出演。同映画の主題歌「[裏切り御免](https://ja.wikipedia.org/wiki/裏切り御免 "wikilink")」を、KREVA、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[亀田誠治](../Page/亀田誠治.md "wikilink")による期間限定ユニット「[The THREE](https://ja.wikipedia.org/wiki/The_THREE "wikilink")」が担当した。5月後半より、全国ツアー「クレハーカップ」を全国13か所17公演で開催し、約5万5千人を動員した。同年[8月3日](../Page/8月3日.md "wikilink")に、[国営ひたち海浜公園](../Page/国営ひたち海浜公園.md "wikilink")で開催された野外イベント「[ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2008」ではLITTLEとMCUと共に4年振りに「イツナロウバ」「アンバランス」の2曲を披露した。同月には、MTVのアコースティック・ライブ「MTV UNPLUGGED KREVA」に出演した。9月3日には自身初となるPV集『チャートバスターズK\!』をリリースし、オリコンDVD音楽ウィークリーチャート初登場1位を獲得した。しかしながら、この年はシングル曲のリリースは、ソロ活動以降初めて0に終わった。
 
-[2009年](../Page/2009年.md "wikilink")、3か月連続配信曲を配信することを発表し、第一弾となる「成功」を1月7日から配信。「I Wanna know you」「Magic Remix (KREVA×[三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")) 勝手にリミックスシリーズ Vol.2」など、全四曲を第二弾として2月4日に配信、第三弾として「生まれてきてありがとう（feat.さかいゆう）」を3月4日に配信した。そして約1年半振りにシングルCD「青」を3月18日にリリースした。また、この年最初のツアーである「意味深2」を4月8日に[大阪城ホール](../Page/大阪城ホール.md "wikilink")で、4月18、19日に[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")2daysで開催した。7月8日にシングルCD「赤」、9月8日にアルバム『心臓』をリリース、さらには、10月14日に、[古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")×KREVA コラボレーションシングル「[A to XYZ/スロウビート](https://ja.wikipedia.org/wiki/A_to_XYZ/スロウビート "wikilink")」をリリースさせた。そして、9月からはRound別に分けた全国ツアー「KREVA CONCERT TOUR7'09-'10『心臓』」を開催。
+[2009年](../Page/2009年.md "wikilink")、3か月連続配信曲を配信することを発表し、第一弾となる「成功」を1月7日から配信。「I Wanna know you」「Magic Remix (KREVA×[三浦大知](../Page/三浦大知.md "wikilink")) 勝手にリミックスシリーズ Vol.2」など、全四曲を第二弾として2月4日に配信、第三弾として「生まれてきてありがとう（feat.さかいゆう）」を3月4日に配信した。そして約1年半振りにシングルCD「青」を3月18日にリリースした。また、この年最初のツアーである「意味深2」を4月8日に[大阪城ホール](../Page/大阪城ホール.md "wikilink")で、4月18、19日に[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")2daysで開催した。7月8日にシングルCD「赤」、9月8日にアルバム『心臓』をリリース、さらには、10月14日に、[古内東子](https://ja.wikipedia.org/wiki/古内東子 "wikilink")×KREVA コラボレーションシングル「[A to XYZ/スロウビート](https://ja.wikipedia.org/wiki/A_to_XYZ/スロウビート "wikilink")」をリリースさせた。そして、9月からはRound別に分けた全国ツアー「KREVA CONCERT TOUR7'09-'10『心臓』」を開催。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、「KREVA CONCERT TOUR'09-'10『心臓』」の集大成、Round3が1月16日に大阪城ホールにて、2月6日、7日に横浜アリーナ2daysで開催され、全Roundともに無事に成功を収めてツアーは終了した。8月下旬、「腰椎椎間板性急性腰痛症」になってしまい出演予定だったイベントなどの出演がキャンセルされた。9月、自身がパーソナリティーを務めるラジオ番組にて復活する。9月15日に自身初のミニアルバム『[OASYS](https://ja.wikipedia.org/wiki/OASYS_\(アルバム\) "wikilink")』が発売された。10月には[OASYSをベースとしたライブ](https://ja.wikipedia.org/wiki/OASYS_\(アルバム\) "wikilink")「意味深3」が日本武道館2daysで開催され、バックバンドメンバーに[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")を迎えている。
 
@@ -39,7 +39,7 @@
 
 ## 人物
 
-  - [血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink")178cm。名前の由来は[英単語](../Page/英語.md "wikilink")*clever*（「ずる賢い」の意）から。
+  - [血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[身長](../Page/身長.md "wikilink")178cm。名前の由来は[英単語](../Page/英語.md "wikilink")*clever*（「ずる賢い」の意）から。
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")、[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")など様々なアーティストの楽曲のリミックスや客演等も行い、CUEZERO、 [SONOMIを率いて自らのレーベル](../Page/SONOMI_\(歌手\).md "wikilink")「[くレーベル](../Page/くレーベル.md "wikilink")」を発足し、プロデューサーとしても活動。[DJ TATSUTAと結成した](../Page/DJ_TATSUTA.md "wikilink")[顔PASSブラザーズ](https://ja.wikipedia.org/wiki/顔PASSブラザーズ "wikilink")、[BLAST RAMPAGEの](https://ja.wikipedia.org/wiki/BLAST_RAMPAGE "wikilink")[千晴](https://ja.wikipedia.org/wiki/千晴 "wikilink")と結成した[ストレスFREE](https://ja.wikipedia.org/wiki/ストレスFREE "wikilink")としても活動。
   - 「[B-BOY PARK](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink")」の[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")\[2\] にて史上初の3連覇（[1999年](../Page/1999年.md "wikilink") - [2001年](../Page/2001年.md "wikilink")）を達成。2001年をもって大会殿堂入りを果たしている。
   - 2004年からソロ活動を始めた理由は、思いついたメロディや言葉を、聞こえてきたまま、形にしたかったからと述べている。また、グループだから聞かないという人に向けたものをやりたかったという\[3\]。
@@ -475,7 +475,7 @@ CD+DVD</p></td>
   - ラップおじいちゃん feat. [AMIDA](../Page/アミダ_\(ミュージシャン\).md "wikilink"), KREVA（2005年12月21日）
       - [餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")、アルバム『GO 4 BROKE』に収録
   - ウィークエンド・シャッフル feat. MCU, [RYO-Z](../Page/RYO-Z.md "wikilink"), KREVA, CUEZERO, [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [SU](https://ja.wikipedia.org/wiki/SU "wikilink"), LITTLE, [ILMARI](../Page/ILMARI.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), SONOMI, [PES](../Page/PES.md "wikilink"), [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink"), 童子-T（2006年3月6日）
-      - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")、アルバム『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』に収録
+      - [RHYMESTER](../Page/RHYMESTER.md "wikilink")、アルバム『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』に収録
   - ライツ、カメラ、アクション Remix feat. KREVA（2006年5月3日）
       - レミー・マー、アルバム『THERE'S SOMETHING ABOUT REMY : BASED ON A TRUE STORY』に収録
   - TA-KA-YO-U-JI(侍バウンス) feat. KREVA（2007年2月21日）
@@ -498,7 +498,7 @@ CD+DVD</p></td>
   - STEP UP feat. KREVA（2008年6月18日）
       - [L-VOKAL](../Page/L-VOKAL.md "wikilink")、シングル『[STEP UP feat.KREVA](../Page/STEP_UP_feat.KREVA.md "wikilink")』に収録
   - Your Love feat. KREVA（2009年2月11日）
-      - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")、シングル『[Your Love feat.KREVA](https://ja.wikipedia.org/wiki/Your_Love_feat.KREVA "wikilink")』に収録
+      - [三浦大知](../Page/三浦大知.md "wikilink")、シングル『[Your Love feat.KREVA](https://ja.wikipedia.org/wiki/Your_Love_feat.KREVA "wikilink")』に収録
   - 1 on 1 feat. KREVA（2009年6月10日）
       - [COMA-CHI](../Page/COMA-CHI.md "wikilink")、アルバム『LOVE ME PLEASE\!』に収録
   - ごめんね feat. KREVA（2009年7月8日）
@@ -506,7 +506,7 @@ CD+DVD</p></td>
   - Private Dancers feat. Mummy-D & KREVA（2009年9月2日）
       - [Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")、アルバム『[BEST of CRYSTAL KAY](https://ja.wikipedia.org/wiki/BEST_of_CRYSTAL_KAY "wikilink")』（初回限定盤のみ Disc-3）に収録
   - Magic Remix / KREVA×三浦大知（勝手にリミックスシリーズ Vol.2）（2009年9月16日）
-      - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")、アルバム『[Who's The Man](https://ja.wikipedia.org/wiki/Who's_The_Man "wikilink")』に収録
+      - [三浦大知](../Page/三浦大知.md "wikilink")、アルバム『[Who's The Man](https://ja.wikipedia.org/wiki/Who's_The_Man "wikilink")』に収録
   - I REP / DABO, Anarchy, KREVA (2010年06月30日)
       - 配信シングル (7月17日発売のManhattan Records "The Exclusives" Japanese Hip Hop Hits Mixed by DJ HAZIMEのエクスクルーシヴ・トラックとして製作、収録)その後、2010年11月03日発売のDABOのアルバム「[HI-FIVE](https://ja.wikipedia.org/wiki/HI-FIVE "wikilink")」にも収録
   - WONDERFUL X'MAS - [L-VOKAL](../Page/L-VOKAL.md "wikilink"), EGO, Dr.K　（2010年12月）
@@ -546,7 +546,7 @@ CD+DVD</p></td>
   - [最後のニュース](../Page/最後のニュース.md "wikilink")（2019年11月27日）
       - オムニバスアルバム「井上陽水トリビュート」に収録
   - 嫌気がさすほど愛してる（feat. KREVA）（2020年1月1日）
-      - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")「[20200101](https://ja.wikipedia.org/wiki/20200101 "wikilink")」に収録
+      - [香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")「[20200101](../Page/20200101.md "wikilink")」に収録
   - 「火事と喧嘩は江戸の華」 feat. KREVA（2020年2月19日）
       - [石川さゆり](../Page/石川さゆり.md "wikilink")「粋～Iki～」に収録
 
@@ -555,7 +555,7 @@ CD+DVD</p></td>
   - Strawberry（KREVA Remix）（2000年2月26日）
       - JOY、シングル『Strawberry』に収録
   - time after time 〜KREVA Remix feat. MCU〜（2000年6月7日）
-      - [EARTH](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\) "wikilink")、シングル「[time after time 〜HIP HOP SOUL Version〜](https://ja.wikipedia.org/wiki/time_after_time_-HIP_HOP_SOUL_Version- "wikilink")」に収録
+      - [EARTH](../Page/EARTH_\(歌手グループ\).md "wikilink")、シングル「[time after time 〜HIP HOP SOUL Version〜](https://ja.wikipedia.org/wiki/time_after_time_-HIP_HOP_SOUL_Version- "wikilink")」に収録
   - 映画『[ケイゾク](https://ja.wikipedia.org/wiki/ケイゾク/映画_Beautiful_Dreamer "wikilink")』KREVA REMIX（2000年9月1日）
       - 12inchシングル『BURGER INN RECORDS』に収録
   - U 〜KREVA REMIX〜 feat. KICK THE CAN CREW
@@ -588,7 +588,7 @@ CD+DVD</p></td>
   - 「Still In My Mind」（2011年8月3日）
       - [久保田利伸](../Page/久保田利伸.md "wikilink")、アルバム「[Gold Skool](https://ja.wikipedia.org/wiki/Gold_Skool "wikilink")」に収録
   - 「FANTASISTA」（2012年4月18日）
-      - [宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")、アルバム「[FANTASISTA](https://ja.wikipedia.org/wiki/FANTASISTA_\(宮野真守のアルバム\) "wikilink")」に収録
+      - [宮野真守](../Page/宮野真守.md "wikilink")、アルバム「[FANTASISTA](https://ja.wikipedia.org/wiki/FANTASISTA_\(宮野真守のアルバム\) "wikilink")」に収録
   - 「It's My Turn」（2012年12月5日）
       - [KLOOZ](https://ja.wikipedia.org/wiki/KLOOZ "wikilink")、アルバム「DECORATION」に収録
   - L-VOKAL、配信シングル「YO\! YOU\!」（2013年8月21日）（以下のアルバムにも収録）
@@ -911,7 +911,7 @@ CD+DVD</p></td>
 <li>2012.01.21 福岡 <a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a></li>
 <li>2012.01.27 愛知 <a href="../Page/愛知県芸術劇場.md" title="wikilink">愛知県芸術劇場</a>大ホール</li>
 <li>2012.01.28 京都 <a href="https://ja.wikipedia.org/wiki/京都会館" title="wikilink">京都会館</a>第一ホール</li>
-<li>2012.02.03 兵庫 <a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸国際会館</a>こくさいホール</li>
+<li>2012.02.03 兵庫 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a>こくさいホール</li>
 <li>2012.02.05 広島 <a href="https://ja.wikipedia.org/wiki/広島ALSOKホール" title="wikilink">広島ALSOKホール</a></li>
 <li>2012.02.11 神奈川 <a href="https://ja.wikipedia.org/wiki/神奈川県民ホール神奈川県民ホール_大ホール" title="wikilink">神奈川県民ホール神奈川県民ホール 大ホール</a></li>
 <li>2012.02.17 香川 <a href="https://ja.wikipedia.org/wiki/サンポートホール高松" title="wikilink">サンポートホール高松</a></li>
@@ -1124,13 +1124,13 @@ CD+DVD</p></td>
 <li>dj908</li>
 <li><a href="https://ja.wikipedia.org/wiki/HI-SO" title="wikilink">HI-SO</a></li>
 <li><a href="../Page/Mummy-D.md" title="wikilink">Mummy-D</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MIYAVI" title="wikilink">MIYAVI</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/LITTLE" title="wikilink">LITTLE</a></li>
+<li><a href="../Page/MIYAVI.md" title="wikilink">MIYAVI</a></li>
+<li><a href="../Page/LITTLE.md" title="wikilink">LITTLE</a></li>
 <li>KREVA Band</li>
 </ul>
 <p>(<a href="../Page/柿崎洋一郎.md" title="wikilink">柿崎洋一郎</a>,<a href="https://ja.wikipedia.org/wiki/岡雄三" title="wikilink">岡雄三</a>,<a href="https://ja.wikipedia.org/wiki/近田潔人" title="wikilink">近田潔人</a>,<a href="https://ja.wikipedia.org/wiki/白根佳尚" title="wikilink">白根佳尚</a>)</p>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a> ※Special Guest</li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a> ※Special Guest</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -1144,7 +1144,7 @@ CD+DVD</p></td>
 <div class="NavContent" style="text-align:left;">
 <ul>
 <li>KREVA</li>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -1168,7 +1168,7 @@ CD+DVD</p></td>
 <li><a href="https://ja.wikipedia.org/wiki/SKY-HI" title="wikilink">SKY-HI</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SONOMI" title="wikilink">SONOMI</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/HI-SO" title="wikilink">HI-SO</a>&amp;<a href="../Page/LB.md" title="wikilink">LB</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MIYAVI" title="wikilink">MIYAVI</a></li>
+<li><a href="../Page/MIYAVI.md" title="wikilink">MIYAVI</a></li>
 <li>KREVA Band</li>
 </ul>
 <p>(<a href="https://ja.wikipedia.org/wiki/熊井吾郎" title="wikilink">熊井吾郎</a>,<a href="https://ja.wikipedia.org/wiki/菱山正太" title="wikilink">菱山正太</a>,<a href="https://ja.wikipedia.org/wiki/岡雄三" title="wikilink">岡雄三</a>,<a href="https://ja.wikipedia.org/wiki/白根佳尚" title="wikilink">白根佳尚</a>)</p>
@@ -1188,7 +1188,7 @@ CD+DVD</p></td>
 <ul>
 <li>KREVA</li>
 <li><a href="https://ja.wikipedia.org/wiki/AKLO" title="wikilink">AKLO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
 <li>908FES HOUSE BAND</li>
 </ul>
 <p>(<a href="https://ja.wikipedia.org/wiki/熊井吾郎" title="wikilink">熊井吾郎</a>,<a href="../Page/柿崎洋一郎.md" title="wikilink">柿崎洋一郎</a>,<a href="https://ja.wikipedia.org/wiki/岡雄三" title="wikilink">岡雄三</a>,<a href="https://ja.wikipedia.org/wiki/近田潔人" title="wikilink">近田潔人</a>,<a href="https://ja.wikipedia.org/wiki/白根佳尚" title="wikilink">白根佳尚</a>)</p></td>
@@ -1216,8 +1216,8 @@ CD+DVD</p></td>
 <li><a href="../Page/KICK_THE_CAN_CREW.md" title="wikilink">KICK THE CAN CREW</a></li>
 <li><a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a></li>
 <li><a href="../Page/鈴木雅之_(歌手).md" title="wikilink">鈴木雅之</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a></li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
+<li><a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/UL" title="wikilink">UL</a> ※Special Guest</li>
 <li>908FES HOUSE BAND</li>
 </ul>
@@ -1235,8 +1235,8 @@ CD+DVD</p></td>
 <ul>
 <li>KREVA</li>
 <li><a href="https://ja.wikipedia.org/wiki/AKLO" title="wikilink">AKLO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MIYAVI" title="wikilink">MIYAVI</a></li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
+<li><a href="../Page/MIYAVI.md" title="wikilink">MIYAVI</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SONOMI" title="wikilink">SONOMI</a> ※Special Guest</li>
 </ul></td>
 </tr>
@@ -1252,8 +1252,8 @@ CD+DVD</p></td>
 <ul>
 <li>KREVA</li>
 <li><a href="https://ja.wikipedia.org/wiki/AKLO" title="wikilink">AKLO</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/MIYAVI" title="wikilink">MIYAVI</a></li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
+<li><a href="../Page/MIYAVI.md" title="wikilink">MIYAVI</a></li>
 <li><a href="../Page/SHINGO☆西成.md" title="wikilink">SHINGO☆西成</a> ※Special Guest</li>
 </ul></td>
 </tr>
@@ -1280,7 +1280,7 @@ CD+DVD</p></td>
 <li><a href="../Page/KICK_THE_CAN_CREW.md" title="wikilink">KICK THE CAN CREW</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/さかいゆう" title="wikilink">さかいゆう</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/SONOMI" title="wikilink">SONOMI</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -1294,7 +1294,7 @@ CD+DVD</p></td>
 <div class="NavContent" style="text-align:left;">
 <ul>
 <li>KREVA</li>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -1308,7 +1308,7 @@ CD+DVD</p></td>
 <div class="NavContent" style="text-align:left;">
 <ul>
 <li>KREVA</li>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/AKLO" title="wikilink">AKLO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/YOKOI" title="wikilink">YOKOI</a> from <a href="https://ja.wikipedia.org/wiki/WRECKING_CREW_ORCHESTRA" title="wikilink">WRECKING CREW ORCHESTRA</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/EL_SQUAD" title="wikilink">EL SQUAD</a></li>
@@ -1325,7 +1325,7 @@ CD+DVD</p></td>
 <div class="NavContent" style="text-align:left;">
 <ul>
 <li>KREVA</li>
-<li><a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></li>
+<li><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/AKLO" title="wikilink">AKLO</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/赤い公園" title="wikilink">赤い公園</a></li>
 <li><a href="../Page/渡辺直美.md" title="wikilink">渡辺直美</a></li>
@@ -1384,7 +1384,7 @@ CD+DVD</p></td>
   - 2008年12月31日 - COUNTDOWN JAPAN 08/09 -WEST-
   - 2009年01月25日 - au by KDDI presents [オンタマ](../Page/オンタマ.md "wikilink")カーニバル 2009
   - 2009年03月14日 - SPACE SHOWER TV 20th Anniversary くるしゅ〜ナイト★フィーバー
-  - 2009年07月18日 - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink") SUMMER SEMINER 〜Encore of Our Love
+  - 2009年07月18日 - [三浦大知](../Page/三浦大知.md "wikilink") SUMMER SEMINER 〜Encore of Our Love
   - 2009年07月19日 - ap bank fes '09
   - 2009年07月25日 - SETSTOCK'09
   - 2009年08月02日 - ROCK IN JAPAN FESTIVAL 2009
@@ -1490,7 +1490,7 @@ CD+DVD</p></td>
 
 ### 映画
 
-  - [ローレライ](https://ja.wikipedia.org/wiki/ローレライ_\(映画\) "wikilink")（2005年） - 機関員 小松春平
+  - [ローレライ](../Page/ローレライ_\(映画\).md "wikilink")（2005年） - 機関員 小松春平
   - [隠し砦の三悪人 THE LAST PRINCESS](../Page/隠し砦の三悪人_THE_LAST_PRINCESS.md "wikilink")（2008年） - 刑部付きの侍
   - [進撃の巨人](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")（2015年） - 役名なし
   - [シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")（2016年） - 村崎 第2戦車中隊長\[7\]
@@ -1506,7 +1506,7 @@ CD+DVD</p></td>
 
 BY PHAR THE DOPEST及びKICK THE CAN CREWの作品は除く
 
-  - 「バッカ」 / [吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")
+  - 「バッカ」 / [吉井和哉](../Page/吉井和哉.md "wikilink")
 
 ### 音楽劇
 

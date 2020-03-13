@@ -8,7 +8,7 @@
 
 ## 概要
 
-「TEPCOひかり」で用いられている回線の最初の起源は、電力系統・電力設備の制御・保守のための[電力保安通信線](https://ja.wikipedia.org/wiki/電力保安通信線 "wikilink")（[専用線](https://ja.wikipedia.org/wiki/専用線 "wikilink")）である\[2\]。東京電力は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（[昭和](../Page/昭和.md "wikilink")53年）に光ファイバーケーブルを[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で初めて実用化し、電力保安通信線をメタル回線から光回線に置き換えていった。その後は1986年設立の子会社 [東京通信ネットワーク](https://ja.wikipedia.org/wiki/東京通信ネットワーク "wikilink")（後の[パワードコム](../Page/パワードコム.md "wikilink")）にて企業向けに通信サービスを提供していたものの、東京電力本体では一般向けサービスを行なっていなかった。しかし2004年10月に策定された東京電力グループの中期経営方針「経営ビジョン2010」により情報通信事業を重点的に推進してゆくことが決定し、その一環で[ダークファイバ](https://ja.wikipedia.org/wiki/ダークファイバ "wikilink")等の未使用の帯域を活用して一般向けのネットワーク事業を行なうことになった\[3\]。 このサービスの商品名が「TEPCOひかり」である。この名称は、東京電力の英語名略称である「TEPCO」に光ファイバーサービスであることを示す「ひかり」を組み合わせたもの。 [2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")・[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")・[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")でサービスを開始し、1都4県（東京都・[埼玉県](../Page/埼玉県.md "wikilink")・[千葉県](../Page/千葉県.md "wikilink")・[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")）に提供エリアを広げていった。
+「TEPCOひかり」で用いられている回線の最初の起源は、電力系統・電力設備の制御・保守のための[電力保安通信線](https://ja.wikipedia.org/wiki/電力保安通信線 "wikilink")（[専用線](../Page/専用線.md "wikilink")）である\[2\]。東京電力は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（[昭和](../Page/昭和.md "wikilink")53年）に光ファイバーケーブルを[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で初めて実用化し、電力保安通信線をメタル回線から光回線に置き換えていった。その後は1986年設立の子会社 [東京通信ネットワーク](https://ja.wikipedia.org/wiki/東京通信ネットワーク "wikilink")（後の[パワードコム](../Page/パワードコム.md "wikilink")）にて企業向けに通信サービスを提供していたものの、東京電力本体では一般向けサービスを行なっていなかった。しかし2004年10月に策定された東京電力グループの中期経営方針「経営ビジョン2010」により情報通信事業を重点的に推進してゆくことが決定し、その一環で[ダークファイバ](../Page/ダークファイバ.md "wikilink")等の未使用の帯域を活用して一般向けのネットワーク事業を行なうことになった\[3\]。 このサービスの商品名が「TEPCOひかり」である。この名称は、東京電力の英語名略称である「TEPCO」に光ファイバーサービスであることを示す「ひかり」を組み合わせたもの。 [2002年](../Page/2002年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")・[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")・[世田谷区](../Page/世田谷区.md "wikilink")でサービスを開始し、1都4県（東京都・[埼玉県](../Page/埼玉県.md "wikilink")・[千葉県](../Page/千葉県.md "wikilink")・[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")・[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")）に提供エリアを広げていった。
 
 形態は、[インターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink") (ISP) が窓口となる一括契約型となっている。[マンション](https://ja.wikipedia.org/wiki/マンション "wikilink")タイプでの契約を除くすべての回線は、最大100[M](../Page/2進接頭辞.md "wikilink")[bps占有型](../Page/ビット毎秒.md "wikilink")（加入者と局舎間はシングルスター方式で接続）であり、近隣利用者の利用状況に影響なく高い品質を保つことができた。またISPによっては、光ファイバーケーブルを使った固定電話サービス（[IP電話](https://ja.wikipedia.org/wiki/日本のIP電話 "wikilink")）も使うことができた。
 
@@ -48,7 +48,7 @@
         最大100Mbps。回線共有型。マンション内では[有線LANで接続](../Page/イーサネット.md "wikilink")。
   - TEPCOひかり マンションタイプ 5GHz無線プラン → ひかりoneマンションタイプ 無線
       -
-        最大30Mbps。回線共有型。[スピードネット](https://ja.wikipedia.org/wiki/スピードネット "wikilink")の無線アクセスサービスを引き継いだもの。[無線LAN](../Page/無線LAN.md "wikilink")([IEEE 802.11a](https://ja.wikipedia.org/wiki/IEEE802.11#IEEE_802.11a "wikilink"))の親機を電柱に設置し、加入者宅の子機にパソコンなどを接続する\[12\]。
+        最大30Mbps。回線共有型。[スピードネット](../Page/スピードネット.md "wikilink")の無線アクセスサービスを引き継いだもの。[無線LAN](../Page/無線LAN.md "wikilink")([IEEE 802.11a](https://ja.wikipedia.org/wiki/IEEE802.11#IEEE_802.11a "wikilink"))の親機を電柱に設置し、加入者宅の子機にパソコンなどを接続する\[12\]。
 
 ### 現行サービス
 
@@ -67,7 +67,7 @@
   - [So-net](https://ja.wikipedia.org/wiki/So-net "wikilink")（[ソニーコミュニケーションネットワーク](https://ja.wikipedia.org/wiki/So-net "wikilink")） - So-net光（TEPCO）
   - @nifty（[ニフティ](https://ja.wikipedia.org/wiki/ニフティ "wikilink")） - アットニフティTEPCOひかりコース
   - [BIGLOBE](../Page/BIGLOBE.md "wikilink")（[日本電気](../Page/日本電気.md "wikilink")） - TEPCOひかりコース
-  - [スピードネット](https://ja.wikipedia.org/wiki/スピードネット "wikilink")（東京電力） - TEPCOひかり。
+  - [スピードネット](../Page/スピードネット.md "wikilink")（東京電力） - TEPCOひかり。
   - [DION](https://ja.wikipedia.org/wiki/au_one_net "wikilink")（[KDDI](../Page/KDDI.md "wikilink")） - DION光ファイバーTEPCOひかりコース
   - [ASAHIネット](https://ja.wikipedia.org/wiki/ASAHIネット "wikilink")（[朝日ネット](../Page/朝日ネット.md "wikilink")）- TEPCOひかりコース
   - hi-ho（[ハイホー ブロードバンドシステムズ](https://ja.wikipedia.org/wiki/パナソニック_ネットワークサービシズ "wikilink")） - 光-TEPCOコース

@@ -125,7 +125,7 @@ yoshiは作品の連載中に多くの読者から感想をもらい、その中
   - [片平眞由](https://ja.wikipedia.org/wiki/片平眞由 "wikilink")
   - [鈴木晴奈](https://ja.wikipedia.org/wiki/鈴木晴奈 "wikilink")
   - [飯野芹菜](https://ja.wikipedia.org/wiki/飯野芹菜 "wikilink")
-  - [黒田アーサー](https://ja.wikipedia.org/wiki/黒田アーサー "wikilink")（友情出演）
+  - [黒田アーサー](../Page/黒田アーサー.md "wikilink")（友情出演）
   - [竹中直人](../Page/竹中直人.md "wikilink")（友情出演）
 
 ### スタッフ
@@ -191,7 +191,7 @@ DVD『Deep Love アユの物語』2004年6月18日発売。ネオプレックス
 
 ### 第2部『Deep Love 〜ホスト〜』
 
-  - 放送：テレビ東京 [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月7日金曜日 深夜25:30 - （1月14日以降は1:30 - ）
+  - 放送：テレビ東京 [2005年](../Page/2005年.md "wikilink")1月7日金曜日 深夜25:30 - （1月14日以降は1:30 - ）
 
 #### キャスト
 
@@ -202,8 +202,8 @@ DVD『Deep Love アユの物語』2004年6月18日発売。ネオプレックス
   - 翔：[坂本爽](https://ja.wikipedia.org/wiki/坂本爽 "wikilink")
   - アユの祖母：[眞乃ゆりあ](https://ja.wikipedia.org/wiki/眞乃ゆりあ "wikilink")
   - アユ（盲目の少女）：[田中明](../Page/田中明_\(女優\).md "wikilink")
-  - 拓（『ディオス』オーナー）：RIKIYA（現・[川口力哉](https://ja.wikipedia.org/wiki/川口力哉 "wikilink")）
-  - ホームレス：[ガダルカナル・タカ](https://ja.wikipedia.org/wiki/ガダルカナル・タカ "wikilink")
+  - 拓（『ディオス』オーナー）：RIKIYA（現・[川口力哉](../Page/川口力哉.md "wikilink")）
+  - ホームレス：[ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")
 
 #### スタッフ
 
@@ -275,7 +275,7 @@ DVD『Deep Love アユの物語』2004年6月18日発売。ネオプレックス
 12. 『なぜケータイ小説は売れるのか』96-97頁
 13. [石原千秋](../Page/石原千秋.md "wikilink") 『ケータイ小説は文学か』 [筑摩書房](../Page/筑摩書房.md "wikilink")、2008年、55-56頁。ISBN 978-4480687852。
 14. 『なぜケータイ小説は売れるのか』33頁。
-15. [岡野宏文](https://ja.wikipedia.org/wiki/岡野宏文 "wikilink")・[豊崎由美](../Page/豊崎由美.md "wikilink") 『百年の誤読』 [ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")、2004年、378-381頁。ISBN 978-4835609621。
+15. [岡野宏文](https://ja.wikipedia.org/wiki/岡野宏文 "wikilink")・[豊崎由美](../Page/豊崎由美.md "wikilink") 『百年の誤読』 [ぴあ](../Page/ぴあ.md "wikilink")、2004年、378-381頁。ISBN 978-4835609621。
 16. [斎藤美奈子](../Page/斎藤美奈子.md "wikilink")「ほんのご挨拶」『[AERA](../Page/AERA.md "wikilink")』2003年10月27日号、76頁。
 17. 『なぜケータイ小説は売れるのか』35・40頁。
 18. 『ケータイ小説は文学か』56-57頁。

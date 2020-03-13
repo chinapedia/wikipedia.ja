@@ -48,7 +48,7 @@
       - 他に[カバティ](https://ja.wikipedia.org/wiki/カバティ "wikilink")の全国大会にも出場経験がある。
   - 小3の頃、ガスの元栓が危険と知らず開けてしまったことがある。
   - 高校の文化祭のミスターレディコンテストで準優勝を獲得。
-  - [瀬戸カトリーヌ](https://ja.wikipedia.org/wiki/瀬戸カトリーヌ "wikilink")に[石井正則](https://ja.wikipedia.org/wiki/石井正則 "wikilink")（元[アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")）と間違われた。
+  - [瀬戸カトリーヌ](https://ja.wikipedia.org/wiki/瀬戸カトリーヌ "wikilink")に[石井正則](../Page/石井正則.md "wikilink")（元[アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")）と間違われた。
   - [激突 なりきりスター天下とったる歌合戦\!で](../Page/激突_なりきりスター天下とったる歌合戦!.md "wikilink")[音痴](../Page/音痴.md "wikilink")であることが発覚した。
 
 ## 出演
@@ -57,9 +57,9 @@
 
   - [お笑い向上委員会 笑わせろ\!](../Page/お笑い向上委員会_笑わせろ!.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [ボキャブラ天国](https://ja.wikipedia.org/wiki/ボキャブラ天国 "wikilink")シリーズ(キャッチコピーは回転禁止の青春)（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [ものまね紅白歌合戦](https://ja.wikipedia.org/wiki/ものまね紅白歌合戦 "wikilink")（フジテレビ系列、1998年10月8日 - 2001年12月25日）／[デンジャラス](https://ja.wikipedia.org/wiki/デンジャラス "wikilink")との競演。
+  - [ものまね紅白歌合戦](https://ja.wikipedia.org/wiki/ものまね紅白歌合戦 "wikilink")（フジテレビ系列、1998年10月8日 - 2001年12月25日）／[デンジャラス](../Page/デンジャラス.md "wikilink")との競演。
   - [社会の窓](../Page/社会の窓.md "wikilink")・社会の窓2（フジテレビ）
-  - [アクセスJ 現代社会をみる](https://ja.wikipedia.org/wiki/アクセスJ_現代社会をみる "wikilink")（[NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")）
+  - [アクセスJ 現代社会をみる](https://ja.wikipedia.org/wiki/アクセスJ_現代社会をみる "wikilink")（[NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")）
   - [Vの炎](../Page/Vの炎.md "wikilink")（フジテレビ）
   - [クリスマスキス〜イブに逢いましょう](../Page/クリスマスキス〜イブに逢いましょう.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
 

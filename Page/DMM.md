@@ -7,7 +7,7 @@
 
 ### DMMグループ
 
-  - [DMM.com](../Page/DMM.com.md "wikilink") - 主に[ネット通販や](../Page/電子商取引.md "wikilink")[ビデオ・オン・デマンド](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink")等を行っている日本の企業。
+  - [DMM.com](../Page/DMM.com.md "wikilink") - 主に[ネット通販や](../Page/電子商取引.md "wikilink")[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink")等を行っている日本の企業。
       - [DMM.com](../Page/DMM.com.md "wikilink") - DMM.comが運営する総合通販サイト。DVD・CD・本・ゲーム・電子書籍・FX等の総合サイト。
       - DMM英会話 - DMM.comの日本向けオンライン英会話事業。
       - DMM.make - DMM.comが運営するモノづくりのためのプラットフォーム。
@@ -34,7 +34,7 @@
 ### その他
 
   - [キング・ファハド国際空港](../Page/キング・ファハド国際空港.md "wikilink")の[IATA空港コード](https://ja.wikipedia.org/wiki/IATA空港コード "wikilink")。
-  - [Project DMM](https://ja.wikipedia.org/wiki/Project_DMM "wikilink") - [ウルトラマン](../Page/ウルトラマン.md "wikilink")関連の曲を歌っている3人ユニット。
+  - [Project DMM](../Page/Project_DMM.md "wikilink") - [ウルトラマン](../Page/ウルトラマン.md "wikilink")関連の曲を歌っている3人ユニット。
 
 ## 一般名称
 

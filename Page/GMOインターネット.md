@@ -2,10 +2,10 @@
 
 
 | 略称 = GMO Internet | 本社所在地 = [東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町](../Page/桜丘町_\(渋谷区\).md "wikilink")26-1
-[セルリアンタワー](https://ja.wikipedia.org/wiki/セルリアンタワー "wikilink") | 国籍 =  | 本社郵便番号 = 150-8512 | 設立 = [1991年](../Page/1991年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink") | 業種 = 5250 | 事業内容 = インターネットインフラ事業、インターネット広告・メディア事業、インターネット証券事業、モバイルエンターテイメント事業 | 代表者 = [熊谷正寿](https://ja.wikipedia.org/wiki/熊谷正寿 "wikilink")（[代表取締役](../Page/代表取締役.md "wikilink")[会長](../Page/会長.md "wikilink")兼[社長](../Page/社長.md "wikilink")兼グループ代表） | 資本金 = 50億円（2016年12月末日現在） | 発行済株式総数 = 1億1,594万4,677株（以下すべて連結:2016年12月期） | 売上高 = 1350.26億円 | 営業利益 = 170.17億円 | 経常利益 = 166.86億円 | 純利益 = 72.34億円 | 純資産 = 661.79億円 | 総資産 = 5888.19億円 | 従業員数 = 4,471名 (外、平均臨時雇用者数 729名) | 決算期 = 12月31日 | 会計監査人 = [有限責任監査法人トーマツ](https://ja.wikipedia.org/wiki/トーマツ "wikilink") | 主要株主 = 株式会社熊谷正寿事務所 30.80%
-[熊谷正寿](https://ja.wikipedia.org/wiki/熊谷正寿 "wikilink") 9.87%
-（2017年3月末日現在） | 主要子会社 = など | 関係する人物 = [西山裕之](https://ja.wikipedia.org/wiki/西山裕之 "wikilink")（副社長）
-[相浦一成](https://ja.wikipedia.org/wiki/相浦一成 "wikilink")（副社長） | 外部リンク = [gmo.jp](https://www.gmo.jp/) }} **GMOインターネット株式会社**（ジーエムオーインターネット、GMO Internet, Inc.）は、[インターネット](../Page/インターネット.md "wikilink")関連事業を行う[東証](../Page/東京証券取引所.md "wikilink")1部上場企業で、[GMOインターネットグループ](https://ja.wikipedia.org/wiki/GMOインターネットグループ "wikilink")の[持株会社](../Page/持株会社.md "wikilink")でもある。本社は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町の](../Page/桜丘町_\(渋谷区\).md "wikilink")[セルリアンタワー](https://ja.wikipedia.org/wiki/セルリアンタワー "wikilink")内に所在する。
+[セルリアンタワー](../Page/セルリアンタワー.md "wikilink") | 国籍 =  | 本社郵便番号 = 150-8512 | 設立 = [1991年](../Page/1991年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink") | 業種 = 5250 | 事業内容 = インターネットインフラ事業、インターネット広告・メディア事業、インターネット証券事業、モバイルエンターテイメント事業 | 代表者 = [熊谷正寿](../Page/熊谷正寿.md "wikilink")（[代表取締役](../Page/代表取締役.md "wikilink")[会長](../Page/会長.md "wikilink")兼[社長](../Page/社長.md "wikilink")兼グループ代表） | 資本金 = 50億円（2016年12月末日現在） | 発行済株式総数 = 1億1,594万4,677株（以下すべて連結:2016年12月期） | 売上高 = 1350.26億円 | 営業利益 = 170.17億円 | 経常利益 = 166.86億円 | 純利益 = 72.34億円 | 純資産 = 661.79億円 | 総資産 = 5888.19億円 | 従業員数 = 4,471名 (外、平均臨時雇用者数 729名) | 決算期 = 12月31日 | 会計監査人 = [有限責任監査法人トーマツ](https://ja.wikipedia.org/wiki/トーマツ "wikilink") | 主要株主 = 株式会社熊谷正寿事務所 30.80%
+[熊谷正寿](../Page/熊谷正寿.md "wikilink") 9.87%
+（2017年3月末日現在） | 主要子会社 = など | 関係する人物 = [西山裕之](../Page/西山裕之.md "wikilink")（副社長）
+[相浦一成](https://ja.wikipedia.org/wiki/相浦一成 "wikilink")（副社長） | 外部リンク = [gmo.jp](https://www.gmo.jp/) }} **GMOインターネット株式会社**（ジーエムオーインターネット、GMO Internet, Inc.）は、[インターネット](../Page/インターネット.md "wikilink")関連事業を行う[東証](../Page/東京証券取引所.md "wikilink")1部上場企業で、[GMOインターネットグループ](https://ja.wikipedia.org/wiki/GMOインターネットグループ "wikilink")の[持株会社](../Page/持株会社.md "wikilink")でもある。本社は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町の](../Page/桜丘町_\(渋谷区\).md "wikilink")[セルリアンタワー](../Page/セルリアンタワー.md "wikilink")内に所在する。
 
 ## 概要
 
@@ -13,18 +13,18 @@
 
 ### 前身
 
-前身の**株式会社ボイスメディア**は[1991年](../Page/1991年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[熊谷正寿](https://ja.wikipedia.org/wiki/熊谷正寿 "wikilink")が設立した。本社は[東京都](../Page/東京都.md "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")[下馬にあったが](../Page/下馬_\(世田谷区\).md "wikilink")、後に[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[南青山へ移転した](../Page/青山_\(東京都港区\).md "wikilink")。
+前身の**株式会社ボイスメディア**は[1991年](../Page/1991年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に[熊谷正寿](../Page/熊谷正寿.md "wikilink")が設立した。本社は[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")[下馬にあったが](../Page/下馬_\(世田谷区\).md "wikilink")、後に[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[南青山へ移転した](../Page/青山_\(東京都港区\).md "wikilink")。
 
 業務内容は公式には双方向通信事業の企画・開発及び同機器の開発・販売と[ダイヤルQ2](../Page/ダイヤルQ2.md "wikilink")を利用した音声情報の提供サービスである。
 
-[1996年](../Page/1996年.md "wikilink")InterQ（[インターキュー](https://ja.wikipedia.org/wiki/インターキュー "wikilink")）と商号変更し、ダイヤルQ2によりインターネット接続するプロバイダへ業態変更するとともに[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町へ移転した](../Page/桜丘町_\(渋谷区\).md "wikilink")。
+[1996年](../Page/1996年.md "wikilink")InterQ（[インターキュー](../Page/インターキュー.md "wikilink")）と商号変更し、ダイヤルQ2によりインターネット接続するプロバイダへ業態変更するとともに[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町へ移転した](../Page/桜丘町_\(渋谷区\).md "wikilink")。
 
 ## 沿革
 
   - [1991年](../Page/1991年.md "wikilink")
       - [5月24日](../Page/5月24日.md "wikilink") - 株式会社**[ボイスメディア](https://ja.wikipedia.org/wiki/ボイスメディア "wikilink")**設立、マルチメディア事業を目的として、各地にはパソコン通信やプロバイダーのアクセスポイントに似たアクセス拠点となるテレホンセンターを設置し、全国展開。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
-      - 11月 - **[インターキュー](https://ja.wikipedia.org/wiki/インターキュー "wikilink")**株式会社に[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")変更、普及し始めたインターネットに注目し、インターネットのインフラ、サービスインフラの提供に集中するため、インターネットプロバイダ関連事業へ参入。
+      - 11月 - **[インターキュー](../Page/インターキュー.md "wikilink")**株式会社に[商号](../Page/商号.md "wikilink")変更、普及し始めたインターネットに注目し、インターネットのインフラ、サービスインフラの提供に集中するため、インターネットプロバイダ関連事業へ参入。
       - 12月 - 世界初の非会員制インターネット接続およびサービス事業「interQORIGINAL」開始。
 
 <!-- end list -->
@@ -37,7 +37,7 @@
   - [1999年](../Page/1999年.md "wikilink")
       - 4月 - [ICANN](../Page/ICANN.md "wikilink")より商用ドメイン名登録機関（[レジストラ](https://ja.wikipedia.org/wiki/レジストラ "wikilink")）に選出。
       - 8月 - 株式を店頭（現:[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）公開。
-      - 9月 - [子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")として、株式会社まぐクリック（現:[GMOアドパートナーズ](https://ja.wikipedia.org/wiki/GMOアドパートナーズ "wikilink")株式会社）を設立。
+      - 9月 - [子会社](../Page/子会社.md "wikilink")として、株式会社まぐクリック（現:[GMOアドパートナーズ](https://ja.wikipedia.org/wiki/GMOアドパートナーズ "wikilink")株式会社）を設立。
   - [2000年](../Page/2000年.md "wikilink")
       - 9月 - 株式会社まぐクリックがNASDAQジャパン（現:[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")）に上場。
       - 12月 - ドメイン登録サービス「お名前.com」にて、登録数10万件突破。
@@ -51,7 +51,7 @@
       - [2月27日](../Page/2月27日.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第2部に上場\[2\]。
       - 4月 - 株式会社[ベッコアメ・インターネット](../Page/ベッコアメ・インターネット.md "wikilink")のインターネット接続サービスおよび[ホスティング](https://ja.wikipedia.org/wiki/ホスティング "wikilink")サービスの営業権を取得。
       - 11月 - スカイマークエアラインズ（現・[スカイマーク](https://ja.wikipedia.org/wiki/スカイマーク "wikilink")）に吸収合併された[ゼロ株式会社のインターネット関連事業を取得](../Page/ZERO_\(インターネットサービスプロバイダ\).md "wikilink")。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [4月4日](../Page/4月4日.md "wikilink") - [GMOペイメントゲートウェイ](../Page/GMOペイメントゲートウェイ.md "wikilink")株式会社、東証[マザーズ](../Page/マザーズ.md "wikilink")に上場\[3\]。
       - [6月1日](../Page/6月1日.md "wikilink") - **GMOインターネット**株式会社に商号変更、東京証券取引所市場1部に指定変更\[4\]\[5\]。
       - 9月 - オリエント信販株式会社（現:[ネットカード](../Page/ネットカード.md "wikilink")株式会社）を買収。
@@ -108,7 +108,7 @@
       - 3月 - GMOインターネットグループの世界展開ブランド「Z.com」を通じて、サッカーベトナム代表のトップスターパートナーに就任。さらにベトナム代表選手の一人、[グエン コン フォン選手とスポンサー契約を締結](https://ja.wikipedia.org/wiki/グエン・コン・フオン "wikilink")。
       - 4月 - No.1を目指すアスリートを支援する「GMO ATHLETES」を創設し、男子陸上長距離選手の支援を開始。
       - 6月 - [タイでドメイン](../Page/タイ王国.md "wikilink")、ホスティング事業を展開するNetDesignグループの株式を取得。
-      - 6月 - 株式会社あおぞら銀行及びあおぞら信託銀行株式会社（現:[GMOあおぞらネット銀行](https://ja.wikipedia.org/wiki/GMOあおぞらネット銀行 "wikilink")株式会社）とインターネット銀行の共同運営に関し資本業務提携。あおぞら信託銀行の株式の14.9%（議決権割合）を取得。
+      - 6月 - 株式会社あおぞら銀行及びあおぞら信託銀行株式会社（現:[GMOあおぞらネット銀行](../Page/GMOあおぞらネット銀行.md "wikilink")株式会社）とインターネット銀行の共同運営に関し資本業務提携。あおぞら信託銀行の株式の14.9%（議決権割合）を取得。
       - 7月 - あおぞら信託銀行の株式の7.45%（議決権割合）をGMOクリックホールディングス株式会社へ譲渡。
       - 7月 - プロサッカー選手の[香川真司](../Page/香川真司.md "wikilink")選手がグローバルブランド「Z.com」のブランドアンバサダーに就任。
   - [2017年](../Page/2017年.md "wikilink")
@@ -118,9 +118,9 @@
 
 ## 役員構成
 
-  - 代表取締役会長兼社長グループ代表 [熊谷正寿](https://ja.wikipedia.org/wiki/熊谷正寿 "wikilink")
+  - 代表取締役会長兼社長グループ代表 [熊谷正寿](../Page/熊谷正寿.md "wikilink")
   - 取締役副社長 安田昌史
-  - 取締役副社長 [西山裕之](https://ja.wikipedia.org/wiki/西山裕之 "wikilink")
+  - 取締役副社長 [西山裕之](../Page/西山裕之.md "wikilink")
   - 取締役副社長 相浦一成
   - 専務取締役 伊藤正
   - 専務取締役 山下浩史
@@ -156,7 +156,7 @@
 
 ## 備考
 
-  - クーポンサイト「[くまポン](https://kumapon.jp/)」の「**くま**」は、GMOインターネット社長の[熊谷正寿](https://ja.wikipedia.org/wiki/熊谷正寿 "wikilink")から採ったものである。
+  - クーポンサイト「[くまポン](https://kumapon.jp/)」の「**くま**」は、GMOインターネット社長の[熊谷正寿](../Page/熊谷正寿.md "wikilink")から採ったものである。
 
 ## 脚注・出典
 

@@ -7,19 +7,19 @@
 
 グループ初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")達成シングルであり\[1\]、オリコンカラオケチャートでは当時の新記録である17週連続1位を記録。現在に至るまでモーニング娘。として最大売上のシングルである。
 
-前作「[ふるさと](../Page/ふるさと_\(モーニング娘。の曲\).md "wikilink")」の不振を受け、プロデューサーの[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")が明るい[曲を提供](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。[ダンス☆マン](../Page/ダンス☆マン.md "wikilink")が[編曲](../Page/編曲.md "wikilink")（モーニング娘。初）を担当した。それまでのモーニング娘。のイメージを一変させ、非常にポップかつコミカルな要素を含むダンスチューンの路線が定着した。つんくがギター一本で演奏し鼻歌をいれたデモテープは[1993年](../Page/1993年.md "wikilink")に制作されたものである。これは元々シャ乱Qの没曲だったことによる。しかしその際の仮タイトルは「まんじゅう娘」で、しかもサビで「[おっぱい](https://ja.wikipedia.org/wiki/おっぱい "wikilink")」と連呼するというダサイ曲であったためメンバーに猛反対され、[お蔵入り](../Page/お蔵入り.md "wikilink")となった。なおこのエピソードは、「アーティストの嫌うダサイ曲こそ売れる」という持論とともに語られている\[2\]。
+前作「[ふるさと](../Page/ふるさと_\(モーニング娘。の曲\).md "wikilink")」の不振を受け、プロデューサーの[つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")が明るい[曲を提供](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。[ダンス☆マン](../Page/ダンス☆マン.md "wikilink")が[編曲](../Page/編曲.md "wikilink")（モーニング娘。初）を担当した。それまでのモーニング娘。のイメージを一変させ、非常にポップかつコミカルな要素を含むダンスチューンの路線が定着した。つんくがギター一本で演奏し鼻歌をいれたデモテープは[1993年](../Page/1993年.md "wikilink")に制作されたものである。これは元々シャ乱Qの没曲だったことによる。しかしその際の仮タイトルは「まんじゅう娘」で、しかもサビで「[おっぱい](../Page/おっぱい.md "wikilink")」と連呼するというダサイ曲であったためメンバーに猛反対され、[お蔵入り](../Page/お蔵入り.md "wikilink")となった。なおこのエピソードは、「アーティストの嫌うダサイ曲こそ売れる」という持論とともに語られている\[2\]。
 
 [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")にとっては最初のシングル、[石黒彩](https://ja.wikipedia.org/wiki/石黒彩 "wikilink")にとってはモーニング娘。としては最後のシングルであった。
 
 元々は、1999年9月9日に9人のモーニング娘。による歌として発売する予定であった\[3\]。そのため、発売日が日本において一般的なCDの発売日である水曜日ではなく木曜日になっている。しかしメンバーを2人増員して9人にする予定でオーディションを行ったところ、追加メンバーオーディションの合格者が「1人だけレベルが違いすぎる」との理由で後藤真希1人になったため\[4\]、8人のモーニング娘。で歌うこととなった。
 
-前述のとおり[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")の集計上不利になる木曜日発売にも拘らず、モーニング娘。としては「[抱いてHOLD ON ME\!](../Page/抱いてHOLD_ON_ME!.md "wikilink")」以来2作目のオリコン初登場1位を獲得。初動売上は当時のモーニング娘。史上最高記録となった\[5\]。
+前述のとおり[オリコンチャート](../Page/オリコンチャート.md "wikilink")の集計上不利になる木曜日発売にも拘らず、モーニング娘。としては「[抱いてHOLD ON ME\!](../Page/抱いてHOLD_ON_ME!.md "wikilink")」以来2作目のオリコン初登場1位を獲得。初動売上は当時のモーニング娘。史上最高記録となった\[5\]。
 
 ジャケットは12cm仕様だったが、ディスクは8cmのシングルCDだった。モーニング娘。&[平家みちよ](https://ja.wikipedia.org/wiki/平家みちよ "wikilink")妹分第3回デビューオーディション募集要項が封入された。新曲発売イベントが[よみうりランド](../Page/よみうりランド.md "wikilink")（1999年[8月29日](../Page/8月29日.md "wikilink")）などで開かれた\[6\]。この次に新曲発売イベントが行われたのは約6年後の「[色っぽい じれったい](../Page/色っぽい_じれったい.md "wikilink")」である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列『[アイドルをさがせ\!](../Page/アイドルをさがせ!.md "wikilink")』のオープニングテーマ、エステティックサロン『[エルセーヌ](https://ja.wikipedia.org/wiki/エルセーヌ "wikilink")』CMソングにも使用された。
 
-別バージョンの音源を加えた12cm盤が[2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された『[モーニング娘。EARLY SINGLE BOX](https://ja.wikipedia.org/wiki/モーニング娘。EARLY_SINGLE_BOX "wikilink")』に収録され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月2日](../Page/3月2日.md "wikilink")には同じものがシングルとして発売された。[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に、オリコンにおいて「オリコン歴代シングル、“1000作目”の1位は\!?」なる企画が実施され、この曲のオリコンシングルチャート第1位が、オリコンの集計が始まってから丁度700作目の第1位に当たることが明らかになった\[7\]。
+別バージョンの音源を加えた12cm盤が[2004年](../Page/2004年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された『[モーニング娘。EARLY SINGLE BOX](https://ja.wikipedia.org/wiki/モーニング娘。EARLY_SINGLE_BOX "wikilink")』に収録され、[2005年](../Page/2005年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")には同じものがシングルとして発売された。[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に、オリコンにおいて「オリコン歴代シングル、“1000作目”の1位は\!?」なる企画が実施され、この曲のオリコンシングルチャート第1位が、オリコンの集計が始まってから丁度700作目の第1位に当たることが明らかになった\[7\]。
 
-[2013年](../Page/2013年.md "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[The Best\!〜Updated モーニング娘。〜](https://ja.wikipedia.org/wiki/The_Best!〜Updated_モーニング娘。〜 "wikilink")』では当時のメンバー（オリジナルメンバーは全員卒業・脱退済、リーダーは[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")）による[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")バージョンが収録。[EDM調となり](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")、振り付けも一部変更された\[8\]。
+[2013年](../Page/2013年.md "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[The Best\!〜Updated モーニング娘。〜](https://ja.wikipedia.org/wiki/The_Best!〜Updated_モーニング娘。〜 "wikilink")』では当時のメンバー（オリジナルメンバーは全員卒業・脱退済、リーダーは[道重さゆみ](https://ja.wikipedia.org/wiki/道重さゆみ "wikilink")）による[セルフカバー](../Page/セルフカバー.md "wikilink")バージョンが収録。[EDM調となり](https://ja.wikipedia.org/wiki/エレクトロニック・ダンス・ミュージック "wikilink")、振り付けも一部変更された\[8\]。
 
 ## アートワーク
 
@@ -37,15 +37,15 @@
 様々な場面で時にはアレンジを加えてパフォーマンスされたりすることがある。
 
   - 通常本作を歌うときは、オーバー状の衣装を着るが、1999年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")に放送された、『[オールスター忠臣蔵まつり](https://ja.wikipedia.org/wiki/オールスター忠臣蔵まつり "wikilink")』に出演したときは[和服](../Page/和服.md "wikilink")を着て歌った。
-  - 2000年[4月23日](../Page/4月23日.md "wikilink")の美浜[五木ひろし](https://ja.wikipedia.org/wiki/五木ひろし "wikilink")マラソンでは[中澤裕子](../Page/中澤裕子.md "wikilink")と[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")の2人でこの曲を披露している。
-  - 2000年[8月](../Page/8月.md "wikilink")に放送された『[24時間テレビ23 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』では「[日本手話](https://ja.wikipedia.org/wiki/日本手話 "wikilink")バージョン」が披露された。
-  - [2002年](../Page/2002年.md "wikilink")[春](../Page/春.md "wikilink")の[市井紗耶香 in CUBIC-CROSSのツアーではこの曲がセットリストに入っていた](https://ja.wikipedia.org/wiki/市井紗耶香_in_CUBIC-CROSS "wikilink")。
+  - 2000年[4月23日](../Page/4月23日.md "wikilink")の美浜[五木ひろし](../Page/五木ひろし.md "wikilink")マラソンでは[中澤裕子](../Page/中澤裕子.md "wikilink")と[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")の2人でこの曲を披露している。
+  - 2000年[8月](../Page/8月.md "wikilink")に放送された『[24時間テレビ23 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』では「[日本手話](../Page/日本手話.md "wikilink")バージョン」が披露された。
+  - [2002年](../Page/2002年.md "wikilink")[春](../Page/春.md "wikilink")の[市井紗耶香 in CUBIC-CROSSのツアーではこの曲がセットリストに入っていた](../Page/市井紗耶香_in_CUBIC-CROSS.md "wikilink")。
   - [2003年](../Page/2003年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")に死去した[福田一郎](../Page/福田一郎.md "wikilink")を送る会ではハロー\!プロジェクトに在籍する卒業生を含めたモーニング娘。全員でこの曲を歌った。
-  - 2003年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")放送の[めちゃ×2イケてるッ\!の企画](../Page/めちゃ×2イケてるッ!の企画.md "wikilink")「[私立岡村女子高等学校。](../Page/私立岡村女子高等学校。.md "wikilink")」の「岡女体育祭」では競技終了後に[ハロー\!プロジェクト・キッズ](https://ja.wikipedia.org/wiki/ハロー!プロジェクト・キッズ "wikilink")のメンバー全員が岡女中等部としてこの曲を披露した。
+  - 2003年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")放送の[めちゃ×2イケてるッ\!の企画](../Page/めちゃ×2イケてるッ!の企画.md "wikilink")「[私立岡村女子高等学校。](../Page/私立岡村女子高等学校。.md "wikilink")」の「岡女体育祭」では競技終了後に[ハロー\!プロジェクト・キッズ](../Page/ハロー!プロジェクト・キッズ.md "wikilink")のメンバー全員が岡女中等部としてこの曲を披露した。
   - 2003年[12月29日](../Page/12月29日.md "wikilink")放送の『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』では[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")とのコラボによるモーニング娘。メドレーの1曲として、歌詞の一部「あんたもあたしも」を「SMAP5人も」に変えて歌った。
   - 2005年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")のハロー\!プロジェクトのコンサートでは[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")を除くハロー\!プロジェクトに在籍するモーニング娘。の卒業メンバーによってこの曲が歌われた。
   - 2005年7月[31日の](../Page/7月31日.md "wikilink")[よみうりテレビ主催の](../Page/讀賣テレビ放送.md "wikilink")[天保山10デイズわくわく宝島](https://ja.wikipedia.org/wiki/天保山10デイズわくわく宝島 "wikilink")イベントでは「中澤裕子&[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")と“LOVEマシーンを一緒に歌おう”」なるイベントが実施され、中澤・後藤がオーディションによって一般から選ばれたメンバーと一緒にステージ上で歌った。
-  - 『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』アンケート「[スキウタ](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」投票にて総合では第4位、紅組（女性）では第1位を獲得し、ハロー\!プロジェクトに在籍する卒業したメンバーを含めた19人のメンバーでこの曲を披露した。卒業メンバー9人が一番の歌詞を歌った後、現メンバー10人が二番の歌詞を歌い、最後に19人全員で歌う形をとった。この時のアーチスト名の表記は公式には「モーニング娘。」であったが、一部のマスコミでは「ドリームチーム」あるいは「スペシャルモーニング娘。」等と呼ばれていた。なお、この19人という人数は『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に出場したグループの人数としては当時の最大人数であった（ただし、正確には[DEF.DIVA](https://ja.wikipedia.org/wiki/DEF.DIVA "wikilink")名義で出場した[安倍なつみ](../Page/安倍なつみ.md "wikilink")・後藤真希・[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")を除いた6人の卒業メンバーはサポート扱いであり、出場歌手ではない）。
+  - 『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』アンケート「[スキウタ](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」投票にて総合では第4位、紅組（女性）では第1位を獲得し、ハロー\!プロジェクトに在籍する卒業したメンバーを含めた19人のメンバーでこの曲を披露した。卒業メンバー9人が一番の歌詞を歌った後、現メンバー10人が二番の歌詞を歌い、最後に19人全員で歌う形をとった。この時のアーチスト名の表記は公式には「モーニング娘。」であったが、一部のマスコミでは「ドリームチーム」あるいは「スペシャルモーニング娘。」等と呼ばれていた。なお、この19人という人数は『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に出場したグループの人数としては当時の最大人数であった（ただし、正確には[DEF.DIVA](../Page/DEF.DIVA.md "wikilink")名義で出場した[安倍なつみ](../Page/安倍なつみ.md "wikilink")・後藤真希・[石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")を除いた6人の卒業メンバーはサポート扱いであり、出場歌手ではない）。
   - [NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")のCMで[吹石一恵](https://ja.wikipedia.org/wiki/吹石一恵 "wikilink")がこの曲の替え歌を歌った。
 
 <!-- end list -->
@@ -73,7 +73,7 @@
 2.  **21世紀**
       -
         編曲：[鈴木俊介](../Page/鈴木俊介.md "wikilink")、ストリングアレンジ：村山達哉
-3.  LOVEマシーン ([Instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink"))
+3.  LOVEマシーン ([Instrumental](../Page/器楽曲.md "wikilink"))
 
 <!-- end list -->
 
@@ -109,7 +109,7 @@
 1.  **LOVEマシーン (analog remix)**
 2.  LOVEマシーン (analog remix Instrumental)
     クラブのフロア向け仕様のインストゥルメンタルトラックとなっており、通常のカラオケとして使うには少々難があるバージョンである。
-3.  [シークレットトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")
+3.  [シークレットトラック](../Page/隠しトラック.md "wikilink")
 
 ## 参加メンバー
 
@@ -126,7 +126,7 @@
       - BOMB - ギター
       - [WATA-BOO](../Page/渡部チェル.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
       - STAGE CHAKKA MAN - [パーカッション](../Page/パーカッション.md "wikilink")、雄叫び
-      - [D.J.ICHIRO](https://ja.wikipedia.org/wiki/ピストン西沢 "wikilink") - [ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")
+      - [D.J.ICHIRO](../Page/ピストン西沢.md "wikilink") - [ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")
       - ダンス☆マン - Yoo Yoo
   - つんく - [コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")(1)
 
@@ -163,7 +163,7 @@
   - 愛沢知恵：[ともさかりえ](https://ja.wikipedia.org/wiki/ともさかりえ "wikilink")
   - 工員：[矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")（[モーニング娘。OG](https://ja.wikipedia.org/wiki/M-line_club "wikilink")）
   - 工員：[保田圭](https://ja.wikipedia.org/wiki/保田圭 "wikilink")（モーニング娘。OG）
-  - 錦野弘太郎：[鶴見辰吾](https://ja.wikipedia.org/wiki/鶴見辰吾 "wikilink")
+  - 錦野弘太郎：[鶴見辰吾](../Page/鶴見辰吾.md "wikilink")
   - 迫田：[井之脇海](https://ja.wikipedia.org/wiki/井之脇海 "wikilink")
   - [平山祐介](https://ja.wikipedia.org/wiki/平山祐介 "wikilink")、[山本龍二](../Page/山本龍二.md "wikilink") 他
 

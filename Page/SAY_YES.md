@@ -5,7 +5,7 @@
 
 ## 背景
 
-前作「太陽と埃の中で」から約6ヶ月ぶりとなるシングル。本作発売前まで爆発的なヒットが出ていなかったCHAGE\&ASKAが、デビュー12年目にして初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位と[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成し、[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』と共に大ヒットとなった。
+前作「太陽と埃の中で」から約6ヶ月ぶりとなるシングル。本作発売前まで爆発的なヒットが出ていなかったCHAGE\&ASKAが、デビュー12年目にして初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位と[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を達成し、[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』と共に大ヒットとなった。
 
 「SAY YES」に関して2013年には、映画『[101回目のプロポーズ 〜SAY YES〜](https://ja.wikipedia.org/wiki/101回目のプロポーズ_〜SAY_YES〜 "wikilink")』日本版の主題歌への起用が決まっていたが\[1\]、[ASKAの薬物報道を受けて](https://ja.wikipedia.org/wiki/ASKA#活動自粛・逮捕・起訴に伴う影響 "wikilink")、公開直前に中国語バージョンに差し替えられた。
 
@@ -41,7 +41,7 @@
 
 1991年のオリコン年間シングルチャートでは、ランキングの集計期間の関係で[小田和正](../Page/小田和正.md "wikilink")の「[Oh\! Yeah\! / ラブ・ストーリーは突然に](https://ja.wikipedia.org/wiki/Oh!_Yeah! "wikilink")」に阻まれ2位にとどまるが、[1992年](../Page/1992年.md "wikilink")に入ってもチャートインし続けた結果、累計売上では「Oh\! Yeah\! / ラブ・ストーリーは突然に」を上回り、累計282.2万枚（オリコン調べ）を記録し、**CHAGE and ASKAの作品（シングル・アルバム）の中では最大売上**となる\[16\]。なお、累計売上は300万枚との記事もある\[17\]。
 
-[2017年](../Page/2017年.md "wikilink")現在、オリコン歴代シングル売り上げランキング7位であるが、上位6作のうち、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[世界に一つだけの花](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")」に抜かれたのは2016年[9月19日](../Page/9月19日.md "wikilink")付ランキングで、SMAPの[解散騒動に起因する購買運動によるものであった](https://ja.wikipedia.org/wiki/SMAP解散騒動 "wikilink")。SMAPはデビュー曲「[Can't Stop\!\! -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")」が本作と同時期発売であり、本作に首位を阻まれ2位止まりであったが、「世界に一つだけの花」の売上が本作を上回ったのがデビューから丁度25周年の週であったため、ファンからは「25年越しのリベンジ」と呼ばれた\[18\]。
+[2017年](../Page/2017年.md "wikilink")現在、オリコン歴代シングル売り上げランキング7位であるが、上位6作のうち、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」に抜かれたのは2016年[9月19日](../Page/9月19日.md "wikilink")付ランキングで、SMAPの[解散騒動に起因する購買運動によるものであった](https://ja.wikipedia.org/wiki/SMAP解散騒動 "wikilink")。SMAPはデビュー曲「[Can't Stop\!\! -LOVING-](../Page/Can't_Stop!!_-LOVING-.md "wikilink")」が本作と同時期発売であり、本作に首位を阻まれ2位止まりであったが、「世界に一つだけの花」の売上が本作を上回ったのがデビューから丁度25周年の週であったため、ファンからは「25年越しのリベンジ」と呼ばれた\[18\]。
 
 ## 収録曲
 
@@ -52,11 +52,11 @@
 1.  **SAY YES** (4:46)
     （作詞・作曲：[飛鳥涼](https://ja.wikipedia.org/wiki/ASKA "wikilink")　編曲：[十川知司](../Page/十川ともじ.md "wikilink")）
       -
-        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。また、[三菱自動車](../Page/三菱自動車工業.md "wikilink")「[グランディス](../Page/三菱・グランディス.md "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")\[20\]。
+        [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。また、[三菱自動車](../Page/三菱自動車工業.md "wikilink")「[グランディス](../Page/三菱・グランディス.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")\[20\]。
         ドラマのテーマソングの制作依頼があり第1週分の台本が届いたが、ASKAは当時台本を読むパワーと時間が無かったためにスタッフに台本の内容を読んでもらいながら自分なりに作り、ドラマのイメージと運よく重なったと言う\[21\]。
         『101回目のプロポーズ』の2クール前に同枠で放送されていた『[東京ラブストーリー](https://ja.wikipedia.org/wiki/東京ラブストーリー#テレビドラマ "wikilink")』の主題歌に起用された[小田和正](../Page/小田和正.md "wikilink")の「[ラブ・ストーリーは突然に](../Page/ラブ・ストーリーは突然に.md "wikilink")」はドラマの内容に合わないとプロデューサーに言われて小田が書き直したが、逆に「SAY YES」はASKAが自信作であったことと、視聴者から「別れてさせないでほしい」という要望が殺到したことによりドラマの結末内容が曲の歌詞に合わせて書き直された\[22\]\[23\]。
-        [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に放送された『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』の「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で白組67位にランクインした。また、[NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink")が[2017年](../Page/2017年.md "wikilink")に発表した「ドラマ好き女性1000人に聞いた人生史上いちばん好きな主題歌ランキング」で6位にランクインしている\[24\]。
-        2002年に発売された[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")・アルバム『[STAMP](https://ja.wikipedia.org/wiki/STAMP_\(CHAGE_and_ASKAのアルバム\) "wikilink")』では、大胆に[アレンジした楽曲を収録している](../Page/編曲.md "wikilink")。また、企画シングル盤「[SEAMLESS SINGLES](https://ja.wikipedia.org/wiki/SEAMLESS_SINGLES "wikilink")」にも収録された。
+        [2005年](../Page/2005年.md "wikilink")に放送された『[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")』の「[スキウタ〜紅白みんなでアンケート〜](../Page/スキウタ〜紅白みんなでアンケート〜.md "wikilink")」で白組67位にランクインした。また、[NEWSポストセブン](https://ja.wikipedia.org/wiki/NEWSポストセブン "wikilink")が[2017年](../Page/2017年.md "wikilink")に発表した「ドラマ好き女性1000人に聞いた人生史上いちばん好きな主題歌ランキング」で6位にランクインしている\[24\]。
+        2002年に発売された[セルフカバー](../Page/セルフカバー.md "wikilink")・アルバム『[STAMP](https://ja.wikipedia.org/wiki/STAMP_\(CHAGE_and_ASKAのアルバム\) "wikilink")』では、大胆に[アレンジした楽曲を収録している](../Page/編曲.md "wikilink")。また、企画シングル盤「[SEAMLESS SINGLES](https://ja.wikipedia.org/wiki/SEAMLESS_SINGLES "wikilink")」にも収録された。
         [ゴールデンボンバーの](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")[鬼龍院翔](https://ja.wikipedia.org/wiki/鬼龍院翔 "wikilink")と[氣志團](../Page/氣志團.md "wikilink")の[綾小路翔](https://ja.wikipedia.org/wiki/綾小路翔 "wikilink")がこの楽曲のイントロに衝撃と感動したことを[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[綾小路翔のオールナイトニッポンPremium](https://ja.wikipedia.org/wiki/オールナイトニッポンpremium "wikilink")』で述べている\[25\]。歌手の[新妻聖子](../Page/新妻聖子.md "wikilink")は、大好きな楽曲として自身の[Twitter](../Page/Twitter.md "wikilink")にてコメントしている\[26\]。
 2.  **告白** (5:49)
     （作詞：青木せい子　作曲：[CHAGE](../Page/Chage.md "wikilink")　編曲：十川知司）
@@ -119,7 +119,7 @@
 
 ## 関連項目
 
-  - [1991年の音楽](https://ja.wikipedia.org/wiki/1991年の音楽 "wikilink")
+  - [1991年の音楽](../Page/1991年の音楽.md "wikilink")
   - [101回目のプロポーズ](../Page/101回目のプロポーズ.md "wikilink")
   - [SAY NO](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜#収録曲 "wikilink")
       - [ゴールデンボンバーの楽曲](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")。「SAY YES」をパロディ化したものを『[イミテイション・ゴールド〜金爆の名曲二番搾り〜](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜 "wikilink")』に収録している\[29\]。

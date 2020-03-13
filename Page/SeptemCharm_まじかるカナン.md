@@ -3,7 +3,7 @@
 
 『**SeptemCharm まじかるカナン**』（セプティムチャーム まじかるカナン）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月17日](../Page/12月17日.md "wikilink")に[Terios](../Page/Terios.md "wikilink")から発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。
 
-[2000年](../Page/2000年.md "wikilink")には[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")化、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月からは[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化されている。
+[2000年](../Page/2000年.md "wikilink")には[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")化、[2005年](../Page/2005年.md "wikilink")1月からは[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化されている。
 
 基本設定やキャラクターデザインに『[カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")』の影響が見られる。
 
@@ -23,10 +23,10 @@
     声：[北都南](../Page/北都南.md "wikilink") / 同左 / [水樹奈々](../Page/水樹奈々.md "wikilink")
     ちはやの同級生。大金持ちのお嬢様であり、学校には車で送り迎えしてもらうほど。ナツキの兄・ハヅナの力によって魔法戦士・**セルリアンブルー**に変身し、種人間と戦う。変身後は超が付くほど高飛車な性格になり、魔法戦士としての能力はカーマインを凌ぐ。
   - 鈴原 美由利（すずはら みゆり）
-    声：[芹園みや](https://ja.wikipedia.org/wiki/芹園みや "wikilink") / 同左 / [石塚さより](https://ja.wikipedia.org/wiki/石塚さより "wikilink")
+    声：[芹園みや](../Page/芹園みや.md "wikilink") / 同左 / [石塚さより](../Page/石塚さより.md "wikilink")
     ちはやの同級生。双子の弟がいる。
   - 小嶋 絵美（こじま えみ）
-    声：[茉莉奈](https://ja.wikipedia.org/wiki/茉莉奈 "wikilink") / 同左 / [宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")
+    声：[茉莉奈](https://ja.wikipedia.org/wiki/茉莉奈 "wikilink") / 同左 / [宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
     ちはやの通う高校へやってきた転校生。普段は校庭で読書ばかりしていて、無口な性格。その正体は謎の魔法戦士「**セプティム**」。アダルトアニメ版では敵だったが、テレビアニメ版ではカーマインの味方に近い存在となっている。
   - ハヅナ
     声：[プログレス](../Page/プログレス_\(声優\).md "wikilink") / 同左 / [水島大宙](https://ja.wikipedia.org/wiki/水島大宙 "wikilink")
@@ -69,7 +69,7 @@
 
 2005年1月から3月に、[アニメ魂](../Page/アニメ魂.md "wikilink")枠において『**まじかるカナン**』のタイトルで放送された。全13話。
 
-放送媒体上過激な性的描写が不可能のため、一部設定にゲーム版との違いがある他、[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")に[渡辺明夫](https://ja.wikipedia.org/wiki/渡辺明夫 "wikilink")らを起用し、ビジュアル面を一新している。
+放送媒体上過激な性的描写が不可能のため、一部設定にゲーム版との違いがある他、[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")に[渡辺明夫](../Page/渡辺明夫.md "wikilink")らを起用し、ビジュアル面を一新している。
 
 ### スタッフ（テレビアニメ）
 
@@ -99,7 +99,7 @@
 ### 主題歌
 
   - オープニングテーマ「マジカルちょーだいっ」
-    作詞 - くまのきよみ / 作曲 - ACOMPANAR / 編曲 - [陶山隼](https://ja.wikipedia.org/wiki/陶山隼 "wikilink") / 歌 - [宮崎羽衣](https://ja.wikipedia.org/wiki/宮崎羽衣 "wikilink")
+    作詞 - くまのきよみ / 作曲 - ACOMPANAR / 編曲 - [陶山隼](https://ja.wikipedia.org/wiki/陶山隼 "wikilink") / 歌 - [宮崎羽衣](../Page/宮崎羽衣.md "wikilink")
   - エンディングテーマ「コイゴコロ」
     作詞・作曲・編曲 - ACOMPANAR / 歌 - [徳永愛](../Page/徳永愛.md "wikilink")
 
@@ -173,7 +173,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>ハヅナ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大畑晃一" title="wikilink">大畑晃一</a></p></td>
+<td><p><a href="../Page/大畑晃一.md" title="wikilink">大畑晃一</a></p></td>
 <td><p>白石道太</p></td>
 <td><p>飯飼一幸</p></td>
 <td><p>2月12日</p></td>
@@ -249,7 +249,7 @@
 <tr class="odd">
 <td><p><a href="../Page/全国放送.md" title="wikilink">日本全域</a></p></td>
 <td><p><a href="../Page/アニメシアターX.md" title="wikilink">AT-X</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月1日.md" title="wikilink">1月1日</a> - <a href="https://ja.wikipedia.org/wiki/3月26日" title="wikilink">3月26日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月1日.md" title="wikilink">1月1日</a> - <a href="https://ja.wikipedia.org/wiki/3月26日" title="wikilink">3月26日</a></p></td>
 <td><p>土曜 10:00 - 10:30<br />
 （リピート放送）</p></td>
 <td><p><a href="../Page/日本における衛星放送.md" title="wikilink">CS放送</a></p></td>

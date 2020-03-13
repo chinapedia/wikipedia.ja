@@ -6,8 +6,8 @@
 ## 概要
 
   - 初回限定盤のみカラートレイ仕様となっている。ジャケットの写真は初回限定盤と通常盤で同じものが使われている。
-  - 「アンドロメダ」は、[グリコ乳業](https://ja.wikipedia.org/wiki/グリコ乳業 "wikilink")「カフェオーレ」[CMソングとしてタイアップされた](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
-  - 「どろぼう」は、[よみうりテレビ系](../Page/讀賣テレビ放送.md "wikilink")[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[まっすぐにいこう。](https://ja.wikipedia.org/wiki/まっすぐにいこう。 "wikilink")』[オープニングテーマとしてタイアップされた](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+  - 「アンドロメダ」は、[グリコ乳業](../Page/グリコ乳業.md "wikilink")「カフェオーレ」[CMソングとしてタイアップされた](../Page/コマーシャルソング.md "wikilink")。
+  - 「どろぼう」は、[よみうりテレビ系](../Page/讀賣テレビ放送.md "wikilink")[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[まっすぐにいこう。](../Page/まっすぐにいこう。.md "wikilink")』[オープニングテーマとしてタイアップされた](../Page/主題歌.md "wikilink")。
 
 ## 曲目
 

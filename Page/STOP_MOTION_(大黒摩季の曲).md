@@ -5,9 +5,9 @@
 
 ## 概要
 
-デビューシングル。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列のドラマ『[女事件記者立花圭子](https://ja.wikipedia.org/wiki/女事件記者立花圭子 "wikilink")』の主題歌であった。
+デビューシングル。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列のドラマ『[女事件記者立花圭子](../Page/女事件記者立花圭子.md "wikilink")』の主題歌であった。
 
-本曲は元々大黒が[1991年](../Page/1991年.md "wikilink")に「STOP MOTION ～永遠に～」という曲名でSILK（[大森絹子](https://ja.wikipedia.org/wiki/大森絹子 "wikilink")）に提供した曲であり、大黒のセルフカバー曲となる。
+本曲は元々大黒が[1991年](../Page/1991年.md "wikilink")に「STOP MOTION ～永遠に～」という曲名でSILK（[大森絹子](../Page/大森絹子.md "wikilink")）に提供した曲であり、大黒のセルフカバー曲となる。
 
 しかし、まだ無名だったことなどでヒットはならなかった。大黒は発売日にCD店をあちこち回ったが、どこにも自分のシングルCDが置かれていなかったことにショックを受けていた\[1\]。
 
@@ -17,7 +17,7 @@
 
 1.  **STOP MOTION**
       -
-        作詞：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")／作曲：大黒摩季／編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作詞：[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")／作曲：大黒摩季／編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 2.  **復讐GAME**
       -
         作詞：大黒摩季／作曲：大黒摩季／編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
@@ -31,7 +31,7 @@
 
   - [STOP MOTION](https://ja.wikipedia.org/wiki/STOP_MOTION_\(大黒摩季のアルバム\) "wikilink")（アルバムバージョン）
   - [BACK BEATs \#1](../Page/BACK_BEATs_＃1.md "wikilink")
-  - [MAKI OHGURO BEST OF BEST〜All Singles Collection〜](https://ja.wikipedia.org/wiki/MAKI_OHGURO_BEST_OF_BEST〜All_Singles_Collection〜 "wikilink")
+  - [MAKI OHGURO BEST OF BEST〜All Singles Collection〜](../Page/MAKI_OHGURO_BEST_OF_BEST〜All_Singles_Collection〜.md "wikilink")
   - [Greatest Hits 1991-2016 〜All Singles +〜](https://ja.wikipedia.org/wiki/Greatest_Hits_1991-2016_〜All_Singles_+〜 "wikilink")
 
 「復讐GAME」

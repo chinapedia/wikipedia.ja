@@ -15,7 +15,7 @@
       -
         （作詞・作曲:AIKO、編曲:[吉俣良](../Page/吉俣良.md "wikilink")）
         実際にモデルとなったのは高架化される前の旧駅舎である。
-        [PV撮影は](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")[茨城県立取手松陽高等学校](https://ja.wikipedia.org/wiki/茨城県立取手松陽高等学校 "wikilink")と[神奈川県立三崎高等学校](https://ja.wikipedia.org/wiki/神奈川県立三崎高等学校 "wikilink")で行われた。
+        [PV撮影は](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")[茨城県立取手松陽高等学校](../Page/茨城県立取手松陽高等学校.md "wikilink")と[神奈川県立三崎高等学校](https://ja.wikipedia.org/wiki/神奈川県立三崎高等学校 "wikilink")で行われた。
         アルバム『夢の中のまっすぐな道』の「青い光」とどちらをシングル曲にするか最後まで迷ったという一曲である。
 2.  **ハチミツ**
       -
@@ -35,7 +35,7 @@
 
 「三国駅」の歌詞にある「あそこの[ボーリング場](https://ja.wikipedia.org/wiki/ボウリング場 "wikilink")」とは、この駅から神崎川を渡った所にある「新三国アルゴ」（新三国ボウル） とされ、プロモーションビデオにも建物の外観が映っている。
 
-なお、直前の歌詞に「変わらない街並み」とあるが、駅周辺は[区画整理](https://ja.wikipedia.org/wiki/区画整理 "wikilink")が実施されて駅が移設・高架化され、その東口には[ロータリー](https://ja.wikipedia.org/wiki/ロータリー "wikilink")と[再開発](https://ja.wikipedia.org/wiki/再開発 "wikilink")ビルが完成し、西口には[高層マンション](https://ja.wikipedia.org/wiki/高層マンション "wikilink")が林立し、大きく変わった。なお、新三国アルゴは2011年6月30日に閉館し、取り壊されたが、その後建て替えが進められ、2013年8月にボウリング場を含む複合レジャー施設『ALgo7』として再オープンした。
+なお、直前の歌詞に「変わらない街並み」とあるが、駅周辺は[区画整理](https://ja.wikipedia.org/wiki/区画整理 "wikilink")が実施されて駅が移設・高架化され、その東口には[ロータリー](https://ja.wikipedia.org/wiki/ロータリー "wikilink")と[再開発](../Page/再開発.md "wikilink")ビルが完成し、西口には[高層マンション](https://ja.wikipedia.org/wiki/高層マンション "wikilink")が林立し、大きく変わった。なお、新三国アルゴは2011年6月30日に閉館し、取り壊されたが、その後建て替えが進められ、2013年8月にボウリング場を含む複合レジャー施設『ALgo7』として再オープンした。
 
 ## 脚注
 

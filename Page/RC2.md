@@ -1,13 +1,13 @@
 > この記事は[RC2](https://ja.wikipedia.org/wiki/RC2)から翻訳されています。
 
 
-**RC2** は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ロナルド・リベスト](../Page/ロナルド・リベスト.md "wikilink")が設計した[ブロック暗号](https://ja.wikipedia.org/wiki/ブロック暗号 "wikilink")。"RC" は "Ron's Code" または "Rivest Cipher" の略。リベストの設計した他の暗号として [RC4](../Page/RC4.md "wikilink")、[RC5](https://ja.wikipedia.org/wiki/RC5 "wikilink")、[RC6](https://ja.wikipedia.org/wiki/RC6 "wikilink") がある。
+**RC2** は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ロナルド・リベスト](../Page/ロナルド・リベスト.md "wikilink")が設計した[ブロック暗号](../Page/ブロック暗号.md "wikilink")。"RC" は "Ron's Code" または "Rivest Cipher" の略。リベストの設計した他の暗号として [RC4](../Page/RC4.md "wikilink")、[RC5](../Page/RC5.md "wikilink")、[RC6](../Page/RC6.md "wikilink") がある。
 
 ## 概要
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:RC2_InfoBox_Diagram.png "wikilink") RC2 の開発資金は、[Lotus Notesソフトウェアの一部として輸出可能な独自の](https://ja.wikipedia.org/wiki/Lotus_Notes "wikilink")[暗号](../Page/暗号.md "wikilink")を探していた[ロータス社が資金提供した](../Page/ロータス_\(ソフトウェア\).md "wikilink")（輸出以前に[NSAの評価が必要だった](../Page/アメリカ国家安全保障局.md "wikilink")）。NSA はいくつかの修正を示唆し、リベストはそれを取り入れた。さらなる交渉の末、この暗号は[1989年](../Page/1989年.md "wikilink")に輸出が許可された。RC4と同様 40ビットのキーを持つ RC2 は[アメリカ合衆国の暗号輸出規制の中では重宝された](https://ja.wikipedia.org/wiki/アメリカ合衆国からの暗号の輸出規制 "wikilink")。
 
-当初、アルゴリズムの詳細は秘密とされたが（[RSAセキュリティ](../Page/RSAセキュリティ.md "wikilink")が権利を保有）、[1996年](../Page/1996年.md "wikilink")1月29日、RC2 のソースコードが匿名で[ネットニュース](../Page/ネットニュース.md "wikilink")の sci.crypt にポストされてしまった。似たような機密開示は RC4 で既に発生していた。ポストした者が仕様にアクセスする権限を持っていたのか、[リバースエンジニアリング](https://ja.wikipedia.org/wiki/リバースエンジニアリング "wikilink")でソースを作成したのかは不明である。
+当初、アルゴリズムの詳細は秘密とされたが（[RSAセキュリティ](../Page/RSAセキュリティ.md "wikilink")が権利を保有）、[1996年](../Page/1996年.md "wikilink")1月29日、RC2 のソースコードが匿名で[ネットニュース](../Page/ネットニュース.md "wikilink")の sci.crypt にポストされてしまった。似たような機密開示は RC4 で既に発生していた。ポストした者が仕様にアクセスする権限を持っていたのか、[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")でソースを作成したのかは不明である。
 
 RC2 は 64 ビットブロック暗号で任意長の[鍵が可能である](../Page/鍵_\(暗号\).md "wikilink")。18ラウンドの変形[Feistel構造](../Page/Feistel構造.md "wikilink")で、うち 16 ラウンドが1つのタイプ(*MIXING*)、2ラウンドがもう1つのタイプ(*MASHING*)である。MIXING ラウンドは 4 種類のMIX変換から構成される。
 

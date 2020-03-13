@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[GLAY Acoustic Live in 日本武道館 produced by JIRO](../Page/GLAY_Acoustic_Live_in_日本武道館_produced_by_JIRO.md "wikilink")』『[GLAY ARENA TOUR 2000 “HEAVY GAUGE” in SAITAMA SUPER ARENA](../Page/GLAY_ARENA_TOUR_2000“HEAVY_GAUGE”in_SAITAMA_SUPER_ARENA.md "wikilink")』と同時に発売された。この同時発売された3作とボーナス・ディスクがセットになった『[LIVE DVD BOX vol.1 (includes LIVE DVD 3 Titles & GLAY Perfect Data 1994-2004)](https://ja.wikipedia.org/wiki/LIVE_DVD_BOX_vol.1\(includes_LIVE_DVD_3_Titles_&_GLAY_Perfect_Data_1994-2004\) "wikilink")』も同時発売された。
+『[GLAY Acoustic Live in 日本武道館 produced by JIRO](../Page/GLAY_Acoustic_Live_in_日本武道館_produced_by_JIRO.md "wikilink")』『[GLAY ARENA TOUR 2000 “HEAVY GAUGE” in SAITAMA SUPER ARENA](../Page/GLAY_ARENA_TOUR_2000“HEAVY_GAUGE”in_SAITAMA_SUPER_ARENA.md "wikilink")』と同時に発売された。この同時発売された3作とボーナス・ディスクがセットになった『[LIVE DVD BOX vol.1 (includes LIVE DVD 3 Titles & GLAY Perfect Data 1994-2004)](../Page/LIVE_DVD_BOX_vol.1\(includes_LIVE_DVD_3_Titles_&_GLAY_Perfect_Data_1994-2004\).md "wikilink")』も同時発売された。
 
 2001年に行われた2年ぶりの[GLAY EXPO](../Page/GLAY_EXPO.md "wikilink")、「GLAY EXPO 2001 “GLOBAL COMMUNICATION”」から、7月29日の[東京スタジアム](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink")（現・味の素スタジアム）での公演を収録。この作品は2001年[9月1日](../Page/9月1日.md "wikilink")に[パーフェクト・チョイス](../Page/パーフェクト・チョイス.md "wikilink")にて放送されたもの。
 

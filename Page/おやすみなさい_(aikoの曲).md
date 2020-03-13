@@ -7,8 +7,8 @@
 
   - 前作「ロージー」から約半年ぶりとなるシングル。
   - 初回限定盤はカラートレイ仕様。ジャケットの写真は初回限定盤と通常盤で同じものが使われている。
-  - 「おやすみなさい」は[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[さよなら、小津先生](../Page/さよなら、小津先生.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の[エンディングテーマに起用され](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、aikoの楽曲史上初めてのドラマ[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")となった。
-  - 「陽と陰」の読みは「ひとかげ」で、アルバム『[秋 そばにいるよ](https://ja.wikipedia.org/wiki/秋_そばにいるよ "wikilink")』にも収録された。
+  - 「おやすみなさい」は[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[さよなら、小津先生](../Page/さよなら、小津先生.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の[エンディングテーマに起用され](../Page/主題歌.md "wikilink")、aikoの楽曲史上初めてのドラマ[タイアップ](../Page/タイアップ.md "wikilink")となった。
+  - 「陽と陰」の読みは「ひとかげ」で、アルバム『[秋 そばにいるよ](../Page/秋_そばにいるよ.md "wikilink")』にも収録された。
 
 ## 曲目
 

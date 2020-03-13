@@ -1,7 +1,7 @@
 > この記事は[RC5](https://ja.wikipedia.org/wiki/RC5)から翻訳されています。
 
 
-**RC5** はその単純さが特徴の[ブロック暗号](https://ja.wikipedia.org/wiki/ブロック暗号 "wikilink")の一種。[1994年](../Page/1994年.md "wikilink")、[ロナルド・リベスト](../Page/ロナルド・リベスト.md "wikilink")が設計した。*RC* は "Rivest Cipher" または "Ron's Code" の略（[RC2](../Page/RC2.md "wikilink")、[RC4](../Page/RC4.md "wikilink")参照）。[AESの候補となった](../Page/Advanced_Encryption_Standard.md "wikilink")[RC6](https://ja.wikipedia.org/wiki/RC6 "wikilink")はRC5をベースとしている。
+**RC5** はその単純さが特徴の[ブロック暗号](../Page/ブロック暗号.md "wikilink")の一種。[1994年](../Page/1994年.md "wikilink")、[ロナルド・リベスト](../Page/ロナルド・リベスト.md "wikilink")が設計した。*RC* は "Rivest Cipher" または "Ron's Code" の略（[RC2](../Page/RC2.md "wikilink")、[RC4](../Page/RC4.md "wikilink")参照）。[AESの候補となった](../Page/Advanced_Encryption_Standard.md "wikilink")[RC6](../Page/RC6.md "wikilink")はRC5をベースとしている。
 
 ## 概要
 
@@ -21,7 +21,7 @@ RC5 は、データ依存の回転(data-dependent rotation)という目新しい
 
 12ラウンドの RC5（ブロック長 64ビット）は 2<sup>44</sup> 個の選択平文を使った[差分攻撃で破られることが示された](../Page/差分解読法.md "wikilink")\[1\]。18 から 20 ラウンドでは解読できないと言われている。
 
-このアルゴリズムの特許を保有する[RSAセキュリティ](../Page/RSAセキュリティ.md "wikilink")は RC5 で作成した[暗号文](https://ja.wikipedia.org/wiki/暗号文 "wikilink")を解読できた者に 1万ドルを提供する暗号解読コンテストをいくつか発表している。この暗号解読コンテストのうち56ビットと64ビットの鍵の暗号については、[distributed.net](https://ja.wikipedia.org/wiki/distributed.net "wikilink")が組織した[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")によって解読された。なお、その後の状況の変化により、2007年9月、RSAセキュリティは暗号解読コンテストの中止を発表した（distributed.netでは 引き続き72ビットの鍵の暗号解読を継続している）。
+このアルゴリズムの特許を保有する[RSAセキュリティ](../Page/RSAセキュリティ.md "wikilink")は RC5 で作成した[暗号文](../Page/暗号文.md "wikilink")を解読できた者に 1万ドルを提供する暗号解読コンテストをいくつか発表している。この暗号解読コンテストのうち56ビットと64ビットの鍵の暗号については、[distributed.net](https://ja.wikipedia.org/wiki/distributed.net "wikilink")が組織した[分散コンピューティング](../Page/分散コンピューティング.md "wikilink")によって解読された。なお、その後の状況の変化により、2007年9月、RSAセキュリティは暗号解読コンテストの中止を発表した（distributed.netでは 引き続き72ビットの鍵の暗号解読を継続している）。
 
 ## 脚注
 
@@ -36,7 +36,7 @@ RC5 は、データ依存の回転(data-dependent rotation)という目新しい
 
 ## 関連項目
 
-  - [RC6](https://ja.wikipedia.org/wiki/RC6 "wikilink") / [ブロック暗号](https://ja.wikipedia.org/wiki/ブロック暗号 "wikilink") / [暗号](../Page/暗号.md "wikilink")
+  - [RC6](../Page/RC6.md "wikilink") / [ブロック暗号](../Page/ブロック暗号.md "wikilink") / [暗号](../Page/暗号.md "wikilink")
   - [Madryga](https://ja.wikipedia.org/wiki/Madryga "wikilink")
   - [Red Pike](https://ja.wikipedia.org/wiki/Red_Pike "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-大黒が[ビーイング](../Page/ビーイング.md "wikilink")在籍時代に東芝EMIから発表した最後のシングル。この後、アルバム「[U.Be Love](https://ja.wikipedia.org/wiki/U.Be_Love "wikilink")」を経てビーイング直営のレコード会社である[B-Gram RECORDSへ移籍する](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[PERSONAL WATCHING JAB\!](https://ja.wikipedia.org/wiki/PERSONAL_WATCHING_JAB! "wikilink")』オープニングテーマ曲に使用された。 約40万枚を売り上げヒットした。
+大黒が[ビーイング](../Page/ビーイング.md "wikilink")在籍時代に東芝EMIから発表した最後のシングル。この後、アルバム「[U.Be Love](https://ja.wikipedia.org/wiki/U.Be_Love "wikilink")」を経てビーイング直営のレコード会社である[B-Gram RECORDSへ移籍する](../Page/B-Gram_RECORDS.md "wikilink")。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[PERSONAL WATCHING JAB\!](https://ja.wikipedia.org/wiki/PERSONAL_WATCHING_JAB! "wikilink")』オープニングテーマ曲に使用された。 約40万枚を売り上げヒットした。
 
 ## 収録曲
 
@@ -13,7 +13,7 @@
       -
         作詞・作曲：大黒摩季　編曲：葉山たけし
         フジテレビ系「PERSONAL WATCHING JAB\!」オープニング・テーマ曲
-        ブラックテイストを取り入れたそれまでのシングルから一転、ホーンセクションを取り入れたロックテイストの強い楽曲。サックスで[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")の[勝田一樹](https://ja.wikipedia.org/wiki/勝田一樹 "wikilink")、トロンボーンで[野村裕幸](../Page/野村裕幸.md "wikilink")らが参加している。
+        ブラックテイストを取り入れたそれまでのシングルから一転、ホーンセクションを取り入れたロックテイストの強い楽曲。サックスで[DIMENSION](../Page/DIMENSION.md "wikilink")の[勝田一樹](../Page/勝田一樹.md "wikilink")、トロンボーンで[野村裕幸](../Page/野村裕幸.md "wikilink")らが参加している。
 2.  **スキなんだもんしょうがないジャン**
       -
         作詞・作曲：大黒摩季　編曲：葉山たけし
@@ -25,7 +25,7 @@
 Harlem Night
 
   - [U.Be Love](https://ja.wikipedia.org/wiki/U.Be_Love "wikilink")
-  - [MAKI OHGURO BEST OF BEST〜All Singles Collection〜](https://ja.wikipedia.org/wiki/MAKI_OHGURO_BEST_OF_BEST〜All_Singles_Collection〜 "wikilink")
+  - [MAKI OHGURO BEST OF BEST〜All Singles Collection〜](../Page/MAKI_OHGURO_BEST_OF_BEST〜All_Singles_Collection〜.md "wikilink")
   - [LUXURY 22-24pm](https://ja.wikipedia.org/wiki/LUXURY_22-24pm "wikilink")
 
 <!-- end list -->

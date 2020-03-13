@@ -3,13 +3,13 @@
 
 『**きみにしか聞こえない CALLING YOU**』（きみにしかきこえない コーリング・ユー）は、[乙一](../Page/乙一.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")である。3作を収録した短編集。[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")から刊行されている。イラストは[羽住都](https://ja.wikipedia.org/wiki/羽住都 "wikilink")。
 
-『Calling You』は、「きみにしか聞こえない CALLING YOU」のタイトルで[2003年](../Page/2003年.md "wikilink")に[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")および漫画（他「傷-KIZ/KIDS-」収録）が出版され、また「きみにしか聞こえない」のタイトルで[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）にて連載、[2007年](../Page/2007年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")から映画が公開されている。
+『Calling You』は、「きみにしか聞こえない CALLING YOU」のタイトルで[2003年](../Page/2003年.md "wikilink")に[ドラマCD](../Page/ドラマCD.md "wikilink")および漫画（他「傷-KIZ/KIDS-」収録）が出版され、また「きみにしか聞こえない」のタイトルで[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）にて連載、[2007年](../Page/2007年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")から映画が公開されている。
 
 韓国映画『[イルマーレ](../Page/イルマーレ.md "wikilink")』と話が似ていると言われるが、原作『きみにしか聞こえない Calling You 』（初出：ザ・スニーカー 2000年4月号）のほうが『イルマーレ』（2000年9月9日韓国で公開） より先に世に出ている。
 
 ## 収録作品
 
-  - Calling You （初出：[ザ・スニーカー](https://ja.wikipedia.org/wiki/ザ・スニーカー "wikilink") 2000年4月号）
+  - Calling You （初出：[ザ・スニーカー](../Page/ザ・スニーカー.md "wikilink") 2000年4月号）
   - 傷 -KIZ/KIDS- （初出：ザ・スニーカー 2000年10月号）
   - 華歌 （書き下ろし）
 
@@ -31,17 +31,17 @@
   - 山口先生：[高田延彦](../Page/高田延彦.md "wikilink")
   - 相原ミキ：[坂田梨香子](https://ja.wikipedia.org/wiki/坂田梨香子 "wikilink")
   - 相原哲司：[中野英雄](../Page/中野英雄.md "wikilink")
-  - 相原伸子：[古手川祐子](https://ja.wikipedia.org/wiki/古手川祐子 "wikilink")
+  - 相原伸子：[古手川祐子](../Page/古手川祐子.md "wikilink")
   - 戸田：[岩城滉一](https://ja.wikipedia.org/wiki/岩城滉一 "wikilink") （特別出演）
-  - 野崎さち：[八千草薫](https://ja.wikipedia.org/wiki/八千草薫 "wikilink")
+  - 野崎さち：[八千草薫](../Page/八千草薫.md "wikilink")
 
 ### スタッフ
 
   - 監督：[荻島達也](https://ja.wikipedia.org/wiki/荻島達也 "wikilink")
   - 脚本：[金杉弘子](https://ja.wikipedia.org/wiki/金杉弘子 "wikilink")
   - プロデューサー：[松橋真三](https://ja.wikipedia.org/wiki/松橋真三 "wikilink")
-  - 音楽：[大谷幸](https://ja.wikipedia.org/wiki/大谷幸 "wikilink")
-  - 撮影：[中山光一](https://ja.wikipedia.org/wiki/中山光一 "wikilink")
+  - 音楽：[大谷幸](../Page/大谷幸.md "wikilink")
+  - 撮影：[中山光一](../Page/中山光一.md "wikilink")
   - 照明：[中須岳士](https://ja.wikipedia.org/wiki/中須岳士 "wikilink")
   - 美術：[松塚隆史](https://ja.wikipedia.org/wiki/松塚隆史 "wikilink")
   - 装飾：[緒梅愛](https://ja.wikipedia.org/wiki/緒梅愛 "wikilink")
@@ -84,24 +84,24 @@
 ### キャスト
 
   - 相原リョウ：[新谷良子](../Page/新谷良子.md "wikilink")
-  - 野崎シンヤ：[入野自由](https://ja.wikipedia.org/wiki/入野自由 "wikilink")
+  - 野崎シンヤ：[入野自由](../Page/入野自由.md "wikilink")
 
 <!-- end list -->
 
-  - 女子生徒：[水野理紗](https://ja.wikipedia.org/wiki/水野理紗 "wikilink")
+  - 女子生徒：[水野理紗](../Page/水野理紗.md "wikilink")
   - 女子生徒：[須加みき](../Page/須加みき.md "wikilink")
   - 女子生徒：[西原ゆーこ](https://ja.wikipedia.org/wiki/西原ゆーこ "wikilink")
-  - リョウの母：[尾小平志津香](https://ja.wikipedia.org/wiki/尾小平志津香 "wikilink")
+  - リョウの母：[尾小平志津香](../Page/尾小平志津香.md "wikilink")
   - おばあさん：[田畑ゆり](https://ja.wikipedia.org/wiki/田畑ゆり "wikilink")
-  - 岡崎：[豊永利行](https://ja.wikipedia.org/wiki/豊永利行 "wikilink")
+  - 岡崎：[豊永利行](../Page/豊永利行.md "wikilink")
   - 国語教師：[下崎紘史](../Page/下崎紘史.md "wikilink")
-  - 体育教師：[岩崎征実](https://ja.wikipedia.org/wiki/岩崎征実 "wikilink")
-  - 生物教師：[竹本英史](https://ja.wikipedia.org/wiki/竹本英史 "wikilink")
+  - 体育教師：[岩崎征実](../Page/岩崎征実.md "wikilink")
+  - 生物教師：[竹本英史](../Page/竹本英史.md "wikilink")
   - 運転手：[近藤孝行](../Page/近藤孝行.md "wikilink")
 
 ### スタッフ
 
-  - 演出：[郷田ほづみ](https://ja.wikipedia.org/wiki/郷田ほづみ "wikilink")
+  - 演出：[郷田ほづみ](../Page/郷田ほづみ.md "wikilink")
   - 脚本：乙一、[大坂尚子](https://ja.wikipedia.org/wiki/大坂尚子 "wikilink")
   - 装画：[羽住都](https://ja.wikipedia.org/wiki/羽住都 "wikilink")
 

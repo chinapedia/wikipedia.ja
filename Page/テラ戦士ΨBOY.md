@@ -22,7 +22,7 @@
   - ブー
     ゲームセンターで遊んでいたMOMOKOたちを刺客から救い、仲間となる。手から高熱を発して、掴んだ相手を攻撃する能力を持つ。
   - ステーション
-    [テレパシー](https://ja.wikipedia.org/wiki/テレパシー "wikilink")能力を持つ青年。ゲームセンターで遊んでいたMOMOKOたちに、ゲーム機の画面を通じて刺客の襲来を知らせた後、危険を脱した彼女らに合流して仲間となる。
+    [テレパシー](../Page/テレパシー.md "wikilink")能力を持つ青年。ゲームセンターで遊んでいたMOMOKOたちに、ゲーム機の画面を通じて刺客の襲来を知らせた後、危険を脱した彼女らに合流して仲間となる。
   - BOY
     宇宙の彼方からやって来た謎の生命体。「ディラスポーラ」のメッセージのもと、MOMOKOを始めとするエスパーたちにコンタクトを取り、助けを求める。
 
@@ -39,9 +39,9 @@
 
   - MOMOKO：[菊池桃子](../Page/菊池桃子.md "wikilink")
   - 片山先生：[早乙女愛](../Page/早乙女愛.md "wikilink")
-  - ゴールデン・フレイム：[益岡徹](https://ja.wikipedia.org/wiki/益岡徹 "wikilink")
+  - ゴールデン・フレイム：[益岡徹](../Page/益岡徹.md "wikilink")
   - マルイ：[竹中直人](../Page/竹中直人.md "wikilink")
-  - モトハル：[井浦秀智](https://ja.wikipedia.org/wiki/井浦秀知 "wikilink")
+  - モトハル：[井浦秀智](../Page/井浦秀知.md "wikilink")
   - ギンジロー：[磯崎洋介](../Page/磯崎洋介.md "wikilink")
   - トオル：栗田光志
   - ブー：五十嵐登
@@ -49,7 +49,7 @@
   - モトハルの母：[船場牡丹](https://ja.wikipedia.org/wiki/船場牡丹 "wikilink")
   - ギンジローの母：[中村まり子](../Page/中村まり子.md "wikilink")
   - 現国：[加藤善博](../Page/加藤善博.md "wikilink")
-  - 数学：[石丸謙二郎](https://ja.wikipedia.org/wiki/石丸謙二郎 "wikilink")
+  - 数学：[石丸謙二郎](../Page/石丸謙二郎.md "wikilink")
   - おしぼり屋：[高野嗣郎](https://ja.wikipedia.org/wiki/高野嗣郎 "wikilink")
   - BOYの声：[島本須美](../Page/島本須美.md "wikilink")
   - 芸能人風おばさん：[あき竹城](../Page/あき竹城.md "wikilink")
@@ -64,15 +64,15 @@
   - 監督：[石山昭信](https://ja.wikipedia.org/wiki/石山昭信 "wikilink")
   - 脚本：[原田眞人](../Page/原田眞人.md "wikilink")
   - 原作：マイク・スプリングレイン
-  - 音楽：[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")
-  - オーケストレーション：[朝川朋之](https://ja.wikipedia.org/wiki/朝川朋之 "wikilink")
+  - 音楽：[林哲司](../Page/林哲司.md "wikilink")
+  - オーケストレーション：[朝川朋之](../Page/朝川朋之.md "wikilink")
   - 撮影：山崎善弘
   - 美術：渡辺平八郎
   - 照明：磯野雅宏
   - 編集：井上治
   - 助監督：佐藤敏宏
   - 音響効果：斉藤昌利
-  - 操演：小林正己、[尾上克郎](https://ja.wikipedia.org/wiki/尾上克郎 "wikilink")、[國米修市](../Page/國米修市.md "wikilink")
+  - 操演：小林正己、[尾上克郎](../Page/尾上克郎.md "wikilink")、[國米修市](../Page/國米修市.md "wikilink")
   - 装飾：山崎輝、石田登、富沢幸男、[長谷川圭一](../Page/長谷川圭一.md "wikilink")
   - 技斗：[高瀬将嗣](../Page/高瀬将嗣.md "wikilink")
   - カースタント：スーパードライバーズ
@@ -98,7 +98,7 @@
   - プロデューサー：岡田裕、八巻晶彦
   - 企画：[藤田浩一](https://ja.wikipedia.org/wiki/藤田浩一 "wikilink")、小向正司（学研）、遠藤克彦（VAP）、波多腰晋二（日本テレビ）
   - 制作：ニュー・センチュリー・プロデューサーズ
-  - 製作：[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[学研ヤング編集部](../Page/学研ホールディングス.md "wikilink")、トライアングル・プロダクション、[バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")
+  - 製作：[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、[学研ヤング編集部](../Page/学研ホールディングス.md "wikilink")、トライアングル・プロダクション、[バップ](../Page/バップ.md "wikilink")
 
 ## 主題歌
 
@@ -131,14 +131,14 @@
 ## 逸話
 
   - ゴールデン・フレイムの異様な特殊メイクは、映画『[宇宙水爆戦](../Page/宇宙水爆戦.md "wikilink")』のメタルナ人エグセターへのオマージュとしてデザインされている。そのかつらは白髪のものがなかった為、普通のかつらを脱色したものである。
-  - ゴールデン･フレイムは後の漫画『[強殖装甲ガイバー](https://ja.wikipedia.org/wiki/強殖装甲ガイバー "wikilink")』の[ギュオーのモデルになったと作者がコメントしている](https://ja.wikipedia.org/wiki/強殖装甲ガイバー#獣神将（ゾアロード） "wikilink")。
+  - ゴールデン･フレイムは後の漫画『[強殖装甲ガイバー](../Page/強殖装甲ガイバー.md "wikilink")』の[ギュオーのモデルになったと作者がコメントしている](https://ja.wikipedia.org/wiki/強殖装甲ガイバー#獣神将（ゾアロード） "wikilink")。
 
 ## 関連項目
 
-  - [横浜ドリームランド](https://ja.wikipedia.org/wiki/横浜ドリームランド "wikilink")
+  - [横浜ドリームランド](../Page/横浜ドリームランド.md "wikilink")
       -
         物語の発端となる架空の遊園地「青葉台遊園地」の撮影に使用された。
-  - [中央大学](https://ja.wikipedia.org/wiki/中央大学 "wikilink")
+  - [中央大学](../Page/中央大学.md "wikilink")
       -
         MOMOKOたちが通う高校の撮影に使用された。
 
@@ -146,7 +146,7 @@
 
 **音楽**
 
-  - 菊池桃子 『OCEAN SIDE』 [バップ](https://ja.wikipedia.org/wiki/バップ "wikilink")、1984年
+  - 菊池桃子 『OCEAN SIDE』 [バップ](../Page/バップ.md "wikilink")、1984年
   - 菊池桃子 『BOYのテーマ』 バップ、1985年
 
 **その他**

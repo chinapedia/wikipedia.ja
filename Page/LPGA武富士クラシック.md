@@ -1,7 +1,7 @@
 > この記事は[LPGA](https://ja.wikipedia.org/wiki/LPGA)から翻訳されています。
 
 
-**LPGA[武富士](../Page/武富士.md "wikilink")クラシック**は、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")郊外のザ・ラスベガスカントリークラブで行われていた[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[LPGAツアーの一つ](https://ja.wikipedia.org/wiki/全米女子プロゴルフ協会 "wikilink")。
+**LPGA[武富士](../Page/武富士.md "wikilink")クラシック**は、[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")郊外のザ・ラスベガスカントリークラブで行われていた[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[LPGAツアーの一つ](../Page/全米女子プロゴルフ協会.md "wikilink")。
 
 大会当初は[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")で行われていたが、2003年から現在の場所に変更された。なお、大会は数少ない3日制で行われ、木・金に予選、土曜日に決勝ラウンドが行われていたが、消費者金融業界の業績悪化などを理由に2006年大会を最後に幕を閉じた。
 
@@ -19,7 +19,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><a href="../Page/ロレーナ・オチョア.md" title="wikilink">ロレーナ・オチョア</a></p></td>
 <td></td>
 <td><p>197 (-6)</p></td>
@@ -28,7 +28,7 @@
 <td><p>$165,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェンディ・ウォード" title="wikilink">ウェンディ・ウォード</a></p></td>
 <td></td>
 <td><p>278 (-6)</p></td>
@@ -56,7 +56,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニカ・ソレンスタム" title="wikilink">アニカ・ソレンスタム</a></p></td>
+<td><p><a href="../Page/アニカ・ソレンスタム.md" title="wikilink">アニカ・ソレンスタム</a></p></td>
 <td></td>
 <td><p>196 (-14)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ワイコロア・ビーチ" title="wikilink">ワイコロア・ビーチ</a>リゾート</p></td>
@@ -74,7 +74,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カリー・ウェブ" title="wikilink">カリー・ウェブ</a></p></td>
+<td><p><a href="../Page/カリー・ウェブ.md" title="wikilink">カリー・ウェブ</a></p></td>
 <td></td>
 <td><p>207 (-9)</p></td>
 <td><p>コナ・カントリークラブ</p></td>

@@ -5,15 +5,15 @@
 
 ## 概要
 
-プロジェクトは[1977年](../Page/1977年.md "wikilink")に開始され、[1984年](../Page/1984年.md "wikilink")までに数百台のワークステーションが製作され使用された。[AMD](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink") [2901](../Page/AMD_Am2900.md "wikilink") [ビットスライスプロセッサ](https://ja.wikipedia.org/wiki/ビットスライスプロセッサ "wikilink")を使用している。高解像度の[ディスプレイ](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")、[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[レーザープリンター](https://ja.wikipedia.org/wiki/レーザープリンター "wikilink")インタフェース、[ネットワークインタフェースを備える](https://ja.wikipedia.org/wiki/コンピュータネットワーク "wikilink")。ソフトウェアは全て[Modula-2](https://ja.wikipedia.org/wiki/Modula-2 "wikilink")で書かれ、Lidasと呼ばれる[関係データベース](https://ja.wikipedia.org/wiki/関係データベース "wikilink")も備えている。
+プロジェクトは[1977年](../Page/1977年.md "wikilink")に開始され、[1984年](../Page/1984年.md "wikilink")までに数百台のワークステーションが製作され使用された。[AMD](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink") [2901](../Page/AMD_Am2900.md "wikilink") [ビットスライスプロセッサ](https://ja.wikipedia.org/wiki/ビットスライスプロセッサ "wikilink")を使用している。高解像度の[ディスプレイ](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")、[マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[レーザープリンター](../Page/レーザープリンター.md "wikilink")インタフェース、[ネットワークインタフェースを備える](../Page/コンピュータネットワーク.md "wikilink")。ソフトウェアは全て[Modula-2](https://ja.wikipedia.org/wiki/Modula-2 "wikilink")で書かれ、Lidasと呼ばれる[関係データベース](https://ja.wikipedia.org/wiki/関係データベース "wikilink")も備えている。
 
 "The Art of Simplicity"でのSven Erik Knudsenの寄稿には、「Lilithのクロック周波数は約7MHzで、1秒間に100万から200万命令を実行する。… 当初、主記憶容量は64kワード（1ワードは16ビット）と計画されていたが、最初のバージョンが完成した直後に記憶容量を2倍にした。ただし、通常の[Modula-2](https://ja.wikipedia.org/wiki/Modula-2 "wikilink")プログラムは変数の格納に先頭の64kワードしか使えない」とある\[1\]。
 
 ## 歴史
 
-[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")は1976年から1977年にかけて、[サバティカル](https://ja.wikipedia.org/wiki/サバティカル "wikilink")を利用して[Xeroxの](../Page/ゼロックス.md "wikilink")[パロアルト研究所](https://ja.wikipedia.org/wiki/パロアルト研究所 "wikilink")で働いた。このため、Lilithは[Alto](../Page/Alto.md "wikilink")（[1973年](../Page/1973年.md "wikilink")）の影響を受けて開発された。Altoをヨーロッパに持ち出すことができなかったため、ヴィルトは一から新たなシステムを作ることを決めたのである\[2\]。1985年、再びサバティカルを利用してパロアルト研究所で働き、そのことが[Oberon](https://ja.wikipedia.org/wiki/Oberon "wikilink")の設計へと結びついた。Lilithの後継 [Ceresも](https://ja.wikipedia.org/wiki/:en:Ceres_\(workstation\) "wikilink")1985年に開発された。
+[ニクラウス・ヴィルト](../Page/ニクラウス・ヴィルト.md "wikilink")は1976年から1977年にかけて、[サバティカル](https://ja.wikipedia.org/wiki/サバティカル "wikilink")を利用して[Xeroxの](../Page/ゼロックス.md "wikilink")[パロアルト研究所](../Page/パロアルト研究所.md "wikilink")で働いた。このため、Lilithは[Alto](../Page/Alto.md "wikilink")（[1973年](../Page/1973年.md "wikilink")）の影響を受けて開発された。Altoをヨーロッパに持ち出すことができなかったため、ヴィルトは一から新たなシステムを作ることを決めたのである\[2\]。1985年、再びサバティカルを利用してパロアルト研究所で働き、そのことが[Oberon](../Page/Oberon.md "wikilink")の設計へと結びついた。Lilithの後継 [Ceresも](https://ja.wikipedia.org/wiki/:en:Ceres_\(workstation\) "wikilink")1985年に開発された。
 
-Lilithの[マウスは独自設計で](../Page/マウス_\(コンピュータ\).md "wikilink")、後に[Smaky](https://ja.wikipedia.org/wiki/:en:Smaky "wikilink") コンピュータで使われた。さらに、[Logitechが最初に生産したマウスにもその設計が影響を及ぼしている](https://ja.wikipedia.org/wiki/ロジクール "wikilink")。
+Lilithの[マウスは独自設計で](../Page/マウス_\(コンピュータ\).md "wikilink")、後に[Smaky](https://ja.wikipedia.org/wiki/:en:Smaky "wikilink") コンピュータで使われた。さらに、[Logitechが最初に生産したマウスにもその設計が影響を及ぼしている](../Page/ロジクール.md "wikilink")。
 
 ## その他
 

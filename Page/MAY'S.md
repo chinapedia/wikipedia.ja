@@ -1,7 +1,7 @@
 > この記事は[MAY\'S](https://ja.wikipedia.org/wiki/MAY\'S)から翻訳されています。
 
 
-**MAY'S**（メイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。所属レーベルは[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")内のCROWN VenuS。
+**MAY'S**（メイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。所属レーベルは[日本クラウン](../Page/日本クラウン.md "wikilink")内のCROWN VenuS。
 
 ## 概説
 
@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 作曲、プロデュースを担当している河井純一 a.k.a. NAUGHTY BO-Zは元々かなりの[ロック少年で](../Page/ロック_\(音楽\).md "wikilink")、現在でも1番影響を受けたのは[SIAM SHADEだと語っている](https://ja.wikipedia.org/wiki/SIAM_SHADE "wikilink")。SIAM SHADEの魅力は、「高度な演奏技術、作曲テクニックなどを持ち合わせている上で、それらを単純にひけらかすのではなく、キャッチーなメロディー、一般層が入りやすい表現方法を具体化している理想的なミュージシャン」とラジオ等で語っている。
+  - 作曲、プロデュースを担当している河井純一 a.k.a. NAUGHTY BO-Zは元々かなりの[ロック少年で](../Page/ロック_\(音楽\).md "wikilink")、現在でも1番影響を受けたのは[SIAM SHADEだと語っている](../Page/SIAM_SHADE.md "wikilink")。SIAM SHADEの魅力は、「高度な演奏技術、作曲テクニックなどを持ち合わせている上で、それらを単純にひけらかすのではなく、キャッチーなメロディー、一般層が入りやすい表現方法を具体化している理想的なミュージシャン」とラジオ等で語っている。
 
 <!-- end list -->
 
@@ -33,16 +33,16 @@
 
 ## メンバー
 
-  - **[片桐舞子](https://ja.wikipedia.org/wiki/片桐舞子 "wikilink")**（かたぎり まいこ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")・[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")担当。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[桐生市](../Page/桐生市.md "wikilink")出身。
-  - **[河井純一](https://ja.wikipedia.org/wiki/河井純一 "wikilink")**（かわい じゅんいち） - [プロデューサー](../Page/プロデューサー.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[プログラミング担当](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[入間市](../Page/入間市.md "wikilink")出身。リーダー。
+  - **[片桐舞子](https://ja.wikipedia.org/wiki/片桐舞子 "wikilink")**（かたぎり まいこ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")・[作詞](../Page/作詞.md "wikilink")担当。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[桐生市](../Page/桐生市.md "wikilink")出身。
+  - **[河井純一](https://ja.wikipedia.org/wiki/河井純一 "wikilink")**（かわい じゅんいち） - [プロデューサー](../Page/プロデューサー.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[プログラミング担当](../Page/ミュージックシーケンサー.md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")[入間市](../Page/入間市.md "wikilink")出身。リーダー。
 
 ## 略歴
 
-[2002年](../Page/2002年.md "wikilink")在学中結成。[2004年](../Page/2004年.md "wikilink")から拠点を[東京](../Page/東京.md "wikilink")に移し活動を本格化。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月30日](../Page/11月30日.md "wikilink")、[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『Drawing』で[インディーズ](../Page/インディーズ.md "wikilink")デビュー。
+[2002年](../Page/2002年.md "wikilink")在学中結成。[2004年](../Page/2004年.md "wikilink")から拠点を[東京](../Page/東京.md "wikilink")に移し活動を本格化。[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")、[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『Drawing』で[インディーズ](../Page/インディーズ.md "wikilink")デビュー。
 
 専門学校在学中に結成し、当時から本人達の手作りによる自主制作[CDを数枚制作](../Page/コンパクトディスク.md "wikilink")。クラブでのライブ会場や自身のホームページなどで販売。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[6月9日](../Page/6月9日.md "wikilink")にリリースした[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")限定リミックス集が大手レコードショップ「CISCO RECORDS」や「ダンス・ミュージック・レコード（DMR）」などで総合1位を獲得する。2006年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にリリースされた[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット「[CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")」のリード曲『BIRTH 〜You're the only one Pt.2〜 feat. MAY'S』には片桐舞子が参加。河井純一がNAUGHTY BO-Z名義でプロデュースを担当。USEN総合チャート3位を獲得した。
+[2006年](../Page/2006年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にリリースした[アナログ盤](https://ja.wikipedia.org/wiki/アナログ盤 "wikilink")限定リミックス集が大手レコードショップ「CISCO RECORDS」や「ダンス・ミュージック・レコード（DMR）」などで総合1位を獲得する。2006年[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")にリリースされた[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット「[CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")」のリード曲『BIRTH 〜You're the only one Pt.2〜 feat. MAY'S』には片桐舞子が参加。河井純一がNAUGHTY BO-Z名義でプロデュースを担当。USEN総合チャート3位を獲得した。
 
 [2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")には、アナログリミックスのみ集めたリミックスCDをウェブ予約限定で発売。[2月14日](../Page/2月14日.md "wikilink")に予約を開始したが、わずか数時間でソールドアウトとなる。もともとファンへの感謝の意味を込めた企画であったため、購入出来なかったファンから掲示板へのクレームなどが多数あり、急遽予約期間を延長する事態になる。今作品に収録されている前述のアナログ盤限定リミックスは発売後わずか2週間ほどで売り切れとなり、プレスの度に3日ほどで市場から消えるというかなりのレア音源となった（通常日本ではリミックスというのはあくまでもオマケという概念が強いため、話題になる事は極めて少ない。）。
 
@@ -70,7 +70,7 @@
 
 [2014年](../Page/2014年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")、通算5枚目のオリジナルアルバム『[Kissing](https://ja.wikipedia.org/wiki/Kissing "wikilink")』をリリース。6月にはブラジリアンサウンドなどを取り入れたカバーアルバム『VIVA\!\!\! SUMMER COVERS』を発売し、アルバム収録曲「WAになっておどろう」ではグラミー賞受賞歴のある世界的アーティスト[Fatman Scoopともコラボレーション](https://ja.wikipedia.org/wiki/Fatman_Scoop "wikilink")。またハーフ芸人のデニス植野行雄やアントニーなどと共演したMusic Videoも話題となる。
 
-同年、[劇団MAY'S](https://ja.wikipedia.org/wiki/劇団MAY'S "wikilink")を立ち上げ9月には[サンリオピューロランド](https://ja.wikipedia.org/wiki/サンリオピューロランド "wikilink")にて初の公演を興行。[ハローキティ](../Page/ハローキティ.md "wikilink")などが出演したミュージカル仕立てのライブを繰り広げた。
+同年、[劇団MAY'S](https://ja.wikipedia.org/wiki/劇団MAY'S "wikilink")を立ち上げ9月には[サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")にて初の公演を興行。[ハローキティ](../Page/ハローキティ.md "wikilink")などが出演したミュージカル仕立てのライブを繰り広げた。
 
 [2015年](../Page/2015年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")には、サンリオの人気キャラクター、[ダニエルのダンスユニット](../Page/ディアダニエル.md "wikilink")「[one’s wishes-D](https://ja.wikipedia.org/wiki/one’s_wishes-D "wikilink")」の初シングル「Everybody OK\!? feat. MAY’S」をプロデュース。サンリオピューロランドのショーにも出演する。
 
@@ -298,17 +298,17 @@ KICS-1842</p></td>
 
 #### その他
 
-|                                                                                                                                                |                    | タイトル                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------- |
-| レンタル限定CD                                                                                                                                       | 2009年12月21日        | **Prologue of Amazing**                                                 |
-| 12inch EP                                                                                                                                      | 2009年12月25日        | **The Remixies EP**                                                     |
-| 配信限定シングル                                                                                                                                       | 2010年5月19日         | **星の数だけ抱きしめて**                                                          |
-| ライブ会場・数量限定&レンタル限定シングル                                                                                                                          | 2010年10月1日\[8\]    | **SUPER SONG**                                                          |
-| [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")限定配信                                                                                  | 2011年11月16日        | **今宵、月の下で feat. [上妻宏光](https://ja.wikipedia.org/wiki/上妻宏光 "wikilink")** |
-| ライブ会場・ファンクラブサイト限定シングル                                                                                                                          | 2014年12月20日・12月21日 | **THE CHRISTMAS EP I**                                                  |
-| ライブ会場・ファンクラブサイト限定シングル                                                                                                                          | 2014年12月20日・12月21日 | **THE CHRISTMAS EP II**                                                 |
-| アルバム（クリフエッジ & [LGYankees](https://ja.wikipedia.org/wiki/LGYankees "wikilink") & MAY'S & [Noa](https://ja.wikipedia.org/wiki/Noa "wikilink")名義） | 2015年5月13日         | ''' Quads '''                                                           |
-|                                                                                                                                                |                    |                                                                         |
+|                                                                                                                                                |                    | タイトル                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------------------------------- |
+| レンタル限定CD                                                                                                                                       | 2009年12月21日        | **Prologue of Amazing**                              |
+| 12inch EP                                                                                                                                      | 2009年12月25日        | **The Remixies EP**                                  |
+| 配信限定シングル                                                                                                                                       | 2010年5月19日         | **星の数だけ抱きしめて**                                       |
+| ライブ会場・数量限定&レンタル限定シングル                                                                                                                          | 2010年10月1日\[8\]    | **SUPER SONG**                                       |
+| [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")限定配信                                                                                  | 2011年11月16日        | **今宵、月の下で feat. [上妻宏光](../Page/上妻宏光.md "wikilink")** |
+| ライブ会場・ファンクラブサイト限定シングル                                                                                                                          | 2014年12月20日・12月21日 | **THE CHRISTMAS EP I**                               |
+| ライブ会場・ファンクラブサイト限定シングル                                                                                                                          | 2014年12月20日・12月21日 | **THE CHRISTMAS EP II**                              |
+| アルバム（クリフエッジ & [LGYankees](https://ja.wikipedia.org/wiki/LGYankees "wikilink") & MAY'S & [Noa](https://ja.wikipedia.org/wiki/Noa "wikilink")名義） | 2015年5月13日         | ''' Quads '''                                        |
+|                                                                                                                                                |                    |                                                      |
 
 ### インディーズ
 
@@ -336,28 +336,28 @@ KICS-1842</p></td>
 
 ## タイアップ
 
-|                                                                                                                                       |                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **曲名**                                                                                                                                | **タイアップ**                                                                                                                                                           |
-| Sha la la...                                                                                                                          | [集英社](../Page/集英社.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")「[MORE](../Page/MORE_\(雑誌\).md "wikilink")」CMソング                                          |
-| REAL                                                                                                                                  | [TBS系](../Page/TBSテレビ.md "wikilink")「恋愛脳℃」エンディングテーマ                                                                                                                 |
-| My Everything                                                                                                                         | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ                                                                |
-| Daydream                                                                                                                              | TBS系「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」エンディングテーマ                                                                                                          |
-| KISS 〜恋におちて...冬〜                                                                                                                      | 「WINTER SPORTS FESTA season8」公式テーマソング                                                                                                                               |
-| [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")」POWER PLAY |                                                                                                                                                                     |
-| Sparkling Girl                                                                                                                        | [北海道文化放送](../Page/北海道文化放送.md "wikilink")・[FNS系列](../Page/フジネットワーク.md "wikilink")8局ネット「[UHB杯ジャンプ大会](https://ja.wikipedia.org/wiki/UHB杯ジャンプ大会 "wikilink")」エンディングテーマ   |
-| I WISH                                                                                                                                | [酒井彩名](../Page/酒井彩名.md "wikilink")プロデュース ウエディングドレス「Aya na ture」イメージソング                                                                                              |
-| MaMa (Remix)                                                                                                                          | TBS系「\[\[がっちりマンデー                                                                                                                                                   |
-| Brave Heart (Remix)                                                                                                                   | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・TBS系ドラマ「[漂流ネットカフェ](https://ja.wikipedia.org/wiki/漂流ネットカフェ "wikilink")」主題歌                                   |
-| ONE LOVE 〜100万回のKISSでアイシテル〜                                                                                                           | 「WINTER SPORTS FESTA season9 冬スポ                                                                                                                                    |
-| 永遠                                                                                                                                    | 映画「[音楽人](https://ja.wikipedia.org/wiki/音楽人 "wikilink")」挿入歌                                                                                                          |
-| 星の数だけ抱きしめて                                                                                                                            | 映画「音楽人」主題歌                                                                                                                                                          |
-| Unfair Love                                                                                                                           | [ジャンヌ・アルテス](https://ja.wikipedia.org/wiki/ジャンヌアルテス "wikilink") 香水「ラブ ネバー ダイ ディーバ」イメージソング                                                                            |
-| 遠くへ 〜Spread Your Wings〜                                                                                                               | [尚美ミュージックカレッジ専門学校](../Page/尚美ミュージックカレッジ専門学校.md "wikilink")CMソング                                                                                                     |
-| 日本テレビ系「[ハッピーMusic](https://ja.wikipedia.org/wiki/ハッピーMusic "wikilink")」8月POWER PLAY                                                   |                                                                                                                                                                     |
-| 君に届け...                                                                                                                               | 日本テレビ系アニメ「[君に届け 2ND SEASON](../Page/君に届け.md "wikilink")」エンディングテーマ                                                                                                   |
-| WONDERLAND                                                                                                                            | 「WINTER SPORTS FESTA season 10」公式テーマソング                                                                                                                             |
-| BONDS                                                                                                                                 | [東海テレビ](../Page/東海テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[毒姫とわたし](https://ja.wikipedia.org/wiki/毒姫とわたし "wikilink")」主題歌 |
+|                                                                                                                    |                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **曲名**                                                                                                             | **タイアップ**                                                                                                                                                           |
+| Sha la la...                                                                                                       | [集英社](../Page/集英社.md "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")「[MORE](../Page/MORE_\(雑誌\).md "wikilink")」CMソング                                          |
+| REAL                                                                                                               | [TBS系](../Page/TBSテレビ.md "wikilink")「恋愛脳℃」エンディングテーマ                                                                                                                 |
+| My Everything                                                                                                      | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")」エンディングテーマ                                                                |
+| Daydream                                                                                                           | TBS系「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」エンディングテーマ                                                                                                          |
+| KISS 〜恋におちて...冬〜                                                                                                   | 「WINTER SPORTS FESTA season8」公式テーマソング                                                                                                                               |
+| [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")」POWER PLAY |                                                                                                                                                                     |
+| Sparkling Girl                                                                                                     | [北海道文化放送](../Page/北海道文化放送.md "wikilink")・[FNS系列](../Page/フジネットワーク.md "wikilink")8局ネット「[UHB杯ジャンプ大会](../Page/UHB杯ジャンプ大会.md "wikilink")」エンディングテーマ                      |
+| I WISH                                                                                                             | [酒井彩名](../Page/酒井彩名.md "wikilink")プロデュース ウエディングドレス「Aya na ture」イメージソング                                                                                              |
+| MaMa (Remix)                                                                                                       | TBS系「\[\[がっちりマンデー                                                                                                                                                   |
+| Brave Heart (Remix)                                                                                                | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・TBS系ドラマ「[漂流ネットカフェ](https://ja.wikipedia.org/wiki/漂流ネットカフェ "wikilink")」主題歌                                   |
+| ONE LOVE 〜100万回のKISSでアイシテル〜                                                                                        | 「WINTER SPORTS FESTA season9 冬スポ                                                                                                                                    |
+| 永遠                                                                                                                 | 映画「[音楽人](https://ja.wikipedia.org/wiki/音楽人 "wikilink")」挿入歌                                                                                                          |
+| 星の数だけ抱きしめて                                                                                                         | 映画「音楽人」主題歌                                                                                                                                                          |
+| Unfair Love                                                                                                        | [ジャンヌ・アルテス](https://ja.wikipedia.org/wiki/ジャンヌアルテス "wikilink") 香水「ラブ ネバー ダイ ディーバ」イメージソング                                                                            |
+| 遠くへ 〜Spread Your Wings〜                                                                                            | [尚美ミュージックカレッジ専門学校](../Page/尚美ミュージックカレッジ専門学校.md "wikilink")CMソング                                                                                                     |
+| 日本テレビ系「[ハッピーMusic](https://ja.wikipedia.org/wiki/ハッピーMusic "wikilink")」8月POWER PLAY                                |                                                                                                                                                                     |
+| 君に届け...                                                                                                            | 日本テレビ系アニメ「[君に届け 2ND SEASON](../Page/君に届け.md "wikilink")」エンディングテーマ                                                                                                   |
+| WONDERLAND                                                                                                         | 「WINTER SPORTS FESTA season 10」公式テーマソング                                                                                                                             |
+| BONDS                                                                                                              | [東海テレビ](../Page/東海テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[毒姫とわたし](https://ja.wikipedia.org/wiki/毒姫とわたし "wikilink")」主題歌 |
 
 ## 参加作品
 
@@ -376,10 +376,10 @@ KICS-1842</p></td>
 6.  [HI-D](../Page/HI-D.md "wikilink")『Special Calling 〜Exclusive Collection〜』（2009年3月25日）
       - 7\. 「卒業」 / MAY'S
 7.  [DJ MAYUMI](https://ja.wikipedia.org/wiki/DJ_MAYUMI "wikilink")『PARTY UP』（2009年4月1日）
-      - 1\. 「PARTY UP feat. [ZEEBRA](https://ja.wikipedia.org/wiki/Zeebra "wikilink"), [HOKT](https://ja.wikipedia.org/wiki/HOKT "wikilink"), MAY'S」
+      - 1\. 「PARTY UP feat. [ZEEBRA](../Page/Zeebra.md "wikilink"), [HOKT](https://ja.wikipedia.org/wiki/HOKT "wikilink"), MAY'S」
 8.  [KG](https://ja.wikipedia.org/wiki/KG_\(R&B\) "wikilink")『With You』（2009年4月8日）
       - 1\. 「With You 〜君といつまでも〜 feat. MAY'S」
-9.  [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink")『[Jam the Universe](https://ja.wikipedia.org/wiki/Jam_the_Universe "wikilink")』（2009年9月30日）
+9.  [SOFFet](../Page/SOFFet.md "wikilink")『[Jam the Universe](https://ja.wikipedia.org/wiki/Jam_the_Universe "wikilink")』（2009年9月30日）
       - 2\. 「More than I love you 〜365のキセキ〜 with MAY'S」
 10. [K.J.](../Page/KOHEI_JAPAN.md "wikilink")『大人チャレンジ』（2010年7月28日）
       - 4\. 「あの頃に戻れない feat. MAY'S」
@@ -403,14 +403,14 @@ KICS-1842</p></td>
 ## 交友のあるアーティスト
 
   - [DJ WATARAI](../Page/DJ_WATARAI.md "wikilink")
-  - [Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")
+  - [Zeebra](../Page/Zeebra.md "wikilink")
   - [DABO](../Page/DABO.md "wikilink")
   - [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink")
   - [DOBERMAN INC](https://ja.wikipedia.org/wiki/DOBERMAN_INC "wikilink")
   - [HI-D](../Page/HI-D.md "wikilink")
   - [JAY'ED](../Page/JAY'ED.md "wikilink")
   - [DJ MAYUMI](https://ja.wikipedia.org/wiki/DJ_MAYUMI "wikilink")
-  - [WISE](https://ja.wikipedia.org/wiki/WISE "wikilink")
+  - [WISE](../Page/WISE.md "wikilink")
   - [LLブラザーズ](https://ja.wikipedia.org/wiki/LLブラザーズ "wikilink")
   - [国分太一](../Page/国分太一.md "wikilink") ([TOKIO](../Page/TOKIO.md "wikilink"))
   - [日之内エミ](https://ja.wikipedia.org/wiki/日之内エミ "wikilink")
@@ -418,14 +418,14 @@ KICS-1842</p></td>
   - [中村舞子](https://ja.wikipedia.org/wiki/中村舞子 "wikilink")
   - [Ryohei](../Page/Ryohei.md "wikilink")
   - [クレンチ&ブリスタ](../Page/クレンチ&ブリスタ.md "wikilink")
-  - [小野正利](https://ja.wikipedia.org/wiki/小野正利 "wikilink")
+  - [小野正利](../Page/小野正利.md "wikilink")
   - SATSUKI (元[ZOO](../Page/ZOO_\(ダンス&ボーカルユニット\).md "wikilink"))
   - [CLIFF EDGE](../Page/CLIFF_EDGE.md "wikilink")
   - Jazzy Sport
   - grooveman Spot a.k.a. DJ KOU-G
   - [ENBULL](../Page/ENBULL.md "wikilink")
   - [SHIKATA](../Page/SHIKATA.md "wikilink")
-  - [好色人種](https://ja.wikipedia.org/wiki/好色人種 "wikilink")
+  - [好色人種](../Page/好色人種.md "wikilink")
   - [BACK-ON](../Page/BACK-ON.md "wikilink")
   - [three NATION](https://ja.wikipedia.org/wiki/three_NATION "wikilink")
   - [faith](https://ja.wikipedia.org/wiki/faith_\(ユニット\) "wikilink")

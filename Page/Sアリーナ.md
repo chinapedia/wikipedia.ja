@@ -1,7 +1,7 @@
 > この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
 
 
-**Sアリーナ**とは、[CS放送](../Page/衛星放送.md "wikilink")・[FIGHTING TV サムライで放送されている](https://ja.wikipedia.org/wiki/FIGHTING_TV_サムライ "wikilink")[プロレス](../Page/プロレス.md "wikilink")・[格闘技](../Page/格闘技.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。プロレスや格闘技の試合や記者会見などの模様の他、日替わりコーナーなどを送る情報番組。
+**Sアリーナ**とは、[CS放送](../Page/衛星放送.md "wikilink")・[FIGHTING TV サムライで放送されている](../Page/FIGHTING_TV_サムライ.md "wikilink")[プロレス](../Page/プロレス.md "wikilink")・[格闘技](../Page/格闘技.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。プロレスや格闘技の試合や記者会見などの模様の他、日替わりコーナーなどを送る情報番組。
 
 放送時間は、毎日22:00～23:00（リピート放送あり）。
 
@@ -38,7 +38,7 @@
 
 ### [SアリーナX](../Page/SアリーナX.md "wikilink")
 
-  - Sアリーナ日曜版。毎回レスラーをゲストキャスターとして迎える。アシスタントは[真鍋摩緒](https://ja.wikipedia.org/wiki/真鍋摩緒 "wikilink")(初代)、[ユウキロック](https://ja.wikipedia.org/wiki/ユウキロック "wikilink")(2代目)、サムライガール。2007年7月に放送を終了。その後、ゲストキャスター形式は水曜日へ引き継がれる。
+  - Sアリーナ日曜版。毎回レスラーをゲストキャスターとして迎える。アシスタントは[真鍋摩緒](../Page/真鍋摩緒.md "wikilink")(初代)、[ユウキロック](https://ja.wikipedia.org/wiki/ユウキロック "wikilink")(2代目)、サムライガール。2007年7月に放送を終了。その後、ゲストキャスター形式は水曜日へ引き継がれる。
 
 ## 外部リンク
 

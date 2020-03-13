@@ -6,7 +6,7 @@
 ## 概要
 
   - 雑誌『[egg](https://ja.wikipedia.org/wiki/egg "wikilink")』の人気[読者モデル](../Page/読者モデル.md "wikilink")だったCHIKAを中心に、AKI、HIROの三人で結成されたグループ。[ケイダッシュ](../Page/ケイダッシュ.md "wikilink")傘下の[芸能事務所](../Page/芸能事務所.md "wikilink")「スタッツ」に所属していた縁で、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の[プロデューサー](../Page/プロデューサー.md "wikilink")[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")が楽曲プロデュースを担当した。deepsを逆さにするとspeedであることから「お姉さん版speed」と呼ばれた。
-  - deepsというグループ名には、「同世代のTeenagerより『deep』に生きている女の子」、「一言では言い表せない。女子中・高校生の『deep』な日常を歌う3人の仲間」、「3人に興味を持ってくれた人たち（リスナー）と、ずっと『deep』に付き合っていきたい」という伊秩の思いが込められている。いわゆる「[渋谷](../Page/渋谷.md "wikilink")の[コギャル](https://ja.wikipedia.org/wiki/コギャル "wikilink")」的イメージを全面に打ち出して売り出された。歌詞にも「[むかつく](../Page/吐き気.md "wikilink")」「[キレる](../Page/キレる.md "wikilink")」「[ラブホ](https://ja.wikipedia.org/wiki/ラブホテル "wikilink")」といった、女子高生の話し言葉（俗語）が含まれていた\[2\]。ただし、メンバーのうちAKIは当時は短大生、HIRO、CHIKAはCDデビュー前に高校を中退していることを明かしており、活動中に女子高生だったメンバーはERIのみである。
+  - deepsというグループ名には、「同世代のTeenagerより『deep』に生きている女の子」、「一言では言い表せない。女子中・高校生の『deep』な日常を歌う3人の仲間」、「3人に興味を持ってくれた人たち（リスナー）と、ずっと『deep』に付き合っていきたい」という伊秩の思いが込められている。いわゆる「[渋谷](../Page/渋谷.md "wikilink")の[コギャル](https://ja.wikipedia.org/wiki/コギャル "wikilink")」的イメージを全面に打ち出して売り出された。歌詞にも「[むかつく](../Page/吐き気.md "wikilink")」「[キレる](../Page/キレる.md "wikilink")」「[ラブホ](../Page/ラブホテル.md "wikilink")」といった、女子高生の話し言葉（俗語）が含まれていた\[2\]。ただし、メンバーのうちAKIは当時は短大生、HIRO、CHIKAはCDデビュー前に高校を中退していることを明かしており、活動中に女子高生だったメンバーはERIのみである。
   - deepsをスタートするにあたって伊秩弘将は「deepsは音楽活動をやるけれどプロの歌手ではない。普通の女の子が歌うから意味がある」とし、一切ボイストレーニングも行わずに伊秩弘将が関わっている間はこの「素人路線」を堅持した。歌う際の振り付けも敢えて本格的なモノではなくパラパラ系の手軽に誰でも真似の出来るものをアレンジした。当初は予定曲数をリリースして解散する事が決められていた「期間限定ユニット」であった為に、レーベルと所属事務所から活動の継続を打診された際に「僕のdeepsは終わって居ますので」と身を引き路線が変わる為に“dps”と改名してリニューアルデビューとなった。
 
 ## 来歴
@@ -17,11 +17,11 @@
 
   - 1998年
 
-メンバーのHIROが脱退、そして新しくERIが加入し、セカンドシングル『ハピネス』をリリース。10万枚にせまるヒットを記録した。その後も3ヵ月に1枚のペースでシングルを発表する。 7月、1stアルバム『Lovely\!』は[オリコン最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")7位。
+メンバーのHIROが脱退、そして新しくERIが加入し、セカンドシングル『ハピネス』をリリース。10万枚にせまるヒットを記録した。その後も3ヵ月に1枚のペースでシングルを発表する。 7月、1stアルバム『Lovely\!』は[オリコン最高](../Page/オリコンチャート.md "wikilink")7位。
 
   - 1999年
 
-7月、表記を「dps」に改め伊秩弘将のプロデュースを離れる。その後は[ユーロビート](https://ja.wikipedia.org/wiki/ユーロビート "wikilink")や80年代テイストなど新たな路線を模索するが売り上げは下降。
+7月、表記を「dps」に改め伊秩弘将のプロデュースを離れる。その後は[ユーロビート](../Page/ユーロビート.md "wikilink")や80年代テイストなど新たな路線を模索するが売り上げは下降。
 
   - 2001年
 
@@ -39,7 +39,7 @@
 
 ### AKI
 
-アキ（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月13日](../Page/10月13日.md "wikilink") - ）[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身、本名：松下亜希子、身長160cm
+アキ（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月13日](../Page/10月13日.md "wikilink") - ）[千葉県](../Page/千葉県.md "wikilink")出身、本名：松下亜希子、身長160cm
 
   - メンバー最年長だった為「リーダー」と呼ばれていた。
   - 短大生の時にカラオケボックス内でスカウトされた。deeps結成前に、[日本テレビの深夜番組](../Page/日本テレビ放送網.md "wikilink")『寝ドキ\!\!』に「**松岡あきこ**」の芸名で単独出演。また、CHIKAと同じく雑誌『egg』の読者モデル出身。
@@ -53,14 +53,14 @@
 
   - 生で行きましょう\!（2002年 - 2003年、[あっ\!とおどろく放送局](../Page/あっ!とおどろく放送局.md "wikilink")）
   - 1stともみん（2005年 - 2006年、あっ\!とおどろく放送局）
-  - [L.A.V.](https://ja.wikipedia.org/wiki/L.A.V. "wikilink")（2004年7月 - 2005年3月、[JFM系列全国ネット](../Page/全国FM放送協議会.md "wikilink")） - 木曜日担当
+  - [L.A.V.](../Page/L.A.V..md "wikilink")（2004年7月 - 2005年3月、[JFM系列全国ネット](../Page/全国FM放送協議会.md "wikilink")） - 木曜日担当
   - [good morning\! That's wakeman show](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")（2005年4月 - 2006年3月、[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")） - 水曜日担当
 
 など
 
 ### CHIKA
 
-チカ（[1979年](../Page/1979年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink") - ）[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身、本名：岩沼千賀子、身長155cm
+チカ（[1979年](../Page/1979年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink") - ）[東京都](../Page/東京都.md "wikilink")出身、本名：岩沼千賀子、身長155cm
 
   - 中学生時代から高価なブランド品で身を固め渋谷に出没する「マゴギャル」（「コギャル」の中学生版をあらわす派生語）として雑誌メディアに取り上げられ、ギャル雑誌『egg』の人気読者モデルとなった。
   - deepsデビュー当初からイメージリーダー的な存在であったが、3rdシングル「LOVING YOU」からセンターポジションを外れ、楽曲の中でソロパートが一切無いことも増えていった。
@@ -87,7 +87,7 @@
 
 ### HIRO
 
-ヒロ（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月6日](../Page/8月6日.md "wikilink") - ）[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身、本名：椛島廣恵、身長166cm
+ヒロ（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[8月6日](../Page/8月6日.md "wikilink") - ）[福岡県](../Page/福岡県.md "wikilink")出身、本名：椛島廣恵、身長166cm
 
   - deeps結成以前からスタッツに所属してタレント活動をしていた。1stシングルに参加したのみですぐに脱退。脱退の理由は公式には明らかにされていないが、素行不良による解雇という説が流れていた。
   - その後、椛島廣恵名義でテレビドラマ『[せつない](../Page/せつない.md "wikilink")』（1998年、テレビ朝日）などに出演。
@@ -105,7 +105,7 @@
         [テレビ朝日](../Page/テレビ朝日.md "wikilink")系ドラマ『[おそるべしっっ\!\!\!音無可憐さん](../Page/おそるべしっっ!!!音無可憐さん.md "wikilink")』主題歌
 3.  LOVING YOU (1998/5/27) 作詞・作曲：伊秩弘将、編曲：水島康貴
       -
-        [アステル東京](https://ja.wikipedia.org/wiki/アステル東京 "wikilink") CMソング。
+        [アステル東京](../Page/アステル東京.md "wikilink") CMソング。
         この曲からメインボーカル及びセンターポジションがCHIKAからERIに変わる。
 4.  Jealousy (1998/8/5) 作詞・作曲：伊秩弘将、編曲：水島康貴
       -
@@ -122,15 +122,15 @@
         [花王](../Page/花王.md "wikilink")[ロリエ](../Page/ロリエ.md "wikilink")CMソング。
 8.  HEARTBREAK DIARY (1999/7/22) 作詞：[HIMW](https://ja.wikipedia.org/wiki/和田将志 "wikilink")、作曲：[HIM](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、編曲：青木庸和
       -
-        [HIMの同名同曲の](https://ja.wikipedia.org/wiki/HIM_\(音楽プロジェクト\) "wikilink")[カバー](../Page/カバー.md "wikilink")。
+        [HIMの同名同曲の](../Page/HIM_\(音楽プロジェクト\).md "wikilink")[カバー](../Page/カバー.md "wikilink")。
         [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")対応の「[MIL-CD](https://ja.wikipedia.org/wiki/ドリームキャスト#MIL-CD "wikilink")」。
         このシングル以降、アーティスト表記が"dps"に。
-9.  BODY SYNDICATE (1999/10/27) 作詞：[売野雅勇](https://ja.wikipedia.org/wiki/売野雅勇 "wikilink")、作曲：石塚まみ、編曲：青木庸和
+9.  BODY SYNDICATE (1999/10/27) 作詞：[売野雅勇](../Page/売野雅勇.md "wikilink")、作曲：石塚まみ、編曲：青木庸和
       -
         [日本テレビ系バラエティ](../Page/日本テレビ放送網.md "wikilink")『[所的蛇足講座](../Page/所的蛇足講座.md "wikilink")』エンディングテーマ。
 10. O\! O\! EXTA SI (Boom Boom Love) (2000/1/1) 作詞：[BANANA ICE](https://ja.wikipedia.org/wiki/BANANA_ICE "wikilink")、作曲：D.M.F
       -
-        [カイリー・ミノーグ](https://ja.wikipedia.org/wiki/カイリー・ミノーグ "wikilink")らを手がけた[SAWの一派であるプロデューサチームによる楽曲](https://ja.wikipedia.org/wiki/ストック・エイトキン・ウォーターマン "wikilink")。
+        [カイリー・ミノーグ](../Page/カイリー・ミノーグ.md "wikilink")らを手がけた[SAWの一派であるプロデューサチームによる楽曲](https://ja.wikipedia.org/wiki/ストック・エイトキン・ウォーターマン "wikilink")。
         振り付けは[パパイヤ鈴木](../Page/パパイヤ鈴木.md "wikilink")で、PVにも出演している。
 11. ヨクボウノカタチ (2000/6/21) 作詞：BANANA ICE、作曲・編曲：[朝井泰生](../Page/朝井泰生.md "wikilink")
       -
@@ -163,7 +163,7 @@
 
   - [おそるべしっっ\!\!\!音無可憐さん](../Page/おそるべしっっ!!!音無可憐さん.md "wikilink")（1998年、[テレビ朝日](../Page/テレビ朝日.md "wikilink")。最終話ゲスト出演）
   - [可愛いだけじゃダメかしら?](../Page/可愛いだけじゃダメかしら?.md "wikilink")（1999年、テレビ朝日。第5話ゲスト出演）
-  - [THE夜もヒッパレ](https://ja.wikipedia.org/wiki/THE夜もヒッパレ "wikilink")（1999年、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")。6月のマンスリーゲスト）
+  - [THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")（1999年、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")。6月のマンスリーゲスト）
 
 ## 脚注
 

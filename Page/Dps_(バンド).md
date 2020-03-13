@@ -1,7 +1,7 @@
 > この記事は[Dps \(\)](https://ja.wikipedia.org/wiki/Dps_\(\))から翻訳されています。
 
 
-**dps**（ディー・ピー・エス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")4人組[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。2017年結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[GIZA studio](../Page/GIZA_studio.md "wikilink")。
+**dps**（ディー・ピー・エス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")4人組[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")。2017年結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[GIZA studio](../Page/GIZA_studio.md "wikilink")。
 
 ## 概説
 
@@ -32,7 +32,7 @@
 <tr class="odd">
 <td><p><ruby><rb><strong><a href="https://ja.wikipedia.org/wiki/安井剛志" title="wikilink">安井剛志</a></strong></rb><rp>（</rp><rt>やすい つよし</rt><rp>）</rp></ruby><br />
 </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a>、コーラス、<a href="https://ja.wikipedia.org/wiki/作詞" title="wikilink">作詞</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a>、コーラス、<a href="../Page/作詞.md" title="wikilink">作詞</a></p></td>
 </tr>
 <tr class="even">
 <td><p><ruby><rb><strong><a href="https://ja.wikipedia.org/wiki/川村篤史" title="wikilink">川村篤史</a></strong></rb><rp>（</rp><rt>かわむら あつし</rt><rp>）</rp></ruby><br />
@@ -99,7 +99,7 @@
   - 北堀江hillsパン工場（5月19日）
   - DFT presents Ultimate Night（10月20日、北堀江hillsパン工場）
   - 心斎橋VARON（11月6日）
-  - 1stEP“Begins with Em”リリース記念インストアライブ（11月10日、[タワーレコード](../Page/タワーレコード.md "wikilink")[梅田NU茶屋町店](https://ja.wikipedia.org/wiki/NU茶屋町 "wikilink")）
+  - 1stEP“Begins with Em”リリース記念インストアライブ（11月10日、[タワーレコード](../Page/タワーレコード.md "wikilink")[梅田NU茶屋町店](../Page/NU茶屋町.md "wikilink")）
   - 北堀江hillsパン工場（11月24日）
   - オンエア出演 - 北堀江hillsパン工場（12月30日）
 

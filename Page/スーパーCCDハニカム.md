@@ -16,7 +16,7 @@
 ## 製品への応用
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:FOMA_D901i_camera.jpg "wikilink") [D901i](../Page/D901i.md "wikilink")
-三菱電機製携帯電話端末の裏面。200万画素スーパーCCDハニカムを搭載。\]\] 富士フイルム社製のデジタルカメラに搭載され、技術的特徴の一つになっている。また携帯電話では、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向けの[三菱電機](../Page/三菱電機.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink")(NEC)、[富士通](../Page/富士通.md "wikilink")製の機種に搭載されていたが、903iシリーズでは各社が[CMOSイメージセンサ](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")(D903iは別構造のCCD)を採用したため、採用機種はなくなっている。また医療用にも応用されている。
+三菱電機製携帯電話端末の裏面。200万画素スーパーCCDハニカムを搭載。\]\] 富士フイルム社製のデジタルカメラに搭載され、技術的特徴の一つになっている。また携帯電話では、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")向けの[三菱電機](../Page/三菱電機.md "wikilink")、[日本電気](../Page/日本電気.md "wikilink")(NEC)、[富士通](../Page/富士通.md "wikilink")製の機種に搭載されていたが、903iシリーズでは各社が[CMOSイメージセンサ](../Page/CMOSイメージセンサ.md "wikilink")(D903iは別構造のCCD)を採用したため、採用機種はなくなっている。また医療用にも応用されている。
 
 ## 携帯電話採用機種
 

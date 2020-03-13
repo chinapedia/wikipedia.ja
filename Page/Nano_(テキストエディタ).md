@@ -21,9 +21,9 @@ nanoは、[GPLのもとで配布されている](../Page/GNU_General_Public_Lice
 
 ## 使用上の特徴
 
-nanoは[vi](https://ja.wikipedia.org/wiki/vi "wikilink")と異なり、起動すれば即[キーボードより文字入力が可能であり](../Page/キーボード_\(コンピュータ\).md "wikilink")、直感的な操作が可能である。入力位置は[方向キー](../Page/方向キー.md "wikilink")を使って自由に指定が可能である。 [ファイルの読み書きや検索のようなコマンドは](../Page/ファイル_\(コンピュータ\).md "wikilink")[コントロールキー](https://ja.wikipedia.org/wiki/コントロールキー "wikilink")または[メタキー](https://ja.wikipedia.org/wiki/メタキー "wikilink")の組み合わせによって実行するが、常に画面の下部に主要なキー割り当てが表示されているため、操作方法を知らないユーザでも扱う事が出来る。それ以外のキー割り当てについては、^G（ヘルプ）を押すことで知ることができる。 最近の主要な[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")や[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")では標準で同梱されているが、[Emacs](../Page/Emacs.md "wikilink")や[vim](https://ja.wikipedia.org/wiki/vim "wikilink")といった高機能なエディタに比べて、機能面では制約がある。
+nanoは[vi](https://ja.wikipedia.org/wiki/vi "wikilink")と異なり、起動すれば即[キーボードより文字入力が可能であり](../Page/キーボード_\(コンピュータ\).md "wikilink")、直感的な操作が可能である。入力位置は[方向キー](../Page/方向キー.md "wikilink")を使って自由に指定が可能である。 [ファイルの読み書きや検索のようなコマンドは](../Page/ファイル_\(コンピュータ\).md "wikilink")[コントロールキー](../Page/コントロールキー.md "wikilink")または[メタキー](../Page/メタキー.md "wikilink")の組み合わせによって実行するが、常に画面の下部に主要なキー割り当てが表示されているため、操作方法を知らないユーザでも扱う事が出来る。それ以外のキー割り当てについては、^G（ヘルプ）を押すことで知ることができる。 最近の主要な[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")や[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")では標準で同梱されているが、[Emacs](../Page/Emacs.md "wikilink")や[vim](https://ja.wikipedia.org/wiki/vim "wikilink")といった高機能なエディタに比べて、機能面では制約がある。
 
-nanoの元になったpicoは、1ファイルのみが編集できる単純なエディタであったが、nanoでは大きく拡張されており、[バッファ](https://ja.wikipedia.org/wiki/バッファ "wikilink")を切り替えて複数のファイルが編集できたり、検索に[正規表現](../Page/正規表現.md "wikilink")が使えたり、[シンタックスハイライト](../Page/シンタックスハイライト.md "wikilink")に対応するなど、必ずしも単純とは言えないエディタになっている。
+nanoの元になったpicoは、1ファイルのみが編集できる単純なエディタであったが、nanoでは大きく拡張されており、[バッファ](../Page/バッファ.md "wikilink")を切り替えて複数のファイルが編集できたり、検索に[正規表現](../Page/正規表現.md "wikilink")が使えたり、[シンタックスハイライト](../Page/シンタックスハイライト.md "wikilink")に対応するなど、必ずしも単純とは言えないエディタになっている。
 
 ## 脚注
 

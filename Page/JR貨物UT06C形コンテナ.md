@@ -8,7 +8,7 @@
 ### 0番台
 
   - 1
-    [日陸](https://ja.wikipedia.org/wiki/日陸 "wikilink")（旧・日本陸運産業）が所有し[クラレ](https://ja.wikipedia.org/wiki/クラレ "wikilink")が借受ける[クロロスルホニルイソシアナート](https://ja.wikipedia.org/wiki/クロロスルホニルイソシアナート "wikilink")専用コンテナ。
+    [日陸](https://ja.wikipedia.org/wiki/日陸 "wikilink")（旧・日本陸運産業）が所有し[クラレ](../Page/クラレ.md "wikilink")が借受ける[クロロスルホニルイソシアナート](https://ja.wikipedia.org/wiki/クロロスルホニルイソシアナート "wikilink")専用コンテナ。
   - 2
     [保土谷化学工業](../Page/保土谷化学工業.md "wikilink")が所有する[塩化ベンジル](../Page/塩化ベンジル.md "wikilink")専用コンテナ。
 
@@ -19,7 +19,7 @@
   - 5001, 5002
     [日本石油輸送](../Page/日本石油輸送.md "wikilink")が所有する[リン酸](../Page/リン酸.md "wikilink")専用コンテナ。
   - 5003 - 5008
-    [トクヤマ](https://ja.wikipedia.org/wiki/トクヤマ "wikilink")が所有する[クロロスルホン酸](https://ja.wikipedia.org/wiki/クロロスルホン酸 "wikilink")専用コンテナ。かつては[三菱化学物流](https://ja.wikipedia.org/wiki/三菱化学物流 "wikilink")が所有していた。
+    [トクヤマ](../Page/トクヤマ.md "wikilink")が所有する[クロロスルホン酸](https://ja.wikipedia.org/wiki/クロロスルホン酸 "wikilink")専用コンテナ。かつては[三菱化学物流](https://ja.wikipedia.org/wiki/三菱化学物流 "wikilink")が所有していた。
   - 5009
     [日本曹達](../Page/日本曹達.md "wikilink")が所有する[オキシ塩化リン専用コンテナ](https://ja.wikipedia.org/wiki/リン酸トリクロリド "wikilink")。
   - 5010, 5011

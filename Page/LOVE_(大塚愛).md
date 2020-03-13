@@ -18,7 +18,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>形態</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">販売生産番号</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">販売生産番号</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -59,7 +59,7 @@ AVCD-31352</p></td>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>形態</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">販売生産番号</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">販売生産番号</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -89,7 +89,7 @@ AVCD-23956</p></td>
   - LOVE[文具](../Page/文房具.md "wikilink")
   - LOVE[時計](../Page/時計.md "wikilink")
   - LOVE[雑貨](../Page/日用品.md "wikilink")
-  - LOVE[ぬいぐるみ](https://ja.wikipedia.org/wiki/ぬいぐるみ "wikilink")S
+  - LOVE[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")S
   - [KUBRICK](https://ja.wikipedia.org/wiki/キューブリック_\(玩具\) "wikilink") LOVE
   - VCD LOVE(ソフビ)
   - LOVEガシャポン「あいらぶクリーナー」

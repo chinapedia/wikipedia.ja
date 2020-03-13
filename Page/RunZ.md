@@ -1,11 +1,11 @@
 > この記事は[RunZ](https://ja.wikipedia.org/wiki/RunZ)から翻訳されています。
 
 
-**RunZ**（ランズ）は、[スタジオ・ランタイム](https://ja.wikipedia.org/wiki/スタジオ・ランタイム "wikilink")（[ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ランタイムミュージックエンタテインメント "wikilink")が運営する芸能スクール）の女子生徒10人で結成されたグループ。
+**RunZ**（ランズ）は、[スタジオ・ランタイム](https://ja.wikipedia.org/wiki/スタジオ・ランタイム "wikilink")（[ランタイムミュージックエンタテインメント](../Page/ランタイムミュージックエンタテインメント.md "wikilink")が運営する芸能スクール）の女子生徒10人で結成されたグループ。
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - [6月21日](../Page/6月21日.md "wikilink")に[北海道文化放送](../Page/北海道文化放送.md "wikilink")で放送されたTV番組『[ぞーんぽた〜じゅ](https://ja.wikipedia.org/wiki/ぞーんぽた〜じゅ "wikilink")』にレギュラー出演し、メイン出演者の[ZONE](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")（[TAKAYO](https://ja.wikipedia.org/wiki/TAKAYO "wikilink")・[MIYU](../Page/長瀬実夕.md "wikilink")・[MIZUHO](../Page/MIZUHO.md "wikilink")・[MAIKO](https://ja.wikipedia.org/wiki/MAIKO_\(ソロシンガー\) "wikilink")）のアシスタントとして、いわゆる雛壇や、「ZONE勝手にランキ〜ン」コーナーで外ロケVTR出演などを担当した。
+[2003年](../Page/2003年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink") - [6月21日](../Page/6月21日.md "wikilink")に[北海道文化放送](../Page/北海道文化放送.md "wikilink")で放送されたTV番組『[ぞーんぽた〜じゅ](https://ja.wikipedia.org/wiki/ぞーんぽた〜じゅ "wikilink")』にレギュラー出演し、メイン出演者の[ZONE](../Page/ZONE_\(バンド\).md "wikilink")（[TAKAYO](../Page/TAKAYO.md "wikilink")・[MIYU](../Page/長瀬実夕.md "wikilink")・[MIZUHO](../Page/MIZUHO.md "wikilink")・[MAIKO](../Page/MAIKO_\(ソロシンガー\).md "wikilink")）のアシスタントとして、いわゆる雛壇や、「ZONE勝手にランキ〜ン」コーナーで外ロケVTR出演などを担当した。
 
 呼称は、RunTimeの“Run”と、複数形の“s”およびZONEの“Z”に由来すると思われる。
 
@@ -53,7 +53,7 @@
 </tr>
 <tr class="odd">
 <td><p>ともか</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村朝香" title="wikilink">西村朝香</a></p></td>
+<td><p><a href="../Page/西村朝香.md" title="wikilink">西村朝香</a></p></td>
 <td><p>1986年<a href="../Page/9月19日.md" title="wikilink">9月19日</a></p></td>
 <td><p>TOMOKA(ZONE)</p></td>
 </tr>

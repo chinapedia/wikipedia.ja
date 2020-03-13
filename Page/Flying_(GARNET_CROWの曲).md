@@ -36,13 +36,13 @@
 
 ## タイアップ
 
-  - [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")[プレイステーション用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")『[テイルズ オブ エターニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_エターニア "wikilink")』テーマソング
+  - [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")[プレイステーション用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[テイルズ オブ エターニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_エターニア "wikilink")』テーマソング
 
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
   - [GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")
-  - [2000年の音楽](https://ja.wikipedia.org/wiki/2000年の音楽 "wikilink")
+  - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
 [Category:GARNET_CROWの楽曲](https://ja.wikipedia.org/wiki/Category:GARNET_CROWの楽曲 "wikilink") [Category:AZUKI七が制作した楽曲](https://ja.wikipedia.org/wiki/Category:AZUKI七が制作した楽曲 "wikilink") [Category:中村由利が制作した楽曲](https://ja.wikipedia.org/wiki/Category:中村由利が制作した楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:テイルズ_オブ_シリーズの音楽](https://ja.wikipedia.org/wiki/Category:テイルズ_オブ_シリーズの音楽 "wikilink") [Category:PlayStation用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフトの主題歌 "wikilink") [Category:PlayStation_Portable用ソフトの主題歌](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable用ソフトの主題歌 "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

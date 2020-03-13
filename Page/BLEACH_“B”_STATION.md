@@ -1,7 +1,7 @@
 > この記事は[BLEACH B STATION](https://ja.wikipedia.org/wiki/BLEACH_B_STATION)から翻訳されています。
 
 
-『**BLEACH “B” STATION**』（ブリーチ ビー ステーション）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")まで[ラジオ大阪製作で](../Page/大阪放送.md "wikilink")[文化放送](../Page/文化放送.md "wikilink")にネットして放送されていた[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』関連の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
+『**BLEACH “B” STATION**』（ブリーチ ビー ステーション）は、[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月27日](../Page/12月27日.md "wikilink")まで[ラジオ大阪製作で](../Page/大阪放送.md "wikilink")[文化放送](../Page/文化放送.md "wikilink")にネットして放送されていた[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』関連の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。
 
 パーソナリティは、主人公・[黒崎一護](../Page/黒崎一護.md "wikilink")役の[森田成一](../Page/森田成一.md "wikilink")とマンスリーパーソナリティの[声優](../Page/声優.md "wikilink")（月替わり）。
 
@@ -27,13 +27,13 @@
 <td><p>|-</p></td>
 <td><p>|<a href="../Page/檜山修之.md" title="wikilink">檜山修之</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#斑目一角" title="wikilink">斑目一角役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/森川智之" title="wikilink">森川智之</a><br />
+<td><p>|<a href="../Page/森川智之.md" title="wikilink">森川智之</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#黒崎一心" title="wikilink">黒崎一心</a>・<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#東仙要" title="wikilink">東仙要</a>・<a href="https://ja.wikipedia.org/wiki/井上織姫#盾舜六花" title="wikilink">椿鬼役</a>）<br />
 <a href="https://ja.wikipedia.org/wiki/釘宮理恵" title="wikilink">釘宮理恵</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#黒崎夏梨" title="wikilink">黒崎夏梨</a>・<a href="https://ja.wikipedia.org/wiki/護廷十三隊#涅ネム" title="wikilink">涅ネム</a>・<a href="https://ja.wikipedia.org/wiki/井上織姫#盾舜六花" title="wikilink">リリィ役</a>）</p></td>
 <td><p>|折笠富美子<br />
 （朽木ルキア・<a href="https://ja.wikipedia.org/wiki/BLEACH#義魂丸" title="wikilink">チャッピー役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/神奈延年" title="wikilink">神奈延年</a><br />
+<td><p>|<a href="../Page/神奈延年.md" title="wikilink">神奈延年</a><br />
 （<a href="https://ja.wikipedia.org/wiki/破面#ノイトラ・ジルガ" title="wikilink">ノイトラ・ジルガ役</a>）</p></td>
 <td><p>|置鮎龍太郎<br />
 （朽木白哉役）</p></td>
@@ -44,24 +44,24 @@
 <td><p>|<a href="../Page/石川英郎.md" title="wikilink">石川英郎</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#浮竹十四郎" title="wikilink">浮竹十四郎役</a>）</p></td>
 <td><p>|<a href="../Page/速水奨.md" title="wikilink">速水奨</a><br />
-（<a href="https://ja.wikipedia.org/wiki/藍染惣右介" title="wikilink">藍染惣右介</a>役）</p></td>
+（<a href="../Page/藍染惣右介.md" title="wikilink">藍染惣右介</a>役）</p></td>
 <td><p>|<a href="../Page/関俊彦.md" title="wikilink">関俊彦</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#志波海燕" title="wikilink">志波海燕</a>・<a href="https://ja.wikipedia.org/wiki/破面#アーロニーロ・アルルエリ" title="wikilink">アーロニーロ・アルルエリ役</a>）</p></td>
 <td><p>|中尾隆聖<br />
 （涅マユリ役）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/中村悠一" title="wikilink">中村悠一</a><br />
+<td><p>|<a href="../Page/中村悠一.md" title="wikilink">中村悠一</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACH_斬魄刀異聞篇#村正" title="wikilink">村正</a>・<a href="https://ja.wikipedia.org/wiki/破面#テスラ・リンドクルツ" title="wikilink">テスラ・リンドクルツ役</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月</p></td>
 <td><p>|-</p></td>
 <td><p>|<a href="../Page/松岡由貴.md" title="wikilink">松岡由貴</a><br />
-（<a href="https://ja.wikipedia.org/wiki/井上織姫" title="wikilink">井上織姫</a>役）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/松谷彼哉" title="wikilink">松谷彼哉</a><br />
+（<a href="../Page/井上織姫.md" title="wikilink">井上織姫</a>役）</p></td>
+<td><p>|<a href="../Page/松谷彼哉.md" title="wikilink">松谷彼哉</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#松本乱菊" title="wikilink">松本乱菊役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/郷里大輔" title="wikilink">郷里大輔</a><br />
+<td><p>|<a href="../Page/郷里大輔.md" title="wikilink">郷里大輔</a><br />
 （<a href="https://ja.wikipedia.org/wiki/破面#ドンドチャッカ・ビルスタン" title="wikilink">ドンドチャッカ・ビルスタン役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/稲田徹" title="wikilink">稲田徹</a><br />
+<td><p>|<a href="../Page/稲田徹.md" title="wikilink">稲田徹</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#狛村左陣" title="wikilink">狛村左陣役</a>）</p></td>
 <td><p>|石川英郎<br />
 （浮竹十四郎役）<br />
@@ -71,7 +71,7 @@
 </tr>
 <tr class="even">
 <td><p>4月</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/折笠富美子" title="wikilink">折笠富美子</a><br />
+<td><p>|<a href="../Page/折笠富美子.md" title="wikilink">折笠富美子</a><br />
 （<a href="https://ja.wikipedia.org/wiki/朽木ルキア" title="wikilink">朽木ルキア</a>役）</p></td>
 <td><p>|折笠富美子<br />
 （朽木ルキア役）</p></td>
@@ -87,10 +87,10 @@
 <tr class="odd">
 <td><p>5月</p></td>
 <td><p>|<a href="../Page/伊藤健太郎_(声優).md" title="wikilink">伊藤健太郎</a><br />
-（<a href="https://ja.wikipedia.org/wiki/阿散井恋次" title="wikilink">阿散井恋次</a>役）</p></td>
+（<a href="../Page/阿散井恋次.md" title="wikilink">阿散井恋次</a>役）</p></td>
 <td><p>|<a href="https://ja.wikipedia.org/wiki/三木眞一郎" title="wikilink">三木眞一郎</a><br />
-（<a href="https://ja.wikipedia.org/wiki/浦原喜助" title="wikilink">浦原喜助</a>役）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/高木礼子" title="wikilink">高木礼子</a><br />
+（<a href="../Page/浦原喜助.md" title="wikilink">浦原喜助</a>役）</p></td>
+<td><p>|<a href="../Page/高木礼子.md" title="wikilink">高木礼子</a><br />
 （<a href="https://ja.wikipedia.org/wiki/仮面の軍勢#猿柿ひよ里" title="wikilink">猿柿ひよ里役</a>）</p></td>
 <td><p>|置鮎龍太郎<br />
 （朽木白哉役）</p></td>
@@ -101,54 +101,54 @@
 </tr>
 <tr class="even">
 <td><p>6月</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/立木文彦" title="wikilink">立木文彦</a><br />
-（<a href="https://ja.wikipedia.org/wiki/更木剣八" title="wikilink">更木剣八</a>役）</p></td>
+<td><p>|<a href="../Page/立木文彦.md" title="wikilink">立木文彦</a><br />
+（<a href="../Page/更木剣八.md" title="wikilink">更木剣八</a>役）</p></td>
 <td><p>|<a href="../Page/朴ロ美.md" title="wikilink">朴璐美</a><br />
-（<a href="https://ja.wikipedia.org/wiki/日番谷冬獅郎" title="wikilink">日番谷冬獅郎</a>役）</p></td>
+（<a href="../Page/日番谷冬獅郎.md" title="wikilink">日番谷冬獅郎</a>役）</p></td>
 <td><p>|<a href="../Page/川上とも子.md" title="wikilink">川上とも子</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#砕蜂" title="wikilink">砕蜂役</a>）</p></td>
 <td><p>|安元洋貴<br />
 （茶渡泰虎役）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/樫井笙人" title="wikilink">樫井笙人</a><br />
+<td><p>|<a href="../Page/樫井笙人.md" title="wikilink">樫井笙人</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#大前田希千代" title="wikilink">大前田希千代役</a>）</p></td>
 <td><p>|杉山紀彰<br />
 （石田雨竜役）</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/宮田幸季" title="wikilink">宮田幸季</a><br />
+<td><p>|<a href="../Page/宮田幸季.md" title="wikilink">宮田幸季</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#山田花太郎" title="wikilink">山田花太郎役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/大川透" title="wikilink">大川透</a><br />
+<td><p>|<a href="../Page/大川透.md" title="wikilink">大川透</a><br />
 （<a href="https://ja.wikipedia.org/wiki/バウント#狩矢神" title="wikilink">狩矢神役</a>）</p></td>
 <td><p>|<a href="../Page/諏訪部順一.md" title="wikilink">諏訪部順一</a><br />
 （<a href="https://ja.wikipedia.org/wiki/グリムジョー・ジャガージャック" title="wikilink">グリムジョー・ジャガージャック</a>役）</p></td>
 <td><p>|石川英郎<br />
 （浮竹十四郎役）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/佐久間紅美" title="wikilink">佐久間紅美</a><br />
+<td><p>|<a href="../Page/佐久間紅美.md" title="wikilink">佐久間紅美</a><br />
 （<a href="https://ja.wikipedia.org/wiki/護廷十三隊#雛森桃" title="wikilink">雛森桃</a>・<a href="https://ja.wikipedia.org/wiki/破面#エミルー・アパッチ" title="wikilink">アパッチ役</a>）<br />
-<a href="https://ja.wikipedia.org/wiki/福山潤" title="wikilink">福山潤</a><br />
+<a href="../Page/福山潤.md" title="wikilink">福山潤</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#小島水色" title="wikilink">小島水色</a>・<a href="https://ja.wikipedia.org/wiki/護廷十三隊#綾瀬川弓親" title="wikilink">綾瀬川弓親役</a>）</p></td>
 <td><p>|稲田徹<br />
 （<a href="https://ja.wikipedia.org/wiki/仮面の軍勢#愛川羅武" title="wikilink">愛川羅武</a>・狛村左陣役）<br />
 ＆<br />
-<a href="https://ja.wikipedia.org/wiki/神田朱未" title="wikilink">神田朱未</a><br />
+<a href="../Page/神田朱未.md" title="wikilink">神田朱未</a><br />
 （<a href="https://ja.wikipedia.org/wiki/仮面の軍勢#久南白" title="wikilink">久南白役</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>8月</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/杉山紀彰" title="wikilink">杉山紀彰</a><br />
+<td><p>|<a href="../Page/杉山紀彰.md" title="wikilink">杉山紀彰</a><br />
 （<a href="../Page/石田雨竜.md" title="wikilink">石田雨竜</a>役）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/杉田智和" title="wikilink">杉田智和</a><br />
+<td><p>|<a href="../Page/杉田智和.md" title="wikilink">杉田智和</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#之芭" title="wikilink">之芭</a>・<a href="https://ja.wikipedia.org/wiki/バウント#相馬芳野" title="wikilink">ゲーテ役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/久保帯人" title="wikilink">久保帯人</a><br />
+<td><p>|<a href="../Page/久保帯人.md" title="wikilink">久保帯人</a><br />
 （原作者）<br />
-<a href="https://ja.wikipedia.org/wiki/浪川大輔" title="wikilink">浪川大輔</a><br />
+<a href="../Page/浪川大輔.md" title="wikilink">浪川大輔</a><br />
 （<a href="https://ja.wikipedia.org/wiki/ウルキオラ・シファー" title="wikilink">ウルキオラ・シファー</a>役）</p></td>
 <td><p>|<a href="../Page/緑川光.md" title="wikilink">緑川光</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#貴船理" title="wikilink">貴船理役</a>）<br />
 高木礼子<br />
 （猿柿ひよ里・<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#霞大路瑠璃千代" title="wikilink">霞大路瑠璃千代役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/菅生隆之" title="wikilink">菅生隆之</a><br />
+<td><p>|<a href="../Page/菅生隆之.md" title="wikilink">菅生隆之</a><br />
 （斬月役）</p></td>
 <td><p>|<a href="https://ja.wikipedia.org/wiki/小山力也" title="wikilink">小山力也</a><br />
 （<a href="https://ja.wikipedia.org/wiki/破面#コヨーテ・スターク" title="wikilink">コヨーテ・スターク役</a>）<br />
@@ -161,10 +161,10 @@
 <td><p>|<a href="../Page/ゆきのさつき.md" title="wikilink">雪野五月</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#四楓院夜一" title="wikilink">四楓院夜一役</a>）</p></td>
 <td><p>|<a href="../Page/中尾隆聖.md" title="wikilink">中尾隆聖</a><br />
-（<a href="https://ja.wikipedia.org/wiki/涅マユリ" title="wikilink">涅マユリ</a>役）</p></td>
+（<a href="../Page/涅マユリ.md" title="wikilink">涅マユリ</a>役）</p></td>
 <td><p>|松岡由貴<br />
 （井上織姫役）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/堀内賢雄" title="wikilink">堀内賢雄</a><br />
+<td><p>|<a href="../Page/堀内賢雄.md" title="wikilink">堀内賢雄</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#天貝繍助" title="wikilink">天貝繍助役</a>）</p></td>
 <td><p>|松谷彼哉<br />
 （松本乱菊役）<br />
@@ -177,12 +177,12 @@
 <tr class="even">
 <td><p>10月</p></td>
 <td><p>|<a href="../Page/置鮎龍太郎.md" title="wikilink">置鮎龍太郎</a><br />
-（<a href="https://ja.wikipedia.org/wiki/朽木白哉" title="wikilink">朽木白哉</a>役）</p></td>
+（<a href="../Page/朽木白哉.md" title="wikilink">朽木白哉</a>役）</p></td>
 <td><p>|伊藤健太郎<br />
 （阿散井恋次役）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/真殿光昭" title="wikilink">真殿光昭</a><br />
+<td><p>|<a href="../Page/真殿光昭.md" title="wikilink">真殿光昭</a><br />
 （<a href="../Page/コン_(BLEACH).md" title="wikilink">コン役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/鳥海浩輔" title="wikilink">鳥海浩輔</a><br />
+<td><p>|<a href="../Page/鳥海浩輔.md" title="wikilink">鳥海浩輔</a><br />
 （<a href="https://ja.wikipedia.org/wiki/破面#ザエルアポロ・グランツ" title="wikilink">ザエルアポロ・グランツ役</a>）</p></td>
 <td><p>|<a href="../Page/斎賀みつき.md" title="wikilink">斎賀みつき</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACH_斬魄刀異聞篇#蛇尾丸" title="wikilink">蛇尾丸</a>/猿女役）<br />
@@ -191,12 +191,12 @@
 （蛇尾丸/蛇男役）</p></td>
 <td><p>|立木文彦<br />
 （更木剣八役）<br />
-<a href="https://ja.wikipedia.org/wiki/小西克幸" title="wikilink">小西克幸</a><br />
+<a href="../Page/小西克幸.md" title="wikilink">小西克幸</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#浅野啓吾" title="wikilink">浅野啓吾</a>・<a href="https://ja.wikipedia.org/wiki/護廷十三隊#檜佐木修兵" title="wikilink">檜佐木修兵役</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/安元洋貴" title="wikilink">安元洋貴</a><br />
+<td><p>|<a href="../Page/安元洋貴.md" title="wikilink">安元洋貴</a><br />
 （<a href="../Page/茶渡泰虎.md" title="wikilink">茶渡泰虎</a>役）</p></td>
 <td><p>|<a href="https://ja.wikipedia.org/wiki/斎藤千和" title="wikilink">斎藤千和</a><br />
 （<a href="https://ja.wikipedia.org/wiki/劇場版BLEACH_MEMORIES_OF_NOBODY#オリジナルキャラクター" title="wikilink">茜雫役</a>）</p></td>
@@ -211,9 +211,9 @@
 </tr>
 <tr class="even">
 <td><p>12月</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/遊佐浩二" title="wikilink">遊佐浩二</a><br />
+<td><p>|<a href="../Page/遊佐浩二.md" title="wikilink">遊佐浩二</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACHの登場人物#市丸ギン" title="wikilink">市丸ギン役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/江原正士" title="wikilink">江原正士</a><br />
+<td><p>|<a href="../Page/江原正士.md" title="wikilink">江原正士</a><br />
 （<a href="https://ja.wikipedia.org/wiki/劇場版BLEACH_MEMORIES_OF_NOBODY#オリジナルキャラクター" title="wikilink">厳龍役</a>）</p></td>
 <td><p>|朴璐美<br />
 （日番谷冬獅郎役）<br />
@@ -221,9 +221,9 @@
 （<a href="https://ja.wikipedia.org/wiki/劇場版BLEACH_The_DiamondDust_Rebellion_もう一つの氷輪丸#オリジナルキャラクター" title="wikilink">草冠宗次郎役</a>）</p></td>
 <td><p>|<a href="../Page/平野綾.md" title="wikilink">平野綾</a><br />
 （<a href="https://ja.wikipedia.org/wiki/劇場版BLEACH_Fade_to_Black_君の名を呼ぶ#オリジナルキャラクター" title="wikilink">姉役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/浜田賢二" title="wikilink">浜田賢二</a><br />
+<td><p>|<a href="../Page/浜田賢二.md" title="wikilink">浜田賢二</a><br />
 （<a href="https://ja.wikipedia.org/wiki/BLEACH_斬魄刀異聞篇#氷輪丸" title="wikilink">氷輪丸役</a>）</p></td>
-<td><p>|<a href="https://ja.wikipedia.org/wiki/中井和哉" title="wikilink">中井和哉</a><br />
+<td><p>|<a href="../Page/中井和哉.md" title="wikilink">中井和哉</a><br />
 （<a href="https://ja.wikipedia.org/wiki/劇場版BLEACH_地獄篇#黒刀" title="wikilink">黒刀役</a>）</p></td>
 </tr>
 </tbody>
@@ -233,8 +233,8 @@
 
 2005年4月から2007年3月までは、マンスリーパーソナリティーは原則として1ヶ月=4週に渡って出演していた。その為、5週目がある月は最終週のみスペシャルパーソナリティーが出演していた。
 
-  - [真殿光昭](https://ja.wikipedia.org/wiki/真殿光昭 "wikilink")（コン役）
-  - [遊佐浩二](https://ja.wikipedia.org/wiki/遊佐浩二 "wikilink")（市丸ギン役）
+  - [真殿光昭](../Page/真殿光昭.md "wikilink")（コン役）
+  - [遊佐浩二](../Page/遊佐浩二.md "wikilink")（市丸ギン役）
   - [久川綾](../Page/久川綾.md "wikilink")（[卯ノ花烈役](https://ja.wikipedia.org/wiki/護廷十三隊#卯ノ花烈 "wikilink")）
   - [勝生真沙子](../Page/勝生真沙子.md "wikilink")（[蘭島役](https://ja.wikipedia.org/wiki/BLEACHの登場人物#蘭島 "wikilink")・[相馬芳野役](https://ja.wikipedia.org/wiki/バウント#相馬芳野 "wikilink")）
 
@@ -246,12 +246,12 @@
   - [SunSet Swish](https://ja.wikipedia.org/wiki/SunSet_Swish "wikilink")（2006年1月放送分）アニメエンディングテーマ『[マイペース](../Page/マイペース_\(SunSet_Swishの曲\).md "wikilink")』アーティスト
   - [星村麻衣](https://ja.wikipedia.org/wiki/星村麻衣 "wikilink")：アニメエンディングテーマ『[桜日和](https://ja.wikipedia.org/wiki/桜日和 "wikilink")』アーティスト
   - [辻詩音](https://ja.wikipedia.org/wiki/辻詩音 "wikilink")（2009年4月6日放送分）：アニメエンディングテーマ『[Sky chord 〜大人になる君へ〜](https://ja.wikipedia.org/wiki/Sky_chord_〜大人になる君へ〜 "wikilink")』アーティスト
-  - [森山栄治](https://ja.wikipedia.org/wiki/森山栄治 "wikilink")（2009年12月28日放送分）：阿散井恋次役（ミュージカル版）
-  - [竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")（2010年4月5日放送分）：「[NARUTO Radio 疾風迅雷](../Page/NARUTO_-ナルト-_\(ラジオ\).md "wikilink")」から、[うずまきナルト](https://ja.wikipedia.org/wiki/うずまきナルト "wikilink")役。（[アニプレックスアワー](../Page/アニプレックスアワー.md "wikilink")内で隔週放送であることから共演が実現した。）
+  - [森山栄治](../Page/森山栄治.md "wikilink")（2009年12月28日放送分）：阿散井恋次役（ミュージカル版）
+  - [竹内順子](../Page/竹内順子.md "wikilink")（2010年4月5日放送分）：「[NARUTO Radio 疾風迅雷](../Page/NARUTO_-ナルト-_\(ラジオ\).md "wikilink")」から、[うずまきナルト](../Page/うずまきナルト.md "wikilink")役。（[アニプレックスアワー](../Page/アニプレックスアワー.md "wikilink")内で隔週放送であることから共演が実現した。）
 
 ## ロケ放送分
 
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月3日](../Page/5月3日.md "wikilink")・[5月17日](../Page/5月17日.md "wikilink")放送分は、[GWと番組](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")5周年記念という事で初の[外ロケ企画が展開された](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。[東京](https://ja.wikipedia.org/wiki/東京都 "wikilink")・[恵比寿の焼肉店](../Page/恵比寿_\(渋谷区\).md "wikilink")\[2\]にて「焼肉パーティ」と称して、[ビール](../Page/ビール.md "wikilink")を飲み、[カルビ](https://ja.wikipedia.org/wiki/カルビ "wikilink")・[ミノ](https://ja.wikipedia.org/wiki/ミノ "wikilink")などを食べながらトークが繰り広げられた。番組中は店内特有のノイズ（話し声など）が若干多めだった。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月3日](../Page/5月3日.md "wikilink")・[5月17日](../Page/5月17日.md "wikilink")放送分は、[GWと番組](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")5周年記念という事で初の[外ロケ企画が展開された](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")。[東京](../Page/東京都.md "wikilink")・[恵比寿の焼肉店](../Page/恵比寿_\(渋谷区\).md "wikilink")\[2\]にて「焼肉パーティ」と称して、[ビール](../Page/ビール.md "wikilink")を飲み、[カルビ](../Page/カルビ.md "wikilink")・[ミノ](../Page/ミノ.md "wikilink")などを食べながらトークが繰り広げられた。番組中は店内特有のノイズ（話し声など）が若干多めだった。
 
 ## コーナー
 
@@ -288,7 +288,7 @@
 <!-- end list -->
 
   - **ブリブリ フィーリングカップル**
-    2009年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")放送。『○○と言えば○○』といったゲーム（全4問）を、折笠（ルキア）と[園崎未恵](https://ja.wikipedia.org/wiki/園崎未恵 "wikilink")（[袖白雪](https://ja.wikipedia.org/wiki/朽木ルキア#斬魄刀 "wikilink")）が再度心を通じ合わせる事が出来るか挑戦するコーナー。但し、園崎は「村正側に就いている」との理由でスタジオに来られない為、事前にスタッフが「現地」に赴いて解答を収録している。
+    2009年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")放送。『○○と言えば○○』といったゲーム（全4問）を、折笠（ルキア）と[園崎未恵](../Page/園崎未恵.md "wikilink")（[袖白雪](https://ja.wikipedia.org/wiki/朽木ルキア#斬魄刀 "wikilink")）が再度心を通じ合わせる事が出来るか挑戦するコーナー。但し、園崎は「村正側に就いている」との理由でスタジオに来られない為、事前にスタッフが「現地」に赴いて解答を収録している。
 
 <!-- end list -->
 

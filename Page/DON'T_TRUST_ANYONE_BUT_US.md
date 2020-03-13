@@ -1,7 +1,7 @@
 > この記事は[DON\'T TRUST ANYONE BUT US](https://ja.wikipedia.org/wiki/DON\'T_TRUST_ANYONE_BUT_US)から翻訳されています。
 
 
-**DON'T TRUST ANYONE BUT US**（ドント・トラスト・エニーワン・バット・アス）は[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")である\[1\]。
+**DON'T TRUST ANYONE BUT US**（ドント・トラスト・エニーワン・バット・アス）は[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の1作目の[アルバム](../Page/アルバム.md "wikilink")である\[1\]。
 
 ## 概要
 
@@ -43,7 +43,7 @@
 
 ## タイアップ
 
-  - オリジナルアニメDVD『[I'll](https://ja.wikipedia.org/wiki/I'll "wikilink")』主題歌 (\#8)
+  - オリジナルアニメDVD『[I'll](../Page/I'll.md "wikilink")』主題歌 (\#8)
 
 ## 脚注
 

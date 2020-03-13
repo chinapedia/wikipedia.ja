@@ -1,13 +1,13 @@
 > この記事は[CATEGORY T.T.](https://ja.wikipedia.org/wiki/CATEGORY_T.T.)から翻訳されています。
 
 
-**CATEGORY T.T.**（カテゴリー・ティーティー）は、[CROSS FMが放送していた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称は「**T.T.**」。放送時間は毎週月曜から金曜の16:00-19:00（10月-3月の半年間は18:55）。放送期間は[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")。[天神](https://ja.wikipedia.org/wiki/天神_\(福岡市\) "wikilink")[岩田屋](../Page/岩田屋.md "wikilink")新館にある局の[サテライトスタジオ](https://ja.wikipedia.org/wiki/サテライトスタジオ "wikilink")「**天神きらめき通りスタジオ**」からの公開[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+**CATEGORY T.T.**（カテゴリー・ティーティー）は、[CROSS FMが放送していた](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称は「**T.T.**」。放送時間は毎週月曜から金曜の16:00-19:00（10月-3月の半年間は18:55）。放送期間は[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")。[天神](../Page/天神_\(福岡市\).md "wikilink")[岩田屋](../Page/岩田屋.md "wikilink")新館にある局の[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「**天神きらめき通りスタジオ**」からの公開[生放送](../Page/生放送.md "wikilink")。
 
 ## 概要
 
   - 番組コンセプトは「**大人のエンターテイメントプログラム**」。
   - 番組名の「T.T.」とは「**Tenjin** の **Toggy**」という意味である。
-  - 2004年4月に「天神きらめき通りスタジオ」がオープンしたことに伴い、それまで朝のワイド番組「[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")」「[CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD "wikilink")」を担当していたTOGGYの担当枠を夕方に移して開始。
+  - 2004年4月に「天神きらめき通りスタジオ」がオープンしたことに伴い、それまで朝のワイド番組「[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")」「[CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")」を担当していたTOGGYの担当枠を夕方に移して開始。
   - 当初1年間の正式な番組タイトルは「**CROSS EVENING SHOW CATEGORY T.T.**」だったが、2年目以降はこのタイトルに変更された。
   - 番組のコンセプトが「**大人の隠れ場**」となっていることもあり、ヒット曲のほかに、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")や[ラウンジ・ミュージック](../Page/ラウンジ・ミュージック.md "wikilink")なども多くオンエアされていた。
 
@@ -22,7 +22,7 @@
   - [ルーシー](../Page/ルーシー_\(DJ\).md "wikilink")
   - [立山律子](../Page/立山律子.md "wikilink")
   - [ナオト](../Page/ナオト.md "wikilink")
-  - [八木徹](../Page/八木徹.md "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")5月まで毎週第3火曜日にTOGGYが休演していたこともあり（[テレビ西日本](../Page/テレビ西日本.md "wikilink")「[ミッドナイトショッピング](https://ja.wikipedia.org/wiki/ミッドナイトショッピング "wikilink")」収録のため）、その時のピンチヒッターは大概八木であった。
+  - [八木徹](../Page/八木徹.md "wikilink") - [2006年](../Page/2006年.md "wikilink")5月まで毎週第3火曜日にTOGGYが休演していたこともあり（[テレビ西日本](../Page/テレビ西日本.md "wikilink")「[ミッドナイトショッピング](https://ja.wikipedia.org/wiki/ミッドナイトショッピング "wikilink")」収録のため）、その時のピンチヒッターは大概八木であった。
   - [さとうともやす](https://ja.wikipedia.org/wiki/さとうともやす "wikilink")
   - [TOM G](../Page/TOM_G.md "wikilink")
 
@@ -31,14 +31,14 @@
 ※以下のコーナーは番組終了時に放送されていたコーナー。
 
   - T.T.JOURNAL
-      - 発行されたばかりの[西日本新聞](../Page/西日本新聞.md "wikilink")の[夕刊](https://ja.wikipedia.org/wiki/夕刊 "wikilink")から気になる話題を紹介（そのため[西日本新聞社](../Page/西日本新聞社.md "wikilink")が[スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")となっている。なお、西日本新聞社は開局当時からこの時間帯のコーナースポンサーを務めている）。夕刊の中の記事の一つについては西日本新聞の取材[記者](../Page/記者.md "wikilink")と電話を繋ぎ、事の真相を聞き出している。
+      - 発行されたばかりの[西日本新聞](../Page/西日本新聞.md "wikilink")の[夕刊](../Page/夕刊.md "wikilink")から気になる話題を紹介（そのため[西日本新聞社](../Page/西日本新聞社.md "wikilink")が[スポンサー](../Page/スポンサー.md "wikilink")となっている。なお、西日本新聞社は開局当時からこの時間帯のコーナースポンサーを務めている）。夕刊の中の記事の一つについては西日本新聞の取材[記者](../Page/記者.md "wikilink")と電話を繋ぎ、事の真相を聞き出している。
       - また、このコーナーの中で「ENTERTAINMENT」として[芸能ニュースも紹介](https://ja.wikipedia.org/wiki/芸能界 "wikilink")。
   - ムジカ・デ・クイズ（2007年4月-）
       - [音楽](../Page/音楽.md "wikilink")[クイズ](../Page/クイズ.md "wikilink")。16:50頃に[イエローカード](../Page/イエローカード.md "wikilink")に書かれた[楽器](../Page/楽器.md "wikilink")生演奏・[物真似](../Page/物真似.md "wikilink")での[朗読](../Page/朗読.md "wikilink")・スリーソングクイズ（違う3曲を同時に放送してそのうち1曲を当てる）で問題を出題。
       - 17:20頃に締め切り、18:30頃に答え合わせをする。
       - 必ず正解を送らなければいけないということはなく、「**ナイスアンサー**」として正解とこじつけた内容のボケ回答を送ってもいいようになっている（実際、この中でTOGGYがウケたものについては繰上げ正解となり、プレゼントの抽選に追加されるが、ボケカブリは不正解となる）。また毎週金曜日のみ、「ナイスアンサー」の中からも正解者とは別にプレゼント当選枠が設けられる。
       - 「ナイスアンサー」を送ってくる常連リスナーには、放送エリア内の地名と著名人の名前を掛けたラジオネームで投稿して来る者が多く、そのたびにTOGGYが物真似で読んでいる。
-      - 「[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")」（以下「**DMD**」と略）、「[CROSS MORNING SHOW GOOD MORNING DMD](https://ja.wikipedia.org/wiki/CROSS_MORNING_SHOW_GOOD_MORNING_DMD "wikilink")」にあったコーナータイトルと同じではあるが、内容的には前身の「抽奨音楽問題（チョウジャン・インニュエ・ウェンティー）」をそのまま引き継いだ面が強くなっている。ただし「ナイスアンサー」紹介時のBGMは、この時と同様のものが使用されている。
+      - 「[DIGITAL MORNING DRIVE](../Page/DIGITAL_MORNING_DRIVE.md "wikilink")」（以下「**DMD**」と略）、「[CROSS MORNING SHOW GOOD MORNING DMD](../Page/CROSS_MORNING_SHOW_GOOD_MORNING_DMD.md "wikilink")」にあったコーナータイトルと同じではあるが、内容的には前身の「抽奨音楽問題（チョウジャン・インニュエ・ウェンティー）」をそのまま引き継いだ面が強くなっている。ただし「ナイスアンサー」紹介時のBGMは、この時と同様のものが使用されている。
   - タイムアタック（月曜-木曜）
       - 「[クイズタイムショック](../Page/クイズタイムショック.md "wikilink")」に範を取る。1分間に10問の問題に次々に答え、間違った時点で終了。元々前身番組であった「DMD」で人気だったコーナーで、T.T.スタートにより一時休止していたものの、TOGGYの希望により復活したという経緯がある。
       - 1問目は必ず「TOGGYさん」が正解となる問題となっている（基本的にTOGGYの近況）。その後は今日のニュースを中心に出題される（そのため、参加者はT.T.JOURNALをよく聴いておく事が必要となる）。
@@ -58,7 +58,7 @@
 
 ## 期間限定のコーナー
 
-  - [明日への伝言板](https://ja.wikipedia.org/wiki/明日への伝言板 "wikilink")
+  - [明日への伝言板](../Page/明日への伝言板.md "wikilink")
       - 毎年10月から翌年3月まで放送。番組の1コーナーという形になっているが、TOGGYが番組を18:55で締めているために事実上独立した番組のようになっている。
 
 ## 過去のコーナー
@@ -68,11 +68,11 @@
       - さとうはこれを機に局のナビゲーター[オーディション](../Page/オーディション.md "wikilink")を受け、現在同局ナビゲーターの一人となっている。
   - SNOW FREAKS
       - [スキー](../Page/スキー.md "wikilink")シーズンに放送。福岡から行きやすい西[中国地方](../Page/中国地方.md "wikilink")のスキー場の最新情報を伝えた。
-      - このコーナーのジングルで「SNOW FREAKS」と叫んでいたのは、同局のナビゲーターだった[永松ケンシ](https://ja.wikipedia.org/wiki/永松ケンシ "wikilink")である。
+      - このコーナーのジングルで「SNOW FREAKS」と叫んでいたのは、同局のナビゲーターだった[永松ケンシ](../Page/永松ケンシ.md "wikilink")である。
   - 抽奨音楽問題（チョウジャン・インニュエ・ウェンティー、-2007年3月）
       - 「ムジカ・デ・クイズ」の前にあったコーナー。
-      - [音楽](../Page/音楽.md "wikilink")[クイズ](../Page/クイズ.md "wikilink")。[おみくじ](https://ja.wikipedia.org/wiki/おみくじ "wikilink")で決まった[楽器](../Page/楽器.md "wikilink")をTOGGYが生演奏（もしくは[物真似](../Page/物真似.md "wikilink")での[朗読](../Page/朗読.md "wikilink")）で問題を出題。
-      - 2006年4月-9月の間、放送時に紹介出来なかった「ナイスアンサー」と番組からのお知らせを収録した[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")「**TOGGY'S PODCAST**」が配信され、一時期ダウンロードランキングで上位20位に食い込んだこともあった。こちらにはTOGGYの他、ディレクターのたすまん、AD2人が登場し4人で進行した。
+      - [音楽](../Page/音楽.md "wikilink")[クイズ](../Page/クイズ.md "wikilink")。[おみくじ](../Page/おみくじ.md "wikilink")で決まった[楽器](../Page/楽器.md "wikilink")をTOGGYが生演奏（もしくは[物真似](../Page/物真似.md "wikilink")での[朗読](../Page/朗読.md "wikilink")）で問題を出題。
+      - 2006年4月-9月の間、放送時に紹介出来なかった「ナイスアンサー」と番組からのお知らせを収録した[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")「**TOGGY'S PODCAST**」が配信され、一時期ダウンロードランキングで上位20位に食い込んだこともあった。こちらにはTOGGYの他、ディレクターのたすまん、AD2人が登場し4人で進行した。
   - アタックチャンス（金曜）
       - 「[パネルクイズ アタック25](https://ja.wikipedia.org/wiki/パネルクイズ_アタック25 "wikilink")」に範を取る。**小玉潔**（「ちっちゃい玉のきよしさん」と紹介、元ネタは[児玉清](../Page/児玉清.md "wikilink")）さんの進行で、ある人物や都市名などを[第六感](../Page/第六感.md "wikilink")を使って答える。正解者には[針灸](https://ja.wikipedia.org/wiki/針灸 "wikilink")治療に招待（そのため、電話に出たリスナーには「**ハリ挑戦権獲得**」と言っている）。
       - 基本的に第六感任せであり、正解が時にかなり意表を突いていることもあり、難易度は高い。

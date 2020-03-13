@@ -1,7 +1,7 @@
 > この記事は[BRING YOUR BOARD!!](https://ja.wikipedia.org/wiki/BRING_YOUR_BOARD!!)から翻訳されています。
 
 
-『**BRING YOUR BOARD\!\!**』（ブリング・ユア・ボード）は[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")の2作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である\[1\]\[2\]。[2003年](../Page/2003年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")発売。
+『**BRING YOUR BOARD\!\!**』（ブリング・ユア・ボード）は[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の2作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")である\[1\]\[2\]。[2003年](../Page/2003年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")発売。
 
 ## 概要
 
@@ -32,7 +32,7 @@
       -
 9.  Cuomo
       -
-        タイトルは細美が敬愛する[ウィーザー](https://ja.wikipedia.org/wiki/ウィーザー "wikilink")の[リヴァース・クオモ](https://ja.wikipedia.org/wiki/リヴァース・クオモ "wikilink")から。
+        タイトルは細美が敬愛する[ウィーザー](../Page/ウィーザー.md "wikilink")の[リヴァース・クオモ](https://ja.wikipedia.org/wiki/リヴァース・クオモ "wikilink")から。
 10. 金星
       -
         『ELLEGARDEN BEST 1999-2008』にも収録。

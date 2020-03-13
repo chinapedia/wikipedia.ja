@@ -29,19 +29,19 @@
 
 アニメでは、麦わらの一味のメンバーの声優が他のキャラクターの声を兼任することがある。その際、一部のキャラクターの声の出演は「**粗忽屋**（そこつや）●●店」という別名義が使用されている\[11\]。
 
-| 別名義                                                       | 声優                                                      | 主なキャラクター                                                             |
-| --------------------------------------------------------- | ------------------------------------------------------- | -------------------------------------------------------------------- |
-| 粗忽屋                                                       | [平田広明](../Page/平田広明.md "wikilink")                      | カルー、チュチューン、犬ッペ\[12\]、マグラ、偽ルフィ（デマロ・ブラック）\[13\]                        |
-| 粗忽屋[浜田山](../Page/浜田山.md "wikilink")店                      | [田中真弓](../Page/田中真弓.md "wikilink")                      | オーズ\[14\]、偽チョッパー（のらギツネ）\[15\]                                        |
-| 粗忽屋[西神戸店](../Page/神戸.md "wikilink")                       | [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")   | クンフージュゴン、ピエール、ジゴロウ\[16\]、ヤギゴリラゾンビ、サルデス、偽サンジ（ドリップ）\[17\]、ヌストルテ        |
-| 粗忽屋[武蔵野](https://ja.wikipedia.org/wiki/武蔵野 "wikilink")店   | [岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")   | スー、ゴンベ、アフェランドラ、偽ロビン（ココア）\[18\]、ヴィンスモーク・ヨンジ（子供）                       |
-| 粗忽屋[東品川](https://ja.wikipedia.org/wiki/東品川 "wikilink")店   | [山口勝平](../Page/山口勝平.md "wikilink")                      | マツゲ、ミノタウロス、ドグラ、偽ゾロ（マンジャロウ）\[19\]、バリエテ、ランドルフ、ニトロ、ドスマルシェ、ストローマン、ラビットマン |
-| 粗忽屋[東京](../Page/東京.md "wikilink")店                        | [大谷育江](../Page/大谷育江.md "wikilink")                      | エニシダ、偽ナミ（ショコラ）\[20\]                                                 |
-| 粗忽屋[後楽園](../Page/後楽園.md "wikilink")店                      | [山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink") | シェリー、ヤガラ                                                             |
-| 粗忽屋[所沢](https://ja.wikipedia.org/wiki/所沢 "wikilink")店     | キキョウ、エポニー、ジョスカルポーネ、リンリンのママ                              |                                                                      |
-| 粗忽屋[二子玉店](https://ja.wikipedia.org/wiki/二子玉川 "wikilink")  | [矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")   | 偽そげキング（マウンブルテン）\[21\]、タブレット                                          |
-| 粗忽屋[雑司ヶ谷](https://ja.wikipedia.org/wiki/雑司ヶ谷 "wikilink")店 | [チョー](../Page/チョー_\(俳優\).md "wikilink")                 | スフィンクス                                                               |
-| 粗忽屋[新宿](../Page/新宿.md "wikilink")店                        | 偽フランキー（トルコ）\[22\]、マウジイ                                  |                                                                      |
+| 別名義                                                       | 声優                                      | 主なキャラクター                                                             |
+| --------------------------------------------------------- | --------------------------------------- | -------------------------------------------------------------------- |
+| 粗忽屋                                                       | [平田広明](../Page/平田広明.md "wikilink")      | カルー、チュチューン、犬ッペ\[12\]、マグラ、偽ルフィ（デマロ・ブラック）\[13\]                        |
+| 粗忽屋[浜田山](../Page/浜田山.md "wikilink")店                      | [田中真弓](../Page/田中真弓.md "wikilink")      | オーズ\[14\]、偽チョッパー（のらギツネ）\[15\]                                        |
+| 粗忽屋[西神戸店](../Page/神戸.md "wikilink")                       | [中井和哉](../Page/中井和哉.md "wikilink")      | クンフージュゴン、ピエール、ジゴロウ\[16\]、ヤギゴリラゾンビ、サルデス、偽サンジ（ドリップ）\[17\]、ヌストルテ        |
+| 粗忽屋[武蔵野](https://ja.wikipedia.org/wiki/武蔵野 "wikilink")店   | [岡村明美](../Page/岡村明美.md "wikilink")      | スー、ゴンベ、アフェランドラ、偽ロビン（ココア）\[18\]、ヴィンスモーク・ヨンジ（子供）                       |
+| 粗忽屋[東品川](https://ja.wikipedia.org/wiki/東品川 "wikilink")店   | [山口勝平](../Page/山口勝平.md "wikilink")      | マツゲ、ミノタウロス、ドグラ、偽ゾロ（マンジャロウ）\[19\]、バリエテ、ランドルフ、ニトロ、ドスマルシェ、ストローマン、ラビットマン |
+| 粗忽屋[東京](../Page/東京.md "wikilink")店                        | [大谷育江](../Page/大谷育江.md "wikilink")      | エニシダ、偽ナミ（ショコラ）\[20\]                                                 |
+| 粗忽屋[後楽園](../Page/後楽園.md "wikilink")店                      | [山口由里子](../Page/山口由里子.md "wikilink")    | シェリー、ヤガラ                                                             |
+| 粗忽屋[所沢](https://ja.wikipedia.org/wiki/所沢 "wikilink")店     | キキョウ、エポニー、ジョスカルポーネ、リンリンのママ              |                                                                      |
+| 粗忽屋[二子玉店](../Page/二子玉川.md "wikilink")                     | [矢尾一樹](../Page/矢尾一樹.md "wikilink")      | 偽そげキング（マウンブルテン）\[21\]、タブレット                                          |
+| 粗忽屋[雑司ヶ谷](https://ja.wikipedia.org/wiki/雑司ヶ谷 "wikilink")店 | [チョー](../Page/チョー_\(俳優\).md "wikilink") | スフィンクス                                                               |
+| 粗忽屋[新宿](../Page/新宿.md "wikilink")店                        | 偽フランキー（トルコ）\[22\]、マウジイ                  |                                                                      |
 
 ## 主な歴史
 
@@ -50,11 +50,11 @@
   - [1999年](../Page/1999年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")（第1話）、毎週水曜19:00 - 19:30にて放送開始。
   - [2001年](../Page/2001年.md "wikilink")4月より、毎週日曜19:30 - 19:58に放送時間を移動（移動後初回放送の[4月15日](../Page/4月15日.md "wikilink")のみ19:00 - 19:58）。
   - [2004年](../Page/2004年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")（第207話）より、[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作に移行した。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月より、毎週日曜19:00 - 19:28に放送時間を移動（移動後初回放送の[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")のみ19:00 - 19:58）。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")より、ローカルセールス枠での放送に変更。関東地方は放送時間を毎週日曜9:30 - 10:00に移動した。これに伴いエンディングも廃止。また徐々に原作に追いつきはじめたため、冒頭に麦わらの一味を紹介する映像と長い回想シーンが挟まれ、途中のCM時間も大幅に長くなった。
+  - [2005年](../Page/2005年.md "wikilink")1月より、毎週日曜19:00 - 19:28に放送時間を移動（移動後初回放送の[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")のみ19:00 - 19:58）。
+  - [2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")より、ローカルセールス枠での放送に変更。関東地方は放送時間を毎週日曜9:30 - 10:00に移動した。これに伴いエンディングも廃止。また徐々に原作に追いつきはじめたため、冒頭に麦わらの一味を紹介する映像と長い回想シーンが挟まれ、途中のCM時間も大幅に長くなった。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")放送分のみ、次回予告の形態が通常と異なっていた。
   - 2008年[12月7日](../Page/12月7日.md "wikilink")より、地上アナログ放送ではレターボックス（アスペクト比16:9）での放送に移行した。
-  - [2009年](../Page/2009年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")放送分よりルフィ以外のメインキャラクターの登場回数削減に伴い、次回予告の内容は、登場キャラクターがしゃべる形式から、ナレーションの大場真人によるあらすじを読み上げる形式に変更された。次回のサブタイトルや、最後に決めゼリフを[ルフィが言うのは変更なし](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink")。メインキャラクターが再び集結した現在もこの形式を続けている。
+  - [2009年](../Page/2009年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")放送分よりルフィ以外のメインキャラクターの登場回数削減に伴い、次回予告の内容は、登場キャラクターがしゃべる形式から、ナレーションの大場真人によるあらすじを読み上げる形式に変更された。次回のサブタイトルや、最後に決めゼリフを[ルフィが言うのは変更なし](../Page/モンキー・D・ルフィ.md "wikilink")。メインキャラクターが再び集結した現在もこの形式を続けている。
   - 2011年[4月3日](../Page/4月3日.md "wikilink")放送の『[トリコ](https://ja.wikipedia.org/wiki/トリコ "wikilink")』第1話では『トリコ×ONE PIECEコラボスペシャル』と題され、レギュラーキャラクターがゲスト出演している。1時間スペシャルの内、後半エピソードは『ONE PIECE』扱いで制作された。
   - 2011年[9月25日](../Page/9月25日.md "wikilink")（第516話）で、12年続いた『サバイバルの海 超新星編』が終了。翌週の同年[10月2日](../Page/10月2日.md "wikilink")（第517話）より原作第2部に当たる『最後の海 新世界編』が開始。作中の時系列が本編開始から2年後に変更、次回予告BGM・アイキャッチも刷新された。
   - [2012年](../Page/2012年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")、高画質化処理を行った「スペシャルエディション」として、第1話からの再放送が開始\[23\]。関東地区で毎週土曜9:55から放送。映像は上下がカットされている。[2013年](../Page/2013年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")で放送を終了した。
@@ -64,7 +64,7 @@
 
 ### 放送事故・放送中断・放送休止
 
-  - [2007年](../Page/2007年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")（第302話）は、[能登半島地震](../Page/能登半島地震.md "wikilink")のため、放送時間残り約2 - 5分の所で放送が中断され[緊急報道特番が組まれた](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")。同29日深夜に改めて放送された。なお、当時7日遅れ放送だった[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）では放送を中断せず、地震報道は画面上部のテロップで流して対応した。
+  - [2007年](../Page/2007年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")（第302話）は、[能登半島地震](../Page/能登半島地震.md "wikilink")のため、放送時間残り約2 - 5分の所で放送が中断され[緊急報道特番が組まれた](../Page/報道特別番組.md "wikilink")。同29日深夜に改めて放送された。なお、当時7日遅れ放送だった[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）では放送を中断せず、地震報道は画面上部のテロップで流して対応した。
   - 2007年[8月15日](../Page/8月15日.md "wikilink")、テレビ宮崎での放映中に映像が停止する放送事故があった。詳細は[テレビ宮崎\#事件・事故](https://ja.wikipedia.org/wiki/テレビ宮崎#事件・事故 "wikilink")を参照。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")（第440話）は、、地上アナログ放送において、前日に発生した[チリ地震の津波による大津波警報が発表された影響で](https://ja.wikipedia.org/wiki/チリ地震_\(2010年\) "wikilink")、本編開始からしばらく無音状態・緊急警報信号が鳴り、そして復帰するという事態が発生した。その後地上アナログ放送・地上デジタル放送共に津波警報を知らせる日本地図を放送中常時表示した。このため、同年3月7日（3月6日深夜）の再放送が実施された（番組中での案内は無し）。また、同日のBSフジの放送でも津波警報を知らせる日本地図が表示された。
   - [2011年](../Page/2011年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")は第490話の放送予定であったが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")に伴う報道特番の影響により放送休止とされ、第490話の放送は翌週に延期された。
@@ -72,12 +72,12 @@
 
 ### 声優の交代
 
-| 声優                                                          | 期間                                                                                                    | 役名                                                                                 | 代役                                                    |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")（産休）   | 2001年[5月27日](../Page/5月27日.md "wikilink") - [8月26日](../Page/8月26日.md "wikilink")（第70話 - 第78話）         | [ナミ](https://ja.wikipedia.org/wiki/ナミ_\(ONE_PIECE\) "wikilink")                    | [山崎和佳奈](../Page/山崎和佳奈.md "wikilink")                  |
-| [大谷育江](../Page/大谷育江.md "wikilink")（体調不良）                    | 2006年[1月22日](../Page/1月22日.md "wikilink") - [4月30日](../Page/4月30日.md "wikilink")（第254話 - 第263話）\[24\] | [トニートニー・チョッパー](https://ja.wikipedia.org/wiki/トニートニー・チョッパー "wikilink")              | [伊倉一恵](https://ja.wikipedia.org/wiki/伊倉一恵 "wikilink") |
-| [山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink")（産休） | 2007年[3月4日](../Page/3月4日.md "wikilink") - [7月22日](../Page/7月22日.md "wikilink")（第299話 - 第319話）         | [ニコ・ロビン](https://ja.wikipedia.org/wiki/ニコ・ロビン "wikilink")                          | [小林優子](https://ja.wikipedia.org/wiki/小林優子 "wikilink") |
-| [沢城みゆき](../Page/沢城みゆき.md "wikilink")（産休）                    | [2018年](../Page/2018年.md "wikilink")10月7日 - 12月2日（第856話 - 第863話）                                      | [シャーロット・プリン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・プリン "wikilink") | [桑島法子](../Page/桑島法子.md "wikilink")                    |
+| 声優                                       | 期間                                                                                                    | 役名                                                                                 | 代役                                                    |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| [岡村明美](../Page/岡村明美.md "wikilink")（産休）   | 2001年[5月27日](../Page/5月27日.md "wikilink") - [8月26日](../Page/8月26日.md "wikilink")（第70話 - 第78話）         | [ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink")                                       | [山崎和佳奈](../Page/山崎和佳奈.md "wikilink")                  |
+| [大谷育江](../Page/大谷育江.md "wikilink")（体調不良） | 2006年[1月22日](../Page/1月22日.md "wikilink") - [4月30日](../Page/4月30日.md "wikilink")（第254話 - 第263話）\[24\] | [トニートニー・チョッパー](https://ja.wikipedia.org/wiki/トニートニー・チョッパー "wikilink")              | [伊倉一恵](https://ja.wikipedia.org/wiki/伊倉一恵 "wikilink") |
+| [山口由里子](../Page/山口由里子.md "wikilink")（産休） | 2007年[3月4日](../Page/3月4日.md "wikilink") - [7月22日](../Page/7月22日.md "wikilink")（第299話 - 第319話）         | [ニコ・ロビン](../Page/ニコ・ロビン.md "wikilink")                                             | [小林優子](../Page/小林優子.md "wikilink")                    |
+| [沢城みゆき](../Page/沢城みゆき.md "wikilink")（産休） | [2018年](../Page/2018年.md "wikilink")10月7日 - 12月2日（第856話 - 第863話）                                      | [シャーロット・プリン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・プリン "wikilink") | [桑島法子](../Page/桑島法子.md "wikilink")                    |
 
 声優の一時休業
 
@@ -95,7 +95,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/松尾銀三" title="wikilink">松尾銀三</a></p></td>
+<td><p><a href="../Page/松尾銀三.md" title="wikilink">松尾銀三</a></p></td>
 <td><p>2001年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海軍_(ONE_PIECE)#スモーカー" title="wikilink">スモーカー</a></p></td>
 <td><p>2001年<a href="../Page/9月2日.md" title="wikilink">9月2日</a>（第79話）</p></td>
@@ -107,30 +107,30 @@
 <td><p>2007年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/空島_(ONE_PIECE)#酋長" title="wikilink">酋長</a></p></td>
 <td><p>2003年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/増谷康紀" title="wikilink">増谷康紀</a></p></td>
+<td><p><a href="../Page/増谷康紀.md" title="wikilink">増谷康紀</a></p></td>
 <td><p>2018年8月25日<br />
 （TVSP『<a href="https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブ空島" title="wikilink">エピソードオブ空島</a>』）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/郷里大輔" title="wikilink">郷里大輔</a></p></td>
+<td><p><a href="../Page/郷里大輔.md" title="wikilink">郷里大輔</a></p></td>
 <td><p>2010年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/王下七武海#ジンベエ" title="wikilink">ジンベエ他</a></p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/12月27日.md" title="wikilink">12月27日</a>（第432話）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宝亀克寿" title="wikilink">宝亀克寿</a>（ジンベエ）</p></td>
+<td><p><a href="../Page/宝亀克寿.md" title="wikilink">宝亀克寿</a>（ジンベエ）</p></td>
 <td><p>2010年<a href="https://ja.wikipedia.org/wiki/3月14日" title="wikilink">3月14日</a>（第442話）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/谷口節" title="wikilink">谷口節</a></p></td>
+<td><p><a href="../Page/谷口節.md" title="wikilink">谷口節</a></p></td>
 <td><p>2012年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海賊_(ONE_PIECE)#モンブラン・クリケット" title="wikilink">モンブラン・クリケット</a></p></td>
 <td><p>2010年4月<br />
 （OVA『<a href="https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_STRONG_WORLD#OVA『EPISODE:0』" title="wikilink">EPISODE:0</a>』）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内田直哉" title="wikilink">内田直哉</a></p></td>
+<td><p><a href="../Page/内田直哉.md" title="wikilink">内田直哉</a></p></td>
 <td><p>2018年8月25日<br />
 （TVSP『エピソードオブ空島』） |-&lt;!--</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/矢田耕司" title="wikilink">矢田耕司</a></p></td>
+<td><p><a href="../Page/矢田耕司.md" title="wikilink">矢田耕司</a></p></td>
 <td><p>2014年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ゼフ" title="wikilink">ゼフ</a></p></td>
 <td><p>2013年<a href="../Page/8月24日.md" title="wikilink">8月24日</a><br />
@@ -147,7 +147,7 @@
 <td><p>2018年8月12日（第849話）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/田中一成" title="wikilink">田中一成</a></p></td>
+<td><p><a href="../Page/田中一成.md" title="wikilink">田中一成</a></p></td>
 <td><p>2016年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海賊_(ONE_PIECE)#アバロ・ピサロ" title="wikilink">アバロ・ピサロ</a>、<a href="https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#マンボシ" title="wikilink">マンボシ</a>、<a href="https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ブラックバック" title="wikilink">BB他</a></p></td>
 <td><p>2016年10月23日（第761話）</p></td>
@@ -163,7 +163,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/高塚正也" title="wikilink">高塚正也</a>（ピサロ）</p></td>
+<td><p><a href="../Page/高塚正也.md" title="wikilink">高塚正也</a>（ピサロ）</p></td>
 <td><p>2020年1月12日（第917話）</p></td>
 <td></td>
 <td></td>
@@ -187,12 +187,12 @@
 <td><p>2019年4月21日（第881話）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤哲夫" title="wikilink">後藤哲夫</a></p></td>
+<td><p><a href="../Page/後藤哲夫.md" title="wikilink">後藤哲夫</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インペルダウン#ハンニャバル" title="wikilink">ハンニャバル</a>、<a href="https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ドンキホーテ・ミョスガルド聖" title="wikilink">ミョスガルド他</a></p></td>
 <td><p>2015年<a href="../Page/9月20日.md" title="wikilink">9月20日</a>（第710話）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菊池正美" title="wikilink">菊池正美</a>（ミョスガルド）</p></td>
+<td><p><a href="../Page/菊池正美.md" title="wikilink">菊池正美</a>（ミョスガルド）</p></td>
 <td><p>2019年6月9日（第888話） |-&lt;!--</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有本欽隆" title="wikilink">有本欽隆</a></p></td>
+<td><p><a href="../Page/有本欽隆.md" title="wikilink">有本欽隆</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -214,7 +214,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/曽我部和恭" title="wikilink">曽我部和恭</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海賊_(ONE_PIECE)#ベン・ベックマン" title="wikilink">ベン・ベックマン</a></p></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/12月8日.md" title="wikilink">12月8日</a>（第4話）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田原アルノ" title="wikilink">田原アルノ</a></p></td>
+<td><p><a href="../Page/田原アルノ.md" title="wikilink">田原アルノ</a></p></td>
 <td><p>2003年4月20日（第151話）</p></td>
 <td><p>曽我部は2000年に声優を引退し、2006年に死去。</p></td>
 </tr>
@@ -228,17 +228,17 @@
 青野は番組降板後も劇場版には第10作目までのゲストキャラの声で多数出演していた。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/家弓家正" title="wikilink">家弓家正</a></p></td>
+<td><p><a href="../Page/家弓家正.md" title="wikilink">家弓家正</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アラバスタ王国#ネフェルタリ・コブラ" title="wikilink">ネフェルタリ・コブラ</a></p></td>
 <td><p>2007年<a href="../Page/9月14日.md" title="wikilink">9月14日</a>（第324話）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上田敏也" title="wikilink">上田敏也</a></p></td>
+<td><p><a href="../Page/上田敏也.md" title="wikilink">上田敏也</a></p></td>
 <td><p>2011年<a href="../Page/8月28日.md" title="wikilink">8月28日</a>（第512話）</p></td>
 <td><p>家弓は2014年に死去。</p></td>
 </tr>
 <tr class="even">
 <td><p>上田敏也</p></td>
 <td><p>2011年8月28日（第512話）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/郷田ほづみ" title="wikilink">郷田ほづみ</a></p></td>
+<td><p><a href="../Page/郷田ほづみ.md" title="wikilink">郷田ほづみ</a></p></td>
 <td><p>2017年<a href="../Page/2月12日.md" title="wikilink">2月12日</a>（第776話）</p></td>
 <td></td>
 <td></td>
@@ -260,7 +260,7 @@
 <td><p>藤田は2018年に死去[25]。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/広瀬正志" title="wikilink">広瀬正志</a></p></td>
+<td><p><a href="../Page/広瀬正志.md" title="wikilink">広瀬正志</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#リク・ドルド3世" title="wikilink">リク・ドルド3世</a></p></td>
 <td><p>2014年<a href="../Page/9月7日.md" title="wikilink">9月7日</a>（第660話）</p></td>
 <td><p><a href="../Page/銀河万丈.md" title="wikilink">銀河万丈</a></p></td>
@@ -277,10 +277,10 @@
 <td><p>八奈見は2015年より長期休業。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/木内レイコ" title="wikilink">木内レイコ</a></p></td>
+<td><p><a href="../Page/木内レイコ.md" title="wikilink">木内レイコ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海賊_(ONE_PIECE)#ジュエリー・ボニー" title="wikilink">ジュエリー・ボニー</a></p></td>
 <td><p>2016年4月10日（第736話）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高木礼子" title="wikilink">高木礼子</a></p></td>
+<td><p><a href="../Page/高木礼子.md" title="wikilink">高木礼子</a></p></td>
 <td><p>2019年6月9日（第888話）</p></td>
 <td></td>
 </tr>
@@ -293,7 +293,7 @@
   - 企画
       - フジテレビ - [鈴木吉弘](../Page/鈴木吉弘.md "wikilink")（第1話-第47話）→金田耕司（第48話-第106話）→熊谷剛（第107話-第132話）→[松崎容子](../Page/松崎容子.md "wikilink")（第133話-第240話）→渋谷謙太郎（第241話-第368話）→情野誠人（第369話-第604話・第612話-第614話）→髙木明梨須（第591話-第652話）→狩野雄太（第653話-）
       - 東映アニメーション - 清水慎治（第1話-第228話）→[梅澤淳稔](../Page/梅澤淳稔.md "wikilink")（第229話-第298話）→浅間陽介（第279話-第368話）→[柴田宏明](https://ja.wikipedia.org/wiki/柴田宏明 "wikilink")（第369話-第530話）→櫻田博之（第531話-第734話）→小山弘起（第683話-第853話）→櫻田博之（第854話-）
-  - シリーズ構成 - [武上純希](https://ja.wikipedia.org/wiki/武上純希 "wikilink")（第1話-第195話\[26\]\[27\]）→上坂浩彦（第196話-第798話\[28\]）→[米村正二](../Page/米村正二.md "wikilink")（第799話-）
+  - シリーズ構成 - [武上純希](../Page/武上純希.md "wikilink")（第1話-第195話\[26\]\[27\]）→上坂浩彦（第196話-第798話\[28\]）→[米村正二](../Page/米村正二.md "wikilink")（第799話-）
   - 音楽 - [田中公平](../Page/田中公平.md "wikilink")、[浜口史郎](https://ja.wikipedia.org/wiki/浜口史郎 "wikilink")
   - 製作担当 - [樋口宗久](https://ja.wikipedia.org/wiki/樋口宗久 "wikilink")（第1話-第115話）→藤岡和実（第40話-第302話）、坂本憲生知（第270話-第298話）→松坂一光（第303話-第425話）→黒木耕次郎（第426話-第584話\[29\]）→稲垣哲雄（第579話-第692話）→吉田智哉（第693話-）・赤堀哲嗣（第807話-）
   - キャラクターデザイン - [小泉昇](../Page/小泉昇.md "wikilink")（第1話-第425話）→久田和也（第385話-第891話）\[30\]→松田翠（第780話-第782話・第892話-）
@@ -302,15 +302,15 @@
   - 美術監督 - 本間禎章（第892話-\[34\]）、吉池隆司（第895話-第896話）
   - 色彩設定→色彩設計\[35\] - 塚田劭（第1話-第312話）→堀田哲平（第313話-\[36\]）
   - 撮影監督 - 大西弘悟→千葉秀樹（第892話-第917話\[37\]）→保坂友哉（第918話-）
-  - シリーズディレクター - [宇田鋼之介](../Page/宇田鋼之介.md "wikilink")（第1話-第278話）、[志水淳児](../Page/志水淳児.md "wikilink")（第131話-第159話）→[境宗久](../Page/境宗久.md "wikilink")（第244話-第372話）→[宮元宏彰](https://ja.wikipedia.org/wiki/宮元宏彰 "wikilink")（第352話-第679話）\[38\]→[深澤敏則](https://ja.wikipedia.org/wiki/深澤敏則 "wikilink")（第663話-第891話）、伊藤聡伺（第780話-第782話）→[長峯達也](https://ja.wikipedia.org/wiki/長峯達也 "wikilink")（第780話-第782話・第892話-）、[暮田公平](https://ja.wikipedia.org/wiki/暮田公平 "wikilink")、小牧文（第892話-）
+  - シリーズディレクター - [宇田鋼之介](../Page/宇田鋼之介.md "wikilink")（第1話-第278話）、[志水淳児](../Page/志水淳児.md "wikilink")（第131話-第159話）→[境宗久](../Page/境宗久.md "wikilink")（第244話-第372話）→[宮元宏彰](https://ja.wikipedia.org/wiki/宮元宏彰 "wikilink")（第352話-第679話）\[38\]→[深澤敏則](../Page/深澤敏則.md "wikilink")（第663話-第891話）、伊藤聡伺（第780話-第782話）→[長峯達也](https://ja.wikipedia.org/wiki/長峯達也 "wikilink")（第780話-第782話・第892話-）、[暮田公平](https://ja.wikipedia.org/wiki/暮田公平 "wikilink")、小牧文（第892話-）
   - キャラクターデザイン補佐\[39\] - 髙木雅之（第892話-第894話）、太田朝子、高橋成美
   - 編集 - 福光伸一（第1話-第203話）→後藤正浩（第204話-第345話）→牧信公（第346話-\[40\]）
   - アシスタントプロデューサー\[41\] - 出樋昌稔（フジテレビ）（-第741話）・寺本知資（第653話-第672話）→小山弘起（第668話-第682話）（東映アニメーション）
   - 広報 - 為永佐知男（第1話-第79話）→北野あすか（第80話-第126話）→正岡高子（第127話-第278話）→遠藤恵（第279話-第408話）→田中杏子（第409話-第460話）→瀬田裕幸（第461話-第482話）→熊谷知子（第483話-第652話）→山本麻未子（第653話-第734話）→清田美智子（第735話-第757話）→太田真紀子（第758話-第891話）（フジテレビ）→瀬川ネリ（第892話-）、加藤美穂子（-第882話）→小林美姫（第883話-）、中台郁美
-  - 音響効果 - 新井秀徳（[フィズサウンドクリエイション](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")→JetSoundEngine）
+  - 音響効果 - 新井秀徳（[フィズサウンドクリエイション](../Page/フィズサウンドクリエイション.md "wikilink")→JetSoundEngine）
   - 選曲 - 神保直史（オーディオ・タナカ）
   - 録音調整 - 二宮健治（第1話-第230話）→渡辺絵里奈（第231話-\[42\]）
-  - 録音スタジオ - [タバック](../Page/タバック.md "wikilink")（第1話-第721話 ）→[スリーエススタジオ](https://ja.wikipedia.org/wiki/スワラ・プロ "wikilink")（第722話- ）
+  - 録音スタジオ - [タバック](../Page/タバック.md "wikilink")（第1話-第721話 ）→[スリーエススタジオ](../Page/スワラ・プロ.md "wikilink")（第722話- ）
   - 音響制作 - タバック（第722話- ）
   - オンライン編集 - [TOVIC→東映デジタルラボ](../Page/東映ラボ・テック.md "wikilink")\[43\]、原田侑→小山雅史
   - 制作協力 - [東映](../Page/東映.md "wikilink")（第1話-第806話）
@@ -336,7 +336,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウィーアー!" title="wikilink">ウィーアー!</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/きただにひろし" title="wikilink">きただにひろし</a></p></td>
+<td><p><a href="../Page/きただにひろし.md" title="wikilink">きただにひろし</a></p></td>
 <td><p>第1話 - 第47話</p></td>
 <td><p>[46]<br />
 オープニングで唯一、効果音が挿入されている。</p></td>
@@ -344,7 +344,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="../Page/Believe_(Folder5の曲).md" title="wikilink">Believe</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Folder5" title="wikilink">Folder5</a></p></td>
+<td><p><a href="../Page/Folder5.md" title="wikilink">Folder5</a></p></td>
 <td><p>第48話 - 第115話</p></td>
 <td><p>[47]<br />
 イントロの一部にCDにはない部分がある。</p></td>
@@ -367,7 +367,7 @@ CD版にはないイントロが使われている。</p></td>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>ココロのちず</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BOYSTYLE" title="wikilink">BOYSTYLE</a></p></td>
+<td><p><a href="../Page/BOYSTYLE.md" title="wikilink">BOYSTYLE</a></p></td>
 <td><p>第207話 - 第263話</p></td>
 <td></td>
 </tr>
@@ -453,7 +453,7 @@ CD版にはないイントロが使われている。</p></td>
 <tr class="odd">
 <td><p>17</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Wake_up!" title="wikilink">Wake up!</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AAA_(音楽グループ)" title="wikilink">AAA</a></p></td>
+<td><p><a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a></p></td>
 <td><p>第629話 - 第686話</p></td>
 <td><p>第663話、第680話で映像の一部が変更。[55]</p></td>
 </tr>
@@ -499,7 +499,7 @@ CD版にはないイントロが使われている。</p></td>
 
 ### エンディングテーマ
 
-全て1分10秒。放送時間が日曜9時30分に移動した第279話（2006年10月1日）以降は**エンディングが廃止**され、それまでエンディングで表記されていたスタッフクレジットはすべてオープニングでまとめて表記されるようになった。また、「しょうちのすけ」までは[Epic Records所属のアーティストが担当していたが](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")（「私がいるよ」のみ[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")）、「BEFORE DAWN」以降はavex所属のアーティストが担当していた。
+全て1分10秒。放送時間が日曜9時30分に移動した第279話（2006年10月1日）以降は**エンディングが廃止**され、それまでエンディングで表記されていたスタッフクレジットはすべてオープニングでまとめて表記されるようになった。また、「しょうちのすけ」までは[Epic Records所属のアーティストが担当していたが](../Page/エピックレコードジャパン.md "wikilink")（「私がいるよ」のみ[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）、「BEFORE DAWN」以降はavex所属のアーティストが担当していた。
 
 <table>
 <thead>
@@ -620,7 +620,7 @@ CD版にはないイントロが使われている。</p></td>
 <tr class="even">
 <td><p>16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Dear_friends_(TRIPLANEの曲)" title="wikilink">Dear friends</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TRIPLANE" title="wikilink">TRIPLANE</a></p></td>
+<td><p><a href="../Page/TRIPLANE.md" title="wikilink">TRIPLANE</a></p></td>
 <td><p>第246話 - 第255話</p></td>
 <td><p>[66]</p></td>
 </tr>
@@ -652,39 +652,39 @@ TVSP2 - 4、総集編</p></td>
 
 ### 挿入歌
 
-| 曲名                                                                                              | 歌手                                                                                                                                                                                                                                                                                                                                                                                                    | 使用話               |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| memories                                                                                        | 大槻真希                                                                                                                                                                                                                                                                                                                                                                                                  | 第130話、第808話       |
-| [ウィーアー\!](https://ja.wikipedia.org/wiki/ウィーアー! "wikilink")                                      | きただにひろし                                                                                                                                                                                                                                                                                                                                                                                               | 第129話、第152話       |
-| [Family](https://ja.wikipedia.org/wiki/Family_〜7人の麦わら海賊団篇〜 "wikilink")                          | 7人の麦わら海賊団                                                                                                                                                                                                                                                                                                                                                                                             | 第166話             |
-| そげキング（ヒーロー）のうた                                                                                  | [そげキング](https://ja.wikipedia.org/wiki/ウソップ "wikilink")（[山口勝平](../Page/山口勝平.md "wikilink")）                                                                                                                                                                                                                                                                                                            | 第258話、第264話       |
-| Dear friends                                                                                    | TRIPLANE                                                                                                                                                                                                                                                                                                                                                                                              | 第312話             |
-| チョッパーマンのうた                                                                                      | [チョッパーマン](https://ja.wikipedia.org/wiki/チョッパーマン "wikilink")（[大谷育江](../Page/大谷育江.md "wikilink")）                                                                                                                                                                                                                                                                                                       | 第336話             |
-| [幸せの黒いハンカチ](https://ja.wikipedia.org/wiki/ビンクスの酒 "wikilink")                                    | [ブルック](https://ja.wikipedia.org/wiki/ブルック_\(ONE_PIECE\) "wikilink")（[チョー](../Page/チョー_\(俳優\).md "wikilink")）                                                                                                                                                                                                                                                                                          | 第379話、第384話       |
-| ウィーアー\! for the new world                                                                       | きただにひろし                                                                                                                                                                                                                                                                                                                                                                                               | 第516話             |
-| [骨（ボーン） to be wild](https://ja.wikipedia.org/wiki/NEW_WORLD_\(ONE_PIECEのキャラクターソング\) "wikilink") | [THE SK★BROOK](https://ja.wikipedia.org/wiki/ブルック_\(ONE_PIECE\) "wikilink")（チョー）                                                                                                                                                                                                                                                                                                                      | 第517話、第519話       |
-| [NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(ONE_PIECEのキャラクターソング\) "wikilink")         | 第520話                                                                                                                                                                                                                                                                                                                                                                                                 |                   |
-| [ウィーゴー\!](https://ja.wikipedia.org/wiki/ウィーゴー! "wikilink")                                      | きただにひろし                                                                                                                                                                                                                                                                                                                                                                                               | 第521話、第522話、第573話 |
-| Dancing of Breams, and Plaices                                                                  | [森公美子](https://ja.wikipedia.org/wiki/森公美子 "wikilink")                                                                                                                                                                                                                                                                                                                                                 | 第569話             |
-| [Hard Knock Days](https://ja.wikipedia.org/wiki/Hard_Knock_Days "wikilink")                     | GENERATIONS from EXILE TRIBE                                                                                                                                                                                                                                                                                                                                                                          | 第745話             |
-| ねこまむしの旦那に会いに行こう                                                                                 | ブルック（チョー）                                                                                                                                                                                                                                                                                                                                                                                             | 第765話             |
-| ブラッディ・パーティー                                                                                     | ビッグ・マム（[小山茉美](../Page/小山茉美.md "wikilink")）                                                                                                                                                                                                                                                                                                                                                            | 第786話             |
-| 誘惑の森〜一度入ったら出られない〜                                                                               | ホーミーズ                                                                                                                                                                                                                                                                                                                                                                                                 | 第792話             |
-| eat me\!                                                                                        | 第809話                                                                                                                                                                                                                                                                                                                                                                                                 |                   |
-| 明日を思えば                                                                                          | ビッグ・マム（小山茉美）                                                                                                                                                                                                                                                                                                                                                                                          | 第813話             |
-| NON SUGER LIFE                                                                                  | シュトロイゼン（[壤晴彦](../Page/壤晴彦.md "wikilink")）                                                                                                                                                                                                                                                                                                                                                             | 第827話             |
-| WELCOME VIP                                                                                     | ペロスペロー（[内田夕夜](https://ja.wikipedia.org/wiki/内田夕夜 "wikilink")）、モルガンズ（[加瀬康之](https://ja.wikipedia.org/wiki/加瀬康之 "wikilink")）、ステューシー（[金月真美](../Page/金月真美.md "wikilink")）、ル・フェルド（[松山鷹志](https://ja.wikipedia.org/wiki/松山鷹志 "wikilink")）、ピエクロ（[増谷康紀](https://ja.wikipedia.org/wiki/増谷康紀 "wikilink")）、ギバーソン（[福原耕平](../Page/福原耕平.md "wikilink")）、ウミット（[藤原貴弘](https://ja.wikipedia.org/wiki/藤原貴弘 "wikilink")） | 第830話             |
-| SUGER LIFE                                                                                      | シュトロイゼン（壤晴彦）                                                                                                                                                                                                                                                                                                                                                                                          | 第832話             |
-| 休日の法律                                                                                           | シャーロット・プラリネ（[橘U子](https://ja.wikipedia.org/wiki/橘U子 "wikilink")）                                                                                                                                                                                                                                                                                                                                      | 第858話             |
-| BADEND MUSICAL                                                                                  | ビッグ・マム（小山茉美）、ホーミーズ                                                                                                                                                                                                                                                                                                                                                                                    | 第875話             |
-| ソウルポーカス 〜女王の言葉（うた）〜                                                                             | 壤晴彦 、[野々村彩乃](https://ja.wikipedia.org/wiki/野々村彩乃 "wikilink")、ホーミーズ                                                                                                                                                                                                                                                                                                                                    | 第877話             |
+| 曲名                                                                                              | 歌手                                                                                                                                                                                                                                                                                                                        | 使用話               |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| memories                                                                                        | 大槻真希                                                                                                                                                                                                                                                                                                                      | 第130話、第808話       |
+| [ウィーアー\!](https://ja.wikipedia.org/wiki/ウィーアー! "wikilink")                                      | きただにひろし                                                                                                                                                                                                                                                                                                                   | 第129話、第152話       |
+| [Family](https://ja.wikipedia.org/wiki/Family_〜7人の麦わら海賊団篇〜 "wikilink")                          | 7人の麦わら海賊団                                                                                                                                                                                                                                                                                                                 | 第166話             |
+| そげキング（ヒーロー）のうた                                                                                  | [そげキング](../Page/ウソップ.md "wikilink")（[山口勝平](../Page/山口勝平.md "wikilink")）                                                                                                                                                                                                                                                   | 第258話、第264話       |
+| Dear friends                                                                                    | TRIPLANE                                                                                                                                                                                                                                                                                                                  | 第312話             |
+| チョッパーマンのうた                                                                                      | [チョッパーマン](../Page/チョッパーマン.md "wikilink")（[大谷育江](../Page/大谷育江.md "wikilink")）                                                                                                                                                                                                                                              | 第336話             |
+| [幸せの黒いハンカチ](https://ja.wikipedia.org/wiki/ビンクスの酒 "wikilink")                                    | [ブルック](https://ja.wikipedia.org/wiki/ブルック_\(ONE_PIECE\) "wikilink")（[チョー](../Page/チョー_\(俳優\).md "wikilink")）                                                                                                                                                                                                              | 第379話、第384話       |
+| ウィーアー\! for the new world                                                                       | きただにひろし                                                                                                                                                                                                                                                                                                                   | 第516話             |
+| [骨（ボーン） to be wild](https://ja.wikipedia.org/wiki/NEW_WORLD_\(ONE_PIECEのキャラクターソング\) "wikilink") | [THE SK★BROOK](https://ja.wikipedia.org/wiki/ブルック_\(ONE_PIECE\) "wikilink")（チョー）                                                                                                                                                                                                                                          | 第517話、第519話       |
+| [NEW WORLD](https://ja.wikipedia.org/wiki/NEW_WORLD_\(ONE_PIECEのキャラクターソング\) "wikilink")         | 第520話                                                                                                                                                                                                                                                                                                                     |                   |
+| [ウィーゴー\!](https://ja.wikipedia.org/wiki/ウィーゴー! "wikilink")                                      | きただにひろし                                                                                                                                                                                                                                                                                                                   | 第521話、第522話、第573話 |
+| Dancing of Breams, and Plaices                                                                  | [森公美子](../Page/森公美子.md "wikilink")                                                                                                                                                                                                                                                                                        | 第569話             |
+| [Hard Knock Days](https://ja.wikipedia.org/wiki/Hard_Knock_Days "wikilink")                     | GENERATIONS from EXILE TRIBE                                                                                                                                                                                                                                                                                              | 第745話             |
+| ねこまむしの旦那に会いに行こう                                                                                 | ブルック（チョー）                                                                                                                                                                                                                                                                                                                 | 第765話             |
+| ブラッディ・パーティー                                                                                     | ビッグ・マム（[小山茉美](../Page/小山茉美.md "wikilink")）                                                                                                                                                                                                                                                                                | 第786話             |
+| 誘惑の森〜一度入ったら出られない〜                                                                               | ホーミーズ                                                                                                                                                                                                                                                                                                                     | 第792話             |
+| eat me\!                                                                                        | 第809話                                                                                                                                                                                                                                                                                                                     |                   |
+| 明日を思えば                                                                                          | ビッグ・マム（小山茉美）                                                                                                                                                                                                                                                                                                              | 第813話             |
+| NON SUGER LIFE                                                                                  | シュトロイゼン（[壤晴彦](../Page/壤晴彦.md "wikilink")）                                                                                                                                                                                                                                                                                 | 第827話             |
+| WELCOME VIP                                                                                     | ペロスペロー（[内田夕夜](../Page/内田夕夜.md "wikilink")）、モルガンズ（[加瀬康之](../Page/加瀬康之.md "wikilink")）、ステューシー（[金月真美](../Page/金月真美.md "wikilink")）、ル・フェルド（[松山鷹志](../Page/松山鷹志.md "wikilink")）、ピエクロ（[増谷康紀](../Page/増谷康紀.md "wikilink")）、ギバーソン（[福原耕平](../Page/福原耕平.md "wikilink")）、ウミット（[藤原貴弘](https://ja.wikipedia.org/wiki/藤原貴弘 "wikilink")） | 第830話             |
+| SUGER LIFE                                                                                      | シュトロイゼン（壤晴彦）                                                                                                                                                                                                                                                                                                              | 第832話             |
+| 休日の法律                                                                                           | シャーロット・プラリネ（[橘U子](../Page/橘U子.md "wikilink")）                                                                                                                                                                                                                                                                             | 第858話             |
+| BADEND MUSICAL                                                                                  | ビッグ・マム（小山茉美）、ホーミーズ                                                                                                                                                                                                                                                                                                        | 第875話             |
+| ソウルポーカス 〜女王の言葉（うた）〜                                                                             | 壤晴彦 、[野々村彩乃](https://ja.wikipedia.org/wiki/野々村彩乃 "wikilink")、ホーミーズ                                                                                                                                                                                                                                                        | 第877話             |
 
 ## 各話リスト
 
 ## アニメオリジナルストーリー
 
   -  / ロストアイランド編（第54話 - 第61話）
-    ローグタウンを出港し、「偉大なる航路」を目指す麦わらの一味は、漂流していた少女・[アピスを救出する](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#アピス "wikilink")。彼女は伝説の「千年竜」について知っていたため、海軍提督[ネルソン・ロイヤルに捕らえられていたが](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#ネルソン・ロイヤル "wikilink")、嵐に乗じて船から逃げ出していた。一味はアピスと打ち解け、彼女を故郷である「軍艦島」へ送り届けることになる。一方、[不老不死](../Page/不老不死.md "wikilink")の妙薬である千年竜の骨「[竜骨](https://ja.wikipedia.org/wiki/竜骨 "wikilink")」を狙うネルソンは、傭兵[エリックにアピスを連れ戻すよう命じる](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#エリック "wikilink")。
+    ローグタウンを出港し、「偉大なる航路」を目指す麦わらの一味は、漂流していた少女・[アピスを救出する](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#アピス "wikilink")。彼女は伝説の「千年竜」について知っていたため、海軍提督[ネルソン・ロイヤルに捕らえられていたが](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#ネルソン・ロイヤル "wikilink")、嵐に乗じて船から逃げ出していた。一味はアピスと打ち解け、彼女を故郷である「軍艦島」へ送り届けることになる。一方、[不老不死](../Page/不老不死.md "wikilink")の妙薬である千年竜の骨「[竜骨](../Page/竜骨.md "wikilink")」を狙うネルソンは、傭兵[エリックにアピスを連れ戻すよう命じる](https://ja.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#エリック "wikilink")。
     軍艦島に到着した一味は、山の洞窟で、リュウ爺という名の年老いた千年竜と遭遇する。悪魔の実「ヒソヒソの実」の能力で動物と話ができるアピスは、仲間とはぐれたリュウ爺をかくまっていた。アピスの願いを聞いたルフィは、リュウ爺を住み処である「ロストアイランド」へ連れて行くと約束する。
     リュウ爺のわずかな記憶を頼りに、一味は「竜の巣」があるとされる島を発見し上陸するが、跡をつけてきたエリックが襲いかかる。島からは逃げ延びた一味だが、ネルソン率いる艦隊に包囲されてしまう。一方、エリックは、自らが不老不死となるためネルソンを裏切り、リュウ爺とアピスを奪う。アピスを守るため最期の力で吼えるリュウ爺の呼び声により、世界中から千年竜が飛来する。ルフィは提督の巨大船を叩き割り、ネルソンを倒す。その時、海底から竜の巣が現れる。リュウ爺は息を引きとるが、竜の巣では新たな千年竜が誕生する。
     エリックはネルソンにとどめを刺し、千年竜たちを殺して竜骨を得ようとする。ルフィはエリックと戦い、吹き飛ばす。麦わらの一味はアピスと別れ、軍艦島から出航する。一味はいよいよ「偉大なる航路」へと突入する。
@@ -731,13 +731,13 @@ TVSP2 - 4、総集編</p></td>
   - 大海原にひらけ\! でっかいでっカイ父の夢（2003年4月6日）
   - 守れ\! 最後の大舞台（2003年12月14日）
   - [ワンピース時代劇](../Page/ワンピース時代劇.md "wikilink")（2005年 - 2009年）
-  - [麦わら劇場](../Page/ONE_PIECE_麦わら劇場.md "wikilink")、[チョッパーマン](https://ja.wikipedia.org/wiki/チョッパーマン "wikilink")（2006年 - 2007年）
+  - [麦わら劇場](../Page/ONE_PIECE_麦わら劇場.md "wikilink")、[チョッパーマン](../Page/チョッパーマン.md "wikilink")（2006年 - 2007年）
   - [トリコ×ONE PIECE×ドラゴンボールZ 超コラボスペシャル\!\!](https://ja.wikipedia.org/wiki/トリコ×ONE_PIECE×ドラゴンボールZ_超コラボスペシャル!! "wikilink")（2013年4月7日）\[74\] - 『[トリコ](https://ja.wikipedia.org/wiki/トリコ#アニメ "wikilink")』、『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』とのコラボレーションアニメ。
   - ROMANCE DAWN（2019年10月20日）\[75\] - 読み切り漫画『[ROMANCE DAWN](https://ja.wikipedia.org/wiki/WANTED!_尾田栄一郎短編集#WJ版 "wikilink")』のアニメ化作品。
 
 ### 土曜プレミアム
 
-フジテレビ系列の単発特別番組枠「[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")」で放送されたスペシャル番組。
+フジテレビ系列の単発特別番組枠「[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")」で放送されたスペシャル番組。
 
   - [ONE PIECE エピソードオブナミ 〜航海士の涙と仲間の絆〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブナミ_〜航海士の涙と仲間の絆〜 "wikilink")（2012年8月25日）
   - [ONE PIECE エピソードオブルフィ 〜ハンドアイランドの冒険〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブルフィ_〜ハンドアイランドの冒険〜 "wikilink")（2012年12月15日）\[76\]
@@ -824,7 +824,7 @@ TVSP2 - 4、総集編</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/さくらんぼテレビジョン.md" title="wikilink">さくらんぼテレビ</a>（SAY）</p></td>
 <td><p>[89]</p></td>
 <td></td>
@@ -914,7 +914,7 @@ TVSP2 - 4、総集編</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>（TNC）</p></td>
 <td><p>[98]</p></td>
 <td></td>
@@ -984,7 +984,7 @@ TVSP2 - 4、総集編</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡山県・香川県の放送" title="wikilink">岡山県・香川県</a></p></td>
+<td><p><a href="../Page/岡山県・香川県の放送.md" title="wikilink">岡山県・香川県</a></p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">岡山放送</a>（OHK）</p></td>
 <td><p>日曜 8:25 - 8:55</p></td>
 <td><p>[105]</p></td>
@@ -1585,7 +1585,7 @@ TVSP2 - 4、総集編</p></td>
 <td><p><a href="../Page/ONE_PIECE_(2000年の映画).md" title="wikilink">ONE PIECE</a></p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/3月4日.md" title="wikilink">3月4日</a></p></td>
 <td><p><a href="../Page/志水淳児.md" title="wikilink">志水淳児</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/島田満" title="wikilink">島田満</a></p></td>
+<td><p><a href="../Page/島田満.md" title="wikilink">島田満</a></p></td>
 <td><p>21.6億円</p></td>
 <td></td>
 </tr>
@@ -1628,16 +1628,16 @@ TVSP2 - 4、総集編</p></td>
 <tr class="even">
 <td><p>6</p></td>
 <td><p><a href="../Page/ONE_PIECE_THE_MOVIE_オマツリ男爵と秘密の島.md" title="wikilink">ONE PIECE THE MOVIE オマツリ男爵と秘密の島</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/細田守" title="wikilink">細田守</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤正宏" title="wikilink">伊藤正宏</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
+<td><p><a href="../Page/細田守.md" title="wikilink">細田守</a></p></td>
+<td><p><a href="../Page/伊藤正宏.md" title="wikilink">伊藤正宏</a></p></td>
 <td><p>12億円</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/ONE_PIECE_THE_MOVIE_カラクリ城のメカ巨兵.md" title="wikilink">ONE PIECE THE MOVIE カラクリ城のメカ巨兵</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月4日.md" title="wikilink">3月4日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月4日.md" title="wikilink">3月4日</a></p></td>
 <td><p>宇田鋼之介</p></td>
 <td><p>9億円</p></td>
 <td></td>
@@ -1645,7 +1645,7 @@ TVSP2 - 4、総集編</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブアラバスタ_砂漠の王女と海賊たち" title="wikilink">ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち</a></p></td>
+<td><p><a href="../Page/ONE_PIECE_エピソードオブアラバスタ_砂漠の王女と海賊たち.md" title="wikilink">ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち</a></p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月3日.md" title="wikilink">3月3日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/今村隆寛" title="wikilink">今村隆寛</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/上坂浩彦" title="wikilink">上坂浩彦</a></p></td>
@@ -1691,7 +1691,7 @@ TVSP2 - 4、総集編</p></td>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD" title="wikilink">ONE PIECE FILM GOLD</a></p></td>
-<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a><ref>{{Cite web |date=2015-12-07 |url=<a href="https://one-piece.com/news/detail/20151207_3057%7Ctitle=映画最新作タイトル＆公開日発表">https://one-piece.com/news/detail/20151207_3057|title=映画最新作タイトル＆公開日発表</a>！『ONE PIECE FILM GOLD』2016年7月23日(土)公開決定</p></td>
+<td><p><a href="../Page/2016年.md" title="wikilink">2016年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a><ref>{{Cite web |date=2015-12-07 |url=<a href="https://one-piece.com/news/detail/20151207_3057%7Ctitle=映画最新作タイトル＆公開日発表">https://one-piece.com/news/detail/20151207_3057|title=映画最新作タイトル＆公開日発表</a>！『ONE PIECE FILM GOLD』2016年7月23日(土)公開決定</p></td>
 <td><p>|publisher=ONE PIECE.com|accessdate=2015-12-07}}</ref></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮元宏彰" title="wikilink">宮元宏彰</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/黒岩勉" title="wikilink">黒岩勉</a></p></td>
@@ -1710,7 +1710,7 @@ TVSP2 - 4、総集編</p></td>
 </tbody>
 </table>
 
-  - 第1作から第3作は[東映アニメフェア](https://ja.wikipedia.org/wiki/東映アニメフェア "wikilink")の一作として上映。第4作からは単独上映の長編となった。
+  - 第1作から第3作は[東映アニメフェア](../Page/東映アニメフェア.md "wikilink")の一作として上映。第4作からは単独上映の長編となった。
   - 8作目はアラバスタ編、9作目はドラム編の原作リメイク作品。
   - 10作目は、原作者・尾田栄一郎が製作総指揮を務める記念的作品となった。当初は例年通り春休み（3月）に公開予定と告知されていたものの、一時公開見送りとなり、改めて2009年12月公開となった。
   - 11作目はフルCG・デジタル3D映画の短編作品。
@@ -1721,7 +1721,7 @@ TVSP2 - 4、総集編</p></td>
 
 ### イベント上映作品
 
-  - [ONE PIECE 倒せ\!海賊ギャンザック](https://ja.wikipedia.org/wiki/ONE_PIECE_倒せ!海賊ギャンザック "wikilink")（1998年）
+  - [ONE PIECE 倒せ\!海賊ギャンザック](../Page/ONE_PIECE_倒せ!海賊ギャンザック.md "wikilink")（1998年）
 
 <!-- end list -->
 
@@ -1744,7 +1744,7 @@ TVSP2 - 4、総集編</p></td>
 <!-- end list -->
 
   -
-    2002年7月に[サンリオピューロランド](https://ja.wikipedia.org/wiki/サンリオピューロランド "wikilink")と[ハーモニーランド](../Page/ハーモニーランド.md "wikilink")の「夢のタイムマシン」で上映された3Dシアター。2002年7月から9月までは限定立体イベントとして「出発\!麦わら海賊団〜君も海賊王を目指せ\!〜」も開催された。
+    2002年7月に[サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")と[ハーモニーランド](../Page/ハーモニーランド.md "wikilink")の「夢のタイムマシン」で上映された3Dシアター。2002年7月から9月までは限定立体イベントとして「出発\!麦わら海賊団〜君も海賊王を目指せ\!〜」も開催された。
 
 <!-- end list -->
 
@@ -1926,20 +1926,20 @@ TVSP2 - 4、総集編</p></td>
 
 ## 備考
 
-  - [前述の通り](https://ja.wikipedia.org/wiki/#作品解説 "wikilink")、当番組は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月より日曜9:30に移動したが、日曜19時台前半枠のアニメが放送枠を移動したのは、[1967年](../Page/1967年.md "wikilink")4月に開始して同年7月に日曜18:30に移動した『[マッハGoGoGo](https://ja.wikipedia.org/wiki/マッハGoGoGo "wikilink")』以来、39年振りのことだった。また、それより前の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月には日曜19:30から日曜19:00に移動したが、過去に『[あかねちゃん](../Page/あかねちゃん.md "wikilink")』や『[GTO](../Page/GTO_\(漫画\).md "wikilink")』のように別な放送枠から日曜19:30に移動するアニメはあったものの、その逆は唯一となっている。
+  - [前述の通り](https://ja.wikipedia.org/wiki/#作品解説 "wikilink")、当番組は[2006年](../Page/2006年.md "wikilink")10月より日曜9:30に移動したが、日曜19時台前半枠のアニメが放送枠を移動したのは、[1967年](../Page/1967年.md "wikilink")4月に開始して同年7月に日曜18:30に移動した『[マッハGoGoGo](../Page/マッハGoGoGo.md "wikilink")』以来、39年振りのことだった。また、それより前の[2005年](../Page/2005年.md "wikilink")1月には日曜19:30から日曜19:00に移動したが、過去に『[あかねちゃん](../Page/あかねちゃん.md "wikilink")』や『[GTO](../Page/GTO_\(漫画\).md "wikilink")』のように別な放送枠から日曜19:30に移動するアニメはあったものの、その逆は唯一となっている。
   - 本作は劇中に[クラシック音楽](../Page/クラシック音楽.md "wikilink")が挿入されることがある。主に[ドヴォルザークの交響曲第](../Page/アントニン・ドヴォルザーク.md "wikilink")9番「新世界より」OP.95、[ベートーヴェンの交響曲第](../Page/ルートヴィヒ・ヴァン・ベートーヴェン.md "wikilink")9番第4楽章OP.125などが挙げられる。
-  - [2003年](../Page/2003年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")に東京湾のクルーズ船上で行われた劇場版第四作『デッドエンドの冒険』の製作発表会見では、会見中に当時の週刊少年ジャンプ編集長である[高橋俊昌](https://ja.wikipedia.org/wiki/高橋俊昌 "wikilink")が突然倒れ、そのまま急逝するという悲劇に見舞われた。
+  - [2003年](../Page/2003年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")に東京湾のクルーズ船上で行われた劇場版第四作『デッドエンドの冒険』の製作発表会見では、会見中に当時の週刊少年ジャンプ編集長である[高橋俊昌](../Page/高橋俊昌.md "wikilink")が突然倒れ、そのまま急逝するという悲劇に見舞われた。
   - [東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")の公式サイトでは、2006年2月頃から掲示板の荒れが悪化し、11月には放送時間移動や、投稿者同士の悪口の言い合い、作画監督などへの度の過ぎた[誹謗中傷](../Page/誹謗中傷.md "wikilink")が大半になった。このため、掲示板の会員から抜ける人や、東映アニメーションへの苦情が増加したため、11月に掲示板が閉鎖したが[2007年](../Page/2007年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")に復帰した。公式サイトには「ワンピを斬る\!」という、各話の批評をするコーナーも存在したが、同様の理由で2007年2月に閉鎖。同年10月29日にはコーナー自体が廃止となった。掲示板は、[2009年](../Page/2009年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に再び閉鎖された。
-  - フジテレビの夏のイベントである[お台場冒険王](https://ja.wikipedia.org/wiki/お台場冒険王 "wikilink")では、第1回（2003年）から第3回（2005年）まではゴーイングメリー号を目玉乗り物の一つとして運行させていたが、原作でゴーイングメリー号が自沈したため2006年の第4回ではゴーイングメリー号は運行されなかった。
+  - フジテレビの夏のイベントである[お台場冒険王](../Page/お台場冒険王.md "wikilink")では、第1回（2003年）から第3回（2005年）まではゴーイングメリー号を目玉乗り物の一つとして運行させていたが、原作でゴーイングメリー号が自沈したため2006年の第4回ではゴーイングメリー号は運行されなかった。
   - アニメで声のみだが、『[こちら葛飾区亀有公園前派出所](https://ja.wikipedia.org/wiki/こちら葛飾区亀有公園前派出所_\(アニメ\) "wikilink")』の[両津勘吉](../Page/両津勘吉.md "wikilink")とルフィがたびたび共演している。両津がルフィのようにゴム人間になるエピソード（『こち亀』第333話「ゴムゴムの両さん」）もあり、その回でのオープニングでは、両津はルフィの格好をしていた。
-  - 『[笑う犬](../Page/笑う犬.md "wikilink")の発見』の番組冒頭に「犬\!PIECE」というパロディコーナーが設けられ、主人公のルフィもアニメのまま登場した（コーナー内では[原田泰造](../Page/原田泰造.md "wikilink")が[ウソップ](https://ja.wikipedia.org/wiki/ウソップ "wikilink")、[名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")が「ピピプー」という番組オリジナルキャラクター、[チョッパー](https://ja.wikipedia.org/wiki/チョッパー "wikilink")が着ぐるみで登場した）。
+  - 『[笑う犬](../Page/笑う犬.md "wikilink")の発見』の番組冒頭に「犬\!PIECE」というパロディコーナーが設けられ、主人公のルフィもアニメのまま登場した（コーナー内では[原田泰造](../Page/原田泰造.md "wikilink")が[ウソップ](../Page/ウソップ.md "wikilink")、[名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")が「ピピプー」という番組オリジナルキャラクター、[チョッパー](../Page/チョッパー.md "wikilink")が着ぐるみで登場した）。
   - 『[脳内エステ IQサプリ](../Page/脳内エステ_IQサプリ.md "wikilink")』のコーナー「IQミラーまちがい7・IQミラーまちがい9」では、アニメとのコラボレーション企画の第一弾を飾り、その後も何度もコラボした。
-  - 『[タモリのジャポニカロゴス](https://ja.wikipedia.org/wiki/タモリのジャポニカロゴス "wikilink")』では「もしもルフィが名古屋弁だったら」という企画が行われ、[田中真弓](../Page/田中真弓.md "wikilink")が実際に名古屋弁で1場面を演じた。
+  - 『[タモリのジャポニカロゴス](../Page/タモリのジャポニカロゴス.md "wikilink")』では「もしもルフィが名古屋弁だったら」という企画が行われ、[田中真弓](../Page/田中真弓.md "wikilink")が実際に名古屋弁で1場面を演じた。
   - 2006年[9月25日](../Page/9月25日.md "wikilink")放送の『[FNS地球特捜隊ダイバスター](../Page/FNS地球特捜隊ダイバスター.md "wikilink")』の特番として「ダイバスター特別編 ONE PIECEの裏側 本当にちょっとだけ見せますスペシャル」が放送された。本作のスタッフ、アフレコスタジオなどが登場した。
   - 『[笑っていいとも\!増刊号](https://ja.wikipedia.org/wiki/笑っていいとも!増刊号 "wikilink")』で、2009年[5月3日](../Page/5月3日.md "wikilink") - 2009年[8月30日](../Page/8月30日.md "wikilink")までの間、毎週ルフィが冒頭コーナーのナレーションを担当した。
-  - 『[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』では、2010年[2月27日](../Page/2月27日.md "wikilink")に放送されたスペシャル番組『トリビアの泉 へぇへぇの種で大満開 久しぶりにやったらギネスまでとっちゃったよSP』のオープニングで、麦わらの一味と出演者の[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")・[八嶋智人](https://ja.wikipedia.org/wiki/八嶋智人 "wikilink")・[高橋克実](https://ja.wikipedia.org/wiki/高橋克実 "wikilink")が共演するコラボ企画が行なわれた。初代オープニングテーマ『ウィーアー\!』が使われ、ルフィ役はタモリ、ゾロ役（冒頭のみサンジ役）は八嶋、サンジ役（冒頭のみゾロ役）とゴールド・ロジャー役は高橋に置き換えられ、また、シャンクスはルフィ、ベン・ベックマンはゾロ、ヤソップはナミ、ラッキー・ルウはウソップに置き換えられて登場する特別版となっている。これは、2年半ぶりの放送ということでこの番組を知らない小さな子ども達のために制作されたものである。
+  - 『[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")』では、2010年[2月27日](../Page/2月27日.md "wikilink")に放送されたスペシャル番組『トリビアの泉 へぇへぇの種で大満開 久しぶりにやったらギネスまでとっちゃったよSP』のオープニングで、麦わらの一味と出演者の[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")・[八嶋智人](https://ja.wikipedia.org/wiki/八嶋智人 "wikilink")・[高橋克実](../Page/高橋克実.md "wikilink")が共演するコラボ企画が行なわれた。初代オープニングテーマ『ウィーアー\!』が使われ、ルフィ役はタモリ、ゾロ役（冒頭のみサンジ役）は八嶋、サンジ役（冒頭のみゾロ役）とゴールド・ロジャー役は高橋に置き換えられ、また、シャンクスはルフィ、ベン・ベックマンはゾロ、ヤソップはナミ、ラッキー・ルウはウソップに置き換えられて登場する特別版となっている。これは、2年半ぶりの放送ということでこの番組を知らない小さな子ども達のために制作されたものである。
   - [2011年](../Page/2011年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")放送の『[爆笑そっくりものまね紅白歌合戦スペシャル](https://ja.wikipedia.org/wiki/爆笑そっくりものまね紅白歌合戦スペシャル "wikilink")』の大晦日特番『[大晦日はマル・マル・モリ・モリ\! 爆笑そっくりものまね紅白歌合戦 祭りだ祭りだスペシャル](https://ja.wikipedia.org/wiki/大晦日はマル・マル・モリ・モリ!_爆笑そっくりものまね紅白歌合戦_祭りだ祭りだスペシャル "wikilink")』では、麦わら一味が着ぐるみ人形で登場し、紅組の応援を担当した（白組は『[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")』のまる子一家とクラスメイトの着ぐるみ）。
-  - [2015年](../Page/2015年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に『[金曜プレミアム](https://ja.wikipedia.org/wiki/金曜プレミアム "wikilink")』で放送された『[超リアル宝探しTV\! KAIDOKU王](https://ja.wikipedia.org/wiki/超リアル宝探しTV!_KAIDOKU王 "wikilink")』では、進行役としてルフィとチョッパーがアニメキャラで登場した（ナレーターは本作の大場真人）。最後は翌[22日に](../Page/8月22日.md "wikilink")『[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")』で放送される『[ONE PIECE エピソードオブサボ 〜3兄弟の絆 奇跡の再会と受け継がれる意志〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブサボ_〜3兄弟の絆_奇跡の再会と受け継がれる意志〜 "wikilink")』の告知を行った。
+  - [2015年](../Page/2015年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に『[金曜プレミアム](https://ja.wikipedia.org/wiki/金曜プレミアム "wikilink")』で放送された『[超リアル宝探しTV\! KAIDOKU王](https://ja.wikipedia.org/wiki/超リアル宝探しTV!_KAIDOKU王 "wikilink")』では、進行役としてルフィとチョッパーがアニメキャラで登場した（ナレーターは本作の大場真人）。最後は翌[22日に](../Page/8月22日.md "wikilink")『[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")』で放送される『[ONE PIECE エピソードオブサボ 〜3兄弟の絆 奇跡の再会と受け継がれる意志〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブサボ_〜3兄弟の絆_奇跡の再会と受け継がれる意志〜 "wikilink")』の告知を行った。
   - [2016年](../Page/2016年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")放送の元日特番『[十八番で勝負\!\!新春\!オールスター対抗歌合戦](https://ja.wikipedia.org/wiki/十八番で勝負!!新春!オールスター対抗歌合戦 "wikilink")』では、応援として麦わら一味が登場した。なお同番組には『ちびまる子ちゃん』のまる子一家とクラスメイト（丸尾・穂波・野口）の着ぐるみが応援として登場、『ものまね紅白』以来4年1日振りの共演となった。
   - [2017年](../Page/2017年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink") - 同年[9月10日](../Page/9月10日.md "wikilink")放送の大型特別番組『[FNS27時間テレビ にほんのれきし](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2017年\) "wikilink")』では、『ドラゴンボール超』・『ちびまる子ちゃん』・『こちら葛飾区亀有公園前派出所』と共に麦わら一味が様々な歴史に遭遇するアニメが同番組の通し企画として放送された。なお『[FNSの日](../Page/FNSの日.md "wikilink")』に麦わら一味が登場したのはこれが初である。
 
@@ -1973,7 +1973,7 @@ TVSP2 - 4、総集編</p></td>
 5.
 6.
 7.  ただし、[福島テレビ](../Page/福島テレビ.md "wikilink")では2008年3月まで本作が月曜19時から放送されていたので一部の地域では存続されていたとも言える。
-8.  単発放送を含めると、[2012年](../Page/2012年.md "wikilink")夏以降本作品の2時間スペシャルが『[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")』枠で年1回程度放送されており、これが2019年現在フジテレビにおいてゴールデンタイムにアニメが放送される唯一の事例となっている。
+8.  単発放送を含めると、[2012年](../Page/2012年.md "wikilink")夏以降本作品の2時間スペシャルが『[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")』枠で年1回程度放送されており、これが2019年現在フジテレビにおいてゴールデンタイムにアニメが放送される唯一の事例となっている。
 9.  当初は10局以上の系列局が打ち切る予定であった。また、2006年11月から本番組が[BSフジ](../Page/BSフジ.md "wikilink")で放送開始されたため、地上波未ネット地域でもそちらで補完することになっていた。
 10. 現在放送休止となる事例は、年末年始・3月第1日曜（2018年までは2月最終週）の[東京マラソン](https://ja.wikipedia.org/wiki/東京マラソン "wikilink")中継（2007年以降、[日本テレビと隔年で中継](../Page/日本テレビ放送網.md "wikilink")）、毎年3月第2日曜の[名古屋ウィメンズマラソン中継](https://ja.wikipedia.org/wiki/マラソンフェスティバル_ナゴヤ・愛知#名古屋ウィメンズマラソン "wikilink")（2012年以降毎年、[東海テレビ制作](../Page/東海テレビ放送.md "wikilink")。このため、東京マラソンをフジテレビが中継する年は2週連続放送休止になることもある）、毎年秋の初め（2016年までは夏休み初め）の[FNS27時間テレビ](../Page/FNS27時間テレビ.md "wikilink")の放送のみ。
 11. 尾田栄一郎『ONE PIECE 巻二十七』（集英社、2003年）86ページ。
@@ -2015,7 +2015,7 @@ TVSP2 - 4、総集編</p></td>
 47. 冒頭の約30秒間にゴールド・ロジャー（声 - 大塚周夫）のセリフがある。
 48.
 49. CD版とはアレンジが異なる。
-50. 冒頭の約30秒間に[モンキー・D・ルフィ](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink")（声 - [田中真弓](../Page/田中真弓.md "wikilink")）のセリフがある。
+50. 冒頭の約30秒間に[モンキー・D・ルフィ](../Page/モンキー・D・ルフィ.md "wikilink")（声 - [田中真弓](../Page/田中真弓.md "wikilink")）のセリフがある。
 51.
 52. 第383話まではノンクレジット。
 53. 『[クイズ\!ヘキサゴンII](https://ja.wikipedia.org/wiki/クイズ!ヘキサゴンII "wikilink")』とのコラボレーションによる企画ユニット。第429話まではノンクレジット。
@@ -2051,7 +2051,7 @@ TVSP2 - 4、総集編</p></td>
 83.
 84. 2017年9月まで本編の開始は9:32頃から。
 85. フジテレビおよび同時ネット局はストロング9後半枠（ただし名称表示はない）として放送。
-86. 2013年以降、毎年8月に開催される『[北海道マラソン](https://ja.wikipedia.org/wiki/北海道マラソン "wikilink")』放送日は同日の12:30 - 13:00に放送。2017年8月27日は同大会中継のため、12:30 - 13:00での放送となったが、同日は13:00 - 13:30にも放送し、同年9月3日から同時ネットに移行。
+86. 2013年以降、毎年8月に開催される『[北海道マラソン](../Page/北海道マラソン.md "wikilink")』放送日は同日の12:30 - 13:00に放送。2017年8月27日は同大会中継のため、12:30 - 13:00での放送となったが、同日は13:00 - 13:30にも放送し、同年9月3日から同時ネットに移行。
 87. 2010年12月までは木曜 17:24 - 17:54に放送され、2011年1月9日から現在の日時。さらに、2014年12月28日・2015年1月4日にそれぞれ4話連続放送を行い、2015年1月11日から同時ネットに移行。
 88. 2007年3月までは金曜 15:30 - 15:59。2007年4月から現在の時間に移動。2017年12月31日に遅れ分の1話を放送し、2018年1月7日より同時ネットに移行。
 89. 時差ネット開始当初は木曜 16:24 - 16:53に放送されていたが、2010年4月1日・8日・15日に2話連続放送をした後、4月18日から同時ネットに移行。また、スペシャルエディションは2012年7月7日に放送している。2012年8月4日・11日・18日に3話連続放送をした。
@@ -2079,7 +2079,7 @@ TVSP2 - 4、総集編</p></td>
 111. 2006年10月から2007年3月まで日曜 9:00 - 9:30、2007年4月から同年9月まで日曜 6:30 - 7:00に放送。2007年10月から2012年3月まで月曜 15:00 - 15:29、2012年4月から12月まで土曜 2:10 - 2:40（金曜深夜）での放送を経て、2013年1月から3月まで再び日曜 9:00 - 9:30に移動し、同年4月から現在の時間に移動。
 112. 2007年1月24日 - 1月26日に3話連続放送した後、2007年1月31日から放送再開。2008年9月までは木曜 15:29 - 15:59で、2009年4月11日までは土曜 5:00 - 5:30だった。また、2010年8月2日 - 12日まで、月曜 - 木曜 14:05 - 14:30に日曜のレギュラー放送と連動して集中放送した。その結果遅れが短くなった。第542話 (『トリコ』とのコラボの回) は、2012年6月26日に放送。しかし、『トリコ』は2013年4月16日を以って打ち切られたため、第590話 （『トリコ』とのコラボの回） は未放送となった。2016年3月までは水曜 16:20 - 16:50。
 113. 2008年10月4日より放送開始。2010年3月までは土曜 6:00 - 6:30、2010年4月15日から2010年6月24日までは木曜 19:00 - 19:30、2018年12月までは日曜 5:15 - 5:45に放送。なお、大分県では本来の系列局の[テレビ大分](../Page/テレビ大分.md "wikilink")（日本テレビ系列・フジテレビ系列の[クロスネット局](../Page/クロスネット局.md "wikilink")）で放送していた時期がある。
-114. SD画質での放送。2011年3月27日までは日曜 11:00 - 11:30で（4:3画面のアップコンバートでの放送）、2011年10月4日までは火曜 1:29 - 1:59（月曜深夜）で放送していた。2011年10月31日から2016年3月28日まで月曜 2:20 - 2:50（日曜深夜）を経て現在の時間で再開。日曜時代は地元スーパー[丸久](https://ja.wikipedia.org/wiki/丸久 "wikilink")の[一社提供](../Page/一社提供.md "wikilink")により[丸久サンデー劇場](https://ja.wikipedia.org/wiki/丸久サンデー劇場 "wikilink")枠で放送。
+114. SD画質での放送。2011年3月27日までは日曜 11:00 - 11:30で（4:3画面のアップコンバートでの放送）、2011年10月4日までは火曜 1:29 - 1:59（月曜深夜）で放送していた。2011年10月31日から2016年3月28日まで月曜 2:20 - 2:50（日曜深夜）を経て現在の時間で再開。日曜時代は地元スーパー[丸久](../Page/丸久.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")により[丸久サンデー劇場](https://ja.wikipedia.org/wiki/丸久サンデー劇場 "wikilink")枠で放送。
 115. 2006年[11月4日](../Page/11月4日.md "wikilink")より放送開始。2008年9月27日までは土曜 8:30 - 9:00。2011年1月2日（第216話）に字幕放送開始。特別篇「麦わら劇場&麦わら海賊譚」（第279話 - 第283話）は未放送のため、第284話以降のEPGで表示されている話数は本来の話数より5話少ないものとなっている。
 116. 2010年3月で一端打ち切られたが6月より現在の時間に移動して再開。放送内容は打ち切り前は週替わりだったが現在は隔週変更になっている。
 117. 更に暫くして（何十話か遅れた）2話単位の再放送と更に時間を置いた再々放送がある。基本は毎日1話放送だが、特番などで放送されない日は土曜・月曜の再放送も放送分だけの短縮放送になる。

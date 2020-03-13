@@ -32,7 +32,7 @@
         作詞・作曲:宇徳敬子 編曲:麻井寛史
 7.  **[Realize(album ver.)](https://ja.wikipedia.org/wiki/Realize_\(宇徳敬子の曲\) "wikilink")**
       -
-        作詞・作曲:宇徳敬子 編曲:[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作詞・作曲:宇徳敬子 編曲:[徳永暁人](../Page/徳永暁人.md "wikilink")
 8.  **[大切に想うエトセトラ](../Page/大切に想うエトセトラ.md "wikilink")**
       -
         作詞・作曲:宇徳敬子 編曲:寺地秀行
@@ -61,9 +61,9 @@
   - [渡辺直樹](../Page/渡辺直樹_\(ミュージシャン\).md "wikilink") - ベース
   - [大賀好修](../Page/大賀好修.md "wikilink")（[nothin' but love](https://ja.wikipedia.org/wiki/nothin'_but_love "wikilink")・[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")） - ギター
   - 寺島良一 - ギター、プログラミング
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - プログラミング、コーラス
-  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")） - ギター
-  - [YOKO Black. Stone](https://ja.wikipedia.org/wiki/YOKO_Black._Stone "wikilink") - コーラス
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")） - プログラミング、コーラス
+  - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（[DIMENSION](../Page/DIMENSION.md "wikilink")） - ギター
+  - [YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink") - コーラス
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink") - プログラミング
   - 大楠雄蔵 - ピアノ、キーボード
 

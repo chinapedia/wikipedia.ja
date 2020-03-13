@@ -11,13 +11,13 @@
 
 ## 収録曲
 
-1.  **明日への扉** - [安藤まさひろ作曲](https://ja.wikipedia.org/wiki/安藤正容 "wikilink")
+1.  **明日への扉** - [安藤まさひろ作曲](../Page/安藤正容.md "wikilink")
 2.  **RAINY DAY, RAINY HEART** - 安藤まさひろ作曲
 3.  **HIGH TIME** - 安藤まさひろ作曲
 4.  **ANABELLE** - 安藤まさひろ作曲
 5.  **PLAY FOR YOU** - 安藤まさひろ作曲
-6.  **BEYOND THE DAWN** - [和泉宏隆](https://ja.wikipedia.org/wiki/和泉宏隆 "wikilink")作曲
-7.  **SCANDAL BOY** - [本田雅人](https://ja.wikipedia.org/wiki/本田雅人 "wikilink")作曲
+6.  **BEYOND THE DAWN** - [和泉宏隆](../Page/和泉宏隆.md "wikilink")作曲
+7.  **SCANDAL BOY** - [本田雅人](../Page/本田雅人.md "wikilink")作曲
 8.  **JUST LIKE A WOMAN** - 本田雅人作曲
 
 ## チャート成績
@@ -26,7 +26,7 @@
 
 ## 参考文献
 
-  - 『T-SQUARE 25TH ANNIVERSARY 1976-2001』 [リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")、[2001年](../Page/2001年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")第1版発行、ISBN 4-8456-0732-8
+  - 『T-SQUARE 25TH ANNIVERSARY 1976-2001』 [リットーミュージック](../Page/リットーミュージック.md "wikilink")、[2001年](../Page/2001年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")第1版発行、ISBN 4-8456-0732-8
 
 ## 脚注・出典
 

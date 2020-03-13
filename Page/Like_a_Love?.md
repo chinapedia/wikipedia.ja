@@ -1,7 +1,7 @@
 > この記事は[Like a Love\?](https://ja.wikipedia.org/wiki/Like_a_Love\?)から翻訳されています。
 
 
-「**Like a Love?**」（ライク・ア・ラブ）は、日本の女性歌手、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")の8枚目の[エイベックスシングルである](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Like a Love?**」（ライク・ア・ラブ）は、日本の女性歌手、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")の8枚目の[エイベックスシングルである](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 

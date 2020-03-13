@@ -5,9 +5,9 @@
 
 ## 歴史
 
-  - [2003年](../Page/2003年.md "wikilink")、元Aioriaのsarinoを中心に結成される。他のメンバーは、舞（元[As'REAL](https://ja.wikipedia.org/wiki/As'REAL "wikilink")）、キカサ（元[Due'le quartz](https://ja.wikipedia.org/wiki/Due'le_quartz "wikilink")）、紫音（元[Syndrome](https://ja.wikipedia.org/wiki/Syndrome "wikilink")）。同年3月31日、[YUKIYA](../Page/YUKIYA.md "wikilink")主催イベント「開戦前夜 Kreis/Tokyo」にて初ライブを行う。
+  - [2003年](../Page/2003年.md "wikilink")、元Aioriaのsarinoを中心に結成される。他のメンバーは、舞（元[As'REAL](https://ja.wikipedia.org/wiki/As'REAL "wikilink")）、キカサ（元[Due'le quartz](https://ja.wikipedia.org/wiki/Due'le_quartz "wikilink")）、紫音（元[Syndrome](../Page/Syndrome.md "wikilink")）。同年3月31日、[YUKIYA](../Page/YUKIYA.md "wikilink")主催イベント「開戦前夜 Kreis/Tokyo」にて初ライブを行う。
   - [2004年](../Page/2004年.md "wikilink")8月13日、キカサ脱退。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月、[Kreis](../Page/Kreis.md "wikilink")から独立。12月10日、**TINC**に改名。
+  - [2006年](../Page/2006年.md "wikilink")10月、[Kreis](../Page/Kreis.md "wikilink")から独立。12月10日、**TINC**に改名。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月20日、[高田馬場AREA](../Page/高田馬場AREA.md "wikilink")のワンマンライブをもって解散。
 
 ## メンバー
@@ -17,7 +17,7 @@
   - けんた
     旧芸名は舞。
   - ゆうすけ
-    旧芸名は勇輔。現在は[ドレミ團](../Page/ドレミ團.md "wikilink")、[Psycho le CemuのYURAサマらとBrotherで活動](https://ja.wikipedia.org/wiki/Psycho_le_Cemu "wikilink")。
+    旧芸名は勇輔。現在は[ドレミ團](../Page/ドレミ團.md "wikilink")、[Psycho le CemuのYURAサマらとBrotherで活動](../Page/Psycho_le_Cemu.md "wikilink")。
   - たくま
     旧芸名は紫音。
 
@@ -82,7 +82,7 @@
 
 ## 関連項目
 
-  - [JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")
-  - [SHUNSUKE](https://ja.wikipedia.org/wiki/SHUNSUKE "wikilink")
+  - [JILS](../Page/JILS.md "wikilink")
+  - [SHUNSUKE](../Page/SHUNSUKE.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink")

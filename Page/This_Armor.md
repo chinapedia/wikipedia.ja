@@ -13,18 +13,18 @@
 
 もともとは楽曲「A Horse and Queen」が収録される予定だったが、アルバムのイメージに合わないことから収録を見送られた。代わりにシングル「[月光](../Page/月光_\(鬼束ちひろの曲\).md "wikilink")」のカップリング「Arrow of Pain」が収録されることになった。なお、「A Horse and Queen」は「A Horse and A Queen」とタイトルを変え、後に[2007年](../Page/2007年.md "wikilink")発売の4thアルバム『[LAS VEGAS](../Page/LAS_VEGAS.md "wikilink")』に収録されることとなる。
 
-シングルとして発表された「[infection](https://ja.wikipedia.org/wiki/infection/LITTLE_BEAT_RIFLE "wikilink")」「[流星群](../Page/流星群_\(鬼束ちひろの曲\).md "wikilink")」、アルバム収録曲の「ROLLIN'」「茨の海」の[プロモーションビデオは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[BUMP OF CHICKENなどのプロモーションビデオの監督](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")・演出で知られる[番場秀一](../Page/番場秀一.md "wikilink")が監督を手掛けている。
+シングルとして発表された「[infection](https://ja.wikipedia.org/wiki/infection/LITTLE_BEAT_RIFLE "wikilink")」「[流星群](../Page/流星群_\(鬼束ちひろの曲\).md "wikilink")」、アルバム収録曲の「ROLLIN'」「茨の海」の[プロモーションビデオは](../Page/ミュージック・ビデオ.md "wikilink")、[BUMP OF CHICKENなどのプロモーションビデオの監督](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")・演出で知られる[番場秀一](../Page/番場秀一.md "wikilink")が監督を手掛けている。
 
 ## 収録曲
 
-全[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")、全[編曲](../Page/編曲.md "wikilink")：[羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+全[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")、全[編曲](../Page/編曲.md "wikilink")：[羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
 
 1.  **ROLLIN**'
       -
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[完売劇場](https://ja.wikipedia.org/wiki/完売劇場 "wikilink")』エンディングテーマ
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[完売劇場](../Page/完売劇場.md "wikilink")』エンディングテーマ
 2.  **茨の海**
       -
-        映画『[群青の夜の羽毛布](https://ja.wikipedia.org/wiki/群青の夜の羽毛布 "wikilink")』主題歌
+        映画『[群青の夜の羽毛布](../Page/群青の夜の羽毛布.md "wikilink")』主題歌
 3.  **シャドウ**
 4.  **everything, in my hands**
 5.  **Our Song**
@@ -48,17 +48,17 @@
 ## 楽曲解説
 
   - ROLLIN'
-    タイトルは本人曰く「[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")の現在進行形」であり、本人の造語である（実質「ロール」のスペルは「ROLE」であり、名詞のため現在進行形に活用できない。厳密に言えば「転がる」という意味の「ROLL」の現在進行形となってしまうため）。歌詞の内容もそのロールプレイングゲームを意識した内容となっている。[プロモーションビデオはスタジオで演奏](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")・歌唱する模様を使用している。[2002年](../Page/2002年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でこの曲を披露した際は歌詞を間違えるというハプニングも起こした。
+    タイトルは本人曰く「[ロールプレイングゲーム](../Page/ロールプレイングゲーム.md "wikilink")の現在進行形」であり、本人の造語である（実質「ロール」のスペルは「ROLE」であり、名詞のため現在進行形に活用できない。厳密に言えば「転がる」という意味の「ROLL」の現在進行形となってしまうため）。歌詞の内容もそのロールプレイングゲームを意識した内容となっている。[プロモーションビデオはスタジオで演奏](../Page/ミュージック・ビデオ.md "wikilink")・歌唱する模様を使用している。[2002年](../Page/2002年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でこの曲を披露した際は歌詞を間違えるというハプニングも起こした。
 
 <!-- end list -->
 
   - 茨の海
-    アイリッシュホイッスルを使用したりとケルティックさを漂わせながらも和風な雰囲気になっており、洋楽志向の本人にとってもスタッフにとってもこの楽曲が出来上がったことは異例のことだったようで、この曲を気に入った羽毛田氏が、自身が音楽を務めた映画『[群青の夜の羽毛布](https://ja.wikipedia.org/wiki/群青の夜の羽毛布 "wikilink")』のスタッフにこの曲を推薦して同映画の主題歌に起用されることが決定したという。本人はラジオ番組等で「四方八方茨だから痛そう」と苦笑しながらも「感情って物は言葉にできないけれど自分なりに解釈して言葉にした結果」「和を以って切なさを越えた安堵感を表現した」とコメントしている。
+    アイリッシュホイッスルを使用したりとケルティックさを漂わせながらも和風な雰囲気になっており、洋楽志向の本人にとってもスタッフにとってもこの楽曲が出来上がったことは異例のことだったようで、この曲を気に入った羽毛田氏が、自身が音楽を務めた映画『[群青の夜の羽毛布](../Page/群青の夜の羽毛布.md "wikilink")』のスタッフにこの曲を推薦して同映画の主題歌に起用されることが決定したという。本人はラジオ番組等で「四方八方茨だから痛そう」と苦笑しながらも「感情って物は言葉にできないけれど自分なりに解釈して言葉にした結果」「和を以って切なさを越えた安堵感を表現した」とコメントしている。
 
 <!-- end list -->
 
   - シャドウ
-    本人曰く「地下の歌」。デビュー前に作られた楽曲のうちのひとつであるが、本人はタイムラグがなく当時の気持ちのまますんなりと収録できたという。なお、[チェロ](../Page/チェロ.md "wikilink")には音楽家の[溝口肇](https://ja.wikipedia.org/wiki/溝口肇 "wikilink")を迎えている。
+    本人曰く「地下の歌」。デビュー前に作られた楽曲のうちのひとつであるが、本人はタイムラグがなく当時の気持ちのまますんなりと収録できたという。なお、[チェロ](../Page/チェロ.md "wikilink")には音楽家の[溝口肇](../Page/溝口肇.md "wikilink")を迎えている。
 
 <!-- end list -->
 
@@ -81,6 +81,6 @@
 
 ## 関連項目
 
-  - [羽毛田丈史](https://ja.wikipedia.org/wiki/羽毛田丈史 "wikilink")
+  - [羽毛田丈史](../Page/羽毛田丈史.md "wikilink")
 
 [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:Virgin_Musicのアルバム](https://ja.wikipedia.org/wiki/Category:Virgin_Musicのアルバム "wikilink") [Category:鬼束ちひろのアルバム](https://ja.wikipedia.org/wiki/Category:鬼束ちひろのアルバム "wikilink")

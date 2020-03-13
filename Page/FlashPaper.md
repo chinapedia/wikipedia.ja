@@ -11,11 +11,11 @@
 
 PDFと同様に各種ドキュメントから「印刷」して作成でき、作成されたドキュメントはレイアウトを保持したまま表示・印刷できる。 Flash Playerのみで動き、起動時間が短い、動作が軽い、オンライン上でのドキュメント公開に向いていることが特長として挙げられる。
 
-日本国内では主に地方のスーパーストアのサイトでFlashPaperを用いた[チラシ](https://ja.wikipedia.org/wiki/チラシ "wikilink")配信に使われていた。
+日本国内では主に地方のスーパーストアのサイトでFlashPaperを用いた[チラシ](../Page/チラシ.md "wikilink")配信に使われていた。
 
 ## 作成方法
 
-Macromedia FlashPaper2では、印刷時のオプションでPDFに変換できる。FlashPaper2は日本では、[ソースネクスト](https://ja.wikipedia.org/wiki/ソースネクスト "wikilink")から「いきなりPDF FLASHPAPER」として販売されていたが、マクロメディアのアドビシステムズによる買収による影響もあり、2006年6月をもって販売終了となった。
+Macromedia FlashPaper2では、印刷時のオプションでPDFに変換できる。FlashPaper2は日本では、[ソースネクスト](../Page/ソースネクスト.md "wikilink")から「いきなりPDF FLASHPAPER」として販売されていたが、マクロメディアのアドビシステムズによる買収による影響もあり、2006年6月をもって販売終了となった。
 
 また、FlashPaperは、Macromedia Contribute 2および3にも同梱されていた。しかし、Contributeシリーズ最新版のAdobe Contribute CS3にFlashPaper作成機能は搭載されておらず、CS3世代ではFlashPaperフォーマットを作成できなくなった。
 

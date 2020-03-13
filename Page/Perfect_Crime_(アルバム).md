@@ -13,7 +13,7 @@
 ## 収録曲
 
 1.  **[PERFECT CRIME](https://ja.wikipedia.org/wiki/Can't_forget_your_love/PERFECT_CRIME_-Single_Edit- "wikilink")** (4:38)
-      - 作詞：倉木麻衣　作曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")　編曲：徳永暁人
+      - 作詞：倉木麻衣　作曲：[徳永暁人](../Page/徳永暁人.md "wikilink")　編曲：徳永暁人
     <!-- end list -->
       -
         [テレビ朝日系列ドラマ](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")『[生きるための情熱としての殺人](../Page/生きるための情熱としての殺人.md "wikilink")』主題歌
@@ -27,17 +27,17 @@
       - 作詞：倉木麻衣　作曲：大野愛果　編曲：Cybersound
     <!-- end list -->
       -
-        6thシングル。[NHK朝の連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[オードリー](https://ja.wikipedia.org/wiki/オードリー_\(テレビドラマ\) "wikilink")』主題歌
+        6thシングル。[NHK朝の連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[オードリー](../Page/オードリー_\(テレビドラマ\).md "wikilink")』主題歌
 4.  **Brand New Day** (3:47)
       - 作詞：倉木麻衣　作曲：大野愛果　編曲：徳永暁人
     <!-- end list -->
       -
-        2020年に新バージョン「Brand New Day 〜New Edition 2020〜」として[日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビ系 "wikilink")『[ぶらり途中下車の旅](https://ja.wikipedia.org/wiki/ぶらり途中下車の旅 "wikilink")』のテーマソングに起用された。
+        2020年に新バージョン「Brand New Day 〜New Edition 2020〜」として[日本テレビ系](https://ja.wikipedia.org/wiki/日本テレビ系 "wikilink")『[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")』のテーマソングに起用された。
 5.  **[Stand Up](../Page/Stand_Up_\(倉木麻衣の曲\).md "wikilink")** (4:39)
       - 作詞：倉木麻衣　作曲・編曲：徳永暁人
     <!-- end list -->
       -
-        8thシングル。[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")[爽健美茶](https://ja.wikipedia.org/wiki/爽健美茶 "wikilink")CMソング。
+        8thシングル。[コカ・コーラ](../Page/コカ・コーラ.md "wikilink")[爽健美茶](../Page/爽健美茶.md "wikilink")CMソング。
 6.  **Come on\! Come on\!** (4:11)
       - 作詞：倉木麻衣・[Michael Africk](https://ja.wikipedia.org/wiki/Michael_Africk "wikilink")　作曲：[Perry Geyer](https://ja.wikipedia.org/wiki/Perry_Geyer "wikilink")・[Miguel Sá Pessoa](https://ja.wikipedia.org/wiki/Miguel_Sá_Pessoa "wikilink")・Michael Africk　編曲：Cybersound
     <!-- end list -->
@@ -45,14 +45,14 @@
         プロモ盤として12インチレコードが存在する。
         [ライブドア](../Page/ライブドア.md "wikilink")[ポッドキャスト](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")『BEING GIZA STUDIO PODCASTING』オープニングテーマ
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビ系 "wikilink")「[感動ファクトリー・すぽると\!](../Page/すぽると!.md "wikilink")」イメージソング
-        [東京ニュース通信社](https://ja.wikipedia.org/wiki/東京ニュース通信社 "wikilink")「TOKYO BROS.」CMソング
+        [東京ニュース通信社](../Page/東京ニュース通信社.md "wikilink")「TOKYO BROS.」CMソング
 7.  **[always](https://ja.wikipedia.org/wiki/always_\(倉木麻衣の曲\) "wikilink")** (4:09)
       - 作詞：倉木麻衣　作曲：大野愛果　編曲：Cybersound
     <!-- end list -->
       -
         9thシングル。ライブではアンコールで歌われる事が多い。劇場版『[名探偵コナン 天国へのカウントダウン](https://ja.wikipedia.org/wiki/名探偵コナン_天国へのカウントダウン "wikilink")』主題歌ならびに読売テレビアニメ『名探偵コナン』エンディングテーマ。
 8.  **What are you waiting for** (5:04)
-      - 作詞：倉木麻衣・Keith Bazzle　作曲：笠原智緒・[YOKO Black. Stone](https://ja.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")　編曲：YOKO Black. Stone
+      - 作詞：倉木麻衣・Keith Bazzle　作曲：笠原智緒・[YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")　編曲：YOKO Black. Stone
     <!-- end list -->
       -
         R\&B色が強く出たナンバー。

@@ -2,18 +2,18 @@
 
 
 **Romancrew**（ロマンクルー）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。
-ヒップホップだけではなく、[ソウル](https://ja.wikipedia.org/wiki/ソウルミュージック "wikilink")・[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")・[ジャズ](../Page/ジャズ.md "wikilink")などの多様な[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")の要素を取り入れている。
+ヒップホップだけではなく、[ソウル](../Page/ソウルミュージック.md "wikilink")・[ファンク](../Page/ファンク.md "wikilink")・[ジャズ](../Page/ジャズ.md "wikilink")などの多様な[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")の要素を取り入れている。
 
 ## メンバー
 
   - **ALI-KICK**　（[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")）
-      - [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")を勤め、ユニットの総合音楽プロデュースを担当。トラックメイカー・プロデューサー[KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")、[サイプレス上野とロベルト吉野](https://ja.wikipedia.org/wiki/サイプレス上野とロベルト吉野 "wikilink")、[TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")、韻踏合組合、[SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")、[童子-T](../Page/童子-T.md "wikilink")、[久保田利伸](https://ja.wikipedia.org/wiki/久保田利伸 "wikilink")など、数多くのアーティストにトラックを提供している。
+      - [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")を勤め、ユニットの総合音楽プロデュースを担当。トラックメイカー・プロデューサー[KREVA](../Page/KREVA.md "wikilink")、[サイプレス上野とロベルト吉野](https://ja.wikipedia.org/wiki/サイプレス上野とロベルト吉野 "wikilink")、[TARO SOUL](https://ja.wikipedia.org/wiki/TARO_SOUL "wikilink")、韻踏合組合、[SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")、[童子-T](../Page/童子-T.md "wikilink")、[久保田利伸](../Page/久保田利伸.md "wikilink")など、数多くのアーティストにトラックを提供している。
       - [2013年](../Page/2013年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")、初のビート集『Beats, Beats And Life』を発売する。
 
 <!-- end list -->
 
   - **エムラスタ**　（[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink") 本名：**江村正規**、[1979年](../Page/1979年.md "wikilink") - ）
-      - [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[岐阜県](../Page/岐阜県.md "wikilink")出身。19歳の時に大阪の[アメリカ村](https://ja.wikipedia.org/wiki/アメリカ村 "wikilink")を中心としたヒップホップ文化にのめり込み、その後Romancrewとして活動を始める。東京でのライブを[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")の[宇多丸](../Page/宇多丸.md "wikilink")に絶賛されたことをきっかけに、2006年にはRHYMESTERのアルバム『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』と2007年のRomancrewのアルバム『THE BEGINNING』で宇多丸と共演した。
+      - [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[岐阜県](../Page/岐阜県.md "wikilink")出身。19歳の時に大阪の[アメリカ村](../Page/アメリカ村.md "wikilink")を中心としたヒップホップ文化にのめり込み、その後Romancrewとして活動を始める。東京でのライブを[RHYMESTER](../Page/RHYMESTER.md "wikilink")の[宇多丸](../Page/宇多丸.md "wikilink")に絶賛されたことをきっかけに、2006年にはRHYMESTERのアルバム『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』と2007年のRomancrewのアルバム『THE BEGINNING』で宇多丸と共演した。
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
     3.  Wez coast Jazz'n Funk
     4.  Ex-girlfriend
     5.  異国の匂いのする女
-    6.  スウィンギーボンボン feat. [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")
+    6.  スウィンギーボンボン feat. [RHYMESTER](../Page/RHYMESTER.md "wikilink")
     7.  Jus Chillin'
     8.  Circus
     9.  Sir Dick
@@ -144,7 +144,7 @@
       - G・R・O・G-Get Rid Of Grungy feat. Romancrew
   - タカツキ　『タカツキタツキ』（2005年7月20日）
       - 7\. ロマンサムライ feat.Romancrew & samurai troops
-  - [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")　『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』（2006年3月8日）
+  - [RHYMESTER](../Page/RHYMESTER.md "wikilink")　『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』（2006年3月8日）
       - 7\. 紳士同盟 feat. Romancrew
   - [KEN THE 390](../Page/KEN_THE_390.md "wikilink")　『My Life』（2007年6月6日）
       - 9\. Tell Me What You Want feat. Romancrew
@@ -182,7 +182,7 @@
 
 #### プロデュース
 
-  - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink")　『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")』　（2007年9月5日）
+  - [KREVA](../Page/KREVA.md "wikilink")　『[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")』　（2007年9月5日）
 
 <!-- end list -->
 
@@ -308,7 +308,7 @@
 
 ### エムラスタの客演作品
 
-  - [KEN THE 390](../Page/KEN_THE_390.md "wikilink")　『プロローグ』　（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
+  - [KEN THE 390](../Page/KEN_THE_390.md "wikilink")　『プロローグ』　（[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")）
 
 <!-- end list -->
 

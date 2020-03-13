@@ -3,7 +3,7 @@
 
 **WISE**（ワイズ、[1979年](../Page/1979年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。本名、**亀山 晴児**。
 
-[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。クリエイター集団[風の人](https://ja.wikipedia.org/wiki/風の人 "wikilink")所属。[日本語](../Page/日本語.md "wikilink")と[英語](../Page/英語.md "wikilink")を操る[バイリンガル](https://ja.wikipedia.org/wiki/二言語話者 "wikilink")[MCとして活動](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。2005年にはビートメーカー[SONPUB](https://ja.wikipedia.org/wiki/SONPUB "wikilink")とのユニット「WISE\`N'SONPUB」を、[RIP SLYMEのRYO](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")-ZとILMARI、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")らと「[TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")」を結成。2007年、シングル『Shine like a star』でメジャーデビュー。 アーティスト名は本名の晴児（せいじ）の英語風綴り *[sage](https://ja.wikipedia.org/wiki/Wikt:sage "wikilink")* の意（賢者 *a* ***wise*** *man* ）から。父親が日本人で母親がアメリカ人のハーフ。高校時代をアメリカで過ごした。
+[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身。クリエイター集団[風の人](https://ja.wikipedia.org/wiki/風の人 "wikilink")所属。[日本語](../Page/日本語.md "wikilink")と[英語](../Page/英語.md "wikilink")を操る[バイリンガル](https://ja.wikipedia.org/wiki/二言語話者 "wikilink")[MCとして活動](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。2005年にはビートメーカー[SONPUB](https://ja.wikipedia.org/wiki/SONPUB "wikilink")とのユニット「WISE\`N'SONPUB」を、[RIP SLYMEのRYO](../Page/RIP_SLYME.md "wikilink")-ZとILMARI、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")らと「[TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")」を結成。2007年、シングル『Shine like a star』でメジャーデビュー。 アーティスト名は本名の晴児（せいじ）の英語風綴り *[sage](https://ja.wikipedia.org/wiki/Wikt:sage "wikilink")* の意（賢者 *a* ***wise*** *man* ）から。父親が日本人で母親がアメリカ人のハーフ。高校時代をアメリカで過ごした。
 
 ## 人物
 
@@ -202,7 +202,7 @@ UMCK-5209:通常盤</p></td>
 <li>Delicious</li>
 <li>Never at once feat.HIMIKO</li>
 <li>Thinking of you</li>
-<li>Hey girl! feat.SU(<a href="https://ja.wikipedia.org/wiki/RIP_SLYME" title="wikilink">RIP SLYME</a>)</li>
+<li>Hey girl! feat.SU(<a href="../Page/RIP_SLYME.md" title="wikilink">RIP SLYME</a>)</li>
 <li>太陽の子供 feat.<a href="../Page/AFRA.md" title="wikilink">AFRA</a>,<a href="https://ja.wikipedia.org/wiki/cro-magnon" title="wikilink">cro-magnon</a></li>
 <li>GOOD MUSIC feat.MC LEO</li>
 <li>Play that song</li>
@@ -220,7 +220,7 @@ UMCK-1311:通常盤</p></td>
 <td><ol>
 <li>LOVE QUEST</li>
 <li>会えなくても feat.西野カナ</li>
-<li>Into the sky feat.<a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a></li>
+<li>Into the sky feat.<a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a></li>
 <li>...In your happiness</li>
 <li>Big City of Dreams feat.<a href="https://ja.wikipedia.org/wiki/TARO_SOUL" title="wikilink">TARO SOUL</a></li>
 <li>ふりむかないで feat.Hiromi</li>
@@ -261,7 +261,7 @@ UMCK-1391:通常盤</p></td>
 <li>May J. / Step by step feat. WISE</li>
 <li><a href="https://ja.wikipedia.org/wiki/LIL" title="wikilink">LIL</a> / Watching you feat. WISE</li>
 <li><a href="https://ja.wikipedia.org/wiki/IMALU" title="wikilink">IMALU</a> feat. WISE / How You Like Me Now? (from <a href="https://ja.wikipedia.org/wiki/m-flo" title="wikilink">m-flo</a> TRIBUTE 〜stitch the future and past〜）</li>
-<li><a href="https://ja.wikipedia.org/wiki/久保田利伸" title="wikilink">久保田利伸</a> / Keep it Rock (feat.WISE, Tarantula from <a href="../Page/Spontania.md" title="wikilink">Spontania</a>)</li>
+<li><a href="../Page/久保田利伸.md" title="wikilink">久保田利伸</a> / Keep it Rock (feat.WISE, Tarantula from <a href="../Page/Spontania.md" title="wikilink">Spontania</a>)</li>
 <li>Def Tech / Off The Edge feat. WISE</li>
 <li>SONPUB / THE MAGIC feat. WISE &amp; <a href="../Page/L-VOKAL.md" title="wikilink">L-VOKAL</a></li>
 <li><a href="../Page/MAY&#39;S.md" title="wikilink">MAY'S</a> / HERO☆HERO feat. WISE</li>
@@ -452,7 +452,7 @@ UMCK-1391:通常盤</p></td>
       - Mirror feat.Salyu（Mirrorの初回限定版に収録）
       - ふりむかないで feat.Hiromi
       - 会えなくても feat. 西野カナ
-      - Into the sky feat.[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")
+      - Into the sky feat.[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")
 
 ## ラジオ
 
@@ -468,7 +468,7 @@ UMCK-1391:通常盤</p></td>
 
   - [m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")
   - [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")
-  - [RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")
+  - [RIP SLYME](../Page/RIP_SLYME.md "wikilink")
   - [NIGO](../Page/NIGO.md "wikilink")
   - [SONPUB](https://ja.wikipedia.org/wiki/SONPUB "wikilink")
 

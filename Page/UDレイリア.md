@@ -5,9 +5,9 @@
 
 [1966年](../Page/1966年.md "wikilink")に創立された。ライバルクラブは同地域圏に属する[SCベイラ・マル](https://ja.wikipedia.org/wiki/SCベイラ・マル "wikilink")、[ナヴァル・ダ・マイオ](https://ja.wikipedia.org/wiki/ナヴァル・ダ・マイオ "wikilink")、[アカデミカ・コインブラ](https://ja.wikipedia.org/wiki/アカデミカ・コインブラ "wikilink")。
 
-最大の成功は2002-03シーズンの[カップ戦決勝進出である](../Page/タッサ・デ・ポルトガル.md "wikilink")（[FCポルト](https://ja.wikipedia.org/wiki/FCポルト "wikilink")に0-1で敗退）。
+最大の成功は2002-03シーズンの[カップ戦決勝進出である](../Page/タッサ・デ・ポルトガル.md "wikilink")（[FCポルト](../Page/FCポルト.md "wikilink")に0-1で敗退）。
 
-2011-12シーズンには資金難を理由に本拠地を[エスタディオ・ムニシパル・デ・レイリア](https://ja.wikipedia.org/wiki/エスタディオ・ムニシパル・デ・レイリア "wikilink")から[ムニシパル・デ・マリーニャグランデ](https://ja.wikipedia.org/wiki/ムニシパル・デ・マリーニャグランデ "wikilink")に移転。さらに給料遅配が深刻化したため、[2012年](../Page/2012年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")付でこれを不満とした選手16人が退団。さらに翌日の試合直前に1人がチームの金を持ち逃げして行方をくらました結果、所属選手はわずか8人にまで減少した\[1\]。あと1人でも選手を欠くと試合成立が困難になる状況に陥り、[4月29日](../Page/4月29日.md "wikilink")の試合はその8名のみで臨んだ。[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")にリーグからの脱退を発表したが、その後脱退を撤回し、ユースから選手を引き上げて[SLベンフィカ](https://ja.wikipedia.org/wiki/SLベンフィカ "wikilink")との試合に臨んだ。
+2011-12シーズンには資金難を理由に本拠地を[エスタディオ・ムニシパル・デ・レイリア](https://ja.wikipedia.org/wiki/エスタディオ・ムニシパル・デ・レイリア "wikilink")から[ムニシパル・デ・マリーニャグランデ](https://ja.wikipedia.org/wiki/ムニシパル・デ・マリーニャグランデ "wikilink")に移転。さらに給料遅配が深刻化したため、[2012年](../Page/2012年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")付でこれを不満とした選手16人が退団。さらに翌日の試合直前に1人がチームの金を持ち逃げして行方をくらました結果、所属選手はわずか8人にまで減少した\[1\]。あと1人でも選手を欠くと試合成立が困難になる状況に陥り、[4月29日](../Page/4月29日.md "wikilink")の試合はその8名のみで臨んだ。[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")にリーグからの脱退を発表したが、その後脱退を撤回し、ユースから選手を引き上げて[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")との試合に臨んだ。
 
 ## タイトル
 
@@ -74,7 +74,7 @@
 
   - [マヌエル・ジョゼ](https://ja.wikipedia.org/wiki/マヌエル・ジョゼ "wikilink") 1999-2000
 
-  - [ジョゼ・モウリーニョ](https://ja.wikipedia.org/wiki/ジョゼ・モウリーニョ "wikilink") 2001.4-2002.1
+  - [ジョゼ・モウリーニョ](../Page/ジョゼ・モウリーニョ.md "wikilink") 2001.4-2002.1
 
   - [ジョルジェ・ジェズス](https://ja.wikipedia.org/wiki/ジョルジェ・ジェズス "wikilink") 2005-2006
 
@@ -104,11 +104,11 @@
 
   - [カイコ](../Page/アイルトン・グラシリアーノ・ドス・サントス.md "wikilink") 2003-2005
 
-  - [アリソン](https://ja.wikipedia.org/wiki/アリソン・ダ・シルバ・ネリ "wikilink") 2005-2007, 2008
+  - [アリソン](../Page/アリソン・ダ・シルバ・ネリ.md "wikilink") 2005-2007, 2008
 
   - [ブルーノ・ヴァーレ](../Page/ブルーノ・ヴァーレ.md "wikilink") 2006-2007
 
-  - [エリエジオ・サントス・サンタナ](https://ja.wikipedia.org/wiki/エリエジオ・サントス・サンタナ "wikilink") 2007
+  - [エリエジオ・サントス・サンタナ](../Page/エリエジオ・サントス・サンタナ.md "wikilink") 2007
 
   - [カルロン](https://ja.wikipedia.org/wiki/カルロス・アレシャンドレ・デ・ソウザ・シウヴァ "wikilink") 2009-2010
 

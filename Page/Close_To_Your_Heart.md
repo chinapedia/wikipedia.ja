@@ -24,8 +24,8 @@
 
 ## 収録アルバム
 
-  - [Be Happy](https://ja.wikipedia.org/wiki/Be_Happy "wikilink")（\#1）
-  - [Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(愛内里菜のアルバム\) "wikilink")（\#1）
+  - [Be Happy](../Page/Be_Happy.md "wikilink")（\#1）
+  - [Single Collection](../Page/Single_Collection_\(愛内里菜のアルバム\).md "wikilink")（\#1）
   - [ALL SINGLES BEST 〜THANX 10th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
   - [COLORS](https://ja.wikipedia.org/wiki/COLORS_\(愛内里菜のアルバム\) "wikilink")（\#2）
 

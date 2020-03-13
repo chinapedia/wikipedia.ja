@@ -5,7 +5,7 @@
 
 ## 解説
 
-[花王](../Page/花王.md "wikilink")[ソフィーナ](https://ja.wikipedia.org/wiki/ソフィーナ "wikilink")「[AUBE](../Page/AUBE_\(化粧品\).md "wikilink")」CM曲として、オンエアされていたが、CMバージョンとシングルバージョンでは曲調・歌詞とも大きく異なり、エピック[トランスの曲調として発売された](../Page/トランス_\(音楽\).md "wikilink")。
+[花王](../Page/花王.md "wikilink")[ソフィーナ](../Page/ソフィーナ.md "wikilink")「[AUBE](../Page/AUBE_\(化粧品\).md "wikilink")」CM曲として、オンエアされていたが、CMバージョンとシングルバージョンでは曲調・歌詞とも大きく異なり、エピック[トランスの曲調として発売された](../Page/トランス_\(音楽\).md "wikilink")。
 
 イントロの「this try…」という声は[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")によるものではなく、[DTMソフト](../Page/デスクトップミュージック.md "wikilink")[ACID](../Page/ACID_\(DTMソフト\).md "wikilink") の「try this loop」というプリセットである。
 
@@ -13,7 +13,7 @@
 
 1.  **try this shoot (Original mix)**
       -
-        作詞：[KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink")、作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、Rap words：[MARC](../Page/マーク・パンサー.md "wikilink")
+        作詞：[KEIKO](../Page/KEIKO.md "wikilink")、作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、Rap words：[MARC](../Page/マーク・パンサー.md "wikilink")
         花王ソフィーナ「AUBE」CM曲
 2.  **try this shoot (TK Remix)**
 3.  **try this shoot (TV-Mix)**

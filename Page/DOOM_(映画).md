@@ -1,9 +1,9 @@
 > この記事は[DOOM \(\)](https://ja.wikipedia.org/wiki/DOOM_\(\))から翻訳されています。
 
 
-『**DOOM**』（ドゥーム、*Doom*）は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")の『[Doom 3](https://ja.wikipedia.org/wiki/Doom_3 "wikilink")』を原作としている。主演は[ザ・ロック](https://ja.wikipedia.org/wiki/ザ・ロック_\(プロレスラー\) "wikilink")、[カール・アーバン](https://ja.wikipedia.org/wiki/カール・アーバン "wikilink")。
+『**DOOM**』（ドゥーム、*Doom*）は[2005年](../Page/2005年.md "wikilink")の[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")の『[Doom 3](https://ja.wikipedia.org/wiki/Doom_3 "wikilink")』を原作としている。主演は[ザ・ロック](https://ja.wikipedia.org/wiki/ザ・ロック_\(プロレスラー\) "wikilink")、[カール・アーバン](../Page/カール・アーバン.md "wikilink")。
 
-[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2005年[10月21日](../Page/10月21日.md "wikilink")に公開され、週末[興行成績](https://ja.wikipedia.org/wiki/興行成績 "wikilink")で初登場1位になった。日本では[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[銀座シネパトスほかで公開された](../Page/ヒューマックスシネマ.md "wikilink")。
+[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")2005年[10月21日](../Page/10月21日.md "wikilink")に公開され、週末[興行成績](https://ja.wikipedia.org/wiki/興行成績 "wikilink")で初登場1位になった。日本では[2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[銀座シネパトスほかで公開された](../Page/ヒューマックスシネマ.md "wikilink")。
 
 ## あらすじ
 
@@ -15,20 +15,20 @@
 
 ## キャスト
 
-| 役名             | 俳優                                                                    | 日本語吹替                                                   |
-| -------------- | --------------------------------------------------------------------- | ------------------------------------------------------- |
-| サージ（軍曹）        | [ザ・ロック](../Page/ドウェイン・ジョンソン.md "wikilink")                            | [石塚運昇](../Page/石塚運昇.md "wikilink")                      |
-| ジョン・グリム（リーパー）  | [カール・アーバン](https://ja.wikipedia.org/wiki/カール・アーバン "wikilink")         | [堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")   |
-| サマンサ・グリム博士（サム） | [ロザムンド・パイク](../Page/ロザムンド・パイク.md "wikilink")                          | [佐々木優子](https://ja.wikipedia.org/wiki/佐々木優子 "wikilink") |
-| ディーン・ポートマン伍長   | [リチャード・ブレイク](https://ja.wikipedia.org/wiki/リチャード・ブレイク "wikilink")     | [牛山茂](https://ja.wikipedia.org/wiki/牛山茂 "wikilink")     |
-| デューク           | [ラズ・アドティ](https://ja.wikipedia.org/wiki/ラズ・アドティ "wikilink")           | [天田益男](https://ja.wikipedia.org/wiki/天田益男 "wikilink")   |
-| デストロイヤー        | [デオピア・オパレイ](https://ja.wikipedia.org/wiki/デオピア・オパレイ "wikilink")       |                                                         |
-| ゴート            | [ベン・ダニエルズ](https://ja.wikipedia.org/wiki/ベン・ダニエルズ "wikilink")         | [宮内敦士](../Page/宮内敦士.md "wikilink")                      |
-| マック            | [ヤオ・チン](https://ja.wikipedia.org/wiki/ヤオ・チン "wikilink")               |                                                         |
-| キッド            | [アル・ウィーバー](https://ja.wikipedia.org/wiki/アル・ウィーバー "wikilink")         | [杉山大](../Page/杉山大.md "wikilink")                        |
-| ピンザロスキー（ピンキー）  | [デクスター・フレッチャー](https://ja.wikipedia.org/wiki/デクスター・フレッチャー "wikilink") | [鳥海勝美](https://ja.wikipedia.org/wiki/鳥海勝美 "wikilink")   |
-| カーマック博士        | [ロバート・ラッセル](https://ja.wikipedia.org/wiki/ロバート・ラッセル "wikilink")       | [中博史](https://ja.wikipedia.org/wiki/中博史 "wikilink")     |
-|                |                                                                       |                                                         |
+| 役名             | 俳優                                                                | 日本語吹替                                |
+| -------------- | ----------------------------------------------------------------- | ------------------------------------ |
+| サージ（軍曹）        | [ザ・ロック](../Page/ドウェイン・ジョンソン.md "wikilink")                        | [石塚運昇](../Page/石塚運昇.md "wikilink")   |
+| ジョン・グリム（リーパー）  | [カール・アーバン](../Page/カール・アーバン.md "wikilink")                        | [堀内賢雄](../Page/堀内賢雄.md "wikilink")   |
+| サマンサ・グリム博士（サム） | [ロザムンド・パイク](../Page/ロザムンド・パイク.md "wikilink")                      | [佐々木優子](../Page/佐々木優子.md "wikilink") |
+| ディーン・ポートマン伍長   | [リチャード・ブレイク](https://ja.wikipedia.org/wiki/リチャード・ブレイク "wikilink") | [牛山茂](../Page/牛山茂.md "wikilink")     |
+| デューク           | [ラズ・アドティ](https://ja.wikipedia.org/wiki/ラズ・アドティ "wikilink")       | [天田益男](../Page/天田益男.md "wikilink")   |
+| デストロイヤー        | [デオピア・オパレイ](https://ja.wikipedia.org/wiki/デオピア・オパレイ "wikilink")   |                                      |
+| ゴート            | [ベン・ダニエルズ](https://ja.wikipedia.org/wiki/ベン・ダニエルズ "wikilink")     | [宮内敦士](../Page/宮内敦士.md "wikilink")   |
+| マック            | [ヤオ・チン](https://ja.wikipedia.org/wiki/ヤオ・チン "wikilink")           |                                      |
+| キッド            | [アル・ウィーバー](https://ja.wikipedia.org/wiki/アル・ウィーバー "wikilink")     | [杉山大](../Page/杉山大.md "wikilink")     |
+| ピンザロスキー（ピンキー）  | [デクスター・フレッチャー](../Page/デクスター・フレッチャー.md "wikilink")                | [鳥海勝美](../Page/鳥海勝美.md "wikilink")   |
+| カーマック博士        | [ロバート・ラッセル](https://ja.wikipedia.org/wiki/ロバート・ラッセル "wikilink")   | [中博史](../Page/中博史.md "wikilink")     |
+|                |                                                                   |                                      |
 
 ## スタッフ
 

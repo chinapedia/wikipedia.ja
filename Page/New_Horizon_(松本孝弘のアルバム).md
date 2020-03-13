@@ -7,7 +7,7 @@
 
 ## 概要
 
-[ベスト的な内容の作品だった前作](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[Strings Of My Soul](https://ja.wikipedia.org/wiki/Strings_Of_My_Soul "wikilink")』以来、約2年ぶりのリリースとなるアルバム。しかしながら近年の松本の作品が、過去の自身の楽曲が中心の作品（『[House Of Strings](../Page/House_Of_Strings.md "wikilink")』『Strings Of My Soul』）、他アーティストとのコラボレーション作品（『[TAKE YOUR PICK](https://ja.wikipedia.org/wiki/TAKE_YOUR_PICK "wikilink")』）、[カバー曲](https://ja.wikipedia.org/wiki/カバー曲 "wikilink")がメインの作品（『[THE HIT PARADE](../Page/THE_HIT_PARADE_\(松本孝弘のアルバム\).md "wikilink")』『[Theatre Of Strings](https://ja.wikipedia.org/wiki/Theatre_Of_Strings "wikilink")』）が続いていたことを考えると、松本単独での新作を網羅したアルバムは2002年に同時リリースしたアルバム『[西辺来龍 DRAGON FROM THE WEST](../Page/西辺来龍_DRAGON_FROM_THE_WEST.md "wikilink")』『[華](../Page/華_\(松本孝弘のアルバム\).md "wikilink")』以来、約12年ぶりとなる。
+[ベスト的な内容の作品だった前作](../Page/ベスト・アルバム.md "wikilink")『[Strings Of My Soul](https://ja.wikipedia.org/wiki/Strings_Of_My_Soul "wikilink")』以来、約2年ぶりのリリースとなるアルバム。しかしながら近年の松本の作品が、過去の自身の楽曲が中心の作品（『[House Of Strings](../Page/House_Of_Strings.md "wikilink")』『Strings Of My Soul』）、他アーティストとのコラボレーション作品（『[TAKE YOUR PICK](https://ja.wikipedia.org/wiki/TAKE_YOUR_PICK "wikilink")』）、[カバー曲](https://ja.wikipedia.org/wiki/カバー曲 "wikilink")がメインの作品（『[THE HIT PARADE](../Page/THE_HIT_PARADE_\(松本孝弘のアルバム\).md "wikilink")』『[Theatre Of Strings](../Page/Theatre_Of_Strings.md "wikilink")』）が続いていたことを考えると、松本単独での新作を網羅したアルバムは2002年に同時リリースしたアルバム『[西辺来龍 DRAGON FROM THE WEST](../Page/西辺来龍_DRAGON_FROM_THE_WEST.md "wikilink")』『[華](../Page/華_\(松本孝弘のアルバム\).md "wikilink")』以来、約12年ぶりとなる。
 
 本作では、リリース発表前から[CMソングとして流されていたアルバムタイトル曲](../Page/コマーシャルメッセージ.md "wikilink")「New Horizon」や、2013年に敢行されたB'zのライブツアーで先行披露された「Rain」、2003年放送のアニメ主題歌として制作された楽曲のリアレンジバージョンである「BLACK JACK」等を収録。また、ジャズの名曲の再カバーや、[昭和](../Page/昭和.md "wikilink")[フォークソング](../Page/フォークソング.md "wikilink")の[カバー](../Page/カバー.md "wikilink")などにも挑戦している。
 
@@ -23,7 +23,7 @@
 
 ## 記録
 
-2014年5月12日付[オリコンウィークリーチャートでは初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位\[2\]。TOP3入りしたのは、[ラリー・カールトン](https://ja.wikipedia.org/wiki/ラリー・カールトン "wikilink")との共作アルバム『TAKE YOUR PICK』（2位）以来、3年11ヶ月ぶり。単独名義のインストゥルメンタルアルバムでは、『[Wanna Go Home](../Page/Wanna_Go_Home.md "wikilink")』（3位）以来、約22年ぶりとなる。
+2014年5月12日付[オリコンウィークリーチャートでは初登場](../Page/オリコンチャート.md "wikilink")3位\[2\]。TOP3入りしたのは、[ラリー・カールトン](../Page/ラリー・カールトン.md "wikilink")との共作アルバム『TAKE YOUR PICK』（2位）以来、3年11ヶ月ぶり。単独名義のインストゥルメンタルアルバムでは、『[Wanna Go Home](../Page/Wanna_Go_Home.md "wikilink")』（3位）以来、約22年ぶりとなる。
 
 ## 収録曲（日本国内盤）
 
@@ -52,7 +52,7 @@
         [マイナーコード](https://ja.wikipedia.org/wiki/マイナーコード "wikilink")を基盤とした楽曲。制作経緯は珍しいもので、最初は松本が「Shattered Glass」という言葉の響きを気に入り、タイトルに使用したいと思ったことがきっかけ。その後、「Shattered Glass」をテーマにした英語のストーリーを松本が制作し、そのストーリーをイメージして制作された。松本が制作のストーリーは、本作付属のブックレットに掲載されている。
 8.  **月のあかり**(5:25)
       -
-        [桑名正博](https://ja.wikipedia.org/wiki/桑名正博 "wikilink")が1978年にリリースしたアルバム『テキーラ・ムーン』収録の、桑名の代表曲「月のあかり」のカバー。原曲はボーカルのある楽曲であるが、今回はギターによるインストゥルメンタルでのカバーとなる。
+        [桑名正博](../Page/桑名正博.md "wikilink")が1978年にリリースしたアルバム『テキーラ・ムーン』収録の、桑名の代表曲「月のあかり」のカバー。原曲はボーカルのある楽曲であるが、今回はギターによるインストゥルメンタルでのカバーとなる。
         元々松本は22〜23歳の頃、桑名のライブやレコーディングのサポートメンバーとして参加していたことがあり、桑名には世話になっていた。2012年に桑名が他界して、松本はすぐに「月のあかり」を録音したという。
 9.  **Reason to be...**(4:00)
       -
@@ -64,11 +64,11 @@
 11. **学生街の喫茶店**(3:58)
       -
         [ガロが](../Page/ガロ_\(フォークグループ\).md "wikilink")1972年にリリースした「[学生街の喫茶店](../Page/学生街の喫茶店.md "wikilink")」のカバー。原曲はボーカルのある楽曲であるが、今回はギターによるインストゥルメンタルでのカバーとなる。松本は選曲の理由を「メロディがちょっと怪しくてインストゥルメンタルにすると面白くなりそうと思った」と語っている。
-        日本の過去の名曲のカバーとして、「[天城越え](https://ja.wikipedia.org/wiki/天城越え_\(曲\) "wikilink")」も案として挙がっていたらしいが、[The NAMM Show 2014で](https://ja.wikipedia.org/wiki/楽器ショー#NAMM_ショー "wikilink")[マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink")がカバーしているのを見て断念したという。
+        日本の過去の名曲のカバーとして、「[天城越え](../Page/天城越え_\(曲\).md "wikilink")」も案として挙がっていたらしいが、[The NAMM Show 2014で](https://ja.wikipedia.org/wiki/楽器ショー#NAMM_ショー "wikilink")[マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink")がカバーしているのを見て断念したという。
 12. **Rain**(5:38)
       -
         2013年のB'zのライブツアー「[B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST- "wikilink")」で先行披露された楽曲。
-        楽曲には[効果音](https://ja.wikipedia.org/wiki/効果音 "wikilink")として、雨音が使用されている。これは、楽曲完成後に松本が「何か場面を空想させるようなSEがあるといい」と考えた際に、「やっぱり雨かな」と思い追加した。そのSEから、楽曲タイトルが「Rain」に決定された。
+        楽曲には[効果音](../Page/効果音.md "wikilink")として、雨音が使用されている。これは、楽曲完成後に松本が「何か場面を空想させるようなSEがあるといい」と考えた際に、「やっぱり雨かな」と思い追加した。そのSEから、楽曲タイトルが「Rain」に決定された。
 
 ## 収録曲（米国盤）
 
@@ -92,16 +92,16 @@
 
 ## タイアップ
 
-  - [佐川急便](../Page/佐川急便.md "wikilink")「プロのための、プロがいる。」篇、「緊急納品」篇、「海外・国内一貫物流」篇[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")(\#1)
+  - [佐川急便](../Page/佐川急便.md "wikilink")「プロのための、プロがいる。」篇、「緊急納品」篇、「海外・国内一貫物流」篇[CMソング](../Page/コマーシャルソング.md "wikilink")(\#1)
 
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")(\#1.3-7.9.10.12)、全曲[編曲](../Page/編曲.md "wikilink")
   - [寺地秀行](https://ja.wikipedia.org/wiki/寺地秀行 "wikilink")：全曲編曲
   - [ポール・ブラウン](https://ja.wikipedia.org/wiki/ポール・ブラウン "wikilink")：編曲(\#3)
-  - DAX REYNOSA：[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")(\#3)
+  - DAX REYNOSA：[作詞](../Page/作詞.md "wikilink")(\#3)
   - [下田逸郎](../Page/下田逸郎.md "wikilink")：作詞(\#8)
-  - [桑名正博](https://ja.wikipedia.org/wiki/桑名正博 "wikilink")：作曲(\#8)
+  - [桑名正博](../Page/桑名正博.md "wikilink")：作曲(\#8)
   - [山上路夫](../Page/山上路夫.md "wikilink")：作詞(\#11)
   - [ポール・デスモンド](../Page/ポール・デスモンド.md "wikilink")：作曲(\#2)
   - [すぎやまこういち](https://ja.wikipedia.org/wiki/すぎやまこういち "wikilink")：作曲(\#11)

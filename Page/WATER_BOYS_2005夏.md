@@ -3,11 +3,11 @@
 
 『**WATER BOYS 2005夏**』は、映画『[ウォーターボーイズ](../Page/ウォーターボーイズ.md "wikilink")』及びドラマ『[WATER BOYS](../Page/WATER_BOYS.md "wikilink")』を元に制作された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月19](../Page/8月19日.md "wikilink")・[20日の二夜連続で](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、21:00～22:52に[フジテレビ系にてスペシャル版として放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。19日は[金曜エンタテイメント](../Page/金曜エンタテイメント.md "wikilink")、20日は[プレミアムステージ](https://ja.wikipedia.org/wiki/プレミアムステージ "wikilink")枠で放送\[1\]。
+[2005年](../Page/2005年.md "wikilink")[8月19](../Page/8月19日.md "wikilink")・[20日の二夜連続で](https://ja.wikipedia.org/wiki/8月20日 "wikilink")、21:00～22:52に[フジテレビ系にてスペシャル版として放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。19日は[金曜エンタテイメント](../Page/金曜エンタテイメント.md "wikilink")、20日は[プレミアムステージ](https://ja.wikipedia.org/wiki/プレミアムステージ "wikilink")枠で放送\[1\]。
 
 ## ストーリー
 
-舞台は、架空の島・富那島（[奄美大島](../Page/奄美大島.md "wikilink")・[加計呂麻島](https://ja.wikipedia.org/wiki/加計呂麻島 "wikilink")・[喜界島](../Page/喜界島.md "wikilink")）。[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の学生になった元・唯野高校[シンクロ部員の](https://ja.wikipedia.org/wiki/アーティスティックスイミング "wikilink")**田中昌俊**（[瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")）が、農業実習のために訪れた富那島で、**上原賢作**（[小出恵介](../Page/小出恵介.md "wikilink")）らと出会い、島の夏祭りイベントである「シンクロ公演」を一緒に築きあげていく。
+舞台は、架空の島・富那島（[奄美大島](../Page/奄美大島.md "wikilink")・[加計呂麻島](../Page/加計呂麻島.md "wikilink")・[喜界島](../Page/喜界島.md "wikilink")）。[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の学生になった元・唯野高校[シンクロ部員の](https://ja.wikipedia.org/wiki/アーティスティックスイミング "wikilink")**田中昌俊**（[瑛太](https://ja.wikipedia.org/wiki/瑛太 "wikilink")）が、農業実習のために訪れた富那島で、**上原賢作**（[小出恵介](../Page/小出恵介.md "wikilink")）らと出会い、島の夏祭りイベントである「シンクロ公演」を一緒に築きあげていく。
 
 テレビドラマ『[WATER BOYS](../Page/WATER_BOYS.md "wikilink")』のレギュラー・田中を主役に据えた続編で、シリーズ完結編にあたる。
 
@@ -20,8 +20,8 @@
     留年を回避するため教授の命により、南の島に養豚場の手伝いに行くことになる。そこで、島の開発運動に巻き込まれ、島の活性化のために、高校生たちにシンクロを教えることになるが…。
   - 上原賢作（演：[小出恵介](../Page/小出恵介.md "wikilink")）
     シンクロ公演の中心メンバーの一人。東京に出て服飾デザイナーになるのが夢であるが、プロから酷評されて落ち込む。
-  - 名嘉尾悟（演：[平岡祐太](https://ja.wikipedia.org/wiki/平岡祐太 "wikilink")）
-    シンクロ公演の中心メンバーの一人。平岡は同監督の作品『[スウィングガールズ](https://ja.wikipedia.org/wiki/スウィングガールズ "wikilink")』にも出演。
+  - 名嘉尾悟（演：[平岡祐太](../Page/平岡祐太.md "wikilink")）
+    シンクロ公演の中心メンバーの一人。平岡は同監督の作品『[スウィングガールズ](../Page/スウィングガールズ.md "wikilink")』にも出演。
   - 小間俊一郎（演：[柄本佑](../Page/柄本佑.md "wikilink")）
     シンクロ公演の中心メンバーの一人。鰤谷ミチルに付きまとわれている内に、彼女と付き合うことが自分の人生だと思うようになり交際を始める。
 
@@ -32,7 +32,7 @@
 <!-- end list -->
 
   - 鰤谷波男：[ペ・ジョンミョン](https://ja.wikipedia.org/wiki/裴ジョンミョン "wikilink")
-  - 安仁屋：[佐野泰臣](https://ja.wikipedia.org/wiki/佐野泰臣 "wikilink")
+  - 安仁屋：[佐野泰臣](../Page/佐野泰臣.md "wikilink")
   - 知念：[藤井貴規](../Page/藤井貴規.md "wikilink")
   - 大城：[川岸銀次](../Page/川岸銀次.md "wikilink")
   - 石嶺：[杉浦由悟](https://ja.wikipedia.org/wiki/杉浦由悟 "wikilink")
@@ -50,7 +50,7 @@
   - 海人：[高良健吾](../Page/高良健吾.md "wikilink")
   - 譲治：[菅雄太](https://ja.wikipedia.org/wiki/菅雄太 "wikilink")
   - 英雄：[岡田雄樹](https://ja.wikipedia.org/wiki/岡田雄樹 "wikilink")
-  - 文男：[竹内友哉](https://ja.wikipedia.org/wiki/竹内友哉 "wikilink")
+  - 文男：[竹内友哉](../Page/竹内友哉.md "wikilink")
   - 秀吉：[野久保直樹](../Page/野久保直樹.md "wikilink")
 
 ### ヒロイン
@@ -64,41 +64,41 @@
 
 ### 大人たち
 
-  - 小間俊道（演：[宇梶剛士](https://ja.wikipedia.org/wiki/宇梶剛士 "wikilink")）
+  - 小間俊道（演：[宇梶剛士](../Page/宇梶剛士.md "wikilink")）
     漁師で、俊一郎の父。開発運動の反対派。
-  - 名嘉尾大悟（演：[松重豊](https://ja.wikipedia.org/wiki/松重豊 "wikilink")）
+  - 名嘉尾大悟（演：[松重豊](../Page/松重豊.md "wikilink")）
     悟の父で、酒屋を経営。開発運動の推進派であり、ウォーターボーイズ達の活動を妨害してくる。
-  - 上原耕作（演：[益岡徹](https://ja.wikipedia.org/wiki/益岡徹 "wikilink")）
+  - 上原耕作（演：[益岡徹](../Page/益岡徹.md "wikilink")）
     今日子と賢作の父で、養豚場を経営する、本土からの出戻り。よく東大農学部の学生を、バイトとして使っているらしい。
-  - 垣原ハル（演：[渡辺美佐子](https://ja.wikipedia.org/wiki/渡辺美佐子 "wikilink")）
+  - 垣原ハル（演：[渡辺美佐子](../Page/渡辺美佐子.md "wikilink")）
     通称「ハルばぁ」。玲奈の祖母で、みなの集会の場である喫茶店を営んでいる。高血圧で身体が悪く、よく倒れる。
   - 冨那島村長（演：[久保晶](../Page/久保晶.md "wikilink")）
     開発運動には反対寄りの立場で、夏祭りをしようと提案する。村議会に対しては、なかなか強気になれない、頼りない村長である。
   - 冨那高校校長（演：[森喜行](https://ja.wikipedia.org/wiki/森喜行 "wikilink")）
     堀田善次郎（演：[南雲勇助](https://ja.wikipedia.org/wiki/南雲勇助 "wikilink")）
     「南武交通」の社長。大悟と共に島の観光開発を企む。
-  - 羽鳥学（演：[東根作寿英](https://ja.wikipedia.org/wiki/東根作寿英 "wikilink")）
+  - 羽鳥学（演：[東根作寿英](../Page/東根作寿英.md "wikilink")）
     今日子が東京で勤務していた、病院の院長。
 
 ### 第一期シリーズからの登場人物
 
   - 花村響子（演：[香椎由宇](https://ja.wikipedia.org/wiki/香椎由宇 "wikilink")）
     田中のシンクロ告白から一ヶ月で、親の都合により海外転居していた。2年間、田中とは手紙のみの付き合いで、自然消滅したと思っている。2年ぶりに田中と再会するが、田中の迷いにアドバイスする。
-  - 石塚太（演：[石井智也](https://ja.wikipedia.org/wiki/石井智也 "wikilink")）
+  - 石塚太（演：[石井智也](../Page/石井智也.md "wikilink")）
     唯野高校シンクロメンバーの中心メンバーの一人。女好きで、お調子者の肥満体。高校卒業後、農協に就職した。卒業後も更に太ったらしい。
-  - 安田孝（演：[田中圭](https://ja.wikipedia.org/wiki/田中圭 "wikilink")）
+  - 安田孝（演：[田中圭](../Page/田中圭.md "wikilink")）
     唯野高校シンクロメンバーのOB。第一期テレビシリーズで、勘九郎の親友だった。
   - 佐久間恵（演：[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")）
-    島にシンクロを教えるために来たが、またしても妊娠により入院する。結局は、妊娠ではなく[盲腸](https://ja.wikipedia.org/wiki/盲腸 "wikilink")である事がわかる。
+    島にシンクロを教えるために来たが、またしても妊娠により入院する。結局は、妊娠ではなく[盲腸](../Page/盲腸.md "wikilink")である事がわかる。
 
 ## スタッフ
 
   - 脚本：[橋本裕志](../Page/橋本裕志.md "wikilink")
-  - 企画：[金井卓也](https://ja.wikipedia.org/wiki/金井卓也 "wikilink")、[関口大輔](https://ja.wikipedia.org/wiki/関口大輔 "wikilink")（フジテレビ映画制作部プロデューサー）
-  - プロデューサー：[船津浩一](https://ja.wikipedia.org/wiki/船津浩一 "wikilink")、[森安彩](https://ja.wikipedia.org/wiki/森安彩 "wikilink")（[共同テレビ](../Page/共同テレビジョン.md "wikilink")、ドラマ版1AD）
+  - 企画：[金井卓也](https://ja.wikipedia.org/wiki/金井卓也 "wikilink")、[関口大輔](../Page/関口大輔.md "wikilink")（フジテレビ映画制作部プロデューサー）
+  - プロデューサー：[船津浩一](../Page/船津浩一.md "wikilink")、[森安彩](https://ja.wikipedia.org/wiki/森安彩 "wikilink")（[共同テレビ](../Page/共同テレビジョン.md "wikilink")、ドラマ版1AD）
   - 演出：[佐藤祐市](../Page/佐藤祐市.md "wikilink")
-  - 音楽：[佐藤直紀](https://ja.wikipedia.org/wiki/佐藤直紀 "wikilink")
-  - シンクロ水泳指導：[不破央](https://ja.wikipedia.org/wiki/不破央 "wikilink")（シンクロ選手権係員）
+  - 音楽：[佐藤直紀](../Page/佐藤直紀.md "wikilink")
+  - シンクロ水泳指導：[不破央](../Page/不破央.md "wikilink")（シンクロ選手権係員）
   - ダンス振付：[ラッキィ池田](../Page/ラッキィ池田.md "wikilink")
   - スケジュール：[吉田使憲](https://ja.wikipedia.org/wiki/吉田使憲 "wikilink")
   - 広報：[清野真紀](https://ja.wikipedia.org/wiki/清野真紀 "wikilink")
@@ -112,24 +112,24 @@
 
 ## シンクロで使用された曲
 
-  - [キイハンター](https://ja.wikipedia.org/wiki/キイハンター "wikilink")（[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")）
+  - [キイハンター](../Page/キイハンター.md "wikilink")（[菊池俊輔](../Page/菊池俊輔.md "wikilink")）
   - [We Built This City](https://ja.wikipedia.org/wiki/We_Built_This_City "wikilink")（[スターシップ](../Page/ジェファーソン・エアプレイン.md "wikilink")）
-  - [ザナドゥ](https://ja.wikipedia.org/wiki/ザナドゥ "wikilink")（[オリヴィア・ニュートン＝ジョン](https://ja.wikipedia.org/wiki/オリヴィア・ニュートン＝ジョン "wikilink")）
+  - [ザナドゥ](../Page/ザナドゥ.md "wikilink")（[オリヴィア・ニュートン＝ジョン](https://ja.wikipedia.org/wiki/オリヴィア・ニュートン＝ジョン "wikilink")）
   - [ね～え?](https://ja.wikipedia.org/wiki/ね～え? "wikilink")（[松浦亜弥](../Page/松浦亜弥.md "wikilink")）
   - [古い日記](https://ja.wikipedia.org/wiki/古い日記 "wikilink")（[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")）
-  - [ゴー・ウエスト](https://ja.wikipedia.org/wiki/Go_West_\(曲\) "wikilink")（[ペット・ショップ・ボーイズ](https://ja.wikipedia.org/wiki/ペット・ショップ・ボーイズ "wikilink")）
+  - [ゴー・ウエスト](https://ja.wikipedia.org/wiki/Go_West_\(曲\) "wikilink")（[ペット・ショップ・ボーイズ](../Page/ペット・ショップ・ボーイズ.md "wikilink")）
 
 ## 主なロケ地
 
 **[鹿児島県](../Page/鹿児島県.md "wikilink")**
 
-  - [大島郡](../Page/大島郡_\(鹿児島県\).md "wikilink")[瀬戸内町](https://ja.wikipedia.org/wiki/瀬戸内町 "wikilink")
-  - 大島郡[喜界町](https://ja.wikipedia.org/wiki/喜界町 "wikilink")
-  - 大島郡[龍郷町](https://ja.wikipedia.org/wiki/龍郷町 "wikilink")
+  - [大島郡](../Page/大島郡_\(鹿児島県\).md "wikilink")[瀬戸内町](../Page/瀬戸内町.md "wikilink")
+  - 大島郡[喜界町](../Page/喜界町.md "wikilink")
+  - 大島郡[龍郷町](../Page/龍郷町.md "wikilink")
   - [名瀬市](../Page/名瀬市.md "wikilink")（現・[奄美市](../Page/奄美市.md "wikilink")）
       - 発表会で使用されたプールは、奄美市名瀬運動公園内にある屋外プールである。\[2\]
 
-**[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")**
+**[東京都](../Page/東京都.md "wikilink")**
 
   - [大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")
   - [港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")
@@ -139,14 +139,14 @@
 **[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")**
 
   - [宇都宮市](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")
-  - [河内郡](../Page/河内郡.md "wikilink")[河内町](https://ja.wikipedia.org/wiki/河内町_\(栃木県\) "wikilink")（現・宇都宮市）
+  - [河内郡](../Page/河内郡.md "wikilink")[河内町](../Page/河内町_\(栃木県\).md "wikilink")（現・宇都宮市）
 
 ## 関連項目
 
   - [ウォーターボーイズ](../Page/ウォーターボーイズ.md "wikilink")
   - [WATER BOYS](../Page/WATER_BOYS.md "wikilink")
   - [WATER BOYS2](../Page/WATER_BOYS2.md "wikilink")
-  - [がんばっていきまっしょい](https://ja.wikipedia.org/wiki/がんばっていきまっしょい "wikilink")（同じプロデューサーチームの作品）
+  - [がんばっていきまっしょい](../Page/がんばっていきまっしょい.md "wikilink")（同じプロデューサーチームの作品）
 
 ## 脚注
 

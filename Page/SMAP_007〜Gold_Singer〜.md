@@ -1,51 +1,51 @@
 > この記事は[SMAP 007Gold Singer](https://ja.wikipedia.org/wiki/SMAP_007Gold_Singer)から翻訳されています。
 
 
-『**SMAP 007 〜Gold Singer**』（スマップ ゼロゼロセブン ゴールドシンガー）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の7枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+『**SMAP 007 〜Gold Singer**』（スマップ ゼロゼロセブン ゴールドシンガー）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の7枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
 
 ## 解説
 
 [SMAP 006〜SEXY SIX〜から](https://ja.wikipedia.org/wiki/SMAP_006〜SEXY_SIX〜 "wikilink")1年後にリリースされた。アルバムタイトルは、「[007 ゴールドフィンガー](../Page/007_ゴールドフィンガー.md "wikilink")」にちなんだタイトルとなっており、アルバムの最後には「[ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")のテーマ」も収録されている。
 
-前作でも数曲で展開された海外ミュージシャンの参加が本格化し、ドラムスに[オマー・ハキム](https://ja.wikipedia.org/wiki/オマー・ハキム "wikilink")、ベースに[ウィル・リー](../Page/ウィル・リー.md "wikilink")など、[ポップス](../Page/ポピュラー音楽.md "wikilink")〜[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョンまで世界の第一線で活躍している超一流の演奏家が数多く起用された](../Page/フュージョン_\(音楽\).md "wikilink")。このアルバムでの[セッション](../Page/セッション.md "wikilink")はミュージシャン達にとっても刺激になり、そのサウンドはオマー・ハキムにより「[Smappies](../Page/Smappies.md "wikilink")」と称され、後にSmappies名義でのオリジナル・アルバムが2枚制作されるまでに至った。一方で歌唱に関しては今までと変わらず、後に[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")がインタビューで、「この演奏に収録されているボーカルについて罪を問われたら、自分達は[終身刑](../Page/終身刑.md "wikilink")もの」と語っている。また、本人達が[ニューヨーク](../Page/ニューヨーク.md "wikilink")での[レコーディング現場を初めて訪れた際にはミュージシャンに対する認知度が皆無であり](../Page/録音.md "wikilink")、[マイケル・ブレッカー](https://ja.wikipedia.org/wiki/マイケル・ブレッカー "wikilink")を「誰？あのハゲ」や「上手いじゃん」などと言い、スタッフに軽く叱責された。
+前作でも数曲で展開された海外ミュージシャンの参加が本格化し、ドラムスに[オマー・ハキム](../Page/オマー・ハキム.md "wikilink")、ベースに[ウィル・リー](../Page/ウィル・リー.md "wikilink")など、[ポップス](../Page/ポピュラー音楽.md "wikilink")〜[ジャズ](../Page/ジャズ.md "wikilink")・[フュージョンまで世界の第一線で活躍している超一流の演奏家が数多く起用された](../Page/フュージョン_\(音楽\).md "wikilink")。このアルバムでの[セッション](../Page/セッション.md "wikilink")はミュージシャン達にとっても刺激になり、そのサウンドはオマー・ハキムにより「[Smappies](../Page/Smappies.md "wikilink")」と称され、後にSmappies名義でのオリジナル・アルバムが2枚制作されるまでに至った。一方で歌唱に関しては今までと変わらず、後に[木村拓哉](../Page/木村拓哉.md "wikilink")がインタビューで、「この演奏に収録されているボーカルについて罪を問われたら、自分達は[終身刑](../Page/終身刑.md "wikilink")もの」と語っている。また、本人達が[ニューヨーク](../Page/ニューヨーク.md "wikilink")での[レコーディング現場を初めて訪れた際にはミュージシャンに対する認知度が皆無であり](../Page/録音.md "wikilink")、[マイケル・ブレッカー](../Page/マイケル・ブレッカー.md "wikilink")を「誰？あのハゲ」や「上手いじゃん」などと言い、スタッフに軽く叱責された。
 
 [ロッキング・オン](../Page/ロッキング・オン.md "wikilink")発行の雑誌「H」に[稲垣吾郎](../Page/稲垣吾郎.md "wikilink")が取材を受けた際に「至上初の、[オルタナティブ](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")・アイドル」と記載されたがそれを決定付けたアルバムで、楽曲の歌詞の多くは、後ろ向きで自堕落な感じの歌詞が多い。
 
-[CDジャケット](../Page/コンパクトディスク.md "wikilink")[アートディレクター](https://ja.wikipedia.org/wiki/アートディレクター "wikilink")に[信藤三雄](../Page/信藤三雄.md "wikilink")を起用。信藤はこのCDジャケットのプレゼンテーションの際「アイドルとしてギリギリのところを提案した。没になるかもしれないと思ったけど、ギリギリのところが一番面白い」と、このCDジャケットを製作した際のエピソードを語っている。
+[CDジャケット](../Page/コンパクトディスク.md "wikilink")[アートディレクター](../Page/アートディレクター.md "wikilink")に[信藤三雄](../Page/信藤三雄.md "wikilink")を起用。信藤はこのCDジャケットのプレゼンテーションの際「アイドルとしてギリギリのところを提案した。没になるかもしれないと思ったけど、ギリギリのところが一番面白い」と、このCDジャケットを製作した際のエピソードを語っている。
 
 ## 収録曲
 
 1.  **[KANSHAして](https://ja.wikipedia.org/wiki/KANSHAして "wikilink")**（wah wah version）
       -
-        作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲:[林田健司](https://ja.wikipedia.org/wiki/林田健司 "wikilink")　編曲:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
+        作詞:[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")　作曲:[林田健司](../Page/林田健司.md "wikilink")　編曲:[岩田雅之](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
     <!-- end list -->
       - 16thシングルのアルバムバージョン
     <!-- end list -->
       -
-        [マーヴィン・ゲイ](https://ja.wikipedia.org/wiki/マーヴィン・ゲイ "wikilink")や[ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")らの作品に参加した[ワウ・プレイの名手](https://ja.wikipedia.org/wiki/エフェクター#音質を変えたり、その他の効果を与えるもの "wikilink")、[Wah Wah Watsonを](https://ja.wikipedia.org/wiki/:en:Wah_Wah_Watson "wikilink")[フィーチャーしているので](https://ja.wikipedia.org/wiki/フィーチャリング "wikilink")「wah wah version」と名付けられている。ヴィニー・カリウタのタイトなドラミングと共にファンキーな[グルーヴ](../Page/グルーヴ.md "wikilink")を生み出している。
+        [マーヴィン・ゲイ](../Page/マーヴィン・ゲイ.md "wikilink")や[ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")らの作品に参加した[ワウ・プレイの名手](https://ja.wikipedia.org/wiki/エフェクター#音質を変えたり、その他の効果を与えるもの "wikilink")、[Wah Wah Watsonを](https://ja.wikipedia.org/wiki/:en:Wah_Wah_Watson "wikilink")[フィーチャーしているので](../Page/フィーチャリング.md "wikilink")「wah wah version」と名付けられている。ヴィニー・カリウタのタイトなドラミングと共にファンキーな[グルーヴ](../Page/グルーヴ.md "wikilink")を生み出している。
 2.  **ルーズなMorning** - [森且行](../Page/森且行.md "wikilink")・[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
       -
-        作詞:戸沢暢美　作曲・編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞:戸沢暢美　作曲・編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
         1stインストゥルメンタルアルバム「[SMAPPIES - Rhythmsticks](https://ja.wikipedia.org/wiki/SMAPPIES_-_Rhythmsticks "wikilink")」にも収録されている。
         CHOKKAKUによる[16ビートの](https://ja.wikipedia.org/wiki/ドラム・ビート#16ビート "wikilink")[カッティング](https://ja.wikipedia.org/wiki/カッティング "wikilink")が使用されているフュージョンナンバー。2008年現在、インストゥルメンタルバージョンが[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")内の歌のコーナーにおいて使用されている。
-3.  **雨がやまない** - [木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")・森且行
+3.  **雨がやまない** - [木村拓哉](../Page/木村拓哉.md "wikilink")・森且行
       -
         作詞:久和カノン　作曲:寺田一郎　編曲:[長岡成貢](https://ja.wikipedia.org/wiki/長岡成貢 "wikilink")
         1stインストゥルメンタルアルバム、2ndベストアルバム「[Wool](../Page/WOOL_\(アルバム\).md "wikilink")」にも収録されている。
 4.  **[しようよ](https://ja.wikipedia.org/wiki/しようよ_\(曲\) "wikilink")**（Let's do it）
       -
-        作詞:[森浩美](../Page/森浩美.md "wikilink")　作曲:[Jimmy Johnson](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")　編曲:CHOKKAKU
+        作詞:[森浩美](../Page/森浩美.md "wikilink")　作曲:[Jimmy Johnson](../Page/馬飼野康二.md "wikilink")　編曲:CHOKKAKU
     <!-- end list -->
       - 17thシングル
     <!-- end list -->
       -
         記載は無いが、アルバムバージョンである。
-        間奏のギターソロが、[テナーサックスのソロになったバージョン](../Page/サクソフォーン.md "wikilink")。ちなみに、後に発売された2ndベストアルバムでは[神保彰](https://ja.wikipedia.org/wiki/神保彰 "wikilink")の壮絶なドラミングをフィーチャーしたバージョンが聴ける。
+        間奏のギターソロが、[テナーサックスのソロになったバージョン](../Page/サクソフォーン.md "wikilink")。ちなみに、後に発売された2ndベストアルバムでは[神保彰](../Page/神保彰.md "wikilink")の壮絶なドラミングをフィーチャーしたバージョンが聴ける。
 5.  **切なさが痛い** - [中居正広](../Page/中居正広.md "wikilink")・木村拓哉
       -
         作詞:[久保田洋司](../Page/久保田洋司.md "wikilink") 作曲・編曲:ZAKI　コーラスアレンジ:[松下誠](../Page/松下誠.md "wikilink")
         1stインストゥルメンタルアルバムにも収録されている。
-        [キング・カーティス](https://ja.wikipedia.org/wiki/キング・カーティス "wikilink")のバンドの屋台骨を支えたバーナードとチャックによるグルーヴに、デイヴィッド・Tのギターとジェイのサックスソロが楽曲を彩る。
+        [キング・カーティス](../Page/キング・カーティス.md "wikilink")のバンドの屋台骨を支えたバーナードとチャックによるグルーヴに、デイヴィッド・Tのギターとジェイのサックスソロが楽曲を彩る。
 6.  **感じやすい不機嫌** - 木村拓哉・[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")・香取慎吾
       -
         作詞:戸沢暢美　作曲・編曲:長岡成貢　コーラスアレンジ:松下誠
@@ -95,14 +95,14 @@
     <!-- end list -->
       -
         1stインストゥルメンタルアルバムにも収録されている。
-        基本的にアルバム・テーマ曲となる[インストゥルメンタル曲は](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、アルバム収録において最初に収録されているのが殆どであるが、このアルバムでは最後に収録されている。ちなみに各アルバムにインストゥルメンタル・ナンバーが収録されるのは、彼らのダンス・ナンバーとするためである。
-        ウィル・リーの[スラッピングとヴィニー](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")・カリウタのタイトなドラミングが生み出すグルーヴ、四十余名の管弦楽団によるゴージャスなオーケストレイション、[ブレッカー・ブラザーズ](../Page/ブレッカー・ブラザーズ.md "wikilink")や[デイヴ・バレンティン](https://ja.wikipedia.org/wiki/デイヴ・バレンティン "wikilink")らによるサックス、フルートのソロ回しなどが曲を彩る。
+        基本的にアルバム・テーマ曲となる[インストゥルメンタル曲は](../Page/器楽曲.md "wikilink")、アルバム収録において最初に収録されているのが殆どであるが、このアルバムでは最後に収録されている。ちなみに各アルバムにインストゥルメンタル・ナンバーが収録されるのは、彼らのダンス・ナンバーとするためである。
+        ウィル・リーの[スラッピングとヴィニー](../Page/スラップ奏法.md "wikilink")・カリウタのタイトなドラミングが生み出すグルーヴ、四十余名の管弦楽団によるゴージャスなオーケストレイション、[ブレッカー・ブラザーズ](../Page/ブレッカー・ブラザーズ.md "wikilink")や[デイヴ・バレンティン](https://ja.wikipedia.org/wiki/デイヴ・バレンティン "wikilink")らによるサックス、フルートのソロ回しなどが曲を彩る。
 
 ## レコーディング・メンバー
 
 ### KANSHA して(wah wah version)
 
-  - Drums: [Vinnie Colaiuta](https://ja.wikipedia.org/wiki/ヴィニー・カリウタ "wikilink")
+  - Drums: [Vinnie Colaiuta](../Page/ヴィニー・カリウタ.md "wikilink")
   - Guitar: [Wah Wah Watson](https://ja.wikipedia.org/wiki/:en:Wah_Wah_Watson "wikilink")
   - Trumpet Solo: [Eric Miyashiro](../Page/エリック・ミヤシロ.md "wikilink")
   - Chorus: [Masayuki Iwata](https://ja.wikipedia.org/wiki/岩田雅之 "wikilink")
@@ -115,9 +115,9 @@
 
 ### ルーズな Morning
 
-  - Drums: [Omar Hakim](https://ja.wikipedia.org/wiki/オマー・ハキム "wikilink")
+  - Drums: [Omar Hakim](../Page/オマー・ハキム.md "wikilink")
   - Bass: [Will Lee](../Page/ウィル・リー.md "wikilink") (appears courtesy of Go Jazz Records)
-  - Guitar: [Chokkaku](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+  - Guitar: [Chokkaku](../Page/CHOKKAKU.md "wikilink")
   - Alto Sax Solo: Jay Beckenstein (appears courtesy of [GRP Records](../Page/GRPレコード.md "wikilink"))
   - Horn Section
       - Trumpet & Flugelhorn: John Allmark, Joeseph Giorgianni
@@ -145,7 +145,7 @@
 
   - Drums: [Bernard Purdie](../Page/バーナード・パーディ.md "wikilink")
   - Bass: [Chuck Rainey](../Page/チャック・レイニー.md "wikilink")
-  - Guitar: [David T. Walker](https://ja.wikipedia.org/wiki/デイヴィッド・T・ウォーカー "wikilink") (appears courtesy of Edoya Records)
+  - Guitar: [David T. Walker](../Page/デイヴィッド・T・ウォーカー.md "wikilink") (appears courtesy of Edoya Records)
   - Fender Rhodes: Philippe Saisse
   - Alto Sax Solo: Jay Beckenstein (appears courtesy of GRP Records)
   - Percussions: Don Alias
@@ -203,7 +203,7 @@
   - Bass: Will Lee (appears courtesy of Go Jazz Records)
   - Guitar: Hiram Bullock
   - Piano: [Jim Beard](https://ja.wikipedia.org/wiki/ジム・ビアード "wikilink")
-  - Tenor Sax Solo: [Michael Brecker](https://ja.wikipedia.org/wiki/マイケル・ブレッカー "wikilink") (appears courtesy of GRP Records)
+  - Tenor Sax Solo: [Michael Brecker](../Page/マイケル・ブレッカー.md "wikilink") (appears courtesy of GRP Records)
   - Chorus: Makoto Matsushita
 
 <!-- end list -->

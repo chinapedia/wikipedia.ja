@@ -1,15 +1,15 @@
 > この記事は[EAST ASIA](https://ja.wikipedia.org/wiki/EAST_ASIA)から翻訳されています。
 
 
-『**EAST ASIA**』（イーストエイジア）は、[1992年](../Page/1992年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")に発表された、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の20作目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**EAST ASIA**』（イーストエイジア）は、[1992年](../Page/1992年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")に発表された、[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の20作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
-[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[親愛なる者へ](../Page/親愛なる者へ_\(テレビドラマ\).md "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")として[シングル発売され](https://ja.wikipedia.org/wiki/8センチCD "wikilink")、ミリオンセラーを記録した「[浅い眠り](../Page/浅い眠り.md "wikilink")」や、『[夜会](https://ja.wikipedia.org/wiki/夜会 "wikilink")』のテーマ曲である「二隻の舟」が収録されており、[オリコンアルバムチャートでも](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を記録し、1992年の[第34回日本レコード大賞](https://ja.wikipedia.org/wiki/第34回日本レコード大賞 "wikilink")ポップス・ロック部門優秀アルバム賞を受賞した。
+[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[親愛なる者へ](../Page/親愛なる者へ_\(テレビドラマ\).md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")として[シングル発売され](https://ja.wikipedia.org/wiki/8センチCD "wikilink")、ミリオンセラーを記録した「[浅い眠り](../Page/浅い眠り.md "wikilink")」や、『[夜会](https://ja.wikipedia.org/wiki/夜会 "wikilink")』のテーマ曲である「二隻の舟」が収録されており、[オリコンアルバムチャートでも](../Page/オリコンチャート.md "wikilink")2位を記録し、1992年の[第34回日本レコード大賞](https://ja.wikipedia.org/wiki/第34回日本レコード大賞 "wikilink")ポップス・ロック部門優秀アルバム賞を受賞した。
 
 ## 収録曲
 
-  - 全作詞/作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")(特記以外)
+  - 全作詞/作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")(特記以外)
 
 <!-- end list -->
 
@@ -25,15 +25,15 @@
 4.  **萩野原**
       - 前年行われた「[夜会Vol.3 KAN（邯鄲）TAN](https://ja.wikipedia.org/wiki/夜会#公演一覧 "wikilink")」にて一足早く発表されている。
 5.  **[誕生](https://ja.wikipedia.org/wiki/誕生/Maybe "wikilink")**
-      - [1992年](../Page/1992年.md "wikilink")の[東宝](../Page/東宝.md "wikilink")映画『[奇跡の山－さよなら、名犬平治－](https://ja.wikipedia.org/wiki/奇跡の山_さよなら、名犬平治 "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+      - [1992年](../Page/1992年.md "wikilink")の[東宝](../Page/東宝.md "wikilink")映画『[奇跡の山－さよなら、名犬平治－](https://ja.wikipedia.org/wiki/奇跡の山_さよなら、名犬平治 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。
 6.  **此処じゃない何処かへ**
 7.  **妹じゃあるまいし**
 8.  **二隻の舟**
-      - 「[夜会](https://ja.wikipedia.org/wiki/夜会 "wikilink")」[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")で、「二隻」の読みは音訓表外の「**にそう**」。後に、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")のアルバム『[10 WINGS](../Page/10_WINGS.md "wikilink")』で、[アレンジを変えて](../Page/編曲.md "wikilink")[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")された。
-      - [1996年](../Page/1996年.md "wikilink")の[東映](../Page/東映.md "wikilink")映画『[霧の子午線](https://ja.wikipedia.org/wiki/霧の子午線 "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
-      - [2004年](../Page/2004年.md "wikilink")の[フジテレビ系スペシャルドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[海峡を渡るバイオリン](../Page/海峡を渡るバイオリン.md "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")。
+      - 「[夜会](https://ja.wikipedia.org/wiki/夜会 "wikilink")」[主題歌](../Page/主題歌.md "wikilink")で、「二隻」の読みは音訓表外の「**にそう**」。後に、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")のアルバム『[10 WINGS](../Page/10_WINGS.md "wikilink")』で、[アレンジを変えて](../Page/編曲.md "wikilink")[セルフカバー](../Page/セルフカバー.md "wikilink")された。
+      - [1996年](../Page/1996年.md "wikilink")の[東映](../Page/東映.md "wikilink")映画『[霧の子午線](https://ja.wikipedia.org/wiki/霧の子午線 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。
+      - [2004年](../Page/2004年.md "wikilink")の[フジテレビ系スペシャルドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[海峡を渡るバイオリン](../Page/海峡を渡るバイオリン.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink")。
 9.  **[糸](https://ja.wikipedia.org/wiki/命の別名/糸 "wikilink")**
-      - 元々は[1992年](../Page/1992年.md "wikilink")に[天理教](https://ja.wikipedia.org/wiki/天理教 "wikilink")4代目[真柱](https://ja.wikipedia.org/wiki/真柱 "wikilink")[中山善司](https://ja.wikipedia.org/wiki/中山善司 "wikilink")（当時は真柱継承者）の結婚の際にそれを祝うために作詞・作曲された曲である\[1\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[聖者の行進](../Page/聖者の行進_\(テレビドラマ\).md "wikilink")』のもう一つの[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")として採用され、シングル「[命の別名](https://ja.wikipedia.org/wiki/命の別名/糸 "wikilink")」の両A面としてリカットされた。
+      - 元々は[1992年](../Page/1992年.md "wikilink")に[天理教](https://ja.wikipedia.org/wiki/天理教 "wikilink")4代目[真柱](https://ja.wikipedia.org/wiki/真柱 "wikilink")[中山善司](https://ja.wikipedia.org/wiki/中山善司 "wikilink")（当時は真柱継承者）の結婚の際にそれを祝うために作詞・作曲された曲である\[1\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[聖者の行進](../Page/聖者の行進_\(テレビドラマ\).md "wikilink")』のもう一つの[主題歌](../Page/主題歌.md "wikilink")として採用され、シングル「[命の別名](https://ja.wikipedia.org/wiki/命の別名/糸 "wikilink")」の両A面としてリカットされた。
 
 ## 演奏者
 
@@ -45,9 +45,9 @@
   - E.Bass：富倉安生
   - E.Guitars：[今剛](../Page/今剛.md "wikilink")
   - Pedal Steel Guitar：今剛
-  - A.Piano：[倉田信雄](https://ja.wikipedia.org/wiki/倉田信雄 "wikilink")
+  - A.Piano：[倉田信雄](../Page/倉田信雄.md "wikilink")
   - Keyboards：倉田信雄
-  - Programmer：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")・浦田恵司(EMU)
+  - Programmer：[瀬尾一三](../Page/瀬尾一三.md "wikilink")・浦田恵司(EMU)
   - Strings：Syd Page Group
   - Backup Vocal：アキヤ
   - Background Vocals：Raven Kane, Julia Waters, Maxine Waters
@@ -83,7 +83,7 @@
   - E.Guitars：今剛
   - A.Guitars：[吉川忠英](../Page/吉川忠英.md "wikilink")
   - A.Piano：エルトン永田
-  - Keyboards：エルトン永田・[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink")
+  - Keyboards：エルトン永田・[中西康晴](../Page/中西康晴.md "wikilink")
   - Programmer：瀬尾一三・浦田恵司(EMU)
   - Strings：[斉藤ネコ](https://ja.wikipedia.org/wiki/斉藤ネコ "wikilink") Group
   - BackGround Vocals：杉本和世・山内洋子・瀬尾一三

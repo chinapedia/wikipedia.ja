@@ -5,7 +5,7 @@
 
 [GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")、[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")上にて[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")の開発、運営を行う。
 
-[2004年](../Page/2004年.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")で創業（過去のドメインが「qmax.co.nz」だったはそのため）、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月に福岡で日本法に基づく株式会社を設立。設立から2007年まで、「mini-mam」（ミニマム）・「micro」（ミクロ）・「mini」（ミニ）というブランドで美少女ゲームを発売していたが、既に活動を終了している。
+[2004年](../Page/2004年.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")で創業（過去のドメインが「qmax.co.nz」だったはそのため）、[2005年](../Page/2005年.md "wikilink")3月に福岡で日本法に基づく株式会社を設立。設立から2007年まで、「mini-mam」（ミニマム）・「micro」（ミクロ）・「mini」（ミニ）というブランドで美少女ゲームを発売していたが、既に活動を終了している。
 
 ## 沿革
 

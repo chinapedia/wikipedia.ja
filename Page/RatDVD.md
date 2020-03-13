@@ -5,7 +5,7 @@
 
 拡張子は.ratdvd
 
-DVD-Videoを各種[動画ファイルに圧縮変換する場合](../Page/ファイルフォーマット.md "wikilink")、[メニュー](https://ja.wikipedia.org/wiki/メニュー_\(コンピュータ\) "wikilink")・マルチアングル・複数[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")・[字幕](https://ja.wikipedia.org/wiki/字幕 "wikilink")・[チャプター](https://ja.wikipedia.org/wiki/チャプター "wikilink")・特典映像といった機能が無くなってしまうが、ratDVD形式ではDVD-Videoの各種機能を残したまま[CD](../Page/CD-R.md "wikilink")1枚程度に収まるよう高圧縮することができる。また、ratDVD形式からDVD-Videoに再変換することも可能。(劣化した画質は元に戻らない)
+DVD-Videoを各種[動画ファイルに圧縮変換する場合](../Page/ファイルフォーマット.md "wikilink")、[メニュー](../Page/メニュー_\(コンピュータ\).md "wikilink")・マルチアングル・複数[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")・[字幕](../Page/字幕.md "wikilink")・[チャプター](https://ja.wikipedia.org/wiki/チャプター "wikilink")・特典映像といった機能が無くなってしまうが、ratDVD形式ではDVD-Videoの各種機能を残したまま[CD](../Page/CD-R.md "wikilink")1枚程度に収まるよう高圧縮することができる。また、ratDVD形式からDVD-Videoに再変換することも可能。(劣化した画質は元に戻らない)
 
 また、高圧縮ゆえ圧縮に非常に時間がかかるというデメリットがある。
 
@@ -14,9 +14,9 @@ DVD-Videoを各種[動画ファイルに圧縮変換する場合](../Page/ファ
 ## 関連項目
 
   - [DivX Media Format](https://ja.wikipedia.org/wiki/DivX#DivX_Media_Format "wikilink")
-  - [Matroska](https://ja.wikipedia.org/wiki/Matroska "wikilink")
-  - [MP4](https://ja.wikipedia.org/wiki/MP4 "wikilink")
-  - [Ogg Media](https://ja.wikipedia.org/wiki/Ogg_Media "wikilink")
+  - [Matroska](../Page/Matroska.md "wikilink")
+  - [MP4](../Page/MP4.md "wikilink")
+  - [Ogg Media](../Page/Ogg_Media.md "wikilink")
 
 ## 外部リンク
 

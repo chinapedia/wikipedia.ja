@@ -5,7 +5,7 @@
 
 ## 概要
 
-[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[女子バレーボール ワールドグランプリ2006](https://ja.wikipedia.org/wiki/バレーボール・ワールドグランプリ "wikilink")』（2006年8月18日から9月10日まで）のスペシャルサポーターとして期間限定7人組ユニット・**[Kitty G<span style="font-size:120%;">Y</span>M](../Page/Kitty_GYM.md "wikilink")**の結成が発表され、先に[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")、そしてタイの「[G-Junior](../Page/G-Junior.md "wikilink")」の第1期生である[GOLF\&MIKE](../Page/GOLF&MIKE.md "wikilink")の[GOLFとMIKEが](../Page/GOLF_\(歌手\).md "wikilink")「G<span style="font-size:120%;">Y</span>M」がメンバーに確定した\[1\]\[2\]。残りの4人「kitty」は後日選考＆発表とされ\[3\]\[4\]、2006年7月17日に[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")で行われた『[ザ少年倶楽部](https://ja.wikipedia.org/wiki/ザ少年倶楽部 "wikilink")』収録（オンエアは9月3日）で初パフォーマンス\[5\]、翌日7月18日に行われた同番組の制作発表会見で一般に初お披露目された\[6\]。「Kitty」には子供も含め、世代を超えて親しんでもらいたいという意味が込められている\[7\]。
+[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[女子バレーボール ワールドグランプリ2006](../Page/バレーボール・ワールドグランプリ.md "wikilink")』（2006年8月18日から9月10日まで）のスペシャルサポーターとして期間限定7人組ユニット・**[Kitty G<span style="font-size:120%;">Y</span>M](../Page/Kitty_GYM.md "wikilink")**の結成が発表され、先に[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")、そしてタイの「[G-Junior](../Page/G-Junior.md "wikilink")」の第1期生である[GOLF\&MIKE](../Page/GOLF&MIKE.md "wikilink")の[GOLFとMIKEが](../Page/GOLF_\(歌手\).md "wikilink")「G<span style="font-size:120%;">Y</span>M」がメンバーに確定した\[1\]\[2\]。残りの4人「kitty」は後日選考＆発表とされ\[3\]\[4\]、2006年7月17日に[NHKホール](../Page/NHKホール.md "wikilink")で行われた『[ザ少年倶楽部](../Page/ザ少年倶楽部.md "wikilink")』収録（オンエアは9月3日）で初パフォーマンス\[5\]、翌日7月18日に行われた同番組の制作発表会見で一般に初お披露目された\[6\]。「Kitty」には子供も含め、世代を超えて親しんでもらいたいという意味が込められている\[7\]。
 
 「G<span style="font-size:120%;">Y</span>M」活動終了後も「Kitty」は活動を続けていたが、レギュラー出演番組『[YOUたち\!](../Page/YOUたち!.md "wikilink")』の放送終了およびメンバーのデビューに伴い活動を終了した。
 
@@ -13,14 +13,14 @@
 
 *グループは結成当時所属していたもの*
 
-  - [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")\[8\]
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")\[8\]
       - **K** [北山宏光](https://ja.wikipedia.org/wiki/北山宏光 "wikilink")\[9\]
-  - [J.J.Express](https://ja.wikipedia.org/wiki/J.J.Express "wikilink")\[10\]
-      - **i** [伊野尾慧](https://ja.wikipedia.org/wiki/伊野尾慧 "wikilink")\[11\]
+  - [J.J.Express](../Page/J.J.Express.md "wikilink")\[10\]
+      - **i** [伊野尾慧](../Page/伊野尾慧.md "wikilink")\[11\]
   - [A.B.C.](https://ja.wikipedia.org/wiki/A.B.C-Z#A.B.C. "wikilink")\[12\]
       - **tt** [戸塚祥太](../Page/戸塚祥太.md "wikilink")\[13\]
   - [Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")\[14\]\[15\]
-      - **y** [八乙女光](https://ja.wikipedia.org/wiki/八乙女光 "wikilink")\[16\]
+      - **y** [八乙女光](../Page/八乙女光.md "wikilink")\[16\]
 
 ## オリジナル曲
 
@@ -34,7 +34,7 @@
 
 ### コンサート
 
-  - you達の音楽大運動会 （2006年9月30日 - 10月1日、[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")）\[18\]
+  - you達の音楽大運動会 （2006年9月30日 - 10月1日、[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")）\[18\]
 
 ## 出典
 

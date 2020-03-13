@@ -7,7 +7,7 @@
 
 前作「[ささやかな祈り](../Page/ささやかな祈り.md "wikilink")」より、約4ヶ月振りのシングル。
 
-初のコンセプト・[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")で、4曲共[A面](https://ja.wikipedia.org/wiki/A面 "wikilink")扱いである。[PVは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")「UNSPEAKABLE」と「nostalgia」の2曲に制作されている。
+初のコンセプト・[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")で、4曲共[A面](https://ja.wikipedia.org/wiki/A面 "wikilink")扱いである。[PVは](../Page/ミュージック・ビデオ.md "wikilink")「UNSPEAKABLE」と「nostalgia」の2曲に制作されている。
 
 初回限定盤は2種類あり、帯が赤色のものと緑色のものが存在する。通常盤は帯が白色である。
 
@@ -17,10 +17,10 @@
 
 1.  **UNSPEAKABLE**
       -
-        （編曲：[中尾昌文](https://ja.wikipedia.org/wiki/中尾昌文 "wikilink")、[大谷靖夫](../Page/大谷靖夫.md "wikilink")、[伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink")）
+        （編曲：[中尾昌文](https://ja.wikipedia.org/wiki/中尾昌文 "wikilink")、[大谷靖夫](../Page/大谷靖夫.md "wikilink")、[伊藤一朗](../Page/伊藤一朗.md "wikilink")）
         [キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")「ピクサス」CMソング
         [TBS系](../Page/TBSテレビ.md "wikilink")「[恋愛Master 7メモリーズ](https://ja.wikipedia.org/wiki/恋愛マスター "wikilink")」テーマソング
-        2002年末の「[NHK紅白歌合戦](../Page/第53回NHK紅白歌合戦.md "wikilink")」出場歌唱曲（対戦相手は[アルフレッド・カセーロ](https://ja.wikipedia.org/wiki/アルフレッド・カセーロ "wikilink") & [THE BOOMで](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")「[島唄](../Page/島唄_Shima_Uta.md "wikilink")」）。
+        2002年末の「[NHK紅白歌合戦](../Page/第53回NHK紅白歌合戦.md "wikilink")」出場歌唱曲（対戦相手は[アルフレッド・カセーロ](https://ja.wikipedia.org/wiki/アルフレッド・カセーロ "wikilink") & [THE BOOMで](../Page/THE_BOOM.md "wikilink")「[島唄](../Page/島唄_Shima_Uta.md "wikilink")」）。
 2.  **愛の謳**
       -
         （作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink") / 編曲：村田昭）

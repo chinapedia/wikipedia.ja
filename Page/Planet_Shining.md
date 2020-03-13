@@ -12,11 +12,11 @@
   - [chronopsychology](https://ja.wikipedia.org/wiki/chronopsychology "wikilink")
       - 松竹系全国ロードショー 「[黒い家](../Page/黒い家.md "wikilink")」主題歌
   - [L.O.T. (Love Or Truth)](../Page/L.O.T._\(Love_Or_Truth\).md "wikilink")
-      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系 [月曜ドラマ・イン](https://ja.wikipedia.org/wiki/月曜ドラマ・イン "wikilink") 「[ベストフレンド](../Page/ベストフレンド_\(1999年のテレビドラマ\).md "wikilink")」主題歌
+      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系 [月曜ドラマ・イン](../Page/月曜ドラマ・イン.md "wikilink") 「[ベストフレンド](../Page/ベストフレンド_\(1999年のテレビドラマ\).md "wikilink")」主題歌
 
 ## 外部リンク
 
   - [m-flo.com](http://www.m-flo.com/) - オフィシャルサイト
-  - [ARTIMAGE](http://www.artimage.co.jp/) - 所属事務所[ARTIMAGE](https://ja.wikipedia.org/wiki/ARTIMAGE "wikilink")オフィシャルサイト
+  - [ARTIMAGE](http://www.artimage.co.jp/) - 所属事務所[ARTIMAGE](../Page/ARTIMAGE.md "wikilink")オフィシャルサイト
 
 [Category:M-floのアルバム](https://ja.wikipedia.org/wiki/Category:M-floのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink")

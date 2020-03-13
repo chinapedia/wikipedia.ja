@@ -5,13 +5,13 @@
 
 ## 略歴・人物
 
-[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")を卒業後、[1916年](../Page/1916年.md "wikilink")から[1936年](../Page/1936年.md "wikilink")まで[イギリス外務省に勤務](https://ja.wikipedia.org/wiki/外務・英連邦省 "wikilink")。退職後、[ウェールズ大学](https://ja.wikipedia.org/wiki/ウェールズ大学 "wikilink")アベリストウィス校（現在、英国立アベリストウィス大学）の[国際関係論](../Page/国際関係論.md "wikilink")（国際政治学部）の学部長に就任。
+[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")を卒業後、[1916年](../Page/1916年.md "wikilink")から[1936年](../Page/1936年.md "wikilink")まで[イギリス外務省に勤務](../Page/外務・英連邦省.md "wikilink")。退職後、[ウェールズ大学](https://ja.wikipedia.org/wiki/ウェールズ大学 "wikilink")アベリストウィス校（現在、英国立アベリストウィス大学）の[国際関係論](../Page/国際関係論.md "wikilink")（国際政治学部）の学部長に就任。
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中は[イギリス情報省](https://ja.wikipedia.org/wiki/イギリス情報省 "wikilink")（[Ministry of Information](https://ja.wikipedia.org/wiki/:en:Ministry_of_Information_\(United_Kingdom\) "wikilink")）の職員および『[タイムズ](../Page/タイムズ.md "wikilink")』紙の記者として活動。戦後は、その親ソ的な立場が災いし、一時的に英国の学界とは距離を置く。[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")[トリニティ・カレッジの研究員として学究生活に入った後は](https://ja.wikipedia.org/wiki/トリニティ・カレッジ_\(ケンブリッジ大学\) "wikilink")、もっぱら[ロシア革命](../Page/ロシア革命.md "wikilink")史の研究（全14巻）をライフワークとする。
 
 [1939年](../Page/1939年.md "wikilink")に刊行した『[危機の二十年](https://ja.wikipedia.org/wiki/危機の二十年 "wikilink")』は、法律的・道義的アプローチが支配的であった国際関係論においてパワーの重要性を強調する[現実主義](../Page/現実主義.md "wikilink")（リアリズム）の立場を説いた本として知られる。しかし同時に、反リアリズム的主張もまた同書に存在しており、本書の多様な側面を指摘する研究者もいる\[1\]。 一方で、同書の影響力は、国際関係論における「カー＝『危機の二十年』」と言う図式を生み出した。その結果、カーが戦間期から、大戦中、50年代にかけて執筆した国際関係論に関する書籍・論文・新聞記事・レビュー・Timesにおける記事には、あまり関心が持たれてこなかった\[2\]。
 
-なお、『[歴史とは何か](https://ja.wikipedia.org/wiki/歴史とは何か "wikilink")』で彼が述べた「歴史とは現在と過去との絶え間ない対話である("An unending dialogue between the present and the past.")」というフレーズは、日本の戦後歴史学界でもよく知られ、引用頻度が高い。
+なお、『[歴史とは何か](../Page/歴史とは何か.md "wikilink")』で彼が述べた「歴史とは現在と過去との絶え間ない対話である("An unending dialogue between the present and the past.")」というフレーズは、日本の戦後歴史学界でもよく知られ、引用頻度が高い。
 
 ## 著書
 
@@ -20,7 +20,7 @@
 <!-- end list -->
 
   -
-    [中橋一夫](../Page/中橋一夫.md "wikilink")・[松村達雄訳](../Page/松村達雄_\(英文学者\).md "wikilink")『[ドストエフスキー](../Page/フョードル・ドストエフスキー.md "wikilink")』（[社会思想研究会出版部](../Page/社会思想社.md "wikilink"), 1952年 / 改訳版 [筑摩叢書](https://ja.wikipedia.org/wiki/筑摩書房 "wikilink"), 1968年、復刊1985年）
+    [中橋一夫](../Page/中橋一夫.md "wikilink")・[松村達雄訳](../Page/松村達雄_\(英文学者\).md "wikilink")『[ドストエフスキー](../Page/フョードル・ドストエフスキー.md "wikilink")』（[社会思想研究会出版部](../Page/社会思想社.md "wikilink"), 1952年 / 改訳版 [筑摩叢書](../Page/筑摩書房.md "wikilink"), 1968年、復刊1985年）
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    [酒井只男](https://ja.wikipedia.org/wiki/酒井只男 "wikilink")訳『浪漫的亡命者たち』（[筑摩書房](https://ja.wikipedia.org/wiki/筑摩書房 "wikilink"), 1953年 / 筑摩叢書, 1970年、復刊1985年）
+    [酒井只男](https://ja.wikipedia.org/wiki/酒井只男 "wikilink")訳『浪漫的亡命者たち』（[筑摩書房](../Page/筑摩書房.md "wikilink"), 1953年 / 筑摩叢書, 1970年、復刊1985年）
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   -
-    [石上良平](https://ja.wikipedia.org/wiki/石上良平 "wikilink")訳『[カール・マルクス](https://ja.wikipedia.org/wiki/カール・マルクス "wikilink")』（[未來社](https://ja.wikipedia.org/wiki/未來社 "wikilink"), 1956年、新装版1998年）
+    [石上良平](https://ja.wikipedia.org/wiki/石上良平 "wikilink")訳『[カール・マルクス](https://ja.wikipedia.org/wiki/カール・マルクス "wikilink")』（[未來社](../Page/未來社.md "wikilink"), 1956年、新装版1998年）
 
 <!-- end list -->
 
@@ -58,7 +58,7 @@
 
   -
     [井上茂訳](https://ja.wikipedia.org/wiki/井上茂_\(法哲学者\) "wikilink")『[危機の二十年](https://ja.wikipedia.org/wiki/危機の二十年 "wikilink")――國際關係研究序説』（[岩波書店](../Page/岩波書店.md "wikilink"), 1952年、復刊1992年／[岩波文庫](../Page/岩波文庫.md "wikilink"), 1996年）
-    [原彬久](https://ja.wikipedia.org/wiki/原彬久 "wikilink")訳『危機の二十年――理想と現実』（岩波文庫, 2011年）
+    [原彬久](../Page/原彬久.md "wikilink")訳『危機の二十年――理想と現実』（岩波文庫, 2011年）
 
 <!-- end list -->
 
@@ -103,7 +103,7 @@
 <!-- end list -->
 
   -
-    [衛藤瀋吉](../Page/衞藤瀋吉.md "wikilink")・[斉藤孝訳](https://ja.wikipedia.org/wiki/斉藤孝_\(歴史学者\) "wikilink")『両大戦間における国際関係史』（[弘文堂](https://ja.wikipedia.org/wiki/弘文堂 "wikilink"), 1959年／清水弘文堂, 1983年）
+    [衛藤瀋吉](../Page/衞藤瀋吉.md "wikilink")・[斉藤孝訳](../Page/斉藤孝_\(歴史学者\).md "wikilink")『両大戦間における国際関係史』（[弘文堂](../Page/弘文堂.md "wikilink"), 1959年／清水弘文堂, 1983年）
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
 <!-- end list -->
 
   -
-    [南塚信吾](https://ja.wikipedia.org/wiki/南塚信吾 "wikilink")訳『一国社会主義――ソヴェト・ロシア史 1924-1926』（全2巻：みすず書房, 1974年、新装版1999年）
+    [南塚信吾](../Page/南塚信吾.md "wikilink")訳『一国社会主義――ソヴェト・ロシア史 1924-1926』（全2巻：みすず書房, 1974年、新装版1999年）
 
 <!-- end list -->
 
@@ -158,7 +158,7 @@
 <!-- end list -->
 
   -
-    清水幾太郎訳『[歴史とは何か](https://ja.wikipedia.org/wiki/歴史とは何か "wikilink")』（岩波書店［岩波新書］, 1962年、改版2014年）
+    清水幾太郎訳『[歴史とは何か](../Page/歴史とは何か.md "wikilink")』（岩波書店［岩波新書］, 1962年、改版2014年）
 
 <!-- end list -->
 
@@ -204,11 +204,11 @@
 <!-- end list -->
 
   -
-    [富田武](https://ja.wikipedia.org/wiki/富田武 "wikilink")訳『コミンテルンと[スペイン内戦](../Page/スペイン内戦.md "wikilink")』（岩波書店, 1985年、新装版2010年）
+    [富田武](../Page/富田武.md "wikilink")訳『コミンテルンと[スペイン内戦](../Page/スペイン内戦.md "wikilink")』（岩波書店, 1985年、新装版2010年）
 
 ## 伝記
 
-  - [ジョナサン・ハスラム](https://ja.wikipedia.org/wiki/ジョナサン・ハスラム "wikilink")　『誠実という悪徳――E・H・カー 1892－1982』（[角田史幸](https://ja.wikipedia.org/wiki/角田史幸 "wikilink")、川口良、中島理暁訳、[現代思潮新社](https://ja.wikipedia.org/wiki/現代思潮新社 "wikilink")、2007年）
+  - [ジョナサン・ハスラム](../Page/ジョナサン・ハスラム.md "wikilink")　『誠実という悪徳――E・H・カー 1892－1982』（[角田史幸](https://ja.wikipedia.org/wiki/角田史幸 "wikilink")、川口良、中島理暁訳、[現代思潮新社](https://ja.wikipedia.org/wiki/現代思潮新社 "wikilink")、2007年）
 
 ## 脚注
 
@@ -217,14 +217,14 @@
 ## 関連項目
 
   - [マックス・ウェーバー](https://ja.wikipedia.org/wiki/マックス・ウェーバー "wikilink")
-  - [アーネスト・メイ](https://ja.wikipedia.org/wiki/アーネスト・メイ "wikilink")
-  - [ハロルド・ラスキ](https://ja.wikipedia.org/wiki/ハロルド・ラスキ "wikilink")
+  - [アーネスト・メイ](../Page/アーネスト・メイ.md "wikilink")
+  - [ハロルド・ラスキ](../Page/ハロルド・ラスキ.md "wikilink")
   - [アイザック・ドイッチャー](https://ja.wikipedia.org/wiki/アイザック・ドイッチャー "wikilink")
   - [ジョージ・ケナン](../Page/ジョージ・ケナン.md "wikilink")
-  - [レオ・シュトラウス](https://ja.wikipedia.org/wiki/レオ・シュトラウス "wikilink")
+  - [レオ・シュトラウス](../Page/レオ・シュトラウス.md "wikilink")
   - [ハンス・モーゲンソウ](../Page/ハンス・モーゲンソウ.md "wikilink")
   - [ハンナ・アーレント](../Page/ハンナ・アーレント.md "wikilink")
-  - [渓内謙](https://ja.wikipedia.org/wiki/渓内謙 "wikilink")
+  - [渓内謙](../Page/渓内謙.md "wikilink")
   - [国際関係論](../Page/国際関係論.md "wikilink")
   - [地政学](../Page/地政学.md "wikilink")
 

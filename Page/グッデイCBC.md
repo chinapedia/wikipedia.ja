@@ -1,11 +1,11 @@
 > この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
 
 
-『**グッデイCBC**』（グッデイシービーシー）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）で放送された[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。放送時間は毎週月曜 - 金曜 7時46分頃 - 8時22分（[JST](../Page/日本標準時.md "wikilink")） 。[TBS系全国ネットの朝の情報番組](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")『[おはよう\!グッデイ](https://ja.wikipedia.org/wiki/おはよう!グッデイ "wikilink")』のCBCローカルパートに相当する。
+『**グッデイCBC**』（グッデイシービーシー）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）で放送された[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。放送時間は毎週月曜 - 金曜 7時46分頃 - 8時22分（[JST](../Page/日本標準時.md "wikilink")） 。[TBS系全国ネットの朝の情報番組](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")『[おはよう\!グッデイ](../Page/おはよう!グッデイ.md "wikilink")』のCBCローカルパートに相当する。
 
 ## 概要
 
-CBCの[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")たちが出演していた番組で、彼らはこの番組独自のセカンドネームを名乗って出演していた。メインMCを務めた[石井亮次](https://ja.wikipedia.org/wiki/石井亮次 "wikilink")は毎回「グッデイ石井」という名で出演し、それ以外のアナウンサーも同様に、たとえ出演回数が1回だけであってもナレーションのみの担当であってもセカンドネームが付けられていた。詳細は[出演者の節を参照](https://ja.wikipedia.org/wiki/#出演者 "wikilink")。
+CBCの[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")たちが出演していた番組で、彼らはこの番組独自のセカンドネームを名乗って出演していた。メインMCを務めた[石井亮次](../Page/石井亮次.md "wikilink")は毎回「グッデイ石井」という名で出演し、それ以外のアナウンサーも同様に、たとえ出演回数が1回だけであってもナレーションのみの担当であってもセカンドネームが付けられていた。詳細は[出演者の節を参照](https://ja.wikipedia.org/wiki/#出演者 "wikilink")。
 
 この番組は、本編である『おはよう\!グッデイ』が終了すると同時に終了した。その1年後には後継番組の『[ウォッチ\!](../Page/ウォッチ!.md "wikilink")』内で7時台後半のローカル枠が復活したが、その際にCBCも同番組内でローカル枠を復活させる予定であった。しかし、結局ローカル枠は復活せず、7時台後半のローカル枠は引き続きキー局・[TBSからのネット受けで放送され続けた](../Page/TBSテレビ.md "wikilink")。以来、CBCは平日にローカル朝ワイド番組は制作していない。
 
@@ -15,23 +15,23 @@ CBCの[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wik
 
 後に別の部署へ異動した者やCBCを退社した者も含む。括弧内は、出演者それぞれに付けられていたセカンドネーム。
 
-  - [石井亮次](https://ja.wikipedia.org/wiki/石井亮次 "wikilink")（グッデイ石井） - メインMCを担当。
+  - [石井亮次](../Page/石井亮次.md "wikilink")（グッデイ石井） - メインMCを担当。
   - [森合康行](../Page/森合康行.md "wikilink")（ヘルシー森合） - 石井が夏期休暇を取っている間のピンチヒッターとして出演。セカンドネームが付けられる以前にヘリコプターからの中継で登場。
-  - [沢朋宏](https://ja.wikipedia.org/wiki/沢朋宏 "wikilink")（ハッスル沢） - 中継を担当。
+  - [沢朋宏](../Page/沢朋宏.md "wikilink")（ハッスル沢） - 中継を担当。
   - [多田しげお](../Page/多田しげお.md "wikilink")（ダンディー多田 → ザビエルしげお） - ナレーションを担当。
   - [塩見啓一](../Page/塩見啓一.md "wikilink")（フィーバー塩見）
   - [高田寛之](../Page/高田寛之.md "wikilink")（バルーン高田） - 中継を担当。
   - [大石邦彦](../Page/大石邦彦.md "wikilink")（ミニマム大石） - 番組後期にてしばしば出演していた。
-  - [若狭敬一](https://ja.wikipedia.org/wiki/若狭敬一 "wikilink") - 1度だけ番組に登場。セカンドネームは不明。
-  - [丹野みどり](https://ja.wikipedia.org/wiki/丹野みどり "wikilink")（グリーン丹野） - 「星のカービィ星占い」「まけてよ\!グッデイ」のナレーションを担当。
+  - [若狭敬一](../Page/若狭敬一.md "wikilink") - 1度だけ番組に登場。セカンドネームは不明。
+  - [丹野みどり](../Page/丹野みどり.md "wikilink")（グリーン丹野） - 「星のカービィ星占い」「まけてよ\!グッデイ」のナレーションを担当。
   - [渡辺美香](../Page/渡辺美香.md "wikilink")（ミカリン渡辺）
-  - [加藤由香](https://ja.wikipedia.org/wiki/加藤由香 "wikilink")（プリティー由香） - 中継担当。
+  - [加藤由香](../Page/加藤由香.md "wikilink")（プリティー由香） - 中継担当。
   - [加藤小百合](https://ja.wikipedia.org/wiki/加藤小百合 "wikilink")（リリー加藤）
-  - [加藤千佳](https://ja.wikipedia.org/wiki/加藤千佳 "wikilink")（ゴージャス千佳） - 「まけてよ\!グッデイ」のナレーションを担当。
-  - [大橋麻美子](https://ja.wikipedia.org/wiki/大橋麻美子 "wikilink")（マミー大橋）
-  - [丸山蘭那](https://ja.wikipedia.org/wiki/丸山蘭那 "wikilink")（ランナー丸山）
-  - [小高直子](https://ja.wikipedia.org/wiki/小高直子 "wikilink")（ピッツア小高） - 「まけてよ\!グッデイ」のナレーションを担当。
-  - [小堀勝啓](https://ja.wikipedia.org/wiki/小堀勝啓 "wikilink") - ナレーションを担当。
+  - [加藤千佳](../Page/加藤千佳.md "wikilink")（ゴージャス千佳） - 「まけてよ\!グッデイ」のナレーションを担当。
+  - [大橋麻美子](../Page/大橋麻美子.md "wikilink")（マミー大橋）
+  - [丸山蘭那](../Page/丸山蘭那.md "wikilink")（ランナー丸山）
+  - [小高直子](../Page/小高直子.md "wikilink")（ピッツア小高） - 「まけてよ\!グッデイ」のナレーションを担当。
+  - [小堀勝啓](../Page/小堀勝啓.md "wikilink") - ナレーションを担当。
 
 ### よしび
 
@@ -41,7 +41,7 @@ CBCの[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wik
 
 ### その他の出演者
 
-上記レギュラー陣のほか、当時CBCテレビの『[ヒデヨシ](https://ja.wikipedia.org/wiki/ヒデヨシ_\(テレビ番組\) "wikilink")』に出演していた[品川庄司](../Page/品川庄司.md "wikilink")などがゲストで訪れていた。[つボイノリオ](../Page/つボイノリオ.md "wikilink")がこの番組に出演した際に、1度だけ自らを「ゴールデン・つ・ボーイ」と名乗っていた。
+上記レギュラー陣のほか、当時CBCテレビの『[ヒデヨシ](../Page/ヒデヨシ_\(テレビ番組\).md "wikilink")』に出演していた[品川庄司](../Page/品川庄司.md "wikilink")などがゲストで訪れていた。[つボイノリオ](../Page/つボイノリオ.md "wikilink")がこの番組に出演した際に、1度だけ自らを「ゴールデン・つ・ボーイ」と名乗っていた。
 
 ## コーナー
 
@@ -52,11 +52,11 @@ CBCの[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wik
   - 今日の買い
     企業の広報担当者が出演し、1分間のセールストークで各社一押しの商品を宣伝してもらっていたコーナー。8時1分頃から放送。
   - まけてよ\!グッデイ
-    [東海3県](https://ja.wikipedia.org/wiki/東海3県 "wikilink")各地にある飲食店の取材を行うコーナー。視聴者が番組の放送直後または放送日の翌日にその店へ行き、店員に「グッデイ\!」という合言葉を告げると、店のメニューを無料ないしは割引で食べられるこの番組限定のサービスが行われていた。
+    [東海3県](../Page/東海3県.md "wikilink")各地にある飲食店の取材を行うコーナー。視聴者が番組の放送直後または放送日の翌日にその店へ行き、店員に「グッデイ\!」という合言葉を告げると、店のメニューを無料ないしは割引で食べられるこの番組限定のサービスが行われていた。
   - 知っ得\!朝採り情報
     [CBCラジオ](../Page/CBCラジオ.md "wikilink")との同時生中継コーナーで、当時からCBCラジオで放送されていたラジオ番組『[多田しげおの気分爽快\!\!朝からP・O・N](../Page/多田しげおの気分爽快!!朝からP・O・N.md "wikilink")』のレポートドライバーによる中継にテレビカメラクルーが同行していた。当初は毎日行われていたが、『朝PON』が毎週金曜にゲストを招いていたことから、放送時間の関係上途中でカットされてしまうことになった。そのため、金曜のみ番組独自で中継を行うようになった。
   - 星のカービィ星占い
-    当時TBS系列局で放送されていたCBC製作のテレビアニメ『[星のカービィ](https://ja.wikipedia.org/wiki/星のカービィ_\(アニメ\) "wikilink")』を起用した占いコーナー。毎週金曜には、コーナーの後に同作品の予告も併せて行われていた。このコーナーは、[東北放送](../Page/東北放送.md "wikilink")のみで放送されたローカルパート『[グッデイみやぎ](https://ja.wikipedia.org/wiki/グッデイみやぎ "wikilink")』の中でも放送されていた。
+    当時TBS系列局で放送されていたCBC製作のテレビアニメ『[星のカービィ](../Page/星のカービィ_\(アニメ\).md "wikilink")』を起用した占いコーナー。毎週金曜には、コーナーの後に同作品の予告も併せて行われていた。このコーナーは、[東北放送](../Page/東北放送.md "wikilink")のみで放送されたローカルパート『[グッデイみやぎ](../Page/グッデイみやぎ.md "wikilink")』の中でも放送されていた。
 
 ## スタッフ
 
@@ -74,7 +74,7 @@ CBCの[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wik
 
 いずれもこの番組と同様に『おはよう\!グッデイ』のローカル枠で放送されていた番組。
 
-  - [グッデイみやぎ](https://ja.wikipedia.org/wiki/グッデイみやぎ "wikilink")（[東北放送](../Page/東北放送.md "wikilink")）
+  - [グッデイみやぎ](../Page/グッデイみやぎ.md "wikilink")（[東北放送](../Page/東北放送.md "wikilink")）
   - [あさやん\!](https://ja.wikipedia.org/wiki/あさやん! "wikilink") （[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [おはよう\!グッデイかごしま](https://ja.wikipedia.org/wiki/おはよう!グッデイかごしま "wikilink")（[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")）
 

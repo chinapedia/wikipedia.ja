@@ -3,7 +3,7 @@
 
 **CompuServe**（コンピュサーブ、コンプサーブ、CIS）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[パソコン通信](../Page/パソコン通信.md "wikilink")会社であり、同社が提供していたパソコン通信サービスのブランドである。
 
-かつてはアメリカ最大のパソコン通信会社であったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、後発の[AOL](https://ja.wikipedia.org/wiki/AOL "wikilink")(America Online)に会員数で追い抜かれ、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、AOLとWorldComに買収され子会社になった\[1\]。
+かつてはアメリカ最大のパソコン通信会社であったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、後発の[AOL](../Page/AOL.md "wikilink")(America Online)に会員数で追い抜かれ、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、AOLとWorldComに買収され子会社になった\[1\]。
 
 CompuServeの本来のパソコン通信サービスであるCompuServe Classicは[2009年](../Page/2009年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")にサービスを終了し、AOLのサービスの別ブランドであるCompuServe 2000のみが残った\[2\]。
 

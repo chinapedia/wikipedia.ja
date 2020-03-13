@@ -29,6 +29,6 @@ Planet Shiningへ向かったグローバルアストロライナー号がハイ
 ## 外部リンク
 
   - [m-flo.com](http://www.m-flo.com/) - オフィシャルサイト
-  - [ARTIMAGE](http://www.artimage.co.jp/) - 所属事務所[ARTIMAGE](https://ja.wikipedia.org/wiki/ARTIMAGE "wikilink")オフィシャルサイト
+  - [ARTIMAGE](http://www.artimage.co.jp/) - 所属事務所[ARTIMAGE](../Page/ARTIMAGE.md "wikilink")オフィシャルサイト
 
 [Category:M-floのリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:M-floのリミックス・アルバム "wikilink") [Category:2000年のリミックス・アルバム](https://ja.wikipedia.org/wiki/Category:2000年のリミックス・アルバム "wikilink")

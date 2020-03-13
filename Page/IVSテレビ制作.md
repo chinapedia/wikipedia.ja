@@ -1,24 +1,24 @@
 > この記事は[IVS](https://ja.wikipedia.org/wiki/IVS)から翻訳されています。
 
 
-**IVSテレビ制作**（アイ・ヴィ・エス テレビせいさく、**IVS Television Co.,ltd.**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](../Page/東京都.md "wikilink")[港区と](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に[本社](https://ja.wikipedia.org/wiki/本社 "wikilink")（大阪は登記上[本店](../Page/本店.md "wikilink")でもある）を置く、[テレビ番組](../Page/テレビ番組.md "wikilink")の[制作プロダクション](../Page/制作プロダクション.md "wikilink")。「**IVS**」は"**International Vision System**"の略。
+**IVSテレビ制作**（アイ・ヴィ・エス テレビせいさく、**IVS Television Co.,ltd.**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](../Page/東京都.md "wikilink")[港区と](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に[本社](../Page/本社.md "wikilink")（大阪は登記上[本店](../Page/本店.md "wikilink")でもある）を置く、[テレビ番組](../Page/テレビ番組.md "wikilink")の[制作プロダクション](../Page/制作プロダクション.md "wikilink")。「**IVS**」は"**International Vision System**"の略。
 
 ## 概要
 
 [1972年](../Page/1972年.md "wikilink")、当時[読売テレビの](../Page/讀賣テレビ放送.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")・[ディレクター](../Page/ディレクター.md "wikilink")だった斉藤寿孝（現・取締役名誉会長）が独立し、[11月30日](../Page/11月30日.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に「IVSテレビ制作」を設立。
 
-[1975年](../Page/1975年.md "wikilink")に東京支社（現・東京本社）を設立後は同年にスタートした「[びっくり日本新記録](https://ja.wikipedia.org/wiki/びっくり日本新記録 "wikilink")」（読売テレビ）をはじめとして数々の人気テレビ番組を制作している。過去の歴史的な経緯から、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")、及び在阪各放送局が制作した番組を中心に数多く携わっている。
+[1975年](../Page/1975年.md "wikilink")に東京支社（現・東京本社）を設立後は同年にスタートした「[びっくり日本新記録](../Page/びっくり日本新記録.md "wikilink")」（読売テレビ）をはじめとして数々の人気テレビ番組を制作している。過去の歴史的な経緯から、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")、及び在阪各放送局が制作した番組を中心に数多く携わっている。
 
-[1973年](../Page/1973年.md "wikilink")、後にIVSを支えるディレクターとなる「[テリー伊藤](../Page/テリー伊藤.md "wikilink")」こと伊藤輝夫が入社。わずか2年余りでディレクターに昇格し、その後「[ねるとん紅鯨団](https://ja.wikipedia.org/wiki/ねるとん紅鯨団 "wikilink")」「[天才・たけしの元気が出るテレビ\!\!](https://ja.wikipedia.org/wiki/天才・たけしの元気が出るテレビ!! "wikilink")」などのヒット作を手掛ける。
+[1973年](../Page/1973年.md "wikilink")、後にIVSを支えるディレクターとなる「[テリー伊藤](../Page/テリー伊藤.md "wikilink")」こと伊藤輝夫が入社。わずか2年余りでディレクターに昇格し、その後「[ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")」「[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")」などのヒット作を手掛ける。
 
 ## 斉藤会長とピアノ
 
-創設者の斎藤は6歳から[ピアノ](../Page/ピアノ.md "wikilink")を始め、[東京音楽大学](https://ja.wikipedia.org/wiki/東京音楽大学 "wikilink")ピアノ科に進学した経歴を持つ人物。特に[ショパンを愛好しており](../Page/フレデリック・ショパン.md "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")で開催される[ショパン国際ピアノコンクール](../Page/ショパン国際ピアノコンクール.md "wikilink")にIVSテレビ制作賞を設けたり、傘下にもつIVS音楽出版で同コンクール優勝の[ピアニスト](../Page/ピアニスト.md "wikilink")、[スタニスラフ・ブーニン](../Page/スタニスラフ・ブーニン.md "wikilink")を始めとする演奏家のマネージメント業務を行なったりするなどの一面も持ち合わせる企業風土である。
+創設者の斎藤は6歳から[ピアノ](../Page/ピアノ.md "wikilink")を始め、[東京音楽大学](../Page/東京音楽大学.md "wikilink")ピアノ科に進学した経歴を持つ人物。特に[ショパンを愛好しており](../Page/フレデリック・ショパン.md "wikilink")、[ワルシャワ](../Page/ワルシャワ.md "wikilink")で開催される[ショパン国際ピアノコンクール](../Page/ショパン国際ピアノコンクール.md "wikilink")にIVSテレビ制作賞を設けたり、傘下にもつIVS音楽出版で同コンクール優勝の[ピアニスト](../Page/ピアニスト.md "wikilink")、[スタニスラフ・ブーニン](../Page/スタニスラフ・ブーニン.md "wikilink")を始めとする演奏家のマネージメント業務を行なったりするなどの一面も持ち合わせる企業風土である。
 
 ## 役員
 
   - 名誉会長：斉藤寿孝
-  - 代表取締役会長：[長尾忠彦](https://ja.wikipedia.org/wiki/長尾忠彦 "wikilink")
+  - 代表取締役会長：[長尾忠彦](../Page/長尾忠彦.md "wikilink")
   - 代表取締役社長：福浦与一
   - 取締役副社長：住友正信
   - 常務取締役：錦信次
@@ -31,22 +31,22 @@
   - [1972年](../Page/1972年.md "wikilink")（昭和47年）[11月30日](../Page/11月30日.md "wikilink") - 大阪にて株式会社IVSを設立。
   - [1973年](../Page/1973年.md "wikilink")（昭和48年） - [テリー伊藤](../Page/テリー伊藤.md "wikilink")が入社。
   - [1975年](../Page/1975年.md "wikilink")（昭和50年） - IVSテレビ制作株式会社に社名変更し、法人登録された。
-  - 1975年（昭和50年）10月 - 初のレギュラー番組作品、[読売テレビの](../Page/讀賣テレビ放送.md "wikilink")「[びっくり日本新記録](https://ja.wikipedia.org/wiki/びっくり日本新記録 "wikilink")」を放送開始。
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）4月 - [日本テレビの](../Page/日本テレビ放送網.md "wikilink")「[天才・たけしの元気が出るテレビ\!\!](https://ja.wikipedia.org/wiki/天才・たけしの元気が出るテレビ!! "wikilink")」を放送開始。
+  - 1975年（昭和50年）10月 - 初のレギュラー番組作品、[読売テレビの](../Page/讀賣テレビ放送.md "wikilink")「[びっくり日本新記録](../Page/びっくり日本新記録.md "wikilink")」を放送開始。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）4月 - [日本テレビの](../Page/日本テレビ放送網.md "wikilink")「[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")」を放送開始。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）5月 - 「天才\!たけしの元気が出るテレビ」が、第3回ATP賞の優秀賞と人気番組賞を2つずつ受賞された。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）10月 - [関西テレビの](../Page/関西テレビ放送.md "wikilink")「[ねるとん紅鯨団](https://ja.wikipedia.org/wiki/ねるとん紅鯨団 "wikilink")」を放送開始。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）10月 - [関西テレビの](../Page/関西テレビ放送.md "wikilink")「[ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")」を放送開始。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）4月 - 読売テレビの「[それいけ\!\!ココロジー](../Page/それいけ!!ココロジー.md "wikilink")」を放送開始。
-  - [1992年](../Page/1992年.md "wikilink")（平成4年）4月 - [毎日放送](../Page/毎日放送.md "wikilink")の「[たけし・所のドラキュラが狙ってる](https://ja.wikipedia.org/wiki/たけし・所のドラキュラが狙ってる "wikilink")」を放送開始。
+  - [1992年](../Page/1992年.md "wikilink")（平成4年）4月 - [毎日放送](../Page/毎日放送.md "wikilink")の「[たけし・所のドラキュラが狙ってる](../Page/たけし・所のドラキュラが狙ってる.md "wikilink")」を放送開始。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）4月 - 日本テレビの「[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")」を放送開始。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）10月 - [TBSの](../Page/TBSテレビ.md "wikilink")「[爆笑問題のバク天\!](../Page/爆笑問題のバク天!.md "wikilink")」を放送開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）4月 - フジテレビの「[ネプリーグ](https://ja.wikipedia.org/wiki/ネプリーグ "wikilink")」をゴールデンに進出。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）4月 - フジテレビの「[ネプリーグ](https://ja.wikipedia.org/wiki/ネプリーグ "wikilink")」をゴールデンに進出。
   - 2014年（平成26年）1月30日 - インターネット番組、企業向け動画制作に特化した関連会社、株式会社IVS41（フォーワン）を設立\[1\]。
 
 ## 所属スタッフ
 
 **エグゼグティブプロデューサー**
 
-  - [長尾忠彦](https://ja.wikipedia.org/wiki/長尾忠彦 "wikilink")（会長）
+  - [長尾忠彦](../Page/長尾忠彦.md "wikilink")（会長）
 
 **チーフプロデューサー**
 
@@ -88,7 +88,7 @@
 ## 過去の所属スタッフ
 
   - [テリー伊藤](../Page/テリー伊藤.md "wikilink")（非常勤相談役、株式会社[ロコモーション社長](../Page/ロコモーション_\(企業\).md "wikilink")）
-  - [高橋がなり](https://ja.wikipedia.org/wiki/高橋がなり "wikilink")（[ソフト・オン・デマンド](https://ja.wikipedia.org/wiki/ソフト・オン・デマンド "wikilink")創立者）
+  - [高橋がなり](../Page/高橋がなり.md "wikilink")（[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")創立者）
   - 後藤喜男／杉山和典（株式会社[ジョイマン](../Page/ジョイマン.md "wikilink")社長／取締役）
   - 望月政道（TV・プロデューサー）
   - 稲葉暁智（クイーンズフィルム株式会社取締役）
@@ -101,10 +101,10 @@
   - 駒木純一（株式会社ディレクターズ21 社長）
   - [加藤幸二郎](https://ja.wikipedia.org/wiki/加藤幸二郎 "wikilink")（[AXON](../Page/日テレアックスオン.md "wikilink") 取締役副社長、日本テレビ・元：情報・制作局長）
   - 長江努（株式会社[DIRECTIONS](https://ja.wikipedia.org/wiki/DIRECTIONS "wikilink") 代表取締役）
-  - 山地孝英／山谷和隆／掛水伸一（株式会社[ジーヤマ](https://ja.wikipedia.org/wiki/ジーヤマ "wikilink") 社長／取締役）
+  - 山地孝英／山谷和隆／掛水伸一（株式会社[ジーヤマ](../Page/ジーヤマ.md "wikilink") 社長／取締役）
   - 佐藤俊一／田口マサキ（株式会社[アンメック](https://ja.wikipedia.org/wiki/アンメック "wikilink") 社長／取締役）
   - 纐纈勇人（株式会社ドラゴンエンタテインメント 社長）
-  - [和田薫](https://ja.wikipedia.org/wiki/和田薫_\(芸能事務所社長\) "wikilink") (株式会社[ハーモニープロモーション](../Page/ハーモニープロモーション.md "wikilink") 社長）
+  - [和田薫](../Page/和田薫_\(芸能事務所社長\).md "wikilink") (株式会社[ハーモニープロモーション](../Page/ハーモニープロモーション.md "wikilink") 社長）
   - [長久弦](https://ja.wikipedia.org/wiki/長久弦 "wikilink")／安西義裕（株式会社[ガッツエンターテイメント](../Page/ガッツエンターテイメント.md "wikilink") 社長／副社長）
   - 丹羽夕美子（アイブリックスタジオ株式会社 取締役）
   - [マッコイ斉藤](https://ja.wikipedia.org/wiki/マッコイ斉藤 "wikilink")（[笑軍様](https://ja.wikipedia.org/wiki/笑軍様 "wikilink") 社長）
@@ -122,7 +122,7 @@
   - 比留間利幸
   - 古賀謙一（株式会社ガッツエンターテイメント）
   - [岡宗秀吾](https://ja.wikipedia.org/wiki/岡宗秀吾 "wikilink")（株式会社 Bacon 社長）
-  - 水口智就（株式会社[極東電視台](https://ja.wikipedia.org/wiki/極東電視台 "wikilink") 執行役員）
+  - 水口智就（株式会社[極東電視台](../Page/極東電視台.md "wikilink") 執行役員）
   - 小平寛
   - 山岡拓也
   - [後藤隆一郎](https://ja.wikipedia.org/wiki/後藤隆一郎 "wikilink")（[株式会社イマジネーション](https://ja.wikipedia.org/wiki/株式会社イマジネーション "wikilink") 代表取締役）
@@ -164,7 +164,7 @@
 
 <!-- end list -->
 
-  - [びっくり日本新記録](https://ja.wikipedia.org/wiki/びっくり日本新記録 "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")　1975年10月5日 - 1976年9月27日）
+  - [びっくり日本新記録](../Page/びっくり日本新記録.md "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビネットワーク協議会.md "wikilink")　1975年10月5日 - 1976年9月27日）
   - [おしかけのど自慢](https://ja.wikipedia.org/wiki/おしかけのど自慢 "wikilink")（読売テレビ、日本テレビ系列　1977年10月 - 1978年9月）
   - [ザ・びっくりショー](https://ja.wikipedia.org/wiki/ザ・びっくりショー "wikilink")（関西テレビ　1979年7月 - 1980年3月）
 
@@ -200,23 +200,23 @@
   - [ちょっと夜あそび](https://ja.wikipedia.org/wiki/ちょっと夜あそび "wikilink")（テレビ東京　1982年3月 - 9月）
   - [わっ\!\!ツービートだ](../Page/わっ!!ツービートだ.md "wikilink")（日本テレビ系列全国ネット　1982年4月28日 - 9月29日）
   - [面白アニメランド](https://ja.wikipedia.org/wiki/面白アニメランド "wikilink")（テレビ東京[系列全国ネット](https://ja.wikipedia.org/wiki/TXN "wikilink")　1984年10月25日 - 1985年3月28日）
-  - [天才・たけしの元気が出るテレビ\!\!](https://ja.wikipedia.org/wiki/天才・たけしの元気が出るテレビ!! "wikilink")（日本テレビ系列全国ネット　1985年4月14日 - 1995年9月）
+  - [天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")（日本テレビ系列全国ネット　1985年4月14日 - 1995年9月）
   - [全日本そっくりショー](https://ja.wikipedia.org/wiki/全日本そっくりショー "wikilink")（テレビ東京系列全国ネット　1985年4月17日 - 6月26日）
   - [勝手に笑ってランド](https://ja.wikipedia.org/wiki/面白アニメランド "wikilink")（テレビ東京系列全国ネット　1985年4月18日 - 6月27日）
   - [夢のコドモニヨン王国](https://ja.wikipedia.org/wiki/夢のコドモニヨン王国 "wikilink")（テレビ東京系列全国ネット　1986年5月2日 - 6月13日）
   - [コムサデ・とんねるず](https://ja.wikipedia.org/wiki/コムサデ・とんねるず "wikilink")（フジテレビ系列の一部ネット局　1986年10月10日 - 1987年3月）
-  - [上海紅鯨団が行く](https://ja.wikipedia.org/wiki/上海紅鯨団が行く "wikilink")（関西テレビ、フジテレビ系列全国ネット　1986年10月11日 - 1987年9月26日）
+  - [上海紅鯨団が行く](../Page/上海紅鯨団が行く.md "wikilink")（関西テレビ、フジテレビ系列全国ネット　1986年10月11日 - 1987年9月26日）
   - [純ちゃん郁恵の自慢じゃないけど](../Page/純ちゃん郁恵の自慢じゃないけど.md "wikilink")（テレビ朝日系列全国ネット　1986年10月13日 - 1987年2月2日）
-  - [ねるとん紅鯨団](https://ja.wikipedia.org/wiki/ねるとん紅鯨団 "wikilink")（関西テレビ、フジテレビ系列全国ネット　1987年10月3日 - 1994年12月24日）
+  - [ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")（関西テレビ、フジテレビ系列全国ネット　1987年10月3日 - 1994年12月24日）
   - [嵐を呼ぶテレビ](https://ja.wikipedia.org/wiki/嵐を呼ぶテレビ "wikilink")（フジテレビ系列の一部ネット局　1987年4月 - 9月）
   - [ギブUPまで待てない\!\!ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")（テレビ朝日系列全国ネット　1987年4月7日 - 9月21日）
   - ワイワイ大阪 〜WHY?〜（[テレビ大阪](../Page/テレビ大阪.md "wikilink")、関西ローカル　1987年7月 - 9月）
-  - [美少女学園](https://ja.wikipedia.org/wiki/美少女学園 "wikilink")（テレビ朝日系列の一部ネット局　1987年11月1日 - 1988年4月3日）
+  - [美少女学園](../Page/美少女学園.md "wikilink")（テレビ朝日系列の一部ネット局　1987年11月1日 - 1988年4月3日）
   - [キラリ\!美少女](../Page/キラリ!美少女.md "wikilink")（テレビ朝日系列の一部ネット局　1988年4月10日 - 9月25日）
   - [ビートたけしの全日本お笑い研究所](../Page/ビートたけしの全日本お笑い研究所.md "wikilink")（日本テレビ系列全国ネット　1988年4月13日 - 6月15日）
   - [電影館](https://ja.wikipedia.org/wiki/電影館 "wikilink")（フジテレビ系列の一部ネット局　1988年4月 - 9月）
   - [番組の途中ですが…再びたけしです](../Page/ビートたけしの全日本お笑い研究所.md "wikilink")（日本テレビ系列全国ネット　1988年6月22日 - 9月14日）
-  - [眠くなるテレビ](https://ja.wikipedia.org/wiki/眠くなるテレビ "wikilink")（フジテレビ系列の一部ネット局　1988年10月 - 12月、[JOCX-TV2](https://ja.wikipedia.org/wiki/JOCX-TV2 "wikilink")枠）
+  - [眠くなるテレビ](https://ja.wikipedia.org/wiki/眠くなるテレビ "wikilink")（フジテレビ系列の一部ネット局　1988年10月 - 12月、[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")枠）
   - [これが世紀の珍実験](https://ja.wikipedia.org/wiki/これが世紀の珍実験 "wikilink")（毎日放送、関西ローカル　1989年2月 - 3月）
 
 <!-- end list -->
@@ -226,7 +226,7 @@
 <!-- end list -->
 
   - [全日本そっくり大賞](https://ja.wikipedia.org/wiki/全日本そっくり大賞 "wikilink")（テレビ東京系列全国ネット　1981年8月 - 1995年9月、過去に53回わたって放映）
-  - [第1回素人変装グランプリ・仁義なき家族大集合\!\!](https://ja.wikipedia.org/wiki/変装グランプリ "wikilink")（日本テレビ系列全国ネット　1982年3月27日、[土曜トップスペシャル](https://ja.wikipedia.org/wiki/土曜トップスペシャル "wikilink")枠）
+  - [第1回素人変装グランプリ・仁義なき家族大集合\!\!](https://ja.wikipedia.org/wiki/変装グランプリ "wikilink")（日本テレビ系列全国ネット　1982年3月27日、[土曜トップスペシャル](../Page/土曜トップスペシャル.md "wikilink")枠）
   - 爆笑\!\!第2回家族㊙変装大作戦\!\!（日本テレビ系列全国ネット　1983年2月19日、土曜トップスペシャル枠）
   - [紅白そっくり大賞](https://ja.wikipedia.org/wiki/紅白そっくり大賞 "wikilink")（フジテレビ系列全国ネット　1984年6月19日 - 1987年10月9日、過去に10回わたって放映）
   - [首都大操作\!24時間大脱走グランプリ](https://ja.wikipedia.org/wiki/東京24時間鬼ごっこ "wikilink")（フジテレビ系列全国ネット　1988年6月、金曜おもしろバラエティ枠）
@@ -255,7 +255,7 @@
   - [それいけ×ココロジー](../Page/それいけ!!ココロジー.md "wikilink")（読売テレビ、日本テレビ系列全国ネット　1991年4月20日 - 1992年3月21日）
   - [痛快\!いたずらジャジャンボ](https://ja.wikipedia.org/wiki/痛快!いたずらジャジャンボ "wikilink")（テレビ朝日系列全国ネット　1992年1月 - 3月）
   - [Daytona-TV](https://ja.wikipedia.org/wiki/Daytona-TV "wikilink")（TBS系列の一部ネット局　1992年4月 - 1993年9月）
-  - [たけし・所のドラキュラが狙ってる](https://ja.wikipedia.org/wiki/たけし・所のドラキュラが狙ってる "wikilink")（毎日放送、TBS系列全国ネット　1992年4月19日 - 1995年3月26日）
+  - [たけし・所のドラキュラが狙ってる](../Page/たけし・所のドラキュラが狙ってる.md "wikilink")（毎日放送、TBS系列全国ネット　1992年4月19日 - 1995年3月26日）
   - [素敵にテイクオフ](https://ja.wikipedia.org/wiki/素敵にテイクオフ "wikilink")（テレビ大阪、関西ローカル　1993年4月 - 7月）
   - [所さんのワーワーブーブー](https://ja.wikipedia.org/wiki/所さんのワーワーブーブー "wikilink")（TBS系列の一部ネット局　1993年10月3日 - 1995年3月）
   - [ザッツ\!](https://ja.wikipedia.org/wiki/ムーブ_\(バラエティー\)#ザッツ!枠 "wikilink") [関口宏のPAPAパラダイス](https://ja.wikipedia.org/wiki/関口宏のPAPAパラダイス "wikilink")（TBS系列全国ネット　1993年10月11日 - 1994年3月21日）
@@ -264,7 +264,7 @@
   - [東京Jr.ジャンク](https://ja.wikipedia.org/wiki/東京Jr.ジャンク "wikilink")（日本テレビ系列の一部ネット局　1995年4月 - 1996年3月）
   - [噂になりたい](https://ja.wikipedia.org/wiki/噂になりたい "wikilink")（関西テレビ、関西ローカル　1995年4月 - 1999年9月）
   - [マニア林蔵](https://ja.wikipedia.org/wiki/マニア林蔵 "wikilink")（TBS系列の一部ネット局　1995年10月 - 1996年3月）
-  - [超天才・たけしの元気が出るテレビ\!\!](https://ja.wikipedia.org/wiki/天才・たけしの元気が出るテレビ!! "wikilink")（日本テレビ系列全国ネット　1995年10月 - 1996年10月6日）
+  - [超天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")（日本テレビ系列全国ネット　1995年10月 - 1996年10月6日）
   - [鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")（日本テレビ系列全国ネット　1995年11月2日 - 1998年3月30日）
   - [モンキーパーティー](https://ja.wikipedia.org/wiki/モンキーパーティー "wikilink")（日本テレビ系列全国ネット　1996年10月 - 1997年9月）
   - [ロンブー荘青春記](https://ja.wikipedia.org/wiki/ロンブー荘青春記 "wikilink")（日本テレビ系列全国ネット　1997年9月29日 - 1998年9月28日）
@@ -274,7 +274,7 @@
   - [ろみひー](../Page/ろみひー.md "wikilink")（中京テレビ、日本テレビ系列全国ネット　1998年4月1日 - 2003年3月31日）
   - **[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")**（日本テレビ系列全国ネット　1998年4月12日 - ）
   - [はばたけ\!ペンギン](../Page/はばたけ!ペンギン.md "wikilink")（TBS系列全国ネット　1998年4月15日 - 8月26日）
-  - [ロンブー龍](https://ja.wikipedia.org/wiki/ロンブー龍 "wikilink")（日本テレビ系列全国ネット　1998年10月4日 - 2005年3月27日）
+  - [ロンブー龍](../Page/ロンブー龍.md "wikilink")（日本テレビ系列全国ネット　1998年10月4日 - 2005年3月27日）
   - [PAKU<sup>2</sup>グルメんぼ](../Page/PAKU2グルメんぼ.md "wikilink")（テレビ朝日系列全国ネット　1998年10月15日 - 1999年3月11日）
   - [恋ボーイ恋ガール](../Page/恋ボーイ恋ガール.md "wikilink")（フジテレビ系列全国ネット　1999年4月15日 - 9月9日）
   - [力の限りゴーゴゴー\!\!](../Page/力の限りゴーゴゴー!!.md "wikilink")（フジテレビ系列全国ネット　1999年10月13日 - 2002年9月11日）
@@ -287,7 +287,7 @@
 
   - [史上最高そっくり大賞](../Page/史上最高そっくり大賞.md "wikilink")（日本テレビ系列全国ネット　1990年4月 - 1994年10月）
   - 光GENJI新春をぶっとばせ\!（[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、TBS系列全国ネット　1993年1月3日）
-  - [ものまねバトル](https://ja.wikipedia.org/wiki/ものまねバトル "wikilink")（日本テレビ系列全国ネット　1994年12月14日 - 2009年1月4日）
+  - [ものまねバトル](../Page/ものまねバトル.md "wikilink")（日本テレビ系列全国ネット　1994年12月14日 - 2009年1月4日）
 
 </div>
 
@@ -309,8 +309,8 @@
 
   - [プチ・マリッジ](../Page/プチマリッジ.md "wikilink")（フジテレビ系列全国ネット　2002年4月10日 - 9月25日）
   - [やしがにのウインク](../Page/やしがにのウインク.md "wikilink")（フジテレビ系列全国ネット　2002年4月13日 - 9月28日）
-  - [爆笑問題のススメ](../Page/爆笑問題のススメ.md "wikilink")（[札幌テレビ](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")、日本テレビ系列全国ネット　2002年9月30日 - 2006年3月31日）
-  - [NEPTUNEPRESENTS 日本列島元気満点\! 力あわせてゴーゴゴー\!\!](https://ja.wikipedia.org/wiki/NEPTUNEPRESENTS_日本列島元気満点!_力あわせてゴーゴゴー!! "wikilink")（フジテレビ系列全国ネット　2002年10月9日 - 2003年3月19日）
+  - [爆笑問題のススメ](../Page/爆笑問題のススメ.md "wikilink")（[札幌テレビ](../Page/札幌テレビ放送.md "wikilink")、日本テレビ系列全国ネット　2002年9月30日 - 2006年3月31日）
+  - [NEPTUNEPRESENTS 日本列島元気満点\! 力あわせてゴーゴゴー\!\!](../Page/NEPTUNEPRESENTS_日本列島元気満点!_力あわせてゴーゴゴー!!.md "wikilink")（フジテレビ系列全国ネット　2002年10月9日 - 2003年3月19日）
   - [ネプリーグ 深夜版](https://ja.wikipedia.org/wiki/ネプリーグ_\(深夜時代\) "wikilink")（フジテレビ系列全国ネット　2003年4月16日 - 2005年3月30日）
   - [爆笑問題のバク天\!](../Page/爆笑問題のバク天!.md "wikilink")（TBS系列全国ネット　2003年10月11日 - 2006年3月4日）
   - [交通バラエティ 日本の歩きかた](https://ja.wikipedia.org/wiki/交通バラエティ_日本の歩きかた "wikilink")（フジテレビ系列の一部ネット局　2003年10月13日 - 2004年3月8日）
@@ -463,10 +463,10 @@
   - [クイズスクエア](https://ja.wikipedia.org/wiki/うそつきクイズ#クイズ_スクエア "wikilink")（日本テレビ系列全国ネット　1980年4月14日 - 9月26日）
   - [生けどりゲーム・姫をねらえ](https://ja.wikipedia.org/wiki/生けどりゲーム・姫をねらえ "wikilink")（読売テレビ、日本テレビ系列全国ネット　1980年4月 - 9月）
   - [逆転クイズ スーパービンゴ](../Page/逆転クイズ_スーパービンゴ.md "wikilink")（日本テレビ系列全国ネット　1980年11月5日 - 1981年3月25日）
-  - [スター爆笑Q\&A](https://ja.wikipedia.org/wiki/スター爆笑Q&A "wikilink")（読売テレビ、日本テレビ系列全国ネット　1982年3月1日 - 1992年3月16日）
-  - [おもしろ博士クイズ](https://ja.wikipedia.org/wiki/おもしろ博士クイズ "wikilink")（日本テレビ系列全国ネット　1982年11月8日 - 1983年6月27日）
-  - [おもしろクイズBOX](https://ja.wikipedia.org/wiki/おもしろクイズBOX "wikilink")（日本テレビ系列全国ネット　1983年7月4日 - 1985年6月24日）
-  - [クイズ ラブラブジャンプ](https://ja.wikipedia.org/wiki/クイズ_ラブラブジャンプ "wikilink")（日本テレビ系列全国ネット　1984年1月8日 - 3月25日）
+  - [スター爆笑Q\&A](../Page/スター爆笑Q&A.md "wikilink")（読売テレビ、日本テレビ系列全国ネット　1982年3月1日 - 1992年3月16日）
+  - [おもしろ博士クイズ](../Page/おもしろ博士クイズ.md "wikilink")（日本テレビ系列全国ネット　1982年11月8日 - 1983年6月27日）
+  - [おもしろクイズBOX](../Page/おもしろクイズBOX.md "wikilink")（日本テレビ系列全国ネット　1983年7月4日 - 1985年6月24日）
+  - [クイズ ラブラブジャンプ](../Page/クイズ_ラブラブジャンプ.md "wikilink")（日本テレビ系列全国ネット　1984年1月8日 - 3月25日）
   - [クイズ データとこ勝負\!\!](https://ja.wikipedia.org/wiki/クイズ_データとこ勝負!! "wikilink")（テレビ東京系列全国ネット　1985年10月14日 - 1986年3月24日）
   - [愛川欽也の不思議ミステリーツアー](../Page/愛川欽也の不思議ミステリーツアー.md "wikilink")（テレビ東京系列全国ネット　1989年4月 - 1990年9月）
   - [アッコのかるーく見てみたい](https://ja.wikipedia.org/wiki/アッコのかるーく見てみたい "wikilink")（TBS系列全国ネット　1989年10月13日 - 1990年9月15日）
@@ -526,9 +526,9 @@
 
 <!-- end list -->
 
-  - [頭脳バトル BRAIN MAX](https://ja.wikipedia.org/wiki/頭脳バトルBRAIN-X "wikilink")（[BS日テレ](../Page/BS日本.md "wikilink")、衛星放送　2001年10月6日 - 2004年3月27日）
-  - [ロンQ\!ハイランド](https://ja.wikipedia.org/wiki/ロンQ!ハイランド "wikilink")（日本テレビ系列全国ネット　2005年4月3日 - 2008年9月28日）
-  - [頭脳バトル BRAIN-X](https://ja.wikipedia.org/wiki/頭脳バトルBRAIN-X "wikilink")（BS日テレ、衛星放送　2004年4月3日 - 2005年3月26日）
+  - [頭脳バトル BRAIN MAX](../Page/頭脳バトルBRAIN-X.md "wikilink")（[BS日テレ](../Page/BS日本.md "wikilink")、衛星放送　2001年10月6日 - 2004年3月27日）
+  - [ロンQ\!ハイランド](../Page/ロンQ!ハイランド.md "wikilink")（日本テレビ系列全国ネット　2005年4月3日 - 2008年9月28日）
+  - [頭脳バトル BRAIN-X](../Page/頭脳バトルBRAIN-X.md "wikilink")（BS日テレ、衛星放送　2004年4月3日 - 2005年3月26日）
   - **[ネプリーグ](https://ja.wikipedia.org/wiki/ネプリーグ "wikilink")**（フジテレビ系列全国ネット　2005年4月18日 - ）
 
 <!-- end list -->
@@ -627,8 +627,8 @@
   - [枝雀倶楽部](https://ja.wikipedia.org/wiki/枝雀倶楽部 "wikilink")（[テレビ大阪](../Page/テレビ大阪.md "wikilink")、関西ローカル　1987年1月 - 6月）
   - [味の素・世界ごちそうさま\!\!](https://ja.wikipedia.org/wiki/味の素・世界ごちそうさま!! "wikilink")（日本テレビ系列全国ネット　1987年6月20日 - 1988年10月8日）
   - [味の素ごちそうさまワールド・地球おいしいぞ\!\!](https://ja.wikipedia.org/wiki/味の素ごちそうさまワールド・地球おいしいぞ!! "wikilink")（日本テレビ系列全国ネット　1988年10月15日 - 1989年10月28日）
-  - [たけしのここだけの話](https://ja.wikipedia.org/wiki/たけしのここだけの話 "wikilink")（関西テレビ、フジテレビ系列全国ネット　1988年10月2日 - 1990年9月30日）
-  - [知ってるつもり?\!](https://ja.wikipedia.org/wiki/知ってるつもり?! "wikilink")（日本テレビ系列全国ネット　1989年10月8日 - 2002年3月24日）
+  - [たけしのここだけの話](../Page/たけしのここだけの話.md "wikilink")（関西テレビ、フジテレビ系列全国ネット　1988年10月2日 - 1990年9月30日）
+  - [知ってるつもり?\!](../Page/知ってるつもり?!.md "wikilink")（日本テレビ系列全国ネット　1989年10月8日 - 2002年3月24日）
 
 <!-- end list -->
 
@@ -656,17 +656,17 @@
   - [愛川欽也のロマン探訪](https://ja.wikipedia.org/wiki/愛川欽也のロマン探訪 "wikilink")（テレビ東京系列全国ネット　1991年4月17日 - 9月18日）
   - [マーチの贈り物](https://ja.wikipedia.org/wiki/マーチの贈り物 "wikilink")（テレビ大阪、関西ローカル　1991年10月 - 1992年4月）
   - [世界の休日](https://ja.wikipedia.org/wiki/世界の休日 "wikilink")（日本テレビ、関東ローカル　1992年4月 - 1993年3月）
-  - [2時のワイドショー](https://ja.wikipedia.org/wiki/2時のワイドショー "wikilink")（読売テレビ、日本テレビ系列全国ネット　1992年4月6日 - 10月2日）
+  - [2時のワイドショー](../Page/2時のワイドショー.md "wikilink")（読売テレビ、日本テレビ系列全国ネット　1992年4月6日 - 10月2日）
   - [ワンダーゾーン](../Page/ワンダーゾーン.md "wikilink")（読売テレビ、日本テレビ系列全国ネット　1992年4月13日 - 1993年3月22日）
-  - [みのもんたの見たい知りたい](https://ja.wikipedia.org/wiki/みのもんたの見たい知りたい "wikilink")（テレビ朝日系列全国ネット　1993年4月 - 1994年3月）
+  - [みのもんたの見たい知りたい](../Page/みのもんたの見たい知りたい.md "wikilink")（テレビ朝日系列全国ネット　1993年4月 - 1994年3月）
   - [関口宏のびっくりトーク ハトがでますよ\!](../Page/関口宏のびっくりトーク_ハトがでますよ!.md "wikilink")（読売テレビ、日本テレビ系列全国ネット　1993年4月12日 - 1995年9月）
   - [モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")（日本テレビ系列全国ネット　1993年4月17日 - 2003年9月27日）
   - [教えてあげない](https://ja.wikipedia.org/wiki/教えてあげない "wikilink")（読売テレビ、日本テレビ系列全国ネット　1994年4月29日 - 9月23日）
   - [バレエ誕生](https://ja.wikipedia.org/wiki/バレエ誕生 "wikilink")（テレビ東京系列全国ネット　1994年7月 - 1996年3月）
   - [宵待5](../Page/宵待5.md "wikilink")（毎日放送、関西ローカル　1994年9月5日 - 1996年9月27日）大
   - [はーい\!昼ナマ](../Page/はーい!昼ナマ.md "wikilink")（毎日放送、TBS系列の一部ネット局　1996年10月7日 - 1998年9月25日）
-  - [女神の天秤](https://ja.wikipedia.org/wiki/女神の天秤 "wikilink")（TBS系列全国ネット　1996年10月16日 - 1998年3月11日）
-  - [特命リサーチ200X](https://ja.wikipedia.org/wiki/特命リサーチ200X "wikilink")（日本テレビ系列全国ネット　1996年10月27日 - 2002年1月27日）
+  - [女神の天秤](../Page/女神の天秤.md "wikilink")（TBS系列全国ネット　1996年10月16日 - 1998年3月11日）
+  - [特命リサーチ200X](../Page/特命リサーチ200X.md "wikilink")（日本テレビ系列全国ネット　1996年10月27日 - 2002年1月27日）
 
 <!-- end list -->
 
@@ -691,8 +691,8 @@
 <!-- end list -->
 
   - [ららら日記](https://ja.wikipedia.org/wiki/ららら日記 "wikilink")（日本テレビ、関東ローカル　2001年4月 - 2004年3月、ミニ番組）
-  - [特命リサーチ200X](https://ja.wikipedia.org/wiki/特命リサーチ200X "wikilink")-II（日本テレビ系列全国ネット　2002年2月3日 - 2004年3月7日）
-  - [冒険\!CHEERS\!\!](https://ja.wikipedia.org/wiki/冒険!CHEERS!! "wikilink")（日本テレビ系列全国ネット　2003年10月4日 - 2005年3月26日）
+  - [特命リサーチ200X](../Page/特命リサーチ200X.md "wikilink")-II（日本テレビ系列全国ネット　2002年2月3日 - 2004年3月7日）
+  - [冒険\!CHEERS\!\!](../Page/冒険!CHEERS!!.md "wikilink")（日本テレビ系列全国ネット　2003年10月4日 - 2005年3月26日）
   - [わくわく流](https://ja.wikipedia.org/wiki/わくわく流 "wikilink")（日本テレビ、関東ローカル　2004年4月5日 - 10月1日、ミニ番組）
 
 <!-- end list -->
@@ -721,7 +721,7 @@
   - [YOU MAY DREAM](https://ja.wikipedia.org/wiki/YOU_MAY_DREAM "wikilink")（テレビ朝日、関東ローカル　2013年4月20日 - 2014年3月29日、ミニ番組）
   - [わんニャン倶楽部〜動物と楽しく暮らそう〜](https://ja.wikipedia.org/wiki/わんニャン倶楽部〜動物と楽しく暮らそう〜 "wikilink")（[BS日テレ](../Page/BS日本.md "wikilink")、衛星放送　2014年10月7日 - 2017年3月28日）
   - [さんぽサンデー](https://ja.wikipedia.org/wiki/さんぽサンデー "wikilink")（テレビ朝日系列全国ネット　2015年7月5日 - 11月29日）
-  - **[芸人先生](https://ja.wikipedia.org/wiki/芸人先生 "wikilink")**（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")　2018年4月2日 - ）
+  - **[芸人先生](https://ja.wikipedia.org/wiki/芸人先生 "wikilink")**（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[Eテレ](../Page/NHK教育テレビジョン.md "wikilink")　2018年4月2日 - ）
   - **[＃ストイック女子](https://ja.wikipedia.org/wiki/＃ストイック女子 "wikilink")**（[BS-TBS](../Page/BS-TBS.md "wikilink")、BS衛星放送　2018年10月3日 - ）
 
 <!-- end list -->
@@ -874,9 +874,9 @@
 
 <!-- end list -->
 
-  - [花姉妹](https://ja.wikipedia.org/wiki/花姉妹 "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列全国ネット](../Page/日本テレビネットワーク協議会.md "wikilink")　1986年10月20日 - 1987年4月3日、[朝の連続ドラマ](https://ja.wikipedia.org/wiki/朝の連続ドラマ "wikilink")枠）
+  - [花姉妹](https://ja.wikipedia.org/wiki/花姉妹 "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列全国ネット](../Page/日本テレビネットワーク協議会.md "wikilink")　1986年10月20日 - 1987年4月3日、[朝の連続ドラマ](../Page/朝の連続ドラマ.md "wikilink")枠）
   - [こんな学園みたことない\!](../Page/こんな学園みたことない!.md "wikilink")（読売テレビ、日本テレビ系列全国ネット　1987年10月11日 - 1988年3月27日）
-  - [ドラマREMIX](https://ja.wikipedia.org/wiki/ドラマREMIX "wikilink")（フジテレビ系列の一部ネット局　1989年1月 - 3月、[JOCX-TV2](https://ja.wikipedia.org/wiki/JOCX-TV2 "wikilink")枠）
+  - [ドラマREMIX](https://ja.wikipedia.org/wiki/ドラマREMIX "wikilink")（フジテレビ系列の一部ネット局　1989年1月 - 3月、[JOCX-TV2](../Page/JOCX-TV2.md "wikilink")枠）
 
 <!-- end list -->
 
@@ -1039,7 +1039,7 @@
 
 <!-- end list -->
 
-  - [バカリズム](https://ja.wikipedia.org/wiki/バカリズム "wikilink") 〜フルーツ〜（[クリエイティヴ・コア](https://ja.wikipedia.org/wiki/クリエイティヴ・コア "wikilink")　2004年7月22日）
+  - [バカリズム](../Page/バカリズム.md "wikilink") 〜フルーツ〜（[クリエイティヴ・コア](https://ja.wikipedia.org/wiki/クリエイティヴ・コア "wikilink")　2004年7月22日）
   - [アンガールズ](../Page/アンガールズ.md "wikilink") 〜ナタリー〜（クリエイティヴ・コア　2004年8月4日）
   - 高田純次 適当伝説 〜序章・勝手にやっちゃいました〜（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")　2007年3月21日）
 
@@ -1098,12 +1098,12 @@
 ## 関連項目
 
   - [テリー伊藤](../Page/テリー伊藤.md "wikilink")
-  - [高橋がなり](https://ja.wikipedia.org/wiki/高橋がなり "wikilink")
+  - [高橋がなり](../Page/高橋がなり.md "wikilink")
   - [フジ・メディア・テクノロジー](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")
-      - [八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")（旧社名）
+      - [八峯テレビ](../Page/八峯テレビ.md "wikilink")（旧社名）
           - [元木宏](../Page/元木宏.md "wikilink")
-  - [スタジオヴェルト](https://ja.wikipedia.org/wiki/スタジオヴェルト "wikilink")
-  - [ジーヤマ](https://ja.wikipedia.org/wiki/ジーヤマ "wikilink")
+  - [スタジオヴェルト](../Page/スタジオヴェルト.md "wikilink")
+  - [ジーヤマ](../Page/ジーヤマ.md "wikilink")
 
 ## 外部リンク
 

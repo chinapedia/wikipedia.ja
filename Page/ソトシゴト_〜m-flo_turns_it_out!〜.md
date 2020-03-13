@@ -12,13 +12,13 @@ CDジャケットで[ターンテーブル](https://ja.wikipedia.org/wiki/ター
 1.  TABOO \[a tip of M-FLO remix\] / [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")
 2.  Love can't wait feat. [LISA](../Page/LISA_\(歌手\).md "wikilink") / [DJ HASEBE](../Page/DJ_HASEBE.md "wikilink")（初回盤のみの収録）
 3.  BEACH STAR HIGH vs [Verbal](https://ja.wikipedia.org/wiki/VERBAL "wikilink") from m-flo / [ajapai](https://ja.wikipedia.org/wiki/ajapai "wikilink")
-4.  the love hole / [K.](https://ja.wikipedia.org/wiki/K. "wikilink") featuring verbal from m-flo
-5.  Beautiful Days \[TAKU'S GARAGE MIX\] / [Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")
+4.  the love hole / [K.](../Page/K..md "wikilink") featuring verbal from m-flo
+5.  Beautiful Days \[TAKU'S GARAGE MIX\] / [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")
 6.  You Said. \[Serenidade Blue Bossa Mix\] / [blue on blue](https://ja.wikipedia.org/wiki/blue_on_blue "wikilink") featuring LISA
 7.  SHINE IN MY LIFE / [GTS](../Page/GTS_\(DJグループ\).md "wikilink") feat. [MELODIE SEXTON](https://ja.wikipedia.org/wiki/MELODIE_SEXTON "wikilink") & m-flo
 8.  静かなまぼろし / m-flo
 9.  Freak Me \[featuring LISA (m-flo)\] / [Joi](https://ja.wikipedia.org/wiki/Joi "wikilink")
-10. Believe the Light / [TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink") with LISA
+10. Believe the Light / [TRICERATOPS](../Page/TRICERATOPS.md "wikilink") with LISA
 
 ### Disc 2
 
@@ -26,7 +26,7 @@ CDジャケットで[ターンテーブル](https://ja.wikipedia.org/wiki/ター
 2.  BEHIND THE MASK \[Farewell, Mr.S3000 Remix\] / [YMO](../Page/イエロー・マジック・オーケストラ.md "wikilink")
 3.  Make Me Happy / [DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")
 4.  DYAD (The Chronicle) \[VIDEO VERSION\] / DJ TONK feat. ROCKET SCIENCE
-5.  planet earth / [Ram Jam World](https://ja.wikipedia.org/wiki/Ram_Jam_World "wikilink")
+5.  planet earth / [Ram Jam World](../Page/Ram_Jam_World.md "wikilink")
 6.  GIVE IT A TRY / [DAISUKE IMAI](https://ja.wikipedia.org/wiki/今井大介 "wikilink") FEAT. VERBAL (m-flo)
 7.  リアリティ / [松任谷由実](../Page/松任谷由実.md "wikilink")
 8.  Violet Nude \[m-flo's Soulstice Mix\] / [嶋野百恵](../Page/嶋野百恵.md "wikilink")
@@ -37,6 +37,6 @@ CDジャケットで[ターンテーブル](https://ja.wikipedia.org/wiki/ター
 ## 外部リンク
 
   - [m-flo.com](http://www.m-flo.com/) - m-flo公式サイト
-  - [Artimage](http://www.artimage.co.jp/) - m-flo所属事務所[Artimage公式サイト](https://ja.wikipedia.org/wiki/ARTIMAGE "wikilink")
+  - [Artimage](http://www.artimage.co.jp/) - m-flo所属事務所[Artimage公式サイト](../Page/ARTIMAGE.md "wikilink")
 
 [Category:m-floのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:m-floのベスト・アルバム "wikilink") [Category:2001年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2001年のベスト・アルバム "wikilink") [Category:コラボレーション・ベスト・アルバム](https://ja.wikipedia.org/wiki/Category:コラボレーション・ベスト・アルバム "wikilink")

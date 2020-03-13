@@ -44,7 +44,7 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
   - [ビデオ出力つきで](../Page/コンポジット映像信号.md "wikilink")、[NTSC](../Page/NTSC.md "wikilink")、[PAL](../Page/PAL.md "wikilink")規格のテレビジョン受像機に接続可能。
   - 7.6MHz(3.579545MHz×2）駆動の[MC68000](../Page/MC68000.md "wikilink")以上の速度の32ビットMPUを搭載。
   - 動画再生機能はオプション、または標準装備であり、ISO11172規格に基づくMPEG-1、[ビデオCD](../Page/ビデオCD.md "wikilink")の再生が可能。
-  - [マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[ジョイパッド](https://ja.wikipedia.org/wiki/ゲームパッド "wikilink")、[トラックボール](../Page/トラックボール.md "wikilink")等の[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")をシームレスに同時使用可能。
+  - [マウス](../Page/マウス_\(コンピュータ\).md "wikilink")、[ジョイパッド](../Page/ゲームパッド.md "wikilink")、[トラックボール](../Page/トラックボール.md "wikilink")等の[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")をシームレスに同時使用可能。
   - 曲目等のデータを表示、保存できる高機能CD再生機能を装備。
 
 ### 実際に発売されたCD-iプレーヤー
@@ -55,13 +55,13 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
       - CDI450 - TVゲーム機風の筐体を持つCD-iプレーヤー。最廉価な形式だが、日本国内では、3～4万円程度した。
       - CDI550 - CDI450に、動画再生機能を付加したもの。
   - [ソニー](../Page/ソニー.md "wikilink") - 業務用ポータブルCD-iプレーヤーを発売した。一般向けには販売されなかった。
-  - [マスプロ電工](https://ja.wikipedia.org/wiki/マスプロ電工 "wikilink") - 日本でカーナビ+ポータブルCD-iプレーヤーを発売した。
+  - [マスプロ電工](../Page/マスプロ電工.md "wikilink") - 日本でカーナビ+ポータブルCD-iプレーヤーを発売した。
 
 ## 日本で販売されたタイトル
 
 ### Philips Interactive Media
 
-輸入/発売元は[日本マランツ](https://ja.wikipedia.org/wiki/日本マランツ "wikilink")
+輸入/発売元は[日本マランツ](../Page/日本マランツ.md "wikilink")
 
 | 型番          | タイトル                                    |
 | ----------- | --------------------------------------- |
@@ -139,5 +139,5 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
 
 [Category:コンパクトディスク](https://ja.wikipedia.org/wiki/Category:コンパクトディスク "wikilink") [Category:オーディオディスク](https://ja.wikipedia.org/wiki/Category:オーディオディスク "wikilink") [Category:ゲーム機](https://ja.wikipedia.org/wiki/Category:ゲーム機 "wikilink")
 
-1.  [太田出版](https://ja.wikipedia.org/wiki/太田出版 "wikilink") CONTINUE 『メガドライブ大全』 Special Interview Vol.3 ゲームアーツ社長宮路洋一氏、p207参照
+1.  [太田出版](../Page/太田出版.md "wikilink") CONTINUE 『メガドライブ大全』 Special Interview Vol.3 ゲームアーツ社長宮路洋一氏、p207参照
 2.  ただし、任天堂は開発や製作には一切関わっていない。

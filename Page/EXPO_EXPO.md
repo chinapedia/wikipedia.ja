@@ -5,9 +5,9 @@
 
 [2012年](../Page/2012年.md "wikilink")のバーチャル[万博](https://ja.wikipedia.org/wiki/万博 "wikilink")という設定である。 [COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")の[Lori Fineや](https://ja.wikipedia.org/wiki/Lori_Fine "wikilink")、[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")の[服部まこ](https://ja.wikipedia.org/wiki/服部まこ "wikilink")らがInterludeで参加。
 
-初回限定で[スクリーンセーバー](https://ja.wikipedia.org/wiki/スクリーンセーバー "wikilink")などの特典が付属。[Mac OS版が動かずにアップデータが配布された](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")。
+初回限定で[スクリーンセーバー](../Page/スクリーンセーバー.md "wikilink")などの特典が付属。[Mac OS版が動かずにアップデータが配布された](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")。
 
-正門 (Interlude) で[日本語](../Page/日本語.md "wikilink")で話す[ニュースキャスター](../Page/ニュースキャスター.md "wikilink")が最後にグローバルアストロライナー号がハイジャックされた事件『[The Replacement Percussionists](https://ja.wikipedia.org/wiki/The_Replacement_Percussionists "wikilink")』に言及していることから、[LISAが脱退するまでのm](../Page/LISA_\(歌手\).md "wikilink")-floのアルバムはすべてストーリーがつながっている事がわかる。
+正門 (Interlude) で[日本語](../Page/日本語.md "wikilink")で話す[ニュースキャスター](../Page/ニュースキャスター.md "wikilink")が最後にグローバルアストロライナー号がハイジャックされた事件『[The Replacement Percussionists](../Page/The_Replacement_Percussionists.md "wikilink")』に言及していることから、[LISAが脱退するまでのm](../Page/LISA_\(歌手\).md "wikilink")-floのアルバムはすべてストーリーがつながっている事がわかる。
 
 ## 収録曲
 
@@ -33,13 +33,13 @@
       - 後にリカットシングルとしてリリースされたLISAとm-floの最後のシングル
 14. [How You Like Me Now?](../Page/How_You_Like_Me_Now?.md "wikilink")
       - 8枚目のシングル、シングル曲とは違いアカペラのフックで始まるアルバムバージョンのようになっている。
-      - [TDK](https://ja.wikipedia.org/wiki/TDK "wikilink") Digital Audio CM ソング
+      - [TDK](../Page/TDK.md "wikilink") Digital Audio CM ソング
 15. アリガトウ (Interlude)
 16. The Bandwagon
 
 ## 外部リンク
 
   - [m-flo.com](http://www.m-flo.com/) - オフィシャルサイト
-  - [ARTIMAGE](http://www.artimage.co.jp/) - 所属事務所[ARTIMAGE](https://ja.wikipedia.org/wiki/ARTIMAGE "wikilink")オフィシャルサイト
+  - [ARTIMAGE](http://www.artimage.co.jp/) - 所属事務所[ARTIMAGE](../Page/ARTIMAGE.md "wikilink")オフィシャルサイト
 
 [Category:M-floのアルバム](https://ja.wikipedia.org/wiki/Category:M-floのアルバム "wikilink") [Category:2001年のアルバム](https://ja.wikipedia.org/wiki/Category:2001年のアルバム "wikilink")

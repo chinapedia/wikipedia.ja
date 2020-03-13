@@ -1,7 +1,7 @@
 > この記事は[Wapedia](https://ja.wikipedia.org/wiki/Wapedia)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Wapedia_ja_fujiama.jpg "wikilink") **Wapedia**（ワペディア） は、[Taptu社によって提供されていた](https://ja.wikipedia.org/wiki/:en:Taptu "wikilink")、[フリー](../Page/フリー.md "wikilink")[百科事典](https://ja.wikipedia.org/wiki/百科事典 "wikilink")[ウィキペディア](https://ja.wikipedia.org/wiki/ウィキペディア "wikilink")の内容を[携帯機器](../Page/携帯機器.md "wikilink")で表示する[サービス](../Page/サービス.md "wikilink")である。[2013年](../Page/2013年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")を最後にサービスが停止された。Wapediaという名称は、WAP（[Wireless Application Protocol](../Page/Wireless_Application_Protocol.md "wikilink")）とWikipediaから造られた[かばん語](https://ja.wikipedia.org/wiki/かばん語 "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Wapedia_ja_fujiama.jpg "wikilink") **Wapedia**（ワペディア） は、[Taptu社によって提供されていた](https://ja.wikipedia.org/wiki/:en:Taptu "wikilink")、[フリー](../Page/フリー.md "wikilink")[百科事典](https://ja.wikipedia.org/wiki/百科事典 "wikilink")[ウィキペディア](../Page/ウィキペディア.md "wikilink")の内容を[携帯機器](../Page/携帯機器.md "wikilink")で表示する[サービス](../Page/サービス.md "wikilink")である。[2013年](../Page/2013年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")を最後にサービスが停止された。Wapediaという名称は、WAP（[Wireless Application Protocol](../Page/Wireless_Application_Protocol.md "wikilink")）とWikipediaから造られた[かばん語](../Page/かばん語.md "wikilink")である。
 
 ## 特徴
 

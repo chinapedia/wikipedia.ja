@@ -1,12 +1,12 @@
 > この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
 
 
-**NEWSレコード**（ニューズレコード）は、かつて日本に存在した[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")。1985年に事業解散。
+**NEWSレコード**（ニューズレコード）は、かつて日本に存在した[レコード会社](../Page/レコード会社.md "wikilink")。1985年に事業解散。
 
 ## 概要
 
-  - [アリスの](https://ja.wikipedia.org/wiki/アリス_\(フォークグループ\) "wikilink")[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")や[さだまさし](../Page/さだまさし.md "wikilink")の[フリーフライトレコード](https://ja.wikipedia.org/wiki/フリーフライトレコード "wikilink")に続き、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")に[松山千春](../Page/松山千春.md "wikilink")、[清須邦義](https://ja.wikipedia.org/wiki/清須邦義 "wikilink")、[加川良](https://ja.wikipedia.org/wiki/加川良 "wikilink")の3名により設立されたレコード会社。販売は、キャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）が取り扱っていた。ちなみに、LPについては当初からNEWSレコードで取り扱っていたが、アルバムの[カセットテープについては](../Page/コンパクトカセット.md "wikilink")、[1982年](../Page/1982年.md "wikilink")3月いっぱいまで、ポニーが取り扱っていた。
-  - NEWSレコード崩壊後、松山千春が移籍した[アルファレコード](https://ja.wikipedia.org/wiki/アルファレコード "wikilink")（現・[アルファミュージック](https://ja.wikipedia.org/wiki/アルファミュージック "wikilink")）にNEWSレーベルが設けられたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発売の松山のアルバム『[あなただけの季節](../Page/あなただけの季節.md "wikilink")』を発表した頃までで、それ以降はNEWSレーベルの表記が消滅している。
+  - [アリスの](../Page/アリス_\(フォークグループ\).md "wikilink")[ポリスター](../Page/ポリスター.md "wikilink")や[さだまさし](../Page/さだまさし.md "wikilink")の[フリーフライトレコード](https://ja.wikipedia.org/wiki/フリーフライトレコード "wikilink")に続き、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")に[松山千春](../Page/松山千春.md "wikilink")、[清須邦義](https://ja.wikipedia.org/wiki/清須邦義 "wikilink")、[加川良](../Page/加川良.md "wikilink")の3名により設立されたレコード会社。販売は、キャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）が取り扱っていた。ちなみに、LPについては当初からNEWSレコードで取り扱っていたが、アルバムの[カセットテープについては](../Page/コンパクトカセット.md "wikilink")、[1982年](../Page/1982年.md "wikilink")3月いっぱいまで、ポニーが取り扱っていた。
+  - NEWSレコード崩壊後、松山千春が移籍した[アルファレコード](../Page/アルファレコード.md "wikilink")（現・[アルファミュージック](https://ja.wikipedia.org/wiki/アルファミュージック "wikilink")）にNEWSレーベルが設けられたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発売の松山のアルバム『[あなただけの季節](../Page/あなただけの季節.md "wikilink")』を発表した頃までで、それ以降はNEWSレーベルの表記が消滅している。
 
 ## レーベル
 
@@ -18,22 +18,22 @@
 
 <!-- end list -->
 
-  - 当初、Northレーベル松山千春、Eastレーベル清須邦義、Westレーベル加川良とし、Southレーベルは新しいアーティスト用に空けておかれた。その後SPEED SHOCKレーベルが創設された。このSPEED SHOCKレーベルからは、[ロンドンレコード](https://ja.wikipedia.org/wiki/ロンドンレコード "wikilink")の倒産に伴って[RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink")の作品が出されたが、RCサクセション本人たちの了解がなく、当時大きな問題となった\[1\]
+  - 当初、Northレーベル松山千春、Eastレーベル清須邦義、Westレーベル加川良とし、Southレーベルは新しいアーティスト用に空けておかれた。その後SPEED SHOCKレーベルが創設された。このSPEED SHOCKレーベルからは、[ロンドンレコード](../Page/ロンドンレコード.md "wikilink")の倒産に伴って[RCサクセション](../Page/RCサクセション.md "wikilink")の作品が出されたが、RCサクセション本人たちの了解がなく、当時大きな問題となった\[1\]
 
 ## 所属アーティスト
 
   - [松山千春](../Page/松山千春.md "wikilink")（Northレーベル）
   - [清須邦義](https://ja.wikipedia.org/wiki/清須邦義 "wikilink")（Eastレーベル）
-  - [加川良](https://ja.wikipedia.org/wiki/加川良 "wikilink")（Westレーベル）
-  - [THE WOOD](https://ja.wikipedia.org/wiki/THE_WOOD "wikilink")（Southレーベル）
+  - [加川良](../Page/加川良.md "wikilink")（Westレーベル）
+  - [THE WOOD](../Page/THE_WOOD.md "wikilink")（Southレーベル）
   - [阿呆鳥](https://ja.wikipedia.org/wiki/阿呆鳥 "wikilink")（Eastレーベル）
   - NICO（nico）（現在は[GARDEN](../Page/GARDEN_\(音楽ユニット\).md "wikilink")）（Eastレーベル）
   - [あんべ光俊](https://ja.wikipedia.org/wiki/あんべ光俊 "wikilink")（AMBE）（Eastレーベル）
-  - [山本コウタロー](https://ja.wikipedia.org/wiki/山本コウタロー "wikilink")（Eastレーベル）
+  - [山本コウタロー](../Page/山本コウタロー.md "wikilink")（Eastレーベル）
   - [レジー・スミス](../Page/レジー・スミス.md "wikilink")（SPEED SHOCKレーベル）
   - [鉄炮光三郎](../Page/鉄砲光三郎.md "wikilink")（SPEED SHOCKレーベル）
-  - [RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink")（ただし、本人たちの了解なし）（SPEED SHOCKレーベル）
-  - Dr.Umezu Band（[梅津和時](https://ja.wikipedia.org/wiki/梅津和時 "wikilink")）（SPEED SHOCKレーベル）
+  - [RCサクセション](../Page/RCサクセション.md "wikilink")（ただし、本人たちの了解なし）（SPEED SHOCKレーベル）
+  - Dr.Umezu Band（[梅津和時](../Page/梅津和時.md "wikilink")）（SPEED SHOCKレーベル）
 
 ## シングルレコード
 
@@ -78,7 +78,7 @@
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>6W0003</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加川良" title="wikilink">加川良</a></p></td>
+<td><p><a href="../Page/加川良.md" title="wikilink">加川良</a></p></td>
 <td><p>コスモス</p></td>
 <td><p>日本海が広がっている</p></td>
 <td><p>1981年3月21日</p></td>
@@ -134,7 +134,7 @@
 <tr class="even">
 <td><p>11</p></td>
 <td><p>7S0010</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_WOOD" title="wikilink">THE WOOD</a></p></td>
+<td><p><a href="../Page/THE_WOOD.md" title="wikilink">THE WOOD</a></p></td>
 <td><p>ロンリネス</p></td>
 <td><p>夜が…</p></td>
 <td><p>1982年7月21日</p></td>
@@ -262,7 +262,7 @@
 <tr class="even">
 <td><p>27</p></td>
 <td><p>7E0026</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山本コウタロー" title="wikilink">山本コウタロー</a></p></td>
+<td><p><a href="../Page/山本コウタロー.md" title="wikilink">山本コウタロー</a></p></td>
 <td><p>美保子へ</p></td>
 <td><p>悲しいくらい普通の別れ</p></td>
 <td><p>1984年9月21日</p></td>
@@ -300,56 +300,56 @@
 
 ### North/East/West/Southレーベル
 
-|         |          |                                                               |                                                                                |             |
-| ------- | -------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- |
-| **No.** | **品番**   | **アーティスト**                                                    | **タイトル名**                                                                      | **発売年月日**   |
-| 1       | N26N0001 | [松山千春](../Page/松山千春.md "wikilink")                            | [浪漫](../Page/浪漫_\(松山千春のアルバム\).md "wikilink")                                   | 1980年5月5日   |
-| 2       | N26E0002 | [清須邦義](https://ja.wikipedia.org/wiki/清須邦義 "wikilink")         | 優しきまわり道                                                                        | 1980年10月21日 |
-| 3       | N28N0003 | 松山千春                                                          | [木枯しに抱かれて](../Page/木枯しに抱かれて_\(松山千春のアルバム\).md "wikilink")                       | 1980年11月21日 |
-| 4       | N28W0004 | [加川良](https://ja.wikipedia.org/wiki/加川良 "wikilink")           | プロポーズ                                                                          | 1981年4月21日  |
-| 5       | N28N0005 | 松山千春                                                          | [時代をこえて](../Page/時代をこえて.md "wikilink")                                         | 1981年5月21日  |
-| 6       | N28E0006 | [阿呆鳥](https://ja.wikipedia.org/wiki/阿呆鳥 "wikilink")           | 阿呆鳥I〜ドラマチック                                                                    | 1981年10月21日 |
-| 7       | N28N0007 | 松山千春                                                          | [起承転結 II](../Page/起承転結_II.md "wikilink")                                       | 1981年11月21日 |
-| 8       | N28N0008 | 松山千春                                                          | [私からの手紙-MY LIFE](../Page/MY_LIFE_\(松山千春のアルバム\).md "wikilink")                  | 1982年2月25日  |
-| 9       | N28E0009 | 阿呆鳥                                                           | 阿呆鳥II〜壁にかけた地図                                                                  | 1982年4月21日  |
-| 10      | N28N0010 | 松山千春                                                          | [大いなる愛よ夢よ](../Page/大いなる愛よ夢よ.md "wikilink")                                     | 1982年5月21日  |
-| 11      | N25S0011 | [THE WOOD](https://ja.wikipedia.org/wiki/THE_WOOD "wikilink") | Once Forever                                                                   | 1982年8月21日  |
-| 12      | N28E0012 | NICO                                                          | To You                                                                         | 1982年10月21日 |
-| 13      | N50N0013 | 松山千春                                                          | [STAGE 7-24-1982 MAKOMANAI SAPPORO](../Page/STAGE_\(松山千春のアルバム\).md "wikilink") | 1982年11月21日 |
-| 14      | N28E0014 | 阿呆鳥                                                           | 阿呆鳥III〜通りすぎた街                                                                  | 1982年12月21日 |
-| 15      | N28S0015 | THE WOOD                                                      | WALTS                                                                          | 1983年3月21日  |
-| 16      | N28N0016 | 松山千春                                                          | [今、失われたものを求めて](../Page/今、失われたものを求めて.md "wikilink")                             | 1983年5月21日  |
-| 17      | N28E0017 | [NICO](../Page/GARDEN_\(音楽ユニット\).md "wikilink")               | VALERIA                                                                        | 1983年7月21日  |
-| 18      | N28E0018 | [あんべ光俊](https://ja.wikipedia.org/wiki/あんべ光俊 "wikilink")       | HEARTS                                                                         | 1983年8月21日  |
-| 19      | N28E0019 | 阿呆鳥                                                           | 阿呆鳥IV〜パブリックレストラン                                                               | 1983年9月21日  |
-| 20      | N28N0020 | 松山千春                                                          | [眠れない時代](../Page/眠れない時代.md "wikilink")                                         | 1983年11月5日  |
-| 21      | N28N0021 | 松山千春                                                          | [愛を贈る](../Page/愛を贈る.md "wikilink")                                             | 1984年5月21日  |
-| 22      | N28E0022 | [AMBE](https://ja.wikipedia.org/wiki/あんべ光俊 "wikilink")        | REAL FANTASY                                                                   | 1984年6月21日  |
-| 23      | N28E0023 | [山本コウタロー](https://ja.wikipedia.org/wiki/山本コウタロー "wikilink")   | 10月の距離                                                                         | 1984年10月21日 |
-| 24      | N28N0024 | 松山千春                                                          | [起承転結 III](../Page/起承転結_III.md "wikilink")                                     | 1984年11月21日 |
-|         |          |                                                               |                                                                                |             |
+|         |          |                                                         |                                                                                |             |
+| ------- | -------- | ------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------- |
+| **No.** | **品番**   | **アーティスト**                                              | **タイトル名**                                                                      | **発売年月日**   |
+| 1       | N26N0001 | [松山千春](../Page/松山千春.md "wikilink")                      | [浪漫](../Page/浪漫_\(松山千春のアルバム\).md "wikilink")                                   | 1980年5月5日   |
+| 2       | N26E0002 | [清須邦義](https://ja.wikipedia.org/wiki/清須邦義 "wikilink")   | 優しきまわり道                                                                        | 1980年10月21日 |
+| 3       | N28N0003 | 松山千春                                                    | [木枯しに抱かれて](../Page/木枯しに抱かれて_\(松山千春のアルバム\).md "wikilink")                       | 1980年11月21日 |
+| 4       | N28W0004 | [加川良](../Page/加川良.md "wikilink")                        | プロポーズ                                                                          | 1981年4月21日  |
+| 5       | N28N0005 | 松山千春                                                    | [時代をこえて](../Page/時代をこえて.md "wikilink")                                         | 1981年5月21日  |
+| 6       | N28E0006 | [阿呆鳥](https://ja.wikipedia.org/wiki/阿呆鳥 "wikilink")     | 阿呆鳥I〜ドラマチック                                                                    | 1981年10月21日 |
+| 7       | N28N0007 | 松山千春                                                    | [起承転結 II](../Page/起承転結_II.md "wikilink")                                       | 1981年11月21日 |
+| 8       | N28N0008 | 松山千春                                                    | [私からの手紙-MY LIFE](../Page/MY_LIFE_\(松山千春のアルバム\).md "wikilink")                  | 1982年2月25日  |
+| 9       | N28E0009 | 阿呆鳥                                                     | 阿呆鳥II〜壁にかけた地図                                                                  | 1982年4月21日  |
+| 10      | N28N0010 | 松山千春                                                    | [大いなる愛よ夢よ](../Page/大いなる愛よ夢よ.md "wikilink")                                     | 1982年5月21日  |
+| 11      | N25S0011 | [THE WOOD](../Page/THE_WOOD.md "wikilink")              | Once Forever                                                                   | 1982年8月21日  |
+| 12      | N28E0012 | NICO                                                    | To You                                                                         | 1982年10月21日 |
+| 13      | N50N0013 | 松山千春                                                    | [STAGE 7-24-1982 MAKOMANAI SAPPORO](../Page/STAGE_\(松山千春のアルバム\).md "wikilink") | 1982年11月21日 |
+| 14      | N28E0014 | 阿呆鳥                                                     | 阿呆鳥III〜通りすぎた街                                                                  | 1982年12月21日 |
+| 15      | N28S0015 | THE WOOD                                                | WALTS                                                                          | 1983年3月21日  |
+| 16      | N28N0016 | 松山千春                                                    | [今、失われたものを求めて](../Page/今、失われたものを求めて.md "wikilink")                             | 1983年5月21日  |
+| 17      | N28E0017 | [NICO](../Page/GARDEN_\(音楽ユニット\).md "wikilink")         | VALERIA                                                                        | 1983年7月21日  |
+| 18      | N28E0018 | [あんべ光俊](https://ja.wikipedia.org/wiki/あんべ光俊 "wikilink") | HEARTS                                                                         | 1983年8月21日  |
+| 19      | N28E0019 | 阿呆鳥                                                     | 阿呆鳥IV〜パブリックレストラン                                                               | 1983年9月21日  |
+| 20      | N28N0020 | 松山千春                                                    | [眠れない時代](../Page/眠れない時代.md "wikilink")                                         | 1983年11月5日  |
+| 21      | N28N0021 | 松山千春                                                    | [愛を贈る](../Page/愛を贈る.md "wikilink")                                             | 1984年5月21日  |
+| 22      | N28E0022 | [AMBE](https://ja.wikipedia.org/wiki/あんべ光俊 "wikilink")  | REAL FANTASY                                                                   | 1984年6月21日  |
+| 23      | N28E0023 | [山本コウタロー](../Page/山本コウタロー.md "wikilink")                | 10月の距離                                                                         | 1984年10月21日 |
+| 24      | N28N0024 | 松山千春                                                    | [起承転結 III](../Page/起承転結_III.md "wikilink")                                     | 1984年11月21日 |
+|         |          |                                                         |                                                                                |             |
 
 ### SPEED SHOCKレーベル
 
-|         |           |                                                                |                                                           |             |
-| ------- | --------- | -------------------------------------------------------------- | --------------------------------------------------------- | ----------- |
-| **No.** | **品番**    | **アーティスト**                                                     | **タイトル名**                                                 | **発売年月日**   |
-| 1       | S28SP0001 | [レジー・スミス](../Page/レジー・スミス.md "wikilink")                       | Heart to Heart                                            | 1984年6月21日  |
-| 2       | S28SP0002 | [RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink")  | [EPLP-2](https://ja.wikipedia.org/wiki/EPLP-2 "wikilink") | 1984年7月21日  |
-| 3       | S25SP0003 | [Dr.Umezu Band](https://ja.wikipedia.org/wiki/梅津和時 "wikilink") | Do-Guwaw\!                                                | 1984年10月21日 |
-| 4       | S25SP0004 | RCサクセション                                                       | Mix\&Mixer                                                | 1984年12月21日 |
-|         |           |                                                                |                                                           |             |
+|         |           |                                             |                                                           |             |
+| ------- | --------- | ------------------------------------------- | --------------------------------------------------------- | ----------- |
+| **No.** | **品番**    | **アーティスト**                                  | **タイトル名**                                                 | **発売年月日**   |
+| 1       | S28SP0001 | [レジー・スミス](../Page/レジー・スミス.md "wikilink")    | Heart to Heart                                            | 1984年6月21日  |
+| 2       | S28SP0002 | [RCサクセション](../Page/RCサクセション.md "wikilink")  | [EPLP-2](https://ja.wikipedia.org/wiki/EPLP-2 "wikilink") | 1984年7月21日  |
+| 3       | S25SP0003 | [Dr.Umezu Band](../Page/梅津和時.md "wikilink") | Do-Guwaw\!                                                | 1984年10月21日 |
+| 4       | S25SP0004 | RCサクセション                                    | Mix\&Mixer                                                | 1984年12月21日 |
+|         |           |                                             |                                                           |             |
 
 ## CD（コンパクトディスク）
 
-|         |          |                                                               |                                                           |             |
-| ------- | -------- | ------------------------------------------------------------- | --------------------------------------------------------- | ----------- |
-| **No.** | **品番**   | **アーティスト**                                                    | **タイトル名**                                                 | **発売年月日**   |
-| 1       | N35N5001 | [松山千春](../Page/松山千春.md "wikilink")                            | [起承転結 II](../Page/起承転結_II.md "wikilink")                  | 1984年11月21日 |
-| 2       | N35N5002 | 松山千春                                                          | [起承転結 III](../Page/起承転結_III.md "wikilink")                | 1984年11月21日 |
-| 3       | S35S5003 | [RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink") | [EPLP-2](https://ja.wikipedia.org/wiki/EPLP-2 "wikilink") | 1984年12月21日 |
-| 4       | S35S5004 | RCサクセション                                                      | Mix\&Mixer                                                | 1984年12月21日 |
-|         |          |                                                               |                                                           |             |
+|         |          |                                            |                                                           |             |
+| ------- | -------- | ------------------------------------------ | --------------------------------------------------------- | ----------- |
+| **No.** | **品番**   | **アーティスト**                                 | **タイトル名**                                                 | **発売年月日**   |
+| 1       | N35N5001 | [松山千春](../Page/松山千春.md "wikilink")         | [起承転結 II](../Page/起承転結_II.md "wikilink")                  | 1984年11月21日 |
+| 2       | N35N5002 | 松山千春                                       | [起承転結 III](../Page/起承転結_III.md "wikilink")                | 1984年11月21日 |
+| 3       | S35S5003 | [RCサクセション](../Page/RCサクセション.md "wikilink") | [EPLP-2](https://ja.wikipedia.org/wiki/EPLP-2 "wikilink") | 1984年12月21日 |
+| 4       | S35S5004 | RCサクセション                                   | Mix\&Mixer                                                | 1984年12月21日 |
+|         |          |                                            |                                                           |             |
 
 ## カセットテープ
 
@@ -360,7 +360,7 @@
 | **No.** | **品番**   | **アーティスト**                                                               | **タイトル名**                                                                      | **発売年月日**   |
 | 1       | 28NE0001 | [阿呆鳥](https://ja.wikipedia.org/wiki/阿呆鳥 "wikilink")                      | 阿呆鳥II〜壁にかけた地図                                                                  | 1982年4月21日  |
 | 2       | 28NN0002 | [松山千春](../Page/松山千春.md "wikilink")                                       | [大いなる愛よ夢よ](../Page/大いなる愛よ夢よ.md "wikilink")                                     | 1982年5月21日  |
-| 3       | 25NS0003 | [THE WOOD](https://ja.wikipedia.org/wiki/THE_WOOD "wikilink")            | Once Forever                                                                   | 1982年8月21日  |
+| 3       | 25NS0003 | [THE WOOD](../Page/THE_WOOD.md "wikilink")                               | Once Forever                                                                   | 1982年8月21日  |
 | 4       | 28NE0004 | [NICO](../Page/GARDEN_\(音楽ユニット\).md "wikilink")                          | To You                                                                         | 1982年10月21日 |
 | 5       | 45NN0005 | 松山千春                                                                     | [STAGE 7-24-1982 MAKOMANAI SAPPORO](../Page/STAGE_\(松山千春のアルバム\).md "wikilink") | 1982年11月21日 |
 | 6       | 28NE0006 | 阿呆鳥                                                                      | 阿呆鳥III〜通りすぎた街                                                                  | 1982年12月21日 |
@@ -377,20 +377,20 @@
 | 17      | 28NE0017 | [AMBE](https://ja.wikipedia.org/wiki/あんべ光俊 "wikilink")                   | REAL FANTASY                                                                   | 1984年6月21日  |
 | 18      | 28NN0018 | 松山千春                                                                     | 松山千春GOLD vol.3ラヴ・ソングII「旅立ち」                                                    | 1984年8月21日  |
 | 19      | 28NN0019 | 松山千春                                                                     | 松山千春GOLD vol.4メッセージ「大いなる愛よ夢よ」                                                  | 1984年8月21日  |
-| 20      | 28NE0020 | [山本コウタロー](https://ja.wikipedia.org/wiki/山本コウタロー "wikilink")              | 10月の距離                                                                         | 1984年10月21日 |
+| 20      | 28NE0020 | [山本コウタロー](../Page/山本コウタロー.md "wikilink")                                 | 10月の距離                                                                         | 1984年10月21日 |
 | 21      | 28NN0021 | 松山千春                                                                     | [起承転結III](https://ja.wikipedia.org/wiki/起承転結III "wikilink")                    | 1984年11月21日 |
 |         |          |                                                                          |                                                                                |             |
 
 ### SPEED SHOCKレーベル
 
-|         |          |                                                               |                                                           |             |
-| ------- | -------- | ------------------------------------------------------------- | --------------------------------------------------------- | ----------- |
-| **No.** | **品番**   | **アーティスト**                                                    | **タイトル名**                                                 | **発売年月日**   |
-| 1       | 28SS0001 | [レジー・スミス](../Page/レジー・スミス.md "wikilink")                      | Heart to Heart                                            | 1984年6月21日  |
-| 2       | 28SS0002 | [RCサクセション](https://ja.wikipedia.org/wiki/RCサクセション "wikilink") | [EPLP-2](https://ja.wikipedia.org/wiki/EPLP-2 "wikilink") | 1984年7月21日  |
-| 3       | 25SS0003 | RCサクセション                                                      | The LIVE                                                  | 1984年9月21日  |
-| 4       | 25SS0004 | RCサクセション                                                      | Mix\&Mixer                                                | 1984年12月21日 |
-|         |          |                                                               |                                                           |             |
+|         |          |                                            |                                                           |             |
+| ------- | -------- | ------------------------------------------ | --------------------------------------------------------- | ----------- |
+| **No.** | **品番**   | **アーティスト**                                 | **タイトル名**                                                 | **発売年月日**   |
+| 1       | 28SS0001 | [レジー・スミス](../Page/レジー・スミス.md "wikilink")   | Heart to Heart                                            | 1984年6月21日  |
+| 2       | 28SS0002 | [RCサクセション](../Page/RCサクセション.md "wikilink") | [EPLP-2](https://ja.wikipedia.org/wiki/EPLP-2 "wikilink") | 1984年7月21日  |
+| 3       | 25SS0003 | RCサクセション                                   | The LIVE                                                  | 1984年9月21日  |
+| 4       | 25SS0004 | RCサクセション                                   | Mix\&Mixer                                                | 1984年12月21日 |
+|         |          |                                            |                                                           |             |
 
 ## 脚注
 

@@ -5,26 +5,26 @@
 
 ## 概要
 
-初回限定盤は、シングル曲「[OH JAPAN 〜OUR TIME IS NOW〜](https://ja.wikipedia.org/wiki/OH_JAPAN_〜OUR_TIME_IS_NOW〜 "wikilink")」の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")や、ドキュメント映像、メンバープロフィールを収録した[DVD](../Page/DVD.md "wikilink")が付属。
+初回限定盤は、シングル曲「[OH JAPAN 〜OUR TIME IS NOW〜](../Page/OH_JAPAN_〜OUR_TIME_IS_NOW〜.md "wikilink")」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")や、ドキュメント映像、メンバープロフィールを収録した[DVD](../Page/DVD.md "wikilink")が付属。
 
 2004年[7月5日](../Page/7月5日.md "wikilink")付のオリコン週間アルバムランキングで、週間推定売上枚数9万281枚を記録して初登場1位を獲得\[1\]。
 
 ## 収録曲
 
-1.  **[OH JAPAN 〜OUR TIME IS NOW〜](https://ja.wikipedia.org/wiki/OH_JAPAN_〜OUR_TIME_IS_NOW〜 "wikilink")** (4:09)
+1.  **[OH JAPAN 〜OUR TIME IS NOW〜](../Page/OH_JAPAN_〜OUR_TIME_IS_NOW〜.md "wikilink")** (4:09)
       -
         1stシングル曲。
         松本は曲順の際、「1発目にふさわしい曲」と語っていたが、「[TMG LIVE "Dodge The Bullet" Tour](https://ja.wikipedia.org/wiki/Dodge_The_Bullet "wikilink")」ではアンコールラストナンバーで演奏された。
 2.  **Everything Passes Away** (4:40)
       -
         子供のセリフが入った約1分のイントロで始まり、[変拍子(7拍子)が多用されている](../Page/拍子.md "wikilink")。
-        [ベースのジャック](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・ブレイズが作詞を手がけた。また、松本はこの曲の詞が気に入っており、シンプルでいて大人な感じがするという。
+        [ベースのジャック](../Page/ベース_\(弦楽器\).md "wikilink")・ブレイズが作詞を手がけた。また、松本はこの曲の詞が気に入っており、シンプルでいて大人な感じがするという。
         間奏のジャックのセリフは、聖書の[ヨハネによる福音書](../Page/ヨハネによる福音書.md "wikilink")第3章第16文からの引用である。
         松本曰く「ある意味TMGを象徴するような曲」。
         ライブではオープニングに演奏された。
 3.  **KINGS FOR A DAY** (3:47)
       -
-        松本は[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")だけを考えメンバーに渡したようで、歌入り後は[Mr. Bigみたいだと思ったらしい](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")。
+        松本は[リフ](../Page/リフ.md "wikilink")だけを考えメンバーに渡したようで、歌入り後は[Mr. Bigみたいだと思ったらしい](https://ja.wikipedia.org/wiki/MR.BIG "wikilink")。
 4.  **I Know You by Heart** (3:33)
       -
         曲の大半が[5拍子である](https://ja.wikipedia.org/wiki/変拍子 "wikilink")。「OH JAPAN 〜OUR TIME IS NOW〜」や「TRAPPED」と共に初期に制作された。
@@ -42,7 +42,7 @@
 8.  **RED, WHITE AND BULLET BLUES** (4:53)
       -
         イントロは[指弾き](https://ja.wikipedia.org/wiki/指弾き "wikilink")。元々メロディはなく、メンバーにリフだけの状態で渡し、[ジャム・セッション](https://ja.wikipedia.org/wiki/ジャム・セッション "wikilink")で完成させた。
-9.  **[TRAPPED](https://ja.wikipedia.org/wiki/OH_JAPAN_〜OUR_TIME_IS_NOW〜 "wikilink")** (3:38)
+9.  **[TRAPPED](../Page/OH_JAPAN_〜OUR_TIME_IS_NOW〜.md "wikilink")** (3:38)
       -
         1stシングル「OH JAPAN 〜OUR TIME IS NOW〜」の[カップリング](https://ja.wikipedia.org/wiki/カップリング "wikilink")。
         若干[ミックスが変わっており](../Page/ミキシング.md "wikilink")、ハードになっている。
@@ -61,7 +61,7 @@
         本作唯一の[バラード](../Page/バラード.md "wikilink")ナンバー。[ハモンド・オルガン](https://ja.wikipedia.org/wiki/ハモンド・オルガン "wikilink")がアクセントを加えている。
         松本曰く「コード進行が出来たら歌うラインがほとんど決まっちゃう曲」。
         最初はバラードをやらないつもりでいたが、Mr. Bigで数多くのバラードを歌っているエリックが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")ということで、松本曰く「1曲は書いておこうと思った」と言うことで制作された。
-        作詞したジャックは、[エアロスミス](https://ja.wikipedia.org/wiki/エアロスミス "wikilink")の「[ミス・ア・シング](https://ja.wikipedia.org/wiki/ミス・ア・シング "wikilink")」を意識したという。
+        作詞したジャックは、[エアロスミス](../Page/エアロスミス.md "wikilink")の「[ミス・ア・シング](https://ja.wikipedia.org/wiki/ミス・ア・シング "wikilink")」を意識したという。
 14. **NEVER GOOD-BYE** (5:02)
       -
         「お別れソング」をという松本の注文を受け、ジャックが歌詞を書いたハードロックナンバー。
@@ -76,14 +76,14 @@
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
-  - [エリック・マーティン](../Page/エリック・マーティン.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")（\#1.3-6.8.9.11.12）、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（\#1-8.10.11.13.14）
-  - ジャック・ブレイズ：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、作詞（\#1.2.4.5.7.9.10.13.14）、コーラス（\#1.2.4-7.9-14）
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")：全曲編曲
+  - [エリック・マーティン](../Page/エリック・マーティン.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")（\#1.3-6.8.9.11.12）、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（\#1-8.10.11.13.14）
+  - ジャック・ブレイズ：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、作詞（\#1.2.4.5.7.9.10.13.14）、コーラス（\#1.2.4-7.9-14）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")：全曲編曲
   - トニー・ファヌッチ：作詞（\#3）
   - アンドレ・ペシス：作詞（\#3.6.8.11.12）
   - [ブライアン・ティッシー](https://ja.wikipedia.org/wiki/ブライアン・ティッシー "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")（\#1-9.11.14）
   - シンディ・ブラックマン：ドラム（\#10.12.13）
-  - [小野塚晃](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")：[オルガン](../Page/オルガン.md "wikilink")（\#13）
+  - [小野塚晃](../Page/DIMENSION.md "wikilink")：[オルガン](../Page/オルガン.md "wikilink")（\#13）
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")：コーラス（\#9）
 
 ## 脚注

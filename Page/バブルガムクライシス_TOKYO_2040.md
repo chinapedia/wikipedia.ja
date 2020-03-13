@@ -5,7 +5,7 @@
 
 ## 概要
 
-本作は、[OVA](../Page/OVA.md "wikilink")シリーズ『[バブルガムクライシス](https://ja.wikipedia.org/wiki/バブルガムクライシス "wikilink")』をテレビ放送向けにリメイクしたもので、[AICがOVA版原作の](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")[アートミック](../Page/アートミック.md "wikilink")から同社の倒産時に引き取った版権を再利用し、制作した作品の1つである。また、本作の制作著作は[日本ビクター](../Page/日本ビクター.md "wikilink")映像ソフト部門（のちに[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")（旧ビクター音楽産業）へ移管、現：[FlyingDOG](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink")）であり、音楽制作はビクターエンタテインメント（現：FlyingDOG）が担当している。また、制作当時はビクターの映像部門が[親会社と子会社に分かれていたため](https://ja.wikipedia.org/wiki/分業 "wikilink")、映像ソフト発売もビクター本体の制作・発売、ビクターエンタテインメントの販売となっていた。
+本作は、[OVA](../Page/OVA.md "wikilink")シリーズ『[バブルガムクライシス](../Page/バブルガムクライシス.md "wikilink")』をテレビ放送向けにリメイクしたもので、[AICがOVA版原作の](../Page/アニメインターナショナルカンパニー.md "wikilink")[アートミック](../Page/アートミック.md "wikilink")から同社の倒産時に引き取った版権を再利用し、制作した作品の1つである。また、本作の制作著作は[日本ビクター](../Page/日本ビクター.md "wikilink")映像ソフト部門（のちに[ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")（旧ビクター音楽産業）へ移管、現：[FlyingDOG](../Page/フライングドッグ.md "wikilink")）であり、音楽制作はビクターエンタテインメント（現：FlyingDOG）が担当している。また、制作当時はビクターの映像部門が[親会社と子会社に分かれていたため](../Page/分業.md "wikilink")、映像ソフト発売もビクター本体の制作・発売、ビクターエンタテインメントの販売となっていた。
 
 世界設定についてはおおよそOVA版に準じており、同じく制作当時から見た近未来世界の[東京](../Page/東京.md "wikilink")を舞台としている。しかし、キャラクター設定についてはいくつかの変更点があり、ナイトセイバーズのハードスーツこそOVA版の路線を引き継いでいるものの、キャラクターの容姿は一からデザインし直されており、見た目はほぼ別人と化している者も少なくない。また、本作のみのオリジナルキャラクターも存在する。
 
@@ -29,27 +29,27 @@
         ナイジェルが開発したハードスーツ支援バイク。最終的にブーマとしての自我を持つに至るもプリスの力となることを貫き、巨大な人型ブーマ（通称「ハイパーモトスレイブ」）となり最後までプリスを守り続けて爆散した。
   - シリア・スティングレイ
     声 - [雪乃五月](../Page/ゆきのさつき.md "wikilink")
-    ブティック「Silky Doll」の経営者。非合法組織「KS」の創設者かつリーダー格。普段は一見物腰柔らかなお姉さんである点はOVA版と変わらないが、父であるスティグレイ博士（声 - [有本欽隆](https://ja.wikipedia.org/wiki/有本欽隆 "wikilink")）によって自身と母（声 - [渡辺美佐](https://ja.wikipedia.org/wiki/渡辺美佐_\(声優\) "wikilink")）がブーマ開発のための実験台にされたことで心に負った深い傷から、父親やブーマに対する激しい愛憎を抱えてヒステリックになることもある。視野が狭く自身の価値観をマッキーに押しつけてしまったため、マッキーはナイジェルの元に身を寄せた。
+    ブティック「Silky Doll」の経営者。非合法組織「KS」の創設者かつリーダー格。普段は一見物腰柔らかなお姉さんである点はOVA版と変わらないが、父であるスティグレイ博士（声 - [有本欽隆](../Page/有本欽隆.md "wikilink")）によって自身と母（声 - [渡辺美佐](../Page/渡辺美佐_\(声優\).md "wikilink")）がブーマ開発のための実験台にされたことで心に負った深い傷から、父親やブーマに対する激しい愛憎を抱えてヒステリックになることもある。視野が狭く自身の価値観をマッキーに押しつけてしまったため、マッキーはナイジェルの元に身を寄せた。
   - リンナ・ヤマザキ
-    声 - [夏樹リオ](https://ja.wikipedia.org/wiki/夏樹リオ "wikilink")
+    声 - [夏樹リオ](../Page/夏樹リオ.md "wikilink")
     漢字表記は「山崎 琳那」。熊本から上京してきた新人OL。プリスとの接触を切っ掛けに「KS」の一員となる。OVA版と異なり、本作では両親も健在で、純粋な憧れから「KS」に入ることを夢見る凡人として視聴者に近しい目線から序盤のストーリーの案内役的存在となる。ハツラツとした性格で負けん気が強い。身体能力が高いという設定は、学生時代に陸上競技をやっていたという形で継承されている。なお、選手時代の服装は同じAIC作品の「[バトルアスリーテス大運動会](https://ja.wikipedia.org/wiki/バトルアスリーテス大運動会 "wikilink")」のセルフパロディ。
   - ネネ・ロマノーヴァ
     声 - [小西寛子](../Page/小西寛子.md "wikilink")
     A.D.Policeの情報オペレータでありながら「KS」の一員でもある少女。僅か18歳でありながら、コンピューターの扱いに関しては天才的な能力を持っている。第12話でマッキーが2030年の時点でシリアと同年代か少々年長に見える写真を見つけ、2人が姉弟ではないことに気づき、震災が人工的にゲノムにより起こされ、マッキーがブーマ誕生に関わる人外の存在であることで隠し続けてきたシリアを信じられなくなってマッキーからも離れてしまう。後にナイジェルからマッキーのことを教えられ、再びマッキーと心を通わせ相思相愛の恋人になる。
     容姿以外はOVA版とほぼ同じキャラだが、マッキーの設定変更により本作の「人とブーマとの関係｣というテーマにより深く関わることとなる。
   - ナイジェル・カークランド
-    声 - [山口健](https://ja.wikipedia.org/wiki/山口健 "wikilink")
+    声 - [山口健](../Page/山口健.md "wikilink")
     36歳。ハードスーツ等の製作や整備を一手に引き受ける「KS」のメカニック及びメンテナンスを担当。平素は外区のバイク工房で20世紀のクラシックバイクを弄ったり、プリスのバイクの整備を受け持ったりしている。震災前は「ウィズラボ」のブーマ部門で研究員をしていた。寡黙で他人に干渉しない主義だったが、終盤、シリアに告白して戦う力を失った彼女を支える。
     OVA版でのレーヴィンに当たるキャラ。メカニックとしての立場やマッキーの師匠である点で言えば、シリアの父の下でブーマ開発の研究に携わった過去やシリアとプリスとの微妙な三角関係が生じ、よりストーリーの核心に深く関わる。
   - マッキー・スティングレイ
-    声 - [宮田始典](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
+    声 - [宮田始典](../Page/宮田幸季.md "wikilink")
     機械との親和性をナイジェルに見込まれ、彼に弟子入りして技術者を目指す。分野は違えど技術系つながりで外見的年齢が近いこともあってネネと親しくなる。実はシリアの複製であるガラテアから最初に生み出されたプロトタイプ・ブーマ。人間に近すぎたために失敗作とされ、シリアに引き取られて弟として生活している。過去の経緯によりシリアとぎくしゃくして少し距離を置いた方がお互いのためだと思い、ナイジェルのバイク工房で仕事を手伝いながら暮らすようになる。ブーマの範疇には当てはまらない存在だが、人間でもないので肉体的成長をしない。徐々にガラテアの影響を受けて人間の部分が浸食されて記憶も失ってゆくが、ガラテアのいるタワーに突入する「KS」を援護すべく自身の残り少ない人間としてのデータを送り込んでガラテアを混乱させて隙を作り廃人と化す。最終話、人間とブーマの和合を受け入れたガラテアにより人間の部分を返還されて正気に戻る。
     OVA版と違い、本作ではブーマであることが強調され、ネネとの関係が作品の主題の一つともなっている。
 
 ### A.D.Police
 
   - レオン・マクニコル
-    声 - [梁田清之](https://ja.wikipedia.org/wiki/梁田清之 "wikilink")
+    声 - [梁田清之](../Page/梁田清之.md "wikilink")
     24歳。A.D.Policeのポリスフロンター。事件現場で出会ったプリスに一目惚れして付きまとっている。KSにライバル心を燃やしたり、プリスの正体を知らない辺りはOVA版とほぼ同じ。
   - デイリー・ウォン
     声 - [上田祐司](../Page/うえだゆうじ.md "wikilink")
@@ -59,13 +59,13 @@
     声 - 山口健
     A.D.Policeのチーフ。部下であるレオンとしばしば対立するが、プーマによってA.D.Police本部が襲撃された時には、ネネ達を救出するために奮闘した。
   - マイルズ
-    声 - [宇垣秀成](https://ja.wikipedia.org/wiki/宇垣秀成 "wikilink")
+    声 - [宇垣秀成](../Page/宇垣秀成.md "wikilink")
     A.D.Policeの署長。
 
 ### ゲノムコーポレーション
 
   - ブライアン・J・メイスン
-    声 - [中田譲治](https://ja.wikipedia.org/wiki/中田譲治 "wikilink")
+    声 - [中田譲治](../Page/中田譲治.md "wikilink")
     ゲノムコーポレーションの副社長。経営の実務を掌握している。
     会長に忠実な腹心を装ってはいるが、その胸中には「ブーマを覚醒させ、新しい世界を造る」という野望を秘めている。子供の頃の手術により、体内に人工臓器が埋め込まれている。東京地下に眠っていたブーマの素体を覚醒させ、ガラテアと名づけて自分の手元に置くが、次第に自我に目覚めて独自の行動を起こすようになったガラテアによりオブジェのように塔から飛び出した格好で飾り置かれてしまう。
   - クインシー・ローゼンクロイツ
@@ -73,14 +73,14 @@
     89歳。ゲノムコーポレーション会長。
     肉体を生命維持装置に繋ぎ生き長らえているメガロシティの実質的支配者。ブーマにより東京を復興させて「人間とブーマが共に暮らす理想郷」の設立を目指すが、志半ばメイスンの裏切りに法的に抹殺しようと部下に命じた矢先、秘書ブーマ（声 - [山田美穂](https://ja.wikipedia.org/wiki/山田美穂 "wikilink")）により生命維持装置を破壊されて暗殺された。
   - クズイ
-    声 - [室園丈裕](https://ja.wikipedia.org/wiki/室園丈裕 "wikilink")
+    声 - [室園丈裕](../Page/室園丈裕.md "wikilink")
     OVA版でのファーゴに当たるキャラ。シリアにゲノム社のスパイとして内部情報を売りながら、裏ではメイスンの意に沿うようKSを誘導していたが、最後は用済みとして始末される。
 
 ### オリジナルキャラクター
 
   - メイシオ・ヘンダーソン
-    声 - [麻生智久](https://ja.wikipedia.org/wiki/麻生智久 "wikilink")
-    スティングレイ家の老[執事](https://ja.wikipedia.org/wiki/執事 "wikilink")。シリアをお嬢様と呼んで深い恩義を感じており、彼女を陽に陰に補佐してKSの活動を裏から支えている。シリアには兄弟姉妹はいないため、弟だと言ってシリアを訪ねて来たマッキーと彼を弟だと肯定するシリアに戸惑うが、シリアに従ってマッキーを「シリアの弟」として扱い、徐々に自然にそう思えるようになる。
+    声 - [麻生智久](../Page/麻生智久.md "wikilink")
+    スティングレイ家の老[執事](../Page/執事.md "wikilink")。シリアをお嬢様と呼んで深い恩義を感じており、彼女を陽に陰に補佐してKSの活動を裏から支えている。シリアには兄弟姉妹はいないため、弟だと言ってシリアを訪ねて来たマッキーと彼を弟だと肯定するシリアに戸惑うが、シリアに従ってマッキーを「シリアの弟」として扱い、徐々に自然にそう思えるようになる。
   - ガラテア
     声 - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
     プロトタイプ・ブーマ。全ブーマのオリジナル＝素体であり、想定をはるかに超えた能力を恐れられて地下研究所に封印されていた。ブーマの種子であるアンチシードをシリアの脳にインプラントして誕生させたため、シリアの形質が転写されて同じ姿をしている。彼女の発するフェノメノンはブーマをマッド化させるのみならず、あらゆる金属質や機器をマッドブーマと同質のものに変えてしまう。メイスンによって奪取されるが、肉体・精神ともに急激な成長を遂げて彼の思惑を超えた独自の行動を開始する。神になろうとするが、戦いの果てに人間とブーマの和合を受け入れ、光の粒子となって世界中に降り注いだ。
@@ -134,12 +134,12 @@
 
 ## スタッフ
 
-  - 原作・アニメーション制作 - [AIC](https://ja.wikipedia.org/wiki/アニメインターナショナルカンパニー "wikilink")
+  - 原作・アニメーション制作 - [AIC](../Page/アニメインターナショナルカンパニー.md "wikilink")
   - 監督 - 林宏樹
   - プロダクションデザイン - [荒牧伸志](../Page/荒牧伸志.md "wikilink")
   - キャラクターデザイン - 山田正樹
   - 総作画監督 - 山田正樹、[高岡淳一](../Page/高岡淳一.md "wikilink")
-  - ハードスーツ原案 - [園田健一](https://ja.wikipedia.org/wiki/園田健一 "wikilink")
+  - ハードスーツ原案 - [園田健一](../Page/園田健一.md "wikilink")
   - ビジュアルディレクター・レイアウト監修 - 外山九市
   - 美術監督 - [池田繁美](https://ja.wikipedia.org/wiki/池田繁美 "wikilink")
   - 色彩設計 - 大槻浩司
@@ -398,7 +398,7 @@
 <tr class="odd">
 <td><p>eq.25</p></td>
 <td><p>Walking On The Moon</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池田成" title="wikilink">池田成</a></p></td>
+<td><p><a href="../Page/池田成.md" title="wikilink">池田成</a></p></td>
 <td><p>しのだよしの</p></td>
 <td><p>宮藤仁義</p></td>
 <td><p>未放送</p></td>
@@ -421,34 +421,34 @@
 
 各話サブタイトルは1960年代後半から1990年代にかけて、名盤と言われる外国洋楽アーティストのアルバム原題やヒット曲名を採用している。
 
-| 話数    | サブタイトル                 | アーティスト名                                                               | 『アルバム名』または「曲名」邦題                                                                                                   | 発表年   |
-| ----- | ---------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ----- |
-| ep.1  | Can't Buy a Thrill     | [スティーリー・ダン](../Page/スティーリー・ダン.md "wikilink")                          | 『[キャント・バイ・ア・スリル](../Page/キャント・バイ・ア・スリル.md "wikilink")』                                                             | 1972年 |
-| ep.2  | FRagiLE                | [イエス](../Page/イエス_\(バンド\).md "wikilink")                              | 『[こわれもの](https://ja.wikipedia.org/wiki/こわれもの "wikilink")』                                                          | 1971年 |
-| ep.3  | Keep Me Hanging On     | [ヴァニラ・ファッジ](../Page/ヴァニラ・ファッジ.md "wikilink")                          | 『キープ・ミー・ハンギング・オン（Vanilla Fudge）』収録同名曲                                                                              | 1967年 |
-| ep.4  | Machine HeaD           | [ディープ・パープル](../Page/ディープ・パープル.md "wikilink")                          | 『[マシン・ヘッド](https://ja.wikipedia.org/wiki/マシン・ヘッド "wikilink")』                                                      | 1972年 |
-| ep.5  | Rough and Ready        | [ジェフ・ベック・グループ](https://ja.wikipedia.org/wiki/ジェフ・ベック・グループ "wikilink") | 『[ラフ・アンド・レディ](../Page/ラフ・アンド・レディ.md "wikilink")』                                                                   | 1972年 |
-| ep.6  | Get it On              | [T・レックス](https://ja.wikipedia.org/wiki/T・レックス "wikilink")             | 『[電気の武者](https://ja.wikipedia.org/wiki/電気の武者 "wikilink")(Electric Warrior)』収録「ゲット・イット・オン」                          | 1971年 |
-| ep.7  | Look at Yourself       | [ユーライア・ヒープ](https://ja.wikipedia.org/wiki/ユーライア・ヒープ "wikilink")       | 『[対自核](https://ja.wikipedia.org/wiki/対自核 "wikilink")』及び収録曲                                                         | 1971年 |
-| ep.8  | Fire Ball              | ディープ・パープル                                                             | 『[ファイアボール](../Page/ファイアボール_\(アルバム\).md "wikilink")』及び収録曲                                                           | 1971年 |
-| ep.9  | My Nation Underground  | ジュリアン・コープ                                                             | 『マイ・ネーション・アンダーグラウンド』及び収録曲                                                                                          | 1988年 |
-| ep.10 | Woke Up with A MONSTER | [チープ・トリック](../Page/チープ・トリック.md "wikilink")                            | 『[蒼い衝動](https://ja.wikipedia.org/wiki/蒼い衝動_\(アルバム\) "wikilink")』及び収録曲                                              | 1994年 |
-| ep.11 | SHEER HEART ATTACK     | [クイーン](../Page/クイーン_\(バンド\).md "wikilink")                            | 『[シアー・ハート・アタック](../Page/シアー・ハート・アタック.md "wikilink")』                                                               | 1974年 |
-| ep.12 | Made In Japan          | ディープ・パープル                                                             | 『[ライヴ・イン・ジャパン](https://ja.wikipedia.org/wiki/ライヴ・イン・ジャパン_\(ディープ・パープルのアルバム\) "wikilink")』                           | 1972年 |
-| ep.13 | Atom Heart Mother      | [ピンク・フロイド](https://ja.wikipedia.org/wiki/ピンク・フロイド "wikilink")         | 『[原子心母](../Page/原子心母.md "wikilink")』及び収録曲                                                                          | 1970年 |
-| ep.14 | Shock Treatment        | [エドガー・ウィンター](../Page/エドガー・ウィンター.md "wikilink")・グループ                   | 『恐怖のショック療法』                                                                                                        | 1974年 |
-| ep.15 | Minute by Minute       | [ドゥービー・ブラザーズ](../Page/ドゥービー・ブラザーズ.md "wikilink")                      | 『[ミニット・バイ・ミニット](https://ja.wikipedia.org/wiki/ミニット・バイ・ミニット_\(アルバム\) "wikilink")』及び収録曲                              | 1978年 |
-| ep.16 | I SuRRendeR            | [レインボー](https://ja.wikipedia.org/wiki/レインボー_\(バンド\) "wikilink")       | 『[アイ・サレンダー](https://ja.wikipedia.org/wiki/アイ・サレンダー "wikilink")（Difficult to Cure）』収録同名曲                            | 1981年 |
-| ep.17 | Moving Waves           | [フォーカス](../Page/フォーカス_\(バンド\).md "wikilink")                          | 『[ムーヴィング・ウェイヴス](https://ja.wikipedia.org/wiki/ムーヴィング・ウェイヴス "wikilink")』及び収録曲                                       | 1971年 |
-| ep.18 | We Built This City     | [スターシップ](../Page/ジェファーソン・エアプレイン.md "wikilink")                        | 『フープラ(Knee Deep in the Hoopla)』収録「シスコはロックシティ」                                                                      | 1985年 |
-| ep.19 | Are YOU ExperienceD?   | [ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")                        | 『[アー・ユー・エクスペリエンスト?](https://ja.wikipedia.org/wiki/アー・ユー・エクスペリエンスト%3F "wikilink")』及び収録曲                             | 1967年 |
-| ep.20 | One of thesE Night     | [イーグルス](https://ja.wikipedia.org/wiki/イーグルス "wikilink")               | 『[呪われた夜](../Page/呪われた夜.md "wikilink")』及び収録曲                                                                        | 1975年 |
-| ep.21 | Close to the Edge      | イエス                                                                   | 『[危機](https://ja.wikipedia.org/wiki/危機_\(イエスのアルバム\) "wikilink")』及び収録曲                                              | 1972年 |
-| ep.22 | Physical Graffiti      | [レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")                        | 『[フィジカル・グラフィティ](https://ja.wikipedia.org/wiki/フィジカル・グラフィティ "wikilink")』                                            | 1975年 |
-| ep.23 | Hydra                  | [TOTO](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")         | 『[ハイドラ](https://ja.wikipedia.org/wiki/ハイドラ_\(アルバム\) "wikilink")』及び収録曲                                              | 1979年 |
-| ep.24 | Light My Fire          | [ドアーズ](../Page/ドアーズ.md "wikilink")                                    | 『[ハートに火をつけて](https://ja.wikipedia.org/wiki/ハートに火をつけて_\(アルバム\) "wikilink")』収録[同名曲](../Page/ハートに火をつけて.md "wikilink") | 1967年 |
-| eq.25 | Walking On The Moon    | [ポリス](https://ja.wikipedia.org/wiki/ポリス_\(バンド\) "wikilink")           | 『[白いレガッタ](https://ja.wikipedia.org/wiki/白いレガッタ "wikilink")(Reggatta de Blanc)』収録「ウォーキング・オン・ザ・ムーン」                  | 1979年 |
-| eq.26 | Still Alive And Well   | [ジョニー・ウィンター](../Page/ジョニー・ウィンター.md "wikilink")                        | 『[スティル・アライヴ・アンド・ウェル](https://ja.wikipedia.org/wiki/スティル・アライヴ・アンド・ウェル "wikilink")』及び収録曲                             | 1973年 |
+| 話数    | サブタイトル                 | アーティスト名                                             | 『アルバム名』または「曲名」邦題                                                                                | 発表年   |
+| ----- | ---------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----- |
+| ep.1  | Can't Buy a Thrill     | [スティーリー・ダン](../Page/スティーリー・ダン.md "wikilink")        | 『[キャント・バイ・ア・スリル](../Page/キャント・バイ・ア・スリル.md "wikilink")』                                          | 1972年 |
+| ep.2  | FRagiLE                | [イエス](../Page/イエス_\(バンド\).md "wikilink")            | 『[こわれもの](../Page/こわれもの.md "wikilink")』                                                          | 1971年 |
+| ep.3  | Keep Me Hanging On     | [ヴァニラ・ファッジ](../Page/ヴァニラ・ファッジ.md "wikilink")        | 『キープ・ミー・ハンギング・オン（Vanilla Fudge）』収録同名曲                                                           | 1967年 |
+| ep.4  | Machine HeaD           | [ディープ・パープル](../Page/ディープ・パープル.md "wikilink")        | 『[マシン・ヘッド](../Page/マシン・ヘッド.md "wikilink")』                                                      | 1972年 |
+| ep.5  | Rough and Ready        | [ジェフ・ベック・グループ](../Page/ジェフ・ベック・グループ.md "wikilink")  | 『[ラフ・アンド・レディ](../Page/ラフ・アンド・レディ.md "wikilink")』                                                | 1972年 |
+| ep.6  | Get it On              | [T・レックス](../Page/T・レックス.md "wikilink")              | 『[電気の武者](https://ja.wikipedia.org/wiki/電気の武者 "wikilink")(Electric Warrior)』収録「ゲット・イット・オン」       | 1971年 |
+| ep.7  | Look at Yourself       | [ユーライア・ヒープ](../Page/ユーライア・ヒープ.md "wikilink")        | 『[対自核](https://ja.wikipedia.org/wiki/対自核 "wikilink")』及び収録曲                                      | 1971年 |
+| ep.8  | Fire Ball              | ディープ・パープル                                           | 『[ファイアボール](../Page/ファイアボール_\(アルバム\).md "wikilink")』及び収録曲                                        | 1971年 |
+| ep.9  | My Nation Underground  | ジュリアン・コープ                                           | 『マイ・ネーション・アンダーグラウンド』及び収録曲                                                                       | 1988年 |
+| ep.10 | Woke Up with A MONSTER | [チープ・トリック](../Page/チープ・トリック.md "wikilink")          | 『[蒼い衝動](https://ja.wikipedia.org/wiki/蒼い衝動_\(アルバム\) "wikilink")』及び収録曲                           | 1994年 |
+| ep.11 | SHEER HEART ATTACK     | [クイーン](../Page/クイーン_\(バンド\).md "wikilink")          | 『[シアー・ハート・アタック](../Page/シアー・ハート・アタック.md "wikilink")』                                            | 1974年 |
+| ep.12 | Made In Japan          | ディープ・パープル                                           | 『[ライヴ・イン・ジャパン](../Page/ライヴ・イン・ジャパン_\(ディープ・パープルのアルバム\).md "wikilink")』                           | 1972年 |
+| ep.13 | Atom Heart Mother      | [ピンク・フロイド](../Page/ピンク・フロイド.md "wikilink")          | 『[原子心母](../Page/原子心母.md "wikilink")』及び収録曲                                                       | 1970年 |
+| ep.14 | Shock Treatment        | [エドガー・ウィンター](../Page/エドガー・ウィンター.md "wikilink")・グループ | 『恐怖のショック療法』                                                                                     | 1974年 |
+| ep.15 | Minute by Minute       | [ドゥービー・ブラザーズ](../Page/ドゥービー・ブラザーズ.md "wikilink")    | 『[ミニット・バイ・ミニット](https://ja.wikipedia.org/wiki/ミニット・バイ・ミニット_\(アルバム\) "wikilink")』及び収録曲           | 1978年 |
+| ep.16 | I SuRRendeR            | [レインボー](../Page/レインボー_\(バンド\).md "wikilink")        | 『[アイ・サレンダー](https://ja.wikipedia.org/wiki/アイ・サレンダー "wikilink")（Difficult to Cure）』収録同名曲         | 1981年 |
+| ep.17 | Moving Waves           | [フォーカス](../Page/フォーカス_\(バンド\).md "wikilink")        | 『[ムーヴィング・ウェイヴス](https://ja.wikipedia.org/wiki/ムーヴィング・ウェイヴス "wikilink")』及び収録曲                    | 1971年 |
+| ep.18 | We Built This City     | [スターシップ](../Page/ジェファーソン・エアプレイン.md "wikilink")      | 『フープラ(Knee Deep in the Hoopla)』収録「シスコはロックシティ」                                                   | 1985年 |
+| ep.19 | Are YOU ExperienceD?   | [ジミ・ヘンドリックス](../Page/ジミ・ヘンドリックス.md "wikilink")      | 『[アー・ユー・エクスペリエンスト?](https://ja.wikipedia.org/wiki/アー・ユー・エクスペリエンスト%3F "wikilink")』及び収録曲          | 1967年 |
+| ep.20 | One of thesE Night     | [イーグルス](../Page/イーグルス.md "wikilink")                | 『[呪われた夜](../Page/呪われた夜.md "wikilink")』及び収録曲                                                     | 1975年 |
+| ep.21 | Close to the Edge      | イエス                                                 | 『[危機](../Page/危機_\(イエスのアルバム\).md "wikilink")』及び収録曲                                              | 1972年 |
+| ep.22 | Physical Graffiti      | [レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")      | 『[フィジカル・グラフィティ](../Page/フィジカル・グラフィティ.md "wikilink")』                                            | 1975年 |
+| ep.23 | Hydra                  | [TOTO](../Page/TOTO_\(バンド\).md "wikilink")          | 『[ハイドラ](https://ja.wikipedia.org/wiki/ハイドラ_\(アルバム\) "wikilink")』及び収録曲                           | 1979年 |
+| ep.24 | Light My Fire          | [ドアーズ](../Page/ドアーズ.md "wikilink")                  | 『[ハートに火をつけて](../Page/ハートに火をつけて_\(アルバム\).md "wikilink")』収録[同名曲](../Page/ハートに火をつけて.md "wikilink") | 1967年 |
+| eq.25 | Walking On The Moon    | [ポリス](../Page/ポリス_\(バンド\).md "wikilink")            | 『[白いレガッタ](../Page/白いレガッタ.md "wikilink")(Reggatta de Blanc)』収録「ウォーキング・オン・ザ・ムーン」                  | 1979年 |
+| eq.26 | Still Alive And Well   | [ジョニー・ウィンター](../Page/ジョニー・ウィンター.md "wikilink")      | 『[スティル・アライヴ・アンド・ウェル](https://ja.wikipedia.org/wiki/スティル・アライヴ・アンド・ウェル "wikilink")』及び収録曲          | 1973年 |
 
 ## 映像ソフト
 
@@ -457,8 +457,8 @@
 
 ## 関連項目
 
-  - [バブルガムクライシス / バブルガム・クラッシュ\!](https://ja.wikipedia.org/wiki/バブルガムクライシス "wikilink")
-  - [AD.POLICE（1990年） / A.D.POLICE（1999年） / PARASITE DOLLS](https://ja.wikipedia.org/wiki/A.D.POLICE "wikilink")
+  - [バブルガムクライシス / バブルガム・クラッシュ\!](../Page/バブルガムクライシス.md "wikilink")
+  - [AD.POLICE（1990年） / A.D.POLICE（1999年） / PARASITE DOLLS](../Page/A.D.POLICE.md "wikilink")
 
 ## 外部リンク
 

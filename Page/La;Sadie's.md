@@ -7,14 +7,14 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に元Stella Mariaのベーシストである[KISAKI](../Page/KISAKI.md "wikilink")によって結成され、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に解散した。
 
-[DIR EN GREYの前身バンドであるとされるが](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")、京は「もともと再結成するつもりはなく解散した」と言うため否定している。バンドが解体して程なくして[DYNAMITE TOMMYに見いだされ](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")、DIR EN GREYの活動に移行したが、一方のKISAKIはインディーズレーベル[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")代表を務め多数のバンドをプロデュースする。同時に[MIRAGEとしての活動もスタートさせた](../Page/MIRAGE_\(バンド\).md "wikilink")。
+[DIR EN GREYの前身バンドであるとされるが](../Page/DIR_EN_GREY.md "wikilink")、京は「もともと再結成するつもりはなく解散した」と言うため否定している。バンドが解体して程なくして[DYNAMITE TOMMYに見いだされ](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")、DIR EN GREYの活動に移行したが、一方のKISAKIはインディーズレーベル[Matina](../Page/Matina.md "wikilink")代表を務め多数のバンドをプロデュースする。同時に[MIRAGEとしての活動もスタートさせた](../Page/MIRAGE_\(バンド\).md "wikilink")。
 
 ほとんどのウェブサイト上で「ラサディーズ」との表記が見られるがこれは誤りであり、ラストシングル「Lu:Ciel」の帯に「ラ・サディース」と表記されている。ボーカルの[京自身による発音は](../Page/京_\(ミュージシャン\).md "wikilink")「ラ・サディス」に近い。
 
 ## メンバー
 
   - [京](../Page/京_\(ミュージシャン\).md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
-    [1976年](../Page/1976年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")生まれ、[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出身、血液型B型。
+    [1976年](../Page/1976年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")生まれ、[京都府](../Page/京都府.md "wikilink")出身、血液型B型。
     当時のバンド歴は3年（ex. Visun → Masquerade）
 
 <!-- end list -->
@@ -31,13 +31,13 @@
 
 <!-- end list -->
 
-  - [Kisaki](../Page/KISAKI.md "wikilink")（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - [Kisaki](../Page/KISAKI.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
     [1976年](../Page/1976年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")生まれ、[和歌山県](../Page/和歌山県.md "wikilink")出身、血液型O型。
     当時のバンド歴は3年（ex. SHЁY≠DЁ → GARDEN →Stella Maria）
 
 <!-- end list -->
 
-  - [Shinya](https://ja.wikipedia.org/wiki/Shinya "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")）
+  - [Shinya](../Page/Shinya.md "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")）
     [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")生まれ、[大阪府](../Page/大阪府.md "wikilink")出身、血液型B型。
     当時のバンド歴は5〜6年（ex. Siva → Ruby）
 
@@ -57,9 +57,9 @@
 
 ボーカル[京と](../Page/京_\(ミュージシャン\).md "wikilink")、ギターでStella Mariaというバンドに加入していたSeine、同バンドのベーシスト[Kisakiとギタリスト](../Page/KISAKI.md "wikilink")\#4、PLESUREというバンドにいたドラマー[葵の](https://ja.wikipedia.org/wiki/斗羅 "wikilink")5人で**廃人黒薔薇族**というセッションコピーバンドを結成（La:Sadie'sの前身）。
 
-後に[葵が脱退](https://ja.wikipedia.org/wiki/斗羅 "wikilink")、後任に[Kisakiがサポートをしていたバンドの](../Page/KISAKI.md "wikilink")[Shinya](https://ja.wikipedia.org/wiki/Shinya "wikilink")が加入。[京とは既に](../Page/京_\(ミュージシャン\).md "wikilink")[大阪](../Page/大阪.md "wikilink")a.m.HALLの楽屋でライブの際知人を介して知り合っていた。
+後に[葵が脱退](https://ja.wikipedia.org/wiki/斗羅 "wikilink")、後任に[Kisakiがサポートをしていたバンドの](../Page/KISAKI.md "wikilink")[Shinya](../Page/Shinya.md "wikilink")が加入。[京とは既に](../Page/京_\(ミュージシャン\).md "wikilink")[大阪](../Page/大阪.md "wikilink")a.m.HALLの楽屋でライブの際知人を介して知り合っていた。
 
-廃人黒薔薇族解散後、[KisakiはStella](../Page/KISAKI.md "wikilink") Mariaを脱退。[京](../Page/京_\(ミュージシャン\).md "wikilink")、[Shinya](https://ja.wikipedia.org/wiki/Shinya "wikilink")の三人と、当時ビラで知り声をかけ意気投合した[Die](../Page/Die_\(ミュージシャン\).md "wikilink")、かつて[Kisakiと同じバンドにいた紫緒の](../Page/KISAKI.md "wikilink")2人を加えた5人で、La:Sadie'sを結成する。
+廃人黒薔薇族解散後、[KisakiはStella](../Page/KISAKI.md "wikilink") Mariaを脱退。[京](../Page/京_\(ミュージシャン\).md "wikilink")、[Shinya](../Page/Shinya.md "wikilink")の三人と、当時ビラで知り声をかけ意気投合した[Die](../Page/Die_\(ミュージシャン\).md "wikilink")、かつて[Kisakiと同じバンドにいた紫緒の](../Page/KISAKI.md "wikilink")2人を加えた5人で、La:Sadie'sを結成する。
 
 ### 1996年
 
@@ -145,13 +145,13 @@
 
 ### 解散後
 
-  - [京](../Page/京_\(ミュージシャン\).md "wikilink")、[KAORU](../Page/薫_\(ミュージシャン\).md "wikilink")、[Die](../Page/Die_\(ミュージシャン\).md "wikilink")、[Shinya](https://ja.wikipedia.org/wiki/Shinya "wikilink")
+  - [京](../Page/京_\(ミュージシャン\).md "wikilink")、[KAORU](../Page/薫_\(ミュージシャン\).md "wikilink")、[Die](../Page/Die_\(ミュージシャン\).md "wikilink")、[Shinya](../Page/Shinya.md "wikilink")
 
 <!-- end list -->
 
   -
-    [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")、[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")長野Jにてベースに[Toshiya](../Page/Toshiya.md "wikilink")を加えたセッションバンドDEATHMASKでLIVEを行う。
-    そのままのメンバーで[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")「**[DIR EN GREY](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")**」を結成し活動を開始。[1999年](../Page/1999年.md "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")し現在に至る。
+    [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月24日](../Page/1月24日.md "wikilink")、[ライブハウス](../Page/ライブハウス.md "wikilink")長野Jにてベースに[Toshiya](../Page/Toshiya.md "wikilink")を加えたセッションバンドDEATHMASKでLIVEを行う。
+    そのままのメンバーで[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")「**[DIR EN GREY](../Page/DIR_EN_GREY.md "wikilink")**」を結成し活動を開始。[1999年](../Page/1999年.md "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")し現在に至る。
 
 <!-- end list -->
 
@@ -160,8 +160,8 @@
 <!-- end list -->
 
   -
-    [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[MIRAGE結成](../Page/MIRAGE_\(バンド\).md "wikilink")。[11月1日](../Page/11月1日.md "wikilink")レーベル[Matina](https://ja.wikipedia.org/wiki/Matina "wikilink")を設立。
-    その後は[2000年](../Page/2000年.md "wikilink")に[Syndrome](https://ja.wikipedia.org/wiki/Syndrome "wikilink")結成、[2003年](../Page/2003年.md "wikilink")に[ソロ活動を開始](https://ja.wikipedia.org/wiki/KISAKI_PROJECT_feat.樹威 "wikilink")、[2004年](../Page/2004年.md "wikilink")に[Phantasmagoria](https://ja.wikipedia.org/wiki/Phantasmagoria "wikilink")を結成。
+    [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、[MIRAGE結成](../Page/MIRAGE_\(バンド\).md "wikilink")。[11月1日](../Page/11月1日.md "wikilink")レーベル[Matina](../Page/Matina.md "wikilink")を設立。
+    その後は[2000年](../Page/2000年.md "wikilink")に[Syndrome](../Page/Syndrome.md "wikilink")結成、[2003年](../Page/2003年.md "wikilink")に[ソロ活動を開始](https://ja.wikipedia.org/wiki/KISAKI_PROJECT_feat.樹威 "wikilink")、[2004年](../Page/2004年.md "wikilink")に[Phantasmagoria](../Page/Phantasmagoria.md "wikilink")を結成。
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")にバンド活動を引退し、自身が設立したレーベル**UNDER CODE PRODUCTION**にてプロデュース業に専念すると発表するも凜で復帰、引退解散復帰を繰り返している。
 
 <!-- end list -->
@@ -180,7 +180,7 @@
 <!-- end list -->
 
   -
-    後に[KISAKI](../Page/KISAKI.md "wikilink")は雑誌のインタビューで「[東京](../Page/東京.md "wikilink")に行きたがってるメンバーと、[大阪](../Page/大阪.md "wikilink")に残り活動したい自分との断絶が長くなって解散した。」と語っている。しかし「…結末…」での「7月から11月にかけてのツアーから、ライブ活動が楽しく無くなった。」との[Shinya](https://ja.wikipedia.org/wiki/Shinya "wikilink")の発言や、[京の](../Page/京_\(ミュージシャン\).md "wikilink")「La:Sadie'sを解散した後、ベース以外の奴とまたバンドがやりたかった。」等の発言から、メンバー間での確執も一因としてあったと思われる。また[KISAKI](../Page/KISAKI.md "wikilink")は自身の[ブログ](../Page/ブログ.md "wikilink")によると[薫とは現在も交流を行っている模様](../Page/薫_\(ミュージシャン\).md "wikilink")。
+    後に[KISAKI](../Page/KISAKI.md "wikilink")は雑誌のインタビューで「[東京](../Page/東京.md "wikilink")に行きたがってるメンバーと、[大阪](../Page/大阪.md "wikilink")に残り活動したい自分との断絶が長くなって解散した。」と語っている。しかし「…結末…」での「7月から11月にかけてのツアーから、ライブ活動が楽しく無くなった。」との[Shinya](../Page/Shinya.md "wikilink")の発言や、[京の](../Page/京_\(ミュージシャン\).md "wikilink")「La:Sadie'sを解散した後、ベース以外の奴とまたバンドがやりたかった。」等の発言から、メンバー間での確執も一因としてあったと思われる。また[KISAKI](../Page/KISAKI.md "wikilink")は自身の[ブログ](../Page/ブログ.md "wikilink")によると[薫とは現在も交流を行っている模様](../Page/薫_\(ミュージシャン\).md "wikilink")。
 
 ## ライブ
 
@@ -250,7 +250,7 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - [5月8日](../Page/5月8日.md "wikilink") [難波](https://ja.wikipedia.org/wiki/難波 "wikilink")W'OHOL (DEAD ONE PREDENTS Vol.3)
+  - [5月8日](../Page/5月8日.md "wikilink") [難波](../Page/難波.md "wikilink")W'OHOL (DEAD ONE PREDENTS Vol.3)
   - [5月10日](../Page/5月10日.md "wikilink") [大阪](../Page/大阪市.md "wikilink") a.m.HALL (Charismatic Mate Vol.3.5)
     「腐乱ユエニ…」 1\# Jacket Version 限定100本無料配布
   - [5月12日](../Page/5月12日.md "wikilink") [目黒鹿鳴館](https://ja.wikipedia.org/wiki/目黒鹿鳴館 "wikilink") (Charismatic Mate Vol.3)
@@ -272,7 +272,7 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - [6月1日](../Page/6月1日.md "wikilink") [心斎橋](https://ja.wikipedia.org/wiki/心斎橋 "wikilink")MUSE HALL (Angelic Cnversastion Vol.1)
+  - [6月1日](../Page/6月1日.md "wikilink") [心斎橋](../Page/心斎橋.md "wikilink")MUSE HALL (Angelic Cnversastion Vol.1)
     イヴェントポスターを200枚限定販売。
   - [6月9日](../Page/6月9日.md "wikilink") [尼崎LIVE](../Page/尼崎市.md "wikilink") SQUARE VIVRE
 
@@ -314,10 +314,10 @@
 
   - [8月1日](../Page/8月1日.md "wikilink") [大阪DEAD](../Page/大阪市.md "wikilink") ONE (“十字架ニ捧ゲル夢…”発売記念イヴェント)
     PHOTO&メッセージカードを入場者全員に配布。
-  - [8月2日](../Page/8月2日.md "wikilink") [難波](https://ja.wikipedia.org/wiki/難波 "wikilink")W'OHOL (DEAD ONE PRESENTS Vol.3)
+  - [8月2日](../Page/8月2日.md "wikilink") [難波](../Page/難波.md "wikilink")W'OHOL (DEAD ONE PRESENTS Vol.3)
     出演バンドオムニバステープ「DEAD ONE」を入場者全員に配布。
   - [8月4日](../Page/8月4日.md "wikilink") [大阪城](https://ja.wikipedia.org/wiki/大阪城 "wikilink")天
-  - [8月4日](../Page/8月4日.md "wikilink") [難波](https://ja.wikipedia.org/wiki/難波 "wikilink")W'OHOL (Systematic Protestant Stage)
+  - [8月4日](../Page/8月4日.md "wikilink") [難波](../Page/難波.md "wikilink")W'OHOL (Systematic Protestant Stage)
   - [8月7日](../Page/8月7日.md "wikilink") [尼崎LIVE](../Page/尼崎市.md "wikilink") SQUARE VIVRE (女神ノ足跡ヲ辿ッテ…)
   - [8月8日](../Page/8月8日.md "wikilink") [浦和NARCISS](https://ja.wikipedia.org/wiki/浦和区 "wikilink") (漆黒のシンフォニー)
   - [8月9日](../Page/8月9日.md "wikilink") [町田PLAY](../Page/町田市.md "wikilink") HOUSE
@@ -385,7 +385,7 @@
   - [10月26日](../Page/10月26日.md "wikilink")〜[27日](../Page/10月27日.md "wikilink") 市川CLUB GIO (Crystalose Vision)
     オールナイト企画
   - [10月27日](../Page/10月27日.md "wikilink") [名古屋BOTTOM](../Page/名古屋市.md "wikilink") LINE (Behind The Mask)
-  - [10月29日](../Page/10月29日.md "wikilink") [難波](https://ja.wikipedia.org/wiki/難波 "wikilink")W'OHOL (Behind The Mask)
+  - [10月29日](../Page/10月29日.md "wikilink") [難波](../Page/難波.md "wikilink")W'OHOL (Behind The Mask)
   - [10月30日](../Page/10月30日.md "wikilink") [京都MUSE](../Page/京都市.md "wikilink") HALL (PARANOIA Vol.6)
 
 </div>
@@ -457,7 +457,7 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - [1月4日](../Page/1月4日.md "wikilink") [江坂](https://ja.wikipedia.org/wiki/江坂 "wikilink")BOOMIN HALL (Entrance of the Insanity)
+  - [1月4日](../Page/1月4日.md "wikilink") [江坂](../Page/江坂.md "wikilink")BOOMIN HALL (Entrance of the Insanity)
   - [1月6日](../Page/1月6日.md "wikilink") [名古屋MUSIC](../Page/名古屋市.md "wikilink") FARM
   - [1月7日](../Page/1月7日.md "wikilink") [名古屋MUSIC](../Page/名古屋市.md "wikilink") FARM (NEW YEAR PARTY)
   - [1月8日](../Page/1月8日.md "wikilink") [名古屋MUSIC](../Page/名古屋市.md "wikilink") FARM (ワンマン)

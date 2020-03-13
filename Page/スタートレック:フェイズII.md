@@ -3,7 +3,7 @@
 
 『**スタートレック:フェイズII**』は『[スタートレック](../Page/スタートレック.md "wikilink")』シリーズ最初の作品、『[宇宙大作戦](../Page/宇宙大作戦.md "wikilink")』の直接的な続編として企画された[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
 
-脚本は12作目まで完成していたが、映画『[スタートレック](https://ja.wikipedia.org/wiki/スタートレック_\(映画\) "wikilink")』の公開のため企画は中止された。基本的にキャストは前作と同じだが、副官[スポック](https://ja.wikipedia.org/wiki/スポック "wikilink")役の[レナード・ニモイ](../Page/レナード・ニモイ.md "wikilink")が舞台に出演中でブッキングできず、副官は新キャラクター、ゾーンとなった。なお本作では映画に登場する一部のクルーがレギュラーとして登場予定だった。
+脚本は12作目まで完成していたが、映画『[スタートレック](../Page/スタートレック_\(映画\).md "wikilink")』の公開のため企画は中止された。基本的にキャストは前作と同じだが、副官[スポック](../Page/スポック.md "wikilink")役の[レナード・ニモイ](../Page/レナード・ニモイ.md "wikilink")が舞台に出演中でブッキングできず、副官は新キャラクター、ゾーンとなった。なお本作では映画に登場する一部のクルーがレギュラーとして登場予定だった。
 
 ## 設定
 
@@ -15,8 +15,8 @@
 
   - [ジェームズ・タイベリウス・カーク](../Page/ジェームズ・T・カーク.md "wikilink")（[ウィリアム・シャトナー](../Page/ウィリアム・シャトナー.md "wikilink")） - 船長（大佐）。地球人男性。
   - [ウィラード・デッカー](https://ja.wikipedia.org/wiki/ウィラード・デッカー "wikilink")（[スティーブン・コリンズ](https://ja.wikipedia.org/wiki/スティーブン・コリンズ "wikilink")） - 副長（中佐）。地球人男性。
-  - [ゾーン](https://ja.wikipedia.org/wiki/ゾーン_\(スタートレック\) "wikilink")（[デヴィット・ゴートレックス](https://ja.wikipedia.org/wiki/デヴィット・ゴートレックス "wikilink")） - 科学主任（中佐）。[バルカン人](https://ja.wikipedia.org/wiki/バルカン人 "wikilink")男性。
-  - [レナード・マッコイ](https://ja.wikipedia.org/wiki/レナード・マッコイ "wikilink")（[ディフォレスト・ケリー](https://ja.wikipedia.org/wiki/ディフォレスト・ケリー "wikilink")） - 医療主任（中佐）。地球人男性。
+  - [ゾーン](https://ja.wikipedia.org/wiki/ゾーン_\(スタートレック\) "wikilink")（[デヴィット・ゴートレックス](https://ja.wikipedia.org/wiki/デヴィット・ゴートレックス "wikilink")） - 科学主任（中佐）。[バルカン人](../Page/バルカン人.md "wikilink")男性。
+  - [レナード・マッコイ](../Page/レナード・マッコイ.md "wikilink")（[ディフォレスト・ケリー](https://ja.wikipedia.org/wiki/ディフォレスト・ケリー "wikilink")） - 医療主任（中佐）。地球人男性。
   - [モンゴメリー・スコット](../Page/モンゴメリー・スコット.md "wikilink")（[ジェームズ・ドゥーハン](https://ja.wikipedia.org/wiki/ジェームズ・ドゥーハン "wikilink")） - 機関主任（中佐）。地球人男性。
   - [ウフーラ](../Page/ウフーラ.md "wikilink")（[ニシェル・ニコルズ](https://ja.wikipedia.org/wiki/ニシェル・ニコルズ "wikilink")） - 通信士官（少佐）。地球人女性。
   - [ヒカル・スールー](../Page/ヒカル・スールー.md "wikilink")（[ジョージ・タケイ](../Page/ジョージ・タケイ.md "wikilink")） - 主任ナビゲーター（少佐）。地球人男性。

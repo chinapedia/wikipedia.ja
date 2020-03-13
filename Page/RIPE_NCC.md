@@ -23,7 +23,7 @@ RIPE NCCの本部は[オランダ](https://ja.wikipedia.org/wiki/オランダ "w
 
 ## 関連項目
 
-  - [ICANN](https://ja.wikipedia.org/wiki/ICANN "wikilink")
+  - [ICANN](../Page/ICANN.md "wikilink")
   - [地域インターネットレジストリ](../Page/地域インターネットレジストリ.md "wikilink")
 
 ## 外部リンク

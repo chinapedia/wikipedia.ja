@@ -43,7 +43,7 @@
   -
 
       -
-        [ナイツ](https://ja.wikipedia.org/wiki/ナイツ_\(パチスロ\) "wikilink") ・ [スーパーピカゴロウR](https://ja.wikipedia.org/wiki/スーパーピカゴロウR "wikilink") ・ [スーパーリノ](https://ja.wikipedia.org/wiki/スーパーリノ "wikilink")
+        [ナイツ](../Page/ナイツ_\(パチスロ\).md "wikilink") ・ [スーパーピカゴロウR](https://ja.wikipedia.org/wiki/スーパーピカゴロウR "wikilink") ・ [スーパーリノ](../Page/スーパーリノ.md "wikilink")
 
 <!-- end list -->
 
@@ -94,12 +94,12 @@
 <!-- end list -->
 
   - **「山佐DigiワールドSP [ネオマジックパルサーXX](../Page/ネオマジックパルサーXX.md "wikilink")」** - [2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")
-  - **「山佐DigiワールドSP [燃えよ\!功夫淑女](../Page/燃えよ!功夫淑女.md "wikilink")」** - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月27日](../Page/4月27日.md "wikilink")
+  - **「山佐DigiワールドSP [燃えよ\!功夫淑女](../Page/燃えよ!功夫淑女.md "wikilink")」** - [2006年](../Page/2006年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")
   - **「山佐DigiワールドSP [ジャイアントパルサー](../Page/ジャイアントパルサー.md "wikilink")」** - 2006年[9月7日](../Page/9月7日.md "wikilink")
 
 ### PlayStation Portable用ソフト
 
-  - **「山佐Digiポータブル [祭の達人 ウィンちゃんの夏祭り](https://ja.wikipedia.org/wiki/祭の達人_ウィンちゃんの夏祭り "wikilink")」** - 2006年[8月10日](../Page/8月10日.md "wikilink")
+  - **「山佐Digiポータブル [祭の達人 ウィンちゃんの夏祭り](../Page/祭の達人_ウィンちゃんの夏祭り.md "wikilink")」** - 2006年[8月10日](../Page/8月10日.md "wikilink")
 
 ### PlayStation 3用ソフト
 
@@ -126,7 +126,7 @@
   -
 
       -
-        祭の達人 ウィンちゃんの夏祭り ・ 燃えよ！功夫淑女 ・ [天下布武R](../Page/テンカフブ.md "wikilink") ・ [CRすーぱー福の神](https://ja.wikipedia.org/wiki/CRすーぱー福の神 "wikilink") ・ ジャイアントパルサー ・ [キングオブキングパルサー](https://ja.wikipedia.org/wiki/キングオブキングパルサー・プレミアムバージョン "wikilink")
+        祭の達人 ウィンちゃんの夏祭り ・ 燃えよ！功夫淑女 ・ [天下布武R](../Page/テンカフブ.md "wikilink") ・ [CRすーぱー福の神](https://ja.wikipedia.org/wiki/CRすーぱー福の神 "wikilink") ・ ジャイアントパルサー ・ [キングオブキングパルサー](../Page/キングオブキングパルサー・プレミアムバージョン.md "wikilink")
 
 ## 関連項目
 

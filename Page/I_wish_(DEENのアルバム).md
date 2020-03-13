@@ -1,7 +1,7 @@
 > この記事は[I wish \(DEEN\)](https://ja.wikipedia.org/wiki/I_wish_\(DEEN\))から翻訳されています。
 
 
-**I wish**（アイ・ウィッシュ）は[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の2ndアルバム。
+**I wish**（アイ・ウィッシュ）は[DEEN](../Page/DEEN.md "wikilink")の2ndアルバム。
 
 ## 解説
 
@@ -22,7 +22,7 @@
       -
         10thシングル。
 3.  **[Teenage dream](../Page/Teenage_dream.md "wikilink")**
-      - 作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")　編曲：葉山たけし
+      - 作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲：葉山たけし
     <!-- end list -->
       -
         6thシングル。
@@ -65,16 +65,16 @@
 
 ### DEEN
 
-  - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink"): VOCAL, CHORUS
-  - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink"): KEYBOARDS, CHORUS
+  - [池森秀一](../Page/池森秀一.md "wikilink"): VOCAL, CHORUS
+  - [山根公路](../Page/山根公路.md "wikilink"): KEYBOARDS, CHORUS
   - [宇津本直紀](../Page/宇津本直紀.md "wikilink"): DRUMS, PERCUSSION
-  - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink"): GUITARS
+  - [田川伸治](../Page/田川伸治.md "wikilink"): GUITARS
 
 ### ゲストミュージシャン
 
   - [生沢佑一](../Page/生沢佑一.md "wikilink") (from [TWINZER](../Page/TWINZER.md "wikilink"))
   - [坪倉唯子](../Page/坪倉唯子.md "wikilink")
-  - 勝田一樹 (from [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink"))
+  - 勝田一樹 (from [DIMENSION](../Page/DIMENSION.md "wikilink"))
   - 佐々木史郎 他
 
 [Category:DEENのアルバム](https://ja.wikipedia.org/wiki/Category:DEENのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:B-Gram_RECORDSのアルバム](https://ja.wikipedia.org/wiki/Category:B-Gram_RECORDSのアルバム "wikilink")

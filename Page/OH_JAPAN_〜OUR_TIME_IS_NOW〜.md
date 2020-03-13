@@ -15,8 +15,8 @@
         新年早々の[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で1週間で制作した。タイアップの関係で、曲よりも発売日が先に決まっていたという。
         松本は日本のためのアンセムみたいな曲を書けないかと夢見ていた。
         タイアップの関係で、松本は“JAPAN”をタイトルに使うよう二人に伝えていた。そのため、歌詞はタイアップを意識してポジティヴな気持ちをこめて書いたという。
-        本作を引っさげ、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! 春の桜満開\!日本全国縦断生中継スペシャル\!\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』や[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV 01 はなわまおー](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")』に出演したが、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[エリック・マーティン](../Page/エリック・マーティン.md "wikilink")が参加できず、その時のエリックの代役を[ベースのジャック](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・ブレイズが務めた。
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は、[目黒雅叙園](https://ja.wikipedia.org/wiki/目黒雅叙園 "wikilink")で松本のみ撮影されたものと、外国人メンバーが来日した際に撮影したバンド演奏の映像を、合わせたものとなっている。
+        本作を引っさげ、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[HEY\!HEY\!HEY\! 春の桜満開\!日本全国縦断生中継スペシャル\!\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』や[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[AX MUSIC-TV 01 はなわまおー](../Page/AX_MUSIC-TV.md "wikilink")』に出演したが、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[エリック・マーティン](../Page/エリック・マーティン.md "wikilink")が参加できず、その時のエリックの代役を[ベースのジャック](../Page/ベース_\(弦楽器\).md "wikilink")・ブレイズが務めた。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は、[目黒雅叙園](../Page/目黒雅叙園.md "wikilink")で松本のみ撮影されたものと、外国人メンバーが来日した際に撮影したバンド演奏の映像を、合わせたものとなっている。
         曲の冒頭で松本が[日本語](../Page/日本語.md "wikilink")の[ラップ](../Page/ラップ.md "wikilink")を担当しているが、松本は初めエリックとジャックに歌ってもらうつもりだったという。
 2.  **TRAPPED** （3:41）
       -
@@ -28,9 +28,9 @@
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
-  - [エリック・マーティン](../Page/エリック・マーティン.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")
-  - ジャック・ブレイズ：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、全曲作詞
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")：全曲編曲
+  - [エリック・マーティン](../Page/エリック・マーティン.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、全曲[作詞](../Page/作詞.md "wikilink")
+  - ジャック・ブレイズ：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、全曲作詞
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")：全曲編曲
   - [ブライアン・ティッシー](https://ja.wikipedia.org/wiki/ブライアン・ティッシー "wikilink")：[ドラム](../Page/ドラムセット.md "wikilink")
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")：[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")（\#2）
 

@@ -37,7 +37,7 @@
 
 #### 楽曲提供
 
-[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の[コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")として、[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")「[GuitarFreaks](../Page/GUITARFREAKS.md "wikilink")」と「[DrumMania](https://ja.wikipedia.org/wiki/drummania "wikilink")」にRYDER（[Tim Jensenとのユニット](https://ja.wikipedia.org/wiki/:en:Tim_Jensen "wikilink")）、millll（[あさき](https://ja.wikipedia.org/wiki/あさき "wikilink")とのユニット）名義で楽曲を提供。
+[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")の[コンポーザー](https://ja.wikipedia.org/wiki/コンポーザー "wikilink")として、[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")「[GuitarFreaks](../Page/GUITARFREAKS.md "wikilink")」と「[DrumMania](https://ja.wikipedia.org/wiki/drummania "wikilink")」にRYDER（[Tim Jensenとのユニット](https://ja.wikipedia.org/wiki/:en:Tim_Jensen "wikilink")）、millll（[あさき](../Page/あさき.md "wikilink")とのユニット）名義で楽曲を提供。
 
   - in control（「GuitarFreaksV5」「DrumManiaV5」／RYDER）
   - I M I（「GuitarFreaksXG」「DrumManiaXG」「GuitarFreaksV8」「DrumManiaV8」／RYDER）
@@ -68,7 +68,7 @@
 
 <!-- end list -->
 
-  - 5月13日、3rdシングルで初の日本語歌詞の「There will be love there -愛のある場所-」をリリース\[12\]。TBSのドラマ『[ラブ・アゲイン](../Page/ラブ・アゲイン_\(1998年のテレビドラマ\).md "wikilink")』の主題歌に抜擢されてロングセラーとなり、オリコン1位を獲得。[ダブル・プラチナを超えるヒットを記録した](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink")\[13\]。
+  - 5月13日、3rdシングルで初の日本語歌詞の「There will be love there -愛のある場所-」をリリース\[12\]。TBSのドラマ『[ラブ・アゲイン](../Page/ラブ・アゲイン_\(1998年のテレビドラマ\).md "wikilink")』の主題歌に抜擢されてロングセラーとなり、オリコン1位を獲得。[ダブル・プラチナを超えるヒットを記録した](../Page/ゴールドディスク.md "wikilink")\[13\]。
 
 <!-- end list -->
 
@@ -124,7 +124,7 @@
 <!-- end list -->
 
   - 2月6日、17枚目のシングル「Ash Like Snow」をリリース（『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』のOP）。
-  - 2月22日、活動から11年目で初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")を発売。3月3日付け[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")・ウィークリー・アルバム・チャートで1位を獲得\[20\]。
+  - 2月22日、活動から11年目で初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")を発売。3月3日付け[オリコン](../Page/オリコンチャート.md "wikilink")・ウィークリー・アルバム・チャートで1位を獲得\[20\]。
   - 9月、川瀬のソロプロジェクト「Tommy heavenly6」が1年半ぶりに活動を再開。
 
 <!-- end list -->
@@ -229,18 +229,18 @@
 
 #### オリジナルアルバム
 
-|                                                           | 発売日                                                        | タイトル                                                                                         | 規格     | 規格品番       | 備考      |
-| --------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------ | ---------- | ------- |
-| 1st                                                       | 1998年[9月19日](../Page/9月19日.md "wikilink")                  | [the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green_\(アルバム\) "wikilink") | CD     | SRCL-4368  |         |
-| 2000年10月1日                                                | DFCZ-1006                                                  |                                                                                              |        |            |         |
-| 2nd                                                       | 1999年[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink") | [TERRA2001](https://ja.wikipedia.org/wiki/TERRA2001 "wikilink")                              | CD     | SRCL-4600  |         |
-| 2000年10月1日                                                | DFCZ-1010                                                  |                                                                                              |        |            |         |
-| 3rd                                                       | 2001年[1月1日](../Page/1月1日.md "wikilink")                    | [Los Angeles](https://ja.wikipedia.org/wiki/Los_Angeles_\(アルバム\) "wikilink")                 | CD     | DFCZ-1026  |         |
-| [LPレコード](https://ja.wikipedia.org/wiki/LPレコード "wikilink") | DFJZ-6002                                                  |                                                                                              |        |            |         |
-| 2002年4月24日                                                | [SACD](../Page/Super_Audio_CD.md "wikilink")               | DFGL-9051                                                                                    |        |            |         |
-| 4th                                                       | 2002年[12月4日](../Page/12月4日.md "wikilink")                  | [THE WINTER ALBUM](https://ja.wikipedia.org/wiki/THE_WINTER_ALBUM "wikilink")                | CD     | DFCL-1087  |         |
-| 5th                                                       | 2010年[9月15日](../Page/9月15日.md "wikilink")                  | [BLACKOUT](https://ja.wikipedia.org/wiki/BLACKOUT "wikilink")                                | CD+DVD | WPZL-30217 | 初回生産限定盤 |
-| CD                                                        | WPCL-10861                                                 | 通常盤。                                                                                         |        |            |         |
+|                                                           | 発売日                                          | タイトル                                                                                         | 規格     | 規格品番       | 備考      |
+| --------------------------------------------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------- | ------ | ---------- | ------- |
+| 1st                                                       | 1998年[9月19日](../Page/9月19日.md "wikilink")    | [the brilliant green](https://ja.wikipedia.org/wiki/the_brilliant_green_\(アルバム\) "wikilink") | CD     | SRCL-4368  |         |
+| 2000年10月1日                                                | DFCZ-1006                                    |                                                                                              |        |            |         |
+| 2nd                                                       | 1999年[9月8日](../Page/9月8日.md "wikilink")      | [TERRA2001](https://ja.wikipedia.org/wiki/TERRA2001 "wikilink")                              | CD     | SRCL-4600  |         |
+| 2000年10月1日                                                | DFCZ-1010                                    |                                                                                              |        |            |         |
+| 3rd                                                       | 2001年[1月1日](../Page/1月1日.md "wikilink")      | [Los Angeles](https://ja.wikipedia.org/wiki/Los_Angeles_\(アルバム\) "wikilink")                 | CD     | DFCZ-1026  |         |
+| [LPレコード](https://ja.wikipedia.org/wiki/LPレコード "wikilink") | DFJZ-6002                                    |                                                                                              |        |            |         |
+| 2002年4月24日                                                | [SACD](../Page/Super_Audio_CD.md "wikilink") | DFGL-9051                                                                                    |        |            |         |
+| 4th                                                       | 2002年[12月4日](../Page/12月4日.md "wikilink")    | [THE WINTER ALBUM](https://ja.wikipedia.org/wiki/THE_WINTER_ALBUM "wikilink")                | CD     | DFCL-1087  |         |
+| 5th                                                       | 2010年[9月15日](../Page/9月15日.md "wikilink")    | [BLACKOUT](https://ja.wikipedia.org/wiki/BLACKOUT "wikilink")                                | CD+DVD | WPZL-30217 | 初回生産限定盤 |
+| CD                                                        | WPCL-10861                                   | 通常盤。                                                                                         |        |            |         |
 
 #### ベストアルバム
 
@@ -252,10 +252,10 @@
 
 #### カバーアルバム
 
-|            | 発売日                                                                                         | タイトル                                                                                  | 規格 | 規格品番        | 備考                |
-| ---------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -- | ----------- | ----------------- |
-| 1st        | [2014年](../Page/2014年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") | [THE SWINGIN' SIXTIES](https://ja.wikipedia.org/wiki/THE_SWINGIN'_SIXTIES "wikilink") | CD | WPCL-11718X | 初回限定7inchジャケット仕様。 |
-| WPCL-11718 |                                                                                             |                                                                                       |    |             |                   |
+|            | 発売日                                                                      | タイトル                                                                                  | 規格 | 規格品番        | 備考                |
+| ---------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | -- | ----------- | ----------------- |
+| 1st        | [2014年](../Page/2014年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink") | [THE SWINGIN' SIXTIES](https://ja.wikipedia.org/wiki/THE_SWINGIN'_SIXTIES "wikilink") | CD | WPCL-11718X | 初回限定7inchジャケット仕様。 |
+| WPCL-11718 |                                                                          |                                                                                       |    |             |                   |
 
 ### 映像作品
 

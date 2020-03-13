@@ -1,7 +1,7 @@
 > この記事は[What\'s UP SMAP!](https://ja.wikipedia.org/wiki/What\'s_UP_SMAP!)から翻訳されています。
 
 
-『**木村拓哉のWhat's UP SMAP\!**』（きむらたくやのワッツアップスマップ）は、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")38局ネットで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")の冠番組である。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月放送開始。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月に一旦終了したが、同年10月再開。2016年にSMAPが解散し、当番組は唯一「SMAP」の名前を継続したまま続いていたが、2018年7月27日の放送をもって終了した\[1\]。番組の愛称は「ワッツ」。
+『**木村拓哉のWhat's UP SMAP\!**』（きむらたくやのワッツアップスマップ）は、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN系全国](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")38局ネットで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[木村拓哉](../Page/木村拓哉.md "wikilink")の冠番組である。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月放送開始。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月に一旦終了したが、同年10月再開。2016年にSMAPが解散し、当番組は唯一「SMAP」の名前を継続したまま続いていたが、2018年7月27日の放送をもって終了した\[1\]。番組の愛称は「ワッツ」。
 
 ## 概要
 
@@ -24,7 +24,7 @@
 
 リスナーからの[FAXや](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")[はがき](../Page/はがき.md "wikilink")、[メールによる](../Page/電子メール.md "wikilink")[ジャニーズに関する事や](../Page/ジャニーズ事務所.md "wikilink")、出演番組に関する質問等に答える内容が中心。
 
-これにより、[嵐が自分の命名であるガセが出回っていたことを知ってしまったり](../Page/嵐_\(グループ\).md "wikilink")、ドラマ内の表記が間違っているというダメ出しを喰らったりと、なかなか衝撃的な展開を見せることもある。リスナーから『[エンジン](https://ja.wikipedia.org/wiki/エンジン_\(テレビドラマ\) "wikilink")』の視聴率が芳しくないこと（それでもほぼ毎回20％を超えていたが）を指摘されたと同時に「木村ドラマは[ジブリ作品が](../Page/スタジオジブリ.md "wikilink")『の』が入っていないといけない（当時[ハウルの動く城](../Page/ハウルの動く城.md "wikilink")の声優であったことにもかけている）のと同じで『ラ行』の音が入っていると大ヒットする」という法則を教えられている（『[眠れる森](https://ja.wikipedia.org/wiki/眠れる森 "wikilink")』、『[ロングバケーション](https://ja.wikipedia.org/wiki/ロングバケーション_\(テレビドラマ\) "wikilink")』、『[ラブジェネレーション](../Page/ラブジェネレーション.md "wikilink")』、『[GOOD LUCK\!\!](../Page/GOOD_LUCK!!.md "wikilink")』、『[ビューティフルライフ](../Page/ビューティフルライフ.md "wikilink")』、『[HERO](../Page/HERO_\(テレビドラマ\).md "wikilink")』、『[華麗なる一族](../Page/華麗なる一族_\(2007年のテレビドラマ\).md "wikilink")』など）。ただしこの法則は、『[若者のすべて](../Page/若者のすべて_\(テレビドラマ\).md "wikilink")』、『[協奏曲](../Page/協奏曲_\(テレビドラマ\).md "wikilink")』、『[エンジン](https://ja.wikipedia.org/wiki/エンジン_\(テレビドラマ\) "wikilink")』など当てはまらないものもある。
+これにより、[嵐が自分の命名であるガセが出回っていたことを知ってしまったり](../Page/嵐_\(グループ\).md "wikilink")、ドラマ内の表記が間違っているというダメ出しを喰らったりと、なかなか衝撃的な展開を見せることもある。リスナーから『[エンジン](../Page/エンジン_\(テレビドラマ\).md "wikilink")』の視聴率が芳しくないこと（それでもほぼ毎回20％を超えていたが）を指摘されたと同時に「木村ドラマは[ジブリ作品が](../Page/スタジオジブリ.md "wikilink")『の』が入っていないといけない（当時[ハウルの動く城](../Page/ハウルの動く城.md "wikilink")の声優であったことにもかけている）のと同じで『ラ行』の音が入っていると大ヒットする」という法則を教えられている（『[眠れる森](../Page/眠れる森.md "wikilink")』、『[ロングバケーション](../Page/ロングバケーション_\(テレビドラマ\).md "wikilink")』、『[ラブジェネレーション](../Page/ラブジェネレーション.md "wikilink")』、『[GOOD LUCK\!\!](../Page/GOOD_LUCK!!.md "wikilink")』、『[ビューティフルライフ](../Page/ビューティフルライフ.md "wikilink")』、『[HERO](../Page/HERO_\(テレビドラマ\).md "wikilink")』、『[華麗なる一族](../Page/華麗なる一族_\(2007年のテレビドラマ\).md "wikilink")』など）。ただしこの法則は、『[若者のすべて](../Page/若者のすべて_\(テレビドラマ\).md "wikilink")』、『[協奏曲](../Page/協奏曲_\(テレビドラマ\).md "wikilink")』、『[エンジン](../Page/エンジン_\(テレビドラマ\).md "wikilink")』など当てはまらないものもある。
 
 木村の『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』好きが最も発揮される場でもあり、その話題のみの回もある。出版元である[集英社](../Page/集英社.md "wikilink")に直接乗り込んだ回さえあった。また、公式サイトのデザインが[海賊](../Page/海賊.md "wikilink")仕様であったり、リスナーのことを「乗組員」と呼ぶのもその影響と思われる。
 
@@ -46,7 +46,7 @@
 
 放送が開始されてしばらくの期間は木村のほか、TOKYO FMアナウンサー（当時）木村達彦（きむらたつひこ）も出演していたことがある。木村がキムタクと呼ばれるのに対して、木村達彦は「きむたつ」と呼ばれていた。ちなみに達彦は現在引退しているが、当時、SMAPとも紅白などで親交が深い[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")がDJを務める『[DJアッコのパニックスタジオ](https://ja.wikipedia.org/wiki/DJアッコのパニックスタジオ "wikilink")』も担当していた。
 
-2007年4月～2010年9月、番組の前後を『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』に挟まれており、その『SCHOOL OF LOCK\!』のパーソナリティーの[やましげ校長は](https://ja.wikipedia.org/wiki/山崎樹範 "wikilink")、この番組を「**キムタクLOCKS\!**」と称した（いつの間にか木村がSOLの教師になっていた）。
+2007年4月～2010年9月、番組の前後を『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』に挟まれており、その『SCHOOL OF LOCK\!』のパーソナリティーの[やましげ校長は](../Page/山崎樹範.md "wikilink")、この番組を「**キムタクLOCKS\!**」と称した（いつの間にか木村がSOLの教師になっていた）。
 
 [2009年](../Page/2009年.md "wikilink")[5月22日](../Page/5月22日.md "wikilink")放送分は、[太田光](../Page/太田光.md "wikilink")が番組冒頭ではディレクター役（「クリリン」こと栗原広志ディレクターが本来の役割の為、チーフディレクターを名乗る）、後半ではディレクターとしての番組ジャックを太田自ら出演して謝罪、この模様は2009年5月30日放送のTBSテレビ『[キズナ食堂](https://ja.wikipedia.org/wiki/キズナ食堂 "wikilink")』で放送された。
 
@@ -74,7 +74,7 @@
 
 その後、2010年3月末で木村のカップヌードルCM降板に伴い、日清食品は本番組スポンサーからも降板。2002年3月以来、8年振りに一社提供となる。1ヶ月の一社提供の時期を挟み、2010年5月から新たに[セコム](../Page/セコム.md "wikilink")がスポンサーに参入した。
 
-なお、2013年2月18日午後に発生した栃木県内の強震及び一連の余震（[東北太平洋沖地震による誘発地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）の影響で営業に支障をきたした[系列店舗も複数あったこと等から同じ週の金曜日である](https://ja.wikipedia.org/wiki/セブン&アイ・ホールディングス "wikilink")22日放送分はCMもカット、ヒッチハイクCMもJFNC制作の啓発CMに差し替えられた。
+なお、2013年2月18日午後に発生した栃木県内の強震及び一連の余震（[東北太平洋沖地震による誘発地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")）の影響で営業に支障をきたした[系列店舗も複数あったこと等から同じ週の金曜日である](../Page/セブン&アイ・ホールディングス.md "wikilink")22日放送分はCMもカット、ヒッチハイクCMもJFNC制作の啓発CMに差し替えられた。
 
 2016年4月から番組終了までは提供なしとなった。
 

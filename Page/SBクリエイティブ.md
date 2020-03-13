@@ -7,7 +7,7 @@
 
 創設当時の日本ソフトバンク（現、ソフトバンクグループ）の出版部がその前身となっており、「[Oh\!PC](../Page/Oh!PC.md "wikilink")」などに代表される、当時は珍しかったパソコン機種別の雑誌を発行。以後も「Beep」「C MAGAZINE」などの雑誌を発行してきている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に、**ソフトバンクパブリッシング**や**ソフトバンク・メディア・アンド・マーケティング**などが合併し、**ソフトバンク クリエイティブ株式会社**となった。[2013年](../Page/2013年.md "wikilink")に現在の社名に商号変更している。（詳しくは、沿革を参照）
+[2005年](../Page/2005年.md "wikilink")に、**ソフトバンクパブリッシング**や**ソフトバンク・メディア・アンド・マーケティング**などが合併し、**ソフトバンク クリエイティブ株式会社**となった。[2013年](../Page/2013年.md "wikilink")に現在の社名に商号変更している。（詳しくは、沿革を参照）
 
 2006年には、[GA文庫](../Page/GA文庫.md "wikilink")（[ライトノベル](../Page/ライトノベル.md "wikilink")）と[ソフトバンク新書](https://ja.wikipedia.org/wiki/SB新書 "wikilink")（一般新書）、[サイエンス・アイ新書](../Page/サイエンス・アイ新書.md "wikilink")（科学新書）、[2007年](../Page/2007年.md "wikilink")には[ソフトバンク文庫](https://ja.wikipedia.org/wiki/SB文庫 "wikilink")（一般文庫）を発刊するなど、当初のコンピュータ系出版社から総合出版社への転身を図った。
 
@@ -27,7 +27,7 @@
       - 7月 - 米Rivals.com社との共同出資でスポーツ情報サイトを運営するライバルズ株式会社を設立\[3\]。
       - 10月 - ソフトバンク パブリッシング株式会社と株式会社オービスの共同出資で会員制競馬情報サービス提供する合弁会社株式会社ジャジャ・エンタテイメントを設立\[4\]。
   - [2004年](../Page/2004年.md "wikilink")3月 - ソフトバンク・メディア・アンド・マーケティング株式会社を存続会社として子会社株式会社コンパス、ライバルズ株式会社、株式会社バークスを吸収合併。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 8月 - 株式移転により完全親会社、ソフトバンク メディアマーケティング ホールディングス株式会社（現・SBメディアホールディングス株式会社）を設立。
       - 10月 - ソフトバンク パブリッシング株式会社及びSBMMクリエイティブ株式会社と合併し、**ソフトバンク クリエイティブ株式会社**に商号変更。
   - [2006年](../Page/2006年.md "wikilink")
@@ -48,7 +48,7 @@
   - [2013年](../Page/2013年.md "wikilink")10月 - **SBクリエイティブ株式会社**へ商号変更。
   - [2014年](../Page/2014年.md "wikilink")1月 - [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")株式会社の協力を受け、小売店向けデジタルサイネージ「インテリジェント・シェルフ」を開発。
   - [2016年](../Page/2016年.md "wikilink")4月 - 子会社としてツギクル株式会社を設立。
-  - [2017年](../Page/2017年.md "wikilink")2月 - 鹿児島県[錦江町](https://ja.wikipedia.org/wiki/錦江町 "wikilink")とサテライトオフィス利用促進のための環境整備に関する共同研究を開始。
+  - [2017年](../Page/2017年.md "wikilink")2月 - 鹿児島県[錦江町](../Page/錦江町.md "wikilink")とサテライトオフィス利用促進のための環境整備に関する共同研究を開始。
   - [2018年](../Page/2018年.md "wikilink")2月 - 女性向けの総合電子書籍サイト「ロマンスブックカフェ」を株式会社[アクセルエンターメディア](https://ja.wikipedia.org/wiki/アクセルエンターメディア "wikilink")に譲渡\[5\]。
 
 ## 主な発行物
@@ -89,7 +89,7 @@
   - パソコン・マガジン
   - 月刊PC
   - [PC music](../Page/PC_music.md "wikilink")（1996年創刊、1997年休刊）
-  - [MacUser日本版](https://ja.wikipedia.org/wiki/MacUser日本版 "wikilink")
+  - [MacUser日本版](../Page/MacUser日本版.md "wikilink")
   - [Beginners'Mac](../Page/Beginners'Mac.md "wikilink")
   - [ゲーマガ](../Page/ゲーマガ.md "wikilink")（旧:Beep→BEEP\! メガドライブ→SEGA SATURN MAGAZINE→Dreamcast Magazine→ドリマガ、1984年創刊、2012年5月号で休刊）
   - [Theスーパーファミコン](../Page/Theスーパーファミコン.md "wikilink")→スーパー64
@@ -108,9 +108,9 @@
   - パソコン購入ガイド（2006年3月発売号で休刊）
   - C MAGAZINE（1989年10月号で創刊、2006年4月号で休刊）
   - [月刊少年ブラッド](../Page/月刊少年ブラッド.md "wikilink")（[モビーダ・エンターテインメント](https://ja.wikipedia.org/wiki/モビーダ・エンターテインメント "wikilink")発行、2006年10月に休刊し[ウェブコミック誌](https://ja.wikipedia.org/wiki/ウェブコミック誌 "wikilink")「Web★ブラッド」と統合）
-  - [コミデジ+](../Page/コミデジ+.md "wikilink")（[ブロッコリー編集](../Page/ブロッコリー_\(企業\).md "wikilink")、モビーダ・エンターテインメント→[フレックスコミックス](../Page/フレックスコミックス.md "wikilink")発行、旧:季刊デ・ジ・キャラット（[角川書店](../Page/角川書店.md "wikilink")）→コミックデ・ジ・キャラット（[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")）→コミデジ（ジャイブ）））
+  - [コミデジ+](../Page/コミデジ+.md "wikilink")（[ブロッコリー編集](../Page/ブロッコリー_\(企業\).md "wikilink")、モビーダ・エンターテインメント→[フレックスコミックス](../Page/フレックスコミックス.md "wikilink")発行、旧:季刊デ・ジ・キャラット（[角川書店](../Page/角川書店.md "wikilink")）→コミックデ・ジ・キャラット（[ジャイブ](../Page/ジャイブ.md "wikilink")）→コミデジ（ジャイブ）））
   - [オープンソースマガジン](https://ja.wikipedia.org/wiki/オープンソースマガジン "wikilink")（旧：UNIX USER、2007年1月号で休刊）
-  - ネットランナー（2007年11月号で休刊、株式会社[にゅーあきば](https://ja.wikipedia.org/wiki/にゅーあきば "wikilink")より「[ネトラン](https://ja.wikipedia.org/wiki/ネトラン "wikilink")」に改題・新装刊）
+  - ネットランナー（2007年11月号で休刊、株式会社[にゅーあきば](https://ja.wikipedia.org/wiki/にゅーあきば "wikilink")より「[ネトラン](../Page/ネトラン.md "wikilink")」に改題・新装刊）
   - [Yahoo\! Internet Guide](https://ja.wikipedia.org/wiki/Yahoo!_Internet_Guide "wikilink")（2008年5月号で休刊）
   - [PC JAPAN](https://ja.wikipedia.org/wiki/PC_JAPAN "wikilink")（旧:PC Computing日本版）
   - DOS/V Magazine（1992年1月号で創刊。月刊（1992年1月号 - 199?年）→隔週刊（199?年 - 2004年11月15日・12月1日合併号）→月刊（2005年1月号 - 2008年2月号）と変遷した。2008年2月号で月刊誌としての発行は終了。今後は不定期刊誌として存続すると発表されている）

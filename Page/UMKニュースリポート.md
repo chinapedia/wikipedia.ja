@@ -5,9 +5,9 @@
 
 ## 概要
 
-前番組『[UMKニュースレポート](../Page/UMKニュースレポート.md "wikilink")』のリニューアル版で、同番組から引き続き[大野安久](https://ja.wikipedia.org/wiki/大野安久 "wikilink")と[相田久雄](https://ja.wikipedia.org/wiki/相田久雄 "wikilink")と[飛松聡子](https://ja.wikipedia.org/wiki/飛松聡子 "wikilink")がキャスターを務めていた。番組前半では[フジテレビ発の全国ニュース](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』を放送し、後半では宮崎県内のニュースを伝えていた。土曜と日曜には放送が無く、『FNNスーパータイム』が放送されていた。
+前番組『[UMKニュースレポート](../Page/UMKニュースレポート.md "wikilink")』のリニューアル版で、同番組から引き続き[大野安久](https://ja.wikipedia.org/wiki/大野安久 "wikilink")と[相田久雄](../Page/相田久雄.md "wikilink")と[飛松聡子](https://ja.wikipedia.org/wiki/飛松聡子 "wikilink")がキャスターを務めていた。番組前半では[フジテレビ発の全国ニュース](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』を放送し、後半では宮崎県内のニュースを伝えていた。土曜と日曜には放送が無く、『FNNスーパータイム』が放送されていた。
 
-番組は1992年3月31日放送分をもって同タイトルでの放送を終了し、『FNNスーパータイム』に合わせたタイトル『[UMKスーパータイム](https://ja.wikipedia.org/wiki/UMKスーパータイム "wikilink")』に改めた。
+番組は1992年3月31日放送分をもって同タイトルでの放送を終了し、『FNNスーパータイム』に合わせたタイトル『[UMKスーパータイム](../Page/UMKスーパータイム.md "wikilink")』に改めた。
 
 ## 歴代ニュースキャスター
 
@@ -61,13 +61,13 @@
 
 ## タイトル
 
-番組開始から1989年10月1日までは、冒頭のCGのガラスが割れてFNNと表示される部分は『スーパータイム』と共通しているが、タイトルの部分は差し替えで、全国ネットで使われるフラッシュしてタイトル題字→都心のビル群ではなく、[お天気カメラ](../Page/お天気カメラ.md "wikilink")の大淀川の生放送映像に同時期の『[UMKニュース](https://ja.wikipedia.org/wiki/UMKニュース "wikilink")』のように大きな矢印の真ん中の二重になった横棒の上下にタイトルが表されている。上には「ニュース」と小さいユと[長音符](../Page/長音符.md "wikilink")の上に四角で囲まれた「UMK」が、下には「リポート」が表示される。音楽は冒頭の部分が無いものを使用し､提供前のジングルはスーパータイムのテーマを低くしたものを使用していた。1989年10月2日からは冒頭からタイトル表示となっていた。タイトル表示は以前と変わらないものの、FNNと表示される部分は画面右下に表示されていた。
+番組開始から1989年10月1日までは、冒頭のCGのガラスが割れてFNNと表示される部分は『スーパータイム』と共通しているが、タイトルの部分は差し替えで、全国ネットで使われるフラッシュしてタイトル題字→都心のビル群ではなく、[お天気カメラ](../Page/お天気カメラ.md "wikilink")の大淀川の生放送映像に同時期の『[UMKニュース](../Page/UMKニュース.md "wikilink")』のように大きな矢印の真ん中の二重になった横棒の上下にタイトルが表されている。上には「ニュース」と小さいユと[長音符](../Page/長音符.md "wikilink")の上に四角で囲まれた「UMK」が、下には「リポート」が表示される。音楽は冒頭の部分が無いものを使用し､提供前のジングルはスーパータイムのテーマを低くしたものを使用していた。1989年10月2日からは冒頭からタイトル表示となっていた。タイトル表示は以前と変わらないものの、FNNと表示される部分は画面右下に表示されていた。
 
 ## 関連項目
 
   - [UMKニュースレポート](../Page/UMKニュースレポート.md "wikilink") - 前番組。
   - FNNスーパータイム
   - UMKニュース（週末のみ）
-  - [UMKスーパータイム](https://ja.wikipedia.org/wiki/UMKスーパータイム "wikilink") - 後番組。
+  - [UMKスーパータイム](../Page/UMKスーパータイム.md "wikilink") - 後番組。
 
 [Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:テレビ宮崎の番組](https://ja.wikipedia.org/wiki/Category:テレビ宮崎の番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink")

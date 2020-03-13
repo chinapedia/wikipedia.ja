@@ -10,11 +10,11 @@
   - **SANTOS ANNA** ex.ANNA（[サントス・アンナ](../Page/サントス・アンナ.md "wikilink")、、[東京都](../Page/東京都.md "wikilink")出身）
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       - 父がスペイン系アメリカ人、母が日本人のクォーター。
-  - **[MAKO](https://ja.wikipedia.org/wiki/MAKO "wikilink")**（桜井真子、さくらい まこ、、東京都出身
-      - [マラカス](https://ja.wikipedia.org/wiki/マラカス "wikilink")
+  - **[MAKO](../Page/MAKO.md "wikilink")**（桜井真子、さくらい まこ、、東京都出身
+      - [マラカス](../Page/マラカス.md "wikilink")
       - 元リーダー
   - **TOMOYO**（松本知世、まつもと ともよ、、東京都出身）
-      - [ティンバレス](https://ja.wikipedia.org/wiki/ティンバレス "wikilink")
+      - [ティンバレス](../Page/ティンバレス.md "wikilink")
       - リーダー
   - **RURI**（水谷光里、みずたに るり、、[千葉県](../Page/千葉県.md "wikilink")出身）
       - [ボンゴ](../Page/ボンゴ.md "wikilink")
@@ -38,21 +38,21 @@
     初期の頃のステージでは、一部の曲を「ダンスバージョン」と称して、マラカス以外の楽器を一切演奏せず、SANTOS ANNAの唄に合わせて5人全員でダンスを披露するというさながらダンスユニットであるかのようなパフォーマンスもあったが、パーカッションの演奏が上達するにつれて徐々にレパートリーから無くなっていった。
   - スマッシュヒット
     以後は、およそ3か月から4か月のスパンで新曲を発表し、それ毎に[TBS系](../Page/TBSテレビ.md "wikilink")「[うたばん](../Page/うたばん.md "wikilink")」や[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")」等の音楽番組にも出演してきたが、一向にブレイクの芽は出ず、2003年リリースの1stアルバム『BEAT GOES ON』を最後に、音楽性において新たな路線を模索することとなる。2年目に入り、ユニットとして成熟期を迎える時期であったが、ボーカルのSANTOS ANNAが喉に変調を来たすなどしたために一時的に音楽活動を縮小した。
-    約半年の休養を経た後、6枚目となるシングル「BON VOYAGE\!」が[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』の主題歌に選ばれ、CDのリリース前からお茶の間に流れたことをきっかけにスマッシュヒット。[オリコンウィークリーチャートでもこれまでで最高の初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")8位を記録した。
-    続く7枚目のシングルは、[やなせたかし](../Page/やなせたかし.md "wikilink")作詞の[童謡](../Page/童謡.md "wikilink")として広く知られる「[手のひらを太陽に](https://ja.wikipedia.org/wiki/手のひらを太陽に "wikilink")」を[ラテン・ポップ](../Page/ラテン・ポップ.md "wikilink")に[アレンジしたもの](../Page/編曲.md "wikilink")。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")」の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に選ばれた。シングルA面曲としてはボンブラ初の[カバー](../Page/カバー.md "wikilink")曲でもある\[2\]。また、Bon-Bon Blancoが全国の小学校を訪問し、「手のひらを太陽に」を児童とともに合唱する「出前ライヴ」を行った。
+    約半年の休養を経た後、6枚目となるシングル「BON VOYAGE\!」が[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』の主題歌に選ばれ、CDのリリース前からお茶の間に流れたことをきっかけにスマッシュヒット。[オリコンウィークリーチャートでもこれまでで最高の初登場](../Page/オリコンチャート.md "wikilink")8位を記録した。
+    続く7枚目のシングルは、[やなせたかし](../Page/やなせたかし.md "wikilink")作詞の[童謡](../Page/童謡.md "wikilink")として広く知られる「[手のひらを太陽に](https://ja.wikipedia.org/wiki/手のひらを太陽に "wikilink")」を[ラテン・ポップ](../Page/ラテン・ポップ.md "wikilink")に[アレンジしたもの](../Page/編曲.md "wikilink")。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")」の[主題歌](../Page/主題歌.md "wikilink")に選ばれた。シングルA面曲としてはボンブラ初の[カバー](../Page/カバー.md "wikilink")曲でもある\[2\]。また、Bon-Bon Blancoが全国の小学校を訪問し、「手のひらを太陽に」を児童とともに合唱する「出前ライヴ」を行った。
   - レーベル移籍後
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に入って9枚目のシングル「愛がいっぱい」をリリースした後、Bon-Bon Blancoをデビュー時より担当してきた[プロデューサー](../Page/プロデューサー.md "wikilink")が[コロムビアから独立して立ち上げた新](../Page/日本コロムビア.md "wikilink")[レーベルTOKYO](../Page/レコードレーベル.md "wikilink") LIPS PRO（後に「bouncy records」に改称）に移籍したものの、新作を1枚も出すことなく、しばらくしてbouncy recordsの[ウェブサイト](../Page/ウェブサイト.md "wikilink")\[[http://www.bouncyrecords.com/\]から名前が消えてしまった](http://www.bouncyrecords.com/%5Dから名前が消えてしまった)。
+    [2005年](../Page/2005年.md "wikilink")に入って9枚目のシングル「愛がいっぱい」をリリースした後、Bon-Bon Blancoをデビュー時より担当してきた[プロデューサー](../Page/プロデューサー.md "wikilink")が[コロムビアから独立して立ち上げた新](../Page/日本コロムビア.md "wikilink")[レーベルTOKYO](../Page/レコードレーベル.md "wikilink") LIPS PRO（後に「bouncy records」に改称）に移籍したものの、新作を1枚も出すことなく、しばらくしてbouncy recordsの[ウェブサイト](../Page/ウェブサイト.md "wikilink")\[[http://www.bouncyrecords.com/\]から名前が消えてしまった](http://www.bouncyrecords.com/%5Dから名前が消えてしまった)。
     また、この時期には約1年に渡りメンバーMAKO、SANTOS ANNAのソロ活動\[3\]を除いて主だった活動が行われなかったことから、グループの先行きが心配されていたが、翌年[2006年](../Page/2006年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")[morph tokyoで開かれたイベント](https://ja.wikipedia.org/wiki/morph_tokyo "wikilink")、「ハッピースペクラサタデー female voice party vol.9」にゲスト出演をし、本格的なライブ活動を再開。4月には所属[スペースクラフト](../Page/スペースクラフト.md "wikilink")グループ主催の[ミュージカル](../Page/ミュージカル.md "wikilink")「エンジェルゲート」にも「渋谷の人」役でゲスト出演をしている。\[4\]
     同年[6月25日](../Page/6月25日.md "wikilink")には、[渋谷BOXX](https://ja.wikipedia.org/wiki/渋谷BOXX "wikilink")でおよそ1年半ぶり（2004年秋の[学園祭](https://ja.wikipedia.org/wiki/学園祭 "wikilink")ライヴより起算）の単独ライヴを開催する。このときのMCにて、リーダーをMAKOからTOMOYOに交代することを発表した。
     [2006年](../Page/2006年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")に発売した1年半ぶりの新曲「ユラユラ揺れる」の[プロモーションビデオ](../Page/ミュージック・ビデオ.md "wikilink")（PV）では初の[ビキニ姿にチャレンジ](../Page/ビキニ_\(水着\).md "wikilink")。デビュー以来の[ジーンズ](../Page/ジーンズ.md "wikilink")&[Tシャツ](../Page/Tシャツ.md "wikilink")から一転、ビキニ姿で、ラテン特有の腰をくねらすセクシーダンスを披露した。また、bouncy recordsのサイトにも、新曲の発表にあわせて名前が掲載されるようになった。その後、様々なライブやラジオ番組へのゲスト出演を通じ活躍した。
   - メンバー脱退、そして活動休止
-    [2007年](../Page/2007年.md "wikilink")は[1月27日](../Page/1月27日.md "wikilink")に[SHIBUYA O-EASTにて行われる単独ライブ](https://ja.wikipedia.org/wiki/SHIBUYA_O-EAST "wikilink")「Bon-Bon Blanco Winter Carnival 2007」より活動を開始し、同年[2月21日](../Page/2月21日.md "wikilink")には11枚目のシングルとなる「∞Changing∞」をリリースした。また、4月から7月にかけて「Bon-Bon Blancoマンスリーフリーライブ」と銘打ち、[石丸電気](https://ja.wikipedia.org/wiki/石丸電気 "wikilink")Soft2館にて月一度のフリーライブを開催する他、5月にはミュージカル「エンジェルゲート」の再公演にも出演した。同年7月からは『女祭』と称した定期有料ライブを[SHIBUYA O-WESTにて開催し](https://ja.wikipedia.org/wiki/SHIBUYA_O-WEST "wikilink")、翌年2月にはその模様を収録したライブDVDをリリースするなど精力的に活動を展開した。
+    [2007年](../Page/2007年.md "wikilink")は[1月27日](../Page/1月27日.md "wikilink")に[SHIBUYA O-EASTにて行われる単独ライブ](https://ja.wikipedia.org/wiki/SHIBUYA_O-EAST "wikilink")「Bon-Bon Blanco Winter Carnival 2007」より活動を開始し、同年[2月21日](../Page/2月21日.md "wikilink")には11枚目のシングルとなる「∞Changing∞」をリリースした。また、4月から7月にかけて「Bon-Bon Blancoマンスリーフリーライブ」と銘打ち、[石丸電気](../Page/石丸電気.md "wikilink")Soft2館にて月一度のフリーライブを開催する他、5月にはミュージカル「エンジェルゲート」の再公演にも出演した。同年7月からは『女祭』と称した定期有料ライブを[SHIBUYA O-WESTにて開催し](https://ja.wikipedia.org/wiki/SHIBUYA_O-WEST "wikilink")、翌年2月にはその模様を収録したライブDVDをリリースするなど精力的に活動を展開した。
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")にコンガ担当のIZUMIが「方向性の違い」（公式サイトの発表による）を理由に脱退した。残りのメンバーはファンクラブ会報や公式ブログを通じ活動の継続を表明し、実際翌月[6月](../Page/6月.md "wikilink")に4人編成でのゲストライブ出演を果たした。
     [2009年](../Page/2009年.md "wikilink")[2月6日](../Page/2月6日.md "wikilink")にファンクラブ会員向けに、同年[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")には公式ブログ上で正式に、同月末一杯でBon-Bon Blancoとしての活動を休止すると発表\[5\]、同年5月2日に行われた「BON-BON BLANCO Final Carnival」が最後のステージとなった。
 
 ## 作品
 
-「順位」は全て[オリコン週間ランキング最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")
+「順位」は全て[オリコン週間ランキング最高位](../Page/オリコンチャート.md "wikilink")
 
 ### シングル
 
@@ -89,7 +89,7 @@
 <td><p>2002年12月4日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛のナースカーニバル" title="wikilink">愛のナースカーニバル</a></p></td>
 <td><p>CCOCA-15448</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="https://ja.wikipedia.org/wiki/志村流" title="wikilink">志村流</a>』エンディングテーマ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビジョン" title="wikilink">フジテレビ系</a>『<a href="../Page/志村流.md" title="wikilink">志村流</a>』エンディングテーマ</p></td>
 <td><p>38位</p></td>
 </tr>
 <tr class="even">
@@ -136,10 +136,10 @@ COCA-15618</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/2月23日" title="wikilink">2月23日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛がいっぱい_(Bon-Bon_Blancoの曲)" title="wikilink">愛がいっぱい</a></p></td>
 <td><p>COCA-15733</p></td>
-<td><p>TBS系ドラマ『<a href="https://ja.wikipedia.org/wiki/スウとのんのん" title="wikilink">スウとのんのん</a>』主題歌</p></td>
+<td><p>TBS系ドラマ『<a href="../Page/スウとのんのん.md" title="wikilink">スウとのんのん</a>』主題歌</p></td>
 <td><p>98位</p></td>
 </tr>
 <tr class="even">
@@ -250,6 +250,6 @@ COCP-32627 DVD付</p></td>
 
 1.  「POCO BONITA CARNIVAL」（東京お台場・[スタジオドリームメーカー](https://ja.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")にて2002年9月28日開催）告知フライヤーに記載のプロフィールによる。
 2.  カバー曲としては、マイアミ・サウンドマシーンの**がデビューシングル「愛 WANT YOU\!\!」のカップリングとして収録されている他、 [ボビー・コールドウェル](../Page/ボビー・コールドウェル.md "wikilink")の*Come to me*、また[ドリームズ・カム・トゥルーの](../Page/DREAMS_COME_TRUE.md "wikilink")「[うれしい\!たのしい\!大好き\!](../Page/うれしはずかし朝帰り.md "wikilink")」がベストアルバム『B3 Master Pieces 2002–2004』に収録されている。これらはいずれも「手のひらを太陽に」以前の作品。
-3.  ソロ活動の詳細については[MAKO](https://ja.wikipedia.org/wiki/MAKO "wikilink")、[SANTOS ANNAをそれぞれ参照](../Page/サントス・アンナ.md "wikilink")。
+3.  ソロ活動の詳細については[MAKO](../Page/MAKO.md "wikilink")、[SANTOS ANNAをそれぞれ参照](../Page/サントス・アンナ.md "wikilink")。
 4.  「ユラユラ揺れる」が初めて披露されたのはこのミュージカルである。
 5.  [BON-BON BLANCOが活動休止を正式発表](http://natalie.mu/news/show/id/16237),ナタリー,2009年5月7日

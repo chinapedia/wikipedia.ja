@@ -1,7 +1,7 @@
 > この記事は[EGWORD](https://ja.wikipedia.org/wiki/EGWORD)から翻訳されています。
 
 
-**EGWORD**（イージーワード）は、かつて[エルゴソフト](https://ja.wikipedia.org/wiki/エルゴソフト "wikilink")が開発、販売していた日本語[ワープロソフト](../Page/ワープロソフト.md "wikilink")の名称。2018年現在、[物書堂](https://ja.wikipedia.org/wiki/物書堂 "wikilink")が開発と販売を引き継いでいる。
+**EGWORD**（イージーワード）は、かつて[エルゴソフト](../Page/エルゴソフト.md "wikilink")が開発、販売していた日本語[ワープロソフト](../Page/ワープロソフト.md "wikilink")の名称。2018年現在、[物書堂](https://ja.wikipedia.org/wiki/物書堂 "wikilink")が開発と販売を引き継いでいる。
 
 2008年1月28日にエルゴソフトのパッケージソフト事業が終了したことに伴い\[1\]、「egword Universal 2」を最終版として開発と販売が終了された。
 
@@ -28,14 +28,14 @@
 
 Macintoshが日本語化される以前から日本語を扱ってきたワープロソフトであり、EGBRIDGEの高い変換効率や軽快な動作などにより多くのMacユーザに支持された。
 
-「egword Universal」では、[ユニバーサルバイナリ形式を採用し](https://ja.wikipedia.org/wiki/Universal_Binary "wikilink")、開発環境の[Xcode](https://ja.wikipedia.org/wiki/Xcode "wikilink")への移行とともに[Cocoa](../Page/Cocoa.md "wikilink")フレームワークを使用して内部を大幅に書き直したことにより動作速度が劇的に向上した。一方でエディタモードやシナリオモード、Keynote書き出しなどの機能が削除されており、ユーザの間では賛否両論のバージョンアップとなった。全体的にはワープロとしての性格を強め、[JIS組版ルールに準拠するなどDTPを強く意識した作りになっている](../Page/JIS_X_4051.md "wikilink")。
+「egword Universal」では、[ユニバーサルバイナリ形式を採用し](https://ja.wikipedia.org/wiki/Universal_Binary "wikilink")、開発環境の[Xcode](../Page/Xcode.md "wikilink")への移行とともに[Cocoa](../Page/Cocoa.md "wikilink")フレームワークを使用して内部を大幅に書き直したことにより動作速度が劇的に向上した。一方でエディタモードやシナリオモード、Keynote書き出しなどの機能が削除されており、ユーザの間では賛否両論のバージョンアップとなった。全体的にはワープロとしての性格を強め、[JIS組版ルールに準拠するなどDTPを強く意識した作りになっている](../Page/JIS_X_4051.md "wikilink")。
 
 ### 受賞
 
   - 1986年2月 - [日本経済新聞社](../Page/日本経済新聞社.md "wikilink") 「'85日経・年間優秀製品賞」 （現「日経優秀製品・サービス賞」）
   - 1987年5月 - International Computer Programs, Inc.（ICP、アメリカ・インディアナ州） 「One Million Dollar Award」
   - 1993年4月 - [アスキー](../Page/アスキー_\(企業\).md "wikilink") 「[MACPOWER Product of the year '92](https://ja.wikipedia.org/wiki/MACPOWER "wikilink")」
-  - 1993年11月 - [日経BP](https://ja.wikipedia.org/wiki/日経BP "wikilink") 「第6回 30万読者が選ぶパソコン・ベスト・ソフト」 日経MAC 文書作成部門賞
+  - 1993年11月 - [日経BP](../Page/日経BP.md "wikilink") 「第6回 30万読者が選ぶパソコン・ベスト・ソフト」 日経MAC 文書作成部門賞
   - 1994年2月 - エクシードプレス 「[MACLIFE GRAND PRIX '94](https://ja.wikipedia.org/wiki/MACLIFE "wikilink")」 ワープロ部門 グランプリ
   - 2001年10月 - 日本産業デザイン振興会 「[2001年度 グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")」 商品デザイン部門
   - 2003年10月 - 日本産業デザイン振興会 「2003年度グッドデザイン賞」 商品デザイン部門

@@ -5,7 +5,7 @@
 
 ## Yonda?君
 
-[新潮文庫](../Page/新潮文庫.md "wikilink")の[マスコット](../Page/マスコット.md "wikilink")で、[パンダの格好をしている](https://ja.wikipedia.org/wiki/ジャイアントパンダ "wikilink")。名称は「パンダ」と「読んだ?」の語呂合わせ。新潮社のサイト内でも表記が分かれ、単に「Yonda?」や、「Yonda?くん」とされているページもある。 [スクリーンセーバー](https://ja.wikipedia.org/wiki/スクリーンセーバー "wikilink")や壁紙なども配布されており、Yonda?CLUBの賞品のピンバッジやマグカップなどにもついている。
+[新潮文庫](../Page/新潮文庫.md "wikilink")の[マスコット](../Page/マスコット.md "wikilink")で、[パンダの格好をしている](https://ja.wikipedia.org/wiki/ジャイアントパンダ "wikilink")。名称は「パンダ」と「読んだ?」の語呂合わせ。新潮社のサイト内でも表記が分かれ、単に「Yonda?」や、「Yonda?くん」とされているページもある。 [スクリーンセーバー](../Page/スクリーンセーバー.md "wikilink")や壁紙なども配布されており、Yonda?CLUBの賞品のピンバッジやマグカップなどにもついている。
 
 ## 受け取り方法
 

@@ -90,7 +90,7 @@
 
 ### 性決定
 
-[ヒト](../Page/ヒト.md "wikilink")を含む[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")の大部分はXY型性決定方式である。他に[ショウジョウバエ](../Page/ショウジョウバエ.md "wikilink")など[昆虫](../Page/昆虫.md "wikilink")の一部や[植物](../Page/植物.md "wikilink")の[ヒロハノマンテマ](https://ja.wikipedia.org/wiki/マツヨイセンノウ "wikilink")・[スイバ](../Page/スイバ.md "wikilink")などがXY型であることが知られている。XO型の性決定様式の代表例は、[線形動物](../Page/線形動物.md "wikilink")*[Caenorhabditis elegans](https://ja.wikipedia.org/wiki/C._elegans "wikilink")*および一部の[昆虫](../Page/昆虫.md "wikilink")（[バッタ](../Page/バッタ.md "wikilink")・[カメムシ](https://ja.wikipedia.org/wiki/カメムシ "wikilink")）などがある。
+[ヒト](../Page/ヒト.md "wikilink")を含む[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")の大部分はXY型性決定方式である。他に[ショウジョウバエ](../Page/ショウジョウバエ.md "wikilink")など[昆虫](../Page/昆虫.md "wikilink")の一部や[植物](../Page/植物.md "wikilink")の[ヒロハノマンテマ](https://ja.wikipedia.org/wiki/マツヨイセンノウ "wikilink")・[スイバ](../Page/スイバ.md "wikilink")などがXY型であることが知られている。XO型の性決定様式の代表例は、[線形動物](../Page/線形動物.md "wikilink")*[Caenorhabditis elegans](https://ja.wikipedia.org/wiki/C._elegans "wikilink")*および一部の[昆虫](../Page/昆虫.md "wikilink")（[バッタ](../Page/バッタ.md "wikilink")・[カメムシ](../Page/カメムシ.md "wikilink")）などがある。
 
 雄ヘテロ型の性決定では、哺乳類およびヒロハノマンテマのようにY染色体の存在が雄への性分化を決定する例と、ショウジョウバエおよびスイバのようにX染色体の数と常染色体のセット数の比率(X/A)で性決定する例とがある。この違いは、前者ではY染色体の雄性化因子（哺乳類では*[SRY](https://ja.wikipedia.org/wiki/SRY "wikilink")*遺伝子）で性決定するのに対して、後者はY染色体の有無・本数に関わらずX染色体の数に依存して性別が定まる（右表）。ショウジョウバエでは、ニューメレーター因子（numerator elements, 計数因子）がX染色体の数を認識していると考えられている\[3\]。
 
@@ -111,7 +111,7 @@ X染色体はヘルマン・ヘンキングによって[1891年](../Page/1891年
 ## ヒトのX染色体
 
 [thumbのX染色体模式図](https://ja.wikipedia.org/wiki/ファイル:Chromosome_X.svg "wikilink")
-上部が短腕、くびれが[セントロメア](https://ja.wikipedia.org/wiki/セントロメア "wikilink")、下部が長腕である。上端の黒く示した部分(Xp22.33)の一部が擬似常染色体領域1(PAR1)である。最下端の擬似常染色体領域2(PAR2)は縮尺上表示できないほど小さいので省略してある。血友病の遺伝子はXq26.3（Xq26.2とXq27.1の間）、色覚関連（赤オプシン・緑オプシン）遺伝子は長腕末端部の黒く示した部分(Xq28)に存在する。\]\]
+上部が短腕、くびれが[セントロメア](../Page/セントロメア.md "wikilink")、下部が長腕である。上端の黒く示した部分(Xp22.33)の一部が擬似常染色体領域1(PAR1)である。最下端の擬似常染色体領域2(PAR2)は縮尺上表示できないほど小さいので省略してある。血友病の遺伝子はXq26.3（Xq26.2とXq27.1の間）、色覚関連（赤オプシン・緑オプシン）遺伝子は長腕末端部の黒く示した部分(Xq28)に存在する。\]\]
 
 以下に[ヒト](../Page/ヒト.md "wikilink")のX染色体について解説するが、他の生物では該当しない情報も含まれていることには注意が必要である。
 
@@ -125,7 +125,7 @@ X染色体には生命維持に欠かせない遺伝子が含まれており\[14
 
 ### 伴性遺伝
 
-[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")に存在する[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の[発現により](../Page/遺伝子発現.md "wikilink")、雌雄・男女で差が生じる[遺伝](../Page/遺伝.md "wikilink")のことを**[伴性遺伝](https://ja.wikipedia.org/wiki/伴性遺伝 "wikilink")**という。一般的には血友病・[色覚異常](../Page/色覚異常.md "wikilink")などの例が良く知られている。一般的に伴性遺伝疾患について次のように説明される\[16\]。
+[性染色体](https://ja.wikipedia.org/wiki/性染色体 "wikilink")に存在する[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の[発現により](../Page/遺伝子発現.md "wikilink")、雌雄・男女で差が生じる[遺伝](../Page/遺伝.md "wikilink")のことを**[伴性遺伝](../Page/伴性遺伝.md "wikilink")**という。一般的には血友病・[色覚異常](../Page/色覚異常.md "wikilink")などの例が良く知られている。一般的に伴性遺伝疾患について次のように説明される\[16\]。
 
 これは概論としては正しいが、厳密には正確性を欠く説明である。哺乳類の雌の[体細胞](https://ja.wikipedia.org/wiki/体細胞 "wikilink")では、2本のX染色体のうち片方が[不活性化されている](../Page/X染色体の不活性化.md "wikilink")。ヒトを含む[真獣下綱](../Page/真獣下綱.md "wikilink")動物では、この不活性化がランダムに起き、雌の体細胞は2種類のX染色体のどちらが働いているかについて、[モザイク状態になっている](https://ja.wikipedia.org/wiki/モザイク_\(遺伝学\) "wikilink")。したがって、疾患遺伝子を[ヘテロ接合型](https://ja.wikipedia.org/wiki/ヘテロ接合型 "wikilink")に持つ女性（）では、細胞によっては[遺伝子疾患](../Page/遺伝子疾患.md "wikilink")が発症していることがある\[17\]。部分的に発症しているにもかかわらず、保因者女性で伴性遺伝疾患が強く現れないのは、モザイクを作っている正常な細胞による補完によるものであるとされている\[18\]\[19\]。
 
@@ -141,7 +141,7 @@ X染色体に[免疫系](../Page/免疫系.md "wikilink")で働く[遺伝子](ht
 
   - デイヴィッド・ベインブリッジ『X染色体：男と女を決めるもの』長野敬、小野木明恵(翻訳)、青土社 、2004年、ISBN 978-4791761524。
   - 松永幸大（2000年）「[高等植物の性決定機構](http://lifesciencedb.jp/dbsearch/Literature/get_pne_cgpdf.php?year=2000&number=4510&file=bFM8lf1JUxba7mrdR2ZvwA==)」『蛋白質核酸酵素』[2000年7月号](http://www.kyoritsu-pub.co.jp/pne/libs/2000/usual07.html)(Vol.45 No.10)、共立出版、1704-1712ページ。2009-04-02閲覧。
-  - 諸橋憲一郎 他「性を決めるカラクリ，『X・Y染色体』」、『[Newton](https://ja.wikipedia.org/wiki/ニュートン_\(雑誌\) "wikilink")』2006年2月号、2006年、ニュートンプレス。
+  - 諸橋憲一郎 他「性を決めるカラクリ，『X・Y染色体』」、『[Newton](../Page/ニュートン_\(雑誌\).md "wikilink")』2006年2月号、2006年、ニュートンプレス。
   - 大竹博之、酒泉満（2009年）「メダカ性決定遺伝子の起源と進化」『生物の科学 遺伝』2009年1月号、44-48ページ、TNS。
   - 小野知夫「高等植物の性決定と分化」（駒井卓、[木原均](../Page/木原均.md "wikilink")編『最近の生物学』第4巻）培風館、30-47ページ、1951年。
   - 東京農工大学農学部[蚕学研究室](http://www.tuat.ac.jp/~kaiko/)『[昆虫の性染色体](http://www.tuat.ac.jp/~kaiko/Adv.I.G.D/08.10.20.sex%20chromosome.pdf)』『[性決定](http://www.tuat.ac.jp/~kaiko/Adv.I.G.D/08.10.22.sex%20det.pdf)』 2009-03-30 閲覧。

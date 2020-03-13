@@ -5,9 +5,9 @@
 
 ## 概要
 
-テレビ宮崎が[サービス放送](https://ja.wikipedia.org/wiki/サービス放送 "wikilink")の頃から放送してきた『[UMKローカルニュース](https://ja.wikipedia.org/wiki/UMKローカルニュース "wikilink")』→『[UMKニュース6:45](https://ja.wikipedia.org/wiki/UMKニュース6:45 "wikilink")』→『[UMKニュース](https://ja.wikipedia.org/wiki/UMKニュース "wikilink")』を前身とする番組で、同様に宮崎県内のローカルニュース、[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")、[天気予報](../Page/天気予報.md "wikilink")を伝えていた。当初は25分番組だったが、1984年秋に放送時間を大幅に拡大してワイド番組化した。これ以後、、番組前半で[フジテレビ発の全国ニュース](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』を放送するようになった。
+テレビ宮崎が[サービス放送](../Page/サービス放送.md "wikilink")の頃から放送してきた『[UMKローカルニュース](https://ja.wikipedia.org/wiki/UMKローカルニュース "wikilink")』→『[UMKニュース6:45](https://ja.wikipedia.org/wiki/UMKニュース6:45 "wikilink")』→『[UMKニュース](../Page/UMKニュース.md "wikilink")』を前身とする番組で、同様に宮崎県内のローカルニュース、[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")、[天気予報](../Page/天気予報.md "wikilink")を伝えていた。当初は25分番組だったが、1984年秋に放送時間を大幅に拡大してワイド番組化した。これ以後、、番組前半で[フジテレビ発の全国ニュース](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")』を放送するようになった。
 
-1988年4月15日からは『[UMKニュース**リポート**](https://ja.wikipedia.org/wiki/UMKニュースリポート "wikilink")』と題して放送されていたが、これは新番組（続編）扱いとなっており、『UMKニュースレポート』としてはここで8年半の歴史にピリオドを打った。
+1988年4月15日からは『[UMKニュース**リポート**](../Page/UMKニュースリポート.md "wikilink")』と題して放送されていたが、これは新番組（続編）扱いとなっており、『UMKニュースレポート』としてはここで8年半の歴史にピリオドを打った。
 
 ## 放送時間
 
@@ -26,7 +26,7 @@
   - [戸高洋子](https://ja.wikipedia.org/wiki/戸高洋子 "wikilink")（リポーター）
   - [甲斐聡子](https://ja.wikipedia.org/wiki/甲斐聡子 "wikilink")（リポーター）
   - [石原賀子](https://ja.wikipedia.org/wiki/石原賀子 "wikilink")（1984年 - 1987年）
-  - [相田久雄](https://ja.wikipedia.org/wiki/相田久雄 "wikilink")（1986年7月31日 - 1988年）
+  - [相田久雄](../Page/相田久雄.md "wikilink")（1986年7月31日 - 1988年）
   - [飛松聡子](https://ja.wikipedia.org/wiki/飛松聡子 "wikilink")（1987年 - 1988年）
 
 ### 補足
@@ -36,9 +36,9 @@
 
 ## 関連項目
 
-  - [UMKニュース](https://ja.wikipedia.org/wiki/UMKニュース "wikilink")
+  - [UMKニュース](../Page/UMKニュース.md "wikilink")
   - [FNNニュースレポート6:00](../Page/FNNニュースレポート6:00.md "wikilink")
   - [FNNスーパータイム](../Page/FNNスーパータイム.md "wikilink")
-  - [UMKニュースリポート](https://ja.wikipedia.org/wiki/UMKニュースリポート "wikilink") - 後番組。
+  - [UMKニュースリポート](../Page/UMKニュースリポート.md "wikilink") - 後番組。
 
 [Category:1979年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1979年のテレビ番組_\(日本\) "wikilink") [Category:テレビ宮崎の番組](https://ja.wikipedia.org/wiki/Category:テレビ宮崎の番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:FNNニュースレポート600・630・530](https://ja.wikipedia.org/wiki/Category:FNNニュースレポート600・630・530 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[ZAIN RECORDS](https://ja.wikipedia.org/wiki/ZAIN_RECORDS)から翻訳されています。
 
 
-**ZAIN RECORDS**（ヅァイン・レコーズ）は、[ビーイング](../Page/ビーイング.md "wikilink")\[1\] 傘下の[レコードレーベル](../Page/レコードレーベル.md "wikilink")で、かつて存在した[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")である。旧社名はビージン（B.JIN）。現在は[ビーイング](../Page/ビーイング.md "wikilink")の[社内レーベルのひとつとなっている](../Page/社内カンパニー.md "wikilink")。
+**ZAIN RECORDS**（ヅァイン・レコーズ）は、[ビーイング](../Page/ビーイング.md "wikilink")\[1\] 傘下の[レコードレーベル](../Page/レコードレーベル.md "wikilink")で、かつて存在した[レコード会社](../Page/レコード会社.md "wikilink")である。旧社名はビージン（B.JIN）。現在は[ビーイング](../Page/ビーイング.md "wikilink")の[社内レーベルのひとつとなっている](../Page/社内カンパニー.md "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 [織田哲郎](../Page/織田哲郎.md "wikilink")が一時所属したレコード会社プラッツ（現在は音楽制作からは撤退）は[学研](https://ja.wikipedia.org/wiki/学研 "wikilink")が設立したもので、ビーイングのプロデューサー[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")や織田哲郎は学研主催のオーディションに審査員として参加していた。また[T-BOLAN](../Page/T-BOLAN.md "wikilink")は学研が関与した新興レコード会社ROCK IT RECORDS（1993年に[パイオニアLDCに吸収](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")）に所属するなど交流が深かったことから、学研出身のスタッフとともにビーイング初の自前レコード会社設立準備が始まる。
 
-  - [1991年](../Page/1991年.md "wikilink") - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、パイオニアLDCを販売委託先としてビーイング、正しくは[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")の出資によるレコード会社b.jin（ビージン）として設立、第一弾アーティストは**[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")**である。名称は。
+  - [1991年](../Page/1991年.md "wikilink") - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、パイオニアLDCを販売委託先としてビーイング、正しくは[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")の出資によるレコード会社b.jin（ビージン）として設立、第一弾アーティストは**[川島だりあ](../Page/川島だりあ.md "wikilink")**である。名称は。
 
 <!-- end list -->
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [1993年](../Page/1993年.md "wikilink") - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")社名をZAIN RECORDSと改称。[MANISH](../Page/MANISH.md "wikilink")・T-BOLAN・[REVらのアーティストの作品のヒットにより](https://ja.wikipedia.org/wiki/出口雅之 "wikilink")、当時社員5名ながら年商70億円を記録した。
+  - [1993年](../Page/1993年.md "wikilink") - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")社名をZAIN RECORDSと改称。[MANISH](../Page/MANISH.md "wikilink")・T-BOLAN・[REVらのアーティストの作品のヒットにより](../Page/出口雅之.md "wikilink")、当時社員5名ながら年商70億円を記録した。
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 
 <!-- end list -->
 
-  - [1996年](../Page/1996年.md "wikilink") - ZAIN RECORDS大阪内に、新レーベルWESTHAUSを設立。LOWDOWNと[新堂敦士](https://ja.wikipedia.org/wiki/新堂敦士 "wikilink")を輩出。
+  - [1996年](../Page/1996年.md "wikilink") - ZAIN RECORDS大阪内に、新レーベルWESTHAUSを設立。LOWDOWNと[新堂敦士](../Page/新堂敦士.md "wikilink")を輩出。
 
 <!-- end list -->
 
@@ -69,7 +69,7 @@
         1999年に設立されたギタリストの[KUNI](https://ja.wikipedia.org/wiki/KUNI "wikilink")主宰のHR/HMレーベル。ビーインググループ内に株式会社BIG M.Fとして設立された経緯から、事務所はZAIN RECORDS内ではなく[VERMILLION RECORDSと同じフロアに構えていた事もあった](https://ja.wikipedia.org/wiki/Rooms_RECORDS "wikilink")。レーベル事業以外にも、[B'z](../Page/B'z.md "wikilink")の海外A\&R業務\[3\]やAnnekei等の海外アーティストのコーディネート業務を行っていた。レーベルには[FEEL SO BADや](../Page/FEEL_SO_BAD.md "wikilink")[MR.ORANGE](https://ja.wikipedia.org/wiki/MR.ORANGE "wikilink")、[SCHON](../Page/SCHON.md "wikilink")が所属。本レーベルから発売したFEEL SO BADのアルバムは洋盤扱いだった。
   - **WESTHAUS**(規格品番：ZA○W-○○○○)
       -
-        1996年春に、ZAIN RECORDS大阪内に設立されたレーベル。[新堂敦士](https://ja.wikipedia.org/wiki/新堂敦士 "wikilink")らが所属。
+        1996年春に、ZAIN RECORDS大阪内に設立されたレーベル。[新堂敦士](../Page/新堂敦士.md "wikilink")らが所属。
   - **Spoonful**(規格品番：ZA○S-○○○○)
       -
         1997年に[小松未歩](../Page/小松未歩.md "wikilink")のデビューと同時に関西専用のサブレーベルとして設置するも、同年に独立し[Amemura O-town Recordへ移管される](../Page/Amemura_O-town_Record.md "wikilink")。
@@ -87,11 +87,11 @@
   - [近藤房之助](../Page/近藤房之助.md "wikilink")
   - [DIMENSION](../Page/DIMENSION.md "wikilink")
       - [小野塚晃](../Page/小野塚晃.md "wikilink")
-      - [勝田一樹](https://ja.wikipedia.org/wiki/勝田一樹 "wikilink")
+      - [勝田一樹](../Page/勝田一樹.md "wikilink")
       - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")
   - [BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")
       - [AKIHIDE](https://ja.wikipedia.org/wiki/AKIHIDE "wikilink")
-      - [DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")
+      - [DAIGO](../Page/DAIGO.md "wikilink")
       - [MUSCLE ATTACK](https://ja.wikipedia.org/wiki/MUSCLE_ATTACK "wikilink")
   - Riot on Mars
 

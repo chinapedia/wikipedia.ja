@@ -1,7 +1,7 @@
 > この記事は[B-Gram RECORDS](https://ja.wikipedia.org/wiki/B-Gram_RECORDS)から翻訳されています。
 
 
-**B-Gram RECORDS**（ビーグラムレコーズ）は、[ビーイング](../Page/ビーイング.md "wikilink")傘下の[レコードレーベル](../Page/レコードレーベル.md "wikilink")で、かつて存在した[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")である。
+**B-Gram RECORDS**（ビーグラムレコーズ）は、[ビーイング](../Page/ビーイング.md "wikilink")傘下の[レコードレーベル](../Page/レコードレーベル.md "wikilink")で、かつて存在した[レコード会社](../Page/レコード会社.md "wikilink")である。
 
 ## 概要
 
@@ -16,13 +16,13 @@
   - [1991年](../Page/1991年.md "wikilink") - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、ZARDのデビューに合わせて[ポリドール・レコード](../Page/ポリドール・レコード.md "wikilink")に*b.gram*レーベルが設立される。
   - [1993年](../Page/1993年.md "wikilink") - [2月26日](../Page/2月26日.md "wikilink")、ビーイングとポリドールの共同出資によって（株）**B-Gram RECORDS**が設立され、販売はポリドールに委託する。初代代表取締役は[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")と[TUBE](../Page/TUBE.md "wikilink")のディレクターを務めていた[小松久](../Page/小松久.md "wikilink")で、取締役として[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")も名を連ねていた。
       - [11月1日](../Page/11月1日.md "wikilink")　-　同レーベルの楽曲管理を目的とした出版管理会社の株式会社グラムミュージックを設立。\[1\]
-      - [12月1日](../Page/12月1日.md "wikilink")　-　 ポリドールの営業本部が[ポリグラム](https://ja.wikipedia.org/wiki/ポリグラム "wikilink")へ移管された事に伴い、販売元が変更される。\[2\]
+      - [12月1日](../Page/12月1日.md "wikilink")　-　 ポリドールの営業本部が[ポリグラム](../Page/ポリグラム.md "wikilink")へ移管された事に伴い、販売元が変更される。\[2\]
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [1月12日](../Page/1月12日.md "wikilink")にビーイング100%出資で自社販売会社[（株）J-DISC](../Page/J-DISC_Being.md "wikilink")（後にJ-DISC Being）を設立し、同年3月より販売元が移管された。それに伴い、B-Gramはビーイング100%出資の会社となった。同時期に、心斎橋ダイヤモンドビル内に同社の大阪支社であるビーグラムレコーズ大阪\[3\]が設立され、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のファンクラブ業務をおこなっていた。J-DISCに販売元が移管された後も、しばらくはポリドールの社員が出向という形でレーベルマネジメントに携わっていた。
       - [4月1日](../Page/4月1日.md "wikilink") - J-DISCに販売元が移管された為、[日本レコード協会](../Page/日本レコード協会.md "wikilink")に正式加盟に伴いメジャーレコード会社となった。\[4\]
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [9月1日](../Page/9月1日.md "wikilink")に新レーベル**[GIZA studio](../Page/GIZA_studio.md "wikilink")**を大阪で設立。
   - [2002年](../Page/2002年.md "wikilink") - [2月20日](../Page/2月20日.md "wikilink")にRooms RECORDSが[B'z](../Page/B'z.md "wikilink")のプライベートレーベル[VERMILLION RECORDSへ社名変更及び再編されたのを機に](../Page/VERMILLION_RECORDS.md "wikilink")、[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")・[Mi-Ke](../Page/Mi-Ke.md "wikilink")・[織田哲郎](../Page/織田哲郎.md "wikilink")・[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")・[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")ら旧所属アーティストの原盤権を継承する事になった。\[5\]
       - [5月1日](../Page/5月1日.md "wikilink") - GIZA studioを分離・独立させる。（台湾新光美音での権利元及びインディーズレーベルのTENT HOUSEの発売元はB-Gramのまま。）
-  - [2003年](../Page/2003年.md "wikilink") - [10月1日](../Page/10月1日.md "wikilink")に[ZAIN RECORDSを吸収合併](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。レーベルとして**ZAIN RECORDS**を設立。
+  - [2003年](../Page/2003年.md "wikilink") - [10月1日](../Page/10月1日.md "wikilink")に[ZAIN RECORDSを吸収合併](../Page/ZAIN_RECORDS.md "wikilink")。レーベルとして**ZAIN RECORDS**を設立。
   - [2007年](../Page/2007年.md "wikilink") - [5月19日](../Page/5月19日.md "wikilink")にB-Gramを関連会社の[VERMILLION RECORDSと企画販売のJ](../Page/VERMILLION_RECORDS.md "wikilink")-DISC Beingが親会社のビーイングに吸収される事になった。
       - [5月27日](../Page/5月27日.md "wikilink")、B-Gram RECORDSレーベル唯一の所属アーティストであった[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")が逝去。
   - [2011年](../Page/2011年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink") - 期間限定という形で再結成された[B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink")がB-Gram RECORDSレーベルに所属した。
@@ -36,7 +36,7 @@
 
 ### ZAIN RECORDS　および　BIG M.F.
 
-  - [ZAIN RECORDSを参照](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。現在はビーイングのレーベルである。
+  - [ZAIN RECORDSを参照](../Page/ZAIN_RECORDS.md "wikilink")。現在はビーイングのレーベルである。
 
 ### pure:infinity
 
@@ -53,7 +53,7 @@
 ## 過去に所属していたアーティスト
 
   - [WANDS](../Page/WANDS.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[11月](../Page/11月.md "wikilink")に東芝EMIから移籍。移籍に伴い、旧譜カタログも再発売。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にメンバーチェンジを経て、[2000年](../Page/2000年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")を以て解体。[2019年](../Page/2019年.md "wikilink")再始動に伴い、[GIZA Studioの](https://ja.wikipedia.org/wiki/GIZA_Studio "wikilink")[D-GO](https://ja.wikipedia.org/wiki/D-GO "wikilink")へ移籍。
-  - [DEEN](../Page/DEEN.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月](../Page/11月.md "wikilink")に[BERG レーベル](https://ja.wikipedia.org/wiki/BERG_レーベル "wikilink")\[8\]へ移籍。その後、[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")→[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")へ移籍。
+  - [DEEN](../Page/DEEN.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月](../Page/11月.md "wikilink")に[BERG レーベル](../Page/BERG_レーベル.md "wikilink")\[8\]へ移籍。その後、[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")→[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")へ移籍。
   - [ZYYG](../Page/ZYYG.md "wikilink") - [1999年](../Page/1999年.md "wikilink")末を以て解散。[2006年](../Page/2006年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")に[hillsパン工場](https://ja.wikipedia.org/wiki/hillsパン工場 "wikilink")で一夜限りのラストライブが催された。[2019年](../Page/2019年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に、再始動される事を発表した。
   - [Barbier](https://ja.wikipedia.org/wiki/栗林誠一郎#Barbier "wikilink") - [1996年](../Page/1996年.md "wikilink")にファーストアルバム『[Barbier first](../Page/Barbier_first.md "wikilink")』をリリース後、活動凍結。
   - [中畑幾久子](https://ja.wikipedia.org/wiki/BAJI-R "wikilink") - b.gramレーベル第2弾アーティストとして[1991年](../Page/1991年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に「恋のナースステーション」\[9\]でデビュー。
@@ -69,8 +69,8 @@
 <!-- end list -->
 
   - [彼女の嫌いな彼女](../Page/彼女の嫌いな彼女.md "wikilink")
-  - [失楽園](https://ja.wikipedia.org/wiki/失楽園_\(渡辺淳一の小説\) "wikilink")
-  - [あなたの隣に誰かいる](https://ja.wikipedia.org/wiki/あなたの隣に誰かいる "wikilink")
+  - [失楽園](../Page/失楽園_\(渡辺淳一の小説\).md "wikilink")
+  - [あなたの隣に誰かいる](../Page/あなたの隣に誰かいる.md "wikilink")
 
 <!-- end list -->
 
@@ -110,7 +110,7 @@
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [VERMILLION RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")
-  - [ZAIN RECORDS](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")
+  - [ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink")
   - [GIZA studio](../Page/GIZA_studio.md "wikilink")
   - [D-GO](https://ja.wikipedia.org/wiki/D-GO "wikilink")
   - [NORTHERN MUSIC](../Page/NORTHERN_MUSIC.md "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[BC](https://ja.wikipedia.org/wiki/BC)から翻訳されています。
 
 
-**BC級戦犯**（BCきゅうせんぱん）は、 [連合国によって布告された](../Page/連合国_\(第二次世界大戦\).md "wikilink")[国際軍事裁判所条例及び](https://ja.wikipedia.org/wiki/国際軍事裁判所憲章#ロンドン国際軍事裁判所憲章 "wikilink")[極東国際軍事裁判条例における戦争犯罪類型B項](https://ja.wikipedia.org/wiki/国際軍事裁判所憲章#極東国際軍事裁判所条例 "wikilink")「[通例の戦争犯罪](https://ja.wikipedia.org/wiki/通例の戦争犯罪 "wikilink")」またはC項「[人道に対する罪](../Page/人道に対する罪.md "wikilink")」に該当する[戦争犯罪](../Page/戦争犯罪.md "wikilink")または戦争犯罪人とされる罪状に問われた個人\[1\]の総称。A項の[平和に対する罪](https://ja.wikipedia.org/wiki/平和に対する罪 "wikilink")で訴追された者は「[A級戦犯](../Page/A級戦犯.md "wikilink")」と呼ぶ\[2\]。
+**BC級戦犯**（BCきゅうせんぱん）は、 [連合国によって布告された](../Page/連合国_\(第二次世界大戦\).md "wikilink")[国際軍事裁判所条例及び](https://ja.wikipedia.org/wiki/国際軍事裁判所憲章#ロンドン国際軍事裁判所憲章 "wikilink")[極東国際軍事裁判条例における戦争犯罪類型B項](https://ja.wikipedia.org/wiki/国際軍事裁判所憲章#極東国際軍事裁判所条例 "wikilink")「[通例の戦争犯罪](https://ja.wikipedia.org/wiki/通例の戦争犯罪 "wikilink")」またはC項「[人道に対する罪](../Page/人道に対する罪.md "wikilink")」に該当する[戦争犯罪](../Page/戦争犯罪.md "wikilink")または戦争犯罪人とされる罪状に問われた個人\[1\]の総称。A項の[平和に対する罪](../Page/平和に対する罪.md "wikilink")で訴追された者は「[A級戦犯](../Page/A級戦犯.md "wikilink")」と呼ぶ\[2\]。
 
 日本のBC級戦犯は、[GHQにより](../Page/連合国軍最高司令官総司令部.md "wikilink")[横浜や](../Page/横浜市.md "wikilink")[マニラ](../Page/マニラ.md "wikilink")など世界49カ所の軍事法廷で裁かれた。被告人は約5700人で約1000人が[死刑](../Page/死刑.md "wikilink")判決を受けたとされる\[3\]\[4\]。
 
@@ -21,7 +21,7 @@
   - B項「通例の戦争犯罪」((b) Conventional War Crimes) とは、[戦時国際法](../Page/戦時国際法.md "wikilink")における交戦法規違反行為 (Namely, violations of the laws or customs of war) を意味する。
   - C項「人道に対する罪」((c) Crimes against Humanity) とは「国家もしくは集団によって一般の国民に対してなされた謀殺、絶滅を目的とした大量殺人、奴隷化、捕虜の虐待、追放その他の非人道的行為」と[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")されたが、この[法](../Page/法_\(法学\).md "wikilink")[概念](../Page/概念.md "wikilink")に対しては当時から賛否の意見が分かれていた。なお、このC項は、日本の戦争犯罪とされるものに対しては適用されなかった。
 
-[国際法](../Page/国際法.md "wikilink")学者[一又正雄](https://ja.wikipedia.org/wiki/一又正雄 "wikilink")は、B級は指揮・監督にあたった[士官](https://ja.wikipedia.org/wiki/将校 "wikilink")・部隊長、C級は直接[捕虜](../Page/捕虜.md "wikilink")の取り扱いにあたった者、主として[下士官](https://ja.wikipedia.org/wiki/下士官 "wikilink")、[兵](https://ja.wikipedia.org/wiki/兵 "wikilink")士、[軍属](../Page/軍属.md "wikilink")であるという主旨の説明をしている\[7\]。
+[国際法](../Page/国際法.md "wikilink")学者[一又正雄](https://ja.wikipedia.org/wiki/一又正雄 "wikilink")は、B級は指揮・監督にあたった[士官](../Page/将校.md "wikilink")・部隊長、C級は直接[捕虜](../Page/捕虜.md "wikilink")の取り扱いにあたった者、主として[下士官](../Page/下士官.md "wikilink")、[兵](https://ja.wikipedia.org/wiki/兵 "wikilink")士、[軍属](../Page/軍属.md "wikilink")であるという主旨の説明をしている\[7\]。
 
 なお、A級、B級、C級の区別は国際軍事裁判所条例及び[極東国際軍事裁判](../Page/極東国際軍事裁判.md "wikilink")所条例（）における分類である。
 
@@ -33,7 +33,7 @@
 
 これらの情報は連合国戦争犯罪委員会に提出され、それを基に[1948年](../Page/1948年.md "wikilink")3月までに36,529名（日本人容疑者は440名）の容疑者リストを作成した。
 
-また、日本の戦犯を対象として、[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")の[重慶に設置された同委員会極東太平洋小委員会では](https://ja.wikipedia.org/wiki/重慶市 "wikilink")3,158名、連合軍東南アジア司令部では[1945年](../Page/1945年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")までに1,117名のリストが作成された。
+また、日本の戦犯を対象として、[中華民国](../Page/中華民国.md "wikilink")の[重慶に設置された同委員会極東太平洋小委員会では](https://ja.wikipedia.org/wiki/重慶市 "wikilink")3,158名、連合軍東南アジア司令部では[1945年](../Page/1945年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")までに1,117名のリストが作成された。
 
 これらのリストは戦犯の捜査機関を持っている各地の連合軍や各国に配布され、戦犯の逮捕に利用された。
 
@@ -41,11 +41,11 @@
 
 ## BC戦犯の逮捕
 
-[ダグラス・マッカーサー](../Page/ダグラス・マッカーサー.md "wikilink")[元帥](../Page/元帥.md "wikilink")は[厚木に到着すると真っ先に](https://ja.wikipedia.org/wiki/厚木海軍飛行場 "wikilink")[エリオット・ソープ](https://ja.wikipedia.org/wiki/エリオット・ソープ "wikilink")[准将](https://ja.wikipedia.org/wiki/准将 "wikilink")に東條以下の[戦争犯罪](../Page/戦争犯罪.md "wikilink")人を逮捕するよう命じた。
+[ダグラス・マッカーサー](../Page/ダグラス・マッカーサー.md "wikilink")[元帥](../Page/元帥.md "wikilink")は[厚木に到着すると真っ先に](../Page/厚木海軍飛行場.md "wikilink")[エリオット・ソープ](https://ja.wikipedia.org/wiki/エリオット・ソープ "wikilink")[准将](../Page/准将.md "wikilink")に東條以下の[戦争犯罪](../Page/戦争犯罪.md "wikilink")人を逮捕するよう命じた。
 
 [GHQは](../Page/連合国軍最高司令官総司令部.md "wikilink")、1945年[9月11日](../Page/9月11日.md "wikilink")に[東條英機](../Page/東條英機.md "wikilink")など43名をはじめとして、[1948年](../Page/1948年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")までに2,636名の逮捕令状を出し、2602名の容疑者を逮捕・起訴した。
 
-イギリス軍を主体とする連合軍東南アジア司令部は1946年5月の時点で8,900名を逮捕し、この他に[ソビエト連邦軍](../Page/ソビエト連邦軍.md "wikilink")や[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")各国で逮捕されている。正確な容疑者の逮捕総数を示す資料はないが、第一復員局法務調査部では[1946年](../Page/1946年.md "wikilink")10月上旬の時点で約11,000名が海外で逮捕されたと推計していることなどから、その数が1万名をはるかに超すものと考えられている。
+イギリス軍を主体とする連合軍東南アジア司令部は1946年5月の時点で8,900名を逮捕し、この他に[ソビエト連邦軍](../Page/ソビエト連邦軍.md "wikilink")や[アジア](../Page/アジア.md "wikilink")各国で逮捕されている。正確な容疑者の逮捕総数を示す資料はないが、第一復員局法務調査部では[1946年](../Page/1946年.md "wikilink")10月上旬の時点で約11,000名が海外で逮捕されたと推計していることなどから、その数が1万名をはるかに超すものと考えられている。
 
 日本は[ジュネーヴ条約](../Page/ジュネーヴ条約.md "wikilink")を批准していなかった（適用すると連合国側には約束はしていた）事から、参謀本部や軍令部にも条約への意識が無く、捕虜の扱いについて指示がまちまちとなった。
 
@@ -57,7 +57,7 @@
 
 同書によると、[石垣島](../Page/石垣島.md "wikilink")で米軍機搭乗員3人が捕虜となった後殺害された件で（後に減刑されたが）死刑判決42人という事例もあり、軍用機搭乗員捕虜の殺害では全体的に死刑判決が多くなる傾向にあったという。
 
-戦犯逮捕の過程では、敵軍の裁きを潔しとしないという理由で自らの命を絶った者もいた。主なものを挙げると、[杉山元](https://ja.wikipedia.org/wiki/杉山元 "wikilink")（[元帥](../Page/元帥.md "wikilink")、[陸軍大将](https://ja.wikipedia.org/wiki/陸軍大将 "wikilink")、開戦時の参謀総長）は[拳銃](../Page/拳銃.md "wikilink")[自殺](../Page/自殺.md "wikilink")、[橋田邦彦](../Page/橋田邦彦.md "wikilink")（文部大臣）、[近衛文麿](../Page/近衛文麿.md "wikilink")（元[首相](../Page/首相.md "wikilink")）の2名は服毒自殺、[小泉親彦](../Page/小泉親彦.md "wikilink")（[東條内閣](https://ja.wikipedia.org/wiki/東條内閣 "wikilink")の厚生大臣、[軍医](https://ja.wikipedia.org/wiki/軍医 "wikilink")[中将](../Page/中将.md "wikilink")）、[本庄繁](../Page/本庄繁.md "wikilink")（元[関東軍司令官](https://ja.wikipedia.org/wiki/関東軍司令官 "wikilink")、陸軍大将）は割腹自殺を行っている。なお[東條英機](../Page/東條英機.md "wikilink")（元首相、陸軍大将）は自殺を図ったが未遂に終わっている。
+戦犯逮捕の過程では、敵軍の裁きを潔しとしないという理由で自らの命を絶った者もいた。主なものを挙げると、[杉山元](../Page/杉山元.md "wikilink")（[元帥](../Page/元帥.md "wikilink")、[陸軍大将](../Page/陸軍大将.md "wikilink")、開戦時の参謀総長）は[拳銃](../Page/拳銃.md "wikilink")[自殺](../Page/自殺.md "wikilink")、[橋田邦彦](../Page/橋田邦彦.md "wikilink")（文部大臣）、[近衛文麿](../Page/近衛文麿.md "wikilink")（元[首相](../Page/首相.md "wikilink")）の2名は服毒自殺、[小泉親彦](../Page/小泉親彦.md "wikilink")（[東條内閣](../Page/東條内閣.md "wikilink")の厚生大臣、[軍医](https://ja.wikipedia.org/wiki/軍医 "wikilink")[中将](../Page/中将.md "wikilink")）、[本庄繁](../Page/本庄繁.md "wikilink")（元[関東軍司令官](https://ja.wikipedia.org/wiki/関東軍司令官 "wikilink")、陸軍大将）は割腹自殺を行っている。なお[東條英機](../Page/東條英機.md "wikilink")（元首相、陸軍大将）は自殺を図ったが未遂に終わっている。
 
 ### 朝鮮人・台湾人の戦争犯罪人
 
@@ -67,7 +67,7 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
 
 [泰緬鉄道](../Page/泰緬鉄道.md "wikilink")建設の例に見られるように、日本政府が「[ジュネーヴ条約](../Page/ジュネーヴ条約.md "wikilink")」の準用を連合国各国に約束しながら、それに基づいた処遇を適正に行わなかった為、条約に反した命令・処遇の実行責任が、末端の軍属にも問われた（厳密には「準用」は「遵守」に比べて実行側の裁量の余地が大きいが、そうした主張が通る状況ではなかった）。
 
-朝鮮人戦犯148人のうち、軍人は3人だった。1人は[洪思翊](../Page/洪思翊.md "wikilink")[中将](../Page/中将.md "wikilink")であり、2人は志願兵だった。この他、[通訳](../Page/通訳.md "wikilink")だった朝鮮人16人が[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")の[国民政府](../Page/国民政府.md "wikilink")によって裁かれ、うち8人が[死刑](../Page/死刑.md "wikilink")となった。残る129人全員が、捕虜収容所の監視員として徴用され、[タイ](../Page/タイ王国.md "wikilink")・[ジャワ](../Page/ジャワ島.md "wikilink")・[マレーの捕虜収容所に配属された軍属である](../Page/マレー半島.md "wikilink")。
+朝鮮人戦犯148人のうち、軍人は3人だった。1人は[洪思翊](../Page/洪思翊.md "wikilink")[中将](../Page/中将.md "wikilink")であり、2人は志願兵だった。この他、[通訳](../Page/通訳.md "wikilink")だった朝鮮人16人が[中華民国](../Page/中華民国.md "wikilink")の[国民政府](../Page/国民政府.md "wikilink")によって裁かれ、うち8人が[死刑](../Page/死刑.md "wikilink")となった。残る129人全員が、捕虜収容所の監視員として徴用され、[タイ](../Page/タイ王国.md "wikilink")・[ジャワ](../Page/ジャワ島.md "wikilink")・[マレーの捕虜収容所に配属された軍属である](../Page/マレー半島.md "wikilink")。
 
 尚、敵国の婦女子をはじめとする民間人を抑留したジャワ軍抑留所の監視にも朝鮮人軍属があたったため、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")法廷で戦犯となっている\[9\]。
 
@@ -83,11 +83,11 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
 
 起訴件数は2,244件、5,700名が起訴された\[10\]。ただし、この数字には、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")と[中華人民共和国](../Page/中華人民共和国.md "wikilink")での数字が含まれていない。
 
-軍事法廷という形式上、裁判は[一審制](../Page/一審制.md "wikilink")であったが、通常の[軍律裁判](https://ja.wikipedia.org/wiki/軍律裁判 "wikilink")とは違い[弁護人](https://ja.wikipedia.org/wiki/弁護人 "wikilink")が付けられた。特に中国、ソ連、オランダによる法廷では、杜撰な伝聞調査、虚偽の証言、[通訳](../Page/通訳.md "wikilink")の不備、裁判執行者の報復感情などが災いし、不当な扱いを受けたり、無実の罪を背負わされる事例も多数あったと言われる。
+軍事法廷という形式上、裁判は[一審制](../Page/一審制.md "wikilink")であったが、通常の[軍律裁判](https://ja.wikipedia.org/wiki/軍律裁判 "wikilink")とは違い[弁護人](../Page/弁護人.md "wikilink")が付けられた。特に中国、ソ連、オランダによる法廷では、杜撰な伝聞調査、虚偽の証言、[通訳](../Page/通訳.md "wikilink")の不備、裁判執行者の報復感情などが災いし、不当な扱いを受けたり、無実の罪を背負わされる事例も多数あったと言われる。
 
 特に、この主張は被疑者を含め、日本側の関係者を中心に見られる。
 
-例として、[栄養失調](https://ja.wikipedia.org/wiki/栄養失調 "wikilink")の捕虜に[ゴボウ](../Page/ゴボウ.md "wikilink")を食べさせた（[直江津捕虜収容所事件](https://ja.wikipedia.org/wiki/直江津捕虜収容所事件 "wikilink")）、[肩凝り](https://ja.wikipedia.org/wiki/肩凝り "wikilink")や[腰痛](../Page/腰痛.md "wikilink")の捕虜に[灸](../Page/灸.md "wikilink")を据えた収容所関係者が捕虜虐待の罪に問われ有罪とされた、などが挙げられる。ただし、これらの事実が公判で虐待として指摘されたことは確かであるが、これだけで有罪になったのか、またはこれ以外にも虐待の事実があったがゆえに有罪の証拠として採用されたのかは不明である。
+例として、[栄養失調](../Page/栄養失調.md "wikilink")の捕虜に[ゴボウ](../Page/ゴボウ.md "wikilink")を食べさせた（[直江津捕虜収容所事件](https://ja.wikipedia.org/wiki/直江津捕虜収容所事件 "wikilink")）、[肩凝り](https://ja.wikipedia.org/wiki/肩凝り "wikilink")や[腰痛](../Page/腰痛.md "wikilink")の捕虜に[灸](../Page/灸.md "wikilink")を据えた収容所関係者が捕虜虐待の罪に問われ有罪とされた、などが挙げられる。ただし、これらの事実が公判で虐待として指摘されたことは確かであるが、これだけで有罪になったのか、またはこれ以外にも虐待の事実があったがゆえに有罪の証拠として採用されたのかは不明である。
 
 米軍における裁判でも[山本七平](../Page/山本七平.md "wikilink")は「“タナカという[憲兵](../Page/憲兵.md "wikilink")がやった”という証言があって、“やったのはこいつだ”と[面通し](https://ja.wikipedia.org/wiki/面通し "wikilink")で言われたらもうおしまいで、『私は憲兵でなく[砲兵](../Page/砲兵.md "wikilink")です』といくら言っても無駄だった」と回想している。一方、[林博史](../Page/林博史.md "wikilink")は、一般的な軍律裁判と比較して、正確な裁判であったと評価する\[11\]。
 
@@ -121,7 +121,7 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
   - [クェゼリン](https://ja.wikipedia.org/wiki/クェゼリン "wikilink")\[14\]：3裁判、被告18人
   - [上海](../Page/上海市.md "wikilink")：10裁判、被告52人 1946年2月12日～
   - [マニラ](../Page/マニラ.md "wikilink")：88裁判、被告総数238人 1945年10月8日～ 1947年にフィリピンに裁判を[移管](https://ja.wikipedia.org/wiki/移管 "wikilink")。
-      - [山下ケース](https://ja.wikipedia.org/wiki/山下奉文 "wikilink")
+      - [山下ケース](../Page/山下奉文.md "wikilink")
 
 ### イギリス裁判
 
@@ -130,7 +130,7 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
   - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")：137裁判、被告490人 1946年1月21日～1948年3月12日
       - [カーニコバル島事件](https://ja.wikipedia.org/wiki/カーニコバル島事件 "wikilink")（イギリス・シンガポール裁判12号）
       - [泰緬鉄道建設捕虜虐待事件](https://ja.wikipedia.org/wiki/泰緬鉄道建設捕虜虐待事件 "wikilink")
-      - [シンガポール華僑粛清事件](https://ja.wikipedia.org/wiki/シンガポール華僑粛清事件 "wikilink")（イギリス・シンガポール裁判118号）
+      - [シンガポール華僑粛清事件](../Page/シンガポール華僑粛清事件.md "wikilink")（イギリス・シンガポール裁判118号）
       - [双十節事件](https://ja.wikipedia.org/wiki/双十節事件 "wikilink")\[15\]
       - [昭南陸軍刑務所事件](https://ja.wikipedia.org/wiki/昭南陸軍刑務所事件 "wikilink")\[16\]
       - [セララン兵営事件](https://ja.wikipedia.org/wiki/セララン兵営事件 "wikilink")
@@ -164,7 +164,7 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
   - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")：24裁判、被告62人
   - [ウェワク](../Page/ウェワク.md "wikilink")：1裁判、被告1人
       - [ニューギニア人肉事件](https://ja.wikipedia.org/wiki/ニューギニア人肉事件 "wikilink")（オーストラリア・ウエワク裁判1号）
-  - [ポート・ダーウィン](https://ja.wikipedia.org/wiki/ダーウィン_\(ノーザンテリトリー\) "wikilink")：3裁判、被告22人
+  - [ポート・ダーウィン](../Page/ダーウィン_\(ノーザンテリトリー\).md "wikilink")：3裁判、被告22人
   - [マヌス](../Page/マヌス島.md "wikilink")：26裁判、被告121人 1950年6月5日から1951年4月9日まで。6月11日で最後の死刑執行。この裁判で事実上BC級裁判終了。
   - [アンボン](../Page/アンボン.md "wikilink")・[モロタイ](https://ja.wikipedia.org/wiki/モロタイ "wikilink")：12裁判、被告147人
       - [アンボン島豪軍捕虜殺害軍件](https://ja.wikipedia.org/wiki/アンボン島豪軍捕虜殺害軍件 "wikilink")
@@ -179,13 +179,13 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
       - [マゲラン事件](https://ja.wikipedia.org/wiki/マゲラン事件 "wikilink")
       - [櫻倶楽部事件](https://ja.wikipedia.org/wiki/櫻倶楽部事件 "wikilink")
       - [ジョンベル憲兵分隊事件](https://ja.wikipedia.org/wiki/ジョンベル憲兵分隊事件 "wikilink")
-  - [メダン](https://ja.wikipedia.org/wiki/メダン "wikilink")：59裁判、被告136人
+  - [メダン](../Page/メダン.md "wikilink")：59裁判、被告136人
   - [タンジョン・ピナン](https://ja.wikipedia.org/wiki/タンジョン・ピナン "wikilink")：6裁判、被告11人
   - [ポンティアナック](../Page/ポンティアナック.md "wikilink")：20裁判、被告38人
       - [ポンティアナック事件](https://ja.wikipedia.org/wiki/ポンティアナック事件 "wikilink")（[西ボルネオ住民虐殺事件](https://ja.wikipedia.org/wiki/西ボルネオ住民虐殺事件 "wikilink")\[26\]）
   - [バンジャルマシン](https://ja.wikipedia.org/wiki/バンジャルマシン "wikilink")：10裁判、被告30人
   - [バリックパパン](https://ja.wikipedia.org/wiki/バリックパパン "wikilink")：20裁判、被告88人
-  - [マカッサル](https://ja.wikipedia.org/wiki/マカッサル "wikilink")：36裁判、被告92人
+  - [マカッサル](../Page/マカッサル.md "wikilink")：36裁判、被告92人
   - [クーパン](https://ja.wikipedia.org/wiki/クーパン "wikilink")：21裁判、被告24人
   - [アンボン](../Page/アンボン.md "wikilink")：49裁判、被告79人
   - [メナド](https://ja.wikipedia.org/wiki/メナド "wikilink")：44裁判、被告59人
@@ -210,11 +210,11 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
 
 全605裁判、被告総数884人。無罪判決は40%にのぼるが、これは[国共内戦](../Page/国共内戦.md "wikilink")における政策変換によるとされる\[27\]。
 
-  - [漢口](https://ja.wikipedia.org/wiki/漢口 "wikilink")：79裁判、被告163人
+  - [漢口](../Page/漢口.md "wikilink")：79裁判、被告163人
   - [北京](../Page/北京市.md "wikilink")：89裁判、被告115人 1946年4月8日～
   - [広東](https://ja.wikipedia.org/wiki/広東 "wikilink")：93裁判、被告170人
   - [瀋陽](https://ja.wikipedia.org/wiki/瀋陽 "wikilink")：115裁判、被告136人
-  - [南京](https://ja.wikipedia.org/wiki/南京市 "wikilink")([南京軍事法廷](https://ja.wikipedia.org/wiki/南京軍事法廷 "wikilink"))：28裁判、被告33人 1946年5月30日～
+  - [南京](../Page/南京市.md "wikilink")([南京軍事法廷](https://ja.wikipedia.org/wiki/南京軍事法廷 "wikilink"))：28裁判、被告33人 1946年5月30日～
       - [百人斬り競争](../Page/百人斬り競争.md "wikilink")（[中華民国南京裁判](https://ja.wikipedia.org/wiki/南京軍事法廷 "wikilink")21号）
       - [南京虐殺事件で](https://ja.wikipedia.org/wiki/南京事件_\(代表的なトピック\) "wikilink")[谷寿夫](../Page/谷寿夫.md "wikilink")中将が訴追。
   - [済南](https://ja.wikipedia.org/wiki/済南 "wikilink")：21裁判、被告24人
@@ -234,7 +234,7 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
 
 ソ連は[連合国戦争犯罪委員会](https://ja.wikipedia.org/wiki/連合国戦争犯罪委員会 "wikilink")に参加しなかったため、ソ連での裁判の実態がわからない\[30\]。
 
-  - [ハバロフスク裁判](https://ja.wikipedia.org/wiki/ハバロフスク裁判 "wikilink")
+  - [ハバロフスク裁判](../Page/ハバロフスク裁判.md "wikilink")
 
 ## 「再審」
 
@@ -246,8 +246,8 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
 
   - [1940年](../Page/1940年.md "wikilink")11月 - ポーランドとチェコスロバキア両亡命政府の共同宣言。ドイツの残虐行為に対して激く非難する。
   - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")10月 - [アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")（[フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")）と[イギリス首相](../Page/イギリスの首相.md "wikilink")（[ウィンストン・チャーチル](../Page/ウィンストン・チャーチル.md "wikilink")）がそれぞれ声明を発表する。イギリスはその中で、戦争犯罪を処罰することが戦争の目的の一つだと主張した。
-  - 1941年11月 - ソビエト連邦（[モロトフ外相](https://ja.wikipedia.org/wiki/ヴャチェスラフ・モロトフ "wikilink")）が、ナチス・ドイツの残虐行為を非難する声明を発表する。
-  - [1942年](../Page/1942年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink") - イギリス・セントジェームズ宮殿において、ナチス・ドイツの戦争犯罪を裁判によって処罰することを戦争目的に入れるという宣言を決議した。この宣言には、ベルギー、チェコスロバキア、ポーランドなどヨーロッパ9国が参加し、ソビエト連邦も後に同意を示した。[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")はオブザーバーとして出席し、この宣言に同意するとともに、[大日本帝国](https://ja.wikipedia.org/wiki/大日本帝国 "wikilink")に対しても同じ原則を適用すると表明した。
+  - 1941年11月 - ソビエト連邦（[モロトフ外相](../Page/ヴャチェスラフ・モロトフ.md "wikilink")）が、ナチス・ドイツの残虐行為を非難する声明を発表する。
+  - [1942年](../Page/1942年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink") - イギリス・セントジェームズ宮殿において、ナチス・ドイツの戦争犯罪を裁判によって処罰することを戦争目的に入れるという宣言を決議した。この宣言には、ベルギー、チェコスロバキア、ポーランドなどヨーロッパ9国が参加し、ソビエト連邦も後に同意を示した。[中華民国](../Page/中華民国.md "wikilink")はオブザーバーとして出席し、この宣言に同意するとともに、[大日本帝国](https://ja.wikipedia.org/wiki/大日本帝国 "wikilink")に対しても同じ原則を適用すると表明した。
   - [1943年](../Page/1943年.md "wikilink")10月 - 連合国は「連合国戦争犯罪委員会」を発足し、戦争犯罪の処罰に関して正式に議論を行う場を設けた。この委員会には、オーストラリア、ベルギー、カナダ、中華民国、チェコスロバキア、ギリシャ、インド、ルクセンブルク、オランダ、ニュージーランド、ノルウェー、ポーランド、南アフリカ、イギリス、アメリカ合衆国、ユーゴスラビア、フランスの17ヵ国が参加した。
   - 1943年11月 - アメリカ合衆国、イギリス、ソビエト連邦による[モスクワ宣言が発表される](../Page/モスクワ宣言_\(1943年\).md "wikilink")。その内容には、ナチス・ドイツによる戦争犯罪の責任者はその犯罪が行われた国で裁判を行うこと、地理的制限を有しない主要な戦争犯罪人の扱いは連合国の決定に委ねることなどが含まれている。
   - [1944年](../Page/1944年.md "wikilink")10月 - 連合国戦争犯罪委員会において次の提案がまとめられた。
@@ -280,7 +280,7 @@ BC級戦犯の中には、当時日本統治下にあった朝鮮・台湾出身
   - 田中(2011-2012)：[田中宏巳](https://ja.wikipedia.org/wiki/田中宏巳 "wikilink")編、『BC級戦犯関係資料集』（復刻版）（全6巻）、緑蔭書房、2011-2012年。
   - 井上ほか(2010)：[半藤一利](../Page/半藤一利.md "wikilink")・[秦郁彦](../Page/秦郁彦.md "wikilink")・[保坂正康](https://ja.wikipedia.org/wiki/保坂正康 "wikilink")・[井上亮](https://ja.wikipedia.org/wiki/井上亮_\(ジャーナリスト\) "wikilink")、『「BC級裁判」を読む』、[日本経済新聞出版社](https://ja.wikipedia.org/wiki/日本経済新聞出版社 "wikilink") 2010年／日経ビジネス人文庫 2015年
   - 牛村・日暮(2008)：[牛村圭](../Page/牛村圭.md "wikilink")・[日暮吉延](../Page/日暮吉延.md "wikilink")、『東京裁判を正しく読む』、[文春新書](../Page/文春新書.md "wikilink") 2008年、対話篇。
-  - 日暮(2008)：[日暮吉延](../Page/日暮吉延.md "wikilink")、『東京裁判』、[講談社現代新書](https://ja.wikipedia.org/wiki/講談社現代新書 "wikilink") 2008年。ISBN 978-4-06-287924-8
+  - 日暮(2008)：[日暮吉延](../Page/日暮吉延.md "wikilink")、『東京裁判』、[講談社現代新書](../Page/講談社現代新書.md "wikilink") 2008年。ISBN 978-4-06-287924-8
   - 林(2005)：[林博史](../Page/林博史.md "wikilink")、『BC級戦犯裁判』、[岩波新書](../Page/岩波新書.md "wikilink") 2005年 :ISBN 4-00-430952-2
   - 内海(2004)：[内海愛子](https://ja.wikipedia.org/wiki/内海愛子 "wikilink")、『スガモプリズン　戦犯たちの平和運動』、[吉川弘文館](https://ja.wikipedia.org/wiki/吉川弘文館 "wikilink") 2004年 :ISBN 4-642-05576-2
   - 牛村(2004)：[牛村圭](../Page/牛村圭.md "wikilink")、『再考「世紀の遺書」と東京裁判 - 対日戦犯裁判の精神史』、[PHP研究所](../Page/PHP研究所.md "wikilink") 2004年 :ISBN 4-569-63826-0

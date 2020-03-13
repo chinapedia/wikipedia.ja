@@ -20,7 +20,7 @@
   - 演出：[斉藤敏豪](../Page/斉藤敏豪.md "wikilink")
   - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[麻布プラザ](../Page/麻布プラザ.md "wikilink")
   - 美術協力：[フジアール](../Page/フジアール.md "wikilink")
-  - 制作協力：[ウッドオフィス](https://ja.wikipedia.org/wiki/ウッドオフィス "wikilink")
+  - 制作協力：[ウッドオフィス](../Page/ウッドオフィス.md "wikilink")
   - 制作：テレビ東京、吉本興業
 
 ## 脚注

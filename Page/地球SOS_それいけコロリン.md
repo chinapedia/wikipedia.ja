@@ -1,7 +1,7 @@
 > この記事は[SOS ](https://ja.wikipedia.org/wiki/SOS_)から翻訳されています。
 
 
-**地球SOS それいけコロリン**（ちきゅうSOS それいけコロリン）は、[1992年](../Page/1992年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")まで[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[6時だ\!ETV](https://ja.wikipedia.org/wiki/6時だ!ETV "wikilink")内で放送された全26回の[教育](../Page/教育番組.md "wikilink")・[アニメ番組](https://ja.wikipedia.org/wiki/アニメ番組 "wikilink")である。放送時間は18:00 - 18:25であった。
+**地球SOS それいけコロリン**（ちきゅうSOS それいけコロリン）は、[1992年](../Page/1992年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")まで[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[6時だ\!ETV](https://ja.wikipedia.org/wiki/6時だ!ETV "wikilink")内で放送された全26回の[教育](../Page/教育番組.md "wikilink")・[アニメ番組](https://ja.wikipedia.org/wiki/アニメ番組 "wikilink")である。放送時間は18:00 - 18:25であった。
 
 ## 構成
 
@@ -87,7 +87,7 @@
 <!-- end list -->
 
   - ゴミタロウ
-    声 - [河合義雄](https://ja.wikipedia.org/wiki/河合義雄 "wikilink")
+    声 - [河合義雄](../Page/河合義雄.md "wikilink")
 
 ## スタッフ
 
@@ -121,7 +121,7 @@
 <td><p>西村孝史</p></td>
 <td><p><a href="../Page/高本宣弘.md" title="wikilink">高本宣弘</a></p></td>
 <td><p><strong><a href="../Page/1992年.md" title="wikilink">1992年</a></strong><br />
-<a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a></p></td>
+<a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -189,7 +189,7 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>おばあちゃんの知恵で解決のコロリ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/桶谷顕" title="wikilink">桶谷顕</a></p></td>
+<td><p><a href="../Page/桶谷顕.md" title="wikilink">桶谷顕</a></p></td>
 <td><p>三沢伸</p></td>
 <td><p><a href="../Page/7月1日.md" title="wikilink">7月1日</a></p></td>
 </tr>
@@ -238,7 +238,7 @@
 <tr class="even">
 <td><p>18</p></td>
 <td><p>電気に感謝の日のコロリ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岸間信明" title="wikilink">岸間信明</a></p></td>
+<td><p><a href="../Page/岸間信明.md" title="wikilink">岸間信明</a></p></td>
 <td><p>藤森一真</p></td>
 <td><p><a href="../Page/10月14日.md" title="wikilink">10月14日</a></p></td>
 </tr>
@@ -304,8 +304,8 @@
 
 ## 主題歌
 
-  - オープニング「それいけコロリン」（作詞：松宮恭子　作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")　編曲：藤原いくろう　歌：本間かおり＝現・[普天間かおり](https://ja.wikipedia.org/wiki/普天間かおり "wikilink")）
-  - エンディング「天国の子守歌」（作詞：松宮恭子　作曲：[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")　歌：[本間かおり](https://ja.wikipedia.org/wiki/普天間かおり "wikilink")）
+  - オープニング「それいけコロリン」（作詞：松宮恭子　作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")　編曲：藤原いくろう　歌：本間かおり＝現・[普天間かおり](../Page/普天間かおり.md "wikilink")）
+  - エンディング「天国の子守歌」（作詞：松宮恭子　作曲：[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")　歌：[本間かおり](../Page/普天間かおり.md "wikilink")）
   - エンドバックには、野生動物の生態を取材したVTRが流れる。
 
 ## 地球環境のひみつ

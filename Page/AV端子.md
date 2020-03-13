@@ -8,7 +8,7 @@
   - [RF端子](https://ja.wikipedia.org/wiki/RF端子 "wikilink")
     「F栓コネクタ」とも。
 
-  - [RCA端子](https://ja.wikipedia.org/wiki/RCA端子 "wikilink")
+  - [RCA端子](../Page/RCA端子.md "wikilink")
     家庭用AV機器において最も一般的に使われるものの一つ。日本ではピンプラグとも言う。機器間の接続に用いられることが多い。同軸ケーブルの接続に適するが、主として数十kHz以下の低周波領域で用いる。身近な用途としてオーディオ用の赤白ケーブルやビデオ用の黄赤白のケーブルなど。
 
     接続が容易である半面、引っ張る力によって抜けてしまう場合がある。
@@ -39,7 +39,7 @@
   - [DV端子](https://ja.wikipedia.org/wiki/DV端子 "wikilink")
     ビデオカメラなどに採用されていた映像と音声のデジタル信号を伝送する方式。
 
-  - [SCART端子](https://ja.wikipedia.org/wiki/SCART端子 "wikilink")
+  - [SCART端子](../Page/SCART端子.md "wikilink")
     [ヨーロッパ](../Page/ヨーロッパ.md "wikilink")で最も標準的なAV端子。主にテレビとビデオ機器の間での接続に使用される。通常21ピンの端子が比較的大きな四角形の中に並んでいる。ユーロコネクター (Euroconnector)、ユーロ21等とも言われる。日本で使われている[RGB21ピン](../Page/RGB21ピン.md "wikilink")端子はこれを元に開発されたものである。
 
   - [S/PDIF](https://ja.wikipedia.org/wiki/S/PDIF "wikilink")
@@ -59,7 +59,7 @@
       -
         橙色の同コネクタ付きケーブルを用いてデジタル音声信号の伝送を行う。形状はRCA端子かBNC端子。
 
-  - [AVマルチ](https://ja.wikipedia.org/wiki/AVマルチ "wikilink")端子
+  - [AVマルチ](../Page/AVマルチ.md "wikilink")端子
     [PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、一部の[ソニー](../Page/ソニー.md "wikilink")製[テレビ](../Page/テレビ.md "wikilink")に搭載。
 
   - [フォーン端子](../Page/フォーンプラグ.md "wikilink")（ TRSフォーン）

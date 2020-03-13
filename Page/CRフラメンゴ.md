@@ -9,7 +9,7 @@
 
 [左](https://ja.wikipedia.org/wiki/ファイル:Time_de_Futebol_do_Flamengo,_1934.tif "wikilink") クラブ名はクラブの創設地がリオデジャネイロの[フラメンゴ](https://ja.wikipedia.org/wiki/フラメンゴ "wikilink")地区であることに由来する。
 
-ホームスタジアムは[エスタジオ・ド・マラカナン](../Page/エスタジオ・ド・マラカナン.md "wikilink")で、同じくリオデジャネイロを本拠地とする[フルミネンセや](https://ja.wikipedia.org/wiki/フルミネンセFC "wikilink")[ヴァスコ・ダ・ガマ](https://ja.wikipedia.org/wiki/CRヴァスコ・ダ・ガマ "wikilink")、[ボタフォゴとはライバル関係にある](https://ja.wikipedia.org/wiki/ボタフォゴFR "wikilink")。ユニフォームは赤と黒の横縞。かつては元[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")監督の[ジーコ](../Page/ジーコ.md "wikilink")が在籍し活躍していた。[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")で1番人気のあるクラブで、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")全国でも最も人気のあるサッカークラブである\[1\]。2011年度のクラブ総収入は1億8500万レアル（約75億円）であり、ブラジルのクラブで第5位である。
+ホームスタジアムは[エスタジオ・ド・マラカナン](../Page/エスタジオ・ド・マラカナン.md "wikilink")で、同じくリオデジャネイロを本拠地とする[フルミネンセや](../Page/フルミネンセFC.md "wikilink")[ヴァスコ・ダ・ガマ](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")、[ボタフォゴとはライバル関係にある](../Page/ボタフォゴFR.md "wikilink")。ユニフォームは赤と黒の横縞。かつては元[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")監督の[ジーコ](../Page/ジーコ.md "wikilink")が在籍し活躍していた。[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")で1番人気のあるクラブで、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")全国でも最も人気のあるサッカークラブである\[1\]。2011年度のクラブ総収入は1億8500万レアル（約75億円）であり、ブラジルのクラブで第5位である。
 
 もともとは[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")クラブで（クラブ名に「[レガッタ](../Page/レガッタ.md "wikilink") (Regatas) 」とあるのはそのため）、現在はサッカーとボートのほか、[バスケットボール](../Page/バスケットボール.md "wikilink")や[バレーボール](../Page/バレーボール.md "wikilink")のクラブも保有している。
 

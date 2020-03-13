@@ -27,7 +27,7 @@
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/モーリス・スミス" title="wikilink">モーリス・スミス</a></p></td>
+<td><p><a href="../Page/モーリス・スミス.md" title="wikilink">モーリス・スミス</a></p></td>
 <td><p>1997年7月27日 - 1997年12月21日</p></td>
 <td><p>1</p></td>
 <td><p>マーク・コールマンとの王座戦により獲得<br />
@@ -157,7 +157,7 @@
 </tr>
 <tr class="odd">
 <td><p>暫</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アントニオ・ホドリゴ・ノゲイラ" title="wikilink">アントニオ・ホドリゴ・ノゲイラ</a></p></td>
+<td><p><a href="../Page/アントニオ・ホドリゴ・ノゲイラ.md" title="wikilink">アントニオ・ホドリゴ・ノゲイラ</a></p></td>
 <td><p>2008年2月2日 - 2008年12月27日</p></td>
 <td><p>0</p></td>
 <td><p>クートゥアの契約問題による戦線離脱のため制定<br />
@@ -165,7 +165,7 @@
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブロック・レスナー" title="wikilink">ブロック・レスナー</a></p></td>
+<td><p><a href="../Page/ブロック・レスナー.md" title="wikilink">ブロック・レスナー</a></p></td>
 <td><p>2008年11月15日 - 2010年10月23日</p></td>
 <td><p>2</p></td>
 <td><p>ランディ・クートゥアとの王座戦により獲得<br />
@@ -300,7 +300,7 @@
 <td><p>2000年4月14日 - 2003年9月26日</p></td>
 <td><p>5</p></td>
 <td><p><a href="../Page/ヴァンダレイ・シウバ.md" title="wikilink">ヴァンダレイ・シウバ</a>との王座決定戦で獲得<br />
-○ <a href="https://ja.wikipedia.org/wiki/近藤有己" title="wikilink">近藤有己</a>（<a href="../Page/UFC_29.md" title="wikilink">UFC 29</a>）<br />
+○ <a href="../Page/近藤有己.md" title="wikilink">近藤有己</a>（<a href="../Page/UFC_29.md" title="wikilink">UFC 29</a>）<br />
 ○ <a href="../Page/エヴァン・タナー.md" title="wikilink">エヴァン・タナー</a>（<a href="../Page/UFC_30.md" title="wikilink">UFC 30</a>）<br />
 ○ <a href="../Page/エルヴィス・シノシック.md" title="wikilink">エルヴィス・シノシック</a>（<a href="../Page/UFC_32.md" title="wikilink">UFC 32</a>）<br />
 ○ <a href="../Page/ウラジミール・マティシェンコ.md" title="wikilink">ウラジミール・マティシェンコ</a>（<a href="../Page/UFC_33.md" title="wikilink">UFC 33</a>）<br />
@@ -374,11 +374,11 @@
 <td><p>2009年5月23日 - 2010年5月8日</p></td>
 <td><p>1</p></td>
 <td><p>ラシャド・エヴァンスとの王座戦により獲得<br />
-○ <a href="https://ja.wikipedia.org/wiki/マウリシオ・ショーグン" title="wikilink">マウリシオ・ショーグン</a>（<a href="https://ja.wikipedia.org/wiki/UFC_104" title="wikilink">UFC 104</a>）</p></td>
+○ <a href="../Page/マウリシオ・ショーグン.md" title="wikilink">マウリシオ・ショーグン</a>（<a href="https://ja.wikipedia.org/wiki/UFC_104" title="wikilink">UFC 104</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マウリシオ・ショーグン" title="wikilink">マウリシオ・ショーグン</a></p></td>
+<td><p><a href="../Page/マウリシオ・ショーグン.md" title="wikilink">マウリシオ・ショーグン</a></p></td>
 <td><p>2010年5月8日 - 2011年3月19日</p></td>
 <td><p>0</p></td>
 <td><p>リョート・マチダとの王座戦により獲得</p></td>
@@ -440,7 +440,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクサンダー・グスタフソン" title="wikilink">アレクサンダー・グスタフソン</a>との王座決定戦により獲得<br />
 ○ <a href="https://ja.wikipedia.org/wiki/アンソニー・スミス_(格闘家)" title="wikilink">アンソニー・スミス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_235" title="wikilink">UFC 235</a>）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/チアゴ・サントス" title="wikilink">チアゴ・サントス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_239" title="wikilink">UFC 239</a>）<br />
-○ <a href="https://ja.wikipedia.org/wiki/ドミニク・レイエス" title="wikilink">ドミニク・レイエス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_247" title="wikilink">UFC 247</a>）</p></td>
+○ <a href="https://ja.wikipedia.org/wiki/ドミニク・レイエス" title="wikilink">ドミニク・レイエス</a>（<a href="../Page/UFC_247.md" title="wikilink">UFC 247</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -750,7 +750,7 @@ UFC 31にて旧ライト級から現在の階級区分へ変更。
 <td><p>2019年3月2日 - 現在</p></td>
 <td><p>1</p></td>
 <td><p>タイロン・ウッドリーとの王座戦により獲得<br />
-○ コルビー・コヴィントン（<a href="https://ja.wikipedia.org/wiki/UFC_245" title="wikilink">UFC 245</a>）</p></td>
+○ コルビー・コヴィントン（<a href="../Page/UFC_245.md" title="wikilink">UFC 245</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1277,7 +1277,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 ○ <a href="https://ja.wikipedia.org/wiki/ヴァレンティーナ・シェフチェンコ" title="wikilink">ヴァレンティーナ・シェフチェンコ</a>（<a href="https://ja.wikipedia.org/wiki/UFC_215" title="wikilink">UFC 215</a>）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/ラケル・ペニントン" title="wikilink">ラケル・ペニントン</a>（<a href="https://ja.wikipedia.org/wiki/UFC_224" title="wikilink">UFC 224</a>）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/ホリー・ホルム" title="wikilink">ホリー・ホルム</a>（<a href="https://ja.wikipedia.org/wiki/UFC_239" title="wikilink">UFC 239</a>）<br />
-○ <a href="https://ja.wikipedia.org/wiki/ジャーメイン・デ・ランダミー" title="wikilink">ジャーメイン・デ・ランダミー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_245" title="wikilink">UFC 245</a>）</p></td>
+○ <a href="https://ja.wikipedia.org/wiki/ジャーメイン・デ・ランダミー" title="wikilink">ジャーメイン・デ・ランダミー</a>（<a href="../Page/UFC_245.md" title="wikilink">UFC 245</a>）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1324,7 +1324,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>ヨアナ・イェンジェイチックとの王座決定戦により獲得<br />
 ○ <a href="https://ja.wikipedia.org/wiki/ジェシカ・アイ" title="wikilink">ジェシカ・アイ</a>（<a href="https://ja.wikipedia.org/wiki/UFC_238" title="wikilink">UFC 238</a>）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/リズ・カムーシュ" title="wikilink">リズ・カムーシュ</a>（<a href="https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Shevchenko_vs._Carmouche_2" title="wikilink">UFC on ESPN+ 14</a>）<br />
-○ <a href="https://ja.wikipedia.org/wiki/ケイトリン・チュケイギアン" title="wikilink">ケイトリン・チュケイギアン</a>（<a href="https://ja.wikipedia.org/wiki/UFC_247" title="wikilink">UFC 247</a>）</p></td>
+○ <a href="../Page/ケイトリン・チュケイギアン.md" title="wikilink">ケイトリン・チュケイギアン</a>（<a href="../Page/UFC_247.md" title="wikilink">UFC 247</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>

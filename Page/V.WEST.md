@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - [内博貴](https://ja.wikipedia.org/wiki/内博貴 "wikilink")（うち ひろき、1986年9月10日 - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当\[1\]
+  - [内博貴](../Page/内博貴.md "wikilink")（うち ひろき、1986年9月10日 - ）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当\[1\]
   - [安田章大](../Page/安田章大.md "wikilink")（やすだ しょうた、1984年9月11日 - ）[ギター](../Page/ギター.md "wikilink")担当\[2\]、[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")
   - [丸山隆平](../Page/丸山隆平.md "wikilink")（まるやま りゅうへい、1983年11月26日 - ）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")\[3\]
   - [大倉忠義](../Page/大倉忠義.md "wikilink")（おおくら ただよし、1985年5月16日 - ） [ドラム担当](../Page/ドラムセット.md "wikilink")\[4\]
@@ -41,7 +41,7 @@
 
 ### ライブ
 
-  - V.WEST First Live（2001年8月28日、[Zepp Osaka](https://ja.wikipedia.org/wiki/Zepp "wikilink")）内・安田・丸山・水野・今山\[14\]
+  - V.WEST First Live（2001年8月28日、[Zepp Osaka](../Page/Zepp.md "wikilink")）内・安田・丸山・水野・今山\[14\]
 
 ## 脚注
 

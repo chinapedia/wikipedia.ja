@@ -5,11 +5,11 @@
 
 別名**UNCO☆STAR**（ユー・エヌ・シー・オー・スター）、**KYO-KI**（キョーキ）。 [1991年](../Page/1991年.md "wikilink")結成。
 
-[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[インストゥルメンタル](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")、[リミックス](../Page/リミックス.md "wikilink")、[アレンジ](../Page/編曲.md "wikilink")、[CM用の音楽などを手がけている](../Page/コマーシャルメッセージ.md "wikilink")。
+[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[インストゥルメンタル](../Page/器楽曲.md "wikilink")、[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")、[リミックス](../Page/リミックス.md "wikilink")、[アレンジ](../Page/編曲.md "wikilink")、[CM用の音楽などを手がけている](../Page/コマーシャルメッセージ.md "wikilink")。
 
 ## メンバー
 
-  - **景山 俊之**（かげやま としゆき、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[12月30日](../Page/12月30日.md "wikilink") - ）
+  - **景山 俊之**（かげやま としゆき、[1970年](../Page/1970年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") - ）
       -
         [奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
   - **廣田 幸一**（ひろた こういち、1970年[7月29日](../Page/7月29日.md "wikilink") - ）
@@ -28,7 +28,7 @@
 
 [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列のアニメ『アークエとガッチンポー』『アークエとガッチンポーてんこもり』でのオープニングテーマ「ウラ・ガッチンポーのテーマ」の[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・ボーカル、 また『アークエとガッチンポーてんこもり』のエンディングテーマ「パイパイパイプス バイバイバイ\!」の作詞・作曲・編曲・ボーカルをした際に使用された。
 
-また、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発売された[CD](../Page/コンパクトディスク.md "wikilink")「ウラ・ガッチンポーのテーマ」の3曲目の「叫べ\!ガッチンポーのテーマ」の作詞・作曲・編曲・ボーカルでもこの名前は使用されている。
+また、[2005年](../Page/2005年.md "wikilink")に発売された[CD](../Page/コンパクトディスク.md "wikilink")「ウラ・ガッチンポーのテーマ」の3曲目の「叫べ\!ガッチンポーのテーマ」の作詞・作曲・編曲・ボーカルでもこの名前は使用されている。
 
 ### メンバー
 
@@ -111,12 +111,12 @@
   - 「[0033](https://ja.wikipedia.org/wiki/0033 "wikilink")」ラジオCM（2004年） - [NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")、唄は廣田
   - 「キッチンアクアショット」[テレビ](../Page/テレビ.md "wikilink")CM[サウンドロゴ](../Page/サウンドロゴ.md "wikilink")（2004年） - [ツムラ](../Page/ツムラ.md "wikilink")
   - 「[NBAストリート マリオでダンク](https://ja.wikipedia.org/wiki/NBAストリート "wikilink")V3」テレビCM[BGM](../Page/バックグラウンドミュージック.md "wikilink")（2005年） - [エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")
-  - 「旨チョコミルク」テレビCM BGM（2005年） - [赤城乳業](https://ja.wikipedia.org/wiki/赤城乳業 "wikilink")
+  - 「旨チョコミルク」テレビCM BGM（2005年） - [赤城乳業](../Page/赤城乳業.md "wikilink")
   - 「AG NOSE」テレビCM BGM・サウンドロゴ（2006年） - [ゼファーマ](../Page/ゼファーマ.md "wikilink")
   - 「AG EYES」テレビCM BGM・サウンドロゴBGM（2006年） - ゼファーマ
   - 「[ガツンとみかん](https://ja.wikipedia.org/wiki/ガツンとみかん "wikilink")」テレビCM BGM（2006年） - 赤城乳業
   - 「[2006 FIFA ワールドカップ ドイツ大会](../Page/2006_FIFA_ワールドカップ_ドイツ大会_\(ゲーム\).md "wikilink")」テレビCM BGM - エレクトロニック・アーツ
-  - 「濃厚旨ミルク」テレビCM BGM（2006年） - [赤城乳業](https://ja.wikipedia.org/wiki/赤城乳業 "wikilink")
+  - 「濃厚旨ミルク」テレビCM BGM（2006年） - [赤城乳業](../Page/赤城乳業.md "wikilink")
 
 #### その他
 

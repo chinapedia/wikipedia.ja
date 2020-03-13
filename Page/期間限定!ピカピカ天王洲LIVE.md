@@ -5,7 +5,7 @@
 
 ## 番組概要
 
-これまで長年放送した22:00の『[演歌の花道](https://ja.wikipedia.org/wiki/演歌の花道 "wikilink")』が終了し、22:30『[岡本綾子のNECスーパーゴルフ](../Page/岡本綾子のNECスーパーゴルフ.md "wikilink")』が日曜17:30に引越した関係と、前年12月に[テレビ東京天王洲スタジオ](../Page/テレビ東京天王洲スタジオ.md "wikilink")の完成を記念して始まった音楽番組。後枠『[MUSIX\!](../Page/MUSIX!.md "wikilink")』を[BSデジタル放送の](../Page/衛星放送.md "wikilink")[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")でも放送することになっていたため、同年秋の番組[改編](../Page/改編.md "wikilink")期からBSデジタル放送開始までのつなぎという位置づけであった。
+これまで長年放送した22:00の『[演歌の花道](../Page/演歌の花道.md "wikilink")』が終了し、22:30『[岡本綾子のNECスーパーゴルフ](../Page/岡本綾子のNECスーパーゴルフ.md "wikilink")』が日曜17:30に引越した関係と、前年12月に[テレビ東京天王洲スタジオ](../Page/テレビ東京天王洲スタジオ.md "wikilink")の完成を記念して始まった音楽番組。後枠『[MUSIX\!](../Page/MUSIX!.md "wikilink")』を[BSデジタル放送の](../Page/衛星放送.md "wikilink")[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")でも放送することになっていたため、同年秋の番組[改編](../Page/改編.md "wikilink")期からBSデジタル放送開始までのつなぎという位置づけであった。
 
 これ以後、日曜22時枠（現在の『[にちようチャップリン](https://ja.wikipedia.org/wiki/にちようチャップリン "wikilink")』を含む）は1時間番組に定着した。
 

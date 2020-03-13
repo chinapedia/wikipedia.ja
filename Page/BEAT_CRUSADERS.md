@@ -18,7 +18,7 @@
       - 元[popcatcher](https://ja.wikipedia.org/wiki/popcatcher "wikilink")のボーカリスト・ベーシスト・ギタリストであり、インディーズレーベル[CAPTAIN HAUS RECORDINGSの](https://ja.wikipedia.org/wiki/CAPTAIN_HAUS_RECORDINGS "wikilink")[取締役](https://ja.wikipedia.org/wiki/取締役会 "wikilink")[社長](../Page/社長.md "wikilink")。
       - 自称、ビークルのトップ[ブリーダー](../Page/ブリーダー.md "wikilink")。ビークルの良心。裏のリーダー。
       - もともとはギタリストである。学生時代にフルートをやっていたが従兄と交換し、ギターをやる様になった。
-      - ベースは、[フェンダー](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")・[ジャズベース](https://ja.wikipedia.org/wiki/ジャズベース "wikilink")等の数種のベースを使い分けている。
+      - ベースは、[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")・[ジャズベース](https://ja.wikipedia.org/wiki/ジャズベース "wikilink")等の数種のベースを使い分けている。
       - 並行して「[BANDWAGON](https://ja.wikipedia.org/wiki/BANDWAGON "wikilink")」のギタリスト、「AVANTI」のギタリストとして活動していた。
       - 趣味でやっている写真を「横浜写真アパートメント」(テラウチマサト主催の写真展)に出展したこともある。
       - 昔は[剣道](../Page/剣道.md "wikilink")部だったという。
@@ -30,7 +30,7 @@
   - **カトウタロウ**（本名：加藤太郎（かとうたろう）、[1975年](../Page/1975年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink") 、[千葉県](../Page/千葉県.md "wikilink")[習志野市](../Page/習志野市.md "wikilink")出身）- ギター・ボーカル
       - 元[FUNSIDE](https://ja.wikipedia.org/wiki/FUNSIDE "wikilink")のギタリスト。
       - 学生時代は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部。ギターを始めたのはこの頃で、体育祭の組体操で転落し腕を骨折、そのときに家にあったウクレレを触ったのがきっかけである。
-      - [短パン](../Page/短パン.md "wikilink")、[ブレザー](https://ja.wikipedia.org/wiki/ブレザー "wikilink")、[ギブソン・SG](https://ja.wikipedia.org/wiki/ギブソン・SG "wikilink")というスタイルは、カトウがリスペクトしている[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")のギタリスト、[アンガス・ヤング](https://ja.wikipedia.org/wiki/アンガス・ヤング "wikilink")の[コスプレ](../Page/コスプレ.md "wikilink")である。使用ギターはアンガスに倣い、[ギブソンSG](https://ja.wikipedia.org/wiki/ギブソンSG "wikilink")である。ちなみにスタジオに来たときの服装があまりにダサかったため、ヒダカに「SG持ってるならあれやれ\!」といわれ、コスプレすることになる。
+      - [短パン](../Page/短パン.md "wikilink")、[ブレザー](../Page/ブレザー.md "wikilink")、[ギブソン・SG](../Page/ギブソン・SG.md "wikilink")というスタイルは、カトウがリスペクトしている[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")のギタリスト、[アンガス・ヤング](../Page/アンガス・ヤング.md "wikilink")の[コスプレ](../Page/コスプレ.md "wikilink")である。使用ギターはアンガスに倣い、[ギブソンSG](https://ja.wikipedia.org/wiki/ギブソンSG "wikilink")である。ちなみにスタジオに来たときの服装があまりにダサかったため、ヒダカに「SG持ってるならあれやれ\!」といわれ、コスプレすることになる。
       - 大半の曲でコーラスを担当しているが、曲によってはメインボーカルやキーボード（[ヤマハ](../Page/ヤマハ.md "wikilink")[KX-5](https://ja.wikipedia.org/wiki/KX-5 "wikilink")を使用）も担当する。
       - 既婚者である（2006年5月27日に千葉LOOKで行われたライブで婚姻発表）。
       - BEAT CRUSADERSと並行し、ヒダカらとともにGALLOWのボーカリストとして活動していたが、2007年12月16日に下北沢shelterで行われたfed musicのツアーファイナルにて脱退。
@@ -44,7 +44,7 @@
       - 元[NATSUMEN](../Page/NATSUMEN.md "wikilink")（ナツメン）のドラマー。ピアノも弾ける。バンドでは[原始人](../Page/原始人.md "wikilink")キャラクター。
       - [サークルKの社員だったことがある](https://ja.wikipedia.org/wiki/サークルKサンクス "wikilink")。
       - 素顔や体格、歩き方までもが[安斎肇](../Page/安斎肇.md "wikilink")に似ているらしく『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』出演時に[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")の楽屋を訪問した際にお墨付きをもらった。また後日別番組で本人と遭遇した際は本人に「君か\!」と抱きしめられたとのこと。
-      - 既婚者で2児の父（2007年4月30日『[ヒダカトオルのオールナイトニッポン](https://ja.wikipedia.org/wiki/ヒダカトオルのオールナイトニッポン "wikilink")』にて婚姻発表、2008年3月16日[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")『RINGS TOUR FINAL 東京 7 DAYS』ゲスト出演に第一子妊娠発表、2008年8月10日に仙台ヒルサイドアウトレットで行われた『TALK CRUSADERS』で第一子誕生をメンバーが発表。（本人は欠席））。2011年9月22日には第二子が誕生。息子達は公式ブログにて度々登場している。
+      - 既婚者で2児の父（2007年4月30日『[ヒダカトオルのオールナイトニッポン](https://ja.wikipedia.org/wiki/ヒダカトオルのオールナイトニッポン "wikilink")』にて婚姻発表、2008年3月16日[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")『RINGS TOUR FINAL 東京 7 DAYS』ゲスト出演に第一子妊娠発表、2008年8月10日に仙台ヒルサイドアウトレットで行われた『TALK CRUSADERS』で第一子誕生をメンバーが発表。（本人は欠席））。2011年9月22日には第二子が誕生。息子達は公式ブログにて度々登場している。
       - 散開後はフリーのドラマーとして活動している。また、「TOQUIO LEQUIO TEQUNOS」のドラムスとしても活動中。
       - 現在は素顔で活動している。
 
@@ -84,11 +84,11 @@
 
 結成当初は[PESELA-QUESELA-IN](https://ja.wikipedia.org/wiki/PESELA-QUESELA-IN "wikilink")から[日高央](../Page/日高央.md "wikilink")と岩原幸夫（現NEIGS・元[GALLOW](../Page/GALLOW.md "wikilink")・元BROKENSPACE・元[グループ魂](../Page/グループ魂.md "wikilink")）による2人組の実験的な[ユニットであった](../Page/音楽ユニット.md "wikilink")。後に岩原が抜け、[旧メンバーが加入し](https://ja.wikipedia.org/wiki/#旧メンバー "wikilink")4人組となったが、[2003年](../Page/2003年.md "wikilink")にhidaka以外のメンバーが全員脱退、新たに4人が加入し5人組で活動。[インディーズ](../Page/インディーズ.md "wikilink")としてLASTRUMで活動を続けていたが(この時点ではhidakaは別のインディーズレーベル[LD\&Kの社員であった](../Page/LD&K_Records.md "wikilink"))、[2004年](../Page/2004年.md "wikilink")に[SME系の](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[DefSTAR RECORDSから](../Page/デフスターレコーズ.md "wikilink")[メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")を果たす。同年、アニメ「[BECK](https://ja.wikipedia.org/wiki/BECK_\(漫画\) "wikilink")」の主題歌「HIT IN THE USA」（初のヒット曲）を発表し、ヒダカはそのアニメの[音楽監督を担当した](../Page/音楽プロデューサー.md "wikilink")。
 
-[メディア出演時には](../Page/メディア_\(媒体\).md "wikilink")、メンバー全員、常に[モノクロの自画像を描いた](../Page/モノクローム.md "wikilink")[お面を付け素顔を隠している](https://ja.wikipedia.org/wiki/面 "wikilink")。[ライブでは](../Page/演奏会.md "wikilink")、1曲目を歌い始める瞬間にお面を外して客に投げる。[ライブ映像が](../Page/演奏会.md "wikilink")[テレビで放送される場合は](../Page/テレビ番組.md "wikilink")、顔を[モザイク処理](https://ja.wikipedia.org/wiki/モザイク処理 "wikilink")で覆うか、お面の[CGが合成される](../Page/コンピュータグラフィックス.md "wikilink")（CG合成は、1曲につき約10時間かかるとの事）。生中継や[PVの場合はお面をつけたまま演奏する](../Page/ミュージック・ビデオ.md "wikilink")。
+[メディア出演時には](../Page/メディア_\(媒体\).md "wikilink")、メンバー全員、常に[モノクロの自画像を描いた](../Page/モノクローム.md "wikilink")[お面を付け素顔を隠している](https://ja.wikipedia.org/wiki/面 "wikilink")。[ライブでは](../Page/演奏会.md "wikilink")、1曲目を歌い始める瞬間にお面を外して客に投げる。[ライブ映像が](../Page/演奏会.md "wikilink")[テレビで放送される場合は](../Page/テレビ番組.md "wikilink")、顔を[モザイク処理](../Page/モザイク処理.md "wikilink")で覆うか、お面の[CGが合成される](../Page/コンピュータグラフィックス.md "wikilink")（CG合成は、1曲につき約10時間かかるとの事）。生中継や[PVの場合はお面をつけたまま演奏する](../Page/ミュージック・ビデオ.md "wikilink")。
 
 ライブでは[下ネタ](../Page/下ネタ.md "wikilink")コール（おまんコール・おちんコール） が名物。（おまんコールはアルバム「BEST CRUSADERS」、シングル「WINTERLONG」、アルバム「popdod」の初回特典DVDにて聞く事が出来る）。
 
-グループ名は、[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")（THE FOLK CRUSADERS、略称は「フォークル」）の[ビート版という意味](https://ja.wikipedia.org/wiki/ビート_\(音楽\) "wikilink")。
+グループ名は、[ザ・フォーク・クルセダーズ](https://ja.wikipedia.org/wiki/ザ・フォーク・クルセダーズ "wikilink")（THE FOLK CRUSADERS、略称は「フォークル」）の[ビート版という意味](../Page/ビート_\(音楽\).md "wikilink")。
 
 [CDの帯の](../Page/コンパクトディスク.md "wikilink")[片仮名](../Page/片仮名.md "wikilink")表記が、旧メンバー時代は「ビート・クルセイダー**ズ**」だったが、新メンバーになってから「ビート・クルセイダー**ス**」になっている。これは、メジャー入りする際に姓名判断をしたところ、2画多かったので、濁点を抜いたのである。しかし、新メンバーになってからの『MUSICRUSADERS 〜MASKED "SUPERSTAR" DJ ver.〜』のトークでは、ヒダカは「ズ」と言っている。結局のところは「ビート・クルセイダース」でも「ビート・クルセイダーズ」でも間違いでは無いとのこと。
 
@@ -96,13 +96,13 @@
 
 ### お面
 
-お面を付け始めた由来としては諸説あり、その一つに、ヒダカが結成当時[サラリーマン](../Page/サラリーマン.md "wikilink")（インディーズレーベル[LD\&Kの正社員であった](../Page/LD&K_Records.md "wikilink")）だったことから、顔が分からない様にする為に付けた、というものがある。ヒダカ本人は「本来ならば（サラリーマンを続けていれば）今は[課長](../Page/課長.md "wikilink")・[部長](../Page/部長.md "wikilink")クラスでは?」と語る。他の説として「インディーズ時代に配っていた顔写真の[フライヤーで顔を隠して写真を撮ってみたら](https://ja.wikipedia.org/wiki/チラシ "wikilink")、初期の[YMOや](../Page/イエロー・マジック・オーケストラ.md "wikilink")[DEVOみたいで匿名性があり面白かったから](../Page/ディーヴォ.md "wikilink")、メンバーの分も作って配った」とも語っている。単に顔や見た目で好き嫌いを判断される(いわゆる[ルッキズム](https://ja.wikipedia.org/wiki/ルッキズム "wikilink"))のが嫌だからという説も当時いくつかのインタビューで見受けられた。
+お面を付け始めた由来としては諸説あり、その一つに、ヒダカが結成当時[サラリーマン](../Page/サラリーマン.md "wikilink")（インディーズレーベル[LD\&Kの正社員であった](../Page/LD&K_Records.md "wikilink")）だったことから、顔が分からない様にする為に付けた、というものがある。ヒダカ本人は「本来ならば（サラリーマンを続けていれば）今は[課長](../Page/課長.md "wikilink")・[部長](../Page/部長.md "wikilink")クラスでは?」と語る。他の説として「インディーズ時代に配っていた顔写真の[フライヤーで顔を隠して写真を撮ってみたら](../Page/チラシ.md "wikilink")、初期の[YMOや](../Page/イエロー・マジック・オーケストラ.md "wikilink")[DEVOみたいで匿名性があり面白かったから](../Page/ディーヴォ.md "wikilink")、メンバーの分も作って配った」とも語っている。単に顔や見た目で好き嫌いを判断される(いわゆる[ルッキズム](https://ja.wikipedia.org/wiki/ルッキズム "wikilink"))のが嫌だからという説も当時いくつかのインタビューで見受けられた。
 
 2003年に新メンバー加入の時、ヒダカが「お面をつけて活動をしていれば素顔が公開されないから、[AVとか借りやすくなるぞ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")」とメンバーを説得し、結果は即OKだったと、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")・[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink") [9月10日](../Page/9月10日.md "wikilink")放送分インタビューで語っていた。
 
-ヒダカが[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")番組で「[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月16日](../Page/9月16日.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演した際には、司会の[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")に「タモリ仕様」のお面を着けてもらう」と公言し、これを果たした。後に[渋谷陽一](../Page/渋谷陽一.md "wikilink")、[BRAHMAN](../Page/BRAHMAN.md "wikilink")の[TOSHI-LOW](../Page/TOSHI-LOW.md "wikilink")と雑誌にて対談した際には三人ともお面をつけていた。
+ヒダカが[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の[ラジオ](../Page/ラジオ.md "wikilink")番組で「[2005年](../Page/2005年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演した際には、司会の[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")に「タモリ仕様」のお面を着けてもらう」と公言し、これを果たした。後に[渋谷陽一](../Page/渋谷陽一.md "wikilink")、[BRAHMAN](../Page/BRAHMAN.md "wikilink")の[TOSHI-LOW](../Page/TOSHI-LOW.md "wikilink")と雑誌にて対談した際には三人ともお面をつけていた。
 
-また2008年6月16日にフジテレビ系『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に出演した際には、司会の[ダウンタウンを含む出演者全員](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")（[テゴマス](https://ja.wikipedia.org/wiki/テゴマス "wikilink")、[トータス松本](../Page/トータス松本.md "wikilink")、[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")、[沢村一樹](../Page/沢村一樹.md "wikilink")）の仕様のお面を用意し、それを全員につけさせトークをしていた。他にも過去共演した[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")、ラジオ番組『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』の校長と教頭、[YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")、[阿藤快](../Page/阿藤快.md "wikilink")、[つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink")、[高橋瞳](https://ja.wikipedia.org/wiki/高橋瞳 "wikilink")等のものもあり、チャンスがあれば共演者のお面を作るのが習慣となっていた。
+また2008年6月16日にフジテレビ系『[HEY\!HEY\!HEY\! MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")』に出演した際には、司会の[ダウンタウンを含む出演者全員](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")（[テゴマス](https://ja.wikipedia.org/wiki/テゴマス "wikilink")、[トータス松本](../Page/トータス松本.md "wikilink")、[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")、[沢村一樹](../Page/沢村一樹.md "wikilink")）の仕様のお面を用意し、それを全員につけさせトークをしていた。他にも過去共演した[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")、ラジオ番組『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』の校長と教頭、[YOUR SONG IS GOOD](../Page/YOUR_SONG_IS_GOOD.md "wikilink")、[阿藤快](../Page/阿藤快.md "wikilink")、[つじあやの](https://ja.wikipedia.org/wiki/つじあやの "wikilink")、[高橋瞳](../Page/高橋瞳.md "wikilink")等のものもあり、チャンスがあれば共演者のお面を作るのが習慣となっていた。
 
 お面はマシータが製作している。
 
@@ -150,7 +150,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - ヒダカが[SPACE SHOWER TVで毎週木曜](https://ja.wikipedia.org/wiki/SPACE_SHOWER_TV "wikilink")18時～19時にレギュラー放送『STUDIO GROWN』を開始。
       - [4月13日](../Page/4月13日.md "wikilink") - シングル「[FEEL](https://ja.wikipedia.org/wiki/FEEL_\(BEAT_CRUSADERSの曲\) "wikilink")」発売。
       - [5月11日](../Page/5月11日.md "wikilink") - メジャー1stフルアルバム『[P.O.A.〜POP ON ARRIVAL〜](https://ja.wikipedia.org/wiki/P.O.A._-POP_ON_ARRIVAL- "wikilink")』発売。
@@ -165,7 +165,7 @@
       - [4月4日](../Page/4月4日.md "wikilink") - 「[TONIGHT,TONIGHT,TONIGHT](https://ja.wikipedia.org/wiki/TONIGHT,TONIGHT,TONIGHT "wikilink")」がアニメ『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』OP[主題歌](../Page/主題歌.md "wikilink")になる。
       - [4月5日](../Page/4月5日.md "wikilink") - ビークル初の[両A面シングル](https://ja.wikipedia.org/wiki/両A面#レコードの諸形態 "wikilink")「[DAY AFTER DAY/SOLITAIRE](https://ja.wikipedia.org/wiki/DAY_AFTER_DAY/SOLITAIRE "wikilink")」発表。
       - [4月7日](../Page/4月7日.md "wikilink") - ヒダカが[FM802](../Page/FM802.md "wikilink")で毎週金曜23時～24時にレギュラー放送『[NTTドコモ関西 BEAT ON THE RADIO](https://ja.wikipedia.org/wiki/NTTドコモ関西_BEAT_ON_THE_RADIO "wikilink")』を開始。
-      - [4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink") - ヒダカが[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週金曜27時～29時にレギュラー放送『[HANDSOME★ACADEMY](https://ja.wikipedia.org/wiki/HANDSOME★ACADEMY "wikilink")』を開始。
+      - [4月8日](../Page/4月8日.md "wikilink") - ヒダカが[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週金曜27時～29時にレギュラー放送『[HANDSOME★ACADEMY](https://ja.wikipedia.org/wiki/HANDSOME★ACADEMY "wikilink")』を開始。
       - [5月3日](../Page/5月3日.md "wikilink") - [YOUR SONG IS GOODとのスプリットアルバム](../Page/YOUR_SONG_IS_GOOD.md "wikilink")『[BOOOOTSY](https://ja.wikipedia.org/wiki/BOOOOTSY "wikilink")』発売。同時にアナログ盤シングル「FOOL GROOVE/OUR MELODY」も発売。
       - [9月6日](../Page/9月6日.md "wikilink") - シングル「TONIGHT,TONIGHT,TONIGHT」発売。
       - [10月11日](../Page/10月11日.md "wikilink") - [TROPICAL GORILLAとのスプリットアルバム](../Page/TROPICAL_GORILLA.md "wikilink")『[CELL No.9](https://ja.wikipedia.org/wiki/CELL_No.9 "wikilink")』発売。
@@ -196,7 +196,7 @@
       - [2月21日](../Page/2月21日.md "wikilink") ベストアルバムを引っさげ、ZEPPツアー「Oh my ZEPP」スタート。
       - [6月10日](../Page/6月10日.md "wikilink") ZEPPツアー・ドラマを収録したDVD『Oh my ZEPP/PRETTY IN PINK FLAMINGO』発売。
       - [6月24日](../Page/6月24日.md "wikilink") メロン記念日とのコラボレーションシングル「[DON'T SAY GOOD-BYE](https://ja.wikipedia.org/wiki/DON'T_SAY_GOOD-BYE "wikilink")」[TOWER RECORDS限定発売](https://ja.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。
-      - [7月2日](../Page/7月2日.md "wikilink") [高橋瞳](https://ja.wikipedia.org/wiki/高橋瞳 "wikilink")×BEAT CRUSADERSの楽曲「[ウォーアイニー](https://ja.wikipedia.org/wiki/ウォーアイニー "wikilink")」が、アニメ『[銀魂](../Page/銀魂_\(アニメ\).md "wikilink")』エンディングテーマに抜擢される。
+      - [7月2日](../Page/7月2日.md "wikilink") [高橋瞳](../Page/高橋瞳.md "wikilink")×BEAT CRUSADERSの楽曲「[ウォーアイニー](https://ja.wikipedia.org/wiki/ウォーアイニー "wikilink")」が、アニメ『[銀魂](../Page/銀魂_\(アニメ\).md "wikilink")』エンディングテーマに抜擢される。
       - [9月9日](../Page/9月9日.md "wikilink") 『Oh my ZEPP/PRETTY IN PINK FLAMINGO』ブルーレイディスク盤およびサウンドトラック、高橋瞳×BEAT CRUSADERSのシングル「[ウォーアイニー](https://ja.wikipedia.org/wiki/ウォーアイニー "wikilink")」発売。
       - [9月23日](../Page/9月23日.md "wikilink") シングル「LET IT GO」発売。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
@@ -526,7 +526,7 @@ DFCL-1368（通常盤）</p></td>
 <td><p>2009年9月9日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ウォーアイニー" title="wikilink">ウォーアイニー</a></strong></p></td>
 <td><p>SRCL-7114</p></td>
-<td><p>コラボレーションシングル（<a href="https://ja.wikipedia.org/wiki/高橋瞳" title="wikilink">高橋瞳</a>×BEAT CRUSADERS）<br />
+<td><p>コラボレーションシングル（<a href="../Page/高橋瞳.md" title="wikilink">高橋瞳</a>×BEAT CRUSADERS）<br />
 初回仕様限定盤：「<a href="../Page/銀魂_(アニメ).md" title="wikilink">銀魂</a>」描き下ろしアニメ絵柄セルシート</p></td>
 </tr>
 <tr class="odd">
@@ -733,7 +733,7 @@ CD+Blu-ray Disc<br />
   - **COMPI CRUSADERS '68〜'77 vol.37** (2005年9月7日)
       -
         ヒダカ選曲・監修のコンピレーションアルバム（BEAT CRUSADERSの楽曲は未収録）
-  - **A Tribute to [Shonen Knife](https://ja.wikipedia.org/wiki/少年ナイフ "wikilink") -Folk and Spoon-** (2006年6月16日)
+  - **A Tribute to [Shonen Knife](../Page/少年ナイフ.md "wikilink") -Folk and Spoon-** (2006年6月16日)
       -
         「E.S.P.」で参加。
   - **[HUSKING BEE](../Page/HUSKING_BEE_\(アルバム\).md "wikilink")** (2007年3月21日)
@@ -773,7 +773,7 @@ CD+Blu-ray Disc<br />
 #### 楽曲提供/プロデュース作品
 
   - [木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")「**[Snowdome](../Page/Snowdome.md "wikilink")**」 (2007年1月17日):表題曲の[作曲](../Page/作曲.md "wikilink")・共[編曲](../Page/編曲.md "wikilink")。「Dive Into Shallow」(2008年2月6日):[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の[石野卓球](../Page/石野卓球.md "wikilink")プロデュースによるシングル「[Jasper](https://ja.wikipedia.org/wiki/Jasper "wikilink")」カップリング曲の作曲・編曲。
-  - [高橋瞳](https://ja.wikipedia.org/wiki/高橋瞳 "wikilink")「[ウォーアイニー](https://ja.wikipedia.org/wiki/ウォーアイニー "wikilink")」「珈琲ミルク」(2009年9月9日)。「ジレンマ」(2011年9月28日)
+  - [高橋瞳](../Page/高橋瞳.md "wikilink")「[ウォーアイニー](https://ja.wikipedia.org/wiki/ウォーアイニー "wikilink")」「珈琲ミルク」(2009年9月9日)。「ジレンマ」(2011年9月28日)
   - [メロン記念日](../Page/メロン記念日.md "wikilink")「[DON'T SAY GOOD-BYE](https://ja.wikipedia.org/wiki/DON'T_SAY_GOOD-BYE "wikilink")」「ALWAYS LOVE YOU」(2010年2月17日)
 
 ### PV

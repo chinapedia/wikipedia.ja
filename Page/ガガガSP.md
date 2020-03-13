@@ -1,7 +1,7 @@
 > この記事は[SP](https://ja.wikipedia.org/wiki/SP)から翻訳されています。
 
 
-**ガガガSP**（ガガガスペシャル）は、日本の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。同じ系統の[STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink")、[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")、[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")などとは交流が深い。また、自身らのHPにおいて、[四星球](../Page/四星球.md "wikilink")を後輩バンドと公言している。[神戸市](../Page/神戸市.md "wikilink")（[長田区](../Page/長田区.md "wikilink")、[須磨区](../Page/須磨区.md "wikilink")）出身。[LD\&K](https://ja.wikipedia.org/wiki/LD&K "wikilink")所属。以前、本人らは青春パンクに分類されることを嫌っていたが、現在コザック前田は青春パンクを90歳まで続けると宣言している。バンド名の由来は、[忌野清志郎](../Page/忌野清志郎.md "wikilink")がライブパフォーマンスとして楽曲の間奏中などに「ガッ\! ガッ\!」と叫んでいたことからとされる。2002年1月から2006年11月まで[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")(MASTERSIX FOUNDATION)に所属していたが、2007年1月以降はLD\&Kに所属していて、自主レーベル「俺様レコード」で活動している。
+**ガガガSP**（ガガガスペシャル）は、日本の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。同じ系統の[STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink")、[サンボマスター](../Page/サンボマスター.md "wikilink")、[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")などとは交流が深い。また、自身らのHPにおいて、[四星球](../Page/四星球.md "wikilink")を後輩バンドと公言している。[神戸市](../Page/神戸市.md "wikilink")（[長田区](../Page/長田区.md "wikilink")、[須磨区](../Page/須磨区.md "wikilink")）出身。[LD\&K](https://ja.wikipedia.org/wiki/LD&K "wikilink")所属。以前、本人らは青春パンクに分類されることを嫌っていたが、現在コザック前田は青春パンクを90歳まで続けると宣言している。バンド名の由来は、[忌野清志郎](../Page/忌野清志郎.md "wikilink")がライブパフォーマンスとして楽曲の間奏中などに「ガッ\! ガッ\!」と叫んでいたことからとされる。2002年1月から2006年11月まで[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")(MASTERSIX FOUNDATION)に所属していたが、2007年1月以降はLD\&Kに所属していて、自主レーベル「俺様レコード」で活動している。
 
 ## 構成員(メンバー)
 
@@ -40,7 +40,7 @@
 
   -
     ドラムの田嶋とは高校の同級生。愛称は「旦那（だんな）」。本人曰く、「ベースという楽器に出会わなかったら私は今頃どうなっていたんだろうか」とのこと。高校在学中、当時の友人のバンドに参加する際に訳も分からずベースを買わされたのがキッカケである。父親の[桑原康雄](https://ja.wikipedia.org/wiki/桑原康雄 "wikilink")は世界的に有名な[マンドリン](../Page/マンドリン.md "wikilink")奏者であり、桑原自身も幼少時には父からマンドリンを教わっていたが、あまり素質は無かったという。趣味は、夜中部屋で一人酒だった。
-    [高橋瞳](https://ja.wikipedia.org/wiki/高橋瞳 "wikilink")に楽曲を提供している。
+    [高橋瞳](../Page/高橋瞳.md "wikilink")に楽曲を提供している。
     2015年7月に結婚。
 
 <!-- end list -->
@@ -50,7 +50,7 @@
 <!-- end list -->
 
   -
-    一児の父。愛称は「たぁじん」。焼酎、ゴルフ、[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")の[金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")選手が大好き。メンバーの中で一番社交的。やや典型的な酒乱の気あり。
+    一児の父。愛称は「たぁじん」。焼酎、ゴルフ、[阪神タイガース](../Page/阪神タイガース.md "wikilink")の[金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")選手が大好き。メンバーの中で一番社交的。やや典型的な酒乱の気あり。
 
 <!-- end list -->
 
@@ -82,7 +82,7 @@
   - 2002年8月、「RISING ROCK FESTIVAL 02 SUMMER SONIC 02」出演。「RISING SUN」においては観客が押し寄せ、ライブ前にもかかわらずステージ前の柵が崩壊した。
   - 2002年11月、[甲南大学](../Page/甲南大学.md "wikilink")の学園祭の際、客のあまりの盛り上がりにライブ会場の床が抜ける。
   - [2003年](../Page/2003年.md "wikilink")8月、MONSTER baSH03/SkyJamboree03/ARABAKI ROCK FEST03出演。
-  - 順調に活動をしていたが[2003年](../Page/2003年.md "wikilink")末、突然活動休止。翌年5月、「祭りの準備」リリースで一旦復活を果たし、シングルのリリースも相次いだが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月、再び活動休止（原因は前田の[パニック障害](../Page/パニック障害.md "wikilink")）。そして、2005年8月、大阪シャングリラにて復活ライブを行った。
+  - 順調に活動をしていたが[2003年](../Page/2003年.md "wikilink")末、突然活動休止。翌年5月、「祭りの準備」リリースで一旦復活を果たし、シングルのリリースも相次いだが、[2005年](../Page/2005年.md "wikilink")3月、再び活動休止（原因は前田の[パニック障害](../Page/パニック障害.md "wikilink")）。そして、2005年8月、大阪シャングリラにて復活ライブを行った。
   - [2004年](../Page/2004年.md "wikilink")5月、初のワンマンツアー、ガガガSPワンマンツアー2004「俺様精神旺盛」（計10ヵ所）敢行。
   - 2004年8月、MONSTER baSH04 SET ROCK04にてライブ主演ではなく、出店の屋台にて参加、しかしMONSTER baSH04においてはサンボマスターのライブに飛び込みで出演。
   - [2006年](../Page/2006年.md "wikilink")4月、ARABAKI ROCK FEST06出演。
@@ -98,10 +98,10 @@
   - [2012年](../Page/2012年.md "wikilink")5月26日、バンド結成15周年を記念して、全国[ツアー](../Page/ツアー.md "wikilink")「結成15周年記念 47都道府県ツアー前半戦～周年から執念へ～」を敢行。
   - 2012年8月14日、アルバム「[日常アナキズム](https://ja.wikipedia.org/wiki/日常アナキズム "wikilink")」[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")中に桑原が体調不良を訴え、東京都内の病院に搬送された。のちに、桑原の病気は、「[急性膵炎](https://ja.wikipedia.org/wiki/急性膵炎 "wikilink")」だと診断され[東京女子医大](https://ja.wikipedia.org/wiki/東京女子医大 "wikilink")に入院することになった。これに伴って、同年8月から行われる予定だった、全国ツアー「結成15周年記念 47都道府県ツアー後半戦～執念から正念場へ～」、12月に開催予定だったガガガSP主催の野外ライブフェス「[長田大行進曲](https://ja.wikipedia.org/wiki/長田大行進曲 "wikilink")」の中止、アルバム「日常アナキズム」のリリースの延期を余儀なくされ、バンドは一時活動休止となった。
   - バンドの活動休止期間中、前田がソロ弾き語りライブを行っていた。
-  - [2013年](../Page/2013年.md "wikilink")1月14日、神戸の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")「[神戸Star Club](https://ja.wikipedia.org/wiki/神戸Star_Club "wikilink")」でバンド復活ライブ「新生桑原康伸誕生！ガガガSP復活ワンマン。16年目突入！俺らはこういうバンドだ！」で活動を再開。翌日に3年8か月ぶりのリリースとなるアルバム「日常アナキズム」をリリースした。
+  - [2013年](../Page/2013年.md "wikilink")1月14日、神戸の[ライブハウス](../Page/ライブハウス.md "wikilink")「[神戸Star Club](https://ja.wikipedia.org/wiki/神戸Star_Club "wikilink")」でバンド復活ライブ「新生桑原康伸誕生！ガガガSP復活ワンマン。16年目突入！俺らはこういうバンドだ！」で活動を再開。翌日に3年8か月ぶりのリリースとなるアルバム「日常アナキズム」をリリースした。
   - 2013年4月、[テレビ東京系](https://ja.wikipedia.org/wiki/テレビ東京系 "wikilink")[アニメ](../Page/アニメ.md "wikilink")「[ムシブギョー](https://ja.wikipedia.org/wiki/ムシブギョー "wikilink")」の第1期主題歌を担当\[1\]。
 
-[自動車](../Page/自動車.md "wikilink")の[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")を3度にわたり担当し（うち一度はガガガDX名義）、いずれも、既存の楽曲の[カバー](../Page/カバー.md "wikilink")となっている。1回目は2002年、[トヨタ・ヴォルツ](../Page/トヨタ・ヴォルツ.md "wikilink")の「[世界は二人のために](https://ja.wikipedia.org/wiki/世界は二人のために "wikilink")」（[佐良直美](https://ja.wikipedia.org/wiki/佐良直美 "wikilink")のカバー）。2回目は2006年、日産・セレナの「My First Kiss」（あんしんパパの「[はじめてのチュウ](../Page/はじめてのチュウ.md "wikilink")」の英訳版（[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")が歌唱したもの）のカバー（アレンジはCMオリジナル）。そして3回目は2007年、同じく日産・セレナの「にんげんっていいな」である（前出）。
+[自動車](../Page/自動車.md "wikilink")の[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")を3度にわたり担当し（うち一度はガガガDX名義）、いずれも、既存の楽曲の[カバー](../Page/カバー.md "wikilink")となっている。1回目は2002年、[トヨタ・ヴォルツ](../Page/トヨタ・ヴォルツ.md "wikilink")の「[世界は二人のために](https://ja.wikipedia.org/wiki/世界は二人のために "wikilink")」（[佐良直美](../Page/佐良直美.md "wikilink")のカバー）。2回目は2006年、日産・セレナの「My First Kiss」（あんしんパパの「[はじめてのチュウ](../Page/はじめてのチュウ.md "wikilink")」の英訳版（[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")が歌唱したもの）のカバー（アレンジはCMオリジナル）。そして3回目は2007年、同じく日産・セレナの「にんげんっていいな」である（前出）。
 
 ## プロ野球チームとの関わり
 
@@ -123,8 +123,8 @@
 <!-- end list -->
 
   - **[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")(いずれも2010年以降は使用されていない)**
-      - [塀内久雄](https://ja.wikipedia.org/wiki/塀内久雄 "wikilink") - [はじめて君としゃべった](https://ja.wikipedia.org/wiki/はじめて君としゃべった "wikilink")
-      - [澤井良輔](https://ja.wikipedia.org/wiki/澤井良輔 "wikilink") - [卒業](https://ja.wikipedia.org/wiki/卒業_\(ガガガSPの曲\) "wikilink")
+      - [塀内久雄](../Page/塀内久雄.md "wikilink") - [はじめて君としゃべった](https://ja.wikipedia.org/wiki/はじめて君としゃべった "wikilink")
+      - [澤井良輔](../Page/澤井良輔.md "wikilink") - [卒業](https://ja.wikipedia.org/wiki/卒業_\(ガガガSPの曲\) "wikilink")
 
 ## ディスコグラフィー
 
@@ -180,7 +180,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/晩秋_(ガガガSPの曲)" title="wikilink">晩秋</a></strong></p></td>
 <td><p>SRCL-5418</p></td>
 <td><p>晩秋／塩男／世界は二人のために</p></td>
-<td><p>カップリング曲『<a href="https://ja.wikipedia.org/wiki/世界は二人のために" title="wikilink">世界は二人のために</a>』（<a href="https://ja.wikipedia.org/wiki/佐良直美" title="wikilink">佐良直美</a>のカヴァー）は<a href="../Page/トヨタ・ヴォルツ.md" title="wikilink">トヨタ・ヴォルツ</a>のCMソング。オリコン最高7位、登場回数19回</p></td>
+<td><p>カップリング曲『<a href="https://ja.wikipedia.org/wiki/世界は二人のために" title="wikilink">世界は二人のために</a>』（<a href="../Page/佐良直美.md" title="wikilink">佐良直美</a>のカヴァー）は<a href="../Page/トヨタ・ヴォルツ.md" title="wikilink">トヨタ・ヴォルツ</a>のCMソング。オリコン最高7位、登場回数19回</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -238,7 +238,7 @@ SRCL-6194:CD</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/人間なのさ" title="wikilink">人間なのさ</a></strong></p></td>
 <td><p>SRCL-6251</p></td>
 <td><p>人間なのさ／正義の味方／四季の移り変わりと君と僕</p></td>
-<td><p>『人間なのさ』は<a href="https://ja.wikipedia.org/wiki/アイフル" title="wikilink">アイフル</a>のCMソング。オリコン最高44位、登場回数3回</p></td>
+<td><p>『人間なのさ』は<a href="../Page/アイフル.md" title="wikilink">アイフル</a>のCMソング。オリコン最高44位、登場回数3回</p></td>
 </tr>
 <tr class="odd">
 <td><p>13th</p></td>
@@ -280,7 +280,7 @@ OSRCD-006:通常盤</p></td>
 <td><p>AVCA-62076B:CD+DVD<br />
 AVCA-62077:CD</p></td>
 <td><p>友よ／ある一つの生きるという事／友よ（instrumental）／ある一つの生きるという事（instrumental）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/avex_entertainment" title="wikilink">avex entertainment移籍後</a>、初のシングル。「友よ」はテレビ東京系アニメ「<a href="https://ja.wikipedia.org/wiki/ムシブギョー" title="wikilink">ムシブギョー</a>」主題歌。「ある一つの生きるという事」は<a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a>、<a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">Eテレの</a><a href="../Page/ドラマ.md" title="wikilink">ドラマ</a>「<a href="https://ja.wikipedia.org/wiki/現代の妖怪" title="wikilink">現代の妖怪</a>」主題歌。DVD付。オリコン最高112位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/avex_entertainment" title="wikilink">avex entertainment移籍後</a>、初のシングル。「友よ」はテレビ東京系アニメ「<a href="https://ja.wikipedia.org/wiki/ムシブギョー" title="wikilink">ムシブギョー</a>」主題歌。「ある一つの生きるという事」は<a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a>、<a href="../Page/NHK教育テレビジョン.md" title="wikilink">Eテレの</a><a href="../Page/ドラマ.md" title="wikilink">ドラマ</a>「<a href="https://ja.wikipedia.org/wiki/現代の妖怪" title="wikilink">現代の妖怪</a>」主題歌。DVD付。オリコン最高112位</p></td>
 </tr>
 <tr class="even">
 <td><p>18th</p></td>
@@ -576,7 +576,7 @@ TECI-1411</p></td>
 1.  心の空（2007年3月28日）
       -
         心の空／君のこと
-2.  LIVE from Tokyo （iTunes Exclusive)(2007年9月26日）-ライブアルバム。同年8月9日に[Apple Store](https://ja.wikipedia.org/wiki/Apple_Store "wikilink") Shibuyaで行われたインストアライブの模様を収録。
+2.  LIVE from Tokyo （iTunes Exclusive)(2007年9月26日）-ライブアルバム。同年8月9日に[Apple Store](../Page/Apple_Store.md "wikilink") Shibuyaで行われたインストアライブの模様を収録。
       -
         青春時代／神戸駅／恋にいのちを／人間なのさ／自衛隊に入ろう／すばらしき人生／つなひき帝国
 3.  火の鳥（2011年3月23日） ※ガガガDX名義
@@ -669,7 +669,7 @@ TECI-1411</p></td>
   - 2003年08月29日 - [HOUND DOG](../Page/HOUND_DOG.md "wikilink") BATTLE CLUB CIRCUST\! 「負けるもんか2002」～踏んづけられても僕らは生きる\!～
   - 2003年09月07日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")09072003
   - 2003年09月27日 - [SET YOU FREE](https://ja.wikipedia.org/wiki/SET_YOU_FREE "wikilink") TOUR 2003
-  - 2006年04月27日 - [ムラマサ☆](https://ja.wikipedia.org/wiki/ムラマサ☆ "wikilink") PARTY PIECE 005 EAST
+  - 2006年04月27日 - [ムラマサ☆](../Page/ムラマサ☆.md "wikilink") PARTY PIECE 005 EAST
   - 2006年04月29日 - ARABAKI ROCK FEST.06
   - 2007年10月21日 - [近畿大学](https://ja.wikipedia.org/wiki/近畿大学 "wikilink") 工業高等専門学校 学園祭ライブ
   - 2007年10月27日 - [龍谷大学](../Page/龍谷大学.md "wikilink") 龍谷十・二七事件～忘れられない日々に～
@@ -691,7 +691,7 @@ TECI-1411</p></td>
   - 2013年02月10日 - 渋谷チェルシーホテル10周年感謝祭 その五
   - 2013年02月17日 - [STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink") presents『火の玉宣言vol.37～火の玉名古屋襲撃2マン編～STANCE PUNKS vs ガガガSP』
   - 2013年03月20日 - [花団](https://ja.wikipedia.org/wiki/花団 "wikilink")「ウレカケタオトコタチツアー」
-  - 2013年03月26日 - [THEラブ人間](https://ja.wikipedia.org/wiki/THEラブ人間 "wikilink")決起集会「セ・ラ・ヴィ\!」
+  - 2013年03月26日 - [THEラブ人間](../Page/THEラブ人間.md "wikilink")決起集会「セ・ラ・ヴィ\!」
   - 2013年04月07日 - [風とロック](https://ja.wikipedia.org/wiki/風とロック "wikilink")神戸 LIVE福島 CARAVAN日本 ～そして神戸で出会いましょう～
   - 2013年04月29日 - COMIN'KOBE13
   - 2013年06月30日 - 神戸ライブサーキットイベント ネコフェス2013
@@ -739,7 +739,7 @@ TECI-1411</p></td>
   - 2015年10月03日 - MEGA★ROCKS 2015
   - 2015年10月10日 - MINAMI WHEEL 2015
   - 2015年10月17日 - SET YOU FREE SUMMER FESTA 2015
-  - 2015年10月18日 - [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink") 3×ボ=15 ANNIVERSARY サンボマスターとキミ TOUR 2015
+  - 2015年10月18日 - [サンボマスター](../Page/サンボマスター.md "wikilink") 3×ボ=15 ANNIVERSARY サンボマスターとキミ TOUR 2015
   - 2015年11月14日 - RISING HALL OPEN
 
 他多数

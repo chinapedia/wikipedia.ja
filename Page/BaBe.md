@@ -1,7 +1,7 @@
 > この記事は[BaBe](https://ja.wikipedia.org/wiki/BaBe)から翻訳されています。
 
 
-**BaBe**（ベイブ）は、[1980年代](../Page/1980年代.md "wikilink")後半に活動した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[デュオ](../Page/デュオ.md "wikilink")、[タレント](../Page/タレント.md "wikilink")である。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に、当時流行だった[ユーロビート](../Page/ユーロビート.md "wikilink")のカバー曲「Give Me Up」でデビュー。激しい[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")を踊りながら歌うスタイルで人気を得た。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に解散。表記は "BaBe" が正しく、"Babe"、"BABE" は誤り。[片仮名](../Page/片仮名.md "wikilink")表記は、2ndシングルまでは「ベイヴ」と表記されていた。活動当時の所属事務所は[エスワン・カンパニー](https://ja.wikipedia.org/wiki/エスワン・カンパニー "wikilink")\[1\]。前身ユニットは「**ハートブレイカーズ**」。
+**BaBe**（ベイブ）は、[1980年代](../Page/1980年代.md "wikilink")後半に活動した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[デュオ](../Page/デュオ.md "wikilink")、[タレント](../Page/タレント.md "wikilink")である。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に、当時流行だった[ユーロビート](../Page/ユーロビート.md "wikilink")のカバー曲「Give Me Up」でデビュー。激しい[ダンス](../Page/ダンス.md "wikilink")を踊りながら歌うスタイルで人気を得た。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に解散。表記は "BaBe" が正しく、"Babe"、"BABE" は誤り。[片仮名](../Page/片仮名.md "wikilink")表記は、2ndシングルまでは「ベイヴ」と表記されていた。活動当時の所属事務所は[エスワン・カンパニー](https://ja.wikipedia.org/wiki/エスワン・カンパニー "wikilink")\[1\]。前身ユニットは「**ハートブレイカーズ**」。
 
 ## メンバー
 
@@ -55,14 +55,14 @@
   - 専属バックバンドの名前は「ASH」。
   - 事務所の方針で、近藤と二階堂共に、デビューした時の年齢のプロフィールを2歳若く詐称していた。また、給料は固定制で月7万円しか貰えなかったこともあり、2人ともアルバイトをしながら活動していた。エスワン・カンパニーの薄給ぶりは当時の芸能界でもかなり過酷な待遇であり、本人たちもラジオやインタビュー、『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』の「ひょうきんベストテン」に出演した際に「お金がない、給料が安すぎる」と幾度となく語っていた。
   - 二階堂はデビュー前、[モスバーガー](../Page/モスバーガー.md "wikilink")M支店\[20\]や、[すかいらーく](../Page/すかいらーく.md "wikilink")武蔵野西久保店でアルバイトをしていた\[21\]。武蔵野西久保店は、(株)すかいらーくの本部横に所在していたこともあり、人事部の目に留まり店舗ビデオマニュアル「welcomeすかいらーく」に出演している。二階堂が起用されたビデオマニュアルは1992年頃まで全国の店舗で使用された。 一方、近藤は高校時代から[玉川高島屋](https://ja.wikipedia.org/wiki/玉川高島屋 "wikilink")\[22\]、[元禄寿司](https://ja.wikipedia.org/wiki/元禄寿司 "wikilink")、[東急ストア](../Page/東急ストア.md "wikilink")、レストランなど様々な所でアルバイトをしていた\[23\]。
-  - 著名なダンサー兼[振付師](../Page/振付師.md "wikilink")として知られる五十嵐薫子（のちの[香瑠鼓](../Page/香瑠鼓.md "wikilink")）が、[石井明美](https://ja.wikipedia.org/wiki/石井明美 "wikilink")に次いで[振付](https://ja.wikipedia.org/wiki/振付 "wikilink")をしたのがBaBeである\[24\]。BaBeに本格的なダンスを教えるために、ジャズダンスのレッスンを受けさせた後に\[25\]、「Give Me Up」の振付を教えた\[26\]。しかし、そもそも二階堂と近藤はデビュー前にジャズダンススクールで出会っていて、ミュージカルにも出演した程度の基礎はあった（近藤は痩せたくて、ジャズダンススクールに通っていたと語っている）。香瑠鼓はその後、[Wink](../Page/Wink.md "wikilink")（[鈴木早智子](../Page/鈴木早智子.md "wikilink")・[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")）の振付も担当している\[27\]。
+  - 著名なダンサー兼[振付師](../Page/振付師.md "wikilink")として知られる五十嵐薫子（のちの[香瑠鼓](../Page/香瑠鼓.md "wikilink")）が、[石井明美](../Page/石井明美.md "wikilink")に次いで[振付](https://ja.wikipedia.org/wiki/振付 "wikilink")をしたのがBaBeである\[24\]。BaBeに本格的なダンスを教えるために、ジャズダンスのレッスンを受けさせた後に\[25\]、「Give Me Up」の振付を教えた\[26\]。しかし、そもそも二階堂と近藤はデビュー前にジャズダンススクールで出会っていて、ミュージカルにも出演した程度の基礎はあった（近藤は痩せたくて、ジャズダンススクールに通っていたと語っている）。香瑠鼓はその後、[Wink](../Page/Wink.md "wikilink")（[鈴木早智子](../Page/鈴木早智子.md "wikilink")・[相田翔子](https://ja.wikipedia.org/wiki/相田翔子 "wikilink")）の振付も担当している\[27\]。
   - その風貌から、近藤は「[富田靖子](../Page/富田靖子.md "wikilink")のNG」、二階堂は「[クロマティに似ている](../Page/ウォーレン・クロマティ.md "wikilink")」と言われたことがあった\[28\]。
   - [日本テレビ系](../Page/日本テレビ系列.md "wikilink")『[スーパージョッキー](../Page/スーパージョッキー.md "wikilink")』にゲスト出演時、視聴者からの質問の葉書で「どちらが『ベイ』で、どちらが『ブ』ですか?」「二階堂さんはクロマティに似てませんか?」、「ベイブ佐竹（正しくは[バーブ佐竹](../Page/バーブ佐竹.md "wikilink")）さんとは、どんな関係なんですか?」など、本業以外でからかわれることもあった。なお、近藤は「[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")さんに似ているのはどちらですか?」との問いに対して、即座に「私です。（見ていて）気付きません?」と、答えている。
   - テレビのクイズ番組にて[早見優](../Page/早見優.md "wikilink")がBaBeを目の前にして「バベ」と読み、BaBeから直接訂正されるも頑なに連呼していた。
   - 1987年10月31日の[北九州大学](https://ja.wikipedia.org/wiki/北九州大学 "wikilink")での学園祭では近藤が体調不良のため、二階堂単独でコンサートを行った。最初は盛り上がらず「もっと乗ってください」の発言もあったが、最後は全員総立ちになり、こらえきれず泣きながら歌った。
   - 1988年に[三重県立四日市工業高等学校](../Page/三重県立四日市工業高等学校.md "wikilink")の学園祭に招かれてライブをした際、バラードを歌っているにもかかわらず生徒があまりにも騒がしくしていたため、BaBeの2人が怒り、ライブはそこで中止となった。
-  - BaBeが解散する直前の1990年3月5日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")のラジオ番組『[デーモン小暮のオールナイトニッポン](https://ja.wikipedia.org/wiki/デーモン小暮のオールナイトニッポン "wikilink")』の、リスナーが意見を投稿するコーナー「悪魔で生ラジオ」にて、解散後の近藤を憂う「どうするどうなる BaBeの近藤」のテーマが取り扱われた。そして翌週の3月12日には近藤が緊急ゲスト出演し、今後の身の振り方を相談した。 なお、同ラジオ番組では、芸能人・著名人の変な言動を集めて競わせ、番付を付けていくコーナー「夜霧の横綱審議会」でも、1988年に近藤の発言が度々取り上げられ、その結果、近藤は「関脇」に認定された\[29\]。
-  - [バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』番組内の企画「[博士と助手 〜細かすぎて伝わらないモノマネ選手権〜](https://ja.wikipedia.org/wiki/博士と助手_〜細かすぎて伝わらないモノマネ選手権〜 "wikilink")」や、『[明石家さんちゃんねる](../Page/明石家さんちゃんねる.md "wikilink")』で[いとうあさこ](https://ja.wikipedia.org/wiki/いとうあさこ "wikilink")が二階堂のモノマネ（振りマネ）をしている。細かすぎて伝わらないモノマネ選手権でのネタのタイトルは、「元気に踊りすぎて「足の骨折れちゃう」と逆に心配をかけるBaBeの二階堂ゆかり」、「元気に踊るあまり「腕抜けちゃう」と心配をかけるBaBeの二階堂ゆかり」（それぞれ2006年9月28日放送の第9回にて）、「元気一杯に踊るあまり「首もげちゃうよ」と逆にこっちに心配をかけるBaBeの二階堂ゆかり」（2007年3月29日放送の第10回にて）。
+  - BaBeが解散する直前の1990年3月5日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")のラジオ番組『[デーモン小暮のオールナイトニッポン](../Page/デーモン小暮のオールナイトニッポン.md "wikilink")』の、リスナーが意見を投稿するコーナー「悪魔で生ラジオ」にて、解散後の近藤を憂う「どうするどうなる BaBeの近藤」のテーマが取り扱われた。そして翌週の3月12日には近藤が緊急ゲスト出演し、今後の身の振り方を相談した。 なお、同ラジオ番組では、芸能人・著名人の変な言動を集めて競わせ、番付を付けていくコーナー「夜霧の横綱審議会」でも、1988年に近藤の発言が度々取り上げられ、その結果、近藤は「関脇」に認定された\[29\]。
+  - [バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[とんねるずのみなさんのおかげでした](../Page/とんねるずのみなさんのおかげでした.md "wikilink")』番組内の企画「[博士と助手 〜細かすぎて伝わらないモノマネ選手権〜](https://ja.wikipedia.org/wiki/博士と助手_〜細かすぎて伝わらないモノマネ選手権〜 "wikilink")」や、『[明石家さんちゃんねる](../Page/明石家さんちゃんねる.md "wikilink")』で[いとうあさこ](../Page/いとうあさこ.md "wikilink")が二階堂のモノマネ（振りマネ）をしている。細かすぎて伝わらないモノマネ選手権でのネタのタイトルは、「元気に踊りすぎて「足の骨折れちゃう」と逆に心配をかけるBaBeの二階堂ゆかり」、「元気に踊るあまり「腕抜けちゃう」と心配をかけるBaBeの二階堂ゆかり」（それぞれ2006年9月28日放送の第9回にて）、「元気一杯に踊るあまり「首もげちゃうよ」と逆にこっちに心配をかけるBaBeの二階堂ゆかり」（2007年3月29日放送の第10回にて）。
   - [2018年](../Page/2018年.md "wikilink")9月13日放送の[フジテレビNEXT](https://ja.wikipedia.org/wiki/フジテレビNEXT "wikilink")『[坂崎幸之助のももいろフォーク村NEXT](https://ja.wikipedia.org/wiki/坂崎幸之助のももいろフォーク村NEXT "wikilink")』第88夜にて、BaBeの『I Don't Know』を、[加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink")と、[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")の[百田夏菜子](https://ja.wikipedia.org/wiki/百田夏菜子 "wikilink")がデュエットカバーした。簡略ながらBaBeのオリジナルの振付も再現された。
 
 ## ディスコグラフィ
@@ -73,7 +73,7 @@
       -
         c/w **They Don’t Know 〜哀しみは朝の雫のように〜** - 作詞・作曲：Kirsty MacColl / 日本語詞：森雪之丞 / 編曲：大村雅朗
           -
-            オリコン最高8位、売上12.7万枚。 A面曲は[フジテレビ系](../Page/フジネットワーク.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")『[あまえないでョ\!](../Page/あまえないでョ!.md "wikilink")』主題歌で、[マイケル・フォーチュナティ](../Page/マイケル・フォーチュナティ.md "wikilink")のカバー。B面曲はカースティ・マッコールの1979年のデビュー曲で、1983年には[トレイシー・ウルマン](https://ja.wikipedia.org/wiki/トレイシー・ウルマン "wikilink")もカバーした。
+            オリコン最高8位、売上12.7万枚。 A面曲は[フジテレビ系](../Page/フジネットワーク.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")『[あまえないでョ\!](../Page/あまえないでョ!.md "wikilink")』主題歌で、[マイケル・フォーチュナティ](../Page/マイケル・フォーチュナティ.md "wikilink")のカバー。B面曲はカースティ・マッコールの1979年のデビュー曲で、1983年には[トレイシー・ウルマン](../Page/トレイシー・ウルマン.md "wikilink")もカバーした。
 2.  **[I Don't Know\!](../Page/I_Don't_Know!.md "wikilink")**（1987年5月2日）- 作詞：森雪之丞 / 作曲：[中崎英也](../Page/中崎英也.md "wikilink")/ 編曲：中崎英也・[杉山卓夫](https://ja.wikipedia.org/wiki/杉山卓夫 "wikilink")
       -
         c/w **大人は判ってくれない** - 作詞：森雪之丞 / 作曲：[羽場仁志](https://ja.wikipedia.org/wiki/羽場仁志 "wikilink") / 編曲：杉山卓夫
@@ -86,7 +86,7 @@
             オリコン最高4位、売上9.0万枚。 カセット版のみ、「ipi-iyi 〜自分だけの呪文〜」と「楽しいヒトコトフタコト（BaBeからの暑中御見舞コメント）」が追加収録されている。A面曲のPVでは[ラッキィ池田](../Page/ラッキィ池田.md "wikilink")が共演。
 4.  **Hold Me\!**（1987年10月21日）- 作詞・作曲：Fonny De Wulf / 日本語詞：森雪之丞 / 編曲：大村雅朗
       -
-        c/w **You\! You\! You\!** - 作詞：森雪之丞 / 作曲：[羽田一郎](https://ja.wikipedia.org/wiki/羽田一郎 "wikilink") / 編曲：大村雅朗
+        c/w **You\! You\! You\!** - 作詞：森雪之丞 / 作曲：[羽田一郎](../Page/羽田一郎.md "wikilink") / 編曲：大村雅朗
           -
             オリコン最高7位、売上6.2万枚。 A面曲は[ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink")の歌手・サマンサ・ジルズとの競作で、フジテレビ系アニメ『[のらくろクン](../Page/のらくろクン.md "wikilink")』エンディングテーマ。PVではラッキィ池田と[南流石](../Page/南流石.md "wikilink")が共演。B面曲は同アニメの主題歌。なお、サマンサの方は「Hold Me」の後に「\!」マークが付かない。
 5.  **TONIGHT\!**（1988年1月21日）- 作詞：森雪之丞 / 作曲：[朝倉紀幸](https://ja.wikipedia.org/wiki/朝倉紀幸 "wikilink") / 編曲：大村雅朗
@@ -104,7 +104,7 @@
         c/w **Keep on Rolling** - 作詞：森雪之丞 / 作曲：朝倉紀幸 / 編曲：白井良明
           -
             オリコン最高18位、売上：2.4万枚。 A面曲のサビは、[デビー・ギブソンの](../Page/デボラ・ギブソン.md "wikilink")1987年の楽曲「Red Hot」のサビに酷似している。PVにはインクスティック芝浦ファクトリーでのライブ風景を使用。
-8.  **She has a dream**（1989年3月1日）- 作詞：[高橋研](https://ja.wikipedia.org/wiki/高橋研 "wikilink") / 作曲：[MAYUMI](../Page/堀川まゆみ.md "wikilink") / 編曲：[中村哲](https://ja.wikipedia.org/wiki/中村哲 "wikilink")
+8.  **She has a dream**（1989年3月1日）- 作詞：[高橋研](../Page/高橋研.md "wikilink") / 作曲：[MAYUMI](../Page/堀川まゆみ.md "wikilink") / 編曲：[中村哲](https://ja.wikipedia.org/wiki/中村哲 "wikilink")
       -
         c/w **バスローブのイヴ** - 作詞：[田口俊](https://ja.wikipedia.org/wiki/田口俊 "wikilink") / 作曲：中崎英也 / 編曲：白井良明
           -
@@ -155,7 +155,7 @@
     8.  Fishes
     9.  Best Friend
     10. Silent Dancer
-    11. Get a Chance\! （English Version）（アニメ映画『[プロジェクトA子 シンデレララプソディ](https://ja.wikipedia.org/wiki/プロジェクトA子 "wikilink")3』エンディングテーマ）
+    11. Get a Chance\! （English Version）（アニメ映画『[プロジェクトA子 シンデレララプソディ](../Page/プロジェクトA子.md "wikilink")3』エンディングテーマ）
 4.  **Brand-new （1989年4月21日）**
     1.  Train （原曲は1910フルーツガム・カンパニー）
     2.  Stay
@@ -434,7 +434,7 @@
 
 1.  [いじわる天気](https://ja.wikipedia.org/wiki/いじわる天気 "wikilink")
       -
-        [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』で放送されていた楽曲。放送時期：1987年8月 - 9月期。作詞・作曲：[たきのえいじ](../Page/たきのえいじ.md "wikilink")、編曲：[藤野浩一](https://ja.wikipedia.org/wiki/藤野浩一 "wikilink")、アニメーション：[前田昭](https://ja.wikipedia.org/wiki/前田昭 "wikilink")。**吉原みちよ**によるカバー音源は幾度も発売されているが、BaBeのバージョンは未ソフト化。
+        [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』で放送されていた楽曲。放送時期：1987年8月 - 9月期。作詞・作曲：[たきのえいじ](../Page/たきのえいじ.md "wikilink")、編曲：[藤野浩一](https://ja.wikipedia.org/wiki/藤野浩一 "wikilink")、アニメーション：[前田昭](https://ja.wikipedia.org/wiki/前田昭 "wikilink")。**吉原みちよ**によるカバー音源は幾度も発売されているが、BaBeのバージョンは未ソフト化。
 2.  Chance Once Again 〜ハッピーエンドは、もう少し〜
       -
         大阪「ひらかたパーク」のCMソング。レコード化はされていないが、非売品のカセットテープは存在する。
@@ -911,7 +911,7 @@
 </tr>
 <tr class="odd">
 <td><p>1988.01.03 (日)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/美少女学園" title="wikilink">美少女学園</a></p></td>
+<td><p><a href="../Page/美少女学園.md" title="wikilink">美少女学園</a></p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
@@ -1312,7 +1312,7 @@
   - [Lady's Knight](../Page/Lady's_Knight.md "wikilink")（日本テレビ、1988年10月15日 - 1989年3月25日）
   - [パオパオチャンネル](../Page/パオパオチャンネル.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")と共に金曜レギュラー。BaBeは番組の途中で降板したが、最終回の1989年9月29日に再び出演した。
   - ビショップ・ナイト Live King（[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")、1990年4月24日 - 1991年） - 解散後、近藤が[原田伸郎](../Page/原田伸郎.md "wikilink")と共に司会を務めた音楽オーディション番組。
-  - [なにわ友あれ赤井英和](https://ja.wikipedia.org/wiki/なにわ友あれ赤井英和 "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 引退後の二階堂がゲスト出演。
+  - [なにわ友あれ赤井英和](../Page/なにわ友あれ赤井英和.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 引退後の二階堂がゲスト出演。
   - [ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")（フジテレビ、2017年7月11日） - 引退後の二階堂が実娘と共にゲスト出演。近藤も電話でのみ出演。
   - 他多数
 
@@ -1321,7 +1321,7 @@
   - カモン・BaBeのハローボーイ夢工場（[ニッポン放送](../Page/ニッポン放送.md "wikilink")） - [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")との番組
   - じゃじゃ馬BaBeのハロームービー（ニッポン放送）
   - [ABC東京発 アーチストNOW](../Page/ABC東京発_アーチストNOW.md "wikilink")（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")、1988年4月 - ） - [パール兄弟](../Page/パール兄弟.md "wikilink")の[サエキけんぞう](../Page/サエキけんぞう.md "wikilink")と共に水曜レギュラー
-  - [デーモン小暮のオールナイトニッポン](https://ja.wikipedia.org/wiki/デーモン小暮のオールナイトニッポン "wikilink")（ニッポン放送）
+  - [デーモン小暮のオールナイトニッポン](../Page/デーモン小暮のオールナイトニッポン.md "wikilink")（ニッポン放送）
       - 1988年6月20日 - BaBeの2人がゲスト出演。
       - 1990年3月5日 - ゲスト出演ではないが、解散後の近藤の身の振り方に対し、リスナーが意見を投稿するコーナー「悪魔で生ラジオ」にて、解散後の近藤を憂う「どうするどうなる BaBeの近藤」のテーマが取り扱われる。
       - 1990年3月12日 - 近藤がゲスト出演し、解散後の身の振り方を相談。
@@ -1329,19 +1329,19 @@
   - BaBeのGood Luck（1989年11月28日 - 1990年1月23日、毎月第4火曜日の深夜の5分番組、[エフエム福岡](../Page/エフエム福岡.md "wikilink")）
   - BaBeのBang the Beat（1989年11月28日 - 1990年1月23日、毎月第4火曜日の深夜の放送、エフエム福岡）
   - [MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")・キンド館（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、1989年7月 - 1990年4月6日〔二階堂のみ3月2日までの出演〕） - 金曜深夜に[東野幸治](../Page/東野幸治.md "wikilink")・[石田靖](../Page/石田靖.md "wikilink")と共演
-  - [小林豊の](../Page/小林豊_\(アナウンサー\).md "wikilink")[スーパーギャング](https://ja.wikipedia.org/wiki/スーパーギャング "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")） - 解散後に近藤がレギュラー
+  - [小林豊の](../Page/小林豊_\(アナウンサー\).md "wikilink")[スーパーギャング](../Page/スーパーギャング.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")） - 解散後に近藤がレギュラー
   - [ABCミュージックパラダイス](../Page/ABCミュージックパラダイス.md "wikilink")（ABCラジオ、1991年10月 - 1992年3月） - 解散後、近藤が[山田雅人](../Page/山田雅人.md "wikilink")と共に月曜レギュラーとして出演
   - [高田純次の男・夕焼けまわり道](https://ja.wikipedia.org/wiki/高田純次の男・夕焼けまわり道 "wikilink")（ニッポン放送） - 解散後に近藤がレギュラー
 
 ### CM
 
   - [森永製菓](https://ja.wikipedia.org/wiki/森永製菓 "wikilink") [キャラメル](../Page/キャラメル.md "wikilink")「Hi-SOFT」（1988年）
-  - [京阪電気鉄道](https://ja.wikipedia.org/wiki/京阪電気鉄道 "wikilink") [ひらかたパーク](../Page/ひらかたパーク.md "wikilink") 「ジェットコースター ビッグファルコン」（関西ローカル）
+  - [京阪電気鉄道](../Page/京阪電気鉄道.md "wikilink") [ひらかたパーク](../Page/ひらかたパーク.md "wikilink") 「ジェットコースター ビッグファルコン」（関西ローカル）
   - 京阪電気鉄道 ひらかたパーク 「ひらかた大[菊人形](https://ja.wikipedia.org/wiki/菊人形 "wikilink") [武田信玄](../Page/武田信玄.md "wikilink")」（関西ローカル）
 
 ### ミュージカル
 
-  - [一の宮はじめ](../Page/一の宮はじめ.md "wikilink") ジャズダンスアカデミー第3回公演 「ダンシングミュージカル フィナーレには花束を」（1985年10月4日 - 5日、全3回公演、[新橋](https://ja.wikipedia.org/wiki/新橋_\(東京都港区\) "wikilink")・[ヤクルトホール](../Page/ヤクルトホール.md "wikilink")。作・演出・作詞・振付：一の宮はじめ） - デビュー前の出演作。近藤は「とも子役」、二階堂は「ゆかり役」。[小林千絵](../Page/小林千絵.md "wikilink")や[セイントフォー](../Page/セイントフォー.md "wikilink")と共演。
+  - [一の宮はじめ](../Page/一の宮はじめ.md "wikilink") ジャズダンスアカデミー第3回公演 「ダンシングミュージカル フィナーレには花束を」（1985年10月4日 - 5日、全3回公演、[新橋](../Page/新橋_\(東京都港区\).md "wikilink")・[ヤクルトホール](../Page/ヤクルトホール.md "wikilink")。作・演出・作詞・振付：一の宮はじめ） - デビュー前の出演作。近藤は「とも子役」、二階堂は「ゆかり役」。[小林千絵](../Page/小林千絵.md "wikilink")や[セイントフォー](../Page/セイントフォー.md "wikilink")と共演。
 
 ### コンサート、ライブ
 
@@ -1349,7 +1349,7 @@
   - 1987年10月29日 - [新宿](../Page/新宿.md "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")の[ディスコ](../Page/ディスコ.md "wikilink")「XENON（ゼノン）」
       -
         サマンサ・ジルズと共に出演し、シングル「Hold Me\!」を披露。
-  - 1988年1月31日 - [中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")
+  - 1988年1月31日 - [中野サンプラザ](../Page/中野サンプラザ.md "wikilink")
   - 1988年3月21日 - [大阪厚生年金会館 大ホール](https://ja.wikipedia.org/wiki/オリックス劇場#大阪厚生年金会館 "wikilink")
   - **DANCE & LIVE FACTORY「BaBe, FRIDAY NIGHT LIVE\!」**
       -
@@ -1374,13 +1374,13 @@
 
 ### 学園祭
 
-  - 1987年10月22日 - [徳山大学](https://ja.wikipedia.org/wiki/徳山大学 "wikilink")
-  - 1987年10月25日 - [東北学院大学](https://ja.wikipedia.org/wiki/東北学院大学 "wikilink")
+  - 1987年10月22日 - [徳山大学](../Page/徳山大学.md "wikilink")
+  - 1987年10月25日 - [東北学院大学](../Page/東北学院大学.md "wikilink")
   - 1987年10月31日 - [北九州大学](https://ja.wikipedia.org/wiki/北九州大学 "wikilink")（近藤は体調不良で欠席。二階堂が単独でコンサートを行った）
   - 1987年11月2日 - [大分医科大学](https://ja.wikipedia.org/wiki/大分医科大学 "wikilink")
   - 1987年11月3日 - [早稲田大学](../Page/早稲田大学.md "wikilink")
   - 1987年11月4日 - [金沢大学](../Page/金沢大学.md "wikilink")
-  - 1987年11月5日 - [中央大学](https://ja.wikipedia.org/wiki/中央大学 "wikilink")
+  - 1987年11月5日 - [中央大学](../Page/中央大学.md "wikilink")
   - 1987年11月7日 - [三重大学](../Page/三重大学.md "wikilink")
   - 1987年11月8日 - [中京女子大学](https://ja.wikipedia.org/wiki/中京女子大学 "wikilink")
   - 1987年11月14日 - [東洋女子短期大学](../Page/東洋女子短期大学.md "wikilink")、[東洋英和女学院大学短期大学部](../Page/東洋英和女学院大学短期大学部.md "wikilink")、[東京外国語大学](../Page/東京外国語大学.md "wikilink")
@@ -1425,7 +1425,7 @@
 
 1.  『[週刊明星](../Page/週刊明星.md "wikilink")』1987年2月5日号p.20。
 2.  『[明星](../Page/Myojo.md "wikilink")』1987年5月号p.228。
-3.  『[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink")』1988年1月号pp.4-5。
+3.  『[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink")』1988年1月号pp.4-5。
 4.
 5.
 6.  [『Oh\!SUSUME』 1988](https://ja.wikipedia.org/wiki/#Oh!SUSUME "wikilink"), p.69。

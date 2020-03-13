@@ -1,11 +1,11 @@
 > この記事は[TARO](https://ja.wikipedia.org/wiki/TARO)から翻訳されています。
 
 
-**TAROかまやつ**（本名：**釜萢 太郎**、かまやつ たろう、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - ）は、 [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[青山生まれの](../Page/青山_\(東京都港区\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")で[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の元社員。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。
+**TAROかまやつ**（本名：**釜萢 太郎**、かまやつ たろう、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") - ）は、 [東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[青山生まれの](../Page/青山_\(東京都港区\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")で[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")の元社員。[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビュー。
 
 ## 来歴・人物
 
-[父](https://ja.wikipedia.org/wiki/父 "wikilink")に「**ムッシュかまやつ**」こと、元[スパイダース](https://ja.wikipedia.org/wiki/スパイダース "wikilink")中心人物の[かまやつひろし](../Page/かまやつひろし.md "wikilink")を、[祖父](https://ja.wikipedia.org/wiki/祖父 "wikilink")に日本の[ジャズ](../Page/ジャズ.md "wikilink")ミュージシャン・シンガーの第一人者である[ティーブ・釜萢](https://ja.wikipedia.org/wiki/ティーブ・釜萢 "wikilink")を持つという音楽一家に生まれた。
+[父](https://ja.wikipedia.org/wiki/父 "wikilink")に「**ムッシュかまやつ**」こと、元[スパイダース](https://ja.wikipedia.org/wiki/スパイダース "wikilink")中心人物の[かまやつひろし](../Page/かまやつひろし.md "wikilink")を、[祖父](https://ja.wikipedia.org/wiki/祖父 "wikilink")に日本の[ジャズ](../Page/ジャズ.md "wikilink")ミュージシャン・シンガーの第一人者である[ティーブ・釜萢](../Page/ティーブ・釜萢.md "wikilink")を持つという音楽一家に生まれた。
 
 3歳よりクラシックピアノ、音楽理論、作曲法を、日本を代表する[クラシック](../Page/クラシック音楽.md "wikilink")[作曲家](../Page/作曲家.md "wikilink")である[黛敏郎](../Page/黛敏郎.md "wikilink")に14年間師事する。初めての作曲は6歳の時作った「春」であるとライブのMCで語った}}。
 
@@ -15,13 +15,13 @@
 
 ### サラリーマン
 
-[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")卒業時には音楽家への道も考えたが、「一般社会を一度は見た方がいい。これからの時代は音楽は（サラリーマンの傍らアーティストとして活躍する）[小椋佳](https://ja.wikipedia.org/wiki/小椋佳 "wikilink")さんみたいにやる方がいい」という父の意見を受け、フジテレビに入社。経理局、事業局、広報局、ネットワーク局を経たあと、退職前は編成制作局に所属していた。事業局時代は主にアーティストコンサート運営に従事。[石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")などのコンサートツアー制作の他、元スパイダースの[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")、[井上尭之](https://ja.wikipedia.org/wiki/井上尭之 "wikilink")、そして父のムッシュかまやつが結成したバンド「[ソン・フィルトル](../Page/ソン・フィルトル.md "wikilink")」の初の全国コンサートツアーのプロデューサーなどを務めた。広報局ではバラエティ、連続ドラマを中心に、[K-1](../Page/K-1.md "wikilink")等の格闘技番組、かくし芸大会などの広報担当を務めた。2011年退職。2017年現在は輸出入業に携わっている。
+[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")卒業時には音楽家への道も考えたが、「一般社会を一度は見た方がいい。これからの時代は音楽は（サラリーマンの傍らアーティストとして活躍する）[小椋佳](https://ja.wikipedia.org/wiki/小椋佳 "wikilink")さんみたいにやる方がいい」という父の意見を受け、フジテレビに入社。経理局、事業局、広報局、ネットワーク局を経たあと、退職前は編成制作局に所属していた。事業局時代は主にアーティストコンサート運営に従事。[石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")などのコンサートツアー制作の他、元スパイダースの[堺正章](../Page/堺正章.md "wikilink")、[井上尭之](https://ja.wikipedia.org/wiki/井上尭之 "wikilink")、そして父のムッシュかまやつが結成したバンド「[ソン・フィルトル](../Page/ソン・フィルトル.md "wikilink")」の初の全国コンサートツアーのプロデューサーなどを務めた。広報局ではバラエティ、連続ドラマを中心に、[K-1](../Page/K-1.md "wikilink")等の格闘技番組、かくし芸大会などの広報担当を務めた。2011年退職。2017年現在は輸出入業に携わっている。
 
 ### メジャーデビュー
 
 就職後も仕事をする傍ら、趣味として作品を作り続けており、ライブバーでライブ活動を継続していた。[2004年](../Page/2004年.md "wikilink")秋に、友人たちと作っていたデモ・テープが関係者の手に渡り、大手[レコード](../Page/レコード.md "wikilink")会社の[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりメジャーデビューのオファーが来る。その間に父親であるムッシュかまやつは一切介在していないどころか、デビュー前々日に大々的に報じられた[スポーツ新聞](../Page/スポーツ新聞.md "wikilink")を見て初めて知ったという。
 
-当時在籍していた広報部の部長であった[遠藤龍之介](https://ja.wikipedia.org/wiki/遠藤龍之介 "wikilink")（[遠藤周作](../Page/遠藤周作.md "wikilink")の子息）の後押しもあり、会社員と音楽家の二束のわらじを履くことを決意。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")マキシシングル「**風のわだち**」でメジャーデビューした。
+当時在籍していた広報部の部長であった[遠藤龍之介](https://ja.wikipedia.org/wiki/遠藤龍之介 "wikilink")（[遠藤周作](../Page/遠藤周作.md "wikilink")の子息）の後押しもあり、会社員と音楽家の二束のわらじを履くことを決意。[2005年](../Page/2005年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")マキシシングル「**風のわだち**」でメジャーデビューした。
 
 発売当初はフジテレビの企画モノCDと思われる事を嫌い、フジテレビ社員である事を隠していたが、数々の[週刊誌](../Page/週刊誌.md "wikilink")や[スポーツ](../Page/スポーツ.md "wikilink")[新聞](../Page/新聞.md "wikilink")などで次々と記事にされ、6月下旬「[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")」でフジテレビの社員であると発表された。
 
@@ -45,17 +45,17 @@
 
 <!-- end list -->
 
-  - ピアノマンの詩（うた） （[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月16日](../Page/9月16日.md "wikilink")、ビクターエンタテインメント） - 1stアルバム。アルバム収録曲「**今日のよき日に**」はフジテレビ「[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")」が推し進めている「39プロジェクト」の「ありがとう」をテーマにしたコンピレーション「**Thank You\!**」（[2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")発売）にも収録。
+  - ピアノマンの詩（うた） （[2005年](../Page/2005年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")、ビクターエンタテインメント） - 1stアルバム。アルバム収録曲「**今日のよき日に**」はフジテレビ「[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")」が推し進めている「39プロジェクト」の「ありがとう」をテーマにしたコンピレーション「**Thank You\!**」（[2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")発売）にも収録。
   - KEEP ON（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月17日](../Page/11月17日.md "wikilink")、BEATSISTA） - 2ndミニアルバム。
   - TAROかまやつ「ピアノマンの部屋 〜名曲一発勝負ピアノセレクション〜」 - ラジオ番組「ピアノマンの部屋」企画限定CD。店舗流通はしない限定生産CD。ライブ会場で枚数限定で販売されている（不定期）。
 
 ### 「ムッシュかまやつ70thアルバム」に参加
 
-音楽プロデューサーの[武部聡志](../Page/武部聡志.md "wikilink")がプロデュースし、[今井美樹](../Page/今井美樹.md "wikilink")や[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")、[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")、[トータス松本](../Page/トータス松本.md "wikilink")、[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")、[井上順](../Page/井上順.md "wikilink")、[甲斐名都](https://ja.wikipedia.org/wiki/甲斐名都 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、[森山良子](../Page/森山良子.md "wikilink")、[森山直太朗](../Page/森山直太朗.md "wikilink")、[Micro](../Page/Micro.md "wikilink")といったアーティストが多数参加し、[2009年](../Page/2009年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")にavex-ioより発売されたムッシュかまやつの70歳記念アルバム『1939〜MONSIEUR』に詞曲「ゆっくりと ゆっくりと」を書き下ろし、歌唱及びピアノ演奏で39年ぶりの親子デュエットを行った\[1\]
+音楽プロデューサーの[武部聡志](../Page/武部聡志.md "wikilink")がプロデュースし、[今井美樹](../Page/今井美樹.md "wikilink")や[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")、[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")、[トータス松本](../Page/トータス松本.md "wikilink")、[一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")、[布袋寅泰](../Page/布袋寅泰.md "wikilink")、[堺正章](../Page/堺正章.md "wikilink")、[井上順](../Page/井上順.md "wikilink")、[甲斐名都](https://ja.wikipedia.org/wiki/甲斐名都 "wikilink")、[松任谷由実](../Page/松任谷由実.md "wikilink")、[森山良子](../Page/森山良子.md "wikilink")、[森山直太朗](../Page/森山直太朗.md "wikilink")、[Micro](../Page/Micro.md "wikilink")といったアーティストが多数参加し、[2009年](../Page/2009年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")にavex-ioより発売されたムッシュかまやつの70歳記念アルバム『1939〜MONSIEUR』に詞曲「ゆっくりと ゆっくりと」を書き下ろし、歌唱及びピアノ演奏で39年ぶりの親子デュエットを行った\[1\]
 
 ## 音楽一家
 
-  - 祖父（父方）は日本の[ジャズ](../Page/ジャズ.md "wikilink")ミュージシャン・シンガーの第一人者である[ティーブ・釜萢](https://ja.wikipedia.org/wiki/ティーブ・釜萢 "wikilink")。父の「**ムッシュかまやつ**」こと[かまやつひろし](../Page/かまやつひろし.md "wikilink")も、音楽界から[カリスマ](../Page/カリスマ.md "wikilink")的な尊敬を集めるミュージシャン・シンガーである。また、父方祖父方の親戚には、ジャズ奏者の森山久は大叔父（祖父の弟）、歌手の[森山良子](../Page/森山良子.md "wikilink")はいとこ叔母（祖父の弟の娘）、若手人気ミュージシャンの[森山直太朗](../Page/森山直太朗.md "wikilink")は[はとこ](../Page/はとこ.md "wikilink")（祖父の弟の孫息子）らがいる。
+  - 祖父（父方）は日本の[ジャズ](../Page/ジャズ.md "wikilink")ミュージシャン・シンガーの第一人者である[ティーブ・釜萢](../Page/ティーブ・釜萢.md "wikilink")。父の「**ムッシュかまやつ**」こと[かまやつひろし](../Page/かまやつひろし.md "wikilink")も、音楽界から[カリスマ](../Page/カリスマ.md "wikilink")的な尊敬を集めるミュージシャン・シンガーである。また、父方祖父方の親戚には、ジャズ奏者の森山久は大叔父（祖父の弟）、歌手の[森山良子](../Page/森山良子.md "wikilink")はいとこ叔母（祖父の弟の娘）、若手人気ミュージシャンの[森山直太朗](../Page/森山直太朗.md "wikilink")は[はとこ](../Page/はとこ.md "wikilink")（祖父の弟の孫息子）らがいる。
       - TAROは[森山良子](../Page/森山良子.md "wikilink")のコンサート、イベントなどで良子の代表曲「あなたが好きで」のピアノ伴奏などで親族共演を果たしている。7月にはTAROのラジオ番組にゲスト出演し、親戚ならではのリラックスしたムードで軽快なトークを繰り広げた。2006年8月にはJZBratで行われたTAROのライブにムッシュと共に飛入りし2曲を共演した。
   - 2006年5月末に放送されたフジテレビ「僕らの音楽」ではムッシュかまやつ50周年記念特集回として[森山直太朗](../Page/森山直太朗.md "wikilink")と出演。父作曲の「あの時君は若かった」をTAROのピアノアレンジで父と二人で歌唱しTV初共演を果たした。
   - [森山直太朗](../Page/森山直太朗.md "wikilink")は自身のラジオ番組の中で進路に悩むリスナーの相談にTAROを引き合いに出したことがある\[2\]。
@@ -63,7 +63,7 @@
 
 ## ラジオ番組
 
-2006年4月1日より[AIR-G'と](../Page/エフエム北海道.md "wikilink")[FM山陰（V-Air）の](../Page/エフエム山陰.md "wikilink")2局ネットのラジオ番組「[TAROかまやつ ピアノマンの部屋](https://ja.wikipedia.org/wiki/TAROかまやつ_ピアノマンの部屋 "wikilink")」をスタートした（キー局のAIR-G'は土曜日20:00-20:30 JST、V-Airは1日遅れネットで日曜日20:30-21:00 JST）。FMは2007年3月31日に終了したが、2006年8月より[PodCastより配信](https://ja.wikipedia.org/wiki/ポッドキャスト "wikilink")。
+2006年4月1日より[AIR-G'と](../Page/エフエム北海道.md "wikilink")[FM山陰（V-Air）の](../Page/エフエム山陰.md "wikilink")2局ネットのラジオ番組「[TAROかまやつ ピアノマンの部屋](https://ja.wikipedia.org/wiki/TAROかまやつ_ピアノマンの部屋 "wikilink")」をスタートした（キー局のAIR-G'は土曜日20:00-20:30 JST、V-Airは1日遅れネットで日曜日20:30-21:00 JST）。FMは2007年3月31日に終了したが、2006年8月より[PodCastより配信](../Page/ポッドキャスト.md "wikilink")。
 
   -
     「名曲一発勝負」のコーナーは毎回番組内で世界の名曲をTAROなりのアレンジでグランドピアノで弾いている。その音源は[携帯電話](../Page/携帯電話.md "wikilink")[着うた](../Page/着うた.md "wikilink")[サイト](../Page/ウェブサイト.md "wikilink")「GLOBAL EXOTICA」で[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")出来るシステムになっている。

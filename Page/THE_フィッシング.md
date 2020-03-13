@@ -1,7 +1,7 @@
 > この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
 
 
-『**THE フィッシング**』 （ザふぃっしんぐ）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")制作・[テレビ東京系列ほかで放送されている](https://ja.wikipedia.org/wiki/TXN "wikilink")[釣り](https://ja.wikipedia.org/wiki/釣り "wikilink")を題材にした[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組（[釣り番組](https://ja.wikipedia.org/wiki/Category:釣り番組 "wikilink")）である。
+『**THE フィッシング**』 （ザふぃっしんぐ）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")制作・[テレビ東京系列ほかで放送されている](https://ja.wikipedia.org/wiki/TXN "wikilink")[釣り](../Page/釣り.md "wikilink")を題材にした[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組（[釣り番組](https://ja.wikipedia.org/wiki/Category:釣り番組 "wikilink")）である。
 
 ## 来歴
 
@@ -11,7 +11,7 @@
 
 ## 出演者
 
-  - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の有名釣り師の[西山徹](../Page/西山徹.md "wikilink")、[大塚貴汪](../Page/大塚貴汪.md "wikilink")、[村越正海](../Page/村越正海.md "wikilink")、[村田満](https://ja.wikipedia.org/wiki/村田満 "wikilink")、[岩井渓一郎](https://ja.wikipedia.org/wiki/岩井渓一郎 "wikilink")や、[バスプロの](../Page/バスフィッシング・プロフェッショナル.md "wikilink")[並木敏成](../Page/並木敏成.md "wikilink")、[清水盛三](../Page/清水盛三.md "wikilink")、[大森貴洋](../Page/大森貴洋.md "wikilink")、[宮崎友輔](https://ja.wikipedia.org/wiki/宮崎友輔 "wikilink")などが出演している（出演していた）。西山に関しては、放送時間が土曜夕方に変更された際に特別追悼番組が制作された。
+  - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の有名釣り師の[西山徹](../Page/西山徹.md "wikilink")、[大塚貴汪](../Page/大塚貴汪.md "wikilink")、[村越正海](../Page/村越正海.md "wikilink")、[村田満](https://ja.wikipedia.org/wiki/村田満 "wikilink")、[岩井渓一郎](../Page/岩井渓一郎.md "wikilink")や、[バスプロの](../Page/バスフィッシング・プロフェッショナル.md "wikilink")[並木敏成](../Page/並木敏成.md "wikilink")、[清水盛三](../Page/清水盛三.md "wikilink")、[大森貴洋](../Page/大森貴洋.md "wikilink")、[宮崎友輔](https://ja.wikipedia.org/wiki/宮崎友輔 "wikilink")などが出演している（出演していた）。西山に関しては、放送時間が土曜夕方に変更された際に特別追悼番組が制作された。
   - 釣り愛好家の[反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")や元[YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")[高橋幸宏](../Page/高橋幸宏.md "wikilink")、[プロ野球選手](../Page/プロ野球選手.md "wikilink")の[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")、女性タレントきっての釣り愛好家として知られる[水野裕子](../Page/水野裕子.md "wikilink")、[上野ひとみ](https://ja.wikipedia.org/wiki/上野ひとみ "wikilink")、[児島玲子](../Page/児島玲子.md "wikilink")（長年[釣り・ロマンを求めて](../Page/釣り・ロマンを求めて.md "wikilink")等シマノ系に出演していたが2014年よりがダイワとテスター契約したために）、[あべなぎさ](../Page/あべなぎさ.md "wikilink")、[晴山由梨](https://ja.wikipedia.org/wiki/晴山由梨 "wikilink")など芸能人や著名人も登場する。水野は2003年10月から数年間自身のコーナーが存在し、事実上の準レギュラーでもあった。
 
 この時の構成は、タレントフィッシングカップのプロデューサー　水野重幸が行っている。
@@ -22,7 +22,7 @@
 
 ## スポンサー
 
-筆頭スポンサーは[グローブライド](https://ja.wikipedia.org/wiki/グローブライド "wikilink")のブランド「DAIWA」（旧・ダイワ精工株式会社）で、2017年現在は複数社提供になっている。
+筆頭スポンサーは[グローブライド](../Page/グローブライド.md "wikilink")のブランド「DAIWA」（旧・ダイワ精工株式会社）で、2017年現在は複数社提供になっている。
 
 社名がダイワ精工の頃は一社提供の時期があり、系列外では原則ダイワ精工一社のみだったが、2009年3月をもって撤退したため放送を打ち切る局が相次いだ。ただ、静岡や福井など一部地域では局を変えて放送再開する動きも出ている。
 
@@ -87,7 +87,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a>（TVQ）</p></td>
 <td></td>
 <td></td>
@@ -228,7 +228,7 @@
 
   - 2011年9月からグローブライドが運営するフィッシングチャンネルで配信が始まった（一部の回のみ）。概ね、制作局の初回放送から1ヶ月～2ヶ月遅れの内容となる。
   - 制作局のテレビ大阪では初回放送から10日後の水曜 1:00 - 1:30（火曜深夜）にも字幕放送付で再放送を行っている（ローカル放送）。
-  - 2011年3月12日放送分は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")を編成したため休止となった。
+  - 2011年3月12日放送分は[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連の[報道特別番組](../Page/報道特別番組.md "wikilink")を編成したため休止となった。
   - 2012年12月2日放送分は「柔道グランドスラム TOKYO 2012」の中継が17:00 - 19:00に編成されるため、テレビ東京系列各局では次番組の「釣り・ロマンを求めて」とともに90分繰り上げて16:00からの放送となる。
   - 2016年4月16日放送分は[熊本地震関連の報道特別番組を編成したため休止となった](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")。
 
@@ -252,7 +252,7 @@
       - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")をもって終了
   - [広島県](../Page/広島県.md "wikilink")・[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")（HOME）
       - [2018年](../Page/2018年.md "wikilink")3月31日をもって終了
-  - [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")・[福岡放送](../Page/福岡放送.md "wikilink")（FBS）
+  - [福岡県](../Page/福岡県.md "wikilink")・[福岡放送](../Page/福岡放送.md "wikilink")（FBS）
       - 80年代半ばに放送。開始及び終了時期は不明
   - [大分県](../Page/大分県.md "wikilink")・[テレビ大分](../Page/テレビ大分.md "wikilink")（TOS）
       - 90年代に放送。開始及び終了時期は不明
@@ -279,7 +279,7 @@
 
 ## 制作協力
 
-  - [ウッドオフィス](https://ja.wikipedia.org/wiki/ウッドオフィス "wikilink")
+  - [ウッドオフィス](../Page/ウッドオフィス.md "wikilink")
   - [放送映画製作所](https://ja.wikipedia.org/wiki/放送映画製作所 "wikilink") （テレビ大阪の系列キー・テレビ東京に大口出資する[毎日放送](../Page/毎日放送.md "wikilink")の子会社である）
 
 <!-- end list -->
@@ -292,7 +292,7 @@
 ## 関連項目
 
   - [釣り・ロマンを求めて](../Page/釣り・ロマンを求めて.md "wikilink") - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")制作で、同時ネットしていたテレビ東京系列では本番組の30分後に放送。本番組の放送時間が土曜夕方に移った2001年以降は「釣り番組枠」と称して形成していたが、2013年9月28日で終了した。
-  - [グローブライド](https://ja.wikipedia.org/wiki/グローブライド "wikilink")([ダイワ](https://ja.wikipedia.org/wiki/ダイワ "wikilink"))
+  - [グローブライド](../Page/グローブライド.md "wikilink")([ダイワ](https://ja.wikipedia.org/wiki/ダイワ "wikilink"))
 
 ## 外部リンク
 

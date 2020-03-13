@@ -1,7 +1,7 @@
 > この記事は[MORNING STEPS FRIDAY](https://ja.wikipedia.org/wiki/MORNING_STEPS_FRIDAY)から翻訳されています。
 
 
-**MORNING STEPS FRIDAY**（モーニング・ステップス・フライデー）は毎週金曜日の6:00 - 9:00に放送されていた、ニュース・スポーツ・経済情報を中心とした[FMヨコハマの朝のラジオ番組](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")。
+**MORNING STEPS FRIDAY**（モーニング・ステップス・フライデー）は毎週金曜日の6:00 - 9:00に放送されていた、ニュース・スポーツ・経済情報を中心とした[FMヨコハマの朝のラジオ番組](../Page/横浜エフエム放送.md "wikilink")。
 
 ## 概要
 
@@ -23,7 +23,7 @@
 <!-- end list -->
 
   -
-    隔週交代・ともに[FMヨコハマアナウンサー](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")
+    隔週交代・ともに[FMヨコハマアナウンサー](../Page/横浜エフエム放送.md "wikilink")
 
   - その他
 

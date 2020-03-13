@@ -5,13 +5,13 @@
 
 ## 概要
 
-[2001年](../Page/2001年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に『HEY YOU μZIC\!』の後番組として「**feel the μzic DA\!\!**」としてスタート。当初の放送時間は16:00～18:55。当時宮崎の放送局で活躍していた[DJ POCKYを起用](https://ja.wikipedia.org/wiki/DJ_POCKY "wikilink")。
+[2001年](../Page/2001年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に『HEY YOU μZIC\!』の後番組として「**feel the μzic DA\!\!**」としてスタート。当初の放送時間は16:00～18:55。当時宮崎の放送局で活躍していた[DJ POCKYを起用](../Page/DJ_POCKY.md "wikilink")。
 
 [2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")より、放送時間拡大のために番組名を現在の「**MUSIC POWER STATION feel the μzic DA\!\!**」に改名。2004年[9月15日](../Page/9月15日.md "wikilink")より、放送場所を本社スタジオから[アミュプラザ鹿児島](https://ja.wikipedia.org/wiki/アミュプラザ鹿児島 "wikilink")内の[AMU STUDIOに移しての公開生放送となる](https://ja.wikipedia.org/wiki/エフエム鹿児島#AMU_STUDIO "wikilink")。同時に[ジングル類も一新される](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。2005年8月にはDJ POCKYと当時のアシスタント陣によりDJ POCKY'Sで「プレシャスメモリー」の曲名でCDデビューを果たす。
 
 [2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")を持って金曜日版は放送終了し、『[FRIDAY AIR SHUFFLE EVENING TRACKS](../Page/FRIDAY_AIR_SHUFFLE.md "wikilink")』に引き継いだ。
 
-[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")より、放送時間が番組開始時と同様の16:00～18:55と1時間短縮となる。19時台の番組は[Adult Oriented Radio](https://ja.wikipedia.org/wiki/A・O・R "wikilink")（月曜～水曜）とアーティスト番組及び自社番組（木曜）となった。
+[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")より、放送時間が番組開始時と同様の16:00～18:55と1時間短縮となる。19時台の番組は[Adult Oriented Radio](../Page/A・O・R.md "wikilink")（月曜～水曜）とアーティスト番組及び自社番組（木曜）となった。
 
 2009年3月をもって番組は終了。後番組は『[YOU GOTTA STATION μ's WAVE](https://ja.wikipedia.org/wiki/YOU_GOTTA_STATION_μ's_WAVE "wikilink")』である。
 
@@ -19,7 +19,7 @@
 
 ### パーソナリティ
 
-  - 月曜～木曜　[DJ POCKY](https://ja.wikipedia.org/wiki/DJ_POCKY "wikilink")
+  - 月曜～木曜　[DJ POCKY](../Page/DJ_POCKY.md "wikilink")
 
 ### アシスタント
 

@@ -145,12 +145,12 @@
 
   -
     2001年4月5日\[2\]から、毎週水曜日18時40分頃から放送しているコーナー。最初に訪れたラーメン店は、[白河市](../Page/白河市.md "wikilink")の「火風鼎」\[3\]。開始当初はリポーターは登場せず、店主自らラーメンを試食し、インタビューを受ける形式だったが\[4\]、後にリポーター（KFBアナウンサー）が店舗を訪問し、ラーメンを試食し、インタビューを受ける形式に改められた。
-    基本的にはKFBアナウンサーがリポーターを務め、生放送のスタジオで店舗やラーメンの紹介とナレーションを行うが、不定期に、[完パケ](https://ja.wikipedia.org/wiki/完パケ "wikilink")（リポーターがスタジオに登場せず、事前にVTRにナレーションを加えたもの）形式で放送される場合もある。また、フリーアナウンサーの[武田真紀](https://ja.wikipedia.org/wiki/武田真紀 "wikilink")が登場する場合もある。
+    基本的にはKFBアナウンサーがリポーターを務め、生放送のスタジオで店舗やラーメンの紹介とナレーションを行うが、不定期に、[完パケ](https://ja.wikipedia.org/wiki/完パケ "wikilink")（リポーターがスタジオに登場せず、事前にVTRにナレーションを加えたもの）形式で放送される場合もある。また、フリーアナウンサーの[武田真紀](../Page/武田真紀.md "wikilink")が登場する場合もある。
     2008年3月までKFBアナウンサーだった[飯野雅人](../Page/飯野雅人.md "wikilink")は、毎回豪快にラーメンを食べ尽くす姿から「ラーメン王子」の渾名が付けた。2003年12月の『ふくしまスーパーJチャンネル年末スペシャル』では、らーめん道特製ラーメンを製作するために、飯野自ら郡山市のラーメン店「正月屋」で修行を行い、特製ラーメン製作に当たった。
 
 ## 過去にあったコーナー
 
-  - 山形・福島ふるさと自慢対決（[山形テレビ](../Page/山形テレビ.md "wikilink")『[スーパーJチャンネルYTSゴジダス](https://ja.wikipedia.org/wiki/スーパーJチャンネルYTSゴジダス "wikilink")』と共同の生中継リレー企画）
+  - 山形・福島ふるさと自慢対決（[山形テレビ](../Page/山形テレビ.md "wikilink")『[スーパーJチャンネルYTSゴジダス](../Page/スーパーJチャンネルYTSゴジダス.md "wikilink")』と共同の生中継リレー企画）
   - へそくりクイズ→へそくりクイズR（リターンズ）→ちょっとへそくり
       - 月曜から金曜の17時台最後に放送していた視聴者参加型コーナー。毎回ニュースなどの話題から出題し、電話番号やメールで応募していた。
   - 暮らしのマネー塾
@@ -208,10 +208,10 @@
 
 #### 訪れた沿線と駅
 
-  - [東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")[貝田駅](../Page/貝田駅.md "wikilink")（[国見町](https://ja.wikipedia.org/wiki/国見町 "wikilink")） - [白坂駅](../Page/白坂駅.md "wikilink")(白河市)（2017年4月3日～）
+  - [東北本線](https://ja.wikipedia.org/wiki/東北本線 "wikilink")[貝田駅](../Page/貝田駅.md "wikilink")（[国見町](../Page/国見町.md "wikilink")） - [白坂駅](../Page/白坂駅.md "wikilink")(白河市)（2017年4月3日～）
   - [福島交通飯坂線](https://ja.wikipedia.org/wiki/福島交通飯坂線 "wikilink")
   - [磐越西線](https://ja.wikipedia.org/wiki/磐越西線 "wikilink")・[徳沢駅](../Page/徳沢駅.md "wikilink")(西会津町)まで（～2018年12月20日）
-  - [水郡線](https://ja.wikipedia.org/wiki/水郡線 "wikilink")[磐城守山駅](../Page/磐城守山駅.md "wikilink")([郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")) - [矢祭山駅](../Page/矢祭山駅.md "wikilink")([矢祭町](https://ja.wikipedia.org/wiki/矢祭町 "wikilink"))（2019年1月～2019年5月31日）
+  - [水郡線](https://ja.wikipedia.org/wiki/水郡線 "wikilink")[磐城守山駅](../Page/磐城守山駅.md "wikilink")([郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")) - [矢祭山駅](../Page/矢祭山駅.md "wikilink")([矢祭町](../Page/矢祭町.md "wikilink"))（2019年1月～2019年5月31日）
   - 会津鉄道・[西若松駅](../Page/西若松駅.md "wikilink")([会津若松市](https://ja.wikipedia.org/wiki/会津若松市 "wikilink")) - 会津下郷駅([下郷町](../Page/下郷町.md "wikilink"))（2019年6月～2019年8月22日）
 
 ## 放送時間

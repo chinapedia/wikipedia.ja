@@ -1,7 +1,7 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-**TVシンポジウム**（テレビ- ）は、[NHK教育テレビの](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。
+**TVシンポジウム**（テレビ- ）は、[NHK教育テレビの](../Page/NHK教育テレビジョン.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")である。
 
 ## 概要
 

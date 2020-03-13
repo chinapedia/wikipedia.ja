@@ -13,7 +13,7 @@
 
 などの特徴を持つ。
 
-マクロ言語として採用されているxyzzy LispはCommon Lispに近く6割程度の仕様が実装されている\[1\]。[Emacs Lispとの互換性はあまり無い](../Page/Emacs_Lisp.md "wikilink")。その一方で、[Windows APIにアクセスできるなど](https://ja.wikipedia.org/wiki/Windows_API "wikilink")、Windowsネイティブのソフトウェアである利点をいかした作りになっている。
+マクロ言語として採用されているxyzzy LispはCommon Lispに近く6割程度の仕様が実装されている\[1\]。[Emacs Lispとの互換性はあまり無い](../Page/Emacs_Lisp.md "wikilink")。その一方で、[Windows APIにアクセスできるなど](../Page/Windows_API.md "wikilink")、Windowsネイティブのソフトウェアである利点をいかした作りになっている。
 
 ## 名称
 
@@ -21,7 +21,7 @@ xyzzyの公式な読み方は存在しない\[2\]。Xyzzy Wikiが行っている
 
 ## 派生版
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月に[MIT Licenseを採用して](../Page/MIT_License.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")化された\[5\]。それまでは作者の意向により、明示的なライセンスが付けられること無く[ソースコード](../Page/ソースコード.md "wikilink")が公開されていたが、これにより再配布や改変がライセンスの許諾範囲内に収まることが明確になった。
+[2005年](../Page/2005年.md "wikilink")12月に[MIT Licenseを採用して](../Page/MIT_License.md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")化された\[5\]。それまでは作者の意向により、明示的なライセンスが付けられること無く[ソースコード](../Page/ソースコード.md "wikilink")が公開されていたが、これにより再配布や改変がライセンスの許諾範囲内に収まることが明確になった。
 
 バージョン0.2.2.235以降、亀井による更新は行われていないが、有志らによって開発が継続されている\[6\]。
 

@@ -5,13 +5,13 @@
 
 </div>
 
-**プライムアースEVエナジー株式会社**（プライムアースイーブイエナジー、）は、[ハイブリッド](https://ja.wikipedia.org/wiki/ハイブリッド "wikilink")電池、[ニッケル・水素蓄電池](https://ja.wikipedia.org/wiki/ニッケル・水素蓄電池 "wikilink")、リチウムイオン電池を製造している企業で[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")と[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の[合弁会社](../Page/合弁事業.md "wikilink")。
+**プライムアースEVエナジー株式会社**（プライムアースイーブイエナジー、）は、[ハイブリッド](../Page/ハイブリッド.md "wikilink")電池、[ニッケル・水素蓄電池](https://ja.wikipedia.org/wiki/ニッケル・水素蓄電池 "wikilink")、リチウムイオン電池を製造している企業で[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")と[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の[合弁会社](../Page/合弁事業.md "wikilink")。
 
 ## 沿革
 
   - [1996年](../Page/1996年.md "wikilink")[12月11日](../Page/12月11日.md "wikilink") - パナソニックEVエナジー設立（出資比率は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")60%、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")グループ40%）。略称はPEVEである。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月 - 境宿工場で[電気自動車](../Page/電気自動車.md "wikilink")用[ニッケル・水素蓄電池](https://ja.wikipedia.org/wiki/ニッケル・水素蓄電池 "wikilink")の開発・量産開始
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月15日](../Page/11月15日.md "wikilink") - 累計生産台数100万台（車両台数ベース）突破
+  - [2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") - 累計生産台数100万台（車両台数ベース）突破
   - [2007年](../Page/2007年.md "wikilink")3月 - 大森工場操業開始
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月 - 本社を大森工場敷地内に移転
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月 - [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[黒川郡](https://ja.wikipedia.org/wiki/黒川郡 "wikilink")[大和町](https://ja.wikipedia.org/wiki/大和町 "wikilink")に工場建設を決定
@@ -44,14 +44,14 @@
       - [クラウンハイブリッド](../Page/トヨタ・クラウン.md "wikilink")
       - [エスティマハイブリッド](../Page/トヨタ・エスティマ.md "wikilink")
       - [アルファードハイブリッド](../Page/トヨタ・アルファード.md "wikilink")
-      - [ハリアーハイブリッド（輸出名:レクサスRX400h）](https://ja.wikipedia.org/wiki/トヨタ・ハリアーハイブリッド "wikilink")
+      - [ハリアーハイブリッド（輸出名:レクサスRX400h）](../Page/トヨタ・ハリアーハイブリッド.md "wikilink")
       - [クルーガーハイブリッド（輸出名:ハイランダーハイブリッド）](../Page/トヨタ・クルーガー.md "wikilink")
       - [ダイナハイブリッド](../Page/トヨタ・ダイナ.md "wikilink")
       - [トヨエースハイブリッド](../Page/トヨタ・トヨエース.md "wikilink")
-      - [QD200ハイブリッド](https://ja.wikipedia.org/wiki/トヨタ・クイックデリバリー "wikilink")
-  - [レクサス](https://ja.wikipedia.org/wiki/レクサス "wikilink")ブランド車
+      - [QD200ハイブリッド](../Page/トヨタ・クイックデリバリー.md "wikilink")
+  - [レクサス](../Page/レクサス.md "wikilink")ブランド車
       - [LS600h / LS600hL](../Page/レクサス・LS.md "wikilink")
-      - [GS450h](https://ja.wikipedia.org/wiki/レクサス・GS "wikilink")
+      - [GS450h](../Page/レクサス・GS.md "wikilink")
       - [RX450h](../Page/レクサス・RX.md "wikilink")
       - [HS250h](https://ja.wikipedia.org/wiki/レクサス・HS "wikilink")
       - [CT200h](https://ja.wikipedia.org/wiki/レクサス・CT "wikilink")
@@ -76,7 +76,7 @@
 
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
   - [大松沢丘陵](../Page/大松沢丘陵.md "wikilink")
-  - [リチウムエナジージャパン](https://ja.wikipedia.org/wiki/リチウムエナジージャパン "wikilink") - [三菱自動車工業](../Page/三菱自動車工業.md "wikilink")と[ジーエス・ユアサコーポレーション](../Page/ジーエス・ユアサコーポレーション.md "wikilink")と[三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")が出資する自動車用大型リチウムイオンの開発・製造・販売企業
+  - [リチウムエナジージャパン](https://ja.wikipedia.org/wiki/リチウムエナジージャパン "wikilink") - [三菱自動車工業](../Page/三菱自動車工業.md "wikilink")と[ジーエス・ユアサコーポレーション](../Page/ジーエス・ユアサコーポレーション.md "wikilink")と[三菱商事](../Page/三菱商事.md "wikilink")が出資する自動車用大型リチウムイオンの開発・製造・販売企業
   - オートモーティブエナジーサプライ - [日産自動車](../Page/日産自動車.md "wikilink")と[日本電気](../Page/日本電気.md "wikilink")とNECエナジーデバイスが出資する自動車用大型リチウムイオンの開発・製造・販売企業
   - ブルーエナジー - [本田技研工業](../Page/本田技研工業.md "wikilink")とジーエス・ユアサコーポレーションが出資する自動車用大型リチウムイオンの開発・製造・販売企業
 

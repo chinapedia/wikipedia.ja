@@ -7,17 +7,17 @@
 
 ## 経歴
 
-  - [1994年](../Page/1994年.md "wikilink") 4月 [近藤金吾](https://ja.wikipedia.org/wiki/近藤金吾 "wikilink")を中心に井澤雄逸、近藤泰次、冨澤裕之で結成。
+  - [1994年](../Page/1994年.md "wikilink") 4月 [近藤金吾](../Page/近藤金吾.md "wikilink")を中心に井澤雄逸、近藤泰次、冨澤裕之で結成。
   - [1996年](../Page/1996年.md "wikilink") [10月9日](../Page/10月9日.md "wikilink") ジョン・レノンの誕生日に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりメジャーデビュー。
   - [2000年](../Page/2000年.md "wikilink") 7月 ギターの井澤雄逸が脱退。
   - [2001年](../Page/2001年.md "wikilink") 1月8日 渋谷eggsiteでのライヴより、3ピースバンドとして活動再開。
   - [2002年](../Page/2002年.md "wikilink") 5月よりドラムの冨澤が腱鞘炎のためサポートドラマー竹内良介が参加、冨澤はサンプラーを操作。
-  - [2002年](../Page/2002年.md "wikilink") 7月 同年2月14日に行われたイベント"青森NIGHT 2002" でのセッション曲「青と森」を「佐藤竹善×[坂本サトル](https://ja.wikipedia.org/wiki/坂本サトル "wikilink")×TIMESLIP-RENDEZVOUS」名義で青森限定で発売し、話題を集めた。
+  - [2002年](../Page/2002年.md "wikilink") 7月 同年2月14日に行われたイベント"青森NIGHT 2002" でのセッション曲「青と森」を「佐藤竹善×[坂本サトル](../Page/坂本サトル.md "wikilink")×TIMESLIP-RENDEZVOUS」名義で青森限定で発売し、話題を集めた。
   - [2002年](../Page/2002年.md "wikilink") 複数の女性ボーカリストを迎えたアナザープロジェクト"MI:LAGRO(ミラグロ) "始動。
   - [2003年](../Page/2003年.md "wikilink") 11月 MI:LAGROのワンマンライヴよりサポートギター小松敬一が参加。
   - [2004年](../Page/2004年.md "wikilink") 10月15日 結成10周年記念イベントに脱退していたギターの井澤がゲスト参加。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") 1月 冨澤がドラムに復帰。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") デビュー10周年を機に、オリジナルメンバーの井澤がバンドへ復帰。9月に新曲入りのベストアルバム「HAPPINESS FOR YOU」、12月にドキュメントDVD「UNDER ONE SKY」（公式サイト、ライブ会場のみで販売)をリリース。
+  - [2005年](../Page/2005年.md "wikilink") 1月 冨澤がドラムに復帰。
+  - [2006年](../Page/2006年.md "wikilink") デビュー10周年を機に、オリジナルメンバーの井澤がバンドへ復帰。9月に新曲入りのベストアルバム「HAPPINESS FOR YOU」、12月にドキュメントDVD「UNDER ONE SKY」（公式サイト、ライブ会場のみで販売)をリリース。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") 2月にオリジナルメンバーによる８年振りのアルバム『Re'TIMES』をリリース。2度の全国ツアーを行う。
   - [2009年](../Page/2009年.md "wikilink") 9月 ドラムの冨澤裕之が脱退。
   - [2009年](../Page/2009年.md "wikilink") 12月15日 バンド名を**TIMESLIP**に変える。この日のライヴよりサポートドラマー山崎悠太が参加。
@@ -50,7 +50,7 @@
 
   - 針にかかった魚が自由を求めるように (1996.10.9 TFCC-88083)
       - 1.針にかかった魚が自由を求めるように 2.四丁目カフェで会いましょう
-      - カップリングの「四丁目カフェで会いましょう」が[フジテレビ系深夜ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[3番テーブルの客](https://ja.wikipedia.org/wiki/3番テーブルの客 "wikilink")」主題歌
+      - カップリングの「四丁目カフェで会いましょう」が[フジテレビ系深夜ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[3番テーブルの客](../Page/3番テーブルの客.md "wikilink")」主題歌
   - AGGRESSIVE WORLD (1996.11.11 TFCC-88084)
       - 1.AGGRESSIVE WORLD 2.SUNDAY AFTERNOON
   - 架空の想い出 (1997.8.1 TFCC-88107)
@@ -135,7 +135,7 @@ TS-R '99LIMITED EDITION
 
 #### 参加アルバム
 
-  - [星界の紋章](../Page/星界の紋章.md "wikilink") オリジナル サウンドトラック （1999.2.21 [バップ](https://ja.wikipedia.org/wiki/バップ "wikilink") VPCG-84670）
+  - [星界の紋章](../Page/星界の紋章.md "wikilink") オリジナル サウンドトラック （1999.2.21 [バップ](../Page/バップ.md "wikilink") VPCG-84670）
       - Track 13 失われた青空
   - Gentle Guitar Dreams(2002.5.29 イーストウェストジャパン AMCM-10021)
       - Track 06 IF I NEEDED SOMEONE

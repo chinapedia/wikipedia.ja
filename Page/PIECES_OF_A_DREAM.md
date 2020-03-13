@@ -5,11 +5,11 @@
 
 ## 解説
 
-[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』にて開催された「ASAYAN超男子。オーディション」で合格、デビューが決定したCHEMISTRYのデビュー作。デビュー曲にしていきなり[オリコンシングルチャート初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を記録。その後5週にわたり同チャートTOP5に滞在し、更には発売6週目でオリコン1位を獲得。
+[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』にて開催された「ASAYAN超男子。オーディション」で合格、デビューが決定したCHEMISTRYのデビュー作。デビュー曲にしていきなり[オリコンシングルチャート初登場](../Page/オリコンチャート.md "wikilink")2位を記録。その後5週にわたり同チャートTOP5に滞在し、更には発売6週目でオリコン1位を獲得。
 
-その後も[ロングセラーを続け](https://ja.wikipedia.org/wiki/ベストセラー "wikilink")、発売15週目にて[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")達成。[2001年](../Page/2001年.md "wikilink")のオリコン年間シングルチャート第3位にチャートイン。現時点でCHEMISTRY最大のヒット曲であり、唯一のミリオンシングルである。
+その後も[ロングセラーを続け](../Page/ベストセラー.md "wikilink")、発売15週目にて[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")達成。[2001年](../Page/2001年.md "wikilink")のオリコン年間シングルチャート第3位にチャートイン。現時点でCHEMISTRY最大のヒット曲であり、唯一のミリオンシングルである。
 
-なお、[PVには](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[手話](../Page/手話.md "wikilink")が用いられている。初回限定盤は、チェンジングジャケット仕様。
+なお、[PVには](../Page/ミュージック・ビデオ.md "wikilink")[手話](../Page/手話.md "wikilink")が用いられている。初回限定盤は、チェンジングジャケット仕様。
 
 第16回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ソング・オブ・ザ・イヤー受賞。
 
@@ -22,7 +22,7 @@
       -
         [UHFアニメ](../Page/UHFアニメ.md "wikilink")『[ReLIFE](https://ja.wikipedia.org/wiki/ReLIFE "wikilink")』第11話エンディングテーマ。
 2.  **TWO**
-    （作詞：[山田のりこ](https://ja.wikipedia.org/wiki/山田のりこ "wikilink")、作曲:[原一博](../Page/原一博.md "wikilink")、編曲:[安部潤](https://ja.wikipedia.org/wiki/安部潤 "wikilink")、ヴォーカル・アレンジ：[KIRIGAYA BOBBY](https://ja.wikipedia.org/wiki/桐ケ谷俊博 "wikilink")）
+    （作詞：[山田のりこ](https://ja.wikipedia.org/wiki/山田のりこ "wikilink")、作曲:[原一博](../Page/原一博.md "wikilink")、編曲:[安部潤](../Page/安部潤.md "wikilink")、ヴォーカル・アレンジ：[KIRIGAYA BOBBY](https://ja.wikipedia.org/wiki/桐ケ谷俊博 "wikilink")）
       -
         1stアルバム『[The Way We Are](../Page/The_Way_We_Are.md "wikilink")』には収録されず、2011年3月2日発売のベストアルバム「CHEMISTRY 2001-2011」に収録された。
 3.  **PIECES OF A DREAM (OLD SCHOOL MIX)**
@@ -82,7 +82,7 @@
 </tr>
 <tr class="odd">
 <td><p>2003年04月23日</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/太鼓の達人" title="wikilink">太鼓の達人</a> ブルー』(#1)</p></td>
+<td><p>『<a href="../Page/太鼓の達人.md" title="wikilink">太鼓の達人</a> ブルー』(#1)</p></td>
 <td><p>COCX-32169</p></td>
 </tr>
 <tr class="even">

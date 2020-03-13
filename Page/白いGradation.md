@@ -32,7 +32,7 @@ CDジャケットの撮影で、カメラマンやディレクターとさまざ
 
 アルバム収録バージョンはリミックスであり、イントロのエフェクトと全体にわたってのピアノ音が消されている。
 
-  - [MAKI OHGURO BEST OF BEST〜All Singles Collection〜](https://ja.wikipedia.org/wiki/MAKI_OHGURO_BEST_OF_BEST〜All_Singles_Collection〜 "wikilink")
+  - [MAKI OHGURO BEST OF BEST〜All Singles Collection〜](../Page/MAKI_OHGURO_BEST_OF_BEST〜All_Singles_Collection〜.md "wikilink")
   - [Greatest Hits 1991-2016 〜All Singles +〜](https://ja.wikipedia.org/wiki/Greatest_Hits_1991-2016_〜All_Singles_+〜 "wikilink")
 
 Everybody,Groove\!\!
@@ -41,6 +41,6 @@ Everybody,Groove\!\!
 
 ## 関連項目
 
-  - [1994年の音楽](https://ja.wikipedia.org/wiki/1994年の音楽 "wikilink")
+  - [1994年の音楽](../Page/1994年の音楽.md "wikilink")
 
 [Category:大黒摩季の楽曲](https://ja.wikipedia.org/wiki/Category:大黒摩季の楽曲 "wikilink") [Category:大黒摩季が制作した楽曲](https://ja.wikipedia.org/wiki/Category:大黒摩季が制作した楽曲 "wikilink") [Category:1994年のシングル](https://ja.wikipedia.org/wiki/Category:1994年のシングル "wikilink") [Category:ビーイング関連楽曲](https://ja.wikipedia.org/wiki/Category:ビーイング関連楽曲 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")

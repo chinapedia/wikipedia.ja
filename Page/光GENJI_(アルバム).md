@@ -1,7 +1,7 @@
 > この記事は[GENJI \(\)](https://ja.wikipedia.org/wiki/GENJI_\(\))から翻訳されています。
 
 
-『**光GENJI**』（ひかるゲンジ）は、[光GENJI](https://ja.wikipedia.org/wiki/光GENJI "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。初回盤は[1988年](../Page/1988年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")発売、通常版は同年[1月21日](../Page/1月21日.md "wikilink")に発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。昭和63年度[オリコン](../Page/オリコン.md "wikilink")年間アルバムチャート第1位。
+『**光GENJI**』（ひかるゲンジ）は、[光GENJI](../Page/光GENJI.md "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。初回盤は[1988年](../Page/1988年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")発売、通常版は同年[1月21日](../Page/1月21日.md "wikilink")に発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。昭和63年度[オリコン](../Page/オリコン.md "wikilink")年間アルバムチャート第1位。
 
 ## 解説
 
@@ -11,7 +11,7 @@
 
 収録曲はすべて[チャゲ&飛鳥の書き下ろしによる提供曲であり](../Page/CHAGE_and_ASKA.md "wikilink")、編曲も全曲[佐藤準](../Page/佐藤準.md "wikilink")が担当、ジャニーズ事務所のタレントが作家を統一してアルバムを発表することは非常に珍しい。[飛鳥涼が語るところによると](https://ja.wikipedia.org/wiki/ASKA "wikilink")、本作の制作に当たって収録曲数を10曲となるよう発注を受けたが締め切りまでに8曲分しか完成せず、不本意ながらも「残り2曲は他の作家に依頼して欲しい」と楽曲を渡したにもかかわらず、完成したアルバムは8曲入りになっていた、とのこと。
 
-発売当時のグループは人気爆発直前であり、この後発売された作品も相次いでヒットするなど、この年はまさにグループのブームを象徴する年であった。本作も[オリコンアルバムチャートで通算](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")5週に亘り1位を獲得、[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")にも迫る大ヒットとなった。また、アイドルのアルバムとしては、当時のCD市場では驚異的な売上であり、同年のオリコン年間チャートでも1位を記録した。
+発売当時のグループは人気爆発直前であり、この後発売された作品も相次いでヒットするなど、この年はまさにグループのブームを象徴する年であった。本作も[オリコンアルバムチャートで通算](../Page/オリコンチャート.md "wikilink")5週に亘り1位を獲得、[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")にも迫る大ヒットとなった。また、アイドルのアルバムとしては、当時のCD市場では驚異的な売上であり、同年のオリコン年間チャートでも1位を記録した。
 
 なお、本作はシングル・アルバム含めて光GENJI最大のヒット作である。
 
@@ -44,7 +44,7 @@
       -
         作詞・作曲:飛鳥涼
     <!-- end list -->
-      - 雨の降る中、[バス停ですれ違った片思いの女の子への切ない心境を歌う](../Page/バス停留所.md "wikilink")。曲中の「『涙・BOY』っていう歌」とは、[1984年](../Page/1984年.md "wikilink")に発売されたチャゲ&飛鳥のアルバム『[INSIDE](https://ja.wikipedia.org/wiki/INSIDE_\(CHAGE_and_ASKAのアルバム\) "wikilink")』収録されている楽曲。「涙・BOY」の歌詞には「RAINY GIRL」というフレーズが入っているが、この曲の作詞は[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")で、作曲も飛鳥涼ではなく[CHAGEである](https://ja.wikipedia.org/wiki/Chage "wikilink")。
+      - 雨の降る中、[バス停ですれ違った片思いの女の子への切ない心境を歌う](../Page/バス停留所.md "wikilink")。曲中の「『涙・BOY』っていう歌」とは、[1984年](../Page/1984年.md "wikilink")に発売されたチャゲ&飛鳥のアルバム『[INSIDE](https://ja.wikipedia.org/wiki/INSIDE_\(CHAGE_and_ASKAのアルバム\) "wikilink")』収録されている楽曲。「涙・BOY」の歌詞には「RAINY GIRL」というフレーズが入っているが、この曲の作詞は[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")で、作曲も飛鳥涼ではなく[CHAGEである](../Page/Chage.md "wikilink")。
 5.  **[STAR LIGHT](../Page/STAR_LIGHT_\(光GENJIの曲\).md "wikilink") (LPバージョン)**
       -
         作詞:飛鳥涼、作曲:[チャゲ&飛鳥](../Page/CHAGE_and_ASKA.md "wikilink")
@@ -52,14 +52,14 @@
       - デビューシングルのアルバムバージョン。シングルバージョンよりも間奏が長く、また2番目の冒頭ではオリジナルと別の歌詞が重なって歌われていたり、この頃テレビで歌うときに追加されていたエンディングの歌詞が収録されていたりと、オリジナルシングルバージョンよりもかなり変更点が多い。
 6.  **BAD BOY**
       -
-        作詞:[澤地隆](https://ja.wikipedia.org/wiki/澤地隆 "wikilink")、作曲:[CHAGE](https://ja.wikipedia.org/wiki/Chage "wikilink")
+        作詞:[澤地隆](https://ja.wikipedia.org/wiki/澤地隆 "wikilink")、作曲:[CHAGE](../Page/Chage.md "wikilink")
     <!-- end list -->
-      - 光による楽曲。チャゲ&飛鳥のシングル「[恋人はワイン色](https://ja.wikipedia.org/wiki/恋人はワイン色 "wikilink")」のB面「あきらめのBlue Day」は同じメロディーで詞と編曲が違う作品。[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")ではなく、アルバム制作時のアイディアにより同時期に発表したもの。
+      - 光による楽曲。チャゲ&飛鳥のシングル「[恋人はワイン色](https://ja.wikipedia.org/wiki/恋人はワイン色 "wikilink")」のB面「あきらめのBlue Day」は同じメロディーで詞と編曲が違う作品。[セルフカバー](../Page/セルフカバー.md "wikilink")ではなく、アルバム制作時のアイディアにより同時期に発表したもの。
 7.  **ほのかに甘くHOLIDAY**
       -
         作詞:澤地隆、作曲:CHAGE
     <!-- end list -->
-      - 主演ドラマ「[あぶない少年](../Page/あぶない少年.md "wikilink")」のED主題歌。アルバム発売前に先行して披露されていた。同ドラマEDでは[ローラースケート](https://ja.wikipedia.org/wiki/ローラースケート "wikilink")の練習をするメンバーの姿をバックに流れた。
+      - 主演ドラマ「[あぶない少年](../Page/あぶない少年.md "wikilink")」のED主題歌。アルバム発売前に先行して披露されていた。同ドラマEDでは[ローラースケート](../Page/ローラースケート.md "wikilink")の練習をするメンバーの姿をバックに流れた。
 8.  **[Graduation](../Page/ガラスの十代.md "wikilink")**
       -
         作詞:飛鳥涼、作曲:CHAGE

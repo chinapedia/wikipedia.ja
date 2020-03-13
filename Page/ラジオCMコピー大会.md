@@ -9,11 +9,11 @@
 
   - [天野祐吉](../Page/天野祐吉.md "wikilink")（コラムニスト・「広告批評」主宰）
   - [川崎徹](../Page/川崎徹.md "wikilink")（CMディレクター）
-  - [伊藤アキラ](https://ja.wikipedia.org/wiki/伊藤アキラ "wikilink")（作詞家）
-  - [鴻上尚史](https://ja.wikipedia.org/wiki/鴻上尚史 "wikilink")（演出家）
+  - [伊藤アキラ](../Page/伊藤アキラ.md "wikilink")（作詞家）
+  - [鴻上尚史](../Page/鴻上尚史.md "wikilink")（演出家）
       - かつては[糸井重里](../Page/糸井重里.md "wikilink")も審査委員であったが、2005年大会を最後に鴻上に審査委員を譲って審査委員を降りた。
 
-この他に最終選考会（公開生放送→公開録音）の時はゲスト審査委員（当初は女優やタレントを呼んでいた）と番組司会者である文化放送アナウンサー（2005年と2006年は[野村邦丸](https://ja.wikipedia.org/wiki/野村邦丸 "wikilink")と[水谷加奈](https://ja.wikipedia.org/wiki/水谷加奈 "wikilink")、2004年以前は[吉田照美](https://ja.wikipedia.org/wiki/吉田照美 "wikilink")と[小俣雅子](https://ja.wikipedia.org/wiki/小俣雅子 "wikilink")が15年以上司会をしていた。）によってグランプリや各賞（各審査委員の個人賞とリスナー大賞）を決めることになっている（1994年頃のみ[寺島尚正](https://ja.wikipedia.org/wiki/寺島尚正 "wikilink")と[山田美保子](https://ja.wikipedia.org/wiki/山田美保子 "wikilink")の司会で最終選考会の部分は公開録音で放送していたがリスナー大賞の部分は生放送で行っていた）。
+この他に最終選考会（公開生放送→公開録音）の時はゲスト審査委員（当初は女優やタレントを呼んでいた）と番組司会者である文化放送アナウンサー（2005年と2006年は[野村邦丸](../Page/野村邦丸.md "wikilink")と[水谷加奈](../Page/水谷加奈.md "wikilink")、2004年以前は[吉田照美](../Page/吉田照美.md "wikilink")と[小俣雅子](../Page/小俣雅子.md "wikilink")が15年以上司会をしていた。）によってグランプリや各賞（各審査委員の個人賞とリスナー大賞）を決めることになっている（1994年頃のみ[寺島尚正](../Page/寺島尚正.md "wikilink")と[山田美保子](../Page/山田美保子.md "wikilink")の司会で最終選考会の部分は公開録音で放送していたがリスナー大賞の部分は生放送で行っていた）。
 
 ## 課題作品の20秒キャッチコピーの応募方法
 
@@ -21,7 +21,7 @@
 
 ## 最終選考会の会場
 
-第1回より数年間は文化放送の旧社屋（新宿区若葉、JR四ッ谷駅に近いため四ツ谷の文化放送と呼ばれていた。）の第5スタジオで行なわれていたが、その後[渋谷](../Page/渋谷.md "wikilink")の[BEAMホール](https://ja.wikipedia.org/wiki/BEAMホール "wikilink")（宇田川町）→[東京ガス](../Page/東京ガス.md "wikilink")（協賛企業の1つ）新宿ショールームを経て2005年からは[原宿クエストホール](https://ja.wikipedia.org/wiki/原宿クエストホール "wikilink")（渋谷区神宮前）で行なわれている。最終選考会の際は[青二プロダクション](https://ja.wikipedia.org/wiki/青二プロダクション "wikilink")の所属声優による生演技で作品が紹介される（皆勤賞は第1回から毎年参加している[増山江威子](https://ja.wikipedia.org/wiki/増山江威子 "wikilink")のみで男性声優では[坂口哲夫](https://ja.wikipedia.org/wiki/坂口哲夫 "wikilink")・[銀河万丈](../Page/銀河万丈.md "wikilink")・[青野武](../Page/青野武.md "wikilink")らが最多出演となっている）。新人や若手の声優はその年のスケジュールの都合により出席している年と欠席の年とに分かれている。
+第1回より数年間は文化放送の旧社屋（新宿区若葉、JR四ッ谷駅に近いため四ツ谷の文化放送と呼ばれていた。）の第5スタジオで行なわれていたが、その後[渋谷](../Page/渋谷.md "wikilink")の[BEAMホール](https://ja.wikipedia.org/wiki/BEAMホール "wikilink")（宇田川町）→[東京ガス](../Page/東京ガス.md "wikilink")（協賛企業の1つ）新宿ショールームを経て2005年からは[原宿クエストホール](https://ja.wikipedia.org/wiki/原宿クエストホール "wikilink")（渋谷区神宮前）で行なわれている。最終選考会の際は[青二プロダクション](../Page/青二プロダクション.md "wikilink")の所属声優による生演技で作品が紹介される（皆勤賞は第1回から毎年参加している[増山江威子](../Page/増山江威子.md "wikilink")のみで男性声優では[坂口哲夫](../Page/坂口哲夫.md "wikilink")・[銀河万丈](../Page/銀河万丈.md "wikilink")・[青野武](../Page/青野武.md "wikilink")らが最多出演となっている）。新人や若手の声優はその年のスケジュールの都合により出席している年と欠席の年とに分かれている。
 
 ## 各賞
 

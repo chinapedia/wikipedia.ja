@@ -1,7 +1,7 @@
 > この記事は[!base](https://ja.wikipedia.org/wiki/!base)から翻訳されています。
 
 
-**爆劇\!新base隊**（ばくげき しんベースたい）とは、[2002年](../Page/2002年.md "wikilink")[6月](../Page/6月.md "wikilink")から[毎日放送](../Page/毎日放送.md "wikilink")で深夜に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。若手[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")芸人と[吉本新喜劇](https://ja.wikipedia.org/wiki/吉本新喜劇 "wikilink")メンバーによる[新喜劇](https://ja.wikipedia.org/wiki/新喜劇 "wikilink")。
+**爆劇\!新base隊**（ばくげき しんベースたい）とは、[2002年](../Page/2002年.md "wikilink")[6月](../Page/6月.md "wikilink")から[毎日放送](../Page/毎日放送.md "wikilink")で深夜に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。若手[baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")芸人と[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")メンバーによる[新喜劇](https://ja.wikipedia.org/wiki/新喜劇 "wikilink")。
 
 ## 概要
 
@@ -15,9 +15,9 @@
       - [ロザン](../Page/ロザン.md "wikilink")（第1話～第6話、第8話～第10話、第12話～第16話）
       - [ランディーズ](../Page/ランディーズ.md "wikilink")（第1話～第5話、第7話、第8話、第10話、第11話、第13話、第14話）
       - [キングコング](https://ja.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")（第1話～第4話、第6話、第7話、第11話、第16話）
-      - [ビッキーズ](https://ja.wikipedia.org/wiki/ビッキーズ "wikilink")（第1話～第17話）
+      - [ビッキーズ](../Page/ビッキーズ.md "wikilink")（第1話～第17話）
       - [チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")（第9話～第12話、第14話～第16話）
-      - [レギュラー](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")（第1話）
+      - [レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")（第1話）
       - [青空](../Page/青空_\(お笑い\).md "wikilink")（第8話）
       - [笑い飯](../Page/笑い飯.md "wikilink")（第17話）
       - [麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")（第17話）
@@ -26,20 +26,20 @@
 <!-- end list -->
 
   - YSJ
-      - [西科仁](https://ja.wikipedia.org/wiki/西科仁 "wikilink")
-      - [平山昌雄](https://ja.wikipedia.org/wiki/平山昌雄 "wikilink")
-      - [宇都宮まき](https://ja.wikipedia.org/wiki/宇都宮まき "wikilink")
+      - [西科仁](../Page/西科仁.md "wikilink")
+      - [平山昌雄](../Page/平山昌雄.md "wikilink")
+      - [宇都宮まき](../Page/宇都宮まき.md "wikilink")
       - [西田あつし](https://ja.wikipedia.org/wiki/西田あつし "wikilink")
-      - [レイザーラモン](https://ja.wikipedia.org/wiki/レイザーラモン "wikilink")
+      - [レイザーラモン](../Page/レイザーラモン.md "wikilink")
       - [今別府直之](../Page/今別府直之.md "wikilink")
       - [梶本愛](https://ja.wikipedia.org/wiki/梶本愛 "wikilink")
-      - [国崎恵美](https://ja.wikipedia.org/wiki/国崎恵美 "wikilink")
-      - [五十嵐サキ](https://ja.wikipedia.org/wiki/五十嵐サキ "wikilink")
+      - [国崎恵美](../Page/国崎恵美.md "wikilink")
+      - [五十嵐サキ](../Page/五十嵐サキ.md "wikilink")
 
 ## ゲスト
 
   - [未知やすえ](https://ja.wikipedia.org/wiki/未知やすえ "wikilink")
-  - [吉田ヒロ](https://ja.wikipedia.org/wiki/吉田ヒロ "wikilink")
+  - [吉田ヒロ](../Page/吉田ヒロ.md "wikilink")
 
 他
 
@@ -407,22 +407,22 @@ YSJ
 ## スタッフ
 
   - ナレーション：[八木早希](https://ja.wikipedia.org/wiki/八木早希 "wikilink")（毎日放送アナウンサー）
-  - 作：[オパヤン](https://ja.wikipedia.org/wiki/オパヤン "wikilink")
+  - 作：[オパヤン](../Page/オパヤン.md "wikilink")
   - ブレーン：[木村和彦](https://ja.wikipedia.org/wiki/木村和彦 "wikilink")、[藤野弘彦](https://ja.wikipedia.org/wiki/藤野弘彦 "wikilink")
   - 演出：斉藤宏明
   - CG：西川育世
   - ディレクター：谷口仁則、近藤晴彦
   - AP：片岡真紀（吉本興業）
   - プロデューサー：[村田元](../Page/村田元.md "wikilink")（MBS）、新田敦生・鈴木悌之（吉本興業）
-  - チーフプロデューサー：[高垣伸博](https://ja.wikipedia.org/wiki/高垣伸博 "wikilink")・[三村景一](https://ja.wikipedia.org/wiki/三村景一 "wikilink")（MBS）
-  - 技術協力：[トラッシュ](https://ja.wikipedia.org/wiki/トラッシュ_\(映像プロダクション\) "wikilink")、[アーチェリープロダクション](https://ja.wikipedia.org/wiki/アーチェリープロダクション "wikilink")、[アンカー](https://ja.wikipedia.org/wiki/アンカー_\(ポストプロダクション\) "wikilink")、[戯音工房](https://ja.wikipedia.org/wiki/戯音工房 "wikilink")
-  - 美術協力：すくらんぶる、[つむら工芸](https://ja.wikipedia.org/wiki/つむら工芸 "wikilink")、[大槻衣裳](https://ja.wikipedia.org/wiki/大槻衣裳 "wikilink")、浪原靴店、MORE
-  - 制作協力：[アイ・ティ・エス](https://ja.wikipedia.org/wiki/アイ・ティ・エス "wikilink")
+  - チーフプロデューサー：[高垣伸博](https://ja.wikipedia.org/wiki/高垣伸博 "wikilink")・[三村景一](../Page/三村景一.md "wikilink")（MBS）
+  - 技術協力：[トラッシュ](https://ja.wikipedia.org/wiki/トラッシュ_\(映像プロダクション\) "wikilink")、[アーチェリープロダクション](../Page/アーチェリープロダクション.md "wikilink")、[アンカー](https://ja.wikipedia.org/wiki/アンカー_\(ポストプロダクション\) "wikilink")、[戯音工房](../Page/戯音工房.md "wikilink")
+  - 美術協力：すくらんぶる、[つむら工芸](../Page/つむら工芸.md "wikilink")、[大槻衣裳](https://ja.wikipedia.org/wiki/大槻衣裳 "wikilink")、浪原靴店、MORE
+  - 制作協力：[アイ・ティ・エス](../Page/アイ・ティ・エス.md "wikilink")
   - 製作著作：毎日放送、[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")
 
 ## 関連項目
 
-  - [新喜劇フー\!\!](https://ja.wikipedia.org/wiki/新喜劇フー!! "wikilink")
+  - [新喜劇フー\!\!](../Page/新喜劇フー!!.md "wikilink")
   - [新喜劇ボンバー\!\!](../Page/新喜劇ボンバー!!.md "wikilink")
   - [新喜劇すー](https://ja.wikipedia.org/wiki/新喜劇すー "wikilink")
 

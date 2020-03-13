@@ -1,9 +1,9 @@
 > この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
 
 
-**JR東日本コンサルタンツ株式会社**（ジェイアールひがしにほんコンサルタンツ）は、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[西品川](../Page/西品川.md "wikilink")に本社を置く[建設コンサルタント](https://ja.wikipedia.org/wiki/建設コンサルタント "wikilink")会社で、鉄道技術に関するコンサルタントを主体としている。
+**JR東日本コンサルタンツ株式会社**（ジェイアールひがしにほんコンサルタンツ）は、[東京都](../Page/東京都.md "wikilink")[品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[西品川](../Page/西品川.md "wikilink")に本社を置く[建設コンサルタント](../Page/建設コンサルタント.md "wikilink")会社で、鉄道技術に関するコンサルタントを主体としている。
 
-[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の完全[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")（[連結子会社](https://ja.wikipedia.org/wiki/連結子会社 "wikilink")）。
+[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の完全[子会社](../Page/子会社.md "wikilink")（[連結子会社](../Page/連結子会社.md "wikilink")）。
 
 なお、同じくJR東日本グループで、一般社団法人海外鉄道技術協力協会を前身とし、海外での鉄道の建設・運営等のコンサルタントを主体とする**日本コンサルタンツ株式会社**とは異なる。
 

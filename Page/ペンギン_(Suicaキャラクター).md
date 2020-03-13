@@ -17,13 +17,13 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
 
 ## カード販売
 
-[2001年](../Page/2001年.md "wikilink")[11月](../Page/11月.md "wikilink")に限定10万枚で発売された「Suicaデビュー記念Suicaイオカード」にこのペンギンが描かれて人気に火がつき、このカードが[ネットオークション等で一時](https://ja.wikipedia.org/wiki/インターネットオークション "wikilink")1万円を超える価格で取引されることもあった。翌[2002年](../Page/2002年.md "wikilink")（平成14年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の[東京モノレール](../Page/東京モノレール.md "wikilink")「導入記念モノレールSuicaカード」、[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の「[りんかい線](https://ja.wikipedia.org/wiki/東京臨海高速鉄道りんかい線 "wikilink")[相互乗り入れ記念Suicaイオカード](../Page/直通運転.md "wikilink")」、[東京臨海高速鉄道](../Page/東京臨海高速鉄道.md "wikilink")「りんかい線全線開通記念りんかいSuicaカード」、東京モノレール「Suicaネットワーク拡大記念モノレールSuicaカード」がいずれもこのペンギンをモチーフとしたデザインであったこと、発行枚数が1万枚と少なかったことから、[マニア](../Page/マニア.md "wikilink")や価格高騰を狙った[転売](https://ja.wikipedia.org/wiki/転売 "wikilink")目的の人間が殺到、発売前日から各駅に徹夜の行列ができるなどの事態となった。
+[2001年](../Page/2001年.md "wikilink")[11月](../Page/11月.md "wikilink")に限定10万枚で発売された「Suicaデビュー記念Suicaイオカード」にこのペンギンが描かれて人気に火がつき、このカードが[ネットオークション等で一時](../Page/インターネットオークション.md "wikilink")1万円を超える価格で取引されることもあった。翌[2002年](../Page/2002年.md "wikilink")（平成14年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の[東京モノレール](../Page/東京モノレール.md "wikilink")「導入記念モノレールSuicaカード」、[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の「[りんかい線](https://ja.wikipedia.org/wiki/東京臨海高速鉄道りんかい線 "wikilink")[相互乗り入れ記念Suicaイオカード](../Page/直通運転.md "wikilink")」、[東京臨海高速鉄道](../Page/東京臨海高速鉄道.md "wikilink")「りんかい線全線開通記念りんかいSuicaカード」、東京モノレール「Suicaネットワーク拡大記念モノレールSuicaカード」がいずれもこのペンギンをモチーフとしたデザインであったこと、発行枚数が1万枚と少なかったことから、[マニア](../Page/マニア.md "wikilink")や価格高騰を狙った[転売](https://ja.wikipedia.org/wiki/転売 "wikilink")目的の人間が殺到、発売前日から各駅に徹夜の行列ができるなどの事態となった。
 
 [2003年](../Page/2003年.md "wikilink")（平成15年）[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")の[日本航空](https://ja.wikipedia.org/wiki/日本航空インターナショナル "wikilink")（JAL）・[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）・東京モノレール提携記念Suicaイオカードは、JAL・ANA国内線機内でのみの各5,000枚限定販売とされ、これのみを目当てに[航空機](../Page/航空機.md "wikilink")に搭乗するという現象がみられた。
 
 その後、2003年[6月](../Page/6月.md "wikilink")から発行された一般販売用の[電子マネー](../Page/電子マネー.md "wikilink")対応Suicaからはペンギンが本採用され、以後発売された記念Suicaも発売枚数が原則2万枚に引き上げられたこともあって、ペンギンカード目当てに窓口に殺到するという当初のような混乱は減少した。
 
-[2004年](../Page/2004年.md "wikilink")（平成16年）[8月](../Page/8月.md "wikilink")には、Suica・[ICOCA](../Page/ICOCA.md "wikilink")相互利用記念として、ペンギンとICOCAの[マスコット](../Page/マスコット.md "wikilink")キャラクター、[カモノハシのイコちゃん](../Page/カモノハシのイコちゃん.md "wikilink")が[電車ごっこ](https://ja.wikipedia.org/wiki/電車ごっこ "wikilink")をしている[イラスト入りのカードが発売された](../Page/イラストレーション.md "wikilink")。
+[2004年](../Page/2004年.md "wikilink")（平成16年）[8月](../Page/8月.md "wikilink")には、Suica・[ICOCA](../Page/ICOCA.md "wikilink")相互利用記念として、ペンギンとICOCAの[マスコット](../Page/マスコット.md "wikilink")キャラクター、[カモノハシのイコちゃん](../Page/カモノハシのイコちゃん.md "wikilink")が[電車ごっこ](../Page/電車ごっこ.md "wikilink")をしている[イラスト入りのカードが発売された](../Page/イラストレーション.md "wikilink")。
 
 [2007年](../Page/2007年.md "wikilink")（平成19年）[3月18日](../Page/3月18日.md "wikilink")に[PASMO](../Page/PASMO.md "wikilink")のサービスと[首都圏ICカード相互利用サービス](../Page/首都圏ICカード相互利用サービス.md "wikilink")の開始記念として、ペンギンとPASMOの[マスコットキャラクター](https://ja.wikipedia.org/wiki/マスコットキャラクター "wikilink")の[ロボットが手をつないで空に浮かんでいるイラスト入りのカードが発売された](https://ja.wikipedia.org/wiki/ロボット_\(PASMO\) "wikilink")。またこのカードは記名カードや[定期券にすることもできる](../Page/定期乗車券.md "wikilink")。
 
@@ -41,7 +41,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
   - 2004年8月1日 - 5万枚 【JR西日本】ICOCA・Suica相互利用記念ICOCAカード
   - 2004年[10月16日](../Page/10月16日.md "wikilink") - 2万枚 【JR東日本】グリーン車Suicaシステム登場記念Suicaイオカード
   - 2004年[11月18日](../Page/11月18日.md "wikilink") - 2万枚 【JR東日本】1,000万枚突破記念Suicaイオカード
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月27日](../Page/3月27日.md "wikilink") - 2万枚 【JR東日本】楽天イーグルス応援Suicaイオカード
+  - [2005年](../Page/2005年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink") - 2万枚 【JR東日本】楽天イーグルス応援Suicaイオカード
   - [2007年](../Page/2007年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink") - ?枚 【JR東日本】「Suicaで遊ぼうTYO」 TYOオリジナルSuicaカード（パック商品）
   - 2007年[3月18日](../Page/3月18日.md "wikilink") - 10万枚 【JR東日本】Suica・PASMO相互利用記念Suicaカード
   - 2007年3月18日 - 11万枚 【PASMO事業者】PASMOデビュー・Suica相互利用開始記念カード
@@ -81,7 +81,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
   - 「Suica1000万枚&3周年 ありがとうキャンペーン」
     2004年11月 - ペンギンメモパッド
   - 「新生活をSuicaで。」キャンペーン
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月 - 【応募シール】 ペンギン置時計、ペンギンランチボックス、ペンギン文具セット
+    [2005年](../Page/2005年.md "wikilink")3月 - 【応募シール】 ペンギン置時計、ペンギンランチボックス、ペンギン文具セット
   - 「Suica とおでかけ。」キャンペーン
     2005年6月 - 【応募シール】 ペンギン温泉セット、ペンギンレジャーセット、ペンギントラベルセット、ペンギンボールペン
   - 「[駅ナカ](../Page/駅ナカ.md "wikilink")限定\!Suica と暮らそう。」キャンペーン
@@ -103,7 +103,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
   - SuiPo登録促進キャンペーン
     2007年4月 - 【SUIPOユーザー登録で自動応募】 ペンギンマグカップ、ペンギンパスケース
 
-これら販促用ペンギングッズが好評を博しているため、2005年7月より、[ストラップ](../Page/ストラップ.md "wikilink")・[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")・[ノート](https://ja.wikipedia.org/wiki/ノート "wikilink")・[シール](https://ja.wikipedia.org/wiki/シール "wikilink")などのキャラクターグッズを「ペンギン百貨」と銘打って、[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")内の駅のNEWDAYS・[キヨスク](../Page/キヨスク.md "wikilink")を皮切りに発売を開始している\[7\]。細部のバリエーションも豊富で、[マグカップ](../Page/マグカップ.md "wikilink")では白と黒の2種類が発売され、シールではスポーツ、ビジネス等ジャンル毎の種類が発売されている。現在では仙台・新潟地区での販売も行われている。2009年10月にはJR東日本が親会社である[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")・[ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")仕様のぬいぐるみが同クラブのグッズショップで発売された。全国区では、JR東日本の子会社である[オレンジページ](../Page/オレンジページ.md "wikilink")から『ペンギンダイアリー』として毎年発売しており、[宝島社](../Page/宝島社.md "wikilink")からもSuicaのペンギンを題材とした付録がメインの書籍も定期的に刊行されている。
+これら販促用ペンギングッズが好評を博しているため、2005年7月より、[ストラップ](../Page/ストラップ.md "wikilink")・[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")・[ノート](https://ja.wikipedia.org/wiki/ノート "wikilink")・[シール](../Page/シール.md "wikilink")などのキャラクターグッズを「ペンギン百貨」と銘打って、[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")内の駅のNEWDAYS・[キヨスク](../Page/キヨスク.md "wikilink")を皮切りに発売を開始している\[7\]。細部のバリエーションも豊富で、[マグカップ](../Page/マグカップ.md "wikilink")では白と黒の2種類が発売され、シールではスポーツ、ビジネス等ジャンル毎の種類が発売されている。現在では仙台・新潟地区での販売も行われている。2009年10月にはJR東日本が親会社である[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")・[ジェフユナイテッド市原・千葉](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")仕様のぬいぐるみが同クラブのグッズショップで発売された。全国区では、JR東日本の子会社である[オレンジページ](../Page/オレンジページ.md "wikilink")から『ペンギンダイアリー』として毎年発売しており、[宝島社](../Page/宝島社.md "wikilink")からもSuicaのペンギンを題材とした付録がメインの書籍も定期的に刊行されている。
 
 商品、値段については、[山手線内で「Suica ペンギングッズ」を販売開始\!\!](https://web.archive.org/web/20070426075056/http://www.ej-kiosk.jregroup.ne.jp/cgi-bin/disp.cgi?frame=3&file=shops%2Fpenguin.html) のページ または「Suicaのペンギングッズご案内サイト」（下記の外部リンク）を参照されたい。
 
@@ -125,7 +125,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
 
 #### 2005年
 
-[松任谷由実](../Page/松任谷由実.md "wikilink")の『やさしさに包まれたなら』をバックに、ペンギンのぬいぐるみがコミカルな動きでイメージタレント・[西原亜希](https://ja.wikipedia.org/wiki/西原亜希 "wikilink")にコンビニで[魚肉ソーセージをねだる](../Page/ソーセージ.md "wikilink")**Suicaと私**篇、失恋を癒すため大宮駅の駅ナカ施設「[エキュート](https://ja.wikipedia.org/wiki/エキュート "wikilink")[大宮](https://ja.wikipedia.org/wiki/大宮駅_\(埼玉県\) "wikilink")」で[ケーキ](../Page/ケーキ.md "wikilink")を買い[湘南新宿ライン](https://ja.wikipedia.org/wiki/湘南新宿ライン "wikilink")に乗り海に出かける**片思い**篇などのテレビコマーシャル放映が開始される。
+[松任谷由実](../Page/松任谷由実.md "wikilink")の『やさしさに包まれたなら』をバックに、ペンギンのぬいぐるみがコミカルな動きでイメージタレント・[西原亜希](https://ja.wikipedia.org/wiki/西原亜希 "wikilink")にコンビニで[魚肉ソーセージをねだる](../Page/ソーセージ.md "wikilink")**Suicaと私**篇、失恋を癒すため大宮駅の駅ナカ施設「[エキュート](../Page/エキュート.md "wikilink")[大宮](https://ja.wikipedia.org/wiki/大宮駅_\(埼玉県\) "wikilink")」で[ケーキ](../Page/ケーキ.md "wikilink")を買い[湘南新宿ライン](https://ja.wikipedia.org/wiki/湘南新宿ライン "wikilink")に乗り海に出かける**片思い**篇などのテレビコマーシャル放映が開始される。
 
 #### 2006年
 
@@ -152,7 +152,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
   - PASMOの相互利用開始を告知するコマーシャルがスタート。
       - 列をなした5匹のペンギンが、「Suicaはここまでになりました」とおじぎをする**ありがとう**篇が放映。
       - ペンギンがプラカードをめくりながら、私鉄も地下鉄もバスも「いつものSuicaで」使えることを伝える**いつものSuica**篇が放映。
-      - 同じくペンギンが、JR沿線外の観光地（[六本木](../Page/六本木.md "wikilink")、[自由が丘](https://ja.wikipedia.org/wiki/自由が丘 "wikilink")、[浅草](../Page/浅草.md "wikilink")、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")等）が表記されたプラカードをめくりながら、西原亜希が「こんにちは」と読み上げる**こんにちは**篇が放映。
+      - 同じくペンギンが、JR沿線外の観光地（[六本木](../Page/六本木.md "wikilink")、[自由が丘](../Page/自由が丘.md "wikilink")、[浅草](../Page/浅草.md "wikilink")、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")等）が表記されたプラカードをめくりながら、西原亜希が「こんにちは」と読み上げる**こんにちは**篇が放映。
       - いずれの3つもモバイルSuicaのコマーシャルではないため、イメージソングは『やさしさに包まれたなら』が再び使用されている。
   - [TOKYO STATION CITYのテレビコマーシャル](https://ja.wikipedia.org/wiki/東京駅 "wikilink")**ミュージカル**篇に、[東北新幹線](https://ja.wikipedia.org/wiki/東北新幹線 "wikilink")で上京してきた女の子（[小林涼子](../Page/小林涼子.md "wikilink")）を出迎える役として登場。Suicaとは直接関係のないコマーシャルへの出演は初めて。
   - ペンギンが携帯電話を担ぎ[エアギター](https://ja.wikipedia.org/wiki/エアギター "wikilink")プレイを行うモバイルSuicaの**ケータイ Rock\!**篇コマーシャルがオンエア。モバイルSuicaのPC用公式サイトから、コマーシャルの1シーンを携帯電話の待ち受け画像にできるキャンペーンも展開された。エアギターの世界チャンピオンである[ダイノジ](../Page/ダイノジ.md "wikilink")大地洋輔の動きを読み込み、そのデータをCGのペンギンに付けて動かしている。

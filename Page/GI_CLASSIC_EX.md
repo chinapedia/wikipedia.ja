@@ -20,8 +20,8 @@
   - [GI CLASSIC](../Page/GI_CLASSIC.md "wikilink")
   - [GI CLASSIC WINDS](../Page/GI_CLASSIC_WINDS.md "wikilink")
   - [GI LEADING SIRE](../Page/GI_LEADING_SIRE.md "wikilink")
-  - [GI WINNING SIRE](https://ja.wikipedia.org/wiki/GI_WINNING_SIRE "wikilink")
-  - [GI TURFWILD](https://ja.wikipedia.org/wiki/GI_TURFWILD "wikilink")
+  - [GI WINNING SIRE](../Page/GI_WINNING_SIRE.md "wikilink")
+  - [GI TURFWILD](../Page/GI_TURFWILD.md "wikilink")
 
 ## 公式サイト
 

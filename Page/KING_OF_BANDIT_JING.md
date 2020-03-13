@@ -1,7 +1,7 @@
 > この記事は[KING OF BANDIT JING](https://ja.wikipedia.org/wiki/KING_OF_BANDIT_JING)から翻訳されています。
 
 
-『**KING OF BANDIT JING**』（キング・オブ・バンディット・ジン）は、[熊倉裕一](../Page/熊倉裕一.md "wikilink")が[コミックボンボン](../Page/コミックボンボン.md "wikilink")で連載していた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『**[王ドロボウJING](../Page/王ドロボウJING.md "wikilink")**』の続編にあたり、[月刊マガジンZ](../Page/月刊マガジンZ.md "wikilink")に[1999年](../Page/1999年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月号まで連載（現在休載・再開未定）。単行本が現在7巻まで発行。
+『**KING OF BANDIT JING**』（キング・オブ・バンディット・ジン）は、[熊倉裕一](../Page/熊倉裕一.md "wikilink")が[コミックボンボン](../Page/コミックボンボン.md "wikilink")で連載していた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『**[王ドロボウJING](../Page/王ドロボウJING.md "wikilink")**』の続編にあたり、[月刊マガジンZ](../Page/月刊マガジンZ.md "wikilink")に[1999年](../Page/1999年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")7月号まで連載（現在休載・再開未定）。単行本が現在7巻まで発行。
 
 ## 概要
 
@@ -24,7 +24,7 @@
 
 [1999年](../Page/1999年.md "wikilink")8月号から9月号にかけて掲載。単行本第1巻に収録。前編・後編の全2話。前作『王ドロボウJING』第1話冒頭でジンが持っていたクリスタルを入手するまでを描く。
 
-[電波](../Page/電波.md "wikilink")[通信](../Page/通信.md "wikilink")に重要な[素材](https://ja.wikipedia.org/wiki/素材 "wikilink")となっている[鉱石](../Page/鉱石.md "wikilink")が採掘される街、**鉱石城市ツァリーヌ**。財宝を探し求めるジンは手始めに亡き支配者**キュンメル**の遺品である「液晶卵」を盗み出したことから、キュンメル配下の組織**タワーリシチ**から追われることになる。ジンはツァリーヌの領主で城に住む三つ目の少年**オルゾ**宛の手紙を届けにやってきた郵便屋・**ポスティーノ**とともに城を目指すが、行く手には[棺](https://ja.wikipedia.org/wiki/棺 "wikilink")から目を覚ましたキュンメルが立ちふさがった。
+[電波](../Page/電波.md "wikilink")[通信](../Page/通信.md "wikilink")に重要な[素材](https://ja.wikipedia.org/wiki/素材 "wikilink")となっている[鉱石](../Page/鉱石.md "wikilink")が採掘される街、**鉱石城市ツァリーヌ**。財宝を探し求めるジンは手始めに亡き支配者**キュンメル**の遺品である「液晶卵」を盗み出したことから、キュンメル配下の組織**タワーリシチ**から追われることになる。ジンはツァリーヌの領主で城に住む三つ目の少年**オルゾ**宛の手紙を届けにやってきた郵便屋・**ポスティーノ**とともに城を目指すが、行く手には[棺](../Page/棺.md "wikilink")から目を覚ましたキュンメルが立ちふさがった。
 
   - スレッジハンマー(Sledge Hammer)
     一生を地下で鉱石を掘って過ごす三つ目の種族。個人の名前も無い。

@@ -1,7 +1,7 @@
 > この記事は[RAVE \(\)](https://ja.wikipedia.org/wiki/RAVE_\(\))から翻訳されています。
 
 
-『**RAVE**』（レイヴ）は、[真島ヒロ](https://ja.wikipedia.org/wiki/真島ヒロ "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[冒険活劇](https://ja.wikipedia.org/wiki/冒険活劇 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）の[1999年](../Page/1999年.md "wikilink")32号から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")35号まで連載された。全35巻が発売され、漫画では「THE GROOVE ADVENTURE RAVE」「RAVE \[レイヴ\]」、テレビアニメでは「GROOVE ADVENTURE RAVE」というロゴ表記がされており、文字タイトルでもそのように扱われる場合がある。
+『**RAVE**』（レイヴ）は、[真島ヒロ](../Page/真島ヒロ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[冒険活劇](https://ja.wikipedia.org/wiki/冒険活劇 "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）の[1999年](../Page/1999年.md "wikilink")32号から[2005年](../Page/2005年.md "wikilink")35号まで連載された。全35巻が発売され、漫画では「THE GROOVE ADVENTURE RAVE」「RAVE \[レイヴ\]」、テレビアニメでは「GROOVE ADVENTURE RAVE」というロゴ表記がされており、文字タイトルでもそのように扱われる場合がある。
 
 ## 概要
 
@@ -90,7 +90,7 @@
       - 第8の剣 太陽の剣「ミリオンサンズ」
         光の属性を持っていて、闇属性に対して有効な攻撃が可能。剣そのものを強く発光させることが可能なので、目くらましとして逃走手段にも使える。
       - 第9の剣 羅刹（らせつ）の剣「サクリファー」
-        闘争心以外のすべての感情を封じ、文字通り"[羅刹](https://ja.wikipedia.org/wiki/羅刹天 "wikilink")"の如き戦闘力を発揮する剣。そのため使用者の自我を蝕み、最終的には命まで奪ってしまう。また、強い殺戮衝動に駆られることで、敵味方の区別もつかなくなっていく。テン・コマンドメンツは元々シバのために作られた剣だったため、ハルはこの剣を制御できず体を侵食されてしまい、我に返った瞬間、後遺症で一時的に剣を握れなくなってしまった。「シバの」テン・コマンドメンツを使ったハルの能力は、ここで限界となった。仲間のプルーさえ殺そうとしたこの剣を、ハルは封印して二度と使わないことを誓った。
+        闘争心以外のすべての感情を封じ、文字通り"[羅刹](../Page/羅刹天.md "wikilink")"の如き戦闘力を発揮する剣。そのため使用者の自我を蝕み、最終的には命まで奪ってしまう。また、強い殺戮衝動に駆られることで、敵味方の区別もつかなくなっていく。テン・コマンドメンツは元々シバのために作られた剣だったため、ハルはこの剣を制御できず体を侵食されてしまい、我に返った瞬間、後遺症で一時的に剣を握れなくなってしまった。「シバの」テン・コマンドメンツを使ったハルの能力は、ここで限界となった。仲間のプルーさえ殺そうとしたこの剣を、ハルは封印して二度と使わないことを誓った。
         なお、デカログスを用いてルシアもこの剣を使用したことがあり、ルシア自身とこの剣は親和性が高かったのかこちらは完全に制御できていた(シュダ曰く「蛇の道は蛇」)。
       - ハルの第10の剣 聖剣「レイヴェルト」
         邪悪なものを打倒す破魔の力を持つテン・コマンドメンツ最強の剣。ハルが使うべき第10の剣が存在しないことを知ったムジカがTCMの鋼塊（インゴッド）を銀術の力を最大限使い、「絆の銀の雫」を加え命がけで創り上げた代物。レイヴをはめ込めば以前同様、ほかの剣も使えるようになる。
@@ -257,11 +257,11 @@
 24. 2003年[10月17日](../Page/10月17日.md "wikilink") ISBN 4-06-363297-0
 25. 2003年[12月17日](../Page/12月17日.md "wikilink") ISBN 4-06-363318-7
 26. [2004年](../Page/2004年.md "wikilink")2月17日 ISBN 4-06-363336-5
-27. 2004年[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") ISBN 4-06-363358-6
+27. 2004年[4月16日](../Page/4月16日.md "wikilink") ISBN 4-06-363358-6
 28. 2004年6月17日 ISBN 4-06-363387-X
 29. 2004年[8月17日](../Page/8月17日.md "wikilink") ISBN 4-06-363412-4
 30. 2004年[10月15日](../Page/10月15日.md "wikilink") ISBN 4-06-363435-3
-31. [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月17日 ISBN 4-06-363471-X
+31. [2005年](../Page/2005年.md "wikilink")1月17日 ISBN 4-06-363471-X
 32. 2005年[3月17日](../Page/3月17日.md "wikilink") ISBN 4-06-363496-5
 33. 2005年5月17日 ISBN 4-06-363523-6
 34. 2005年[7月15日](../Page/7月15日.md "wikilink") ISBN 4-06-363549-X
@@ -314,20 +314,20 @@
 
 ### スタッフ
 
-  - 原作 - [真島ヒロ](https://ja.wikipedia.org/wiki/真島ヒロ "wikilink")
-  - 監督 - [渡部高志](https://ja.wikipedia.org/wiki/渡部高志 "wikilink")
+  - 原作 - [真島ヒロ](../Page/真島ヒロ.md "wikilink")
+  - 監督 - [渡部高志](../Page/渡部高志.md "wikilink")
   - 助監督 - 則座誠
-  - シリーズ構成 - [岸間信明](https://ja.wikipedia.org/wiki/岸間信明 "wikilink")
+  - シリーズ構成 - [岸間信明](../Page/岸間信明.md "wikilink")
   - キャラクターデザイン - [松島晃](https://ja.wikipedia.org/wiki/松島晃 "wikilink")
   - 美術監督 - 中山恭子
   - 色彩設計 - もちだたけし
   - 撮影監督 - 川口正幸
   - 編集 - 坂本雅紀
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
-  - 音響監督 - [藤野貞義](https://ja.wikipedia.org/wiki/藤野貞義 "wikilink")
-  - 音響効果 - [蔭山満](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")
+  - 音響監督 - [藤野貞義](../Page/藤野貞義.md "wikilink")
+  - 音響効果 - [蔭山満](../Page/フィズサウンドクリエイション.md "wikilink")
   - プロデューサー - 間瀬泰宏、野口和紀
-  - アニメーション制作 - [スタジオディーン](https://ja.wikipedia.org/wiki/スタジオディーン "wikilink")
+  - アニメーション制作 - [スタジオディーン](../Page/スタジオディーン.md "wikilink")
   - 製作 - RAVE製作委員会（源生哲雄、[諸冨洋史](../Page/諸冨洋史.md "wikilink")、[岡崎剛之](../Page/岡崎剛之.md "wikilink")）、TBS
 
 ### 主題歌
@@ -378,8 +378,8 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>レイヴを継ぐ者</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岸間信明" title="wikilink">岸間信明</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡部高志" title="wikilink">渡部高志</a></p></td>
+<td><p><a href="../Page/岸間信明.md" title="wikilink">岸間信明</a></p></td>
+<td><p><a href="../Page/渡部高志.md" title="wikilink">渡部高志</a></p></td>
 <td><p>則座誠</p></td>
 <td><p>服部憲知</p></td>
 <td><p><strong>2001年</strong><br />
@@ -877,7 +877,7 @@
 <td><p>土曜 7:00 - 7:30（<a href="../Page/遅れネット.md" title="wikilink">遅れネット</a>）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a> (RKB)</p></td>
 <td><p>2001年<a href="../Page/11月11日.md" title="wikilink">11月11日</a> -</p></td>
 <td><p>日曜 6:00 - 6:30 → 月曜 26:25 - 26:55（第26話 - ）</p></td>
@@ -1085,7 +1085,7 @@
 [Category:真島ヒロ](https://ja.wikipedia.org/wiki/Category:真島ヒロ "wikilink") [Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:1999年の漫画](https://ja.wikipedia.org/wiki/Category:1999年の漫画 "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:冒険漫画](https://ja.wikipedia.org/wiki/Category:冒険漫画 "wikilink") [Category:健忘を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:健忘を題材とした漫画作品 "wikilink") [Category:アニメ作品_れ](https://ja.wikipedia.org/wiki/Category:アニメ作品_れ "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:TBS系アニメ](https://ja.wikipedia.org/wiki/Category:TBS系アニメ "wikilink") [Category:毎日放送のテレビアニメ](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビアニメ "wikilink") [Category:CBCテレビのアニメ](https://ja.wikipedia.org/wiki/Category:CBCテレビのアニメ "wikilink") [Category:スタジオディーン](https://ja.wikipedia.org/wiki/Category:スタジオディーン "wikilink") [Category:スターチャイルドのアニメ作品](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアニメ作品 "wikilink") [Category:マガジンKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:マガジンKCのアニメ作品 "wikilink") [Category:ハイファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ハイファンタジーアニメ "wikilink") [Category:冒険アニメ](https://ja.wikipedia.org/wiki/Category:冒険アニメ "wikilink") [Category:健忘を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:健忘を題材としたアニメ作品 "wikilink") [Category:刀剣を題材とした作品](https://ja.wikipedia.org/wiki/Category:刀剣を題材とした作品 "wikilink")
 
 1.  『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』1999年32号（同作の連載開始号）の表紙に記載。
-2.  『[RAVE THE LAST GUIDE BOOK](https://ja.wikipedia.org/wiki/RAVE_\(漫画\)#関連書籍 "wikilink")』（[講談社](../Page/講談社.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）P.34
+2.  『[RAVE THE LAST GUIDE BOOK](https://ja.wikipedia.org/wiki/RAVE_\(漫画\)#関連書籍 "wikilink")』（[講談社](../Page/講談社.md "wikilink")、[2005年](../Page/2005年.md "wikilink")）P.34
 3.  『FAIRY TAIL』ではグレイのペンダントとして登場する
 4.  『FAIRY TAIL』では鎗として登場する。また、エルザが魔法で呼び出す剣の中にも幾つか描かれている。
 5.  ゲイルが障害物を殴っていた際はちゃんと赤い血で出血していた。なお、黒い血は時々濃い灰色に見えるときがある。

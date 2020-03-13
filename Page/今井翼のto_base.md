@@ -1,7 +1,7 @@
 > この記事は[to base](https://ja.wikipedia.org/wiki/to_base)から翻訳されています。
 
 
-**今井翼のto base**（いまいつばさのトゥーベース）は、[2003年](../Page/2003年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")まで[文化放送](../Page/文化放送.md "wikilink")などにおいて毎週木曜の[レコメン\!](../Page/レコメン!.md "wikilink")内で24時05分頃から放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[今井翼](https://ja.wikipedia.org/wiki/今井翼 "wikilink")がパーソナリティを務める。
+**今井翼のto base**（いまいつばさのトゥーベース）は、[2003年](../Page/2003年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")まで[文化放送](../Page/文化放送.md "wikilink")などにおいて毎週木曜の[レコメン\!](../Page/レコメン!.md "wikilink")内で24時05分頃から放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[今井翼](../Page/今井翼.md "wikilink")がパーソナリティを務める。
 
 ## 概要
 

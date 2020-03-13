@@ -5,9 +5,9 @@
 
 ## 概要
 
-懐かしの[テレビ番組](../Page/テレビ番組.md "wikilink")をクイズの題材にしていた番組で\[1\]、[高田純次](../Page/高田純次.md "wikilink")と[蓮舫](../Page/蓮舫.md "wikilink")が司会を務めていた。当時は1980年代末期からのレトロブームの影響で、[TBSの](../Page/TBSテレビ.md "wikilink")『[テレビ探偵団](https://ja.wikipedia.org/wiki/テレビ探偵団 "wikilink")』や『[いきなり\!クライマックス](../Page/いきなり!クライマックス.md "wikilink")』のように往年の番組を紹介する番組が多かった。
+懐かしの[テレビ番組](../Page/テレビ番組.md "wikilink")をクイズの題材にしていた番組で\[1\]、[高田純次](../Page/高田純次.md "wikilink")と[蓮舫](../Page/蓮舫.md "wikilink")が司会を務めていた。当時は1980年代末期からのレトロブームの影響で、[TBSの](../Page/TBSテレビ.md "wikilink")『[テレビ探偵団](../Page/テレビ探偵団.md "wikilink")』や『[いきなり\!クライマックス](../Page/いきなり!クライマックス.md "wikilink")』のように往年の番組を紹介する番組が多かった。
 
-オープニングでは、司会の高田がオリジナルテーマ「テレビの国から僕らのために」（『[おそ松くん](https://ja.wikipedia.org/wiki/おそ松くん "wikilink")』、『[ハクション大魔王](https://ja.wikipedia.org/wiki/ハクション大魔王 "wikilink")』、『[魔女っ子メグちゃん](https://ja.wikipedia.org/wiki/魔女っ子メグちゃん "wikilink")』、『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』、『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』、『[月光仮面](https://ja.wikipedia.org/wiki/月光仮面 "wikilink")』、『[ひょっこりひょうたん島](https://ja.wikipedia.org/wiki/ひょっこりひょうたん島 "wikilink")』、『[サザエさん](../Page/サザエさん.md "wikilink")』、『[サインはV](https://ja.wikipedia.org/wiki/サインはV "wikilink")』の主題歌をもじったものだった）を歌いながら登場していた。エンディングでは[KAN](../Page/KAN.md "wikilink")の「[愛は勝つ](https://ja.wikipedia.org/wiki/愛は勝つ "wikilink")」が流れる中、金色の高田純次像が回旋していた。
+オープニングでは、司会の高田がオリジナルテーマ「テレビの国から僕らのために」（『[おそ松くん](../Page/おそ松くん.md "wikilink")』、『[ハクション大魔王](../Page/ハクション大魔王.md "wikilink")』、『[魔女っ子メグちゃん](../Page/魔女っ子メグちゃん.md "wikilink")』、『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』、『[ウルトラセブン](https://ja.wikipedia.org/wiki/ウルトラセブン "wikilink")』、『[月光仮面](../Page/月光仮面.md "wikilink")』、『[ひょっこりひょうたん島](../Page/ひょっこりひょうたん島.md "wikilink")』、『[サザエさん](../Page/サザエさん.md "wikilink")』、『[サインはV](../Page/サインはV.md "wikilink")』の主題歌をもじったものだった）を歌いながら登場していた。エンディングでは[KAN](../Page/KAN.md "wikilink")の「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」が流れる中、金色の高田純次像が回旋していた。
 
 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある[放送ライブラリー](../Page/放送ライブラリー.md "wikilink")には、この番組の初回の記録映像が保存されている\[2\]。
 
@@ -30,16 +30,16 @@
 
 ### 解答者
 
-  - [京本政樹](https://ja.wikipedia.org/wiki/京本政樹 "wikilink")
+  - [京本政樹](../Page/京本政樹.md "wikilink")
   - [山城新伍](https://ja.wikipedia.org/wiki/山城新伍 "wikilink")
   - [岡江久美子](../Page/岡江久美子.md "wikilink")
-  - [野沢直子](https://ja.wikipedia.org/wiki/野沢直子 "wikilink")
+  - [野沢直子](../Page/野沢直子.md "wikilink")
   - [なぎら健壱](../Page/なぎら健壱.md "wikilink")
   - [松尾貴史](../Page/松尾貴史.md "wikilink")
-  - 杉木康二（二郎さん） - [フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[所さんのただものではない\!](https://ja.wikipedia.org/wiki/所さんのただものではない! "wikilink")』で朝潮くんと呼ばれていた人物。
+  - 杉木康二（二郎さん） - [フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[所さんのただものではない\!](../Page/所さんのただものではない!.md "wikilink")』で朝潮くんと呼ばれていた人物。
   - 小柴絵里香
   - [久本雅美](../Page/久本雅美.md "wikilink")
-  - [杉本彩](https://ja.wikipedia.org/wiki/杉本彩 "wikilink")
+  - [杉本彩](../Page/杉本彩.md "wikilink")
   - [ダチョウ倶楽部](../Page/ダチョウ倶楽部.md "wikilink")
   - [ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")
   - [松原桃太郎](https://ja.wikipedia.org/wiki/松原桃太郎 "wikilink")

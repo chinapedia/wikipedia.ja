@@ -1,7 +1,7 @@
 > この記事は[B.M.N.](https://ja.wikipedia.org/wiki/B.M.N.)から翻訳されています。
 
 
-『**B.M.N. （ブラック・マンデー・ナイト）**』（ブラックマンデーナイト）は、『[月刊少年チャンピオン](https://ja.wikipedia.org/wiki/月刊少年チャンピオン "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）[1996年](../Page/1996年.md "wikilink")第7号から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")7月号にかけて連載した[SP☆なかてま](https://ja.wikipedia.org/wiki/SP☆なかてま "wikilink")作の[格闘技漫画](https://ja.wikipedia.org/wiki/格闘技漫画 "wikilink")。単行本全13巻。
+『**B.M.N. （ブラック・マンデー・ナイト）**』（ブラックマンデーナイト）は、『[月刊少年チャンピオン](../Page/月刊少年チャンピオン.md "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）[1996年](../Page/1996年.md "wikilink")第7号から[2005年](../Page/2005年.md "wikilink")7月号にかけて連載した[SP☆なかてま](https://ja.wikipedia.org/wiki/SP☆なかてま "wikilink")作の[格闘技漫画](https://ja.wikipedia.org/wiki/格闘技漫画 "wikilink")。単行本全13巻。
 
 外伝版を挟み、続編『**B.M.N.ジャパン**』を2005年10月号から2009年8月号まで連載した。
 
@@ -13,7 +13,7 @@
 
 ブラック・マンデー・ナイト (Black Monday Night) の略。[月曜日](../Page/月曜日.md "wikilink")の夜に行われる格闘のタイマンバトル。地域別のランキング制。代表的なルールは以下にあげるものがある
 
-  - 闘うときは必ずB.M.N.の[オープンフィンガーグローブ](https://ja.wikipedia.org/wiki/オープンフィンガーグローブ "wikilink")を装着すること
+  - 闘うときは必ずB.M.N.の[オープンフィンガーグローブ](../Page/オープンフィンガーグローブ.md "wikilink")を装着すること
   - 立会人が存在していること
 
 なお、始める前に、合言葉がある。始める前の合言葉は下記の通り。

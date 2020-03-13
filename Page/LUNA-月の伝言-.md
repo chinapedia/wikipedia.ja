@@ -1,9 +1,9 @@
 > この記事は[LUNA--](https://ja.wikipedia.org/wiki/LUNA--)から翻訳されています。
 
 
-ミュージカル・ファンタジー『**LUNA**』-**月の伝言-**（ルナ つきのでんごん）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[月組](https://ja.wikipedia.org/wiki/月組_\(宝塚歌劇\) "wikilink")で上演されたミュージカル作品。17場。
+ミュージカル・ファンタジー『**LUNA**』-**月の伝言-**（ルナ つきのでんごん）は、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[月組](../Page/月組_\(宝塚歌劇\).md "wikilink")で上演されたミュージカル作品。17場。
 
-[2000年](../Page/2000年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")から[4月3日](../Page/4月3日.md "wikilink")（新人公演は3月7日）に[宝塚大劇場](https://ja.wikipedia.org/wiki/宝塚大劇場 "wikilink")、同年[5月12日](../Page/5月12日.md "wikilink")から[6月26日](../Page/6月26日.md "wikilink")（新人公演は5月23日）に[TAKARAZUKA1000days劇場](https://ja.wikipedia.org/wiki/TAKARAZUKA1000days劇場 "wikilink")（東京）、同年[8月1日](../Page/8月1日.md "wikilink")から[8月21日](../Page/8月21日.md "wikilink")に[博多座](../Page/博多座.md "wikilink")にて上演された。
+[2000年](../Page/2000年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")から[4月3日](../Page/4月3日.md "wikilink")（新人公演は3月7日）に[宝塚大劇場](../Page/宝塚大劇場.md "wikilink")、同年[5月12日](../Page/5月12日.md "wikilink")から[6月26日](../Page/6月26日.md "wikilink")（新人公演は5月23日）に[TAKARAZUKA1000days劇場](../Page/TAKARAZUKA1000days劇場.md "wikilink")（東京）、同年[8月1日](../Page/8月1日.md "wikilink")から[8月21日](../Page/8月21日.md "wikilink")に[博多座](../Page/博多座.md "wikilink")にて上演された。
 
 併演作品はショーイリュージョン『[BLUE・MOON・BLUE](https://ja.wikipedia.org/wiki/BLUE・MOON・BLUE_-月明かりの赤い花- "wikilink")』。
 
@@ -13,8 +13,8 @@
 
 ※氏名の後ろに「宝塚」、「東京」、「博多座」の文字がなければ前劇場共通。
 
-  - 作・演出 ：[小池修一郎](https://ja.wikipedia.org/wiki/小池修一郎 "wikilink")
-  - 作曲・編曲：[吉田優子](https://ja.wikipedia.org/wiki/吉田優子 "wikilink")・[甲斐正人](../Page/甲斐正人.md "wikilink")
+  - 作・演出 ：[小池修一郎](../Page/小池修一郎.md "wikilink")
+  - 作曲・編曲：[吉田優子](../Page/吉田優子.md "wikilink")・[甲斐正人](../Page/甲斐正人.md "wikilink")
   - 音楽指揮：[佐々田愛一郎](https://ja.wikipedia.org/wiki/佐々田愛一郎 "wikilink")、
   - 振付：[大谷盛雄](https://ja.wikipedia.org/wiki/大谷盛雄 "wikilink")・[麻咲梨乃](https://ja.wikipedia.org/wiki/麻咲梨乃 "wikilink")・[御織ゆみ乃](https://ja.wikipedia.org/wiki/御織ゆみ乃 "wikilink")
   - ファイティング・コーディネーター：[渥美博](../Page/渥美博.md "wikilink")
@@ -27,7 +27,7 @@
   - 音響：[加門清邦](https://ja.wikipedia.org/wiki/加門清邦 "wikilink")
   - 小道具：[伊集院撤也](https://ja.wikipedia.org/wiki/伊集院撤也 "wikilink")
   - 効果：[切江勝](https://ja.wikipedia.org/wiki/切江勝 "wikilink")
-  - 演出助手：[木村信司](https://ja.wikipedia.org/wiki/木村信司 "wikilink")・[小柳奈穂子](https://ja.wikipedia.org/wiki/小柳奈穂子 "wikilink")
+  - 演出助手：[木村信司](../Page/木村信司.md "wikilink")・[小柳奈穂子](../Page/小柳奈穂子.md "wikilink")
   - マジック指導：駒田はじめ
   - ファイティング助手[亀山ゆうみ](https://ja.wikipedia.org/wiki/亀山ゆうみ "wikilink")
   - 装置補：[広森守](https://ja.wikipedia.org/wiki/広森守 "wikilink")
@@ -65,12 +65,12 @@
 
 「（）」内は新人公演の配役。氏名の前に「宝塚」、「東京」の文字がなければ両劇場共通。
 
-  - ALEX/月読：[真琴つばさ](https://ja.wikipedia.org/wiki/真琴つばさ "wikilink")（[大和悠河](https://ja.wikipedia.org/wiki/大和悠河 "wikilink")）
+  - ALEX/月読：[真琴つばさ](https://ja.wikipedia.org/wiki/真琴つばさ "wikilink")（[大和悠河](../Page/大和悠河.md "wikilink")）
   - アイリーン：[檀れい](https://ja.wikipedia.org/wiki/檀れい "wikilink")（[花瀬みずか](https://ja.wikipedia.org/wiki/花瀬みずか "wikilink")）
-  - ブライアン：宝塚：[紫吹淳](../Page/紫吹淳.md "wikilink")、東京：[初風緑](https://ja.wikipedia.org/wiki/初風緑 "wikilink")（宝塚：[霧矢大夢](https://ja.wikipedia.org/wiki/霧矢大夢 "wikilink")、東京：[鳴海じゅん](../Page/鳴海じゅん.md "wikilink")）
+  - ブライアン：宝塚：[紫吹淳](../Page/紫吹淳.md "wikilink")、東京：[初風緑](../Page/初風緑.md "wikilink")（宝塚：[霧矢大夢](../Page/霧矢大夢.md "wikilink")、東京：[鳴海じゅん](../Page/鳴海じゅん.md "wikilink")）
   - ハリー：宝塚：初風緑、東京：大和悠河（宝塚：鳴海じゅん、東京：[遼河はるひ](../Page/遼河はるひ.md "wikilink")）
-  - ジュード：[汐美真帆](https://ja.wikipedia.org/wiki/汐美真帆 "wikilink")（宝塚：[楠恵華](https://ja.wikipedia.org/wiki/楠恵華 "wikilink")、東京：[研ルイス](https://ja.wikipedia.org/wiki/優雅_\(日本の歌手\) "wikilink")）
-  - ピート：宝塚：大和悠河、東京：[大空祐飛](https://ja.wikipedia.org/wiki/大空ゆうひ "wikilink")（[紫城るい](https://ja.wikipedia.org/wiki/紫城るい "wikilink")）
+  - ジュード：[汐美真帆](../Page/汐美真帆.md "wikilink")（宝塚：[楠恵華](https://ja.wikipedia.org/wiki/楠恵華 "wikilink")、東京：[研ルイス](https://ja.wikipedia.org/wiki/優雅_\(日本の歌手\) "wikilink")）
+  - ピート：宝塚：大和悠河、東京：[大空祐飛](../Page/大空ゆうひ.md "wikilink")（[紫城るい](../Page/紫城るい.md "wikilink")）
   - ジョー：宝塚：大空祐飛、東京：[大樹槙](https://ja.wikipedia.org/wiki/大樹槙 "wikilink")（宝塚：遼河はるひ、東京：[一色瑠加](https://ja.wikipedia.org/wiki/一色瑠加 "wikilink")）
   - ビル：宝塚：霧矢大夢、東京：鳴海じゅん（宝塚：[北翔海莉](../Page/北翔海莉.md "wikilink")、東京：[真野すがた](../Page/真野すがた.md "wikilink")）
   - イレーネ：宝塚：[千紘れいか](../Page/千紘れいか.md "wikilink")、東京：紫城るい（宝塚：[西條三恵](https://ja.wikipedia.org/wiki/西條三恵 "wikilink")、東京：[眞宮由妃](https://ja.wikipedia.org/wiki/眞宮由妃 "wikilink")）
@@ -88,11 +88,11 @@
   - ジョー：楠恵華
   - ビル：北翔海莉
   - イレーネ：紫城るい
-  - マッコイ：[未沙のえる](https://ja.wikipedia.org/wiki/未沙のえる "wikilink")
+  - マッコイ：[未沙のえる](../Page/未沙のえる.md "wikilink")
 
 ## その他
 
-  - 衣装の[フリース](https://ja.wikipedia.org/wiki/フリース "wikilink")、真琴が[キックボード](https://ja.wikipedia.org/wiki/キックボード "wikilink")に乗るなど2000年当時の流行を取り入れた、現代色の強い作品。
+  - 衣装の[フリース](../Page/フリース.md "wikilink")、真琴が[キックボード](../Page/キックボード.md "wikilink")に乗るなど2000年当時の流行を取り入れた、現代色の強い作品。
   - 遺跡内を移動するシーンで、真琴らが毎日軽妙なアドリブを繰り広げた。
   - 1000days劇場・博多座では当時男役の紫城がイレーネ役を務めた。娘役への転向はこの2年後である。
   - [明日海りお](../Page/明日海りお.md "wikilink")は、中学生の時にバレエ教室の仲間からこのビデオを借りたことを機に宝塚歌劇を志した。

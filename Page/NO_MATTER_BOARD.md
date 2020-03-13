@@ -1,15 +1,15 @@
 > この記事は[NO MATTER BOARD](https://ja.wikipedia.org/wiki/NO_MATTER_BOARD)から翻訳されています。
 
 
-**NO MATTER BOARD**（ノーマターボード）は、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）にて、毎年10月から3月までの冬季限定で放送される[スノーボード](../Page/スノーボード.md "wikilink")、[サーフィン](../Page/サーフィン.md "wikilink")、[スケートボード](https://ja.wikipedia.org/wiki/スケートボード "wikilink")の専門番組である。略称は**「NMB」「ノーマター」**。ここでは番組内での発言に準じ「ノーマター」と略する。スノーボーダーは「ボーダー」と略する。
+**NO MATTER BOARD**（ノーマターボード）は、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）にて、毎年10月から3月までの冬季限定で放送される[スノーボード](../Page/スノーボード.md "wikilink")、[サーフィン](../Page/サーフィン.md "wikilink")、[スケートボード](../Page/スケートボード.md "wikilink")の専門番組である。略称は**「NMB」「ノーマター」**。ここでは番組内での発言に準じ「ノーマター」と略する。スノーボーダーは「ボーダー」と略する。
 
-"NO MATTER" の[アメリカ英語](https://ja.wikipedia.org/wiki/アメリカ英語 "wikilink")（[俗語](../Page/俗語.md "wikilink")）発音と同音の[北海道方言](../Page/北海道方言.md "wikilink")「なまら」については「[北海道方言\#副詞他](https://ja.wikipedia.org/wiki/北海道方言#副詞他 "wikilink")」を参照。
+"NO MATTER" の[アメリカ英語](../Page/アメリカ英語.md "wikilink")（[俗語](../Page/俗語.md "wikilink")）発音と同音の[北海道方言](../Page/北海道方言.md "wikilink")「なまら」については「[北海道方言\#副詞他](https://ja.wikipedia.org/wiki/北海道方言#副詞他 "wikilink")」を参照。
 
 ## 概要
 
 [1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）に、当時FMラジオ番組のDJとして活躍していた、[Neil Hartmann](http://neilhartmannlife.wordpress.com/)をMCに迎えて放送を開始。現在でこそ自社制作の深夜バラエティ番組で全国的に発信力を持つ同局だが、当番組は開始初期から北海道外の[テレビ朝日系列局](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")・[独立UHF局や](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")[CS放送](../Page/衛星放送.md "wikilink")「[スカイ・A sports+](../Page/スカイ・エー.md "wikilink")」でも放送されており、日本を代表するスノーボード番組として人気が高い。
 
-ナビゲーターは'02 - '03シーズンから[松井克師](https://ja.wikipedia.org/wiki/松井克師 "wikilink")が務めていたが、'12 - '13シーズンは八巻篤史、野々垣瑠、高橋福樹といった3人の若手ボーダーが出演している。[ユメチカレコードの楽曲が主題歌になる場合が多い](https://ja.wikipedia.org/wiki/夢チカ18 "wikilink")。
+ナビゲーターは'02 - '03シーズンから[松井克師](https://ja.wikipedia.org/wiki/松井克師 "wikilink")が務めていたが、'12 - '13シーズンは八巻篤史、野々垣瑠、高橋福樹といった3人の若手ボーダーが出演している。[ユメチカレコードの楽曲が主題歌になる場合が多い](../Page/夢チカ18.md "wikilink")。
 
 ## 松井克師の貢献
 
@@ -19,15 +19,15 @@
 
 *放送の基本は「松井MC→オープニング→前半→[CM](../Page/コマーシャルメッセージ.md "wikilink")→後半→ビデオなどの紹介またはプレゼントのお知らせ等→エンディング→[オマケ映像](../Page/おまけ.md "wikilink")」*
 
-  - 第1週〜第5週位にかけては取材時に降雪していないため、[スケートボード](https://ja.wikipedia.org/wiki/スケートボード "wikilink")・[サーフィン](../Page/サーフィン.md "wikilink")等の所謂「ヨコノリスポーツ」が主に特集される。当然ながら松井もスケートボード、サーフィン等を行うが、サーフィンは結構な腕前。また道外の屋内[ゲレンデ](https://ja.wikipedia.org/wiki/ゲレンデ "wikilink")へ遠征する事もある。
-  - 良質の雪を求めて北海道へ訪れる全国的・世界的に認知度が高いボーダーやチーム、そのシーズンに活躍すると思われる[ニューカマー](https://ja.wikipedia.org/wiki/ニューカマー "wikilink")へのインタビューを行う。道内在住ボーダーの取材はその実家、若しくは馴染みのスポットで収録する事が多い。
+  - 第1週〜第5週位にかけては取材時に降雪していないため、[スケートボード](../Page/スケートボード.md "wikilink")・[サーフィン](../Page/サーフィン.md "wikilink")等の所謂「ヨコノリスポーツ」が主に特集される。当然ながら松井もスケートボード、サーフィン等を行うが、サーフィンは結構な腕前。また道外の屋内[ゲレンデ](https://ja.wikipedia.org/wiki/ゲレンデ "wikilink")へ遠征する事もある。
+  - 良質の雪を求めて北海道へ訪れる全国的・世界的に認知度が高いボーダーやチーム、そのシーズンに活躍すると思われる[ニューカマー](../Page/ニューカマー.md "wikilink")へのインタビューを行う。道内在住ボーダーの取材はその実家、若しくは馴染みのスポットで収録する事が多い。
   - ボーダー宅への**時間帯無関係のアポなし訪問**、そのまま遠地のゲレンデへ**強制連行**する事もある 。
   - 年末年始は特別番組が組まれるため、放送を1週休む。この休みを挟んでOP/ED曲が変更される。
-  - [スポンサー](https://ja.wikipedia.org/wiki/スポンサー "wikilink")の付いたボーダーや道内のスキー・ボードショップが特集される際は、最新のウエアやギア（用品）のチェックが出来る（松井自身もゴーグルは[オークリー](../Page/オークリー.md "wikilink")のシーズン物を使用している）。
+  - [スポンサー](../Page/スポンサー.md "wikilink")の付いたボーダーや道内のスキー・ボードショップが特集される際は、最新のウエアやギア（用品）のチェックが出来る（松井自身もゴーグルは[オークリー](../Page/オークリー.md "wikilink")のシーズン物を使用している）。
   - ノーマター杯 - アマチュア参加型の大会で、参加者の中にはプロを唸らせる猛者が登場する事もある。
   - 1週〜2週にわたり[真駒内](../Page/真駒内.md "wikilink")で行われる[TOYOTA BIG AIRの特集があった](../Page/TOYOTA_BIG_AIR.md "wikilink")。当時は地元の強みを生かして、TOYOTA BIG AIRに対する「ノーマター枠」を持っており、ノーマター杯などで活躍したボーダーが予選に出場できる権利を得られた。
   - [さっぽろ雪まつり](../Page/さっぽろ雪まつり.md "wikilink")内で行われる「[白い恋人 PARK AIR](https://ja.wikipedia.org/wiki/白い恋人#白い恋人_PARK_AIR "wikilink")」も取り上げており、特に同大会の優勝者には本番組の海外ロケ出演権が与えられる（2015年現在）\[1\]。
-  - ○○対決 - ○○にはスノーボードのトリック名（バックフリップ、[オーリー](https://ja.wikipedia.org/wiki/オーリー "wikilink")など）が入る。収録中に思いつきで行われる事が多い。ここで最下位だった人間に[罰ゲーム](https://ja.wikipedia.org/wiki/罰ゲーム "wikilink")が課せられる事も。
+  - ○○対決 - ○○にはスノーボードのトリック名（バックフリップ、[オーリー](https://ja.wikipedia.org/wiki/オーリー "wikilink")など）が入る。収録中に思いつきで行われる事が多い。ここで最下位だった人間に[罰ゲーム](../Page/罰ゲーム.md "wikilink")が課せられる事も。
   - スノーボードがスポーツである以上避けられない事だが、放送期間中に必ずと言っていいほど怪我人・病人が出る。松井も怪我する事がある。
   - 降雪期は北海道内での至る所で収録が行われる。通常は札幌近郊だが、最終回は遠征する事が多い。\[2\]\[3\]。
 
@@ -41,20 +41,20 @@
 
 ### 出演者
 
-  - 2001年（[Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp_Sapporo "wikilink")）: [HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")、[SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")、[REACH](../Page/REACH.md "wikilink")\[6\]
+  - 2001年（[Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp_Sapporo "wikilink")）: [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink")、[SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")、[REACH](../Page/REACH.md "wikilink")\[6\]
   - 2002年（Zepp Sapporo）: [山嵐](../Page/山嵐_\(バンド\).md "wikilink")、[SOBUT](https://ja.wikipedia.org/wiki/SOBUT "wikilink")、[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")、[POTSHOT](../Page/POTSHOT.md "wikilink")\[7\]
-  - 2003年（Zepp Sapporo、[Zepp Sendai](https://ja.wikipedia.org/wiki/Zepp_Sendai "wikilink")）: [eastern youth](https://ja.wikipedia.org/wiki/eastern_youth "wikilink")、[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")、[RUDEBONES](../Page/RUDEBONES.md "wikilink")、[FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")、[NANANINE](../Page/NANANINE.md "wikilink")、HUSKING BEE、[MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")、[クラッシュ・イン・アントワープ](../Page/クラッシュ・イン・アントワープ.md "wikilink")\[8\]
-  - 2004年（Zepp Sapporo）: [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")、[GUN DOG](https://ja.wikipedia.org/wiki/GUN_DOG "wikilink")、[GUMX](https://ja.wikipedia.org/wiki/GUMX "wikilink")、[B-DASH](https://ja.wikipedia.org/wiki/B-DASH "wikilink")\[9\]
+  - 2003年（Zepp Sapporo、[Zepp Sendai](https://ja.wikipedia.org/wiki/Zepp_Sendai "wikilink")）: [eastern youth](https://ja.wikipedia.org/wiki/eastern_youth "wikilink")、[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")、[RUDEBONES](../Page/RUDEBONES.md "wikilink")、[FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")、[NANANINE](../Page/NANANINE.md "wikilink")、HUSKING BEE、[MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")、[クラッシュ・イン・アントワープ](../Page/クラッシュ・イン・アントワープ.md "wikilink")\[8\]
+  - 2004年（Zepp Sapporo）: [10-FEET](../Page/10-FEET.md "wikilink")、[GUN DOG](https://ja.wikipedia.org/wiki/GUN_DOG "wikilink")、[GUMX](https://ja.wikipedia.org/wiki/GUMX "wikilink")、[B-DASH](../Page/B-DASH.md "wikilink")\[9\]
   - 2005年（Zepp Sapporo、Zepp Sendai）: HUSKING BEE、[KEMURI](https://ja.wikipedia.org/wiki/KEMURI "wikilink")、[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")、POTSHOT、10-FEET\[10\]
-  - 2006年（Zepp Sapporo、Zepp Sendai、[Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp_Nagoya "wikilink")）: KEMURI、[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")、10-FEET、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")、マキシマムザホルモン、[midnightPumpkin](https://ja.wikipedia.org/wiki/midnightPumpkin "wikilink")、[MEST](https://ja.wikipedia.org/wiki/MEST "wikilink")\[11\]\[12\]
+  - 2006年（Zepp Sapporo、Zepp Sendai、[Zepp Nagoya](https://ja.wikipedia.org/wiki/Zepp_Nagoya "wikilink")）: KEMURI、[BRAHMAN](../Page/BRAHMAN.md "wikilink")、10-FEET、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")、マキシマムザホルモン、[midnightPumpkin](https://ja.wikipedia.org/wiki/midnightPumpkin "wikilink")、[MEST](https://ja.wikipedia.org/wiki/MEST "wikilink")\[11\]\[12\]
   - 2007年（Zepp Sapporo）: KEMURI、10-FEET、[ACIDMAN](../Page/ACIDMAN.md "wikilink")、[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")、[SERVICE ACE](https://ja.wikipedia.org/wiki/SERVICE_ACE "wikilink")\[13\]
   - 2008年（Zepp Sapporo）: 10-FEET、BRAHMAN、[Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")、[SOIL&"PIMP"SESSIONS](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")、SERVICE ACE\[14\]
   - 2009年（Zepp Sapporo）: [GLORY HILL](https://ja.wikipedia.org/wiki/GLORY_HILL "wikilink")、[UNCHAIN](../Page/UNCHAIN.md "wikilink")、MO'SOME TONEBENDER、SOIL&"PIMP"SESSIONS、[DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")
   - 2010年（Zepp Sapporo、Zepp Sendai）: [REDEMPTION 97](https://ja.wikipedia.org/wiki/REDEMPTION_97 "wikilink")、[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")、[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")、[FACT](https://ja.wikipedia.org/wiki/FACT "wikilink")、[KEN YOKOYAMA](https://ja.wikipedia.org/wiki/KEN_YOKOYAMA "wikilink")、SERVICE ACE、MO'SOME TONEBENDER
-  - 2011年（Zepp Sapporo）: 10-FEET、FACT、[難波章浩](https://ja.wikipedia.org/wiki/難波章浩 "wikilink")、[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")、[Fear, and Loathing in Las Vegas](https://ja.wikipedia.org/wiki/Fear,_and_Loathing_in_Las_Vegas "wikilink")、[mondaysick](https://ja.wikipedia.org/wiki/mondaysick "wikilink")
+  - 2011年（Zepp Sapporo）: 10-FEET、FACT、[難波章浩](../Page/難波章浩.md "wikilink")、[ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")、[Fear, and Loathing in Las Vegas](https://ja.wikipedia.org/wiki/Fear,_and_Loathing_in_Las_Vegas "wikilink")、[mondaysick](https://ja.wikipedia.org/wiki/mondaysick "wikilink")
   - 2012年（Zepp Sapporo）: 10-FEET、[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")、coldrain、Fear, and Loathing in Las Vegas、[NOISEMAKER](https://ja.wikipedia.org/wiki/NOISEMAKER "wikilink")\[15\]
-  - 2013年（Zepp Sapporo）: [MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")、FACT、[EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink")、NOISEMAKER、[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")、[HUSKING BEE](https://ja.wikipedia.org/wiki/HUSKING_BEE "wikilink")\[16\]
-  - 2014年（[真駒内セキスイハイムアイスアリーナ](https://ja.wikipedia.org/wiki/真駒内屋内競技場 "wikilink")）: 10-FEET、COCOBAT、coldrain、Fear, and Loathing in Las Vegas、KEMURI、MAN WITH A MISSION、POTSHOT、マキシマムザホルモン、NOISEMAKER\[17\]
+  - 2013年（Zepp Sapporo）: [MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")、FACT、[EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink")、NOISEMAKER、[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")、[HUSKING BEE](../Page/HUSKING_BEE.md "wikilink")\[16\]
+  - 2014年（[真駒内セキスイハイムアイスアリーナ](../Page/真駒内屋内競技場.md "wikilink")）: 10-FEET、COCOBAT、coldrain、Fear, and Loathing in Las Vegas、KEMURI、MAN WITH A MISSION、POTSHOT、マキシマムザホルモン、NOISEMAKER\[17\]
   - 2015年（Zepp Sapporo）: 10-FEET、[Crossfaith](https://ja.wikipedia.org/wiki/Crossfaith "wikilink")、[MY FIRST STORY](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")、[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")、SiM\[18\]
   - 2016年（Zepp Sapporo、[KBSホール](https://ja.wikipedia.org/wiki/KBSホール_\(日本\) "wikilink")）: Crossfaith、SiM、Fear, and Loathing in Las Vegas、NOISEMAKER、[WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")、10-FEET、[The Winking Owl](https://ja.wikipedia.org/wiki/The_Winking_Owl "wikilink")\[19\]
   - 2017年（Zepp Sapporo）: HUSKIG BEE、[SHADOWS](https://ja.wikipedia.org/wiki/SHADOWS "wikilink")、KEMURI、[ヤバイTシャツ屋さん](https://ja.wikipedia.org/wiki/ヤバイTシャツ屋さん "wikilink")、Crossfaith、10-FEET\[20\]
@@ -112,7 +112,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td><p><a href="../Page/東京メトロポリタンテレビジョン.md" title="wikilink">TOKYO MX</a></p></td>
 <td><p>2011年<a href="../Page/1月8日.md" title="wikilink">1月8日</a> - 2011年<a href="https://ja.wikipedia.org/wiki/3月26日" title="wikilink">3月26日</a></p></td>
 <td><p>土曜 16時00分 - 16時30分</p></td>
@@ -137,7 +137,7 @@
 | 放送対象地域                                              | 放送局                                                     | 放送時期                     | 放送時間               | 備考      |
 | --------------------------------------------------- | ------------------------------------------------------- | ------------------------ | ------------------ | ------- |
 | 北海道                                                 | 北海道テレビ                                                  | 2012年10月4日 - 2013年3月21日  | 木曜 25時45分 - 26時15分 | **制作局** |
-| [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink") | [KBS京都](https://ja.wikipedia.org/wiki/KBS京都 "wikilink") | 2012年10月12日 - 2013年2月22日 | 金曜 25時00分 - 25時30分 |         |
+| [京都府](../Page/京都府.md "wikilink")                    | [KBS京都](https://ja.wikipedia.org/wiki/KBS京都 "wikilink") | 2012年10月12日 - 2013年2月22日 | 金曜 25時00分 - 25時30分 |         |
 | [兵庫県](../Page/兵庫県.md "wikilink")                    | [サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink") | 2012年10月15日 - 2013年－月－日  | 月曜 25時35分 - 26時05分 |         |
 | 秋田県                                                 | 秋田朝日放送                                                  | 2012年10月17日 - 2013年4月17日 | 水曜 25時45分 - 26時15分 |         |
 | [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink") | [群馬テレビ](../Page/群馬テレビ.md "wikilink")                    | 2012年12月2日 - 2013年－月－日   | 日曜 23時30分 - 24時00分 |         |
@@ -166,12 +166,12 @@
 
 ### '15 - '16シーズン
 
-| 放送対象地域                                              | 放送局                                                         | 放送時期                    | 放送時間               | 備考      |
-| --------------------------------------------------- | ----------------------------------------------------------- | ----------------------- | ------------------ | ------- |
-| 北海道                                                 | 北海道テレビ                                                      | 2015年10月7日 - 2016年3月23日 | 水曜 24時50分 - 25時20分 | **制作局** |
-| 長野県                                                 | 長野朝日放送                                                      | 2015年10月21日 - 2016年4月6日 | 水曜 25時20分 - 25時50分 |         |
-| 秋田県                                                 | 秋田朝日放送                                                      | 2015年10月21日 - 2016年4月6日 | 水曜 25時50分 - 26時20分 |         |
-| [千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink") | [千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink") | 2015年12月5日 -            | 土曜 22時30分 - 23時00分 |         |
+| 放送対象地域                           | 放送局                                      | 放送時期                    | 放送時間               | 備考      |
+| -------------------------------- | ---------------------------------------- | ----------------------- | ------------------ | ------- |
+| 北海道                              | 北海道テレビ                                   | 2015年10月7日 - 2016年3月23日 | 水曜 24時50分 - 25時20分 | **制作局** |
+| 長野県                              | 長野朝日放送                                   | 2015年10月21日 - 2016年4月6日 | 水曜 25時20分 - 25時50分 |         |
+| 秋田県                              | 秋田朝日放送                                   | 2015年10月21日 - 2016年4月6日 | 水曜 25時50分 - 26時20分 |         |
+| [千葉県](../Page/千葉県.md "wikilink") | [千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink") | 2015年12月5日 -            | 土曜 22時30分 - 23時00分 |         |
 
 ## 脚注
 

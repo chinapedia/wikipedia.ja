@@ -1,11 +1,11 @@
 > この記事は[BANDAY](https://ja.wikipedia.org/wiki/BANDAY)から翻訳されています。
 
 
-『**BANDAY獏**』（バンデイばく）は、[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[福井テレビで放送された](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**BANDAY獏**』（バンデイばく）は、[2013年](../Page/2013年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[福井テレビで放送された](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 概要
 
-[プロモーションビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")（以下PV）の放送を専門としていた[深夜番組](../Page/深夜番組.md "wikilink")で、毎回様々な[ミュージシャンたちのPVをフルで流していた](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。ミュージシャン本人からのコメント映像を流したり、視聴者プレゼントを付けたりすることもあった。週末には[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")を実施していたが、こちらは年末年始以外の時期においても2週続けて放送休止になることがあった。2013年3月27日に放送を終了。4月からは他のフジテレビ系列で放送されている[もはや神ダネ](https://ja.wikipedia.org/wiki/もはや神ダネ "wikilink")を放送している。
+[プロモーションビデオ](../Page/ミュージック・ビデオ.md "wikilink")（以下PV）の放送を専門としていた[深夜番組](../Page/深夜番組.md "wikilink")で、毎回様々な[ミュージシャンたちのPVをフルで流していた](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。ミュージシャン本人からのコメント映像を流したり、視聴者プレゼントを付けたりすることもあった。週末には[再放送](../Page/再放送.md "wikilink")を実施していたが、こちらは年末年始以外の時期においても2週続けて放送休止になることがあった。2013年3月27日に放送を終了。4月からは他のフジテレビ系列で放送されている[もはや神ダネ](https://ja.wikipedia.org/wiki/もはや神ダネ "wikilink")を放送している。
 
 この番組はたびたび「**福井テレビまちなかライブ BANDAY獏スペシャル**」と題したライブイベントを開催しており、毎回様々なミュージシャンたちを招いて行っていた。このイベントは、毎回[福井まちなか文化施設 響のホールで行われていた](../Page/福井まちなか文化施設_響のホール.md "wikilink")\[1\]\[2\]\[3\]\[4\]。
 

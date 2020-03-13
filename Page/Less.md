@@ -1,7 +1,7 @@
 > この記事は[Less](https://ja.wikipedia.org/wiki/Less)から翻訳されています。
 
 
-**less**（レス）は、[Unix系](../Page/Unix系.md "wikilink")のシステムにおいて、[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")の内容を閲覧するために用いられるプログラム（[ページャ](https://ja.wikipedia.org/wiki/ページャ "wikilink")）である。[`more`](https://ja.wikipedia.org/wiki/more_\(UNIX\) "wikilink")に似ているが、前方向だけでなく後方向にもスクロールできるよう拡張されている。
+**less**（レス）は、[Unix系](../Page/Unix系.md "wikilink")のシステムにおいて、[テキストファイル](../Page/テキストファイル.md "wikilink")の内容を閲覧するために用いられるプログラム（[ページャ](https://ja.wikipedia.org/wiki/ページャ "wikilink")）である。[`more`](https://ja.wikipedia.org/wiki/more_\(UNIX\) "wikilink")に似ているが、前方向だけでなく後方向にもスクロールできるよう拡張されている。
 
 ## 使用法
 
@@ -9,7 +9,7 @@
 
 `less [options] `<file_name>
 
-`less`はオプションを指定することで振る舞いを変えることができる。例えば、スクリーン上に表示する行数などである。これらのオプションはシステムによって異なる可能性がある。閲覧中にはさまざまなコマンドが利用できるが、これらのコマンドは[`more`](https://ja.wikipedia.org/wiki/more_\(UNIX\) "wikilink")や[`vi`](https://ja.wikipedia.org/wiki/vi "wikilink")のものに基づいている。[インクリメンタルサーチ](https://ja.wikipedia.org/wiki/インクリメンタルサーチ "wikilink")によるパターン検索も可能である。
+`less`はオプションを指定することで振る舞いを変えることができる。例えば、スクリーン上に表示する行数などである。これらのオプションはシステムによって異なる可能性がある。閲覧中にはさまざまなコマンドが利用できるが、これらのコマンドは[`more`](https://ja.wikipedia.org/wiki/more_\(UNIX\) "wikilink")や[`vi`](https://ja.wikipedia.org/wiki/vi "wikilink")のものに基づいている。[インクリメンタルサーチ](../Page/インクリメンタルサーチ.md "wikilink")によるパターン検索も可能である。
 
 デフォルトでは、`less`はファイルの内容を[標準出力](https://ja.wikipedia.org/wiki/標準出力 "wikilink")に書き出す。出力が[端末](../Page/端末.md "wikilink")以外のものに[リダイレクトされた場合](https://ja.wikipedia.org/wiki/リダイレクト_\(CLI\) "wikilink")、例えば[パイプによって別のコマンドに渡された場合](../Page/パイプ_\(コンピュータ\).md "wikilink")、`less`は`cat`コマンドのように振舞う。
 

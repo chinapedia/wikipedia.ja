@@ -3,13 +3,13 @@
 
 '''Beautiful World '''（ビューティフル・ワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の29作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
 
-[1992年](../Page/1992年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／イーストワールドよりリリース。
+[1992年](../Page/1992年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／イーストワールドよりリリース。
 
 ## 解説
 
-「[彼は眠れない](../Page/彼は眠れない.md "wikilink")」（[1989年](../Page/1989年.md "wikilink")）以降続く[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")プロデュース作品。
+「[彼は眠れない](../Page/彼は眠れない.md "wikilink")」（[1989年](../Page/1989年.md "wikilink")）以降続く[吉田建](../Page/吉田建.md "wikilink")プロデュース作品。
 
-作家陣にも作曲では気鋭の若手起用は[楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")1人に留まり[井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")、[大野克夫](../Page/大野克夫.md "wikilink")といった先輩格や[南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink")、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の[鈴木慶一](../Page/鈴木慶一.md "wikilink")（アルバム「[MIS CAST](https://ja.wikipedia.org/wiki/MIS_CAST "wikilink")」での競演はあるが曲提供は初めて）など2〜3歳下の同世代が多く起用されている。なお作詞については前作に続いて[覚和歌子](../Page/覚和歌子.md "wikilink")がすべて携わる形となった。
+作家陣にも作曲では気鋭の若手起用は[楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")1人に留まり[井上大輔](https://ja.wikipedia.org/wiki/井上大輔 "wikilink")、[大野克夫](../Page/大野克夫.md "wikilink")といった先輩格や[南佳孝](../Page/南佳孝.md "wikilink")、[ムーンライダーズ](../Page/ムーンライダーズ.md "wikilink")の[鈴木慶一](../Page/鈴木慶一.md "wikilink")（アルバム「[MIS CAST](../Page/MIS_CAST.md "wikilink")」での競演はあるが曲提供は初めて）など2〜3歳下の同世代が多く起用されている。なお作詞については前作に続いて[覚和歌子](../Page/覚和歌子.md "wikilink")がすべて携わる形となった。
 
 [早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")がデザインワークを外れ、本作は[信藤三雄](../Page/信藤三雄.md "wikilink")率いるC.T.P.P.が担当している。
 

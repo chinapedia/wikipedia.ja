@@ -25,9 +25,9 @@
 
   - ドイツ国内：[ベルリン](https://ja.wikipedia.org/wiki/ベルリン "wikilink")、[ミュンヘン](../Page/ミュンヘン.md "wikilink")、[デュッセルドルフ](https://ja.wikipedia.org/wiki/デュッセルドルフ "wikilink")、[ハンブルク](../Page/ハンブルク.md "wikilink")など
   - ヨーロッパ：[ロンドン](../Page/ロンドン.md "wikilink")、[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")、[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")、[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")、[ブリュッセル](../Page/ブリュッセル.md "wikilink")、[ヴェネツィア](../Page/ヴェネツィア.md "wikilink")、[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")など
-  - 北米：[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")、[ナイアガラ](https://ja.wikipedia.org/wiki/ナイアガラ "wikilink")、[ハワイ島](https://ja.wikipedia.org/wiki/ハワイ島 "wikilink")など
-  - アジア：[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[マカオ](../Page/マカオ.md "wikilink")、[マニラ](../Page/マニラ.md "wikilink")、[セブ島](https://ja.wikipedia.org/wiki/セブ島 "wikilink")、[ドバイ](../Page/ドバイ.md "wikilink")など
-  - オセアニア：[メルボルン](https://ja.wikipedia.org/wiki/メルボルン "wikilink")、[シドニー](https://ja.wikipedia.org/wiki/シドニー "wikilink")など
+  - 北米：[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")、[ナイアガラ](../Page/ナイアガラ.md "wikilink")、[ハワイ島](../Page/ハワイ島.md "wikilink")など
+  - アジア：[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[マカオ](../Page/マカオ.md "wikilink")、[マニラ](../Page/マニラ.md "wikilink")、[セブ島](../Page/セブ島.md "wikilink")、[ドバイ](../Page/ドバイ.md "wikilink")など
+  - オセアニア：[メルボルン](../Page/メルボルン.md "wikilink")、[シドニー](../Page/シドニー.md "wikilink")など
 
 日本国内には、[東京](../Page/東京.md "wikilink")・[有楽町](../Page/有楽町.md "wikilink")の[ザ・ペニンシュラ東京](../Page/ザ・ペニンシュラ東京.md "wikilink")にライブカメラが設置されている。
 

@@ -1,7 +1,7 @@
 > この記事は[Xterm](https://ja.wikipedia.org/wiki/Xterm)から翻訳されています。
 
 
-**xterm**は、[X Window Systemの標準的な](../Page/X_Window_System.md "wikilink")[端末エミュレータ](https://ja.wikipedia.org/wiki/端末エミュレータ "wikilink")である。ユーザは一つの[ディスプレイの中に複数のxtermを表示し](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")、同時に作業を行うことができる。それぞれのxtermは、xtermの中で動作する[プロセス](../Page/プロセス.md "wikilink")に対し、独立した入出力を提供する（通常、このプロセスとは[Unixシェル](https://ja.wikipedia.org/wiki/Unixシェル "wikilink")である）。
+**xterm**は、[X Window Systemの標準的な](../Page/X_Window_System.md "wikilink")[端末エミュレータ](../Page/端末エミュレータ.md "wikilink")である。ユーザは一つの[ディスプレイの中に複数のxtermを表示し](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")、同時に作業を行うことができる。それぞれのxtermは、xtermの中で動作する[プロセス](../Page/プロセス.md "wikilink")に対し、独立した入出力を提供する（通常、このプロセスとは[Unixシェル](https://ja.wikipedia.org/wiki/Unixシェル "wikilink")である）。
 
 ## 概要
 
@@ -46,7 +46,7 @@ xtermには、通常メニューバーが存在しない。ユーザは、Contro
 
 ## 関連項目
 
-  - [端末エミュレータ](https://ja.wikipedia.org/wiki/端末エミュレータ "wikilink")
+  - [端末エミュレータ](../Page/端末エミュレータ.md "wikilink")
   - [VT100](../Page/VT100.md "wikilink")
 
 ## 外部リンク

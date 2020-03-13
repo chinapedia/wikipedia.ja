@@ -1,7 +1,7 @@
 > この記事は[CEC \(\)](https://ja.wikipedia.org/wiki/CEC_\(\))から翻訳されています。
 
 
-**CEC株式会社**（シーイーシー）は、[1954年](../Page/1954年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")29年）に創立された[CDプレーヤー](../Page/CDプレーヤー.md "wikilink")、[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")等の[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")機器の開発、販売を行う[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業。本社は[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[邑楽郡](../Page/邑楽郡.md "wikilink")[大泉町](https://ja.wikipedia.org/wiki/大泉町 "wikilink")。[ベルトドライブ](../Page/ベルトドライブ.md "wikilink")方式のCDプレーヤー等の技術を持つ。
+**CEC株式会社**（シーイーシー）は、[1954年](../Page/1954年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")29年）に創立された[CDプレーヤー](../Page/CDプレーヤー.md "wikilink")、[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink")等の[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")機器の開発、販売を行う[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業。本社は[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[邑楽郡](../Page/邑楽郡.md "wikilink")[大泉町](../Page/大泉町.md "wikilink")。[ベルトドライブ](../Page/ベルトドライブ.md "wikilink")方式のCDプレーヤー等の技術を持つ。
 
 ## 沿革
 
@@ -12,7 +12,7 @@
 ## 関連項目
 
   - [高級オーディオ](https://ja.wikipedia.org/wiki/高級オーディオ "wikilink")
-  - [音響機器](https://ja.wikipedia.org/wiki/音響機器 "wikilink")
+  - [音響機器](../Page/音響機器.md "wikilink")
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
 
 
-**ABCプレミアムボックス**とは、[朝日放送（現：朝日放送ラジオ）が](https://ja.wikipedia.org/wiki/朝日放送ラジオ "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度の[ナイターオフシーズン](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")（概ね[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜翌年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）のみ、月曜日から土曜日の21時00分から21時30分に放送していた番組枠の[総称（レーベル）である](https://ja.wikipedia.org/wiki/レーベル "wikilink")。
+**ABCプレミアムボックス**とは、[朝日放送（現：朝日放送ラジオ）が](../Page/朝日放送ラジオ.md "wikilink")、[2006年](../Page/2006年.md "wikilink")度の[ナイターオフシーズン](../Page/プロ野球中継.md "wikilink")（概ね[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")〜翌年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）のみ、月曜日から土曜日の21時00分から21時30分に放送していた番組枠の[総称（レーベル）である](https://ja.wikipedia.org/wiki/レーベル "wikilink")。
 
 ## 背景
 
@@ -29,7 +29,7 @@
 <!-- end list -->
 
   -
-    出演：[笑福亭鶴光](../Page/笑福亭鶴光.md "wikilink")、[喜多ゆかり](https://ja.wikipedia.org/wiki/喜多ゆかり "wikilink")
+    出演：[笑福亭鶴光](../Page/笑福亭鶴光.md "wikilink")、[喜多ゆかり](../Page/喜多ゆかり.md "wikilink")
 
 <!-- end list -->
 
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   -
-    出演：[安部憲幸](https://ja.wikipedia.org/wiki/安部憲幸 "wikilink")、[入江玲子](https://ja.wikipedia.org/wiki/入江玲子 "wikilink")
+    出演：[安部憲幸](../Page/安部憲幸.md "wikilink")、[入江玲子](https://ja.wikipedia.org/wiki/入江玲子 "wikilink")
 
 <!-- end list -->
 
@@ -47,7 +47,7 @@
 <!-- end list -->
 
   -
-    出演：[ダマ奈津子](https://ja.wikipedia.org/wiki/ダマ奈津子 "wikilink")
+    出演：[ダマ奈津子](../Page/ダマ奈津子.md "wikilink")
 
 <!-- end list -->
 
@@ -65,7 +65,7 @@
 <!-- end list -->
 
   -
-    出演：[栗村智](https://ja.wikipedia.org/wiki/栗村智 "wikilink")
+    出演：[栗村智](../Page/栗村智.md "wikilink")
 
 ※2007年度上半期も、「[鶴光のDJ天国](../Page/鶴光のDJ天国.md "wikilink")」は土曜日の21:30-22:00、「[ダマ奈津子のワンダフルライフ](https://ja.wikipedia.org/wiki/ダマ奈津子のワンダフルライフ "wikilink")」は日曜日の19:00-19:30，「[かつみ☆さゆりのお気に入りでチュッ☆](https://ja.wikipedia.org/wiki/かつみ☆さゆりのお気に入りでチュッ☆ "wikilink")」は月曜日の18:00-18:30に、時間帯を変更して引き続き放送される。
 
@@ -80,7 +80,7 @@ OAされた時間帯：20:58:58〜21:00:00の間、21:28:58〜21:30:00の間。
 #### 2006年
 
   - 10月　[コーヒーカラー](../Page/コーヒーカラー.md "wikilink")／「スーパーバイザー」
-  - 11月　[スターダストレビュー](https://ja.wikipedia.org/wiki/スターダストレビュー "wikilink")
+  - 11月　[スターダストレビュー](../Page/スターダストレビュー.md "wikilink")
   - 12月　[Zero](https://ja.wikipedia.org/wiki/Zero "wikilink")
 
 #### 2007年

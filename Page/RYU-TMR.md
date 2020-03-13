@@ -7,7 +7,7 @@
 
 ### 連載中
 
-  - [レゲエ解体劇場](https://ja.wikipedia.org/wiki/レゲエ解体劇場 "wikilink")（[TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")）
+  - [レゲエ解体劇場](https://ja.wikipedia.org/wiki/レゲエ解体劇場 "wikilink")（[TECH GIAN](../Page/TECH_GIAN.md "wikilink")）
   - [ワールドエンドエクリプス](https://ja.wikipedia.org/wiki/ワールドエンドエクリプス "wikilink")プレイヤーズサイト内コミック「わるえく?」([セガ](https://ja.wikipedia.org/wiki/セガ "wikilink") 2015年後半 - 連載中)
 
 ### 連載終了
@@ -23,7 +23,7 @@
 
 ### アンソロジー
 
-  - 只今初号機整備中（[ラポート](https://ja.wikipedia.org/wiki/ラポート "wikilink")） - イラスト
+  - 只今初号機整備中（[ラポート](../Page/ラポート.md "wikilink")） - イラスト
 
 このほか、複数のアンソロジーコミックに作品を発表している。
 

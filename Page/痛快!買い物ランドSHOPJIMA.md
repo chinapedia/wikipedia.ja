@@ -25,7 +25,7 @@
 
   - [梅宮辰夫](https://ja.wikipedia.org/wiki/梅宮辰夫 "wikilink")
   - [松居一代](../Page/松居一代.md "wikilink")
-  - [梨元勝](https://ja.wikipedia.org/wiki/梨元勝 "wikilink")
+  - [梨元勝](../Page/梨元勝.md "wikilink")
   - [辺見マリ](../Page/辺見マリ.md "wikilink")
   - [沢田亜矢子](../Page/沢田亜矢子.md "wikilink")
 

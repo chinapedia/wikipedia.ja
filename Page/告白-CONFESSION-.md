@@ -3,11 +3,11 @@
 
 『**告白-CONFESSION-**』（こくはく コンフェッション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[沢田研二](../Page/沢田研二.md "wikilink")の24作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")/イーストワールドよりリリース。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/イーストワールドよりリリース。
 
 ## 解説
 
-沢田研二の[CO-CoLO](https://ja.wikipedia.org/wiki/CO-CoLO "wikilink")を率いての2枚目となるアルバム。全編[ニューヨーク](../Page/ニューヨーク.md "wikilink")でレコーディングされており、現地のミュージシャンが多数参加している。全ての作詞を沢田本人が手がけており、作曲は沢田とCO-CoLOのメンバーによる。また歌手である沢田の作品としては極めて異例のことだが、「FADE IN」という短い[インストゥルメンタルが収録されている](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。これは沢田とCO-CoLOとの一体感（沢田にはCO-CoLOは「沢田とバックバンド」ではなく「リードボーカルが沢田研二のバンド」という意識があった）を示すこととなった。
+沢田研二の[CO-CoLO](../Page/CO-CoLO.md "wikilink")を率いての2枚目となるアルバム。全編[ニューヨーク](../Page/ニューヨーク.md "wikilink")でレコーディングされており、現地のミュージシャンが多数参加している。全ての作詞を沢田本人が手がけており、作曲は沢田とCO-CoLOのメンバーによる。また歌手である沢田の作品としては極めて異例のことだが、「FADE IN」という短い[インストゥルメンタルが収録されている](../Page/器楽曲.md "wikilink")。これは沢田とCO-CoLOとの一体感（沢田にはCO-CoLOは「沢田とバックバンド」ではなく「リードボーカルが沢田研二のバンド」という意識があった）を示すこととなった。
 
 ## 収録曲
 

@@ -1,7 +1,7 @@
 > この記事は[World\'s end](https://ja.wikipedia.org/wiki/World\'s_end)から翻訳されています。
 
 
-『**World's end**』（ワールズエンド）は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")『マジキュー・プレミアム』[2001年](../Page/2001年.md "wikilink")春号（創刊号）より『[マジキュー](../Page/マジキュー.md "wikilink")』Vol.25（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売）まで連載された[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")。
+『**World's end**』（ワールズエンド）は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")『マジキュー・プレミアム』[2001年](../Page/2001年.md "wikilink")春号（創刊号）より『[マジキュー](../Page/マジキュー.md "wikilink")』Vol.25（[2006年](../Page/2006年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")発売）まで連載された[読者参加企画](https://ja.wikipedia.org/wiki/読者参加企画 "wikilink")。
 
 原作：[天広直人](../Page/天広直人.md "wikilink")（原案・キャラクターデザイン）・[玉井☆豪](https://ja.wikipedia.org/wiki/玉井☆豪 "wikilink")（シナリオ・設定）、文芸：[長井知佳](https://ja.wikipedia.org/wiki/長井知佳 "wikilink")。
 
@@ -15,15 +15,15 @@
 
 ## 登場人物
 
-[声優](../Page/声優.md "wikilink")は[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")版のキャスト。
+[声優](../Page/声優.md "wikilink")は[ドラマCD](../Page/ドラマCD.md "wikilink")版のキャスト。
 
-  - ルナ・パトラクシェ 声：[野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")
+  - ルナ・パトラクシェ 声：[野川さくら](../Page/野川さくら.md "wikilink")
     [7月5日](../Page/7月5日.md "wikilink")生（[かに座](../Page/かに座.md "wikilink")）。闇の属性を持つお気楽な性格の少女。羽根猫のファムを飼っている。素質は4人の中で一番だが、魔力のコントロールは不得意で失敗が多い。
-  - カーマイン・ロードナイト 声：[千葉紗子](https://ja.wikipedia.org/wiki/千葉紗子 "wikilink")
+  - カーマイン・ロードナイト 声：[千葉紗子](../Page/千葉紗子.md "wikilink")
     [9月30日](../Page/9月30日.md "wikilink")生（[てんびん座](../Page/てんびん座.md "wikilink")）。火の属性を持つお嬢様。我が儘で夢想癖が強いが、面倒見の良さも併せ持っている。
   - ネロ・ベルーティノ 声：[清水愛](../Page/清水愛.md "wikilink")
     [12月20日](../Page/12月20日.md "wikilink")生（[いて座](../Page/いて座.md "wikilink")）。聖の属性を持つが得意な魔法は黒魔法と言う変わり者。そのギャップを象徴するように、性格もかなり腹黒い。
-  - セレス・アクエリアス 声：[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")
+  - セレス・アクエリアス 声：[折笠富美子](../Page/折笠富美子.md "wikilink")
     [5月6日](../Page/5月6日.md "wikilink")生（[おうし座](../Page/おうし座.md "wikilink") ）。風の属性を持つマイペースな少女。4人の中では最年長だが、年相応の威厳は感じられない。
 
 ### 魔法学院の先生
@@ -38,7 +38,7 @@
 ### その他
 
   - ファム 声：[真田アサミ](https://ja.wikipedia.org/wiki/真田アサミ "wikilink")
-    ルナのペットの翼を持つ[猫](../Page/ネコ.md "wikilink")。[ペガサス](https://ja.wikipedia.org/wiki/ペガサス "wikilink")に変身する。お説教の多いルナの面倒見役。
+    ルナのペットの翼を持つ[猫](../Page/ネコ.md "wikilink")。[ペガサス](../Page/ペガサス.md "wikilink")に変身する。お説教の多いルナの面倒見役。
 
 ## メディア展開
 
@@ -49,7 +49,7 @@
   - World's end プレミアムコレクション
     2003年8月6日初版 ISBN 4757715358
 
-  - [ファミ通文庫](../Page/ファミ通文庫.md "wikilink")（1巻は玉井☆豪・著、2巻以降は[秋タカシ](https://ja.wikipedia.org/wiki/秋タカシ "wikilink")・著）
+  - [ファミ通文庫](../Page/ファミ通文庫.md "wikilink")（1巻は玉井☆豪・著、2巻以降は[秋タカシ](../Page/秋タカシ.md "wikilink")・著）
 
 <!-- end list -->
 

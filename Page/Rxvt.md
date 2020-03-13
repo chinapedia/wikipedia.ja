@@ -1,7 +1,7 @@
 > この記事は[Rxvt](https://ja.wikipedia.org/wiki/Rxvt)から翻訳されています。
 
 
-**rxvt**は、[X Window Systemの](../Page/X_Window_System.md "wikilink")[端末エミュレータ](https://ja.wikipedia.org/wiki/端末エミュレータ "wikilink")の一つ。 [xterm](https://ja.wikipedia.org/wiki/xterm "wikilink")から余計な機能を削って軽量化したものとしてRob Nationによって開発された。 [Tektronix 4014の](https://ja.wikipedia.org/wiki/Tektronix_4014 "wikilink")[エミュレーション](https://ja.wikipedia.org/wiki/エミュレーション "wikilink")機能など、ほとんど使われないと思われる機能が削られている。 rxvtは[xvt](https://ja.wikipedia.org/wiki/xvt "wikilink")ターミナルエミュレータの拡張バージョンであり、「our xvt」に由来している。
+**rxvt**は、[X Window Systemの](../Page/X_Window_System.md "wikilink")[端末エミュレータ](../Page/端末エミュレータ.md "wikilink")の一つ。 [xterm](https://ja.wikipedia.org/wiki/xterm "wikilink")から余計な機能を削って軽量化したものとしてRob Nationによって開発された。 [Tektronix 4014の](https://ja.wikipedia.org/wiki/Tektronix_4014 "wikilink")[エミュレーション](https://ja.wikipedia.org/wiki/エミュレーション "wikilink")機能など、ほとんど使われないと思われる機能が削られている。 rxvtは[xvt](https://ja.wikipedia.org/wiki/xvt "wikilink")ターミナルエミュレータの拡張バージョンであり、「our xvt」に由来している。
 
 最近のバージョンでは、簡易的な擬似透明化機能をサポートする。
 

@@ -1,7 +1,7 @@
 > この記事は[SASEBO](https://ja.wikipedia.org/wiki/SASEBO)から翻訳されています。
 
 
-**アルカスSASEBO**（あるかすさせぼ）は、[長崎県](../Page/長崎県.md "wikilink")[佐世保市](../Page/佐世保市.md "wikilink")三浦町にある[多目的ホール](../Page/多目的ホール.md "wikilink")。長崎県が設置する「県民文化ホール『シーサイドホール・アルカスさせぼ』」と、佐世保市が設置する「佐世保地域交流センター」の複合施設であり、財団法人佐世保地域文化事業財団が[指定管理者](https://ja.wikipedia.org/wiki/指定管理者 "wikilink")として管理運営を行っている。
+**アルカスSASEBO**（あるかすさせぼ）は、[長崎県](../Page/長崎県.md "wikilink")[佐世保市](../Page/佐世保市.md "wikilink")三浦町にある[多目的ホール](../Page/多目的ホール.md "wikilink")。長崎県が設置する「県民文化ホール『シーサイドホール・アルカスさせぼ』」と、佐世保市が設置する「佐世保地域交流センター」の複合施設であり、財団法人佐世保地域文化事業財団が[指定管理者](../Page/指定管理者.md "wikilink")として管理運営を行っている。
 
 ## 概要
 
@@ -40,10 +40,10 @@
   - [2001年](../Page/2001年.md "wikilink")
       - [3月1日](../Page/3月1日.md "wikilink")、オープン。
       - [3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、[B'z](../Page/B'z.md "wikilink")「[LIVE-GYM 2001 "ELEVEN" -Preview-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2001_-ELEVEN- "wikilink")」を大ホールで開催。
-      - [11月6日](../Page/11月6日.md "wikilink")、[宝塚歌劇団月組公演](https://ja.wikipedia.org/wiki/月組_\(宝塚歌劇\) "wikilink")「[大海賊 -復讐のカリブ海-](https://ja.wikipedia.org/wiki/大海賊_-復讐のカリブ海- "wikilink")」「[ジャズマニア](https://ja.wikipedia.org/wiki/ジャズマニア "wikilink")」を大ホールで開催\[1\]。
+      - [11月6日](../Page/11月6日.md "wikilink")、[宝塚歌劇団月組公演](../Page/月組_\(宝塚歌劇\).md "wikilink")「[大海賊 -復讐のカリブ海-](https://ja.wikipedia.org/wiki/大海賊_-復讐のカリブ海- "wikilink")」「[ジャズマニア](https://ja.wikipedia.org/wiki/ジャズマニア "wikilink")」を大ホールで開催\[1\]。
   - [2002年](../Page/2002年.md "wikilink")
       - [4月1日](../Page/4月1日.md "wikilink")、佐世保市市制100周年記念事業開幕式典を大ホールで開催（総合司会・[早霧せいな](../Page/早霧せいな.md "wikilink")）。
-      - [11月17日](../Page/11月17日.md "wikilink")、第22回[全国豊かな海づくり大会](https://ja.wikipedia.org/wiki/全国豊かな海づくり大会 "wikilink")式典を大ホールで開催。[天皇](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")・[皇后が臨席](../Page/上皇后美智子.md "wikilink")。
+      - [11月17日](../Page/11月17日.md "wikilink")、第22回[全国豊かな海づくり大会](../Page/全国豊かな海づくり大会.md "wikilink")式典を大ホールで開催。[天皇](https://ja.wikipedia.org/wiki/上皇明仁 "wikilink")・[皇后が臨席](../Page/上皇后美智子.md "wikilink")。
   - [2009年](../Page/2009年.md "wikilink")
       - [7月16日](../Page/7月16日.md "wikilink")、第45回献血運動推進全国大会式典を大ホールで開催。[皇太子が臨席](https://ja.wikipedia.org/wiki/徳仁 "wikilink")。
       - [8月3日](../Page/8月3日.md "wikilink")、B'z「SHOWCASE 2009 -B'z In Your Town-」を大ホールで開催\[2\]。
@@ -51,21 +51,21 @@
       - [6月11日](../Page/6月11日.md "wikilink") - [12日](../Page/6月12日.md "wikilink")、[福岡デザイン専門学校](https://ja.wikipedia.org/wiki/福岡デザイン専門学校 "wikilink")「学生作品展&進学相談会」をイベントホールで開催\[3\]。
       - [6月26日](../Page/6月26日.md "wikilink")、[新日本フィルハーモニー交響楽団](../Page/新日本フィルハーモニー交響楽団.md "wikilink")特別演奏会を大ホールで開催（指揮：[ダニエル・ハーディング](../Page/ダニエル・ハーディング.md "wikilink")、チェロ：ウェン=シン・ヤン）\[4\]。
   - [2014年](../Page/2014年.md "wikilink")
-      - [3月20日](../Page/3月20日.md "wikilink")、[斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")「LIVE TOUR 2013-2014 "斉藤&和義"」を大ホールで開催\[5\]。
+      - [3月20日](../Page/3月20日.md "wikilink")、[斉藤和義](../Page/斉藤和義.md "wikilink")「LIVE TOUR 2013-2014 "斉藤&和義"」を大ホールで開催\[5\]。
   - [2016年](../Page/2016年.md "wikilink")（開館15周年）
       - [2月11日](../Page/2月11日.md "wikilink")、斉藤和義「LIVE TOUR 2015-2016 "風の果てまで"」を大ホールで開催\[6\]。
-      - [3月10日](../Page/3月10日.md "wikilink") - [3月11日](../Page/3月11日.md "wikilink")、「地方創生フォーラム in SASEBO」を大ホール（10日）、中ホール（11日）で開催（司会：[川田裕美](https://ja.wikipedia.org/wiki/川田裕美 "wikilink")、プロデュース：[菅賢治](https://ja.wikipedia.org/wiki/菅賢治 "wikilink")）\[7\]。
+      - [3月10日](../Page/3月10日.md "wikilink") - [3月11日](../Page/3月11日.md "wikilink")、「地方創生フォーラム in SASEBO」を大ホール（10日）、中ホール（11日）で開催（司会：[川田裕美](https://ja.wikipedia.org/wiki/川田裕美 "wikilink")、プロデュース：[菅賢治](../Page/菅賢治.md "wikilink")）\[7\]。
 
 ## アクセス
 
-  - [JR](../Page/九州旅客鉄道.md "wikilink")・[松浦鉄道](../Page/松浦鉄道.md "wikilink")[佐世保駅](https://ja.wikipedia.org/wiki/佐世保駅 "wikilink")から歩行者専用道路または[国道35号](https://ja.wikipedia.org/wiki/国道35号 "wikilink")で徒歩3分
-  - [西肥バス](https://ja.wikipedia.org/wiki/西肥自動車 "wikilink")・[佐世保市営バス](../Page/佐世保市交通局.md "wikilink")「戸尾町」下車
-  - [西九州自動車道](../Page/西九州自動車道.md "wikilink")[佐世保みなとICから車で](https://ja.wikipedia.org/wiki/佐世保みなとインターチェンジ "wikilink")5分
+  - [JR](../Page/九州旅客鉄道.md "wikilink")・[松浦鉄道](../Page/松浦鉄道.md "wikilink")[佐世保駅](https://ja.wikipedia.org/wiki/佐世保駅 "wikilink")から歩行者専用道路または[国道35号](../Page/国道35号.md "wikilink")で徒歩3分
+  - [西肥バス](../Page/西肥自動車.md "wikilink")・[佐世保市営バス](../Page/佐世保市交通局.md "wikilink")「戸尾町」下車
+  - [西九州自動車道](../Page/西九州自動車道.md "wikilink")[佐世保みなとICから車で](../Page/佐世保みなとインターチェンジ.md "wikilink")5分
 
 ## 関連項目
 
   - [プロセニアム型](https://ja.wikipedia.org/wiki/劇場#プロセニアム型 "wikilink")
-  - [プロセニアム・アーチ](https://ja.wikipedia.org/wiki/プロセニアム・アーチ "wikilink")
+  - [プロセニアム・アーチ](../Page/プロセニアム・アーチ.md "wikilink")
   - [長崎県立大学](../Page/長崎県立大学.md "wikilink") - 同大学の入学式はアルカスSASEBOで行われる
 
 ## 脚注

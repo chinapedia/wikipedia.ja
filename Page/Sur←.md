@@ -3,15 +3,15 @@
 
 『**sur←**』（ルーシュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の32作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／イーストワールドよりリリース、[2003年](../Page/2003年.md "wikilink")[JULIE LABELより再発された](../Page/JULIE_LABEL.md "wikilink")。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／イーストワールドよりリリース、[2003年](../Page/2003年.md "wikilink")[JULIE LABELより再発された](../Page/JULIE_LABEL.md "wikilink")。
 
 ## 解説
 
-本作のタイトルは「sur（[シュール](https://ja.wikipedia.org/wiki/シュール "wikilink")）」を「←（左）」、即ち反対から読む意味で「ルーシュ」と読む（正確なデザインは「sur」の上に「←」が乗っている）。コンセプトは「シュールな歌謡曲」であり、リリース当時、[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")のデザインによるかなりどぎついジャケ写が話題になった。『[JULIE IV 今僕は倖せです](https://ja.wikipedia.org/wiki/JULIE_IV_今僕は倖せです "wikilink")』以来実に23年ぶりの沢田研二セルフプロデュース作品。
+本作のタイトルは「sur（[シュール](https://ja.wikipedia.org/wiki/シュール "wikilink")）」を「←（左）」、即ち反対から読む意味で「ルーシュ」と読む（正確なデザインは「sur」の上に「←」が乗っている）。コンセプトは「シュールな歌謡曲」であり、リリース当時、[早川タケジ](https://ja.wikipedia.org/wiki/早川タケジ "wikilink")のデザインによるかなりどぎついジャケ写が話題になった。『[JULIE IV 今僕は倖せです](../Page/JULIE_IV_今僕は倖せです.md "wikilink")』以来実に23年ぶりの沢田研二セルフプロデュース作品。
 
-本作では[大村憲司](https://ja.wikipedia.org/wiki/大村憲司 "wikilink")、[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")勢と[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")、[朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")の[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")勢に大別できるが多くのミュージシャンを起用し、多彩な音色を構築している。また[PYG](../Page/PYG.md "wikilink")以来苦楽を共にしていた[井上堯之](https://ja.wikipedia.org/wiki/井上堯之 "wikilink")が1曲提供している。前述通り本作は沢田自身のプロデュースにより、以後の作品は現在に至るまで沢田本人の強固な意志の元に製作されている作品である。
+本作では[大村憲司](../Page/大村憲司.md "wikilink")、[白井良明](https://ja.wikipedia.org/wiki/白井良明 "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")勢と[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")、[朝本浩文](../Page/朝本浩文.md "wikilink")の[キーボーディスト](../Page/キーボーディスト.md "wikilink")勢に大別できるが多くのミュージシャンを起用し、多彩な音色を構築している。また[PYG](../Page/PYG.md "wikilink")以来苦楽を共にしていた[井上堯之](../Page/井上堯之.md "wikilink")が1曲提供している。前述通り本作は沢田自身のプロデュースにより、以後の作品は現在に至るまで沢田本人の強固な意志の元に製作されている作品である。
 
-「A SAINT IN THE NIGHT」「Beautiful World」で全詞を書いた[覚和歌子](../Page/覚和歌子.md "wikilink")が3年ぶりに詞を提供した。以後、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")のアルバム『GREEN BOY』まで沢田研二セルフプロデュース作品には欠かせない存在となる。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に開催されたジュリー祭りでは[安井かずみ](https://ja.wikipedia.org/wiki/安井かずみ "wikilink")作品と並ぶ7作品が歌われた。
+「A SAINT IN THE NIGHT」「Beautiful World」で全詞を書いた[覚和歌子](../Page/覚和歌子.md "wikilink")が3年ぶりに詞を提供した。以後、[2005年](../Page/2005年.md "wikilink")のアルバム『GREEN BOY』まで沢田研二セルフプロデュース作品には欠かせない存在となる。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に開催されたジュリー祭りでは[安井かずみ](../Page/安井かずみ.md "wikilink")作品と並ぶ7作品が歌われた。
 
 ## 収録曲
 

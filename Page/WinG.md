@@ -5,7 +5,7 @@
 
 ## 開発の経緯
 
-[Windowsに標準搭載されていたグラフィックライブラリ](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[GDIでは](https://ja.wikipedia.org/wiki/Graphics_Device_Interface "wikilink")、グラフィックの描画のたびに[インタフェースを介してグラフィックカードに描画命令を送る仕組みであったために描画速度が遅く](../Page/インタフェース_\(情報技術\).md "wikilink")、高速な2D描画を必要としたゲームには利用できなかった。そのため、オフィスアプリケーションやマルチメディアの利用はWindowsだが、ゲームのときはWindowsを終了させ、[MS-DOS](../Page/MS-DOS.md "wikilink")上でゲームを起動して楽しむのが一般的だった。MS-DOSはマシンのハードウェアを直接制御することができた\[1\]が、Windows 3.1の上でゲームを動かすとOSが割り込むためにゲームを高速に動作させるのは不可能に近い話だった。また、MS-DOSでは[OpenGL](../Page/OpenGL.md "wikilink")のようにハードウェアの違いを吸収できなかったので、ソフトメーカーが自力でおびただしい数のハードウェアそれぞれを意識したコードを書くか、他社が提供するドライバとライブラリを利用するしか無かった。そこで、 GDIのパフォーマンスの違い（特に[Bit Block Transfer](../Page/Bit_Block_Transfer.md "wikilink") (BitBlt) 処理）を吸収することで高速描画を可能とするライブラリとして、**WinG**が開発された。
+[Windowsに標準搭載されていたグラフィックライブラリ](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[GDIでは](../Page/Graphics_Device_Interface.md "wikilink")、グラフィックの描画のたびに[インタフェースを介してグラフィックカードに描画命令を送る仕組みであったために描画速度が遅く](../Page/インタフェース_\(情報技術\).md "wikilink")、高速な2D描画を必要としたゲームには利用できなかった。そのため、オフィスアプリケーションやマルチメディアの利用はWindowsだが、ゲームのときはWindowsを終了させ、[MS-DOS](../Page/MS-DOS.md "wikilink")上でゲームを起動して楽しむのが一般的だった。MS-DOSはマシンのハードウェアを直接制御することができた\[1\]が、Windows 3.1の上でゲームを動かすとOSが割り込むためにゲームを高速に動作させるのは不可能に近い話だった。また、MS-DOSでは[OpenGL](../Page/OpenGL.md "wikilink")のようにハードウェアの違いを吸収できなかったので、ソフトメーカーが自力でおびただしい数のハードウェアそれぞれを意識したコードを書くか、他社が提供するドライバとライブラリを利用するしか無かった。そこで、 GDIのパフォーマンスの違い（特に[Bit Block Transfer](../Page/Bit_Block_Transfer.md "wikilink") (BitBlt) 処理）を吸収することで高速描画を可能とするライブラリとして、**WinG**が開発された。
 
 ## 制限
 
@@ -17,14 +17,14 @@
 
 ## [DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")への移行
 
-このWinGの成果は、[Windows 95以後にも活かされた](../Page/Microsoft_Windows_95.md "wikilink")。Windows 95でも、ハードウェアに直接アクセスできない制約が残っているため、WinGを元に32ビットプログラムへの拡張が行われることになる。当初は、Windows Games SDKとして、拡張されたWinGのほか、サウンドチップやジョイパッドなどの[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")と直接やりとりできるインタフェースとしてリリースされ、その後、マルチメディアテクノロジーの総称として[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")と言う名称が与えられた。WinGの後継となった[DirectDraw](../Page/DirectDraw.md "wikilink")はDirectX 7まで使用され、その後DirectX 8以降は[Direct3D](https://ja.wikipedia.org/wiki/Direct3D "wikilink")と統合されてDirectX Graphicsとなっている。
+このWinGの成果は、[Windows 95以後にも活かされた](../Page/Microsoft_Windows_95.md "wikilink")。Windows 95でも、ハードウェアに直接アクセスできない制約が残っているため、WinGを元に32ビットプログラムへの拡張が行われることになる。当初は、Windows Games SDKとして、拡張されたWinGのほか、サウンドチップやジョイパッドなどの[入力機器](https://ja.wikipedia.org/wiki/入力機器 "wikilink")と直接やりとりできるインタフェースとしてリリースされ、その後、マルチメディアテクノロジーの総称として[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")と言う名称が与えられた。WinGの後継となった[DirectDraw](../Page/DirectDraw.md "wikilink")はDirectX 7まで使用され、その後DirectX 8以降は[Direct3D](../Page/Direct3D.md "wikilink")と統合されてDirectX Graphicsとなっている。
 
 ## WinG使用のゲーム
 
   - [Doom](https://ja.wikipedia.org/wiki/Doom "wikilink") (1995)\[2\]
-  - [シムシティ2000](../Page/シムシティ2000.md "wikilink") for Windows:[マクシス](https://ja.wikipedia.org/wiki/マクシス "wikilink")
-  - [3×3 EYES](https://ja.wikipedia.org/wiki/3×3_EYES "wikilink")～吸精公主～:[ニホンクリエイト](../Page/ニホンクリエイト.md "wikilink") (Windows 95版も発売)
-  - [信長の野望・天翔記](https://ja.wikipedia.org/wiki/信長の野望・天翔記 "wikilink"):[コーエー](../Page/コーエー.md "wikilink") (Windows 95版も発売)
+  - [シムシティ2000](../Page/シムシティ2000.md "wikilink") for Windows:[マクシス](../Page/マクシス.md "wikilink")
+  - [3×3 EYES](../Page/3×3_EYES.md "wikilink")～吸精公主～:[ニホンクリエイト](../Page/ニホンクリエイト.md "wikilink") (Windows 95版も発売)
+  - [信長の野望・天翔記](../Page/信長の野望・天翔記.md "wikilink"):[コーエー](../Page/コーエー.md "wikilink") (Windows 95版も発売)
   - [太閤立志伝II](../Page/太閤立志伝II.md "wikilink") for Windows:[コーエー](../Page/コーエー.md "wikilink")
   - [ぷよぷよ](../Page/ぷよぷよ.md "wikilink") for Windows:[ボーステック](../Page/ボーステック.md "wikilink") (Windows 95&98版も発売)
   - [ザ・タワー (ゲーム)](../Page/ザ・タワー_\(ゲーム\).md "wikilink") (1995)

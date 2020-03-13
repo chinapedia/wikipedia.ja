@@ -5,7 +5,7 @@
 
 ## 概要
 
-当初は沢田(以下ジュリー)が[ナベプロから独立する前に所属していた](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink")[ポリドール内のプライベート](../Page/ポリドール・レコード.md "wikilink")・レーベルだった。そして後に[ナベプロから独立し](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink")、個人事務所「**株式会社ココロ**（CO-CLO Corporation）」（実際はナベプロの資本が入っており、実質子会社である。同社社長もナベプロからの出向）を設立した[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")以降、[インディーズ](../Page/インディーズ.md "wikilink")[レーベルとして](../Page/レコードレーベル.md "wikilink")[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（現・[ユニバーサルミュージック合同会社／EMI Records Japanレーベル](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）で販売されていたアルバム及びジュリーの関連諸作品は全て、ジュリー側が予算を負担する形で製作されEMI側は供給、販売のみを行う契約となっていた。
+当初は沢田(以下ジュリー)が[ナベプロから独立する前に所属していた](../Page/渡辺プロダクション.md "wikilink")[ポリドール内のプライベート](../Page/ポリドール・レコード.md "wikilink")・レーベルだった。そして後に[ナベプロから独立し](../Page/渡辺プロダクション.md "wikilink")、個人事務所「**株式会社ココロ**（CO-CLO Corporation）」（実際はナベプロの資本が入っており、実質子会社である。同社社長もナベプロからの出向）を設立した[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")以降、[インディーズ](../Page/インディーズ.md "wikilink")[レーベルとして](../Page/レコードレーベル.md "wikilink")[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・[ユニバーサルミュージック合同会社／EMI Records Japanレーベル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）で販売されていたアルバム及びジュリーの関連諸作品は全て、ジュリー側が予算を負担する形で製作されEMI側は供給、販売のみを行う契約となっていた。
 
 この時点でジュリーは、「完全に自身の意図による」アルバムの製作をある程度まで実現していた。
 
@@ -37,11 +37,11 @@
 ## 関連項目
 
   - [沢田研二](../Page/沢田研二.md "wikilink")
-  - [渡辺プロダクション](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink")
+  - [渡辺プロダクション](../Page/渡辺プロダクション.md "wikilink")
   - [インディーズ](../Page/インディーズ.md "wikilink")
   - [ユニバーサルミュージック合同会社](https://ja.wikipedia.org/wiki/ユニバーサルミュージック合同会社 "wikilink")
       - [ポリドール](../Page/ポリドール・レコード.md "wikilink")
-      - [EMI Records Japan](https://ja.wikipedia.org/wiki/EMI_Records_Japan "wikilink")（旧・[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")←[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")←[東芝音楽工業](https://ja.wikipedia.org/wiki/東芝音楽工業 "wikilink")）
+      - [EMI Records Japan](https://ja.wikipedia.org/wiki/EMI_Records_Japan "wikilink")（旧・[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")←[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")←[東芝音楽工業](https://ja.wikipedia.org/wiki/東芝音楽工業 "wikilink")）
 
 ## 外部リンク
 

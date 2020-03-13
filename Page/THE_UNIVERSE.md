@@ -1,7 +1,7 @@
 > この記事は[THE UNIVERSE](https://ja.wikipedia.org/wiki/THE_UNIVERSE)から翻訳されています。
 
 
-**THE UNIVERSE**（ザ・ユニバース）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")より[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[音楽](../Page/音楽.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。各ナビゲーターの選曲とトークで構成される、[NIGHT STORIESと似た雰囲気の番組である](https://ja.wikipedia.org/wiki/NIGHT_STORIES "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")からはJ-WAVEの[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")[Brandnew Jで](../Page/Brandnew_J.md "wikilink")[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")されていた。
+**THE UNIVERSE**（ザ・ユニバース）は、[2006年](../Page/2006年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")より[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[音楽](../Page/音楽.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。各ナビゲーターの選曲とトークで構成される、[NIGHT STORIESと似た雰囲気の番組である](../Page/NIGHT_STORIES.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")からはJ-WAVEの[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")[Brandnew Jで](../Page/Brandnew_J.md "wikilink")[サイマル放送](../Page/サイマル放送.md "wikilink")されていた。
 
 ## 放送時間
 
@@ -22,16 +22,16 @@
 
 [火曜日](../Page/火曜日.md "wikilink")
 
-  - [菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink") （2006年10月 - 2007年9月）- インターネット放送開始のために強制降板。
+  - [菊地成孔](../Page/菊地成孔.md "wikilink") （2006年10月 - 2007年9月）- インターネット放送開始のために強制降板。
   - [Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink") （2007年10月 - 2008年3月）
 
 [水曜日](../Page/水曜日.md "wikilink")
 
-  - [大貫妙子](https://ja.wikipedia.org/wiki/大貫妙子 "wikilink") （2006年10月 - 2008年3月）
+  - [大貫妙子](../Page/大貫妙子.md "wikilink") （2006年10月 - 2008年3月）
 
-[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")
+[木曜日](../Page/木曜日.md "wikilink")
 
-  - [YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink") （2006年10月 - 2008年3月）
+  - [YO-KING](../Page/YO-KING.md "wikilink") （2006年10月 - 2008年3月）
 
 [金曜日](../Page/金曜日.md "wikilink")
 
@@ -41,11 +41,11 @@
 
   - 松尾潔 （月曜日）
       - ブラックミュージックが中心に選曲される。
-      - [山下達郎](../Page/山下達郎.md "wikilink")、[鈴木雅之](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink")、[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")らのゲスト出演歴がある。
+      - [山下達郎](../Page/山下達郎.md "wikilink")、[鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink")、[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")らのゲスト出演歴がある。
   - 菊地成孔 （火曜日）
       - 自身の作品をはじめ、[ジャズ](../Page/ジャズ.md "wikilink")および[現代音楽](../Page/現代音楽.md "wikilink")を中心に選曲されている。番組最初の楽曲として[デューク・エリントン](../Page/デューク・エリントン.md "wikilink")をかけるのが半ばルール化している。
       - 歌舞伎町ジャーナル
-        菊地が[歌舞伎町](https://ja.wikipedia.org/wiki/歌舞伎町 "wikilink")在住であることから、しばしば歌舞伎町の近況についてのトークが繰り広げられる。ほぼコーナー化しており、このトークに対するリスナーの投稿も多い。
+        菊地が[歌舞伎町](../Page/歌舞伎町.md "wikilink")在住であることから、しばしば歌舞伎町の近況についてのトークが繰り広げられる。ほぼコーナー化しており、このトークに対するリスナーの投稿も多い。
       - 録音放送であることを匂わせる（ほとんど暴露に近い）発言がたびたび行われる（「なぜか今は明るい感じで、『今起きてきたぞ』って感じなんですけどね」など）。
         それに対してディレクターが必死にダメ出しする様子を菊地が実況するというのが[お約束である](../Page/約束.md "wikilink")。但し、たびたび生放送の回があり、特に2007年5月ごろは生放送ラッシュとなった。ただしそれ以後は再び収録に戻っている。
       - しばしば「菊地成孔と愉快な仲間たち」と称してゲストが登場した。ゲストはジャズミュージシャン仲間や共演アーティストである。また、文筆家である[吉本ばなな](../Page/吉本ばなな.md "wikilink")、[金原ひとみ](https://ja.wikipedia.org/wiki/金原ひとみ "wikilink")もゲスト出演した。

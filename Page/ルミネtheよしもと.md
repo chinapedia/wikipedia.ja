@@ -11,7 +11,7 @@
 
 劇場の前には「よしもとテレビ通り」という物販スペースがあり、吉本芸人のオリジナルグッズやテレビ番組の関連グッズなどを扱っている。お笑いファンだけでなく地方からの団体客などを意識した商品が多く、観光名所としての充実を図っている。
 
-[日本テレビとの共同キャンペーン](../Page/日本テレビ放送網.md "wikilink")「[Laugh\&Peace](https://ja.wikipedia.org/wiki/Laugh&Peace "wikilink")」の発表会見、[遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")と[千秋の結婚会見](https://ja.wikipedia.org/wiki/千秋_\(タレント\) "wikilink")（現在は離婚）など注目を集める発表がルミネtheよしもとで行われている。
+[日本テレビとの共同キャンペーン](../Page/日本テレビ放送網.md "wikilink")「[Laugh\&Peace](../Page/Laugh&Peace.md "wikilink")」の発表会見、[遠藤章造](../Page/遠藤章造.md "wikilink")と[千秋の結婚会見](../Page/千秋_\(タレント\).md "wikilink")（現在は離婚）など注目を集める発表がルミネtheよしもとで行われている。
 
 2008年5月26日同劇場ロビーで7周年キャンペーン記者会見が行われた。
 
@@ -27,7 +27,7 @@
 
   - **1回目、2回目、3回目** - 1回目（旧・1じ3じ）：12:00 - 14:00、2回目（旧・4じ6じ）：15:00 - 17:00、3回目（旧・7じ9じ）：19:00 - 21:00。ただし、3回目は平日のみ。前半は芸人のネタ見せである「ネタ」、後半は「[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")」「スペシャルコント」「ルミネtheよしもとプロデュース公演」など日替わり公演となる。また、日によっては「ネタバラエティ」と題し、ネタ見せのみで2時間の公演となる場合もある。
   - **新宿夜寄席LUMI☆NETA90** - 2010年11月1日から開始となるレギュラーライブ。主に平日の19時より公演。漫才やコントのいわゆるネタのみのライブで、90分公演。前売・当日ともに料金3000円。公演終了後に出演者全員が舞台上に集合し、エンディングトーク並びに写真撮影タイムが設けられる。※スケジュールにより参加できないタレントがいる場合がある。
-  - **YOSHIMOTOライブスペシャル** - 土・日・祝日・（平日に公演する場合も有）：19時開演 21時終演。タレントプロデュースによるイベントやゲーム、「大喜利」「トーク」「ネタ」などのスペシャルライブ。定期的に行われる公演としては、[千原兄弟](../Page/千原兄弟.md "wikilink")MCの「べしゃり部」、[千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")MCの「芸人定食」、[ライセンス単独ライブの](../Page/ライセンス_\(お笑いコンビ\).md "wikilink")「ENJOY」、[2丁拳銃](../Page/2丁拳銃.md "wikilink")単独ライブの「GU」などがある。また、毎年の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")（かつては準決勝で、2019年では3回戦で）、[R-1ぐらんぷり](../Page/R-1ぐらんぷり.md "wikilink")（かつては準決勝で、2019年では準々決勝で）、及び[女芸人No.1決定戦 THE W](https://ja.wikipedia.org/wiki/女芸人No.1決定戦_THE_W "wikilink")（準決勝）もここで開催される。
+  - **YOSHIMOTOライブスペシャル** - 土・日・祝日・（平日に公演する場合も有）：19時開演 21時終演。タレントプロデュースによるイベントやゲーム、「大喜利」「トーク」「ネタ」などのスペシャルライブ。定期的に行われる公演としては、[千原兄弟](../Page/千原兄弟.md "wikilink")MCの「べしゃり部」、[千原ジュニア](../Page/千原ジュニア.md "wikilink")MCの「芸人定食」、[ライセンス単独ライブの](../Page/ライセンス_\(お笑いコンビ\).md "wikilink")「ENJOY」、[2丁拳銃](../Page/2丁拳銃.md "wikilink")単独ライブの「GU」などがある。また、毎年の[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")（かつては準決勝で、2019年では3回戦で）、[R-1ぐらんぷり](../Page/R-1ぐらんぷり.md "wikilink")（かつては準決勝で、2019年では準々決勝で）、及び[女芸人No.1決定戦 THE W](https://ja.wikipedia.org/wiki/女芸人No.1決定戦_THE_W "wikilink")（準決勝）もここで開催される。
   - **[業界イチの青田買い](https://ja.wikipedia.org/wiki/業界イチの青田買い "wikilink")** - 不定期開催（月に3 - 4回程度）：開演10:00 - 11:00、DVD収録日9:30 - 11:00。若手芸人主体のモーニングライブ。
   - **[ワンコインライブ](https://ja.wikipedia.org/wiki/ワンコインライブ "wikilink")** - 平日：17:45 - 18:15。30分に凝縮された若手のネタ・企画中心のライブ。前売券、当日券共にワンコインの500円。
   - **[プライムライブ](https://ja.wikipedia.org/wiki/プライムライブ "wikilink")** - 不定期開催：開演22:00 - 23:00。芸人発信の1時間の企画ライブ。
@@ -37,7 +37,7 @@
 
   - **7じ9じ** - 平日の夜7時 - 9時に行われる。土日・祝祭日には「1じ3じ」「4じ6じ」の2回公演となる。[2006年](../Page/2006年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")からは平日も昼公演を開始する。通常はネタと新喜劇の2本立てだが、ネタのみで120分の場合もある。
       - [ネタ](https://ja.wikipedia.org/wiki/ネタ "wikilink") - テレビで活躍するクラスの人気[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")が出演。特に[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")・[雨上がり決死隊](../Page/雨上がり決死隊.md "wikilink")・[ココリコ](../Page/ココリコ.md "wikilink")などのネタはルミネ以外では滅多に見ることができない。
-      - 新喜劇 - NGKの舞台経験者を座長に据えたルミネオリジナル新喜劇の公演。[山田花子や](https://ja.wikipedia.org/wiki/山田花子_\(タレント\) "wikilink")[島田珠代](https://ja.wikipedia.org/wiki/島田珠代 "wikilink")などはルミネの開業に合わせて東京に拠点を移した。2006年からはこれまでのルミネ新喜劇に加えて、毎月数日連続でNGK新喜劇メンバーによる本場吉本新喜劇の公演を開始、2007年にはNGK組、ルミネ組合同の東西交流スペシャルも公演している。
+      - 新喜劇 - NGKの舞台経験者を座長に据えたルミネオリジナル新喜劇の公演。[山田花子や](https://ja.wikipedia.org/wiki/山田花子_\(タレント\) "wikilink")[島田珠代](../Page/島田珠代.md "wikilink")などはルミネの開業に合わせて東京に拠点を移した。2006年からはこれまでのルミネ新喜劇に加えて、毎月数日連続でNGK新喜劇メンバーによる本場吉本新喜劇の公演を開始、2007年にはNGK組、ルミネ組合同の東西交流スペシャルも公演している。
   - **YOSHIMOTOライブ** - 若手芸人の発掘を目的としたネタバトルなどで構成。平日の夕方に行われる。かつては「5じ6じ」という名称で、[ロバート](../Page/ロバート_\(お笑いトリオ\).md "wikilink")・[インパルス](../Page/インパルス_\(お笑いコンビ\).md "wikilink")・[森三中](../Page/森三中.md "wikilink")・[三瓶](../Page/三瓶.md "wikilink")などを送り出した。
   - このほか若手芸人の単独公演も頻繁に行われているが、人気芸人のライブはより大規模な他の会場で行われる場合が多い。
   - 「**おでかけルミネtheよしもと**」という地方公演を各地で不定期に開催している。
@@ -46,7 +46,7 @@
 ## ネタで出演している主な芸人
 
   - [中田カウス・ボタン](../Page/中田カウス・ボタン.md "wikilink")
-  - [ザ・ぼんち](https://ja.wikipedia.org/wiki/ザ・ぼんち "wikilink")
+  - [ザ・ぼんち](../Page/ザ・ぼんち.md "wikilink")
   - [西川のりお・上方よしお](../Page/西川のりお・上方よしお.md "wikilink")
   - [オール阪神・巨人](https://ja.wikipedia.org/wiki/オール阪神・巨人 "wikilink")
   - [宮川大助・花子](../Page/宮川大助・花子.md "wikilink")
@@ -56,19 +56,19 @@
   - [村上ショージ](../Page/村上ショージ.md "wikilink")
   - [木村祐一](../Page/木村祐一.md "wikilink")
   - [山田花子](https://ja.wikipedia.org/wiki/山田花子 "wikilink")
-  - [島田珠代](https://ja.wikipedia.org/wiki/島田珠代 "wikilink")
+  - [島田珠代](../Page/島田珠代.md "wikilink")
   - [月亭方正](../Page/月亭方正.md "wikilink")
   - [極楽とんぼ](../Page/極楽とんぼ.md "wikilink")
   - [ショウショウ](../Page/ショウショウ.md "wikilink")
-  - [はりけ〜んず](https://ja.wikipedia.org/wiki/はりけ〜んず "wikilink")
+  - [はりけ〜んず](../Page/はりけ〜んず.md "wikilink")
   - [FUJIWARA](../Page/FUJIWARA.md "wikilink")
   - [なだぎ武](../Page/なだぎ武.md "wikilink")
-  - [博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")
+  - [博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")
   - [星田英利](../Page/星田英利.md "wikilink")
   - [矢野・兵動](../Page/矢野・兵動.md "wikilink")
   - [中川家](../Page/中川家.md "wikilink")
   - [陣内智則](../Page/陣内智則.md "wikilink")
-  - [COWCOW](https://ja.wikipedia.org/wiki/COWCOW "wikilink")
+  - [COWCOW](../Page/COWCOW.md "wikilink")
   - [2丁拳銃](../Page/2丁拳銃.md "wikilink")
   - [ペナルティ](../Page/ペナルティ_\(お笑いコンビ\).md "wikilink")
   - [サバンナ](../Page/サバンナ_\(お笑いコンビ\).md "wikilink")
@@ -83,32 +83,32 @@
   - [品川庄司](../Page/品川庄司.md "wikilink")
   - [タカアンドトシ](../Page/タカアンドトシ.md "wikilink")
   - [東京ダイナマイト](../Page/東京ダイナマイト.md "wikilink")
-  - [パンクブーブー](https://ja.wikipedia.org/wiki/パンクブーブー "wikilink")
+  - [パンクブーブー](../Page/パンクブーブー.md "wikilink")
   - [アップダウン](../Page/アップダウン.md "wikilink")
-  - [あべこうじ](https://ja.wikipedia.org/wiki/あべこうじ "wikilink")
-  - [くまだまさし](https://ja.wikipedia.org/wiki/くまだまさし "wikilink")
+  - [あべこうじ](../Page/あべこうじ.md "wikilink")
+  - [くまだまさし](../Page/くまだまさし.md "wikilink")
   - [ザ・プラン9](../Page/ザ・プラン9.md "wikilink")
   - [ライセンス](../Page/ライセンス_\(お笑いコンビ\).md "wikilink")
-  - [レイザーラモン](https://ja.wikipedia.org/wiki/レイザーラモン "wikilink")
+  - [レイザーラモン](../Page/レイザーラモン.md "wikilink")
   - [ロザン](../Page/ロザン.md "wikilink")
   - [田畑藤本](https://ja.wikipedia.org/wiki/田畑藤本 "wikilink")
   - [笑い飯](../Page/笑い飯.md "wikilink")
   - [ハイキングウォーキング](../Page/ハイキングウォーキング.md "wikilink")
   - [カラテカ](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")
-  - [ガリットチュウ](https://ja.wikipedia.org/wiki/ガリットチュウ "wikilink")
-  - [佐久間一行](https://ja.wikipedia.org/wiki/佐久間一行 "wikilink")
+  - [ガリットチュウ](../Page/ガリットチュウ.md "wikilink")
+  - [佐久間一行](../Page/佐久間一行.md "wikilink")
   - [ニブンノゴ\!](../Page/ニブンノゴ!.md "wikilink")
   - [犬の心](../Page/犬の心.md "wikilink")
   - [ザ・パンチ](../Page/ザ・パンチ.md "wikilink")
   - [トータルテンボス](../Page/トータルテンボス.md "wikilink")
-  - [バッドボーイズ](https://ja.wikipedia.org/wiki/バッドボーイズ_\(お笑いコンビ\) "wikilink")
-  - [アジアン](https://ja.wikipedia.org/wiki/アジアン "wikilink")
+  - [バッドボーイズ](../Page/バッドボーイズ_\(お笑いコンビ\).md "wikilink")
+  - [アジアン](../Page/アジアン.md "wikilink")
   - [麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")
   - [インパルス](../Page/インパルス_\(お笑いコンビ\).md "wikilink")
   - [千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")
   - [天津](../Page/天津_\(お笑いコンビ\).md "wikilink")
   - [POISON GIRL BAND](../Page/POISON_GIRL_BAND.md "wikilink")
-  - [レギュラー](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")
+  - [レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")
   - [ロバート](../Page/ロバート_\(お笑いトリオ\).md "wikilink")
   - [とろサーモン](https://ja.wikipedia.org/wiki/とろサーモン_\(お笑いコンビ\) "wikilink")
   - [キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")
@@ -121,7 +121,7 @@
   - [ウーマンラッシュアワー](https://ja.wikipedia.org/wiki/ウーマンラッシュアワー "wikilink")
   - [南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")
   - [ブロードキャスト\!\!](../Page/ブロードキャスト!!.md "wikilink")
-  - [チーモンチョーチュウ](https://ja.wikipedia.org/wiki/チーモンチョーチュウ "wikilink")
+  - [チーモンチョーチュウ](../Page/チーモンチョーチュウ.md "wikilink")
   - [とにかく明るい安村](https://ja.wikipedia.org/wiki/とにかく明るい安村 "wikilink")
   - [友近](../Page/友近.md "wikilink")
   - [もう中学生](../Page/もう中学生.md "wikilink")
@@ -184,7 +184,7 @@
 
 他多数。
 
-[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")大阪本社に所属する芸人の出演も多い。ちなみに吉本芸人以外（色んなイベントでも）の芸人もゲストで登場した（ゲストの芸人：[バナナマン](../Page/バナナマン.md "wikilink")、[おぎやはぎ](../Page/おぎやはぎ.md "wikilink")、[バカリズム](https://ja.wikipedia.org/wiki/バカリズム "wikilink")、[劇団ひとり](../Page/劇団ひとり.md "wikilink")、[東京03](https://ja.wikipedia.org/wiki/東京03 "wikilink")、[エレキコミック](../Page/エレキコミック.md "wikilink")、[TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")、[ダンディ坂野](../Page/ダンディ坂野.md "wikilink")、[三拍子](../Page/三拍子_\(お笑いコンビ\).md "wikilink")、[鬼ヶ島](../Page/鬼ヶ島_\(お笑い\).md "wikilink")、[三四郎他](https://ja.wikipedia.org/wiki/三四郎_\(お笑いコンビ\) "wikilink")）。
+[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")大阪本社に所属する芸人の出演も多い。ちなみに吉本芸人以外（色んなイベントでも）の芸人もゲストで登場した（ゲストの芸人：[バナナマン](../Page/バナナマン.md "wikilink")、[おぎやはぎ](../Page/おぎやはぎ.md "wikilink")、[バカリズム](../Page/バカリズム.md "wikilink")、[劇団ひとり](../Page/劇団ひとり.md "wikilink")、[東京03](https://ja.wikipedia.org/wiki/東京03 "wikilink")、[エレキコミック](../Page/エレキコミック.md "wikilink")、[TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")、[ダンディ坂野](../Page/ダンディ坂野.md "wikilink")、[三拍子](../Page/三拍子_\(お笑いコンビ\).md "wikilink")、[鬼ヶ島](../Page/鬼ヶ島_\(お笑い\).md "wikilink")、[三四郎他](https://ja.wikipedia.org/wiki/三四郎_\(お笑いコンビ\) "wikilink")）。
 
 ## ルミネtheよしもと新喜劇（現：SPコメディ）
 
@@ -200,8 +200,8 @@
       - [東野幸治](../Page/東野幸治.md "wikilink") - 座長
       - [石田靖](../Page/石田靖.md "wikilink") - 座長
       - [リットン調査団](../Page/リットン調査団_\(お笑いコンビ\).md "wikilink")
-      - [大山英雄](https://ja.wikipedia.org/wiki/大山英雄 "wikilink")（2013年まではルミネで座長もしていたが、新喜劇の縮小に伴い大山班は無くなった）
-      - [国崎恵美](https://ja.wikipedia.org/wiki/国崎恵美 "wikilink")(2009年4月、NGKから移籍）
+      - [大山英雄](../Page/大山英雄.md "wikilink")（2013年まではルミネで座長もしていたが、新喜劇の縮小に伴い大山班は無くなった）
+      - [国崎恵美](../Page/国崎恵美.md "wikilink")(2009年4月、NGKから移籍）
 
 <!-- end list -->
 
@@ -210,12 +210,12 @@
       - [月亭方正](../Page/月亭方正.md "wikilink")（山崎邦正）
       - [星田英利](../Page/星田英利.md "wikilink")（ほっしゃん。）
       - [山田花子](https://ja.wikipedia.org/wiki/山田花子_\(タレント\) "wikilink")
-      - [島田珠代](https://ja.wikipedia.org/wiki/島田珠代 "wikilink")
+      - [島田珠代](../Page/島田珠代.md "wikilink")
       - [宮川大輔](https://ja.wikipedia.org/wiki/宮川大輔_\(タレント\) "wikilink")
       - [水玉れっぷう隊](../Page/水玉れっぷう隊.md "wikilink")
       - [矢部太郎](../Page/矢部太郎.md "wikilink")（[カラテカ](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")）
       - [田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）
-      - [遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")（[ココリコ](../Page/ココリコ.md "wikilink")）
+      - [遠藤章造](../Page/遠藤章造.md "wikilink")（[ココリコ](../Page/ココリコ.md "wikilink")）
       - [山本圭壱](https://ja.wikipedia.org/wiki/山本圭壱 "wikilink")（[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")）
       - [福田充徳](../Page/福田充徳.md "wikilink")（[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")）
       - 次長課長
@@ -224,12 +224,12 @@
       - [ジミー大西](../Page/ジミー大西.md "wikilink")
       - [三瓶](../Page/三瓶.md "wikilink")
       - [どくろ団](https://ja.wikipedia.org/wiki/どくろ団 "wikilink")
-      - [シベリア文太](https://ja.wikipedia.org/wiki/シベリア文太 "wikilink") - 大阪時代、やめよっカナ\!?キャンペーン以前の旧体制時代の新喜劇メンバーでもあった。
+      - [シベリア文太](../Page/シベリア文太.md "wikilink") - 大阪時代、やめよっカナ\!?キャンペーン以前の旧体制時代の新喜劇メンバーでもあった。
       - [本田みずほ](../Page/本田みずほ.md "wikilink")
       - [中野公美子](../Page/中野公美子.md "wikilink") - 元[大阪パフォーマンスドール](../Page/大阪パフォーマンスドール.md "wikilink")
       - [たくませいこ](https://ja.wikipedia.org/wiki/たくませいこ "wikilink")
       - [原万紀子](../Page/原万紀子.md "wikilink")
-      - [浜田翔子](https://ja.wikipedia.org/wiki/浜田翔子_\(タレント\) "wikilink")
+      - [浜田翔子](../Page/浜田翔子_\(タレント\).md "wikilink")
       - [上床美智子](../Page/上床美智子.md "wikilink")
       - [赤松新](https://ja.wikipedia.org/wiki/赤松新 "wikilink")
       - [遠藤かおる](https://ja.wikipedia.org/wiki/遠藤かおる "wikilink")
@@ -243,10 +243,10 @@
 ### 出演者
 
   - [辻本茂雄](../Page/辻本茂雄.md "wikilink")-座長
-  - [川畑泰史](https://ja.wikipedia.org/wiki/川畑泰史 "wikilink")-座長
-  - [平山昌雄](https://ja.wikipedia.org/wiki/平山昌雄 "wikilink")
-  - [伊賀健二](https://ja.wikipedia.org/wiki/伊賀健二 "wikilink")
-  - [アキ](https://ja.wikipedia.org/wiki/アキ_\(お笑い芸人\) "wikilink") ([水玉れっぷう隊](../Page/水玉れっぷう隊.md "wikilink"))
+  - [川畑泰史](../Page/川畑泰史.md "wikilink")-座長
+  - [平山昌雄](../Page/平山昌雄.md "wikilink")
+  - [伊賀健二](../Page/伊賀健二.md "wikilink")
+  - [アキ](../Page/アキ_\(お笑い芸人\).md "wikilink") ([水玉れっぷう隊](../Page/水玉れっぷう隊.md "wikilink"))
 
 他多数。 \<\!--\>
 
@@ -301,7 +301,7 @@
   - [京橋花月](../Page/京橋花月.md "wikilink")（[うめだ花月](../Page/うめだ花月.md "wikilink")が大阪[京橋に移動したもの](https://ja.wikipedia.org/wiki/京橋_\(大阪市\) "wikilink")）
   - [baseよしもと](https://ja.wikipedia.org/wiki/baseよしもと "wikilink")
   - [よしもと新喜劇](../Page/よしもと新喜劇.md "wikilink")
-  - [日曜笑劇場](https://ja.wikipedia.org/wiki/日曜笑劇場 "wikilink")
+  - [日曜笑劇場](../Page/日曜笑劇場.md "wikilink")
 
 ## 外部リンク
 

@@ -24,7 +24,7 @@
 ### 休刊当時連載されていた作品
 
   - [コータローまかりとおる\! L](https://ja.wikipedia.org/wiki/コータローまかりとおる!_L "wikilink")（[蛭田達也](../Page/蛭田達也.md "wikilink")）2003年No.1 ← 本誌より移籍 休載中
-  - [ぱすてる](https://ja.wikipedia.org/wiki/ぱすてる "wikilink")（[小林俊彦](../Page/小林俊彦_\(漫画家\).md "wikilink")）2003年No.10 ← 本誌より移籍 （完）
+  - [ぱすてる](../Page/ぱすてる.md "wikilink")（[小林俊彦](../Page/小林俊彦_\(漫画家\).md "wikilink")）2003年No.10 ← 本誌より移籍 （完）
   - [Dreams](../Page/Dreams_\(漫画\).md "wikilink")（原作/[七三太朗](../Page/七三太朗.md "wikilink") 漫画/[川三番地](../Page/川三番地.md "wikilink")）← 本誌より移籍 （完）
   - [聖☆ピスタチオ学園](https://ja.wikipedia.org/wiki/聖☆ピスタチオ学園 "wikilink")（[名島啓二](https://ja.wikipedia.org/wiki/名島啓二 "wikilink")）2008年No.3 休載中
   - [爆音伝説 カブラギ](https://ja.wikipedia.org/wiki/爆音伝説_カブラギ "wikilink")（原作/[佐木飛朗斗](../Page/佐木飛朗斗.md "wikilink") 漫画/[東直輝](../Page/東直輝.md "wikilink")）2010年No.4 （完）
@@ -32,10 +32,10 @@
   - [ロクダイ](https://ja.wikipedia.org/wiki/ロクダイ "wikilink")（[コージィ城倉](../Page/コージィ城倉.md "wikilink")）2014年No.10 休載中
   - [育てち魔おう\!](https://ja.wikipedia.org/wiki/育てち魔おう! "wikilink")（[飯島浩介](../Page/飯島浩介.md "wikilink")）2014年No.10 （マンガボックスに移籍）
   - [はじめての田中論理](https://ja.wikipedia.org/wiki/はじめての田中論理 "wikilink")（[船津紳平](https://ja.wikipedia.org/wiki/船津紳平 "wikilink")）2015年No.5 （完）
-  - [絡新婦の理](../Page/絡新婦の理.md "wikilink")（原作/[京極夏彦](../Page/京極夏彦.md "wikilink") 漫画/[志水アキ](https://ja.wikipedia.org/wiki/志水アキ "wikilink")）2015年No.6 （完）
+  - [絡新婦の理](../Page/絡新婦の理.md "wikilink")（原作/[京極夏彦](../Page/京極夏彦.md "wikilink") 漫画/[志水アキ](../Page/志水アキ.md "wikilink")）2015年No.6 （完）
   - [君が死ぬ夏に](https://ja.wikipedia.org/wiki/君が死ぬ夏に "wikilink")（[大柴健](https://ja.wikipedia.org/wiki/大柴健 "wikilink")）2015年No.10 （[別冊少年マガジン](../Page/別冊少年マガジン.md "wikilink")へ移籍）
   - [CV.オレ\!](https://ja.wikipedia.org/wiki/CV.オレ! "wikilink")（[上野春生](https://ja.wikipedia.org/wiki/上野春生 "wikilink") 原案/[松岡禎丞](https://ja.wikipedia.org/wiki/松岡禎丞 "wikilink")）2016年No.1 （完）
-  - [ギャングキング](https://ja.wikipedia.org/wiki/ギャングキング "wikilink")（[柳内大樹](../Page/柳内大樹.md "wikilink")）2016年No.2 ← 『[ヤングキング](https://ja.wikipedia.org/wiki/ヤングキング "wikilink")』より移籍 （別冊少年マガジンへ移籍）
+  - [ギャングキング](https://ja.wikipedia.org/wiki/ギャングキング "wikilink")（[柳内大樹](../Page/柳内大樹.md "wikilink")）2016年No.2 ← 『[ヤングキング](../Page/ヤングキング.md "wikilink")』より移籍 （別冊少年マガジンへ移籍）
   - [ゲスのポリス](https://ja.wikipedia.org/wiki/ゲスのポリス "wikilink")（[須崎洋輔](https://ja.wikipedia.org/wiki/須崎洋輔 "wikilink")）2016年No.3 （完）
   - [七つの大罪 キングのまんが道](https://ja.wikipedia.org/wiki/七つの大罪_\(漫画\) "wikilink")（[小野大空](https://ja.wikipedia.org/wiki/小野大空 "wikilink")）2016年No.3 （[マガジンポケット](https://ja.wikipedia.org/wiki/マガジンポケット "wikilink")へ移籍）
   - [戦国学園](https://ja.wikipedia.org/wiki/戦国学園 "wikilink")（[伊藤イット](https://ja.wikipedia.org/wiki/伊藤イット "wikilink")）2016年No.4 （完）
@@ -58,11 +58,11 @@
   - [AKAGI FAMILIA](https://ja.wikipedia.org/wiki/AKAGI_FAMILIA "wikilink")（[中西達哉](https://ja.wikipedia.org/wiki/中西達哉 "wikilink")）2015年No.12 - 2016年No.5
   - [赤毛のサスケ](https://ja.wikipedia.org/wiki/赤毛のサスケ "wikilink")（[佐藤陽介](https://ja.wikipedia.org/wiki/佐藤陽介 "wikilink")）2010年No.9 - 2011年No.8 ★
   - [明智警部の事件簿](../Page/金田一少年の事件簿.md "wikilink")（原作：[天樹征丸](https://ja.wikipedia.org/wiki/天樹征丸 "wikilink")・[さとうふみや](https://ja.wikipedia.org/wiki/さとうふみや "wikilink") 漫画：[佐藤友生](../Page/佐藤友生.md "wikilink")）2014年No.6 - 2016年No.9
-  - [アソボット戦記五九](https://ja.wikipedia.org/wiki/アソボット戦記五九 "wikilink")（原作/[有森丈時](https://ja.wikipedia.org/wiki/樹林伸 "wikilink") 漫画/[葵ろむ](https://ja.wikipedia.org/wiki/葵ろむ "wikilink")） ← 本誌より移籍
+  - [アソボット戦記五九](../Page/アソボット戦記五九.md "wikilink")（原作/[有森丈時](../Page/樹林伸.md "wikilink") 漫画/[葵ろむ](https://ja.wikipedia.org/wiki/葵ろむ "wikilink")） ← 本誌より移籍
   - [アッパーロード](https://ja.wikipedia.org/wiki/アッパーロード "wikilink")（[山本晃](../Page/山本航暉.md "wikilink")）
       - （外部リンク）
   - [EX 少年漂流](https://ja.wikipedia.org/wiki/EX_少年漂流 "wikilink")（[山田恵庸](https://ja.wikipedia.org/wiki/山田恵庸 "wikilink")）1999年No.8 - 2001年No.9
-  - [あぶない\!ルナ先生](https://ja.wikipedia.org/wiki/いけない!ルナ先生 "wikilink")（[上村純子](../Page/上村純子.md "wikilink")）1986年No.4 - 1987年No.7
+  - [あぶない\!ルナ先生](../Page/いけない!ルナ先生.md "wikilink")（[上村純子](../Page/上村純子.md "wikilink")）1986年No.4 - 1987年No.7
   - [イクミの秘密](https://ja.wikipedia.org/wiki/イクミの秘密 "wikilink")（原作/[徳田春生](https://ja.wikipedia.org/wiki/徳田春生 "wikilink") 漫画/[岡田鯛](https://ja.wikipedia.org/wiki/岡田鯛 "wikilink")） ← 本誌より移籍
   - [いつか、夜明けの空で待ってる。](https://ja.wikipedia.org/wiki/いつか、夜明けの空で待ってる。 "wikilink")（[荒木宰](https://ja.wikipedia.org/wiki/荒木宰 "wikilink")）2012年No.10 - 2014年No.2
   - [一瞬の風になれ](../Page/一瞬の風になれ.md "wikilink")（原作/[佐藤多佳子](../Page/佐藤多佳子.md "wikilink") 漫画/[安田剛士](../Page/安田剛士.md "wikilink")）2007年No.7 - 2010年No.5
@@ -85,7 +85,7 @@
 #### か行
 
   - [会話](https://ja.wikipedia.org/wiki/会話_\(漫画\) "wikilink")（[ナラボン](https://ja.wikipedia.org/wiki/ナラボン "wikilink")）2012年No.8 - 2014年No.12
-  - [KAGETORA](https://ja.wikipedia.org/wiki/KAGETORA "wikilink")（瀬上あきら）2002年No.7 - 2006年No.10（一時期本誌にて連載あり）
+  - [KAGETORA](../Page/KAGETORA.md "wikilink")（瀬上あきら）2002年No.7 - 2006年No.10（一時期本誌にて連載あり）
       - （外部リンク）
   - [風鳴の左近](https://ja.wikipedia.org/wiki/風鳴の左近 "wikilink")（[沢田ひろふみ](https://ja.wikipedia.org/wiki/沢田ひろふみ "wikilink")）1997年No.4 - 1998年No.6
   - [風使い](https://ja.wikipedia.org/wiki/風使い "wikilink")（[鷹氏隆之](https://ja.wikipedia.org/wiki/鷹氏隆之 "wikilink")）1991年 - 1998年No.9
@@ -95,7 +95,7 @@
       - （外部リンク）
 
       - （外部リンク）
-  - [ガチャガチャ](https://ja.wikipedia.org/wiki/ガチャガチャ "wikilink")（[玉越博幸](../Page/玉越博幸.md "wikilink")）2003年No.8 - 2007年10月 ← 本誌より移籍
+  - [ガチャガチャ](../Page/ガチャガチャ.md "wikilink")（[玉越博幸](../Page/玉越博幸.md "wikilink")）2003年No.8 - 2007年10月 ← 本誌より移籍
   - [奏 〜かなで〜](https://ja.wikipedia.org/wiki/奏_〜かなで〜 "wikilink")（[瀬上あきら](../Page/瀬上あきら.md "wikilink")）2008年No.5 - 2011年No.12
   - [彼女とキスする50の方法](https://ja.wikipedia.org/wiki/彼女とキスする50の方法 "wikilink")（[山根聖史](https://ja.wikipedia.org/wiki/山根聖史 "wikilink")）2008年No.8 - 2009年No.12
   - [彼女の感触](https://ja.wikipedia.org/wiki/彼女の感触 "wikilink")（[前田峻也](https://ja.wikipedia.org/wiki/前田峻也 "wikilink")）2015年No.1 - No.10
@@ -112,7 +112,7 @@
 
 #### さ行
 
-  - [サイコバスターズ](../Page/サイコバスターズ.md "wikilink")（原作/[青樹佑夜](https://ja.wikipedia.org/wiki/樹林伸 "wikilink") 漫画/[奈央晃徳](https://ja.wikipedia.org/wiki/奈央晃徳 "wikilink")）2006年No.3 - 2008年No.10
+  - [サイコバスターズ](../Page/サイコバスターズ.md "wikilink")（原作/[青樹佑夜](../Page/樹林伸.md "wikilink") 漫画/[奈央晃徳](https://ja.wikipedia.org/wiki/奈央晃徳 "wikilink")）2006年No.3 - 2008年No.10
   - [ザ ビーストキングダム](https://ja.wikipedia.org/wiki/ザ_ビーストキングダム "wikilink")（[ヤザワヒロキ](https://ja.wikipedia.org/wiki/ヤザワヒロキ "wikilink")）2013年No.2 - No.7 ★
   - [さよならトリガー](https://ja.wikipedia.org/wiki/さよならトリガー "wikilink")（[千田大輔](https://ja.wikipedia.org/wiki/千田大輔 "wikilink")）2014年No.1 - 2016年No.2
   - [30センチスター](https://ja.wikipedia.org/wiki/30センチスター "wikilink")（[北野詠一](https://ja.wikipedia.org/wiki/北野詠一 "wikilink")）2013年No.11 - 2014年No.9
@@ -134,7 +134,7 @@
   - [心霊調査室OFFICE麗](../Page/心霊調査室OFFICE麗.md "wikilink")（原作/[小宮さなえ](https://ja.wikipedia.org/wiki/小宮さなえ "wikilink") 漫画/[野々村秀樹](https://ja.wikipedia.org/wiki/野々村秀樹 "wikilink")） ← 本誌より移籍
   - [Swing JOKER](https://ja.wikipedia.org/wiki/Swing_JOKER "wikilink")（[稲木智宏](https://ja.wikipedia.org/wiki/稲木智宏 "wikilink")）2013年No.10 - 2014年No.7
   - [好きよ\!下條くん](https://ja.wikipedia.org/wiki/好きよ!下條くん "wikilink")（[小幡哲弘](https://ja.wikipedia.org/wiki/小幡哲弘 "wikilink")）
-  - [School Rumble 増刊号](../Page/スクールランブル.md "wikilink")（[小林尽](https://ja.wikipedia.org/wiki/小林尽 "wikilink")）2003年No.2 - 2008年No.5、本誌と同時連載
+  - [School Rumble 増刊号](../Page/スクールランブル.md "wikilink")（[小林尽](../Page/小林尽.md "wikilink")）2003年No.2 - 2008年No.5、本誌と同時連載
       - [School Rumble Z](../Page/スクールランブル.md "wikilink")（小林尽）2008年No.9 - 2009年No.6
   - [STAR BEAT\!\!](https://ja.wikipedia.org/wiki/STAR_BEAT!! "wikilink")（[香椎さおり](https://ja.wikipedia.org/wiki/音羽さおり "wikilink")）2014年No.7 - 2015No.5
   - [スミレ♡17歳\!\!](../Page/スミレ16歳!!.md "wikilink")（[永吉たける](../Page/永吉たける.md "wikilink")） → [スミレ♡16歳\!\!として本誌に移籍](../Page/スミレ16歳!!.md "wikilink")
@@ -163,7 +163,7 @@
   - [タンスの奥のぱんつさん](https://ja.wikipedia.org/wiki/タンスの奥のぱんつさん "wikilink")（[なつみん](https://ja.wikipedia.org/wiki/なつみん "wikilink")）2012年No.1 - 2013年No.7 ☆
   - [たんぽ](https://ja.wikipedia.org/wiki/たんぽ_\(漫画\) "wikilink")（[若宮弘明](https://ja.wikipedia.org/wiki/若宮弘明 "wikilink")）2004年No.9 - 2006年No.11
   - [CHIMES](https://ja.wikipedia.org/wiki/CHIMES "wikilink")（[渡辺静](https://ja.wikipedia.org/wiki/渡辺静 "wikilink")）2006年No.11 - 2008年No.8
-  - [超頭脳シルバーウルフ](https://ja.wikipedia.org/wiki/超頭脳シルバーウルフ "wikilink")（原作/[金成陽三郎](https://ja.wikipedia.org/wiki/金成陽三郎 "wikilink") 漫画/[越智辺昌義](../Page/朝基まさし.md "wikilink")）1991年No.10 - 1992年No.5、不定期連載
+  - [超頭脳シルバーウルフ](../Page/超頭脳シルバーウルフ.md "wikilink")（原作/[金成陽三郎](../Page/金成陽三郎.md "wikilink") 漫画/[越智辺昌義](../Page/朝基まさし.md "wikilink")）1991年No.10 - 1992年No.5、不定期連載
   - [珍念くん](https://ja.wikipedia.org/wiki/珍念くん "wikilink")（[かみやたかひろ](../Page/かみやたかひろ.md "wikilink")）
   - [つくし日和](https://ja.wikipedia.org/wiki/つくし日和 "wikilink")（[上田ゆい](https://ja.wikipedia.org/wiki/上田ゆい "wikilink")）2013年No.12 - 2014年No.11
   - [ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")（[CLAMP](../Page/CLAMP.md "wikilink")）2014年No.9 - 2016年No.4

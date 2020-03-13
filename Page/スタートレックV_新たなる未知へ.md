@@ -45,28 +45,28 @@
 <td><p><a href="../Page/筈見純.md" title="wikilink">筈見純</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スポック" title="wikilink">スポック</a></p></td>
+<td><p><a href="../Page/スポック.md" title="wikilink">スポック</a></p></td>
 <td><p>Mr.スポック</p></td>
 <td><p><a href="../Page/レナード・ニモイ.md" title="wikilink">レナード・ニモイ</a></p></td>
 <td><p><a href="../Page/仁内建之.md" title="wikilink">仁内建之</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レナード・マッコイ" title="wikilink">レナード・マッコイ</a></p></td>
+<td><p><a href="../Page/レナード・マッコイ.md" title="wikilink">レナード・マッコイ</a></p></td>
 <td><p>Dr.マッコイ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディフォレスト・ケリー" title="wikilink">ディフォレスト・ケリー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/嶋俊介" title="wikilink">嶋俊介</a></p></td>
+<td><p><a href="../Page/嶋俊介.md" title="wikilink">嶋俊介</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/モンゴメリー・スコット.md" title="wikilink">モンゴメリー・スコット</a></p></td>
 <td><p>チャーリー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジェームズ・ドゥーアン" title="wikilink">ジェームズ・ドゥーアン</a></p></td>
+<td><p><a href="../Page/ジェームズ・ドゥーアン.md" title="wikilink">ジェームズ・ドゥーアン</a></p></td>
 <td><p><a href="../Page/島香裕.md" title="wikilink">島香裕</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ウフーラ.md" title="wikilink">ウフーラ</a></p></td>
 <td><p>ウラ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニシェル・ニコルズ" title="wikilink">ニシェル・ニコルズ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/竹口安芸子" title="wikilink">竹口安芸子</a></p></td>
+<td><p><a href="../Page/竹口安芸子.md" title="wikilink">竹口安芸子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ヒカル・スールー.md" title="wikilink">ヒカル・スールー</a></p></td>
@@ -96,7 +96,7 @@
 <td><p>コード</p></td>
 <td><p>　　</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チャールズ・クーパー" title="wikilink">チャールズ・クーパー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小関一" title="wikilink">小関一</a></p></td>
+<td><p><a href="../Page/小関一.md" title="wikilink">小関一</a></p></td>
 </tr>
 <tr class="even">
 <td><p>クラー</p></td>
@@ -114,7 +114,7 @@
 
   -
     演出：[佐藤敏夫](https://ja.wikipedia.org/wiki/佐藤敏夫_\(音響監督\) "wikilink")、翻訳：島伸三、調整：上村利秋、制作：スタジオ・エコー
-    その他声の出演：[藤生聖子](../Page/藤生聖子.md "wikilink")、[村松康雄](../Page/村松康雄.md "wikilink")、[多田野曜平](../Page/多田野曜平.md "wikilink")、[根本泰彦](https://ja.wikipedia.org/wiki/根本泰彦 "wikilink")、[落合弘治](https://ja.wikipedia.org/wiki/落合弘治 "wikilink")、[吉川亜紀子](https://ja.wikipedia.org/wiki/吉川亜紀子 "wikilink")、[石井隆夫](https://ja.wikipedia.org/wiki/石井隆夫 "wikilink")、[戸部順子](https://ja.wikipedia.org/wiki/戸部順子 "wikilink")、[小池浩司](../Page/小池浩司.md "wikilink")、[濱野基彦](https://ja.wikipedia.org/wiki/濱野基彦 "wikilink")、[山崎祐輔](https://ja.wikipedia.org/wiki/山崎祐輔 "wikilink")
+    その他声の出演：[藤生聖子](../Page/藤生聖子.md "wikilink")、[村松康雄](../Page/村松康雄.md "wikilink")、[多田野曜平](../Page/多田野曜平.md "wikilink")、[根本泰彦](https://ja.wikipedia.org/wiki/根本泰彦 "wikilink")、[落合弘治](../Page/落合弘治.md "wikilink")、[吉川亜紀子](https://ja.wikipedia.org/wiki/吉川亜紀子 "wikilink")、[石井隆夫](../Page/石井隆夫.md "wikilink")、[戸部順子](https://ja.wikipedia.org/wiki/戸部順子 "wikilink")、[小池浩司](../Page/小池浩司.md "wikilink")、[濱野基彦](https://ja.wikipedia.org/wiki/濱野基彦 "wikilink")、[山崎祐輔](https://ja.wikipedia.org/wiki/山崎祐輔 "wikilink")
 
 ## スタッフ
 

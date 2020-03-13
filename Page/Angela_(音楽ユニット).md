@@ -5,7 +5,7 @@
 
 ## 人物
 
-ライブやイベントではatsukoによる**「[atsukoにおまかせ！](../Page/アッコにおまかせ!.md "wikilink")」**\[1\]、KATSUによる『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』のギレンの演説**「ジーク・ジオン！」**（**「あえて言おう、KATSUであると」**と続く）」のコール＆レスポンスが定番となっている。また近年では自己紹介時に[アイドルマスター](https://ja.wikipedia.org/wiki/THE_IDOLM@STER "wikilink")(例：angelaマスター、[angelaマスターシンデレラガールズなど](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink"))や、[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")、[ALTIMA](https://ja.wikipedia.org/wiki/ALTIMA "wikilink")、[GARNiDELiA](https://ja.wikipedia.org/wiki/GARNiDELiA "wikilink")、[ゆいかおり](https://ja.wikipedia.org/wiki/ゆいかおり "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[A応P](https://ja.wikipedia.org/wiki/A応P "wikilink")（angela応援Project）、などアニメソング関係者を名乗るネタMCが浸透している。\[2\]また、近畿圏でのライブ・イベントでは「[六甲おろし](../Page/阪神タイガースの歌.md "wikilink")」を歌唱するのも恒例となっている。 ライブのサポートメンバーとして、小島“じんぼちゃん”億洋(Dr)、Buono(極悪いちご団メンバー・Ba)、BeBe(Key)、荒井尊(マニピュレーター)が参加する。
+ライブやイベントではatsukoによる**「[atsukoにおまかせ！](../Page/アッコにおまかせ!.md "wikilink")」**\[1\]、KATSUによる『[機動戦士ガンダム](../Page/機動戦士ガンダム.md "wikilink")』のギレンの演説**「ジーク・ジオン！」**（**「あえて言おう、KATSUであると」**と続く）」のコール＆レスポンスが定番となっている。また近年では自己紹介時に[アイドルマスター](../Page/THE_IDOLM@STER.md "wikilink")(例：angelaマスター、[angelaマスターシンデレラガールズなど](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink"))や、[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")、[ALTIMA](https://ja.wikipedia.org/wiki/ALTIMA "wikilink")、[GARNiDELiA](https://ja.wikipedia.org/wiki/GARNiDELiA "wikilink")、[ゆいかおり](https://ja.wikipedia.org/wiki/ゆいかおり "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[A応P](https://ja.wikipedia.org/wiki/A応P "wikilink")（angela応援Project）、などアニメソング関係者を名乗るネタMCが浸透している。\[2\]また、近畿圏でのライブ・イベントでは「[六甲おろし](../Page/阪神タイガースの歌.md "wikilink")」を歌唱するのも恒例となっている。 ライブのサポートメンバーとして、小島“じんぼちゃん”億洋(Dr)、Buono(極悪いちご団メンバー・Ba)、BeBe(Key)、荒井尊(マニピュレーター)が参加する。
 
 2017年からはatsukoにそっくりな**アイドルあっちゃん**（事務所の後輩であっちゃん星のオムライス村からやってきた17歳のアイドルという設定）が登場。
 
@@ -18,20 +18,20 @@
         両バンドとも東京デビューを目指すが、脱退者が相次ぎ最終的に東京に残ったのが、たまたま2人だけになる。
         当時はまだ[標準語](../Page/標準語.md "wikilink")に慣れておらず友人もいなかったatsukoが、同郷で連絡先を知っていたKATSUを誘った。
   - [1999年](../Page/1999年.md "wikilink")
-      - 5月 ANGELA名義でシングル「**memories**」（[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[神八剣伝](https://ja.wikipedia.org/wiki/神八剣伝 "wikilink")』のOPテーマ）を[ワーナーミュージック](https://ja.wikipedia.org/wiki/ワーナーミュージック "wikilink") / ドリームマシーンから発売し、最初のメジャーデビューを果たす。この楽曲は長らく完全封印されていたが、2017年のangela初となる武道館単独公演で18年ぶりに披露された。KATSUはこの武道館公演MCで、『辛かった当時を思い出すから自分が作った曲の中で唯一嫌いだった。でもみんなのおかげで好きになった』と語った。
+      - 5月 ANGELA名義でシングル「**memories**」（[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[神八剣伝](../Page/神八剣伝.md "wikilink")』のOPテーマ）を[ワーナーミュージック](https://ja.wikipedia.org/wiki/ワーナーミュージック "wikilink") / ドリームマシーンから発売し、最初のメジャーデビューを果たす。この楽曲は長らく完全封印されていたが、2017年のangela初となる武道館単独公演で18年ぶりに披露された。KATSUはこの武道館公演MCで、『辛かった当時を思い出すから自分が作った曲の中で唯一嫌いだった。でもみんなのおかげで好きになった』と語った。
   - [2000年](../Page/2000年.md "wikilink")
       - 5月\[4\] 事務所を独立して、現在の名前の**angela**に変わり、[インディーズ](../Page/インディーズ.md "wikilink")に戻り、路上ライブ活動を開始する。
   - [2002年](../Page/2002年.md "wikilink")
       - 活動が現レコード会社（キングレコード株式会社）プロデューサー・中西豪の目に止まる。
   - [2003年](../Page/2003年.md "wikilink")
       - [5月21日](../Page/5月21日.md "wikilink")シングル「**明日へのbrilliant road**」で、再度のメジャーデビューを果たす。
-        同年11月、第8回[アニメーション神戸](https://ja.wikipedia.org/wiki/アニメーション神戸 "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")主題歌賞をこの曲で受賞した。
+        同年11月、第8回[アニメーション神戸](../Page/アニメーション神戸.md "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")主題歌賞をこの曲で受賞した。
   - [2004年](../Page/2004年.md "wikilink")
-      - [8月4日](../Page/8月4日.md "wikilink") シングル「**Shangri-La**」発売。 [オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")初登場12位を記録する。
+      - [8月4日](../Page/8月4日.md "wikilink") シングル「**Shangri-La**」発売。 [オリコンチャート](../Page/オリコンチャート.md "wikilink")初登場12位を記録する。
       - [11月17日](../Page/11月17日.md "wikilink") アルバム「**I/O**」発売。 オリコンチャート初登場16位を記録する。
       - 8月 アメリカで行われたイベント「OTAKON」に出演する。
       - 10月 初の単独レギュラー番組「[angelaのsparking\!talking\!show\!](https://ja.wikipedia.org/wiki/angelaのsparking!talking!show! "wikilink")」が開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 1月 アルバム「**ソラノコエ**」が「**Voice of the sky**」のタイトルで全米で発売。全米デビューを果たす。
       - **3月29日** [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて、「**angela Live in Shibuya-AX～a列車で行こう\! 全曲ライブ！！**」と称して全曲ライブが行なわれる。 アンコールで昨年発売の「I/O」と「Shangri-La」がキングレコードヒット賞を受賞した事を報告した。\[5\]
       - [5月21日](../Page/5月21日.md "wikilink") 公式ファンクラブ「**gelamily**」を発足。
@@ -41,7 +41,7 @@
       - [12月29日](../Page/12月29日.md "wikilink") 初のホールコンサート「ミュージック・ワンダー☆大サーカス」を[東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")で開催する。 \[7\]
   - [2006年](../Page/2006年.md "wikilink")
       - [3月15日](../Page/3月15日.md "wikilink") アルバム「**PRHYTHM**」発売。 オリコンチャート初登場10位を記録し、初のトップテン入りを果たす。
-      - [3月21日](../Page/3月21日.md "wikilink")から[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")にかけて全国5都市で「angela First Tour 2006 PRHYTHM」を開催する。\[8\]
+      - [3月21日](../Page/3月21日.md "wikilink")から[4月8日](../Page/4月8日.md "wikilink")にかけて全国5都市で「angela First Tour 2006 PRHYTHM」を開催する。\[8\]
       - 5月 [NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")「[今日は一日“アニソン”三昧](../Page/今日は一日○○三昧.md "wikilink")」で、初のNHK出演を果たす。
       - 12月 atsukoが体調不良のため、翌年2月まで一時休養に入る。 予定されていた「angelaのミュージック・ワンダー☆大サーカス2nd 〜人生遊戯〜」の公演を中止。
   - [2007年](../Page/2007年.md "wikilink")
@@ -65,7 +65,7 @@
       - angela初のピアノソロ楽譜集「[やさしいピアノ・ソロangela](https://www.shinko-music.co.jp/item/pid0022130)」全25曲がシンコー・ミュージックより発売される。
       - TVアニメ『[アスラクライン](../Page/アスラクライン.md "wikilink")2』に声優として出演する。
       - NHK「[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink") 新世紀アニソンSP完全版」に出演する。
-      - 「ミュージック・ワンダー★大サーカス4th 〜The gear turns around〜」を[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")にて開催する。
+      - 「ミュージック・ワンダー★大サーカス4th 〜The gear turns around〜」を[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")にて開催する。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [野中藍](../Page/野中藍.md "wikilink")のライブツアー「AIPON BEST BOUT 2010 〜燃えあがれ\!\! 天をも焦がす野中藍の歌魂〜」ファイナルin[横浜BLITZ](../Page/横浜BLITZ.md "wikilink")にて、野中藍×angelaの**のなぢぇら**が結成される。
       - angelaがパーソナリティーを務めるアニメ系総合情報番組『a-GENERATION』が[文化放送](../Page/文化放送.md "wikilink")にてスタートする。
@@ -82,7 +82,7 @@
   - [2011年](../Page/2011年.md "wikilink")
       - ライトノベル作家の[時雨沢恵一](../Page/時雨沢恵一.md "wikilink")×angelaのコラボ作品『夜が運ばれてくるまでに 〜A Song in A Bed〜』が発売された。\[13\]
         2月20日に発売記念イベント「夜が運ばれてくるまでに 〜A Talk & Live in Shibuya〜」が、shibuya-duo music exchangeにて行われた。
-        イベントは、ライブに朗読に時雨沢恵一とのトークコーナーと盛り沢山の内容となった。朗読パートには、声優の[川田紳司](https://ja.wikipedia.org/wiki/川田紳司 "wikilink")・[小林由美子](../Page/小林由美子.md "wikilink")が参加した。
+        イベントは、ライブに朗読に時雨沢恵一とのトークコーナーと盛り沢山の内容となった。朗読パートには、声優の[川田紳司](../Page/川田紳司.md "wikilink")・[小林由美子](../Page/小林由美子.md "wikilink")が参加した。
       - 劇場版アニメ『[蒼穹のファフナー HEAVEN AND EARTH](https://ja.wikipedia.org/wiki/蒼穹のファフナー_HEAVEN_AND_EARTH "wikilink")』アジア公開記念イベント「jplex SUPER ANISONG LIVE\!\!」に出演する。
       - [東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")の被災者にむけた新曲及びメッセージ動画をオフィシャルサイトにて配信する。
       - Asagaya Loft Aにてatsuko単独イベント「一家ラン欒」が行われた。
@@ -93,7 +93,7 @@
       - 「angela Live Tour 2011 "mirror☆ge"」にて東日本大震災チャリティー曲の「Untitled」を初披露する。
         会場で、angelaが手書きした「Untitled」の歌詞とメロディ譜の印刷されたクリアファイルを販売し、収益の全額を東日本大震災の義援金とした。
       - [8月21日](../Page/8月21日.md "wikilink")に九龍湾国際展貿中心3階演講廳\[15\]にて初の[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")ワンマンライブ「angela 香港ライブ2011 〜蒼穹〜」を開催する\[16\]。
-      - [8月27日](../Page/8月27日.md "wikilink")に秩父ミューズパーク野外ステージにて「東日本大震災復興チャリティーコンサート IN 秩父」に[ZONE](https://ja.wikipedia.org/wiki/ZONE_\(バンド\) "wikilink")・[nano.RIPE](https://ja.wikipedia.org/wiki/nano.RIPE "wikilink")と共に出演する。
+      - [8月27日](../Page/8月27日.md "wikilink")に秩父ミューズパーク野外ステージにて「東日本大震災復興チャリティーコンサート IN 秩父」に[ZONE](../Page/ZONE_\(バンド\).md "wikilink")・[nano.RIPE](https://ja.wikipedia.org/wiki/nano.RIPE "wikilink")と共に出演する。
       - [12月29日](../Page/12月29日.md "wikilink")に[赤坂ACTシアター](https://ja.wikipedia.org/wiki/赤坂ACTシアター "wikilink")にて「angelaのミュージック・ワンダー★大サーカス2011 NON STOP MUSIC」を開催する。
   - [2012年](../Page/2012年.md "wikilink")
       - デビュー日である[5月21日](../Page/5月21日.md "wikilink")に「デビュー10周年まであと1年記念☆全部が主題歌ライヴ\!\!」を招待制の無料ライブとして開催する。
@@ -103,13 +103,13 @@
       - [4月24日](../Page/4月24日.md "wikilink")に6thアルバム「ZERO」をリリースし、オリコンウィークリーチャートで初登場10位を記録。
       - [5月21日](../Page/5月21日.md "wikilink")にメジャーデビュー10周年を迎え、同日から[6月23日](../Page/6月23日.md "wikilink")まで全国7都市でライブツアー「angela 10th Anniversary Live Tour 「ZERO」」を開催した。
       - 2013年は海外イベントにも多数参加。[7月4日](../Page/7月4日.md "wikilink")よりフランス・パリで開催された「Japan Expo2013」、[11月10日](../Page/11月10日.md "wikilink")よりシンガポールで開催された「AFA13 - Anime Festival Asia 2013 ヴァルヴレイヴナイト」、さらに[10月23日](../Page/10月23日.md "wikilink")には台湾でワンマンライブ「angela Live in TAIWAN －ANISONG NIGHT－」を開催した。台湾でのライブ以降、海外イベント限定で販売されるベスト盤「アニメノウタ」を販売開始。
-      - [8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に「[高橋直純](../Page/高橋直純.md "wikilink")の“海の家”in [音霊SEA STUDIO](https://ja.wikipedia.org/wiki/音霊SEA_STUDIO "wikilink") 2013」に出演。[8月24日](../Page/8月24日.md "wikilink")には「Animelo Summer Live 2013 -FLAG NINE-」に出演し、10周年記念メドレーや[Zwei](https://ja.wikipedia.org/wiki/Zwei "wikilink")とのコラボでアニメ『[地獄先生ぬ〜べ〜](../Page/地獄先生ぬ〜べ〜.md "wikilink")』主題歌「[バリバリ最強No.1](https://ja.wikipedia.org/wiki/バリバリ最強No.1 "wikilink")」を披露。さらに[11月24日](../Page/11月24日.md "wikilink")には「[ANIMAX MUSIX](https://ja.wikipedia.org/wiki/ANIMAX_MUSIX "wikilink") 2013」に出演し、持ち曲の他アニソンカバーや[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")とのコラボでアニメ『[バジリスク 〜甲賀忍法帖〜](https://ja.wikipedia.org/wiki/バジリスク_〜甲賀忍法帖〜 "wikilink")』主題歌「[甲賀忍法帖](../Page/甲賀忍法帖.md "wikilink")」を披露した。
+      - [8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に「[高橋直純](../Page/高橋直純.md "wikilink")の“海の家”in [音霊SEA STUDIO](https://ja.wikipedia.org/wiki/音霊SEA_STUDIO "wikilink") 2013」に出演。[8月24日](../Page/8月24日.md "wikilink")には「Animelo Summer Live 2013 -FLAG NINE-」に出演し、10周年記念メドレーや[Zwei](../Page/Zwei.md "wikilink")とのコラボでアニメ『[地獄先生ぬ〜べ〜](../Page/地獄先生ぬ〜べ〜.md "wikilink")』主題歌「[バリバリ最強No.1](https://ja.wikipedia.org/wiki/バリバリ最強No.1 "wikilink")」を披露。さらに[11月24日](../Page/11月24日.md "wikilink")には「[ANIMAX MUSIX](https://ja.wikipedia.org/wiki/ANIMAX_MUSIX "wikilink") 2013」に出演し、持ち曲の他アニソンカバーや[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")とのコラボでアニメ『[バジリスク 〜甲賀忍法帖〜](../Page/バジリスク_〜甲賀忍法帖〜.md "wikilink")』主題歌「[甲賀忍法帖](../Page/甲賀忍法帖.md "wikilink")」を披露した。
       - [12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")よりスタートした[カプコン](../Page/カプコン.md "wikilink")のオンラインゲーム『[百年戦記 ユーロ・ヒストリア](https://ja.wikipedia.org/wiki/百年戦記_ユーロ・ヒストリア "wikilink")』のテーマソングとして、1stアルバム「ソラノコエ」のリード曲「over the limits」を作品用に再トラックダウンした「over the limits〈EURO HISTORIA〉」が起用される。
       - [12月31日](../Page/12月31日.md "wikilink")にangela初となる年越しカウントダウンライブ「ミュージック・ワンダー★大サーカス2013-2014 COUNTDOWN」を開催。
   - [2014年](../Page/2014年.md "wikilink")
       - [2月22日](../Page/2月22日.md "wikilink")より新宿バルト9他にて全国ロードショーされた劇場版アニメ『[モーレツ宇宙海賊 ABYSS OF HYPERSPACE -亜空の深淵-](https://ja.wikipedia.org/wiki/モーレツ宇宙海賊_ABYSS_OF_HYPERSPACE_-亜空の深淵- "wikilink")」のテーマソング・イメージソングをangelaがプロデュース。[中川翔子](../Page/中川翔子.md "wikilink")とのコラボ・angela Presents／中川翔子「キラキラ-go-round』、小松未可子の「Sail away」の2曲を担当。
       - angela Live Tour 2014 THE BEST\!\!を開催する。
-      - 『[シドニアの騎士](https://ja.wikipedia.org/wiki/シドニアの騎士 "wikilink")』オープニングテーマ「[シドニア](https://ja.wikipedia.org/wiki/シドニア_\(曲\) "wikilink")」で第19回[アニメーション神戸](https://ja.wikipedia.org/wiki/アニメーション神戸 "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")主題歌賞を受賞。同賞制定以来初となる同一部門での2度目の受賞となる。
+      - 『[シドニアの騎士](https://ja.wikipedia.org/wiki/シドニアの騎士 "wikilink")』オープニングテーマ「[シドニア](https://ja.wikipedia.org/wiki/シドニア_\(曲\) "wikilink")」で第19回[アニメーション神戸](../Page/アニメーション神戸.md "wikilink")・[ラジオ関西](../Page/ラジオ関西.md "wikilink")主題歌賞を受賞。同賞制定以来初となる同一部門での2度目の受賞となる。
   - [2015年](../Page/2015年.md "wikilink")
       - [2月11日](../Page/2月11日.md "wikilink")にテレビアニメ「[蒼穹のファフナー EXODUS](https://ja.wikipedia.org/wiki/蒼穹のファフナー_EXODUS "wikilink")」の主題歌シングル「イグジスト」をリリース。オリコン週間チャートで初登場7位（デイリーチャート最高3位）、Billboard JAPANシングルチャートで4位を記録。これまでオリコンシングルチャートで自己最高順位であった2004年発売「Shangri-La」の12位を大きく上回り、2003年のメジャーデビュー以降初のシングルチャートTOP10入りを果たした。
       - [3月28日](../Page/3月28日.md "wikilink")に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で開催された「[コミケットスペシャル](https://ja.wikipedia.org/wiki/コミケットスペシャル "wikilink")6〜OTAKUサミット2015〜」中夜祭「OTAKU SUMMIT SPECIAL LIVE」に出演。

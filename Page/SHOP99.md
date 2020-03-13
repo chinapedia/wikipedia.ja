@@ -7,7 +7,7 @@
 
 運営会社は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")**九九プラス**（きゅうじゅうきゅうプラス、）。本社は[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")にあった。現在は解散している。
 
-株式会社九九プラスは、[2009年](../Page/2009年.md "wikilink")（平成21年）[5月1日](../Page/5月1日.md "wikilink")、[ローソンストア100](https://ja.wikipedia.org/wiki/ローソンストア100 "wikilink")の運営会社であった株式会社バリューローソンを[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")（この時点で共に[ローソン](../Page/ローソン.md "wikilink")グループ）した。
+株式会社九九プラスは、[2009年](../Page/2009年.md "wikilink")（平成21年）[5月1日](../Page/5月1日.md "wikilink")、[ローソンストア100](../Page/ローソンストア100.md "wikilink")の運営会社であった株式会社バリューローソンを[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")（この時点で共に[ローソン](../Page/ローソン.md "wikilink")グループ）した。
 
 [2011年](../Page/2011年.md "wikilink")（平成23年）[7月20日](../Page/7月20日.md "wikilink")までに、SHOP99の全店舗が**ローソンストア100**に改称した\[1\]。
 
@@ -15,7 +15,7 @@
 
 ## 概要
 
-[1996年](../Page/1996年.md "wikilink")（平成8年）、[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")を運営していた**株式会社ベスト**（[家電量販店](../Page/家電量販店.md "wikilink")の[ベスト電器](https://ja.wikipedia.org/wiki/ベスト電器 "wikilink")とは無関係。後に[シートゥーネットワークに事業譲渡し消滅](https://ja.wikipedia.org/wiki/イオンエブリ "wikilink")）内の事業部により、[東京都](../Page/東京都.md "wikilink")[立川市](../Page/立川市.md "wikilink")[若葉町に](https://ja.wikipedia.org/wiki/若葉町_\(立川市\) "wikilink")、SHOP99の前身となる「**99エンオンリーストア**」一号店が開業した。
+[1996年](../Page/1996年.md "wikilink")（平成8年）、[スーパーマーケット](../Page/スーパーマーケット.md "wikilink")を運営していた**株式会社ベスト**（[家電量販店](../Page/家電量販店.md "wikilink")の[ベスト電器](../Page/ベスト電器.md "wikilink")とは無関係。後に[シートゥーネットワークに事業譲渡し消滅](https://ja.wikipedia.org/wiki/イオンエブリ "wikilink")）内の事業部により、[東京都](../Page/東京都.md "wikilink")[立川市](../Page/立川市.md "wikilink")[若葉町に](https://ja.wikipedia.org/wiki/若葉町_\(立川市\) "wikilink")、SHOP99の前身となる「**99エンオンリーストア**」一号店が開業した。
 
 [2000年](../Page/2000年.md "wikilink")（平成12年）、**株式会社九九プラス**を設立し、株式会社ベストから独立。[2001年](../Page/2001年.md "wikilink")（平成13年）には新店舗出店時における店名を「**SHOP99**」に統一している。[2004年](../Page/2004年.md "wikilink")（平成16年）よりイメージキャラクターに[草彅剛を起用](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")。
 
@@ -29,7 +29,7 @@
 
 だが後に方針転換し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[2月18日](../Page/2月18日.md "wikilink")付のSHOP99プレスリリースにて、SHOP99からローソンストア100への統合と、PB（[プライベートブランド](../Page/プライベートブランド.md "wikilink")）商品を共通化する新たな方向性を発表、それに沿った試験的な店舗展開が行われ、一部店舗はローソンストア100に衣替えした\[5\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、ローソンが[株式公開買付け](../Page/株式公開買付け.md "wikilink")（TOB）を発表し、元親会社の[キョウデン](https://ja.wikipedia.org/wiki/キョウデン "wikilink")ほかの賛同によりTOBが成立。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）9月5日にローソンはキョウデン保有の株式などを取得し、九九プラスを子会社化した\[6\]。これにともない、既存店舗をSHOP99からローソンストア100への屋号変更・改装の本格的実施\[7\]を発表した。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、ローソンが[株式公開買付け](../Page/株式公開買付け.md "wikilink")（TOB）を発表し、元親会社の[キョウデン](../Page/キョウデン.md "wikilink")ほかの賛同によりTOBが成立。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）9月5日にローソンはキョウデン保有の株式などを取得し、九九プラスを子会社化した\[6\]。これにともない、既存店舗をSHOP99からローソンストア100への屋号変更・改装の本格的実施\[7\]を発表した。
 
 [2009年](../Page/2009年.md "wikilink")（平成21年）5月1日付で、ローソンストア100を展開する株式会社バリューローソン、同年12月には[九九プラス関西](https://ja.wikipedia.org/wiki/九九プラス関西 "wikilink")をそれぞれ吸収合併。店舗運営や商品仕入機能の一元化、店舗ブランドの統合加速などにより、さらなる競争力強化を図った。
 
@@ -37,16 +37,16 @@
 
 その後、業績への影響が確定したことから交換比率を再算定、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）[4月14日](../Page/4月14日.md "wikilink")に二度目の株式交換契約を締結した。同年[6月25日](../Page/6月25日.md "wikilink")付で[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")上場廃止となり、[7月1日](../Page/7月1日.md "wikilink")付でローソンの[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")となった。[2011年](../Page/2011年.md "wikilink")（平成23年）には全店舗が**ローソンストア100**に移行し、統合を完了させた。
 
-[2014年](../Page/2014年.md "wikilink")（平成26年）[2月1日](../Page/2月1日.md "wikilink")、[ローソン](../Page/ローソン.md "wikilink")に吸収合併。オペレーション機能を株式会社ローソンマート（現[株式会社ローソンストア100](https://ja.wikipedia.org/wiki/ローソンストア100 "wikilink")）へ[承継した上で](../Page/一般承継.md "wikilink")、株式会社九九プラスは解散した。
+[2014年](../Page/2014年.md "wikilink")（平成26年）[2月1日](../Page/2月1日.md "wikilink")、[ローソン](../Page/ローソン.md "wikilink")に吸収合併。オペレーション機能を株式会社ローソンマート（現[株式会社ローソンストア100](../Page/ローソンストア100.md "wikilink")）へ[承継した上で](../Page/一般承継.md "wikilink")、株式会社九九プラスは解散した。
 
 ## 沿革
 
   - [1996年](../Page/1996年.md "wikilink")（平成8年）4月 - [スーパーマーケット](../Page/スーパーマーケット.md "wikilink")を運営していた株式会社ベスト内に事業部を発足。東京都立川市若葉町に「99エンオンリーストア」の店名で1号店を開店。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）10月 - 株式会社九九プラスを設立し、株式会社ベストから独立。同月、[フランチャイズ](../Page/フランチャイズ.md "wikilink")展開を開始。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）
-      - 1月 - 新[CIを導入](https://ja.wikipedia.org/wiki/コーポレートアイデンティティ "wikilink")。以降、新店舗における店名を「SHOP99」に統一。
-      - 7月 - 株式会社[キョウデン](https://ja.wikipedia.org/wiki/キョウデン "wikilink")の出資を受け、傘下に入る。
-  - [2002年](../Page/2002年.md "wikilink")（平成14年）6月 - 当時、同じキョウデングループの関西チコマート株式会社を、株式会社[チコマート](https://ja.wikipedia.org/wiki/チコマート "wikilink")から買収。
+      - 1月 - 新[CIを導入](../Page/コーポレートアイデンティティ.md "wikilink")。以降、新店舗における店名を「SHOP99」に統一。
+      - 7月 - 株式会社[キョウデン](../Page/キョウデン.md "wikilink")の出資を受け、傘下に入る。
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）6月 - 当時、同じキョウデングループの関西チコマート株式会社を、株式会社[チコマート](../Page/チコマート.md "wikilink")から買収。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[4月1日](../Page/4月1日.md "wikilink") - 子会社の関西チコマート株式会社を株式会社九九プラス関西に社名変更。
   - [2004年](../Page/2004年.md "wikilink")（平成16年）[9月9日](../Page/9月9日.md "wikilink") - [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")に[上場](../Page/株式公開.md "wikilink")。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）
@@ -75,7 +75,7 @@
 
 ## テーマソング
 
-店内[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")として流されるオリジナル[テーマソングがあった](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")は元親会社の[キョウデン](https://ja.wikipedia.org/wiki/キョウデン "wikilink")グループ会長の[はしもとひろし](../Page/橋本ひろし.md "wikilink")、[編曲](../Page/編曲.md "wikilink")は[平家徹也](https://ja.wikipedia.org/wiki/平家徹也 "wikilink")、歌は[高橋ひろこ](https://ja.wikipedia.org/wiki/高橋ひろこ "wikilink")。
+店内[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")として流されるオリジナル[テーマソングがあった](../Page/コマーシャルソング.md "wikilink")。[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")は元親会社の[キョウデン](../Page/キョウデン.md "wikilink")グループ会長の[はしもとひろし](../Page/橋本ひろし.md "wikilink")、[編曲](../Page/編曲.md "wikilink")は[平家徹也](https://ja.wikipedia.org/wiki/平家徹也 "wikilink")、歌は[高橋ひろこ](https://ja.wikipedia.org/wiki/高橋ひろこ "wikilink")。
 
 [2004年](../Page/2004年.md "wikilink")（平成16年）に[CD](https://ja.wikipedia.org/wiki/CD "wikilink")が99円で店頭にて発売された。現在は同社サイトの[アーカイブでダウンロード可能](../Page/インターネットアーカイブ.md "wikilink")\[10\]。ちなみに、お笑い芸人の[増谷キートン](https://ja.wikipedia.org/wiki/増谷キートン "wikilink")がテーマソングとして使用している。
 
@@ -118,13 +118,13 @@ CDが発売される前から「SHOP99テーマソング」が店内に流れて
 
 ## 関連項目
 
-  - [ローソンストア100](https://ja.wikipedia.org/wiki/ローソンストア100 "wikilink")
+  - [ローソンストア100](../Page/ローソンストア100.md "wikilink")
   - [ローソン](../Page/ローソン.md "wikilink")
   - [生鮮コンビニ](../Page/生鮮コンビニ.md "wikilink")
   - [100円ショップ](../Page/100円ショップ.md "wikilink")
   - [99イチバ（miniピアゴ）](https://ja.wikipedia.org/wiki/miniピアゴ "wikilink")
-  - [キョウデン](https://ja.wikipedia.org/wiki/キョウデン "wikilink")
-  - [チコマート](https://ja.wikipedia.org/wiki/チコマート "wikilink")
+  - [キョウデン](../Page/キョウデン.md "wikilink")
+  - [チコマート](../Page/チコマート.md "wikilink")
 
 ## 外部リンク
 

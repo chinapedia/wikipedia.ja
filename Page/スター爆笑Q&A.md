@@ -7,7 +7,7 @@
 
 ### 内容
 
-解答者でもあるゲストの珍談・奇談を披露し、さらにクイズを行いながら爆笑トークを展開する。形式的にはクイズ番組よりもトーク番組の性質が強く、初代司会の[横山やすし](../Page/横山やすし.md "wikilink")・[西川きよし](../Page/西川きよし.md "wikilink")の巧みな問いかけで有名人の素顔をさらけ出す形式で注目を浴びるなど人気を博した。また『[それは秘密です\!\!](https://ja.wikipedia.org/wiki/それは秘密です!! "wikilink")』のようなご対面コーナーもあった。月曜日の[プライムタイム](../Page/プライムタイム.md "wikilink")枠放送の肩肘凝らずに見られる番組で、この後に続く『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』へと繋いでいった。
+解答者でもあるゲストの珍談・奇談を披露し、さらにクイズを行いながら爆笑トークを展開する。形式的にはクイズ番組よりもトーク番組の性質が強く、初代司会の[横山やすし](../Page/横山やすし.md "wikilink")・[西川きよし](../Page/西川きよし.md "wikilink")の巧みな問いかけで有名人の素顔をさらけ出す形式で注目を浴びるなど人気を博した。また『[それは秘密です\!\!](../Page/それは秘密です!!.md "wikilink")』のようなご対面コーナーもあった。月曜日の[プライムタイム](../Page/プライムタイム.md "wikilink")枠放送の肩肘凝らずに見られる番組で、この後に続く『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』へと繋いでいった。
 
 開始当初は制作局である大阪のよみうりテレビの本社にて収録が行われたが、1985年4月から司会として加入した山田邦子のスケジュールを優先するために、これ以降は東京の日本テレビのスタジオ（末期は[渋谷ビデオスタジオ](../Page/渋谷ビデオスタジオ.md "wikilink")）にて収録が行われるようになった。
 
@@ -90,7 +90,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -98,7 +98,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a></p></td>
 <td><p>1991年10月から同時ネット[2]<br />
-以前は当該枠で<a href="https://ja.wikipedia.org/wiki/テレビ朝日水曜21時枠刑事ドラマ" title="wikilink">テレビ朝日水曜21時の刑事ドラマを放送していた関係で</a>、月曜深夜の遅れネット[3]</p></td>
+以前は当該枠で<a href="../Page/テレビ朝日水曜21時枠刑事ドラマ.md" title="wikilink">テレビ朝日水曜21時の刑事ドラマを放送していた関係で</a>、月曜深夜の遅れネット[3]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -145,7 +145,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ</a></p></td>
 <td></td>
 <td></td>
@@ -189,7 +189,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>
@@ -208,7 +208,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
 <td><p>1984年4月から一時期のみ[8]</p></td>
 </tr>

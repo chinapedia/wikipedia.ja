@@ -23,21 +23,21 @@
 
 公平な立場から撮影、構成されているとは言い難い部分があり、金子修介は「南里幸プロデューサーが『草薙浅黄が登場することに関する反論』で金子を論破できなかったために、庵野秀明を利用して作った嫌がらせである」との見解を示している。
 
-撮影時には特撮助監督（後に特撮監督）の[神谷誠](../Page/神谷誠.md "wikilink")が、作品の製作に関しての問題点\[1\]をカメラにむかって赤裸々に語っていたという。しかし、ビデオの監督を務めた[摩砂雪](https://ja.wikipedia.org/wiki/摩砂雪 "wikilink")のミスにより撮影は失敗したとされ、完成した映像では神谷が「もうしゃべんねーぞ」と叫ぶ姿のみ収録されている。
+撮影時には特撮助監督（後に特撮監督）の[神谷誠](../Page/神谷誠.md "wikilink")が、作品の製作に関しての問題点\[1\]をカメラにむかって赤裸々に語っていたという。しかし、ビデオの監督を務めた[摩砂雪](../Page/摩砂雪.md "wikilink")のミスにより撮影は失敗したとされ、完成した映像では神谷が「もうしゃべんねーぞ」と叫ぶ姿のみ収録されている。
 
 摩砂雪はこの作品をメイキングではなく、ドキュメンタリーとして製作しており、スキャンダラスな部分を意図的に演出している。しかし、公開前の宣伝用としての意味もあったため制限が多く、販売用は否定的な発言が大幅にカットされた。
 
-後に、金子と神谷が組んだ『[ゴジラ・モスラ・キングギドラ 大怪獣総攻撃](https://ja.wikipedia.org/wiki/ゴジラ・モスラ・キングギドラ_大怪獣総攻撃 "wikilink")』にて、神谷はスーパーバイザーに徹して、特撮は金子の書いたコンテに忠実に撮影された。
+後に、金子と神谷が組んだ『[ゴジラ・モスラ・キングギドラ 大怪獣総攻撃](../Page/ゴジラ・モスラ・キングギドラ_大怪獣総攻撃.md "wikilink")』にて、神谷はスーパーバイザーに徹して、特撮は金子の書いたコンテに忠実に撮影された。
 
 ## 出演
 
-南里幸、樋口真嗣、金子修介、神谷誠、[伊藤和典](../Page/伊藤和典.md "wikilink")、[林由美香](https://ja.wikipedia.org/wiki/林由美香 "wikilink")、[大橋明](../Page/大橋明.md "wikilink")、[福沢博文](https://ja.wikipedia.org/wiki/福沢博文 "wikilink")、[原口智生](../Page/原口智生.md "wikilink")、土川勉、[佐藤直樹](https://ja.wikipedia.org/wiki/佐藤直樹_\(日活\) "wikilink")、[中山忍](https://ja.wikipedia.org/wiki/中山忍 "wikilink")、[前田愛](../Page/前田愛_\(女優\).md "wikilink")、[藤谷文子](https://ja.wikipedia.org/wiki/藤谷文子 "wikilink")、[手塚とおる](https://ja.wikipedia.org/wiki/手塚とおる "wikilink")
+南里幸、樋口真嗣、金子修介、神谷誠、[伊藤和典](../Page/伊藤和典.md "wikilink")、[林由美香](../Page/林由美香.md "wikilink")、[大橋明](../Page/大橋明.md "wikilink")、[福沢博文](../Page/福沢博文.md "wikilink")、[原口智生](../Page/原口智生.md "wikilink")、土川勉、[佐藤直樹](https://ja.wikipedia.org/wiki/佐藤直樹_\(日活\) "wikilink")、[中山忍](https://ja.wikipedia.org/wiki/中山忍 "wikilink")、[前田愛](../Page/前田愛_\(女優\).md "wikilink")、[藤谷文子](../Page/藤谷文子.md "wikilink")、[手塚とおる](../Page/手塚とおる.md "wikilink")
 
 ## スタッフ
 
   - 総監督：庵野秀明
   - 監督：摩砂雪
-  - 撮影：摩砂雪・庵野秀明・[鶴巻和哉](https://ja.wikipedia.org/wiki/鶴巻和哉 "wikilink")・[大塚雅彦](https://ja.wikipedia.org/wiki/大塚雅彦 "wikilink")・[南里幸](https://ja.wikipedia.org/wiki/甘木モリオ "wikilink")・蔭山周
+  - 撮影：摩砂雪・庵野秀明・[鶴巻和哉](../Page/鶴巻和哉.md "wikilink")・[大塚雅彦](../Page/大塚雅彦.md "wikilink")・[南里幸](https://ja.wikipedia.org/wiki/甘木モリオ "wikilink")・蔭山周
   - 製作協力：[岩井俊二](../Page/岩井俊二.md "wikilink")、[松尾スズキ](../Page/松尾スズキ.md "wikilink")、[カンパニー松尾](../Page/カンパニー松尾.md "wikilink")、[平野勝之](../Page/平野勝之.md "wikilink")
 
 ## 注釈

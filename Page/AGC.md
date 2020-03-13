@@ -9,9 +9,9 @@
 
 ## 概要
 
-[日本板硝子](../Page/日本板硝子.md "wikilink")とならぶ世界最大のガラスメーカーである。[建築材料](https://ja.wikipedia.org/wiki/建築材料 "wikilink")、[自動車](../Page/自動車.md "wikilink")向けなどの[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")を中心に、電子部材やその他の[化学](../Page/化学.md "wikilink")関連素材を製造・販売している。特に、ガラスについては、世界における最大手である。建築用ガラス、フッ素化学製品などを主に取り扱う。
+[日本板硝子](../Page/日本板硝子.md "wikilink")とならぶ世界最大のガラスメーカーである。[建築材料](../Page/建築材料.md "wikilink")、[自動車](../Page/自動車.md "wikilink")向けなどの[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")を中心に、電子部材やその他の[化学](../Page/化学.md "wikilink")関連素材を製造・販売している。特に、ガラスについては、世界における最大手である。建築用ガラス、フッ素化学製品などを主に取り扱う。
 
-[2007年](../Page/2007年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")に創立100周年を迎えた。これを機に、単体の略称であった「AGC」を全世界的な統一ブランドとして定着させる旨を発表、世界的な広告展開を実施中である。社名[ロゴは年初に発表した新しいものへと正式に変更され](../Page/ロゴタイプ.md "wikilink")、大多数の[連結子会社](https://ja.wikipedia.org/wiki/連結子会社 "wikilink")・系列会社がこの新ロゴを用いるようになった（[2018年](../Page/2018年.md "wikilink")の社名変更時にフォントやデザインが若干異なるものに変更されている）。
+[2007年](../Page/2007年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")に創立100周年を迎えた。これを機に、単体の略称であった「AGC」を全世界的な統一ブランドとして定着させる旨を発表、世界的な広告展開を実施中である。社名[ロゴは年初に発表した新しいものへと正式に変更され](../Page/ロゴタイプ.md "wikilink")、大多数の[連結子会社](../Page/連結子会社.md "wikilink")・系列会社がこの新ロゴを用いるようになった（[2018年](../Page/2018年.md "wikilink")の社名変更時にフォントやデザインが若干異なるものに変更されている）。
 
 2016年8月にはドイツのバイオ医薬品会社バイオミーバを買収した、2017年にデンマークのバイオ医薬品会社CMCバイオロジックスを買収\[6\]。
 
@@ -149,8 +149,8 @@
 
 ### 提供スポンサーであった番組
 
-  - [水曜ドラマ (日本テレビ)](https://ja.wikipedia.org/wiki/水曜ドラマ_\(日本テレビ\) "wikilink")
-  - [水曜グランドロマン](https://ja.wikipedia.org/wiki/水曜グランドロマン "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [水曜ドラマ (日本テレビ)](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")
+  - [水曜グランドロマン](../Page/水曜グランドロマン.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")（日本テレビ）
   - [真相報道 バンキシャ\!](../Page/真相報道_バンキシャ!.md "wikilink")（日本テレビ）
   - [ワールドビジネスサテライト](../Page/ワールドビジネスサテライト.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
@@ -163,20 +163,20 @@
 ## 諸問題
 
   - [公害](../Page/公害.md "wikilink")の発生
-      - 尼崎市グラウンド跡地から、土壌[環境基準](../Page/環境基準.md "wikilink")値の200倍の[ヒ素](../Page/ヒ素.md "wikilink")が検出され[土壌汚染](https://ja.wikipedia.org/wiki/土壌汚染 "wikilink")が発生していることが発覚。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")、旭硝子はグラウンド跡地周辺の公園やマンションの[地下水](../Page/地下水.md "wikilink")からも最高で基準の69倍のヒ素を検出し、敷地外の周辺へも[地下水汚染](https://ja.wikipedia.org/wiki/地下水汚染 "wikilink")を拡散させていることを発表した。
+      - 尼崎市グラウンド跡地から、土壌[環境基準](../Page/環境基準.md "wikilink")値の200倍の[ヒ素](../Page/ヒ素.md "wikilink")が検出され[土壌汚染](https://ja.wikipedia.org/wiki/土壌汚染 "wikilink")が発生していることが発覚。[2005年](../Page/2005年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")、旭硝子はグラウンド跡地周辺の公園やマンションの[地下水](../Page/地下水.md "wikilink")からも最高で基準の69倍のヒ素を検出し、敷地外の周辺へも[地下水汚染](https://ja.wikipedia.org/wiki/地下水汚染 "wikilink")を拡散させていることを発表した。
       - [2004年](../Page/2004年.md "wikilink")3月末に閉鎖された船橋工場では、自主調査によって、フッ素、六価クロム、[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")、ヒ素等が検出された。中でも宙水中のヒ素は環境基準値の7300倍、鉛は環境基準値の630倍という高濃度であった。2005年より[土壌汚染](https://ja.wikipedia.org/wiki/土壌汚染 "wikilink")除去工事が開始されたが、除去工事の途中に過去に埋めた廃棄物からアスベストも発見された。除去工事は[2007年](../Page/2007年.md "wikilink")9月に完了した。
 
 ## 脚注・出典
 
 ## 関連項目
 
-  - [日本の企業一覧 (ガラス・土石製品)](https://ja.wikipedia.org/wiki/日本の企業一覧_\(ガラス・土石製品\) "wikilink")
+  - [日本の企業一覧 (ガラス・土石製品)](../Page/日本の企業一覧_\(ガラス・土石製品\).md "wikilink")
   - [三菱ケミカル](https://ja.wikipedia.org/wiki/三菱ケミカル "wikilink") - 旭硝子と同じく戦前の三菱化成工業を源流とする化学メーカー。
   - [旭硝子財団](../Page/旭硝子財団.md "wikilink")
   - [アリアンツ・アレナ](https://ja.wikipedia.org/wiki/アリアンツ・アレナ "wikilink")（旭硝子製の特殊フィルム[ETFE](https://ja.wikipedia.org/wiki/ETFE "wikilink")が使用されている）
   - [グラスピット](https://ja.wikipedia.org/wiki/グラスピット "wikilink")（[峰竜太](../Page/峰竜太.md "wikilink")がCM出演タレント）
   - [江頭2:50](../Page/江頭2:50.md "wikilink")（素人時代に勤めていた）
-  - [高橋一生](https://ja.wikipedia.org/wiki/高橋一生 "wikilink")（AGCに社名変更時のCMに出演）
+  - [高橋一生](../Page/高橋一生.md "wikilink")（AGCに社名変更時のCMに出演）
 
 ## 外部リンク
 

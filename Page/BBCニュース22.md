@@ -5,7 +5,7 @@
 
 びわ湖放送はこれ以前にも同時間帯で『[ニュースウェーブSHIGA](https://ja.wikipedia.org/wiki/ニュースウェーブSHIGA "wikilink")』→『[湖国発ニュース22](https://ja.wikipedia.org/wiki/湖国発ニュース22 "wikilink")』→『[ニュースDAN](https://ja.wikipedia.org/wiki/ニュースDAN "wikilink")』を放送していたが、[2004年](../Page/2004年.md "wikilink")春の改編で本番組をスタート。月曜 - 木曜には放送時間15分の[ストレートニュース](https://ja.wikipedia.org/wiki/ストレートニュース "wikilink")を、金曜には週間ニュースダイジェストや特集を交えた45分拡大版の『**BBCニュース22金曜版**』を放送するというスタイルだった。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、びわ湖放送は同年4月から同時間帯で『[徳光&コロッケの“名曲の時間です”](../Page/徳光&コロッケの“名曲の時間です”.md "wikilink")』や『[日経スペシャル ガイアの夜明け](../Page/日経スペシャル_ガイアの夜明け.md "wikilink")』などの[テレビ東京系番組をネットするため](https://ja.wikipedia.org/wiki/TXN "wikilink")、本番組を終了。替わって、月曜 - 木曜に放送時間6分のストレートニュース『[BBCニュースライン](../Page/BBCニュースライン.md "wikilink")』（22:54 - 23:00）を放送し、金曜に30分拡大版の『BBCニュースライン・フライデー』（22:00 - 22:30）を放送するようになった。
+[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、びわ湖放送は同年4月から同時間帯で『[徳光&コロッケの“名曲の時間です”](../Page/徳光&コロッケの“名曲の時間です”.md "wikilink")』や『[日経スペシャル ガイアの夜明け](../Page/日経スペシャル_ガイアの夜明け.md "wikilink")』などの[テレビ東京系番組をネットするため](https://ja.wikipedia.org/wiki/TXN "wikilink")、本番組を終了。替わって、月曜 - 木曜に放送時間6分のストレートニュース『[BBCニュースライン](../Page/BBCニュースライン.md "wikilink")』（22:54 - 23:00）を放送し、金曜に30分拡大版の『BBCニュースライン・フライデー』（22:00 - 22:30）を放送するようになった。
 
 ## 放送時間
 

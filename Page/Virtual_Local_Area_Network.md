@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - **プロトコルベースVLAN** : [IP](../Page/Internet_Protocol.md "wikilink")、[IPX](https://ja.wikipedia.org/wiki/Internetwork_Packet_Exchange "wikilink")、[AppleTalk](https://ja.wikipedia.org/wiki/AppleTalk "wikilink")などの[ネットワークプロトコル](https://ja.wikipedia.org/wiki/ネットワークプロトコル "wikilink")によりVLANグループを識別する方式。
+  - **プロトコルベースVLAN** : [IP](../Page/Internet_Protocol.md "wikilink")、[IPX](https://ja.wikipedia.org/wiki/Internetwork_Packet_Exchange "wikilink")、[AppleTalk](../Page/AppleTalk.md "wikilink")などの[ネットワークプロトコル](https://ja.wikipedia.org/wiki/ネットワークプロトコル "wikilink")によりVLANグループを識別する方式。
 
 <!-- end list -->
 

@@ -5,9 +5,9 @@
 
 2002年にスタートし、平年は[味の素スタジアムを舞台に世界各地から一流のジャズ](../Page/東京スタジアム_\(多目的スタジアム\).md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")を招待し「新しい文化の発信」「ジャズの後継者への継承とその発展」「文化のクロスオーバー」の3大テーマを掲げて、国境・世代の垣根を越えたジャズの夢の共演を展開し、ジャズのすばらしさを東京から世界に広く伝えようと企画された。2003年からは[ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")が総合プロデュースを担当している。
 
-2004年度は[アテネ五輪のテレビ中継の関係で](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")9月に実施され、また会場の味の素スタジアムも[Jリーグ公式戦開催のため使用できないので](../Page/日本プロサッカーリーグ.md "wikilink")、[東京ビッグサイトで開催され](../Page/東京国際展示場.md "wikilink")、[インドア](https://ja.wikipedia.org/wiki/インドア "wikilink")イベントとなった。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")もJリーグの試合開催の都合上東京ビッグサイトでの開催された。
+2004年度は[アテネ五輪のテレビ中継の関係で](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")9月に実施され、また会場の味の素スタジアムも[Jリーグ公式戦開催のため使用できないので](../Page/日本プロサッカーリーグ.md "wikilink")、[東京ビッグサイトで開催され](../Page/東京国際展示場.md "wikilink")、[インドア](https://ja.wikipedia.org/wiki/インドア "wikilink")イベントとなった。[2005年](../Page/2005年.md "wikilink")もJリーグの試合開催の都合上東京ビッグサイトでの開催された。
 
-2006年からは[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")に会場を移し開催されていて、関連プレライブも国内外の大物アーティスト、実力派アーティストを揃えて注目を浴びている。数多くあるプレライブの中でも渋谷『[O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")』が打ち出すイベントは強烈である。2017年以降は[NHKホール](../Page/NHKホール.md "wikilink")をメイン会場に開催。
+2006年からは[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")に会場を移し開催されていて、関連プレライブも国内外の大物アーティスト、実力派アーティストを揃えて注目を浴びている。数多くあるプレライブの中でも渋谷『[O-EAST](https://ja.wikipedia.org/wiki/Shibuya_O-East "wikilink")』が打ち出すイベントは強烈である。2017年以降は[NHKホール](../Page/NHKホール.md "wikilink")をメイン会場に開催。
 
 アジア最大級のJAZZイベントという事もあり、多くのナショナル[クライアントがスポンサーに名を連ねる](https://ja.wikipedia.org/wiki/クライアント_\(広告\) "wikilink")。
 
@@ -17,7 +17,7 @@
 
   - [ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")
   - [ウェイン・ショーター](../Page/ウェイン・ショーター.md "wikilink")
-  - [マイケル・ブレッカー](https://ja.wikipedia.org/wiki/マイケル・ブレッカー "wikilink")
+  - [マイケル・ブレッカー](../Page/マイケル・ブレッカー.md "wikilink")
   - [ニルス・ペッター・モルヴェル](https://ja.wikipedia.org/wiki/ニルス・ペッター・モルヴェル "wikilink")
   - [熱帯JAZZ楽団](../Page/熱帯JAZZ楽団.md "wikilink")
   - [小林桂](../Page/小林桂.md "wikilink")
@@ -41,17 +41,17 @@
   - [ユッスー・ンドゥール](../Page/ユッスー・ンドゥール.md "wikilink")
   - [スピーチ](https://ja.wikipedia.org/wiki/スピーチ "wikilink")
   - [ジョシュア・レッドマン](../Page/ジョシュア・レッドマン.md "wikilink")
-  - [渡辺香津美](https://ja.wikipedia.org/wiki/渡辺香津美 "wikilink")
+  - [渡辺香津美](../Page/渡辺香津美.md "wikilink")
   - [ジャック・ディジョネット](../Page/ジャック・ディジョネット.md "wikilink")
 
 <!-- end list -->
 
   - [クリスチャン・マクブライド](https://ja.wikipedia.org/wiki/クリスチャン・マクブライド "wikilink")
   - [前田憲男](../Page/前田憲男.md "wikilink")
-  - [ケイコ・リー](https://ja.wikipedia.org/wiki/ケイコ・リー "wikilink")
+  - [ケイコ・リー](../Page/ケイコ・リー.md "wikilink")
   - [寺井尚子](../Page/寺井尚子.md "wikilink")
   - [松永貴志](https://ja.wikipedia.org/wiki/松永貴志 "wikilink")
-  - [チャカ・カーン](https://ja.wikipedia.org/wiki/チャカ・カーン "wikilink")
+  - [チャカ・カーン](../Page/チャカ・カーン.md "wikilink")
 
 [東京JAZZ2003](http://www.tokyo-jazz.com/2003/)
 
@@ -60,7 +60,7 @@
   - [ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")、[ウェイン・ショーター](../Page/ウェイン・ショーター.md "wikilink")、
     [デイヴ・ホランド](https://ja.wikipedia.org/wiki/デイヴ・ホランド "wikilink")、[ブライアン・ブレイド](../Page/ブライアン・ブレイド.md "wikilink")・カルテット
   - [ダイアン・リーヴス](../Page/ダイアン・リーヴス.md "wikilink")
-  - [TOTO](https://ja.wikipedia.org/wiki/TOTO_\(バンド\) "wikilink")
+  - [TOTO](../Page/TOTO_\(バンド\).md "wikilink")
   - [セロニアス・モンク・インスティトゥート・オブ・ジャズ・アンサンブル](https://ja.wikipedia.org/wiki/セロニアス・モンク・インスティトゥート・オブ・ジャズ・アンサンブル "wikilink")
   - [セサール・ロペス](https://ja.wikipedia.org/wiki/セサール・ロペス "wikilink")&ハバナ・アンサンブル
   - [リール・ピープル](https://ja.wikipedia.org/wiki/リール・ピープル "wikilink")
@@ -83,14 +83,14 @@
   - [テレンス・ブレンチャード](https://ja.wikipedia.org/wiki/テレンス・ブレンチャード "wikilink")
   - [チャリート](https://ja.wikipedia.org/wiki/チャリート "wikilink")・ラテン・ジャズ・ファンク・バンド
   - [山中千尋](../Page/山中千尋.md "wikilink")
-  - [マーカス・ミラー](https://ja.wikipedia.org/wiki/マーカス・ミラー "wikilink")
+  - [マーカス・ミラー](../Page/マーカス・ミラー.md "wikilink")
   - [ゲイリー・バートン](../Page/ゲイリー・バートン.md "wikilink")
 
 <!-- end list -->
 
   - メタリアル・フィーチャリング・[ニルス・ペッター・モルヴィル](https://ja.wikipedia.org/wiki/ニルス・ペッター・モルヴィル "wikilink")
   - [TKY](https://ja.wikipedia.org/wiki/TKY "wikilink")
-  - [上妻宏光](https://ja.wikipedia.org/wiki/上妻宏光 "wikilink")・東京JAZZ・スペシャル・ユニット
+  - [上妻宏光](../Page/上妻宏光.md "wikilink")・東京JAZZ・スペシャル・ユニット
   - [ジャズトロニック](https://ja.wikipedia.org/wiki/ジャズトロニック "wikilink")＋スペシャル・ゲスト・サンディー
   - [HIBI★Chazz-K](https://ja.wikipedia.org/wiki/HIBI★Chazz-K "wikilink")（オープニングアクト）
   - [ザ・ニュー・サウンド・カルテット](https://ja.wikipedia.org/wiki/ザ・ニュー・サウンド・カルテット "wikilink")（オープニングアクト）
@@ -102,19 +102,19 @@
   - [チック・コリア](../Page/チック・コリア.md "wikilink")
   - [ザ・グレイト・ジャズ・トリオ](../Page/グレート・ジャズ・トリオ.md "wikilink") by [ハンク・ジョーンズ](https://ja.wikipedia.org/wiki/ハンク・ジョーンズ "wikilink")
   - [ジョン・パティトゥッチ](../Page/ジョン・パティトゥッチ.md "wikilink")
-  - [オマー・ハキム](https://ja.wikipedia.org/wiki/オマー・ハキム "wikilink")
+  - [オマー・ハキム](../Page/オマー・ハキム.md "wikilink")
   - [渡辺貞夫](../Page/渡辺貞夫.md "wikilink")
-  - [マーカス・ミラー](https://ja.wikipedia.org/wiki/マーカス・ミラー "wikilink")
+  - [マーカス・ミラー](../Page/マーカス・ミラー.md "wikilink")
   - [フランク・マッコム](https://ja.wikipedia.org/wiki/フランク・マッコム "wikilink")
   - [ロス・バン・バン](https://ja.wikipedia.org/wiki/ロス・バン・バン "wikilink")
   - [上原ひろみ](https://ja.wikipedia.org/wiki/上原ひろみ "wikilink")
-  - [ラリー・カールトン](https://ja.wikipedia.org/wiki/ラリー・カールトン "wikilink") with [ロベン・フォード](../Page/ロベン・フォード.md "wikilink")
+  - [ラリー・カールトン](../Page/ラリー・カールトン.md "wikilink") with [ロベン・フォード](../Page/ロベン・フォード.md "wikilink")
 
 <!-- end list -->
 
   - [インコグニート](../Page/インコグニート.md "wikilink")
 
-  - [ジョイス](https://ja.wikipedia.org/wiki/ジョイス "wikilink") with special guest [ロベルト・メネスカル](https://ja.wikipedia.org/wiki/ロベルト・メネスカル "wikilink")
+  - [ジョイス](../Page/ジョイス.md "wikilink") with special guest [ロベルト・メネスカル](https://ja.wikipedia.org/wiki/ロベルト・メネスカル "wikilink")
 
   - [デイヴ・コーズ](../Page/デイヴ・コーズ.md "wikilink")
 
@@ -143,9 +143,9 @@
 <!-- end list -->
 
   - [キャンディーダルファーand バンド](../Page/キャンディ・ダルファー.md "wikilink")
-  - [小曽根真](https://ja.wikipedia.org/wiki/小曽根真 "wikilink") presents No Name Horses
+  - [小曽根真](../Page/小曽根真.md "wikilink") presents No Name Horses
   - [T-SQUARE](../Page/T-SQUARE.md "wikilink")
-  - [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")
+  - [DIMENSION](../Page/DIMENSION.md "wikilink")
   - [レ・フレール](../Page/レ・フレール.md "wikilink")
 
 [東京JAZZ2007](http://www.tokyo-jazz.com/2007/)
@@ -183,7 +183,7 @@
 
 ＜9月5日（土）＞
 
-  - [神保彰](https://ja.wikipedia.org/wiki/神保彰 "wikilink") featuring [エイブラハム・ラボリエル](../Page/エイブラハム・ラボリエル.md "wikilink")、オトマロ・ルイーズ and very special guest [リー・リトナー](../Page/リー・リトナー.md "wikilink")
+  - [神保彰](../Page/神保彰.md "wikilink") featuring [エイブラハム・ラボリエル](../Page/エイブラハム・ラボリエル.md "wikilink")、オトマロ・ルイーズ and very special guest [リー・リトナー](../Page/リー・リトナー.md "wikilink")
   - [ジョン・スコフィールド](../Page/ジョン・スコフィールド_\(音楽家\).md "wikilink") and the Piety Street Band
   - [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")
   - [ジョージ・クリントン](../Page/ジョージ・クリントン_\(ミュージシャン\).md "wikilink") & PARLIAMENT / FUNKADELIC
@@ -210,7 +210,7 @@
   - [アンソニー・ジャクソン](https://ja.wikipedia.org/wiki/アンソニー・ジャクソン "wikilink")
   - [バティスト・トロティニョン](https://ja.wikipedia.org/wiki/バティスト・トロティニョン "wikilink")
   - [ベニー・ゴルソン](../Page/ベニー・ゴルソン.md "wikilink")
-  - [チャカ・カーン](https://ja.wikipedia.org/wiki/チャカ・カーン "wikilink")
+  - [チャカ・カーン](../Page/チャカ・カーン.md "wikilink")
   - [クリスチャン・マクブライド・ビッグ・バンド](https://ja.wikipedia.org/wiki/クリスチャン・マクブライド・ビッグ・バンド "wikilink")
   - [クッキン・オン・スリー・バーナーズ](https://ja.wikipedia.org/wiki/クッキン・オン・スリー・バーナーズ "wikilink")
   - [ディムライト](https://ja.wikipedia.org/wiki/ディムライト "wikilink")
@@ -222,8 +222,8 @@
   - [ヤガ・ヤシスト](https://ja.wikipedia.org/wiki/ジャガ・ジャジスト "wikilink")
   - [イェジー・ロギェヴィチ](https://ja.wikipedia.org/wiki/イェジー・ロギェヴィチ "wikilink")
   - [ヨーナス・ハーヴィスト・トリオ](https://ja.wikipedia.org/wiki/ヨーナス・ハーヴィスト・トリオ "wikilink")
-  - [ケニー“ベイビーフェイス”エドモンズ](https://ja.wikipedia.org/wiki/ベイビーフェイス_\(ミュージシャン\) "wikilink")
-  - [ケニー・バロン](https://ja.wikipedia.org/wiki/ケニー・バロン "wikilink")
+  - [ケニー“ベイビーフェイス”エドモンズ](../Page/ベイビーフェイス_\(ミュージシャン\).md "wikilink")
+  - [ケニー・バロン](../Page/ケニー・バロン.md "wikilink")
   - [クレズモフォビア](https://ja.wikipedia.org/wiki/クレズモフォビア "wikilink")
   - [カイル・シェパード](https://ja.wikipedia.org/wiki/カイル・シェパード "wikilink")
   - [レニー・ホワイト](../Page/レニー・ホワイト.md "wikilink")
@@ -244,10 +244,10 @@
   - [ウーター・ヘメル](../Page/ウーター・ヘメル.md "wikilink")
   - [上原ひろみ](https://ja.wikipedia.org/wiki/上原ひろみ "wikilink")
   - [内橋和久](https://ja.wikipedia.org/wiki/内橋和久 "wikilink")
-  - [小曽根真](https://ja.wikipedia.org/wiki/小曽根真 "wikilink")
+  - [小曽根真](../Page/小曽根真.md "wikilink")
   - 小曽根真 featuring No Name Horses
   - [川口千里](https://ja.wikipedia.org/wiki/川口千里_\(ドラマー\) "wikilink")
-  - [菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink")とペペ・トルメント・アスカラール
+  - [菊地成孔](../Page/菊地成孔.md "wikilink")とペペ・トルメント・アスカラール
   - [國田大輔](https://ja.wikipedia.org/wiki/國田大輔 "wikilink")
   - [坂田明](../Page/坂田明.md "wikilink")
   - [シュローダーヘッズ](https://ja.wikipedia.org/wiki/シュローダーヘッズ "wikilink")
@@ -262,11 +262,11 @@
 ＜9月5日（土）＞
 
   - [ボブ・ジェームス](../Page/ボブ・ジェームス.md "wikilink") ＆[東京フィルハーモニー交響楽団](../Page/東京フィルハーモニー交響楽団.md "wikilink") “WORLD PREMIERE OF THE PIANO CONCERTO BY BOB JAMES”
-    指揮者 : ケヴィン・ローズ featuring [スティーヴ・ガッド](../Page/スティーヴ・ガッド.md "wikilink")、カリートス・デル・プエルト special guest [渡辺香津美](https://ja.wikipedia.org/wiki/渡辺香津美 "wikilink")
+    指揮者 : ケヴィン・ローズ featuring [スティーヴ・ガッド](../Page/スティーヴ・ガッド.md "wikilink")、カリートス・デル・プエルト special guest [渡辺香津美](../Page/渡辺香津美.md "wikilink")
   - ニュー・センチュリー・ジャズ・クインテット
     (大林武司、ユリシス・オーエンス・ジュニア、中村恭士、ティム・グリーン、ベニー・ベナック)
   - アンナ・マリア・ヨペック カルテット feat. ミノ・シネル
-  - KYOTO JAZZ SEXTET Special Guests [菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink")、リチャード・スペイヴン
+  - KYOTO JAZZ SEXTET Special Guests [菊地成孔](../Page/菊地成孔.md "wikilink")、リチャード・スペイヴン
     ([沖野修也](https://ja.wikipedia.org/wiki/沖野修也 "wikilink")、[平戸祐介](https://ja.wikipedia.org/wiki/quasimode "wikilink")、[類家心平](https://ja.wikipedia.org/wiki/菊地成孔#菊地成孔ダブ・セクステット "wikilink")、[栗原健](https://ja.wikipedia.org/wiki/Mountain_Mocha_Kilimanjaro "wikilink")、小泉P克人、石若駿)
   - [エスペランサ・スポルディング](https://ja.wikipedia.org/wiki/エスペランサ・スポルディング "wikilink") Presents Emily's D+Evolution
   - [ジャック・ディジョネット](../Page/ジャック・ディジョネット.md "wikilink")・トリオ featuring ラヴィ・コルトレーン ＆ マシュー・ギャリソン
@@ -274,7 +274,7 @@
 ＜9月6日（日）＞
 
   - エリ・デジブリ・カルテット featuring アヴィシャイ・コーエン with Special Guest [山中千尋](../Page/山中千尋.md "wikilink")
-  - [日野皓正](https://ja.wikipedia.org/wiki/日野皓正 "wikilink") ＆ [ラリー・カールトン](https://ja.wikipedia.org/wiki/ラリー・カールトン "wikilink") SUPER BAND featuring [大西順子](../Page/大西順子_\(ミュージシャン\).md "wikilink")、[ジョン・パティトゥッチ](../Page/ジョン・パティトゥッチ.md "wikilink")、カリーム・リギンズ
+  - [日野皓正](https://ja.wikipedia.org/wiki/日野皓正 "wikilink") ＆ [ラリー・カールトン](../Page/ラリー・カールトン.md "wikilink") SUPER BAND featuring [大西順子](../Page/大西順子_\(ミュージシャン\).md "wikilink")、[ジョン・パティトゥッチ](../Page/ジョン・パティトゥッチ.md "wikilink")、カリーム・リギンズ
   - [ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink") ＆ [ウェイン・ショーター](../Page/ウェイン・ショーター.md "wikilink")
   - [スティーヴ・ガッド](../Page/スティーヴ・ガッド.md "wikilink")・バンド featuring [マイケル・ランドウ](../Page/マイケル・ランドウ.md "wikilink")、ラリー・ゴールディングス、[ジミー・ジョンソン](https://ja.wikipedia.org/wiki/ジミー・ジョンソン_\(ベース奏者\) "wikilink") & ウォルト・ファウラー
   - [リー・リトナー](../Page/リー・リトナー.md "wikilink") Guest: TOKYO JAZZ HORNS（[市原ひかり](https://ja.wikipedia.org/wiki/市原ひかり "wikilink")、[小林香織](https://ja.wikipedia.org/wiki/小林香織 "wikilink")、駒野逸美、浜崎航、宮本大路）
@@ -288,7 +288,7 @@
 
 ＜9月3日（土）＞
 
-  - [小曽根真](https://ja.wikipedia.org/wiki/小曽根真 "wikilink") presents JFC All Star Big Band meets [Juilliard](https://ja.wikipedia.org/wiki/ジュリアード音楽院 "wikilink") Jazz Ensemble
+  - [小曽根真](../Page/小曽根真.md "wikilink") presents JFC All Star Big Band meets [Juilliard](../Page/ジュリアード音楽院.md "wikilink") Jazz Ensemble
       -
         JFC All Star Big Band - 国立音楽大学、尚美学園大学、昭和音楽大学、洗足学園音楽大学の4校が合同で、昨年立ち上げたジャズ祭“Jazz Festival at Conservatory”の優秀バンドによるオールスター・ビッグバンド
   - 寺井尚子 meets パブロ・シーグレル “THE JAZZ TANGO PROJECT”
@@ -299,7 +299,7 @@
         [ハービー・ハンコック](../Page/ハービー・ハンコック.md "wikilink")（p）、（b）、[レイラ・ハサウェイ](https://ja.wikipedia.org/wiki/レイラ・ハサウェイ "wikilink")（vo）、トレヴァー・ローレンス Jr.（ds）、（key, sax）
   - パット・メセニー＆クリスチャン・マクブライド
       -
-        [パット・メセニー](https://ja.wikipedia.org/wiki/パット・メセニー "wikilink")（g）、[クリスチャン・マクブライド](https://ja.wikipedia.org/wiki/クリスチャン・マクブライド "wikilink")（b）
+        [パット・メセニー](../Page/パット・メセニー.md "wikilink")（g）、[クリスチャン・マクブライド](https://ja.wikipedia.org/wiki/クリスチャン・マクブライド "wikilink")（b）
   - アロルド・ロペス・ヌッサ
       -
 
@@ -315,7 +315,7 @@
         [石若駿](https://ja.wikipedia.org/wiki/石若駿 "wikilink")（ds）、[粟谷巧](https://ja.wikipedia.org/wiki/粟谷巧 "wikilink")（b）、[大林武司](https://ja.wikipedia.org/wiki/大林武司 "wikilink")（p）、[寺久保エレナ](https://ja.wikipedia.org/wiki/寺久保エレナ "wikilink")（sax）、[日野皓正](https://ja.wikipedia.org/wiki/日野皓正 "wikilink")（tp）
   - 渡辺香津美＆沖仁
       -
-        [渡辺香津美](https://ja.wikipedia.org/wiki/渡辺香津美 "wikilink")（g）、[沖仁](https://ja.wikipedia.org/wiki/沖仁 "wikilink")（g）、KW45 TOKYO JAZZ SPECIAL BAND ( [笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")（key）、[高水健司](https://ja.wikipedia.org/wiki/高水健司 "wikilink")（b）、[ヤヒロトモヒロ](https://ja.wikipedia.org/wiki/ヤヒロトモヒロ "wikilink")（perc）) & スペシャルゲスト：[ミノ・シネル](https://ja.wikipedia.org/wiki/ミノ・シネル "wikilink")（perc）
+        [渡辺香津美](../Page/渡辺香津美.md "wikilink")（g）、[沖仁](https://ja.wikipedia.org/wiki/沖仁 "wikilink")（g）、KW45 TOKYO JAZZ SPECIAL BAND ( [笹路正徳](../Page/笹路正徳.md "wikilink")（key）、[高水健司](https://ja.wikipedia.org/wiki/高水健司 "wikilink")（b）、[ヤヒロトモヒロ](https://ja.wikipedia.org/wiki/ヤヒロトモヒロ "wikilink")（perc）) & スペシャルゲスト：[ミノ・シネル](https://ja.wikipedia.org/wiki/ミノ・シネル "wikilink")（perc）
   - セルジオ・メンデス
       -
         [セルジオ・メンデス](../Page/セルジオ・メンデス.md "wikilink")（vo, key）、[グラシーナ・レポラス](../Page/グラシーニャ・レポラーセ.md "wikilink")（vo）、ケイティー・ハンプトン（vo）、エイチツーオー（rapper）、スコット・マヨ（key, horn）、クレベール・ホルヘ（g）、アンドレ・デ・サンタナ（b）、ギビ（perc）、レオナード・コスタ（dr）
@@ -324,7 +324,7 @@
         岸本亮（p）、カワイヒデヒロ（b）、井上司（ds）
   - ケニー・バロン・トリオ with special guest グレッチェン・パーラト
       -
-        [ケニー・バロン](https://ja.wikipedia.org/wiki/ケニー・バロン "wikilink")（p）、（vo）、北川潔（b）、ジョナサン・ブレイク（ds）
+        [ケニー・バロン](../Page/ケニー・バロン.md "wikilink")（p）、（vo）、北川潔（b）、ジョナサン・ブレイク（ds）
   - ミシェル・カミロ × 上原ひろみ
       -
         [ミシェル・カミロ](../Page/ミシェル・カミロ.md "wikilink")（p）、[上原ひろみ](https://ja.wikipedia.org/wiki/上原ひろみ "wikilink")（p）
@@ -394,7 +394,7 @@
 
   - 大江千里 and friends
       -
-        [大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink") (p)、ジム・ロバートソン (b)、平麻美子 (Vo)
+        [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink") (p)、ジム・ロバートソン (b)、平麻美子 (Vo)
 
 ＜9月4日（日）＞
 

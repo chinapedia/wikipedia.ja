@@ -3,14 +3,14 @@
 
 **Bサンデー**は、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で2002年4月から2004年3月まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。毎週日曜日の16:30〜17:36まで、生放送だった。
 
-パーソナリティは、[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")の[ロザン](../Page/ロザン.md "wikilink")の菅広文・宇治原史規と3ピースバンド[Sound Scheduleのボーカルギターの大石昌良の](https://ja.wikipedia.org/wiki/Sound_Schedule "wikilink")3人。改編前に木曜深夜に同局で放送されていた[AM808。マジっすよ\!](https://ja.wikipedia.org/wiki/AM808。マジっすよ! "wikilink")から引き続き同じメンバーでの放送となった。
+パーソナリティは、[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")の[ロザン](../Page/ロザン.md "wikilink")の菅広文・宇治原史規と3ピースバンド[Sound Scheduleのボーカルギターの大石昌良の](../Page/Sound_Schedule.md "wikilink")3人。改編前に木曜深夜に同局で放送されていた[AM808。マジっすよ\!](../Page/AM808。マジっすよ!.md "wikilink")から引き続き同じメンバーでの放送となった。
 
 2004年4月改編でスタートした[ゴーゴーモンキーズ](../Page/ゴーゴーモンキーズ.md "wikilink")の火曜日パーソナリティに3人が起用され、2年ぶりの深夜枠復帰に本人たちがとても喜んでいたという。
 
 ## パーソナリティー
 
   - [ロザン](../Page/ロザン.md "wikilink")([菅広文](https://ja.wikipedia.org/wiki/菅広文 "wikilink")・[宇治原史規](https://ja.wikipedia.org/wiki/宇治原史規 "wikilink"))
-  - 大石昌良([Sound Schedule](https://ja.wikipedia.org/wiki/Sound_Schedule "wikilink"))
+  - 大石昌良([Sound Schedule](../Page/Sound_Schedule.md "wikilink"))
   - [大月勇](../Page/大月勇.md "wikilink")(MBSアナウンサー）※2003年6月まで「クイズ\!宇治原を倒せ」のMCを務めた。
 
 ## 放送されていたコーナー

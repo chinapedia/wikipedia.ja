@@ -11,11 +11,11 @@
 
 本作の時代設定は近未来の「20XX年」とされ、[怪獣](../Page/怪獣.md "wikilink")たちと戦う[地球防衛軍が存在する](https://ja.wikipedia.org/wiki/東宝特撮映画の怪獣対策組織#地球防衛軍 "wikilink")。
 
-歴代の人気怪獣総出演というのが売りの1つで、ゴジラを含めて『[怪獣総進撃](../Page/怪獣総進撃.md "wikilink")』を超える合計15体の怪獣のほか、[轟天号](../Page/轟天号.md "wikilink")や[X星人](https://ja.wikipedia.org/wiki/X星人 "wikilink")も登場し、東宝特撮を総括する集大成となった。ゴジラ映画では珍しい人間側のアクションシーンが多く取り入れられたうえ、怪獣のアクションシーンも従来のゆっくりとした動きではなく、「戦うゴジラを描く」というコンセプトのもとで軽量化された[着ぐるみ](../Page/着ぐるみ.md "wikilink")と[ワイヤーアクション](../Page/ワイヤーアクション.md "wikilink")や[CGを駆使したアグレッシヴな動きで表現されるなど](../Page/コンピュータグラフィックス.md "wikilink")、新たな試みがなされた。製作の[富山省吾](../Page/富山省吾.md "wikilink")は、本作のテーマを「ゴジラ愛」「怪獣愛」というものになるだろうという旨の発言をしている\[6\]。
+歴代の人気怪獣総出演というのが売りの1つで、ゴジラを含めて『[怪獣総進撃](../Page/怪獣総進撃.md "wikilink")』を超える合計15体の怪獣のほか、[轟天号](../Page/轟天号.md "wikilink")や[X星人](../Page/X星人.md "wikilink")も登場し、東宝特撮を総括する集大成となった。ゴジラ映画では珍しい人間側のアクションシーンが多く取り入れられたうえ、怪獣のアクションシーンも従来のゆっくりとした動きではなく、「戦うゴジラを描く」というコンセプトのもとで軽量化された[着ぐるみ](../Page/着ぐるみ.md "wikilink")と[ワイヤーアクション](../Page/ワイヤーアクション.md "wikilink")や[CGを駆使したアグレッシヴな動きで表現されるなど](../Page/コンピュータグラフィックス.md "wikilink")、新たな試みがなされた。製作の[富山省吾](../Page/富山省吾.md "wikilink")は、本作のテーマを「ゴジラ愛」「怪獣愛」というものになるだろうという旨の発言をしている\[6\]。
 
-最終作と銘打った本作を製作するに際し、富山は本作を「これ以上の『ゴジラ』は作れない」という作品にするため\[7\]、「アメリカ映画に何のコンプレックスもない新しい世代のクリエイター」として怪獣映画は初となる[北村龍平](../Page/北村龍平.md "wikilink")に監督を依頼した。そのほか、[寺田克也](../Page/寺田克也.md "wikilink")、[韮沢靖](../Page/韮沢靖.md "wikilink")、[新川洋司](../Page/新川洋司.md "wikilink")、[キース・エマーソン](https://ja.wikipedia.org/wiki/キース・エマーソン "wikilink")、[カイル・クーパー](../Page/カイル・クーパー.md "wikilink")などの新メンバーが加わり、製作費20億円、製作日数100日、史上初の4班（本編班、特撮A班、特撮B班、海外班）体制での撮影など、歴代ゴジラ映画史上最大の規模で制作された。
+最終作と銘打った本作を製作するに際し、富山は本作を「これ以上の『ゴジラ』は作れない」という作品にするため\[7\]、「アメリカ映画に何のコンプレックスもない新しい世代のクリエイター」として怪獣映画は初となる[北村龍平](../Page/北村龍平.md "wikilink")に監督を依頼した。そのほか、[寺田克也](../Page/寺田克也.md "wikilink")、[韮沢靖](../Page/韮沢靖.md "wikilink")、[新川洋司](../Page/新川洋司.md "wikilink")、[キース・エマーソン](../Page/キース・エマーソン.md "wikilink")、[カイル・クーパー](../Page/カイル・クーパー.md "wikilink")などの新メンバーが加わり、製作費20億円、製作日数100日、史上初の4班（本編班、特撮A班、特撮B班、海外班）体制での撮影など、歴代ゴジラ映画史上最大の規模で制作された。
 
-『[ゴジラ・モスラ・キングギドラ 大怪獣総攻撃](https://ja.wikipedia.org/wiki/ゴジラ・モスラ・キングギドラ_大怪獣総攻撃 "wikilink")』以来恒例となっていた劇場版『[とっとこハム太郎](../Page/とっとこハム太郎_\(アニメ\).md "wikilink")』との併映ではなく単独作品として公開され、上映時間もシリーズ最長の125分となっている。
+『[ゴジラ・モスラ・キングギドラ 大怪獣総攻撃](../Page/ゴジラ・モスラ・キングギドラ_大怪獣総攻撃.md "wikilink")』以来恒例となっていた劇場版『[とっとこハム太郎](../Page/とっとこハム太郎_\(アニメ\).md "wikilink")』との併映ではなく単独作品として公開され、上映時間もシリーズ最長の125分となっている。
 
 本作品では全編に渡って[日本語](../Page/日本語.md "wikilink")と[英語](../Page/英語.md "wikilink")、さらには[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")などの多数の言語が入り混じっているため、字幕版と日本語吹き替え版の2バージョンが存在する。劇場公開時は吹き替え版が採用されていたが、一部の劇場では「ワールドプレミア・ヴァージョン」として字幕版の上映が行われていた（ソフト版では両方視聴可能）。
 
@@ -54,15 +54,15 @@
 
 西暦20XX年。世界中で核実験や戦争が頻発した結果、眠っていた怪獣たちが目覚め、人類に牙を剥いた。これに対抗するため、国連は[地球防衛軍を結成すると同時に](https://ja.wikipedia.org/wiki/東宝特撮映画の怪獣対策組織#地球防衛軍 "wikilink")、一般の人類より優れた能力を持つ**ミュータント**たちによる部隊「**M機関**」を組織した。人類の最大の敵こそ、1954年以降世界を恐怖に陥れた怪獣王・ゴジラであったが、[南極](../Page/南極.md "wikilink")で交戦した[轟天号](../Page/轟天号.md "wikilink")によってゴジラは氷塊の中へ封じ込められた。
 
-それから20年後、地球防衛軍の最新鋭艦である[新・轟天号は](https://ja.wikipedia.org/wiki/轟天号#新・轟天号 "wikilink")、ノルマンディー沖の海底にて[マンダ](https://ja.wikipedia.org/wiki/マンダ "wikilink")を撃退するが、艦の損傷は激しく、艦長のダグラス・ゴードン大佐はこの一件で本部より軍法会議に処せられてしまう。その後、M機関の隊員である尾崎真一は、国連から派遣された科学者・音無美雪の護衛として、北海道沖にて発見された怪獣のミイラの調査に向かう。
+それから20年後、地球防衛軍の最新鋭艦である[新・轟天号は](https://ja.wikipedia.org/wiki/轟天号#新・轟天号 "wikilink")、ノルマンディー沖の海底にて[マンダ](../Page/マンダ.md "wikilink")を撃退するが、艦の損傷は激しく、艦長のダグラス・ゴードン大佐はこの一件で本部より軍法会議に処せられてしまう。その後、M機関の隊員である尾崎真一は、国連から派遣された科学者・音無美雪の護衛として、北海道沖にて発見された怪獣のミイラの調査に向かう。
 
-その頃、日本人初の[国連事務総長である醍醐の乗った飛行機が消息を絶ち](../Page/国際連合事務総長.md "wikilink")、それを契機として世界中に大量の怪獣が同時に出現した。苦戦する地球防衛軍の前で突如怪獣が消滅し、巨大なUFOが東京上空に出現する。中からは醍醐が姿を現し、**[X星人](https://ja.wikipedia.org/wiki/X星人 "wikilink")**と名乗る宇宙人に救出されたと話した。X星人は地球に**[妖星ゴラス](../Page/妖星ゴラス.md "wikilink")**が迫っていると危機を呼びかけ、友好の証として怪獣を消滅させたのだという。これにより、世界はX星人との友好ムード一色となる。
+その頃、日本人初の[国連事務総長である醍醐の乗った飛行機が消息を絶ち](../Page/国際連合事務総長.md "wikilink")、それを契機として世界中に大量の怪獣が同時に出現した。苦戦する地球防衛軍の前で突如怪獣が消滅し、巨大なUFOが東京上空に出現する。中からは醍醐が姿を現し、**[X星人](../Page/X星人.md "wikilink")**と名乗る宇宙人に救出されたと話した。X星人は地球に**[妖星ゴラス](../Page/妖星ゴラス.md "wikilink")**が迫っていると危機を呼びかけ、友好の証として怪獣を消滅させたのだという。これにより、世界はX星人との友好ムード一色となる。
 
-しかし、X星人の友好的態度に疑問を持った尾崎と美雪は、幽閉中であったゴードン大佐を味方に引き入れ、美雪の姉・杏奈が司会を務めるテレビ番組において、友好の裏で地球の乗っ取りを進めるX星人の企みを看破する。焦りを見せたX星人の司令官を参謀が射殺して自らが新たな統制官となり、地球人を家畜呼ばわりして地球の武力制圧を宣言する。また、X星人によって消滅を偽装されていた怪獣たちが再び姿を現し、都市を蹂躙して地球防衛軍の空中戦艦をことごとく沈めていく。さらにミイラと化していた怪獣[ガイガン](https://ja.wikipedia.org/wiki/ガイガン "wikilink")までもが復活し、地球は崩壊の危機を迎える。
+しかし、X星人の友好的態度に疑問を持った尾崎と美雪は、幽閉中であったゴードン大佐を味方に引き入れ、美雪の姉・杏奈が司会を務めるテレビ番組において、友好の裏で地球の乗っ取りを進めるX星人の企みを看破する。焦りを見せたX星人の司令官を参謀が射殺して自らが新たな統制官となり、地球人を家畜呼ばわりして地球の武力制圧を宣言する。また、X星人によって消滅を偽装されていた怪獣たちが再び姿を現し、都市を蹂躙して地球防衛軍の空中戦艦をことごとく沈めていく。さらにミイラと化していた怪獣[ガイガン](../Page/ガイガン.md "wikilink")までもが復活し、地球は崩壊の危機を迎える。
 
 ゴードンは尾崎らを引き連れ、地球防衛軍の地下ドックにある新・轟天号に乗り込む。南極の氷塊からX星人も予想していなかったゴジラを復活させようという賭けは、下手をすれば自分たちに牙を剥きかねない危険なものであったが、新・轟天号は発進した。かくして、最終作戦「**オペレーション・ファイナルウォーズ**」が発動される。
 
-一方、少年の健太は富士山麓で友好的な子供怪獣[ミニラ](https://ja.wikipedia.org/wiki/ミニラ "wikilink")と出会い、ともにゴジラのもとへ向かう。
+一方、少年の健太は富士山麓で友好的な子供怪獣[ミニラ](../Page/ミニラ.md "wikilink")と出会い、ともにゴジラのもとへ向かう。
 
 ## 登場怪獣
 
@@ -81,7 +81,7 @@
   - [ヘドラ](https://ja.wikipedia.org/wiki/ヘドラ#『ゴジラ_FINAL_WARS』のヘドラ "wikilink")
   - [モンスターX→カイザーギドラ](https://ja.wikipedia.org/wiki/キングギドラ#モンスターX/カイザーギドラ "wikilink") - 本作唯一の新怪獣。隕石の妖星ゴラスとなって地球に飛来。モンスターXがダメージを受けるとカイザーギドラに変身する。
 
-これ以外にも、オープニングでは[バラン](https://ja.wikipedia.org/wiki/大怪獣バラン#むささび怪獣_バラン "wikilink")、[ゲゾラ](https://ja.wikipedia.org/wiki/ゲゾラ・ガニメ・カメーバ_決戦!南海の大怪獣#大いか怪獣_ゲゾラ "wikilink")、[バラゴン](https://ja.wikipedia.org/wiki/バラゴン "wikilink")、[ガイラ](https://ja.wikipedia.org/wiki/ガイラ "wikilink")、[チタノザウルス](../Page/チタノザウルス.md "wikilink")、[メガギラス](https://ja.wikipedia.org/wiki/メガギラス "wikilink")が[ライブフィルムで登場している](../Page/バンクシステム.md "wikilink")。
+これ以外にも、オープニングでは[バラン](https://ja.wikipedia.org/wiki/大怪獣バラン#むささび怪獣_バラン "wikilink")、[ゲゾラ](https://ja.wikipedia.org/wiki/ゲゾラ・ガニメ・カメーバ_決戦!南海の大怪獣#大いか怪獣_ゲゾラ "wikilink")、[バラゴン](../Page/バラゴン.md "wikilink")、[ガイラ](../Page/ガイラ.md "wikilink")、[チタノザウルス](../Page/チタノザウルス.md "wikilink")、[メガギラス](../Page/メガギラス.md "wikilink")が[ライブフィルムで登場している](../Page/バンクシステム.md "wikilink")。
 
 ## 登場人物
 
@@ -107,7 +107,7 @@
     役名は、演じる水野が『[怪獣大戦争](../Page/怪獣大戦争.md "wikilink")』で演じたX星人の女性「波川」に由来。
   - 神宮寺 八郎
     防衛博物館の主任の古代生物学者。62歳。北海道で発見されたガイガンの謎を美雪と共に究明し、妖星ゴラスがX星人の作り出した立体映像であることを暴く。
-    役名は、かつて[田中友幸](https://ja.wikipedia.org/wiki/田中友幸 "wikilink")が用いたペンネームに由来\[13\]。
+    役名は、かつて[田中友幸](../Page/田中友幸.md "wikilink")が用いたペンネームに由来\[13\]。
   - 熊坂
     地球防衛軍M機関でミュータント兵の訓練指導をする教官。自身はミュータントではないが、ほぼ互角の身体能力を持つ。尾崎たちをかばい、統制官に操られたミュータント部隊と戦う。戦いには勝つが、致命傷を負って倒れ、発進する轟天号を見届けながら高らかに笑い続けている。その後は生死不明\[14\]。
   - [小美人](../Page/小美人.md "wikilink")
@@ -134,7 +134,7 @@
   - 新・轟天号、旧・轟天号
 
   - エクレール
-    地球防衛軍の空中戦艦。[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で[カマキラス](https://ja.wikipedia.org/wiki/カマキラス "wikilink")と戦闘する。X星人による総攻撃の中、カマキラスとの再戦にて機体に取り付かれ敗北、撃墜される\[16\]。艦長は寡黙な白人女性だが、乗組員の多数は日本人である。
+    地球防衛軍の空中戦艦。[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")で[カマキラス](../Page/カマキラス.md "wikilink")と戦闘する。X星人による総攻撃の中、カマキラスとの再戦にて機体に取り付かれ敗北、撃墜される\[16\]。艦長は寡黙な白人女性だが、乗組員の多数は日本人である。
 
       - 全長：100メートル（艦首武器含む）、95メートル（艦首武器無し）
       - 全高：30メートル
@@ -145,7 +145,7 @@
           - 小型プラズマメーサービーム砲
 
   - 火龍（かりゅう）
-    地球防衛軍の空中戦艦。[上海で](../Page/上海市.md "wikilink")[アンギラス](https://ja.wikipedia.org/wiki/アンギラス "wikilink")と対決する。X星人による総攻撃の中、再戦でアンギラスの暴龍怪球烈弾によって撃墜される。李翔（リー・シャン）大佐を艦長とするが、乗組員の多数は日本人である。
+    地球防衛軍の空中戦艦。[上海で](../Page/上海市.md "wikilink")[アンギラス](../Page/アンギラス.md "wikilink")と対決する。X星人による総攻撃の中、再戦でアンギラスの暴龍怪球烈弾によって撃墜される。李翔（リー・シャン）大佐を艦長とするが、乗組員の多数は日本人である。
 
       - 全長：120メートル（艦首武器含む）、95メートル（艦首武器無し）
       - 全高：30メートル
@@ -174,12 +174,12 @@
       - 重量：30トン
       - 武装：エネルギー弾
   - EDF戦車
-    地球防衛軍の主力[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")。冒頭では、南極での[ゴジラ迎撃でメーサー車と共に陸上部隊として出動するが](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")、映像で映っているのはメーサー車共々ゴジラにより破壊された残骸だけである。本編では[東海](../Page/東海地方.md "wikilink")[コンビナート](../Page/コンビナート.md "wikilink")を襲撃した[エビラ](https://ja.wikipedia.org/wiki/エビラ "wikilink")に砲撃を加えたが、こちらもエビラにより甚大な被害を与えられ壊滅している。外見は[ルクレール](https://ja.wikipedia.org/wiki/ルクレール "wikilink")や[チョールヌイ・オリョール](../Page/チョールヌイ・オリョール.md "wikilink")に類似している。
+    地球防衛軍の主力[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")。冒頭では、南極での[ゴジラ迎撃でメーサー車と共に陸上部隊として出動するが](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")、映像で映っているのはメーサー車共々ゴジラにより破壊された残骸だけである。本編では[東海](../Page/東海地方.md "wikilink")[コンビナート](../Page/コンビナート.md "wikilink")を襲撃した[エビラ](../Page/エビラ.md "wikilink")に砲撃を加えたが、こちらもエビラにより甚大な被害を与えられ壊滅している。外見は[ルクレール](../Page/ルクレール.md "wikilink")や[チョールヌイ・オリョール](../Page/チョールヌイ・オリョール.md "wikilink")に類似している。
       - このEDF戦車のプロップは『[ゴジラ×メカゴジラ](../Page/ゴジラ×メカゴジラ.md "wikilink")』で使用された[90式戦車](../Page/90式戦車.md "wikilink")のプロップを改修した物であり、後に[2012年](../Page/2012年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")から[東京都現代美術館](../Page/東京都現代美術館.md "wikilink")で開催された企画展『館長 庵野秀明 特撮博物館 -ミニチュアで見る昭和平成の技-』に展示されたミニチュアステージにおいて、90式戦車のミニチュア等と共に[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")の戦車として使用されていた。
   - [90式メーサー殺獣光線車](https://ja.wikipedia.org/wiki/メーサー兵器#90式メーサー殺獣光線車 "wikilink")
     地球防衛軍のメーサー車。南極におけるゴジラ迎撃にEDF戦車と共に参加したが、劇中には破壊された残骸のみが登場している。『[ゴジラ×メカゴジラ](../Page/ゴジラ×メカゴジラ.md "wikilink")』と『[ゴジラ×モスラ×メカゴジラ 東京SOS](../Page/ゴジラ×モスラ×メカゴジラ_東京SOS.md "wikilink")』に登場した[特生自衛隊の車両との関連性は不明](https://ja.wikipedia.org/wiki/東宝特撮映画の怪獣対策組織#特生自衛隊 "wikilink")。
   - メーサーライフル
-    [M機関の](https://ja.wikipedia.org/wiki/東宝特撮映画の怪獣対策組織#地球防衛軍 "wikilink")[ミュータント](https://ja.wikipedia.org/wiki/ミュータント "wikilink")兵が、対[怪獣](../Page/怪獣.md "wikilink")戦で使用する[重火器](../Page/重火器.md "wikilink")。[銃身](https://ja.wikipedia.org/wiki/銃身 "wikilink")は、射撃の際に[ガトリング銃](https://ja.wikipedia.org/wiki/ガトリング銃 "wikilink")のように回転し、無数の光弾を発射する。一見、今までの[メーサー兵器](https://ja.wikipedia.org/wiki/メーサー兵器 "wikilink")と比べると小さくて頼りなく見えるが、その威力は一点に集中すれば、[エビラ](https://ja.wikipedia.org/wiki/エビラ "wikilink")の[殻](https://ja.wikipedia.org/wiki/殻 "wikilink")をも吹き飛ばすほどである。
+    [M機関の](https://ja.wikipedia.org/wiki/東宝特撮映画の怪獣対策組織#地球防衛軍 "wikilink")[ミュータント](https://ja.wikipedia.org/wiki/ミュータント "wikilink")兵が、対[怪獣](../Page/怪獣.md "wikilink")戦で使用する[重火器](../Page/重火器.md "wikilink")。[銃身](https://ja.wikipedia.org/wiki/銃身 "wikilink")は、射撃の際に[ガトリング銃](https://ja.wikipedia.org/wiki/ガトリング銃 "wikilink")のように回転し、無数の光弾を発射する。一見、今までの[メーサー兵器](https://ja.wikipedia.org/wiki/メーサー兵器 "wikilink")と比べると小さくて頼りなく見えるが、その威力は一点に集中すれば、[エビラ](../Page/エビラ.md "wikilink")の[殻](https://ja.wikipedia.org/wiki/殻 "wikilink")をも吹き飛ばすほどである。
     作中では尾崎と風間が使用し、集中砲火でエビラのハサミや目を粉砕する。
 
 ### X星人
@@ -250,27 +250,27 @@
   - 神宮寺八郎：[佐原健二](../Page/佐原健二.md "wikilink")
   - 熊坂教官：[船木誠勝](../Page/船木誠勝.md "wikilink")
   - [小美人](../Page/小美人.md "wikilink")：[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")、[大塚ちひろ](https://ja.wikipedia.org/wiki/大塚ちひろ "wikilink")
-  - 国木田少将：[四方堂亘](https://ja.wikipedia.org/wiki/四方堂亘 "wikilink")
+  - 国木田少将：[四方堂亘](../Page/四方堂亘.md "wikilink")
   - 田口健太：[須賀健太](https://ja.wikipedia.org/wiki/須賀健太 "wikilink")
   - 田口左門：[泉谷しげる](../Page/泉谷しげる.md "wikilink")
   - X星人司令官：[伊武雅刀](../Page/伊武雅刀.md "wikilink")
-  - 小室少佐：[國村隼](https://ja.wikipedia.org/wiki/國村隼 "wikilink")
+  - 小室少佐：[國村隼](../Page/國村隼.md "wikilink")
   - 初代轟天号艦長：[中尾彬](../Page/中尾彬.md "wikilink")
   - 初代轟天号副艦長：[上田耕一](../Page/上田耕一.md "wikilink")
   - 国連事務総長秘書官：[橋爪淳](../Page/橋爪淳.md "wikilink")
   - 火龍艦長李翔大佐：[高杉亘](../Page/高杉亘.md "wikilink")
   - エクレール副艦長：[榊英雄](../Page/榊英雄.md "wikilink")
   - TVレポーター：[羽鳥慎一](https://ja.wikipedia.org/wiki/羽鳥慎一 "wikilink")（[日本テレビアナウンサー](../Page/日本テレビ放送網.md "wikilink")）
-  - X（小橋賢児）：[小橋賢児](https://ja.wikipedia.org/wiki/小橋賢児 "wikilink")
-  - テレビ討論会パネラー：[マイケル富岡](https://ja.wikipedia.org/wiki/マイケル富岡 "wikilink")、[大槻義彦](../Page/大槻義彦.md "wikilink")、[韮澤潤一郎](../Page/韮澤潤一郎.md "wikilink")、[篠原ともえ](../Page/篠原ともえ.md "wikilink")、[角田信朗](https://ja.wikipedia.org/wiki/角田信朗 "wikilink")、[松尾貴史](../Page/松尾貴史.md "wikilink")、[木村大作](../Page/木村大作.md "wikilink")
+  - X（小橋賢児）：[小橋賢児](../Page/小橋賢児.md "wikilink")
+  - テレビ討論会パネラー：[マイケル富岡](../Page/マイケル富岡.md "wikilink")、[大槻義彦](../Page/大槻義彦.md "wikilink")、[韮澤潤一郎](../Page/韮澤潤一郎.md "wikilink")、[篠原ともえ](../Page/篠原ともえ.md "wikilink")、[角田信朗](../Page/角田信朗.md "wikilink")、[松尾貴史](../Page/松尾貴史.md "wikilink")、[木村大作](../Page/木村大作.md "wikilink")
   - 神父姿の男：[佐野史郎](../Page/佐野史郎.md "wikilink")
   - 東京の恋人たち：[谷原章介](../Page/谷原章介.md "wikilink")、[さとう珠緒](https://ja.wikipedia.org/wiki/さとう珠緒 "wikilink")
   - X星人：[魚谷佳苗](../Page/魚谷佳苗.md "wikilink")、[坂口拓](../Page/坂口拓.md "wikilink")、[北岡久貴](../Page/北岡龍貴.md "wikilink")、[上地雄輔](https://ja.wikipedia.org/wiki/上地雄輔 "wikilink") 他
-  - グレン：[レイ・セフォー](https://ja.wikipedia.org/wiki/レイ・セフォー "wikilink")（吹き替え：[仮屋昌伸](../Page/仮屋昌伸.md "wikilink")）
+  - グレン：[レイ・セフォー](../Page/レイ・セフォー.md "wikilink")（吹き替え：[仮屋昌伸](../Page/仮屋昌伸.md "wikilink")）
   - ニック：[ゲーリー・グッドリッジ](../Page/ゲーリー・グッドリッジ.md "wikilink")（吹き替え：[三宅健太](../Page/三宅健太.md "wikilink")）
-  - 懲罰房棟の警備兵：[田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")\[17\]
+  - 懲罰房棟の警備兵：[田中要次](../Page/田中要次.md "wikilink")\[17\]
   - ラジオDJ：[北村龍平](../Page/北村龍平.md "wikilink")
-  - [菊地由美](../Page/菊地由美.md "wikilink")、[鈴木信二](../Page/鈴木信二.md "wikilink")、[七海智哉](https://ja.wikipedia.org/wiki/七海智哉 "wikilink")、[竹内康博](../Page/竹内康博.md "wikilink")、[竹嶋康成](../Page/竹嶋康成.md "wikilink")、[春日井静奈](https://ja.wikipedia.org/wiki/春日井静奈 "wikilink")、[一戸奈未](https://ja.wikipedia.org/wiki/一戸奈未 "wikilink")、[尾崎右宗](https://ja.wikipedia.org/wiki/尾崎右宗 "wikilink")、[和田三四郎](../Page/和田三四郎.md "wikilink")、[橋爪遼](../Page/橋爪遼.md "wikilink")、[霧島れいか](../Page/霧島れいか.md "wikilink")、[マーク・大喜多](../Page/マーク・大喜多.md "wikilink")、[サミュエル・ポップ](https://ja.wikipedia.org/wiki/サミュエル・ポップ "wikilink")、[増島愛浩](https://ja.wikipedia.org/wiki/増島愛浩 "wikilink")、[稲山玄](https://ja.wikipedia.org/wiki/稲山玄 "wikilink")、[外川貴博](https://ja.wikipedia.org/wiki/外川貴博 "wikilink")、[地曳豪](https://ja.wikipedia.org/wiki/地曳豪 "wikilink")、宇賀神明広、[大久保運](https://ja.wikipedia.org/wiki/大久保運 "wikilink")、[松井茜](https://ja.wikipedia.org/wiki/松井茜 "wikilink")　ほか
+  - [菊地由美](../Page/菊地由美.md "wikilink")、[鈴木信二](../Page/鈴木信二.md "wikilink")、[七海智哉](https://ja.wikipedia.org/wiki/七海智哉 "wikilink")、[竹内康博](../Page/竹内康博.md "wikilink")、[竹嶋康成](../Page/竹嶋康成.md "wikilink")、[春日井静奈](../Page/春日井静奈.md "wikilink")、[一戸奈未](https://ja.wikipedia.org/wiki/一戸奈未 "wikilink")、[尾崎右宗](https://ja.wikipedia.org/wiki/尾崎右宗 "wikilink")、[和田三四郎](../Page/和田三四郎.md "wikilink")、[橋爪遼](../Page/橋爪遼.md "wikilink")、[霧島れいか](../Page/霧島れいか.md "wikilink")、[マーク・大喜多](../Page/マーク・大喜多.md "wikilink")、[サミュエル・ポップ](https://ja.wikipedia.org/wiki/サミュエル・ポップ "wikilink")、[増島愛浩](../Page/増島愛浩.md "wikilink")、[稲山玄](https://ja.wikipedia.org/wiki/稲山玄 "wikilink")、[外川貴博](https://ja.wikipedia.org/wiki/外川貴博 "wikilink")、[地曳豪](https://ja.wikipedia.org/wiki/地曳豪 "wikilink")、宇賀神明広、[大久保運](https://ja.wikipedia.org/wiki/大久保運 "wikilink")、[松井茜](https://ja.wikipedia.org/wiki/松井茜 "wikilink")　ほか
   - 醍醐直太郎：[宝田明](https://ja.wikipedia.org/wiki/宝田明 "wikilink")
   - ナレーション：[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")
 
@@ -279,7 +279,7 @@
   - ゴジラ：[喜多川務](https://ja.wikipedia.org/wiki/喜多川務 "wikilink")（[JAE](../Page/ジャパンアクションエンタープライズ.md "wikilink")）
   - ラドン、ミニラ：[神尾直子](../Page/神尾直子.md "wikilink")（JAE）
   - アンギラス、エビラ、カイザーギドラ：[小倉敏博](../Page/おぐらとしひろ.md "wikilink")（JAE）
-  - キングシーサー、モンスターX、カイザーギドラ：[中川素州](https://ja.wikipedia.org/wiki/中川素州 "wikilink")（JAE）
+  - キングシーサー、モンスターX、カイザーギドラ：[中川素州](../Page/中川素州.md "wikilink")（JAE）
   - ガイガン、ヘドラ：吉田和宏
 
 ## スタッフ
@@ -299,11 +299,11 @@
   - 助監督 - 斉藤博士
   - 製作担当者 - 金澤清美
   - タイトルデザイン - [Kyle Cooper](../Page/カイル・クーパー.md "wikilink")
-  - 音楽 - [Keith Emerson](https://ja.wikipedia.org/wiki/キース・エマーソン "wikilink")
+  - 音楽 - [Keith Emerson](../Page/キース・エマーソン.md "wikilink")
       - [森野宣彦](https://ja.wikipedia.org/wiki/森野宣彦 "wikilink")、矢野大介
-  - 挿入曲 - 「WE'RE ALL TO BLAME」 [Sum 41](https://ja.wikipedia.org/wiki/Sum_41 "wikilink") （ユニバーサル ミュージック）
+  - 挿入曲 - 「WE'RE ALL TO BLAME」 [Sum 41](../Page/Sum_41.md "wikilink") （ユニバーサル ミュージック）
   - ゴジラ・メインテーマ - [伊福部昭](../Page/伊福部昭.md "wikilink")
-  - サウンドエフェクト・デザイン - [佐々木英世](https://ja.wikipedia.org/wiki/佐々木英世 "wikilink")（[東洋音響](https://ja.wikipedia.org/wiki/東洋音響 "wikilink")）
+  - サウンドエフェクト・デザイン - [佐々木英世](https://ja.wikipedia.org/wiki/佐々木英世 "wikilink")（[東洋音響](../Page/東洋音響.md "wikilink")）
   - 装飾 - 秋田谷宣博
   - スクリプター - 飯塚美穂
   - アソシエイトプロデューサー - 鈴木律子
@@ -350,13 +350,13 @@
 ## その他
 
   - 本作のガイガンのガレージキットでは、ガイガンが「太古以来のモスラの宿敵」という設定に基づいてベースに複数の原始モスラ幼虫が造形されたものが存在する。
-  - オープニング・クレジットは歴代ゴジラの映像で構成されているが『[ゴジラ対メカゴジラ](https://ja.wikipedia.org/wiki/ゴジラ対メカゴジラ "wikilink")』の偽ゴジラのシーンも使われている。
+  - オープニング・クレジットは歴代ゴジラの映像で構成されているが『[ゴジラ対メカゴジラ](../Page/ゴジラ対メカゴジラ.md "wikilink")』の偽ゴジラのシーンも使われている。
   - 劇中では[佐藤勝](../Page/佐藤勝.md "wikilink")の過去の作品の曲も使用されているが、エンドクレジットに名前は載っていない。
-  - 本作のCDサウンドトラックには[キース・エマーソン](https://ja.wikipedia.org/wiki/キース・エマーソン "wikilink")がアレンジした「ゴジラのテーマ」「怪獣大戦争マーチ」（後半がL作戦マーチ）が収録されている。
+  - 本作のCDサウンドトラックには[キース・エマーソン](../Page/キース・エマーソン.md "wikilink")がアレンジした「ゴジラのテーマ」「怪獣大戦争マーチ」（後半がL作戦マーチ）が収録されている。
   - オープニングの東宝ロゴマークは『[キングコング対ゴジラ](../Page/キングコング対ゴジラ.md "wikilink")』の物を使用している\[18\]。
   - ゴジラ単体のイラストポスターは酒井ゆうじの雛形がモデルとなった。
-  - [キングシーサー](https://ja.wikipedia.org/wiki/キングシーサー "wikilink")が沖縄襲撃の際、現地住民が「どうされたんじゃシーサー様\!?」と発するシーンがあったが、本編ではカットされた。
-  - 当初登場怪獣には[メカゴジラ](../Page/メカゴジラ.md "wikilink")、[キングギドラ](../Page/キングギドラ.md "wikilink")（モンスターXがカイザーギドラに変身するのではなく、キングギドラそのもの）、[ゴロザウルス](https://ja.wikipedia.org/wiki/ゴロザウルス "wikilink")が含まれていた。
+  - [キングシーサー](../Page/キングシーサー.md "wikilink")が沖縄襲撃の際、現地住民が「どうされたんじゃシーサー様\!?」と発するシーンがあったが、本編ではカットされた。
+  - 当初登場怪獣には[メカゴジラ](../Page/メカゴジラ.md "wikilink")、[キングギドラ](../Page/キングギドラ.md "wikilink")（モンスターXがカイザーギドラに変身するのではなく、キングギドラそのもの）、[ゴロザウルス](../Page/ゴロザウルス.md "wikilink")が含まれていた。
   - 劇中でX星人の登場により行われたテレビ討論会に、現実でも普段『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")年末SP』などで宇宙人を始めとした超常現象の存在について激論を交わしている、[早稲田大学](../Page/早稲田大学.md "wikilink")教授[大槻義彦](../Page/大槻義彦.md "wikilink")と[たま出版](https://ja.wikipedia.org/wiki/たま出版 "wikilink")の[韮澤潤一郎](../Page/韮澤潤一郎.md "wikilink")が出演している（また、同じ討論番組に出演している[松尾貴史](../Page/松尾貴史.md "wikilink")は[Japan Skepticsの会員であるため](../Page/Japan_Skeptics.md "wikilink")、大槻が「あなたは超常現象否定派だったはずだ」と言っている）。大槻はX星人の存在を否定していたが、現実にX星人を目の当たりにしている以上どうも分が悪く、他の（X星人肯定派の）ゲスト達に討論で打ち負かされている。この場面に関し、北村龍平はDVDのオーディオコメンタリで「（韮沢と大槻が）洒落の分かる人で良かった」と述べている。実際には、大槻義彦が否定的な見解を持っているのはあくまで[エイリアンクラフトで](../Page/未確認飛行物体.md "wikilink")、[宇宙人](../Page/宇宙人.md "wikilink")の存在自体は科学者なら当たり前に支持する、と考えており、作中のテレビ討論は実際に大槻が主張しているものとは多少異なる。また、大槻の作中での主張はX星人の態度が怪しいというものだった。
   - 長年ゴジラ映画の海上・ラストシーン等に使われてきた東宝大プールは老朽化によって、本作の撮影をもって取り壊しが決定し、エンドロールのゴジラとミニラが海に帰っていく場面を最後に幕を下ろした。よって本作が東宝大プールでの撮影が行われた最後の映画作品となった。
 

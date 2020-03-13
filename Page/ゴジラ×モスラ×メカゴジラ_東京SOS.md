@@ -7,9 +7,9 @@
 
 第3期ゴジラシリーズ（ミレニアムシリーズ）の第5作である本作は、前年に公開された『[ゴジラ×メカゴジラ](../Page/ゴジラ×メカゴジラ.md "wikilink")』の好評を受けて製作された、同作の直接の続編である\[1\]\[2\]。制作の[富山省吾](../Page/富山省吾.md "wikilink")は、製作報告会見で本作を新世紀のゴジラシリーズのゴールと位置づけていた\[3\]。
 
-前作で主人公を演じた[釈由美子](https://ja.wikipedia.org/wiki/釈由美子 "wikilink")も少し登場するが、本作の主人公は[金子昇](../Page/金子昇.md "wikilink")が演じる[3式機龍の](https://ja.wikipedia.org/wiki/メカゴジラ#ミレニアムシリーズのメカゴジラ（3式機龍） "wikilink")[整備士](https://ja.wikipedia.org/wiki/整備士 "wikilink")となる。また、金子は『[百獣戦隊ガオレンジャー 火の山、吼える](../Page/劇場版_百獣戦隊ガオレンジャー_火の山、吼える.md "wikilink")』でも主演しているが、これは上映時間が短いため、長編映画としては本作が初である\[4\]。
+前作で主人公を演じた[釈由美子](https://ja.wikipedia.org/wiki/釈由美子 "wikilink")も少し登場するが、本作の主人公は[金子昇](../Page/金子昇.md "wikilink")が演じる[3式機龍の](https://ja.wikipedia.org/wiki/メカゴジラ#ミレニアムシリーズのメカゴジラ（3式機龍） "wikilink")[整備士](../Page/整備士.md "wikilink")となる。また、金子は『[百獣戦隊ガオレンジャー 火の山、吼える](../Page/劇場版_百獣戦隊ガオレンジャー_火の山、吼える.md "wikilink")』でも主演しているが、これは上映時間が短いため、長編映画としては本作が初である\[4\]。
 
-前作に引き続き、[自衛隊](../Page/自衛隊.md "wikilink")の全面協力が行われており、主演の金子昇も整備士の役作りのため[航空自衛隊](../Page/航空自衛隊.md "wikilink")に体験入隊をしている。[C-1輸送機の整備作業に参加させてもらい](https://ja.wikipedia.org/wiki/C-1_\(輸送機\) "wikilink")、そこで整備士として必要な[敬礼](../Page/敬礼.md "wikilink")の仕方や[工具](../Page/工具.md "wikilink")の使い方を教わったうえに、「どうして整備士になったのか？」という経験を聞かせてもらい、外面だけでなく内面でも整備士らしく演じることができている。\[5\]
+前作に引き続き、[自衛隊](../Page/自衛隊.md "wikilink")の全面協力が行われており、主演の金子昇も整備士の役作りのため[航空自衛隊](../Page/航空自衛隊.md "wikilink")に体験入隊をしている。[C-1輸送機の整備作業に参加させてもらい](../Page/C-1_\(輸送機\).md "wikilink")、そこで整備士として必要な[敬礼](../Page/敬礼.md "wikilink")の仕方や[工具](../Page/工具.md "wikilink")の使い方を教わったうえに、「どうして整備士になったのか？」という経験を聞かせてもらい、外面だけでなく内面でも整備士らしく演じることができている。\[5\]
 
 前作でも作中で語られたように1961年の映画『[モスラ](../Page/モスラ.md "wikilink")』と直接つながった世界であり、共通人物として[小泉博](../Page/小泉博.md "wikilink")が同じ中條信一役で出演している。[モスラが卵](../Page/モスラ_\(架空の怪獣\).md "wikilink")、幼虫、成虫でそれぞれ登場した。モスラの登場は配給側からの要請によるもので\[6\]、メカゴジラとモスラは共に「ゴジラシリーズ」での再登場の多い怪獣だが、本作で初共演となる。ストーリー上は『[モスラ対ゴジラ](../Page/モスラ対ゴジラ.md "wikilink")』のオマージュも散見される\[7\]。
 
@@ -17,7 +17,7 @@
 
 モスラの[小美人](../Page/小美人.md "wikilink")はこれまでの作品と異なり、箱や籠に入って人間に運ばれる等の物理的な移動はせず、どこからともなく現れては消えるといったより妖精らしく神秘的な演出がされている。双子であるがそれぞれに名前もあり、衣装は昭和の小美人に近い南方風のものとなっている（ただしセパレート）。小美人を演じる[大塚ちひろ](https://ja.wikipedia.org/wiki/大塚ちひろ "wikilink")と[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")はどちらも[東宝シンデレラ](https://ja.wikipedia.org/wiki/東宝シンデレラ "wikilink")出身である。
 
-特撮パートでは、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")と[国会議事堂](https://ja.wikipedia.org/wiki/国会議事堂 "wikilink")の破壊シーンが大きな見せ場として用意された\[8\]。タワーは1961年の『モスラ』を、議事堂は1954年の『[ゴジラ](../Page/ゴジラ_\(1954年の映画\).md "wikilink")』を、それぞれ踏襲した選定である。ゴジラが東京タワーを破壊したのは今作が初となる。富山によると、日本を代表する建物の国会議事堂と東京タワーがゴジラのゴールとして壊すのにふさわしいとして選ばれた\[9\]。
+特撮パートでは、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")と[国会議事堂](../Page/国会議事堂.md "wikilink")の破壊シーンが大きな見せ場として用意された\[8\]。タワーは1961年の『モスラ』を、議事堂は1954年の『[ゴジラ](../Page/ゴジラ_\(1954年の映画\).md "wikilink")』を、それぞれ踏襲した選定である。ゴジラが東京タワーを破壊したのは今作が初となる。富山によると、日本を代表する建物の国会議事堂と東京タワーがゴジラのゴールとして壊すのにふさわしいとして選ばれた\[9\]。
 
 ## ストーリー
 
@@ -27,7 +27,7 @@
 
 信一が旧友でもある五十嵐隼人首相に直接、この件を請願に行ったことから、事態は問題化することになる。政府にとって機龍はゴジラ対策の要であり、モスラは先般日本を襲撃した敵にほかならないからだ。政府はこの請願を拒否し、先の対ゴジラ戦で大きく損傷した機龍の整備を急がせる。
 
-ゴジラの脅威は再び日本に迫りつつあった。[九十九里浜](../Page/九十九里浜.md "wikilink")ではゴジラに襲われたと推測される巨大生物[カメーバ](https://ja.wikipedia.org/wiki/カメーバ "wikilink")の死体が打ち上げられ、グアム島沖ではアメリカの原子力潜水艦がゴジラに襲撃される。政府は1年前に対ゴジラ戦で破壊し尽され、再開発途中の[品川地区で迎撃することを決定する](https://ja.wikipedia.org/wiki/品川_\(東京都\) "wikilink")。
+ゴジラの脅威は再び日本に迫りつつあった。[九十九里浜](../Page/九十九里浜.md "wikilink")ではゴジラに襲われたと推測される巨大生物[カメーバ](../Page/カメーバ.md "wikilink")の死体が打ち上げられ、グアム島沖ではアメリカの原子力潜水艦がゴジラに襲撃される。政府は1年前に対ゴジラ戦で破壊し尽され、再開発途中の[品川地区で迎撃することを決定する](../Page/品川_\(東京都\).md "wikilink")。
 
 そしてついにゴジラが東京に上陸する。その進路上には機龍の設けられている八王子駐屯地がある。一方、信一の孫・瞬はモスラを呼び寄せるため、学校の校庭に机を持ち出してインファントの紋章を描く。ゴジラが品川埠頭の防衛ラインを突破したその時、どこからともなくモスラが飛来、ゴジラと激突する。
 
@@ -51,7 +51,7 @@
 
   - [3式機龍](https://ja.wikipedia.org/wiki/メカゴジラ#ミレニアムシリーズのメカゴジラ（3式機龍） "wikilink")
     前作の3式絶対零度砲（アブソリュート・ゼロ）が破損したため、右腕に4式対獣掘削装置（スパイラル・クロウ）と胸部に4式3連装ハイパーメーサー砲が新たに装備される。
-  - [カメーバ](https://ja.wikipedia.org/wiki/カメーバ "wikilink")
+  - [カメーバ](../Page/カメーバ.md "wikilink")
     [九十九里浜](../Page/九十九里浜.md "wikilink")に打ち上げられた死体として登場。
 
 ## 登場人物
@@ -127,7 +127,7 @@
 <!-- end list -->
 
   - [イージス](../Page/イージスシステム.md "wikilink")[護衛艦](../Page/護衛艦.md "wikilink")「[あいづ](https://ja.wikipedia.org/wiki/ゴジラ・モスラ・キングギドラ_大怪獣総攻撃#登場メカニック "wikilink")」
-    艦番号DD-147。太平洋上にて、日本へと向かうゴジラを迎撃する。『[ゴジラ・モスラ・キングギドラ 大怪獣総攻撃](https://ja.wikipedia.org/wiki/ゴジラ・モスラ・キングギドラ_大怪獣総攻撃 "wikilink")』に登場した[巡洋艦](../Page/巡洋艦.md "wikilink")「あいづ」の[プロップ](../Page/プロップ.md "wikilink")（撮影用の[ミニチュア](https://ja.wikipedia.org/wiki/ミニチュア "wikilink")）を改装したものである。
+    艦番号DD-147。太平洋上にて、日本へと向かうゴジラを迎撃する。『[ゴジラ・モスラ・キングギドラ 大怪獣総攻撃](../Page/ゴジラ・モスラ・キングギドラ_大怪獣総攻撃.md "wikilink")』に登場した[巡洋艦](../Page/巡洋艦.md "wikilink")「あいづ」の[プロップ](../Page/プロップ.md "wikilink")（撮影用の[ミニチュア](https://ja.wikipedia.org/wiki/ミニチュア "wikilink")）を改装したものである。
   - 原子力潜水艦
     アメリカ海軍の原子力潜水艦。艦名は不明。[グアム島](https://ja.wikipedia.org/wiki/グアム島 "wikilink")沖でゴジラの襲撃を受けて撃沈される。プロップは『[ゴジラ](../Page/ゴジラ_\(1984年の映画\).md "wikilink")』でソ連原潜、『[ゴジラvsキングギドラ](../Page/ゴジラvsキングギドラ.md "wikilink")』で「むさし2号」として使用されたもの。
   - 監視衛星
@@ -140,16 +140,16 @@
 <!-- end list -->
 
   - [90式戦車](../Page/90式戦車.md "wikilink")
-  - [96式装輪装甲車](https://ja.wikipedia.org/wiki/96式装輪装甲車 "wikilink")
-  - [89式装甲戦闘車](https://ja.wikipedia.org/wiki/89式装甲戦闘車 "wikilink")
+  - [96式装輪装甲車](../Page/96式装輪装甲車.md "wikilink")
+  - [89式装甲戦闘車](../Page/89式装甲戦闘車.md "wikilink")
   - [87式偵察警戒車](../Page/87式偵察警戒車.md "wikilink")
-  - [82式指揮通信車](https://ja.wikipedia.org/wiki/82式指揮通信車 "wikilink")
-  - [73式大型トラック](https://ja.wikipedia.org/wiki/73式大型トラック "wikilink")
-  - [73式中型トラック](https://ja.wikipedia.org/wiki/73式中型トラック "wikilink")
-  - [73式小型トラック](https://ja.wikipedia.org/wiki/73式小型トラック "wikilink")
+  - [82式指揮通信車](../Page/82式指揮通信車.md "wikilink")
+  - [73式大型トラック](../Page/73式大型トラック.md "wikilink")
+  - [73式中型トラック](../Page/73式中型トラック.md "wikilink")
+  - [73式小型トラック](../Page/73式小型トラック.md "wikilink")
   - [1/4tトラック](../Page/三菱・ジープ.md "wikilink")
   - [軽装甲機動車](../Page/軽装甲機動車.md "wikilink")
-  - [高機動車](https://ja.wikipedia.org/wiki/高機動車 "wikilink")
+  - [高機動車](../Page/高機動車.md "wikilink")
   - [偵察用オートバイ](https://ja.wikipedia.org/wiki/偵察用オートバイ "wikilink")
   - [1 1/2t救急車](../Page/1トン半救急車.md "wikilink")
   - [88式地対艦誘導弾](../Page/88式地対艦誘導弾.md "wikilink")（SSM-1）
@@ -157,10 +157,10 @@
   - [はつゆき型護衛艦](../Page/はつゆき型護衛艦.md "wikilink")「[さわゆき](../Page/さわゆき_\(護衛艦\).md "wikilink")」
   - [F-15J](https://ja.wikipedia.org/wiki/F-15J_\(航空機\) "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")
   - [F-1](../Page/F-1_\(航空機\).md "wikilink")[支援戦闘機](../Page/支援戦闘機.md "wikilink")（模型）
-  - [P-3C](https://ja.wikipedia.org/wiki/P-3_\(航空機\) "wikilink")[対潜哨戒機](https://ja.wikipedia.org/wiki/対潜哨戒機#地上配備固定翼哨戒機 "wikilink")
+  - [P-3C](../Page/P-3_\(航空機\).md "wikilink")[対潜哨戒機](https://ja.wikipedia.org/wiki/対潜哨戒機#地上配備固定翼哨戒機 "wikilink")
   - [AH-1S](https://ja.wikipedia.org/wiki/AH-1#日本 "wikilink")[対戦車ヘリコプター](../Page/攻撃ヘリコプター.md "wikilink")
   - [89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")
-  - [64式7.62mm小銃](https://ja.wikipedia.org/wiki/64式7.62mm小銃 "wikilink")
+  - [64式7.62mm小銃](../Page/64式7.62mm小銃.md "wikilink")
   - [敷設機雷](https://ja.wikipedia.org/wiki/機雷 "wikilink")
 
 <!-- end list -->
@@ -180,12 +180,12 @@
   - [小美人](../Page/小美人.md "wikilink")：[大塚ちひろ](https://ja.wikipedia.org/wiki/大塚ちひろ "wikilink")（ヒオ）・[長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")（マナ）
   - 中條瞬：[大森樹](https://ja.wikipedia.org/wiki/大森樹 "wikilink")
   - 関根健二：[水野純一](../Page/水野純一.md "wikilink")
-  - 葉山進：[友井雄亮](https://ja.wikipedia.org/wiki/友井雄亮 "wikilink")
+  - 葉山進：[友井雄亮](../Page/友井雄亮.md "wikilink")
   - 富樫隊長：[高杉亘](../Page/高杉亘.md "wikilink")
   - 二階堂隊員：[升毅](../Page/升毅.md "wikilink")
   - 防衛庁内局部員：[山田辰夫](../Page/山田辰夫.md "wikilink")
-  - ワイドショーのコメンテーター（機龍擁護派）：[飯星景子](https://ja.wikipedia.org/wiki/飯星景子 "wikilink")
-  - ワイドショーのコメンテーター（機龍反対派）：[峰岸徹](https://ja.wikipedia.org/wiki/峰岸徹 "wikilink")
+  - ワイドショーのコメンテーター（機龍擁護派）：[飯星景子](../Page/飯星景子.md "wikilink")
+  - ワイドショーのコメンテーター（機龍反対派）：[峰岸徹](../Page/峰岸徹.md "wikilink")
   - 報道ヘリのカメラマン：[林田河童](https://ja.wikipedia.org/wiki/林田河童 "wikilink")
   - 自衛隊員：[小池章之](https://ja.wikipedia.org/wiki/小池章之 "wikilink")
   - 護衛艦艦長：[宮脇敏基](https://ja.wikipedia.org/wiki/宮脇敏基 "wikilink")
@@ -235,8 +235,8 @@
   - 機龍隊員：[鴛田祐次](https://ja.wikipedia.org/wiki/鴛田祐次 "wikilink")
   - 整備士：[矢研田龍也](https://ja.wikipedia.org/wiki/矢研田龍也 "wikilink")、[川口広太](https://ja.wikipedia.org/wiki/川口広太 "wikilink")
   - 機龍隊員：[小田篤](https://ja.wikipedia.org/wiki/小田篤 "wikilink")
-  - 神崎班長：[益岡徹](https://ja.wikipedia.org/wiki/益岡徹 "wikilink")
-  - 菅野吾郎：[六平直政](https://ja.wikipedia.org/wiki/六平直政 "wikilink")
+  - 神崎班長：[益岡徹](../Page/益岡徹.md "wikilink")
+  - 菅野吾郎：[六平直政](../Page/六平直政.md "wikilink")
   - 秋葉功：[清水紘治](../Page/清水紘治.md "wikilink")
   - 土橋長官：[上田耕一](../Page/上田耕一.md "wikilink")
   - 家城茜：[釈由美子](https://ja.wikipedia.org/wiki/釈由美子 "wikilink")
@@ -245,10 +245,10 @@
   - 中條信一：[小泉博](../Page/小泉博.md "wikilink")
   - ワイドショーの司会：[朝岡聡](../Page/朝岡聡.md "wikilink")
   - 報道ヘリのレポーター：[彦麻呂](https://ja.wikipedia.org/wiki/彦麻呂 "wikilink")
-  - リポーター：[阿部祐二](../Page/阿部祐二.md "wikilink")（横須賀）、[倉敷保雄](https://ja.wikipedia.org/wiki/倉敷保雄 "wikilink")（九十九里海岸）
+  - リポーター：[阿部祐二](../Page/阿部祐二.md "wikilink")（横須賀）、[倉敷保雄](../Page/倉敷保雄.md "wikilink")（九十九里海岸）
   - [放映プロジェクト](https://ja.wikipedia.org/wiki/放映プロジェクト "wikilink")
   - [稲川素子事務所](../Page/稲川素子事務所.md "wikilink")
-  - [劇団青年座](https://ja.wikipedia.org/wiki/劇団青年座 "wikilink")
+  - [劇団青年座](../Page/劇団青年座.md "wikilink")
   - [アーツビジョン](../Page/アーツビジョン.md "wikilink")
   - [山本寿夫](https://ja.wikipedia.org/wiki/山本寿夫 "wikilink")
   - ゴジラサポーターのみなさん
@@ -260,15 +260,15 @@
 <!-- end list -->
 
   - ゴジラ：[喜多川務](https://ja.wikipedia.org/wiki/喜多川務 "wikilink")
-  - メカゴジラ：[中川素州](https://ja.wikipedia.org/wiki/中川素州 "wikilink")
+  - メカゴジラ：[中川素州](../Page/中川素州.md "wikilink")
 
 ## スタッフ
 
-  - 監督：[手塚昌明](https://ja.wikipedia.org/wiki/手塚昌明 "wikilink")
+  - 監督：[手塚昌明](../Page/手塚昌明.md "wikilink")
   - 製作：[富山省吾](../Page/富山省吾.md "wikilink")
   - プロデューサー：山中和成
   - 脚本：[横谷昌宏](../Page/横谷昌宏.md "wikilink")、手塚昌明
-  - 音楽：[大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
+  - 音楽：[大島ミチル](../Page/大島ミチル.md "wikilink")
   - 演奏：[新日本フィルハーモニー交響楽団](../Page/新日本フィルハーモニー交響楽団.md "wikilink")
   - 撮影：[関口芳則](https://ja.wikipedia.org/wiki/関口芳則 "wikilink")
   - 照明：[望月英樹](https://ja.wikipedia.org/wiki/望月英樹 "wikilink")
@@ -291,7 +291,7 @@
   - 特殊美術：[三池敏夫](https://ja.wikipedia.org/wiki/三池敏夫 "wikilink")
   - 照明：[斉藤薫](https://ja.wikipedia.org/wiki/斉藤薫_\(照明技師\) "wikilink")
   - 造形：[若狭新一](https://ja.wikipedia.org/wiki/若狭新一 "wikilink")
-  - デザインワーク：[西川伸司](https://ja.wikipedia.org/wiki/西川伸司 "wikilink")
+  - デザインワーク：[西川伸司](../Page/西川伸司.md "wikilink")
   - 特殊効果：[久米攻](https://ja.wikipedia.org/wiki/久米攻 "wikilink")
   - 操演：[鳴海聡](https://ja.wikipedia.org/wiki/鳴海聡 "wikilink")
   - 助監督：加藤晃
@@ -315,7 +315,7 @@
 ## 挿入歌
 
   - 「[モスラの歌](https://ja.wikipedia.org/wiki/モスラの歌 "wikilink")」
-    作詞：[田中友幸](https://ja.wikipedia.org/wiki/田中友幸 "wikilink")、[関沢新一](../Page/関沢新一.md "wikilink")、[本多猪四郎](../Page/本多猪四郎.md "wikilink")／作曲：[古関裕而](../Page/古関裕而.md "wikilink")／編曲：大島ミチル／歌：長澤まさみ、大塚ちひろ
+    作詞：[田中友幸](../Page/田中友幸.md "wikilink")、[関沢新一](../Page/関沢新一.md "wikilink")、[本多猪四郎](../Page/本多猪四郎.md "wikilink")／作曲：[古関裕而](../Page/古関裕而.md "wikilink")／編曲：大島ミチル／歌：長澤まさみ、大塚ちひろ
 
 ## 映像ソフト化
 
@@ -327,13 +327,13 @@
 
 ## その他
 
-  - ラストのDNA保管庫のシーンはゴジラとカメーバのネームプレートのみ確認できるが、実際は[バラン](https://ja.wikipedia.org/wiki/大怪獣バラン "wikilink")、[サンダ](https://ja.wikipedia.org/wiki/サンダ "wikilink")、[ガイラ](https://ja.wikipedia.org/wiki/ガイラ "wikilink")、[ガニメ](https://ja.wikipedia.org/wiki/ゲゾラ・ガニメ・カメーバ_決戦!南海の大怪獣#大蟹怪獣_ガニメ "wikilink")、[エビラ](https://ja.wikipedia.org/wiki/エビラ "wikilink")、テズーカ、フターミのネームプレートも作成されている。
-  - 当初、海岸に打ち上げられた死骸は[首長竜](https://ja.wikipedia.org/wiki/首長竜 "wikilink")（[リオプレウロドン](../Page/リオプレウロドン.md "wikilink")）の予定だったが、リオプレウロドン→[アンギラス](https://ja.wikipedia.org/wiki/アンギラス "wikilink")→カメーバという経緯で変更された。
+  - ラストのDNA保管庫のシーンはゴジラとカメーバのネームプレートのみ確認できるが、実際は[バラン](../Page/大怪獣バラン.md "wikilink")、[サンダ](../Page/サンダ.md "wikilink")、[ガイラ](../Page/ガイラ.md "wikilink")、[ガニメ](https://ja.wikipedia.org/wiki/ゲゾラ・ガニメ・カメーバ_決戦!南海の大怪獣#大蟹怪獣_ガニメ "wikilink")、[エビラ](../Page/エビラ.md "wikilink")、テズーカ、フターミのネームプレートも作成されている。
+  - 当初、海岸に打ち上げられた死骸は[首長竜](../Page/首長竜.md "wikilink")（[リオプレウロドン](../Page/リオプレウロドン.md "wikilink")）の予定だったが、リオプレウロドン→[アンギラス](../Page/アンギラス.md "wikilink")→カメーバという経緯で変更された。
   - モスラの幼虫の双子は設定上、雄と雌であり、現場ではそれぞれ「太郎」「花子」と呼ばれていた（なお、『[おはスタ](../Page/おはスタ.md "wikilink")』で募集した名前では「モス」と「ララ」であった）。
   - 公開と同時期に放送していた『[超星神グランセイザー](https://ja.wikipedia.org/wiki/超星神グランセイザー "wikilink")』にも[小泉博](../Page/小泉博.md "wikilink")が中條役で特別出演した。
   - 前作に登場した機龍開発者・湯原の自宅リビングに飾られていた[ドン・キホーテ](../Page/ドン・キホーテ.md "wikilink")とサンチョ・パンサらしきオブジェと同じものが主人公、中條義人の伯父、中條信一の自宅リビングにも飾られている。
   - 監督の手塚昌明のカメオ出演は、これまでの作品と同様にエンドクレジット後のシーンである。また、プロデューサーの富山省吾も避難民としてカメオ出演している。
-  - [エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")には漫画家の[矢吹健太朗](../Page/矢吹健太朗.md "wikilink")も参加している\[10\]。
+  - [エキストラ](../Page/エキストラ.md "wikilink")には漫画家の[矢吹健太朗](../Page/矢吹健太朗.md "wikilink")も参加している\[10\]。
 
 ## 脚注
 

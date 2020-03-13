@@ -44,10 +44,10 @@
   - [ダイバージョナルセラピー](https://ja.wikipedia.org/wiki/ダイバージョナルセラピー "wikilink") (**D**iversional **T**herapy)
   - [ドナルド・トランプ](https://ja.wikipedia.org/wiki/ドナルド・トランプ "wikilink") (**D**onald **T**rump) 第45代[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")。
   - [ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink") (**D**own **T**own) [吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。
-  - [ドリーム・シアター](https://ja.wikipedia.org/wiki/ドリーム・シアター "wikilink") (**D**ream **T**heater) - アメリカの[プログレッシブ・メタル](../Page/プログレッシブ・メタル.md "wikilink")バンド。
+  - [ドリーム・シアター](../Page/ドリーム・シアター.md "wikilink") (**D**ream **T**heater) - アメリカの[プログレッシブ・メタル](../Page/プログレッシブ・メタル.md "wikilink")バンド。
   - [ドライブインシアター](../Page/ドライブインシアター.md "wikilink") (**D**rive-in **T**heater)
   - デュエルターミナル (**D**uel **T**erminal) - [遊☆戯☆王ゼアル デュエルターミナルの略](https://ja.wikipedia.org/wiki/遊☆戯☆王ゼアル_デュエルターミナル "wikilink")。
-  - [DT Lords of Genomes](../Page/DT_Lords_of_Genomes.md "wikilink")、[DTエイトロン](https://ja.wikipedia.org/wiki/DTエイトロン "wikilink")、[DTヴァンパイア](https://ja.wikipedia.org/wiki/DTヴァンパイア "wikilink")の略称、およびそれらに登場する単語の名称。
+  - [DT Lords of Genomes](../Page/DT_Lords_of_Genomes.md "wikilink")、[DTエイトロン](../Page/DTエイトロン.md "wikilink")、[DTヴァンパイア](https://ja.wikipedia.org/wiki/DTヴァンパイア "wikilink")の略称、およびそれらに登場する単語の名称。
   - [デロイト・トーマツ](https://ja.wikipedia.org/wiki/デロイト・トーマツ "wikilink")－[有限責任監査法人トーマツ](../Page/有限責任監査法人トーマツ.md "wikilink")及びそのグループ組織([デロイト・トーマツリスクサービス](https://ja.wikipedia.org/wiki/デロイト・トーマツリスクサービス "wikilink")等)
 
 <!-- end list -->
@@ -61,7 +61,7 @@
 
 ## Dt.
 
-  - [Dt.](../Page/Dt..md "wikilink") - 日本の[ミクスチャーロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
+  - [Dt.](../Page/Dt..md "wikilink") - 日本の[ミクスチャーロック](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## 脚注
 

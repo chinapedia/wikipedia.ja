@@ -15,7 +15,7 @@
 
 主要襲撃地点は東京（渋谷、お台場）。
 
-本作が監督デビュー作となる[手塚昌明](https://ja.wikipedia.org/wiki/手塚昌明 "wikilink")は、監督を引き受ける条件として「女性を主人公とすること」と「超兵器を出すこと」を挙げたという\[2\]。
+本作が監督デビュー作となる[手塚昌明](../Page/手塚昌明.md "wikilink")は、監督を引き受ける条件として「女性を主人公とすること」と「超兵器を出すこと」を挙げたという\[2\]。
 
 フルCGで描写された泳ぐゴジラやメガニューラの大群など[3DCGやデジタル合成が多用され](https://ja.wikipedia.org/wiki/3次元コンピューターグラフィックス "wikilink")、合成カット数は548カットに及んだ\[3\]。
 
@@ -27,14 +27,14 @@
 
 [2001年](../Page/2001年.md "wikilink")、Gグラスパーの隊長となった桐子により[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")でスカウトされた[マイクロマシン](../Page/マイクロマシン.md "wikilink")の天才・工藤元と物理学者の吉沢佳乃により対ゴジラ兵器として開発されたディメンション・タイド（[ブラックホール砲](../Page/ブラックホール砲.md "wikilink")）の試射によって時空の亀裂が発生、そこから太古の巨大昆虫メガニューラが現れ、卵を産み落としていく。
 
-巨大昆虫の卵からかえったメガヌロンが人間を襲い、さらにはメガヌロンにより渋谷の地下水脈が崩壊し水没してしまう。無数のメガヌロンは羽化して成虫メガニューラになると、群れをなして奇岩島でゴジラに襲いかかった。メガニューラの群れはゴジラとの戦い、さらにディメンション・タイドにより壊滅するが、生き残りは水没した[渋谷](../Page/渋谷.md "wikilink")に舞い戻り、水底で眠る巨大な[メガギラス](https://ja.wikipedia.org/wiki/メガギラス "wikilink")にエネルギーを与える。羽化したメガギラスは周囲を破壊すると姿を消す。
+巨大昆虫の卵からかえったメガヌロンが人間を襲い、さらにはメガヌロンにより渋谷の地下水脈が崩壊し水没してしまう。無数のメガヌロンは羽化して成虫メガニューラになると、群れをなして奇岩島でゴジラに襲いかかった。メガニューラの群れはゴジラとの戦い、さらにディメンション・タイドにより壊滅するが、生き残りは水没した[渋谷](../Page/渋谷.md "wikilink")に舞い戻り、水底で眠る巨大な[メガギラス](../Page/メガギラス.md "wikilink")にエネルギーを与える。羽化したメガギラスは周囲を破壊すると姿を消す。
 
 ゴジラは[お台場](../Page/お台場.md "wikilink")に上陸するが、その前にメガギラスが飛来。G対策本部はディメンション・タイドにより両者の消滅を図るが、メガギラスの超高周波によりディメンション・タイドが故障してしまう。ディメンション・タイドの必死の復旧作業が続く中、死闘を繰り広げるゴジラとメガギラス。果たして人類はゴジラを倒せるのだろうか。
 
 ## 登場怪獣
 
   - [ゴジラ](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\)#『ゴジラ×メガギラス_G消滅作戦』 "wikilink")
-  - [メガギラス](https://ja.wikipedia.org/wiki/メガギラス "wikilink")
+  - [メガギラス](../Page/メガギラス.md "wikilink")
   - [メガヌロン](https://ja.wikipedia.org/wiki/メガギラス#『ゴジラ×メガギラス』のメガヌロン "wikilink")
   - [メガニューラ](https://ja.wikipedia.org/wiki/メガギラス#メガニューラ "wikilink")
 
@@ -48,7 +48,7 @@
   - 新倉 誠
     Gグラスパーの広報官。特G対の窓口として外部との接触を取り仕切る。階級は[准尉](https://ja.wikipedia.org/wiki/准士官#自衛隊 "wikilink")。32歳。仲間内では人当たりが良く、報道陣にも国民を案じた催促を投げかけるなど基本的には良心的な人物である。
   - 美馬 和男
-    Gグラスパーのオペレーター。[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")の元潜水艦[ソナー](../Page/ソナー.md "wikilink")担当で、無精髭と乱れた髪形が印象的な情報収集のプロ。階級は[1曹](https://ja.wikipedia.org/wiki/下士官#自衛隊 "wikilink")。30歳。ディメンション・タイドの発射管制も担当する。
+    Gグラスパーのオペレーター。[海上自衛隊](../Page/海上自衛隊.md "wikilink")の元潜水艦[ソナー](../Page/ソナー.md "wikilink")担当で、無精髭と乱れた髪形が印象的な情報収集のプロ。階級は[1曹](https://ja.wikipedia.org/wiki/下士官#自衛隊 "wikilink")。30歳。ディメンション・タイドの発射管制も担当する。
     工藤に対しては余り快く思っていなかったのか、中盤までやや素っ気なく接するが、渋谷へのディメンション・タイド発射時には発射を志願する工藤に後事を託し、作戦成功後には共に喜び合うほど打ち解けている。
   - 早坂 淳
     小学生の少年。山梨県白州からの引越し前に偶然ディメンション・タイドの実験を目撃し、後に時空の歪みから出現したメガヌロンの卵を拾い持ち帰るが、その不気味さに恐怖を感じ、引越し先の排水溝に捨てたことで渋谷水没のきっかけを作ってしまう。そのことを隠さずに桐子に打ち明けたり、引越し前に目撃した実験を秘密にすると約束するなど、根は素直な少年である。
@@ -83,14 +83,14 @@
           - 光子砲
           - [バルカン砲](https://ja.wikipedia.org/wiki/バルカン砲 "wikilink")
   - ディメンション・タイド（ブラックホール砲）
-    特別G対策本部が[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")・エネルギーの原理を応用して開発した、マイクロ[ブラックホール](https://ja.wikipedia.org/wiki/ブラックホール "wikilink")生成機。物理学者・吉沢佳乃が設計した。超マイクロ加速器で人工ブラックホールを生成し、[大気圏外](https://ja.wikipedia.org/wiki/大気圏外 "wikilink")から[ゴジラを攻撃](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")、その完全消滅をはかる。起動からブラックホール弾発射まで5分を要し、使用後1時間の冷却を要するため連続使用はできない。ただし、一撃の威力は半端でなく、地表では直径100メートル四方が吸収、消滅する。
-    廃校となった[山梨県](../Page/山梨県.md "wikilink")の[白州町](../Page/白州町.md "wikilink")立白州小学校校舎での試射実験後、[マイクロマシン](../Page/マイクロマシン.md "wikilink")の若き天才、工藤元によって小型化に成功、[種子島宇宙センター](https://ja.wikipedia.org/wiki/種子島宇宙センター "wikilink")から[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")に搭載され宇宙へ打ち上げられた。ディメンション・タイドという名は「**次元の潮流**」という意味で、工藤によって命名されている。工藤は頭文字の「DT」を本体表面に書き込んでいる。
+    特別G対策本部が[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")・エネルギーの原理を応用して開発した、マイクロ[ブラックホール](../Page/ブラックホール.md "wikilink")生成機。物理学者・吉沢佳乃が設計した。超マイクロ加速器で人工ブラックホールを生成し、[大気圏外](https://ja.wikipedia.org/wiki/大気圏外 "wikilink")から[ゴジラを攻撃](https://ja.wikipedia.org/wiki/ゴジラ_\(架空の怪獣\) "wikilink")、その完全消滅をはかる。起動からブラックホール弾発射まで5分を要し、使用後1時間の冷却を要するため連続使用はできない。ただし、一撃の威力は半端でなく、地表では直径100メートル四方が吸収、消滅する。
+    廃校となった[山梨県](../Page/山梨県.md "wikilink")の[白州町](../Page/白州町.md "wikilink")立白州小学校校舎での試射実験後、[マイクロマシン](../Page/マイクロマシン.md "wikilink")の若き天才、工藤元によって小型化に成功、[種子島宇宙センター](../Page/種子島宇宙センター.md "wikilink")から[人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink")に搭載され宇宙へ打ち上げられた。ディメンション・タイドという名は「**次元の潮流**」という意味で、工藤によって命名されている。工藤は頭文字の「DT」を本体表面に書き込んでいる。
   - SGS（Search Godzilla System）
     特G対が開発したゴジラ自動追尾装置。航空機に似た姿である。「S1 (Search)」に用いられる。ゴジラの音や熱を感知し、人工衛星を通じて、特G対にそのデータと映像を送信する。日本周辺海域で、常時ゴジラ警戒をしている以外にも、グリフォンにも搭載されている。工藤元はミニSGSも2機開発し、水没した[渋谷](../Page/渋谷.md "wikilink")の水中探査に使用する。
       - 全長：2メートル（オリジナル）
       - 速度：40ノット
   - B-10弾（[ホウ素](../Page/ホウ素.md "wikilink")弾）
-    5年前のゴジラ大阪襲撃の際に出動した対ゴジラ[特殊部隊](../Page/特殊部隊.md "wikilink")が、ゴジラ攻撃に使用した特殊砲弾。弾薬箱には「84mmB-10零式」と記されている。[ロケットランチャーに装填して使用され](https://ja.wikipedia.org/wiki/ロケット砲 "wikilink")、多くの弾数をゴジラに命中させたが、効果は全く無かった。
+    5年前のゴジラ大阪襲撃の際に出動した対ゴジラ[特殊部隊](../Page/特殊部隊.md "wikilink")が、ゴジラ攻撃に使用した特殊砲弾。弾薬箱には「84mmB-10零式」と記されている。[ロケットランチャーに装填して使用され](../Page/ロケット砲.md "wikilink")、多くの弾数をゴジラに命中させたが、効果は全く無かった。
   - ドラゴンアロー
     [航空自衛隊](../Page/航空自衛隊.md "wikilink")の[F-15J](https://ja.wikipedia.org/wiki/F-15J_\(航空機\) "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")に装備された架空の[航空魚雷](https://ja.wikipedia.org/wiki/航空魚雷 "wikilink")。「G消滅作戦」の支援で参加したF-15J編隊が、奇岩島への誘導のため、周辺の海中を航行するゴジラに向けて発射する。
 
@@ -101,11 +101,11 @@
 <!-- end list -->
 
   - [F-15J戦闘機](https://ja.wikipedia.org/wiki/F-15J_\(航空機\) "wikilink")
-  - [73式中型トラック](https://ja.wikipedia.org/wiki/73式中型トラック "wikilink")
+  - [73式中型トラック](../Page/73式中型トラック.md "wikilink")
   - [業務トラック](../Page/業務トラック.md "wikilink")
   - [1/4tトラック](../Page/三菱・ジープ.md "wikilink")
   - [三菱・ジープ](../Page/三菱・ジープ.md "wikilink")（J55）
-  - [64式7.62mm小銃](https://ja.wikipedia.org/wiki/64式7.62mm小銃 "wikilink")
+  - [64式7.62mm小銃](../Page/64式7.62mm小銃.md "wikilink")
   - 渡河ボート\[4\]
 
 <!-- end list -->
@@ -117,7 +117,7 @@
   - [AS350B エキュレイユ](https://ja.wikipedia.org/wiki/ユーロコプター_エキュレイユ "wikilink")
   - [ホンダ・HR-V](../Page/ホンダ・HR-V.md "wikilink")
   - [89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")
-  - [グロック17](https://ja.wikipedia.org/wiki/グロック17 "wikilink")[自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")
+  - [グロック17](../Page/グロック17.md "wikilink")[自動拳銃](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")
 
 <!-- end list -->
 
@@ -149,7 +149,7 @@
 
 :; 大阪国会議事堂
 
-:: 1954年のゴジラの東京襲来に伴い、大阪に遷都している。[大阪城公園](../Page/大阪城公園.md "wikilink")内に建てられている。それ以後「大阪府→大阪都」「東京都→東京府」になっている。建物の外観は、実在する[国会議事堂](https://ja.wikipedia.org/wiki/国会議事堂 "wikilink")と同じ。
+:: 1954年のゴジラの東京襲来に伴い、大阪に遷都している。[大阪城公園](../Page/大阪城公園.md "wikilink")内に建てられている。それ以後「大阪府→大阪都」「東京都→東京府」になっている。建物の外観は、実在する[国会議事堂](../Page/国会議事堂.md "wikilink")と同じ。
 
 :; 大阪プラズマ発電研究所（クリーンエネルギーファクトリー）
 
@@ -174,12 +174,12 @@
 
   - 辻森桐子：[田中美里](../Page/田中美里.md "wikilink")
   - 工藤元：[谷原章介](../Page/谷原章介.md "wikilink")
-  - 新倉誠：[勝村政信](https://ja.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 新倉誠：[勝村政信](../Page/勝村政信.md "wikilink")
   - 美馬和男：[池内万作](../Page/池内万作.md "wikilink")
   - 早坂淳：[鈴木博之](https://ja.wikipedia.org/wiki/鈴木博之_\(俳優\) "wikilink")
   - 細野精一：[山口馬木也](../Page/山口馬木也.md "wikilink")
   - 奥村知治：[山下徹大](https://ja.wikipedia.org/wiki/山下徹大 "wikilink")
-  - 宮川卓也：[永島敏行](https://ja.wikipedia.org/wiki/永島敏行 "wikilink")
+  - 宮川卓也：[永島敏行](../Page/永島敏行.md "wikilink")
   - 山口剛：[中村嘉葎雄](../Page/中村嘉葎雄.md "wikilink")
   - 早坂薫：[かとうかずこ](https://ja.wikipedia.org/wiki/かとうかずこ "wikilink")
   - 杉浦基彦：[伊武雅刀](../Page/伊武雅刀.md "wikilink")
@@ -193,23 +193,23 @@
   - 『[おはスタ](../Page/おはスタ.md "wikilink")』の司会者：[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")、[鴻口可南](https://ja.wikipedia.org/wiki/鴻口可南 "wikilink")
   - S1の職員：[松風雅也](../Page/松風雅也.md "wikilink")
   - 政府関係者・避難するホームレスの男（2役）：[柏原寛司](../Page/柏原寛司.md "wikilink")
-  - 小学校の先生：[手塚昌明](https://ja.wikipedia.org/wiki/手塚昌明 "wikilink")
+  - 小学校の先生：[手塚昌明](../Page/手塚昌明.md "wikilink")
   - お台場の避難民：[笠井信輔](../Page/笠井信輔.md "wikilink")
-  - 海上自衛隊幹部：[三村渉](https://ja.wikipedia.org/wiki/三村渉 "wikilink")
+  - 海上自衛隊幹部：[三村渉](../Page/三村渉.md "wikilink")
 
 **声の出演**
 
-  - アナウンサー：[花輪英司](https://ja.wikipedia.org/wiki/花輪英司 "wikilink")
+  - アナウンサー：[花輪英司](../Page/花輪英司.md "wikilink")
   - ナレーター：[屋良有作](../Page/屋良有作.md "wikilink")
 
 ## スタッフ
 
-  - 監督：[手塚昌明](https://ja.wikipedia.org/wiki/手塚昌明 "wikilink")
-  - 脚本：[柏原寛司](../Page/柏原寛司.md "wikilink")、[三村渉](https://ja.wikipedia.org/wiki/三村渉 "wikilink")
+  - 監督：[手塚昌明](../Page/手塚昌明.md "wikilink")
+  - 脚本：[柏原寛司](../Page/柏原寛司.md "wikilink")、[三村渉](../Page/三村渉.md "wikilink")
   - 特殊技術：[鈴木健二](../Page/鈴木健二_\(特撮監督\).md "wikilink")
   - キャラクターデザイン：[西川伸司](../Page/西川伸司.md "wikilink")
   - 製作：[富山省吾](../Page/富山省吾.md "wikilink")
-  - 音楽：[大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
+  - 音楽：[大島ミチル](../Page/大島ミチル.md "wikilink")
   - ゴジラテーマ曲：[伊福部昭](../Page/伊福部昭.md "wikilink")
   - ゴジラ：[喜多川務](https://ja.wikipedia.org/wiki/喜多川務 "wikilink")
   - メガギラス：[渡邊実](../Page/渡辺実_\(俳優\).md "wikilink")

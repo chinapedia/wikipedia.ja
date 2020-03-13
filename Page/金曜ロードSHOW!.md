@@ -3,7 +3,7 @@
 
 『**金曜ロードSHOW\!**』（きんようロードショウ\!）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（[昭和](../Page/昭和.md "wikilink")60年）[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列](../Page/日本テレビ系列.md "wikilink")（[NNN](../Page/日本ニュースネットワーク.md "wikilink")）\[1\]29局（[テレビ大分](../Page/テレビ大分.md "wikilink")を除く\[2\]）で毎週[金曜日](../Page/金曜日.md "wikilink")に放送されている単発特別番組枠。
 
-[2012年](../Page/2012年.md "wikilink")（[平成](../Page/平成.md "wikilink")24年）[3月30日](../Page/3月30日.md "wikilink")まで『**金曜ロードショー**』であり、映画専門枠だったが、同年[4月6日](../Page/4月6日.md "wikilink")の放送より映画の他に[単発](https://ja.wikipedia.org/wiki/単発特別番組枠 "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")・[バラエティ枠としても扱われると共に現在の番組名に変更された](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")\[3\]\[4\]\[5\]。改題以降は、（[後述も参照](https://ja.wikipedia.org/wiki/#『金曜ロードSHOW!』時代 "wikilink")）。放送時間は21時台から22時台（[JST](../Page/日本標準時.md "wikilink")。詳しくは[後述参照](https://ja.wikipedia.org/wiki/#放送時間 "wikilink")）。[新聞](../Page/新聞.md "wikilink")[テレビ欄では](https://ja.wikipedia.org/wiki/番組表#新聞などに掲載される番組表 "wikilink")、「**金曜ロードSHOW**」「**金ロードSHOW**」と表記される場合もあるが、現在でも「金曜ロードショー」と表記する新聞社もある\[6\]。
+[2012年](../Page/2012年.md "wikilink")（[平成](../Page/平成.md "wikilink")24年）[3月30日](../Page/3月30日.md "wikilink")まで『**金曜ロードショー**』であり、映画専門枠だったが、同年[4月6日](../Page/4月6日.md "wikilink")の放送より映画の他に[単発](../Page/単発特別番組枠.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")・[バラエティ枠としても扱われると共に現在の番組名に変更された](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")\[3\]\[4\]\[5\]。改題以降は、（[後述も参照](https://ja.wikipedia.org/wiki/#『金曜ロードSHOW!』時代 "wikilink")）。放送時間は21時台から22時台（[JST](../Page/日本標準時.md "wikilink")。詳しくは[後述参照](https://ja.wikipedia.org/wiki/#放送時間 "wikilink")）。[新聞](../Page/新聞.md "wikilink")[テレビ欄では](https://ja.wikipedia.org/wiki/番組表#新聞などに掲載される番組表 "wikilink")、「**金曜ロードSHOW**」「**金ロードSHOW**」と表記される場合もあるが、現在でも「金曜ロードショー」と表記する新聞社もある\[6\]。
 
 番組リニューアル前と後で番組タイトルが若干変更されているが、基本的に放映内容は変わらない為、本項では便宜上、特記が無い限り『金曜ロードショー』と表記する。
 
@@ -55,9 +55,9 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 
 [1992年](../Page/1992年.md "wikilink")には1000回記念並びに20周年記念として、「1000回記念メモリアル・テレフォンカード」のプレゼント企画が実施された。
 
-[2004年](../Page/2004年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")より、[地上デジタル放送において](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[番組連動型データ放送を実施](../Page/データ放送.md "wikilink")。放送作品の紹介や次回予告の案内を行うほか、2010年からは場面ごとの解説を表示する「シーンガイド」をアニメ映画を中心とした一部の作品で行っている\[12\]。さらに[2006年](../Page/2006年.md "wikilink")8月4日からは、HDリマスターを含む[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送が開始。2010年10月1日からは他局同様、デジタル放送のみ洋画作品でも[ステレオ放送](../Page/ステレオ放送.md "wikilink")（[2か国語放送](https://ja.wikipedia.org/wiki/2か国語放送 "wikilink")・[解説放送](../Page/解説放送.md "wikilink")を含む。副音声は「ステレオ2」）を開始した\[13\]。
+[2004年](../Page/2004年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")より、[地上デジタル放送において](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[番組連動型データ放送を実施](../Page/データ放送.md "wikilink")。放送作品の紹介や次回予告の案内を行うほか、2010年からは場面ごとの解説を表示する「シーンガイド」をアニメ映画を中心とした一部の作品で行っている\[12\]。さらに[2006年](../Page/2006年.md "wikilink")8月4日からは、HDリマスターを含む[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送が開始。2010年10月1日からは他局同様、デジタル放送のみ洋画作品でも[ステレオ放送](../Page/ステレオ放送.md "wikilink")（[2か国語放送](../Page/2か国語放送.md "wikilink")・[解説放送](../Page/解説放送.md "wikilink")を含む。副音声は「ステレオ2」）を開始した\[13\]。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から2012年3月30日までは、19時台から20時台に[単発特別番組枠](https://ja.wikipedia.org/wiki/単発特別番組枠 "wikilink")『[金曜スーパープライム](https://ja.wikipedia.org/wiki/金曜スーパープライム "wikilink")』が編成されており、2時間拡大放送する場合、本番組は休止となっていた。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から2012年3月30日までは、19時台から20時台に[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")『[金曜スーパープライム](https://ja.wikipedia.org/wiki/金曜スーパープライム "wikilink")』が編成されており、2時間拡大放送する場合、本番組は休止となっていた。
 
 ### リニューアル後
 
@@ -83,13 +83,13 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 
 #### スタジオジブリ作品
 
-本番組では特に、[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")作品の地上波での放映権を日本テレビが独占的に有している関係で、ジブリ最新作の公開時期になると、宣伝を兼ねて過去のジブリ作品を放送するのが恒例となっている。最新作の公開が無い年でも、夏休み期間を中心に年に5本程度が放送され、一度放送された作品はおよそ2～3年ごとに再放送されるが、『[天空の城ラピュタ](../Page/天空の城ラピュタ.md "wikilink")』のように2年連続で放送されるものや、『[ホーホケキョ となりの山田くん](https://ja.wikipedia.org/wiki/ののちゃん#ホーホケキョ_となりの山田くん "wikilink")』のように1回しか放送されていない作品もある。『[火垂るの墓](../Page/火垂るの墓.md "wikilink")』は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")をテーマとしている関係もあり、8月の放送が圧倒的に多くなっている\[17\]。また、唯一のテレビスペシャルとして制作されながらも、尺の短さから本放送以来一度も『金曜ロードショー』枠での放送実績が無かった『[海がきこえる](https://ja.wikipedia.org/wiki/海がきこえる "wikilink")』が、2011年[7月15日](../Page/7月15日.md "wikilink")に『[コクリコ坂から](https://ja.wikipedia.org/wiki/コクリコ坂から "wikilink")』の公開に合わせて『[ゲド戦記](../Page/ゲド戦記_\(映画\).md "wikilink")』と共に『金曜特別ロードショー』として2本立てで放送された。一方で、『[レッドタートル ある島の物語](https://ja.wikipedia.org/wiki/レッドタートル_ある島の物語 "wikilink")』のように、ジブリ作品でも現在まで本枠で放送されないケースがある\[18\]。ジブリ作品に関しては[エンドロールを含め](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")、ノーカット放送されるのが原則となっているが、近年は[2016年](../Page/2016年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")放送の『[猫の恩返し](https://ja.wikipedia.org/wiki/猫の恩返し "wikilink")』や[2018年](../Page/2018年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")放送の『ゲド戦記』などでエンディングを省略しており、エンドロールを含む完全ノーカット版を放送しない回も増えてきている。
+本番組では特に、[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")作品の地上波での放映権を日本テレビが独占的に有している関係で、ジブリ最新作の公開時期になると、宣伝を兼ねて過去のジブリ作品を放送するのが恒例となっている。最新作の公開が無い年でも、夏休み期間を中心に年に5本程度が放送され、一度放送された作品はおよそ2～3年ごとに再放送されるが、『[天空の城ラピュタ](../Page/天空の城ラピュタ.md "wikilink")』のように2年連続で放送されるものや、『[ホーホケキョ となりの山田くん](https://ja.wikipedia.org/wiki/ののちゃん#ホーホケキョ_となりの山田くん "wikilink")』のように1回しか放送されていない作品もある。『[火垂るの墓](../Page/火垂るの墓.md "wikilink")』は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")をテーマとしている関係もあり、8月の放送が圧倒的に多くなっている\[17\]。また、唯一のテレビスペシャルとして制作されながらも、尺の短さから本放送以来一度も『金曜ロードショー』枠での放送実績が無かった『[海がきこえる](../Page/海がきこえる.md "wikilink")』が、2011年[7月15日](../Page/7月15日.md "wikilink")に『[コクリコ坂から](https://ja.wikipedia.org/wiki/コクリコ坂から "wikilink")』の公開に合わせて『[ゲド戦記](../Page/ゲド戦記_\(映画\).md "wikilink")』と共に『金曜特別ロードショー』として2本立てで放送された。一方で、『[レッドタートル ある島の物語](https://ja.wikipedia.org/wiki/レッドタートル_ある島の物語 "wikilink")』のように、ジブリ作品でも現在まで本枠で放送されないケースがある\[18\]。ジブリ作品に関しては[エンドロールを含め](../Page/クレジットタイトル.md "wikilink")、ノーカット放送されるのが原則となっているが、近年は[2016年](../Page/2016年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")放送の『[猫の恩返し](../Page/猫の恩返し.md "wikilink")』や[2018年](../Page/2018年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")放送の『ゲド戦記』などでエンディングを省略しており、エンドロールを含む完全ノーカット版を放送しない回も増えてきている。
 
 #### その他日テレ関連アニメ作品
 
 ジブリ作品以外で定期的に、以下のアニメ作品が放映されている。
 
-  - 『[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世 "wikilink")』シリーズ
+  - 『[ルパン三世](../Page/ルパン三世.md "wikilink")』シリーズ
       - （特に『[ルパン三世 ルパンVS複製人間](../Page/ルパン三世_ルパンVS複製人間.md "wikilink")』『[ルパン三世 カリオストロの城](../Page/ルパン三世_カリオストロの城.md "wikilink")』の2作品）
   - 『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』劇場版シリーズ
   - 『[ヱヴァンゲリヲン新劇場版](../Page/ヱヴァンゲリヲン新劇場版.md "wikilink")』シリーズ\[19\]
@@ -161,7 +161,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <!-- end list -->
 
   -
-    不思議な生き物。ツタンカーメンのマスクのような模様が付いている。*古代エジプトで生命的宗教的象徴である「[アンク](https://ja.wikipedia.org/wiki/アンク "wikilink")」から命名。*
+    不思議な生き物。ツタンカーメンのマスクのような模様が付いている。*古代エジプトで生命的宗教的象徴である「[アンク](../Page/アンク.md "wikilink")」から命名。*
 
 ## 番組タイトルロゴマーク
 
@@ -204,7 +204,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2006年7月21日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ハウルの動く城" title="wikilink">ハウルの動く城</a></strong>（2005年）</p></td>
+<td><p><strong><a href="../Page/ハウルの動く城.md" title="wikilink">ハウルの動く城</a></strong>（2005年）</p></td>
 <td><p>32.9%</p></td>
 <td></td>
 </tr>
@@ -261,7 +261,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>1997年3月28日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/Shall_we_ダンス?" title="wikilink">Shall we ダンス?</a></strong>（1996年）</p></td>
+<td><p><strong><a href="../Page/Shall_we_ダンス?.md" title="wikilink">Shall we ダンス?</a></strong>（1996年）</p></td>
 <td><p>27.4%</p></td>
 <td><p>この回で<a href="../Page/水野晴郎.md" title="wikilink">水野晴郎</a>が番組を降板</p></td>
 </tr>
@@ -295,7 +295,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 </tr>
 <tr class="even">
 <td><p>1995年3月3日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/免許がない!" title="wikilink">免許がない!</a></strong>（1994年）</p></td>
+<td><p><strong><a href="../Page/免許がない!.md" title="wikilink">免許がない!</a></strong>（1994年）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -417,11 +417,11 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 
 ### 初代
 
-テーマ曲「フライデー・ナイト・ファンタジー」を[BGMに](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")、夕日と海と[ヨットハーバー](https://ja.wikipedia.org/wiki/ヨットハーバー "wikilink")の2代目（フィルム映像。1985年10月4日 - 1997年3月28日。作曲&演奏は[ピエール・ポルト](../Page/ピエール・ポルト.md "wikilink")&ヒズ・オーケストラ。Tpのソロは、日本人トランペット演奏家である[数原晋](../Page/数原晋.md "wikilink")が日本で演奏した。当時、実際の演奏者のクレジットがきちんと記載されない事が多かった）
+テーマ曲「フライデー・ナイト・ファンタジー」を[BGMに](../Page/バックグラウンドミュージック.md "wikilink")、夕日と海と[ヨットハーバー](https://ja.wikipedia.org/wiki/ヨットハーバー "wikilink")の2代目（フィルム映像。1985年10月4日 - 1997年3月28日。作曲&演奏は[ピエール・ポルト](../Page/ピエール・ポルト.md "wikilink")&ヒズ・オーケストラ。Tpのソロは、日本人トランペット演奏家である[数原晋](../Page/数原晋.md "wikilink")が日本で演奏した。当時、実際の演奏者のクレジットがきちんと記載されない事が多かった）
 
-  - オープニング…海辺のボートハウスで景色を眺める人→夕日と[鴎](../Page/カモメ.md "wikilink")→ヨットハーバーで[犬と戯れる人](../Page/イヌ.md "wikilink")→黄昏の人→夕焼けの海に浮かぶヨット→画面中部に番組ロゴ表示（夕焼けの風景から大きくフェードインし、ヨットハーバーの風景が一瞬にして夜になる）→映画名表示→提供[クレジット表示](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")
+  - オープニング…海辺のボートハウスで景色を眺める人→夕日と[鴎](../Page/カモメ.md "wikilink")→ヨットハーバーで[犬と戯れる人](../Page/イヌ.md "wikilink")→黄昏の人→夕焼けの海に浮かぶヨット→画面中部に番組ロゴ表示（夕焼けの風景から大きくフェードインし、ヨットハーバーの風景が一瞬にして夜になる）→映画名表示→提供[クレジット表示](../Page/クレジットタイトル.md "wikilink")
   - エンディング…提供クレジットの後の5秒のエンドパターンについては、1991年9月までは静止画（設定は夜になるまでヨットが浮かんだままと言うもの。金曜ロードショーのロゴが上に表示し、下に「（旧ロゴ、後にロゴなし）日本テレビ END」と表示）で、同年10月頃からは[動画](../Page/動画.md "wikilink")（設定はヨットのバテン部分が潰れ、ヨットに乗っていたシルエットの人は[カヌー](../Page/カヌー.md "wikilink")に乗り換えると言うもの。『金曜ロードショー』のロゴの部分で下の「ロードショー」が上の「金曜」の隣に入り、下に「THE END」と表示）によるものだった。
-      - なお、のちに、その週に放映された映画作品の1シーンのスチール写真（または、映像）をバックに提供[クレジットが表示され](https://ja.wikipedia.org/wiki/クレジットタイトル "wikilink")、その後、5秒のエンドパターンとなるバージョンも登場した。また、その週に放送された映画作品の1シーンのスチール写真（または、映像）をバックに提供クレジットが表示された後、いつもの5秒のエンドパターンが流れずに番組が終了したケースもある（例：[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")8月3日に、「終戦45周年特別企画」の第一弾として放送された『[連合艦隊](../Page/連合艦隊_\(映画\).md "wikilink")』など）。また、1990年代序盤には、スチール写真（または、画像）をバックに提供クレジットが表示された後、一旦CMを挟んでから5秒のエンドパターンが流れたパターンもあった（例：1990年10月5日に放映された『[魔女の宅急便](../Page/魔女の宅急便_\(1989年の映画\).md "wikilink")』）。なお、[1988年](../Page/1988年.md "wikilink")1月1日に放送された『[風とともに去りぬ](https://ja.wikipedia.org/wiki/風と共に去りぬ_\(映画\) "wikilink")』は、スチール写真と提供クレジットが表示された後、スチール写真のまま、「金曜特別ロードショー 日本テレビ開局35周年特別番組 風と共に去りぬ 完」と流れた。
+      - なお、のちに、その週に放映された映画作品の1シーンのスチール写真（または、映像）をバックに提供[クレジットが表示され](../Page/クレジットタイトル.md "wikilink")、その後、5秒のエンドパターンとなるバージョンも登場した。また、その週に放送された映画作品の1シーンのスチール写真（または、映像）をバックに提供クレジットが表示された後、いつもの5秒のエンドパターンが流れずに番組が終了したケースもある（例：[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")8月3日に、「終戦45周年特別企画」の第一弾として放送された『[連合艦隊](../Page/連合艦隊_\(映画\).md "wikilink")』など）。また、1990年代序盤には、スチール写真（または、画像）をバックに提供クレジットが表示された後、一旦CMを挟んでから5秒のエンドパターンが流れたパターンもあった（例：1990年10月5日に放映された『[魔女の宅急便](../Page/魔女の宅急便_\(1989年の映画\).md "wikilink")』）。なお、[1988年](../Page/1988年.md "wikilink")1月1日に放送された『[風とともに去りぬ](https://ja.wikipedia.org/wiki/風と共に去りぬ_\(映画\) "wikilink")』は、スチール写真と提供クレジットが表示された後、スチール写真のまま、「金曜特別ロードショー 日本テレビ開局35周年特別番組 風と共に去りぬ 完」と流れた。
       - 初期のスタッフロールは、水曜ロード時代の背景を使用していた。
   - オープニング曲の原調は[ヘ短調](https://ja.wikipedia.org/wiki/ヘ短調 "wikilink")である。
   - オープニングは、[ピアノ](../Page/ピアノ.md "wikilink")の出だしから始まるパターンと[トランペット](../Page/トランペット.md "wikilink")から始まるパターンがある。\[32\]
@@ -443,7 +443,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 
 ### 3代目
 
-「The Moon and The Rabbit」（2009年3月27日 - 2012年3月30日）アニメーション制作：Airside、テーマ曲：「スタンリーの週末」（作曲：[岩代太郎](https://ja.wikipedia.org/wiki/岩代太郎 "wikilink")）
+「The Moon and The Rabbit」（2009年3月27日 - 2012年3月30日）アニメーション制作：Airside、テーマ曲：「スタンリーの週末」（作曲：[岩代太郎](../Page/岩代太郎.md "wikilink")）
 
   - 金曜の夜、月が出る頃に始まる『金曜ロードショー』を見るためにうさぎのスタンリーと仲間たちが映画館に向かって必死に走る様子を描く。先代同様[ロゴ表示](../Page/ロゴタイプ.md "wikilink")→提供クレジット表示→映画名表示（スタンリーが駆け込んで席についた後、スクリーンに放送する映画名が表示される）の順で、[地上波デジタル放送に合わせて](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")、オープニング映像としては初の[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")となった。アニメーションを制作したAirsideは英国のデザイン会社。テーマ曲を作曲した岩代は「どんな映画が放送されても本編の邪魔にならないように心掛けた」とコメントしている\[34\]。
   - 『金曜特別ロードショー』バージョンは、スタンリーたちの衣装がタキシードなどフォーマルなものに変わるほか、[花火](../Page/花火.md "wikilink")や観客の歓声の[効果音](../Page/効果音.md "wikilink")を追加した別バージョンとなる。
@@ -453,7 +453,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 
 テーマ曲「TGIF（Thank God, It's Friday\!）」（作曲：[大野哲二](https://ja.wikipedia.org/wiki/大野哲二 "wikilink")）（2012年4月6日 - 2016年3月25日）
 
-  - オープニングアニメ映像・テーマ曲制作：[オムニバス・ジャパン](https://ja.wikipedia.org/wiki/オムニバス・ジャパン "wikilink")
+  - オープニングアニメ映像・テーマ曲制作：[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")
   - アニメーション制作：Airside
   - スタンリーと仲間たちがアクション、SF、サスペンス、ラブストーリー、アニメといった映画の世界に迷い込んでワクワクドキドキしている様子を描く。
   - 『金曜ロードSHOW\!』に改題後のオープニング。
@@ -496,25 +496,25 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 
   - [村井国夫](https://ja.wikipedia.org/wiki/村井国夫 "wikilink") - [ハリソン・フォード](https://ja.wikipedia.org/wiki/ハリソン・フォード "wikilink")出演作品
   - [渡辺謙](../Page/渡辺謙.md "wikilink") - 『[ランボー](../Page/ランボー.md "wikilink")』（[シルヴェスター・スタローン](../Page/シルヴェスター・スタローン.md "wikilink")）、本人出演作品の一部
-  - [渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink") - 『[ハエ男の恐怖](https://ja.wikipedia.org/wiki/ハエ男の恐怖 "wikilink")』（デヴィッド・ヘディスン）
+  - [渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink") - 『[ハエ男の恐怖](../Page/ハエ男の恐怖.md "wikilink")』（デヴィッド・ヘディスン）
   - [北尾光司](../Page/北尾光司.md "wikilink") - 『[サンダー](https://ja.wikipedia.org/wiki/サンダー_\(映画\) "wikilink")』（マーク・グレゴリー）
   - [徳光和夫](../Page/徳光和夫.md "wikilink") - 『[激突\!](../Page/激突!.md "wikilink")』（[デニス・ウィーバー](../Page/デニス・ウィーバー.md "wikilink")）、『[メジャーリーグ](../Page/メジャーリーグ_\(映画\).md "wikilink")』（ボブ・ユッカー）
-  - [三原じゅん子](https://ja.wikipedia.org/wiki/三原じゅん子 "wikilink") - 『ストリッパー殺人事件』（ケイ・レンツ）、『[ジョニー・ハンサム](https://ja.wikipedia.org/wiki/ジョニー・ハンサム "wikilink")』（[エレン・バーキン](../Page/エレン・バーキン.md "wikilink")）
+  - [三原じゅん子](../Page/三原じゅん子.md "wikilink") - 『ストリッパー殺人事件』（ケイ・レンツ）、『[ジョニー・ハンサム](https://ja.wikipedia.org/wiki/ジョニー・ハンサム "wikilink")』（[エレン・バーキン](../Page/エレン・バーキン.md "wikilink")）
   - [錦織一清](../Page/錦織一清.md "wikilink")（[少年隊](../Page/少年隊.md "wikilink")） - 『栄光の彼方に』（[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")）
-  - [秋野暢子](https://ja.wikipedia.org/wiki/秋野暢子 "wikilink") - 『[マスク](../Page/マスク_\(1984年の映画\).md "wikilink")』（[シェール](https://ja.wikipedia.org/wiki/シェール "wikilink")）
-  - [夏木マリ](https://ja.wikipedia.org/wiki/夏木マリ "wikilink") - 『エルヴァイラ』（カサンドラ・ピーターソン）、『[プラダを着た悪魔](../Page/プラダを着た悪魔.md "wikilink")』（[メリル・ストリープ](https://ja.wikipedia.org/wiki/メリル・ストリープ "wikilink")）
+  - [秋野暢子](../Page/秋野暢子.md "wikilink") - 『[マスク](../Page/マスク_\(1984年の映画\).md "wikilink")』（[シェール](../Page/シェール.md "wikilink")）
+  - [夏木マリ](../Page/夏木マリ.md "wikilink") - 『エルヴァイラ』（カサンドラ・ピーターソン）、『[プラダを着た悪魔](../Page/プラダを着た悪魔.md "wikilink")』（[メリル・ストリープ](../Page/メリル・ストリープ.md "wikilink")）
   - [松本ハウス](../Page/松本ハウス.md "wikilink") - 『[48時間PART2/帰って来たふたり](https://ja.wikipedia.org/wiki/48時間PART2/帰って来たふたり "wikilink")』
   - [大和田伸也](../Page/大和田伸也.md "wikilink") - 『[アウトブレイク](../Page/アウトブレイク_\(映画\).md "wikilink")』（[ダスティン・ホフマン](../Page/ダスティン・ホフマン.md "wikilink")）
-  - [草刈正雄](../Page/草刈正雄.md "wikilink") - 『[ベスト・フレンズ・ウェディング](https://ja.wikipedia.org/wiki/ベスト・フレンズ・ウェディング "wikilink")』（[ルパート・エヴェレット](https://ja.wikipedia.org/wiki/ルパート・エヴェレット "wikilink")）
+  - [草刈正雄](../Page/草刈正雄.md "wikilink") - 『[ベスト・フレンズ・ウェディング](../Page/ベスト・フレンズ・ウェディング.md "wikilink")』（[ルパート・エヴェレット](../Page/ルパート・エヴェレット.md "wikilink")）
   - [船越英一郎](../Page/船越英一郎.md "wikilink") - 『[ダイヤルM](https://ja.wikipedia.org/wiki/ダイヤルM "wikilink")』（[マイケル・ダグラス](../Page/マイケル・ダグラス.md "wikilink")）、『[新・刑事コロンボ 殺意の斬れ味](https://ja.wikipedia.org/wiki/刑事コロンボ#新シリーズ（1989年から2003年まで） "wikilink")』
   - [寺田心](https://ja.wikipedia.org/wiki/寺田心 "wikilink")、[鈴木梨央](https://ja.wikipedia.org/wiki/鈴木梨央 "wikilink") - 『[ホーム・アローン3](../Page/ホーム・アローン3.md "wikilink")』（[アレックス・D・リンツ](../Page/アレックス・D・リンツ.md "wikilink")、[スカーレット・ヨハンソン](../Page/スカーレット・ヨハンソン.md "wikilink")）
-  - [中村繁之](../Page/中村繁之.md "wikilink") - 『[ボーン・スプレマシー](https://ja.wikipedia.org/wiki/ボーン・スプレマシー "wikilink")』（[マット・デイモン](https://ja.wikipedia.org/wiki/マット・デイモン "wikilink")）
+  - [中村繁之](../Page/中村繁之.md "wikilink") - 『[ボーン・スプレマシー](../Page/ボーン・スプレマシー.md "wikilink")』（[マット・デイモン](https://ja.wikipedia.org/wiki/マット・デイモン "wikilink")）
   - [世界のナベアツ](../Page/桂三度.md "wikilink") - 『[ザスーラ](../Page/ザスーラ.md "wikilink")』（[フランク・オズ](../Page/フランク・オズ.md "wikilink")）
-  - [杉田かおる](../Page/杉田かおる.md "wikilink") - 『[幸せのちから](../Page/幸せのちから_\(映画\).md "wikilink")』（[タンディ・ニュートン](https://ja.wikipedia.org/wiki/タンディ・ニュートン "wikilink")）
-  - [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink") - 『[スパイダーマン3](../Page/スパイダーマン3.md "wikilink")』（[キルスティン・ダンスト](https://ja.wikipedia.org/wiki/キルスティン・ダンスト "wikilink")）
-  - [ウエンツ瑛士](https://ja.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")、[桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink") - 『[トワイライト 金曜ロードショー特別版](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink")』（[ロバート・パティンソン](https://ja.wikipedia.org/wiki/ロバート・パティンソン "wikilink")、[クリステン・スチュワート](https://ja.wikipedia.org/wiki/クリステン・スチュワート "wikilink")）
+  - [杉田かおる](../Page/杉田かおる.md "wikilink") - 『[幸せのちから](../Page/幸せのちから_\(映画\).md "wikilink")』（[タンディ・ニュートン](../Page/タンディ・ニュートン.md "wikilink")）
+  - [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink") - 『[スパイダーマン3](../Page/スパイダーマン3.md "wikilink")』（[キルスティン・ダンスト](../Page/キルスティン・ダンスト.md "wikilink")）
+  - [ウエンツ瑛士](../Page/ウエンツ瑛士.md "wikilink")、[桐谷美玲](https://ja.wikipedia.org/wiki/桐谷美玲 "wikilink") - 『[トワイライト 金曜ロードショー特別版](https://ja.wikipedia.org/wiki/トワイライト〜初恋〜 "wikilink")』（[ロバート・パティンソン](https://ja.wikipedia.org/wiki/ロバート・パティンソン "wikilink")、[クリステン・スチュワート](https://ja.wikipedia.org/wiki/クリステン・スチュワート "wikilink")）
   - [山本耕史](../Page/山本耕史.md "wikilink")、[仲間由紀恵](https://ja.wikipedia.org/wiki/仲間由紀恵 "wikilink") - 『[ジュラシック・ワールド](https://ja.wikipedia.org/wiki/ジュラシック・ワールド "wikilink")』（[クリス・プラット](https://ja.wikipedia.org/wiki/クリス・プラット "wikilink")、[ブライス・ダラス・ハワード](../Page/ブライス・ダラス・ハワード.md "wikilink")） - 地上波初放送時のみ行われた。2回目の放送時は劇場公開版と同じ[玉木宏](https://ja.wikipedia.org/wiki/玉木宏 "wikilink")、[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")版を放送。
-  - [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")（[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")、[南原清隆](../Page/南原清隆.md "wikilink")）、[千秋](https://ja.wikipedia.org/wiki/千秋_\(タレント\) "wikilink")、[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")（[ウド鈴木](../Page/ウド鈴木.md "wikilink")、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")） - 『[マーヴェリック](https://ja.wikipedia.org/wiki/マーヴェリック_\(1994年の映画\) "wikilink")』（『[ウリナリ](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")』の企画で担当）
+  - [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")（[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")、[南原清隆](../Page/南原清隆.md "wikilink")）、[千秋](../Page/千秋_\(タレント\).md "wikilink")、[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")（[ウド鈴木](../Page/ウド鈴木.md "wikilink")、[天野ひろゆき](../Page/天野ひろゆき.md "wikilink")） - 『[マーヴェリック](https://ja.wikipedia.org/wiki/マーヴェリック_\(1994年の映画\) "wikilink")』（『[ウリナリ](../Page/ウッチャンナンチャンのウリナリ!!.md "wikilink")』の企画で担当）
   - また、日本テレビに在籍していた[福澤朗](../Page/福澤朗.md "wikilink")を『[ベイビー・トーク](../Page/ベイビー・トーク.md "wikilink")』で[ブルース・ウィリス](../Page/ブルース・ウィリス.md "wikilink")の[吹き替え](../Page/吹き替え.md "wikilink")に起用、続篇ではさらに[大神いずみ](../Page/大神いずみ.md "wikilink")も加わった。
 
 ## 特別ドラマ企画
@@ -656,25 +656,25 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 
 ## 特別エンターテインメント
 
-| 放送日         | タイトル                                                                                                | 備考                                                  |
-| ----------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| 2013年5月3日   | [池上彰くんに教えたいニュース](https://ja.wikipedia.org/wiki/池上彰くんに教えたいニュース "wikilink")                           |                                                     |
-| 2013年10月4日  | [1位をとった名曲音楽祭](https://ja.wikipedia.org/wiki/1番ソングSHOW "wikilink")                                   | [生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink") |
-| 2017年2月24日  | 人生が二度あれば 運命の選択                                                                                      |                                                     |
-| 2017年5月12日  | [全国好きな嫌いなアナウンサー大賞](https://ja.wikipedia.org/wiki/全国好きな嫌いなアナウンサー大賞 "wikilink")2017                   | \[36\]                                              |
-| 2017年12月22日 | [BESTプレゼント](https://ja.wikipedia.org/wiki/BESTプレゼント "wikilink")                                     |                                                     |
-| 2018年1月26日  | [さんま岡村祭日本の長さんの悩み聞きます\!](https://ja.wikipedia.org/wiki/さんま岡村祭日本の長さんの悩み聞きます! "wikilink")              |                                                     |
-| 2018年2月2日   | [最強の頭脳 日本一決定戦\! 頭脳王2018](https://ja.wikipedia.org/wiki/頭脳王 "wikilink")                              | \[37\]                                              |
-| 2018年4月27日  | [最後の一日 最後の言葉 〜本当にそれでイイんですか?〜](https://ja.wikipedia.org/wiki/最後の一日_最後の言葉_〜本当にそれでイイんですか?〜 "wikilink") |                                                     |
-| 2018年6月1日   | 全国好きな嫌いなアナウンサー大賞2018                                                                                |                                                     |
-| 2018年10月5日  | [ウケる\!偉人伝](https://ja.wikipedia.org/wiki/ウケる!偉人伝 "wikilink")                                        |                                                     |
-| 2018年11月9日  | [衝撃のアノ人に会ってみた\!](https://ja.wikipedia.org/wiki/衝撃のアノ人に会ってみた! "wikilink")                            | \[38\]                                              |
-| 2019年2月15日  | 最強の頭脳 日本一決定戦\! 頭脳王2019                                                                              |                                                     |
-| 2019年3月15日  | OB vs 現役 プロ野球好珍バトル2019春                                                                             |                                                     |
-| 2019年5月3日   | [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")                                           |                                                     |
-| 2019年5月10日  | 全国好きな嫌いなアナウンサー大賞2019                                                                                | |\[39\]                                             |
-| 2019年5月31日  | [グレートコネクション](https://ja.wikipedia.org/wiki/グレートコネクション "wikilink")                                   |                                                     |
-| 2019年10月11日 | [いま知りたい天才5人VSさんま岡村SP](https://ja.wikipedia.org/wiki/いま知りたい天才5人VSさんま岡村SP "wikilink")                 | \[40\]                                              |
+| 放送日         | タイトル                                                                                                | 備考                               |
+| ----------- | --------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 2013年5月3日   | [池上彰くんに教えたいニュース](https://ja.wikipedia.org/wiki/池上彰くんに教えたいニュース "wikilink")                           |                                  |
+| 2013年10月4日  | [1位をとった名曲音楽祭](https://ja.wikipedia.org/wiki/1番ソングSHOW "wikilink")                                   | [生放送](../Page/生放送.md "wikilink") |
+| 2017年2月24日  | 人生が二度あれば 運命の選択                                                                                      |                                  |
+| 2017年5月12日  | [全国好きな嫌いなアナウンサー大賞](https://ja.wikipedia.org/wiki/全国好きな嫌いなアナウンサー大賞 "wikilink")2017                   | \[36\]                           |
+| 2017年12月22日 | [BESTプレゼント](https://ja.wikipedia.org/wiki/BESTプレゼント "wikilink")                                     |                                  |
+| 2018年1月26日  | [さんま岡村祭日本の長さんの悩み聞きます\!](https://ja.wikipedia.org/wiki/さんま岡村祭日本の長さんの悩み聞きます! "wikilink")              |                                  |
+| 2018年2月2日   | [最強の頭脳 日本一決定戦\! 頭脳王2018](https://ja.wikipedia.org/wiki/頭脳王 "wikilink")                              | \[37\]                           |
+| 2018年4月27日  | [最後の一日 最後の言葉 〜本当にそれでイイんですか?〜](https://ja.wikipedia.org/wiki/最後の一日_最後の言葉_〜本当にそれでイイんですか?〜 "wikilink") |                                  |
+| 2018年6月1日   | 全国好きな嫌いなアナウンサー大賞2018                                                                                |                                  |
+| 2018年10月5日  | [ウケる\!偉人伝](https://ja.wikipedia.org/wiki/ウケる!偉人伝 "wikilink")                                        |                                  |
+| 2018年11月9日  | [衝撃のアノ人に会ってみた\!](https://ja.wikipedia.org/wiki/衝撃のアノ人に会ってみた! "wikilink")                            | \[38\]                           |
+| 2019年2月15日  | 最強の頭脳 日本一決定戦\! 頭脳王2019                                                                              |                                  |
+| 2019年3月15日  | OB vs 現役 プロ野球好珍バトル2019春                                                                             |                                  |
+| 2019年5月3日   | [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")                                           |                                  |
+| 2019年5月10日  | 全国好きな嫌いなアナウンサー大賞2019                                                                                | |\[39\]                          |
+| 2019年5月31日  | [グレートコネクション](https://ja.wikipedia.org/wiki/グレートコネクション "wikilink")                                   |                                  |
+| 2019年10月11日 | [いま知りたい天才5人VSさんま岡村SP](https://ja.wikipedia.org/wiki/いま知りたい天才5人VSさんま岡村SP "wikilink")                 | \[40\]                           |
 
 ## ネット局
 
@@ -701,7 +701,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td><p>[42]</p></td>
 <td></td>
 <td></td>
@@ -862,7 +862,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>（FBS）</p></td>
 <td></td>
 <td></td>
@@ -914,7 +914,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
   - [テレビ長崎](../Page/テレビ長崎.md "wikilink")
       - 日本テレビ系列とのクロスネット（NNS非加盟）局時代は『[水曜ロードショー](https://ja.wikipedia.org/wiki/水曜ロードショー_\(日本テレビ\) "wikilink")』の放送開始時から同時ネット。1990年10月5日にフジテレビ系フルネット化してから1991年3月29日まで半年間異時ネットし、長崎国際テレビ開局により終了。
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
-      - 当枠はテレビ宮崎が放映権を持っているが、テレビ宮崎が同時ネットを開始する前に[土曜ドラマの映画化作品のみ当局に放映権が移譲された](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")。
+      - 当枠はテレビ宮崎が放映権を持っているが、テレビ宮崎が同時ネットを開始する前に[土曜ドラマの映画化作品のみ当局に放映権が移譲された](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")。
   - [鹿児島テレビ](../Page/鹿児島テレビ放送.md "wikilink")
       - 日本テレビ系列とのクロスネット局時代の1994年3月25日まで同時ネットで放送された。その後鹿児島読売テレビ開局により終了。
 
@@ -936,7 +936,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td></td>
 <td><p><a href="../Page/フラッシュダンス.md" title="wikilink">フラッシュダンス</a>（1983年）</p></td>
 <td><p>（番組休止）</p></td>
-<td><p>当日夕方に発生した<a href="https://ja.wikipedia.org/wiki/三原山#歴史" title="wikilink">伊豆大島三原山大噴火に関する</a><a href="https://ja.wikipedia.org/wiki/報道特別番組" title="wikilink">報道特別番組</a>放送のため。</p></td>
+<td><p>当日夕方に発生した<a href="https://ja.wikipedia.org/wiki/三原山#歴史" title="wikilink">伊豆大島三原山大噴火に関する</a><a href="../Page/報道特別番組.md" title="wikilink">報道特別番組</a>放送のため。</p></td>
 <td></td>
 <td><p> </p></td>
 </tr>
@@ -944,13 +944,13 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/化身_(渡辺淳一)" title="wikilink">化身</a>（1987年）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/続・猿の惑星" title="wikilink">続・猿の惑星</a>（1970年）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/昭和天皇" title="wikilink">昭和天皇</a>の容態急変による自粛措置。</p></td>
+<td><p><a href="../Page/昭和天皇.md" title="wikilink">昭和天皇</a>の容態急変による自粛措置。</p></td>
 <td><p>1988年<a href="../Page/12月16日.md" title="wikilink">12月16日</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタンド・バイ・ミー" title="wikilink">スタンド・バイ・ミー</a>（1987年）</p></td>
+<td><p><a href="../Page/スタンド・バイ・ミー.md" title="wikilink">スタンド・バイ・ミー</a>（1987年）</p></td>
 <td><p><a href="../Page/男はつらいよ_寅次郎真実一路.md" title="wikilink">男はつらいよ 寅次郎真実一路</a>（1985年）</p></td>
 <td><p><a href="../Page/渥美清.md" title="wikilink">渥美清</a>が死去したことを受けた追悼企画。</p></td>
 <td><p>1996年<a href="../Page/8月23日.md" title="wikilink">8月23日</a></p></td>
@@ -966,7 +966,7 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/9月14日.md" title="wikilink">9月14日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイ・ハード3" title="wikilink">ダイ・ハード3</a>（1995年）</p></td>
+<td><p><a href="../Page/ダイ・ハード3.md" title="wikilink">ダイ・ハード3</a>（1995年）</p></td>
 <td><p><a href="../Page/バック・トゥ・ザ・フューチャー.md" title="wikilink">バック・トゥ・ザ・フューチャー</a>（1985年）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件" title="wikilink">アメリカ同時多発テロ事件</a>直後だったことによる自粛措置。</p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a></p></td>
@@ -1023,8 +1023,8 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <tr class="even">
 <td><p>2014年<a href="../Page/11月28日.md" title="wikilink">11月28日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/謝罪の王様" title="wikilink">謝罪の王様</a>（2013年）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/幸福の黄色いハンカチ" title="wikilink">幸福の黄色いハンカチ</a>（1978年）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高倉健" title="wikilink">高倉健</a>が死去したことを受けた追悼企画。</p></td>
+<td><p><a href="../Page/幸福の黄色いハンカチ.md" title="wikilink">幸福の黄色いハンカチ</a>（1978年）</p></td>
+<td><p><a href="../Page/高倉健.md" title="wikilink">高倉健</a>が死去したことを受けた追悼企画。</p></td>
 <td><p>2018年<a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
 <td></td>
 </tr>
@@ -1032,8 +1032,8 @@ BSの番組であるため、洋画は[吹替](https://ja.wikipedia.org/wiki/吹
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月23日.md" title="wikilink">6月23日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バトルシップ_(映画)" title="wikilink">バトルシップ</a>（2012年）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダーク・シャドウ" title="wikilink">ダーク・シャドウ</a>（2012年）</p></td>
-<td><p>同年<a href="../Page/6月17日.md" title="wikilink">6月17日</a>に起きた<a href="../Page/アメリカ海軍.md" title="wikilink">米海軍</a><a href="https://ja.wikipedia.org/wiki/ミサイル駆逐艦" title="wikilink">ミサイル駆逐艦</a>「<a href="../Page/フィッツジェラルド_(ミサイル駆逐艦).md" title="wikilink">フィッツジェラルド</a>」の衝突事故を連想させるため。</p></td>
-<td><p>2017年<a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p>同年<a href="../Page/6月17日.md" title="wikilink">6月17日</a>に起きた<a href="../Page/アメリカ海軍.md" title="wikilink">米海軍</a><a href="../Page/ミサイル駆逐艦.md" title="wikilink">ミサイル駆逐艦</a>「<a href="../Page/フィッツジェラルド_(ミサイル駆逐艦).md" title="wikilink">フィッツジェラルド</a>」の衝突事故を連想させるため。</p></td>
+<td><p>2017年<a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p>[60]</p></td>
 </tr>
 <tr class="even">

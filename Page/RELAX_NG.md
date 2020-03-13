@@ -1,11 +1,11 @@
 > この記事は[RELAX NG](https://ja.wikipedia.org/wiki/RELAX_NG)から翻訳されています。
 
 
-**RELAX NG** （リラクシング、RELAX Next Generation） は、[マークアップ言語](../Page/マークアップ言語.md "wikilink")[XMLの](../Page/Extensible_Markup_Language.md "wikilink")[スキーマ言語](https://ja.wikipedia.org/wiki/スキーマ言語 "wikilink")の一つである。RELAX NG で記述された[スキーマは](../Page/スキーマ_\(データベース\).md "wikilink")、XML文書の構造と内容のパターンを定義する。RELAX NG で記述されたスキーマは、それ自身がXML文書である。RELAX NG でスキーマをXML文書として記述する方法を、[XML構文という](https://ja.wikipedia.org/wiki/#XML構文 "wikilink")。しかし RELAX NG では、スキーマをXML構文ではない簡潔な[短縮構文](https://ja.wikipedia.org/wiki/#短縮構文 "wikilink") (Compact Syntax) で記述することもできる\[1\]。つまり RELAX NG では、XML構文でスキーマを記述しても良いし、短縮構文でスキーマを記述しても良い。RELAX NG は、[W3C](../Page/World_Wide_Web_Consortium.md "wikilink") [XML Schema](https://ja.wikipedia.org/wiki/XML_Schema "wikilink") と比べて仕様が簡潔である。RELAX NG は、[ジェームズ・クラークと](../Page/ジェームズ・クラーク_\(ソフトウェア技術者\).md "wikilink")[村田真](../Page/村田真.md "wikilink")が共同で設計した。2001年12月に、[OASISの](https://ja.wikipedia.org/wiki/OASIS_\(組織\) "wikilink") RELAX NG 技術委員会が、RELAX NG の仕様を標準として策定した\[2\]\[3\]。2003年に、[ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/[IEC](../Page/国際電気標準会議.md "wikilink") 19757-2 ([文書スキーマ定義言語](../Page/文書スキーマ定義言語.md "wikilink") 第2部 正規文法に基づく妥当性検証) として策定された。
+**RELAX NG** （リラクシング、RELAX Next Generation） は、[マークアップ言語](../Page/マークアップ言語.md "wikilink")[XMLの](../Page/Extensible_Markup_Language.md "wikilink")[スキーマ言語](../Page/スキーマ言語.md "wikilink")の一つである。RELAX NG で記述された[スキーマは](../Page/スキーマ_\(データベース\).md "wikilink")、XML文書の構造と内容のパターンを定義する。RELAX NG で記述されたスキーマは、それ自身がXML文書である。RELAX NG でスキーマをXML文書として記述する方法を、[XML構文という](https://ja.wikipedia.org/wiki/#XML構文 "wikilink")。しかし RELAX NG では、スキーマをXML構文ではない簡潔な[短縮構文](https://ja.wikipedia.org/wiki/#短縮構文 "wikilink") (Compact Syntax) で記述することもできる\[1\]。つまり RELAX NG では、XML構文でスキーマを記述しても良いし、短縮構文でスキーマを記述しても良い。RELAX NG は、[W3C](../Page/World_Wide_Web_Consortium.md "wikilink") [XML Schema](https://ja.wikipedia.org/wiki/XML_Schema "wikilink") と比べて仕様が簡潔である。RELAX NG は、[ジェームズ・クラークと](../Page/ジェームズ・クラーク_\(ソフトウェア技術者\).md "wikilink")[村田真](../Page/村田真.md "wikilink")が共同で設計した。2001年12月に、[OASISの](../Page/OASIS_\(組織\).md "wikilink") RELAX NG 技術委員会が、RELAX NG の仕様を標準として策定した\[2\]\[3\]。2003年に、[ISO](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")/[IEC](../Page/国際電気標準会議.md "wikilink") 19757-2 ([文書スキーマ定義言語](../Page/文書スキーマ定義言語.md "wikilink") 第2部 正規文法に基づく妥当性検証) として策定された。
 
 ## 背景
 
-[マークアップ言語](../Page/マークアップ言語.md "wikilink") [SGML](../Page/Standard_Generalized_Markup_Language.md "wikilink") から使われてきた[スキーマ言語](https://ja.wikipedia.org/wiki/スキーマ言語 "wikilink")であった [DTD](../Page/Document_Type_Definition.md "wikilink") は、[XMLで使う際には](../Page/Extensible_Markup_Language.md "wikilink")、XMLの構文規則を満たしていないなど、様々な問題を有していた。そのため、[W3C](../Page/World_Wide_Web_Consortium.md "wikilink") によって [XML Schema](https://ja.wikipedia.org/wiki/XML_Schema "wikilink") が開発されたが、標準化に時間がかかり、また標準化のために巨大化・複雑化しすぎたとの批判から、独自にスキーマ言語を開発する動きが出た。
+[マークアップ言語](../Page/マークアップ言語.md "wikilink") [SGML](../Page/Standard_Generalized_Markup_Language.md "wikilink") から使われてきた[スキーマ言語](../Page/スキーマ言語.md "wikilink")であった [DTD](../Page/Document_Type_Definition.md "wikilink") は、[XMLで使う際には](../Page/Extensible_Markup_Language.md "wikilink")、XMLの構文規則を満たしていないなど、様々な問題を有していた。そのため、[W3C](../Page/World_Wide_Web_Consortium.md "wikilink") によって [XML Schema](https://ja.wikipedia.org/wiki/XML_Schema "wikilink") が開発されたが、標準化に時間がかかり、また標準化のために巨大化・複雑化しすぎたとの批判から、独自にスキーマ言語を開発する動きが出た。
 
 [村田真](../Page/村田真.md "wikilink")などの人々は、 [Regular Language description for XML](https://ja.wikipedia.org/wiki/Regular_Language_description_for_XML "wikilink") (RELAX) を開発した。[ジェームズ・クラークは](../Page/ジェームズ・クラーク_\(ソフトウェア技術者\).md "wikilink")、[TREX](https://ja.wikipedia.org/wiki/TREX "wikilink") (Tree Regular Expressions for XML) を開発した。クラークと村田は、RELAX NG を、TREX と RELAX Core に基づいて、この2つのスキーマ言語を統合する形で設計した。
 
@@ -80,7 +80,7 @@ RELAX NG の仕様は、[W3C](../Page/World_Wide_Web_Consortium.md "wikilink") [
 
 RELAX NG と W3C XML Schema は、多くの機能を共有している。この2つの現代的なスキーマ言語は、従来使われてきた[DTDとは](../Page/Document_Type_Definition.md "wikilink")、多くの面で異なっている。RELAX NG と XML Schema がともにもつ機能としては、次のようなものがある。
 
-  - 充実した[データ型](https://ja.wikipedia.org/wiki/データ型 "wikilink")
+  - 充実した[データ型](../Page/データ型.md "wikilink")
   - [正規表現](../Page/正規表現.md "wikilink")のサポート
   - [XML名前空間](https://ja.wikipedia.org/wiki/XML名前空間 "wikilink")のサポート
   - 複雑な構造の定義への参照機能
@@ -91,7 +91,7 @@ RELAX NG と W3C XML Schema は、多くの機能を共有している。この2
 
 ## 妥当性検証器の実装
 
-RELAX NG の妥当性検証器 (バリデータ) の[実装](https://ja.wikipedia.org/wiki/実装 "wikilink")として利用可能なものの一部を示す。いずれも[オープンソース](../Page/オープンソース.md "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。
+RELAX NG の妥当性検証器 (バリデータ) の[実装](../Page/実装.md "wikilink")として利用可能なものの一部を示す。いずれも[オープンソース](../Page/オープンソース.md "wikilink")の[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。
 
   - Jing - [ジェームズ・クラーク](../Page/ジェームズ・クラーク_\(ソフトウェア技術者\).md "wikilink")
 
@@ -102,7 +102,7 @@ RELAX NG の妥当性検証器 (バリデータ) の[実装](https://ja.wikipedi
 ## 関連項目
 
   - [生け垣オートマトン](https://ja.wikipedia.org/wiki/生け垣オートマトン "wikilink")
-  - [スキーマ言語](https://ja.wikipedia.org/wiki/スキーマ言語 "wikilink")
+  - [スキーマ言語](../Page/スキーマ言語.md "wikilink")
   - [Document Type Definition](../Page/Document_Type_Definition.md "wikilink") (DTD、文書型定義)
   - [Regular Language description for XML](https://ja.wikipedia.org/wiki/Regular_Language_description_for_XML "wikilink") (RELAX)
   - [TREX](https://ja.wikipedia.org/wiki/TREX "wikilink") (Tree Regular Expressions for XML)

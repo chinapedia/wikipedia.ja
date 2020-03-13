@@ -3,7 +3,7 @@
 
 **GONGON**（ゴンゴン、[1977年](../Page/1977年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - 、旧芸名：**YUTA**、本名：菅原勇太（すがはら ゆうた））は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")。[B-DASH](../Page/B-DASH.md "wikilink")の[ヴォーカリスト](https://ja.wikipedia.org/wiki/ヴォーカリスト "wikilink")兼[ギタリスト](../Page/ギタリスト.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")[大森出身](../Page/大森_\(大田区\).md "wikilink")。
 
-出身小学校は[大田区立入新井第二小学校](https://ja.wikipedia.org/wiki/大田区立入新井第二小学校 "wikilink")。また、最終学歴は[日本工学院専門学校](https://ja.wikipedia.org/wiki/日本工学院専門学校 "wikilink")。
+出身小学校は[大田区立入新井第二小学校](https://ja.wikipedia.org/wiki/大田区立入新井第二小学校 "wikilink")。また、最終学歴は[日本工学院専門学校](../Page/日本工学院専門学校.md "wikilink")。
 
 ## 家族
 
@@ -13,7 +13,7 @@
 <!-- end list -->
 
   -
-    両親と[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")ボーカル[和田唱](https://ja.wikipedia.org/wiki/和田唱 "wikilink")の両親（[和田誠](../Page/和田誠.md "wikilink")、[平野レミ](../Page/平野レミ.md "wikilink")）は、彼らが生まれる前からの友人であったと、共演したイベント「Dinosaur Rock'n'roll」（[2007年](../Page/2007年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")）で語っている。
+    両親と[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")ボーカル[和田唱](https://ja.wikipedia.org/wiki/和田唱 "wikilink")の両親（[和田誠](../Page/和田誠.md "wikilink")、[平野レミ](../Page/平野レミ.md "wikilink")）は、彼らが生まれる前からの友人であったと、共演したイベント「Dinosaur Rock'n'roll」（[2007年](../Page/2007年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")）で語っている。
 
 <!-- end list -->
 

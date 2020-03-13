@@ -10,7 +10,7 @@
 特徴としては、次の点がある。
 
   - 搬送波の[周波数](../Page/周波数.md "wikilink")間隔を30[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")（15kHzインタリーブ）と広く取り干渉耐力を大きくしている。
-  - 60°指向性[アンテナ](../Page/アンテナ.md "wikilink")を使用しセルを6セクタに分割し、周波数帯域の繰り返し利用効率の向上と、[空中線電力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink")の有効利用を図っている。
+  - 60°指向性[アンテナ](../Page/アンテナ.md "wikilink")を使用しセルを6セクタに分割し、周波数帯域の繰り返し利用効率の向上と、[空中線電力](../Page/空中線電力.md "wikilink")の有効利用を図っている。
 
 この他アナログ方式共通の特徴として、
 
@@ -24,7 +24,7 @@
 
 ## TACS
 
-**TACS**（Total Access Communication System）は、AMPSを[英国向けに](https://ja.wikipedia.org/wiki/イギリス "wikilink")、搬送波の周波数間隔を25kHz（12.5kHzインタリーブ）にし、[1984年](../Page/1984年.md "wikilink")～[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に開発したものである。[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[スイス](../Page/スイス.md "wikilink")・[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[中国](../Page/中華人民共和国.md "wikilink")・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[アフリカ](../Page/アフリカ.md "wikilink")の一部で採用されていた。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")現在、デジタル方式へ置き換えが進行している。
+**TACS**（Total Access Communication System）は、AMPSを[英国向けに](https://ja.wikipedia.org/wiki/イギリス "wikilink")、搬送波の周波数間隔を25kHz（12.5kHzインタリーブ）にし、[1984年](../Page/1984年.md "wikilink")～[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")に開発したものである。[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[スイス](../Page/スイス.md "wikilink")・[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")・[中国](../Page/中華人民共和国.md "wikilink")・[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")・[アフリカ](../Page/アフリカ.md "wikilink")の一部で採用されていた。[2005年](../Page/2005年.md "wikilink")現在、デジタル方式へ置き換えが進行している。
 
 ## 日本
 

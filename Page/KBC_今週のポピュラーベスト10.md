@@ -1,7 +1,7 @@
 > この記事は[KBC 10](https://ja.wikipedia.org/wiki/KBC_10)から翻訳されています。
 
 
-**KBC 今週のポピュラーベスト10**（ケービーシー こんしゅうのポピュラーベストテン）は、[1967年](../Page/1967年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")3月まで[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")で44年間放送されていた夜の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。
+**KBC 今週のポピュラーベスト10**（ケービーシー こんしゅうのポピュラーベストテン）は、[1967年](../Page/1967年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")3月まで[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")で44年間放送されていた夜の[音楽番組](../Page/音楽番組.md "wikilink")である。
 
 番組コンセプトは『[富田薫の洋楽天国](https://ja.wikipedia.org/wiki/富田薫の洋楽天国 "wikilink")』に受け継がれた。
 
@@ -13,7 +13,7 @@
 
   - [松井伸一](../Page/松井伸一.md "wikilink")（初代）
   - [富田薫](../Page/富田薫.md "wikilink")（2代目）　
-  - [木村匡也](https://ja.wikipedia.org/wiki/木村匡也 "wikilink")（3代目）
+  - [木村匡也](../Page/木村匡也.md "wikilink")（3代目）
   - [巽孝之](../Page/巽孝之_\(アナウンサー\).md "wikilink")（4代目）
   - [逸見明正](https://ja.wikipedia.org/wiki/逸見明正 "wikilink")（5代目）
   - [宮本けいすけ](../Page/宮本啓丞.md "wikilink")（6代目）

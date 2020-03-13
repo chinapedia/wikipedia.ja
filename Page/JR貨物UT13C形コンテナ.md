@@ -10,13 +10,13 @@
   - 5001 - 5003
     [日陸](https://ja.wikipedia.org/wiki/日陸 "wikilink")所有、三菱化成（現・[三菱ケミカル](https://ja.wikipedia.org/wiki/三菱ケミカル "wikilink")）借用、危険物汎用。
   - 5004 - 5010、5025
-    菱成産業（現・[三菱ケミカル物流](https://ja.wikipedia.org/wiki/三菱ケミカル物流 "wikilink")）所有、危険物汎用。
+    菱成産業（現・[三菱ケミカル物流](../Page/三菱ケミカル物流.md "wikilink")）所有、危険物汎用。
   - 5011 - 5014
     日陸所有（三菱ケミカル物流借受）、危険物汎用。
   - 5015 - 5019, 5026, 5027
-    日陸所有（[旭化成](../Page/旭化成.md "wikilink")借用）[アセトニトリル](https://ja.wikipedia.org/wiki/アセトニトリル "wikilink")専用。
+    日陸所有（[旭化成](../Page/旭化成.md "wikilink")借用）[アセトニトリル](../Page/アセトニトリル.md "wikilink")専用。
   - 5020, 5021
-    [日本石油輸送](../Page/日本石油輸送.md "wikilink")所有、[アクリロニトリル](https://ja.wikipedia.org/wiki/アクリロニトリル "wikilink")専用。
+    [日本石油輸送](../Page/日本石油輸送.md "wikilink")所有、[アクリロニトリル](../Page/アクリロニトリル.md "wikilink")専用。
   - 5022, 5024
     三菱化成（現・三菱ケミカル）所有、化成物流（現・三菱ケミカル物流）借用、危険物汎用。
   - 5028
@@ -53,18 +53,18 @@
     日陸所有、四塩化珪素専用。全高2591mm（規格外）、最大総重量24.0t（規格外）。コキ100系積載限定。
   - 8023 - 8025
     日陸所有、[液化塩素専用](../Page/塩素.md "wikilink")。全高2591mm（規格外）、最大総重量24.0t（規格外）、自重7.15t。
-    [南延岡駅](https://ja.wikipedia.org/wiki/南延岡駅 "wikilink") - [北九州貨物ターミナル駅](https://ja.wikipedia.org/wiki/北九州貨物ターミナル駅 "wikilink")間専用。[コキ200形](../Page/JR貨物コキ200形貨車.md "wikilink")・[コキ106形専用](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車#コキ106形 "wikilink")。
+    [南延岡駅](https://ja.wikipedia.org/wiki/南延岡駅 "wikilink") - [北九州貨物ターミナル駅](../Page/北九州貨物ターミナル駅.md "wikilink")間専用。[コキ200形](../Page/JR貨物コキ200形貨車.md "wikilink")・[コキ106形専用](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車#コキ106形 "wikilink")。
   - 8026 - 8028
     東北東ソー化学所有、[液化塩素専用](../Page/塩素.md "wikilink")。全高2591mm（規格外）、最大総重量24.0t（規格外）、自重7.15t。
-    [秋田貨物駅](../Page/秋田貨物駅.md "wikilink") - [八戸貨物駅](https://ja.wikipedia.org/wiki/八戸貨物駅 "wikilink")間専用。[コキ200形](../Page/JR貨物コキ200形貨車.md "wikilink")・[コキ106形専用](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車#コキ106形 "wikilink")。
+    [秋田貨物駅](../Page/秋田貨物駅.md "wikilink") - [八戸貨物駅](../Page/八戸貨物駅.md "wikilink")間専用。[コキ200形](../Page/JR貨物コキ200形貨車.md "wikilink")・[コキ106形専用](https://ja.wikipedia.org/wiki/JR貨物コキ100系貨車#コキ106形 "wikilink")。
   - 8029 - 8066
-    [三菱ケミカル物流](https://ja.wikipedia.org/wiki/三菱ケミカル物流 "wikilink")所有、[濃硝酸専用](../Page/硝酸.md "wikilink")。最大総重量24.0t（規格外）、コキ50000積載禁止。コキ100～105系積載禁止。
+    [三菱ケミカル物流](../Page/三菱ケミカル物流.md "wikilink")所有、[濃硝酸専用](../Page/硝酸.md "wikilink")。最大総重量24.0t（規格外）、コキ50000積載禁止。コキ100～105系積載禁止。
 
 [UT13C-8068.jpg](https://ja.wikipedia.org/wiki/File:UT13C-8068.jpg "fig:UT13C-8068.jpg")
 
   - 8067 - 8070
     日陸所有、[液化塩素専用](../Page/塩素.md "wikilink")。全高2591mm（規格外）、最大総重量24.0t（規格外）、自重7.15t。
-    [南延岡駅](https://ja.wikipedia.org/wiki/南延岡駅 "wikilink") - [北九州貨物ターミナル駅](https://ja.wikipedia.org/wiki/北九州貨物ターミナル駅 "wikilink")間専用。コキ50000積載禁止。コキ100～105系積載禁止。
+    [南延岡駅](https://ja.wikipedia.org/wiki/南延岡駅 "wikilink") - [北九州貨物ターミナル駅](../Page/北九州貨物ターミナル駅.md "wikilink")間専用。コキ50000積載禁止。コキ100～105系積載禁止。
 
 ### 28000番台
 

@@ -15,7 +15,7 @@
 
 <!-- end list -->
 
-  - [麻生しおり](https://ja.wikipedia.org/wiki/麻生しおり "wikilink")（[歌手](../Page/歌手.md "wikilink")。但し、交通機関の乱れやコンサート等営業で出演しない週がある　1996年4月～）
+  - [麻生しおり](../Page/麻生しおり.md "wikilink")（[歌手](../Page/歌手.md "wikilink")。但し、交通機関の乱れやコンサート等営業で出演しない週がある　1996年4月～）
   - [夏目浩光](../Page/夏目浩光.md "wikilink")（2009年3月までRABアナウンサー、同年4月よりラジオ制作部のディレクターに異動となった為、月曜日のみのパーソナリティ。2006年9月までは木曜も、2009年3月までは火曜・水曜も担当　1995年4月～）
 
 <!-- end list -->
@@ -24,7 +24,7 @@
 
 <!-- end list -->
 
-  - [青山英次](https://ja.wikipedia.org/wiki/青山英次 "wikilink")
+  - [青山英次](../Page/青山英次.md "wikilink")
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [青山英次](https://ja.wikipedia.org/wiki/青山英次 "wikilink")（2014年4月2日から）
+  - [青山英次](../Page/青山英次.md "wikilink")（2014年4月2日から）
   - 小林貴子（[気象予報士](../Page/気象予報士.md "wikilink")･[防災士](../Page/防災士.md "wikilink")、[アップルウェザー](https://ja.wikipedia.org/wiki/アップルウェザー "wikilink")所属）
 
 <!-- end list -->
@@ -49,17 +49,17 @@
 
 <!-- end list -->
 
-  - [野坂真理](https://ja.wikipedia.org/wiki/野坂真理 "wikilink")
+  - [野坂真理](../Page/野坂真理.md "wikilink")
 
 ### ラジオカーリポーター
 
-  - 月曜～水曜：[成田洋明](https://ja.wikipedia.org/wiki/成田洋明 "wikilink")（2012年10月1日から）
+  - 月曜～水曜：[成田洋明](../Page/成田洋明.md "wikilink")（2012年10月1日から）
   - 木曜：[上野比呂企](https://ja.wikipedia.org/wiki/上野比呂企 "wikilink")（2014年4月3日から）
   - 金曜：[オスカル](https://ja.wikipedia.org/wiki/オスカル_\(タレント\) "wikilink")・[たいぞう](https://ja.wikipedia.org/wiki/佐々木泰三 "wikilink")（シンガーソングアーティスト）
 
-### [日本原燃](https://ja.wikipedia.org/wiki/日本原燃 "wikilink")サイクル情報センター公開生放送担当
+### [日本原燃](../Page/日本原燃.md "wikilink")サイクル情報センター公開生放送担当
 
-  - 毎月第2水曜日に[青森市役所](https://ja.wikipedia.org/wiki/青森市役所 "wikilink")向かいの[日本原燃](https://ja.wikipedia.org/wiki/日本原燃 "wikilink")サイクル情報センターからの公開生放送を実施。
+  - 毎月第2水曜日に[青森市役所](https://ja.wikipedia.org/wiki/青森市役所 "wikilink")向かいの[日本原燃](../Page/日本原燃.md "wikilink")サイクル情報センターからの公開生放送を実施。
   - [伊東幸子](../Page/伊東幸子.md "wikilink")
   - [桒子英里](https://ja.wikipedia.org/wiki/桑子英里 "wikilink")
 
@@ -69,7 +69,7 @@
 
   - [高森邦夫](https://ja.wikipedia.org/wiki/高森邦夫 "wikilink")（1976年3月まで）
   - [蔦谷信弘](https://ja.wikipedia.org/wiki/蔦谷信弘 "wikilink")（月 - 木、1976年4月から）
-  - [鈴木伸夫](https://ja.wikipedia.org/wiki/鈴木伸夫 "wikilink")（金、1976年4月から）
+  - [鈴木伸夫](../Page/鈴木伸夫.md "wikilink")（金、1976年4月から）
   - [森山茂樹](https://ja.wikipedia.org/wiki/森山茂樹 "wikilink")（月 - 水、1982年4月 - 1983年9月）
   - [大竹辰也](https://ja.wikipedia.org/wiki/大竹辰也 "wikilink")（1981年当時月 - 金 → 1982年当時木・金 → 月・火、1983年10月 - 1988年3月／金、1990年4月 - 1991年3月／金、1994年4月 - 1994年9月 → 月・金、1994年10月 - ）
   - [綱川和夫](../Page/綱川和夫.md "wikilink")（水 - 金、1983年10月 - 1988年3月／火、1994年10月 - ）
@@ -79,9 +79,9 @@
   - [足立美音](https://ja.wikipedia.org/wiki/足立美音 "wikilink")（月、1990年4月 - 1991年3月）
   - [笹森亜貴子](https://ja.wikipedia.org/wiki/笹森亜貴子 "wikilink")（火、1990年4月 - 1991年3月）
   - [窪寺美穂子](https://ja.wikipedia.org/wiki/窪寺美穂子 "wikilink")（水、1990年4月 - 1991年3月 → 木・金、1991年4月 - 1992年3月）
-  - [大友寿郎](https://ja.wikipedia.org/wiki/大友寿郎 "wikilink")（木、1990年4月 - 1991年3月）
+  - [大友寿郎](../Page/大友寿郎.md "wikilink")（木、1990年4月 - 1991年3月）
   - [二川原聡子](https://ja.wikipedia.org/wiki/二川原聡子 "wikilink")（木・金、1990年4月 - 1991年3月）
-  - [米澤章子](https://ja.wikipedia.org/wiki/米澤章子 "wikilink")（月 - 水、1991年4月 - ）
+  - [米澤章子](../Page/米澤章子.md "wikilink")（月 - 水、1991年4月 - ）
   - [岡田照幸](https://ja.wikipedia.org/wiki/岡田照幸 "wikilink")（月 - 金、1992年4月 - → 月 - 木、1994年4月 - → 水・木、1994年10月 - 1995年3月）
   - [秋山博子](../Page/秋山博子.md "wikilink")（1992年4月 - ）
   - [中野陽子](https://ja.wikipedia.org/wiki/中野陽子 "wikilink")（1992年4月 - → 金、1994年4月 - 1994年9月）
@@ -91,11 +91,11 @@
   - [松尾志織](https://ja.wikipedia.org/wiki/松尾志織 "wikilink")（1995年4月 - ）
   - [工藤美緒子](https://ja.wikipedia.org/wiki/工藤美緒子 "wikilink")（旧姓・川村）（1995年10月 - ）
   - [原口太平](https://ja.wikipedia.org/wiki/原口太平 "wikilink")（2000年 - 2001年当時、木・金担当）
-  - [古池雄](https://ja.wikipedia.org/wiki/古池雄 "wikilink")
+  - [古池雄](../Page/古池雄.md "wikilink")
   - [田代あおい](https://ja.wikipedia.org/wiki/田代あおい "wikilink")
-  - [後藤美穂子](https://ja.wikipedia.org/wiki/後藤美穂子 "wikilink")
+  - [後藤美穂子](../Page/後藤美穂子.md "wikilink")
   - [山内千代子](https://ja.wikipedia.org/wiki/山内千代子_\(アナウンサー\) "wikilink")
-  - [鮫島大史](https://ja.wikipedia.org/wiki/鮫島大史 "wikilink")
+  - [鮫島大史](../Page/鮫島大史.md "wikilink")
   - [田村啓美](../Page/田村啓美.md "wikilink")（1994年4月から（月 - 木）→ 2014年3月26日まで、水曜担当）
 
 #### その他
@@ -103,13 +103,13 @@
   - [福村千賀子](https://ja.wikipedia.org/wiki/福村千賀子 "wikilink")（1981年当時レポーター）
   - [下田博次](../Page/下田博次.md "wikilink")（1996年4月から出演）
   - [田中次郎](https://ja.wikipedia.org/wiki/田中次郎_\(アナウンサー\) "wikilink")（木曜・又兵衛のコーナーに不定期出演、通称・小又兵衛）
-  - [亀井薫](https://ja.wikipedia.org/wiki/亀井薫 "wikilink")（水曜「お天気追跡隊」に出演）
+  - [亀井薫](../Page/亀井薫.md "wikilink")（水曜「お天気追跡隊」に出演）
   - [外崎由希子](../Page/外崎由希子.md "wikilink")（同上）
   - 斎藤次郎（水曜14時台「めだかの学校」パーソナリティ。[2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink")水曜には約6年ぶりに番組に出演）
   - さとうひでき（火曜14時枠のパーソナリティ）
   - [金谷年展](https://ja.wikipedia.org/wiki/金谷年展 "wikilink")（2001年4月から出演）
-  - [けんずろう](https://ja.wikipedia.org/wiki/けんずろう "wikilink")（金曜「中小企業応援隊」に出演）
-  - [矢羽々恵匡](https://ja.wikipedia.org/wiki/矢羽々恵匡 "wikilink")（木曜「ラジオ雑貨店」第2週の中継担当）
+  - [けんずろう](../Page/けんずろう.md "wikilink")（金曜「中小企業応援隊」に出演）
+  - [矢羽々恵匡](../Page/矢羽々恵匡.md "wikilink")（木曜「ラジオ雑貨店」第2週の中継担当）
   - [菅原厚](https://ja.wikipedia.org/wiki/菅原厚 "wikilink")（同上、2009年3月まで）
   - [秋山博子](../Page/秋山博子.md "wikilink")（金曜3時のケーキタイムのみ出演）
   - 山谷真由美（後にサタデー夢ラジオの青森ラジオカーレポーターを担当した）
@@ -143,7 +143,7 @@
 
 ### 11:55〜12:00　
 
-  - [TODAYファースト](https://ja.wikipedia.org/wiki/ランチリクエスト "wikilink")（[NRNの](../Page/全国ラジオネットワーク.md "wikilink")[企画ネット番組](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")。前身の[お昼はいただきミュージックランチ](https://ja.wikipedia.org/wiki/お昼はいただきミュージックランチ "wikilink")の「ランチファースト」を引き継ぐ形）
+  - [TODAYファースト](../Page/ランチリクエスト.md "wikilink")（[NRNの](../Page/全国ラジオネットワーク.md "wikilink")[企画ネット番組](../Page/企画ネット番組.md "wikilink")。前身の[お昼はいただきミュージックランチ](../Page/お昼はいただきミュージックランチ.md "wikilink")の「ランチファースト」を引き継ぐ形）
       - 月曜（主に麻生と夏目のトーク）を除き日替わりの楽曲を流した後、当日の番組内容を短く紹介。
       - オープニング音楽はここでは流さず、12時台冒頭で流す。
 
@@ -152,7 +152,7 @@
 カウキャッチャー相当枠として「\[2\]パチンコライジンググループ」のCMが流れる。
 
   - オープニング・ラジオカーリポート
-  - [東奥日報ニュース](https://ja.wikipedia.org/wiki/東奥日報ニュース "wikilink")・天気予報
+  - [東奥日報ニュース](../Page/東奥日報ニュース.md "wikilink")・天気予報
   - プッシュプッシュプッシュ\[3\]
       - （月～水）おすすめ曲／カラオケベストテン（木）／邦楽チャート（金）
       - 月～水は各担当パーソナリティがセレクトした曲を紹介。木曜は[第一興商](../Page/第一興商.md "wikilink")[DAMで歌われたランキングを](../Page/DAM_\(カラオケ\).md "wikilink")、金曜は[邦楽](../Page/邦楽.md "wikilink")ランキング。県内のCDショップの売上げから決定したRABオリジナル邦楽チャートトップ20を紹介する。
@@ -163,30 +163,30 @@
 
 『お昼はいただきミュージックランチ』時代より長めに（フルコーラスが多い）曲を流している。12時台に流れなかった分を補完する為、13時台後半、15時台にもリクエストを紹介する。
 
-以上は『お昼はいただきミュージックランチ』から引き継がれたコーナー。 なお、前身の「お昼は…」から実施している[青森市役所](https://ja.wikipedia.org/wiki/青森市役所 "wikilink")向かいの[日本原燃](https://ja.wikipedia.org/wiki/日本原燃 "wikilink")サイクル情報センターからの公開生放送を継続する（4月～9月は1ヶ月に一回、10月～3月迄は2ヶ月に一回のペース、第2水曜） 担当アナ:[伊東幸子](../Page/伊東幸子.md "wikilink")、[桒子英里](https://ja.wikipedia.org/wiki/桒子英里 "wikilink")
+以上は『お昼はいただきミュージックランチ』から引き継がれたコーナー。 なお、前身の「お昼は…」から実施している[青森市役所](https://ja.wikipedia.org/wiki/青森市役所 "wikilink")向かいの[日本原燃](../Page/日本原燃.md "wikilink")サイクル情報センターからの公開生放送を継続する（4月～9月は1ヶ月に一回、10月～3月迄は2ヶ月に一回のペース、第2水曜） 担当アナ:[伊東幸子](../Page/伊東幸子.md "wikilink")、[桒子英里](https://ja.wikipedia.org/wiki/桒子英里 "wikilink")
 
 #### ネットコーナー
 
-  - [トヨタ街角ステーション](https://ja.wikipedia.org/wiki/トヨタ街角ステーション "wikilink")（木曜・NRN[企画ネット番組](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")）、（木曜12:50頃）
+  - [トヨタ街角ステーション](../Page/トヨタ街角ステーション.md "wikilink")（木曜・NRN[企画ネット番組](../Page/企画ネット番組.md "wikilink")）、（木曜12:50頃）
 
 ### 13時台
 
   - ニュース
-      - 00分のニュースは[東奥日報ニュース](https://ja.wikipedia.org/wiki/東奥日報ニュース "wikilink")。
+      - 00分のニュースは[東奥日報ニュース](../Page/東奥日報ニュース.md "wikilink")。
       - 30分頃のニュースはRABニュース。尚、2008年9月26日まで番組開始時間だった名残でタイトルが無かった。因みに、13時30分頃のニュースは、元々「あおもりTODAY」は14時台開始であったため、14時台のニュースの役割りであった。
       - 13時30分頃のRABニュースは通常MCが担当するが、金曜MCの野坂はアナウンサーではないこともあり、RABのアナウンサーが担当する。
 
 （2012年10月1日から通年放送）
 
-  - [大相撲をより面白く観る方法](https://ja.wikipedia.org/wiki/大相撲をより面白く観る方法 "wikilink")（13時15分頃・「あおもりTODAY」の時間短縮に伴い、15時20分から移動。）
+  - [大相撲をより面白く観る方法](../Page/大相撲をより面白く観る方法.md "wikilink")（13時15分頃・「あおもりTODAY」の時間短縮に伴い、15時20分から移動。）
   - [はいうぇい人街ネット青森](https://ja.wikipedia.org/wiki/はいうぇい_人街ネット "wikilink")（金曜13時20分頃）
 
 #### 通年放送
 
 （2006年10月から通年放送）
 
-  - 天気予報・交通情報（2008年10月から、[マルハン](https://ja.wikipedia.org/wiki/マルハン "wikilink")の1社提供による「マルハン お天気&交通情報」として放送）
-  - [びゅうプラザ](https://ja.wikipedia.org/wiki/びゅうプラザ "wikilink")トラベル情報(2008年9月26日までは｢[JR情報](../Page/東日本旅客鉄道.md "wikilink")｣として放送)
+  - 天気予報・交通情報（2008年10月から、[マルハン](../Page/マルハン.md "wikilink")の1社提供による「マルハン お天気&交通情報」として放送）
+  - [びゅうプラザ](../Page/びゅうプラザ.md "wikilink")トラベル情報(2008年9月26日までは｢[JR情報](../Page/東日本旅客鉄道.md "wikilink")｣として放送)
       - 内容は、列車の[指定席空席情報とお得な旅情報を紹介する](https://ja.wikipedia.org/wiki/座席指定席#国鉄・JR "wikilink")。
   - はぴねすくらぶラジオショッピング（月曜・13時40分頃）
   - エコアライブいきいき健康ショッピング（火曜、金曜・13時40分頃）
@@ -202,8 +202,8 @@
 
 #### ネットコーナー（2006年10月2日より）
 
-  - [ドライバーズ・リクエスト](https://ja.wikipedia.org/wiki/ドライバーズ・リクエスト "wikilink")（[TBSラジオ&コミュニケーションズ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
-  - [日本列島ほっと通信](https://ja.wikipedia.org/wiki/日本列島ほっと通信 "wikilink")（同上）
+  - [ドライバーズ・リクエスト](../Page/ドライバーズ・リクエスト.md "wikilink")（[TBSラジオ&コミュニケーションズ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
+  - [日本列島ほっと通信](../Page/日本列島ほっと通信.md "wikilink")（同上）
       - なお、上記2番組は、2006年9月29日まで独立番組だった。
       - ｢日本列島ほっと通信｣で月末に放送される「各局アナウンサー60秒対決」において、青森県からの対決がある場合は、放送される曜日の担当MCが登場した。
 
@@ -289,7 +289,7 @@
   - [ニューヨーク](../Page/ニューヨーク.md "wikilink")情報 → 海外ホット情報 → [ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")・[ハバロフスク](../Page/ハバロフスク.md "wikilink")情報（金曜・1992年～）
   - 魅惑のヒットパレード（1992年から）
   - 週末情報（「人生よもやまばなし」「温泉めぐり」など）（金曜・1993年4月～）
-  - [アスパム情報館](https://ja.wikipedia.org/wiki/青森県観光物産館アスパム "wikilink")（木曜・1993年4月～）
+  - [アスパム情報館](../Page/青森県観光物産館アスパム.md "wikilink")（木曜・1993年4月～）
   - 笑って\!許して\!武勇伝\!\!（金曜・1994年4月～）
   - おっかけ倶楽部（火曜・1994年10月～）
   - ラジオ伝言板
@@ -317,7 +317,7 @@
 
 #### ネットコーナー
 
-  - [サウンドトラベル](https://ja.wikipedia.org/wiki/サウンドトラベル "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")・2008年度から2012年度の夏季編成時のみ）
+  - [サウンドトラベル](../Page/サウンドトラベル.md "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")・2008年度から2012年度の夏季編成時のみ）
 
 ### 内包から外れたコーナー
 

@@ -9,11 +9,11 @@
 
 しかし、いわゆる「変身ヒーロー」が活躍する子供向け特撮アクションドラマが、作品の乱立によって衰退に向かいつつあった当時の状況下、『イナズマン』もスタッフの意気込みとは逆に低視聴率に苦しんだことから、本作は『イナズマン』とは大きく方向性を変えている。
 
-方向性変更の中心となったのは、東映側のサブプロデューサーだった[加藤貢](../Page/加藤貢.md "wikilink")である。これがプロデューサーとして最初の作品だった加藤は、低視聴率の原因やその打開策について、助監督の[長石多可男](https://ja.wikipedia.org/wiki/長石多可男 "wikilink")をはじめとする若手スタッフとの間で意見を交換していた。折りしも、チーフプロデューサーの[平山亨](https://ja.wikipedia.org/wiki/平山亨 "wikilink")は他の番組も抱えており、先任サブプロデューサー（実質的にはチーフ）だった井上雅央も第2クール終了後他番組に移動したため、平山は加藤に『イナズマン』を任せることにした。
+方向性変更の中心となったのは、東映側のサブプロデューサーだった[加藤貢](../Page/加藤貢.md "wikilink")である。これがプロデューサーとして最初の作品だった加藤は、低視聴率の原因やその打開策について、助監督の[長石多可男](../Page/長石多可男.md "wikilink")をはじめとする若手スタッフとの間で意見を交換していた。折りしも、チーフプロデューサーの[平山亨](../Page/平山亨.md "wikilink")は他の番組も抱えており、先任サブプロデューサー（実質的にはチーフ）だった井上雅央も第2クール終了後他番組に移動したため、平山は加藤に『イナズマン』を任せることにした。
 
 加藤が最初に着手したのは、設定の変更である。すでにイナズマンこと渡五郎のバックボーンであった「少年同盟」は、原作設定を活かし切ることなくフェイドアウトしていたが、『F』では、第2クールまでのレギュラーだった大木姉弟や丸目豪作ともども完全にカット。サナギマンや愛車・ライジンゴーの登場場面も極力減らした。代わって、妻子を敵組織・デスパー軍団に拉致されているという設定を持つインターポール捜査官・荒井誠が五郎のサポーターとして登場。[日活](../Page/日活.md "wikilink")で[鈴木清順](../Page/鈴木清順.md "wikilink")に悪役の素質を見出され、キャリアを積んでいた[上野山功一](../Page/上野山功一.md "wikilink")が荒井役に起用された。こうしたヒロインも主人公の弟的存在の子供レギュラーも排除され、主人公と相棒の男性キャラクターを中心とした展開は前作の『イナズマン』の中盤以降ですでに試みられており、五郎と豪作の2人だけしか登場しないエピソードが多く作られた。しかし、『イナズマン』のレギュラーヒロインだった大木サトコが削除されたことで五郎と荒井の2人を中心とした、ヒロインも子供もいない男臭い雰囲気になるのは加藤らスタッフも辛かったらしく、初期の時点で女性ゲストを頻繁に登場させるようになった。
 
-スタッフ面でも、硬派のエピソードを数多く書いていた[上原正三](../Page/上原正三.md "wikilink")をメインライターに、新人監督ながらアーティスト志向が強く、 [ATG](../Page/日本アート・シアター・ギルド.md "wikilink") ファンの加藤とはウマが合った塚田正煕をメイン監督に据えるなど監督・脚本陣を大きく刷新した。この結果、『イナズマンF』は、[強制収容所](../Page/強制収容所.md "wikilink")を思わせる実験都市・デスパー・シティを擁し、[サイボーグ](../Page/サイボーグ.md "wikilink")による独裁国家を企図するデスパーと、これに対峙し、デスパーの打倒とデスパー・シティ市民の解放を目指す五郎・荒井の「たった2人の[レジスタンス](https://ja.wikipedia.org/wiki/レジスタンス運動 "wikilink")」を軸とするドラマを前面に押し立てることになった。
+スタッフ面でも、硬派のエピソードを数多く書いていた[上原正三](../Page/上原正三.md "wikilink")をメインライターに、新人監督ながらアーティスト志向が強く、 [ATG](../Page/日本アート・シアター・ギルド.md "wikilink") ファンの加藤とはウマが合った塚田正煕をメイン監督に据えるなど監督・脚本陣を大きく刷新した。この結果、『イナズマンF』は、[強制収容所](../Page/強制収容所.md "wikilink")を思わせる実験都市・デスパー・シティを擁し、[サイボーグ](../Page/サイボーグ.md "wikilink")による独裁国家を企図するデスパーと、これに対峙し、デスパーの打倒とデスパー・シティ市民の解放を目指す五郎・荒井の「たった2人の[レジスタンス](../Page/レジスタンス運動.md "wikilink")」を軸とするドラマを前面に押し立てることになった。
 
 新体制の下で、主演の[伴直弥をはじめとするキャストや](../Page/伴大介.md "wikilink")、加藤、上原、塚田を中心とするスタッフは「自分たちの作りたい・演じたいドラマ」作りに力を注いだ。加藤貢は後に、「プロデューサーとして一年目で、ひょっとしたら生涯最高の作品を作ってしまったのかもしれません。[鳥居恵子](../Page/鳥居恵子.md "wikilink")に出演交渉したときのような情熱は、今の自分にはもうありませんね。」と述懐している。
 
@@ -90,7 +90,7 @@
     第12話から登場。デスパー・シティの市長を務め、親衛隊を率いてカレンを警護している。ウデスパー、ウデスパー兄弟より上位の地位にあるらしい。合体ウデスパー死亡後はデスパー軍団の新参謀となる。頭部に多数の角を有しており、十字状の眼からは催眠光線を放つ。胸の装甲を左右に開き、その中に敵を挟み込んで装甲側にある刺で刺し殺す。正攻法の作戦を好んだウデスパーやウデスパー兄弟と異なり、イナズマンを精神的に追い込んだり、殺し屋や麻薬を利用するなど搦め手の作戦を行なう。最終話でゼーバーイナズマンフラッシュの直撃を受けて爆散した。
     サデスパーという名前は**[サディスト](https://ja.wikipedia.org/wiki/サディスト "wikilink")・デスパー**の略称である。
   - 村野ユキ
-    第12話に登場したデスパーの女幹部で、認識番号は8001。ガイゼルへの忠誠の証としてサイボーグ手術を受け、最高幹部の会議に同席できるほどの信頼を得ているが、実はデスパー・シティの市民たちによる[レジスタンス活動のリーダー](https://ja.wikipedia.org/wiki/レジスタンス運動 "wikilink")。彼らの「救世主」イナズマンこと渡五郎と荒井をデスパー・シティ内部に手引きする。五郎たちに関する情報をデスパーへとリークした実弟・ヨシオを射殺後、戦闘で体内のダイオードを損傷した荒井に自らのダイオードを与えたうえ、おびき出したウデスパー兄弟を道連れに爆死した。
+    第12話に登場したデスパーの女幹部で、認識番号は8001。ガイゼルへの忠誠の証としてサイボーグ手術を受け、最高幹部の会議に同席できるほどの信頼を得ているが、実はデスパー・シティの市民たちによる[レジスタンス活動のリーダー](../Page/レジスタンス運動.md "wikilink")。彼らの「救世主」イナズマンこと渡五郎と荒井をデスパー・シティ内部に手引きする。五郎たちに関する情報をデスパーへとリークした実弟・ヨシオを射殺後、戦闘で体内のダイオードを損傷した荒井に自らのダイオードを与えたうえ、おびき出したウデスパー兄弟を道連れに爆死した。
   - レッドクイン
     第18話に登場した女[スナイパー](https://ja.wikipedia.org/wiki/スナイパー "wikilink")で、本名は飛鳥夕子。
     過去にデスパーによって両親や住んでいた村の人々を殺されており、その復讐を誓った。ガイゼルに近づくために、村の生き残りで唯一の友人である哲也を殺し、サデスパーの信頼を得る。渡五郎の暗殺を命じられた際、超能力者に苦痛を与える「死のメロディ」を利用して狙撃しようとするが失敗。五郎に手を引くように言われるが、自身の手でガイゼルを殺すことにこだわり、最後はデスパーの銃撃を浴びた。しかし、死の間際に放った銃弾はガイゼルの右耳を削ぎ落とした。
@@ -125,7 +125,7 @@
   - ウデスパー / ウデスパーβ、サデスパー - [岩名雅記](../Page/岩名雅記.md "wikilink")
   - ウデスパーα - [渡部猛](../Page/渡部猛.md "wikilink")
   - 合体ウデスパー - [和田周](../Page/和田周.md "wikilink")
-  - ナレーター - [村越伊知郎](https://ja.wikipedia.org/wiki/村越伊知郎 "wikilink")
+  - ナレーター - [村越伊知郎](../Page/村越伊知郎.md "wikilink")
 
 ### 主なゲスト
 
@@ -165,7 +165,7 @@
   - デスパー科学者A - 山口譲（第13話）
   - 小野良江 - [戸島一実](../Page/北原和美.md "wikilink")（第14話）
   - 高田幸一 - 佐瀬陽一（第14話）
-  - 高田幸治 - [西川和孝](https://ja.wikipedia.org/wiki/西川和孝 "wikilink")（第14話）
+  - 高田幸治 - [西川和孝](../Page/西川和孝.md "wikilink")（第14話）
   - 山田 - [岩上瑛](https://ja.wikipedia.org/wiki/岩上瑛 "wikilink")（第15話）
   - 医者（サデスパー） - 神田正夫（第15話）
   - 山沢由美 - 米田美枝子（第15話）
@@ -196,13 +196,13 @@
 ## スタッフ
 
   - 原作 - [石森章太郎](../Page/石ノ森章太郎.md "wikilink")
-  - プロデューサー - 荻野隆史 （NET） 、[平山亨](https://ja.wikipedia.org/wiki/平山亨 "wikilink")、[加藤貢](../Page/加藤貢.md "wikilink")
-  - 脚本 - [上原正三](../Page/上原正三.md "wikilink")、[高久進](../Page/高久進.md "wikilink")、平山公夫、[島田真之](https://ja.wikipedia.org/wiki/島田真之 "wikilink")、峰沢脩（塚田正熙）、さとうかずゆき、楢岡八郎、[長石多可男](https://ja.wikipedia.org/wiki/長石多可男 "wikilink")、[曽田博久](../Page/曽田博久.md "wikilink")、山田哲久、山崎久（田口勝彦）
+  - プロデューサー - 荻野隆史 （NET） 、[平山亨](../Page/平山亨.md "wikilink")、[加藤貢](../Page/加藤貢.md "wikilink")
+  - 脚本 - [上原正三](../Page/上原正三.md "wikilink")、[高久進](../Page/高久進.md "wikilink")、平山公夫、[島田真之](https://ja.wikipedia.org/wiki/島田真之 "wikilink")、峰沢脩（塚田正熙）、さとうかずゆき、楢岡八郎、[長石多可男](../Page/長石多可男.md "wikilink")、[曽田博久](../Page/曽田博久.md "wikilink")、山田哲久、山崎久（田口勝彦）
   - 撮影 - 原秀夫（プロダクション・ショット）
   - 助監督 - 長石多可男、平山公夫
   - 音楽 - [渡辺宙明](../Page/渡辺宙明.md "wikilink")
   - 演奏 - あんだんて
-  - 仕上制作 - [映広](https://ja.wikipedia.org/wiki/映広 "wikilink")音響
+  - 仕上制作 - [映広](../Page/映広.md "wikilink")音響
   - 録音 - 太田克己
   - 編集 - 武中昭世、[菅野順吉](https://ja.wikipedia.org/wiki/菅野順吉 "wikilink")
   - 特撮 - [村上克司](../Page/村上克司.md "wikilink")、星野行彦、[八木功](https://ja.wikipedia.org/wiki/八木功 "wikilink")ほか
@@ -241,7 +241,7 @@
 
 :; 「揮えゼーバーイナズマン」（第4話）
 
-:: 作詞 - [田中守](https://ja.wikipedia.org/wiki/平山亨 "wikilink") / 作曲・編曲 - 渡辺宙明 / 歌 - 水木一郎
+:: 作詞 - [田中守](../Page/平山亨.md "wikilink") / 作曲・編曲 - 渡辺宙明 / 歌 - 水木一郎
 
 ::\* 後に「[スパイダーマン](../Page/スパイダーマン_\(東映\).md "wikilink")」に次回予告BGMとして流用された。
 
@@ -251,7 +251,7 @@
 
 :; 「少年同盟隊歌」
 
-:: 作詞 - 高久進 / 作曲・編曲 - 渡辺宙明 / 歌 - [コロムビアゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")
+:: 作詞 - 高久進 / 作曲・編曲 - 渡辺宙明 / 歌 - [コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
 
 :; 「怒れライジンゴー」（第2、6話）
 
@@ -259,7 +259,7 @@
 
 :; 「帝王バンバのテーマ」
 
-:: 作詞 - 加戸木貢 / 作曲・編曲 - 渡辺宙明 / 歌 - [こおろぎ'73](https://ja.wikipedia.org/wiki/こおろぎ'73 "wikilink")
+:: 作詞 - 加戸木貢 / 作曲・編曲 - 渡辺宙明 / 歌 - [こおろぎ'73](../Page/こおろぎ'73.md "wikilink")
 
 :; 「カイゼルデスパーの歌」
 
@@ -342,7 +342,7 @@
 <td><p>DES（デス）ミサイル大空中戦</p></td>
 <td></td>
 <td><ul>
-<li>マシンガンデスパー（人間態 - 守屋俊志、声 - <a href="https://ja.wikipedia.org/wiki/清川元夢" title="wikilink">清川元夢</a>）</li>
+<li>マシンガンデスパー（人間態 - 守屋俊志、声 - <a href="../Page/清川元夢.md" title="wikilink">清川元夢</a>）</li>
 </ul></td>
 <td><p>高久進</p></td>
 </tr>
@@ -382,7 +382,7 @@
 <td><p>9</p></td>
 <td><p>少年サーカスとマルチ大作戦</p></td>
 <td><ul>
-<li>ハサミデスパー（声 - <a href="https://ja.wikipedia.org/wiki/西尾徳" title="wikilink">西尾徳</a>）</li>
+<li>ハサミデスパー（声 - <a href="../Page/西尾徳.md" title="wikilink">西尾徳</a>）</li>
 </ul></td>
 <td><p>田口勝彦</p></td>
 <td></td>
@@ -415,7 +415,7 @@
 <td><p>12</p></td>
 <td><p>幻影都市デスパー・シティ</p></td>
 <td><ul>
-<li>ボイラーデスパー（声 - <a href="https://ja.wikipedia.org/wiki/岸野一彦" title="wikilink">岸野一彦</a>）</li>
+<li>ボイラーデスパー（声 - <a href="../Page/岸野一彦.md" title="wikilink">岸野一彦</a>）</li>
 </ul></td>
 <td><p>上原正三</p></td>
 <td></td>
@@ -427,7 +427,7 @@
 <td><p>鬼女がうたう子守歌</p></td>
 <td><ul>
 <li>マサカリデスパー（声 - <a href="https://ja.wikipedia.org/wiki/吉原正皓" title="wikilink">吉原正晧</a>）</li>
-<li>鬼女（声 - <a href="https://ja.wikipedia.org/wiki/鳳芳野" title="wikilink">加川真規</a>）</li>
+<li>鬼女（声 - <a href="../Page/鳳芳野.md" title="wikilink">加川真規</a>）</li>
 <li>合体ウデスパー</li>
 </ul></td>
 <td><p>前川洋之</p></td>
@@ -457,7 +457,7 @@
 <td><p>16</p></td>
 <td><p>謎の女 その名はデスパー秘密捜査官</p></td>
 <td><ul>
-<li>ノコギリデスパー2号（声 - <a href="https://ja.wikipedia.org/wiki/依田英助" title="wikilink">依田英助</a>）</li>
+<li>ノコギリデスパー2号（声 - <a href="../Page/依田英助.md" title="wikilink">依田英助</a>）</li>
 </ul></td>
 <td><p>平山公夫</p></td>
 <td></td>
@@ -479,7 +479,7 @@
 <td><p>レッドクイン 暗殺のバラード</p></td>
 <td><ul>
 <li>ハンマーデスパー（再生）（声 - 渡部猛）</li>
-<li>ハンマーデスパー2（人間態 - <a href="https://ja.wikipedia.org/wiki/新堀和男" title="wikilink">新堀和男</a>、声 - <a href="https://ja.wikipedia.org/wiki/丸山詠二" title="wikilink">丸山詠二</a>）</li>
+<li>ハンマーデスパー2（人間態 - <a href="../Page/新堀和男.md" title="wikilink">新堀和男</a>、声 - <a href="../Page/丸山詠二.md" title="wikilink">丸山詠二</a>）</li>
 </ul></td>
 <td><p>長石多可男</p></td>
 <td></td>
@@ -491,7 +491,7 @@
 <td></td>
 <td><ul>
 <li>ミキサーデスパー（声 - 和田周）</li>
-<li>ギロチンデスパー（声 - <a href="https://ja.wikipedia.org/wiki/大宮悌二" title="wikilink">大宮悌二</a>）</li>
+<li>ギロチンデスパー（声 - <a href="../Page/大宮悌二.md" title="wikilink">大宮悌二</a>）</li>
 </ul></td>
 <td><p>上原正三</p></td>
 </tr>
@@ -567,7 +567,7 @@
 
 ### ネット配信
 
-[2012年](../Page/2012年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")から[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")まで、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の「東映 YouTube Official」にて全23話が配信されたほか、[2013年](../Page/2013年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")から[5月19日](../Page/5月19日.md "wikilink")まで再配信が行われた。
+[2012年](../Page/2012年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")から[4月8日](../Page/4月8日.md "wikilink")まで、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の「東映 YouTube Official」にて全23話が配信されたほか、[2013年](../Page/2013年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")から[5月19日](../Page/5月19日.md "wikilink")まで再配信が行われた。
 
 ### 劇場版
 
@@ -585,10 +585,10 @@
 
   - [よいこ](../Page/よいこ_\(雑誌\).md "wikilink")（作画 - [山田ゴロ](../Page/山田ゴロ.md "wikilink")）1974年6月号 - 9月号
   - [幼稚園](../Page/幼稚園_\(雑誌\).md "wikilink")（作画 - 小牧敏秀）1974年6月号 - 10月号
-  - [小学一年生](../Page/小学一年生.md "wikilink")（作画 - [石川巨人](https://ja.wikipedia.org/wiki/石川森彦 "wikilink")）1974年6月号 - 9月号
+  - [小学一年生](../Page/小学一年生.md "wikilink")（作画 - [石川巨人](../Page/石川森彦.md "wikilink")）1974年6月号 - 9月号
   - [小学二年生](../Page/小学二年生.md "wikilink")（作画 - [佐藤利夫](../Page/シュガー佐藤_\(漫画家\).md "wikilink")）1974年6月号 - 9月号
-  - [小学三年生](https://ja.wikipedia.org/wiki/小学館の学年別学習雑誌 "wikilink")（作画 - [土山よしき](https://ja.wikipedia.org/wiki/土山よしき "wikilink")）1974年6月号 - 9月号
-  - [小学四年生](https://ja.wikipedia.org/wiki/小学館の学年別学習雑誌 "wikilink")（作画 - [一峰大二](../Page/一峰大二.md "wikilink")）1974年6月号 - 8月号
+  - [小学三年生](../Page/小学館の学年別学習雑誌.md "wikilink")（作画 - [土山よしき](https://ja.wikipedia.org/wiki/土山よしき "wikilink")）1974年6月号 - 9月号
+  - [小学四年生](../Page/小学館の学年別学習雑誌.md "wikilink")（作画 - [一峰大二](../Page/一峰大二.md "wikilink")）1974年6月号 - 8月号
   - [テレビランド](../Page/テレビランド.md "wikilink")（作画 - 山田ゴロ）1974年5月号 - 10月号
 
 ## 脚注
@@ -604,7 +604,7 @@
   -
 [Category:石ノ森章太郎の実写作品](https://ja.wikipedia.org/wiki/Category:石ノ森章太郎の実写作品 "wikilink") [Category:東映特撮作品](https://ja.wikipedia.org/wiki/Category:東映特撮作品 "wikilink") [Category:1974年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1974年のテレビドラマ "wikilink") [Category:テレビ朝日の特撮番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の特撮番組 "wikilink") [Category:1970年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1970年代の特撮作品 "wikilink") [Category:イナズマン](https://ja.wikipedia.org/wiki/Category:イナズマン "wikilink") [Category:めばえ](https://ja.wikipedia.org/wiki/Category:めばえ "wikilink") [Category:幼稚園_(雑誌)](https://ja.wikipedia.org/wiki/Category:幼稚園_\(雑誌\) "wikilink") [Category:変身ヒーロー](https://ja.wikipedia.org/wiki/Category:変身ヒーロー "wikilink") [Category:超能力を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:超能力を題材としたテレビドラマ "wikilink")
 
-1.  ファンタスティック・コレクションNo.48『イナズマンF』P35（[朝日ソノラマ](https://ja.wikipedia.org/wiki/朝日ソノラマ "wikilink")）
+1.  ファンタスティック・コレクションNo.48『イナズマンF』P35（[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")）
 2.  『イナズマン大全 イナズマン　イナズマンFの世界』 岩佐陽一・編、2003年、双葉社、136⁻137頁。
 3.  『河北新報』1974年8月6日 - 8月27日付朝刊、テレビ欄。
 4.  『河北新報』1974年8月25日付朝刊、テレビ欄。

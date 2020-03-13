@@ -9,12 +9,12 @@
 
 この番組のコンセプトとしてはグランパスの最新情報を専属解説者の分析を交えた試合ダイジェスト（ホーム戦に限り一部試合を除き録音実況音を使用しているが、たまにビジターで行われた試合の実況音も、他局の協力を得て放送された）や選手・関係者のインタビューなどで構成されている。ホームゲームのチケットプレゼントも行われた。
 
-以前は東海地方（[静岡県](../Page/静岡県.md "wikilink")以外の中京広域圏として）のプロサッカークラブというとグランパスのみであったが、[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に日本初のプロ[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")クラブの[名古屋オーシャンズ](../Page/名古屋オーシャンズ.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[Jリーグに昇格した](../Page/日本プロサッカーリーグ.md "wikilink")[FC岐阜](https://ja.wikipedia.org/wiki/FC岐阜 "wikilink")の誕生があった。番組変更前からオーシャンズの優勝、FC岐阜のJリーグ昇格などを伝えてきたが、現状の番組名ではグランパスの応援番組と間違えられるなどと判断したのか、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春の番組改編により[週刊\!サカラジ](https://ja.wikipedia.org/wiki/週刊!サカラジ "wikilink")となった。なおパーソナリティーは変更なし。
+以前は東海地方（[静岡県](../Page/静岡県.md "wikilink")以外の中京広域圏として）のプロサッカークラブというとグランパスのみであったが、[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に日本初のプロ[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")クラブの[名古屋オーシャンズ](../Page/名古屋オーシャンズ.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")から[Jリーグに昇格した](../Page/日本プロサッカーリーグ.md "wikilink")[FC岐阜](../Page/FC岐阜.md "wikilink")の誕生があった。番組変更前からオーシャンズの優勝、FC岐阜のJリーグ昇格などを伝えてきたが、現状の番組名ではグランパスの応援番組と間違えられるなどと判断したのか、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")春の番組改編により[週刊\!サカラジ](https://ja.wikipedia.org/wiki/週刊!サカラジ "wikilink")となった。なおパーソナリティーは変更なし。
 
 ## パーソナリティー
 
   - [森貴俊](../Page/森貴俊.md "wikilink")（東海ラジオアナウンサー）
-  - 城山喜代次（[中京大学](../Page/中京大学.md "wikilink")体育学部特任講師。元中京大学サッカー部総監督・元[中京大中京のサッカー部監督](https://ja.wikipedia.org/wiki/中京大学附属中京高等学校 "wikilink")）
+  - 城山喜代次（[中京大学](../Page/中京大学.md "wikilink")体育学部特任講師。元中京大学サッカー部総監督・元[中京大中京のサッカー部監督](../Page/中京大学附属中京高等学校.md "wikilink")）
 
 ## 外部リンク
 

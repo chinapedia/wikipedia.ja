@@ -3,14 +3,14 @@
 
 **木曜Junk さまぁ〜ずの逆にアレだろ\!?**（もくようジャンク さまぁ〜ずのぎゃくにアレだろ\!?）は、[2002年](../Page/2002年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")までの2年間にわたり、[TBSラジオ制作](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・[JRN系の](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")[木曜](https://ja.wikipedia.org/wiki/木曜 "wikilink")[Junk（現：JUNK）枠内で放送されていた](../Page/JUNK.md "wikilink")、お笑いコンビ・[さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。全104回放送。
 
-[深夜放送](../Page/深夜放送.md "wikilink")特有の[下ネタ](https://ja.wikipedia.org/wiki/下ネタ "wikilink")に輪をかけた下ネタで人気を博した。また[聴取率](../Page/聴取率.md "wikilink")調査週間（スペシャルウィーク）には「関東お笑い祭」「関東芸人祭」と称し、さまぁ〜ずと親交の深いお笑い芸人たち（[出川哲朗](../Page/出川哲朗.md "wikilink")、[ふかわりょう](../Page/ふかわりょう.md "wikilink")など）をゲストに招くのが恒例だった。
+[深夜放送](../Page/深夜放送.md "wikilink")特有の[下ネタ](../Page/下ネタ.md "wikilink")に輪をかけた下ネタで人気を博した。また[聴取率](../Page/聴取率.md "wikilink")調査週間（スペシャルウィーク）には「関東お笑い祭」「関東芸人祭」と称し、さまぁ〜ずと親交の深いお笑い芸人たち（[出川哲朗](../Page/出川哲朗.md "wikilink")、[ふかわりょう](../Page/ふかわりょう.md "wikilink")など）をゲストに招くのが恒例だった。
 
 ## データ
 
 ### パーソナリティ
 
   - [さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")
-      - [大竹一樹](https://ja.wikipedia.org/wiki/大竹一樹 "wikilink")
+      - [大竹一樹](../Page/大竹一樹.md "wikilink")
       - [三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")
 
 ### スタッフ
@@ -23,11 +23,11 @@
   - [TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")
   - [北海道放送](../Page/HBCラジオ.md "wikilink")
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")
-  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")
+  - [琉球放送](../Page/琉球放送.md "wikilink")
 
 ### 放送日
 
-  - 毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 深夜25:00-27:00（金曜日早朝1:00-3:00）
+  - 毎週[木曜日](../Page/木曜日.md "wikilink") 深夜25:00-27:00（金曜日早朝1:00-3:00）
 
 ### オープニングテーマ
 
@@ -66,7 +66,7 @@
   - 有名人のひとりごと
     2002年08月22日(第21回)と2003年12月18日(第90回)に行われた特別コーナー。有名人が言っていたひとりごとを募集。 (2002年8月22日 2003年12月18日)
   - 頑張れ種田
-    [横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")の[種田仁](https://ja.wikipedia.org/wiki/種田仁 "wikilink")を応援して皆で[種出しちゃおうという本格的野球コーナー](../Page/オナニー.md "wikilink")。横浜ベイスターズの球団歌「熱き星たちよ」の替え歌をバックにリスナーからの種田日記を紹介した。毎回コーナーの最後には種田の最新の打撃成績を伝えた。2003年4月3日(第53回)に月一コーナーとして復活するもその後は行われず。 (2002年8月22日 - 2002年10月24日 2003年4月3日)
+    [横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")の[種田仁](../Page/種田仁.md "wikilink")を応援して皆で[種出しちゃおうという本格的野球コーナー](../Page/オナニー.md "wikilink")。横浜ベイスターズの球団歌「熱き星たちよ」の替え歌をバックにリスナーからの種田日記を紹介した。毎回コーナーの最後には種田の最新の打撃成績を伝えた。2003年4月3日(第53回)に月一コーナーとして復活するもその後は行われず。 (2002年8月22日 - 2002年10月24日 2003年4月3日)
   - 熱闘ハガキ甲子園
     全国のリスナーを東京23区・東京都下・北海道・千葉県・埼玉県・神奈川県・沖縄県・他県(その他)の8ブロックに分けてトーナメント戦を行う。対戦テーマはお題の穴埋めなど。 (2002年9月12日 - 2003年5月8日 2004年1月29日 - 2004年3月18日)
   - 3年Bチク金一先生
@@ -133,13 +133,13 @@
   - 第55回（2003年[4月17日](../Page/4月17日.md "wikilink")）：関東お笑い祭・シャクレカーニバル／[有田哲平](../Page/有田哲平.md "wikilink")・[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")
   - 第56回（2003年[4月24日](../Page/4月24日.md "wikilink")）：関東お笑い祭・モテないカーニバル／出川哲朗・[松村邦洋](../Page/松村邦洋.md "wikilink")
   - 第63回（2003年[6月12日](../Page/6月12日.md "wikilink")）：関東芸人祭・裏の顔ナイト／出川哲朗・松村邦洋
-  - 第64回（2003年[6月19日](../Page/6月19日.md "wikilink")）：関東芸人祭・[太田プロナイト](../Page/太田プロダクション.md "wikilink") 上島竜兵伝説／[上島竜兵](https://ja.wikipedia.org/wiki/上島竜兵 "wikilink")・土田晃之・[有吉弘行](https://ja.wikipedia.org/wiki/有吉弘行 "wikilink")
-  - 第72回（2003年[8月14日](../Page/8月14日.md "wikilink")）：関東お笑い祭・[電波ナイト](../Page/進め!電波少年.md "wikilink")／[猿岩石](https://ja.wikipedia.org/wiki/猿岩石 "wikilink")・[ドロンズ石本](https://ja.wikipedia.org/wiki/ドロンズ石本 "wikilink")
+  - 第64回（2003年[6月19日](../Page/6月19日.md "wikilink")）：関東芸人祭・[太田プロナイト](../Page/太田プロダクション.md "wikilink") 上島竜兵伝説／[上島竜兵](../Page/上島竜兵.md "wikilink")・土田晃之・[有吉弘行](../Page/有吉弘行.md "wikilink")
+  - 第72回（2003年[8月14日](../Page/8月14日.md "wikilink")）：関東お笑い祭・[電波ナイト](../Page/進め!電波少年.md "wikilink")／[猿岩石](https://ja.wikipedia.org/wiki/猿岩石 "wikilink")・[ドロンズ石本](../Page/ドロンズ石本.md "wikilink")
   - 第73回（2003年[8月21日](../Page/8月21日.md "wikilink")）：関東お笑い祭・熟女ナイト／出川哲朗・[ウド鈴木](../Page/ウド鈴木.md "wikilink")
   - 第74回（2003年[8月28日](../Page/8月28日.md "wikilink")）：関東お笑い祭・感動ナイト／松村邦洋・有田哲平
-  - 第82回（2003年[10月23日](../Page/10月23日.md "wikilink")）：関東お笑い祭・さまぁ〜ずチームVS[ナベプロチーム](https://ja.wikipedia.org/wiki/渡辺プロダクション "wikilink") 日本シリーズ／[レッド吉田](../Page/レッド吉田.md "wikilink")・[ふかわりょう](../Page/ふかわりょう.md "wikilink")
-  - 第90回（2003年[12月18日](../Page/12月18日.md "wikilink")）：関東お笑い祭・[マネ](../Page/物真似.md "wikilink")[ニーナイト](../Page/オナニー.md "wikilink")／松村邦洋・[ホリ](https://ja.wikipedia.org/wiki/ホリ_\(タレント\) "wikilink")・[つぶやきシロー](../Page/つぶやきシロー.md "wikilink")
-  - 第99回（[2004年](../Page/2004年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")）：春の関東お笑い祭・[内Pナイト](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")／[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")・ふかわりょう
+  - 第82回（2003年[10月23日](../Page/10月23日.md "wikilink")）：関東お笑い祭・さまぁ〜ずチームVS[ナベプロチーム](../Page/渡辺プロダクション.md "wikilink") 日本シリーズ／[レッド吉田](../Page/レッド吉田.md "wikilink")・[ふかわりょう](../Page/ふかわりょう.md "wikilink")
+  - 第90回（2003年[12月18日](../Page/12月18日.md "wikilink")）：関東お笑い祭・[マネ](../Page/物真似.md "wikilink")[ニーナイト](../Page/オナニー.md "wikilink")／松村邦洋・[ホリ](../Page/ホリ_\(タレント\).md "wikilink")・[つぶやきシロー](../Page/つぶやきシロー.md "wikilink")
+  - 第99回（[2004年](../Page/2004年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")）：春の関東お笑い祭・[内Pナイト](../Page/内村プロデュース.md "wikilink")／[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")・ふかわりょう
 
 ## リスナーとの交流
 
@@ -162,7 +162,7 @@
   - [RAG FAIR](../Page/RAG_FAIR.md "wikilink") (2002年6月27日) … 特別企画「RAG FAIRとハモハモデート」出演。
   - [ちはる](../Page/ちはる.md "wikilink") (2002年7月25日) … 3人でのラジオ放送は約8年ぶり。
   - [TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink") (2002年8月1日)
-  - [江戸むらさき](https://ja.wikipedia.org/wiki/江戸むらさき_\(お笑いコンビ\) "wikilink") (2002年8月1日)
+  - [江戸むらさき](../Page/江戸むらさき_\(お笑いコンビ\).md "wikilink") (2002年8月1日)
   - [ビーム](../Page/ビーム_\(お笑いコンビ\).md "wikilink") (2002年8月1日)
   - [おぎやはぎ](../Page/おぎやはぎ.md "wikilink") (2002年8月8日)
   - [牛川とこ](../Page/牛川とこ.md "wikilink") (2002年8月15日)
@@ -172,10 +172,10 @@
   - [THE★SCANTY](https://ja.wikipedia.org/wiki/THE★SCANTY "wikilink") (2002年9月19日)
   - 江戸むらさき (2002年9月19日)
   - [吹石一恵](https://ja.wikipedia.org/wiki/吹石一恵 "wikilink") (2002年9月26日) … 「後悔イベント トロフィー争奪ボツネタ祭り」出演。
-  - [藤本綾](https://ja.wikipedia.org/wiki/藤本綾 "wikilink") (2002年10月10日)
+  - [藤本綾](../Page/藤本綾.md "wikilink") (2002年10月10日)
   - [小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink") (2002年10月24日)
   - おぎやはぎ (2002年10月24日)
-  - [三又忠久](https://ja.wikipedia.org/wiki/三又又三 "wikilink") (2002年11月7日)
+  - [三又忠久](../Page/三又又三.md "wikilink") (2002年11月7日)
   - [山口五和](../Page/山口五和.md "wikilink") (2002年11月28日)
   - [鈴木繭菓](../Page/鈴木繭菓.md "wikilink") (2002年12月5日)
   - 根本はるみ (2002年12月12日)
@@ -194,10 +194,10 @@
   - 出川哲朗 (2003年4月24日) … 「関東お笑い祭り モテないカーニバル」出演。
   - [松村邦洋](../Page/松村邦洋.md "wikilink") (2003年4月24日) … 「関東お笑い祭り モテないカーニバル」出演。
   - つぶやきシロー (2003年5月15日)
-  - [有吉弘行](https://ja.wikipedia.org/wiki/有吉弘行 "wikilink") (2003年5月29日)
+  - [有吉弘行](../Page/有吉弘行.md "wikilink") (2003年5月29日)
   - 出川哲朗 (2003年6月12日) … 「関東芸人祭り 裏の顔ナイト」出演。
   - 松村邦洋 (2003年6月12日) … 「関東芸人祭り 裏の顔ナイト」出演。
-  - [上島竜兵](https://ja.wikipedia.org/wiki/上島竜兵 "wikilink") (2003年6月19日) … 「関東芸人祭り 太田プロナイト 上島竜兵伝説」出演。
+  - [上島竜兵](../Page/上島竜兵.md "wikilink") (2003年6月19日) … 「関東芸人祭り 太田プロナイト 上島竜兵伝説」出演。
   - 土田晃之 (2003年6月19日) … 「関東芸人祭り 太田プロナイト 上島竜兵伝説」出演。
   - 有吉弘行 (2003年6月19日) … 「関東芸人祭り 太田プロナイト 上島竜兵伝説」出演。
   - 鈴木繭菓 (2003年6月26日)
@@ -205,7 +205,7 @@
   - [ふかわりょう](../Page/ふかわりょう.md "wikilink") (2003年7月17日)
   - ちはる (2003年8月7日)
   - [猿岩石](https://ja.wikipedia.org/wiki/猿岩石 "wikilink") (2003年8月14日) … 「関東お笑い祭り 電波ナイト」出演。
-  - [ドロンズ石本](https://ja.wikipedia.org/wiki/ドロンズ石本 "wikilink") (2003年8月14日) … 「関東お笑い祭り 電波ナイト」出演。
+  - [ドロンズ石本](../Page/ドロンズ石本.md "wikilink") (2003年8月14日) … 「関東お笑い祭り 電波ナイト」出演。
   - 出川哲朗 (2003年8月21日) … 「関東お笑い祭り 熟女ナイト」出演。
   - [ウド鈴木](../Page/ウド鈴木.md "wikilink") (2003年8月21日) … 「関東お笑い祭り 熟女ナイト」出演。
   - 松村邦洋 (2003年8月28日) … 「関東お笑い祭り 感動ナイト」出演。
@@ -216,10 +216,10 @@
   - [レッド吉田](../Page/レッド吉田.md "wikilink") (2003年10月23日) … 「関東お笑い祭り さまぁ～ずチーム対ナベプロチーム 日本シリーズ」出演。
   - ふかわりょう (2003年10月23日) … 「関東お笑い祭り さまぁ～ずチーム対ナベプロチーム 日本シリーズ」出演。
   - つぶやきシロー (2003年11月6日)
-  - [バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink") (2003年11月27日)
+  - [バナナマン](../Page/バナナマン.md "wikilink") (2003年11月27日)
   - 松村邦洋 (2003年12月18日) … 「関東お笑い祭り マネニーナイト コサキンとかぶっちゃったよ」出演。
   - つぶやきシロー (2003年12月18日) … 「関東お笑い祭り マネニーナイト コサキンとかぶっちゃったよ」出演。
-  - [ホリ](https://ja.wikipedia.org/wiki/ホリ_\(タレント\) "wikilink") (2003年12月18日) … 「関東お笑い祭り マネニーナイト コサキンとかぶっちゃったよ」出演。
+  - [ホリ](../Page/ホリ_\(タレント\).md "wikilink") (2003年12月18日) … 「関東お笑い祭り マネニーナイト コサキンとかぶっちゃったよ」出演。
   - レッド吉田 (2004年1月1日)
   - [ザ・ルーズドッグス](../Page/ザ・ルーズドッグス.md "wikilink") (2004年2月12日)
   - [内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink") (2004年2月19日) … 「春の関東お笑い祭り 内Pナイト テレ朝じゃないのに」出演。
@@ -228,7 +228,7 @@
 ## 備考
 
   - 番組ディレクターが音楽番組を多く担当していたこともあり、Junk枠の他の曜日に比べ曲がかかることが多く、その選曲もマニアックなものになっていた。
-  - [2004年](../Page/2004年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")（2日未明）の放送は、さまぁ〜ずが出演する[テレビ朝日](../Page/テレビ朝日.md "wikilink")系のバラエティ番組『[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")』（内P）の元日特番と放送時間が重複しており、同日ゲストの[レッド吉田](../Page/レッド吉田.md "wikilink") ([TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")) と共にテレビを観ながら放送する一幕があった。別の回では、他局にもかかわらずゲストに[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")と[ふかわりょう](../Page/ふかわりょう.md "wikilink")を招いて「内P祭り」を開催したこともある。
+  - [2004年](../Page/2004年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")（2日未明）の放送は、さまぁ〜ずが出演する[テレビ朝日](../Page/テレビ朝日.md "wikilink")系のバラエティ番組『[内村プロデュース](../Page/内村プロデュース.md "wikilink")』（内P）の元日特番と放送時間が重複しており、同日ゲストの[レッド吉田](../Page/レッド吉田.md "wikilink") ([TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")) と共にテレビを観ながら放送する一幕があった。別の回では、他局にもかかわらずゲストに[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")と[ふかわりょう](../Page/ふかわりょう.md "wikilink")を招いて「内P祭り」を開催したこともある。
   - 番組終了後程なくして、裏番組であった『[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")』（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）にさまぁ〜ずがゲスト出演。以前からゲスト出演が多く関係も深かったことから、番組開始時ナイナイの裏番組をやることを申し訳なく思い、別の曜日に替えられないかと申し出ていたことなどを語った。
 
 [Category:JUNK](https://ja.wikipedia.org/wiki/Category:JUNK "wikilink") [Category:お笑い芸人のラジオ番組](https://ja.wikipedia.org/wiki/Category:お笑い芸人のラジオ番組 "wikilink") [Category:さまぁ〜ず](https://ja.wikipedia.org/wiki/Category:さまぁ〜ず "wikilink")

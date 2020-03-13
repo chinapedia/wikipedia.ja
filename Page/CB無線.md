@@ -26,7 +26,7 @@
 日本においては、「CB無線」という語は、制度上の正式な用語としては存在しないが、「CB無線」と考えられるものは以下のとおりである。
 
 1.  [市民ラジオ](../Page/市民ラジオ.md "wikilink")
-2.  [パーソナル無線](https://ja.wikipedia.org/wiki/パーソナル無線 "wikilink")
+2.  [パーソナル無線](../Page/パーソナル無線.md "wikilink")
 3.  421MHz帯、422MHz帯又は440MHz帯を使用する[無線電話用特定小電力無線局](../Page/無線電話用特定小電力無線局.md "wikilink")
 4.  351MHz帯デジタル[簡易無線](https://ja.wikipedia.org/wiki/簡易無線 "wikilink")局
 

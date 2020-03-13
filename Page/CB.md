@@ -39,7 +39,7 @@
       - [チャンスボタン](../Page/チャンスボタン_\(パチンコ\).md "wikilink") () - [パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")の演出機構
       - [童貞](../Page/童貞.md "wikilink") ()
       - [カンナビノイド](../Page/カンナビノイド.md "wikilink") () - 大麻の有効成分
-      - [コミュニティ・ビジネス](https://ja.wikipedia.org/wiki/コミュニティ・ビジネス "wikilink")(community business) - 地域資源を活かした地域おこし事業
+      - [コミュニティ・ビジネス](../Page/コミュニティ・ビジネス.md "wikilink")(community business) - 地域資源を活かした地域おこし事業
       - [バス勲章](../Page/バス勲章.md "wikilink")コンパニオン（Companions of the Order of the Bath） - バス勲章コンパニオン勲位の略称。
   - 架空
       - [ソレスタルビーイング](https://ja.wikipedia.org/wiki/ソレスタルビーイング "wikilink") () - 『[機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink")』に登場する組織

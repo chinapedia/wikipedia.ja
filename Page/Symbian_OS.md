@@ -1,11 +1,11 @@
 > この記事は[Symbian OS](https://ja.wikipedia.org/wiki/Symbian_OS)から翻訳されています。
 
 
-**Symbian OS**（シンビアンオーエス）は[シンビアン](../Page/シンビアン.md "wikilink")による携帯機器向け[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")であり、関連する[ライブラリ](../Page/ライブラリ.md "wikilink")、[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")[フレームワーク](../Page/アプリケーションフレームワーク.md "wikilink")、一般的なツールの参照実装が含まれる。2008年に[シンビアン](../Page/シンビアン.md "wikilink")は[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")に買収され、2011年末までにノキアから多国籍コンサルティング企業の[アクセンチュア](../Page/アクセンチュア.md "wikilink")に事業が移管された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")時点では、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) ではシェア1位であり\[1\]\[2\]\[3\]、[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")でも広く使われていた。その後Android及びiOSによってシェアは激減し、2012年のシェアは僅か3.3%となった\[4\]。ノキアは2013年夏、最後のSymbian OSベースのスマートフォンを出荷し、今後はWindows Phoneに完全に移行することを発表している。\[5\]
+**Symbian OS**（シンビアンオーエス）は[シンビアン](../Page/シンビアン.md "wikilink")による携帯機器向け[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")であり、関連する[ライブラリ](../Page/ライブラリ.md "wikilink")、[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")[フレームワーク](../Page/アプリケーションフレームワーク.md "wikilink")、一般的なツールの参照実装が含まれる。2008年に[シンビアン](../Page/シンビアン.md "wikilink")は[ノキア](../Page/ノキア.md "wikilink")に買収され、2011年末までにノキアから多国籍コンサルティング企業の[アクセンチュア](../Page/アクセンチュア.md "wikilink")に事業が移管された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")時点では、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) ではシェア1位であり\[1\]\[2\]\[3\]、[フィーチャー・フォン](https://ja.wikipedia.org/wiki/フィーチャー・フォン "wikilink")でも広く使われていた。その後Android及びiOSによってシェアは激減し、2012年のシェアは僅か3.3%となった\[4\]。ノキアは2013年夏、最後のSymbian OSベースのスマートフォンを出荷し、今後はWindows Phoneに完全に移行することを発表している。\[5\]
 
 ## 概要
 
-英[PSION](../Page/PSION.md "wikilink")（サイオン）がハンドヘルドPC向けとして1990年代に開発したOS、[EPOC32の名称を改め](https://ja.wikipedia.org/wiki/:en:EPOC_\(computing\) "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けにリリースしたOSである\[6\]。[2007年](../Page/2007年.md "wikilink")現在までに、Symbian OSを使用した[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")には[UIQ](https://ja.wikipedia.org/wiki/UIQ "wikilink")や[S60](https://ja.wikipedia.org/wiki/Series_60 "wikilink")（旧称Series 60、開発[ノキア](https://ja.wikipedia.org/wiki/ノキア "wikilink")）、Series 80、Series 90、[MOAP](../Page/MOAP.md "wikilink") (S) （開発[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")）などがある。ユーザインタフェースの高い適応性によりSymbian OSをさまざまなフォームファクターのデバイス（クラムシェル型やタブレット型、キー入力式やペン入力式、[PDAや](../Page/携帯情報端末.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")など）で使用することが可能となっている。
+英[PSION](../Page/PSION.md "wikilink")（サイオン）がハンドヘルドPC向けとして1990年代に開発したOS、[EPOC32の名称を改め](https://ja.wikipedia.org/wiki/:en:EPOC_\(computing\) "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")向けにリリースしたOSである\[6\]。[2007年](../Page/2007年.md "wikilink")現在までに、Symbian OSを使用した[ユーザインタフェース](../Page/ユーザインタフェース.md "wikilink")には[UIQ](../Page/UIQ.md "wikilink")や[S60](https://ja.wikipedia.org/wiki/Series_60 "wikilink")（旧称Series 60、開発[ノキア](../Page/ノキア.md "wikilink")）、Series 80、Series 90、[MOAP](../Page/MOAP.md "wikilink") (S) （開発[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")）などがある。ユーザインタフェースの高い適応性によりSymbian OSをさまざまなフォームファクターのデバイス（クラムシェル型やタブレット型、キー入力式やペン入力式、[PDAや](../Page/携帯情報端末.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")など）で使用することが可能となっている。
 
 UIQは[ソニー・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")（当時）や[モトローラ](../Page/モトローラ.md "wikilink")のペン型スマートフォンに、S60はキーパッド型スマートフォンに採用されている。Series 80はコミュニケータと呼ばれるフルキーボード型スマートフォンに、Series 90はノキアのペン型スマートフォンにそれぞれ採用されていたが、Series 90は2006年、Series 80は2007年にそれぞれ開発終了している。コミュニケータタイプはS60へ移行・統合すると発表されている。
 
@@ -30,7 +30,7 @@ UIQは[ソニー・モバイルコミュニケーションズ](https://ja.wikipe
 
 ## ウイルス問題
 
-[2004年](../Page/2004年.md "wikilink")にはSymbian OS S60を使用した携帯電話を対象にした最初の[携帯電話ウイルス](https://ja.wikipedia.org/wiki/携帯電話ウイルス "wikilink")（ワーム）「Cabir」 が登場した。このワームは[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")を使用して近くの携帯電話に伝播する。
+[2004年](../Page/2004年.md "wikilink")にはSymbian OS S60を使用した携帯電話を対象にした最初の[携帯電話ウイルス](../Page/携帯電話ウイルス.md "wikilink")（ワーム）「Cabir」 が登場した。このワームは[Bluetooth](../Page/Bluetooth.md "wikilink")を使用して近くの携帯電話に伝播する。
 
 ## 日本で発売されている機種
 
@@ -43,7 +43,7 @@ UIQは[ソニー・モバイルコミュニケーションズ](https://ja.wikipe
     **[S60](https://ja.wikipedia.org/wiki/Series_60 "wikilink")**ユーザインタフェースを採用したものは、[ボーダフォン](https://ja.wikipedia.org/wiki/ボーダフォン "wikilink")からは、ノキア製[702NK](../Page/Vodafone_702NK.md "wikilink")、[702NK IIと](../Page/Vodafone_702NK_II.md "wikilink")[804NKが](../Page/Vodafone_804NK.md "wikilink")、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")に移行後に[705NK](../Page/SoftBank_705NK.md "wikilink")、[X01NK](https://ja.wikipedia.org/wiki/SoftBank_X01NK "wikilink")、[X02NK](../Page/SoftBank_X02NK.md "wikilink")、[N82が発売されている](https://ja.wikipedia.org/wiki/Nokia_N82 "wikilink")。ノキアジャパンからは[SIMフリー機である](../Page/SIMカード.md "wikilink")[Nokia 6630STD日本版及び](../Page/Nokia_6630.md "wikilink")[E61STD日本版が発売されている](../Page/Nokia_E61.md "wikilink")。NTTドコモからは、[NM850iG](../Page/NM850iG.md "wikilink")、[NM705i](../Page/NM705i.md "wikilink")、[NM706i](../Page/NM706i.md "wikilink")が発売されている。S60はノキアにより開発された。　
 
   - UIQ
-    **[UIQ](https://ja.wikipedia.org/wiki/UIQ "wikilink")**インタフェースを採用しているのは、[モトローラ](../Page/モトローラ.md "wikilink")製[M1000](../Page/M1000.md "wikilink")がある。
+    **[UIQ](../Page/UIQ.md "wikilink")**インタフェースを採用しているのは、[モトローラ](../Page/モトローラ.md "wikilink")製[M1000](../Page/M1000.md "wikilink")がある。
 
   - **[OPP](https://ja.wikipedia.org/wiki/オペレータパック "wikilink")**
 
@@ -51,7 +51,7 @@ UIQは[ソニー・モバイルコミュニケーションズ](https://ja.wikipe
 
 ## 関連項目
 
-  - [REX OS](https://ja.wikipedia.org/wiki/REX_OS "wikilink") - ライバル企業である[米国クアルコムによる携帯機器向けオペレーティングシステム](https://ja.wikipedia.org/wiki/クアルコム "wikilink")
+  - [REX OS](https://ja.wikipedia.org/wiki/REX_OS "wikilink") - ライバル企業である[米国クアルコムによる携帯機器向けオペレーティングシステム](../Page/クアルコム.md "wikilink")
   - [ScummVM](https://ja.wikipedia.org/wiki/ScummVM "wikilink") - Symbian OS 上で動作する[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")の[エミュレータ](../Page/エミュレータ.md "wikilink")のようなもの
   - [Symbian platform](https://ja.wikipedia.org/wiki/Symbian_platform "wikilink")
 

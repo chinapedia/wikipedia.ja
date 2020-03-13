@@ -5,7 +5,7 @@
 
 ## 化学
 
-  - [ポリプロピレン](https://ja.wikipedia.org/wiki/ポリプロピレン "wikilink") (*Polypropylene*)
+  - [ポリプロピレン](../Page/ポリプロピレン.md "wikilink") (*Polypropylene*)
   - [フェノールフタレイン](../Page/フェノールフタレイン.md "wikilink") - Phenol Phthalein ([pH指示薬](https://ja.wikipedia.org/wiki/pH指示薬 "wikilink"))
 
 ## 情報
@@ -18,7 +18,7 @@
 
   - 音楽記号の**ピアニッシモ**。通常小文字で *pp* と表記する。[演奏記号\#強弱記号](https://ja.wikipedia.org/wiki/演奏記号#強弱記号 "wikilink")を参照。
   - [ページ](../Page/ページ.md "wikilink")の複数形の短縮形。ラテン語のから（pages→pp.,例：pp. 106-115）
-  - [非SI接頭辞](https://ja.wikipedia.org/wiki/非SI接頭辞 "wikilink") ペプタ(pepta)(10<sup>51</sup>)（大文字**PP**）（ジム・ブロワーズ(Jim Blowers)の提案）
+  - [非SI接頭辞](../Page/非SI接頭辞.md "wikilink") ペプタ(pepta)(10<sup>51</sup>)（大文字**PP**）（ジム・ブロワーズ(Jim Blowers)の提案）
   - [過去分詞](https://ja.wikipedia.org/wiki/分詞#過去分詞 "wikilink")（*past participle*）
 
 ## サブカルチャー
@@ -37,8 +37,8 @@
   - [プロスペクト (**P**ros**P**ect)](https://ja.wikipedia.org/wiki/プロスペクト "wikilink") - 「見込み客」を意味する営業用語
   - [プロダクトプレイスメント](https://ja.wikipedia.org/wiki/プロダクトプレイスメント "wikilink") (**P**roduct **P**lacement) - 劇中において、小道具とや背景として商標を表示させる手法のこと。
   - [NHK神戸放送局](../Page/NHK神戸放送局.md "wikilink")（[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")：JO**PP**-DTV/JO**PP**-FM）
-  - [ワルサーPP](https://ja.wikipedia.org/wiki/ワルサーPP "wikilink") (*Polizei Pistole*)
-  - PP（ぺーぺー）- [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[政党](../Page/政党.md "wikilink")である[国民党](https://ja.wikipedia.org/wiki/国民党_\(スペイン\) "wikilink")（Partido Popular）の略称
+  - [ワルサーPP](../Page/ワルサーPP.md "wikilink") (*Polizei Pistole*)
+  - PP（ぺーぺー）- [スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[政党](../Page/政党.md "wikilink")である[国民党](../Page/国民党_\(スペイン\).md "wikilink")（Partido Popular）の略称
   - [Pp (奥井亜紀のアルバム)](https://ja.wikipedia.org/wiki/Pp_\(奥井亜紀のアルバム\) "wikilink") - [奥井亜紀](../Page/奥井亜紀.md "wikilink")が2006年2月8日にリリースしたミニアルバムのタイトル
   - [プライベート・プラクティス 迷えるオトナたちの原題である](https://ja.wikipedia.org/wiki/プライベート・プラクティス_迷えるオトナたち "wikilink")「Private Practice」の頭文字
   - [フローンの気候区分](https://ja.wikipedia.org/wiki/フローンの気候区分 "wikilink")における気候帯である亜熱帯乾燥帯

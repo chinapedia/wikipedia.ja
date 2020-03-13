@@ -1,7 +1,7 @@
 > この記事は[10th Anniversary Year Final GLAY DOME TOUR 2005WHITE ROADin TOKYO DOME](https://ja.wikipedia.org/wiki/10th_Anniversary_Year_Final_GLAY_DOME_TOUR_2005WHITE_ROADin_TOKYO_DOME)から翻訳されています。
 
 
-『**10th Anniversary Year Final GLAY DOME TOUR 2005 “WHITE ROAD” in TOKYO DOME**』は、[GLAY](../Page/GLAY.md "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月22日](../Page/6月22日.md "wikilink")にリリースしたライブDVD。
+『**10th Anniversary Year Final GLAY DOME TOUR 2005 “WHITE ROAD” in TOKYO DOME**』は、[GLAY](../Page/GLAY.md "wikilink")が[2005年](../Page/2005年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")にリリースしたライブDVD。
 
 ## 概要
 

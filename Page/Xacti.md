@@ -11,9 +11,9 @@
 
 基本コンセプトは「小型軽量コンパクト」「静止画と動画を1台で」「パソコンとの親和性の高い動画」。デジタルスチルカメラとビデオカメラの特徴を併せ持ち、他のデジタルカメラと比べて動画を重視している。形状も「[ガングリップタイプ（またはグリップタイプ）](https://ja.wikipedia.org/wiki/#ガングリップ型 "wikilink")」と呼ばれる[拳銃](../Page/拳銃.md "wikilink")のような形をしている製品が多いことが特徴。
 
-[2003年](../Page/2003年.md "wikilink")に発売されたDMX-C1から、ガングリップタイプを採用。また[MotionJPEG](https://ja.wikipedia.org/wiki/MotionJPEG "wikilink")に代わり[MPEG-4](../Page/MPEG-4.md "wikilink")の動画[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")を採用したのもこのモデルからである。[2007年](../Page/2007年.md "wikilink")4月に発売したDMX-CG65以降はフォーマットを"[MPEG-4 AVC/H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")"に変更。画質の向上や撮影時間の延長が図られた。
+[2003年](../Page/2003年.md "wikilink")に発売されたDMX-C1から、ガングリップタイプを採用。また[MotionJPEG](https://ja.wikipedia.org/wiki/MotionJPEG "wikilink")に代わり[MPEG-4](../Page/MPEG-4.md "wikilink")の動画[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")を採用したのもこのモデルからである。[2007年](../Page/2007年.md "wikilink")4月に発売したDMX-CG65以降はフォーマットを"[MPEG-4 AVC/H.264](../Page/H.264.md "wikilink")"に変更。画質の向上や撮影時間の延長が図られた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月、初めて[HD撮影に対応した製品DMX](https://ja.wikipedia.org/wiki/高精細度 "wikilink")-HD1が発売。以後生産終了まで数機種発売された。
+[2006年](../Page/2006年.md "wikilink")2月、初めて[HD撮影に対応した製品DMX](https://ja.wikipedia.org/wiki/高精細度 "wikilink")-HD1が発売。以後生産終了まで数機種発売された。
 
 全ての製品の記録媒体は[SDメモリーカード](https://ja.wikipedia.org/wiki/SDメモリーカード "wikilink")で、2006年発売の機種からは[SDHCメモリーカードに](https://ja.wikipedia.org/wiki/SDメモリーカード#SDHCメモリーカード "wikilink")、さらに末期の製品は[SDXCメモリーカードにそれぞれ対応している](https://ja.wikipedia.org/wiki/SDメモリーカード#SDXCメモリーカード "wikilink")。
 
@@ -35,24 +35,24 @@
 
   - Xacti 2.0
 
-[2007年](../Page/2007年.md "wikilink")3月、三洋は"Xacti-Universe"を更に発展させるプロジェクトとして、他社と共同で"Xacti 2.0（ザクティツーポイントオー）プロジェクト"を発足させた。プロジェクトの内容はDMX-CG65などで採用された [MPEG-4](../Page/MPEG-4.md "wikilink") [H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink") 形式の動画を各社のサービスで使えるようにするほか、宣伝活動や市場動向調査の協力などである。シーボックス、エムログ、[シックス・アパート](../Page/シックス・アパート.md "wikilink")、ボイスバンク、アクシード、フリップ・クリップ、[フジテレビラボ](../Page/フジテレビラボ.md "wikilink")LLC、[アスクドットジェーピー](https://ja.wikipedia.org/wiki/Ask.jp#Ask.jp "wikilink")、[アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")などが参加していた。
+[2007年](../Page/2007年.md "wikilink")3月、三洋は"Xacti-Universe"を更に発展させるプロジェクトとして、他社と共同で"Xacti 2.0（ザクティツーポイントオー）プロジェクト"を発足させた。プロジェクトの内容はDMX-CG65などで採用された [MPEG-4](../Page/MPEG-4.md "wikilink") [H.264](../Page/H.264.md "wikilink") 形式の動画を各社のサービスで使えるようにするほか、宣伝活動や市場動向調査の協力などである。シーボックス、エムログ、[シックス・アパート](../Page/シックス・アパート.md "wikilink")、ボイスバンク、アクシード、フリップ・クリップ、[フジテレビラボ](../Page/フジテレビラボ.md "wikilink")LLC、[アスクドットジェーピー](https://ja.wikipedia.org/wiki/Ask.jp#Ask.jp "wikilink")、[アッカ・ネットワークス](../Page/アッカ・ネットワークス.md "wikilink")などが参加していた。
 
 ### 製品一覧
 
 #### スチルカメラ型
 
-  - **DSC-J1**（2003年3月発売） - この機種で初めて「Xacti」ブランド名が用いられた。有効画素数320万画素。「音声ガイド」機能搭載。色はシルバーと[ピンク](https://ja.wikipedia.org/wiki/ピンク "wikilink")の2色。
+  - **DSC-J1**（2003年3月発売） - この機種で初めて「Xacti」ブランド名が用いられた。有効画素数320万画素。「音声ガイド」機能搭載。色はシルバーと[ピンク](../Page/ピンク.md "wikilink")の2色。
   - **DSC-S1**（2003年9月発売） -
   - **DSC-J2**（2003年10月発売） - 発売当時は起動が世界最速の0.9秒であった。
   - **DSC-J4**（[2004年](../Page/2004年.md "wikilink")発売） - 有効画素数400万画素。[デジタルカメラ](../Page/デジタルカメラ.md "wikilink")としては初めて、「アシストライト」機能を搭載した。
   - **DSC-S3**（2004年6月発売） - 専用[バッテリーだけでなく](../Page/電池.md "wikilink")、乾電池も使用できた。有効画素数300万画素。
   - **DSC-S4**（2004年7月発売） - 専用バッテリーだけでなく、乾電池も使用できた。有効画素数400万画素。
-  - **DSC-S5**（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月発売） - 有効画素数510万画素。
+  - **DSC-S5**（[2005年](../Page/2005年.md "wikilink")2月発売） - 有効画素数510万画素。
   - **DSC-E6**（2005年9月発売） - 有効画素数600万画素。3型液晶モニタ、「タッチフォーカス」機能搭載。色はシルバーと白の2色。
   - **DSC-S6**（2005年10月発売） - 「タッチフォーカス」機能搭載。有効画素数600万画素。電源は[乾電池](../Page/乾電池.md "wikilink")のみ。
   - **DSC-S60**（販売店受注モデル） -　
   - **VPC-E60**（海外販売のみ） -
-  - **DSC-E7**（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月発売、国内向け専用モデル）
+  - **DSC-E7**（[2006年](../Page/2006年.md "wikilink")10月発売、国内向け専用モデル）
   - **VPC-S50**（2006年11月発売） - 有効画素数510万画素。欧州のみの発売。
   - **DSC-S7**（販売店受注モデル）
   - **VPC-S70**（2007年4月発売。海外販売のみ）
@@ -63,14 +63,14 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Xacti_c-6.jpg "wikilink")
 
-  - **DMX-C1**（2003年11月発売） - ガングリップタイプの製品では最初に発売された。有効画素数320万画素。充電や[パソコンとの接続用としてドッキングステーションを初めて採用した](../Page/パーソナルコンピュータ.md "wikilink")。最初に販売された製品の色は[シルバー](https://ja.wikipedia.org/wiki/銀色 "wikilink")1色であったが、後になって[赤](../Page/赤.md "wikilink")と[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")のモデルを出している。
-  - **DMX-C4**（2004年9月発売） - 初めて「手ぶれ防止」機能が付いた製品。この製品から自社の製品を「デジタルムービーカメラ」と称するようになった。有効画素数423万画素。色は[ゴールドと](https://ja.wikipedia.org/wiki/金色 "wikilink")[青](../Page/青.md "wikilink")と[オレンジ色](https://ja.wikipedia.org/wiki/オレンジ色 "wikilink")の3色。
+  - **DMX-C1**（2003年11月発売） - ガングリップタイプの製品では最初に発売された。有効画素数320万画素。充電や[パソコンとの接続用としてドッキングステーションを初めて採用した](../Page/パーソナルコンピュータ.md "wikilink")。最初に販売された製品の色は[シルバー](../Page/銀色.md "wikilink")1色であったが、後になって[赤](../Page/赤.md "wikilink")と[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")のモデルを出している。
+  - **DMX-C4**（2004年9月発売） - 初めて「手ぶれ防止」機能が付いた製品。この製品から自社の製品を「デジタルムービーカメラ」と称するようになった。有効画素数423万画素。色は[ゴールドと](../Page/金色.md "wikilink")[青](../Page/青.md "wikilink")と[オレンジ色](https://ja.wikipedia.org/wiki/オレンジ色 "wikilink")の3色。
   - **DMX-C5**（2005年3月発売） - DMX-C4に比べて半分程度の大きさまで小型化された。有効画素数500万画素。色はシルバー、ブロンズ色、[白](../Page/白.md "wikilink")の3色。
   - **DMX-C40**（2005年11月発売） - 60fps（1秒あたり60コマ）での[テレビ](../Page/テレビ.md "wikilink")再生機能を初めて搭載。
   - **DMX-C6**（2005年11月発売） - 有効画素数600万画素。色はシルバーと赤と[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")の3色に加え、[ハローキティ](../Page/ハローキティ.md "wikilink")モデルがある。9画素混合ムービー技術により、夕暮れ時や室内撮影でも高感度撮影可能になった。ファームウェアの更新で、SDHCメモリーカードに対応。
-  - **DMX-CG6**（2006年11月発売） - 内蔵している[ジャイロセンサー](https://ja.wikipedia.org/wiki/ジャイロセンサー "wikilink")で撮影時のぶれを記録して後からカメラ内で修正できる「手ぶれキャンセラー」機能を搭載。SDHCメモリーカード対応。有効画素数は600万画素。色はシルバーと[青](../Page/青.md "wikilink")と[ピンク](https://ja.wikipedia.org/wiki/ピンク "wikilink")の3色。
+  - **DMX-CG6**（2006年11月発売） - 内蔵している[ジャイロセンサー](https://ja.wikipedia.org/wiki/ジャイロセンサー "wikilink")で撮影時のぶれを記録して後からカメラ内で修正できる「手ぶれキャンセラー」機能を搭載。SDHCメモリーカード対応。有効画素数は600万画素。色はシルバーと[青](../Page/青.md "wikilink")と[ピンク](../Page/ピンク.md "wikilink")の3色。
   - **DMX-CG65**（2007年4月発売） - 動画の[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")にH.264を採用。内蔵しているジャイロセンサーで撮影時のぶれを記録して後からカメラ内で修正できる、「手ぶれキャンセラー」機能を搭載。SDHCメモリーカード（8GB）対応。有効画素数600万画素。色はシルバーと[緑](../Page/緑.md "wikilink")と黒の3色。
-  - **DMX-CG9**（2008年4月発売） - [CMOSイメージセンサ](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")をXactiで初めて採用。動画撮影時の静止画撮影の処理能力を向上させたほか高解像度化も実現した。有効画素数910万画素。色は白と赤と黒の3色。
+  - **DMX-CG9**（2008年4月発売） - [CMOSイメージセンサ](../Page/CMOSイメージセンサ.md "wikilink")をXactiで初めて採用。動画撮影時の静止画撮影の処理能力を向上させたほか高解像度化も実現した。有効画素数910万画素。色は白と赤と黒の3色。
   - **DMX-CG110**（黒は2010年1月発売。赤は同年4月） - 1080i撮影が可能な機種。有効画素数1190万画素。SDXCメモリーカード（64GB）対応。色は[赤](../Page/赤.md "wikilink")と[黒](https://ja.wikipedia.org/wiki/黒 "wikilink")の2色。
 
 <!-- end list -->
@@ -127,7 +127,7 @@
 
 ### 概要
 
-三洋電機はもともと、ICレコーダーを「DIPLY TALK（ディプリトーク）」または「DIPLY（ディプリ）」のブランドで展開していたが、[2007年](../Page/2007年.md "wikilink")に発売したICR-PS285RMで「Xacti」を冠した製品を初めて投入した\[2\]。2009年までは「DIPLY」ブランドの製品も引き続き投入されたが、2010年のICR-XPS03MFおよびICR-XPS01MFからは、「Xacti SOUND RECORDER（ザクティ・サウンドレコーダー）」にブランドを統一した。ICR-B002RM以外の全機種が[リニアPCM](../Page/パルス符号変調.md "wikilink")([WAV](https://ja.wikipedia.org/wiki/WAV "wikilink"))録音に対応する。
+三洋電機はもともと、ICレコーダーを「DIPLY TALK（ディプリトーク）」または「DIPLY（ディプリ）」のブランドで展開していたが、[2007年](../Page/2007年.md "wikilink")に発売したICR-PS285RMで「Xacti」を冠した製品を初めて投入した\[2\]。2009年までは「DIPLY」ブランドの製品も引き続き投入されたが、2010年のICR-XPS03MFおよびICR-XPS01MFからは、「Xacti SOUND RECORDER（ザクティ・サウンドレコーダー）」にブランドを統一した。ICR-B002RM以外の全機種が[リニアPCM](../Page/パルス符号変調.md "wikilink")([WAV](../Page/WAV.md "wikilink"))録音に対応する。
 
 ### 製品一覧
 
@@ -153,7 +153,7 @@
 
 そのため、自立性を高めて顧客・取引先との信頼関係をさらに深化させ、OEM事業拡大を目指すべく、[2012年](../Page/2012年.md "wikilink")7月に三洋電機の全額出資で三洋DIソリューションズを設立。三洋電機の国内デジタルカメラ・デジタルムービーカメラ事業を吸収分割により承継した。
 
-[2013年](../Page/2013年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、三洋電機が所有する三洋DIソリューションズの全株式が、[アドバンテッジ パートナーズ有限責任事業組合による](https://ja.wikipedia.org/wiki/アドバンテッジ_パートナーズ "wikilink")[投資ファンド](../Page/投資ファンド.md "wikilink")が出資する[特別目的会社](https://ja.wikipedia.org/wiki/特別目的会社 "wikilink")株式会社AP26に譲渡され、翌[4月1日](../Page/4月1日.md "wikilink")付で株式会社ザクティに社名変更した。
+[2013年](../Page/2013年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、三洋電機が所有する三洋DIソリューションズの全株式が、[アドバンテッジ パートナーズ有限責任事業組合による](../Page/アドバンテッジ_パートナーズ.md "wikilink")[投資ファンド](../Page/投資ファンド.md "wikilink")が出資する[特別目的会社](https://ja.wikipedia.org/wiki/特別目的会社 "wikilink")株式会社AP26に譲渡され、翌[4月1日](../Page/4月1日.md "wikilink")付で株式会社ザクティに社名変更した。
 
 [2018年](../Page/2018年.md "wikilink")4月、株式会社ザクティホールディングスの全株式を[日本アジアグループ](../Page/日本アジアグループ.md "wikilink")株式会社が取得し、同社の子会社となった。
 
@@ -167,7 +167,7 @@
   - 2007年[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - 三洋電機が4社と協力して、"Xacti2.0プロジェクト"を発足。
   - 2007年[5月31日](../Page/5月31日.md "wikilink") - "Xacti2.0プロジェクト"に新たに4社が加わる。
   - 2008年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - パナソニックと三洋電機が資本・業務提携契約を結ぶ\[7\]。
-  - 2009年[12月21日](../Page/12月21日.md "wikilink") - パナソニックが友好的[TOBによって三洋電機株の過半数を取得](https://ja.wikipedia.org/wiki/株式公開買付け "wikilink")、子会社となる\[8\]。
+  - 2009年[12月21日](../Page/12月21日.md "wikilink") - パナソニックが友好的[TOBによって三洋電機株の過半数を取得](../Page/株式公開買付け.md "wikilink")、子会社となる\[8\]。
   - [2011年](../Page/2011年.md "wikilink")4月1日 - [株式交換](../Page/株式交換.md "wikilink")により三洋電機がパナソニックの完全子会社となる。Xactiブランドによるデジタルカメラ・ICレコーダーの生産はこの段階で終了、パナソニックのAVCネットワークス社へ移管された。
   - 2011年[5月25日](../Page/5月25日.md "wikilink") - パナソニックが、Xactiを受け継いだ「デジタルムービーカメラ」の国内発売を発表\[9\]。
   - 2012年[4月25日](../Page/4月25日.md "wikilink") - 三洋電機が国内デジタルカメラ・デジタルムービーカメラ事業を分社化すると発表\[10\]。

@@ -9,9 +9,9 @@
 
 チェコのヌーディストビーチ、コロニー、もしくは一般家庭などのナチュリスムの様子を収録したものが主となっている。
 
-作品の多くは特定のイベントを収録したものとなっており、具体的には[ミスコンテスト](https://ja.wikipedia.org/wiki/ミスコンテスト "wikilink")や[体育祭](https://ja.wikipedia.org/wiki/体育祭 "wikilink")、[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")教室、[キャンプ](../Page/キャンプ.md "wikilink")大会、[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")会、[誕生日](../Page/誕生日.md "wikilink")会などがあげられる。
+作品の多くは特定のイベントを収録したものとなっており、具体的には[ミスコンテスト](https://ja.wikipedia.org/wiki/ミスコンテスト "wikilink")や[体育祭](https://ja.wikipedia.org/wiki/体育祭 "wikilink")、[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")教室、[キャンプ](../Page/キャンプ.md "wikilink")大会、[クリスマス](../Page/クリスマス.md "wikilink")会、[誕生日](../Page/誕生日.md "wikilink")会などがあげられる。
 
-撮影機材や録音機材、その他[オーサリング](https://ja.wikipedia.org/wiki/オーサリング "wikilink")ツールには余りよいものを使っているとは言えないと見られ、同業他社の作品と比較すると画質は悪い。また、作品の構成、編集にも拙さが見られ、一つの場面が冗長であったり、逆に状況描写や結果的な場面を描かずに次々とめまぐるしく画面が変わったりすることも特徴としてあげられる。反面、他の同業に見られるような演出的なものは殆ど見られず、[やらせ](https://ja.wikipedia.org/wiki/やらせ "wikilink")を含めた「作られた映像」といったものは無い。
+撮影機材や録音機材、その他[オーサリング](https://ja.wikipedia.org/wiki/オーサリング "wikilink")ツールには余りよいものを使っているとは言えないと見られ、同業他社の作品と比較すると画質は悪い。また、作品の構成、編集にも拙さが見られ、一つの場面が冗長であったり、逆に状況描写や結果的な場面を描かずに次々とめまぐるしく画面が変わったりすることも特徴としてあげられる。反面、他の同業に見られるような演出的なものは殆ど見られず、[やらせ](../Page/やらせ.md "wikilink")を含めた「作られた映像」といったものは無い。
 
 なお、過去にはheliosnatura.comの[ドメイン名](../Page/ドメイン名.md "wikilink")を有し、公式[サイトを公開していたが](../Page/ウェブサイト.md "wikilink")、現在はドメイン自体が失効し、サイトは事実上消滅している。
 

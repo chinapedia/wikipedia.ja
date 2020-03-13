@@ -1,7 +1,7 @@
 > この記事は[ \(THE HIGH-LOWS\)](https://ja.wikipedia.org/wiki/_\(THE_HIGH-LOWS\))から翻訳されています。
 
 
-「**グッドバイ**」は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[THE HIGH-LOWSの](https://ja.wikipedia.org/wiki/THE_HIGH-LOWS "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")発売。発売元は[キティ](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**グッドバイ**」は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[THE HIGH-LOWSの](../Page/THE_HIGH-LOWS.md "wikilink")2枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[11月25日](../Page/11月25日.md "wikilink")発売。発売元は[キティ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -15,7 +15,7 @@
 
 1.  **グッドバイ** (3:52)
       -
-        （作詞・作曲：[真島昌利](https://ja.wikipedia.org/wiki/真島昌利 "wikilink")）
+        （作詞・作曲：[真島昌利](../Page/真島昌利.md "wikilink")）
         1stアルバムに収録されているものと同テイク。
 2.  **ジュー・ジュー** (3:33)
       -

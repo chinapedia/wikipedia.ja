@@ -31,7 +31,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">オープニングテーマ</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a><br />
 <a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/4月23日.md" title="wikilink">4月23日</a> - <a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/11月19日.md" title="wikilink">11月19日</a></p></td>
 </tr>
 <tr class="even">

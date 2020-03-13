@@ -6,7 +6,7 @@
 ## 内容
 
   - 10周年を記念して発売された名探偵コナンシリーズ3作目。「Happy Birthday」を除くすべての曲目が前2作および次のアルバムに収録されている。
-  - 非ビーイング歌手の曲が収録されなかった『[THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜.md "wikilink")』とは違い、本作では非ビーイング歌手である[杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")（所属は[オフィスオーガスタ](../Page/オフィスオーガスタ.md "wikilink")）の曲が収録されている。
+  - 非ビーイング歌手の曲が収録されなかった『[THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜.md "wikilink")』とは違い、本作では非ビーイング歌手である[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")（所属は[オフィスオーガスタ](../Page/オフィスオーガスタ.md "wikilink")）の曲が収録されている。
 
 ## 収録曲
 

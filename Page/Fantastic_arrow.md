@@ -1,7 +1,7 @@
 > この記事は[Fantastic arrow](https://ja.wikipedia.org/wiki/Fantastic_arrow)から翻訳されています。
 
 
-『**fantastic arrow**』（ファンタスティック・アロー）は、[栗林みな実](../Page/栗林みな実.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[Lantisから発売された](https://ja.wikipedia.org/wiki/ランティス "wikilink")。
+『**fantastic arrow**』（ファンタスティック・アロー）は、[栗林みな実](../Page/栗林みな実.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。
 
 ## 概要
 

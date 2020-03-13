@@ -1,7 +1,7 @@
 > この記事は[TS](https://ja.wikipedia.org/wiki/TS)から翻訳されています。
 
 
-**新宿TSミュージックの専属ストリッパー**（しんじゅくティーエスミュージックのせんぞくすとりっぱー）では、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](https://ja.wikipedia.org/wiki/歌舞伎町 "wikilink")にある[ストリップ劇場](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")・[新宿TSミュージック](../Page/新宿TSミュージック.md "wikilink")に所属する[ストリッパーを列挙する](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")。
+**新宿TSミュージックの専属ストリッパー**（しんじゅくティーエスミュージックのせんぞくすとりっぱー）では、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")にある[ストリップ劇場](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")・[新宿TSミュージック](../Page/新宿TSミュージック.md "wikilink")に所属する[ストリッパーを列挙する](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")。
 
   - 現役者はデビュー年度別に記載。
   - 非現役者は50音順に記載。

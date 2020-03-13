@@ -17,17 +17,17 @@
   - [J-POP SQUARE](https://ja.wikipedia.org/wiki/J-POP_SQUARE "wikilink")（FM-FUJI）
   - [ザ・サンシャイン・コースト](https://ja.wikipedia.org/wiki/ザ・サンシャイン・コースト "wikilink")(2001年4月-2003年3月、[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink"))
   - [ANNAのHAPPY-GO-LUCKY](https://ja.wikipedia.org/wiki/ANNAのHAPPY-GO-LUCKY "wikilink") （2002年 - 2006年3月、[TOKYO FM](../Page/エフエム東京.md "wikilink")）
-  - [ALL JAPAN SUPER COUNT DOWN](https://ja.wikipedia.org/wiki/ALL_JAPAN_SUPER_COUNT_DOWN "wikilink") （2003年4月-2005年3月、[NACK5](../Page/エフエムナックファイブ.md "wikilink")）
+  - [ALL JAPAN SUPER COUNT DOWN](../Page/ALL_JAPAN_SUPER_COUNT_DOWN.md "wikilink") （2003年4月-2005年3月、[NACK5](../Page/エフエムナックファイブ.md "wikilink")）
   - [爆笑問題の検索ちゃん](../Page/爆笑問題の検索ちゃん.md "wikilink")（テレビ朝日）**天の声**ナレーター（妊娠のため降板）
   - [au DOWNLOAD MUSIC CHART](https://ja.wikipedia.org/wiki/au_DOWNLOAD_MUSIC_CHART "wikilink") （2005年4月 - 2006年12月及び2007年4月 - 2008年3月、[JFN](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
 
-※2007年1 - 3月は出産のため番組を一時降板。代理として「[RADIO MAGAZINE WHAT'S IN?](https://ja.wikipedia.org/wiki/RADIO_MAGAZINE_WHAT'S_IN? "wikilink")」（[1996](../Page/1996年.md "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")放送）のDJだった[江藤麻由](../Page/江藤麻由.md "wikilink")がDJを務めた。
+※2007年1 - 3月は出産のため番組を一時降板。代理として「[RADIO MAGAZINE WHAT'S IN?](../Page/RADIO_MAGAZINE_WHAT'S_IN?.md "wikilink")」（[1996](../Page/1996年.md "wikilink") - [2006年](../Page/2006年.md "wikilink")放送）のDJだった[江藤麻由](../Page/江藤麻由.md "wikilink")がDJを務めた。
 
   - [FLY\!DAY TRIPPER〜FROM SKY GATE〜TRIP](https://ja.wikipedia.org/wiki/FLY!DAY_TRIPPER〜FROM_SKY_GATE〜 "wikilink")1 （2006年7月 - 2008年3月、bayfm）
 
 ※2007年1 - 3月は出産のため番組を一時降板。
 
-  - [CircleKSunkus wakuwaku MUSIC-LABO](https://ja.wikipedia.org/wiki/CircleKSunkus_wakuwaku_MUSIC-LABO "wikilink") （[FMヨコハマ](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")、bayfm、NACK5）
+  - [CircleKSunkus wakuwaku MUSIC-LABO](https://ja.wikipedia.org/wiki/CircleKSunkus_wakuwaku_MUSIC-LABO "wikilink") （[FMヨコハマ](../Page/横浜エフエム放送.md "wikilink")、bayfm、NACK5）
 
 ### ゲスト出演
 

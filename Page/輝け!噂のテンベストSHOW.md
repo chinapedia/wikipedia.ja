@@ -1,7 +1,7 @@
 > この記事は[!SHOW](https://ja.wikipedia.org/wiki/!SHOW)から翻訳されています。
 
 
-『**輝け\!噂のテンベストSHOW**』(かがやけ\!うわさのテンベストショー)とは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[ハウフルス](https://ja.wikipedia.org/wiki/ハウフルス "wikilink")の共同制作、[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")で毎週木曜21:00 ‐ 21:54（[JST](../Page/日本標準時.md "wikilink")）に放送され、[関口宏](../Page/関口宏.md "wikilink")と[三宅裕司](../Page/三宅裕司.md "wikilink")が[司会](../Page/司会.md "wikilink")を務めてきた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")のシリーズ。『**テンベストSHOW**』とも称される。
+『**輝け\!噂のテンベストSHOW**』(かがやけ\!うわさのテンベストショー)とは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[ハウフルス](../Page/ハウフルス.md "wikilink")の共同制作、[日本テレビ系列](../Page/日本テレビ系列.md "wikilink")で毎週木曜21:00 ‐ 21:54（[JST](../Page/日本標準時.md "wikilink")）に放送され、[関口宏](../Page/関口宏.md "wikilink")と[三宅裕司](../Page/三宅裕司.md "wikilink")が[司会](../Page/司会.md "wikilink")を務めてきた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")のシリーズ。『**テンベストSHOW**』とも称される。
 
 本項ではリニューアル版である『**新テンベストSHOW**』（しんテンベストショー）についても述べる。
 
@@ -27,7 +27,7 @@
 
 ## 新テンベストSHOW
 
-[1996年](../Page/1996年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")より開始。[料理バラエティ番組としてスタートした新シリーズは](https://ja.wikipedia.org/wiki/料理番組 "wikilink")、前シリーズ後半のコンセプトを受け継ぎ、司会や出演者も『輝け\!〜』から続投の者が多い。
+[1996年](../Page/1996年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")より開始。[料理バラエティ番組としてスタートした新シリーズは](../Page/料理番組.md "wikilink")、前シリーズ後半のコンセプトを受け継ぎ、司会や出演者も『輝け\!〜』から続投の者が多い。
 
 放送は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月13日](../Page/3月13日.md "wikilink")で終了したが、本番組で確立されたルールやコンセプトは続く『[どっちの料理ショー](../Page/どっちの料理ショー.md "wikilink")』にも形を変えて引き継がれた。
 
@@ -118,7 +118,7 @@
 </tr>
 <tr class="odd">
 <td><p>1月30日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/カレーパン" title="wikilink">カレーパン</a></strong></p></td>
+<td><p><strong><a href="../Page/カレーパン.md" title="wikilink">カレーパン</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/空閑利幸" title="wikilink">空閑利幸</a></p></td>
 </tr>
 <tr class="even">

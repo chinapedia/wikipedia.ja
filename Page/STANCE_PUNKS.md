@@ -5,11 +5,11 @@
 
 ## 概要
 
-下北沢屋根裏を本拠地とし1998年から活動を開始。パンクを展開し、バンドの歌詞や世界観は[THE BLUE HEARTSや初期の](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")[THE CLASHなどの影響が色濃く見受けられる](https://ja.wikipedia.org/wiki/THE_CLASH "wikilink")\[2\]\[3\]\[4\]\[5\]。少年の反抗歌や、曲がった世界に対する叫びによって展開されるものが多い。バンド自身も「ガキに届かなきゃパンクではない」というスタンスの元で活動している\[6\]。同時期デビューは[GOING STEADY](https://ja.wikipedia.org/wiki/GOING_STEADY "wikilink")（現[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")）、[ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")など。[COBRA](../Page/COBRA_\(バンド\).md "wikilink")、[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")、[SAなどの](../Page/SA_\(バンド\).md "wikilink")、日本の[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンドとの繋がりも深い。
+下北沢屋根裏を本拠地とし1998年から活動を開始。パンクを展開し、バンドの歌詞や世界観は[THE BLUE HEARTSや初期の](../Page/THE_BLUE_HEARTS.md "wikilink")[THE CLASHなどの影響が色濃く見受けられる](https://ja.wikipedia.org/wiki/THE_CLASH "wikilink")\[2\]\[3\]\[4\]\[5\]。少年の反抗歌や、曲がった世界に対する叫びによって展開されるものが多い。バンド自身も「ガキに届かなきゃパンクではない」というスタンスの元で活動している\[6\]。同時期デビューは[GOING STEADY](../Page/GOING_STEADY.md "wikilink")（現[銀杏BOYZ](https://ja.wikipedia.org/wiki/銀杏BOYZ "wikilink")）、[ガガガSP](../Page/ガガガSP.md "wikilink")など。[COBRA](../Page/COBRA_\(バンド\).md "wikilink")、[THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")、[SAなどの](../Page/SA_\(バンド\).md "wikilink")、日本の[パンク・ロック](../Page/パンク・ロック.md "wikilink")バンドとの繋がりも深い。
 
-2003年に映画『[仁義なき戦い](https://ja.wikipedia.org/wiki/仁義なき戦い "wikilink")』などで名を博した[深作欣二](../Page/深作欣二.md "wikilink")監督率いる「深作組」からの指名を受け、1stアルバムに収録されている「真夜中少年突撃団」が映画『[バトル・ロワイアルII 鎮魂歌](../Page/バトル・ロワイアルII_鎮魂歌.md "wikilink")』の主題歌に起用される\[7\]。[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")で放送されたドラマ『[貫太ですッ\!](../Page/貫太ですッ!.md "wikilink")』のテーマ曲にも同バンドの楽曲が抜擢された。2005年4月からは、[テレビ東京系アニメ](https://ja.wikipedia.org/wiki/TXN "wikilink")『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』の6代目オープニングテーマに「ノーボーイ・ノークライ」が採用、2006年には「LET IT ROCK」が[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")の[福留孝介](https://ja.wikipedia.org/wiki/福留孝介 "wikilink")の入場テーマ曲として使用されている。2008年にはアニメ『[ソウルイーター](https://ja.wikipedia.org/wiki/ソウルイーター "wikilink")』のエンディングテーマに「アイワナビー」が採用される\[8\]。
+2003年に映画『[仁義なき戦い](https://ja.wikipedia.org/wiki/仁義なき戦い "wikilink")』などで名を博した[深作欣二](../Page/深作欣二.md "wikilink")監督率いる「深作組」からの指名を受け、1stアルバムに収録されている「真夜中少年突撃団」が映画『[バトル・ロワイアルII 鎮魂歌](../Page/バトル・ロワイアルII_鎮魂歌.md "wikilink")』の主題歌に起用される\[7\]。[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")で放送されたドラマ『[貫太ですッ\!](../Page/貫太ですッ!.md "wikilink")』のテーマ曲にも同バンドの楽曲が抜擢された。2005年4月からは、[テレビ東京系アニメ](https://ja.wikipedia.org/wiki/TXN "wikilink")『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』の6代目オープニングテーマに「ノーボーイ・ノークライ」が採用、2006年には「LET IT ROCK」が[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")の[福留孝介](https://ja.wikipedia.org/wiki/福留孝介 "wikilink")の入場テーマ曲として使用されている。2008年にはアニメ『[ソウルイーター](https://ja.wikipedia.org/wiki/ソウルイーター "wikilink")』のエンディングテーマに「アイワナビー」が採用される\[8\]。
 
-[6月9日](../Page/6月9日.md "wikilink")を「ロックの日」と銘打ち、2000年6月9日から毎年無料ライブを開催している\[9\]。開催場所は[下北沢屋根裏に始まり](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink")、2003年から[川崎CLUB CITTA'](../Page/CLUB_CITTA'.md "wikilink")、2012年から[横浜BAY HALLで行われている](https://ja.wikipedia.org/wiki/横浜ベイホール "wikilink")\[10\]。過去出演者は[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")、[andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")、[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")、[Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")、[ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")など、パンクだけではなく様々なジャンルの雄が肩を並べる。
+[6月9日](../Page/6月9日.md "wikilink")を「ロックの日」と銘打ち、2000年6月9日から毎年無料ライブを開催している\[9\]。開催場所は[下北沢屋根裏に始まり](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink")、2003年から[川崎CLUB CITTA'](../Page/CLUB_CITTA'.md "wikilink")、2012年から[横浜BAY HALLで行われている](https://ja.wikipedia.org/wiki/横浜ベイホール "wikilink")\[10\]。過去出演者は[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")、[andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")、[the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")、[Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")、[ザ50回転ズ](../Page/ザ50回転ズ.md "wikilink")など、パンクだけではなく様々なジャンルの雄が肩を並べる。
 
 また、ボーカル[TSURU](https://ja.wikipedia.org/wiki/TSURU "wikilink")がメイン[パーソナリティを務めるラジオ番組](../Page/ラジオパーソナリティ.md "wikilink")『路地裏の大泥棒』が[東海ラジオで放送されていた](../Page/東海ラジオ放送.md "wikilink")。TSURUが地元名古屋の球団、中日ドラゴンズの熱狂的ファンであり、このラジオの中で製作された「我らがドラゴンズ」は有線放送リクエストで聴く事ができる。道を歩く通行人を突然ゲスト出演させたりした。
 
@@ -23,13 +23,13 @@
 
 [2001年](../Page/2001年.md "wikilink")、ミニアルバム『[スタンスパンクス](https://ja.wikipedia.org/wiki/スタンスパンクス "wikilink")』にてデビュー。オリコンインディーズチャート5位を記録したこのミニアルバムで一気に全国での知名度を高める\[15\]。ベーシストの中田大介が脱退し、川崎テツシが加入。
 
-[2002年](../Page/2002年.md "wikilink")、シングル「クソッタレ解放区」、1stアルバム『[STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS_\(アルバム\) "wikilink")』をリリース。[新宿アルタ前](../Page/スタジオアルタ.md "wikilink")、名古屋[セントラルパーク](https://ja.wikipedia.org/wiki/セントラルパーク "wikilink")、大阪三角公園にてゲリラライブを行ない、新宿では3000人以上の観客が殺到し騒いだ為、警官隊が出動する騒ぎとなり新聞に取り上げられる。アルバム『STANCE PUNKS』は[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")12位を記録、オリコンインディーズチャートでは6週間にわたり首位を独走する\[16\]。
+[2002年](../Page/2002年.md "wikilink")、シングル「クソッタレ解放区」、1stアルバム『[STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS_\(アルバム\) "wikilink")』をリリース。[新宿アルタ前](../Page/スタジオアルタ.md "wikilink")、名古屋[セントラルパーク](https://ja.wikipedia.org/wiki/セントラルパーク "wikilink")、大阪三角公園にてゲリラライブを行ない、新宿では3000人以上の観客が殺到し騒いだ為、警官隊が出動する騒ぎとなり新聞に取り上げられる。アルバム『STANCE PUNKS』は[オリコンチャート](../Page/オリコンチャート.md "wikilink")12位を記録、オリコンインディーズチャートでは6週間にわたり首位を独走する\[16\]。
 
 [2003年](../Page/2003年.md "wikilink")、シングル「最低最高999」、ライブDVD『一撃必殺』をリリース。全国62ヵ所のライブツアー後、ドラムス担当の小菅淳が脱退\[17\]。翌年、柿健一が加入。
 
 [2004年](../Page/2004年.md "wikilink")、シングル「ロストボーイズ★マーチ」(TOWER RECORDS限定)、「19roll」、アルバム『[LET IT ROLL](https://ja.wikipedia.org/wiki/LET_IT_ROLL "wikilink")』をリリース。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、シングル「モニー・モニー・モニー」で[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")内の新興ロック・レーベル、Kowalskiより[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")\[18\]。同年にシングル「ノーボーイ・ノークライ」、メジャー第一弾となるアルバム『[HOWLING IDOL〜死ねなかった電撃野郎](https://ja.wikipedia.org/wiki/HOWLING_IDOL〜死ねなかった電撃野郎 "wikilink")』、自身初となる[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")作品集『PV/DV mania\!』を発表\[19\]。
+[2005年](../Page/2005年.md "wikilink")、シングル「モニー・モニー・モニー」で[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")内の新興ロック・レーベル、Kowalskiより[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")\[18\]。同年にシングル「ノーボーイ・ノークライ」、メジャー第一弾となるアルバム『[HOWLING IDOL〜死ねなかった電撃野郎](https://ja.wikipedia.org/wiki/HOWLING_IDOL〜死ねなかった電撃野郎 "wikilink")』、自身初となる[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")作品集『PV/DV mania\!』を発表\[19\]。
 
 [2006年](../Page/2006年.md "wikilink")、バンド自身初となる[アメリカツアー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink") (10ヵ所) に出発。[MTV](../Page/MTV.md "wikilink")から急遽インタビューを受けるなど\[20\]、その模様は全米放送される。帰国後、シングル「シャロルはブルー」、「LET IT ROCK」、アルバム『[BUBBLEGUM VIKING](https://ja.wikipedia.org/wiki/BUBBLEGUM_VIKING "wikilink")』を発表\[21\]。
 
@@ -41,7 +41,7 @@
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")、アルバム『[ザ・ワールド・イズ・マイン](https://ja.wikipedia.org/wiki/ザ・ワールド・イズ・マイン_\(STANCE_PUNKSのアルバム\) "wikilink")』を発表。同タイトル曲のPVが[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で先行アップされ、その衝撃的な映像が話題になる。内容はボーカルのTSURUが[渋谷スクランブル交差点](https://ja.wikipedia.org/wiki/渋谷スクランブル交差点 "wikilink")から[渋谷センター街](../Page/渋谷センター街.md "wikilink")を大暴れしながら駆け抜け、最後は交番にダイブをするというもの\[23\]。また同アルバム発売前日にも渋谷の街中でゲリラライブを強行し、暴れるファンと警官隊が揉みあい、暴動寸前となる\[24\]。[10月18日](../Page/10月18日.md "wikilink")、渋谷O-WESTでのライブをもって、ドラムスの柿健一が脱退\[25\]。
 
-[2011年](../Page/2011年.md "wikilink")、11月5日の渋谷クアトロ公演にて、ライブ会場限定シングル「stay young/原発ソング」を発表。同シングルにカップリングで収録されている「原発ソング」の歌詞の内容が過激だった為、物議を醸した\[26\]。サポートドラマーとして、高橋宏貴 ([ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink"))、岡山健二 ([andymori](https://ja.wikipedia.org/wiki/andymori "wikilink"))、浅沼俊一 ([ピンクリボン軍](../Page/ピンクリボン軍.md "wikilink")) が参加し、正式ドラム不在のバンドを支える。
+[2011年](../Page/2011年.md "wikilink")、11月5日の渋谷クアトロ公演にて、ライブ会場限定シングル「stay young/原発ソング」を発表。同シングルにカップリングで収録されている「原発ソング」の歌詞の内容が過激だった為、物議を醸した\[26\]。サポートドラマーとして、高橋宏貴 ([ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink"))、岡山健二 ([andymori](https://ja.wikipedia.org/wiki/andymori "wikilink"))、浅沼俊一 ([ピンクリボン軍](../Page/ピンクリボン軍.md "wikilink")) が参加し、正式ドラム不在のバンドを支える。
 
 [2012年](../Page/2012年.md "wikilink")、6月9日ロックの日より、サポートドラマーを担当していた佐藤康が正式加入。
 
@@ -336,7 +336,7 @@ SRCL-5599</p></td>
 <td><p>2002年8月28日</p></td>
 <td><p><strong><a href="../Page/THE_BLUE_HEARTS_2002_TRIBUTE.md" title="wikilink">THE BLUE HEARTS 2002 TRIBUTE</a></strong></p></td>
 <td><p>UPCH-1171</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS" title="wikilink">THE BLUE HEARTSの</a><a href="../Page/トリビュート・アルバム.md" title="wikilink">トリビュート・アルバム</a>。M-12「リンダリンダ」で参加。</p></td>
+<td><p><a href="../Page/THE_BLUE_HEARTS.md" title="wikilink">THE BLUE HEARTSの</a><a href="../Page/トリビュート・アルバム.md" title="wikilink">トリビュート・アルバム</a>。M-12「リンダリンダ」で参加。</p></td>
 </tr>
 <tr class="even">
 <td><p>2004年12月16日</p></td>
@@ -415,7 +415,7 @@ SRCL-5599</p></td>
   - 2009年 - PEACE & DESTROX TOUR
   - 2010年 - ゲリラライブ「渋谷暴動」
   - 2010年 - ザ・ワールド・イズ・マインTOUR
-  - 2011年 - STANCE PUNKS presents『火の玉宣言 vol.32』～STANCE PUNKS vs [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink")～
+  - 2011年 - STANCE PUNKS presents『火の玉宣言 vol.32』～STANCE PUNKS vs [ガガガSP](../Page/ガガガSP.md "wikilink")～
   - 2012年 - 突然始まるstay young遠方TOUR
   - 2012年 - STANCE PUNKS presents 火の玉宣言 vol.36～地下パンクの逆襲～
   - 2012年 - STANCE PUNKS『アディオス2012爆裂ワンマンLIVE』
@@ -447,7 +447,7 @@ SRCL-5599</p></td>
   - 2010年07月10日 - [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2010～今年も子供に戻りな祭～
   - 2010年08月07日 - 八食サマーフリーライブ 2010
   - 2011年05月04日 - [COMIN'KOBE](https://ja.wikipedia.org/wiki/COMIN'KOBE "wikilink")11
-  - 2011年09月24日 - [ガガガSP](https://ja.wikipedia.org/wiki/ガガガSP "wikilink") 長田大行進曲 2011
+  - 2011年09月24日 - [ガガガSP](../Page/ガガガSP.md "wikilink") 長田大行進曲 2011
   - 2011年10月09日 - JUNIOR pre.\[ヤロウドモと、PACIFICの女神in OSAKA\!\!\!\]
   - 2011年11月13日 - PUNK LIVES\! FESTIVAL 2012
   - 2012年10月03日 - 「東京」 ～暴走する宴～

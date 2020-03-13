@@ -47,7 +47,7 @@
   - [大坪幸代](../Page/大坪幸代.md "wikilink")
   - 北村史子
   - [木竜亜希子](../Page/木竜亜希子.md "wikilink")
-  - [鈴木秀喜](https://ja.wikipedia.org/wiki/鈴木秀喜 "wikilink")（2003年 - 2010年3月27日）
+  - [鈴木秀喜](../Page/鈴木秀喜.md "wikilink")（2003年 - 2010年3月27日）
   - [村山千代](../Page/村山千代.md "wikilink")（2004年 - 2010年3月27日） - 『NSTスーパーニュース』フィールドキャスター就任のため降板
   - [堀恭子](../Page/堀恭子.md "wikilink")
   - [廣川明美](../Page/廣川明美.md "wikilink")（2006年8月 - 2011年10月15日）

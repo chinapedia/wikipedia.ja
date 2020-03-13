@@ -13,7 +13,7 @@
 
 1.  **お気に入りの自転車** \[4:00\]
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[雲子](../Page/イズミカワソラ.md "wikilink")、[作曲](../Page/作曲.md "wikilink")：梶山織江 from swiss camera、[編曲](../Page/編曲.md "wikilink")：[山崎燿](https://ja.wikipedia.org/wiki/山崎燿 "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：[雲子](../Page/イズミカワソラ.md "wikilink")、[作曲](../Page/作曲.md "wikilink")：梶山織江 from swiss camera、[編曲](../Page/編曲.md "wikilink")：[山崎燿](https://ja.wikipedia.org/wiki/山崎燿 "wikilink")
 2.  **Romantic Flight** \[3:30\]
       -
         作詞・作曲：[岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")、編曲：村山達哉、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")・コーラス[アレンジ](../Page/編曲.md "wikilink")：岡崎律子
@@ -22,7 +22,7 @@
         作詞：美結、作曲・編曲：D.R.Y
 4.  **見つめられたら〜when I fallin' love with you** \[4:54\]
       -
-        作詞：[松浦有希](https://ja.wikipedia.org/wiki/松浦有希 "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：五島翔
+        作詞：[松浦有希](../Page/松浦有希.md "wikilink")、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：五島翔
 5.  **Rain** \[2:55\]
       -
         作詞：[高柳恋](../Page/高柳恋.md "wikilink")、作曲：[松岡モトキ](../Page/松岡モトキ.md "wikilink")、編曲：山崎燿
@@ -33,7 +33,7 @@
       -
         作詞・作曲：[岡田実音](https://ja.wikipedia.org/wiki/岡田実音 "wikilink")、編曲：岡田実音・高島智明
     <!-- end list -->
-      - アルバムリリース後[丹下桜](https://ja.wikipedia.org/wiki/丹下桜 "wikilink")が歌う「Bright shine on Time」と曲調が似ている事で話題になった（ちなみにこれは両曲共に同じ作家によって提供されたものである）。
+      - アルバムリリース後[丹下桜](../Page/丹下桜.md "wikilink")が歌う「Bright shine on Time」と曲調が似ている事で話題になった（ちなみにこれは両曲共に同じ作家によって提供されたものである）。
 8.  **ひまわりと飛行機雲** \[4:18\]
       -
         作詞・作曲：雲子、編曲：山崎燿
@@ -57,10 +57,10 @@
 
 ## タイアップ
 
-| 曲名              | タイアップ                                                                                                                                                                                                                                          |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Romantic Flight | [文化放送系列](../Page/文化放送A&Gゾーン.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[堀江由衣の天使のたまご](../Page/堀江由衣の天使のたまご.md "wikilink")」2代目[オープニングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink")                                                   |
-| It's my style   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[陸上防衛隊まおちゃん](https://ja.wikipedia.org/wiki/陸上防衛隊まおちゃん "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/主題歌 "wikilink") |
-| Angel 恋をした      | 文化放送系列ラジオ番組「堀江由衣の天使のたまご」2代目エンディングテーマ                                                                                                                                                                                                           |
+| 曲名              | タイアップ                                                                                                                                                                                                    |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Romantic Flight | [文化放送系列](../Page/文化放送A&Gゾーン.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")「[堀江由衣の天使のたまご](../Page/堀江由衣の天使のたまご.md "wikilink")」2代目[オープニングテーマ](../Page/主題歌.md "wikilink")                                |
+| It's my style   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[陸上防衛隊まおちゃん](../Page/陸上防衛隊まおちゃん.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink") |
+| Angel 恋をした      | 文化放送系列ラジオ番組「堀江由衣の天使のたまご」2代目エンディングテーマ                                                                                                                                                                     |
 
 [Category:2003年のアルバム](https://ja.wikipedia.org/wiki/Category:2003年のアルバム "wikilink") [Category:堀江由衣のアルバム](https://ja.wikipedia.org/wiki/Category:堀江由衣のアルバム "wikilink") [Category:ラジオ番組の主題歌](https://ja.wikipedia.org/wiki/Category:ラジオ番組の主題歌 "wikilink")

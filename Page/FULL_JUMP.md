@@ -5,13 +5,13 @@
 
 ## 概要
 
-  - 野球中継のテーマソングであったこともあり、当時[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の選手であった[二岡智宏](../Page/二岡智宏.md "wikilink")との[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")バージョンも存在する。
+  - 野球中継のテーマソングであったこともあり、当時[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の選手であった[二岡智宏](../Page/二岡智宏.md "wikilink")との[デュエット](../Page/デュエット.md "wikilink")バージョンも存在する。
   - この楽曲で[2003年](../Page/2003年.md "wikilink")の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』（[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")）に初出場、巨大で派手な衣装で登場した。発表順番は3組目で、対戦相手は同じく2003年初出場の[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の「[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEの曲\).md "wikilink")」だった。
 
 ## 収録曲
 
 1.  **FULL JUMP**
-      - 作詞：愛内里菜 / 作曲：[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink") / 編曲：三輪緑
+      - 作詞：愛内里菜 / 作曲：[輝門](../Page/輝門.md "wikilink") / 編曲：三輪緑
 2.  **HIMAWARI**
       - 作詞：愛内里菜 / 作曲：[宝仙明伽音](https://ja.wikipedia.org/wiki/宝仙明伽音 "wikilink") / 編曲：コリエンタリズム
 3.  **FULL JUMP "Full throttle mix"**

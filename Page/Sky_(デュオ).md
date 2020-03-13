@@ -1,7 +1,7 @@
 > この記事は[Sky \(\)](https://ja.wikipedia.org/wiki/Sky_\(\))から翻訳されています。
 
 
-**Sky**（スカイ）は[大阪府](../Page/大阪府.md "wikilink")出身の[姉妹](../Page/姉妹.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[デュオ](../Page/デュオ.md "wikilink")。2010年4月にシングル「夢ひとつ -2010Special-」でユニバーサルミュージックよりメジャーデビュー[UNIVERSAL J](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。2010年6月にミニアルバム「相支相合」をリリース。2014年12月よりOffice Aiso-L(アイソール)として独立。楽曲制作やライブなど音楽活動を中心にしながら、レポーターやモデルなど幅広く活動している。
+**Sky**（スカイ）は[大阪府](../Page/大阪府.md "wikilink")出身の[姉妹](../Page/姉妹.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")[デュオ](../Page/デュオ.md "wikilink")。2010年4月にシングル「夢ひとつ -2010Special-」でユニバーサルミュージックよりメジャーデビュー[UNIVERSAL J](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。2010年6月にミニアルバム「相支相合」をリリース。2014年12月よりOffice Aiso-L(アイソール)として独立。楽曲制作やライブなど音楽活動を中心にしながら、レポーターやモデルなど幅広く活動している。
 
 ## メンバー
 
@@ -30,7 +30,7 @@
 
 姉さやかの[抒情](https://ja.wikipedia.org/wiki/抒情 "wikilink")的な歌声、妹まどかのパワフルな歌声による独特の[ハーモニー](../Page/ハーモニー.md "wikilink")を特徴とする。2人の歌声が[音楽理論](https://ja.wikipedia.org/wiki/音楽理論 "wikilink")的な意味合いを超えて完璧に融合するさまは姉妹ならではといえる。ストリート出身という下地と経験を活かし、2人のみ（バックトラックは[カラオケ](../Page/カラオケ.md "wikilink")）の最小編成からフルバンドまでシーンによってステージング・パフォーマンスのスタイルを使い分ける。
 
-基本的に[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")[作曲](../Page/作曲.md "wikilink")を姉のさやかが行っており、そのため自身の[声域](https://ja.wikipedia.org/wiki/声域 "wikilink")、声質、世界観に則ったメロディーラインのものが多い。
+基本的に[作詞](../Page/作詞.md "wikilink")[作曲](../Page/作曲.md "wikilink")を姉のさやかが行っており、そのため自身の[声域](https://ja.wikipedia.org/wiki/声域 "wikilink")、声質、世界観に則ったメロディーラインのものが多い。
 
 姉妹ともに[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")をリスペクトしており、目標にしている部分も多い。
 
@@ -40,13 +40,13 @@
 
 ### 結成以前
 
-「空にある窓からさわやかな風が空家に吹き込んでくる」という願いを込めて、「さやか」「まどか」と名づけられる。 幼少の頃より歌う事が好きだった2人はキャレス ボーカル&[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")スクール[大阪](../Page/大阪.md "wikilink")校（[大阪市](../Page/大阪市.md "wikilink")[都島区](../Page/都島区.md "wikilink")）に入校。 2人が在学中に結成した女子高生[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")グループ「きゅぅ～\!\!」では共にリードを務め、また同グループは[フジテレビ系列のバラエティ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[力の限りゴーゴゴー\!\!](../Page/力の限りゴーゴゴー!!.md "wikilink")』（[ネプチューン司会](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")）の人気レギュラーコーナー「全国[ハモネプ](https://ja.wikipedia.org/wiki/ハモネプ "wikilink")LEAGUE2・3」に[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")代表として出場を果たしている。 この番組からデビューしたグループに[RAG FAIR](../Page/RAG_FAIR.md "wikilink")、[INSPi](https://ja.wikipedia.org/wiki/INSPi "wikilink")、[ア・カッペラーズ](https://ja.wikipedia.org/wiki/ア・カッペラーズ "wikilink")などがいる。
+「空にある窓からさわやかな風が空家に吹き込んでくる」という願いを込めて、「さやか」「まどか」と名づけられる。 幼少の頃より歌う事が好きだった2人はキャレス ボーカル&[ダンス](../Page/ダンス.md "wikilink")スクール[大阪](../Page/大阪.md "wikilink")校（[大阪市](../Page/大阪市.md "wikilink")[都島区](../Page/都島区.md "wikilink")）に入校。 2人が在学中に結成した女子高生[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")グループ「きゅぅ～\!\!」では共にリードを務め、また同グループは[フジテレビ系列のバラエティ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[力の限りゴーゴゴー\!\!](../Page/力の限りゴーゴゴー!!.md "wikilink")』（[ネプチューン司会](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")）の人気レギュラーコーナー「全国[ハモネプ](https://ja.wikipedia.org/wiki/ハモネプ "wikilink")LEAGUE2・3」に[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")代表として出場を果たしている。 この番組からデビューしたグループに[RAG FAIR](../Page/RAG_FAIR.md "wikilink")、[INSPi](../Page/INSPi.md "wikilink")、[ア・カッペラーズ](https://ja.wikipedia.org/wiki/ア・カッペラーズ "wikilink")などがいる。
 
 ### アマチュア時代
 
 #### 2004年
 
-「きゅぅ～\!\!」解散後の[2004年](../Page/2004年.md "wikilink")、「Sky」を結成。自分達のオリジナル楽曲を携え、ストリートや[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")を中心に地道な活動をスタートさせる。当時は[カバー](../Page/カバー.md "wikilink")曲やアカペラ曲もセットリストに織り交ぜた構成が多かった。
+「きゅぅ～\!\!」解散後の[2004年](../Page/2004年.md "wikilink")、「Sky」を結成。自分達のオリジナル楽曲を携え、ストリートや[ライブハウス](../Page/ライブハウス.md "wikilink")を中心に地道な活動をスタートさせる。当時は[カバー](../Page/カバー.md "wikilink")曲やアカペラ曲もセットリストに織り交ぜた構成が多かった。
 
 この年の[11月](../Page/11月.md "wikilink")に初の音源「SCENE」をリリースしている。
 
@@ -76,7 +76,7 @@
 
 #### 2009年
 
-11月19日に[ユニバーサルミュージックジャパンとメジャー契約](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")\[3\]。
+11月19日に[ユニバーサルミュージックジャパンとメジャー契約](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")\[3\]。
 
 #### 2010年
 
@@ -136,7 +136,7 @@
         朝日放送 [土曜ナイトドラマ](https://ja.wikipedia.org/wiki/土曜ナイトドラマ_\(ABC\) "wikilink")『[初恋net.com〜忘れられない恋のうた〜](../Page/初恋net.com〜忘れられない恋のうた〜.md "wikilink")』EDテーマ
 3.  あい×3　作詞・作曲：Skyさやか
       -
-        朝日放送 [ナイトinナイト](https://ja.wikipedia.org/wiki/ナイトinナイト "wikilink")『[ビーバップ\!ハイヒール](https://ja.wikipedia.org/wiki/ビーバップ!ハイヒール "wikilink")』EDテーマ
+        朝日放送 [ナイトinナイト](../Page/ナイトinナイト.md "wikilink")『[ビーバップ\!ハイヒール](../Page/ビーバップ!ハイヒール.md "wikilink")』EDテーマ
 4.  積み木（カラオケ）
 5.  忘れもの（カラオケ）
 6.  あい×3（カラオケ）
@@ -201,7 +201,7 @@
         朝日放送 ナイトinナイト『[今ちゃんの「実は…」](https://ja.wikipedia.org/wiki/今ちゃんの「実は…」 "wikilink")』4月度EDテーマ
 2.  花と幹 -Orchestra Ver.-
       -
-        朝日放送 環境キャンペーン『[ガラスの地球を救え](https://ja.wikipedia.org/wiki/ガラスの地球を救え "wikilink")』2010テーマソング
+        朝日放送 環境キャンペーン『[ガラスの地球を救え](../Page/ガラスの地球を救え.md "wikilink")』2010テーマソング
 3.  夢ひとつ -2010Special-（Instrumental）
 4.  花と幹 -Orchestra Ver.-（Instrumental）
 
@@ -217,13 +217,13 @@
 4.  キット未来
 5.  ヒコーキ雲
       -
-        朝日放送『[朝だ\!生です旅サラダ](https://ja.wikipedia.org/wiki/朝だ!生です旅サラダ "wikilink")』7～9月度EDテーマ
+        朝日放送『[朝だ\!生です旅サラダ](../Page/朝だ!生です旅サラダ.md "wikilink")』7～9月度EDテーマ
 6.  花と幹 -Orchestra Ver.-
 
 ## 関連人物
 
   - [U.K.](../Page/U.K._\(タレント\).md "wikilink")
-  - [野村佑香](https://ja.wikipedia.org/wiki/野村佑香 "wikilink")
+  - [野村佑香](../Page/野村佑香.md "wikilink")
   - [戸田康平](../Page/戸田康平.md "wikilink")
 
 ## 参照

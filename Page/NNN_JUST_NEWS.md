@@ -7,7 +7,7 @@
 
 放送時刻は一貫して月曜日から土曜日までの夕方18:30 - 18:50（[JST](../Page/日本標準時.md "wikilink")）。
 
-日本テレビでは[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")期改編からそれまで[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")枠だった夕方の『[NNNニュースフラッシュ](https://ja.wikipedia.org/wiki/NNNニュースフラッシュ "wikilink")』を時間枠拡大で放送し（開始当初は『[NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")』、それまでの昼のNNNニュースは『[NNN昼のニュース](https://ja.wikipedia.org/wiki/NNN昼のニュース "wikilink")』に変更）、1975年1月にタイトル変更した。
+日本テレビでは[1974年](../Page/1974年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")期改編からそれまで[スポットニュース](../Page/スポットニュース.md "wikilink")枠だった夕方の『[NNNニュースフラッシュ](../Page/NNNニュースフラッシュ.md "wikilink")』を時間枠拡大で放送し（開始当初は『[NNNニュース](../Page/NNNニュース.md "wikilink")』、それまでの昼のNNNニュースは『[NNN昼のニュース](../Page/NNN昼のニュース.md "wikilink")』に変更）、1975年1月にタイトル変更した。
 
 ## 歴代のメインキャスター
 
@@ -62,7 +62,7 @@
 <tr class="odd">
 <td><p><small></p>
 <ul>
-<li><sup>1</sup> 『<a href="../Page/NNN日曜夕刊.md" title="wikilink">NNN日曜夕刊</a>』『<a href="https://ja.wikipedia.org/wiki/NNN昼のニュース" title="wikilink">NNN昼のニュース</a>』『<a href="https://ja.wikipedia.org/wiki/NNNきょうの出来事" title="wikilink">NNNきょうの出来事</a>』と兼務。</li>
+<li><sup>1</sup> 『<a href="../Page/NNN日曜夕刊.md" title="wikilink">NNN日曜夕刊</a>』『<a href="../Page/NNN昼のニュース.md" title="wikilink">NNN昼のニュース</a>』『<a href="https://ja.wikipedia.org/wiki/NNNきょうの出来事" title="wikilink">NNNきょうの出来事</a>』と兼務。</li>
 <li><sup>2</sup> 『<a href="../Page/NNN6:30きょうのニュース.md" title="wikilink">NNN6:30きょうのニュース</a>』も続投。</li>
 <li><sup>3</sup> 『<a href="../Page/NNNライブオンネットワーク.md" title="wikilink">NNNライブオンネットワーク</a>』も続投。</li>
 </ul>
@@ -96,7 +96,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -126,7 +126,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山形県" title="wikilink">山形県</a></p></td>
+<td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
 <td><p><a href="../Page/山形放送.md" title="wikilink">山形放送</a></p></td>
 <td><p>日本テレビ系列<br />
 テレビ朝日系列</p></td>
@@ -169,7 +169,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中京圏" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/中京圏.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ</a></p></td>
 <td></td>
 <td></td>
@@ -227,7 +227,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>
@@ -254,36 +254,36 @@
   - 現在はFNN単独局の[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")もクロスネット局当時この時間帯はアニメ枠であり、テレビ新潟開局まで新潟県では放送しなかった。
   - キャスターの國弘正雄が挨拶を行うスタジオシーンで、走査線にビデオテープのドロップアウトが認められた事がある。当時のオープニングでは、いち早く導入された最新のタイプCフォーマットVTRをパンするシーンを流していたが、一部または全シーンを事前収録してオフライン放映していたと考えられる。
   - [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")では18:50 - 19:00に自社制作のクイズ番組『[ビバ\!クイズ](https://ja.wikipedia.org/wiki/ビバ!クイズ "wikilink")』を放送していたため18:50に当番組のネットを飛び降りており、後述の列島事件簿やAround The Worldは放送されなかった。
-  - [1979年](../Page/1979年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")の[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")戦（[後楽園球場](../Page/後楽園球場.md "wikilink")）で、[江川卓](https://ja.wikipedia.org/wiki/江川卓_\(野球\) "wikilink")（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")）が[プロ野球デビューを果たした](../Page/日本プロ野球.md "wikilink")。その時は19時から[プロ野球土曜ナイター中継が始まることになっていたが](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")、それに先駆け1回の立ち上がりの部分について[ディレード](https://ja.wikipedia.org/wiki/撮って出し "wikilink")（映像には「中継録画」と表記。解説・[中村稔](../Page/中村稔_\(投手\).md "wikilink")、実況・[小川光明](../Page/小川光明.md "wikilink")）で放送された。
+  - [1979年](../Page/1979年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")の[阪神タイガース](../Page/阪神タイガース.md "wikilink")戦（[後楽園球場](../Page/後楽園球場.md "wikilink")）で、[江川卓](https://ja.wikipedia.org/wiki/江川卓_\(野球\) "wikilink")（[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")）が[プロ野球デビューを果たした](../Page/日本プロ野球.md "wikilink")。その時は19時から[プロ野球土曜ナイター中継が始まることになっていたが](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")、それに先駆け1回の立ち上がりの部分について[ディレード](../Page/撮って出し.md "wikilink")（映像には「中継録画」と表記。解説・[中村稔](../Page/中村稔_\(投手\).md "wikilink")、実況・[小川光明](../Page/小川光明.md "wikilink")）で放送された。
 
 <!-- end list -->
 
   -
-    なおこの模様は[千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")・[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")・[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")に[トップリレーナイター](https://ja.wikipedia.org/wiki/プロ野球トップ&リレー中継 "wikilink")（18:15-19:00）として放送されていた箇所で、以上3局が視聴できる地域は実質的な再放送であった。
+    なおこの模様は[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")・[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")・[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")に[トップリレーナイター](../Page/プロ野球トップ&リレー中継.md "wikilink")（18:15-19:00）として放送されていた箇所で、以上3局が視聴できる地域は実質的な再放送であった。
     またスコアカウントの表示はされていなかった（前述3局は各局出しにより表記）。
 
 ## ネットしていた局の平日ローカルニュース
 
-※ 当番組から[ワイドニュース](../Page/ワイドニュース.md "wikilink")を編成する局が現れた。[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")のみも含む。
+※ 当番組から[ワイドニュース](../Page/ワイドニュース.md "wikilink")を編成する局が現れた。[スポットニュース](../Page/スポットニュース.md "wikilink")のみも含む。
 
   - STV 札幌テレビ - [STVニュース](../Page/STVニュース.md "wikilink")→[STVニュースToday](../Page/STVニュースToday.md "wikilink")
-  - RAB 青森放送 - [東奥日報ニュース](https://ja.wikipedia.org/wiki/東奥日報ニュース "wikilink")→RABニュースレーダー（｢[RABニュースレーダー](https://ja.wikipedia.org/wiki/RABニュースレーダー "wikilink")｣は現在も放送中）
+  - RAB 青森放送 - [東奥日報ニュース](../Page/東奥日報ニュース.md "wikilink")→RABニュースレーダー（｢[RABニュースレーダー](../Page/RABニュースレーダー.md "wikilink")｣は現在も放送中）
   - ABS 秋田放送 - [さきがけニュース](https://ja.wikipedia.org/wiki/さきがけABSニュース "wikilink")→[ワイドレーダーあきた](https://ja.wikipedia.org/wiki/ワイドレーダーあきた "wikilink")→[ABSニュースワイド](../Page/ABSニュースワイド.md "wikilink")
   - TVI テレビ岩手 - [ジャストニュース岩手](https://ja.wikipedia.org/wiki/ジャストニュース岩手 "wikilink") → [テレビ岩手ニュースワイド](https://ja.wikipedia.org/wiki/テレビ岩手ニュースワイド "wikilink") → [テレビ岩手ニュースToday](https://ja.wikipedia.org/wiki/テレビ岩手ニュースToday "wikilink")
-  - YBC 山形放送 - [YBC6時です](https://ja.wikipedia.org/wiki/YBC6時です "wikilink")・ワイド60ニュースコーナー→[YBCニュースToday](../Page/YBCニュースToday.md "wikilink")
+  - YBC 山形放送 - [YBC6時です](../Page/YBC6時です.md "wikilink")・ワイド60ニュースコーナー→[YBCニュースToday](../Page/YBCニュースToday.md "wikilink")
   - mm34→MMT ミヤギテレビ - [mm34ニュース](../Page/NNNミヤギテレビニュース.md "wikilink")→[みやぎToday](https://ja.wikipedia.org/wiki/NNNみやぎToday "wikilink")
-  - FCT 福島中央テレビ - [FCTニュース](https://ja.wikipedia.org/wiki/FCTニュース "wikilink")→[ふくしまToday](https://ja.wikipedia.org/wiki/NNNふくしまToday "wikilink")
-  - NTV 日本テレビ - [NTVニュース](https://ja.wikipedia.org/wiki/NTVニュース "wikilink")→[6時です\!4チャンネル](../Page/6時です!4チャンネル.md "wikilink")→NTVニュース
+  - FCT 福島中央テレビ - [FCTニュース](https://ja.wikipedia.org/wiki/FCTニュース "wikilink")→[ふくしまToday](../Page/NNNふくしまToday.md "wikilink")
+  - NTV 日本テレビ - [NTVニュース](../Page/NTVニュース.md "wikilink")→[6時です\!4チャンネル](../Page/6時です!4チャンネル.md "wikilink")→NTVニュース
   - YBS 山梨放送 - [山日YBSワイドニュース](../Page/YBSワイドニュース.md "wikilink")
   - TNN（現・TeNY） テレビ新潟 - [TNNニュース](https://ja.wikipedia.org/wiki/TeNYニュース "wikilink")→[TNNきょうの新潟](https://ja.wikipedia.org/wiki/TNNきょうの新潟 "wikilink")→[にいがたNOW](https://ja.wikipedia.org/wiki/にいがたNOW "wikilink")
   - SDT 静岡第一テレビ - [第一テレビニュース](../Page/NNN第一テレビニュース.md "wikilink")→[Today静岡](../Page/Today静岡.md "wikilink")
-  - CTV 中京テレビ - [中京テレビニュース](https://ja.wikipedia.org/wiki/中京テレビニュース "wikilink")→[6時のNEWS](https://ja.wikipedia.org/wiki/6時のNEWS "wikilink")→[中京TODAY](https://ja.wikipedia.org/wiki/中京TODAY "wikilink")
+  - CTV 中京テレビ - [中京テレビニュース](https://ja.wikipedia.org/wiki/中京テレビニュース "wikilink")→[6時のNEWS](https://ja.wikipedia.org/wiki/6時のNEWS "wikilink")→[中京TODAY](../Page/中京TODAY.md "wikilink")
   - KNB 北日本放送 - [チャンネル1](https://ja.wikipedia.org/wiki/チャンネル1 "wikilink")
   - FBC 福井放送 - [FBCニュース](../Page/FBCニュース.md "wikilink")
-  - YTV 読売テレビ - [よみうりニュース](../Page/よみうりニュース_NNN.md "wikilink")→[テレトーク10](https://ja.wikipedia.org/wiki/テレトーク10 "wikilink")→[きんきTODAY](https://ja.wikipedia.org/wiki/きんきTODAY "wikilink")
+  - YTV 読売テレビ - [よみうりニュース](../Page/よみうりニュース_NNN.md "wikilink")→[テレトーク10](https://ja.wikipedia.org/wiki/テレトーク10 "wikilink")→[きんきTODAY](../Page/きんきTODAY.md "wikilink")
   - NKT 日本海テレビ - [NKTニュース](https://ja.wikipedia.org/wiki/NKTニュース "wikilink")→[ワイドニュース日本海](https://ja.wikipedia.org/wiki/ワイドニュース日本海 "wikilink")
-  - RNC 西日本放送 - [RNCニュース](https://ja.wikipedia.org/wiki/RNCニュース "wikilink")→[RNC6:00](../Page/RNC6:00.md "wikilink")
-  - JR→JRT 四国放送 - [徳島新聞テレビ夕刊](https://ja.wikipedia.org/wiki/徳島新聞テレビ夕刊 "wikilink")→フォーカス徳島（｢[フォーカス徳島](https://ja.wikipedia.org/wiki/フォーカス徳島 "wikilink")｣は現在も放送中）
+  - RNC 西日本放送 - [RNCニュース](../Page/RNCニュース.md "wikilink")→[RNC6:00](../Page/RNC6:00.md "wikilink")
+  - JR→JRT 四国放送 - [徳島新聞テレビ夕刊](https://ja.wikipedia.org/wiki/徳島新聞テレビ夕刊 "wikilink")→フォーカス徳島（｢[フォーカス徳島](../Page/フォーカス徳島.md "wikilink")｣は現在も放送中）
   - RKC 高知放送 - [テレビレポートRKC６時です](https://ja.wikipedia.org/wiki/テレビレポートRKC６時です "wikilink")
   - RNB 南海放送 - [なんかいNEWS](../Page/なんかいNEWS.md "wikilink")→[なんかいワイドニュースtoday](https://ja.wikipedia.org/wiki/なんかいワイドニュースtoday "wikilink")
   - HTV 広島テレビ - [広島テレビニュース](../Page/広島テレビNEWS.md "wikilink")→[広島テレビニュースアイ](https://ja.wikipedia.org/wiki/広島テレビニュースアイ "wikilink")
@@ -305,10 +305,10 @@
       - 他のNNNニュース（「[朝のニュース](../Page/NNN朝のニュース.md "wikilink")」、『昼のニュース』、『きょうの出来事』）と同様、地球をモチーフにしたアニメーションに「ジャストニュースNNN」と出ていた。この当時と、後述の2代目は画面が右に行くほど「NNN」のクレジットスペースを確保するため、やや斜めに狭く書かれていた。
   - 1976年4月から[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")3月まで
       - 「NNN」ロゴが波状になって（いわゆるウネウネ）表示されるOPに、回転する“ジャストニュース”ロゴが組み合わさったものが出ていた。
-      - 何れも[提供が表示されて](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")（OPと提供の全国送出はこの当時行っていなかった）、挨拶「こんばんは、福富達（佐藤昭）です」→「小池裕美子（石川牧子）です」が流れる、というものであった。テーマ音楽は朝・昼のニュースや「[日曜夕刊](../Page/NNN日曜夕刊.md "wikilink")」、「きょうの出来事」、「よみうりニュース NNN」と同様、[黛敏郎](../Page/黛敏郎.md "wikilink")作曲の『NNNニュースのテーマ』だった。
+      - 何れも[提供が表示されて](../Page/提供クレジット.md "wikilink")（OPと提供の全国送出はこの当時行っていなかった）、挨拶「こんばんは、福富達（佐藤昭）です」→「小池裕美子（石川牧子）です」が流れる、というものであった。テーマ音楽は朝・昼のニュースや「[日曜夕刊](../Page/NNN日曜夕刊.md "wikilink")」、「きょうの出来事」、「よみうりニュース NNN」と同様、[黛敏郎](../Page/黛敏郎.md "wikilink")作曲の『NNNニュースのテーマ』だった。
       - 1979年、[三枝成彰](../Page/三枝成彰.md "wikilink")の作曲による新しいテーマ曲に変わった。また登場間もない1インチタイプCフォーマットVTR、BVH-1000 2台をパンするシーンが挿入された。
   - 1980年4月から[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")3月まで
-      - 6:30を示すスタジオの副調整室の時計を写し、そこから「NNN JUSTニュース」のロゴを出した。提供クレジット出し（各局による）の時に副調整室→スタジオをフェイドで写し、テーマソングが終わると司会者が2人揃って「こんばんは」と挨拶。その後男性司会者が「JUSTニュースです」とコメントして本編となった。テーマ音楽は、この頃から[シンセサイザー](../Page/シンセサイザー.md "wikilink")の独自のテーマ曲になり、1982年4月からは曲のアレンジが変わり、それが朝・昼のニュースや日曜夕刊にも使われるようになった。なお、JUSTニュースの曲は他で使われていた物よりも尺が長かった。しかし、1982年3月まで読売テレビではエンディングに『NNNニュースのテーマ』を引き続き使用していた（これは後続の『[よみうりニュース NNN](../Page/よみうりニュース_NNN.md "wikilink")』（[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")向け5分バージョン）にもそのまま使用された）。
+      - 6:30を示すスタジオの副調整室の時計を写し、そこから「NNN JUSTニュース」のロゴを出した。提供クレジット出し（各局による）の時に副調整室→スタジオをフェイドで写し、テーマソングが終わると司会者が2人揃って「こんばんは」と挨拶。その後男性司会者が「JUSTニュースです」とコメントして本編となった。テーマ音楽は、この頃から[シンセサイザー](../Page/シンセサイザー.md "wikilink")の独自のテーマ曲になり、1982年4月からは曲のアレンジが変わり、それが朝・昼のニュースや日曜夕刊にも使われるようになった。なお、JUSTニュースの曲は他で使われていた物よりも尺が長かった。しかし、1982年3月まで読売テレビではエンディングに『NNNニュースのテーマ』を引き続き使用していた（これは後続の『[よみうりニュース NNN](../Page/よみうりニュース_NNN.md "wikilink")』（[関西ローカル](../Page/関西ローカル.md "wikilink")向け5分バージョン）にもそのまま使用された）。
     <!-- end list -->
       -
         ※JUSTニュース以外のOPは、Nがたくさん飛んできて、タイトルになり、NNNの真ん中のNが残り、提供バックで回転していた（但し読売テレビでは三枝成彰作曲のテーマ曲更新後もこのOPを「日曜夕刊」以外一切使用せず、[グード図法](https://ja.wikipedia.org/wiki/グード図法 "wikilink")の世界地図をバックにした独自のOPを使用していた。詳細は後述）。
@@ -325,7 +325,7 @@
 
 ## ロゴ出し
 
-  - [札幌テレビ等一部の系列局では](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")、オープニング中のタイトルロゴの右下に局の略称ロゴを出していた。([JNNではよく見られたパターン](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。)
+  - [札幌テレビ等一部の系列局では](../Page/札幌テレビ放送.md "wikilink")、オープニング中のタイトルロゴの右下に局の略称ロゴを出していた。([JNNではよく見られたパターン](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")。)
 
 ## タイトルロゴ変遷
 
@@ -335,7 +335,7 @@
 
 ## スポンサー
 
-  - 当番組から『NNN6:30きょうのニュース』→『NNNライブオンネットワーク』→『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』前期（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")ごろ）までの間、番組スポンサーはネットワークセールス+各放送局ごとのローカルセールスの複数企業が協賛していたため、[提供クレジット](https://ja.wikipedia.org/wiki/提供クレジット "wikilink")出し（読み）は各放送局個別で行っていた。
+  - 当番組から『NNN6:30きょうのニュース』→『NNNライブオンネットワーク』→『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』前期（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")ごろ）までの間、番組スポンサーはネットワークセールス+各放送局ごとのローカルセールスの複数企業が協賛していたため、[提供クレジット](../Page/提供クレジット.md "wikilink")出し（読み）は各放送局個別で行っていた。
 
 ## 脚注
 

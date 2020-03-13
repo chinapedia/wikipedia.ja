@@ -5,7 +5,7 @@
 
 ## 略歴
 
-[1975年](../Page/1975年.md "wikilink")にジョン・グッドサル（[ギター](../Page/ギター.md "wikilink")）、[パーシー・ジョーンズ](../Page/パーシー・ジョーンズ.md "wikilink")（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）、ロビン・ラムリー（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）、[ジャック・ランカスター](https://ja.wikipedia.org/wiki/ジャック・ランカスター "wikilink")（[ウッドウィンド](https://ja.wikipedia.org/wiki/ウッドウィンド "wikilink")）らで結成。セッションには何人かの[ドラマー](../Page/ドラマー.md "wikilink")が招かれた。その中には[ビル・ブルーフォード](../Page/ビル・ブルーフォード.md "wikilink")もいたが[キング・クリムゾン](../Page/キング・クリムゾン.md "wikilink")との契約上正式に参加できず、最終的に[ジェネシスの](https://ja.wikipedia.org/wiki/ジェネシス_\(バンド\) "wikilink")[フィル・コリンズ](https://ja.wikipedia.org/wiki/フィル・コリンズ "wikilink")がその座についた（「コリンズのソロ・プロジェクト」と思われがちであるが、彼はあくまでメンバーの一人としての参加である）。
+[1975年](../Page/1975年.md "wikilink")にジョン・グッドサル（[ギター](../Page/ギター.md "wikilink")）、[パーシー・ジョーンズ](../Page/パーシー・ジョーンズ.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）、ロビン・ラムリー（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）、[ジャック・ランカスター](https://ja.wikipedia.org/wiki/ジャック・ランカスター "wikilink")（[ウッドウィンド](https://ja.wikipedia.org/wiki/ウッドウィンド "wikilink")）らで結成。セッションには何人かの[ドラマー](../Page/ドラマー.md "wikilink")が招かれた。その中には[ビル・ブルーフォード](../Page/ビル・ブルーフォード.md "wikilink")もいたが[キング・クリムゾン](../Page/キング・クリムゾン.md "wikilink")との契約上正式に参加できず、最終的に[ジェネシスの](../Page/ジェネシス_\(バンド\).md "wikilink")[フィル・コリンズ](../Page/フィル・コリンズ.md "wikilink")がその座についた（「コリンズのソロ・プロジェクト」と思われがちであるが、彼はあくまでメンバーの一人としての参加である）。
 
 [1976年](../Page/1976年.md "wikilink")に第1作アルバム『アンオーソドックス・ビヘイヴィアー』（当時の邦題は『異常行為』）を発表する。タイトなリズムと構成を重視しており、即興性の強いイギリスのジャズ・ロックというよりは、当時アメリカで流行していたフュージョンの色が濃いものだった。どのアルバムも大きなチャートアクションは残していないが、卓越した演奏はジャズ・ロック・ファンの支持を得た。
 
@@ -44,7 +44,7 @@
 
 ### 関連アルバム
 
-  - 『ピーターと狼』 - *The Rock Peter and the Wolf* (1975年) ※ジャック・ランカスターとロビン・ラムリーによるアルバム。ヴィヴィアン・スタンシャル、[マンフレッド・マン](https://ja.wikipedia.org/wiki/マンフレッド・マン "wikilink")、[ゲイリー・ブルッカー](../Page/ゲイリー・ブルッカー.md "wikilink")、[クリス・スペディング](https://ja.wikipedia.org/wiki/クリス・スペディング "wikilink")、[ゲイリー・ムーア](https://ja.wikipedia.org/wiki/ゲイリー・ムーア "wikilink")、[ステファン・グラッペリ](../Page/ステファン・グラッペリ.md "wikilink")、[ブライアン・イーノ](https://ja.wikipedia.org/wiki/ブライアン・イーノ "wikilink")、[キース・ティペット](https://ja.wikipedia.org/wiki/キース・ティペット "wikilink")、[ジョン・ハイズマン](https://ja.wikipedia.org/wiki/ジョン・ハイズマン "wikilink")、[ビル・ブルーフォード](../Page/ビル・ブルーフォード.md "wikilink")、フィル・コリンズ等をフィーチャー。
+  - 『ピーターと狼』 - *The Rock Peter and the Wolf* (1975年) ※ジャック・ランカスターとロビン・ラムリーによるアルバム。ヴィヴィアン・スタンシャル、[マンフレッド・マン](https://ja.wikipedia.org/wiki/マンフレッド・マン "wikilink")、[ゲイリー・ブルッカー](../Page/ゲイリー・ブルッカー.md "wikilink")、[クリス・スペディング](https://ja.wikipedia.org/wiki/クリス・スペディング "wikilink")、[ゲイリー・ムーア](../Page/ゲイリー・ムーア.md "wikilink")、[ステファン・グラッペリ](../Page/ステファン・グラッペリ.md "wikilink")、[ブライアン・イーノ](../Page/ブライアン・イーノ.md "wikilink")、[キース・ティペット](https://ja.wikipedia.org/wiki/キース・ティペット "wikilink")、[ジョン・ハイズマン](https://ja.wikipedia.org/wiki/ジョン・ハイズマン "wikilink")、[ビル・ブルーフォード](../Page/ビル・ブルーフォード.md "wikilink")、フィル・コリンズ等をフィーチャー。
   - 『マースケイプ』 - *Marscape* (1976年) ※ジャック・ランカスターとロビン・ラムリーによるアルバム。ジョン・グッドサル、パーシー・ジョーンズ、フィル・コリンズ、バーニー・フロスト、モーリス・パート、[サイモン・ジェフス](https://ja.wikipedia.org/wiki/サイモン・ジェフス "wikilink")をフィーチャー。
   - 『プレジャー・シグナルズ』 - *Pleasure Signals* (1978年) ※ダニー・ワイルディングとピート・ボーナスによるアルバム。ジョン・グッドサル、フィル・コリンズ、ジョン・ギブリン、プレストン・ヘイマン、モーリス・パート等参加
   - 『ヌオヴェ・ムジーケ』 - *Nuove Musiche* (2000年) ※サラ・ピロー (Sarah Pillow)のアルバム。日本盤表記はブランドX&サラ・ピロー名義。ジョン・グッドサル、パーシー・ジョーンズ、フランク・カッツ、マーク・ワグノン等参加

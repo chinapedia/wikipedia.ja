@@ -5,7 +5,7 @@
 
 ## 解説
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[機動戦士Vガンダム](https://ja.wikipedia.org/wiki/機動戦士Vガンダム "wikilink")』オープニングテーマとして起用された「[STAND UP TO THE VICTORY 〜トゥ・ザ・ヴィクトリー〜](https://ja.wikipedia.org/wiki/STAND_UP_TO_THE_VICTORY_〜トゥ・ザ・ヴィクトリー〜 "wikilink")」のアルバム・バージョンを含む川添ソロ唯一のミニ・アルバム。その経緯から同アニメのステッカーを付属している。なお、神長弘一はサウンドプロディースと編曲を共同で行ったのみで、ギター演奏は別のミュージシャンが行ったためしていない。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[機動戦士Vガンダム](../Page/機動戦士Vガンダム.md "wikilink")』オープニングテーマとして起用された「[STAND UP TO THE VICTORY 〜トゥ・ザ・ヴィクトリー〜](https://ja.wikipedia.org/wiki/STAND_UP_TO_THE_VICTORY_〜トゥ・ザ・ヴィクトリー〜 "wikilink")」のアルバム・バージョンを含む川添ソロ唯一のミニ・アルバム。その経緯から同アニメのステッカーを付属している。なお、神長弘一はサウンドプロディースと編曲を共同で行ったのみで、ギター演奏は別のミュージシャンが行ったためしていない。
 
 ## 批評
 
@@ -37,13 +37,13 @@ CDジャーナルは「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/
 ## レコーディング参加
 
   - 為山五朗 - ギター(\#ALL)
-  - [平川達也](https://ja.wikipedia.org/wiki/平川達也 "wikilink") - ギター(\#3)
+  - [平川達也](../Page/平川達也.md "wikilink") - ギター(\#3)
   - 宮崎よしお - ギター(\#ALL)
   - [横関敦](https://ja.wikipedia.org/wiki/横関敦 "wikilink") - ギター(\#4)
   - [青山純](../Page/青山純.md "wikilink") - ドラム(\#2, 3, 6)
   - [小柳昌法](https://ja.wikipedia.org/wiki/小柳"cherry"昌法 "wikilink") - ドラム(\#1, 4)
   - [前野知常](https://ja.wikipedia.org/wiki/前野知常 "wikilink") - キーボード(\#ALL)
-  - [田村直美](https://ja.wikipedia.org/wiki/田村直美 "wikilink") - コーラス(\#2)
+  - [田村直美](../Page/田村直美.md "wikilink") - コーラス(\#2)
   - 小野寺明敏 - コーラス(\#1, 3, 4, 6)
   - [坂井紀雄](../Page/坂井紀雄.md "wikilink") - コーラス(\#5)
 

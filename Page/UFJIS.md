@@ -1,7 +1,7 @@
 > この記事は[UFJIS](https://ja.wikipedia.org/wiki/UFJIS)から翻訳されています。
 
 
-**UFJIS株式会社**は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[中央区に本社を置き](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、主として[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")を対象としたシステムの開発・保守などを行う企業で[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")の100%[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")であった。
+**UFJIS株式会社**は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置き](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、主として[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")を対象としたシステムの開発・保守などを行う企業で[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")の100%[子会社](../Page/子会社.md "wikilink")であった。
 
 [2009年](../Page/2009年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")付でUFJIS、[東京三菱インフォメーションテクノロジー](https://ja.wikipedia.org/wiki/東京三菱インフォメーションテクノロジー "wikilink")、[UFJ日立システムズ](../Page/UFJ日立システムズ.md "wikilink")の三社が[合併し](../Page/合併_\(企業\).md "wikilink")[三菱UFJインフォメーションテクノロジー](https://ja.wikipedia.org/wiki/三菱UFJインフォメーションテクノロジー "wikilink")株式会社となった。新会社は[MUFG](https://ja.wikipedia.org/wiki/MUFG "wikilink")の100%子会社とはならず、資本構成は三菱東京UFJ銀行が85%、MUFGが15%の株式をそれぞれ保有する\[1\]。
 

@@ -1,15 +1,15 @@
 > この記事は[Apple TV](https://ja.wikipedia.org/wiki/Apple_TV)から翻訳されています。
 
 
-**Apple TV**（アップル ティーヴィー）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売する[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[コードネーム](../Page/コードネーム.md "wikilink")「**iTV**」（アイティーヴィー）として発表された。
+**Apple TV**（アップル ティーヴィー）は、[アップルが開発](../Page/アップル_\(企業\).md "wikilink")・販売する[セットトップボックス](../Page/セットトップボックス.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[コードネーム](../Page/コードネーム.md "wikilink")「**iTV**」（アイティーヴィー）として発表された。
 
 家庭内で[ビデオ](https://ja.wikipedia.org/wiki/映像 "wikilink")・[コンテンツ](../Page/コンテンツ.md "wikilink")を[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")から[テレビ](../Page/テレビ.md "wikilink")へ[無線LAN](../Page/無線LAN.md "wikilink")あるいは有線[LANを通して配信することができる他](../Page/Local_Area_Network.md "wikilink")、[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の映像も見ることができる。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")より、[iTunes Storeから直接コンテンツを購入したり](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")、[映画](../Page/映画.md "wikilink")のレンタルもできるようになった。
 
 ## 概要
 
-Apple TVは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")のYerba Buena Center for the Artsで開催されたスペシャルイベントの終盤に、[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")CEOが「**iTV**(アイティーヴィー)」というプロジェクトの[コードネーム](../Page/コードネーム.md "wikilink")で発表した\[1\]。予定価格は299[ドルとされた](../Page/アメリカ合衆国ドル.md "wikilink")。アップルが開発段階でハードウェア製品を発表するのは異例のことであった。
+Apple TVは[2006年](../Page/2006年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")のYerba Buena Center for the Artsで開催されたスペシャルイベントの終盤に、[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")CEOが「**iTV**(アイティーヴィー)」というプロジェクトの[コードネーム](../Page/コードネーム.md "wikilink")で発表した\[1\]。予定価格は299[ドルとされた](../Page/アメリカ合衆国ドル.md "wikilink")。アップルが開発段階でハードウェア製品を発表するのは異例のことであった。
 
-[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")にアップルは正式名称を「Apple TV」、日本でのメーカー希望小売価格を36,800円と発表し\[2\]、同時に[Apple Online Storeで注文の受付を開始した](https://ja.wikipedia.org/wiki/Apple_Online_Store "wikilink")。出荷予定日は当初2007年2月とされたが延期され\[3\]、3月22日に出荷が始まった\[4\]。
+[2007年](../Page/2007年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink")にアップルは正式名称を「Apple TV」、日本でのメーカー希望小売価格を36,800円と発表し\[2\]、同時に[Apple Online Storeで注文の受付を開始した](../Page/Apple_Online_Store.md "wikilink")。出荷予定日は当初2007年2月とされたが延期され\[3\]、3月22日に出荷が始まった\[4\]。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月15日](../Page/1月15日.md "wikilink")に[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")、で行われた[Macworld](https://ja.wikipedia.org/wiki/Macworld_Conference_&_Expo "wikilink")2008で[スティーブ・ジョブズ](../Page/スティーブ・ジョブズ.md "wikilink")[CEO](https://ja.wikipedia.org/wiki/CEO "wikilink")がApple TVの値下げとアップデートをアナウンスした。このアップデートによって、[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")の新しいサービスであるiTunes ムービーレンタルにも対応し、今度はMacやPCに同期せずに単体で[iTunes Storeにアクセスできるようになった](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")。ムービーレンタルは[DVD](../Page/DVD.md "wikilink")解像度(480i、AVC 1.5Mbps前後)のほかにHD解像度([720p](https://ja.wikipedia.org/wiki/720p "wikilink")、AVC 4Mbps)で[ドルビー](https://ja.wikipedia.org/wiki/ドルビー "wikilink")5.1chサウンドに対応した)転送速度は1本あたりの容量と再生時間から計算)。またHD対応の[Podcast](https://ja.wikipedia.org/wiki/Podcast "wikilink")にも対応している。これにともなってGUIも一新された。
 
@@ -51,7 +51,7 @@ Apple TVは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月12日
 
 ### 第1世代
 
-[無線LAN](../Page/無線LAN.md "wikilink")（[IEEE 802.11b/g/nドラフト](https://ja.wikipedia.org/wiki/IEEE_802.11 "wikilink")）、または[イーサネット](../Page/イーサネット.md "wikilink")で特定1台のパソコンの[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")と自動的に同期し、内蔵の[HDDにコンテンツを貯めることができる](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")。また、5台までのパソコンから[ストリーミング](../Page/ストリーミング.md "wikilink")を受ける機能も備える。同期、ストリーミングは[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Windowsの両方に対応している](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。製品には[Apple Remoteが付属し](../Page/Apple_Remote.md "wikilink")、[Front Rowと同様の](../Page/Front_Row.md "wikilink")[GUIを実装して簡単なメニュー操作で各データを閲覧](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")・再生できるようになっている。
+[無線LAN](../Page/無線LAN.md "wikilink")（[IEEE 802.11b/g/nドラフト](../Page/IEEE_802.11.md "wikilink")）、または[イーサネット](../Page/イーサネット.md "wikilink")で特定1台のパソコンの[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")と自動的に同期し、内蔵の[HDDにコンテンツを貯めることができる](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")。また、5台までのパソコンから[ストリーミング](../Page/ストリーミング.md "wikilink")を受ける機能も備える。同期、ストリーミングは[Mac OS X](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Windowsの両方に対応している](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。製品には[Apple Remoteが付属し](../Page/Apple_Remote.md "wikilink")、[Front Rowと同様の](../Page/Front_Row.md "wikilink")[GUIを実装して簡単なメニュー操作で各データを閲覧](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")・再生できるようになっている。
 
 出力解像度は[720p](https://ja.wikipedia.org/wiki/720p "wikilink")に対応している。ハイビジョンテレビとの接続を考慮した設計のため、アップル製品では初めて[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")端子と[コンポーネント端子](../Page/コンポーネント端子.md "wikilink")を搭載している。
 
@@ -83,7 +83,7 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 
 [iOSをベースに開発された](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[tvOS](https://ja.wikipedia.org/wiki/tvOS "wikilink")を採用し、GUIがSiri Remoteでの操作に最適化されるかたちで刷新された。またApple TVでは初めて[App Storeに対応](../Page/App_Store.md "wikilink")。開発者には[ソフトウェア開発キット](../Page/ソフトウェア開発キット.md "wikilink")としてtvOS SDKが提供され、Apple TV用アプリの開発、配信ができるようになった。
 
-従来のApple Remoteにかわり、[Siri](https://ja.wikipedia.org/wiki/Siri "wikilink")用のデュアルマイクやTouchサーフェス、[加速度センサー及び](https://ja.wikipedia.org/wiki/加速度計 "wikilink")[ジャイロスコープ](https://ja.wikipedia.org/wiki/ジャイロスコープ "wikilink")などを備えたSiri Remoteが同梱される。Apple Remoteが本体との通信に赤外線を利用していたのとは違って、Siri Remoteは[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")接続である。Siriボタンを押しながら話しかけることで、動画や音楽の再生・停止・スキップなどの操作から、ジャンルや俳優名などからの映画作品の検索、天気予報やスポーツの試合結果の表示など、音声で様々な操作をすることができる。また方向ボタンの代わりにAppleがTouchサーフェスと呼ぶ[タッチパッド](https://ja.wikipedia.org/wiki/タッチパッド "wikilink")を搭載し、これをスワイプするなどして画面上の選択を切り替えたりスクロールしたりする。HDMI CECに対応したテレビであれば、Siri Remoteからテレビ本体の音量を操作することも可能となった。Siri Remoteはゲームコントローラーとしても使用できるほか、の認定を受けた他社製のBluetoothワイヤレスゲームコントローラーを使用できる。
+従来のApple Remoteにかわり、[Siri](https://ja.wikipedia.org/wiki/Siri "wikilink")用のデュアルマイクやTouchサーフェス、[加速度センサー及び](../Page/加速度計.md "wikilink")[ジャイロスコープ](../Page/ジャイロスコープ.md "wikilink")などを備えたSiri Remoteが同梱される。Apple Remoteが本体との通信に赤外線を利用していたのとは違って、Siri Remoteは[Bluetooth](../Page/Bluetooth.md "wikilink")接続である。Siriボタンを押しながら話しかけることで、動画や音楽の再生・停止・スキップなどの操作から、ジャンルや俳優名などからの映画作品の検索、天気予報やスポーツの試合結果の表示など、音声で様々な操作をすることができる。また方向ボタンの代わりにAppleがTouchサーフェスと呼ぶ[タッチパッド](../Page/タッチパッド.md "wikilink")を搭載し、これをスワイプするなどして画面上の選択を切り替えたりスクロールしたりする。HDMI CECに対応したテレビであれば、Siri Remoteからテレビ本体の音量を操作することも可能となった。Siri Remoteはゲームコントローラーとしても使用できるほか、の認定を受けた他社製のBluetoothワイヤレスゲームコントローラーを使用できる。
 
 後述の第5世代発表後も32GBモデルのみ併売されている。
 
@@ -157,7 +157,7 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 </tr>
 <tr class="even">
 <td><p>グラフィックス</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NVIDIA" title="wikilink">NVIDIA</a> <a href="https://ja.wikipedia.org/wiki/GeForce" title="wikilink">GeForce</a> Go 7300 (64 MB <a href="../Page/VRAM.md" title="wikilink">VRAM</a>)[25]</p></td>
+<td><p><a href="../Page/NVIDIA.md" title="wikilink">NVIDIA</a> <a href="https://ja.wikipedia.org/wiki/GeForce" title="wikilink">GeForce</a> Go 7300 (64 MB <a href="../Page/VRAM.md" title="wikilink">VRAM</a>)[25]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Apple_A4" title="wikilink">Apple A4</a> (PowerVR SGX535)</p></td>
 <td><p><strong>初期版:</strong> <a href="https://ja.wikipedia.org/wiki/Apple_A5" title="wikilink">Apple A5</a></p>
 <p>(PowerVR SGX543MP2)</p></td>
@@ -185,7 +185,7 @@ CPUには新しく[Apple A8プロセッサを搭載](https://ja.wikipedia.org/wi
 <tr class="odd">
 <td><p>ストレージ</p></td>
 <td><p>40GB/160GB <a href="https://ja.wikipedia.org/wiki/ハードディスクドライブ" title="wikilink">HDD</a>[30]</p></td>
-<td><p>8GB <a href="../Page/NAND型フラッシュメモリ.md" title="wikilink">フラッシュメモリ</a>（<a href="https://ja.wikipedia.org/wiki/キャッシュ_(コンピュータシステム)" title="wikilink">キャッシュ用</a>）</p></td>
+<td><p>8GB <a href="../Page/NAND型フラッシュメモリ.md" title="wikilink">フラッシュメモリ</a>（<a href="../Page/キャッシュ_(コンピュータシステム).md" title="wikilink">キャッシュ用</a>）</p></td>
 <td><p>32GB/64GB フラッシュメモリ</p></td>
 <td><p>32GB/64GB フラッシュメモリ</p></td>
 <td></td>
@@ -207,7 +207,7 @@ IRレシーバ<br />
 </tr>
 <tr class="odd">
 <td><p>ネットワーク</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/IEEE_802.11" title="wikilink">IEEE 802.11b/g/n</a> WiFi<br />
+<td><p><a href="../Page/IEEE_802.11.md" title="wikilink">IEEE 802.11b/g/n</a> WiFi<br />
 <a href="https://ja.wikipedia.org/wiki/10メガビット・イーサネット" title="wikilink">10</a>/<a href="https://ja.wikipedia.org/wiki/100メガビット・イーサネット" title="wikilink">100BASE-T</a> <a href="../Page/イーサネット.md" title="wikilink">Ethernet</a></p></td>
 <td><p>IEEE 802.11a/b/g/n Wi-Fi<br />
 10/100BASE-T Ethernet</p></td>
@@ -220,7 +220,7 @@ Bluetooth 4.0</p></td>
 <tr class="even">
 <td><p>映像出力</p></td>
 <td><p>1080p/1080i 60/50Hz・720p 60/50Hz・576p 50Hz（<a href="../Page/PAL.md" title="wikilink">PAL</a>）・480p 60Hz（<a href="../Page/NTSC.md" title="wikilink">NTSC</a>）<br />
-<a href="https://ja.wikipedia.org/wiki/HDMI" title="wikilink">HDMI</a>および<a href="https://ja.wikipedia.org/wiki/コンポーネント映像信号" title="wikilink">コンポーネント端子</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/HDMI" title="wikilink">HDMI</a>および<a href="../Page/コンポーネント映像信号.md" title="wikilink">コンポーネント端子</a></p></td>
 <td><p>720p 60/50Hz<br />
 HDMIのみ</p></td>
 <td><p>1080p 60/50Hz・720p 60/50Hz<br />
@@ -231,7 +231,7 @@ HDMIのみ</p></td>
 <tr class="odd">
 <td><p>音声出力</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/S/PDIF" title="wikilink">S/PDIF</a> 光デジタル音声端子<br />
-<a href="https://ja.wikipedia.org/wiki/RCA端子" title="wikilink">RCA端子</a> アナログステレオオーディオ</p></td>
+<a href="../Page/RCA端子.md" title="wikilink">RCA端子</a> アナログステレオオーディオ</p></td>
 <td><p>S/PDIF 光デジタル音声端子</p></td>
 <td><p>HDMIのみ</p></td>
 <td></td>
@@ -311,7 +311,7 @@ HDMIのみ</p></td>
 ## 関連項目
 
   - [Apple TV+](https://ja.wikipedia.org/wiki/Apple_TV+ "wikilink")
-  - [AirMac](https://ja.wikipedia.org/wiki/AirMac "wikilink")
+  - [AirMac](../Page/AirMac.md "wikilink")
   - [Time Capsule](../Page/Time_Capsule.md "wikilink")
 
 ## 外部リンク

@@ -3,7 +3,7 @@
 
 **森村 あすか**（もりむら あすか、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月16日](../Page/5月16日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。
 
-[岩手県](../Page/岩手県.md "wikilink")出身。血液型:B型。[身長](https://ja.wikipedia.org/wiki/身長 "wikilink"):153cm。スリーサイズ:[B](https://ja.wikipedia.org/wiki/バスト "wikilink")82・[W](../Page/腰.md "wikilink")60・[H](https://ja.wikipedia.org/wiki/尻 "wikilink")85。
+[岩手県](../Page/岩手県.md "wikilink")出身。血液型:B型。[身長](../Page/身長.md "wikilink"):153cm。スリーサイズ:[B](../Page/バスト.md "wikilink")82・[W](../Page/腰.md "wikilink")60・[H](../Page/尻.md "wikilink")85。
 
 ## 略歴・人物
 
@@ -15,7 +15,7 @@
 
 AV女優3人によるアイドルユニット・[RaCCo組](https://ja.wikipedia.org/wiki/RaCCo組 "wikilink")の末期に参加。また、ソロで[シングル](../Page/シングル.md "wikilink")を1枚リリースしている。
 
-AV引退後は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")や声優を目指していたようで、成年向けコミック誌に漫画が何度か掲載されたことがある。また、[ウルトラマンロビン](../Page/ウルトラマンロビン.md "wikilink")率いるプロレス団体[SGPのイベントに](../Page/SGP_\(プロレス\).md "wikilink")[京本政樹](https://ja.wikipedia.org/wiki/京本政樹 "wikilink")と共に幾度か出演している。
+AV引退後は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")や声優を目指していたようで、成年向けコミック誌に漫画が何度か掲載されたことがある。また、[ウルトラマンロビン](../Page/ウルトラマンロビン.md "wikilink")率いるプロレス団体[SGPのイベントに](../Page/SGP_\(プロレス\).md "wikilink")[京本政樹](../Page/京本政樹.md "wikilink")と共に幾度か出演している。
 
 なお、『[ラ・セーヌの星](../Page/ラ・セーヌの星.md "wikilink")』で有名な漫画家の[森村あすかとは関係ない](https://ja.wikipedia.org/wiki/森村あすか_\(漫画家\) "wikilink")。
 
@@ -52,7 +52,7 @@ AV引退後は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")や
   - 妖しい遊戯 （10月15日、SOPHY）…共演:[斉藤唯](../Page/斉藤唯.md "wikilink")、[星川ミグ](../Page/星川ミグ.md "wikilink")
   - フラッシュバック 18 （10月21日、アリスJAPAN）
   - 出血大制服 （VIP）
-  - 淫らな「ひとりH」 （[マドンナメイトビデオ](https://ja.wikipedia.org/wiki/二見書房 "wikilink")）…オムニバス作品 他出演:[藤木流花](https://ja.wikipedia.org/wiki/藤木流花 "wikilink")、本田亜理沙
+  - 淫らな「ひとりH」 （[マドンナメイトビデオ](../Page/二見書房.md "wikilink")）…オムニバス作品 他出演:[藤木流花](https://ja.wikipedia.org/wiki/藤木流花 "wikilink")、本田亜理沙
   - あッ！ソコの裂間 （RAC）
 
 <!-- end list -->
@@ -101,21 +101,21 @@ AV引退後は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")や
 
 <!-- end list -->
 
-  - [おカマ白書](https://ja.wikipedia.org/wiki/おカマ白書 "wikilink")（[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")） - 「雨宮ミキ」役
+  - [おカマ白書](https://ja.wikipedia.org/wiki/おカマ白書 "wikilink")（[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")） - 「雨宮ミキ」役
     1.  運命の変身編（1991年4月12日）
     2.  真夏のハプニング編 （1991年11月8日）
     3.  男の決心編 （1992年2月6日）
 
 <!-- end list -->
 
-  - ころがし涼太（[MY-VIDEO](https://ja.wikipedia.org/wiki/ICHI_\(企業\) "wikilink")）
+  - ころがし涼太（[MY-VIDEO](../Page/ICHI_\(企業\).md "wikilink")）
     1.  ヒーローは俺だ\!\!
     2.  つっぱりバス野郎、大暴れ\!
     3.  涼太、危機一髪\!
 
 ### 映画
 
-  - 連続レイプ　変態実験（1990年11月23日、監督：[佐藤寿保](https://ja.wikipedia.org/wiki/佐藤寿保 "wikilink")、[新日本映像](https://ja.wikipedia.org/wiki/新日本映像 "wikilink")）\[1\]
+  - 連続レイプ　変態実験（1990年11月23日、監督：[佐藤寿保](https://ja.wikipedia.org/wiki/佐藤寿保 "wikilink")、[新日本映像](../Page/新日本映像.md "wikilink")）\[1\]
   - 制服盗聴魔 激射・なぶる\!（1990年11月30日、監督：佐藤寿保、新日本映像）\[2\]
   - 制服私刑　ねじり込め\!（1991年2月8日、監督：佐藤寿保、新日本映像）\[3\]
 
@@ -125,7 +125,7 @@ AV引退後は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")や
 
   - 恋はハート色 （1989年8月、[大陸書房](../Page/大陸書房.md "wikilink")）
   - 妹派宣言 （1989年11月、[ピラミッド社](../Page/大陸書房.md "wikilink")）
-  - マドンナメイト写真集 森村あすか （1990年5月、[マドンナ社](https://ja.wikipedia.org/wiki/二見書房 "wikilink")）
+  - マドンナメイト写真集 森村あすか （1990年5月、[マドンナ社](../Page/二見書房.md "wikilink")）
 
 ### カセット
 

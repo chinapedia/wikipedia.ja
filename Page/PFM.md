@@ -6,10 +6,10 @@
   - [パーソナル・ファイナンシャル・マネジメント](https://ja.wikipedia.org/wiki/パーソナル・ファイナンシャル・マネジメント "wikilink") - Personal Financial Management, [Wesabe](https://ja.wikipedia.org/wiki/Wesabe "wikilink"), [Mint.com](https://ja.wikipedia.org/wiki/Mint.com "wikilink"), [Geezeo](https://ja.wikipedia.org/wiki/Geezeo "wikilink"), [Jwaala](https://ja.wikipedia.org/wiki/Jwaala "wikilink") や [Quicken Onlineがある](https://ja.wikipedia.org/wiki/Quicken_Online "wikilink")。
   - [プリンター・フォント・メトリクス](https://ja.wikipedia.org/wiki/プリンター・フォント・メトリクス "wikilink") - Printer Font Metrics, [マイクロソフト](../Page/マイクロソフト.md "wikilink")の[ウィンドウズ](https://ja.wikipedia.org/wiki/ウィンドウズ "wikilink")で使用される[Type 1フォント](../Page/PostScriptフォント.md "wikilink")
   - [ピエゾ(反発)力顕微鏡](https://ja.wikipedia.org/wiki/圧電応答力顕微鏡 "wikilink") - Piezo (response) Force Microscopy, AFM ([原子間力顕微鏡](../Page/原子間力顕微鏡.md "wikilink"))の技術
-  - [プレミアータ・フォルネリア・マルコーニ](https://ja.wikipedia.org/wiki/プレミアータ・フォルネリア・マルコーニ "wikilink") - Premiata Forneria Marconi,[イタリア](../Page/イタリア.md "wikilink")のロックバンド
+  - [プレミアータ・フォルネリア・マルコーニ](../Page/プレミアータ・フォルネリア・マルコーニ.md "wikilink") - Premiata Forneria Marconi,[イタリア](../Page/イタリア.md "wikilink")のロックバンド
   - [光子力顕微鏡](https://ja.wikipedia.org/wiki/光子力顕微鏡 "wikilink") - Photonic force microscope
   - [PFM (ミュージシャン)](https://ja.wikipedia.org/wiki/PFM_\(ミュージシャン\) "wikilink") - [インテリジェント・ドラム・アンド・バス](https://ja.wikipedia.org/wiki/インテリジェント・ドラム・アンド・バス "wikilink")スタイルのアーティスト
-  - [Porcelain Fused to Metal](https://ja.wikipedia.org/wiki/Porcelain_Fused_to_Metal "wikilink") - Porcelain Fused to Metal,一般的な形式の[クラウン](https://ja.wikipedia.org/wiki/クラウン_\(歯科\) "wikilink")
+  - [Porcelain Fused to Metal](https://ja.wikipedia.org/wiki/Porcelain_Fused_to_Metal "wikilink") - Porcelain Fused to Metal,一般的な形式の[クラウン](../Page/クラウン_\(歯科\).md "wikilink")
   - [ポートフォリオ・マネジメント](https://ja.wikipedia.org/wiki/ポートフォリオ・マネジメント "wikilink")
   - [ピッチフォーク・メディア](https://ja.wikipedia.org/wiki/ピッチフォーク・メディア "wikilink") - Pitchfork Media,オンラインミュージックマガジン
   - [ポモナ・フォーミュラ・モータースポーツ](https://ja.wikipedia.org/wiki/ポモナ・フォーミュラ・モータースポーツ "wikilink") - Pomona Formula Motorsports

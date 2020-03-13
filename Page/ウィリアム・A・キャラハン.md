@@ -1,9 +1,9 @@
 > この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
 
 
-**ウィリアム・A・キャラハン**（William A. Callahan）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[国際政治学者](../Page/国際政治学者.md "wikilink")。専門は、[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")外交、[東アジア](../Page/東アジア.md "wikilink")国際政治。
+**ウィリアム・A・キャラハン**（William A. Callahan）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[国際政治学者](../Page/国際政治学者.md "wikilink")。専門は、[中国](../Page/中国.md "wikilink")外交、[東アジア](../Page/東アジア.md "wikilink")国際政治。
 
-[マギル大学](https://ja.wikipedia.org/wiki/マギル大学 "wikilink")卒業後、[ハワイ大学](https://ja.wikipedia.org/wiki/ハワイ大学 "wikilink")で修士号および博士号取得。[ダーラム大学](https://ja.wikipedia.org/wiki/ダーラム大学 "wikilink")現代中国研究所所長を経て、現在、[マンチェスター大学](../Page/マンチェスター大学.md "wikilink")社会科学部教授。
+[マギル大学](../Page/マギル大学.md "wikilink")卒業後、[ハワイ大学](https://ja.wikipedia.org/wiki/ハワイ大学 "wikilink")で修士号および博士号取得。[ダーラム大学](https://ja.wikipedia.org/wiki/ダーラム大学 "wikilink")現代中国研究所所長を経て、現在、[マンチェスター大学](../Page/マンチェスター大学.md "wikilink")社会科学部教授。
 
 ## 著書
 

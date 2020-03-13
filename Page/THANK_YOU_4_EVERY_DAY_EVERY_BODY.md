@@ -5,11 +5,11 @@
 
 ## 解説
 
-  - [2000年](../Page/2000年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")に[TRUE KiSS DiSCよりリリース](https://ja.wikipedia.org/wiki/TRUE_KiSS_DiSC "wikilink")。
+  - [2000年](../Page/2000年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")に[TRUE KiSS DiSCよりリリース](../Page/TRUE_KiSS_DiSC.md "wikilink")。
   - 当初は8cmシングルが2枚(タイトル未定)出ることが発表されていたが、発売中止となり、本作が発表された。
-  - アルバム収録は『[INFINITY EIGHTEEN Vol.2](https://ja.wikipedia.org/wiki/INFINITY_EIGHTEEN_Vol.2 "wikilink")』。
-  - 作詞に本人自身も参加。カップリング曲の「I really wanna tell」は、初めて男性ラップ（[CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink")）がフィーチャーされている。
-  - [オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位。
+  - アルバム収録は『[INFINITY EIGHTEEN Vol.2](../Page/INFINITY_EIGHTEEN_Vol.2.md "wikilink")』。
+  - 作詞に本人自身も参加。カップリング曲の「I really wanna tell」は、初めて男性ラップ（[CUEZERO](../Page/CUEZERO.md "wikilink")）がフィーチャーされている。
+  - [オリコン初登場](../Page/オリコンチャート.md "wikilink")1位。
   - この曲で[大晦日](../Page/大晦日.md "wikilink")の[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")([NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink"))に出場。
 
 ## 収録曲

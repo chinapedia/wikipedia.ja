@@ -1,7 +1,7 @@
 > この記事は[ Watch](https://ja.wikipedia.org/wiki/_Watch)から翻訳されています。
 
 
-**ケータイWatch**は、[Impress Watchのひとつで](https://ja.wikipedia.org/wiki/Impress_Watch "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")・[PHS](../Page/PHS.md "wikilink")・[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")関連の[ニュース](../Page/ニュース.md "wikilink")を取り扱う[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。
+**ケータイWatch**は、[Impress Watchのひとつで](../Page/Impress_Watch.md "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")・[PHS](../Page/PHS.md "wikilink")・[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")関連の[ニュース](../Page/ニュース.md "wikilink")を取り扱う[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。
 
 ## 概要
 
@@ -25,7 +25,7 @@
 
 ### スタパ齋藤の週刊スタパトロニクスmobile
 
-月曜日更新（祝祭日の場合は休み）。携帯電話からカイロまで、モバイルに関連したものについて毎回1点ずつ取り上げて[スタパ齋藤](https://ja.wikipedia.org/wiki/スタパ齋藤 "wikilink")がレビューするコーナー。2016年より毎週水曜日更新の『スタパ齋藤のコレに凝りました「コレ凝り\!」』にリニューアル。Mobile Central時代から続く長寿連載。
+月曜日更新（祝祭日の場合は休み）。携帯電話からカイロまで、モバイルに関連したものについて毎回1点ずつ取り上げて[スタパ齋藤](../Page/スタパ齋藤.md "wikilink")がレビューするコーナー。2016年より毎週水曜日更新の『スタパ齋藤のコレに凝りました「コレ凝り\!」』にリニューアル。Mobile Central時代から続く長寿連載。
 
 ### 法林岳之の「週刊モバイルCATCH UP」
 
@@ -47,7 +47,7 @@ Mobile Central時代から存在する読者投稿コーナーで、壊れてし
 
 ### ケッタイ うおっち
 
-Impress Watchの[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")企画である、「PC うおっち」の一コーナー。携帯電話に関するジョークのニュースを掲載している。キャリア名・[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")・サービス名・機関名・企業名等も冗談じみた名前に書き換えられている。
+Impress Watchの[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")企画である、「PC うおっち」の一コーナー。携帯電話に関するジョークのニュースを掲載している。キャリア名・[マスコット](../Page/マスコット.md "wikilink")・サービス名・機関名・企業名等も冗談じみた名前に書き換えられている。
 
 キャリアのケッタイ うおっち上での書き換えられ方は、大体以下のとおりである。なお、これとは違う名前に書き換えられることもよくある。
 

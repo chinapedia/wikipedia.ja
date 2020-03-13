@@ -5,11 +5,11 @@
 
 ## 概要
 
-同じくホンダの一社提供で放送されていた『[U・S](https://ja.wikipedia.org/wiki/U・S "wikilink")改』の後継番組である。ただし、出演者は完全に入れ替わっており、この番組からは[V6の](../Page/V6_\(グループ\).md "wikilink")[長野博](https://ja.wikipedia.org/wiki/長野博 "wikilink")とスポーツキャスターの[川平慈英](../Page/川平慈英.md "wikilink")がナビゲーターを務めるようになった。
+同じくホンダの一社提供で放送されていた『[U・S](../Page/U・S.md "wikilink")改』の後継番組である。ただし、出演者は完全に入れ替わっており、この番組からは[V6の](../Page/V6_\(グループ\).md "wikilink")[長野博](../Page/長野博.md "wikilink")とスポーツキャスターの[川平慈英](../Page/川平慈英.md "wikilink")がナビゲーターを務めるようになった。
 
-放送内容については前番組で行われていたものをおおむね引き継いでおり、この番組もモータースポーツに関する情報を中心に紹介していた。特にCART（後の[チャンプカー・ワールド・シリーズ](../Page/チャンプカー・ワールド・シリーズ.md "wikilink")）と[ワールドグランプリ](https://ja.wikipedia.org/wiki/ワールドグランプリ "wikilink")を重点的に特集する傾向にあった。また、[高橋レーシングのスタントチームをゲストに招いてのカースタント実践企画や](../Page/タカハシレーシング.md "wikilink")、ゲストタレントと[ラジコンカーで勝負をする企画](https://ja.wikipedia.org/wiki/ラジコン模型自動車 "wikilink")、出演者の[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")がアメリカ・カリフォルニア州で[スカイダイビング](https://ja.wikipedia.org/wiki/スカイダイビング "wikilink")に挑戦する企画なども実施していた。車両手配上の都合からホンダ車以外の他社の車両を使用する際には、車両の前部・後部に番組タイトルロゴ付きの板を被せていた。
+放送内容については前番組で行われていたものをおおむね引き継いでおり、この番組もモータースポーツに関する情報を中心に紹介していた。特にCART（後の[チャンプカー・ワールド・シリーズ](../Page/チャンプカー・ワールド・シリーズ.md "wikilink")）と[ワールドグランプリ](https://ja.wikipedia.org/wiki/ワールドグランプリ "wikilink")を重点的に特集する傾向にあった。また、[高橋レーシングのスタントチームをゲストに招いてのカースタント実践企画や](../Page/タカハシレーシング.md "wikilink")、ゲストタレントと[ラジコンカーで勝負をする企画](https://ja.wikipedia.org/wiki/ラジコン模型自動車 "wikilink")、出演者の[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")がアメリカ・カリフォルニア州で[スカイダイビング](../Page/スカイダイビング.md "wikilink")に挑戦する企画なども実施していた。車両手配上の都合からホンダ車以外の他社の車両を使用する際には、車両の前部・後部に番組タイトルロゴ付きの板を被せていた。
 
-またお笑い芸人がレギュラーを目指して海外で行われる[MotoGPや](../Page/ロードレース世界選手権.md "wikilink")[CARTのレース場に行き現地からレポートし](../Page/チャンプカー・ワールド・シリーズ.md "wikilink")、[バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")・[U-turn](https://ja.wikipedia.org/wiki/U-turn "wikilink")・[ファンキーモンキークリニック](../Page/ファンキーモンキークリニック.md "wikilink")・[BOOMER](https://ja.wikipedia.org/wiki/BOOMER "wikilink")などが出演。視聴者投票とMCにより[ファンキーモンキークリニック](../Page/ファンキーモンキークリニック.md "wikilink")が選ばれるが、選ばれた日が最終回というオチだった。([ファンキーモンキークリニック](../Page/ファンキーモンキークリニック.md "wikilink")の[しょうへいは後継番組の](../Page/ファンキーモンキークリニック.md "wikilink")[MOBI](../Page/MOBI.md "wikilink")でレギュラーコーナーを持つなど度々出演していた)
+またお笑い芸人がレギュラーを目指して海外で行われる[MotoGPや](../Page/ロードレース世界選手権.md "wikilink")[CARTのレース場に行き現地からレポートし](../Page/チャンプカー・ワールド・シリーズ.md "wikilink")、[バナナマン](../Page/バナナマン.md "wikilink")・[U-turn](../Page/U-turn.md "wikilink")・[ファンキーモンキークリニック](../Page/ファンキーモンキークリニック.md "wikilink")・[BOOMER](../Page/BOOMER.md "wikilink")などが出演。視聴者投票とMCにより[ファンキーモンキークリニック](../Page/ファンキーモンキークリニック.md "wikilink")が選ばれるが、選ばれた日が最終回というオチだった。([ファンキーモンキークリニック](../Page/ファンキーモンキークリニック.md "wikilink")の[しょうへいは後継番組の](../Page/ファンキーモンキークリニック.md "wikilink")[MOBI](../Page/MOBI.md "wikilink")でレギュラーコーナーを持つなど度々出演していた)
 
 番組の終了後、同枠では引き続き長野をメインに起用した後継番組『[MOBI](../Page/MOBI.md "wikilink")』がスタートした。
 
@@ -23,14 +23,14 @@
 
 ## 出演者
 
-  - [長野博](https://ja.wikipedia.org/wiki/長野博 "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）
+  - [長野博](../Page/長野博.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）
   - [川平慈英](../Page/川平慈英.md "wikilink")
   - [眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")
 
 ## エンディングテーマ
 
   - [Running to the top](https://ja.wikipedia.org/wiki/"HAPPY"_Coming_Century,_20th_Century_Forever#収録曲 "wikilink") （[20th Century](../Page/V6_\(グループ\).md "wikilink")）
-  - [Over Drive](https://ja.wikipedia.org/wiki/Volume_6#収録曲 "wikilink") （[Hiroshi Nagano](https://ja.wikipedia.org/wiki/長野博 "wikilink"), [Go Morita](https://ja.wikipedia.org/wiki/森田剛 "wikilink")）
+  - [Over Drive](https://ja.wikipedia.org/wiki/Volume_6#収録曲 "wikilink") （[Hiroshi Nagano](../Page/長野博.md "wikilink"), [Go Morita](https://ja.wikipedia.org/wiki/森田剛 "wikilink")）
   - [BLOW UP THE DARK](https://ja.wikipedia.org/wiki/seVen_\(V6のアルバム\)#収録曲 "wikilink") （V6）
 
 ## 外部リンク

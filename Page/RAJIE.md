@@ -7,7 +7,7 @@
 
 1973年11月に、女子高生フォークグループROW（後に[ポニーテールに改名](https://ja.wikipedia.org/wiki/ポニーテール_\(日本の歌手グループ\) "wikilink")）「失われたもの達」でデビュー。1975年グループ名をポニーテールに改名し「チャンスと口紅」で再デビュー。
 
-その後グループを脱退し、CMソングなどで手がけたのち、1977年に「ホールド・ミー・タイト」でCBS・ソニー（現：[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）からソロデビュー。5枚のアルバムを発表し、結婚のため一時活動を休止、1984年に[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")（現：[ユニバーサルミュージック合同会社](https://ja.wikipedia.org/wiki/ユニバーサルミュージック合同会社 "wikilink")内EMIレコーズ・ジャパンレーベル）に移籍し、2枚のアルバムを発表。
+その後グループを脱退し、CMソングなどで手がけたのち、1977年に「ホールド・ミー・タイト」でCBS・ソニー（現：[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）からソロデビュー。5枚のアルバムを発表し、結婚のため一時活動を休止、1984年に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現：[ユニバーサルミュージック合同会社](https://ja.wikipedia.org/wiki/ユニバーサルミュージック合同会社 "wikilink")内EMIレコーズ・ジャパンレーベル）に移籍し、2枚のアルバムを発表。
 
 1980年代後半以降は、[バッキング・ボーカルを中心に活動している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
 
@@ -48,9 +48,9 @@
 <td><p>06SH-210</p></td>
 <td><p>A</p></td>
 <td><p><strong>ホールド・ミー・タイト</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/竜真知子" title="wikilink">竜真知子</a> <a href="https://ja.wikipedia.org/wiki/高橋ユキヒロ" title="wikilink">高橋ユキヒロ</a></p></td>
+<td><p><a href="../Page/竜真知子.md" title="wikilink">竜真知子</a> <a href="https://ja.wikipedia.org/wiki/高橋ユキヒロ" title="wikilink">高橋ユキヒロ</a></p></td>
 <td><p>高橋ユキヒロ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤次利" title="wikilink">後藤次利</a> <a href="https://ja.wikipedia.org/wiki/萩田光雄" title="wikilink">萩田光雄</a></p></td>
+<td><p><a href="../Page/後藤次利.md" title="wikilink">後藤次利</a> <a href="../Page/萩田光雄.md" title="wikilink">萩田光雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>B</p></td>
@@ -74,7 +74,7 @@
 <tr class="odd">
 <td><p>B</p></td>
 <td><p>優しい関係</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/来生えつこ" title="wikilink">来生えつこ</a></p></td>
+<td><p><a href="../Page/来生えつこ.md" title="wikilink">来生えつこ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -127,7 +127,7 @@
 <td><p>A</p></td>
 <td><p><strong>ラジオと二人</strong></p></td>
 <td><p><a href="../Page/糸井重里.md" title="wikilink">糸井重里</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉真理" title="wikilink">杉真理</a></p></td>
+<td><p><a href="../Page/杉真理.md" title="wikilink">杉真理</a></p></td>
 <td><p>高橋幸宏</p></td>
 </tr>
 <tr class="odd">
@@ -145,7 +145,7 @@
 <td><p>A</p></td>
 <td><p><strong>偽りの瞳</strong></p></td>
 <td><p>高橋幸宏</p>
-<p><a href="https://ja.wikipedia.org/wiki/大村憲司" title="wikilink">大村憲司</a></p></td>
+<p><a href="../Page/大村憲司.md" title="wikilink">大村憲司</a></p></td>
 <td><p>高橋幸宏</p></td>
 <td></td>
 </tr>
@@ -165,7 +165,7 @@
 <td><p><strong>ブラック・ムーン　</strong>[4][5]</p></td>
 <td><p>来生えつこ</p></td>
 <td><p>南佳孝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上鑑" title="wikilink">井上鑑</a></p></td>
+<td><p><a href="../Page/井上鑑.md" title="wikilink">井上鑑</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>B</p></td>
@@ -316,7 +316,7 @@
 
 ### その他
 
-  - [五十嵐浩晃](https://ja.wikipedia.org/wiki/五十嵐浩晃 "wikilink") EP「サマートワイライト」('88)c/w；LP「DISTANCE」('88)track10「二人だけのXmas(Duet with Rajie)」、LP「DESTINATION」('89)track4「グラデーション(Duet with Rajie)」
+  - [五十嵐浩晃](../Page/五十嵐浩晃.md "wikilink") EP「サマートワイライト」('88)c/w；LP「DISTANCE」('88)track10「二人だけのXmas(Duet with Rajie)」、LP「DESTINATION」('89)track4「グラデーション(Duet with Rajie)」
   - [大瀧詠一](../Page/大瀧詠一.md "wikilink")　LP「A LONG V.A.C.A.T.I.O.N」track2「Velvet Motel」(Duet with Rajie)
   - [サディスティックス](../Page/サディスティックス.md "wikilink")　LP 「Sadistics」('77)track4「香港戀歌(れんか)」(Duet with Rajie)
   - [サディスティックス](../Page/サディスティックス.md "wikilink")　LP 「Sadistics」('77)track6「The Tokyo Taste」(Duet with Rajie)
@@ -335,7 +335,7 @@
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:1956年生](https://ja.wikipedia.org/wiki/Category:1956年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [日産自動車](../Page/日産自動車.md "wikilink") 5代目「[スカイライン](https://ja.wikipedia.org/wiki/スカイラインGT-R "wikilink")」イメージソング。
-2.  ラジ&[南佳孝](https://ja.wikipedia.org/wiki/南佳孝 "wikilink")名義
+2.  ラジ&[南佳孝](../Page/南佳孝.md "wikilink")名義
 3.
 4.  [日立マクセル](https://ja.wikipedia.org/wiki/日立マクセル "wikilink")カセットテープCM曲。
 5.  2012年に[一十三十一](https://ja.wikipedia.org/wiki/一十三十一 "wikilink")がアルバム『YOUR TIME ROUTE 1』でカヴァー。

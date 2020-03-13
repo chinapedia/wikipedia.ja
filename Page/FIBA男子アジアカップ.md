@@ -1,7 +1,7 @@
 > この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
 
 
-**FIBA男子アジアカップ**（**FIBA Asia Cup**）は、[FIBAアジア](https://ja.wikipedia.org/wiki/FIBAアジア "wikilink")が主催する[バスケットボール](../Page/バスケットボール.md "wikilink")の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[大陸選手権である](https://ja.wikipedia.org/wiki/大陸選手権_\(バスケットボール\) "wikilink")。FIBAアジア加盟国すべてに参加資格が与えられる。以前は Asian Basketball Confederation Championship、略称**ABC**。女子の大会については[FIBA女子アジアカップ](https://ja.wikipedia.org/wiki/FIBA女子アジアカップ "wikilink")を参照せよ。
+**FIBA男子アジアカップ**（**FIBA Asia Cup**）は、[FIBAアジア](../Page/FIBAアジア.md "wikilink")が主催する[バスケットボール](../Page/バスケットボール.md "wikilink")の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[大陸選手権である](https://ja.wikipedia.org/wiki/大陸選手権_\(バスケットボール\) "wikilink")。FIBAアジア加盟国すべてに参加資格が与えられる。以前は Asian Basketball Confederation Championship、略称**ABC**。女子の大会については[FIBA女子アジアカップ](https://ja.wikipedia.org/wiki/FIBA女子アジアカップ "wikilink")を参照せよ。
 
 ## 概要
 
@@ -77,7 +77,7 @@
 <td><p>1971<br />
 <em><a href="../Page/1971年バスケットボール男子アジア選手権.md" title="wikilink">詳細</a></em></p></td>
 <td><p><br />
-（<a href="https://ja.wikipedia.org/wiki/東京都" title="wikilink">東京</a>）</p></td>
+（<a href="../Page/東京都.md" title="wikilink">東京</a>）</p></td>
 <td></td>
 <td><p>[6]</p></td>
 </tr>
@@ -212,7 +212,7 @@
 <td><p>2005<br />
 <em><a href="../Page/2005年バスケットボール男子アジア選手権.md" title="wikilink">詳細</a></em></p></td>
 <td><p><br />
-（<a href="https://ja.wikipedia.org/wiki/ドーハ" title="wikilink">ドーハ</a>）</p></td>
+（<a href="../Page/ドーハ.md" title="wikilink">ドーハ</a>）</p></td>
 <td></td>
 <td><p><strong>77–61</strong></p></td>
 </tr>
@@ -220,7 +220,7 @@
 <td><p>2007<br />
 <em><a href="../Page/2007年バスケットボール男子アジア選手権.md" title="wikilink">詳細</a></em></p></td>
 <td><p><br />
-（<a href="https://ja.wikipedia.org/wiki/徳島市" title="wikilink">徳島</a>）</p></td>
+（<a href="../Page/徳島市.md" title="wikilink">徳島</a>）</p></td>
 <td></td>
 <td><p><strong>74–69</strong></p></td>
 </tr>
@@ -236,7 +236,7 @@
 <td><p>2011<br />
 <em><a href="https://ja.wikipedia.org/wiki/2011年バスケットボール男子アジア選手権" title="wikilink">詳細</a></em></p></td>
 <td><p><br />
-（<a href="https://ja.wikipedia.org/wiki/武漢市" title="wikilink">武漢</a>）</p></td>
+（<a href="../Page/武漢市.md" title="wikilink">武漢</a>）</p></td>
 <td></td>
 <td><p><strong>70–69</strong></p></td>
 </tr>
@@ -252,7 +252,7 @@
 <td><p>2015<br />
 <em><a href="https://ja.wikipedia.org/wiki/2015年バスケットボール男子アジア選手権" title="wikilink">詳細</a></em></p></td>
 <td><p><br />
-（<a href="https://ja.wikipedia.org/wiki/長沙市" title="wikilink">長沙</a>）</p></td>
+（<a href="../Page/長沙市.md" title="wikilink">長沙</a>）</p></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>78–67</strong></p></td>
 </tr>
@@ -430,7 +430,7 @@
 
 ## 日本での放送について
 
-  - 1999年大会は男女とも[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[NHK-BS](https://ja.wikipedia.org/wiki/NHK-BS "wikilink")・[スカイスポーツなどで中継された](../Page/J_SPORTS.md "wikilink")。
+  - 1999年大会は男女とも[日本テレビ](../Page/日本テレビ放送網.md "wikilink")・[NHK-BS](../Page/NHK-BS.md "wikilink")・[スカイスポーツなどで中継された](../Page/J_SPORTS.md "wikilink")。
   - 2007年・2009年はFIBA国際大会の国内放映権を持つJ SPORTSが中継。
   - 2013年から2016年はフジテレビがFIBA主催国際大会の日本国内独占放映権を取得。2013年の男子大会はフジテレビのCS、フジテレビNEXTで中継。
 

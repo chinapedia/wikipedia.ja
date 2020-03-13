@@ -20,7 +20,7 @@
 ## メンバー
 
   - U-tan (ユウタン)
-    本名：川村 豊、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/エレクトリック・ギター.md "wikilink")、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月13日](https://ja.wikipedia.org/wiki/10月13日 "wikilink") -
+    本名：川村 豊、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/エレクトリック・ギター.md "wikilink")、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月13日](../Page/10月13日.md "wikilink") -
   - MAKKIN (マッキン)
     本名：正木 孝典、[ベース](../Page/エレクトリックベース.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[1979年](../Page/1979年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") -
   - SUNE (スネ)
@@ -201,7 +201,7 @@
   - 2007年 - KISS THE WORLD TOUR 2007
   - 2008年 - 800-mile,2-killer TOUR
       -
-        w/[SABOTEN](../Page/SABOTEN.md "wikilink")/[9mm Parabellum Bullet](https://ja.wikipedia.org/wiki/9mm_Parabellum_Bullet "wikilink")/[PAN](../Page/PAN_\(バンド\).md "wikilink")/[STOMPIN’BIRD](https://ja.wikipedia.org/wiki/STOMPIN’BIRD "wikilink")/[PINKLOOP](../Page/PINKLOOP.md "wikilink")/[SHACHI](https://ja.wikipedia.org/wiki/SHACHI "wikilink")
+        w/[SABOTEN](../Page/SABOTEN.md "wikilink")/[9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")/[PAN](../Page/PAN_\(バンド\).md "wikilink")/[STOMPIN’BIRD](https://ja.wikipedia.org/wiki/STOMPIN’BIRD "wikilink")/[PINKLOOP](../Page/PINKLOOP.md "wikilink")/[SHACHI](https://ja.wikipedia.org/wiki/SHACHI "wikilink")
   - 2008年-2009年 - Swallowing Aliens Tour 2008-2009
   - 2010年 - BRAND NEW FIRST STEP tour '10
   - 2010年10月27日〜2011年05月19日 - GOOD4NOTHING "BACK 4 GOOD TOUR '10-'11"
@@ -215,14 +215,14 @@
   - 2012年10月20日 - GOOD4NOTHING Pre. "BURN SOUL DOWN" Vol.16
   - 2012年11月09日〜2013年01月14日 - GOOD4NOTHING "ALL THE AWESOME DUDES TOUR" 2012-2013
       -
-        w/[8otto](../Page/8otto.md "wikilink") / [at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink") / [BOMB FACTORY](https://ja.wikipedia.org/wiki/BOMB_FACTORY "wikilink") / [COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink") / [GARLIC BOYS](https://ja.wikipedia.org/wiki/GARLIC_BOYS "wikilink") / HEY-SMITH / [HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink") / [Jr.MONSTER](https://ja.wikipedia.org/wiki/Jr.MONSTER "wikilink") / [LAST ALLIANCE](../Page/LAST_ALLIANCE.md "wikilink") / [OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink") / PAN / SPREAD / [STANCE PUNKS](https://ja.wikipedia.org/wiki/STANCE_PUNKS "wikilink")
+        w/[8otto](../Page/8otto.md "wikilink") / [at Anytime](https://ja.wikipedia.org/wiki/at_Anytime "wikilink") / [BOMB FACTORY](https://ja.wikipedia.org/wiki/BOMB_FACTORY "wikilink") / [COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink") / [GARLIC BOYS](https://ja.wikipedia.org/wiki/GARLIC_BOYS "wikilink") / HEY-SMITH / [HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink") / [Jr.MONSTER](https://ja.wikipedia.org/wiki/Jr.MONSTER "wikilink") / [LAST ALLIANCE](../Page/LAST_ALLIANCE.md "wikilink") / [OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink") / PAN / SPREAD / [STANCE PUNKS](../Page/STANCE_PUNKS.md "wikilink")
   - 2013年06月16日・23日 - GOOD4NOTHING The 15th anniversary
       -
-        w/[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") / HOTSQUALL / [NAMBA69](https://ja.wikipedia.org/wiki/NAMBA69 "wikilink") / [SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")
+        w/[10-FEET](../Page/10-FEET.md "wikilink") / HOTSQUALL / [NAMBA69](https://ja.wikipedia.org/wiki/NAMBA69 "wikilink") / [SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")
   - 2013年11月28日〜12月06日 - GOOD4NOTHING 15TH ANNIVERSARY 『SAKAI NO OSSAN goes on ONE-MAN SHOW』
   - 2014年02月14日〜06月29日 - Four voices tour 2014
       -
-        w/COUNTRY YARD / [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") / GARLIC BOYS / BOMB FACTORY / [SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink") / [EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink") / [FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink") / [Northern19](../Page/Northern19.md "wikilink") / HEY-SMITH / dustbox / [ROACH](https://ja.wikipedia.org/wiki/ROACH "wikilink") / [THE→CHINA WIFE MOTORS](https://ja.wikipedia.org/wiki/THE→CHINA_WIFE_MOTORS "wikilink") / [DROPOUT](https://ja.wikipedia.org/wiki/DROPOUT "wikilink") / [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") / SPREAD / OVER ARM THROW / STOMPIN'BIRD
+        w/COUNTRY YARD / [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") / GARLIC BOYS / BOMB FACTORY / [SECRET 7 LINE](https://ja.wikipedia.org/wiki/SECRET_7_LINE "wikilink") / [EGG BRAIN](https://ja.wikipedia.org/wiki/EGG_BRAIN "wikilink") / [FOUR GET ME A NOTS](https://ja.wikipedia.org/wiki/FOUR_GET_ME_A_NOTS "wikilink") / [Northern19](../Page/Northern19.md "wikilink") / HEY-SMITH / dustbox / [ROACH](https://ja.wikipedia.org/wiki/ROACH "wikilink") / [THE→CHINA WIFE MOTORS](https://ja.wikipedia.org/wiki/THE→CHINA_WIFE_MOTORS "wikilink") / [DROPOUT](https://ja.wikipedia.org/wiki/DROPOUT "wikilink") / [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") / SPREAD / OVER ARM THROW / STOMPIN'BIRD
   - 2014年08月31日 - HI BACK PACK vol.10
   - 2015年 - MELODIC CORSTAR（渋谷クラブクアトロ）
   - 2015年06月12日〜07月18日 - Raise Your Hope TOUR 2015 ～OSSAN TACHI NO ONE-MAN～
@@ -251,7 +251,7 @@
 
   - 2004年02月08日 - [STOMPIN'BIRD](https://ja.wikipedia.org/wiki/STOMPIN'BIRD "wikilink") presents HIGH JACK vol.10
   - 2004年07月24日 - GARADATION TOUR
-  - 2005年06月12日 - [ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink") RIOT ON THE GRILL TOUR
+  - 2005年06月12日 - [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") RIOT ON THE GRILL TOUR
   - 2005年06月21日 - [マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")「ロッキンポ殺しレコ発ツアー」
   - 2005年07月03日 - [SHACHI](https://ja.wikipedia.org/wiki/SHACHI "wikilink") & GOOD4NOTHING Wレコ発ツアー
   - 2005年10月23日 - AOJ Final TOUR
@@ -294,7 +294,7 @@
   - 2009年11月03日 - [No Use For A Name](https://ja.wikipedia.org/wiki/ノー・ユース・フォー・ア・ネイム "wikilink") JAPAN Tour 2009
   - 2009年12月31日 - COUNTDOWN JAPAN 09/10
   - 2010年01月11日 - [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") 10th anniversary special program "RASCAL VALLEY"
-  - 2010年01月26日・03月15日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") BONDS FINAL TOUR
+  - 2010年01月26日・03月15日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") BONDS FINAL TOUR
   - 2010年05月02日 - [COMIN'KOBE](https://ja.wikipedia.org/wiki/COMIN'KOBE "wikilink")10
   - 2010年05月26日・27日 - KEN YOKOYAMA Four Tour
   - 2010年08月01日 - FUJI ROCK FESTIVAL 2010
@@ -408,7 +408,7 @@
   - 2014年11月01日 - [Northern19](../Page/Northern19.md "wikilink") DISCOVERY tour FINAL SERIES
   - 2014年11月02日 - EASTSIDEROCKERZ presents PUNK AROUND THE WORLD VOL.36 ～8TH ANNIVASARY～
   - 2014年11月05日 - [四星球](../Page/四星球.md "wikilink") 4thフルアルバム「もはやCDではない」レコ発ツアー 『もはや…』
-  - 2014年11月08日・09日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") Where The Light Remains release TOUR
+  - 2014年11月08日・09日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") Where The Light Remains release TOUR
   - 2014年11月12日 - [Jr.MONSTER](https://ja.wikipedia.org/wiki/Jr.MONSTER "wikilink") presents MONSTER HOUSE tour MONSTER HOUSE Vol.54
   - 2014年11月22日・23日・12月21日 - [G-FREAK FACTORY](../Page/G-FREAK_FACTORY.md "wikilink") "fact" TOUR 2014
   - 2014年12月06日 - [COUNTRY YARD](https://ja.wikipedia.org/wiki/COUNTRY_YARD "wikilink") pre. BROTHERHOOD SPECIAL
@@ -525,10 +525,10 @@
   - 2016年10月08日・10日 - SWANKY DANK "it is WHAT it is" TOUR
   - 2016年10月16日 - HAWAIIAN6 presents ECHOES 2016
   - 2016年10月22日 - 信州本気ココ一番 2016
-  - 2016年10月28日 - [J](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink") 2016 LIVE 10 Days of GLORY -10 Counts for Destruction-
+  - 2016年10月28日 - [J](../Page/J_\(ミュージシャン\).md "wikilink") 2016 LIVE 10 Days of GLORY -10 Counts for Destruction-
   - 2016年10月29日 - Dizzy Sunfist "Dizzy Beats" TOUR 2016 -FINAL SERIES-
   - 2016年10月30日 - ドギマズン DOGIMAZUN 2016～Helloween Night Special\!\!～
-  - 2016年12月03日・05日 - [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")「GOOD JOB\! RYAN TOUR 2016」
+  - 2016年12月03日・05日 - [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")「GOOD JOB\! RYAN TOUR 2016」
   - 2016年12月04日 - SKULLSHIT 20th ANNIVERSARY 骸骨祭り
   - 2016年12月25日 - ポルノ超特急2016
   - 2016年12月29日 - COUNTDOWN JAPAN 16/17
@@ -540,7 +540,7 @@
   - 2017年01月30日 - SAKAI MEETING presents 『WEEKDAY MEETING』
   - 2017年02月04日 - BUGS SPOT SPECIAL for NORI
   - 2017年02月08日 - Rhythmic Toy World『ライブ三昧はっけよい、骨の髄までいっちゃって\!汗と涙の10本勝負\!\!』 ～うちのお庭で勝負編～
-  - 2017年02月09日 - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") "ヒトリセカイ×ヒトリズム" TOUR 2017
+  - 2017年02月09日 - [10-FEET](../Page/10-FEET.md "wikilink") "ヒトリセカイ×ヒトリズム" TOUR 2017
   - 2017年02月26日・03月04日 - MELODIC COASTER 2017
   - 2017年03月07日 - [MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink") presents「Dead End in Tokyo TOUR 2017」
   - 2017年03月18日 - ESP学園presents COLORS OSAKA

@@ -1,7 +1,7 @@
 > この記事は[Office](https://ja.wikipedia.org/wiki/Office)から翻訳されています。
 
 
-**Officeアシスタント**は、 [Microsoft Office](../Page/Microsoft_Office.md "wikilink") のインテリジェントな[ユーザインターフェイスであり](../Page/ユーザインタフェース.md "wikilink")、ヘルプ メッセージの表示などを行うユーザー サポート キャラクターである。 [Microsoft Office for Windows](../Page/Microsoft_Office.md "wikilink") （バージョン97〜2003）、 [Microsoft Publisherおよび](https://ja.wikipedia.org/wiki/Microsoft_Publisher "wikilink")[Microsoft Project](https://ja.wikipedia.org/wiki/Microsoft_Project "wikilink") （バージョン98〜2003）、および[Microsoft Office for Mac](../Page/Microsoft_Office.md "wikilink") （バージョン98〜2004）に含まれていた。
+**Officeアシスタント**は、 [Microsoft Office](../Page/Microsoft_Office.md "wikilink") のインテリジェントな[ユーザインターフェイスであり](../Page/ユーザインタフェース.md "wikilink")、ヘルプ メッセージの表示などを行うユーザー サポート キャラクターである。 [Microsoft Office for Windows](../Page/Microsoft_Office.md "wikilink") （バージョン97〜2003）、 [Microsoft Publisherおよび](../Page/Microsoft_Publisher.md "wikilink")[Microsoft Project](../Page/Microsoft_Project.md "wikilink") （バージョン98〜2003）、および[Microsoft Office for Mac](../Page/Microsoft_Office.md "wikilink") （バージョン98〜2004）に含まれていた。
 
 別途用意されている開発ツールを駆使すれば自作で Office アシスタントを開発することもできる。
 

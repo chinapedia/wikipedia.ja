@@ -15,26 +15,26 @@
 
 この他、以下のチャンネルへ一部番組の供給を行っている。
 
-  - スカパー\! Ch.CS800 「[スカチャン](../Page/スカチャン.md "wikilink")0」（衛星基幹放送事業者は[スカパー・エンターテイメント](https://ja.wikipedia.org/wiki/スカパー・エンターテイメント "wikilink")、2013年終了）
+  - スカパー\! Ch.CS800 「[スカチャン](../Page/スカチャン.md "wikilink")0」（衛星基幹放送事業者は[スカパー・エンターテイメント](../Page/スカパー・エンターテイメント.md "wikilink")、2013年終了）
   - [BSデジタル放送](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル "wikilink") 222ch 「BS12トゥエルビ」（衛星基幹放送事業者は[ワールド・ハイビジョン・チャンネル](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")、無料放送）
 
 ## チャンネルの特徴
 
   - 宝塚歌劇専門チャンネルの名前通り、宝塚歌劇の最新情報や過去の舞台公演、歌劇団生徒のトークショーや歌劇団の司会、出演のオリジナル番組や音響など裏方の人たちにスポットを当てた番組などを製作している。また過去に在籍したタカラジェンヌが、卒業後に行った公演・コンサートをまれに放送する機会がある。
-  - [阪急梅田駅の巨大ビジョンや](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪急\) "wikilink")[阪急9000系電車](https://ja.wikipedia.org/wiki/阪急9000系電車 "wikilink")の液晶ディスプレイでは当チャンネルの宣伝が流れることが多い。
+  - [阪急梅田駅の巨大ビジョンや](https://ja.wikipedia.org/wiki/大阪梅田駅_\(阪急\) "wikilink")[阪急9000系電車](../Page/阪急9000系電車.md "wikilink")の液晶ディスプレイでは当チャンネルの宣伝が流れることが多い。
   - CS・CATV共にパックセットに含まれない単独契約であり、1ヶ月の視聴料は税抜2,500円と非常に高いにもかかわらず、2009年現在、契約数は5万世帯を越える非常に高い水準となっている\[2\]。また、複数台割引の対象外ch（チャンネル）となっている。
   - 月1回程度行われる「スカパー\!無料放送の日」（原則第1日曜日）の対象外であるが、[2019年](../Page/2019年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")付け放送開始から[12月1日](../Page/12月1日.md "wikilink")付け放送終了（[12月2日](../Page/12月2日.md "wikilink")未明　一部ケーブルテレビ局は開始・終了時刻が異なる）において、スカパー\!、および一部のケーブルテレビ局向けにおいて、ハイビジョン放送1周年記念として無料放送が行われた\[3\]
-  - 近年収録の公演中継や「TAKARAZUKA 美の旅人たち」などの一部の番組は[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")となっているが、当チャンネルは4:3SD（525i/480i）での放送のため、以前は16:9の[レターボックスサイズで放送されていたが](../Page/レターボックス_\(映像技術\).md "wikilink")、2010年7月22日より16:9の画角情報を付加し、フルサイズでの放送を行っている。また、[NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「宝塚歌劇」（不定期放送）（2010年度までは[BSハイビジョン](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")「ハイビジョンステージ」（毎月1回、宝塚歌劇の公演を放送））、[WOWOW](../Page/WOWOW.md "wikilink")「宝塚への招待」、当チャンネルから番組供給を受けている[BS12トゥエルビでも過去に標準画質映像で収録された映像を除きハイビジョン放送を行っている](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")。
+  - 近年収録の公演中継や「TAKARAZUKA 美の旅人たち」などの一部の番組は[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")となっているが、当チャンネルは4:3SD（525i/480i）での放送のため、以前は16:9の[レターボックスサイズで放送されていたが](../Page/レターボックス_\(映像技術\).md "wikilink")、2010年7月22日より16:9の画角情報を付加し、フルサイズでの放送を行っている。また、[NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「宝塚歌劇」（不定期放送）（2010年度までは[BSハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")「ハイビジョンステージ」（毎月1回、宝塚歌劇の公演を放送））、[WOWOW](../Page/WOWOW.md "wikilink")「宝塚への招待」、当チャンネルから番組供給を受けている[BS12トゥエルビでも過去に標準画質映像で収録された映像を除きハイビジョン放送を行っている](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")。
   - 2018年9月26日のハイビジョン化に伴い、ハイビジョン対応番組は、概ね2005年以降に収録した舞台映像はすべて従来の標準画質から、HD画質で放送。オリジナル番組については、2012年秋ごろ以降の収録番組大半がHD画質で放送されている。
   - [番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")は[産経新聞大阪本社](../Page/産経新聞大阪本社.md "wikilink")や[産経新聞九州・山口特別版及び](https://ja.wikipedia.org/wiki/産経新聞西部本部 "wikilink")[産経新聞静岡県版等の](../Page/産経新聞東京本社.md "wikilink")[BS](../Page/日本における衛星放送.md "wikilink")・[ラジオ](../Page/ラジオ.md "wikilink")面に連日掲載されている。
 
 ### オープニング・エンディング
 
-オープニング（1分）は『[すみれの花咲く頃](https://ja.wikipedia.org/wiki/再び白いライラックが咲いたら_\(曲\)#カバー "wikilink")』、エンディング（3分）は『[さようなら、ごきげんよう](https://ja.wikipedia.org/wiki/さようなら、ごきげんよう "wikilink")』をそれぞれ団員の歌唱入りのBGMにしながら、[宝塚大劇場](https://ja.wikipedia.org/wiki/宝塚大劇場 "wikilink")や[花のみち](https://ja.wikipedia.org/wiki/花のみち "wikilink")、及び劇場近くの[武庫川](https://ja.wikipedia.org/wiki/武庫川 "wikilink")から撮影した、いわゆる環境映像を放送している。
+オープニング（1分）は『[すみれの花咲く頃](https://ja.wikipedia.org/wiki/再び白いライラックが咲いたら_\(曲\)#カバー "wikilink")』、エンディング（3分）は『[さようなら、ごきげんよう](https://ja.wikipedia.org/wiki/さようなら、ごきげんよう "wikilink")』をそれぞれ団員の歌唱入りのBGMにしながら、[宝塚大劇場](../Page/宝塚大劇場.md "wikilink")や[花のみち](https://ja.wikipedia.org/wiki/花のみち "wikilink")、及び劇場近くの[武庫川](../Page/武庫川.md "wikilink")から撮影した、いわゆる環境映像を放送している。
 
 ## スカイ・フェアリーズ
 
-タカラヅカニュースの司会をはじめ、様々な番組に出演することによって、TAKARAZUKA SKY STAGEそして宝塚歌劇の魅力をより視聴者へ伝えるために、各組から男役・娘役各1名選出されていた（第1期は[専科からも選ばれた](https://ja.wikipedia.org/wiki/専科_\(宝塚歌劇\) "wikilink")）。任期は7月1日から1年間。下級生主体であり、歴代のスカイ・フェアリーズから数多くのスターが誕生した。
+タカラヅカニュースの司会をはじめ、様々な番組に出演することによって、TAKARAZUKA SKY STAGEそして宝塚歌劇の魅力をより視聴者へ伝えるために、各組から男役・娘役各1名選出されていた（第1期は[専科からも選ばれた](../Page/専科_\(宝塚歌劇\).md "wikilink")）。任期は7月1日から1年間。下級生主体であり、歴代のスカイ・フェアリーズから数多くのスターが誕生した。
 
 第1期から第9期まで続いたが、2011年6月30日で、スカイ・フェアリーズは終了となり、後述のスカイ・ナビゲーターズに交代する。
 
@@ -47,12 +47,12 @@
   - 第1期生（2002年7月1日～2003年6月30日）
       -
         専科：[彩輝直](https://ja.wikipedia.org/wiki/彩輝直 "wikilink")☆ ・[檀れい](https://ja.wikipedia.org/wiki/檀れい "wikilink")☆
-        花組：[華形ひかる](https://ja.wikipedia.org/wiki/華形ひかる "wikilink")・[舞名里音](https://ja.wikipedia.org/wiki/舞名里音 "wikilink")
-        月組：[彩那音](https://ja.wikipedia.org/wiki/彩那音 "wikilink")・[城咲あい](../Page/城咲あい.md "wikilink")
-        雪組：[凰稀かなめ](../Page/凰稀かなめ.md "wikilink")☆ ・[山科愛](https://ja.wikipedia.org/wiki/山科愛 "wikilink")
-        星組：[凜華せら](https://ja.wikipedia.org/wiki/凜華せら "wikilink")・[華美ゆうか](https://ja.wikipedia.org/wiki/華美ゆうか "wikilink")
+        花組：[華形ひかる](../Page/華形ひかる.md "wikilink")・[舞名里音](https://ja.wikipedia.org/wiki/舞名里音 "wikilink")
+        月組：[彩那音](../Page/彩那音.md "wikilink")・[城咲あい](../Page/城咲あい.md "wikilink")
+        雪組：[凰稀かなめ](../Page/凰稀かなめ.md "wikilink")☆ ・[山科愛](../Page/山科愛.md "wikilink")
+        星組：[凜華せら](../Page/凜華せら.md "wikilink")・[華美ゆうか](https://ja.wikipedia.org/wiki/華美ゆうか "wikilink")
         宙組：[和涼華](../Page/和涼華.md "wikilink")・[音乃いづみ](../Page/音乃いづみ.md "wikilink")
-        [彩輝直](https://ja.wikipedia.org/wiki/彩輝直 "wikilink")と[彩那音](https://ja.wikipedia.org/wiki/彩那音 "wikilink")は姉妹である。
+        [彩輝直](https://ja.wikipedia.org/wiki/彩輝直 "wikilink")と[彩那音](../Page/彩那音.md "wikilink")は姉妹である。
 
 </div>
 
@@ -86,7 +86,7 @@
       -
         花組：[朝夏まなと](../Page/朝夏まなと.md "wikilink")☆・[澪乃せいら](https://ja.wikipedia.org/wiki/澪乃せいら "wikilink")
         月組：[光月るう](https://ja.wikipedia.org/wiki/光月るう "wikilink")・[白華れみ](../Page/白華れみ.md "wikilink")
-        雪組：[蓮城まこと](../Page/蓮城まこと.md "wikilink")・[大月さゆ](https://ja.wikipedia.org/wiki/大月さゆ "wikilink")
+        雪組：[蓮城まこと](../Page/蓮城まこと.md "wikilink")・[大月さゆ](../Page/大月さゆ.md "wikilink")
         星組：[美弥るりか](https://ja.wikipedia.org/wiki/美弥るりか "wikilink")・[成花まりん](https://ja.wikipedia.org/wiki/成花まりん "wikilink")
         宙組：[凪七瑠海](../Page/凪七瑠海.md "wikilink")・[愛花ちさき](../Page/愛花ちさき.md "wikilink")
 
@@ -269,7 +269,7 @@
   - **[宝塚アーカイブス](https://ja.wikipedia.org/wiki/宝塚アーカイブス "wikilink")**
   - JURIのどんだけGO GO 5
   - スター・ロングインタビュー
-  - [初風緑](https://ja.wikipedia.org/wiki/初風緑 "wikilink")のNOBI NOBIストレッチ
+  - [初風緑](../Page/初風緑.md "wikilink")のNOBI NOBIストレッチ
   - **[初風緑のNOBI NOBIダンシング](https://ja.wikipedia.org/wiki/初風緑のNOBI_NOBIダンシング "wikilink")**
   - **TAKARAZUKA BUETIES**
   - Talk Variety オシエテ\!?
@@ -307,7 +307,7 @@
   -
 [Category:スカパー\!のチャンネル](https://ja.wikipedia.org/wiki/Category:スカパー!のチャンネル "wikilink") [Category:宝塚歌劇団](https://ja.wikipedia.org/wiki/Category:宝塚歌劇団 "wikilink") [Category:阪急電鉄](https://ja.wikipedia.org/wiki/Category:阪急電鉄 "wikilink") [Category:TwellV](https://ja.wikipedia.org/wiki/Category:TwellV "wikilink")
 
-1.  スカパー\!のチャンネルのうち、東経124/128度CS放送の[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")で放送していない唯一のチャンネルである。また、光放送の[スカパー\!プレミアムサービス光](https://ja.wikipedia.org/wiki/スカパー!プレミアムサービス光 "wikilink")でも放送していない（この場合、[フレッツ・テレビでのスカパー](https://ja.wikipedia.org/wiki/フレッツ#フレッツ・テレビ伝送サービス "wikilink")\!のパススルー視聴となる）。
+1.  スカパー\!のチャンネルのうち、東経124/128度CS放送の[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")で放送していない唯一のチャンネルである。また、光放送の[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")でも放送していない（この場合、[フレッツ・テレビでのスカパー](https://ja.wikipedia.org/wiki/フレッツ#フレッツ・テレビ伝送サービス "wikilink")\!のパススルー視聴となる）。
 2.  2009年5月30日付読売新聞朝刊
 3.  [HD放送ぞくぞくスタート！](https://www.tca-pictures.net/skystage/hd/)
 4.  当時は男役

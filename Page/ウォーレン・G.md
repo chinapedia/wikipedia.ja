@@ -1,11 +1,11 @@
 > この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
 
 
-**ウォーレン・G**（**Warren G**、本名：Warren Griffin III、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[11月10日](../Page/11月10日.md "wikilink")-）は[カリフォルニア州ロングビーチ出身で](../Page/ロングビーチ_\(カリフォルニア州\).md "wikilink")、[ウエスト・コースト](https://ja.wikipedia.org/wiki/ウエスト・サイド "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")における[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")である。彼の最大のヒットシングルは[1994年](../Page/1994年.md "wikilink")に発表した、[ネイト・ドッグ](../Page/ネイト・ドッグ.md "wikilink")が共演した *Regulate* で、彼のプロデュースによる多くの楽曲同様[Gファンク](https://ja.wikipedia.org/wiki/Gファンク "wikilink")調のもの。音楽プロデューサー、MC、レコード会社経営者の[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")はウォーレンの母親の前夫との子供で、異父兄弟の義兄にあたる。
+**ウォーレン・G**（**Warren G**、本名：Warren Griffin III、[1970年](../Page/1970年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")-）は[カリフォルニア州ロングビーチ出身で](../Page/ロングビーチ_\(カリフォルニア州\).md "wikilink")、[ウエスト・コースト](https://ja.wikipedia.org/wiki/ウエスト・サイド "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")における[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")である。彼の最大のヒットシングルは[1994年](../Page/1994年.md "wikilink")に発表した、[ネイト・ドッグ](../Page/ネイト・ドッグ.md "wikilink")が共演した *Regulate* で、彼のプロデュースによる多くの楽曲同様[Gファンク](https://ja.wikipedia.org/wiki/Gファンク "wikilink")調のもの。音楽プロデューサー、MC、レコード会社経営者の[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")はウォーレンの母親の前夫との子供で、異父兄弟の義兄にあたる。
 
 ## 来歴
 
-[1991年](../Page/1991年.md "wikilink")、ウォーレン・Gは友人の[スヌープ・ドッグ](https://ja.wikipedia.org/wiki/スヌープ・ドッグ "wikilink")とその従兄弟の[ネイト・ドッグ](../Page/ネイト・ドッグ.md "wikilink")と共にヒップホップユニット[213を結成する](https://ja.wikipedia.org/wiki/213_\(バンド\) "wikilink")。ウォーレン・Gが異母兄弟のドクター・ドレーに2人を紹介したところ、気に入られ、以後ドクター・ドレーと[シュグ・ナイト](../Page/シュグ・ナイト.md "wikilink")が設立した[デス・ロウ・レコーズ](https://ja.wikipedia.org/wiki/デス・ロウ・レコーズ "wikilink")（Death Row Records）との関係が深くなった。
+[1991年](../Page/1991年.md "wikilink")、ウォーレン・Gは友人の[スヌープ・ドッグ](../Page/スヌープ・ドッグ.md "wikilink")とその従兄弟の[ネイト・ドッグ](../Page/ネイト・ドッグ.md "wikilink")と共にヒップホップユニット[213を結成する](https://ja.wikipedia.org/wiki/213_\(バンド\) "wikilink")。ウォーレン・Gが異母兄弟のドクター・ドレーに2人を紹介したところ、気に入られ、以後ドクター・ドレーと[シュグ・ナイト](../Page/シュグ・ナイト.md "wikilink")が設立した[デス・ロウ・レコーズ](https://ja.wikipedia.org/wiki/デス・ロウ・レコーズ "wikilink")（Death Row Records）との関係が深くなった。
 
 しかし213は一度も楽曲を発表することなく解散し、3人は別々にキャリアを歩むようになる。デス・ロウ・レコーズはウォーレン・Gとは契約しなかったが、[1992年](../Page/1992年.md "wikilink")にドクター・ドレーが発表したアルバム *Chronic* への貢献を皮切りにキャリアが始まった。このアルバム同様に、彼はデス・ロウ・レコーズから発表されるアルバムに多くの貢献を示している。[1993年](../Page/1993年.md "wikilink")には、彼自身とネイト・ドッグ、[ミスター・グリム](https://ja.wikipedia.org/wiki/ミスター・グリム "wikilink")がフィーチャリングした *Indo Smoke* を製作した。
 
@@ -15,7 +15,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")には以後の彼の主流となるメローな曲作りの、アルバム *Take a Look Over Your Shoulder (Reality)* を発表した。このアルバムは *I Shot the Sheriff* の[ラップ](../Page/ラップ.md "wikilink")カバーがヒットとなり、ダブル[プラチナムディスク](https://ja.wikipedia.org/wiki/プラチナムディスク "wikilink")となるなど、商業的成功を収める。
 
-[1999年](../Page/1999年.md "wikilink")にはウォーレン・Gの商業的復活とは言えないまでも、彼の存在をアピールすることになるアルバム *I Want It All* を発表した。[マック10](https://ja.wikipedia.org/wiki/マック10 "wikilink")、スヌープ・ドッグ、[クラプト](https://ja.wikipedia.org/wiki/クラプト "wikilink")に[イブ](https://ja.wikipedia.org/wiki/イブ "wikilink")が参加し、[ジャズ](../Page/ジャズ.md "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")・[フュージョンのこのアルバムは彼の最も安定したレコードと多くの人に受け止められ](../Page/フュージョン_\(音楽\).md "wikilink")、さらに[デバージ](https://ja.wikipedia.org/wiki/デバージ "wikilink")による *I Like It* をサンプリングした最初のシングル *I Want It All* のビデオクリップはMTVや[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")でヘビーローテーションとなった。
+[1999年](../Page/1999年.md "wikilink")にはウォーレン・Gの商業的復活とは言えないまでも、彼の存在をアピールすることになるアルバム *I Want It All* を発表した。[マック10](https://ja.wikipedia.org/wiki/マック10 "wikilink")、スヌープ・ドッグ、[クラプト](https://ja.wikipedia.org/wiki/クラプト "wikilink")に[イブ](https://ja.wikipedia.org/wiki/イブ "wikilink")が参加し、[ジャズ](../Page/ジャズ.md "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")・[フュージョンのこのアルバムは彼の最も安定したレコードと多くの人に受け止められ](../Page/フュージョン_\(音楽\).md "wikilink")、さらに[デバージ](../Page/デバージ.md "wikilink")による *I Like It* をサンプリングした最初のシングル *I Want It All* のビデオクリップはMTVや[VH1](https://ja.wikipedia.org/wiki/VH1 "wikilink")でヘビーローテーションとなった。
 
 [2004年](../Page/2004年.md "wikilink")、かつて結成していた[213を再結成させてアルバムも発表した](https://ja.wikipedia.org/wiki/213_\(バンド\) "wikilink")。
 

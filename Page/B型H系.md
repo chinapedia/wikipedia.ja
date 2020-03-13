@@ -5,13 +5,13 @@
 
 『[ヤングジャンプ増刊 漫太郎](../Page/漫太郎.md "wikilink")』『[月刊ヤングジャンプ](../Page/月刊ヤングジャンプ.md "wikilink")』、[携帯電話](../Page/携帯電話.md "wikilink")向けサイト『ケータイYOUNG JUMP』で発表された番外編（中学生編など）も存在。
 
-[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")版が[2007年](../Page/2007年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に発売、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")版が[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月から6月まで放送された。
+[ドラマCD](../Page/ドラマCD.md "wikilink")版が[2007年](../Page/2007年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に発売、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")版が[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月から6月まで放送された。
 
 ## あらすじ
 
 高校入学を控えた**山田**は、「夢は[セクフレ](https://ja.wikipedia.org/wiki/セックスフレンド "wikilink")（アニメ版ではエチトモ）100人」という、[エッチへの興味が旺盛な美少女](https://ja.wikipedia.org/wiki/性行為 "wikilink")。しかし、男子を選り好みしすぎる性格と妄想癖が徒となってか、実際はキスはおろか恋もろくにしたことがない[処女](../Page/処女.md "wikilink")。さっさと処女を捨てて後はヤリまくりたいと考える一方で、相手の男に処女であることを見下されるかもという恐怖心を持っており、最初の一歩を踏み出せずにいる。そのため経験豊富そうな[イケメンではなく](../Page/美男子.md "wikilink")、まずは凡庸で手頃そうな[チェリー君を狙おうと画策する](../Page/童貞.md "wikilink")。
 
-ある日、山田は本屋で踏み台から転落した所を冴えない男子に助けてもらう（実際は男が下敷きになっただけ）。この凡庸で[童貞](../Page/童貞.md "wikilink")ぽい男こそ処女を捨てる相手として手頃だと感じた山田は、後に彼が高校のクラスメイト・**小須田崇**だと知ると、なんとか小須田を落として初[エッチを済ませようと様々なアプローチを画策する](https://ja.wikipedia.org/wiki/性行為 "wikilink")。しかし[ツンデレ](https://ja.wikipedia.org/wiki/ツンデレ "wikilink")気質のため本性（処女を捨てたい意思）は明かせず、普段は天邪鬼な態度をとってしまったり、恋愛経験が無いため小須田に対して常識外れなアプローチを行なったり、いざとなると[テンパって空回りしたりを繰り返す](../Page/聴牌.md "wikilink")。
+ある日、山田は本屋で踏み台から転落した所を冴えない男子に助けてもらう（実際は男が下敷きになっただけ）。この凡庸で[童貞](../Page/童貞.md "wikilink")ぽい男こそ処女を捨てる相手として手頃だと感じた山田は、後に彼が高校のクラスメイト・**小須田崇**だと知ると、なんとか小須田を落として初[エッチを済ませようと様々なアプローチを画策する](https://ja.wikipedia.org/wiki/性行為 "wikilink")。しかし[ツンデレ](../Page/ツンデレ.md "wikilink")気質のため本性（処女を捨てたい意思）は明かせず、普段は天邪鬼な態度をとってしまったり、恋愛経験が無いため小須田に対して常識外れなアプローチを行なったり、いざとなると[テンパって空回りしたりを繰り返す](../Page/聴牌.md "wikilink")。
 
 凡庸な小須田も何かと山田に振り回される日々だが、少しずつ彼女を意識し始める。お互い奥手な性分と彼女の態度ゆえに山田との関係は行きつ戻りつでなかなか進展しないが、そんな中でも男として徐々に成長を見せていく。
 
@@ -26,9 +26,9 @@
   - 山田（やまだ）
     声 - [田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink") / [浅野真澄](../Page/浅野真澄.md "wikilink")
     本作の主人公。都立滝沢高等学校へ通う女子高生（1話で入学。後に進級）。下の名前は原作でもアニメでも明かされていない\[1\]（山田の両親も同様）。
-    身長164cm、体重43kg、座高87cm、胸はBカップ。第17回滝沢高校の[ミス・コンテスト](https://ja.wikipedia.org/wiki/ミス・コンテスト "wikilink")では優勝している。自他共に認める完璧美少女だが、本人は胸のサイズを気にしている。
+    身長164cm、体重43kg、座高87cm、胸はBカップ。第17回滝沢高校の[ミス・コンテスト](../Page/ミス・コンテスト.md "wikilink")では優勝している。自他共に認める完璧美少女だが、本人は胸のサイズを気にしている。
     思考は常にエロ妄想全開で竹下からは「美少女の皮をかぶったエロオヤジ」と評される。また、事あるごとに[自慰行為に耽る](../Page/オナニー.md "wikilink")（アニメでは明確な描写は抑えられている）。
-    勉強や運動はかなり出来る方で、[暗記](https://ja.wikipedia.org/wiki/暗記 "wikilink")や[速読](https://ja.wikipedia.org/wiki/速読 "wikilink")にも長けている。特に[保健体育の成績はすこぶる良いが](../Page/体育.md "wikilink")、料理は下手である。
+    勉強や運動はかなり出来る方で、[暗記](../Page/暗記.md "wikilink")や[速読](https://ja.wikipedia.org/wiki/速読 "wikilink")にも長けている。特に[保健体育の成績はすこぶる良いが](../Page/体育.md "wikilink")、料理は下手である。
     最終巻のカバーをはがすと妊娠をほのめかす描写がある（ただし「未来予想図」であって、あくまで予想である）。
   - 小須田 崇（こすだ たかし）
     声 - [阿部敦](../Page/阿部敦.md "wikilink") / [保志総一朗](../Page/保志総一朗.md "wikilink")
@@ -45,7 +45,7 @@
     2歳年上の彼氏・大佑がいて、既に色々経験済み。そのことを山田に突っ込まれると、狼狽する。
   - 宮野 まゆ（みやの まゆ）
     声 - [花澤香菜](../Page/花澤香菜.md "wikilink") / [門脇舞以](../Page/門脇舞以.md "wikilink")
-    [眼鏡](../Page/眼鏡.md "wikilink")をかけた少女。身長155cm。[富士山](../Page/富士山.md "wikilink")なみのFカップ（※山田談）。処女。崇とは[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")で、近所である小須田家とは家族ぐるみの付き合い。幼児期に香月を男の子と勘違いして一目惚れして以降、恋愛には臆病。
+    [眼鏡](../Page/眼鏡.md "wikilink")をかけた少女。身長155cm。[富士山](../Page/富士山.md "wikilink")なみのFカップ（※山田談）。処女。崇とは[幼馴染](../Page/幼馴染.md "wikilink")で、近所である小須田家とは家族ぐるみの付き合い。幼児期に香月を男の子と勘違いして一目惚れして以降、恋愛には臆病。
     小学校1年生の時に崇から[料理](../Page/料理.md "wikilink")の腕前を褒められて以降は崇に恋心を寄せ続けているが、自分からは告白できずにいるうえ、鈍感な崇からも全く気付いてもらえない。山田とは恋の[ライバル](../Page/ライバル.md "wikilink")のはずだが、何故か親友になる。
     休日には[老人ホーム](../Page/老人ホーム.md "wikilink")へ[ボランティア](../Page/ボランティア.md "wikilink")に行くなど、とても優しい性格。料理が得意。張り切って大量に作りすぎたり、転んで料理をひっくり返すなど天然のドジッ娘。
     美春はその純粋で健気な人格を大いに評価している。崇とはお似合いカップルに見える模様（※美春視点）。
@@ -53,7 +53,7 @@
     声 - [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink") / [茅原実里](https://ja.wikipedia.org/wiki/茅原実里 "wikilink")
     山田が1年生の時に転入してきた大富豪のお嬢様。山田と学内で1、2を争う美人でCカップ。処女。
     周囲には奥ゆかしく見せているが、実際は[自尊心](../Page/自尊心.md "wikilink")が高く自分が一番美しいと思っている。転入翌日に[学園祭のミス](../Page/文化祭.md "wikilink")・コンテストで山田に負けたことがきっかけで、山田をライバル視する。
-    [圭一を溺愛しており](https://ja.wikipedia.org/wiki/ブラザーコンプレックス "wikilink")、自宅には圭一の写真等を集めた「お兄様部屋」と呼ばれる部屋がある。[携帯電話](../Page/携帯電話.md "wikilink")には、圭一のデフォルメ人形[ストラップ](../Page/ストラップ.md "wikilink")を付けている。兄が山田に告白したと知った途端には、3日間寝込んだ。
+    [圭一を溺愛しており](../Page/ブラザーコンプレックス.md "wikilink")、自宅には圭一の写真等を集めた「お兄様部屋」と呼ばれる部屋がある。[携帯電話](../Page/携帯電話.md "wikilink")には、圭一のデフォルメ人形[ストラップ](../Page/ストラップ.md "wikilink")を付けている。兄が山田に告白したと知った途端には、3日間寝込んだ。
   - 三郷 まみ（みさと まみ）
     声 - [岩崎愛](https://ja.wikipedia.org/wiki/岩崎愛 "wikilink")
     山田と仲の良い女子で、とても元気で明るい性格。冬には[ブラジャー無しで過ごせる程の貧乳](../Page/ノーブラ.md "wikilink")。処女。容姿・言動共に子供っぽいためか、男子同級生達からは恋愛対象外と見られている。
@@ -90,7 +90,7 @@
 #### 教員
 
   - 赤井（あかい）
-    声 - [儀武ゆう子](https://ja.wikipedia.org/wiki/儀武ゆう子 "wikilink")
+    声 - [儀武ゆう子](../Page/儀武ゆう子.md "wikilink")
     山田のクラス担任の女教師。指導教科は保健体育。25歳\[2\]。
     学生の頃は運動部一筋で恋愛経験は乏しく、恋愛スキルは女子高生並み。唯一の交際経験は大学3年生の時（初体験もこの時）で、すぐに振られた。現在も彼氏はおらず、年齢的に少々焦り気味。
     自分のクラスにやたら美人が多く、男子にちやほやされている事に内心穏やかではない 。[体育会系](../Page/体育会系.md "wikilink")らしく、勝負事には燃える性格。
@@ -115,7 +115,7 @@
     超美人の妻と娘たちに囲まれているが、本人は非常に影が薄く、登場回数も少ない。
   - 小須田 香月（こすだ かづき）
     声 - [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink") / [大原さやか](../Page/大原さやか.md "wikilink")
-    崇より4歳上の姉。体育大学の学生。子供の頃から男っぽい性格で、まゆの初恋相手（当時は男の子と思われていた）。現在でも、[バレンタインデー](https://ja.wikipedia.org/wiki/バレンタインデー "wikilink")には女性からチョコレートを貰っている。
+    崇より4歳上の姉。体育大学の学生。子供の頃から男っぽい性格で、まゆの初恋相手（当時は男の子と思われていた）。現在でも、[バレンタインデー](../Page/バレンタインデー.md "wikilink")には女性からチョコレートを貰っている。
     弟のエロ妄想を鋭く見破り、いつも揶揄しているが、自分自身が性的な話をされると狼狽する。同時に山田との仲を応援・アドバイスするなど、弟思いの姉。
   - 小須田母
     声 - [中根久美子](https://ja.wikipedia.org/wiki/中根久美子 "wikilink")
@@ -173,7 +173,7 @@
 
 集英社[ヤングジャンプ・コミックス](../Page/ヤングジャンプ・コミックス.md "wikilink")より
 
-1.  [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")発売 ISBN 4-08-876756-X 全162ページ
+1.  [2005年](../Page/2005年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")発売 ISBN 4-08-876756-X 全162ページ
 2.  [2006年](../Page/2006年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")発売 ISBN 4-08-877021-8 全162ページ
 3.  2006年[10月19日](../Page/10月19日.md "wikilink")発売 ISBN 4-08-877154-0 全162ページ 巻末に番外編2話収録
 4.  [2007年](../Page/2007年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")発売 ISBN 978-4-08-877278-3 全158ページ 巻末に番外編1話収録
@@ -187,7 +187,7 @@
 
 2010年4月から6月まで[独立UHF局他にて放送された](../Page/全国独立放送協議会.md "wikilink")。全12回（全25話）。
 
-原作から抜粋されたエピソードをほぼ忠実にアニメ化しているが、全体の流れは再構成されており、時系列の変更や細かい改変なども多い。裸体などの出てくるシーンには「鬼印」と書かれた修正画像、[性的言動には](https://ja.wikipedia.org/wiki/下ネタ "wikilink")[音消し（ピヨピヨ音）によって](../Page/自主規制音.md "wikilink")、それぞれ[自主規制](https://ja.wikipedia.org/wiki/自主規制 "wikilink")が行なわれた。DVD/BD版では、それらが除かれた「こわいもの知らず（笑）無修正版」となっている。
+原作から抜粋されたエピソードをほぼ忠実にアニメ化しているが、全体の流れは再構成されており、時系列の変更や細かい改変なども多い。裸体などの出てくるシーンには「鬼印」と書かれた修正画像、[性的言動には](../Page/下ネタ.md "wikilink")[音消し（ピヨピヨ音）によって](../Page/自主規制音.md "wikilink")、それぞれ[自主規制](../Page/自主規制.md "wikilink")が行なわれた。DVD/BD版では、それらが除かれた「こわいもの知らず（笑）無修正版」となっている。
 
 提供[クレジットのナレーター](../Page/クレジットタイトル.md "wikilink")\[3\]は山田役の[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")が行なっており、クレジットが表示されないAT-Xでも提供読み上げのみ流れていた。
 
@@ -211,8 +211,8 @@
   - 録音演出 - [塩屋翼](../Page/塩屋翼.md "wikilink")
   - プロデューサー - 松井智、森亮介、吉田悟、栗田滋弘、甲斐健太郎
   - アニメーションプロデューサー - 皆川護
-  - アニメーション制作 - [ハルフィルムメーカー](https://ja.wikipedia.org/wiki/ハルフィルムメーカー "wikilink")
-  - 製作 - [B型H系製作委員会](../Page/製作委員会方式.md "wikilink")（[ハピネット](https://ja.wikipedia.org/wiki/ハピネット "wikilink")、集英社、[電通](../Page/電通.md "wikilink")、[AG-ONE](../Page/AG-ONE.md "wikilink")、[NECビッグローブ](https://ja.wikipedia.org/wiki/NECビッグローブ "wikilink")、[ダックスプロダクション](https://ja.wikipedia.org/wiki/ダックスプロダクション "wikilink")、[TYOアニメーションズ](https://ja.wikipedia.org/wiki/TYOアニメーションズ "wikilink")、マックレイ、[AT-X](../Page/アニメシアターX.md "wikilink")）
+  - アニメーション制作 - [ハルフィルムメーカー](../Page/ハルフィルムメーカー.md "wikilink")
+  - 製作 - [B型H系製作委員会](../Page/製作委員会方式.md "wikilink")（[ハピネット](../Page/ハピネット.md "wikilink")、集英社、[電通](../Page/電通.md "wikilink")、[AG-ONE](../Page/AG-ONE.md "wikilink")、[NECビッグローブ](https://ja.wikipedia.org/wiki/NECビッグローブ "wikilink")、[ダックスプロダクション](https://ja.wikipedia.org/wiki/ダックスプロダクション "wikilink")、[TYOアニメーションズ](https://ja.wikipedia.org/wiki/TYOアニメーションズ "wikilink")、マックレイ、[AT-X](../Page/アニメシアターX.md "wikilink")）
 
 ### 主題歌
 
@@ -226,7 +226,7 @@
 
 :; 「BH〜B型H系〜」
 
-:: 作詞 - ペパーミント・マッド / 作曲 - あっちぃ / 編曲 - [藤田淳平](../Page/藤田淳平.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")） / 歌 - [近江知永](https://ja.wikipedia.org/wiki/近江知永 "wikilink")
+:: 作詞 - ペパーミント・マッド / 作曲 - あっちぃ / 編曲 - [藤田淳平](../Page/藤田淳平.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")） / 歌 - [近江知永](../Page/近江知永.md "wikilink")
 
 :; 「コンドーさんなら鬼印」
 
@@ -585,8 +585,8 @@ B型H系よ、永遠（とわ）に</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">チバテレビ</a></p></td>
-<td><p>2010年<a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a> - <a href="../Page/6月24日.md" title="wikilink">6月24日</a></p></td>
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">チバテレビ</a></p></td>
+<td><p>2010年<a href="../Page/4月8日.md" title="wikilink">4月8日</a> - <a href="../Page/6月24日.md" title="wikilink">6月24日</a></p></td>
 <td><p>木曜 1:30 - 2:00（水曜深夜）</p></td>
 <td></td>
 <td></td>
@@ -610,7 +610,7 @@ B型H系よ、永遠（とわ）に</p></td>
 <tr class="odd">
 <td><p>日本全域</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Rakuten_TV#ShowTime" title="wikilink">ShowTime</a></p></td>
-<td><p>2010年<a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a> -</p></td>
+<td><p>2010年<a href="../Page/4月16日.md" title="wikilink">4月16日</a> -</p></td>
 <td><p>金曜 15:00 更新</p></td>
 <td><p>ネット配信</p></td>
 <td><p>第1回と最新回のみ会員無料<br />

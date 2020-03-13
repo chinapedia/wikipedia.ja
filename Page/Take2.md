@@ -6,13 +6,13 @@
 ## メンバー
 
   - **深沢 邦之**（**ふかさわ くにゆき** [1966年](../Page/1966年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")-）- ツッコミ担当。[東京都](../Page/東京都.md "wikilink")[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")出身、[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。妻は女優の[田中美佐子](../Page/田中美佐子.md "wikilink")。一児の父。
-  - **東 貴博**（**あずま たかひろ** 本名：飛田 貴博（ひだ たかひろ）[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")-） - ボケ担当。[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")[浅草](../Page/浅草.md "wikilink")出身、[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。妻は[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")の[安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")。父はコメディアンの[東八郎](https://ja.wikipedia.org/wiki/東八郎 "wikilink")。
+  - **東 貴博**（**あずま たかひろ** 本名：飛田 貴博（ひだ たかひろ）[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")-） - ボケ担当。[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")[浅草](../Page/浅草.md "wikilink")出身、[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。妻は[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")の[安めぐみ](https://ja.wikipedia.org/wiki/安めぐみ "wikilink")。父はコメディアンの[東八郎](../Page/東八郎.md "wikilink")。
 
 ## 来歴
 
 [萩本欽一](../Page/萩本欽一.md "wikilink")主宰のコメディアン養成塾「欽塾」を経て「[欽ちゃん劇団](../Page/欽ちゃん劇団.md "wikilink")」に移り、そこで下積み中の[1994年](../Page/1994年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")にコンビ結成。
 
-深沢は[女優の](../Page/俳優.md "wikilink")[田中美佐子](../Page/田中美佐子.md "wikilink")と[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結婚。東は[東八郎](https://ja.wikipedia.org/wiki/東八郎 "wikilink")の次男坊。そのため「魅惑のサラブレッド」の異名を持つ。
+深沢は[女優の](../Page/俳優.md "wikilink")[田中美佐子](../Page/田中美佐子.md "wikilink")と[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に結婚。東は[東八郎](../Page/東八郎.md "wikilink")の次男坊。そのため「魅惑のサラブレッド」の異名を持つ。
 
 コンビ名は、「**T**akahiro **A**nd **K**uniyuki **E**ntertainers **2**（2は二人組の意）」であるとされているが、コンビ名を決める際、たまたま「Take2（2回目撮り直しの意）」とかかれた台本が置いてあったからとも言われている。また命名の際、売れる人はタ行（とんねるず、ダウンタウン、ビートたけし...）や数字（萩本欽一、坂上二郎、三木のり平、...）が入っているというのを考慮したとも言われている（ちなみに他候補は、「二世と生地屋」「黒ひょうととびうお」）。
 
@@ -47,10 +47,10 @@
   - [お笑い向上委員会 笑わせろ\!](../Page/お笑い向上委員会_笑わせろ!.md "wikilink")（EX）
   - [クイズで公認\!恋のおやジルシ](https://ja.wikipedia.org/wiki/クイズで公認!恋のおやジルシ "wikilink")、恋のおやジルシ2（[THK](../Page/東海テレビ放送.md "wikilink")）
   - [所的蛇足講座](../Page/所的蛇足講座.md "wikilink")（[FBS](../Page/福岡放送.md "wikilink")）
-  - [難問解決\!ご近所の底力](https://ja.wikipedia.org/wiki/難問解決!ご近所の底力 "wikilink")（NHK）
+  - [難問解決\!ご近所の底力](../Page/難問解決!ご近所の底力.md "wikilink")（NHK）
   - 健康DNA\!\!（[BS-i](../Page/BS-TBS.md "wikilink")）
-  - [きよしとこの夜](https://ja.wikipedia.org/wiki/きよしとこの夜 "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）※交互に出演
-  - [ものまねバトル](https://ja.wikipedia.org/wiki/ものまねバトル "wikilink")大賞（[NTV](../Page/日本テレビ放送網.md "wikilink")）※年4回出演
+  - [きよしとこの夜](../Page/きよしとこの夜.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）※交互に出演
+  - [ものまねバトル](../Page/ものまねバトル.md "wikilink")大賞（[NTV](../Page/日本テレビ放送網.md "wikilink")）※年4回出演
   - [ものまねグランプリ](https://ja.wikipedia.org/wiki/ものまねグランプリ "wikilink")（NTV） - 第2回（2009年9月）
   - [ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")（NTV）
   - [踊る\!さんま御殿\!\!](../Page/踊る!さんま御殿!!.md "wikilink")（NTV）
@@ -60,16 +60,16 @@
 
 #### テレビドラマ
 
-  - [3番テーブルの客](https://ja.wikipedia.org/wiki/3番テーブルの客 "wikilink") 第16話（CX）
+  - [3番テーブルの客](../Page/3番テーブルの客.md "wikilink") 第16話（CX）
   - [三姉妹探偵団](https://ja.wikipedia.org/wiki/三姉妹探偵団#1998年版 "wikilink")（NTV）
   - [火曜サスペンス劇場](../Page/火曜サスペンス劇場.md "wikilink") ふたり（NTV）
-  - [水曜ミステリー9](https://ja.wikipedia.org/wiki/水曜ミステリー9 "wikilink") [作家・如月祥子の事件ルポ](../Page/作家・如月祥子の事件ルポ.md "wikilink")（TX）
+  - [水曜ミステリー9](../Page/水曜ミステリー9.md "wikilink") [作家・如月祥子の事件ルポ](../Page/作家・如月祥子の事件ルポ.md "wikilink")（TX）
 
 #### ラジオ番組
 
   - [フライデーズキングTake2](https://ja.wikipedia.org/wiki/フライデーズキングTake2 "wikilink")（[TOKYO FM](../Page/エフエム東京.md "wikilink")）
   - [Take2のバトルナイト](https://ja.wikipedia.org/wiki/Take2のバトルナイト "wikilink")、[木曜UP'S](https://ja.wikipedia.org/wiki/UP'S～Ultra_Performer'S_radio～ "wikilink") Take2のバットルナイト（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
-  - [ライオン レ・レ・レのレ](https://ja.wikipedia.org/wiki/ライオン_レ・レ・レのレ "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
+  - [ライオン レ・レ・レのレ](../Page/ライオン_レ・レ・レのレ.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
 
 単独での出演は深沢、東それぞれの項目を参照。
 
@@ -83,7 +83,7 @@
 
 かぶりものや特殊メイクを駆使したものまねが多かった。
 
-  - [和泉元彌](https://ja.wikipedia.org/wiki/和泉元彌 "wikilink")、[和泉節子](https://ja.wikipedia.org/wiki/和泉節子 "wikilink")
+  - [和泉元彌](../Page/和泉元彌.md "wikilink")、[和泉節子](https://ja.wikipedia.org/wiki/和泉節子 "wikilink")
   - [叶姉妹](https://ja.wikipedia.org/wiki/叶姉妹 "wikilink")
   - [ネバーエンディング・ストーリー](../Page/ネバーエンディング・ストーリー.md "wikilink")
   - [女子十二楽坊](../Page/女子十二楽坊.md "wikilink")
@@ -93,9 +93,9 @@
   - [野口英世](../Page/野口英世.md "wikilink")、[樋口一葉](../Page/樋口一葉.md "wikilink")（新札ものまね）
   - [踊る大捜査線](../Page/踊る大捜査線.md "wikilink")の青島刑事福沢諭吉（防犯ものまね）
   - [モリゾーとキッコロ](https://ja.wikipedia.org/wiki/モリゾーとキッコロ "wikilink")（[万博](https://ja.wikipedia.org/wiki/万博 "wikilink")ものまね）
-  - [野口聡一](https://ja.wikipedia.org/wiki/野口聡一 "wikilink")と[コリンズ船長](https://ja.wikipedia.org/wiki/アイリーン・コリンズ "wikilink")（スペースシャトルものまね）
+  - [野口聡一](../Page/野口聡一.md "wikilink")と[コリンズ船長](../Page/アイリーン・コリンズ.md "wikilink")（スペースシャトルものまね）
   - [モナリザ](https://ja.wikipedia.org/wiki/モナリザ "wikilink")と[ダヴィンチ](../Page/レオナルド・ダ・ヴィンチ.md "wikilink")
-  - [キグルミ](https://ja.wikipedia.org/wiki/キグルミ "wikilink")
+  - [キグルミ](../Page/キグルミ.md "wikilink")
   - [織田信長](../Page/織田信長.md "wikilink")と[織田信成](../Page/織田信成_\(フィギュアスケート選手\).md "wikilink")（[家系](../Page/家系.md "wikilink")ものまね）
   - [沢田研二](../Page/沢田研二.md "wikilink")（東貴博のみ）
 

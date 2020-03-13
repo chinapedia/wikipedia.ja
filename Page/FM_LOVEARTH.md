@@ -40,7 +40,7 @@
 
 2005年
 
-  - 1月21日 - [試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始
+  - 1月21日 - [試験放送](../Page/試験放送.md "wikilink")開始
   - 2月22日 - 免許状交付\[4\]
   - 2月24日 - 開局前夜祭を[クラブダイアモンドホール](https://ja.wikipedia.org/wiki/クラブダイアモンドホール "wikilink")で行う
   - 2月25日 - 7:00本放送開始。放送局長である中村利雄事務総長が開局の挨拶を行った。
@@ -51,12 +51,12 @@
   -
 
       -
-        （この"AM"とは、「午前(AM)0時以降の放送」「AMラジオのようなトーク多めの放送」という意味がある。AMラジオ(CBC1053kHz)や、[CBCラジオ](../Page/CBCラジオ.md "wikilink")で万博閉幕後に放送されていた『[AM LOVEARTH](https://ja.wikipedia.org/wiki/LOVEARTH "wikilink")』との関係はない。）
+        （この"AM"とは、「午前(AM)0時以降の放送」「AMラジオのようなトーク多めの放送」という意味がある。AMラジオ(CBC1053kHz)や、[CBCラジオ](../Page/CBCラジオ.md "wikilink")で万博閉幕後に放送されていた『[AM LOVEARTH](../Page/LOVEARTH.md "wikilink")』との関係はない。）
 
 <!-- end list -->
 
   - 3月25日 - 愛・地球博開幕、開会式を中継
-  - 8月20日 - 深夜、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")と同時で「[TV LOVEARTH](https://ja.wikipedia.org/wiki/LOVEARTH "wikilink")」を放送。テレビCM中は独自に放送。
+  - 8月20日 - 深夜、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")と同時で「[TV LOVEARTH](../Page/LOVEARTH.md "wikilink")」を放送。テレビCM中は独自に放送。
   - 9月25日 - 愛・地球博閉幕、閉会式とグランドフィナーレを中継
 
 <!-- end list -->
@@ -74,9 +74,9 @@
   - DJは、朝は7:00〜12:00の5時間、昼は12:00〜18:00の6時間、夜は18:00〜翌日0:10頃の約6時間を、1人ずつ担当し情報を伝えた。つまり1日3人のDJが登場。
   - 会場内や会場外からも、レポーターが登場して2-3分のレポートを行った。リポーターは、1日2人登場。15:00頃に交代した。
   - 放送時間中の毎時59分45秒からは、[スジャータ提供の](https://ja.wikipedia.org/wiki/めいらくグループ#ラジオCM "wikilink")[時報](../Page/時報.md "wikilink")。朝（7:00〜11:00）、日中（12:00〜17:00）、夜（18:00〜24:00）の3パターンの同局オリジナル時報が30秒間流れた。
-  - 通常の放送は24:00まで。翌0:00からは「グリコのおまけ」（[江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")提供）として放送。夜パート担当のDJが引き続き登場し、トーク・メッセージの紹介・裏話・最後の一曲などを放送した。放送時間は「約10分」で、特に決まっていなかった。初期は「グリコのおまけ」終了後、そのまま停波していたが、しばらくしてコールサイン（事前収録・声はCBC[丹野アナ](https://ja.wikipedia.org/wiki/丹野みどり "wikilink")）が流れるようになった。最終日は、夕方に放送され、[上野規行](../Page/上野規行.md "wikilink")が担当した。
+  - 通常の放送は24:00まで。翌0:00からは「グリコのおまけ」（[江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")提供）として放送。夜パート担当のDJが引き続き登場し、トーク・メッセージの紹介・裏話・最後の一曲などを放送した。放送時間は「約10分」で、特に決まっていなかった。初期は「グリコのおまけ」終了後、そのまま停波していたが、しばらくしてコールサイン（事前収録・声はCBC[丹野アナ](../Page/丹野みどり.md "wikilink")）が流れるようになった。最終日は、夕方に放送され、[上野規行](../Page/上野規行.md "wikilink")が担当した。
   - 毎週土曜日の午後には「愛について何か語ろう－21世紀の賢者たち」のコーナーが放送され、数名のゲストが登場した。このコーナーは、イベント終了後にCBCで放送開始された「AM LOVEARTH」に引き継がれている。
-  - 8月ごろからの毎週金曜日の11時頃にはCBCテレビ「[まるっと万博](https://ja.wikipedia.org/wiki/まるっと万博 "wikilink")」を終えた[森合康行](../Page/森合康行.md "wikilink")アナウンサーがゲストとして毎週登場した。
+  - 8月ごろからの毎週金曜日の11時頃にはCBCテレビ「[まるっと万博](../Page/まるっと万博.md "wikilink")」を終えた[森合康行](../Page/森合康行.md "wikilink")アナウンサーがゲストとして毎週登場した。
 
 ## DJ
 
@@ -94,7 +94,7 @@
 <!-- end list -->
 
   -
-    地元の愛知県名古屋市出身。ZIP-FMをはじめ各局のDJ（ミュージックナビゲーター）を担当していた。期間中も京都[α-STATIONや](../Page/エフエム京都.md "wikilink")[FMヨコハマのレギュラーもこなしながらの担当となった](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")。このため期間中3月〜5月にかけては他局の仕事を合わせ55連勤となるなどの激務であった。終了後もCBCラジオ「LOVEARTH」を担当した。現在は名古屋[RADIO-i](../Page/愛知国際放送.md "wikilink")（担当番組「[Briliant Wave](https://ja.wikipedia.org/wiki/Briliant_Wave "wikilink")」・「[Twilight Breeze](https://ja.wikipedia.org/wiki/Twilight_Breeze "wikilink")」）でDJをしている。
+    地元の愛知県名古屋市出身。ZIP-FMをはじめ各局のDJ（ミュージックナビゲーター）を担当していた。期間中も京都[α-STATIONや](../Page/エフエム京都.md "wikilink")[FMヨコハマのレギュラーもこなしながらの担当となった](../Page/横浜エフエム放送.md "wikilink")。このため期間中3月〜5月にかけては他局の仕事を合わせ55連勤となるなどの激務であった。終了後もCBCラジオ「LOVEARTH」を担当した。現在は名古屋[RADIO-i](../Page/愛知国際放送.md "wikilink")（担当番組「[Briliant Wave](https://ja.wikipedia.org/wiki/Briliant_Wave "wikilink")」・「[Twilight Breeze](https://ja.wikipedia.org/wiki/Twilight_Breeze "wikilink")」）でDJをしている。
 
 <!-- end list -->
 
@@ -135,7 +135,7 @@
   - コラボレーション・アーティストは、[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")。オリジナルイメージソング「Everyone,everyone」を制作し、開局の日や閉幕の日にゲスト出演した。
   - ジングル、タイムシグナルの制作はニューヨーク在住のプロデューサー、 Shunji Moriwaki と Atsuo Nitta の二人によるもの。\[5\]
   - FM LOVEARTHのイベントが数多く開催された。
-      - ささしまサテライト会場[デ・ラ・ファンタジア](https://ja.wikipedia.org/wiki/デ・ラ・ファンタジア "wikilink")・グラマラス192「LOVEARTH NIGHT」
+      - ささしまサテライト会場[デ・ラ・ファンタジア](../Page/デ・ラ・ファンタジア.md "wikilink")・グラマラス192「LOVEARTH NIGHT」
       - 会場内・地球市民村「村祭」
       - テレビ・ラジオ同時放送「TV LOVEARTH」
   - FM LOVEARTHとは別に、藤岡駐車場（豊田市西中山町）周辺でもイベントFM放送が行われた。詳細は[愛知万博のマスメディア\#2005年日本国際博覧会藤岡イベントFM放送](https://ja.wikipedia.org/wiki/愛知万博のマスメディア#2005年日本国際博覧会藤岡イベントFM放送 "wikilink")を参照。
@@ -143,7 +143,7 @@
 ## 閉局後
 
   - 放送に使用していた周波数77.3MHzは、閉局から8年後の2013年4月12日より西尾張シーエーティーヴィ株式会社が運営する海部地区を対象にしたコミュニティFM放送局**エフエムななみ**が使用している。
-  - 「FM LOVEARTH」の事業は基本的にCBC[中部日本放送](../Page/中部日本放送.md "wikilink")が継承しており、下記のとおり事業を展開している。詳細は[LOVEARTH](https://ja.wikipedia.org/wiki/LOVEARTH "wikilink")を参照。
+  - 「FM LOVEARTH」の事業は基本的にCBC[中部日本放送](../Page/中部日本放送.md "wikilink")が継承しており、下記のとおり事業を展開している。詳細は[LOVEARTH](../Page/LOVEARTH.md "wikilink")を参照。
 
 ### 番組としての「LOVEARTH」
 
@@ -165,8 +165,8 @@
 
 ### 「FM LOVEARTH」看板の行方
 
-  - [2006年](../Page/2006年.md "wikilink")1月ごろ「77.3MHz」のネオンサインとログハウス風のスタジオ設備の一部を、周波数が同じであるコミュニティFM局「[福井街角放送](https://ja.wikipedia.org/wiki/福井街角放送 "wikilink")」に無償で譲渡した\[6\]。
-  - 譲渡を受けた[福井街角放送](https://ja.wikipedia.org/wiki/福井街角放送 "wikilink")はこのスタジオを利用し、[2009年](../Page/2009年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")、[福井駅西口広場に](https://ja.wikipedia.org/wiki/福井駅_\(福井県\) "wikilink")[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「駅前情報館」をオープンした。
+  - [2006年](../Page/2006年.md "wikilink")1月ごろ「77.3MHz」のネオンサインとログハウス風のスタジオ設備の一部を、周波数が同じであるコミュニティFM局「[福井街角放送](../Page/福井街角放送.md "wikilink")」に無償で譲渡した\[6\]。
+  - 譲渡を受けた[福井街角放送](../Page/福井街角放送.md "wikilink")はこのスタジオを利用し、[2009年](../Page/2009年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")、[福井駅西口広場に](https://ja.wikipedia.org/wiki/福井駅_\(福井県\) "wikilink")[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")「駅前情報館」をオープンした。
 
 ## 脚注
 
@@ -175,10 +175,10 @@
 ## 関連項目
 
   - [2005年日本国際博覧会](../Page/2005年日本国際博覧会.md "wikilink")（愛・地球博）
-      - [愛知万博のマスメディア](https://ja.wikipedia.org/wiki/愛知万博のマスメディア "wikilink")
+      - [愛知万博のマスメディア](../Page/愛知万博のマスメディア.md "wikilink")
   - [中部日本放送](../Page/中部日本放送.md "wikilink")
       - [CBCラジオ](../Page/CBCラジオ.md "wikilink")
-      - [LOVEARTH ／ MUSIC LOVEARTH ／ AM LOVEARTH ／ サンデーLOVEARTH](https://ja.wikipedia.org/wiki/LOVEARTH "wikilink")
+      - [LOVEARTH ／ MUSIC LOVEARTH ／ AM LOVEARTH ／ サンデーLOVEARTH](../Page/LOVEARTH.md "wikilink")
   - [ZIP-FM](../Page/ZIP-FM.md "wikilink")
   - [FM DEPO](../Page/FM_DEPO.md "wikilink")
   - [ラジオきらっと](../Page/ラジオきらっと.md "wikilink") - [つくば科学博の際に開設された臨時放送局](../Page/国際科学技術博覧会.md "wikilink")(AM)

@@ -157,7 +157,7 @@ RPGツクール2000以降で必要となるRTP(ランタイムパッケージ、
   - 猫の森のトラ吉
     家出をした少女ウェンディが猫又の住む森に辿り着き、そこで幸せな一時を過ごすストーリー。前編のみであり、後日、後編と加筆修正を加えた前編による完全版がネット上で公開された。
   - 伝勇の冒険II
-    かつて魔王を倒した伝説の勇者（伝勇）はホワイトと言う少女の所に遊びに行き、魔王と戦った記憶を述懐する。主人公の伝勇は、声は可愛いが自分の事しか考えておらず、する事はとてつももなくえげつない。主人公の伝勇のみ当時としては画期的だったフルボイスで、BGMはは全て[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")による生音。この作品のBGMはRPGツクールXPのサンプルゲームの「ight-lade Howling of Kerberos（ナイトブレード ケルベロスの咆吼）」にも使用されている（元々はRPGツクール95で制作された同シリーズ第一段「KNight-Blade The Survivor of Hell Hound」に素材として使用されていた）。あくまでサンプルと言う位置付けのため戦闘の難易度は低い。
+    かつて魔王を倒した伝説の勇者（伝勇）はホワイトと言う少女の所に遊びに行き、魔王と戦った記憶を述懐する。主人公の伝勇は、声は可愛いが自分の事しか考えておらず、する事はとてつももなくえげつない。主人公の伝勇のみ当時としては画期的だったフルボイスで、BGMはは全て[WAV](../Page/WAV.md "wikilink")による生音。この作品のBGMはRPGツクールXPのサンプルゲームの「ight-lade Howling of Kerberos（ナイトブレード ケルベロスの咆吼）」にも使用されている（元々はRPGツクール95で制作された同シリーズ第一段「KNight-Blade The Survivor of Hell Hound」に素材として使用されていた）。あくまでサンプルと言う位置付けのため戦闘の難易度は低い。
   - マリアReジェンド
     天上界に住む天使マリアが、地上に落としてしまった「天使の杖」を探すために地上で冒険をするストーリー。7大隠しイベントなど、ゲーム外でのオマケも多し。戦闘が無いサンプルゲームの1つでもある（最大の隠し要素として一度だけ戦闘がある）。
   - 復活の虚神
@@ -178,7 +178,7 @@ RPGツクール2000以降で必要となるRTP(ランタイムパッケージ、
   - [Lost Memory](../Page/Lost_Memory.md "wikilink")（1997年）
   - [Creatures〜生きとし生けるもの達へ](https://ja.wikipedia.org/wiki/Creatures〜生きとし生けるもの達へ "wikilink")（1998年）
   - [人形の傷跡](../Page/人形の傷跡.md "wikilink")（1999年）
-  - [Moon Whistle](https://ja.wikipedia.org/wiki/Moon_Whistle "wikilink")（1999年）
+  - [Moon Whistle](../Page/Moon_Whistle.md "wikilink")（1999年）
   - [パレット](https://ja.wikipedia.org/wiki/パレット_\(ゲーム\) "wikilink")（1999年）
   - ラーゼルの風\[9\]（『[テックウィン](https://ja.wikipedia.org/wiki/テックウィン "wikilink")』2003年1月号[コンテストパーク](../Page/コンテストパーク.md "wikilink")金賞）
 

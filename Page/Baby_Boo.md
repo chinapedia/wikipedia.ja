@@ -225,7 +225,7 @@ WPCL-10037:通常盤</p></td>
 <ol>
 <li>Love Letters[4:31]（作詞・作曲：櫻井貴之／編曲：高山和芽／編曲：瀬川忍）</li>
 <li>Tears (single version)[4:40]（作詞：櫻井貴之／作曲：瀬川忍／編曲：高山和芽・瀬川忍）</li>
-<li><a href="https://ja.wikipedia.org/wiki/アローン・アゲイン" title="wikilink">ALONE AGAIN (NATURALLY)</a>[3:34]（作詞・作曲：<a href="https://ja.wikipedia.org/wiki/ギルバート・オサリバン" title="wikilink">Raymond O'Sullivan</a>／編曲：瀬川忍）</li>
+<li><a href="https://ja.wikipedia.org/wiki/アローン・アゲイン" title="wikilink">ALONE AGAIN (NATURALLY)</a>[3:34]（作詞・作曲：<a href="../Page/ギルバート・オサリバン.md" title="wikilink">Raymond O'Sullivan</a>／編曲：瀬川忍）</li>
 <li>Love Letters (-one version)[4:32]</li>
 </ol>
 <p>初回盤DVD</p>
@@ -361,7 +361,7 @@ WPCL-10037:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月23日.md" title="wikilink">3月23日</a></p></td>
 <td><p><strong>travelogue</strong></p></td>
 <td><p>POCE-3042</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -390,7 +390,7 @@ WPCL-10037:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月14日.md" title="wikilink">12月14日</a></p></td>
 <td><p><strong>for</strong></p></td>
 <td><p>UPCI-1038</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -968,7 +968,7 @@ BTRA-0007:通常盤</p></td>
         ※ 16曲目「目覚め〜ネスカフェ・ゴールドブレンドのテーマ〜（ネスカフェ・ゴールドブレンド30秒CMバージョン）」
 4.  「じいじのシンデレラ」ボニーさんとブー 2016年10月26日発売 シングルCD
       -
-        ※[ボニージャックス](https://ja.wikipedia.org/wiki/ボニージャックス "wikilink")とベイビー・ブーによる総勢9名のコーラスユニット。
+        ※[ボニージャックス](../Page/ボニージャックス.md "wikilink")とベイビー・ブーによる総勢9名のコーラスユニット。
 
 ### 舞台
 
@@ -993,10 +993,10 @@ BTRA-0007:通常盤</p></td>
   - Love knot：[NTV系](../Page/日本テレビネットワーク協議会.md "wikilink")「『[AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")』AX POWER PLAY \#004」テーマソング
   - Happy Candy：NTV系「ステキにごはん」テーマ・ソング
   - 月が揺れる空の下で：NTV系「TVおじゃマンボウ」エンディングテーマ
-  - Gift：[フジテレビ系列昼ドラマ](../Page/フジネットワーク.md "wikilink")「[幸せ咲いた〜結婚相談所物語〜](https://ja.wikipedia.org/wiki/幸せ咲いた〜結婚相談所物語〜 "wikilink")」[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")
+  - Gift：[フジテレビ系列昼ドラマ](../Page/フジネットワーク.md "wikilink")「[幸せ咲いた〜結婚相談所物語〜](../Page/幸せ咲いた〜結婚相談所物語〜.md "wikilink")」[主題歌](../Page/主題歌.md "wikilink")
   - キミノミカタ：TBS系[日立 世界・ふしぎ発見\!](../Page/日立_世界・ふしぎ発見!.md "wikilink")[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディングテーマ "wikilink")
   - ひまわり：[KTV](../Page/関西テレビ放送.md "wikilink")「トミーズのはらぺこ亭」エンディングテーマ
-  - Love 1/2：[テレビ東京系ドラマ](https://ja.wikipedia.org/wiki/TXN "wikilink")「[Deep Love 〜アユの物語〜](https://ja.wikipedia.org/wiki/Deep_Love "wikilink")」[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")
+  - Love 1/2：[テレビ東京系ドラマ](https://ja.wikipedia.org/wiki/TXN "wikilink")「[Deep Love 〜アユの物語〜](../Page/Deep_Love.md "wikilink")」[挿入歌](https://ja.wikipedia.org/wiki/挿入歌 "wikilink")
 
 ## 備考
 

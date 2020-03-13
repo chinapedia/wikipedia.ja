@@ -1,13 +1,13 @@
 > この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
 
 
-『**ザ・ジャッジEX**』（ザ・ジャッジ イーエックス）は、[2004年](../Page/2004年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")から同年[12月17日](../Page/12月17日.md "wikilink")まで[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")（一部を除く）で放送されていた[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。その後も[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")から同年[3月18日](../Page/3月18日.md "wikilink")まで『**ザ・ジャッジEX〜人生を変えた瞬間〜**』と題して放送されていた。全8回＋11回。放送時間は毎週金曜 19:00 - 19:57 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**ザ・ジャッジEX**』（ザ・ジャッジ イーエックス）は、[2004年](../Page/2004年.md "wikilink")[10月29日](../Page/10月29日.md "wikilink")から同年[12月17日](../Page/12月17日.md "wikilink")まで[フジテレビ系列局](../Page/フジネットワーク.md "wikilink")（一部を除く）で放送されていた[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。その後も[2005年](../Page/2005年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から同年[3月18日](../Page/3月18日.md "wikilink")まで『**ザ・ジャッジEX〜人生を変えた瞬間〜**』と題して放送されていた。全8回＋11回。放送時間は毎週金曜 19:00 - 19:57 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
 金曜19:57枠で放送されていた『[ザ・ジャッジ\! 〜得する法律ファイル](../Page/ザ・ジャッジ!_〜得する法律ファイル.md "wikilink")』の改題リニューアル版で、引き続き[みのもんた](../Page/みのもんた.md "wikilink")と[爆笑問題](../Page/爆笑問題.md "wikilink")が出演していた。放送開始前の2004年10月23日（土曜） 14:00 - 16:00 には『**ザ・ジャッジ\!〜得する法律ファイル 〜金曜7時にお引越しスペシャル**』が放送され、放送開始1週間後の同年11月5日（金曜）には『[チャンネルα](../Page/チャンネルα.md "wikilink")』枠で『[幸せって何だっけ 〜カズカズの宝話〜](../Page/幸せって何だっけ_〜カズカズの宝話〜.md "wikilink")』とのコラボレーション特番『**ジャッジEX&幸せって何だっけ放送直前SP**』が放送された\[1\]。
 
-番組は『得する法律ファイル』時代の内容を継承しつつも、裁判官をイメージしたキャラクター「ミスター・ジャッジ」に法律について説明させるなど、年少者にも理解できるような工夫を凝らした。また、法律相談のコーナーで芸能人相談者の半生を綴るVTRを流すようにもなった。2005年1月に改題してからは番組の根幹である法律相談の要素が薄れ、芸能人ゲストの人生を変えた運命の決断（ジャッジ）を紹介する[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組風の内容になった。そして2005年3月18日放送分をもって同タイトルでの放送を終了し、『[Dのゲキジョー 〜運命のジャッジ〜](https://ja.wikipedia.org/wiki/Dのゲキジョー_〜運命のジャッジ〜 "wikilink")』へとリニューアルした。
+番組は『得する法律ファイル』時代の内容を継承しつつも、裁判官をイメージしたキャラクター「ミスター・ジャッジ」に法律について説明させるなど、年少者にも理解できるような工夫を凝らした。また、法律相談のコーナーで芸能人相談者の半生を綴るVTRを流すようにもなった。2005年1月に改題してからは番組の根幹である法律相談の要素が薄れ、芸能人ゲストの人生を変えた運命の決断（ジャッジ）を紹介する[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組風の内容になった。そして2005年3月18日放送分をもって同タイトルでの放送を終了し、『[Dのゲキジョー 〜運命のジャッジ〜](../Page/Dのゲキジョー_〜運命のジャッジ〜.md "wikilink")』へとリニューアルした。
 
 放送時間が1時間繰り上がったことにより、この時間帯に自社製作番組や他系列局の番組を放送していた[東海テレビ](../Page/東海テレビ放送.md "wikilink")・[関西テレビ](../Page/関西テレビ放送.md "wikilink")・[岡山放送](../Page/岡山放送.md "wikilink")・[テレビ大分](../Page/テレビ大分.md "wikilink")では未放送になる、あるいは同時ネットせずに別の時間帯に放送する（東海テレビでは月曜19:00枠）、スペシャル回などの一部の回のみをネットする（関西テレビ。ただし、内容は1時間に編集しなおしたもの）などの措置が取られた。
 
@@ -31,9 +31,9 @@
   - 演出：藤沼聡、有川崇
   - 制作プロデューサー：尾形香代（ハウフルス）、高橋純一、河本和美（Jアソシエイツ）、永井恵一（トスプランニング）
   - チーフプロデューサー：[宮道治朗](../Page/宮道治朗.md "wikilink")
-  - 制作：[吉田正樹](https://ja.wikipedia.org/wiki/吉田正樹 "wikilink")
+  - 制作：[吉田正樹](../Page/吉田正樹.md "wikilink")
   - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
-  - 制作協力：[ハウフルス](https://ja.wikipedia.org/wiki/ハウフルス "wikilink")、Jアソシエイツ、[トスプランニング](https://ja.wikipedia.org/wiki/トスプランニング "wikilink")
+  - 制作協力：[ハウフルス](../Page/ハウフルス.md "wikilink")、Jアソシエイツ、[トスプランニング](../Page/トスプランニング.md "wikilink")
   - 制作著作：フジテレビバラエティ制作センター
 
 ## コーナー
@@ -61,7 +61,7 @@
 ## 関連項目
 
   - [ザ・ジャッジ\! 〜得する法律ファイル](../Page/ザ・ジャッジ!_〜得する法律ファイル.md "wikilink")
-  - [Dのゲキジョー 〜運命のジャッジ〜](https://ja.wikipedia.org/wiki/Dのゲキジョー_〜運命のジャッジ〜 "wikilink")
+  - [Dのゲキジョー 〜運命のジャッジ〜](../Page/Dのゲキジョー_〜運命のジャッジ〜.md "wikilink")
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:テレビの法律番組](https://ja.wikipedia.org/wiki/Category:テレビの法律番組 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:ハウフルス](https://ja.wikipedia.org/wiki/Category:ハウフルス "wikilink") [Category:みのもんた](https://ja.wikipedia.org/wiki/Category:みのもんた "wikilink") [Category:爆笑問題](https://ja.wikipedia.org/wiki/Category:爆笑問題 "wikilink")
 

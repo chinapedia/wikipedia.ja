@@ -50,7 +50,7 @@ X帯:47W</p></td>
 ELA-2</p></td>
 <td><p><a href="../Page/アリアン4.md" title="wikilink">アリアン4</a></p></td>
 <td><p>1990年12月23日<br />
-事故により運用停止。<a href="https://ja.wikipedia.org/wiki/JCSAT" title="wikilink">JCSAT</a>が一部の利用者を引き受け。[1]</p></td>
+事故により運用停止。<a href="../Page/JCSAT.md" title="wikilink">JCSAT</a>が一部の利用者を引き受け。[1]</p></td>
 </tr>
 <tr class="even">
 <td><p>SUPERBIRD B</p></td>
@@ -177,7 +177,7 @@ Ka帯:70W<br />
 (X帯:不明)</p></td>
 <td><p>日本, 韓国, 台湾</p></td>
 <td><p>3100kg</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td><p>ケープカナベラル<br />
 空軍基地<br />
 LC-36A</p></td>
@@ -218,7 +218,7 @@ Ka帯:130W<br />
 (X帯:不明)</p></td>
 <td><p>日本, 韓国, 台湾, 可動ビーム(Ku)</p></td>
 <td><p>5348kg</p></td>
-<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a></p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
 <td><p>ギアナ<br />
 宇宙センター<br />
 ELA-3</p></td>
@@ -240,22 +240,22 @@ ELA-3</p></td>
       - 2018年7月よりSUPERBIRD B2に代わる形で運用されている。
   - SUPERBIRD C2
       - 地方公共団体間の行政用通信([LASCOM](../Page/自治体衛星通信機構.md "wikilink"))に使用されている。
-      - CS障害者放送統一機構による聴覚障害者向けテレビ放送補完通信[目で聴くテレビ](https://ja.wikipedia.org/wiki/目で聴くテレビ "wikilink")に使用されている。(2018年3月終了)
+      - CS障害者放送統一機構による聴覚障害者向けテレビ放送補完通信[目で聴くテレビ](../Page/目で聴くテレビ.md "wikilink")に使用されている。(2018年3月終了)
       - [USEN](../Page/USEN.md "wikilink")の衛星ラジオ放送[SOUND PLANETに使用されている](../Page/SOUND_PLANET.md "wikilink")。
       - [ホップテレビ](../Page/ホップテレビ.md "wikilink")の台湾語テレビ放送HOP TVに使用されている。
       - [アイ・ピー・エス](https://ja.wikipedia.org/wiki/アイ・ピー・エス "wikilink")の外国語テレビ・ラジオ放送[AccessTV](../Page/AccessTV.md "wikilink")に使用されている。
       - [日本デジタル配信](../Page/日本デジタル配信.md "wikilink")の[ケーブルテレビ局](../Page/ケーブルテレビ局.md "wikilink")向け配信サービス[i-HITSに使用されている](../Page/アイ・ヒッツ.md "wikilink")。
       - 搭載されたXバンド通信中継器で防衛省・自衛隊向けに衛星通信サービスを提供。
   - [SUPERBIRD D（N-SAT-110）](../Page/N-SAT-110.md "wikilink")
-      - 現在、後継である[JCSAT](https://ja.wikipedia.org/wiki/JCSAT "wikilink")-110Aのバックアップとして運用されている。
-      - 旧JSATによる呼称は[JCSAT](https://ja.wikipedia.org/wiki/JCSAT "wikilink")-110。CS放送[プラットフォームの](../Page/有料放送管理事業者.md "wikilink")[スカパー\!e2](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink") (旧[プラット・ワン](../Page/プラット・ワン.md "wikilink"))に使用されている。
+      - 現在、後継である[JCSAT](../Page/JCSAT.md "wikilink")-110Aのバックアップとして運用されている。
+      - 旧JSATによる呼称は[JCSAT](../Page/JCSAT.md "wikilink")-110。CS放送[プラットフォームの](../Page/有料放送管理事業者.md "wikilink")[スカパー\!e2](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink") (旧[プラット・ワン](../Page/プラット・ワン.md "wikilink"))に使用されている。
       - [緊急地震速報](../Page/緊急地震速報.md "wikilink")サービスSafetyBIRDに使用されている。
       - 社内放送等の映像配信サービスV-Drive110に使用されている。
       - 搭載されたXバンド通信中継器で防衛省・自衛隊向けに衛星通信サービスを提供。
 
 ## SUPERBIRD C2
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月15日](../Page/8月15日.md "wikilink")（[JST](../Page/日本標準時.md "wikilink")）に[ギアナ宇宙センター](../Page/ギアナ宇宙センター.md "wikilink")より[アリアン](../Page/アリアン.md "wikilink")[ロケット](../Page/ロケット.md "wikilink")に搭載し打ち上げられたSUPERBIRD-7の発注では、宇宙通信が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")当時傘下に入っていた[三菱グループ](../Page/三菱グループ.md "wikilink")の[三菱電機](../Page/三菱電機.md "wikilink")が国際競争入札を勝ち抜き、システムを担当することになった（それまで三菱電機においては通信系サブシステムのみを担当し、その経験が初の日本製プライム受注商用衛星[OPTUS-C1や](../Page/オプタス.md "wikilink")[国土交通省](../Page/国土交通省.md "wikilink")保有の運輸多目的衛星[MTSAT](../Page/MTSAT.md "wikilink")-2=愛称・[ひまわり7号](https://ja.wikipedia.org/wiki/ひまわり7号 "wikilink")の開発に生かされてきていた）。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月15日](../Page/8月15日.md "wikilink")（[JST](../Page/日本標準時.md "wikilink")）に[ギアナ宇宙センター](../Page/ギアナ宇宙センター.md "wikilink")より[アリアン](../Page/アリアン.md "wikilink")[ロケット](../Page/ロケット.md "wikilink")に搭載し打ち上げられたSUPERBIRD-7の発注では、宇宙通信が[2005年](../Page/2005年.md "wikilink")当時傘下に入っていた[三菱グループ](../Page/三菱グループ.md "wikilink")の[三菱電機](../Page/三菱電機.md "wikilink")が国際競争入札を勝ち抜き、システムを担当することになった（それまで三菱電機においては通信系サブシステムのみを担当し、その経験が初の日本製プライム受注商用衛星[OPTUS-C1や](../Page/オプタス.md "wikilink")[国土交通省](../Page/国土交通省.md "wikilink")保有の運輸多目的衛星[MTSAT](../Page/MTSAT.md "wikilink")-2=愛称・[ひまわり7号](https://ja.wikipedia.org/wiki/ひまわり7号 "wikilink")の開発に生かされてきていた）。
 
 静止軌道への投入や機能試験等を経て、同年[10月17日](../Page/10月17日.md "wikilink")にスカパーJSATへ引き渡され、日本企業が保有する初の国産民間商用衛星SUPERBIRD C2となった。
 

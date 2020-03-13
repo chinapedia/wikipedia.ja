@@ -12,7 +12,7 @@
   - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")（昭和16年）[12月31日](../Page/12月31日.md "wikilink") - 戦時体制での電波管制による難聴対策として社団法人日本放送協会の**鶴岡臨時放送所**として運用開始（50w）。
   - [1946年](../Page/1946年.md "wikilink")（昭和21年）[4月21日](../Page/4月21日.md "wikilink") - **社団法人日本放送協会 鶴岡放送局**として開局。本格的なラジオ放送開始（[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOJP）。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての日本放送協会が設立され、**日本放送協会 鶴岡放送局**へ移行。
-  - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）[7月1日](../Page/7月1日.md "wikilink") - [ラジオ第2放送開始](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")（[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOJD）。
+  - [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")（昭和26年）[7月1日](../Page/7月1日.md "wikilink") - [ラジオ第2放送開始](../Page/NHKラジオ第2放送.md "wikilink")（[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOJD）。
   - [1960年](../Page/1960年.md "wikilink")（昭和35年）[2月27日](../Page/2月27日.md "wikilink") - 鶴岡総合テレビジョン開局（3ch,JOJP-TV）。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）[11月1日](../Page/11月1日.md "wikilink") - 鶴岡教育テレビジョン開局（6ch,JOJD-TV）（[山形放送局と同時](../Page/NHK山形放送局.md "wikilink")）。
   - 1962年（昭和37年）[12月24日](../Page/12月24日.md "wikilink") - [羽黒ラジオ放送所へ移転](https://ja.wikipedia.org/wiki/鶴岡ラジオ中継局 "wikilink")。
@@ -34,8 +34,8 @@
 <!-- end list -->
 
   - [総合テレビ](../Page/NHK総合テレビジョン.md "wikilink") 34ch [リモコンキーID](../Page/リモコンキーID.md "wikilink")：1 出力：500W
-  - [Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") 32ch リモコンキーID：2 出力：500W
-  - [FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") 86.0MHz 出力：250W
+  - [Eテレ](../Page/NHK教育テレビジョン.md "wikilink") 32ch リモコンキーID：2 出力：500W
+  - [FM放送](../Page/NHK-FM放送.md "wikilink") 86.0MHz 出力：250W
 
 以下は2011年7月24日運用終了。
 

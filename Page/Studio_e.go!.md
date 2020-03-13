@@ -5,7 +5,7 @@
 
 かつて[TGL](../Page/TGL.md "wikilink")で『ファーランドストーリー』の製作に関わった山本和枝らが独立して出来たブランドである。発足当初は[ロールプレイングゲームが中心だったが](https://ja.wikipedia.org/wiki/コンピューターRPG "wikilink")、現在は一般的なアドベンチャーゲームも多く手がける。
 
-全作品の原画を[山本和枝](https://ja.wikipedia.org/wiki/山本和枝 "wikilink")が担当している\[1\]が、その絵柄がこのブランド最大の特徴と言える。
+全作品の原画を[山本和枝](../Page/山本和枝.md "wikilink")が担当している\[1\]が、その絵柄がこのブランド最大の特徴と言える。
 
 2009年3月17日、山本和枝が株式会社スタジオ・エゴの代表取締役を辞任し、「[でぼの巣製作所](https://ja.wikipedia.org/wiki/でぼの巣製作所 "wikilink")」を立ち上げる。また、スタッフのほとんどが一斉退社した。
 
@@ -18,7 +18,7 @@
   - 1998年5月22日 - [キャッスルファンタジア](https://ja.wikipedia.org/wiki/キャッスルファンタジア "wikilink")
   - 1998年11月20日 - [キャッスルファンタジア〜聖魔大戦〜](https://ja.wikipedia.org/wiki/キャッスルファンタジア〜聖魔大戦〜 "wikilink")
   - 1999年5月28日 - [ピュティア](https://ja.wikipedia.org/wiki/ピュティア_\(ゲーム\) "wikilink")
-  - 1999年7月30日 - [メンアットワーク\!](https://ja.wikipedia.org/wiki/メンアットワーク! "wikilink")
+  - 1999年7月30日 - [メンアットワーク\!](../Page/メンアットワーク!.md "wikilink")
   - 1999年12月17日 - [紅涙](https://ja.wikipedia.org/wiki/紅涙 "wikilink")
   - 2000年4月21日 - [キャッスルファンタジア〜エレンシア戦記〜](https://ja.wikipedia.org/wiki/キャッスルファンタジア〜エレンシア戦記〜 "wikilink")
   - 2000年7月14日 - [TWIN WAY 〜一瞬の時の中で〜](https://ja.wikipedia.org/wiki/TWIN_WAY_〜一瞬の時の中で〜 "wikilink")
@@ -99,7 +99,7 @@
 
 **BlueImpact**（ブルーインパクト）は、株式会社スタジオ・エゴ内にある、[ボーイズラブゲーム](../Page/ボーイズラブゲーム.md "wikilink")ブランド。
 
-[BL系ブランドとして](../Page/ボーイズラブ.md "wikilink")、全ての作品の原画や企画は、「Studio e.go\!」同様で[山本和枝](https://ja.wikipedia.org/wiki/山本和枝 "wikilink")が担当している。
+[BL系ブランドとして](../Page/ボーイズラブ.md "wikilink")、全ての作品の原画や企画は、「Studio e.go\!」同様で[山本和枝](../Page/山本和枝.md "wikilink")が担当している。
 
 作品は[Angel's Featherが主であるが](https://ja.wikipedia.org/wiki/Angel's_Feather "wikilink")2006年4月現在、White Shadowというゲームも開発中である。当初はStudio e.go\!の[美少女ゲームサブブランドとして](../Page/アダルトゲーム.md "wikilink")2001年に「[わーきんぐDAYS](https://ja.wikipedia.org/wiki/わーきんぐDAYS "wikilink")」を発売していた。
 

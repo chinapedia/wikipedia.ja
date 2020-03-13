@@ -39,8 +39,8 @@
 ## スタッフ
 
   - 原作 - [GONZO](../Page/ゴンゾ.md "wikilink")
-  - 監督 - [水島精二](https://ja.wikipedia.org/wiki/水島精二 "wikilink")
-  - シリーズ構成 - [高橋ナツコ](https://ja.wikipedia.org/wiki/高橋ナツコ "wikilink")
+  - 監督 - [水島精二](../Page/水島精二.md "wikilink")
+  - シリーズ構成 - [高橋ナツコ](../Page/高橋ナツコ.md "wikilink")
   - SF設定 - [堺三保](../Page/堺三保.md "wikilink")
   - キャラクター原案 - [松本嵩春](../Page/松本嵩春.md "wikilink")
   - キャラクターデザイン・総作画監督 - 大島康弘
@@ -79,10 +79,10 @@
 <tr class="odd">
 <td><p>Epi.1</p></td>
 <td><p>encounter</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋ナツコ" title="wikilink">高橋ナツコ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだしげる" title="wikilink">うえだしげる</a><br />
+<td><p><a href="../Page/高橋ナツコ.md" title="wikilink">高橋ナツコ</a></p></td>
+<td><p><a href="../Page/うえだしげる.md" title="wikilink">うえだしげる</a><br />
 神戸洋行<br />
-<a href="https://ja.wikipedia.org/wiki/水島精二" title="wikilink">水島精二</a></p></td>
+<a href="../Page/水島精二.md" title="wikilink">水島精二</a></p></td>
 <td><p>うえだしげる</p></td>
 <td><p>大島康弘</p></td>
 </tr>

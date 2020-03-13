@@ -7,15 +7,15 @@
 
 ### 番組概要
 
-[仲谷一志](https://ja.wikipedia.org/wiki/仲谷一志 "wikilink")がメインで、サブに大学生、主婦からなるPOPギャル、POPボーイが複数登場。 進行は、仲谷とのフリートーク、リスナーからのメールによる週ごとのネタ投稿をトークと曲を絡めながら紹介。 途中、元RKBラジオリポータースナッピー出身のMIYUKI（中村みゆき）が登場するようになる。
+[仲谷一志](../Page/仲谷一志.md "wikilink")がメインで、サブに大学生、主婦からなるPOPギャル、POPボーイが複数登場。 進行は、仲谷とのフリートーク、リスナーからのメールによる週ごとのネタ投稿をトークと曲を絡めながら紹介。 途中、元RKBラジオリポータースナッピー出身のMIYUKI（中村みゆき）が登場するようになる。
 
 ### 放送時間
 
-  - [火曜日](../Page/火曜日.md "wikilink") - [木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 23:25～23:50（JST。2004年3月 - [2012年](../Page/2012年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）
+  - [火曜日](../Page/火曜日.md "wikilink") - [木曜日](../Page/木曜日.md "wikilink") 23:25～23:50（JST。2004年3月 - [2012年](../Page/2012年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）
 
 ### パーソナリティ
 
-  - [仲谷一志](https://ja.wikipedia.org/wiki/仲谷一志 "wikilink")
+  - [仲谷一志](../Page/仲谷一志.md "wikilink")
   - [MIYUKI](../Page/MIYUKI.md "wikilink")
 
 ## 仲谷一志のPOP4
@@ -23,7 +23,7 @@
 ### 番組概要
 
 仲谷一志がメインであることは「POP３」と変わりが無いが、週代わりにサブレギュラーが登場。仲谷とサブレギュラーの2人で番組を進めていく。
-内容は**フリートーク**、**妄想人物辞典**、**今夜のありがたいお言葉**からなり、10月中は2人のトークのみであったが、11月からは視聴者からの投稿参加を受け付けており、番組内で採用された場合は1サプリを進呈。12月16日までにサプリを多く貯めた人には番組からプレゼント、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")を贈呈。[PSPがもらえる](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")2回目は3月31日まで。今回は採用された項目でもらえるサプリ数が異なる。
+内容は**フリートーク**、**妄想人物辞典**、**今夜のありがたいお言葉**からなり、10月中は2人のトークのみであったが、11月からは視聴者からの投稿参加を受け付けており、番組内で採用された場合は1サプリを進呈。12月16日までにサプリを多く貯めた人には番組からプレゼント、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")を贈呈。[PSPがもらえる](../Page/PlayStation_Portable.md "wikilink")2回目は3月31日まで。今回は採用された項目でもらえるサプリ数が異なる。
 
 ### 放送時間
 
@@ -31,7 +31,7 @@
 
 ### パーソナリティ
 
-  - [仲谷一志](https://ja.wikipedia.org/wiki/仲谷一志 "wikilink")
+  - [仲谷一志](../Page/仲谷一志.md "wikilink")
   - [MIYUKI](../Page/MIYUKI.md "wikilink")
   - [英太郎](../Page/英太郎.md "wikilink")
   - [石田一洋](../Page/石田一洋.md "wikilink")
@@ -48,7 +48,7 @@
 
 ### パーソナリティ
 
-  - [仲谷一志](https://ja.wikipedia.org/wiki/仲谷一志 "wikilink")
+  - [仲谷一志](../Page/仲谷一志.md "wikilink")
   - [加藤淳也](https://ja.wikipedia.org/wiki/加藤淳也_\(ローカルタレント\) "wikilink")
   - [あかおかずのり](https://ja.wikipedia.org/wiki/あかおかずのり "wikilink")
 

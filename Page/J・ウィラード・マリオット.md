@@ -1,7 +1,7 @@
 > この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:J_Willard_Marriott.jpg "wikilink") **J・ウィラード・マリオット**（John Willard Marriott、[1900年](../Page/1900年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月13日](../Page/8月13日.md "wikilink")）は、アメリカの[実業家](../Page/実業家.md "wikilink")。**[マリオット・インターナショナル](https://ja.wikipedia.org/wiki/マリオット・インターナショナル "wikilink")**の創業者。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:J_Willard_Marriott.jpg "wikilink") **J・ウィラード・マリオット**（John Willard Marriott、[1900年](../Page/1900年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月13日](../Page/8月13日.md "wikilink")）は、アメリカの[実業家](../Page/実業家.md "wikilink")。**[マリオット・インターナショナル](../Page/マリオット・インターナショナル.md "wikilink")**の創業者。
 
 [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ユタ州](../Page/ユタ州.md "wikilink")[オグデン近郊のマリオット開拓地にて](https://ja.wikipedia.org/wiki/オグデン_\(ユタ州\) "wikilink")、父ハイラム・ウィラード・マリオットと母エレン・モリス・マリオットの間に8人兄弟の2男として生まれる。子供時代は家業の農業を手伝い、子供の頃からビジネスの才能を発揮した。[1919年](../Page/1919年.md "wikilink")から[1921年](../Page/1921年.md "wikilink")までの2年間[末日聖徒イエス・キリスト教会](https://ja.wikipedia.org/wiki/末日聖徒イエス・キリスト教会 "wikilink")の[宣教師](../Page/宣教師.md "wikilink")として[ニューイングランド](../Page/ニューイングランド.md "wikilink")で伝道活動に携わった後、1923年[ウェバー・ジュニアカレッジ](https://ja.wikipedia.org/wiki/ウェバー・ジュニアカレッジ "wikilink")（現：[Weber State University](https://ja.wikipedia.org/wiki/:en:Weber_State_University "wikilink")）卒業、[ユタ大学](../Page/ユタ大学.md "wikilink")を1926年卒業。
 

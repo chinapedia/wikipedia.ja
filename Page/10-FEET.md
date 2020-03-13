@@ -5,7 +5,7 @@
 
 ## 概要
 
-1997年に地元である[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")で結成。ジャンルは主に[パンク・ロック](../Page/パンク・ロック.md "wikilink")に分類されるが、[ミクスチャーナンバーもこなす](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")。京都を代表する夏の大型フェス【[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")】を2007年から主催し、開催された2008年から2017年で10周年を迎え、バンドも20周年を迎えた。
+1997年に地元である[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")で結成。ジャンルは主に[パンク・ロック](../Page/パンク・ロック.md "wikilink")に分類されるが、[ミクスチャーナンバーもこなす](../Page/ミクスチャー・ロック.md "wikilink")。京都を代表する夏の大型フェス【[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")】を2007年から主催し、開催された2008年から2017年で10周年を迎え、バンドも20周年を迎えた。
 
 ## メンバー
 
@@ -13,9 +13,9 @@
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター担当](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")。
     本名は三田村 卓真（みたむら たくま）。「逞（たく）ましく真面目に育つように」と名付けられたそう。
     [京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")・[滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")、下鴨小学校 大津市立皇子山中学校 滋賀県立北大津高校、[大阪経済法科大学](https://ja.wikipedia.org/wiki/大阪経済法科大学 "wikilink")出身。
-    ギターは[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")の[ジェームズ・ヘットフィールドの影響により](../Page/ジェイムズ・ヘットフィールド.md "wikilink")[ギブソン・エクスプローラー](https://ja.wikipedia.org/wiki/ギブソン・エクスプローラー "wikilink")をメインで使用。その他にもギブソン・[SG](https://ja.wikipedia.org/wiki/ギブソン・SG "wikilink")・[RD](../Page/ギブソン・RD.md "wikilink")、[PRS・Custom等を使用する](https://ja.wikipedia.org/wiki/ポールリードスミス・カスタム "wikilink")。
+    ギターは[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")の[ジェームズ・ヘットフィールドの影響により](../Page/ジェイムズ・ヘットフィールド.md "wikilink")[ギブソン・エクスプローラー](https://ja.wikipedia.org/wiki/ギブソン・エクスプローラー "wikilink")をメインで使用。その他にもギブソン・[SG](../Page/ギブソン・SG.md "wikilink")・[RD](../Page/ギブソン・RD.md "wikilink")、[PRS・Custom等を使用する](https://ja.wikipedia.org/wiki/ポールリードスミス・カスタム "wikilink")。
   - **NAOKI**（ナオキ、 -）
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・ボーカル担当。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・ボーカル担当。
     本名は井上 直樹（いのうえ なおき）。[親が好きだった競走馬から名付けられたそう](../Page/ナオキ.md "wikilink")。
     京都府京都市北白川、洛北高校出身。
     ベースは[ギブソン・サンダーバード](../Page/ギブソン・サンダーバード.md "wikilink")、[アーニーボール/ミュージックマン・スティングレイを使用していたが](../Page/ミュージックマン・スティングレイ.md "wikilink")、現在は[バーニー](../Page/バーニー.md "wikilink")のNAOKI ORIGINAL MODELをメインで使用。
@@ -43,7 +43,7 @@
 **2002年**
 
   - 4月12日、1st Album「springman」をリリース。リリース後、初の自身メインのツアーを敢行。
-  - 10月23日、3rd Single「RIVER」をリリース。[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")30位に入る。
+  - 10月23日、3rd Single「RIVER」をリリース。[オリコン](../Page/オリコンチャート.md "wikilink")30位に入る。
   - 11月、東京での3人共同生活を終え、活動拠点を京都に戻す。
 
 **2003年**
@@ -57,7 +57,7 @@
 **2007年**
 
   - 4月25日、9th Single「STONE COLD BREAK」および3rd LIVE DVD「OF THE KIDS, BY THE KIDS, FOR THE KIDS\! III」を同時リリース。5月から全国ツアー『STONE COLD BREAK TOUR 2007〜どうしたい年\!〜』を予定していたが、TAKUMAの喉の不調により全公演延期となる。このことについて、自身はオフィシャルサイトにおいて「必ず2ヶ月で治し、なおかつその2ヶ月間、喉と歌を使わず（話すのは問題なし）治療、作曲、体力、音楽的感性、全てにおいてパワーアップに全身全霊を尽くして最高の10-FEETにして帰ってきます。」とコメント、TAKUMA以外のメンバーたちのコメントも載せられた。
-  - 7月15日、[京都府](../Page/京都府.md "wikilink")[宇治市](../Page/宇治市.md "wikilink")の[太陽が丘で野外フェス](https://ja.wikipedia.org/wiki/京都府立山城総合運動公園 "wikilink")「[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2007〜祇園祭とかぶってごめんな祭〜」を開催予定だったが、[台風4号の接近のため](../Page/平成19年台風第4号.md "wikilink")、「当日のイベント開催時から暴風域に入り、15日の13時に直撃となる」とのことで中止となる。そのため活動再開は2008年1月にずれ込んだ。
+  - 7月15日、[京都府](../Page/京都府.md "wikilink")[宇治市](../Page/宇治市.md "wikilink")の[太陽が丘で野外フェス](../Page/京都府立山城総合運動公園.md "wikilink")「[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2007〜祇園祭とかぶってごめんな祭〜」を開催予定だったが、[台風4号の接近のため](../Page/平成19年台風第4号.md "wikilink")、「当日のイベント開催時から暴風域に入り、15日の13時に直撃となる」とのことで中止となる。そのため活動再開は2008年1月にずれ込んだ。
 
 **2008年**
 
@@ -69,7 +69,7 @@
 
 **2011年**
 
-  - 9月18日、「[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink") 2011」に出演。10-FEETのメンバーは全員[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")を好んでおり、ドラムのKOUICHIは、かつてHi-STANDARDのコピーバンドを組んでいた。また、同年5月に開催された[JAPAN JAMでは](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink")、Hi-STANDARDのメンバーである[難波章浩](../Page/難波章浩.md "wikilink")と共演し、Hi-STANDARDの楽曲を演奏した。
+  - 9月18日、「[AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink") 2011」に出演。10-FEETのメンバーは全員[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")を好んでおり、ドラムのKOUICHIは、かつてHi-STANDARDのコピーバンドを組んでいた。また、同年5月に開催された[JAPAN JAMでは](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink")、Hi-STANDARDのメンバーである[難波章浩](../Page/難波章浩.md "wikilink")と共演し、Hi-STANDARDの楽曲を演奏した。
 
 **2015年**
 
@@ -728,7 +728,7 @@ FOR THE KIDS! V</strong></p></td>
 <li>1sec.</li>
 <li>U</li>
 <li>goes on</li>
-<li>super stomper feat.JESSE（<a href="https://ja.wikipedia.org/wiki/RIZE" title="wikilink">RIZE</a>）</li>
+<li>super stomper feat.JESSE（<a href="../Page/RIZE.md" title="wikilink">RIZE</a>）</li>
 <li>RIVER feat.Kj（Dragon Ash）</li>
 <li>ライオン</li>
 <li>2% feat.湘南乃風</li>
@@ -1027,7 +1027,7 @@ UPJH-9016</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年1月27日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS" title="wikilink">THE BLUE HEARTS</a> コラボレーションアルバム<br />
+<td><p><a href="../Page/THE_BLUE_HEARTS.md" title="wikilink">THE BLUE HEARTS</a> コラボレーションアルバム<br />
 「30th anniversary THE BLUE HEARTS re-mix『re-spect』」</p></td>
 <td><p>MECR-5011<br />
 MECR-4011<br />
@@ -1115,7 +1115,7 @@ MECR-3034</p></td>
   - 2006年 - 『TWISTER』TOUR
   - 2008年 - 10-FEET "VANDALIZE" TOUR 2008"
       -
-        w/[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")/[INSOLENCE](https://ja.wikipedia.org/wiki/インソレンス "wikilink")/[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")
+        w/[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")/[INSOLENCE](https://ja.wikipedia.org/wiki/インソレンス "wikilink")/[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")
   - 2009年-2010年 - Life is sweet tour 2009-2010
       -
         w/FIRE-EX/RUX/SERVICE ACE/[coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink")/[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")/[LAST ALLIANCE](../Page/LAST_ALLIANCE.md "wikilink")/THE TRUST BLAST/[B-DASH](../Page/B-DASH.md "wikilink")/[G-FREAK FACTORY](../Page/G-FREAK_FACTORY.md "wikilink")/[STOMPIN'BIRD](https://ja.wikipedia.org/wiki/STOMPIN'BIRD "wikilink")/tick/[LINDBERG](../Page/LINDBERG.md "wikilink")/[INFINITY16](https://ja.wikipedia.org/wiki/INFINITY16 "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")/[RAZORS EDGE](https://ja.wikipedia.org/wiki/RAZORS_EDGE "wikilink")/OVERHEADKiNG/[9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")/[UZUMAKI](https://ja.wikipedia.org/wiki/UZUMAKI "wikilink")/[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/NO SWEAT REWORLD/[GOOD4NOTHING](../Page/GOOD4NOTHING.md "wikilink")/Before Christ Butterfly/[Scars Borough](https://ja.wikipedia.org/wiki/Scars_Borough "wikilink")/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[山嵐](../Page/山嵐_\(バンド\).md "wikilink")/DOLCE/[MEANING](https://ja.wikipedia.org/wiki/MEANING "wikilink")
@@ -1130,7 +1130,7 @@ MECR-3034</p></td>
         w/[MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")
   - 2011年 - 10-FEET "その向こうへ" TOUR 2011
       -
-        w/[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")/dustbox/FUNKIST/TOTALFAT/[LOW IQ 01](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink") & THE RHYTHM MAKERS+/MAN WITH A MISSION/[FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")/9mm Parabellum Bullet/HEY-SMITH/[RHYMESTAR](https://ja.wikipedia.org/wiki/RHYMESTAR "wikilink")/[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")/マキシマム ザ ホルモン
+        w/[BRAHMAN](../Page/BRAHMAN.md "wikilink")/dustbox/FUNKIST/TOTALFAT/[LOW IQ 01](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink") & THE RHYTHM MAKERS+/MAN WITH A MISSION/[FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")/9mm Parabellum Bullet/HEY-SMITH/[RHYMESTAR](https://ja.wikipedia.org/wiki/RHYMESTAR "wikilink")/[サンボマスター](../Page/サンボマスター.md "wikilink")/マキシマム ザ ホルモン
   - 2012年 - 10-FEET "どこ行く年\!どないすん年\!" TOUR 2012
       -
         w/HEY-SMITH/ROTTENGRAFFTY/coldrain/G-FREAK FACTORY
@@ -1157,7 +1157,7 @@ MECR-3034</p></td>
         w/SUPER BEAVER/GOOD4NOTHING/NUBO/[ヤバイTシャツ屋さん](https://ja.wikipedia.org/wiki/ヤバイTシャツ屋さん "wikilink")/SHIMA/[Dizzy Sunfist](https://ja.wikipedia.org/wiki/Dizzy_Sunfist "wikilink")/dustbox/[My Hair is Bad](https://ja.wikipedia.org/wiki/My_Hair_is_Bad "wikilink")/[夜の本気ダンス](https://ja.wikipedia.org/wiki/夜の本気ダンス "wikilink")/HEY-SMITH/[KEYTALK](https://ja.wikipedia.org/wiki/KEYTALK "wikilink")/[MONGOL800](../Page/MONGOL800.md "wikilink")/[竹原ピストル](https://ja.wikipedia.org/wiki/竹原ピストル "wikilink")
   - 2017年10月31日〜2018年6月11日 - 10-FEET "Fin" TOUR 2017-2018
       -
-        w/[藍坊主](https://ja.wikipedia.org/wiki/藍坊主 "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[POT](https://ja.wikipedia.org/wiki/POT "wikilink")/[ヤバイTシャツ屋さん](https://ja.wikipedia.org/wiki/ヤバイTシャツ屋さん "wikilink")/[Age Factory](https://ja.wikipedia.org/wiki/Age_Factory "wikilink")/[ENTH](https://ja.wikipedia.org/wiki/ENTH "wikilink")/[WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")/THE SKIPPERS/[THE冠](https://ja.wikipedia.org/wiki/THE冠 "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")/[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")/[四星球](../Page/四星球.md "wikilink")/[SUPER BEAVER](https://ja.wikipedia.org/wiki/SUPER_BEAVER "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[Crystal Lake](https://ja.wikipedia.org/wiki/Crystal_Lake "wikilink")/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")
+        w/[藍坊主](../Page/藍坊主.md "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[POT](https://ja.wikipedia.org/wiki/POT "wikilink")/[ヤバイTシャツ屋さん](https://ja.wikipedia.org/wiki/ヤバイTシャツ屋さん "wikilink")/[Age Factory](https://ja.wikipedia.org/wiki/Age_Factory "wikilink")/[ENTH](https://ja.wikipedia.org/wiki/ENTH "wikilink")/[WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")/THE SKIPPERS/[THE冠](https://ja.wikipedia.org/wiki/THE冠 "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")/[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")/[四星球](../Page/四星球.md "wikilink")/[SUPER BEAVER](https://ja.wikipedia.org/wiki/SUPER_BEAVER "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[Crystal Lake](https://ja.wikipedia.org/wiki/Crystal_Lake "wikilink")/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")
 
 ### 主催フェス
 
@@ -1194,7 +1194,7 @@ MECR-3034</p></td>
 
 <div class="NavHead" style="text-align: center;">
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+[2005年](../Page/2005年.md "wikilink")
 
 </div>
 
@@ -1319,7 +1319,7 @@ MECR-3034</p></td>
   - 2010年07月10日・11日 - 京都大作戦2010〜今年も子供に戻りな祭〜
   - 2010年07月17日 - KESEN ROCK FESTIVAL'10
   - 2010年07月18日 - [JOIN ALIVE](https://ja.wikipedia.org/wiki/JOIN_ALIVE "wikilink") 2010
-  - 2010年07月21日 - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") presents GG10
+  - 2010年07月21日 - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink") presents GG10
   - 2010年07月24日 - [HIGHER GROUND](https://ja.wikipedia.org/wiki/HIGHER_GROUND "wikilink") 2010
   - 2010年08月04日 - [coldrain](https://ja.wikipedia.org/wiki/coldrain "wikilink") Nothing lasts forever Tour 2010 モルタルプレゼンツ 夏休みもLIVEHOUSEで〜2010〜
   - 2010年08月06日 - ROCK IN JAPAN FESTIVAL 2010
@@ -1357,7 +1357,7 @@ MECR-3034</p></td>
   - 2011年09月18日 - [AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink") 2011
   - 2011年09月23日 - [京都音楽博覧会](../Page/京都音楽博覧会.md "wikilink")2011
   - 2011年09月24日 - GG11 -GG 10th Anniversary-
-  - 2011年10月31日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") 2011 TOUR「霹靂」
+  - 2011年10月31日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") 2011 TOUR「霹靂」
   - 2011年12月14日 - 極東ROCK'N'ROLL HIGH SCHOOL 「大きなフィートの木の下で」
 
 </div>
@@ -1441,7 +1441,7 @@ MECR-3034</p></td>
   - 2013年09月01日 - FREEDOM aozora 2013 淡路島
   - 2013年09月07日 - FREEDOM aozora 2013 九州
   - 2013年09月21日 - GUNMA ROCK FESTIVAL 2013
-  - 2013年09月29日 - 男どアホウ [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")
+  - 2013年09月29日 - 男どアホウ [サンボマスター](../Page/サンボマスター.md "wikilink")
   - 2013年10月25日 - BOROFESTA 2013
   - 2013年10月27日 - [TOWER RECORDS](https://ja.wikipedia.org/wiki/TOWER_RECORDS "wikilink") presents Bowline 2013
   - 2013年10月29日 - [HAKAIHAYABUSA](https://ja.wikipedia.org/wiki/HAKAIHAYABUSA "wikilink") presents "三都物語 〜渋ロック編〜"
@@ -1668,7 +1668,7 @@ MECR-3034</p></td>
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - 2018年3月17日 - [BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink") Tour 2018 梵匿 -bonnoku-
+  - 2018年3月17日 - [BRAHMAN](../Page/BRAHMAN.md "wikilink") Tour 2018 梵匿 -bonnoku-
   - 2018年5月4日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink")2018
   - 2018年5月5日 - [VIVA LA ROCK](https://ja.wikipedia.org/wiki/VIVA_LA_ROCK "wikilink") 2018
   - 2018年6月2日 - 百万石音楽祭 2018〜ミリオンロックフェスティバル
@@ -1724,23 +1724,23 @@ MECR-3034</p></td>
 
 ### CM
 
-  - [はごろもフーズ](../Page/はごろもフーズ.md "wikilink")「[シーチキン](https://ja.wikipedia.org/wiki/シーチキン "wikilink")」シーチキン食堂篇（TAKUMAのみ）
+  - [はごろもフーズ](../Page/はごろもフーズ.md "wikilink")「[シーチキン](../Page/シーチキン.md "wikilink")」シーチキン食堂篇（TAKUMAのみ）
 
 <!-- end list -->
 
   -
-    監督の[箭内道彦](../Page/箭内道彦.md "wikilink")の誘いで出演。[宮﨑あおい](https://ja.wikipedia.org/wiki/宮﨑あおい "wikilink")、TOSHI-LOW（[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")）、松田晋二（[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")）らと共演し、シーチキン兄弟として[風とロック芋煮会](https://ja.wikipedia.org/wiki/風とロック芋煮会 "wikilink")などのフェスにも出演。
+    監督の[箭内道彦](../Page/箭内道彦.md "wikilink")の誘いで出演。[宮﨑あおい](https://ja.wikipedia.org/wiki/宮﨑あおい "wikilink")、TOSHI-LOW（[BRAHMAN](../Page/BRAHMAN.md "wikilink")）、松田晋二（[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")）らと共演し、シーチキン兄弟として[風とロック芋煮会](https://ja.wikipedia.org/wiki/風とロック芋煮会 "wikilink")などのフェスにも出演。
 
 ## エピソードなど
 
-  - バンド名は当初、「スケールでかい名前がええな」と話し合い、河原町丸太町の[びっくりドンキー](https://ja.wikipedia.org/wiki/びっくりドンキー "wikilink")における話し合いで出てきたのが「1000-FEET（センフィート）」だった。しかし、後日メンバーで話しあったところ、「ダサない?1000（セン・千）って日本語もどうなんや?これ、間違って“ワンサウザンドフィート”とか呼ばれへんか?」となり、近しいところで「10-FEET（テンフィート）」になった。ちょうど、バスケットボールのゴールの高さであるおよそ3メートル、ジャンプしても「届きそうで届かない距離」（10[フィート](../Page/フィート.md "wikilink")＝約3[メートル](../Page/メートル.md "wikilink")）の意味\[9\]。
+  - バンド名は当初、「スケールでかい名前がええな」と話し合い、河原町丸太町の[びっくりドンキー](../Page/びっくりドンキー.md "wikilink")における話し合いで出てきたのが「1000-FEET（センフィート）」だった。しかし、後日メンバーで話しあったところ、「ダサない?1000（セン・千）って日本語もどうなんや?これ、間違って“ワンサウザンドフィート”とか呼ばれへんか?」となり、近しいところで「10-FEET（テンフィート）」になった。ちょうど、バスケットボールのゴールの高さであるおよそ3メートル、ジャンプしても「届きそうで届かない距離」（10[フィート](../Page/フィート.md "wikilink")＝約3[メートル](../Page/メートル.md "wikilink")）の意味\[9\]。
   - 10-FEET結成前、KOUICHIは保父(保育士)になるという目標の為、バンドや音楽活動を止めるため自身の持っていたドラムの機材を全て売り払っていたが、TAKUMAが丸山書店で2980円で購入した遊歩人というウォークマンで『アポンチュ』という曲の入ったデモテープを2人に聴かされ、「やるわ」と二つ返事で10-FEETへ参加した\[10\]。
   - TAKUMAは幼少期、団地の友人に毎日MEGADETHのボーカル デイヴムステインのモノマネをさせられていた。METALLICAからも影響を受け、元々ドラマーで、LUNA SEAのコピーもしていた。ボーカルもしていたが、バンドが3ピース編成になったところ、ギターボーカルとしてやっていくことになった。当時のことを振り返り、「初期のライブは酷すぎて最近観ても笑えもしない」と語っている。ライブ中、MCでも「ギター募集」「助けてください」などと言っていた。1stマキシシングルではギターの弦はへヴィメタルで多用される3本ほどしか弾いておらず、フルアルバム『springman』の時からちゃんとしたオープンコードを押さえ始めたという。『springman』は「逆境を跳ね返す」という意味が込められている\[11\]。
   - 10-FEET結成以前にはTAKUMAはFLAME、ビグザム、ドラミ、ワロップ、NAOKIはシム・プレート、KOUICHIはモンスペというバンドで活動していた\[12\]。
   - TAKUMAは自動二輪の免許は所持しているが、普通免許を所持しておらず、デビュー当初は機材車の運転はNAOKI、KOUICHI、マネージャーのmasaで行なっていた（月刊GiGS.256）。NAOKIはフォークリフトの免許を持っている。
   - 『REALIFE』ツアーではKOUICHIは腱鞘炎を患い、全56本中、頭の28本を欠席した。そのツアーで販売されたツアーTシャツには「北斗腱鞘炎」となぞらえて北斗の拳の有名なセリフと、北斗七星がプリントされている（10-FEET styles、別冊カドカワ699）。
   - アルバム『TWISTER』には『NO WAY』(原曲は『under the chime』)『NICK JAGGER』など結成当初の曲も含まれている。『NICK JAGGER』はTAKUMAが初めて日本語で詞を書いた曲。『TWISTER』には「ひねくれ者」「こじつけ」「不正直」という意味が込められている（INDIES ROCK MAGAZINE NO.17）。
-  - 特に仲が良いバンドは[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")と[ロットングラフティー](https://ja.wikipedia.org/wiki/ロットングラフティー "wikilink")であると10-FEETのメンバーは語っている。[ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink")については、その中でも[細美武士](../Page/細美武士.md "wikilink")とは昔からの仲だとGIGSで語っている。[ロットングラフティー](https://ja.wikipedia.org/wiki/ロットングラフティー "wikilink")とは、同じ京都のバンドであり、プライベートまで一緒に過ごす仲でお互いの秘話や愚痴をラジオ、ライブで公言することが多々ある。
+  - 特に仲が良いバンドは[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")と[ロットングラフティー](https://ja.wikipedia.org/wiki/ロットングラフティー "wikilink")であると10-FEETのメンバーは語っている。[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")については、その中でも[細美武士](../Page/細美武士.md "wikilink")とは昔からの仲だとGIGSで語っている。[ロットングラフティー](https://ja.wikipedia.org/wiki/ロットングラフティー "wikilink")とは、同じ京都のバンドであり、プライベートまで一緒に過ごす仲でお互いの秘話や愚痴をラジオ、ライブで公言することが多々ある。
   - 3人揃って京都在住である。東京にも2年程住んでいたが、レコーディングとツアーばかりの生活が続き、「これなら京都でも出来る」と思い帰る事にしたと話している\[13\]。ほとんどのツアーの千秋楽も京都で行っている。
   - ライブでの登場SEはデビュー当初から「そして伝説へ」（「[ドラゴンクエストIII そして伝説へ…](../Page/ドラゴンクエストIII_そして伝説へ….md "wikilink")」より）。観客がタオルを広げ高く掲げて登場を待つのが恒例となっている。
   - 『アンテナラスト』はTAKUMAの亡くなった祖母への曲、『SEE YOU』は亡くなった祖父への曲である（別冊カドカワ699、10-FEET STYLES）。

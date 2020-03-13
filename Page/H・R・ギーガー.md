@@ -17,7 +17,7 @@
 
 ## 作品の傾向
 
-[モノトーン](https://ja.wikipedia.org/wiki/モノトーン "wikilink")で陰影の強い、「[グロテスク](https://ja.wikipedia.org/wiki/グロテスク "wikilink")なイメージの絵」を描くことで知られる。
+[モノトーン](https://ja.wikipedia.org/wiki/モノトーン "wikilink")で陰影の強い、「[グロテスク](../Page/グロテスク.md "wikilink")なイメージの絵」を描くことで知られる。
 
 [頭骨](https://ja.wikipedia.org/wiki/頭骨 "wikilink")や[脊椎](../Page/脊椎.md "wikilink")などの人間の肉体のパーツと、じゃばら状のチューブなど機械的造形とを融合して構成された、「バイオメカノイド(biomechanoid)、バイオメカニカル(biomechanical)」と呼ぶスタイルの作品が多い。また、しばしば人間の[性器](../Page/性器.md "wikilink")をモチーフにしている。映画『エイリアン』のデザインに関しても、エイリアンの成体およびチェストバスター（幼体）の頭部は[陰茎](../Page/陰茎.md "wikilink")を、フェイスハガーの下の面は女性の外陰部をモチーフとしている。エイリアンの卵も女性器を想像させる一本の筋が入った形状のものがオリジナルのデザインであったが、それが原因で映画が上映禁止に指定されないように、十字の形状をしたものにデザインが変更されている。[1973年](../Page/1973年.md "wikilink")に発表した、結合した男女の性器が交互に配置されている（その中の男性器のひとつには[コンドーム](../Page/コンドーム.md "wikilink")が装着されている）作品「[Landscape XX](https://ja.wikipedia.org/wiki/:en:Penis_Landscape "wikilink")」は、当時[わいせつ](../Page/わいせつ.md "wikilink")性の有無が議論になった。
 
@@ -27,7 +27,7 @@
 
 ## 映画
 
-1975年、[アレハンドロ・ホドロフスキー](https://ja.wikipedia.org/wiki/アレハンドロ・ホドロフスキー "wikilink") 監督によるSF大作『[デューン](https://ja.wikipedia.org/wiki/デューン_\(小説\) "wikilink")』の映画化において「ハルコンネン男爵の城」のデザイン担当として起用され、映画界に関わる。制作中止となった同映画のスタッフが多数関わった『[エイリアン](../Page/エイリアン_\(映画\).md "wikilink")』のデザイナーとして有名であり、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")の[アカデミー賞](../Page/アカデミー賞.md "wikilink")において[視覚効果賞を受賞した](../Page/アカデミー視覚効果賞.md "wikilink")。
+1975年、[アレハンドロ・ホドロフスキー](../Page/アレハンドロ・ホドロフスキー.md "wikilink") 監督によるSF大作『[デューン](../Page/デューン_\(小説\).md "wikilink")』の映画化において「ハルコンネン男爵の城」のデザイン担当として起用され、映画界に関わる。制作中止となった同映画のスタッフが多数関わった『[エイリアン](../Page/エイリアン_\(映画\).md "wikilink")』のデザイナーとして有名であり、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")の[アカデミー賞](../Page/アカデミー賞.md "wikilink")において[視覚効果賞を受賞した](../Page/アカデミー視覚効果賞.md "wikilink")。
 
 映画のデザインでは他にも『[スピーシーズ 種の起源](../Page/スピーシーズ_種の起源.md "wikilink")』『[キラー・コンドーム](https://ja.wikipedia.org/wiki/キラー・コンドーム "wikilink")』『[帝都物語](../Page/帝都物語.md "wikilink")』などを手掛けている。
 
@@ -37,9 +37,9 @@
 
 [ロックでは](../Page/ロック_\(音楽\).md "wikilink")、[1973年](../Page/1973年.md "wikilink")[11月](../Page/11月.md "wikilink")にリリースされた[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")(ELP)の『[恐怖の頭脳改革](../Page/恐怖の頭脳改革.md "wikilink")』で、アルバム・[カバーアート](https://ja.wikipedia.org/wiki/カバーアート "wikilink")の原画を担当した。このアルバムがELPの本国[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")、そして[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")など、世界的にヒットしたため、『エイリアン』で知名度が上がる以前から注目されていた。フランスのバンドである[マグマのアルバム](../Page/マグマ_\(バンド\).md "wikilink")『Attahk』のジャケットでも知られており、ギーガー自身もマグマの音楽性を高く評価している\[7\]。
 
-その『恐怖の頭脳改革』で使用されたジャケット及びインナーの原画二枚は、[プラハ](../Page/プラハ.md "wikilink")でギーガーの個展が開催された会期中の[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月5日に盗難に遭い、未だ所在不明のままとなっている。ギーガーの公式ホームページでは高額の[懸賞金](https://ja.wikipedia.org/wiki/懸賞金 "wikilink")を提示して、情報の提供と捜索・発見を呼び掛けている。
+その『恐怖の頭脳改革』で使用されたジャケット及びインナーの原画二枚は、[プラハ](../Page/プラハ.md "wikilink")でギーガーの個展が開催された会期中の[2005年](../Page/2005年.md "wikilink")11月5日に盗難に遭い、未だ所在不明のままとなっている。ギーガーの公式ホームページでは高額の[懸賞金](https://ja.wikipedia.org/wiki/懸賞金 "wikilink")を提示して、情報の提供と捜索・発見を呼び掛けている。
 
-米メタルバンド「[KoRn](https://ja.wikipedia.org/wiki/コーン_\(バンド\) "wikilink")」のヴォーカルであるジョナサン・デイヴィス等の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")系アーティストとの親交も深く、ジョナサン・デイヴィスがステージで使用するマイクスタンドの製作なども行っている。
+米メタルバンド「[KoRn](../Page/コーン_\(バンド\).md "wikilink")」のヴォーカルであるジョナサン・デイヴィス等の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")系アーティストとの親交も深く、ジョナサン・デイヴィスがステージで使用するマイクスタンドの製作なども行っている。
 
 地元スイスのグループでは、プログレッシブ・バンド「[アイランド](https://ja.wikipedia.org/wiki/アイランド_\(バンド\) "wikilink")」のアルバム・ジャケットに提供している。また特に、同郷のミュージシャン トム・G・フィッシャーとは友人で、彼が率いるエクストリーム・メタルバンド「[セルティック・フロスト](https://ja.wikipedia.org/wiki/セルティック・フロスト "wikilink")」や「[トリプティコン](https://ja.wikipedia.org/wiki/トリプティコン "wikilink")」にも提供している他、ギーガーの本拠地に開設されている自身の作品を常設展示している「ギーガー・ミュージアム」には、そのトムが自身の音楽活動の一方で[司書](../Page/司書.md "wikilink")として勤務している。プライベートでも親交が深く、作品に対しての造詣も深かったことからギーガー本人から招かれたとトムは語っている。
 
@@ -47,7 +47,7 @@
 
 ### コンピューターゲーム
 
-[1988年](../Page/1988年.md "wikilink")に[PCエンジン](../Page/PCエンジン.md "wikilink")向けに発売された[ハドソン](../Page/ハドソン.md "wikilink")『[邪聖剣ネクロマンサー](https://ja.wikipedia.org/wiki/邪聖剣ネクロマンサー "wikilink")』では、パッケージ等に剣を咥えている[骸骨](../Page/骸骨.md "wikilink")のイラストが使用されている。ただし本作のための描き下ろしではなく、先に発表された画集『Spell3』に収録のイラストをパッケージ用として許諾を受け使用したものである。なお、使用されているのはPCエンジン版のみである。
+[1988年](../Page/1988年.md "wikilink")に[PCエンジン](../Page/PCエンジン.md "wikilink")向けに発売された[ハドソン](../Page/ハドソン.md "wikilink")『[邪聖剣ネクロマンサー](../Page/邪聖剣ネクロマンサー.md "wikilink")』では、パッケージ等に剣を咥えている[骸骨](../Page/骸骨.md "wikilink")のイラストが使用されている。ただし本作のための描き下ろしではなく、先に発表された画集『Spell3』に収録のイラストをパッケージ用として許諾を受け使用したものである。なお、使用されているのはPCエンジン版のみである。
 
 [1992年](../Page/1992年.md "wikilink")に[アミーガ](https://ja.wikipedia.org/wiki/アミーガ "wikilink")向けに発売（日本では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[セガサターン](../Page/セガサターン.md "wikilink")・[プレイステーション](../Page/PlayStation_\(ゲーム機\).md "wikilink")）されたゲーム『[ダークシード](../Page/ダークシード.md "wikilink")』と、その続編にあたる『ダークシードII』ではキャラクターデザインを担当した。
 
@@ -61,7 +61,7 @@
 
 日本のプロップレプリカ専業メーカー「ハリウッドコレクターズギャラリー」の依頼で、スケールダウンされた「GIGER'S ALIEN」、「GIGER'S BACKSCRATCHER(孫の手）」、また同じくスケールダウンされた「HAKONNEN FURNITURE」他が限定販売された。また同社の企画立案により、メディコムトイ社のベアブリックのデザインも手掛けている。
 
-<File:Giger> 3 131116.jpg|[ハドソン](../Page/ハドソン.md "wikilink")『[邪聖剣ネクロマンサー](https://ja.wikipedia.org/wiki/邪聖剣ネクロマンサー "wikilink")』に提供した作品 <File:Giger> gitarren.jpg|[星野楽器](../Page/星野楽器.md "wikilink")『[アイバニーズ](../Page/アイバニーズ.md "wikilink")』とのコラボ作品
+<File:Giger> 3 131116.jpg|[ハドソン](../Page/ハドソン.md "wikilink")『[邪聖剣ネクロマンサー](../Page/邪聖剣ネクロマンサー.md "wikilink")』に提供した作品 <File:Giger> gitarren.jpg|[星野楽器](../Page/星野楽器.md "wikilink")『[アイバニーズ](../Page/アイバニーズ.md "wikilink")』とのコラボ作品
 
 ## 評価
 
@@ -93,7 +93,7 @@
 \-はデザイン
 
   - 『[Swiss Made 2069](https://ja.wikipedia.org/wiki/:de:Swiss_Made_2069 "wikilink")』（1968年）
-  - 『DUNE』（1970年代中頃）- [アレハンドロ・ホドロフスキー](https://ja.wikipedia.org/wiki/アレハンドロ・ホドロフスキー "wikilink")監督の企画でデザイナーとして参加したが制作中止となった。顛末はドキュメンタリー映画『[ホドロフスキーのDUNE](https://ja.wikipedia.org/wiki/ホドロフスキーのDUNE "wikilink")』に詳しい（ギーガーへのインタビューも登場する）。
+  - 『DUNE』（1970年代中頃）- [アレハンドロ・ホドロフスキー](../Page/アレハンドロ・ホドロフスキー.md "wikilink")監督の企画でデザイナーとして参加したが制作中止となった。顛末はドキュメンタリー映画『[ホドロフスキーのDUNE](https://ja.wikipedia.org/wiki/ホドロフスキーのDUNE "wikilink")』に詳しい（ギーガーへのインタビューも登場する）。
   - エイリアン・シリーズ
 
 <!-- end list -->

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月18日](../Page/10月18日.md "wikilink")に[やらせ](../Page/やらせ.md "wikilink")[リンチ](https://ja.wikipedia.org/wiki/リンチ "wikilink")事件の責任で終了した『[アフタヌーンショー](../Page/アフタヌーンショー.md "wikilink")』の後を引き継ぐ形で、同年[11月4日](../Page/11月4日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで月曜日から金曜日の12:00～12:55に放送された（一部[クロスネット地域は](../Page/クロスネット局.md "wikilink")14:00～14:55、または15:00～15:55）。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月18日](../Page/10月18日.md "wikilink")に[やらせ](../Page/やらせ.md "wikilink")[リンチ](../Page/リンチ.md "wikilink")事件の責任で終了した『[アフタヌーンショー](../Page/アフタヌーンショー.md "wikilink")』の後を引き継ぐ形で、同年[11月4日](../Page/11月4日.md "wikilink")から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで月曜日から金曜日の12:00～12:55に放送された（一部[クロスネット地域は](../Page/クロスネット局.md "wikilink")14:00～14:55、または15:00～15:55）。
 
 司会は、テレビ朝日アナウンサー（当時）の[渡辺宜嗣](../Page/渡辺宜嗣.md "wikilink")他。渡辺は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")9月まで、『[トゥナイト](../Page/トゥナイト_\(テレビ番組\).md "wikilink")』でリポーターとして出演し、同年10月から、『[ニュースステーション](../Page/ニュースステーション.md "wikilink")』のリポーターにも起用されたが、『アフタヌーンショー』で起こったやらせリンチ事件が影響し、その後を埋めた形で司会抜擢された。テレビ朝日系列以外でも放送されていたため、渡辺が全国的に知られるきっかけともなった。
 
@@ -18,7 +18,7 @@
   - サブ司会
       - [岸ユキ](https://ja.wikipedia.org/wiki/岸ユキ "wikilink")（月 - 木曜）
       - [榊原るみ](../Page/榊原るみ.md "wikilink")（金曜）
-      - [細川隆一郎](https://ja.wikipedia.org/wiki/細川隆一郎 "wikilink")
+      - [細川隆一郎](../Page/細川隆一郎.md "wikilink")
 
 ## ネット局
 
@@ -222,7 +222,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a><br />
 （KBC）</p></td>
 <td><p>テレビ朝日系列</p></td>
@@ -273,7 +273,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a><br />
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a><br />
 （RBC）</p></td>
 <td><p>TBS系列</p></td>
 <td><p>遅れネット</p></td>

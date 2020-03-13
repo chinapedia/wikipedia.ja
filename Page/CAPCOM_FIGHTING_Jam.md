@@ -3,7 +3,7 @@
 
 『**CAPCOM FIGHTING Jam**』（カプコン ファイティング ジャム）は、[カプコン](../Page/カプコン.md "wikilink")が[2004年](../Page/2004年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")に開発・発売した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。日本国外版の名称は、『**Capcom Fighting Evolution**』。
 
-[アーケード](https://ja.wikipedia.org/wiki/アーケード "wikilink")版のシステム基板は、[PlayStation 2をベースとした](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[SYSTEM246](../Page/SYSTEM246.md "wikilink")が使われている。家庭用ゲーム機移植として[2004年](../Page/2004年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")にPS2版が、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に[Xbox版が発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。また、[2012年](../Page/2012年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")から[PS2アーカイブスとして](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")[Playstation@Storeでの配信が開始された](../Page/PlayStation_Store.md "wikilink")。
+[アーケード](https://ja.wikipedia.org/wiki/アーケード "wikilink")版のシステム基板は、[PlayStation 2をベースとした](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[SYSTEM246](../Page/SYSTEM246.md "wikilink")が使われている。家庭用ゲーム機移植として[2004年](../Page/2004年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")にPS2版が、[2005年](../Page/2005年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に[Xbox版が発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。また、[2012年](../Page/2012年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")から[PS2アーカイブスとして](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")[Playstation@Storeでの配信が開始された](../Page/PlayStation_Store.md "wikilink")。
 
 ## 概要
 
@@ -33,7 +33,7 @@
 
   - [リュウ](../Page/リュウ_\(ストリートファイター\).md "wikilink")（RYU）
     [声](../Page/声優.md "wikilink")：[森川智之](../Page/森川智之.md "wikilink")
-    グラフィックは『[CAPCOM VS. SNK](https://ja.wikipedia.org/wiki/CAPCOM_VS._SNK "wikilink")』（以下『カプエス』と表記）シリーズの時のもの。『ストリートファイターIII』（以下『ストIII』と表記）シリーズからのスーパーアーツ「真・昇龍拳」が使用可能。
+    グラフィックは『[CAPCOM VS. SNK](../Page/CAPCOM_VS._SNK.md "wikilink")』（以下『カプエス』と表記）シリーズの時のもの。『ストリートファイターIII』（以下『ストIII』と表記）シリーズからのスーパーアーツ「真・昇龍拳」が使用可能。
   - [ガイル](../Page/ガイル_\(ストリートファイター\).md "wikilink")（GUILE）
     声：[石塚運昇](../Page/石塚運昇.md "wikilink")
     グラフィックは『ZERO3』のものと同じ。スーパーコンボが「ダブルサマーソルト」ではなく、「トータルワイプアウト」と「サマーソルトストライク」になっている。
@@ -57,7 +57,7 @@
     声：[荒木香恵](../Page/荒木香衣.md "wikilink")
     「キャットクリンチ」と「ヘッドライド」が使用できなくなっている。
   - [アナカリス](../Page/アナカリス_\(ヴァンパイア\).md "wikilink")（ANAKARIS）
-    声：[徳丸完](https://ja.wikipedia.org/wiki/徳丸完 "wikilink")
+    声：[徳丸完](../Page/徳丸完.md "wikilink")
     必殺技の「言霊返し」と「咎めの穴」が使用できなくなっている。また、「王家の裁き」を相手に当てると、『ヴァンパイア』シリーズ以外のキャラクターも個別に用意されたグラフィックに変わる。
   - [ジェダ](../Page/ジェダ・ドーマ.md "wikilink")（JEDAH）
     声：[千葉一伸](../Page/千葉一伸.md "wikilink")
@@ -69,7 +69,7 @@
 
 詳しくは、[ストリートファイターIII参照](https://ja.wikipedia.org/wiki/ストリートファイターIII#ゲームシステム "wikilink")。
 
-  - [アレックス](https://ja.wikipedia.org/wiki/アレックス_\(ストリートファイター\) "wikilink")（ALEX）
+  - [アレックス](../Page/アレックス_\(ストリートファイター\).md "wikilink")（ALEX）
     声：Patrick Gallagan
     「スパイラルDDT」は使用できなくなった。また、中・大「フラッシュチョップ」の振り返りダメージからの「パワーボム」および「ハイパーボム」への連係が、「フラッシュチョップ」のキャンセルからでなければ繋がらなくなっている。
   - [ユン](../Page/ユン_\(ストリートファイター\).md "wikilink")（YUN）
@@ -94,12 +94,12 @@
     声：[郷里大輔](../Page/郷里大輔.md "wikilink")
     「武器の持ち替え」がなくなり、「マーズスラッシュ」とミスティックブレイク時に持っている剣のグラフィックが変化する。ミスティックブレイクの「ギガス・ドライバー」がLV2から使用可能になる。「クロノスラッシュ」と「アキレスラッシュ」の最後のきめの剣を横に振る一撃が、該当するパンチ・キックのボタンを2ボタン同時押しで発動するように変化している。
   - ムクロ（MUKURO）
-    声：[岸野幸正](https://ja.wikipedia.org/wiki/岸野幸正 "wikilink")
+    声：[岸野幸正](../Page/岸野幸正.md "wikilink")
     「閻魔突き」と「爆流昇」がミスティックブレイクとして扱われ、「焔旋風」が削除されている。「爆流昇」はLV2、「閻魔突き」はLV3から使用可能。「蜻蛉」後に、原作では特殊技扱いになっていた技が、派生技として可能になっている。
   - ハウザー（HAUZER）
     本来、常時[スーパーアーマー](../Page/スーパーアーマー.md "wikilink")状態でガードとジャンプが不可能なキャラクターだった。本作ではガードとジャンプが可能になっている。また、バーサーク化も削除、飛び道具「ヴォルカノブレス」は着弾時に火柱が立たなくなり、「テアメサカー」はダウン追撃攻撃となった。「ガストフレイム」がミスティックブレイクになっており、「テンペストキャッチ」は上昇攻撃のみの「テンペストフォール」となり、技そのものは新規追加のミスティックブレイク「デリュージュクライシス」のフィニッシュにのみ使用される。「ガストフレイム」は、LV2から使用可能で発動時の隙が大幅に短くなっている。
   - ヌール（NOOL）
-    声：[細井治](https://ja.wikipedia.org/wiki/細井治 "wikilink")
+    声：[細井治](../Page/細井治.md "wikilink")
     相手の体力を吸い取る必殺技「ヴァイタルサッカー」が使用できなくなっている。「ライトニングマスト」と「ストラングルスパーク」はミスティックブレイク扱いで、後者はLV2から使用可能。
 
 ### 『ストリートファイターZERO』シリーズ
@@ -124,7 +124,7 @@
 ### オリジナルキャラクター
 
   - [イングリッド](../Page/イングリッド_\(カプコン\).md "wikilink")（INGRID）
-    声：[城雅子](https://ja.wikipedia.org/wiki/城雅子 "wikilink")
+    声：[城雅子](../Page/城雅子.md "wikilink")
     ノーコンティニューかつ、スーパーコンボなどのゲージを使用する技でのフィニッシュ2回以上という条件を満たすと、ステージ3の直後に乱入してくる。この際のステージBGMは専用のもので、久保麻衣子が唄う歌「陽炎」。この曲はサウンドトラックにの初回限定版ディスクに収録されている。
     ゲージはイングリッド独自のものになり、本数は『ZERO』シリーズのもの（あるいは『カプエス2』のCグルーヴ）と同様で3本まで。しかし、スーパーアーツは各レベルに対応しているものがそれぞれ用意されている。
     正確に言えばイングリッドはこのゲームオリジナルのキャラクターではなく、元は開発中止となった3D対戦型格闘ゲーム『CAPCOM FIGHTING ALL STARS』\[3\]のために作られたキャラクターであり、搭載システムにも同作の名残がある。詳しくは[イングリッド (カプコン)\#登場までの経緯を参照](https://ja.wikipedia.org/wiki/イングリッド_\(カプコン\)#登場までの経緯 "wikilink")。
@@ -144,11 +144,11 @@
 ## ステージ
 
   - Myanmar（ミャンマー）
-    [ミャンマー](../Page/ミャンマー.md "wikilink")の山中。背後に[ヒマラヤ山脈](../Page/ヒマラヤ山脈.md "wikilink")と長い石段がある。座禅を組んで浮遊している[ダルシム](../Page/ダルシム.md "wikilink")、仁王立ちしている[サガット](https://ja.wikipedia.org/wiki/サガット "wikilink")、練習に打ち込む[アドンがいる](../Page/アドン_\(ストリートファイター\).md "wikilink")。
+    [ミャンマー](../Page/ミャンマー.md "wikilink")の山中。背後に[ヒマラヤ山脈](../Page/ヒマラヤ山脈.md "wikilink")と長い石段がある。座禅を組んで浮遊している[ダルシム](../Page/ダルシム.md "wikilink")、仁王立ちしている[サガット](../Page/サガット.md "wikilink")、練習に打ち込む[アドンがいる](../Page/アドン_\(ストリートファイター\).md "wikilink")。
   - Japan（ジャパン）
-    日本の下町の商店街。タバコ屋と路面電車の駅があり、看板には『[ストリートファイターII MOVIE](https://ja.wikipedia.org/wiki/ストリートファイターII_MOVIE "wikilink")』のポスターが貼られている。[エドモンド本田](../Page/エドモンド本田.md "wikilink")、[マキ](../Page/マキ_\(ファイナルファイト\).md "wikilink")、[いぶき](https://ja.wikipedia.org/wiki/いぶき_\(ストリートファイター\) "wikilink")、[ダン](https://ja.wikipedia.org/wiki/火引弾 "wikilink")、[まことが観戦している](../Page/まこと_\(ストリートファイター\).md "wikilink")。
+    日本の下町の商店街。タバコ屋と路面電車の駅があり、看板には『[ストリートファイターII MOVIE](../Page/ストリートファイターII_MOVIE.md "wikilink")』のポスターが貼られている。[エドモンド本田](../Page/エドモンド本田.md "wikilink")、[マキ](../Page/マキ_\(ファイナルファイト\).md "wikilink")、[いぶき](../Page/いぶき_\(ストリートファイター\).md "wikilink")、[ダン](../Page/火引弾.md "wikilink")、[まことが観戦している](../Page/まこと_\(ストリートファイター\).md "wikilink")。
   - New York（ニューヨーク）
-    [ニューヨーク](../Page/ニューヨーク.md "wikilink")のダウンタウン。壁には多くの落描きがあり、[ソドムを模したものや](../Page/ソドム_\(ファイナルファイト\).md "wikilink")[バイソンが描かれている](../Page/マイク・バイソン.md "wikilink")。[ヒューゴー](https://ja.wikipedia.org/wiki/アンドレ_\(ファイナルファイト\)#ヒューゴー "wikilink")、[キャミィ](../Page/キャミィ.md "wikilink")（シャドルー時代の服装）、[ディージェイ](../Page/ディージェイ_\(ストリートファイター\).md "wikilink")、[ケン](../Page/ケン・マスターズ.md "wikilink")、[ナッシュ](https://ja.wikipedia.org/wiki/ナッシュ_\(ストリートファイター\) "wikilink")、[T.ホーク](../Page/サンダー・ホーク.md "wikilink")、[コーディー](../Page/コーディー_\(ファイナルファイト\).md "wikilink")（『ZERO3』での服装）、[ショーン](../Page/ショーン_\(ストリートファイター\).md "wikilink")、[バーディー](../Page/バーディー_\(ストリートファイター\).md "wikilink")、[Qがいる](../Page/Q_\(ストリートファイター\).md "wikilink")。
+    [ニューヨーク](../Page/ニューヨーク.md "wikilink")のダウンタウン。壁には多くの落描きがあり、[ソドムを模したものや](../Page/ソドム_\(ファイナルファイト\).md "wikilink")[バイソンが描かれている](../Page/マイク・バイソン.md "wikilink")。[ヒューゴー](https://ja.wikipedia.org/wiki/アンドレ_\(ファイナルファイト\)#ヒューゴー "wikilink")、[キャミィ](../Page/キャミィ.md "wikilink")（シャドルー時代の服装）、[ディージェイ](../Page/ディージェイ_\(ストリートファイター\).md "wikilink")、[ケン](../Page/ケン・マスターズ.md "wikilink")、[ナッシュ](../Page/ナッシュ_\(ストリートファイター\).md "wikilink")、[T.ホーク](../Page/サンダー・ホーク.md "wikilink")、[コーディー](../Page/コーディー_\(ファイナルファイト\).md "wikilink")（『ZERO3』での服装）、[ショーン](../Page/ショーン_\(ストリートファイター\).md "wikilink")、[バーディー](../Page/バーディー_\(ストリートファイター\).md "wikilink")、[Qがいる](../Page/Q_\(ストリートファイター\).md "wikilink")。
   - Under world（アンダーワールド）
     薄気味悪い洋館のようなステージ。窓の外には髑髏が浮き上がる月が昇り、壁には[モリガンの肖像画が飾られている](../Page/モリガン・アーンスランド.md "wikilink")。壁に[ガロンと](../Page/ガロン_\(ヴァンパイア\).md "wikilink")[ザベルが逆さまに貼り付いており](../Page/ザベル・ザロック.md "wikilink")、柱の影から[バレッタが姿を覗かせる](../Page/バレッタ_\(ヴァンパイア\).md "wikilink")。
   - Ruins（ルーインズ）

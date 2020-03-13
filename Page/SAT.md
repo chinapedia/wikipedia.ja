@@ -7,15 +7,15 @@
 
   - [土曜日](../Page/土曜日.md "wikilink") ()
 
-  - [特殊急襲部隊](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink") () - [日本警察の](../Page/日本の警察.md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")
+  - [特殊急襲部隊](../Page/特殊急襲部隊.md "wikilink") () - [日本警察の](../Page/日本の警察.md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")
 
   - [充足可能性問題](../Page/充足可能性問題.md "wikilink") ()
 
-  - [SAT (大学進学適性試験)](https://ja.wikipedia.org/wiki/SAT_\(大学進学適性試験\) "wikilink") () - [アメリカにおける大学進学適性試験のこと](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
+  - [SAT (大学進学適性試験)](../Page/SAT_\(大学進学適性試験\).md "wikilink") () - [アメリカにおける大学進学適性試験のこと](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
-  - [仙台空港鉄道](https://ja.wikipedia.org/wiki/仙台空港鉄道 "wikilink") ()
+  - [仙台空港鉄道](../Page/仙台空港鉄道.md "wikilink") ()
 
-  - [サハリン航空](https://ja.wikipedia.org/wiki/サハリン航空 "wikilink") ()
+  - [サハリン航空](../Page/サハリン航空.md "wikilink") ()
 
   - ()
 

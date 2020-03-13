@@ -55,13 +55,13 @@
 
 ### AEW.3
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:British_Aerospace_Nimrod_AEW3,_UK_-_Air_Force_AN0999455.jpg "wikilink") 1980年代に、ニムロッドを[早期警戒機 (AEW\&C)として用いるためのプロジェクトがあった](../Page/早期警戒管制機.md "wikilink")。機首と尾部に大型レーダーを搭載し、前後のレーダーが連動して周囲の警戒を行う仕組みであった。しかし、開発に失敗したためアメリカ製[ボーイング](../Page/ボーイング.md "wikilink")[E-3](https://ja.wikipedia.org/wiki/E-3_\(航空機\) "wikilink")[早期警戒管制機](../Page/早期警戒管制機.md "wikilink")の導入が決定され、採用にはいたらなかった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:British_Aerospace_Nimrod_AEW3,_UK_-_Air_Force_AN0999455.jpg "wikilink") 1980年代に、ニムロッドを[早期警戒機 (AEW\&C)として用いるためのプロジェクトがあった](../Page/早期警戒管制機.md "wikilink")。機首と尾部に大型レーダーを搭載し、前後のレーダーが連動して周囲の警戒を行う仕組みであった。しかし、開発に失敗したためアメリカ製[ボーイング](../Page/ボーイング.md "wikilink")[E-3](../Page/E-3_\(航空機\).md "wikilink")[早期警戒管制機](../Page/早期警戒管制機.md "wikilink")の導入が決定され、採用にはいたらなかった。
 
 11機が改造される予定だった。1982年に初飛行しているが、1986年の計画中止後は、改造のために保管されていた機体は既存の機体の部品取りに使われ、再度通常任務に戻されることは無かった。 {{-}}
 
 ### MRA.4
 
-[Nimrod_MRA4_1.jpg](https://ja.wikipedia.org/wiki/File:Nimrod_MRA4_1.jpg "fig:Nimrod_MRA4_1.jpg") 1992年からイギリス空軍は後継海洋哨戒機計画(Replacement Maritime Patrol Aircraft ,RMPA)を開始し、ニムロッド MR.2の後継機の検討を開始した。これに[ロッキード P-3C](https://ja.wikipedia.org/wiki/P-3_\(航空機\) "wikilink")、[ダッソー アトランティック](../Page/アトランティック_\(航空機\).md "wikilink")、BAe ニムロッド 2000らが候補にあがったが、[1996年](../Page/1996年.md "wikilink")12月にBAeのニムロッド 2000が選定され、ニムロッド **[MRA.4](https://ja.wikipedia.org/wiki/:en:Hawker_Siddeley_Nimrod "wikilink")**としてMR.2からの改装\[3\]による生産が決定された。
+[Nimrod_MRA4_1.jpg](https://ja.wikipedia.org/wiki/File:Nimrod_MRA4_1.jpg "fig:Nimrod_MRA4_1.jpg") 1992年からイギリス空軍は後継海洋哨戒機計画(Replacement Maritime Patrol Aircraft ,RMPA)を開始し、ニムロッド MR.2の後継機の検討を開始した。これに[ロッキード P-3C](../Page/P-3_\(航空機\).md "wikilink")、[ダッソー アトランティック](../Page/アトランティック_\(航空機\).md "wikilink")、BAe ニムロッド 2000らが候補にあがったが、[1996年](../Page/1996年.md "wikilink")12月にBAeのニムロッド 2000が選定され、ニムロッド **[MRA.4](https://ja.wikipedia.org/wiki/:en:Hawker_Siddeley_Nimrod "wikilink")**としてMR.2からの改装\[3\]による生産が決定された。
 
 MRA.4は新世代のターボファンエンジン[ロールス・ロイス BR700を搭載し](https://ja.wikipedia.org/wiki/ロールス・ロイス_BR700#BR710-A1-10,_C2-20 "wikilink")、これを適合させるため胴体の設計を一新。主翼を拡大し、[エアバスA340](../Page/エアバスA340.md "wikilink")の[グラスコックピット](../Page/グラスコックピット.md "wikilink")を導入した\[4\]。1999年にBAeから改組された[BAEシステムズ](../Page/BAEシステムズ.md "wikilink")によりデータ処理システム、サーチウォーター・レーダーシステムが開発された\[5\]。
 
@@ -73,7 +73,7 @@ MRA.4は新世代のターボファンエンジン[ロールス・ロイス BR70
 
 [2006年](../Page/2006年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")、[アフガニスタン](../Page/アフガニスタン.md "wikilink")で作戦飛行中のMR.2 [XV230が](https://ja.wikipedia.org/wiki/機体記号 "wikilink")、[空中給油](../Page/空中給油.md "wikilink")を受けた直後に火災が発生して墜落する事故が発生、乗員14人全員が死亡した（→[:w:2006 Royal Air Force Nimrod crashを参照](https://ja.wikipedia.org/wiki/:w:2006_Royal_Air_Force_Nimrod_crash "wikilink")）。[2007年](../Page/2007年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")、[イギリス国防省は調査報告を発表し](../Page/国防省_\(イギリス\).md "wikilink")、墜落した機体は、給油後タンクから燃料漏れが生じており、高温空気パイプの熱によって発火、拡大して墜落に至った、と分析した。
 
-機体の旧式化・老朽化が著しいにもかかわらず、[海軍の新型](../Page/イギリス海軍.md "wikilink")[原子力潜水艦](../Page/原子力潜水艦.md "wikilink")（[アスチュート級](https://ja.wikipedia.org/wiki/アスチュート級原子力潜水艦 "wikilink")）や[航空母艦](../Page/航空母艦.md "wikilink")（[クイーン・エリザベス級](../Page/クイーン・エリザベス級航空母艦.md "wikilink")）の整備・建造計画によって補修に関する経費は切り詰められ延期されていた、と報道されている。イギリス空軍の警告にもかかわらず、十分な補修予算を計上するに至らなかったことが事件を引き起こしたとして政府は非難されており、国防大臣は遺族に対して公式に謝罪した。このように2006年の墜落事故は、軍事の範疇を超えて政治問題化している\[10\]。
+機体の旧式化・老朽化が著しいにもかかわらず、[海軍の新型](../Page/イギリス海軍.md "wikilink")[原子力潜水艦](../Page/原子力潜水艦.md "wikilink")（[アスチュート級](../Page/アスチュート級原子力潜水艦.md "wikilink")）や[航空母艦](../Page/航空母艦.md "wikilink")（[クイーン・エリザベス級](../Page/クイーン・エリザベス級航空母艦.md "wikilink")）の整備・建造計画によって補修に関する経費は切り詰められ延期されていた、と報道されている。イギリス空軍の警告にもかかわらず、十分な補修予算を計上するに至らなかったことが事件を引き起こしたとして政府は非難されており、国防大臣は遺族に対して公式に謝罪した。このように2006年の墜落事故は、軍事の範疇を超えて政治問題化している\[10\]。
 
 ## 要目(MR.1)
 
@@ -124,7 +124,7 @@ MRA.4は新世代のターボファンエンジン[ロールス・ロイス BR70
 
 [Category:対潜哨戒機](https://ja.wikipedia.org/wiki/Category:対潜哨戒機 "wikilink") [Category:電子戦機](https://ja.wikipedia.org/wiki/Category:電子戦機 "wikilink") [Category:イギリスの軍用機](https://ja.wikipedia.org/wiki/Category:イギリスの軍用機 "wikilink") [Category:ホーカー・シドレーの航空機](https://ja.wikipedia.org/wiki/Category:ホーカー・シドレーの航空機 "wikilink") [Category:BAE_システムズの航空機](https://ja.wikipedia.org/wiki/Category:BAE_システムズの航空機 "wikilink") [Category:4発ジェット機](https://ja.wikipedia.org/wiki/Category:4発ジェット機 "wikilink")
 
-1.  もっとも近年では、[川崎重工業](../Page/川崎重工業.md "wikilink")が[海上自衛隊](https://ja.wikipedia.org/wiki/海上自衛隊 "wikilink")向けに[P-3C](https://ja.wikipedia.org/wiki/P-3C "wikilink")の後継機である日本国産の[P-1対潜哨戒機](https://ja.wikipedia.org/wiki/P-1_\(航空機\) "wikilink")、[ボーイング](../Page/ボーイング.md "wikilink")社が主に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けにP-3の後継機としてP-1と同時期に就役した[P-8 ポセイドンなど](../Page/P-8_\(航空機\).md "wikilink")、高高度性能の追求のほか速力の強化や機器の電源確保などを狙ってターボファンエンジンを採用した対潜哨戒機も開発されてきている。
+1.  もっとも近年では、[川崎重工業](../Page/川崎重工業.md "wikilink")が[海上自衛隊](../Page/海上自衛隊.md "wikilink")向けに[P-3C](https://ja.wikipedia.org/wiki/P-3C "wikilink")の後継機である日本国産の[P-1対潜哨戒機](https://ja.wikipedia.org/wiki/P-1_\(航空機\) "wikilink")、[ボーイング](../Page/ボーイング.md "wikilink")社が主に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けにP-3の後継機としてP-1と同時期に就役した[P-8 ポセイドンなど](../Page/P-8_\(航空機\).md "wikilink")、高高度性能の追求のほか速力の強化や機器の電源確保などを狙ってターボファンエンジンを採用した対潜哨戒機も開発されてきている。
 2.  [アルゼンチン軍](https://ja.wikipedia.org/wiki/アルゼンチン軍 "wikilink")の哨戒機に遭遇したら撃墜できるように装備したものだが、結局使用されることはなかった。
 3.  2006年9月の墜落事故により1機喪失したため、5号機のみAEW.3から改装
 4.

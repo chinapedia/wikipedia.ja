@@ -9,15 +9,15 @@
 
 TSR-2の開発は、[1956年](../Page/1956年.md "wikilink")に[キャンベラの後継機を求めた](../Page/イングリッシュ・エレクトリック_キャンベラ.md "wikilink")[イギリス空軍](../Page/イギリス空軍.md "wikilink")（RAF）の*超音速侵攻偵察攻撃機計画 OR.339*により始まった。要求された性能は、全天候性能をはじめ、不整地からの[短距離離着陸](https://ja.wikipedia.org/wiki/短距離離着陸 "wikilink")（STOL）を行い、低空を[超音速](../Page/超音速.md "wikilink")で侵攻し、1,850 km以上を無給油で飛行する[核兵器](https://ja.wikipedia.org/wiki/核兵器 "wikilink")搭載可能な爆撃機という過大なものであった。
 
-この計画にイギリス国内の[航空機](../Page/航空機.md "wikilink")メーカー各社が設計案を提出し、最終的に[ヴィッカーズ](https://ja.wikipedia.org/wiki/ヴィッカーズ "wikilink")社と[イングリッシュ・エレクトリック](https://ja.wikipedia.org/wiki/イングリッシュ・エレクトリック "wikilink")社の合同計画案が採用され[1957年](../Page/1957年.md "wikilink")に本格的な開発が開始された。1957年春に公表された[保守党政権の](https://ja.wikipedia.org/wiki/保守党_\(イギリス\) "wikilink")国防相による[防衛白書では](https://ja.wikipedia.org/wiki/1957年度国防白書 "wikilink")[ミサイル万能論](https://ja.wikipedia.org/wiki/ミサイル万能論 "wikilink")を背景とした長距離[爆撃機](../Page/爆撃機.md "wikilink")、[戦闘機](../Page/戦闘機.md "wikilink")の新規開発の終了、それぞれ[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")、[迎撃ミサイルによって置き換えを志向しており当時開発中だった軍用機は大半が中止された](https://ja.wikipedia.org/wiki/対空ミサイル "wikilink")\[1\]。
+この計画にイギリス国内の[航空機](../Page/航空機.md "wikilink")メーカー各社が設計案を提出し、最終的に[ヴィッカーズ](https://ja.wikipedia.org/wiki/ヴィッカーズ "wikilink")社と[イングリッシュ・エレクトリック](https://ja.wikipedia.org/wiki/イングリッシュ・エレクトリック "wikilink")社の合同計画案が採用され[1957年](../Page/1957年.md "wikilink")に本格的な開発が開始された。1957年春に公表された[保守党政権の](../Page/保守党_\(イギリス\).md "wikilink")国防相による[防衛白書では](https://ja.wikipedia.org/wiki/1957年度国防白書 "wikilink")[ミサイル万能論](https://ja.wikipedia.org/wiki/ミサイル万能論 "wikilink")を背景とした長距離[爆撃機](../Page/爆撃機.md "wikilink")、[戦闘機](../Page/戦闘機.md "wikilink")の新規開発の終了、それぞれ[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")、[迎撃ミサイルによって置き換えを志向しており当時開発中だった軍用機は大半が中止された](https://ja.wikipedia.org/wiki/対空ミサイル "wikilink")\[1\]。
 
 機体の特徴としては、翼端に下反角を持つ主翼、全浮動式の水平尾翼を持っていた。だが、過酷な要求を克服するために高度な地形追従レーダーや各種の新素材などといった数々の新機軸を用いたため開発は難航し、開発費も当初の予算を超過してしまった。
 
 ## 初飛行と開発の中止
 
-TSR-2は[1964年](../Page/1964年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に初飛行し、その後、半年ほど試験飛行を続けた。良好な性能を示したが、予算の超過を非難する[労働党が政権の座に着き](https://ja.wikipedia.org/wiki/労働党_\(イギリス\) "wikilink")、開発は[1965年](../Page/1965年.md "wikilink")4月に中止された。試作機の飛行も禁止となり、開発研究機材は全て廃棄されてしまった。この計画中止に到るプロセスには不明な点が多く、色々な陰謀説が存在している。
+TSR-2は[1964年](../Page/1964年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に初飛行し、その後、半年ほど試験飛行を続けた。良好な性能を示したが、予算の超過を非難する[労働党が政権の座に着き](../Page/労働党_\(イギリス\).md "wikilink")、開発は[1965年](../Page/1965年.md "wikilink")4月に中止された。試作機の飛行も禁止となり、開発研究機材は全て廃棄されてしまった。この計画中止に到るプロセスには不明な点が多く、色々な陰謀説が存在している。
 
-TSR-2の開発が中止されたため、イギリス空軍は代替機として[F-111Kの導入を望んだが](https://ja.wikipedia.org/wiki/F-111_\(航空機\) "wikilink")、これも予算が下りず中止された。最終的にTSR-2の代替機として[バッカニアが導入された](../Page/ブラックバーン_バッカニア.md "wikilink")。
+TSR-2の開発が中止されたため、イギリス空軍は代替機として[F-111Kの導入を望んだが](../Page/F-111_\(航空機\).md "wikilink")、これも予算が下りず中止された。最終的にTSR-2の代替機として[バッカニアが導入された](../Page/ブラックバーン_バッカニア.md "wikilink")。
 
 ## 要目
 

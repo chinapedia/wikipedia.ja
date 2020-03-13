@@ -27,10 +27,10 @@ Jim Huguninが開発を1997年に始め、1999年まで開発を続けた。1999
 
 ## 関連プロジェクト
 
-  - [Groovy](https://ja.wikipedia.org/wiki/Groovy "wikilink") - [Java仮想マシン](../Page/Java仮想マシン.md "wikilink")での作動を前提とする独自の動的言語
+  - [Groovy](../Page/Groovy.md "wikilink") - [Java仮想マシン](../Page/Java仮想マシン.md "wikilink")での作動を前提とする独自の動的言語
   - [Jacl](https://ja.wikipedia.org/wiki/Jacl "wikilink") - [Java](https://ja.wikipedia.org/wiki/Java "wikilink")による[Tcl](https://ja.wikipedia.org/wiki/Tcl "wikilink")の実装
   - [JRuby](https://ja.wikipedia.org/wiki/JRuby "wikilink") - [Java](https://ja.wikipedia.org/wiki/Java "wikilink")による[Ruby](../Page/Ruby.md "wikilink")の実装
-  - [IronPython](https://ja.wikipedia.org/wiki/IronPython "wikilink") - [.NET](https://ja.wikipedia.org/wiki/.NET "wikilink")/[Mono向けのPython実装](../Page/Mono_\(ソフトウェア\).md "wikilink")。Jythonを作ったJim Huguninによって開発が始められた。
+  - [IronPython](../Page/IronPython.md "wikilink") - [.NET](https://ja.wikipedia.org/wiki/.NET "wikilink")/[Mono向けのPython実装](../Page/Mono_\(ソフトウェア\).md "wikilink")。Jythonを作ったJim Huguninによって開発が始められた。
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[SoftBank 810T](https://ja.wikipedia.org/wiki/SoftBank_810T)から翻訳されています。
 
 
-**SoftBank 810T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")810T）は、[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式に対応する[携帯電話](../Page/携帯電話.md "wikilink")端末である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月27日](../Page/10月27日.md "wikilink")発売。
+**SoftBank 810T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")810T）は、[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式に対応する[携帯電話](../Page/携帯電話.md "wikilink")端末である。[2006年](../Page/2006年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")発売。
 
 ## スペック
 
@@ -11,9 +11,9 @@
   - 連続待受時間：W-CDMA網：約470時間、GSM網：約290時間
   - 充電時間：約120分（急速充電器使用時）
   - 通信方式：[W-CDMA](../Page/W-CDMA.md "wikilink")　[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")900/1800/1900
-  - メイン液晶：2.4インチ[QVGA](https://ja.wikipedia.org/wiki/Quarter_Video_Graphics_Array "wikilink")[TFT](../Page/薄膜トランジスタ.md "wikilink")[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink") （最大26万色）
-  - サブ液晶：0.8インチ（96×39ドット）[有機EL](https://ja.wikipedia.org/wiki/有機エレクトロルミネッセンス "wikilink")（モノクロ）
-  - メインカメラ：324万画素[CMOSカメラ](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")
+  - メイン液晶：2.4インチ[QVGA](../Page/Quarter_Video_Graphics_Array.md "wikilink")[TFT](../Page/薄膜トランジスタ.md "wikilink")[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink") （最大26万色）
+  - サブ液晶：0.8インチ（96×39ドット）[有機EL](../Page/有機エレクトロルミネッセンス.md "wikilink")（モノクロ）
+  - メインカメラ：324万画素[CMOSカメラ](../Page/CMOSイメージセンサ.md "wikilink")
   - サブカメラ：32万画素CMOSカメラ
   - 外部メモリー：[microSD](https://ja.wikipedia.org/wiki/SDメモリーカード#microSD "wikilink")、最大2GB
 
@@ -40,15 +40,15 @@
   - [バイリンガル](https://ja.wikipedia.org/wiki/バイリンガル "wikilink")
   - [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")対応
   - [モバイル ルポ](https://ja.wikipedia.org/wiki/モバイル_ルポ "wikilink")
-  - 3D待受キャラクター「[くーまん](https://ja.wikipedia.org/wiki/くーまん "wikilink")」
+  - 3D待受キャラクター「[くーまん](../Page/くーまん.md "wikilink")」
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~                          |
-| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")                                 |
-| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                                              |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~       |
+| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")              |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
 
 ## 関連項目
 

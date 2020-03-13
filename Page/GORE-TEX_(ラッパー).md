@@ -1,11 +1,11 @@
 > この記事は[GORE-TEX \(\)](https://ja.wikipedia.org/wiki/GORE-TEX_\(\))から翻訳されています。
 
 
-**GORE-TEX**（ゴア・テックス、本名：宮森 智浩、[1975年](../Page/1975年.md "wikilink") - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのMCとしても知られる](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")。通称：**トラ**。
+**GORE-TEX**（ゴア・テックス、本名：宮森 智浩、[1975年](../Page/1975年.md "wikilink") - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのMCとしても知られる](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")。通称：**トラ**。
 
 ## 概要
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[MURO](../Page/MURO.md "wikilink")の楽曲『XXX-LARGE Pt.2』への客演でデビュー。 別名（a.k.a）が多く、**Mr.Nice G 13**、**ガッツ藤原**、**ムセラッキー宮森**などと自称する。機械的な声質であり、客演も多数。[NITRO MICROPHONE UNDERGROUND結成前から](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")[DELI](../Page/DELI.md "wikilink")と親交があり、当時DJだったDELIがラップを始めるきっかけとなった。[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")、[S-WORD](../Page/S-WORD.md "wikilink")と共に楽曲「**REQUIEM**」を制作し、NITRO MICROPHONE UNDERGROUNDとしての活動を開始。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[MURO](../Page/MURO.md "wikilink")の楽曲『XXX-LARGE Pt.2』への客演でデビュー。 別名（a.k.a）が多く、**Mr.Nice G 13**、**ガッツ藤原**、**ムセラッキー宮森**などと自称する。機械的な声質であり、客演も多数。[NITRO MICROPHONE UNDERGROUND結成前から](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")[DELI](../Page/DELI.md "wikilink")と親交があり、当時DJだったDELIがラップを始めるきっかけとなった。[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")、[S-WORD](../Page/S-WORD.md "wikilink")と共に楽曲「**REQUIEM**」を制作し、NITRO MICROPHONE UNDERGROUNDとしての活動を開始。
 
 ## ディスコグラフィ
 
@@ -180,15 +180,15 @@ feat. DELI, DABO, MACKA-CHIN, GORE-TEX, SUIKEN, BIGZAM, XBS</p></td>
 <td><p>!</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p><strong>SECRET EXPRESS</strong></p></td>
 <td><p>DELI feat.GORE-TEX ＆ <a href="../Page/KYONO.md" title="wikilink">KYONO</a></p></td>
 <td><p><strong>TIME 4 SOME ACTION</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td><p><strong>NIGHT RIDERS</strong></p></td>
-<td><p>SUIKEN feat.<a href="https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND" title="wikilink">NITRO MICROPHONE UNDERGROUND</a></p></td>
+<td><p>SUIKEN feat.<a href="../Page/NITRO_MICROPHONE_UNDERGROUND.md" title="wikilink">NITRO MICROPHONE UNDERGROUND</a></p></td>
 <td><p><strong>HOT IN POT</strong></p></td>
 </tr>
 </tbody>

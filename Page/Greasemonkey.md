@@ -1,7 +1,7 @@
 > この記事は[Greasemonkey](https://ja.wikipedia.org/wiki/Greasemonkey)から翻訳されています。
 
 
-**Greasemonkey**（**グリースモンキー**）とは、[Mozilla Firefoxおよび](../Page/Mozilla_Firefox.md "wikilink")[Songbird](https://ja.wikipedia.org/wiki/Songbird "wikilink")用の[拡張機能](../Page/拡張機能_\(Mozilla\).md "wikilink")。後述のユーザースクリプト形式に従った[JavaScript](../Page/JavaScript.md "wikilink")を組み合わせて、[ウェブページ](../Page/ウェブページ.md "wikilink")閲覧時に実行することができる。
+**Greasemonkey**（**グリースモンキー**）とは、[Mozilla Firefoxおよび](../Page/Mozilla_Firefox.md "wikilink")[Songbird](../Page/Songbird.md "wikilink")用の[拡張機能](../Page/拡張機能_\(Mozilla\).md "wikilink")。後述のユーザースクリプト形式に従った[JavaScript](../Page/JavaScript.md "wikilink")を組み合わせて、[ウェブページ](../Page/ウェブページ.md "wikilink")閲覧時に実行することができる。
 
 [Google Chromeはバージョン](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink")4以降、数千種類以上のグリースモンキー用ユーザースクリプトをネイティブでサポートしている\[1\]。Windows版ではバージョン35以降、macOS版ではバージョン44以降、インストールしたユーザースクリプトを有効化することができなくなった\[2\]\[3\]。
 

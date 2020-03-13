@@ -1,13 +1,13 @@
 > この記事は[FUN for FAN](https://ja.wikipedia.org/wiki/FUN_for_FAN)から翻訳されています。
 
 
-『**FUN for FAN**』（ファン・フォー・ファン）は、[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")1枚目となる[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。同年7月1日に[ビデオクリップを収録した同一タイトルのDVDとVHSも発売された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。[TRUE KiSS DiSCよりリリースされ](../Page/TRUE_KiSS_DiSC.md "wikilink")、これを以て同レーベルも活動を休止した。
+『**FUN for FAN**』（ファン・フォー・ファン）は、[2001年](../Page/2001年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink") に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")1枚目となる[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。同年7月1日に[ビデオクリップを収録した同一タイトルのDVDとVHSも発売された](../Page/ミュージック・ビデオ.md "wikilink")。[TRUE KiSS DiSCよりリリースされ](../Page/TRUE_KiSS_DiSC.md "wikilink")、これを以て同レーベルも活動を休止した。
 
 ## 概要
 
-鈴木は父とともに所属事務所の契約確認を求めて2000年12月に民事訴訟を起こし、この係争により活動停止に追い込まれた彼女を支援するファンが2001年3月下旬に「[love the island](https://ja.wikipedia.org/wiki/love_the_island "wikilink")」の購入を働きかける運動に所属レーベルの[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")が動かされ、急遽リリースされたものである。このため事実上レコード会社が勝手にリリースしたベスト・アルバムとなっている（→[ベスト・アルバム参照](https://ja.wikipedia.org/wiki/ベスト・アルバム#ベスト盤をめぐるトラブル "wikilink")）。鈴木あみとして発売した全[シングルA面曲](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")（[両A面シングル含む](https://ja.wikipedia.org/wiki/A面/B面#両A面シングル・両B面シングル "wikilink")）を[シングルス](../Page/シングルス.md "wikilink")形式で収録。
+鈴木は父とともに所属事務所の契約確認を求めて2000年12月に民事訴訟を起こし、この係争により活動停止に追い込まれた彼女を支援するファンが2001年3月下旬に「[love the island](https://ja.wikipedia.org/wiki/love_the_island "wikilink")」の購入を働きかける運動に所属レーベルの[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")が動かされ、急遽リリースされたものである。このため事実上レコード会社が勝手にリリースしたベスト・アルバムとなっている（→[ベスト・アルバム参照](https://ja.wikipedia.org/wiki/ベスト・アルバム#ベスト盤をめぐるトラブル "wikilink")）。鈴木あみとして発売した全[シングルA面曲](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")（[両A面シングル含む](https://ja.wikipedia.org/wiki/A面/B面#両A面シングル・両B面シングル "wikilink")）を[シングルス](../Page/シングルス.md "wikilink")形式で収録。
 
-しかしながら、発売翌月の2001年6月に鈴木側がSMEJに対して専属実演家契約終了の確認と印税明細の開示などを求め民事訴訟を提起し（専属実演家契約終了確認等請求事件）、本作発売に伴う[印税](https://ja.wikipedia.org/wiki/印税 "wikilink")支払いに関して言及していた（2003年に和解）。本作を含めTRUE KiSS DiSCでリリースしたタイトルのディスコグラフィーは、現所属先の[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")内の公式サイトでは非掲載となっているが、SMEJのサイト上では掲載が継続されている。
+しかしながら、発売翌月の2001年6月に鈴木側がSMEJに対して専属実演家契約終了の確認と印税明細の開示などを求め民事訴訟を提起し（専属実演家契約終了確認等請求事件）、本作発売に伴う[印税](../Page/印税.md "wikilink")支払いに関して言及していた（2003年に和解）。本作を含めTRUE KiSS DiSCでリリースしたタイトルのディスコグラフィーは、現所属先の[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")内の公式サイトでは非掲載となっているが、SMEJのサイト上では掲載が継続されている。
 
 10年半後の2011年12月に次作となるベスト・アルバム「[Ami Selection](https://ja.wikipedia.org/wiki/Ami_Selection "wikilink")」が発売された。
 

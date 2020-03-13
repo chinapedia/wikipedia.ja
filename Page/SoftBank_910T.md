@@ -1,7 +1,7 @@
 > この記事は[SoftBank 910T](https://ja.wikipedia.org/wiki/SoftBank_910T)から翻訳されています。
 
 
-**SoftBank 910T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")910T）は[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末。 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）[10月7日](../Page/10月7日.md "wikilink")に発売された。
+**SoftBank 910T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")910T）は[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末。 [2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）[10月7日](../Page/10月7日.md "wikilink")に発売された。
 
 ## スペック
 
@@ -11,18 +11,18 @@
   - 連続待受時間：W-CDMA網：約450時間、GSM網：約320時間
   - 充電時間：130分（急速充電器使用時）
   - 通信方式：[W-CDMA](../Page/W-CDMA.md "wikilink")　[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")900/1800/1900
-  - メイン液晶：2.6インチ[QVGA](https://ja.wikipedia.org/wiki/Quarter_Video_Graphics_Array "wikilink")[TFT](../Page/薄膜トランジスタ.md "wikilink")[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink") （最大26万色）
+  - メイン液晶：2.6インチ[QVGA](../Page/Quarter_Video_Graphics_Array.md "wikilink")[TFT](../Page/薄膜トランジスタ.md "wikilink")[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink") （最大26万色）
   - サブ液晶：1.16インチ（160×33ドット）モノクロ4段階調
-  - メインカメラ：320万画素[CMOSカメラ](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")
+  - メインカメラ：320万画素[CMOSカメラ](../Page/CMOSイメージセンサ.md "wikilink")
   - サブカメラ：32万画素CMOSカメラ
   - 内蔵メモリー：1GB
   - 外部メモリー：[miniSD](https://ja.wikipedia.org/wiki/SDメモリーカード#miniSDカード "wikilink")、最大2GB
 
 ## 主な機能・サービス
 
-  - ミュージックプレイヤー（[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")によるワイヤレス対応）
+  - ミュージックプレイヤー（[Bluetooth](../Page/Bluetooth.md "wikilink")によるワイヤレス対応）
   - Bluetooth対応ワイヤレスミュージックリモコン付属（ただしマイクは内蔵されていない。ちなみにデザインおよび仕様は[au向けの](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[W44T W44T Ⅱ/LEXUS W44T Ⅲ用のワイヤレスミュージックリモコンとほぼ共通である](../Page/W44T.md "wikilink")/TiMO）
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [マイ絵文字](https://ja.wikipedia.org/wiki/マイ絵文字 "wikilink")
   - [フィーリングメール](https://ja.wikipedia.org/wiki/フィーリングメール "wikilink")
   - [赤外線](../Page/赤外線.md "wikilink")機能
@@ -30,15 +30,15 @@
   - [バイリンガル](https://ja.wikipedia.org/wiki/バイリンガル "wikilink")
   - [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")対応
   - [モバイル ルポ](https://ja.wikipedia.org/wiki/モバイル_ルポ "wikilink")
-  - 3D待受キャラクター「[くーまん](https://ja.wikipedia.org/wiki/くーまん "wikilink")」
+  - 3D待受キャラクター「[くーまん](../Page/くーまん.md "wikilink")」
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~                          |
-| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")                                 |
-| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                                              |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~       |
+| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")              |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
 
 ## 特徴
 

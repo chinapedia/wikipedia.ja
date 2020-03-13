@@ -3,7 +3,7 @@
 
 『**Webラジオ マリア様がみてる**』（ウェブラジオ マリアさまがみてる）は、『[マリア様がみてる](../Page/マリア様がみてる.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")。[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて配信された。配信時期によって、後述するように2つの時期に分けられる。番組名は同一のため、本項では便宜上、それぞれを「1期」「2期」とする。
 
-1期は、[OVA](../Page/OVA.md "wikilink")『[マリア様がみてる 3rdシーズン](../Page/マリア様がみてる_\(アニメ\).md "wikilink")』を中心とした「マリア様がみてる2006プロジェクト」の一環として、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）12月のプレ放送を経て、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）3月より同年11月まで隔週で配信された。また、配信終了後も数回、特別編が配信されている。全19回+4回。
+1期は、[OVA](../Page/OVA.md "wikilink")『[マリア様がみてる 3rdシーズン](../Page/マリア様がみてる_\(アニメ\).md "wikilink")』を中心とした「マリア様がみてる2006プロジェクト」の一環として、[2005年](../Page/2005年.md "wikilink")（平成17年）12月のプレ放送を経て、[2006年](../Page/2006年.md "wikilink")（平成18年）3月より同年11月まで隔週で配信された。また、配信終了後も数回、特別編が配信されている。全19回+4回。
 
 2期は、テレビアニメ『[マリア様がみてる 4thシーズン](../Page/マリア様がみてる_\(アニメ\).md "wikilink")』に関連し、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）8月より[2009年](../Page/2009年.md "wikilink")（平成21年）9月まで、月1回更新で配信された。全13回+3回。
 
@@ -15,15 +15,15 @@
 
 :\* パーソナリティは[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")（福沢祐巳役）
 
-:\* 配信期間：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[3月16日](../Page/3月16日.md "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[11月24日](../Page/11月24日.md "wikilink")（全19回）
+:\* 配信期間：[2006年](../Page/2006年.md "wikilink")（平成18年）[3月16日](../Page/3月16日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")（平成18年）[11月24日](../Page/11月24日.md "wikilink")（全19回）
 
-:\*\* [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[12月22日](../Page/12月22日.md "wikilink")にプレ放送（全1回）が配信された。
+:\*\* [2005年](../Page/2005年.md "wikilink")（平成17年）[12月22日](../Page/12月22日.md "wikilink")にプレ放送（全1回）が配信された。
 
 :\*\* 本放送終了後にも、[2007年](../Page/2007年.md "wikilink")（平成19年）[1月25日](../Page/1月25日.md "wikilink")に新春スペシャル、[2007年](../Page/2007年.md "wikilink")（平成19年）[3月1日](../Page/3月1日.md "wikilink")にひな祭りスペシャル、[2007年](../Page/2007年.md "wikilink")（平成19年）[12月21日](../Page/12月21日.md "wikilink")にクリスマススペシャル2007が配信された。
 
-:\*\* 特にコーナーはなく、毎回リスナーからの手紙（メール）を元にゲストとフリートークを繰り広げる。パーソナリティの発言へのツッコミ的に[SEが多用されている](https://ja.wikipedia.org/wiki/効果音 "wikilink")。
+:\*\* 特にコーナーはなく、毎回リスナーからの手紙（メール）を元にゲストとフリートークを繰り広げる。パーソナリティの発言へのツッコミ的に[SEが多用されている](../Page/効果音.md "wikilink")。
 
-:\*\* 番組の後半で[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")が放送されることもある。このラジオドラマは、基本的には本編を無視した暴走シナリオが繰り広げられる。中でも「リリアン戦隊ロサキネンシス」や「魔法少女志摩子」はファンの中でも人気が高い。
+:\*\* 番組の後半で[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")が放送されることもある。このラジオドラマは、基本的には本編を無視した暴走シナリオが繰り広げられる。中でも「リリアン戦隊ロサキネンシス」や「魔法少女志摩子」はファンの中でも人気が高い。
 
   - 2期
 
@@ -59,12 +59,12 @@
       - [池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")（島津由乃役）（\#0,3,6,7,16,ひな祭りスペシャル）
       - [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")（藤堂志摩子役）（\#0,3,7,11,16,新春スペシャル,ひな祭りスペシャル）
       - [篠原恵美](../Page/篠原恵美.md "wikilink")（水野蓉子役）（\#1,8）
-      - [伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")（小笠原祥子役）（\#1,3,5,18）
-      - [清水香里](https://ja.wikipedia.org/wiki/清水香里 "wikilink")（二条乃梨子役）（\#2,3,14,新春スペシャル）
-      - [佐藤利奈](https://ja.wikipedia.org/wiki/佐藤利奈 "wikilink")（武嶋蔦子役）（\#4,クリスマススペシャル2007）
+      - [伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")（小笠原祥子役）（\#1,3,5,18）
+      - [清水香里](../Page/清水香里.md "wikilink")（二条乃梨子役）（\#2,3,14,新春スペシャル）
+      - [佐藤利奈](../Page/佐藤利奈.md "wikilink")（武嶋蔦子役）（\#4,クリスマススペシャル2007）
       - [伊藤静](../Page/伊藤静.md "wikilink")（支倉令役）（\#10,17）
       - [豊口めぐみ](../Page/豊口めぐみ.md "wikilink")（佐藤聖役）（\#12）
-      - [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")（鳥居江利子役）（\#13）
+      - [生天目仁美](../Page/生天目仁美.md "wikilink")（鳥居江利子役）（\#13）
       - [釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")（松平瞳子役）（\#15）
       - [斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")（山口真美役）（クリスマススペシャル2007）
 
@@ -74,9 +74,9 @@
 
 :\* [井上麻里奈](../Page/井上麻里奈.md "wikilink")（内藤笙子役）（\#2）
 
-:\* [生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")（鳥居江利子役、有馬菜々役）（\#3）
+:\* [生天目仁美](../Page/生天目仁美.md "wikilink")（鳥居江利子役、有馬菜々役）（\#3）
 
-:\* [清水香里](https://ja.wikipedia.org/wiki/清水香里 "wikilink")（二条乃梨子役）（\#4）
+:\* [清水香里](../Page/清水香里.md "wikilink")（二条乃梨子役）（\#4）
 
 :\* [池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")（島津由乃役）（クリスマススペシャル,\#11）
 
@@ -92,17 +92,17 @@
 
 :\* [檜山修之](../Page/檜山修之.md "wikilink")（柏木優役）（\#6）
 
-:\* [伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")（小笠原祥子役）（\#7,13）
+:\* [伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")（小笠原祥子役）（\#7,13）
 
 :\* [釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")（松平瞳子役）（\#7）
 
 :\* [斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")（山口真美役）（\#8）
 
-:\* [市来光弘](https://ja.wikipedia.org/wiki/市来光弘 "wikilink")（福沢祐麒役）（\#9）
+:\* [市来光弘](../Page/市来光弘.md "wikilink")（福沢祐麒役）（\#9）
 
-:\* [杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")（薬師寺昌光・朋光役）（\#9）
+:\* [杉田智和](../Page/杉田智和.md "wikilink")（薬師寺昌光・朋光役）（\#9）
 
-:\* [佐藤利奈](https://ja.wikipedia.org/wiki/佐藤利奈 "wikilink")（武嶋蔦子役）（\#12）
+:\* [佐藤利奈](../Page/佐藤利奈.md "wikilink")（武嶋蔦子役）（\#12）
 
 ## 放送タイトル
 
@@ -317,6 +317,6 @@
 [Category:アニメイトTV](https://ja.wikipedia.org/wiki/Category:アニメイトTV "wikilink") [Category:マリア様がみてる](https://ja.wikipedia.org/wiki/Category:マリア様がみてる "wikilink") [Category:2006年の日本のWebラジオ](https://ja.wikipedia.org/wiki/Category:2006年の日本のWebラジオ "wikilink")
 
 1.  2007年[12月29日](../Page/12月29日.md "wikilink")〜31日に行われた「[コミックマーケット](../Page/コミックマーケット.md "wikilink")73」のフロンティアワークスブースにて先行販売されている。
-2.  2008年[12月28日](../Page/12月28日.md "wikilink")〜30日に行われた「コミックマーケット75」のフロンティアワークスブースと、2008年[12月31日](../Page/12月31日.md "wikilink")に[ワーナー・マイカル・シネマズ](https://ja.wikipedia.org/wiki/ワーナー・マイカル・シネマズ "wikilink")で行われた4thシーズン先行試写イベント（板橋・港北ＮＴ・浦和美園・市川妙典・茨木の5劇場のみ）にて先行販売されている。
+2.  2008年[12月28日](../Page/12月28日.md "wikilink")〜30日に行われた「コミックマーケット75」のフロンティアワークスブースと、2008年[12月31日](../Page/12月31日.md "wikilink")に[ワーナー・マイカル・シネマズ](../Page/ワーナー・マイカル・シネマズ.md "wikilink")で行われた4thシーズン先行試写イベント（板橋・港北ＮＴ・浦和美園・市川妙典・茨木の5劇場のみ）にて先行販売されている。
 3.  2009年[8月14日](../Page/8月14日.md "wikilink")〜16日に行われた「コミックマーケット76」のフロンティアワークスブースにて先行販売されている。
 4.  2009年12月29日〜31日に行われた「コミックマーケット77」のフロンティアワークスブースにて先行販売されている。

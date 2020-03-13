@@ -21,13 +21,13 @@
   - [芝尚子](https://ja.wikipedia.org/wiki/芝尚子 "wikilink")
   - [宇都宮民](https://ja.wikipedia.org/wiki/宇都宮民 "wikilink")
   - [渡部剛士](https://ja.wikipedia.org/wiki/渡部剛士 "wikilink")
-  - [永野彰子](https://ja.wikipedia.org/wiki/永野彰子 "wikilink")
+  - [永野彰子](../Page/永野彰子.md "wikilink")
   - [松本直幸](../Page/松本直幸.md "wikilink")
-  - [佐伯りさ](https://ja.wikipedia.org/wiki/佐伯りさ "wikilink")
+  - [佐伯りさ](../Page/佐伯りさ.md "wikilink")
 
 ## 備考
 
-テーマ曲に[浅倉大介](../Page/浅倉大介.md "wikilink")作曲の「[LANDING TIMEMACHINE](https://ja.wikipedia.org/wiki/LANDING_TIMEMACHINE "wikilink")」が使われていた。当時本番組の30分遅れで放送されていた[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")の『[EBCスーパーニュース](https://ja.wikipedia.org/wiki/EBCスーパーニュース "wikilink")』はこの曲のアレンジ版を使用していたため、一時期[愛媛県](../Page/愛媛県.md "wikilink")のテレビ放送では「LANDING TIMEMACHINE」の原曲とアレンジ版の2バージョンを聞くことができた。
+テーマ曲に[浅倉大介](../Page/浅倉大介.md "wikilink")作曲の「[LANDING TIMEMACHINE](https://ja.wikipedia.org/wiki/LANDING_TIMEMACHINE "wikilink")」が使われていた。当時本番組の30分遅れで放送されていた[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")の『[EBCスーパーニュース](../Page/EBCスーパーニュース.md "wikilink")』はこの曲のアレンジ版を使用していたため、一時期[愛媛県](../Page/愛媛県.md "wikilink")のテレビ放送では「LANDING TIMEMACHINE」の原曲とアレンジ版の2バージョンを聞くことができた。
 
 ## 関連項目
 

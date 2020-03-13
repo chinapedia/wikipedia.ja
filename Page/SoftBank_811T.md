@@ -1,7 +1,7 @@
 > この記事は[SoftBank 811T](https://ja.wikipedia.org/wiki/SoftBank_811T)から翻訳されています。
 
 
-**SoftBank 811T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")811T）は[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式に対応する[携帯電話](../Page/携帯電話.md "wikilink")端末。 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（[平成](../Page/平成.md "wikilink")18年）11月23日に発売が開始された。
+**SoftBank 811T**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")811T）は[東芝](../Page/東芝.md "wikilink")が開発し[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が販売する[W-CDMA](../Page/W-CDMA.md "wikilink")及び[GSM](https://ja.wikipedia.org/wiki/GSM "wikilink")通信方式に対応する[携帯電話](../Page/携帯電話.md "wikilink")端末。 [2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）11月23日に発売が開始された。
 
 また、SoftBank 811Tの兄弟機**SoftBank 813T**についてもこのページで解説する。
 
@@ -14,15 +14,15 @@
   - [赤外線](../Page/赤外線.md "wikilink")機能
   - [バイリンガル](https://ja.wikipedia.org/wiki/バイリンガル "wikilink")
   - [モバイル ルポ](https://ja.wikipedia.org/wiki/モバイル_ルポ "wikilink")
-  - 3D待受キャラクター「[くーまん](https://ja.wikipedia.org/wiki/くーまん "wikilink")」
+  - 3D待受キャラクター「[くーまん](../Page/くーまん.md "wikilink")」
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| [サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")                              |
-| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")                                 |
-| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                                              |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| [サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")           |
+| [S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")              |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
 
 ## 特徴
 

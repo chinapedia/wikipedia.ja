@@ -7,8 +7,8 @@
 
   - PCドキュメントビューワ
   - ミュージックプレイヤー ([AAC](../Page/AAC.md "wikilink")方式対応)
-  - [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [着うたフル](../Page/着うたフル.md "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [S\!アプリ](../Page/S!アプリ.md "wikilink")（[メガアプリ](https://ja.wikipedia.org/wiki/メガアプリ "wikilink")）
   - [TVコール](https://ja.wikipedia.org/wiki/TVコール "wikilink")
   - [トライリンガル](https://ja.wikipedia.org/wiki/トライリンガル "wikilink")（日・英・韓）
@@ -22,7 +22,7 @@
 
 前機種の[804SSは](../Page/Vodafone_804SS.md "wikilink")、日本向けユーザインタフェースを搭載しており、海外メーカの携帯電話としては使いやすいという評判だった。しかし一部では海外機種特有の仕様もあった。 705SCでは前機種の特徴であった薄さはさらに薄くなり、スライド式3G携帯電話としては国内最薄（2006年10月現在）の12.9mmである。
 
-ユーザインタフェースは804SSを踏襲しているが、簡易留守録機能の搭載や、メール保存件数の増加、メニュー画面の種類の増加など、細かな点で改善が見られる。 ハードウエアとしても、[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink") V1.2に対応、さらに外部メモリ（MicroSD）対応など改善されている。 ただ、QRコード読み取り、[赤外線通信](../Page/IrDA.md "wikilink")、Felica (おサイフケータイ) などの機能は未搭載で、また、カメラ機能もマクロ撮影が出来ない等、コストパフォーマンス重視の位置付けをされた機種と言える。
+ユーザインタフェースは804SSを踏襲しているが、簡易留守録機能の搭載や、メール保存件数の増加、メニュー画面の種類の増加など、細かな点で改善が見られる。 ハードウエアとしても、[Bluetooth](../Page/Bluetooth.md "wikilink") V1.2に対応、さらに外部メモリ（MicroSD）対応など改善されている。 ただ、QRコード読み取り、[赤外線通信](../Page/IrDA.md "wikilink")、Felica (おサイフケータイ) などの機能は未搭載で、また、カメラ機能もマクロ撮影が出来ない等、コストパフォーマンス重視の位置付けをされた機種と言える。
 
 2ヶ月後に、この端末に3Gハイスピードを対応させた[709SCを販売したので](../Page/SoftBank_709SC.md "wikilink")、僅か4ヶ月と2番目の短さでカタログ落ちとなった。（カタログ掲載期間が最も短いのは、2008年終わりに、端末の発表後、日本での事業撤退を発表したノキア製[Nokia E71の](https://ja.wikipedia.org/wiki/Nokia_E71 "wikilink")1ヶ月である）
 

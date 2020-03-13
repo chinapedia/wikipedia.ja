@@ -1,7 +1,7 @@
 > この記事は[\* canary\*lunar Market](https://ja.wikipedia.org/wiki/\*_canary\*lunar_Market)から翻訳されています。
 
 
-**ゆかな＊はるな canary\*lunar Market**（ゆかな・はるな カナルナマーケット）は、[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")・[BEWE](../Page/BEWE.md "wikilink")で配信されていたオリジナル[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。
+**ゆかな＊はるな canary\*lunar Market**（ゆかな・はるな カナルナマーケット）は、[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")で配信されていたオリジナル[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。
 
 ## 概要
 
@@ -21,8 +21,8 @@
 
 ### 配信曜日など
 
-  - 放送：プレ放送:同年[9月28日](../Page/9月28日.md "wikilink")→本放送:[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")～2008年3月20日
-  - 配信：隔週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")（[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")・[BEWE](../Page/BEWE.md "wikilink")）
+  - 放送：プレ放送:同年[9月28日](../Page/9月28日.md "wikilink")→本放送:[2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")～2008年3月20日
+  - 配信：隔週[木曜日](../Page/木曜日.md "wikilink")（[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")）
   - スポンサー：**[BEWE](../Page/BEWE.md "wikilink")**、[COSPA](../Page/コスパ.md "wikilink")
 
 ## コーナー
@@ -53,7 +53,7 @@
 
 <!-- end list -->
 
-  - ＃2 （10月19日） [小泉豊](https://ja.wikipedia.org/wiki/小泉豊 "wikilink")〔「[N・H・Kにようこそ\!](https://ja.wikipedia.org/wiki/NHKにようこそ! "wikilink")」／「BEWEフロア」のコーナーから登場〕
+  - ＃2 （10月19日） [小泉豊](../Page/小泉豊.md "wikilink")〔「[N・H・Kにようこそ\!](../Page/NHKにようこそ!.md "wikilink")」／「BEWEフロア」のコーナーから登場〕
 
 <!-- end list -->
 
@@ -61,10 +61,10 @@
 
 <!-- end list -->
 
-  - ＃9,30 （1月25日,11月15日） [石田燿子](https://ja.wikipedia.org/wiki/石田燿子 "wikilink")
+  - ＃9,30 （1月25日,11月15日） [石田燿子](../Page/石田燿子.md "wikilink")
   - ＃23 （8月9日） [倉田雅世](../Page/倉田雅世.md "wikilink")
-  - ＃27 （10月4日） [五條真由美](https://ja.wikipedia.org/wiki/五條真由美 "wikilink")
-  - ＃28 （10月18日） [佐藤ひろ美](https://ja.wikipedia.org/wiki/佐藤ひろ美 "wikilink")　
+  - ＃27 （10月4日） [五條真由美](../Page/五條真由美.md "wikilink")
+  - ＃28 （10月18日） [佐藤ひろ美](../Page/佐藤ひろ美.md "wikilink")　
 
 ## 関連項目
 

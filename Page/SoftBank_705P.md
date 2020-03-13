@@ -1,7 +1,7 @@
 > この記事は[SoftBank 705P](https://ja.wikipedia.org/wiki/SoftBank_705P)から翻訳されています。
 
 
-**SoftBank 705P**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")705P）は[パナソニック モバイルコミュニケーションズ製の](https://ja.wikipedia.org/wiki/パナソニック_モバイルコミュニケーションズ "wikilink")[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。
+**SoftBank 705P**（[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")705P）は[パナソニック モバイルコミュニケーションズ製の](../Page/パナソニック_モバイルコミュニケーションズ.md "wikilink")[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[W-CDMA](../Page/W-CDMA.md "wikilink")通信方式の[携帯電話](../Page/携帯電話.md "wikilink")端末である。
 
 また、兄弟機となる**SoftBank 706P**、**SoftBank 705Px**についてもここで解説する。
 
@@ -21,15 +21,15 @@
 
 ## 主な機能・サービス
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~                          |
-| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")                                 |
-| ~~[PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")~~                      |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| ~~[S\!FeliCa](../Page/S!FeliCa.md "wikilink")~~                                          |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
-| ~~[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")~~                                |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~       |
+| [S\!ループ](https://ja.wikipedia.org/wiki/S!ループ "wikilink")              |
+| ~~[PCサイトブラウザ](https://ja.wikipedia.org/wiki/PCサイトブラウザ "wikilink")~~   |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| ~~[S\!FeliCa](../Page/S!FeliCa.md "wikilink")~~                       |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
+| ~~[ワンセグ](../Page/ワンセグ.md "wikilink")~~                                |
 
   - 705Pはメール着信音の鳴動時間が5秒に限られているが、706Pでは1秒から99秒までの間でユーザーが設定可能。ほかに基本的な機能の違いはない。
 
@@ -37,7 +37,7 @@
 
   - [ちかチャット](https://ja.wikipedia.org/wiki/ちかチャット "wikilink")対応
 
-### [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")対応プロファイル
+### [Bluetooth](../Page/Bluetooth.md "wikilink")対応プロファイル
 
   - HFP（Hands-Free Profile） ハンズフリー
   - HSP（Headset Profile） ヘッドセット

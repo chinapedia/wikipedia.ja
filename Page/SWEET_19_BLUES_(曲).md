@@ -5,11 +5,11 @@
 
 ## 解説
 
-  - 記録的なメガ・ヒットとなった2ndアルバム『SWEET 19 BLUES』からのリカットシングル。カップリング曲も同じくリカットの「Joy」。「Joy」は、[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")（[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")）との[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")ナンバー。ただし、「Joy」はアルバム『SWEET 19 BLUES』にはInterludeで収録されており、1分足らずでフェイド・アウトしてしまっているが、このシングル収録ヴァージョンはフルヴァージョンであるため、厳密に言えばリカットというのは多少無理がある。「Joy」のフルヴァージョンはどのアルバムにも収録されず、ただこのシングルで聞くことができる。
+  - 記録的なメガ・ヒットとなった2ndアルバム『SWEET 19 BLUES』からのリカットシングル。カップリング曲も同じくリカットの「Joy」。「Joy」は、[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")（[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")）との[デュエット](../Page/デュエット.md "wikilink")ナンバー。ただし、「Joy」はアルバム『SWEET 19 BLUES』にはInterludeで収録されており、1分足らずでフェイド・アウトしてしまっているが、このシングル収録ヴァージョンはフルヴァージョンであるため、厳密に言えばリカットというのは多少無理がある。「Joy」のフルヴァージョンはどのアルバムにも収録されず、ただこのシングルで聞くことができる。
   - 歌詞は「昔でも将来でも使える普遍的な言葉」を意識し、一旦「ダイヤルを回す」を思い浮かびながらも没にしたり\[1\]、[ポケベル全盛期だったけどポケベルではなくても](../Page/無線呼び出し.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")・[固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")でも通じる様に「ベル」と表現する\[2\]\[3\]等普段より気を使った。
-  - 1996年5月下旬に[globe](https://ja.wikipedia.org/wiki/globe "wikilink")「[Is this love](../Page/Is_this_love.md "wikilink")」と同時進行で制作した。「ヘソ出し・[ミニスカート](https://ja.wikipedia.org/wiki/ミニスカート "wikilink")を止めて、[パンツルックになった女の子](https://ja.wikipedia.org/wiki/ズボン "wikilink")」「肉体を隠して、内面を出そうとしている女の子」という共通のコンセプトを持っている\[4\]。
-  - [TOKIO](../Page/TOKIO.md "wikilink")の[山口達也とダブル主演した](https://ja.wikipedia.org/wiki/山口達也_\(代表的なトピック\) "wikilink")[東映](../Page/東映.md "wikilink")配給映画「[That's カンニング\! 史上最大の作戦?](https://ja.wikipedia.org/wiki/That's_カンニング!_史上最大の作戦? "wikilink")」の主題歌（エンディングテーマ）。
-  - 同時期に、女性アーティストでは史上最年少記録（当時18歳）での[スタジアム](../Page/スタジアム.md "wikilink")公演“SUMMER PRESENTS '96 AMURO NAMIE with [SUPER MONKEY'S](https://ja.wikipedia.org/wiki/SUPER_MONKEY'S "wikilink")”を、地元の沖縄（[宜野湾市](../Page/宜野湾市.md "wikilink")海浜公演野外劇場）と[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")で開催した（2ヶ所4公演）。最終日[9月1日](../Page/9月1日.md "wikilink")の千葉での模様を収めたライブビデオ「NAMIE AMURO FIRST ANNIVERSARY」（1996年[12月4日](../Page/12月4日.md "wikilink")発売）は、16万本を売り上げ、1997オリコン年間VIDEOセールスで2位にチャートインしたほか、自身が邦楽部門大賞を受賞した第11回“[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")”で、ミュージック・ビデオ賞を受賞した。
+  - 1996年5月下旬に[globe](https://ja.wikipedia.org/wiki/globe "wikilink")「[Is this love](../Page/Is_this_love.md "wikilink")」と同時進行で制作した。「ヘソ出し・[ミニスカート](../Page/ミニスカート.md "wikilink")を止めて、[パンツルックになった女の子](../Page/ズボン.md "wikilink")」「肉体を隠して、内面を出そうとしている女の子」という共通のコンセプトを持っている\[4\]。
+  - [TOKIO](../Page/TOKIO.md "wikilink")の[山口達也とダブル主演した](https://ja.wikipedia.org/wiki/山口達也_\(代表的なトピック\) "wikilink")[東映](../Page/東映.md "wikilink")配給映画「[That's カンニング\! 史上最大の作戦?](../Page/That's_カンニング!_史上最大の作戦?.md "wikilink")」の主題歌（エンディングテーマ）。
+  - 同時期に、女性アーティストでは史上最年少記録（当時18歳）での[スタジアム](../Page/スタジアム.md "wikilink")公演“SUMMER PRESENTS '96 AMURO NAMIE with [SUPER MONKEY'S](../Page/SUPER_MONKEY'S.md "wikilink")”を、地元の沖縄（[宜野湾市](../Page/宜野湾市.md "wikilink")海浜公演野外劇場）と[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")で開催した（2ヶ所4公演）。最終日[9月1日](../Page/9月1日.md "wikilink")の千葉での模様を収めたライブビデオ「NAMIE AMURO FIRST ANNIVERSARY」（1996年[12月4日](../Page/12月4日.md "wikilink")発売）は、16万本を売り上げ、1997オリコン年間VIDEOセールスで2位にチャートインしたほか、自身が邦楽部門大賞を受賞した第11回“[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")”で、ミュージック・ビデオ賞を受賞した。
   - これまで与えられた曲を自分なりに表現してきた安室だったが、当楽曲制作にあたって小室哲哉と話し合い、今の自分の偽らざる心境を小室に打ち明けこの曲が完成した。上述のライブではゲスト出演の小室によるキーボードで披露され、「誰も見たことのない顔　誰かに見せるかも知れない」のフレーズの歌唱中に感極まり涙を見せた。
   - 累計出荷枚数は65万枚\[5\]。
   - 2008年に[加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")が「[19 Memories](https://ja.wikipedia.org/wiki/19_Memories "wikilink")」としてサンプリングした。
@@ -22,7 +22,7 @@
 ## 主な記録
 
   - 『[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』96年下半期総合パーフェクトランキング22位。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[元日](../Page/元日.md "wikilink")に放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink")『全部歌えるカラオケ祭り日本の名曲ベスト100』の歴代カラオケランキングで28位。
+  - [2005年](../Page/2005年.md "wikilink")[元日](../Page/元日.md "wikilink")に放送された[テレビ朝日](../Page/テレビ朝日.md "wikilink")『全部歌えるカラオケ祭り日本の名曲ベスト100』の歴代カラオケランキングで28位。
 
 ## 収録曲
 
@@ -74,7 +74,7 @@
 
 <!-- end list -->
 
-  - [星野みちる](https://ja.wikipedia.org/wiki/星野みちる "wikilink") - カバーアルバム『マイ・フェイバリット・ソングス』（2016年9月7日）に収録\[7\]
+  - [星野みちる](../Page/星野みちる.md "wikilink") - カバーアルバム『マイ・フェイバリット・ソングス』（2016年9月7日）に収録\[7\]
   - [t-Ace](https://ja.wikipedia.org/wiki/t-Ace "wikilink") - 「Sweet 19 Blues〜オレには遠い～」として2019年10月16日に配信。SWEET 19 BLUESを[サンプリング](../Page/サンプリング.md "wikilink")したもので、サビの部分はベスト・アルバム『Finally』で安室が再録音したものを使用している\[8\]。
 
 ## 脚注
@@ -84,7 +84,7 @@
 1.  ソニー・マガジンズ刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 2008年5月号53Pより。
 2.  「[iFLYER: AbemaTVにおいて小室哲哉と加藤ミリヤが初トーク！「私の初めての音楽体験は小室さん」](https://iflyer.tv/ja/article/2017/03/01/komurotetsuya005/)」より。
 3.
-4.  [マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")刊『[POPEYE](../Page/POPEYE.md "wikilink")』1997年1月10-25日合併号148P-151Pより。
+4.  [マガジンハウス](../Page/マガジンハウス.md "wikilink")刊『[POPEYE](../Page/POPEYE.md "wikilink")』1997年1月10-25日合併号148P-151Pより。
 5.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 6.  [ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")音楽出版刊「ヒット曲は発明だ\!」[羽島亨](https://ja.wikipedia.org/wiki/羽島亨 "wikilink")著173Pより。
 7.

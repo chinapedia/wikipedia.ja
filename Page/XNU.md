@@ -5,19 +5,19 @@
 
 ## デザイン
 
-XNUは[モノリシックカーネル](../Page/モノリシックカーネル.md "wikilink")と[マイクロカーネル](https://ja.wikipedia.org/wiki/マイクロカーネル "wikilink")の特徴を併せもつ[ハイブリッドカーネルで](https://ja.wikipedia.org/wiki/カーネル#ハイブリッドカーネル "wikilink")、マイクロカーネルが可能にする[メッセージパッシングのモジュール性やより広範な](https://ja.wikipedia.org/wiki/メッセージ_\(コンピュータ\) "wikilink")[メモリ保護](https://ja.wikipedia.org/wiki/メモリ保護 "wikilink")、モノリシックカーネルがもつ実行速度の保持など、両方の技術を有効に利用することを試みている。
+XNUは[モノリシックカーネル](../Page/モノリシックカーネル.md "wikilink")と[マイクロカーネル](https://ja.wikipedia.org/wiki/マイクロカーネル "wikilink")の特徴を併せもつ[ハイブリッドカーネルで](https://ja.wikipedia.org/wiki/カーネル#ハイブリッドカーネル "wikilink")、マイクロカーネルが可能にする[メッセージパッシングのモジュール性やより広範な](../Page/メッセージ_\(コンピュータ\).md "wikilink")[メモリ保護](../Page/メモリ保護.md "wikilink")、モノリシックカーネルがもつ実行速度の保持など、両方の技術を有効に利用することを試みている。
 
-XNUは現在、[ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")\[2\]、[IA-32](https://ja.wikipedia.org/wiki/IA-32 "wikilink")、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")ベースのプロセッサにおいて、シングルプロセッサと[SMPの両方で動作する](../Page/対称型マルチプロセッシング.md "wikilink")。
+XNUは現在、[ARM](../Page/ARMアーキテクチャ.md "wikilink")\[2\]、[IA-32](../Page/IA-32.md "wikilink")、[x64](https://ja.wikipedia.org/wiki/x64 "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")ベースのプロセッサにおいて、シングルプロセッサと[SMPの両方で動作する](../Page/対称型マルチプロセッシング.md "wikilink")。
 
 ### Mach
 
 XNUの基礎である[Mach](../Page/Mach.md "wikilink")はシンプルなマイクロカーネルであり、OSのコアを分割された柔軟なプロセスとして実行することができる（Machコアの上でいくつかのOSを平行して実行できる）。しかし、これはカーネル/ユーザモードの切り替えに時間を消費し、またマイクロカーネルのアドレス空間とデーモンとのあいだで行われるメッセージのマッピングやコピーによってオーバーヘッドを生じることから、しばしばパフォーマンスが低下してしまう。macOSでは効率化のために、[BSD](../Page/BSD.md "wikilink")の機能はMachのコアの中に組み込まれた。その結果、Machと古典的なBSDカーネル両方の利点と欠点を併せもつものとなった。
 
-Machは、カーネル[スレッド](../Page/スレッド_\(コンピュータ\).md "wikilink")、[プロセス](../Page/プロセス.md "wikilink")管理、[プリエンプティブ・マルチタスク](https://ja.wikipedia.org/wiki/プリエンプティブ・マルチタスク "wikilink")、メッセージパッシング（[プロセス間通信](../Page/プロセス間通信.md "wikilink")）、[メモリ保護](https://ja.wikipedia.org/wiki/メモリ保護 "wikilink")、[仮想記憶](../Page/仮想記憶.md "wikilink")、[ソフトリアルタイム処理のサポート](https://ja.wikipedia.org/wiki/リアルタイムシステム "wikilink")、カーネル[デバッグ](../Page/デバッグ.md "wikilink")のサポート、コンソール[I/Oを提供する](../Page/入出力.md "wikilink")。
+Machは、カーネル[スレッド](../Page/スレッド_\(コンピュータ\).md "wikilink")、[プロセス](../Page/プロセス.md "wikilink")管理、[プリエンプティブ・マルチタスク](https://ja.wikipedia.org/wiki/プリエンプティブ・マルチタスク "wikilink")、メッセージパッシング（[プロセス間通信](../Page/プロセス間通信.md "wikilink")）、[メモリ保護](../Page/メモリ保護.md "wikilink")、[仮想記憶](../Page/仮想記憶.md "wikilink")、[ソフトリアルタイム処理のサポート](https://ja.wikipedia.org/wiki/リアルタイムシステム "wikilink")、カーネル[デバッグ](../Page/デバッグ.md "wikilink")のサポート、コンソール[I/Oを提供する](../Page/入出力.md "wikilink")。
 
 ### BSD
 
-カーネルの[BSD](../Page/BSD.md "wikilink")の部分は、[POSIX](../Page/POSIX.md "wikilink") [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink")（BSDシステムコール）、Machタスク上での[Unixプロセスモデル](../Page/UNIX.md "wikilink")、基本的なセキュリティーポリシー、ユーザIDとグループID、アクセス権、[プロトコルスタック](../Page/プロトコルスタック.md "wikilink")、[仮想ファイルシステム](../Page/仮想ファイルシステム.md "wikilink")、[HFS](../Page/Hierarchical_File_System.md "wikilink") / [HFS+などいくつかのローカルファイルシステム](https://ja.wikipedia.org/wiki/HFS_Plus "wikilink")、[Network File System](https://ja.wikipedia.org/wiki/Network_File_System "wikilink") (NFS) クライアントとサーバ、暗号化フレームワーク、[UNIX System V](https://ja.wikipedia.org/wiki/UNIX_System_V "wikilink")[プロセス間通信](../Page/プロセス間通信.md "wikilink")、auditサブシステム、[強制アクセス制御](https://ja.wikipedia.org/wiki/強制アクセス制御 "wikilink")、いくつかのlocking primitivesを提供する。
+カーネルの[BSD](../Page/BSD.md "wikilink")の部分は、[POSIX](../Page/POSIX.md "wikilink") [API](../Page/アプリケーションプログラミングインタフェース.md "wikilink")（BSDシステムコール）、Machタスク上での[Unixプロセスモデル](../Page/UNIX.md "wikilink")、基本的なセキュリティーポリシー、ユーザIDとグループID、アクセス権、[プロトコルスタック](../Page/プロトコルスタック.md "wikilink")、[仮想ファイルシステム](../Page/仮想ファイルシステム.md "wikilink")、[HFS](../Page/Hierarchical_File_System.md "wikilink") / [HFS+などいくつかのローカルファイルシステム](https://ja.wikipedia.org/wiki/HFS_Plus "wikilink")、[Network File System](../Page/Network_File_System.md "wikilink") (NFS) クライアントとサーバ、暗号化フレームワーク、[UNIX System V](../Page/UNIX_System_V.md "wikilink")[プロセス間通信](../Page/プロセス間通信.md "wikilink")、auditサブシステム、[強制アクセス制御](https://ja.wikipedia.org/wiki/強制アクセス制御 "wikilink")、いくつかのlocking primitivesを提供する。
 
 ### I/O Kit
 
@@ -27,7 +27,7 @@ Machは、カーネル[スレッド](../Page/スレッド_\(コンピュータ\)
 
 ## 共有資源の保護
 
-マルチプロセッサのマシンを安全に動かすために（ファイル、データ構造など）[共有資源](https://ja.wikipedia.org/wiki/共有資源 "wikilink")へのアクセスは、同一時間のうちにリソースが改変されないように直列化しなければならない。同時発生的なアクセスを防ぐための手法として[不可分操作](../Page/不可分操作.md "wikilink")、[スピンロック](../Page/スピンロック.md "wikilink")、[クリティカルセクション](https://ja.wikipedia.org/wiki/クリティカルセクション "wikilink")、[排他制御](../Page/排他制御.md "wikilink")、serializing tokenを用いることができる。
+マルチプロセッサのマシンを安全に動かすために（ファイル、データ構造など）[共有資源](https://ja.wikipedia.org/wiki/共有資源 "wikilink")へのアクセスは、同一時間のうちにリソースが改変されないように直列化しなければならない。同時発生的なアクセスを防ぐための手法として[不可分操作](../Page/不可分操作.md "wikilink")、[スピンロック](../Page/スピンロック.md "wikilink")、[クリティカルセクション](../Page/クリティカルセクション.md "wikilink")、[排他制御](../Page/排他制御.md "wikilink")、serializing tokenを用いることができる。
 
 ## 歴史
 

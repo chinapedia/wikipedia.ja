@@ -21,9 +21,9 @@
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中から戦後にかけて、PPおよびPPKは各国の小型拳銃の設計に影響を与えた。例えば[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[マカロフ拳銃](https://ja.wikipedia.org/wiki/マカロフ_PM "wikilink")、[ハンガリー](../Page/ハンガリー.md "wikilink")の、[チェコ](../Page/チェコ.md "wikilink")のなどはPPおよびPPKの影響を受けて開発された\[5\]。大戦中の生産数は150,000丁を上回った\[6\]。
 
-敗戦後、[赤軍](../Page/赤軍.md "wikilink")が進駐したドイツ東部から西部へと脱出した[フリッツ・ワルサー](https://ja.wikipedia.org/wiki/フリッツ・ワルサー "wikilink")は、[ウルム](https://ja.wikipedia.org/wiki/ウルム "wikilink")にてワルサー社の再建に着手した。1952年、ワルサーは再建資金を確保するべく[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の（Manurhin\[7\]）に接触し、PPシリーズの製造許可を与えた。マニューリンとの契約は1986年に失効した\[8\]。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")からは新生ワルサー社でも生産が始められ、現在でも販売されている。
+敗戦後、[赤軍](../Page/赤軍.md "wikilink")が進駐したドイツ東部から西部へと脱出した[フリッツ・ワルサー](../Page/フリッツ・ワルサー.md "wikilink")は、[ウルム](../Page/ウルム.md "wikilink")にてワルサー社の再建に着手した。1952年、ワルサーは再建資金を確保するべく[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の（Manurhin\[7\]）に接触し、PPシリーズの製造許可を与えた。マニューリンとの契約は1986年に失効した\[8\]。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")からは新生ワルサー社でも生産が始められ、現在でも販売されている。
 
-冷戦期には、東西各国の秘密活動を担当する情報機関において制式拳銃として採用された。[MI5](../Page/保安局_\(イギリス\).md "wikilink")/[MI6](../Page/秘密情報部.md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")）、[BND](https://ja.wikipedia.org/wiki/連邦情報局 "wikilink")（[西ドイツ](../Page/西ドイツ.md "wikilink")）、[SDECE](https://ja.wikipedia.org/wiki/対外治安総局 "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")）、[モサド](../Page/イスラエル諜報特務庁.md "wikilink")（[イスラエル](../Page/イスラエル.md "wikilink")）といった機関のほか、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")や[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の諸機関でも使用された\[9\]。
+冷戦期には、東西各国の秘密活動を担当する情報機関において制式拳銃として採用された。[MI5](../Page/保安局_\(イギリス\).md "wikilink")/[MI6](../Page/秘密情報部.md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")）、[BND](../Page/連邦情報局.md "wikilink")（[西ドイツ](../Page/西ドイツ.md "wikilink")）、[SDECE](../Page/対外治安総局.md "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")）、[モサド](../Page/イスラエル諜報特務庁.md "wikilink")（[イスラエル](../Page/イスラエル.md "wikilink")）といった機関のほか、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")や[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の諸機関でも使用された\[9\]。
 
 [日本の警察](../Page/日本の警察.md "wikilink")でも[SP](../Page/セキュリティポリス.md "wikilink")、[皇宮警察](https://ja.wikipedia.org/wiki/皇宮警察 "wikilink")（侍衛官）などで[要人警護](https://ja.wikipedia.org/wiki/要人警護 "wikilink")用にワルサーPPKが使われていた。現在は[SIG SAUER P230JPに更新されている](https://ja.wikipedia.org/wiki/SIG_SAUER_P230#バリエーション "wikilink")。
 
@@ -77,7 +77,7 @@
   - [ワルサー](../Page/ワルサー.md "wikilink")
   - [ワルサーPP](../Page/ワルサーPP.md "wikilink")
   - [ワルサーP38](https://ja.wikipedia.org/wiki/ワルサーP38 "wikilink")
-  - [ワルサーP99](https://ja.wikipedia.org/wiki/ワルサーP99 "wikilink")
+  - [ワルサーP99](../Page/ワルサーP99.md "wikilink")
   - [ザウエル&ゾーン 38H](https://ja.wikipedia.org/wiki/ザウエル&ゾーン_38H "wikilink")
   - [マカロフ PM](https://ja.wikipedia.org/wiki/マカロフ_PM "wikilink")
 
@@ -91,7 +91,7 @@
 4.
 5.
 6.
-7.  Manufacture de machines du Haut-Rhinすなわち「[オー＝ラン機械製造社](https://ja.wikipedia.org/wiki/オー＝ラン県 "wikilink")」の通称。
+7.  Manufacture de machines du Haut-Rhinすなわち「[オー＝ラン機械製造社](../Page/オー＝ラン県.md "wikilink")」の通称。
 8.
 9.
 10.

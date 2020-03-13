@@ -1,13 +1,13 @@
 > この記事は[IRCAM](https://ja.wikipedia.org/wiki/IRCAM)から翻訳されています。
 
 
-**IRCAM**（イルカム、[仏正式](https://ja.wikipedia.org/wiki/フランス語 "wikilink"): Institut de Recherche et Coordination Acoustique/Musique）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の、[音響](https://ja.wikipedia.org/wiki/音響 "wikilink")および[音楽](../Page/音楽.md "wikilink")の探求と共同のための研究所。[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")より、[ポンピドゥー・センター](../Page/ポンピドゥー・センター.md "wikilink")の関連組織として[ジョルジュ・ポンピドゥー](../Page/ジョルジュ・ポンピドゥー.md "wikilink")の指導の下[ピエール・ブーレーズ](../Page/ピエール・ブーレーズ.md "wikilink")によって組織され、[1977年](../Page/1977年.md "wikilink")に設立した。訳語として**フランス国立音響音楽研究所**が当てられている。
+**IRCAM**（イルカム、[仏正式](https://ja.wikipedia.org/wiki/フランス語 "wikilink"): Institut de Recherche et Coordination Acoustique/Musique）は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の、[音響](https://ja.wikipedia.org/wiki/音響 "wikilink")および[音楽](../Page/音楽.md "wikilink")の探求と共同のための研究所。[1970年](../Page/1970年.md "wikilink")より、[ポンピドゥー・センター](../Page/ポンピドゥー・センター.md "wikilink")の関連組織として[ジョルジュ・ポンピドゥー](../Page/ジョルジュ・ポンピドゥー.md "wikilink")の指導の下[ピエール・ブーレーズ](../Page/ピエール・ブーレーズ.md "wikilink")によって組織され、[1977年](../Page/1977年.md "wikilink")に設立した。訳語として**フランス国立音響音楽研究所**が当てられている。
 
 ## 概要
 
 IRCAMは、今日、音楽制作と科学研究に特化した公的[研究機関](https://ja.wikipedia.org/wiki/研究機関 "wikilink")としては世界で最も大きな組織に数えられる。芸術の未来研究と科学技術の[イノベーション](../Page/イノベーション.md "wikilink")が集約する唯一の場といえるこの研究所は、[2006年](../Page/2006年.md "wikilink")より[フランク・マドレーネ](https://ja.wikipedia.org/wiki/フランク・マドレーネ "wikilink")が所長の座についており、パリの演奏会シーズンを通じ、また音楽祭や、フランス国内外のツアーを通じて、制作、研究、伝播という3つの基本軸を展開している。
 
-IRCAMは音楽制作の主要拠点であると共に、国際的な作曲家の創作活動やレジデンスの場でもあり、作曲家に対しては委嘱という手段によって、恵まれた出会いの機会を与えている。[レジデント・アーティストのプロジェクトは数多く行われており](../Page/アーティスト・イン・レジデンス.md "wikilink")、これらは、複数の分野（[音楽](../Page/音楽.md "wikilink")、[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")、[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[演劇](../Page/演劇.md "wikilink")、[映画](../Page/映画.md "wikilink")）に及ぶこともある。毎年行われている音楽祭[アゴラ](../Page/アゴラ.md "wikilink")では、こうした創作活動を一般向けに紹介している。
+IRCAMは音楽制作の主要拠点であると共に、国際的な作曲家の創作活動やレジデンスの場でもあり、作曲家に対しては委嘱という手段によって、恵まれた出会いの機会を与えている。[レジデント・アーティストのプロジェクトは数多く行われており](../Page/アーティスト・イン・レジデンス.md "wikilink")、これらは、複数の分野（[音楽](../Page/音楽.md "wikilink")、[ダンス](../Page/ダンス.md "wikilink")、[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")、[演劇](../Page/演劇.md "wikilink")、[映画](../Page/映画.md "wikilink")）に及ぶこともある。毎年行われている音楽祭[アゴラ](../Page/アゴラ.md "wikilink")では、こうした創作活動を一般向けに紹介している。
 
 IRCAMは音楽と音響の分野において、科学技術のイノベーションの最先端にいる研究センターである。IRCAMの研究は、幅広く国内外の大学や企業と共同して行われ、その範囲は[音響学](../Page/音響学.md "wikilink")、[信号処理](https://ja.wikipedia.org/wiki/信号処理 "wikilink")、[情報理論](../Page/情報理論.md "wikilink") ([言語](../Page/言語.md "wikilink")、[リアルタイム](../Page/リアルタイム.md "wikilink")、[データベース](../Page/データベース.md "wikilink")、[マンマシンインタフェース](../Page/マンマシンインタフェース.md "wikilink"))、[音楽学](../Page/音楽学.md "wikilink")、音楽認知研究に及ぶ。これらの研究は[メディアアート](../Page/メディアアート.md "wikilink")、[造形](https://ja.wikipedia.org/wiki/造形 "wikilink")、[舞台芸術](../Page/舞台芸術.md "wikilink")、産業界（[文化産業](../Page/文化産業.md "wikilink")、通信産業、情報産業、[自動車産業](../Page/自動車産業.md "wikilink")、[交通機関](https://ja.wikipedia.org/wiki/交通機関 "wikilink")）にまで応用されている。
 
@@ -200,7 +200,7 @@ IRCAMのエントランスは、ポンピドゥー・センター南側に位置
   - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink"): [サン・テチエンヌ](https://ja.wikipedia.org/wiki/サン・テチエンヌ "wikilink")においてピエール・ブーレーズが講演中に現代音楽研究所の設立を示唆
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink"): ポンピドゥー大統領が[現代アート](https://ja.wikipedia.org/wiki/現代アート "wikilink")総合施設建設計画を公表
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink"): [ポンピドゥ・センター](https://ja.wikipedia.org/wiki/ポンピドゥ・センター "wikilink")計画の一環として、ブーレーズが研究所設立計画を公表
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink"): 計画開始 (構想責任者: ピエール・ブーレーズ)
+  - [1970年](../Page/1970年.md "wikilink"): 計画開始 (構想責任者: ピエール・ブーレーズ)
   - [1972年](../Page/1972年.md "wikilink"): ポンピドゥー・センター着工開始
   - [1973年](../Page/1973年.md "wikilink"): [イゴール・ストラヴィンスキー](https://ja.wikipedia.org/wiki/イゴール・ストラヴィンスキー "wikilink")広場竣工
   - [1974年](../Page/1974年.md "wikilink"): IRCAM運営開始 (所長ブーレーズ)、仮本部設営 (サン・メリ教会)
@@ -270,7 +270,7 @@ IRCAMのエントランスは、ポンピドゥー・センター南側に位置
   - [NeXT](../Page/NeXT.md "wikilink")
   - [Max/MSP](../Page/Max_\(ソフトウェア\).md "wikilink")
   - [OpenMusic](https://ja.wikipedia.org/wiki/OpenMusic "wikilink")
-  - [カストラート (映画)](https://ja.wikipedia.org/wiki/カストラート_\(映画\) "wikilink")
+  - [カストラート (映画)](../Page/カストラート_\(映画\).md "wikilink")
 
 ## 脚注
 

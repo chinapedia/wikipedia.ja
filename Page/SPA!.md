@@ -5,7 +5,7 @@
 
 ## 沿革
 
-[1988年](../Page/1988年.md "wikilink")[6月](../Page/6月.md "wikilink")、『週刊サンケイ』（[1952年](../Page/1952年.md "wikilink")、[産業経済新聞社](../Page/産業経済新聞社.md "wikilink")から創刊）が[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")の題号変更（サンケイ→産経新聞）に伴って、雑誌名・記事内容を若者向けにリニューアルする形で創刊された。雑誌サイズはB5からB5変形に変更され、創刊からの号数（バックナンバー）は『週刊サンケイ』から承継している。「新装刊号」とされた1988年6月9日号のキャッチは「スパ！と図星発見ー情報と遊べる痛快WEEKLY」となっている。表紙は、[嶋田久作](../Page/嶋田久作.md "wikilink")。巻頭は、「[木村太郎](https://ja.wikipedia.org/wiki/木村太郎_\(ジャーナリスト\) "wikilink") vs [久米宏](https://ja.wikipedia.org/wiki/久米宏 "wikilink")」の対談記事\[2\]。
+[1988年](../Page/1988年.md "wikilink")[6月](../Page/6月.md "wikilink")、『週刊サンケイ』（[1952年](../Page/1952年.md "wikilink")、[産業経済新聞社](../Page/産業経済新聞社.md "wikilink")から創刊）が[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")の題号変更（サンケイ→産経新聞）に伴って、雑誌名・記事内容を若者向けにリニューアルする形で創刊された。雑誌サイズはB5からB5変形に変更され、創刊からの号数（バックナンバー）は『週刊サンケイ』から承継している。「新装刊号」とされた1988年6月9日号のキャッチは「スパ！と図星発見ー情報と遊べる痛快WEEKLY」となっている。表紙は、[嶋田久作](../Page/嶋田久作.md "wikilink")。巻頭は、「[木村太郎](https://ja.wikipedia.org/wiki/木村太郎_\(ジャーナリスト\) "wikilink") vs [久米宏](../Page/久米宏.md "wikilink")」の対談記事\[2\]。
 
 誌名は「世相をスパッと斬る」から（「すっぱ抜き」からという説も）。創刊当時のキャッチコピーは“週刊誌の突然変異”。現在の題字ロゴは[1989年](../Page/1989年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から使用している。
 
@@ -83,7 +83,7 @@
   - TV無差別級（[神足裕司](../Page/神足裕司.md "wikilink")が[フジテレビ系で放送の番組を辛口批評](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - 神なき国のガリバー
   - 中森文化新聞（1990年代にあった[中森明夫](../Page/中森明夫.md "wikilink")が主宰していたコーナー）
-  - 空想科学的“生活向上委員会”（[柳田理科雄](https://ja.wikipedia.org/wiki/柳田理科雄 "wikilink")によるコラム）
+  - 空想科学的“生活向上委員会”（[柳田理科雄](../Page/柳田理科雄.md "wikilink")によるコラム）
   - からまん（[唐沢なをき](../Page/唐沢なをき.md "wikilink")の漫画、天然記念物のトキが性格の悪い課長であるという設定のトキ課長シリーズが評判になる）
   - ニッポンの未明〜憂国妄想マンガ （[さかもと未明](https://ja.wikipedia.org/wiki/さかもと未明 "wikilink")の漫画）
   - 激裏クリニック

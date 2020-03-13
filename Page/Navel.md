@@ -3,13 +3,13 @@
 
 **Navel**（ネーブル）は、株式会社オメガビジョン（発足当初は有限会社）の[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")ブランドである。
 
-『[それは舞い散る桜のように](../Page/それは舞い散る桜のように.md "wikilink")』で成功を収めた[BasiL](https://ja.wikipedia.org/wiki/BasiL "wikilink")の所属スタッフの大半が、2003年に独立して作ったブランドである。
+『[それは舞い散る桜のように](../Page/それは舞い散る桜のように.md "wikilink")』で成功を収めた[BasiL](../Page/BasiL.md "wikilink")の所属スタッフの大半が、2003年に独立して作ったブランドである。
 
 2006年3月には、姉妹ブランド**Lime**（ライム）を発足した。
 
 ## 沿革
 
-有限会社バジルによるゲームブランドBasiLは2002年制作の『それは舞い散る桜のように』が大ヒットしたが、所属スタッフのほとんどが社長と対立し退社。BasiLの中心人物であった[西又葵](../Page/西又葵.md "wikilink")、[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink")らが、所属スタッフのほとんどや先に退社していた[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")らともに2003年2月に有限会社オメガビジョンを設立し、3月25日にNavelのオフィシャルウェブサイトを開設した。さらに3月29日発売の『[マジキュー MARCH2003](../Page/マジキュー.md "wikilink")プレミアム』にてブランド処女作『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")』の制作を発表した\[1\]。
+有限会社バジルによるゲームブランドBasiLは2002年制作の『それは舞い散る桜のように』が大ヒットしたが、所属スタッフのほとんどが社長と対立し退社。BasiLの中心人物であった[西又葵](../Page/西又葵.md "wikilink")、[アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink")らが、所属スタッフのほとんどや先に退社していた[鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink")らともに2003年2月に有限会社オメガビジョンを設立し、3月25日にNavelのオフィシャルウェブサイトを開設した。さらに3月29日発売の『[マジキュー MARCH2003](../Page/マジキュー.md "wikilink")プレミアム』にてブランド処女作『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』の制作を発表した\[1\]。
 
 2004年1月30日に発売された『SHUFFLE\!』が、同年のGetchu.comセールスランキング第3位を記録するほど大ヒットし\[2\]、一躍人気ブランドの仲間入りをした。同作は翌年にアニメ化、またスピンオフ作品が続けて作られるなどの人気シリーズとなった。
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - 2004年1月30日 - [SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")
+  - 2004年1月30日 - [SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")
       - 2005年9月16日 - [Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")
       - 2006年11月24日 - [Really? Really\!](../Page/Really?_Really!.md "wikilink")
       - 2009年10月30日 - SHUFFLE\! Essence+
@@ -110,7 +110,7 @@
 
 <!-- end list -->
 
-  - [アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink") - [BasiL](https://ja.wikipedia.org/wiki/BasiL "wikilink")から離脱、創立メンバー。
+  - [アッチョリケ](https://ja.wikipedia.org/wiki/アッチョリケ "wikilink") - [BasiL](../Page/BasiL.md "wikilink")から離脱、創立メンバー。
 
 <!-- end list -->
 
@@ -127,8 +127,8 @@
 
 <!-- end list -->
 
-  - [王雀孫](https://ja.wikipedia.org/wiki/王雀孫 "wikilink") - BasiLから離脱、創立メンバー。
-  - 森林彬 - [キャラメルBOX](https://ja.wikipedia.org/wiki/キャラメルBOX "wikilink")から2007年に移籍。
+  - [王雀孫](../Page/王雀孫.md "wikilink") - BasiLから離脱、創立メンバー。
+  - 森林彬 - [キャラメルBOX](../Page/キャラメルBOX.md "wikilink")から2007年に移籍。
   - 東ノ助 - 2008年入社。旧名ヒガシの助。
 
 <!-- end list -->
@@ -210,8 +210,8 @@
   - ひろし - プログラマー。2003年入社、2005年退社。
   - AlAi - 広報・デザイン・Website管理・作詞、他。2003年入社、2006年4月退社。
   - まさ - ディレクター。2004年入社、2006年退社。
-  - [鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink") - キャラクターデザイン・原画。[BasiL](https://ja.wikipedia.org/wiki/BasiL "wikilink")からフリー（[F\&C](../Page/F&C.md "wikilink")の外注）を経て、創立メンバー。[2007年](../Page/2007年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に正社員を辞し、フリー･外注での参加に移行。
-  - [あごバリア](../Page/あごバリア.md "wikilink") - 企画・シナリオ。BasiLから[ういんどみる](../Page/ういんどみる.md "wikilink")を経て2004年に入社（『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")』発売まではういんどみる所属）。2007年3月末に正社員を辞し、フリー･外注での参加に移行。2008年、[Rosebleu](https://ja.wikipedia.org/wiki/Rosebleu "wikilink")の創立に参加。2018年に死去。
+  - [鈴平ひろ](https://ja.wikipedia.org/wiki/鈴平ひろ "wikilink") - キャラクターデザイン・原画。[BasiL](../Page/BasiL.md "wikilink")からフリー（[F\&C](../Page/F&C.md "wikilink")の外注）を経て、創立メンバー。[2007年](../Page/2007年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に正社員を辞し、フリー･外注での参加に移行。
+  - [あごバリア](../Page/あごバリア.md "wikilink") - 企画・シナリオ。BasiLから[ういんどみる](../Page/ういんどみる.md "wikilink")を経て2004年に入社（『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』発売まではういんどみる所属）。2007年3月末に正社員を辞し、フリー･外注での参加に移行。2008年、[Rosebleu](https://ja.wikipedia.org/wiki/Rosebleu "wikilink")の創立に参加。2018年に死去。
   - 青猫 - プログラマー。2004年入社。自身のmixi上で2007年末退社を発表。2008年にRosebleuを創立し、代表を務める。
   - マリリン☆カトウ - グラフィッカー。BasiLから[ういんどみる](../Page/ういんどみる.md "wikilink")を経て2004年に入社。ゲーム制作の考え方と方向性が自分とは合わないと確信したため、退職を決意したと自サイト上に発表し、2008年5月末退社。『それは舞い散る桜のように 完全版』以後、新生BasiL作品の制作に参加した。
   - おやかた - グラフィッカー。2005年入社。2008年に退社し、Rosebleuへ移籍。
@@ -225,7 +225,7 @@
   - 内藤侑史 - サウンド担当。元NACHTMUSIK所属。2006年末に脱退後はフリーのかたわら[Angel Noteメンバー](../Page/Angel_Note.md "wikilink")。
   - 山田和裕 - サウンド担当。元NACHTMUSIK所属。2006年末に脱退後はフリーのかたわらAngel Noteメンバー。
   - coldhand - サウンド担当。元NACHTMUSIK所属。
-  - tsukune. - [Iris motion graphics所属](../Page/Iris_motion_graphics.md "wikilink")。『[SHUFFLE\!](https://ja.wikipedia.org/wiki/SHUFFLE! "wikilink")』から『[Really? Really\!](../Page/Really?_Really!.md "wikilink")』までのムービーを制作。
+  - tsukune. - [Iris motion graphics所属](../Page/Iris_motion_graphics.md "wikilink")。『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』から『[Really? Really\!](../Page/Really?_Really!.md "wikilink")』までのムービーを制作。
   - [あきら](../Page/あきら_\(イラストレーター\).md "wikilink") - 『[ノストラダムスに聞いてみろ♪](../Page/ノストラダムスに聞いてみろ♪.md "wikilink")』『[Maximum Magic](https://ja.wikipedia.org/wiki/Maximum_Magic "wikilink")』キャラクターデザイン・原画担当。
 
 ## ブランドキャラクター
@@ -260,7 +260,7 @@
 
 ## インターネットラジオ
 
-情報番組『ねぶら』が2005年[7月18日](../Page/7月18日.md "wikilink")から[ランティスネットラジオ](https://ja.wikipedia.org/wiki/ランティスネットラジオ "wikilink")他で配信中。詳細は『**[ねぶら](https://ja.wikipedia.org/wiki/ねぶら "wikilink")**』の項参照。
+情報番組『ねぶら』が2005年[7月18日](../Page/7月18日.md "wikilink")から[ランティスネットラジオ](https://ja.wikipedia.org/wiki/ランティスネットラジオ "wikilink")他で配信中。詳細は『**[ねぶら](../Page/ねぶら.md "wikilink")**』の項参照。
 
 ## かぶら
 
@@ -277,8 +277,8 @@ Navelによるライブイベントであり、正式名称は「Navel Live in T
 <!-- end list -->
 
   - Navel Live in TOKYO かぶら2009
-    2009年5月4日開催。司会は荻原秀樹、後藤邑子、[日野聡](https://ja.wikipedia.org/wiki/日野聡 "wikilink")。
-    第1部のトークではあおきさやか、ひと美、後藤邑子、荻原秀樹による『SHUFFLE\!』生アフレコミニドラマ、ドラマCD声優陣である[吉田真弓](https://ja.wikipedia.org/wiki/吉田真弓_\(声優\) "wikilink")、[小野涼子](../Page/小野涼子.md "wikilink")、後藤邑子、[又吉愛](../Page/又吉愛.md "wikilink")、日野聡、荻原秀樹による『[俺たちに翼はない](https://ja.wikipedia.org/wiki/俺たちに翼はない "wikilink")』生アフレコミニドラマ、さらに『SHUFFLE\!』×『俺たちに翼はない』生アフレコミニドラマが披露された。また西又葵、アッチョリケ、王雀孫によるインフォメーションコーナー（新作の発表等）が披露された。
+    2009年5月4日開催。司会は荻原秀樹、後藤邑子、[日野聡](../Page/日野聡.md "wikilink")。
+    第1部のトークではあおきさやか、ひと美、後藤邑子、荻原秀樹による『SHUFFLE\!』生アフレコミニドラマ、ドラマCD声優陣である[吉田真弓](../Page/吉田真弓_\(声優\).md "wikilink")、[小野涼子](../Page/小野涼子.md "wikilink")、後藤邑子、[又吉愛](../Page/又吉愛.md "wikilink")、日野聡、荻原秀樹による『[俺たちに翼はない](https://ja.wikipedia.org/wiki/俺たちに翼はない "wikilink")』生アフレコミニドラマ、さらに『SHUFFLE\!』×『俺たちに翼はない』生アフレコミニドラマが披露された。また西又葵、アッチョリケ、王雀孫によるインフォメーションコーナー（新作の発表等）が披露された。
     第2部のライブでは『俺たちに翼はない』『SHUFFLE\!』声優陣によるキャラクターソングや、YURIA、橋本みゆき、のみこ、[美郷あき](../Page/美郷あき.md "wikilink")、[jina](https://ja.wikipedia.org/wiki/jina "wikilink")によるNavel・Lime作品の[テーマソングが披露された](../Page/主題歌.md "wikilink")。
     ライブDVDが2009年10月30日にランティスより発売されている（ASIN B002SW3MW6）。
 
@@ -318,7 +318,7 @@ Navelブランド作品には必ず名前が入っていたが、アッチョリ
 
 1.  『[マジキュー MARCH2003](../Page/マジキュー.md "wikilink")プレミアム』（[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")）。
 2.
-3.  『[PUSH\!\!](../Page/PUSH!!.md "wikilink")』（[晋遊舎](https://ja.wikipedia.org/wiki/晋遊舎 "wikilink")）2006年5月号。
+3.  『[PUSH\!\!](../Page/PUSH!!.md "wikilink")』（[晋遊舎](../Page/晋遊舎.md "wikilink")）2006年5月号。
 4.  『[PUSH\!\!](../Page/PUSH!!.md "wikilink")』（[マックス](../Page/マックス_\(出版社\).md "wikilink")）2012年6月号
 5.
 6.  「Top News 乙女理論とその周辺」、『[PUSH\!\!](../Page/PUSH!!.md "wikilink")』2013年5月号（[マックス](../Page/マックス_\(出版社\).md "wikilink")）、46-47頁、2013年。

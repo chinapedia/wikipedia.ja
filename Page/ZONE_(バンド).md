@@ -1,19 +1,19 @@
 > この記事は[ZONE \(\)](https://ja.wikipedia.org/wiki/ZONE_\(\))から翻訳されています。
 
 
-**ZONE**（ゾーン）は日本のガールズロックバンド。[2001年](../Page/2001年.md "wikilink")に[メジャー・デビューし](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に解散したが、[2011年](../Page/2011年.md "wikilink")に再結成された。その後、メンバーの引退やトラブルにより[2013年](../Page/2013年.md "wikilink")4月に活動終了。所属[事務所は](../Page/芸能事務所.md "wikilink")[ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ランタイムミュージックエンタテインメント "wikilink")で、所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。公式ファンクラブは「ザジズゼZONE」\[1\]。
+**ZONE**（ゾーン）は日本のガールズロックバンド。[2001年](../Page/2001年.md "wikilink")に[メジャー・デビューし](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、[2005年](../Page/2005年.md "wikilink")に解散したが、[2011年](../Page/2011年.md "wikilink")に再結成された。その後、メンバーの引退やトラブルにより[2013年](../Page/2013年.md "wikilink")4月に活動終了。所属[事務所は](../Page/芸能事務所.md "wikilink")[ランタイムミュージックエンタテインメント](../Page/ランタイムミュージックエンタテインメント.md "wikilink")で、所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。公式ファンクラブは「ザジズゼZONE」\[1\]。
 
 メンバー全員が[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身\[2\]。
 
 ## 概説
 
-芸能養成スクールである[スタジオ・ランタイムの生徒にて結成される](https://ja.wikipedia.org/wiki/ランタイム・ミュージック・アカデミー "wikilink")。メジャーデビューする前は[TAKAYO](https://ja.wikipedia.org/wiki/TAKAYO "wikilink")をメインとした8人編成での[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")&[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")の[ユニット](../Page/ユニット.md "wikilink")で、徐々に人数を絞り、[1999年](../Page/1999年.md "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")「[believe in love](https://ja.wikipedia.org/wiki/believe_in_love "wikilink")」リリース時に**[TAKAYO](https://ja.wikipedia.org/wiki/TAKAYO "wikilink")**、**[MIYU](../Page/長瀬実夕.md "wikilink")**、**[MIZUHO](../Page/MIZUHO.md "wikilink")**、**[MAIKO](../Page/MAIKO_\(ソロシンガー\).md "wikilink")**の4人になった（なお、後に加入する**[TOMOKA](../Page/西村朝香.md "wikilink")**も最終候補に入っていた）。
+芸能養成スクールである[スタジオ・ランタイムの生徒にて結成される](https://ja.wikipedia.org/wiki/ランタイム・ミュージック・アカデミー "wikilink")。メジャーデビューする前は[TAKAYO](../Page/TAKAYO.md "wikilink")をメインとした8人編成での[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")&[ダンス](../Page/ダンス.md "wikilink")の[ユニット](../Page/ユニット.md "wikilink")で、徐々に人数を絞り、[1999年](../Page/1999年.md "wikilink")に[インディーズ](../Page/インディーズ.md "wikilink")で[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[マキシシングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")「[believe in love](https://ja.wikipedia.org/wiki/believe_in_love "wikilink")」リリース時に**[TAKAYO](../Page/TAKAYO.md "wikilink")**、**[MIYU](../Page/長瀬実夕.md "wikilink")**、**[MIZUHO](../Page/MIZUHO.md "wikilink")**、**[MAIKO](../Page/MAIKO_\(ソロシンガー\).md "wikilink")**の4人になった（なお、後に加入する**[TOMOKA](../Page/西村朝香.md "wikilink")**も最終候補に入っていた）。
 
 デビュー時には、「[バンド](../Page/バンド_\(音楽\).md "wikilink")」でもなく、また「[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")」でもない、[音楽ユニット](../Page/音楽ユニット.md "wikilink")の新ジャンル「**[バンドル](https://ja.wikipedia.org/wiki/バンドル_\(アイドル\) "wikilink")**(*BANDOL*)」として売り出される。当初は楽器の演奏力はなく、1stシングルと2ndシングルはパフォーマンスの一環として[楽器](../Page/楽器.md "wikilink")を持っているのみだった。しかし、3rdシングルからは本格的に楽器演奏をはじめ（4thシングルを除く）、最終的には実力派ガールズバンドとしても注目されるようになった。
 
 名前の由来は、ふたつの意味と願いが込められている。 ひとつ目は、まず『ZONE』が本来持つ「領域」という意味。 「彼女たち自身が持って生まれた果てしない領域を超えた存在であるように…」彼女たちが持つ未知なる可能性と新しい世代のパワーを信じ、広がる「領域」。また、現実の「領域」を超える存在になってほしいという願い…。札幌から始まり、北海道～日本中、日本～世界中に広がってほしいという願いが込められている。ふたつ目は、アルファベットのいちばん最後である「Ｚ」から始まること。『ZONE』という単語はアルファベットの最後の文字である「Ｚ」から始まる。「Ｚ」からのスタート… すなわち底辺の位置、「ゼロ」からスタートして、「TOP」を目指して上へ登りつめていってほしいという願いが込められている。
 
-代表曲は[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に発売し、[TBSドラマ](../Page/TBSテレビ.md "wikilink")『[キッズ・ウォー](../Page/キッズ・ウォー.md "wikilink")3』（[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）の主題歌にもなり、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高2位を獲得した「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」。[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")出場3回のうち、2回で披露されたほか、2005年[4月1日](../Page/4月1日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")から解散[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")の模様を『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）で全国生中継された際にもこの曲が演奏された。
+代表曲は[2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に発売し、[TBSドラマ](../Page/TBSテレビ.md "wikilink")『[キッズ・ウォー](../Page/キッズ・ウォー.md "wikilink")3』（[CBC制作](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）の主題歌にもなり、[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高2位を獲得した「[secret base 〜君がくれたもの〜](https://ja.wikipedia.org/wiki/secret_base_〜君がくれたもの〜 "wikilink")」。[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")出場3回のうち、2回で披露されたほか、2005年[4月1日](../Page/4月1日.md "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")から解散[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")の模様を『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）で全国生中継された際にもこの曲が演奏された。
 
 
 
@@ -27,7 +27,7 @@
 
 ### 旧メンバー
 
-  - [TAKAYO](https://ja.wikipedia.org/wiki/TAKAYO "wikilink")**（タカヨ）A型**
+  - [TAKAYO](../Page/TAKAYO.md "wikilink")**（タカヨ）A型**
     本名：大越貴代（おおこし たかよ） 生年月日：
     ボーカル、[ギター](../Page/ギター.md "wikilink")担当。最年長のメンバーで初代[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")を務めた。結成時から在籍していたが2003年末に卒業し、[2011年](../Page/2011年.md "wikilink")[8月](../Page/8月.md "wikilink")の再結成後も不参加で特に不参加の理由についても言及もされなかった。
   - [MIZUHO](../Page/MIZUHO.md "wikilink")（ミズホ）A型
@@ -62,7 +62,7 @@
 
 ### 解散
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月7日](../Page/2月7日.md "wikilink")、MIZUHOの脱退表明により解散が決定した。MIZUHOが「今年、高校卒業となり、一度自分を見つめ直す時間を持ちたい」と表明したところ、他の3人のメンバーも「MIZUHOが卒業するのでは続けていけない」という結論を出したことがその理由である。
+[2005年](../Page/2005年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink")、MIZUHOの脱退表明により解散が決定した。MIZUHOが「今年、高校卒業となり、一度自分を見つめ直す時間を持ちたい」と表明したところ、他の3人のメンバーも「MIZUHOが卒業するのでは続けていけない」という結論を出したことがその理由である。
 
 なお、解散後に発売されたベスト盤『[E 〜Complete A side Singles〜](../Page/E_〜Complete_A_side_Singles〜.md "wikilink")』はZONEにとって最初で最後のオリコン1位獲得となった\[9\]。
 
@@ -78,7 +78,7 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")、長瀬実夕と舞衣子が、[SHOW-YA](../Page/SHOW-YA.md "wikilink")の[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")がプロデュースするライブイベント『[NAONのYAON](../Page/NAONのYAON.md "wikilink")』で「secret base 〜君がくれたもの〜」を披露した。また、この日に限って長瀬実夕、舞衣子と元[プリンセス・プリンセス](https://ja.wikipedia.org/wiki/プリンセス・プリンセス "wikilink")の[富田京子](../Page/富田京子.md "wikilink")、[渡辺敦子](../Page/渡辺敦子.md "wikilink")で「ゾンプリ」というユニットが結成された。なお、ギターとして[SHOW-YA](../Page/SHOW-YA.md "wikilink")のメンバーらも参加した。
 
-2008年[11月30日](../Page/11月30日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で開催された麻薬・覚せい剤乱用防止啓発ライブ『POWER OF ART PROJECT 2nd LIVE』に、元ZONEのメンバーのうち長瀬実夕、舞衣子、西村朝香の3人が出演し、全員のステージが終わった後、ステージ上に3人が揃い、「笑顔日和」を披露した\[10\]。
+2008年[11月30日](../Page/11月30日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")、[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")で開催された麻薬・覚せい剤乱用防止啓発ライブ『POWER OF ART PROJECT 2nd LIVE』に、元ZONEのメンバーのうち長瀬実夕、舞衣子、西村朝香の3人が出演し、全員のステージが終わった後、ステージ上に3人が揃い、「笑顔日和」を披露した\[10\]。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")、舞衣子は「MARIA」解散から7ヶ月後に5人組バンド「FRASH BACK」\[11\]の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")として活動している。
 
@@ -96,7 +96,7 @@
 
 2011年[10月31日](../Page/10月31日.md "wikilink") 所属事務所ウェブサイトにて、体調不良により同年10月をもってTOMOKAの脱退および芸能界引退を発表。それに伴い、同年11月以降はMIYU、MAIKOの2人での活動となる\[17\]。
 
-2011年[12月20日](../Page/12月20日.md "wikilink")、[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink")Tokyoで行われたチャリティライブ『ガンバレ\!\!東北 チャリティーLIVE〜SUPER GIRLS BAND “MESSAGE”〜』に出演。ライブ中のMCで2度目の活動延長を発表。今度は期限を設けず、[2012年](../Page/2012年.md "wikilink")以降も活動を継続することを発表した\[18\]。
+2011年[12月20日](../Page/12月20日.md "wikilink")、[Zepp](../Page/Zepp.md "wikilink")Tokyoで行われたチャリティライブ『ガンバレ\!\!東北 チャリティーLIVE〜SUPER GIRLS BAND “MESSAGE”〜』に出演。ライブ中のMCで2度目の活動延長を発表。今度は期限を設けず、[2012年](../Page/2012年.md "wikilink")以降も活動を継続することを発表した\[18\]。
 
 2012年には現役時代以来の新作にして結果的に唯一の新作シングルを発売し、ツアーを行った。同年12月ツアーのDVD/Blu-rayが発表されたがこれが最終作品となった。
 
@@ -124,7 +124,7 @@
   - [2002年](../Page/2002年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")-[8月](../Page/8月.md "wikilink") 『ZONE FIRST SUMMER LIVE 2002 こぐまの大移動大暴走だべさツアー』
   - 2002年12月31日 『[第53回NHK紅白歌合戦](../Page/第53回NHK紅白歌合戦.md "wikilink")』に2年連続出場。演奏曲は「夢ノカケラ・・・」
   - 2003年7月-8月 『ZONE TOUR ASTRO GIRL 2003 〜夏だぁ！ZONEだぁ！全員集合〜』
-  - 2003年12月31日 『[第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")』に3年連続出場を最後に[TAKAYO](https://ja.wikipedia.org/wiki/TAKAYO "wikilink")卒業。演奏曲は「secret base 〜君がくれたもの〜」
+  - 2003年12月31日 『[第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")』に3年連続出場を最後に[TAKAYO](../Page/TAKAYO.md "wikilink")卒業。演奏曲は「secret base 〜君がくれたもの〜」
   - 2004年[1月7日](../Page/1月7日.md "wikilink") [TOMOKA加入](../Page/西村朝香.md "wikilink")。[MIZUHO](../Page/MIZUHO.md "wikilink")にリーダー交代。
   - 2004年[8月](../Page/8月.md "wikilink") 『ZONE SUMMER LIVE 2004〜ガッツン！といっきまSHOW\!\!〜』
   - 2005年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 『ZONE SPRING TOUR 2005〜夏まで待てない！ZONE 桜ツアー〜改め ZONE卒業コンサート』
@@ -219,7 +219,7 @@
 <td><p>2002年7月17日</p></td>
 <td><p><strong><a href="../Page/一雫.md" title="wikilink">一雫</a></strong></p></td>
 <td><p>3位</p></td>
-<td><p>シングルでは唯一<a href="https://ja.wikipedia.org/wiki/メイン" title="wikilink">メイン</a><a href="https://ja.wikipedia.org/wiki/ヴォーカル" title="wikilink">ヴォーカル</a>をMAIKOが担当した。<br />
+<td><p>シングルでは唯一<a href="../Page/メイン.md" title="wikilink">メイン</a><a href="https://ja.wikipedia.org/wiki/ヴォーカル" title="wikilink">ヴォーカル</a>をMAIKOが担当した。<br />
 映画『<a href="../Page/アイス・エイジ_(映画).md" title="wikilink">アイス・エイジ</a>』日本語版主題歌。</p></td>
 </tr>
 <tr class="even">
@@ -235,7 +235,7 @@
 <td><p><strong><a href="../Page/白い花_(ZONEの曲).md" title="wikilink">白い花</a></strong></p></td>
 <td><p>3位</p></td>
 <td><p>2ndアルバム『O』と同時発売。<br />
-<a href="../Page/ゲームボーイアドバンス.md" title="wikilink">GBAソフト</a>『<a href="https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクスアドバンス" title="wikilink">ファイナルファンタジータクティクスアドバンス</a>』CMソング。</p></td>
+<a href="../Page/ゲームボーイアドバンス.md" title="wikilink">GBAソフト</a>『<a href="../Page/ファイナルファンタジータクティクスアドバンス.md" title="wikilink">ファイナルファンタジータクティクスアドバンス</a>』CMソング。</p></td>
 </tr>
 <tr class="even">
 <td><p>9th</p></td>
@@ -407,7 +407,7 @@
   - 写真集『ZONE TOUR SUMMER LIVE 2004 TOUR DOCUMENT BOOK』（2004年11月9日、[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")刊 ISBN 4840111510）
   - 書籍『ロック・バンドの夢伝説 ZONE』（2005年2月、汐文社刊 ISBN 481137925X）
   - 写真集『ZONE FINAL in 日本武道館 -卒業アルバム-』（2005年5月25日、メディアファクトリー刊 ISBN 4840112509）
-  - バンドスコア『ZONE/E 〜Complete A side Singles〜』（2005年6月17日、[リットーミュージック](https://ja.wikipedia.org/wiki/リットーミュージック "wikilink")刊 ISBN 4845611996）
+  - バンドスコア『ZONE/E 〜Complete A side Singles〜』（2005年6月17日、[リットーミュージック](../Page/リットーミュージック.md "wikilink")刊 ISBN 4845611996）
   - 一期一会 ZONE 〜2011年8月の軌跡〜 The Promise of year 10th（2011年10月15日、グライドメディア ISBN 978-4813081371）
 
 ## 主な活動
@@ -429,7 +429,7 @@
   - CDTV-NEO（[TBS](../Page/TBSテレビ.md "wikilink")）
     DTV-NEOにて放送された、ZONEの旅行企画。
       - 「ぶらり東京4人旅」
-        2001年11月16日と23日に、前編・後編で2週にわたって放送された。ZONEメンバーが東京を旅するという企画。[浅草花やしき](https://ja.wikipedia.org/wiki/浅草花やしき "wikilink")、[下北沢](../Page/下北沢.md "wikilink")、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")を訪れた。道中、MIZUHOが財布を落とすというハプニングが起こった。
+        2001年11月16日と23日に、前編・後編で2週にわたって放送された。ZONEメンバーが東京を旅するという企画。[浅草花やしき](../Page/浅草花やしき.md "wikilink")、[下北沢](../Page/下北沢.md "wikilink")、[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")を訪れた。道中、MIZUHOが財布を落とすというハプニングが起こった。
   - 北の熱血フード応援団 ケッパレ\!ごはん（2012年4月25日 - 、[HBC](../Page/北海道放送.md "wikilink")）
     毎月最終週水曜日番組内コーナー「お泊まり＊ZONE」出演。
     10月から毎月最終月曜日に変更。
@@ -466,11 +466,11 @@
 
   - ZONE FIRST SUMMER LIVE 2002 こぐまの大移動大暴走だべさツアー*（初の全国ツアー）*
       - 7月30日 [CLUB DIAMOND HALL](https://ja.wikipedia.org/wiki/CLUB_DIAMOND_HALL "wikilink")（[名古屋](../Page/名古屋市.md "wikilink")）
-      - 7月31日 [Zepp Osaka](https://ja.wikipedia.org/wiki/Zepp "wikilink")（[大阪](../Page/大阪市.md "wikilink")）
-      - 8月2日 [Zepp Fukuoka](https://ja.wikipedia.org/wiki/Zepp "wikilink")（[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）
-      - 8月4日 [Zepp Sendai](https://ja.wikipedia.org/wiki/Zepp "wikilink")（[仙台](../Page/仙台市.md "wikilink")）
-      - 8月6日 [Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp "wikilink")（[東京](../Page/東京都.md "wikilink")）
-      - 8月8日 [Zepp Sapporo](https://ja.wikipedia.org/wiki/Zepp "wikilink")（[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")）
+      - 7月31日 [Zepp Osaka](../Page/Zepp.md "wikilink")（[大阪](../Page/大阪市.md "wikilink")）
+      - 8月2日 [Zepp Fukuoka](../Page/Zepp.md "wikilink")（[福岡](https://ja.wikipedia.org/wiki/福岡市 "wikilink")）
+      - 8月4日 [Zepp Sendai](../Page/Zepp.md "wikilink")（[仙台](../Page/仙台市.md "wikilink")）
+      - 8月6日 [Zepp Tokyo](../Page/Zepp.md "wikilink")（[東京](../Page/東京都.md "wikilink")）
+      - 8月8日 [Zepp Sapporo](../Page/Zepp.md "wikilink")（[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")）
 
 #### 2003年
 
@@ -550,8 +550,8 @@
   - [GLAY](../Page/GLAY.md "wikilink")
   - [Whiteberry](../Page/Whiteberry.md "wikilink")
   - [ソニー・ミュージックエンタテインメント (日本)](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") - <span style="font-size:90%;">ZONEが所属していたレーベル。</span>
-  - [フェンダー (楽器メーカー)](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink") - <span style="font-size:90%;">エンドース契約を結び、楽器提供を行っていた楽器メーカー。</span>
-  - [ランタイムミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ランタイムミュージックエンタテインメント "wikilink") - <span style="font-size:90%;">ZONEが所属していた芸能事務所。</span>
+  - [フェンダー (楽器メーカー)](../Page/フェンダー_\(楽器メーカー\).md "wikilink") - <span style="font-size:90%;">エンドース契約を結び、楽器提供を行っていた楽器メーカー。</span>
+  - [ランタイムミュージックエンタテインメント](../Page/ランタイムミュージックエンタテインメント.md "wikilink") - <span style="font-size:90%;">ZONEが所属していた芸能事務所。</span>
   - [町田紀彦](../Page/町田紀彦.md "wikilink") - <span style="font-size:90%;">ZONEの楽曲の多くを提供している。ランタイム社員（現在は退社）。</span>
   - [葉里真央](../Page/葉里真央.md "wikilink") - <span style="font-size:90%;">ラストシングル「笑顔日和」のジャケットモデルを務めた[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")。</span>
   - [大平武洋](../Page/大平武洋.md "wikilink") - <span style="font-size:90%;">棋士。ZONE、特にMAIKOの大ファンとしてのエピソード（解散コンサートに行くために考慮時間0分で勝利）が『[トリビアの泉](https://ja.wikipedia.org/wiki/トリビアの泉_～素晴らしきムダ知識～ "wikilink")』に放送された。その後、MAIKOに本当に会い、感涙していた。</span>

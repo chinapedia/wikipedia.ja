@@ -182,7 +182,7 @@
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>2–0</p></td>
 <td><p>2–4</p></td>
 <td><p>'''4–4 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
@@ -202,7 +202,7 @@
 </tr>
 <tr class="odd">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZ</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–3</p></td>
 <td><p>'''3–4</p></td>

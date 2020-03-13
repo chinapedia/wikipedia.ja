@@ -1,7 +1,7 @@
 > この記事は[D ](https://ja.wikipedia.org/wiki/D_)から翻訳されています。
 
 
-『**Dのゲキジョー 〜運命のジャッジ〜**』（ディーのゲキジョー うんめいのジャッジ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で毎週](../Page/フジネットワーク.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")の19:00 - 19:57（[JST](../Page/日本標準時.md "wikilink")、一部地域除く）に放送されていた、[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")を兼ねた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
+『**Dのゲキジョー 〜運命のジャッジ〜**』（ディーのゲキジョー うんめいのジャッジ）は、[2005年](../Page/2005年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で毎週](../Page/フジネットワーク.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")の19:00 - 19:57（[JST](../Page/日本標準時.md "wikilink")、一部地域除く）に放送されていた、[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")を兼ねた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 大半の系列局は同時ネットを行っているが、あくまでもローカルセールス枠の番組なので、一部地域では時差ネット、あるいは[関西テレビのように不定期放送扱いでまれに放送された程度の地域もある](../Page/関西テレビ放送.md "wikilink")。また、通常は同時ネットしている局でも、まれに特別番組編成のため、時差ネットまたは休止となっていた。[北海道文化放送](../Page/北海道文化放送.md "wikilink")、[KBS京都など](../Page/京都放送.md "wikilink")、再放送を行う局もあった。
 
-2007年5月放送分で作曲家の[織田哲郎](../Page/織田哲郎.md "wikilink")がゲスト出演した際に、司会の[みのもんた](../Page/みのもんた.md "wikilink")が番組内で「番組のために1曲作って欲しい」と発言。織田は「難しい事に立ち向かうのは嫌いじゃない」と快諾。出演者の[ピーター](https://ja.wikipedia.org/wiki/池畑慎之介 "wikilink")、[研ナオコ](../Page/研ナオコ.md "wikilink") 、[高畑淳子](../Page/高畑淳子.md "wikilink")がユニットを組んで歌う事が内定していたが、番組は9月に終了した。
+2007年5月放送分で作曲家の[織田哲郎](../Page/織田哲郎.md "wikilink")がゲスト出演した際に、司会の[みのもんた](../Page/みのもんた.md "wikilink")が番組内で「番組のために1曲作って欲しい」と発言。織田は「難しい事に立ち向かうのは嫌いじゃない」と快諾。出演者の[ピーター](../Page/池畑慎之介.md "wikilink")、[研ナオコ](../Page/研ナオコ.md "wikilink") 、[高畑淳子](../Page/高畑淳子.md "wikilink")がユニットを組んで歌う事が内定していたが、番組は9月に終了した。
 
 2007年9月をもって『[ザ・ジャッジ\! ～得する法律ファイル](https://ja.wikipedia.org/wiki/ザ・ジャッジ!_～得する法律ファイル "wikilink")』以来続いた“ザ・ジャッジ\! シリーズ”は6年間で終了し、翌月からこの番組をベースにした『[独占\!金曜日の告白](../Page/独占!金曜日の告白.md "wikilink")』にリニューアルした。
 
@@ -29,7 +29,7 @@
 
 ### レギュラーパネラー
 
-  - [ピーター](https://ja.wikipedia.org/wiki/池畑慎之介 "wikilink")
+  - [ピーター](../Page/池畑慎之介.md "wikilink")
   - [研ナオコ](../Page/研ナオコ.md "wikilink")
   - [美川憲一](../Page/美川憲一.md "wikilink")
   - [美保純](https://ja.wikipedia.org/wiki/美保純 "wikilink")
@@ -59,7 +59,7 @@
   - 音声 : 本間祥吾
   - 照明 : 植松晃一、谷口明美
   - マルチモニター : 鈴木豊
-  - 音響効果 : 田中寿一、石崎野乃（[J-WORKS](https://ja.wikipedia.org/wiki/J-WORKS "wikilink")）
+  - 音響効果 : 田中寿一、石崎野乃（[J-WORKS](../Page/J-WORKS.md "wikilink")）
   - VTR編集 : 菅野邦大、栗原智明
   - ロケ編集・MA : [麻布プラザ](../Page/麻布プラザ.md "wikilink")、[ザ・チューブ](../Page/ザ・チューブ.md "wikilink")、[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")（週変わりは異なる）
   - 美術 : 井上明裕、古江学
@@ -88,7 +88,7 @@
   - 編成プロデューサー : [中村百合子](../Page/中村百合子.md "wikilink")
   - チーフプロデューサー : [和田実](https://ja.wikipedia.org/wiki/和田実 "wikilink")（以前は演出）
   - 監修 : [宮道治朗](../Page/宮道治朗.md "wikilink")（以前はチーフプロデューサー）
-  - 制作 : [吉田正樹](https://ja.wikipedia.org/wiki/吉田正樹 "wikilink")
+  - 制作 : [吉田正樹](../Page/吉田正樹.md "wikilink")
   - 技術協力 : [ニユーテレス](../Page/ニユーテレス.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
   - ロケ技術協力 : [共同テレビ](../Page/共同テレビジョン.md "wikilink")、[八峯テレビ](../Page/八峯テレビ.md "wikilink")、だだだ、M（週変わりは異なる）
   - ロケ美術協力 : [フジアール](../Page/フジアール.md "wikilink")

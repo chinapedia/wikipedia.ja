@@ -11,7 +11,7 @@
 
 『[シカゴ](../Page/シカゴ_\(2002年の映画\).md "wikilink")』（[2002年](../Page/2002年.md "wikilink")）では歌声も披露した。この役を得るために、歌っている姿を自分でビデオに撮って監督の[ロブ・マーシャル](../Page/ロブ・マーシャル.md "wikilink")に送ったという\[4\]。この作品で[アカデミー賞](../Page/アカデミー賞.md "wikilink")助演男優賞にノミネートされた。
 
-舞台にも出演しており、[フィリップ・シーモア・ホフマン](https://ja.wikipedia.org/wiki/フィリップ・シーモア・ホフマン "wikilink")との2人舞台『True West』は高い評価を得て[トニー賞](../Page/トニー賞.md "wikilink")にもノミネートされた。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[テネシー・ウィリアムズ](../Page/テネシー・ウィリアムズ.md "wikilink")の『[欲望という名の電車](../Page/欲望という名の電車.md "wikilink")』にスタンリー役で出演した\[5\]。
+舞台にも出演しており、[フィリップ・シーモア・ホフマン](../Page/フィリップ・シーモア・ホフマン.md "wikilink")との2人舞台『True West』は高い評価を得て[トニー賞](../Page/トニー賞.md "wikilink")にもノミネートされた。[2005年](../Page/2005年.md "wikilink")には[テネシー・ウィリアムズ](../Page/テネシー・ウィリアムズ.md "wikilink")の『[欲望という名の電車](../Page/欲望という名の電車.md "wikilink")』にスタンリー役で出演した\[5\]。
 
 ## 私生活
 
@@ -144,7 +144,7 @@
 </tr>
 <tr class="odd">
 <td><p>2001</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニバーサリーの夜に" title="wikilink">アニバーサリーの夜に</a><br />
+<td><p><a href="../Page/アニバーサリーの夜に.md" title="wikilink">アニバーサリーの夜に</a><br />
 <em>The Anniversary Party</em></p></td>
 <td><p>マック・フォーサイス</p></td>
 <td></td>
@@ -200,7 +200,7 @@
 </tr>
 <tr class="odd">
 <td><p>2005</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダーク・ウォーター" title="wikilink">ダーク・ウォーター</a><br />
+<td><p><a href="../Page/ダーク・ウォーター.md" title="wikilink">ダーク・ウォーター</a><br />
 <em>Dark Water</em></p></td>
 <td><p>マーレイ</p></td>
 <td></td>

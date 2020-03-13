@@ -1,7 +1,7 @@
 > この記事は[SEED DESTINY](https://ja.wikipedia.org/wiki/SEED_DESTINY)から翻訳されています。
 
 
-『**機動戦士ガンダムSEED DESTINY**』（きどうせんしガンダムシード デスティニー、**MOBILE SUIT GUNDAM SEED DESTINY**）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」のテレビシリーズ。『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』の続編として製作され、[2004年](../Page/2004年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")（一部地域は同年[10月16日](../Page/10月16日.md "wikilink")）から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")（一部地域は同年[10月8日](../Page/10月8日.md "wikilink")）まで、[MBSを製作局として](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[TBS系列で全](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")50話が放送された。。
+『**機動戦士ガンダムSEED DESTINY**』（きどうせんしガンダムシード デスティニー、**MOBILE SUIT GUNDAM SEED DESTINY**）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」のテレビシリーズ。『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』の続編として製作され、[2004年](../Page/2004年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")（一部地域は同年[10月16日](../Page/10月16日.md "wikilink")）から[2005年](../Page/2005年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")（一部地域は同年[10月8日](../Page/10月8日.md "wikilink")）まで、[MBSを製作局として](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[TBS系列で全](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")50話が放送された。。
 
 キャッチコピーは「**戦う意志が未来を変える。**」\[1\]。
 
@@ -33,7 +33,7 @@
 
 ### 備考
 
-かつて公式サイト内に掲載されていた[大野木寛](https://ja.wikipedia.org/wiki/大野木寛 "wikilink")によるスペシャルコラムにおいては、脚本の決定稿から放送までの期間が短かった旨の説明がなされていた\[15\]。
+かつて公式サイト内に掲載されていた[大野木寛](../Page/大野木寛.md "wikilink")によるスペシャルコラムにおいては、脚本の決定稿から放送までの期間が短かった旨の説明がなされていた\[15\]。
 
 ### 商業面
 
@@ -47,7 +47,7 @@
 
   - グランプリ作品部門：1位（2428票） - 2位の『[今日からマ王\!](https://ja.wikipedia.org/wiki/まるマシリーズ#テレビアニメ "wikilink")』（第2期）とは1770票差。
   - サブタイトル部門：1位（『FINAL PHASE 最後の力』 779票） - 2位は『PHASE-39 天空のキラ』 684票。
-  - 男性キャラクター部門：1位（[キラ・ヤマト](https://ja.wikipedia.org/wiki/キラ・ヤマト "wikilink") 1351票） - 2位は[アスラン・ザラ](../Page/アスラン・ザラ.md "wikilink") 658票。
+  - 男性キャラクター部門：1位（[キラ・ヤマト](../Page/キラ・ヤマト.md "wikilink") 1351票） - 2位は[アスラン・ザラ](../Page/アスラン・ザラ.md "wikilink") 658票。
   - 女性キャラクター部門：1位（[ラクス・クライン](../Page/ラクス・クライン.md "wikilink") 1139票） - 2位は[カガリ・ユラ・アスハ](../Page/カガリ・ユラ・アスハ.md "wikilink") 424票。
   - 声優部門：1位（[保志総一朗](../Page/保志総一朗.md "wikilink") 920票） - 2位は[石田彰](../Page/石田彰.md "wikilink") 861票。
   - アニメソング部門：1位（『[君は僕に似ている](https://ja.wikipedia.org/wiki/君は僕に似ている "wikilink")』 555票） - 2位は『[Vestige -ヴェスティージ-](../Page/Vestige_-ヴェスティージ-.md "wikilink")』 318票。
@@ -58,11 +58,11 @@
 
 その後、[地球連合軍と](../Page/地球連合_\(ガンダムシリーズ\).md "wikilink")[ザフト軍による大戦](https://ja.wikipedia.org/wiki/プラント_\(ガンダムシリーズ\)#ザフト "wikilink")（[第1次連合・プラント大戦](https://ja.wikipedia.org/wiki/コズミック・イラ#第1次連合・プラント大戦（C.E.70-72） "wikilink")）は、第二次ヤキン・ドゥーエ宙域戦、ユニウス条約の締結を経て、一応の停戦を見た。しかし、両陣営間の争いの火種は消えることはなかった。
 
-一年半にも及ぶ戦争を停戦へと導いた英雄[キラ・ヤマト](https://ja.wikipedia.org/wiki/キラ・ヤマト "wikilink")は、その後MS（[モビルスーツ](../Page/モビルスーツ.md "wikilink")）を降り、共に戦い抜いた[マリュー・ラミアス](../Page/マリュー・ラミアス.md "wikilink")と[アンドリュー・バルトフェルド](../Page/アンドリュー・バルトフェルド.md "wikilink")、恋人の[ラクス・クライン](../Page/ラクス・クライン.md "wikilink")と孤児たちと共に、オーブの僻地で隠居生活を送っていた。同じく、停戦に貢献した元ザフト軍人でキラの親友[アスラン・ザラ](../Page/アスラン・ザラ.md "wikilink")は「アレックス・ディノ」と名を変え、オーブ代表首長となった[カガリ・ユラ・アスハ](../Page/カガリ・ユラ・アスハ.md "wikilink")のパートナーとして公私をサポートしていた。
+一年半にも及ぶ戦争を停戦へと導いた英雄[キラ・ヤマト](../Page/キラ・ヤマト.md "wikilink")は、その後MS（[モビルスーツ](../Page/モビルスーツ.md "wikilink")）を降り、共に戦い抜いた[マリュー・ラミアス](../Page/マリュー・ラミアス.md "wikilink")と[アンドリュー・バルトフェルド](../Page/アンドリュー・バルトフェルド.md "wikilink")、恋人の[ラクス・クライン](../Page/ラクス・クライン.md "wikilink")と孤児たちと共に、オーブの僻地で隠居生活を送っていた。同じく、停戦に貢献した元ザフト軍人でキラの親友[アスラン・ザラ](../Page/アスラン・ザラ.md "wikilink")は「アレックス・ディノ」と名を変え、オーブ代表首長となった[カガリ・ユラ・アスハ](../Page/カガリ・ユラ・アスハ.md "wikilink")のパートナーとして公私をサポートしていた。
 
 停戦から2年後、C.E.73年10月2日。プラント最高評議会議長[ギルバート・デュランダル](../Page/ギルバート・デュランダル.md "wikilink")との非公式会談のため、新造艦[ミネルバの進水式の準備が進むL](../Page/ミネルバ_\(ガンダムシリーズ\).md "wikilink")4 [アーモリーワンを訪れたカガリとアスラン](https://ja.wikipedia.org/wiki/プラント_\(ガンダムシリーズ\)#各プラント "wikilink")。だがその最中、ザフトが開発した新型MS[カオス](../Page/カオスガンダム.md "wikilink")、[ガイア](../Page/ガイアガンダム.md "wikilink")、[アビスが何者かに強奪され](../Page/アビスガンダム.md "wikilink")、周囲は混乱に陥る。これを阻止すべく、ミネルバからも新型機[インパルスが出撃](../Page/インパルスガンダム.md "wikilink")。そのパイロットは、プラントに渡りザフト軍に入隊したシンであった。アスランはカガリを守るため近くに放置されていたザフトの新型量産MS・[ザクウォーリア](../Page/ザクウォーリア.md "wikilink")に搭乗し、3機のガンダムと戦うが、性能で勝る3機を相手に苦戦を強いられ、ミネルバに避難する。
 
-新型機を強奪した[ファントムペインを追い](https://ja.wikipedia.org/wiki/ファントムペイン_\(ガンダムシリーズ\) "wikilink")、カガリとアスランを伴ったままミネルバは出撃する。だがそんな中、安定軌道にあったはずの[ユニウスセブンが地球への落下コースに乗ったという報せが入る](https://ja.wikipedia.org/wiki/プラント_\(ガンダムシリーズ\)#各プラント "wikilink")。それは、ナチュラルへの憎しみを募らせ続ける[ザフト脱走兵たちの仕業だった](https://ja.wikipedia.org/wiki/コズミック・イラの勢力#ザフト脱走兵 "wikilink")。しかも、この事件を利用しようと暗躍する者達も動き始め、世界は再び混乱と戦火に包まれるのだった。
+新型機を強奪した[ファントムペインを追い](../Page/ファントムペイン_\(ガンダムシリーズ\).md "wikilink")、カガリとアスランを伴ったままミネルバは出撃する。だがそんな中、安定軌道にあったはずの[ユニウスセブンが地球への落下コースに乗ったという報せが入る](https://ja.wikipedia.org/wiki/プラント_\(ガンダムシリーズ\)#各プラント "wikilink")。それは、ナチュラルへの憎しみを募らせ続ける[ザフト脱走兵たちの仕業だった](https://ja.wikipedia.org/wiki/コズミック・イラの勢力#ザフト脱走兵 "wikilink")。しかも、この事件を利用しようと暗躍する者達も動き始め、世界は再び混乱と戦火に包まれるのだった。
 
 ## 登場人物
 
@@ -70,7 +70,7 @@
 
 :\* [シン・アスカ](../Page/シン・アスカ.md "wikilink") （声 - [鈴村健一](../Page/鈴村健一.md "wikilink")）
 
-:\* [レイ・ザ・バレル](https://ja.wikipedia.org/wiki/レイ・ザ・バレル "wikilink") （声 - [関俊彦](../Page/関俊彦.md "wikilink")）
+:\* [レイ・ザ・バレル](../Page/レイ・ザ・バレル.md "wikilink") （声 - [関俊彦](../Page/関俊彦.md "wikilink")）
 
 :\* [ルナマリア・ホーク](../Page/ルナマリア・ホーク.md "wikilink") （声 - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")）
 
@@ -88,7 +88,7 @@
 
   - [アークエンジェル](../Page/アークエンジェル_\(ガンダムシリーズ\).md "wikilink")&[エターナル](../Page/エターナル_\(ガンダムシリーズ\).md "wikilink")
 
-:\* [キラ・ヤマト](https://ja.wikipedia.org/wiki/キラ・ヤマト "wikilink") （声 - [保志総一朗](../Page/保志総一朗.md "wikilink")）
+:\* [キラ・ヤマト](../Page/キラ・ヤマト.md "wikilink") （声 - [保志総一朗](../Page/保志総一朗.md "wikilink")）
 
 :\* [アスラン・ザラ](../Page/アスラン・ザラ.md "wikilink") （声 - [石田彰](../Page/石田彰.md "wikilink")）
 
@@ -96,7 +96,7 @@
 
 :\* [マリュー・ラミアス](../Page/マリュー・ラミアス.md "wikilink") （声 - [三石琴乃](../Page/三石琴乃.md "wikilink")）
 
-:\* [ムウ・ラ・フラガ](https://ja.wikipedia.org/wiki/ムウ・ラ・フラガ "wikilink") （声 - [子安武人](../Page/子安武人.md "wikilink")）
+:\* [ムウ・ラ・フラガ](../Page/ムウ・ラ・フラガ.md "wikilink") （声 - [子安武人](../Page/子安武人.md "wikilink")）
 
 :\* [アンドリュー・バルトフェルド](../Page/アンドリュー・バルトフェルド.md "wikilink") （声 - [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")）
 
@@ -126,7 +126,7 @@
   - 監督 - [福田己津央](../Page/福田己津央.md "wikilink")
   - シリーズ構成 - [両澤千晶](../Page/両澤千晶.md "wikilink")
   - キャラクターデザイン - [平井久司](../Page/平井久司.md "wikilink")
-  - メカニックデザイン - [大河原邦男](../Page/大河原邦男.md "wikilink")、[山根公利](https://ja.wikipedia.org/wiki/山根公利 "wikilink")
+  - メカニックデザイン - [大河原邦男](../Page/大河原邦男.md "wikilink")、[山根公利](../Page/山根公利.md "wikilink")
   - デザインワークス - [藤岡建機](../Page/藤岡建機.md "wikilink")
   - チーフメカ作画監督 - [重田智](https://ja.wikipedia.org/wiki/重田智 "wikilink")
   - 美術監督 - [池田繁美](https://ja.wikipedia.org/wiki/池田繁美 "wikilink")
@@ -136,7 +136,7 @@
   - 編集 - 野尻由紀子
   - 音楽 - [佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
   - 音楽プロデューサー - [野崎圭一](https://ja.wikipedia.org/wiki/野崎圭一 "wikilink")（[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）、篠原廣人（[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）、真野昇（サンライズ音楽出版）
-  - 音響監督 - [藤野貞義](https://ja.wikipedia.org/wiki/藤野貞義 "wikilink")
+  - 音響監督 - [藤野貞義](../Page/藤野貞義.md "wikilink")
   - エグゼクティブプロデューサー - [竹田靑滋](https://ja.wikipedia.org/wiki/竹田靑滋 "wikilink")（毎日放送{{\#tag:ref|HDリマスターでは「MBS」表記。|group="注"|name="mbs"}}）、[宮河恭夫](https://ja.wikipedia.org/wiki/宮河恭夫 "wikilink")（サンライズ）
   - プロデューサー - [諸冨洋史](../Page/諸冨洋史.md "wikilink")・[丸山博雄](../Page/丸山博雄.md "wikilink")（毎日放送\[21\]）、佐藤弘幸（サンライズ）
   - 制作協力 - [創通](../Page/創通.md "wikilink")エージェンシー、[ADK](https://ja.wikipedia.org/wiki/アサツー_ディ・ケイ "wikilink")
@@ -149,7 +149,7 @@
 | 曲名                                                                              | 使用回                    | 作詞                           | 作曲                                                                                                    | 編曲                                      | 歌                                                      |
 | ------------------------------------------------------------------------------- | ---------------------- | ---------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------- | ------------------------------------------------------ |
 | 原典                                                                              | HDリマスター                |                              |                                                                                                       |                                         |                                                        |
-| [ignited -イグナイテッド-](https://ja.wikipedia.org/wiki/ignited_-イグナイテッド- "wikilink") | PHASE-01 - PHASE-13    | 01.PHASE-01 - 13.PHASE-13    | [井上秋緒](https://ja.wikipedia.org/wiki/井上秋緒 "wikilink")                                                 | [浅倉大介](../Page/浅倉大介.md "wikilink")      | [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") |
+| [ignited -イグナイテッド-](https://ja.wikipedia.org/wiki/ignited_-イグナイテッド- "wikilink") | PHASE-01 - PHASE-13    | 01.PHASE-01 - 13.PHASE-13    | [井上秋緒](../Page/井上秋緒.md "wikilink")                                                                    | [浅倉大介](../Page/浅倉大介.md "wikilink")      | [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") |
 | [PRIDE](../Page/PRIDE_\(HIGH_and_MIGHTY_COLORの曲\).md "wikilink")                | PHASE-14 - PHASE-24    | 14.PHASE-14 - 24.PHASE-24    | [HIGH and MIGHTY COLOR](https://ja.wikipedia.org/wiki/HIGH_and_MIGHTY_COLOR "wikilink")               |                                         |                                                        |
 | [僕たちの行方](../Page/僕たちの行方_\(高橋瞳の曲\).md "wikilink")                                | PHASE-25 - PHASE-37    | 25.PHASE-25 - 37.PHASE-37    | [Yuta Nakano](../Page/中野雄太.md "wikilink")+[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink") | Yuta Nakano                             | [高橋瞳](../Page/高橋瞳.md "wikilink")                       |
 | [Wings of Words](../Page/Wings_of_Words.md "wikilink")                          | PHASE-38 - FINAL PHASE |                              | [森雪之丞](../Page/森雪之丞.md "wikilink")                                                                    | [葛谷葉子](../Page/葛谷葉子.md "wikilink")、谷口尚久 | 谷口尚久                                                   |
@@ -509,7 +509,7 @@ PHASE-42、PHASE-49<br />
 <td><p>11月13日</p></td>
 <td><p>5月7日</p></td>
 <td><p>癒えぬ傷痕</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/野村祐一" title="wikilink">野村祐一</a><br />
+<td><p><a href="../Page/野村祐一.md" title="wikilink">野村祐一</a><br />
 両澤千晶</p></td>
 <td><p>鳥羽聡</p></td>
 <td><p><a href="../Page/大貫健一.md" title="wikilink">大貫健一</a></p></td>
@@ -530,7 +530,7 @@ PHASE-42、PHASE-49<br />
 <td><p>11月27日</p></td>
 <td><p>5月21日</p></td>
 <td><p>混迷の大地</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大野木寛" title="wikilink">大野木寛</a><br />
+<td><p><a href="../Page/大野木寛.md" title="wikilink">大野木寛</a><br />
 両澤千晶</p></td>
 <td><p>西澤晋</p></td>
 <td><p><a href="../Page/谷田部勝義.md" title="wikilink">谷田部勝義</a></p></td>
@@ -793,7 +793,7 @@ PHASE-42、PHASE-49<br />
 <td><p>5月14日</p></td>
 <td><p>10月29日</p></td>
 <td><p>刹那の夢</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋ナツコ" title="wikilink">高橋ナツコ</a><br />
+<td><p><a href="../Page/高橋ナツコ.md" title="wikilink">高橋ナツコ</a><br />
 両澤千晶</p></td>
 <td><p>西澤晋</p></td>
 <td><p>鳥羽聡</p></td>
@@ -1230,7 +1230,7 @@ PHASE-42、PHASE-49<br />
 
 ## コマーシャル
 
-『機動戦士ガンダムSEED DESTINY』の本放送当時は、エンディング後に女優[近野成美](https://ja.wikipedia.org/wiki/近野成美 "wikilink")によるプラモデルCMと、[GUNDAM EVOLVEの編集版を週替わりで放送していた](../Page/GUNDAM_EVOLVE.md "wikilink")\[34\]。
+『機動戦士ガンダムSEED DESTINY』の本放送当時は、エンディング後に女優[近野成美](../Page/近野成美.md "wikilink")によるプラモデルCMと、[GUNDAM EVOLVEの編集版を週替わりで放送していた](../Page/GUNDAM_EVOLVE.md "wikilink")\[34\]。
 
 ## 脚注
 

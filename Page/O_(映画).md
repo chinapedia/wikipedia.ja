@@ -12,8 +12,8 @@
 ※括弧内は日本語吹替
 
   - ヒューゴ・ゴールディング - [ジョシュ・ハートネット](../Page/ジョシュ・ハートネット.md "wikilink")（[平田広明](../Page/平田広明.md "wikilink")）
-  - デジー - [ジュリア・スタイルズ](https://ja.wikipedia.org/wiki/ジュリア・スタイルズ "wikilink")（[魏涼子](../Page/魏涼子.md "wikilink")）
-  - オーディン・ジェームズ - [メキ・ファイファー](https://ja.wikipedia.org/wiki/メキ・ファイファー "wikilink")（[楠大典](https://ja.wikipedia.org/wiki/楠大典 "wikilink")）
+  - デジー - [ジュリア・スタイルズ](../Page/ジュリア・スタイルズ.md "wikilink")（[魏涼子](../Page/魏涼子.md "wikilink")）
+  - オーディン・ジェームズ - [メキ・ファイファー](../Page/メキ・ファイファー.md "wikilink")（[楠大典](https://ja.wikipedia.org/wiki/楠大典 "wikilink")）
   - ロジャー - [エルデン・ヘンソン](../Page/エルデン・ヘンソン.md "wikilink")（[遠藤純一](../Page/遠藤純一_\(俳優\).md "wikilink")）
   - マイケル・カッシオ - [アンドリュー・キーガン](https://ja.wikipedia.org/wiki/アンドリュー・キーガン "wikilink")（[内田夕夜](../Page/内田夕夜.md "wikilink")）
   - エミリー - [レイン・フェニックス](../Page/レイン・フェニックス.md "wikilink")（[田村真紀](../Page/田村真紀.md "wikilink")）

@@ -25,7 +25,7 @@
 
 2003年3月27日に前作である『**[Memories Off](../Page/Memories_Off.md "wikilink")**』とのカップリング版である『**[Memories Off Duet](../Page/Memories_Off_Duet.md "wikilink")**』が[PlayStation 2で発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[サクセスから](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite 2000で](../Page/SuperLiteシリーズ.md "wikilink")2004年8月5日に発売されている）。
 
-2008年5月29日に[PlayStation Portableで移植版が発売されている](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。PSP版には『Duet』に収録されている「雪蛍」がPure Storyとして収録されているほか、登場人物のその後を描いたAfter Storyも収録されている。After Storyはほたるエンドから続いている。
+2008年5月29日に[PlayStation Portableで移植版が発売されている](../Page/PlayStation_Portable.md "wikilink")。PSP版には『Duet』に収録されている「雪蛍」がPure Storyとして収録されているほか、登場人物のその後を描いたAfter Storyも収録されている。After Storyはほたるエンドから続いている。
 
 [Memories Offシリーズの](../Page/Memories_Offシリーズ.md "wikilink")2作目になる。キャッチコピーは「かけがえのない想いと引き換えに……」。
 
@@ -76,7 +76,7 @@
     声 - [松来未祐](../Page/松来未祐.md "wikilink")
     水泳部所属。鷹乃の後輩であり、彼女を一途に慕っている。眼鏡を着用。[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")生まれ。
   - 中森 翔太（なかもり しょうた）
-    声 - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")
+    声 - [福山潤](../Page/福山潤.md "wikilink")
     健の親友。また、サッカー部の元キャプテン。
   - 霧島 小夜美（きりしま こよみ）
     前作での登場人物で、静流の親友。本編では静流の会話に出てくるのみだが、PSP版のAfter Staryではほたるや健とも会い、台詞もある。After Staryのみの登場なのでボイスは一切ない。
@@ -96,7 +96,7 @@
   - すみわたるそらにつばめはまい
   - 互いの想いの行き着く先は……
   - 日常的朝凪荘生活日和
-  - ほわととメモリーズ - 元々正月限定で公開されていた物。『[想い出にかわる君 〜Memories Off〜](https://ja.wikipedia.org/wiki/想い出にかわる君_〜Memories_Off〜 "wikilink")』以降に収録。
+  - ほわととメモリーズ - 元々正月限定で公開されていた物。『[想い出にかわる君 〜Memories Off〜](../Page/想い出にかわる君_〜Memories_Off〜.md "wikilink")』以降に収録。
   - your lover - 『Milky Season』以降に収録。
   - 勇気のことば - 以下、『[My Merry May](../Page/My_Merry_May.md "wikilink")』以降に収録。
   - 幸せへの路
@@ -147,7 +147,7 @@
   - 撮影監督 - 所俊克
   - 編集 - 岡田輝満
   - 音楽 - 阿保剛、[酒井良](https://ja.wikipedia.org/wiki/酒井良_\(作曲家\) "wikilink")
-  - 音響監督 - [千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
+  - 音響監督 - [千葉繁](../Page/千葉繁.md "wikilink")
   - プロデューサー - [志倉千代丸](../Page/志倉千代丸.md "wikilink")、佐久間敏郎
   - アニメーション制作 - [ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")、[陸演隊](../Page/陸演隊.md "wikilink")
   - 製作 - [サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")、ピクチャーマジック
@@ -230,7 +230,7 @@
   - メモリーズオフ セカンド 〜Left melody〜 ISBN 4-7577-0990-0
   - メモリーズオフ コンチェルト ISBN 4-7577-1207-3
 
-[金巻ともこ](../Page/金巻ともこ.md "wikilink")（鷹乃編）・青海樹（ほたる編）作、[JIVEより発売](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")。
+[金巻ともこ](../Page/金巻ともこ.md "wikilink")（鷹乃編）・青海樹（ほたる編）作、[JIVEより発売](../Page/ジャイブ.md "wikilink")。
 
   - メモリーズオフセカンド Jive character novels 寿々奈鷹乃編 ISBN 978-4-86176-093-8
   - メモリーズオフセカンド Jive character novels 白河ほたる編 ISBN 978-4-86176-091-4

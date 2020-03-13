@@ -1,7 +1,7 @@
 > この記事は[Ebuild](https://ja.wikipedia.org/wiki/Ebuild)から翻訳されています。
 
 
-**ebuild** は [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink") の [Portage](../Page/Portage.md "wikilink") で使われるパッケージ管理用の [Bash](https://ja.wikipedia.org/wiki/Bash "wikilink") スクリプトである。
+**ebuild** は [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink") の [Portage](../Page/Portage.md "wikilink") で使われるパッケージ管理用の [Bash](../Page/Bash.md "wikilink") スクリプトである。
 
 なお、Portage には同名のコマンドも存在するが、ここでは ebuild スクリプトに話を限定する。
 

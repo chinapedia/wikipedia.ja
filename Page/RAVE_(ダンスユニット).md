@@ -1,7 +1,7 @@
 > この記事は[RAVE \(\)](https://ja.wikipedia.org/wiki/RAVE_\(\))から翻訳されています。
 
 
-**RAVE**（レイブ）とは、過去に[キャレスV\&Dスクール](https://ja.wikipedia.org/wiki/キャレスV&Dスクール "wikilink")内で存在したロック[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")ユニット。
+**RAVE**（レイブ）とは、過去に[キャレスV\&Dスクール](https://ja.wikipedia.org/wiki/キャレスV&Dスクール "wikilink")内で存在したロック[ダンス](../Page/ダンス.md "wikilink")ユニット。
 
 ストリートライブやイベント等で活躍。現在は解散。
 
@@ -12,7 +12,7 @@
 <!-- end list -->
 
   -
-    全国ダンスコンテスト「流派R vol.3」に大阪代表に選ばれ、全国大会では西田と共に優勝。現在は[スターダストプロモーション](https://ja.wikipedia.org/wiki/スターダストプロモーション "wikilink")に所属し、[PrizmaX](https://ja.wikipedia.org/wiki/PrizmaX "wikilink")として活動中。
+    全国ダンスコンテスト「流派R vol.3」に大阪代表に選ばれ、全国大会では西田と共に優勝。現在は[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")に所属し、[PrizmaX](https://ja.wikipedia.org/wiki/PrizmaX "wikilink")として活動中。
 
 <!-- end list -->
 

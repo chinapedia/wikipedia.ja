@@ -1,12 +1,12 @@
 > この記事は[Thanks!](https://ja.wikipedia.org/wiki/Thanks!)から翻訳されています。
 
 
-「**Thanks\!**」（サンクス）は、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のユニット[GAMのデビューシングルである](../Page/GAM_\(音楽ユニット\).md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月13日](../Page/9月13日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からリリースされた。
+「**Thanks\!**」（サンクス）は、[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")のユニット[GAMのデビューシングルである](../Page/GAM_\(音楽ユニット\).md "wikilink")。[2006年](../Page/2006年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からリリースされた。
 
 ## 概要
 
   - [松浦亜弥](../Page/松浦亜弥.md "wikilink")主演映画『[スケバン刑事 コードネーム=麻宮サキ](https://ja.wikipedia.org/wiki/スケバン刑事_コードネーム=麻宮サキ "wikilink")』主題歌。カップリング曲の「蜃気楼ロマンス」は同作の挿入歌。
-  - また、2006年の[第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")にはこの曲で初出場した。また、この初出場で松浦、藤本は共に史上最多の3回初出場（松浦はソロ、[DEF.DIVA](https://ja.wikipedia.org/wiki/DEF.DIVA "wikilink")で過去2回、藤本はソロ、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")で過去2回初出場）を記録した。
+  - また、2006年の[第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")にはこの曲で初出場した。また、この初出場で松浦、藤本は共に史上最多の3回初出場（松浦はソロ、[DEF.DIVA](../Page/DEF.DIVA.md "wikilink")で過去2回、藤本はソロ、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")で過去2回初出場）を記録した。
   - [2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に発売されたコンピレーションアルバム「[つんく♂ベスト作品集(上)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜](../Page/つんく♂ベスト作品集\(上\)「シャ乱Q〜モーニング娘。」〜つんく♂芸能生活15周年記念アルバム〜.md "wikilink")」に収録されており、付属のブックレットにはこの曲のパート割りが記載されている。
 
 ## 収録曲
@@ -32,7 +32,7 @@
 ## タイアップ
 
   - [スケバン刑事 コードネーム＝麻宮サキ](https://ja.wikipedia.org/wiki/スケバン刑事#スケバン刑事_コードネーム=麻宮サキ "wikilink") 主題歌
-  - [娘DOKYU\!](https://ja.wikipedia.org/wiki/娘DOKYU! "wikilink") ED
+  - [娘DOKYU\!](../Page/娘DOKYU!.md "wikilink") ED
 
 ## 品番
 

@@ -4,12 +4,12 @@
 **FM STATION**（エフエム ステーション）は、
 
 1.  [FM](../Page/周波数変調.md "wikilink")[ラジオ放送局](../Page/ラジオ放送局.md "wikilink")のこと。
-2.  日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[クリスタルキング](https://ja.wikipedia.org/wiki/クリスタルキング "wikilink")の楽曲。
-3.  かつて日本で発行されていた[FM情報誌](https://ja.wikipedia.org/wiki/FM情報誌 "wikilink")（1998年3月休刊）。本項で詳述。
+2.  日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[クリスタルキング](../Page/クリスタルキング.md "wikilink")の楽曲。
+3.  かつて日本で発行されていた[FM情報誌](../Page/FM情報誌.md "wikilink")（1998年3月休刊）。本項で詳述。
 
 -----
 
-**『FM STATION』**（エフエム ステーション）は、かつて[ダイヤモンド社](https://ja.wikipedia.org/wiki/ダイヤモンド社 "wikilink")から発行されていたFM情報誌。[隔週刊](https://ja.wikipedia.org/wiki/隔週刊 "wikilink")。
+**『FM STATION』**（エフエム ステーション）は、かつて[ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")から発行されていたFM情報誌。[隔週刊](https://ja.wikipedia.org/wiki/隔週刊 "wikilink")。
 
 ## 概要
 
@@ -31,7 +31,7 @@ FM情報誌としては最後発でありながら、競合誌より安い定価
 
 ### 表紙
 
-創刊初期は、本誌メインキャラクターの[バッグス・バニー](https://ja.wikipedia.org/wiki/バッグス・バニー "wikilink")のイラストを採用。その後[1988年](../Page/1988年.md "wikilink")まで、当時新進気鋭の[鈴木英人](../Page/鈴木英人.md "wikilink")の特徴的なイラストを毎号の表紙に採用。前述の他の競合するFM情報誌との差別化も大きな役割を果たす。 両時代共に、付録でその表紙のイラストを象った[カセットテープ](../Page/カセットテープ.md "wikilink")ケースのレーベルは特に人気を博した。鈴木英人のイラストは画集にもされ、[1984年](../Page/1984年.md "wikilink")に「FM STATION ILLUSTRATED」として別冊扱いで刊行された（こちらにもカセットレーベルが付属）。
+創刊初期は、本誌メインキャラクターの[バッグス・バニー](../Page/バッグス・バニー.md "wikilink")のイラストを採用。その後[1988年](../Page/1988年.md "wikilink")まで、当時新進気鋭の[鈴木英人](../Page/鈴木英人.md "wikilink")の特徴的なイラストを毎号の表紙に採用。前述の他の競合するFM情報誌との差別化も大きな役割を果たす。 両時代共に、付録でその表紙のイラストを象った[カセットテープ](../Page/カセットテープ.md "wikilink")ケースのレーベルは特に人気を博した。鈴木英人のイラストは画集にもされ、[1984年](../Page/1984年.md "wikilink")に「FM STATION ILLUSTRATED」として別冊扱いで刊行された（こちらにもカセットレーベルが付属）。
 
 やがて末期は、[有名](https://ja.wikipedia.org/wiki/有名 "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の写真を表紙に採用する形に移行する。
 
@@ -51,17 +51,17 @@ FM情報誌としては最後発でありながら、競合誌より安い定価
 
 ### 提供番組
 
-「[FM STATION my sound graffiti](../Page/FM_STATION_my_sound_graffiti.md "wikilink")」（[TOKYO FM](../Page/エフエム東京.md "wikilink")）平日午前3:00 - 3:45に放送。当誌＝ダイヤモンド社の[一社提供](../Page/一社提供.md "wikilink")番組（途中から[ダイキン工業](https://ja.wikipedia.org/wiki/ダイキン工業 "wikilink")もスポンサーに加わる）。 番組中の[CM](https://ja.wikipedia.org/wiki/CM "wikilink")では、[小林克也](../Page/小林克也.md "wikilink")氏の[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")による発売内容等が放送。番組との連動企画で、本誌で放送内容を事前告知する特集を組み、 放送内容とリンクしたカセットレーベルが印刷される号もあった。
+「[FM STATION my sound graffiti](../Page/FM_STATION_my_sound_graffiti.md "wikilink")」（[TOKYO FM](../Page/エフエム東京.md "wikilink")）平日午前3:00 - 3:45に放送。当誌＝ダイヤモンド社の[一社提供](../Page/一社提供.md "wikilink")番組（途中から[ダイキン工業](../Page/ダイキン工業.md "wikilink")もスポンサーに加わる）。 番組中の[CM](https://ja.wikipedia.org/wiki/CM "wikilink")では、[小林克也](../Page/小林克也.md "wikilink")氏の[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")による発売内容等が放送。番組との連動企画で、本誌で放送内容を事前告知する特集を組み、 放送内容とリンクしたカセットレーベルが印刷される号もあった。
 
 ## 主なコーナー
 
   - [山内トモコ](https://ja.wikipedia.org/wiki/山内トモコ "wikilink")のトークタイム
   - シネマガイド - [TOKYO FM](../Page/エフエム東京.md "wikilink") [山内トモコのTOKYOエンタテイメント・ステーション](https://ja.wikipedia.org/wiki/山内トモコのTOKYOエンタテイメント・ステーション "wikilink")との連動企画
-  - 好きな[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")（歌手）、嫌いなアーティスト（歌手） - 年に1度、読者投票で選ぶコンテスト。前者は本誌で特集が多かった[谷村有美](https://ja.wikipedia.org/wiki/谷村有美 "wikilink")、[遊佐未森](../Page/遊佐未森.md "wikilink")などに票が集中し、後者は当初は演歌歌手（特に[美空ひばり](../Page/美空ひばり.md "wikilink")）やアイドル歌手（特に[ジャニーズ系の男性アイドル](../Page/ジャニーズ事務所.md "wikilink")）、休刊直前は[小室ファミリー](https://ja.wikipedia.org/wiki/小室ファミリー "wikilink")が上位を占めていた。
-  - FM PHOTO ESSAY - [JFN系](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")　[ハート・オブ・サンデー](https://ja.wikipedia.org/wiki/ハート・オブ・サンデー "wikilink")との連動企画
+  - 好きな[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")（歌手）、嫌いなアーティスト（歌手） - 年に1度、読者投票で選ぶコンテスト。前者は本誌で特集が多かった[谷村有美](https://ja.wikipedia.org/wiki/谷村有美 "wikilink")、[遊佐未森](../Page/遊佐未森.md "wikilink")などに票が集中し、後者は当初は演歌歌手（特に[美空ひばり](../Page/美空ひばり.md "wikilink")）やアイドル歌手（特に[ジャニーズ系の男性アイドル](../Page/ジャニーズ事務所.md "wikilink")）、休刊直前は[小室ファミリー](../Page/小室ファミリー.md "wikilink")が上位を占めていた。
+  - FM PHOTO ESSAY - [JFN系](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")　[ハート・オブ・サンデー](../Page/ハート・オブ・サンデー.md "wikilink")との連動企画
   - AUDIO VUSUAL TRIBUNE/音楽をよりいい音で楽しむためのサウンド新聞 - 新製品[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")紹介。
-  - [へびいちご](https://ja.wikipedia.org/wiki/へびいちご "wikilink")島川・無責任編集「音楽業界シバキたおし\!\!」 - 島川の攻撃的な発言に対して、[クレーム](https://ja.wikipedia.org/wiki/クレーム "wikilink")のハガキが毎号多数届いていた。特に[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")ファンとは相当な敵対関係にあった。
-  - コレちゃんのDRIVINGギター - ギタリスト・[是方博邦](https://ja.wikipedia.org/wiki/是方博邦 "wikilink")の講師による著名曲を題材にしての誌面簡易ギター教室。
+  - [へびいちご](../Page/へびいちご.md "wikilink")島川・無責任編集「音楽業界シバキたおし\!\!」 - 島川の攻撃的な発言に対して、[クレーム](../Page/クレーム.md "wikilink")のハガキが毎号多数届いていた。特に[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")ファンとは相当な敵対関係にあった。
+  - コレちゃんのDRIVINGギター - ギタリスト・[是方博邦](../Page/是方博邦.md "wikilink")の講師による著名曲を題材にしての誌面簡易ギター教室。
   - ルーキー登場
   - WHO'S WHO - [インタビュー](../Page/インタビュー.md "wikilink")記事
   - [CASH BOXチャート](https://ja.wikipedia.org/wiki/キャッシュボックス "wikilink") - 全米ヒットチャート
@@ -71,7 +71,7 @@ FM情報誌としては最後発でありながら、競合誌より安い定価
 
 ## その他
 
-  - **FM雑誌と僕らの80年代「FMステーション」青春記** - 恩藏 茂(著)ISBN 4309271235（[河出書房新社](https://ja.wikipedia.org/wiki/河出書房新社 "wikilink")）…本誌の元[編集長](../Page/編集長.md "wikilink")が当時の本誌創立期から発行時の[回顧録](https://ja.wikipedia.org/wiki/回顧録 "wikilink")等を出筆
+  - **FM雑誌と僕らの80年代「FMステーション」青春記** - 恩藏 茂(著)ISBN 4309271235（[河出書房新社](../Page/河出書房新社.md "wikilink")）…本誌の元[編集長](../Page/編集長.md "wikilink")が当時の本誌創立期から発行時の[回顧録](https://ja.wikipedia.org/wiki/回顧録 "wikilink")等を出筆
 
 ## 脚注
 

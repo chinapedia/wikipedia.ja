@@ -15,7 +15,7 @@
 
   - [PCS Systemtechnik GmbH](https://ja.wikipedia.org/wiki/PCS_Systemtechnik_GmbH "wikilink") -- ドイツのネットワーク機器製造販売会社。旧称[Periphere Computer Systeme](https://ja.wikipedia.org/wiki/Periphere_Computer_Systeme "wikilink")
 
-  - [Personal Communications Service](https://ja.wikipedia.org/wiki/Personal_Communications_Service "wikilink") -- 北米で提供されている、[1.9GHz帯](https://ja.wikipedia.org/wiki/1.9GHz帯 "wikilink")による[携帯電話](../Page/携帯電話.md "wikilink")サービス
+  - [Personal Communications Service](../Page/Personal_Communications_Service.md "wikilink") -- 北米で提供されている、[1.9GHz帯](https://ja.wikipedia.org/wiki/1.9GHz帯 "wikilink")による[携帯電話](../Page/携帯電話.md "wikilink")サービス
 
   - [Physical Coding Sublayer](https://ja.wikipedia.org/wiki/Physical_Coding_Sublayer "wikilink")
 

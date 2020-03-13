@@ -3,7 +3,7 @@
 
 **factoryorumok**（ファクトリーオルモック）は、パイオニアLDC（現・[NBCユニバーサル・エンターテイメントジャパン](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")）と[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")の合弁[レコードレーベル](../Page/レコードレーベル.md "wikilink")。[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")あるいはその関連人物にプロデュースされたアーティスト用のレーベル。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")設置。
 
-第一弾CDは[ORUMOK RECORDSのベストアルバム](https://ja.wikipedia.org/wiki/ORUMOK_RECORDS "wikilink")「ORUMOK COMPILATION 1995 to 1998」
+第一弾CDは[ORUMOK RECORDSのベストアルバム](../Page/ORUMOK_RECORDS.md "wikilink")「ORUMOK COMPILATION 1995 to 1998」
 
 [2001年](../Page/2001年.md "wikilink")に小室哲哉が[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")に移籍し、2002年に吉本の米国法人が保有していた[R and Cを小室の事業会社であった](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")[Rojam Entertainmentが買収したことにより](../Page/Rojam_Entertainment.md "wikilink")（レーベルはgaball screen）、このレーベルの活動を休止した。
 
@@ -12,7 +12,7 @@
   - [華原朋美](../Page/華原朋美.md "wikilink")（ベストアルバム「kahala compilation」のみ：[1999年](../Page/1999年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")発売の2枚組※[12月22日](../Page/12月22日.md "wikilink")発売の1枚のみの限定盤は品番がパイオニアLDCのORUMOK RECORDSのもの）
   - [坂口実央](https://ja.wikipedia.org/wiki/坂口実央 "wikilink")
   - [MIYUKI](../Page/MIYUKI.md "wikilink")
-  - [清水まなぶ](https://ja.wikipedia.org/wiki/清水まなぶ "wikilink")
+  - [清水まなぶ](../Page/清水まなぶ.md "wikilink")
   - [DJ DRAGON](../Page/DJ_DRAGON.md "wikilink")
   - [zoie](https://ja.wikipedia.org/wiki/zoie "wikilink")
   - [Twenty-four](https://ja.wikipedia.org/wiki/Twenty-four "wikilink")
@@ -24,7 +24,7 @@
 3.  Baby baby baby \[Radio Edit\] / [dos](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")
 4.  Friday nite / [asami](https://ja.wikipedia.org/wiki/吉田麻美 "wikilink")
       -
-        [1999年](../Page/1999年.md "wikilink")に歌詞・アレンジを一部変えて[TRUE KISS DESTiNATiONのシングル](https://ja.wikipedia.org/wiki/Kiss_Destination "wikilink")「[Everybody's Jealous](https://ja.wikipedia.org/wiki/Everybody's_Jealous "wikilink")」として発売されている。その際、[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")のラップは削除されている。
+        [1999年](../Page/1999年.md "wikilink")に歌詞・アレンジを一部変えて[TRUE KISS DESTiNATiONのシングル](../Page/Kiss_Destination.md "wikilink")「[Everybody's Jealous](https://ja.wikipedia.org/wiki/Everybody's_Jealous "wikilink")」として発売されている。その際、[マーク・パンサー](../Page/マーク・パンサー.md "wikilink")のラップは削除されている。
 5.  someone like YOU / [dos](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")
 6.  Living on...\! / [華原朋美](../Page/華原朋美.md "wikilink")
 7.  CLOSE YOUR EYES \[NAUGHTY GIRL MIX\] / [dos](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")
@@ -53,7 +53,7 @@
 
   - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
   - [NBCユニバーサル・エンターテイメントジャパン](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink") - 旧社名:パイオニアLDC
-  - [ORUMOK RECORDS](https://ja.wikipedia.org/wiki/ORUMOK_RECORDS "wikilink")
+  - [ORUMOK RECORDS](../Page/ORUMOK_RECORDS.md "wikilink")
 
 ## 関連リンク
 

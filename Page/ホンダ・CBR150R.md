@@ -6,19 +6,19 @@
 ## 車両解説
 
 [thumbカラー](https://ja.wikipedia.org/wiki/FIle:Honda_CBR150R_Repsol.jpg "wikilink")
-エンデュランスによる並行輸入車\]\] [2002年](../Page/2002年.md "wikilink")から[2015年](../Page/2015年.md "wikilink")までは[タイ王国](../Page/タイ王国.md "wikilink")の現地法人である**タイホンダ・マニュファクチュアリングカンパニー・リミテッド**（*Thai Honda Manufacturing Co., Ltd.*）が、[2016年](../Page/2016年.md "wikilink")からは[インドネシア](../Page/インドネシア.md "wikilink")[ジャカルタ](../Page/ジャカルタ.md "wikilink")の現地法人**ピー・ティ・アストラ・ホンダモーター**（*P.T. Astra Honda Motor*）が製造する内径x行程：63.5×47.2（mm）・[排気量](../Page/排気量.md "wikilink")149ccの[水冷](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")4バルブ[DOHC](../Page/DOHC.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")ならびに常時噛合式6段[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")を搭載する[CBRシリーズのオートバイである](https://ja.wikipedia.org/wiki/ホンダ・CBR "wikilink")\[1\]\[2\]。
+エンデュランスによる並行輸入車\]\] [2002年](../Page/2002年.md "wikilink")から[2015年](../Page/2015年.md "wikilink")までは[タイ王国](../Page/タイ王国.md "wikilink")の現地法人である**タイホンダ・マニュファクチュアリングカンパニー・リミテッド**（*Thai Honda Manufacturing Co., Ltd.*）が、[2016年](../Page/2016年.md "wikilink")からは[インドネシア](../Page/インドネシア.md "wikilink")[ジャカルタ](../Page/ジャカルタ.md "wikilink")の現地法人**ピー・ティ・アストラ・ホンダモーター**（*P.T. Astra Honda Motor*）が製造する内径x行程：63.5×47.2（mm）・[排気量](../Page/排気量.md "wikilink")149ccの[水冷](../Page/水冷エンジン.md "wikilink")[4ストローク](../Page/4ストローク機関.md "wikilink")4バルブ[DOHC](../Page/DOHC.md "wikilink")[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")ならびに常時噛合式6段[マニュアルトランスミッション](../Page/マニュアルトランスミッション.md "wikilink")を搭載する[CBRシリーズのオートバイである](https://ja.wikipedia.org/wiki/ホンダ・CBR "wikilink")\[1\]\[2\]。
 
-車体は[CBR600RRと共通デザインのフル](https://ja.wikipedia.org/wiki/ホンダ・CBR600RR "wikilink")[カウル](../Page/カウル.md "wikilink")を装着するが、[ヘッドライトは事実上の前身モデルである](https://ja.wikipedia.org/wiki/前照灯 "wikilink")[NSR150SPと同様の](https://ja.wikipedia.org/wiki/ホンダ・NSR#NSR150SP.2FRR "wikilink")2灯式である\[3\]。
+車体は[CBR600RRと共通デザインのフル](../Page/ホンダ・CBR600RR.md "wikilink")[カウル](../Page/カウル.md "wikilink")を装着するが、[ヘッドライトは事実上の前身モデルである](../Page/前照灯.md "wikilink")[NSR150SPと同様の](https://ja.wikipedia.org/wiki/ホンダ・NSR#NSR150SP.2FRR "wikilink")2灯式である\[3\]。
 
 海外向け専用モデルであることから、日本では本田技研工業による正式販売は実施されなかったが、エンデュランス社や一部のオートバイ販売店により並行輸入での販売が行われた。このため初代となる[2002年](../Page/2002年.md "wikilink")モデルでは、フロントカウルヘッドライト上側のウインカーが側面からの認識視覚をほとんど持たないことから、日本国内の保安基準に適応させるため位置を変更するほか、販売店で各種パーツを追加したモデルならびに保安部品を除去したレース仕様車も存在する\[4\]。
 
-本モデルは数回の[モデルチェンジ](https://ja.wikipedia.org/wiki/モデルチェンジ "wikilink")を実施しているが、日本国内では[2018年](../Page/2018年.md "wikilink")現在でもエンデュランス社による[2016年](../Page/2016年.md "wikilink")モデルの並行輸入販売が行われている\[5\]。
+本モデルは数回の[モデルチェンジ](../Page/モデルチェンジ.md "wikilink")を実施しているが、日本国内では[2018年](../Page/2018年.md "wikilink")現在でもエンデュランス社による[2016年](../Page/2016年.md "wikilink")モデルの並行輸入販売が行われている\[5\]。
 
 ### モデルイヤー別詳細
 
 いわゆる[レーサーレプリカに分類されるモデルであることから](../Page/スーパースポーツ.md "wikilink")、カラーリングは[モデルイヤー](https://ja.wikipedia.org/wiki/モデルイヤー "wikilink")ごとに数種類が存在する\[6\]。また[MotoGP](https://ja.wikipedia.org/wiki/MotoGP "wikilink")マシンを意識したレプソルカラーも数種類確認されており、[2016年](../Page/2016年.md "wikilink")には**CBR150R FI レプソルカラースペシャルエディション '16**の車名でエンデュランスから限定車としての販売も実施された\[7\]。大きな仕様変更は以下に示すものがある。
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")モデル
+  - [2005年](../Page/2005年.md "wikilink")モデル
 
 盗難対策そしてキーシャッターを標準装備化。
 

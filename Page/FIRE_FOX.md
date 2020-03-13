@@ -1,7 +1,7 @@
 > この記事は[FIRE FOX](https://ja.wikipedia.org/wiki/FIRE_FOX)から翻訳されています。
 
 
-**FIRE FOX**（ファイルフォックス）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")を本拠地とする[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")のクラブチームである。「ファイヤーフォックス」と間違って呼ばれてしまうことが時々あるが、「**ファイル**フォックス」が正しい。
+**FIRE FOX**（ファイルフォックス）は、[東京都](../Page/東京都.md "wikilink")を本拠地とする[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")のクラブチームである。「ファイヤーフォックス」と間違って呼ばれてしまうことが時々あるが、「**ファイル**フォックス」が正しい。
 
 [眞境名オスカー](../Page/眞境名オスカー.md "wikilink")らによって[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に結成され、全国タイトルを計6回（[全日本選手権](https://ja.wikipedia.org/wiki/全日本フットサル選手権大会 "wikilink")4回・[地域チャンピオンズリーグ](https://ja.wikipedia.org/wiki/フットサル地域チャンピオンズリーグ "wikilink")2回）獲得した。 2005年には関東フットサルリーグ、地域チャンピオンズリーグ、全日本選手権の三冠を達成した。
 

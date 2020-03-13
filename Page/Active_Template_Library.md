@@ -5,7 +5,7 @@
 
 インターネット用のコントロールは[MFCも利用できるが](../Page/Microsoft_Foundation_Class.md "wikilink")、ウェブサーバーからネットワーク経由でダウンロードするためにコントロールは小さくコンパクトであることが求められる。MFCアプリケーションは総じてプログラムサイズが巨大になる。ATLでは補助DLLなしで小さなコントロールを作成できるため、ATLはある意味でCOMコントロールの開発環境としてMFCに対する軽量の代替物である。
 
-また、ATLには[Windows APIのラッパーとして利用できるクラスもあり](https://ja.wikipedia.org/wiki/Windows_API "wikilink")、[WTLと併せて通常のWindows用の](../Page/Windows_Template_Library.md "wikilink")[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")作成にも用いることができる。
+また、ATLには[Windows APIのラッパーとして利用できるクラスもあり](../Page/Windows_API.md "wikilink")、[WTLと併せて通常のWindows用の](../Page/Windows_Template_Library.md "wikilink")[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")作成にも用いることができる。
 
 Visual C++ 7.0 (Visual C++ .NET 2002) 付属のATL 7.0以降はMFCとの統合が図られ、一部のクラスは共通化されている\[1\]。また、Visual C++ .NET 2002以降、バージョン番号はATL、MFCともにVisual C++の内部バージョンと同じになった\[2\]。なおATLのバージョンを表す定義済みシンボルとして、`_ATL_VER`が存在する\[3\]。
 

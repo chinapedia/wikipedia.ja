@@ -12,11 +12,11 @@
 ## メンバー
 
   - **Megu** \<[Vo](https://ja.wikipedia.org/wiki/ボーカル "wikilink")\>
-    及び[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")を担当。
+    及び[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")を担当。
   - **JM** \<[Key, Prog](https://ja.wikipedia.org/wiki/Key,_Prog "wikilink")\>
-    及び[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")及び[編曲](../Page/編曲.md "wikilink")を担当。
+    及び[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")及び[編曲](../Page/編曲.md "wikilink")を担当。
   - **Shinobu** \<[G](../Page/G.md "wikilink")\>
-    及び[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[作曲](../Page/作曲.md "wikilink")及び[編曲](../Page/編曲.md "wikilink")を担当。
+    及び[作詞](../Page/作詞.md "wikilink")、[作曲](../Page/作曲.md "wikilink")及び[編曲](../Page/編曲.md "wikilink")を担当。
 
 ## ディスコグラフィ
 
@@ -28,19 +28,19 @@
 
 ### ミニアルバム
 
-  - [AIR](https://ja.wikipedia.org/wiki/AIR_\(Genuine_Graceのアルバム\) "wikilink")　-　[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月20日](../Page/3月20日.md "wikilink")発売
+  - [AIR](https://ja.wikipedia.org/wiki/AIR_\(Genuine_Graceのアルバム\) "wikilink")　-　[2005年](../Page/2005年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")発売
 
 ジャケットは[ANDY V.が担当](https://ja.wikipedia.org/wiki/ANDY_V. "wikilink")。
 
 ### コンピレーション
 
-  - [Christmas in JOY](https://ja.wikipedia.org/wiki/Christmas_in_JOY "wikilink") [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月](../Page/11月.md "wikilink")　[ぬくもり](https://ja.wikipedia.org/wiki/ぬくもり "wikilink")収録
-  - [Christmas in LOVE](https://ja.wikipedia.org/wiki/Christmas_in_LOVE "wikilink") [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月](../Page/11月.md "wikilink")　[傷痕](https://ja.wikipedia.org/wiki/傷痕 "wikilink")収録
+  - [Christmas in JOY](https://ja.wikipedia.org/wiki/Christmas_in_JOY "wikilink") [2005年](../Page/2005年.md "wikilink")[11月](../Page/11月.md "wikilink")　[ぬくもり](https://ja.wikipedia.org/wiki/ぬくもり "wikilink")収録
+  - [Christmas in LOVE](https://ja.wikipedia.org/wiki/Christmas_in_LOVE "wikilink") [2006年](../Page/2006年.md "wikilink")[11月](../Page/11月.md "wikilink")　[傷痕](https://ja.wikipedia.org/wiki/傷痕 "wikilink")収録
   - [Celebrate Christmas](https://ja.wikipedia.org/wiki/Celebrate_Christmas "wikilink") [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink")　[The First Noel収録](https://ja.wikipedia.org/wiki/The_First_Noel "wikilink")
 
 ### 音楽配信([Gプロデュース](https://ja.wikipedia.org/wiki/Gプロデュース "wikilink")・音楽映像配信サイト)
 
-  - [AIR (G-Mix)](https://ja.wikipedia.org/wiki/AIR_\(G-Mix\) "wikilink")　-　 [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")配信 [野口五郎](../Page/野口五郎.md "wikilink")プロデュース
+  - [AIR (G-Mix)](https://ja.wikipedia.org/wiki/AIR_\(G-Mix\) "wikilink")　-　 [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")配信 [野口五郎](../Page/野口五郎.md "wikilink")プロデュース
   - [A Little Bit Of Heaven](https://ja.wikipedia.org/wiki/A_Little_Bit_Of_Heaven "wikilink")
   - [AIR](https://ja.wikipedia.org/wiki/AIR_\(Genuine_Graceのアルバム\) "wikilink")
 

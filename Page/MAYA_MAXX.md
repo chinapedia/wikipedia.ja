@@ -1,11 +1,11 @@
 > この記事は[MAYA MAXX](https://ja.wikipedia.org/wiki/MAYA_MAXX)から翻訳されています。
 
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:MAYA_MAXX_at_Taku-Taku,_Kyoto,_Japan.JPG "wikilink") **MAYA MAXX**（マヤマックス、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - ）は日本の[画家](../Page/画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、[絵本作家](https://ja.wikipedia.org/wiki/絵本作家 "wikilink")。[愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")出身。[愛媛県立今治西高等学校](https://ja.wikipedia.org/wiki/愛媛県立今治西高等学校 "wikilink")を経て、[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")教育学部卒業\[1\]。
+[250px](https://ja.wikipedia.org/wiki/ファイル:MAYA_MAXX_at_Taku-Taku,_Kyoto,_Japan.JPG "wikilink") **MAYA MAXX**（マヤマックス、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - ）は日本の[画家](../Page/画家.md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、[絵本作家](https://ja.wikipedia.org/wiki/絵本作家 "wikilink")。[愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")出身。[愛媛県立今治西高等学校](../Page/愛媛県立今治西高等学校.md "wikilink")を経て、[早稲田大学](../Page/早稲田大学.md "wikilink")教育学部卒業\[1\]。
 
 ## プロフィール
 
-[1993年](../Page/1993年.md "wikilink")以来毎年開催している個展\[2\]をはじめ、[よしもとばなな](https://ja.wikipedia.org/wiki/よしもとばなな "wikilink")、[山田詠美](../Page/山田詠美.md "wikilink")など小説の装丁画や[絵本](../Page/絵本.md "wikilink")創作、CDジャケットデザイン等を手がけ\[3\]、若い世代からの支持も高い\[4\]。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")』や[NHK教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")『[真剣10代しゃべり場](https://ja.wikipedia.org/wiki/真剣10代しゃべり場 "wikilink")』など[テレビ番組](../Page/テレビ番組.md "wikilink")にも出演\[5\]、。
+[1993年](../Page/1993年.md "wikilink")以来毎年開催している個展\[2\]をはじめ、[よしもとばなな](https://ja.wikipedia.org/wiki/よしもとばなな "wikilink")、[山田詠美](../Page/山田詠美.md "wikilink")など小説の装丁画や[絵本](../Page/絵本.md "wikilink")創作、CDジャケットデザイン等を手がけ\[3\]、若い世代からの支持も高い\[4\]。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ポンキッキーズ](../Page/ポンキッキーズ.md "wikilink")』や[NHK教育テレビ](../Page/NHK教育テレビジョン.md "wikilink")『[真剣10代しゃべり場](../Page/真剣10代しゃべり場.md "wikilink")』など[テレビ番組](../Page/テレビ番組.md "wikilink")にも出演\[5\]、。
 
 。
 
@@ -46,7 +46,7 @@
 
 ### テレビドラマ
 
-  - [中学生日記](https://ja.wikipedia.org/wiki/中学生日記 "wikilink")「セルフ・イメージ」（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月13日](../Page/11月13日.md "wikilink")、NHK教育）
+  - [中学生日記](https://ja.wikipedia.org/wiki/中学生日記 "wikilink")「セルフ・イメージ」（[2006年](../Page/2006年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、NHK教育）
 
 ## 脚注
 

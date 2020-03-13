@@ -32,7 +32,7 @@
   - 音楽：[小野川浩幸](https://ja.wikipedia.org/wiki/小野川浩幸 "wikilink")、[MACH1.67](https://ja.wikipedia.org/wiki/MACH1.67 "wikilink")
       - 主題歌：「Shock DNA」（MACH1.67）
       - 挿入歌：「Electric Buddha」（MACH1.67）
-  - 美術：[磯見俊裕](https://ja.wikipedia.org/wiki/磯見俊裕 "wikilink")
+  - 美術：[磯見俊裕](../Page/磯見俊裕.md "wikilink")
   - 衣装（デザイン）：[高橋ハルカ](https://ja.wikipedia.org/wiki/高橋ハルカ "wikilink")
   - 特殊メイク：原口智生
   - タトゥーデザイン：[ひろき真冬](https://ja.wikipedia.org/wiki/ひろき真冬 "wikilink")

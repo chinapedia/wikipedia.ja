@@ -1,11 +1,11 @@
 > この記事は[CHU](https://ja.wikipedia.org/wiki/CHU)から翻訳されています。
 
 
-『**ゆりしー・梓馬のラブゲッCHUミラクルラジオ**』（ゆりしー あずま の ラブゲッチュ ミラクルラジオ）は、[ラジオ大阪](../Page/大阪放送.md "wikilink")[V-STATIONの](https://ja.wikipedia.org/wiki/1314_V-STATION "wikilink")[アニラジ](../Page/アニラジ.md "wikilink")番組。
+『**ゆりしー・梓馬のラブゲッCHUミラクルラジオ**』（ゆりしー あずま の ラブゲッチュ ミラクルラジオ）は、[ラジオ大阪](../Page/大阪放送.md "wikilink")[V-STATIONの](../Page/1314_V-STATION.md "wikilink")[アニラジ](../Page/アニラジ.md "wikilink")番組。
 
 [パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[落合祐里香](https://ja.wikipedia.org/wiki/長谷優里奈 "wikilink")（ゆりしー）と[坂本梓馬](../Page/坂本梓馬.md "wikilink")。略称は**ミラクルラジオ**。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[10月2日](../Page/10月2日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")（平成19年）[4月2日](../Page/4月2日.md "wikilink")。ただし、[2007年](../Page/2007年.md "wikilink")（平成19年）[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")の放送が[最終回](../Page/最終回.md "wikilink")とされた。4月2日はラジオ大阪のみの放送。
+[2006年](../Page/2006年.md "wikilink")（平成18年）[10月2日](../Page/10月2日.md "wikilink") - [2007年](../Page/2007年.md "wikilink")（平成19年）[4月2日](../Page/4月2日.md "wikilink")。ただし、[2007年](../Page/2007年.md "wikilink")（平成19年）[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")の放送が[最終回](../Page/最終回.md "wikilink")とされた。4月2日はラジオ大阪のみの放送。
 
 [アニメ](../Page/アニメ.md "wikilink")『[ラブゲッCHU 〜ミラクル声優白書〜](../Page/ラブゲッCHU_〜ミラクル声優白書〜.md "wikilink")』関連番組で、パーソナリティ2人もこの作品に主要な役で声を担当している。
 
@@ -14,7 +14,7 @@
   - [ラジオ大阪](../Page/大阪放送.md "wikilink")：月曜 24:00 - 24:30（火曜 0:00 - 0:30）
   - [文化放送](../Page/文化放送.md "wikilink")：月曜 25:00 - 25:30（火曜 1:00 - 1:30）
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")：土曜 21:30 - 22:00
-      - 最終回のみ[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")の開幕戦ナイター中継に伴い翌日の4月1日日曜日の同時刻に放送された。
+      - 最終回のみ[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")の開幕戦ナイター中継に伴い翌日の4月1日日曜日の同時刻に放送された。
 
 ## 内容
 
@@ -42,12 +42,12 @@
 
 ## ゲスト
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[12月11日](../Page/12月11日.md "wikilink") [新谷良子](../Page/新谷良子.md "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）[12月11日](../Page/12月11日.md "wikilink") [新谷良子](../Page/新谷良子.md "wikilink")
 
 ## CD
 
   - ラジオCD「ゆりしー・梓馬のラブゲッCHUミラクルラジオ〜ミラクルディスク1〜」
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、イベント（Vステ冬の陣06）限定発売。
+    [2006年](../Page/2006年.md "wikilink")（平成18年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、イベント（Vステ冬の陣06）限定発売。
 
 ## イベント
 

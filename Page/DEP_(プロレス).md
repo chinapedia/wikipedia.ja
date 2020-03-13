@@ -10,7 +10,7 @@
 ## 歴史
 
   - [2003年](../Page/2003年.md "wikilink")11月、「Total Fighting 大和会」として「プロレスを通して地域の活性化と福祉への貢献」をモットーに古澤弘樹と深谷友和が設立。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")、「Total Fighting 大和会」改め「Daiwa Entertainment Pro-wrestling」として[刈谷市産業振興センター](https://ja.wikipedia.org/wiki/刈谷市産業振興センター "wikilink")あいおいホールで旗揚げ戦を開催。
+  - [2006年](../Page/2006年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")、「Total Fighting 大和会」改め「Daiwa Entertainment Pro-wrestling」として[刈谷市産業振興センター](https://ja.wikipedia.org/wiki/刈谷市産業振興センター "wikilink")あいおいホールで旗揚げ戦を開催。
   - [2018年](../Page/2018年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")、[イオンモール名古屋茶屋](https://ja.wikipedia.org/wiki/イオンモール名古屋茶屋 "wikilink")で開催された[プロレスフェス](https://ja.wikipedia.org/wiki/プロレスフェス "wikilink")に参加。
 
 ## タイトル
@@ -46,7 +46,7 @@
 <!-- end list -->
 
   - ダンボールエクストリームパケット王座
-    [ダンボール](https://ja.wikipedia.org/wiki/段ボール "wikilink")[デスマッチ](../Page/デスマッチ.md "wikilink")形式で行われるタイトルマッチ。
+    [ダンボール](../Page/段ボール.md "wikilink")[デスマッチ](../Page/デスマッチ.md "wikilink")形式で行われるタイトルマッチ。
 
 <!-- end list -->
 

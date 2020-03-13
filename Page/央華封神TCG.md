@@ -1,9 +1,9 @@
 > この記事は[TCG](https://ja.wikipedia.org/wiki/TCG)から翻訳されています。
 
 
-『**央華封神TCG**』（おうかほうしんトレーディングカードゲーム）は、『[封神演義](../Page/封神演義.md "wikilink")』などをモデルとした古代中国風の[ファンタジー](../Page/ファンタジー.md "wikilink")世界・央華（おうか）において[仙人](../Page/仙人.md "wikilink")となって対戦する[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")である。発行は[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")、発売は[主婦の友社](../Page/主婦の友社.md "wikilink")。
+『**央華封神TCG**』（おうかほうしんトレーディングカードゲーム）は、『[封神演義](../Page/封神演義.md "wikilink")』などをモデルとした古代中国風の[ファンタジー](../Page/ファンタジー.md "wikilink")世界・央華（おうか）において[仙人](../Page/仙人.md "wikilink")となって対戦する[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")である。発行は[メディアワークス](../Page/メディアワークス.md "wikilink")、発売は[主婦の友社](../Page/主婦の友社.md "wikilink")。
 
-[グループSNE](../Page/グループSNE.md "wikilink")がデザインしており、世界観デザインは『[央華封神RPG](https://ja.wikipedia.org/wiki/央華封神RPG "wikilink")』に従う。トレーディングカードゲームとしてのシステムデザインは[川人忠明](https://ja.wikipedia.org/wiki/グループSNE#現在所属しているメンバー "wikilink")。
+[グループSNE](../Page/グループSNE.md "wikilink")がデザインしており、世界観デザインは『[央華封神RPG](../Page/央華封神RPG.md "wikilink")』に従う。トレーディングカードゲームとしてのシステムデザインは[川人忠明](https://ja.wikipedia.org/wiki/グループSNE#現在所属しているメンバー "wikilink")。
 
 ## 特徴
 
@@ -34,17 +34,17 @@
 ## サプリメント
 
   - 央華封神TCG チャレンジブック （川人忠明/グループSNE） ISBN 4-07-310692-9
-  - 央華封神TCG デックアンドコンボ集 覇王の兵法 （[F.E.A.R.](https://ja.wikipedia.org/wiki/ファーイースト・アミューズメント・リサーチ "wikilink")）
+  - 央華封神TCG デックアンドコンボ集 覇王の兵法 （[F.E.A.R.](../Page/ファーイースト・アミューズメント・リサーチ.md "wikilink")）
 
 ## 参加イラストレーター
 
 五十音順。主人公カードを手がけている場合は、（）内に主人公名を記した。
 
-  - [赤井孝美](https://ja.wikipedia.org/wiki/赤井孝美 "wikilink") （沙悠凛）
-  - [雨宮慶太](https://ja.wikipedia.org/wiki/雨宮慶太 "wikilink")
+  - [赤井孝美](../Page/赤井孝美.md "wikilink") （沙悠凛）
+  - [雨宮慶太](../Page/雨宮慶太.md "wikilink")
   - [池田恵](https://ja.wikipedia.org/wiki/池田恵_\(漫画家\) "wikilink")
   - [出光秀匡](https://ja.wikipedia.org/wiki/出光秀匡 "wikilink")
-  - [伊藤勢](https://ja.wikipedia.org/wiki/伊藤勢 "wikilink")
+  - [伊藤勢](../Page/伊藤勢.md "wikilink")
   - [井上純弌](https://ja.wikipedia.org/wiki/井上純弌 "wikilink")
   - [上田宏](https://ja.wikipedia.org/wiki/上田宏 "wikilink")
   - [うるし原智志](../Page/うるし原智志.md "wikilink")
@@ -55,15 +55,15 @@
   - [臣士れい](https://ja.wikipedia.org/wiki/臣士れい "wikilink") （真黒都）
   - [開田裕治](../Page/開田裕治.md "wikilink")
   - [金澤尚子](https://ja.wikipedia.org/wiki/金澤尚子 "wikilink")
-  - [川元利浩](https://ja.wikipedia.org/wiki/川元利浩 "wikilink") （麗鏡姫）
+  - [川元利浩](../Page/川元利浩.md "wikilink") （麗鏡姫）
   - [きがわ琳](https://ja.wikipedia.org/wiki/きがわ琳 "wikilink")
   - [衣谷遊](../Page/衣谷遊.md "wikilink") （毛哀蓮）
-  - [木村明広](https://ja.wikipedia.org/wiki/木村明広 "wikilink")
-  - [草彅琢仁](https://ja.wikipedia.org/wiki/草なぎ琢仁 "wikilink")
+  - [木村明広](../Page/木村明広.md "wikilink")
+  - [草彅琢仁](../Page/草なぎ琢仁.md "wikilink")
   - [栗橋伸祐](https://ja.wikipedia.org/wiki/栗橋伸祐 "wikilink") （林悠季、桂紫蘭、蝠梨、彩明鈴、夏泉朗）
   - [こいでたく](../Page/こいでたく.md "wikilink")
   - [此路あゆみ](https://ja.wikipedia.org/wiki/此路あゆみ "wikilink")
-  - [こやま基夫](https://ja.wikipedia.org/wiki/こやま基夫 "wikilink")
+  - [こやま基夫](../Page/こやま基夫.md "wikilink")
   - [細雪純](../Page/細雪純.md "wikilink") （露芳女仙）
   - [椎名優](../Page/椎名優.md "wikilink") （白水玉）
   - [柴田昌弘](../Page/柴田昌弘.md "wikilink") （晁白天）
@@ -74,18 +74,18 @@
   - [鶴田謙二](../Page/鶴田謙二.md "wikilink") （沙雪華、史黒狼、陽翠恵）
   - [中沢一登](https://ja.wikipedia.org/wiki/中沢一登 "wikilink") （黄俊圭）
   - [新名あき](https://ja.wikipedia.org/wiki/新名あき "wikilink") （奏迦良）
-  - [西村博之](https://ja.wikipedia.org/wiki/西村博之_\(イラストレーター\) "wikilink") （華美麗）
+  - [西村博之](../Page/西村博之_\(イラストレーター\).md "wikilink") （華美麗）
   - [林正之](https://ja.wikipedia.org/wiki/林正之 "wikilink")
   - [美鈴秋](https://ja.wikipedia.org/wiki/美鈴秋 "wikilink")
-  - [夢来鳥ねむ](https://ja.wikipedia.org/wiki/夢来鳥ねむ "wikilink") （祭珂夜）
+  - [夢来鳥ねむ](../Page/夢来鳥ねむ.md "wikilink") （祭珂夜）
   - [村枝賢一](../Page/村枝賢一.md "wikilink") （羚白秋）
   - [安彦良和](../Page/安彦良和.md "wikilink") （黄飛鷹）
   - [八房龍之助](../Page/八房龍之助.md "wikilink")
-  - [由羅カイリ](https://ja.wikipedia.org/wiki/由羅カイリ "wikilink") （蘭杢弦）
+  - [由羅カイリ](../Page/由羅カイリ.md "wikilink") （蘭杢弦）
 
 ## 関連項目
 
-  - [央華封神RPG](https://ja.wikipedia.org/wiki/央華封神RPG "wikilink")
+  - [央華封神RPG](../Page/央華封神RPG.md "wikilink")
 
 ## 参考書籍
 

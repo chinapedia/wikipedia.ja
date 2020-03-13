@@ -1,15 +1,15 @@
 > この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
 
 
-**JALドリームエクスプレス** (JAL Dream Express) は、[日本航空](../Page/日本航空.md "wikilink") (JAL) の[ディズニー](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・カンパニー "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")特別塗装機の愛称である。日本航空は[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")のオフィシャルエアラインを務めており、ウォルト・ディズニー・ジャパンおよび[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")とのタイアップ企画として期間限定で就航している。2013年には同じくディズニーキャラクターの特別塗装機**JALハピネスエクスプレス**、2018年には**JALセレブレーションエクスプレス**が、2015年にはダッフィーの特別塗装機**JALハッピージャーニーエクスプレス**が就航したため、本項では日本航空グループにおける歴代のディズニーキャラクター特別塗装機について触れる。
+**JALドリームエクスプレス** (JAL Dream Express) は、[日本航空](../Page/日本航空.md "wikilink") (JAL) の[ディズニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")特別塗装機の愛称である。日本航空は[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")のオフィシャルエアラインを務めており、ウォルト・ディズニー・ジャパンおよび[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")とのタイアップ企画として期間限定で就航している。2013年には同じくディズニーキャラクターの特別塗装機**JALハピネスエクスプレス**、2018年には**JALセレブレーションエクスプレス**が、2015年にはダッフィーの特別塗装機**JALハッピージャーニーエクスプレス**が就航したため、本項では日本航空グループにおける歴代のディズニーキャラクター特別塗装機について触れる。
 
 ## JALドリームエクスプレス（初代）
 
-[1994年](../Page/1994年.md "wikilink")8月から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月に就航。デザインは機体を[雲](../Page/雲.md "wikilink")に見立てて、白を基調に上半分の一部に空（水色）だったが、デザインは左右で異なっていた。[垂直尾翼](https://ja.wikipedia.org/wiki/垂直尾翼 "wikilink")に[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")と"Disney on Tour"の表記があった。
+[1994年](../Page/1994年.md "wikilink")8月から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月に就航。デザインは機体を[雲](../Page/雲.md "wikilink")に見立てて、白を基調に上半分の一部に空（水色）だったが、デザインは左右で異なっていた。[垂直尾翼](../Page/垂直尾翼.md "wikilink")に[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")と"Disney on Tour"の表記があった。
 
   - [ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")-146B：JA8142
   - ボーイング747-146B/SUD：JA8170
-  - [ボーイング767](https://ja.wikipedia.org/wiki/ボーイング767 "wikilink")-346：JA8397,JA8398,JA8399
+  - [ボーイング767](../Page/ボーイング767.md "wikilink")-346：JA8397,JA8398,JA8399
 
 ファイル:JAL Dream Express.jpg|JALドリームエクスプレス B747-100 （JA8142） ファイル:JAL dreamexpress B747-100SUD TYO.jpg|JALドリームエクスプレス B747-100SUD （JA8170） ファイル:JAL dreamexpress B767-300 MYJ.jpg|JALドリームエクスプレス B767-300（JA8397）
 
@@ -19,14 +19,14 @@
 
 [ウォルト・ディズニー](../Page/ウォルト・ディズニー.md "wikilink")生誕100周年と日本航空創立50周年、そして[東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")開園（JALが公式スポンサー）を記念した企画として[2001年](../Page/2001年.md "wikilink")に登場。国内線向けに5機、国際線向けに1機、計6機の[ボーイング747-400](https://ja.wikipedia.org/wiki/ボーイング747-400 "wikilink")（国内線向けは747-446D、国際線向けは747-446）が抜擢され、[2002年](../Page/2002年.md "wikilink")まで国内幹線と近距離国際線に就航した。
 
-胴体には「ウォルト・ディズニー生誕100周年の魔法」(Walt Disney 100 year of Magic)と表記、垂直尾翼はワインレッドをベースに"JAL 50th Anniversary"と表記されたほか、[マーチン2-0-2](../Page/マーチン2-0-2.md "wikilink")とボーイング747-400のシルエットが入っていた。また、"Tokyo DisneySEA"号とデザインを一般公募した"Dream Story"を除いてアレンジは違うものの[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")のシンボルである[シンデレラ城](https://ja.wikipedia.org/wiki/シンデレラ城 "wikilink")が機体後方に描かれている。 アッパーデッキのある機体前部にはミッキーマウスと[ミニーマウス](../Page/ミニーマウス.md "wikilink")が描かれた。
+胴体には「ウォルト・ディズニー生誕100周年の魔法」(Walt Disney 100 year of Magic)と表記、垂直尾翼はワインレッドをベースに"JAL 50th Anniversary"と表記されたほか、[マーチン2-0-2](../Page/マーチン2-0-2.md "wikilink")とボーイング747-400のシルエットが入っていた。また、"Tokyo DisneySEA"号とデザインを一般公募した"Dream Story"を除いてアレンジは違うものの[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")のシンボルである[シンデレラ城](../Page/シンデレラ城.md "wikilink")が機体後方に描かれている。 アッパーデッキのある機体前部にはミッキーマウスと[ミニーマウス](../Page/ミニーマウス.md "wikilink")が描かれた。
 
   - 1号機：JA8908 "FRIENDS"
       -
-        友情がテーマで基調色は白。描かれたキャラクターは[プルート](https://ja.wikipedia.org/wiki/プルート_\(ディズニーキャラクター\) "wikilink")、[グーフィー](https://ja.wikipedia.org/wiki/グーフィー "wikilink")、[ドナルドダック](https://ja.wikipedia.org/wiki/ドナルドダック "wikilink")・[デイジーダック](../Page/デイジーダック.md "wikilink")・[ヒューイ・デューイ・ルーイ](https://ja.wikipedia.org/wiki/ヒューイ・デューイ・ルーイ "wikilink")。
+        友情がテーマで基調色は白。描かれたキャラクターは[プルート](../Page/プルート_\(ディズニーキャラクター\).md "wikilink")、[グーフィー](../Page/グーフィー.md "wikilink")、[ドナルドダック](../Page/ドナルドダック.md "wikilink")・[デイジーダック](../Page/デイジーダック.md "wikilink")・[ヒューイ・デューイ・ルーイ](../Page/ヒューイ・デューイ・ルーイ.md "wikilink")。
   - 2号機：JA8904 "SWEET"
       -
-        恋愛がテーマで基調色はピンク。描かれた作品はラブストーリーものが選ばれ、[アラジン](https://ja.wikipedia.org/wiki/アラジン_\(1992年の映画\) "wikilink")、[シンデレラ](https://ja.wikipedia.org/wiki/シンデレラ_\(アニメ映画\) "wikilink")、[リトル・マーメイド](https://ja.wikipedia.org/wiki/リトル・マーメイド "wikilink")、[美女と野獣](https://ja.wikipedia.org/wiki/美女と野獣_\(アニメ映画\) "wikilink")、[ピーター・パン](https://ja.wikipedia.org/wiki/ピーター・パン_\(アニメ映画\) "wikilink")。
+        恋愛がテーマで基調色はピンク。描かれた作品はラブストーリーものが選ばれ、[アラジン](../Page/アラジン_\(1992年の映画\).md "wikilink")、[シンデレラ](https://ja.wikipedia.org/wiki/シンデレラ_\(アニメ映画\) "wikilink")、[リトル・マーメイド](https://ja.wikipedia.org/wiki/リトル・マーメイド "wikilink")、[美女と野獣](https://ja.wikipedia.org/wiki/美女と野獣_\(アニメ映画\) "wikilink")、[ピーター・パン](https://ja.wikipedia.org/wiki/ピーター・パン_\(アニメ映画\) "wikilink")。
   - 3号機：JA8083 "FAMILY"
       -
         家族がテーマで基調色は青。描かれた作品は家族愛を意識したものが選ばれ、[バンビ](../Page/バンビ_\(映画\).md "wikilink")、[ピノキオ](../Page/ピノキオ_\(1940年の映画\).md "wikilink")、[ダンボ](../Page/ダンボ.md "wikilink")、[101匹わんちゃん](../Page/101匹わんちゃん.md "wikilink")。
@@ -44,7 +44,7 @@
 
 ## JALハピネスエクスプレス
 
-東京ディズニーリゾート開園30周年を記念して[2013年](../Page/2013年.md "wikilink")に登場。2機の[ボーイング777](../Page/ボーイング777.md "wikilink")-200と4機の[ボーイング737](https://ja.wikipedia.org/wiki/ボーイング737 "wikilink")-800に施され、いずれも国内線に就航した。
+東京ディズニーリゾート開園30周年を記念して[2013年](../Page/2013年.md "wikilink")に登場。2機の[ボーイング777](../Page/ボーイング777.md "wikilink")-200と4機の[ボーイング737](../Page/ボーイング737.md "wikilink")-800に施され、いずれも国内線に就航した。
 
 ボーイング777は2機とも同一のデザインで、ミッキーマウス・ミニーマウス・ドナルドダック、プルート、グーフィーが描かれていたが、ボーイング737はミッキーマウスとドナルドダック（JA329J,JA339J）、ミニーマウスとデイジーダック（JA330J,JA332J）を描いたデザインが各2機ずつ就航した \[1\]。
 
@@ -58,7 +58,7 @@ B737-800(JA332J)
 
 ## JALハッピージャーニーエクスプレス
 
-東京ディズニーシーの[ダッフィー](https://ja.wikipedia.org/wiki/ダッフィー "wikilink")登場10周年を記念した「ジャーニー・ウィズ・ダッフィー Your Friend Forever」タイアップ企画の一環として[2015年](../Page/2015年.md "wikilink")に登場。4機のボーイング737-800に施され、7月14日より順次国内線に就航した。これまではデザインが複数設定されたが、今回はいずれも同じデザインを採用した \[2\]。
+東京ディズニーシーの[ダッフィー](../Page/ダッフィー.md "wikilink")登場10周年を記念した「ジャーニー・ウィズ・ダッフィー Your Friend Forever」タイアップ企画の一環として[2015年](../Page/2015年.md "wikilink")に登場。4機のボーイング737-800に施され、7月14日より順次国内線に就航した。これまではデザインが複数設定されたが、今回はいずれも同じデザインを採用した \[2\]。
 
   - ボーイング737-846：JA318J（1号機）,JA327J（2号機）,JA341J（3号機）,JA314J（4号機）
 
@@ -94,11 +94,11 @@ B737-800(JA341J)
   - 初代「ドリームエクスプレス」のボーイング767-346は、日本航空向けの767のうち[エンジンが](../Page/ジェットエンジン.md "wikilink")[プラット・アンド・ホイットニー製JT9D系から](../Page/プラット・アンド・ホイットニー_JT9D.md "wikilink")[ゼネラル・エレクトリック製CF6系に切り替えられた最初のロットである](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック_CF6 "wikilink")。
   - JA8170はエンジンはJT9D-7Aを装着するがアッパーデッキ（2階席）が長い特別仕様で、747-146B-SUDという型式を持つ。1999年には[GLAY](../Page/GLAY.md "wikilink")の特別塗装機「[GLAY JUMBO](../Page/GLAY_JUMBO.md "wikilink")」にもなった。
   - FRIENDS号だったJA8908は2000年に、同年開催された[シドニーオリンピック](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")の日本選手団を応援するステッカーが貼られて運航された。またドリームエクスプレス21が終了した2002年には一度標準塗装に戻されたあと、その年に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[韓国で共同開催された](../Page/大韓民国.md "wikilink")[2002 FIFAワールドカップ特別塗装機を務めた](../Page/2002_FIFAワールドカップ.md "wikilink")。
-  - SWEET号だったJA8904は1996年には予約電話番号が[フリーダイヤル](../Page/フリーダイヤル.md "wikilink")となったことをPRするために、胴体左側に国内線、右側に国際線の予約電話番号を記入して運航された。また「ドリームエクスプレス21」化前の2001年1月には、同社の[マクドネル・ダグラス DC-10](https://ja.wikipedia.org/wiki/マクドネル・ダグラス_DC-10 "wikilink")(JA8546)と[焼津市](../Page/焼津市.md "wikilink")上空で[ニアミスを起こしていた](../Page/日本航空機駿河湾上空ニアミス事故.md "wikilink")。
+  - SWEET号だったJA8904は1996年には予約電話番号が[フリーダイヤル](../Page/フリーダイヤル.md "wikilink")となったことをPRするために、胴体左側に国内線、右側に国際線の予約電話番号を記入して運航された。また「ドリームエクスプレス21」化前の2001年1月には、同社の[マクドネル・ダグラス DC-10](../Page/マクドネル・ダグラス_DC-10.md "wikilink")(JA8546)と[焼津市](../Page/焼津市.md "wikilink")上空で[ニアミスを起こしていた](../Page/日本航空機駿河湾上空ニアミス事故.md "wikilink")。
   - FAMILY号だったJA8083は、1991年に製造された日本航空向け747-400Dの初号機である。
   - 国際線用のTokyo DisneySea号だったJA8912は性能的には通常の747-400であるが、装備上の理由により短中距離仕様とされている3機のうちの1機である。また1994年の[関西国際空港](https://ja.wikipedia.org/wiki/関西国際空港 "wikilink")開港時には、[伊丹空港発の国際線最終便](https://ja.wikipedia.org/wiki/大阪国際空港 "wikilink")～[グアム](../Page/グアム国際空港.md "wikilink")～関西国際空港到着1番機のイベントフライトに使用された。
   - SWEET号だったJA8904と国内線用のTokyo DisneySea号だったJA8905は2007年7月13日から始まる「JAL夏休み家族のスマイルキャンペーン」に合わせ「[たまごっち](../Page/たまごっち.md "wikilink")ジェット2007」となった。
-  - ハピネスエクスプレス1号機のJA8985は1996年に[スタージェットの](../Page/スタージェット_\(旅客機\).md "wikilink")「[プロキオン](https://ja.wikipedia.org/wiki/プロキオン "wikilink")号」を、2011年には「JAL[怪物くん](https://ja.wikipedia.org/wiki/怪物くん "wikilink")ジェット」を務めた。また2014年2月にはハピネスエクスプレスとしての運航を終え、[サッカー日本代表](https://ja.wikipedia.org/wiki/サッカー日本代表 "wikilink")応援の特別塗装機「SAMURAI BLUE 応援ジェット」を務めている。
+  - ハピネスエクスプレス1号機のJA8985は1996年に[スタージェットの](../Page/スタージェット_\(旅客機\).md "wikilink")「[プロキオン](../Page/プロキオン.md "wikilink")号」を、2011年には「JAL[怪物くん](../Page/怪物くん.md "wikilink")ジェット」を務めた。また2014年2月にはハピネスエクスプレスとしての運航を終え、[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")応援の特別塗装機「SAMURAI BLUE 応援ジェット」を務めている。
   - ハピネスエクスプレス2号機のJA772Jは2011年に「JAL[嵐ジェット](../Page/嵐_\(グループ\).md "wikilink")」を、2012年に[サマンサタバサ](../Page/サマンサタバサ.md "wikilink")とのタイアップ機 "JAL x Samantha Thavasa Jet"を務めた。
   - ドリームエクスプレス90のJA602JとセレブレーションエクスプレスのJA612Jは旧塗装「太陽のアーク」時代に[観光庁](https://ja.wikipedia.org/wiki/観光庁 "wikilink")の訪日観光に関する海外市場向けキャッチフレーズ"Japan. Endless Discovery."ロゴが貼られていた。
 
@@ -108,8 +108,8 @@ B737-800(JA341J)
 
 <!-- end list -->
 
-  - [東京空港交通](https://ja.wikipedia.org/wiki/東京空港交通 "wikilink")の[貸切バスのうち](https://ja.wikipedia.org/wiki/観光バス "wikilink")、ジャルツアーズ（当時、現在の[ジャルパック](https://ja.wikipedia.org/wiki/ジャルパック "wikilink")）主催の東京ディズニーリゾート関連[ツアー参加者専用バス](../Page/企画旅行.md "wikilink")「マジカルファンタジー」号に使用された[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")（現・[三菱ふそうトラック・バス](https://ja.wikipedia.org/wiki/三菱ふそうトラック・バス "wikilink")）・[エアロクィーンは](https://ja.wikipedia.org/wiki/三菱ふそう・エアロエース "wikilink")2001年にFRIENDS号と同じデザインの[ラッピングフィルムで装飾された](https://ja.wikipedia.org/wiki/ラッピング車両 "wikilink")。2002年には使用車両が[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）・[ユーロツアーに置き換えられ](https://ja.wikipedia.org/wiki/日産ディーゼル・ユーロツアー "wikilink")、その年のラッピングフィルムは東京ディズニーシー号と同じデザインを採用した。
-  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")(ANA)は「ドリームエクスプレス21」が登場した2001年に[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")(USJ)のオフィシャルエアラインを務めることを表明し、[ウッディー・ウッドペッカー](https://ja.wikipedia.org/wiki/ウッディー・ウッドペッカー "wikilink")の特別塗装機（ボーイング767-381,JA8357：元[ポケモンジェット](../Page/ポケモンジェット.md "wikilink")）を登場させた。1993年にデビューした[マリンジャンボ](../Page/マリンジャンボ.md "wikilink")の存在も初代ドリームエクスプレスのデビューに影響を与えている。
+  - [東京空港交通](../Page/東京空港交通.md "wikilink")の[貸切バスのうち](../Page/観光バス.md "wikilink")、ジャルツアーズ（当時、現在の[ジャルパック](../Page/ジャルパック.md "wikilink")）主催の東京ディズニーリゾート関連[ツアー参加者専用バス](../Page/企画旅行.md "wikilink")「マジカルファンタジー」号に使用された[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")（現・[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")）・[エアロクィーンは](../Page/三菱ふそう・エアロエース.md "wikilink")2001年にFRIENDS号と同じデザインの[ラッピングフィルムで装飾された](../Page/ラッピング車両.md "wikilink")。2002年には使用車両が[UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）・[ユーロツアーに置き換えられ](https://ja.wikipedia.org/wiki/日産ディーゼル・ユーロツアー "wikilink")、その年のラッピングフィルムは東京ディズニーシー号と同じデザインを採用した。
+  - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")(ANA)は「ドリームエクスプレス21」が登場した2001年に[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")(USJ)のオフィシャルエアラインを務めることを表明し、[ウッディー・ウッドペッカー](../Page/ウッディー・ウッドペッカー.md "wikilink")の特別塗装機（ボーイング767-381,JA8357：元[ポケモンジェット](../Page/ポケモンジェット.md "wikilink")）を登場させた。1993年にデビューした[マリンジャンボ](../Page/マリンジャンボ.md "wikilink")の存在も初代ドリームエクスプレスのデビューに影響を与えている。
 
 ファイル:Tokyo kuko kotsu FUSO U-MS821P magical fantasy.jpg|東京空港交通「マジカルファンタジー号」（2001年バージョン） ファイル:Limousinebus 03-80255JA magical-fantasy2002.jpg|同（2002年バージョン）
 

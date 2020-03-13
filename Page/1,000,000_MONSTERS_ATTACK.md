@@ -16,7 +16,7 @@
 
 ## タイアップ
 
-  - TBS系「[ランク王国](https://ja.wikipedia.org/wiki/ランク王国 "wikilink")」2004年4～5月度オープニングテーマ
+  - TBS系「[ランク王国](../Page/ランク王国.md "wikilink")」2004年4～5月度オープニングテーマ
   - 公表はされていないがゲームソフト「[FIFA トータルフットボール](https://ja.wikipedia.org/wiki/FIFA_トータルフットボール "wikilink") 2」に付属されているDVD「SOUND TRAX DVD」のサウンドトラックに1,000,000 MONSTERS ATTACKが使われている。
 
 ## エピソード
@@ -27,7 +27,7 @@
 
   - [To All Tha Dreamers](../Page/To_All_Tha_Dreamers.md "wikilink")（\#1)
   - [Movies\&Remixies 2](../Page/Movies&Remixies_2.md "wikilink")（\#1)
-  - [Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(SOUL'd_OUTのアルバム\) "wikilink")（\#1)
+  - [Single Collection](../Page/Single_Collection_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1)
   - [Flip Side Collection](../Page/Flip_Side_Collection.md "wikilink")（\#2)
 
 ## テレビ

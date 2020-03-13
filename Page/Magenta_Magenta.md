@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - [ラテン調の楽曲](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")。PVは[カジノ](../Page/カジノ.md "wikilink")を舞台としている。
+  - [ラテン調の楽曲](../Page/ラテン音楽.md "wikilink")。PVは[カジノ](../Page/カジノ.md "wikilink")を舞台としている。
   - タイトルは曲のトラックからイメージした色ということでつけられた。Magentaを2回繰り返しているのはそれを強調したくて、響きもいいからである。
 
 ## 収録曲
@@ -23,7 +23,7 @@
 
   - [To All Tha Dreamers](../Page/To_All_Tha_Dreamers.md "wikilink")（\#1　表記はないがアルバムバージョン)
   - [Movies\&Remixies 2](../Page/Movies&Remixies_2.md "wikilink")（\#1)
-  - [Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(SOUL'd_OUTのアルバム\) "wikilink")（\#1)
+  - [Single Collection](../Page/Single_Collection_\(SOUL'd_OUTのアルバム\).md "wikilink")（\#1)
   - [Flip Side Collection](../Page/Flip_Side_Collection.md "wikilink")（\#2)
 
 ## タイアップ

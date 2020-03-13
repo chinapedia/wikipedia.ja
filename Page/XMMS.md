@@ -32,16 +32,16 @@ XMMSが現在サポートしている[オーディオとビデオフォーマッ
   - libmikmod
   - MPEGレイヤー1、2、3（[MP3](../Page/MP3.md "wikilink")）、mpg123ライブラリを使用。
   - [Vorbis](https://ja.wikipedia.org/wiki/Ogg_Vorbis "wikilink")
-  - [WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")
+  - [WAV](../Page/WAV.md "wikilink")
 
 ### プラグインでサポート
 
-  - [TTA](https://ja.wikipedia.org/wiki/TTA "wikilink")
+  - [TTA](../Page/TTA.md "wikilink")
   - [WavPack](https://ja.wikipedia.org/wiki/WavPack "wikilink")
   - [speex](https://ja.wikipedia.org/wiki/speex "wikilink")
   - [FLAC](../Page/FLAC.md "wikilink")
   - [AAC](../Page/AAC.md "wikilink")
-  - [WMA](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")
+  - [WMA](../Page/Windows_Media_Audio.md "wikilink")
   - APE [Monkey's Audio](../Page/Monkey's_Audio.md "wikilink")
   - [mp3PRO](https://ja.wikipedia.org/wiki/mp3PRO "wikilink")
   - [Icecast](https://ja.wikipedia.org/wiki/Icecast "wikilink")、[SHOUTcast](https://ja.wikipedia.org/wiki/SHOUTcast "wikilink")[ストリーミング](../Page/ストリーミング.md "wikilink")。

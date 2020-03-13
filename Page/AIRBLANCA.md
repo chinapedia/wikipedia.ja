@@ -5,17 +5,17 @@
 
 ## 活動
 
-[1991年](../Page/1991年.md "wikilink")に[レイジー](../Page/レイジー.md "wikilink")が解散した後、ソロ活動をしていた[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")と、[ネバーランドを経て](../Page/ネバーランド_\(バンド\).md "wikilink")[HUMAN NATUREを結成していた](https://ja.wikipedia.org/wiki/HUMAN_NATURE "wikilink")[井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")・[田中宏幸が集まって結成](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")。しかし、インディーズでの活動だったため大きく注目されることはなく、[アルバム](../Page/アルバム.md "wikilink")を1枚発表した他に作家[藤本ひとみ](https://ja.wikipedia.org/wiki/藤本ひとみ "wikilink")のイメージアルバムに参加するなどの活動のみで、わずか1年の活動に終止符を打った。
+[1991年](../Page/1991年.md "wikilink")に[レイジー](../Page/レイジー.md "wikilink")が解散した後、ソロ活動をしていた[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")と、[ネバーランドを経て](../Page/ネバーランド_\(バンド\).md "wikilink")[HUMAN NATUREを結成していた](https://ja.wikipedia.org/wiki/HUMAN_NATURE "wikilink")[井上俊次](../Page/井上俊次.md "wikilink")・[田中宏幸が集まって結成](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")。しかし、インディーズでの活動だったため大きく注目されることはなく、[アルバム](../Page/アルバム.md "wikilink")を1枚発表した他に作家[藤本ひとみ](../Page/藤本ひとみ.md "wikilink")のイメージアルバムに参加するなどの活動のみで、わずか1年の活動に終止符を打った。
 
 影山ヒロノブの公式[ホームページ](../Page/ホームページ.md "wikilink")は、このバンドの名前が由来である。
 
 ## メンバー
 
-  - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
+  - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
       - 解散後は再びソロ活動に専念。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にレイジーを再結成、[2000年](../Page/2000年.md "wikilink")に[JAM Projectを結成](../Page/JAM_Project.md "wikilink")。
-  - [井上俊次](https://ja.wikipedia.org/wiki/井上俊次 "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）
+  - [井上俊次](../Page/井上俊次.md "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）
       - 解散後は[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")に転向、ミュージシャンとしての活動はレイジーのみ。
-  - [田中宏幸](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）
+  - [田中宏幸](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
       - 解散後の音楽活動はレイジーのみ。
   - [松尾洋一](https://ja.wikipedia.org/wiki/松尾洋一 "wikilink")（[ギター](../Page/ギター.md "wikilink")）
       - 解散後はJAM Projectに参加。息子はホストの[ROLAND](https://ja.wikipedia.org/wiki/ROLAND_\(ホスト\) "wikilink")\[1\]。

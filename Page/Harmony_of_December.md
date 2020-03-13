@@ -1,11 +1,11 @@
 > この記事は[Harmony of December](https://ja.wikipedia.org/wiki/Harmony_of_December)から翻訳されています。
 
 
-「**Harmony of December**」（ハーモニー・オブ・ディセンバー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")24枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+「**Harmony of December**」（ハーモニー・オブ・ディセンバー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")24枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
-[アルバム](../Page/アルバム.md "wikilink")『[I album -iD-](https://ja.wikipedia.org/wiki/I_album_-iD- "wikilink")』からの先行シングルで、グループ初のアルバムからの先行シングルとなる。タイトル通り“[夏](../Page/夏.md "wikilink")”をテーマにした前作「[夏模様](../Page/夏模様_\(KinKi_Kidsの曲\).md "wikilink")」より約4ヶ月ぶりとなるシングル。近年グループ名義でのシングルリリース間隔が空いていたが、それぞれのソロ活動が一段落したことにより、[2003年](../Page/2003年.md "wikilink")以来約3年ぶりに5ヶ月以内の間隔でシングルリリースとなった。
+[アルバム](../Page/アルバム.md "wikilink")『[I album -iD-](../Page/I_album_-iD-.md "wikilink")』からの先行シングルで、グループ初のアルバムからの先行シングルとなる。タイトル通り“[夏](../Page/夏.md "wikilink")”をテーマにした前作「[夏模様](../Page/夏模様_\(KinKi_Kidsの曲\).md "wikilink")」より約4ヶ月ぶりとなるシングル。近年グループ名義でのシングルリリース間隔が空いていたが、それぞれのソロ活動が一段落したことにより、[2003年](../Page/2003年.md "wikilink")以来約3年ぶりに5ヶ月以内の間隔でシングルリリースとなった。
 
 初回盤と通常盤ではジャケット違い、収録曲違いがある。初回盤のCDジャケットは、[堂本剛](../Page/堂本剛.md "wikilink")がプロデュースしている。このジャケットを制作する際に、剛が「ただ2人が写っているのではなく、しっかりとしたメッセージを込めたかった。」とコメントしている。通常盤は従来通りジャケットが初回盤と違い、A面のインストの代わりに新曲を追加収録している。
 
@@ -19,7 +19,7 @@
 
 ## チャート成績
 
-[オリコン週間ランキングで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初週23.4万枚を売上げ、初登場1位を獲得した。デビューシングル「[硝子の少年](../Page/硝子の少年.md "wikilink")」から24作連続となる首位を獲得した\[1\]。
+[オリコン週間ランキングで](../Page/オリコンチャート.md "wikilink")、初週23.4万枚を売上げ、初登場1位を獲得した。デビューシングル「[硝子の少年](../Page/硝子の少年.md "wikilink")」から24作連続となる首位を獲得した\[1\]。
 
 ## 収録曲
 
@@ -32,7 +32,7 @@
         出版者：ジャニーズ出版
 2.  **孤独の街角**
       -
-        （作詞：[Satomi](../Page/Satomi.md "wikilink")　作曲：[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")　編曲：[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink")　ブラスアレンジ：下神竜哉）
+        （作詞：[Satomi](../Page/Satomi.md "wikilink")　作曲：[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")　編曲：[吉田建](../Page/吉田建.md "wikilink")　ブラスアレンジ：下神竜哉）
         出版者：ジャニーズ出版
 3.  **Nothing but you**
       -
@@ -54,7 +54,7 @@
 ## 収録アルバム
 
   - **Harmony of December**
-      - [I album -iD-](https://ja.wikipedia.org/wiki/I_album_-iD- "wikilink")
+      - [I album -iD-](../Page/I_album_-iD-.md "wikilink")
       - [39](../Page/39_\(KinKi_Kidsのアルバム\).md "wikilink")
       - [The BEST](https://ja.wikipedia.org/wiki/The_BEST_\(KinKi_Kidsのアルバム\) "wikilink")
 

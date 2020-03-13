@@ -1,9 +1,9 @@
 > この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
 
 
-**Yahoo\!モバイル**（ヤフーモバイル）は[Yahoo\! JAPANの](../Page/Yahoo!_JAPAN.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")向けの[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")以外の[Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")でも、「Yahoo\! Mobile」の名称で同様のサービスがある。
+**Yahoo\!モバイル**（ヤフーモバイル）は[Yahoo\! JAPANの](../Page/Yahoo!_JAPAN.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")向けの[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")以外の[Yahoo\!](../Page/Yahoo!.md "wikilink")でも、「Yahoo\! Mobile」の名称で同様のサービスがある。
 
-Yahoo\! Japan IDを持っていれば[メールなどの個人ツール及び](../Page/Yahoo!メール.md "wikilink")[オークション](../Page/ヤフオク!.md "wikilink")、[ショッピングなどYahoo](https://ja.wikipedia.org/wiki/Yahoo!ショッピング "wikilink")\! Japan IDの必要なサービスに携帯電話から[ログイン](https://ja.wikipedia.org/wiki/ログイン "wikilink")が可能（携帯電話からもIDは登録可能）。また、[モバイル](https://ja.wikipedia.org/wiki/モバイル "wikilink")だけの[サービス](../Page/サービス.md "wikilink")として各[キャリア向け](https://ja.wikipedia.org/wiki/電気通信事業者 "wikilink")[アプリケーション](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")（[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")、[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")、[S\!アプリ](../Page/S!アプリ.md "wikilink")）である「[Yahoo\!メール](../Page/Yahoo!メール.md "wikilink")アプリ」や「[Yahoo\!メッセンジャー](../Page/Yahoo!メッセンジャー.md "wikilink")アプリ」、「[Yahoo\!mocca](https://ja.wikipedia.org/wiki/Yahoo!mocca "wikilink")」がダウンロードすることが出来る。
+Yahoo\! Japan IDを持っていれば[メールなどの個人ツール及び](../Page/Yahoo!メール.md "wikilink")[オークション](../Page/ヤフオク!.md "wikilink")、[ショッピングなどYahoo](https://ja.wikipedia.org/wiki/Yahoo!ショッピング "wikilink")\! Japan IDの必要なサービスに携帯電話から[ログイン](https://ja.wikipedia.org/wiki/ログイン "wikilink")が可能（携帯電話からもIDは登録可能）。また、[モバイル](https://ja.wikipedia.org/wiki/モバイル "wikilink")だけの[サービス](../Page/サービス.md "wikilink")として各[キャリア向け](../Page/電気通信事業者.md "wikilink")[アプリケーション](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")（[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")、[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")、[S\!アプリ](../Page/S!アプリ.md "wikilink")）である「[Yahoo\!メール](../Page/Yahoo!メール.md "wikilink")アプリ」や「[Yahoo\!メッセンジャー](../Page/Yahoo!メッセンジャー.md "wikilink")アプリ」、「[Yahoo\!mocca](https://ja.wikipedia.org/wiki/Yahoo!mocca "wikilink")」がダウンロードすることが出来る。
 
 ## 利用可能キャリア
 
@@ -71,7 +71,7 @@ Yahoo\! Japan IDを持っていれば[メールなどの個人ツール及び](.
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - **調べる**
-      - [Yahoo\!知恵袋](https://ja.wikipedia.org/wiki/Yahoo!知恵袋 "wikilink")
+      - [Yahoo\!知恵袋](../Page/Yahoo!知恵袋.md "wikilink")
       - Yahoo\!道路交通情報
       - Yahoo\!地図情報
       - Yahoo\!エリア検索
@@ -79,7 +79,7 @@ Yahoo\! Japan IDを持っていれば[メールなどの個人ツール及び](.
       - Yahoo\!路線情報
       - Yahoo\!地域情報
       - Yahoo\!電話帳
-      - [Yahoo\!辞書](https://ja.wikipedia.org/wiki/Yahoo!辞書 "wikilink")
+      - [Yahoo\!辞書](../Page/Yahoo!辞書.md "wikilink")
       - Yahoo\!画像検索
       - Yahoo\!地域情報
       - Yahoo\!ディレクトリ検索
@@ -113,7 +113,7 @@ Yahoo\! Japan IDを持っていれば[メールなどの個人ツール及び](.
 
   - **集まる**
       - [Yahoo\! Days](../Page/Yahoo!_Days.md "wikilink")
-      - [Yahoo\!掲示板](https://ja.wikipedia.org/wiki/Yahoo!掲示板 "wikilink")
+      - [Yahoo\!掲示板](../Page/Yahoo!掲示板.md "wikilink")
       - Yahoo\!フォト
       - Yahoo\!メルマガ
       - Yahoo\!メッセンジャー

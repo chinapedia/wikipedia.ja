@@ -1,7 +1,7 @@
 > この記事は[NAO \(\)](https://ja.wikipedia.org/wiki/NAO_\(\))から翻訳されています。
 
 
-**NAO**（ナオ、本名：**渡辺 菜穂**（わたなべ なお）、[1989年](../Page/1989年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[レスリング選手](../Page/アマチュアレスリング.md "wikilink")、女子[プロレスラー](../Page/プロレスラー.md "wikilink")。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身。[埼玉栄高等学校](../Page/埼玉栄中学校・高等学校.md "wikilink")・[東京リゾート&スポーツ専門学校](https://ja.wikipedia.org/wiki/東京リゾート&スポーツ専門学校 "wikilink")卒業。高校の同期に[ダイヤモンド・リングの](../Page/ダイヤモンド・リング_\(プロレス\).md "wikilink")[梶原慧](https://ja.wikipedia.org/wiki/梶原慧 "wikilink")がいる。
+**NAO**（ナオ、本名：**渡辺 菜穂**（わたなべ なお）、[1989年](../Page/1989年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女子[レスリング選手](../Page/アマチュアレスリング.md "wikilink")、女子[プロレスラー](../Page/プロレスラー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身。[埼玉栄高等学校](../Page/埼玉栄中学校・高等学校.md "wikilink")・[東京リゾート&スポーツ専門学校](https://ja.wikipedia.org/wiki/東京リゾート&スポーツ専門学校 "wikilink")卒業。高校の同期に[ダイヤモンド・リングの](../Page/ダイヤモンド・リング_\(プロレス\).md "wikilink")[梶原慧](https://ja.wikipedia.org/wiki/梶原慧 "wikilink")がいる。
 
 ## 経歴・戦歴
 
@@ -11,11 +11,11 @@
 
 <!-- end list -->
 
-  - 12月26日、東京・[後楽園ホール](https://ja.wikipedia.org/wiki/後楽園ホール "wikilink")において、対[吉田万里子戦でデビュー](https://ja.wikipedia.org/wiki/吉田万里子_\(プロレスラー\) "wikilink")。
+  - 12月26日、東京・[後楽園ホール](../Page/後楽園ホール.md "wikilink")において、対[吉田万里子戦でデビュー](../Page/吉田万里子_\(プロレスラー\).md "wikilink")。
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 

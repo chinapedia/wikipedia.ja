@@ -3,13 +3,13 @@
 
 **RQ-4 グローバルホーク**（RQ-4 Global Hawk）は、ライアン・エアロノーティカル社によって開発された[無人航空機](../Page/無人航空機.md "wikilink")。現在は同社を買収した[ノースロップ・グラマン](../Page/ノースロップ・グラマン.md "wikilink")社の製品になっている。[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")などによって使用されており、[イラク戦争](../Page/イラク戦争.md "wikilink")で実戦に投入されている。
 
-[MQ-1 プレデターなどの無人航空機とは異なり](https://ja.wikipedia.org/wiki/RQ-1_プレデター "wikilink")、攻撃能力を持たない純粋な[偵察機](../Page/偵察機.md "wikilink")である。
+[MQ-1 プレデターなどの無人航空機とは異なり](../Page/RQ-1_プレデター.md "wikilink")、攻撃能力を持たない純粋な[偵察機](../Page/偵察機.md "wikilink")である。
 
 ## 開発
 
-[thumb](https://ja.wikipedia.org/wiki/画像:RQ-4_Global_Hawk.jpg "wikilink") [アメリカ軍](../Page/アメリカ軍.md "wikilink")の各[統合軍](https://ja.wikipedia.org/wiki/統合軍_\(アメリカ軍\) "wikilink")[司令部](../Page/司令部.md "wikilink")に[偵察](https://ja.wikipedia.org/wiki/偵察 "wikilink")情報をもたらす長時間飛行プラットフォームを目指して開発された[無人](../Page/無人航空機.md "wikilink")[偵察機](../Page/偵察機.md "wikilink")であり、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に先進概念デモンストレーション作業が開始された。
+[thumb](https://ja.wikipedia.org/wiki/画像:RQ-4_Global_Hawk.jpg "wikilink") [アメリカ軍](../Page/アメリカ軍.md "wikilink")の各[統合軍](https://ja.wikipedia.org/wiki/統合軍_\(アメリカ軍\) "wikilink")[司令部](../Page/司令部.md "wikilink")に[偵察](../Page/偵察.md "wikilink")情報をもたらす長時間飛行プラットフォームを目指して開発された[無人](../Page/無人航空機.md "wikilink")[偵察機](../Page/偵察機.md "wikilink")であり、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に先進概念デモンストレーション作業が開始された。
 
-まず、2機の試作機と試験ペイロード、1セットの地上統制ステーションが製造され、試作初号機は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[エドワーズ空軍基地](https://ja.wikipedia.org/wiki/エドワーズ空軍基地 "wikilink")で初飛行した。
+まず、2機の試作機と試験ペイロード、1セットの地上統制ステーションが製造され、試作初号機は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[エドワーズ空軍基地](../Page/エドワーズ空軍基地.md "wikilink")で初飛行した。
 
 1998年[10月1日](../Page/10月1日.md "wikilink")には、グローバルホークの全プログラムを[ライトパターソン空軍基地](https://ja.wikipedia.org/wiki/ライトパターソン空軍基地 "wikilink")の偵察システム計画局の航空システム・センターが統括することになった。1999会計年度には本格的な自律飛行に関する試験が開始されたが、3月に1機が偵察[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")を搭載した状態で墜落事故を起こし、プログラムは2ヶ月遅延した。なお、グローバルホークの試作・開発機は合計で7機製作されており、その内3機が事故で失われている。
 
@@ -19,7 +19,7 @@
 
 [2003年](../Page/2003年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")にRQ-4A（ブロック10）量産初号機が完成し、[パームデール](https://ja.wikipedia.org/wiki/パームデール "wikilink")のノースロップ・グラマン、アンテロープ・バレー製造センターでロールアウトした。量産初号機は、エドワーズ空軍基地で各種試験に使用された後、[2004年](../Page/2004年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に[ビール空軍基地](https://ja.wikipedia.org/wiki/ビール空軍基地 "wikilink")の第12偵察飛行隊に引き渡された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月7日](../Page/11月7日.md "wikilink")には第二次発注が行われており、発注機数は55機になった。これらの引き渡しは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")中期から開始され、2006年[8月25日](../Page/8月25日.md "wikilink")にはRQ-4B（ブロック20）がパームデールの製造センターで初公開されている。
+[2005年](../Page/2005年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")には第二次発注が行われており、発注機数は55機になった。これらの引き渡しは[2006年](../Page/2006年.md "wikilink")中期から開始され、2006年[8月25日](../Page/8月25日.md "wikilink")にはRQ-4B（ブロック20）がパームデールの製造センターで初公開されている。
 
 ## RQ-4の特徴
 
@@ -31,7 +31,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/画像:RQ-4_Global_Hawk_nose.jpg "wikilink") [RQ-4_Global_Hawk_photo_of_wildfires_in_Northern_California_-_080805-N-0000X-001.jpg](https://ja.wikipedia.org/wiki/File:RQ-4_Global_Hawk_photo_of_wildfires_in_Northern_California_-_080805-N-0000X-001.jpg "fig:RQ-4_Global_Hawk_photo_of_wildfires_in_Northern_California_-_080805-N-0000X-001.jpg")RQ-4 グローバルホークが撮影した写真。2008年北[カリフォルニア](https://ja.wikipedia.org/wiki/カリフォルニア "wikilink")における野火の航空写真\]\]
 
-RQ-4は、機内に[合成開口レーダー](https://ja.wikipedia.org/wiki/合成開口レーダー "wikilink")（SAR）、電子光学/赤外線（EO/IR）センサーを搭載し、各[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")は広域に渡っての捜索・監視活動が可能で、高解像度のスポット・モードを使用することもできる。
+RQ-4は、機内に[合成開口レーダー](../Page/合成開口レーダー.md "wikilink")（SAR）、電子光学/赤外線（EO/IR）センサーを搭載し、各[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")は広域に渡っての捜索・監視活動が可能で、高解像度のスポット・モードを使用することもできる。
 
 合成開口レーダーはSARストリップ・モードで1m、SARスポット・モードでは30.5cmの解像度を有する。地上移動目標識別（GMTI）モードでは、20-200kmの範囲内を最低4kt\[1\]の速度で飛行し、移動目標の識別を行う能力を有している。
 
@@ -74,7 +74,7 @@ EO/IRセンサーは、1mの分解能で約4万平方mi（約10万平方km）に
     RQ-4Bブロック20にカシーディアン（現[エアバス・ディフェンス・アンド・スペース](https://ja.wikipedia.org/wiki/エアバス・ディフェンス・アンド・スペース "wikilink")）製のSIGINTシステムを搭載した**ユーロホーク**を購入。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には最初の機体が配備されテスト飛行を行っていたが、航空交通が過密なヨーロッパ空域での安全性確保が困難だと判明し、[2013年](../Page/2013年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")に計画はキャンセルされた。代用として[MQ-4Cを導入する予定](https://ja.wikipedia.org/wiki/MQ-4C_\(航空機\) "wikilink")\[4\]。
   -
     *日本国内に於ける米軍の配備については前節[\#運用機関](https://ja.wikipedia.org/wiki/#運用機関 "wikilink")を参照。*
-    [中期防衛力整備計画（平成16～20年度）で](https://ja.wikipedia.org/wiki/中期防衛力整備計画_\(2011\) "wikilink")、中期防期間中にRQ-4Bの導入に関する研究を行うことが定められ、中期防の期末となる[2016年](../Page/2016年.md "wikilink")3月末までにRQ-4Bの導入の可否を決定することとされた。[2012年](../Page/2012年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")の[第46回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第46回衆議院議員総選挙 "wikilink")で、当該計画を策定した[民主党が大敗し](https://ja.wikipedia.org/wiki/民主党_\(日本_1998-2016\) "wikilink")、[自民党へ](../Page/自由民主党_\(日本\).md "wikilink")[政権交代](../Page/政権交代.md "wikilink")し、[第2次安倍内閣](https://ja.wikipedia.org/wiki/第2次安倍内閣 "wikilink")が発足。安倍政権は中期防の見直しを決め、本機の導入を前倒しすることとし、本機を早ければ[2015年](../Page/2015年.md "wikilink")度までに導入したいとしている。
+    [中期防衛力整備計画（平成16～20年度）で](https://ja.wikipedia.org/wiki/中期防衛力整備計画_\(2011\) "wikilink")、中期防期間中にRQ-4Bの導入に関する研究を行うことが定められ、中期防の期末となる[2016年](../Page/2016年.md "wikilink")3月末までにRQ-4Bの導入の可否を決定することとされた。[2012年](../Page/2012年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")の[第46回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第46回衆議院議員総選挙 "wikilink")で、当該計画を策定した[民主党が大敗し](../Page/民主党_\(日本_1998-2016\).md "wikilink")、[自民党へ](../Page/自由民主党_\(日本\).md "wikilink")[政権交代](../Page/政権交代.md "wikilink")し、[第2次安倍内閣](https://ja.wikipedia.org/wiki/第2次安倍内閣 "wikilink")が発足。安倍政権は中期防の見直しを決め、本機の導入を前倒しすることとし、本機を早ければ[2015年](../Page/2015年.md "wikilink")度までに導入したいとしている。
     仮に導入するとなると、日本全域の警戒・監視には3機が必要となり、[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")類を除く機体本体は1機約25億円で、司令部機能を持つ地上施設の整備などと合わせて初期費用の総額は数百億円になる予定である\[5\]。
     2015年11月20日、アメリカ政府はグローバルホーク3機を推定12億ドルで日本に売却する方針を決めたと報道された\[6\]。
     2016年12月21日、三沢基地に2019年度末以降、配備すると発表された\[7\]。この三沢基地では米軍のグローバルホークが配備されていたが2017年5月現在三沢基地の基地改修のため在日米軍の横田基地に配備されている。
@@ -131,14 +131,14 @@ EO/IRセンサーは、1mの分解能で約4万平方mi（約10万平方km）に
 ### 映画
 
   - 『[ダイ・ハード/ラスト・デイ](https://ja.wikipedia.org/wiki/ダイ・ハード/ラスト・デイ "wikilink")』
-    「MCCリーパー」の[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")を持つ[CIA所属の機体が登場し](https://ja.wikipedia.org/wiki/中央情報局 "wikilink")、CIA[工作員のジャック](../Page/スパイ.md "wikilink")・マクレーンと重要証拠人のコマロフを[ロシア](../Page/ロシア.md "wikilink")から脱出させるために逃走経路を上空から指示するが、6分のタイムロスが出たために道路が封鎖され、脱出させることが不可能と判断し、ジャックとコマロフを見捨てて撤退する。
+    「MCCリーパー」の[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")を持つ[CIA所属の機体が登場し](../Page/中央情報局.md "wikilink")、CIA[工作員のジャック](../Page/スパイ.md "wikilink")・マクレーンと重要証拠人のコマロフを[ロシア](../Page/ロシア.md "wikilink")から脱出させるために逃走経路を上空から指示するが、6分のタイムロスが出たために道路が封鎖され、脱出させることが不可能と判断し、ジャックとコマロフを見捨てて撤退する。
 
 ### 漫画・アニメ
 
   - 『[ゲート 自衛隊 彼の地にて、斯く戦えり](https://ja.wikipedia.org/wiki/ゲート_自衛隊_彼の地にて、斯く戦えり "wikilink")』
     漫画版48話に登場。[自衛隊](../Page/自衛隊.md "wikilink")所属機が銀座事件において、帝国軍を上空から監視して状況を報告する。
-  - 『[ヨルムンガンド](https://ja.wikipedia.org/wiki/ヨルムンガンド_\(漫画\) "wikilink")』
-    アニメ版に[CIA所属の機体が登場し](https://ja.wikipedia.org/wiki/中央情報局 "wikilink")、[特殊部隊](../Page/特殊部隊.md "wikilink")ナイト・ナインらに対し上空から指示を与えるが、ココの操縦する[スペルウェールによる](https://ja.wikipedia.org/wiki/スペルウェール_\(航空機\) "wikilink")[スパイク-LR](https://ja.wikipedia.org/wiki/スパイク_\(ミサイル\)#派生型 "wikilink")[ミサイル](../Page/ミサイル.md "wikilink")の攻撃を受けて[撃墜](../Page/撃墜.md "wikilink")される。
+  - 『[ヨルムンガンド](../Page/ヨルムンガンド_\(漫画\).md "wikilink")』
+    アニメ版に[CIA所属の機体が登場し](../Page/中央情報局.md "wikilink")、[特殊部隊](../Page/特殊部隊.md "wikilink")ナイト・ナインらに対し上空から指示を与えるが、ココの操縦する[スペルウェールによる](https://ja.wikipedia.org/wiki/スペルウェール_\(航空機\) "wikilink")[スパイク-LR](https://ja.wikipedia.org/wiki/スパイク_\(ミサイル\)#派生型 "wikilink")[ミサイル](../Page/ミサイル.md "wikilink")の攻撃を受けて[撃墜](../Page/撃墜.md "wikilink")される。
 
 ### ゲーム
 
@@ -157,7 +157,7 @@ EO/IRセンサーは、1mの分解能で約4万平方mi（約10万平方km）に
 
   - [Global Hawk unmanned aircraft system on google earth](http://imagery-intelligence.com/index.php?p=2_8/)
   - [無人航空機](../Page/無人航空機.md "wikilink")
-  - [UCAV](https://ja.wikipedia.org/wiki/UCAV "wikilink")
+  - [UCAV](../Page/UCAV.md "wikilink")
   - [軍事用ロボット](../Page/軍事用ロボット.md "wikilink")
 
 [Category:アメリカ合衆国の軍用機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の軍用機 "wikilink") [Category:無人偵察機](https://ja.wikipedia.org/wiki/Category:無人偵察機 "wikilink") [Category:アメリカ合衆国の無人航空機](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の無人航空機 "wikilink") [Category:シギント](https://ja.wikipedia.org/wiki/Category:シギント "wikilink") [Category:ノースロップ・グラマンの航空機](https://ja.wikipedia.org/wiki/Category:ノースロップ・グラマンの航空機 "wikilink")

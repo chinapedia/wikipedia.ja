@@ -21,7 +21,7 @@
       - [ウッチャンナンチャン\#ディスコグラフィー](https://ja.wikipedia.org/wiki/ウッチャンナンチャン#ディスコグラフィー "wikilink")参照
   - [エド・はるみ](https://ja.wikipedia.org/wiki/エド・はるみ "wikilink")
       - グーグー Sun バ\!（2008年8月27日）
-  - [大木こだま・ひびき](https://ja.wikipedia.org/wiki/大木こだま・ひびき "wikilink")（大木こだま、大木ひびき）
+  - [大木こだま・ひびき](../Page/大木こだま・ひびき.md "wikilink")（大木こだま、大木ひびき）
       - チ（2006年4月26日）
   - [おぎやはぎ](../Page/おぎやはぎ.md "wikilink")（[小木博明](https://ja.wikipedia.org/wiki/小木博明 "wikilink")、[矢作兼](../Page/矢作兼.md "wikilink")）
       - ケロロダンシング（2006年3月8日）
@@ -29,28 +29,28 @@
 
 ### か行
 
-  - [ガレッジセール](../Page/ガレッジセール.md "wikilink")（[川田広樹](https://ja.wikipedia.org/wiki/川田広樹 "wikilink")、[ゴリ](https://ja.wikipedia.org/wiki/ゴリ_\(お笑い芸人\) "wikilink")）
+  - [ガレッジセール](../Page/ガレッジセール.md "wikilink")（[川田広樹](../Page/川田広樹.md "wikilink")、[ゴリ](../Page/ゴリ_\(お笑い芸人\).md "wikilink")）
       - [天下無敵のゴーヤーマン☆](https://ja.wikipedia.org/wiki/天下無敵のゴーヤーマン☆ "wikilink")（2001年10月31日）
-      - [Gaphia](https://ja.wikipedia.org/wiki/Gaphia "wikilink")
-      - [GALAY](https://ja.wikipedia.org/wiki/GALAY "wikilink")
-      - [松浦ゴリエ](https://ja.wikipedia.org/wiki/松浦ゴリエ "wikilink")
+      - [Gaphia](../Page/Gaphia.md "wikilink")
+      - [GALAY](../Page/GALAY.md "wikilink")
+      - [松浦ゴリエ](../Page/松浦ゴリエ.md "wikilink")
       - [ワンナイR\&R\#](https://ja.wikipedia.org/wiki/ワンナイR&R# "wikilink")
-  - [カンニング](../Page/カンニング_\(お笑いコンビ\).md "wikilink")（[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")、[中島忠幸](https://ja.wikipedia.org/wiki/中島忠幸 "wikilink")）
+  - [カンニング](../Page/カンニング_\(お笑いコンビ\).md "wikilink")（[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")、[中島忠幸](../Page/中島忠幸.md "wikilink")）
       - カンニングのヘイ・ユウ・ブルース（2004年10月21日）
   - [麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")（川島明、田村裕）
       - サイクリング リサイクル（2006年8月2日）「きりん」名義
-  - [キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")（[西野亮廣](https://ja.wikipedia.org/wiki/西野亮廣 "wikilink")、[梶原雄太](../Page/梶原雄太.md "wikilink")）
+  - [キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")（[西野亮廣](../Page/西野亮廣.md "wikilink")、[梶原雄太](../Page/梶原雄太.md "wikilink")）
       - [キングコング (お笑い)\#音楽を参照](https://ja.wikipedia.org/wiki/キングコング_\(お笑い\)#音楽 "wikilink")
   - [クマムシ (お笑いコンビ)](https://ja.wikipedia.org/wiki/クマムシ_\(お笑いコンビ\) "wikilink")
       - [あったかいんだからぁ♪](https://ja.wikipedia.org/wiki/あったかいんだからぁ♪ "wikilink")
   - [小梅太夫](https://ja.wikipedia.org/wiki/小梅太夫 "wikilink")
       - 小梅日記（2006年5月10日）
       - 小梅歳時記（2007年2月7日）
-  - [ココリコ](../Page/ココリコ.md "wikilink")（[遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")、[田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")）
+  - [ココリコ](../Page/ココリコ.md "wikilink")（[遠藤章造](../Page/遠藤章造.md "wikilink")、[田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")）
       - [悲しみの夜明け](../Page/悲しみの夜明け.md "wikilink")（2001年5月23日）「遠藤章造と田中さん」名義
   - [小島よしお](../Page/小島よしお.md "wikilink")
       - だいじょうぶスッポンポン・フレンド（2009年5月27日）
-  - [後藤輝基](https://ja.wikipedia.org/wiki/後藤輝基 "wikilink")
+  - [後藤輝基](../Page/後藤輝基.md "wikilink")
       - COME ON BABY\!（2012年7月18日）「GO☆TO」名義
 
 ### さ行
@@ -59,10 +59,10 @@
       - ゲキマジムカツク（2006年7月19日）
       - 1000％ SOざくね?（2006年10月18日）
       - クリスマスター（2006年12月6日）
-  - [三瓶](https://ja.wikipedia.org/wiki/三瓶 "wikilink")
+  - [三瓶](../Page/三瓶.md "wikilink")
       - SANPEI DAYS（2002年3月20日）
       - 三瓶のエブリデイ（2002年12月4日）
-  - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[河本準一](../Page/河本準一.md "wikilink")、[井上聡](https://ja.wikipedia.org/wiki/井上聡 "wikilink")）
+  - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")（[河本準一](../Page/河本準一.md "wikilink")、[井上聡](../Page/井上聡.md "wikilink")）
       - 晴れる道　～宇宙人（オメェら）に合わせる顔がねぇ\!～（2006年5月31日）「JK」名義
 
 ### た行
@@ -75,12 +75,12 @@
   - [ダンディ坂野](../Page/ダンディ坂野.md "wikilink")
       - OH\!NICE GET's\!\!（2003年5月28日）
       - ゲッツだぜ\!（2003年9月24日）
-  - [長州小力](https://ja.wikipedia.org/wiki/長州小力 "wikilink")
+  - [長州小力](../Page/長州小力.md "wikilink")
       - NIGHT OF FIRE/PLAY WITH THE NUMBERS（2005年12月14日）「HINOIチーム with コリッキー」名義
       - STICKY TRICKY AND BANG（2006年3月8日）「HINOIチーム with コリッキー」名義
-  - [TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")（[ゴルゴ松本](https://ja.wikipedia.org/wiki/ゴルゴ松本 "wikilink")、[レッド吉田](https://ja.wikipedia.org/wiki/レッド吉田 "wikilink")）
+  - [TIM](../Page/TIM_\(お笑いコンビ\).md "wikilink")（[ゴルゴ松本](../Page/ゴルゴ松本.md "wikilink")、[レッド吉田](../Page/レッド吉田.md "wikilink")）
       - 命音頭（2002年7月17日）「ゴルゴ松本 with レッド吉田」名義
-  - [塚地武雅](https://ja.wikipedia.org/wiki/塚地武雅 "wikilink")
+  - [塚地武雅](../Page/塚地武雅.md "wikilink")
       - イカ大王体操第2
   - [テツandトモ](../Page/テツandトモ.md "wikilink")（テツ、トモ）
       - [なんでだろう 〜こち亀バージョン〜](https://ja.wikipedia.org/wiki/なんでだろう_〜こち亀バージョン〜 "wikilink")（2003年2月5日）
@@ -99,7 +99,7 @@
   - [長井秀和](../Page/長井秀和.md "wikilink")
       - お話しさせていただきます。（2003年11月6日）
       - ウラメシ夜（2007年5月16日）
-  - [中川家](../Page/中川家.md "wikilink")（[剛](https://ja.wikipedia.org/wiki/中川剛_\(お笑い芸人\) "wikilink")、[礼二](https://ja.wikipedia.org/wiki/中川礼二 "wikilink")）
+  - [中川家](../Page/中川家.md "wikilink")（[剛](https://ja.wikipedia.org/wiki/中川剛_\(お笑い芸人\) "wikilink")、[礼二](../Page/中川礼二.md "wikilink")）
       - 大阪パラダイス（2006年6月21日）「[玉緒](../Page/中村玉緒.md "wikilink")&中川家」名義
   - [2丁拳銃](../Page/2丁拳銃.md "wikilink")（小堀裕之、川谷修士）
       - [逢いたくて](https://ja.wikipedia.org/wiki/逢いたくて_\(2丁拳銃の曲\) "wikilink")（1998年3月25日）
@@ -112,7 +112,7 @@
       - [青春デストロイ](https://ja.wikipedia.org/wiki/青春デストロイ "wikilink")（2005年3月10日）
       - ティラノサウルスをやっつけろ（2005年7月20日）
       - おしりフリフリ'66（2005年11月16日）
-  - [猫ひろし](https://ja.wikipedia.org/wiki/猫ひろし "wikilink")
+  - [猫ひろし](../Page/猫ひろし.md "wikilink")
       - 踊れ\!ソーランパラパラ（2006年4月12日）「ソーランはっぴぃずと猫ひろし」名義
   - [ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")（[名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")、[原田泰造](../Page/原田泰造.md "wikilink")、[堀内健](../Page/堀内健.md "wikilink")）
       - 君を探して（1998年11月6日）
@@ -121,27 +121,27 @@
       - 君とケツカッチン\!（2000年9月20日）
       - [イッショウケンメイ。](https://ja.wikipedia.org/wiki/イッショウケンメイ。 "wikilink")（2001年11月14日）
       - ネプランド\!（2002年8月28日）
-  - [NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")（[石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")、[井上裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")）
+  - [NON STYLE](../Page/NON_STYLE.md "wikilink")（[石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")、[井上裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")）
       - [ニコニコチャンプ](https://ja.wikipedia.org/wiki/ニコニコチャンプ "wikilink")（2007年9月5日）
 
 ### は行
 
   - [爆笑問題](../Page/爆笑問題.md "wikilink")（[太田光](../Page/太田光.md "wikilink")、[田中裕二](https://ja.wikipedia.org/wiki/田中裕二_\(お笑い芸人\) "wikilink")）
       - 爆笑問題のハッピー・タイム歳時記（1998年4月22日）
-      - でたらめな歌（1999年12月1日）「[爆チュー問題](https://ja.wikipedia.org/wiki/爆チュー問題 "wikilink")」名義
+      - でたらめな歌（1999年12月1日）「[爆チュー問題](../Page/爆チュー問題.md "wikilink")」名義
       - 爆チュー問題のでたらめろでぃ～（2001年6月1日）「爆チュー問題」名義
       - アララの呪文（2004年7月10日） 「ちびまる子ちゃんwith爆チュー問題」名義
   - [波田陽区](../Page/波田陽区.md "wikilink")
       - [ギター侍のうた](https://ja.wikipedia.org/wiki/ギター侍のうた "wikilink")（2004年11月17日）
       - ギター侍のうた弐～完全保存盤～（2005年2月9日）
-  - [バナナマン](https://ja.wikipedia.org/wiki/バナナマン "wikilink")（[設楽統](../Page/設楽統.md "wikilink")、[日村勇紀](https://ja.wikipedia.org/wiki/日村勇紀 "wikilink")）
+  - [バナナマン](../Page/バナナマン.md "wikilink")（[設楽統](../Page/設楽統.md "wikilink")、[日村勇紀](../Page/日村勇紀.md "wikilink")）
       - [東京ひとりぼっち](https://ja.wikipedia.org/wiki/東京ひとりぼっち "wikilink")（1999年1月）
   - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")
       - [佐賀県](https://ja.wikipedia.org/wiki/佐賀県_\(曲\) "wikilink")（2003年5月21日）
       - [HANAWA ROCK](../Page/HANAWA_ROCK.md "wikilink")（2003年10月1日）
       - [伝説の男 〜ビバ・ガッツ〜](https://ja.wikipedia.org/wiki/伝説の男_〜ビバ・ガッツ〜 "wikilink")（2004年6月30日）
       - HANAWA PACK（2005年9月28日）
-  - [林家たい平](https://ja.wikipedia.org/wiki/林家たい平 "wikilink")
+  - [林家たい平](../Page/林家たい平.md "wikilink")
       - [芝浜ゆらゆら](../Page/芝浜ゆらゆら.md "wikilink")（2006年10月18日）
   - [ハリセンボン](https://ja.wikipedia.org/wiki/ハリセンボン_\(お笑いコンビ\) "wikilink")（[箕輪はるか](https://ja.wikipedia.org/wiki/箕輪はるか "wikilink")、[近藤春菜](https://ja.wikipedia.org/wiki/近藤春菜 "wikilink")）
       - ともだちのうた(2007年3月7日)
@@ -158,16 +158,16 @@
       - OH MY JULIET\!（2005年10月19日）
       - 上海大腕（2006年4月26日）
       - 大草原の小さなマシュー（2006年9月13日）「マシュー・弦也・南」名義
-  - [FUJIWARA](../Page/FUJIWARA.md "wikilink")（[藤本敏史](https://ja.wikipedia.org/wiki/藤本敏史 "wikilink")、[原西孝幸](../Page/原西孝幸.md "wikilink")）
+  - [FUJIWARA](../Page/FUJIWARA.md "wikilink")（[藤本敏史](../Page/藤本敏史.md "wikilink")、[原西孝幸](../Page/原西孝幸.md "wikilink")）
       - 明日が来る前に／ものすごBaby（1994年11月23日・2000年9月1日再発売）
   - [ベイブルース](../Page/ベイブルース.md "wikilink")（[河本栄得](../Page/河本栄得.md "wikilink")、[高山トモヒロ](../Page/高山トモヒロ.md "wikilink")）
       - [夫婦きどり](../Page/夫婦きどり.md "wikilink")(1994年11月18日)
-  - [ホリ](https://ja.wikipedia.org/wiki/ホリ_\(タレント\) "wikilink")
+  - [ホリ](../Page/ホリ_\(タレント\).md "wikilink")
       - ホリネタ（2005年2月23日）
 
 ### ま行
 
-  - [マイケル](https://ja.wikipedia.org/wiki/まいける_\(お笑い芸人\) "wikilink")
+  - [マイケル](../Page/まいける_\(お笑い芸人\).md "wikilink")
       - マイケルンバII（2006年2月1日）
 
 ### や行
@@ -188,7 +188,7 @@
       - [ラーメンズの新日本語学校](../Page/ラーメンズの新日本語学校.md "wikilink")（2006年9月）
   - [レイザーラモンHG](../Page/レイザーラモンHG.md "wikilink")
       - YOUNG MAN（2006年2月8日）
-  - [レギュラー](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")（[西川晃啓](https://ja.wikipedia.org/wiki/西川晃啓 "wikilink")、[松本康太](https://ja.wikipedia.org/wiki/松本康太 "wikilink")）
+  - [レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")（[西川晃啓](../Page/西川晃啓.md "wikilink")、[松本康太](../Page/松本康太.md "wikilink")）
       - 愛キラキラ（2006年7月21日）「マジーとレギュラー」名義
   - [ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")（[田村淳](../Page/田村淳.md "wikilink")、[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")）
       - [岬](https://ja.wikipedia.org/wiki/岬_\(ロンドンブーツ1号2号の曲\) "wikilink")（2000年12月6日）
@@ -207,11 +207,11 @@
 
 ### あ行
 
-  - WEST END×YUKI from [O.P.D.](../Page/大阪パフォーマンスドール.md "wikilink")（[今田耕司](../Page/今田耕司.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[武内由紀子](https://ja.wikipedia.org/wiki/武内由紀子 "wikilink")）
-      - [SO.YA.NA.](https://ja.wikipedia.org/wiki/DA.YO.NE#SO.YA.NA "wikilink")（[EAST END×YURI](https://ja.wikipedia.org/wiki/EAST_END×YURI "wikilink")「DA.YO.NE.」の[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")ソング、1995年2月22日）
-  - [U.N.O.BAND](https://ja.wikipedia.org/wiki/U.N.O.BAND "wikilink")（[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")、[田中卓志](https://ja.wikipedia.org/wiki/田中卓志 "wikilink")、[山根良顕](https://ja.wikipedia.org/wiki/山根良顕 "wikilink")、[山田一成](https://ja.wikipedia.org/wiki/山田一成 "wikilink")、[菊地秀規](https://ja.wikipedia.org/wiki/菊地秀規 "wikilink")）
+  - WEST END×YUKI from [O.P.D.](../Page/大阪パフォーマンスドール.md "wikilink")（[今田耕司](../Page/今田耕司.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[武内由紀子](../Page/武内由紀子.md "wikilink")）
+      - [SO.YA.NA.](https://ja.wikipedia.org/wiki/DA.YO.NE#SO.YA.NA "wikilink")（[EAST END×YURI](../Page/EAST_END×YURI.md "wikilink")「DA.YO.NE.」の[パロディ](../Page/パロディ.md "wikilink")ソング、1995年2月22日）
+  - [U.N.O.BAND](https://ja.wikipedia.org/wiki/U.N.O.BAND "wikilink")（[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")、[田中卓志](../Page/田中卓志.md "wikilink")、[山根良顕](../Page/山根良顕.md "wikilink")、[山田一成](https://ja.wikipedia.org/wiki/山田一成 "wikilink")、[菊地秀規](https://ja.wikipedia.org/wiki/菊地秀規 "wikilink")）
       - NO.1（2005年11月23日）
-  - [エキセントリック少年ボウイオールスターズ](https://ja.wikipedia.org/wiki/エキセントリック少年ボウイオールスターズ "wikilink")（[松本人志](../Page/松本人志.md "wikilink")、[浜田雅功](../Page/浜田雅功.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[今田耕司](../Page/今田耕司.md "wikilink")、[板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")、[ほんこん](../Page/ほんこん.md "wikilink")）
+  - [エキセントリック少年ボウイオールスターズ](../Page/エキセントリック少年ボウイオールスターズ.md "wikilink")（[松本人志](../Page/松本人志.md "wikilink")、[浜田雅功](../Page/浜田雅功.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[今田耕司](../Page/今田耕司.md "wikilink")、[板尾創路](../Page/板尾創路.md "wikilink")、[ほんこん](../Page/ほんこん.md "wikilink")）
       - [「エキセントリック少年ボウイ」のテーマ](https://ja.wikipedia.org/wiki/「エキセントリック少年ボウイ」のテーマ "wikilink")（1997年9月25日）
       - [ダウンタウンのごっつえぇ感じ 音楽全集～「エキセントリック少年ボウイ」のテーマ他全31曲～](https://ja.wikipedia.org/wiki/ダウンタウンのごっつえぇ感じ音楽全集 "wikilink")（1997年12月15日）
 
@@ -227,7 +227,7 @@
 
 ### さ行
 
-  - [ザ\!\!トラベラーズ](https://ja.wikipedia.org/wiki/ザ!!トラベラーズ "wikilink")（[蛍原徹](../Page/蛍原徹.md "wikilink")、[河本準一](../Page/河本準一.md "wikilink")、[井上聡](https://ja.wikipedia.org/wiki/井上聡 "wikilink")、[タカ](https://ja.wikipedia.org/wiki/タカ_\(お笑い芸人\) "wikilink")、[トシ](../Page/トシ.md "wikilink")、[吉田敬](../Page/吉田敬.md "wikilink")、[小杉竜一](../Page/小杉竜一.md "wikilink")、[徳井義実](../Page/徳井義実.md "wikilink")、[福田充徳](../Page/福田充徳.md "wikilink")、[石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")、[井上裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")、[大村朋宏](https://ja.wikipedia.org/wiki/大村朋宏 "wikilink")、[藤田憲右](https://ja.wikipedia.org/wiki/藤田憲右 "wikilink")、[川島章良](https://ja.wikipedia.org/wiki/川島章良 "wikilink")、[金田哲](https://ja.wikipedia.org/wiki/金田哲 "wikilink")、[博多華丸](../Page/博多華丸.md "wikilink")、[博多大吉](../Page/博多大吉.md "wikilink")、[中田敦彦](../Page/中田敦彦.md "wikilink")、[藤森慎吾](../Page/藤森慎吾.md "wikilink")、[ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")、[エド・はるみ](https://ja.wikipedia.org/wiki/エド・はるみ "wikilink")、[松田洋昌](https://ja.wikipedia.org/wiki/松田洋昌 "wikilink")、[鈴木Q太郎](https://ja.wikipedia.org/wiki/鈴木Q太郎 "wikilink")、[木村卓寛](https://ja.wikipedia.org/wiki/木村卓寛 "wikilink")、[椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")、[世界のナベアツ](../Page/桂三度.md "wikilink")）
+  - [ザ\!\!トラベラーズ](https://ja.wikipedia.org/wiki/ザ!!トラベラーズ "wikilink")（[蛍原徹](../Page/蛍原徹.md "wikilink")、[河本準一](../Page/河本準一.md "wikilink")、[井上聡](../Page/井上聡.md "wikilink")、[タカ](https://ja.wikipedia.org/wiki/タカ_\(お笑い芸人\) "wikilink")、[トシ](../Page/トシ.md "wikilink")、[吉田敬](../Page/吉田敬.md "wikilink")、[小杉竜一](../Page/小杉竜一.md "wikilink")、[徳井義実](../Page/徳井義実.md "wikilink")、[福田充徳](../Page/福田充徳.md "wikilink")、[石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")、[井上裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")、[大村朋宏](../Page/大村朋宏.md "wikilink")、[藤田憲右](../Page/藤田憲右.md "wikilink")、[川島章良](https://ja.wikipedia.org/wiki/川島章良 "wikilink")、[金田哲](https://ja.wikipedia.org/wiki/金田哲 "wikilink")、[博多華丸](../Page/博多華丸.md "wikilink")、[博多大吉](../Page/博多大吉.md "wikilink")、[中田敦彦](../Page/中田敦彦.md "wikilink")、[藤森慎吾](../Page/藤森慎吾.md "wikilink")、[ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")、[エド・はるみ](https://ja.wikipedia.org/wiki/エド・はるみ "wikilink")、[松田洋昌](https://ja.wikipedia.org/wiki/松田洋昌 "wikilink")、[鈴木Q太郎](https://ja.wikipedia.org/wiki/鈴木Q太郎 "wikilink")、[木村卓寛](https://ja.wikipedia.org/wiki/木村卓寛 "wikilink")、[椿鬼奴](https://ja.wikipedia.org/wiki/椿鬼奴 "wikilink")、[世界のナベアツ](../Page/桂三度.md "wikilink")）
       - HOME TOWN（2009年9月30日）
       - 世直し journey（2010年7月14日）
   - [スベラーズ](https://ja.wikipedia.org/wiki/スベラーズ "wikilink")（[岡田圭右](../Page/岡田圭右.md "wikilink")、[小島よしお](../Page/小島よしお.md "wikilink")、[波田陽区](../Page/波田陽区.md "wikilink")）
@@ -237,14 +237,14 @@
 
   - [土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")&[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")
       - ケロッ\!とマーチ2008（2008年02月27日）
-  - [TKプロジェクト ガチコラ](../Page/TKプロジェクト_ガチコラ.md "wikilink")（[河本準一](../Page/河本準一.md "wikilink")、[井上聡](https://ja.wikipedia.org/wiki/井上聡 "wikilink")、[徳井義実](../Page/徳井義実.md "wikilink")、[福田充徳](../Page/福田充徳.md "wikilink")、[大村朋宏](https://ja.wikipedia.org/wiki/大村朋宏 "wikilink")、[藤田憲右](https://ja.wikipedia.org/wiki/藤田憲右 "wikilink")、[山ちゃん](../Page/山里亮太.md "wikilink")、[しずちゃん](../Page/山崎静代.md "wikilink")、[川島明](https://ja.wikipedia.org/wiki/川島明 "wikilink")、[田村裕](https://ja.wikipedia.org/wiki/田村裕 "wikilink")、[ほっしゃん。](https://ja.wikipedia.org/wiki/ほっしゃん。 "wikilink")、[西田幸治](../Page/西田幸治.md "wikilink")、[哲夫](../Page/中西哲夫.md "wikilink")、[だいたひかる](../Page/だいたひかる.md "wikilink")、[久保田和靖](https://ja.wikipedia.org/wiki/久保田和靖 "wikilink")、[村田秀亮](https://ja.wikipedia.org/wiki/村田秀亮 "wikilink")、[大悟](https://ja.wikipedia.org/wiki/大悟_\(お笑い芸人\) "wikilink")、[ノブ](https://ja.wikipedia.org/wiki/ノブ小池 "wikilink")、[阿部智則](https://ja.wikipedia.org/wiki/阿部智則 "wikilink")、[吉田大吾](../Page/吉田大吾.md "wikilink")、[まちゃまちゃ](https://ja.wikipedia.org/wiki/まちゃまちゃ "wikilink")）
+  - [TKプロジェクト ガチコラ](../Page/TKプロジェクト_ガチコラ.md "wikilink")（[河本準一](../Page/河本準一.md "wikilink")、[井上聡](../Page/井上聡.md "wikilink")、[徳井義実](../Page/徳井義実.md "wikilink")、[福田充徳](../Page/福田充徳.md "wikilink")、[大村朋宏](../Page/大村朋宏.md "wikilink")、[藤田憲右](../Page/藤田憲右.md "wikilink")、[山ちゃん](../Page/山里亮太.md "wikilink")、[しずちゃん](../Page/山崎静代.md "wikilink")、[川島明](https://ja.wikipedia.org/wiki/川島明 "wikilink")、[田村裕](https://ja.wikipedia.org/wiki/田村裕 "wikilink")、[ほっしゃん。](https://ja.wikipedia.org/wiki/ほっしゃん。 "wikilink")、[西田幸治](../Page/西田幸治.md "wikilink")、[哲夫](../Page/中西哲夫.md "wikilink")、[だいたひかる](../Page/だいたひかる.md "wikilink")、[久保田和靖](https://ja.wikipedia.org/wiki/久保田和靖 "wikilink")、[村田秀亮](https://ja.wikipedia.org/wiki/村田秀亮 "wikilink")、[大悟](https://ja.wikipedia.org/wiki/大悟_\(お笑い芸人\) "wikilink")、[ノブ](https://ja.wikipedia.org/wiki/ノブ小池 "wikilink")、[阿部智則](../Page/阿部智則.md "wikilink")、[吉田大吾](../Page/吉田大吾.md "wikilink")、[まちゃまちゃ](../Page/まちゃまちゃ.md "wikilink")）
       - TKプロジェクトガチコラ（2006年7月5日）
   - [ディラン&キャサリン](../Page/ディラン&キャサリン.md "wikilink")（[なだぎ武](../Page/なだぎ武.md "wikilink")、[友近](../Page/友近.md "wikilink")）
       - フンダリー ケッタリー（2007年11月21日）
 
 ### な行
 
-  - [NO PLAN](../Page/NO_PLAN.md "wikilink")（[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")、[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")、[大竹一樹](https://ja.wikipedia.org/wiki/大竹一樹 "wikilink")、[ゴルゴ松本](https://ja.wikipedia.org/wiki/ゴルゴ松本 "wikilink")、[レッド吉田](https://ja.wikipedia.org/wiki/レッド吉田 "wikilink")、[ふかわりょう](../Page/ふかわりょう.md "wikilink")）
+  - [NO PLAN](../Page/NO_PLAN.md "wikilink")（[内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")、[三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")、[大竹一樹](../Page/大竹一樹.md "wikilink")、[ゴルゴ松本](../Page/ゴルゴ松本.md "wikilink")、[レッド吉田](../Page/レッド吉田.md "wikilink")、[ふかわりょう](../Page/ふかわりょう.md "wikilink")）
       - [NO PLAN](https://ja.wikipedia.org/wiki/NO_PLAN_\(アルバム\) "wikilink")（2003年12月17日）
       - [本望でございます〜芸人魂の詩Part II〜/○あげよう](https://ja.wikipedia.org/wiki/本望でございます〜芸人魂の詩Part_II〜/○あげよう "wikilink")（2004年4月14日）
       - [Oh\!サマー](https://ja.wikipedia.org/wiki/Oh!サマー "wikilink")（2005年6月15日）
@@ -253,23 +253,23 @@
 
 ### は行
 
-  - [はっぱ隊](https://ja.wikipedia.org/wiki/はっぱ隊 "wikilink")（[南原清隆](../Page/南原清隆.md "wikilink")、[名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")、[原田泰造](../Page/原田泰造.md "wikilink")、[堀内健](../Page/堀内健.md "wikilink")、[大木淳](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")）
+  - [はっぱ隊](../Page/はっぱ隊.md "wikilink")（[南原清隆](../Page/南原清隆.md "wikilink")、[名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")、[原田泰造](../Page/原田泰造.md "wikilink")、[堀内健](../Page/堀内健.md "wikilink")、[大木淳](https://ja.wikipedia.org/wiki/ビビる大木 "wikilink")）
       - [YATTA\!](../Page/YATTA!.md "wikilink")（2001年4月18日）
-  - [日影の忍者勝彦オールスターズ](https://ja.wikipedia.org/wiki/日影の忍者勝彦オールスターズ "wikilink")（[松本人志](../Page/松本人志.md "wikilink")、[浜田雅功](../Page/浜田雅功.md "wikilink")、[今田耕司](../Page/今田耕司.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[板尾創路](https://ja.wikipedia.org/wiki/板尾創路 "wikilink")、[ほんこん](../Page/ほんこん.md "wikilink")、[木村祐一](../Page/木村祐一.md "wikilink")）
+  - [日影の忍者勝彦オールスターズ](../Page/日影の忍者勝彦オールスターズ.md "wikilink")（[松本人志](../Page/松本人志.md "wikilink")、[浜田雅功](../Page/浜田雅功.md "wikilink")、[今田耕司](../Page/今田耕司.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[板尾創路](../Page/板尾創路.md "wikilink")、[ほんこん](../Page/ほんこん.md "wikilink")、[木村祐一](../Page/木村祐一.md "wikilink")）
       - 日影の忍者勝彦（1998年5月25日）
-  - [ビジトジ](../Page/ビジトジ.md "wikilink")（[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")、[渡部建](https://ja.wikipedia.org/wiki/渡部建 "wikilink")、[山崎弘也](https://ja.wikipedia.org/wiki/山崎弘也 "wikilink")、[柴田英嗣](https://ja.wikipedia.org/wiki/柴田英嗣 "wikilink")、[小木博明](https://ja.wikipedia.org/wiki/小木博明 "wikilink")、[矢作兼](../Page/矢作兼.md "wikilink")、[虻川美穂子](https://ja.wikipedia.org/wiki/虻川美穂子 "wikilink")、[伊藤さおり](https://ja.wikipedia.org/wiki/伊藤さおり "wikilink")、[鈴木拓](https://ja.wikipedia.org/wiki/鈴木拓 "wikilink")、[塚地武雅](https://ja.wikipedia.org/wiki/塚地武雅 "wikilink")、[豊本明長](../Page/豊本明長.md "wikilink")、[飯塚悟志](../Page/飯塚悟志.md "wikilink")、[角田晃広](../Page/角田晃広.md "wikilink")、[今野浩喜](https://ja.wikipedia.org/wiki/今野浩喜 "wikilink")、[高橋健一](https://ja.wikipedia.org/wiki/高橋健一_\(お笑い芸人\) "wikilink")、[飛永翼](https://ja.wikipedia.org/wiki/飛永翼 "wikilink")、[大水洋介](../Page/大水洋介.md "wikilink")、[田上よしえ](https://ja.wikipedia.org/wiki/田上よしえ "wikilink")、和田貴志、石川明、但野由美、上山有香）
+  - [ビジトジ](../Page/ビジトジ.md "wikilink")（[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")、[渡部建](https://ja.wikipedia.org/wiki/渡部建 "wikilink")、[山崎弘也](../Page/山崎弘也.md "wikilink")、[柴田英嗣](../Page/柴田英嗣.md "wikilink")、[小木博明](https://ja.wikipedia.org/wiki/小木博明 "wikilink")、[矢作兼](../Page/矢作兼.md "wikilink")、[虻川美穂子](../Page/虻川美穂子.md "wikilink")、[伊藤さおり](../Page/伊藤さおり.md "wikilink")、[鈴木拓](../Page/鈴木拓.md "wikilink")、[塚地武雅](../Page/塚地武雅.md "wikilink")、[豊本明長](../Page/豊本明長.md "wikilink")、[飯塚悟志](../Page/飯塚悟志.md "wikilink")、[角田晃広](../Page/角田晃広.md "wikilink")、[今野浩喜](../Page/今野浩喜.md "wikilink")、[高橋健一](../Page/高橋健一_\(お笑い芸人\).md "wikilink")、[飛永翼](https://ja.wikipedia.org/wiki/飛永翼 "wikilink")、[大水洋介](../Page/大水洋介.md "wikilink")、[田上よしえ](../Page/田上よしえ.md "wikilink")、和田貴志、石川明、但野由美、上山有香）
       - ビジトジ（2005年1月24日）
-  - [悲愴感](../Page/悲愴感.md "wikilink")（[田中卓志](https://ja.wikipedia.org/wiki/田中卓志 "wikilink")、[鈴木拓](https://ja.wikipedia.org/wiki/鈴木拓 "wikilink")、[山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")）
+  - [悲愴感](../Page/悲愴感.md "wikilink")（[田中卓志](../Page/田中卓志.md "wikilink")、[鈴木拓](../Page/鈴木拓.md "wikilink")、[山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")）
       - [悲愴感](https://ja.wikipedia.org/wiki/悲愴感_\(曲\) "wikilink")（2008年8月23日）
 
 ### や行
 
-  - [吉本新喜劇ィズ](https://ja.wikipedia.org/wiki/吉本新喜劇ィズ "wikilink")（[宇都宮まき](https://ja.wikipedia.org/wiki/宇都宮まき "wikilink")、[小籔千豊](https://ja.wikipedia.org/wiki/小籔千豊 "wikilink")、[松浦真也](../Page/松浦真也.md "wikilink")、[金原早苗](https://ja.wikipedia.org/wiki/金原早苗 "wikilink")、[福岡晃子](https://ja.wikipedia.org/wiki/福岡晃子 "wikilink")）
+  - [吉本新喜劇ィズ](https://ja.wikipedia.org/wiki/吉本新喜劇ィズ "wikilink")（[宇都宮まき](../Page/宇都宮まき.md "wikilink")、[小籔千豊](../Page/小籔千豊.md "wikilink")、[松浦真也](../Page/松浦真也.md "wikilink")、[金原早苗](https://ja.wikipedia.org/wiki/金原早苗 "wikilink")、[福岡晃子](https://ja.wikipedia.org/wiki/福岡晃子 "wikilink")）
       - luck book new joy play ?（2017年11月1日）
 
 ### ら行
 
-  - [Re:Japan](https://ja.wikipedia.org/wiki/Re:Japan "wikilink")（[松本人志](../Page/松本人志.md "wikilink")、[浜田雅功](../Page/浜田雅功.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[田村淳](../Page/田村淳.md "wikilink")、[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")、[藤井隆](../Page/藤井隆.md "wikilink")、[田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")、[遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")、[山田花子](https://ja.wikipedia.org/wiki/山田花子_\(タレント\) "wikilink")、[間寛平](../Page/間寛平.md "wikilink")、[花紀京](https://ja.wikipedia.org/wiki/花紀京 "wikilink")）
+  - [Re:Japan](../Page/Re:Japan.md "wikilink")（[松本人志](../Page/松本人志.md "wikilink")、[浜田雅功](../Page/浜田雅功.md "wikilink")、[東野幸治](../Page/東野幸治.md "wikilink")、[田村淳](../Page/田村淳.md "wikilink")、[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")、[藤井隆](../Page/藤井隆.md "wikilink")、[田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")、[遠藤章造](../Page/遠藤章造.md "wikilink")、[山田花子](https://ja.wikipedia.org/wiki/山田花子_\(タレント\) "wikilink")、[間寛平](../Page/間寛平.md "wikilink")、[花紀京](../Page/花紀京.md "wikilink")）
       - [明日があるさ](../Page/明日があるさ.md "wikilink")
       - [bittersweet samba～ニッポンの夜明け前～](../Page/BITTERSWEET_SAMBA.md "wikilink")
   - [レッドシアターズ](https://ja.wikipedia.org/wiki/レッドシアターズ "wikilink")（[狩野英孝](../Page/狩野英孝.md "wikilink")、[村上純](../Page/村上純.md "wikilink")、[池田一真](../Page/池田一真.md "wikilink")、[後藤淳平](https://ja.wikipedia.org/wiki/後藤淳平 "wikilink")、[福徳秀介](https://ja.wikipedia.org/wiki/福徳秀介 "wikilink")、[川島章良](https://ja.wikipedia.org/wiki/川島章良 "wikilink")、[金田哲](https://ja.wikipedia.org/wiki/金田哲 "wikilink")、[亘健太郎](https://ja.wikipedia.org/wiki/亘健太郎 "wikilink")、[村上健志](https://ja.wikipedia.org/wiki/村上健志 "wikilink")、[柳原可奈子](https://ja.wikipedia.org/wiki/柳原可奈子 "wikilink")、[中岡創一](https://ja.wikipedia.org/wiki/中岡創一 "wikilink")、[コカドケンタロウ](https://ja.wikipedia.org/wiki/コカドケンタロウ "wikilink")、[坪倉由幸](https://ja.wikipedia.org/wiki/坪倉由幸 "wikilink")、[杉山裕之](https://ja.wikipedia.org/wiki/杉山裕之 "wikilink")、[谷田部俊](https://ja.wikipedia.org/wiki/谷田部俊 "wikilink")）
@@ -277,7 +277,7 @@
 
 ### わ行
 
-  - [笑金オールスターズ](../Page/笑いの金メダル.md "wikilink")（[上田晋也](https://ja.wikipedia.org/wiki/上田晋也 "wikilink")、[有田哲平](../Page/有田哲平.md "wikilink")、[ヒデ](https://ja.wikipedia.org/wiki/ヒデ_\(お笑い芸人\) "wikilink")、[ワッキー](https://ja.wikipedia.org/wiki/ワッキー "wikilink")、[西川晃啓](https://ja.wikipedia.org/wiki/西川晃啓 "wikilink")、[松本康太](https://ja.wikipedia.org/wiki/松本康太 "wikilink")、[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")、[ヒロシ](../Page/ヒロシ.md "wikilink")、[山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")、[秋山竜次](https://ja.wikipedia.org/wiki/秋山竜次 "wikilink")、[馬場裕之](https://ja.wikipedia.org/wiki/馬場裕之 "wikilink")）
+  - [笑金オールスターズ](../Page/笑いの金メダル.md "wikilink")（[上田晋也](../Page/上田晋也.md "wikilink")、[有田哲平](../Page/有田哲平.md "wikilink")、[ヒデ](../Page/ヒデ_\(お笑い芸人\).md "wikilink")、[ワッキー](https://ja.wikipedia.org/wiki/ワッキー "wikilink")、[西川晃啓](../Page/西川晃啓.md "wikilink")、[松本康太](../Page/松本康太.md "wikilink")、[竹山隆範](https://ja.wikipedia.org/wiki/竹山隆範 "wikilink")、[ヒロシ](../Page/ヒロシ.md "wikilink")、[山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")、[秋山竜次](../Page/秋山竜次.md "wikilink")、[馬場裕之](../Page/馬場裕之.md "wikilink")）
       - [ココロ花](../Page/ココロ花.md "wikilink")（2005年8月24日）
 
 ## 関連項目

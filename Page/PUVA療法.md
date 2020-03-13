@@ -16,7 +16,7 @@
   - [菌状息肉症](https://ja.wikipedia.org/wiki/菌状息肉症 "wikilink")
   - [悪性リンパ腫](../Page/悪性リンパ腫.md "wikilink")
   - [アトピー性皮膚炎](../Page/アトピー性皮膚炎.md "wikilink")
-  - [円形脱毛症](https://ja.wikipedia.org/wiki/円形脱毛症 "wikilink") (保険適応はない)
+  - [円形脱毛症](../Page/円形脱毛症.md "wikilink") (保険適応はない)
 
 ### 有効性
 

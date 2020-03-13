@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")まで開催されていた同人誌即売会[コミックレヴォリューション](https://ja.wikipedia.org/wiki/コミックレヴォリューション "wikilink")において、実務を取り仕切っていた[市川孝一](https://ja.wikipedia.org/wiki/市川孝一 "wikilink")を代表に、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")にCOMIC1（コミックいち）準備会が発足。[2007年](../Page/2007年.md "wikilink")4月に第1回が開催された。市川は2006年9月、[コミックマーケット](../Page/コミックマーケット.md "wikilink")準備会共同代表の1人となったが、コミックマーケットとは独立したイベントとして開催が続いている。COMIC1☆7終了後の[2013年](../Page/2013年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")に、代表を[池上巌](https://ja.wikipedia.org/wiki/池上巌 "wikilink")とする旨、市川から宣言された\[2\]。第8回代表を退いた市川の協力の下、[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")社長の馬場隆博が新たに立ち上げたコンテンツ展示会「character1」が関連イベントとして開催された。「character1」が開催された影響により、「[DreamParty](../Page/DreamParty.md "wikilink")」の開催を終了へと追い込んだ。
+[2005年](../Page/2005年.md "wikilink")まで開催されていた同人誌即売会[コミックレヴォリューション](../Page/コミックレヴォリューション.md "wikilink")において、実務を取り仕切っていた[市川孝一](https://ja.wikipedia.org/wiki/市川孝一 "wikilink")を代表に、[2006年](../Page/2006年.md "wikilink")にCOMIC1（コミックいち）準備会が発足。[2007年](../Page/2007年.md "wikilink")4月に第1回が開催された。市川は2006年9月、[コミックマーケット](../Page/コミックマーケット.md "wikilink")準備会共同代表の1人となったが、コミックマーケットとは独立したイベントとして開催が続いている。COMIC1☆7終了後の[2013年](../Page/2013年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")に、代表を[池上巌](https://ja.wikipedia.org/wiki/池上巌 "wikilink")とする旨、市川から宣言された\[2\]。第8回代表を退いた市川の協力の下、[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")社長の馬場隆博が新たに立ち上げたコンテンツ展示会「character1」が関連イベントとして開催された。「character1」が開催された影響により、「[DreamParty](../Page/DreamParty.md "wikilink")」の開催を終了へと追い込んだ。
 
 入場時に「カタログ」の提示が義務づけられており、事実上の有料入場制である。
 

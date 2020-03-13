@@ -1,7 +1,7 @@
 > この記事は[Umie](https://ja.wikipedia.org/wiki/Umie)から翻訳されています。
 
 
-[P1160104-2.jpg](https://ja.wikipedia.org/wiki/File:P1160104-2.jpg "fig:P1160104-2.jpg")）\]\] **umie**（ウミエ）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区](../Page/中央区_\(神戸市\).md "wikilink")・[神戸ハーバーランド](../Page/神戸ハーバーランド.md "wikilink")にある[イオンモール](https://ja.wikipedia.org/wiki/イオンモール "wikilink")株式会社運営の[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
+[P1160104-2.jpg](https://ja.wikipedia.org/wiki/File:P1160104-2.jpg "fig:P1160104-2.jpg")）\]\] **umie**（ウミエ）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区](../Page/中央区_\(神戸市\).md "wikilink")・[神戸ハーバーランド](../Page/神戸ハーバーランド.md "wikilink")にある[イオンモール](../Page/イオンモール.md "wikilink")株式会社運営の[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。
 
 ## 概要
 
@@ -21,7 +21,7 @@
 
 『Kou'S』の撤去跡地には、より専門性の高い商品を取り揃えた『**ダイエーハーバーランド店**』が、ビルの修復を経て同年[11月10日](../Page/11月10日.md "wikilink")に営業を再開した\[11\]\[12\]。
 
-その後は[2003年](../Page/2003年.md "wikilink")（平成15年）[8月22日](../Page/8月22日.md "wikilink")の[ソフマップ](../Page/ソフマップ.md "wikilink")の移転などの[テコ入れ](https://ja.wikipedia.org/wiki/テコ入れ "wikilink")が図られた\[13\]が振るわず、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）9月末の契約満了\[14\]を前に、ダイエーの事業再生計画に基づく不採算店閉鎖の一環として[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）11月30日をもって閉店して撤退した\[15\]。
+その後は[2003年](../Page/2003年.md "wikilink")（平成15年）[8月22日](../Page/8月22日.md "wikilink")の[ソフマップ](../Page/ソフマップ.md "wikilink")の移転などの[テコ入れ](https://ja.wikipedia.org/wiki/テコ入れ "wikilink")が図られた\[13\]が振るわず、[2006年](../Page/2006年.md "wikilink")（平成18年）9月末の契約満了\[14\]を前に、ダイエーの事業再生計画に基づく不採算店閉鎖の一環として[2005年](../Page/2005年.md "wikilink")（平成17年）11月30日をもって閉店して撤退した\[15\]。
 
 約1年間の閉鎖を経て、2006年（平成18年）[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")の1階と地下1階に売り場面積約10,000[m<sup>2</sup>の](../Page/平方メートル.md "wikilink")[イズミヤ](../Page/イズミヤ.md "wikilink")\[16\]\[17\]を初めとする新たなテナントが同年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")から順次開業し、[三菱倉庫](../Page/三菱倉庫.md "wikilink")傘下の『ディエヌ建物管理』が運営する新たなショッピングセンターとして[2007年](../Page/2007年.md "wikilink")（平成19年）3月30日に『**Ha・Re**』（ハ・レ）として開業\[18\]。約6年間にわたって営業を続けた。
 
@@ -33,7 +33,7 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）3月には、震災で入居するビルが倒壊した三宮本店\[23\]にあった『PC-PORT神戸』が移転する形でオープンした（三宮本店側も、再開店時に『PC-PORT三宮』としてリニューアル）。
 
-[2000年](../Page/2000年.md "wikilink")（平成12年）7月、集客力の低下を理由に星電社は閉店\[24\]\[25\]。その約5ヶ月後の[2000年](../Page/2000年.md "wikilink")（平成12年）[12月9日](../Page/12月9日.md "wikilink")に[コムサストア](https://ja.wikipedia.org/wiki/ファイブフォックス "wikilink")・神戸ハーバーランド店がオープンした\[26\]。関西初の直営店でもある。
+[2000年](../Page/2000年.md "wikilink")（平成12年）7月、集客力の低下を理由に星電社は閉店\[24\]\[25\]。その約5ヶ月後の[2000年](../Page/2000年.md "wikilink")（平成12年）[12月9日](../Page/12月9日.md "wikilink")に[コムサストア](../Page/ファイブフォックス.md "wikilink")・神戸ハーバーランド店がオープンした\[26\]。関西初の直営店でもある。
 
 その後、別店舗の「神戸店」が現在の北館2階に開店し、しばらくの併存を経て2007年（平成19年）4月20日に閉店。Ha・Reの東館として編入され、現在の『umie』に至る。
 
@@ -41,13 +41,13 @@
 
 [1992年](../Page/1992年.md "wikilink")（平成4年）10月1日に『神戸阪急』として開業\[27\]。外観は、フランスの豪華客船である[ノルマンディー号をヒントに設計された](../Page/ノルマンディー_\(客船\).md "wikilink")\[28\]。また、店内中央には1階から6階までの高さ62メートル、直径16メートルもの吹き抜けがあった。
 
-オープニングセレモニーには、[東宝芸能](../Page/東宝芸能.md "wikilink")に所属する[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")や、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[雪組スターの](https://ja.wikipedia.org/wiki/雪組_\(宝塚歌劇\) "wikilink")[一路真輝](../Page/一路真輝.md "wikilink")、トップ娘役の[紫とも](../Page/紫とも.md "wikilink")をはじめとする生徒が参加し、阪急百貨店の社長や副社長とともにテープカットを行った\[29\]。
+オープニングセレモニーには、[東宝芸能](../Page/東宝芸能.md "wikilink")に所属する[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")や、[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")[雪組スターの](../Page/雪組_\(宝塚歌劇\).md "wikilink")[一路真輝](../Page/一路真輝.md "wikilink")、トップ娘役の[紫とも](../Page/紫とも.md "wikilink")をはじめとする生徒が参加し、阪急百貨店の社長や副社長とともにテープカットを行った\[29\]。
 
 開業当初は開店の半年前（[1992年](../Page/1992年.md "wikilink")・平成4年4月）に設立された子会社の「株式会社神戸阪急」により運営されていたが、[2001年](../Page/2001年.md "wikilink")（平成13年）12月に阪急百貨店（当時）に吸収合併された\[30\]。
 
 阪神・淡路大震災の発生後は、同年[3月10日](../Page/3月10日.md "wikilink")午前11時まで全館で営業を停止。同日から地上3階までの低層階で、同年[4月26日](../Page/4月26日.md "wikilink")には全館で営業を再開した\[31\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）、現在のに入居していたダイエーが撤退\[32\]したことで、街開き当初から営業を続けている大型商業施設は当店とグループ企業が運営する『神戸モザイク』（当時）のみになるなど、店舗の入れ替わりにより大きく客層が変化していった\[33\]。こうした客層の変化などに対応するため、[2004年](../Page/2004年.md "wikilink")（平成16年）には[アカチャンホンポ](https://ja.wikipedia.org/wiki/アカチャンホンポ "wikilink")を誘致したり\[34\]、2006年（平成18年）2月1日にグループのスーパーマーケット『[阪急オアシス](https://ja.wikipedia.org/wiki/阪急オアシス "wikilink")』を入居させたり\[35\]、2006年（平成18年）3月期に子供関連売場のエンターテインメント性を強化\[36\]したりなどのテコ入れを行った\[37\]。
+[2005年](../Page/2005年.md "wikilink")（平成17年）、現在のに入居していたダイエーが撤退\[32\]したことで、街開き当初から営業を続けている大型商業施設は当店とグループ企業が運営する『神戸モザイク』（当時）のみになるなど、店舗の入れ替わりにより大きく客層が変化していった\[33\]。こうした客層の変化などに対応するため、[2004年](../Page/2004年.md "wikilink")（平成16年）には[アカチャンホンポ](https://ja.wikipedia.org/wiki/アカチャンホンポ "wikilink")を誘致したり\[34\]、2006年（平成18年）2月1日にグループのスーパーマーケット『[阪急オアシス](../Page/阪急オアシス.md "wikilink")』を入居させたり\[35\]、2006年（平成18年）3月期に子供関連売場のエンターテインメント性を強化\[36\]したりなどのテコ入れを行った\[37\]。
 
 しかし、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）3月期に259億円に上った売上高\[38\]\[39\]はマイナスが続き、[2011年](../Page/2011年.md "wikilink")（平成23年）3月期には91億4300万円\[40\]にまで落ち込んでいた。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）と[1996年](../Page/1996年.md "wikilink")（平成8年）度を除いて毎年赤字が続いた\[41\]ため営業を継続するのは困難と判断し、[エイチ・ツー・オーリテイリング](https://ja.wikipedia.org/wiki/エイチ・ツー・オーリテイリング "wikilink")は2011年（平成23年）[5月12日](../Page/5月12日.md "wikilink")、賃貸借契約の切れる[2012年](../Page/2012年.md "wikilink")（平成24年）[9月30日](../Page/9月30日.md "wikilink")までに神戸阪急を閉店させることを正式に発表。そして同年[10月27日](../Page/10月27日.md "wikilink")、閉店日を2012年（平成24年）[3月11日](../Page/3月11日.md "wikilink")にすることを発表した\[42\]。2011年（平成23年）[12月14日](../Page/12月14日.md "wikilink")からは閉店セールが行われ、セール期間中の入店者数は前年同期比1.5倍、売上は倍増した\[43\]。
 
@@ -81,7 +81,7 @@
 
   -
     [2003年](../Page/2003年.md "wikilink")（平成15年）8月22日に、同月17日まで[神戸ハーバーサーカスで営業していた](https://ja.wikipedia.org/wiki/神戸ハーバーランドセンタービル "wikilink")「ギガストア神戸ハーバーランド店」が移転して開業した\[45\]。
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")（平成18年）[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に\[46\]増床して新装開店した。また、[2012年](../Page/2012年.md "wikilink")（平成24年）[11月21日](../Page/11月21日.md "wikilink")には同年3月に閉店した『アーバンスクエア』の退去跡にも増床の上、コジマが新たに出店した\[47\]。
+    [2006年](../Page/2006年.md "wikilink")（平成18年）[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に\[46\]増床して新装開店した。また、[2012年](../Page/2012年.md "wikilink")（平成24年）[11月21日](../Page/11月21日.md "wikilink")には同年3月に閉店した『アーバンスクエア』の退去跡にも増床の上、コジマが新たに出店した\[47\]。
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
   - [ファミリーマート](../Page/ファミリーマート.md "wikilink")（1階）
   - meets（地下1階）
   - [ライトオン](../Page/ライトオン.md "wikilink")（5階）
-  - [ディッパーダン](https://ja.wikipedia.org/wiki/オレンジフードコート "wikilink")（1階）
+  - [ディッパーダン](../Page/オレンジフードコート.md "wikilink")（1階）
   - [トイザらス](../Page/トイザらス.md "wikilink")・[ベビーザらス](../Page/ベビーザらス.md "wikilink")（4階）
 
 <!-- end list -->
@@ -101,13 +101,13 @@
 
 <!-- end list -->
 
-  - [フードコート](https://ja.wikipedia.org/wiki/フードコート "wikilink")（4階）
+  - [フードコート](../Page/フードコート.md "wikilink")（4階）
       - [丸亀製麺](https://ja.wikipedia.org/wiki/丸亀製麺 "wikilink")
       - [ポムの樹Jr](../Page/ポムフード.md "wikilink").
-      - [サーティワンアイスクリーム](https://ja.wikipedia.org/wiki/バスキン・ロビンス "wikilink")
+      - [サーティワンアイスクリーム](../Page/バスキン・ロビンス.md "wikilink")
       - [大阪王将](../Page/イートアンド.md "wikilink")
       - [おひつごはん 四六時中](https://ja.wikipedia.org/wiki/イオンイーハート "wikilink")
-      - [リンガーハット](https://ja.wikipedia.org/wiki/リンガーハット "wikilink")
+      - [リンガーハット](../Page/リンガーハット.md "wikilink")
       - パルメナーラ
       - [長田本庄軒](../Page/トリドールホールディングス.md "wikilink")
       - どうとんぼり神座
@@ -124,7 +124,7 @@
 <!-- end list -->
 
   - [ABCマート](../Page/ABCマート.md "wikilink")（4階）
-  - [スタジオアリス](https://ja.wikipedia.org/wiki/スタジオアリス "wikilink")（4階）
+  - [スタジオアリス](../Page/スタジオアリス.md "wikilink")（4階）
   - [ソフトバンク 神戸ハーバーランド umie](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（地下1階）
   - [OSシネマズ](../Page/オーエス.md "wikilink") 神戸ハーバーランド（5・6階）
 
@@ -174,14 +174,14 @@
 
 <!-- end list -->
 
-  - [コムサストア](https://ja.wikipedia.org/wiki/ファイブフォックス "wikilink") 神戸店（2階、2012年9月30日 閉店）
+  - [コムサストア](../Page/ファイブフォックス.md "wikilink") 神戸店（2階、2012年9月30日 閉店）
   - アーバンスクエア（[ゲームセンター](../Page/ゲームセンター.md "wikilink")、6階）
-  - [オレンジフードコート](https://ja.wikipedia.org/wiki/オレンジフードコート "wikilink")（6階）
+  - [オレンジフードコート](../Page/オレンジフードコート.md "wikilink")（6階）
 
 #### （星電社）
 
   - 生活家電フロア（1階）
-  - [音響機器](https://ja.wikipedia.org/wiki/音響機器 "wikilink")フロア、CDショップ『Mr.Jackets』（2階）
+  - [音響機器](../Page/音響機器.md "wikilink")フロア、CDショップ『Mr.Jackets』（2階）
   - [映像機器](../Page/映像機器.md "wikilink")フロア（3階）
   - [コンピュータフロア](../Page/パーソナルコンピュータ.md "wikilink")、[旅行代理店](../Page/旅行代理店.md "wikilink")（4階）
 
@@ -204,7 +204,7 @@
   - [神戸市営地下鉄](../Page/神戸市営地下鉄.md "wikilink")[海岸線](../Page/神戸市営地下鉄海岸線.md "wikilink") [ハーバーランド駅](https://ja.wikipedia.org/wiki/ハーバーランド駅 "wikilink")から東に約300m（およそ5分）
   - [阪急](../Page/阪急神戸高速線.md "wikilink")・[阪神神戸高速線](../Page/阪神神戸高速線.md "wikilink") [高速神戸駅](https://ja.wikipedia.org/wiki/高速神戸駅 "wikilink")から東に約600m（およそ10分）
   - [阪神高速3号神戸線](../Page/阪神高速3号神戸線.md "wikilink")
-      - [京橋出入口](https://ja.wikipedia.org/wiki/京橋出入口_\(兵庫県\) "wikilink")（[大阪方面から](../Page/大阪市.md "wikilink")）
+      - [京橋出入口](../Page/京橋出入口_\(兵庫県\).md "wikilink")（[大阪方面から](../Page/大阪市.md "wikilink")）
       - [柳原出入口](https://ja.wikipedia.org/wiki/柳原出入口 "wikilink")（[明石](../Page/明石市.md "wikilink")・[姫路方面から](../Page/姫路市.md "wikilink")）
 
 ## 出典・脚注
@@ -229,7 +229,7 @@
 1.
 2.
 3.
-4.  [イオン銀行](../Page/イオン銀行.md "wikilink")のATMや、フードコートに[グループ会社が運営する](https://ja.wikipedia.org/wiki/イオンイーハート "wikilink")『おひつごはん 四六時中』が入居するなどの例外あり。なお、他の同様のケースは[埼玉県](../Page/埼玉県.md "wikilink")[ふじみ野市](https://ja.wikipedia.org/wiki/ふじみ野市 "wikilink")にある『[ショッピングセンター ソヨカふじみ野](https://ja.wikipedia.org/wiki/ショッピングセンター_ソヨカふじみ野 "wikilink")』のみである。
+4.  [イオン銀行](../Page/イオン銀行.md "wikilink")のATMや、フードコートに[グループ会社が運営する](https://ja.wikipedia.org/wiki/イオンイーハート "wikilink")『おひつごはん 四六時中』が入居するなどの例外あり。なお、他の同様のケースは[埼玉県](../Page/埼玉県.md "wikilink")[ふじみ野市](../Page/ふじみ野市.md "wikilink")にある『[ショッピングセンター ソヨカふじみ野](https://ja.wikipedia.org/wiki/ショッピングセンター_ソヨカふじみ野 "wikilink")』のみである。
 5.
 6.
 7.

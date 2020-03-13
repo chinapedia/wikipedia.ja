@@ -1,11 +1,11 @@
 > この記事は[DE](https://ja.wikipedia.org/wiki/DE)から翻訳されています。
 
 
-『**ヴィデヲ・DE・リサイタル**』（ヴィデヲ・デ・リサイタル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の [ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")2枚目の[DVD](../Page/DVD.md "wikilink")。
+『**ヴィデヲ・DE・リサイタル**』（ヴィデヲ・デ・リサイタル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の [ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")2枚目の[DVD](../Page/DVD.md "wikilink")。
 
 ## 解説
 
-  - [オリコン音楽DVDチャートでは初の](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位獲得。
+  - [オリコン音楽DVDチャートでは初の](../Page/オリコンチャート.md "wikilink")1位獲得。
   - 全体的にアルバム『[musiQ](https://ja.wikipedia.org/wiki/musiQ "wikilink")』のイメージを踏襲した形となっており、メニュー画面などではミラーボールの映像が使用されている。
 
 ## 収録映像
@@ -32,7 +32,7 @@
 
 ### ライブ映像
 
-「LIVE TOUR 004〜ラ・ワンマンリサイタル〜」の[東京ベイNKホール](https://ja.wikipedia.org/wiki/東京ベイNKホール "wikilink")でのライブ映像を収録。
+「LIVE TOUR 004〜ラ・ワンマンリサイタル〜」の[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")でのライブ映像を収録。
 
 1.  ロコローション
 2.  ミッションinポッピプル
@@ -60,7 +60,7 @@
 
 ## 関連項目
 
-  - [2005年の音楽](https://ja.wikipedia.org/wiki/2005年の音楽 "wikilink")
+  - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
   - [musiQ](https://ja.wikipedia.org/wiki/musiQ "wikilink")
 
 [Category:ORANGE_RANGEの映像作品](https://ja.wikipedia.org/wiki/Category:ORANGE_RANGEの映像作品 "wikilink") [Category:2005年の音楽関連の映像作品](https://ja.wikipedia.org/wiki/Category:2005年の音楽関連の映像作品 "wikilink")

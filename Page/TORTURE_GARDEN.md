@@ -12,9 +12,9 @@
 
 ## 概要
 
-**TORTURE GARDEN**は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に**ALLEN TG**、**DAVID TG**の2名が開催を始めて以降、現在まで1ヶ月に1回の割合で催されているクラブイベントである。現存するものとしては世界でもっとも歴史の長い[フェティシズム](https://ja.wikipedia.org/wiki/フェティシズム "wikilink")を主題としたイベントで、現在の観客動員数は毎回1000～1500人程度。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に開催された18周年記念イベントでは、公称で5000人以上（3日間の延べ人数）の観客が訪れた。
+**TORTURE GARDEN**は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に**ALLEN TG**、**DAVID TG**の2名が開催を始めて以降、現在まで1ヶ月に1回の割合で催されているクラブイベントである。現存するものとしては世界でもっとも歴史の長い[フェティシズム](../Page/フェティシズム.md "wikilink")を主題としたイベントで、現在の観客動員数は毎回1000～1500人程度。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に開催された18周年記念イベントでは、公称で5000人以上（3日間の延べ人数）の観客が訪れた。
 
-[フェティシズム](https://ja.wikipedia.org/wiki/フェティシズム "wikilink")、[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")・アート、モダン・プリミティブの3つの要素をイベントの中核としており、3ないし4以上のフロアで構成された会場を使用し、各フロアにて様々な[アトラクション](https://ja.wikipedia.org/wiki/アトラクション "wikilink")や[DJブースを用意しているのが大きな特徴](../Page/ディスクジョッキー.md "wikilink")。イギリスの主要なフェティッシュ・[ファッション](../Page/ファッション.md "wikilink")・ブランドが毎回[ファッション・ショー](https://ja.wikipedia.org/wiki/ファッション・ショー "wikilink")を行っている他、イギリス国内のみならず、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")、近隣の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")諸国などから多数の著名なDJや[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")が出演することでも有名である。
+[フェティシズム](../Page/フェティシズム.md "wikilink")、[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")・アート、モダン・プリミティブの3つの要素をイベントの中核としており、3ないし4以上のフロアで構成された会場を使用し、各フロアにて様々な[アトラクション](https://ja.wikipedia.org/wiki/アトラクション "wikilink")や[DJブースを用意しているのが大きな特徴](../Page/ディスクジョッキー.md "wikilink")。イギリスの主要なフェティッシュ・[ファッション](../Page/ファッション.md "wikilink")・ブランドが毎回[ファッション・ショー](https://ja.wikipedia.org/wiki/ファッション・ショー "wikilink")を行っている他、イギリス国内のみならず、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")、近隣の[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")諸国などから多数の著名なDJや[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")が出演することでも有名である。
 
 またイベントの雰囲気やコンセプトを明確にするため、[ドレスコード](https://ja.wikipedia.org/wiki/ドレスコード "wikilink")が敷かれていることでも富に知られている。TORTURE GARDENでは特定の衣服は定められていないが、前述した三要素に沿ったテーマの衣服を着用することが求められており、入場口の審査によって『合致していない』と判断された場合、入場が出来ない。
 
@@ -40,7 +40,7 @@ TORTURE GARDENの活動は、同時期に活動を開始していたファッシ
 
 ## 関連項目
 
-  - [フェティシズム](https://ja.wikipedia.org/wiki/フェティシズム "wikilink")
+  - [フェティシズム](../Page/フェティシズム.md "wikilink")
   - [ラバーフェティシズム](../Page/ラバーフェティシズム.md "wikilink")
   - [ハード・ハウス](../Page/ハード・ハウス.md "wikilink")
   - [テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")

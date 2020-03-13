@@ -1,13 +1,13 @@
 > この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
 
 
-**アメリカFC** () 、通称**アメリカ・ミネイロ** (América Mineiro) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ミナスジェライス州](../Page/ミナスジェライス州.md "wikilink")[ベロオリゾンテ](https://ja.wikipedia.org/wiki/ベロオリゾンテ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ブラジルには同名のクラブが複数存在するため、アメリカ・ミネイロと呼ばれている。またミナスジェライス州の略称を表す「MG」を付けて**アメリカ-MG** (América-MG) と表記されることがある。
+**アメリカFC** () 、通称**アメリカ・ミネイロ** (América Mineiro) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ミナスジェライス州](../Page/ミナスジェライス州.md "wikilink")[ベロオリゾンテ](../Page/ベロオリゾンテ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ブラジルには同名のクラブが複数存在するため、アメリカ・ミネイロと呼ばれている。またミナスジェライス州の略称を表す「MG」を付けて**アメリカ-MG** (América-MG) と表記されることがある。
 
-ミナスジェライス州においては[アトレチコ・ミネイロ](../Page/アトレチコ・ミネイロ.md "wikilink")、[クルゼイロEC](https://ja.wikipedia.org/wiki/クルゼイロEC "wikilink")に次ぐ強豪クラブである。
+ミナスジェライス州においては[アトレチコ・ミネイロ](../Page/アトレチコ・ミネイロ.md "wikilink")、[クルゼイロEC](../Page/クルゼイロEC.md "wikilink")に次ぐ強豪クラブである。
 
 ## 歴史
 
-1912年4月30日、地元[ベロオリゾンテ](https://ja.wikipedia.org/wiki/ベロオリゾンテ "wikilink")の少年グループにより、**アメリカFBC** (*América Foot-Ball Club*) が設立された\[1\]\[2\]。
+1912年4月30日、地元[ベロオリゾンテ](../Page/ベロオリゾンテ.md "wikilink")の少年グループにより、**アメリカFBC** (*América Foot-Ball Club*) が設立された\[1\]\[2\]。
 
 1913年、**ミナスジェライスFC** (*Minas Gerais Futebol Clube*) との合併により、現在の**アメリカFC** (América Futebol Clube) となり、 クラブカラーも緑・白・黒の3色となった\[3\]。
 

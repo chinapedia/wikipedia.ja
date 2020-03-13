@@ -1,7 +1,7 @@
 > この記事は[CCCII](https://ja.wikipedia.org/wiki/CCCII)から翻訳されています。
 
 
-**CCCII**（**中文資訊交換碼**、Chinese Character Code of Information Interchange）は、[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）の[符号化文字集合](https://ja.wikipedia.org/wiki/符号化文字集合 "wikilink")。[ISO/IEC 2022準拠の](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")94×94×94コードである。各文字を212121<sub>16</sub> - 7E7E7E<sub>16</sub>で表す、3[バイト](../Page/バイト_\(情報\).md "wikilink")（3×7[ビット](../Page/ビット.md "wikilink")）コードである。
+**CCCII**（**中文資訊交換碼**、Chinese Character Code of Information Interchange）は、[中華民国](../Page/中華民国.md "wikilink")（[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")）の[符号化文字集合](https://ja.wikipedia.org/wiki/符号化文字集合 "wikilink")。[ISO/IEC 2022準拠の](https://ja.wikipedia.org/wiki/ISO/IEC_2022 "wikilink")94×94×94コードである。各文字を212121<sub>16</sub> - 7E7E7E<sub>16</sub>で表す、3[バイト](../Page/バイト_\(情報\).md "wikilink")（3×7[ビット](../Page/ビット.md "wikilink")）コードである。
 
 [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")に[行政院文化建設委員会](https://ja.wikipedia.org/wiki/行政院文化建設委員会 "wikilink")が制定した。最初の収録文字は5139文字だったが、その後、何度も追加・改定がなされ、1999年現在で73400文字が収録されている。（改定が矛盾しているなど混乱があるので、文献によって字数が異なることがある）
 
@@ -11,6 +11,6 @@ CCCIIでは6[面をまとめて群と呼び](../Page/面_\(文字コード\).md 
 
 CCCIIを使った[文字符号化方式](https://ja.wikipedia.org/wiki/文字符号化方式 "wikilink")としては、[EUC](https://ja.wikipedia.org/wiki/EUC "wikilink")の1種のEUC-CCCII-FT（CCCII-FT内碼）がある。
 
-台湾の他の文字コードである[Big5](../Page/Big5.md "wikilink")や[CNS 11643と](https://ja.wikipedia.org/wiki/CNS_11643 "wikilink")[互換性](https://ja.wikipedia.org/wiki/互換性 "wikilink")は無い。
+台湾の他の文字コードである[Big5](../Page/Big5.md "wikilink")や[CNS 11643と](https://ja.wikipedia.org/wiki/CNS_11643 "wikilink")[互換性](../Page/互換性.md "wikilink")は無い。
 
 [Category:文字コード](https://ja.wikipedia.org/wiki/Category:文字コード "wikilink") [Category:台湾の言語](https://ja.wikipedia.org/wiki/Category:台湾の言語 "wikilink")

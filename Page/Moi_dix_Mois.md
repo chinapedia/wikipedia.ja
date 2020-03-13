@@ -1,13 +1,13 @@
 > この記事は[Moi dix Mois](https://ja.wikipedia.org/wiki/Moi_dix_Mois)から翻訳されています。
 
 
-**Moi dix Mois**（モワディスモワ）は、[MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")（活動停止中）のリーダー[Manaが作詞](../Page/Mana_\(ミュージシャン\).md "wikilink")、作曲・プログラミングを手がけるソロ[ゴシックメタル](../Page/ゴシックメタル.md "wikilink")サウンドプロジェクト。
+**Moi dix Mois**（モワディスモワ）は、[MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")（活動停止中）のリーダー[Manaが作詞](../Page/Mana_\(ミュージシャン\).md "wikilink")、作曲・プログラミングを手がけるソロ[ゴシックメタル](../Page/ゴシックメタル.md "wikilink")サウンドプロジェクト。
 
 ## 概要
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Moi_dix_Mois_logo.svg "wikilink") [MALICE MIZERのリーダーManaが](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")、[Moi-même-moitiéのイメージを音楽によって表現することを目的としたサウンドプロジェクト](https://ja.wikipedia.org/wiki/ゴスロリブランド一覧#Moi-même-moitié "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")にMoi dix Moisがスタートした。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Moi_dix_Mois_logo.svg "wikilink") [MALICE MIZERのリーダーManaが](../Page/MALICE_MIZER.md "wikilink")、[Moi-même-moitiéのイメージを音楽によって表現することを目的としたサウンドプロジェクト](https://ja.wikipedia.org/wiki/ゴスロリブランド一覧#Moi-même-moitié "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")にMoi dix Moisがスタートした。
 
-Moi dix Moisは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で、Moi は『私=Mana』という意味があり、dix =『10』、1 は始まり、0 は永遠、[無限](../Page/無限.md "wikilink")の可能性を秘めている数字と捉え、dix Mois=『10ヶ月』、[胎児](https://ja.wikipedia.org/wiki/胎児 "wikilink")が体内で育ち10ヶ月で生まれることからManaが自身の音楽を追究すべく、古典と前衛、優美と狂気、構築と破壊という相反するものを融合し、これまでにない刺激的な音楽を創造。ただし、フランス語の数詞dixが子音始まりの語の前に置かれる場合、xが発音されることはないため、本来はモワ・ディ・モワというほうが原音に近い。モワ・ディス・モワという発音はフランス語としては誤りであり、フランス語母語話者にとっては奇異な印象を受ける。
+Moi dix Moisは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で、Moi は『私=Mana』という意味があり、dix =『10』、1 は始まり、0 は永遠、[無限](../Page/無限.md "wikilink")の可能性を秘めている数字と捉え、dix Mois=『10ヶ月』、[胎児](../Page/胎児.md "wikilink")が体内で育ち10ヶ月で生まれることからManaが自身の音楽を追究すべく、古典と前衛、優美と狂気、構築と破壊という相反するものを融合し、これまでにない刺激的な音楽を創造。ただし、フランス語の数詞dixが子音始まりの語の前に置かれる場合、xが発音されることはないため、本来はモワ・ディ・モワというほうが原音に近い。モワ・ディス・モワという発音はフランス語としては誤りであり、フランス語母語話者にとっては奇異な印象を受ける。
 
 一見バンドと思われがちだが、あくまでManaの[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。そのためか雑誌のインタビューでは、Manaのみが取材を受けている。
 
@@ -17,7 +17,7 @@ Moi dix Moisは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "
 
 Manaの誕生日に毎年恒例のイベントである魔導集会〜Mana様Birthday〜が行われている。
 
-2008年12月にDis inferno Vol.Ⅵ〜LAST YEAR PARTY〜にて[MALICE MIZERの](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")[Köziと](../Page/Kozi.md "wikilink")7年ぶりにセッションを行い、MALICE MIZERの曲を演奏した。
+2008年12月にDis inferno Vol.Ⅵ〜LAST YEAR PARTY〜にて[MALICE MIZERの](../Page/MALICE_MIZER.md "wikilink")[Köziと](../Page/Kozi.md "wikilink")7年ぶりにセッションを行い、MALICE MIZERの曲を演奏した。
 
 ## メンバー
 
@@ -64,7 +64,7 @@ Manaの誕生日に毎年恒例のイベントである魔導集会〜Mana様Bir
       -
         [山口県](../Page/山口県.md "wikilink")[美祢市](../Page/美祢市.md "wikilink")出身
         初代[ボーカリスト](https://ja.wikipedia.org/wiki/ボーカリスト "wikilink")。
-        2005年4月24日の[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")公演をもって脱退。
+        2005年4月24日の[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")公演をもって脱退。
   - Kazuno （Bass）
       -
         [広島県](../Page/広島県.md "wikilink")出身
@@ -94,7 +94,7 @@ Manaの誕生日に毎年恒例のイベントである魔導集会〜Mana様Bir
       - 7月21日　2ndアルバム『NOCTURNAL OPERA』をリリース。
       - 10月6日 　「Pageant」をリリース。
       - 12月にKが加入をし5人体制になり、Moi dix Moisの公式ホームページを発表した。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - 4月24日 Juka脱退。
       - 9月にKazunoとTohruが脱退。
       - 12月に新ヴォーカルSethが加入。Moi dix Moisの公式ホームページをリニューアルした。
@@ -107,7 +107,7 @@ Manaの誕生日に毎年恒例のイベントである魔導集会〜Mana様Bir
       - 3月28日 Moi dix Moisの5年目の集大成のアルバム、『DIXANADU』をリリース。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - 3月の魔導集会 第五夜〜Mana様Birthday〜以降、Manaは[分島花音](https://ja.wikipedia.org/wiki/分島花音 "wikilink")のプロデュースの担当を行い、各プロジェクトメンバーも各々の活動を始め、しばらくの間表立った活動がなかった。
-      - 12月27日　LIQUIDROOM　Dis inferno Vol.Ⅵ〜LAST YEAR PARTY〜にて元[MALICE MIZERの](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")[Kozi](../Page/Kozi.md "wikilink")とセッションを行った。
+      - 12月27日　LIQUIDROOM　Dis inferno Vol.Ⅵ〜LAST YEAR PARTY〜にて元[MALICE MIZERの](../Page/MALICE_MIZER.md "wikilink")[Kozi](../Page/Kozi.md "wikilink")とセッションを行った。
   - [2009年](../Page/2009年.md "wikilink")
       - 7月17日と19日に、Koziとカップリングツアー　Deep SanctuaryをOSAKA MUSE(17日)とLIQUIDROOM(19日)で行った。
   - [2012年](../Page/2012年.md "wikilink")
@@ -149,7 +149,7 @@ Manaの誕生日に毎年恒例のイベントである魔導集会〜Mana様Bir
 
   - [Midi:Nette](https://ja.wikipedia.org/wiki/Midi:Nette "wikilink")
   - [ゴスロリブランド一覧\#Moi-même-moitié](https://ja.wikipedia.org/wiki/ゴスロリブランド一覧#Moi-même-moitié "wikilink")
-  - [MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink")
+  - [MALICE MIZER](../Page/MALICE_MIZER.md "wikilink")
   - [タイチ](https://ja.wikipedia.org/wiki/牧太一郎 "wikilink")(プロレスラー) - 「Pageant」を自身の入場曲として使用。以前は「Forbidden」（Dialogue Symphonie収録）を使用していたこともある。
 
 ## 外部リンク

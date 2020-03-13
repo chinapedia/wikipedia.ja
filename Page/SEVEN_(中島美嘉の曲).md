@@ -15,7 +15,7 @@
 
 1.  **SEVEN**
       - 作詞: 中島美嘉／作曲: [Lori Fine](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")
-      - [カネボウ化粧品](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")「KATE」CMソング
+      - [カネボウ化粧品](../Page/カネボウ化粧品.md "wikilink")「KATE」CMソング
 2.  **SEVEN（COLDFEET Remix）**
 3.  **Venus in The Dark（COLDFEET Remix）**
       - 作詞: 中島美嘉／作曲: [岡野泰也](../Page/岡野泰也.md "wikilink")

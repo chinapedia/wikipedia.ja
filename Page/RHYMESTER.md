@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - **[Mummy-D](../Page/Mummy-D.md "wikilink")**（マミー・ディー、本名：坂間 大介〈さかま だいすけ〉）、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[4月14日](../Page/4月14日.md "wikilink") - ）
+  - **[Mummy-D](../Page/Mummy-D.md "wikilink")**（マミー・ディー、本名：坂間 大介〈さかま だいすけ〉）、[1970年](../Page/1970年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@
 
 [2007年](../Page/2007年.md "wikilink")3月31日に初の[日本武道館](../Page/日本武道館.md "wikilink")ライブを開催。公演後には活動休止を発表。
 
-グループ休止中の間、宇多丸はテレビ・ラジオのレギュラー出演や雑誌連載、DJ活動を行い、Mummy-Dは[SUPER BUTTER DOGのギタリスト](https://ja.wikipedia.org/wiki/SUPER_BUTTER_DOG "wikilink")・[竹内朋康](../Page/竹内朋康.md "wikilink")とのユニット、[マボロシ](../Page/マボロシ.md "wikilink")としての活動、楽曲提供・リミックス制作など。DJ JINはDJ活動、楽曲提供・リミックス制作などでそれぞれ活動していた。グループとしても、他アーティストのライブやイベントにゲスト出演をしていた。
+グループ休止中の間、宇多丸はテレビ・ラジオのレギュラー出演や雑誌連載、DJ活動を行い、Mummy-Dは[SUPER BUTTER DOGのギタリスト](../Page/SUPER_BUTTER_DOG.md "wikilink")・[竹内朋康](../Page/竹内朋康.md "wikilink")とのユニット、[マボロシ](../Page/マボロシ.md "wikilink")としての活動、楽曲提供・リミックス制作など。DJ JINはDJ活動、楽曲提供・リミックス制作などでそれぞれ活動していた。グループとしても、他アーティストのライブやイベントにゲスト出演をしていた。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")2月10日に行われた『第2回「火の国音楽祭」〜ライムスターがライブしにやってくる。』で約1年ぶりにライブ活動を再開。
 
@@ -1038,7 +1038,7 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
 <tr class="even">
 <td><p>アルバム</p></td>
 <td><p><strong>Triple Trouble feat. Rhymester</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Ram_Jam_World" title="wikilink">Ram Jam World</a></p></td>
+<td><p><a href="../Page/Ram_Jam_World.md" title="wikilink">Ram Jam World</a></p></td>
 <td><p><strong>『ram jam world』</strong></p></td>
 <td><p>1999年10月14日</p></td>
 <td></td>
@@ -1528,7 +1528,7 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
     2009年11月29日、東京[JCB HALLで開催](https://ja.wikipedia.org/wiki/JCB_HALL "wikilink")。
     ライムスターの結成20周年を祝したイベント。
     前半はライムスターの20周年セレモニーから、ゲストアーティストによる、ライムスター・トリビュートライブ。
-    後半がライムスターのライブ。アンコールでは、既に人気曲となっていた「ONCE AGAIN」に[DABO](../Page/DABO.md "wikilink"), [TWIGY](../Page/TWIGY.md "wikilink"), [Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")が飛び入りし、同曲のリミックスがサプライズ発表された。
+    後半がライムスターのライブ。アンコールでは、既に人気曲となっていた「ONCE AGAIN」に[DABO](../Page/DABO.md "wikilink"), [TWIGY](../Page/TWIGY.md "wikilink"), [Zeebra](../Page/Zeebra.md "wikilink")が飛び入りし、同曲のリミックスがサプライズ発表された。
     こちらの模様は、DVD作品『KING OF STAGE Vol. 8 マニフェスト Release Tour 2010』の初回盤に同梱されている。
   - TBSラジオ「タマフル」 presents 「R10 〜 POP LIFE Release Event 〜」
     2011年2月10日、東京[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")で開催。
@@ -1600,7 +1600,7 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
   - 2014年7月20日 - 所沢 夏びらき MUSIC FESTIVAL 2014
   - 2014年7月21日 - [RIP SLYME](../Page/RIP_SLYME.md "wikilink") presents 真夏のWOW
   - 2014年8月10日 - ROCK IN JAPAN FESTIVAL 2014
-  - 2014年8月16日 - [SUMMER BOMB](https://ja.wikipedia.org/wiki/SUMMER_BOMB "wikilink") produced by [Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")
+  - 2014年8月16日 - [SUMMER BOMB](https://ja.wikipedia.org/wiki/SUMMER_BOMB "wikilink") produced by [Zeebra](../Page/Zeebra.md "wikilink")
   - 2014年9月7日 - 22nd Sunset Live 2014 -Love\&Unity-
   - 2014年9月8日 - 908 FESTIVAL 2014
   - 2014年10月5日 - [MONGOL800 ga FESTIVAL What a Wonderful World\!\!](https://ja.wikipedia.org/wiki/MONGOL800_ga_FESTIVAL_What_a_Wonderful_World!! "wikilink") 13+14
@@ -1615,7 +1615,7 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
       - 宇多丸のみ出演
   - [アフター6ジャンクション](https://ja.wikipedia.org/wiki/アフター6ジャンクション "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、[2018年](../Page/2018年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")- ）
       - 宇多丸のみ出演
-  - [1924](https://ja.wikipedia.org/wiki/1924 "wikilink")(イチキュウニイヨン)（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[2009年](../Page/2009年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink") - ）
+  - [1924](https://ja.wikipedia.org/wiki/1924 "wikilink")(イチキュウニイヨン)（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[2009年](../Page/2009年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink") - ）
       - 宇多丸のみ出演
   - [Joint & Jam 〜global dance traxx〜](https://ja.wikipedia.org/wiki/Joint_&_Jam_〜global_dance_traxx〜 "wikilink")（[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")- ）
       - DJ JINのみ出演
@@ -1630,11 +1630,11 @@ Bitter, Sweet &amp; Beautiful Release Tour 2015</strong></p></td>
 
   - [小島慶子 キラ☆キラ](https://ja.wikipedia.org/wiki/小島慶子_キラ☆キラ "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
       - [2009年](../Page/2009年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")-2012年3月 宇多丸のみ出演（水曜日のみ）
-  - [WANTED\!](https://ja.wikipedia.org/wiki/WANTED! "wikilink") [WANTED\!月曜日RHYMESTER](../Page/WANTED!月曜日RHYMESTER.md "wikilink") ([TOKYO FM](../Page/エフエム東京.md "wikilink"))
+  - [WANTED\!](../Page/WANTED!.md "wikilink") [WANTED\!月曜日RHYMESTER](../Page/WANTED!月曜日RHYMESTER.md "wikilink") ([TOKYO FM](../Page/エフエム東京.md "wikilink"))
       - 2005年10月-2007年3月 毎週月曜日27:00-29:00
   - [MOTHER MUSIC RECORDS](../Page/MOTHER_MUSIC_RECORDS.md "wikilink")　MONDAY MIC CHECK (TOKYO FM)
       - 2004年4月-2005年9月 毎週月曜日22:00-23:00 通称「マンク」
-  - [MTV SCREEN supported by Haagen-Dazs / 映画廃人](https://ja.wikipedia.org/wiki/MTV_SCREEN_supported_by_Haagen-Dazs_/_映画廃人 "wikilink") ([MTV JAPAN](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink"))
+  - [MTV SCREEN supported by Haagen-Dazs / 映画廃人](https://ja.wikipedia.org/wiki/MTV_SCREEN_supported_by_Haagen-Dazs_/_映画廃人 "wikilink") ([MTV JAPAN](../Page/MTVジャパン.md "wikilink"))
       - 2006年10月- 宇多丸のみ出演
   - [ライムスター宇多丸のウィークエンド・シャッフル](../Page/ライムスター宇多丸のウィークエンド・シャッフル.md "wikilink")（TBSラジオ、[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")-2018年[3月31日](../Page/3月31日.md "wikilink")）
       - 宇多丸のみ出演

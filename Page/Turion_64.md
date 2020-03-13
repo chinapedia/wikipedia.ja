@@ -7,11 +7,11 @@ AMDの[ノートパソコン](../Page/ノートパソコン.md "wikilink")向け
 
 ## 概要
 
-[AMD_Turion_64_Lancaster_MT-34_(bottom).jpg](https://ja.wikipedia.org/wiki/File:AMD_Turion_64_Lancaster_MT-34_\(bottom\).jpg "fig:AMD_Turion_64_Lancaster_MT-34_(bottom).jpg") **AMD Turion**[™は](https://ja.wikipedia.org/wiki/商標#商標の表示 "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発表されたAMDのモバイルCPUのシリーズである。 Turionという名称は、「[旅行](../Page/旅行.md "wikilink")」を意味する英単語 *[Tour](https://ja.wikipedia.org/wiki/:en:Tour "wikilink")* に由来する造語である。ロゴマークには[オレンジ色](https://ja.wikipedia.org/wiki/オレンジ色 "wikilink")の[帆](../Page/帆.md "wikilink")の意匠があしらわれている。
+[AMD_Turion_64_Lancaster_MT-34_(bottom).jpg](https://ja.wikipedia.org/wiki/File:AMD_Turion_64_Lancaster_MT-34_\(bottom\).jpg "fig:AMD_Turion_64_Lancaster_MT-34_(bottom).jpg") **AMD Turion**[™は](https://ja.wikipedia.org/wiki/商標#商標の表示 "wikilink")[2005年](../Page/2005年.md "wikilink")に発表されたAMDのモバイルCPUのシリーズである。 Turionという名称は、「[旅行](../Page/旅行.md "wikilink")」を意味する英単語 *[Tour](https://ja.wikipedia.org/wiki/:en:Tour "wikilink")* に由来する造語である。ロゴマークには[オレンジ色](https://ja.wikipedia.org/wiki/オレンジ色 "wikilink")の[帆](../Page/帆.md "wikilink")の意匠があしらわれている。
 
-[Athlon64](https://ja.wikipedia.org/wiki/Athlon64 "wikilink")と同じAMD K8アーキテクチャの製品であり、[モバイルAthlon 64の後継製品という位置づけがなされ](../Page/Athlon_64.md "wikilink")、モバイルAthlon 64より消費電力が低く抑えられている。Athlon64シリーズおよび[Sempron](https://ja.wikipedia.org/wiki/Sempron "wikilink")シリーズと共通の[Socket 754プラットフォームに対応する](https://ja.wikipedia.org/wiki/Socket_754 "wikilink")。
+[Athlon64](https://ja.wikipedia.org/wiki/Athlon64 "wikilink")と同じAMD K8アーキテクチャの製品であり、[モバイルAthlon 64の後継製品という位置づけがなされ](../Page/Athlon_64.md "wikilink")、モバイルAthlon 64より消費電力が低く抑えられている。Athlon64シリーズおよび[Sempron](../Page/Sempron.md "wikilink")シリーズと共通の[Socket 754プラットフォームに対応する](https://ja.wikipedia.org/wiki/Socket_754 "wikilink")。
 
-一部の大手メーカー製[ノートPC](https://ja.wikipedia.org/wiki/ノートPC "wikilink")で採用された。当時のモバイルCPUとしては珍しく[リテール](../Page/リテール.md "wikilink")[パッケージ](../Page/パッケージ.md "wikilink")販売がされた他、一部では[バルク品](https://ja.wikipedia.org/wiki/バルク品 "wikilink")としても流通した。
+一部の大手メーカー製[ノートPC](https://ja.wikipedia.org/wiki/ノートPC "wikilink")で採用された。当時のモバイルCPUとしては珍しく[リテール](../Page/リテール.md "wikilink")[パッケージ](../Page/パッケージ.md "wikilink")販売がされた他、一部では[バルク品](../Page/バルク品.md "wikilink")としても流通した。
 
 AMDは[2006年](../Page/2006年.md "wikilink")にTurion 64の後継製品として[Socket S1プラットフォームに対応する](https://ja.wikipedia.org/wiki/Socket_S1 "wikilink")[Turion 64 X2を発表し](../Page/Turion_64_X2.md "wikilink")、Turion 64シリーズは終了した。
 
@@ -21,8 +21,8 @@ Turion 64 モバイル・テクノロジでは、Athlon 64 (Socket754) と基本
 
 ## 歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月7日](../Page/1月7日.md "wikilink") - Turion 64の概要が発表。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月10日](../Page/3月10日.md "wikilink") - Turion 64正式発表。即日全世界へ出荷開始。
+  - [2005年](../Page/2005年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") - Turion 64の概要が発表。
+  - [2005年](../Page/2005年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - Turion 64正式発表。即日全世界へ出荷開始。
   - [2006年](../Page/2006年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink") - 日本でTurion 64[リテール](../Page/リテール.md "wikilink")パッケージの販売開始。CPUクーラーは別売り。
   - [2006年](../Page/2006年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink") - Turion 64 X2正式発表。
 
@@ -59,7 +59,7 @@ Turion 64では[熱設計電力](https://ja.wikipedia.org/wiki/熱設計電力 "
 
 **Lancaster**（ランカスター）は、Turion 64第一世代製品の開発コードネーム。
 
-90[ナノメートル](../Page/ナノメートル.md "wikilink") [SOI](../Page/SOI.md "wikilink")プロセスで製造され、64ビット拡張技術 [AMD64](https://ja.wikipedia.org/wiki/x64 "wikilink")、[拡張ウィルス防止機能](../Page/NXビット.md "wikilink") (Enhanced Virus Protection) 、[SIMD](https://ja.wikipedia.org/wiki/SIMD "wikilink")拡張命令 [3DNow\! プロフェッショナル・テクノロジおよび](https://ja.wikipedia.org/wiki/3DNow!#3DNow!_Professional "wikilink")[SSE2](https://ja.wikipedia.org/wiki/ストリーミングSIMD拡張命令#SSE2 "wikilink")・[SSE3](https://ja.wikipedia.org/wiki/ストリーミングSIMD拡張命令#SSE3 "wikilink")、[省電力機能](../Page/省エネルギー.md "wikilink") [PowerNow\!](../Page/PowerNow!.md "wikilink") などをサポート。 対応ソケットは[Socket 754で](https://ja.wikipedia.org/wiki/Socket_754 "wikilink")、800 MHz [HyperTransport](https://ja.wikipedia.org/wiki/HyperTransport "wikilink")に対応。 [メモリコントローラー](https://ja.wikipedia.org/wiki/メモリコントローラー "wikilink")を内蔵し、PC3200の[DDR SDRAMにシングルチャネルでアクセスする](../Page/DDR_SDRAM.md "wikilink")。
+90[ナノメートル](../Page/ナノメートル.md "wikilink") [SOI](../Page/SOI.md "wikilink")プロセスで製造され、64ビット拡張技術 [AMD64](https://ja.wikipedia.org/wiki/x64 "wikilink")、[拡張ウィルス防止機能](../Page/NXビット.md "wikilink") (Enhanced Virus Protection) 、[SIMD](../Page/SIMD.md "wikilink")拡張命令 [3DNow\! プロフェッショナル・テクノロジおよび](https://ja.wikipedia.org/wiki/3DNow!#3DNow!_Professional "wikilink")[SSE2](https://ja.wikipedia.org/wiki/ストリーミングSIMD拡張命令#SSE2 "wikilink")・[SSE3](https://ja.wikipedia.org/wiki/ストリーミングSIMD拡張命令#SSE3 "wikilink")、[省電力機能](../Page/省エネルギー.md "wikilink") [PowerNow\!](../Page/PowerNow!.md "wikilink") などをサポート。 対応ソケットは[Socket 754で](https://ja.wikipedia.org/wiki/Socket_754 "wikilink")、800 MHz [HyperTransport](../Page/HyperTransport.md "wikilink")に対応。 [メモリコントローラー](https://ja.wikipedia.org/wiki/メモリコントローラー "wikilink")を内蔵し、PC3200の[DDR SDRAMにシングルチャネルでアクセスする](../Page/DDR_SDRAM.md "wikilink")。
 
 ### Richmond (90 nm SOI)
 

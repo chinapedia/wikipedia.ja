@@ -25,8 +25,8 @@
   - 加藤部長: [片岡五郎](../Page/片岡五郎.md "wikilink")
   - 春田教授: [市川勇](../Page/市川勇.md "wikilink")
   - 夏木教授: [鈴木晋介](../Page/鈴木晋介.md "wikilink")
-  - 秋山教授: [近藤芳正](https://ja.wikipedia.org/wiki/近藤芳正 "wikilink")
-  - 福井教授: [桝井省志](https://ja.wikipedia.org/wiki/桝井省志 "wikilink")
+  - 秋山教授: [近藤芳正](../Page/近藤芳正.md "wikilink")
+  - 福井教授: [桝井省志](../Page/桝井省志.md "wikilink")
   - 教授: [菅原大吉](../Page/菅原大吉.md "wikilink")、[神子修一](https://ja.wikipedia.org/wiki/神子修一 "wikilink")、[長谷川安弘](https://ja.wikipedia.org/wiki/長谷川安弘 "wikilink")、[岩井弘](https://ja.wikipedia.org/wiki/岩井弘 "wikilink")
   - 内村助手: [小関広介](https://ja.wikipedia.org/wiki/小関広介 "wikilink")
   - 外村助手: [小柳友貴美](../Page/小柳友貴美.md "wikilink")
@@ -41,7 +41,7 @@
   - 脚本：[斉藤ひろし](https://ja.wikipedia.org/wiki/斉藤ひろし "wikilink")
   - 音楽：[佐橋俊彦](../Page/佐橋俊彦.md "wikilink")
   - 撮影：[栢野直樹](https://ja.wikipedia.org/wiki/栢野直樹 "wikilink")
-  - 照明：[長田達也](https://ja.wikipedia.org/wiki/長田達也 "wikilink")
+  - 照明：[長田達也](../Page/長田達也.md "wikilink")
   - 美術：[沖山真保](https://ja.wikipedia.org/wiki/沖山真保 "wikilink")
   - 装飾：柴田博英
   - 録音：桜井敬悟
@@ -71,7 +71,7 @@
 
   - [拓殖大学](../Page/拓殖大学.md "wikilink")
   - [日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")
-  - [白鴎大学](https://ja.wikipedia.org/wiki/白鴎大学 "wikilink")
+  - [白鴎大学](../Page/白鴎大学.md "wikilink")
   - [千葉工業大学](../Page/千葉工業大学.md "wikilink")
 
 ## 主題歌

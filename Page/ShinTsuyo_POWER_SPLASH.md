@@ -13,7 +13,7 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月に『SMAP POWER SPLASH』として放送開始。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月からタイトルを『**SMAP POWER GROOVE**』に変更するが、[2000年](../Page/2000年.md "wikilink")に元のタイトルに戻す。
 
-現在はbayfm単独での放送だが、一時期[FM FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")、[RADIO BERRYでも当時のbayfmと同一のスポンサー](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")（[NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")）で放送。ただし、RADIO BERRYのみ番組名を『SMAP DA SMAP』（[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")の男声は同じ）に差し替えたため、各局向けに制作された部分を除いて出演者は放送中に当番組を「このプログラム」と呼び、番組名を呼ぶことを控えていた\[3\]。
+現在はbayfm単独での放送だが、一時期[FM FUJI](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")、[RADIO BERRYでも当時のbayfmと同一のスポンサー](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")（[NTT](../Page/日本電信電話.md "wikilink")）で放送。ただし、RADIO BERRYのみ番組名を『SMAP DA SMAP』（[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")の男声は同じ）に差し替えたため、各局向けに制作された部分を除いて出演者は放送中に当番組を「このプログラム」と呼び、番組名を呼ぶことを控えていた\[3\]。
 
 [2015年](../Page/2015年.md "wikilink")4月で当番組は放送20周年となった。
 

@@ -1,7 +1,7 @@
 > この記事は[YOU \(\)](https://ja.wikipedia.org/wiki/YOU_\(\))から翻訳されています。
 
 
-『**YOU**』（ユー）は、[1982年](../Page/1982年.md "wikilink")4月から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")4月まで[NHK教育テレビで土曜日の深夜に放送されていた若者向けの](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。
+『**YOU**』（ユー）は、[1982年](../Page/1982年.md "wikilink")4月から[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")4月まで[NHK教育テレビで土曜日の深夜に放送されていた若者向けの](../Page/NHK教育テレビジョン.md "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 通常は東京の[NHK放送センター](../Page/NHK放送センター.md "wikilink")で制作・放送していたが月に1度、[大阪放送局が制作した](../Page/NHK大阪放送局.md "wikilink")\[1\]。また、場合によっては[名古屋や](../Page/NHK名古屋放送局.md "wikilink")[新潟など他の地方局の制作で放送されることもあった](../Page/NHK新潟放送局.md "wikilink")\[2\]。
 
-オープニングとエンディングでは、[坂本龍一](../Page/坂本龍一.md "wikilink")が曲を担当\[3\]。司会が[糸井重里](../Page/糸井重里.md "wikilink")のころは[大友克洋](../Page/大友克洋.md "wikilink")が描いた若者の男女が登場するポップなイラストが次々と流れた。その後、司会が[日比野克彦](../Page/日比野克彦.md "wikilink")に変わってから、日比野のアート作品が流れた\[4\]。新司会者が決まるまでの間、一時的に[三田寛子](https://ja.wikipedia.org/wiki/三田寛子 "wikilink")が司会をした。
+オープニングとエンディングでは、[坂本龍一](../Page/坂本龍一.md "wikilink")が曲を担当\[3\]。司会が[糸井重里](../Page/糸井重里.md "wikilink")のころは[大友克洋](../Page/大友克洋.md "wikilink")が描いた若者の男女が登場するポップなイラストが次々と流れた。その後、司会が[日比野克彦](../Page/日比野克彦.md "wikilink")に変わってから、日比野のアート作品が流れた\[4\]。新司会者が決まるまでの間、一時的に[三田寛子](../Page/三田寛子.md "wikilink")が司会をした。
 
 ## 代表的な企画
 
@@ -119,7 +119,7 @@
   - [大林宣彦](../Page/大林宣彦.md "wikilink")
   - アントニオ猪木
   - [岡田有希子](../Page/岡田有希子.md "wikilink")
-  - [遠藤雅伸](https://ja.wikipedia.org/wiki/遠藤雅伸 "wikilink")
+  - [遠藤雅伸](../Page/遠藤雅伸.md "wikilink")
   - [中沢新一](../Page/中沢新一.md "wikilink")
   - [山口昌男](../Page/山口昌男.md "wikilink")
   - [中嶋悟](../Page/中嶋悟.md "wikilink")

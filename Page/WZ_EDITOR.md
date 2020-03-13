@@ -3,7 +3,7 @@
 
 **WZ EDITOR**（ダブルゼット エディタ）は、山口 敏郎（やまぐち としろう、TY）が開発し、株式会社[WZソフトウェア](https://ja.wikipedia.org/wiki/WZソフトウェア "wikilink")が販売する[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[テキストエディタ](../Page/テキストエディタ.md "wikilink")である。
 
-1995年6月、株式会社[ビレッジセンター](https://ja.wikipedia.org/wiki/ビレッジセンター "wikilink")よりバージョン1.0が発売された。
+1995年6月、株式会社[ビレッジセンター](../Page/ビレッジセンター.md "wikilink")よりバージョン1.0が発売された。
 
 [C言語](../Page/C言語.md "wikilink")の文法によく似たTX-Cと呼ばれる[マクロ言語](../Page/マクロ言語.md "wikilink")を実装しており、柔軟なカスタマイズが可能である。
 
@@ -96,7 +96,7 @@
 
 ### WZ BOARD
 
-思いついたアイデアや、メモを記録するために使用する。編集中の文書や、[クリップボード](https://ja.wikipedia.org/wiki/クリップボード "wikilink")から転記することができる。
+思いついたアイデアや、メモを記録するために使用する。編集中の文書や、[クリップボード](../Page/クリップボード.md "wikilink")から転記することができる。
 
 ### WZ FILER
 

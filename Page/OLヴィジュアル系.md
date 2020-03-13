@@ -85,12 +85,12 @@
 
 :\* ナナ - [加藤明日美](../Page/加藤明日美.md "wikilink") (2)
 
-:\* レナ - [須之内美帆子](https://ja.wikipedia.org/wiki/須之内美帆子 "wikilink") (2)
+:\* レナ - [須之内美帆子](../Page/須之内美帆子.md "wikilink") (2)
 
 ### スタッフ
 
   - 第1シリーズ
-      - 脚本 - 輿水泰弘、[吉田玲子](../Page/吉田玲子.md "wikilink")、[高橋ナツコ](https://ja.wikipedia.org/wiki/高橋ナツコ "wikilink")
+      - 脚本 - 輿水泰弘、[吉田玲子](../Page/吉田玲子.md "wikilink")、[高橋ナツコ](../Page/高橋ナツコ.md "wikilink")
       - 音楽 - [大島ミチル](../Page/大島ミチル.md "wikilink")
       - 演出 - [高丸雅隆](../Page/高丸雅隆.md "wikilink")、伊藤寿浩、秋山純 (テレビ朝日)、[今関あきよし](../Page/今関あきよし.md "wikilink")、田村直己
       - 挿入歌 - [DOGGY BAG](https://ja.wikipedia.org/wiki/DOGGY_BAG "wikilink")「Ready Lady」（[ポリドール](https://ja.wikipedia.org/wiki/ポリドール "wikilink")）

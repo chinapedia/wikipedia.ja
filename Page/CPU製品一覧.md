@@ -28,13 +28,13 @@ __TOC__
   - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")
   - [テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")
   - [東芝](../Page/東芝.md "wikilink")
-  - [トランスメタ](https://ja.wikipedia.org/wiki/トランスメタ "wikilink")
+  - [トランスメタ](../Page/トランスメタ.md "wikilink")
   - [日本電気](../Page/日本電気.md "wikilink") (NEC) - 現在、半導体部門はNECエレクトロニクスを経て[ルネサス エレクトロニクスに](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")。
   - [日立製作所](../Page/日立製作所.md "wikilink") - 現在、半導体部門はルネサス テクノロジを経て[ルネサス エレクトロニクスに](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")。
   - [ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")
   - [富士通](../Page/富士通.md "wikilink")
-  - [モステクノロジー](https://ja.wikipedia.org/wiki/モステクノロジー "wikilink")
-  - [モトローラ](../Page/モトローラ.md "wikilink") - 2004年半導体部門がスピンオフし[フリースケール・セミコンダクタ](https://ja.wikipedia.org/wiki/フリースケール・セミコンダクタ "wikilink")に、2015年に[NXPセミコンダクターズ](https://ja.wikipedia.org/wiki/NXPセミコンダクターズ "wikilink")に吸収合併。
+  - [モステクノロジー](../Page/モステクノロジー.md "wikilink")
+  - [モトローラ](../Page/モトローラ.md "wikilink") - 2004年半導体部門がスピンオフし[フリースケール・セミコンダクタ](../Page/フリースケール・セミコンダクタ.md "wikilink")に、2015年に[NXPセミコンダクターズ](https://ja.wikipedia.org/wiki/NXPセミコンダクターズ "wikilink")に吸収合併。
   - [三菱電機](../Page/三菱電機.md "wikilink") - 現在、半導体部門はルネサス テクノロジを経て[ルネサス エレクトロニクスに](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink")。
   - [ミップス・テクノロジーズ](../Page/ミップス・テクノロジーズ.md "wikilink")
   - [ルネサス エレクトロニクス](https://ja.wikipedia.org/wiki/ルネサス_エレクトロニクス "wikilink") - NECエレクトロニクスとルネサス テクノロジの合併によって設立。
@@ -46,7 +46,7 @@ __TOC__
 ### AMD
 
   - [AMD Am2900](../Page/AMD_Am2900.md "wikilink") - [1975年](../Page/1975年.md "wikilink")に開発された4bit [ビットスライス](../Page/ビットスライス.md "wikilink")プロセッサ
-  - [AMD Am29000](https://ja.wikipedia.org/wiki/AMD_Am29000 "wikilink") - [1988年](../Page/1988年.md "wikilink")
+  - [AMD Am29000](../Page/AMD_Am29000.md "wikilink") - [1988年](../Page/1988年.md "wikilink")
   - 8080互換
       - [AMD Am9080](https://ja.wikipedia.org/wiki/AMD_Am9080 "wikilink") - [1974年](../Page/1974年.md "wikilink")
   - 286互換
@@ -55,7 +55,7 @@ __TOC__
       - [Am386](https://ja.wikipedia.org/wiki/Am386 "wikilink") - [1991年](../Page/1991年.md "wikilink")
       - [Am486](../Page/Am486.md "wikilink")
       - [Am5x86](../Page/Am5x86.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")
-      - [K5](https://ja.wikipedia.org/wiki/AMD_K5 "wikilink") - [1996年](../Page/1996年.md "wikilink")
+      - [K5](../Page/AMD_K5.md "wikilink") - [1996年](../Page/1996年.md "wikilink")
       - [K6](../Page/AMD_K6.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
       - [K6-2](../Page/AMD_K6-2.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")
       - [K6-III](../Page/AMD_K6-III.md "wikilink") - [1999年](../Page/1999年.md "wikilink")
@@ -63,12 +63,12 @@ __TOC__
       - [Athlon](../Page/Athlon.md "wikilink") - 1999年 [ナショナル セミコンダクターとして](../Page/ナショナル_セミコンダクター.md "wikilink")
       - [Duron](../Page/Duron.md "wikilink") - [2000年](../Page/2000年.md "wikilink")
   - [AMD64](https://ja.wikipedia.org/wiki/x64 "wikilink")
-      - [Sempron](https://ja.wikipedia.org/wiki/Sempron "wikilink") - 一部AMD64に非対応
+      - [Sempron](../Page/Sempron.md "wikilink") - 一部AMD64に非対応
       - [Athlon 64](../Page/Athlon_64.md "wikilink")
       - [Opteron](https://ja.wikipedia.org/wiki/Opteron "wikilink")
-      - [Turion 64](https://ja.wikipedia.org/wiki/Turion_64 "wikilink")
+      - [Turion 64](../Page/Turion_64.md "wikilink")
       - [Athlon 64 FX](../Page/Athlon_64_FX.md "wikilink") - 2003年
-      - [Athlon 64 X2](https://ja.wikipedia.org/wiki/Athlon_64_X2 "wikilink") - 2005年
+      - [Athlon 64 X2](../Page/Athlon_64_X2.md "wikilink") - 2005年
       - [Turion 64 X2](../Page/Turion_64_X2.md "wikilink") - 2006年
       - [Phenom](https://ja.wikipedia.org/wiki/Phenom "wikilink") ([AMD K10](../Page/AMD_K10.md "wikilink")) - [2007年](../Page/2007年.md "wikilink")
           - Phenom X3 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
@@ -95,9 +95,9 @@ __TOC__
 
 ### ARM
 
-  - [ARM](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")
-  - [StrongARM](https://ja.wikipedia.org/wiki/StrongARM "wikilink") - [DECとの共同開発](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")
-  - [XScale](https://ja.wikipedia.org/wiki/XScale "wikilink")
+  - [ARM](../Page/ARMアーキテクチャ.md "wikilink")
+  - [StrongARM](../Page/StrongARM.md "wikilink") - [DECとの共同開発](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")
+  - [XScale](../Page/XScale.md "wikilink")
   - [OMAP](../Page/Texas_Instruments_OMAP.md "wikilink")
 
 ### Atmel
@@ -128,7 +128,7 @@ __TOC__
       - POWER4 - [2002年](../Page/2002年.md "wikilink")
           - POWER4+
       - POWER5 - [2004年](../Page/2004年.md "wikilink")
-          - POWER5+ - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+          - POWER5+ - [2005年](../Page/2005年.md "wikilink")
       - POWER6 - [2007年](../Page/2007年.md "wikilink")
       - POWER7 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
           - POWER7+ - [2012年](../Page/2012年.md "wikilink")
@@ -142,7 +142,7 @@ __TOC__
       - PowerPC74xx（[G4](../Page/PowerPC_G4.md "wikilink")） - 1999年
       - [PowerPC 970](../Page/PowerPC_970.md "wikilink") (G5) - [2003年](../Page/2003年.md "wikilink")
           - PowerPC 970FX (G5) - [2004年](../Page/2004年.md "wikilink")
-          - PowerPC 970MP (G5) - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+          - PowerPC 970MP (G5) - [2005年](../Page/2005年.md "wikilink")
       - Gekko - （[任天堂](../Page/任天堂.md "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用CPU） [2001年](../Page/2001年.md "wikilink")
           - Broadway - （同[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用CPU） [2006年](../Page/2006年.md "wikilink")
           - [Espresso](https://ja.wikipedia.org/wiki/Espresso "wikilink") - （同[Wii U用CPU](https://ja.wikipedia.org/wiki/Wii_U "wikilink")） [2012年](../Page/2012年.md "wikilink")
@@ -168,7 +168,7 @@ __TOC__
 
 ### マーベル
 
-ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilink")向け[ARMアーキテクチャ](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")製品
+ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilink")向け[ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")製品
 
 ### ナショナル セミコンダクター
 
@@ -204,22 +204,22 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 
   - [4004](../Page/Intel_4004.md "wikilink") - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")
   - [4040](https://ja.wikipedia.org/wiki/Intel_4040 "wikilink") - [1974年](../Page/1974年.md "wikilink")
-  - [8008](https://ja.wikipedia.org/wiki/Intel_8008 "wikilink") - [1972年](../Page/1972年.md "wikilink")
+  - [8008](../Page/Intel_8008.md "wikilink") - [1972年](../Page/1972年.md "wikilink")
   - [8048](../Page/Intel_8048.md "wikilink")
   - [8051](../Page/Intel_8051.md "wikilink")
   - [8080](../Page/Intel_8080.md "wikilink") - [1974年](../Page/1974年.md "wikilink")
   - 3000 - 1974年 [ビットスライス](../Page/ビットスライス.md "wikilink")
   - [8085](../Page/Intel_8085.md "wikilink") - [1975年](../Page/1975年.md "wikilink")
-  - [iAPX 432](https://ja.wikipedia.org/wiki/Intel_iAPX_432 "wikilink") - [1981年](../Page/1981年.md "wikilink")
-  - [960](https://ja.wikipedia.org/wiki/Intel_i960 "wikilink") - [1988年](../Page/1988年.md "wikilink")
-  - [860](https://ja.wikipedia.org/wiki/Intel_i860 "wikilink") - [1989年](../Page/1989年.md "wikilink")
+  - [iAPX 432](../Page/Intel_iAPX_432.md "wikilink") - [1981年](../Page/1981年.md "wikilink")
+  - [960](../Page/Intel_i960.md "wikilink") - [1988年](../Page/1988年.md "wikilink")
+  - [860](../Page/Intel_i860.md "wikilink") - [1989年](../Page/1989年.md "wikilink")
   - [x86](https://ja.wikipedia.org/wiki/x86 "wikilink")
       - [8086](../Page/Intel_8086.md "wikilink") - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")
       - [8088](../Page/Intel_8088.md "wikilink") - [1979年](../Page/1979年.md "wikilink")
       - [Intel 80186](../Page/Intel_80186.md "wikilink")
       - [Intel 80188](https://ja.wikipedia.org/wiki/Intel_80188 "wikilink")
       - [Intel 80286](../Page/Intel_80286.md "wikilink") - [1982年](../Page/1982年.md "wikilink")
-  - [IA-32](https://ja.wikipedia.org/wiki/IA-32 "wikilink")
+  - [IA-32](../Page/IA-32.md "wikilink")
       - [Intel 80386](../Page/Intel_80386.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")
       - [i486](https://ja.wikipedia.org/wiki/Intel_486 "wikilink") - [1989年](../Page/1989年.md "wikilink")
       - [Pentium](https://ja.wikipedia.org/wiki/Pentium "wikilink") - [1993年](../Page/1993年.md "wikilink")
@@ -231,7 +231,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
       - [Xeon](../Page/Xeon.md "wikilink") - [2001年](../Page/2001年.md "wikilink")
       - [Pentium M](../Page/Pentium_M.md "wikilink") - [2003年](../Page/2003年.md "wikilink")
       - [Pentium 4 Extreme Edition](../Page/Pentium_Extreme_Edition.md "wikilink") - 2003年
-      - [Pentium D](https://ja.wikipedia.org/wiki/Pentium_D "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+      - [Pentium D](../Page/Pentium_D.md "wikilink") - [2005年](../Page/2005年.md "wikilink")
       - [Pentium Extreme Edition](../Page/Pentium_Extreme_Edition.md "wikilink") - 2005年
       - [Intel Core](../Page/Intel_Core.md "wikilink") - [2006年](../Page/2006年.md "wikilink")
       - [Intel Core 2](../Page/Intel_Core_2.md "wikilink") - [2006年](../Page/2006年.md "wikilink")
@@ -239,12 +239,12 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
       - [Pentium Dual-Core](../Page/Pentium_Dual-Core.md "wikilink") - 2007年 これ以後の“Pentium”はCeleronとCoreの間に位置づけられた*ブランド*
       - [Intel Atom](https://ja.wikipedia.org/wiki/Intel_Atom "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
       - [Intel Core i7](https://ja.wikipedia.org/wiki/Intel_Core_i7 "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
-  - [IA-64](https://ja.wikipedia.org/wiki/IA-64 "wikilink")
+  - [IA-64](../Page/IA-64.md "wikilink")
       - [Itanium](../Page/Itanium.md "wikilink") - [2001年](../Page/2001年.md "wikilink")
       - [Itanium2](https://ja.wikipedia.org/wiki/Itanium2 "wikilink") - [2002年](../Page/2002年.md "wikilink")
-  - [ARMアーキテクチャ](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")
-      - [StrongARM](https://ja.wikipedia.org/wiki/StrongARM "wikilink") - [DECから買収](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")
-      - [XScale](https://ja.wikipedia.org/wiki/XScale "wikilink") - [マーベルに売却](https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ "wikilink")
+  - [ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")
+      - [StrongARM](../Page/StrongARM.md "wikilink") - [DECから買収](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")
+      - [XScale](../Page/XScale.md "wikilink") - [マーベルに売却](https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ "wikilink")
 
 ### ザイログ
 
@@ -254,7 +254,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
   - [Z280](https://ja.wikipedia.org/wiki/Z280 "wikilink")
   - [Z380](https://ja.wikipedia.org/wiki/Z380 "wikilink")
   - [eZ80](https://ja.wikipedia.org/wiki/eZ80 "wikilink")
-  - [Z8000](https://ja.wikipedia.org/wiki/Z8000 "wikilink")
+  - [Z8000](../Page/Z8000.md "wikilink")
   - [Z80000](https://ja.wikipedia.org/wiki/Z80000 "wikilink")
 
 ### サン・マイクロシステムズ (オラクル)
@@ -278,17 +278,17 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 ### ソニー・コンピュータエンタテインメント
 
   - [Emotion Engine](../Page/Emotion_Engine.md "wikilink")（[PlayStation 2のCPU](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[東芝](../Page/東芝.md "wikilink")と共同開発、MIPS系）
-  - [Cell](https://ja.wikipedia.org/wiki/Cell_Broadband_Engine "wikilink") - （[PlayStation 3のCPU](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。[東芝](../Page/東芝.md "wikilink")、[IBM](../Page/IBM.md "wikilink")と共同開発、Power系）
+  - [Cell](../Page/Cell_Broadband_Engine.md "wikilink") - （[PlayStation 3のCPU](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。[東芝](../Page/東芝.md "wikilink")、[IBM](../Page/IBM.md "wikilink")と共同開発、Power系）
 
 ### テキサス・インスツルメンツ
 
   - TMS1000シリーズ - [1970年代](../Page/1970年代.md "wikilink")
-  - [TMS9900](https://ja.wikipedia.org/wiki/TMS9900 "wikilink")
+  - [TMS9900](../Page/TMS9900.md "wikilink")
   - [TMS9918](../Page/TMS9918.md "wikilink") - [1980年代](../Page/1980年代.md "wikilink")
 
 <!-- end list -->
 
-  - [ARMアーキテクチャ](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")
+  - [ARMアーキテクチャ](../Page/ARMアーキテクチャ.md "wikilink")
       - [Texas Instruments OMAP](../Page/Texas_Instruments_OMAP.md "wikilink")
       - [Texas Instruments DaVinci](../Page/Texas_Instruments_DaVinci.md "wikilink")
   - Intel486互換
@@ -333,7 +333,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 
 ### ヒューレット・パッカード
 
-  - [PA-RISC](https://ja.wikipedia.org/wiki/PA-RISC "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
+  - [PA-RISC](../Page/PA-RISC.md "wikilink") - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")
       - PA-RISC7200 - [1994年](../Page/1994年.md "wikilink")
       - PA-RISC8000 - [1996年](../Page/1996年.md "wikilink")
 
@@ -378,11 +378,11 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
   - [MC6802](https://ja.wikipedia.org/wiki/MC6802 "wikilink")
   - [MC6809](../Page/MC6809.md "wikilink") - [1979年](../Page/1979年.md "wikilink")
   - [MC680x0](../Page/MC68000.md "wikilink") -[1979年](../Page/1979年.md "wikilink")
-      - [MC68020](https://ja.wikipedia.org/wiki/MC68020 "wikilink") - [1984年](../Page/1984年.md "wikilink")
-      - [MC68030](https://ja.wikipedia.org/wiki/MC68030 "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
-      - [MC68040](https://ja.wikipedia.org/wiki/MC68040 "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")
-      - [MC68060](https://ja.wikipedia.org/wiki/MC68060 "wikilink") - [1994年](../Page/1994年.md "wikilink")
-  - [MC88000](https://ja.wikipedia.org/wiki/MC88000 "wikilink") - [1988年](../Page/1988年.md "wikilink")
+      - [MC68020](../Page/MC68020.md "wikilink") - [1984年](../Page/1984年.md "wikilink")
+      - [MC68030](../Page/MC68030.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
+      - [MC68040](../Page/MC68040.md "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")
+      - [MC68060](../Page/MC68060.md "wikilink") - [1994年](../Page/1994年.md "wikilink")
+  - [MC88000](../Page/MC88000.md "wikilink") - [1988年](../Page/1988年.md "wikilink")
   - [PowerPC](../Page/PowerPC.md "wikilink")
       - MPC603e
       - MPC74xx (G4) - [1999年](../Page/1999年.md "wikilink")
@@ -414,7 +414,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 <!-- end list -->
 
   - H8マイコン
-      - [H8](https://ja.wikipedia.org/wiki/H8 "wikilink")ファミリ
+      - [H8](../Page/H8.md "wikilink")ファミリ
       - H8Sファミリ
       - H8SXファミリ
       - H8 Tiny
@@ -438,7 +438,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 
 ### 沖電気
 
-  - [ARMコアマイコン](https://ja.wikipedia.org/wiki/ARMアーキテクチャ "wikilink")
+  - [ARMコアマイコン](../Page/ARMアーキテクチャ.md "wikilink")
 
 ### リコー
 
@@ -449,7 +449,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 
 ### その他
 
-  - [Transputer](https://ja.wikipedia.org/wiki/トランスピュータ "wikilink")
+  - [Transputer](../Page/トランスピュータ.md "wikilink")
   - [TRONCHIP](../Page/TRONCHIP.md "wikilink") →[TRON](../Page/TRONプロジェクト.md "wikilink")
 
 ## 関連項目

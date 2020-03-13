@@ -5,9 +5,9 @@
 
 ## 概要
 
-[1960年](../Page/1960年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")[彦根市](https://ja.wikipedia.org/wiki/彦根市 "wikilink")[西今町で開局した](https://ja.wikipedia.org/wiki/西今町_\(彦根市\) "wikilink")。[彦根駅](https://ja.wikipedia.org/wiki/彦根駅 "wikilink")付近の[大東町を経て](https://ja.wikipedia.org/wiki/大東町_\(彦根市\) "wikilink")、[2013年](../Page/2013年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")に、[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")を彦根市立花町にあるOBPビルに移転。OBPビルの3階に事務所を置き、スタジオは2階にある[エフエムひこね](https://ja.wikipedia.org/wiki/エフエムひこね "wikilink")と同じスタジオを使用する。送信所を[琵琶湖](../Page/琵琶湖.md "wikilink")湖岸付近に[NHK第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")[大津放送局と共同で運営している](../Page/NHK大津放送局.md "wikilink")。彦根市や[長浜市](../Page/長浜市.md "wikilink")にサテライトスタジオが所在し、滋賀放送局とは別に[大津市](../Page/大津市.md "wikilink")に滋賀支社（[京都新聞社](https://ja.wikipedia.org/wiki/京都新聞社 "wikilink")滋賀本社と同じビル）があり、大津スタジオがある。
+[1960年](../Page/1960年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")[彦根市](https://ja.wikipedia.org/wiki/彦根市 "wikilink")[西今町で開局した](https://ja.wikipedia.org/wiki/西今町_\(彦根市\) "wikilink")。[彦根駅](https://ja.wikipedia.org/wiki/彦根駅 "wikilink")付近の[大東町を経て](https://ja.wikipedia.org/wiki/大東町_\(彦根市\) "wikilink")、[2013年](../Page/2013年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")に、[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")を彦根市立花町にあるOBPビルに移転。OBPビルの3階に事務所を置き、スタジオは2階にある[エフエムひこね](https://ja.wikipedia.org/wiki/エフエムひこね "wikilink")と同じスタジオを使用する。送信所を[琵琶湖](../Page/琵琶湖.md "wikilink")湖岸付近に[NHK第1放送](../Page/NHKラジオ第1放送.md "wikilink")[大津放送局と共同で運営している](../Page/NHK大津放送局.md "wikilink")。彦根市や[長浜市](../Page/長浜市.md "wikilink")にサテライトスタジオが所在し、滋賀放送局とは別に[大津市](../Page/大津市.md "wikilink")に滋賀支社（[京都新聞社](https://ja.wikipedia.org/wiki/京都新聞社 "wikilink")滋賀本社と同じビル）があり、大津スタジオがある。
 
-本社[京都親局からの番組と](../Page/京都市.md "wikilink")、独自のローカル番組、及び京都放送局からの番組のCMの差し替え（滋賀局ローカルCM）、京都親局がネットしない[NRNの番組](../Page/全国ラジオネットワーク.md "wikilink")（主に滋賀県代表が出場する高等学校野球実況中継）、その他特別番組で番組が編成されている。[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは「滋賀発[京阪神](https://ja.wikipedia.org/wiki/京阪神 "wikilink")へ」というコンセプトで新番組を開始し、滋賀局発で京都放送局、[福知山局](https://ja.wikipedia.org/wiki/福知山中継局 "wikilink")、[舞鶴局へネットする初の帯番組](https://ja.wikipedia.org/wiki/舞鶴中継局 "wikilink")『[松井桂三のさんさんわいど](../Page/松井桂三のさんさんわいど.md "wikilink")』を放送していたが、[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")末に終了し、ローカルの帯番組放送に戻った。 [ベリカード](https://ja.wikipedia.org/wiki/ベリカード "wikilink")を京都親局とは別に発行している。[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")は日本新聞協会加盟で滋賀県において宅配を実施している新聞社各社のうち[中日新聞](../Page/中日新聞.md "wikilink")、[中日スポーツ](../Page/中日スポーツ.md "wikilink")、京都新聞各紙滋賀版のみ（京都新聞は京都版にも解説欄に滋賀差し替え分だけ紹介）に掲載されている。滋賀局も番組表「りすん」を希望者に渡している。
+本社[京都親局からの番組と](../Page/京都市.md "wikilink")、独自のローカル番組、及び京都放送局からの番組のCMの差し替え（滋賀局ローカルCM）、京都親局がネットしない[NRNの番組](../Page/全国ラジオネットワーク.md "wikilink")（主に滋賀県代表が出場する高等学校野球実況中継）、その他特別番組で番組が編成されている。[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは「滋賀発[京阪神](https://ja.wikipedia.org/wiki/京阪神 "wikilink")へ」というコンセプトで新番組を開始し、滋賀局発で京都放送局、[福知山局](https://ja.wikipedia.org/wiki/福知山中継局 "wikilink")、[舞鶴局へネットする初の帯番組](https://ja.wikipedia.org/wiki/舞鶴中継局 "wikilink")『[松井桂三のさんさんわいど](../Page/松井桂三のさんさんわいど.md "wikilink")』を放送していたが、[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")末に終了し、ローカルの帯番組放送に戻った。 [ベリカード](../Page/ベリカード.md "wikilink")を京都親局とは別に発行している。[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")は日本新聞協会加盟で滋賀県において宅配を実施している新聞社各社のうち[中日新聞](../Page/中日新聞.md "wikilink")、[中日スポーツ](../Page/中日スポーツ.md "wikilink")、京都新聞各紙滋賀版のみ（京都新聞は京都版にも解説欄に滋賀差し替え分だけ紹介）に掲載されている。滋賀局も番組表「りすん」を希望者に渡している。
 
 「KBS滋賀ラジオまつり」を毎年度12月 - 3月に催していた。2011年度は開催されなかった。
 
@@ -35,8 +35,8 @@
 <td><p>JOBW</p></td>
 <td><p>1215kHz[1]</p></td>
 <td><p>1kW</p></td>
-<td><p>送信所は<a href="../Page/NHK大津放送局.md" title="wikilink">NHK大津</a><a href="https://ja.wikipedia.org/wiki/NHKラジオ第1放送" title="wikilink">第1放送と共用</a>。<br />
-初代送信アンテナは1961年9月の<a href="https://ja.wikipedia.org/wiki/第2室戸台風" title="wikilink">第2室戸台風</a>により倒壊、<br />
+<td><p>送信所は<a href="../Page/NHK大津放送局.md" title="wikilink">NHK大津</a><a href="../Page/NHKラジオ第1放送.md" title="wikilink">第1放送と共用</a>。<br />
+初代送信アンテナは1961年9月の<a href="../Page/第2室戸台風.md" title="wikilink">第2室戸台風</a>により倒壊、<br />
 その代替として<a href="../Page/中国放送.md" title="wikilink">中国放送</a>の初代送信所であった<a href="https://ja.wikipedia.org/wiki/中国放送沖美ラジオ送信所#観音送信所" title="wikilink">観音送信所のアンテナを転用した</a>[2]。</p></td>
 </tr>
 </tbody>
@@ -112,7 +112,7 @@
   - [桂三風](../Page/桂三風.md "wikilink")（午後は気ままに楽市タウン）
   - [笑福亭晃瓶](../Page/笑福亭晃瓶.md "wikilink")（午後は気ままに楽市タウン）
   - [笑福亭純瓶](https://ja.wikipedia.org/wiki/笑福亭純瓶 "wikilink")（純瓶・キャッピーの午後は気ままに楽市タウン）
-  - [露の吉次](https://ja.wikipedia.org/wiki/露の吉次 "wikilink")（さんさんわいど滋賀）
+  - [露の吉次](../Page/露の吉次.md "wikilink")（さんさんわいど滋賀）
   - [林家そめすけ](https://ja.wikipedia.org/wiki/林家そめすけ "wikilink")（さんさんわいど滋賀）
   - [桂春菜](https://ja.wikipedia.org/wiki/桂春菜 "wikilink")（午後は気ままに楽市タウン）
   - [林家染弥](https://ja.wikipedia.org/wiki/林家染弥 "wikilink")（さんさんわいど滋賀）
@@ -133,9 +133,9 @@
   - [NHK大津放送局](../Page/NHK大津放送局.md "wikilink")（総合テレビ、第1放送、FM放送）
   - [びわ湖放送](../Page/びわ湖放送.md "wikilink")（[独立局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")）
   - [エフエム滋賀](../Page/エフエム滋賀.md "wikilink")（e-radio/[JFN](../Page/全国FM放送協議会.md "wikilink")）
-  - [FMひこね](https://ja.wikipedia.org/wiki/エフエムひこねコミュニティ放送 "wikilink")（[コミュニティFM局](../Page/コミュニティ放送.md "wikilink")）
+  - [FMひこね](../Page/エフエムひこねコミュニティ放送.md "wikilink")（[コミュニティFM局](../Page/コミュニティ放送.md "wikilink")）
   - [えふえむ草津](https://ja.wikipedia.org/wiki/えふえむ草津 "wikilink")（コミュニティFM局）
-  - [Radio Sweet](https://ja.wikipedia.org/wiki/びわ湖キャプテン "wikilink")（コミュニティFM局）
+  - [Radio Sweet](../Page/びわ湖キャプテン.md "wikilink")（コミュニティFM局）
 
 ## 脚注
 

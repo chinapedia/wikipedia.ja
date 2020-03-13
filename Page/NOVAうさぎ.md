@@ -1,19 +1,19 @@
 > この記事は[NOVA](https://ja.wikipedia.org/wiki/NOVA)から翻訳されています。
 
 
-**NOVAうさぎ**（ノヴァうさぎ）は、英会話スクール企業である[株式会社NOVAの企業](https://ja.wikipedia.org/wiki/NOVA "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")である。
+**NOVAうさぎ**（ノヴァうさぎ）は、英会話スクール企業である[株式会社NOVAの企業](../Page/NOVA.md "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")である。
 
 [2002年](../Page/2002年.md "wikilink")9月にNOVAの[テレビ](../Page/テレビ.md "wikilink")[コマーシャルで初登場し人気を博した](../Page/コマーシャルメッセージ.md "wikilink")。アニメーション制作は[東映](../Page/東映.md "wikilink")CM。
 
 ## 特徴
 
-黄色い[嘴と](../Page/くちばし.md "wikilink")[ウサギ](../Page/ウサギ.md "wikilink")の耳を持つ[ピンク](https://ja.wikipedia.org/wiki/ピンク "wikilink")色の[キャラクター](../Page/キャラクター.md "wikilink")（ウサギでも[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")でもない謎の生物\[1\]）である。性別・年齢・国籍・出生地不明。首元にはNOVAの頭文字「N」のマークをつけている。ウサギの耳と鳥の嘴は、「いっぱい聞けて、いっぱいしゃべれる」というNOVAの基本理念を表しているとされる。
+黄色い[嘴と](../Page/くちばし.md "wikilink")[ウサギ](../Page/ウサギ.md "wikilink")の耳を持つ[ピンク](../Page/ピンク.md "wikilink")色の[キャラクター](../Page/キャラクター.md "wikilink")（ウサギでも[鳥](https://ja.wikipedia.org/wiki/鳥 "wikilink")でもない謎の生物\[1\]）である。性別・年齢・国籍・出生地不明。首元にはNOVAの頭文字「N」のマークをつけている。ウサギの耳と鳥の嘴は、「いっぱい聞けて、いっぱいしゃべれる」というNOVAの基本理念を表しているとされる。
 
-ウサギのような[耳](../Page/耳.md "wikilink")は、CM内でもぎ取られた際に瞬時に再生したり、[ヘッドフォン](https://ja.wikipedia.org/wiki/ヘッドフォン "wikilink")を頭の横につけていることから、正確には耳ではないとされる。また、表情は基本的に目を閉じている事が多く、たまに開かれた時の目は黄色く瞳がないという特徴がある。
+ウサギのような[耳](../Page/耳.md "wikilink")は、CM内でもぎ取られた際に瞬時に再生したり、[ヘッドフォン](../Page/ヘッドフォン.md "wikilink")を頭の横につけていることから、正確には耳ではないとされる。また、表情は基本的に目を閉じている事が多く、たまに開かれた時の目は黄色く瞳がないという特徴がある。
 
 ## 声の出演
 
-楽曲「いっばいきけていっぱいしゃべれる」内の声はポップユニット[Our Hourのボーカルの](https://ja.wikipedia.org/wiki/Our_Hour "wikilink")[草壁ゆう子](https://ja.wikipedia.org/wiki/草壁ゆう子 "wikilink")が、CM内でのセリフは[緒方りお](https://ja.wikipedia.org/wiki/緒方りお "wikilink")が担当している。
+楽曲「いっばいきけていっぱいしゃべれる」内の声はポップユニット[Our Hourのボーカルの](https://ja.wikipedia.org/wiki/Our_Hour "wikilink")[草壁ゆう子](https://ja.wikipedia.org/wiki/草壁ゆう子 "wikilink")が、CM内でのセリフは[緒方りお](../Page/緒方りお.md "wikilink")が担当している。
 
 ## 来歴
 
@@ -23,7 +23,7 @@ NOVAうさぎのキャラクター商品は、元々NOVAに入会した人だけ
 
 [タケモトピアノ](../Page/タケモトピアノ.md "wikilink")のテレビコマーシャルと同様に、小さい子供にテレビコマーシャルを見せる（聞かせる）と、集中して見る（泣き止む）という実例が、多数見受けられる。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月より、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列にて放送されている「[オトナ語の謎。](../Page/オトナ語の謎。.md "wikilink")」に出演していたが、同年9月末で終了した。
+[2005年](../Page/2005年.md "wikilink")4月より、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列にて放送されている「[オトナ語の謎。](../Page/オトナ語の謎。.md "wikilink")」に出演していたが、同年9月末で終了した。
 
 2005年4月より、NOVAは新キャラクター「[キクちゃんとシャベール](https://ja.wikipedia.org/wiki/キクちゃんとシャベール "wikilink")」も推しているが、人気・知名度ともNOVAうさぎの方がはるかに上であるため、電車の中吊り広告やスクール前の幟及びNOVAのwebサイトなどに今でもNOVAうさぎが登場している。
 
@@ -54,7 +54,7 @@ NOVAうさぎのキャラクター商品は、元々NOVAに入会した人だけ
 9.  0007サーフィン編02「かわせるか～い」
 10. 0008ホーム編01「なんか用\!」（メンゴ、メンゴ）
 11. 0008ホーム編02「ウソよ」（目が点）
-12. 0009[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")編(1)01（ジングルベル）
+12. 0009[クリスマス](../Page/クリスマス.md "wikilink")編(1)01（ジングルベル）
 13. 0009クリスマス編(1)02（グローリー）
 14. 0010お[正月](../Page/正月.md "wikilink")編(1)01「一人多いんじゃぁない?」
 15. 0010お正月編(1)02「まだ乗ってるの?」
@@ -62,7 +62,7 @@ NOVAうさぎのキャラクター商品は、元々NOVAに入会した人だけ
 17. 0012[スノーボード](../Page/スノーボード.md "wikilink")編
 18. 0013[船](https://ja.wikipedia.org/wiki/船 "wikilink")編01「まじで」（男性前向き）
 19. 0013船編02「ポン」（男性後ろ向き）
-20. 0014[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")編01「ガォ～」
+20. 0014[ダンス](../Page/ダンス.md "wikilink")編01「ガォ～」
 21. 0014ダンス編02
 22. 0015[ヒッチハイク](../Page/ヒッチハイク.md "wikilink")編
 23. 0016[盆踊り](../Page/盆踊り.md "wikilink")編
@@ -135,15 +135,15 @@ NOVAうさぎのキャラクター商品は、元々NOVAに入会した人だけ
 
 ## 関連商品
 
-  - [CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")『NOVAうさぎのうた ～いっぱい聞けて、いっぱいしゃべれる～』（2003年4月23日発売）曲は[Our Hour](https://ja.wikipedia.org/wiki/Our_Hour "wikilink")、発売元は[サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")、プロデューサーは[志倉千代丸](../Page/志倉千代丸.md "wikilink")、CD-EXTRA仕様でNOVAうさぎのプロモーションビデオ収録。
+  - [CMソング](../Page/コマーシャルソング.md "wikilink")『NOVAうさぎのうた ～いっぱい聞けて、いっぱいしゃべれる～』（2003年4月23日発売）曲は[Our Hour](https://ja.wikipedia.org/wiki/Our_Hour "wikilink")、発売元は[サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")、プロデューサーは[志倉千代丸](../Page/志倉千代丸.md "wikilink")、CD-EXTRA仕様でNOVAうさぎのプロモーションビデオ収録。
   - 2004年3月18日に[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")のボードゲーム「爆笑人生劇場シリーズ」とコラボレーションしたPS2用ソフト「爆笑\!\!人生回道 NOVAうさぎが見てるぞ\!\!」が発売された。
   - 2006年10月、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")（アーケード部門は2016年11月1日に[コナミアミューズメント](../Page/コナミアミューズメント.md "wikilink")に移管）の開発・製作による英語学習ゲーム[NOVAうさぎのゲームde留学\!?](../Page/NOVAうさぎのゲームde留学!?.md "wikilink")が全国のアミューズメント施設で稼動を開始（2009年3月オンラインサービス終了）。
 
 ## 記録
 
   - キャラクター商品の発売から3ヵ月間の売り上げは2億6000万円に達した\[2\]。
-  - [CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")『NOVAうさぎのうた ～いっぱい聞けて、いっぱいしゃべれる～』は[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")12位を記録した。
-  - CM総合研究所調べによる2003年度のCM好感度ランキングでNOVAうさぎのCMが2位（1位は[サントリー](../Page/サントリー.md "wikilink")「[燃焼系](https://ja.wikipedia.org/wiki/燃焼系 "wikilink")アミノ式」）。同じくCMタレント好感度ランキングでNOVAうさぎが総合3位（1位は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、2位は[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")）。
+  - [CMソング](../Page/コマーシャルソング.md "wikilink")『NOVAうさぎのうた ～いっぱい聞けて、いっぱいしゃべれる～』は[オリコン](../Page/オリコンチャート.md "wikilink")12位を記録した。
+  - CM総合研究所調べによる2003年度のCM好感度ランキングでNOVAうさぎのCMが2位（1位は[サントリー](../Page/サントリー.md "wikilink")「[燃焼系](../Page/燃焼系.md "wikilink")アミノ式」）。同じくCMタレント好感度ランキングでNOVAうさぎが総合3位（1位は[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")、2位は[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")）。
 
 ## 脚注
 

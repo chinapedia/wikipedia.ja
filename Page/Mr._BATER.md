@@ -61,8 +61,8 @@
 <tr class="odd">
 <td><p>1995年5月7日</p></td>
 <td><p>散髪屋</p></td>
-<td><p>頭を流す → 流し<a href="../Page/素麺.md" title="wikilink">そうめん</a> 「<strong>なんでこんなもんあんねん！下げぇ！</strong>」 ヒゲを剃る → <a href="https://ja.wikipedia.org/wiki/田中角栄" title="wikilink">田中角栄</a>のモノマネ 「<strong><a href="../Page/大平正芳.md" title="wikilink">大平総理まで行くところやったわ</a></strong>」</p>
-<p>バリカン → <a href="https://ja.wikipedia.org/wiki/バルサン" title="wikilink">バルサン</a> 「<strong>もっとオトせるようなもん持ってこいボケ！</strong>」</p></td>
+<td><p>頭を流す → 流し<a href="../Page/素麺.md" title="wikilink">そうめん</a> 「<strong>なんでこんなもんあんねん！下げぇ！</strong>」 ヒゲを剃る → <a href="../Page/田中角栄.md" title="wikilink">田中角栄</a>のモノマネ 「<strong><a href="../Page/大平正芳.md" title="wikilink">大平総理まで行くところやったわ</a></strong>」</p>
+<p>バリカン → <a href="../Page/バルサン.md" title="wikilink">バルサン</a> 「<strong>もっとオトせるようなもん持ってこいボケ！</strong>」</p></td>
 <td><p>カルフォルニア米 もパサつくわ！</p></td>
 <td></td>
 </tr>
@@ -99,7 +99,7 @@
 <td><p>1995年7月16日</p></td>
 <td><p>宝石店</p></td>
 <td><p>カラット数の大きいダイヤ → 「<strong>1・2・3・4から揚げやん！</strong>」 リング → リング（<a href="../Page/あしたのジョー.md" title="wikilink">あしたのジョー</a>の真似）「<strong>関係ないわボケ！</strong>」</p>
-<p>首からかけるやつ → <a href="https://ja.wikipedia.org/wiki/フラ" title="wikilink">フラ</a>ダンス</p></td>
+<p>首からかけるやつ → <a href="../Page/フラ.md" title="wikilink">フラ</a>ダンス</p></td>
 <td><p><a href="../Page/野茂英雄.md" title="wikilink">野茂も三振三振</a> 言われるわ</p></td>
 <td></td>
 </tr>
@@ -126,7 +126,7 @@
 <tr class="even">
 <td><p>1995年9月17日</p></td>
 <td><p>薬屋</p></td>
-<td><p>バファリン → タンバリン（<a href="../Page/アン・ルイス.md" title="wikilink">アン・ルイス</a>の「ああ無情」に乗せて演奏） 鼻水を止めたい → <a href="https://ja.wikipedia.org/wiki/梅垣義明" title="wikilink">梅垣義明</a>の真似</p>
+<td><p>バファリン → タンバリン（<a href="../Page/アン・ルイス.md" title="wikilink">アン・ルイス</a>の「ああ無情」に乗せて演奏） 鼻水を止めたい → <a href="../Page/梅垣義明.md" title="wikilink">梅垣義明</a>の真似</p>
 <p>寒気を止めたい → 旗上げゲーム</p>
 <p>「<strong>メチャメチャ寒いし、ちょっとケツつったわ！</strong>」前回の天丼。</p></td>
 <td><p>そんなんやから<a href="https://ja.wikipedia.org/wiki/ボンネット" title="wikilink">ボン</a> <a href="https://ja.wikipedia.org/wiki/ボンネット" title="wikilink">ネットに</a>「死ね」</p>
@@ -156,7 +156,7 @@
 <tr class="odd">
 <td><p>　　10月22日</p></td>
 <td><p>ケーキ屋</p></td>
-<td><p>インディアンネタで<a href="https://ja.wikipedia.org/wiki/橋幸夫" title="wikilink">橋幸夫</a>と<a href="../Page/美空ひばり.md" title="wikilink">美空ひばり</a>のモノマネをさせられ 「<strong>最悪何やの!? この14年間の芸歴何やのぉ！</strong>」と言うシーンがある。</p>
+<td><p>インディアンネタで<a href="../Page/橋幸夫.md" title="wikilink">橋幸夫</a>と<a href="../Page/美空ひばり.md" title="wikilink">美空ひばり</a>のモノマネをさせられ 「<strong>最悪何やの!? この14年間の芸歴何やのぉ！</strong>」と言うシーンがある。</p>
 <p>クレープ → シャワーを浴びて泣いている女のネタ（下ネタ）</p>
 <p>チーズケーキ → 筑前炊き（<a href="../Page/地獄へ道づれ.md" title="wikilink">QUEENの替え歌を披露</a>）</p>
 <p>「<strong>チーズケーキやんっ　筑前炊っきやんっ♪</strong>」</p></td>
@@ -220,7 +220,7 @@
 <tr class="odd">
 <td><p>　　2月11日</p></td>
 <td><p>鮮魚店</p></td>
-<td><p>刺身の盛り合わせ → 寂しい巡り合わせ 初鰹 → 小学2年生8月号（<a href="https://ja.wikipedia.org/wiki/JITTERIN&#39;JINN" title="wikilink">ジッタリンジンの替え歌を披露</a>）</p>
+<td><p>刺身の盛り合わせ → 寂しい巡り合わせ 初鰹 → 小学2年生8月号（<a href="../Page/JITTERIN&#39;JINN.md" title="wikilink">ジッタリンジンの替え歌を披露</a>）</p>
 <p>「<strong>あなたがわたしにくれたもの～　初鰹じゃなく8月号～♪</strong>」</p></td>
 <td><p>性感マッサージで 本番強要して15分</p>
 <p>で帰されるわ！</p></td>
@@ -232,7 +232,7 @@
 <td><p>バーベキュー → ウグイス 「<strong>バーッバベキュ♪</strong>（ホーホケキョの真似）」 手羽先 → 旅先</p>
 <p>牛タン → じゅうたん（<a href="https://ja.wikipedia.org/wiki/スキャットマン・ジョン" title="wikilink">スキャットマン・ジョン</a>に乗せて替え歌）</p>
 <p>「<strong>ぎゅーたんたんたたんたーん スキャットマーン♪</strong>」</p></td>
-<td><p>そりゃ<a href="https://ja.wikipedia.org/wiki/冒冒グラフ" title="wikilink">冒冒グラフ</a>も 早くも終わるわ！</p></td>
+<td><p>そりゃ<a href="../Page/冒冒グラフ.md" title="wikilink">冒冒グラフ</a>も 早くも終わるわ！</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -283,7 +283,7 @@
 ## エピソード
 
   - 傘屋編でネタの完成度の低さに松本が「これカットやで」と言ったネタがそのまま（「これカットやで」のセリフも含め）放送され、ビデオにもそのまま収録された（今田に折り畳み傘と間違えて折れた畳を持ってこられたMr. BATERが「折れたー畳はー寝れませんー♪」と[中条きよし](../Page/中条きよし.md "wikilink")の「[うそ](../Page/うそ_\(中条きよしの曲\).md "wikilink")」の節で歌ったネタ）が、総集編で傘屋編が再放送された際には1ネタ分きちんとカットされていた。松本は「これ、しまって。これ見切れたらつながりおかしいから」と編集の心配をしていた。
-  - [浜田雅功](../Page/浜田雅功.md "wikilink")が主役の[坂本龍馬](../Page/坂本龍馬.md "wikilink")を演じた[ドラマ](../Page/ドラマ.md "wikilink")『[竜馬におまかせ\!](https://ja.wikipedia.org/wiki/竜馬におまかせ! "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）では、竜馬たちが外国人に変装するという場面で「今日パーティー行かなあかんねん」とMr. BATERを[パロディ](../Page/パロディ.md "wikilink")したシーンが放送された。
+  - [浜田雅功](../Page/浜田雅功.md "wikilink")が主役の[坂本龍馬](../Page/坂本龍馬.md "wikilink")を演じた[ドラマ](../Page/ドラマ.md "wikilink")『[竜馬におまかせ\!](../Page/竜馬におまかせ!.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）では、竜馬たちが外国人に変装するという場面で「今日パーティー行かなあかんねん」とMr. BATERを[パロディ](../Page/パロディ.md "wikilink")したシーンが放送された。
   - 2006年1月、NHK教育「[天才てれびくんMAX](https://ja.wikipedia.org/wiki/天才てれびくんMAX "wikilink")」内のコーナー「天てれ東海道駅伝」で[飯田里穂](../Page/飯田里穂.md "wikilink")がMr. BATERに扮した顔で「今日パーティー行かなあかんねん」と言うシーンが放送された。
   - 宇多田ヒカルはMr. BATERのコントが気に入っているらしく、2007年8月12日のフジテレビ系「[HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")」の歌収録の合間に「今日パーティー行かなあかんねん」と「どんどっとっと」を披露したそうである。
   - [KOJI-1200のシングル](../Page/今田耕司.md "wikilink")「ナウ・ロマンティック」アナログ盤では冒頭のインディアンネタで同曲を歌い「いつ売れんねん\!」とBATERが叫ぶくだりが曲前に追加されている。
@@ -304,7 +304,7 @@
 
 1.  その際、目的の商品に求める3大条件を提示してその3つめで怒ることが多い。
 2.  やり取りが何度か続くと「○○早よ持って来ぉーい\!\!」などと怒って言い放つ事もある。
-3.  『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』の早口言葉や『[鳥の詩](https://ja.wikipedia.org/wiki/鳥の詩_\(杉田かおるの曲\) "wikilink")』を歌ってから『[池中玄太80キロ](../Page/池中玄太80キロ.md "wikilink")』の時の[西田敏行](../Page/西田敏行.md "wikilink")など、モノマネをする機会が多かった。
-4.  最後のネタは商品名などを織り交ぜた[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")を歌う事が多かった（スポーツショップの回では[TRF](../Page/TRF.md "wikilink")「[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink")」の節で「[カツカレー](../Page/カツカレー.md "wikilink")」、医院の回では[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")「[Bomb A Head\!](../Page/Bomb_A_Head!.md "wikilink")」の節で「[レントゲン](../Page/X線撮影.md "wikilink")\!、レントゲン\!」、1996年3月10日の和菓子屋の回では[小沢健二](../Page/小沢健二.md "wikilink")「[カローラIIにのって](../Page/カローラIIにのって.md "wikilink")」の節で「[日曜大工](https://ja.wikipedia.org/wiki/日曜大工 "wikilink")持ってきた～」など）。
+3.  『[8時だョ\!全員集合](../Page/8時だョ!全員集合.md "wikilink")』の早口言葉や『[鳥の詩](../Page/鳥の詩_\(杉田かおるの曲\).md "wikilink")』を歌ってから『[池中玄太80キロ](../Page/池中玄太80キロ.md "wikilink")』の時の[西田敏行](../Page/西田敏行.md "wikilink")など、モノマネをする機会が多かった。
+4.  最後のネタは商品名などを織り交ぜた[替え歌](../Page/替え歌.md "wikilink")を歌う事が多かった（スポーツショップの回では[TRF](../Page/TRF.md "wikilink")「[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink")」の節で「[カツカレー](../Page/カツカレー.md "wikilink")」、医院の回では[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")「[Bomb A Head\!](../Page/Bomb_A_Head!.md "wikilink")」の節で「[レントゲン](../Page/X線撮影.md "wikilink")\!、レントゲン\!」、1996年3月10日の和菓子屋の回では[小沢健二](../Page/小沢健二.md "wikilink")「[カローラIIにのって](../Page/カローラIIにのって.md "wikilink")」の節で「[日曜大工](../Page/日曜大工.md "wikilink")持ってきた～」など）。
 5.  ただし、初期の頃は時事・芸能関係のネタを言っていた。「そりゃ、[ジャン＝クロード・ヴァン・ダム](https://ja.wikipedia.org/wiki/ジャン＝クロード・ヴァン・ダム "wikilink")もガムのCM降ろされるわ！」「そりゃ、[カリフォルニア米もパサつくわ](../Page/カリフォルニア州.md "wikilink")！」等）
 6.  この時の模様は『ダウンタウンのごっつええ感じ コント傑作集HISTORY9』に収録されているものであり、本放送ではカットされていた。

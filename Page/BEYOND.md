@@ -29,15 +29,15 @@
 
 彼等が歌う「THE WALL 〜長城〜」の[イントロ部分が](../Page/導入部.md "wikilink")、『[進め\!電波少年](../Page/進め!電波少年.md "wikilink")』（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）のオープニングテーマ曲にも使われ、日本でも徐々に知名度が上がりつつあった。
 
-日本のロックバンド[爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink")とも親交があり、メンバーの[サンプラザ中野は彼らに](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")「[リゾラバ〜international〜](https://ja.wikipedia.org/wiki/リゾ・ラバ_-Resort_Lovers- "wikilink")」の詞を提供している。なお、爆風スランプがカバーした同曲は、[1992年](../Page/1992年.md "wikilink")に発売された『[アジポン](https://ja.wikipedia.org/wiki/アジポン "wikilink")』に収録されている。
+日本のロックバンド[爆風スランプ](../Page/爆風スランプ.md "wikilink")とも親交があり、メンバーの[サンプラザ中野は彼らに](../Page/サンプラザ中野くん.md "wikilink")「[リゾラバ〜international〜](https://ja.wikipedia.org/wiki/リゾ・ラバ_-Resort_Lovers- "wikilink")」の詞を提供している。なお、爆風スランプがカバーした同曲は、[1992年](../Page/1992年.md "wikilink")に発売された『[アジポン](https://ja.wikipedia.org/wiki/アジポン "wikilink")』に収録されている。
 
-[1993年](../Page/1993年.md "wikilink")には「海闊天空」と「[遥かなる夢に](https://ja.wikipedia.org/wiki/遥かなる夢に "wikilink") 〜Far away〜」（海闊天空の日本語歌詞）が、『[驚きももの木20世紀](https://ja.wikipedia.org/wiki/驚きももの木20世紀 "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系・[朝日放送制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）の初代・2代目エンディングテーマ曲に続けて起用された\[1\]\[2\]。
+[1993年](../Page/1993年.md "wikilink")には「海闊天空」と「[遥かなる夢に](https://ja.wikipedia.org/wiki/遥かなる夢に "wikilink") 〜Far away〜」（海闊天空の日本語歌詞）が、『[驚きももの木20世紀](../Page/驚きももの木20世紀.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系・[朝日放送制作](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）の初代・2代目エンディングテーマ曲に続けて起用された\[1\]\[2\]。
 
-[1993年](../Page/1993年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")、バラエティ番組『[ウッチャンナンチャンのやるならやらねば\!](../Page/ウッチャンナンチャンのやるならやらねば!.md "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の収録中にリーダーの黃家駒がセットから転落し[6月30日](../Page/6月30日.md "wikilink")に死亡したため、日本からの撤退を余儀なくされた\[3\]。同時にこの番組も[打ち切られた](https://ja.wikipedia.org/wiki/打ち切り "wikilink")。
+[1993年](../Page/1993年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")、バラエティ番組『[ウッチャンナンチャンのやるならやらねば\!](../Page/ウッチャンナンチャンのやるならやらねば!.md "wikilink")』（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の収録中にリーダーの黃家駒がセットから転落し[6月30日](../Page/6月30日.md "wikilink")に死亡したため、日本からの撤退を余儀なくされた\[3\]。同時にこの番組も[打ち切られた](../Page/打ち切り.md "wikilink")。
 
 ### スリーピース体制から現在にかけて
 
-残されたメンバー3人はその後も香港を拠点に、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[中国などでバンド活動を続けたが](../Page/中華人民共和国.md "wikilink")、[1999年](../Page/1999年.md "wikilink")12月にバンドとしての活動を休止し各自[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")活動に入る。[2003年](../Page/2003年.md "wikilink")に結成20周年を記念したワールドツアーを行いバンドの活動を再開するが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月の[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")でのライブをもって再び活動休止に。
+残されたメンバー3人はその後も香港を拠点に、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[中国などでバンド活動を続けたが](../Page/中華人民共和国.md "wikilink")、[1999年](../Page/1999年.md "wikilink")12月にバンドとしての活動を休止し各自[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")活動に入る。[2003年](../Page/2003年.md "wikilink")に結成20周年を記念したワールドツアーを行いバンドの活動を再開するが、[2005年](../Page/2005年.md "wikilink")10月の[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")でのライブをもって再び活動休止に。
 
 解散後、各メンバーがソロ活動を行っていたが、残されたメンバー3人のいずれの2人がコンサートを開催し、Beyondの楽曲を演奏する。
 
@@ -257,4 +257,4 @@
 
 1.  [Overachievement 家駒の事故について](http://dl.dropbox.com/u/44381108/beyond/accident.html)リンク切れ
 2.  [1999年](../Page/1999年.md "wikilink")の夏頃から、「遥かなる夢に 〜Far away〜」が再び、同番組のエンディングテーマ曲として使われた。
-3.  2年後、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には『[SOUND WEATHER](https://ja.wikipedia.org/wiki/SOUND_WEATHER "wikilink")』（フジテレビ系）で「アリガトウ」の[PVが何回か流れるなど](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、一部の活動はあった。
+3.  2年後、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")には『[SOUND WEATHER](https://ja.wikipedia.org/wiki/SOUND_WEATHER "wikilink")』（フジテレビ系）で「アリガトウ」の[PVが何回か流れるなど](../Page/ミュージック・ビデオ.md "wikilink")、一部の活動はあった。

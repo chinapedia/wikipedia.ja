@@ -35,7 +35,7 @@
 
 ## 番組にゲスト出演経験のある有名人
 
-[新崎人生](../Page/新崎人生.md "wikilink")、[後藤田正純](https://ja.wikipedia.org/wiki/後藤田正純 "wikilink")など　　　（書きかけ）
+[新崎人生](../Page/新崎人生.md "wikilink")、[後藤田正純](../Page/後藤田正純.md "wikilink")など　　　（書きかけ）
 
 ## 外部リンク
 

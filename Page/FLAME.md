@@ -1,7 +1,7 @@
 > この記事は[FLAME](https://ja.wikipedia.org/wiki/FLAME)から翻訳されています。
 
 
-**FLAME**（フレイム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である。[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")所属、レーベルは[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。2010年に解散した。
+**FLAME**（フレイム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")である。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属、レーベルは[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。2010年に解散した。
 
 [ジュノン・スーパーボーイ・コンテスト](../Page/ジュノン・スーパーボーイ・コンテスト.md "wikilink")によって選ばれた4人で結成された。「炎」を意味するグループ名は[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[プレゼンタイガー](../Page/プレゼンタイガー.md "wikilink")』で名付けられた。
 
@@ -17,11 +17,11 @@
 
 ## メンバー
 
-  - **[伊崎右典](https://ja.wikipedia.org/wiki/伊崎右典 "wikilink")**（いざき ゆうすけ、、[大阪府](../Page/大阪府.md "wikilink")[阪南市](https://ja.wikipedia.org/wiki/阪南市 "wikilink")出身）
+  - **[伊崎右典](../Page/伊崎右典.md "wikilink")**（いざき ゆうすけ、、[大阪府](../Page/大阪府.md "wikilink")[阪南市](https://ja.wikipedia.org/wiki/阪南市 "wikilink")出身）
       - [グロリアスクリエーションズ](https://ja.wikipedia.org/wiki/グロリアスクリエーションズ "wikilink")所属。
-  - **[伊崎央登](https://ja.wikipedia.org/wiki/伊崎央登 "wikilink")**（いざき ひさと、、[大阪府](../Page/大阪府.md "wikilink")[阪南市](https://ja.wikipedia.org/wiki/阪南市 "wikilink")出身）
+  - **[伊崎央登](../Page/伊崎央登.md "wikilink")**（いざき ひさと、、[大阪府](../Page/大阪府.md "wikilink")[阪南市](https://ja.wikipedia.org/wiki/阪南市 "wikilink")出身）
       - グロリアスクリエーションズ所属。
-  - **[北村悠](https://ja.wikipedia.org/wiki/北村悠 "wikilink")**（きたむら ゆう、、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[小山市](../Page/小山市.md "wikilink")出身）
+  - **[北村悠](../Page/北村悠.md "wikilink")**（きたむら ゆう、、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[小山市](../Page/小山市.md "wikilink")出身）
       - グロリアスクリエーションズ所属。
   - **[野口征吾](../Page/野口征吾.md "wikilink")**（のぐち せいご、、[東京都](../Page/東京都.md "wikilink")出身）
       - 金子の脱退後に加入。
@@ -37,7 +37,7 @@
 1.  **[ムネノコドウ](https://ja.wikipedia.org/wiki/ムネノコドウ "wikilink")**（2001年10月3日、9位）
       - フジテレビ『[ウチくる\!?](../Page/ウチくる!?.md "wikilink")』エンディングテーマ
 2.  **[BYE MY LOVE](https://ja.wikipedia.org/wiki/BYE_MY_LOVE "wikilink")**（2002年1月17日、6位）
-      - [明治製菓](../Page/明治製菓.md "wikilink")「こつぶチョコシリーズ」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+      - [明治製菓](../Page/明治製菓.md "wikilink")「こつぶチョコシリーズ」[CMソング](../Page/コマーシャルソング.md "wikilink")
       - NTV系『[日本のミカタ](https://ja.wikipedia.org/wiki/日本のミカタ "wikilink")』エンディングテーマ
 3.  **[What Can I Do](https://ja.wikipedia.org/wiki/What_Can_I_Do "wikilink")**（2002年4月24日、8位）
       - 明治製菓「こつぶチョコシリーズ」CMソング
@@ -53,7 +53,7 @@
 7.  **FUNDAMENTAL LOOP**（2004年3月3日、14位）
 8.  **Shake You Down**（2005年2月16日、18位）
       - 日本テレビ『[サルヂエ](../Page/サルヂエ.md "wikilink")』エンディング・テーマ\#\*
-      - 日本テレビ『[少年チャンプル](https://ja.wikipedia.org/wiki/少年チャンプル "wikilink")』エンディングテーマ
+      - 日本テレビ『[少年チャンプル](../Page/少年チャンプル.md "wikilink")』エンディングテーマ
 9.  **離したくはない**（2006年11月15日、31位）
       - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[マージナルプリンス〜月桂樹の王子達〜](https://ja.wikipedia.org/wiki/マージナルプリンス〜月桂樹の王子達〜 "wikilink")』オープニングテーマ
 10. **TOKYO...**（2008年6月28日）　
@@ -125,10 +125,10 @@
   - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink"))
   - [FUN](../Page/FUN.md "wikilink")([日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink"))
   - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")([TBSテレビ](../Page/TBSテレビ.md "wikilink"))
-  - [AX MUSIC-TV](https://ja.wikipedia.org/wiki/AX_MUSIC-TV "wikilink")(日本テレビ)
+  - [AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink")(日本テレビ)
   - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")([NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink"))
   - [大改造\!\!劇的ビフォーアフター](../Page/大改造!!劇的ビフォーアフター.md "wikilink")（2002年頃、[ABC](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")） - 恭平、悠のみ
-  - [BEAT MOTION](https://ja.wikipedia.org/wiki/BEAT_MOTION "wikilink")(NHK [BS-2](../Page/NHK衛星第2テレビジョン.md "wikilink"))
+  - [BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")(NHK [BS-2](../Page/NHK衛星第2テレビジョン.md "wikilink"))
   - [BEAT BOX](https://ja.wikipedia.org/wiki/BEAT_BOX "wikilink")（2002年4月 - 6月、[MXTV](https://ja.wikipedia.org/wiki/MXTV "wikilink")）
   - [5時の魔法使い](../Page/5時の魔法使い.md "wikilink")（2002年7月 - 12月、MXTV）
   - FACTORY GENERATION（2003年3月 - 2005年2月、TVBS-G）
@@ -171,7 +171,7 @@
 
 ## 関連項目
 
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink") - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink") - [FLAME](https://ja.wikipedia.org/wiki/FLAME "wikilink")/[EMALF](https://ja.wikipedia.org/wiki/EMALF "wikilink") - [Lead](../Page/Lead.md "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink") - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink") - [FLAME](../Page/FLAME.md "wikilink")/[EMALF](https://ja.wikipedia.org/wiki/EMALF "wikilink") - [Lead](../Page/Lead.md "wikilink")
 
 ## 外部リンク
 

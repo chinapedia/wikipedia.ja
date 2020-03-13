@@ -11,9 +11,9 @@
 
 また、名前にFNNが付く場合もある。夜の場合、災害・事件が発生した場合には『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』を差し替えて放送（名前にFNNが付くのは日曜日11:50フジテレビの『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』の差し替え枠のみ（2016年3月27日を以って終了、2019年現在は『[FNN Live News days](https://ja.wikipedia.org/wiki/FNN_Live_News_days "wikilink")』として放送。）。フジテレビでの長時間特番（21時をまたぐような番組、『[FNS歌謡祭](../Page/FNS歌謡祭.md "wikilink")』以外）では『FNNレインボー発』のオープニング映像を途中まで流し、切った後に福島のニュースをひとつ伝え、[CM](../Page/コマーシャルメッセージ.md "wikilink")（通常提供のPT）を入れて福島の天気予報を短く入れる。タイプは[福島市](../Page/福島市.md "wikilink")の夜景にテロップを貼り付けたものである。2011年3月28日から音声は『FNNレインボー発』のまま、映像のみ福島市の夜景に白テロップで「FTVニュース」に変更された（2015年3月まで）。
 
-[1980年代](../Page/1980年代.md "wikilink")の一時期の日曜日は、タイトルが同じで中身が『[FNNニュース・明日の天気](../Page/FNNニュース・明日の天気.md "wikilink")』に差し替えられていた時期があり、新聞にも[二ヶ国語放送と表記されていたほか](https://ja.wikipedia.org/wiki/2か国語放送 "wikilink")、[19:58のミニニュースは](https://ja.wikipedia.org/wiki/ショットガン_\(ニュース\) "wikilink")『FNNテレスポット』に改題されていた。
+[1980年代](../Page/1980年代.md "wikilink")の一時期の日曜日は、タイトルが同じで中身が『[FNNニュース・明日の天気](../Page/FNNニュース・明日の天気.md "wikilink")』に差し替えられていた時期があり、新聞にも[二ヶ国語放送と表記されていたほか](../Page/2か国語放送.md "wikilink")、[19:58のミニニュースは](../Page/ショットガン_\(ニュース\).md "wikilink")『FNNテレスポット』に改題されていた。
 
-ローカル番組としては珍しく、2000年まではヤンマーディーゼル（現：[ヤンマー](https://ja.wikipedia.org/wiki/ヤンマー "wikilink")）が提供だった（20:54枠、タイトルは『ヤンマー提供FTVニュース』、この時にも『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』のキャラクターが登場した）。ヤンマーと隔日交代（月曜日 - 土曜日）で、地元百貨店の[うすい百貨店](../Page/うすい百貨店.md "wikilink")（[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")）と地酒メーカーの[栄川酒造](../Page/栄川酒造.md "wikilink")（[会津若松市](https://ja.wikipedia.org/wiki/会津若松市 "wikilink")）と[花春酒造](https://ja.wikipedia.org/wiki/花春酒造 "wikilink")（同じく会津若松市）も提供だった。
+ローカル番組としては珍しく、2000年まではヤンマーディーゼル（現：[ヤンマー](../Page/ヤンマー.md "wikilink")）が提供だった（20:54枠、タイトルは『ヤンマー提供FTVニュース』、この時にも『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』のキャラクターが登場した）。ヤンマーと隔日交代（月曜日 - 土曜日）で、地元百貨店の[うすい百貨店](../Page/うすい百貨店.md "wikilink")（[郡山市](https://ja.wikipedia.org/wiki/郡山市 "wikilink")）と地酒メーカーの[栄川酒造](../Page/栄川酒造.md "wikilink")（[会津若松市](https://ja.wikipedia.org/wiki/会津若松市 "wikilink")）と[花春酒造](https://ja.wikipedia.org/wiki/花春酒造 "wikilink")（同じく会津若松市）も提供だった。
 
 ## 担当アナウンサー
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   - 『FNN Live News days』および日曜夕方の『[Live News it\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")』でも、番組後半にローカルニュースと県内の天気予報を伝えている（但し、土曜日昼枠の天気予報は『[サタふく](../Page/サタふく.md "wikilink")』の中で伝えている）。
-  - [年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")には、昼・夕方の『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』（『[FNNプライムニュース デイズ](https://ja.wikipedia.org/wiki/FNNプライムニュース_デイズ "wikilink")』、『[FTVテレポートプラス](https://ja.wikipedia.org/wiki/FTVテレポートプラス "wikilink")』、『[プライムニュース イブニング](https://ja.wikipedia.org/wiki/プライムニュース_イブニング "wikilink")』の代替）のローカル枠にて県内ニュースを伝えている。
+  - [年末年始](../Page/年末年始.md "wikilink")には、昼・夕方の『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』（『[FNNプライムニュース デイズ](https://ja.wikipedia.org/wiki/FNNプライムニュース_デイズ "wikilink")』、『[FTVテレポートプラス](https://ja.wikipedia.org/wiki/FTVテレポートプラス "wikilink")』、『[プライムニュース イブニング](https://ja.wikipedia.org/wiki/プライムニュース_イブニング "wikilink")』の代替）のローカル枠にて県内ニュースを伝えている。
 
 ## 外部リンク
 

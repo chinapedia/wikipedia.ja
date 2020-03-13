@@ -27,7 +27,7 @@
   - 5010, 5011, 5020, 5021, 5073
     オロナイトジャパン（現・[シェブロンオロナイト](https://ja.wikipedia.org/wiki/シェブロンオロナイト "wikilink")）所有、[石油添加剤A](https://ja.wikipedia.org/wiki/石油添加剤A "wikilink")専用。
   - 5012 - 5019
-    化成物流（現・[三菱ケミカル物流](https://ja.wikipedia.org/wiki/三菱ケミカル物流 "wikilink")）所有、[テトラヒドロフラン](https://ja.wikipedia.org/wiki/テトラヒドロフラン "wikilink")専用。
+    化成物流（現・[三菱ケミカル物流](../Page/三菱ケミカル物流.md "wikilink")）所有、[テトラヒドロフラン](../Page/テトラヒドロフラン.md "wikilink")専用。
     後に[ヘキセン](https://ja.wikipedia.org/wiki/ヘキセン "wikilink")-1専用に、更に後に[エチレングリコール](../Page/エチレングリコール.md "wikilink")専用に変更。
   - 5022 - 5027, 5030 - 5035, 5058 - 5066
     [大分ケミカル](https://ja.wikipedia.org/wiki/大分ケミカル "wikilink")所有、[アクロレイン](../Page/アクロレイン.md "wikilink")専用。
@@ -42,7 +42,7 @@
   - 5074, 5075, 5078, 5079
     [東亞合成](../Page/東亞合成.md "wikilink")所有、[アクリル酸ジメチルアミノエチル](https://ja.wikipedia.org/wiki/アクリル酸ジメチルアミノエチル "wikilink")専用。
   - 5076, 5077
-    日陸所有、[アクリル樹脂](https://ja.wikipedia.org/wiki/アクリル樹脂 "wikilink")溶液専用。
+    日陸所有、[アクリル樹脂](../Page/アクリル樹脂.md "wikilink")溶液専用。
   - 5080
     [中谷運送](https://ja.wikipedia.org/wiki/中谷運送 "wikilink")所有、[グリコソルブ](https://ja.wikipedia.org/wiki/グリコソルブ "wikilink")専用。
   - 5081 - 5086
@@ -64,7 +64,7 @@
     空コンテナの場合は[フォークリフト](../Page/フォークリフト.md "wikilink")の使用が可能であるが、積コンテナの場合はフォークリフトを使用する事ができなくなるので、[トップリフター](../Page/トップリフター.md "wikilink")を用いる。
     2006年を最後にコンテナ輸送が終了。その後は関西化成品輸送所有（同和通運借受）となり、廃アルカリ専用・最大総重量13.5t又は廃[塩化カリウム](../Page/塩化カリウム.md "wikilink")専用・最大総重量15.0tに変更。コキ200･106積載限定解除。後に廃アルカリ専用へ変更したものは[UT11C-5081 -](https://ja.wikipedia.org/wiki/JR貨物UT11C形コンテナ#5000番台 "wikilink") へ改番か。
   - 8027
-    [高砂運輸](https://ja.wikipedia.org/wiki/高砂運輸 "wikilink")所有、[食用油脂専用](../Page/油脂.md "wikilink")。最大総重量14.0t（規格外）。[梅田](https://ja.wikipedia.org/wiki/梅田信号場 "wikilink") - [新座間専用](https://ja.wikipedia.org/wiki/新座貨物ターミナル駅 "wikilink")。
+    [高砂運輸](https://ja.wikipedia.org/wiki/高砂運輸 "wikilink")所有、[食用油脂専用](../Page/油脂.md "wikilink")。最大総重量14.0t（規格外）。[梅田](https://ja.wikipedia.org/wiki/梅田信号場 "wikilink") - [新座間専用](../Page/新座貨物ターミナル駅.md "wikilink")。
 
 ## 関連項目
 

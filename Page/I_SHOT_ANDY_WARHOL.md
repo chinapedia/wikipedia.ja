@@ -9,15 +9,15 @@
 
 [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[6月](../Page/6月.md "wikilink")、ヴァレリー・ソラナスはアンディ・ウォーホルを銃撃し、その夜、[警察](../Page/警察.md "wikilink")に[自首](../Page/自首.md "wikilink")した。
 
-[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")に生まれたソラナスは、少女時代に父親に[虐待](https://ja.wikipedia.org/wiki/虐待 "wikilink")された経験があった。優秀であった彼女は大学で[心理学](../Page/心理学.md "wikilink")を学んだが、大学時代に自分が[レズビアン](../Page/レズビアン.md "wikilink")であることを自覚し、[ニューヨーク](../Page/ニューヨーク.md "wikilink")に移ってからも[売春](../Page/売春.md "wikilink")で生活費を稼ぎながら執筆活動をし、[アンダーグラウンド](https://ja.wikipedia.org/wiki/アンダーグラウンド "wikilink")の世界ともつながりを持つようになる。
+[ニュージャージー州](../Page/ニュージャージー州.md "wikilink")に生まれたソラナスは、少女時代に父親に[虐待](https://ja.wikipedia.org/wiki/虐待 "wikilink")された経験があった。優秀であった彼女は大学で[心理学](../Page/心理学.md "wikilink")を学んだが、大学時代に自分が[レズビアン](../Page/レズビアン.md "wikilink")であることを自覚し、[ニューヨーク](../Page/ニューヨーク.md "wikilink")に移ってからも[売春](../Page/売春.md "wikilink")で生活費を稼ぎながら執筆活動をし、[アンダーグラウンド](../Page/アンダーグラウンド.md "wikilink")の世界ともつながりを持つようになる。
 
 ## キャスト
 
-  - [リリ・テイラー](https://ja.wikipedia.org/wiki/リリ・テイラー "wikilink")：
+  - [リリ・テイラー](../Page/リリ・テイラー.md "wikilink")：
 
-  - [ジャレッド・ハリス](https://ja.wikipedia.org/wiki/ジャレッド・ハリス "wikilink")：[アンディ・ウォーホル](../Page/アンディ・ウォーホル.md "wikilink")
+  - [ジャレッド・ハリス](../Page/ジャレッド・ハリス.md "wikilink")：[アンディ・ウォーホル](../Page/アンディ・ウォーホル.md "wikilink")
 
-  - [マーサ・プリンプトン](https://ja.wikipedia.org/wiki/マーサ・プリンプトン "wikilink")：スティーヴィー
+  - [マーサ・プリンプトン](../Page/マーサ・プリンプトン.md "wikilink")：スティーヴィー
 
   - ：アイリス
 
@@ -27,7 +27,7 @@
 
   - ジェイミー・ハロルド：
 
-  - [スティーヴン・ドーフ](https://ja.wikipedia.org/wiki/スティーヴン・ドーフ "wikilink")：
+  - [スティーヴン・ドーフ](../Page/スティーヴン・ドーフ.md "wikilink")：
 
   - ：
 
@@ -37,7 +37,7 @@
 
   - [ビル・セイジ](https://ja.wikipedia.org/wiki/ビル・セイジ "wikilink")：
 
-  - [ジャスティン・セロー](https://ja.wikipedia.org/wiki/ジャスティン・セロー "wikilink")：マーク
+  - [ジャスティン・セロー](../Page/ジャスティン・セロー.md "wikilink")：マーク
 
   - [ジル・ヘネシー](https://ja.wikipedia.org/wiki/ジル・ヘネシー "wikilink")：ローラ
 

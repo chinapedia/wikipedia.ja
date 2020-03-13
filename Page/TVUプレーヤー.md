@@ -15,7 +15,7 @@ TV番組の再配信を行うものであったため非常に違法性が高い
 
 ###
 
-  - [CCTV](https://ja.wikipedia.org/wiki/中国中央電視台 "wikilink")-1, CCTV-2
+  - [CCTV](../Page/中国中央電視台.md "wikilink")-1, CCTV-2
 
 ###
 
@@ -26,7 +26,7 @@ TV番組の再配信を行うものであったため非常に違法性が高い
 ###
 
   - [CBS](../Page/CBS.md "wikilink")
-  - [FOXニュース](https://ja.wikipedia.org/wiki/FOXニュース "wikilink")
+  - [FOXニュース](../Page/FOXニュース.md "wikilink")
   - [NASA TV](https://ja.wikipedia.org/wiki/NASA_TV "wikilink")
 
 ###

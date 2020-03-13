@@ -1,7 +1,7 @@
 > この記事は[Secret \(\)](https://ja.wikipedia.org/wiki/Secret_\(\))から翻訳されています。
 
 
-『**Secret**』（シークレット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の8枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Secret**』（シークレット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の8枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
@@ -17,7 +17,7 @@
 
 ### DISC1 (CD)
 
-  - 全14曲収録 全曲[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink") : ayumi hamasaki
+  - 全14曲収録 全曲[作詞](../Page/作詞.md "wikilink") : ayumi hamasaki
 
 <!-- end list -->
 
@@ -32,12 +32,12 @@
       -
         composition : [Kazuhiro Hara](../Page/原一博.md "wikilink") / arrangement : CMJK
         39thシングル
-        [カプコン](../Page/カプコン.md "wikilink")[PS2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[新鬼武者 DAWN OF DREAMS](https://ja.wikipedia.org/wiki/鬼武者 "wikilink")』OPテーマ
+        [カプコン](../Page/カプコン.md "wikilink")[PS2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[新鬼武者 DAWN OF DREAMS](../Page/鬼武者.md "wikilink")』OPテーマ
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』2006年2月・3月期テーマソング
 4.  **1 LOVE**
       -
-        composition : Yoji Noi / arrangement : [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") SDオーディオプレイヤー「[D-snap](https://ja.wikipedia.org/wiki/D-snap "wikilink")」/SDミニコンポ「[D-dock](../Page/D-dock.md "wikilink")」TV-[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+        composition : Yoji Noi / arrangement : [HΛL](../Page/HΛL.md "wikilink")
+        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") SDオーディオプレイヤー「[D-snap](../Page/D-snap.md "wikilink")」/SDミニコンポ「[D-dock](../Page/D-dock.md "wikilink")」TV-[CMソング](../Page/コマーシャルソング.md "wikilink")
 5.  **It was**
       -
         composition : Naruya Ihashi / arrangmenet : [tasuku](https://ja.wikipedia.org/wiki/tasuku "wikilink")
@@ -49,7 +49,7 @@
       -
         composition : [Tetsuya Yukumi](../Page/湯汲哲也.md "wikilink") / arrangemnet : [Shingo Kobayashi](https://ja.wikipedia.org/wiki/小林信吾 "wikilink")
         Panasonic デジタルカメラ「[LUMIX](../Page/LUMIX.md "wikilink") FX07」CMソング
-        『[第57回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第57回NHK紅白歌合戦 "wikilink")』において、初のアルバム曲にて出場をした。
+        『[第57回NHK紅白歌合戦](../Page/第57回NHK紅白歌合戦.md "wikilink")』において、初のアルバム曲にて出場をした。
 8.  **momentum**
       -
         composition : Tetsuya Yukumi / arrangement : HΛL
@@ -66,7 +66,7 @@
       -
         composition : [Kazuhito Kikuchi](../Page/菊池一仁.md "wikilink") / arrangement : CMJK
         40thシングルの[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")
-        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[D-snap](https://ja.wikipedia.org/wiki/D-snap "wikilink") Audio」/「D-dock」CMソング
+        [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink")「[D-snap](../Page/D-snap.md "wikilink") Audio」/「D-dock」CMソング
 12. **[BLUE BIRD](../Page/BLUE_BIRD_\(浜崎あゆみの曲\).md "wikilink")**
       -
         composition : [D・A・I](https://ja.wikipedia.org/wiki/D・A・I "wikilink") / arrangement : HΛL

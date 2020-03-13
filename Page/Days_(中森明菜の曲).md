@@ -1,15 +1,15 @@
 > この記事は[Days \(\)](https://ja.wikipedia.org/wiki/Days_\(\))から翻訳されています。
 
 
-「**Days**」（デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の42枚目の[シングル](../Page/シングル.md "wikilink")として、2003年4月30日に[ユニバーサルJよりリリースされた](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink") ([12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): UMCK-5094)。
+「**Days**」（デイズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の楽曲。この楽曲は彼女の42枚目の[シングル](../Page/シングル.md "wikilink")として、2003年4月30日に[ユニバーサルJよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") ([12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): UMCK-5094)。
 
 ## 背景
 
-「Days」は、2003年5月14日発売の中森の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『[I hope so](https://ja.wikipedia.org/wiki/I_hope_so "wikilink")』からの先行[シングル](../Page/シングル.md "wikilink")として、2003年4月30日に[CDシングル](https://ja.wikipedia.org/wiki/CDシングル "wikilink") ([12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): UMCK-5094)でリリースされた\[1\]\[2\]。2005年7月1日には[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")でもリリースされた\[3\]\[4\]。本作は、[インストゥルメンタルを含めた自身初の](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")5曲収録のシングルとなった\[5\]\[6\]。本作の[プロデュースには](../Page/音楽プロデューサー.md "wikilink")、[武部聡志](../Page/武部聡志.md "wikilink")を迎えた\[7\]。武部は、スタジオ・アルバム『I hope so』のプロデュースも担当した\[8\]\[9\]。「Days」は、[織田哲郎](../Page/織田哲郎.md "wikilink")が作曲し、プロデュースを務める武部が編曲を手掛け、中森が作詞した\[10\]。シングル[A面での中森の作詞は](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")、1995年11月の「[Tokyo Rose](https://ja.wikipedia.org/wiki/Tokyo_Rose_\(中森明菜の曲\) "wikilink")」以来であった\[11\]\[12\]。「Days」は、[テレビ東京系](https://ja.wikipedia.org/wiki/TXN "wikilink")『[女と愛とミステリー](https://ja.wikipedia.org/wiki/女と愛とミステリー "wikilink")』エンディングテーマ曲に起用された\[13\]\[14\]。この楽曲の[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")も制作され、『I hope so』の初回限定盤のDVDに収録された\[15\]。このミュージック・ビデオの監督は、嘉本哲也が務めた\[16\]。
+「Days」は、2003年5月14日発売の中森の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")『[I hope so](../Page/I_hope_so.md "wikilink")』からの先行[シングル](../Page/シングル.md "wikilink")として、2003年4月30日に[CDシングル](https://ja.wikipedia.org/wiki/CDシングル "wikilink") ([12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): UMCK-5094)でリリースされた\[1\]\[2\]。2005年7月1日には[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")でもリリースされた\[3\]\[4\]。本作は、[インストゥルメンタルを含めた自身初の](../Page/器楽曲.md "wikilink")5曲収録のシングルとなった\[5\]\[6\]。本作の[プロデュースには](../Page/音楽プロデューサー.md "wikilink")、[武部聡志](../Page/武部聡志.md "wikilink")を迎えた\[7\]。武部は、スタジオ・アルバム『I hope so』のプロデュースも担当した\[8\]\[9\]。「Days」は、[織田哲郎](../Page/織田哲郎.md "wikilink")が作曲し、プロデュースを務める武部が編曲を手掛け、中森が作詞した\[10\]。シングル[A面での中森の作詞は](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")、1995年11月の「[Tokyo Rose](../Page/Tokyo_Rose_\(中森明菜の曲\).md "wikilink")」以来であった\[11\]\[12\]。「Days」は、[テレビ東京系](https://ja.wikipedia.org/wiki/TXN "wikilink")『[女と愛とミステリー](../Page/女と愛とミステリー.md "wikilink")』エンディングテーマ曲に起用された\[13\]\[14\]。この楽曲の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")も制作され、『I hope so』の初回限定盤のDVDに収録された\[15\]。このミュージック・ビデオの監督は、嘉本哲也が務めた\[16\]。
 
-シングル盤「Days」の2曲目として発表された「華 -HANA-」は、[NHK-BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")『[地球ウォーカー](https://ja.wikipedia.org/wiki/地球ウォーカー "wikilink")』テーマ曲で、夏野芹子の作詞と[内池秀和](https://ja.wikipedia.org/wiki/内池秀和 "wikilink")の作曲に、[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")が編曲を手掛けた楽曲である\[17\]。同曲は同スタジオ・アルバムには未収録であったが、2006年1月発売の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』に収録された\[18\]\[19\]\[20\]。
+シングル盤「Days」の2曲目として発表された「華 -HANA-」は、[NHK-BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")『[地球ウォーカー](https://ja.wikipedia.org/wiki/地球ウォーカー "wikilink")』テーマ曲で、夏野芹子の作詞と[内池秀和](../Page/内池秀和.md "wikilink")の作曲に、[鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")が編曲を手掛けた楽曲である\[17\]。同曲は同スタジオ・アルバムには未収録であったが、2006年1月発売の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』に収録された\[18\]\[19\]\[20\]。
 
-続いてシングル「Days」の[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として3曲目には、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") (ムービーメール)のイメージCMソングに起用された[松田聖子](../Page/松田聖子.md "wikilink")の[カバー](../Page/カバー.md "wikilink")曲「[瑠璃色の地球](https://ja.wikipedia.org/wiki/-ZEROalbum-_歌姫2 "wikilink")」（[カバー・アルバム](https://ja.wikipedia.org/wiki/カバー・アルバム "wikilink")『[-ZEROalbum- 歌姫2](https://ja.wikipedia.org/wiki/-ZEROalbum-_歌姫2 "wikilink")』より）が収録された\[21\]\[22\]。本作で収録された同カバー曲のアレンジは、同カバー・アルバム収録と同様に[千住明](../Page/千住明.md "wikilink")である\[23\]\[24\]。
+続いてシングル「Days」の[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として3曲目には、[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink") (ムービーメール)のイメージCMソングに起用された[松田聖子](../Page/松田聖子.md "wikilink")の[カバー](../Page/カバー.md "wikilink")曲「[瑠璃色の地球](../Page/-ZEROalbum-_歌姫2.md "wikilink")」（[カバー・アルバム](https://ja.wikipedia.org/wiki/カバー・アルバム "wikilink")『[-ZEROalbum- 歌姫2](../Page/-ZEROalbum-_歌姫2.md "wikilink")』より）が収録された\[21\]\[22\]。本作で収録された同カバー曲のアレンジは、同カバー・アルバム収録と同様に[千住明](../Page/千住明.md "wikilink")である\[23\]\[24\]。
 
 ## 批評
 
@@ -17,7 +17,7 @@
 
 ## チャート成績
 
-この楽曲は、[オリコン週間シングルチャートの](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2003年5月12日付で、最高順位30位を記録した\[27\]\[28\]。同チャートには、計4週に渡ってランクインしている\[29\]。
+この楽曲は、[オリコン週間シングルチャートの](../Page/オリコンチャート.md "wikilink")2003年5月12日付で、最高順位30位を記録した\[27\]\[28\]。同チャートには、計4週に渡ってランクインしている\[29\]。
 
 ## 収録曲
 
@@ -30,7 +30,7 @@
       - [Cut Guitar](../Page/ギター.md "wikilink"): [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
       - [Keyboards](../Page/キーボード_\(楽器\).md "wikilink"): [武部聡志](../Page/武部聡志.md "wikilink")
       - [Strings](https://ja.wikipedia.org/wiki/ストリングス "wikilink"): [弦一徹](https://ja.wikipedia.org/wiki/弦一徹 "wikilink")ストリングス
-      - [Synthesizer](../Page/シンセサイザー.md "wikilink") [Programing](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink"): 山中雅文
+      - [Synthesizer](../Page/シンセサイザー.md "wikilink") [Programing](../Page/ミュージックシーケンサー.md "wikilink"): 山中雅文
   - 「華 -HANA-」
       - Cut Guitar & Synthesizer Programing: [鳥山雄司](https://ja.wikipedia.org/wiki/鳥山雄司 "wikilink")
       - 鳥山雄司 by the courtesy of [Sony Music Records](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink") Inc.
@@ -58,12 +58,12 @@
 ## 収録作品
 
   - 「Days」
-      - 『[I hope so](https://ja.wikipedia.org/wiki/I_hope_so "wikilink")』\[31\]\[32\]
+      - 『[I hope so](../Page/I_hope_so.md "wikilink")』\[31\]\[32\]
       - 『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』\[33\]\[34\]
   - 「華 -HANA-」 - 『[BEST FINGER 25th anniversary selection](../Page/BEST_FINGER_25th_anniversary_selection.md "wikilink")』\[35\]\[36\]
   - 「瑠璃色の地球」
-      - 『[-ZEROalbum- 歌姫2](https://ja.wikipedia.org/wiki/-ZEROalbum-_歌姫2 "wikilink")』\[37\]\[38\]
-      - 『[歌姫 Complete Box Empress](https://ja.wikipedia.org/wiki/歌姫_Complete_Box_Empress "wikilink")』\[39\]\[40\]
+      - 『[-ZEROalbum- 歌姫2](../Page/-ZEROalbum-_歌姫2.md "wikilink")』\[37\]\[38\]
+      - 『[歌姫 Complete Box Empress](../Page/歌姫_Complete_Box_Empress.md "wikilink")』\[39\]\[40\]
       - 『[歌姫ベスト 〜25th Anniversary Selection〜](../Page/歌姫ベスト_〜25th_Anniversary_Selection〜.md "wikilink")』\[41\]\[42\]
 
 ## 参照

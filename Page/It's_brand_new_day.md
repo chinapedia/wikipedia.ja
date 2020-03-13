@@ -5,7 +5,7 @@
 
 ## 背景
 
-「It's brand new day」は、[@niftyの音楽コンテンツ](https://ja.wikipedia.org/wiki/ニフティ#@nifty "wikilink")[Music@nifty](../Page/MOOCS.md "wikilink")（現@niftyミュージック）内の[インディーズ](../Page/インディーズ.md "wikilink")[レーベル](../Page/レコードレーベル.md "wikilink")@easeから、2001年5月31日に[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")で発売された楽曲で、前作「[Trust Me](https://ja.wikipedia.org/wiki/Trust_Me_\(中森明菜の曲\) "wikilink")」からおよそ1年半ぶりの[シングル](../Page/シングル.md "wikilink")となった\[1\]\[2\]\[3\]\[4\]。この楽曲は、Adyaによって楽曲提供され、本作の[音楽プロデュース](https://ja.wikipedia.org/wiki/音楽プロデュース "wikilink")を務めたURUが編曲した\[5\]。デジタル・ダウンロードでのリリース後、この楽曲を引っ提げて2001年6月6日から2001年7月13日に行われた中森のコンサート・ツアー[ALL ABOUT AKINA 20th Anniversary IT'S BRAND NEW DAYの会場内で](https://ja.wikipedia.org/wiki/Akina_Nakamori._2001._20th_Anniversary_Live_〜It's_brand_new_day〜#ALL_ABOUT_AKINA_20th_Anniversary_IT'S_BRAND_NEW_DAY "wikilink")[CDシングル](https://ja.wikipedia.org/wiki/CDシングル "wikilink") ([12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): NNCC-10001)の販売が開始され、2001年7月10日にはMusic@niftyのオンラインストアにてCDの通信販売が展開し、2001年8月8日からは一部レコード店でもCD販売された\[6\]\[7\]\[8\]。音楽配信とマキシシングルでのリリースは自身初であった。2002年になり、中森が[ユニバーサルミュージックにレーベル移籍したことにより](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、「It's brand new day」は2002年5月発売の[スタジオ・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")『[Resonancia](https://ja.wikipedia.org/wiki/Resonancia "wikilink")』からレーベルを超えての先行シングルとなった\[9\]\[10\]\[11\]\[12\]。楽曲のジャンルについて@easeでは、[R\&Bと解説している](../Page/リズム・アンド・ブルース.md "wikilink")\[13\]。中森はこの楽曲のインタビューで、幼い頃から洋楽が好きで洋楽系の楽曲を歌いたかったことを明かしている\[14\]\[15\]。これまで、自身によるプロデュースが可能になってから、洋楽系の資料をスタッフに渡し提案をしてきたものの実現には至らなかったが、今回ようやく想いが実ったと語っている\[16\]\[17\]。
+「It's brand new day」は、[@niftyの音楽コンテンツ](https://ja.wikipedia.org/wiki/ニフティ#@nifty "wikilink")[Music@nifty](../Page/MOOCS.md "wikilink")（現@niftyミュージック）内の[インディーズ](../Page/インディーズ.md "wikilink")[レーベル](../Page/レコードレーベル.md "wikilink")@easeから、2001年5月31日に[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")で発売された楽曲で、前作「[Trust Me](../Page/Trust_Me_\(中森明菜の曲\).md "wikilink")」からおよそ1年半ぶりの[シングル](../Page/シングル.md "wikilink")となった\[1\]\[2\]\[3\]\[4\]。この楽曲は、Adyaによって楽曲提供され、本作の[音楽プロデュース](https://ja.wikipedia.org/wiki/音楽プロデュース "wikilink")を務めたURUが編曲した\[5\]。デジタル・ダウンロードでのリリース後、この楽曲を引っ提げて2001年6月6日から2001年7月13日に行われた中森のコンサート・ツアー[ALL ABOUT AKINA 20th Anniversary IT'S BRAND NEW DAYの会場内で](https://ja.wikipedia.org/wiki/Akina_Nakamori._2001._20th_Anniversary_Live_〜It's_brand_new_day〜#ALL_ABOUT_AKINA_20th_Anniversary_IT'S_BRAND_NEW_DAY "wikilink")[CDシングル](https://ja.wikipedia.org/wiki/CDシングル "wikilink") ([12cmCD](https://ja.wikipedia.org/wiki/マキシシングル "wikilink"): NNCC-10001)の販売が開始され、2001年7月10日にはMusic@niftyのオンラインストアにてCDの通信販売が展開し、2001年8月8日からは一部レコード店でもCD販売された\[6\]\[7\]\[8\]。音楽配信とマキシシングルでのリリースは自身初であった。2002年になり、中森が[ユニバーサルミュージックにレーベル移籍したことにより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、「It's brand new day」は2002年5月発売の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")『[Resonancia](../Page/Resonancia.md "wikilink")』からレーベルを超えての先行シングルとなった\[9\]\[10\]\[11\]\[12\]。楽曲のジャンルについて@easeでは、[R\&Bと解説している](../Page/リズム・アンド・ブルース.md "wikilink")\[13\]。中森はこの楽曲のインタビューで、幼い頃から洋楽が好きで洋楽系の楽曲を歌いたかったことを明かしている\[14\]\[15\]。これまで、自身によるプロデュースが可能になってから、洋楽系の資料をスタッフに渡し提案をしてきたものの実現には至らなかったが、今回ようやく想いが実ったと語っている\[16\]\[17\]。
 
 シングル盤「It's brand new day」の2曲目として発表された「Stay in love」は、「It's brand new day」に続いてAdyaが作詞し、プロデューサーのURUが作曲と編曲を手掛けた楽曲である\[18\]。「Stay in love」は本作リリース後、[トリンプ](https://ja.wikipedia.org/wiki/トリンプ "wikilink")「恋するブラ」CMソングに起用された\[19\]。
 
@@ -24,8 +24,8 @@
   - [guitar](../Page/ギター.md "wikilink"): 稲葉なるひ (Stay in love)
   - recorded & mixed by 稲葉なるひ
   - recorded & mixed at Be Born Studio
-  - [mastering](https://ja.wikipedia.org/wiki/マスタリング "wikilink"): 光藤光 (ast mastering studios)
-  - [photo](https://ja.wikipedia.org/wiki/撮影 "wikilink"): 塚田和徳
+  - [mastering](../Page/マスタリング.md "wikilink"): 光藤光 (ast mastering studios)
+  - [photo](../Page/撮影.md "wikilink"): 塚田和徳
   - art work: seiichi komatsu (room)
 
 ## 収録作品

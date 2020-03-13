@@ -15,7 +15,7 @@
 
 元々は開発・発売元である[KID](../Page/KID_\(ゲームブランド\).md "wikilink")（株式会社キッド）が開発しており、同社から2007年2月22日発売予定であった。しかし、2006年11月末に同社が[自己破産](https://ja.wikipedia.org/wiki/自己破産 "wikilink")したことを受け、一旦は開発・発売中止となっていたが、2007年2月に[サイバーフロント](../Page/サイバーフロント.md "wikilink")が同社の全ての権利を取得したため、開発が再開された。その際、開発が旧キッドから同社スタッフが移籍した[5pb.](../Page/5pb..md "wikilink")\[1\]に移っている。
 
-2009年9月17日には、サイバーフロントから『Memories Off』シリーズの権利を取得した5pb.から[PlayStation Portable版が発売された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。
+2009年9月17日には、サイバーフロントから『Memories Off』シリーズの権利を取得した5pb.から[PlayStation Portable版が発売された](../Page/PlayStation_Portable.md "wikilink")。
 
 ## 登場人物
 
@@ -24,7 +24,7 @@
     本作の主人公。千羽谷大学文学部2年生。[4月7日](../Page/4月7日.md "wikilink")生まれ。
     映画サークル「CUM研」のメンバー。千羽谷の日暮荘102号室で一人暮らしをしている。
   - 日名 あすか（ひな あすか）
-    声 : [野川さくら](https://ja.wikipedia.org/wiki/野川さくら "wikilink")
+    声 : [野川さくら](../Page/野川さくら.md "wikilink")
     綾園学院高等学校3年生。[8月31日](../Page/8月31日.md "wikilink")生まれ。
     一年半前に亡くなった日名雄介の妹で、春人たちの後輩。性格は基本は明るく健気でノリがいいが、少し小悪魔っぽいところがある。かなりの寂しがり屋。恋に対しては積極的で、日頃から春人にラブラブ光線を出しまくる。なにかと理由を付けては春人に付きまとう。わざわざ大学まで来てサークルに入り浸っているのも春人に会うため。致命的な方向音痴。ただし一度道を覚えてしまえば忘れることはない。さらに、致命的な機械音痴。ただし慣れれば普通に扱える。演技力はかなりのものだが、本人は封印中。元芸能人という経歴のためか、お洒落に敏感。現在は千羽谷大学に入るために、受験勉強に勤しんでいる。
     血液型:Ｂ型 身長:158cm Ｂ:81 Ｗ:56 Ｈ:82
@@ -53,7 +53,7 @@
     血液型:Ｏ型
     身長:164cm
   - 稲穂 信（いなほ しん）
-    声 : [間島淳司](https://ja.wikipedia.org/wiki/間島淳司 "wikilink")
+    声 : [間島淳司](../Page/間島淳司.md "wikilink")
     麻尋とルサックでバイトをしている。[1月4日](../Page/1月4日.md "wikilink")生まれ。
     日暮荘103号室で一人暮らしをしていて人によって名前が変わる「トモヤ」という犬を飼っている。
   - 日名 雄介（ひな ゆうすけ）
@@ -68,7 +68,7 @@
   - キャラクターデザイン : [松尾ゆきひろ](https://ja.wikipedia.org/wiki/松尾ゆきひろ "wikilink")、[輿水隆之](https://ja.wikipedia.org/wiki/輿水隆之 "wikilink")
   - OP : **キミが居た証拠に**
       -
-        作詞、作曲 : [志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink")、編曲 : [磯江俊道](../Page/磯江俊道.md "wikilink") / 歌 : [彩音](../Page/彩音.md "wikilink")
+        作詞、作曲 : [志倉千代丸](../Page/志倉千代丸.md "wikilink")、編曲 : [磯江俊道](../Page/磯江俊道.md "wikilink") / 歌 : [彩音](../Page/彩音.md "wikilink")
   - ED:**ロマンシングストーリー**
       -
         作詞、作曲 : 志倉千代丸、編曲 : [上野浩司](../Page/上野浩司.md "wikilink") / 歌 : 彩音
@@ -77,9 +77,9 @@
 
 ### 書籍
 
-  - [Softgarage](https://ja.wikipedia.org/wiki/Softgarage "wikilink")より発売。
+  - [Softgarage](../Page/Softgarage.md "wikilink")より発売。
       - メモリーズオフ\#5アンコール 透明な虹（[秋月ひろ](../Page/秋月ひろ.md "wikilink")作、）
-  - [JIVEより発売](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")。
+  - [JIVEより発売](../Page/ジャイブ.md "wikilink")。
       - メモリーズオフ\#5アンコールビジュアル・ガイドブック（）
 
 ## 脚注

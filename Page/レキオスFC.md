@@ -1,15 +1,15 @@
 > この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
 
 
-**レキオスFC**（Lequios FC）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")を拠点とする[ビーチサッカー](https://ja.wikipedia.org/wiki/ビーチサッカー "wikilink")クラブ。2009年の2月から東京に進出し、チーム名を「**東京レキオスBS**」と改名した。
+**レキオスFC**（Lequios FC）は、[東京都](../Page/東京都.md "wikilink")を拠点とする[ビーチサッカー](../Page/ビーチサッカー.md "wikilink")クラブ。2009年の2月から東京に進出し、チーム名を「**東京レキオスBS**」と改名した。
 
 獲得したアジア・全国タイトルは、**全国ビーチサッカークラブ最多の計10回（シンガポール南西アジア大会1回・[全国ビーチサッカー大会](https://ja.wikipedia.org/wiki/全国ビーチサッカー大会 "wikilink")6回・[ビーチサッカーフェスティバル](https://ja.wikipedia.org/wiki/金武町#観光・名所・イベント "wikilink")3回）**である。
 
 ## 概要
 
-チーム名となっている「**レキオス**」(LEQUIOS)とは、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")で「[琉球人](https://ja.wikipedia.org/wiki/琉球人 "wikilink")」を意味する言葉。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")8月に発足後[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[2007年](../Page/2007年.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")と3年連続して[全国ビーチサッカー大会](https://ja.wikipedia.org/wiki/全国ビーチサッカー大会 "wikilink")王者に輝く。 2010年は目標にしていた4連覇を果たせず準優勝だったが、2011年・2013年・2014年と優勝を果たした。
+チーム名となっている「**レキオス**」(LEQUIOS)とは、[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")で「[琉球人](https://ja.wikipedia.org/wiki/琉球人 "wikilink")」を意味する言葉。[2005年](../Page/2005年.md "wikilink")8月に発足後[2006年](../Page/2006年.md "wikilink")、[2007年](../Page/2007年.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")と3年連続して[全国ビーチサッカー大会](https://ja.wikipedia.org/wiki/全国ビーチサッカー大会 "wikilink")王者に輝く。 2010年は目標にしていた4連覇を果たせず準優勝だったが、2011年・2013年・2014年と優勝を果たした。
 
-[ビーチサッカー](https://ja.wikipedia.org/wiki/ビーチサッカー "wikilink")主体のチーム運営ビーチサッカー日本代表チームに多くの選手を輩出している。
+[ビーチサッカー](../Page/ビーチサッカー.md "wikilink")主体のチーム運営ビーチサッカー日本代表チームに多くの選手を輩出している。
 
 2009年よりビーチサッカー関東トップリーグが創設され、リーグの中心チームとしてビーチサッカーの普及。
 

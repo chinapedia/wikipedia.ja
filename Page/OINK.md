@@ -11,7 +11,7 @@
 
 ## 事例
 
-  - 2006年に起きた[ローンスター問題では](https://ja.wikipedia.org/wiki/ローンスター#韓国におけるローンスター問題 "wikilink")、[ローンスター](https://ja.wikipedia.org/wiki/ローンスター "wikilink")が破綻寸前となっていた[韓国外換銀行](https://ja.wikipedia.org/wiki/韓国外換銀行 "wikilink")（KEB）を買収し、経営建て直しにより黒字化を達成していたにも関わらず、KEBを売却しようとしたところ、ローンスターに対しKEBを不当な低価格で買収した容疑、脱税、外貨密輸入の容疑で検察による家宅捜査が行われた\[6\]。破綻企業を低価格で買収し、経営を立て直して価値を高めて売却することは投資ファンドの主業務であり、韓国以外の国では何ら違法なものではないため、この事件により「韓国でしか起こりえないような予想外の出来事」を指す「**OINK**」という用語が誕生したとされる\[7\]\[8\]。
+  - 2006年に起きた[ローンスター問題では](https://ja.wikipedia.org/wiki/ローンスター#韓国におけるローンスター問題 "wikilink")、[ローンスター](../Page/ローンスター.md "wikilink")が破綻寸前となっていた[韓国外換銀行](https://ja.wikipedia.org/wiki/韓国外換銀行 "wikilink")（KEB）を買収し、経営建て直しにより黒字化を達成していたにも関わらず、KEBを売却しようとしたところ、ローンスターに対しKEBを不当な低価格で買収した容疑、脱税、外貨密輸入の容疑で検察による家宅捜査が行われた\[6\]。破綻企業を低価格で買収し、経営を立て直して価値を高めて売却することは投資ファンドの主業務であり、韓国以外の国では何ら違法なものではないため、この事件により「韓国でしか起こりえないような予想外の出来事」を指す「**OINK**」という用語が誕生したとされる\[7\]\[8\]。
   - 2013年8月に、[現代自動車](../Page/現代自動車.md "wikilink")では労使賃金交渉が決裂し時限[ストライキ](../Page/ストライキ.md "wikilink")が実施された。企業の業績低迷にも関わらず、昨年の最終利益の30%の成果給、通常賃金の800%の賞与という大きな要求額の上に、企業の疲弊、競争率低下を招く長時間ストライキとなり、[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")はこのストライキに関して「OINK」に言及した\[9\]\[10\]。
 
 ## 脚注
@@ -26,7 +26,7 @@
 
 1.  　**オ**ーインク
 2.  [【財界NOW】韓国だけの出来事「OINK」](http://www.sjchp.co.kr/koreanews/koreatis_view.htm?num=2395&date=2006%94N09%8C%8E01%93%FA\(%8B%E0\)), [ソウル・ジャパン・クラブ](https://ja.wikipedia.org/wiki/ソウル・ジャパン・クラブ "wikilink") 韓国ニュース, 2006年09月01日
-3.  [VIEWPOINT:A way to shake things up in Korea](http://joongangdaily.joins.com/200609/05/200609052158270379900090109012.html), [中央日報](https://ja.wikipedia.org/wiki/中央日報 "wikilink")英語版, 2006.09.05
+3.  [VIEWPOINT:A way to shake things up in Korea](http://joongangdaily.joins.com/200609/05/200609052158270379900090109012.html), [中央日報](../Page/中央日報.md "wikilink")英語版, 2006.09.05
 4.  [OINK (Only in Korea)](http://web.archive.org/web/20061215142554/http://times.hankooki.com/lpage/opinion/200612/kt2006121119120154060.htm), [韓国日報](../Page/韓国日報.md "wikilink")英語版のWebArchive, 12-11-2006
 5.
 6.

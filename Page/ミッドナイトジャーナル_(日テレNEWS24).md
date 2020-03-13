@@ -12,7 +12,7 @@
 ## 出演者
 
   - 月曜日 - 木曜日　[中島静佳](https://ja.wikipedia.org/wiki/中島静佳 "wikilink")
-  - 金曜日 - 日曜日　[武岡智子](https://ja.wikipedia.org/wiki/武岡智子 "wikilink")
+  - 金曜日 - 日曜日　[武岡智子](../Page/武岡智子.md "wikilink")
 
 ※速報時は[Oha\!4 NEWS LIVEのキャスターや土日の早朝であれば](../Page/Oha!4_NEWS_LIVE.md "wikilink")、通常朝・日中の時間を担当しているキャスターが出演する。過去に『Oha\!4』放送直前で人手不足の時、報道局記者が出演したこともあった。
 
@@ -25,7 +25,7 @@
 ## 備考
 
   - この番組は未明・早朝帯に放送されていたので、[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")だけではなく[日本テレビ系列の多くの地上波放送局および](../Page/日本テレビ放送網.md "wikilink")[BS日テレでも](../Page/BS日本.md "wikilink")[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")として未明・早朝帯に放送されていた。但し、放送局によって放送設備のメンテナンス等で放送を行わない日もあった。また、地上波系列局では番組終了後からの放送なので、番組の途中から放送されることが多かった。
-  - 火曜日 - 金曜日までの放送は[L字型画面](https://ja.wikipedia.org/wiki/L字型画面 "wikilink")での放送であった（祝日と年末年始は表示なし、また[BS日テレでは表示されなかった](../Page/BS日本.md "wikilink")）。
+  - 火曜日 - 金曜日までの放送は[L字型画面](../Page/L字型画面.md "wikilink")での放送であった（祝日と年末年始は表示なし、また[BS日テレでは表示されなかった](../Page/BS日本.md "wikilink")）。
 
 ## 外部リンク
 

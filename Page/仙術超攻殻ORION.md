@@ -56,9 +56,9 @@
 
 ### キャスト
 
-  - スサノオ：[陶山章央](https://ja.wikipedia.org/wiki/陶山章央 "wikilink")
-  - セスカ：[折笠富美子](https://ja.wikipedia.org/wiki/折笠富美子 "wikilink")
-  - フゼン道人：[西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")
+  - スサノオ：[陶山章央](../Page/陶山章央.md "wikilink")
+  - セスカ：[折笠富美子](../Page/折笠富美子.md "wikilink")
+  - フゼン道人：[西村知道](../Page/西村知道.md "wikilink")
 
 ### スタッフ
 
@@ -67,6 +67,6 @@
 ## 関連商品
 
   - 仙術超攻殻ORION～[まんがビデオ](https://ja.wikipedia.org/wiki/まんがビデオ "wikilink")　[TSUTAYA](http://www.tsutaya.co.jp/item/movie/view_v.zhtml?pdid=10011634)
-  - [ネットワークRPG](https://ja.wikipedia.org/wiki/プレイバイウェブ "wikilink") 仙術超攻殻オリオン （開催期間：1998年11月12日～2000年10月12日）[ゲームネットジャパン](https://ja.wikipedia.org/wiki/ホビー・データ "wikilink")
+  - [ネットワークRPG](../Page/プレイバイウェブ.md "wikilink") 仙術超攻殻オリオン （開催期間：1998年11月12日～2000年10月12日）[ゲームネットジャパン](https://ja.wikipedia.org/wiki/ホビー・データ "wikilink")
 
 [Category:漫画作品_せ](https://ja.wikipedia.org/wiki/Category:漫画作品_せ "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:士郎正宗](https://ja.wikipedia.org/wiki/Category:士郎正宗 "wikilink") [Category:2000年のOVA](https://ja.wikipedia.org/wiki/Category:2000年のOVA "wikilink") [Category:2010年のアニメ映画](https://ja.wikipedia.org/wiki/Category:2010年のアニメ映画 "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:日本の短編映画](https://ja.wikipedia.org/wiki/Category:日本の短編映画 "wikilink")

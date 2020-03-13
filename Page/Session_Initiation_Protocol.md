@@ -5,13 +5,13 @@
 
 ## 概要
 
-SIP は [H.323](https://ja.wikipedia.org/wiki/H.323 "wikilink") に代わる汎用のセッション制御プロトコルとして DynamicSoft（当時） の J. Rosenberg らを中心に開発された（ここでいう“セッション”とは [OSI参照モデル](../Page/OSI参照モデル.md "wikilink") で規定される第5層とは異なる）。すなわち、[IP電話](../Page/IP電話.md "wikilink")などのセッションの開始、変更、終了などの操作をおこなうことができる。SIP はインターネット上の会議 ([Mbone](https://ja.wikipedia.org/wiki/Mbone "wikilink")) 等、マルチメディア通信制御をドメインとしている。現在の主な用途は電話、[テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")や[インスタント・メッセージングのような双方向の](../Page/インスタントメッセンジャー.md "wikilink")[リアルタイム通信](https://ja.wikipedia.org/wiki/リアルタイム通信 "wikilink")である。このようなリアルタイム通信においては基本的に通信者は対等であり、[サーバ](../Page/サーバ.md "wikilink")と[クライアントというような役割分担は存在しない](../Page/クライアント_\(コンピュータ\).md "wikilink")。SIP においてはこれを、両者がサーバとクライアントの機能をあわせもつというかたちで表現している。すなわち、SIP は [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink") (ハイパーテキスト転送プロトコル) をもとにしてつくられたので基本的には 要求-応答型 のプロトコルだが、要求者 (後述の UAC) がクライアントであり、応答者 (後述の UAS) がサーバであるが、両者がこれら両方の役割を演じることができる。
+SIP は [H.323](../Page/H.323.md "wikilink") に代わる汎用のセッション制御プロトコルとして DynamicSoft（当時） の J. Rosenberg らを中心に開発された（ここでいう“セッション”とは [OSI参照モデル](../Page/OSI参照モデル.md "wikilink") で規定される第5層とは異なる）。すなわち、[IP電話](../Page/IP電話.md "wikilink")などのセッションの開始、変更、終了などの操作をおこなうことができる。SIP はインターネット上の会議 ([Mbone](https://ja.wikipedia.org/wiki/Mbone "wikilink")) 等、マルチメディア通信制御をドメインとしている。現在の主な用途は電話、[テレビ電話](../Page/テレビ電話.md "wikilink")や[インスタント・メッセージングのような双方向の](../Page/インスタントメッセンジャー.md "wikilink")[リアルタイム通信](https://ja.wikipedia.org/wiki/リアルタイム通信 "wikilink")である。このようなリアルタイム通信においては基本的に通信者は対等であり、[サーバ](../Page/サーバ.md "wikilink")と[クライアントというような役割分担は存在しない](../Page/クライアント_\(コンピュータ\).md "wikilink")。SIP においてはこれを、両者がサーバとクライアントの機能をあわせもつというかたちで表現している。すなわち、SIP は [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink") (ハイパーテキスト転送プロトコル) をもとにしてつくられたので基本的には 要求-応答型 のプロトコルだが、要求者 (後述の UAC) がクライアントであり、応答者 (後述の UAS) がサーバであるが、両者がこれら両方の役割を演じることができる。
 
 HTTP においてはその下層のプロトコルとして高信頼な [TCP](../Page/Transmission_Control_Protocol.md "wikilink") を使用することが前提とされているが、SIPでは [UDP](../Page/User_Datagram_Protocol.md "wikilink") を元に設計されている。しかし、商用では信頼性のため後に拡張された [TCP](../Page/Transmission_Control_Protocol.md "wikilink") が使用される場合が多い。SIP はセキュリティやプライバシーを守るための機能拡張も備える。
 
 ## 特徴
 
-同じ、リアルタイム・[マルチメディア](../Page/マルチメディア.md "wikilink")・データ通信プロトコルの[H.323](https://ja.wikipedia.org/wiki/H.323 "wikilink")と比較すると、以下の点が特徴である。
+同じ、リアルタイム・[マルチメディア](../Page/マルチメディア.md "wikilink")・データ通信プロトコルの[H.323](../Page/H.323.md "wikilink")と比較すると、以下の点が特徴である。
 
   - セッションの開始・変更・終了のみを行うため単純である。
   - [HTTP](../Page/Hypertext_Transfer_Protocol.md "wikilink") 1.1に似た[テキスト](../Page/テキスト.md "wikilink")ベース・メッセージ・フォーマットであるため、[ソフトウェア](../Page/ソフトウェア.md "wikilink")の機能の追加・拡張が容易である。
@@ -19,7 +19,7 @@ HTTP においてはその下層のプロトコルとして高信頼な [TCP](..
 
 <!-- end list -->
 
-  - [VoIP](https://ja.wikipedia.org/wiki/VoIP "wikilink")の通信プロトコルとしてSIPを使用する場合、音声などのストリーミング送受信には[RTP](../Page/Real-time_Transport_Protocol.md "wikilink")/[RTCP](../Page/Real-time_Transport_Control_Protocol.md "wikilink")、制御を行うデータ送受信ホスト・ポートの制御には [Session Description Protocol](../Page/Session_Description_Protocol.md "wikilink") (SDP) を使用することが一般的である。
+  - [VoIP](../Page/VoIP.md "wikilink")の通信プロトコルとしてSIPを使用する場合、音声などのストリーミング送受信には[RTP](../Page/Real-time_Transport_Protocol.md "wikilink")/[RTCP](../Page/Real-time_Transport_Control_Protocol.md "wikilink")、制御を行うデータ送受信ホスト・ポートの制御には [Session Description Protocol](../Page/Session_Description_Protocol.md "wikilink") (SDP) を使用することが一般的である。
 
 <!-- end list -->
 
@@ -113,7 +113,7 @@ SIP サーバを経由するシーケンスの例を下図にあげる (RFC 3261
 
 ## 関連項目
 
-  - [VoIP](https://ja.wikipedia.org/wiki/VoIP "wikilink")
+  - [VoIP](../Page/VoIP.md "wikilink")
   - [IP電話](../Page/IP電話.md "wikilink")
   - [MGCP](https://ja.wikipedia.org/wiki/MGCP "wikilink")、[Media Gateway Control Protocol](https://ja.wikipedia.org/wiki/Media_Gateway_Control_Protocol "wikilink")
   - [NOTASIP](https://ja.wikipedia.org/wiki/NOTASIP "wikilink")

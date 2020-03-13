@@ -81,7 +81,7 @@
 
 勝ち抜き者は次の挑戦者と再び対戦勝ち抜きクイズで戦い、挑戦者に負かされるか、獲得賞金が100万円に到達するまで繰り返す。
 
-パーフェクト達成の時には、番組開始当初は、ファンファーレと共に天井から大量の白・黄・赤・青色の[紙吹雪](https://ja.wikipedia.org/wiki/紙吹雪 "wikilink")が降り、スタッフが[クラッカー](https://ja.wikipedia.org/wiki/クラッカー "wikilink")を鳴らして祝福していたが、後期はクラッカーがなくなり、白の紙吹雪だけになった。
+パーフェクト達成の時には、番組開始当初は、ファンファーレと共に天井から大量の白・黄・赤・青色の[紙吹雪](../Page/紙吹雪.md "wikilink")が降り、スタッフが[クラッカー](https://ja.wikipedia.org/wiki/クラッカー "wikilink")を鳴らして祝福していたが、後期はクラッカーがなくなり、白の紙吹雪だけになった。
 
 100万円達成（後述のウルトラ一発100万円である時も含む）の場合は、「おめでとう\!\!100万円獲得\!\!」および「￥1,000,000」のテロップが出ていた。通常のパーフェクトの時は、100万円とは別のファンファーレが流れていた（テロップ無し）。また小学生親子大会、中学生大会において、海外旅行当選となった場合も同じく「○○旅行　おめでとう\!\!」とのテロップがあった。
 
@@ -243,7 +243,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">中部日本放送</a></p></td>
 <td><p>現：CBCテレビ</p></td>
 <td></td>
@@ -286,7 +286,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a></p></td>
 <td></td>
 <td></td>
@@ -323,7 +323,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a></p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -335,7 +335,7 @@
   - 構成：[河村達樹](https://ja.wikipedia.org/wiki/河村達樹 "wikilink")、[福岡秀広](https://ja.wikipedia.org/wiki/福岡秀広 "wikilink")、[秋元康](../Page/秋元康.md "wikilink")
   - 問題作成：ペンギングループ、平松邦宏、[波多野忠夫](https://ja.wikipedia.org/wiki/波多野杜夫 "wikilink")
   - 音楽：[小野崎孝輔](https://ja.wikipedia.org/wiki/小野崎孝輔 "wikilink")
-  - ナレーション：[菅原牧子](https://ja.wikipedia.org/wiki/菅原牧子 "wikilink")（当時TBSアナウンサー。オープニングやエンディングの提供読みも担当。先述の「親子大会」では、ハワイ旅行の紹介ナレーションで｢アロ～ハァ！｣と可愛らしい声を出していた。）
+  - ナレーション：[菅原牧子](../Page/菅原牧子.md "wikilink")（当時TBSアナウンサー。オープニングやエンディングの提供読みも担当。先述の「親子大会」では、ハワイ旅行の紹介ナレーションで｢アロ～ハァ！｣と可愛らしい声を出していた。）
   - 協力：時空工房
   - 美術デザイン：[宮沢利昭](https://ja.wikipedia.org/wiki/宮沢利昭 "wikilink")
   - 美術制作：[金野寿雄](https://ja.wikipedia.org/wiki/金野寿雄 "wikilink")、[和田一郎](https://ja.wikipedia.org/wiki/和田一郎 "wikilink")

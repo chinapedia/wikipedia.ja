@@ -5,7 +5,7 @@
 
 ## 概要
 
-サンパウロのビッグ4の1角を占めるクラブである。 愛称は「Verdão (偉大な緑) 」、「Porco (豚) 」。ユニフォームの色は緑・白・緑。[サンパウロ州選手権優勝](../Page/カンピオナート・パウリスタ.md "wikilink")22回、[ブラジル全国選手権優勝](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")4回、[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")優勝1回などの実績を有する。 [タッサ・ブラジル](https://ja.wikipedia.org/wiki/タッサ・ブラジル "wikilink")と[トルネイオ・ロベルト・ゴメス・ペドロサ](https://ja.wikipedia.org/wiki/トルネイオ・ロベルト・ゴメス・ペドロサ "wikilink")（1960年代のブラジル王者を決める大会）の優勝回数を含めるとブラジル王者に計8度輝いており、優勝回数は[サントスFC](../Page/サントスFC.md "wikilink")と並んで国内最多である。 ブラジル全国で4番目に人気のあるクラブで、サンパウロ州では3番目に人気のあるクラブである\[1\]。 [SCコリンチャンス・パウリスタ](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")との試合は「[デルビー・パウリスタ](https://ja.wikipedia.org/wiki/サンパウロ・ダービー "wikilink")」、[サンパウロFC](../Page/サンパウロFC.md "wikilink")との試合は「ショキ・レイ」として知られる。
+サンパウロのビッグ4の1角を占めるクラブである。 愛称は「Verdão (偉大な緑) 」、「Porco (豚) 」。ユニフォームの色は緑・白・緑。[サンパウロ州選手権優勝](../Page/カンピオナート・パウリスタ.md "wikilink")22回、[ブラジル全国選手権優勝](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")4回、[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")優勝1回などの実績を有する。 [タッサ・ブラジル](https://ja.wikipedia.org/wiki/タッサ・ブラジル "wikilink")と[トルネイオ・ロベルト・ゴメス・ペドロサ](https://ja.wikipedia.org/wiki/トルネイオ・ロベルト・ゴメス・ペドロサ "wikilink")（1960年代のブラジル王者を決める大会）の優勝回数を含めるとブラジル王者に計8度輝いており、優勝回数は[サントスFC](../Page/サントスFC.md "wikilink")と並んで国内最多である。 ブラジル全国で4番目に人気のあるクラブで、サンパウロ州では3番目に人気のあるクラブである\[1\]。 [SCコリンチャンス・パウリスタ](https://ja.wikipedia.org/wiki/SCコリンチャンス・パウリスタ "wikilink")との試合は「[デルビー・パウリスタ](../Page/サンパウロ・ダービー.md "wikilink")」、[サンパウロFC](../Page/サンパウロFC.md "wikilink")との試合は「ショキ・レイ」として知られる。
 
 ## 歴史
 
@@ -114,7 +114,7 @@
 ## 関連項目
 
   - [ブラジルのサッカー](../Page/ブラジルのサッカー.md "wikilink")
-  - [サンパウロ日本人学校](https://ja.wikipedia.org/wiki/サンパウロ日本人学校 "wikilink")
+  - [サンパウロ日本人学校](../Page/サンパウロ日本人学校.md "wikilink")
 
 ## 脚注
 

@@ -9,13 +9,13 @@
 
 ## 概要
 
-開局当初のMXテレビは[プロ野球中継](../Page/プロ野球中継.md "wikilink")の放送がほとんどなかったが、番組編成を見直した[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[サンテレビが制作した](../Page/サンテレビジョン.md "wikilink")[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")主催試合中継（『[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")』）と、自社制作の[東京六大学野球](https://ja.wikipedia.org/wiki/東京六大学野球 "wikilink")、[夏の高校野球東京都大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")（東・西ブロックとも）の試合の実況中継をこのタイトルで放送するようになった。とくに阪神戦中継は「六甲おろしが、東京に吹く」というキャッチコピーを用いてアピールしており、東京都内を走る[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")などの電車内にステッカー形式の車内広告を出して宣伝していた。
+開局当初のMXテレビは[プロ野球中継](../Page/プロ野球中継.md "wikilink")の放送がほとんどなかったが、番組編成を見直した[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[サンテレビが制作した](../Page/サンテレビジョン.md "wikilink")[阪神タイガース](../Page/阪神タイガース.md "wikilink")主催試合中継（『[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")』）と、自社制作の[東京六大学野球](https://ja.wikipedia.org/wiki/東京六大学野球 "wikilink")、[夏の高校野球東京都大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")（東・西ブロックとも）の試合の実況中継をこのタイトルで放送するようになった。とくに阪神戦中継は「六甲おろしが、東京に吹く」というキャッチコピーを用いてアピールしており、東京都内を走る[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")などの電車内にステッカー形式の車内広告を出して宣伝していた。
 
 これらに加えて、2007年からは[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")主催試合の中継も行っている（→*[STRONG\!ホークス野球中継](https://ja.wikipedia.org/wiki/STRONG!ホークス野球中継 "wikilink")を参照*）。
 
-大学野球中継はその後打ち切られたため、放送対象はプロ野球公式戦と高校野球大会だけとなり、2007年からは阪神戦とソフトバンク戦の他に、[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")で行われる[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")主催試合（主に対[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")戦、[三重テレビと](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[ぎふチャンへもネット](../Page/岐阜放送.md "wikilink")）の自社制作放送という陣容となる。なお、2006年以降の東京ヤクルト主催公式戦の自社制作は、対中日戦を年2、3試合程度放送で三重テレビとぎふチャンにネットするという放送形式でほぼ固定されていた。
+大学野球中継はその後打ち切られたため、放送対象はプロ野球公式戦と高校野球大会だけとなり、2007年からは阪神戦とソフトバンク戦の他に、[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")で行われる[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")主催試合（主に対[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")戦、[三重テレビと](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[ぎふチャンへもネット](../Page/岐阜放送.md "wikilink")）の自社制作放送という陣容となる。なお、2006年以降の東京ヤクルト主催公式戦の自社制作は、対中日戦を年2、3試合程度放送で三重テレビとぎふチャンにネットするという放送形式でほぼ固定されていた。
 
-以前は[テレ玉制作の](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")戦、[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")制作の[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")戦（[東京ドーム](../Page/東京ドーム.md "wikilink")主催試合）や[CTC（チバテレビ）制作の](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦も放送していたことがあるが、2006年度以降は番組供給を受けていないため放送されていない。
+以前は[テレ玉制作の](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")戦、[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")制作の[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")戦（[東京ドーム](../Page/東京ドーム.md "wikilink")主催試合）や[CTC（チバテレビ）制作の](../Page/千葉テレビ放送.md "wikilink")[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦も放送していたことがあるが、2006年度以降は番組供給を受けていないため放送されていない。
 
 [2006年](../Page/2006年.md "wikilink")までは[東京シティ競馬](https://ja.wikipedia.org/wiki/東京シティ競馬 "wikilink")や[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")の[ナイター](../Page/ナイター.md "wikilink")開催がある場合はそちらを優先して編成するため野球中継をしないことが多かったが、本社が[テレコムセンター](../Page/テレコムセンター.md "wikilink")から現在地（半蔵門メディアセンター）に移転し、地上デジタル放送が本格的に開始されてからは、マルチ編成が開始され、野球中継と並行して放送することも多くなった。現在は終日マルチ編成を実施しているため、野球中継と競馬中継の放送時間帯が重なる場合は前者がメインチャンネルで、後者はサブチャンネルで放送するようになっている。
 
@@ -41,16 +41,16 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 ### 番組の沿革
 
   - **[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")** MXテレビの野球中継の統一タイトルを『**MXスタジアム**』とする。この年は[SIDE ONE](https://ja.wikipedia.org/wiki/SIDE_ONE "wikilink")「青いプライドの靴」がテーマ音楽となったが、翌年「[阪神タイガースの歌](../Page/阪神タイガースの歌.md "wikilink")」に変更となる。
-      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[プロ野球](../Page/プロ野球.md "wikilink")公式戦の中継を開始するが、地元球団である[ヤクルトスワローズの主催試合は殆ど放送されず](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、サンテレビ制作の[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")主催試合中継『[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")』のネット受け放送が中心となる。
-      - [5月24日](../Page/5月24日.md "wikilink")、MX初の自主制作となるプロ野球中継「ヤクルトスワローズ対[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")」戦（神宮球場）の[ナイター](../Page/ナイター.md "wikilink")を中継予定であったが、雨天順延となり秋の放送に変更となった。
+      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[プロ野球](../Page/プロ野球.md "wikilink")公式戦の中継を開始するが、地元球団である[ヤクルトスワローズの主催試合は殆ど放送されず](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、サンテレビ制作の[阪神タイガース](../Page/阪神タイガース.md "wikilink")主催試合中継『[サンテレビボックス席](../Page/サンテレビボックス席.md "wikilink")』のネット受け放送が中心となる。
+      - [5月24日](../Page/5月24日.md "wikilink")、MX初の自主制作となるプロ野球中継「ヤクルトスワローズ対[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")」戦（神宮球場）の[ナイター](../Page/ナイター.md "wikilink")を中継予定であったが、雨天順延となり秋の放送に変更となった。
   - **[2002年](../Page/2002年.md "wikilink")**
       - [5月3日](../Page/5月3日.md "wikilink")、開局以来初の中日、阪神、ヤクルト以外のセ・リーグ主催試合中継[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")主催試合を放送。（ただしこの日と9月3日は共にサンテレビ制作、阪神戦の中継である。なお、広島戦のデーゲーム中継は初中継を最後に以降行われていない。）
   - **[2003年](../Page/2003年.md "wikilink")**
       - [4月3日](../Page/4月3日.md "wikilink")、広島戦を[KBS京都でも放送した為](../Page/京都放送.md "wikilink")、この日がMXで放送した唯一の広島戦3局ネットとなった。（広島地区は広島テレビが自社制作、4月2日と9月3日はサンテレビと2局ネットでの放送であった。結局広島主催試合は2002年と2003年の合計5試合のみの中継に終わった。）
       - [9月15日](../Page/9月15日.md "wikilink")、阪神18年ぶり優勝試合を一部バラエティ番組をはさみながらもサンテレビ制作で完全放送を行う（[関西テレビでの中継とは別放送](../Page/関西テレビ放送.md "wikilink")。）
   - **[2004年](../Page/2004年.md "wikilink")**
-      - [5月18日](../Page/5月18日.md "wikilink")、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦（[チバテレビ制作の主催試合中継](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）を放送。（同じく放送予定だった5月19日の試合は雨天中止となったため、この日の放送がMXで放送された唯一のロッテ主催試合となっている。）
-  - **[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+      - [5月18日](../Page/5月18日.md "wikilink")、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦（[チバテレビ制作の主催試合中継](../Page/千葉テレビ放送.md "wikilink")）を放送。（同じく放送予定だった5月19日の試合は雨天中止となったため、この日の放送がMXで放送された唯一のロッテ主催試合となっている。）
+  - **[2005年](../Page/2005年.md "wikilink")**
       - [4月15日](../Page/4月15日.md "wikilink")、[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")対[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")戦の[東京ドーム](../Page/東京ドーム.md "wikilink")遠征試合を中継。（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")制作、地上波は[テレ玉発](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")。）
       - [4月19日](../Page/4月19日.md "wikilink")、[西武ライオンズ対楽天戦を中継](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")。（テレ玉制作）
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、交流戦開始。阪神主催の対西武戦、対ソフトバンク戦から放送開始。
@@ -62,7 +62,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
         （[三重テレビと](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[岐阜放送](../Page/岐阜放送.md "wikilink")へも同時ネットする）
       - 11月4日、明治神宮外苑創建80周年記念試合「東京ヤクルトスワローズ対東京六大学選抜」戦（神宮球場）を生中継。
   - **[2007年](../Page/2007年.md "wikilink")**
-      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、ソフトバンク本社が放送枠を買い取る形で[ヤフードームでの](../Page/福岡ドーム.md "wikilink")[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")主催試合の中継『[STRONG\!ホークス野球中継](https://ja.wikipedia.org/wiki/STRONG!ホークス野球中継 "wikilink")』を開始。[セ・パ交流戦](https://ja.wikipedia.org/wiki/セ・パ交流戦 "wikilink")については対中日戦1試合を放送した。
+      - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、ソフトバンク本社が放送枠を買い取る形で[ヤフードームでの](../Page/福岡ドーム.md "wikilink")[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")主催試合の中継『[STRONG\!ホークス野球中継](https://ja.wikipedia.org/wiki/STRONG!ホークス野球中継 "wikilink")』を開始。[セ・パ交流戦](../Page/セ・パ交流戦.md "wikilink")については対中日戦1試合を放送した。
 
 ### 各年度のできごと
 
@@ -70,7 +70,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
 #### 2006年
 
-  - [2006年](../Page/2006年.md "wikilink")は、4月の開幕から東京MXテレビが[テレコムセンター](../Page/テレコムセンター.md "wikilink")に入居していた6月いっぱいまでは中継がなかったが、[麹町](../Page/麹町.md "wikilink")新社屋に移転し[ハイビジョン放送](https://ja.wikipedia.org/wiki/ハイビジョン放送 "wikilink")を開始（同時にTOKYO MXに改称）した7月から公式戦終了までは、サンテレビ制作の阪神戦4試合、自社制作のヤクルト対中日戦（[神宮球場](../Page/明治神宮野球場.md "wikilink")）の3試合が中継されたほか、[11月4日](../Page/11月4日.md "wikilink")には、[明治神宮外苑](https://ja.wikipedia.org/wiki/明治神宮外苑 "wikilink")創建80年記念試合「[東京六大学](../Page/東京六大学.md "wikilink")選抜対ヤクルト」（神宮球場）も中継された\[2\]。
+  - [2006年](../Page/2006年.md "wikilink")は、4月の開幕から東京MXテレビが[テレコムセンター](../Page/テレコムセンター.md "wikilink")に入居していた6月いっぱいまでは中継がなかったが、[麹町](../Page/麹町.md "wikilink")新社屋に移転し[ハイビジョン放送](https://ja.wikipedia.org/wiki/ハイビジョン放送 "wikilink")を開始（同時にTOKYO MXに改称）した7月から公式戦終了までは、サンテレビ制作の阪神戦4試合、自社制作のヤクルト対中日戦（[神宮球場](../Page/明治神宮野球場.md "wikilink")）の3試合が中継されたほか、[11月4日](../Page/11月4日.md "wikilink")には、[明治神宮外苑](../Page/明治神宮外苑.md "wikilink")創建80年記念試合「[東京六大学](../Page/東京六大学.md "wikilink")選抜対ヤクルト」（神宮球場）も中継された\[2\]。
       - なお、サンテレビではこの年の5月より阪神戦を中心に[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")を開始したが、TOKYO MXの放送では最後まで標準画像のまま続いた。
 
 #### 2007年
@@ -119,7 +119,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
 <!-- end list -->
 
-  - [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")戦（[サンテレビ制作](../Page/サンテレビジョン.md "wikilink")）
+  - [阪神タイガース](../Page/阪神タイガース.md "wikilink")戦（[サンテレビ制作](../Page/サンテレビジョン.md "wikilink")）
       -
         ※2004年度までは年間20〜30試合程度放送していたが、徐々に試合数が減り、2007年度以降はわずか2〜3試合（いずれも対中日戦）に激減した。2009年度以降は放送なし。
     <!-- end list -->
@@ -127,13 +127,13 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - [広島東洋カープ](../Page/広島東洋カープ.md "wikilink")戦（サンテレビ製作）※2002年と2003年に合計5試合だけサンテレビからのネットで実施（地元向けは在広局が別制作）、2004年度以降は放送なし。
   - [北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")戦（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")・[テレ玉制作](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）※2006年度以降は放送なし
   - [埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")戦（テレ玉制作）※2006年度以降は放送なし
-  - [千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦（[チバテレビ制作](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）※2005年度以降は放送なし
+  - [千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")戦（[チバテレビ制作](../Page/千葉テレビ放送.md "wikilink")）※2005年度以降は放送なし
   - [東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")戦（2011年、[楽天野球団](https://ja.wikipedia.org/wiki/楽天野球団 "wikilink")制作、同じく球団主導の[スカイ・A sports+とは別制作](../Page/スカイ・エー.md "wikilink")、ローカル向け。）
-  - [東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")戦（2012年まで、自社製作、[三重テレビと](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[ぎふチャンへもネット](../Page/岐阜放送.md "wikilink")〔対[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")戦のみ〕）
+  - [東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")戦（2012年まで、自社製作、[三重テレビと](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[ぎふチャンへもネット](../Page/岐阜放送.md "wikilink")〔対[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")戦のみ〕）
 
 ### 高校野球
 
-  - [全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")東東京大会・西東京大会（準々決勝以降、いずれも神宮球場）※かつては[府中市民球場](https://ja.wikipedia.org/wiki/府中市民球場 "wikilink")や[江戸川区球場](../Page/江戸川区球場.md "wikilink")などから中継したこともあった。
+  - [全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")東東京大会・西東京大会（準々決勝以降、いずれも神宮球場）※かつては[府中市民球場](../Page/府中市民球場.md "wikilink")や[江戸川区球場](../Page/江戸川区球場.md "wikilink")などから中継したこともあった。
   - 2017年より準決勝以降に縮小。
 
 ### 大学野球
@@ -184,8 +184,8 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - [三沢淳](../Page/三沢淳.md "wikilink")
   - [平野謙](../Page/平野謙_\(野球\).md "wikilink") (2003年〜2005年)
   - [松岡弘](../Page/松岡弘.md "wikilink") (2006年〜2007年)
-  - [前田益穂](https://ja.wikipedia.org/wiki/前田益穂 "wikilink") (2006年〜2008年)
-  - [角盈男](https://ja.wikipedia.org/wiki/角盈男 "wikilink") (2008年〜2011年)
+  - [前田益穂](../Page/前田益穂.md "wikilink") (2006年〜2008年)
+  - [角盈男](../Page/角盈男.md "wikilink") (2008年〜2011年)
   - [広澤克実](../Page/広澤克実.md "wikilink") (2012年)
 
 <!-- end list -->
@@ -237,7 +237,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
   - [柴崎啓志](https://ja.wikipedia.org/wiki/柴崎啓志 "wikilink")
   - [渡邊哲夫](../Page/渡邊哲夫.md "wikilink")
-  - [北川義隆](https://ja.wikipedia.org/wiki/北川義隆 "wikilink")（2013年から）
+  - [北川義隆](../Page/北川義隆.md "wikilink")（2013年から）
   - [河路直樹](../Page/河路直樹.md "wikilink")（2013年を除く）
   - [田中大貴](../Page/田中大貴.md "wikilink")（2018年から）
 
@@ -270,7 +270,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - [滝沢雄一](../Page/滝沢雄一.md "wikilink")（2009・2010年）
   - [平方恭子](../Page/平方恭子.md "wikilink")（2010年）
   - [廣瀬隼也](https://ja.wikipedia.org/wiki/廣瀬隼也 "wikilink")（2011・2012年）
-  - [山本義幸](https://ja.wikipedia.org/wiki/山本義幸 "wikilink")（2013年）
+  - [山本義幸](../Page/山本義幸.md "wikilink")（2013年）
   - [牛嶋俊明](../Page/牛嶋俊明.md "wikilink")
 
 リポーター
@@ -291,13 +291,13 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - 2001年 - [柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink")「ぼくの味方」
   - 2002年 - [ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")「HEAVEN AND HELL」
   - 2003年 - [Michelle143](../Page/Michelle143.md "wikilink")「泣いてたまるか」
-  - 2004年 - [浅岡雄也](https://ja.wikipedia.org/wiki/浅岡雄也 "wikilink")「Re:start」
+  - 2004年 - [浅岡雄也](../Page/浅岡雄也.md "wikilink")「Re:start」
   - 2005年 - [Yum\!Yum\!ORANGE](../Page/Yum!Yum!ORANGE.md "wikilink")「Precious Days」
   - 2006年 - Yum\!Yum\!ORANGE 「clover」
   - 2007年 - [ONEDRAFT](https://ja.wikipedia.org/wiki/ONEDRAFT "wikilink")「SUMMER DAYZ」
   - 2008年 - [東京佼成ウインドオーケストラ](../Page/東京佼成ウインドオーケストラ.md "wikilink")「ブラバン\!甲子園よりぬきベスト55」
-  - 2009年 - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")「summer revolution」
-  - 2010年 - [TRIPLANE](https://ja.wikipedia.org/wiki/TRIPLANE "wikilink")「友よ」
+  - 2009年 - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")「summer revolution」
+  - 2010年 - [TRIPLANE](../Page/TRIPLANE.md "wikilink")「友よ」
   - 2011年 - [JURIAN BEAT CRISIS](https://ja.wikipedia.org/wiki/JURIAN_BEAT_CRISIS "wikilink")「ずっとここから」（ABCの高校野球中継と[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")と共通）
   - 2012年 - [Little Blue boX](https://ja.wikipedia.org/wiki/Little_Blue_boX "wikilink")「太陽の場所」（ABCの高校野球中継と共通）
   - 2013年 - [MYNAME](https://ja.wikipedia.org/wiki/MYNAME_\(音楽グループ\) "wikilink")「Sha la la」

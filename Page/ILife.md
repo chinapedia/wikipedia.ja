@@ -19,7 +19,7 @@
 
   - [2003年](../Page/2003年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink") - 「iLife」発売
   - [2004年](../Page/2004年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - 「iLife '04」発売
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月11日](../Page/1月11日.md "wikilink") - 「iLife '05」発売
+  - [2005年](../Page/2005年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink") - 「iLife '05」発売
   - [2006年](../Page/2006年.md "wikilink")[1月10日](../Page/1月10日.md "wikilink") - 「iLife '06」発売
       - [PowerPC](../Page/PowerPC.md "wikilink") と[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")両プロセッサの[Macでネイティブ動作する](../Page/Macintosh.md "wikilink")[Universal Binary化](https://ja.wikipedia.org/wiki/Universal_Binary "wikilink")。[iWeb](https://ja.wikipedia.org/wiki/iWeb "wikilink")がセットに加わる。
   - [2007年](../Page/2007年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink") - 「iLife '08」発売
@@ -36,7 +36,7 @@
 <!-- end list -->
 
   - iMovie
-    [デジタルビデオ](https://ja.wikipedia.org/wiki/デジタルビデオ "wikilink")を使った[動画編集ソフトウェア](https://ja.wikipedia.org/wiki/動画編集ソフトウェア "wikilink")。[FireWireや](https://ja.wikipedia.org/wiki/IEEE1394 "wikilink")[USBを使った動画の取り込み](../Page/ユニバーサル・シリアル・バス.md "wikilink")、ユーザは動画の切り貼り、特殊なエフェクトの追加、完成までが自動的に行われる。またFlash [MPEG-4](../Page/MPEG-4.md "wikilink")カメラ、[HDV](https://ja.wikipedia.org/wiki/HDV "wikilink")ビデオカメラ、アップルの[iSight](https://ja.wikipedia.org/wiki/iSight "wikilink")とも互換性がある。
+    [デジタルビデオ](../Page/デジタルビデオ.md "wikilink")を使った[動画編集ソフトウェア](https://ja.wikipedia.org/wiki/動画編集ソフトウェア "wikilink")。[FireWireや](https://ja.wikipedia.org/wiki/IEEE1394 "wikilink")[USBを使った動画の取り込み](../Page/ユニバーサル・シリアル・バス.md "wikilink")、ユーザは動画の切り貼り、特殊なエフェクトの追加、完成までが自動的に行われる。またFlash [MPEG-4](../Page/MPEG-4.md "wikilink")カメラ、[HDV](../Page/HDV.md "wikilink")ビデオカメラ、アップルの[iSight](https://ja.wikipedia.org/wiki/iSight "wikilink")とも互換性がある。
 
 <!-- end list -->
 

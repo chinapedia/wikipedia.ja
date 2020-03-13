@@ -207,7 +207,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>47</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村誠二" title="wikilink">木村誠二</a></p></td>
+<td><p><a href="../Page/木村誠二.md" title="wikilink">木村誠二</a></p></td>
 <td></td>
 <td><p>2019年 -</p></td>
 <td><p>FC東京U-18</p></td>
@@ -238,7 +238,7 @@
 <td><p><a href="../Page/高萩洋次郎.md" title="wikilink">髙萩洋次郎</a></p></td>
 <td></td>
 <td><p>2017年 -</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCソウル" title="wikilink">FCソウル</a></p></td>
+<td><p><a href="../Page/FCソウル.md" title="wikilink">FCソウル</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2383,7 +2383,7 @@
 <td><p><a href="../Page/四国学院大学.md" title="wikilink">四国学院大学</a>サッカー部 監督</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/三浦文丈" title="wikilink">三浦文丈</a></p></td>
+<td><p><a href="../Page/三浦文丈.md" title="wikilink">三浦文丈</a></p></td>
 <td><p>2007</p></td>
 <td><p><a href="../Page/SC相模原.md" title="wikilink">SC相模原</a> 監督</p></td>
 </tr>
@@ -2418,7 +2418,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/FC町田ゼルビア" title="wikilink">FC町田ゼルビア</a> コーチ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/川口信男" title="wikilink">川口信男</a></p></td>
+<td><p><a href="../Page/川口信男.md" title="wikilink">川口信男</a></p></td>
 <td><p>2013-2014</p></td>
 <td><p>ジュビロ磐田U-18 コーチ</p></td>
 </tr>
@@ -2920,7 +2920,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/マテウス・フェハス" title="wikilink">マテウス</a></p></td>
 <td><p>2014.2-7</p></td>
 <td><p>期限付き移籍での加入</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フルミネンセFC" title="wikilink">フルミネンセ</a></p></td>
+<td><p><a href="../Page/フルミネンセFC.md" title="wikilink">フルミネンセ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/郭熙柱" title="wikilink">カク・ヒジュ</a></p></td>
@@ -2965,7 +2965,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/FC今治" title="wikilink">FC今治</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/徳永悠平" title="wikilink">徳永悠平</a></p></td>
+<td><p><a href="../Page/徳永悠平.md" title="wikilink">徳永悠平</a></p></td>
 <td><p>2006-2017</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/V・ファーレン長崎" title="wikilink">V・ファーレン長崎</a></p></td>
@@ -3045,7 +3045,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/浅野哲也" title="wikilink">浅野哲也</a></p></td>
+<td><p><a href="../Page/浅野哲也.md" title="wikilink">浅野哲也</a></p></td>
 <td><p>2000</p></td>
 <td></td>
 <td></td>
@@ -3137,7 +3137,7 @@
 <tr class="odd">
 <td><p><a href="../Page/呉章銀.md" title="wikilink">呉章銀</a></p></td>
 <td><p>2004</p></td>
-<td><p>2002-2003 <a href="https://ja.wikipedia.org/wiki/2種登録選手" title="wikilink">2種登録で在籍</a></p></td>
+<td><p>2002-2003 <a href="../Page/2種登録選手.md" title="wikilink">2種登録で在籍</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3153,7 +3153,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ガリシアEC" title="wikilink">ガリシアEC</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/三浦文丈" title="wikilink">三浦文丈</a></p></td>
+<td><p><a href="../Page/三浦文丈.md" title="wikilink">三浦文丈</a></p></td>
 <td><p>2001-2006</p></td>
 <td></td>
 <td><p><a href="../Page/SC相模原.md" title="wikilink">SC相模原</a> 監督</p></td>
@@ -3222,7 +3222,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/徐庸徳" title="wikilink">ソ・ヨンドク</a></p></td>
 <td><p>2010</p></td>
 <td><p>期限付き移籍での加入</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/釜山アイパーク" title="wikilink">釜山アイパーク</a></p></td>
+<td><p><a href="../Page/釜山アイパーク.md" title="wikilink">釜山アイパーク</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/森村昂太.md" title="wikilink">森村昂太</a></p></td>
@@ -3342,7 +3342,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/兪仁秀" title="wikilink">ユ・インス</a></p></td>
 <td><p>2016-2019</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/城南FC" title="wikilink">城南FC</a></p></td>
+<td><p><a href="../Page/城南FC.md" title="wikilink">城南FC</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大森晃太郎" title="wikilink">大森晃太郎</a></p></td>
@@ -3466,7 +3466,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/JPVマリキナFC" title="wikilink">JPVマリキナFC</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/川口信男" title="wikilink">川口信男</a></p></td>
+<td><p><a href="../Page/川口信男.md" title="wikilink">川口信男</a></p></td>
 <td><p>2006-2008</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/#Kawaguchi" title="wikilink">上述</a></p></td>
@@ -3496,7 +3496,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/前田俊介" title="wikilink">前田俊介</a></p></td>
+<td><p><a href="../Page/前田俊介.md" title="wikilink">前田俊介</a></p></td>
 <td><p>2010</p></td>
 <td><p>期限付き移籍での加入</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/沖縄SV" title="wikilink">沖縄SV</a></p></td>
@@ -3517,7 +3517,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ペドロ・ビスポ・モレイラ・ジュニオール" title="wikilink">ペドロ・ジュニオール</a></p></td>
 <td><p>2011</p></td>
 <td><p>期限付き移籍での加入</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホール・ファカン・クラブ" title="wikilink">ホール・ファカン・クラブ</a></p></td>
+<td><p><a href="../Page/ホール・ファカン・クラブ.md" title="wikilink">ホール・ファカン・クラブ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高松大樹.md" title="wikilink">高松大樹</a></p></td>
@@ -3526,7 +3526,7 @@
 <td><p>大分市議会議員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/坂田大輔" title="wikilink">坂田大輔</a></p></td>
+<td><p><a href="../Page/坂田大輔.md" title="wikilink">坂田大輔</a></p></td>
 <td><p>2011.8-12</p></td>
 <td></td>
 <td></td>
@@ -3668,7 +3668,7 @@
 ## 関連項目
 
   - [Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")
-  - [Jリーグのクラブに所属するサッカー選手のクラブ別一覧](https://ja.wikipedia.org/wiki/Jリーグのクラブに所属するサッカー選手のクラブ別一覧 "wikilink")
+  - [Jリーグのクラブに所属するサッカー選手のクラブ別一覧](../Page/Jリーグのクラブに所属するサッカー選手のクラブ別一覧.md "wikilink")
   - [東京ガスサッカー部\#歴代所属選手](https://ja.wikipedia.org/wiki/東京ガスサッカー部#歴代所属選手 "wikilink")
 
 ## 外部リンク

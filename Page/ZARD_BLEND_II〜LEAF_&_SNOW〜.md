@@ -1,12 +1,12 @@
 > この記事は[ZARD BLEND IILEAF \& SNOW](https://ja.wikipedia.org/wiki/ZARD_BLEND_IILEAF_\&_SNOW)から翻訳されています。
 
 
-『**ZARD BLEND II 〜LEAF & SNOW〜**』（ザード・ブレンド・ツー リーフ・アンド・スノー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のセレクション[アルバム](../Page/アルバム.md "wikilink")。[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はJBCJ-9002。[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")形態。
+『**ZARD BLEND II 〜LEAF & SNOW〜**』（ザード・ブレンド・ツー リーフ・アンド・スノー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")のセレクション[アルバム](../Page/アルバム.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はJBCJ-9002。[デジパック](https://ja.wikipedia.org/wiki/デジパック "wikilink")形態。
 
 ## 解説
 
   - 前作『[ZARD BLEND〜SUN & STONE〜](../Page/ZARD_BLEND〜SUN_&_STONE〜.md "wikilink")』から4年ぶりに発売された、セレクションアルバムの第2弾。アルバム未収録となっていたカップリング曲が多く収録されている。その事から実質的に、ZARDにとって唯一の「**裏ベスト・アルバム**」とも言える内容になっている。また、前作同様全曲がリマスタリングされている。
-  - 初収録として、[Barbierのカバーとして](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")「[クリスマス・タイム](../Page/クリスマス_タイム.md "wikilink")」と、1996年から1997年当時に放送されていた[キヤノンCMバージョンの](https://ja.wikipedia.org/wiki/キヤノン株式会社 "wikilink")「[永遠](../Page/永遠_\(ZARDの曲\).md "wikilink")」を収録している。また最後の「永遠」が終わると、シークレットトラックで「[遠い星を数えて](../Page/風が通り抜ける街へ.md "wikilink")」が収録されている（こちらは通常バージョン）。
+  - 初収録として、[Barbierのカバーとして](../Page/栗林誠一郎.md "wikilink")「[クリスマス・タイム](../Page/クリスマス_タイム.md "wikilink")」と、1996年から1997年当時に放送されていた[キヤノンCMバージョンの](https://ja.wikipedia.org/wiki/キヤノン株式会社 "wikilink")「[永遠](../Page/永遠_\(ZARDの曲\).md "wikilink")」を収録している。また最後の「永遠」が終わると、シークレットトラックで「[遠い星を数えて](../Page/風が通り抜ける街へ.md "wikilink")」が収録されている（こちらは通常バージョン）。
   - 当初は新曲「Seven Rainbow」と全曲がリミックスされた内容でリリースされる予定だった。また「Seven Rainbow」は、後に「[ときめきメモリアル SOUND BLEND 〜featuring ZARD〜](https://ja.wikipedia.org/wiki/ときめきメモリアル_SOUND_BLEND_〜featuring_ZARD〜 "wikilink")」、34thシングル「[さわやかな君の気持ち](../Page/さわやかな君の気持ち.md "wikilink")」のカップリングに収録されている（共にアレンジが異なる）。
   - ジャケット写真は[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[豊頃町](../Page/豊頃町.md "wikilink")のハルニレの木である。
 
@@ -15,7 +15,7 @@
 作詞は全て[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")が担当。
 
 1.  **[私だけ見つめて](../Page/君がいない.md "wikilink")**
-    （作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")　編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")）
+    （作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")）
       -
         7thシングル「君がいない」のカップリング曲。アルバム初収録。
 2.  **[あなたを感じていたい](../Page/あなたを感じていたい.md "wikilink")**
@@ -39,7 +39,7 @@
       -
         11thシングル「この愛に泳ぎ疲れても／Boy」の2曲目。アルバム初収録。
 7.  **[Stray Love](../Page/負けないで.md "wikilink")**
-    （作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")　編曲：明石昌夫）
+    （作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")　編曲：明石昌夫）
       -
         6thシングル「負けないで」のカップリング曲。アルバム初収録。
 8.  **[Take me to your dream](../Page/あなたを感じていたい.md "wikilink")**
@@ -71,7 +71,7 @@
       -
         9thシングル「もう少し あと少し…」のカップリング曲。アルバム初収録。
 15. **クリスマス タイム（ZARD Version）**
-    （作曲：栗林誠一郎　編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")）
+    （作曲：栗林誠一郎　編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")）
       -
         栗林誠一郎がBarbier名義でリリースしたシングル「[クリスマス タイム](../Page/クリスマス_タイム.md "wikilink")」のセルフカバー。
     <!-- end list -->

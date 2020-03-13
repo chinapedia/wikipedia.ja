@@ -1,7 +1,7 @@
 > この記事は[InK](https://ja.wikipedia.org/wiki/InK)から翻訳されています。
 
 
-**InK**（インク）は、[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の[石野卓球](../Page/石野卓球.md "wikilink")と[TOKYO No.1 SOUL SETの川辺ヒロシの](../Page/TOKYO_No.1_SOUL_SET.md "wikilink")[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")による[ユニット](../Page/音楽ユニット.md "wikilink")。2人のイニシャル（**I**shino&**K**awanabe）をとって**InK**とした。2006年[キューンレコードより](https://ja.wikipedia.org/wiki/キューンミュージック "wikilink")「C-46」を発表。単発的なプロジェクトではなく、今後も継続して活動していくという意向が示されている。
+**InK**（インク）は、[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")の[石野卓球](../Page/石野卓球.md "wikilink")と[TOKYO No.1 SOUL SETの川辺ヒロシの](../Page/TOKYO_No.1_SOUL_SET.md "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")による[ユニット](../Page/音楽ユニット.md "wikilink")。2人のイニシャル（**I**shino&**K**awanabe）をとって**InK**とした。2006年[キューンレコードより](../Page/キューンミュージック.md "wikilink")「C-46」を発表。単発的なプロジェクトではなく、今後も継続して活動していくという意向が示されている。
 
 ## メンバー
 
@@ -23,14 +23,14 @@
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>最高位</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/キューンミュージック" title="wikilink">Ki/oon Records</a></p></td>
+<td><p><a href="../Page/キューンミュージック.md" title="wikilink">Ki/oon Records</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -137,7 +137,7 @@
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 <th><p>収録曲</p></th>
 </tr>
 </thead>
@@ -242,7 +242,7 @@
 
 ### 配信
 
-※[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")及びPC配信限定\[3\]
+※[着うたフル](../Page/着うたフル.md "wikilink")及びPC配信限定\[3\]
 
   - **Disguise**（2006年5月3日）
   - **Flat Field**（2006年5月17日）

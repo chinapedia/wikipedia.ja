@@ -1,14 +1,14 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-**函館山テレビ・FM放送所**（はこだてやまてれび・えふえむそうしんじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")の[函館山](https://ja.wikipedia.org/wiki/函館山 "wikilink")山頂にある[渡島総合振興局](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")・[檜山振興局](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")管内のテレビジョン放送及びFMラジオ放送の基幹送信所である。
+**函館山テレビ・FM放送所**（はこだてやまてれび・えふえむそうしんじょ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")の[函館山](../Page/函館山.md "wikilink")山頂にある[渡島総合振興局](https://ja.wikipedia.org/wiki/渡島総合振興局 "wikilink")・[檜山振興局](https://ja.wikipedia.org/wiki/檜山振興局 "wikilink")管内のテレビジョン放送及びFMラジオ放送の基幹送信所である。
 
 ## 概要
 
-  - 北海道南部の渡島・檜山管内はもちろん、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")の[津軽海峡](../Page/津軽海峡.md "wikilink")沿岸の一部地域（[大間町](https://ja.wikipedia.org/wiki/大間町 "wikilink")など）をカバーしている。
+  - 北海道南部の渡島・檜山管内はもちろん、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")の[津軽海峡](../Page/津軽海峡.md "wikilink")沿岸の一部地域（[大間町](../Page/大間町.md "wikilink")など）をカバーしている。
   - アナログUHF・デジタルテレビでは、いわゆる[スピルオーバー](../Page/スピルオーバー.md "wikilink")を抑えるため、南側（津軽海峡側）への送信出力を抑える指向性が設定されている。
   - デジタルテレビでは、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")においては、[上北中継局が受信できる場合は](https://ja.wikipedia.org/wiki/烏帽子岳_\(青森県\)#地上デジタルテレビ放送送信設備 "wikilink")[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（23ch）、[北海道文化放送](../Page/北海道文化放送.md "wikilink")（25ch）が、上北局のそれぞれNHK青森総合、青森テレビと重複するため、函館局の該当2局の受信は不可能となっている。
-  - アナログテレビジョン放送では、技術的・コスト的問題から、他の道内基幹局と同様、[NHK函館放送局](https://ja.wikipedia.org/wiki/NHK函館放送局 "wikilink")以外では音声多重放送を実施していなかったため、音声はモノラルであった。但し、字幕放送やアナログデータ放送は回線使用料を現状維持できるため利用可能であった。なお、民放各局の音声多重放送はデジタルのみで行い、アナログでは放送終了まで行わなかった。
+  - アナログテレビジョン放送では、技術的・コスト的問題から、他の道内基幹局と同様、[NHK函館放送局](../Page/NHK函館放送局.md "wikilink")以外では音声多重放送を実施していなかったため、音声はモノラルであった。但し、字幕放送やアナログデータ放送は回線使用料を現状維持できるため利用可能であった。なお、民放各局の音声多重放送はデジタルのみで行い、アナログでは放送終了まで行わなかった。
 
 ## 送信設備
 
@@ -22,9 +22,9 @@
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">コール<br />
 サイン<br />
 /呼出名称</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/チャンネル_(テレビ放送)" title="wikilink">物理<br />
+<th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">物理<br />
 チャンネル</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">NHK</a><br />
-<a href="https://ja.wikipedia.org/wiki/NHK函館放送局" title="wikilink">函館</a><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育</a></p></td>
+<a href="../Page/NHK函館放送局.md" title="wikilink">函館</a><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育</a></p></td>
 <td><p>JOVB-DTV</p></td>
 <td><p>14</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/全国" title="wikilink">全国</a></p></td>
@@ -63,7 +63,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>NHK<br />
-函館<a href="https://ja.wikipedia.org/wiki/NHK総合テレビジョン" title="wikilink">総合</a></p></td>
+函館<a href="../Page/NHK総合テレビジョン.md" title="wikilink">総合</a></p></td>
 <td><p>JOVK-DTV</p></td>
 <td><p>18</p></td>
 <td><p>10.5kW</p></td>
@@ -76,7 +76,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><p>STV<br />
-<a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ放送</a></p></td>
+<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a></p></td>
 <td><p>STV<br />
 函館DTV</p></td>
 <td><p>15</p></td>
@@ -130,13 +130,13 @@
 
 #### 放送エリア
 
-  - 函館市（南茅部、椴法華地区を除く）・[北斗市](../Page/北斗市.md "wikilink")・[上磯郡](https://ja.wikipedia.org/wiki/上磯郡 "wikilink")[木古内町](https://ja.wikipedia.org/wiki/木古内町 "wikilink")のほぼ全域、[上磯郡](https://ja.wikipedia.org/wiki/上磯郡 "wikilink")[知内町](https://ja.wikipedia.org/wiki/知内町 "wikilink")・[亀田郡](https://ja.wikipedia.org/wiki/亀田郡 "wikilink")[七飯町](https://ja.wikipedia.org/wiki/七飯町 "wikilink")の各一部。
+  - 函館市（南茅部、椴法華地区を除く）・[北斗市](../Page/北斗市.md "wikilink")・[上磯郡](../Page/上磯郡.md "wikilink")[木古内町](../Page/木古内町.md "wikilink")のほぼ全域、[上磯郡](../Page/上磯郡.md "wikilink")[知内町](../Page/知内町.md "wikilink")・[亀田郡](../Page/亀田郡.md "wikilink")[七飯町](../Page/七飯町.md "wikilink")の各一部。
 
 #### 歴史
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月15日](../Page/12月15日.md "wikilink") - 総務省北海道総合通信局が、開局した札幌を除く道内主要6局の地上デジタルテレビジョン放送局の無線局免許申請書を受理。
-  - [2007年](../Page/2007年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - [予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付。
-  - 2007年[7月30日](../Page/7月30日.md "wikilink") - [試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始。
+  - [2006年](../Page/2006年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink") - 総務省北海道総合通信局が、開局した札幌を除く道内主要6局の地上デジタルテレビジョン放送局の無線局免許申請書を受理。
+  - [2007年](../Page/2007年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - [予備免許](../Page/予備免許.md "wikilink")交付。
+  - 2007年[7月30日](../Page/7月30日.md "wikilink") - [試験放送](../Page/試験放送.md "wikilink")開始。
   - 2007年[9月26日](../Page/9月26日.md "wikilink") - 本免許交付。
   - 2007年[10月1日](../Page/10月1日.md "wikilink") - 本放送開始。
 
@@ -262,7 +262,7 @@
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a><br />
 （<a href="https://ja.wikipedia.org/wiki/MHz" title="wikilink">MHz</a>）</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p>コール<br />
 サイン<br />
 /呼出名称</p></th>
@@ -286,7 +286,7 @@
 </tr>
 <tr class="even">
 <td><p>80.7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FMいるか" title="wikilink">FMいるか</a></p></td>
+<td><p><a href="../Page/FMいるか.md" title="wikilink">FMいるか</a></p></td>
 <td><p>JOZZ1AA-FM</p></td>
 <td><p>20W</p></td>
 <td><p>32W</p></td>
@@ -296,7 +296,7 @@
 <tr class="odd">
 <td><p>87.0</p></td>
 <td><p>NHK<br />
-函館<a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FM</a></p></td>
+函館<a href="../Page/NHK-FM放送.md" title="wikilink">FM</a></p></td>
 <td><p>JOVK-FM[4]</p></td>
 <td><p>250W</p></td>
 <td><p>1.25kW</p></td>
@@ -349,12 +349,12 @@
 
 #### 放送エリア
 
-  - 北海道函館市・北斗市、上磯郡知内町・木古内町、亀田郡七飯町・[森町](https://ja.wikipedia.org/wiki/森町_\(北海道\) "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[下北郡](../Page/下北郡.md "wikilink")[大間町](https://ja.wikipedia.org/wiki/大間町 "wikilink")・[風間浦村](https://ja.wikipedia.org/wiki/風間浦村 "wikilink")・[佐井村](https://ja.wikipedia.org/wiki/佐井村 "wikilink")の各一部\[8\]
+  - 北海道函館市・北斗市、上磯郡知内町・木古内町、亀田郡七飯町・[森町](../Page/森町_\(北海道\).md "wikilink")、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[下北郡](../Page/下北郡.md "wikilink")[大間町](../Page/大間町.md "wikilink")・[風間浦村](../Page/風間浦村.md "wikilink")・[佐井村](../Page/佐井村.md "wikilink")の各一部\[8\]
 
 #### 歴史
 
-  - [2014年](../Page/2014年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") - [予備免許](https://ja.wikipedia.org/wiki/予備免許 "wikilink")交付\[9\]
-  - 2014年[5月13日](../Page/5月13日.md "wikilink") - [試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")開始\[10\]
+  - [2014年](../Page/2014年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") - [予備免許](../Page/予備免許.md "wikilink")交付\[9\]
+  - 2014年[5月13日](../Page/5月13日.md "wikilink") - [試験放送](../Page/試験放送.md "wikilink")開始\[10\]
   - [2014年](../Page/2014年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink") - 免許交付\[11\]
   - 2014年[7月18日](../Page/7月18日.md "wikilink") - 放送開始\[12\]
 
@@ -423,15 +423,15 @@
 
 <!-- end list -->
 
-  - [NHK函館放送局](https://ja.wikipedia.org/wiki/NHK函館放送局 "wikilink")
+  - [NHK函館放送局](../Page/NHK函館放送局.md "wikilink")
   - [北海道放送](../Page/北海道放送.md "wikilink")
-  - [札幌テレビ放送](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")
+  - [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")
   - [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")
   - [テレビ北海道](../Page/テレビ北海道.md "wikilink")
   - [北海道文化放送](../Page/北海道文化放送.md "wikilink")
   - [エフエム北海道](../Page/エフエム北海道.md "wikilink")
   - [エフエム・ノースウェーブ](../Page/エフエム・ノースウェーブ.md "wikilink")
-  - [FMいるか](https://ja.wikipedia.org/wiki/FMいるか "wikilink")
+  - [FMいるか](../Page/FMいるか.md "wikilink")
   - [ジャパン・モバイルキャスティング](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink")
 
 [Category:函館市の建築物](https://ja.wikipedia.org/wiki/Category:函館市の建築物 "wikilink") [Category:渡島・檜山地方の放送送信所](https://ja.wikipedia.org/wiki/Category:渡島・檜山地方の放送送信所 "wikilink") [Category:北海道地方のコミュニティFM放送送信所](https://ja.wikipedia.org/wiki/Category:北海道地方のコミュニティFM放送送信所 "wikilink") [Category:NHK函館](https://ja.wikipedia.org/wiki/Category:NHK函館 "wikilink") [Category:北海道放送](https://ja.wikipedia.org/wiki/Category:北海道放送 "wikilink") [Category:札幌テレビ放送](https://ja.wikipedia.org/wiki/Category:札幌テレビ放送 "wikilink") [Category:北海道テレビ放送](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送 "wikilink") [Category:テレビ北海道](https://ja.wikipedia.org/wiki/Category:テレビ北海道 "wikilink") [Category:北海道文化放送](https://ja.wikipedia.org/wiki/Category:北海道文化放送 "wikilink") [Category:エフエム北海道](https://ja.wikipedia.org/wiki/Category:エフエム北海道 "wikilink") [Category:NORTH_WAVE](https://ja.wikipedia.org/wiki/Category:NORTH_WAVE "wikilink")

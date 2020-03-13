@@ -14,7 +14,7 @@
       -
         作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲：[綿貫正顕](../Page/綿貫正顕.md "wikilink")　編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
     <!-- end list -->
-      - [ホーユー](https://ja.wikipedia.org/wiki/ホーユー "wikilink")「ビューティーラボ ナチュラルカラー」CMソング
+      - [ホーユー](../Page/ホーユー.md "wikilink")「ビューティーラボ ナチュラルカラー」CMソング
       - もともと生のストリングスを採用したアレンジだったが、あまりにも感傷的な曲になってしまったため、シンセサイザーに差し替えられた。
       - 長らくベスト・アルバムに収録されず、アルバム『[永遠](../Page/永遠_\(ZARDのアルバム\).md "wikilink")』(アルバムバージョン)でしか聴くことが出来なかったが、[2011年](../Page/2011年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に発売されたCD-BOX『[ZARD Single Collection ～20TH ANNIVERSARY～](https://ja.wikipedia.org/wiki/ZARD_SINGLE_COLLECTION_〜20th_ANNIVERSARY〜 "wikilink")』および、[2016年](../Page/2016年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に発売されたオールタイム・[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』に初めてシングルバージョンが収録された。
 2.  **GOOD DAY（オリジナルカラオケ）**
@@ -40,7 +40,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>GOOD DAY</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イ・スヨン" title="wikilink">イ・スヨン</a></p></td>
+<td><p><a href="../Page/イ・スヨン.md" title="wikilink">イ・スヨン</a></p></td>
 <td><p>『Sweet Holiday in Lombok』</p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/1月23日" title="wikilink">1月23日</a></p></td>
 <td><p>タイトルを「Good Bye」と変更されている。<br />

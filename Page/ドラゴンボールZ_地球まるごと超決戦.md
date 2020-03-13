@@ -1,25 +1,25 @@
 > この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
 
 
-『**ドラゴンボールZ 地球まるごと超決戦**』（ドラゴンボールゼット ちきゅうまるごとちょうけっせん）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に公開された『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』シリーズの劇場公開作第6弾である。監督は[西尾大介](https://ja.wikipedia.org/wiki/西尾大介 "wikilink")。
+『**ドラゴンボールZ 地球まるごと超決戦**』（ドラゴンボールゼット ちきゅうまるごとちょうけっせん）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に公開された『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』シリーズの劇場公開作第6弾である。監督は[西尾大介](../Page/西尾大介.md "wikilink")。
 
-夏休みの[東映アニメフェア](https://ja.wikipedia.org/wiki/東映アニメフェア "wikilink")「鳥山明THE WORLD」の1作品として上映された。同時上映作は『[Pink みずドロボウあめドロボウ](https://ja.wikipedia.org/wiki/PINK_\(鳥山明の漫画\) "wikilink")』、『[剣之介さま](https://ja.wikipedia.org/wiki/剣之介さま "wikilink")』。
+夏休みの[東映アニメフェア](../Page/東映アニメフェア.md "wikilink")「鳥山明THE WORLD」の1作品として上映された。同時上映作は『[Pink みずドロボウあめドロボウ](https://ja.wikipedia.org/wiki/PINK_\(鳥山明の漫画\) "wikilink")』、『[剣之介さま](https://ja.wikipedia.org/wiki/剣之介さま "wikilink")』。
 
 ## 解説
 
 邦画配給収入8億円、観客動員数220万人\[1\]。1996年初頭時点におけるビデオ販売本数は3万8千本\[2\]。
 
-『ドラゴンボール大全集』には「悟空の道着の、胸と背の悟マークから考えて、悟空が[ナメック星](https://ja.wikipedia.org/wiki/ナメック星 "wikilink")に到着した頃の話と思われる。だがターレス戦の舞台は地球という、劇場版ならではの矛盾もある」と書かれている\[3\]。ただし、[サイヤ人](../Page/サイヤ人.md "wikilink")戦で死亡したZ戦士全員が生きていること\[4\]や、[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")の髪型が違っている点など、原作とは細かい差異がある。
+『ドラゴンボール大全集』には「悟空の道着の、胸と背の悟マークから考えて、悟空が[ナメック星](../Page/ナメック星.md "wikilink")に到着した頃の話と思われる。だがターレス戦の舞台は地球という、劇場版ならではの矛盾もある」と書かれている\[3\]。ただし、[サイヤ人](../Page/サイヤ人.md "wikilink")戦で死亡したZ戦士全員が生きていること\[4\]や、[孫悟飯](../Page/孫悟飯.md "wikilink")の髪型が違っている点など、原作とは細かい差異がある。
 
 オープニングが、全作品で唯一レギュラーアニメと異なる演出で構成されている。また、本作では初めて[神龍がちょっとしたギャグテイストで描かれ](https://ja.wikipedia.org/wiki/神龍_\(ドラゴンボール\) "wikilink")、元気玉が1度の戦いで2度使用されるなど、他の作品と異なる描写が多い。
 
 サブタイトルは人気テレビ番組をもじったもの \[5\]。神精樹の設定は[朝鮮人参がモチーフとなっている](https://ja.wikipedia.org/wiki/オタネニンジン "wikilink")\[6\]。プロデューサーの[森下孝三](../Page/森下孝三.md "wikilink")がお土産にもらったものであり、朝鮮人参は畑の養分を吸いつくして大きくなるという話から考えられた\[7\]。神精樹のデザインは原作者の[鳥山明](../Page/鳥山明.md "wikilink")が担当。鳥山がキャラクター以外のデザインをするのは珍しいケースである\[8\]。
 
-本作のキャッチコピーは「悟空が二人\!?」となっており、悟空と同じ顔のキャラクターが初めて登場した作品である。顔が同じということから、ターレス役も悟空役の[野沢雅子](../Page/野沢雅子.md "wikilink")が兼任し、息子の悟飯も含めて1人3役を演じた。脚本を手掛けた[小山高生](https://ja.wikipedia.org/wiki/小山高生 "wikilink")は、故意に野沢を困らせてやろうと悟空、悟飯、ターレスの会話の部分を増やしたが、野沢は全く困ることなく演じたため、驚いたと語る\[9\]。共演者からも「凄かった」「見どころ」と評され、野沢も「役者として最高に幸せです」と述べている\[10\]。
+本作のキャッチコピーは「悟空が二人\!?」となっており、悟空と同じ顔のキャラクターが初めて登場した作品である。顔が同じということから、ターレス役も悟空役の[野沢雅子](../Page/野沢雅子.md "wikilink")が兼任し、息子の悟飯も含めて1人3役を演じた。脚本を手掛けた[小山高生](../Page/小山高生.md "wikilink")は、故意に野沢を困らせてやろうと悟空、悟飯、ターレスの会話の部分を増やしたが、野沢は全く困ることなく演じたため、驚いたと語る\[9\]。共演者からも「凄かった」「見どころ」と評され、野沢も「役者として最高に幸せです」と述べている\[10\]。
 
 鳥山明が考えていた原作では描かれていない裏設定では「サイヤ人は顔の種類が少ない」というものがあり、それを聞いたアニメスタッフが「悟空と同じ顔の敵は面白い」と考え、本作のターレスや後にテレビスペシャルで登場する[バーダック](https://ja.wikipedia.org/wiki/バーダック "wikilink")が作られた\[11\]。本作では「階級ごとに別々の育てられ方をするため、同じ階級の者は同じ顔になる」という設定が登場している\[12\]
 
-本作の公開後に[荘真由美](https://ja.wikipedia.org/wiki/荘真由美 "wikilink")が降板したため、荘が演じる[チチが登場する映画は本作が最後となった](../Page/チチ_\(ドラゴンボール\).md "wikilink")。以降は[プーアル](../Page/プーアル.md "wikilink")役で出演していた[渡辺菜生子](https://ja.wikipedia.org/wiki/渡辺菜生子 "wikilink")に引き継がれている。
+本作の公開後に[荘真由美](../Page/荘真由美.md "wikilink")が降板したため、荘が演じる[チチが登場する映画は本作が最後となった](../Page/チチ_\(ドラゴンボール\).md "wikilink")。以降は[プーアル](../Page/プーアル.md "wikilink")役で出演していた[渡辺菜生子](../Page/渡辺菜生子.md "wikilink")に引き継がれている。
 
 ## あらすじ
 
@@ -37,27 +37,27 @@
     一方で、悟空や悟飯に対して仲間にならないかと誘いをかけたり、「俺たちは生き残ったわずかな仲間」と発言するなど、同じサイヤ人に対して同族意識や仲間意識を僅かだが持ち合わせていることが覗える\[13\]。しかし、神精樹の実ばかり頼ったことを棚に上げ、悟空と悟飯を最下級戦士と見下すなど、あくまで手下として使えるからで仲間としての情は全くなく、それらのことから悟空から「赤ん坊の時に頭を打ってお前のようにならなくて良かった」と否定された。サイヤ人の中でも限られた者だけが作り出せるパワーボールも使用できるが、悟飯を大猿に変身させた直後に自らパワーボールを破壊し、自分まで大猿になってしまうと語っていることから、ターレス自身は大猿になった後は自我を抑制できないようである。『[ドラゴンボールZ Sparking\! NEO](https://ja.wikipedia.org/wiki/ドラゴンボールZ_Sparking!_NEO "wikilink")』でも大猿化すると自我を失い、言語も話せなくなる。
     神精樹の実を食べ続けてきたために戦闘力は高く、[ピッコロの攻撃を軽くいなし](../Page/ピッコロ_\(ドラゴンボール\).md "wikilink")、フルパワーでないとはいえ魔貫光殺砲を片手で受け止めたり、時間稼ぎのために立ち向かったピッコロやクリリンらZ戦士全員の一斉攻撃も返り討ちにした。その後、神精樹の実を食べて更なるパワーアップを遂げ、10倍界王拳を発動した悟空を圧倒。元気玉をも打ち破るが、最後は悟空が神精樹の元気から作り出した「スーパー元気玉」の直撃を受けて神精樹もろとも消滅した。
     ターレス軍団も[フリーザ一味](https://ja.wikipedia.org/wiki/フリーザ一味 "wikilink")の配下に属してはいるが、いつかは[フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")をも倒して宇宙を征服しようと狙っており、心から忠誠を誓っているわけではない\[14\]。偵察メカにより地球の豊かな土壌を知り、アモンド、ダイーズ、カカオ、レズン、ラカセイの計5人の配下を従えて地球に降り立ち、星の滋養を吸い尽くして滅ぼす神精樹の種を蒔き成長させた。
-    [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")ゲームおよびそれを原作としたOVA作品『[ドラゴンボールZ外伝 サイヤ人絶滅計画](https://ja.wikipedia.org/wiki/ドラゴンボールZ外伝_サイヤ人絶滅計画 "wikilink")』にて「サイヤ人に殺されたサイヤ人」として登場。フリーザやクウラ、スラッグと手を組み、超サイヤ人に変身した悟飯と再対決している。
-    [PlayStation 2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ドラゴンボールZ Sparking\! NEO](https://ja.wikipedia.org/wiki/ドラゴンボールZ_Sparking!_NEO "wikilink")』および『[ドラゴンボールZ Sparking\! METEOR](https://ja.wikipedia.org/wiki/ドラゴンボールZ_Sparking!_METEOR "wikilink")』でも登場するが、[ベジータ](https://ja.wikipedia.org/wiki/ベジータ "wikilink")と闘わせると「お坊ちゃん育ち」と皮肉り、[ヤムチャ](../Page/ヤムチャ.md "wikilink")と闘わせると「ローンの借りは返すぜ」と言われる（実際にヤムチャの新車を壊したのは部下のアモンドだが、ゲームには登場しないため）。
+    [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")ゲームおよびそれを原作としたOVA作品『[ドラゴンボールZ外伝 サイヤ人絶滅計画](../Page/ドラゴンボールZ外伝_サイヤ人絶滅計画.md "wikilink")』にて「サイヤ人に殺されたサイヤ人」として登場。フリーザやクウラ、スラッグと手を組み、超サイヤ人に変身した悟飯と再対決している。
+    [PlayStation 2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ドラゴンボールZ Sparking\! NEO](https://ja.wikipedia.org/wiki/ドラゴンボールZ_Sparking!_NEO "wikilink")』および『[ドラゴンボールZ Sparking\! METEOR](https://ja.wikipedia.org/wiki/ドラゴンボールZ_Sparking!_METEOR "wikilink")』でも登場するが、[ベジータ](../Page/ベジータ.md "wikilink")と闘わせると「お坊ちゃん育ち」と皮肉り、[ヤムチャ](../Page/ヤムチャ.md "wikilink")と闘わせると「ローンの借りは返すぜ」と言われる（実際にヤムチャの新車を壊したのは部下のアモンドだが、ゲームには登場しないため）。
     『[ドラゴンボールヒーローズ](https://ja.wikipedia.org/wiki/ドラゴンボールヒーローズ "wikilink")』の暗黒帝国編では暗黒ドラゴンボールの四星球を与えられ、再び神精樹を植え付ける。さらに四星球が埋め込まれた胸部を中心に渦模様のような赤い痣が顔にまで広がり、眼が赤く光る暴走形態に変化した。なお、タイムパトローラーの悟空は顔見知りらしい。
     『[ドラゴンボールヒーローズ アルティメットミッションX](https://ja.wikipedia.org/wiki/ドラゴンボールヒーローズ "wikilink")』ではバーダック一味を唆して神精樹の実でサイヤ人が支配する世界を作ろうと企むも、その行為を見たトーマから「サイヤ人としての誇りがない」と言われた。『[ドラゴンボール ゼノバース2](https://ja.wikipedia.org/wiki/ドラゴンボール_ゼノバース2 "wikilink")』では悟空に倒された後、トワたちによって復活し、スラッグと共に新米タイムパトローラーや悟空の邪魔をする一方、スラッグたちを出し抜いて永遠の命を手に入れようとする。またスラッグのことは前々から知っていた様子。
     ナメック星編の時期に行われた鳥山明の漫画全般を対象にしたキャラクター人気投票では第26位にランク入りしている\[15\]。
     名前の由来は[レタス](../Page/レタス.md "wikilink")から\[16\]。
   - 宇宙壊し屋（うちゅうクラッシャー）ターレス軍団
     ターレス配下の5人。彼らはいずれもサイヤ人ではなく、全て他種族の宇宙人やサイボーグなどで構成されている。一致団結して悟空と戦うが、一気に力を爆発させた悟空の一撃によって次々に倒された。名前は豆などの[種実類](../Page/種実類.md "wikilink")に由来する。
-    各キャラクターの設定は、本作の映画パンフレット『[東映アニメフェア](https://ja.wikipedia.org/wiki/東映アニメフェア "wikilink")'90夏「鳥山明 THE WORLD」』\[17\]に記載されたもの。
+    各キャラクターの設定は、本作の映画パンフレット『[東映アニメフェア](../Page/東映アニメフェア.md "wikilink")'90夏「鳥山明 THE WORLD」』\[17\]に記載されたもの。
   - <span id="アモンド">アモンド</span>
     ターレス軍団一の巨漢。長髪を後ろで束ねている。「〜でっせい」が口癖。情報分析力にも長けている。
     凶悪な犯罪者であったため、宇宙警察機構に掴まりナッツ星に収容されていたが、ターレスが同星を侵略した時に脱獄し仲間となる\[18\]。体を高速回転させて、気円斬を跳ね返すなどしてクリリンを追い詰めた。神精樹を植える穴を掘るための爆発波を撃ち、ヤムチャが15年ローンで購入した新車を破壊した張本人。
     『[ドラゴンボールヒーローズ アルティメットミッション](https://ja.wikipedia.org/wiki/ドラゴンボールヒーローズ "wikilink")』ではクリリンに勝負を挑むが倒された。
-    名前の由来は[アーモンド](https://ja.wikipedia.org/wiki/アーモンド "wikilink")から\[19\]。
+    名前の由来は[アーモンド](../Page/アーモンド.md "wikilink")から\[19\]。
   - <span id="ダイーズ">ダイーズ</span>
     イヤリングやネックレスを身に着けたキザな男。もとはカボーチャ星プキンパ王朝の王子で、同星がターレスの攻撃を受けた際に防衛軍を率い抵抗\[20\]。その勇敢さを見込まれターレス軍団に加わる\[21\]。カカオとの連携攻撃が得意。
     『ドラゴンボールヒーローズ アルティメットミッション』ではカカオとタッグを組むが、悟空とヤムチャのコンビに倒された。
     名前の由来は[大豆から](../Page/ダイズ.md "wikilink")\[22\]\[23\]。
   - <span id="カカオ">カカオ</span>
     イコンダ星で星間戦争が起こった際に造られた\[24\]、「ンダ」としか喋らない戦闘サイボーグ。宇宙の賞金稼ぎだったが、自らターレスの手下になった。強固な外装で武装しており、身体各所のバーニアを利用してロケット噴射による高速移動が可能。繰気弾を駆使して戦うヤムチャを圧倒的なスピードで苦戦させた。
-    『[ドラゴンボールZ 復活のフュージョン\!\!悟空とベジータ](https://ja.wikipedia.org/wiki/ドラゴンボールZ_復活のフュージョン!!悟空とベジータ "wikilink")』ではあの世から復活している。
+    『[ドラゴンボールZ 復活のフュージョン\!\!悟空とベジータ](../Page/ドラゴンボールZ_復活のフュージョン!!悟空とベジータ.md "wikilink")』ではあの世から復活している。
     『ドラゴンボールヒーローズ アルティメットミッション』ではダイーズとタッグを組むが、悟空とヤムチャのコンビに倒された。
     名前の由来は[カカオ](../Page/カカオ.md "wikilink")から\[25\]。
   - <span id="レズン&ラカセイ">レズン&ラカセイ</span>
@@ -67,21 +67,21 @@
 
 ## 声の出演
 
-  - **[孫悟空](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")、[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯 "wikilink")、ターレス** - [野沢雅子](../Page/野沢雅子.md "wikilink")
-  - **[クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")** - [田中真弓](../Page/田中真弓.md "wikilink")
+  - **[孫悟空](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")、[孫悟飯](../Page/孫悟飯.md "wikilink")、ターレス** - [野沢雅子](../Page/野沢雅子.md "wikilink")
+  - **[クリリン](../Page/クリリン.md "wikilink")** - [田中真弓](../Page/田中真弓.md "wikilink")
   - **[ヤムチャ](../Page/ヤムチャ.md "wikilink")** - [古谷徹](../Page/古谷徹.md "wikilink")
   - **[天津飯](../Page/天津飯_\(ドラゴンボール\).md "wikilink")** - [鈴置洋孝](https://ja.wikipedia.org/wiki/鈴置洋孝 "wikilink")
-  - **[餃子](../Page/餃子_\(ドラゴンボール\).md "wikilink")** - [江森浩子](https://ja.wikipedia.org/wiki/江森浩子 "wikilink")
+  - **[餃子](../Page/餃子_\(ドラゴンボール\).md "wikilink")** - [江森浩子](../Page/江森浩子.md "wikilink")
   - **[ピッコロ](../Page/ピッコロ_\(ドラゴンボール\).md "wikilink")** - [古川登志夫](../Page/古川登志夫.md "wikilink")
-  - **[亀仙人](https://ja.wikipedia.org/wiki/亀仙人 "wikilink")** - [宮内幸平](https://ja.wikipedia.org/wiki/宮内幸平 "wikilink")
-  - **[ブルマ](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink")** - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
-  - **[チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")** - [荘真由美](https://ja.wikipedia.org/wiki/荘真由美 "wikilink")
+  - **[亀仙人](../Page/亀仙人.md "wikilink")** - [宮内幸平](../Page/宮内幸平.md "wikilink")
+  - **[ブルマ](../Page/ブルマ_\(ドラゴンボール\).md "wikilink")** - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
+  - **[チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")** - [荘真由美](../Page/荘真由美.md "wikilink")
   - **[ウーロン](https://ja.wikipedia.org/wiki/ウーロン "wikilink")、バブルス、ハイヤードラゴン** - [龍田直樹](../Page/龍田直樹.md "wikilink")\[29\]
-  - **[プーアル](../Page/プーアル.md "wikilink")** - [渡辺菜生子](https://ja.wikipedia.org/wiki/渡辺菜生子 "wikilink")
+  - **[プーアル](../Page/プーアル.md "wikilink")** - [渡辺菜生子](../Page/渡辺菜生子.md "wikilink")
   - **[北の界王](https://ja.wikipedia.org/wiki/界王#北の界王 "wikilink")** - [八奈見乗児](../Page/八奈見乗児.md "wikilink")
   - **レズン、[神龍](https://ja.wikipedia.org/wiki/神龍_\(ドラゴンボール\) "wikilink")** - [内海賢二](../Page/内海賢二.md "wikilink")\[30\]
-  - **ラカセイ** - [佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(声優\) "wikilink")
-  - **ダイーズ** - [真地勇志](https://ja.wikipedia.org/wiki/真地勇志 "wikilink")
+  - **ラカセイ** - [佐藤正治](../Page/佐藤正治_\(声優\).md "wikilink")
+  - **ダイーズ** - [真地勇志](../Page/真地勇志.md "wikilink")
   - **カカオ** - [里内信夫](../Page/里内信夫.md "wikilink")
   - **アモンド** - [銀河万丈](../Page/銀河万丈.md "wikilink")
 
@@ -89,28 +89,28 @@
 
   - 製作総指揮 - [今田智憲](../Page/今田智憲.md "wikilink")、小島民雄
   - 原作 - [鳥山明](../Page/鳥山明.md "wikilink")
-  - 企画 - [森下孝三](../Page/森下孝三.md "wikilink")、[清水賢治](https://ja.wikipedia.org/wiki/清水賢治 "wikilink")、[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")
+  - 企画 - [森下孝三](../Page/森下孝三.md "wikilink")、[清水賢治](../Page/清水賢治.md "wikilink")、[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")
   - 製作担当 - 岸本松司、堀川和政
-  - 脚本 - [小山高生](https://ja.wikipedia.org/wiki/小山高生 "wikilink")
-  - 音楽 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
+  - 脚本 - [小山高生](../Page/小山高生.md "wikilink")
+  - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影監督 - 池上元秋
   - 編集 - 福光伸一
   - 録音 - 二宮健治
   - 美術監督 - [池田祐二](https://ja.wikipedia.org/wiki/池田祐二 "wikilink")
-  - 作画監督 - [前田実](https://ja.wikipedia.org/wiki/前田実 "wikilink")
-  - 監督 - [西尾大介](https://ja.wikipedia.org/wiki/西尾大介 "wikilink")
-  - コンテ - 西尾大介、[山内重保](https://ja.wikipedia.org/wiki/山内重保 "wikilink")、上田芳裕、[橋本光夫](https://ja.wikipedia.org/wiki/橋本みつお "wikilink")、折目達也
+  - 作画監督 - [前田実](../Page/前田実.md "wikilink")
+  - 監督 - [西尾大介](../Page/西尾大介.md "wikilink")
+  - コンテ - 西尾大介、[山内重保](../Page/山内重保.md "wikilink")、上田芳裕、[橋本光夫](https://ja.wikipedia.org/wiki/橋本みつお "wikilink")、折目達也
   - 作画監督補佐 - [中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、佐藤正樹
-  - 原画 - [須田正己](https://ja.wikipedia.org/wiki/須田正己 "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[江口寿志](../Page/江口寿志.md "wikilink")、佐藤正樹 他
+  - 原画 - [須田正己](../Page/須田正己.md "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[江口寿志](../Page/江口寿志.md "wikilink")、佐藤正樹 他
   - 美術 - 高田茂祝、長崎斉
   - 宣伝協力 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")
 
 ## 主題歌
 
-  - オープニングテーマ - 「[CHA-LA HEAD-CHA-LA](https://ja.wikipedia.org/wiki/CHA-LA_HEAD-CHA-LA "wikilink")」
-    作詞 - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - [山本健司](https://ja.wikipedia.org/wiki/山本健司 "wikilink") / 歌 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+  - オープニングテーマ - 「[CHA-LA HEAD-CHA-LA](../Page/CHA-LA_HEAD-CHA-LA.md "wikilink")」
+    作詞 - [森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - [山本健司](../Page/山本健司.md "wikilink") / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
   - エンディングテーマ - 「まるごと」
-    作詞 - [佐藤大](https://ja.wikipedia.org/wiki/佐藤大 "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - 山本健司 / 歌 - 影山ヒロノブ、Ammy
+    作詞 - [佐藤大](../Page/佐藤大.md "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - 山本健司 / 歌 - 影山ヒロノブ、Ammy
 
 ## 映像ソフト
 
@@ -157,11 +157,11 @@
 5.  渡辺彰則編 「ANIMATION'S GLEANINGS DBアニメの舞台裏　Planning PART2・TVスペシャル&劇場版編」『ドラゴンボール大全集 補巻』集英社、1996年8月18日、ISBN 4-08-102019-1、68頁。
 6.  週刊少年ジャンプ特別編集「映画超決戦座談会」『鳥山明 THE WORLD アニメスペシャル』集英社、1990年10月10日、雑誌29939-10/10、133頁。
 7.  渡辺彰則編「'89〜'90memorial」『ドラゴンボール大全集 6巻』68頁。
-8.  鈴木晴彦編「鳥山明アニメデザイン集」『テレビアニメ完全ガイド 『DRAGON BALL Z』孫悟空伝説』集英社〈[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")〉、2003年10月8日、ISBN 4-08-873546-3、140頁。
+8.  鈴木晴彦編「鳥山明アニメデザイン集」『テレビアニメ完全ガイド 『DRAGON BALL Z』孫悟空伝説』集英社〈[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")〉、2003年10月8日、ISBN 4-08-873546-3、140頁。
 9.  鈴木晴彦編「天下一座談会 鳥山明×小山高生×野沢雅子」『テレビアニメ完全ガイド「DRAGONBALL」〜天下一伝説〜』集英社〈ジャンプ・コミックス〉、2004年7月7日、ISBN 4-08-873705-9、88頁。
 10. 週刊少年ジャンプ特別編集「鳥山明 THE WORLD アニメ設定資料館 ドラゴンボールZ 地球まるごと超決戦」『鳥山明 THE WORLD アニメスペシャル』176・180-181頁。
 11. 鈴木晴彦編『ドラゴンボール完全版公式ガイド Dragonball FOREVER 人造人間編〜魔人ブウ編 ALL BOUTS & CHARACTERS』198頁。
-12. 「鳥山明 THE WORLD」『[東映アニメフェア](https://ja.wikipedia.org/wiki/東映アニメフェア "wikilink")'90夏（ドラゴンボールZ 地球まるごと超決戦/[剣之介さま](https://ja.wikipedia.org/wiki/剣之介さま "wikilink")/[Pink みずドロボウあめドロボウ](https://ja.wikipedia.org/wiki/PINK_\(鳥山明の漫画\) "wikilink")）パンフレット』東映、1990年7月7日、全頁頁数記載なし。
+12. 「鳥山明 THE WORLD」『[東映アニメフェア](../Page/東映アニメフェア.md "wikilink")'90夏（ドラゴンボールZ 地球まるごと超決戦/[剣之介さま](https://ja.wikipedia.org/wiki/剣之介さま "wikilink")/[Pink みずドロボウあめドロボウ](https://ja.wikipedia.org/wiki/PINK_\(鳥山明の漫画\) "wikilink")）パンフレット』東映、1990年7月7日、全頁頁数記載なし。
 13. ベジータは悟空を「落ちこぼれのクズ野郎」などと卑下し、自身を「エリート」と称していた。
 14. [Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")編集部編「其の二 DRAGON ADVENTURE ストーリーアーカイブ(1)●地球まるごと超決戦編／●超サイヤ人だ孫悟空編」『バンダイナムコゲームス公式攻略本 プレイステーション2版　ドラゴンボールZ Sparking\! NEO 新武闘書』 集英社、2006年10月10日、ISBN 4-08-779385-0、187頁。
 15. 週刊少年ジャンプ特別編集「わくわくBIRD LAND キャラクター人気投票-おもしろ番外編\!\!」『鳥山明 THE WORLD アニメ・スペシャル』108頁。

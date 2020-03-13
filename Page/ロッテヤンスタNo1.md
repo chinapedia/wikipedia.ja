@@ -42,19 +42,19 @@
 
 ## その後のロッテ枠
 
-本番組終了後は、ニッポン放送の土曜日夜ワイド番組の内24:30 - 25:00の枠を同時ネットする形で、これまでと同じく東京（[関東広域圏](../Page/広域放送.md "wikilink")）、名古屋（[中京広域圏](https://ja.wikipedia.org/wiki/東海3県 "wikilink")）、大阪（[近畿広域圏](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")）の3エリアで、以下の番組が放送されていた（このため、東海ラジオの放送枠もこれまでの23:00から24:30に移動）。[1992年](../Page/1992年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の改編をもって土曜日夜のロッテ提供枠は終了した。
+本番組終了後は、ニッポン放送の土曜日夜ワイド番組の内24:30 - 25:00の枠を同時ネットする形で、これまでと同じく東京（[関東広域圏](../Page/広域放送.md "wikilink")）、名古屋（[中京広域圏](../Page/東海3県.md "wikilink")）、大阪（[近畿広域圏](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")）の3エリアで、以下の番組が放送されていた（このため、東海ラジオの放送枠もこれまでの23:00から24:30に移動）。[1992年](../Page/1992年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の改編をもって土曜日夜のロッテ提供枠は終了した。
 
   - ロッテハートでBANBAN
-      - パーソナリティ：[森川由加里](https://ja.wikipedia.org/wiki/森川由加里 "wikilink")、[森口博子](../Page/森口博子.md "wikilink")、[芳本美代子](https://ja.wikipedia.org/wiki/芳本美代子 "wikilink")、[小倉久寛](https://ja.wikipedia.org/wiki/小倉久寛 "wikilink")（1990年9月まで、『[青春コール東京ハラギャーテーズ](../Page/青春コール東京ハラギャーテーズ.md "wikilink")』と同じ出演者）
+      - パーソナリティ：[森川由加里](../Page/森川由加里.md "wikilink")、[森口博子](../Page/森口博子.md "wikilink")、[芳本美代子](https://ja.wikipedia.org/wiki/芳本美代子 "wikilink")、[小倉久寛](../Page/小倉久寛.md "wikilink")（1990年9月まで、『[青春コール東京ハラギャーテーズ](../Page/青春コール東京ハラギャーテーズ.md "wikilink")』と同じ出演者）
     <!-- end list -->
       -
-        → [森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")、[山田雅人](https://ja.wikipedia.org/wiki/山田雅人 "wikilink")（1990年10月 - 1991年3月、『[森脇・山田のパニックしようぜ\!東京ハラギャーテーズ](../Page/森脇・山田のパニックしようぜ!東京ハラギャーテーズ.md "wikilink")』と同じ出演者）
+        → [森脇健児](../Page/森脇健児.md "wikilink")、[山田雅人](../Page/山田雅人.md "wikilink")（1990年10月 - 1991年3月、『[森脇・山田のパニックしようぜ\!東京ハラギャーテーズ](../Page/森脇・山田のパニックしようぜ!東京ハラギャーテーズ.md "wikilink")』と同じ出演者）
   - ロッテ ティーンズベスト10
       - パーソナリティ：[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")、[穴井夕子](https://ja.wikipedia.org/wiki/穴井夕子 "wikilink")、[米光美保](../Page/米光美保.md "wikilink")（1991年4月 - 1992年3月、『[東京サウンドバズーカ音姫絵巻](../Page/東京サウンドバズーカ音姫絵巻.md "wikilink")』と同じ出演者）
 
 なお、ロッテ枠は10年間のブランクを経た後の2002年4月にニッポン放送の[日曜日](../Page/日曜日.md "wikilink")22時台へ移り、「ロッテ・ガールズハッピータイム」と題して『[上戸彩 ハタチにハイタッチ\!](https://ja.wikipedia.org/wiki/上戸彩_ハタチにハイタッチ! "wikilink")』『[上戸彩 21ピース\!](https://ja.wikipedia.org/wiki/上戸彩_21ピース! "wikilink")』『[長澤まさみタイトル未定（仮）→長澤まさみSweet Hertz](../Page/長澤まさみSweet_Hertz.md "wikilink")』を放送。2012年4月からは『ロッテ・週末ヒロインタイム [ももいろクローバーZ ももクロくらぶxoxo](https://ja.wikipedia.org/wiki/ももいろクローバーZ_ももクロくらぶxoxo "wikilink")』を放送中（但し、これらの番組のネット局ではロッテの冠協賛が付いていない）。この日曜22時からの30分枠では、長年女性アイドル歌手・女優が伝統的にパーソナリティを担当している。
 
-一方、ニッポン放送-東海ラジオ間の24時台後半枠のネットワークについては暫くのブランクがあったものの、『[ドリアン助川の正義のラジオ\!ジャンベルジャン\!](https://ja.wikipedia.org/wiki/ドリアン助川の正義のラジオ!ジャンベルジャン! "wikilink")』によって拡大・復活し、現在の『[オールナイトニッポンサタデースペシャル 大倉くんと高橋くん](https://ja.wikipedia.org/wiki/オールナイトニッポンサタデースペシャル_大倉くんと高橋くん "wikilink")』に引き継がれている。
+一方、ニッポン放送-東海ラジオ間の24時台後半枠のネットワークについては暫くのブランクがあったものの、『[ドリアン助川の正義のラジオ\!ジャンベルジャン\!](../Page/ドリアン助川の正義のラジオ!ジャンベルジャン!.md "wikilink")』によって拡大・復活し、現在の『[オールナイトニッポンサタデースペシャル 大倉くんと高橋くん](https://ja.wikipedia.org/wiki/オールナイトニッポンサタデースペシャル_大倉くんと高橋くん "wikilink")』に引き継がれている。
 
 ## 脚注
 
@@ -62,7 +62,7 @@
 
 [Category:お笑い芸人のラジオ番組](https://ja.wikipedia.org/wiki/Category:お笑い芸人のラジオ番組 "wikilink") [Category:ニッポン放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のバラエティ番組 "wikilink") [Category:ニッポン放送の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の音楽番組の歴史 "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink") [Category:ニッポン放送の一社提供番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の一社提供番組 "wikilink") [Category:ロッテ一社提供番組](https://ja.wikipedia.org/wiki/Category:ロッテ一社提供番組 "wikilink") [Category:1975年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1975年のラジオ番組_\(日本\) "wikilink") [Category:1980年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1980年のラジオ番組_\(日本\) "wikilink") [Category:所ジョージ](https://ja.wikipedia.org/wiki/Category:所ジョージ "wikilink") [Category:明石家さんま](https://ja.wikipedia.org/wiki/Category:明石家さんま "wikilink") [Category:ダウンタウン](https://ja.wikipedia.org/wiki/Category:ダウンタウン "wikilink")
 
-1.  月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink") 1989年2月号 p.36 - 37「アイドル事情通御用達プログラム『ロッテヤンスタNo.1』のここが面白い」
+1.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1989年2月号 p.36 - 37「アイドル事情通御用達プログラム『ロッテヤンスタNo.1』のここが面白い」
 2.
 3.  月刊ラジオパラダイス 1988年4月号 p.111 など。
 4.

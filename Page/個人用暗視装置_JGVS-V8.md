@@ -1,15 +1,15 @@
 > この記事は[ JGVS-V8](https://ja.wikipedia.org/wiki/_JGVS-V8)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:個人用暗視装置_\(8464520077\).jpg "wikilink") **個人用暗視装置 JGVS-V8**（こじんようあんしそうち ジェイジーブイエス・ブイエイト）は、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")で採用されている[暗視装置](https://ja.wikipedia.org/wiki/暗視装置 "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/画像:個人用暗視装置_\(8464520077\).jpg "wikilink") **個人用暗視装置 JGVS-V8**（こじんようあんしそうち ジェイジーブイエス・ブイエイト）は、[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")で採用されている[暗視装置](../Page/暗視装置.md "wikilink")。
 
-[アメリカ軍](../Page/アメリカ軍.md "wikilink")でも採用されている[ITT社製の](https://ja.wikipedia.org/wiki/:en:ITT_Corporation "wikilink")[AN/PVS-14](https://ja.wikipedia.org/wiki/AN/PVS-14 "wikilink")を[日本電気](../Page/日本電気.md "wikilink")（NEC）が[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")したものである\[1\]。
+[アメリカ軍](../Page/アメリカ軍.md "wikilink")でも採用されている[ITT社製の](https://ja.wikipedia.org/wiki/:en:ITT_Corporation "wikilink")[AN/PVS-14](https://ja.wikipedia.org/wiki/AN/PVS-14 "wikilink")を[日本電気](../Page/日本電気.md "wikilink")（NEC）が[ライセンス生産](../Page/ライセンス生産.md "wikilink")したものである\[1\]。
 
 ## 仕様
 
 前任の[JGVS-V3と同様の](../Page/微光暗視眼鏡_JGVS-V3.md "wikilink")[可視光増幅方式だが](https://ja.wikipedia.org/wiki/暗視装置#パッシブ方式 "wikilink")、[光電子増倍管](../Page/光電子増倍管.md "wikilink")を[ヒ化ガリウム](../Page/ヒ化ガリウム.md "wikilink")（GaAS）素子とした第3世代型とされている。これによって、有効視認距離は前世代型と比して25％程度増大している\[2\]。
 
-JGVS-V8は旧来の暗視装置と違い単眼式（モノキュラー）で、[88式鉄帽](../Page/88式鉄帽.md "wikilink")に装着したり、手で直接持って左右どちらかの目で使用する。88式鉄帽に装着している場合、前方の重量が増加して安定性が低下するため、3点式あご紐と後部にバラスト入れが付いた鉄帽覆いが支給されている。また、使用しないときには装置を上に跳ね上げておいたり、ヘルメットに基台やアタッチメントだけ残して簡単に取り外すことが出来る。なお、これを装着した状態では[89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")の[照準器](https://ja.wikipedia.org/wiki/照準器 "wikilink")が使用できなくなるため、銃身部に、肉眼では視認不可能だが暗視装置では視認可能な[赤外線](../Page/赤外線.md "wikilink")[レーザーサイト](https://ja.wikipedia.org/wiki/レーザーサイト "wikilink")を装着することで照準を行う。
+JGVS-V8は旧来の暗視装置と違い単眼式（モノキュラー）で、[88式鉄帽](../Page/88式鉄帽.md "wikilink")に装着したり、手で直接持って左右どちらかの目で使用する。88式鉄帽に装着している場合、前方の重量が増加して安定性が低下するため、3点式あご紐と後部にバラスト入れが付いた鉄帽覆いが支給されている。また、使用しないときには装置を上に跳ね上げておいたり、ヘルメットに基台やアタッチメントだけ残して簡単に取り外すことが出来る。なお、これを装着した状態では[89式5.56mm小銃](../Page/89式5.56mm小銃.md "wikilink")の[照準器](../Page/照準器.md "wikilink")が使用できなくなるため、銃身部に、肉眼では視認不可能だが暗視装置では視認可能な[赤外線](../Page/赤外線.md "wikilink")[レーザーサイト](https://ja.wikipedia.org/wiki/レーザーサイト "wikilink")を装着することで照準を行う。
 
 単眼式で遠近感がつかめないため車両やヘリの操縦は難しく、現在でも車両の運転手は[JGVS-V3](../Page/微光暗視眼鏡_JGVS-V3.md "wikilink")、ヘリのパイロットは[JAVN-V6をそれぞれ使用している](https://ja.wikipedia.org/wiki/個人暗視眼鏡_JAVN-V6 "wikilink")。
 
@@ -29,7 +29,7 @@ JGVS-V8は旧来の暗視装置と違い単眼式（モノキュラー）で、[
 
 ## 調達
 
-1セットあたりの価格は約70万円と、個人装備としては高価だが、2000年代初頭の調達開始以降、毎年数千セットの調達が行われており、[普通科](https://ja.wikipedia.org/wiki/普通科_\(陸上自衛隊\) "wikilink")、[機甲科](../Page/機甲科.md "wikilink")（偵察部隊）、[施設科](../Page/施設科.md "wikilink")などの戦闘部隊に配備が進められている。19年度予算からは改良されたJGVS-V8-Bに生産が移行している。
+1セットあたりの価格は約70万円と、個人装備としては高価だが、2000年代初頭の調達開始以降、毎年数千セットの調達が行われており、[普通科](../Page/普通科_\(陸上自衛隊\).md "wikilink")、[機甲科](../Page/機甲科.md "wikilink")（偵察部隊）、[施設科](../Page/施設科.md "wikilink")などの戦闘部隊に配備が進められている。19年度予算からは改良されたJGVS-V8-Bに生産が移行している。
 
 | 調達年度          | 数量        |
 | ------------- | --------- |

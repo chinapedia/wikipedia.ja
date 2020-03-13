@@ -43,4 +43,4 @@
 
 ## ssa
 
-  - [ナイル・サハラ語族](../Page/ナイル・サハラ語族.md "wikilink") () の [ISO 639](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")-2 言語コード。
+  - [ナイル・サハラ語族](../Page/ナイル・サハラ語族.md "wikilink") () の [ISO 639](../Page/ISO_639.md "wikilink")-2 言語コード。

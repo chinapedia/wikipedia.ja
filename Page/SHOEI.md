@@ -1,7 +1,7 @@
 > この記事は[SHOEI](https://ja.wikipedia.org/wiki/SHOEI)から翻訳されています。
 
 
-**株式会社SHOEI**（ショウエイ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[台東区](../Page/台東区.md "wikilink")に本社を置く[ヘルメット](../Page/ヘルメット.md "wikilink")メーカー。
+**株式会社SHOEI**（ショウエイ）は、[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")に本社を置く[ヘルメット](../Page/ヘルメット.md "wikilink")メーカー。
 
 ## 概要
 
@@ -13,17 +13,17 @@
 
 1980年代には世界一の生産量を誇るヘルメットメーカーに成長。1986年に当時本田技術研究所より独立し設計事務所を営んでいた[CKデザイン](https://ja.wikipedia.org/wiki/CKデザイン "wikilink")の佐々木和夫を技術顧問として迎えた。佐々木提案によるヘルメットの快適性をテーマに風切音や換気性などの改善と向上に努め、頭部を保護するだけではなく快適性も備えたものへと発展させた。この機能を具備したヘルメットはオンロード用だけのとどまらず、オフロードも含め波及した。この頃に新橋の鎌田の旅館は本社ビルに改装され一階は日本料理屋として打合せなどにも活用されていた。旅館の息子というだけあって鎌田の料理の腕前もなかなかのものだった。
 
-[1992年](../Page/1992年.md "wikilink")、放漫経営などによる資金繰りの悪化から[会社更生法](../Page/会社更生法.md "wikilink")の適用を申請。[三菱商事](https://ja.wikipedia.org/wiki/三菱商事 "wikilink")の支援もあって当初計画を前倒しして[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に更生手続を終了。同年5月に株式会社シヨウエイ、同年8月に現社名に変更する。
+[1992年](../Page/1992年.md "wikilink")、放漫経営などによる資金繰りの悪化から[会社更生法](../Page/会社更生法.md "wikilink")の適用を申請。[三菱商事](../Page/三菱商事.md "wikilink")の支援もあって当初計画を前倒しして[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に更生手続を終了。同年5月に株式会社シヨウエイ、同年8月に現社名に変更する。
 
 [2004年](../Page/2004年.md "wikilink")、[ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")に上場するが、2007年10月7日上場廃止。同年[東京証券取引所](../Page/東京証券取引所.md "wikilink")2部に上場。[2015年](../Page/2015年.md "wikilink")10月29日に東京証券取引所第一部に指定替えされた。
 
 ## エピソード
 
-以前は4輪レース用のヘルメットも製造。[長谷見昌弘](https://ja.wikipedia.org/wiki/長谷見昌弘 "wikilink")や[鈴木亜久里](https://ja.wikipedia.org/wiki/鈴木亜久里 "wikilink")などが使用。[アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")、[ジャン・アレジ](../Page/ジャン・アレジ.md "wikilink")なども一時期使用していた。現在の製品ラインナップは2輪用のみである。[MotoGP](https://ja.wikipedia.org/wiki/MotoGP "wikilink")では[マルク・マルケス](https://ja.wikipedia.org/wiki/マルク・マルケス "wikilink")や[トニ・エリアス](../Page/トニ・エリアス.md "wikilink")らが着用している。
+以前は4輪レース用のヘルメットも製造。[長谷見昌弘](../Page/長谷見昌弘.md "wikilink")や[鈴木亜久里](../Page/鈴木亜久里.md "wikilink")などが使用。[アイルトン・セナ](../Page/アイルトン・セナ.md "wikilink")、[ジャン・アレジ](../Page/ジャン・アレジ.md "wikilink")なども一時期使用していた。現在の製品ラインナップは2輪用のみである。[MotoGP](https://ja.wikipedia.org/wiki/MotoGP "wikilink")では[マルク・マルケス](https://ja.wikipedia.org/wiki/マルク・マルケス "wikilink")や[トニ・エリアス](../Page/トニ・エリアス.md "wikilink")らが着用している。
 
 世界GPに参戦する[エディ・ローソン](../Page/エディ・ローソン.md "wikilink")にヘルメットを供給していた同社は、彼がトップグレードのヘルメットではなく、セカンドグレードのヘルメットを使っていることに疑問を抱き、エディに理由を聞いたところ、「こっちのほうが風切り音が少ないから」と答えた。
 
-時速300[キロメートルに達することもあるレース中](https://ja.wikipedia.org/wiki/キロメートル毎時 "wikilink")、ライダーは常に暴風の真っ只中にいるような風切り音にさらされる。ショウエイの技術者は、さして注意を払っていなかった（あえて無視していた）が、エディが神経を使っていた事に驚き、その塊のような[空気抵抗](https://ja.wikipedia.org/wiki/空気抵抗 "wikilink")と闘いながら走るチャンピオンの意見を無視することもできず、後に空気抵抗の影響がより少ない「X-8」の特徴的なシールド開発へとつながっていった。
+時速300[キロメートルに達することもあるレース中](../Page/キロメートル毎時.md "wikilink")、ライダーは常に暴風の真っ只中にいるような風切り音にさらされる。ショウエイの技術者は、さして注意を払っていなかった（あえて無視していた）が、エディが神経を使っていた事に驚き、その塊のような[空気抵抗](https://ja.wikipedia.org/wiki/空気抵抗 "wikilink")と闘いながら走るチャンピオンの意見を無視することもできず、後に空気抵抗の影響がより少ない「X-8」の特徴的なシールド開発へとつながっていった。
 
 2011年の[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")では岩手と茨城の両工場が被災した。損害額は6,300万円であった。
 
@@ -61,7 +61,7 @@
 
 ## 工場
 
-  - 茨城工場 - [茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[稲敷市](https://ja.wikipedia.org/wiki/稲敷市 "wikilink")羽賀1793番地1
+  - 茨城工場 - [茨城県](../Page/茨城県.md "wikilink")[稲敷市](../Page/稲敷市.md "wikilink")羽賀1793番地1
   - 岩手工場 - [岩手県](../Page/岩手県.md "wikilink")[一関市](../Page/一関市.md "wikilink")藤沢町徳田字野岡27番地1
 
 ## 参照

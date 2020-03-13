@@ -1,7 +1,7 @@
 > この記事は[A Profile ](https://ja.wikipedia.org/wiki/A_Profile_)から翻訳されています。
 
 
-『**その横顔を見つめてしまう〜A Profile 完全版〜**』（そのよこがおをみつめてしまう ア プロフィール かんぜんばん）は、[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（[あかべぇそふとつぅ](https://ja.wikipedia.org/wiki/あかべぇそふとつぅ "wikilink")）より[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[同人ソフト](https://ja.wikipedia.org/wiki/同人ソフト "wikilink")としてAKABEiSOFT×mixed upより[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")に発売された**A profile（ア プロフィール）**の[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。
+『**その横顔を見つめてしまう〜A Profile 完全版〜**』（そのよこがおをみつめてしまう ア プロフィール かんぜんばん）は、[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（[あかべぇそふとつぅ](https://ja.wikipedia.org/wiki/あかべぇそふとつぅ "wikilink")）より[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。[同人ソフト](../Page/同人ソフト.md "wikilink")としてAKABEiSOFT×mixed upより[2005年](../Page/2005年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に発売された**A profile（ア プロフィール）**の[リメイク](../Page/リメイク.md "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。
 
 ## ストーリー
 
@@ -20,7 +20,7 @@
     声優：[水野明夜](https://ja.wikipedia.org/wiki/水野明夜 "wikilink")
     主人公のクラスメイト。いつも授業開始ギリギリまで廊下の窓際におり、毎日掃除当番をしており、たまに別人かのようなリアクションを取ることがあり、主人公に「情緒不安定」などと言われる。
   - 相馬 美桜（そうま みおう）
-    声優：[芹園みや](https://ja.wikipedia.org/wiki/芹園みや "wikilink")
+    声優：[芹園みや](../Page/芹園みや.md "wikilink")
     主人公の幼馴染。いじられキャラ。かつて主人公と付き合っていたが、ある事が原因で別れている。
   - 平田 快音（ひらた かいね）
     声優：[春乃伊吹](https://ja.wikipedia.org/wiki/春乃伊吹 "wikilink")

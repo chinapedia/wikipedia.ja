@@ -12,8 +12,8 @@
   - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [恋愛部活](../Page/恋愛部活.md "wikilink")（日本テレビ）
   - [NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")→[NNN Newsリアルタイム](https://ja.wikipedia.org/wiki/NNN_Newsリアルタイム "wikilink")・特集コーナー（日本テレビ）
-  - [メントレG](https://ja.wikipedia.org/wiki/メントレG "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [スキヤキ\!\!ロンドンブーツ大作戦](https://ja.wikipedia.org/wiki/スキヤキ!!ロンドンブーツ大作戦 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
+  - [メントレG](../Page/メントレG.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [スキヤキ\!\!ロンドンブーツ大作戦](../Page/スキヤキ!!ロンドンブーツ大作戦.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - [MUSIC JAPAN (岩手めんこいテレビ)](../Page/MUSIC_JAPAN_\(岩手めんこいテレビ\).md "wikilink")
   - [music holic](https://ja.wikipedia.org/wiki/music_holic "wikilink")（[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")）
   - [Xゲーム](https://ja.wikipedia.org/wiki/Xゲーム "wikilink")（[NHK BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")）
@@ -35,13 +35,13 @@
   - カヤとナイクのスプラッシュナイト（TOKYO FM）　
   - [フライデースペシャル　A to Z](https://ja.wikipedia.org/wiki/フライデースペシャル_A_to_Z "wikilink")（TOKYO FM）
   - [フライデイズ・キング](https://ja.wikipedia.org/wiki/フライデイズ・キング "wikilink")（TOKYO FM）
-  - [MAZDA SUPER SUNDAY](../Page/MAZDA_SUPER_SUNDAY.md "wikilink")（[ラヴ・ステーション](https://ja.wikipedia.org/wiki/ラヴ・ステーション "wikilink")内）（TOKYO FM）
-  - [内藤忠と山中崇志のミリオンナイツ](https://ja.wikipedia.org/wiki/ミリオンナイツ "wikilink")（TOKYO FM）
+  - [MAZDA SUPER SUNDAY](../Page/MAZDA_SUPER_SUNDAY.md "wikilink")（[ラヴ・ステーション](../Page/ラヴ・ステーション.md "wikilink")内）（TOKYO FM）
+  - [内藤忠と山中崇志のミリオンナイツ](../Page/ミリオンナイツ.md "wikilink")（TOKYO FM）
   - [DJナイクのスーパーフライデーリクエスト](https://ja.wikipedia.org/wiki/DJナイクのスーパーフライデーリクエスト "wikilink")（[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
   - [DJナイクのeトーク](https://ja.wikipedia.org/wiki/DJナイクのeトーク "wikilink")（[ふくしまFM](../Page/エフエム福島.md "wikilink")）
   - [雄治・ナイクのSaturday Nice Try](https://ja.wikipedia.org/wiki/雄治・ナイクのSaturday_Nice_Try "wikilink")（[文化放送](../Page/文化放送.md "wikilink")）
   - [D-Chance](https://ja.wikipedia.org/wiki/D-Chance "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")）
-  - [Egg Station](https://ja.wikipedia.org/wiki/Egg_Station "wikilink")（[TAMAらいふ21](https://ja.wikipedia.org/wiki/TAMAらいふ21 "wikilink")の[イベントラジオ](https://ja.wikipedia.org/wiki/イベント放送局 "wikilink")、1993年4月 - 11月）
+  - [Egg Station](https://ja.wikipedia.org/wiki/Egg_Station "wikilink")（[TAMAらいふ21](../Page/TAMAらいふ21.md "wikilink")の[イベントラジオ](../Page/イベント放送局.md "wikilink")、1993年4月 - 11月）
   - [SEVEN Spirits](https://ja.wikipedia.org/wiki/SEVEN_Spirits "wikilink")（[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
 
 ### 映画

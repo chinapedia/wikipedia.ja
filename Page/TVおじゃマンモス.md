@@ -21,19 +21,19 @@
 ### 司会
 
   - [ヒロミ](../Page/ヒロミ.md "wikilink")
-  - [森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")
-  - [水島裕允](https://ja.wikipedia.org/wiki/水島裕_\(声優\) "wikilink")
+  - [森脇健児](../Page/森脇健児.md "wikilink")
+  - [水島裕允](../Page/水島裕_\(声優\).md "wikilink")
 
 ### レギュラー出演者
 
 <div style="float:left; vertical-align:top; white-space:nowrap; margin-right:1em">
 
-  - [大竹一樹](https://ja.wikipedia.org/wiki/大竹一樹 "wikilink")（[バカルディ](../Page/さまぁ〜ず.md "wikilink")）
+  - [大竹一樹](../Page/大竹一樹.md "wikilink")（[バカルディ](../Page/さまぁ〜ず.md "wikilink")）
   - [三村マサカズ](https://ja.wikipedia.org/wiki/三村マサカズ "wikilink")（バカルディ）
-  - [池谷幸雄](https://ja.wikipedia.org/wiki/池谷幸雄 "wikilink")
+  - [池谷幸雄](../Page/池谷幸雄.md "wikilink")
   - [篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")
   - [羽田惠理香](https://ja.wikipedia.org/wiki/はねだえりか "wikilink")
-  - [宮前真樹](https://ja.wikipedia.org/wiki/宮前真樹 "wikilink")
+  - [宮前真樹](../Page/宮前真樹.md "wikilink")
   - [益子直美](https://ja.wikipedia.org/wiki/益子直美 "wikilink")
   - [川合俊一](../Page/川合俊一.md "wikilink")
   - [今田耕司](../Page/今田耕司.md "wikilink")
@@ -44,12 +44,12 @@
 
   - [東野幸治](../Page/東野幸治.md "wikilink")
   - [前田耕陽](../Page/前田耕陽.md "wikilink")
-  - [彦摩呂](https://ja.wikipedia.org/wiki/彦摩呂 "wikilink")
+  - [彦摩呂](../Page/彦摩呂.md "wikilink")
   - [飛石なぎさ](https://ja.wikipedia.org/wiki/飛石なぎさ "wikilink")
-  - [長野博](https://ja.wikipedia.org/wiki/長野博 "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）
-  - [井ノ原快彦](https://ja.wikipedia.org/wiki/井ノ原快彦 "wikilink")（V6)
+  - [長野博](../Page/長野博.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")）
+  - [井ノ原快彦](../Page/井ノ原快彦.md "wikilink")（V6)
   - [薮本雅子](../Page/薮本雅子.md "wikilink")（日本テレビアナウンサー）
-  - [矢島学](https://ja.wikipedia.org/wiki/矢島学 "wikilink")（日本テレビアナウンサー）
+  - [矢島学](../Page/矢島学.md "wikilink")（日本テレビアナウンサー）
   - ほか
 
 </div>
@@ -62,19 +62,19 @@
 
   - [仮装大賞に挑戦](../Page/欽ちゃん&香取慎吾の全日本仮装大賞.md "wikilink")
     番組メンバー全員が[ビートたけし](../Page/ビートたけし.md "wikilink")からの協力を得て第43回の収録に参加し、合格を勝ち取った。
-  - [鳥人間コンテストに挑戦](https://ja.wikipedia.org/wiki/鳥人間コンテスト選手権大会 "wikilink")
+  - [鳥人間コンテストに挑戦](../Page/鳥人間コンテスト選手権大会.md "wikilink")
     番組メンバーが大学生からの協力を得て人力飛行機の組み立てに挑戦し、森脇と羽田がコンテストに参加した\[2\]\[3\]\[4\]。
-  - [高校生クイズをサポート](https://ja.wikipedia.org/wiki/全国高等学校クイズ選手権 "wikilink")
+  - [高校生クイズをサポート](../Page/全国高等学校クイズ選手権.md "wikilink")
     この企画に参加したチームを番組がサポートした。
 
 ## 歴代エンディングテーマ
 
   - [マンピーのG★SPOT](../Page/マンピーのG★SPOT.md "wikilink") （[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")）
   - [7](../Page/7_\(工藤静香の曲\).md "wikilink") （[工藤静香](../Page/工藤静香.md "wikilink")）
-  - なんで なんで ナンデ？（[鈴木蘭々](https://ja.wikipedia.org/wiki/鈴木蘭々 "wikilink")）
+  - なんで なんで ナンデ？（[鈴木蘭々](../Page/鈴木蘭々.md "wikilink")）
   - SHA・LA・LA （羽田惠理香）
-  - どうだい（[MULTI MAX](https://ja.wikipedia.org/wiki/MULTI_MAX "wikilink")）
-  - GO GO HAPPY DAY （[NOKKO](https://ja.wikipedia.org/wiki/NOKKO "wikilink")）
+  - どうだい（[MULTI MAX](../Page/MULTI_MAX.md "wikilink")）
+  - GO GO HAPPY DAY （[NOKKO](../Page/NOKKO.md "wikilink")）
   - things （[PARADISE LOST](https://ja.wikipedia.org/wiki/Paradise_Lost_\(日本の音楽グループ\) "wikilink")）
   - 僕の心を貫いて（[THE POSTMEN](https://ja.wikipedia.org/wiki/THE_POSTMEN "wikilink")）
   - Seasons Of Change（[Sing Like Talking](https://ja.wikipedia.org/wiki/Sing_Like_Talking "wikilink")）

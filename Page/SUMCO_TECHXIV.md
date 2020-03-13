@@ -1,11 +1,11 @@
 > この記事は[SUMCO TECHXIV](https://ja.wikipedia.org/wiki/SUMCO_TECHXIV)から翻訳されています。
 
 
-**SUMCO TECHXIV株式会社**（英称：SUMCO TECHXIV CORPORATION）は半導体用[シリコンウェーハのメーカーである](../Page/シリコンウェハー.md "wikilink")。[コマツ](https://ja.wikipedia.org/wiki/コマツ "wikilink")の関係会社であったが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に、[TOBにより](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")、[SUMCO](../Page/SUMCO.md "wikilink")の子会社となった。
+**SUMCO TECHXIV株式会社**（英称：SUMCO TECHXIV CORPORATION）は半導体用[シリコンウェーハのメーカーである](../Page/シリコンウェハー.md "wikilink")。[コマツ](https://ja.wikipedia.org/wiki/コマツ "wikilink")の関係会社であったが、[2006年](../Page/2006年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に、[TOBにより](https://ja.wikipedia.org/wiki/株式公開買い付け "wikilink")、[SUMCO](../Page/SUMCO.md "wikilink")の子会社となった。
 
 ## 沿革
 
-  - [1960年](../Page/1960年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 株式会社[小松製作所](https://ja.wikipedia.org/wiki/小松製作所 "wikilink")と株式会社石塚研究所の共同出資により**小松電子金属株式会社**を設立。多結晶シリコンの生産を開始。
+  - [1960年](../Page/1960年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 株式会社[小松製作所](../Page/小松製作所.md "wikilink")と株式会社石塚研究所の共同出資により**小松電子金属株式会社**を設立。多結晶シリコンの生産を開始。
   - 1960年[9月](../Page/9月.md "wikilink") - 多結晶シリコンの外販を開始。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[6月](../Page/6月.md "wikilink") - 単結晶シリコンの生産を開始。
   - [1962年](../Page/1962年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - シリコンウェーハの外販を開始。
@@ -14,7 +14,7 @@
   - [1967年](../Page/1967年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 鏡面ウェーハと[エピタキシャルウェーハの生産を開始](https://ja.wikipedia.org/wiki/エピタキシャル成長 "wikilink")。
   - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")8月 - [ニューヨーク](../Page/ニューヨーク.md "wikilink")に駐在事務所を開設。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")9月 - 拡散ウェーハの生産を開始。
-  - [1973年](../Page/1973年.md "wikilink")8月 - [宮崎県](../Page/宮崎県.md "wikilink")[宮崎郡](../Page/宮崎郡.md "wikilink")[清武町](https://ja.wikipedia.org/wiki/清武町 "wikilink")(現宮崎市)に九州小松電子株式会社を全額出資で設立。
+  - [1973年](../Page/1973年.md "wikilink")8月 - [宮崎県](../Page/宮崎県.md "wikilink")[宮崎郡](../Page/宮崎郡.md "wikilink")[清武町](../Page/清武町.md "wikilink")(現宮崎市)に九州小松電子株式会社を全額出資で設立。
   - [1976年](../Page/1976年.md "wikilink")[11月](../Page/11月.md "wikilink") - [中性子](../Page/中性子.md "wikilink")照射製品の生産を開始。
   - [1984年](../Page/1984年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 大型FZ装置を開発。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 本社を[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[平塚市](../Page/平塚市.md "wikilink")四之宮へ移転。
@@ -38,7 +38,7 @@
   - [2002年](../Page/2002年.md "wikilink")6月 - 登記上の本店所在地を神奈川県平塚市から長崎県大村市に移転。
   - [2003年](../Page/2003年.md "wikilink")1月 - 本社を本店所在地の長崎県大村市に移転。
   - [2004年](../Page/2004年.md "wikilink")5月 - [上海事務所を開設](../Page/上海市.md "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月18日](../Page/10月18日.md "wikilink") - 一株当たり2400円の[TOB](https://ja.wikipedia.org/wiki/TOB "wikilink")により、小松製作所を離れ、[SUMCO](../Page/SUMCO.md "wikilink")の連結子会社となる。
+  - [2006年](../Page/2006年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink") - 一株当たり2400円の[TOB](https://ja.wikipedia.org/wiki/TOB "wikilink")により、小松製作所を離れ、[SUMCO](../Page/SUMCO.md "wikilink")の連結子会社となる。
   - [2007年](../Page/2007年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - 商号を**SUMCO TECHXIV株式会社**に変更、決算期を1月末日に変更。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月26日](../Page/5月26日.md "wikilink") - 株式交換によりSUMCOの完全子会社となり、上場廃止。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink") - （男子）陸上競技部のチーム名が親会社の社名およびブランドでもある**「SUMCO」**に登録変更した。
@@ -46,7 +46,7 @@
 ## 事業所
 
   - 本社・長崎工場：[長崎県](../Page/長崎県.md "wikilink")[大村市](../Page/大村市.md "wikilink")雄ヶ原町1324-2
-  - 宮崎工場：[宮崎県](../Page/宮崎県.md "wikilink")[宮崎市](https://ja.wikipedia.org/wiki/宮崎市 "wikilink")[清武町](https://ja.wikipedia.org/wiki/清武町 "wikilink")木原1112
+  - 宮崎工場：[宮崎県](../Page/宮崎県.md "wikilink")[宮崎市](https://ja.wikipedia.org/wiki/宮崎市 "wikilink")[清武町](../Page/清武町.md "wikilink")木原1112
 
 ## スポーツ
 

@@ -1,7 +1,7 @@
 > この記事は[UYAMUYA](https://ja.wikipedia.org/wiki/UYAMUYA)から翻訳されています。
 
 
-**UYAMUYA**（うやむや）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")である。「[君のぞらじお](https://ja.wikipedia.org/wiki/君のぞらじお "wikilink")」の番組内番組「ラジオすかいてんぷる」のパーソナリティーである[浅井清己](../Page/浅井清己.md "wikilink")と[吉住梢](https://ja.wikipedia.org/wiki/吉住梢 "wikilink")によるユニット。名前はリスナーから募集し、君が望む永遠で2人が担当したキャラクター「大空寺あゆ」と「玉野まゆ」のコンビ名である「あゆまゆ (AYUMAYU) 」を[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")にして逆さ読みしたものとなった。「[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")」所属。
+**UYAMUYA**（うやむや）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")である。「[君のぞらじお](../Page/君のぞらじお.md "wikilink")」の番組内番組「ラジオすかいてんぷる」のパーソナリティーである[浅井清己](../Page/浅井清己.md "wikilink")と[吉住梢](../Page/吉住梢.md "wikilink")によるユニット。名前はリスナーから募集し、君が望む永遠で2人が担当したキャラクター「大空寺あゆ」と「玉野まゆ」のコンビ名である「あゆまゆ (AYUMAYU) 」を[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")にして逆さ読みしたものとなった。「[ランティス](../Page/ランティス.md "wikilink")」所属。
 
 ## ディスコグラフィ
 
@@ -47,6 +47,6 @@
 
   - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
   - [ワイルド三人娘](../Page/ワイルド三人娘.md "wikilink")
-  - [君のぞらじお](https://ja.wikipedia.org/wiki/君のぞらじお "wikilink")
+  - [君のぞらじお](../Page/君のぞらじお.md "wikilink")
 
 [Category:声優ユニット](https://ja.wikipedia.org/wiki/Category:声優ユニット "wikilink") [Category:アージュ](https://ja.wikipedia.org/wiki/Category:アージュ "wikilink") [Category:ランティスのアーティスト](https://ja.wikipedia.org/wiki/Category:ランティスのアーティスト "wikilink")

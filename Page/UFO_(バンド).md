@@ -3,7 +3,7 @@
 
 **UFO**（ユー・エフ・オー）は、[イングランド](../Page/イングランド.md "wikilink")出身の[ハードロック](../Page/ハードロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-「[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")」「[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")」「[ブラック・サバス](https://ja.wikipedia.org/wiki/ブラック・サバス "wikilink")」らと同時期に活躍したブリティッシュ・[ハードロック](../Page/ハードロック.md "wikilink")バンドの一つ。技巧派ギタリスト、[マイケル・シェンカー](../Page/マイケル・シェンカー.md "wikilink")を輩出した事でも知られる。
+「[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")」「[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")」「[ブラック・サバス](../Page/ブラック・サバス.md "wikilink")」らと同時期に活躍したブリティッシュ・[ハードロック](../Page/ハードロック.md "wikilink")バンドの一つ。技巧派ギタリスト、[マイケル・シェンカー](../Page/マイケル・シェンカー.md "wikilink")を輩出した事でも知られる。
 
 VH1選出「ロック・バンド・ランキング」84位\[1\]。
 
@@ -11,11 +11,11 @@ VH1選出「ロック・バンド・ランキング」84位\[1\]。
 
 ### 最初期（1969年 - 1973年）
 
-[2007-10-23_UFO,_Kantine,_Köln_IMG_7519.jpg](https://ja.wikipedia.org/wiki/File:2007-10-23_UFO,_Kantine,_Köln_IMG_7519.jpg "fig:2007-10-23_UFO,_Kantine,_Köln_IMG_7519.jpg") [2007-10-23_UFO,_Kantine,_Koeln,_Pete_Way,_IMG_7203.jpg](https://ja.wikipedia.org/wiki/File:2007-10-23_UFO,_Kantine,_Koeln,_Pete_Way,_IMG_7203.jpg "fig:2007-10-23_UFO,_Kantine,_Koeln,_Pete_Way,_IMG_7203.jpg") [2007-10-23_UFO_IMG_7496.jpg](https://ja.wikipedia.org/wiki/File:2007-10-23_UFO_IMG_7496.jpg "fig:2007-10-23_UFO_IMG_7496.jpg") [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")8月、[フィル・モグ](../Page/フィル・モグ.md "wikilink")（vo.）、[ミック・ボルトン](https://ja.wikipedia.org/wiki/ミック・ボルトン "wikilink")（g.）、[ピート・ウェイ](https://ja.wikipedia.org/wiki/ピート・ウェイ "wikilink")（b.）が在籍するHocus Pocusというバンドに[アンディ・パーカー](https://ja.wikipedia.org/wiki/アンディ・パーカー "wikilink")（ds.）が加わった際、バンド名を｢UFO｣に改名して結成された。バンドはロンドンのクラブ・シーンで活動し、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")3月、イギリスのマイナー・レーベルであったビーコン・レコードと契約し本格的なプロ・デビューを果たした。
+[2007-10-23_UFO,_Kantine,_Köln_IMG_7519.jpg](https://ja.wikipedia.org/wiki/File:2007-10-23_UFO,_Kantine,_Köln_IMG_7519.jpg "fig:2007-10-23_UFO,_Kantine,_Köln_IMG_7519.jpg") [2007-10-23_UFO,_Kantine,_Koeln,_Pete_Way,_IMG_7203.jpg](https://ja.wikipedia.org/wiki/File:2007-10-23_UFO,_Kantine,_Koeln,_Pete_Way,_IMG_7203.jpg "fig:2007-10-23_UFO,_Kantine,_Koeln,_Pete_Way,_IMG_7203.jpg") [2007-10-23_UFO_IMG_7496.jpg](https://ja.wikipedia.org/wiki/File:2007-10-23_UFO_IMG_7496.jpg "fig:2007-10-23_UFO_IMG_7496.jpg") [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")8月、[フィル・モグ](../Page/フィル・モグ.md "wikilink")（vo.）、[ミック・ボルトン](https://ja.wikipedia.org/wiki/ミック・ボルトン "wikilink")（g.）、[ピート・ウェイ](https://ja.wikipedia.org/wiki/ピート・ウェイ "wikilink")（b.）が在籍するHocus Pocusというバンドに[アンディ・パーカー](https://ja.wikipedia.org/wiki/アンディ・パーカー "wikilink")（ds.）が加わった際、バンド名を｢UFO｣に改名して結成された。バンドはロンドンのクラブ・シーンで活動し、[1970年](../Page/1970年.md "wikilink")3月、イギリスのマイナー・レーベルであったビーコン・レコードと契約し本格的なプロ・デビューを果たした。
 
 1970年に発表したデビュー・アルバム『UFO1』\[2\]と翌年発売の『UFO2/Flying』は英米では売れ行きが不振だった。
 
-初期のUFOは、[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")、[ジェフ・ベック・グループ](https://ja.wikipedia.org/wiki/ジェフ・ベック・グループ "wikilink")などからの影響を受けながら独自のサウンドを模索していたが、二枚目のアルバムでは*One Hour Space Rock*というキャッチ・フレーズをつけ、スペース・ロック的なロック音楽に接近した。
+初期のUFOは、[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")、[ジェフ・ベック・グループ](../Page/ジェフ・ベック・グループ.md "wikilink")などからの影響を受けながら独自のサウンドを模索していたが、二枚目のアルバムでは*One Hour Space Rock*というキャッチ・フレーズをつけ、スペース・ロック的なロック音楽に接近した。
 
 日本公演後に行われたドイツ公演では、ミック・ボルトンが突然失踪したため、サポート・バンドだった[スコーピオンズ](../Page/スコーピオンズ.md "wikilink")のギタリスト[マイケル・シェンカー](../Page/マイケル・シェンカー.md "wikilink")が急遽代役を務めた。[1972年](../Page/1972年.md "wikilink")1月、ミック・ボルトンが脱退（脱退理由は諸説あり）。これを機にUFOはよりオースドックスなロックにシフトし、それに相応しいギタリストを探し始めた。
 
@@ -25,13 +25,13 @@ VH1選出「ロック・バンド・ランキング」84位\[1\]。
 
 ### 全盛期（1974年 - 1978年）
 
-[1974年](../Page/1974年.md "wikilink")4月に発売されたアルバム『現象』(*Phenomenon*）は、ハードなギター・[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")が印象的な「*Rock Bottom*」や後にライブ音源でシングルヒットとなった「*Doctor Doctor*」のように、マイケル・シェンカーの鋭角なギターサウンドがうまく取り込まれ、バンドの英米での知名度を上げた。
+[1974年](../Page/1974年.md "wikilink")4月に発売されたアルバム『現象』(*Phenomenon*）は、ハードなギター・[リフ](../Page/リフ.md "wikilink")が印象的な「*Rock Bottom*」や後にライブ音源でシングルヒットとなった「*Doctor Doctor*」のように、マイケル・シェンカーの鋭角なギターサウンドがうまく取り込まれ、バンドの英米での知名度を上げた。
 
 アルバム『現象』発売後の1974年5月には、さらなるバンド体制の強化をねらい、新たにセカンド・ギタリストとして[ポール・チャップマン](https://ja.wikipedia.org/wiki/ポール・チャップマン "wikilink")を加入させ、5人編成とした。イギリスとヨーロッパをツアーするが、マイケル・シェンカーとポールの間に軋轢が生じたために同年9月にポールはバンドを脱退。ポールは自らのバンド[ローン・スター](https://ja.wikipedia.org/wiki/ローン・スター "wikilink")を結成した。バンドは4人のまま10月には初のアメリカ公演を行った。
 
 [1975年](../Page/1975年.md "wikilink")春には、レオ・ライオンズのテン・イヤーズ・アフター時代の同僚[チック・チャーチル](https://ja.wikipedia.org/wiki/チック・チャーチル "wikilink")（Key.）をゲストに迎え、アルバム『フォース・イット』(*Force It*）の製作を開始、同年7月にリリースした。バンドは専任キーボード・プレイヤーの必要性を感じ、8月に元[ヘヴィ・メタル・キッズ](https://ja.wikipedia.org/wiki/ヘヴィ・メタル・キッズ "wikilink")の[ダニー・ペイロネル](https://ja.wikipedia.org/wiki/ダニー・ペイロネル "wikilink")（Key.）を加入させ本格的なアメリカ・ツアーを開始した。
 
-[2007-10-23_Jaded_Heart_und_UFO,_Kantine,_Koeln,_Paul_Raymond,_IMG_7091.jpg](https://ja.wikipedia.org/wiki/File:2007-10-23_Jaded_Heart_und_UFO,_Kantine,_Koeln,_Paul_Raymond,_IMG_7091.jpg "fig:2007-10-23_Jaded_Heart_und_UFO,_Kantine,_Koeln,_Paul_Raymond,_IMG_7091.jpg") [1976年](../Page/1976年.md "wikilink")4月に発売されたアルバム『ノー・ヘヴィ・ペッティング』(*No Heavy Petting*）ではキーボード・サウンドの導入により、アレンジの幅を広げたが、マイケル・シェンカーがよりバランスのとれたサウンドを求めたため、9月にはダニーを解雇。1976年12月には、キーボードだけでなくギターも弾ける元[チキン・シャック](https://ja.wikipedia.org/wiki/チキン・シャック "wikilink")、[サヴォイ・ブラウン](https://ja.wikipedia.org/wiki/サヴォイ・ブラウン "wikilink")の[ポール・レイモンド](https://ja.wikipedia.org/wiki/ポール・レイモンド "wikilink")（g. & key.）が加入した。（レイモンドはその後もシェンカーと行動を共にし、[MSGに加わる](https://ja.wikipedia.org/wiki/マイケル・シェンカー・グループ "wikilink")）
+[2007-10-23_Jaded_Heart_und_UFO,_Kantine,_Koeln,_Paul_Raymond,_IMG_7091.jpg](https://ja.wikipedia.org/wiki/File:2007-10-23_Jaded_Heart_und_UFO,_Kantine,_Koeln,_Paul_Raymond,_IMG_7091.jpg "fig:2007-10-23_Jaded_Heart_und_UFO,_Kantine,_Koeln,_Paul_Raymond,_IMG_7091.jpg") [1976年](../Page/1976年.md "wikilink")4月に発売されたアルバム『ノー・ヘヴィ・ペッティング』(*No Heavy Petting*）ではキーボード・サウンドの導入により、アレンジの幅を広げたが、マイケル・シェンカーがよりバランスのとれたサウンドを求めたため、9月にはダニーを解雇。1976年12月には、キーボードだけでなくギターも弾ける元[チキン・シャック](https://ja.wikipedia.org/wiki/チキン・シャック "wikilink")、[サヴォイ・ブラウン](https://ja.wikipedia.org/wiki/サヴォイ・ブラウン "wikilink")の[ポール・レイモンド](https://ja.wikipedia.org/wiki/ポール・レイモンド "wikilink")（g. & key.）が加入した。（レイモンドはその後もシェンカーと行動を共にし、[MSGに加わる](../Page/マイケル・シェンカー・グループ.md "wikilink")）
 
 [ロン・ネヴィソン](https://ja.wikipedia.org/wiki/ロン・ネヴィソン "wikilink")をプロデューサーに迎え製作され、[1977年](../Page/1977年.md "wikilink")5月にリリースしたアルバム『新たなる殺意』(*Lights Out*）は「*Too Hot To Handle*」「*Lights Out*」「*Alone Again Or*」や[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")を導入した7分の大作「*Love To Love*」といった曲を収録した。70年代後半にはUFOは英米だけでなく、日本やヨーロッパにも知られるようになり、マイケル・シェンカーもハードロック・ギタリストとして人気が出始めた。
 
@@ -39,13 +39,13 @@ VH1選出「ロック・バンド・ランキング」84位\[1\]。
 
 1978年12月にはライブ・アルバム『UFOライブ』(*Strangers In The Night*）をリリース。脂の乗り切ったバンド演奏と聴衆の熱狂が収録されている。
 
-[Michael_schenker.jpg](https://ja.wikipedia.org/wiki/File:Michael_schenker.jpg "fig:Michael_schenker.jpg") UFOはハードロック・バンドとして有名になった。しかしその裏では、「堅物かつ酒豪」で知られたリーダーのフィル・モグと、英会話に難を抱え、完璧主義者である若きマイケル・シェンカーとの間に大きな軋轢が生まれており、既に精神のバランスを失っていたマイケルがしばしば失踪を繰り返していた。 そしてついに、『UFOライブ』発売直前の1978年11月、マイケルが正式に脱退する。（その後スコーピオンズに一時的に復帰したがすぐに脱退、ドラッグとアルコール中毒から脱するリハビリの後、自らのバンドである[マイケル・シェンカー・グループ](https://ja.wikipedia.org/wiki/マイケル・シェンカー・グループ "wikilink")を結成しシーンに復帰する。）
+[Michael_schenker.jpg](https://ja.wikipedia.org/wiki/File:Michael_schenker.jpg "fig:Michael_schenker.jpg") UFOはハードロック・バンドとして有名になった。しかしその裏では、「堅物かつ酒豪」で知られたリーダーのフィル・モグと、英会話に難を抱え、完璧主義者である若きマイケル・シェンカーとの間に大きな軋轢が生まれており、既に精神のバランスを失っていたマイケルがしばしば失踪を繰り返していた。 そしてついに、『UFOライブ』発売直前の1978年11月、マイケルが正式に脱退する。（その後スコーピオンズに一時的に復帰したがすぐに脱退、ドラッグとアルコール中毒から脱するリハビリの後、自らのバンドである[マイケル・シェンカー・グループ](../Page/マイケル・シェンカー・グループ.md "wikilink")を結成しシーンに復帰する。）
 
 ### NWOBHM期〜解散（1979年 - 1989年）
 
 マイケル脱退後、UFOは即座に後釜として、再び[ポール・チャップマン](https://ja.wikipedia.org/wiki/ポール・チャップマン "wikilink")を迎えてツアーを再開。1979年6月には来日公演を行った。
 
-翌[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")1月には[ビートルズ](../Page/ビートルズ.md "wikilink")のプロデュースで知られる[ジョージ・マーティン](../Page/ジョージ・マーティン.md "wikilink")を起用し、アルバム『ヘヴィ・メタル・エクスペリエンス』(*No Place to Run*）を製作、発表。 若手による[NWOBHM](https://ja.wikipedia.org/wiki/NWOBHM "wikilink")ムーブメントがベテラン・バンドへの追い風にもなり、バンドは精力的にツアーをこなし、8月には[レディング・フェスティバル](../Page/レディング・フェスティバル.md "wikilink")でトリも務めた。しかし直後にポール・レイモンドが脱退し、後任に[ニール・カーター](https://ja.wikipedia.org/wiki/ニール・カーター "wikilink")（g. & key.）が加入。バンドは以前と変わらないように見えたが、勢いを失いはじめていた。
+翌[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")1月には[ビートルズ](../Page/ビートルズ.md "wikilink")のプロデュースで知られる[ジョージ・マーティン](../Page/ジョージ・マーティン.md "wikilink")を起用し、アルバム『ヘヴィ・メタル・エクスペリエンス』(*No Place to Run*）を製作、発表。 若手による[NWOBHM](../Page/NWOBHM.md "wikilink")ムーブメントがベテラン・バンドへの追い風にもなり、バンドは精力的にツアーをこなし、8月には[レディング・フェスティバル](../Page/レディング・フェスティバル.md "wikilink")でトリも務めた。しかし直後にポール・レイモンドが脱退し、後任に[ニール・カーター](https://ja.wikipedia.org/wiki/ニール・カーター "wikilink")（g. & key.）が加入。バンドは以前と変わらないように見えたが、勢いを失いはじめていた。
 
 [1981年](../Page/1981年.md "wikilink")1月に発表されたアルバム『ワイルド/ウィリング/イノセント』(*The Wild, The Willing And The Innocent*）は、バンドによる初のセルフ・プロデュース作品で、シングル「*Lonely Heart*」をイギリスでリリースした。
 
@@ -53,7 +53,7 @@ VH1選出「ロック・バンド・ランキング」84位\[1\]。
 
 バンドは専任ベーシスト不在のままアルバム『メイキング・コンタクト』(*Making Contact*）を製作、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")初頭に発売した。シンフォニックなキーボードとメタリックなギターを前面に打ち出し、新たなスタイルを提示するがセールスは伸び悩んだ。
 
-バンドはピートの後任に[ビリー・シーン](https://ja.wikipedia.org/wiki/ビリー・シーン "wikilink")（b.）を加えヨーロッパ・ツアーを開始、その後のイギリス・ツアーでは元[ダムド](../Page/ダムド.md "wikilink")（パンク・バンド）の[ポール・グレイ](https://ja.wikipedia.org/wiki/ポール・グレイ "wikilink")（b.）に交代した。
+バンドはピートの後任に[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")（b.）を加えヨーロッパ・ツアーを開始、その後のイギリス・ツアーでは元[ダムド](../Page/ダムド.md "wikilink")（パンク・バンド）の[ポール・グレイ](https://ja.wikipedia.org/wiki/ポール・グレイ "wikilink")（b.）に交代した。
 
 しかしバンドは不安定なメンバー構成とセールス不振に疲弊し、1983年4月、遂に解散することになった。このため翌5月に予定されていた来日公演は幻となってしまった。
 
@@ -75,13 +75,13 @@ VH1選出「ロック・バンド・ランキング」84位\[1\]。
 
 その後、マイケルがUFOのバンド名の使用権利を主張。マイケルなしでUFOを名乗れなくなったフィル・モグとピート・ウェイは、Mogg/Wayの名での音楽活動を余儀なくされていたが、（2枚のアルバムをリリース。）2000年マイケル・シェンカーが三度目の復帰を決めたため、UFO名義での活動を再開させた。
 
-同年、フィル、ピート、マイケルの3人に元[ジャーニーの](https://ja.wikipedia.org/wiki/ジャーニー_\(バンド\) "wikilink")[エインズレー・ダンバー](https://ja.wikipedia.org/wiki/エインズレー・ダンバー "wikilink")（ds.）を加えたラインナップで、アルバム『聖約』(*Covenant*）をリリース。初回盤は1995年に行われたライブのCDが付属した2枚組だった。[2002年](../Page/2002年.md "wikilink")には同布陣による『シャークス』(*Sharks*）をリリース。
+同年、フィル、ピート、マイケルの3人に元[ジャーニーの](../Page/ジャーニー_\(バンド\).md "wikilink")[エインズレー・ダンバー](https://ja.wikipedia.org/wiki/エインズレー・ダンバー "wikilink")（ds.）を加えたラインナップで、アルバム『聖約』(*Covenant*）をリリース。初回盤は1995年に行われたライブのCDが付属した2枚組だった。[2002年](../Page/2002年.md "wikilink")には同布陣による『シャークス』(*Sharks*）をリリース。
 
 しかし、またしてもマイケル・シェンカーが離脱。だがマイケルがUFOのバンド名の権利を放棄したため、バンドは代わりに[ヴィニー・ムーア](../Page/ヴィニー・ムーア.md "wikilink")を加入させ、[2004年](../Page/2004年.md "wikilink")には[ジェイソン・ボーナム](https://ja.wikipedia.org/wiki/ジェイソン・ボーナム "wikilink")をドラマーに迎えて『*You Are Here*』をリリースした。
 
 ### マイケル・シェンカー再離脱後〜以降（2005年 - 現在）
 
-21世紀に入ってからも、UFOはレコーディングやツアーを積極的にこなしている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月にはアンディ・パーカーが復帰、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[グラナダ](../Page/グラナダ.md "wikilink")で開催されたPiorno Rock Festivalで演奏を披露。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")9月25日には通算19枚目となる『*モンキー・パズル*』(The Monkey Puzzle）を[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でリリースした。翌日にはアメリカ合衆国でも発売\[3\]されている。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のROCKLAHOMAにも参加した。
+21世紀に入ってからも、UFOはレコーディングやツアーを積極的にこなしている。[2005年](../Page/2005年.md "wikilink")11月にはアンディ・パーカーが復帰、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[グラナダ](../Page/グラナダ.md "wikilink")で開催されたPiorno Rock Festivalで演奏を披露。[2006年](../Page/2006年.md "wikilink")9月25日には通算19枚目となる『*モンキー・パズル*』(The Monkey Puzzle）を[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でリリースした。翌日にはアメリカ合衆国でも発売\[3\]されている。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")のROCKLAHOMAにも参加した。
 
 翌[2009年](../Page/2009年.md "wikilink")には『*ザ・ヴィジター*』をリリース。その後ピート・ウェイが体調不良のためバンドを離れたが\[4\]、[2011年](../Page/2011年.md "wikilink")には『*セブン・デッドリー*』を発表し、ツアーも含めて安定した活動をみせている。
 
@@ -117,7 +117,7 @@ VH1選出「ロック・バンド・ランキング」84位\[1\]。
   - ダニー・ペイロネル (Danny Peyronel) - キーボード (1975-1976)
   - ポール・レイモンド (Paul Raymond) - キーボード/リズムギター (1976-80, 1984-86, 1993-99, 2003-2019) ♰RIP.2019
   - ジョン・スローマン (John Sloman) - キーボード (1980)
-  - [ビリー・シーン](https://ja.wikipedia.org/wiki/ビリー・シーン "wikilink") (Billy Sheehan) - ベース (1982-1983)
+  - [ビリー・シーン](../Page/ビリー・シーン.md "wikilink") (Billy Sheehan) - ベース (1982-1983)
   - ポール・グレイ (Paul Gray) - ベース (1983-1987)
   - トミー・マックレンドン (Tommy McClendon (Atomik Tommy M)) - ギター (1984-1986)
   - ロビー・フランス (Robbie France) - ドラム (1984-1985) RIP.2012
@@ -178,7 +178,7 @@ VH1選出「ロック・バンド・ランキング」84位\[1\]。
   - 1979年 「UFOライブ」　*Strangers In The Night* 　※42位(US), 8位(UK)
   - 1992年 *BBC Radio 1 Live In Concert*　※1974年と1980年、[BBC](../Page/英国放送協会.md "wikilink") でのライヴを収録
   - 1992年 「ライツ・アウト・イン・トウキョウ」　*Lights Out In Tokyo*　※1992年6月、[クラブ・チッタ](../Page/CLUB_CITTA'.md "wikilink")[川崎でのライヴを収録](../Page/川崎市.md "wikilink")
-  - 1993年 「ミスディミーナー・ツアー」　*Misdemeanor Tour* 　※1985年11月、[オックスフォード](https://ja.wikipedia.org/wiki/オックスフォード "wikilink")でのライヴを収録
+  - 1993年 「ミスディミーナー・ツアー」　*Misdemeanor Tour* 　※1985年11月、[オックスフォード](../Page/オックスフォード.md "wikilink")でのライヴを収録
   - 1994年 *Parker's Birthday：Live In Texas*　※1979年3月、[テキサス州](../Page/テキサス州.md "wikilink")でのライヴを収録
   - 1994年 *T.N.T.*　※「Lights Out〜」と「Parker's〜」の編集盤
   - 1995年 *Heaven's Gate(Live)* 　※「ミスディミーナー・ツアー」と同一音源
@@ -219,8 +219,8 @@ VH1選出「ロック・バンド・ランキング」84位\[1\]。
 
 ## 関連項目
 
-  - [アイアン・メイデン](https://ja.wikipedia.org/wiki/アイアン・メイデン "wikilink")
-  - [ジューダス・プリースト](https://ja.wikipedia.org/wiki/ジューダス・プリースト "wikilink")
+  - [アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")
+  - [ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")
 
 ## 脚注
 

@@ -7,11 +7,11 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")11月にギターの[KENとベースのSEIICHIを中心に結成された](https://ja.wikipedia.org/wiki/KEN_\(ギタリスト\) "wikilink")。当時の表記は**G-KILL**。
 
-翌年の[1988年](../Page/1988年.md "wikilink")2月にボーカルのTUSKが加入し、本格的に活動が開始。その後、[Xの](../Page/X_JAPAN.md "wikilink")[hide](https://ja.wikipedia.org/wiki/hide "wikilink")が興味を持ち、それが縁で[YOSHIKI](../Page/YOSHIKI.md "wikilink")が経営する[エクスタシーレコード](https://ja.wikipedia.org/wiki/エクスタシーレコード "wikilink")内GHOST DISKから1989年3月、1stアルバム『真世界〜REAL OF THE WORLD〜』をリリースした。
+翌年の[1988年](../Page/1988年.md "wikilink")2月にボーカルのTUSKが加入し、本格的に活動が開始。その後、[Xの](../Page/X_JAPAN.md "wikilink")[hide](https://ja.wikipedia.org/wiki/hide "wikilink")が興味を持ち、それが縁で[YOSHIKI](../Page/YOSHIKI.md "wikilink")が経営する[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")内GHOST DISKから1989年3月、1stアルバム『真世界〜REAL OF THE WORLD〜』をリリースした。
 
-その約1年後の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月、1stと同じく[エクスタシーレコード](https://ja.wikipedia.org/wiki/エクスタシーレコード "wikilink")から2ndアルバム『CLOSE DANCE』をリリース。このアルバムはインディーズでの作品であるにもかかわらず、[オリコンのメジャーチャートにチャートインするという当時の音楽業界では異例の快挙を成し遂げたアルバムであり](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、後続のロックバンドのバイブルとなった。インディーズシーンでトップに昇り詰めた1990年10月、[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")でのワンマンライブで[東芝EMIと契約し](../Page/EMIミュージック・ジャパン.md "wikilink")、メジャーへ進出をすることを発表した。
+その約1年後の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")3月、1stと同じく[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")から2ndアルバム『CLOSE DANCE』をリリース。このアルバムはインディーズでの作品であるにもかかわらず、[オリコンのメジャーチャートにチャートインするという当時の音楽業界では異例の快挙を成し遂げたアルバムであり](../Page/オリコンチャート.md "wikilink")、後続のロックバンドのバイブルとなった。インディーズシーンでトップに昇り詰めた1990年10月、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのワンマンライブで[東芝EMIと契約し](../Page/EMIミュージック・ジャパン.md "wikilink")、メジャーへ進出をすることを発表した。
 
-[1991年](../Page/1991年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、シングル「LONELY」でメジャーデビュー。同月20日にアルバム『DESERT TOWN』をリリースし、全国ツアーが同月よりスタートした。しかし、事務所のトラブルの渦中に巻き込まれ、その年の末には活動休止を余儀なくされた。その後、ドラムとして[エクスタシーレコード](https://ja.wikipedia.org/wiki/エクスタシーレコード "wikilink")のプロデューサーとして活動していたEBYが加入した。
+[1991年](../Page/1991年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、シングル「LONELY」でメジャーデビュー。同月20日にアルバム『DESERT TOWN』をリリースし、全国ツアーが同月よりスタートした。しかし、事務所のトラブルの渦中に巻き込まれ、その年の末には活動休止を余儀なくされた。その後、ドラムとして[エクスタシーレコード](../Page/エクスタシーレコード.md "wikilink")のプロデューサーとして活動していたEBYが加入した。
 
 新たに[キングレコード](../Page/キングレコード.md "wikilink")とのメジャー契約に成功し、[1992年](../Page/1992年.md "wikilink")にアルバム『IN THE HOLE』をリリースした。
 
@@ -35,7 +35,7 @@
 ### 旧メンバー
 
   - **MASAMI**（マサミ）　ドラム、1988-1989（ex：[AURA](../Page/AURA.md "wikilink")）
-  - **[YUKIHIRO](https://ja.wikipedia.org/wiki/yukihiro "wikilink")**（ユキヒロ）　ドラム、1989/6-1990/12（→[DIE IN CRIES](https://ja.wikipedia.org/wiki/DIE_IN_CRIES "wikilink")→ソロ→[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[acid android](https://ja.wikipedia.org/wiki/acid_android "wikilink")、[geek sleep sheep](https://ja.wikipedia.org/wiki/geek_sleep_sheep "wikilink")）
+  - **[YUKIHIRO](https://ja.wikipedia.org/wiki/yukihiro "wikilink")**（ユキヒロ）　ドラム、1989/6-1990/12（→[DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")→ソロ→[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")、[acid android](https://ja.wikipedia.org/wiki/acid_android "wikilink")、[geek sleep sheep](https://ja.wikipedia.org/wiki/geek_sleep_sheep "wikilink")）
   - **[TETSU](../Page/菊地哲.md "wikilink")**（テツ）　ドラム、1991/3-1991/12（→[BODY](../Page/BODY_\(バンド\).md "wikilink")→[CRAZE](../Page/CRAZE.md "wikilink")→[D'ERLANGER](../Page/D'ERLANGER.md "wikilink")）
 
 ## ディスコグラフィ
@@ -50,7 +50,7 @@
 <th><p>発売日</p></th>
 <th><p>品番</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 <th><p>収録アルバム</p></th>
 <th><p>ドラマー</p></th>
 <th><p>備考</p></th>
@@ -78,7 +78,7 @@ YOUR FACE</p></td>
 <td><p>26</p></td>
 <td><p>TOMORROW...</p></td>
 <td><p>TETSU</p></td>
-<td><p>「YOUR FACE」に<a href="https://ja.wikipedia.org/wiki/sceana" title="wikilink">SCEANA</a>(<a href="https://ja.wikipedia.org/wiki/かまいたち_(バンド)" title="wikilink">かまいたち</a>)がコーラスで参加。</p></td>
+<td><p>「YOUR FACE」に<a href="https://ja.wikipedia.org/wiki/sceana" title="wikilink">SCEANA</a>(<a href="../Page/かまいたち_(バンド).md" title="wikilink">かまいたち</a>)がコーラスで参加。</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -130,7 +130,7 @@ LONELY (Live Version)</p></td>
 <th><p>発売日</p></th>
 <th><p>品番</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 <th><p>ドラマー</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -187,7 +187,7 @@ BAD TASTE!<br />
 FOR MY LIFE</p></td>
 <td><p>-</p></td>
 <td><p>YUKIHIRO</p></td>
-<td><p><a href="../Page/楠本まき.md" title="wikilink">楠本まき</a>がジャケット・カヴァーを手掛けている。 エクスタシーレコードからのインディーズ2ndアルバム。<a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEAの</a><a href="https://ja.wikipedia.org/wiki/SUGIZO" title="wikilink">SUGIZO</a>は「俺たちのシーンではカリスマ・アルバム」と評している[1]。</p></td>
+<td><p><a href="../Page/楠本まき.md" title="wikilink">楠本まき</a>がジャケット・カヴァーを手掛けている。 エクスタシーレコードからのインディーズ2ndアルバム。<a href="../Page/LUNA_SEA.md" title="wikilink">LUNA SEAの</a><a href="../Page/SUGIZO.md" title="wikilink">SUGIZO</a>は「俺たちのシーンではカリスマ・アルバム」と評している[1]。</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
@@ -259,7 +259,7 @@ ROCKET</p></td>
 <th><p>発売日</p></th>
 <th><p>品番</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -374,7 +374,7 @@ FOR MY LIFE</p></td>
 <th><p>発売日</p></th>
 <th><p>品番</p></th>
 <th><p>収録曲</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 <th><p>ドラマー</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -480,7 +480,7 @@ Miss You</p></td>
 <td><p>憂鬱</p></td>
 <td><p>MASAMI</p></td>
 <td><p><small>オムニバス作品「METAL WARNING」の続編であり、</small> <small>「EMERGENCY EXPRESS」シリーズの第一作目。</small></p>
-<p><small><a href="https://ja.wikipedia.org/wiki/かまいたち_(バンド)" title="wikilink">かまいたちや</a><a href="../Page/UNITED.md" title="wikilink">UNITED</a>、<a href="../Page/Gargoyle.md" title="wikilink">GARGOYLEなども参加</a>。</small></p>
+<p><small><a href="../Page/かまいたち_(バンド).md" title="wikilink">かまいたちや</a><a href="../Page/UNITED.md" title="wikilink">UNITED</a>、<a href="../Page/Gargoyle.md" title="wikilink">GARGOYLEなども参加</a>。</small></p>
 <p><small>「CLOSE DANCE」に収録されているものとは別ヴァージョン。</small></p></td>
 </tr>
 <tr class="even">
@@ -522,11 +522,11 @@ Miss You</p></td>
 
 ## 関連項目
 
-  - [Extasy Records](https://ja.wikipedia.org/wiki/エクスタシーレコード "wikilink")
+  - [Extasy Records](../Page/エクスタシーレコード.md "wikilink")
   - [X JAPAN](../Page/X_JAPAN.md "wikilink")
   - [YOSHIKI](../Page/YOSHIKI.md "wikilink")
   - [hide](https://ja.wikipedia.org/wiki/hide "wikilink")
-  - [DIE IN CRIES](https://ja.wikipedia.org/wiki/DIE_IN_CRIES "wikilink")
+  - [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")
   - [D'ERLANGER](../Page/D'ERLANGER.md "wikilink")
   - [L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")
   - [THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink")

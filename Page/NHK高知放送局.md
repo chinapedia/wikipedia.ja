@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK高知放送局**（エヌエイチケイこうちほうそうきょく）は、[高知県](../Page/高知県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+**NHK高知放送局**（エヌエイチケイこうちほうそうきょく）は、[高知県](../Page/高知県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 所在地
 
@@ -9,7 +9,7 @@
 
 ## 支局
 
-  - NHK高知くろしお支局（[四万十市](https://ja.wikipedia.org/wiki/四万十市 "wikilink")）
+  - NHK高知くろしお支局（[四万十市](../Page/四万十市.md "wikilink")）
 
 ## 沿革
 
@@ -524,7 +524,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/長野亮" title="wikilink">長野亮</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK旭川放送局" title="wikilink">旭川</a></p></td>
+<td><p><a href="../Page/NHK旭川放送局.md" title="wikilink">旭川</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

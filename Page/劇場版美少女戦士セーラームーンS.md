@@ -3,7 +3,7 @@
 
 『'''劇場版美少女戦士セーラームーンS '''』（げきじょうばんびしょうじょせんしセーラームーンスーパー）は、[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[美少女戦士セーラームーンS](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン_\(テレビアニメ\) "wikilink")』をもとにした[アニメ映画作品](../Page/アニメーション映画.md "wikilink")。
 
-同時上映は『[蒼き伝説シュート\!](https://ja.wikipedia.org/wiki/シュート! "wikilink")』と『おさわが\!スーパーベビー』。
+同時上映は『[蒼き伝説シュート\!](../Page/シュート!.md "wikilink")』と『おさわが\!スーパーベビー』。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 時期的にはセーラープルートが現世にいることや、スーパーセーラームーンが登場していることから第112話〜第118話の間の出来事であるが、[デス・バスターズ](https://ja.wikipedia.org/wiki/デス・バスターズ "wikilink")や[土萠ほたる](../Page/土萠ほたる.md "wikilink")が登場しないことに基づけば、第111話と第112話の間の出来事となる。
 
-セーラームーンの映画すべてを収録した「美少女戦士セーラームーン THE MOVIE DVD-BOX」が[2002年](../Page/2002年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に発売。単巻は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")に発売。
+セーラームーンの映画すべてを収録した「美少女戦士セーラームーン THE MOVIE DVD-BOX」が[2002年](../Page/2002年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に発売。単巻は[2005年](../Page/2005年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に発売。
 
 劇場版公開にあわせて「**かぐや姫の恋人**」という副題で原作者の[武内直子](../Page/武内直子.md "wikilink")による書き下ろしコミックス版も発売された（旧コミックス第11巻に収録）。武内が本作のストーリーを書き下ろした切っ掛けは前作に関与できず完成度に不満があった為だというが、連載を抱えながらの執筆作業は過酷だったとし次作は監修のみに留まった\[2\]。当時アニメ未登場だったダイアナが登場することを除けば劇場版と大きな差異はない
 
@@ -29,7 +29,7 @@
 
   - [月野うさぎ](https://ja.wikipedia.org/wiki/月野うさぎ "wikilink")
     [声](../Page/声優.md "wikilink") - [三石琴乃](../Page/三石琴乃.md "wikilink")
-    OPでは、[たい焼き](../Page/たい焼き.md "wikilink")、[クレープ](https://ja.wikipedia.org/wiki/クレープ "wikilink")、[フランクフルト](../Page/ソーセージ.md "wikilink")、[アイスクリーム](../Page/アイスクリーム.md "wikilink")を食べていた。
+    OPでは、[たい焼き](../Page/たい焼き.md "wikilink")、[クレープ](../Page/クレープ.md "wikilink")、[フランクフルト](../Page/ソーセージ.md "wikilink")、[アイスクリーム](../Page/アイスクリーム.md "wikilink")を食べていた。
   - [水野亜美](../Page/水野亜美.md "wikilink")
     声 - [久川綾](../Page/久川綾.md "wikilink")
     OPでは、本屋で、勉強の本を買った（[ことわざ](../Page/ことわざ.md "wikilink")や[英語](../Page/英語.md "wikilink")など）。
@@ -44,13 +44,13 @@
     OPでは、洋服屋で服を買った。最初は、ピッタリな服を着ていたが、最後は、ハデな服になっていた。
   - [ちびうさ](../Page/ちびうさ.md "wikilink")
     声 - [荒木香恵](../Page/荒木香衣.md "wikilink")
-    OPでは、占い店でうさぎの呪いの人形を作って、うさぎに[シェー](https://ja.wikipedia.org/wiki/シェー "wikilink")（？）をさせた。
+    OPでは、占い店でうさぎの呪いの人形を作って、うさぎに[シェー](../Page/シェー.md "wikilink")（？）をさせた。
   - [天王はるか](../Page/天王はるか.md "wikilink")
     声 - [緒方恵美](../Page/緒方恵美.md "wikilink")
   - [海王みちる](../Page/海王みちる.md "wikilink")
     声 - [勝生真沙子](../Page/勝生真沙子.md "wikilink")
   - [冥王せつな](../Page/冥王せつな.md "wikilink")
-    声 - [川島千代子](https://ja.wikipedia.org/wiki/川島千代子 "wikilink")
+    声 - [川島千代子](../Page/川島千代子.md "wikilink")
   - [地場衛](../Page/地場衛.md "wikilink")
     声 - [古谷徹](../Page/古谷徹.md "wikilink")
   - ルナ
@@ -82,19 +82,19 @@
 ### その他
 
   - アナウンサー
-    声 - [麻生智久](https://ja.wikipedia.org/wiki/麻生智久 "wikilink")、[増谷康紀](https://ja.wikipedia.org/wiki/増谷康紀 "wikilink")
+    声 - [麻生智久](../Page/麻生智久.md "wikilink")、[増谷康紀](../Page/増谷康紀.md "wikilink")
   - 報道陣
-    声 - [幸野善之](https://ja.wikipedia.org/wiki/幸野善之 "wikilink")
+    声 - [幸野善之](../Page/幸野善之.md "wikilink")
 
 ## スタッフ
 
   - 原作 - [武内直子](../Page/武内直子.md "wikilink")
   - 監督 - [芝田浩樹](../Page/芝田浩樹.md "wikilink")
   - 企画 - [東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
-  - 脚本 - [富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")
+  - 脚本 - [富田祐弘](../Page/富田祐弘.md "wikilink")
   - キャラクターデザイン - [香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")
-  - 作画監督 - 香川久、[為我井克美](https://ja.wikipedia.org/wiki/為我井克美 "wikilink")、[長谷川眞也](https://ja.wikipedia.org/wiki/長谷川眞也 "wikilink")
-  - 美術監督 - [窪田忠雄](https://ja.wikipedia.org/wiki/窪田忠雄 "wikilink")、橋本和幸
+  - 作画監督 - 香川久、[為我井克美](https://ja.wikipedia.org/wiki/為我井克美 "wikilink")、[長谷川眞也](../Page/長谷川眞也.md "wikilink")
+  - 美術監督 - [窪田忠雄](../Page/窪田忠雄.md "wikilink")、橋本和幸
   - 音楽 - [有澤孝紀](../Page/有澤孝紀.md "wikilink")
   - 助監督 - まつもとただお
   - アニメーション制作 - [東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")
@@ -119,10 +119,10 @@
   - 製作：[高岩淡](https://ja.wikipedia.org/wiki/高岩淡 "wikilink")、[宮原照夫](https://ja.wikipedia.org/wiki/宮原照夫 "wikilink")（[講談社](../Page/講談社.md "wikilink")）、[泊懋](https://ja.wikipedia.org/wiki/泊懋 "wikilink")
   - 企画：[東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
   - 原作：[武内直子](../Page/武内直子.md "wikilink")
-  - 脚本：[富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")
+  - 脚本：[富田祐弘](../Page/富田祐弘.md "wikilink")
   - 音楽：[有澤孝紀](../Page/有澤孝紀.md "wikilink")
   - 作画監督：[香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")
-  - 美術監督：[窪田忠雄](https://ja.wikipedia.org/wiki/窪田忠雄 "wikilink")
+  - 美術監督：[窪田忠雄](../Page/窪田忠雄.md "wikilink")
   - 製作担当：[風間厚德](https://ja.wikipedia.org/wiki/風間厚德 "wikilink")
   - 監督：[芝田浩樹](../Page/芝田浩樹.md "wikilink")
   - カバーイラスト：[東映動画](https://ja.wikipedia.org/wiki/東映動画 "wikilink")

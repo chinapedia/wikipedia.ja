@@ -5,7 +5,7 @@
 
   - 以下の略語
       - 情報通信工学
-          - [限定受信システム](https://ja.wikipedia.org/wiki/限定受信システム "wikilink") (Conditional Access System)
+          - [限定受信システム](../Page/限定受信システム.md "wikilink") (Conditional Access System)
 
           - [コントロール増強システム](https://ja.wikipedia.org/wiki/フライ・バイ・ワイヤ#CAS "wikilink") (Control Augmentation System)
 
@@ -25,7 +25,7 @@
           - [複雑適応系](https://ja.wikipedia.org/wiki/複雑適応系 "wikilink") (Complex Adaptive System)
           - [完全活性空間](https://ja.wikipedia.org/wiki/完全活性空間 "wikilink") (complete active space)
           - Cells Alive System - [セルアライブシステム冷凍](../Page/セルアライブシステム冷凍.md "wikilink")（CAS冷凍）参照。
-          - Chemical Abstract Service - [Chemical Abstracts及び](https://ja.wikipedia.org/wiki/Chemical_Abstracts "wikilink")[CAS登録番号](../Page/CAS登録番号.md "wikilink")参照。
+          - Chemical Abstract Service - [Chemical Abstracts及び](../Page/Chemical_Abstracts.md "wikilink")[CAS登録番号](../Page/CAS登録番号.md "wikilink")参照。
       - 組織
           - [内閣官房](../Page/内閣官房.md "wikilink") (Cabinet Secretariat)
           - [カリフォルニア科学アカデミー](https://ja.wikipedia.org/wiki/カリフォルニア科学アカデミー "wikilink") (California Academy of Sciences)
@@ -40,7 +40,7 @@
 
   - [IBプログラムの一つ](https://ja.wikipedia.org/wiki/IBプログラムの一つ "wikilink")-Creativity, Action and Service の略。　生徒自信が計画して実施する課外活動。知識を広げ、社会貢献に繋げていく。
   - [CAS (音楽制作)](https://ja.wikipedia.org/wiki/CAS_\(音楽制作\) "wikilink") - 音楽制作集団
-  - アメリカの作家[クラーク・アシュトン・スミス](https://ja.wikipedia.org/wiki/クラーク・アシュトン・スミス "wikilink")の愛称
+  - アメリカの作家[クラーク・アシュトン・スミス](../Page/クラーク・アシュトン・スミス.md "wikilink")の愛称
 
 **CaS**
 

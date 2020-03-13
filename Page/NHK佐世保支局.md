@@ -15,17 +15,17 @@
 
 ## チャンネル・周波数・出力
 
-  - [ラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")　981kHz　（旧JOAT→JOAQ→現在は呼出符号なし）　1kW
-  - [ラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")　1512kHz　（旧JOAY→JOAZ→現在は呼出符号なし）　500W
-  - [FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")　86.0MHz　250W
-  - [総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")　42ch　1kW
-  - [Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")　40ch　1kW
+  - [ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")　981kHz　（旧JOAT→JOAQ→現在は呼出符号なし）　1kW
+  - [ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")　1512kHz　（旧JOAY→JOAZ→現在は呼出符号なし）　500W
+  - [FM放送](../Page/NHK-FM放送.md "wikilink")　86.0MHz　250W
+  - [総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")　42ch　1kW
+  - [Eテレ](../Page/NHK教育テレビジョン.md "wikilink")　40ch　1kW
       - 旧アナログ総合テレビ　8ch　（旧JOAT-TV→JOAQ-TV→呼出符号なし）　1kW
       - 旧アナログEテレ　2ch　（旧JOAY-TV→JOAZ-TV→呼出符号なし）　1kW
 
 ## その他
 
-  - ラジオ第2放送と教育テレビに指定されていた[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")「[JOAZ](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊Z "wikilink")」は、[1967年](../Page/1967年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")までは[旭川放送局](https://ja.wikipedia.org/wiki/NHK旭川放送局 "wikilink")[名寄ラジオ中継放送所のラジオ第](../Page/名寄ラジオ中継局.md "wikilink")2放送に指定されていた。呼出符号は[1991年](../Page/1991年.md "wikilink")までに廃止され、以後は1988年に制度化された[臨時目的放送](https://ja.wikipedia.org/wiki/臨時目的放送 "wikilink")局にNHKに未指定のものを指定するものとされ、複数の[イベント放送局](https://ja.wikipedia.org/wiki/イベント放送局 "wikilink")と[臨時災害放送局](https://ja.wikipedia.org/wiki/臨時災害放送局 "wikilink")に指定された。また、同じくラジオ第2放送と教育テレビに指定されていた呼出符号「[JOAY](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊Y "wikilink")」は、[2018年](../Page/2018年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")に「[JOAY-DTV](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊Y_2 "wikilink")」として指定されている。
+  - ラジオ第2放送と教育テレビに指定されていた[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")「[JOAZ](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊Z "wikilink")」は、[1967年](../Page/1967年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")までは[旭川放送局](../Page/NHK旭川放送局.md "wikilink")[名寄ラジオ中継放送所のラジオ第](../Page/名寄ラジオ中継局.md "wikilink")2放送に指定されていた。呼出符号は[1991年](../Page/1991年.md "wikilink")までに廃止され、以後は1988年に制度化された[臨時目的放送](https://ja.wikipedia.org/wiki/臨時目的放送 "wikilink")局にNHKに未指定のものを指定するものとされ、複数の[イベント放送局](../Page/イベント放送局.md "wikilink")と[臨時災害放送局](../Page/臨時災害放送局.md "wikilink")に指定された。また、同じくラジオ第2放送と教育テレビに指定されていた呼出符号「[JOAY](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊Y "wikilink")」は、[2018年](../Page/2018年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")に「[JOAY-DTV](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊Y_2 "wikilink")」として指定されている。
   - 佐世保放送局時代に[日高義樹](../Page/日高義樹.md "wikilink")、[森本毅郎](../Page/森本毅郎.md "wikilink")が赴任していたことがある。
 
 ## 参考資料

@@ -3,7 +3,7 @@
 
 **西E田**（にしだ\[1\]、[1974年](../Page/1974年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")\[2\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[イラストレーター](../Page/イラストレーター.md "wikilink")・[原画家](https://ja.wikipedia.org/wiki/原画#コンピュータゲーム "wikilink")。[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")在住\[3\]。
 
-[東京造形大学](https://ja.wikipedia.org/wiki/東京造形大学 "wikilink")を卒業したのち、[アシスタントを経験し](../Page/アシスタント_\(漫画\).md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")となった\[4\]。代表作は、原画を担当した『[PureMail -ピュアメール-](../Page/PureMail_-ピュアメール-.md "wikilink")』や『[妹でいこう\!](https://ja.wikipedia.org/wiki/妹でいこう! "wikilink")』、[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")を務めた「[ANAユニフォームコレクション](https://ja.wikipedia.org/wiki/ANAユニフォームコレクション "wikilink")」\[5\]。本人によると、「お姉さん系」のイラストが好みとのこと\[6\]。
+[東京造形大学](../Page/東京造形大学.md "wikilink")を卒業したのち、[アシスタントを経験し](../Page/アシスタント_\(漫画\).md "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")となった\[4\]。代表作は、原画を担当した『[PureMail -ピュアメール-](../Page/PureMail_-ピュアメール-.md "wikilink")』や『[妹でいこう\!](https://ja.wikipedia.org/wiki/妹でいこう! "wikilink")』、[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")を務めた「[ANAユニフォームコレクション](https://ja.wikipedia.org/wiki/ANAユニフォームコレクション "wikilink")」\[5\]。本人によると、「お姉さん系」のイラストが好みとのこと\[6\]。
 
 ## 作品リスト
 
@@ -36,13 +36,13 @@
 
 ### 画集
 
-  - Dendrobium -デンドロビウム-（[コアマガジン](https://ja.wikipedia.org/wiki/コアマガジン "wikilink")発行）
+  - Dendrobium -デンドロビウム-（[コアマガジン](../Page/コアマガジン.md "wikilink")発行）
   - Epidendrum -エピデンドラム-（コアマガジン発行）
 
 ### その他
 
   - [OVA](../Page/OVA.md "wikilink")『**Valentine Days**』マヨちゃんデザイン
-  - テレビアニメ『[月詠](https://ja.wikipedia.org/wiki/月詠 "wikilink")』アイキャッチイラスト
+  - テレビアニメ『[月詠](../Page/月詠.md "wikilink")』アイキャッチイラスト
 
 ## 脚注
 

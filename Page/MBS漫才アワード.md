@@ -5,7 +5,7 @@
 
 ## 概要
 
-これまで、[NHK上方漫才コンテスト](../Page/NHK上方漫才コンテスト.md "wikilink")（[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")主催）や、[ABCお笑い新人グランプリ](../Page/ABCお笑い新人グランプリ.md "wikilink")→[ABCお笑いグランプリ](https://ja.wikipedia.org/wiki/ABCお笑いグランプリ "wikilink")（[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")）、[上方お笑い大賞](https://ja.wikipedia.org/wiki/上方お笑い大賞 "wikilink")→[笑いの超新星](https://ja.wikipedia.org/wiki/笑いの超新星 "wikilink")→[ytv漫才新人賞](https://ja.wikipedia.org/wiki/ytv漫才新人賞 "wikilink")（[讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")）など、在阪のテレビ局各社が新人の[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")のコンテストを行ってきた中で、唯一そのようなコンテストを持っていなかった毎日放送が『**MBS新世代漫才アワード**』の名称で[2003年](../Page/2003年.md "wikilink")からスタートさせた。
+これまで、[NHK上方漫才コンテスト](../Page/NHK上方漫才コンテスト.md "wikilink")（[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")主催）や、[ABCお笑い新人グランプリ](../Page/ABCお笑い新人グランプリ.md "wikilink")→[ABCお笑いグランプリ](https://ja.wikipedia.org/wiki/ABCお笑いグランプリ "wikilink")（[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")）、[上方お笑い大賞](../Page/上方お笑い大賞.md "wikilink")→[笑いの超新星](https://ja.wikipedia.org/wiki/笑いの超新星 "wikilink")→[ytv漫才新人賞](https://ja.wikipedia.org/wiki/ytv漫才新人賞 "wikilink")（[讀賣テレビ放送](../Page/讀賣テレビ放送.md "wikilink")）など、在阪のテレビ局各社が新人の[お笑い芸人](https://ja.wikipedia.org/wiki/お笑い芸人 "wikilink")のコンテストを行ってきた中で、唯一そのようなコンテストを持っていなかった毎日放送が『**MBS新世代漫才アワード**』の名称で[2003年](../Page/2003年.md "wikilink")からスタートさせた。
 
 「**現役高校生が選ぶ・一番面白い漫才師は誰か**」をフレーズとした漫才大会であり、大会を重ねるごとに注目度が増している大会である。開催時期は夏であり、開催地は大阪である。出場制限は特になく関西の若手芸人が中心に参加しているが、東京を拠点に活動するコンビや比較的ベテランのコンビもエントリーしている。「**審査員が現役高校生**」という所がこの大会の特徴であり、醍醐味である。
 
@@ -39,13 +39,13 @@
 
 ## 第3回以降の概要
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Theater_BRAVA!,_Osaka_\(outer_façade_-_May_2006\).jpg "wikilink") 第3回以降、出場資格は「プロとして活動していて、事務所などに所属している」という縛りのみとなって芸歴及び活動拠点の制限が廃止された為、エントリー総数が150組を超えるようになった。[矢野・兵動](../Page/矢野・兵動.md "wikilink")、[ジャリズム](https://ja.wikipedia.org/wiki/ジャリズム "wikilink")、[$10](../Page/テンダラー_\(お笑いコンビ\).md "wikilink")、[ルート33](https://ja.wikipedia.org/wiki/ルート33 "wikilink")、[デンジャラス](https://ja.wikipedia.org/wiki/デンジャラス "wikilink")といった、ベテランもエントリーするようになり、東京を本拠地とする[キャン×キャン](https://ja.wikipedia.org/wiki/キャン×キャン "wikilink")、[トータルテンボス](../Page/トータルテンボス.md "wikilink")、[ハリガネロック](https://ja.wikipedia.org/wiki/ハリガネロック "wikilink")、[2丁拳銃](../Page/2丁拳銃.md "wikilink")、[アメリカザリガニの](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")5組が決勝進出を果たした。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Theater_BRAVA!,_Osaka_\(outer_façade_-_May_2006\).jpg "wikilink") 第3回以降、出場資格は「プロとして活動していて、事務所などに所属している」という縛りのみとなって芸歴及び活動拠点の制限が廃止された為、エントリー総数が150組を超えるようになった。[矢野・兵動](../Page/矢野・兵動.md "wikilink")、[ジャリズム](../Page/ジャリズム.md "wikilink")、[$10](../Page/テンダラー_\(お笑いコンビ\).md "wikilink")、[ルート33](../Page/ルート33.md "wikilink")、[デンジャラス](../Page/デンジャラス.md "wikilink")といった、ベテランもエントリーするようになり、東京を本拠地とする[キャン×キャン](../Page/キャン×キャン.md "wikilink")、[トータルテンボス](../Page/トータルテンボス.md "wikilink")、[ハリガネロック](../Page/ハリガネロック.md "wikilink")、[2丁拳銃](../Page/2丁拳銃.md "wikilink")、[アメリカザリガニの](../Page/アメリカザリガニ_\(お笑いコンビ\).md "wikilink")5組が決勝進出を果たした。
 
 1次予選は「毎日放送AVルーム」において数日に渡って行われ、上位40組が次の2次予選へ進む。2次予選は「[MBSスタジオ in USJ](../Page/MBSスタジオ_in_USJ.md "wikilink")」にて開催され、上位12組が決勝大会へ勝ち上がる。1次予選の審査形式は公開されていないが、2次予選は客席の250人の高校生審査員（第6回は200人）が「3点満点」で、各芸人の演技が終わった直後に[トータライザー](https://ja.wikipedia.org/wiki/トータライザー "wikilink")による採点を行う。
 
 2次予選の模様は、第3回は公式サイト上にてストリーミングによる生中継、第4回以降は深夜帯に決勝進出組以外の漫才と、予選のドキュメンタリーからなる番組が放送されるようになり、知名度や露出の低い芸人にとっては、2次予選進出だけでも、大きなメリットとなる大会となった。実際にこの番組の2次予選が初めての地上波テレビでの漫才となる出演者が、何組も1次予選から勝ち上がっている（[ヒカリゴケ](https://ja.wikipedia.org/wiki/ヒカリゴケ_\(お笑い\) "wikilink")、[王](https://ja.wikipedia.org/wiki/王_\(お笑い\) "wikilink")、[パプア。](https://ja.wikipedia.org/wiki/パプア。 "wikilink")、[ヘンダーソン等](https://ja.wikipedia.org/wiki/ヘンダーソン_\(お笑い\) "wikilink")）。その中でも第4回のヒカリゴケは決勝進出も果たし、2年後には東京進出も果たした。この番組の高校生による審査が知名度や人気などに左右されたものでないことを、大きくアピールするものとなった。
 
-決勝大会は、第5回までは[シアターBRAVA\!](../Page/シアターBRAVA!.md "wikilink")、第6回・第7回は[松下IMPホール](https://ja.wikipedia.org/wiki/松下IMPホール "wikilink")、第8回は[シアター・ドラマシティ](https://ja.wikipedia.org/wiki/梅田芸術劇場#シアター・ドラマシティ "wikilink")、第9回以降は[MBSスタジオ in USJにて行われ](../Page/MBSスタジオ_in_USJ.md "wikilink")、「お笑いペーパーテスト」→「高校生お笑いセンター試験」で選ばれた1000人→200人の高校生が審査員を務める（第6回は一部審査員が自宅からの電話投票）。審査方法は、どちらが面白かったかだけをトータライザーで選択するタイマン制で、ノックアウト形式のトーナメントを3回行い優勝者を決定する。第9回以降は準決勝が廃止となり、決勝戦では1回戦で勝利した芸人全組による勝ち残り方式での決勝戦に臨む。第8回は初めて[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")で[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された（2010年8月26日放送）が、『[スパモク\!\!](https://ja.wikipedia.org/wiki/スパモク!! "wikilink")』枠での放送のため、放送時間が2時間、決勝大会進出も8組に削減されることとなった。決勝戦の対戦組み合わせ抽選の模様は、同日に放送した『**[ちちんぷいぷい夏祭り おかげさまで60年スペシャル](https://ja.wikipedia.org/wiki/ちちんぷいぷいの特別番組一覧#MBS開局60周年記念特番関連 "wikilink")**』（毎日放送平日午後の情報テレビ番組『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』の特別番組）内で生放送された。第9回・第10回も引き続きゴールデンタイム（2011年8月25日・2012年8月30日、『スパモク\!\!』枠）で生放送された。第11回（2013年）には、決勝開催日の11月4日（[月曜日](../Page/月曜日.md "wikilink")）が[国民の休日](../Page/国民の休日.md "wikilink")に当たることから、『ちちんぷいぷい』との合同特別番組『**[ちちんぷいぷい×MBS漫才アワード あっぱれ\!ハイスクール](https://ja.wikipedia.org/wiki/ちちんぷいぷいの特別番組一覧#レギュラー放送枠で夏季以外に放送された特別番組 "wikilink")**』の第2部（16:00 - 17:50）で決勝戦の模様を放送した。
+決勝大会は、第5回までは[シアターBRAVA\!](../Page/シアターBRAVA!.md "wikilink")、第6回・第7回は[松下IMPホール](https://ja.wikipedia.org/wiki/松下IMPホール "wikilink")、第8回は[シアター・ドラマシティ](https://ja.wikipedia.org/wiki/梅田芸術劇場#シアター・ドラマシティ "wikilink")、第9回以降は[MBSスタジオ in USJにて行われ](../Page/MBSスタジオ_in_USJ.md "wikilink")、「お笑いペーパーテスト」→「高校生お笑いセンター試験」で選ばれた1000人→200人の高校生が審査員を務める（第6回は一部審査員が自宅からの電話投票）。審査方法は、どちらが面白かったかだけをトータライザーで選択するタイマン制で、ノックアウト形式のトーナメントを3回行い優勝者を決定する。第9回以降は準決勝が廃止となり、決勝戦では1回戦で勝利した芸人全組による勝ち残り方式での決勝戦に臨む。第8回は初めて[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")で[生放送](../Page/生放送.md "wikilink")された（2010年8月26日放送）が、『[スパモク\!\!](https://ja.wikipedia.org/wiki/スパモク!! "wikilink")』枠での放送のため、放送時間が2時間、決勝大会進出も8組に削減されることとなった。決勝戦の対戦組み合わせ抽選の模様は、同日に放送した『**[ちちんぷいぷい夏祭り おかげさまで60年スペシャル](https://ja.wikipedia.org/wiki/ちちんぷいぷいの特別番組一覧#MBS開局60周年記念特番関連 "wikilink")**』（毎日放送平日午後の情報テレビ番組『[ちちんぷいぷい](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")』の特別番組）内で生放送された。第9回・第10回も引き続きゴールデンタイム（2011年8月25日・2012年8月30日、『スパモク\!\!』枠）で生放送された。第11回（2013年）には、決勝開催日の11月4日（[月曜日](../Page/月曜日.md "wikilink")）が[国民の休日](../Page/国民の休日.md "wikilink")に当たることから、『ちちんぷいぷい』との合同特別番組『**[ちちんぷいぷい×MBS漫才アワード あっぱれ\!ハイスクール](https://ja.wikipedia.org/wiki/ちちんぷいぷいの特別番組一覧#レギュラー放送枠で夏季以外に放送された特別番組 "wikilink")**』の第2部（16:00 - 17:50）で決勝戦の模様を放送した。
 
 対戦の組み合わせは1回戦は抽選で決定し、準決勝は1回戦の奇数試合の勝者が先攻、偶数試合の勝者が後攻となる。決勝戦のネタ順は再抽選で決定（第9回以降は1回戦で得点の低かった順）。なお第8回まで終了した時点での1対1の対戦結果では先攻が18勝、後攻が43勝と後攻が有利となっている。
 
@@ -56,13 +56,13 @@
   - 大会開催日 2003年8月31日
   - 1回戦（太字が勝者）
 
-| \!colspan="2"|先攻 | 後攻                                                              |
-| ---------------- | --------------------------------------------------------------- |
-| 第1試合             | [レギュラー](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink") |
-| 第2試合             | **[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")**         |
-| 第3試合             | **[フットボールアワー](../Page/フットボールアワー.md "wikilink")**                |
-| 第4試合             | **[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")**                   |
-|                  |                                                                 |
+| \!colspan="2"|先攻 | 後攻                                                      |
+| ---------------- | ------------------------------------------------------- |
+| 第1試合             | [レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")            |
+| 第2試合             | **[チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")** |
+| 第3試合             | **[フットボールアワー](../Page/フットボールアワー.md "wikilink")**        |
+| 第4試合             | **[麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")**           |
+|                  |                                                         |
 
   - 決勝戦
 
@@ -82,13 +82,13 @@
 
   - 1回戦（太字が勝者）
 
-| \!colspan="2"|先攻 | 後攻                                                                    |
-| ---------------- | --------------------------------------------------------------------- |
-| 第1試合             | **[青空](../Page/青空_\(お笑い\).md "wikilink")**                            |
-| 第2試合             | [ランディーズ](../Page/ランディーズ.md "wikilink")                                |
-| 第3試合             | [南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")       |
-| 第4試合             | [レギュラー](https://ja.wikipedia.org/wiki/レギュラー_\(お笑い\) "wikilink")（敗者復活） |
-| 第5試合             | [麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")                             |
+| \!colspan="2"|先攻 | 後攻                                                 |
+| ---------------- | -------------------------------------------------- |
+| 第1試合             | **[青空](../Page/青空_\(お笑い\).md "wikilink")**         |
+| 第2試合             | [ランディーズ](../Page/ランディーズ.md "wikilink")             |
+| 第3試合             | [南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")       |
+| 第4試合             | [レギュラー](../Page/レギュラー_\(お笑い\).md "wikilink")（敗者復活） |
+| 第5試合             | [麒麟](../Page/麒麟_\(お笑いコンビ\).md "wikilink")          |
 
   - 決勝戦
 
@@ -106,14 +106,14 @@
   - 大会開催日 2005年8月28日
   - 1回戦（太字が勝者）
 
-| \!colspan="2"|先攻 | 後攻                                                              |
-| ---------------- | --------------------------------------------------------------- |
-| 第1試合             | [青空](../Page/青空_\(お笑い\).md "wikilink")                          |
-| 第2試合             | [オジンオズボーン](https://ja.wikipedia.org/wiki/オジンオズボーン "wikilink")   |
-| 第3試合             | [2丁拳銃](../Page/2丁拳銃.md "wikilink")                              |
-| 第4試合             | [ダイアン](../Page/ダイアン.md "wikilink")                              |
-| 第5試合             | [キャン×キャン](https://ja.wikipedia.org/wiki/キャン×キャン "wikilink")     |
-| 第6試合             | [南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink") |
+| \!colspan="2"|先攻 | 後攻                                           |
+| ---------------- | -------------------------------------------- |
+| 第1試合             | [青空](../Page/青空_\(お笑い\).md "wikilink")       |
+| 第2試合             | [オジンオズボーン](../Page/オジンオズボーン.md "wikilink")   |
+| 第3試合             | [2丁拳銃](../Page/2丁拳銃.md "wikilink")           |
+| 第4試合             | [ダイアン](../Page/ダイアン.md "wikilink")           |
+| 第5試合             | [キャン×キャン](../Page/キャン×キャン.md "wikilink")     |
+| 第6試合             | [南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink") |
 
   - 準決勝（太字が勝者）
 
@@ -179,8 +179,8 @@
 <!-- end list -->
 
   - お笑いペーパーテスト試験監督
-      - [たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")
-      - [ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")
+      - [たむらけんじ](../Page/たむらけんじ.md "wikilink")
+      - [ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")
 
 ### 第5回（2007年）
 
@@ -191,14 +191,14 @@
 
   - 1回戦（太字が勝者）
 
-| \!colspan="2"|先攻 | 後攻                                                          |
-| ---------------- | ----------------------------------------------------------- |
-| 第1試合             | [のろし](../Page/のろし_\(お笑いコンビ\).md "wikilink")                 |
-| 第2試合             | **[矢野・兵動](../Page/矢野・兵動.md "wikilink")**                    |
-| 第3試合             | **[$10](../Page/テンダラー_\(お笑いコンビ\).md "wikilink")**           |
-| 第4試合             | [スマイル](../Page/スマイル_\(お笑いコンビ\).md "wikilink")               |
-| 第5試合             | [キャン×キャン](https://ja.wikipedia.org/wiki/キャン×キャン "wikilink") |
-| 第6試合             | [シンクタンク](../Page/シンクタンク_\(お笑い\).md "wikilink")              |
+| \!colspan="2"|先攻 | 後攻                                                |
+| ---------------- | ------------------------------------------------- |
+| 第1試合             | [のろし](../Page/のろし_\(お笑いコンビ\).md "wikilink")       |
+| 第2試合             | **[矢野・兵動](../Page/矢野・兵動.md "wikilink")**          |
+| 第3試合             | **[$10](../Page/テンダラー_\(お笑いコンビ\).md "wikilink")** |
+| 第4試合             | [スマイル](../Page/スマイル_\(お笑いコンビ\).md "wikilink")     |
+| 第5試合             | [キャン×キャン](../Page/キャン×キャン.md "wikilink")          |
+| 第6試合             | [シンクタンク](../Page/シンクタンク_\(お笑い\).md "wikilink")    |
 
   - 準決勝（太字が勝者）
 
@@ -219,7 +219,7 @@
 |        |        |          |          |
 
   - キャンペーンキャラクター
-      - [NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE "wikilink")
+      - [NON STYLE](../Page/NON_STYLE.md "wikilink")
 
 <!-- end list -->
 
@@ -229,8 +229,8 @@
 <!-- end list -->
 
   - お笑いペーパーテスト試験監督
-      - [たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")
-      - [ケンドーコバヤシ](https://ja.wikipedia.org/wiki/ケンドーコバヤシ "wikilink")
+      - [たむらけんじ](../Page/たむらけんじ.md "wikilink")
+      - [ケンドーコバヤシ](../Page/ケンドーコバヤシ.md "wikilink")
 
 <!-- end list -->
 
@@ -328,13 +328,13 @@
 ### 第8回（2010年）
 
   - 放送日時 8月26日 19:00 - 20:54（生放送）
-  - 決勝トーナメント会場 [シアター・ドラマシティ](https://ja.wikipedia.org/wiki/梅田芸術劇場 "wikilink")
+  - 決勝トーナメント会場 [シアター・ドラマシティ](../Page/梅田芸術劇場.md "wikilink")
 
 <!-- end list -->
 
   - リポーター
-      - [たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")
-      - [宇都宮まき](https://ja.wikipedia.org/wiki/宇都宮まき "wikilink")
+      - [たむらけんじ](../Page/たむらけんじ.md "wikilink")
+      - [宇都宮まき](../Page/宇都宮まき.md "wikilink")
 
 <!-- end list -->
 
@@ -457,10 +457,10 @@
 | 4位     | 2番     | かまいたち    | 410点     |
 
   - 特別ゲスト
-      - [西靖](https://ja.wikipedia.org/wiki/西靖 "wikilink")（毎日放送アナウンサー）\[6\]
+      - [西靖](../Page/西靖.md "wikilink")（毎日放送アナウンサー）\[6\]
       - [間寛平](../Page/間寛平.md "wikilink")\[7\]
-      - [なるみ](https://ja.wikipedia.org/wiki/なるみ "wikilink")\[8\]
-      - [たむらけんじ](https://ja.wikipedia.org/wiki/たむらけんじ "wikilink")\[9\]
+      - [なるみ](../Page/なるみ.md "wikilink")\[8\]
+      - [たむらけんじ](../Page/たむらけんじ.md "wikilink")\[9\]
       - [大畑大介](../Page/大畑大介.md "wikilink")\[10\]
 
 <!-- end list -->
@@ -471,18 +471,18 @@
 
 ## 歴代司会者
 
-  - 第1回　[原田伸郎](https://ja.wikipedia.org/wiki/原田伸郎 "wikilink")（[あのねのね](../Page/あのねのね.md "wikilink")）、[乙葉](../Page/乙葉.md "wikilink")、[河田直也](https://ja.wikipedia.org/wiki/河田直也 "wikilink")（毎日放送アナウンサー）
+  - 第1回　[原田伸郎](../Page/原田伸郎.md "wikilink")（[あのねのね](../Page/あのねのね.md "wikilink")）、[乙葉](../Page/乙葉.md "wikilink")、[河田直也](../Page/河田直也.md "wikilink")（毎日放送アナウンサー）
   - 第2回　原田伸郎、[宮地真緒](../Page/宮地真緒.md "wikilink")、[山中真](https://ja.wikipedia.org/wiki/山中真 "wikilink")\[11\]（毎日放送アナウンサー）
   - 第3回 - 第8回　[藤井隆](../Page/藤井隆.md "wikilink")、山中真、[八木早希](https://ja.wikipedia.org/wiki/八木早希 "wikilink")（当時毎日放送アナウンサー）
   - 第9回　藤井隆、山中真、[吉竹史](../Page/吉竹史.md "wikilink")（当時毎日放送アナウンサー）
   - 第10回　[ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")、山中真
-  - 第11回　藤井隆、[宇都宮まき](https://ja.wikipedia.org/wiki/宇都宮まき "wikilink")\[12\]、山中真
+  - 第11回　藤井隆、[宇都宮まき](../Page/宇都宮まき.md "wikilink")\[12\]、山中真
 
 ## スタッフ
 
 ### 第10回のスタッフ
 
-  - 構成：[小林仁](https://ja.wikipedia.org/wiki/小林仁_\(放送作家\) "wikilink")、[モリワキナオシ](https://ja.wikipedia.org/wiki/森脇尚志 "wikilink")、[藤田曜](https://ja.wikipedia.org/wiki/藤田曜 "wikilink")
+  - 構成：[小林仁](../Page/小林仁_\(放送作家\).md "wikilink")、[モリワキナオシ](https://ja.wikipedia.org/wiki/森脇尚志 "wikilink")、[藤田曜](https://ja.wikipedia.org/wiki/藤田曜 "wikilink")
   - TM：永松良仁
   - TD・SW：高石和隆
   - VE：上原英昭
@@ -500,8 +500,8 @@
   - 美術：中野雪子、仁部敏博
   - 美術進行：藤上幸作
   - タイトル：正冨大樹、保利操、村上喬規
-  - 技術協力：[放送映画](https://ja.wikipedia.org/wiki/放送映画製作所 "wikilink")、[関西東通](https://ja.wikipedia.org/wiki/関西東通 "wikilink")、[戯音工房](https://ja.wikipedia.org/wiki/戯音工房 "wikilink")、[サウンドエースプロダクション](https://ja.wikipedia.org/wiki/サウンドエースプロダクション "wikilink")、[アーチェリープロダクション](https://ja.wikipedia.org/wiki/アーチェリープロダクション "wikilink")、アスカプロダクション、[イングス](https://ja.wikipedia.org/wiki/イングス_\(映像制作会社\) "wikilink")、[音選屋](https://ja.wikipedia.org/wiki/音選屋 "wikilink")
-  - 協力：毎日舞台、[ヒビノ](../Page/ヒビノ_\(音響映像\).md "wikilink")、新光企画、マックレイ、MORE、ステッププラン、藤貴園芸、[クラッチ.](../Page/クラッチ..md "wikilink")、[MBS企画](https://ja.wikipedia.org/wiki/MBS企画 "wikilink")、クラッチ.、[ビジービー](https://ja.wikipedia.org/wiki/BgBee "wikilink")、WEST
+  - 技術協力：[放送映画](https://ja.wikipedia.org/wiki/放送映画製作所 "wikilink")、[関西東通](https://ja.wikipedia.org/wiki/関西東通 "wikilink")、[戯音工房](../Page/戯音工房.md "wikilink")、[サウンドエースプロダクション](https://ja.wikipedia.org/wiki/サウンドエースプロダクション "wikilink")、[アーチェリープロダクション](../Page/アーチェリープロダクション.md "wikilink")、アスカプロダクション、[イングス](../Page/イングス_\(映像制作会社\).md "wikilink")、[音選屋](https://ja.wikipedia.org/wiki/音選屋 "wikilink")
+  - 協力：毎日舞台、[ヒビノ](../Page/ヒビノ_\(音響映像\).md "wikilink")、新光企画、マックレイ、MORE、ステッププラン、藤貴園芸、[クラッチ.](../Page/クラッチ..md "wikilink")、[MBS企画](../Page/MBS企画.md "wikilink")、クラッチ.、[ビジービー](../Page/BgBee.md "wikilink")、WEST
   - 宣伝：渡辺優子
   - 編成：川原秋呼
   - デスク：松井友規恵
@@ -531,7 +531,7 @@
   - 演出：[森貴洋](https://ja.wikipedia.org/wiki/森貴洋 "wikilink")
   - 技術協力：[デジデリック](https://ja.wikipedia.org/wiki/デジデリック "wikilink")、[エキスプレス](../Page/エキスプレス_\(制作プロダクション\).md "wikilink")、[ハートス](https://ja.wikipedia.org/wiki/ハートス "wikilink")、東京舞台照明
   - 美術協力：デンコー、インターナショナルクリエイティブ、デジタルカラー
-  - 制作協力：[デラックスキッズ](https://ja.wikipedia.org/wiki/デラックスキッズ "wikilink")、[アイ・ティ・エス](https://ja.wikipedia.org/wiki/アイ・ティ・エス "wikilink")、[ビーワイルド](https://ja.wikipedia.org/wiki/ビーワイルド "wikilink")、ドゥーエンタープライズ
+  - 制作協力：[デラックスキッズ](https://ja.wikipedia.org/wiki/デラックスキッズ "wikilink")、[アイ・ティ・エス](../Page/アイ・ティ・エス.md "wikilink")、[ビーワイルド](../Page/ビーワイルド.md "wikilink")、ドゥーエンタープライズ
 
 ## 脚注
 

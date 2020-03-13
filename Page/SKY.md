@@ -1,7 +1,7 @@
 > この記事は[SKY](https://ja.wikipedia.org/wiki/SKY)から翻訳されています。
 
 
-**SKY**、**Sky**（[スカイ](https://ja.wikipedia.org/wiki/スカイ_\(曖昧さ回避\) "wikilink")、[空](https://ja.wikipedia.org/wiki/空 "wikilink")）
+**SKY**、**Sky**（[スカイ](https://ja.wikipedia.org/wiki/スカイ_\(曖昧さ回避\) "wikilink")、[空](../Page/空.md "wikilink")）
 
 ## 企業
 
@@ -24,7 +24,7 @@
   - [Sky (SweetSの曲)](https://ja.wikipedia.org/wiki/Sky_\(SweetSの曲\) "wikilink") - [SweetS](https://ja.wikipedia.org/wiki/SweetS "wikilink")の曲。
   - [Sky (東方神起の曲)](https://ja.wikipedia.org/wiki/Sky_\(東方神起の曲\) "wikilink") - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")の曲。
   - SKY - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")の曲。2ndアルバム「[Sing to the Sky](../Page/Sing_to_the_Sky.md "wikilink")」に収録。
-  - [SKY (MEGA STOPPERの曲)](https://ja.wikipedia.org/wiki/SKY_\(MEGA_STOPPERの曲\) "wikilink") - [MEGA STOPPERの楽曲](https://ja.wikipedia.org/wiki/MEGA_STOPPER "wikilink")。[プロ野球チーム](../Page/日本プロ野球.md "wikilink")、[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")の球団歌。
+  - [SKY (MEGA STOPPERの曲)](https://ja.wikipedia.org/wiki/SKY_\(MEGA_STOPPERの曲\) "wikilink") - [MEGA STOPPERの楽曲](https://ja.wikipedia.org/wiki/MEGA_STOPPER "wikilink")。[プロ野球チーム](../Page/日本プロ野球.md "wikilink")、[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")の球団歌。
   - SKY - 森本隆と北沢英三（[八田雅弘](../Page/八田雅弘.md "wikilink")）によるデュオ。
   - [SKY (JAMOSAのアルバム)](https://ja.wikipedia.org/wiki/SKY_\(JAMOSAのアルバム\) "wikilink") - [JAMOSA](https://ja.wikipedia.org/wiki/JAMOSA "wikilink")のアルバム。
   - [SKY (Coming Century)](https://ja.wikipedia.org/wiki/SKY_\(Coming_Century\) "wikilink") - [Coming Centuryのビデオ作品](../Page/V6_\(グループ\).md "wikilink")。
@@ -32,9 +32,9 @@
 
 ## アクロニム・符号
 
-  - [SKY (大学)](https://ja.wikipedia.org/wiki/SKY_\(大学\) "wikilink") - 韓国の[ソウル大学校](https://ja.wikipedia.org/wiki/ソウル大学校 "wikilink") ()・[高麗大学校](../Page/高麗大学校.md "wikilink") ()・[延世大学校](../Page/延世大学校.md "wikilink") () からなる大学群。日本の「東早慶」に相当。
-  - 日本[三大予備校](https://ja.wikipedia.org/wiki/三大予備校 "wikilink")。[駿台予備学校](../Page/駿台予備学校.md "wikilink")(S)・[河合塾](../Page/河合塾.md "wikilink")(K)・[代々木ゼミナール](../Page/代々木ゼミナール.md "wikilink")(Y)。
-  - [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")の[下柳剛](https://ja.wikipedia.org/wiki/下柳剛 "wikilink")・[金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")・[矢野燿大](../Page/矢野燿大.md "wikilink")。
+  - [SKY (大学)](https://ja.wikipedia.org/wiki/SKY_\(大学\) "wikilink") - 韓国の[ソウル大学校](../Page/ソウル大学校.md "wikilink") ()・[高麗大学校](../Page/高麗大学校.md "wikilink") ()・[延世大学校](../Page/延世大学校.md "wikilink") () からなる大学群。日本の「東早慶」に相当。
+  - 日本[三大予備校](../Page/三大予備校.md "wikilink")。[駿台予備学校](../Page/駿台予備学校.md "wikilink")(S)・[河合塾](../Page/河合塾.md "wikilink")(K)・[代々木ゼミナール](../Page/代々木ゼミナール.md "wikilink")(Y)。
+  - [阪神タイガース](../Page/阪神タイガース.md "wikilink")の[下柳剛](https://ja.wikipedia.org/wiki/下柳剛 "wikilink")・[金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")・[矢野燿大](../Page/矢野燿大.md "wikilink")。
   - [スカイマーク](https://ja.wikipedia.org/wiki/スカイマーク "wikilink")の[ICAO](../Page/国際民間航空機関.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。
   - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[自転車ロードレースチーム](../Page/ロードレース_\(自転車競技\).md "wikilink")、[チームスカイ](https://ja.wikipedia.org/wiki/チームスカイ "wikilink")の[UCIコード](../Page/国際自転車競技連合.md "wikilink")。
 
@@ -42,7 +42,7 @@
 
   - [サターン・スカイ](../Page/サターン・スカイ.md "wikilink") - オープンスポーツカー。オペルGT、GM大宇G2Xとも。
   - スカイ（Sky） - [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")が販売する[アイスクリーム](../Page/アイスクリーム.md "wikilink")。
-  - スカイ・マスタースン（英字：Sky Masterson） - [ミュージカル](../Page/ミュージカル.md "wikilink")『[ガイズ&ドールズ](https://ja.wikipedia.org/wiki/ガイズ&ドールズ "wikilink")』の主人公。
+  - スカイ・マスタースン（英字：Sky Masterson） - [ミュージカル](../Page/ミュージカル.md "wikilink")『[ガイズ&ドールズ](../Page/ガイズ&ドールズ.md "wikilink")』の主人公。
   - [チームスカイ](https://ja.wikipedia.org/wiki/チームスカイ "wikilink") - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[自転車ロードレースチーム](../Page/ロードレース_\(自転車競技\).md "wikilink")。
   - [ホンダ・スカイ](https://ja.wikipedia.org/wiki/ホンダ・スカイ "wikilink") - [ホンダのスクーター](../Page/本田技研工業.md "wikilink")。[ホンダ・タクト](https://ja.wikipedia.org/wiki/ホンダ・タクト "wikilink")の廉価版であり、1982年に発売。
 

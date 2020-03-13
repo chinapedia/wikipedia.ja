@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK富山放送局**（エヌエイチケイとやまほうそうきょく）は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで[県域放送](../Page/県域放送.md "wikilink")を行っている。
+**NHK富山放送局**（エヌエイチケイとやまほうそうきょく）は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで[県域放送](../Page/県域放送.md "wikilink")を行っている。
 
 ## 放送局データ
 
@@ -22,8 +22,8 @@
 
 <!-- end list -->
 
-  - [総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") 27ch（UHF） JOIG-DTV（[リモコンキーID](https://ja.wikipedia.org/wiki/リモコンキーID#地上波系統 "wikilink")・**3**）
-  - [Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") 24ch（UHF） [JOIC-DTV](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊C "wikilink")（リモコンキーID・**2**）
+  - [総合テレビ](../Page/NHK総合テレビジョン.md "wikilink") 27ch（UHF） JOIG-DTV（[リモコンキーID](https://ja.wikipedia.org/wiki/リモコンキーID#地上波系統 "wikilink")・**3**）
+  - [Eテレ](../Page/NHK教育テレビジョン.md "wikilink") 24ch（UHF） [JOIC-DTV](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊C "wikilink")（リモコンキーID・**2**）
 
 <!-- end list -->
 
@@ -86,14 +86,14 @@
 
 ## 歴史
 
-  - [1935年](../Page/1935年.md "wikilink")（昭和10年）[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会富山放送局**開局、[ラジオ第1放送開始](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")（[呼出符号:JOIG](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊G "wikilink")）\[2\]。
+  - [1935年](../Page/1935年.md "wikilink")（昭和10年）[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - **[社団法人](../Page/社団法人.md "wikilink")日本放送協会富山放送局**開局、[ラジオ第1放送開始](../Page/NHKラジオ第1放送.md "wikilink")（[呼出符号:JOIG](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊G "wikilink")）\[2\]。
   - [1945年](../Page/1945年.md "wikilink")（昭和20年）[8月1日](../Page/8月1日.md "wikilink") - [富山大空襲](../Page/富山大空襲.md "wikilink")が発生したが、局舎は焼け残る。
-  - [1949年](../Page/1949年.md "wikilink")（昭和24年）[1月3日](../Page/1月3日.md "wikilink") - [ラジオ第2放送開始](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")\[3\]。
+  - [1949年](../Page/1949年.md "wikilink")（昭和24年）[1月3日](../Page/1月3日.md "wikilink") - [ラジオ第2放送開始](../Page/NHKラジオ第2放送.md "wikilink")\[3\]。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**が設立され一切の権利義務を継承\[4\]。
   - [1958年](../Page/1958年.md "wikilink")（昭和33年）[10月15日](../Page/10月15日.md "wikilink") - 総合テレビ放送開始\[5\]。
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）[4月1日](../Page/4月1日.md "wikilink") - 教育テレビ放送開始。同時に[豊田ラジオ送信所](https://ja.wikipedia.org/wiki/富山県内中波放送放送所#富山本局 "wikilink")（無人局）運用開始\[6\]。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）[7月22日](../Page/7月22日.md "wikilink") - 総合テレビ、カラー放送開始。\[7\]
-  - [1964年](../Page/1964年.md "wikilink")（昭和39年）[7月1日](../Page/7月1日.md "wikilink") - [FM実用化試験放送開始](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")（本放送は[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[3月1日](../Page/3月1日.md "wikilink")）。
+  - [1964年](../Page/1964年.md "wikilink")（昭和39年）[7月1日](../Page/7月1日.md "wikilink") - [FM実用化試験放送開始](../Page/NHK-FM放送.md "wikilink")（本放送は[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[3月1日](../Page/3月1日.md "wikilink")）。
   - [1966年](../Page/1966年.md "wikilink")（昭和41年）[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [呉羽山のテレビ送信所が無人化される](../Page/呉羽丘陵.md "wikilink")\[8\]。
   - [1967年](../Page/1967年.md "wikilink")（昭和42年）[3月20日](../Page/3月20日.md "wikilink") - 現在の局舎が完成\[9\]。
   - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[3月1日](../Page/3月1日.md "wikilink") - 総合テレビ、音声多重放送を開始\[10\]。
@@ -121,10 +121,10 @@
   - [五箇山](../Page/五箇山.md "wikilink")（[南砺市](../Page/南砺市.md "wikilink")相倉）
   - 砺波（となみ[夢の平スキー場](../Page/夢の平スキー場.md "wikilink")） - 夏季設置・運用
   - [砺波チューリップ公園](../Page/砺波チューリップ公園.md "wikilink") - [となみチューリップフェア](https://ja.wikipedia.org/wiki/となみチューリップフェア "wikilink")期間中に設置・運用
-  - [立山](../Page/立山.md "wikilink")天狗平・[室堂](https://ja.wikipedia.org/wiki/室堂 "wikilink") - 季節運用
+  - [立山](../Page/立山.md "wikilink")天狗平・[室堂](../Page/室堂.md "wikilink") - 季節運用
   - [黒部ダム](../Page/黒部ダム.md "wikilink") - 季節運用
   - 岩瀬浜海水浴場 - 季節運用
-  - [八尾](https://ja.wikipedia.org/wiki/八尾町 "wikilink") - [おわら風の盆](https://ja.wikipedia.org/wiki/おわら風の盆 "wikilink")期間中に設置・運用
+  - [八尾](../Page/八尾町.md "wikilink") - [おわら風の盆](../Page/おわら風の盆.md "wikilink")期間中に設置・運用
 
 ## 富山放送局制作主要番組
 
@@ -214,7 +214,7 @@
 <td><p>富山県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/石井智也" title="wikilink">石井智也</a></p></td>
+<td><p><a href="../Page/石井智也.md" title="wikilink">石井智也</a></p></td>
 <td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
 <td></td>
 </tr>
@@ -246,7 +246,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋まどか" title="wikilink">高橋まどか</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK帯広放送局" title="wikilink">帯広</a></p></td>
+<td><p><a href="../Page/NHK帯広放送局.md" title="wikilink">帯広</a></p></td>
 <td><p>ラジオ富山人</p></td>
 </tr>
 <tr class="even">

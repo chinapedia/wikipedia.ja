@@ -1,26 +1,26 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK福井放送局**（エヌエイチケイふくいほうそうきょく）は、[福井県](../Page/福井県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+**NHK福井放送局**（エヌエイチケイふくいほうそうきょく）は、[福井県](../Page/福井県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 沿革
 
-  - [1933年](../Page/1933年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")8年）[7月13日](../Page/7月13日.md "wikilink") - 社団法人日本放送協会福井放送局開局。[ラジオ放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink") (JOFG) 開始。
+  - [1933年](../Page/1933年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")8年）[7月13日](../Page/7月13日.md "wikilink") - 社団法人日本放送協会福井放送局開局。[ラジオ放送](../Page/NHKラジオ第1放送.md "wikilink") (JOFG) 開始。
   - [1945年](../Page/1945年.md "wikilink")（昭和20年）[7月19日](../Page/7月19日.md "wikilink") - [福井空襲](https://ja.wikipedia.org/wiki/福井空襲 "wikilink")により、局舎焼失\[1\]。
   - [1948年](../Page/1948年.md "wikilink")（昭和23年）
       - [6月28日](../Page/6月28日.md "wikilink") - [福井地震](../Page/福井地震.md "wikilink")により、一時的に放送不能の状態。
-      - [12月1日](../Page/12月1日.md "wikilink") - [ラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink") (JOFC) 開始。
+      - [12月1日](../Page/12月1日.md "wikilink") - [ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink") (JOFC) 開始。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年）[6月1日](../Page/6月1日.md "wikilink") - [放送法](../Page/放送法.md "wikilink")施行に伴い、社団法人日本放送協会解散。同時に[特殊法人](../Page/特殊法人.md "wikilink")としての[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が設立され、一切の権利義務を継承。
-  - [1959年](../Page/1959年.md "wikilink")（昭和34年）[8月3日](../Page/8月3日.md "wikilink") - [総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") (JOFG-TV) 放送開始。
+  - [1959年](../Page/1959年.md "wikilink")（昭和34年）[8月3日](../Page/8月3日.md "wikilink") - [総合テレビ](../Page/NHK総合テレビジョン.md "wikilink") (JOFG-TV) 放送開始。
   - [1962年](../Page/1962年.md "wikilink")（昭和37年）
       - [3月31日](../Page/3月31日.md "wikilink") - ラジオ局移転。[下馬ラジオ放送所運用開始](https://ja.wikipedia.org/wiki/NHK下馬ラジオ放送所 "wikilink")。
       - [7月21日](../Page/7月21日.md "wikilink") - 総合テレビのカラー放送開始。
-      - [11月1日](../Page/11月1日.md "wikilink") - [教育テレビ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") (JOFC-TV) 放送開始。
+      - [11月1日](../Page/11月1日.md "wikilink") - [教育テレビ](../Page/NHK教育テレビジョン.md "wikilink") (JOFC-TV) 放送開始。
   - [1964年](../Page/1964年.md "wikilink")（昭和39年）3月 - 福井放送局新会館落成。
   - [1965年](../Page/1965年.md "wikilink")（昭和40年）[2月5日](../Page/2月5日.md "wikilink") - FM実験放送開始。
   - [1966年](../Page/1966年.md "wikilink")（昭和41年）[5月31日](../Page/5月31日.md "wikilink") - [足羽山テレビ放送所の無人化運用開始](https://ja.wikipedia.org/wiki/足羽山#地上アナログテレビ放送送信設備（廃止） "wikilink")。
-  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[3月1日](../Page/3月1日.md "wikilink") - [FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") (JOFG-FM) 本放送開始。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）[11月9日](../Page/11月9日.md "wikilink") - ローカルニュースのカラー放送開始。
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）[3月1日](../Page/3月1日.md "wikilink") - [FM放送](../Page/NHK-FM放送.md "wikilink") (JOFG-FM) 本放送開始。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）[11月9日](../Page/11月9日.md "wikilink") - ローカルニュースのカラー放送開始。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）[12月3日](../Page/12月3日.md "wikilink") - ローカル番組のカラー放送開始。
   - [1977年](../Page/1977年.md "wikilink")（昭和52年）[2月16日](../Page/2月16日.md "wikilink") - FM放送のローカル放送でステレオ放送開始。
   - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[11月23日](../Page/11月23日.md "wikilink") - ラジオ放送の周波数一斉変更。
@@ -44,12 +44,12 @@
 
 <!-- end list -->
 
-  - [総合テレビ](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink") 19ch（[リモコンキーID](../Page/リモコンキーID.md "wikilink")1） JOFG-DTV 1kW（福井本局、以下同じ）
-  - [Eテレ](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink") 21ch（リモコンキーID2） JOFC-DTV 1kW
-  - [FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink") 83.4MHz JOFG-FM 1kW
-      - [テレビ放送とFM放送両送信塔は](../Page/地上デジタルテレビ放送.md "wikilink")[足羽山](https://ja.wikipedia.org/wiki/足羽山 "wikilink")山頂に設置。[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")の地上デジタル放送の送信施設も併設されている。
-  - [ラジオ第1放送](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink") 927kHz JOFG 5kW
-  - [ラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink") 1521kHz JOFC 1kW
+  - [総合テレビ](../Page/NHK総合テレビジョン.md "wikilink") 19ch（[リモコンキーID](../Page/リモコンキーID.md "wikilink")1） JOFG-DTV 1kW（福井本局、以下同じ）
+  - [Eテレ](../Page/NHK教育テレビジョン.md "wikilink") 21ch（リモコンキーID2） JOFC-DTV 1kW
+  - [FM放送](../Page/NHK-FM放送.md "wikilink") 83.4MHz JOFG-FM 1kW
+      - [テレビ放送とFM放送両送信塔は](../Page/地上デジタルテレビ放送.md "wikilink")[足羽山](../Page/足羽山.md "wikilink")山頂に設置。[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")の地上デジタル放送の送信施設も併設されている。
+  - [ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink") 927kHz JOFG 5kW
+  - [ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink") 1521kHz JOFC 1kW
       - AM放送送信塔は[福井市](../Page/福井市.md "wikilink")[下馬に設置](https://ja.wikipedia.org/wiki/NHK下馬ラジオ放送所 "wikilink")。
 
 ## 中継局
@@ -58,7 +58,7 @@
 
 第1放送/第2放送の順で表記。
 
-  - [敦賀](https://ja.wikipedia.org/wiki/敦賀市 "wikilink") 1026kHz/1512kHz 100W
+  - [敦賀](../Page/敦賀市.md "wikilink") 1026kHz/1512kHz 100W
   - [小浜](https://ja.wikipedia.org/wiki/小浜市 "wikilink") 1161kHz/1359kHz 100W
   - [勝山](../Page/勝山市.md "wikilink") 1584kHz/1359kHz 100W
   - 若狭三方（[第1放送のみ](https://ja.wikipedia.org/wiki/NHK三方ラジオ中継放送所 "wikilink")） 1584kHz 100W
@@ -73,7 +73,7 @@
   - 福井国見 86.8MHz 100W
   - 福井川西 88.3MHz 3W
   - 越廼 89.5MHz 3W
-      - 放送エリアは、[越前岬](https://ja.wikipedia.org/wiki/越前岬 "wikilink")以北の越前海岸の一帯。\[3\]当該中継局の放送エリア内では[NHK金沢第](../Page/NHK金沢放送局.md "wikilink")1放送[金沢局を聴取できる場合もある](../Page/野々市テレビ・ラジオ放送所.md "wikilink")。ラジオ第2放送は、金沢局や、大電力局である[秋田局などでカバーしている](../Page/NHK秋田放送局.md "wikilink")。越前岬以南の越前海岸には中継局は設置されていないが、[敦賀中継局や](https://ja.wikipedia.org/wiki/敦賀ラジオ中継局 "wikilink")[NHK大阪第](../Page/NHK大阪放送局.md "wikilink")1放送[舞鶴中継局](https://ja.wikipedia.org/wiki/舞鶴中継局 "wikilink")が受信できる。
+      - 放送エリアは、[越前岬](../Page/越前岬.md "wikilink")以北の越前海岸の一帯。\[3\]当該中継局の放送エリア内では[NHK金沢第](../Page/NHK金沢放送局.md "wikilink")1放送[金沢局を聴取できる場合もある](../Page/野々市テレビ・ラジオ放送所.md "wikilink")。ラジオ第2放送は、金沢局や、大電力局である[秋田局などでカバーしている](../Page/NHK秋田放送局.md "wikilink")。越前岬以南の越前海岸には中継局は設置されていないが、[敦賀中継局や](https://ja.wikipedia.org/wiki/敦賀ラジオ中継局 "wikilink")[NHK大阪第](../Page/NHK大阪放送局.md "wikilink")1放送[舞鶴中継局](https://ja.wikipedia.org/wiki/舞鶴中継局 "wikilink")が受信できる。
 
 ### テレビ放送
 
@@ -125,10 +125,10 @@
 
   - [大野](../Page/大野市.md "wikilink") 86.0MHz 10W
   - 越前 85.7MHz 1W
-  - [敦賀](https://ja.wikipedia.org/wiki/敦賀市 "wikilink") 84.9MHz 10W
-  - [美浜](https://ja.wikipedia.org/wiki/美浜町_\(福井県\) "wikilink") 85.9MHz 10W
+  - [敦賀](../Page/敦賀市.md "wikilink") 84.9MHz 10W
+  - [美浜](../Page/美浜町_\(福井県\).md "wikilink") 85.9MHz 10W
   - [小浜](https://ja.wikipedia.org/wiki/小浜市 "wikilink") 87.8MHz 100W
-  - [高浜](https://ja.wikipedia.org/wiki/高浜町 "wikilink") 88.8MHz 3W
+  - [高浜](../Page/高浜町.md "wikilink") 88.8MHz 3W
 
 ## アナログ放送概要
 
@@ -156,7 +156,7 @@
   - 上宇坂 44ch/46ch 1W
   - 下宇坂 56ch/54ch 3W
   - 羽生 55ch/53ch 3W
-  - [永平寺](https://ja.wikipedia.org/wiki/永平寺町 "wikilink") 44ch/42ch 0.1W
+  - [永平寺](../Page/永平寺町.md "wikilink") 44ch/42ch 0.1W
   - 松岡越坂 54ch/52ch 0.1W
 
 <!-- end list -->
@@ -194,7 +194,7 @@
   - 武生新宮 55ch/53ch 10W
   - 南条 12ch/2ch 3W（垂直偏波）
   - 今庄 5ch/1ch 1W
-  - 福井[池田](https://ja.wikipedia.org/wiki/池田町_\(福井県\) "wikilink") 55ch/53ch 3W
+  - 福井[池田](../Page/池田町_\(福井県\).md "wikilink") 55ch/53ch 3W
   - 越前 5ch/1ch 3W
   - 織田 45ch/47ch 3W
   - 越前宮崎 52ch/50ch 3W
@@ -205,17 +205,17 @@
 
 <!-- end list -->
 
-  - [敦賀](https://ja.wikipedia.org/wiki/敦賀市 "wikilink") 6ch/12ch 30W（垂直偏波、地上デジタル放送は水平偏波）
+  - [敦賀](../Page/敦賀市.md "wikilink") 6ch/12ch 30W（垂直偏波、地上デジタル放送は水平偏波）
   - 敦賀沓見 55ch/53ch 1W
   - 敦賀疋田 52ch/50ch 3W
-  - [美浜](https://ja.wikipedia.org/wiki/美浜町_\(福井県\) "wikilink") 59ch/56ch 100W
+  - [美浜](../Page/美浜町_\(福井県\).md "wikilink") 59ch/56ch 100W
   - 東美浜 32ch/34ch 10W
   - 上中 1ch/12ch 10W
   - [小浜](https://ja.wikipedia.org/wiki/小浜市 "wikilink") 2ch/10ch 30W（垂直偏波、地上デジタル放送は水平偏波）
   - 小浜口名田 42ch/40ch 10W
   - 小浜中名田 1ch/12ch 1W
   - [名田庄](https://ja.wikipedia.org/wiki/NHK名田庄テレビ中継局 "wikilink") 9ch/3ch 1W（垂直偏波）
-  - [高浜](https://ja.wikipedia.org/wiki/高浜町 "wikilink") 6ch/12ch 3W（垂直偏波）
+  - [高浜](../Page/高浜町.md "wikilink") 6ch/12ch 3W（垂直偏波）
 
 ## 支局
 
@@ -223,7 +223,7 @@
 
 ## お天気カメラ設置ポイント
 
-[敦賀および](https://ja.wikipedia.org/wiki/敦賀市 "wikilink")[小浜以外の](https://ja.wikipedia.org/wiki/小浜市 "wikilink")[嶺南](https://ja.wikipedia.org/wiki/嶺南 "wikilink")地方にある[お天気カメラ](https://ja.wikipedia.org/wiki/お天気カメラ "wikilink")は[原子力発電所](../Page/原子力発電所.md "wikilink")が俯瞰できる場所に設置されている。
+[敦賀および](../Page/敦賀市.md "wikilink")[小浜以外の](https://ja.wikipedia.org/wiki/小浜市 "wikilink")[嶺南](../Page/嶺南.md "wikilink")地方にある[お天気カメラ](../Page/お天気カメラ.md "wikilink")は[原子力発電所](../Page/原子力発電所.md "wikilink")が俯瞰できる場所に設置されている。
 
   - 常設
 
@@ -245,7 +245,7 @@
 
 <!-- end list -->
 
-  - [足羽川](https://ja.wikipedia.org/wiki/足羽川 "wikilink")左岸（福井市） - [桜の開花時期](../Page/サクラ.md "wikilink")
+  - [足羽川](../Page/足羽川.md "wikilink")左岸（福井市） - [桜の開花時期](../Page/サクラ.md "wikilink")
   - [福井IC付近](../Page/福井インターチェンジ.md "wikilink") - 冬季設置
   - たけくらべ広場（坂井市） - 桜の開花時期
   - [西山公園](https://ja.wikipedia.org/wiki/西山公園_\(鯖江市\) "wikilink")（鯖江市） - つつじまつり期間前後
@@ -253,7 +253,7 @@
 
 ## 一福丸
 
-一福丸（いっぷくまる）は、NHK福井放送局の[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")キャラクター。2010年3月に誕生し、[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")をモチーフとしたマスコットで、卵から生まれたという設定。また、鼻には骨を乗せた状態で形取られており、「ふくふく〜」という鳴き声を出している。
+一福丸（いっぷくまる）は、NHK福井放送局の[マスコット](../Page/マスコット.md "wikilink")キャラクター。2010年3月に誕生し、[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")をモチーフとしたマスコットで、卵から生まれたという設定。また、鼻には骨を乗せた状態で形取られており、「ふくふく〜」という鳴き声を出している。
 
 ## 主な福井局制作番組
 
@@ -327,7 +327,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/五十嵐椋" title="wikilink">五十嵐椋</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK山形放送局" title="wikilink">山形</a></p></td>
+<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
 <td><p>福井県のニュース<br />
 情報たら福</p></td>
 </tr>
@@ -343,7 +343,7 @@
 </tr>
 <tr class="odd">
 <td><p>河島康一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK室蘭放送局" title="wikilink">室蘭</a></p></td>
+<td><p><a href="../Page/NHK室蘭放送局.md" title="wikilink">室蘭</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -395,7 +395,7 @@
 
   - [ちりとてちん](https://ja.wikipedia.org/wiki/ちりとてちん_\(テレビドラマ\) "wikilink") - [2007年](../Page/2007年.md "wikilink")後期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")で、福井県が舞台となった。
   - [NHK放送博物館](../Page/NHK放送博物館.md "wikilink") - [足羽山送信所に設置されていた総合テレビアナログ放送用の](https://ja.wikipedia.org/wiki/足羽山#地上アナログテレビ放送送信設備（廃止） "wikilink")[STアンテナ](https://ja.wikipedia.org/wiki/STアンテナ "wikilink")を入口に展示。
-  - [ハピリン](https://ja.wikipedia.org/wiki/ハピリン "wikilink") - 一時、福井市が放送局の移転先として構想していた[複合商業施設](https://ja.wikipedia.org/wiki/複合商業施設 "wikilink")。
+  - [ハピリン](https://ja.wikipedia.org/wiki/ハピリン "wikilink") - 一時、福井市が放送局の移転先として構想していた[複合商業施設](../Page/複合商業施設.md "wikilink")。
 
 ## 外部リンク
 

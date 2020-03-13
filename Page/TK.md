@@ -55,7 +55,7 @@
   - [国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")）で、[トケラウ諸島](https://ja.wikipedia.org/wiki/トケラウ諸島 "wikilink")を示す。
       - [.tk](https://ja.wikipedia.org/wiki/.tk "wikilink") - トケラウ諸島の[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")（ccTLD）
   - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、[ターキッシュ エアラインズを示す](../Page/ターキッシュ_エアラインズ.md "wikilink")。
-  - [言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")（ISO 639-1）で、[トルクメン語](../Page/トルクメン語.md "wikilink")を示す。
+  - [言語コード](../Page/ISO_639.md "wikilink")（ISO 639-1）で、[トルクメン語](../Page/トルクメン語.md "wikilink")を示す。
   - [漁船](../Page/漁船.md "wikilink")の登録番号において[東京都](../Page/東京都.md "wikilink")を表す識別標（漁船法施行規則13条・付録第二）
   - [東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")の[パスネット](https://ja.wikipedia.org/wiki/パスネット "wikilink")表記。
   - [NHK松江放送局](../Page/NHK松江放送局.md "wikilink") の[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")

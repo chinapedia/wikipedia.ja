@@ -13,7 +13,7 @@
 
 副総監誘拐事件から5年後の2003年、3連休の初日11月22日。湾岸署管内でスリ事件と、女性を狙った通り魔事件が発生する。さらに管内で会社役員の他殺体が発見され、警視庁捜査第一課は湾岸署に特別捜査本部を設置する。本庁初の女性管理官＝[沖田仁美](https://ja.wikipedia.org/wiki/沖田仁美 "wikilink")警視正が捜査本部長として指揮をとり、室井慎次警視正が捜査副本部長を務めることになる。
 
-沖田[警視正](https://ja.wikipedia.org/wiki/警視正 "wikilink")のサポート役、それと同時に[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")が湾岸署管内に秘密裏に設置した監視カメラシステム「C.A.R.A.S.（Criminal Activity Recognition Advanced System）」による捜査も開始され、青島や同僚の恩田すみれがその任務に就くが、その監視網をあざ笑うかのように第2の会社役員殺人事件が起きてしまい、[室井はその責任を取らされる形で](../Page/室井慎次.md "wikilink")、監視ルームに実質[軟禁](https://ja.wikipedia.org/wiki/軟禁 "wikilink")されることになる。
+沖田[警視正](../Page/警視正.md "wikilink")のサポート役、それと同時に[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")が湾岸署管内に秘密裏に設置した監視カメラシステム「C.A.R.A.S.（Criminal Activity Recognition Advanced System）」による捜査も開始され、青島や同僚の恩田すみれがその任務に就くが、その監視網をあざ笑うかのように第2の会社役員殺人事件が起きてしまい、[室井はその責任を取らされる形で](../Page/室井慎次.md "wikilink")、監視ルームに実質[軟禁](https://ja.wikipedia.org/wiki/軟禁 "wikilink")されることになる。
 
 ## キャスト
 
@@ -29,11 +29,11 @@
   - [秋山副署長](https://ja.wikipedia.org/wiki/スリーアミーゴス_\(踊る大捜査線\)#秋山_晴海 "wikilink")（湾岸署副署長・警視） - [斉藤暁](../Page/斉藤暁.md "wikilink")
   - [中西修](https://ja.wikipedia.org/wiki/踊る大捜査線シリーズの登場人物一覧#刑事課 "wikilink")（湾岸署刑事課盗犯係長・警部補） - [小林すすむ](../Page/小林すすむ.md "wikilink")
   - 緒方薫（湾岸署刑事課盗犯係・巡査部長） - [甲本雅裕](../Page/甲本雅裕.md "wikilink")
-  - 森下孝治（湾岸署刑事課強行犯係・巡査部長） - [遠山俊也](https://ja.wikipedia.org/wiki/遠山俊也 "wikilink")
+  - 森下孝治（湾岸署刑事課強行犯係・巡査部長） - [遠山俊也](../Page/遠山俊也.md "wikilink")
   - [神田署長](https://ja.wikipedia.org/wiki/スリーアミーゴス_\(踊る大捜査線\)#神田_総一朗 "wikilink")（湾岸署署長・警視正） - [北村総一朗](../Page/北村総一朗.md "wikilink")
   - 一倉正和（警視庁刑事部捜査第一課長・警視正） - [小木茂光](../Page/小木茂光.md "wikilink")
-  - 草壁中（警視庁警備部警備第一課[特殊急襲部隊](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")(SAT)中隊長・警視正） - [高杉亘](../Page/高杉亘.md "wikilink")
-  - 吉田敏明（警視庁副総監・警視監） - [神山繁](https://ja.wikipedia.org/wiki/神山繁 "wikilink")
+  - 草壁中（警視庁警備部警備第一課[特殊急襲部隊](../Page/特殊急襲部隊.md "wikilink")(SAT)中隊長・警視正） - [高杉亘](../Page/高杉亘.md "wikilink")
+  - 吉田敏明（警視庁副総監・警視監） - [神山繁](../Page/神山繁.md "wikilink")
   - 安住武史（警察庁刑事局長・警視監） - [大和田伸也](../Page/大和田伸也.md "wikilink")
   - カジノの内の外国人 - [ジョン・スレッジ](https://ja.wikipedia.org/wiki/ジョン・スレッジ "wikilink")
   - 捜査員（警視庁刑事部捜査第一課） - [佐々木蔵之介](../Page/佐々木蔵之介.md "wikilink")、[眞島秀和](../Page/眞島秀和.md "wikilink")、[小須田康人](https://ja.wikipedia.org/wiki/小須田康人 "wikilink")、[中根徹](../Page/中根徹.md "wikilink")
@@ -44,19 +44,19 @@
   - 噛み付き魔の被害者の女子高校生 - [小松彩夏](https://ja.wikipedia.org/wiki/小松彩夏 "wikilink")
   - ガールズ7 - [橘凛](https://ja.wikipedia.org/wiki/橘凛 "wikilink")、[津乃村真子](https://ja.wikipedia.org/wiki/津乃村真子 "wikilink")、[千崎若菜](../Page/千崎若菜.md "wikilink")、[広澤草](../Page/広澤草.md "wikilink")、[川田希](https://ja.wikipedia.org/wiki/川田希 "wikilink")、[柴田かよこ](../Page/柴田かよこ.md "wikilink")、[木村陽子](https://ja.wikipedia.org/wiki/木村陽子 "wikilink")
   - 事務職員 - [近江谷太郎](https://ja.wikipedia.org/wiki/近江谷太郎 "wikilink")
-  - 小池茂（監視モニター室オペレーター・警察庁[情報通信局](https://ja.wikipedia.org/wiki/情報通信局 "wikilink")付技術捜査官） - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink")
+  - 小池茂（監視モニター室オペレーター・警察庁[情報通信局](../Page/情報通信局.md "wikilink")付技術捜査官） - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink")
   - 江戸りつ子 - [小西真奈美](https://ja.wikipedia.org/wiki/小西真奈美 "wikilink")
   - [沖田仁美](https://ja.wikipedia.org/wiki/沖田仁美 "wikilink")（警視庁刑事部捜査第一課強行犯担当管理官・警視正） - [真矢みき](https://ja.wikipedia.org/wiki/真矢ミキ "wikilink")
   - [新城賢太郎](../Page/新城賢太郎.md "wikilink")（警察庁長官官房審議補佐官（刑事局担当）・警視正） - [筧利夫](../Page/筧利夫.md "wikilink")
   - 榊原（警察庁長官官房審議官（刑事局担当）・警視監） - [中原丈雄](../Page/中原丈雄.md "wikilink")
   - 増田喜一（女子高生を連続して襲う噛み付き魔） - [岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")
-  - [和久平八郎](../Page/和久平八郎.md "wikilink")（湾岸署刑事課指導員） - [いかりや長介](https://ja.wikipedia.org/wiki/いかりや長介 "wikilink")
+  - [和久平八郎](../Page/和久平八郎.md "wikilink")（湾岸署刑事課指導員） - [いかりや長介](../Page/いかりや長介.md "wikilink")
 
 ## スタッフ
 
-  - 監督 - [本広克行](https://ja.wikipedia.org/wiki/本広克行 "wikilink")（[ROBOT](../Page/ロボット_\(企業\).md "wikilink")）
+  - 監督 - [本広克行](../Page/本広克行.md "wikilink")（[ROBOT](../Page/ロボット_\(企業\).md "wikilink")）
   - 脚本 - [君塚良一](../Page/君塚良一.md "wikilink")
-  - 音楽 - [松本晃彦](https://ja.wikipedia.org/wiki/松本晃彦 "wikilink")
+  - 音楽 - [松本晃彦](../Page/松本晃彦.md "wikilink")
   - 主題歌 - 織田裕二 「[Love Somebody](https://ja.wikipedia.org/wiki/Love_Somebody "wikilink")\[Cinema Version Ⅱ\]」
   - 製作 - [村上光一](../Page/村上光一.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - 企画 - [永田芳男](https://ja.wikipedia.org/wiki/永田芳男 "wikilink")、[宮内正喜](https://ja.wikipedia.org/wiki/宮内正喜 "wikilink")
@@ -68,13 +68,13 @@
   - エクゼクティブ・プロデューサー - [亀山千広](../Page/亀山千広.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - プロデューサー - [臼井裕詞](../Page/臼井裕詞.md "wikilink")、[堀部徹](https://ja.wikipedia.org/wiki/堀部徹 "wikilink")、[安藤親広](../Page/安藤親広.md "wikilink")、[石原隆](../Page/石原隆.md "wikilink")、[高井一郎](../Page/高井一郎.md "wikilink")
   - キャスティング・プロデューサー - 東海林秀文
-  - アシスタント・プロデューサー - 前田久閑、[関口大輔](https://ja.wikipedia.org/wiki/関口大輔 "wikilink")
+  - アシスタント・プロデューサー - 前田久閑、[関口大輔](../Page/関口大輔.md "wikilink")
   - 助監督 - [河合勇人](https://ja.wikipedia.org/wiki/河合勇人 "wikilink")
   - 監督補 - 長瀬邦弘
   - 演出補佐 - [波多野貴文](https://ja.wikipedia.org/wiki/波多野貴文 "wikilink")
-  - セカンドユニット監督 - [羽住英一郎](https://ja.wikipedia.org/wiki/羽住英一郎 "wikilink")（[ROBOT](../Page/ロボット_\(企業\).md "wikilink")・本編冒頭のSAT突入シーン）
+  - セカンドユニット監督 - [羽住英一郎](../Page/羽住英一郎.md "wikilink")（[ROBOT](../Page/ロボット_\(企業\).md "wikilink")・本編冒頭のSAT突入シーン）
   - 録音スタジオ - [日活スタジオセンター](https://ja.wikipedia.org/wiki/日活スタジオセンター "wikilink")
-  - 協賛 - [TOSHIBA](https://ja.wikipedia.org/wiki/TOSHIBA "wikilink")、[日産自動車](../Page/日産自動車.md "wikilink")、[ライフカード](https://ja.wikipedia.org/wiki/ライフカード "wikilink")、[ローソン](../Page/ローソン.md "wikilink")
+  - 協賛 - [TOSHIBA](https://ja.wikipedia.org/wiki/TOSHIBA "wikilink")、[日産自動車](../Page/日産自動車.md "wikilink")、[ライフカード](../Page/ライフカード.md "wikilink")、[ローソン](../Page/ローソン.md "wikilink")
   - 制作プロダクション - [ROBOT](../Page/ロボット_\(企業\).md "wikilink")
   - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[アイ・エヌ・ピー](https://ja.wikipedia.org/wiki/アイ・エヌ・ピー "wikilink")
 
@@ -106,7 +106,7 @@
 
   - 制作に当たり、監督は[押井守](../Page/押井守.md "wikilink")監督の『[機動警察パトレイバー2 the Movie](https://ja.wikipedia.org/wiki/機動警察パトレイバー2_the_Movie "wikilink")』を何度も見返した。同作では横浜ベイブリッジを爆破したのに我々は封鎖するだけでいいのか、とスタッフと盛り上がったりしていた\[6\]。
 
-  - 映画の冒頭で豪華客船での[SATの訓練風景のシーンがあるが](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")、SATが船内に突入した際、ブリッジ（船橋）にいる。
+  - 映画の冒頭で豪華客船での[SATの訓練風景のシーンがあるが](../Page/特殊急襲部隊.md "wikilink")、SATが船内に突入した際、ブリッジ（船橋）にいる。
 
   - 。
 
@@ -118,7 +118,7 @@
 
   - [第27回日本アカデミー賞](../Page/第27回日本アカデミー賞.md "wikilink")
       - 優秀作品賞・優秀監督賞・優秀脚本賞・優秀主演男優賞・優秀助演男優賞・優秀助演女優賞・優秀音楽賞・優秀撮影賞・優秀照明賞・優秀録音賞・優秀編集賞・話題賞
-  - 第58回[毎日映画コンクール](https://ja.wikipedia.org/wiki/毎日映画コンクール "wikilink")　日本映画ファン賞
+  - 第58回[毎日映画コンクール](../Page/毎日映画コンクール.md "wikilink")　日本映画ファン賞
   - 第28回[報知映画賞](../Page/報知映画賞.md "wikilink")　助演女優賞
   - 第23回[藤本賞](https://ja.wikipedia.org/wiki/藤本賞 "wikilink")
   - 第21回[ゴールデングロス賞](https://ja.wikipedia.org/wiki/ゴールデングロス賞 "wikilink")　日本映画部門最優秀金賞・日本映画部門特別大賞
@@ -145,7 +145,7 @@
 
 ## 踊る大捜査線 BAYSIDE SHAKEDOWN 2
 
-国際戦略版として制作された本編を約19分カットした1時間59分の短縮バージョン。オリジナル版から内輪ノリのギャグやシリーズを通して見ないと理解できない部分をカット。主人公・青島の視点から描くように再構成し、同じシーンでも別カットに差し替えられている。音響制作を[スカイウォーカー・サウンド](https://ja.wikipedia.org/wiki/スカイウォーカー・サウンド "wikilink")に依頼。スタッフロールや説明用の字幕は英語のみとなり、オープニングのメインキャスト紹介に[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")が追加されている。DVDは、日本映画として初めての[THX](../Page/THX.md "wikilink")社認定のTHX-DVDとなっている。 2012年9月8日21:00-23:30の「[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")」にて、劇場版最終作の公開記念として日本初放送された。
+国際戦略版として制作された本編を約19分カットした1時間59分の短縮バージョン。オリジナル版から内輪ノリのギャグやシリーズを通して見ないと理解できない部分をカット。主人公・青島の視点から描くように再構成し、同じシーンでも別カットに差し替えられている。音響制作を[スカイウォーカー・サウンド](../Page/スカイウォーカー・サウンド.md "wikilink")に依頼。スタッフロールや説明用の字幕は英語のみとなり、オープニングのメインキャスト紹介に[ユースケ・サンタマリア](../Page/ユースケ・サンタマリア.md "wikilink")が追加されている。DVDは、日本映画として初めての[THX](../Page/THX.md "wikilink")社認定のTHX-DVDとなっている。 2012年9月8日21:00-23:30の「[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")」にて、劇場版最終作の公開記念として日本初放送された。
 
   - BAYSIDE SHAKEDOWN 2 -踊る大捜査線 THE MOVIE2 国際戦略版- DVD THX Edition（2枚組、2004年6月2日発売）
       - ディスク1：本編DVD

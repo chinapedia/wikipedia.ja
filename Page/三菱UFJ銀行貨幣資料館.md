@@ -15,9 +15,9 @@
 
 そこで、[名古屋市](../Page/名古屋市.md "wikilink")[中区錦から](../Page/中区_\(名古屋市\).md "wikilink")[東区赤塚町の旧東海銀行赤塚支店跡に移転し](../Page/東区_\(名古屋市\).md "wikilink")、2009年（平成21年）[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に新装開館した\[10\]。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[世界](../Page/世界.md "wikilink")各地の[貨幣](../Page/貨幣.md "wikilink")およそ1万点を体系的に展示すると共に、先述のた歌川広重の「東海道五十三次」などの浮世絵約1,800枚の[美術](https://ja.wikipedia.org/wiki/美術 "wikilink")品も当館の所蔵となって展示されるようになった\[11\]。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")と[世界](../Page/世界.md "wikilink")各地の[貨幣](../Page/貨幣.md "wikilink")およそ1万点を体系的に展示すると共に、先述のた歌川広重の「東海道五十三次」などの浮世絵約1,800枚の[美術](../Page/美術.md "wikilink")品も当館の所蔵となって展示されるようになった\[11\]。
 
-その他に日本最大の[両替](../Page/両替.md "wikilink")屋の再現、東海銀行の歴代[貯金箱](https://ja.wikipedia.org/wiki/貯金箱 "wikilink")の展示、1億円の重量体験などの各コーナーが設けられている。
+その他に日本最大の[両替](../Page/両替.md "wikilink")屋の再現、東海銀行の歴代[貯金箱](../Page/貯金箱.md "wikilink")の展示、1億円の重量体験などの各コーナーが設けられている。
 
 三菱UFJ銀行名古屋営業部の建替え後の2022年に、1階にミュージアムを新設移転\[12\]。
 
@@ -44,7 +44,7 @@
 
 [1989年](../Page/1989年.md "wikilink")に[名古屋市都市景観重要建築物に指定されている](https://ja.wikipedia.org/wiki/名古屋市都市景観重要建築物等 "wikilink")。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:UFJ銀行貨幣資料館.jpg "wikilink") 設計は[曽禰達蔵](https://ja.wikipedia.org/wiki/曽禰達蔵 "wikilink")と[鈴木禎次](https://ja.wikipedia.org/wiki/鈴木禎次 "wikilink")が行い\[24\]、[竹中工務店](../Page/竹中工務店.md "wikilink")が施工した。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:UFJ銀行貨幣資料館.jpg "wikilink") 設計は[曽禰達蔵](../Page/曽禰達蔵.md "wikilink")と[鈴木禎次](https://ja.wikipedia.org/wiki/鈴木禎次 "wikilink")が行い\[24\]、[竹中工務店](../Page/竹中工務店.md "wikilink")が施工した。
 
 三菱東京UFJ銀行名古屋ビル旧館は北館・南館と分かれており、貨幣資料館は南館一階に位置した。
 

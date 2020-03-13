@@ -1,9 +1,9 @@
 > この記事は[Data Over Cable Service Interface Specifications](https://ja.wikipedia.org/wiki/Data_Over_Cable_Service_Interface_Specifications)から翻訳されています。
 
 
-**DOCSIS** (**Data Over Cable Service Interface Specifications**) は、北アメリカのMCNS (Multimedia Cable Network System Partners Limited) が推進し、SCTE（Society of Cable Telecommunications Engineers : CATV通信技術者協会）で承認され、[ITU-T](../Page/ITU-T.md "wikilink")のJ.112 Annex.Bで定められた、[同軸ケーブル](https://ja.wikipedia.org/wiki/同軸ケーブル "wikilink")での通信サービスの国際規格である。Cable Labs (Cable Television Laboratories) が認定・試験を行っている。日本語では通常「ドクシス」と発音される。
+**DOCSIS** (**Data Over Cable Service Interface Specifications**) は、北アメリカのMCNS (Multimedia Cable Network System Partners Limited) が推進し、SCTE（Society of Cable Telecommunications Engineers : CATV通信技術者協会）で承認され、[ITU-T](../Page/ITU-T.md "wikilink")のJ.112 Annex.Bで定められた、[同軸ケーブル](../Page/同軸ケーブル.md "wikilink")での通信サービスの国際規格である。Cable Labs (Cable Television Laboratories) が認定・試験を行っている。日本語では通常「ドクシス」と発音される。
 
-[ケーブルモデム](https://ja.wikipedia.org/wiki/ケーブルモデム "wikilink")・STB（[セットトップボックス](https://ja.wikipedia.org/wiki/セットトップボックス "wikilink")）の標準化によるコスト低減、[IP電話](../Page/IP電話.md "wikilink")・双方向[デジタル放送への対応などが行われている](../Page/デジタル放送の一覧.md "wikilink")。
+[ケーブルモデム](../Page/ケーブルモデム.md "wikilink")・STB（[セットトップボックス](../Page/セットトップボックス.md "wikilink")）の標準化によるコスト低減、[IP電話](../Page/IP電話.md "wikilink")・双方向[デジタル放送への対応などが行われている](../Page/デジタル放送の一覧.md "wikilink")。
 
 ## DOCSIS 1.0
 
@@ -59,7 +59,7 @@ DOCSIS 1.0のセキュリティ・QoS・[IPマルチキャスト](https://ja.wik
 
 2013年10月に規格化。下り最大10Gbps、上り最大1Gbps。下位の規格に対し、OFDMの採用や使用周波数帯域の拡張といった特徴がある\[3\]\[4\]。
 
-2016年2月には、[Full Duplex](https://ja.wikipedia.org/wiki/複信 "wikilink") DOCSIS 3.1が発表された。Full Duplex DOCSIS 3.1は、下り上りともに最大10Gbps\[5\]。
+2016年2月には、[Full Duplex](../Page/複信.md "wikilink") DOCSIS 3.1が発表された。Full Duplex DOCSIS 3.1は、下り上りともに最大10Gbps\[5\]。
 
 ## Packet Cable
 
@@ -68,7 +68,7 @@ Packet Cableは、[ケーブルテレビ](../Page/ケーブルテレビ.md "wiki
   - Packet Cable1.0 - [固定電話](https://ja.wikipedia.org/wiki/固定電話 "wikilink")と併用するIP電話。
   - Packet Cable1.1 - 固定電話を置き換え可能なIP電話。
   - Packet Cable1.2 - 事業者間通信の制御。
-  - Packet Cable2.0 - [テレビ電話](https://ja.wikipedia.org/wiki/テレビ電話 "wikilink")などのマルチメディア対応。
+  - Packet Cable2.0 - [テレビ電話](../Page/テレビ電話.md "wikilink")などのマルチメディア対応。
 
 ## 出典
 
@@ -82,7 +82,7 @@ Packet Cableは、[ケーブルテレビ](../Page/ケーブルテレビ.md "wiki
 
   - (MoCA)
 
-  - [常時接続](https://ja.wikipedia.org/wiki/常時接続 "wikilink")
+  - [常時接続](../Page/常時接続.md "wikilink")
 
   - [HFC](../Page/HFC.md "wikilink")
 

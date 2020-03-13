@@ -7,7 +7,7 @@
 
 ### HondaJet
 
-[Hondajet1.jpg](https://ja.wikipedia.org/wiki/File:Hondajet1.jpg "fig:Hondajet1.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Hondajet_Interior_2011.jpg "wikilink") [主翼上面のエンジン配置](https://ja.wikipedia.org/wiki/翼#航空機の翼 "wikilink")（Over-The-Wing Engine Mount）形態や自然層流[翼型](https://ja.wikipedia.org/wiki/翼型 "wikilink")（Natural Laminar Flow）、一体成型[複合材胴体などの](https://ja.wikipedia.org/wiki/複合素材 "wikilink")[Honda](https://ja.wikipedia.org/wiki/Honda "wikilink")独自開発技術により、クラス最高水準の最高速度、最大運用高度、上昇性能、燃費性能、静粛性および室内サイズを実現。エンジンは[GE・ホンダ・エアロ・エンジン](../Page/GE・ホンダ・エアロ・エンジン.md "wikilink")が開発・製造した[HF120](https://ja.wikipedia.org/wiki/HF120 "wikilink")を搭載している。主翼の上にエンジンを搭載した世界的にも珍しいデザインや、[空気抵抗を低減する先進的な](../Page/抗力.md "wikilink")[空力技術などにより](../Page/空気力学.md "wikilink")、従来のビジネスジェット機に比べ、燃費性能を約17%、速度を約10%、客室容積を約30%改善。操作性や静粛性などにも優れている。[超軽量ジェット機](https://ja.wikipedia.org/wiki/超軽量ジェット機 "wikilink")としては比較的低価格な490万ドルをベースプライスとしている\[2\]。
+[Hondajet1.jpg](https://ja.wikipedia.org/wiki/File:Hondajet1.jpg "fig:Hondajet1.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:Hondajet_Interior_2011.jpg "wikilink") [主翼上面のエンジン配置](https://ja.wikipedia.org/wiki/翼#航空機の翼 "wikilink")（Over-The-Wing Engine Mount）形態や自然層流[翼型](../Page/翼型.md "wikilink")（Natural Laminar Flow）、一体成型[複合材胴体などの](https://ja.wikipedia.org/wiki/複合素材 "wikilink")[Honda](https://ja.wikipedia.org/wiki/Honda "wikilink")独自開発技術により、クラス最高水準の最高速度、最大運用高度、上昇性能、燃費性能、静粛性および室内サイズを実現。エンジンは[GE・ホンダ・エアロ・エンジン](../Page/GE・ホンダ・エアロ・エンジン.md "wikilink")が開発・製造した[HF120](https://ja.wikipedia.org/wiki/HF120 "wikilink")を搭載している。主翼の上にエンジンを搭載した世界的にも珍しいデザインや、[空気抵抗を低減する先進的な](../Page/抗力.md "wikilink")[空力技術などにより](../Page/空気力学.md "wikilink")、従来のビジネスジェット機に比べ、燃費性能を約17%、速度を約10%、客室容積を約30%改善。操作性や静粛性などにも優れている。[超軽量ジェット機](https://ja.wikipedia.org/wiki/超軽量ジェット機 "wikilink")としては比較的低価格な490万ドルをベースプライスとしている\[2\]。
 
 乗員を含む最大7人乗りで、全長約13m、幅約12m、高さは約4.5m。最大運用高度は13,106m (43,000[ft](../Page/フィート.md "wikilink"))、最大[巡航速度](https://ja.wikipedia.org/wiki/巡航速度 "wikilink")は約782 km/h (422 [knots](../Page/ノット.md "wikilink"))で、[航続距離](../Page/航続距離.md "wikilink")は2,265 km（1,223 [nm](../Page/海里.md "wikilink")）。カラーバリエーションはレッド、ブルー、グリーン、イエロー、シルバーの全5色。[2007年](../Page/2007年.md "wikilink")（平成19年）には[グッドデザイン賞](https://ja.wikipedia.org/wiki/グッドデザイン賞 "wikilink")金賞を受賞するなど、デザインの美しさも高評価されている。また、[2017年](../Page/2017年.md "wikilink")（平成29年）には、米国[Flying誌（英語版）のFlying](https://ja.wikipedia.org/wiki/:en:Flying_\(magazine\) "wikilink") Innovation Awardを受賞している。
 
@@ -23,7 +23,7 @@
 
 同年4月にFAA、5月に[欧州航空安全機関](https://ja.wikipedia.org/wiki/欧州航空安全機関 "wikilink")（European Aviation Safety Agency:EASA）の型式証明を取得。日本においても5月17日、[国土交通省](../Page/国土交通省.md "wikilink")航空局に型式証明の申請を行い、12月7日取得した\[11\]\[12\]。
 
-同年7月6日には日本での販売を発表\[13\]、国内販売代理店は[丸紅](https://ja.wikipedia.org/wiki/丸紅 "wikilink")の子会社である丸紅エアロスペースが行う\[14\]。日本国内ではビジネスジェットの市場は非常に小さく、そのほとんどが公用機であるが、今後HACIが市場を作り拡大を目指すとしている。12月20日には[千葉功太郎](https://ja.wikipedia.org/wiki/千葉功太郎 "wikilink")、[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")、[山岸広太郎](https://ja.wikipedia.org/wiki/山岸広太郎 "wikilink")が共同所有する初号機（JA01JP）の引き渡しが行われた\[15\]。
+同年7月6日には日本での販売を発表\[13\]、国内販売代理店は[丸紅](../Page/丸紅.md "wikilink")の子会社である丸紅エアロスペースが行う\[14\]。日本国内ではビジネスジェットの市場は非常に小さく、そのほとんどが公用機であるが、今後HACIが市場を作り拡大を目指すとしている。12月20日には[千葉功太郎](https://ja.wikipedia.org/wiki/千葉功太郎 "wikilink")、[堀江貴文](../Page/堀江貴文.md "wikilink")、[山岸広太郎](https://ja.wikipedia.org/wiki/山岸広太郎 "wikilink")が共同所有する初号機（JA01JP）の引き渡しが行われた\[15\]。
 
 2019年（令和元年）10月21日、救急医療搬送用のメデバック仕様が[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")のWing Spirit社が所有するHondaJet Eliteに初めて導入されたと発表\[16\]。また、映画俳優の[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")がカスタムペイントのHondaJetを所有して自ら操縦していることも明らかにされた\[17\]。
 
@@ -62,7 +62,7 @@
 <!-- end list -->
 
   - 機首
-    風洞試験結果から、少なくとも一部は[層流](https://ja.wikipedia.org/wiki/層流 "wikilink")を維持し[抗力](../Page/抗力.md "wikilink")減少に寄与しているという\[27\]。初期の試験飛行時には、[ピトー管](https://ja.wikipedia.org/wiki/ピトー管 "wikilink")があったと思われる機首先端から伸びた長大なブームを備えていた。
+    風洞試験結果から、少なくとも一部は[層流](https://ja.wikipedia.org/wiki/層流 "wikilink")を維持し[抗力](../Page/抗力.md "wikilink")減少に寄与しているという\[27\]。初期の試験飛行時には、[ピトー管](../Page/ピトー管.md "wikilink")があったと思われる機首先端から伸びた長大なブームを備えていた。
     機首にも小さな荷室があり、上部に設置されたドアから荷物を取り出すことが出来る。
   - 窓とドア
     コクピットの窓は正面ウィンドシールド（風防）が2枚、側面ウインドウが左右1枚ずつの計4枚からなる。客室の窓は角を丸くした（アールの付いた）縦長の長方形で、左右各3枚ずつの計6枚。
@@ -80,7 +80,7 @@ Image:HondaJet 004.jpg|機首 <File:Paris> Air Show 2017 HondaJet right rear.jpg
 
 エンジンは、ホンダ社が独自開発した小型の[ターボファンエンジン](../Page/ターボファンエンジン.md "wikilink") HF118を基本に[GE・ホンダ・エアロ・エンジン](../Page/GE・ホンダ・エアロ・エンジン.md "wikilink")社が開発・製造した**[HF120](../Page/HF120_\(エンジン\).md "wikilink")**を搭載する。大手航空機メーカーの[ボーイング](../Page/ボーイング.md "wikilink")、[エアバス](../Page/エアバス.md "wikilink")、[ボンバルディア](../Page/ボンバルディア・エアロスペース.md "wikilink")、[ロッキードマーティンなどは](../Page/ロッキード・マーティン.md "wikilink")[GE](../Page/ゼネラル・エレクトリック.md "wikilink")、[P\&W](../Page/プラット・アンド・ホイットニー.md "wikilink")、[ロールス・ロイスPLCの](https://ja.wikipedia.org/wiki/ロールス・ロイス・ホールディングス "wikilink")[ジェットエンジン](../Page/ジェットエンジン.md "wikilink")を使用しており、エンジンまで自社製なのは世界的にも珍しい。HF120エンジンは、米[スペクトラム・エアロノーティカル](https://ja.wikipedia.org/wiki/スペクトラム・エアロノーティカル "wikilink")社が開発中の10席級のビジネスジェット機である「[S-40 フリーダム](https://ja.wikipedia.org/wiki/スペクトラム_S-40_フリーダム "wikilink")」にも採用される予定である。
 
-騒音基準と[排気ガス](../Page/排気ガス.md "wikilink")に関する環境基準については、[ICAOのチャプター](../Page/国際民間航空機関.md "wikilink")4をクリアする。TBO（Time Between Overhaul, [オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")間隔）は5,000時間と長めに設定されている。[離陸](../Page/離陸.md "wikilink")時[推力](../Page/推力.md "wikilink")は機体未装着エンジン単体で9.32 [kN](../Page/ニュートン_\(単位\).md "wikilink") (2,095 [lbf](https://ja.wikipedia.org/wiki/重量ポンド "wikilink")) で\[32\]、HondaJetの機体装着時は8.36 kN (1,880 lbf) となる\[33\]。
+騒音基準と[排気ガス](../Page/排気ガス.md "wikilink")に関する環境基準については、[ICAOのチャプター](../Page/国際民間航空機関.md "wikilink")4をクリアする。TBO（Time Between Overhaul, [オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")間隔）は5,000時間と長めに設定されている。[離陸](../Page/離陸.md "wikilink")時[推力](../Page/推力.md "wikilink")は機体未装着エンジン単体で9.32 [kN](../Page/ニュートン_\(単位\).md "wikilink") (2,095 [lbf](../Page/重量ポンド.md "wikilink")) で\[32\]、HondaJetの機体装着時は8.36 kN (1,880 lbf) となる\[33\]。
 
 この新開発の低燃費ターボファンの搭載と、機体形状の工夫による抗力減少によって、HondaJetは従来機に比べ燃費が約40 %向上した\[34\]。
 
@@ -90,11 +90,11 @@ Image:HondaJet 004.jpg|機首 <File:Paris> Air Show 2017 HondaJet right rear.jpg
 
 [アビオニクス](../Page/アビオニクス.md "wikilink")には[ガーミン](https://ja.wikipedia.org/wiki/ガーミン "wikilink")の[G3000をベースにした専用システムが採用された](https://ja.wikipedia.org/wiki/:en:Garmin_G3000 "wikilink")。3台の14インチ高解像度ディスプレイと2台のタッチスクリーンコントローラーを備えた[グラスコックピット](../Page/グラスコックピット.md "wikilink")によりパイロットが必要な情報を明確に表示し、あらゆる操作を容易に行うことができるよう配慮されている。
 
-[操縦桿](https://ja.wikipedia.org/wiki/操縦桿 "wikilink")は一般的な山型の両手持ちタイプが採用された。
+[操縦桿](../Page/操縦桿.md "wikilink")は一般的な山型の両手持ちタイプが採用された。
 
 通常は2名運航であるが、[オートパイロット](../Page/オートパイロット.md "wikilink")を搭載しておりオーナーによるシングルパイロット運航も可能である。
 
-Eliteにはさらに[飛行計画](https://ja.wikipedia.org/wiki/飛行計画 "wikilink")の自動作成に対応したフライトマネジメントシステムや、センサーからの情報を統合し最適な離着陸距離を指示するなど、運航を補助する機能が追加される。またオプションとして飛行時の安全性を強化するシステムが用意される\[35\]
+Eliteにはさらに[飛行計画](../Page/飛行計画.md "wikilink")の自動作成に対応したフライトマネジメントシステムや、センサーからの情報を統合し最適な離着陸距離を指示するなど、運航を補助する機能が追加される。またオプションとして飛行時の安全性を強化するシステムが用意される\[35\]
 
 [File:HondajetPanel.jpg|量産機向けのG3000](File:HondajetPanel.jpg%7C量産機向けのG3000) <File:Paris> Air Show 2019, Le Bourget (SIAE1098).jpg|操縦席
 
@@ -280,20 +280,20 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 
 ## FAI公認スピード記録
 
-| 日付        | 飛行区間                                       | 記録                                                        |
-| --------- | ------------------------------------------ | --------------------------------------------------------- |
-| 4.09.2016 | Teterboro, NJ to Fort Lauderdale, FL       | 478 [mph](https://ja.wikipedia.org/wiki/マイル毎時 "wikilink") |
-| 7.19.2016 | Bedford, MA to West Palm Beach, FL         | 486 mph                                                   |
-| 4.19.2017 | Miami, FL to Panama City, Panama           | 369.11 mph                                                |
-| 5.04.2017 | Greensboro, NC to Dallas, Texas            | 338.65 mph                                                |
-| 5.04.2017 | Dallas, Texas to Phoenix, AZ               | 366.61 mph                                                |
-| 5.19.2017 | London, UK to Geneva, Switzerland          | 322.24 mph                                                |
-| 5.24.2017 | Geneva, Switzerland to London, UK          | 281.91 mph                                                |
-| 8.10.2017 | Pensacola, FL to Greensboro, NC            | 385.25 mph                                                |
-| 8.10.2017 | Keflavik, Iceland to Shannon, Ireland      | 388.36 mph                                                |
-| 8.20.2017 | Curitiba, Brazil to Golania, Brazil        | 325.19 mph                                                |
-| 8.27.2017 | Buenos Aires, Argentina to Santiago, Chile | 306.33 mph                                                |
-| 9.02.2017 | Amman, Jordan to Dubai, UAE                | 356 mph                                                   |
+| 日付        | 飛行区間                                       | 記録                                     |
+| --------- | ------------------------------------------ | -------------------------------------- |
+| 4.09.2016 | Teterboro, NJ to Fort Lauderdale, FL       | 478 [mph](../Page/マイル毎時.md "wikilink") |
+| 7.19.2016 | Bedford, MA to West Palm Beach, FL         | 486 mph                                |
+| 4.19.2017 | Miami, FL to Panama City, Panama           | 369.11 mph                             |
+| 5.04.2017 | Greensboro, NC to Dallas, Texas            | 338.65 mph                             |
+| 5.04.2017 | Dallas, Texas to Phoenix, AZ               | 366.61 mph                             |
+| 5.19.2017 | London, UK to Geneva, Switzerland          | 322.24 mph                             |
+| 5.24.2017 | Geneva, Switzerland to London, UK          | 281.91 mph                             |
+| 8.10.2017 | Pensacola, FL to Greensboro, NC            | 385.25 mph                             |
+| 8.10.2017 | Keflavik, Iceland to Shannon, Ireland      | 388.36 mph                             |
+| 8.20.2017 | Curitiba, Brazil to Golania, Brazil        | 325.19 mph                             |
+| 8.27.2017 | Buenos Aires, Argentina to Santiago, Chile | 306.33 mph                             |
+| 9.02.2017 | Amman, Jordan to Dubai, UAE                | 356 mph                                |
 
 \[52\]
 
@@ -324,27 +324,27 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
   - 2018年 2月: 仏エアタクシーサービス提供会社Wijet社と複数のHondaJetの販売に向けた基本合意書を締結\[70\]\[71\]。
   - 2018年 2月: 小型ジェット機カテゴリーにおいて、HondaJetが2017年のデリバリー数世界No.1を達成したことを発表\[72\]。
   - 2018年 3月: インドでのHondaJetの受注を開始\[73\]。
-  - 2018年 3月：[ANAホールディングス](https://ja.wikipedia.org/wiki/ANAホールディングス "wikilink")と[ホンダ エアクラフトカンパニーが提携](https://ja.wikipedia.org/wiki/ホンダ_エアクラフト "wikilink")。「[ANAビジネスジェット](https://ja.wikipedia.org/wiki/ANAビジネスジェット "wikilink")」によるビジネスジェットチャーターサービスに[HondaJet](https://ja.wikipedia.org/wiki/HondaJet "wikilink")を活用\[74\]。
+  - 2018年 3月：[ANAホールディングス](https://ja.wikipedia.org/wiki/ANAホールディングス "wikilink")と[ホンダ エアクラフトカンパニーが提携](https://ja.wikipedia.org/wiki/ホンダ_エアクラフト "wikilink")。「[ANAビジネスジェット](https://ja.wikipedia.org/wiki/ANAビジネスジェット "wikilink")」によるビジネスジェットチャーターサービスに[HondaJet](../Page/HondaJet.md "wikilink")を活用\[74\]。
   - 2018年 5月: [スイス](../Page/スイス.md "wikilink")の[ジュネーブ](https://ja.wikipedia.org/wiki/ジュネーブ "wikilink")で開催されたビジネス航空ショーで、「HondaJet」の最新型としてアップグレードされた「HondaJet Elite（エリート）」を初公開\[75\]。
   - 2018年 5月: 中東地域でのHondaJetの受注を開始\[76\]\[77\]。
   - 2018年 6月: 日本でのHondaJetの受注を開始\[78\]。
   - 2018年 9月：インド民間航空局から「HondaJet」「HondaJet Elite」の型式証明取得\[79\]。
   - 2018年 9月：従来モデルのHondaJetに適用可能な「HondaJet APMGパフォーマンスパッケージ」を発表\[80\]。
   - 2018年12月7日：日本の国土交通省から「HondaJet Elite」の型式証明取得\[81\]\[82\]。
-  - 2018年12月20日：日本での初の引き渡しを開始。日本では[千葉功太郎](https://ja.wikipedia.org/wiki/千葉功太郎 "wikilink")・[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")・[山岸広太郎](https://ja.wikipedia.org/wiki/山岸広太郎 "wikilink")らの共同オーナーが第一号\[83\]。
+  - 2018年12月20日：日本での初の引き渡しを開始。日本では[千葉功太郎](https://ja.wikipedia.org/wiki/千葉功太郎 "wikilink")・[堀江貴文](../Page/堀江貴文.md "wikilink")・[山岸広太郎](https://ja.wikipedia.org/wiki/山岸広太郎 "wikilink")らの共同オーナーが第一号\[83\]。
   - 2019年 2月: 小型ジェット機カテゴリーにおいて、HondaJetが2017-2018年の2年連続のデリバリー数世界No.1を達成したことを発表\[84\]。
   - 2019年 4月：日本国内においてHondaJetが「JA01JP」として初の航空機登録\[85\]。
-  - 2019年 8月：[中国民用航空局](https://ja.wikipedia.org/wiki/中国民用航空局 "wikilink")から「HondaJet Elite」の型式証明取得\[86\]。
+  - 2019年 8月：[中国民用航空局](../Page/中国民用航空局.md "wikilink")から「HondaJet Elite」の型式証明取得\[86\]。
   - 2020年 2月：パキスタン民間航空局から「HondaJet Elite」の型式証明取得\[87\]。
   - 2020年 2月: 小型ジェット機カテゴリーにおいて、HondaJetが2017-2019年の3年連続のデリバリー数世界No.1を達成したことを発表\[88\]。
 
 ## エピソード
 
-  - [本田宗一郎](../Page/本田宗一郎.md "wikilink")は1986年に[本田技術研究所](https://ja.wikipedia.org/wiki/本田技術研究所 "wikilink")で開始された小型[航空機](../Page/航空機.md "wikilink")の研究プロジェクトについて、生涯知らされることはなかった。当時、同氏は会社をすでに引退していたが航空機に強烈な情熱を持ち続けており、もしホンダが航空機プロジェクトに着手していると知れば、会社に戻ることを抑えられなくなるため、秘密にしておかなければならないとされていた\[89\]。
+  - [本田宗一郎](../Page/本田宗一郎.md "wikilink")は1986年に[本田技術研究所](../Page/本田技術研究所.md "wikilink")で開始された小型[航空機](../Page/航空機.md "wikilink")の研究プロジェクトについて、生涯知らされることはなかった。当時、同氏は会社をすでに引退していたが航空機に強烈な情熱を持ち続けており、もしホンダが航空機プロジェクトに着手していると知れば、会社に戻ることを抑えられなくなるため、秘密にしておかなければならないとされていた\[89\]。
   - HondaJetのコンセプトは、1997年のある夜、開発責任者で設計者の[藤野道格](https://ja.wikipedia.org/wiki/藤野道格 "wikilink")が眠りにつこうとしたときにひらめき、その場にノートがなかったため、部屋にあったカレンダーを破り、その裏に最初のスケッチを描いたと述べられている\[90\]。
   - [ボーイング](../Page/ボーイング.md "wikilink")の設備を借りてHondaJetの主翼上面エンジン配置形態の特性試験をしていると、「ホンダは何であんなところにエンジンを付けているんだ」とボーイングのメンバーに陰口を叩かれたが、試験で空力的に優れているとの結果が出てくると「あいつらすごいことをやっている」と言われ始めた\[91\]\[92\]。
   - 俳優で航空機に造詣が深い[石坂浩二](../Page/石坂浩二.md "wikilink")は、2015年のHondaJet初来日の際にHondaJetを間近で見て、「[ホンダ](https://ja.wikipedia.org/wiki/ホンダ "wikilink")にしかできない挑戦。それがこのジェット機のかっこ良さ、美しさ、革新性を生み出した」と述べている\[93\]。
-  - HondaJet日本納入初号機の共同購入者である[堀江貴文](https://ja.wikipedia.org/wiki/堀江貴文 "wikilink")は、2018年12月20日に行われたデリバリーセレモニーで、「メチャクチャ、すごい」「なんじゃこりゃって思うくらい、すごい快適」と述べている\[94\]。
+  - HondaJet日本納入初号機の共同購入者である[堀江貴文](../Page/堀江貴文.md "wikilink")は、2018年12月20日に行われたデリバリーセレモニーで、「メチャクチャ、すごい」「なんじゃこりゃって思うくらい、すごい快適」と述べている\[94\]。
   - HondaJet国内初オーナーの[千葉功太郎](https://ja.wikipedia.org/wiki/千葉功太郎 "wikilink")は、日本での納入イベントの挨拶で、日曜日の「[イッテQ](https://ja.wikipedia.org/wiki/世界の果てまでイッテQ! "wikilink")」を観ているときにHondaJetのTV CMが流れ、欲しいなと思ったのがきっかけで購入を思いたったと述べている\[95\]。
   - 2017年3月15日に米国内自動車メーカー11社を招いて開かれた討論会において、ホンダがジェット機を製造していることについて触れた時に、[トランプ大統領](https://ja.wikipedia.org/wiki/トランプ大統領 "wikilink")はHondaJetについて「見たことがある。とても美しい」と語っている。\[96\]\[97\]。
   - 2015年12月9日に行われたHondaJetの[FAA型式証明取得記念式典で](../Page/連邦航空局.md "wikilink")、藤野道格の友人であるプロサックス奏者[ケニー・G](../Page/ケニー・G.md "wikilink")がサプライズ登場し、彼のアルバム「Breathless」の中の一曲 「Morning」を演奏した。「Morning」は、HondaJetの開発が困難を極めた頃、「朝が来ないのではないか」と藤野が思う中で希望を見出したく聞いた曲であった\[98\]\[99\]。また[ケニー・G](../Page/ケニー・G.md "wikilink")は[デ・ハビランド・カナダ DHC-2](https://ja.wikipedia.org/wiki/デ・ハビランド・カナダ_DHC-2 "wikilink") ビーバーを所有しているパイロットでHondaJetを所有することが夢と言っている\[100\]
@@ -356,7 +356,7 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 </ref>\[105\]。また、日本のプロゴルファーの[松山英樹](https://ja.wikipedia.org/wiki/松山英樹 "wikilink")選手も、2018年8月12日、ウィンダム選手権に参戦するため、HondaJetで[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")[グリーンズボロに到着している](https://ja.wikipedia.org/wiki/グリーンズボロ_\(ノースカロライナ州\) "wikilink")\[106\]。
 
   - [ガーミン](https://ja.wikipedia.org/wiki/ガーミン "wikilink")初の統合アビオニクスシステム[G1000は](https://ja.wikipedia.org/wiki/:en:Garmin_G1000 "wikilink")、1999年、藤野道格とガーミン共同創業者のが将来のビジネスジェットのアビオニクスの姿を議論し意気投合してその共同開発が始まった。その為、HondaJet技術実証機がG1000を搭載した最初のビジネスジェット機となったことが知られている\[107\]。
-  - プロテニスプレーヤーの[西岡良仁](https://ja.wikipedia.org/wiki/西岡良仁 "wikilink")は、[全米オープンに参戦するため](https://ja.wikipedia.org/wiki/全米オープン_\(テニス\) "wikilink")2019年8月18日にHondaJetで[ニューヨーク](../Page/ニューヨーク.md "wikilink")に移動している。「移動の疲れが軽減出来る」とコメントしている<ref>
+  - プロテニスプレーヤーの[西岡良仁](https://ja.wikipedia.org/wiki/西岡良仁 "wikilink")は、[全米オープンに参戦するため](../Page/全米オープン_\(テニス\).md "wikilink")2019年8月18日にHondaJetで[ニューヨーク](../Page/ニューヨーク.md "wikilink")に移動している。「移動の疲れが軽減出来る」とコメントしている<ref>
 
 </ref>。また、2018年の[ウィンストン・セーラム](../Page/ウィンストン・セーラム.md "wikilink")オープン選手権では、[杉田祐一](../Page/杉田祐一.md "wikilink")、[ダニエル太郎](https://ja.wikipedia.org/wiki/ダニエル太郎 "wikilink")などプロテニスプレーヤー達がHondaJetで[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")ウィンストン・セーラム市に移動している\[108\]\[109\]。
 
@@ -366,8 +366,8 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 </ref>。また藤野は「トム・クルーズは、とても思慮深く、優れたパイロットだ」と述べている\[113\]。
 
   - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の役員の移動の為に、トヨタの系列会社である[朝日航洋](../Page/朝日航洋.md "wikilink")がHonaJet Eliteを購入している\[114\]。また、[豊田章男](https://ja.wikipedia.org/wiki/豊田章男 "wikilink")社長の社長室にはHondaJetの模型が飾られており、「うちで買うことにした」と語っている\[115\]。
-  - [一橋大学](https://ja.wikipedia.org/wiki/一橋大学 "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")の[野中郁次郎](https://ja.wikipedia.org/wiki/野中郁次郎 "wikilink")は自著の中で「HondaJetの革新的イノベーションは知識のある専門家が少数集まり、知的コンバットを行い真剣勝負を繰り広げた藤野のリーダーシップがあったから実現できた」と解説し、「知的創造の本質を示している」と述べている\[116\]。
-  - [レッドブル](https://ja.wikipedia.org/wiki/レッドブル "wikilink")が所有する[F1レーシングチーム](../Page/フォーミュラ1.md "wikilink")「[スクーデリア・アルファタウリ](https://ja.wikipedia.org/wiki/スクーデリア・アルファタウリ "wikilink")・ホンダ」が、2020年2月14日に[ザルツブルグ](https://ja.wikipedia.org/wiki/ザルツブルグ "wikilink")空港のハンガー7において新車発表イベントを行った際、同チームのF1マシンのカラーリングを施したHondaJetを同時に展示している\[117\]。
+  - [一橋大学](../Page/一橋大学.md "wikilink")[名誉教授](../Page/名誉教授.md "wikilink")の[野中郁次郎](../Page/野中郁次郎.md "wikilink")は自著の中で「HondaJetの革新的イノベーションは知識のある専門家が少数集まり、知的コンバットを行い真剣勝負を繰り広げた藤野のリーダーシップがあったから実現できた」と解説し、「知的創造の本質を示している」と述べている\[116\]。
+  - [レッドブル](../Page/レッドブル.md "wikilink")が所有する[F1レーシングチーム](../Page/フォーミュラ1.md "wikilink")「[スクーデリア・アルファタウリ](../Page/スクーデリア・アルファタウリ.md "wikilink")・ホンダ」が、2020年2月14日に[ザルツブルグ](https://ja.wikipedia.org/wiki/ザルツブルグ "wikilink")空港のハンガー7において新車発表イベントを行った際、同チームのF1マシンのカラーリングを施したHondaJetを同時に展示している\[117\]。
 
 ## 登場作品
 
@@ -450,7 +450,7 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 
 </ref>
 
-  - [日経ものづくり](https://ja.wikipedia.org/wiki/日経ものづくり "wikilink")『「HondaJet」の全貌』(2012年4月、[日経BP](https://ja.wikipedia.org/wiki/日経BP "wikilink"))<ref>
+  - [日経ものづくり](https://ja.wikipedia.org/wiki/日経ものづくり "wikilink")『「HondaJet」の全貌』(2012年4月、[日経BP](../Page/日経BP.md "wikilink"))<ref>
 
 
 </ref>
@@ -483,12 +483,12 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 </ref>
 
   - 『Creative Construction: The DNA of Sustained Innovation』(英語)(2019年1月、PublicAffairs、Gary P. Pisano 著)\[122\]
-  - 『直感の経営』(2019年3月、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")、[野中郁次郎](https://ja.wikipedia.org/wiki/野中郁次郎 "wikilink")、山口一郎 著)\[123\]
+  - 『直感の経営』(2019年3月、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")、[野中郁次郎](../Page/野中郁次郎.md "wikilink")、山口一郎 著)\[123\]
   - [Wedge](https://ja.wikipedia.org/wiki/Wedge "wikilink")『藤野 道格 ホンダエアクラフトカンパニー社長 ホンダジェットが示す製造業の未来』(2019年6月、[ウェッジ](https://ja.wikipedia.org/wiki/ウェッジ_\(出版社\) "wikilink"))<ref>
 
 </ref>
 
-  - 『The Wise Company: How Companies Create Continuous Innovation』(英語)(2019年10月、Oxford University Press、野中郁次郎、[竹内弘高](https://ja.wikipedia.org/wiki/竹内弘高 "wikilink") 著)\[124\]
+  - 『The Wise Company: How Companies Create Continuous Innovation』(英語)(2019年10月、Oxford University Press、野中郁次郎、[竹内弘高](../Page/竹内弘高.md "wikilink") 著)\[124\]
 
 ### 新聞
 
@@ -557,7 +557,7 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 
 </ref>
 
-  - [交詢社](https://ja.wikipedia.org/wiki/交詢社 "wikilink") 『ホンダジェット、世界一の挑戦』(2018年11月2日、藤野道格)<ref>
+  - [交詢社](../Page/交詢社.md "wikilink") 『ホンダジェット、世界一の挑戦』(2018年11月2日、藤野道格)<ref>
 
 </ref>
 
@@ -587,7 +587,7 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 
 </ref>
 
-  - [デューク大学](https://ja.wikipedia.org/wiki/デューク大学 "wikilink") ピアソー特別記念講義『イノベーションとインスピレーション - HondaJet』(2018年2月21日、藤野道格)<ref>
+  - [デューク大学](../Page/デューク大学.md "wikilink") ピアソー特別記念講義『イノベーションとインスピレーション - HondaJet』(2018年2月21日、藤野道格)<ref>
 
 </ref>
 
@@ -601,8 +601,8 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 
   - [GE ホンダ HF120](../Page/HF120_\(エンジン\).md "wikilink")
   - [MH01](https://ja.wikipedia.org/wiki/MH01 "wikilink") - 航空機の技術の習得に使用された小型実験機
-  - [MH02](https://ja.wikipedia.org/wiki/MH02 "wikilink") - HondaJetの原型となった小型実験機
-  - [VFW 614](https://ja.wikipedia.org/wiki/VFW_614_\(航空機\) "wikilink") - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のVFW社が開発したジェット旅客機。HondaJetと同様主翼の上にエンジンが付いている珍しい設計となっていた。
+  - [MH02](../Page/MH02.md "wikilink") - HondaJetの原型となった小型実験機
+  - [VFW 614](../Page/VFW_614_\(航空機\).md "wikilink") - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のVFW社が開発したジェット旅客機。HondaJetと同様主翼の上にエンジンが付いている珍しい設計となっていた。
   - [日本製航空機の一覧](../Page/日本製航空機の一覧.md "wikilink")
 
 ## 外部リンク
@@ -629,7 +629,7 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
 10. [新型HondaJet Eliteを発表](http://www.honda.co.jp/news/2018/c180528.html)
 11. [HondaJet(ホンダジェット)に対する型式証明](http://www.mlit.go.jp/common/001264270.pdf) - 国土交通省航空局航空機安全課 平成30年12月7日
 12. [HondaJet日本での型式証明を取得](https://www.honda.co.jp/news/2018/c181207.html) - Honda \>ニュースリリース \>企業関連ニュース 2018年12月07日
-13. [ホンダジェット、日本でも受注開始　19年前半に納入開始](https://jp.reuters.com/article/honda-jet-idJPKCN1J2051) - [ロイター](https://ja.wikipedia.org/wiki/ロイター "wikilink")（2018年6月6日 / 10:39版）2018年7月10日閲覧
+13. [ホンダジェット、日本でも受注開始　19年前半に納入開始](https://jp.reuters.com/article/honda-jet-idJPKCN1J2051) - [ロイター](../Page/ロイター.md "wikilink")（2018年6月6日 / 10:39版）2018年7月10日閲覧
 14. [HondaJetディーラー契約締結の件](https://www.marubeni-aerospace.co.jp/news/detail.php?seq=15) - 丸紅エアロスペース（2018.06.06発表）2018年7月10日閲覧
 15.
 16.

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[コカ・コーラ社の](../Page/日本コカ・コーラ.md "wikilink")[ジョージア缶コーヒーの](../Page/ジョージア_\(缶コーヒー\).md "wikilink")[テレビCMをきっかけに結成された](../Page/コマーシャルメッセージ.md "wikilink")。CMの設定や役を引き継いで[日本テレビでグループのメンバーが出演する](../Page/日本テレビ放送網.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[明日があるさ](https://ja.wikipedia.org/wiki/明日があるさ_\(テレビドラマ\) "wikilink")』、さらに映画『[明日があるさ THE MOVIE](https://ja.wikipedia.org/wiki/明日があるさ_THE_MOVIE "wikilink")』が作られた。
+[コカ・コーラ社の](../Page/日本コカ・コーラ.md "wikilink")[ジョージア缶コーヒーの](../Page/ジョージア_\(缶コーヒー\).md "wikilink")[テレビCMをきっかけに結成された](../Page/コマーシャルメッセージ.md "wikilink")。CMの設定や役を引き継いで[日本テレビでグループのメンバーが出演する](../Page/日本テレビ放送網.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[明日があるさ](../Page/明日があるさ_\(テレビドラマ\).md "wikilink")』、さらに映画『[明日があるさ THE MOVIE](https://ja.wikipedia.org/wiki/明日があるさ_THE_MOVIE "wikilink")』が作られた。
 
 2001年にはRe:Japanと同じく[坂本九](../Page/坂本九.md "wikilink")の「[明日があるさ](../Page/明日があるさ.md "wikilink")」をカバーした[ウルフルズ](../Page/ウルフルズ.md "wikilink")とのコラボレーションで『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』に出場した。
 
@@ -14,7 +14,7 @@
 2012年に『[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")』最終回SPのオープニングアクトとして出演。
 
   -
-    スケジュールの関係で寛平は大阪から生中継で出演、療養中の[花紀京](https://ja.wikipedia.org/wiki/花紀京 "wikilink")は、VTRによる歌唱シーンになっていた。
+    スケジュールの関係で寛平は大阪から生中継で出演、療養中の[花紀京](../Page/花紀京.md "wikilink")は、VTRによる歌唱シーンになっていた。
 
 2019年10月22日放送の『[1番だけが知っている](https://ja.wikipedia.org/wiki/1番だけが知っている "wikilink")』内にてレコード大賞の時の映像が放送された
 
@@ -24,13 +24,13 @@
 ## メンバー
 
   - [ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")（[浜田雅功](../Page/浜田雅功.md "wikilink")、[松本人志](../Page/松本人志.md "wikilink")）
-  - [ココリコ](../Page/ココリコ.md "wikilink")（[遠藤章造](https://ja.wikipedia.org/wiki/遠藤章造 "wikilink")、[田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")）
+  - [ココリコ](../Page/ココリコ.md "wikilink")（[遠藤章造](../Page/遠藤章造.md "wikilink")、[田中直樹](../Page/田中直樹_\(お笑い芸人\).md "wikilink")）
   - [間寛平](../Page/間寛平.md "wikilink")
   - [藤井隆](../Page/藤井隆.md "wikilink")
   - [ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")（[田村淳](../Page/田村淳.md "wikilink")、[田村亮](../Page/田村亮_\(お笑い芸人\).md "wikilink")）
   - [山田花子](https://ja.wikipedia.org/wiki/山田花子_\(タレント\) "wikilink")
   - [東野幸治](../Page/東野幸治.md "wikilink")
-  - [花紀京](https://ja.wikipedia.org/wiki/花紀京 "wikilink")（故人）
+  - [花紀京](../Page/花紀京.md "wikilink")（故人）
 
 ## ディスコグラフィ
 
@@ -40,13 +40,13 @@
 
 1.  「[明日があるさ](../Page/明日があるさ.md "wikilink")」（2001年3月28日）
       -
-        デビュー曲。ドラマ『[明日があるさ](https://ja.wikipedia.org/wiki/明日があるさ_\(テレビドラマ\) "wikilink")』主題歌。坂本九のカバー。[オリコン週間シングルチャートで首位を獲得](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。
+        デビュー曲。ドラマ『[明日があるさ](../Page/明日があるさ_\(テレビドラマ\).md "wikilink")』主題歌。坂本九のカバー。[オリコン週間シングルチャートで首位を獲得](../Page/オリコンチャート.md "wikilink")。
 2.  「[明日があるさ Underground 2Step Remix by ajapai](https://ja.wikipedia.org/wiki/明日があるさ_Underground_2Step_Remix_by_ajapai "wikilink")」（2001年7月4日）
       -
         デビューシングルのリミックスシングル。チャートインせず。※[Rhythm REPUBLICより発売](../Page/Rhythm_REPUBLIC.md "wikilink")。
 3.  「[bittersweet samba〜ニッポンの夜明け前〜](../Page/BITTERSWEET_SAMBA.md "wikilink")」（2002年3月13日）
       -
-        おなじみ[ニッポン放送](../Page/ニッポン放送.md "wikilink")系の深夜[ラジオ番組](../Page/ラジオ番組.md "wikilink")「**[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")**」（当時は[@llnightnippon.com コム)](https://ja.wikipedia.org/wiki/@llnightnippon.com "wikilink")(オールナイトニッポン）のテーマソングを歌詞付きでカバー。ニッポン放送の2002年春のキャンペーンソング。
+        おなじみ[ニッポン放送](../Page/ニッポン放送.md "wikilink")系の深夜[ラジオ番組](../Page/ラジオ番組.md "wikilink")「**[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")**」（当時は[@llnightnippon.com コム)](../Page/@llnightnippon.com.md "wikilink")(オールナイトニッポン）のテーマソングを歌詞付きでカバー。ニッポン放送の2002年春のキャンペーンソング。
 
 ### アルバム
 
@@ -74,6 +74,6 @@
 
 ## 関連項目
 
-  - [Laugh\&Peace](https://ja.wikipedia.org/wiki/Laugh&Peace "wikilink")
+  - [Laugh\&Peace](../Page/Laugh&Peace.md "wikilink")
 
 [Category:日本のお笑いグループ](https://ja.wikipedia.org/wiki/Category:日本のお笑いグループ "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:吉本興業ユニット](https://ja.wikipedia.org/wiki/Category:吉本興業ユニット "wikilink") [Category:吉本興業の歴史](https://ja.wikipedia.org/wiki/Category:吉本興業の歴史 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ダウンタウン](https://ja.wikipedia.org/wiki/Category:ダウンタウン "wikilink") [Category:ロンドンブーツ1号2号](https://ja.wikipedia.org/wiki/Category:ロンドンブーツ1号2号 "wikilink") [Category:藤井隆](https://ja.wikipedia.org/wiki/Category:藤井隆 "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink") [Category:2002年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に解散した音楽グループ "wikilink")

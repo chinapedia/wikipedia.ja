@@ -7,7 +7,7 @@
 
 元々は教育市場を対象に開発・販売されていた物を一般市場に投入したため、他のアップル社製コンピュータに比べて安価で、最も低価格な機種が10万円前後で販売されていた\[1\]。[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")が[液晶](../Page/液晶.md "wikilink")とPowerPC G4を搭載した新型となって15万円前後の価格で販売されるようになり、。
 
-教育市場向けには[2002年](../Page/2002年.md "wikilink")4月に発表された。2002年6月からは一般向けにも発売されている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")、[iMac G5 (iSight)の発表とともに販売終了](https://ja.wikipedia.org/wiki/IMac#iMac_G5 "wikilink")。
+教育市場向けには[2002年](../Page/2002年.md "wikilink")4月に発表された。2002年6月からは一般向けにも発売されている。[2005年](../Page/2005年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")、[iMac G5 (iSight)の発表とともに販売終了](https://ja.wikipedia.org/wiki/IMac#iMac_G5 "wikilink")。
 
 ## 歴史
 
@@ -15,7 +15,7 @@
   - 2002年6月8日 - 一般向けにも発売開始\[3\]
   - [2003年](../Page/2003年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink") - eMac (ATI Graphics)発表\[4\]
   - [2004年](../Page/2004年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink") - eMac (USB 2.0)発表\[5\]
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月3日](../Page/5月3日.md "wikilink") - eMac (2005)発表\[6\]
+  - [2005年](../Page/2005年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink") - eMac (2005)発表\[6\]
   - 2005年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - 販売終了
 
 ## 仕様
@@ -28,12 +28,12 @@
   - 700 または 800 MHz [PowerPC G4](../Page/PowerPC_G4.md "wikilink") プロセッサー
   - 100 MHz システムバス
   - 128 または 256 MB [PC100](https://ja.wikipedia.org/wiki/PC100 "wikilink") [SDRAM](https://ja.wikipedia.org/wiki/Dynamic_Random_Access_Memory#SDRAM "wikilink") (最大1 GB SDRAMにアップグレード可能)
-  - [NVIDIA](https://ja.wikipedia.org/wiki/NVIDIA "wikilink") [GeForce2 MX](https://ja.wikipedia.org/wiki/GeForce#GeForce2_MX "wikilink") 3D [AGP](https://ja.wikipedia.org/wiki/AGP "wikilink") 2X グラフィックス
+  - [NVIDIA](../Page/NVIDIA.md "wikilink") [GeForce2 MX](https://ja.wikipedia.org/wiki/GeForce#GeForce2_MX "wikilink") 3D [AGP](https://ja.wikipedia.org/wiki/AGP "wikilink") 2X グラフィックス
   - 17インチフラット [CRT](../Page/ブラウン管.md "wikilink") ディスプレイ
   - 内蔵18ワット・ステレオスピーカー
   - CD-ROM または Combo ドライブ (DVD 読み込み CD 書込)、後のオプションにSuperDriveが含まれる。
   - 40 GB ハードディスクドライブ
-  - [AirMac](https://ja.wikipedia.org/wiki/AirMac "wikilink") Ready
+  - [AirMac](../Page/AirMac.md "wikilink") Ready
   - [Mac OS X v10.1](../Page/Mac_OS_X_v10.1.md "wikilink")
   - 付属するMac OS 9.2.2での起動が可能。
 
@@ -58,7 +58,7 @@
 
   - 1.25 GHz Power PC G4 プロセッサー
   - 167 MHz システムバス
-  - 256 MB PC2700 [DDR SDRAM](https://ja.wikipedia.org/wiki/DDR_SDRAM "wikilink") (最大1GB DDR SDRAMにアップグレード可能)
+  - 256 MB PC2700 [DDR SDRAM](../Page/DDR_SDRAM.md "wikilink") (最大1GB DDR SDRAMにアップグレード可能)
   - ATI Radeon 9200 グラフィックス
   - 17インチフラット CRT ディスプレイ
   - 内蔵16ワット・ステレオスピーカー

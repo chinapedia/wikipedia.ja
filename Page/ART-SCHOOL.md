@@ -3,17 +3,17 @@
 
 **ART-SCHOOL**（アートスクール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[シンガーとして活動していた木下理樹が](../Page/歌手.md "wikilink")[2000年](../Page/2000年.md "wikilink")3月に結成、[2002年](../Page/2002年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")に東芝EMIより「DIVA」でメジャーデビュー。略称は「**アート**」。 現在、[木下理樹](https://ja.wikipedia.org/wiki/木下理樹 "wikilink")が自主レーベル「Warszawa-Label」を立ち上げて活動。レーベル第1弾作品としてART-SCHOOLのライブDVD「ART-SCHOOL LIVE 〜2015.02.13 at STUDIO COAST〜」を2015年5月20日にリリースしている。
+[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[シンガーとして活動していた木下理樹が](../Page/歌手.md "wikilink")[2000年](../Page/2000年.md "wikilink")3月に結成、[2002年](../Page/2002年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")に東芝EMIより「DIVA」でメジャーデビュー。略称は「**アート**」。 現在、[木下理樹](../Page/木下理樹.md "wikilink")が自主レーベル「Warszawa-Label」を立ち上げて活動。レーベル第1弾作品としてART-SCHOOLのライブDVD「ART-SCHOOL LIVE 〜2015.02.13 at STUDIO COAST〜」を2015年5月20日にリリースしている。
 
 ## メンバー
 
-  - **[木下理樹](https://ja.wikipedia.org/wiki/木下理樹 "wikilink")**（きのした りき） - ボーカル、ギター、主な[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink") 担当。
+  - **[木下理樹](../Page/木下理樹.md "wikilink")**（きのした りき） - ボーカル、ギター、主な[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink") 担当。
       - [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（[昭和](../Page/昭和.md "wikilink")53年）[10月14日](../Page/10月14日.md "wikilink")生まれ。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。通称「リッキー」、「きのこ」。
 
 <!-- end list -->
 
   - '''戸高賢史 '''（とだか まさふみ） - ギター担当。
-      - [1982年](../Page/1982年.md "wikilink")（昭和57年）[7月22日](../Page/7月22日.md "wikilink")生まれ。[大分県](../Page/大分県.md "wikilink")[佐伯市](https://ja.wikipedia.org/wiki/佐伯市 "wikilink")出身。[大分県立佐伯鶴城高等学校](https://ja.wikipedia.org/wiki/大分県立佐伯鶴城高等学校 "wikilink")卒業。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。通称「toddy」。
+      - [1982年](../Page/1982年.md "wikilink")（昭和57年）[7月22日](../Page/7月22日.md "wikilink")生まれ。[大分県](../Page/大分県.md "wikilink")[佐伯市](../Page/佐伯市.md "wikilink")出身。[大分県立佐伯鶴城高等学校](../Page/大分県立佐伯鶴城高等学校.md "wikilink")卒業。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。通称「toddy」。
       - [Ropes](https://ja.wikipedia.org/wiki/Ropes "wikilink")でアチコと共に活動。海外バンドのサポートアクトやKaikoo Fesなどにも参加している。
       - [エフェクター](../Page/エフェクター.md "wikilink")製作も手がけ、自身のブランド「Phantom FX」よりペダルをリリースしている。[ギターマガジン](https://ja.wikipedia.org/wiki/ギターマガジン "wikilink")誌で[コラム](https://ja.wikipedia.org/wiki/コラム "wikilink")を連載している。
       - [坂本美雨](https://ja.wikipedia.org/wiki/坂本美雨 "wikilink")や[TK from 凛として時雨など](https://ja.wikipedia.org/wiki/北嶋徹 "wikilink")、サポートワークも多数こなしている。
@@ -39,7 +39,7 @@
 
   - **[日向秀和](https://ja.wikipedia.org/wiki/日向秀和 "wikilink")**（ひなた　ひでかず） - ベース担当。
       - [1976年](../Page/1976年.md "wikilink")（昭和51年）[12月4日](../Page/12月4日.md "wikilink")生まれ、[東京都](../Page/東京都.md "wikilink")[町田市](../Page/町田市.md "wikilink")出身。通称「ひなっち」「町田のヤンキー」。
-      - [2003年](../Page/2003年.md "wikilink")（平成15年）12月に大山と脱退。[ZAZEN BOYS結成に参加](https://ja.wikipedia.org/wiki/ZAZEN_BOYS "wikilink")（後に脱退）。ストレイテナーのサポート（後に正式加入）、[Nothing's Carved In Stoneなど結成](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")。
+      - [2003年](../Page/2003年.md "wikilink")（平成15年）12月に大山と脱退。[ZAZEN BOYS結成に参加](../Page/ZAZEN_BOYS.md "wikilink")（後に脱退）。ストレイテナーのサポート（後に正式加入）、[Nothing's Carved In Stoneなど結成](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")。
       - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）、木下と共に[killing Boyを結成](https://ja.wikipedia.org/wiki/killing_Boy "wikilink")。
 
 <!-- end list -->
@@ -67,7 +67,7 @@
 
 [2003年](../Page/2003年.md "wikilink")末に日向秀和と大山純が脱退。
 
-[2004年](../Page/2004年.md "wikilink")3月、木下がバンドのファンとして交流のあった戸高賢史を誘い、宇野剛史が一般公募したオーディションから選ばれ加入\[3\]\[4\]。同年、2004年からは東芝EMIとの契約が終了し、自主[レーベルで音源を発表していたが](../Page/レコードレーベル.md "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")6月にミニ・アルバム『あと10秒で』を[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売しメジャー再デビュー。10月には3rdアルバム『PARADISE LOST』を発表。
+[2004年](../Page/2004年.md "wikilink")3月、木下がバンドのファンとして交流のあった戸高賢史を誘い、宇野剛史が一般公募したオーディションから選ばれ加入\[3\]\[4\]。同年、2004年からは東芝EMIとの契約が終了し、自主[レーベルで音源を発表していたが](../Page/レコードレーベル.md "wikilink")、[2005年](../Page/2005年.md "wikilink")6月にミニ・アルバム『あと10秒で』を[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売しメジャー再デビュー。10月には3rdアルバム『PARADISE LOST』を発表。
 
 [2009年](../Page/2009年.md "wikilink")4月、櫻井脱退がバンドの公式ホームページで発表される。木下のブログによると、櫻井脱退は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")夏頃から決まっていて、脱退発表までサポートメンバーという形をとっていた\[5\]。
 
@@ -75,7 +75,7 @@
 
 [2011年](../Page/2011年.md "wikilink")末に宇野剛史と鈴木浩之が脱退\[6\]。
 
-[2012年](../Page/2012年.md "wikilink")3月、木下と戸高の新体制の活動を発表し、サポートメンバーとして[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")、[藤田勇](https://ja.wikipedia.org/wiki/藤田勇 "wikilink")（[MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")）、櫻井雄一（ex.ART-SCHOOL）が参加。同年レコーディングのためサポートメンバーの中尾・藤田と渡米。[スティーヴ・アルビニ](../Page/スティーヴ・アルビニ.md "wikilink")が所有するElectrical audio studioにてアルバムを製作。
+[2012年](../Page/2012年.md "wikilink")3月、木下と戸高の新体制の活動を発表し、サポートメンバーとして[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")、[藤田勇](https://ja.wikipedia.org/wiki/藤田勇 "wikilink")（[MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")）、櫻井雄一（ex.ART-SCHOOL）が参加。同年レコーディングのためサポートメンバーの中尾・藤田と渡米。[スティーヴ・アルビニ](../Page/スティーヴ・アルビニ.md "wikilink")が所有するElectrical audio studioにてアルバムを製作。
 
 2012年[5月21日](../Page/5月21日.md "wikilink")、[渋谷CLUB QUATTROにて行われ](https://ja.wikipedia.org/wiki/渋谷CLUB_QUATTRO "wikilink")、新体制後初のライブとなったフリーライブ「DAY OF THE DEAD」の中で、[キューンミュージック](../Page/キューンミュージック.md "wikilink")へのレーベル移籍と、夏にアルバムをリリースすることを発表\[7\]。
 
@@ -143,7 +143,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a>80位</p></td>
+<td><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a>80位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -331,7 +331,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong>SONIC DEAD KIDS</strong></p></td>
 <td><p>123R-1</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -420,7 +420,7 @@
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
 <td><p><strong>LOST IN THE AIR</strong></p></td>
 <td><p>VAR-002</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -441,7 +441,7 @@
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p><strong>あと10秒で</strong></p></td>
 <td><p>PCCA-02140</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -590,7 +590,7 @@ TOCT-25229:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月19日.md" title="wikilink">10月19日</a></p></td>
 <td><p><strong><a href="../Page/PARADISE_LOST_(アルバム).md" title="wikilink">PARADISE LOST</a></strong></p></td>
 <td><p>PCCA-02183</p></td>
 <td><p>初回限定盤のみBonus Disc付、オリコン53位</p></td>
@@ -851,7 +851,7 @@ PCCA-02314:通常盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
 <td><p><strong>sleep flowers</strong></p></td>
 <td><p>PCBP-51590</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -1140,10 +1140,10 @@ PCCA-02314:通常盤</p></td>
         w/[髭](../Page/HiGE.md "wikilink")/[ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")/[The Mirraz](https://ja.wikipedia.org/wiki/The_Mirraz "wikilink")/[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")
   - 2012年9月1日-11月16日（26公演） - ART-SCHOOL「BABY ACID BABY」TOUR 2012
       -
-        w/[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")/[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")/[andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")/[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")/[the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")/[磯部正文](https://ja.wikipedia.org/wiki/磯部正文 "wikilink")&[平林一哉](https://ja.wikipedia.org/wiki/平林一哉 "wikilink")/The Mirraz/[LOSTAGE](../Page/LOSTAGE.md "wikilink")/[plenty](https://ja.wikipedia.org/wiki/plenty "wikilink")/[0.8秒と衝撃。](https://ja.wikipedia.org/wiki/0.8秒と衝撃。 "wikilink")/[アヒト・イナザワ](https://ja.wikipedia.org/wiki/アヒト・イナザワ "wikilink")/[ACO](../Page/ACO.md "wikilink")/[People In The Box](https://ja.wikipedia.org/wiki/People_In_The_Box "wikilink")/[MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")/[透明雑誌](https://ja.wikipedia.org/wiki/透明雑誌 "wikilink")
+        w/[THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink")/[POLYSICS](../Page/POLYSICS.md "wikilink")/[andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")/[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")/[the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")/[磯部正文](https://ja.wikipedia.org/wiki/磯部正文 "wikilink")&[平林一哉](https://ja.wikipedia.org/wiki/平林一哉 "wikilink")/The Mirraz/[LOSTAGE](../Page/LOSTAGE.md "wikilink")/[plenty](https://ja.wikipedia.org/wiki/plenty "wikilink")/[0.8秒と衝撃。](https://ja.wikipedia.org/wiki/0.8秒と衝撃。 "wikilink")/[アヒト・イナザワ](../Page/アヒト・イナザワ.md "wikilink")/[ACO](../Page/ACO.md "wikilink")/[People In The Box](https://ja.wikipedia.org/wiki/People_In_The_Box "wikilink")/[MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")/[透明雑誌](https://ja.wikipedia.org/wiki/透明雑誌 "wikilink")
   - 2013年3月23日-24日 - ART-SCHOOL presents KINOSHITA NIGHT 2013
       -
-        w/[tricot](https://ja.wikipedia.org/wiki/tricot "wikilink")/[THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")/[細美武士](../Page/細美武士.md "wikilink")/[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")/0.8秒と衝撃。
+        w/[tricot](https://ja.wikipedia.org/wiki/tricot "wikilink")/[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")/[細美武士](../Page/細美武士.md "wikilink")/[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")/0.8秒と衝撃。
   - 2013年5月9日-17日（3公演） - ART-SCHOOL SHORT CIRCUIT TOUR 『The Alchemist』
       -
         w/[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")/[藤田勇](https://ja.wikipedia.org/wiki/藤田勇 "wikilink")
@@ -1218,7 +1218,7 @@ PCCA-02314:通常盤</p></td>
   - 2013年2月2日 - BAYCAMP 201302
   - 2013年3月9日 - NO NUKES 2013
   - 2013年6月5日、7日、8日 - [THE NOVEMBERS](https://ja.wikipedia.org/wiki/THE_NOVEMBERS "wikilink") "GIFT" and "Fourth wall" Release Tour "I'll Be Your Mirror"
-  - 2013年7月17日 - [メレンゲ](https://ja.wikipedia.org/wiki/メレンゲ_\(バンド\) "wikilink") Space Frontier Foundation Tour
+  - 2013年7月17日 - [メレンゲ](../Page/メレンゲ_\(バンド\).md "wikilink") Space Frontier Foundation Tour
   - 2013年9月29日 - JAPAN CIRCUIT vol.52 WEST 〜山崎死闘編〜
   - 2013年11月26日 - WWW 3rd Anniversary 環ROY presents 「ラッキー vol.2」
   - 2013年12月12日 - STUDIO COAST クリスマスライブ

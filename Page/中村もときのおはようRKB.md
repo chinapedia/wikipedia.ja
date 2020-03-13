@@ -13,8 +13,8 @@
 
   - [中村基樹](../Page/中村基樹.md "wikilink")
   - [林田スマ](../Page/林田スマ.md "wikilink")
-  - [古賀和子](https://ja.wikipedia.org/wiki/古賀和子 "wikilink")
-  - [安田瑞代](https://ja.wikipedia.org/wiki/安田瑞代 "wikilink")
+  - [古賀和子](../Page/古賀和子.md "wikilink")
+  - [安田瑞代](../Page/安田瑞代.md "wikilink")
 
 ## 主な番組進行内容（平成元年7月時点）
 
@@ -27,12 +27,12 @@
   - 7:35 今日の数字（日産プリンス福岡販売）
   - 7:40 モーニングレーダー（[サニクリーン](https://ja.wikipedia.org/wiki/サニクリーン "wikilink")、[クボタハウス](https://ja.wikipedia.org/wiki/クボタハウス "wikilink")、[トーホーコーエイ](https://ja.wikipedia.org/wiki/トーホーコーエイ "wikilink")）
   - 7:50 交通情報（紳士服の[フタタ](../Page/フタタ.md "wikilink")、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")オート）
-  - 8:00 [日本全国8時です](https://ja.wikipedia.org/wiki/話題のアンテナ_日本全国8時です "wikilink")（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、トヨタディーラー）
+  - 8:00 [日本全国8時です](../Page/話題のアンテナ_日本全国8時です.md "wikilink")（[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")、トヨタディーラー）
   - 8:14 天気予報、ヘッドラインNOW
   - 8:15 日産グリーンタイム（[日産自動車](../Page/日産自動車.md "wikilink")グループ）、交通情報
   - 8:35 旅はおおらか（[全日空](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")）
   - 8:42 原田佳子のワンポイントゴルフ（スポーツロード）
-  - 8:50 天気予報、交通情報（[新出光](https://ja.wikipedia.org/wiki/新出光 "wikilink")、[ウベハウス](../Page/ウベハウス.md "wikilink")、[ニッポンレンタカー](../Page/ニッポンレンタカー.md "wikilink")）
+  - 8:50 天気予報、交通情報（[新出光](../Page/新出光.md "wikilink")、[ウベハウス](../Page/ウベハウス.md "wikilink")、[ニッポンレンタカー](../Page/ニッポンレンタカー.md "wikilink")）
   - 8:57 レースガイド
 
 [Category:RKB毎日放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:RKB毎日放送のラジオ帯番組 "wikilink") [Category:ローカルラジオ局の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の情報・ワイドショー番組 "wikilink")

@@ -9,9 +9,9 @@
 
 元[プロ野球](../Page/プロ野球.md "wikilink")選手で[タレント](../Page/タレント.md "wikilink")・[野球評論家](../Page/野球評論家.md "wikilink")の[板東英二](../Page/板東英二.md "wikilink")が、世の中の問題からスポーツの話題まで、生放送ならではのトークで番組を盛り上げる。
 
-番組の名物コーナー**「おばあちゃんと話そう」**は、おばあちゃんの家族が、おばあちゃんに知らせないうちに番組に応募し、採用されるのを電話が掛かるまでおばあちゃんには知らされないというコーナー。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月14日](../Page/1月14日.md "wikilink")放送分で、「[振り込め詐欺](https://ja.wikipedia.org/wiki/振り込め詐欺 "wikilink")」と間違えられ番組を訴えられるというハプニングが起こった。
+番組の名物コーナー**「おばあちゃんと話そう」**は、おばあちゃんの家族が、おばあちゃんに知らせないうちに番組に応募し、採用されるのを電話が掛かるまでおばあちゃんには知らされないというコーナー。[2005年](../Page/2005年.md "wikilink")[1月14日](../Page/1月14日.md "wikilink")放送分で、「[振り込め詐欺](https://ja.wikipedia.org/wiki/振り込め詐欺 "wikilink")」と間違えられ番組を訴えられるというハプニングが起こった。
 
-2005年[3月18日](../Page/3月18日.md "wikilink")放送分まで金曜日の14:00～15:37の放送だったが、これまで月～木曜の放送だった「[こんちわコンちゃんお昼ですよ\!](https://ja.wikipedia.org/wiki/こんちわコンちゃんお昼ですよ! "wikilink")」が同年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から金曜日にも放送されることになった為、15:45～17:15に放送時間が移動した。
+2005年[3月18日](../Page/3月18日.md "wikilink")放送分まで金曜日の14:00～15:37の放送だったが、これまで月～木曜の放送だった「[こんちわコンちゃんお昼ですよ\!](https://ja.wikipedia.org/wiki/こんちわコンちゃんお昼ですよ! "wikilink")」が同年[4月8日](../Page/4月8日.md "wikilink")から金曜日にも放送されることになった為、15:45～17:15に放送時間が移動した。
 
 尚、当番組内で**「[JRN NEWS ネットワークトゥディ](https://ja.wikipedia.org/wiki/ネットワークTODAY "wikilink")」**が放送されているが、MBS自社制作バージョンである(担当はMBSアナウンサー)。
 
@@ -22,7 +22,7 @@
   - [板東英二](../Page/板東英二.md "wikilink")
   - [沢田尚子](https://ja.wikipedia.org/wiki/沢田尚子 "wikilink")
   - [リリアン](../Page/リリアン_\(タレント\).md "wikilink")
-  - [石田英司](https://ja.wikipedia.org/wiki/石田英司 "wikilink")（MBS元報道局社会部デスク）（金曜日・録音）
+  - [石田英司](../Page/石田英司.md "wikilink")（MBS元報道局社会部デスク）（金曜日・録音）
   - 「ここだけタイガース情報」にMBS[プロ野球解説者](https://ja.wikipedia.org/wiki/プロ野球解説者 "wikilink")が出演する。
 
 ## 主なコーナー

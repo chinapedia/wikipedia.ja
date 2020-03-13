@@ -7,9 +7,9 @@
 
 ### プロジェクトの概要
 
-[那須高原](../Page/那須高原.md "wikilink")の魅力は[那須五峰](http://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/shizen1_04.html)（[茶臼岳](http://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/shizen1_04.html)、[朝日岳](https://ja.wikipedia.org/wiki/朝日岳_\(栃木県\) "wikilink")、[三本槍岳](https://ja.wikipedia.org/wiki/三本槍岳 "wikilink")、南月山、黒尾谷岳）の雄大な景色と春の[つつじ](https://ja.wikipedia.org/wiki/つつじ "wikilink")、爽涼の夏と澄んだ空気、秋の[紅葉](https://ja.wikipedia.org/wiki/紅葉 "wikilink")と点在する[温泉](../Page/温泉.md "wikilink")と多彩である。そんな中、1960年代に入ると那須高原は[首都圏](../Page/首都圏.md "wikilink")に近いこともあり、一体は[別荘](https://ja.wikipedia.org/wiki/別荘 "wikilink")地の造成、分譲が盛んに行われるようになっていった。
+[那須高原](../Page/那須高原.md "wikilink")の魅力は[那須五峰](http://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/shizen1_04.html)（[茶臼岳](http://www.pref.tochigi.lg.jp/c05/intro/tochigiken/hakken/shizen1_04.html)、[朝日岳](https://ja.wikipedia.org/wiki/朝日岳_\(栃木県\) "wikilink")、[三本槍岳](../Page/三本槍岳.md "wikilink")、南月山、黒尾谷岳）の雄大な景色と春の[つつじ](https://ja.wikipedia.org/wiki/つつじ "wikilink")、爽涼の夏と澄んだ空気、秋の[紅葉](../Page/紅葉.md "wikilink")と点在する[温泉](../Page/温泉.md "wikilink")と多彩である。そんな中、1960年代に入ると那須高原は[首都圏](../Page/首都圏.md "wikilink")に近いこともあり、一体は[別荘](../Page/別荘.md "wikilink")地の造成、分譲が盛んに行われるようになっていった。
 
-その頃、[那須町](../Page/那須町.md "wikilink")高久地区で、[御用邸](https://ja.wikipedia.org/wiki/御用邸 "wikilink")の隣接地から流れ出る低温の[湧き水](https://ja.wikipedia.org/wiki/湧き水 "wikilink")を塞き止めて温水溜池を作り、[灌漑](https://ja.wikipedia.org/wiki/灌漑 "wikilink")用に使うという工事が完成しようとしていた。農業改善事業の一環として作られるものであったが、その溜池の湖面使用を江戸川用水土地改良区が認めることとなり開発がスタートする。
+その頃、[那須町](../Page/那須町.md "wikilink")高久地区で、[御用邸](../Page/御用邸.md "wikilink")の隣接地から流れ出る低温の[湧き水](https://ja.wikipedia.org/wiki/湧き水 "wikilink")を塞き止めて温水溜池を作り、[灌漑](../Page/灌漑.md "wikilink")用に使うという工事が完成しようとしていた。農業改善事業の一環として作られるものであったが、その溜池の湖面使用を江戸川用水土地改良区が認めることとなり開発がスタートする。
 
 那須は雄大な展望を誇る観光地であったが、[日光](../Page/日光.md "wikilink")や[箱根](../Page/箱根.md "wikilink")のような水の風景がなかった。小さいながらも那須においても水の風景があれば、観光客の目を楽しませるに違いないと考えた[日本ビューホテル](../Page/日本ビューホテル.md "wikilink")株式会社の創業者である箭内源典氏は、湖だけでなく那須高原らしい風景として「[牧場](../Page/牧場.md "wikilink")」を併設することとした。1965年6月に開園。
 
@@ -26,11 +26,11 @@
   - 1970年 - るるく陶芸教室オープン、クマ牧場誕生
   - 1971年10月 - 全日本[かかし](../Page/かかし.md "wikilink")コンクール開催（～2010年終了）
   - 1973年7月 -　レストラン「レイクビュー」オープン
-  - 1981年4月 -　レストラン「バンブースティック」オープン、ミルクプラント、[牧場](../Page/牧場.md "wikilink")、ゲート、野外ステージ新設、[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")キャラクター誕生（まきばくん、みどりちゃん）
+  - 1981年4月 -　レストラン「バンブースティック」オープン、ミルクプラント、[牧場](../Page/牧場.md "wikilink")、ゲート、野外ステージ新設、[マスコット](../Page/マスコット.md "wikilink")キャラクター誕生（まきばくん、みどりちゃん）
 
 <!-- end list -->
 
-  - 1982年4月 - りんどう湖ギャラリーオープン（現在の時計台1階に19世紀ヨーロッパ絵画の巨匠ミレー、[コロー](../Page/ジャン＝バティスト・カミーユ・コロー.md "wikilink")、[クールベなど](../Page/ギュスターヴ・クールベ.md "wikilink")[バルビゾン派](https://ja.wikipedia.org/wiki/バルビゾン派 "wikilink")の作品が展示された。
+  - 1982年4月 - りんどう湖ギャラリーオープン（現在の時計台1階に19世紀ヨーロッパ絵画の巨匠ミレー、[コロー](../Page/ジャン＝バティスト・カミーユ・コロー.md "wikilink")、[クールベなど](../Page/ギュスターヴ・クールベ.md "wikilink")[バルビゾン派](../Page/バルビゾン派.md "wikilink")の作品が展示された。
   - 1983年 - スイス音楽使節団招聘（～2010年終了）
   - 1984年 - [バター](../Page/バター.md "wikilink")製造開始
   - 1985年 - [ナチュラルチーズ製造開始](../Page/チーズ.md "wikilink")
@@ -40,13 +40,13 @@
   - 1991年3月 -　「レイクビュー売店」新装オープン。「りんどう湖ギャラリー」移設。
   - 1993年8月 -　第1回[花火](../Page/花火.md "wikilink")大会開催（現在も継続中）
   - 2000年10月 -　[和太鼓](../Page/和太鼓.md "wikilink")フェスティバル開催（～2018年終了）
-  - 2006年10月 -　どでかぼちゃ祭り開催（巨大な実をつける[かぼちゃ](../Page/カボチャ.md "wikilink")「[アトランティックジャイアント](https://ja.wikipedia.org/wiki/アトランティックジャイアント "wikilink")」を展示する。大きさを競うコンテストや[ハロウィン](https://ja.wikipedia.org/wiki/ハロウィン "wikilink")には[ジャック・オ・ランタン作りもできる](../Page/ジャック・オー・ランタン.md "wikilink")。）
+  - 2006年10月 -　どでかぼちゃ祭り開催（巨大な実をつける[かぼちゃ](../Page/カボチャ.md "wikilink")「[アトランティックジャイアント](https://ja.wikipedia.org/wiki/アトランティックジャイアント "wikilink")」を展示する。大きさを競うコンテストや[ハロウィン](../Page/ハロウィン.md "wikilink")には[ジャック・オ・ランタン作りもできる](../Page/ジャック・オー・ランタン.md "wikilink")。）
   - 2008年12月 -　[いちご園オープン](../Page/イチゴ.md "wikilink")
   - 2010年7月 - [ジップライン](https://ja.wikipedia.org/wiki/ジップライン "wikilink")「KAKKU」（カックー）オープン
   - 2014年4月 - 設立50周年を記念し施設名を「りんどう湖ファミリー牧場」から『那須りんどう湖レイクビュー』に改名
   - 2015年7月 -　りんどう湖レイクビュー公認[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")「Prism Bell」（プリズムベル）デビュー（2019年7月に全員卒業、休止中）
   - 2016年7月 -　「那須の恵みMekke\!」ブッフェ＆マルシェがオープン。
-  - 2018年4月 -　ピンキーダック誕生（高さ20mの巨大なアヒル）、エアホイール（Airwheel）、ファミリー自転車（6人乗り、大人4名、幼児2名用）、[忍者](../Page/忍者.md "wikilink")体験の出来るアスレチック「[忍者](../Page/忍者.md "wikilink")の里」、スポーツチャレンジ（フリースローバスケ、キックターゲット、ロングパットゴルフ）、[VR](https://ja.wikipedia.org/wiki/VR "wikilink")ドリームマッチベースボール（VRで165キロの剛速球にチャレンジ）と新コンテンツを続々追加した。
+  - 2018年4月 -　ピンキーダック誕生（高さ20mの巨大なアヒル）、エアホイール（Airwheel）、ファミリー自転車（6人乗り、大人4名、幼児2名用）、[忍者](../Page/忍者.md "wikilink")体験の出来るアスレチック「[忍者](../Page/忍者.md "wikilink")の里」、スポーツチャレンジ（フリースローバスケ、キックターゲット、ロングパットゴルフ）、[VR](../Page/VR.md "wikilink")ドリームマッチベースボール（VRで165キロの剛速球にチャレンジ）と新コンテンツを続々追加した。
   - 2018年10月 -　VRドリームマッチベースボール終了
   - 2018年11月 -　ふわふわランドオープン（ふわふわ遊具4台を設置した[全天候型](https://ja.wikipedia.org/wiki/全天候型 "wikilink")遊戯施設）
   - 2019年3月 - アスレチック「忍者の里」に新[アトラクション](https://ja.wikipedia.org/wiki/アトラクション_\(遊園地\) "wikilink")「蟻地獄脱出」が誕生
@@ -56,17 +56,17 @@
 
 ## 施設情報
 
-[りんどう湖](../Page/りんどう湖.md "wikilink")（[人造湖](../Page/人造湖.md "wikilink")）に隣接しており、[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")乗りや[遊覧船](../Page/遊覧船.md "wikilink")のほか、[ゴーカート](https://ja.wikipedia.org/wiki/ゴーカート "wikilink")や[メリーゴーランド](https://ja.wikipedia.org/wiki/メリーゴーランド "wikilink")などの遊具、[ロードトレイン](https://ja.wikipedia.org/wiki/ロードトレイン "wikilink")や[転車台](../Page/転車台.md "wikilink")、[ラック式勾配区間を備えたミニ](https://ja.wikipedia.org/wiki/ラック式鉄道 "wikilink")[鉄道](../Page/鉄道.md "wikilink")などの乗り物、動物ふれあい広場などがある。夏には[花火](../Page/花火.md "wikilink")が打ち上げられる。
+[りんどう湖](../Page/りんどう湖.md "wikilink")（[人造湖](../Page/人造湖.md "wikilink")）に隣接しており、[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")乗りや[遊覧船](../Page/遊覧船.md "wikilink")のほか、[ゴーカート](https://ja.wikipedia.org/wiki/ゴーカート "wikilink")や[メリーゴーランド](https://ja.wikipedia.org/wiki/メリーゴーランド "wikilink")などの遊具、[ロードトレイン](https://ja.wikipedia.org/wiki/ロードトレイン "wikilink")や[転車台](../Page/転車台.md "wikilink")、[ラック式勾配区間を備えたミニ](../Page/ラック式鉄道.md "wikilink")[鉄道](../Page/鉄道.md "wikilink")などの乗り物、動物ふれあい広場などがある。夏には[花火](../Page/花火.md "wikilink")が打ち上げられる。
 
 ### アトラクション
 
   - [ジップライン](https://ja.wikipedia.org/wiki/ジップライン "wikilink")（りんどう湖上をワイヤーで滑空する「ジップライン～KAKKU～」。片道220mは日本最長クラス、湖上滑空は世界初！　ハーネスとヘルメットを装着し、両手で滑車のハンドルを握って湖の上を滑空する。）
-  - [ゴーカート](https://ja.wikipedia.org/wiki/レーシングカート "wikilink")（1人乗り用・2人乗り用の全2種類がある。）
+  - [ゴーカート](../Page/レーシングカート.md "wikilink")（1人乗り用・2人乗り用の全2種類がある。）
   - ウルトラ[バギー](../Page/バギーカー.md "wikilink")（1人乗りがある。）
   - エアホイール（航空機の姿勢制御理論を採用した電動二輪車）
   - ファミリー自転車（大人4名、幼児2名が乗車可能。大人席のみペダルがある。）
   - フロッグホッパー（蛙をモチーフとした遊具。大人2人、子供4人が乗れる。）
-  - [メリーゴーランド](https://ja.wikipedia.org/wiki/メリーゴーラウンド "wikilink")（座席は馬を中心に、ネコ・ダチョウ・シマウマなどがある。）
+  - [メリーゴーランド](../Page/メリーゴーラウンド.md "wikilink")（座席は馬を中心に、ネコ・ダチョウ・シマウマなどがある。）
   - ジュニアサーキット（子どもを対象としたレール式の乗物。）
   - ペダル[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")（スワン型、テントウムシ型、ヘリコプター型、カブトムシ型の足こぎボート。）
   - [アーチェリー](../Page/アーチェリー.md "wikilink")
@@ -75,11 +75,11 @@
 
 <!-- end list -->
 
-  - [忍者](../Page/忍者.md "wikilink")の里（2018年4月より「目指せ！征服王」から変更。巨大[ジャングルジム](https://ja.wikipedia.org/wiki/ジャングルジム "wikilink")、イカダ渡り、一本橋、[ボルダリング](https://ja.wikipedia.org/wiki/ボルダリング "wikilink")などで[忍者](../Page/忍者.md "wikilink")[修行](../Page/修行.md "wikilink")を楽しむアスレチック。2019年3月にリニューアルした）
+  - [忍者](../Page/忍者.md "wikilink")の里（2018年4月より「目指せ！征服王」から変更。巨大[ジャングルジム](../Page/ジャングルジム.md "wikilink")、イカダ渡り、一本橋、[ボルダリング](../Page/ボルダリング.md "wikilink")などで[忍者](../Page/忍者.md "wikilink")[修行](../Page/修行.md "wikilink")を楽しむアスレチック。2019年3月にリニューアルした）
   - [遊覧船](../Page/遊覧船.md "wikilink")（正面ゲート・ホルンの森間を往復運航している。）
   - ロードトレイン（園内を周遊する乗物。座席はレインボーカラーになっている。）
   - [機関車トーマス](https://ja.wikipedia.org/wiki/機関車トーマス_\(架空のキャラクター\) "wikilink")（きかんしゃトーマスとなかまたちのミニSL遊具。ちびっこ広場にある。）
-  - [迷路](../Page/迷路.md "wikilink")（迷路内に[スタンプがあり](https://ja.wikipedia.org/wiki/スタンプラリー "wikilink")、スタンプを探しながらゴールを目指す。ちびっこ広場にある。）
+  - [迷路](../Page/迷路.md "wikilink")（迷路内に[スタンプがあり](../Page/スタンプラリー.md "wikilink")、スタンプを探しながらゴールを目指す。ちびっこ広場にある。）
   - キッズジャンボスライダー（オープンタイプのエア遊具。ちびっこ広場にある。）
   - バンジートランポリン（土日祝日、[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")、夏休みのみ）
   - ふわふわランド（4種類のふわふわ遊具がある、[全天候型](https://ja.wikipedia.org/wiki/全天候型 "wikilink")の遊戯施設である。）
@@ -88,11 +88,11 @@
 
   - VRドリームマッチ（2018年10月31日終了）
   - スポーツチャレンジ（[フリースロー](../Page/フリースロー.md "wikilink")バスケ、キックターゲット、ロングパットゴルフの3種類があった）
-  - [スイス鉄道](../Page/スイスの鉄道.md "wikilink")（ラックとピニオンギアを使用した本格的な[ラック式鉄道](https://ja.wikipedia.org/wiki/ラック式鉄道 "wikilink")、軌間762ミリ、距離約700メートル、湖畔駅からホルンの森駅を経由し牧場駅で転車台でUターンをする路線\[2\]）（2019年のラストランをもって運行終了、車両は展示されている）
+  - [スイス鉄道](../Page/スイスの鉄道.md "wikilink")（ラックとピニオンギアを使用した本格的な[ラック式鉄道](../Page/ラック式鉄道.md "wikilink")、軌間762ミリ、距離約700メートル、湖畔駅からホルンの森駅を経由し牧場駅で転車台でUターンをする路線\[2\]）（2019年のラストランをもって運行終了、車両は展示されている）
 
 ### 牧場
 
-飼育動物 [ジャージー牛](https://ja.wikipedia.org/wiki/ジャージー種 "wikilink")、[アルパカ](https://ja.wikipedia.org/wiki/アルパカ "wikilink")、[ウマ](../Page/ウマ.md "wikilink")、[ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")、[ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")、[カピバラ](https://ja.wikipedia.org/wiki/カピバラ "wikilink")、[イヌ](../Page/イヌ.md "wikilink")、[ウサギ](../Page/ウサギ.md "wikilink")、[モルモット](../Page/モルモット.md "wikilink")、[アヒル](../Page/アヒル.md "wikilink")、[ハクチョウ](../Page/ハクチョウ.md "wikilink")、[コイ](https://ja.wikipedia.org/wiki/コイ "wikilink")
+飼育動物 [ジャージー牛](../Page/ジャージー種.md "wikilink")、[アルパカ](../Page/アルパカ.md "wikilink")、[ウマ](../Page/ウマ.md "wikilink")、[ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")、[ヒツジ](https://ja.wikipedia.org/wiki/ヒツジ "wikilink")、[カピバラ](../Page/カピバラ.md "wikilink")、[イヌ](../Page/イヌ.md "wikilink")、[ウサギ](../Page/ウサギ.md "wikilink")、[モルモット](../Page/モルモット.md "wikilink")、[アヒル](../Page/アヒル.md "wikilink")、[ハクチョウ](../Page/ハクチョウ.md "wikilink")、[コイ](https://ja.wikipedia.org/wiki/コイ "wikilink")
 
 那須りんどう湖レイクビューの5頭のアルパカは株式会社[山古志アルパカ村ゆかりである](https://ja.wikipedia.org/wiki/山古志村 "wikilink")。2018年8月16日[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")の夕刊に旧・[山古志村](https://ja.wikipedia.org/wiki/山古志村 "wikilink")（現・[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")）のアルパカとのつながりの記事が掲載された。
 
@@ -101,7 +101,7 @@
   - ミルクあげ体験（哺乳器を使用してジャージー牛の子牛にミルクを与える体験ができる。）
   - ジャージー牛の[乳搾り](https://ja.wikipedia.org/wiki/乳搾り "wikilink")体験（手作業の搾乳を体験できる。）
   - ちびっこ牧場
-  - [乗馬](../Page/乗馬.md "wikilink")（乗馬体験）＆ちびっこ乗馬（引き馬での乗馬体験ができる。3才～7才を対象としたちびっこ乗馬は[ポニー](https://ja.wikipedia.org/wiki/ポニー "wikilink")である。）
+  - [乗馬](../Page/乗馬.md "wikilink")（乗馬体験）＆ちびっこ乗馬（引き馬での乗馬体験ができる。3才～7才を対象としたちびっこ乗馬は[ポニー](../Page/ポニー.md "wikilink")である。）
   - おさんぽメ～めー（ヒツジやヤギと散歩ができる。時期により選べる種類が異なる。）
   - おさんぽわんわん（犬と散歩ができる。）
   - アニマル[パレード](../Page/パレード.md "wikilink")（毎日14時30分から開催。園内約1キロを牧場の動物がパレードするイベント。ラストにはアヒルのパレードが行われる。）
@@ -123,7 +123,7 @@
 
 　砂やパーツを組みあわせてオジリナルのキャンドル作りが楽しめる。
 
-  - [オルゴール](https://ja.wikipedia.org/wiki/オルゴール "wikilink")作り
+  - [オルゴール](../Page/オルゴール.md "wikilink")作り
 
 　お気に入りの台座やパーツを組み合わせて、オリジナルのオルゴールを作る事が出来る。
 
@@ -142,7 +142,7 @@
 
 ### レストラン
 
-  - 那須の恵みMekke！ (りんどう湖畔に佇む[レストラン](../Page/レストラン.md "wikilink"))“那須の恵みメッケ”ランチタイムは、家族全員で楽しめる[ビュッフェ](https://ja.wikipedia.org/wiki/ビュッフェ "wikilink")レストラン！ 栃木県の新鮮な食材をふんだんに使った[地産地消](https://ja.wikipedia.org/wiki/地産地消 "wikilink")のビュッフェメニュー。ディナータイムは、[薪](../Page/薪.md "wikilink")グリルでじっくり焼く[ステーキ](../Page/ステーキ.md "wikilink")と[食べ放題](../Page/食べ放題.md "wikilink")メニューをお楽しみ頂ける[ステーキハウス](https://ja.wikipedia.org/wiki/ステーキハウス "wikilink")。「那須りんどう湖レイクビュー」に併設。 ※[テーマパーク](../Page/テーマパーク.md "wikilink")の入園料金はかからず利用できる。[駐車場](../Page/駐車場.md "wikilink")は[無料](https://ja.wikipedia.org/wiki/無料 "wikilink")で利用できる。施設の外観・内観は[船](https://ja.wikipedia.org/wiki/船 "wikilink")がモチーフ。富士の溶岩石を使用した武蔵[窯](https://ja.wikipedia.org/wiki/窯 "wikilink")、薪窯などがある。
+  - 那須の恵みMekke！ (りんどう湖畔に佇む[レストラン](../Page/レストラン.md "wikilink"))“那須の恵みメッケ”ランチタイムは、家族全員で楽しめる[ビュッフェ](https://ja.wikipedia.org/wiki/ビュッフェ "wikilink")レストラン！ 栃木県の新鮮な食材をふんだんに使った[地産地消](../Page/地産地消.md "wikilink")のビュッフェメニュー。ディナータイムは、[薪](../Page/薪.md "wikilink")グリルでじっくり焼く[ステーキ](../Page/ステーキ.md "wikilink")と[食べ放題](../Page/食べ放題.md "wikilink")メニューをお楽しみ頂ける[ステーキハウス](https://ja.wikipedia.org/wiki/ステーキハウス "wikilink")。「那須りんどう湖レイクビュー」に併設。 ※[テーマパーク](../Page/テーマパーク.md "wikilink")の入園料金はかからず利用できる。[駐車場](../Page/駐車場.md "wikilink")は[無料](../Page/無料.md "wikilink")で利用できる。施設の外観・内観は[船](https://ja.wikipedia.org/wiki/船 "wikilink")がモチーフ。富士の溶岩石を使用した武蔵[窯](https://ja.wikipedia.org/wiki/窯 "wikilink")、薪窯などがある。
 
 <!-- end list -->
 
@@ -150,20 +150,20 @@
 
 <!-- end list -->
 
-  - 湖畔のフードガーデン （りんどう湖沿いに建っている園内のレストラン）。[チャーシュー](https://ja.wikipedia.org/wiki/チャーシュー "wikilink")を使用したメニューと[バーベキュー](https://ja.wikipedia.org/wiki/バーベキュー "wikilink")が食べられる。
+  - 湖畔のフードガーデン （りんどう湖沿いに建っている園内のレストラン）。[チャーシュー](../Page/チャーシュー.md "wikilink")を使用したメニューと[バーベキュー](../Page/バーベキュー.md "wikilink")が食べられる。
 
 <!-- end list -->
 
   - 学生レストラン(※過去、期間限定コラボレーションイベント)
 
-レストラン　ラ・スイスにて2018年8月3日～19日までの期間限定で国際テクニカル調理製菓専門学校とのコラボがあった。“那須高原産の食材”や那須りんどう湖レイクビューで飼育した[ジャージー牛から搾った自家製ジャージー](https://ja.wikipedia.org/wiki/ジャージー種 "wikilink")[牛乳](../Page/牛乳.md "wikilink")を使用したオリジナルメニューを提供した。デザートには、国際テクニカル調理製菓専門学校オリジナルのTBC[プリンも登場した](https://ja.wikipedia.org/wiki/カスタードプディング "wikilink")。
+レストラン　ラ・スイスにて2018年8月3日～19日までの期間限定で国際テクニカル調理製菓専門学校とのコラボがあった。“那須高原産の食材”や那須りんどう湖レイクビューで飼育した[ジャージー牛から搾った自家製ジャージー](../Page/ジャージー種.md "wikilink")[牛乳](../Page/牛乳.md "wikilink")を使用したオリジナルメニューを提供した。デザートには、国際テクニカル調理製菓専門学校オリジナルのTBC[プリンも登場した](../Page/カスタードプディング.md "wikilink")。
 
 ### テイクアウト
 
   - みどりちゃんのジャージーミルク館　（湖畔のフードガーデン隣に建っている。りんどう湖のマスコットキャラクター「みどりちゃん」とジャージー牛、ミルク缶の像がある。チーズフォンデュドッグは3種類の[チーズ](../Page/チーズ.md "wikilink")を[白ワイン](../Page/白ワイン.md "wikilink")でブレンドしたフォンデュソースを使用した[ホットドッグ](../Page/ホットドッグ.md "wikilink")である。ぱんこーんはコロネ状のパンにクラウディクリームが乗ったスイーツである。）
   - まきばくんのパクパク屋　（メリーゴーランド付近に建っている。まきば君の像がある）
   - ラビちゃんのヌードル屋　（ゴーカート付近に建っている。[ラーメン](https://ja.wikipedia.org/wiki/ラーメン "wikilink")やうどんなどが食べられる）
-  - カフェヨーデル　（時計台付近に建っている。[クレープ](https://ja.wikipedia.org/wiki/クレープ "wikilink")や[シュークリーム](https://ja.wikipedia.org/wiki/シュークリーム "wikilink")などが食べられる）
+  - カフェヨーデル　（時計台付近に建っている。[クレープ](../Page/クレープ.md "wikilink")や[シュークリーム](../Page/シュークリーム.md "wikilink")などが食べられる）
   - 那須の恵みMekke！　[ピザ](../Page/ピザ.md "wikilink")屋　（窯焼ピザや[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[ソーセージ](../Page/ソーセージ.md "wikilink")「[ヴルスト](https://ja.wikipedia.org/wiki/ヴルスト "wikilink")」が食べられる）
 
 ### 売店
@@ -183,7 +183,7 @@
   - 影パカ（足跡の上に立って撮影すると影がアルパカのように見える絵）
   - メインウォールアート（レインボーや吹き出しに合わせて写真が撮れるウォールアート。）
   - だれでも羽ウォールアート（妖精、天使、ドラゴン、蜂の羽が生えたような写真が撮れるウォールアート。）
-  - クラウディクリームマン（りんどう湖レイクビューの[ソフトクリーム](https://ja.wikipedia.org/wiki/ソフトクリーム "wikilink")「クラウディクリーム」の絵と一緒に写真が撮れる。）
+  - クラウディクリームマン（りんどう湖レイクビューの[ソフトクリーム](../Page/ソフトクリーム.md "wikilink")「クラウディクリーム」の絵と一緒に写真が撮れる。）
   - ベビーカーウォールアート（宇宙飛行士やお姫様など、子供の夢をイメージしたベビーカーの絵が描かれたウォールアート。）
   - レインボーロード（虹色の横断歩道）
   - レインボーベンチ（華やかな虹色をしたベンチ）
@@ -192,11 +192,11 @@
 
 ### 石原和幸ガーデン
 
-[石原和幸](https://ja.wikipedia.org/wiki/石原和幸 "wikilink")は「[英国](https://ja.wikipedia.org/wiki/英国 "wikilink")[チェルシーフラワーショー](https://ja.wikipedia.org/wiki/チェルシーフラワーショー "wikilink")」で高く評価され、2006年から3年連続金メダル受賞後、2012年から6年連続で、アーティザンガーデン部門で金メダルを獲り続け、獲得した金メダルは10個、 さらに部門内1位に贈られるベストガーデン賞とのダブル受賞は5度果たし、2016年大会では出展者では最高賞のプレジデント賞を受賞した。那須りんどう湖レイクビュー園内に石原和幸が手掛ける[庭園](https://ja.wikipedia.org/wiki/庭園 "wikilink")が2018年に完成。園内には全4か所に[苔](https://ja.wikipedia.org/wiki/苔 "wikilink")や[流木](https://ja.wikipedia.org/wiki/流木 "wikilink")を使った独自の世界観の庭園が設置されている。（現在は設置されていない）
+[石原和幸](https://ja.wikipedia.org/wiki/石原和幸 "wikilink")は「[英国](https://ja.wikipedia.org/wiki/英国 "wikilink")[チェルシーフラワーショー](https://ja.wikipedia.org/wiki/チェルシーフラワーショー "wikilink")」で高く評価され、2006年から3年連続金メダル受賞後、2012年から6年連続で、アーティザンガーデン部門で金メダルを獲り続け、獲得した金メダルは10個、 さらに部門内1位に贈られるベストガーデン賞とのダブル受賞は5度果たし、2016年大会では出展者では最高賞のプレジデント賞を受賞した。那須りんどう湖レイクビュー園内に石原和幸が手掛ける[庭園](https://ja.wikipedia.org/wiki/庭園 "wikilink")が2018年に完成。園内には全4か所に[苔](../Page/苔.md "wikilink")や[流木](../Page/流木.md "wikilink")を使った独自の世界観の庭園が設置されている。（現在は設置されていない）
 
 石原和幸が手がけた庭園一覧
 
-  - メインガーデン（みどりの[アルパカ](https://ja.wikipedia.org/wiki/アルパカ "wikilink")や[ひつじ](https://ja.wikipedia.org/wiki/ひつじ "wikilink")がいる ファンタジーあふれるガーデン）
+  - メインガーデン（みどりの[アルパカ](../Page/アルパカ.md "wikilink")や[ひつじ](https://ja.wikipedia.org/wiki/ひつじ "wikilink")がいる ファンタジーあふれるガーデン）
   - スポットガーデン（[シャクナゲ](../Page/シャクナゲ.md "wikilink")がたくさん植わった花を楽しむガーデン。季節のイベントに応じてさまざまな装飾が施される。）
   - アプローチガーデン（石原が好きな樹木が入った季節の花と樹木があるガーデン）
   - エントランスガーデン（[ヤギ](https://ja.wikipedia.org/wiki/ヤギ "wikilink")や[ジャージー牛](https://ja.wikipedia.org/wiki/ジャージー牛 "wikilink")のモニュメントがある季節の花に囲まれたガーデン。）
@@ -217,7 +217,7 @@
   - 絵画　「水浴」　[アドルフ・モンティセリ](https://ja.wikipedia.org/wiki/アドルフ・モンティセリ "wikilink")作
   - 絵画　「農婦と牛」　コンスタン・トロワイヨン作
   - 絵画　「赤富士」　[小松均](../Page/小松均.md "wikilink")作
-  - 絵画　「裸婦像」　[藤田嗣治](https://ja.wikipedia.org/wiki/藤田嗣治 "wikilink")作
+  - 絵画　「裸婦像」　[藤田嗣治](../Page/藤田嗣治.md "wikilink")作
   - 絵画　「牧場で編み物をする女」　[ジャン・フランソワ・ミレー](https://ja.wikipedia.org/wiki/ジャン・フランソワ・ミレー "wikilink")作
   - 絵画　「リュウバイイの農場」　ジャン・フランソワ・ミレー作
   - 絵画　「ノルマンディの農家の中庭」　[ジャン＝バティスト・カミーユ・コロー](../Page/ジャン＝バティスト・カミーユ・コロー.md "wikilink")作
@@ -275,9 +275,9 @@
 ### 過去の活動
 
   - まきばくんとみどりちゃんは[パラパラ](../Page/パラパラ.md "wikilink")や[サンバ](../Page/サンバ.md "wikilink")を踊ることが出来たり、[コスプレ](../Page/コスプレ.md "wikilink")イベントの時に自作の衣装で登場したこともある。
-  - 以前はりんどう湖ファミリー牧場が提供を行っていた[フジテレビ系列番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ひらけ！ポンキッキ](https://ja.wikipedia.org/wiki/ひらけ!ポンキッキ "wikilink")」枠のテレビCMにもまきばくんやみどりちゃんが登場していた。
+  - 以前はりんどう湖ファミリー牧場が提供を行っていた[フジテレビ系列番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ひらけ！ポンキッキ](../Page/ひらけ!ポンキッキ.md "wikilink")」枠のテレビCMにもまきばくんやみどりちゃんが登場していた。
   - [Twitter](../Page/Twitter.md "wikilink")を始める前には[ブログ](../Page/ブログ.md "wikilink")も投稿していた。
-  - 2006年には[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の[TVチャンピオン](https://ja.wikipedia.org/wiki/TVチャンピオン "wikilink")の[ゆるキャラ](https://ja.wikipedia.org/wiki/ゆるキャラ "wikilink")日本一決定戦に参加するが1回戦で敗退した。
+  - 2006年には[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の[TVチャンピオン](../Page/TVチャンピオン.md "wikilink")の[ゆるキャラ](../Page/ゆるキャラ.md "wikilink")日本一決定戦に参加するが1回戦で敗退した。
   - ラビちゃんとゴン太くんの着ぐるみはそれぞれ2009年にリニューアルし更新された。
 
 ## 交通アクセス
@@ -295,7 +295,7 @@
 <!-- end list -->
 
   - [東北自動車道](../Page/東北自動車道.md "wikilink")・[那須インターチェンジ](../Page/那須インターチェンジ.md "wikilink")から約10分
-  - 東北自動車道・[那須高原サービスエリア](../Page/那須高原サービスエリア.md "wikilink")（[那須スマートインターチェンジ](https://ja.wikipedia.org/wiki/スマートインターチェンジ "wikilink")）から約10分
+  - 東北自動車道・[那須高原サービスエリア](../Page/那須高原サービスエリア.md "wikilink")（[那須スマートインターチェンジ](../Page/スマートインターチェンジ.md "wikilink")）から約10分
   - 東北自動車道・[白河インターチェンジ](../Page/白河インターチェンジ.md "wikilink")から約20分
 
 <!-- end list -->
@@ -326,14 +326,14 @@
   - [満点青空レストラン](https://ja.wikipedia.org/wiki/満天☆青空レストラン "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2016年3月12日放送
   - [空から日本を見てみよう](https://ja.wikipedia.org/wiki/空から日本を見てみよう "wikilink")＋（[BSテレビ東京](../Page/BSテレビ東京.md "wikilink")） - 2017年3月7日放送
   - ヨジデス（[福島放送](../Page/福島放送.md "wikilink")） - 2018年4月27日、2018年8月4日放送
-  - [サタふく](https://ja.wikipedia.org/wiki/サタふく "wikilink")（[福島テレビ](../Page/福島テレビ.md "wikilink")） - 2018年4月28日放送
+  - [サタふく](../Page/サタふく.md "wikilink")（[福島テレビ](../Page/福島テレビ.md "wikilink")） - 2018年4月28日放送
   - [news every](https://ja.wikipedia.org/wiki/news_every "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年4月30日放送
   - [FNNプライムニュース](https://ja.wikipedia.org/wiki/FNNプライムニュース "wikilink")α（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 2018年7月16日
   - [よじごじDays](https://ja.wikipedia.org/wiki/よじごじDays "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")） - 2018年7月20日放送
   - [ブラタモリ](https://ja.wikipedia.org/wiki/ブラタモリ "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")） - 2018年9月1日放送、2018年9月11日再放送
   - [林先生が驚く初耳学！](https://ja.wikipedia.org/wiki/林先生が驚く初耳学! "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 2018年9月16日放送
   - PON\!（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年9月17日放送
-  - [首都圏ネットワーク](https://ja.wikipedia.org/wiki/首都圏ネットワーク "wikilink")（NHK） - 2018年10月2日放送
+  - [首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")（NHK） - 2018年10月2日放送
   - [グッド！モーニング](https://ja.wikipedia.org/wiki/グッド!モーニング_\(テレビ番組\) "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）[依田司](https://ja.wikipedia.org/wiki/依田司 "wikilink")のお天気中継 - 2018年10月16日放送
   - [スッキリ](https://ja.wikipedia.org/wiki/スッキリ "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 2018年12月27日放送
   - [マツコの知らない世界](https://ja.wikipedia.org/wiki/マツコの知らない世界 "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")） - 2019年2月5日放送

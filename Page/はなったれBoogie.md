@@ -1,7 +1,7 @@
 > この記事は[Boogie](https://ja.wikipedia.org/wiki/Boogie)から翻訳されています。
 
 
-『**はなったれBoogie**』（はなったれブギ）とは、[一色まこと](https://ja.wikipedia.org/wiki/一色まこと "wikilink")によるホーム[コメディ漫画作品](../Page/喜劇.md "wikilink")。
+『**はなったれBoogie**』（はなったれブギ）とは、[一色まこと](../Page/一色まこと.md "wikilink")によるホーム[コメディ漫画作品](../Page/喜劇.md "wikilink")。
 
 ## 概要
 
@@ -54,8 +54,8 @@
 
   - [出直しといで\!](../Page/出直しといで!.md "wikilink")
   - [花田少年史](../Page/花田少年史.md "wikilink")
-  - [ハッスル](https://ja.wikipedia.org/wiki/ハッスル_\(漫画\) "wikilink")
-  - [魚人荘から愛をこめて](https://ja.wikipedia.org/wiki/魚人荘から愛をこめて "wikilink")
+  - [ハッスル](../Page/ハッスル_\(漫画\).md "wikilink")
+  - [魚人荘から愛をこめて](../Page/魚人荘から愛をこめて.md "wikilink")
   - [ピアノの森](../Page/ピアノの森.md "wikilink")
 
 [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:幼稚園を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:幼稚園を舞台とした漫画作品 "wikilink")

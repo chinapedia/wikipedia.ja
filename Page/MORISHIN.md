@@ -1,11 +1,11 @@
 > この記事は[MORISHIN](https://ja.wikipedia.org/wiki/MORISHIN)から翻訳されています。
 
 
-**MORISHIN**（モリシン、[1982年](../Page/1982年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink") - \[1\]）は[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[本名](https://ja.wikipedia.org/wiki/本名 "wikilink")は**盛田真吾**（もりた しんご）。
+**MORISHIN**（モリシン、[1982年](../Page/1982年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink") - \[1\]）は[埼玉県](../Page/埼玉県.md "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[本名](https://ja.wikipedia.org/wiki/本名 "wikilink")は**盛田真吾**（もりた しんご）。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に**MORISHINS**'（モリシンズ、- \[2\]）として[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりデビュー。当時は**「謎の[ソロユニット](https://ja.wikipedia.org/wiki/ソロユニット "wikilink")」**であった。「S」が付いていたのは彼のスタッフも含まれているから。
+[2006年](../Page/2006年.md "wikilink")に**MORISHINS**'（モリシンズ、- \[2\]）として[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりデビュー。当時は**「謎の[ソロユニット](https://ja.wikipedia.org/wiki/ソロユニット "wikilink")」**であった。「S」が付いていたのは彼のスタッフも含まれているから。
 
-[2014年](../Page/2014年.md "wikilink")にMORISHINに[改名](https://ja.wikipedia.org/wiki/改名 "wikilink")した。
+[2014年](../Page/2014年.md "wikilink")にMORISHINに[改名](../Page/改名.md "wikilink")した。
 
 ## ディスコグラフィー
 
@@ -40,7 +40,7 @@
   - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")
       - 『[ありがとう](../Page/ありがとう_\(SMAPの曲\).md "wikilink")』…作詞・作曲
       - 『どうか届きますように』（アルバム『[super.modern.artistic.performance](https://ja.wikipedia.org/wiki/super.modern.artistic.performance "wikilink")』）…作詞・作曲
-  - [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink")
       - 『[PICK IT UP](https://ja.wikipedia.org/wiki/PICK_IT_UP "wikilink")』…作詞
   - [ジャニーズWEST](https://ja.wikipedia.org/wiki/ジャニーズWEST "wikilink")
       - 『[僕ら今日も生きている](https://ja.wikipedia.org/wiki/僕ら今日も生きている/考えるな、燃えろ!! "wikilink")』…作詞・作曲
@@ -55,7 +55,7 @@
 
 ### ラジオ
 
-  - MORISHINのラジオ始めました（2015年4月4日- ）（[MUSIC BIRD](https://ja.wikipedia.org/wiki/ミュージックバード "wikilink")）
+  - MORISHINのラジオ始めました（2015年4月4日- ）（[MUSIC BIRD](../Page/ミュージックバード.md "wikilink")）
   - ミュージックデリバリーDX 第4週のパーソナリティを担当（2015年4月25日- ）（[レインボータウンエフエム放送](../Page/レインボータウンエフエム放送.md "wikilink")）
 
 ## 脚注

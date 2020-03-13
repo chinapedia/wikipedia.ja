@@ -48,7 +48,7 @@
   - データバイトとステータスバイト
   - ノートデータ、コントロールデータ
   - システムエクスクルーシブ
-  - [GMなど](https://ja.wikipedia.org/wiki/General_MIDI "wikilink")
+  - [GMなど](../Page/General_MIDI.md "wikilink")
   - リスト表示による演奏情報と[スコア](../Page/総譜.md "wikilink")
 
 ### 4級
@@ -66,7 +66,7 @@
 
 1.  各自コンピュータ、音源、入力用キーボードを1台ずつ貸与
 2.  課題曲のデータ及びスコアが支給される
-3.  任意の[シーケンサーソフトを用いて](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、課題データの欠落個所、間違いを修正し、修正したデータを[SMFにして提出する](https://ja.wikipedia.org/wiki/Standard_MIDI_File "wikilink")
+3.  任意の[シーケンサーソフトを用いて](../Page/ミュージックシーケンサー.md "wikilink")、課題データの欠落個所、間違いを修正し、修正したデータを[SMFにして提出する](https://ja.wikipedia.org/wiki/Standard_MIDI_File "wikilink")
 
 ### 意味
 

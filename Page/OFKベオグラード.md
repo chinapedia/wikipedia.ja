@@ -1,7 +1,7 @@
 > この記事は[OFK](https://ja.wikipedia.org/wiki/OFK)から翻訳されています。
 
 
-**オムラディンスキ・フドバルスキ・クルブ・ベオグラード**（, ）は、[セルビア](../Page/セルビア.md "wikilink")の首都[ベオグラード](https://ja.wikipedia.org/wiki/ベオグラード "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。
+**オムラディンスキ・フドバルスキ・クルブ・ベオグラード**（, ）は、[セルビア](../Page/セルビア.md "wikilink")の首都[ベオグラード](../Page/ベオグラード.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。
 
 ## 概要
 
@@ -106,7 +106,7 @@
 </tr>
 <tr class="even">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トッテナム・ホットスパーFC" title="wikilink">トッテナム・ホットスパー</a></p></td>
+<td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム・ホットスパー</a></p></td>
 <td><p>1–2</p></td>
 <td><p>1–3</p></td>
 <td><p>'''2–5</p></td>
@@ -128,7 +128,7 @@
 <td><p>1964-65</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インターシティーズ・フェアーズカップ1964-65" title="wikilink">インターシティーズ・フェアーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アスレティック・ビルバオ" title="wikilink">アスレティック・ビルバオ</a></p></td>
+<td><p><a href="../Page/アスレティック・ビルバオ.md" title="wikilink">アスレティック・ビルバオ</a></p></td>
 <td><p>0–2</p></td>
 <td><p>2–2</p></td>
 <td><p>'''2–4</p></td>
@@ -318,7 +318,7 @@
 <td><p>2006-07</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2006-07" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AJオセール" title="wikilink">オセール</a></p></td>
+<td><p><a href="../Page/AJオセール.md" title="wikilink">オセール</a></p></td>
 <td><p>1–0</p></td>
 <td><p>1–5</p></td>
 <td><p>'''2–5</p></td>
@@ -471,7 +471,7 @@
 
   - [マルコ・バシャ](https://ja.wikipedia.org/wiki/マルコ・バシャ "wikilink") 2000-2001、2002-2005
 
-  - [オグニェン・コロマン](https://ja.wikipedia.org/wiki/オグニェン・コロマン "wikilink") 2000-2002
+  - [オグニェン・コロマン](../Page/オグニェン・コロマン.md "wikilink") 2000-2002
 
   - [ドゥシュコ・トシッチ](../Page/ドゥシュコ・トシッチ.md "wikilink") 2002-2005
 

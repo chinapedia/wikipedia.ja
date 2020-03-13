@@ -10,20 +10,20 @@
 しかし、一般に CASEツールと称されているのは分析および設計に関するツールであり、設計情報からソフトウェア製品の一部（または全部）を自動生成する機能を備えるものが多い。そのようなツールから[Jackson Structured Programmingのような開発手法や](https://ja.wikipedia.org/wiki/Jackson_Structured_Programming "wikilink")、 Edward Yourdon, Chris Gane, Trish Sarson といった研究者が提唱するソフトウェアモデリング技法が生まれた。この狭い意味では、例えばデータベース製品に適用されるCASEツールの機能として、以下のようなものが一般的である。
 
   - ビジネス、実世界のプロセスとデータフローのモデリング
-  - [実体関連図](https://ja.wikipedia.org/wiki/実体関連モデル "wikilink")（entity-relationship diagram）の形式での[データモデル](https://ja.wikipedia.org/wiki/データモデル "wikilink")の開発
+  - [実体関連図](../Page/実体関連モデル.md "wikilink")（entity-relationship diagram）の形式での[データモデル](../Page/データモデル.md "wikilink")の開発
   - プロセスおよび関数仕様の開発
-  - [データベース](../Page/データベース.md "wikilink")生成用[SQL](../Page/SQL.md "wikilink")と[ストアドプロシージャ](https://ja.wikipedia.org/wiki/ストアドプロシージャ "wikilink")の製造
+  - [データベース](../Page/データベース.md "wikilink")生成用[SQL](../Page/SQL.md "wikilink")と[ストアドプロシージャ](../Page/ストアドプロシージャ.md "wikilink")の製造
 
 ## 歴史
 
-CASE という用語は 1982年、[ミシガン州](../Page/ミシガン州.md "wikilink")[サウスフィールドの](https://ja.wikipedia.org/wiki/サウスフィールド_\(ミシガン州\) "wikilink") Nastec Corporation というソフトウェア企業が考案したものである。同社のグラフィックおよびテキストの統合エディター GraphiText を指す言葉として使われた。GraphiText はマイクロコンピュータ向けでは最初期の[ハイパーリンク](../Page/ハイパーリンク.md "wikilink")によるテキスト文字列の相互参照を実現していた。現在の Webページリンクの先駆けのひとつである。GraphiText の後継製品 DesignAid はソフトウェアやシステムの設計図を論理的かつ意味論的に評価し、[データ辞書](https://ja.wikipedia.org/wiki/データ辞書 "wikilink")を作成するソフトウェアである。続いて Cambridge Technologies 社が Excelerator で市場に参入。DesignAid が Convergent Technologies 社や[バロース](https://ja.wikipedia.org/wiki/バロース "wikilink")のミニコンピュータで動作したのに対して、Excelerator は [IBM PC/ATで動作した](https://ja.wikipedia.org/wiki/IBM_PC/AT "wikilink")。当時のパーソナルコンピュータはミニコンピュータに比較してネットワーク機能とデータベース機能が貧弱ではあったが、それ以上にパソコンでのCASEツールには魅力があり、Excelerator は人気となった。その後すぐにKnowledgeWare、[テキサス・インスツルメンツ](https://ja.wikipedia.org/wiki/テキサス・インスツルメンツ "wikilink")といった企業がCASE市場に参入することとなる。
+CASE という用語は 1982年、[ミシガン州](../Page/ミシガン州.md "wikilink")[サウスフィールドの](https://ja.wikipedia.org/wiki/サウスフィールド_\(ミシガン州\) "wikilink") Nastec Corporation というソフトウェア企業が考案したものである。同社のグラフィックおよびテキストの統合エディター GraphiText を指す言葉として使われた。GraphiText はマイクロコンピュータ向けでは最初期の[ハイパーリンク](../Page/ハイパーリンク.md "wikilink")によるテキスト文字列の相互参照を実現していた。現在の Webページリンクの先駆けのひとつである。GraphiText の後継製品 DesignAid はソフトウェアやシステムの設計図を論理的かつ意味論的に評価し、[データ辞書](https://ja.wikipedia.org/wiki/データ辞書 "wikilink")を作成するソフトウェアである。続いて Cambridge Technologies 社が Excelerator で市場に参入。DesignAid が Convergent Technologies 社や[バロース](../Page/バロース.md "wikilink")のミニコンピュータで動作したのに対して、Excelerator は [IBM PC/ATで動作した](https://ja.wikipedia.org/wiki/IBM_PC/AT "wikilink")。当時のパーソナルコンピュータはミニコンピュータに比較してネットワーク機能とデータベース機能が貧弱ではあったが、それ以上にパソコンでのCASEツールには魅力があり、Excelerator は人気となった。その後すぐにKnowledgeWare、[テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")といった企業がCASE市場に参入することとなる。
 
 初期の CASEツールは[ソフトウェア設計](https://ja.wikipedia.org/wiki/ソフトウェア設計 "wikilink")をグラフィカルに表現したり、それを分析するものが主流であった。プログラム設計に関するものとして、Excelerator・ADW がある。データ設計に関するものとして、[Bachman](../Page/チャールズ・バックマン.md "wikilink")・IEW・IEF などがある。DesignAid はプログラムとデータの両方を扱うだけでなく、プログラム生成ツール Transform を備えていた。これは、Nastec 社が Transform Logic Corporation を支配下に置いて得た製品である。1984年、Nastec 社はプロジェクト管理や製品構成管理を中心とした LifeCycle Manager を開発した。LifeCycle Manager の初期のコンセプトはシステム開発手法とプロジェクト管理システムの結合にあった。
 
 従来型のCASEツールは1990年代初期にピークを迎えた。当時、[IBM](../Page/IBM.md "wikilink")は以下のような協力ソフトウェア企業と共に [AD/Cycle](https://ja.wikipedia.org/wiki/AD/Cycle "wikilink") を発表した。これはソフトウェアのライフサイクル全体をカバーするツールを集約したものである。
 
   - KnowledgeWare 社: IEW, ADW
-  - [テキサス・インスツルメンツ](https://ja.wikipedia.org/wiki/テキサス・インスツルメンツ "wikilink") 社: IEF
+  - [テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink") 社: IEF
   - Nastec 社: DesignAid, LifeCycle Manager
 
 メインフレームの凋落に伴い、AD/Cycle などに代表されるCASEツールから今日の主流CASEツールへの市場の転換がなされた。興味深いことに1990年代初期のCASE市場を占めていた製品のほとんどは、[CAが買収した](https://ja.wikipedia.org/wiki/CA_\(企業\) "wikilink") (IEW, IEF, ADW, Cayenne, LBMS など)。
@@ -42,7 +42,7 @@ CASE ツールはコードを出力するだけではない。様々なシステ
 
   - [データベーススキーマ](https://ja.wikipedia.org/wiki/スキーマ "wikilink")
   - [データフロー図](../Page/データフロー図.md "wikilink")
-  - [実体関連図](https://ja.wikipedia.org/wiki/実体関連モデル "wikilink")
+  - [実体関連図](../Page/実体関連モデル.md "wikilink")
   - プログラム仕様
   - ユーザー向け文書
 
@@ -55,7 +55,7 @@ CASEツールを以下の2種類に分類することもある:
 
   - [統一モデリング言語](../Page/統一モデリング言語.md "wikilink") (UML)
   - [RAD](https://ja.wikipedia.org/wiki/RAD_\(計算機プログラミング環境\) "wikilink")
-  - [4GL](https://ja.wikipedia.org/wiki/4GL "wikilink")
+  - [4GL](../Page/4GL.md "wikilink")
   - [モデル駆動型アーキテクチャ](../Page/モデル駆動型アーキテクチャ.md "wikilink")
   - [ドメインモデリング](https://ja.wikipedia.org/wiki/ドメインモデリング "wikilink")
   - [モデリング言語](../Page/モデリング言語.md "wikilink")

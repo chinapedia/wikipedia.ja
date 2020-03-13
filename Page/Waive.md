@@ -7,21 +7,21 @@
 
 2000年1月に大阪でギターの杉本善徳とボーカルの田澤孝介を中心に結成。2000年1月9日に[新宿リキッドルームにて初ライブを行う](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")。バンド名の「Waive」とは「権利を放棄する」と言う意味である。なお、バンド名は田澤と杉本の2人で[辞書](https://ja.wikipedia.org/wiki/辞書 "wikilink")を見てピンときたので命名した。
 
-2004年7月31日をもって所属事務所SWEET CHILD離脱。 Vo田澤の脱退により2005年12月1日の「LAST GIGS.」[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")公演をもって解散した。
+2004年7月31日をもって所属事務所SWEET CHILD離脱。 Vo田澤の脱退により2005年12月1日の「LAST GIGS.」[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")公演をもって解散した。
 
-2010年3月に一時的な再結成および再演を発表\[1\]。 同年11月29日の[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")公演をもって奇跡の再演全日程が終了。
+2010年3月に一時的な再結成および再演を発表\[1\]。 同年11月29日の[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")公演をもって奇跡の再演全日程が終了。
 
 2015年12月1日22:00、解散から10年が経ち2016年4月3日に[EX THEATER ROPPONGIにて](https://ja.wikipedia.org/wiki/EX_THEATER_ROPPONGI "wikilink")「GIG　FINAL DISTORTION！」を開催することが公式サイト上で発表となった。
 
 ## メンバー
 
-  - **田澤孝介**（たざわ　たかゆき、[11月23日](../Page/11月23日.md "wikilink") - ）ボーカル　[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")出生[大阪府](../Page/大阪府.md "wikilink")[八尾市](../Page/八尾市.md "wikilink")出身　A型
+  - **田澤孝介**（たざわ　たかゆき、[11月23日](../Page/11月23日.md "wikilink") - ）ボーカル　[京都府](../Page/京都府.md "wikilink")出生[大阪府](../Page/大阪府.md "wikilink")[八尾市](../Page/八尾市.md "wikilink")出身　A型
 
 <!-- end list -->
 
   -
     『Sotto…』までは**TAKAYUKI**と名乗っていた。
-    解散後、[day after tomorrowの](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")[北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink")と[ストロボを結成した](../Page/ストロボ_\(バンド\).md "wikilink")。
+    解散後、[day after tomorrowの](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")[北野正人](../Page/北野正人.md "wikilink")と[ストロボを結成した](../Page/ストロボ_\(バンド\).md "wikilink")。
     現在は[SPIRAL MINDというバンドを結成し活動中](https://ja.wikipedia.org/wiki/SPIRAL_MIND "wikilink")。2010年から[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")というバンドで活動中。
 
 <!-- end list -->
@@ -73,7 +73,7 @@
 
   -
     『INDIES』から加入。2005年10月22日に脱退。
-    2001年5月までは[DAS:VASSER](https://ja.wikipedia.org/wiki/DAS:VASSER "wikilink")に汰楼（読みは同じ）の[芸名](../Page/芸名.md "wikilink")で在籍していた。
+    2001年5月までは[DAS:VASSER](../Page/DAS:VASSER.md "wikilink")に汰楼（読みは同じ）の[芸名](../Page/芸名.md "wikilink")で在籍していた。
 
 ## ディスコグラフィ
 

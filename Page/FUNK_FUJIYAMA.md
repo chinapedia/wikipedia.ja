@@ -1,11 +1,11 @@
 > この記事は[FUNK FUJIYAMA](https://ja.wikipedia.org/wiki/FUNK_FUJIYAMA)から翻訳されています。
 
 
-**FUNK FUJIYAMA**（ファンク フジヤマ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の9枚目の[シングル](../Page/シングル.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売。発売元はCBSソニーレコード（現[ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")）。
+**FUNK FUJIYAMA**（ファンク フジヤマ）は[米米CLUB](../Page/米米CLUB.md "wikilink")の9枚目の[シングル](../Page/シングル.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売。発売元はCBSソニーレコード（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。
 
 ## 解説
 
-[ソニー](../Page/ソニー.md "wikilink")が発売したMDP（[マルチディスクプレーヤー](../Page/レーザーディスク.md "wikilink")）のCMソングに起用された。歌詞に「[ハラキリ](https://ja.wikipedia.org/wiki/切腹 "wikilink")」「[ゲイシャ](https://ja.wikipedia.org/wiki/芸者 "wikilink")」「[フジヤマ](../Page/富士山.md "wikilink")」等を多用し外国人が見た日本の名産、名物が並べられた歌詞とPVのユニークさから話題になった。 1989年「KOME KOME WAR 」に続き、1990年「FUNK FUJIYAMA」で同じ部門である、ビデオクリップ　MTV VIDEO　MUSIC　AWARD　INTARNATIONAL AWARD グランプリを受賞。同部門２年連続受賞となった曲。 「FUNK FUJIYAMA」（なお、CMでは「ゲイシャ」「カミカゼ」「ハラキリ」の部分は「ニンジャ」「スキヤキ」「テンプラ」となっていた） なお本作以降、[EP盤がリリースされていない](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。 2006年9月20日にリリースされた活動再開記念第三弾シングル**MATA(C)TANA**のカップリングに[デーブ・スペクター](https://ja.wikipedia.org/wiki/デーブ・スペクター "wikilink")、[クリス・ペプラー](https://ja.wikipedia.org/wiki/クリス・ペプラー "wikilink")とのコラボレーションとして、アレンジと歌詞を現代（2006年当時）向けに変更したリメイク版「FUNK FUJIYAMA NOW」が収録された。
+[ソニー](../Page/ソニー.md "wikilink")が発売したMDP（[マルチディスクプレーヤー](../Page/レーザーディスク.md "wikilink")）のCMソングに起用された。歌詞に「[ハラキリ](https://ja.wikipedia.org/wiki/切腹 "wikilink")」「[ゲイシャ](https://ja.wikipedia.org/wiki/芸者 "wikilink")」「[フジヤマ](../Page/富士山.md "wikilink")」等を多用し外国人が見た日本の名産、名物が並べられた歌詞とPVのユニークさから話題になった。 1989年「KOME KOME WAR 」に続き、1990年「FUNK FUJIYAMA」で同じ部門である、ビデオクリップ　MTV VIDEO　MUSIC　AWARD　INTARNATIONAL AWARD グランプリを受賞。同部門２年連続受賞となった曲。 「FUNK FUJIYAMA」（なお、CMでは「ゲイシャ」「カミカゼ」「ハラキリ」の部分は「ニンジャ」「スキヤキ」「テンプラ」となっていた） なお本作以降、[EP盤がリリースされていない](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。 2006年9月20日にリリースされた活動再開記念第三弾シングル**MATA(C)TANA**のカップリングに[デーブ・スペクター](../Page/デーブ・スペクター.md "wikilink")、[クリス・ペプラー](../Page/クリス・ペプラー.md "wikilink")とのコラボレーションとして、アレンジと歌詞を現代（2006年当時）向けに変更したリメイク版「FUNK FUJIYAMA NOW」が収録された。
 
 ## 収録曲
 
@@ -20,7 +20,7 @@
 ## 収録アルバム
 
   - [5 1/2](https://ja.wikipedia.org/wiki/5_1/2 "wikilink") (\#1)
-  - [DECADE](https://ja.wikipedia.org/wiki/DECADE_\(米米CLUBのアルバム\) "wikilink") (\#1) ※一部をカットしたリミックス版を収録
+  - [DECADE](../Page/DECADE_\(米米CLUBのアルバム\).md "wikilink") (\#1) ※一部をカットしたリミックス版を収録
   - [HARVEST SINGLES 1985-1992](https://ja.wikipedia.org/wiki/HARVEST_SINGLES_1985-1992 "wikilink") (\#1)
 
 ## その他

@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[1998年のMLBドラフト](https://ja.wikipedia.org/wiki/1998年のMLBドラフト "wikilink")17巡目（全体500位）で[シンシナティ・レッズ](https://ja.wikipedia.org/wiki/シンシナティ・レッズ "wikilink")に指名されて入団。翌[7月28日](../Page/7月28日.md "wikilink")にメジャーデビューを果たすが、1試合に登板しただけで、同年の7月31日に[ボルチモア・オリオールズ](https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ "wikilink")に[トレード](../Page/トレード.md "wikilink")される。移籍先では13試合に投げて防御率2.95の好成績を残す。
+[1998年のMLBドラフト](https://ja.wikipedia.org/wiki/1998年のMLBドラフト "wikilink")17巡目（全体500位）で[シンシナティ・レッズ](../Page/シンシナティ・レッズ.md "wikilink")に指名されて入団。翌[7月28日](../Page/7月28日.md "wikilink")にメジャーデビューを果たすが、1試合に登板しただけで、同年の7月31日に[ボルチモア・オリオールズ](../Page/ボルチモア・オリオールズ.md "wikilink")に[トレード](../Page/トレード.md "wikilink")される。移籍先では13試合に投げて防御率2.95の好成績を残す。
 
 翌開幕から5月2日までの1失点に抑えていたが、それ以後の9試合の登板で16自責点の成績で、6月9日に[マイナーリーグ](../Page/マイナーリーグ.md "wikilink")へ降格した\[1\]。その後マイナーでは14試合に登板し、[オールスター・フューチャーズゲーム](https://ja.wikipedia.org/wiki/オールスター・フューチャーズゲーム "wikilink")に投げてはいないが選出されている\[2\]。7月30日にメジャーへ復帰し、新人投手としてリーグ4位の42試合に登板したが、防御率は5.91に終わった\[3\]。
 
@@ -17,13 +17,13 @@
 
 もクローザーとしてしっかりと役割を果たし、リーグ3位となる38セーブをマーク。しかも、防御率は1.37という驚異的な数字で、その数字はあの[ニューヨーク・ヤンキース](../Page/ニューヨーク・ヤンキース.md "wikilink")の抑えの切り札である大投手・[マリアノ・リベラ](https://ja.wikipedia.org/wiki/マリアノ・リベラ "wikilink")をも上回る数字だった（リベラの防御率は1.80）。また、この年の38セーブは、ブルージェイズ史上4人目の年間35セーブ達成者となる快挙であった。
 
-しかし、はわずか5試合の登板に終わった。4月14日の登板で4失点で救援失敗。翌日に左ヒジ痛が発覚して[故障者リスト](https://ja.wikipedia.org/wiki/故障者リスト "wikilink")入り。予想以上に重症で[トミー・ジョン手術](../Page/トミー・ジョン手術.md "wikilink")を受けた\[8\]。
+しかし、はわずか5試合の登板に終わった。4月14日の登板で4失点で救援失敗。翌日に左ヒジ痛が発覚して[故障者リスト](../Page/故障者リスト.md "wikilink")入り。予想以上に重症で[トミー・ジョン手術](../Page/トミー・ジョン手術.md "wikilink")を受けた\[8\]。
 
-[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")にブルージェイズから解雇された。その後、[7月16日](../Page/7月16日.md "wikilink")に[シカゴ・カブス](https://ja.wikipedia.org/wiki/シカゴ・カブス "wikilink")とマイナー契約を結んだが、メジャー昇格を果たせないまま[8月5日](../Page/8月5日.md "wikilink")にカブスから解雇された。
+[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")にブルージェイズから解雇された。その後、[7月16日](../Page/7月16日.md "wikilink")に[シカゴ・カブス](../Page/シカゴ・カブス.md "wikilink")とマイナー契約を結んだが、メジャー昇格を果たせないまま[8月5日](../Page/8月5日.md "wikilink")にカブスから解雇された。
 
 ## 選手としての特徴
 
-[スリークォーター](https://ja.wikipedia.org/wiki/スリークォーター "wikilink")またははやや[サイドスロー](https://ja.wikipedia.org/wiki/サイドスロー "wikilink")気味から、[ツーシームと](https://ja.wikipedia.org/wiki/速球#ツーシーム・ファストボール "wikilink")[スライダーを中心に投げ分ける](../Page/スライダー_\(球種\).md "wikilink")。[与四球がやや多いものの](../Page/四球.md "wikilink")、[奪三振率も高い](https://ja.wikipedia.org/wiki/三振 "wikilink")。
+[スリークォーター](../Page/スリークォーター.md "wikilink")またははやや[サイドスロー](../Page/サイドスロー.md "wikilink")気味から、[ツーシームと](https://ja.wikipedia.org/wiki/速球#ツーシーム・ファストボール "wikilink")[スライダーを中心に投げ分ける](../Page/スライダー_\(球種\).md "wikilink")。[与四球がやや多いものの](../Page/四球.md "wikilink")、[奪三振率も高い](https://ja.wikipedia.org/wiki/三振 "wikilink")。
 
 左投手でもあり、左打者には滅法強い。[クローザーに抜擢される以前は左打者に対するリリーフとして起用されていた](../Page/リリーフ.md "wikilink")。
 
@@ -35,7 +35,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シンシナティ・レッズ" title="wikilink">CIN</a></p></td>
+<td><p><a href="../Page/シンシナティ・レッズ.md" title="wikilink">CIN</a></p></td>
 <td><p>1</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -62,7 +62,7 @@
 <td><p>2.50</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルチモア・オリオールズ" title="wikilink">BAL</a></p></td>
+<td><p><a href="../Page/ボルチモア・オリオールズ.md" title="wikilink">BAL</a></p></td>
 <td><p>13</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
@@ -430,7 +430,7 @@
 
 ### 記録
 
-  - [MLBオールスターゲーム](https://ja.wikipedia.org/wiki/MLBオールスターゲーム "wikilink")選出：2回（[2005年](../Page/2005年のMLBオールスターゲーム.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年のMLBオールスターゲーム "wikilink")）
+  - [MLBオールスターゲーム](../Page/MLBオールスターゲーム.md "wikilink")選出：2回（[2005年](../Page/2005年のMLBオールスターゲーム.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年のMLBオールスターゲーム "wikilink")）
 
 ### 背番号
 

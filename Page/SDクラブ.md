@@ -34,7 +34,7 @@
   - 狂戦士ダンバイン（荻戸成）第4,5号
   - ガンダムロード（やまだたかひろ）第5～7号
   - どきどき転校生（中原れい）第5号
-  - 俺は鈴木ガンダム（[きむらひでふみ](https://ja.wikipedia.org/wiki/きむらひでふみ "wikilink")）第6,7号
+  - 俺は鈴木ガンダム（[きむらひでふみ](../Page/きむらひでふみ.md "wikilink")）第6,7号
   - シャンカラ（[空根ちゃらか](https://ja.wikipedia.org/wiki/空根ちゃらか "wikilink")）第6号
   - SD機動部隊リークス（やぎたかし）第6,7号
   - ザブングルシェリフ（ともながあきひろ）第7号
@@ -90,8 +90,8 @@ SDクラブから刊行されたムックシリーズ。
 
 ## 関連項目
 
-  - [サイバーコミックス](https://ja.wikipedia.org/wiki/サイバーコミックス "wikilink")
-  - [模型情報](https://ja.wikipedia.org/wiki/模型情報 "wikilink")
+  - [サイバーコミックス](../Page/サイバーコミックス.md "wikilink")
+  - [模型情報](../Page/模型情報.md "wikilink")
   - [B-CLUB](../Page/B-CLUB_\(模型雑誌\).md "wikilink")
   - [MS SAGA](../Page/MS_SAGA.md "wikilink")
 

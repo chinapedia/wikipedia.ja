@@ -3,7 +3,7 @@
 
 『**MS SAGA**』（サーガ）は、[バンダイ](../Page/バンダイ.md "wikilink")および[メディアワークス](../Page/メディアワークス.md "wikilink")（現[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）より刊行された[ガンダム専門の](../Page/ガンダムシリーズ一覧.md "wikilink")[アンソロジーコミック](../Page/アンソロジーコミック.md "wikilink")集。
 
-『[サイバーコミックス](https://ja.wikipedia.org/wiki/サイバーコミックス "wikilink")』の後継誌であり[1993年](../Page/1993年.md "wikilink")2月15日に第1巻が発売、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")11月15日発売の第10巻まで発行された。第3巻までがバンダイ刊行で、残りはメディアワークス刊行である。『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』の前身のうちのひとつで、[近藤和久](../Page/近藤和久.md "wikilink")の『[機動戦士ガンダム0079](../Page/機動戦士ガンダム0079.md "wikilink")』の連載が引き継がれており、連載陣も共通している部分がある。
+『[サイバーコミックス](../Page/サイバーコミックス.md "wikilink")』の後継誌であり[1993年](../Page/1993年.md "wikilink")2月15日に第1巻が発売、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")11月15日発売の第10巻まで発行された。第3巻までがバンダイ刊行で、残りはメディアワークス刊行である。『[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")』の前身のうちのひとつで、[近藤和久](../Page/近藤和久.md "wikilink")の『[機動戦士ガンダム0079](../Page/機動戦士ガンダム0079.md "wikilink")』の連載が引き継がれており、連載陣も共通している部分がある。
 
 また、本誌の休刊後、ほぼ同じ装丁で『**電撃ガンダムW**』（でんげきガンダムウィング）が1996年3月5日に発売されている。
 
@@ -11,14 +11,14 @@
 
   - [近藤和久](../Page/近藤和久.md "wikilink")
       - [機動戦士ガンダム0079](../Page/機動戦士ガンダム0079.md "wikilink")　掲載巻1 - 10
-  - [松浦まさふみ](https://ja.wikipedia.org/wiki/松浦まさふみ "wikilink")
+  - [松浦まさふみ](../Page/松浦まさふみ.md "wikilink")
       - [機動戦士ガンダム ムーンクライシス](../Page/機動戦士ガンダム_ムーンクライシス.md "wikilink")　掲載巻1 - 6
       - [機動戦士ガンダムReon](../Page/機動戦士ガンダムReon.md "wikilink")　掲載巻7 - 10
       - SFへ理屈探検隊　掲載巻1 - 5
       - まるちぷる ましんあーつ しょー　掲載巻6 - 10
   - [やすだひろし](https://ja.wikipedia.org/wiki/やすだひろし "wikilink")
-      - [機動戦士ガンダム シルエットフォーミュラ91](https://ja.wikipedia.org/wiki/機動戦士ガンダム_シルエットフォーミュラ91 "wikilink")　掲載巻1,2,4 - 7,9,10
-  - [ことぶきつかさ](https://ja.wikipedia.org/wiki/ことぶきつかさ "wikilink")
+      - [機動戦士ガンダム シルエットフォーミュラ91](../Page/機動戦士ガンダム_シルエットフォーミュラ91.md "wikilink")　掲載巻1,2,4 - 7,9,10
+  - [ことぶきつかさ](../Page/ことぶきつかさ.md "wikilink")
       - [Newtype history](../Page/いけ!いけ!ぼくらのVガンダム!!.md "wikilink")　掲載巻1
       - [行け行け僕らのバイク戦艦\!](../Page/いけ!いけ!ぼくらのVガンダム!!.md "wikilink")　掲載巻4
       - [これで終りだVガンダム\!\!](../Page/いけ!いけ!ぼくらのVガンダム!!.md "wikilink")　掲載巻5
@@ -57,10 +57,10 @@
 ## 関連項目
 
   - [月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")
-  - [サイバーコミックス](https://ja.wikipedia.org/wiki/サイバーコミックス "wikilink")
+  - [サイバーコミックス](../Page/サイバーコミックス.md "wikilink")
   - [MEDIA COMIX DYNE](https://ja.wikipedia.org/wiki/MEDIA_COMIX_DYNE "wikilink")
-  - [SDクラブ](https://ja.wikipedia.org/wiki/SDクラブ "wikilink")
-  - [模型情報](https://ja.wikipedia.org/wiki/模型情報 "wikilink")
+  - [SDクラブ](../Page/SDクラブ.md "wikilink")
+  - [模型情報](../Page/模型情報.md "wikilink")
   - [B-CLUB (模型雑誌)](../Page/B-CLUB_\(模型雑誌\).md "wikilink")
 
 [Category:休廃刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:休廃刊漫画雑誌 "wikilink") [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:バンダイの出版物](https://ja.wikipedia.org/wiki/Category:バンダイの出版物 "wikilink") [Category:アスキー・メディアワークスの漫画雑誌](https://ja.wikipedia.org/wiki/Category:アスキー・メディアワークスの漫画雑誌 "wikilink") [Category:不定期刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:不定期刊漫画雑誌 "wikilink") [Category:アンソロジーコミック](https://ja.wikipedia.org/wiki/Category:アンソロジーコミック "wikilink") [Category:月刊コミック電撃大王](https://ja.wikipedia.org/wiki/Category:月刊コミック電撃大王 "wikilink")

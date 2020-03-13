@@ -10,16 +10,16 @@
   - [2001年](../Page/2001年.md "wikilink") - iモード向け[着メロ](https://ja.wikipedia.org/wiki/着メロ "wikilink")配信サイト「魔法のメロらんど」開始。
   - [2003年](../Page/2003年.md "wikilink") - ネット上の監視体制強化のために[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")の株式会社インテグラルを子会社化。
   - [2004年](../Page/2004年.md "wikilink") - [マイクロソフト](../Page/マイクロソフト.md "wikilink")と提携し、[MSNスペース](https://ja.wikipedia.org/wiki/MSNスペース "wikilink")（現 Windows Live スペース）を開始。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - [4月25日](../Page/4月25日.md "wikilink") - 社名を「**株式会社魔法のiらんど**」に変更し、システムソリューション事業本部を「株式会社ティー・オー・エス」として新設分割。
       - [6月12日](../Page/6月12日.md "wikilink") - 株式会社[メディアワークス](../Page/メディアワークス.md "wikilink")（現合併存続法人 [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）との業務提携・[魔法のiらんど文庫](../Page/魔法のiらんど文庫.md "wikilink")を2007年秋に創刊することを発表。
-      - [8月21日](../Page/8月21日.md "wikilink") - 株式会社社[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")と業務・資本提携\[1\]。
-      - [10月13日](../Page/10月13日.md "wikilink") - 株式会社[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")と共に株式会社スカイスクレイパー（後の株式会社スマイルエッジ）を設立。
+      - [8月21日](../Page/8月21日.md "wikilink") - 株式会社社[ドワンゴ](../Page/ドワンゴ.md "wikilink")と業務・資本提携\[1\]。
+      - [10月13日](../Page/10月13日.md "wikilink") - 株式会社[ドワンゴ](../Page/ドワンゴ.md "wikilink")と共に株式会社スカイスクレイパー（後の株式会社スマイルエッジ）を設立。
   - [2007年](../Page/2007年.md "wikilink")
       - 1月 - 子会社の株式会社ティー・オー・エスをNTTデータに売却し、NTTデータクイック（現合併存続法人 [NTTデータビジネスシステムズ](https://ja.wikipedia.org/wiki/NTTデータビジネスシステムズ "wikilink")）と吸収合併\[2\]。
-      - [7月5日](../Page/7月5日.md "wikilink")ごろ - 「魔法のiらんど」データサーバーへの[不正アクセス](https://ja.wikipedia.org/wiki/不正アクセス "wikilink")に遭い、閲覧者が[トロイの木馬に感染するよう改竄された](https://ja.wikipedia.org/wiki/トロイの木馬_\(ソフトウェア\) "wikilink")。このため、[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")午前10時より緊急[メンテナンス](https://ja.wikipedia.org/wiki/メンテナンス "wikilink")が行われ、[7月17日](../Page/7月17日.md "wikilink")午後2時頃、約196時間ぶりにサービスを再開し、不正アプリケーションの配布が行われていたことを認める声明文を各ページに掲載した。
+      - [7月5日](../Page/7月5日.md "wikilink")ごろ - 「魔法のiらんど」データサーバーへの[不正アクセス](https://ja.wikipedia.org/wiki/不正アクセス "wikilink")に遭い、閲覧者が[トロイの木馬に感染するよう改竄された](../Page/トロイの木馬_\(ソフトウェア\).md "wikilink")。このため、[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")午前10時より緊急[メンテナンス](../Page/メンテナンス.md "wikilink")が行われ、[7月17日](../Page/7月17日.md "wikilink")午後2時頃、約196時間ぶりにサービスを再開し、不正アプリケーションの配布が行われていたことを認める声明文を各ページに掲載した。
       - [10月25日](../Page/10月25日.md "wikilink") - 株式会社[メディアワークス](../Page/メディアワークス.md "wikilink")が魔法のiらんど文庫を創刊。
-      - [11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - 映画『[恋空](https://ja.wikipedia.org/wiki/恋空 "wikilink")』公開。
+      - [11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - 映画『[恋空](../Page/恋空.md "wikilink")』公開。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")12月 - アスミック・エース エンタテインメント株式会社と提携し、ビデオレーベル「魔法のiらんどDVD」からケータイドラマ『[teddy bear](https://ja.wikipedia.org/wiki/Teddy_bear_\(小説\) "wikilink")』と『幼なじみ』をリリース。
   - 2010年3月4日 - 株式会社アスキー・メディアワークスが発行済み株式の70%（後に100%）を取得し、親会社となる。
   - [2011年](../Page/2011年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - 株式会社アスキー・メディアワークスに吸収[合併され解散](https://ja.wikipedia.org/wiki/企業合併 "wikilink")、同社のブランドとなる。
@@ -60,7 +60,7 @@
 
 ## 出版
 
-[ケータイ小説](https://ja.wikipedia.org/wiki/ケータイ小説 "wikilink")の草分けとしても知られる。その昔、紙の[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")としても、100万部を越すヒット作を出したこともあった。書籍化された作品は、「魔法のiらんど」内の「魔法のiらんどNOVEL」で引き続き公開されている。
+[ケータイ小説](../Page/ケータイ小説.md "wikilink")の草分けとしても知られる。その昔、紙の[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")としても、100万部を越すヒット作を出したこともあった。書籍化された作品は、「魔法のiらんど」内の「魔法のiらんどNOVEL」で引き続き公開されている。
 
 [メディアワークス](../Page/メディアワークス.md "wikilink")も[魔法のiらんど文庫](../Page/魔法のiらんど文庫.md "wikilink")を2007年に刊行し、同社発の作品を紙の書籍として刊行していた出版社の1つであった。同年に[魔法のiらんど大賞](https://ja.wikipedia.org/wiki/魔法のiらんど大賞 "wikilink")を創設している。
 
@@ -70,7 +70,7 @@
 
 ## 著名な投稿作
 
-  - [恋空](https://ja.wikipedia.org/wiki/恋空 "wikilink")
+  - [恋空](../Page/恋空.md "wikilink")
   - [赤い糸 (小説)](../Page/赤い糸_\(小説\).md "wikilink")
   - [携帯彼氏](https://ja.wikipedia.org/wiki/携帯彼氏 "wikilink")
   - [激恋](https://ja.wikipedia.org/wiki/激恋〜運命のラブストーリー〜 "wikilink")

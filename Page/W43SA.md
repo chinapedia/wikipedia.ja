@@ -1,13 +1,13 @@
 > この記事は[W43SA](https://ja.wikipedia.org/wiki/W43SA)から翻訳されています。
 
 
-**W43SA**（だぶりゅーよんさんえすえー）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、現・[京セラ](../Page/京セラ.md "wikilink") SANYOブランド）が開発した、[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[auブランドの](../Page/Au_\(携帯電話\).md "wikilink")[CDMA 1X WINの](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")である。
+**W43SA**（だぶりゅーよんさんえすえー）は、[三洋電機](../Page/三洋電機.md "wikilink")（大阪、現・[京セラ](../Page/京セラ.md "wikilink") SANYOブランド）が開発した、[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の[auブランドの](../Page/Au_\(携帯電話\).md "wikilink")[CDMA 1X WINの](../Page/CDMA_1X_WIN.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")である。
 
 ## 特徴
 
-W43SAは、[W33SA IIの後継で](../Page/W33SA.md "wikilink")/W33SA、折りたたみ式の[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")端末である。アナログチューナーこそ撤去されたものの、外部メモリーへの録画や連続4時間40分の視聴などワンセグ機能が強化され、EZケータイアレンジやデコレーションメールと新サービスにも対応した。液晶画面サイズは前機種と同様2.4インチのまま、広視野角と高精細を謳った[IPS液晶を採用したものの](https://ja.wikipedia.org/wiki/IPS方式 "wikilink")、折り畳んでもワンセグが視聴できる回転2軸ヒンジ機構は省かれたため、常にフォルダを開いておく必要があり、ワンセグ対応機ではあるがW43SAの位置付けは[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")というよりも実用性を高めた普及機といえる。
+W43SAは、[W33SA IIの後継で](../Page/W33SA.md "wikilink")/W33SA、折りたたみ式の[ワンセグ](../Page/ワンセグ.md "wikilink")端末である。アナログチューナーこそ撤去されたものの、外部メモリーへの録画や連続4時間40分の視聴などワンセグ機能が強化され、EZケータイアレンジやデコレーションメールと新サービスにも対応した。液晶画面サイズは前機種と同様2.4インチのまま、広視野角と高精細を謳った[IPS液晶を採用したものの](../Page/IPS方式.md "wikilink")、折り畳んでもワンセグが視聴できる回転2軸ヒンジ機構は省かれたため、常にフォルダを開いておく必要があり、ワンセグ対応機ではあるがW43SAの位置付けは[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")というよりも実用性を高めた普及機といえる。
 
-開発時期がW4xシリーズ（2006年度モデル）後期という過渡期だった事もあり、[EZケータイアレンジ](https://ja.wikipedia.org/wiki/EZケータイアレンジ "wikilink")や2GBまでのmicroSDカード対応などW5xシリーズ（2007年度）モデルで本格採用された一部機能を先取り採用していたり、auと合併した[ツーカー](../Page/ツーカー.md "wikilink")の携帯電話サービス終了に伴う無料移行機種として採用された事から\[1\]、W4xシリーズでは息の長いモデルとなった（無料移行機種は当初、[CDMA 1X WINを選択した場合はW](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")43SA、[CDMA 1Xを選択した場合は同じく三洋製](https://ja.wikipedia.org/wiki/CDMA_1X "wikilink")[A5522SA](../Page/A5522SA.md "wikilink")だったが、その後には他社製機種も追加された）
+開発時期がW4xシリーズ（2006年度モデル）後期という過渡期だった事もあり、[EZケータイアレンジ](https://ja.wikipedia.org/wiki/EZケータイアレンジ "wikilink")や2GBまでのmicroSDカード対応などW5xシリーズ（2007年度）モデルで本格採用された一部機能を先取り採用していたり、auと合併した[ツーカー](../Page/ツーカー.md "wikilink")の携帯電話サービス終了に伴う無料移行機種として採用された事から\[1\]、W4xシリーズでは息の長いモデルとなった（無料移行機種は当初、[CDMA 1X WINを選択した場合はW](../Page/CDMA_1X_WIN.md "wikilink")43SA、[CDMA 1Xを選択した場合は同じく三洋製](../Page/CDMA_1X.md "wikilink")[A5522SA](../Page/A5522SA.md "wikilink")だったが、その後には他社製機種も追加された）
 
 発表時には携帯の塗色デザインとしては珍しい木目調がラインナップされていた事で話題となった。\[2\]
 
@@ -47,7 +47,7 @@ W43SAは、[W33SA IIの後継で](../Page/W33SA.md "wikilink")/W33SA、折りた
   - [au（携帯電話）](../Page/Au_\(携帯電話\).md "wikilink")
   - [三洋電機](../Page/三洋電機.md "wikilink")
   - [京セラ](../Page/京セラ.md "wikilink")
-  - [CDMA 1X WIN](https://ja.wikipedia.org/wiki/CDMA_1X_WIN "wikilink")
+  - [CDMA 1X WIN](../Page/CDMA_1X_WIN.md "wikilink")
 
 ## 脚注
 

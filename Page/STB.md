@@ -4,12 +4,12 @@
 **STB**
 
   - [セットトップボックス](../Page/セットトップボックス.md "wikilink")(**S**et-**t**op **b**ox) - ケーブルテレビやデジタル放送、ブロードバンド[VOD等を](../Page/ビデオ・オン・デマンド.md "wikilink")、一般のテレビで視聴可能な信号へと変換する装置。
-  - [STB (旅行)](https://ja.wikipedia.org/wiki/STB_\(旅行\) "wikilink") - [駅](../Page/鉄道駅.md "wikilink")・[バス停等を](../Page/バス停留所.md "wikilink")、[旅行](../Page/旅行.md "wikilink")中の宿泊地として利用すること。駅寝。
+  - [STB (旅行)](../Page/STB_\(旅行\).md "wikilink") - [駅](../Page/鉄道駅.md "wikilink")・[バス停等を](../Page/バス停留所.md "wikilink")、[旅行](../Page/旅行.md "wikilink")中の宿泊地として利用すること。駅寝。
   - [住友信託銀行](../Page/住友信託銀行.md "wikilink")(**S**umitomo **T**rust & **B**anking Co., Ltd)の略称。
   - [シュツットガルト・トラック・バス販売](https://ja.wikipedia.org/wiki/シュツットガルト・トラック・バス販売 "wikilink")株式会社。商用車系[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")を販売していた[自動車ディーラー](../Page/自動車ディーラー.md "wikilink")。[三菱ふそう](https://ja.wikipedia.org/wiki/三菱ふそう "wikilink")系列。後に商用車系メルセデス・ベンツの販売権を[コマツ](https://ja.wikipedia.org/wiki/コマツ "wikilink")に譲る。その後、コマツも販売権を[シュテルン](https://ja.wikipedia.org/wiki/シュテルン "wikilink")に譲渡した。
   - 自動車の[ナンバープレートで](https://ja.wikipedia.org/wiki/日本のナンバープレート "wikilink")、[国際ナンバー](../Page/国際ナンバー.md "wikilink")につけられる地名のひとつ。日本の地名の「春日部」にあたる。
   - [STBヒグチ](https://ja.wikipedia.org/wiki/STBヒグチ "wikilink")は日本の歯ブラシメーカー。
-  - [スカンジナビア](https://ja.wikipedia.org/wiki/スカンジナビア "wikilink")[政府観光局](https://ja.wikipedia.org/wiki/政府観光局 "wikilink") (**S**candinavian **T**ourist **B**oard) - かつてデンマーク、スウェーデン、ノルウェーが共同で運営していた観光誘致のための組織。日本事務所は[2014年](../Page/2014年.md "wikilink")に活動停止。
+  - [スカンジナビア](https://ja.wikipedia.org/wiki/スカンジナビア "wikilink")[政府観光局](../Page/政府観光局.md "wikilink") (**S**candinavian **T**ourist **B**oard) - かつてデンマーク、スウェーデン、ノルウェーが共同で運営していた観光誘致のための組織。日本事務所は[2014年](../Page/2014年.md "wikilink")に活動停止。
 
 <!-- end list -->
 

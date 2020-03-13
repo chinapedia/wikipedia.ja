@@ -281,14 +281,14 @@
   - シナリオプランナー：田中瑞枝
   - アシスタントプランナー：北原杏子
   - キャラクターデザイン：[土屋泰次](https://ja.wikipedia.org/wiki/土屋泰次 "wikilink")、[菰田規之](https://ja.wikipedia.org/wiki/菰田規之 "wikilink")
-  - サウンドコンポーザー：[岩田匡治](https://ja.wikipedia.org/wiki/岩田匡治 "wikilink")、[崎元仁](https://ja.wikipedia.org/wiki/崎元仁 "wikilink")
+  - サウンドコンポーザー：[岩田匡治](../Page/岩田匡治.md "wikilink")、[崎元仁](../Page/崎元仁.md "wikilink")
   - アソシエイトプロデューサー：[畔柳達哉](https://ja.wikipedia.org/wiki/畔柳達哉 "wikilink")
   - プロデューサー：[徳川誠](../Page/徳川誠.md "wikilink")
 
 ## 関連項目
 
   - [ファイナルファンタジータクティクス](https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクス "wikilink")
-  - [ファイナルファンタジータクティクスアドバンス](https://ja.wikipedia.org/wiki/ファイナルファンタジータクティクスアドバンス "wikilink")
+  - [ファイナルファンタジータクティクスアドバンス](../Page/ファイナルファンタジータクティクスアドバンス.md "wikilink")
   - [タクティクスオウガ](../Page/タクティクスオウガ.md "wikilink")
 
 ## 外部リンク

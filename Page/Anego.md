@@ -1,9 +1,9 @@
 > この記事は[Anego](https://ja.wikipedia.org/wiki/Anego)から翻訳されています。
 
 
-『**anego**』（アネゴ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")から[6月22日](../Page/6月22日.md "wikilink")まで毎週水曜日22:00 - 22:54に、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")「[水曜ドラマ](https://ja.wikipedia.org/wiki/水曜ドラマ_\(日本テレビ\) "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")。
+『**anego**』（アネゴ）は、[2005年](../Page/2005年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")から[6月22日](../Page/6月22日.md "wikilink")まで毎週水曜日22:00 - 22:54に、[日本テレビ系の](../Page/日本テレビ放送網.md "wikilink")「[水曜ドラマ](../Page/水曜ドラマ_\(日本テレビ\).md "wikilink")」枠で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。主演は[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")にはスペシャルが放送された\[1\]。
+[2005年](../Page/2005年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")にはスペシャルが放送された\[1\]。
 
 原作は[林真理子](../Page/林真理子.md "wikilink")の同名[小説](../Page/小説.md "wikilink")。
 
@@ -13,7 +13,7 @@
 
 ドラマでは、主人公・野田奈央子とイケメン新入社員・黒沢明彦の心の声をテロップ表記していたり、テンポのよいストーリー展開が好評であった。平均視聴率は15.7%、最高視聴率は最終回の17.5%を記録した。
 
-連続ドラマ放送終了後に公式サイトに続編希望の声が殺到した為、スペシャルドラマが[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月28日](../Page/12月28日.md "wikilink")21:00 - 23:09に放送された。
+連続ドラマ放送終了後に公式サイトに続編希望の声が殺到した為、スペシャルドラマが[2005年](../Page/2005年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")21:00 - 23:09に放送された。
 
 第45回「[ザテレビジョンドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink")」（2005年春クール）で、主演の[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")は心の声とマッチした表情や嫌味のない自然体なアネゴを見事に演じ、読者票・審査員票・TV記者票全てで1位を獲得し、主演女優賞を受賞した。また、黒沢役の[赤西仁](https://ja.wikipedia.org/wiki/赤西仁 "wikilink")は微妙な表情の変化を視線の動きで見せるなど繊細な演技が評価され、読者票で1位に選ばれた。
 
@@ -75,7 +75,7 @@
 ### その他
 
   - 数子
-    演 - [杉山彩子](https://ja.wikipedia.org/wiki/杉山彩子 "wikilink")
+    演 - [杉山彩子](../Page/杉山彩子.md "wikilink")
     東済商事に勤務。奈央子の同期で友達。
   - 英子
     演 - [植松真美](../Page/植松真美.md "wikilink")
@@ -151,7 +151,7 @@
   - 原作 - [林真理子](../Page/林真理子.md "wikilink")『anego』（[小学館](../Page/小学館.md "wikilink")刊）
   - 脚本 - [中園ミホ](../Page/中園ミホ.md "wikilink")
   - 音楽 - [仲西匡](../Page/仲西匡.md "wikilink")
-  - 主題歌 - [北出菜奈](https://ja.wikipedia.org/wiki/北出菜奈 "wikilink")「[KISS or KISS](../Page/KISS_or_KISS.md "wikilink")」（[SMEレコーズ](../Page/エスエムイーレコーズ.md "wikilink")）\[2\]
+  - 主題歌 - [北出菜奈](../Page/北出菜奈.md "wikilink")「[KISS or KISS](../Page/KISS_or_KISS.md "wikilink")」（[SMEレコーズ](../Page/エスエムイーレコーズ.md "wikilink")）\[2\]
   - オープニングテーマ - [QUEEN](../Page/クイーン_\(バンド\).md "wikilink")「[WE WILL ROCK YOU](../Page/ウィ・ウィル・ロック・ユー.md "wikilink")」（[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")）
   - [TD](https://ja.wikipedia.org/wiki/テクニカルディレクター_\(テレビ\) "wikilink") - 金子幸男
   - 撮影 - 長嶋秀文
@@ -193,7 +193,7 @@
   - 記録 - 根本純
   - 制作担当 - 岡田学
   - 制作デスク - 西口潤
-  - 編集・MAスタジオ - [映広](https://ja.wikipedia.org/wiki/映広 "wikilink")
+  - 編集・MAスタジオ - [映広](../Page/映広.md "wikilink")
   - 車輌 - [麻生リース](https://ja.wikipedia.org/wiki/麻生リース "wikilink")
   - 特贊 - KING LONG（厦門金龍）、HIGER BUS（蘇州金龍）
   - 演出 - [吉野洋](https://ja.wikipedia.org/wiki/吉野洋 "wikilink")、[南雲聖一](https://ja.wikipedia.org/wiki/南雲聖一 "wikilink")、[佐久間紀佳](https://ja.wikipedia.org/wiki/佐久間紀佳 "wikilink")、[佐藤東弥](../Page/佐藤東弥.md "wikilink")

@@ -1,9 +1,9 @@
 > この記事は[!KEIRIN](https://ja.wikipedia.org/wiki/!KEIRIN)から翻訳されています。
 
 
-**まいど\!火曜日はKEIRIN**（まいど\!かようびはけいりん）とは、[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月まで放送されていた[競輪](../Page/競輪.md "wikilink")の中継および関連情報の番組である。
+**まいど\!火曜日はKEIRIN**（まいど\!かようびはけいりん）とは、[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")で[2005年](../Page/2005年.md "wikilink")4月から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月まで放送されていた[競輪](../Page/競輪.md "wikilink")の中継および関連情報の番組である。
 
-サンテレビではこれまでも[岸和田競輪場](../Page/岸和田競輪場.md "wikilink")・[西宮競輪場](https://ja.wikipedia.org/wiki/阪急西宮スタジアム#西宮競輪場 "wikilink")・[甲子園競輪場](https://ja.wikipedia.org/wiki/甲子園競輪場 "wikilink")（西宮競輪場と甲子園競輪場は現在廃止）のレース実況中継を展開してきたが、2005年に岸和田競輪場で開かれた[読売新聞社杯全日本選抜競輪](../Page/読売新聞社杯全日本選抜競輪.md "wikilink")の開催気運を盛り上げるとともに、放送当日に岸和田競輪場で行われる本場開催または場外発売される全国各地で行われる記念競輪([GIII](https://ja.wikipedia.org/wiki/競輪の競走格付け#GIII_\(G3\) "wikilink"))、S級シリーズ([FI](https://ja.wikipedia.org/wiki/競輪の競走格付け#FI_\(F1\) "wikilink"))のレース中継を、原則として毎週火曜日に行っていた。
+サンテレビではこれまでも[岸和田競輪場](../Page/岸和田競輪場.md "wikilink")・[西宮競輪場](https://ja.wikipedia.org/wiki/阪急西宮スタジアム#西宮競輪場 "wikilink")・[甲子園競輪場](../Page/甲子園競輪場.md "wikilink")（西宮競輪場と甲子園競輪場は現在廃止）のレース実況中継を展開してきたが、2005年に岸和田競輪場で開かれた[読売新聞社杯全日本選抜競輪](../Page/読売新聞社杯全日本選抜競輪.md "wikilink")の開催気運を盛り上げるとともに、放送当日に岸和田競輪場で行われる本場開催または場外発売される全国各地で行われる記念競輪([GIII](https://ja.wikipedia.org/wiki/競輪の競走格付け#GIII_\(G3\) "wikilink"))、S級シリーズ([FI](https://ja.wikipedia.org/wiki/競輪の競走格付け#FI_\(F1\) "wikilink"))のレース中継を、原則として毎週火曜日に行っていた。
 
 ## 放送時間
 
@@ -18,8 +18,8 @@
 
 ## 過去の出演
 
-  - [岸根正朋](https://ja.wikipedia.org/wiki/岸根正朋 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink"))
-  - [篠永有美子](https://ja.wikipedia.org/wiki/篠永有美子 "wikilink")（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink"))
+  - [岸根正朋](https://ja.wikipedia.org/wiki/岸根正朋 "wikilink")（[2005年](../Page/2005年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink"))
+  - [篠永有美子](https://ja.wikipedia.org/wiki/篠永有美子 "wikilink")（[2005年](../Page/2005年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")～[2006年](../Page/2006年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink"))
   - [馬谷優美子](https://ja.wikipedia.org/wiki/馬谷優美子 "wikilink")（[2006年](../Page/2006年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink"))
 
 ## 特別編成時の処置　

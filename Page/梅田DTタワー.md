@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、通称「[ダイヤモンド地区](../Page/ダイヤモンド地区.md "wikilink")」と呼ばれる場所に完成した。世界初となる[ハイブリッド](https://ja.wikipedia.org/wiki/ハイブリッド "wikilink")[免震](../Page/免震.md "wikilink")システム（中間層免震）や免震エレベータが採用されていて、比較的地震に強いのが特徴である。
+[2003年](../Page/2003年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、通称「[ダイヤモンド地区](../Page/ダイヤモンド地区.md "wikilink")」と呼ばれる場所に完成した。世界初となる[ハイブリッド](../Page/ハイブリッド.md "wikilink")[免震](../Page/免震.md "wikilink")システム（中間層免震）や免震エレベータが採用されていて、比較的地震に強いのが特徴である。
 
 設計・施工共に[竹中工務店](../Page/竹中工務店.md "wikilink")が担当し、そのグループ企業である[TAKリアルティ](https://ja.wikipedia.org/wiki/TAKリアルティ "wikilink")（旧竹中不動産）が所有・管理している。計画当初は、上から見たら菱形、横から見たら下層部が斜めになっている[ダイヤモンド](../Page/ダイヤモンド.md "wikilink")のような外観をしていた\[1\]。 敷地面積の約55%を[公開空地](../Page/公開空地.md "wikilink")としており、隣接するビルとの間の空間が十分に確保されている。
 

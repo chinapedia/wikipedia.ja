@@ -1,7 +1,7 @@
 > この記事は[UP](https://ja.wikipedia.org/wiki/UP)から翻訳されています。
 
 
-**土曜えき☆スタUP**（**どようえきすたあっぷ**）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[9月24日](../Page/9月24日.md "wikilink")にかけて、[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）で毎週[土曜日](../Page/土曜日.md "wikilink")の12:00～12:55の時間帯で放送されていた[ローカル番組](../Page/ローカル番組.md "wikilink")で[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+**土曜えき☆スタUP**（**どようえきすたあっぷ**）は、[2005年](../Page/2005年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[9月24日](../Page/9月24日.md "wikilink")にかけて、[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）で毎週[土曜日](../Page/土曜日.md "wikilink")の12:00～12:55の時間帯で放送されていた[ローカル番組](../Page/ローカル番組.md "wikilink")で[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
 ## 概要
 

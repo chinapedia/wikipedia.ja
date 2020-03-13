@@ -22,7 +22,7 @@
       - 汐留AX（SHIODOME-AX） - [日本テレビタワー](../Page/日本テレビタワー.md "wikilink")1階に存在したオープンスタジオ、イベントスペース、ライブハウス。SHIBUYA-AX の姉妹版。
       - [AX MUSIC-TV](../Page/AX_MUSIC-TV.md "wikilink") - 日本テレビ系列で放送されていた音楽番組。
       - [日テレアックスオン](../Page/日テレアックスオン.md "wikilink")（通称：AX-ON） - テレビ番組の企画制作等を行う[日テレグループの企業](https://ja.wikipedia.org/wiki/日テレグループ企画 "wikilink")。
-  - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ICカード](../Page/ICカード.md "wikilink")技術開発企業[アクサルト](https://ja.wikipedia.org/wiki/アクサルト "wikilink")およびその後身企業である[ジェムアルト](https://ja.wikipedia.org/wiki/ジェムアルト "wikilink")の略称。
+  - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ICカード](../Page/ICカード.md "wikilink")技術開発企業[アクサルト](https://ja.wikipedia.org/wiki/アクサルト "wikilink")およびその後身企業である[ジェムアルト](../Page/ジェムアルト.md "wikilink")の略称。
   - [シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")が生産していた小型乗用車[シトロエン・AX](../Page/シトロエン・AX.md "wikilink")の通称。
 
 ## コード・形式名
@@ -30,10 +30,10 @@
   - AX - [国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")）で、[オーランド諸島](../Page/オーランド諸島.md "wikilink")を示す。
       - [.ax](../Page/.ax.md "wikilink") - オーランド諸島の[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")（ccTLD）。
   - AX - [IATA航空会社コード（2レターコード）で](https://ja.wikipedia.org/wiki/航空会社コード#IATA航空会社コード（2レターコード） "wikilink")[トランス・ステイツ航空](../Page/トランス・ステイツ航空.md "wikilink")を示す。
-  - [AX](https://ja.wikipedia.org/wiki/AUTECH "wikilink") - [日産自動車](../Page/日産自動車.md "wikilink")グループの企業・[オーテックジャパン](https://ja.wikipedia.org/wiki/オーテックジャパン "wikilink")が手掛けた[セドリック](https://ja.wikipedia.org/wiki/日産・セドリック "wikilink")、[グロリアおよび](../Page/日産・グロリア.md "wikilink")[セフィーロの特別仕様車の呼称](../Page/日産・セフィーロ.md "wikilink")。
+  - [AX](https://ja.wikipedia.org/wiki/AUTECH "wikilink") - [日産自動車](../Page/日産自動車.md "wikilink")グループの企業・[オーテックジャパン](../Page/オーテックジャパン.md "wikilink")が手掛けた[セドリック](../Page/日産・セドリック.md "wikilink")、[グロリアおよび](../Page/日産・グロリア.md "wikilink")[セフィーロの特別仕様車の呼称](../Page/日産・セフィーロ.md "wikilink")。
   - ax - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")の動画IDで、[avex公式動画を表す](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
   - AX - [近鉄2800系電車の電算記号](https://ja.wikipedia.org/wiki/近鉄2600系電車#2800系 "wikilink")(他社でいう編成番号)。
-  - AX - [シャープ](../Page/シャープ.md "wikilink")製[ウォーターオーブン](https://ja.wikipedia.org/wiki/ウォーターオーブン "wikilink")「[ヘルシオ](https://ja.wikipedia.org/wiki/ヘルシオ "wikilink")」の型番。
+  - AX - [シャープ](../Page/シャープ.md "wikilink")製[ウォーターオーブン](https://ja.wikipedia.org/wiki/ウォーターオーブン "wikilink")「[ヘルシオ](../Page/ヘルシオ.md "wikilink")」の型番。
 
 ## 関連項目
 

@@ -1,7 +1,7 @@
 > この記事は[AA](https://ja.wikipedia.org/wiki/AA)から翻訳されています。
 
 
-『**金のA様×銀のA様**』（きんのエーさま ぎんのエーさま）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")まで毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")19:58 - 20:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
+『**金のA様×銀のA様**』（きんのエーさま ぎんのエーさま）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")まで毎週[木曜日](../Page/木曜日.md "wikilink")19:58 - 20:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。
 
 ## 番組概要
 
@@ -25,7 +25,7 @@
 **ナレーター**
 
   - [木村匡也](../Page/木村匡也.md "wikilink")
-  - [宗矢樹頼](https://ja.wikipedia.org/wiki/宗矢樹頼 "wikilink")
+  - [宗矢樹頼](../Page/宗矢樹頼.md "wikilink")
   - [高乃麗](../Page/高乃麗.md "wikilink")
 
 ## 内容
@@ -39,7 +39,7 @@
 ## スタッフ
 
   - 企画／演出：[東井文太](https://ja.wikipedia.org/wiki/東井文太 "wikilink")
-  - 構成：山根真吾 / [石原健次](../Page/石原健次.md "wikilink")、カニリカ、[山名宏和](../Page/山名宏和.md "wikilink")、[福原フトシ](../Page/福原フトシ.md "wikilink")、[桝本壮志](https://ja.wikipedia.org/wiki/桝本壮志 "wikilink")、保谷大太、マツピロ / 田中直人（田中→2005年9月8日 - ）
+  - 構成：山根真吾 / [石原健次](../Page/石原健次.md "wikilink")、カニリカ、[山名宏和](../Page/山名宏和.md "wikilink")、[福原フトシ](../Page/福原フトシ.md "wikilink")、[桝本壮志](../Page/桝本壮志.md "wikilink")、保谷大太、マツピロ / 田中直人（田中→2005年9月8日 - ）
   - ナレーター：木村匡也、宗矢樹頼、高乃麗
   - TM（テクニカルマネージャー）：[福王寺貴之](https://ja.wikipedia.org/wiki/福王寺貴之 "wikilink")
   - SW（スイッチャー）：米田博之
@@ -70,7 +70,7 @@
   - ディレクター：鈴木守、奥村竜、須藤拓也、黄木美奈子、鈴木基之、鈴木豊人 / 山口智也、中山準士、岡田直也、森栄一郎、福元洋之、笠原裕、小笠原豪、高野透矢、岩山夏子、久保信広、持田順也、高戸大悟、佐谷直子、芝崎孝雄、平野進、永井大輔
   - プロデューサー：首藤由紀子（2005年10月20日 -、2005年4月28日 - 9月8日まではプロデューサー） / 阿河朋子、小川潔、尾崎正浩、神尾育代、斎藤みさ子
   - チーフプロデューサー：磯野太（2005年6月23日 -、2005年4月28日 - 6月9日まではプロデューサー）
-  - 制作協力：[えすと](https://ja.wikipedia.org/wiki/えすと "wikilink")、[創輝](https://ja.wikipedia.org/wiki/創輝 "wikilink")、[いまじん](../Page/いまじん_\(テレビ制作会社\).md "wikilink")、[NCV](https://ja.wikipedia.org/wiki/ニッポンクリエイティブビジョン "wikilink")、[モスキート](../Page/モスキート_\(テレビ制作会社\).md "wikilink")
+  - 制作協力：[えすと](../Page/えすと.md "wikilink")、[創輝](../Page/創輝.md "wikilink")、[いまじん](../Page/いまじん_\(テレビ制作会社\).md "wikilink")、[NCV](../Page/ニッポンクリエイティブビジョン.md "wikilink")、[モスキート](../Page/モスキート_\(テレビ制作会社\).md "wikilink")
   - 製作著作：日本テレビ
 
 ### 過去のスタッフ

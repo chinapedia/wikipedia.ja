@@ -1,19 +1,19 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-『**久米宏のTVスクランブル**』（くめひろしのテレビスクランブル）は、[1982年](../Page/1982年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[日本テレビで放送された](../Page/日本テレビ放送網.md "wikilink")[生放送](../Page/生放送.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、[久米宏](https://ja.wikipedia.org/wiki/久米宏 "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 20:00 - 20:54 ([JST](../Page/日本標準時.md "wikilink")) 。
+『**久米宏のTVスクランブル**』（くめひろしのテレビスクランブル）は、[1982年](../Page/1982年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[日本テレビで放送された](../Page/日本テレビ放送網.md "wikilink")[生放送](../Page/生放送.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、[久米宏](../Page/久米宏.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 20:00 - 20:54 ([JST](../Page/日本標準時.md "wikilink")) 。
 
 1983年、第15回テレビ大賞優秀番組賞受賞。1984年、第1回[ATP賞最優秀賞受賞](https://ja.wikipedia.org/wiki/全日本テレビ番組製作社連盟 "wikilink")。
 
 ## 番組概要
 
-番組は毎回旬の話題をビデオ構成で取り上げ、それについての感想をメインパーソナリティの[久米宏](https://ja.wikipedia.org/wiki/久米宏 "wikilink")と[横山やすし](../Page/横山やすし.md "wikilink")、当時日本テレビ[ニュースキャスター](../Page/ニュースキャスター.md "wikilink")・解説委員だった[福富達](https://ja.wikipedia.org/wiki/福富達 "wikilink")らがコメントするというものだった。他にはアシスタントに[渡辺みなみ](https://ja.wikipedia.org/wiki/渡辺みなみ "wikilink")、ビデオコーナーには[伊藤克信](../Page/伊藤克信.md "wikilink")や「ハリセンおじさん」こと[チャンバラトリオ](https://ja.wikipedia.org/wiki/チャンバラトリオ "wikilink")の伊吹太郎らが出演した。横山やすしの出演は久米自身の強い希望であった。番組の生放送は[日本テレビ北本館（当時）](../Page/日本テレビ放送網麹町分室.md "wikilink")5階Kスタジオで行われた。
+番組は毎回旬の話題をビデオ構成で取り上げ、それについての感想をメインパーソナリティの[久米宏](../Page/久米宏.md "wikilink")と[横山やすし](../Page/横山やすし.md "wikilink")、当時日本テレビ[ニュースキャスター](../Page/ニュースキャスター.md "wikilink")・解説委員だった[福富達](https://ja.wikipedia.org/wiki/福富達 "wikilink")らがコメントするというものだった。他にはアシスタントに[渡辺みなみ](https://ja.wikipedia.org/wiki/渡辺みなみ "wikilink")、ビデオコーナーには[伊藤克信](../Page/伊藤克信.md "wikilink")や「ハリセンおじさん」こと[チャンバラトリオ](../Page/チャンバラトリオ.md "wikilink")の伊吹太郎らが出演した。横山やすしの出演は久米自身の強い希望であった。番組の生放送は[日本テレビ北本館（当時）](../Page/日本テレビ放送網麹町分室.md "wikilink")5階Kスタジオで行われた。
 
 「構想3年、放送2年半」というクオリティで、1984年の[全日本テレビ番組製作社連盟](https://ja.wikipedia.org/wiki/全日本テレビ番組製作社連盟 "wikilink")による第1回ATP賞の最優秀賞を受賞。メイン[パーソナリティの久米も同時に個人賞を受賞した](../Page/ラジオパーソナリティ.md "wikilink")。
 
 久米とやすしのやりとりや斬新な企画は人気を集めたが、生放送が故にトラブルも多かった。特にやすしは生放送中にもかかわらず、酒に酔った状態で出演して（[横山やすし・西川きよし](../Page/横山やすし・西川きよし.md "wikilink")のマネージャーを務めたことのあるフリープロデューサーの[木村政雄](../Page/木村政雄.md "wikilink")は「この番組に出演し始めた頃からやすしさんが酒を飲んで仕事をするようになった」と後に語っている）暴言を吐いたほか、暴言が問題になった翌週には「今日は[黙秘権](../Page/黙秘権.md "wikilink")」と発言を一切拒否したり、また[放送禁止用語](../Page/放送禁止用語.md "wikilink")も頻発するなどの問題行動を起こし（本番中にトイレに行ってしまったこともあった）、後述の選挙特番中に[くしゃみ](../Page/くしゃみ.md "wikilink")をして、観客に「鼻かみ（[ティッシュペーパー](../Page/ティッシュペーパー.md "wikilink")）持ってないか」と声をかけて、久米が「生放送中なんだからティッシュペーパーなんか取りに行かないで\!\!誰かティッシュあげて下さい\!\!」とあきれるシーンがあったり、1984年11月に渋滞が原因で飛行機に乗り遅れ、番組の出演に穴を開けたのをきっかけに降板したが、こうしたハプニングを期待する新たなタイプの視聴者もいた。やすしが降板した後は毎回ゲストを呼ぶ形式となり、[立川談志](../Page/立川談志.md "wikilink")・[清水國明](https://ja.wikipedia.org/wiki/清水國明 "wikilink")・[とんねるず](../Page/とんねるず.md "wikilink")のほか、政治家では[渡辺美智雄](../Page/渡辺美智雄.md "wikilink")、[森喜朗](../Page/森喜朗.md "wikilink")、[渡部恒三](../Page/渡部恒三.md "wikilink")などが出演している。
 
-放送日に国政[選挙](../Page/選挙.md "wikilink")が行われる日には、『**久米宏のTV選挙スクランブル**』と題して放送時間を拡大して放送した。この中で、落選した候補者には、[葬送行進曲](https://ja.wikipedia.org/wiki/葬送行進曲 "wikilink")（[風船割りゲームで全滅した時の音](../Page/サーカス_\(ゲーム\).md "wikilink")）を流し、候補者の顔写真が落ちていくという演出を行い、今の選挙番組とは一線を画すものであった。通常番組の各コーナーを選挙用にしたVTRも放送された（国会の赤じゅうたんの値段や、後述の「兆しコーナー」を使った「落選の兆し」など）。
+放送日に国政[選挙](../Page/選挙.md "wikilink")が行われる日には、『**久米宏のTV選挙スクランブル**』と題して放送時間を拡大して放送した。この中で、落選した候補者には、[葬送行進曲](../Page/葬送行進曲.md "wikilink")（[風船割りゲームで全滅した時の音](../Page/サーカス_\(ゲーム\).md "wikilink")）を流し、候補者の顔写真が落ちていくという演出を行い、今の選挙番組とは一線を画すものであった。通常番組の各コーナーを選挙用にしたVTRも放送された（国会の赤じゅうたんの値段や、後述の「兆しコーナー」を使った「落選の兆し」など）。
 
 番組で熱帯雨林減少の問題を取り上げた際、日本が問題に大きく係わっている内容であった。そのため、少しでもその問題の改善になればとそれ以降、番組の進行表を、新聞の折込チラシの裏側に書き入れ、出演者・スタッフともにそのまま本番中にそれを使用するとともに、引き続きそれをアピールしながら問題提起を行っていた。
 
@@ -26,7 +26,7 @@
   - こんなに違う
     幼稚園と保育所、カメラ量販店と街のカメラ屋さん、[後楽園球場](../Page/後楽園球場.md "wikilink")の[巨人戦と](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")[日本ハム戦](../Page/北海道日本ハムファイターズ.md "wikilink")\[2\]などを同時かつ多角的に比較していた。
   - なんでもベスト5
-    「[ミスコン](https://ja.wikipedia.org/wiki/ミスコン "wikilink")優勝者に聞く、美人で損したこと」「新潟県民に聞く[田中角栄](https://ja.wikipedia.org/wiki/田中角栄 "wikilink")の功績」など、さまざまなランキングを発表する。[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")がゲストで出演した際、久米が『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』と間違えて「今週の第○位」と言ってしまったことがあった。
+    「[ミスコン](https://ja.wikipedia.org/wiki/ミスコン "wikilink")優勝者に聞く、美人で損したこと」「新潟県民に聞く[田中角栄](../Page/田中角栄.md "wikilink")の功績」など、さまざまなランキングを発表する。[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")がゲストで出演した際、久米が『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』と間違えて「今週の第○位」と言ってしまったことがあった。
   - ザッツ・マネー
     「一生にかかる儀式の金額」や「家の物をすべて質屋に預けたときに手に入る金額」など、世の中の事象を金額に換算する。
   - 限定情報
@@ -34,7 +34,7 @@
   - 兆しコーナー
     「浪人の兆し」「老人ボケの兆し」など、このような事象が現れたら要注意ということを紹介する。
   - 今週のカタログ
-    「銭湯の絵はこんなにある」とか「[忠臣蔵](https://ja.wikipedia.org/wiki/忠臣蔵 "wikilink")には現代の法律ではこれだけの数の犯罪がある」など、いろいろな種類のものを一挙に見せる。
+    「銭湯の絵はこんなにある」とか「[忠臣蔵](../Page/忠臣蔵.md "wikilink")には現代の法律ではこれだけの数の犯罪がある」など、いろいろな種類のものを一挙に見せる。
   - 今週の赤ちゃん
     動物の赤ちゃんの映像を[ビデオクリップ](https://ja.wikipedia.org/wiki/ビデオクリップ "wikilink")風に流す人気コーナー。エンディング前に放送されていた。後にビデオにまとめられ、『赤ちゃんスクランブル』の題名で販売もされた。
   - 日本全国美人妻
@@ -94,7 +94,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -173,7 +173,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京広域圏</a></p></td>
 <td><p><a href="../Page/中京テレビ放送.md" title="wikilink">中京テレビ</a></p></td>
 <td></td>
 <td></td>
@@ -231,7 +231,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>

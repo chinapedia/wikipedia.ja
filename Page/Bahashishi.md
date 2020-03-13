@@ -3,7 +3,7 @@
 
 **Bahashishi**（バハシシ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2003年11月結成。
 
-2006年[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")「Aer-born」レーベル第一弾アーティストとしてメジャーデビュー。プロデューサーは[朝本浩文](https://ja.wikipedia.org/wiki/朝本浩文 "wikilink")。バンド名は[スワヒリ語](https://ja.wikipedia.org/wiki/スワヒリ語 "wikilink")で「こころ」という意味。**「音楽の中にある心の世界へ」**をテーマとしている。2007年9月5日[コロムビアミュージックエンタテインメントより第一弾シングル](../Page/日本コロムビア.md "wikilink")「オアシス」をリリース。 2009年11月18日[FlyingStar Recordsより配信シングル](https://ja.wikipedia.org/wiki/FlyingStar_Records "wikilink")「Tomorrow」をリリース。
+2006年[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")「Aer-born」レーベル第一弾アーティストとしてメジャーデビュー。プロデューサーは[朝本浩文](../Page/朝本浩文.md "wikilink")。バンド名は[スワヒリ語](https://ja.wikipedia.org/wiki/スワヒリ語 "wikilink")で「こころ」という意味。**「音楽の中にある心の世界へ」**をテーマとしている。2007年9月5日[コロムビアミュージックエンタテインメントより第一弾シングル](../Page/日本コロムビア.md "wikilink")「オアシス」をリリース。 2009年11月18日[FlyingStar Recordsより配信シングル](https://ja.wikipedia.org/wiki/FlyingStar_Records "wikilink")「Tomorrow」をリリース。
 
 ## メンバー
 
@@ -60,7 +60,7 @@
 　　　　　supported by SPACE SHOWER TV & Weeklyぴあ」を開催し、応募者が殺到
 
   - 4月29日 「[ARABAKI](https://ja.wikipedia.org/wiki/ARABAKI "wikilink") ROCK FEST.06'」デビュー前にしてメインステージに出演
-  - 5月 デビュー・アルバム「心の世界」の収録曲「月の呼吸」が[TBS系テレビ](../Page/TBSテレビ.md "wikilink")「[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」
+  - 5月 デビュー・アルバム「心の世界」の収録曲「月の呼吸」が[TBS系テレビ](../Page/TBSテレビ.md "wikilink")「[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")」
 
 　　　5月度エンディングテーマとしてオンエア
 
@@ -149,10 +149,10 @@
 <td><p><strong>オアシス</strong></p></td>
 <td><p>COCA-51045</p></td>
 <td><ol>
-<li>オアシス【作詞:ユラリ/作曲:Bahashishi/編曲:Bahashishi,<a href="https://ja.wikipedia.org/wiki/朝本浩文" title="wikilink">朝本浩文</a>】
+<li>オアシス【作詞:ユラリ/作曲:Bahashishi/編曲:Bahashishi,<a href="../Page/朝本浩文.md" title="wikilink">朝本浩文</a>】
 <dl>
 <dt></dt>
-<dd>日本テレビ系全国ネット「<a href="https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」（毎週金曜24:50 - 25:45）8月エンディングテーマ、9月POWER PLAY
+<dd>日本テレビ系全国ネット「<a href="../Page/音楽戦士_MUSIC_FIGHTER.md" title="wikilink">音楽戦士 MUSIC FIGHTER</a>」（毎週金曜24:50 - 25:45）8月エンディングテーマ、9月POWER PLAY
 </dd>
 </dl></li>
 <li>clover【作詞:ユラリ/作曲:Bahashishi/編曲:Bahashishi,朝本浩文】
@@ -185,7 +185,7 @@
 </ol>
 <dl>
 <dt></dt>
-<dd>・CD EXTRA「約束」PVメイキング映像（PV出演：佐藤健・水沢エレナ・<a href="https://ja.wikipedia.org/wiki/ブライス_(人形)" title="wikilink">ブライス（Blythe）他</a>）
+<dd>・CD EXTRA「約束」PVメイキング映像（PV出演：佐藤健・水沢エレナ・<a href="../Page/ブライス_(人形).md" title="wikilink">ブライス（Blythe）他</a>）
 </dd>
 </dl></td>
 <td><p>オリコン最高60位</p></td>
@@ -199,7 +199,7 @@
 <li>キセキ【作詞:ユラリ/作曲:明日香/編曲:Bahashishi,朝本浩文】
 <dl>
 <dt></dt>
-<dd>TBS系TV「<a href="https://ja.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>」2・3月度エンディングテーマ
+<dd>TBS系TV「<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>」2・3月度エンディングテーマ
 </dd>
 </dl></li>
 <li>KATSUBOU【作詞作曲:ユラリ/編曲:Bahashishi,朝本浩文】</li>
@@ -302,7 +302,7 @@
 <li>月の呼吸
 <dl>
 <dt></dt>
-<dd><a href="../Page/TBSテレビ.md" title="wikilink">TBS系テレビ</a>「<a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">CDTV</a>」2006年5月度エンディングテーマ。新人アーティストとしては異例の10万ダウンロード突破。
+<dd><a href="../Page/TBSテレビ.md" title="wikilink">TBS系テレビ</a>「<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">CDTV</a>」2006年5月度エンディングテーマ。新人アーティストとしては異例の10万ダウンロード突破。
 </dd>
 </dl></li>
 <li>渇望</li>

@@ -1,15 +1,15 @@
 > この記事は[A SAINT IN THE NIGHT](https://ja.wikipedia.org/wiki/A_SAINT_IN_THE_NIGHT)から翻訳されています。
 
 
-『**A SAINT IN THE NIGHT**』（ア セイント イン ザ ナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[沢田研二](../Page/沢田研二.md "wikilink")のカバー[アルバム](../Page/アルバム.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")[東芝EMIよりリリース](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+『**A SAINT IN THE NIGHT**』（ア セイント イン ザ ナイト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[沢田研二](../Page/沢田研二.md "wikilink")のカバー[アルバム](../Page/アルバム.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")[東芝EMIよりリリース](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 解説
 
-本作は一種の企画作品で、[ジャズ](../Page/ジャズ.md "wikilink")や映画主題歌などのスタンダードソングを集めたアルバムである。沢田はかつて[1984年](../Page/1984年.md "wikilink")に、やはりスタンダードジャズとして名高い「アマポーラ（AMAPOLA）」を同様のコンセプト（[湯川れい子](https://ja.wikipedia.org/wiki/湯川れい子 "wikilink")による日本語詞、フルオーケストラ演奏）で制作したことがあり、本作はその企画をさらに追求した作品である。
+本作は一種の企画作品で、[ジャズ](../Page/ジャズ.md "wikilink")や映画主題歌などのスタンダードソングを集めたアルバムである。沢田はかつて[1984年](../Page/1984年.md "wikilink")に、やはりスタンダードジャズとして名高い「アマポーラ（AMAPOLA）」を同様のコンセプト（[湯川れい子](../Page/湯川れい子.md "wikilink")による日本語詞、フルオーケストラ演奏）で制作したことがあり、本作はその企画をさらに追求した作品である。
 
 全ての歌詞は、[覚和歌子](../Page/覚和歌子.md "wikilink")による日本語の書き下ろしに改められている。またそれに伴い各曲のタイトルも、日本で一般的に定着している邦題とは異なるものがある。そのため、カバーアルバムではあるが、メロディー以外はオリジナル作品に近いともいえる。
 
-演奏は全て、編曲を担当した[服部隆之](https://ja.wikipedia.org/wiki/服部隆之 "wikilink")の指揮によるフルオーケストラである。沢田の歌唱もメロウで囁くようなものが多い。
+演奏は全て、編曲を担当した[服部隆之](../Page/服部隆之.md "wikilink")の指揮によるフルオーケストラである。沢田の歌唱もメロウで囁くようなものが多い。
 
 東名阪で開催されたコンサートも服部隆之指揮のもとフルオーケストラの演奏で行われた。（当時のバックバンドJAZZ MASTERから唯一、[村上ポンタ秀一](https://ja.wikipedia.org/wiki/村上ポンタ秀一 "wikilink")が参加。またピアニスト[佐山雅弘](../Page/佐山雅弘.md "wikilink")が沢田と初共演を果たしている。）
 
@@ -19,9 +19,9 @@
 
 ## 収録曲
 
-1.  **[誰かが僕をみつめてる](https://ja.wikipedia.org/wiki/サムワン・トゥ・ウォッチ・オーバー・ミー "wikilink")**
+1.  **[誰かが僕をみつめてる](../Page/サムワン・トゥ・ウォッチ・オーバー・ミー.md "wikilink")**
       -
-        （作詞:[アイラ・ガーシュウィン](https://ja.wikipedia.org/wiki/アイラ・ガーシュウィン "wikilink")、作曲:[ジョージ・ガーシュウィン](../Page/ジョージ・ガーシュウィン.md "wikilink")）
+        （作詞:[アイラ・ガーシュウィン](../Page/アイラ・ガーシュウィン.md "wikilink")、作曲:[ジョージ・ガーシュウィン](../Page/ジョージ・ガーシュウィン.md "wikilink")）
 2.  **薔薇の行方**
       -
         （作詞:Jimmy Davis/Roger'Ram'Ramirez/Jimmy Sherman、作曲:Jimmy Davis/Roger'Ram'Ramirez/Jimmy Sherman）
@@ -77,10 +77,10 @@
         [1965年](../Page/1965年.md "wikilink")にヒットした、ピーター・アンド・ゴードン (PETER & GORDON) の楽曲。
 5.  **[AS TIME GOES BY](https://ja.wikipedia.org/wiki/アズ・タイム・ゴーズ・バイ "wikilink")**（時の過ぎ行くままに）
       -
-        [1931年](../Page/1931年.md "wikilink")にハーマン・ハプフェルドによって書かれた楽曲。[1942年](../Page/1942年.md "wikilink")の映画『[カサブランカ](https://ja.wikipedia.org/wiki/カサブランカ_\(映画\) "wikilink")』主題歌。
+        [1931年](../Page/1931年.md "wikilink")にハーマン・ハプフェルドによって書かれた楽曲。[1942年](../Page/1942年.md "wikilink")の映画『[カサブランカ](../Page/カサブランカ_\(映画\).md "wikilink")』主題歌。
 6.  **FACINATION**（魅惑のワルツ）
       -
-        [1957年](../Page/1957年.md "wikilink")の映画『[昼下りの情事](https://ja.wikipedia.org/wiki/昼下りの情事 "wikilink")』挿入歌。
+        [1957年](../Page/1957年.md "wikilink")の映画『[昼下りの情事](../Page/昼下りの情事.md "wikilink")』挿入歌。
 7.  **ONE MORE KISS,DEAR**（ワン・モア・キッス）
       -
         [1982年](../Page/1982年.md "wikilink")の映画『[ブレードランナー](../Page/ブレードランナー.md "wikilink")』挿入歌。

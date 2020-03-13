@@ -1,7 +1,7 @@
 > この記事は[7Flowers](https://ja.wikipedia.org/wiki/7Flowers)から翻訳されています。
 
 
-**7Flowers**（**セブンフラワーズ**、漢名：**七朵花**）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")、[喬傑立](https://ja.wikipedia.org/wiki/喬傑立 "wikilink")（J☆STAR）に所属する女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ。[2004年](../Page/2004年.md "wikilink")まで、メンバーは7人いたが、3人が退団し[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月以降は4人で、[歌](../Page/歌.md "wikilink")や[テレビドラマ](../Page/テレビドラマ.md "wikilink")、[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")と広く活動している、台湾では人気のグループ。
+**7Flowers**（**セブンフラワーズ**、漢名：**七朵花**）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")、[喬傑立](../Page/喬傑立.md "wikilink")（J☆STAR）に所属する女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ。[2004年](../Page/2004年.md "wikilink")まで、メンバーは7人いたが、3人が退団し[2005年](../Page/2005年.md "wikilink")3月以降は4人で、[歌](../Page/歌.md "wikilink")や[テレビドラマ](../Page/テレビドラマ.md "wikilink")、[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")と広く活動している、台湾では人気のグループ。
 
 ## 来歴
 

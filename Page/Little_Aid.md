@@ -1,7 +1,7 @@
 > この記事は[Little Aid](https://ja.wikipedia.org/wiki/Little_Aid)から翻訳されています。
 
 
-『**Little Aid**』（リトルエイド）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月17日](../Page/6月17日.md "wikilink")に[TAKUYO](https://ja.wikipedia.org/wiki/TAKUYO "wikilink")から発売された[PC用の](../Page/パーソナルコンピュータ.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")（[乙女ゲーム](https://ja.wikipedia.org/wiki/乙女ゲーム "wikilink")）。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月23日](../Page/11月23日.md "wikilink")には攻略対象キャラを追加した[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2007年](../Page/2007年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")には[PSP版が発売された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。
+『**Little Aid**』（リトルエイド）は、[2005年](../Page/2005年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")に[TAKUYO](https://ja.wikipedia.org/wiki/TAKUYO "wikilink")から発売された[PC用の](../Page/パーソナルコンピュータ.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")（[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")）。[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")には攻略対象キャラを追加した[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2007年](../Page/2007年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")には[PSP版が発売された](../Page/PlayStation_Portable.md "wikilink")。
 
 ## 概要
 
@@ -14,7 +14,7 @@
 ## 登場人物
 
   - 西村 あかり（にしむら あかり）
-    [声](../Page/声優.md "wikilink")：[長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")（名前変換・音声オフ可能、デフォルト名を入力すると、名前をボイス付で呼ばれる）
+    [声](../Page/声優.md "wikilink")：[長沢美樹](../Page/長沢美樹.md "wikilink")（名前変換・音声オフ可能、デフォルト名を入力すると、名前をボイス付で呼ばれる）
     天鳳高校1年生。主人公。風紀委員。料理が下手。
   - 匣 耕介（くしげ こうすけ）
     声：[岩永哲哉](../Page/岩永哲哉.md "wikilink")
@@ -23,16 +23,16 @@
     声：[石田彰](../Page/石田彰.md "wikilink")
     天鳳高校OBの19歳。卒業前は生徒会に所属していた。花屋でバイトするフリーター。自称フェミニスト。5月29日生まれ。
   - 花邑 創（はなむら はじめ）
-    声：[杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
+    声：[杉田智和](../Page/杉田智和.md "wikilink")
     天鳳高校2年生。様々な不幸が重なり近所の灯台で一人暮らし。コンビニでバイトをしている。常に空腹状態。7月18日生まれ。
   - 西村 ふみ（にしむら ふみ）
     声：[関智一](../Page/関智一.md "wikilink")
     天鳳高校1年生。あかりの双子の弟。生徒会所属。あかりと違い成績が良く世渡り上手。見えなくていいものが見える体質。
   - 沢登 譲（さわと ゆずる）
-    声：[小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink")
+    声：[小野大輔](../Page/小野大輔.md "wikilink")
     天鳳高校2年生。風紀委員長。いつも女装をしている。ワンマンなトラブルメーカー。9月20日生まれ。B型。
   - 堤 千弦（つつみ ちづる）
-    声：[坪井智浩](https://ja.wikipedia.org/wiki/坪井智浩 "wikilink")
+    声：[坪井智浩](../Page/坪井智浩.md "wikilink")
     天鳳高校1年生。ふみのクラスメイト。演劇部期待のホープ。オネエ言葉を話す。わけあって1年留年している。11月3日生まれ。
   - 土師 博巳（はじ ひろみ）
     声：坪井智浩
@@ -44,7 +44,7 @@
     声：[沢城みゆき](../Page/沢城みゆき.md "wikilink")
     天鳳高校1年生。あかりのクラスメイトで友人。演劇部所属。おっとりしている努力家。
   - 広瀬 希世子（ひろせ きよこ）
-    声：[岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")
+    声：[岡村明美](../Page/岡村明美.md "wikilink")
     天鳳高校1年生。あかりのクラスメイトで友人。美術部所属。明るいクラスのムードメーカーで、耕介とは仲がいい。
   - 澤村 寧音（さわむら ねね）
     声：沢城みゆき
@@ -56,7 +56,7 @@
     声：岡村明美
     耕介の母。父の入院先で知り合う。
   - 内沼 葛（ぬいぬま かずら）
-    声：[鈴木達央](https://ja.wikipedia.org/wiki/鈴木達央 "wikilink")
+    声：[鈴木達央](../Page/鈴木達央.md "wikilink")
     天鳳高校2年生。風紀委員。ヌイナイコンビのボケの方。
   - 乃凪 範尚（ないなぎ　のりひさ）
     声：杉田智和

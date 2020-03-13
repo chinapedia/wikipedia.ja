@@ -24,7 +24,7 @@
   - [三菱電機](../Page/三菱電機.md "wikilink")の2HDのIBM形式は、ディスクの回転速度が300RPMである。フォーマット後の容量は「IBM Diskette 2D」に合わせて985KBとなっている。
   - [富士通](../Page/富士通.md "wikilink")では、[セクタサイズ](https://ja.wikipedia.org/wiki/ディスクセクタ "wikilink")1024バイトでありながら、その他の仕様が「IBM Diskette 2D」に準拠した形式も扱う。
   - [東芝](../Page/東芝.md "wikilink")のレガシーコンピュータではIBM形式と似たフォーマットを採用する。特徴はインデックス領域が[JIS X 0201の](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")8ビット符号表現(JIS8)で表現されていることである。
-  - [特許](https://ja.wikipedia.org/wiki/特許 "wikilink")出願形式と呼ばれるものもIBM形式と似ている。東芝形式と同じくインデックス領域をJIS8で表現する。この特許出願形式をIBM形式と呼ぶことはない。
+  - [特許](../Page/特許.md "wikilink")出願形式と呼ばれるものもIBM形式と似ている。東芝形式と同じくインデックス領域をJIS8で表現する。この特許出願形式をIBM形式と呼ぶことはない。
 
 主なフォーマットの種類には以下がある。
 

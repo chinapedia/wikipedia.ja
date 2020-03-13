@@ -6,7 +6,7 @@
 ## 解説
 
   - 初回限定盤のみカラートレイ仕様。
-  - 「スター」は、[東宝](../Page/東宝.md "wikilink")配給映画『[あらしのよるに](../Page/あらしのよるに.md "wikilink")』主題歌で「[あした](https://ja.wikipedia.org/wiki/あした_\(aikoの曲\) "wikilink")」以来7年ぶりの映画主題歌となった\[1\]。この曲で[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")に通算4度目の出場を果たした。PVの撮影は北海道・[旭岳](../Page/旭岳.md "wikilink")で行われた。
+  - 「スター」は、[東宝](../Page/東宝.md "wikilink")配給映画『[あらしのよるに](../Page/あらしのよるに.md "wikilink")』主題歌で「[あした](../Page/あした_\(aikoの曲\).md "wikilink")」以来7年ぶりの映画主題歌となった\[1\]。この曲で[第56回NHK紅白歌合戦](../Page/第56回NHK紅白歌合戦.md "wikilink")に通算4度目の出場を果たした。PVの撮影は北海道・[旭岳](../Page/旭岳.md "wikilink")で行われた。
   - 2011年、[生田絵梨花](https://ja.wikipedia.org/wiki/生田絵梨花 "wikilink")が[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")1期生オーディションの最終（5次）審査で「スター」を歌い合格した\[2\]。2次審査で歌った「[カブトムシ](../Page/カブトムシ_\(aikoの曲\).md "wikilink")」、4次審査で歌った[I WiSHの](https://ja.wikipedia.org/wiki/I_WiSH "wikilink")「[明日への扉](../Page/明日への扉_\(I_WiSHの曲\).md "wikilink")」と共に思い出の3曲として挙げている\[3\]。
 
 ## 収録曲

@@ -5,9 +5,9 @@
 
 ## メンバー
 
-  - ISSAY（藤崎一成、1962年7月6日 - 、[静岡県](../Page/静岡県.md "wikilink")[出身](https://ja.wikipedia.org/wiki/出身 "wikilink")）： [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")。
+  - ISSAY（藤崎一成、1962年7月6日 - 、[静岡県](../Page/静岡県.md "wikilink")[出身](https://ja.wikipedia.org/wiki/出身 "wikilink")）： [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[作詞](../Page/作詞.md "wikilink")。
     HIKARU（吉田 光、1960年2月22日 - 、[京都府](../Page/京都府.md "wikilink")出身）：[ギター](../Page/ギター.md "wikilink")・作詞・[作曲](../Page/作曲.md "wikilink")。
-    HAL（川島晴信、1962年11月5日 - 、[東京都](../Page/東京都.md "wikilink")出身）：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    HAL（川島晴信、1962年11月5日 - 、[東京都](../Page/東京都.md "wikilink")出身）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")。
     MAYUMI（三瓶真弓、1962年12月15日 - 、東京都出身）：[ドラムス](../Page/ドラムセット.md "wikilink")。
     MAHITO（藤原真人、1964年10月17日 - 、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身）：[キーボード](../Page/キーボード_\(楽器\).md "wikilink") 。
     結成時のオリジナルメンバーだが[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")前に脱退。活動休止まではライヴでのサポートメンバーであり（スタジオ録音では『キリギリス』に参加）、再結成の際に再加入。
@@ -101,13 +101,13 @@
   - Hamlet Machine
     ISSAY(Vo.)、[ALLNUDE](https://ja.wikipedia.org/wiki/ALLNUDE "wikilink")のTATSUYA（水永達也、Gu.）によるユニット。
   - PhI
-    ISSAY(Vo.)、[44MAGNUM](https://ja.wikipedia.org/wiki/44MAGNUM "wikilink")の[広瀬さとし](https://ja.wikipedia.org/wiki/広瀬さとし "wikilink")(Gu.)、HAL(Ba.)、[フリクションの佐藤稔](../Page/フリクション_\(バンド\).md "wikilink")(Dr.)で編成されるバンド。
+    ISSAY(Vo.)、[44MAGNUM](../Page/44MAGNUM.md "wikilink")の[広瀬さとし](https://ja.wikipedia.org/wiki/広瀬さとし "wikilink")(Gu.)、HAL(Ba.)、[フリクションの佐藤稔](../Page/フリクション_\(バンド\).md "wikilink")(Dr.)で編成されるバンド。
   - Issay meets Dolly
     ISSAY(Vo.)、REAL FISHや[SHI-SHONEN](https://ja.wikipedia.org/wiki/SHI-SHONEN "wikilink")の福原まり(Pf.)を中心としたグループ。
   - Lynx
-    ISSAY(Vo.)、[X JAPANの](../Page/X_JAPAN.md "wikilink")[HEATH](https://ja.wikipedia.org/wiki/HEATH "wikilink")(Ba.)によるユニット。
+    ISSAY(Vo.)、[X JAPANの](../Page/X_JAPAN.md "wikilink")[HEATH](../Page/HEATH.md "wikilink")(Ba.)によるユニット。
   - KA.F.KA
-    [土屋昌巳](../Page/土屋昌巳.md "wikilink")（Vo.、Gu.）を中心に結成されたバンド。ISSAY（Vo.）、[SOFT BALLETや](../Page/SOFT_BALLET.md "wikilink")[minus(-)](https://ja.wikipedia.org/wiki/minus\(-\) "wikilink")の[森岡賢](../Page/森岡賢.md "wikilink")(Key.)、[the HIATUSの](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")[ウエノコウジ](../Page/ウエノコウジ.md "wikilink")（Ba.）、[THE MAD CAPSULE MARKETSの](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")[MOTOKATSU](../Page/宮上元克.md "wikilink")（Dr.）で編成される。
+    [土屋昌巳](../Page/土屋昌巳.md "wikilink")（Vo.、Gu.）を中心に結成されたバンド。ISSAY（Vo.）、[SOFT BALLETや](../Page/SOFT_BALLET.md "wikilink")[minus(-)](https://ja.wikipedia.org/wiki/minus\(-\) "wikilink")の[森岡賢](../Page/森岡賢.md "wikilink")(Key.)、[the HIATUSの](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")[ウエノコウジ](../Page/ウエノコウジ.md "wikilink")（Ba.）、[THE MAD CAPSULE MARKETSの](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")[MOTOKATSU](../Page/宮上元克.md "wikilink")（Dr.）で編成される。
   - PUGS
     HIKARU(Gu.)を中心に結成されたバンド。Honey☆K、[ホッピー神山](../Page/ホッピー神山.md "wikilink")、[岡野ハジメ](../Page/岡野ハジメ.md "wikilink")、[スティーヴ エトウなどが関わる](../Page/スティーヴ_エトウ.md "wikilink")。
   - Pomegranate

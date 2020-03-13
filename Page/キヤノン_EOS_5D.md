@@ -1,7 +1,7 @@
 > この記事は[ EOS 5D](https://ja.wikipedia.org/wiki/_EOS_5D)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:EOS-5D.jpg "wikilink") **キヤノン EOS 5D**は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")に発表したデジタル[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")。上位機に[EOS 1Ds Mark II](https://ja.wikipedia.org/wiki/キヤノン_EOS_1Ds "wikilink")、[EOS 1D Mark III](https://ja.wikipedia.org/wiki/キヤノン_EOS_1D "wikilink")、下位機に[EOS 50Dがある](https://ja.wikipedia.org/wiki/キヤノン_EOS_10D "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/画像:EOS-5D.jpg "wikilink") **キヤノン EOS 5D**は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")が[2005年](../Page/2005年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に発表したデジタル[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")。上位機に[EOS 1Ds Mark II](https://ja.wikipedia.org/wiki/キヤノン_EOS_1Ds "wikilink")、[EOS 1D Mark III](https://ja.wikipedia.org/wiki/キヤノン_EOS_1D "wikilink")、下位機に[EOS 50Dがある](https://ja.wikipedia.org/wiki/キヤノン_EOS_10D "wikilink")。
 
 最初の廉価版[35mm判フルサイズカメラであるにもかかわらず](../Page/35mmフルサイズ.md "wikilink")、プロ用のカメラに比べて軽量で、発売当時40万円以下の低価格に抑えられたことから注目を集めた。
 
@@ -9,19 +9,19 @@
 
 ## 主な仕様
 
-  - [撮像素子](../Page/固体撮像素子.md "wikilink")：35.8 x 23.9mmフルサイズ[CMOSセンサー](https://ja.wikipedia.org/wiki/CMOSイメージセンサ "wikilink")
+  - [撮像素子](../Page/固体撮像素子.md "wikilink")：35.8 x 23.9mmフルサイズ[CMOSセンサー](../Page/CMOSイメージセンサ.md "wikilink")
   - 有効画素数：約1280万画素（総画素1330万画素）
   - 最大解像度：4368 x 2912画素
   - [画像エンジン](../Page/画像エンジン.md "wikilink")：DIGIC II
-  - [マウント](https://ja.wikipedia.org/wiki/レンズマウント "wikilink")：[キヤノンEFマウント](../Page/キヤノンEFマウント.md "wikilink")（EF-Sシリーズを除く）
+  - [マウント](../Page/レンズマウント.md "wikilink")：[キヤノンEFマウント](../Page/キヤノンEFマウント.md "wikilink")（EF-Sシリーズを除く）
   - フォーカス：9点[オートフォーカス](../Page/オートフォーカス.md "wikilink")（AIサーボAF使用時のみ動作するアシスト6点AFを合わせて搭載）
   - [ISO感度](../Page/ISO感度.md "wikilink")：100-1600相当、1/3段ステップ（ISO 50、3200相当の感度拡大が可能）
-  - [シャッター速度](https://ja.wikipedia.org/wiki/シャッター_\(カメラ\) "wikilink")：1/8000-30秒（1/3、1/2段ステップ）、[バルブ](https://ja.wikipedia.org/wiki/バルブ_\(カメラ\) "wikilink")、X=1/200秒、[バルブ使用時は別売りのリモートスイッチにより実行可能](https://ja.wikipedia.org/wiki/バルブ_\(カメラ\) "wikilink")。
-  - [測光](https://ja.wikipedia.org/wiki/測光 "wikilink")方式：35分割SPC使用、[TTL開放測光](https://ja.wikipedia.org/wiki/TTL露出計 "wikilink")（評価測光、部分測光、スポット測光、中央部重点平均測光）
-  - [露出補正](https://ja.wikipedia.org/wiki/露出_\(写真\) "wikilink")：±2段（1/3、1/2段ステップ）
-  - [ホワイトバランス](https://ja.wikipedia.org/wiki/ホワイトバランス "wikilink")：オート、太陽光、日陰、くもり、白熱電球、白色蛍光灯、[フラッシュ](https://ja.wikipedia.org/wiki/エレクトロニックフラッシュ "wikilink")、マニュアル、[色温度](https://ja.wikipedia.org/wiki/色温度 "wikilink")指定
-  - ピクチャースタイル：スタンダード、[ポートレート](https://ja.wikipedia.org/wiki/人物写真 "wikilink")、[風景](https://ja.wikipedia.org/wiki/風景写真 "wikilink")、ニュートラル、忠実設定、[モノクロ](../Page/モノクローム.md "wikilink")、ユーザー設定
-  - [ファインダー](https://ja.wikipedia.org/wiki/ファインダー "wikilink")視野率：上下左右とも約96%
+  - [シャッター速度](../Page/シャッター_\(カメラ\).md "wikilink")：1/8000-30秒（1/3、1/2段ステップ）、[バルブ](https://ja.wikipedia.org/wiki/バルブ_\(カメラ\) "wikilink")、X=1/200秒、[バルブ使用時は別売りのリモートスイッチにより実行可能](https://ja.wikipedia.org/wiki/バルブ_\(カメラ\) "wikilink")。
+  - [測光](https://ja.wikipedia.org/wiki/測光 "wikilink")方式：35分割SPC使用、[TTL開放測光](../Page/TTL露出計.md "wikilink")（評価測光、部分測光、スポット測光、中央部重点平均測光）
+  - [露出補正](../Page/露出_\(写真\).md "wikilink")：±2段（1/3、1/2段ステップ）
+  - [ホワイトバランス](../Page/ホワイトバランス.md "wikilink")：オート、太陽光、日陰、くもり、白熱電球、白色蛍光灯、[フラッシュ](../Page/エレクトロニックフラッシュ.md "wikilink")、マニュアル、[色温度](https://ja.wikipedia.org/wiki/色温度 "wikilink")指定
+  - ピクチャースタイル：スタンダード、[ポートレート](../Page/人物写真.md "wikilink")、[風景](../Page/風景写真.md "wikilink")、ニュートラル、忠実設定、[モノクロ](../Page/モノクローム.md "wikilink")、ユーザー設定
+  - [ファインダー](../Page/ファインダー.md "wikilink")視野率：上下左右とも約96%
   - [モニタ](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")：23万画素2.5[インチ](../Page/インチ.md "wikilink")[TFT](../Page/薄膜トランジスタ.md "wikilink")[液晶モニタ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")
   - E-TTL II自動調光対応
   - 最大連写枚数：3枚/秒（[JPEG](../Page/JPEG.md "wikilink")：最大60枚、[RAW](../Page/RAW画像.md "wikilink")：最大17枚）

@@ -9,7 +9,7 @@
 
 その後は[東日本社会人リーグで着実にレベルアップを果たす](https://ja.wikipedia.org/wiki/東日本社会人リーグ_\(ラグビー\) "wikilink")。2002-03年度では東日本社会人リーグ7位の低迷から巻き返して、全国社会人大会ベスト4を経て[日本選手権で優勝し](../Page/日本ラグビーフットボール選手権大会.md "wikilink")、初タイトルを獲得。この年の東日本社会人リーグの7位は、全国社会人大会に出場出来るギリギリの順位であり、同様に全国社会人大会のベスト4も日本選手権に出場出来るギリギリの成績だった。そのような状況からの日本一にマスコミから「**ミラクル7**」と呼ばれた。
 
-2003-04年度スタートの[ジャパンラグビートップリーグ](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ "wikilink")では一歩で優勝を逃したが、上位8チームによるトーナメント戦マイクロソフトカップでトップリーグ1位の[神戸製鋼コベルコスティーラーズ](https://ja.wikipedia.org/wiki/神戸製鋼コベルコスティーラーズ "wikilink")を破り、初代カップチャンピオンに輝く。
+2003-04年度スタートの[ジャパンラグビートップリーグ](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ "wikilink")では一歩で優勝を逃したが、上位8チームによるトーナメント戦マイクロソフトカップでトップリーグ1位の[神戸製鋼コベルコスティーラーズ](../Page/神戸製鋼コベルコスティーラーズ.md "wikilink")を破り、初代カップチャンピオンに輝く。
 
 また2004-05年度は、[日本選手権で](https://ja.wikipedia.org/wiki/第42回日本ラグビーフットボール選手権大会 "wikilink")[トヨタ自動車ヴェルブリッツ](../Page/トヨタ自動車ヴェルブリッツ.md "wikilink")との大接戦を制し2年ぶりに日本一のタイトルを奪還した。2005-06年度の[日本選手権でも](https://ja.wikipedia.org/wiki/第43回日本ラグビーフットボール選手権大会 "wikilink")[東芝府中ブレイブルーパスと優勝を分け合い](../Page/東芝ブレイブルーパス.md "wikilink")、連覇を達成した。
 
@@ -81,7 +81,7 @@ reference: \[3\] **太字**は今年からの新加入選手
 <th><p>ポジション</p></th>
 <th><p>選手名</p></th>
 <th><p>出身校</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ラグビー日本代表" title="wikilink">代表</a><br />
+<th><p><a href="../Page/ラグビー日本代表.md" title="wikilink">代表</a><br />
 キャップ</p></th>
 </tr>
 </thead>
@@ -147,7 +147,7 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/カイ・ストローム" title="wikilink">カイ・ストローム</a></strong></p></td>
+<td><p><strong><a href="../Page/カイ・ストローム.md" title="wikilink">カイ・ストローム</a></strong></p></td>
 <td><p>？</p></td>
 <td><p>？<br />
 （<a href="https://ja.wikipedia.org/wiki/ラグビーフィリピン代表" title="wikilink">比</a>）</p></td>
@@ -226,15 +226,15 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/サム・ヘンウッド" title="wikilink">サム・ヘンウッド</a></strong></p></td>
+<td><p><strong><a href="../Page/サム・ヘンウッド.md" title="wikilink">サム・ヘンウッド</a></strong></p></td>
 <td><p>キングス大</p></td>
 <td><p>?<br />
 (<a href="../Page/マオリ・オールブラックス.md" title="wikilink">マオリ・オールブラックス</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ジャック・タファ・ラム" title="wikilink">ジャック・タファ・ラム</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キャンベラ大学" title="wikilink">キャンベラ大</a></p></td>
+<td><p><strong><a href="../Page/ジャック・タファ・ラム.md" title="wikilink">ジャック・タファ・ラム</a></strong></p></td>
+<td><p><a href="../Page/キャンベラ大学.md" title="wikilink">キャンベラ大</a></p></td>
 <td><p>38<br />
 (<a href="../Page/ラグビーサモア代表.md" title="wikilink">サモア</a>)</p></td>
 <td></td>
@@ -254,7 +254,7 @@ reference: \[3\] **太字**は今年からの新加入選手
 <th><p>ポジション</p></th>
 <th><p>選手名</p></th>
 <th><p>出身校</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/ラグビー日本代表" title="wikilink">代表</a><br />
+<th><p><a href="../Page/ラグビー日本代表.md" title="wikilink">代表</a><br />
 キャップ</p></th>
 </tr>
 </thead>

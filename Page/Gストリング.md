@@ -7,11 +7,11 @@
 
 日本では、フロントがV字型にカットされてバックとサイドが細いひも状にデザインされた、[和製英語](../Page/和製英語.md "wikilink")でいうところの[Tバック](../Page/Tバック.md "wikilink")の一種を指す。俗に「[ひもパン](https://ja.wikipedia.org/wiki/ひもパン "wikilink")」とも呼称される。一般的に生地が薄く肌に密着した下着であるため、[ボトムス](../Page/ボトムス.md "wikilink")の下に穿いても[ショーツライン](../Page/ショーツライン.md "wikilink")が浮き出にくい。
 
-諸外国におけるGストリングは、フロントがV字型でバックの布地が極端に少ないものを指す。なお、バックが[尻](https://ja.wikipedia.org/wiki/尻 "wikilink")（[臀部](https://ja.wikipedia.org/wiki/臀部 "wikilink")）の上半分を覆っているものはチーキー (cheeky) と呼ばれる。
+諸外国におけるGストリングは、フロントがV字型でバックの布地が極端に少ないものを指す。なお、バックが[尻](../Page/尻.md "wikilink")（[臀部](https://ja.wikipedia.org/wiki/臀部 "wikilink")）の上半分を覆っているものはチーキー (cheeky) と呼ばれる。
 
 [ボトム類の総称である](../Page/ボトムス.md "wikilink")[ソングや](https://ja.wikipedia.org/wiki/ソング_\(下着\) "wikilink")[タンガ](../Page/タンガ.md "wikilink")の同義語としてしばしば用いられる。
 
-男性用下着メーカーによっては「ねじりふんどし風Gストリング」と称した製品を販売している\[1\]ことから、[ふんどし](https://ja.wikipedia.org/wiki/ふんどし "wikilink")も広義のGストリングとして扱う場合がある。
+男性用下着メーカーによっては「ねじりふんどし風Gストリング」と称した製品を販売している\[1\]ことから、[ふんどし](../Page/ふんどし.md "wikilink")も広義のGストリングとして扱う場合がある。
 
 ## ギャラリー
 

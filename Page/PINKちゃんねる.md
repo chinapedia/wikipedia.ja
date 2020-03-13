@@ -1,7 +1,7 @@
 > この記事は[PINK](https://ja.wikipedia.org/wiki/PINK)から翻訳されています。
 
 
-**PINKちゃんねる**（ピンクちゃんねる）は[インターネット](../Page/インターネット.md "wikilink")上の[電子掲示板](../Page/電子掲示板.md "wikilink")[サイトの一つ](../Page/ウェブサイト.md "wikilink")。[匿名掲示板](https://ja.wikipedia.org/wiki/匿名掲示板 "wikilink")[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の外郭掲示板をうたっている。主な[システム](../Page/システム.md "wikilink")は2ちゃんねると同等である。
+**PINKちゃんねる**（ピンクちゃんねる）は[インターネット](../Page/インターネット.md "wikilink")上の[電子掲示板](../Page/電子掲示板.md "wikilink")[サイトの一つ](../Page/ウェブサイト.md "wikilink")。[匿名掲示板](../Page/匿名掲示板.md "wikilink")[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の外郭掲示板をうたっている。主な[システム](../Page/システム.md "wikilink")は2ちゃんねると同等である。
 
 時期不明だが、PINKちゃんねるの管理者には[ジム・ワトキンス](../Page/ジム・ワトキンス.md "wikilink")が就任していると一般には信じられている\[1\]。
 

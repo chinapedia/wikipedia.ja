@@ -7,7 +7,7 @@
 
 [ビーイング](../Page/ビーイング.md "wikilink")系のチャンネルであるため、系列の[レコードレーベル](../Page/レコードレーベル.md "wikilink")の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")のレギュラー番組が放送されており、通常のリクエスト番組でも、ビーイング系のアーティストが紹介される場合が多い。また、海外のアーティストに特化した番組も放送されている。
 
-なお、閉局後も一部の番組は「[Music Japan TV](https://ja.wikipedia.org/wiki/Music_Japan_TV "wikilink")」で**music272アワー** として引き続き放送されている。
+なお、閉局後も一部の番組は「[Music Japan TV](../Page/Music_Japan_TV.md "wikilink")」で**music272アワー** として引き続き放送されている。
 
 ## 沿革
 
@@ -38,7 +38,7 @@
   - HOT RECOMMEND
   - House Of Strings
   - [いい伊豆みつけた](../Page/いい伊豆みつけた.md "wikilink")
-      - [伊豆急ケーブルネットワーク](https://ja.wikipedia.org/wiki/伊豆急ケーブルネットワーク "wikilink")製作の旅番組
+      - [伊豆急ケーブルネットワーク](../Page/伊豆急ケーブルネットワーク.md "wikilink")製作の旅番組
   - Live factory
   - **※[MEGA HITS REQUEST](https://ja.wikipedia.org/wiki/MEGA_HITS_REQUEST "wikilink")**
   - Mega Hits Top30
@@ -74,7 +74,7 @@
 
   - [BACKSTREET BOYS](https://ja.wikipedia.org/wiki/バックストリート・ボーイズ "wikilink") TV
   - [Britney Spears](../Page/ブリトニー・スピアーズ.md "wikilink") TV
-  - [Christina Aguilera](https://ja.wikipedia.org/wiki/クリスティーナ・アギレラ "wikilink") TV
-  - ['N SYNC](https://ja.wikipedia.org/wiki/イン・シンク "wikilink") TV
+  - [Christina Aguilera](../Page/クリスティーナ・アギレラ.md "wikilink") TV
+  - ['N SYNC](../Page/イン・シンク.md "wikilink") TV
 
 [Category:かつて存在したスカパー\!のテレビチャンネル](https://ja.wikipedia.org/wiki/Category:かつて存在したスカパー!のテレビチャンネル "wikilink") [Category:音楽専門テレビチャンネル](https://ja.wikipedia.org/wiki/Category:音楽専門テレビチャンネル "wikilink") [Category:ビーイング](https://ja.wikipedia.org/wiki/Category:ビーイング "wikilink")

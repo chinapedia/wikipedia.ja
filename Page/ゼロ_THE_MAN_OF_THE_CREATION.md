@@ -1,7 +1,7 @@
 > この記事は[ THE MAN OF THE CREATION](https://ja.wikipedia.org/wiki/_THE_MAN_OF_THE_CREATION)から翻訳されています。
 
 
-『**ゼロ THE MAN OF THE CREATION**』（ゼロ ザ マン オブ ザ クリエイション）は、原作：[愛英史](https://ja.wikipedia.org/wiki/遠崎史朗 "wikilink")、絵：[里見桂](../Page/里見桂.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
+『**ゼロ THE MAN OF THE CREATION**』（ゼロ ザ マン オブ ザ クリエイション）は、原作：[愛英史](../Page/遠崎史朗.md "wikilink")、絵：[里見桂](../Page/里見桂.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。
 
 単行本全78巻、また傑作選として『**ゼロ Masterpiece Collection**』5巻、『**ゼロ The Special Edition**』全5巻、『**ゼロ The Great Selection**』全3巻が[集英社](../Page/集英社.md "wikilink")から刊行されている。
 
@@ -23,13 +23,13 @@
 
 「世界各国を飛び回る贋作者」という生業ゆえ、[FBI](https://ja.wikipedia.org/wiki/FBI "wikilink")をはじめ各国の警察から要注意人物としてマークされており、逮捕・拘束されることもあるが、証拠不十分等の理由から必ず釈放される。その一方で警察関係者が事件真相究明のため、ゼロに依頼をするシーンも多々見られる。
 
-最終回では[ギザの大ピラミッド](https://ja.wikipedia.org/wiki/ギザの大ピラミッド "wikilink")にあるオシリス・シャフト内で[錬金術](../Page/錬金術.md "wikilink")の奥義が記されているという「[エメラルド・タブレット](../Page/エメラルド・タブレット.md "wikilink")」を発見したものの、その場で致命傷となる銃撃を受けてしまう。とっさに自らの体にタブレットを取り込み死亡したかのように見えたが、自身の意識を移植させた[クローンを作り出しており](https://ja.wikipedia.org/wiki/クローン人間 "wikilink")（同時間帯に京都にあるゼロの別邸で作業をしている描写が見られる）、最終的には作品を依頼者に手渡している。
+最終回では[ギザの大ピラミッド](../Page/ギザの大ピラミッド.md "wikilink")にあるオシリス・シャフト内で[錬金術](../Page/錬金術.md "wikilink")の奥義が記されているという「[エメラルド・タブレット](../Page/エメラルド・タブレット.md "wikilink")」を発見したものの、その場で致命傷となる銃撃を受けてしまう。とっさに自らの体にタブレットを取り込み死亡したかのように見えたが、自身の意識を移植させた[クローンを作り出しており](https://ja.wikipedia.org/wiki/クローン人間 "wikilink")（同時間帯に京都にあるゼロの別邸で作業をしている描写が見られる）、最終的には作品を依頼者に手渡している。
 
 ### 能力
 
 ゼロの「神の手」の真髄は、オリジナルが作られた時点における作者の心理状態を分析し、作者になりきることにある。そういった過程を経て作られた贋作は、どんな手段を用いてもオリジナルと区別することができない。ゼロ自身は自分の作った作品を「本物」と主張しており、依頼人に「贋作」呼ばわりされることを極端に嫌うため、「贋作を作って欲しい」と言われると機嫌が悪くなる。「本物は1つでいい」が信条らしく、「本物」が2つある時は一方を破壊してしまうことも多い（大抵はゼロが作った方の「本物」を残す）。さらに、依頼人の所有する美術品が「贋作」であることを証明するため、当人の許可を得ないでその美術品を破壊してしまうこともある。世間では便宜上「贋作者」と呼ばれるが、「本物を作る男」とも言われる。贋作は（真作が複数の手による作品でも）単独で作る場合が多いが、場合によっては他人の助けを借りたり、時には自分自身でなく作者になりきった別人に製作させることもある。
 
-五感に関しては驚異的な鋭さを持っており、目隠しで連行されても連れて行かれた場所や環境・状況を言い当てることができる。また、依頼人の会話の中身やクセから心理状態を解析する[プロファイリング](https://ja.wikipedia.org/wiki/プロファイリング "wikilink")能力にも長けており、後述する不誠実な依頼人に対しては心理状況を見抜いた上で美術品にトラップを仕掛け、破滅もしくは死に追いやることもある。
+五感に関しては驚異的な鋭さを持っており、目隠しで連行されても連れて行かれた場所や環境・状況を言い当てることができる。また、依頼人の会話の中身やクセから心理状態を解析する[プロファイリング](../Page/プロファイリング.md "wikilink")能力にも長けており、後述する不誠実な依頼人に対しては心理状況を見抜いた上で美術品にトラップを仕掛け、破滅もしくは死に追いやることもある。
 
 身体能力は比較的高く、美術品の原材料を探しに砂漠や山岳地帯といった局地を歩き回る体力もあるほか、無名のチンピラ程度と対峙しても軽くあしらえる格闘能力を持つ。また、ゼロのロゴ入りカードの投擲を得意とする描写がある。
 
@@ -84,7 +84,7 @@
 
   - 12　[トゥルファン](../Page/トルファン市.md "wikilink")・乙女の祈り
   - 13　[シバ女王の神鏡](../Page/シバの女王.md "wikilink")
-  - 14　[ワヤン・クリ](https://ja.wikipedia.org/wiki/ワヤン・クリ "wikilink")の怪
+  - 14　[ワヤン・クリ](../Page/ワヤン・クリ.md "wikilink")の怪
   - 15　妖刀のSPIRITS（魂）
   - 16　契り〜ペラーダ山の[ガリンペイロ](../Page/ガリンペイロ.md "wikilink")（金塊採掘者）
   - 17　遅れて来た[サンタクロース](../Page/サンタクロース.md "wikilink")
@@ -92,11 +92,11 @@
 
 （第4巻）
 
-  - 19　[桂林](https://ja.wikipedia.org/wiki/桂林市 "wikilink")〜幻の金[ウルシ](../Page/ウルシ.md "wikilink")
+  - 19　[桂林](../Page/桂林市.md "wikilink")〜幻の金[ウルシ](../Page/ウルシ.md "wikilink")
   - 20　[ビザンチンの](../Page/ビザンティン美術.md "wikilink")[イコン](../Page/イコン.md "wikilink")
   - 21　[マハラジャの娘](../Page/ラージャ.md "wikilink")
   - 22　トモ（神）の結社
-  - 23　The Special Court of Oyer and Terminer in Salem（[セーラムの特別刑事巡回裁判所](https://ja.wikipedia.org/wiki/セイラム_\(マサチューセッツ州\) "wikilink")）
+  - 23　The Special Court of Oyer and Terminer in Salem（[セーラムの特別刑事巡回裁判所](../Page/セイラム_\(マサチューセッツ州\).md "wikilink")）
   - 24　[神木](../Page/神木.md "wikilink")・[巨大杉の謎](../Page/縄文杉.md "wikilink")
   - 25　[オートマタ](../Page/オートマタ.md "wikilink")は知っていた
 
@@ -106,8 +106,8 @@
   - 27　死の時を告げる[ルビー](../Page/ルビー.md "wikilink")
   - 28　3,500,000,000年前の大地
   - 29　[マリー・アントワネット](../Page/マリー・アントワネット.md "wikilink")の[金時計](https://ja.wikipedia.org/wiki/金時計 "wikilink")
-  - 30　[セーヌ川](https://ja.wikipedia.org/wiki/セーヌ川 "wikilink")の[薪能](https://ja.wikipedia.org/wiki/薪能 "wikilink")
-  - 31　[インティ](https://ja.wikipedia.org/wiki/インティ "wikilink")・ライミ（太陽の祭り）
+  - 30　[セーヌ川](../Page/セーヌ川.md "wikilink")の[薪能](https://ja.wikipedia.org/wiki/薪能 "wikilink")
+  - 31　[インティ](../Page/インティ.md "wikilink")・ライミ（太陽の祭り）
   - 32　幻のオリンピック・BARCELONA
 
 （第6巻）
@@ -116,7 +116,7 @@
   - 34　[客家](../Page/客家.md "wikilink")〜約束の観音像
   - 35　[死者の書](../Page/死者の書_\(古代エジプト\).md "wikilink")[フネフェル](https://ja.wikipedia.org/wiki/フネフェル "wikilink")のパピルス
   - 36　重い遺産
-  - 37　人面[トンボ玉の怪](https://ja.wikipedia.org/wiki/とんぼ玉 "wikilink")
+  - 37　人面[トンボ玉の怪](../Page/とんぼ玉.md "wikilink")
   - 38　聖なる水の奇蹟
   - 39　[ラ・トゥールの黄白色](../Page/ジョルジュ・ド・ラ・トゥール.md "wikilink")
 
@@ -152,7 +152,7 @@
 
 （第10巻）
 
-  - 61　[ミロのヴィーナス](https://ja.wikipedia.org/wiki/ミロのヴィーナス "wikilink")の腕
+  - 61　[ミロのヴィーナス](../Page/ミロのヴィーナス.md "wikilink")の腕
   - 62　[MIA](https://ja.wikipedia.org/wiki/MIA "wikilink")
   - 63　[シューネル](https://ja.wikipedia.org/wiki/シューネル "wikilink")の[地球儀](../Page/地球儀.md "wikilink")
   - 64　悲劇の[ミレー](../Page/ジャン＝フランソワ・ミレー.md "wikilink")
@@ -179,7 +179,7 @@
   - 68　ラール・ヴィジョネール（幻視者の芸術）
   - 69　死者の街・[バム](../Page/バム.md "wikilink")
   - 70　蘇る[アトランティス](../Page/アトランティス.md "wikilink")の謎
-  - 71　隠された[十字架](https://ja.wikipedia.org/wiki/十字架 "wikilink")
+  - 71　隠された[十字架](../Page/十字架.md "wikilink")
   - 72　幻の[ピラミッド](../Page/ピラミッド.md "wikilink")
   - 73　スモーキーマウンテン
   - 74　古代核戦争の謎
@@ -196,19 +196,19 @@
 
 （第13巻）
 
-  - 82　[グレート・ジンバブエ](https://ja.wikipedia.org/wiki/グレート・ジンバブエ遺跡 "wikilink")
+  - 82　[グレート・ジンバブエ](../Page/グレート・ジンバブエ遺跡.md "wikilink")
   - 83　夢の[アモルファス](../Page/アモルファス.md "wikilink")合金
   - 84　[契約の箱](../Page/契約の箱.md "wikilink")
   - 85　前世体験
   - 86　呪いの[ミイラ](../Page/ミイラ.md "wikilink")
-  - 87　[エル・ドラド](https://ja.wikipedia.org/wiki/エル・ドラード "wikilink") 幻の湖
+  - 87　[エル・ドラド](../Page/エル・ドラード.md "wikilink") 幻の湖
   - 88　[ノアの箱舟](../Page/ノアの方舟.md "wikilink") 大洪水の真実
 
 （第14巻）
 
   - 89　[モンドリアン](../Page/ピエト・モンドリアン.md "wikilink")・プラスとマイナスの巨匠
   - 90　戦場のNEW YEAR'S EVE
-  - 91　[ロマノフ家](https://ja.wikipedia.org/wiki/ロマノフ家 "wikilink")の財宝
+  - 91　[ロマノフ家](../Page/ロマノフ家.md "wikilink")の財宝
   - 92　龍の道
   - 93　色彩の魔術師・[フェルメール](../Page/ヨハネス・フェルメール.md "wikilink")
   - 94　[チャイコフスキー幻の](../Page/ピョートル・チャイコフスキー.md "wikilink")[交響曲](../Page/交響曲.md "wikilink")「悲恋」
@@ -226,7 +226,7 @@
 
 （第16巻）
 
-  - 103　呪いの[ヴァイオリン](../Page/ヴァイオリン.md "wikilink") [ストラディヴァリの](https://ja.wikipedia.org/wiki/アントニオ・ストラディバリ "wikilink")「ローラ」
+  - 103　呪いの[ヴァイオリン](../Page/ヴァイオリン.md "wikilink") [ストラディヴァリの](../Page/アントニオ・ストラディバリ.md "wikilink")「ローラ」
   - 104　[シュメール](../Page/シュメール.md "wikilink")の秘宝
   - 105　[北京原人](../Page/北京原人.md "wikilink") 50年目の真実
   - 106　幻の民族 [ヒッタイト](../Page/ヒッタイト.md "wikilink")
@@ -270,9 +270,9 @@
   - 132　[司馬江漢](../Page/司馬江漢.md "wikilink")－もうひとつの「[東海道五十三次](../Page/東海道五十三次.md "wikilink")」
   - 133　[ミュシャ](../Page/アルフォンス・ミュシャ.md "wikilink")－呪いの[ブレスレット](../Page/ブレスレット.md "wikilink")
   - 134　二人[武蔵](../Page/宮本武蔵.md "wikilink")
-  - 135　[エル・グレコ](../Page/エル・グレコ.md "wikilink")－[黙示録第六の封印](https://ja.wikipedia.org/wiki/ヨハネの黙示録 "wikilink")
+  - 135　[エル・グレコ](../Page/エル・グレコ.md "wikilink")－[黙示録第六の封印](../Page/ヨハネの黙示録.md "wikilink")
   - 136　[紙](../Page/紙.md "wikilink")の[ダイヤモンド](../Page/ダイヤモンド.md "wikilink")
-  - 137　幻の[ウエディングドレス](https://ja.wikipedia.org/wiki/ウェディングドレス "wikilink")
+  - 137　幻の[ウエディングドレス](../Page/ウェディングドレス.md "wikilink")
 
 </div>
 
@@ -312,7 +312,7 @@
 
   - 152　幻の毒薬・[マンドラゴン](../Page/マンドレイク.md "wikilink")
   - 153　[ボッティチェルリの](../Page/サンドロ・ボッティチェッリ.md "wikilink")“ヴィーナス色”
-  - 154　ピンク・ラスター－究極の[マイセン磁器](https://ja.wikipedia.org/wiki/マイセン_\(陶磁器\) "wikilink")
+  - 154　ピンク・ラスター－究極の[マイセン磁器](../Page/マイセン_\(陶磁器\).md "wikilink")
   - 155　[アンリ・ルソー](../Page/アンリ・ルソー.md "wikilink")“革命百年記念祭”
   - 156　[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")
   - 157　[グーテンベルクのテストシート](../Page/ヨハネス・グーテンベルク.md "wikilink")
@@ -330,9 +330,9 @@
 
 （第25巻）
 
-  - 166　[北斎](../Page/葛飾北斎.md "wikilink")－[弘法大師修法図](https://ja.wikipedia.org/wiki/空海 "wikilink")
+  - 166　[北斎](../Page/葛飾北斎.md "wikilink")－[弘法大師修法図](../Page/空海.md "wikilink")
   - 167　[徽宗](../Page/徽宗.md "wikilink")－皇帝の墨色
-  - 168　[ヴァイキング](https://ja.wikipedia.org/wiki/ヴァイキング "wikilink")の秘宝
+  - 168　[ヴァイキング](../Page/ヴァイキング.md "wikilink")の秘宝
   - 169　呪いの[ブローチ](https://ja.wikipedia.org/wiki/ブローチ_\(装身具\) "wikilink")
   - 170　[HANAKO](../Page/ゲラン.md "wikilink")
   - 171　[セザンヌのイコン](../Page/ポール・セザンヌ.md "wikilink")
@@ -342,7 +342,7 @@
   - 172　幻のアトランド大陸
   - 173　第三の目
   - 174　神が降りる場所
-  - 175　海賊[キッドの宝の地図](https://ja.wikipedia.org/wiki/ウィリアム・キッド "wikilink")
+  - 175　海賊[キッドの宝の地図](../Page/ウィリアム・キッド.md "wikilink")
   - 176　[ベルニーニ](../Page/ジャン・ロレンツォ・ベルニーニ.md "wikilink")－真実を明らかにする時
   - 177　仏坐像－最初の仏像
 
@@ -380,7 +380,7 @@
   - 198　[ミニアチュール](https://ja.wikipedia.org/wiki/ミニアチュール "wikilink")（細密画）
   - 199　約束
   - 200　原書料理聖書
-  - 201　蘇った[竜盤類](https://ja.wikipedia.org/wiki/竜盤類 "wikilink")
+  - 201　蘇った[竜盤類](../Page/竜盤類.md "wikilink")
 
 </div>
 
@@ -407,7 +407,7 @@
 
 （第32巻）
 
-  - 208　[ゲルニカ](https://ja.wikipedia.org/wiki/ゲルニカ_\(絵画\) "wikilink")
+  - 208　[ゲルニカ](../Page/ゲルニカ_\(絵画\).md "wikilink")
   - 209　天界の雫
   - 210　[マチス夫人の亡霊](../Page/アンリ・マティス.md "wikilink")
   - 211　タバク・ポンジボン
@@ -427,7 +427,7 @@
 
   - 220　[ユトリロ](../Page/モーリス・ユトリロ.md "wikilink")－白い絆
   - 221　[メレンコリア](https://ja.wikipedia.org/wiki/メランコリアI "wikilink")
-  - 222　[徳川埋蔵金](https://ja.wikipedia.org/wiki/徳川埋蔵金 "wikilink")
+  - 222　[徳川埋蔵金](../Page/徳川埋蔵金.md "wikilink")
   - 223　[合奏](https://ja.wikipedia.org/wiki/合奏_\(フェルメールの絵画\) "wikilink")
   - 224　キツネ
   - 225　[チンギス・ハン](../Page/チンギス・カン.md "wikilink")
@@ -447,13 +447,13 @@
   - 233　[旧石器捏造](../Page/旧石器捏造事件.md "wikilink")
   - 234　[ドラクロワ](../Page/ウジェーヌ・ドラクロワ.md "wikilink")－Le 28 Juillet
   - 235　ボウ・タイ・バザー
-  - 236　[カモッラ](https://ja.wikipedia.org/wiki/カモッラ "wikilink")－「死者の書」は語る
+  - 236　[カモッラ](../Page/カモッラ.md "wikilink")－「死者の書」は語る
   - 237　Surtout faites simple－[エスコフィエ](https://ja.wikipedia.org/wiki/エスコフィエ "wikilink")、料理の哲学
 
 （第37巻）
 
   - 238　遺産を継ぐ者たち－[アレクサンダー](../Page/アレクサンダー.md "wikilink")の財宝
-  - 239　紅色[薩摩切子](https://ja.wikipedia.org/wiki/薩摩切子 "wikilink")
+  - 239　紅色[薩摩切子](../Page/薩摩切子.md "wikilink")
   - 240　[キジルのビーナス](https://ja.wikipedia.org/wiki/キジル石窟 "wikilink")
   - 241　[TESLA](../Page/ニコラ・テスラ.md "wikilink")
   - 242　[MISSION IN BAMIAN; SAVE THE CULTURAL HERITAGE](../Page/バーミヤン渓谷の文化的景観と古代遺跡群.md "wikilink")
@@ -506,7 +506,7 @@
   - 263　最期の詩－薄幸の童謡詩人・[金子みすゞ](../Page/金子みすゞ.md "wikilink")
   - 264　[ナポレオン](https://ja.wikipedia.org/wiki/ナポレオン・ボナパルト "wikilink")－すり替えられた遺体
   - 265　神々の食物－幻の[カカオ](../Page/カカオ.md "wikilink")・パトラチテ
-  - 266　[市松人形](https://ja.wikipedia.org/wiki/市松人形 "wikilink")の怪
+  - 266　[市松人形](../Page/市松人形.md "wikilink")の怪
   - 267　[ジョルジョーネ](../Page/ジョルジョーネ.md "wikilink")「テンペスタ（嵐）」
 
 （第42巻）
@@ -556,7 +556,7 @@
 
 （第47巻）
 
-  - 298　[犯罪心理分析官](https://ja.wikipedia.org/wiki/プロファイリング "wikilink")
+  - 298　[犯罪心理分析官](../Page/プロファイリング.md "wikilink")
   - 299　神の[十戒](https://ja.wikipedia.org/wiki/十戒 "wikilink")
   - 300　[パティシェ](https://ja.wikipedia.org/wiki/パティシェ "wikilink")
   - 301　[神の赦し](../Page/ウィリアム・ブレイク.md "wikilink")
@@ -584,11 +584,11 @@
 （第50巻）
 
   - 316　幻の器
-  - 317　呪いの[能面](https://ja.wikipedia.org/wiki/能面 "wikilink")
+  - 317　呪いの[能面](../Page/能面.md "wikilink")
   - 318　失われた[パピルス](../Page/パピルス.md "wikilink")
-  - 319　[コートダジュールの料理人](https://ja.wikipedia.org/wiki/コート・ダジュール "wikilink")
+  - 319　[コートダジュールの料理人](../Page/コート・ダジュール.md "wikilink")
   - 320　[竹久夢二](../Page/竹久夢二.md "wikilink")
-  - 321　[アベ・マリア](https://ja.wikipedia.org/wiki/アヴェ・マリア "wikilink")
+  - 321　[アベ・マリア](../Page/アヴェ・マリア.md "wikilink")
 
 </div>
 
@@ -645,7 +645,7 @@
   - **00A**　ゼロに関する調査報告書
   - 346　謎の[古今伝授](../Page/古今和歌集.md "wikilink")
   - 347　孤高の[考古学](../Page/考古学.md "wikilink")者
-  - 348　[蕎麦](https://ja.wikipedia.org/wiki/蕎麦 "wikilink")打ち名人
+  - 348　[蕎麦](../Page/蕎麦.md "wikilink")打ち名人
   - 349　芸術との対話者
   - 350　[聖徳太子](../Page/聖徳太子.md "wikilink")の予言
   - **00B**　呪殺－若き日のゼロ－
@@ -711,12 +711,12 @@
 
 （第61巻）
 
-  - 381　[ヴォイニッチ手稿](https://ja.wikipedia.org/wiki/ヴォイニッチ手稿 "wikilink")－悪魔のコード－
-  - 382　[ジョルジュ・サンド](https://ja.wikipedia.org/wiki/ジョルジュ・サンド "wikilink")と[ショパン](../Page/フレデリック・ショパン.md "wikilink")
+  - 381　[ヴォイニッチ手稿](../Page/ヴォイニッチ手稿.md "wikilink")－悪魔のコード－
+  - 382　[ジョルジュ・サンド](../Page/ジョルジュ・サンド.md "wikilink")と[ショパン](../Page/フレデリック・ショパン.md "wikilink")
   - 383　[魔女狩り](../Page/魔女狩り.md "wikilink")将軍の秘宝
   - 384　[ミレーの真意](../Page/ジャン＝フランソワ・ミレー.md "wikilink")
-  - 385　[額縁](https://ja.wikipedia.org/wiki/額縁 "wikilink")の“[リスト](../Page/フランツ・リスト.md "wikilink")”
-  - 386　[パルミジャニーノ](https://ja.wikipedia.org/wiki/パルミジャニーノ "wikilink")の呪い
+  - 385　[額縁](../Page/額縁.md "wikilink")の“[リスト](../Page/フランツ・リスト.md "wikilink")”
+  - 386　[パルミジャニーノ](../Page/パルミジャニーノ.md "wikilink")の呪い
 
 （第62巻）
 
@@ -733,7 +733,7 @@
   - 394　[ヘロデ王の財宝](../Page/ヘロデ大王.md "wikilink")
   - 395　地球最後の日
   - 396　[裸のマハ](../Page/裸のマハ.md "wikilink")
-  - 397　[キャロルと](../Page/ルイス・キャロル.md "wikilink")[アリス](https://ja.wikipedia.org/wiki/不思議の国のアリス "wikilink")
+  - 397　[キャロルと](../Page/ルイス・キャロル.md "wikilink")[アリス](../Page/不思議の国のアリス.md "wikilink")
   - 398　[アクアコッタ](https://ja.wikipedia.org/wiki/アクアコッタ "wikilink")の想い出
 
 （第64巻）
@@ -742,7 +742,7 @@
   - 400　父の教え（前編）
   - 401　父の教え（後編）
   - 402　[写楽の絆](../Page/東洲斎写楽.md "wikilink")
-  - 403　[アンデス](https://ja.wikipedia.org/wiki/アンデス文明 "wikilink")―[ミイラ](../Page/ミイラ.md "wikilink")の呪い
+  - 403　[アンデス](../Page/アンデス文明.md "wikilink")―[ミイラ](../Page/ミイラ.md "wikilink")の呪い
   - 404　師のメッセージ
 
 （第65巻）
@@ -787,7 +787,7 @@
   - 430 [ドガの踊り子](../Page/エドガー・ドガ.md "wikilink")
   - 431 忘れ去られた天才画家・[レイトン](../Page/フレデリック・レイトン.md "wikilink")
   - 432 アレクサンドリアに眠る[聖杯](../Page/聖杯.md "wikilink")伝説
-  - 433 [ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")
+  - 433 [ハーモニカ](../Page/ハーモニカ.md "wikilink")
   - 434 [ライト兄弟](../Page/ライト兄弟.md "wikilink") 世界初の飛行機野郎
 
 （第70巻）
@@ -797,7 +797,7 @@
   - 437 [池大雅](../Page/池大雅.md "wikilink")
   - 438 [漱石の絵](https://ja.wikipedia.org/wiki/夏目漱石 "wikilink")
   - 439 [我々はどこから来たのか…](https://ja.wikipedia.org/wiki/ゴーギャン "wikilink")
-  - 440 [道化師](https://ja.wikipedia.org/wiki/国吉康雄 "wikilink")
+  - 440 [道化師](../Page/国吉康雄.md "wikilink")
 
 </div>
 

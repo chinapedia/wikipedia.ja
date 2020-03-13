@@ -34,11 +34,11 @@
 ### 5000番台
 
   - 5001, 5002
-    菱成産業（現・[三菱ケミカル物流](https://ja.wikipedia.org/wiki/三菱ケミカル物流 "wikilink")）所有、[ベンズアルデヒド](../Page/ベンズアルデヒド.md "wikilink")専用。
+    菱成産業（現・[三菱ケミカル物流](../Page/三菱ケミカル物流.md "wikilink")）所有、[ベンズアルデヒド](../Page/ベンズアルデヒド.md "wikilink")専用。
   - 5003, 5004
     日本石油輸送所有（新日本石油借受）、潤滑油専用。後に一部日本石油借受解除の上で[脂肪酸](../Page/脂肪酸.md "wikilink")専用に変更。
   - 5005, 5006
-    日本石油輸送所有、[ポリプロピレン](../Page/ポリプロピレン.md "wikilink")[グリコール](https://ja.wikipedia.org/wiki/グリコール "wikilink") (PPG) 専用。後に[オルソジクロロベンゼン](https://ja.wikipedia.org/wiki/オルソジクロロベンゼン "wikilink")専用に変更。
+    日本石油輸送所有、[ポリプロピレン](../Page/ポリプロピレン.md "wikilink")[グリコール](../Page/グリコール.md "wikilink") (PPG) 専用。後に[オルソジクロロベンゼン](https://ja.wikipedia.org/wiki/オルソジクロロベンゼン "wikilink")専用に変更。
   - 5007
     ↓ 日本石油輸送所有（新日本石油借受）、潤滑油専用。
     ↓ 日本石油輸送所有（[花王](../Page/花王.md "wikilink")借受）、脂肪酸専用。
@@ -149,7 +149,7 @@
   - 8001, 8002
     菱成産業所有（現・[三菱化学物流](https://ja.wikipedia.org/wiki/三菱化学物流 "wikilink")）、[関東電化工業](../Page/関東電化工業.md "wikilink")借受、[塩化ビニリデン](https://ja.wikipedia.org/wiki/塩化ビニリデン "wikilink")専用。最大総重量16.5t（規格外）。
   - 8003
-    [ニヤクコーポレーション](../Page/ニヤクコーポレーション.md "wikilink")所有（[帝人メトン](https://ja.wikipedia.org/wiki/帝人メトン "wikilink")借受）、[メトン](https://ja.wikipedia.org/wiki/メトン "wikilink")[液専用](../Page/液体.md "wikilink")。最大総重量14t（規格外）。[名古屋貨物ターミナル駅](https://ja.wikipedia.org/wiki/名古屋貨物ターミナル駅 "wikilink") - [大竹駅](https://ja.wikipedia.org/wiki/大竹駅 "wikilink")間専用。
+    [ニヤクコーポレーション](../Page/ニヤクコーポレーション.md "wikilink")所有（[帝人メトン](https://ja.wikipedia.org/wiki/帝人メトン "wikilink")借受）、[メトン](https://ja.wikipedia.org/wiki/メトン "wikilink")[液専用](../Page/液体.md "wikilink")。最大総重量14t（規格外）。[名古屋貨物ターミナル駅](../Page/名古屋貨物ターミナル駅.md "wikilink") - [大竹駅](https://ja.wikipedia.org/wiki/大竹駅 "wikilink")間専用。
   - 8004, 8005
     [三徳化学工業](https://ja.wikipedia.org/wiki/三徳化学工業 "wikilink")所有、[過酸化水素水](https://ja.wikipedia.org/wiki/過酸化水素水 "wikilink")専用。15.83t（規格外）。
 

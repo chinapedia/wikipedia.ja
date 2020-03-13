@@ -15,7 +15,7 @@
 
 *Final Cut Studio*は、*Final Cut Pro*に加えて、*[Motion](../Page/Motion.md "wikilink")*、*[Soundtrack Pro](https://ja.wikipedia.org/wiki/Soundtrack_Pro "wikilink")*、*[DVD Studio Pro](https://ja.wikipedia.org/wiki/DVD_Studio_Pro "wikilink")*、*LiveType*、*Compressor*、*Cinema Tools*、*Color*を含む、プロ向けのスイート。また、機能を省略した廉価版である*[Final Cut Express](https://ja.wikipedia.org/wiki/Final_Cut_Express "wikilink")*も用意されていた（後述するFinalCutPro Xの登場と価格改定に伴い、Express版はフェードアウトとなった）。
 
-[MacBook Proや](../Page/MacBook_Pro.md "wikilink")[Mac ProとFinal](../Page/Mac_Pro.md "wikilink") Cut Proのみでもかなり実用性の高い編集が可能だが、拡張環境対応に優れており[インタフェースボードや](../Page/インタフェース_\(情報技術\).md "wikilink")[RAID](../Page/RAID.md "wikilink")ディスクの追加、[Xsan](https://ja.wikipedia.org/wiki/Xsan "wikilink")システムの利用などにより、さらに高性能・高画質な編集も可能である。
+[MacBook Proや](../Page/MacBook_Pro.md "wikilink")[Mac ProとFinal](../Page/Mac_Pro.md "wikilink") Cut Proのみでもかなり実用性の高い編集が可能だが、拡張環境対応に優れており[インタフェースボードや](../Page/インタフェース_\(情報技術\).md "wikilink")[RAID](../Page/RAID.md "wikilink")ディスクの追加、[Xsan](../Page/Xsan.md "wikilink")システムの利用などにより、さらに高性能・高画質な編集も可能である。
 
 Final Cut Pro Xは、2011年4月12日に発表された\[5\]。
 

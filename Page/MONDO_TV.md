@@ -1,11 +1,11 @@
 > この記事は[MONDO TV](https://ja.wikipedia.org/wiki/MONDO_TV)から翻訳されています。
 
 
-**MONDO TV**（モンドティーヴィー）は、[ターナージャパン](https://ja.wikipedia.org/wiki/ターナージャパン "wikilink")が運営する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[CS放送チャンネル](../Page/日本における衛星放送.md "wikilink")。[スカパー\!（東経110度CS放送）](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")、[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")、[スカパー\!プレミアムサービス光](https://ja.wikipedia.org/wiki/スカパー!プレミアムサービス光 "wikilink")、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")で放送。
+**MONDO TV**（モンドティーヴィー）は、[ターナージャパン](https://ja.wikipedia.org/wiki/ターナージャパン "wikilink")が運営する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[CS放送チャンネル](../Page/日本における衛星放送.md "wikilink")。[スカパー\!（東経110度CS放送）](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")、[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")、[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")で放送。
 
 ## 概要
 
-[麻雀](../Page/麻雀.md "wikilink")をはじめ、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")・[パチスロ](../Page/パチスロ.md "wikilink")、[ギャンブル](https://ja.wikipedia.org/wiki/ギャンブル "wikilink")、[鉄道](../Page/鉄道.md "wikilink")、[自動車](../Page/自動車.md "wikilink")、[ゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")、[競馬](../Page/競馬.md "wikilink")、[サブカル](../Page/サブカルチャー.md "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")等の[イメージビデオ](../Page/イメージビデオ.md "wikilink")、[Vシネマといった男性向けのさまざまな](../Page/東映Vシネマ.md "wikilink")[大衆文化](https://ja.wikipedia.org/wiki/大衆文化 "wikilink")をテーマとした番組を放送。特に麻雀関連番組は編成の大多数を占めている。
+[麻雀](../Page/麻雀.md "wikilink")をはじめ、[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")・[パチスロ](../Page/パチスロ.md "wikilink")、[ギャンブル](https://ja.wikipedia.org/wiki/ギャンブル "wikilink")、[鉄道](../Page/鉄道.md "wikilink")、[自動車](../Page/自動車.md "wikilink")、[ゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")、[競馬](../Page/競馬.md "wikilink")、[サブカル](../Page/サブカルチャー.md "wikilink")、[グラビアアイドル](https://ja.wikipedia.org/wiki/グラビアアイドル "wikilink")等の[イメージビデオ](../Page/イメージビデオ.md "wikilink")、[Vシネマといった男性向けのさまざまな](../Page/東映Vシネマ.md "wikilink")[大衆文化](../Page/大衆文化.md "wikilink")をテーマとした番組を放送。特に麻雀関連番組は編成の大多数を占めている。
 
 ### 変遷
 
@@ -124,7 +124,7 @@
 
 ### アニメ
 
-  - [あしたのジョー](../Page/あしたのジョー.md "wikilink")（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")版、[虫プロダクション](../Page/虫プロダクション.md "wikilink")製作）
+  - [あしたのジョー](../Page/あしたのジョー.md "wikilink")（[1970年](../Page/1970年.md "wikilink")版、[虫プロダクション](../Page/虫プロダクション.md "wikilink")製作）
   - [天才バカボン](https://ja.wikipedia.org/wiki/天才バカボン_\(アニメ\) "wikilink")（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")版、[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")製作）
   - [コブラ・ジ・アニメーション](https://ja.wikipedia.org/wiki/コブラ_\(アニメ\)#COBRA_THE_ANIMATION "wikilink")（アニメーション制作[マジックバス](../Page/マジックバス.md "wikilink")）
       - テレビシリーズ版 全13話（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")製作）
@@ -144,7 +144,7 @@
   - [小島×狩野×エスパー3P](https://ja.wikipedia.org/wiki/小島×狩野×エスパー3P "wikilink")（TOKYO MX製作協力）
   - [MONDO ism](https://ja.wikipedia.org/wiki/MONDO_ism "wikilink")
   - [田代まさしのいらっしゃいマーシー](https://ja.wikipedia.org/wiki/田代まさしのいらっしゃいマーシー "wikilink")
-  - [日本オタク大賞](https://ja.wikipedia.org/wiki/日本オタク大賞 "wikilink")
+  - [日本オタク大賞](../Page/日本オタク大賞.md "wikilink")
   - [寺門ジモンの食バカ一代](../Page/寺門ジモンの食バカ一代.md "wikilink")
   - TEPPAN\!\!
   - なにわの格闘集団\!大阪プロレス伝説
@@ -390,7 +390,7 @@
 [Category:ターナー・ブロードキャスティング・システム](https://ja.wikipedia.org/wiki/Category:ターナー・ブロードキャスティング・システム "wikilink") [Category:東京都中央区の企業](https://ja.wikipedia.org/wiki/Category:東京都中央区の企業 "wikilink") [Category:スカパー\!のチャンネル](https://ja.wikipedia.org/wiki/Category:スカパー!のチャンネル "wikilink") [Category:MONDO21](https://ja.wikipedia.org/wiki/Category:MONDO21 "wikilink")
 
 1.  [J:COM TVデジタル HDコンテンツラインナップを拡充 2010年内に15チャンネルを追加](https://newsreleases.jcom.co.jp/news/38851.html) ジュピターテレコム 2010年8月24日
-2.  深夜の[お色気番組](../Page/お色気番組.md "wikilink")は、長らく[視聴年齢制限なしで放送されていたが](https://ja.wikipedia.org/wiki/ペアレンタルコントロール "wikilink")、配信業者から「[R-15](https://ja.wikipedia.org/wiki/映画のレイティングシステム#現行の区分 "wikilink")」指定を受けることが増えたのと、運営するJICの親会社が現在のタイム・ワーナー（現・[ワーナーメディア](https://ja.wikipedia.org/wiki/ワーナーメディア "wikilink")）になり、テレビの[地デジ移行と並行して普及しつつあったスカパー](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")\!e2（現・スカパー\!）への参入を目指したため。ただし、携帯電話向けサイト『いつでもどこでもTV』では、現在も『桃のささやき』『桃のふくらみ』を[アーカイブ](../Page/アーカイブ.md "wikilink")配信中。
+2.  深夜の[お色気番組](../Page/お色気番組.md "wikilink")は、長らく[視聴年齢制限なしで放送されていたが](https://ja.wikipedia.org/wiki/ペアレンタルコントロール "wikilink")、配信業者から「[R-15](https://ja.wikipedia.org/wiki/映画のレイティングシステム#現行の区分 "wikilink")」指定を受けることが増えたのと、運営するJICの親会社が現在のタイム・ワーナー（現・[ワーナーメディア](../Page/ワーナーメディア.md "wikilink")）になり、テレビの[地デジ移行と並行して普及しつつあったスカパー](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")\!e2（現・スカパー\!）への参入を目指したため。ただし、携帯電話向けサイト『いつでもどこでもTV』では、現在も『桃のささやき』『桃のふくらみ』を[アーカイブ](../Page/アーカイブ.md "wikilink")配信中。
 3.  [〔麻雀なでしこ杯2012〕](http://www.mondotv.jp/mah-jong/nadeshikohai) - MONDO TV
 4.  TwellVで放送されていた番組。
 5.  もともとは[鉄道チャンネル](https://ja.wikipedia.org/wiki/鉄道チャンネル "wikilink")で放送されていた番組。[TwellVでも](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")2013年4月から放送されていた。

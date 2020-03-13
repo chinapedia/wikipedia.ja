@@ -9,8 +9,8 @@
 
 ## 初代（1994年-2000年）DE2/3A型
 
-  - [1994年](../Page/1994年.md "wikilink")10月 発売。排気量2.0Lの[V6](https://ja.wikipedia.org/wiki/V型6気筒 "wikilink")・[DOHC](../Page/DOHC.md "wikilink")[24バルブエンジンと](../Page/マルチバルブ.md "wikilink")1.8Lの[直4](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")・[SOHC](../Page/SOHC.md "wikilink")16バルブエンジンを搭載。V6エンジンは170PS（マイナーチェンジ時に180PS）仕様と[MIVEC](../Page/MIVEC.md "wikilink")を採用した200PS仕様がラインアップされていた。また[AT車には日本で初めてマニュアルモード](../Page/オートマチックトランスミッション.md "wikilink")（三菱では*スポーツモード*と呼称）を搭載するINVECS-IIを採用した（当初は4段、マイナーチェンジ後は5段変速）。この年、[日本カー・オブ・ザ・イヤー](../Page/日本カー・オブ・ザ・イヤー.md "wikilink")を受賞。その記念モデルとして、ダンデライオンイエローのボディカラーを設定したFTOが500台限定で発売された。
-  - 他社同クラスの車種（[日産・シルビア](../Page/日産・シルビア.md "wikilink")、[トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")、[ホンダ・インテグラ](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")等）では[MT車の販売比率が高かったが](../Page/マニュアルトランスミッション.md "wikilink")、FTOは広告などでAT車を中心とした販売戦略を採っており、同クラスの車種には設定のない4段/5段スポーツモード付きATを採用していたことなどから、当時の[スペシャルティカー](../Page/スペシャルティカー.md "wikilink")としては珍しくMT車よりもAT車の比率が高かった。実際、[中古車](https://ja.wikipedia.org/wiki/中古車 "wikilink")市場においてMT車は稀少である。
+  - [1994年](../Page/1994年.md "wikilink")10月 発売。排気量2.0Lの[V6](../Page/V型6気筒.md "wikilink")・[DOHC](../Page/DOHC.md "wikilink")[24バルブエンジンと](../Page/マルチバルブ.md "wikilink")1.8Lの[直4](../Page/直列4気筒.md "wikilink")・[SOHC](../Page/SOHC.md "wikilink")16バルブエンジンを搭載。V6エンジンは170PS（マイナーチェンジ時に180PS）仕様と[MIVEC](../Page/MIVEC.md "wikilink")を採用した200PS仕様がラインアップされていた。また[AT車には日本で初めてマニュアルモード](../Page/オートマチックトランスミッション.md "wikilink")（三菱では*スポーツモード*と呼称）を搭載するINVECS-IIを採用した（当初は4段、マイナーチェンジ後は5段変速）。この年、[日本カー・オブ・ザ・イヤー](../Page/日本カー・オブ・ザ・イヤー.md "wikilink")を受賞。その記念モデルとして、ダンデライオンイエローのボディカラーを設定したFTOが500台限定で発売された。
+  - 他社同クラスの車種（[日産・シルビア](../Page/日産・シルビア.md "wikilink")、[トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")、[ホンダ・インテグラ](../Page/ホンダ・インテグラ.md "wikilink")等）では[MT車の販売比率が高かったが](../Page/マニュアルトランスミッション.md "wikilink")、FTOは広告などでAT車を中心とした販売戦略を採っており、同クラスの車種には設定のない4段/5段スポーツモード付きATを採用していたことなどから、当時の[スペシャルティカー](../Page/スペシャルティカー.md "wikilink")としては珍しくMT車よりもAT車の比率が高かった。実際、[中古車](../Page/中古車.md "wikilink")市場においてMT車は稀少である。
   - FF車ながら旋回性能が高く、また、当時の国産車の中でも比較的高いボディ剛性を確保している。元レーサーで評論家の[桂伸一](https://ja.wikipedia.org/wiki/桂伸一 "wikilink")は「ドリフト競技でFF車部門があれば一番」とコメントしている。これらの理由から[ホンダから](../Page/本田技研工業.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[インテグラタイプRが発売されるまでは](../Page/ホンダ・インテグラタイプR.md "wikilink")、国産FF車で最速との呼び声も高かった。
   - [2000年](../Page/2000年.md "wikilink")7月 新しく採用される側面衝突安全基準に適合させると採算が取れないとして、[GTOとともに](https://ja.wikipedia.org/wiki/三菱・GTO "wikilink")[生産終了](../Page/ラストオーダー.md "wikilink")\[2\]。以後、在庫のみの対応となる。
   - 2000年9月 販売終了。
@@ -54,7 +54,7 @@ FTOは、前期型、中期型、後期型の3期に分類される。
   - ボディカラー変更。
       - スティールシルバー→シンフォニックシルバー・インペリアルレッドが廃止。キルダーグリーンが追加。
   - パーツが変更。
-      - フロント[バンパー](https://ja.wikipedia.org/wiki/バンパー "wikilink")・（フロント・リア）シート・[フォグランプ](../Page/フォグランプ.md "wikilink")・[ウインカーランプが変更](../Page/方向指示器.md "wikilink")。
+      - フロント[バンパー](../Page/バンパー.md "wikilink")・（フロント・リア）シート・[フォグランプ](../Page/フォグランプ.md "wikilink")・[ウインカーランプが変更](../Page/方向指示器.md "wikilink")。
   - エアロシリーズが限定販売。
       - フロント[ヘリカルLSD](https://ja.wikipedia.org/wiki/差動装置#リミテッド・スリップ・デフ "wikilink")・（フロント・リア）[ストラットタワーバー](../Page/ストラットタワーバー.md "wikilink")・スポーツ[サスペンション](../Page/サスペンション.md "wikilink")
       - ハイグリップ[タイヤ](../Page/タイヤ.md "wikilink")・[ディスチャージヘッドランプ](../Page/ディスチャージヘッドランプ.md "wikilink")・[モモ製](../Page/モモ_\(会社\).md "wikilink")[ステアリング](../Page/ステアリング.md "wikilink")
@@ -129,7 +129,7 @@ FTOは、前期型、中期型、後期型の3期に分類される。
 
 ## モータースポーツ
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[1999年](../Page/1999年.md "wikilink")に[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")（[JGTC](https://ja.wikipedia.org/wiki/JGTC "wikilink")、現・[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")）のGT300クラスにチーム・テイボン・ラリーアートより参戦、エンジンは[4G63に換装していた](https://ja.wikipedia.org/wiki/三菱・4G63 "wikilink")。1998年度は[中谷明彦](https://ja.wikipedia.org/wiki/中谷明彦 "wikilink")と[原貴彦](https://ja.wikipedia.org/wiki/原貴彦 "wikilink")のコンビで年間総合5位、1999年度は中谷明彦と[ラルフ・ファーマン](../Page/ラルフ・ファーマン.md "wikilink")のコンビで年間総合6位。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[1999年](../Page/1999年.md "wikilink")に[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")（[JGTC](https://ja.wikipedia.org/wiki/JGTC "wikilink")、現・[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")）のGT300クラスにチーム・テイボン・ラリーアートより参戦、エンジンは[4G63に換装していた](../Page/三菱・4G63.md "wikilink")。1998年度は[中谷明彦](../Page/中谷明彦.md "wikilink")と[原貴彦](https://ja.wikipedia.org/wiki/原貴彦 "wikilink")のコンビで年間総合5位、1999年度は中谷明彦と[ラルフ・ファーマン](../Page/ラルフ・ファーマン.md "wikilink")のコンビで年間総合6位。
 
 この他にも[ジムカーナ](https://ja.wikipedia.org/wiki/ジムカーナ "wikilink")や[ダートトライアル](../Page/ダートトライアル.md "wikilink")等の競技等で使用されることが多い。また、[パイクスピーク・インターナショナル・ヒルクライム](../Page/パイクスピーク・インターナショナル・ヒルクライム.md "wikilink")のオープンクラス部門にエントリーしたFTOは、助手席にエンジンを置き、後ろに伸びたドライブシャフトでリアを駆動し、そこから再び[ディファレンシャル](https://ja.wikipedia.org/wiki/ディファレンシャル "wikilink")を介して前に折り返すかたちで伸ばされたドライブシャフトによってフロントを駆動するという、変則的4WDを採用した例がある。
 

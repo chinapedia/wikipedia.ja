@@ -1,7 +1,7 @@
 > この記事は[YAMAMORI!](https://ja.wikipedia.org/wiki/YAMAMORI!)から翻訳されています。
 
 
-**YAMAMORIラジオ\!\!**（ヤマモリ-）は、[2003年](../Page/2003年.md "wikilink")4月から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月まで月曜日～木曜日の昼11：00\~15：00の時間帯に放送されていた[KBS京都の](../Page/京都放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。番組名はパーソナリティである同局[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[山崎弘士](../Page/山崎弘士.md "wikilink")と[森谷威夫](../Page/森谷威夫.md "wikilink")にちなんでいる。
+**YAMAMORIラジオ\!\!**（ヤマモリ-）は、[2003年](../Page/2003年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")3月まで月曜日～木曜日の昼11：00\~15：00の時間帯に放送されていた[KBS京都の](../Page/京都放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。番組名はパーソナリティである同局[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")の[山崎弘士](../Page/山崎弘士.md "wikilink")と[森谷威夫](../Page/森谷威夫.md "wikilink")にちなんでいる。
 
 アシスタントに月・火は[対馬京子](https://ja.wikipedia.org/wiki/對馬京子 "wikilink")、水・木は[平野智美](../Page/平野智美.md "wikilink")（KBS京都アナウンサー）。ラジオカーリポーターは、京都市内(京都府下南部も)[泉優子](https://ja.wikipedia.org/wiki/泉優子 "wikilink")、福知山局の北近畿号は[えみ京子](https://ja.wikipedia.org/wiki/えみ京子 "wikilink")が担当。 前半は山崎弘士が主に番組を進行するが、正午過ぎになると山崎が昼食に出かけるので森谷威夫とアシスタントが番組を進行する。
 

@@ -1,13 +1,13 @@
 > この記事は[W BLIND TARGET](https://ja.wikipedia.org/wiki/W_BLIND_TARGET)から翻訳されています。
 
 
-『**新機動戦記ガンダムW BLIND TARGET**』（しんきどうせんきガンダムウイング ブラインドターゲット）は、[ガンダムシリーズの](../Page/ガンダムシリーズ一覧.md "wikilink")[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")。
+『**新機動戦記ガンダムW BLIND TARGET**』（しんきどうせんきガンダムウイング ブラインドターゲット）は、[ガンダムシリーズの](../Page/ガンダムシリーズ一覧.md "wikilink")[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")。
 
 ## 作品概要
 
 アニメ『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』から派生したラジオドラマで、[1996年](../Page/1996年.md "wikilink")[11月](../Page/11月.md "wikilink")から[TBSラジオの番組](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")「[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")」内で放送された。その後ラジオドラマの内容は全2巻のCDで発売され、[あさぎ桜](https://ja.wikipedia.org/wiki/あさぎ桜 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化もされている。脚本はTVシリーズの脚本も手掛けた面出明美。
 
-『新機動戦記ガンダムW』と[OVA](../Page/OVA.md "wikilink")『[新機動戦記ガンダムW Endless Waltz](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW_Endless_Waltz "wikilink")』の物語の間を埋める作品の一つで、人物のドラマに主体を置いている。ラジオドラマという媒体上の理由から[モビルスーツ](../Page/モビルスーツ.md "wikilink")は基本的に登場しないという、ガンダムシリーズとしては異色の作品となっている。
+『新機動戦記ガンダムW』と[OVA](../Page/OVA.md "wikilink")『[新機動戦記ガンダムW Endless Waltz](../Page/新機動戦記ガンダムW_Endless_Waltz.md "wikilink")』の物語の間を埋める作品の一つで、人物のドラマに主体を置いている。ラジオドラマという媒体上の理由から[モビルスーツ](../Page/モビルスーツ.md "wikilink")は基本的に登場しないという、ガンダムシリーズとしては異色の作品となっている。
 
 ## 物語
 
@@ -17,15 +17,15 @@
 
 ## 登場人物
 
-  - [ヒイロ・ユイ](https://ja.wikipedia.org/wiki/ヒイロ・ユイ "wikilink")（[声](../Page/声優.md "wikilink")：[緑川光](../Page/緑川光.md "wikilink")）
+  - [ヒイロ・ユイ](../Page/ヒイロ・ユイ.md "wikilink")（[声](../Page/声優.md "wikilink")：[緑川光](../Page/緑川光.md "wikilink")）
   - [デュオ・マックスウェル](../Page/デュオ・マックスウェル.md "wikilink")（声：[関俊彦](../Page/関俊彦.md "wikilink")）
   - [トロワ・バートン](../Page/トロワ・バートン.md "wikilink")（声：[中原茂](../Page/中原茂.md "wikilink")）
   - [カトル・ラバーバ・ウィナー](../Page/カトル・ラバーバ・ウィナー.md "wikilink")（声：[折笠愛](../Page/折笠愛.md "wikilink")）
   - [張五飛](../Page/張五飛.md "wikilink")（声：[石野竜三](../Page/石野竜三.md "wikilink")）
-  - [リリーナ・ドーリアン](https://ja.wikipedia.org/wiki/リリーナ・ドーリアン "wikilink")（声：[矢島晶子](../Page/矢島晶子.md "wikilink")）
+  - [リリーナ・ドーリアン](../Page/リリーナ・ドーリアン.md "wikilink")（声：[矢島晶子](../Page/矢島晶子.md "wikilink")）
   - [ソグラン](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#ソグラン "wikilink")（声：[辻親八](../Page/辻親八.md "wikilink")）
   - [クリス・マーレイ](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#クリス・マーレイ "wikilink")（声：[渡辺久美子](../Page/渡辺久美子.md "wikilink")）
-  - [ラルフ・カート](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#ラルフ・カート "wikilink")（声：[安井邦彦](https://ja.wikipedia.org/wiki/安井邦彦 "wikilink")）
+  - [ラルフ・カート](https://ja.wikipedia.org/wiki/新機動戦記ガンダムWの登場人物#ラルフ・カート "wikilink")（声：[安井邦彦](../Page/安井邦彦.md "wikilink")）
 
 ## 主題歌
 

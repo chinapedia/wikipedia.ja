@@ -3,7 +3,7 @@
 
 『**パンチDEデート**』（パンチでデート）は、[1973年](../Page/1973年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで[関西テレビで放送されていた](../Page/関西テレビ放送.md "wikilink")[視聴者参加型の](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[恋愛バラエティ番組](../Page/恋愛バラエティ番組.md "wikilink")である。その後も[1984年](../Page/1984年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで『**新・パンチDEデート**』と題して放送されていた。
 
-[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[ラブアタック\!](https://ja.wikipedia.org/wiki/ラブアタック! "wikilink")』、『[プロポーズ大作戦](https://ja.wikipedia.org/wiki/プロポーズ大作戦_\(バラエティ番組\) "wikilink")』と共に関西キー局制作の恋愛物バラエティ御三家の一つ。元々は[1972年](../Page/1972年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に関西テレビ深夜のローカル番組『[ナイトパンチ](https://ja.wikipedia.org/wiki/ナイトパンチ "wikilink")』木曜日版の1コーナーとしてスタートしたもので、若者風俗をうまく取り込んだことから人気が上昇し、翌年10月に30分のローカル番組として独立\[1\]。さらに1年後の1974年10月6日には[フジテレビ系全国ネット番組に昇格し](../Page/フジネットワーク.md "wikilink")、[フジテレビなどでも放送されるようになった](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
+[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[ラブアタック\!](../Page/ラブアタック!.md "wikilink")』、『[プロポーズ大作戦](../Page/プロポーズ大作戦_\(バラエティ番組\).md "wikilink")』と共に関西キー局制作の恋愛物バラエティ御三家の一つ。元々は[1972年](../Page/1972年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に関西テレビ深夜のローカル番組『[ナイトパンチ](https://ja.wikipedia.org/wiki/ナイトパンチ "wikilink")』木曜日版の1コーナーとしてスタートしたもので、若者風俗をうまく取り込んだことから人気が上昇し、翌年10月に30分のローカル番組として独立\[1\]。さらに1年後の1974年10月6日には[フジテレビ系全国ネット番組に昇格し](../Page/フジネットワーク.md "wikilink")、[フジテレビなどでも放送されるようになった](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
 
 司会は、落語家の桂三枝（後の[六代桂文枝](../Page/桂文枝_\(6代目\).md "wikilink")）と漫才師の[西川きよし](../Page/西川きよし.md "wikilink")が務めていた。
 
@@ -70,22 +70,22 @@
 
 番組終了から10年後の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、特別番組『帰ってきたパンチDEデート』が関西ローカルで放送された（一部系列局でも[番組販売](../Page/番組販売.md "wikilink")で放送）。
 
-2013年12月22日に、『祝\!芸能生活50周年 西川きよしが仕掛け人\!大目玉覚悟の初ドッキリ&復活\!パンチDEデートスペシャル』内の企画として復活\[3\]。公開収録の内容を2部構成で放送した。ちなみに、第1部では[今田耕司](../Page/今田耕司.md "wikilink")と[浅田舞](../Page/浅田舞.md "wikilink")、第2部では[小堺翔太](https://ja.wikipedia.org/wiki/小堺翔太 "wikilink")と[宇都宮まき](https://ja.wikipedia.org/wiki/宇都宮まき "wikilink")が出演し、いずれも対面後にハートマークが点灯した。オープニングでのタイトルコールでは、きよしが「ひと目会ったその日から」というフレーズを述べ始めたにもかかわらず、現在の「桂文枝」名義で登場した三枝が続きのフレーズを失念したためにコールをやり直すというハプニングがあった。
+2013年12月22日に、『祝\!芸能生活50周年 西川きよしが仕掛け人\!大目玉覚悟の初ドッキリ&復活\!パンチDEデートスペシャル』内の企画として復活\[3\]。公開収録の内容を2部構成で放送した。ちなみに、第1部では[今田耕司](../Page/今田耕司.md "wikilink")と[浅田舞](../Page/浅田舞.md "wikilink")、第2部では[小堺翔太](https://ja.wikipedia.org/wiki/小堺翔太 "wikilink")と[宇都宮まき](../Page/宇都宮まき.md "wikilink")が出演し、いずれも対面後にハートマークが点灯した。オープニングでのタイトルコールでは、きよしが「ひと目会ったその日から」というフレーズを述べ始めたにもかかわらず、現在の「桂文枝」名義で登場した三枝が続きのフレーズを失念したためにコールをやり直すというハプニングがあった。
 
 ## 収録
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:デジタルエイトビル.JPG "wikilink") 原則として毎月2回、[大阪市](../Page/大阪市.md "wikilink")内にあるSABホール（後の[リサイタルホール](../Page/リサイタルホール.md "wikilink")）に一般観覧客を招いて、2週分の収録を行った。SABホールが他興行やメンテナンスで使用できない場合は、[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")のほかの公会堂を使用していた。1984年4月7日放送分からは、[西天満](../Page/西天満.md "wikilink")にあった関西テレビのスタジオを使用した。
 
-また、年に3、4回は地方で公開収録を行っていた。[ハワイや](../Page/ハワイ州.md "wikilink")[グアム](../Page/グアム.md "wikilink")、[サイパン](https://ja.wikipedia.org/wiki/サイパン島 "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など、外国人や現地の日系人が出場した海外ロケ版も制作された。
+また、年に3、4回は地方で公開収録を行っていた。[ハワイや](../Page/ハワイ州.md "wikilink")[グアム](../Page/グアム.md "wikilink")、[サイパン](../Page/サイパン島.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")など、外国人や現地の日系人が出場した海外ロケ版も制作された。
 
 ## 補足
 
-  - 関西テレビを初めとする[FNNの加盟局では](../Page/フジニュースネットワーク.md "wikilink")、1970年代に番組の放送日（日曜日）が[国政選挙](https://ja.wikipedia.org/wiki/国政選挙 "wikilink")の投・開票日と重なる場合に、『パンチDEセンキョ FNN開票速報』というタイトルの[選挙特別番組](https://ja.wikipedia.org/wiki/選挙特別番組 "wikilink")を編成。本番組のレギュラー放送を休止する代わりに、三枝ときよしが当時河田町にあった[フジテレビのスタジオから生中継で同特番の進行役を務めた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。『決定版\!\!オールスター パンチDEセンキョ FNN開票速報』として放送された[第35回衆議院議員総選挙](../Page/第35回衆議院議員総選挙.md "wikilink")の特別番組（1979年10月7日放送）では開票速報の合間に、三枝ときよしの司会で芸能人の親子が登場する「パンチDEラブラブ」という企画を特別に生放送。いわゆる「[世襲候補者](https://ja.wikipedia.org/wiki/世襲政治家 "wikilink")」が目立った選挙戦にちなんで、[大村崑](../Page/大村崑.md "wikilink")親子と[キャロライン洋子](../Page/キャロライン洋子.md "wikilink")親子をゲストに迎えた。
+  - 関西テレビを初めとする[FNNの加盟局では](../Page/フジニュースネットワーク.md "wikilink")、1970年代に番組の放送日（日曜日）が[国政選挙](https://ja.wikipedia.org/wiki/国政選挙 "wikilink")の投・開票日と重なる場合に、『パンチDEセンキョ FNN開票速報』というタイトルの[選挙特別番組](../Page/選挙特別番組.md "wikilink")を編成。本番組のレギュラー放送を休止する代わりに、三枝ときよしが当時河田町にあった[フジテレビのスタジオから生中継で同特番の進行役を務めた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。『決定版\!\!オールスター パンチDEセンキョ FNN開票速報』として放送された[第35回衆議院議員総選挙](../Page/第35回衆議院議員総選挙.md "wikilink")の特別番組（1979年10月7日放送）では開票速報の合間に、三枝ときよしの司会で芸能人の親子が登場する「パンチDEラブラブ」という企画を特別に生放送。いわゆる「[世襲候補者](../Page/世襲政治家.md "wikilink")」が目立った選挙戦にちなんで、[大村崑](../Page/大村崑.md "wikilink")親子と[キャロライン洋子](../Page/キャロライン洋子.md "wikilink")親子をゲストに迎えた。
   - 土曜移動後にエンディングテーマが流れるようになった。
-  - [東海3県](https://ja.wikipedia.org/wiki/東海3県 "wikilink")では、元々[独立UHF局の](../Page/全国独立放送協議会.md "wikilink")[岐阜放送](../Page/岐阜放送.md "wikilink")と[三重テレビで](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[岐阜](../Page/岐阜県.md "wikilink")・[三重両県向けにネットされ](https://ja.wikipedia.org/wiki/三重県 "wikilink")、番組が全国ネットに昇格した後もしばらくこの2局でネットされていた。後に東海テレビにネット移行し、最終回まで同局で放送され続けた。
+  - [東海3県](../Page/東海3県.md "wikilink")では、元々[独立UHF局の](../Page/全国独立放送協議会.md "wikilink")[岐阜放送](../Page/岐阜放送.md "wikilink")と[三重テレビで](https://ja.wikipedia.org/wiki/三重テレビ放送 "wikilink")[岐阜](../Page/岐阜県.md "wikilink")・[三重両県向けにネットされ](https://ja.wikipedia.org/wiki/三重県 "wikilink")、番組が全国ネットに昇格した後もしばらくこの2局でネットされていた。後に東海テレビにネット移行し、最終回まで同局で放送され続けた。
   - 系列外の[青森テレビ](../Page/青森テレビ.md "wikilink")や岩手放送（現・[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")）、そして[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")\[4\]にて遅れネットで放送。それから当時は系列局だった[テレビ山口](../Page/テレビ山口.md "wikilink")（現在は[TBS系列だが](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、1987年9月までは[FNSにも加盟の](../Page/フジネットワーク.md "wikilink")[クロスネット局](../Page/クロスネット局.md "wikilink")）でも放送。テレビ山口では日曜23時から放送されていた。また、相互乗り入れ前の[香川地区では](../Page/香川県.md "wikilink")[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")で放送された。
   - 『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』では、[明石家さんま](../Page/明石家さんま.md "wikilink")が三枝に、[島田紳助](../Page/島田紳助.md "wikilink")がきよしに扮してオープニングを真似した。
-  - 深夜移行後は、オープニングで視聴者から寄せられたデートにまつわるエピソードを紹介した後に、三枝が「それでは、パンチDEデート！」とコールしてCMに入っていた。また、CM前のオープニングのタイトルバックでは、本番前に観覧客がいろんなゲームをする映像が流れた。そのときに司会（兼[前説](https://ja.wikipedia.org/wiki/前説 "wikilink")）を務めたのは、三枝の弟子の[桂三歩](../Page/桂三歩.md "wikilink")である。
+  - 深夜移行後は、オープニングで視聴者から寄せられたデートにまつわるエピソードを紹介した後に、三枝が「それでは、パンチDEデート！」とコールしてCMに入っていた。また、CM前のオープニングのタイトルバックでは、本番前に観覧客がいろんなゲームをする映像が流れた。そのときに司会（兼[前説](../Page/前説.md "wikilink")）を務めたのは、三枝の弟子の[桂三歩](../Page/桂三歩.md "wikilink")である。
   - 『[とんねるずのみなさんのおかげです](../Page/とんねるずのみなさんのおかげです.md "wikilink")』のパロディコント「新畑任三郎」で犯人役に三枝が出演した際、オープニングが再現され、三枝本人ときよしに扮した[木梨憲武](../Page/木梨憲武.md "wikilink")が番組のキャッチフレーズをコールしていた。
   - 2012年12月に上演された舞台『[吉本百年物語](https://ja.wikipedia.org/wiki/吉本百年物語 "wikilink")・日本全国テレビで遊ぼ』でこの番組が再現され、西川きよし役を長男の[忠志](../Page/西川忠志.md "wikilink")、桂三枝役を[なだぎ武](../Page/なだぎ武.md "wikilink")が演じた。出演した素人役は日替わりゲスト（[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")、[上泉雄一](../Page/上泉雄一.md "wikilink")、[近藤夏子](https://ja.wikipedia.org/wiki/近藤夏子 "wikilink")など）が演じた。舞台の千秋楽にはきよし夫妻と文枝本人が登場し、オープニングのかけあいが再現された。
   - 2016年現在、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")では、同番組のフォーマットを使った番組『BAN MUON HEN HO』が現地テレビ局により制作・放送されている\[5\]。
@@ -120,10 +120,10 @@
 
 ## 関連項目
 
-  - [プロポーズ大作戦](https://ja.wikipedia.org/wiki/プロポーズ大作戦_\(バラエティ番組\) "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")） - 本番組と同様に、関西ローカルから全国ネットへ進出した恋愛バラエティ番組。
-  - [ラブアタック\!](https://ja.wikipedia.org/wiki/ラブアタック! "wikilink") （朝日放送） - 同じく関西ローカルから全国ネットへ進出した恋愛バラエティ番組。
+  - [プロポーズ大作戦](../Page/プロポーズ大作戦_\(バラエティ番組\).md "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")） - 本番組と同様に、関西ローカルから全国ネットへ進出した恋愛バラエティ番組。
+  - [ラブアタック\!](../Page/ラブアタック!.md "wikilink") （朝日放送） - 同じく関西ローカルから全国ネットへ進出した恋愛バラエティ番組。
   - [三枝きよし興奮テレビ](../Page/三枝きよし興奮テレビ.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 再び三枝ときよしがコンビで司会を務めていたトークバラエティ番組。
-  - [ねるとん紅鯨団](https://ja.wikipedia.org/wiki/ねるとん紅鯨団 "wikilink")（関西テレビ） - 『新・パンチDEデート』と同じ枠で放送された関西テレビ製作・ミズノ提供の集団見合い番組。
+  - [ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")（関西テレビ） - 『新・パンチDEデート』と同じ枠で放送された関西テレビ製作・ミズノ提供の集団見合い番組。
 
 [Category:1973年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1973年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:関西テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:関西テレビの深夜番組 "wikilink") [Category:関西テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:関西テレビの一社提供番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:他番組から派生した番組](https://ja.wikipedia.org/wiki/Category:他番組から派生した番組 "wikilink") [Category:ミズノ一社提供番組](https://ja.wikipedia.org/wiki/Category:ミズノ一社提供番組 "wikilink") [Category:見合いを題材とした番組](https://ja.wikipedia.org/wiki/Category:見合いを題材とした番組 "wikilink") [Category:桂文枝_(6代目)](https://ja.wikipedia.org/wiki/Category:桂文枝_\(6代目\) "wikilink") [Category:横山やすし・西川きよし](https://ja.wikipedia.org/wiki/Category:横山やすし・西川きよし "wikilink")
 

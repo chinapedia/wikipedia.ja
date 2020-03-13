@@ -5,7 +5,7 @@
 
 ## 概要
 
-当時[NeXT](../Page/NeXT.md "wikilink")社の製品の一部であった[WebObjects](https://ja.wikipedia.org/wiki/WebObjects "wikilink") Builderをヒントに、GoLive Systemsが[Mac用WebオーサリングツールとしてGoLive](../Page/Macintosh.md "wikilink") CyberStudioの名称でバージョン3までを開発。当初はMac版のみのリリースであった\[1\]。
+当時[NeXT](../Page/NeXT.md "wikilink")社の製品の一部であった[WebObjects](../Page/WebObjects.md "wikilink") Builderをヒントに、GoLive Systemsが[Mac用WebオーサリングツールとしてGoLive](../Page/Macintosh.md "wikilink") CyberStudioの名称でバージョン3までを開発。当初はMac版のみのリリースであった\[1\]。
 
 一方、アドビシステムズはWeb製作ツールの開発でグラフィックソフト界の長年のライバル・[マクロメディア](../Page/マクロメディア.md "wikilink")に完全に遅れをとっていた。アドビシステムズはオーサリングツールとして[PageMillを販売していたが一般サイトならかろうじて作成できる程度の廉価製品でしかなく](https://ja.wikipedia.org/wiki/Adobe_PageMill "wikilink")、マクロメディアの[Dreamweaverと比較するとプロユースのWeb開発ツールとしてはとても使い物にならなかった](../Page/Adobe_Dreamweaver.md "wikilink")。また、PageMillは同社の[Illustratorや](../Page/Adobe_Illustrator.md "wikilink")[Photoshopとの連携性があまり良くなく](../Page/Adobe_Photoshop.md "wikilink")(というより開発の遅れから連携性を高めるための開発期間が取れなかった)、マクロメディアの[Flash](../Page/Adobe_Flash.md "wikilink")・[Fireworksのようなオーサリングツールと連携性が強いWeb製作向けのグラフィックツールを揃えていなかったことも不利に働く要因になっていた](../Page/Adobe_Fireworks.md "wikilink")。そのような状況を打開するため、アドビシステムズは[1999年](../Page/1999年.md "wikilink")にGoLive社の買収を決行。Adobe GoLiveに改称の上Windowsにも対応し、アドビシステムズによって引き続き開発・販売された。
 
@@ -27,7 +27,7 @@
   - [2000年](../Page/2000年.md "wikilink") Adobe GoLive 5.0
   - [2002年](../Page/2002年.md "wikilink") Adobe GoLive 6.0
   - [2003年](../Page/2003年.md "wikilink") Adobe GoLive CS (7)
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") Adobe GoLive CS2 (8)
+  - [2005年](../Page/2005年.md "wikilink") Adobe GoLive CS2 (8)
   - [2007年](../Page/2007年.md "wikilink") Adobe GoLive 9
 
 ## 脚注
@@ -37,7 +37,7 @@
 ## 競合製品
 
   - Macromedia Dreamweaver（現 [Adobe Dreamweaver](../Page/Adobe_Dreamweaver.md "wikilink")）
-  - [Microsoft FrontPage](https://ja.wikipedia.org/wiki/Microsoft_FrontPage "wikilink")
+  - [Microsoft FrontPage](../Page/Microsoft_FrontPage.md "wikilink")
   - [Microsoft Expression Web](../Page/Microsoft_Expression_Web.md "wikilink")
   - [ホームページビルダー](https://ja.wikipedia.org/wiki/ホームページビルダー "wikilink")
 

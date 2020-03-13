@@ -47,9 +47,9 @@ X-メンのメンバーはチームの再編成や増強などしているため
 
 1980年代に[光文社](../Page/光文社.md "wikilink")がアメリカンコミックと日本の漫画を半分ずつ掲載した月刊誌ポップコーンにおいて、クラコアとの戦いで第二期X-MENが結成される話などが2号分収録されている。
 
-1990年代にゲームの制作やアニメの放映により、日本語版の出版も盛んになった。小学館プロダクション（現・[小学館集英社プロダクション](https://ja.wikipedia.org/wiki/小学館集英社プロダクション "wikilink")）からジム・リーが活躍していた頃の作品を中心に全17巻の『』が発売。続いてウルヴァリンのスピンオフである『ウェポンX』、シリーズのガイド本である『アンキャニィX-MEN』が発売された。マーヴルコミックのオムニバス雑誌『[マーヴルクロス](https://ja.wikipedia.org/wiki/マーヴルクロス "wikilink")』全17巻においては様々な短編エピソードや長編シリーズが収録された。そしてクロスオーバーを集中的に収録した、『エイジ・オブ・アポカリプス』全3巻、『オンスロート』全4巻、『ゼロトレランス』全6巻が発売された。
+1990年代にゲームの制作やアニメの放映により、日本語版の出版も盛んになった。小学館プロダクション（現・[小学館集英社プロダクション](../Page/小学館集英社プロダクション.md "wikilink")）からジム・リーが活躍していた頃の作品を中心に全17巻の『』が発売。続いてウルヴァリンのスピンオフである『ウェポンX』、シリーズのガイド本である『アンキャニィX-MEN』が発売された。マーヴルコミックのオムニバス雑誌『[マーヴルクロス](https://ja.wikipedia.org/wiki/マーヴルクロス "wikilink")』全17巻においては様々な短編エピソードや長編シリーズが収録された。そしてクロスオーバーを集中的に収録した、『エイジ・オブ・アポカリプス』全3巻、『オンスロート』全4巻、『ゼロトレランス』全6巻が発売された。
 
-原作コミックの出版を受け、[メディアワークス](../Page/メディアワークス.md "wikilink")（現・[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）の[電撃文庫](../Page/電撃文庫.md "wikilink")から日本語版オリジナル展開の[ライトノベル](../Page/ライトノベル.md "wikilink")が全3巻が出版された。他にも、日本人漫画家によるアニメ版などの再漫画化版が[竹書房](../Page/竹書房.md "wikilink")の『[コミックガンマ](https://ja.wikipedia.org/wiki/コミックガンマ "wikilink")』に連載され、後に全13巻の単行本に纏められた。これらの漫画作品は後にアメリカで英語訳されマーベル社からも『X-MEN:THE MANGA』として99年までに26巻発売された。
+原作コミックの出版を受け、[メディアワークス](../Page/メディアワークス.md "wikilink")（現・[アスキー・メディアワークス](https://ja.wikipedia.org/wiki/アスキー・メディアワークス "wikilink")）の[電撃文庫](../Page/電撃文庫.md "wikilink")から日本語版オリジナル展開の[ライトノベル](../Page/ライトノベル.md "wikilink")が全3巻が出版された。他にも、日本人漫画家によるアニメ版などの再漫画化版が[竹書房](../Page/竹書房.md "wikilink")の『[コミックガンマ](../Page/コミックガンマ.md "wikilink")』に連載され、後に全13巻の単行本に纏められた。これらの漫画作品は後にアメリカで英語訳されマーベル社からも『X-MEN:THE MANGA』として99年までに26巻発売された。
 
 2000年代には[新潮社](../Page/新潮社.md "wikilink")よりパラレルワールド（アルティメット・マーベル・ユニバース）を舞台としたリメイク作『アルティメット』が発売された。だが脚本家のマーク・ミラーが継続して担当した33話分、全11巻を期に発売中止となった。同時期に[麻宮騎亜](../Page/麻宮騎亜.md "wikilink")がアーティストとして参加した『アンキャニィ』も発売された。2000年代後半から[ヴィレッジブックス](../Page/ヴィレッジブックス.md "wikilink")と小学館集英社プロダクションより『ウルヴァリン:オリジン』、『アストニッシング』、『ハウスオブM』などが発売された。二社は2010年代に入ってからも継続してX-MENの邦訳コミックを出版しているが、X-MENの出版が最優先されていた90年代とは異なり、[アベンジャーズ](https://ja.wikipedia.org/wiki/アベンジャーズ "wikilink")や[スパイダーマン](../Page/スパイダーマン.md "wikilink")がメインでX-MEN関連タイトルの出版頻度は低く、シリーズ出版が中断したり、通常書店に流通しない通販専売タイトルとなることも多い。
 
@@ -227,7 +227,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 
   -  ([Professor X](https://ja.wikipedia.org/wiki/:en:Professor_X "wikilink"))
     本名：チャールズ・フランシス・エグゼビア
-    地上最強の[テレパス](https://ja.wikipedia.org/wiki/テレパシー "wikilink")。他人の心を読む、記憶を操作する、メンタルブラストを放つなど様々なサイオニック能力を持つ。
+    地上最強の[テレパス](../Page/テレパシー.md "wikilink")。他人の心を読む、記憶を操作する、メンタルブラストを放つなど様々なサイオニック能力を持つ。
     10代で能力に目覚めるが、力を上手くコントロールできず、そのストレスから頭がはげ上がる。[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")に進学した頃には能力を活用できるようになり「精神医学の魔術師」とのあだ名を持っていた。大学時代に同僚となるモイラ・マグダガードと恋に落ちるが、エグゼビアの[アメリカ軍](../Page/アメリカ軍.md "wikilink")入隊（従軍は作品によって[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")、または[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")と異なる）により別れる。[除隊](https://ja.wikipedia.org/wiki/除隊 "wikilink")後は世界を巡る旅に出た。ホロコースト生存者のために精神的な治療を施す診療所で医者として働いていた時に、エリック（マグニートー）と出会い、ミュータントの未来を語りあう親友となる。だが、ヒドラ幹部のバロン・フォン・ストラッカーとの戦いで力を無慈悲に行使するエリックの姿を見て、相容れないことを実感し袂を分かつ。また、看護婦のガブリエル・ハラーと付き合い息子（リージョン）を妊娠させるが、当時のエグゼビアはこの事を知らず後になって告げられる。エリックと別れた後、凶悪な宇宙人ルシファーを撃退するが、その攻撃により[脊髄](../Page/脊髄.md "wikilink")を損傷したため車椅子を用いるようになった。
     悪意を持つミュータントがいることやミュータントに対する偏見が日増しに拡がっていくことから、人類とミュータントの平和的共存を願い、莫大な遺産（30億ドル超の遺産を核兵器研究者の父親から受け継いだ）を元手にニューヨーク州セイラムセンター郊外にミュータントのための学園、「恵まれし子らの学園」を設立した。エグゼビアはセレブロを開発して各地に点在する子供のミュータントを保護し、力の正しい使い方を説いた。また戦いの際にはテレパシー能力を利用して生徒達（X-メン）に指示を出し、チームの司令塔として活躍した。表向きにはミュータントであることを公表せず、ミュータント学の権威としてその地位向上に尽くした。X-メンがクラコアとの戦いで危機に陥った際には、二期メンバーを自ら集めその救出にあたらせた。
     星間帝国シャイアを統べる邪悪な皇帝ディケンの打倒に協力したことが縁となり、新たに女帝となったリランドラと恋仲となる。マグニートー裁判の折り暴徒のせいで重傷を負い、治療のためにシャイアへ行き一時チームを脱退する。アステロイドMでの戦いでマグニートーがウルヴァリンのアダマンチウムを全部抜き取ると言う暴挙を見ると、敵意を持って精神攻撃を行い彼の記憶を除去するが、これがオンスロート誕生のきっかけとなった。
@@ -287,7 +287,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
     瞬間移動の能力とアクロバティックな体術を得意とするミュータント。詳細は個別記事を参照。
   - サイロック ([Psylocke](https://ja.wikipedia.org/wiki/:en:Psylocke "wikilink"))
     本名：エリザベス（ベッツィ）・ブラドック
-    テレパシー能力を持つ。父親ジェームス・ブラドックは異次元人で、能力は父親からの遺伝である。X-MENに参加する前、スレイマスターとの戦いで両目を失明、モジョに人造の目を与えられる。元は英国人だが、マツオ・ツラヤバの愛人である女忍者カンノンと精神融合してしまい、その後マツオによって分離された後に忍術を仕込まれる。そのため東洋人の外見を持ち忍術を使う。分離した本来の肉体の持ち主であるルバンシェ（サイロックとカンノンの融合体）がレガシーウイルスで死んだために、サイロックはカンノンの肉体で生きることになる。サイキック・ナイフと呼ばれる特異な精神衝撃を用いた攻撃が得意。双子の兄は英国で活躍する[スーパーヒーロー](https://ja.wikipedia.org/wiki/スーパーヒーロー "wikilink")で「エクスカリバー」のメンバーの[キャプテン・ブリテン](https://ja.wikipedia.org/wiki/キャプテン・ブリテン "wikilink")。カンノンの奔放な精神面が発露し、一時期サイクロップスを誘惑したことがある。アークエンジェルと恋仲になるも、サンダーバードIIIに気持ちが揺れて振られる。デスティニーの書を集める為にX-メン本隊を離脱して、ストームらの別行動隊に参加するもすぐに戦死してしまう。
+    テレパシー能力を持つ。父親ジェームス・ブラドックは異次元人で、能力は父親からの遺伝である。X-MENに参加する前、スレイマスターとの戦いで両目を失明、モジョに人造の目を与えられる。元は英国人だが、マツオ・ツラヤバの愛人である女忍者カンノンと精神融合してしまい、その後マツオによって分離された後に忍術を仕込まれる。そのため東洋人の外見を持ち忍術を使う。分離した本来の肉体の持ち主であるルバンシェ（サイロックとカンノンの融合体）がレガシーウイルスで死んだために、サイロックはカンノンの肉体で生きることになる。サイキック・ナイフと呼ばれる特異な精神衝撃を用いた攻撃が得意。双子の兄は英国で活躍する[スーパーヒーロー](../Page/スーパーヒーロー.md "wikilink")で「エクスカリバー」のメンバーの[キャプテン・ブリテン](https://ja.wikipedia.org/wiki/キャプテン・ブリテン "wikilink")。カンノンの奔放な精神面が発露し、一時期サイクロップスを誘惑したことがある。アークエンジェルと恋仲になるも、サンダーバードIIIに気持ちが揺れて振られる。デスティニーの書を集める為にX-メン本隊を離脱して、ストームらの別行動隊に参加するもすぐに戦死してしまう。
   - ローグ ([Rogue](https://ja.wikipedia.org/wiki/:en:Rogue_\(comics\) "wikilink"))
     本名：アンナ・マリー（映画ではマリー・ダンキャント）
     接触した相手のエネルギーや、記憶、能力などを奪うことができるミュータント。かつては、触れた相手は昏睡状態となるため手袋を身につけていたが、弱点を克服し相手を疲弊させることはなくなった。ガンビットと恋愛関係にあるが、彼女の能力が影響して付かず離れずを繰り返す。また能力が効かないマグニートーとも惹かれ合ったことがある。
@@ -495,7 +495,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <!-- end list -->
 
   -
-    監督：[ブライアン・シンガー](../Page/ブライアン・シンガー.md "wikilink") / 出演：[ヒュー・ジャックマン](https://ja.wikipedia.org/wiki/ヒュー・ジャックマン "wikilink")、[パトリック・スチュワート](../Page/パトリック・スチュワート.md "wikilink") 他
+    監督：[ブライアン・シンガー](../Page/ブライアン・シンガー.md "wikilink") / 出演：[ヒュー・ジャックマン](../Page/ヒュー・ジャックマン.md "wikilink")、[パトリック・スチュワート](../Page/パトリック・スチュワート.md "wikilink") 他
 
 <!-- end list -->
 
@@ -513,7 +513,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <!-- end list -->
 
   -
-    監督：[ブレット・ラトナー](https://ja.wikipedia.org/wiki/ブレット・ラトナー "wikilink") / 出演：ヒュー・ジャックマン、[ハル・ベリー](https://ja.wikipedia.org/wiki/ハル・ベリー "wikilink") 他
+    監督：[ブレット・ラトナー](../Page/ブレット・ラトナー.md "wikilink") / 出演：ヒュー・ジャックマン、[ハル・ベリー](https://ja.wikipedia.org/wiki/ハル・ベリー "wikilink") 他
 
 ### 新三部作
 
@@ -617,7 +617,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
       - 竹書房はコミカライズ版とフィルムコミックを出版。
       - カプコンはゲーム化を行った。
       - 竹書房から発行されていたコミックは番組やビデオでもCMが流れていた。
-      - 日本語吹替版は[ポリグラム](https://ja.wikipedia.org/wiki/ポリグラム "wikilink")株式会社（現・[ユニバーサル ミュージック合同会社](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から全14巻としてビデオで発売\[19\]。
+      - 日本語吹替版は[ポリグラム](../Page/ポリグラム.md "wikilink")株式会社（現・[ユニバーサル ミュージック合同会社](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から全14巻としてビデオで発売\[19\]。
 
 #### キャスト
 
@@ -635,7 +635,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <td><p>サイクロップス</p></td>
 <td><p>ノーマン・スペンサー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山寺宏一" title="wikilink">山寺宏一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長嶝高士" title="wikilink">長嶝高士</a></p></td>
+<td><p><a href="../Page/長嶝高士.md" title="wikilink">長嶝高士</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ウルヴァリン</p></td>
@@ -646,7 +646,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="odd">
 <td><p>ジーン・グレイ</p></td>
 <td><p>キャサリン・ディッシャー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安達忍" title="wikilink">安達忍</a></p></td>
+<td><p><a href="../Page/安達忍.md" title="wikilink">安達忍</a></p></td>
 <td><p><a href="../Page/紗川じゅん.md" title="wikilink">紗川じゅん</a></p></td>
 </tr>
 <tr class="even">
@@ -670,8 +670,8 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="odd">
 <td><p>ビースト</p></td>
 <td><p>ジョージ・ブザ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉繁" title="wikilink">千葉繁</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤晴男" title="wikilink">佐藤晴男</a></p></td>
+<td><p><a href="../Page/千葉繁.md" title="wikilink">千葉繁</a></p></td>
+<td><p><a href="../Page/佐藤晴男.md" title="wikilink">佐藤晴男</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ジュビリー</p></td>
@@ -694,7 +694,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="odd">
 <td><p>ハボック</p></td>
 <td><p>ノーム・スペンサー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/星野充昭" title="wikilink">星野充昭</a></p></td>
+<td><p><a href="../Page/星野充昭.md" title="wikilink">星野充昭</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -730,7 +730,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="odd">
 <td><p>バンシー</p></td>
 <td><p>ジェレミー・ラッチフォード</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安井邦彦" title="wikilink">安井邦彦</a></p></td>
+<td><p><a href="../Page/安井邦彦.md" title="wikilink">安井邦彦</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -790,7 +790,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="odd">
 <td><p>モーフ</p></td>
 <td><p>ロン・ルーベン</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小形満" title="wikilink">小形満</a></p></td>
+<td><p><a href="../Page/小形満.md" title="wikilink">小形満</a></p></td>
 <td><p><a href="../Page/石上裕一.md" title="wikilink">石上裕一</a></p></td>
 </tr>
 <tr class="even">
@@ -808,7 +808,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="even">
 <td><p>グレイドン・クリード</p></td>
 <td><p>ジョン・ストッカー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小室正幸" title="wikilink">小室正幸</a></p></td>
+<td><p><a href="../Page/小室正幸.md" title="wikilink">小室正幸</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -958,7 +958,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="odd">
 <td><p>ビートリー裁判官</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/糸博" title="wikilink">糸博</a></p></td>
+<td><p><a href="../Page/糸博.md" title="wikilink">糸博</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1000,7 +1000,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="even">
 <td><p>ルクル</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安藤ありさ" title="wikilink">安藤ありさ</a></p></td>
+<td><p><a href="../Page/安藤ありさ.md" title="wikilink">安藤ありさ</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1048,7 +1048,7 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="even">
 <td><p>女ミュータント</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本間ゆかり" title="wikilink">本間ゆかり</a></p></td>
+<td><p><a href="../Page/本間ゆかり.md" title="wikilink">本間ゆかり</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1060,14 +1060,14 @@ X-メンのメンバーには、かつて在籍した者や関連チームに所
 <tr class="even">
 <td><p>女性アナウンサー</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/松岡洋子_(声優)" title="wikilink">松岡洋子</a><br />
+<td><p><a href="../Page/松岡洋子_(声優).md" title="wikilink">松岡洋子</a><br />
 <a href="../Page/木藤聡子.md" title="wikilink">木藤聡子</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>役名表示なし</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柴本浩行" title="wikilink">柴本浩行</a><br />
+<td><p><a href="../Page/柴本浩行.md" title="wikilink">柴本浩行</a><br />
 岩永哲哉<br />
 小形満<br />
 安藤ありさ</p></td>
@@ -1144,7 +1144,7 @@ X-メンのメンバーの一部をハイティーンに設定し、学園青春
 
 ### エックスメン（マッドハウス版）
 
-日本のアニメ制作会社[マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")が制作し、アニメ専門チャンネル[アニマックス](../Page/アニマックス.md "wikilink")で放送されるマーベル作品アニメ化シリーズ第3弾。2011年4月1日より放送。
+日本のアニメ制作会社[マッドハウス](../Page/マッドハウス.md "wikilink")が制作し、アニメ専門チャンネル[アニマックス](../Page/アニマックス.md "wikilink")で放送されるマーベル作品アニメ化シリーズ第3弾。2011年4月1日より放送。
 
 ### ディスク・ウォーズ:アベンジャーズ
 
@@ -1163,10 +1163,10 @@ X-メンのメンバーの一部をハイティーンに設定し、学園青春
   - [エックス・メン チルドレン オブ ジ アトム](../Page/エックス・メン_チルドレン_オブ_ジ_アトム.md "wikilink")（[カプコン](../Page/カプコン.md "wikilink")）
     1994年稼動開始。『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』に始まるブーム中に出された[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。アーケードを初め、様々な機種に移植された。以下はシリーズ。[VS.シリーズ](../Page/VS.シリーズ.md "wikilink")の項目も参照。
       - [マーヴル・スーパーヒーローズ](../Page/マーヴル・スーパーヒーローズ.md "wikilink")（カプコン）
-        [エックスメン VS. ストリートファイター](https://ja.wikipedia.org/wiki/X-MEN_VS._STREET_FIGHTER "wikilink")（カプコン）
+        [エックスメン VS. ストリートファイター](../Page/X-MEN_VS._STREET_FIGHTER.md "wikilink")（カプコン）
         [マーヴル・スーパーヒーローズ VS. ストリートファイター](../Page/マーヴル・スーパーヒーローズ_VS._ストリートファイター.md "wikilink")（カプコン）
         [MARVEL VS. CAPCOM CLASH OF SUPER HEROES](../Page/MARVEL_VS._CAPCOM_CLASH_OF_SUPER_HEROES.md "wikilink")（カプコン）
-        [MARVEL VS. CAPCOM 2 NEW AGE OF HEROES](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES "wikilink")（カプコン）
+        [MARVEL VS. CAPCOM 2 NEW AGE OF HEROES](../Page/MARVEL_VS._CAPCOM_2_NEW_AGE_OF_HEROES.md "wikilink")（カプコン）
         [MARVEL VS. CAPCOM 3 Fate of Two Worlds](https://ja.wikipedia.org/wiki/MARVEL_VS._CAPCOM_3_Fate_of_Two_Worlds "wikilink")（カプコン）
         [PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Xbox 360で発売](../Page/Xbox_360.md "wikilink")。
   - [X-MEN Mutant Apocalypse](https://ja.wikipedia.org/wiki/X-MEN_Mutant_Apocalypse "wikilink")（カプコン）
@@ -1180,7 +1180,7 @@ X-メンのメンバーの一部をハイティーンに設定し、学園青春
   - [:en:X-Men Legends](https://ja.wikipedia.org/wiki/:en:X-Men_Legends "wikilink")
     [Xboxのワールドコレクションで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。発売はACTIVISION、開発はRAVEN SOFTWARE。斜め上から見たスタイルのアクションRPG。続編も発売された。
   - [:en:X-Men Legends II: Rise of Apocalypse](https://ja.wikipedia.org/wiki/:en:X-Men_Legends_II:_Rise_of_Apocalypse "wikilink")
-    Xbox、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")3ハード同時発売されたが、発売日が遅れて[PlayStation Portableも発売された](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。日本では発売されていないが、Xboxなら海外版をプレイすることができる。
+    Xbox、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")3ハード同時発売されたが、発売日が遅れて[PlayStation Portableも発売された](../Page/PlayStation_Portable.md "wikilink")。日本では発売されていないが、Xboxなら海外版をプレイすることができる。
     尚、PSP版は発売が遅れた代わりにキャラクターが4人追加されている。
     X-MEN LEGENDSの続編で、『エイジ・オブ・アポカリプス』をモデルとしたゲーム版オリジナルストーリーでゲームが進む。システムに大きな変化はない。ナイトクロウラーなどは『エイジ・オブ・アポカリプス』をモデルとしたグラフィックになっているが、同作で死んでいたプロフェッサーXが生きているなどストーリーの核となる部分が変わっている。
     PSP版では4人の追加キャラが使用可能となり、「発売が遅れてすみません。しかしPSPではケーブルが使えます！！」という売り文句をWebサイトで載せていた。

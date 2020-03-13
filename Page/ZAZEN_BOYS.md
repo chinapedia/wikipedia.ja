@@ -3,20 +3,20 @@
 
 **ZAZEN BOYS**（ザゼン・ボーイズ）は、2003年に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。
 
-所属[レーベルは](../Page/レコードレーベル.md "wikilink")、メンバーの[向井秀徳](https://ja.wikipedia.org/wiki/向井秀徳 "wikilink")が自ら立ち上げた「[MATSURI STUDIO](https://ja.wikipedia.org/wiki/MATSURI_STUDIO "wikilink")」。
+所属[レーベルは](../Page/レコードレーベル.md "wikilink")、メンバーの[向井秀徳](../Page/向井秀徳.md "wikilink")が自ら立ち上げた「[MATSURI STUDIO](https://ja.wikipedia.org/wiki/MATSURI_STUDIO "wikilink")」。
 
 ## メンバー
 
 ### 現メンバー
 
-  - **[向井秀徳](https://ja.wikipedia.org/wiki/向井秀徳 "wikilink")**（むかい しゅうとく）-1973年生まれ- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。
+  - **[向井秀徳](../Page/向井秀徳.md "wikilink")**（むかい しゅうとく）-1973年生まれ- [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")、[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。
   - **[吉兼聡](https://ja.wikipedia.org/wiki/吉兼聡 "wikilink")**（よしかね そう）-1974年生まれ- ギター、[サンプラー](../Page/サンプラー.md "wikilink")担当。右手に施された[刺青](https://ja.wikipedia.org/wiki/刺青 "wikilink")がトレードマーク。通称「カシオマン」
   - **[松下敦](https://ja.wikipedia.org/wiki/松下敦 "wikilink")**（まつした あつし）-1969年生まれ- [ドラム担当](../Page/ドラムセット.md "wikilink")。2005年1月加入。通称「[柔道](../Page/柔道.md "wikilink")二段・松下敦」
   - **[MIYA](https://ja.wikipedia.org/wiki/BLEACH_\(バンド\) "wikilink")**（みや）-1979年生まれ- [ベース担当](../Page/エレクトリックベース.md "wikilink")。2018年7月加入。
 
 ### 元メンバー
 
-  - **[アヒト・イナザワ](https://ja.wikipedia.org/wiki/アヒト・イナザワ "wikilink")** - [ドラム担当](../Page/ドラムセット.md "wikilink")。2004年12月脱退。脱退後、[VOLA & THE ORIENTAL MACHINEを結成](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")。通称「アピート・イナザワンテ」。
+  - **[アヒト・イナザワ](../Page/アヒト・イナザワ.md "wikilink")** - [ドラム担当](../Page/ドラムセット.md "wikilink")。2004年12月脱退。脱退後、[VOLA & THE ORIENTAL MACHINEを結成](../Page/VOLA_&_THE_ORIENTAL_MACHINE.md "wikilink")。通称「アピート・イナザワンテ」。
   - **[日向秀和](https://ja.wikipedia.org/wiki/日向秀和 "wikilink")**（ひなた ひでかず）- [ベース担当](../Page/エレクトリックベース.md "wikilink")。2007年2月脱退。以降はZAZEN在籍当時から並行して参加していた[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")、脱退後に結成された[Nothing's Carved In Stone他様々なバンドでの活動を継続](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")。在籍時の通称は「[町田のヤンキー](../Page/町田市.md "wikilink")」。
   - **[吉田一郎](../Page/吉田一郎_\(ミュージシャン\).md "wikilink")**（よしだ いちろう） -1982年生まれ- [ベース担当](../Page/エレクトリックベース.md "wikilink")。2007年3月加入。2017年12月をもって脱退。
 
@@ -30,7 +30,7 @@
 
 当時[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")のベーシストだった日向を向井が誘ったきっかけは、ダブ・バンド[DRY\&HEAVY](../Page/DRY&HEAVY.md "wikilink")のライブをたまたま一緒に見ていた際、「自分さ、あんくらい出せんの？」と向井が聞き、「出せますよ」と日向が答えたことだと言われている。日向は向井に挑発されたと思い、少しムキになって言ってしまったとインタビューで語っている。また、数日後に初めて向井、アヒトと行ったセッションは人生で一番緊張したとも語る。
 
-2003年8月15日に開催された[ライジング・サン・ロックフェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")で初のライブを行う。その後日向、吉兼が正式に加入。
+2003年8月15日に開催された[ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")で初のライブを行う。その後日向、吉兼が正式に加入。
 
 2004年1月、1stアルバム『**ZAZEN BOYS**』をリリース。レコーディングの際にアルバムの雰囲気と合わなかった数曲を収録した、シングル『**半透明少女関係**』を同年2月にリリース。
 
@@ -40,11 +40,11 @@
 
 2004年12月30日の[COUNTDOWN JAPAN04/05のライブをもって](https://ja.wikipedia.org/wiki/COUNTDOWN_JAPAN#COUNT_DOWN_JAPAN_04.2F05 "wikilink")、約10年間の活動を共にして来たアヒト・イナザワが脱退。
 
-2005年1月、ドラムに松下敦（元[ズボンズ](../Page/ズボンズ.md "wikilink")メンバー・[Buffalo Daughterサポートメンバー](../Page/Buffalo_Daughter.md "wikilink")）が加入。同年4月、[新宿LOFTにて松下敦の加入後初ライブを行う](../Page/ロフト_\(ライブハウス\).md "wikilink")。その後、[大阪で行われたライブの音源を自身の公式HPで無料配信](../Page/大阪府.md "wikilink")、[Apple Storeでのライブ音源を向井自らMIXし](https://ja.wikipedia.org/wiki/Apple_Store "wikilink")[iTMS](https://ja.wikipedia.org/wiki/iTMS "wikilink")で販売するなど、新しい形の流通スタイルを積極的に取り入れ始める。
+2005年1月、ドラムに松下敦（元[ズボンズ](../Page/ズボンズ.md "wikilink")メンバー・[Buffalo Daughterサポートメンバー](../Page/Buffalo_Daughter.md "wikilink")）が加入。同年4月、[新宿LOFTにて松下敦の加入後初ライブを行う](../Page/ロフト_\(ライブハウス\).md "wikilink")。その後、[大阪で行われたライブの音源を自身の公式HPで無料配信](../Page/大阪府.md "wikilink")、[Apple Storeでのライブ音源を向井自らMIXし](../Page/Apple_Store.md "wikilink")[iTMS](https://ja.wikipedia.org/wiki/iTMS "wikilink")で販売するなど、新しい形の流通スタイルを積極的に取り入れ始める。
 
 同年7月にはマキシシングル『**HIMITSU GIRL'S TOP SECRET**』をリリース。翌年の2006年1月、3rdアルバム『**ZAZEN BOYS III**』をリリース。
 
-同年8月18日の[ライジング・サン・ロックフェスティバル](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")では、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")がゲストボーカルとして登場した。
+同年8月18日の[ライジング・サン・ロックフェスティバル](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")では、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")がゲストボーカルとして登場した。
 
 2007年2月7日に、[向井の日記](http://www.mukaishutoku.com/diary_2007.html)にて日向の脱退が発表された。様々なバンドのメンバーである日向と時間の折り合いが付きにくくなった事で、向井が脱退するように告げたとされている。
 
@@ -747,7 +747,7 @@ MSVL-016</p></td>
       - 『I Don't Wanna Be With You』を収録。
   - **『[サッドソング・フォー・アグリードーター](https://ja.wikipedia.org/wiki/サッドソング・フォー・アグリードーター "wikilink")』 オリジナル・サウンドトラック** （2011年6月22日、MSAL-0014）
       - 向井秀徳名義。
-  - **DJ[やついいちろう](https://ja.wikipedia.org/wiki/やついいちろう "wikilink") - YATSUI FESTIVAL\!**（2013年6月12日、VICL-64028）
+  - **DJ[やついいちろう](../Page/やついいちろう.md "wikilink") - YATSUI FESTIVAL\!**（2013年6月12日、VICL-64028）
       - 『COLD BEAT』を収録。
   - **Deerhoof / Zazen Boys – Hitch-Hike / 無口なガール**（2014年6月14日、DUM-DUM-003） ※ライブ会場限定販売
       - [DeerHoofとのスプリット](../Page/ディアフーフ.md "wikilink")7inch。『無口なガール』を収録。

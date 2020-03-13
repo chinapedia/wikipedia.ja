@@ -1,11 +1,11 @@
 > この記事は[SS](https://ja.wikipedia.org/wiki/SS)から翻訳されています。
 
 
-**株式会社SSコミュニティー**（えすえす -、SS Community Inc.）は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")に本社がある[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業。おもな業務は[警備](https://ja.wikipedia.org/wiki/警備 "wikilink")および[イベント](../Page/イベント.md "wikilink")運営補助。
+**株式会社SSコミュニティー**（えすえす -、SS Community Inc.）は、[千葉県](../Page/千葉県.md "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")に本社がある[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業。おもな業務は[警備](../Page/警備.md "wikilink")および[イベント](../Page/イベント.md "wikilink")運営補助。
 
 ## 概要
 
-創立後、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")にある[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")：[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")の運営補助および警備業務を受託するとともに日本テレビワーク24との業務提携により[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")：[東京ヴェルディの運営補助および警備業務とスポーツ](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[イベント](../Page/イベント.md "wikilink")の運営補助および警備業務に特化している。
+創立後、[千葉県](../Page/千葉県.md "wikilink")[柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")にある[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")：[柏レイソル](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")の運営補助および警備業務を受託するとともに日本テレビワーク24との業務提携により[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")：[東京ヴェルディの運営補助および警備業務とスポーツ](https://ja.wikipedia.org/wiki/東京ヴェルディ1969 "wikilink")[イベント](../Page/イベント.md "wikilink")の運営補助および警備業務に特化している。
 
 [プロ野球](../Page/プロ野球.md "wikilink")会場係員及び駐車場警備や[CM撮影など](../Page/コマーシャルメッセージ.md "wikilink")[ロケーション撮影](https://ja.wikipedia.org/wiki/ロケーション撮影 "wikilink")警備、男女[ゴルフ](../Page/ゴルフ.md "wikilink")トーナメント会場警備、[常駐警備](../Page/常駐警備.md "wikilink")や道路工事や建築現場の[交通警備](../Page/交通警備.md "wikilink")も行なう。
 

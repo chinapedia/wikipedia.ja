@@ -1,7 +1,7 @@
 > この記事は[VGA](https://ja.wikipedia.org/wiki/VGA)から翻訳されています。
 
 
-[DE15_Diagram.svg](https://ja.wikipedia.org/wiki/File:DE15_Diagram.svg "fig:DE15_Diagram.svg") [thumb](https://ja.wikipedia.org/wiki/image:VGA_Stecker.jpg "wikilink") [thumbになっているケーブル](https://ja.wikipedia.org/wiki/image:BNC_connectors.jpg "wikilink")\]\] **VGA端子**（他に**アナログRGB端子**等とも）は、アナログ[RGB](../Page/RGB.md "wikilink")[コンポーネント映像信号](https://ja.wikipedia.org/wiki/コンポーネント映像信号 "wikilink")を出力（もしくは入力）する装置の[コネクタ](https://ja.wikipedia.org/wiki/コネクタ "wikilink")、およびその信号を伝送するケーブルに用いられるコネクタである。
+[DE15_Diagram.svg](https://ja.wikipedia.org/wiki/File:DE15_Diagram.svg "fig:DE15_Diagram.svg") [thumb](https://ja.wikipedia.org/wiki/image:VGA_Stecker.jpg "wikilink") [thumbになっているケーブル](https://ja.wikipedia.org/wiki/image:BNC_connectors.jpg "wikilink")\]\] **VGA端子**（他に**アナログRGB端子**等とも）は、アナログ[RGB](../Page/RGB.md "wikilink")[コンポーネント映像信号](../Page/コンポーネント映像信号.md "wikilink")を出力（もしくは入力）する装置の[コネクタ](../Page/コネクタ.md "wikilink")、およびその信号を伝送するケーブルに用いられるコネクタである。
 
 ## 概要
 

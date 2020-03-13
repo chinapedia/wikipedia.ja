@@ -7,7 +7,7 @@
 
 印刷インキ、塗料・樹脂・粘接着剤・塗工材・高機能性素材といった高分子事業と顔料・着色剤・電子メディア材料などの色材事業を基幹事業としている。
 
-筆頭株主は[凸版印刷](https://ja.wikipedia.org/wiki/凸版印刷 "wikilink")。[サカタインクス](../Page/サカタインクス.md "wikilink")と資本提携している。
+筆頭株主は[凸版印刷](../Page/凸版印刷.md "wikilink")。[サカタインクス](../Page/サカタインクス.md "wikilink")と資本提携している。
 
 ## 沿革
 
@@ -21,14 +21,14 @@
 ## 主な国内グループ会社の製造所・工場
 
   - 東洋インキ株式会社
-      - 埼玉製造所（[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[川越市](../Page/川越市.md "wikilink")）
+      - 埼玉製造所（[埼玉県](../Page/埼玉県.md "wikilink")[川越市](../Page/川越市.md "wikilink")）
   - トーヨーケム株式会社
       - 川越製造所（埼玉県川越市）
       - 西神工場（[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")）
   - トーヨーカラー株式会社
       - 富士製造所（[静岡県](../Page/静岡県.md "wikilink")[富士市](../Page/富士市.md "wikilink")）
       - 守山製造所（[滋賀県](../Page/滋賀県.md "wikilink")[守山市](../Page/守山市.md "wikilink")）
-      - 茂原工場（[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[茂原市](https://ja.wikipedia.org/wiki/茂原市 "wikilink")）
+      - 茂原工場（[千葉県](../Page/千葉県.md "wikilink")[茂原市](https://ja.wikipedia.org/wiki/茂原市 "wikilink")）
       - 岡山工場（[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[井原市](../Page/井原市.md "wikilink")）
 
 ## 外部リンク

@@ -46,9 +46,9 @@ INSERT INTO phone_book2 SELECT * FROM phone_book WHERE NAME IN ('John Doe', 'Pet
 
 データベースシステムが自動採番した連番等の人工キーを[主キー](../Page/主キー.md "wikilink")として利用する場合、他の[SQL](../Page/SQL.md "wikilink")ステートメントから、その追加対象のテーブルを利用するために、自動採番された主キーを見つける必要があるが、その方法には以下のようなものがある。
 
-  - 特別な[ストアドプロシージャ](https://ja.wikipedia.org/wiki/ストアドプロシージャ "wikilink")を使用する
+  - 特別な[ストアドプロシージャ](../Page/ストアドプロシージャ.md "wikilink")を使用する
   - 一時テーブルに最後に追加した行を[SELECTステートメントで検索する](../Page/SELECT_\(SQL\).md "wikilink")
   - INSERTステートメントにおける一意な要素の組み合わせを、[SELECTステートメントでの検索に使用する](../Page/SELECT_\(SQL\).md "wikilink")
-  - INSERTステートメントで[GUID](https://ja.wikipedia.org/wiki/GUID "wikilink")を使用し、 [SELECT](../Page/SELECT_\(SQL\).md "wikilink") ステートメントでそれをキーに検索する
+  - INSERTステートメントで[GUID](../Page/GUID.md "wikilink")を使用し、 [SELECT](../Page/SELECT_\(SQL\).md "wikilink") ステートメントでそれをキーに検索する
 
 [Category:SQL](https://ja.wikipedia.org/wiki/Category:SQL "wikilink")

@@ -5,15 +5,15 @@
 
 ## 概要
 
-他の[JR](../Page/JR.md "wikilink")チームと同様、[大正](../Page/大正.md "wikilink")時代中期である[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")時代の[1920年](../Page/1920年.md "wikilink")に「東京鉄道局」として創部。[1950年](../Page/1950年.md "wikilink")に行われた[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）の地方組織改正（[鉄道管理局](../Page/鉄道管理局.md "wikilink")制導入）と1950年シーズンの[国鉄スワローズ発足に伴うチームの再編で](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、「東京鉄道管理局」に改称し、[千葉鉄道管理局や水戸鉄道管理局が独立した](https://ja.wikipedia.org/wiki/JR千葉硬式野球部 "wikilink")。
+他の[JR](../Page/JR.md "wikilink")チームと同様、[大正](../Page/大正.md "wikilink")時代中期である[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")時代の[1920年](../Page/1920年.md "wikilink")に「東京鉄道局」として創部。[1950年](../Page/1950年.md "wikilink")に行われた[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）の地方組織改正（[鉄道管理局](../Page/鉄道管理局.md "wikilink")制導入）と1950年シーズンの[国鉄スワローズ発足に伴うチームの再編で](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、「東京鉄道管理局」に改称し、[千葉鉄道管理局や水戸鉄道管理局が独立した](../Page/JR千葉硬式野球部.md "wikilink")。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[民営化時の野球部再編の際](https://ja.wikipedia.org/wiki/国鉄分割民営化 "wikilink")、東北ブロックを「[JR東日本東北硬式野球部](../Page/JR東日本東北硬式野球部.md "wikilink")」に分割した。それに伴い東北ブロック以外の管理局チームを統合してJR東日本チームとなる。その後、盛岡・水戸・千葉・新潟各支社については野球部が再編された。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、[民営化時の野球部再編の際](../Page/国鉄分割民営化.md "wikilink")、東北ブロックを「[JR東日本東北硬式野球部](../Page/JR東日本東北硬式野球部.md "wikilink")」に分割した。それに伴い東北ブロック以外の管理局チームを統合してJR東日本チームとなる。その後、盛岡・水戸・千葉・新潟各支社については野球部が再編された。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")シーズンから、[三菱自動車岡崎を率いていた](../Page/三菱自動車岡崎硬式野球部.md "wikilink")[堀井哲也](../Page/堀井哲也.md "wikilink")が監督に就任しチームの底上げに成功した。2005年以降、[都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")では4回決勝戦に進出している。[2011年](../Page/2011年.md "wikilink")、[第82回都市対抗野球大会](https://ja.wikipedia.org/wiki/第82回都市対抗野球大会 "wikilink")で同じ東京都勢の[NTT東日本を決勝で破り](../Page/NTT東日本硬式野球部.md "wikilink")、初優勝を飾った。翌年の[第83回大会では大会](https://ja.wikipedia.org/wiki/第83回都市対抗野球大会 "wikilink")50年ぶりとなる連覇を目指したが決勝で敗れた。
+[2005年](../Page/2005年.md "wikilink")シーズンから、[三菱自動車岡崎を率いていた](../Page/三菱自動車岡崎硬式野球部.md "wikilink")[堀井哲也](../Page/堀井哲也.md "wikilink")が監督に就任しチームの底上げに成功した。2005年以降、[都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")では4回決勝戦に進出している。[2011年](../Page/2011年.md "wikilink")、[第82回都市対抗野球大会](https://ja.wikipedia.org/wiki/第82回都市対抗野球大会 "wikilink")で同じ東京都勢の[NTT東日本を決勝で破り](../Page/NTT東日本硬式野球部.md "wikilink")、初優勝を飾った。翌年の[第83回大会では大会](https://ja.wikipedia.org/wiki/第83回都市対抗野球大会 "wikilink")50年ぶりとなる連覇を目指したが決勝で敗れた。
 
 ## 設立・沿革
 
-  - [1877年](../Page/1877年.md "wikilink")（[明治](../Page/明治.md "wikilink")10年） - 日本初の野球チーム「新橋アスレチックス」が結成され、当時の[工部省](https://ja.wikipedia.org/wiki/工部省 "wikilink")新橋鉄道管理局の職員が選手の多くを占める（[1897年](../Page/1897年.md "wikilink")に解散）。
+  - [1877年](../Page/1877年.md "wikilink")（[明治](../Page/明治.md "wikilink")10年） - 日本初の野球チーム「新橋アスレチックス」が結成され、当時の[工部省](../Page/工部省.md "wikilink")新橋鉄道管理局の職員が選手の多くを占める（[1897年](../Page/1897年.md "wikilink")に解散）。
   - [1920年](../Page/1920年.md "wikilink")（[大正](../Page/大正.md "wikilink")9年） - 「東京鉄道局」として創部。
   - [1942年](../Page/1942年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")17年） - [都市対抗野球](https://ja.wikipedia.org/wiki/都市対抗野球 "wikilink")初出場（2回戦敗退）。
   - [1950年](../Page/1950年.md "wikilink")（昭和25年） - 国鉄の組織再編に伴い、「東京鉄道管理局」に改称。
@@ -28,7 +28,7 @@
 
   - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink") - 出場17回、優勝1回（2011年）
   - [日本選手権](../Page/社会人野球日本選手権大会.md "wikilink") - 出場8回、準優勝1回（2012年）
-  - [JABA北海道大会](https://ja.wikipedia.org/wiki/JABA北海道大会 "wikilink") - 優勝1回（2012年）
+  - [JABA北海道大会](../Page/JABA北海道大会.md "wikilink") - 優勝1回（2012年）
   - [JABA日立市長杯争奪大会](https://ja.wikipedia.org/wiki/JABA日立市長杯争奪大会 "wikilink") - 優勝1回（2014年）
   - [JABA東京スポニチ大会](../Page/JABA東京スポニチ大会.md "wikilink") - 優勝2回（2001,05年）
   - [JABA京都大会](../Page/JABA京都大会.md "wikilink") - 優勝1回（2007年）
@@ -44,13 +44,13 @@
 ## 主な出身プロ野球選手
 
   - [根来広光](../Page/根来広光.md "wikilink")：捕手（国鉄スワローズ）
-  - [赤星憲広](https://ja.wikipedia.org/wiki/赤星憲広 "wikilink")：外野手（[2000年](../Page/2000年.md "wikilink")[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")ドラフト4位）
+  - [赤星憲広](https://ja.wikipedia.org/wiki/赤星憲広 "wikilink")：外野手（[2000年](../Page/2000年.md "wikilink")[阪神タイガース](../Page/阪神タイガース.md "wikilink")ドラフト4位）
   - [石川雅実](../Page/石川雅実.md "wikilink")：投手（2001年[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")ドラフト4巡）
   - [萩原多賀彦](../Page/萩原多賀彦.md "wikilink")：投手（2001年[ヤクルトスワローズドラフト](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")6巡）
   - [五十嵐貴章](../Page/五十嵐貴章.md "wikilink")：投手（2001年ヤクルトドラフト7巡）- ヤクルト退団後に[米独立リーグ](../Page/独立リーグ.md "wikilink")、サムライベアーズに移籍したが退団したため、フリー。
-  - [小山良男](https://ja.wikipedia.org/wiki/小山良男 "wikilink")：捕手（[2004年](../Page/2004年.md "wikilink")[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")ドラフト8巡）
+  - [小山良男](../Page/小山良男.md "wikilink")：捕手（[2004年](../Page/2004年.md "wikilink")[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")ドラフト8巡）
   - [工藤隆人](../Page/工藤隆人.md "wikilink")：外野手（2004年[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")ドラフト9巡）
-  - [松井光介](../Page/松井光介.md "wikilink")：投手（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")ヤクルト大学生・社会人ドラフト3巡）
+  - [松井光介](../Page/松井光介.md "wikilink")：投手（[2005年](../Page/2005年.md "wikilink")ヤクルト大学生・社会人ドラフト3巡）
   - [寺内崇幸](../Page/寺内崇幸.md "wikilink")：内野手（[2006年](../Page/2006年.md "wikilink")巨人大学生・社会人ドラフト6巡）
   - [鈴木誠](../Page/鈴木誠_\(1985年生の投手\).md "wikilink")：投手（2006年巨人育成ドラフト1巡）
   - [小林太志](../Page/小林太志.md "wikilink")：投手（[2007年](../Page/2007年.md "wikilink")[横浜ベイスターズ大学生](../Page/横浜DeNAベイスターズ.md "wikilink")・社会人ドラフト1巡）
@@ -77,17 +77,17 @@
 ## 関連項目
 
   - [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")
-  - [JR北海道硬式野球クラブ](https://ja.wikipedia.org/wiki/JR北海道硬式野球クラブ "wikilink")
+  - [JR北海道硬式野球クラブ](../Page/JR北海道硬式野球クラブ.md "wikilink")
   - [JR盛岡硬式野球部](https://ja.wikipedia.org/wiki/JR盛岡硬式野球部 "wikilink")
   - [JR東日本東北硬式野球部](../Page/JR東日本東北硬式野球部.md "wikilink")
   - [JR秋田硬式野球部](https://ja.wikipedia.org/wiki/JR秋田硬式野球部 "wikilink")
   - [JR新潟硬式野球部](https://ja.wikipedia.org/wiki/JR新潟硬式野球部 "wikilink")
   - [JR水戸硬式野球部](https://ja.wikipedia.org/wiki/JR水戸硬式野球部 "wikilink")
-  - [JR千葉硬式野球部](https://ja.wikipedia.org/wiki/JR千葉硬式野球部 "wikilink")
+  - [JR千葉硬式野球部](../Page/JR千葉硬式野球部.md "wikilink")
   - [JR東海硬式野球部](../Page/JR東海硬式野球部.md "wikilink")
-  - [JR西日本硬式野球部](https://ja.wikipedia.org/wiki/JR西日本硬式野球部 "wikilink")
-  - [JR四国硬式野球部](https://ja.wikipedia.org/wiki/JR四国硬式野球部 "wikilink")
-  - [JR九州硬式野球部](https://ja.wikipedia.org/wiki/JR九州硬式野球部 "wikilink")
+  - [JR西日本硬式野球部](../Page/JR西日本硬式野球部.md "wikilink")
+  - [JR四国硬式野球部](../Page/JR四国硬式野球部.md "wikilink")
+  - [JR九州硬式野球部](../Page/JR九州硬式野球部.md "wikilink")
 
 ## 外部リンク
 

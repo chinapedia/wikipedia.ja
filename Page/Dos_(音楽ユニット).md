@@ -11,11 +11,11 @@
 
 それらはメンバーの人数、デビュー曲のタイトル、PVでのシルクのパジャマの着用などのイメージに顕著に表れている。
 
-[1996年](../Page/1996年.md "wikilink")に「[Baby baby baby](https://ja.wikipedia.org/wiki/Baby_baby_baby "wikilink")」でデビュー。[オリコン最高](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")4位を記録。[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[ティセラ](https://ja.wikipedia.org/wiki/ティセラ "wikilink")」の[CMソングで](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")、CMにも出演。大学の学園祭ライブを7校程行う。構成、演出、大道具・小道具・機器の配置までメンバー主導で行われた\[2\]。
+[1996年](../Page/1996年.md "wikilink")に「[Baby baby baby](https://ja.wikipedia.org/wiki/Baby_baby_baby "wikilink")」でデビュー。[オリコン最高](../Page/オリコンチャート.md "wikilink")4位を記録。[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")「[ティセラ](https://ja.wikipedia.org/wiki/ティセラ "wikilink")」の[CMソングで](../Page/コマーシャルソング.md "wikilink")、CMにも出演。大学の学園祭ライブを7校程行う。構成、演出、大道具・小道具・機器の配置までメンバー主導で行われた\[2\]。
 
 主な活動期間は約1年（3枚のCDシングルと1枚のアルバムを発売）で、翌年の1997年はユニットとしてはメンバー3人揃ってTK presents こねっと「[YOU ARE THE ONE](../Page/YOU_ARE_THE_ONE.md "wikilink")」に参加したのみで、taeco、asamiともにソロシングルを発売したり、映画に出演したりと活動はあったが、ユニット全体の目立った活動はなかった。
 
-正式な解散等のアナウンスはなく、1998年に小室哲哉がasamiとの新ユニット「[TRUE KiSS DESTiNATiON](https://ja.wikipedia.org/wiki/Kiss_Destination "wikilink")」を始めたため自然消滅した。
+正式な解散等のアナウンスはなく、1998年に小室哲哉がasamiとの新ユニット「[TRUE KiSS DESTiNATiON](../Page/Kiss_Destination.md "wikilink")」を始めたため自然消滅した。
 
 2006年4月20日の[ナインティナインのオールナイトニッポン](../Page/ナインティナインのオールナイトニッポン.md "wikilink")において、デビューしてから挨拶などの態度が急激に悪化したことが、『ASAYAN』でMCを務めていた[岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")から明かされた。
 
@@ -24,7 +24,7 @@
   - **[taeco](https://ja.wikipedia.org/wiki/西野妙子 "wikilink")**（タエコ、本名：西川妙子、[1975年](../Page/1975年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")～）:ヴォーカル担当。
     [西野妙子](https://ja.wikipedia.org/wiki/西野妙子 "wikilink")の芸名で歌手活動やドラマなどにも出演している。
   - **[asami](https://ja.wikipedia.org/wiki/吉田麻美 "wikilink")**（アサミ、本名：由野麻美→吉田麻美、[1975年](../Page/1975年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")～）:ダンス・コーラス担当。
-    デビュー前は「由野（ゆいの）麻美」という名前で紹介されていた\[3\]が、デビュー後の公式プロフィールでは本名が吉田姓となっている。[1999年](../Page/1999年.md "wikilink")～[2001年](../Page/2001年.md "wikilink")には小室とユニット[Kiss Destinationで活動](https://ja.wikipedia.org/wiki/Kiss_Destination "wikilink")。小室の前妻でもある。
+    デビュー前は「由野（ゆいの）麻美」という名前で紹介されていた\[3\]が、デビュー後の公式プロフィールでは本名が吉田姓となっている。[1999年](../Page/1999年.md "wikilink")～[2001年](../Page/2001年.md "wikilink")には小室とユニット[Kiss Destinationで活動](../Page/Kiss_Destination.md "wikilink")。小室の前妻でもある。
   - **[kaba](../Page/KABA.ちゃん.md "wikilink")**（カバ、本名（当時）：椛島永次、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[6月19日](../Page/6月19日.md "wikilink")～）:ダンス・コーラス担当。
     後に[オネエ](https://ja.wikipedia.org/wiki/オネエ "wikilink")[キャラクター](../Page/キャラクター.md "wikilink")（dos当時は隠していた）で人気の振り付け師兼タレント「[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")」として活動。
 
@@ -213,7 +213,7 @@ PerfecTV!「STAR digio」CMソング<br />
 <tbody>
 <tr class="odd">
 <td><p>1997/01/01</p></td>
-<td><p><a href="../Page/YOU_ARE_THE_ONE.md" title="wikilink">YOU ARE THE ONE</a> / <a href="https://ja.wikipedia.org/wiki/小室ファミリー" title="wikilink">TK PRESENTS こねっと</a></p></td>
+<td><p><a href="../Page/YOU_ARE_THE_ONE.md" title="wikilink">YOU ARE THE ONE</a> / <a href="../Page/小室ファミリー.md" title="wikilink">TK PRESENTS こねっと</a></p></td>
 <td><p>KPDD-20171</p></td>
 <td></td>
 </tr>
@@ -273,6 +273,6 @@ PerfecTV!「STAR digio」CMソング<br />
 
 [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:NBCユニバーサル・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアーティスト "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink")
 
-1.  「[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")」1996年10月1日号1Pより。
+1.  「[ぴあ](../Page/ぴあ.md "wikilink")」1996年10月1日号1Pより。
 2.  [近代映画社](../Page/近代映画社.md "wikilink")刊『半分少女　僕とアタシ』[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")著88Pより。
 3.  [光文社](../Page/光文社.md "wikilink")刊「[FLASH](../Page/FLASH_\(写真週刊誌\).md "wikilink")」1995年12月19日号9Pより。

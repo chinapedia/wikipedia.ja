@@ -1,11 +1,11 @@
 > この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
 
 
-『**CR新世紀エヴァンゲリオン**』（CRしんせいきエヴァンゲリオン）は、[ビスティ](../Page/ビスティ.md "wikilink")が製造し、[フィールズが](https://ja.wikipedia.org/wiki/フィールズ_\(企業\) "wikilink")[2004年](../Page/2004年.md "wikilink")12月に発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機である。[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプ。
+『**CR新世紀エヴァンゲリオン**』（CRしんせいきエヴァンゲリオン）は、[ビスティ](../Page/ビスティ.md "wikilink")が製造し、[フィールズが](../Page/フィールズ_\(企業\).md "wikilink")[2004年](../Page/2004年.md "wikilink")12月に発売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機である。[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプ。
 
 その後、[パチスロ](../Page/パチスロ.md "wikilink")機版およびパチンコ機の続編も作られている。
 
-1.  [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月発売 パチスロ版『[新世紀エヴァンゲリオン](../Page/新世紀エヴァンゲリオン_\(パチスロ\).md "wikilink")』 - こちらもシリーズ化。
+1.  [2005年](../Page/2005年.md "wikilink")9月発売 パチスロ版『[新世紀エヴァンゲリオン](../Page/新世紀エヴァンゲリオン_\(パチスロ\).md "wikilink")』 - こちらもシリーズ化。
 2.  [2006年](../Page/2006年.md "wikilink")2月発売 『**[CR新世紀エヴァンゲリオン・セカンドインパクト](../Page/CR新世紀エヴァンゲリオン・セカンドインパクト.md "wikilink")**』 - 本作の後継機。
 3.  [2007年](../Page/2007年.md "wikilink")2月発売 『**[CR新世紀エヴァンゲリオン 〜奇跡の価値は〜](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン_〜奇跡の価値は〜 "wikilink")**』 - 「シリーズ最終章」というフレーズが使われた。
 4.  [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月発売 『**[CR新世紀エヴァンゲリオン 〜使徒、再び〜](https://ja.wikipedia.org/wiki/CR新世紀エヴァンゲリオン_〜使徒、再び〜 "wikilink")**』 - 2007年12月にTVCMで発売を予告。「CR機としてデビュー3年そして…」というフレーズが使われた。
@@ -32,9 +32,9 @@
 
 ## パチスロ・ゲーム
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月には[パチスロ版が登場した](../Page/新世紀エヴァンゲリオン_\(パチスロ\).md "wikilink")。ちなみにパチスロ版は、内規の新基準に適合した「[5号機](../Page/5号機_\(パチスロ\).md "wikilink")」の第1号機（業界初、[パロットを除く](../Page/パロット_\(パチスロ\).md "wikilink")）である。
+[2005年](../Page/2005年.md "wikilink")9月には[パチスロ版が登場した](../Page/新世紀エヴァンゲリオン_\(パチスロ\).md "wikilink")。ちなみにパチスロ版は、内規の新基準に適合した「[5号機](../Page/5号機_\(パチスロ\).md "wikilink")」の第1号機（業界初、[パロットを除く](../Page/パロット_\(パチスロ\).md "wikilink")）である。
 
-同年10月には、フィールズの連結子会社である[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")から、[PS2版のシミュレーター](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[パチンコゲーム](https://ja.wikipedia.org/wiki/パチンコゲーム "wikilink")）が発売された。移植としての完成度は決して高くなく、音声と映像のズレ、音とび等の問題点があったが、セカンドインパクト版では実機をかなり忠実に再現した移植がされている。
+同年10月には、フィールズの連結子会社である[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")から、[PS2版のシミュレーター](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[パチンコゲーム](../Page/パチンコゲーム.md "wikilink")）が発売された。移植としての完成度は決して高くなく、音声と映像のズレ、音とび等の問題点があったが、セカンドインパクト版では実機をかなり忠実に再現した移植がされている。
 
 ## 図柄キャラクター
 

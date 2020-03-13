@@ -1,7 +1,7 @@
 > この記事は[BiVi](https://ja.wikipedia.org/wiki/BiVi)から翻訳されています。
 
 
-**BiVi仙台駅東口**（ビビせんだいえきひがしぐち）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[仙台駅](../Page/仙台駅.md "wikilink")東口広場の北側にある[複合商業施設](https://ja.wikipedia.org/wiki/複合商業施設 "wikilink")である。
+**BiVi仙台駅東口**（ビビせんだいえきひがしぐち）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[仙台駅](../Page/仙台駅.md "wikilink")東口広場の北側にある[複合商業施設](../Page/複合商業施設.md "wikilink")である。
 
 ## 概要
 
@@ -15,7 +15,7 @@ BiVi仙台駅東口は飲食店を主体としたテナント構成となり\[4\
 
 ## 沿革
 
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（[昭和](../Page/昭和.md "wikilink")60年） - [仙台トンネル](../Page/仙台トンネル.md "wikilink")工事開始（[国鉄](../Page/日本国有鉄道.md "wikilink")[仙石線](https://ja.wikipedia.org/wiki/仙石線 "wikilink")の[連続立体交差事業](https://ja.wikipedia.org/wiki/連続立体交差事業 "wikilink")）。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（[昭和](../Page/昭和.md "wikilink")60年） - [仙台トンネル](../Page/仙台トンネル.md "wikilink")工事開始（[国鉄](../Page/日本国有鉄道.md "wikilink")[仙石線](https://ja.wikipedia.org/wiki/仙石線 "wikilink")の[連続立体交差事業](../Page/連続立体交差事業.md "wikilink")）。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年） - 仙台駅東第二[土地区画整理事業](https://ja.wikipedia.org/wiki/土地区画整理事業 "wikilink")\[5\]施工。
   - [1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）[11月](../Page/11月.md "wikilink") - ラオックスが[国鉄清算事業団の所有する仙台駅東口の土地約](../Page/日本国有鉄道清算事業団.md "wikilink")4700[m<sup>2</sup>を落札](../Page/平方メートル.md "wikilink")。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）[6月](../Page/6月.md "wikilink") - 東北ラオックス株式会社設立。
@@ -28,7 +28,7 @@ BiVi仙台駅東口は飲食店を主体としたテナント構成となり\[4\
   - [2004年](../Page/2004年.md "wikilink")（平成16年）
       - [9月](../Page/9月.md "wikilink") - [大和リース](../Page/大和リース.md "wikilink")により、**Bivi仙台駅東口**がオープン。
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 4階フロアがオープン。
-      - 11月 - 地下1階に[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")[マルハン](https://ja.wikipedia.org/wiki/マルハン "wikilink")仙台駅東店がオープン。
+      - 11月 - 地下1階に[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")[マルハン](../Page/マルハン.md "wikilink")仙台駅東店がオープン。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[8月8日](../Page/8月8日.md "wikilink") - 2階に映画館「[チネ・ラヴィータ](https://ja.wikipedia.org/wiki/フォーラムシネマネットワーク "wikilink")」が移転オープン。
 
 ## テナント
@@ -96,7 +96,7 @@ BiVi仙台駅東口は飲食店を主体としたテナント構成となり\[4\
 
 ### 地下1階
 
-  - [パチンコマルハン](https://ja.wikipedia.org/wiki/マルハン "wikilink")
+  - [パチンコマルハン](../Page/マルハン.md "wikilink")
 
 ## 周辺
 
@@ -107,7 +107,7 @@ BiVi仙台駅東口は飲食店を主体としたテナント構成となり\[4\
   - [初恋通り](https://ja.wikipedia.org/wiki/初恋通り "wikilink")
   - [東六番丁通り](../Page/東六番丁通り.md "wikilink")
   - [東七番丁通り](https://ja.wikipedia.org/wiki/東七番丁通り "wikilink")
-  - [宮城野通り](https://ja.wikipedia.org/wiki/宮城野通り "wikilink")
+  - [宮城野通り](../Page/宮城野通り.md "wikilink")
 
 ## 脚注
 

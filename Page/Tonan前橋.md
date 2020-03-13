@@ -25,9 +25,9 @@
 
 ### 2006年 - 2010年
 
-2006年は[草津より](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")[氏家英行](../Page/氏家英行.md "wikilink")、[小久保純](../Page/小久保純.md "wikilink")、[樹森大介](../Page/樹森大介.md "wikilink")の3選手、[アルテ高崎](https://ja.wikipedia.org/wiki/アルテ高崎 "wikilink")から[鏑木豪](../Page/鏑木豪.md "wikilink")が加入。群馬県リーグ1部を9勝3分、平均得点5点で制し、第40回[関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")に出場したが、準々決勝で敗退した。
+2006年は[草津より](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")[氏家英行](../Page/氏家英行.md "wikilink")、[小久保純](../Page/小久保純.md "wikilink")、[樹森大介](../Page/樹森大介.md "wikilink")の3選手、[アルテ高崎](../Page/アルテ高崎.md "wikilink")から[鏑木豪](../Page/鏑木豪.md "wikilink")が加入。群馬県リーグ1部を9勝3分、平均得点5点で制し、第40回[関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")に出場したが、準々決勝で敗退した。
 
-2007年も圧倒的な強さで群馬県リーグ1部を制覇し、第41回関東社会人サッカー大会に臨んだが、準々決勝で敗退し、またしても関東リーグ2部昇格を逃した。一方、[群馬県サッカー協会長杯では決勝戦で](../Page/群馬県サッカー協会長杯サッカー大会.md "wikilink")[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[アルテ高崎](https://ja.wikipedia.org/wiki/アルテ高崎 "wikilink")を破り優勝し[天皇杯全日本サッカー選手権大会への初出場を果たした](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")。そして前年に続き出場を決めた[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")には大会初勝利と関東リーグを飛び越えてのJFL昇格のチャンスを掴むべく大会に臨んだが、[東北リーグ](../Page/東北社会人サッカーリーグ.md "wikilink")1部2位ですでに[全国地域リーグ決勝大会への出場権を獲得していた](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")[NECトーキンと](https://ja.wikipedia.org/wiki/NEC_TOKIN_FC "wikilink")1回戦で対戦するも惨敗。
+2007年も圧倒的な強さで群馬県リーグ1部を制覇し、第41回関東社会人サッカー大会に臨んだが、準々決勝で敗退し、またしても関東リーグ2部昇格を逃した。一方、[群馬県サッカー協会長杯では決勝戦で](../Page/群馬県サッカー協会長杯サッカー大会.md "wikilink")[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[アルテ高崎](../Page/アルテ高崎.md "wikilink")を破り優勝し[天皇杯全日本サッカー選手権大会への初出場を果たした](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")。そして前年に続き出場を決めた[全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")には大会初勝利と関東リーグを飛び越えてのJFL昇格のチャンスを掴むべく大会に臨んだが、[東北リーグ](../Page/東北社会人サッカーリーグ.md "wikilink")1部2位ですでに[全国地域リーグ決勝大会への出場権を獲得していた](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")[NECトーキンと](https://ja.wikipedia.org/wiki/NEC_TOKIN_FC "wikilink")1回戦で対戦するも惨敗。
 
 2008年に**図南SC群馬**から**tonan前橋**へ改称。群馬県リーグ1部（全14試合）で114得点を挙げ、6年連続14度目の優勝を飾り、第42回関東社会人サッカー大会への出場を決めた。そして、各都県リーグの代表チームを破り16年ぶり2度目の優勝を果たし、7年ぶりとなる悲願の関東リーグ2部復帰を決めた。また、10月に行われた[第44回全国社会人サッカー選手権大会](https://ja.wikipedia.org/wiki/第44回全国社会人サッカー選手権大会 "wikilink")では初戦で[九州リーグ王者の](../Page/九州サッカーリーグ.md "wikilink")[沖縄かりゆしFC](../Page/沖縄かりゆしFC.md "wikilink")を撃破し、6度目の出場にして同大会での初勝利を挙げた。
 
@@ -49,7 +49,7 @@
 
 ### 2017年 -
 
-2017年、8年ぶりに関東リーグ2部で戦うこととなり、監督兼代表だった菅原が代表に専念し、新監督として[アルテ高崎](https://ja.wikipedia.org/wiki/アルテ高崎 "wikilink")・[FC刈谷](../Page/FC刈谷.md "wikilink")・[東京23FCで監督経験のある](https://ja.wikipedia.org/wiki/東京23フットボールクラブ "wikilink")[アマラオ](https://ja.wikipedia.org/wiki/アマラオ "wikilink")が就任した。
+2017年、8年ぶりに関東リーグ2部で戦うこととなり、監督兼代表だった菅原が代表に専念し、新監督として[アルテ高崎](../Page/アルテ高崎.md "wikilink")・[FC刈谷](../Page/FC刈谷.md "wikilink")・[東京23FCで監督経験のある](../Page/東京23フットボールクラブ.md "wikilink")[アマラオ](https://ja.wikipedia.org/wiki/アマラオ "wikilink")が就任した。
 
 関東リーグ2部では一時首位に立ったものの、最終的に9勝4分5敗の勝点31、優勝した[東京国際大学FCに勝点差](https://ja.wikipedia.org/wiki/東京国際大学体育会サッカー部 "wikilink")7をつけられ2位に終わった。本来ならば自動昇格で1年での1部復帰となるが、2018年シーズンは[JFLから](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")2チーム関東1部へ降格してくるのに伴い、2部2位の扱いが自動昇格から1部7位との入替戦に変更、その入れ替え戦で[横浜猛蹴](https://ja.wikipedia.org/wiki/横浜猛蹴 "wikilink")と戦い0-1で敗れ、1年での1部復帰を逃した。
 
@@ -207,7 +207,7 @@
 <a href="https://ja.wikipedia.org/wiki/ツエーゲン金沢" title="wikilink">ツエーゲン金沢</a><br />
 (北信越)</p></td>
 <td><p><strong>2 (延長) 1</strong><br />
-<a href="https://ja.wikipedia.org/wiki/AC長野パルセイロ" title="wikilink">AC長野パルセイロ</a><br />
+<a href="../Page/AC長野パルセイロ.md" title="wikilink">AC長野パルセイロ</a><br />
 (北信越)</p></td>
 </tr>
 <tr class="even">

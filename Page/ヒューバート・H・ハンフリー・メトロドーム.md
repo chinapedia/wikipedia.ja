@@ -3,7 +3,7 @@
 
 **ヒューバート・H・ハンフリー・メトロドーム**（*Hubert H. Humphrey Metrodome*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ミネソタ州](https://ja.wikipedia.org/wiki/ミネソタ州 "wikilink")[ミネアポリスにあった](https://ja.wikipedia.org/wiki/ミネアポリス_\(ミネソタ州\) "wikilink")、[野球](../Page/野球.md "wikilink")や[アメフトなどに使用される](../Page/アメリカンフットボール.md "wikilink")[多目的ドーム](../Page/ドーム球場.md "wikilink")。通称**メトロドーム**（*Metrodome*）。**HHHメトロドーム**とも称される。[2009年](../Page/2009年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")にアメリカ最大のショッピングモールの[モール・オブ・アメリカ](../Page/モール・オブ・アメリカ.md "wikilink")が3年契約で取得、[2012年](../Page/2012年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink")までは**モール・オブ・アメリカ・フィールド・アット・ザ・ヒューバート・H・ハンフリー・メトロドーム**の名称であった。
 
-[NFL](../Page/NFL.md "wikilink")[ミネソタ・バイキングス](../Page/ミネソタ・バイキングス.md "wikilink")、[NCAA](../Page/全米大学体育協会.md "wikilink")（カレッジ・スポーツ）[ミネソタ・ゴールデンゴファーズ](https://ja.wikipedia.org/wiki/ミネソタ・ゴールデンゴファーズ "wikilink")（[ミネソタ大学](https://ja.wikipedia.org/wiki/ミネソタ大学ツインシティー校 "wikilink")）の野球チーム、[NBA](../Page/NBA.md "wikilink")[ミネソタ・ティンバーウルブズ](https://ja.wikipedia.org/wiki/ミネソタ・ティンバーウルブズ "wikilink")、[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ミネソタ・ツインズ](../Page/ミネソタ・ツインズ.md "wikilink")がここをホームにしていた。
+[NFL](../Page/NFL.md "wikilink")[ミネソタ・バイキングス](../Page/ミネソタ・バイキングス.md "wikilink")、[NCAA](../Page/全米大学体育協会.md "wikilink")（カレッジ・スポーツ）[ミネソタ・ゴールデンゴファーズ](https://ja.wikipedia.org/wiki/ミネソタ・ゴールデンゴファーズ "wikilink")（[ミネソタ大学](../Page/ミネソタ大学ツインシティー校.md "wikilink")）の野球チーム、[NBA](../Page/NBA.md "wikilink")[ミネソタ・ティンバーウルブズ](../Page/ミネソタ・ティンバーウルブズ.md "wikilink")、[MLB](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")[ミネソタ・ツインズ](../Page/ミネソタ・ツインズ.md "wikilink")がここをホームにしていた。
 
 日本では空気圧で膨らませる屋根が[東京ドーム](../Page/東京ドーム.md "wikilink")のモデルになったことで有名である。
 
@@ -37,8 +37,8 @@
 
   - 1982年4月3日、[フィリーズとのオープン戦で開場](../Page/フィラデルフィア・フィリーズ.md "wikilink")。
   - 1982年4月6日、初のMLB公式戦開催（[マリナーズ](../Page/シアトル・マリナーズ.md "wikilink") 11－7 ツインズ）\[6\]。
-  - 1983年4月14日、積雪による屋根破損のため、[エンゼルス戦が中止になった](https://ja.wikipedia.org/wiki/ロサンゼルス・エンゼルス・オブ・アナハイム "wikilink")。
-  - 1985年7月16日、[オールスターゲーム開催](https://ja.wikipedia.org/wiki/MLBオールスターゲーム "wikilink")（ナ 6－1 ア）。
+  - 1983年4月14日、積雪による屋根破損のため、[エンゼルス戦が中止になった](../Page/ロサンゼルス・エンゼルス・オブ・アナハイム.md "wikilink")。
+  - 1985年7月16日、[オールスターゲーム開催](../Page/MLBオールスターゲーム.md "wikilink")（ナ 6－1 ア）。
   - 1993年9月16日、[デーブ・ウィンフィールド](../Page/デーブ・ウィンフィールド.md "wikilink")が3,000本安打を達成。
   - 1995年6月30日、[エディ・マレー](../Page/エディ・マレー.md "wikilink")が3,000本安打を達成。
   - 2000年4月15日、[カル・リプケン](../Page/カル・リプケン.md "wikilink")が3,000本安打を達成。
@@ -54,8 +54,8 @@
 ### アメフト
 
   - 1982年9月12日、初のNFL公式戦開催（バイキングス 17－10 [バッカニアーズ](../Page/タンパベイ・バッカニアーズ.md "wikilink")）\[7\]。
-  - 1992年1月26日、[第26回スーパーボウル](https://ja.wikipedia.org/wiki/第26回スーパーボウル "wikilink")（[ワシントン・レッドスキンズ](../Page/ワシントン・レッドスキンズ.md "wikilink") 37-24 [バッファロー・ビルズ](https://ja.wikipedia.org/wiki/バッファロー・ビルズ "wikilink")）。
-  - 2010年12月12日、[ジャイアンツ戦が試合前](https://ja.wikipedia.org/wiki/ニューヨーク・ジャイアンツ "wikilink")、猛吹雪のため13日に順延が予定されたが\[8\]、その後、屋根の崩壊及び積雪落下で開催が困難となり、同日13日にデトロイトの[フォード・フィールド](../Page/フォード・フィールド.md "wikilink")にて代替開催されることとなった\[9\]。また翌週20日に行われる[シカゴ・ベアーズ](../Page/シカゴ・ベアーズ.md "wikilink")戦も[ミネソタ大学の](https://ja.wikipedia.org/wiki/ミネソタ大学ツインシティー校 "wikilink")[TCFバンク・スタジアム](https://ja.wikipedia.org/wiki/w:en:TCF_Bank_Stadium "wikilink")（屋外スタジアム）の除雪作業を行い開催する\[10\]。
+  - 1992年1月26日、[第26回スーパーボウル](https://ja.wikipedia.org/wiki/第26回スーパーボウル "wikilink")（[ワシントン・レッドスキンズ](../Page/ワシントン・レッドスキンズ.md "wikilink") 37-24 [バッファロー・ビルズ](../Page/バッファロー・ビルズ.md "wikilink")）。
+  - 2010年12月12日、[ジャイアンツ戦が試合前](../Page/ニューヨーク・ジャイアンツ.md "wikilink")、猛吹雪のため13日に順延が予定されたが\[8\]、その後、屋根の崩壊及び積雪落下で開催が困難となり、同日13日にデトロイトの[フォード・フィールド](../Page/フォード・フィールド.md "wikilink")にて代替開催されることとなった\[9\]。また翌週20日に行われる[シカゴ・ベアーズ](../Page/シカゴ・ベアーズ.md "wikilink")戦も[ミネソタ大学の](../Page/ミネソタ大学ツインシティー校.md "wikilink")[TCFバンク・スタジアム](https://ja.wikipedia.org/wiki/w:en:TCF_Bank_Stadium "wikilink")（屋外スタジアム）の除雪作業を行い開催する\[10\]。
 
 ## その他
 

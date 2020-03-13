@@ -13,11 +13,11 @@
 
 ### 1987年10月 - 1988年3月
 
-  - 月曜日：[大岩堅一](https://ja.wikipedia.org/wiki/大岩堅一 "wikilink")（当時[ABCアナウンサー](../Page/朝日放送テレビ.md "wikilink")）、[楠淳生](../Page/楠淳生.md "wikilink")（当時ABCアナウンサー）、マンスリーアシスタント（[日高のり子](../Page/日高のり子.md "wikilink")や[渡瀬麻紀などが担当](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")）
-  - 火曜日：[渡辺英樹](../Page/渡辺英樹.md "wikilink")（[C-C-B](https://ja.wikipedia.org/wiki/C-C-B "wikilink")）、[熊谷ニーナ](https://ja.wikipedia.org/wiki/熊谷ニーナ "wikilink")、[岡けん太・ゆう太](../Page/おかけんた・ゆうた.md "wikilink")
-  - 水曜日：キッチュ（現・[松尾貴史](../Page/松尾貴史.md "wikilink")）、[伊藤みき](https://ja.wikipedia.org/wiki/いとうみき "wikilink")、[竹内義和](https://ja.wikipedia.org/wiki/竹内義和 "wikilink")、週替わりゲスト（[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")や[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")などが出演）
-  - 木曜日：[太平シロー](https://ja.wikipedia.org/wiki/大平シロー "wikilink")、[ハイヒール・リンゴ](https://ja.wikipedia.org/wiki/ハイヒール_\(お笑い\) "wikilink")、伊舞ちよ（現・伊舞なおみ）
-  - 金曜日：[三代澤康司](https://ja.wikipedia.org/wiki/三代澤康司 "wikilink")（ABCアナウンサー）、勝山由美香、[清水圭・和泉修](https://ja.wikipedia.org/wiki/清水圭・和泉修 "wikilink")（隔週出演・東京担当）、[どんきほーて](https://ja.wikipedia.org/wiki/かつみ・さゆり#コンビ結成の経緯 "wikilink")（隔週出演・大阪担当）
+  - 月曜日：[大岩堅一](../Page/大岩堅一.md "wikilink")（当時[ABCアナウンサー](../Page/朝日放送テレビ.md "wikilink")）、[楠淳生](../Page/楠淳生.md "wikilink")（当時ABCアナウンサー）、マンスリーアシスタント（[日高のり子](../Page/日高のり子.md "wikilink")や[渡瀬麻紀などが担当](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")）
+  - 火曜日：[渡辺英樹](../Page/渡辺英樹.md "wikilink")（[C-C-B](../Page/C-C-B.md "wikilink")）、[熊谷ニーナ](../Page/熊谷ニーナ.md "wikilink")、[岡けん太・ゆう太](../Page/おかけんた・ゆうた.md "wikilink")
+  - 水曜日：キッチュ（現・[松尾貴史](../Page/松尾貴史.md "wikilink")）、[伊藤みき](https://ja.wikipedia.org/wiki/いとうみき "wikilink")、[竹内義和](../Page/竹内義和.md "wikilink")、週替わりゲスト（[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")や[田代まさし](https://ja.wikipedia.org/wiki/田代まさし "wikilink")などが出演）
+  - 木曜日：[太平シロー](../Page/大平シロー.md "wikilink")、[ハイヒール・リンゴ](../Page/ハイヒール_\(お笑い\).md "wikilink")、伊舞ちよ（現・伊舞なおみ）
+  - 金曜日：[三代澤康司](../Page/三代澤康司.md "wikilink")（ABCアナウンサー）、勝山由美香、[清水圭・和泉修](../Page/清水圭・和泉修.md "wikilink")（隔週出演・東京担当）、[どんきほーて](https://ja.wikipedia.org/wiki/かつみ・さゆり#コンビ結成の経緯 "wikilink")（隔週出演・大阪担当）
 
 金曜日には週替わりで、[心斎橋筋2丁目劇場](../Page/心斎橋筋2丁目劇場.md "wikilink")（当時[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")が[大阪](../Page/大阪.md "wikilink")・[心斎橋筋](../Page/心斎橋筋.md "wikilink")で運営していた劇場）と、朝日放送東京本社（当時は[東京](../Page/東京.md "wikilink")・[芝公園](../Page/芝公園.md "wikilink")）内のスタジオ（または当時新宿南口にあった[新宿コメディシアター](https://ja.wikipedia.org/wiki/新宿コメディシアター "wikilink")）から公開生放送を実施していた。
 
@@ -27,9 +27,9 @@
 
   - 月曜日：清水圭・和泉修、[麻生みどり](https://ja.wikipedia.org/wiki/麻生みどり "wikilink")
   - 火曜日：渡辺英樹（C-C-B）、熊谷ニーナ
-  - 水曜日：楠淳生、[ハイヒール・リンゴ](https://ja.wikipedia.org/wiki/ハイヒール_\(お笑い\) "wikilink")
+  - 水曜日：楠淳生、[ハイヒール・リンゴ](../Page/ハイヒール_\(お笑い\).md "wikilink")
   - 木曜日：三代澤康司、[みやなおこ](https://ja.wikipedia.org/wiki/みやなおこ "wikilink")、どんきほーて
-  - 金曜日：大岩堅一（退社のため途中降板）→[芦沢誠](https://ja.wikipedia.org/wiki/芦沢誠 "wikilink")（ABCアナウンサー、大岩降板後の担当）、[尾崎美緒](https://ja.wikipedia.org/wiki/尾崎美緒 "wikilink")、[中田はじめ・圭祐](https://ja.wikipedia.org/wiki/中田はじめ・圭祐 "wikilink")
+  - 金曜日：大岩堅一（退社のため途中降板）→[芦沢誠](../Page/芦沢誠.md "wikilink")（ABCアナウンサー、大岩降板後の担当）、[尾崎美緒](https://ja.wikipedia.org/wiki/尾崎美緒 "wikilink")、[中田はじめ・圭祐](https://ja.wikipedia.org/wiki/中田はじめ・圭祐 "wikilink")
 
 #### 2部
 
@@ -37,7 +37,7 @@
   - 火曜日：[岡けん太・ゆう太](../Page/おかけんた・ゆうた.md "wikilink")、[金子恵実](../Page/金子恵実.md "wikilink")
   - 水曜日：[東野幸治](../Page/東野幸治.md "wikilink")、[亀山房代](../Page/亀山房代.md "wikilink")、[大政美由紀](https://ja.wikipedia.org/wiki/大政美由紀 "wikilink")
   - 木曜日：[森脇健児](../Page/森脇健児.md "wikilink")、[サザンクロス](https://ja.wikipedia.org/wiki/サザンクロス_\(お笑い\) "wikilink")
-  - 金曜日：[非常階段](https://ja.wikipedia.org/wiki/非常階段_\(お笑いコンビ\) "wikilink")
+  - 金曜日：[非常階段](../Page/非常階段_\(お笑いコンビ\).md "wikilink")
 
 ## コーナー
 
@@ -67,6 +67,6 @@
 
 [Category:1987年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1987年のラジオ番組_\(日本\) "wikilink") [Category:朝日放送ラジオ帯番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオ帯番組の歴史 "wikilink") [Category:朝日放送ラジオの深夜番組](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオの深夜番組 "wikilink") [Category:ローカルラジオ局のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のバラエティ番組 "wikilink")
 
-1.  月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink") 1988年4月号 p.117「お答えしませう」にて紹介
-2.  月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink") 1988年6月号「中波四十七局全国行脚記録帳 朝日放送の巻」（87ページ）
-3.  月刊[ラジオパラダイス](https://ja.wikipedia.org/wiki/ラジオパラダイス "wikilink") 1988年3月号 75ページ、100ページ
+1.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1988年4月号 p.117「お答えしませう」にて紹介
+2.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1988年6月号「中波四十七局全国行脚記録帳 朝日放送の巻」（87ページ）
+3.  月刊[ラジオパラダイス](../Page/ラジオパラダイス.md "wikilink") 1988年3月号 75ページ、100ページ

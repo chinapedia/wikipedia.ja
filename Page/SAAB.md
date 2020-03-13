@@ -11,7 +11,7 @@
 
 [1937年](../Page/1937年.md "wikilink")、[スウェーデン軍](../Page/スウェーデン軍.md "wikilink")向けの航空機の製造を目的に設立された\[2\]。社名は （[スウェーデン語](../Page/スウェーデン語.md "wikilink")で"スウェーデン航空機会社"）、すなわちSaabであった。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中には[軍用機](../Page/軍用機.md "wikilink")を生産していたが、大戦後には自社製品を多様化する必要に迫られ、[1946年](../Page/1946年.md "wikilink")から自動車製造にも進出した\[3\]。自動車部門であるサーブ・オートモービルは1989年からGMの出資を受け、2000年には完全子会社化、現在ではSAABとの直接の資本関係を持たない別会社となっている。
 
-[民間機](https://ja.wikipedia.org/wiki/民間機 "wikilink")（[旅客機](../Page/旅客機.md "wikilink")）部門は[1944年](../Page/1944年.md "wikilink")以来、主に小型[レシプロ](https://ja.wikipedia.org/wiki/レシプロ "wikilink")及び[ターボプロップ](https://ja.wikipedia.org/wiki/ターボプロップ "wikilink")機を生産しており、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[日本エアコミューター](../Page/日本エアコミューター.md "wikilink")や[北海道エアシステム](https://ja.wikipedia.org/wiki/北海道エアシステム "wikilink")、[国土交通省](../Page/国土交通省.md "wikilink")（航空局・[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")）などが340や2000シリーズを導入しているが、[エンブラエル](https://ja.wikipedia.org/wiki/エンブラエル "wikilink")や[ボンバルディア社などが参入した後の競争激化による収益性の悪化により](../Page/ボンバルディア・エアロスペース.md "wikilink")、民間機部門は廃止された\[4\]。
+[民間機](https://ja.wikipedia.org/wiki/民間機 "wikilink")（[旅客機](../Page/旅客機.md "wikilink")）部門は[1944年](../Page/1944年.md "wikilink")以来、主に小型[レシプロ](https://ja.wikipedia.org/wiki/レシプロ "wikilink")及び[ターボプロップ](https://ja.wikipedia.org/wiki/ターボプロップ "wikilink")機を生産しており、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でも[日本エアコミューター](../Page/日本エアコミューター.md "wikilink")や[北海道エアシステム](https://ja.wikipedia.org/wiki/北海道エアシステム "wikilink")、[国土交通省](../Page/国土交通省.md "wikilink")（航空局・[海上保安庁](https://ja.wikipedia.org/wiki/海上保安庁 "wikilink")）などが340や2000シリーズを導入しているが、[エンブラエル](../Page/エンブラエル.md "wikilink")や[ボンバルディア社などが参入した後の競争激化による収益性の悪化により](../Page/ボンバルディア・エアロスペース.md "wikilink")、民間機部門は廃止された\[4\]。
 
 [1967年](../Page/1967年.md "wikilink")に[ミサイル](../Page/ミサイル.md "wikilink")製造に進出\[5\]、軍事用の通信機器や、防空用の「ジラフ・レーダー」を生産しているほか、[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")にSAABブランドを[ライセンス](../Page/ライセンス.md "wikilink")している 。
 
@@ -29,7 +29,7 @@
   - サーブ 21R - 21のエンジンを[ターボジェット](https://ja.wikipedia.org/wiki/ターボジェット "wikilink")に換装した戦闘/[攻撃機](../Page/攻撃機.md "wikilink")
   - [サーブ 29 トゥンナン](../Page/サーブ_29_トゥンナン.md "wikilink") - ターボジェット単発戦闘/攻撃/[偵察機](../Page/偵察機.md "wikilink")
   - [サーブ 32 ランセン](../Page/サーブ_32_ランセン.md "wikilink") - ターボジェット単発攻撃/戦闘/偵察機
-  - [サーブ 35 ドラケン](https://ja.wikipedia.org/wiki/サーブ_35_ドラケン "wikilink") - ターボジェット単発戦闘/偵察機
+  - [サーブ 35 ドラケン](../Page/サーブ_35_ドラケン.md "wikilink") - ターボジェット単発戦闘/偵察機
   - [サーブ 37 ビゲン](../Page/サーブ_37_ビゲン.md "wikilink") - [ターボファン](https://ja.wikipedia.org/wiki/ターボファン "wikilink")単発戦闘/攻撃/偵察機
   - [サーブ 39 グリペン](../Page/サーブ_39_グリペン.md "wikilink") - ターボファン単発戦闘/攻撃/偵察機
 

@@ -60,11 +60,11 @@ NTTドコモがサービスしている[FOMA](../Page/FOMA.md "wikilink")は3GPP
 
 ## 関連項目
 
-  - [3GPP2](https://ja.wikipedia.org/wiki/3GPP2 "wikilink")
+  - [3GPP2](../Page/3GPP2.md "wikilink")
   - [W-CDMA](../Page/W-CDMA.md "wikilink")
   - [TD-CDMA](../Page/TD-CDMA.md "wikilink")
   - [FOMA](../Page/FOMA.md "wikilink")
-  - [SoftBank 3G](https://ja.wikipedia.org/wiki/SoftBank_3G "wikilink")
+  - [SoftBank 3G](../Page/SoftBank_3G.md "wikilink")
   - [IPマルチメディアサブシステム](https://ja.wikipedia.org/wiki/IPマルチメディアサブシステム "wikilink")
 
 ## 外部リンク

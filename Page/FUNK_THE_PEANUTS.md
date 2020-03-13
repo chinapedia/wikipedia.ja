@@ -20,7 +20,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/浦嶋りんこ" title="wikilink">RIN</a>（浦嶋りんこ）</strong></p></td>
+<td><p><strong><a href="../Page/浦嶋りんこ.md" title="wikilink">RIN</a>（浦嶋りんこ）</strong></p></td>
 <td><p><strong>FUN・P1号</strong></p></td>
 <td><p><a href="../Page/1月10日.md" title="wikilink">1月10日</a>（年齢非公表）</p></td>
 <td></td>
@@ -99,8 +99,8 @@
 <td><p>作詞：観音崎すみれ<br />
 作曲：吉田美和<br />
 編曲：中村正人</p></td>
-<td><p>ESZB 2（<a href="https://ja.wikipedia.org/wiki/CD_EXTRA" title="wikilink">CDエクストラ</a>[5]）</p></td>
-<td><p>M1.<a href="../Page/サントリー.md" title="wikilink">サントリー</a>「スーパーホップス」<a href="https://ja.wikipedia.org/wiki/コマーシャルソング" title="wikilink">CMソング</a><br />
+<td><p>ESZB 2（<a href="../Page/CD_EXTRA.md" title="wikilink">CDエクストラ</a>[5]）</p></td>
+<td><p>M1.<a href="../Page/サントリー.md" title="wikilink">サントリー</a>「スーパーホップス」<a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a><br />
 M2.<a href="https://ja.wikipedia.org/wiki/トヨタ自動車" title="wikilink">トヨタ</a>「<a href="../Page/トヨタ・イプサム.md" title="wikilink">イプサム</a>」CMソング</p></td>
 </tr>
 <tr class="even">

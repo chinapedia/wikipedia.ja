@@ -39,7 +39,7 @@
 
 ## 他の規格との比較
 
-RCA端子は1つの信号ごとに1本のケーブルが必要である。これに対し、[SCART端子](https://ja.wikipedia.org/wiki/SCART端子 "wikilink")や[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")、[任天堂](../Page/任天堂.md "wikilink")の[ゲーム機](../Page/ゲーム機.md "wikilink")用のケーブル（[テレビ](../Page/テレビ.md "wikilink")側はRCA端子）、[ソニー](../Page/ソニー.md "wikilink")の[AVマルチ](https://ja.wikipedia.org/wiki/AVマルチ "wikilink")などは音声と映像を1本で伝送できる。
+RCA端子は1つの信号ごとに1本のケーブルが必要である。これに対し、[SCART端子](../Page/SCART端子.md "wikilink")や[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")、[任天堂](../Page/任天堂.md "wikilink")の[ゲーム機](../Page/ゲーム機.md "wikilink")用のケーブル（[テレビ](../Page/テレビ.md "wikilink")側はRCA端子）、[ソニー](../Page/ソニー.md "wikilink")の[AVマルチ](../Page/AVマルチ.md "wikilink")などは音声と映像を1本で伝送できる。
 
 [コンポーネント映像信号](../Page/コンポーネント映像信号.md "wikilink")を伝送する場合、RCA端子では三本1組（音声を除く）での伝送となる。 [D端子](../Page/D端子.md "wikilink")ではこれらの信号を1本のケーブルにまとめ、さらに画角情報も送ることができる利点があるが、各信号線が近接しているために相互の信号に影響を及ぼし、RCA端子のコンポーネント接続に比べると多少画質が劣るとされる。
 

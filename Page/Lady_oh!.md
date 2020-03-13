@@ -5,7 +5,7 @@
 
 [1981年](../Page/1981年.md "wikilink")末頃から「**ラジオっ娘**」（ラジオっこ）のグループ名で[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[DJとして活動](../Page/ディスクジョッキー.md "wikilink")。3枚目シングル発売後、ラジオレギュラー番組内にて視聴者による電話投票により「Lady oh！」のグループ名が付けられた。所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。
 
-「[週刊プレイボーイ](https://ja.wikipedia.org/wiki/週刊プレイボーイ "wikilink")」のグラビアに登場したこともある。
+「[週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")」のグラビアに登場したこともある。
 
 ## メンバー
 
@@ -55,7 +55,7 @@
   - [横澤彪](../Page/横澤彪.md "wikilink")
   - [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")
   - [いいとも青年隊](../Page/いいとも青年隊.md "wikilink")（初代）
-      - [久保田篤](https://ja.wikipedia.org/wiki/久保田篤 "wikilink")
+      - [久保田篤](../Page/久保田篤.md "wikilink")
       - [羽賀研二](https://ja.wikipedia.org/wiki/羽賀研二 "wikilink")
       - [野々村真](../Page/野々村真.md "wikilink")
 

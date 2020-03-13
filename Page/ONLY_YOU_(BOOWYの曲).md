@@ -5,7 +5,7 @@
 
 ## 背景
 
-5th[アルバム](../Page/アルバム.md "wikilink")『[BEAT EMOTION](https://ja.wikipedia.org/wiki/BEAT_EMOTION "wikilink")』からのシングルカット。
+5th[アルバム](../Page/アルバム.md "wikilink")『[BEAT EMOTION](../Page/BEAT_EMOTION.md "wikilink")』からのシングルカット。
 
 メンバーがライブツアーを終え、オフに入っている期間にリリースされた。
 
@@ -13,15 +13,15 @@
 
 ## プロモーション
 
-この楽曲で[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[オールナイトフジ](https://ja.wikipedia.org/wiki/オールナイトフジ "wikilink")』（1983年 - 1991年、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）、[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1989年](../Page/1989年.md "wikilink")、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）に出演している。
+この楽曲で[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[オールナイトフジ](../Page/オールナイトフジ.md "wikilink")』（1983年 - 1991年、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）、[音楽番組](../Page/音楽番組.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") - [1989年](../Page/1989年.md "wikilink")、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")）に出演している。
 
 ## リリース履歴
 
-| No. | 日付                                                                                        | [レーベル](../Page/レコードレーベル.md "wikilink")                                    | 規格                                                               | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考                        |
-| --- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------- | ---- | ------------------------- |
-| 1   | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月6日](../Page/4月6日.md "wikilink") | [東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")／イーストワールド | [EP](../Page/レコード.md "wikilink")                                 | WTP-17950                                             | 4位   | ステッカー付属                   |
-| 2   | [1989年](../Page/1989年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")                  | 東芝EMI／イーストワールド                                                            | [8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")        | XT10-2356                                             | \-   |                           |
-| 3   | [2013年](../Page/2013年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")                  | EMIミュージック・ジャパン／イーストワールド                                                   | [ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")2 | TOCT-98024                                            | \-   | 『BOØWY SINGLE COMPLETE』収録 |
+| No. | 日付                                                                                        | [レーベル](../Page/レコードレーベル.md "wikilink")                 | 規格                                                               | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考                        |
+| --- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------- | ---------------------------------- | ---- | ------------------------- |
+| 1   | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月6日](../Page/4月6日.md "wikilink") | [東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／イーストワールド | [EP](../Page/レコード.md "wikilink")                                 | WTP-17950                          | 4位   | ステッカー付属                   |
+| 2   | [1989年](../Page/1989年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink")                  | 東芝EMI／イーストワールド                                         | [8センチCD](https://ja.wikipedia.org/wiki/8センチCD "wikilink")        | XT10-2356                          | \-   |                           |
+| 3   | [2013年](../Page/2013年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")                  | EMIミュージック・ジャパン／イーストワールド                                | [ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")2 | TOCT-98024                         | \-   | 『BOØWY SINGLE COMPLETE』収録 |
 
 ## 収録曲
 
@@ -29,10 +29,10 @@
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
 2.  **B・BLUE (Live Version)** (3:54)
       -
-        4thシングル「[B・BLUE](../Page/B・BLUE.md "wikilink")」のライブ音源。「ROCK'N'ROLL CIRCUS TOUR」の1987年2月24日の日本武道館公演より収録されている。ライブアルバム『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](https://ja.wikipedia.org/wiki/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24 "wikilink")』（[2004年](../Page/2004年.md "wikilink")）に収録されている同曲と同テイクの別ミックスバージョンだが、イントロの[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[パートはオーディエンスノイズの被らないオリジナルテープが使われている](https://ja.wikipedia.org/wiki/声部 "wikilink")。
+        4thシングル「[B・BLUE](../Page/B・BLUE.md "wikilink")」のライブ音源。「ROCK'N'ROLL CIRCUS TOUR」の1987年2月24日の日本武道館公演より収録されている。ライブアルバム『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』（[2004年](../Page/2004年.md "wikilink")）に収録されている同曲と同テイクの別ミックスバージョンだが、イントロの[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")[パートはオーディエンスノイズの被らないオリジナルテープが使われている](https://ja.wikipedia.org/wiki/声部 "wikilink")。
 3.  **BABY ACTION (Live Version)** (3:11)
       -
-        3rdアルバム『[BOØWY](https://ja.wikipedia.org/wiki/BOOWY_\(アルバム\) "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）に収録されていた楽曲であり、ここでは「ROCK'N'ROLL CIRCUS TOUR」の1987年2月24日の日本武道館公演より収録されている。『GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24』（2004年）と同テイクの別ミックスバージョンとなっている。
+        3rdアルバム『[BOØWY](../Page/BOOWY_\(アルバム\).md "wikilink")』（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")）に収録されていた楽曲であり、ここでは「ROCK'N'ROLL CIRCUS TOUR」の1987年2月24日の日本武道館公演より収録されている。『GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24』（2004年）と同テイクの別ミックスバージョンとなっている。
 
 ## スタッフ・クレジット
 
@@ -40,7 +40,7 @@
 
   - 氷室京介 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 布袋寅泰 - [ギター](../Page/ギター.md "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")
-  - [松井恒松](https://ja.wikipedia.org/wiki/松井常松 "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [松井恒松](../Page/松井常松.md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 高橋まこと - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 **スタッフ**
@@ -64,9 +64,9 @@
 ## ライブ版
 
   - ライブ音源
-      - 『[“LAST GIGS”](https://ja.wikipedia.org/wiki/“LAST_GIGS” "wikilink")』（[1988年](../Page/1988年.md "wikilink")） - 1988年[4月5日](../Page/4月5日.md "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")公演から収録。
-      - 『[“GIGS” CASE OF BOØWY](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOOWY "wikilink")』（[2001年](../Page/2001年.md "wikilink")） - 1987年[7月31日](../Page/7月31日.md "wikilink")の[ワールド記念ホール](https://ja.wikipedia.org/wiki/ワールド記念ホール "wikilink")、1987年[8月7日](../Page/8月7日.md "wikilink")の[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")公演から収録。
-      - 『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](https://ja.wikipedia.org/wiki/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24 "wikilink")』（[2004年](../Page/2004年.md "wikilink")） - 1987年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の[日本武道館](../Page/日本武道館.md "wikilink")公演から収録。
+      - 『[“LAST GIGS”](../Page/“LAST_GIGS”.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")） - 1988年[4月5日](../Page/4月5日.md "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")公演から収録。
+      - 『[“GIGS” CASE OF BOØWY](../Page/“GIGS”_CASE_OF_BOOWY.md "wikilink")』（[2001年](../Page/2001年.md "wikilink")） - 1987年[7月31日](../Page/7月31日.md "wikilink")の[ワールド記念ホール](../Page/ワールド記念ホール.md "wikilink")、1987年[8月7日](../Page/8月7日.md "wikilink")の[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")公演から収録。
+      - 『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』（[2004年](../Page/2004年.md "wikilink")） - 1987年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の[日本武道館](../Page/日本武道館.md "wikilink")公演から収録。
       - 『[“GIGS” CASE OF BOØWY COMPLETE](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOOWY_COMPLETE "wikilink")』（2007年）
       - 『[“LAST GIGS” COMPLETE](https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）
   - ライブ映像
@@ -77,15 +77,15 @@
       - 『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24_\(Video\).md "wikilink")』（2004年）
       - 『[“LAST GIGS” COMPLETE](https://ja.wikipedia.org/wiki/“LAST_GIGS”_COMPLETE_\(video\) "wikilink")』（2008年）
   - テレビ出演
-      - [バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[オールナイトフジ](https://ja.wikipedia.org/wiki/オールナイトフジ "wikilink")』（1983年 - 1991年、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")） - 1986年[11月15日](../Page/11月15日.md "wikilink")放送。他に「[B・BLUE](../Page/B・BLUE.md "wikilink")」、「BEAT SWEET」を演奏。
-      - [音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』（1985年 - 1989年、フジテレビ系列） - 1986年[12月3日](../Page/12月3日.md "wikilink")放送。
+      - [バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[オールナイトフジ](../Page/オールナイトフジ.md "wikilink")』（1983年 - 1991年、[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")） - 1986年[11月15日](../Page/11月15日.md "wikilink")放送。他に「[B・BLUE](../Page/B・BLUE.md "wikilink")」、「BEAT SWEET」を演奏。
+      - [音楽番組](../Page/音楽番組.md "wikilink")『[夜のヒットスタジオ](https://ja.wikipedia.org/wiki/夜のヒットスタジオ "wikilink")DELUXE』（1985年 - 1989年、フジテレビ系列） - 1986年[12月3日](../Page/12月3日.md "wikilink")放送。
 
 ## カバー作品
 
-  - [NICOTINE](https://ja.wikipedia.org/wiki/NICOTINE "wikilink") - 『[BOØWY Tribute](https://ja.wikipedia.org/wiki/BOØWY_Tribute "wikilink")』（2003年）
+  - [NICOTINE](../Page/NICOTINE.md "wikilink") - 『[BOØWY Tribute](https://ja.wikipedia.org/wiki/BOØWY_Tribute "wikilink")』（2003年）
   - ノーズウォーター - 『[BOØWY Respect](https://ja.wikipedia.org/wiki/BOØWY_Respect "wikilink")』（2003年）
   - 氷室京介 - 『[21st Century Boøwys vs Himuro](https://ja.wikipedia.org/wiki/21st_Century_Boowys_Vs_Himuro "wikilink")』（[2004年](../Page/2004年.md "wikilink")）
-  - [続・美勇伝](https://ja.wikipedia.org/wiki/美勇伝 "wikilink") - 『[チャンプル(1)〜ハッピーマリッジソングカバー集〜](https://ja.wikipedia.org/wiki/チャンプル\(1\)〜ハッピーマリッジソングカバー集〜 "wikilink")』（2009年）
+  - [続・美勇伝](../Page/美勇伝.md "wikilink") - 『[チャンプル(1)〜ハッピーマリッジソングカバー集〜](https://ja.wikipedia.org/wiki/チャンプル\(1\)〜ハッピーマリッジソングカバー集〜 "wikilink")』（2009年）
   - [サカモト教授](https://ja.wikipedia.org/wiki/サカモト教授 "wikilink") - 『サカモト教授の8bit ジュークボックス』（[2011年](../Page/2011年.md "wikilink")）
 
 [Category:BOØWYの楽曲](https://ja.wikipedia.org/wiki/Category:BOØWYの楽曲 "wikilink") [Category:氷室京介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:氷室京介が制作した楽曲 "wikilink") [Category:布袋寅泰が制作した楽曲](https://ja.wikipedia.org/wiki/Category:布袋寅泰が制作した楽曲 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:イーストワールドのシングル](https://ja.wikipedia.org/wiki/Category:イーストワールドのシングル "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

@@ -32,7 +32,7 @@
 </tr>
 <tr class="odd">
 <td><p><small>2nd</small></p></td>
-<td><p><small><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></small></p></td>
+<td><p><small><a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></small></p></td>
 <td><p><strong><a href="../Page/「愛してる」を云わせたい.md" title="wikilink">「愛してる」を云わせたい</a></strong></p></td>
 </tr>
 <tr class="even">
@@ -68,8 +68,8 @@
 
 ## 関連項目
 
-  - [WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")
-      - [上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")
+  - [WANDS](../Page/WANDS.md "wikilink")
+      - [上杉昇](../Page/上杉昇.md "wikilink")
       - [柴崎浩](../Page/柴崎浩.md "wikilink")
 
 [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

@@ -5,11 +5,11 @@
 
 [1992年](../Page/1992年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始。当初の番組タイトルは『**Music Pulse on Tokyo Bay**（ミュージックパルス・オン・トウキョウ・ベイ）』。後に『**MUSIC PULSE ON ○○○**』（○○○にはMONDAYからTHURSDAYまでの曜日名が入った）というタイトルになる。主に[歌手](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")が日替わりパーソナリティを務めていた。また後期には、伝言FAXからパーソナリティ直筆メッセージが入るなどした番組情報が取り出せるようにもなっていた。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは『[ARTIST PARADISE](https://ja.wikipedia.org/wiki/ARTIST_PARADISE "wikilink")』の枠に本番組も入ることになるが、『MUSIC PULSE ON - 』のタイトルはそのままサブタイトルとして残されていた。[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の『[MOZAIKU NIGHT](https://ja.wikipedia.org/wiki/MOZAIKU_NIGHT "wikilink")』スタートと共に『MUSIC PULSE』のタイトルは消えることとなる。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは『[ARTIST PARADISE](../Page/ARTIST_PARADISE.md "wikilink")』の枠に本番組も入ることになるが、『MUSIC PULSE ON - 』のタイトルはそのままサブタイトルとして残されていた。[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の『[MOZAIKU NIGHT](https://ja.wikipedia.org/wiki/MOZAIKU_NIGHT "wikilink")』スタートと共に『MUSIC PULSE』のタイトルは消えることとなる。
 
 ## 放送時間
 
-  - 1992年4月 - [1994年](../Page/1994年.md "wikilink")3月：[月曜日](../Page/月曜日.md "wikilink") - [木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 25:00 - 26:00
+  - 1992年4月 - [1994年](../Page/1994年.md "wikilink")3月：[月曜日](../Page/月曜日.md "wikilink") - [木曜日](../Page/木曜日.md "wikilink") 25:00 - 26:00
   - 1994年4月 - 同年9月：月曜日 - [金曜日](../Page/金曜日.md "wikilink") 25:00 - 26:00 ※金曜日枠追加
   - 1994年10月 - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3月：月曜日 - 木曜日 25:00 - 26:00 ※金曜日枠が外れる
   - 1995年4月 - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月：月曜日 - [水曜日](../Page/水曜日.md "wikilink") 25:00 - 25:55 ※木曜日枠が外れる
@@ -22,32 +22,32 @@
 
 ### 月曜日
 
-  - [陣内大蔵](https://ja.wikipedia.org/wiki/陣内大蔵 "wikilink") （1992年4月 - [1993年](../Page/1993年.md "wikilink")3月）
-  - [BEGIN](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")　（1993年4月 - 1994年9月）
-  - [斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink") （1994年10月 - 1995年3月）
+  - [陣内大蔵](../Page/陣内大蔵.md "wikilink") （1992年4月 - [1993年](../Page/1993年.md "wikilink")3月）
+  - [BEGIN](../Page/BEGIN_\(バンド\).md "wikilink")　（1993年4月 - 1994年9月）
+  - [斉藤和義](../Page/斉藤和義.md "wikilink") （1994年10月 - 1995年3月）
   - [加藤いづみ](https://ja.wikipedia.org/wiki/加藤いづみ "wikilink") （1995年4月 - 1997年3月）
   - [衛藤利恵](../Page/衛藤利恵.md "wikilink") （1997年4月 - 同年9月）
   - [小谷美紗子](../Page/小谷美紗子.md "wikilink") （1997年10月 - 1998年3月）
-  - [MALICE MIZER](https://ja.wikipedia.org/wiki/MALICE_MIZER "wikilink") （1998年4月 - 同年12月）
-  - [SURFACE](https://ja.wikipedia.org/wiki/SURFACE "wikilink") （[1999年](../Page/1999年.md "wikilink")1月 - 同年9月）
-  - [19](https://ja.wikipedia.org/wiki/19_\(音楽グループ\) "wikilink") （1999年10月 - [2000年](../Page/2000年.md "wikilink")3月）
+  - [MALICE MIZER](../Page/MALICE_MIZER.md "wikilink") （1998年4月 - 同年12月）
+  - [SURFACE](../Page/SURFACE.md "wikilink") （[1999年](../Page/1999年.md "wikilink")1月 - 同年9月）
+  - [19](../Page/19_\(音楽グループ\).md "wikilink") （1999年10月 - [2000年](../Page/2000年.md "wikilink")3月）
   - [Do As Infinity](../Page/Do_As_Infinity.md "wikilink")◎ （2000年4月 - 2001年3月）
 
 ### 火曜日
 
-  - [鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink") （1992年4月 - 1995年3月）
-  - [川村かおり](https://ja.wikipedia.org/wiki/川村カオリ "wikilink") （1995年4月 - [1996年](../Page/1996年.md "wikilink")3月）
+  - [鈴木祥子](../Page/鈴木祥子.md "wikilink") （1992年4月 - 1995年3月）
+  - [川村かおり](../Page/川村カオリ.md "wikilink") （1995年4月 - [1996年](../Page/1996年.md "wikilink")3月）
   - [しゅう](../Page/しゅう.md "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")） （[1996年](../Page/1996年.md "wikilink")4月 - 1998年9月）
   - [木村世治](../Page/木村世治.md "wikilink")（[ZEPPET STORE](../Page/ZEPPET_STORE.md "wikilink")）◎ （1998年10月 - 2001年3月）
 
 ### 水曜日
 
   - [To Be Continued](../Page/To_Be_Continued.md "wikilink") （1992年4月 - 1994年9月）
-  - [高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink") （1994年10月 - 1995年3月）
+  - [高橋克典](../Page/高橋克典.md "wikilink") （1994年10月 - 1995年3月）
   - [GLAY](../Page/GLAY.md "wikilink") （1995年4月 - 1996年9月）
   - [木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink") （1996年10月 - 1997年9月）
-  - [及川光博](https://ja.wikipedia.org/wiki/及川光博 "wikilink") （1997年10月 - 1998年3月）
-  - [FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")◎ （1998年4月 - 2001年3月）
+  - [及川光博](../Page/及川光博.md "wikilink") （1997年10月 - 1998年3月）
+  - [FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")◎ （1998年4月 - 2001年3月）
 
 ### 木曜日
 
@@ -56,7 +56,7 @@
   - [鈴木結女](../Page/鈴木結女.md "wikilink") （1993年10月 - 1995年3月）
       -
         （この間中断）
-  - [BLANKEY JET CITY](https://ja.wikipedia.org/wiki/BLANKEY_JET_CITY "wikilink") （1998年4月 - 2000年3月）
+  - [BLANKEY JET CITY](../Page/BLANKEY_JET_CITY.md "wikilink") （1998年4月 - 2000年3月）
   - [wyolica](https://ja.wikipedia.org/wiki/wyolica "wikilink") （2000年4月 - 2001年3月）
 
 ### 金曜日

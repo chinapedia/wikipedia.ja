@@ -9,7 +9,7 @@
 
 ## 概要
 
-『**MOZAIKU NIGHT**』のタイトルで、[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始。当初は月曜日深夜から木曜日深夜の24:45 - 29:00の放送で、25:05、26:05、27:05のそれぞれの時間帯に30分日替わりの[箱番組](https://ja.wikipedia.org/wiki/箱番組 "wikilink")が設けられ、それを生出演している日替わりパーソナリティがつないでいくという構成だった（いわゆる、「[ブロックワイド](https://ja.wikipedia.org/wiki/ブロックワイド "wikilink")」）。<u>つないでいく</u>という形態だったことからMOZAIKUと名づけられた\[1\]。箱番組のパーソナリティの一部は前番組『[ARTIST PARADISE](https://ja.wikipedia.org/wiki/ARTIST_PARADISE "wikilink")』から続投。のち、28:05にも箱番組のパートが設けられ、この番組自体の放送時間が大きく変わると共に箱番組の数も変動。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは一時日替わり制をやめ、月 - 木全曜日[イマヤスのメインパーソナリティとなっている](../Page/今泉泰幸.md "wikilink")。
+『**MOZAIKU NIGHT**』のタイトルで、[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")放送開始。当初は月曜日深夜から木曜日深夜の24:45 - 29:00の放送で、25:05、26:05、27:05のそれぞれの時間帯に30分日替わりの[箱番組](https://ja.wikipedia.org/wiki/箱番組 "wikilink")が設けられ、それを生出演している日替わりパーソナリティがつないでいくという構成だった（いわゆる、「[ブロックワイド](https://ja.wikipedia.org/wiki/ブロックワイド "wikilink")」）。<u>つないでいく</u>という形態だったことからMOZAIKUと名づけられた\[1\]。箱番組のパーソナリティの一部は前番組『[ARTIST PARADISE](../Page/ARTIST_PARADISE.md "wikilink")』から続投。のち、28:05にも箱番組のパートが設けられ、この番組自体の放送時間が大きく変わると共に箱番組の数も変動。[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")からは一時日替わり制をやめ、月 - 木全曜日[イマヤスのメインパーソナリティとなっている](../Page/今泉泰幸.md "wikilink")。
 
 2005年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からはこれまでの箱番組が全て単独番組となり月曜 - 木曜の25:00 - 25:30に移動、箱番組を持たない番組として『**MOZAIKU NIGHT〜NO.1 MUSIC FACTORY〜**』とタイトルを変更。同時に日替わりパーソナリティ制も復活した。この時から[2007年](../Page/2007年.md "wikilink")3月まで約1年6か月間はパーソナリティの変動は無かった。
 
@@ -65,7 +65,7 @@
 
   - 月曜日：[Roni](../Page/Roni.md "wikilink")
   - 火曜日：[イマヤス](../Page/今泉泰幸.md "wikilink")
-  - 水曜日：[宮原永海](https://ja.wikipedia.org/wiki/宮原永海 "wikilink")（2003年9月まで） → [野村美由希](https://ja.wikipedia.org/wiki/野村美由希 "wikilink")（2003年10月 - 2004年3月） → [丸山みづ紀](../Page/丸山みづ紀.md "wikilink")（2004年4月 - 同年9月） → Roni（2004年10月 - 2005年3月）
+  - 水曜日：[宮原永海](../Page/宮原永海.md "wikilink")（2003年9月まで） → [野村美由希](https://ja.wikipedia.org/wiki/野村美由希 "wikilink")（2003年10月 - 2004年3月） → [丸山みづ紀](../Page/丸山みづ紀.md "wikilink")（2004年4月 - 同年9月） → Roni（2004年10月 - 2005年3月）
   - 木曜日：中村道生
 
 #### 2005年4月 - 同年9月
@@ -108,21 +108,21 @@
   - 月曜日：丸山みづ紀（2007年3月まで）→[江藤麻由](../Page/江藤麻由.md "wikilink")（2007年4月より）
   - 火曜日：イマヤス、相原玲
   - 水曜日：Roni
-  - 木曜日：[中村貴子](https://ja.wikipedia.org/wiki/中村貴子 "wikilink")、[J](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")（第2週、2006年12月より）、[田家秀樹](https://ja.wikipedia.org/wiki/田家秀樹 "wikilink")（最終週、2008年3月まで）
+  - 木曜日：[中村貴子](../Page/中村貴子.md "wikilink")、[J](../Page/J_\(ミュージシャン\).md "wikilink")（第2週、2006年12月より）、[田家秀樹](https://ja.wikipedia.org/wiki/田家秀樹 "wikilink")（最終週、2008年3月まで）
 
 #### 2010年4月 - 2011年3月
 
   - 月曜日：Roni、[駿河太郎](https://ja.wikipedia.org/wiki/駿河太郎 "wikilink")
   - 火曜日：イマヤス、[Ray](https://ja.wikipedia.org/wiki/相原玲 "wikilink")
   - 水曜日：Roni、[ZOCCO](https://ja.wikipedia.org/wiki/ZOCCO "wikilink")（第1週目）
-  - 木曜日：（TAKAKO'S EDITION）[中村貴子](https://ja.wikipedia.org/wiki/中村貴子 "wikilink")、[J](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink")（第2週）／（YUI YUI PARTY）[久保田結衣](../Page/久保田結衣.md "wikilink")
+  - 木曜日：（TAKAKO'S EDITION）[中村貴子](../Page/中村貴子.md "wikilink")、[J](../Page/J_\(ミュージシャン\).md "wikilink")（第2週）／（YUI YUI PARTY）[久保田結衣](../Page/久保田結衣.md "wikilink")
 
 #### 2011年4月 - 2012年9月
 
   - 月曜日: Roni
   - 火曜日: イマヤス、Ray
   - 水曜日: Roni
-  - 木曜日: ＜TAKAKO'S EDITION＞中村貴子、J（第2週）／＜ねむっぽ\!\! MU$DL(ミュードル)＞[清浦夏実](https://ja.wikipedia.org/wiki/清浦夏実 "wikilink")／＜チョイフルセレクション＞[佐藤健一（SATOKEN）](../Page/佐藤健一_\(ラジオパーソナリティー\).md "wikilink")、[栗原美季](../Page/栗原美季.md "wikilink")（CDラジオショッピングのみ）
+  - 木曜日: ＜TAKAKO'S EDITION＞中村貴子、J（第2週）／＜ねむっぽ\!\! MU$DL(ミュードル)＞[清浦夏実](../Page/清浦夏実.md "wikilink")／＜チョイフルセレクション＞[佐藤健一（SATOKEN）](../Page/佐藤健一_\(ラジオパーソナリティー\).md "wikilink")、[栗原美季](../Page/栗原美季.md "wikilink")（CDラジオショッピングのみ）
       - 木曜後半の清浦パートの当初は「EVER POP」としての放送だった。2011年10月6日より「ねむっぽ\!〜Next Music Power〜」に改題。さらに2011年12月1日から新パートナーに佐藤を迎えて現タイトルにリニューアル。2012年4月からコーナーが独立し、同時に佐藤が抜けて単独DJとなった。
 
 #### 2012年10月 - 2014年3月
@@ -155,7 +155,7 @@
   - シュリーマン （2002年4月 - 同年9月・27:15）
   - [サンダルバッヂ](https://ja.wikipedia.org/wiki/サンダルバッヂ "wikilink") （2002年10月 - 2003年9月・26:15→26:30）
   - [東京60WATTS](../Page/東京60WATTS.md "wikilink") （『**長いものには巻かれたい**』2003年10月 - 2005年3月・25:30）
-  - [SAKURA](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\) "wikilink") （2003年10月 - 2004年3月・26:30）
+  - [SAKURA](../Page/SAKURA_\(歌手\).md "wikilink") （2003年10月 - 2004年3月・26:30）
   - [かわらだユタカ](../Page/かわらだユタカ.md "wikilink") （2004年4月 - 同年9月・26:30）
   - [東真紀](https://ja.wikipedia.org/wiki/東真紀 "wikilink") （『**ちいさなクローバー**』2004年10月 - 2005年9月・26:30→25:30、単独番組として2006年3月まで放送）
   - [星野みちる](../Page/星野みちる.md "wikilink") （『**星野みちるの起きてられない\!**』2014年4月 - 2015年3月・27:00）
@@ -171,7 +171,7 @@
   - DOMINO88 （2001年10月 - 2002年3月・28:15 →月曜日へ移動）
   - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink") （『**[ビタミンM (ラジオ番組)](../Page/ビタミンM_\(ラジオ番組\).md "wikilink")**』2002年4月 - 2005年3月・25:15→25:30、この後単独番組となり現在も放送中）
   - ナイル （2002年10月 - 2003年3月・26:15 ←水曜日から移動）
-  - [FLAME](https://ja.wikipedia.org/wiki/FLAME "wikilink")◆ （2003年4月 - 2004年9月・24:30）
+  - [FLAME](../Page/FLAME.md "wikilink")◆ （2003年4月 - 2004年9月・24:30）
   - [MILKRUN](https://ja.wikipedia.org/wiki/MILKRUN "wikilink") （2003年4月 - 2004年3月・26:30）
   - [Nao](https://ja.wikipedia.org/wiki/Nao "wikilink") （2004年4月 - 同年9月・26:30）
   - [BLUE AGE ORCHESTRA](https://ja.wikipedia.org/wiki/BLUE_AGE_ORCHESTRA "wikilink")　（2004年10月 - 2005年3月・26:30）
@@ -180,15 +180,15 @@
 
 ### 水曜日
 
-  - [FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")◎◆ （2001年4月 - 2002年3月・25:05、2003年4月 - 2004年9月・24:30）
+  - [FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")◎◆ （2001年4月 - 2002年3月・25:05、2003年4月 - 2004年9月・24:30）
   - [井手麻理子](https://ja.wikipedia.org/wiki/井手麻理子 "wikilink")◎ （2001年4月 - 2002年9月・26:05→26:15）
-  - [シェキドル](https://ja.wikipedia.org/wiki/シェキドル "wikilink")◎ （2001年4月 - 2002年3月・27:05）
+  - [シェキドル](../Page/シェキドル.md "wikilink")◎ （2001年4月 - 2002年3月・27:05）
   - アモン （2001年10月 - 2002年3月・28:05）
   - [MAMALAID RAG](../Page/MAMALAID_RAG.md "wikilink") （2002年4月 - 同年9月・25:15）
   - ナイル （2002年4月 - 同年9月・27:15 ←火曜日へ移動）
   - [Hermann H.\&The Pacemakers](../Page/Hermann_H.&The_Pacemakers.md "wikilink") （2001年10月 - 2002年9月・27:05→27:15 →水曜日へ移動）
   - [太陽族](../Page/太陽族_\(バンド\).md "wikilink") （2002年10月 - 2003年9月・26:15→26:30）
-  - [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink") （『**RADIO CARNIVAL**』2003年10月 - 2005年3月・25:30、この後火曜日に移動し単独番組となり現在も放送中）
+  - [SOFFet](../Page/SOFFet.md "wikilink") （『**RADIO CARNIVAL**』2003年10月 - 2005年3月・25:30、この後火曜日に移動し単独番組となり現在も放送中）
   - 『おれたちイジワルケイ』 （2003年10月 - 2004年9月・26:30）
   - [サザンハリケーン](../Page/サザンハリケーン.md "wikilink") （2004年10月 - 2005年3月・26:30）
   - [エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink") （『**おしゃべりオシャレディオ**』2005年4月 - 同年9月・25:30、この後単独番組となり2008年3月まで放送）
@@ -199,7 +199,7 @@
 
 ### 木曜日
 
-  - [キリンジ](https://ja.wikipedia.org/wiki/キリンジ "wikilink")◎ （2001年4月 - 同年9月・25:05）
+  - [キリンジ](../Page/キリンジ.md "wikilink")◎ （2001年4月 - 同年9月・25:05）
   - [Vlidge](../Page/Vlidge.md "wikilink")◎ （2001年4月 - 2002年3月・26:05）
   - [TOMATO CUBE](https://ja.wikipedia.org/wiki/TOMATO_CUBE "wikilink")◎ （2001年4月 - 同年9月・27:05）
   - [FAIRY FORE](../Page/FAIRY_FORE.md "wikilink")（2001年10月 - 2002年3月・25:05）
@@ -280,7 +280,7 @@
 <!-- end list -->
 
   - MOZAIKU CHOI FURU NIGHT（木曜2部）
-    番組のルーツは[清浦夏実](https://ja.wikipedia.org/wiki/清浦夏実 "wikilink")の「ねむっぽ\!シリーズ」にSATOKENが加入した際に懐メロを掛けるようになったところ。2012年4月からコーナーが独立「チョイフル・セレクション」として独立した。その際に現在まで続く「CDラジオショッピング」がはじまったものの当時は[栗原美季](../Page/栗原美季.md "wikilink")の担当。
+    番組のルーツは[清浦夏実](../Page/清浦夏実.md "wikilink")の「ねむっぽ\!シリーズ」にSATOKENが加入した際に懐メロを掛けるようになったところ。2012年4月からコーナーが独立「チョイフル・セレクション」として独立した。その際に現在まで続く「CDラジオショッピング」がはじまったものの当時は[栗原美季](../Page/栗原美季.md "wikilink")の担当。
     2012年10月、AMEMIYAが参加することになり、MOZAIKU CHOI FURU NIGHTへと改題した。
     ここでの「CHOI FURU＝ちょいふる」とは概ね70年代から90年代前半までを指す。
 

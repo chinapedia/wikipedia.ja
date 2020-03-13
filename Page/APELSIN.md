@@ -1,7 +1,7 @@
 > この記事は[APELSIN](https://ja.wikipedia.org/wiki/APELSIN)から翻訳されています。
 
 
-**APELSIN**（アピリシン\[1\]、アペルシン\[2\]）は、[ウクライナ](../Page/ウクライナ.md "wikilink")出身の[ダンス](https://ja.wikipedia.org/wiki/ダンス "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")デビューは[2006年](../Page/2006年.md "wikilink")。名前は 「[オレンジ](../Page/オレンジ.md "wikilink")」という意味\[3\]。
+**APELSIN**（アピリシン\[1\]、アペルシン\[2\]）は、[ウクライナ](../Page/ウクライナ.md "wikilink")出身の[ダンス](../Page/ダンス.md "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")デビューは[2006年](../Page/2006年.md "wikilink")。名前は 「[オレンジ](../Page/オレンジ.md "wikilink")」という意味\[3\]。
 
 ## メンバー
 

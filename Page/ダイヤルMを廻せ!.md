@@ -1,7 +1,7 @@
 > この記事は[M!](https://ja.wikipedia.org/wiki/M!)から翻訳されています。
 
 
-[_Dial_M_for_Murder2.jpg](https://ja.wikipedia.org/wiki/File:_Dial_M_for_Murder2.jpg "fig:_Dial_M_for_Murder2.jpg") 『**ダイヤルMを廻せ\!**』（ダイヤルエムをまわせ\!、原題：*Dial M for Murder*）は、[1954年に制作された](https://ja.wikipedia.org/wiki/1954年の映画 "wikilink")[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。[アルフレッド・ヒッチコック](../Page/アルフレッド・ヒッチコック.md "wikilink")監督による[サスペンス](../Page/サスペンス映画.md "wikilink")・ミステリー映画。原作は[フレデリック・ノットによる同じタイトルの舞台劇で](https://ja.wikipedia.org/wiki/:en:Frederick_Knott "wikilink")、ノットは本作の脚本も手がけている。[立体映画](https://ja.wikipedia.org/wiki/立体映画 "wikilink")（3D映画）として制作された。配給は[ワーナー・ブラザース](https://ja.wikipedia.org/wiki/ワーナー・ブラザース "wikilink")。
+[_Dial_M_for_Murder2.jpg](https://ja.wikipedia.org/wiki/File:_Dial_M_for_Murder2.jpg "fig:_Dial_M_for_Murder2.jpg") 『**ダイヤルMを廻せ\!**』（ダイヤルエムをまわせ\!、原題：*Dial M for Murder*）は、[1954年に制作された](https://ja.wikipedia.org/wiki/1954年の映画 "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。[アルフレッド・ヒッチコック](../Page/アルフレッド・ヒッチコック.md "wikilink")監督による[サスペンス](../Page/サスペンス映画.md "wikilink")・ミステリー映画。原作は[フレデリック・ノットによる同じタイトルの舞台劇で](https://ja.wikipedia.org/wiki/:en:Frederick_Knott "wikilink")、ノットは本作の脚本も手がけている。[立体映画](https://ja.wikipedia.org/wiki/立体映画 "wikilink")（3D映画）として制作された。配給は[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")。
 
 ## あらすじ
 
@@ -29,29 +29,29 @@
 
 ## キャスト
 
-| 役名                                      | 俳優                                                                       | 日本語吹替                                                   |
-| --------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------- |
-| [NETテレビ旧版](../Page/テレビ朝日.md "wikilink") | NETテレビ新版                                                                 | [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")版    |
-| トニー                                     | [レイ・ミランド](../Page/レイ・ミランド.md "wikilink")                                 | [加藤和夫](../Page/加藤和夫.md "wikilink")                      |
-| マーゴ                                     | [グレース・ケリー](https://ja.wikipedia.org/wiki/グレース・ケリー "wikilink")            | [野口ふみえ](../Page/野口ふみえ.md "wikilink")                    |
-| マーク・ハリディ                                | [ロバート・カミングス](https://ja.wikipedia.org/wiki/ロバート・カミングス "wikilink")        | [小林恭治](https://ja.wikipedia.org/wiki/小林恭治 "wikilink")   |
-| ハバード警部                                  | [ジョン・ウィリアムズ](https://ja.wikipedia.org/wiki/ジョン・ウィリアムズ_\(俳優\) "wikilink") | [小林昭二](../Page/小林昭二.md "wikilink")                      |
-| スワン                                     | [アンソニー・ドーソン](../Page/アンソニー・ドーソン.md "wikilink")                           | [村越伊知郎](https://ja.wikipedia.org/wiki/村越伊知郎 "wikilink") |
+| 役名                                      | 俳優                                                                       | 日本語吹替                                                |
+| --------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------- |
+| [NETテレビ旧版](../Page/テレビ朝日.md "wikilink") | NETテレビ新版                                                                 | [TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")版 |
+| トニー                                     | [レイ・ミランド](../Page/レイ・ミランド.md "wikilink")                                 | [加藤和夫](../Page/加藤和夫.md "wikilink")                   |
+| マーゴ                                     | [グレース・ケリー](https://ja.wikipedia.org/wiki/グレース・ケリー "wikilink")            | [野口ふみえ](../Page/野口ふみえ.md "wikilink")                 |
+| マーク・ハリディ                                | [ロバート・カミングス](https://ja.wikipedia.org/wiki/ロバート・カミングス "wikilink")        | [小林恭治](../Page/小林恭治.md "wikilink")                   |
+| ハバード警部                                  | [ジョン・ウィリアムズ](https://ja.wikipedia.org/wiki/ジョン・ウィリアムズ_\(俳優\) "wikilink") | [小林昭二](../Page/小林昭二.md "wikilink")                   |
+| スワン                                     | [アンソニー・ドーソン](../Page/アンソニー・ドーソン.md "wikilink")                           | [村越伊知郎](../Page/村越伊知郎.md "wikilink")                 |
 
-  - NETテレビ旧版：初回放送[1967年](../Page/1967年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")『[土曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")』21:00-23:00 ※[DVD](../Page/DVD.md "wikilink")、[BD](https://ja.wikipedia.org/wiki/BD "wikilink")には再放送短縮版（正味約70分）の音源を収録\[1\]。
-      - その他：[矢田耕司](https://ja.wikipedia.org/wiki/矢田耕司 "wikilink")、[緑川稔](../Page/緑川稔.md "wikilink")、[千葉順二](https://ja.wikipedia.org/wiki/千葉順二 "wikilink")、[井上真樹夫](https://ja.wikipedia.org/wiki/井上真樹夫 "wikilink")、[沢田敏子](../Page/沢田敏子.md "wikilink")
-      - 演出：[佐藤敏夫](https://ja.wikipedia.org/wiki/佐藤敏夫_\(音響監督\) "wikilink")、翻訳：古賀牧彦、効果：芦田公雄/高橋鐐、音声：重秀彦、録音：番町スタジオ/樋口鐐三、プロデューサー：植木明、解説：[淀川長治](https://ja.wikipedia.org/wiki/淀川長治 "wikilink")、製作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
-  - NETテレビ新版：初回放送[1972年](../Page/1972年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")『[土曜映画劇場](https://ja.wikipedia.org/wiki/土曜映画劇場 "wikilink")』21:00-22:25
+  - NETテレビ旧版：初回放送[1967年](../Page/1967年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")『[土曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』21:00-23:00 ※[DVD](../Page/DVD.md "wikilink")、[BD](https://ja.wikipedia.org/wiki/BD "wikilink")には再放送短縮版（正味約70分）の音源を収録\[1\]。
+      - その他：[矢田耕司](../Page/矢田耕司.md "wikilink")、[緑川稔](../Page/緑川稔.md "wikilink")、[千葉順二](../Page/千葉順二.md "wikilink")、[井上真樹夫](../Page/井上真樹夫.md "wikilink")、[沢田敏子](../Page/沢田敏子.md "wikilink")
+      - 演出：[佐藤敏夫](https://ja.wikipedia.org/wiki/佐藤敏夫_\(音響監督\) "wikilink")、翻訳：古賀牧彦、効果：芦田公雄/高橋鐐、音声：重秀彦、録音：番町スタジオ/樋口鐐三、プロデューサー：植木明、解説：[淀川長治](../Page/淀川長治.md "wikilink")、製作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")
+  - NETテレビ新版：初回放送[1972年](../Page/1972年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")『[土曜映画劇場](../Page/土曜映画劇場.md "wikilink")』21:00-22:25
   - TBS版：初回放送[1984年](../Page/1984年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")『SONY PRESENTS 名作洋画ノーカット10週』0:10-2:04
-      - その他：[加藤正之](https://ja.wikipedia.org/wiki/加藤正之 "wikilink")、柳沢紀男、[小島敏彦](../Page/小島敏彦.md "wikilink")、[秋元羊介](../Page/秋元羊介.md "wikilink")、[平林尚三](../Page/平林尚三.md "wikilink")、佐藤由衣
+      - その他：[加藤正之](../Page/加藤正之.md "wikilink")、柳沢紀男、[小島敏彦](../Page/小島敏彦.md "wikilink")、[秋元羊介](../Page/秋元羊介.md "wikilink")、[平林尚三](../Page/平林尚三.md "wikilink")、佐藤由衣
       - 演出：[小林守夫](https://ja.wikipedia.org/wiki/小林守夫 "wikilink")、翻訳：岩佐幸子、効果：桜井俊哉/遠藤堯雄、調整：前田仁信、プロデューサー：安田孝夫、製作：東北新社/TBS
 
 ## 主な受賞・ノミネート歴
 
 **受賞**
 
-  - [ニューヨーク映画批評家協会賞 主演女優賞](https://ja.wikipedia.org/wiki/ニューヨーク映画批評家協会賞_主演女優賞 "wikilink")：グレース・ケリー（『[喝采](../Page/喝采_\(1954年の映画\).md "wikilink")』『[裏窓](https://ja.wikipedia.org/wiki/裏窓 "wikilink")』での演技も含めた受賞）
-  - [ナショナル・ボード・オブ・レビュー賞 助演男優賞](https://ja.wikipedia.org/wiki/ナショナル・ボード・オブ・レビュー賞_助演男優賞 "wikilink")：ジョン・ウィリアムズ（『[麗しのサブリナ](https://ja.wikipedia.org/wiki/麗しのサブリナ "wikilink")』での演技も含めた受賞）
+  - [ニューヨーク映画批評家協会賞 主演女優賞](https://ja.wikipedia.org/wiki/ニューヨーク映画批評家協会賞_主演女優賞 "wikilink")：グレース・ケリー（『[喝采](../Page/喝采_\(1954年の映画\).md "wikilink")』『[裏窓](../Page/裏窓.md "wikilink")』での演技も含めた受賞）
+  - [ナショナル・ボード・オブ・レビュー賞 助演男優賞](https://ja.wikipedia.org/wiki/ナショナル・ボード・オブ・レビュー賞_助演男優賞 "wikilink")：ジョン・ウィリアムズ（『[麗しのサブリナ](../Page/麗しのサブリナ.md "wikilink")』での演技も含めた受賞）
 
 **ノミネート**
 
@@ -62,7 +62,7 @@
 
   - 英語の台詞では、トニーやハバード警部はアパートの鍵をラッチ鍵 (latchkey) と呼んでいる。ラッチ式の錠は、鍵を回すと出入りする金具部分の先が斜めになっている。ドアを閉じるとき、金具が斜めの部分にうながされて沈み込み、ドアを閉め切ったときにバネで金具が元に戻って錠が掛かる。ドアが閉まると同時に施錠されるので、ドアを閉めるときには鍵は要らないが、部屋の外からドアを開けるときには鍵が必要になる。
   - 恒例の[ヒッチコック監督のカメオ出演](https://ja.wikipedia.org/wiki/アルフレッド・ヒッチコックのカメオ出演一覧 "wikilink")、本作ではトニーの出身大学の同窓会の出席者のひとりとして、記念写真の中に登場する。
-  - 1998年に制作された[マイケル・ダグラス](https://ja.wikipedia.org/wiki/マイケル・ダグラス "wikilink")主演の映画『[ダイヤルM](https://ja.wikipedia.org/wiki/ダイヤルM "wikilink")』（原題：*[A Perfect Murder](https://ja.wikipedia.org/wiki/:en:A_Perfect_Murder "wikilink")*）は、本作のリメイクである。
+  - 1998年に制作された[マイケル・ダグラス](../Page/マイケル・ダグラス.md "wikilink")主演の映画『[ダイヤルM](https://ja.wikipedia.org/wiki/ダイヤルM "wikilink")』（原題：*[A Perfect Murder](https://ja.wikipedia.org/wiki/:en:A_Perfect_Murder "wikilink")*）は、本作のリメイクである。
 
 ## 脚注
 
@@ -79,4 +79,4 @@
   -
 [Category:1954年の映画](https://ja.wikipedia.org/wiki/Category:1954年の映画 "wikilink") [Category:アメリカ合衆国の3D映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の3D映画作品 "wikilink") [Category:アメリカ合衆国のミステリ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のミステリ映画 "wikilink") [Category:アメリカ合衆国のサスペンス映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のサスペンス映画 "wikilink") [Category:アメリカ合衆国のサイコスリラー映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のサイコスリラー映画 "wikilink") [Category:舞台劇の映画化作品](https://ja.wikipedia.org/wiki/Category:舞台劇の映画化作品 "wikilink") [Category:不倫を扱った映画・オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:不倫を扱った映画・オリジナルビデオ "wikilink") [Category:アルフレッド・ヒッチコックの監督映画](https://ja.wikipedia.org/wiki/Category:アルフレッド・ヒッチコックの監督映画 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink") [Category:ディミトリ・ティオムキンの作曲映画](https://ja.wikipedia.org/wiki/Category:ディミトリ・ティオムキンの作曲映画 "wikilink")
 
-1.  DVDのパッケージには誤ってTBS版のキャストが掲載されている。BDのパッケージでは訂正されているものの、グレース・ケリーは[二階堂有希子](https://ja.wikipedia.org/wiki/二階堂有希子 "wikilink")と誤表記されているため、上位3名のキャストは書籍『映画はブラウン管の指定席で』に掲載されているものを参考にしている。
+1.  DVDのパッケージには誤ってTBS版のキャストが掲載されている。BDのパッケージでは訂正されているものの、グレース・ケリーは[二階堂有希子](../Page/二階堂有希子.md "wikilink")と誤表記されているため、上位3名のキャストは書籍『映画はブラウン管の指定席で』に掲載されているものを参考にしている。

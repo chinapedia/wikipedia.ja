@@ -1,7 +1,7 @@
 > この記事は[GENJI --](https://ja.wikipedia.org/wiki/GENJI_--)から翻訳されています。
 
 
-『**GENJI -神威奏乱-**』（ゲンジ かむいそうらん）は、[PLAYSTATION 3用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。株式会社[ゲームリパブリック](https://ja.wikipedia.org/wiki/ゲームリパブリック "wikilink")制作。
+『**GENJI -神威奏乱-**』（ゲンジ かむいそうらん）は、[PLAYSTATION 3用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。株式会社[ゲームリパブリック](../Page/ゲームリパブリック.md "wikilink")制作。
 
 ## 概要
 
@@ -18,7 +18,7 @@
 
 ## あらすじ
 
-物語は『[GENJI](https://ja.wikipedia.org/wiki/GENJI "wikilink")』から3年。[平氏](../Page/平氏.md "wikilink")が、この世にあってはならない力を手にしたとの知らせが入る。手遅れになる前に、[源頼朝](https://ja.wikipedia.org/wiki/源頼朝 "wikilink")と[源義経](../Page/源義経.md "wikilink")が平氏討伐に向かう。
+物語は『[GENJI](../Page/GENJI.md "wikilink")』から3年。[平氏](../Page/平氏.md "wikilink")が、この世にあってはならない力を手にしたとの知らせが入る。手遅れになる前に、[源頼朝](../Page/源頼朝.md "wikilink")と[源義経](../Page/源義経.md "wikilink")が平氏討伐に向かう。
 
 ## システム
 
@@ -26,32 +26,32 @@
 
 ## キャラクター&キャスト
 
-  - [源九郎義経](../Page/源義経.md "wikilink") - [浪川大輔](https://ja.wikipedia.org/wiki/浪川大輔 "wikilink")　
-  - [武蔵坊弁慶](https://ja.wikipedia.org/wiki/武蔵坊弁慶 "wikilink") - [大塚明夫](../Page/大塚明夫.md "wikilink")　
-  - [静御前](https://ja.wikipedia.org/wiki/静御前 "wikilink") - [戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink")
-  - 九妖 - [長沢美樹](https://ja.wikipedia.org/wiki/長沢美樹 "wikilink")
+  - [源九郎義経](../Page/源義経.md "wikilink") - [浪川大輔](../Page/浪川大輔.md "wikilink")　
+  - [武蔵坊弁慶](../Page/武蔵坊弁慶.md "wikilink") - [大塚明夫](../Page/大塚明夫.md "wikilink")　
+  - [静御前](../Page/静御前.md "wikilink") - [戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink")
+  - 九妖 - [長沢美樹](../Page/長沢美樹.md "wikilink")
   - 武尊 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")
-  - [源頼朝](https://ja.wikipedia.org/wiki/源頼朝 "wikilink") - [土師孝也](../Page/土師孝也.md "wikilink")
+  - [源頼朝](../Page/源頼朝.md "wikilink") - [土師孝也](../Page/土師孝也.md "wikilink")
   - [平敦盛](../Page/平敦盛.md "wikilink") - [浅川悠](../Page/浅川悠.md "wikilink")
   - [平知盛](../Page/平知盛.md "wikilink") - [石塚運昇](../Page/石塚運昇.md "wikilink")
-  - [平教経](https://ja.wikipedia.org/wiki/平教経 "wikilink") - [安原義人](../Page/安原義人.md "wikilink")
-  - [藤原秀衡](https://ja.wikipedia.org/wiki/藤原秀衡 "wikilink") - [飯塚昭三](https://ja.wikipedia.org/wiki/飯塚昭三 "wikilink")
-  - 術師 - [京田尚子](https://ja.wikipedia.org/wiki/京田尚子 "wikilink")
+  - [平教経](../Page/平教経.md "wikilink") - [安原義人](../Page/安原義人.md "wikilink")
+  - [藤原秀衡](../Page/藤原秀衡.md "wikilink") - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
+  - 術師 - [京田尚子](../Page/京田尚子.md "wikilink")
   - 維呼姫 - [黒河奈美](../Page/黒河奈美.md "wikilink")
   - 魅那姫 - [松来未祐](../Page/松来未祐.md "wikilink")
   - [鬼一法眼](https://ja.wikipedia.org/wiki/鬼一法眼 "wikilink") - [唐沢民賢](../Page/唐沢民賢.md "wikilink")
-  - [藤原景清](https://ja.wikipedia.org/wiki/藤原景清 "wikilink") - [杉田智和](https://ja.wikipedia.org/wiki/杉田智和 "wikilink")
+  - [藤原景清](../Page/藤原景清.md "wikilink") - [杉田智和](../Page/杉田智和.md "wikilink")
   - 皆鶴姫（ナレーション） - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
 
 ## Giant Enemy Crab
 
-2006年の[Electronic Entertainment Expoで行われたSCEのプレゼンで本作のデモ映像が流れた際](https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo "wikilink")、「このゲームは日本の史実の戦いを元にして作られています」と説明があった直後に、史実ではありえない巨大なカニの怪物が画面に登場して「この*Giant Enemy Crab*との戦いが……」と説明が続いたため、会場が大爆笑に包まれたというエピソードが米国では非常に有名である。
+2006年の[Electronic Entertainment Expoで行われたSCEのプレゼンで本作のデモ映像が流れた際](../Page/Electronic_Entertainment_Expo.md "wikilink")、「このゲームは日本の史実の戦いを元にして作られています」と説明があった直後に、史実ではありえない巨大なカニの怪物が画面に登場して「この*Giant Enemy Crab*との戦いが……」と説明が続いたため、会場が大爆笑に包まれたというエピソードが米国では非常に有名である。
 
 そのため、Giant Enemy Crabが、数々のゲームでパロディとして登場している。
 
 ## 関連項目
 
-  - [GENJI](https://ja.wikipedia.org/wiki/GENJI "wikilink")
+  - [GENJI](../Page/GENJI.md "wikilink")
 
 ## 外部リンク
 

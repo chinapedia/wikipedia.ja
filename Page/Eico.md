@@ -123,7 +123,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月22日.md" title="wikilink">6月22日</a></p></td>
 <td><p><strong>月夜のギター</strong></p></td>
 <td><p>FLRC-33</p></td>
 <td><ol>
@@ -320,7 +320,7 @@ Drop<br />
 
 ## 関連項目
 
-  - [沖縄県出身の人物一覧](https://ja.wikipedia.org/wiki/沖縄県出身の人物一覧 "wikilink")
+  - [沖縄県出身の人物一覧](../Page/沖縄県出身の人物一覧.md "wikilink")
   - [横田はるな](https://ja.wikipedia.org/wiki/横田はるな "wikilink")
 
 ## 外部リンク

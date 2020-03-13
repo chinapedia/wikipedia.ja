@@ -1,7 +1,7 @@
 > この記事は[MUSIC EDGE + Osaka Style](https://ja.wikipedia.org/wiki/MUSIC_EDGE_+_Osaka_Style)から翻訳されています。
 
 
-『**MUSIC EDGE + Osaka Style**』（ミュージック・エッジ オー・スタイル）は、[毎日放送で毎週月曜](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")24:59 - 25:39（火曜0:59 - 1:39）で放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**MUSIC EDGE + Osaka Style**』（ミュージック・エッジ オー・スタイル）は、[毎日放送で毎週月曜](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")24:59 - 25:39（火曜0:59 - 1:39）で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 概要
 
@@ -9,19 +9,19 @@
 
 提供スポンサーは[アサヒビール](../Page/アサヒビール.md "wikilink")の一社提供（番組スタートから番組前半パートの『MUSIC EDGE + Osaka Style』のみを提供）。2004年7月まで同番組のプロデューサー兼チーフディレクターだった毎日放送の清水コーヘイ（康平）は、この番組を立ち上げるにあたってアサヒビールに赴いて自ら[プレゼンを行った](../Page/プレゼンテーション.md "wikilink")\[1\]。
 
-この番組は、基本的には[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")の番組として放送されたが、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")の放送局・[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")でも不定期で土曜深夜に放送された。同局での放送では提供クレジットの表示はなく、エンディングや次回予告などもカットされていた。
+この番組は、基本的には[関西ローカル](../Page/関西ローカル.md "wikilink")の番組として放送されたが、[福岡県](../Page/福岡県.md "wikilink")の放送局・[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")でも不定期で土曜深夜に放送された。同局での放送では提供クレジットの表示はなく、エンディングや次回予告などもカットされていた。
 
 ## 番組史
 
 2001年5月11日に毎日放送自主編成の深夜番組放送枠『[フライデーエキスプレス](https://ja.wikipedia.org/wiki/フライデーエキスプレス "wikilink")』第2部の番組として、『**MUSIC EDGE**』のタイトルでスタート。このタイトルを冠していた頃には毎週金曜24:55 - 25:25（土曜0:55 - 1:25）に放送されていた。その後の2002年4月に現在の放送曜日・放送時間帯へと移動し、タイトルも現在のものへと変更された。また2002年11月からは『MUSIC EDGE + NEXT Style』の放送開始により、放送時間が10分拡大された。
 
-番組スタート当時のオープニングは、[T.REXの楽曲](https://ja.wikipedia.org/wiki/T・レックス "wikilink")「20th Century Boy」に乗せて、犬を追いかけて走る[U.K.が謎の地下基地にたどり着くまでの映像が流れ](../Page/U.K._\(タレント\).md "wikilink")、そのまま白を基調とした、近未来的なデザインの地下基地を模したスタジオに切り替わるというものだった。その後、オープニングタイトルは何度か変更があり、2009年9月下旬からは、[KISSのフェイスペイントを施したU](https://ja.wikipedia.org/wiki/キッス "wikilink").K.が「うたぐみライブスペース スミレ堂」のステージ上で「[Rock and Roll All Nite](https://ja.wikipedia.org/wiki/地獄への接吻 "wikilink")」を[エア・ギター](https://ja.wikipedia.org/wiki/エア・ギター "wikilink")で披露しているバージョンに変わっている。
+番組スタート当時のオープニングは、[T.REXの楽曲](../Page/T・レックス.md "wikilink")「20th Century Boy」に乗せて、犬を追いかけて走る[U.K.が謎の地下基地にたどり着くまでの映像が流れ](../Page/U.K._\(タレント\).md "wikilink")、そのまま白を基調とした、近未来的なデザインの地下基地を模したスタジオに切り替わるというものだった。その後、オープニングタイトルは何度か変更があり、2009年9月下旬からは、[KISSのフェイスペイントを施したU](../Page/キッス.md "wikilink").K.が「うたぐみライブスペース スミレ堂」のステージ上で「[Rock and Roll All Nite](https://ja.wikipedia.org/wiki/地獄への接吻 "wikilink")」を[エア・ギター](../Page/エア・ギター.md "wikilink")で披露しているバージョンに変わっている。
 
-当初は毎週一組のアーティストをピックアップするコーナー『HOT EDGE』と、U.K.とジョンさんが毎月それぞれオススメする楽曲を紹介するコーナー『POWER EDGE』、番組独自のチャートカウントダウンが行われていた。その後、新企画やコーナーの入れ替えにより、次第にU.K.やジョンさんがロケに出る機会が増えていった。また、開始当初から2004年頃までは、提供スポンサーの読み上げやリクエスト・メッセージを呼びかける時には、提供スポンサーや番組公式サイトの[URL及び](../Page/Uniform_Resource_Locator.md "wikilink")[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")が記された茶色い透明のアクリル板をジョンさんがカメラの前に出していたこともある。現在では[テロップに切り替えられている](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")。
+当初は毎週一組のアーティストをピックアップするコーナー『HOT EDGE』と、U.K.とジョンさんが毎月それぞれオススメする楽曲を紹介するコーナー『POWER EDGE』、番組独自のチャートカウントダウンが行われていた。その後、新企画やコーナーの入れ替えにより、次第にU.K.やジョンさんがロケに出る機会が増えていった。また、開始当初から2004年頃までは、提供スポンサーの読み上げやリクエスト・メッセージを呼びかける時には、提供スポンサーや番組公式サイトの[URL及び](../Page/Uniform_Resource_Locator.md "wikilink")[メールアドレス](../Page/メールアドレス.md "wikilink")が記された茶色い透明のアクリル板をジョンさんがカメラの前に出していたこともある。現在では[テロップに切り替えられている](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")。
 
 番組開始より、U.K.とジョンさんが二人で番組を担当してきたが、番組が9年目に突入したのを機にリニューアルされ、2009年4月20日放送からはU.K.が一人で担当している。
 
-2015年3月2日放送分のエンディングにおいて、同月30日放送分で番組を終了することが発表された。同月9日から最終回までは、4週連続でスペシャル企画を放送。最終回は久々に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")であった。
+2015年3月2日放送分のエンディングにおいて、同月30日放送分で番組を終了することが発表された。同月9日から最終回までは、4週連続でスペシャル企画を放送。最終回は久々に[生放送](../Page/生放送.md "wikilink")であった。
 
 ## 出演者
 
@@ -34,7 +34,7 @@
 
   -
     「謎のアシスタント」として出演。スタート当初は「謎の地下基地の住人」という設定があった。当時の服装もいたってラフで、画面上ではカメラに背中を向けた状態で椅子に座っていた（カメラの方を向いていたU.K.とは逆向き）。
-    2001年の秋頃から、サングラスを掛けて犬の着ぐるみを着用して画面に登場する様になり、後にそれが彼のトレードマークになった。着ぐるみは初代オープニングに登場した[ミニチュアダックスフントを模した茶色の犬バージョンが基本形だが](../Page/ダックスフント.md "wikilink")、より動きやすいよう作られた[ダルメシアン](../Page/ダルメシアン.md "wikilink")バージョンの着ぐるみをEDGE LIVEなどで着用したこともある。また、[石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")がデザインを手がけた着ぐるみを着たこともあるが、マスクをかぶった状態での呼吸がしにくいなどの理由から、実際に着用されたのは[オーサカキング](https://ja.wikipedia.org/wiki/オーサカキング "wikilink")のイベントライブなど数回しかない。2007年には、若干薄手になった生地で作られた夏バージョンの着ぐるみも登場した\[2\]。
+    2001年の秋頃から、サングラスを掛けて犬の着ぐるみを着用して画面に登場する様になり、後にそれが彼のトレードマークになった。着ぐるみは初代オープニングに登場した[ミニチュアダックスフントを模した茶色の犬バージョンが基本形だが](../Page/ダックスフント.md "wikilink")、より動きやすいよう作られた[ダルメシアン](../Page/ダルメシアン.md "wikilink")バージョンの着ぐるみをEDGE LIVEなどで着用したこともある。また、[石井竜也](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")がデザインを手がけた着ぐるみを着たこともあるが、マスクをかぶった状態での呼吸がしにくいなどの理由から、実際に着用されたのは[オーサカキング](../Page/オーサカキング.md "wikilink")のイベントライブなど数回しかない。2007年には、若干薄手になった生地で作られた夏バージョンの着ぐるみも登場した\[2\]。
     番組の構成としても関わった。2009年4月で一旦降板したが、2010年6月22日に行われた「EDGE LIVE 10th Anniversary」で、久々にファンの前に姿を現した。番組の企画で「ジョンスガイウォーカーズ」として[あべのHoop](https://ja.wikipedia.org/wiki/あべのHoop "wikilink")で共にゲリラライブを行ったスガシカオからの要望に応える形で出演を受諾。
     2010年9月20日より『Next Style』に番組スタッフとともに後ろ姿のみ出演していたが、編集室にアーティストがゲスト出演するようになってからは顔出ししている。また『Osaka Style』や「EDGE LIVE 2011」にも出演した。
 
@@ -139,7 +139,7 @@
 <!-- end list -->
 
   -
-    MBS局内地下1階にある廊下で、アーティストがロビーから46m先にある20本のピンに向かってボールを投げ、10本以上倒せたら、15秒の告知タイムが与えられるが、失敗した場合は視聴者にアーティストグッズをプレゼント\[7\]。これまでに告知タイムを獲得したのは、染谷西郷（[FUNKIST](https://ja.wikipedia.org/wiki/FUNKIST "wikilink")）、[大石昌良](../Page/大石昌良.md "wikilink")（[Sound Schedule](https://ja.wikipedia.org/wiki/Sound_Schedule "wikilink")）、[川畑要](https://ja.wikipedia.org/wiki/川畑要 "wikilink")、坂井裕美（2012年アサヒビールイメージガール）\[8\]の4組で、ストライクを出したのは染谷のみ（坂井は18本、大石・川畑は16本）。
+    MBS局内地下1階にある廊下で、アーティストがロビーから46m先にある20本のピンに向かってボールを投げ、10本以上倒せたら、15秒の告知タイムが与えられるが、失敗した場合は視聴者にアーティストグッズをプレゼント\[7\]。これまでに告知タイムを獲得したのは、染谷西郷（[FUNKIST](https://ja.wikipedia.org/wiki/FUNKIST "wikilink")）、[大石昌良](../Page/大石昌良.md "wikilink")（[Sound Schedule](../Page/Sound_Schedule.md "wikilink")）、[川畑要](../Page/川畑要.md "wikilink")、坂井裕美（2012年アサヒビールイメージガール）\[8\]の4組で、ストライクを出したのは染谷のみ（坂井は18本、大石・川畑は16本）。
 
 ### 過去の主な企画
 
@@ -204,7 +204,7 @@
   -
     U.K.が街角に出て音楽を聴いている人がどんな曲を聴いているのかを調査する。コーナー開始当初はU.K.が背中に背負っていたスピーカーから音楽を鳴らしていたが、その後 調査された人のイヤホンで直接聞くことが多くなった。
     2007年頃からは、通行人に思い出の曲などを尋ねる『LOVEリサーチ』など、U.K.リサーチを基にした企画が多い。
-    番組のロケは、おもに京阪神を中心とした若者が多く集まる地域で行われる傾向がある（[梅田](../Page/梅田.md "wikilink")周辺、[なんばパークス](../Page/なんばパークス.md "wikilink")、[堀江](https://ja.wikipedia.org/wiki/堀江_\(大阪市\) "wikilink")、[三宮](../Page/三宮.md "wikilink")、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")など）。
+    番組のロケは、おもに京阪神を中心とした若者が多く集まる地域で行われる傾向がある（[梅田](../Page/梅田.md "wikilink")周辺、[なんばパークス](../Page/なんばパークス.md "wikilink")、[堀江](../Page/堀江_\(大阪市\).md "wikilink")、[三宮](../Page/三宮.md "wikilink")、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")など）。
 
 <!-- end list -->
 
@@ -321,7 +321,7 @@
 <!-- end list -->
 
   -
-    イギリス留学の経験があるU.K.が得意の英語を生かして、来日アーティストとコミュニケーションをとり、親睦をはかる企画。[ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ボン・ジョヴィ "wikilink")へのインタビュー（2009年11月9日放送）で[ジョン・ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ジョン・ボン・ジョヴィ "wikilink")に歌ってもらうようお願いするが拒否され、一旦コーナー終了。その後[ビーディ・アイ](https://ja.wikipedia.org/wiki/ビーディ・アイ "wikilink")へのインタビュー（2011年10月17日放送）で[リアム・ギャラガー](https://ja.wikipedia.org/wiki/リアム・ギャラガー "wikilink")に歌ってもらうようお願いするも失敗し、再度コーナー終了となった。
+    イギリス留学の経験があるU.K.が得意の英語を生かして、来日アーティストとコミュニケーションをとり、親睦をはかる企画。[ボン・ジョヴィ](../Page/ボン・ジョヴィ.md "wikilink")へのインタビュー（2009年11月9日放送）で[ジョン・ボン・ジョヴィ](https://ja.wikipedia.org/wiki/ジョン・ボン・ジョヴィ "wikilink")に歌ってもらうようお願いするが拒否され、一旦コーナー終了。その後[ビーディ・アイ](https://ja.wikipedia.org/wiki/ビーディ・アイ "wikilink")へのインタビュー（2011年10月17日放送）で[リアム・ギャラガー](../Page/リアム・ギャラガー.md "wikilink")に歌ってもらうようお願いするも失敗し、再度コーナー終了となった。
 
 <!-- end list -->
 
@@ -352,11 +352,11 @@
 
 ## EDGE LIVE
 
-番組が主催するライブイベント『**EDGE LIVE**』が年に1 - 2回の頻度で行われた。メジャーなミュージシャンだけではなく、オファーの段階では比較的知名度が低いミュージシャンがブッキングされているのが特徴で、出演したアーティストの多くが後にブレイクしたことで注目を集めた（[ケツメイシ](https://ja.wikipedia.org/wiki/ケツメイシ "wikilink")、[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")、[BENNIE Kなど](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")）。また、『10th Anniversary』までのライブチケットの料金が安価だったこと\[9\]も売りの一つ。
+番組が主催するライブイベント『**EDGE LIVE**』が年に1 - 2回の頻度で行われた。メジャーなミュージシャンだけではなく、オファーの段階では比較的知名度が低いミュージシャンがブッキングされているのが特徴で、出演したアーティストの多くが後にブレイクしたことで注目を集めた（[ケツメイシ](../Page/ケツメイシ.md "wikilink")、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")、[BENNIE Kなど](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")）。また、『10th Anniversary』までのライブチケットの料金が安価だったこと\[9\]も売りの一つ。
 
 2005年以降、これとは別にスペシャルバージョンのEDGE LIVEも行われた。こちらはメジャーなミュージシャンの出演が多く、チケット料金もまちまち。2012年からは、番組スタッフが薦める新人アーティストが出演する「EDGE LIVE + Next Style ○○の旬穫祭」と題した招待制のライブイベントも行われている\[10\]。
 
-『+3 style』 - 『6MIX』および『2011』では、U.K.とジョンさんたちが毎回さまざまな挑戦を行なってきた。『+3 style』では[バンド](../Page/バンド_\(音楽\).md "wikilink")（演奏曲・[T.REX](https://ja.wikipedia.org/wiki/T・レックス "wikilink")「[20th Century Boy](https://ja.wikipedia.org/wiki/20センチュリー・ボーイ "wikilink")」）、『4U』では[ギター](../Page/ギター.md "wikilink")（演奏曲・[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「[空も飛べるはず](https://ja.wikipedia.org/wiki/空も飛べるはず "wikilink")」、[押尾コータロー](../Page/押尾コータロー.md "wikilink")が指導）、『Hi-5』では[ピアノ](../Page/ピアノ.md "wikilink")（演奏曲・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")「[Tomorrow never knows](https://ja.wikipedia.org/wiki/Tomorrow_never_knows "wikilink")」）、『6MIX』では[アカペラ](../Page/ア・カペラ.md "wikilink")（歌唱曲・[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」、[Baby Booが指導](https://ja.wikipedia.org/wiki/Baby_Boo "wikilink")）、『2011』ではピアノ伴奏（伴奏曲・[KAN](../Page/KAN.md "wikilink")「[愛は勝つ](https://ja.wikipedia.org/wiki/愛は勝つ "wikilink")」）を課せられ、その成果をライブ当日に披露してきた\[11\]。さらに『10th Anniversary』では、[Skoop On Somebodyが作曲した](../Page/Skoop_On_Somebody.md "wikilink")10周年記念の楽曲に、イベント開催中の2時間でU.K.が作詞した「十年の奇跡」\[12\]をエンディングでSkoop On Somebody、ジョンさんとともに来場者と合唱した。『12』では、[三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")から直々にオファーを受け、「[Two Hearts](https://ja.wikipedia.org/wiki/Two_Hearts_\(三浦大知の曲\) "wikilink")」の歌唱中、U.K.がバックダンサーと一緒にダンスに参加。この他『八番』では、U.K.が他の仕事とダブルブッキングとなってしまったため、仕事先からZepp Osakaまで走って駆けつけ、約50分の遅刻となった。
+『+3 style』 - 『6MIX』および『2011』では、U.K.とジョンさんたちが毎回さまざまな挑戦を行なってきた。『+3 style』では[バンド](../Page/バンド_\(音楽\).md "wikilink")（演奏曲・[T.REX](../Page/T・レックス.md "wikilink")「[20th Century Boy](https://ja.wikipedia.org/wiki/20センチュリー・ボーイ "wikilink")」）、『4U』では[ギター](../Page/ギター.md "wikilink")（演奏曲・[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")「[空も飛べるはず](../Page/空も飛べるはず.md "wikilink")」、[押尾コータロー](../Page/押尾コータロー.md "wikilink")が指導）、『Hi-5』では[ピアノ](../Page/ピアノ.md "wikilink")（演奏曲・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")「[Tomorrow never knows](https://ja.wikipedia.org/wiki/Tomorrow_never_knows "wikilink")」）、『6MIX』では[アカペラ](../Page/ア・カペラ.md "wikilink")（歌唱曲・[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」、[Baby Booが指導](../Page/Baby_Boo.md "wikilink")）、『2011』ではピアノ伴奏（伴奏曲・[KAN](../Page/KAN.md "wikilink")「[愛は勝つ](../Page/愛は勝つ.md "wikilink")」）を課せられ、その成果をライブ当日に披露してきた\[11\]。さらに『10th Anniversary』では、[Skoop On Somebodyが作曲した](../Page/Skoop_On_Somebody.md "wikilink")10周年記念の楽曲に、イベント開催中の2時間でU.K.が作詞した「十年の奇跡」\[12\]をエンディングでSkoop On Somebody、ジョンさんとともに来場者と合唱した。『12』では、[三浦大知](../Page/三浦大知.md "wikilink")から直々にオファーを受け、「[Two Hearts](https://ja.wikipedia.org/wiki/Two_Hearts_\(三浦大知の曲\) "wikilink")」の歌唱中、U.K.がバックダンサーと一緒にダンスに参加。この他『八番』では、U.K.が他の仕事とダブルブッキングとなってしまったため、仕事先からZepp Osakaまで走って駆けつけ、約50分の遅刻となった。
 
 <table>
 <thead>
@@ -372,10 +372,10 @@
 <td><p><strong>EDGE LIVE .1</strong><br />
 （エッジライブ･ドットワン）</p></td>
 <td><p>2001.9.7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Osaka</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GO!GO!7188" title="wikilink">GO!GO!7188</a><br />
+<td><p><a href="../Page/Zepp.md" title="wikilink">Zepp Osaka</a></p></td>
+<td><p><a href="../Page/GO!GO!7188.md" title="wikilink">GO!GO!7188</a><br />
 <a href="https://ja.wikipedia.org/wiki/NEWTON_CIRCUS" title="wikilink">NEWTON CIRCUS</a><br />
-<a href="https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW" title="wikilink">KICK THE CAN CREW</a><br />
+<a href="../Page/KICK_THE_CAN_CREW.md" title="wikilink">KICK THE CAN CREW</a><br />
 <a href="https://ja.wikipedia.org/wiki/クラムボン" title="wikilink">クラムボン</a></p></td>
 </tr>
 <tr class="even">
@@ -385,7 +385,7 @@
 <td><p>Zepp Osaka</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/babamania" title="wikilink">babamania</a><br />
 <a href="https://ja.wikipedia.org/wiki/Tripmeter" title="wikilink">Tripmeter</a><br />
-<a href="https://ja.wikipedia.org/wiki/ケツメイシ" title="wikilink">ケツメイシ</a><br />
+<a href="../Page/ケツメイシ.md" title="wikilink">ケツメイシ</a><br />
 <a href="../Page/Hermann_H.&amp;The_Pacemakers.md" title="wikilink">Hermann H.&amp;The Pacemakers</a></p></td>
 </tr>
 <tr class="odd">
@@ -404,8 +404,8 @@ EDGE BAND</p></td>
 <td><p>2002.12.14</p></td>
 <td><p>Zepp Osaka</p></td>
 <td><p><a href="../Page/!wagero!.md" title="wikilink">倭製ジェロニモ&amp;ラブゲリラエクスペリエンス</a><br />
-<a href="https://ja.wikipedia.org/wiki/Sound_Schedule" title="wikilink">Sound Schedule</a><br />
-<a href="https://ja.wikipedia.org/wiki/TAKUYA" title="wikilink">TAKUYA</a><br />
+<a href="../Page/Sound_Schedule.md" title="wikilink">Sound Schedule</a><br />
+<a href="../Page/TAKUYA.md" title="wikilink">TAKUYA</a><br />
 べそ</p></td>
 </tr>
 <tr class="odd">
@@ -414,7 +414,7 @@ EDGE BAND</p></td>
 <td><p>2003.7.5</p></td>
 <td><p>Zepp Osaka</p></td>
 <td><p><a href="../Page/押尾コータロー.md" title="wikilink">押尾コータロー</a>（オープニングアクト）<br />
-<a href="https://ja.wikipedia.org/wiki/スキマスイッチ" title="wikilink">スキマスイッチ</a><br />
+<a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a><br />
 <a href="https://ja.wikipedia.org/wiki/星村麻衣" title="wikilink">星村麻衣</a><br />
 <a href="../Page/SOUL&#39;d_OUT.md" title="wikilink">SOUL'd OUT</a><br />
 べそピアノ</p></td>
@@ -424,10 +424,10 @@ EDGE BAND</p></td>
 （エッジライブ・シックスミックス）</p></td>
 <td><p>2004.2.21</p></td>
 <td><p>Zepp Osaka</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Baby_Boo" title="wikilink">Baby Boo</a>（オープニングアクト）<br />
+<td><p><a href="../Page/Baby_Boo.md" title="wikilink">Baby Boo</a>（オープニングアクト）<br />
 <a href="../Page/B@by_Soul.md" title="wikilink">B@by Soul</a><br />
 <a href="https://ja.wikipedia.org/wiki/ロットングラフティー" title="wikilink">ロットングラフティー</a><br />
-<a href="https://ja.wikipedia.org/wiki/B-DASH" title="wikilink">B-DASH</a><br />
+<a href="../Page/B-DASH.md" title="wikilink">B-DASH</a><br />
 M.J.べそ</p></td>
 </tr>
 <tr class="odd">
@@ -437,9 +437,9 @@ M.J.べそ</p></td>
 <td><p>2004.12.12</p></td>
 <td><p>Zepp Osaka</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/tobaccojuice" title="wikilink">tobaccojuice</a><br />
-<a href="https://ja.wikipedia.org/wiki/Les.R" title="wikilink">Les.R</a><br />
+<a href="../Page/Les.R.md" title="wikilink">Les.R</a><br />
 <a href="https://ja.wikipedia.org/wiki/BENNIE_K" title="wikilink">BENNIE K</a><br />
-<a href="https://ja.wikipedia.org/wiki/SOFFet" title="wikilink">SOFFet</a></p></td>
+<a href="../Page/SOFFet.md" title="wikilink">SOFFet</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>EDGE LIVE 八番</strong><br />
@@ -484,7 +484,7 @@ Universal Studios Japan<br />
 <td><p>2006.12.16</p></td>
 <td><p><a href="../Page/シアターBRAVA!.md" title="wikilink">シアターBRAVA!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンジェラ・アキ" title="wikilink">アンジェラ・アキ</a><br />
-<a href="https://ja.wikipedia.org/wiki/スガシカオ" title="wikilink">スガシカオ</a><br />
+<a href="../Page/スガシカオ.md" title="wikilink">スガシカオ</a><br />
 <a href="https://ja.wikipedia.org/wiki/矢井田瞳" title="wikilink">矢井田瞳</a></p></td>
 </tr>
 <tr class="odd">
@@ -530,7 +530,7 @@ mihimaru GT</p></td>
 <td><p>2011.12.15</p></td>
 <td><p>なんばHatch</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/HAPPY_BIRTHDAY_(バンド)" title="wikilink">HAPPY BIRTHDAY</a>（オープニングアクト）<br />
-<a href="https://ja.wikipedia.org/wiki/風味堂" title="wikilink">風味堂</a><br />
+<a href="../Page/風味堂.md" title="wikilink">風味堂</a><br />
 <a href="https://ja.wikipedia.org/wiki/FUNKIST" title="wikilink">FUNKIST</a><br />
 <a href="https://ja.wikipedia.org/wiki/BIGMAMA" title="wikilink">BIGMAMA</a><br />
 <a href="../Page/ET-KING.md" title="wikilink">ET-KING</a></p></td>
@@ -543,8 +543,8 @@ mihimaru GT</p></td>
 <td><p><a href="../Page/SONOMI_(歌手).md" title="wikilink">SONOMI</a>（オープニングアクト）<br />
 <a href="https://ja.wikipedia.org/wiki/SPYAIR" title="wikilink">SPYAIR</a><br />
 <a href="../Page/DEEP_(歌手グループ).md" title="wikilink">DEEP</a><br />
-<a href="https://ja.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a><br />
-<a href="https://ja.wikipedia.org/wiki/KREVA" title="wikilink">KREVA</a><br />
+<a href="../Page/三浦大知.md" title="wikilink">三浦大知</a><br />
+<a href="../Page/KREVA.md" title="wikilink">KREVA</a><br />
 <a href="http://rg-site.com/">リアルグルーヴ</a>[14]</p></td>
 </tr>
 <tr class="odd">
@@ -612,8 +612,8 @@ mihimaru GT</p></td>
   - ディレクター - 稲子太輔、嘉納一貴、宮田大、中口慶三
   - 演出 - 日下真行（MBS）、岩川弘男
   - プロデューサー - 長冨剛（MBS）
-  - 協力 - [関西東通](https://ja.wikipedia.org/wiki/関西東通 "wikilink")、サウンドエースプロダクション、[アーチェリープロダクション](https://ja.wikipedia.org/wiki/アーチェリープロダクション "wikilink")、[イングス](https://ja.wikipedia.org/wiki/イングス_\(映像制作会社\) "wikilink")、IWAサウンド、[つむら工芸](https://ja.wikipedia.org/wiki/つむら工芸 "wikilink")、[高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")
-  - 制作協力 - [MBS企画](https://ja.wikipedia.org/wiki/MBS企画 "wikilink")、ユーロック、[D=クラッチ.](../Page/クラッチ..md "wikilink")、[ブリッジ](https://ja.wikipedia.org/wiki/ブリッジ_\(テレビ制作会社\) "wikilink")
+  - 協力 - [関西東通](https://ja.wikipedia.org/wiki/関西東通 "wikilink")、サウンドエースプロダクション、[アーチェリープロダクション](../Page/アーチェリープロダクション.md "wikilink")、[イングス](../Page/イングス_\(映像制作会社\).md "wikilink")、IWAサウンド、[つむら工芸](../Page/つむら工芸.md "wikilink")、[高津商会](https://ja.wikipedia.org/wiki/高津商会 "wikilink")
+  - 制作協力 - [MBS企画](../Page/MBS企画.md "wikilink")、ユーロック、[D=クラッチ.](../Page/クラッチ..md "wikilink")、[ブリッジ](https://ja.wikipedia.org/wiki/ブリッジ_\(テレビ制作会社\) "wikilink")
   - 製作著作 - 毎日放送
 
 ### 過去のスタッフ
@@ -627,7 +627,7 @@ mihimaru GT</p></td>
 ## 関連項目
 
   - [おいしいうた](https://ja.wikipedia.org/wiki/おいしいうた "wikilink")
-  - [MBS SONG TOWN](https://ja.wikipedia.org/wiki/MBS_SONG_TOWN "wikilink") - MBSテレビが2015年4月から毎週[金曜日](../Page/金曜日.md "wikilink")の未明（[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")深夜）に放送中の音楽番組で、U.K.がコーナーレギュラー、バーバラよねが構成作家として参加。当番組で放送されたロケ企画の一部も引き継いでいる。
+  - [MBS SONG TOWN](https://ja.wikipedia.org/wiki/MBS_SONG_TOWN "wikilink") - MBSテレビが2015年4月から毎週[金曜日](../Page/金曜日.md "wikilink")の未明（[木曜日](../Page/木曜日.md "wikilink")深夜）に放送中の音楽番組で、U.K.がコーナーレギュラー、バーバラよねが構成作家として参加。当番組で放送されたロケ企画の一部も引き継いでいる。
 
 ## 外部リンク
 
@@ -647,5 +647,5 @@ mihimaru GT</p></td>
 10. 「2 初夏の旬穫祭」「3 冬の旬穫祭」は別途ドリンク代が必要。
 11. なお、『Hi-5』のピアノ演奏は当日成功しなかったため、2003年9月6日に[大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")で改めてリベンジ演奏会が行われ、シークレットゲストとして[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")が応援に駆けつけた。
 12. U.K.の書いた歌詞があまりにも後ろ向きすぎる内容だったため、Skoop On Somebodyが一部手直ししている。
-13. [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")の開園5周年と、番組の放送5周年を祝う形で[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")が実現したものである。
+13. [ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")の開園5周年と、番組の放送5周年を祝う形で[コラボレーション](../Page/コラボレーション.md "wikilink")が実現したものである。
 14. 番組で開催された「桜うたグランプリ2012」でグランプリを受賞。その副賞として、3ヵ月間番組へのレギュラー出演が決まるが、バンドの解散を賭け、6月末まで（その後EDGE LIVE 12への出演権がかかっているため、期限が9日間早まった）にグランプリ受賞曲「桜ノ宮駅」のCD1000枚（番組で制作）を近畿2府4県をまわって完売させるライブツアー（全9ヵ所で開催）を行うノルマが課せられ、完売させたご褒美として出演が決まった。

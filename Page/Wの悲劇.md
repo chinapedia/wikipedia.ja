@@ -14,14 +14,14 @@
 ## 書誌情報
 
   - Wの悲劇（1982年2月、[光文社](../Page/光文社.md "wikilink")[カッパ・ノベルス](https://ja.wikipedia.org/wiki/カッパ・ノベルス "wikilink")、ISBN 978-4-334-02457-4）
-  - Wの悲劇（1984年5月29日、[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")、ISBN 978-4-04-144509-9）
+  - Wの悲劇（1984年5月29日、[角川文庫](../Page/角川文庫.md "wikilink")、ISBN 978-4-04-144509-9）
       - Wの悲劇（改版）（2012年4月25日、角川文庫、ISBN 978-4-04-100321-3）
-  - Wの悲劇（1985年7月、[光文社文庫](https://ja.wikipedia.org/wiki/光文社文庫 "wikilink")、ISBN 978-4-334-70180-2）
+  - Wの悲劇（1985年7月、[光文社文庫](../Page/光文社文庫.md "wikilink")、ISBN 978-4-334-70180-2）
       - Wの悲劇（新装版）（2007年4月、光文社文庫、ISBN 978-4-334-74234-8）
 
 ## 映画
 
-[角川春樹事務所](https://ja.wikipedia.org/wiki/角川春樹事務所 "wikilink")の製作で映画化され、[1984年](../Page/1984年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に公開された。監督は[澤井信一郎](../Page/澤井信一郎.md "wikilink")。主演は[薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")。本作のストーリーを[劇中劇](../Page/劇中劇.md "wikilink")として翻案されている。
+[角川春樹事務所](../Page/角川春樹事務所.md "wikilink")の製作で映画化され、[1984年](../Page/1984年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に公開された。監督は[澤井信一郎](../Page/澤井信一郎.md "wikilink")。主演は[薬師丸ひろ子](../Page/薬師丸ひろ子.md "wikilink")。本作のストーリーを[劇中劇](../Page/劇中劇.md "wikilink")として翻案されている。
 
 ## テレビドラマ（1983年版）
 
@@ -50,12 +50,12 @@
 
 ## テレビドラマ（1986年版）
 
-『**Wの悲劇 京都資産家殺人事件**』と題して、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列の](../Page/フジネットワーク.md "wikilink")[2時間ドラマ](https://ja.wikipedia.org/wiki/2時間ドラマ "wikilink")「[金曜女のドラマスペシャル](https://ja.wikipedia.org/wiki/金曜女のドラマスペシャル "wikilink")」（毎週金曜日21:02 - 22:52）で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")に放送された\[3\]。
+『**Wの悲劇 京都資産家殺人事件**』と題して、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列の](../Page/フジネットワーク.md "wikilink")[2時間ドラマ](../Page/2時間ドラマ.md "wikilink")「[金曜女のドラマスペシャル](../Page/金曜女のドラマスペシャル.md "wikilink")」（毎週金曜日21:02 - 22:52）で[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月20日](../Page/6月20日.md "wikilink")に放送された\[3\]。
 
 ### キャスト（1986年版）
 
   - 和辻みね - [高峰三枝子](https://ja.wikipedia.org/wiki/高峰三枝子 "wikilink")
-  - 和辻淑枝 - [松尾嘉代](https://ja.wikipedia.org/wiki/松尾嘉代 "wikilink")
+  - 和辻淑枝 - [松尾嘉代](../Page/松尾嘉代.md "wikilink")
   - 和辻摩子 - [川上麻衣子](../Page/川上麻衣子.md "wikilink")
   - 和辻道彦 - [江原真二郎](../Page/江原真二郎.md "wikilink")
   - 和辻繁 - [滝田裕介](../Page/滝田裕介.md "wikilink")
@@ -70,12 +70,12 @@
   - [石井洋充](https://ja.wikipedia.org/wiki/石井洋充 "wikilink")
   - [武田雅子](../Page/武田雅子.md "wikilink")
   - [荒木雅子](https://ja.wikipedia.org/wiki/荒木雅子 "wikilink")
-  - 警察署長 - [丹波哲郎](https://ja.wikipedia.org/wiki/丹波哲郎 "wikilink")（[特別出演](https://ja.wikipedia.org/wiki/特別出演 "wikilink")）
+  - 警察署長 - [丹波哲郎](../Page/丹波哲郎.md "wikilink")（[特別出演](https://ja.wikipedia.org/wiki/特別出演 "wikilink")）
   - 中里右京 - [山城新伍](https://ja.wikipedia.org/wiki/山城新伍 "wikilink")
 
 ### スタッフ（1986年版）
 
-  - ナレーター - [芥川隆行](https://ja.wikipedia.org/wiki/芥川隆行 "wikilink")
+  - ナレーター - [芥川隆行](../Page/芥川隆行.md "wikilink")
   - 原作 - [夏樹静子](../Page/夏樹静子.md "wikilink")『Wの悲劇』（[光文社](../Page/光文社.md "wikilink")・[カッパノベルズ](https://ja.wikipedia.org/wiki/カッパノベルズ "wikilink")刊）
   - 脚本 - [高久進](../Page/高久進.md "wikilink")
   - 監督 - [瀬川昌治](../Page/瀬川昌治.md "wikilink")
@@ -88,12 +88,12 @@
 
 ## テレビドラマ（2001年版）
 
-『**夏樹静子サスペンス Wの悲劇**』と題し、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列](../Page/TXNネットワーク.md "wikilink")・[BSジャパン共同制作の](../Page/BSテレビ東京.md "wikilink")[2時間ドラマ](https://ja.wikipedia.org/wiki/2時間ドラマ "wikilink")「[女と愛とミステリー](https://ja.wikipedia.org/wiki/女と愛とミステリー "wikilink")」（毎週日曜日21:00 - 22:54）として、BSジャパンにて[2001年](../Page/2001年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に、テレビ東京系列にて同年[5月23日](../Page/5月23日.md "wikilink")に放送された\[4\]。
+『**夏樹静子サスペンス Wの悲劇**』と題し、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列](../Page/TXNネットワーク.md "wikilink")・[BSジャパン共同制作の](../Page/BSテレビ東京.md "wikilink")[2時間ドラマ](../Page/2時間ドラマ.md "wikilink")「[女と愛とミステリー](../Page/女と愛とミステリー.md "wikilink")」（毎週日曜日21:00 - 22:54）として、BSジャパンにて[2001年](../Page/2001年.md "wikilink")[5月20日](../Page/5月20日.md "wikilink")に、テレビ東京系列にて同年[5月23日](../Page/5月23日.md "wikilink")に放送された\[4\]。
 
 ### キャスト（2001年版）
 
-  - 和辻淑枝 - [名取裕子](https://ja.wikipedia.org/wiki/名取裕子 "wikilink")
-  - 和辻道彦 - [萩原流行](https://ja.wikipedia.org/wiki/萩原流行 "wikilink")
+  - 和辻淑枝 - [名取裕子](../Page/名取裕子.md "wikilink")
+  - 和辻道彦 - [萩原流行](../Page/萩原流行.md "wikilink")
   - 和辻摩子 - [大河内奈々子](../Page/大河内奈々子.md "wikilink")（少女期：[横山香夢](https://ja.wikipedia.org/wiki/横山香夢 "wikilink")）
   - 和辻卓夫 - [羽場裕一](../Page/羽場裕一.md "wikilink")
   - 一条春生 - [奥貫薫](https://ja.wikipedia.org/wiki/奥貫薫 "wikilink")
@@ -101,22 +101,22 @@
   - 間崎鐘平 - [加勢大周](../Page/加勢大周.md "wikilink")
   - 和辻与兵衛 - [早坂茂三](../Page/早坂茂三.md "wikilink")
   - 和辻みね - [草村礼子](../Page/草村礼子.md "wikilink")
-  - 中里右京 - [夏八木勲](https://ja.wikipedia.org/wiki/夏八木勲 "wikilink")
+  - 中里右京 - [夏八木勲](../Page/夏八木勲.md "wikilink")
   - 堤検事 - [大杉漣](../Page/大杉漣.md "wikilink")
-  - 相浦署長 - [田山涼成](https://ja.wikipedia.org/wiki/田山涼成 "wikilink")
+  - 相浦署長 - [田山涼成](../Page/田山涼成.md "wikilink")
   - 鶴見刑事 - [森一](../Page/森一_\(東京都出身\).md "wikilink")
   - 家政婦 - [川俣しのぶ](../Page/川俣しのぶ.md "wikilink")
-  - 鑑識係 - [吉満涼太](https://ja.wikipedia.org/wiki/吉満寛人 "wikilink")、[那波隆史](https://ja.wikipedia.org/wiki/那波隆史 "wikilink")
+  - 鑑識係 - [吉満涼太](../Page/吉満寛人.md "wikilink")、[那波隆史](https://ja.wikipedia.org/wiki/那波隆史 "wikilink")
   - 執事 - [本多晋](../Page/本多晋.md "wikilink")
   - 婦警 - 吉田悦子
   - 卓夫の愛人 - [森田亜紀](https://ja.wikipedia.org/wiki/森田亜紀 "wikilink")
 
 ### スタッフ（2001年版）
 
-  - 原作 - 夏樹静子『Wの悲劇』（[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")・刊）
+  - 原作 - 夏樹静子『Wの悲劇』（[角川文庫](../Page/角川文庫.md "wikilink")・刊）
   - 脚本 - [吉本昌弘](../Page/吉本昌弘.md "wikilink")
   - 監督 - [赤羽博](https://ja.wikipedia.org/wiki/赤羽博 "wikilink")
-  - 音響効果 - [石井和之](https://ja.wikipedia.org/wiki/石井和之 "wikilink")
+  - 音響効果 - [石井和之](../Page/石井和之.md "wikilink")
   - 技術協力 - [東通](https://ja.wikipedia.org/wiki/東通 "wikilink")
   - 美術協力 - [フジアール](../Page/フジアール.md "wikilink")
   - スタント - FCプラン
@@ -136,16 +136,16 @@
 
   - 一条春生 - [菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")
   - 間崎鐘平 - [香川照之](../Page/香川照之.md "wikilink")
-  - 和辻卓夫 - [成宮寛貴](https://ja.wikipedia.org/wiki/成宮寛貴 "wikilink")
+  - 和辻卓夫 - [成宮寛貴](../Page/成宮寛貴.md "wikilink")
   - 平野健治 - [宮藤官九郎](../Page/宮藤官九郎.md "wikilink")
-  - 春生の上司 - [温水洋一](https://ja.wikipedia.org/wiki/温水洋一 "wikilink")
+  - 春生の上司 - [温水洋一](../Page/温水洋一.md "wikilink")
   - 和辻摩子 - [谷村美月](https://ja.wikipedia.org/wiki/谷村美月 "wikilink")
   - 和辻道彦 - [中村橋之助](https://ja.wikipedia.org/wiki/中村橋之助_\(3代目\) "wikilink")
   - 相浦克平 - [武田鉄矢](../Page/武田鉄矢.md "wikilink")（[特別出演](https://ja.wikipedia.org/wiki/特別出演 "wikilink")）
   - 和辻みね - [池内淳子](../Page/池内淳子.md "wikilink")　※遺作
   - 和辻与兵衛 - [津川雅彦](../Page/津川雅彦.md "wikilink")
-  - 和辻繁 - [江守徹](https://ja.wikipedia.org/wiki/江守徹 "wikilink")
-  - 中里右京 - [小日向文世](https://ja.wikipedia.org/wiki/小日向文世 "wikilink")
+  - 和辻繁 - [江守徹](../Page/江守徹.md "wikilink")
+  - 中里右京 - [小日向文世](../Page/小日向文世.md "wikilink")
   - 和辻淑枝 - [真矢みき](https://ja.wikipedia.org/wiki/真矢ミキ "wikilink")
 
 ### スタッフ（2010年版）
@@ -155,7 +155,7 @@
   - 脚本 - 岡田惠和
   - プロデューサー - [黒沢淳](https://ja.wikipedia.org/wiki/黒沢淳 "wikilink")
   - 演出 - [佐々木章光](https://ja.wikipedia.org/wiki/佐々木章光 "wikilink")
-  - 製作 - [テレパック](https://ja.wikipedia.org/wiki/テレパック "wikilink")、TBS
+  - 製作 - [テレパック](../Page/テレパック.md "wikilink")、TBS
 
 ### 補足
 
@@ -164,7 +164,7 @@
 
 ## テレビドラマ（2012年版）
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")「[木曜ドラマ](https://ja.wikipedia.org/wiki/木曜ドラマ_\(テレビ朝日\) "wikilink")」枠で、[2012年](../Page/2012年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")より[6月14日](../Page/6月14日.md "wikilink")まで毎週木曜日21:00 - 21:54\[5\] に放送された。全8回。主演は[武井咲](https://ja.wikipedia.org/wiki/武井咲 "wikilink")。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列の](../Page/オールニッポン・ニュースネットワーク.md "wikilink")「[木曜ドラマ](../Page/木曜ドラマ_\(テレビ朝日\).md "wikilink")」枠で、[2012年](../Page/2012年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")より[6月14日](../Page/6月14日.md "wikilink")まで毎週木曜日21:00 - 21:54\[5\] に放送された。全8回。主演は[武井咲](https://ja.wikipedia.org/wiki/武井咲 "wikilink")。
 
 武井は本作がゴールデンタイムの連続ドラマ初主演。
 
@@ -197,22 +197,22 @@
     演 - [中村俊介](https://ja.wikipedia.org/wiki/中村俊介 "wikilink")
     婿養子。淑枝の三番目の夫。摩子の義理の父親。大学の准教授で、遺伝子を研究している。
   - 和辻 卓夫〈28〉
-    演 - [武田航平](https://ja.wikipedia.org/wiki/武田航平 "wikilink")
+    演 - [武田航平](../Page/武田航平.md "wikilink")
     繁の息子。和辻製薬会社秘書課勤務。
   - 和辻 繁〈57〉
-    演 - [金田明夫](https://ja.wikipedia.org/wiki/金田明夫 "wikilink")
+    演 - [金田明夫](../Page/金田明夫.md "wikilink")
     与兵衛の弟。和辻製薬取締役。息子の希望する部署へ異動させるため与兵衛に直談判するが軽くあしらわれる。
   - 間崎 鐘平〈35〉
-    演 - [高橋一生](https://ja.wikipedia.org/wiki/高橋一生 "wikilink")
+    演 - [高橋一生](../Page/高橋一生.md "wikilink")
     与兵衛の主治医。処方した薬を服用しないと長生きは出来ないと摩子に説明する。
   - 木村 志乃〈32〉
-    演 - [広岡由里子](https://ja.wikipedia.org/wiki/広岡由里子 "wikilink")
+    演 - [広岡由里子](../Page/広岡由里子.md "wikilink")
     家政婦。必要なこと以外は喋らない。
   - 和辻 みね〈62〉
     演 - [野際陽子](../Page/野際陽子.md "wikilink")
     与兵衛の妻。和辻家の女性は代々当主の発言には逆らわず、従い尽くす立場にある。
   - 和辻 与兵衛〈65〉
-    演 - [寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")
+    演 - [寺田農](../Page/寺田農.md "wikilink")
     和辻家当主。和辻製薬会社会長。2000億円の資産を有する。弟の孫娘である摩子を異常な程、寵愛している。心臓病を患い余命幾ばくもない状態である。
 
 #### Show Pub マスカレード
@@ -221,7 +221,7 @@
     演 - [松下由樹](https://ja.wikipedia.org/wiki/松下由樹 "wikilink")
     オーナー。親のいないさつきを心配し気に掛けている。摩子、さつきの人生にリンクするような小説を書いている。
   - 立花 綺羅々〈20〉
-    演 - [福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")
+    演 - [福田沙紀](../Page/福田沙紀.md "wikilink")
     ダンサー。仲間思いで優しい性格を演じているが、沙耶香に嫉妬し誰よりも輝ける場所に立ちたいと野心に満ち溢れている。
   - 御堂 沙耶香〈20〉
     演 - [剛力彩芽](https://ja.wikipedia.org/wiki/剛力彩芽 "wikilink")（友情出演）
@@ -264,9 +264,9 @@
   - 音楽 - [末廣健一郎](https://ja.wikipedia.org/wiki/末廣健一郎 "wikilink")、[神坂享輔](https://ja.wikipedia.org/wiki/神坂享輔 "wikilink")
   - 演出 - [片山修](https://ja.wikipedia.org/wiki/片山修 "wikilink")（テレビ朝日）、[植田尚](../Page/植田尚.md "wikilink")（MMJ）、常廣丈太（テレビ朝日）
   - 演出補 - 松川嵩史、安食大輔、加藤美咲、藤崎絵三
-  - 主題歌 - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")「[告白](https://ja.wikipedia.org/wiki/告白_\(平井堅の曲\) "wikilink")」（[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")）
+  - 主題歌 - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")「[告白](https://ja.wikipedia.org/wiki/告白_\(平井堅の曲\) "wikilink")」（[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")）
   - 挿入歌 - 平井堅「[Woman"Wの悲劇"より](https://ja.wikipedia.org/wiki/告白_\(平井堅の曲\) "wikilink")」（デフスターレコーズ）
-  - 音楽プロデューサー - [志田博英](https://ja.wikipedia.org/wiki/志田博英 "wikilink")
+  - 音楽プロデューサー - [志田博英](../Page/志田博英.md "wikilink")
   - ダンス振付 - あさづきかなみ
   - スタントコーディネーター - [大道寺俊典](../Page/大道寺俊典.md "wikilink")、田渕景也（スタントチームGocco）
   - 法律監修 - 本山信二郎（広尾マイスター法律事務所）
@@ -280,7 +280,7 @@
   - プロデューサー - 飯田爽（テレビ朝日）、清水真由美（MMJ）
   - プロデューサー補 - 西原宗実、古草昌実（[TMC](../Page/トータルメディアコミュニケーション.md "wikilink")）、椋尾由希子、森村愛
   - 企画協力 - ミストラル、[古賀誠一](https://ja.wikipedia.org/wiki/古賀誠一 "wikilink")
-  - 制作 - テレビ朝日、[MMJ](https://ja.wikipedia.org/wiki/メディアミックス・ジャパン "wikilink")
+  - 制作 - テレビ朝日、[MMJ](../Page/メディアミックス・ジャパン.md "wikilink")
 
 ### 受賞歴
 
@@ -366,7 +366,7 @@
 <td><p>9.4%</p></td>
 </tr>
 <tr class="odd">
-<td><p>平均視聴率 9.1%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="https://ja.wikipedia.org/wiki/ビデオリサーチ" title="wikilink">ビデオリサーチ</a>社調べ）[9]</p></td>
+<td><p>平均視聴率 9.1%（視聴率は<a href="https://ja.wikipedia.org/wiki/関東地方" title="wikilink">関東地区</a>・<a href="../Page/ビデオリサーチ.md" title="wikilink">ビデオリサーチ</a>社調べ）[9]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -382,22 +382,22 @@
 
 [NHK BS4Kにて](https://ja.wikipedia.org/wiki/NHK_BS4K "wikilink")[2020年](../Page/2020年.md "wikilink")[1月8日](../Page/1月8日.md "wikilink")の19時から20時29分に放送。
 
-[NHKにて](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")[2020年](../Page/2020年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の22時から23時30分に放送。
+[NHKにて](../Page/NHK総合テレビジョン.md "wikilink")[2020年](../Page/2020年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の22時から23時30分に放送。
 
 ### キャスト（2019年版）
 
   - 和辻摩子 - [土屋太鳳](../Page/土屋太鳳.md "wikilink")（9歳時：[渡辺真妃](https://ja.wikipedia.org/wiki/渡辺真妃 "wikilink")）
-  - 和辻淑枝 - [中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
+  - 和辻淑枝 - [中山美穂](../Page/中山美穂.md "wikilink")
   - 一条春生 - [美村里江](../Page/美村里江.md "wikilink")
   - 和辻道彦 - [岡本健一](../Page/岡本健一.md "wikilink")\[11\]
   - 和辻卓夫 - [松本岳](https://ja.wikipedia.org/wiki/松本岳 "wikilink")
   - 柏木徹 - [斉藤陽一郎](https://ja.wikipedia.org/wiki/斉藤陽一郎 "wikilink")
   - 並木譲司 - [生島勇輝](https://ja.wikipedia.org/wiki/生島勇輝 "wikilink")
   - 中里右京 - [渡辺いっけい](https://ja.wikipedia.org/wiki/渡辺いっけい "wikilink")
-  - 間崎鐘平 - [吉田栄作](https://ja.wikipedia.org/wiki/吉田栄作 "wikilink")
-  - 和辻繁 - [鶴見辰吾](https://ja.wikipedia.org/wiki/鶴見辰吾 "wikilink")
-  - 和辻与兵衛 - [大和田伸也](https://ja.wikipedia.org/wiki/大和田伸也 "wikilink")
-  - 和辻みね - [夏木マリ](https://ja.wikipedia.org/wiki/夏木マリ "wikilink")
+  - 間崎鐘平 - [吉田栄作](../Page/吉田栄作.md "wikilink")
+  - 和辻繁 - [鶴見辰吾](../Page/鶴見辰吾.md "wikilink")
+  - 和辻与兵衛 - [大和田伸也](../Page/大和田伸也.md "wikilink")
+  - 和辻みね - [夏木マリ](../Page/夏木マリ.md "wikilink")
 
 ### スタッフ（2019年版）
 
@@ -427,7 +427,7 @@
 
   - テレビドラマ（1986年版）
 
-:\* [ミステリー・Wの悲劇（松本伊代出演）](https://www.tbs.co.jp/tbs-ch/item/d2501/) - [TBSチャンネル](https://ja.wikipedia.org/wiki/TBSチャンネル "wikilink")
+:\* [ミステリー・Wの悲劇（松本伊代出演）](https://www.tbs.co.jp/tbs-ch/item/d2501/) - [TBSチャンネル](../Page/TBSチャンネル.md "wikilink")
 
   - テレビドラマ（2001年版）
 

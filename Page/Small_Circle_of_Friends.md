@@ -5,12 +5,12 @@
 
 ## 概要
 
-  - [1991年](../Page/1991年.md "wikilink")頃、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")で武藤と東を中心にパーティ"Freedom Express"を開始。
+  - [1991年](../Page/1991年.md "wikilink")頃、[福岡県](../Page/福岡県.md "wikilink")で武藤と東を中心にパーティ"Freedom Express"を開始。
   - [1992年](../Page/1992年.md "wikilink")、本格的な音楽制作を開始に伴い"Small Circle Of Friends"を結成。
-  - [1994年](../Page/1994年.md "wikilink")、[マーキュリー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、[United Future Organizationがプロデュースする](https://ja.wikipedia.org/wiki/ユナイテッド・フューチャー・オーガニゼイション "wikilink")[レーベル](../Page/レコードレーベル.md "wikilink")"Brownswood"からデビュー。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にKITTY/ENTERPRISES（現[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）に移籍したのを機に、福岡から東京へと拠点を移す。
+  - [1994年](../Page/1994年.md "wikilink")、[マーキュリー・ミュージックエンタテインメント](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[United Future Organizationがプロデュースする](https://ja.wikipedia.org/wiki/ユナイテッド・フューチャー・オーガニゼイション "wikilink")[レーベル](../Page/レコードレーベル.md "wikilink")"Brownswood"からデビュー。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にKITTY/ENTERPRISES（現[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）に移籍したのを機に、福岡から東京へと拠点を移す。
   - [2001年](../Page/2001年.md "wikilink")、自身のレーベル"basque"を設立。この頃から**STUDIO 75**という別名義でも活動を開始。
-  - STUDIO 75名義による『HAND』は、[ジャイルス・ピーターソン](https://ja.wikipedia.org/wiki/ジャイルス・ピーターソン "wikilink")により[BBC](../Page/英国放送協会.md "wikilink")"WORLD WIDE"でオンエアされたり、雑誌"Straight No Chaser"でチャートに取り上げられるなど、海外でも話題になった。
+  - STUDIO 75名義による『HAND』は、[ジャイルス・ピーターソン](../Page/ジャイルス・ピーターソン.md "wikilink")により[BBC](../Page/英国放送協会.md "wikilink")"WORLD WIDE"でオンエアされたり、雑誌"Straight No Chaser"でチャートに取り上げられるなど、海外でも話題になった。
   - ユニット名の由来は、"[Roger Nichols](https://ja.wikipedia.org/wiki/ロジャー・ニコルズ "wikilink") & The Small Circle Of Friends"から。
   - 代表曲「波よせて」は[クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")にカバーされた。
   - 2014年より、鹿島達也、菅沼雄太を迎えSCOF4でバンドセットのライブも展開。
@@ -20,7 +20,7 @@
 
 ## メンバー
 
-  - **ムトウ サツキ**（武藤 サツキ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - **ムトウ サツキ**（武藤 サツキ） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")
 
 <!-- end list -->
 
@@ -33,27 +33,27 @@
 
 <!-- end list -->
 
-  - **アズマ リキ**（東 里起） - [ラップ](../Page/ラップ.md "wikilink")、ボーカル、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - **アズマ リキ**（東 里起） - [ラップ](../Page/ラップ.md "wikilink")、ボーカル、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")
 
 <!-- end list -->
 
   -
-    [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [福岡県](../Page/福岡県.md "wikilink")出身。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
     渋谷 organ barにて開催されているイベント"**MARCHE**"のレジデント[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー#ディスクジョッキー（音楽家） "wikilink")。
     DJの他BLUE CAFE名義でアナログおよびコンパイルCD、オムニバスMIX CD『BLUE CAFE SHOW CASE N°1』をリリースしている。
     MCとしての参加、楽曲提供やリミックス、プロデュース等も多数行っている。
-    [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")「Nice Middle」[Rie fu](https://ja.wikipedia.org/wiki/Rie_fu "wikilink")「Romantic」他にも参加。 2007年、[オルター・エゴ](../Page/オルター・エゴ.md "wikilink")「タケイフミラ」名義でソロリリース。
+    [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")「Nice Middle」[Rie fu](../Page/Rie_fu.md "wikilink")「Romantic」他にも参加。 2007年、[オルター・エゴ](../Page/オルター・エゴ.md "wikilink")「タケイフミラ」名義でソロリリース。
     2010年、[韻シスト](../Page/韻シスト.md "wikilink")のバシとのユニット**「Design」**を結成。
     渋谷 Bar Musicで二ヶ月に一度「暮しの手帖」というタイトルでDJ。 ビートメイカーとしても国内外で多数提供。
 
 ### サポートメンバー
 
-  - **鹿島達也** - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") SCOF4のメンバー。
+  - **鹿島達也** - [ベース](../Page/ベース_\(弦楽器\).md "wikilink") SCOF4のメンバー。
 
 <!-- end list -->
 
   -
-    [ORIGINAL LOVE](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")、[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")、Small Circle of Friends、[HICKSVILLE](../Page/ヒックスヴィル.md "wikilink")、[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")、[EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink")、[ハナレグミ](../Page/ハナレグミ.md "wikilink")、[高橋徹也](../Page/高橋徹也.md "wikilink")、[堂島孝平](https://ja.wikipedia.org/wiki/堂島孝平 "wikilink")、[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")、[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")、[Rie fu](https://ja.wikipedia.org/wiki/Rie_fu "wikilink")、[種ともこ](../Page/種ともこ.md "wikilink")、[遊佐未森](../Page/遊佐未森.md "wikilink")、[土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")のサポート。
+    [ORIGINAL LOVE](https://ja.wikipedia.org/wiki/ORIGINAL_LOVE "wikilink")、[the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink")、Small Circle of Friends、[HICKSVILLE](../Page/ヒックスヴィル.md "wikilink")、[Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")、[EGO-WRAPPIN'](../Page/EGO-WRAPPIN'.md "wikilink")、[ハナレグミ](../Page/ハナレグミ.md "wikilink")、[高橋徹也](../Page/高橋徹也.md "wikilink")、[堂島孝平](../Page/堂島孝平.md "wikilink")、[秦基博](https://ja.wikipedia.org/wiki/秦基博 "wikilink")、[CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")、[Rie fu](../Page/Rie_fu.md "wikilink")、[種ともこ](../Page/種ともこ.md "wikilink")、[遊佐未森](../Page/遊佐未森.md "wikilink")、[土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")のサポート。
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
   -
     neuma、mi-ne、acoustic dub messengersなどの活動を経て、現在は塚本真一トリオ、[ネタンダーズ](https://ja.wikipedia.org/wiki/ネタンダーズ "wikilink")などで活動中。
-    近年の参加には、坂本慎太郎（ex[ゆらゆら帝国](https://ja.wikipedia.org/wiki/ゆらゆら帝国 "wikilink")）、中納良恵（EGO-WRAPPIN'）、pocopen、EGO-WRAPPIN’、ハナレグミ、Small Circle of Friendsのサポートも。
+    近年の参加には、坂本慎太郎（ex[ゆらゆら帝国](../Page/ゆらゆら帝国.md "wikilink")）、中納良恵（EGO-WRAPPIN'）、pocopen、EGO-WRAPPIN’、ハナレグミ、Small Circle of Friendsのサポートも。
 
 <!-- end list -->
 
@@ -79,7 +79,7 @@
 
   - '''冨田 謙 '''（とみた ゆずる） - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - **進藤 浩一**（しんどう こういち） - [ギター](../Page/ギター.md "wikilink")
-  - **藤原 宏二**（ふじわら こうじ） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **藤原 宏二**（ふじわら こうじ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
       - 娘は[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")
   - **[宮川 剛](https://ja.wikipedia.org/wiki/宮川剛 "wikilink")**（みやがわ つよし） - [ドラム](../Page/ドラムセット.md "wikilink")
   - **松井 章**（まつい あきら） - [ターンテーブル](https://ja.wikipedia.org/wiki/DJ "wikilink")
@@ -201,7 +201,7 @@
 
 ### サウンドトラック
 
-1.  [たどんとちくわ](https://ja.wikipedia.org/wiki/たどんとちくわ "wikilink")―[市川準](https://ja.wikipedia.org/wiki/市川準 "wikilink")
+1.  [たどんとちくわ](https://ja.wikipedia.org/wiki/たどんとちくわ "wikilink")―[市川準](../Page/市川準.md "wikilink")
       - 波よせて
 
 ## リミックス
@@ -212,7 +212,7 @@
       - 07 I'll Be There - SCOF remix(Small Circle of Friends)
 3.  [SOUL BOSSA TRIO](https://ja.wikipedia.org/wiki/ゴンザレス鈴木 "wikilink")
       - 04 If I Ever Lose This Heaven - s.c.o.f.Mix(remixed by Small Circle of Friends)
-4.  [GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE "wikilink")
+4.  [GRAPEVINE](../Page/GRAPEVINE.md "wikilink")
       - 07 Otona - SCOF Splash mix (remixed by Small Circle of Friends)
 5.  『Adagio〜Lounge Classics』
       - 06 動物の謝肉祭　白鳥 / Small Circle of Friends
@@ -229,7 +229,7 @@
       - 05 言葉の海に声を沈めてvoice : Azuma Riki 歌詞提供
   - [サムライチャンプルー](../Page/サムライチャンプルー.md "wikilink")
       - FLY （東 里起）歌詞提供\&vocal
-  - [Ram Jam World](https://ja.wikipedia.org/wiki/Ram_Jam_World "wikilink")
+  - [Ram Jam World](../Page/Ram_Jam_World.md "wikilink")
       - 夜明けのストレンジャー
       - words:Mutoh Satsuki歌詞提供
   - [ナイス橋本](../Page/ナイス橋本.md "wikilink")
@@ -259,7 +259,7 @@
 ## ラジオ番組
 
   - 『STUDIO 75』- [エフエム小国](../Page/エフエム小国.md "wikilink") （2007年〜）
-  - 『STUDIO 75』- FREE WAVE [天神エフエム](https://ja.wikipedia.org/wiki/天神エフエム "wikilink") （2007年〜）
+  - 『STUDIO 75』- FREE WAVE [天神エフエム](../Page/天神エフエム.md "wikilink") （2007年〜）
   - 『RADIO STUDIO 75』- [SHIBUYA-FM](https://ja.wikipedia.org/wiki/SHIBUYA-FM "wikilink") （2008年〜）
 
 ## 関連項目
@@ -270,11 +270,11 @@
   - [SILENT POETS](../Page/SILENT_POETS.md "wikilink")
   - [KUBOTA,TAKESHI](https://ja.wikipedia.org/wiki/KUBOTA,TAKESHI "wikilink")
   - [LITTLE TEMPO](../Page/LITTLE_TEMPO.md "wikilink")
-  - [Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")
+  - [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")
   - [SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")
   - [pizzicato five](https://ja.wikipedia.org/wiki/pizzicato_five "wikilink")
   - [ナイス橋本](../Page/ナイス橋本.md "wikilink")
-  - [Ram Jam World](https://ja.wikipedia.org/wiki/Ram_Jam_World "wikilink")
+  - [Ram Jam World](../Page/Ram_Jam_World.md "wikilink")
   - [おおはた雄一](../Page/おおはた雄一.md "wikilink")
   - [クラムボン](https://ja.wikipedia.org/wiki/クラムボン "wikilink")
   - [eli](https://ja.wikipedia.org/wiki/Eli_\(日本の歌手\) "wikilink")

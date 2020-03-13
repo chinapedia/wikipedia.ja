@@ -5,7 +5,7 @@
 
 ## きっかけ
 
-  - [ガレッジセール](../Page/ガレッジセール.md "wikilink")の番組（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『ガレッジヴァンガード』）に[SOPHIA](../Page/SOPHIA.md "wikilink")が出演した際、[ゴリがCDを出そうと交渉](https://ja.wikipedia.org/wiki/ゴリ_\(お笑い芸人\) "wikilink")。メインボーカルの座を巡りゴリ・[川田](https://ja.wikipedia.org/wiki/川田広樹 "wikilink")・松岡の三人がカラオケ勝負をし、ゴリが勝利したものの、元[チェッカーズ](../Page/チェッカーズ.md "wikilink")の[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")の「**メインは松岡君だよね？**」の一言で松岡に決まる。
+  - [ガレッジセール](../Page/ガレッジセール.md "wikilink")の番組（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『ガレッジヴァンガード』）に[SOPHIA](../Page/SOPHIA.md "wikilink")が出演した際、[ゴリがCDを出そうと交渉](../Page/ゴリ_\(お笑い芸人\).md "wikilink")。メインボーカルの座を巡りゴリ・[川田](../Page/川田広樹.md "wikilink")・松岡の三人がカラオケ勝負をし、ゴリが勝利したものの、元[チェッカーズ](../Page/チェッカーズ.md "wikilink")の[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")の「**メインは松岡君だよね？**」の一言で松岡に決まる。
 
 <!-- end list -->
 
@@ -15,8 +15,8 @@
 
   - Vocal
     **ルールルル**→[松岡充](../Page/松岡充.md "wikilink")（from;[SOPHIA](../Page/SOPHIA.md "wikilink")）
-    **ゴリポックル**→[ゴリ](https://ja.wikipedia.org/wiki/ゴリ_\(お笑い芸人\) "wikilink")（from;[ガレッジセール](../Page/ガレッジセール.md "wikilink")）
-    **川ポックル**→[川田](https://ja.wikipedia.org/wiki/川田広樹 "wikilink")（from;ガレッジセール）
+    **ゴリポックル**→[ゴリ](../Page/ゴリ_\(お笑い芸人\).md "wikilink")（from;[ガレッジセール](../Page/ガレッジセール.md "wikilink")）
+    **川ポックル**→[川田](../Page/川田広樹.md "wikilink")（from;ガレッジセール）
   - Guitar
     **自動車**→豊田和貴（from;SOPHIA）
   - Bass
@@ -43,6 +43,6 @@
 
 ## 関連項目
 
-  - [GALAY](https://ja.wikipedia.org/wiki/GALAY "wikilink")
+  - [GALAY](../Page/GALAY.md "wikilink")
 
 [Category:SOPHIA](https://ja.wikipedia.org/wiki/Category:SOPHIA "wikilink") [Category:ガレッジセール](https://ja.wikipedia.org/wiki/Category:ガレッジセール "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink")

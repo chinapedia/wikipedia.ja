@@ -20,7 +20,7 @@
   - RCC [中国放送](../Page/中国放送.md "wikilink") 土曜 6:40～6:50（「[ひとこと治宣の千客万来](../Page/ひとこと治宣の千客万来.md "wikilink")」内）
   - RKB [RKB毎日放送](../Page/RKBラジオ.md "wikilink") 土曜 6:40～6:50
   - MBC [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") 土曜 6:20～6:30
-  - RBC [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink") 日曜 7:40～7:50
+  - RBC [琉球放送](../Page/琉球放送.md "wikilink") 日曜 7:40～7:50
 
 ※火〜木曜のみ
 

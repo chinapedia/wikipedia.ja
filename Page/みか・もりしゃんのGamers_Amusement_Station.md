@@ -1,7 +1,7 @@
 > この記事は[Gamers Amusement Station](https://ja.wikipedia.org/wiki/Gamers_Amusement_Station)から翻訳されています。
 
 
-**みか・もりしゃんのGamers Amusement Station**（みか・もりしゃんのゲーマーズ アミューズメント ステーション）は[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月22日](../Page/7月22日.md "wikilink")まで[ラジオ関西](../Page/ラジオ関西.md "wikilink")で放送（[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")では再配信）された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**みか・もりしゃんのGamers Amusement Station**（みか・もりしゃんのゲーマーズ アミューズメント ステーション）は[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")まで[ラジオ関西](../Page/ラジオ関西.md "wikilink")で放送（[音泉](../Page/音泉.md "wikilink")では再配信）された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## パーソナリティ
 
@@ -14,7 +14,7 @@
 
 ## 内容
 
-前番組の「[みか・もりしゃんのぴんくだよ\!ぶらっくどらごん](https://ja.wikipedia.org/wiki/みか・もりしゃんのぴんくだよ!ぶらっくどらごん "wikilink")」（通称：ぴんぶら）から継承。後番組は『[Broccoli The Night 水野良 produce りょーことゆーなのG☆A☆](https://ja.wikipedia.org/wiki/水野良Produce_りょーことゆーなの_G☆A☆ "wikilink")』。
+前番組の「[みか・もりしゃんのぴんくだよ\!ぶらっくどらごん](https://ja.wikipedia.org/wiki/みか・もりしゃんのぴんくだよ!ぶらっくどらごん "wikilink")」（通称：ぴんぶら）から継承。後番組は『[Broccoli The Night 水野良 produce りょーことゆーなのG☆A☆](../Page/水野良Produce_りょーことゆーなの_G☆A☆.md "wikilink")』。
 
 ### 番組タイトルの歴史
 
@@ -47,7 +47,7 @@
   - みかはもう二十歳過ぎだから（旧：みかはもう二十歳だから）
     自称二十歳のみかさんにためになること・ならないことを教えていくコーナー
     どちらかといえばウソネタ系ギャグで攻めるリスナーのハガキ・メールが多い傾向。
-    ※＃25（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")）の放送から現タイトルに変更
+    ※＃25（[2005年](../Page/2005年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")）の放送から現タイトルに変更
 
 <!-- end list -->
 
@@ -84,12 +84,12 @@
   - ＃18（ 1月28日） [佐藤裕美](../Page/佐藤ひろ美.md "wikilink")
   - ＃19（ 2月 4日） [BELOVED](../Page/BELOVED_\(ユニット\).md "wikilink")(ビラビド)（[野島健児](../Page/野島健児_\(声優\).md "wikilink")・[沢口千恵](../Page/沢口千恵.md "wikilink")・[石橋優子](https://ja.wikipedia.org/wiki/石橋優子 "wikilink")・佐藤千裕・鈴木利宗）
   - ＃21（ 2月18日）[谷山紀章](../Page/谷山紀章.md "wikilink")
-  - ＃28（ 4月 8日）[勝杏里](https://ja.wikipedia.org/wiki/勝杏里 "wikilink")
+  - ＃28（ 4月 8日）[勝杏里](../Page/勝杏里.md "wikilink")
   - ＃29（ 4月15日）つっつう（[筒井武](../Page/筒井武.md "wikilink")）※
-  - ＃32（ 5月 6日）[廣田詩夢](https://ja.wikipedia.org/wiki/廣田詩夢 "wikilink")・[近藤佳奈子](https://ja.wikipedia.org/wiki/近藤佳奈子 "wikilink")（[G.G.F.](https://ja.wikipedia.org/wiki/G.G.F. "wikilink")）
-  - ＃34（ 5月20日）[亀岡真美](https://ja.wikipedia.org/wiki/亀岡真美 "wikilink")・[阿澄佳奈](https://ja.wikipedia.org/wiki/阿澄佳奈 "wikilink")（[G.G.F.](https://ja.wikipedia.org/wiki/G.G.F. "wikilink")）
+  - ＃32（ 5月 6日）[廣田詩夢](../Page/廣田詩夢.md "wikilink")・[近藤佳奈子](../Page/近藤佳奈子.md "wikilink")（[G.G.F.](https://ja.wikipedia.org/wiki/G.G.F. "wikilink")）
+  - ＃34（ 5月20日）[亀岡真美](../Page/亀岡真美.md "wikilink")・[阿澄佳奈](https://ja.wikipedia.org/wiki/阿澄佳奈 "wikilink")（[G.G.F.](https://ja.wikipedia.org/wiki/G.G.F. "wikilink")）
   - ＃35（ 5月27日）[那須めぐみ](../Page/那須めぐみ.md "wikilink")
-  - ＃39（ 6月24日）[井口裕香](https://ja.wikipedia.org/wiki/井口裕香 "wikilink")（[G.G.F.](https://ja.wikipedia.org/wiki/G.G.F. "wikilink")）
+  - ＃39（ 6月24日）[井口裕香](../Page/井口裕香.md "wikilink")（[G.G.F.](https://ja.wikipedia.org/wiki/G.G.F. "wikilink")）
 
 ※後にこの番組ディレクターを担当
 

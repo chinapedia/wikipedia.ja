@@ -1,7 +1,7 @@
 > この記事は[MO\'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO\'SOME_TONEBENDER)から翻訳されています。
 
 
-**MO'SOME TONEBENDER**（モーサム・トーンベンダー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")にて結成。通称、「モーサム」。
+**MO'SOME TONEBENDER**（モーサム・トーンベンダー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[福岡県](../Page/福岡県.md "wikilink")にて結成。通称、「モーサム」。
 
 ## メンバー
 
@@ -45,7 +45,7 @@
 
 ## 来歴
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")にて結成。バンド名の由来は、百々（モー）と藤田勇（サム）の名前を合わせて友人が名づけた。後に百々が「TONEBENDER」を語尾に付加し完成されたもの\[3\]。[インディーズ](../Page/インディーズ.md "wikilink")にて作品を幾つかリリースしたのち、[2001年](../Page/2001年.md "wikilink")に[ユニバーサル・ミュージック内の](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[レーベルである](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")[ユニバーサルシグマより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『HELLO』にて[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2004年](../Page/2004年.md "wikilink")、所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")が[コロムビアミュージックエンタテインメント内のレーベルである](../Page/日本コロムビア.md "wikilink")[トライアド](https://ja.wikipedia.org/wiki/トライアド "wikilink")に移る。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[福岡県](../Page/福岡県.md "wikilink")にて結成。バンド名の由来は、百々（モー）と藤田勇（サム）の名前を合わせて友人が名づけた。後に百々が「TONEBENDER」を語尾に付加し完成されたもの\[3\]。[インディーズ](../Page/インディーズ.md "wikilink")にて作品を幾つかリリースしたのち、[2001年](../Page/2001年.md "wikilink")に[ユニバーサル・ミュージック内の](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[レーベルである](../Page/レコード会社.md "wikilink")[ユニバーサルシグマより](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『HELLO』にて[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。[2004年](../Page/2004年.md "wikilink")、所属[レコード会社](../Page/レコード会社.md "wikilink")が[コロムビアミュージックエンタテインメント内のレーベルである](../Page/日本コロムビア.md "wikilink")[トライアド](https://ja.wikipedia.org/wiki/トライアド "wikilink")に移る。
 
 [2009年](../Page/2009年.md "wikilink")11月、公式HPにおいて実験期間突入を宣言\[4\]。それまでドラムス担当だった藤田が突然ギター担当になり、サポートドラムを迎え変則編成でライブを決行。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")5月22日より、本格的に活動開始。以降もこの編成でライブを行う。これは3人だけではライブでの曲の再現が困難になってきたためにサポートを誰か入れようとした際に、藤田が自らギターを弾くことを提案したためであるという\[5\]。
 
@@ -181,7 +181,7 @@ ISKP-1001</p></td>
 </tr>
 <tr class="even">
 <td><p>7th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>4月20日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>4月20日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>ビートルバーナー</p>
@@ -194,7 +194,7 @@ ISKP-1001</p></td>
 <li>Solid Gold Easy Action</li>
 </ol></td>
 <td><p>COCA-50848</p></td>
-<td><p>ミュージック・ビデオに<a href="../Page/浅見れいな.md" title="wikilink">浅見れいな</a>出演。M-4「Solid Gold Easy Action」は<a href="https://ja.wikipedia.org/wiki/T・レックス" title="wikilink">T・レックス</a>のカバー（初回盤のみ収録）。オリコン最高73位。</p></td>
+<td><p>ミュージック・ビデオに<a href="../Page/浅見れいな.md" title="wikilink">浅見れいな</a>出演。M-4「Solid Gold Easy Action」は<a href="../Page/T・レックス.md" title="wikilink">T・レックス</a>のカバー（初回盤のみ収録）。オリコン最高73位。</p></td>
 </tr>
 <tr class="odd">
 <td><p>8th</p></td>
@@ -524,7 +524,7 @@ ISKP-1001</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>6月22日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>6月22日</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>faster!</p>
@@ -655,7 +655,7 @@ ISKP-1001</p></td>
 <li>けだるいDays</li>
 <li>Drum Song</li>
 <li>教祖様はスレンダー</li>
-<li>PURR(<a href="https://ja.wikipedia.org/wiki/ソニック・ユース" title="wikilink">ソニック・ユース</a>のカバー)</li>
+<li>PURR(<a href="../Page/ソニック・ユース.md" title="wikilink">ソニック・ユース</a>のカバー)</li>
 <li>アイデンティティ</li>
 <li>Black In,Black Out</li>
 <li>七月二十日</li>
@@ -972,7 +972,7 @@ UPBH-1076:DVD</p></td>
 <li>TOKYO HEAVY</li>
 </ol></td>
 <td><p>COBA-50907</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>11月24日に<a href="https://ja.wikipedia.org/wiki/LIQUIDROOM" title="wikilink">LIQUIDROOM</a>にて行われたライブの映像を収録。オリコン最高133位。</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>11月24日に<a href="https://ja.wikipedia.org/wiki/LIQUIDROOM" title="wikilink">LIQUIDROOM</a>にて行われたライブの映像を収録。オリコン最高133位。</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -1095,8 +1095,8 @@ M-9「DAWN ROCK (LIVE)」で参加。</p></td>
 M-17「凡人のロックンロール」で参加。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>9月28日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルースターズ" title="wikilink">ルースターズ</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>9月28日</p></td>
+<td><p><a href="../Page/ルースターズ.md" title="wikilink">ルースターズ</a></p></td>
 <td><p><strong>RESPECTABLE ROOSTERS→Z a→GOGO</strong></p></td>
 <td><p>COCP-50871</p></td>
 <td><p><a href="../Page/トリビュート・アルバム.md" title="wikilink">トリビュート・アルバム</a>。M-1「新型セドリック」で参加。</p></td>
@@ -1126,7 +1126,7 @@ M-13「ビートルバーナー」で参加。</p></td>
 </tr>
 <tr class="even">
 <td><p>2006年6月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a></p></td>
+<td><p><a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a></p></td>
 <td><p><strong><a href="../Page/A_Tribute_to_Shonen_Knife_-_Fork_and_Spoon.md" title="wikilink">A Tribute to Shonen Knife - Fork and Spoon</a></strong></p></td>
 <td><p>PCD-25043</p></td>
 <td><p>トリビュート・アルバム。M-8「ミラクルズ」で参加。</p></td>
@@ -1488,7 +1488,7 @@ M-10「Black Nightmare」で参加。</p></td>
   - 2013年08月21日 - UKFC on the Road 2013
   - 2013年08月30日 - [acid android](https://ja.wikipedia.org/wiki/acid_android "wikilink") in an alcove vol.6
   - 2013年10月13日 - Anniversary of 19th CLUB Que Shimokitazawa 十究極\!MIRAI-SEINEN 感謝祭\!\!
-  - 2013年10月25日 - [POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")対バンツアー2013 帰ってきたULTRA FIGHT OR DIE\!\!\!～ようこそUKPへ！遅れてきた後輩達～
+  - 2013年10月25日 - [POLYSICS](../Page/POLYSICS.md "wikilink")対バンツアー2013 帰ってきたULTRA FIGHT OR DIE\!\!\!～ようこそUKPへ！遅れてきた後輩達～
   - 2013年11月03日 - CITY NOISE FROM FUCKOKA 2013
   - 2013年12月05日 - [a flood of circle](https://ja.wikipedia.org/wiki/a_flood_of_circle "wikilink") Tour I'M FREE"AFOCの47都道府県制覇\!形ないものを爆破しにいくツアー 迷わず行けよ編
   - 2013年12月20日 - SHURE LIVE with GLX-D/BLX ワイヤレス -FREE from cables\!-
@@ -1510,7 +1510,7 @@ M-10「Black Nightmare」で参加。</p></td>
   - 2015年03月26日 - Zher the ZOO YOYOGI 10th Anniversary～Live Goes On \!～
   - 2015年03月28日 - IMAIKE GO NOW 2015
   - 2015年03月09日 - Knave presents『no reason fes vol.1』
-  - 2015年04月18日 - [音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")LIVE 2015 ローリング・サンダー・レビュー
+  - 2015年04月18日 - [音楽と人](../Page/音楽と人.md "wikilink")LIVE 2015 ローリング・サンダー・レビュー
   - 2015年08月04日 - TADZIO presents "VS"
   - 2015年08月18日 - UKFC on the Road 2015
   - 2015年09月05日 - BAYCAMP 2015

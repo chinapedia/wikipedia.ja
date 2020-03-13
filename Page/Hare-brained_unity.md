@@ -1,15 +1,15 @@
 > この記事は[Hare-brained unity](https://ja.wikipedia.org/wiki/Hare-brained_unity)から翻訳されています。
 
 
-**hare-brained unity**（ヘア・ブレインド・ユニティ）は、[長崎県](../Page/長崎県.md "wikilink")出身の4人組[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1999年結成。2006年4月[ユニバーサルシグマよりメジャーデビュー](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。[東京](../Page/東京.md "wikilink")・[下北沢](../Page/下北沢.md "wikilink")を中心に活動していた。略称は「ヘアブレ」。[2012年](../Page/2012年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")活動休止。
+**hare-brained unity**（ヘア・ブレインド・ユニティ）は、[長崎県](../Page/長崎県.md "wikilink")出身の4人組[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1999年結成。2006年4月[ユニバーサルシグマよりメジャーデビュー](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。[東京](../Page/東京.md "wikilink")・[下北沢](../Page/下北沢.md "wikilink")を中心に活動していた。略称は「ヘアブレ」。[2012年](../Page/2012年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")活動休止。
 
 ## 概要
 
-[長崎県立長崎北高校の同級生である](https://ja.wikipedia.org/wiki/長崎県立長崎北高等学校 "wikilink")4人が上京した後に結成したバンドであり、一貫して[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink") × [ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")を主題としている。
+[長崎県立長崎北高校の同級生である](../Page/長崎県立長崎北高等学校.md "wikilink")4人が上京した後に結成したバンドであり、一貫して[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink") × [ダンスミュージック](https://ja.wikipedia.org/wiki/ダンスミュージック "wikilink")を主題としている。
 
-[2007年](../Page/2007年.md "wikilink")頃までは叙情的な[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")や低音弦を中心とした[リフ](https://ja.wikipedia.org/wiki/リフ "wikilink")によるモダンヘヴィネス的アプローチを加えるなど、[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")への傾向も垣間見えたが、[2007年](../Page/2007年.md "wikilink")以降は音源・ライブ共に[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・和田による[ミュージックシーケンサー](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")（いわゆる[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")）を導入し、[ハウスミュージックや](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")[テクノポップ](../Page/テクノポップ.md "wikilink")・[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")など[クラブミュージック](https://ja.wikipedia.org/wiki/クラブミュージック "wikilink")の要素を大幅に取り入れている。
+[2007年](../Page/2007年.md "wikilink")頃までは叙情的な[アルペジオ](https://ja.wikipedia.org/wiki/アルペジオ "wikilink")や低音弦を中心とした[リフ](../Page/リフ.md "wikilink")によるモダンヘヴィネス的アプローチを加えるなど、[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")への傾向も垣間見えたが、[2007年](../Page/2007年.md "wikilink")以降は音源・ライブ共に[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・和田による[ミュージックシーケンサー](../Page/ミュージックシーケンサー.md "wikilink")（いわゆる[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")）を導入し、[ハウスミュージックや](../Page/ハウス_\(音楽\).md "wikilink")[テクノポップ](../Page/テクノポップ.md "wikilink")・[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")など[クラブミュージック](https://ja.wikipedia.org/wiki/クラブミュージック "wikilink")の要素を大幅に取り入れている。
 
-作品の約8割が[4つ打ち](https://ja.wikipedia.org/wiki/4つ打ち "wikilink")と呼ばれる、いわゆる[ディスコ](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")・[ビートであるが](https://ja.wikipedia.org/wiki/ビート_\(音楽\) "wikilink")、アルバムに必ず入っている[インスト曲などはその限りでは無い](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+作品の約8割が[4つ打ち](https://ja.wikipedia.org/wiki/4つ打ち "wikilink")と呼ばれる、いわゆる[ディスコ](https://ja.wikipedia.org/wiki/ディスコ_\(音楽\) "wikilink")・[ビートであるが](../Page/ビート_\(音楽\).md "wikilink")、アルバムに必ず入っている[インスト曲などはその限りでは無い](../Page/器楽曲.md "wikilink")。
 
 [2004年](../Page/2004年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")頃までは夏フェスへの出演やワンマンツアーなどをコンスタントに行っていたが、その後はその活動を縮小している。
 
@@ -19,24 +19,24 @@
 
   - 布谷吉崇（ぬのたによしたか、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[6月18日](../Page/6月18日.md "wikilink") - ）[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 吉田大佑（よしだだいすけ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月26日](../Page/9月26日.md "wikilink") - ）[ギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
-  - 和田大樹（わだたいじゅ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月5日](../Page/7月5日.md "wikilink") - ）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")
+  - 和田大樹（わだたいじゅ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[7月5日](../Page/7月5日.md "wikilink") - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")
       - "TJ"名義による[DJとしての活動やThe](../Page/ディスクジョッキー.md "wikilink") Challenge（ザ・チャレンジ）への参加、様々なアーティストへの楽曲提供などソロ活動も精力的に行っている。
       - hare-brained unityの現在のリリース[レーベルであるPlay](../Page/レコードレーベル.md "wikilink") decibelの設立者及びレーベルオーナーでもある。
   - 大坪徹志（おおつぼてつし、[1981年](../Page/1981年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink") - ）[ドラム](../Page/ドラムセット.md "wikilink")
       - ドラマー・ローディー達による演奏集団「DQS」にも参加している。
-      - [レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")アーティスト「[九州男](https://ja.wikipedia.org/wiki/九州男 "wikilink")」の[2011年](../Page/2011年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink")ツアーにバンドメンバーとして参加した他、サポートドラマーとしても活動している。
+      - [レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")アーティスト「[九州男](https://ja.wikipedia.org/wiki/九州男 "wikilink")」の[2011年](../Page/2011年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")[Zepp](../Page/Zepp.md "wikilink")ツアーにバンドメンバーとして参加した他、サポートドラマーとしても活動している。
 
 ## 来歴
 
   - [2003年](../Page/2003年.md "wikilink")
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 自主制作CD『光と影/トオイソラ』をライブ会場、下北沢ハイラインレコーズで限定リリース。
   - [2004年](../Page/2004年.md "wikilink")
-      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")オムニバス「HI-STYLEVol.07」に参加。
+      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")オムニバス「HI-STYLEVol.07」に参加。
       - [9月](../Page/9月.md "wikilink") - [1stミニアルバム](https://ja.wikipedia.org/wiki/序数詞 "wikilink")『光-hikari-』(6曲)をROCKTRADEよりリリース。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - 下北沢ハイラインレコーズ限定シングル『白い街/LOTUSEATER』リリース。
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [1st](https://ja.wikipedia.org/wiki/1st "wikilink")マキシシングル『SAYONARA e.p.』（3曲）リリース。
-          - 収録曲「サヨナラトーン」が[FM長崎のパワープレイと](../Page/エフエム長崎.md "wikilink")[下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")チャート1位となる。また、リリース後の全国ツアー"COOL\&DISCOIII "を全国16か所で開催。ツアーファイナルを4/27下北沢CLUB Que のHIGH LINE NIGHTにて開催。
+          - 収録曲「サヨナラトーン」が[FM長崎のパワープレイと](../Page/エフエム長崎.md "wikilink")[下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")チャート1位となる。また、リリース後の全国ツアー"COOL\&DISCOIII "を全国16か所で開催。ツアーファイナルを4/27下北沢CLUB Que のHIGH LINE NIGHTにて開催。
       - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - DVD「GALACTiKA VOL.12 」に参加。「四月の空」、「ハルカ」収録。
       - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 下北沢ハイラインレコーズ主催"HIGHLINE GO AROUND 2"全国6か所ツアーに参加。
       - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - [グリコセブンティーンアイスX](https://ja.wikipedia.org/wiki/セブンティーンアイス "wikilink")[タワーレコード](../Page/タワーレコード.md "wikilink")コラボオムニバスCD「LOVE」に「トオイソラ」収録。7月より8月にかけて夏の全国行脚ツアー開催。
@@ -44,23 +44,23 @@
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2nd](https://ja.wikipedia.org/wiki/2nd "wikilink")マキシシングル『スペクトル/STRB』（3曲）リリース。
           - WeeklyぴあCDシングル満足度ランキング5位獲得。
           - [8日](../Page/10月8日.md "wikilink")[柏](https://ja.wikipedia.org/wiki/柏 "wikilink")ZaXより全国16か所ツアー”COOL\&DSICOⅣ　ダテメガネの逆襲」スタート。
-          - [下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")オムニバスCD「HI-STYLEVo.10」に参加。「光と影」収録。
+          - [下北沢](../Page/下北沢.md "wikilink")[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")オムニバスCD「HI-STYLEVo.10」に参加。「光と影」収録。
           - [大阪](../Page/大阪.md "wikilink") FM802主催　MINAMI WHEEL2005出演。
       - [11月15日](../Page/11月15日.md "wikilink") - [新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")ツアーファイナル　GRiPとWレコ発「HIGH LINE NIGHT」開催。
-      - [11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - [渋谷duoにて開催のWeeklyぴあと](https://ja.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")[MUSIC ON \! TV主催ROOKIES](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") +に出演。
+      - [11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - [渋谷duoにて開催のWeeklyぴあと](../Page/Shibuya_O-EAST.md "wikilink")[MUSIC ON \! TV主催ROOKIES](../Page/MUSIC_ON!_TV.md "wikilink") +に出演。
       - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [UNDER THE COUNTERと東名阪ツアー開催](../Page/UNDER_THE_COUNTER.md "wikilink")。
-          - [新星堂](https://ja.wikipedia.org/wiki/新星堂 "wikilink")D★SELDOM サンプラーCDに参加。
+          - [新星堂](../Page/新星堂.md "wikilink")D★SELDOM サンプラーCDに参加。
       - [12月31日](../Page/12月31日.md "wikilink") - カウントダウンイベントSHELTER /Zher the ZOO に出演。2005年トータルライブ本数98本となる。
-      - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [長崎](../Page/長崎.md "wikilink")ユナイテッドシネマ公開。[長崎アミュプラザ](https://ja.wikipedia.org/wiki/アミュプラザ長崎 "wikilink")5周年記念制作[映画](../Page/映画.md "wikilink")「スロウマップ」の主題歌を担当。同タイトル曲「スロウマップ」を提供する。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+      - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [長崎](../Page/長崎.md "wikilink")ユナイテッドシネマ公開。[長崎アミュプラザ](../Page/アミュプラザ長崎.md "wikilink")5周年記念制作[映画](../Page/映画.md "wikilink")「スロウマップ」の主題歌を担当。同タイトル曲「スロウマップ」を提供する。
+  - [2006年](../Page/2006年.md "wikilink")
       - [1月25日](../Page/1月25日.md "wikilink") - [1st](https://ja.wikipedia.org/wiki/1st "wikilink")フルアルバム『2000'S★★★★★DISCO』リリース。下北沢ハイラインレコーズチャート1位を獲得し、5タイトル連続1位記録を達成。
       - [1月31日](../Page/1月31日.md "wikilink") - アルバムレコ発ライブを下北沢SHELTERにて行う。初のワンマンライブ。
       - [2月4日](../Page/2月4日.md "wikilink") - アルバム発売記念全国１７ヶ所ツアー"COOL\&DISCO V てっちをプロデュース。"を千葉LOOKよりスタート。
       - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - ヘアブレ2回目の自主企画イベント「daylight party」を3/21大阪2nd LINE、3/23下北沢CLUB Queにて開催。
-      - [4月26日](../Page/4月26日.md "wikilink") - [3rd](https://ja.wikipedia.org/wiki/3rd "wikilink")マキシシングル『ソライロ』リリース。[ユニバーサルシグマへメジャー移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+      - [4月26日](../Page/4月26日.md "wikilink") - [3rd](https://ja.wikipedia.org/wiki/3rd "wikilink")マキシシングル『ソライロ』リリース。[ユニバーサルシグマへメジャー移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
       - [7月22日](../Page/7月22日.md "wikilink") - UDO MUSIC FESTIVAL2006 出演。
       - [8月5日](../Page/8月5日.md "wikilink") - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2006 出演。
-      - [8月9日](../Page/8月9日.md "wikilink") - 4thマキシシングル『Sputnik』リリース。収録曲「Sputnik」が[FMQリーグ](https://ja.wikipedia.org/wiki/FMQリーグ "wikilink")と[FM新潟のパワープレイに選出される](https://ja.wikipedia.org/wiki/エフエムラジオ新潟 "wikilink")。
+      - [8月9日](../Page/8月9日.md "wikilink") - 4thマキシシングル『Sputnik』リリース。収録曲「Sputnik」が[FMQリーグ](../Page/FMQリーグ.md "wikilink")と[FM新潟のパワープレイに選出される](../Page/エフエムラジオ新潟.md "wikilink")。
       - [8月27日](../Page/8月27日.md "wikilink") - [Sky Jamboree](https://ja.wikipedia.org/wiki/Sky_Jamboree "wikilink")'06 出演。
       - [10月6日](../Page/10月6日.md "wikilink") - [大阪](../Page/大阪.md "wikilink") [FM802](../Page/FM802.md "wikilink")主催　MINAMI WHEEL2006出演。
       - [10月8日](../Page/10月8日.md "wikilink") - [仙台](https://ja.wikipedia.org/wiki/仙台 "wikilink") [Date fm](../Page/エフエム仙台.md "wikilink") presents“[Mega☆Rocks](https://ja.wikipedia.org/wiki/Mega☆Rocks "wikilink") 2006出演。
@@ -71,12 +71,12 @@
       - [2月7日](../Page/2月7日.md "wikilink") - [2nd](https://ja.wikipedia.org/wiki/2nd "wikilink")フルアルバム『EVEN BEAT』リリース。
       - [2月17日](../Page/2月17日.md "wikilink") - 千葉LOOKを皮きりに全国ツアー"HAPPY NEW DISCO"スタート。ツアーファイナルとして[3月28日](../Page/3月28日.md "wikilink")[渋谷CLUB QUATTROでワンマンライブを行う](https://ja.wikipedia.org/wiki/渋谷CLUB_QUATTRO "wikilink")。
       - [5月19日](../Page/5月19日.md "wikilink") - [大阪城野外音楽堂](https://ja.wikipedia.org/wiki/大阪城野外音楽堂 "wikilink")にて開催[SWEET LOVE SHOWER EXTRAに出演](../Page/SWEET_LOVE_SHOWER.md "wikilink")。
-      - [7月16日](../Page/7月16日.md "wikilink") - [Zepp東京](https://ja.wikipedia.org/wiki/Zepp東京 "wikilink") 「HIGH LINE RECORDS 10th ANNIVERSARY “10年目の夏”」に出演。共演は[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")・[LUNKHEAD](https://ja.wikipedia.org/wiki/LUNKHEAD "wikilink")・[LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")・[FULLARMOR](https://ja.wikipedia.org/wiki/FULLARMOR "wikilink")・[BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")（O.A：[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")）
-      - [8月15日](../Page/8月15日.md "wikilink") - 6thマキシシングル『Daylight』リリース。初の[石田ショーキチ](https://ja.wikipedia.org/wiki/石田ショーキチ "wikilink")プロデュース作品。
+      - [7月16日](../Page/7月16日.md "wikilink") - [Zepp東京](https://ja.wikipedia.org/wiki/Zepp東京 "wikilink") 「HIGH LINE RECORDS 10th ANNIVERSARY “10年目の夏”」に出演。共演は[POLYSICS](../Page/POLYSICS.md "wikilink")・[LUNKHEAD](../Page/LUNKHEAD.md "wikilink")・[LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")・[FULLARMOR](https://ja.wikipedia.org/wiki/FULLARMOR "wikilink")・[BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")（O.A：[UNISON SQUARE GARDEN](https://ja.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")）
+      - [8月15日](../Page/8月15日.md "wikilink") - 6thマキシシングル『Daylight』リリース。初の[石田ショーキチ](../Page/石田ショーキチ.md "wikilink")プロデュース作品。
       - [9月2日](../Page/9月2日.md "wikilink") - 泉大津フェニックス RUSHBALL07 AT/MCステージに出演。
       - [10月20日](../Page/10月20日.md "wikilink") - 仙台 [Date fm](../Page/エフエム仙台.md "wikilink") presents“[Mega☆Rocks](https://ja.wikipedia.org/wiki/Mega☆Rocks "wikilink") 2007に出演。
       - [10月21日](../Page/10月21日.md "wikilink") - [千葉](https://ja.wikipedia.org/wiki/千葉 "wikilink") [bayfm](../Page/ベイエフエム.md "wikilink") MUSIC DAYzに出演。
-      - [10月27日](../Page/10月27日.md "wikilink") - [長崎純心大学](../Page/長崎純心大学.md "wikilink")[学園祭](https://ja.wikipedia.org/wiki/大学祭 "wikilink")「純心祭」に出演。
+      - [10月27日](../Page/10月27日.md "wikilink") - [長崎純心大学](../Page/長崎純心大学.md "wikilink")[学園祭](../Page/大学祭.md "wikilink")「純心祭」に出演。
       - [11月](../Page/11月.md "wikilink") - 初の東名阪ワンマンツアー「daylight party」[11月9日](../Page/11月9日.md "wikilink")[名古屋アポロシアター](https://ja.wikipedia.org/wiki/名古屋アポロシアター "wikilink")・[11月10日](../Page/11月10日.md "wikilink")[心斎橋CLUB QUATTRO](https://ja.wikipedia.org/wiki/心斎橋CLUB_QUATTRO "wikilink")・[11月18日](../Page/11月18日.md "wikilink")[渋谷CLUB QUATTROにて開催](https://ja.wikipedia.org/wiki/渋谷CLUB_QUATTRO "wikilink")。
       - [12月31日](../Page/12月31日.md "wikilink") - 幕張メッセ国際展示場[COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink")07/08 COSMO STAGEに出演。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
@@ -115,11 +115,11 @@
 
 ### テレビ
 
-  - [MTV Apt.木曜日](../Page/MTV.md "wikilink")([2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")\~[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月28日](../Page/12月28日.md "wikilink"))
+  - [MTV Apt.木曜日](../Page/MTV.md "wikilink")([2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")\~[2006年](../Page/2006年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink"))
 
 ### ラジオ
 
-  - Paraiso Omelette（[FMPORT](../Page/新潟県民エフエム放送.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月29日](../Page/12月29日.md "wikilink")）
+  - Paraiso Omelette（[FMPORT](../Page/新潟県民エフエム放送.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")）
   - ★★★★★(ファイブスターズ)RADIO by hare-brained unity（[FM長崎](../Page/エフエム長崎.md "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月6日](../Page/10月6日.md "wikilink") - ）
 
 ## ディスコグラフィー
@@ -140,7 +140,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/1月25日.md" title="wikilink">1月25日</a></p></td>
 <td><p><strong>2000'S ★★★★★ DISCO</strong></p></td>
 <td><p>ATRT-005</p></td>
 <td><ol>
@@ -230,7 +230,7 @@ UPCI-1057:通常価格盤</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 <td><p><strong>光-hikari-</strong></p></td>
 <td><p>ATRT-001</p></td>
 <td><ol>
@@ -319,7 +319,7 @@ DLMK-2002:通常盤</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
 <td><p><strong>白い街/LOTUSEATER</strong></p></td>
 <td><p>ATRT-002</p></td>
 <td><ol>
@@ -331,7 +331,7 @@ DLMK-2002:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
 <td><p><strong>SAYONARA e.p.</strong></p></td>
 <td><p>ATRT-003</p></td>
 <td><ol>
@@ -344,7 +344,7 @@ DLMK-2002:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/10月12日" title="wikilink">10月12日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/10月12日" title="wikilink">10月12日</a></p></td>
 <td><p><strong>スペクトル/STRB</strong></p></td>
 <td><p>ATRT-004</p></td>
 <td><ol>
@@ -357,7 +357,7 @@ DLMK-2002:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
 <td><p><strong>ソライロ</strong></p></td>
 <td><p>UPCI-5027</p></td>
 <td><ol>
@@ -371,7 +371,7 @@ DLMK-2002:通常盤</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
 <td><p><strong>Sputnik</strong></p></td>
 <td><p>UPCI-5036</p></td>
 <td><ol>
@@ -384,7 +384,7 @@ DLMK-2002:通常盤</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/12月6日.md" title="wikilink">12月6日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月6日.md" title="wikilink">12月6日</a></p></td>
 <td><p><strong>ORION/Clap!</strong></p></td>
 <td><p>UPCI-5042</p></td>
 <td><ol>
@@ -416,7 +416,7 @@ DLMK-2002:通常盤</p></td>
 </dd>
 </dl></td>
 <td><p>ROCKTRADE<br />
-<a href="https://ja.wikipedia.org/wiki/石田ショーキチ" title="wikilink">石田ショーキチ</a>プロデュース。<br />
+<a href="../Page/石田ショーキチ.md" title="wikilink">石田ショーキチ</a>プロデュース。<br />
 オリコン圏外</p></td>
 </tr>
 <tr class="odd">
@@ -483,7 +483,7 @@ DLMK-2002:通常盤</p></td>
 
 ## 関連項目
 
-  - [ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")
+  - [ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")
   - [ミューパライチ押しナンバー](../Page/ミューパライチ押しナンバー.md "wikilink")
   - [UKプロジェクト](../Page/UKプロジェクト.md "wikilink")
 

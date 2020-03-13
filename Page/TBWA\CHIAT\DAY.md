@@ -1,11 +1,11 @@
 > この記事は[TBWA\CHIAT\DAY](https://ja.wikipedia.org/wiki/TBWA\CHIAT\DAY)から翻訳されています。
 
 
-[thumbによる設計](https://ja.wikipedia.org/wiki/ファイル:052607-006-Chiat-Day.jpg "wikilink")、隣の双眼鏡型の立体作品は[クレス・オルデンバーグ](https://ja.wikipedia.org/wiki/クレス・オルデンバーグ "wikilink")作\]\] **TBWACHIATDAY**（ティービーダブリューエーシャイアットデイ、はバックスラッシュ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[広告代理店](https://ja.wikipedia.org/wiki/広告代理店 "wikilink")。
+[thumbによる設計](https://ja.wikipedia.org/wiki/ファイル:052607-006-Chiat-Day.jpg "wikilink")、隣の双眼鏡型の立体作品は[クレス・オルデンバーグ](https://ja.wikipedia.org/wiki/クレス・オルデンバーグ "wikilink")作\]\] **TBWACHIATDAY**（ティービーダブリューエーシャイアットデイ、はバックスラッシュ）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[広告代理店](../Page/広告代理店.md "wikilink")。
 
 ## 概要
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")にジェイ・シャイアット (Jay Chiat) とガイ・デイ (Guy Day) によって[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で設立された。[1990年代](../Page/1990年代.md "wikilink")初めに[BBDOやDDBを傘下に収める世界最大の広告代理店グループであるオムニコムグループに吸収合併された](https://ja.wikipedia.org/wiki/I&S_BBDO "wikilink")。その後[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にTBWAと合併し、TBWAワールドワイドの一員のTBWACHIATDAYとなる。
+[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")にジェイ・シャイアット (Jay Chiat) とガイ・デイ (Guy Day) によって[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で設立された。[1990年代](../Page/1990年代.md "wikilink")初めに[BBDOやDDBを傘下に収める世界最大の広告代理店グループであるオムニコムグループに吸収合併された](../Page/I&S_BBDO.md "wikilink")。その後[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にTBWAと合併し、TBWAワールドワイドの一員のTBWACHIATDAYとなる。
 
 ### 評価
 
@@ -20,12 +20,12 @@
   - [フリスク](https://ja.wikipedia.org/wiki/フリスク "wikilink")
   - [日産自動車](../Page/日産自動車.md "wikilink")
   - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")・アメリカ
-  - [ディズニー・カリフォルニア・アドベンチャー](https://ja.wikipedia.org/wiki/ディズニー・カリフォルニア・アドベンチャー "wikilink")
+  - [ディズニー・カリフォルニア・アドベンチャー](../Page/ディズニー・カリフォルニア・アドベンチャー.md "wikilink")
 
 ## 関連項目
 
   - [TBWAJAPAN](https://ja.wikipedia.org/wiki/TBWA/HAKUHODO "wikilink")
-  - [I\&S BBDO](https://ja.wikipedia.org/wiki/I&S_BBDO "wikilink")
+  - [I\&S BBDO](../Page/I&S_BBDO.md "wikilink")
   - [DDB](https://ja.wikipedia.org/wiki/DDB "wikilink")
 
 ## 外部リンク

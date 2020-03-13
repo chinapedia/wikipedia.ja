@@ -3,7 +3,7 @@
 
 『**Wrestling with もも子**』（レスリング ウィズ ももこ）は[徳弘正也](../Page/徳弘正也.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[レスリング](https://ja.wikipedia.org/wiki/レスリング "wikilink")を題材としている。
 
-『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink") (WJ) 』（[集英社](../Page/集英社.md "wikilink")）誌上において[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")20号から38号まで連載。「[水のともだちカッパーマン](../Page/水のともだちカッパーマン.md "wikilink")」の次となる徳弘6作目\[1\]の連載作品。単行本は[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")全2巻が発売され、2巻巻末には読切「[バレエ入門 - 俺がバレエを始めたわけ -](https://ja.wikipedia.org/wiki/#バレエ入門 "wikilink")」が併録されている。
+『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink") (WJ) 』（[集英社](../Page/集英社.md "wikilink")）誌上において[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")20号から38号まで連載。「[水のともだちカッパーマン](../Page/水のともだちカッパーマン.md "wikilink")」の次となる徳弘6作目\[1\]の連載作品。単行本は[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")全2巻が発売され、2巻巻末には読切「[バレエ入門 - 俺がバレエを始めたわけ -](https://ja.wikipedia.org/wiki/#バレエ入門 "wikilink")」が併録されている。
 
 次作『[狂四郎2030](../Page/狂四郎2030.md "wikilink")』より徳弘は活動の場を本格的\[2\]に『[スーパージャンプ](../Page/スーパージャンプ.md "wikilink")』へと移しており、本作が『WJ』で連載された最後の作品となっている。
 
@@ -32,7 +32,7 @@
 
 ## 書誌情報
 
-  - [徳弘正也](../Page/徳弘正也.md "wikilink")『Wrestling with もも子』[集英社](../Page/集英社.md "wikilink")〈[ジャンプ・コミックス](https://ja.wikipedia.org/wiki/ジャンプ・コミックス "wikilink")〉
+  - [徳弘正也](../Page/徳弘正也.md "wikilink")『Wrestling with もも子』[集英社](../Page/集英社.md "wikilink")〈[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")〉
     1.  「日本チャンピオンなのの巻」1997年10月8日初版発行、ISBN 4088721810
     2.  「もも子と一緒にレスリングの巻」1998年1月14日初版発行、ISBN 4088725077
 
@@ -46,5 +46,5 @@
 
 [Category:漫画作品_れ](https://ja.wikipedia.org/wiki/Category:漫画作品_れ "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:格闘技漫画](https://ja.wikipedia.org/wiki/Category:格闘技漫画 "wikilink") [Category:徳弘正也](https://ja.wikipedia.org/wiki/Category:徳弘正也 "wikilink")
 
-1.  『[ジャングルの王者ターちゃん](https://ja.wikipedia.org/wiki/ジャングルの王者ターちゃん "wikilink")♡』を新旧合わせて一本として。『WJ』誌上では5作目。
-2.  「狂四郎」以前には「[ふんどし刑事ケンちゃんとチャコちゃん](https://ja.wikipedia.org/wiki/ふんどし刑事ケンちゃんとチャコちゃん "wikilink")」を不定期連載していた。
+1.  『[ジャングルの王者ターちゃん](../Page/ジャングルの王者ターちゃん.md "wikilink")♡』を新旧合わせて一本として。『WJ』誌上では5作目。
+2.  「狂四郎」以前には「[ふんどし刑事ケンちゃんとチャコちゃん](../Page/ふんどし刑事ケンちゃんとチャコちゃん.md "wikilink")」を不定期連載していた。

@@ -24,7 +24,7 @@
 
   - [橋本俊一](https://ja.wikipedia.org/wiki/橋本俊一 "wikilink")
   - [佐藤修](../Page/佐藤修_\(アナウンサー\).md "wikilink")
-  - [藤沢智子](https://ja.wikipedia.org/wiki/藤沢智子 "wikilink")
+  - [藤沢智子](../Page/藤沢智子.md "wikilink")
 
 ### アシスタントキャスター
 
@@ -33,14 +33,14 @@
   - [藤原優子](https://ja.wikipedia.org/wiki/藤原優子 "wikilink")
   - [宮坂珠理](https://ja.wikipedia.org/wiki/宮坂珠理 "wikilink")
   - [石黒新平](../Page/石黒新平.md "wikilink")
-  - [小林徹夫](https://ja.wikipedia.org/wiki/小林徹夫 "wikilink")
-  - [佐々木淳吾](https://ja.wikipedia.org/wiki/佐々木淳吾 "wikilink")
+  - [小林徹夫](../Page/小林徹夫.md "wikilink")
+  - [佐々木淳吾](../Page/佐々木淳吾.md "wikilink")
   - [宮田敬子](../Page/宮田敬子.md "wikilink")（後番組『ニュースの森 TBC』も続投）
 
 ## 関連項目
 
   - [河北新報ニュース](../Page/河北新報ニュース.md "wikilink")
-  - [JNN夕方ローカルニュース一覧](https://ja.wikipedia.org/wiki/JNN夕方ローカルニュース一覧 "wikilink")
+  - [JNN夕方ローカルニュース一覧](../Page/JNN夕方ローカルニュース一覧.md "wikilink")
   - [イブニング・ニュース TBC](../Page/イブニング・ニュース_TBC.md "wikilink")
   - [ニュースの森 TBC](../Page/ニュースの森_TBC.md "wikilink")
   - [TBCニュースの森](../Page/TBCニュースの森.md "wikilink")

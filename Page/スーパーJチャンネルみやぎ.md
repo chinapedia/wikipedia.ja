@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - [松本龍](https://ja.wikipedia.org/wiki/松本龍_\(アナウンサー\) "wikilink")（月 - 金曜） - 2016年3月までは吉岡が不在時に担当。2017年3月までは木曜までの担当。
+  - [松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink")（月 - 金曜） - 2016年3月までは吉岡が不在時に担当。2017年3月までは木曜までの担当。
 
 <!-- end list -->
 
@@ -74,13 +74,13 @@
   - [大江和美](https://ja.wikipedia.org/wiki/大江和美 "wikilink")（日本気象協会）
   - [奥村奈津美](../Page/奥村奈津美.md "wikilink")（2009年4月 - 2011年3月、[NHK広島放送局](../Page/NHK広島放送局.md "wikilink")へ移籍）
   - [竹内真理](../Page/竹内真理.md "wikilink")（2011年4月 - 2012年9月）
-  - [奈良岡希実子](https://ja.wikipedia.org/wiki/奈良岡希実子 "wikilink")（[日本気象協会](https://ja.wikipedia.org/wiki/日本気象協会 "wikilink")、2010年4月 - 2014年3月）
+  - [奈良岡希実子](https://ja.wikipedia.org/wiki/奈良岡希実子 "wikilink")（[日本気象協会](../Page/日本気象協会.md "wikilink")、2010年4月 - 2014年3月）
   - [阿部美里](https://ja.wikipedia.org/wiki/阿部美里 "wikilink")（2012年10月 - 2015年3月）
   - [渋佐和佳奈](https://ja.wikipedia.org/wiki/渋佐和佳奈 "wikilink")（2015年4月 - 2016年9月）
-  - [樋口康弘](https://ja.wikipedia.org/wiki/樋口康弘 "wikilink")（[日本気象協会](https://ja.wikipedia.org/wiki/日本気象協会 "wikilink")、2014年4月 - 2015年3月）
+  - [樋口康弘](https://ja.wikipedia.org/wiki/樋口康弘 "wikilink")（[日本気象協会](../Page/日本気象協会.md "wikilink")、2014年4月 - 2015年3月）
   - [綾木紫乃](https://ja.wikipedia.org/wiki/綾木紫乃 "wikilink")（日本気象協会、2015年4月 - 8月）
   - [吉岡伸悟](../Page/吉岡伸悟.md "wikilink")
-  - [高山香織](https://ja.wikipedia.org/wiki/高山香織 "wikilink")
+  - [高山香織](../Page/高山香織.md "wikilink")
   - [糸井文菜](https://ja.wikipedia.org/wiki/糸井文菜 "wikilink")
 
 ## コーナー

@@ -3,7 +3,7 @@
 
 **SUPER STUPID**（スーパー・ステューピッド）は1993年に結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")1999年活動停止。[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")の[棚橋弘至](../Page/棚橋弘至.md "wikilink")が入場曲に「DO IT MY SELF」を使用していた。今でも、新日本プロレスの別ブランド興行にて使用している。
 
-ドラムのHIROSHI加入までは、[Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")の恒岡章がサポートドラマーとして参加していた。（1stアルバムより以前の音源は全て恒岡が演奏）
+ドラムのHIROSHI加入までは、[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")の恒岡章がサポートドラマーとして参加していた。（1stアルバムより以前の音源は全て恒岡が演奏）
 
 ## メンバー
 
@@ -23,7 +23,7 @@
 
 ### アルバム
 
-  - WHAT A HELL'S GOING ON（1996年10月21日）[ソニーレコードより発売](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
+  - WHAT A HELL'S GOING ON（1996年10月21日）[ソニーレコードより発売](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
     1.  WHAT A HELL'S GOING ON?
     2.  STOMP\!STOMP\!STOMP\!
     3.  ROCK STAND
@@ -48,7 +48,7 @@
 
 ### その他
 
-  - SPLIT 「PULL UP FROM THE UNDERGROUND」w/YOUNG PINE([Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")+[COKEHEAD HIPSTERS](../Page/COKEHEAD_HIPSTERS.md "wikilink"))（1995年）
+  - SPLIT 「PULL UP FROM THE UNDERGROUND」w/YOUNG PINE([Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")+[COKEHEAD HIPSTERS](../Page/COKEHEAD_HIPSTERS.md "wikilink"))（1995年）
     1.  SUPER STUPID
     2.  SOLDIER
     3.  GAS BAG
@@ -65,7 +65,7 @@
 
   -
     6.SOLDIER（SUPER STUPID）
-    11.夢遊人（SUPER STUPID&[四街道ネイチャー](https://ja.wikipedia.org/wiki/四街道ネイチャー "wikilink")）
+    11.夢遊人（SUPER STUPID&[四街道ネイチャー](../Page/四街道ネイチャー.md "wikilink")）
     17.SUPER STUPID（SUPER STUPID）
 
 <!-- end list -->
@@ -89,7 +89,7 @@
   -
   - [cocobat](https://ja.wikipedia.org/wiki/cocobat "wikilink")
 
-  - [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink")
+  - [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")
 
   - [PIZZA OF DEATH RECORDS](../Page/PIZZA_OF_DEATH_RECORDS.md "wikilink")
 

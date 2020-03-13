@@ -9,7 +9,7 @@
 
 [1952年](../Page/1952年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に形式証明が下り、前述のOPAS社を含む最初の納入先への引き渡しが始まった。主に僻地での貨客輸送機として使用され、評判は非常に高く、「オッターのパイロットが町へ出てくるのは年に一度。機体の[オーバーホール](https://ja.wikipedia.org/wiki/オーバーホール "wikilink")と自分の髭を剃る時だけである」とさえ言われたという。軍用輸送機としても[アメリカなど多くの国で導入された](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（アメリカ軍での呼称は**U-1**）。生産は[1967年](../Page/1967年.md "wikilink")に終了し、生産された466機の内359機は軍用機として使用されたものだった。
 
-ビーバーと異なり本機の[ターボプロップ型は開発されなかったが](https://ja.wikipedia.org/wiki/ターボプロップエンジン "wikilink")、いくつかの会社がターボプロップエンジンへの換装を請け負った他、デ・ハビランド・カナダ社は本機をターボプロップ双発とした[DHC-6 ツイン・オッターを開発している](https://ja.wikipedia.org/wiki/デ・ハビランド・カナダ_DHC-6 "wikilink")。
+ビーバーと異なり本機の[ターボプロップ型は開発されなかったが](../Page/ターボプロップエンジン.md "wikilink")、いくつかの会社がターボプロップエンジンへの換装を請け負った他、デ・ハビランド・カナダ社は本機をターボプロップ双発とした[DHC-6 ツイン・オッターを開発している](../Page/デ・ハビランド・カナダ_DHC-6.md "wikilink")。
 
 ## 採用国（軍用）
 
@@ -39,7 +39,7 @@
 
 ## 日本のDHC-3
 
-[1958年](../Page/1958年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")に、[日東航空](../Page/日東航空.md "wikilink")がJA3115機を導入し「つばめ号」（客席数14）として就航した。しかし、つばめ号は[1963年](../Page/1963年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[兵庫県](../Page/兵庫県.md "wikilink")[三原郡](../Page/三原郡.md "wikilink")[南淡町](../Page/南淡町.md "wikilink")（現在の[南あわじ市](../Page/南あわじ市.md "wikilink")）にある[諭鶴羽山](https://ja.wikipedia.org/wiki/諭鶴羽山 "wikilink")へ墜落したため喪失した（[日東航空つばめ号墜落事故](https://ja.wikipedia.org/wiki/日東航空つばめ号墜落事故 "wikilink")）。
+[1958年](../Page/1958年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")に、[日東航空](../Page/日東航空.md "wikilink")がJA3115機を導入し「つばめ号」（客席数14）として就航した。しかし、つばめ号は[1963年](../Page/1963年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[兵庫県](../Page/兵庫県.md "wikilink")[三原郡](../Page/三原郡.md "wikilink")[南淡町](../Page/南淡町.md "wikilink")（現在の[南あわじ市](../Page/南あわじ市.md "wikilink")）にある[諭鶴羽山](../Page/諭鶴羽山.md "wikilink")へ墜落したため喪失した（[日東航空つばめ号墜落事故](../Page/日東航空つばめ号墜落事故.md "wikilink")）。
 
 ## 諸元
 

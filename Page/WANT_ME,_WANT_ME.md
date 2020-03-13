@@ -5,12 +5,12 @@
 
 ## 解説
 
-  - [CD](../Page/コンパクトディスク.md "wikilink")＋[DVD](../Page/DVD-Video.md "wikilink")（ジャケットA）、CD（ジャケットB）の2パターンでリリース。CDのみカップリング曲「HANDLE ME」が収録された。前々作「[ALL FOR YOU](https://ja.wikipedia.org/wiki/ALL_FOR_YOU_\(安室奈美恵の曲\) "wikilink")」、前作「[GIRL TALK/the SPEED STAR](https://ja.wikipedia.org/wiki/GIRL_TALK/the_SPEED_STAR "wikilink")」同様[韓国でも同時リリースされた](../Page/大韓民国.md "wikilink")（CDのみのリリースであり、CD+DVDは未発売）。
-  - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")に[MICHICO](../Page/MICHICO.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")のトラックメーカーであるSUGI-Vをプロデューサーに抜擢。歌詞には[コンドーム](../Page/コンドーム.md "wikilink")の商標名「Trojan」が出てくるなど、過激なものとなっている。
+  - [CD](../Page/コンパクトディスク.md "wikilink")＋[DVD](../Page/DVD-Video.md "wikilink")（ジャケットA）、CD（ジャケットB）の2パターンでリリース。CDのみカップリング曲「HANDLE ME」が収録された。前々作「[ALL FOR YOU](../Page/ALL_FOR_YOU_\(安室奈美恵の曲\).md "wikilink")」、前作「[GIRL TALK/the SPEED STAR](https://ja.wikipedia.org/wiki/GIRL_TALK/the_SPEED_STAR "wikilink")」同様[韓国でも同時リリースされた](../Page/大韓民国.md "wikilink")（CDのみのリリースであり、CD+DVDは未発売）。
+  - [作詞](../Page/作詞.md "wikilink")に[MICHICO](../Page/MICHICO.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")・[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")のトラックメーカーであるSUGI-Vをプロデューサーに抜擢。歌詞には[コンドーム](../Page/コンドーム.md "wikilink")の商標名「Trojan」が出てくるなど、過激なものとなっている。
   - 当初はシングルのカップリングか、続いてリリースのアルバム『[Queen of Hip-Pop](../Page/Queen_of_Hip-Pop.md "wikilink")』に収録される予定だったが、安室本人の強い意向により急遽シングル曲としてリリースされた。
-  - 同年3月に開催された日本最大級の[ファッション・イベント](../Page/ファッションショー.md "wikilink")“[神戸コレクション](../Page/神戸コレクション.md "wikilink")”に出演。[3月5日](../Page/3月5日.md "wikilink")に開催された「神戸コレクション2005 in [神戸ファッションマート](https://ja.wikipedia.org/wiki/神戸ファッションマート "wikilink")」では、WANT ME, WANT MEにのって、この日一番の歓声を浴びながらステージをウォーキング。3月20日に開催された「神戸コレクション2005 in [東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")」では、シークレット・ゲストとして大トリで登場し、発売に先駆けてWANT ME, WANT MEを初披露。
-  - 同年[5月29日](../Page/5月29日.md "wikilink")に[東京ベイNKホール](https://ja.wikipedia.org/wiki/東京ベイNKホール "wikilink")で開催された「[MTV Video Music Awards Japan 2005](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards "wikilink")」にパフォーミングアーティストとして出演し、WANT ME, WANT MEをパフォーマンス。「Best R\&B Video（受賞作品：GIRL TALK）」、SPECIAL AWARDSとして「Most Impressivle Performing Artist In Asia（アジア最優秀パフォーミング・ビデオ賞）」の2冠を達成（4年連続受賞）。
-  - コラボレーション・ベストアルバム『[Checkmate\!](https://ja.wikipedia.org/wiki/Checkmate! "wikilink")』には、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）と[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")したものが[シークレット・トラックとして収録されている](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")。
+  - 同年3月に開催された日本最大級の[ファッション・イベント](../Page/ファッションショー.md "wikilink")“[神戸コレクション](../Page/神戸コレクション.md "wikilink")”に出演。[3月5日](../Page/3月5日.md "wikilink")に開催された「神戸コレクション2005 in [神戸ファッションマート](../Page/神戸ファッションマート.md "wikilink")」では、WANT ME, WANT MEにのって、この日一番の歓声を浴びながらステージをウォーキング。3月20日に開催された「神戸コレクション2005 in [東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")」では、シークレット・ゲストとして大トリで登場し、発売に先駆けてWANT ME, WANT MEを初披露。
+  - 同年[5月29日](../Page/5月29日.md "wikilink")に[東京ベイNKホール](../Page/東京ベイNKホール.md "wikilink")で開催された「[MTV Video Music Awards Japan 2005](../Page/MTV_Video_Music_Awards.md "wikilink")」にパフォーミングアーティストとして出演し、WANT ME, WANT MEをパフォーマンス。「Best R\&B Video（受賞作品：GIRL TALK）」、SPECIAL AWARDSとして「Most Impressivle Performing Artist In Asia（アジア最優秀パフォーミング・ビデオ賞）」の2冠を達成（4年連続受賞）。
+  - コラボレーション・ベストアルバム『[Checkmate\!](https://ja.wikipedia.org/wiki/Checkmate! "wikilink")』には、[VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）と[コラボレーション](../Page/コラボレーション.md "wikilink")したものが[シークレット・トラックとして収録されている](../Page/隠しトラック.md "wikilink")。
 
 ## 収録曲
 
@@ -21,7 +21,7 @@
 <!-- end list -->
 
 1.  **WANT ME, WANT ME**
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[MICHICO](../Page/MICHICO.md "wikilink")／[作曲](../Page/作曲.md "wikilink")：MICHICO, SUGI-V／[編曲](../Page/編曲.md "wikilink")：SUGI-V
+      - [作詞](../Page/作詞.md "wikilink")：[MICHICO](../Page/MICHICO.md "wikilink")／[作曲](../Page/作曲.md "wikilink")：MICHICO, SUGI-V／[編曲](../Page/編曲.md "wikilink")：SUGI-V
 2.  **WANT ME, WANT ME** (INSTRUMENTAL)
 
 <!-- end list -->
@@ -30,7 +30,7 @@
 
 <!-- end list -->
 
-1.  **WANT ME, WANT ME** ([MUSIC VIDEO](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink"))
+1.  **WANT ME, WANT ME** ([MUSIC VIDEO](../Page/ミュージック・ビデオ.md "wikilink"))
       - ディレクター：武藤真志／振付：Warner
 
 ### CD
@@ -47,7 +47,7 @@
   - ベストアルバム『[BEST FICTION](../Page/BEST_FICTION.md "wikilink")』
   - コラボレーション・ベストアルバム『[Checkmate\!](https://ja.wikipedia.org/wiki/Checkmate! "wikilink")』
       -
-        [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")
+        [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink")（[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")）との[コラボレーション](../Page/コラボレーション.md "wikilink")
   - ベストアルバム『[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")』
       -
         楽曲を再録・ニューレコーディングで収録。

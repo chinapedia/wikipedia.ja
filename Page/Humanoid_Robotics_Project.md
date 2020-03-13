@@ -1,7 +1,7 @@
 > この記事は[Humanoid Robotics Project](https://ja.wikipedia.org/wiki/Humanoid_Robotics_Project)から翻訳されています。
 
 
-**Humanoid Robotics Project**（略称: *HRP*）とは、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の井上博允教授をリーダーとした「人間協調・共存型ロボットシステム」の[研究開発](https://ja.wikipedia.org/wiki/研究開発 "wikilink")のこと。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[通商産業省](https://ja.wikipedia.org/wiki/通商産業省 "wikilink")（当時）・[経済産業省](../Page/経済産業省.md "wikilink")（[中央省庁再編](../Page/中央省庁再編.md "wikilink")後）主導の下、[新エネルギー・産業技術総合開発機構](https://ja.wikipedia.org/wiki/新エネルギー・産業技術総合開発機構 "wikilink")（NEDO）と、[財団法人](../Page/財団法人.md "wikilink")[製造科学技術センター](https://ja.wikipedia.org/wiki/製造科学技術センター "wikilink")（MSTC）を管理法人とし、[独立行政法人](../Page/独立行政法人.md "wikilink")[産業技術総合研究所](../Page/産業技術総合研究所.md "wikilink")との共同研究により5ヵ年計画で実施された。
+**Humanoid Robotics Project**（略称: *HRP*）とは、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の井上博允教授をリーダーとした「人間協調・共存型ロボットシステム」の[研究開発](../Page/研究開発.md "wikilink")のこと。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")から[通商産業省](https://ja.wikipedia.org/wiki/通商産業省 "wikilink")（当時）・[経済産業省](../Page/経済産業省.md "wikilink")（[中央省庁再編](../Page/中央省庁再編.md "wikilink")後）主導の下、[新エネルギー・産業技術総合開発機構](../Page/新エネルギー・産業技術総合開発機構.md "wikilink")（NEDO）と、[財団法人](../Page/財団法人.md "wikilink")[製造科学技術センター](https://ja.wikipedia.org/wiki/製造科学技術センター "wikilink")（MSTC）を管理法人とし、[独立行政法人](../Page/独立行政法人.md "wikilink")[産業技術総合研究所](../Page/産業技術総合研究所.md "wikilink")との共同研究により5ヵ年計画で実施された。
 
 研究目的は「働く人間型ロボットの実用性を示す」ことであり、最初の成果機として[2000年](../Page/2000年.md "wikilink")に[ホンダ・P3を改良したHRP](https://ja.wikipedia.org/wiki/P3_\(ホンダ\) "wikilink")-1が、2003年には最終成果機として[HRP-2](../Page/HRP-2.md "wikilink")が発表された。
 設計製作を川田工業、全体仕様設計を産総研知能システム研究部門ヒューマノイド研究グループ、腕部仕様設計を安川電機、視覚部仕様設計を産総研知能システム研究部門3次元視覚研究グループ及び清水建設が担当した。

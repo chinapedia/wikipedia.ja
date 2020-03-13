@@ -11,10 +11,10 @@
   - [THE THREE THEATER](../Page/THE_THREE_THEATER.md "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）※ナレーション
   - [爆笑レッドシアター](https://ja.wikipedia.org/wiki/爆笑レッドシアター "wikilink")（フジテレビ系）※ナレーション
   - [スーパーチャンプル](../Page/スーパーチャンプル.md "wikilink")（[中京テレビ制作](../Page/中京テレビ放送.md "wikilink")・[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")）※ナレーション
-  - [女優魂](https://ja.wikipedia.org/wiki/女優魂 "wikilink")（中京テレビ制作・日本テレビ系）※ナレーション
-  - [少年チャンプル](https://ja.wikipedia.org/wiki/少年チャンプル "wikilink")（中京テレビ制作・日本テレビ系）※ナレーション
+  - [女優魂](../Page/女優魂.md "wikilink")（中京テレビ制作・日本テレビ系）※ナレーション
+  - [少年チャンプル](../Page/少年チャンプル.md "wikilink")（中京テレビ制作・日本テレビ系）※ナレーション
   - [まんとら〜マンガ虎の穴〜](../Page/まんとら〜マンガ虎の穴〜.md "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）※ナレーション
-  - ハンナ（[ディズニー・チャンネル](https://ja.wikipedia.org/wiki/ディズニー・チャンネル "wikilink")）※テレビ番組のDJ役
+  - ハンナ（[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")）※テレビ番組のDJ役
 
 ### ラジオ
 

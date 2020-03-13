@@ -82,7 +82,7 @@ Microsoft Windows</p></td>
 <td></td>
 <td><p>Studio 33 (PS)</p></td>
 <td><p>2001年度のデータを収録。<br />
-PS2版は<a href="https://ja.wikipedia.org/wiki/ロジクール" title="wikilink">ロジクール</a>製の<a href="https://ja.wikipedia.org/wiki/ステアリングコントローラ" title="wikilink">ステアリングコントローラ</a>「GT FORCE」へ対応した（以降のシリーズ作品も同じ）。</p></td>
+PS2版は<a href="../Page/ロジクール.md" title="wikilink">ロジクール</a>製の<a href="../Page/ステアリングコントローラ.md" title="wikilink">ステアリングコントローラ</a>「GT FORCE」へ対応した（以降のシリーズ作品も同じ）。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
@@ -130,7 +130,7 @@ PS2版は<a href="https://ja.wikipedia.org/wiki/ロジクール" title="wikilink
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a></p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a></p></td>
 <td><p><a href="../Page/Formula_One_2005.md" title="wikilink">Formula One 2005 Portable</a></p></td>
 <td></td>
 <td></td>
@@ -156,7 +156,7 @@ PS2版は<a href="https://ja.wikipedia.org/wiki/ロジクール" title="wikilink
 <td></td>
 <td></td>
 <td><p>シリーズ最終作品。日本において先行発売された。<br />
-シーズン当初のデータに沿った『2006』と異なり、<a href="https://ja.wikipedia.org/wiki/ドイツグランプリ" title="wikilink">ドイツGP以降のデータを収録</a>。</p></td>
+シーズン当初のデータに沿った『2006』と異なり、<a href="../Page/ドイツグランプリ.md" title="wikilink">ドイツGP以降のデータを収録</a>。</p></td>
 <td></td>
 </tr>
 </tbody>

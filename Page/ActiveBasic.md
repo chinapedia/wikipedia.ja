@@ -3,7 +3,7 @@
 
 **ActiveBasic**（**アクティブ ベーシック**、*AB*）は、[1999年](../Page/1999年.md "wikilink")に[N88-BASIC](../Page/N88-BASIC.md "wikilink")互換の[インタプリタ言語](https://ja.wikipedia.org/wiki/インタプリタ言語 "wikilink")として、山本大祐が個人で開発した[BASIC](../Page/BASIC.md "wikilink")言語である。近年のBASIC派生の言語である[Visual Basic等とは別に独自の進化を遂げてきた](https://ja.wikipedia.org/wiki/Microsoft_Visual_Basic "wikilink")。
 
-[2002年](../Page/2002年.md "wikilink")に登場したバージョン2.5からは、[RADツールを搭載](https://ja.wikipedia.org/wiki/RAD_\(計算機プログラミング環境\) "wikilink")。[2003年](../Page/2003年.md "wikilink")のバージョン3.0からは、ネイティブ[コンパイラ](../Page/コンパイラ.md "wikilink")を搭載し[インタプリタ](../Page/インタプリタ.md "wikilink")方式からコンパイラ方式に変わるなど、年々より本格的な仕様になってきている。また、ActiveBasicは[フリーウェア](../Page/フリーウェア.md "wikilink")である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")や[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")に対応したバージョン4.0が公開された。
+[2002年](../Page/2002年.md "wikilink")に登場したバージョン2.5からは、[RADツールを搭載](https://ja.wikipedia.org/wiki/RAD_\(計算機プログラミング環境\) "wikilink")。[2003年](../Page/2003年.md "wikilink")のバージョン3.0からは、ネイティブ[コンパイラ](../Page/コンパイラ.md "wikilink")を搭載し[インタプリタ](../Page/インタプリタ.md "wikilink")方式からコンパイラ方式に変わるなど、年々より本格的な仕様になってきている。また、ActiveBasicは[フリーウェア](../Page/フリーウェア.md "wikilink")である。[2005年](../Page/2005年.md "wikilink")、[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")や[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")に対応したバージョン4.0が公開された。
 
 また作者は、バージョン5.0で64ビット[コンパイラ](../Page/コンパイラ.md "wikilink")を搭載し、[Windows Vistaへの完全対応をアナウンスしていたが](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、その[コンパイラ](../Page/コンパイラ.md "wikilink")の公開を前倒しし、バージョン4.20から64ビットコンパイラが搭載された。（32ビットコンパイラが無くなったわけではない）
 
@@ -14,7 +14,7 @@
 基本的にバージョン3以降は[C言語](../Page/C言語.md "wikilink")や、バージョン4になってくると[C++](../Page/C++.md "wikilink")そして[Java](https://ja.wikipedia.org/wiki/Java "wikilink")などの影響を強く受けている。具体的には、従来のBASICに見られない機能として次のようなものがある。
 
   - [ポインタ](../Page/ポインタ_\(プログラミング\).md "wikilink") : 特にポインタ演算や関数へのポインタの存在。[malloc/free関数やNew](https://ja.wikipedia.org/wiki/標準Cライブラリ#一般ユーティリティ_\<stdlib.h\> "wikilink")/Delete演算子も存在する。
-    [クラス](../Page/クラス_\(コンピュータ\).md "wikilink") : 特にバージョン5からは[単一継承及び](https://ja.wikipedia.org/wiki/継承_\(プログラミング\) "wikilink")[インタフェースの多重継承という](../Page/インタフェース_\(情報技術\).md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")に近い仕組みが搭載されるとアナウンスされている。
+    [クラス](../Page/クラス_\(コンピュータ\).md "wikilink") : 特にバージョン5からは[単一継承及び](../Page/継承_\(プログラミング\).md "wikilink")[インタフェースの多重継承という](../Page/インタフェース_\(情報技術\).md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")に近い仕組みが搭載されるとアナウンスされている。
     /\* 〜 \*/による[ブロックコメント](../Page/コメント_\(コンピュータ\).md "wikilink") : **'** （シングルクォーテーション）による1行コメントは無くなっていないが、バージョン3からREMは廃止された。
     [プリプロセッサ](../Page/プリプロセッサ.md "wikilink") : ただし条件コンパイルなどが中心でマクロ置換はない。
     [ガベージコレクション](../Page/ガベージコレクション.md "wikilink") : 評価版であるAB5 CP3より保守的GCが搭載された。
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - バージョン4.0リリース。[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")・[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")・[COM](../Page/Component_Object_Model.md "wikilink")・64ビット整数型に対応。
+  - [2005年](../Page/2005年.md "wikilink") - バージョン4.0リリース。[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")・[DirectX](https://ja.wikipedia.org/wiki/DirectX "wikilink")・[COM](../Page/Component_Object_Model.md "wikilink")・64ビット整数型に対応。
 
 <!-- end list -->
 

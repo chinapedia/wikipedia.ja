@@ -20,7 +20,7 @@
 ### 主要人物
 
   - キバ
-    [声](../Page/声優.md "wikilink") - [宮野真守](https://ja.wikipedia.org/wiki/宮野真守 "wikilink")\[5\]
+    [声](../Page/声優.md "wikilink") - [宮野真守](../Page/宮野真守.md "wikilink")\[5\]
     本作の主人公。狼の本能で楽園を目指す白い狼。人間の姿になった時はボサッとした黒髪と青瞳を持つ。服は、白いシャツに黒のフライトジャケット、青のジーンズ、スニーカーを身に着け、袖は肘当たりまで捲ってある。今まで群れをなさず、人間の姿にもならず生きてきたが、ヒゲとの出会いで一時的に人間の姿になって人間を惑わすことを覚える。直感で行動する事が多い。幼い頃に月の花が咲き乱れる土地に群れて暮らしていたが、人間にそこを焼き払われ唯一生き残った過去がある。その後、人間に拾われ少しの間飼われていた。自分にはもう群れも無い、帰る場所も無い、という絶望にも似た想いから楽園を目指す。チェザとは他の3匹よりも仲が良い模様。
   - ツメ
     声 - [三宅健太](../Page/三宅健太.md "wikilink")\[6\]
@@ -29,7 +29,7 @@
     声 - [陶山章央](../Page/陶山章央.md "wikilink")\[7\]
     敏感な嗅覚を持つ狼。毛はこげ茶で体毛が多く太ってみえる。「Χ」と刻まれた首輪をしている。人間の姿になった時は明るい茶色の髪。肩に黒いスジが入り袖が灰色の黄色いパーカーとややだぼっとしたズボンを穿いている。あちこち気ままに放浪していた所を貴族に捕らわれているキバに出会い、面白そうだからという理由で楽園を目指す旅に同行する。飄々とした雰囲気を持っている。小太りで食べ物には目がない。元々は群れで行動していた模様。基本的には女好きだが、吹雪の中、女性と子供は休ませるようキバに仕向けるなど、頼れる一面も見せる。
   - トオボエ
-    声 - [下和田裕貴](https://ja.wikipedia.org/wiki/下和田ヒロキ "wikilink")\[8\]
+    声 - [下和田裕貴](../Page/下和田ヒロキ.md "wikilink")\[8\]
     茶色の狼。4匹の中で最も幼く、カラスにも馬鹿にされるほど気弱で怖がり屋。人間の姿になった時は赤茶色の上着に緑のズボンを穿いている。狼の時と同じく右腕（右前足）に腕輪を嵌めている。長い間人間に飼われていたが、飼い主と死に別れたため生活に困っていた。飼われていた時に付けられた腕輪をずっとしている。好んで遠吠えをするが肝心な時に遠吠えを忘れてしまうなど、まだ幼い面を見せる。口癖は、主に「今準備してるんだよ\!」。
   - チェザ
     声 - [小笠原亜里沙](../Page/小笠原亜里沙.md "wikilink")
@@ -38,7 +38,7 @@
     声 - [宮本充](../Page/宮本充.md "wikilink")\[9\]
     オーカムの傘下の警察官で、シェールの元夫。クエントを捕まえた事から徐々に狼を取り巻く謎に巻き込まれていき、シェールがチェザを探しに旅立った事をきっかけに警察官を辞め、クエントと共にシェールを追う旅に出る。離婚したシェールとはまだ気があるためか度々連絡をとっている。
   - シェール・ドゥグレ
-    声 - [幸田夏穂](https://ja.wikipedia.org/wiki/幸田夏穂 "wikilink")\[10\]
+    声 - [幸田夏穂](../Page/幸田夏穂.md "wikilink")\[10\]
     オーカムのラボでチェザの研究をしていた女性科学者。月の書を持っており、チェザの研究にのめり込むうちに狼を取り巻く謎に巻き込まれていく。ハブとは夫婦であったが、お互いの距離が次第に離れたため離婚した。
   - クエント・ヤイデン
     声 - [石塚運昇](../Page/石塚運昇.md "wikilink")\[11\]
@@ -47,7 +47,7 @@
     声 - [浅野まゆみ](../Page/浅野まゆみ.md "wikilink")
     クエントと一緒に狼抹殺の旅をしていた雌の[狼犬](../Page/狼犬.md "wikilink")。人間の姿になった時は赤いスカーフと黒いコートの青瞳の女性。チェザとの偶然の接触で、狼の血に目覚めたためクエントから離れる。自分が何者か知るべくキバ達の旅に同行する。しかし、クエントを嫌いになった訳ではなく、離れている間も「親父さん」とクエントを想う。旅が進むにつれ、ヒゲに魅かれてゆく。戦闘力も比較的高く、他の狼にひけをとらない。
   - ダルシア三世
-    声 - [黒田崇矢](https://ja.wikipedia.org/wiki/黒田崇矢 "wikilink")
+    声 - [黒田崇矢](../Page/黒田崇矢.md "wikilink")
     没落した貴族の男性。チェザについて熟知している。普段左目に眼帯をしているが、そこには狼の目が隠されている。恋人のハモナが楽園病になったことから楽園を目指している。
 
 ### その他の人物
@@ -71,7 +71,7 @@
     声 - [尾形雅宏](../Page/尾形雅宏.md "wikilink")
     ツメがリーダーをしていた窃盗団のメンバーの少年。メガネ型のゴーグルを掛けている。
   - ミュウ
-    声 - [稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")
+    声 - [稲村優奈](../Page/稲村優奈.md "wikilink")
     [カラカル](../Page/カラカル.md "wikilink")の少女。キバが永遠の園へ迷い込んだ際に現れた。キバに対して好意的に接しこの場に留まるよう誘うが、その正体はかつて巨大な毒草の餌食になった魂であり現世での記憶をほぼ失った状態（人格や理性はある）。事実上疑似餌のような役割を担っている。後に長老（声 - [槐柳二](../Page/槐柳二.md "wikilink")）によってキバの魂が戻された際には涙ながらに別れを言い彼を現世に帰した。
   - レアラ
     声 - [仙台エリ](../Page/仙台エリ.md "wikilink")
@@ -80,7 +80,7 @@
     声 - [川田妙子](../Page/川田妙子.md "wikilink")
     ダルシアに仕える女性。ひたすらダルシアに従っていたが、ジャガラ侵攻の際に扉に磔にされていた。その後、空中艇の撃ったビームの爆発に巻き込まれる。生死は不明。
   - ザリ
-    声 - [楠見尚己](https://ja.wikipedia.org/wiki/楠見尚己 "wikilink")
+    声 - [楠見尚己](../Page/楠見尚己.md "wikilink")
     人間の街に住む狼の群れを統率するリーダー。人間時の姿は中年の男性。左頬に大きな切り傷がある。かつて楽園を目指していた。
   - コール
     声 - [湯屋敦子](../Page/湯屋敦子.md "wikilink")
@@ -118,8 +118,8 @@
 ## スタッフ
 
   - 原作 - [BONES](../Page/ボンズ_\(アニメ制作会社\).md "wikilink")、[信本敬子](../Page/信本敬子.md "wikilink")
-  - 監督 - [岡村天斎](https://ja.wikipedia.org/wiki/岡村天斎 "wikilink")
-  - キャラクターデザイン - [川元利浩](https://ja.wikipedia.org/wiki/川元利浩 "wikilink")
+  - 監督 - [岡村天斎](../Page/岡村天斎.md "wikilink")
+  - キャラクターデザイン - [川元利浩](../Page/川元利浩.md "wikilink")
   - 美術デザイン - [岡田有章](https://ja.wikipedia.org/wiki/岡田有章 "wikilink")、武半慎吾
   - メカニカルデザイン - [荒牧伸志](../Page/荒牧伸志.md "wikilink")
   - 美術監督 - 森川篤
@@ -161,9 +161,9 @@
 <td><p>1</p></td>
 <td><p>咆哮の街角</p></td>
 <td><p><a href="../Page/信本敬子.md" title="wikilink">信本敬子</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岡村天斎" title="wikilink">岡村天斎</a></p></td>
+<td><p><a href="../Page/岡村天斎.md" title="wikilink">岡村天斎</a></p></td>
 <td><p>武井良幸</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川元利浩" title="wikilink">川元利浩</a></p></td>
+<td><p><a href="../Page/川元利浩.md" title="wikilink">川元利浩</a></p></td>
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/1月6日.md" title="wikilink">1月6日</a></p></td>
 </tr>
 <tr class="even">
@@ -179,7 +179,7 @@
 <td><p>3</p></td>
 <td><p>BAD FELLOW</p></td>
 <td><p>武井良幸</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/逢坂浩司" title="wikilink">逢坂浩司</a></p></td>
+<td><p><a href="../Page/逢坂浩司.md" title="wikilink">逢坂浩司</a></p></td>
 <td><p>2003年<a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
 <td></td>
 <td></td>
@@ -216,7 +216,7 @@
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>花の少女</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/佐藤大" title="wikilink">佐藤大</a></p></td>
+<td><p><a href="../Page/佐藤大.md" title="wikilink">佐藤大</a></p></td>
 <td><p>岡村天斎</p></td>
 <td><p>武井良幸</p></td>
 <td><p>斎藤恒徳</p></td>
@@ -243,8 +243,8 @@
 <tr class="even">
 <td><p>10</p></td>
 <td><p>MOON'S DOOM</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大河内一楼" title="wikilink">大河内一楼</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村博之_(イラストレーター)" title="wikilink">西村博之</a></p></td>
+<td><p><a href="../Page/大河内一楼.md" title="wikilink">大河内一楼</a></p></td>
+<td><p><a href="../Page/西村博之_(イラストレーター).md" title="wikilink">西村博之</a></p></td>
 <td><p>佐藤育郎</p></td>
 <td><p>富岡隆司</p></td>
 <td><p>2003年<a href="../Page/4月7日.md" title="wikilink">4月7日</a></p></td>
@@ -375,7 +375,7 @@
 <td><p>罠の匂い</p></td>
 <td><p><a href="../Page/浅川美也.md" title="wikilink">浅川美也</a></p></td>
 <td><p>岡村天斎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/京田知己" title="wikilink">京田知己</a><br />
+<td><p><a href="../Page/京田知己.md" title="wikilink">京田知己</a><br />
 安藤真裕</p></td>
 <td><p>富岡隆司</p></td>
 <td><p>2003年<a href="../Page/7月14日.md" title="wikilink">7月14日</a></p></td>
@@ -479,7 +479,7 @@
 <td><p>初回は26:40 -</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a> （TNC）</p></td>
 <td><p>水曜 25:25 - 25:55</p></td>
 <td><p>9日遅れ</p></td>
@@ -513,7 +513,7 @@
 
 ## 単行本
 
-  - WOLF'S RAIN 1 （[講談社](../Page/講談社.md "wikilink")）[2003年](../Page/2003年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")初版発行 ISBN 4063491390
+  - WOLF'S RAIN 1 （[講談社](../Page/講談社.md "wikilink")）[2003年](../Page/2003年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")初版発行 ISBN 4063491390
   - WOLF'S RAIN 2 （講談社）[2004年](../Page/2004年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")初版発行 ISBN 4063491617
 
 ## ソフト化

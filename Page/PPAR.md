@@ -1,7 +1,7 @@
 > この記事は[PPAR](https://ja.wikipedia.org/wiki/PPAR)から翻訳されています。
 
 
-[PPAR-diagram.png](https://ja.wikipedia.org/wiki/File:PPAR-diagram.png "fig:PPAR-diagram.png") [細胞生物学](https://ja.wikipedia.org/wiki/細胞生物学 "wikilink")においては、**peroxisome proliferator-activated receptor** (**PPAR**:邦訳は確定的ではないが、「ペルオキシゾーム増殖剤応答性受容体」など)は殆どの[脊椎動物](../Page/脊椎動物.md "wikilink")において[発現](https://ja.wikipedia.org/wiki/発現 "wikilink")している[核内受容体](../Page/核内受容体.md "wikilink")の一種のことである。[細胞](../Page/細胞.md "wikilink")内の[ペルオキシゾーム](https://ja.wikipedia.org/wiki/ペルオキシゾーム "wikilink")の増生を誘導するレセプターとして[アフリカツメガエル](../Page/アフリカツメガエル.md "wikilink")において初めて発見され[炭化水素](../Page/炭化水素.md "wikilink")、[脂質](../Page/脂質.md "wikilink")、[タンパク質](../Page/タンパク質.md "wikilink")等の[細胞](../Page/細胞.md "wikilink")内代謝と細胞の[分化](https://ja.wikipedia.org/wiki/分化 "wikilink")に密接に関与している[転写因子](https://ja.wikipedia.org/wiki/転写因子 "wikilink")群であるとされている。
+[PPAR-diagram.png](https://ja.wikipedia.org/wiki/File:PPAR-diagram.png "fig:PPAR-diagram.png") [細胞生物学](https://ja.wikipedia.org/wiki/細胞生物学 "wikilink")においては、**peroxisome proliferator-activated receptor** (**PPAR**:邦訳は確定的ではないが、「ペルオキシゾーム増殖剤応答性受容体」など)は殆どの[脊椎動物](../Page/脊椎動物.md "wikilink")において[発現](https://ja.wikipedia.org/wiki/発現 "wikilink")している[核内受容体](../Page/核内受容体.md "wikilink")の一種のことである。[細胞](../Page/細胞.md "wikilink")内の[ペルオキシゾーム](https://ja.wikipedia.org/wiki/ペルオキシゾーム "wikilink")の増生を誘導するレセプターとして[アフリカツメガエル](../Page/アフリカツメガエル.md "wikilink")において初めて発見され[炭化水素](../Page/炭化水素.md "wikilink")、[脂質](../Page/脂質.md "wikilink")、[タンパク質](../Page/タンパク質.md "wikilink")等の[細胞](../Page/細胞.md "wikilink")内代謝と細胞の[分化](https://ja.wikipedia.org/wiki/分化 "wikilink")に密接に関与している[転写因子](../Page/転写因子.md "wikilink")群であるとされている。
 
 ## PPAR-α
 
@@ -14,9 +14,9 @@
 ## PPAR-γ
 
   - PPAR-γは3つのフォームが知られている
-      - PPAR-γ1は[心臓](../Page/心臓.md "wikilink")・[筋肉](../Page/筋肉.md "wikilink")・[結腸](https://ja.wikipedia.org/wiki/結腸 "wikilink")・[腎臓](../Page/腎臓.md "wikilink")・[膵臓](../Page/膵臓.md "wikilink")・[脾臓](../Page/脾臓.md "wikilink")を含む多くの組織で発現している。
+      - PPAR-γ1は[心臓](../Page/心臓.md "wikilink")・[筋肉](../Page/筋肉.md "wikilink")・[結腸](../Page/結腸.md "wikilink")・[腎臓](../Page/腎臓.md "wikilink")・[膵臓](../Page/膵臓.md "wikilink")・[脾臓](../Page/脾臓.md "wikilink")を含む多くの組織で発現している。
       - PPAR-γ2はPPAR-γ1よりも30アミノ残基だけ長く、主に脂肪組織に発現している。
-      - PPAR-γ3は[マクロファージ](https://ja.wikipedia.org/wiki/マクロファージ "wikilink")・[大腸](../Page/大腸.md "wikilink")・[白色脂肪組織](https://ja.wikipedia.org/wiki/白色脂肪組織 "wikilink")で発現している。
+      - PPAR-γ3は[マクロファージ](../Page/マクロファージ.md "wikilink")・[大腸](../Page/大腸.md "wikilink")・[白色脂肪組織](https://ja.wikipedia.org/wiki/白色脂肪組織 "wikilink")で発現している。
   - PPAR-γは[プロスタグランジン](../Page/プロスタグランジン.md "wikilink")J2を生理的リガンドとして活性化され、筋肉での[グルコース](../Page/グルコース.md "wikilink")取り込みを活性化する。
       - 外因性[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")としてはトログリタゾンやピオグリタゾンのようないわゆるチアゾリジン系の薬剤がある。
       - PPAR-γは組織の[インスリン](../Page/インスリン.md "wikilink")感受性を亢進させるといわれており、[糖尿病](../Page/糖尿病.md "wikilink")治療のターゲットの一つとなっているほか、[免疫](https://ja.wikipedia.org/wiki/免疫 "wikilink")過程への関与も指摘されている。

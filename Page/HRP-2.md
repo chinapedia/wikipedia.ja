@@ -1,11 +1,11 @@
 > この記事は[HRP-2](https://ja.wikipedia.org/wiki/HRP-2)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:HRP-2_front_Science_Museum_Tokyo.jpg "wikilink") **HRP-2**（エイチアールピー・ツー）は、[通商産業省](https://ja.wikipedia.org/wiki/通商産業省 "wikilink")の「[人間協調・共存型ロボットシステム](https://ja.wikipedia.org/wiki/Humanoid_Robotics_Project "wikilink")」研究開発事業で[2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）に開発された[二足歩行ロボット](../Page/二足歩行ロボット.md "wikilink")。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:HRP-2_front_Science_Museum_Tokyo.jpg "wikilink") **HRP-2**（エイチアールピー・ツー）は、[通商産業省](https://ja.wikipedia.org/wiki/通商産業省 "wikilink")の「[人間協調・共存型ロボットシステム](../Page/Humanoid_Robotics_Project.md "wikilink")」研究開発事業で[2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）に開発された[二足歩行ロボット](../Page/二足歩行ロボット.md "wikilink")。
 
 ## 概要
 
-[産業技術総合研究所](../Page/産業技術総合研究所.md "wikilink")、[川田工業](https://ja.wikipedia.org/wiki/川田工業 "wikilink")、[安川電機](../Page/安川電機.md "wikilink")、[清水建設](https://ja.wikipedia.org/wiki/清水建設 "wikilink")、の共同研究で開発され、外装は[出渕裕](../Page/出渕裕.md "wikilink")がデザイン\[1\]した。愛称は**Promet**（プロメテ）。
+[産業技術総合研究所](../Page/産業技術総合研究所.md "wikilink")、[川田工業](https://ja.wikipedia.org/wiki/川田工業 "wikilink")、[安川電機](../Page/安川電機.md "wikilink")、[清水建設](../Page/清水建設.md "wikilink")、の共同研究で開発され、外装は[出渕裕](../Page/出渕裕.md "wikilink")がデザイン\[1\]した。愛称は**Promet**（プロメテ）。
 
 後継機は、[2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink")に**[HRP-3](https://ja.wikipedia.org/wiki/HRP-3 "wikilink")**（エイチアールピー・スリー）、2009年3月16日に**[HRP-4C](https://ja.wikipedia.org/wiki/HRP-4C "wikilink")**（エイチアールピー・フォーシー）が発表された。
 

@@ -1,26 +1,26 @@
 > この記事は[YASU](https://ja.wikipedia.org/wiki/YASU)から翻訳されています。
 
 
-**YASU**（やす、[1960年](../Page/1960年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")で活動する男性[歌手](../Page/歌手.md "wikilink")、メディア・[パーソナリティ](../Page/司会.md "wikilink")、[ローカルタレント](https://ja.wikipedia.org/wiki/ローカルタレント "wikilink")。本名は**久保田 泰弘**（くぼたやすひろ）。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[伊勢崎市](https://ja.wikipedia.org/wiki/伊勢崎市 "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。個人事務所「Y's works」所属。
+**YASU**（やす、[1960年](../Page/1960年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")で活動する男性[歌手](../Page/歌手.md "wikilink")、メディア・[パーソナリティ](../Page/司会.md "wikilink")、[ローカルタレント](../Page/ローカルタレント.md "wikilink")。本名は**久保田 泰弘**（くぼたやすひろ）。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[伊勢崎市](https://ja.wikipedia.org/wiki/伊勢崎市 "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。個人事務所「Y's works」所属。
 
 ## 来歴・人物
 
 高校時代からバンド活動を始め、[法政大学](https://ja.wikipedia.org/wiki/法政大学 "wikilink")法学部法律学科卒業後「[ストリート・ダンサー](https://ja.wikipedia.org/wiki/ストリート・ダンサー "wikilink")」ヴォーカルとしてデビュー。[1980年代](../Page/1980年代.md "wikilink")後半から「**及出　泰**（おいで　やす）」の芸名で札幌・名古屋・京都のラジオ番組に出演。その後、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に北海道札幌市へ移住。[HBCラジオ](../Page/HBCラジオ.md "wikilink")『横丁ラジオ』のレポーターを経て、[1996年](../Page/1996年.md "wikilink")から『[カーナビラジオ午後一番\!](../Page/カーナビラジオ午後一番!.md "wikilink")』のメインパーソナリティを担当。[セイコーマート](../Page/セイコーマート.md "wikilink")のCMソング及び出演をはじめテレビ・ラジオ、各地のイベントなどで幅広く活動している。
 
-[横浜銀蝿](../Page/横浜銀蝿.md "wikilink")リーダー・[嵐の事務所](../Page/嵐ヨシユキ.md "wikilink")（現・嵐レコード）に所属する。[花王](../Page/花王.md "wikilink")洗濯用洗剤「[アタック](https://ja.wikipedia.org/wiki/アタック_\(洗剤\) "wikilink")」CMや、「[ザブ](https://ja.wikipedia.org/wiki/ザブ_\(洗剤\) "wikilink")」CMの「頑固な汚れにザーブ\!」といったCMソングを担当した。「ストリート・ダンサー」としてはデビュー曲『サイテー男にご用心』は「スズキ・スクーター『Hi』」のCMソング、『だから帰らない』は『[ねるとん紅鯨団](https://ja.wikipedia.org/wiki/ねるとん紅鯨団 "wikilink")』のエンディングテーマとなった。またソロとして、アニメ『[クッキングパパ](https://ja.wikipedia.org/wiki/クッキングパパ "wikilink")』のオープニングテーマも歌っている（[2012年](../Page/2012年.md "wikilink")10月5日放送の『カーナビラジオ午後一番\!』で作者・[うえやまとち](https://ja.wikipedia.org/wiki/うえやまとち "wikilink")と初めて会ったという\[1\]）。また、[ビートルズ](../Page/ビートルズ.md "wikilink")をこよなく愛し、[2004年](../Page/2004年.md "wikilink")に大学時代の音楽仲間など同年代を中心としたメンバーで「[ブラック・ビートルズ](https://ja.wikipedia.org/wiki/ブラック・ビートルズ "wikilink")」というバンドを結成、現在も活動している。
+[横浜銀蝿](../Page/横浜銀蝿.md "wikilink")リーダー・[嵐の事務所](../Page/嵐ヨシユキ.md "wikilink")（現・嵐レコード）に所属する。[花王](../Page/花王.md "wikilink")洗濯用洗剤「[アタック](../Page/アタック_\(洗剤\).md "wikilink")」CMや、「[ザブ](https://ja.wikipedia.org/wiki/ザブ_\(洗剤\) "wikilink")」CMの「頑固な汚れにザーブ\!」といったCMソングを担当した。「ストリート・ダンサー」としてはデビュー曲『サイテー男にご用心』は「スズキ・スクーター『Hi』」のCMソング、『だから帰らない』は『[ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")』のエンディングテーマとなった。またソロとして、アニメ『[クッキングパパ](../Page/クッキングパパ.md "wikilink")』のオープニングテーマも歌っている（[2012年](../Page/2012年.md "wikilink")10月5日放送の『カーナビラジオ午後一番\!』で作者・[うえやまとち](../Page/うえやまとち.md "wikilink")と初めて会ったという\[1\]）。また、[ビートルズ](../Page/ビートルズ.md "wikilink")をこよなく愛し、[2004年](../Page/2004年.md "wikilink")に大学時代の音楽仲間など同年代を中心としたメンバーで「[ブラック・ビートルズ](https://ja.wikipedia.org/wiki/ブラック・ビートルズ "wikilink")」というバンドを結成、現在も活動している。
 
 [声優](../Page/声優.md "wikilink")としての活動もあり、[2003年](../Page/2003年.md "wikilink")に[ディズニーの長編](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")[アニメーション](../Page/アニメーション.md "wikilink")映画『[ファインディング・ニモ](../Page/ファインディング・ニモ.md "wikilink")』で声優デビュー。その際に自身が出演したHBCテレビの深夜番組『[もくなび](../Page/もくなび.md "wikilink")』にて密着取材を敢行し、監督のアンドリュー・スタントンにインタビューを行った。2004年には長編アニメーション映画『[Mr.インクレディブル](../Page/Mr.インクレディブル.md "wikilink")』にも出演し、録音会場に「Mr.インクレディブル」のコスプレで登場しアフレコし、雑誌にも取り上げられた。
 
 ## 主な作品
 
-  - 渚のCCC（[関西テレビ](../Page/関西テレビ放送.md "wikilink")『[上海紅鯨団が行く](https://ja.wikipedia.org/wiki/上海紅鯨団が行く "wikilink")』テーマソング）
-  - だから帰らない（ストリート・ダンサー、関西テレビ『[ねるとん紅鯨団](https://ja.wikipedia.org/wiki/ねるとん紅鯨団 "wikilink")』エンディング）
+  - 渚のCCC（[関西テレビ](../Page/関西テレビ放送.md "wikilink")『[上海紅鯨団が行く](../Page/上海紅鯨団が行く.md "wikilink")』テーマソング）
+  - だから帰らない（ストリート・ダンサー、関西テレビ『[ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")』エンディング）
   - 朝までBe with You（だから帰らない・B面）
   - サイテー男にご用心（スズキ・スクーター「Hi」CFソング）
   - 一瞬一秒の君（[テレビユー山形](../Page/テレビユー山形.md "wikilink")ステーションソング）、現在はリニューアル版で放送されている。
   - 身のほど知らずの恋
   - あぶないセンセーション
-  - ハッピー<sup>2</sup>ダンス（YASU、[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")『[クッキングパパ](https://ja.wikipedia.org/wiki/クッキングパパ "wikilink")』オープニング）
+  - ハッピー<sup>2</sup>ダンス（YASU、[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")『[クッキングパパ](../Page/クッキングパパ.md "wikilink")』オープニング）
   - [勇気のファイター](https://ja.wikipedia.org/wiki/勇気のファイター "wikilink")（YASU、[OVA](../Page/OVA.md "wikilink")『[うしおととら](https://ja.wikipedia.org/wiki/うしおととら "wikilink")』オープニング）
   - Which is?（YASU）
   - ラジオは魔法の周波数（[カーナビRadio午後一番！内で制作された番組オリジナルソング第](../Page/カーナビラジオ午後一番!.md "wikilink")1弾）
@@ -50,9 +50,9 @@
   - [横丁ラジオ](https://ja.wikipedia.org/wiki/横丁ラジオ "wikilink")（HBCラジオ）
   - [真夜中らじお組](https://ja.wikipedia.org/wiki/真夜中らじお組 "wikilink")（HBCラジオ）
   - The Moment That Refreshes [STUDIO "C2-SQUARE\!"](https://ja.wikipedia.org/wiki/STUDIO_"C2-SQUARE!" "wikilink")（HBCラジオ）
-  - [夢いろ土曜日](https://ja.wikipedia.org/wiki/夢いろ土曜日 "wikilink") 及出泰・今週のランキング（HBCラジオ、[ベストテンほっかいどう](https://ja.wikipedia.org/wiki/ベストテンほっかいどう "wikilink")の週間ランキングを発表）
+  - [夢いろ土曜日](https://ja.wikipedia.org/wiki/夢いろ土曜日 "wikilink") 及出泰・今週のランキング（HBCラジオ、[ベストテンほっかいどう](../Page/ベストテンほっかいどう.md "wikilink")の週間ランキングを発表）
   - YASUの[ぽっぷん王国ミュージックスタジアム](../Page/ぽっぷん王国ミュージックスタジアム.md "wikilink")（HBCラジオ、金曜日のみ）
-  - [タテノリライブパーティー](https://ja.wikipedia.org/wiki/タテノリライブパーティー "wikilink")（HBCラジオ）
+  - [タテノリライブパーティー](../Page/タテノリライブパーティー.md "wikilink")（HBCラジオ）
   - [バラカルト](https://ja.wikipedia.org/wiki/バラカルト "wikilink") [YASUのブートレッグナイト-子供は早く寝なさい-](https://ja.wikipedia.org/wiki/YASUのブートレッグナイト-子供は早く寝なさい- "wikilink")（HBCラジオ）
   - [とびっきりNiGHT](../Page/とびっきりNiGHT.md "wikilink")（[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")）
   - 及出泰のおいでやす（東海ラジオ）

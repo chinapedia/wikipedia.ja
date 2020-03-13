@@ -1,15 +1,15 @@
 > この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
 
 
-**パール・サイデンストリッカー・バック**（**Pearl Sydenstricker Buck**, [1892年](../Page/1892年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")）は[アメリカの女性](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")。[南長老ミッション](../Page/南長老ミッション.md "wikilink")派[宣教師](../Page/宣教師.md "wikilink")の両親と中国（[中華民国](https://ja.wikipedia.org/wiki/中華民国 "wikilink")）に渡り、そこで育つ。[処女作](https://ja.wikipedia.org/wiki/処女作 "wikilink")『東の風・西の風』に続き、1931年に代表作『大地』を発表して1932年に[ピュリッツァー賞](https://ja.wikipedia.org/wiki/ピュリッツァー賞 "wikilink")を受賞。『大地』は『息子たち』『分裂せる家』とともに三部作を成す。1938年に[ノーベル文学賞](../Page/ノーベル文学賞.md "wikilink")を受賞した。
+**パール・サイデンストリッカー・バック**（**Pearl Sydenstricker Buck**, [1892年](../Page/1892年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")）は[アメリカの女性](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")。[南長老ミッション](../Page/南長老ミッション.md "wikilink")派[宣教師](../Page/宣教師.md "wikilink")の両親と中国（[中華民国](../Page/中華民国.md "wikilink")）に渡り、そこで育つ。[処女作](https://ja.wikipedia.org/wiki/処女作 "wikilink")『東の風・西の風』に続き、1931年に代表作『大地』を発表して1932年に[ピュリッツァー賞](https://ja.wikipedia.org/wiki/ピュリッツァー賞 "wikilink")を受賞。『大地』は『息子たち』『分裂せる家』とともに三部作を成す。1938年に[ノーベル文学賞](../Page/ノーベル文学賞.md "wikilink")を受賞した。
 
 ## 経歴
 
-1892年、パール・コンフォート・サイデンストリッカー（**Pearl Comfort Sydenstricker**）として[ウェスト・バージニア州](https://ja.wikipedia.org/wiki/ウェスト・バージニア州 "wikilink")ヒルスボロで生まれ、生後3ヶ月で宣教師である父アブサローム・サイデンストリッカー、母キャロライン・サルティングとともに[中国](https://ja.wikipedia.org/wiki/中国 "wikilink")[江蘇省](../Page/江蘇省.md "wikilink")の[鎮江](https://ja.wikipedia.org/wiki/鎮江 "wikilink")に渡った。英語と中国語の両言語を話すバイリンガルとして育った。中国名：**賽珍珠**（サィ・チンシュ）。バックの7人の兄弟姉妹のうち、4人は幼少時に疫病で亡くなった。バックは「生まれと祖先に関しては私は米国人だが、同情と感覚において私は中国人だ」と語っている。
+1892年、パール・コンフォート・サイデンストリッカー（**Pearl Comfort Sydenstricker**）として[ウェスト・バージニア州](https://ja.wikipedia.org/wiki/ウェスト・バージニア州 "wikilink")ヒルスボロで生まれ、生後3ヶ月で宣教師である父アブサローム・サイデンストリッカー、母キャロライン・サルティングとともに[中国](../Page/中国.md "wikilink")[江蘇省](../Page/江蘇省.md "wikilink")の[鎮江](https://ja.wikipedia.org/wiki/鎮江 "wikilink")に渡った。英語と中国語の両言語を話すバイリンガルとして育った。中国名：**賽珍珠**（サィ・チンシュ）。バックの7人の兄弟姉妹のうち、4人は幼少時に疫病で亡くなった。バックは「生まれと祖先に関しては私は米国人だが、同情と感覚において私は中国人だ」と語っている。
 
-幼いころは自分を中国人だと信じて育ったバックだが、1911年、大学教育を受けるためにアメリカに帰国してランドルフ・メイコン女子大学に入学した。1914年の卒業後、母の病気の知らせを受けて宣教師として中国に戻る。1917年、[南京大学](../Page/南京大学.md "wikilink")で教鞭を執っていた農業経済学者兼宣教師のジョン・ロッシング・バックと結婚し一時南京大学、[南東大学](https://ja.wikipedia.org/wiki/南東大学 "wikilink")で英文学を講義する。[1926年](../Page/1926年.md "wikilink")、一時帰国して[コーネル大学](https://ja.wikipedia.org/wiki/コーネル大学 "wikilink")で[修士号](https://ja.wikipedia.org/wiki/修士号 "wikilink")を取得した。1927年に[南京事件に遭遇し](../Page/南京事件_\(1927年\).md "wikilink")、日本の雲仙に一時難を避けた。この後中国に戻った彼女は本格的な執筆活動を開始する。
+幼いころは自分を中国人だと信じて育ったバックだが、1911年、大学教育を受けるためにアメリカに帰国してランドルフ・メイコン女子大学に入学した。1914年の卒業後、母の病気の知らせを受けて宣教師として中国に戻る。1917年、[南京大学](../Page/南京大学.md "wikilink")で教鞭を執っていた農業経済学者兼宣教師のジョン・ロッシング・バックと結婚し一時南京大学、[南東大学](https://ja.wikipedia.org/wiki/南東大学 "wikilink")で英文学を講義する。[1926年](../Page/1926年.md "wikilink")、一時帰国して[コーネル大学](../Page/コーネル大学.md "wikilink")で[修士号](https://ja.wikipedia.org/wiki/修士号 "wikilink")を取得した。1927年に[南京事件に遭遇し](../Page/南京事件_\(1927年\).md "wikilink")、日本の雲仙に一時難を避けた。この後中国に戻った彼女は本格的な執筆活動を開始する。
 
-1930年、最初の小説である『東の風、西の風（East Wind, West Wind ）』を発表。1931年、二作目『[大地](../Page/大地_\(パール・S・バック\).md "wikilink")（The Good Earth）』が大ベストセラーとなり、1932年の[ピューリッツァー賞](../Page/ピューリッツァー賞.md "wikilink")をとる。しかし同年、[ニューヨーク](../Page/ニューヨーク.md "wikilink")の講演が原因で[長老派](https://ja.wikipedia.org/wiki/長老派 "wikilink")伝道委員から非難され、[宣教師](../Page/宣教師.md "wikilink")の地位を辞した。1934年、中国を離れ、半生を過ごしたその地に二度と戻ることはなかった。1935年、ジョン・ロッシング・バックと離婚。すぐに出版エージェントであったリチャード・ウォルシュと再婚する。[1938年](../Page/1938年.md "wikilink")、『大地』の業績によってノーベル文学賞を受賞する。これは、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[探検家](https://ja.wikipedia.org/wiki/探検家 "wikilink")・[学者](https://ja.wikipedia.org/wiki/学者 "wikilink")[スヴェン・ヘディン](https://ja.wikipedia.org/wiki/スヴェン・ヘディン "wikilink")の推薦によるものである。
+1930年、最初の小説である『東の風、西の風（East Wind, West Wind ）』を発表。1931年、二作目『[大地](../Page/大地_\(パール・S・バック\).md "wikilink")（The Good Earth）』が大ベストセラーとなり、1932年の[ピューリッツァー賞](../Page/ピューリッツァー賞.md "wikilink")をとる。しかし同年、[ニューヨーク](../Page/ニューヨーク.md "wikilink")の講演が原因で[長老派](https://ja.wikipedia.org/wiki/長老派 "wikilink")伝道委員から非難され、[宣教師](../Page/宣教師.md "wikilink")の地位を辞した。1934年、中国を離れ、半生を過ごしたその地に二度と戻ることはなかった。1935年、ジョン・ロッシング・バックと離婚。すぐに出版エージェントであったリチャード・ウォルシュと再婚する。[1938年](../Page/1938年.md "wikilink")、『大地』の業績によってノーベル文学賞を受賞する。これは、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[探検家](../Page/探検家.md "wikilink")・[学者](https://ja.wikipedia.org/wiki/学者 "wikilink")[スヴェン・ヘディン](../Page/スヴェン・ヘディン.md "wikilink")の推薦によるものである。
 
 最初の夫との間に知的障害を持つ一人娘キャロルがいるほか、その後は子どもの産めない身体になったために、6人の孤児を養子として自らの手で育てた。リチャードとともに国際的な人種を問わない養子仲介機関であるウェルカム・ハウス（Welcome House）も設立している。また、リチャードの死後、自分の娘達の若きダンス教師であったセオドア・ハリスと再婚し、彼とともに米国人とアジア人との混血の寄る辺のない子供達を教育するためにパールバック財団を設立した。1970年、セオドアとも離婚して、晩年はヴァーモント州で隠遁生活を送った。
 
@@ -40,7 +40,7 @@
       - ザ・マザー [青山静子](https://ja.wikipedia.org/wiki/青山静子 "wikilink")訳.菁柿堂,1986.11.
   - 『第一夫人』 *First Wife and Other Stories* (1933)
       - [本間立也](https://ja.wikipedia.org/wiki/本間立也 "wikilink")訳.改造社 1938
-  - 新らしきもの古きもの [松本正雄](https://ja.wikipedia.org/wiki/松本正雄 "wikilink"),[片岡鉄兵](https://ja.wikipedia.org/wiki/片岡鉄兵 "wikilink")訳 六芸社 1938
+  - 新らしきもの古きもの [松本正雄](https://ja.wikipedia.org/wiki/松本正雄 "wikilink"),[片岡鉄兵](../Page/片岡鉄兵.md "wikilink")訳 六芸社 1938
       - 深澤正策訳 河北書房、1942
   - 王龍 松本正雄訳.興亜書房 1939
   - 『この心の誇り』 *This Proud Heart* (1938)
@@ -87,7 +87,7 @@
 <!-- end list -->
 
   - 『終わりなき探求』 *The Eternal Wonder*。2013年に発見された遺作
-      - 戸田章子訳 [国書刊行会](https://ja.wikipedia.org/wiki/国書刊行会 "wikilink") (2019)
+      - 戸田章子訳 [国書刊行会](../Page/国書刊行会.md "wikilink") (2019)
 
 ### ノンフィクション
 

@@ -1,7 +1,7 @@
 > この記事は[UEFA EURO 2004](https://ja.wikipedia.org/wiki/UEFA_EURO_2004)から翻訳されています。
 
 
-**UEFA EURO 2004**（ユーロ2004）は、[ポルトガル](../Page/ポルトガル.md "wikilink")で[2004年](../Page/2004年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")から[7月4日](../Page/7月4日.md "wikilink")にかけて開催された。ユーロ2004の[予選は](https://ja.wikipedia.org/wiki/UEFA_EURO_2004予選 "wikilink")[2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[11月](../Page/11月.md "wikilink")まで行われた。欧州の50の国と地域が10のグループに分けられ、各グループ[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式の[リーグ戦](../Page/リーグ戦.md "wikilink")を行い各組1位10カ国が自動的に本戦出場、さらに2位チーム同士によるホーム・アンド・アウェー方式の[プレーオフ](https://ja.wikipedia.org/wiki/プレーオフ "wikilink")を勝ち抜いた5カ国、ホスト国であるポルトガルを加えた計16カ国が本大会に出場した。
+**UEFA EURO 2004**（ユーロ2004）は、[ポルトガル](../Page/ポルトガル.md "wikilink")で[2004年](../Page/2004年.md "wikilink")[6月12日](../Page/6月12日.md "wikilink")から[7月4日](../Page/7月4日.md "wikilink")にかけて開催された。ユーロ2004の[予選は](https://ja.wikipedia.org/wiki/UEFA_EURO_2004予選 "wikilink")[2002年](../Page/2002年.md "wikilink")[9月](../Page/9月.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[11月](../Page/11月.md "wikilink")まで行われた。欧州の50の国と地域が10のグループに分けられ、各グループ[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式の[リーグ戦](../Page/リーグ戦.md "wikilink")を行い各組1位10カ国が自動的に本戦出場、さらに2位チーム同士によるホーム・アンド・アウェー方式の[プレーオフ](../Page/プレーオフ.md "wikilink")を勝ち抜いた5カ国、ホスト国であるポルトガルを加えた計16カ国が本大会に出場した。
 
 ## 予選
 
@@ -17,9 +17,9 @@
 
   - [エスタディオ・ムニシパル・デ・ブラガ](https://ja.wikipedia.org/wiki/エスタディオ・ムニシパル・デ・ブラガ "wikilink"), [ブラガ](../Page/ブラガ.md "wikilink")
 
-  - [エスタディオ・ド・ベッサ](https://ja.wikipedia.org/wiki/エスタディオ・ド・ベッサ "wikilink"), [ポルト](https://ja.wikipedia.org/wiki/ポルト "wikilink")
+  - [エスタディオ・ド・ベッサ](https://ja.wikipedia.org/wiki/エスタディオ・ド・ベッサ "wikilink"), [ポルト](../Page/ポルト.md "wikilink")
 
-  - [エスタディオ・ド・ドラゴン](../Page/エスタディオ・ド・ドラゴン.md "wikilink"), [ポルト](https://ja.wikipedia.org/wiki/ポルト "wikilink")
+  - [エスタディオ・ド・ドラゴン](../Page/エスタディオ・ド・ドラゴン.md "wikilink"), [ポルト](../Page/ポルト.md "wikilink")
 
   - [エスタディオ・ダ・ルス](../Page/エスタディオ・ダ・ルス.md "wikilink"), [リスボン](../Page/リスボン.md "wikilink")
 
@@ -329,19 +329,19 @@
 
 **5 ゴール**
 
-  - [Flag_of_the_Czech_Republic.svg](https://ja.wikipedia.org/wiki/File:Flag_of_the_Czech_Republic.svg "fig:Flag_of_the_Czech_Republic.svg") [ミラン・バロシュ](https://ja.wikipedia.org/wiki/ミラン・バロシュ "wikilink")
+  - [Flag_of_the_Czech_Republic.svg](https://ja.wikipedia.org/wiki/File:Flag_of_the_Czech_Republic.svg "fig:Flag_of_the_Czech_Republic.svg") [ミラン・バロシュ](../Page/ミラン・バロシュ.md "wikilink")
 
 **4 ゴール**
 
-  - [Flag_of_England.svg](https://ja.wikipedia.org/wiki/File:Flag_of_England.svg "fig:Flag_of_England.svg") [ウェイン・ルーニー](https://ja.wikipedia.org/wiki/ウェイン・ルーニー "wikilink")
-  - [Flag_of_the_Netherlands.svg](https://ja.wikipedia.org/wiki/File:Flag_of_the_Netherlands.svg "fig:Flag_of_the_Netherlands.svg") [ルート・ファン・ニステルローイ](https://ja.wikipedia.org/wiki/ルート・ファン・ニステルローイ "wikilink")
+  - [Flag_of_England.svg](https://ja.wikipedia.org/wiki/File:Flag_of_England.svg "fig:Flag_of_England.svg") [ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")
+  - [Flag_of_the_Netherlands.svg](https://ja.wikipedia.org/wiki/File:Flag_of_the_Netherlands.svg "fig:Flag_of_the_Netherlands.svg") [ルート・ファン・ニステルローイ](../Page/ルート・ファン・ニステルローイ.md "wikilink")
 
 **3 ゴール**
 
-  - [Flag_of_Denmark.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Denmark.svg "fig:Flag_of_Denmark.svg") [ヨン・ダール・トマソン](https://ja.wikipedia.org/wiki/ヨン・ダール・トマソン "wikilink")
-  - [Flag_of_England.svg](https://ja.wikipedia.org/wiki/File:Flag_of_England.svg "fig:Flag_of_England.svg") [フランク・ランパード](https://ja.wikipedia.org/wiki/フランク・ランパード "wikilink")
+  - [Flag_of_Denmark.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Denmark.svg "fig:Flag_of_Denmark.svg") [ヨン・ダール・トマソン](../Page/ヨン・ダール・トマソン.md "wikilink")
+  - [Flag_of_England.svg](https://ja.wikipedia.org/wiki/File:Flag_of_England.svg "fig:Flag_of_England.svg") [フランク・ランパード](../Page/フランク・ランパード.md "wikilink")
   - [Flag_of_France.svg](https://ja.wikipedia.org/wiki/File:Flag_of_France.svg "fig:Flag_of_France.svg") [ジネディーヌ・ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")
-  - [Flag_of_Greece.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Greece.svg "fig:Flag_of_Greece.svg") [アンゲロス・ハリステアス](https://ja.wikipedia.org/wiki/アンゲロス・ハリステアス "wikilink")
+  - [Flag_of_Greece.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Greece.svg "fig:Flag_of_Greece.svg") [アンゲロス・ハリステアス](../Page/アンゲロス・ハリステアス.md "wikilink")
   - [Flag_of_Sweden.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Sweden.svg "fig:Flag_of_Sweden.svg") [ヘンリク・ラーション](../Page/ヘンリク・ラーション.md "wikilink")
 
 **2 ゴール**
@@ -351,19 +351,19 @@
   - [Flag_of_France.svg](https://ja.wikipedia.org/wiki/File:Flag_of_France.svg "fig:Flag_of_France.svg") [ティエリ・アンリ](../Page/ティエリ・アンリ.md "wikilink")
   - [Flag_of_Italy.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg "fig:Flag_of_Italy.svg") [アントニオ・カッサーノ](https://ja.wikipedia.org/wiki/アントニオ・カッサーノ "wikilink")
   - [Flag_of_Portugal.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg "fig:Flag_of_Portugal.svg") [マニュエル・ルイ・コスタ](https://ja.wikipedia.org/wiki/マニュエル・ルイ・コスタ "wikilink")
-  - [Flag_of_Portugal.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg "fig:Flag_of_Portugal.svg") [マニシェ](https://ja.wikipedia.org/wiki/マニシェ "wikilink")
-  - [Flag_of_Portugal.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg "fig:Flag_of_Portugal.svg") [クリスティアーノ・ロナウド](https://ja.wikipedia.org/wiki/クリスティアーノ・ロナウド "wikilink")
+  - [Flag_of_Portugal.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg "fig:Flag_of_Portugal.svg") [マニシェ](../Page/マニシェ.md "wikilink")
+  - [Flag_of_Portugal.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg "fig:Flag_of_Portugal.svg") [クリスティアーノ・ロナウド](../Page/クリスティアーノ・ロナウド.md "wikilink")
   - [Flag_of_Sweden.svg](https://ja.wikipedia.org/wiki/File:Flag_of_Sweden.svg "fig:Flag_of_Sweden.svg") [ズラタン・イブラヒモビッチ](https://ja.wikipedia.org/wiki/ズラタン・イブラヒモビッチ "wikilink")
 
 ## 本大会総括
 
 ### ポルトガルとギリシャ
 
-[Greeks_celebrating_Euro_2004_victory_dsc06432.jpg](https://ja.wikipedia.org/wiki/File:Greeks_celebrating_Euro_2004_victory_dsc06432.jpg "fig:Greeks_celebrating_Euro_2004_victory_dsc06432.jpg") ユーロ2004は開催国の敗北に始まり、開催国の敗北に終わった大会である。開幕戦となった開催国[ポルトガル対](https://ja.wikipedia.org/wiki/サッカーポルトガル代表 "wikilink")[ギリシャは](../Page/サッカーギリシャ代表.md "wikilink")、ギリシャがこれまでの実績から格下と見られていたことと、ポルトガルを大勢の地元ファンが後押しすることからポルトガル有利と思われていたがギリシャは開始早々に[ギオルゴス・カラグーニス](../Page/ギオルゴス・カラグーニス.md "wikilink")が先制ゴールをあげポルトガルの出鼻をくじくと、後半開始早々に[ゲオルギオス・セイタリディス](../Page/ゲオルギオス・セイタリディス.md "wikilink")が得たPKを[アンゲロス・バシナス](../Page/アンゲロス・バシナス.md "wikilink")が決め、90分間を高い集中力で戦い抜き勝利を掴んだ。[オットー・レーハーゲル](../Page/オットー・レーハーゲル.md "wikilink")監督率いるギリシャはその勢いで（[ロシアには敗れるが](../Page/サッカーロシア代表.md "wikilink")）決勝まで登り詰め、一方の[ルイス・フェリペ・スコラーリ](../Page/ルイス・フェリペ・スコラーリ.md "wikilink")監督率いるポルトガルはギリシャ戦の敗戦をバネに体制を立て直して決勝進出。迎えた決勝戦でもギリシャの規律と集中力はポルトガルを圧倒し、同国史上初のビッグタイトルを手に入れた。
+[Greeks_celebrating_Euro_2004_victory_dsc06432.jpg](https://ja.wikipedia.org/wiki/File:Greeks_celebrating_Euro_2004_victory_dsc06432.jpg "fig:Greeks_celebrating_Euro_2004_victory_dsc06432.jpg") ユーロ2004は開催国の敗北に始まり、開催国の敗北に終わった大会である。開幕戦となった開催国[ポルトガル対](../Page/サッカーポルトガル代表.md "wikilink")[ギリシャは](../Page/サッカーギリシャ代表.md "wikilink")、ギリシャがこれまでの実績から格下と見られていたことと、ポルトガルを大勢の地元ファンが後押しすることからポルトガル有利と思われていたがギリシャは開始早々に[ギオルゴス・カラグーニス](../Page/ギオルゴス・カラグーニス.md "wikilink")が先制ゴールをあげポルトガルの出鼻をくじくと、後半開始早々に[ゲオルギオス・セイタリディス](../Page/ゲオルギオス・セイタリディス.md "wikilink")が得たPKを[アンゲロス・バシナス](../Page/アンゲロス・バシナス.md "wikilink")が決め、90分間を高い集中力で戦い抜き勝利を掴んだ。[オットー・レーハーゲル](../Page/オットー・レーハーゲル.md "wikilink")監督率いるギリシャはその勢いで（[ロシアには敗れるが](../Page/サッカーロシア代表.md "wikilink")）決勝まで登り詰め、一方の[ルイス・フェリペ・スコラーリ](../Page/ルイス・フェリペ・スコラーリ.md "wikilink")監督率いるポルトガルはギリシャ戦の敗戦をバネに体制を立て直して決勝進出。迎えた決勝戦でもギリシャの規律と集中力はポルトガルを圧倒し、同国史上初のビッグタイトルを手に入れた。
 
 ### 強豪国の低迷
 
-優勝候補と言われたチームが思うような結果を残せなかったのもこの大会の特徴である。[イタリアはエースの](../Page/サッカーイタリア代表.md "wikilink")[トッティが相手選手につばを吐いたことによる](https://ja.wikipedia.org/wiki/フランチェスコ・トッティ "wikilink")3試合出場停止で大会から姿を消すと、その穴を埋めるべく[カッサーノらが奮闘し](https://ja.wikipedia.org/wiki/アントニオ・カッサーノ "wikilink")、5ポイントを獲得するがグループリーグ敗退。[ドイツは](../Page/サッカードイツ代表.md "wikilink")[オランダに引き分けるが](https://ja.wikipedia.org/wiki/サッカーオランダ代表 "wikilink")、格下の[ラトビアにも引き分け](../Page/サッカーラトビア代表.md "wikilink")、第三戦では既に1位通過を確定し完全な二軍で臨んできた[チェコに敗れるなど](../Page/サッカーチェコ代表.md "wikilink")、2003年のコンフェデレーションズカップを辞退し、ブンデスリーガの外国籍枠を縮小して欲しいとルディ・フェラー監督が懇願するなど、当初から不安の多いチームだったが、グループリーグ敗退。イタリアとドイツが共に8強入りを逃すのは、[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ "wikilink")と[UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")を合わせて史上初だった。[スペインもギリシャの勢いや](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")、攻撃陣が機能せずグループリーグ敗退。[イングランドはグループリーグでは](../Page/サッカーイングランド代表.md "wikilink")[ルーニーの活躍で突破するものの](https://ja.wikipedia.org/wiki/ウェイン・ルーニー "wikilink")[ベッカムの大会合計](../Page/デビッド・ベッカム.md "wikilink")3度連続（予選におけるトルコ戦、初戦のフランス戦、そして1番手として臨んだポルトガル戦）の[PK失敗](https://ja.wikipedia.org/wiki/ペナルティーキック "wikilink")、ルーニーが試合中に故障退場、[ソル・キャンベル](https://ja.wikipedia.org/wiki/ソル・キャンベル "wikilink")のゴールが取り消されたことなどがありポルトガルにPK戦で敗れ（最後のキッカーは[ダリウス・ヴァッセル](../Page/ダリウス・ヴァッセル.md "wikilink")）ベスト8敗退。前回王者[フランスは結果こそベスト](../Page/サッカーフランス代表.md "wikilink")8とまずまずの成績とは言え、その内容は王者フランスにふさわしいものではなく特に準々決勝のギリシャ戦ではギリシャの規律と集中力はあるゆる場面でフランスを凌いだ。
+優勝候補と言われたチームが思うような結果を残せなかったのもこの大会の特徴である。[イタリアはエースの](../Page/サッカーイタリア代表.md "wikilink")[トッティが相手選手につばを吐いたことによる](../Page/フランチェスコ・トッティ.md "wikilink")3試合出場停止で大会から姿を消すと、その穴を埋めるべく[カッサーノらが奮闘し](https://ja.wikipedia.org/wiki/アントニオ・カッサーノ "wikilink")、5ポイントを獲得するがグループリーグ敗退。[ドイツは](../Page/サッカードイツ代表.md "wikilink")[オランダに引き分けるが](../Page/サッカーオランダ代表.md "wikilink")、格下の[ラトビアにも引き分け](../Page/サッカーラトビア代表.md "wikilink")、第三戦では既に1位通過を確定し完全な二軍で臨んできた[チェコに敗れるなど](../Page/サッカーチェコ代表.md "wikilink")、2003年のコンフェデレーションズカップを辞退し、ブンデスリーガの外国籍枠を縮小して欲しいとルディ・フェラー監督が懇願するなど、当初から不安の多いチームだったが、グループリーグ敗退。イタリアとドイツが共に8強入りを逃すのは、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")と[UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")を合わせて史上初だった。[スペインもギリシャの勢いや](https://ja.wikipedia.org/wiki/サッカースペイン代表 "wikilink")、攻撃陣が機能せずグループリーグ敗退。[イングランドはグループリーグでは](../Page/サッカーイングランド代表.md "wikilink")[ルーニーの活躍で突破するものの](../Page/ウェイン・ルーニー.md "wikilink")[ベッカムの大会合計](../Page/デビッド・ベッカム.md "wikilink")3度連続（予選におけるトルコ戦、初戦のフランス戦、そして1番手として臨んだポルトガル戦）の[PK失敗](../Page/ペナルティーキック.md "wikilink")、ルーニーが試合中に故障退場、[ソル・キャンベル](../Page/ソル・キャンベル.md "wikilink")のゴールが取り消されたことなどがありポルトガルにPK戦で敗れ（最後のキッカーは[ダリウス・ヴァッセル](../Page/ダリウス・ヴァッセル.md "wikilink")）ベスト8敗退。前回王者[フランスは結果こそベスト](../Page/サッカーフランス代表.md "wikilink")8とまずまずの成績とは言え、その内容は王者フランスにふさわしいものではなく特に準々決勝のギリシャ戦ではギリシャの規律と集中力はあるゆる場面でフランスを凌いだ。
 
 ### デンマーク対スウェーデン談合疑惑
 
@@ -371,9 +371,9 @@
 
 ### オランダの復調とチェコの実力
 
-強豪国が次々姿を消す中、大会を盛り上げたのは[オランダと](https://ja.wikipedia.org/wiki/サッカーオランダ代表 "wikilink")[チェコである](../Page/サッカーチェコ代表.md "wikilink")。この大会の[ディック・アドフォカート](https://ja.wikipedia.org/wiki/ディック・アドフォカート "wikilink")率いるオランダは3年前にW杯日韓大会の欧州予選で敗退し、ユーロ2004予選でも苦戦していた（スコットランドとのプレーオフでは先勝を許した）ことから期待が低かった。しかし、大会を通してオランダは若手とベテランがうまく融合し、内容的には必ずしも良かったとばかりは言い切れない部分（特に有名なのがチェコとの直接対決で見せた消極的采配）もあったものの、GL最終戦でドイツが2軍のチェコ相手に敗れるなど運もあって、ベスト4進出と成果を残した。もう一方の[カレル・ブリュックナー](../Page/カレル・ブリュックナー.md "wikilink")監督率いるチェコも同様W杯日韓大会予選のプレーオフで敗退したが、今大会は充実したタレントが下馬評通りの活躍を見せ、全ての試合でその実力をいかんなく発揮、準決勝ギリシャ戦ではチームの主役である[ネドベドを怪我で失うとともに勝利も逃し大会から姿を消した](../Page/パベル・ネドベド.md "wikilink")。
+強豪国が次々姿を消す中、大会を盛り上げたのは[オランダと](../Page/サッカーオランダ代表.md "wikilink")[チェコである](../Page/サッカーチェコ代表.md "wikilink")。この大会の[ディック・アドフォカート](../Page/ディック・アドフォカート.md "wikilink")率いるオランダは3年前にW杯日韓大会の欧州予選で敗退し、ユーロ2004予選でも苦戦していた（スコットランドとのプレーオフでは先勝を許した）ことから期待が低かった。しかし、大会を通してオランダは若手とベテランがうまく融合し、内容的には必ずしも良かったとばかりは言い切れない部分（特に有名なのがチェコとの直接対決で見せた消極的采配）もあったものの、GL最終戦でドイツが2軍のチェコ相手に敗れるなど運もあって、ベスト4進出と成果を残した。もう一方の[カレル・ブリュックナー](../Page/カレル・ブリュックナー.md "wikilink")監督率いるチェコも同様W杯日韓大会予選のプレーオフで敗退したが、今大会は充実したタレントが下馬評通りの活躍を見せ、全ての試合でその実力をいかんなく発揮、準決勝ギリシャ戦ではチームの主役である[ネドベドを怪我で失うとともに勝利も逃し大会から姿を消した](../Page/パベル・ネドベド.md "wikilink")。
 
-なお、2006年のW杯ドイツ大会の欧州予選でもオランダとチェコは同じグループに入った。両国とも[FIFAランキング](https://ja.wikipedia.org/wiki/FIFAランキング "wikilink")5位以内に入るだけあり、オランダがチェコなどを完封し、グループ1位通過。しかも欧州の13の出場国の中で最高成績（実質欧州1位）で本大会の出場権を獲得し、チェコもオランダには完敗したが、グループ2位でノルウェーとのプレーオフを制し出場権を獲得した。
+なお、2006年のW杯ドイツ大会の欧州予選でもオランダとチェコは同じグループに入った。両国とも[FIFAランキング](../Page/FIFAランキング.md "wikilink")5位以内に入るだけあり、オランダがチェコなどを完封し、グループ1位通過。しかも欧州の13の出場国の中で最高成績（実質欧州1位）で本大会の出場権を獲得し、チェコもオランダには完敗したが、グループ2位でノルウェーとのプレーオフを制し出場権を獲得した。
 
 ### 新興勢力ラトビア
 

@@ -1,7 +1,7 @@
 > この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
 
 
-『**FNNニュース・明日の天気**』（エフエヌエヌニュース・あすのてんき）は、[フジテレビおよび](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN系列局で](../Page/フジニュースネットワーク.md "wikilink")[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）[10月6日](../Page/10月6日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[スポットニュース](https://ja.wikipedia.org/wiki/スポットニュース "wikilink")・[天気予報](../Page/天気予報.md "wikilink")番組。放送地域によってはこのタイトルが伏せられており、この状況はこの枠のスポットニュース『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")・明日の天気』⇒『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』⇒『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』 ⇒ 『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』 ⇒ 『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』 に変更されても続いている\[1\]。
+『**FNNニュース・明日の天気**』（エフエヌエヌニュース・あすのてんき）は、[フジテレビおよび](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[FNN系列局で](../Page/フジニュースネットワーク.md "wikilink")[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）[10月6日](../Page/10月6日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（[平成](../Page/平成.md "wikilink")10年）[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[スポットニュース](../Page/スポットニュース.md "wikilink")・[天気予報](../Page/天気予報.md "wikilink")番組。放送地域によってはこのタイトルが伏せられており、この状況はこの枠のスポットニュース『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")・明日の天気』⇒『[FNN NEWS Pick Up](https://ja.wikipedia.org/wiki/FNN_NEWS_Pick_Up "wikilink")』⇒『[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』 ⇒ 『[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』 ⇒ 『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』 に変更されても続いている\[1\]。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")（音声多重放送開始）から[1990年代](../Page/1990年代.md "wikilink")前半には、[英語](../Page/英語.md "wikilink")の[二ヶ国語放送](https://ja.wikipedia.org/wiki/二ヶ国語放送 "wikilink")が実施されていた（ニュース・天気共に）。
 
-『明日の天気』での関東ローカル版BGMは[1989年](../Page/1989年.md "wikilink")頃から[ジョージ・ウィンストン](../Page/ジョージ・ウィンストン.md "wikilink")の『Longing/Love』だった（[箱根彫刻の森美術館](https://ja.wikipedia.org/wiki/箱根彫刻の森美術館 "wikilink")の映像がバックに流れていた。但し映画などの映像を流すときは、それらに関連したBGMになる。）が末期は現在と同様、[FNS系列の](../Page/フジネットワーク.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")や[バラエティなどの番組やフジテレビが制作に関連している映画や](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")、フジテレビが主催などのイベントの画像と一緒に放送されエンディングのスポンサークレジットでは、[気象衛星](https://ja.wikipedia.org/wiki/気象衛星 "wikilink")による雲の様子（最新の様子）を背景にスポンサー企業のキャッチフレーズと社名のナレーション、ロゴCGがCM代わりに流れた。天気予報は「[東京](../Page/東京.md "wikilink")」「[南関東](../Page/南関東.md "wikilink")地方」「[北関東](../Page/北関東.md "wikilink")地方」の3地域の天気が白の字幕で表示され、キャスターがそれを読み上げるだけであった。なお、1989年以前のBGMはギターやピアノを使用した曲など様々なBGMが使われており、箱根彫刻の森美術館や映画、情報カメラ（主に[新宿](../Page/新宿.md "wikilink")、[お茶の水](https://ja.wikipedia.org/wiki/お茶の水 "wikilink")ほか）などの映像をバックに使っていた。
+『明日の天気』での関東ローカル版BGMは[1989年](../Page/1989年.md "wikilink")頃から[ジョージ・ウィンストン](../Page/ジョージ・ウィンストン.md "wikilink")の『Longing/Love』だった（[箱根彫刻の森美術館](https://ja.wikipedia.org/wiki/箱根彫刻の森美術館 "wikilink")の映像がバックに流れていた。但し映画などの映像を流すときは、それらに関連したBGMになる。）が末期は現在と同様、[FNS系列の](../Page/フジネットワーク.md "wikilink")[ドラマ](../Page/ドラマ.md "wikilink")や[バラエティなどの番組やフジテレビが制作に関連している映画や](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")、フジテレビが主催などのイベントの画像と一緒に放送されエンディングのスポンサークレジットでは、[気象衛星](../Page/気象衛星.md "wikilink")による雲の様子（最新の様子）を背景にスポンサー企業のキャッチフレーズと社名のナレーション、ロゴCGがCM代わりに流れた。天気予報は「[東京](../Page/東京.md "wikilink")」「[南関東](../Page/南関東.md "wikilink")地方」「[北関東](../Page/北関東.md "wikilink")地方」の3地域の天気が白の字幕で表示され、キャスターがそれを読み上げるだけであった。なお、1989年以前のBGMはギターやピアノを使用した曲など様々なBGMが使われており、箱根彫刻の森美術館や映画、情報カメラ（主に[新宿](../Page/新宿.md "wikilink")、[お茶の水](https://ja.wikipedia.org/wiki/お茶の水 "wikilink")ほか）などの映像をバックに使っていた。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")をもって終了。同年[3月30日](../Page/3月30日.md "wikilink")からはこの時間のニュースは『**[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")・あすの天気**』とタイトルを改めてスタートした。
 
@@ -37,7 +37,7 @@
 
 [1992年](../Page/1992年.md "wikilink")ごろがら、提供スポンサーは曜日ごとに異なる形式となった。
 
-ローカルニュース放送の[北海道文化放送](../Page/北海道文化放送.md "wikilink")、[福島テレビ](../Page/福島テレビ.md "wikilink")、[山陰中央テレビなどでもタイトルを差し替えて土日祝祭日](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、年末年始などの条件を満たした日に放送していた。反対に、クロスネットの[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では日曜の放送が『[NNNニューススポット](https://ja.wikipedia.org/wiki/NNNニューススポット "wikilink")』のため放送なし。前出の鹿児島テレビも曜日によっては『[NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")』を優先していた。
+ローカルニュース放送の[北海道文化放送](../Page/北海道文化放送.md "wikilink")、[福島テレビ](../Page/福島テレビ.md "wikilink")、[山陰中央テレビなどでもタイトルを差し替えて土日祝祭日](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")、年末年始などの条件を満たした日に放送していた。反対に、クロスネットの[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")では日曜の放送が『[NNNニューススポット](../Page/NNNニューススポット.md "wikilink")』のため放送なし。前出の鹿児島テレビも曜日によっては『[NNNニュース](../Page/NNNニュース.md "wikilink")』を優先していた。
 
 ## 担当アナウンサー
 
@@ -292,17 +292,17 @@
 </tr>
 <tr class="odd">
 <td><p>OX <a href="../Page/仙台放送.md" title="wikilink">仙台放送</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FNN仙台放送NEWS" title="wikilink">FNN仙台放送ニュース</a></p></td>
+<td><p><a href="../Page/FNN仙台放送NEWS.md" title="wikilink">FNN仙台放送ニュース</a></p></td>
 </tr>
 <tr class="even">
 <td><p>AKT <a href="https://ja.wikipedia.org/wiki/秋田テレビ" title="wikilink">秋田テレビ</a></p></td>
-<td><p>平日・土曜：<a href="../Page/FNN_AKTニュース.md" title="wikilink">AKTニュース</a>→<a href="https://ja.wikipedia.org/wiki/ニュースあきた" title="wikilink">NEWSあきた</a><br />
+<td><p>平日・土曜：<a href="../Page/FNN_AKTニュース.md" title="wikilink">AKTニュース</a>→<a href="../Page/ニュースあきた.md" title="wikilink">NEWSあきた</a><br />
 日曜：FNN AKTニュース→FNNニュース・あすの天気</p></td>
 </tr>
 <tr class="odd">
 <td><p>YTS <a href="../Page/山形テレビ.md" title="wikilink">山形テレビ</a><br />
 （<a href="../Page/1993年.md" title="wikilink">1993年</a><a href="../Page/3月31日.md" title="wikilink">3月31日</a>まで）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/YTSニュース" title="wikilink">FNN YTSニュース</a></p></td>
+<td><p><a href="../Page/YTSニュース.md" title="wikilink">FNN YTSニュース</a></p></td>
 </tr>
 <tr class="even">
 <td><p>SAY <a href="../Page/さくらんぼテレビジョン.md" title="wikilink">さくらんぼテレビ</a><br />
@@ -311,7 +311,7 @@
 </tr>
 <tr class="odd">
 <td><p>FTV <a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a></p></td>
-<td><p>平日・土曜：<a href="https://ja.wikipedia.org/wiki/FTVニュース" title="wikilink">FTVニュース</a><br />
+<td><p>平日・土曜：<a href="../Page/FTVニュース.md" title="wikilink">FTVニュース</a><br />
 日曜：FNN FTVニュース</p></td>
 </tr>
 <tr class="even">
@@ -333,7 +333,7 @@
 <tr class="even">
 <td><p>FTB <a href="https://ja.wikipedia.org/wiki/福井テレビジョン放送" title="wikilink">福井テレビ</a></p></td>
 <td><p>平日・土曜：<a href="../Page/福井新聞ニュース.md" title="wikilink">福井新聞ニュース</a><br />
-日曜：<a href="https://ja.wikipedia.org/wiki/FNN福井テレビニュース" title="wikilink">FNN福井テレビニュース</a></p></td>
+日曜：<a href="../Page/FNN福井テレビニュース.md" title="wikilink">FNN福井テレビニュース</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>SUT <a href="../Page/テレビ静岡.md" title="wikilink">テレビ静岡</a></p></td>
@@ -345,7 +345,7 @@
 </tr>
 <tr class="odd">
 <td><p>KTV <a href="../Page/関西テレビ放送.md" title="wikilink">関西テレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/KTVニュースフラッシュ" title="wikilink">KTVニュースフラッシュ</a></p></td>
+<td><p><a href="../Page/KTVニュースフラッシュ.md" title="wikilink">KTVニュースフラッシュ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TSK <a href="https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送" title="wikilink">山陰中央テレビ</a></p></td>
@@ -388,7 +388,7 @@
 </tr>
 <tr class="odd">
 <td><p>TOS <a href="../Page/テレビ大分.md" title="wikilink">テレビ大分</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TOSニュース" title="wikilink">TOSニュース</a></p></td>
+<td><p><a href="../Page/TOSニュース.md" title="wikilink">TOSニュース</a></p></td>
 </tr>
 <tr class="even">
 <td><p>TKU <a href="../Page/テレビ熊本.md" title="wikilink">テレビ熊本</a></p></td>
@@ -396,8 +396,8 @@
 </tr>
 <tr class="odd">
 <td><p>UMK <a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a></p></td>
-<td><p>平日・土曜：<a href="https://ja.wikipedia.org/wiki/UMKニュース" title="wikilink">UMKニュース FNN</a><br />
-※日曜は『<a href="https://ja.wikipedia.org/wiki/NNNニューススポット" title="wikilink">NNNニューススポット</a>』をネット。</p></td>
+<td><p>平日・土曜：<a href="../Page/UMKニュース.md" title="wikilink">UMKニュース FNN</a><br />
+※日曜は『<a href="../Page/NNNニューススポット.md" title="wikilink">NNNニューススポット</a>』をネット。</p></td>
 </tr>
 <tr class="even">
 <td><p>KTS <a href="../Page/鹿児島テレビ放送.md" title="wikilink">鹿児島テレビ</a></p></td>
@@ -417,7 +417,7 @@
 1.  『THE NEWSα Pick』終了後、フジテレビのこの時間のスポットニュースは廃止したが、一部地域を除いた系列局ではニュース・天気予報が継続されている。
 2.  [東京12チャンネル（現：テレビ東京）が夜のスポットタイムを](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")5分に拡大するのはもっと遅れて、[1974年](../Page/1974年.md "wikilink")10月に行った。
 3.  『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』放送のため。
-4.  ただし[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の間は、『[アメリカ大リーグアワー](../Page/L!VE_MAJOR_LEAGUE_BASEBALL.md "wikilink")』が『[新・座頭市](https://ja.wikipedia.org/wiki/新・座頭市 "wikilink")』（第2シリーズ）[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")に伴う[つなぎとして枠拡大したため](../Page/つなぎ番組.md "wikilink")、21:48 - 21:54で放送。
+4.  ただし[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の間は、『[アメリカ大リーグアワー](../Page/L!VE_MAJOR_LEAGUE_BASEBALL.md "wikilink")』が『[新・座頭市](https://ja.wikipedia.org/wiki/新・座頭市 "wikilink")』（第2シリーズ）[打ち切り](../Page/打ち切り.md "wikilink")に伴う[つなぎとして枠拡大したため](../Page/つなぎ番組.md "wikilink")、21:48 - 21:54で放送。
 5.  『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』放送のため。
 6.  『FNNニュース』と『明日の天気』の各3分枠。
 7.  『[時代劇スペシャル](../Page/時代劇スペシャル_\(フジテレビ\).md "wikilink")』放送のため。
@@ -425,5 +425,5 @@
 9.  『金曜ファミリーワイド』放送のため。
 10. 『[木曜おもしろバラエティ](../Page/おもしろバラエティ.md "wikilink")』『金曜ファミリーワイド』放送のため。
 11.
-12. 1995年10月から1996年9月までの間の土曜日は、『[ゴールデン洋画劇場](https://ja.wikipedia.org/wiki/ゴールデン洋画劇場 "wikilink")』が20:59開始になったため、20:59までの放送となった。
+12. 1995年10月から1996年9月までの間の土曜日は、『[ゴールデン洋画劇場](../Page/ゴールデン洋画劇場.md "wikilink")』が20:59開始になったため、20:59までの放送となった。
 13. 主に新人だった[境鶴丸](../Page/境鶴丸.md "wikilink")らが担当していた。

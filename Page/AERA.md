@@ -1,7 +1,7 @@
 > この記事は[AERA](https://ja.wikipedia.org/wiki/AERA)から翻訳されています。
 
 
-**AERA**（アエラ）は、[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")発行分までは[朝日新聞社](../Page/朝日新聞社.md "wikilink")出版本部）が毎週発行する[週刊誌である](../Page/雑誌.md "wikilink")。正式には「[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")ウィークリー AERA」という。発行部数8.7万部（2016年10月1日～2017年9月30日において）は[SPA\!](https://ja.wikipedia.org/wiki/SPA! "wikilink")に次いで業界第11位\[1\]。
+**AERA**（アエラ）は、[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")発行分までは[朝日新聞社](../Page/朝日新聞社.md "wikilink")出版本部）が毎週発行する[週刊誌である](../Page/雑誌.md "wikilink")。正式には「[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")ウィークリー AERA」という。発行部数8.7万部（2016年10月1日～2017年9月30日において）は[SPA\!](../Page/SPA!.md "wikilink")に次いで業界第11位\[1\]。
 
 ## 概要
 
@@ -13,11 +13,11 @@
 
 ## 表紙について
 
-創刊号の表紙を飾ったのは[利根川進](https://ja.wikipedia.org/wiki/利根川進 "wikilink")。創刊以来[2016年](../Page/2016年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")号まで続いたのが、写真家[坂田栄一郎](../Page/坂田栄一郎.md "wikilink")による表紙写真である。同年[4月18日](../Page/4月18日.md "wikilink")号からは[蜷川実花](https://ja.wikipedia.org/wiki/蜷川実花 "wikilink")が表紙写真を担当（同号の表紙を飾ったのは[渡辺謙](../Page/渡辺謙.md "wikilink")）。各界を代表する有名人の顔が撮影されることが多い。
+創刊号の表紙を飾ったのは[利根川進](https://ja.wikipedia.org/wiki/利根川進 "wikilink")。創刊以来[2016年](../Page/2016年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")号まで続いたのが、写真家[坂田栄一郎](../Page/坂田栄一郎.md "wikilink")による表紙写真である。同年[4月18日](../Page/4月18日.md "wikilink")号からは[蜷川実花](../Page/蜷川実花.md "wikilink")が表紙写真を担当（同号の表紙を飾ったのは[渡辺謙](../Page/渡辺謙.md "wikilink")）。各界を代表する有名人の顔が撮影されることが多い。
 
 漫画・アニメのキャラクターとしては、[2003年](../Page/2003年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")号で[鉄腕アトム](../Page/鉄腕アトム.md "wikilink")が、[2015年](../Page/2015年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")号で[シャア・アズナブル](../Page/シャア・アズナブル.md "wikilink")が、同年[8月31日](../Page/8月31日.md "wikilink")号で[綾波レイ](../Page/綾波レイ.md "wikilink")が表紙を飾っている。[2014年](../Page/2014年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")増大号では[宮崎駿](../Page/宮崎駿.md "wikilink")画のイラスト、2015年[1月12日](../Page/1月12日.md "wikilink")増大号では画のイラストが表紙を飾っている。また、ニュース写真が表紙を飾ることがある。
 
-2011年、[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")による[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")を受けて3月28日号（3月19日発売）の表紙に[防塵マスク](https://ja.wikipedia.org/wiki/防塵マスク "wikilink")をつけた人物の顔のアップに、赤い文字の見出し「[放射能](../Page/放射能.md "wikilink")がくる」を重ねたものを使用した。これに対して、「[風評被害](https://ja.wikipedia.org/wiki/風評被害 "wikilink")を助長する」「恐怖心をあおってどうするのか」「インパクトばかり求めている」などと非難が相次いだ\[2\]\[3\]。同誌は、[Twitter](../Page/Twitter.md "wikilink")で[謝罪](https://ja.wikipedia.org/wiki/謝罪 "wikilink")を表明\[4\]\[5\]。[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")の取材に「ツイッターに掲出したコメントにある通りです」と回答して、ツイッターでのコメントをもって公式コメントに変える意向を示していたが、最終的に、同誌公式サイト上での編集長[尾木和晴](https://ja.wikipedia.org/wiki/尾木和晴 "wikilink")名義での謝罪を行った\[6\]。また、このような危機を煽る報道姿勢に反発し[野田秀樹](../Page/野田秀樹.md "wikilink")は、連載していたコラムを4月4日号をもって自ら打ち切ることを表明した\[7\]。
+2011年、[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")による[福島第一原子力発電所事故](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")を受けて3月28日号（3月19日発売）の表紙に[防塵マスク](https://ja.wikipedia.org/wiki/防塵マスク "wikilink")をつけた人物の顔のアップに、赤い文字の見出し「[放射能](../Page/放射能.md "wikilink")がくる」を重ねたものを使用した。これに対して、「[風評被害](../Page/風評被害.md "wikilink")を助長する」「恐怖心をあおってどうするのか」「インパクトばかり求めている」などと非難が相次いだ\[2\]\[3\]。同誌は、[Twitter](../Page/Twitter.md "wikilink")で[謝罪](../Page/謝罪.md "wikilink")を表明\[4\]\[5\]。[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")の取材に「ツイッターに掲出したコメントにある通りです」と回答して、ツイッターでのコメントをもって公式コメントに変える意向を示していたが、最終的に、同誌公式サイト上での編集長[尾木和晴](https://ja.wikipedia.org/wiki/尾木和晴 "wikilink")名義での謝罪を行った\[6\]。また、このような危機を煽る報道姿勢に反発し[野田秀樹](../Page/野田秀樹.md "wikilink")は、連載していたコラムを4月4日号をもって自ら打ち切ることを表明した\[7\]。
 
 2015年[9月28日](../Page/9月28日.md "wikilink")増大号の表紙は、創刊以来初めて「いまこそ、みんなの日本国憲法」という文字のみが記載されたものとなった\[8\]。
 
@@ -36,7 +36,7 @@
 
 ## 一行コピー
 
-電車の[中吊り広告](https://ja.wikipedia.org/wiki/中吊り広告 "wikilink")などに掲載される「一行コピー」が名物となっている。記事に掲載されたトピックに引っかけた[駄洒落](https://ja.wikipedia.org/wiki/駄洒落 "wikilink")となっているのが特徴で、毎週どういう駄洒落が掲載されるかを楽しみにしたり、週毎の出来・不出来をチェックする者もいる\[9\]。それどころか、自作の駄洒落を勝手に投稿する人すらいる。なお、一行コピーは編集部の中から選考され、投稿された駄洒落が採用されることはない。選考過程やエピソードは[公式サイト内のブログ](http://www.aera-net.jp/copy/)に掲載されている。
+電車の[中吊り広告](https://ja.wikipedia.org/wiki/中吊り広告 "wikilink")などに掲載される「一行コピー」が名物となっている。記事に掲載されたトピックに引っかけた[駄洒落](../Page/駄洒落.md "wikilink")となっているのが特徴で、毎週どういう駄洒落が掲載されるかを楽しみにしたり、週毎の出来・不出来をチェックする者もいる\[9\]。それどころか、自作の駄洒落を勝手に投稿する人すらいる。なお、一行コピーは編集部の中から選考され、投稿された駄洒落が採用されることはない。選考過程やエピソードは[公式サイト内のブログ](http://www.aera-net.jp/copy/)に掲載されている。
 
 1998年には、AERA創刊10周年を記念して、それまでに発表された一行コピーとそれにまつわるエピソードなどを掲載した『腰くだけ発想法 アエラ一行コピー』（『AERA』1998年7月10日号臨時増刊）を出版した。
 
@@ -56,7 +56,7 @@
 
 ## 関係者
 
-  - [田岡俊次](https://ja.wikipedia.org/wiki/田岡俊次 "wikilink")（元副編集長、軍事評論家）
+  - [田岡俊次](../Page/田岡俊次.md "wikilink")（元副編集長、軍事評論家）
   - [烏賀陽弘道](../Page/烏賀陽弘道.md "wikilink")
   - [大鹿靖明](../Page/大鹿靖明.md "wikilink")（スタッフライター）
   - [眞木準](https://ja.wikipedia.org/wiki/眞木準 "wikilink")（誌名を命名したコピーライター）

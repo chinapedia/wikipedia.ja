@@ -1,13 +1,13 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK杯テレビ囲碁トーナメント**（NHKはいテレビいごトーナメント）とは[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が主催する[囲碁](../Page/囲碁.md "wikilink")の[棋戦である](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。[トーナメント方式](../Page/トーナメント方式.md "wikilink")で、優勝者には「**NHK杯選手権者**」（略して「**NHK杯**」）の称号が贈られ、次期の優勝者にその称号が贈られるまで主にNHKの囲碁番組内などで呼称される。対局はNHKのテレビスタジオで行われ、その模様は[NHK教育テレビで毎週](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")1局ずつ放送される（当初は[NHKラジオ第2放送](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")）。年度始めの4月に本選の放送がスタートし、年度末の翌年3月に決勝戦が行われる。
+**NHK杯テレビ囲碁トーナメント**（NHKはいテレビいごトーナメント）とは[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が主催する[囲碁](../Page/囲碁.md "wikilink")の[棋戦である](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。[トーナメント方式](../Page/トーナメント方式.md "wikilink")で、優勝者には「**NHK杯選手権者**」（略して「**NHK杯**」）の称号が贈られ、次期の優勝者にその称号が贈られるまで主にNHKの囲碁番組内などで呼称される。対局はNHKのテレビスタジオで行われ、その模様は[NHK教育テレビで毎週](../Page/NHK教育テレビジョン.md "wikilink")1局ずつ放送される（当初は[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")）。年度始めの4月に本選の放送がスタートし、年度末の翌年3月に決勝戦が行われる。
 
-優勝賞金は500万円。1988年度からの優勝者と準優勝者は[テレビ囲碁アジア選手権戦](https://ja.wikipedia.org/wiki/テレビ囲碁アジア選手権戦 "wikilink")への出場権を得る。[棋譜](../Page/棋譜.md "wikilink")は[NHK出版のテキスト](https://ja.wikipedia.org/wiki/日本放送出版協会 "wikilink")『[NHK囲碁講座](https://ja.wikipedia.org/wiki/NHK囲碁講座 "wikilink")』に掲載される。
+優勝賞金は500万円。1988年度からの優勝者と準優勝者は[テレビ囲碁アジア選手権戦](../Page/テレビ囲碁アジア選手権戦.md "wikilink")への出場権を得る。[棋譜](../Page/棋譜.md "wikilink")は[NHK出版のテキスト](https://ja.wikipedia.org/wiki/日本放送出版協会 "wikilink")『[NHK囲碁講座](https://ja.wikipedia.org/wiki/NHK囲碁講座 "wikilink")』に掲載される。
 
 ## 創設と歴史
 
-1946年から[ラジオ](../Page/ラジオ.md "wikilink")の[NHK第2放送で日曜午後](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")1時から、囲碁講座と、[大手合](../Page/大手合.md "wikilink")の好局の解説を始め、やがて[本因坊戦](https://ja.wikipedia.org/wiki/本因坊戦 "wikilink")や十番碁も取り上げるようになり、囲碁が定期的に放送されることになった。特別番組として散発的にスタジオでの対局も行われていたが、1953年からトーナメント形式の「NHK杯争奪囲碁トーナメント」として開始\[1\]。8人の出場者により、持時間50分、秒読み30秒で行い、毎週1時間ずつ、2週に分けて放送された。
+1946年から[ラジオ](../Page/ラジオ.md "wikilink")の[NHK第2放送で日曜午後](../Page/NHKラジオ第2放送.md "wikilink")1時から、囲碁講座と、[大手合](../Page/大手合.md "wikilink")の好局の解説を始め、やがて[本因坊戦](https://ja.wikipedia.org/wiki/本因坊戦 "wikilink")や十番碁も取り上げるようになり、囲碁が定期的に放送されることになった。特別番組として散発的にスタジオでの対局も行われていたが、1953年からトーナメント形式の「NHK杯争奪囲碁トーナメント」として開始\[1\]。8人の出場者により、持時間50分、秒読み30秒で行い、毎週1時間ずつ、2週に分けて放送された。
 
 第1回は[島村利博](https://ja.wikipedia.org/wiki/島村利博 "wikilink")が優勝、また第2回までで黒番が12勝2敗と優位であったため、第3回からはコミが4目半から5目半に改められた。1956年には放送時間が30分となり、持時間も25分に短縮された。
 
@@ -68,12 +68,12 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 | 15 | [1967年](../Page/1967年.md "wikilink")                    | [大竹英雄](https://ja.wikipedia.org/wiki/大竹英雄 "wikilink") | 橋本昌二                                                  |
 | 16 | [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink") | 藤沢秀行                                                  | 藤沢朋斎                                                  |
 | 17 | [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") | [林海峰](https://ja.wikipedia.org/wiki/林海峰 "wikilink")   | 坂田栄男                                                  |
-| 18 | [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink") | 大竹英雄(2)                                               | [石田芳夫](https://ja.wikipedia.org/wiki/石田芳夫 "wikilink") |
+| 18 | [1970年](../Page/1970年.md "wikilink")                    | 大竹英雄(2)                                               | [石田芳夫](https://ja.wikipedia.org/wiki/石田芳夫 "wikilink") |
 | 19 | [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink") | 坂田栄男(8)                                               | 大竹英雄                                                  |
 | 20 | [1972年](../Page/1972年.md "wikilink")                    | 大竹英雄(3)                                               | 橋本昌二                                                  |
-| 21 | [1973年](../Page/1973年.md "wikilink")                    | 林海峰(2)                                                | [加藤正夫](https://ja.wikipedia.org/wiki/加藤正夫 "wikilink") |
+| 21 | [1973年](../Page/1973年.md "wikilink")                    | 林海峰(2)                                                | [加藤正夫](../Page/加藤正夫.md "wikilink")                    |
 | 22 | [1974年](../Page/1974年.md "wikilink")                    | 大竹英雄(4)                                               | [武宮正樹](../Page/武宮正樹.md "wikilink")                    |
-| 23 | [1975年](../Page/1975年.md "wikilink")                    | 坂田栄男(9)                                               | [呉清源](https://ja.wikipedia.org/wiki/呉清源 "wikilink")   |
+| 23 | [1975年](../Page/1975年.md "wikilink")                    | 坂田栄男(9)                                               | [呉清源](../Page/呉清源.md "wikilink")                      |
 | 24 | [1976年](../Page/1976年.md "wikilink")                    | 坂田栄男(10)                                              | 武宮正樹                                                  |
 | 25 | [1977年](../Page/1977年.md "wikilink")                    | 林海峰(3)                                                | [大平修三](../Page/大平修三.md "wikilink")                    |
 | 26 | [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink") | [東野弘昭](../Page/東野弘昭.md "wikilink")                    | 高木祥一                                                  |
@@ -85,7 +85,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 | 32 | [1984年](../Page/1984年.md "wikilink")                    | 橋本昌二(3)                                               | 石田芳夫                                                  |
 | 33 | [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") | [小林光一](https://ja.wikipedia.org/wiki/小林光一 "wikilink") | 武宮正樹                                                  |
 | 34 | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink") | 石田芳夫                                                  | 林海峰                                                   |
-| 35 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") | 加藤正夫                                                  | [王立誠](https://ja.wikipedia.org/wiki/王立誠 "wikilink")   |
+| 35 | [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") | 加藤正夫                                                  | [王立誠](../Page/王立誠.md "wikilink")                      |
 | 36 | [1988年](../Page/1988年.md "wikilink")                    | 武宮正樹                                                  | [小林覚](https://ja.wikipedia.org/wiki/小林覚 "wikilink")   |
 | 37 | [1989年](../Page/1989年.md "wikilink")                    | 石田芳夫(2)                                               | 大竹英雄                                                  |
 | 38 | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") | [依田紀基](../Page/依田紀基.md "wikilink")                    | [王銘琬](https://ja.wikipedia.org/wiki/王銘エン "wikilink")  |
@@ -103,7 +103,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 | 50 | [2002年](../Page/2002年.md "wikilink")                    | [三村智保](../Page/三村智保.md "wikilink")                    | 王立誠                                                   |
 | 51 | [2003年](../Page/2003年.md "wikilink")                    | 小林光一(2)                                               | 趙治勲                                                   |
 | 52 | [2004年](../Page/2004年.md "wikilink")                    | 張栩(2)                                                 | 依田紀基                                                  |
-| 53 | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") | 羽根直樹                                                  | 今村俊也                                                  |
+| 53 | [2005年](../Page/2005年.md "wikilink")                    | 羽根直樹                                                  | 今村俊也                                                  |
 | 54 | [2006年](../Page/2006年.md "wikilink")                    | 趙治勲(4)                                                | [結城聡](../Page/結城聡.md "wikilink")                      |
 | 55 | [2007年](../Page/2007年.md "wikilink")                    | 張栩(3)                                                 | 趙治勲                                                   |
 | 56 | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") | 結城聡                                                   | 武宮正樹                                                  |
@@ -148,7 +148,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
   - 手数が長くなった場合、考慮時間や秒読みの時間が大幅にカットされる。
   - 第57回（2009年度）の途中からはオープニングでの司会者の挨拶が廃止され、オープニング映像が終わると即座に先手と後手を決める[ニギリ](https://ja.wikipedia.org/wiki/ニギリ "wikilink")が行われて対局が開始されるようになった（カメラ位置の関係から、ニギリの結果によっては、先後が席を入れ替わることもある）。だが第59回（2011年度）からはオープニングでの司会者の挨拶が復活し、代わりにニギリの場面は省略されるようになった。第58回（2010年度）と59回では、両対局者の対局前のインタビューも放送された。
   - 放送時間より早く対局が終わった場合は時間になるまで[局後の検討を行うことが多い](../Page/感想戦.md "wikilink")。時間の余りが多い場合には、過去の対局のVTRを解説付きで放映することがある。
-  - かつては[将棋のNHK杯同様畳敷きの和室のスタジオセットの上に座って対局が行なわれたが](https://ja.wikipedia.org/wiki/NHK杯テレビ将棋トーナメント "wikilink")、第45回（1997年度）より世界戦に合わせ、椅子対局に変更された。なお、対局に使われるテーブルは、通常の六寸盤をはめ込むための穴が開けてある特殊な物である。
+  - かつては[将棋のNHK杯同様畳敷きの和室のスタジオセットの上に座って対局が行なわれたが](../Page/NHK杯テレビ将棋トーナメント.md "wikilink")、第45回（1997年度）より世界戦に合わせ、椅子対局に変更された。なお、対局に使われるテーブルは、通常の六寸盤をはめ込むための穴が開けてある特殊な物である。
   - 画面では黒番の対局者が左側、白番の対局者が右側に来る様になっている。
   - 第61回（2013年度）から、「私の一手」というコーナーがある。対局の放送終了後、勝ったほうの対局者が解説用の碁盤に石を並べ、勝利につながった手や、自分がいい手だったと思った自分の手を紹介する。
 
@@ -161,11 +161,11 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
   - 放送開始 - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")度：大橋俊雄
   - [1984](../Page/1984年.md "wikilink") - [1993年](../Page/1993年.md "wikilink")度：[小川誠子](../Page/小川誠子.md "wikilink")（一時真門和子が担当）
   - [1994](../Page/1994年.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")度：[原幸子](https://ja.wikipedia.org/wiki/原幸子 "wikilink")
-  - [1996](../Page/1996年.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")度：[梅沢由香里](https://ja.wikipedia.org/wiki/吉原由香里 "wikilink")
+  - [1996](../Page/1996年.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")度：[梅沢由香里](../Page/吉原由香里.md "wikilink")
   - [1998](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [1999年](../Page/1999年.md "wikilink")度：穂坂繭
   - [2000](../Page/2000年.md "wikilink") - [2001年](../Page/2001年.md "wikilink")度：[稲葉禄子](https://ja.wikipedia.org/wiki/稲葉禄子 "wikilink")
   - [2002](../Page/2002年.md "wikilink") - [2003年](../Page/2003年.md "wikilink")度：[万波佳奈](../Page/万波佳奈.md "wikilink")
-  - [2004](../Page/2004年.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")度：[青葉かおり](../Page/青葉かおり.md "wikilink")
+  - [2004](../Page/2004年.md "wikilink") - [2005年](../Page/2005年.md "wikilink")度：[青葉かおり](../Page/青葉かおり.md "wikilink")
   - [2006](../Page/2006年.md "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度：[中島美絵子](../Page/中島美絵子.md "wikilink")
   - [2009](../Page/2009年.md "wikilink") - [2011年](../Page/2011年.md "wikilink")度：[万波奈穂](https://ja.wikipedia.org/wiki/万波奈穂 "wikilink")
   - [2012](../Page/2012年.md "wikilink") - [2014年](../Page/2014年.md "wikilink")度：[下坂美織](https://ja.wikipedia.org/wiki/下坂美織 "wikilink")
@@ -194,7 +194,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 
 ## 備考
 
-  - 2004年[10月24日](../Page/10月24日.md "wikilink")放送予定分は[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")に伴う[安否確認放送の為](https://ja.wikipedia.org/wiki/安否情報 "wikilink")、[25日](../Page/10月25日.md "wikilink") 3:00～5:00に放映され更に[31日](../Page/10月31日.md "wikilink") 1:25～3:25に改めて再放送を行った。
+  - 2004年[10月24日](../Page/10月24日.md "wikilink")放送予定分は[新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")に伴う[安否確認放送の為](../Page/安否情報.md "wikilink")、[25日](../Page/10月25日.md "wikilink") 3:00～5:00に放映され更に[31日](../Page/10月31日.md "wikilink") 1:25～3:25に改めて再放送を行った。
   - CSの[囲碁将棋チャンネル](https://ja.wikipedia.org/wiki/囲碁将棋チャンネル "wikilink")では『NHK杯テレビ囲碁トーナメント選』として1980年代のNHK杯テレビ囲碁トーナメントの対局を放送している（2012年10月現在、月曜日20：00～）。
 
 ## 脚注
@@ -207,7 +207,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 
 ## 関連項目
 
-  - [NHK杯テレビ将棋トーナメント](https://ja.wikipedia.org/wiki/NHK杯テレビ将棋トーナメント "wikilink")
+  - [NHK杯テレビ将棋トーナメント](../Page/NHK杯テレビ将棋トーナメント.md "wikilink")
 
 ## 外部リンク
 
@@ -216,7 +216,7 @@ NHKテレビでは1961年4月に[高川格](../Page/高川格.md "wikilink")と[
 
 [Category:日本の囲碁の棋戦](https://ja.wikipedia.org/wiki/Category:日本の囲碁の棋戦 "wikilink") [Category:NHK杯](https://ja.wikipedia.org/wiki/Category:NHK杯 "wikilink") [Category:囲碁・将棋の番組](https://ja.wikipedia.org/wiki/Category:囲碁・将棋の番組 "wikilink")
 
-1.  [将棋トーナメントの方は](https://ja.wikipedia.org/wiki/NHK杯テレビ将棋トーナメント "wikilink")、囲碁より2年早い1951年より開始している。
+1.  [将棋トーナメントの方は](../Page/NHK杯テレビ将棋トーナメント.md "wikilink")、囲碁より2年早い1951年より開始している。
 2.  かつては持ち時間5分の時代もあったが、現在はない。
 3.  解説によると、盤面13目差で黒が優勢。
 4.  坂田は第29回の杉内雅男戦、藤沢は第37回の加藤正夫戦等で喫煙が確認できる

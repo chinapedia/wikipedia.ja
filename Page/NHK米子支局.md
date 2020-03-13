@@ -13,11 +13,11 @@
 
 ## 沿革
 
-  - [1954年](../Page/1954年.md "wikilink")（昭和29年）[10月24日](../Page/10月24日.md "wikilink") - 米子放送局開局。[上後藤放送所から](../Page/NHK上後藤ラジオ中継放送所.md "wikilink")[ラジオ第1放送を開始](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")。
-  - [1957年](../Page/1957年.md "wikilink")（昭和32年）[12月20日](../Page/12月20日.md "wikilink") - 上後藤放送所から[ラジオ第2放送を開始](https://ja.wikipedia.org/wiki/NHKラジオ第2放送 "wikilink")。
-  - [1959年](../Page/1959年.md "wikilink")（昭和34年）[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - [松江放送局](../Page/NHK松江放送局.md "wikilink")、[枕木山から](../Page/松江・米子_テレビ・FM放送所.md "wikilink")[アナログ総合テレビの放送を開始](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。[電波事情から米子市などもエリアとなる](https://ja.wikipedia.org/wiki/電波相互乗り入れ "wikilink")。
-  - [1962年](../Page/1962年.md "wikilink")（昭和37年）[12月28日](../Page/12月28日.md "wikilink") - 松江放送局、枕木山から[アナログ教育テレビの放送を開始](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年） - 鳥取放送局、上後藤放送所にアナログ総合テレビの中継局を設置、42ch・映像出力30Wで放送開始。
+  - [1954年](../Page/1954年.md "wikilink")（昭和29年）[10月24日](../Page/10月24日.md "wikilink") - 米子放送局開局。[上後藤放送所から](../Page/NHK上後藤ラジオ中継放送所.md "wikilink")[ラジオ第1放送を開始](../Page/NHKラジオ第1放送.md "wikilink")。
+  - [1957年](../Page/1957年.md "wikilink")（昭和32年）[12月20日](../Page/12月20日.md "wikilink") - 上後藤放送所から[ラジオ第2放送を開始](../Page/NHKラジオ第2放送.md "wikilink")。
+  - [1959年](../Page/1959年.md "wikilink")（昭和34年）[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") - [松江放送局](../Page/NHK松江放送局.md "wikilink")、[枕木山から](../Page/松江・米子_テレビ・FM放送所.md "wikilink")[アナログ総合テレビの放送を開始](../Page/NHK総合テレビジョン.md "wikilink")。[電波事情から米子市などもエリアとなる](https://ja.wikipedia.org/wiki/電波相互乗り入れ "wikilink")。
+  - [1962年](../Page/1962年.md "wikilink")（昭和37年）[12月28日](../Page/12月28日.md "wikilink") - 松江放送局、枕木山から[アナログ教育テレビの放送を開始](../Page/NHK教育テレビジョン.md "wikilink")。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年） - 鳥取放送局、上後藤放送所にアナログ総合テレビの中継局を設置、42ch・映像出力30Wで放送開始。
   - [1982年](../Page/1982年.md "wikilink")（昭和57年）[11月1日](../Page/11月1日.md "wikilink") - ラジオ第1のコールサインを「JOLQ」に、ラジオ第2のコールサインを「JOLZ」に、それぞれ変更。
   - [1984年](../Page/1984年.md "wikilink")（昭和59年） - NHKの組織改革に伴い制作部廃止。
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）[7月22日](../Page/7月22日.md "wikilink") - NHKの組織改革に伴い支局に格下げ。
@@ -37,7 +37,7 @@
 
 ### その他
 
-  - [FMの米子局は存在しないため](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")、以下の域内局を受信することになる（鳥取県内限定）。
+  - [FMの米子局は存在しないため](../Page/NHK-FM放送.md "wikilink")、以下の域内局を受信することになる（鳥取県内限定）。
       - 日野中継局 84.0MHz
       - 米子日南中継局 85.3MHz
   - 上後藤放送所からアナログ総合テレビの放送が行われていた時代、国内でも珍しい中波鉄管柱アンテナの頂上冠直下にUHF用双ループアンテナ併設という構造になっていた。

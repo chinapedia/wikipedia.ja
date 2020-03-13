@@ -1,7 +1,7 @@
 > この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
 
 
-**トーマス・C・カンサ**（Thomas C Kantha、[1948年](../Page/1948年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - ）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")[クワズール・ナタール州](https://ja.wikipedia.org/wiki/クワズール・ナタール州 "wikilink")トンガート出身の詩人、英会話講師。
+**トーマス・C・カンサ**（Thomas C Kantha、[1948年](../Page/1948年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - ）は、[南アフリカ共和国](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink")[クワズール・ナタール州](../Page/クワズール・ナタール州.md "wikilink")トンガート出身の詩人、英会話講師。
 
 ## 来歴・人物
 
@@ -13,7 +13,7 @@
 
 [NGO団体](../Page/非政府組織.md "wikilink")、ヒランガニ・ンゴタンド主宰。[大阪市](../Page/大阪市.md "wikilink")[平野区](../Page/平野区.md "wikilink")在住。
 
-なお、来日した頃より[合気道](https://ja.wikipedia.org/wiki/合気道 "wikilink")の修行を重ね黒帯を取得。同門には[俳優](../Page/俳優.md "wikilink")である[スティーヴン・セガール](https://ja.wikipedia.org/wiki/スティーヴン・セガール "wikilink")がいる。
+なお、来日した頃より[合気道](https://ja.wikipedia.org/wiki/合気道 "wikilink")の修行を重ね黒帯を取得。同門には[俳優](../Page/俳優.md "wikilink")である[スティーヴン・セガール](../Page/スティーヴン・セガール.md "wikilink")がいる。
 
 ## 著書
 

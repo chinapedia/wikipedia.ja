@@ -13,7 +13,7 @@
 | その後                                                                                                                                    |
 | 除籍                                                                                                                                     |
 | 性能諸元                                                                                                                                   |
-| [排水量](https://ja.wikipedia.org/wiki/排水量 "wikilink")                                                                                    |
+| [排水量](../Page/排水量.md "wikilink")                                                                                                       |
 | 全長                                                                                                                                     |
 | 全幅                                                                                                                                     |
 | 吃水                                                                                                                                     |
@@ -31,7 +31,7 @@
 
 ハリー・W・ヒルは[1977年](../Page/1977年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に[ミシシッピ州](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")[パスカグーラ](../Page/パスカグーラ.md "wikilink")の[インガルス造船所](../Page/インガルス造船所.md "wikilink")で起工し、[1979年](../Page/1979年.md "wikilink")[11月17日](../Page/11月17日.md "wikilink")に就役した。
 
-1982年11月下旬、ハリー・W・ヒルは[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")の[空母](https://ja.wikipedia.org/wiki/空母 "wikilink")[ミンスクを追跡するため](../Page/ミンスク_\(空母\).md "wikilink")[エンタープライズ](https://ja.wikipedia.org/wiki/エンタープライズ_\(CVN-65\) "wikilink")[戦闘群から分離された](../Page/空母打撃群.md "wikilink")。ミンスクは最初の極東配備のためインド洋を通過中であり、アメリカ軍首脳部はかなりの関心を抱いていた。エンタープライズはミンスク追跡支援のため2名の諜報専門家をハリー・W・ヒルへ派遣した。ハリー・W・ヒルは1983年1月19日から20日にかけて再び戦闘群に合流した。
+1982年11月下旬、ハリー・W・ヒルは[ソ連](https://ja.wikipedia.org/wiki/ソ連 "wikilink")の[空母](https://ja.wikipedia.org/wiki/空母 "wikilink")[ミンスクを追跡するため](../Page/ミンスク_\(空母\).md "wikilink")[エンタープライズ](../Page/エンタープライズ_\(CVN-65\).md "wikilink")[戦闘群から分離された](../Page/空母打撃群.md "wikilink")。ミンスクは最初の極東配備のためインド洋を通過中であり、アメリカ軍首脳部はかなりの関心を抱いていた。エンタープライズはミンスク追跡支援のため2名の諜報専門家をハリー・W・ヒルへ派遣した。ハリー・W・ヒルは1983年1月19日から20日にかけて再び戦闘群に合流した。
 
 ハリー・W・ヒルは[湾岸戦争](../Page/湾岸戦争.md "wikilink")における[砂漠の盾作戦](../Page/砂漠の盾作戦.md "wikilink")および[砂漠の嵐作戦](https://ja.wikipedia.org/wiki/砂漠の嵐作戦 "wikilink")の一部として展開した。1991年1月14日、[オマーン湾](../Page/オマーン湾.md "wikilink")において[ウィチタ級給油艦](https://ja.wikipedia.org/wiki/ウィチタ級給油艦 "wikilink")と衝突事故を起こす。報告ではこの事故による負傷者はいなかった。
 

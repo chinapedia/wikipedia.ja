@@ -21,7 +21,7 @@
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - アベノYMCA学院に全日制日本語学科開設
   - [1993年](../Page/1993年.md "wikilink") - 大阪YMCA国際専門学校を財団法人から準学校法人へ設置者変更
   - [2002年](../Page/2002年.md "wikilink") - 準学校法人大阪キリスト教青年会を[学校法人](../Page/学校法人.md "wikilink")へ組織変更
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - 大阪YMCA国際専門学校国際高等課程に**表現・コミュニケーション学科**開設
+  - [2005年](../Page/2005年.md "wikilink") - 大阪YMCA国際専門学校国際高等課程に**表現・コミュニケーション学科**開設
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 大阪YMCA国際専門学校国際高等課程 表現・コミュニケーション学科に**マイスペクラス**開設
 
 ## 学科
@@ -49,7 +49,7 @@
 ## 交通
 
   - [大阪市高速電気軌道四つ橋線](../Page/大阪市高速電気軌道四つ橋線.md "wikilink")[肥後橋駅](https://ja.wikipedia.org/wiki/肥後橋駅 "wikilink")下車徒歩約5分
-  - [京阪中之島線](https://ja.wikipedia.org/wiki/京阪中之島線 "wikilink")[渡辺橋駅](https://ja.wikipedia.org/wiki/渡辺橋駅 "wikilink")下車徒歩約8分
+  - [京阪中之島線](../Page/京阪中之島線.md "wikilink")[渡辺橋駅](https://ja.wikipedia.org/wiki/渡辺橋駅 "wikilink")下車徒歩約8分
   - [大阪シティバス](../Page/大阪シティバス.md "wikilink")土佐堀1丁目停留所下車すぐ
 
 ## 関連項目

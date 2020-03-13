@@ -1,7 +1,7 @@
 > この記事は[Return](https://ja.wikipedia.org/wiki/Return)から翻訳されています。
 
 
-**return文**（リターンぶん、）とは、[プログラミング言語](../Page/プログラミング言語.md "wikilink")における[文の一つである](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")。[goto文](https://ja.wikipedia.org/wiki/goto文 "wikilink")や[break文](https://ja.wikipedia.org/wiki/break文 "wikilink")、[continue文](https://ja.wikipedia.org/wiki/continue文 "wikilink")のようなジャンプ文 () に分類される。[サブルーチン](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")からの復帰に使われ、復帰と同時に[値を返すことができる](../Page/値_\(情報工学\).md "wikilink")。その値は**戻り値**（もどりち、）、**返り値**（かえりち）、**返却値**（へんきゃくち）あるいはそのまま**return値**（リターンち）などと呼ばれる。
+**return文**（リターンぶん、）とは、[プログラミング言語](../Page/プログラミング言語.md "wikilink")における[文の一つである](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")。[goto文](https://ja.wikipedia.org/wiki/goto文 "wikilink")や[break文](https://ja.wikipedia.org/wiki/break文 "wikilink")、[continue文](https://ja.wikipedia.org/wiki/continue文 "wikilink")のようなジャンプ文 () に分類される。[サブルーチン](../Page/サブルーチン.md "wikilink")からの復帰に使われ、復帰と同時に[値を返すことができる](../Page/値_\(情報工学\).md "wikilink")。その値は**戻り値**（もどりち、）、**返り値**（かえりち）、**返却値**（へんきゃくち）あるいはそのまま**return値**（リターンち）などと呼ばれる。
 
 ## 言語別の意味や構文
 
@@ -9,7 +9,7 @@
 
 [Cおよび](../Page/C言語.md "wikilink")[C++](../Page/C++.md "wikilink")において、return文とは、[関数を実行した結果や](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")、その処理が成功したかどうか等を示すデータを呼び出し元に渡すとともに、関数を終了させ呼び出し側に制御を戻す働きを持つ[文である](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")。return文によって関数の呼び出し元にデータを渡すことを、**値を返す**と言う。
 
-return文によって返される値の[型は](https://ja.wikipedia.org/wiki/データ型 "wikilink")、関数の定義時や[プロトタイプ宣言](https://ja.wikipedia.org/wiki/プロトタイプ宣言 "wikilink")時に指定する。例えば、
+return文によって返される値の[型は](../Page/データ型.md "wikilink")、関数の定義時や[プロトタイプ宣言](https://ja.wikipedia.org/wiki/プロトタイプ宣言 "wikilink")時に指定する。例えば、
 
 ``` c
 int f();
@@ -101,7 +101,7 @@ return 式;
 
 ### BASIC
 
-[BASIC](../Page/BASIC.md "wikilink")、あるいは[Visual Basicのバージョン](../Page/Visual_Basic.md "wikilink")6までにおいて、return文とは、`gosub`によって飛んだ[サブルーチン](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")から、元の[メインルーチン](https://ja.wikipedia.org/wiki/メインルーチン "wikilink")へと戻る命令である。gosub元の行番号、もしくは構文の位置を記憶しておき、`return`と書かれた個所までプログラムの進行が辿り着くと、記憶していた次の命令もしくは行番号を読み、実行を続けていく。
+[BASIC](../Page/BASIC.md "wikilink")、あるいは[Visual Basicのバージョン](../Page/Visual_Basic.md "wikilink")6までにおいて、return文とは、`gosub`によって飛んだ[サブルーチン](../Page/サブルーチン.md "wikilink")から、元の[メインルーチン](https://ja.wikipedia.org/wiki/メインルーチン "wikilink")へと戻る命令である。gosub元の行番号、もしくは構文の位置を記憶しておき、`return`と書かれた個所までプログラムの進行が辿り着くと、記憶していた次の命令もしくは行番号を読み、実行を続けていく。
 
 BASICにおけるreturn文には、行番号を伴うものと伴わないものの2つがある。
 

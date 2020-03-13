@@ -7,7 +7,7 @@
 
 ## 歴史
 
-Cyclops64は[Blue Geneプロジェクトで開発されているスーパーコンピュータの](https://ja.wikipedia.org/wiki/Blue_Gene "wikilink")1つであり、 [アメリカ合衆国エネルギー省](../Page/アメリカ合衆国エネルギー省.md "wikilink")、[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")、産業界(特に[IBM](../Page/IBM.md "wikilink"))、大学などの研究機関によって共同で開発されている。
+Cyclops64は[Blue Geneプロジェクトで開発されているスーパーコンピュータの](../Page/Blue_Gene.md "wikilink")1つであり、 [アメリカ合衆国エネルギー省](../Page/アメリカ合衆国エネルギー省.md "wikilink")、[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")、産業界(特に[IBM](../Page/IBM.md "wikilink"))、大学などの研究機関によって共同で開発されている。
 
 ## アーキテクチャ
 
@@ -32,7 +32,7 @@ Cyclops64は、[TiNy Threadと](https://ja.wikipedia.org/wiki/TiNy_Thread "wikil
 
 ## 関連項目
 
-  - [Blue Gene](https://ja.wikipedia.org/wiki/Blue_Gene "wikilink")
+  - [Blue Gene](../Page/Blue_Gene.md "wikilink")
   - [スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")
 
 [Category:スーパーコンピュータ](https://ja.wikipedia.org/wiki/Category:スーパーコンピュータ "wikilink") [Category:IBM](https://ja.wikipedia.org/wiki/Category:IBM "wikilink")

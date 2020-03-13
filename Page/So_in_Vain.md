@@ -1,7 +1,7 @@
 > この記事は[So in Vain](https://ja.wikipedia.org/wiki/So_in_Vain)から翻訳されています。
 
 
-「**So in Vain**」（ソー・イン・ヴェイン）は、[2004年](../Page/2004年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の通算10枚目のシングル。完全生産限定盤。 発売元は、[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")。
+「**So in Vain**」（ソー・イン・ヴェイン）は、[2004年](../Page/2004年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の通算10枚目のシングル。完全生産限定盤。 発売元は、[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")。
 
 ## 解説
 

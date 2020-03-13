@@ -12,9 +12,9 @@
 ## 収録曲
 
 1.  **Forever You 〜永遠に君と〜**
-      - 作詞：愛内里菜　作曲：[大野愛果](../Page/大野愛果.md "wikilink")　編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞：愛内里菜　作曲：[大野愛果](../Page/大野愛果.md "wikilink")　編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 2.  **Rosemary**
-      - 作詞：愛内里菜　作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")　編曲：[尾城九龍](../Page/尾城九龍.md "wikilink")
+      - 作詞：愛内里菜　作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")　編曲：[尾城九龍](../Page/尾城九龍.md "wikilink")
 3.  **Forever You 〜永遠に君と〜 <Jelly Wong Mata Leao Mix>**
       - リミックス：Jelly Wong & mAru
 4.  **Forever You 〜永遠に君と〜 <Instrumental>**

@@ -33,7 +33,7 @@
 6.  **[KEY OF HEART](https://ja.wikipedia.org/wiki/KEY_OF_HEART/DOTCH "wikilink")**
       -
         21stシングル。
-        [映画](../Page/映画.md "wikilink")「[森のリトル・ギャング](../Page/森のリトル・ギャング.md "wikilink")」日本語版[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")／エムティーアイ「music.jp」TV-CFソング
+        [映画](../Page/映画.md "wikilink")「[森のリトル・ギャング](../Page/森のリトル・ギャング.md "wikilink")」日本語版[主題歌](../Page/主題歌.md "wikilink")／エムティーアイ「music.jp」TV-CFソング
 7.  **OUR LOVE 〜to my parents〜**
       -
         本来は前作「OUTGROW」に収録予定だったBoA作詞の曲。

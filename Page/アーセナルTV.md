@@ -9,7 +9,7 @@
 
 ## 概要
 
-日本では[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月、[J SPORTSが放映権を獲得](../Page/J_SPORTS.md "wikilink")、同年4月より2007年5月まで放送していた。
+日本では[2005年](../Page/2005年.md "wikilink")3月、[J SPORTSが放映権を獲得](../Page/J_SPORTS.md "wikilink")、同年4月より2007年5月まで放送していた。
 
 3時間のプログラムでニュース、ザ・ビッグマッチ（プレミアリーグ・[チャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")）、アーカイブなどが放送されるが、チャンピオンズリーグやプレミアリーグの一部試合は60分程度編集して放送される。そのため一部カットされるところがある。また、[MUTV](../Page/MUTV.md "wikilink")・[チェルシーTV](../Page/チェルシーTV.md "wikilink")でもアーセナル戦が放送されることがある。
 

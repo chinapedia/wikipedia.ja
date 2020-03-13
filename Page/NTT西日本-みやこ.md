@@ -7,7 +7,7 @@
 
 ## 本社
 
-[〒](https://ja.wikipedia.org/wiki/〒 "wikilink")604-8172　京都市中京区[烏丸通](https://ja.wikipedia.org/wiki/烏丸通 "wikilink")[三条上ル場之町](../Page/三条通.md "wikilink")604
+[〒](https://ja.wikipedia.org/wiki/〒 "wikilink")604-8172　京都市中京区[烏丸通](../Page/烏丸通.md "wikilink")[三条上ル場之町](../Page/三条通.md "wikilink")604
 
 ## 事業内容
 
@@ -29,7 +29,7 @@
       - [大阪府](../Page/大阪府.md "wikilink")
           - [三島郡](https://ja.wikipedia.org/wiki/三島郡_\(大阪府\) "wikilink")[島本町](https://ja.wikipedia.org/wiki/島本町 "wikilink")
           - [四條畷市](../Page/四條畷市.md "wikilink")田原台・緑風台・さつきヶ丘・下田原の全域と上田原の一部
-          - [東大阪市](../Page/東大阪市.md "wikilink")[生駒山](https://ja.wikipedia.org/wiki/生駒山 "wikilink")
+          - [東大阪市](../Page/東大阪市.md "wikilink")[生駒山](../Page/生駒山.md "wikilink")
 
 <!-- end list -->
 

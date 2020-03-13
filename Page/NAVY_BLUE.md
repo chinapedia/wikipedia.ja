@@ -12,9 +12,9 @@
 ## 収録曲
 
 1.  **NAVY BLUE**
-      - 作詞：愛内里菜　作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")　編曲：三輪緑
+      - 作詞：愛内里菜　作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")　編曲：三輪緑
 2.  **Broken Heart**
-      - 作詞：愛内里菜　作曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")　編曲：三輪緑
+      - 作詞：愛内里菜　作曲：[徳永暁人](../Page/徳永暁人.md "wikilink")　編曲：三輪緑
 3.  **NAVY BLUE <MAX MAZIK MIX>**
       - リミックス：SCHWEITZER
 4.  **NAVY BLUE \<d'une source mix\>**

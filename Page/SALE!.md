@@ -9,15 +9,15 @@
 
 ## キャスト
 
-  - 大友銀次郎:[堺正章](https://ja.wikipedia.org/wiki/堺正章 "wikilink")
+  - 大友銀次郎:[堺正章](../Page/堺正章.md "wikilink")
   - 大友紅子:[山瀬まみ](../Page/山瀬まみ.md "wikilink")
   - 近藤環:[森且行](../Page/森且行.md "wikilink")
   - 大友美土里:[小松千春](../Page/小松千春.md "wikilink")
   - 大友葵:[若林志穂](../Page/若林志穂.md "wikilink")
   - 大友桃恵:[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")
-  - 山下:[布川敏和](https://ja.wikipedia.org/wiki/布川敏和 "wikilink")
-  - 豪徳寺小金:[銀粉蝶](https://ja.wikipedia.org/wiki/銀粉蝶 "wikilink")
-  - 近藤:[佐野瑞樹](https://ja.wikipedia.org/wiki/佐野瑞樹_\(俳優\) "wikilink")
+  - 山下:[布川敏和](../Page/布川敏和.md "wikilink")
+  - 豪徳寺小金:[銀粉蝶](../Page/銀粉蝶.md "wikilink")
+  - 近藤:[佐野瑞樹](../Page/佐野瑞樹_\(俳優\).md "wikilink")
   - [大河内浩](../Page/大河内浩.md "wikilink")
   - [金沢碧](../Page/金沢碧.md "wikilink")
   - [木内みどり](../Page/木内みどり.md "wikilink")
@@ -32,9 +32,9 @@
 
   - 原作: [村田順子](../Page/村田順子.md "wikilink")「SALE\!」(角川書店)
   - 脚本：[鈴木貴子](https://ja.wikipedia.org/wiki/鈴木貴子_\(脚本家\) "wikilink")　
-  - 演出：[今関あきよし](https://ja.wikipedia.org/wiki/今関あきよし "wikilink")、[太田雅晴](https://ja.wikipedia.org/wiki/太田雅晴 "wikilink")
+  - 演出：[今関あきよし](../Page/今関あきよし.md "wikilink")、[太田雅晴](https://ja.wikipedia.org/wiki/太田雅晴 "wikilink")
   - プロデューサー：依田正和（ABC）、志村彰（MMJ）
-  - 制作：ABC、[MMJ](https://ja.wikipedia.org/wiki/メディアミックス・ジャパン "wikilink")
+  - 制作：ABC、[MMJ](../Page/メディアミックス・ジャパン.md "wikilink")
 
 ## サブタイトル
 

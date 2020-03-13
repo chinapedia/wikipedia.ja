@@ -5,13 +5,13 @@
 
 ## 概要
 
-  - 発売当時は『[リングの魂](https://ja.wikipedia.org/wiki/リングの魂 "wikilink")』のオープニングテーマとして使用されていたが、発売から3年後、TBS系ドラマ『[略奪愛・アブない女](https://ja.wikipedia.org/wiki/略奪愛・アブない女 "wikilink")』のオープニングテーマとしてもタイアップがついている。
+  - 発売当時は『[リングの魂](../Page/リングの魂.md "wikilink")』のオープニングテーマとして使用されていたが、発売から3年後、TBS系ドラマ『[略奪愛・アブない女](../Page/略奪愛・アブない女.md "wikilink")』のオープニングテーマとしてもタイアップがついている。
   - 1st～3rdシングルはすべて[インディーズ](../Page/インディーズ.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")『[灰とダイヤモンド](../Page/灰とダイヤモンド_\(GLAYのアルバム\).md "wikilink")』に収録されていた曲だったが、今作からオリジナルの楽曲になっている。
 
 ## 収録曲
 
 1.  **Freeze My Love**
-      - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink") / 編曲:GLAY、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+      - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink") / 編曲:GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       -
         『[SPEED POP](../Page/SPEED_POP.md "wikilink")』制作の際、急遽レコーディングされた曲。
@@ -26,8 +26,8 @@
 
 **Freeze My Love**
 
-  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系スポーツバラエティ『[リングの魂](https://ja.wikipedia.org/wiki/リングの魂 "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
-  - TBS系テレビドラマ『[略奪愛・アブない女](https://ja.wikipedia.org/wiki/略奪愛・アブない女 "wikilink")』オープニングテーマ
+  - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系スポーツバラエティ『[リングの魂](../Page/リングの魂.md "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
+  - TBS系テレビドラマ『[略奪愛・アブない女](../Page/略奪愛・アブない女.md "wikilink")』オープニングテーマ
 
 ## 収録アルバム
 
@@ -46,6 +46,6 @@
 
 ## 関連項目
 
-  - [1995年の音楽](https://ja.wikipedia.org/wiki/1995年の音楽 "wikilink")
+  - [1995年の音楽](../Page/1995年の音楽.md "wikilink")
 
 [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:TBS金曜9時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS金曜9時枠の連続ドラマ主題歌 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

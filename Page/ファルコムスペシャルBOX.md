@@ -1,15 +1,15 @@
 > この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
 
 
-**ファルコムスペシャルBOX**（ファルコムスペシャルボックス）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")のアレンジ作品や[ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")などを収録した[CD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX#CD-BOX "wikilink")[シリーズ](https://ja.wikipedia.org/wiki/シリーズ "wikilink")である。
+**ファルコムスペシャルBOX**（ファルコムスペシャルボックス）とは、[日本ファルコム](../Page/日本ファルコム.md "wikilink")の[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")のアレンジ作品や[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")などを収録した[CD-BOX](https://ja.wikipedia.org/wiki/DVD-BOX#CD-BOX "wikilink")[シリーズ](https://ja.wikipedia.org/wiki/シリーズ "wikilink")である。
 
 ## 概要
 
-[羽田健太郎](https://ja.wikipedia.org/wiki/羽田健太郎 "wikilink")をはじめ、[寺嶋民哉](../Page/寺嶋民哉.md "wikilink")や[森口博子](../Page/森口博子.md "wikilink")、[米光亮](../Page/米光亮.md "wikilink")、[奥慶一](../Page/奥慶一.md "wikilink")、[南翔子](https://ja.wikipedia.org/wiki/南翔子 "wikilink")、[新居昭乃](https://ja.wikipedia.org/wiki/新居昭乃 "wikilink")、[難波弘之](../Page/難波弘之.md "wikilink")、[アンセムなどがゲストアーティストとして楽曲のアレンジを担当している](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")。
+[羽田健太郎](../Page/羽田健太郎.md "wikilink")をはじめ、[寺嶋民哉](../Page/寺嶋民哉.md "wikilink")や[森口博子](../Page/森口博子.md "wikilink")、[米光亮](../Page/米光亮.md "wikilink")、[奥慶一](../Page/奥慶一.md "wikilink")、[南翔子](../Page/南翔子.md "wikilink")、[新居昭乃](../Page/新居昭乃.md "wikilink")、[難波弘之](../Page/難波弘之.md "wikilink")、[アンセムなどがゲストアーティストとして楽曲のアレンジを担当している](../Page/ANTHEM.md "wikilink")。
 
-[CDドラマ](https://ja.wikipedia.org/wiki/CDドラマ "wikilink")では、[山口勝平](../Page/山口勝平.md "wikilink")、[山本百合子](https://ja.wikipedia.org/wiki/山本百合子 "wikilink")、[佐久間レイ](../Page/佐久間レイ.md "wikilink")、[勝生真沙子](../Page/勝生真沙子.md "wikilink")、[椎名へきる](../Page/椎名へきる.md "wikilink")、[草尾毅](../Page/草尾毅.md "wikilink")、[川菜翠](../Page/KAORI..md "wikilink")、[日高のり子](../Page/日高のり子.md "wikilink")、[井上喜久子](../Page/井上喜久子.md "wikilink")、[岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")、[国府田マリ子](https://ja.wikipedia.org/wiki/国府田マリ子 "wikilink")など豪華な[声優](../Page/声優.md "wikilink")らが出演している。
+[CDドラマ](https://ja.wikipedia.org/wiki/CDドラマ "wikilink")では、[山口勝平](../Page/山口勝平.md "wikilink")、[山本百合子](../Page/山本百合子.md "wikilink")、[佐久間レイ](../Page/佐久間レイ.md "wikilink")、[勝生真沙子](../Page/勝生真沙子.md "wikilink")、[椎名へきる](../Page/椎名へきる.md "wikilink")、[草尾毅](../Page/草尾毅.md "wikilink")、[川菜翠](../Page/KAORI..md "wikilink")、[日高のり子](../Page/日高のり子.md "wikilink")、[井上喜久子](../Page/井上喜久子.md "wikilink")、[岩男潤子](https://ja.wikipedia.org/wiki/岩男潤子 "wikilink")、[国府田マリ子](https://ja.wikipedia.org/wiki/国府田マリ子 "wikilink")など豪華な[声優](../Page/声優.md "wikilink")らが出演している。
 
-[1988年](../Page/1988年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")まで[キングレコード](../Page/キングレコード.md "wikilink")から[ファルコムレーベル](https://ja.wikipedia.org/wiki/ファルコムレーベル "wikilink")として毎年の年末に発売されたが、その後は発売が途絶えた。[2003年](../Page/2003年.md "wikilink")に一度だけ『ファルコムスペシャルBOX'2004』として7年ぶりに復活している。
+[1988年](../Page/1988年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")まで[キングレコード](../Page/キングレコード.md "wikilink")から[ファルコムレーベル](../Page/ファルコムレーベル.md "wikilink")として毎年の年末に発売されたが、その後は発売が途絶えた。[2003年](../Page/2003年.md "wikilink")に一度だけ『ファルコムスペシャルBOX'2004』として7年ぶりに復活している。
 
 ## 商品内容
 
@@ -23,7 +23,7 @@
       - 封入特典特製『リリア』[テレホンカード](../Page/テレホンカード.md "wikilink")付
   - ファルコムスペシャルBOX'91（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")12月21日、6602円）
       - CD 4枚：KICA9001-4
-      - 特製『レア』の[ハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ "wikilink")と[J.D.K.BAND](../Page/J.D.K.BAND.md "wikilink")の絵の出る[VSD付](https://ja.wikipedia.org/wiki/ビデオシングルディスク "wikilink")
+      - 特製『レア』の[ハーモニカ](../Page/ハーモニカ.md "wikilink")と[J.D.K.BAND](../Page/J.D.K.BAND.md "wikilink")の絵の出る[VSD付](https://ja.wikipedia.org/wiki/ビデオシングルディスク "wikilink")
   - ファルコムスペシャルBOX'92（[1991年](../Page/1991年.md "wikilink")12月21日、6796円）
       - CD 3枚：KICA9009-11
       - 特製[イース](../Page/イースシリーズ.md "wikilink")『フィーナ&レア・ミニ[タペストリー](../Page/タペストリー.md "wikilink")』

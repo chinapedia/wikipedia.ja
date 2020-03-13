@@ -1,7 +1,7 @@
 > この記事は[Microsoft Messenger for Mac](https://ja.wikipedia.org/wiki/Microsoft_Messenger_for_Mac)から翻訳されています。
 
 
-**Microsoft Messenger for Mac**は[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")アプリケーションのひとつで、[Mac OS Xで動作する](https://ja.wikipedia.org/wiki/macOS "wikilink")[アプリケーションである](../Page/アプリケーションソフトウェア.md "wikilink")。[MSN Messengerの後継のソフトウェアであり](https://ja.wikipedia.org/wiki/MSN_Messenger "wikilink")、開発は米国[マイクロソフト](../Page/マイクロソフト.md "wikilink")の一部門である[Macintosh Business Unitが行っていた](https://ja.wikipedia.org/wiki/Macintosh_Business_Unit "wikilink")。後継ソフトは[Skype](https://ja.wikipedia.org/wiki/Skype "wikilink")である\[1\]。
+**Microsoft Messenger for Mac**は[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")アプリケーションのひとつで、[Mac OS Xで動作する](https://ja.wikipedia.org/wiki/macOS "wikilink")[アプリケーションである](../Page/アプリケーションソフトウェア.md "wikilink")。[MSN Messengerの後継のソフトウェアであり](https://ja.wikipedia.org/wiki/MSN_Messenger "wikilink")、開発は米国[マイクロソフト](../Page/マイクロソフト.md "wikilink")の一部門である[Macintosh Business Unitが行っていた](https://ja.wikipedia.org/wiki/Macintosh_Business_Unit "wikilink")。後継ソフトは[Skype](../Page/Skype.md "wikilink")である\[1\]。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 以前はWebカメラやマイクを使ったオーディオ、ビデオ会話を行うことができないなど、Windows版のWindows Live Messengerと比べると機能面で劣っている点が多かったが、バージョン8.0からはオーディオ、ビデオ会話も可能になった。
 
-最終バージョンはMicrosoft Messenger for Mac 8.0.2である。2013年4月にMessengerサービスは廃止され、これ以降はマイクロソフトに買収された[Skype for Macに移行](https://ja.wikipedia.org/wiki/Skype "wikilink")（統合）されており、起動は可能だがログインできなくなっている。但しSkypeが利用できないMac OS Xより前のMac OSではMessengerが利用可能となっている\[2\]。
+最終バージョンはMicrosoft Messenger for Mac 8.0.2である。2013年4月にMessengerサービスは廃止され、これ以降はマイクロソフトに買収された[Skype for Macに移行](../Page/Skype.md "wikilink")（統合）されており、起動は可能だがログインできなくなっている。但しSkypeが利用できないMac OS Xより前のMac OSではMessengerが利用可能となっている\[2\]。
 
 ## バージョン
 
@@ -29,7 +29,7 @@
   - [Yahoo\! Messenger](../Page/Yahoo!_Messenger.md "wikilink") とのチャット（日本語版[Yahoo\!メッセンジャー](../Page/Yahoo!メッセンジャー.md "wikilink")はこれとは別の扱いのため、現在未対応）
   - パーソナルコンタクトのみが見られるステータスメッセージ
   - [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink") で聞いている曲名をステータスメッセージとして設定できる
-  - [Spotlight](https://ja.wikipedia.org/wiki/Spotlight "wikilink")を使ったインスタントメッセージング履歴の検索をサポートしている
+  - [Spotlight](../Page/Spotlight.md "wikilink")を使ったインスタントメッセージング履歴の検索をサポートしている
   - スペルチェック（英語のみ）
 
 ## 互換クライアント

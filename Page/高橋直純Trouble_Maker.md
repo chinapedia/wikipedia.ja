@@ -1,15 +1,15 @@
 > この記事は[Trouble Maker](https://ja.wikipedia.org/wiki/Trouble_Maker)から翻訳されています。
 
 
-**高橋直純のトラ×ブルメーカー(高橋直純 Trouble Maker)**（たかはしなおずみのとらぶるめーかー）は、[岐阜放送](https://ja.wikipedia.org/wiki/岐阜放送ラジオ "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")にて配信されているアニメ系ラジオ番組。
+**高橋直純のトラ×ブルメーカー(高橋直純 Trouble Maker)**（たかはしなおずみのとらぶるめーかー）は、[岐阜放送](../Page/岐阜放送ラジオ.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")にて配信されているアニメ系ラジオ番組。
 
 ## 番組概要
 
-  - [2004年](../Page/2004年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")放送開始。番組開始当初はFM NACK5と[ラジオ大阪のみでの放送だったが](../Page/大阪放送.md "wikilink")、後に[岐阜放送](https://ja.wikipedia.org/wiki/岐阜放送ラジオ "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[北海道放送](../Page/HBCラジオ.md "wikilink") 、[東北放送](../Page/東北放送.md "wikilink") が加わった。
+  - [2004年](../Page/2004年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")放送開始。番組開始当初はFM NACK5と[ラジオ大阪のみでの放送だったが](../Page/大阪放送.md "wikilink")、後に[岐阜放送](../Page/岐阜放送ラジオ.md "wikilink")、[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")、[北海道放送](../Page/HBCラジオ.md "wikilink") 、[東北放送](../Page/東北放送.md "wikilink") が加わった。
 
 <!-- end list -->
 
-  - 放送開始～[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月の放送までは[高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")の単独番組。以降アシスタントとして[鈴木達央](https://ja.wikipedia.org/wiki/鈴木達央 "wikilink")が入ったが[2007年](../Page/2007年.md "wikilink")9月で卒業。2007年10月からは[LEGOLGEL](https://ja.wikipedia.org/wiki/LEGOLGEL "wikilink")のHILUMAがサブパーソナリティとして加入。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月からは、再び高橋直純の単独番組となっている。
+  - 放送開始～[2005年](../Page/2005年.md "wikilink")9月の放送までは[高橋直純](../Page/高橋直純.md "wikilink")の単独番組。以降アシスタントとして[鈴木達央](../Page/鈴木達央.md "wikilink")が入ったが[2007年](../Page/2007年.md "wikilink")9月で卒業。2007年10月からは[LEGOLGEL](https://ja.wikipedia.org/wiki/LEGOLGEL "wikilink")のHILUMAがサブパーソナリティとして加入。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月からは、再び高橋直純の単独番組となっている。
 
 <!-- end list -->
 
@@ -17,11 +17,11 @@
 
 <!-- end list -->
 
-  - 高橋直純が入院した際には[宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")がパーソナリティを代行していた(2004年9月12日～10月31日)。
+  - 高橋直純が入院した際には[宮田幸季](../Page/宮田幸季.md "wikilink")がパーソナリティを代行していた(2004年9月12日～10月31日)。
 
 <!-- end list -->
 
-  - スポンサーは[リアライズレコード](../Page/リアライズレコード.md "wikilink")。改編前は[S.S.D.S](https://ja.wikipedia.org/wiki/Super_Stylish_Doctors_Story "wikilink")・[ランティス](https://ja.wikipedia.org/wiki/ランティス "wikilink")・[ドワンゴ・エージー・エンタテインメント](https://ja.wikipedia.org/wiki/ドワンゴ・ミュージックエンタテインメント "wikilink")（アニメロミックス）が加わっていた。
+  - スポンサーは[リアライズレコード](../Page/リアライズレコード.md "wikilink")。改編前は[S.S.D.S](https://ja.wikipedia.org/wiki/Super_Stylish_Doctors_Story "wikilink")・[ランティス](../Page/ランティス.md "wikilink")・[ドワンゴ・エージー・エンタテインメント](https://ja.wikipedia.org/wiki/ドワンゴ・ミュージックエンタテインメント "wikilink")（アニメロミックス）が加わっていた。
 
 <!-- end list -->
 
@@ -37,17 +37,17 @@
 
 <!-- end list -->
 
-  - 公開録音は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")・[なかのZERO](https://ja.wikipedia.org/wiki/なかのZERO "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")・豊中市民会館、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[名古屋市](../Page/名古屋市.md "wikilink")・[名古屋市公会堂](../Page/名古屋市公会堂.md "wikilink")で行われ、[2012年](../Page/2012年.md "wikilink")は、[仙台市](../Page/仙台市.md "wikilink")・[勾当台公園](https://ja.wikipedia.org/wiki/勾当台公園 "wikilink")で行われた[TBC夏祭り](https://ja.wikipedia.org/wiki/TBC夏祭り "wikilink")で公開録音をした。
+  - 公開録音は、[2006年](../Page/2006年.md "wikilink")に[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")・[なかのZERO](https://ja.wikipedia.org/wiki/なかのZERO "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[大阪府](../Page/大阪府.md "wikilink")[豊中市](https://ja.wikipedia.org/wiki/豊中市 "wikilink")・豊中市民会館、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に[名古屋市](../Page/名古屋市.md "wikilink")・[名古屋市公会堂](../Page/名古屋市公会堂.md "wikilink")で行われ、[2012年](../Page/2012年.md "wikilink")は、[仙台市](../Page/仙台市.md "wikilink")・[勾当台公園](../Page/勾当台公園.md "wikilink")で行われた[TBC夏祭り](https://ja.wikipedia.org/wiki/TBC夏祭り "wikilink")で公開録音をした。
 
 ## パーソナリティ
 
-  - [高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")
-  - [鈴木達央](https://ja.wikipedia.org/wiki/鈴木達央 "wikilink")　(2005年[10月2日](../Page/10月2日.md "wikilink")～2007年[9月30日](../Page/9月30日.md "wikilink"))
+  - [高橋直純](../Page/高橋直純.md "wikilink")
+  - [鈴木達央](../Page/鈴木達央.md "wikilink")　(2005年[10月2日](../Page/10月2日.md "wikilink")～2007年[9月30日](../Page/9月30日.md "wikilink"))
   - [HILUMA](https://ja.wikipedia.org/wiki/LEGOLGEL "wikilink")　(2007年[10月7日](../Page/10月7日.md "wikilink")～2008年[3月30日](../Page/3月30日.md "wikilink"))
 
 ## 放送局・放送時間
 
-  - [岐阜放送](https://ja.wikipedia.org/wiki/岐阜放送ラジオ "wikilink") 月曜日 20:00～20:30（ネット開始～2005年9月）→月曜日 22:30～23:00（2005年10月～2008年9月）→日曜日24:30～25:00（2008年10月～）
+  - [岐阜放送](../Page/岐阜放送ラジオ.md "wikilink") 月曜日 20:00～20:30（ネット開始～2005年9月）→月曜日 22:30～23:00（2005年10月～2008年9月）→日曜日24:30～25:00（2008年10月～）
   - [東北放送](../Page/東北放送.md "wikilink") 日曜日 24:30～25:00（2009年4月～2010年3月）→24:00～24:30（2010年4月～）→24:30～25:00（2012年4月～）
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink") 日曜日 25:00～25:30（2005年4月～2008年9月）→日曜日22:30～23:00（2008年10月～2010年4月4日）→土曜日27:00～27:30（2014年11月～2016年3月26日）→土曜日27:30～28:00（2016年4月2日～）
   - ニコニコ動画(2012年まではdmcチャンネル)　毎週月曜日配信（2010年4月～）→日曜日 24:35頃配信
@@ -152,9 +152,9 @@
 
 ## 関連項目
 
-  - [宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")
+  - [宮田幸季](../Page/宮田幸季.md "wikilink")
   - [神谷浩史・小野大輔のDearGirl〜Stories〜](../Page/神谷浩史・小野大輔のDearGirl〜Stories〜.md "wikilink")
-  - [RADIOアニメロミックス](https://ja.wikipedia.org/wiki/RADIOアニメロミックス "wikilink")
+  - [RADIOアニメロミックス](../Page/RADIOアニメロミックス.md "wikilink")
 
 ## 外部リンク
 

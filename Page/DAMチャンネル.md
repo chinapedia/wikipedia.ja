@@ -1,13 +1,13 @@
 > この記事は[DAM](https://ja.wikipedia.org/wiki/DAM)から翻訳されています。
 
 
-『**DAM CHANNEL**』（ダムチャンネル）は、[第一興商](../Page/第一興商.md "wikilink")が運営する[通信カラオケ](../Page/通信カラオケ.md "wikilink")「[DAM](../Page/DAM_\(カラオケ\).md "wikilink")」の曲間（カラオケが演奏されない時に再生される画面\[1\]）を利用して情報コンテンツを配信する[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**DAM CHANNEL**』（ダムチャンネル）は、[第一興商](../Page/第一興商.md "wikilink")が運営する[通信カラオケ](../Page/通信カラオケ.md "wikilink")「[DAM](../Page/DAM_\(カラオケ\).md "wikilink")」の曲間（カラオケが演奏されない時に再生される画面\[1\]）を利用して情報コンテンツを配信する[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 概要
 
-「DAM」の[ブロードバンド接続対応化に伴って](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）[8月2日](../Page/8月2日.md "wikilink")から配信開始。それまで[コマーシャル](../Page/コマーシャルメッセージ.md "wikilink")、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")への[インタビュー](../Page/インタビュー.md "wikilink")、[映画](../Page/映画.md "wikilink")情報などが雑然と表示されていたものを、[テレビ番組](../Page/テレビ番組.md "wikilink")風に編集して見やすい構成にしたものである。[2012年](../Page/2012年.md "wikilink")（平成24年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")現在、全国約12万台の端末へ配信されている。カラオケの合間に繰り返し配信される特徴を持ち、第一興商の[ニュースリリースに拠ればエンターテイメント業界から](https://ja.wikipedia.org/wiki/プレスリリース "wikilink")[パワープレイ効果の強いメディアとして注目されているとされる](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")。かつては第一興商が運営していた[専門チャンネル](../Page/専門チャンネル.md "wikilink")「[第一興商スターカラオケ](https://ja.wikipedia.org/wiki/第一興商スターカラオケ "wikilink")」、および[MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")が[GYAO\!](../Page/GYAO!.md "wikilink")にて配信する番組コンテンツ「MTV SATELLITE」\[2\]でも視聴することが可能であった。
+「DAM」の[ブロードバンド接続対応化に伴って](https://ja.wikipedia.org/wiki/ブロードバンドインターネット接続 "wikilink")[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）[8月2日](../Page/8月2日.md "wikilink")から配信開始。それまで[コマーシャル](../Page/コマーシャルメッセージ.md "wikilink")、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")、[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")への[インタビュー](../Page/インタビュー.md "wikilink")、[映画](../Page/映画.md "wikilink")情報などが雑然と表示されていたものを、[テレビ番組](../Page/テレビ番組.md "wikilink")風に編集して見やすい構成にしたものである。[2012年](../Page/2012年.md "wikilink")（平成24年）[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")現在、全国約12万台の端末へ配信されている。カラオケの合間に繰り返し配信される特徴を持ち、第一興商の[ニュースリリースに拠ればエンターテイメント業界から](../Page/プレスリリース.md "wikilink")[パワープレイ効果の強いメディアとして注目されているとされる](../Page/ヘヴィー・ローテーション.md "wikilink")。かつては第一興商が運営していた[専門チャンネル](../Page/専門チャンネル.md "wikilink")「[第一興商スターカラオケ](../Page/第一興商スターカラオケ.md "wikilink")」、および[MTVジャパン](../Page/MTVジャパン.md "wikilink")が[GYAO\!](../Page/GYAO!.md "wikilink")にて配信する番組コンテンツ「MTV SATELLITE」\[2\]でも視聴することが可能であった。
 
-[2017年](../Page/2017年.md "wikilink")（平成29年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には演歌版の『**DAM CHANNEL演歌**』（ダムチャンネル えんか）が配信スタート。初代MCは[川野夏美](https://ja.wikipedia.org/wiki/川野夏美 "wikilink")が務めた。\[3\]
+[2017年](../Page/2017年.md "wikilink")（平成29年）[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には演歌版の『**DAM CHANNEL演歌**』（ダムチャンネル えんか）が配信スタート。初代MCは[川野夏美](../Page/川野夏美.md "wikilink")が務めた。\[3\]
 
 ## 番組内容
 
@@ -33,9 +33,9 @@
 
 ### DAM CHANNEL
 
-  - 初代 - [菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")（[2004年](../Page/2004年.md "wikilink")[8月](../Page/8月.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")）\[6\]
+  - 初代 - [菊川怜](https://ja.wikipedia.org/wiki/菊川怜 "wikilink")（[2004年](../Page/2004年.md "wikilink")[8月](../Page/8月.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")）\[6\]
   - 2代目 - [ベッキー](../Page/ベッキー.md "wikilink")（2005年[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 2005年[9月](../Page/9月.md "wikilink")）
-  - 3代目 - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")（2005年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）
+  - 3代目 - [平山あや](https://ja.wikipedia.org/wiki/平山あや "wikilink")（2005年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）
   - 4代目 - [マリエ](https://ja.wikipedia.org/wiki/マリエ_\(モデル\) "wikilink")（2006年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [2007年](../Page/2007年.md "wikilink")3月）
   - 5代目 - [関根麻里](../Page/関根麻里.md "wikilink")（2007年4月 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")3月）
   - 6代目 - [スザンヌ](../Page/スザンヌ_\(タレント\).md "wikilink")（2008年4月 - [2009年](../Page/2009年.md "wikilink")3月）\[7\]\[8\]
@@ -63,7 +63,7 @@
 
 ### DAM CHANNEL演歌
 
-  - 初代 - [川野夏美](https://ja.wikipedia.org/wiki/川野夏美 "wikilink")（2017年7月 - ）
+  - 初代 - [川野夏美](../Page/川野夏美.md "wikilink")（2017年7月 - ）
   - 2代目 - [岩佐美咲](https://ja.wikipedia.org/wiki/岩佐美咲 "wikilink")（2018年10月 - ）\[36\]
   - 3代目 - [瀬口侑希](../Page/瀬口侑希.md "wikilink")（2019年10月 - ）\[37\]
 

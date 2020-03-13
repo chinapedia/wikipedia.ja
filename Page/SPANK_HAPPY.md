@@ -1,7 +1,7 @@
 > この記事は[SPANK HAPPY](https://ja.wikipedia.org/wiki/SPANK_HAPPY)から翻訳されています。
 
 
-**SPANK HAPPY**（スパンク・ハッピー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")グループ（初期）、[デュエット](https://ja.wikipedia.org/wiki/デュエット "wikilink")チーム（後期）である。[1992年](../Page/1992年.md "wikilink")結成、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月に解散。[2018年](../Page/2018年.md "wikilink")に再始動\[1\]。
+**SPANK HAPPY**（スパンク・ハッピー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")グループ（初期）、[デュエット](../Page/デュエット.md "wikilink")チーム（後期）である。[1992年](../Page/1992年.md "wikilink")結成、[2006年](../Page/2006年.md "wikilink")10月に解散。[2018年](../Page/2018年.md "wikilink")に再始動\[1\]。
 
 ## 概要
 
@@ -13,15 +13,15 @@
 
 サウンド面では、菊地が個人的に幼少時に強烈な印象を受け愛好している[ファッションショー](../Page/ファッションショー.md "wikilink")の為の音楽、「ウォーキング・ミュージック」なる菊地が仮定した概念へのアプローチが強く、「[ヒットチャート](https://ja.wikipedia.org/wiki/ヒットチャート "wikilink")を狙う・アーティスティックに」という表面上のアティテュードの変化はあるとしても、根本にあるのはファッションショーで使われる音楽にしたいと述べた。制作中、常に色んな時代の色んな[メゾン](https://ja.wikipedia.org/wiki/メゾン "wikilink")のファッションショーをモニターに映していたという。
 
-また、「**Vendôme, La Sick Kaiseki**」の詞で述べられている様に、菊地が[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")に訪れた際、[ニューイヤーコンサート](https://ja.wikipedia.org/wiki/ニューイヤーコンサート "wikilink")にて大人も子供も[燕尾服](https://ja.wikipedia.org/wiki/燕尾服 "wikilink")・[モーニング](https://ja.wikipedia.org/wiki/モーニングコート "wikilink")・[フォーマルウェア](https://ja.wikipedia.org/wiki/フォーマルウェア "wikilink")・[ワルツ](../Page/ワルツ.md "wikilink")用の格好でビシッとしていながら、そのまま二次会ではクラブイベントがあり、同じウィーンの大武道会場の違う部屋に[BOSE](https://ja.wikipedia.org/wiki/BOSE "wikilink")のスピーカーが置いてあり、二階の上の席に[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")ブースが付いていて、[バリライト](../Page/バリライト.md "wikilink")があり、聞いた事も無いクラブ・ミュージックが流れみんなが踊っているという光景に衝撃を受け、「これがSPANK HAPPYだなと思いました。ああいう事を日本で出来たら面白いなと思いました。」と語った。
+また、「**Vendôme, La Sick Kaiseki**」の詞で述べられている様に、菊地が[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")に訪れた際、[ニューイヤーコンサート](https://ja.wikipedia.org/wiki/ニューイヤーコンサート "wikilink")にて大人も子供も[燕尾服](../Page/燕尾服.md "wikilink")・[モーニング](../Page/モーニングコート.md "wikilink")・[フォーマルウェア](https://ja.wikipedia.org/wiki/フォーマルウェア "wikilink")・[ワルツ](../Page/ワルツ.md "wikilink")用の格好でビシッとしていながら、そのまま二次会ではクラブイベントがあり、同じウィーンの大武道会場の違う部屋に[BOSE](https://ja.wikipedia.org/wiki/BOSE "wikilink")のスピーカーが置いてあり、二階の上の席に[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")ブースが付いていて、[バリライト](../Page/バリライト.md "wikilink")があり、聞いた事も無いクラブ・ミュージックが流れみんなが踊っているという光景に衝撃を受け、「これがSPANK HAPPYだなと思いました。ああいう事を日本で出来たら面白いなと思いました。」と語った。
 
 ## 来歴
 
 ### 第一期
 
-1992年に、[ハラミドリ](https://ja.wikipedia.org/wiki/ハラミドリ "wikilink")（[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")）、[菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink")（[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")）、[河野伸](../Page/河野伸.md "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）のメンバーで結成される。音楽性としてはヴォーカル中心のポップスで、ヒットチャートに乗るような音楽を目指していたという。作詞は菊地とハラ、作曲は全員の持ち寄りだった。楽曲トラックの制作においては、現役ジャズマンである菊地がブラスアレンジメントを担当。アイドルのオケ制作などをしていた河野が、全体のアレンジに大きな影響力を持っていた。
+1992年に、[ハラミドリ](https://ja.wikipedia.org/wiki/ハラミドリ "wikilink")（[ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink")）、[菊地成孔](../Page/菊地成孔.md "wikilink")（[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")）、[河野伸](../Page/河野伸.md "wikilink")（[キーボード](../Page/キーボード_\(楽器\).md "wikilink")）のメンバーで結成される。音楽性としてはヴォーカル中心のポップスで、ヒットチャートに乗るような音楽を目指していたという。作詞は菊地とハラ、作曲は全員の持ち寄りだった。楽曲トラックの制作においては、現役ジャズマンである菊地がブラスアレンジメントを担当。アイドルのオケ制作などをしていた河野が、全体のアレンジに大きな影響力を持っていた。
 
-[1994年](../Page/1994年.md "wikilink")[東芝EMIよりデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、楽曲がテレビ番組のテーマ曲に使用されることがあったが、大きなヒットには至らなかった。ライブおよびレコーディングに参加していたミュージシャンとしては、[村田陽一](../Page/村田陽一.md "wikilink")（トロンボーン）、[今堀恒雄](../Page/今堀恒雄.md "wikilink")（ギター）、[大友良英](https://ja.wikipedia.org/wiki/大友良英 "wikilink")（ギター）、[内橋和久](https://ja.wikipedia.org/wiki/内橋和久 "wikilink")（ギター）、水谷浩章（ベース）、メッケン（ベース）、ナスノミツル（ベース）、[岡部洋一](../Page/岡部洋一.md "wikilink")（パーカション）、芳垣安洋（パーカッション）、外山明（パーカッション）、[ASA-chang](https://ja.wikipedia.org/wiki/ASA-chang "wikilink")（パーカッション）、三沢泉（パーカッション）、植村昌弘（パーカッション）などが挙げられる。
+[1994年](../Page/1994年.md "wikilink")[東芝EMIよりデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")、楽曲がテレビ番組のテーマ曲に使用されることがあったが、大きなヒットには至らなかった。ライブおよびレコーディングに参加していたミュージシャンとしては、[村田陽一](../Page/村田陽一.md "wikilink")（トロンボーン）、[今堀恒雄](../Page/今堀恒雄.md "wikilink")（ギター）、[大友良英](../Page/大友良英.md "wikilink")（ギター）、[内橋和久](https://ja.wikipedia.org/wiki/内橋和久 "wikilink")（ギター）、水谷浩章（ベース）、メッケン（ベース）、ナスノミツル（ベース）、[岡部洋一](../Page/岡部洋一.md "wikilink")（パーカション）、芳垣安洋（パーカッション）、外山明（パーカッション）、[ASA-chang](https://ja.wikipedia.org/wiki/ASA-chang "wikilink")（パーカッション）、三沢泉（パーカッション）、植村昌弘（パーカッション）などが挙げられる。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")11月に河野伸が脱退。以降は2人で活動を継続するが、1998年に菊地成孔が壊死性リンパ結節炎という[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でもきわめて症例の少ない病気にかかり[東京女子医大](https://ja.wikipedia.org/wiki/東京女子医大 "wikilink")・[耳鼻咽喉科](https://ja.wikipedia.org/wiki/耳鼻咽喉科 "wikilink")に入院、スパンク・ハッピーの活動が休止する。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月11日にはハラミドリが脱退し、事実上、第一期スパンク・ハッピーが終了する。
 
@@ -29,19 +29,19 @@
 
 ただ一人残ったオリジナルメンバーの菊地成孔は、活動を継続すべくヴォーカルの選考を繰り返す。[1999年](../Page/1999年.md "wikilink")、岩澤瞳をヴォーカルに迎え、菊地成孔とのデュエットチームとして活動を再開。第一期の[J-POP](../Page/J-POP.md "wikilink")風の音楽性から一転、クラブミュージック・[渋谷系](../Page/渋谷系.md "wikilink")寄りのアプローチを取る。ライブのオケは菊地と親交のある演奏者達による生演奏ではなく、カラオケトラックが用いられ、菊地が主にサックスではなくヴォーカルを取った。
 
-[2001年](../Page/2001年.md "wikilink")には、正式音源が発表されていない時点にも関わらず、雑誌『[クイックジャパン](https://ja.wikipedia.org/wiki/クイックジャパン "wikilink")』がスパンク・ハッピー特集を組み、一部にマニアックな評価を得る。同年11月26日に、[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")より第二期のファーストシングル『インターナショナル・クライン・ブルー』を発表。それまでライブで使用していたオケの音とは方向性が変わっており、ハウス色が濃くなっている。ちなみに、[インターナショナル・クライン・ブルー](https://ja.wikipedia.org/wiki/インターナショナル・クライン・ブルー "wikilink")とは[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の画家[イヴ・クライン](../Page/イヴ・クライン.md "wikilink")が発案・[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")取得した青色のことである。以降、シングル『ANGELIC』（[2002年](../Page/2002年.md "wikilink")4月26日）、ファーストアルバム『COMPUTER HOUSE OF MODE』（2002年9月4日）を発表。
+[2001年](../Page/2001年.md "wikilink")には、正式音源が発表されていない時点にも関わらず、雑誌『[クイックジャパン](https://ja.wikipedia.org/wiki/クイックジャパン "wikilink")』がスパンク・ハッピー特集を組み、一部にマニアックな評価を得る。同年11月26日に、[ベルウッドレコード](https://ja.wikipedia.org/wiki/ベルウッドレコード "wikilink")より第二期のファーストシングル『インターナショナル・クライン・ブルー』を発表。それまでライブで使用していたオケの音とは方向性が変わっており、ハウス色が濃くなっている。ちなみに、[インターナショナル・クライン・ブルー](https://ja.wikipedia.org/wiki/インターナショナル・クライン・ブルー "wikilink")とは[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の画家[イヴ・クライン](../Page/イヴ・クライン.md "wikilink")が発案・[特許](../Page/特許.md "wikilink")取得した青色のことである。以降、シングル『ANGELIC』（[2002年](../Page/2002年.md "wikilink")4月26日）、ファーストアルバム『COMPUTER HOUSE OF MODE』（2002年9月4日）を発表。
 
-[2003年](../Page/2003年.md "wikilink")12月3日、セカンドアルバム『[Vendôme,la sick Kaiseki](https://ja.wikipedia.org/wiki/Vendôme,la_sick_Kaiseki "wikilink")』を発表。まもなくして[口パク](https://ja.wikipedia.org/wiki/口パク "wikilink")でのライブを宣言。また、過去にライブで披露されていた「[普通の恋](https://ja.wikipedia.org/wiki/普通の恋 "wikilink")」であるが、菊地のホームページ日記上で「歌詞を無くしたので誰か提供してくれ」という旨が書かれ、突如ライブで披露される（歌詞カードを見ながらであった）。それまで「普通の恋」を披露しなかったのは、歌詞の内容などが菊地の[不安神経症](https://ja.wikipedia.org/wiki/不安神経症 "wikilink")（2002年発症）に悪影響を及ぼすため、披露する意志がないと説明されていた。後に、[2004年](../Page/2004年.md "wikilink")1月に菊地成孔 feat.岩澤瞳名義でリリースに至る（発売当初の菊地のインタビューによれば、音源製作に対する強い要望があったが、もともとSPANK HAPPYのために書かれた曲ではなく、従来のSPANK HAPPYの作風とは一線を画すため別名義でリリースに至ったとのことである\[4\]）。2004年4月5日に岩澤が脱退（引退）する。
+[2003年](../Page/2003年.md "wikilink")12月3日、セカンドアルバム『[Vendôme,la sick Kaiseki](https://ja.wikipedia.org/wiki/Vendôme,la_sick_Kaiseki "wikilink")』を発表。まもなくして[口パク](../Page/口パク.md "wikilink")でのライブを宣言。また、過去にライブで披露されていた「[普通の恋](https://ja.wikipedia.org/wiki/普通の恋 "wikilink")」であるが、菊地のホームページ日記上で「歌詞を無くしたので誰か提供してくれ」という旨が書かれ、突如ライブで披露される（歌詞カードを見ながらであった）。それまで「普通の恋」を披露しなかったのは、歌詞の内容などが菊地の[不安神経症](https://ja.wikipedia.org/wiki/不安神経症 "wikilink")（2002年発症）に悪影響を及ぼすため、披露する意志がないと説明されていた。後に、[2004年](../Page/2004年.md "wikilink")1月に菊地成孔 feat.岩澤瞳名義でリリースに至る（発売当初の菊地のインタビューによれば、音源製作に対する強い要望があったが、もともとSPANK HAPPYのために書かれた曲ではなく、従来のSPANK HAPPYの作風とは一線を画すため別名義でリリースに至ったとのことである\[4\]）。2004年4月5日に岩澤が脱退（引退）する。
 
 #### 岩澤脱退後
 
-菊地は新ヴォーカルを迎えての活動継続を宣言し、ネット上での新ヴォーカル募集などを経て、最終的には[台湾人](https://ja.wikipedia.org/wiki/台湾人 "wikilink")のドミニク・ツァイをヴォーカルに迎える。\[5\]2004年6月20日、[東京](../Page/東京.md "wikilink")[飯田橋](https://ja.wikipedia.org/wiki/飯田橋 "wikilink")・日仏学院で行われた「フェット・ドゥ・ラ・ミュージック(fête de la musique)」にて、ドミニク参加後の初ライブが行われる。以前からの口パク路線を踏襲してはいたが、ヴォーカルトラックが新たにドミニクの声で録音し直されていた。[英語](../Page/英語.md "wikilink")のみならず[仏語](https://ja.wikipedia.org/wiki/仏語 "wikilink")も堪能なドミニクは、歌パート以外に仏語の語りパートも録音していた。以降、活動が軌道に乗るかと思われたが、ドミニクは活動継続の意志を失ったらしく、2004年9月11日の[バンコク](../Page/バンコク.md "wikilink")公演を無断キャンセル、自然消滅的に脱退した。
+菊地は新ヴォーカルを迎えての活動継続を宣言し、ネット上での新ヴォーカル募集などを経て、最終的には[台湾人](../Page/台湾人.md "wikilink")のドミニク・ツァイをヴォーカルに迎える。\[5\]2004年6月20日、[東京](../Page/東京.md "wikilink")[飯田橋](../Page/飯田橋.md "wikilink")・日仏学院で行われた「フェット・ドゥ・ラ・ミュージック(fête de la musique)」にて、ドミニク参加後の初ライブが行われる。以前からの口パク路線を踏襲してはいたが、ヴォーカルトラックが新たにドミニクの声で録音し直されていた。[英語](../Page/英語.md "wikilink")のみならず[仏語](https://ja.wikipedia.org/wiki/仏語 "wikilink")も堪能なドミニクは、歌パート以外に仏語の語りパートも録音していた。以降、活動が軌道に乗るかと思われたが、ドミニクは活動継続の意志を失ったらしく、2004年9月11日の[バンコク](../Page/バンコク.md "wikilink")公演を無断キャンセル、自然消滅的に脱退した。
 
 以降は、ライブの度ごとに女性ヴォーカルをゲスト（菊地は「[マネキン](../Page/マネキン.md "wikilink")」と称している）として迎えるスタイルで散発的に活動を行う。迎えられたゲストの素性は一切明らかにされず、ライブも岩澤瞳時代のCDトラックをそのまま流す口パクで、ゲスト達がどのような歌声なのか、そもそも歌手なのかも不明だった（後に菊地の[ホームページ](../Page/ホームページ.md "wikilink")にて、[東大](https://ja.wikipedia.org/wiki/東大 "wikilink")[駒場祭](https://ja.wikipedia.org/wiki/駒場祭 "wikilink")やオンエアネストでのライブに参加したのが、縣亜希という女性だったことが明らかにされている）。
 
-2006年10月、菊地により解散が宣言される。活動の最後となった2006年10月20日と22日のライブ（[スパークス](https://ja.wikipedia.org/wiki/スパークス "wikilink")の前座）には、元[ピチカートファイヴ](https://ja.wikipedia.org/wiki/ピチカートファイヴ "wikilink")の[野宮真貴](https://ja.wikipedia.org/wiki/野宮真貴 "wikilink")がヴォーカルに迎えられていた。
+2006年10月、菊地により解散が宣言される。活動の最後となった2006年10月20日と22日のライブ（[スパークス](https://ja.wikipedia.org/wiki/スパークス "wikilink")の前座）には、元[ピチカートファイヴ](https://ja.wikipedia.org/wiki/ピチカートファイヴ "wikilink")の[野宮真貴](../Page/野宮真貴.md "wikilink")がヴォーカルに迎えられていた。
 
-[2007年](../Page/2007年.md "wikilink")10月、「第一期」のアルバム2枚（[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")としてシングル曲や未発表曲を追加）が[EMIミュージック・ジャパン](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")より復刻された。
+[2007年](../Page/2007年.md "wikilink")10月、「第一期」のアルバム2枚（[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")としてシングル曲や未発表曲を追加）が[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")より復刻された。
 
 2011年、[相対性理論のアルバム](../Page/相対性理論_\(バンド\).md "wikilink")『[正しい相対性理論](https://ja.wikipedia.org/wiki/正しい相対性理論 "wikilink")』で、「QHPMAS」にボーカル・アレンジとして参加。
 
@@ -54,7 +54,7 @@
 ## メンバー
 
   - **第一期**
-      - [菊地成孔](https://ja.wikipedia.org/wiki/菊地成孔 "wikilink")（サックス）
+      - [菊地成孔](../Page/菊地成孔.md "wikilink")（サックス）
       - [原ミドリ](https://ja.wikipedia.org/wiki/ハラミドリ "wikilink")（ボーカル）1998年脱退
       - [河野伸](../Page/河野伸.md "wikilink")（キーボード・作曲）1997年脱退
   - **第二期**
@@ -63,7 +63,7 @@
   - **岩澤脱退後**
       - 菊地成孔（ヴォーカル、サックス）
       - ドミニク・ツァイ（2004年9月11日のバンコク公演を無断キャンセル、自然消滅的に脱退）
-      - [野宮真貴](https://ja.wikipedia.org/wiki/野宮真貴 "wikilink") 2006年10月20日、22日にゲスト参加
+      - [野宮真貴](../Page/野宮真貴.md "wikilink") 2006年10月20日、22日にゲスト参加
       - そのほか3名の女性がゲストとして参加
 
 ドミニク脱退後は、女性ヴォーカルに毎回違う人をゲストに呼んでいた。
@@ -92,7 +92,7 @@
 <td><p>マキシシングル</p></td>
 <td><p><strong>走り泣く乙女</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東芝EMI" title="wikilink">東芝EMI</a></p></td>
-<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a>、<a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">EMIミュージック・ジャパン</a>より復刻版（ボーナストラックあり）発売<br />
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月24日.md" title="wikilink">10月24日</a>、<a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">EMIミュージック・ジャパン</a>より復刻版（ボーナストラックあり）発売<br />
 <a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/10月26日.md" title="wikilink">10月26日</a>、EMIミュージック・ジャパンよりEMI ROCKS The First廉価盤発売</p></td>
 </tr>
 <tr class="even">
@@ -160,12 +160,12 @@
 
 ## 関連項目
 
-  - [カヒミ・カリィ](https://ja.wikipedia.org/wiki/カヒミ・カリィ "wikilink")
+  - [カヒミ・カリィ](../Page/カヒミ・カリィ.md "wikilink")
   - [今堀恒雄](../Page/今堀恒雄.md "wikilink")
   - [CAPTAIN FUNK](https://ja.wikipedia.org/wiki/CAPTAIN_FUNK "wikilink")
   - [矢野博康](https://ja.wikipedia.org/wiki/矢野博康 "wikilink")
   - [ノーナ・リーヴス](../Page/ノーナ・リーヴス.md "wikilink")
-  - [野宮真貴](https://ja.wikipedia.org/wiki/野宮真貴 "wikilink")
+  - [野宮真貴](../Page/野宮真貴.md "wikilink")
   - [相対性理論](../Page/相対性理論_\(バンド\).md "wikilink")
   - [小田朋美](https://ja.wikipedia.org/wiki/小田朋美 "wikilink")
 

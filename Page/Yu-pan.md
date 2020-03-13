@@ -1,7 +1,7 @@
 > この記事は[Yu-pan](https://ja.wikipedia.org/wiki/Yu-pan)から翻訳されています。
 
 
-**Yu-pan.**（ゆうぱん、[1981年](../Page/1981年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[マニピュレーター](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")。BOND\&Co.所属。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[北橘村](../Page/北橘村.md "wikilink")（現・[渋川市](../Page/渋川市.md "wikilink")）出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。別名は**YUPA**。本名は**萩原祐二**。
+**Yu-pan.**（ゆうぱん、[1981年](../Page/1981年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")。BOND\&Co.所属。[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[北橘村](../Page/北橘村.md "wikilink")（現・[渋川市](../Page/渋川市.md "wikilink")）出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。別名は**YUPA**。本名は**萩原祐二**。
 
 ## 人物
 
@@ -45,7 +45,7 @@
 
 <!-- end list -->
 
-  - [近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")
+  - [近藤真彦](../Page/近藤真彦.md "wikilink")
       - [Let's Go\!](https://ja.wikipedia.org/wiki/Let's_Go!_\(近藤真彦の曲\) "wikilink")（編曲）
 
 ### さ行
@@ -60,7 +60,7 @@
 
 <!-- end list -->
 
-  - [Joe Rinoie](https://ja.wikipedia.org/wiki/ジョー・リノイエ "wikilink") with [水野佐彩](https://ja.wikipedia.org/wiki/水野佐彩 "wikilink")
+  - [Joe Rinoie](../Page/ジョー・リノイエ.md "wikilink") with [水野佐彩](https://ja.wikipedia.org/wiki/水野佐彩 "wikilink")
       - 風のトラベラー（編曲）
 
 <!-- end list -->
@@ -71,7 +71,7 @@
 
 ### た行
 
-  - [II MIX⊿DELTA](https://ja.wikipedia.org/wiki/TWO-MIX "wikilink")
+  - [II MIX⊿DELTA](../Page/TWO-MIX.md "wikilink")
       - [時空を超えて](https://ja.wikipedia.org/wiki/時空を超えて "wikilink")（編曲）
 
 <!-- end list -->
@@ -113,7 +113,7 @@
 
 <!-- end list -->
 
-  - [ユンナ](https://ja.wikipedia.org/wiki/ユンナ "wikilink")
+  - [ユンナ](../Page/ユンナ.md "wikilink")
       - 好きなんだ（マニピュレーター）
       - 贈りそびれた言葉 （マニピュレーター）
 

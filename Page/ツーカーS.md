@@ -27,7 +27,7 @@
 
 ## 関連項目
 
-  - [らくらくホン](https://ja.wikipedia.org/wiki/らくらくホン "wikilink")
+  - [らくらくホン](../Page/らくらくホン.md "wikilink")
   - [DOLCE](https://ja.wikipedia.org/wiki/DOLCE_\(携帯電話\) "wikilink")
   - [簡単ケータイ](../Page/簡単ケータイ.md "wikilink")
   - [かんたん携帯](https://ja.wikipedia.org/wiki/かんたん携帯 "wikilink")

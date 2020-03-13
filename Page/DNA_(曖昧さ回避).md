@@ -11,7 +11,7 @@
   - [東南亜海運](https://ja.wikipedia.org/wiki/東南亜海運 "wikilink")（Dongnama Line） - [韓国の船会社](../Page/大韓民国.md "wikilink")。
   - [Daily News & Analysis](http://dnaindia.com/) - [インド](../Page/インド.md "wikilink")の[新聞](../Page/新聞.md "wikilink")。
   - Windows DNA (Windows Distributed interNet Application) - [マイクロソフト](../Page/マイクロソフト.md "wikilink")の提唱する[アプリケーションフレームワーク](../Page/アプリケーションフレームワーク.md "wikilink")。
-  - [ダグラス・ノエル・アダムズ](../Page/ダグラス・アダムズ.md "wikilink") - [銀河ヒッチハイク・ガイド](https://ja.wikipedia.org/wiki/銀河ヒッチハイク・ガイド "wikilink")で知られる作家。
+  - [ダグラス・ノエル・アダムズ](../Page/ダグラス・アダムズ.md "wikilink") - [銀河ヒッチハイク・ガイド](../Page/銀河ヒッチハイク・ガイド.md "wikilink")で知られる作家。
   - [DDT NEW ATTITUDE](https://ja.wikipedia.org/wiki/DDT_NEW_ATTITUDE "wikilink") - [DDTプロレスリング](../Page/DDTプロレスリング.md "wikilink")のプロジェクト。
   - DIGITAL Network Architecture - [DEC](https://ja.wikipedia.org/wiki/DEC "wikilink")が提唱したネットワークアーキテクチャー。[DECnet](../Page/DECnet.md "wikilink")を参照。
 
@@ -42,7 +42,7 @@
 
   - [横浜ゴム](../Page/横浜ゴム.md "wikilink")の自動車用タイヤの商標名。DNAシリーズ。
       - 上記に関連して、[横浜ゴム](../Page/横浜ゴム.md "wikilink")提供の[TOKYO FM系](../Page/エフエム東京.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")、「[Driving Navigator by ADVAN](../Page/Driving_Navigator_by_ADVAN.md "wikilink")」の略称。
-  - スタジオDNA - [一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")の旧称。日本の出版社。
+  - スタジオDNA - [一迅社](../Page/一迅社.md "wikilink")の旧称。日本の出版社。
   - [D・N・A (お笑いコンビ)](https://ja.wikipedia.org/wiki/D・N・A_\(お笑いコンビ\) "wikilink") - [吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")所属のお笑いコンビ。
   - [D・N・A² 〜何処かで失くしたあいつのアイツ〜](../Page/D・N・A²_〜何処かで失くしたあいつのアイツ〜.md "wikilink") - [桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")の漫画作品。
   - [D・N・ANGEL](../Page/D・N・ANGEL.md "wikilink") - [杉崎ゆきる](../Page/杉崎ゆきる.md "wikilink")の漫画・アニメ作品

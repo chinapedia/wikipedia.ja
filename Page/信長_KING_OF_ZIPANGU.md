@@ -5,9 +5,9 @@
 
 ## 概要
 
-[安土桃山時代](../Page/安土桃山時代.md "wikilink")が舞台となるのは1989年の『[春日局](https://ja.wikipedia.org/wiki/春日局_\(NHK大河ドラマ\) "wikilink")』以来3年ぶり。[織田信長](../Page/織田信長.md "wikilink")は大河ドラマにおいても『[太閤記](../Page/太閤記_\(NHK大河ドラマ\).md "wikilink")』（1965年）や『[国盗り物語](../Page/国盗り物語_\(NHK大河ドラマ\).md "wikilink")』（1973年）をはじめとする安土桃山時代を扱った作品において度々クローズアップされて数多くの役者によって演じられてきたが、単独のテーマとして扱われるのは本作が初めて（『[国盗り物語](../Page/国盗り物語_\(NHK大河ドラマ\).md "wikilink")』でも主演扱いだったが、[斎藤道三](../Page/斎藤道三.md "wikilink")との途中主役交代であったため、完全な単独主人公ではなかった）。脚本は『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』（1988年）と同じ[田向正健](https://ja.wikipedia.org/wiki/田向正健 "wikilink")。
+[安土桃山時代](../Page/安土桃山時代.md "wikilink")が舞台となるのは1989年の『[春日局](../Page/春日局_\(NHK大河ドラマ\).md "wikilink")』以来3年ぶり。[織田信長](../Page/織田信長.md "wikilink")は大河ドラマにおいても『[太閤記](../Page/太閤記_\(NHK大河ドラマ\).md "wikilink")』（1965年）や『[国盗り物語](../Page/国盗り物語_\(NHK大河ドラマ\).md "wikilink")』（1973年）をはじめとする安土桃山時代を扱った作品において度々クローズアップされて数多くの役者によって演じられてきたが、単独のテーマとして扱われるのは本作が初めて（『[国盗り物語](../Page/国盗り物語_\(NHK大河ドラマ\).md "wikilink")』でも主演扱いだったが、[斎藤道三](../Page/斎藤道三.md "wikilink")との途中主役交代であったため、完全な単独主人公ではなかった）。脚本は『[武田信玄](../Page/武田信玄_\(NHK大河ドラマ\).md "wikilink")』（1988年）と同じ[田向正健](https://ja.wikipedia.org/wiki/田向正健 "wikilink")。
 
-主演に抜擢されたのは[緒形直人](../Page/緒形直人.md "wikilink")で、大河ドラマ出演は1990年の『[翔ぶが如く](https://ja.wikipedia.org/wiki/翔ぶが如く_\(NHK大河ドラマ\) "wikilink")』以来。『太閤記』（1965年）『峠の群像』（1982年）において主演を務めた[緒形拳](../Page/緒形拳.md "wikilink")の二男で、親子2代での大河ドラマ主演となった。主役が若いこともあり、[菊池桃子](../Page/菊池桃子.md "wikilink")・[仲村トオル](../Page/仲村トオル.md "wikilink")・[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")・[的場浩司](../Page/的場浩司.md "wikilink")・[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")など若手俳優を多数起用した。 緒形直人は『[予備校ブギ](../Page/予備校ブギ.md "wikilink")』などに代表されるように繊細でナイーブな青年役を多く演じてきたため、配役が決定した際は多くのメディアで役柄への懸念が伝えられた\[1\]。緒形本人も最初オファーをもらった際に、織田信長といえば強くて豪快な人物で、それまで自分がやってきた役と照らし合わせてもイメージが違うのではないかと思ったようである\[2\]。しかし、ヒゲをつけかつらをかぶった緒形の信長像は「歴代の信長を演じてきた俳優の中で、歴史の教科書に載っている肖像画に最も似ている」と評された\[3\]。
+主演に抜擢されたのは[緒形直人](../Page/緒形直人.md "wikilink")で、大河ドラマ出演は1990年の『[翔ぶが如く](../Page/翔ぶが如く_\(NHK大河ドラマ\).md "wikilink")』以来。『太閤記』（1965年）『峠の群像』（1982年）において主演を務めた[緒形拳](../Page/緒形拳.md "wikilink")の二男で、親子2代での大河ドラマ主演となった。主役が若いこともあり、[菊池桃子](../Page/菊池桃子.md "wikilink")・[仲村トオル](../Page/仲村トオル.md "wikilink")・[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")・[的場浩司](../Page/的場浩司.md "wikilink")・[中山美穂](../Page/中山美穂.md "wikilink")など若手俳優を多数起用した。 緒形直人は『[予備校ブギ](../Page/予備校ブギ.md "wikilink")』などに代表されるように繊細でナイーブな青年役を多く演じてきたため、配役が決定した際は多くのメディアで役柄への懸念が伝えられた\[1\]。緒形本人も最初オファーをもらった際に、織田信長といえば強くて豪快な人物で、それまで自分がやってきた役と照らし合わせてもイメージが違うのではないかと思ったようである\[2\]。しかし、ヒゲをつけかつらをかぶった緒形の信長像は「歴代の信長を演じてきた俳優の中で、歴史の教科書に載っている肖像画に最も似ている」と評された\[3\]。
 
 [ポルトガル](../Page/ポルトガル.md "wikilink")人の[イエズス会](../Page/イエズス会.md "wikilink")[宣教師](../Page/宣教師.md "wikilink")である[ルイス・フロイス](../Page/ルイス・フロイス.md "wikilink")の視点から織田信長を描くという手法がとられ、劇中でのフロイスをフランス人モデルの[フランク・ニール](https://ja.wikipedia.org/wiki/フランク・ニール "wikilink")が、日本語によるナレーションをランシュー・クリストフが務めた。ナレーションでは「聞くところによると」というフレーズが特に多用された。また、数多い戦国時代を舞台とした大河ドラマの中でも、とりわけ[キリシタン](../Page/キリシタン.md "wikilink")の描写に重点が置かれた作品である\[4\]。
 
@@ -23,9 +23,9 @@
 
 ### エピソード
 
-  - 台詞の言葉遣い、特に助詞を抜く表現（「戦起これば…」など）は、国語学的にも戦国時代の話し言葉としてはあまりに古めかしく不自然だと指摘されたが、これは訂正される事はなかった。同じ田向脚本の『武田信玄』『[徳川慶喜](https://ja.wikipedia.org/wiki/徳川慶喜_\(NHK大河ドラマ\) "wikilink")』でも同様の傾向が見られる。
+  - 台詞の言葉遣い、特に助詞を抜く表現（「戦起これば…」など）は、国語学的にも戦国時代の話し言葉としてはあまりに古めかしく不自然だと指摘されたが、これは訂正される事はなかった。同じ田向脚本の『武田信玄』『[徳川慶喜](../Page/徳川慶喜_\(NHK大河ドラマ\).md "wikilink")』でも同様の傾向が見られる。
   - 各放送回の最後にはルイス・フロイスが[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")で“**Ate breve\! Obrigado\!**”（**アテブレーベ・オブリガード**、「また会いましょう。ありがとう」の意。劇中テロップでは「また近いうちに　ありがとうございました」と訳されていた）と挨拶した。
-  - 明智光秀を演じた[マイケル富岡](https://ja.wikipedia.org/wiki/マイケル富岡 "wikilink")は、台詞こそは日本人レベルの流暢な日本語を話すが、[アメリカ人である為出演当時は正座はもちろんのこと](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、あぐらもかくことができず、苦労していたこともあった。また、本人は、「最初は[フランシスコ・ザビエル](../Page/フランシスコ・ザビエル.md "wikilink")や[ルイス・フロイス](../Page/ルイス・フロイス.md "wikilink")、といった[宣教師](../Page/宣教師.md "wikilink")役が回ってくる」と思っていたことがあり、光秀役に決まったとき、喜びと驚きでいっぱいだった、とコメントしていたことがあった
+  - 明智光秀を演じた[マイケル富岡](../Page/マイケル富岡.md "wikilink")は、台詞こそは日本人レベルの流暢な日本語を話すが、[アメリカ人である為出演当時は正座はもちろんのこと](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、あぐらもかくことができず、苦労していたこともあった。また、本人は、「最初は[フランシスコ・ザビエル](../Page/フランシスコ・ザビエル.md "wikilink")や[ルイス・フロイス](../Page/ルイス・フロイス.md "wikilink")、といった[宣教師](../Page/宣教師.md "wikilink")役が回ってくる」と思っていたことがあり、光秀役に決まったとき、喜びと驚きでいっぱいだった、とコメントしていたことがあった
   - フランク・ニールは、出演が決まったとき、日本語の特訓を開始。そして、クランクアップまで欠かさずに日本語を勉強していたほどだった。
   - ポルトガル語指導担当の安部井シルビアは指導に厳しく、少しでも発音がおかしかったりすれば、中々OKを出さなかったほどだった。本人は当時、貿易商社OLであった。
   - 加納随天を演じた平幹二朗は、ドラマの後半期に失明した随天の気迫や異様さを表現するために、コンタクトレンズを片目に2枚ずつ入れて芝居をした。これは平本人のアイディアであったが、目の痛さは尋常ではなかったようで、過酷な撮影の連続になってしまったという。
@@ -76,14 +76,14 @@
   - [織田信秀](../Page/織田信秀.md "wikilink")：[林隆三](../Page/林隆三.md "wikilink")
       -
         信長の父。
-  - [織田信定](https://ja.wikipedia.org/wiki/織田信定 "wikilink")：[船越英二](https://ja.wikipedia.org/wiki/船越英二 "wikilink")
-  - [織田信忠](../Page/織田信忠.md "wikilink")：[類家大地](https://ja.wikipedia.org/wiki/類家大地 "wikilink")→[寺沢昌純](https://ja.wikipedia.org/wiki/寺沢昌純 "wikilink")→[青木海](https://ja.wikipedia.org/wiki/青木海 "wikilink")→[藤田哲也](../Page/藤田哲也_\(俳優\).md "wikilink")→[東根作寿英](https://ja.wikipedia.org/wiki/東根作寿英 "wikilink")
+  - [織田信定](../Page/織田信定.md "wikilink")：[船越英二](../Page/船越英二.md "wikilink")
+  - [織田信忠](../Page/織田信忠.md "wikilink")：[類家大地](../Page/類家大地.md "wikilink")→[寺沢昌純](https://ja.wikipedia.org/wiki/寺沢昌純 "wikilink")→[青木海](https://ja.wikipedia.org/wiki/青木海 "wikilink")→[藤田哲也](../Page/藤田哲也_\(俳優\).md "wikilink")→[東根作寿英](../Page/東根作寿英.md "wikilink")
       -
         信長の長男で母は、しの。
   - [織田信雄](../Page/織田信雄.md "wikilink")：[田原慎太郎](https://ja.wikipedia.org/wiki/田原慎太郎 "wikilink")→[大泉翼](https://ja.wikipedia.org/wiki/大泉翼 "wikilink")
       -
         信長の次男で母は、しの。
-  - [五徳](https://ja.wikipedia.org/wiki/徳姫 "wikilink")：[三海菜穂美](https://ja.wikipedia.org/wiki/三海菜穂美 "wikilink")→[井上亜子](https://ja.wikipedia.org/wiki/井上亜子 "wikilink")→[西村裕子](https://ja.wikipedia.org/wiki/西村裕子 "wikilink")→[成田恵](https://ja.wikipedia.org/wiki/成田恵 "wikilink")
+  - [五徳](../Page/徳姫.md "wikilink")：[三海菜穂美](https://ja.wikipedia.org/wiki/三海菜穂美 "wikilink")→[井上亜子](https://ja.wikipedia.org/wiki/井上亜子 "wikilink")→[西村裕子](https://ja.wikipedia.org/wiki/西村裕子 "wikilink")→[成田恵](https://ja.wikipedia.org/wiki/成田恵 "wikilink")
       -
         信長の五女で母は、しの。松平信康に嫁ぐ。
   - [織田信広](../Page/織田信広.md "wikilink")：[村田泰則](https://ja.wikipedia.org/wiki/村田泰則 "wikilink")→[岸本一人](https://ja.wikipedia.org/wiki/岸本一人 "wikilink")
@@ -99,7 +99,7 @@
   - [織田信光](../Page/織田信光.md "wikilink")：[長谷川明男](../Page/長谷川明男.md "wikilink")
   - [織田信次](../Page/織田信次.md "wikilink")：[菊池孝典](https://ja.wikipedia.org/wiki/菊池隆則 "wikilink")
   - [織田秀孝](https://ja.wikipedia.org/wiki/織田秀孝 "wikilink")：[谷田真吾](https://ja.wikipedia.org/wiki/谷田真吾 "wikilink")
-  - [織田信康](https://ja.wikipedia.org/wiki/織田信康 "wikilink")：[加世幸市](https://ja.wikipedia.org/wiki/加世幸市 "wikilink")
+  - [織田信康](../Page/織田信康.md "wikilink")：[加世幸市](https://ja.wikipedia.org/wiki/加世幸市 "wikilink")
   - [織田信時](../Page/織田信時.md "wikilink")：[田中克季](https://ja.wikipedia.org/wiki/田中克季 "wikilink")
   - [織田信友](../Page/織田信友.md "wikilink")：[辻輝猛](../Page/辻輝猛.md "wikilink")
   - [坂井大膳](https://ja.wikipedia.org/wiki/坂井大膳 "wikilink")（織田本家家老）：[鈴木瑞穂](../Page/鈴木瑞穂.md "wikilink")
@@ -107,23 +107,23 @@
 ### 信長の家臣とその関係者
 
   - [林通勝](../Page/林秀貞.md "wikilink")：[宇津井健](../Page/宇津井健.md "wikilink")
-  - [柴田勝家](../Page/柴田勝家.md "wikilink")：[滝田栄](https://ja.wikipedia.org/wiki/滝田栄 "wikilink")
+  - [柴田勝家](../Page/柴田勝家.md "wikilink")：[滝田栄](../Page/滝田栄.md "wikilink")
   - [内藤勝介](https://ja.wikipedia.org/wiki/内藤勝介 "wikilink")：[塚本信夫](../Page/塚本信夫.md "wikilink")
   - [池田恒興](../Page/池田恒興.md "wikilink")：[坂本徳志](https://ja.wikipedia.org/wiki/坂本徳志 "wikilink")→[的場浩司](../Page/的場浩司.md "wikilink")
   - 木下藤吉郎→[羽柴秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")：[仲村トオル](../Page/仲村トオル.md "wikilink")
-  - [ねね](../Page/高台院.md "wikilink")：[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink")
+  - [ねね](../Page/高台院.md "wikilink")：[中山美穂](../Page/中山美穂.md "wikilink")
       -
         秀吉の正妻。
-  - [明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")：[マイケル富岡](https://ja.wikipedia.org/wiki/マイケル富岡 "wikilink")
+  - [明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")：[マイケル富岡](../Page/マイケル富岡.md "wikilink")
   - [佐久間信盛](../Page/佐久間信盛.md "wikilink")：[田中健](../Page/田中健_\(俳優\).md "wikilink")\[8\]
   - [佐久間盛重](../Page/佐久間盛重.md "wikilink")：[本郷功次郎](../Page/本郷功次郎.md "wikilink")
   - [平手政秀](../Page/平手政秀.md "wikilink")：[二谷英明](../Page/二谷英明.md "wikilink")
-  - [平手五郎右衛門](https://ja.wikipedia.org/wiki/平手久秀 "wikilink")：[黒田アーサー](https://ja.wikipedia.org/wiki/黒田アーサー "wikilink")
+  - [平手五郎右衛門](https://ja.wikipedia.org/wiki/平手久秀 "wikilink")：[黒田アーサー](../Page/黒田アーサー.md "wikilink")
   - [滝川一益](../Page/滝川一益.md "wikilink")：[柴俊夫](../Page/柴俊夫.md "wikilink")
   - [丹羽長秀](../Page/丹羽長秀.md "wikilink")：[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")
   - [前田利家](../Page/前田利家.md "wikilink")：[橋爪淳](../Page/橋爪淳.md "wikilink")
-  - [河尻秀隆](../Page/河尻秀隆.md "wikilink")：[森田順平](https://ja.wikipedia.org/wiki/森田順平 "wikilink")
-  - [稲葉良通](../Page/稲葉良通.md "wikilink")：[篠田三郎](https://ja.wikipedia.org/wiki/篠田三郎 "wikilink")
+  - [河尻秀隆](../Page/河尻秀隆.md "wikilink")：[森田順平](../Page/森田順平.md "wikilink")
+  - [稲葉良通](../Page/稲葉良通.md "wikilink")：[篠田三郎](../Page/篠田三郎.md "wikilink")
   - [森可成](../Page/森可成.md "wikilink")：[三上真一郎](../Page/三上真一郎.md "wikilink")
   - [森長可](../Page/森長可.md "wikilink")：[野尻忠正](https://ja.wikipedia.org/wiki/野尻忠正 "wikilink")
   - [森蘭丸](../Page/森成利.md "wikilink")：[石野太呂字](../Page/竜小太郎.md "wikilink")
@@ -141,7 +141,7 @@
   - [村井貞勝](../Page/村井貞勝.md "wikilink")：[西田圭](https://ja.wikipedia.org/wiki/西田圭 "wikilink")
   - [荒木村重](../Page/荒木村重.md "wikilink")：[本田博太郎](../Page/本田博太郎.md "wikilink")
   - [高山飛騨守](../Page/高山友照.md "wikilink")：[清水善三](https://ja.wikipedia.org/wiki/清水善三 "wikilink")
-  - [高山右近](../Page/高山右近.md "wikilink")：[冨家規政](https://ja.wikipedia.org/wiki/冨家規政 "wikilink")
+  - [高山右近](../Page/高山右近.md "wikilink")：[冨家規政](../Page/冨家規政.md "wikilink")
 
 ### 諸大名・武将
 
@@ -159,12 +159,12 @@
   - [斎藤道三](../Page/斎藤道三.md "wikilink")：[芦田伸介](../Page/芦田伸介.md "wikilink")
   - [斎藤義龍](../Page/斎藤義龍.md "wikilink")：[広岡瞬](../Page/広岡瞬.md "wikilink")
   - [斎藤龍興](../Page/斎藤龍興.md "wikilink")：[渡浩行](https://ja.wikipedia.org/wiki/渡浩行 "wikilink")
-  - [浅井久政](../Page/浅井久政.md "wikilink")：[寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")\[9\]
+  - [浅井久政](../Page/浅井久政.md "wikilink")：[寺田農](../Page/寺田農.md "wikilink")\[9\]
   - [浅井長政](../Page/浅井長政.md "wikilink")：[辰巳琢郎](../Page/辰巳琢郎.md "wikilink")
   - [足利義輝](https://ja.wikipedia.org/wiki/足利義輝 "wikilink")：[宮田恭男](https://ja.wikipedia.org/wiki/宮田恭男 "wikilink")
   - [足利義昭](https://ja.wikipedia.org/wiki/足利義昭 "wikilink")：[青山裕一](../Page/花柳寿楽_\(3代目\).md "wikilink")
-  - [和田惟政](../Page/和田惟政.md "wikilink")：[新井康弘](https://ja.wikipedia.org/wiki/新井康弘 "wikilink")
-  - [三淵藤英](https://ja.wikipedia.org/wiki/三淵藤英 "wikilink")：[渡辺寛二](https://ja.wikipedia.org/wiki/渡辺寛二 "wikilink")
+  - [和田惟政](../Page/和田惟政.md "wikilink")：[新井康弘](../Page/新井康弘.md "wikilink")
+  - [三淵藤英](../Page/三淵藤英.md "wikilink")：[渡辺寛二](https://ja.wikipedia.org/wiki/渡辺寛二 "wikilink")
   - [上野秀政](https://ja.wikipedia.org/wiki/上野秀政 "wikilink")：[横光克彦](../Page/横光克彦.md "wikilink")
   - [斯波義統](../Page/斯波義統.md "wikilink")：[山本寛](https://ja.wikipedia.org/wiki/山本寛_\(俳優\) "wikilink")
   - [斯波義銀](../Page/斯波義銀.md "wikilink")：[山本耕史](../Page/山本耕史.md "wikilink")
@@ -173,9 +173,9 @@
   - [武田勝頼](../Page/武田勝頼.md "wikilink")：[北谷等](https://ja.wikipedia.org/wiki/北谷等 "wikilink")→[黒田隆哉](../Page/黒田崇矢.md "wikilink")
   - [武田信勝](../Page/武田信勝.md "wikilink")：[小橋賢児](../Page/小橋賢児.md "wikilink")
   - [武田信廉](../Page/武田信廉.md "wikilink")：[黒部進](../Page/黒部進.md "wikilink")
-  - [北条夫人](https://ja.wikipedia.org/wiki/北条夫人 "wikilink")：[阿部朋子](https://ja.wikipedia.org/wiki/阿部朋子 "wikilink")
+  - [北条夫人](../Page/北条夫人.md "wikilink")：[阿部朋子](https://ja.wikipedia.org/wiki/阿部朋子 "wikilink")
   - [馬場美濃守](../Page/馬場信春.md "wikilink")：[荒木しげる](../Page/荒木しげる.md "wikilink")
-  - [山県昌景](../Page/山県昌景.md "wikilink")：[小山武宏](https://ja.wikipedia.org/wiki/小山武宏 "wikilink")
+  - [山県昌景](../Page/山県昌景.md "wikilink")：[小山武宏](../Page/小山武宏.md "wikilink")
   - [朝倉義景](../Page/朝倉義景.md "wikilink")：[北村総一朗](../Page/北村総一朗.md "wikilink")
   - [朝倉景鏡](../Page/朝倉景鏡.md "wikilink")：[田嶋基吉](https://ja.wikipedia.org/wiki/田嶋基吉 "wikilink")
   - [朝倉景健](../Page/朝倉景健.md "wikilink")：[門田俊](https://ja.wikipedia.org/wiki/門田俊 "wikilink")一
@@ -196,15 +196,15 @@
 ### その他
 
   - [ルイス・フロイス](../Page/ルイス・フロイス.md "wikilink")：[アダム・ロビンス](https://ja.wikipedia.org/wiki/アダム・ロビンス "wikilink")→[フランク・ニール](https://ja.wikipedia.org/wiki/フランク・ニール "wikilink")
-  - [ロレンソ](https://ja.wikipedia.org/wiki/ロレンソ了斎 "wikilink")：[稲川淳二](../Page/稲川淳二.md "wikilink")
+  - [ロレンソ](../Page/ロレンソ了斎.md "wikilink")：[稲川淳二](../Page/稲川淳二.md "wikilink")
   - [今井宗久](../Page/今井宗久.md "wikilink")：[佐藤慶](../Page/佐藤慶.md "wikilink")
   - [千利休](../Page/千利休.md "wikilink")：[伊藤孝雄](../Page/伊藤孝雄.md "wikilink")
   - [津田宗及](../Page/津田宗及.md "wikilink")：[内田稔](../Page/内田稔.md "wikilink")
   - [山上宗二](../Page/山上宗二.md "wikilink")：[河合隆司](https://ja.wikipedia.org/wiki/河合隆司 "wikilink")
-  - [島井宗叱](https://ja.wikipedia.org/wiki/島井宗室 "wikilink")：[野島秀信](https://ja.wikipedia.org/wiki/野島秀信 "wikilink")
-  - [日比屋了慶](https://ja.wikipedia.org/wiki/日比屋了慶 "wikilink")：[島田順司](https://ja.wikipedia.org/wiki/島田順司 "wikilink")
+  - [島井宗叱](../Page/島井宗室.md "wikilink")：[野島秀信](https://ja.wikipedia.org/wiki/野島秀信 "wikilink")
+  - [日比屋了慶](https://ja.wikipedia.org/wiki/日比屋了慶 "wikilink")：[島田順司](../Page/島田順司.md "wikilink")
   - [顕如](../Page/顕如.md "wikilink")：[伊藤富美也](https://ja.wikipedia.org/wiki/伊藤富美也 "wikilink")
-  - [教如](https://ja.wikipedia.org/wiki/教如 "wikilink")：[原豊](https://ja.wikipedia.org/wiki/原豊 "wikilink")
+  - [教如](../Page/教如.md "wikilink")：[原豊](https://ja.wikipedia.org/wiki/原豊 "wikilink")
   - [朝山日乗](../Page/朝山日乗.md "wikilink")：[内田勝正](../Page/内田勝正.md "wikilink")
   - [飛鳥井雅教](https://ja.wikipedia.org/wiki/飛鳥井雅教 "wikilink")：[松橋登](../Page/松橋登.md "wikilink")
   - [勧修寺晴豊](../Page/勧修寺晴豊.md "wikilink")：[堀内正美](../Page/堀内正美.md "wikilink")
@@ -236,7 +236,7 @@
   - 喜八（秀吉家来）：[松原一馬](https://ja.wikipedia.org/wiki/松原一馬 "wikilink")
   - まつ（るいの侍女）：[山本郁子](../Page/山本郁子_\(女優\).md "wikilink")
   - 安祥長家（安祥城の城主）：[宮寺康夫](https://ja.wikipedia.org/wiki/宮寺康夫 "wikilink")
-  - よね→安（安祥長家の側室→織田信秀の側室）：[青山知可子](https://ja.wikipedia.org/wiki/青山知可子 "wikilink")
+  - よね→安（安祥長家の側室→織田信秀の側室）：[青山知可子](../Page/青山知可子.md "wikilink")
   - りゅう（信長の姉、義龍の妻）：[黒谷加奈子](https://ja.wikipedia.org/wiki/黒谷加奈子 "wikilink")→[西野まり](https://ja.wikipedia.org/wiki/西野まり "wikilink")→[久我美智子](https://ja.wikipedia.org/wiki/久我美智子 "wikilink")→[岡本舞](../Page/岡本舞.md "wikilink")
   - 良吉：[長谷有洋](../Page/長谷有洋.md "wikilink")
   - 宗吉：[加藤雅也（現・飛鳥幸一）](../Page/飛鳥幸一.md "wikilink")
@@ -253,7 +253,7 @@
   - テーマ音楽演奏：[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")
   - テーマ音楽指揮：[尾高忠明](../Page/尾高忠明.md "wikilink")
   - テーマ音楽作詞：田向正健
-  - テーマ音楽合唱：[東京混声合唱団](https://ja.wikipedia.org/wiki/東京混声合唱団 "wikilink")
+  - テーマ音楽合唱：[東京混声合唱団](../Page/東京混声合唱団.md "wikilink")
   - テーマ音楽独唱：[久岡昇](https://ja.wikipedia.org/wiki/久岡昇 "wikilink")
   - 監修：[松田毅一](../Page/松田毅一.md "wikilink")
   - 時代考証：[岡田正人](https://ja.wikipedia.org/wiki/岡田正人 "wikilink")
@@ -272,7 +272,7 @@
   - 能指導：[桜間辰之](https://ja.wikipedia.org/wiki/桜間辰之 "wikilink")
   - 祈祷指導：[佐藤象恒](https://ja.wikipedia.org/wiki/佐藤象恒 "wikilink")
   - 邦楽：[杵屋正邦](https://ja.wikipedia.org/wiki/杵屋正邦 "wikilink")
-  - 協力：[岐阜県](../Page/岐阜県.md "wikilink")、[岐阜市](../Page/岐阜市.md "wikilink")、[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")、[大野市](../Page/大野市.md "wikilink")、[山梨県](../Page/山梨県.md "wikilink")[小淵沢町](https://ja.wikipedia.org/wiki/小淵沢町 "wikilink")、[恵那市](../Page/恵那市.md "wikilink")、[岩村町](../Page/岩村町.md "wikilink")、[高根町](../Page/高根町.md "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")[安土町](../Page/安土町.md "wikilink")
+  - 協力：[岐阜県](../Page/岐阜県.md "wikilink")、[岐阜市](../Page/岐阜市.md "wikilink")、[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")、[大野市](../Page/大野市.md "wikilink")、[山梨県](../Page/山梨県.md "wikilink")[小淵沢町](../Page/小淵沢町.md "wikilink")、[恵那市](../Page/恵那市.md "wikilink")、[岩村町](../Page/岩村町.md "wikilink")、[高根町](../Page/高根町.md "wikilink")、[滋賀県](../Page/滋賀県.md "wikilink")[安土町](../Page/安土町.md "wikilink")
   - 題字：[渡辺裕英](https://ja.wikipedia.org/wiki/渡辺裕英 "wikilink")
   - 語り：[ランシュー・クリストフ](https://ja.wikipedia.org/wiki/ランシュー・クリストフ "wikilink")、[加賀美幸子](../Page/加賀美幸子.md "wikilink")アナウンサー(総集編アバンタイトル)、[井筒屋勝己](https://ja.wikipedia.org/wiki/井筒屋勝己 "wikilink")アナウンサー（本放送アバンタイトル）
   - 制作：[八木雅次](https://ja.wikipedia.org/wiki/八木雅次 "wikilink")、[加藤郁雄](https://ja.wikipedia.org/wiki/加藤郁雄 "wikilink")
@@ -382,9 +382,9 @@
 
 [Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1992年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1992年のテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:NHK岐阜](https://ja.wikipedia.org/wiki/Category:NHK岐阜 "wikilink") [Category:NHK大津](https://ja.wikipedia.org/wiki/Category:NHK大津 "wikilink") [Category:織田信長を題材とした作品](https://ja.wikipedia.org/wiki/Category:織田信長を題材とした作品 "wikilink") [Category:NHKオンデマンド配信番組](https://ja.wikipedia.org/wiki/Category:NHKオンデマンド配信番組 "wikilink")
 
-1.  [時代劇専門チャンネル](https://ja.wikipedia.org/wiki/時代劇専門チャンネル "wikilink")特別番組「研究・織田信長〜NHK大河ドラマにみる信長の魅力〜」内・緒形直人インタビューより。
+1.  [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")特別番組「研究・織田信長〜NHK大河ドラマにみる信長の魅力〜」内・緒形直人インタビューより。
 2.  NHK大河ドラマ・ストーリー「信長」（日本放送協会出版、1992年）p10-11、緒形のインタビューより
-3.  [時代劇専門チャンネル](https://ja.wikipedia.org/wiki/時代劇専門チャンネル "wikilink")特別番組「研究・織田信長〜NHK大河ドラマにみる信長の魅力〜」内・[市川森一](https://ja.wikipedia.org/wiki/市川森一 "wikilink")他の発言より。
+3.  [時代劇専門チャンネル](../Page/時代劇専門チャンネル.md "wikilink")特別番組「研究・織田信長〜NHK大河ドラマにみる信長の魅力〜」内・[市川森一](../Page/市川森一.md "wikilink")他の発言より。
 4.  例えば[九州](../Page/九州.md "wikilink")のキリシタンが苦難に遭うシーン、信長死後15年目に起こった[二十六聖人の処刑などが描かれたが](https://ja.wikipedia.org/wiki/日本二十六聖人#経過 "wikilink")、これらの話は全く主人公・信長が関係しないエピソードである。
 5.  NHK大河ドラマ・ストーリー「信長」（日本放送協会出版、1992年）を参照。
 6.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)

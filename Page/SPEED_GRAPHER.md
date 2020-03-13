@@ -1,7 +1,7 @@
 > この記事は[SPEED GRAPHER](https://ja.wikipedia.org/wiki/SPEED_GRAPHER)から翻訳されています。
 
 
-『**SPEED GRAPHER**』（スピード グラファー）は、[GONZO制作の](../Page/ゴンゾ.md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[9月29日](../Page/9月29日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で木曜深夜26時40分に放送されていた。全24話。
+『**SPEED GRAPHER**』（スピード グラファー）は、[GONZO制作の](../Page/ゴンゾ.md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[9月29日](../Page/9月29日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で木曜深夜26時40分に放送されていた。全24話。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ラジオ・小説・漫画・ドラマCD・グッズなど、多数の[メディアミックス](../Page/メディアミックス.md "wikilink")を展開しており（[後述](https://ja.wikipedia.org/wiki/#メディア展開 "wikilink")）、オフィシャルイベントなども開催。
 
-また、ヒロインである天王洲神楽の選考ではウェブ形式の一般投票によるオーディションが行われ、その結果、新人の斉藤圭（現：[真堂圭](https://ja.wikipedia.org/wiki/真堂圭 "wikilink")）が選ばれた。
+また、ヒロインである天王洲神楽の選考ではウェブ形式の一般投票によるオーディションが行われ、その結果、新人の斉藤圭（現：[真堂圭](../Page/真堂圭.md "wikilink")）が選ばれた。
 
 ## あらすじ
 
@@ -28,11 +28,11 @@
 ### 主要人物
 
   - 雑賀 辰巳 （さいが たつみ）
-    [声](../Page/声優.md "wikilink") - [高田裕司](https://ja.wikipedia.org/wiki/高田裕司_\(声優\) "wikilink")
+    [声](../Page/声優.md "wikilink") - [高田裕司](../Page/高田裕司_\(声優\).md "wikilink")
     本作の主人公。33歳。元[戦場](https://ja.wikipedia.org/wiki/戦場 "wikilink")[カメラマン](../Page/カメラマン.md "wikilink")だが負傷したことにより帰国。現在は[パパラッチ](../Page/パパラッチ.md "wikilink")同然のフリーカメラマン。カメラが無いと勃たない。水天宮とは日本に戻る原因を作った殲滅作戦で一緒だったが、その事には気付いていない。写真一筋なので収入があってもそのほとんどを写真関連の機材の購入にあててしまうため、写真家として一時それなりの地位を築いていたにもかかわらず、マイカーすら持っていない（彼が普段乗用している車は銀座のもの）。戦場カメラマン時代から、完全機械式のNikonF2フォトミックASを愛用している。
     [フェティッシュは](../Page/フェティシズム.md "wikilink")“写殺”で、写真を撮ると被写体が爆発する能力。戦場カメラマンとして極限状態にあって人の死の瞬間を撮ることを無意識のうちに至上の快楽とした結果ユーフォリアへ覚醒する資質が形成された。爆発の威力や範囲はレンズの種類に依存する。ドラマCDの設定では“カメラと神楽の服装”がフェティッシュとなっている。
   - 天王洲 神楽 （てんのうず かぐら）
-    声 - [斉藤圭](https://ja.wikipedia.org/wiki/真堂圭 "wikilink")
+    声 - [斉藤圭](../Page/真堂圭.md "wikilink")
     15歳。水天宮に操られ、六本木倶楽部の女神として崇められる少女。体液が他の人間の身体に入り込むと、ある特定の因子を持った人間はユーフォリアとして目覚め、その他の人間はある物質により興奮抑制するホルモンの働きを抑えることで欲望に忠実な獣となる。これに関連して頭に摘出不可能な腫瘍があり、余命半年であることを知らない。
     裕福な家庭で育ったことから世間知らずな一面があり、カップラーメンを食べたり電車に乗ったことが無かった。水天宮の実験等により生理などといった性徴を抑制されており、自分が操られていた事を知ってからは、雑賀と共に逃げるようになる。
   - 水天宮 寵児 （すいてんぐう ちょうじ）
@@ -67,13 +67,13 @@
     声 - [石井康嗣](../Page/石井康嗣.md "wikilink")
     雑賀と同じビルに住むマッサージ屋。[ゲイ](../Page/ゲイ.md "wikilink")で、[北千住](https://ja.wikipedia.org/wiki/北千住 "wikilink")に[ゲイバー](../Page/ゲイバー.md "wikilink")を経営している弟がいる。
   - 江古田 （えこだ）
-    声 - [巻島直樹](https://ja.wikipedia.org/wiki/巻島直樹 "wikilink")
+    声 - [巻島直樹](../Page/巻島直樹.md "wikilink")
     銀座の上司であるが、強気の銀座には及び腰。異常なまでの脚フェチ。
   - 椎名 （しいな）
     声 - [山野井仁](../Page/山野井仁.md "wikilink")
     新人警察官。上司の銀座にコキ使われている。
   - 西谷 （にしや）
-    声 - [柳沢栄治](https://ja.wikipedia.org/wiki/柳沢栄治 "wikilink")
+    声 - [柳沢栄治](../Page/柳沢栄治.md "wikilink")
     両国の知人。大学で[DNA研究をしている](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")。
   - 両国 玄蕃 （りょうごく げんば）
     声 - [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")
@@ -105,11 +105,11 @@
     声 - [岡本麻弥](../Page/岡本麻弥.md "wikilink")
     幼少時に心中事件に巻き込まれ、それ以来愛人とともに入水自殺を繰り返すようになった。元チョイ役[女優](../Page/俳優.md "wikilink")。フェティッシュは“水”。
   - 落合 征二 （おちあい せいじ）
-    声 - [金尾哲夫](https://ja.wikipedia.org/wiki/金尾哲夫 "wikilink")
+    声 - [金尾哲夫](../Page/金尾哲夫.md "wikilink")
     元[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")で、現[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員（小説版では[参議院](https://ja.wikipedia.org/wiki/参議院 "wikilink")議員）。表向きは反体制組織「白い鷲の会」代表だが、実は秘密倶楽部のVIP会員。オーディオマニアであることから音のユーフォリアとなった。
     フェティッシュは“音”で、フェティッシュの発動時には自身がスピーカーとなり、音を用いた攻撃をする。小説版でのフェティッシュは“健全な肉体と精神”となっている。
   - 神谷 勝二 （かみや かつじ）
-    声 - [小山武宏](https://ja.wikipedia.org/wiki/小山武宏 "wikilink")
+    声 - [小山武宏](../Page/小山武宏.md "wikilink")
     [内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")。幼い頃の水天宮とその妹を海外に売り飛ばした。
     フェティッシュは“食”で、フェティッシュの発動時には顔が肥大化し、口から触手を生やす。小説版でのフェティッシュは“火”となっている。
 
@@ -127,7 +127,7 @@
   - 撮影監督 - 石黒晴嗣
   - 編集 - 肥田文
   - 音響監督 - [鶴岡陽太](../Page/鶴岡陽太.md "wikilink")
-  - 音楽 - [光宗信吉](https://ja.wikipedia.org/wiki/光宗信吉 "wikilink")
+  - 音楽 - [光宗信吉](../Page/光宗信吉.md "wikilink")
   - プロデューサー - 橋本太知、西口なおみ
   - アニメーション制作 - GONZO
   - 制作 - [テレビ朝日](../Page/テレビ朝日.md "wikilink")
@@ -139,7 +139,7 @@
     ; 『[グラビアの美少女](https://ja.wikipedia.org/wiki/グラビアの美少女_\(曲\) "wikilink")\[3\]』
     : 歌 - [Duran Duran](../Page/デュラン・デュラン.md "wikilink")
     ; 『爆殺シャッタースピード』
-    : 作曲 - [光宗信吉](https://ja.wikipedia.org/wiki/光宗信吉 "wikilink")
+    : 作曲 - [光宗信吉](../Page/光宗信吉.md "wikilink")
 
 <!-- end list -->
 
@@ -153,7 +153,7 @@
 
   - 挿入歌
     ; 『JUMP UP\!』
-    : 歌 - [斉藤圭](https://ja.wikipedia.org/wiki/真堂圭 "wikilink")
+    : 歌 - [斉藤圭](../Page/真堂圭.md "wikilink")
 
 ## 各話リスト
 
@@ -382,9 +382,9 @@
 
 ### Webラジオ
 
-  - [斉藤圭のスピードグラファー『快楽超人ユーフォリア』皆様の不景気を救います\!](https://ja.wikipedia.org/wiki/元・斉藤圭のスピードグラファー『快楽超人ユーフォリア』皆様の不景気を救います! "wikilink")\[4\]
-    [音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")から2005年4月1日 - 12月23日に配信された[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")。全39回。
-    パーソナリティは天王洲神楽役の斉藤圭（現：[真堂圭](https://ja.wikipedia.org/wiki/真堂圭 "wikilink")）、初回のみキャラクター原案の[コザキユースケ](../Page/コザキユースケ.md "wikilink")も務めていた。5回目からはアシスタントに番組ディレクター[やまけん](https://ja.wikipedia.org/wiki/やまけん "wikilink")が参加。
+  - [斉藤圭のスピードグラファー『快楽超人ユーフォリア』皆様の不景気を救います\!](../Page/元・斉藤圭のスピードグラファー『快楽超人ユーフォリア』皆様の不景気を救います!.md "wikilink")\[4\]
+    [音泉](../Page/音泉.md "wikilink")から2005年4月1日 - 12月23日に配信された[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")。全39回。
+    パーソナリティは天王洲神楽役の斉藤圭（現：[真堂圭](../Page/真堂圭.md "wikilink")）、初回のみキャラクター原案の[コザキユースケ](../Page/コザキユースケ.md "wikilink")も務めていた。5回目からはアシスタントに番組ディレクター[やまけん](../Page/やまけん.md "wikilink")が参加。
 
 ### 書籍関係
 
@@ -394,7 +394,7 @@
     2.  ISBN 4-15-030816-0
     3.  ISBN 4150308292
   - [コミカライズ](https://ja.wikipedia.org/wiki/コミカライズ "wikilink")
-    [メディアワークス](../Page/メディアワークス.md "wikilink")『[月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")』に連載。作画は[ともぞ](https://ja.wikipedia.org/wiki/ともぞ "wikilink")。単行本は[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")から全3巻で刊行。
+    [メディアワークス](../Page/メディアワークス.md "wikilink")『[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")』に連載。作画は[ともぞ](https://ja.wikipedia.org/wiki/ともぞ "wikilink")。単行本は[電撃コミックス](https://ja.wikipedia.org/wiki/電撃コミックス "wikilink")から全3巻で刊行。
     オリジナルのクライマックスやドラマCDのシナリオを取り入れた特別編など、放送されたものとは違うストーリー展開や本編とは別のおまけ要素なども描かれている。
     1.  ISBN 9784840231930
     2.  ISBN 9784840234160
@@ -421,7 +421,7 @@
   - DVD
     ディレクターズカット版として最終話まで全12巻で発売。また、全てを収録したDVD BOXも発売されている。
   - UMD
-    [PlayStation Portable専用の](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")[UMDビデオ](../Page/ユニバーサル・メディア・ディスク.md "wikilink")。
+    [PlayStation Portable専用の](../Page/PlayStation_Portable.md "wikilink")[UMDビデオ](../Page/ユニバーサル・メディア・ディスク.md "wikilink")。
     『スピードグラファー ゴム怪人編』としてオンエア版の1話〜4話を収録。
 
 ### その他

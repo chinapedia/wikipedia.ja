@@ -19,7 +19,7 @@
 
 広告主企業が宣伝費の選択と集中を進めた結果、従来各広告代理店に分散して行っていたメディア枠の購買を一社にまとめ、その分コミッション比率の低下を要求するようになった。こうしたセントラルバイイング方式をとる広告主の増加に伴い、メディアに強い電通への媒体購買一極集中が起こるようになった。その対抗策として媒体購買力を高める必要に迫られ、2002年に博報堂・大広・読売広告社の3社で媒体の共同購入を行うことになり、2003年の博報堂DYホールディングスの設立へとつながった。
 
-博報堂DYメディアパートナーズおよび博報堂DYホールディングスが[電通](../Page/電通.md "wikilink")本社の向かい側の[汐留シティセンター](https://ja.wikipedia.org/wiki/汐留シティセンター "wikilink")に入居したため、電通を強く刺激したといわれる（[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")報道による）。
+博報堂DYメディアパートナーズおよび博報堂DYホールディングスが[電通](../Page/電通.md "wikilink")本社の向かい側の[汐留シティセンター](../Page/汐留シティセンター.md "wikilink")に入居したため、電通を強く刺激したといわれる（[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")報道による）。
 
 ## 製作作品
 
@@ -43,20 +43,20 @@
   - [シッコ](../Page/シッコ.md "wikilink")
   - [世界の中心で、愛をさけぶ](../Page/世界の中心で、愛をさけぶ.md "wikilink")
   - [セカンドバージン](https://ja.wikipedia.org/wiki/セカンドバージン "wikilink")
-  - [電車男](https://ja.wikipedia.org/wiki/電車男 "wikilink")
+  - [電車男](../Page/電車男.md "wikilink")
   - [博士の愛した数式](../Page/博士の愛した数式.md "wikilink")
   - [春の雪](../Page/春の雪_\(映画\).md "wikilink")
-  - [ピーナッツ](https://ja.wikipedia.org/wiki/ピーナッツ_\(映画\) "wikilink")
+  - [ピーナッツ](../Page/ピーナッツ_\(映画\).md "wikilink")
   - [ビューティフル・デイズ](https://ja.wikipedia.org/wiki/ビューティフル・デイズ "wikilink")
-  - [ヴェラ・ドレイク](https://ja.wikipedia.org/wiki/ヴェラ・ドレイク "wikilink")
+  - [ヴェラ・ドレイク](../Page/ヴェラ・ドレイク.md "wikilink")
   - [武士の一分](../Page/武士の一分.md "wikilink")
   - [不都合な真実](../Page/不都合な真実.md "wikilink")
-  - [フライトプラン](https://ja.wikipedia.org/wiki/フライトプラン "wikilink")
-  - [ブロークバック・マウンテン](https://ja.wikipedia.org/wiki/ブロークバック・マウンテン "wikilink")
-  - [ボーン・スプレマシー](https://ja.wikipedia.org/wiki/ボーン・スプレマシー "wikilink")
+  - [フライトプラン](../Page/フライトプラン.md "wikilink")
+  - [ブロークバック・マウンテン](../Page/ブロークバック・マウンテン.md "wikilink")
+  - [ボーン・スプレマシー](../Page/ボーン・スプレマシー.md "wikilink")
   - [微笑みに出会う街角](https://ja.wikipedia.org/wiki/微笑みに出会う街角 "wikilink")
   - [ミッション:インポッシブル3](../Page/ミッション:インポッシブル3.md "wikilink")
-  - [ミリオンダラー・ベイビー](https://ja.wikipedia.org/wiki/ミリオンダラー・ベイビー "wikilink")
+  - [ミリオンダラー・ベイビー](../Page/ミリオンダラー・ベイビー.md "wikilink")
   - [ラヴェンダーの咲く庭で](../Page/ラヴェンダーの咲く庭で.md "wikilink")
   - [ラブ・アクチュアリー](https://ja.wikipedia.org/wiki/ラブ・アクチュアリー "wikilink")
   - [レーシング・ストライプス](../Page/レーシング・ストライプス.md "wikilink")

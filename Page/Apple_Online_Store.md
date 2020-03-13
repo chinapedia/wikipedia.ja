@@ -1,11 +1,11 @@
 > この記事は[Apple Online Store](https://ja.wikipedia.org/wiki/Apple_Online_Store)から翻訳されています。
 
 
-**Apple Online Store**（アップル オンライン ストア）とは、[1999年](../Page/1999年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")より開設・運用されている[米アップルの](../Page/アップル_\(企業\).md "wikilink")[オンラインショップである](../Page/通信販売.md "wikilink")。[BTO](https://ja.wikipedia.org/wiki/BTO "wikilink")(CTO)は、同年7月1日に開始された\[1\]。
+**Apple Online Store**（アップル オンライン ストア）とは、[1999年](../Page/1999年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")より開設・運用されている[米アップルの](../Page/アップル_\(企業\).md "wikilink")[オンラインショップである](../Page/通信販売.md "wikilink")。[BTO](../Page/BTO.md "wikilink")(CTO)は、同年7月1日に開始された\[1\]。
 
 ## 概要
 
-[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[クパチーノのApple](https://ja.wikipedia.org/wiki/クパチーノ_\(カリフォルニア州\) "wikilink") Inc.によって[WebObjects](https://ja.wikipedia.org/wiki/WebObjects "wikilink")を利用して運営され、同社の全ての製品とサードバーティ製品が販売されている。[インターネット](../Page/インターネット.md "wikilink")からの注文に加え、[電話](../Page/電話.md "wikilink")による注文も可能である。支払い方法は各種あるが、場合によっては商品到着まで2週間以上かかるものもある\[2\]。個人向け以外にも、法人向け\[3\]にも運用されており、政府系機関・[公務員](https://ja.wikipedia.org/wiki/公務員 "wikilink")割引\[4\]、[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")・[教職員](https://ja.wikipedia.org/wiki/教職員 "wikilink")割引\[5\]が適用される専用ページもある。Apple Japan合同会社では、[日本語](../Page/日本語.md "wikilink")以外では[英語](../Page/英語.md "wikilink")での対応も[電話](../Page/電話.md "wikilink")で可能\[6\]。
+[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[クパチーノのApple](../Page/クパチーノ_\(カリフォルニア州\).md "wikilink") Inc.によって[WebObjects](../Page/WebObjects.md "wikilink")を利用して運営され、同社の全ての製品とサードバーティ製品が販売されている。[インターネット](../Page/インターネット.md "wikilink")からの注文に加え、[電話](../Page/電話.md "wikilink")による注文も可能である。支払い方法は各種あるが、場合によっては商品到着まで2週間以上かかるものもある\[2\]。個人向け以外にも、法人向け\[3\]にも運用されており、政府系機関・[公務員](https://ja.wikipedia.org/wiki/公務員 "wikilink")割引\[4\]、[学生](https://ja.wikipedia.org/wiki/学生 "wikilink")・[教職員](https://ja.wikipedia.org/wiki/教職員 "wikilink")割引\[5\]が適用される専用ページもある。Apple Japan合同会社では、[日本語](../Page/日本語.md "wikilink")以外では[英語](../Page/英語.md "wikilink")での対応も[電話](../Page/電話.md "wikilink")で可能\[6\]。
 
 ## 販売されている製品
 

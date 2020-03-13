@@ -74,7 +74,7 @@
     4.  フォーリンローリンmessage
     5.  イーゼ
     6.  湾岸ドライブ
-    7.  フォロー ザ リーダー feat.[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink") for KICK THE CAN CREW
+    7.  フォロー ザ リーダー feat.[LITTLE](../Page/LITTLE.md "wikilink") for KICK THE CAN CREW
     8.  all my japanese
     9.  シノビ.コム
     10. 夕べの奴は…
@@ -86,7 +86,7 @@
     16. To my Father (KREVA REMIX)
     <!-- end list -->
       -
-        DJ陣に[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")、G.M-KAZ、[ROCK-Tee](../Page/EAST_END.md "wikilink")、[DJ SHUHO](../Page/DJ_SHUHO.md "wikilink")、MC陣には[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")や[童子-T](../Page/童子-T.md "wikilink")が参加。オリコン最高順位216位。
+        DJ陣に[DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")、G.M-KAZ、[ROCK-Tee](../Page/EAST_END.md "wikilink")、[DJ SHUHO](../Page/DJ_SHUHO.md "wikilink")、MC陣には[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](../Page/LITTLE.md "wikilink")や[童子-T](../Page/童子-T.md "wikilink")が参加。オリコン最高順位216位。
   - 3分クッキング　（2004年3月17日）
     1.  3分男
     2.  太鼓盤 feat. [KREVA](../Page/KREVA.md "wikilink")
@@ -144,7 +144,7 @@ BY PHAR THE DOPEST、くレーベルを除く
         「トリートメント feat.[DABO](../Page/DABO.md "wikilink"), CUEZERO」
   - [RHYMESTER](../Page/RHYMESTER.md "wikilink"),『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』（2006年3月8日）
       -
-        「ウィークエンド・シャッフル feat. [MCU](../Page/MCU_\(ラッパー\).md "wikilink"), [RYO-Z](../Page/RIP_SLYME.md "wikilink"), [KREVA](../Page/KREVA.md "wikilink"), CUEZERO, [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [SU](../Page/RIP_SLYME.md "wikilink"), [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink"), [ILMARI](../Page/RIP_SLYME.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink"), [PES](../Page/RIP_SLYME.md "wikilink"), [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink"), [童子-T](../Page/童子-T.md "wikilink")」
+        「ウィークエンド・シャッフル feat. [MCU](../Page/MCU_\(ラッパー\).md "wikilink"), [RYO-Z](../Page/RIP_SLYME.md "wikilink"), [KREVA](../Page/KREVA.md "wikilink"), CUEZERO, [CHANNEL](../Page/CHANNEL.md "wikilink"), [KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink"), [SU](../Page/RIP_SLYME.md "wikilink"), [LITTLE](../Page/LITTLE.md "wikilink"), [ILMARI](../Page/RIP_SLYME.md "wikilink"), [GAKU-MC](../Page/GAKU-MC.md "wikilink"), [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink"), [PES](../Page/RIP_SLYME.md "wikilink"), [K.I.N](https://ja.wikipedia.org/wiki/K.I.N "wikilink"), [童子-T](../Page/童子-T.md "wikilink")」
   - LITTLE,『["Yes"rhyme-dentity](https://ja.wikipedia.org/wiki/"Yes"rhyme-dentity "wikilink")』（2008年5月7日）
       -
         足跡の中を旅してる feat.CUEZERO,童子-T,Mummy-D

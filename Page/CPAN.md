@@ -1,7 +1,7 @@
 > この記事は[CPAN](https://ja.wikipedia.org/wiki/CPAN)から翻訳されています。
 
 
-**CPAN**（シーパン、**C**omprehensive **P**erl **A**rchive **N**etwork）とは、[Perl](../Page/Perl.md "wikilink")の[ライブラリ](../Page/ライブラリ.md "wikilink")・[モジュール](../Page/モジュール.md "wikilink")やその他のPerlで書かれたソフトウェアを集めた巨大な[アーカイブ](../Page/アーカイブ.md "wikilink")で、世界中の[サーバ](../Page/サーバ.md "wikilink")にその内容が[ミラーリング](https://ja.wikipedia.org/wiki/ミラーリング "wikilink")されている。再利用性・汎用性の高いモジュールが登録されており、Perlプログラマができるだけ[車輪の再発明](../Page/車輪の再発明.md "wikilink")をせずに済むための支援環境となっている。登録モジュールの検索システムも提供されているため、Perlプログラマは望む機能を持ったモジュールを容易に入手することができる。
+**CPAN**（シーパン、**C**omprehensive **P**erl **A**rchive **N**etwork）とは、[Perl](../Page/Perl.md "wikilink")の[ライブラリ](../Page/ライブラリ.md "wikilink")・[モジュール](../Page/モジュール.md "wikilink")やその他のPerlで書かれたソフトウェアを集めた巨大な[アーカイブ](../Page/アーカイブ.md "wikilink")で、世界中の[サーバ](../Page/サーバ.md "wikilink")にその内容が[ミラーリング](../Page/ミラーリング.md "wikilink")されている。再利用性・汎用性の高いモジュールが登録されており、Perlプログラマができるだけ[車輪の再発明](../Page/車輪の再発明.md "wikilink")をせずに済むための支援環境となっている。登録モジュールの検索システムも提供されているため、Perlプログラマは望む機能を持ったモジュールを容易に入手することができる。
 
 CPANには大小さまざまなモジュールが登録されており、それらの依存関係もデータベース化されている。目的のモジュールと同時に、それに依存するほかのモジュールを芋づる式にダウンロードし、インストールすることが可能である。[Unix系](../Page/Unix系.md "wikilink")OSおよび[Windowsで利用できるCPANシェルという専用のソフトウェアが存在する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。このシェルはユーザの手持ちのライブラリの管理、CPANミラーへの問い合わせ、モジュールの[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")を行うものであり、ユーザは少ないコマンド操作によってモジュールの検索・導入を行うことができる。
 

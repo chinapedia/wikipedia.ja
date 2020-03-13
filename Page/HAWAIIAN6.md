@@ -110,7 +110,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン最高</a>9位、登場回数10回</p></td>
+<td><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン最高</a>9位、登場回数10回</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -129,7 +129,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン最高</a>21位、登場回数5回</p></td>
+<td><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン最高</a>21位、登場回数5回</p></td>
 </tr>
 </tbody>
 </table>
@@ -317,7 +317,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月6日.md" title="wikilink">8月6日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月6日.md" title="wikilink">8月6日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BEGINNINGS" title="wikilink">BEGINNINGS</a></strong></p></td>
 <td><p>PZCA-25</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -780,7 +780,7 @@ XQDB-4001(LP)</p></td>
 <li>HORSE WITH A KAPPA FACE / <a href="https://ja.wikipedia.org/wiki/LIVE_CLEAN_STAY_YOUNG" title="wikilink">LIVE CLEAN STAY YOUNG</a></li>
 <li>あらしの夜に… / <a href="../Page/THE_LOCAL_ART.md" title="wikilink">THE LOCAL ART</a></li>
 <li>cycled promises / <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li>足跡 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>足跡 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>INSTANT FOOD CHAIN / <a href="https://ja.wikipedia.org/wiki/MEATBUNS" title="wikilink">MEATBUNS</a></li>
 <li>JUSTICE / <a href="https://ja.wikipedia.org/wiki/M.G.T" title="wikilink">M.G.T</a></li>
 <li>Here Comes May Again / <a href="https://ja.wikipedia.org/wiki/MUGWUMPS" title="wikilink">MUGWUMPS</a></li>
@@ -824,7 +824,7 @@ XQDB-4001(LP)</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>小さな町の小さな唄 / 海北大輔（<a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a>）</li>
+<li>小さな町の小さな唄 / 海北大輔（<a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a>）</li>
 <li>Daisy Train / Tony Sly(<a href="https://ja.wikipedia.org/wiki/No_Use_For_A_Name" title="wikilink">No Use For A Name</a>）</li>
 <li>笑い声 / 三浦ユウキ(<a href="https://ja.wikipedia.org/wiki/TOMBOTORI" title="wikilink">TOMBOTORI</a>）</li>
 <li>Courage Song / YU-TAN(<a href="../Page/GOOD4NOTHING.md" title="wikilink">GOOD4NOTHING</a>）</li>

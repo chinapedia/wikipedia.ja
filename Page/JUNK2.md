@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - そもそも『[JUNK](../Page/JUNK.md "wikilink")』という番組枠自体は、[2002年](../Page/2002年.md "wikilink")4月に24:00 - 25:00の『[Be@t B@by\!\!](https://ja.wikipedia.org/wiki/Be@t_B@by!! "wikilink")』（ビートベイビー）と25:00 - 27:00の番組（旧UP'S）が1つの番組帯としてスタートしたもの。
+  - そもそも『[JUNK](../Page/JUNK.md "wikilink")』という番組枠自体は、[2002年](../Page/2002年.md "wikilink")4月に24:00 - 25:00の『[Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink")』（ビートベイビー）と25:00 - 27:00の番組（旧UP'S）が1つの番組帯としてスタートしたもの。
   - そのJUNKは開始当初24:00 - 25:00（TBSラジオ以外のJRN系列ラジオ局では27:00 - 28:00に放送）と25:00 - 27:00の放送枠に別れており、1つの曜日に2組のパーソナリティーが担当する2部制であった。
   - しかし、2003年9月をもって24時台の放送が終了し、それまで24時台のJUNKをネットしていた局ではTBSラジオと同時で[B-JUNK](../Page/B-JUNK.md "wikilink")（ビージャンク）のネットを開始した（B-JUNKについての詳細はB-JUNKを参照）。
   - 2005年4月から27時台の番組がそれまでのB-JUNKから、このJUNK2に改められた。この番組はJUNKのように曜日別のパーソナリティ（主に[お笑いタレント](../Page/お笑いタレント.md "wikilink")など）が担当するスタイルであったので実質上の2部制状態となっていた。
@@ -35,7 +35,7 @@
 ### 水曜日
 
   - **[陣内智則のひとり番長](../Page/陣内智則のひとり番長.md "wikilink")**（[陣内智則](../Page/陣内智則.md "wikilink") / 2005年4月6日に枠移動 - 2006年3月29日）
-  - **[スピードワゴンのキャラメル on the beach](https://ja.wikipedia.org/wiki/スピードワゴンのキャラメル_on_the_beach "wikilink")**（[スピードワゴン](../Page/スピードワゴン.md "wikilink") / 2002年10月10日 - 2007年3月28日 / 2006年4月5日に枠移動）
+  - **[スピードワゴンのキャラメル on the beach](../Page/スピードワゴンのキャラメル_on_the_beach.md "wikilink")**（[スピードワゴン](../Page/スピードワゴン.md "wikilink") / 2002年10月10日 - 2007年3月28日 / 2006年4月5日に枠移動）
   - **[エレ片のコント太郎](../Page/エレ片のコント太郎.md "wikilink")**（[エレキコミック](../Page/エレキコミック.md "wikilink")・[ラーメンズ](../Page/ラーメンズ.md "wikilink")[片桐](../Page/片桐仁.md "wikilink") / 2006年4月7日 - / 2007年4月4日に枠移動、2008年10月1日より[水曜JUNK ZEROへ移動](https://ja.wikipedia.org/wiki/JUNK_ZERO#水曜日 "wikilink")）
 
 ### 木曜日
@@ -77,7 +77,7 @@
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
-  - [琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")☆
+  - [琉球放送](../Page/琉球放送.md "wikilink")☆
 
 ☆印が付く局は『JUNK』もネット。
 

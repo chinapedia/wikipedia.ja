@@ -1,11 +1,11 @@
 > この記事は[GRAND COLOR STONE](https://ja.wikipedia.org/wiki/GRAND_COLOR_STONE)から翻訳されています。
 
 
-**GRAND COLOR STONE**（グランド・カラー・ストーン）は[大阪府](../Page/大阪府.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2004年[テイチクエンタテインメント](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")よりデビュー。
+**GRAND COLOR STONE**（グランド・カラー・ストーン）は[大阪府](../Page/大阪府.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2004年[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")よりデビュー。
 
 ## メンバー
 
-  - **ナカノ アツシ**（本名：中野 敦史、[1月11日](../Page/1月11日.md "wikilink")生まれ）[大阪府](../Page/大阪府.md "wikilink")[高槻市](https://ja.wikipedia.org/wiki/高槻市 "wikilink")出身。ボーカル担当。
+  - **ナカノ アツシ**（本名：中野 敦史、[1月11日](../Page/1月11日.md "wikilink")生まれ）[大阪府](../Page/大阪府.md "wikilink")[高槻市](../Page/高槻市.md "wikilink")出身。ボーカル担当。
   - **宇田 憲明**（うだ のりあき、[12月28日](../Page/12月28日.md "wikilink")生まれ）大阪府[東大阪市](../Page/東大阪市.md "wikilink")出身。ベース担当。
   - **文田 大作**（ふみた だいさく、[6月25日](../Page/6月25日.md "wikilink")生まれ）[鹿児島県](../Page/鹿児島県.md "wikilink")[奄美大島](../Page/奄美大島.md "wikilink")出身。ドラム担当。
   - **KOIKEMAN55**（コイケマンゴーゴー、本名：小池 敏〔こいけ さとし〕、[12月8日](../Page/12月8日.md "wikilink")生まれ）大阪府[大阪市](../Page/大阪市.md "wikilink")出身。キーボード担当。

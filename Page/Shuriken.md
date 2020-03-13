@@ -1,11 +1,11 @@
 > この記事は[Shuriken](https://ja.wikipedia.org/wiki/Shuriken)から翻訳されています。
 
 
-は、[ジャストシステム](../Page/ジャストシステム.md "wikilink")が開発・販売している[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")である。当初は同社の主力製品に同梱される付属ソフト（[バンドル](https://ja.wikipedia.org/wiki/バンドル "wikilink")ソフトウェア）であったが、現在は単体で販売されている他、同社の[ワープロソフト](../Page/ワープロソフト.md "wikilink")[一太郎](https://ja.wikipedia.org/wiki/一太郎 "wikilink")シリーズのプレミアム以上のエディションに収録されている。
+は、[ジャストシステム](../Page/ジャストシステム.md "wikilink")が開発・販売している[電子メールクライアント](../Page/電子メールクライアント.md "wikilink")である。当初は同社の主力製品に同梱される付属ソフト（[バンドル](https://ja.wikipedia.org/wiki/バンドル "wikilink")ソフトウェア）であったが、現在は単体で販売されている他、同社の[ワープロソフト](../Page/ワープロソフト.md "wikilink")[一太郎](../Page/一太郎.md "wikilink")シリーズのプレミアム以上のエディションに収録されている。
 
 2013年から法人向け仕様はShuriken Proシリーズとして独立している。
 
-オリジナルの[HTMLレンダリングエンジン](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")や、日本語[形態素解析](../Page/形態素解析.md "wikilink")技術を応用した[学習型迷惑メールフィルターなどの独自技術を搭載](https://ja.wikipedia.org/wiki/ベイジアンフィルタ "wikilink")。画面の配色等をカスタマイズ出来る点も特徴のひとつである。
+オリジナルの[HTMLレンダリングエンジン](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")や、日本語[形態素解析](../Page/形態素解析.md "wikilink")技術を応用した[学習型迷惑メールフィルターなどの独自技術を搭載](../Page/ベイジアンフィルタ.md "wikilink")。画面の配色等をカスタマイズ出来る点も特徴のひとつである。
 
 ## 歴史
 
@@ -21,7 +21,7 @@
 
 ### 旧「Pro」シリーズ
 
-2000年3月10日、Shuriken Pro発売。Just My Shopなどでのオンライン販売のみながら、単体のソフトウェアとして独立を果たした。当時の標準価格は5,800円（消費税別）。 [Palm](../Page/Palm.md "wikilink")デバイス等との連携や画面デザインのカスタマイズ機能、送受信時のアニメーション表示などを追加。宛先に[携帯電話](../Page/携帯電話.md "wikilink")、[PHS](../Page/PHS.md "wikilink")等で使われるドメインを指定した際、各キャリアによって異なる受信可能文字数をオーバーする場合に本文の再編集を行うか分割して送信するかを選択できる機能や、[PostPet](https://ja.wikipedia.org/wiki/PostPet "wikilink")のメールを検知してサーバに残すよう設定できるなど国産電子メールクライアントらしく日本国内のニーズにきめ細かく対応。[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")の「第13回190万読者が選ぶパソコン・ベスト・ソフト」で「日経モバイル エディターズ・チョイス賞」を受賞した。
+2000年3月10日、Shuriken Pro発売。Just My Shopなどでのオンライン販売のみながら、単体のソフトウェアとして独立を果たした。当時の標準価格は5,800円（消費税別）。 [Palm](../Page/Palm.md "wikilink")デバイス等との連携や画面デザインのカスタマイズ機能、送受信時のアニメーション表示などを追加。宛先に[携帯電話](../Page/携帯電話.md "wikilink")、[PHS](../Page/PHS.md "wikilink")等で使われるドメインを指定した際、各キャリアによって異なる受信可能文字数をオーバーする場合に本文の再編集を行うか分割して送信するかを選択できる機能や、[PostPet](../Page/PostPet.md "wikilink")のメールを検知してサーバに残すよう設定できるなど国産電子メールクライアントらしく日本国内のニーズにきめ細かく対応。[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")の「第13回190万読者が選ぶパソコン・ベスト・ソフト」で「日経モバイル エディターズ・チョイス賞」を受賞した。
 
 同年12月1日、Shuriken Pro/R.2発売。パッケージ版の店頭販売がスタート。Palmデバイスの対応機種増加や連携機能の強化、画面デザインのカスタマイズ用ツール「Shurikenデザイナー」の追加など。Shuriken Pro使用者にはPro/R.2相当へのアップデータが無償ダウンロードにより提供された。
 
@@ -33,7 +33,7 @@
 
 2005年3月11日、Shuriken Pro4発売。「ToDoバンク機能」、「POP3/IMAP4/SMTP/LDAP over [SSL対応](https://ja.wikipedia.org/wiki/Secure_Sockets_Layer "wikilink")」、「[迷惑メール対策機能](../Page/スパム_\(メール\).md "wikilink")（アドレス、見出しを入力してフィルタリングを行う）」「アップデートモジュール自動検索」などが追加。
 
-同年11月11日、Shuriken Pro4/R.2発売。迷惑メール対策機能に学習型迷惑メールフィルターが追加される。2006年の[ベクタープロレジ大賞でインターネット部門賞を受賞した](https://ja.wikipedia.org/wiki/ベクター_\(企業\) "wikilink")\[3\]。Shuriken Pro4使用者にはPro4/R.2相当へのアップデータが無償ダウンロードにより提供された。
+同年11月11日、Shuriken Pro4/R.2発売。迷惑メール対策機能に学習型迷惑メールフィルターが追加される。2006年の[ベクタープロレジ大賞でインターネット部門賞を受賞した](../Page/ベクター_\(企業\).md "wikilink")\[3\]。Shuriken Pro4使用者にはPro4/R.2相当へのアップデータが無償ダウンロードにより提供された。
 
 ### 「2007」以降
 
@@ -41,11 +41,11 @@
 
 2008年2月8日、Shuriken 2008 (8)発売。同日発売のオフィススイート「JUST Suite 2008」にも収録された。フォルダウォッチ機能を追加。学習型迷惑メールフィルターの二重化、一部の確認メッセージを非表示にするオプション選択肢の付加、セキュリティの更なる強化や2007でいったん縮小した画面カスタマイズ機能の再充実（登録ユーザ向けに新「Shurikenデザイナー」を無償ダウンロードで提供）などの使い勝手向上が図られた。
 
-2009年3月13日、Shuriken 2009 (9)発売。同年2月発売のオフィススイート「JUST Suite 2009」の使用者は無償ダウンロードにより2008からのバージョンアップが可能である。[Unicode](../Page/Unicode.md "wikilink")に対応しメール内での複数言語の混在表示が可能となるほか、迷惑メールフィルターやフォルダウォッチの機能強化、1メールボックスにつき2GBまでの容量制限の緩和、[Mozilla Thunderbirdからのメール移行への対応](../Page/Mozilla_Thunderbird.md "wikilink")（アカウント設定の移行は未対応）、メールの分割送信（RFC2046準拠）機能などが追加。[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")向けのソフトウェアパッケージ「JustSystems ミニPCパック」にも収録された。11月27日にはShurikenの学習型迷惑メールフィルター技術を応用した法人向けの[ウェブフィルタリングソフト](https://ja.wikipedia.org/wiki/コンテンツフィルタリング "wikilink")「Tri-De」が発売。
+2009年3月13日、Shuriken 2009 (9)発売。同年2月発売のオフィススイート「JUST Suite 2009」の使用者は無償ダウンロードにより2008からのバージョンアップが可能である。[Unicode](../Page/Unicode.md "wikilink")に対応しメール内での複数言語の混在表示が可能となるほか、迷惑メールフィルターやフォルダウォッチの機能強化、1メールボックスにつき2GBまでの容量制限の緩和、[Mozilla Thunderbirdからのメール移行への対応](../Page/Mozilla_Thunderbird.md "wikilink")（アカウント設定の移行は未対応）、メールの分割送信（RFC2046準拠）機能などが追加。[ネットブック](https://ja.wikipedia.org/wiki/ネットブック "wikilink")向けのソフトウェアパッケージ「JustSystems ミニPCパック」にも収録された。11月27日にはShurikenの学習型迷惑メールフィルター技術を応用した法人向けの[ウェブフィルタリングソフト](../Page/コンテンツフィルタリング.md "wikilink")「Tri-De」が発売。
 
-2010年2月5日、Shuriken 2010 (10)発売。同日発売のオフィススイート「JUST Suite 2010」にも収録。[Windows 2000が動作対象外となる](../Page/Microsoft_Windows_2000.md "wikilink")。主要各社の[Webメール](https://ja.wikipedia.org/wiki/Webメール "wikilink")に対応、メール画面への[付箋](../Page/付箋.md "wikilink")機能の追加、HTMLメールの表示に於いて従来の独自開発によるレンダリングエンジンと[Internet Explorerのエンジンとを切り替える事が可能になる他](../Page/Internet_Explorer.md "wikilink")、HTMLメールの作成・編集機能が強化された。
+2010年2月5日、Shuriken 2010 (10)発売。同日発売のオフィススイート「JUST Suite 2010」にも収録。[Windows 2000が動作対象外となる](../Page/Microsoft_Windows_2000.md "wikilink")。主要各社の[Webメール](../Page/Webメール.md "wikilink")に対応、メール画面への[付箋](../Page/付箋.md "wikilink")機能の追加、HTMLメールの表示に於いて従来の独自開発によるレンダリングエンジンと[Internet Explorerのエンジンとを切り替える事が可能になる他](../Page/Internet_Explorer.md "wikilink")、HTMLメールの作成・編集機能が強化された。
 
-2010年5月21日、Shuriken 2010から「付箋」「フォルダウォッチ」「ToDoバンク」機能を省略し、歴史イラストレーター諏訪原寛幸の作画による戦国武将8人の背景デザインや歴史アイドル[美甘子](https://ja.wikipedia.org/wiki/美甘子 "wikilink")・俳優[唐橋充](https://ja.wikipedia.org/wiki/唐橋充 "wikilink")のセリフ等による効果音を施したスピンオフ作品的な電子メールクライアント「歴史メール 戦国武将の密書」・「歴史メール 幕末志士の密書」が発売。
+2010年5月21日、Shuriken 2010から「付箋」「フォルダウォッチ」「ToDoバンク」機能を省略し、歴史イラストレーター諏訪原寛幸の作画による戦国武将8人の背景デザインや歴史アイドル[美甘子](https://ja.wikipedia.org/wiki/美甘子 "wikilink")・俳優[唐橋充](../Page/唐橋充.md "wikilink")のセリフ等による効果音を施したスピンオフ作品的な電子メールクライアント「歴史メール 戦国武将の密書」・「歴史メール 幕末志士の密書」が発売。
 
 2011年2月10日発売の「一太郎ポータブル with oreplug」には、USBメモリー上で動作する専用のエディション「Shuriken Portable」が搭載されていた。また同日発売の統合オフィスソフト「一太郎2011 創 プレミアム / スーパープレミアム」には、Shuriken 2010 \[音声読み上げ対応版\] が収録され、同梱のソフト「詠太」による音声の読み上げが可能となった。
 

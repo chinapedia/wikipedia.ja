@@ -9,7 +9,7 @@
       - イタリア軍事空軍（大戦後）
       - エジプト空軍（大戦後）
 
-| 初飛行年月日= | 生産数=262機 | 生産開始年月日=1943年 | 運用開始年月日=1943年6月 | 退役年月日=1947年 | 運用状況=退役 | ユニットコスト= }}  **マッキ MC.205**（Macchi M.C.205）は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")において使用された[イタリアの](../Page/イタリア王国.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。愛称はMC.205Nが**オリオーネ**（Orione、[オリオン座](../Page/オリオン座.md "wikilink")の意）、MC.205Vが**ヴェルトロ**（Veltro、[グレイハウンドの意](https://ja.wikipedia.org/wiki/グレイハウンド_\(犬種\) "wikilink")）。生産時期や生産数などから、活躍はできなかったものの、[P-51D マスタングに引けをとらない高性能であったとも云われている](https://ja.wikipedia.org/wiki/P-51_\(航空機\) "wikilink")。
+| 初飛行年月日= | 生産数=262機 | 生産開始年月日=1943年 | 運用開始年月日=1943年6月 | 退役年月日=1947年 | 運用状況=退役 | ユニットコスト= }}  **マッキ MC.205**（Macchi M.C.205）は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")において使用された[イタリアの](../Page/イタリア王国.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")。愛称はMC.205Nが**オリオーネ**（Orione、[オリオン座](../Page/オリオン座.md "wikilink")の意）、MC.205Vが**ヴェルトロ**（Veltro、[グレイハウンドの意](https://ja.wikipedia.org/wiki/グレイハウンド_\(犬種\) "wikilink")）。生産時期や生産数などから、活躍はできなかったものの、[P-51D マスタングに引けをとらない高性能であったとも云われている](../Page/P-51_\(航空機\).md "wikilink")。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
 計画は、機体にも大幅な改造を施した本命の205Nと、最小限の改造で済ませた暫定の205Vの2本立てで進行した。オリジナルのDB605を搭載した原型機は、共に1942年に初飛行したが、大幅な改良を施したわりには、205Nの性能は205Vとほとんど変わらず、むしろ速度では205Vより劣り、実用化の価値なしとして、205Nは早々に廃案となった。
 
-ヴェルトロの量産化に当たり、フォルゴーレの場合と同じくDBエンジンがドイツ本国向けの生産に追われている状況で入手困難であることは予想がついていた。故に、軍はDB601と同じくDB605に関してライセンス契約を結び、[フィアット](../Page/フィアット.md "wikilink")社に於いてR.A.1050 RC.58 ティフォーネ（Tifone、[台風](../Page/台風.md "wikilink")の意）の名で[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")の計画を同時進行させた。ただ、このエンジンの生産に手間取ったため、ヴェルトロの実戦投入はイタリア降伏の直前になってしまった。
+ヴェルトロの量産化に当たり、フォルゴーレの場合と同じくDBエンジンがドイツ本国向けの生産に追われている状況で入手困難であることは予想がついていた。故に、軍はDB601と同じくDB605に関してライセンス契約を結び、[フィアット](../Page/フィアット.md "wikilink")社に於いてR.A.1050 RC.58 ティフォーネ（Tifone、[台風](../Page/台風.md "wikilink")の意）の名で[ライセンス生産](../Page/ライセンス生産.md "wikilink")の計画を同時進行させた。ただ、このエンジンの生産に手間取ったため、ヴェルトロの実戦投入はイタリア降伏の直前になってしまった。
 
 ヴェルトロの武装はMC.205Vの初期生産型で12.7mm[機銃](../Page/機関銃.md "wikilink")×2（機首、プロペラ同調）、7.7mm機銃×2（主翼）というもので、これはフォルゴーレと同じであった。ただ、同じ武装のフォルゴーレが戦局の悪化に伴いイタリア本土に飛来してくるようになった連合軍の大型爆撃機に対し火力不足であるのを見て、後期生産型では機首の12.7mm機銃×2は同じだが、主翼の7.7mm機銃×2を[MG151](https://ja.wikipedia.org/wiki/MG151 "wikilink")/20（ドイツ製20mm機関砲）×2へと換え、より重武装になっている。
 
@@ -25,9 +25,9 @@
 
 MC.200、MC.202と続いたマリオ・カストルディ技師の設計による一連の戦闘機はMC.205ヴェルトロに至って完成した。そしてそれは第二次世界大戦においてイタリアが生み出した最優秀戦闘機でもあった。
 
-[Macchi_C.205_German.jpg](https://ja.wikipedia.org/wiki/File:Macchi_C.205_German.jpg "fig:Macchi_C.205_German.jpg") 一方、イタリア国内では[7月25日](../Page/7月25日.md "wikilink")に[ムッソリーニが](../Page/ベニート・ムッソリーニ.md "wikilink")[憲兵隊に拘束され失脚し](https://ja.wikipedia.org/wiki/カラビニエリ "wikilink")、後任の[バドリオ政権下で連合国側と休戦交渉を進めた結果](https://ja.wikipedia.org/wiki/ピエトロ・バドリオ "wikilink")、[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")に[アイゼンハワーがイタリア](../Page/ドワイト・D・アイゼンハワー.md "wikilink")[無条件降伏](https://ja.wikipedia.org/wiki/無条件降伏 "wikilink")を発表した。もっとも、これでイタリアの戦争が終わったわけではない。バドリオが連合国側に寝返る事をかねてから警戒していたドイツ軍はイタリア国内に軍を進め、ムッソリーニを救出しイタリア北部に[イタリア社会共和国](https://ja.wikipedia.org/wiki/イタリア社会共和国 "wikilink")（サロ政権）を立てた。ここに南部のバドリオ政権（連合側）と北部のサロ政権（枢軸側）という分裂状態が生じた。
+[Macchi_C.205_German.jpg](https://ja.wikipedia.org/wiki/File:Macchi_C.205_German.jpg "fig:Macchi_C.205_German.jpg") 一方、イタリア国内では[7月25日](../Page/7月25日.md "wikilink")に[ムッソリーニが](../Page/ベニート・ムッソリーニ.md "wikilink")[憲兵隊に拘束され失脚し](../Page/カラビニエリ.md "wikilink")、後任の[バドリオ政権下で連合国側と休戦交渉を進めた結果](../Page/ピエトロ・バドリオ.md "wikilink")、[9月8日](../Page/9月8日.md "wikilink")に[アイゼンハワーがイタリア](../Page/ドワイト・D・アイゼンハワー.md "wikilink")[無条件降伏](../Page/無条件降伏.md "wikilink")を発表した。もっとも、これでイタリアの戦争が終わったわけではない。バドリオが連合国側に寝返る事をかねてから警戒していたドイツ軍はイタリア国内に軍を進め、ムッソリーニを救出しイタリア北部に[イタリア社会共和国](../Page/イタリア社会共和国.md "wikilink")（サロ政権）を立てた。ここに南部のバドリオ政権（連合側）と北部のサロ政権（枢軸側）という分裂状態が生じた。
 
-終戦時国内に残っていたヴェルトロは66機であったが、うち6機が連合国側へ移動し、 で使用された。一方、29機がサロ政権下のファシスト空軍、及び[ドイツ空軍](https://ja.wikipedia.org/wiki/ドイツ空軍 "wikilink")で使用された。北部では降伏後も生産が続けられ、完成機はドイツ空軍に引き渡された。
+終戦時国内に残っていたヴェルトロは66機であったが、うち6機が連合国側へ移動し、 で使用された。一方、29機がサロ政権下のファシスト空軍、及び[ドイツ空軍](../Page/ドイツ空軍.md "wikilink")で使用された。北部では降伏後も生産が続けられ、完成機はドイツ空軍に引き渡された。
 
 大戦終結後もヴェルトロの運用は[1947年](../Page/1947年.md "wikilink")まで続けられた。
 
@@ -62,7 +62,7 @@ Video <http://www.youtube.com/watch?v=y_rP5Hg6Bp0>
 
   - [border](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy_\(1861-1946\).svg "wikilink") [イタリア](../Page/イタリア空軍.md "wikilink")
   - [border](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Egypt_1922.svg "wikilink") [エジプト](https://ja.wikipedia.org/wiki/エジプト空軍 "wikilink")
-  - [border](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany_1933.svg "wikilink") [ドイツ](https://ja.wikipedia.org/wiki/ドイツ空軍 "wikilink")
+  - [border](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany_1933.svg "wikilink") [ドイツ](../Page/ドイツ空軍.md "wikilink")
 
 ## 登場作品
 

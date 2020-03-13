@@ -90,7 +90,7 @@ RDで見出しは次のように記述する。
 
   - [RDoc](https://ja.wikipedia.org/wiki/RDoc "wikilink")
   - [コンピュータ言語](https://ja.wikipedia.org/wiki/コンピュータ言語 "wikilink")
-      - [データ記述言語](https://ja.wikipedia.org/wiki/データ記述言語 "wikilink")
+      - [データ記述言語](../Page/データ記述言語.md "wikilink")
           - [マークアップ言語](../Page/マークアップ言語.md "wikilink")
               - [軽量マークアップ言語](../Page/軽量マークアップ言語.md "wikilink")
 

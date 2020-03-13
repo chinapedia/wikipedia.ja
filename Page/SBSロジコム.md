@@ -9,7 +9,7 @@
       - 1月 [相模鉄道](https://ja.wikipedia.org/wiki/相模鉄道 "wikilink")株式会社の子会社として、**相鉄運輸株式会社**として[麹町区](../Page/麹町区.md "wikilink")[飯田町](https://ja.wikipedia.org/wiki/飯田町 "wikilink")に本社をおき事業開始
       - 4月 本社を[小石川区](../Page/小石川区.md "wikilink")小石川町1丁目1番地83に移転
   - 1941年（昭和16年）6月 [東京横浜電鉄株式会社（現・東京急行電鉄）の傘下に入る](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")
-  - 1944年（昭和19年）10月 企業整備統合要綱に基づき、[東京都](../Page/東京都.md "wikilink")小石川区・[本郷区](../Page/本郷区.md "wikilink")・[牛込区](https://ja.wikipedia.org/wiki/牛込区 "wikilink")・[四谷区](../Page/四谷区.md "wikilink")の統合主体に指定され、小石川運輸など14社を合併。
+  - 1944年（昭和19年）10月 企業整備統合要綱に基づき、[東京都](../Page/東京都.md "wikilink")小石川区・[本郷区](../Page/本郷区.md "wikilink")・[牛込区](../Page/牛込区.md "wikilink")・[四谷区](../Page/四谷区.md "wikilink")の統合主体に指定され、小石川運輸など14社を合併。
   - 1948年（昭和23年）12月 本社を[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")諏訪町23番地1に移転
   - 1964年（昭和39年）8月 本社を文京区後楽1丁目5番3号に移転
   - 1981年（昭和56年）12月 本社を[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")青葉台2丁目19番11号に移転
@@ -68,9 +68,9 @@
       - 東部センター支店 江東区新砂1-12-2
       - 南砂支店 江東区新砂3-4-11
       - [東京貨物ターミナル](https://ja.wikipedia.org/wiki/東京貨物ターミナル "wikilink")支店 [品川区](https://ja.wikipedia.org/wiki/品川区 "wikilink")[八潮](../Page/八潮_\(品川区\).md "wikilink")3-3-22 [JR貨物駅構内](../Page/東京貨物ターミナル駅.md "wikilink")
-      - 大崎シンクパーク営業所 品川区[大崎](https://ja.wikipedia.org/wiki/大崎_\(品川区\) "wikilink")2-1-1
+      - 大崎シンクパーク営業所 品川区[大崎](../Page/大崎_\(品川区\).md "wikilink")2-1-1
       - 勝島営業所 品川区勝島1-1-1
-      - 二子玉川ライズ営業所 [世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")玉川2-21-1
+      - 二子玉川ライズ営業所 [世田谷区](../Page/世田谷区.md "wikilink")玉川2-21-1
       - 新宿支店 [新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[新宿](../Page/新宿.md "wikilink")5-11-5 株式会社[伊勢丹](../Page/伊勢丹.md "wikilink")三光町センター内
       - 中野セントラルパーク営業所 [中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")中野4-10-2
       - 東村山支店 [東村山市](../Page/東村山市.md "wikilink")久米川町3-28-1
@@ -105,7 +105,7 @@
       - 君津支店 [君津市](https://ja.wikipedia.org/wiki/君津市 "wikilink")坂田39-5
       - 佐倉営業所 [佐倉市](../Page/佐倉市.md "wikilink")大作2-5-3
       - 成田空港支店 [成田市](../Page/成田市.md "wikilink")古込字込前154-4 第1貨物代理店ビル
-      - 成田横芝支店 [山武郡](../Page/山武郡.md "wikilink")[横芝光町](https://ja.wikipedia.org/wiki/横芝光町 "wikilink")長山台1-2
+      - 成田横芝支店 [山武郡](../Page/山武郡.md "wikilink")[横芝光町](../Page/横芝光町.md "wikilink")長山台1-2
       - 柏支店 [柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink")新十余二13-1
       - 野田木野崎支店・野田物流センター支店 [野田市](https://ja.wikipedia.org/wiki/野田市 "wikilink")木野崎2106-1
       - 野田吉春物流センター支店 野田市吉春722-2
@@ -142,8 +142,8 @@
 <!-- end list -->
 
   - 栃木県
-      - 宇都宮支店 [芳賀郡](../Page/芳賀郡.md "wikilink")[芳賀町](https://ja.wikipedia.org/wiki/芳賀町 "wikilink")芳賀台77-4
-      - 矢板支店 [矢板市](https://ja.wikipedia.org/wiki/矢板市 "wikilink")こぶし台5-1 株式会社アイシーカーゴ矢板流通センター内
+      - 宇都宮支店 [芳賀郡](../Page/芳賀郡.md "wikilink")[芳賀町](../Page/芳賀町.md "wikilink")芳賀台77-4
+      - 矢板支店 [矢板市](../Page/矢板市.md "wikilink")こぶし台5-1 株式会社アイシーカーゴ矢板流通センター内
 
 <!-- end list -->
 
@@ -192,12 +192,12 @@
 <!-- end list -->
 
   - 愛媛県
-      - 松山支店 [伊予市](https://ja.wikipedia.org/wiki/伊予市 "wikilink")八倉160番地
+      - 松山支店 [伊予市](../Page/伊予市.md "wikilink")八倉160番地
 
 <!-- end list -->
 
   - 福岡県
-      - 福岡営業所 [糟屋郡](../Page/糟屋郡.md "wikilink")[宇美町](https://ja.wikipedia.org/wiki/宇美町 "wikilink")井野稲木369-8
+      - 福岡営業所 [糟屋郡](../Page/糟屋郡.md "wikilink")[宇美町](../Page/宇美町.md "wikilink")井野稲木369-8
 
 ## 備考
 

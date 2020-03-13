@@ -1,7 +1,7 @@
 > この記事は[STV](https://ja.wikipedia.org/wiki/STV)から翻訳されています。
 
 
-[thumbnail](https://ja.wikipedia.org/wiki/ファイル:Ohkurayama_Schanze.jpg "wikilink") **[STVカップ国際スキージャンプ競技大会](https://ja.wikipedia.org/wiki/札幌テレビ放送 "wikilink")**（エスティーブイカップこくさいスキージャンプきょうぎたいかい）は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](https://ja.wikipedia.org/wiki/大倉山ジャンプ競技場 "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会である。
+[thumbnail](https://ja.wikipedia.org/wiki/ファイル:Ohkurayama_Schanze.jpg "wikilink") **[STVカップ国際スキージャンプ競技大会](../Page/札幌テレビ放送.md "wikilink")**（エスティーブイカップこくさいスキージャンプきょうぎたいかい）は[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[大倉山ジャンプ競技場](../Page/大倉山ジャンプ競技場.md "wikilink")で開催される[スキージャンプ](../Page/スキージャンプ.md "wikilink")の大会である。
 
 ## 概要
 
@@ -130,7 +130,7 @@ FIS（[国際スキー連盟](../Page/国際スキー連盟.md "wikilink")）公
 <td><p>1972 1 10</p></td>
 <td><p>大倉山シャンツェ</p></td>
 <td><p>藤沢隆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国土計画" title="wikilink">国土計画</a></p></td>
+<td><p><a href="../Page/国土計画.md" title="wikilink">国土計画</a></p></td>
 <td><p>211.1</p></td>
 <td><p>102.5</p></td>
 <td><p>86.5</p></td>
@@ -140,7 +140,7 @@ FIS（[国際スキー連盟](../Page/国際スキー連盟.md "wikilink")）公
 <td><p>1973 2 11</p></td>
 <td><p>大倉山シャンツェ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タウノ・ケユヒケ" title="wikilink">タウノ・ケユヒケ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フィンランド" title="wikilink">フィンランド</a></p></td>
+<td><p><a href="../Page/フィンランド.md" title="wikilink">フィンランド</a></p></td>
 <td><p>241.1</p></td>
 <td><p>108.0</p></td>
 <td><p>101.0</p></td>
@@ -220,7 +220,7 @@ FIS（[国際スキー連盟](../Page/国際スキー連盟.md "wikilink")）公
 <td><p>1980 1 13</p></td>
 <td><p>大倉山シャンツェ</p></td>
 <td><p><a href="../Page/秋元正博.md" title="wikilink">秋元正博</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/地崎工業" title="wikilink">地崎工業</a></p></td>
+<td><p><a href="../Page/地崎工業.md" title="wikilink">地崎工業</a></p></td>
 <td><p>255.1</p></td>
 <td><p>114.0</p></td>
 <td><p>105.0</p></td>
@@ -300,7 +300,7 @@ FIS（[国際スキー連盟](../Page/国際スキー連盟.md "wikilink")）公
 <td><p>1988 1 17</p></td>
 <td><p>大倉山シャンツェ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/清水貞雄" title="wikilink">清水貞雄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デサント" title="wikilink">デサント</a></p></td>
+<td><p><a href="../Page/デサント.md" title="wikilink">デサント</a></p></td>
 <td><p>195.1</p></td>
 <td><p>99.5</p></td>
 <td><p>112.0</p></td>
@@ -450,7 +450,7 @@ FIS（[国際スキー連盟](../Page/国際スキー連盟.md "wikilink")）公
 <td><p>2003 1 12</p></td>
 <td><p>大倉山シャンツェ</p></td>
 <td><p><a href="../Page/宮平秀治.md" title="wikilink">宮平秀治</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミズノ" title="wikilink">ミズノ</a></p></td>
+<td><p><a href="../Page/ミズノ.md" title="wikilink">ミズノ</a></p></td>
 <td><p>280.8</p></td>
 <td><p>139.5</p></td>
 <td><p>129.0</p></td>
@@ -640,7 +640,7 @@ FIS（[国際スキー連盟](../Page/国際スキー連盟.md "wikilink")）公
 | 6  | 2012 1 20 | 宮の森シャンツェ | [伊藤有希](https://ja.wikipedia.org/wiki/伊藤有希 "wikilink") | [下川商業高校](../Page/北海道下川商業高等学校.md "wikilink")                     | 246.0 | 98.5   | 90.0   |
 | 7  | 2013 1 11 | 宮の森シャンツェ | [山口瑞貴](https://ja.wikipedia.org/wiki/山口瑞貴 "wikilink") | [札幌大学](../Page/札幌大学.md "wikilink")                              | 222.0 | 86.5   | 95.0   |
 
-  - 2009年の第3回大会からは[札幌五輪記念後に開催](https://ja.wikipedia.org/wiki/札幌オリンピック記念国際スキージャンプ競技大会 "wikilink")。ノーマルヒルで実施。
+  - 2009年の第3回大会からは[札幌五輪記念後に開催](../Page/札幌オリンピック記念国際スキージャンプ競技大会.md "wikilink")。ノーマルヒルで実施。
 
 ### 少年の部
 
@@ -651,9 +651,9 @@ FIS（[国際スキー連盟](../Page/国際スキー連盟.md "wikilink")）公
 | 3  | 1964 2 28 | 大倉シャンツェ  | [沢田久喜](https://ja.wikipedia.org/wiki/沢田久喜 "wikilink") | [羽幌高校](../Page/北海道羽幌高等学校.md "wikilink")                           | 189.6 | 88.5   | 84.0   |
 | 4  | 1965 2 22 | 大倉シャンツェ  | [杉本政徳](https://ja.wikipedia.org/wiki/杉本政徳 "wikilink") | 早稲田大学                                                             | 218.8 | 91.5   | 89.0   |
 | 5  | 1966 3 7  | 大倉シャンツェ  | 多田藤憲                                                  | 札幌商業高校                                                            | 188.2 | 83.0   | 82.5   |
-| 6  | 1967 2 22 | 大倉シャンツェ  | 斉藤幸三                                                  | [小樽潮陵高校](https://ja.wikipedia.org/wiki/北海道小樽潮陵高等学校 "wikilink")    | 152.4 | 66.5   | 74.0   |
+| 6  | 1967 2 22 | 大倉シャンツェ  | 斉藤幸三                                                  | [小樽潮陵高校](../Page/北海道小樽潮陵高等学校.md "wikilink")                       | 152.4 | 66.5   | 74.0   |
 | 7  | 1968 3 7  | 大倉シャンツェ  | 斎藤公男                                                  | 小樽潮陵高校定                                                           | 174.9 | 77.5   | 78.5   |
-| 8  | 1969 3 4  | 大倉シャンツェ  | 斎藤幸三                                                  | [芝浦工業大学](https://ja.wikipedia.org/wiki/芝浦工業大学 "wikilink")         | 181.5 | 82.5   | 84.5   |
+| 8  | 1969 3 4  | 大倉シャンツェ  | 斎藤幸三                                                  | [芝浦工業大学](../Page/芝浦工業大学.md "wikilink")                            | 181.5 | 82.5   | 84.5   |
 | 9  | 1970 1 25 | 宮の森シャンツェ | 古川裕治                                                  | 札幌商業高校                                                            | 184.2 | 63.0   | 75.5   |
 | 10 | 1971 1 9  | 大倉山シャンツェ | 秋元俊一                                                  | [東奥義塾高校](../Page/東奥義塾高等学校.md "wikilink")                          | 167.0 | 87.0   | 81.0   |
 | 11 | 1972 1 10 | 大倉山シャンツェ | [相内富久](https://ja.wikipedia.org/wiki/相内富久 "wikilink") | [小樽北照高校](../Page/北照高等学校.md "wikilink")                            | 121.9 | 71.0   | 72.5   |
@@ -664,7 +664,7 @@ FIS（[国際スキー連盟](../Page/国際スキー連盟.md "wikilink")）公
 | 15 | 1976 1 11 | 大倉山シャンツェ | [川村有司](https://ja.wikipedia.org/wiki/川村有司 "wikilink") | [余市高校](https://ja.wikipedia.org/wiki/北海道余市高等学校 "wikilink")        | 195.6 | 93.5   | 100.5  |
 | 16 | 1977 1 16 | 大倉山シャンツェ | [川村有司](https://ja.wikipedia.org/wiki/川村有司 "wikilink") | 余市高校                                                              | 173.0 | 95.5   | 82.0   |
 | 17 | 1978 1 16 | 大倉山シャンツェ | G.アベラー                                                | オーストリア                                                            | 205.5 | 93.5   | 99.0   |
-| 18 | 1979 1 15 | 大倉山シャンツェ | [会沢仁康](../Page/会沢仁康.md "wikilink")                    | [駒大岩見沢高校](https://ja.wikipedia.org/wiki/駒澤大学附属岩見沢高等学校 "wikilink") | 182.1 | 93.0   | 88.5   |
+| 18 | 1979 1 15 | 大倉山シャンツェ | [会沢仁康](../Page/会沢仁康.md "wikilink")                    | [駒大岩見沢高校](../Page/駒澤大学附属岩見沢高等学校.md "wikilink")                    | 182.1 | 93.0   | 88.5   |
 
   - 第13回大会は、第2回[札幌オリンピック記念と併催された](https://ja.wikipedia.org/wiki/1972年札幌オリンピック "wikilink")。
   - ※ 国際ジャンプ記録会。FIS公認競技会として行われた。（北海道新聞1975年1月14日11面参照）

@@ -9,7 +9,7 @@ Gnumericは[GNOME](../Page/GNOME.md "wikilink")アプリケーションの中で
 
 付属のssconvertコマンドでは、Gnumericがサポートするフォーマットを[GUI](https://ja.wikipedia.org/wiki/GUI "wikilink")を起動することなしに[コマンドライン](https://ja.wikipedia.org/wiki/コマンドライン "wikilink")だけで相互変換することができる。
 
-1.12.17までは[Win32](https://ja.wikipedia.org/wiki/Win32 "wikilink")[アーキテクチャ](https://ja.wikipedia.org/wiki/アーキテクチャ "wikilink")のバイナリもリリースしていたが、1.12.18以降はリリースされていない。\[2\]
+1.12.17までは[Win32](https://ja.wikipedia.org/wiki/Win32 "wikilink")[アーキテクチャ](../Page/アーキテクチャ.md "wikilink")のバイナリもリリースしていたが、1.12.18以降はリリースされていない。\[2\]
 
 Gnumericは[GNU GPLの元にリリースされている](../Page/GNU_General_Public_License.md "wikilink")。
 
@@ -19,7 +19,7 @@ Gnumericのリリースは[2014年](../Page/2014年.md "wikilink")8月まで[Mic
 
 MSYS2 on WIndowsをインストールすることは、現在においてGTK+ソフトウェアを使うのによい手段である。GTK 2.24.10と3.6.4がオンラインで利用可能である\[4\]\[5\]。[64ビット](https://ja.wikipedia.org/wiki/64ビット "wikilink")環境のWindowsのためのGTKは、Tom Schoonjansによって準備されており、現在の例としては2.24.32と3.22.28がある\[6\]。これは新たな64ビットWindowsネイティブのバージョンのGnumericのスタートを可能としている。
 
-[Windows10](https://ja.wikipedia.org/wiki/Windows10 "wikilink")における[WSL](https://ja.wikipedia.org/wiki/WSL "wikilink")の利用は新たな方法である。[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")、[Debian](../Page/Debian.md "wikilink")や[SUSE](../Page/SUSE.md "wikilink")のような[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")を[Microsoft Storeからインストールし](https://ja.wikipedia.org/wiki/Microsoft_Store "wikilink")、これにXmingのようなXサーバを組み合わせると、Gnumericのような多くのアプリケーションを直接動作させることができる。`sudo apt-get install gnumeric`は、Ubuntuでこれを利用するためのコマンドである\[7\]。
+[Windows10](https://ja.wikipedia.org/wiki/Windows10 "wikilink")における[WSL](https://ja.wikipedia.org/wiki/WSL "wikilink")の利用は新たな方法である。[Ubuntu](../Page/Ubuntu.md "wikilink")、[Debian](../Page/Debian.md "wikilink")や[SUSE](../Page/SUSE.md "wikilink")のような[Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")を[Microsoft Storeからインストールし](https://ja.wikipedia.org/wiki/Microsoft_Store "wikilink")、これにXmingのようなXサーバを組み合わせると、Gnumericのような多くのアプリケーションを直接動作させることができる。`sudo apt-get install gnumeric`は、Ubuntuでこれを利用するためのコマンドである\[7\]。
 
 ## 脚注
 

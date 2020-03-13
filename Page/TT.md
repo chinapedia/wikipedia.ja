@@ -11,18 +11,18 @@
       - Tourist Trophy Race
       - [true tears](https://ja.wikipedia.org/wiki/true_tears "wikilink") - ゲーム、アニメ
       - [TOKYO TRIBE](../Page/TOKYO_TRIBE.md "wikilink") - 漫画
-      - [トゥーンタウン](https://ja.wikipedia.org/wiki/トゥーンタウン "wikilink") () - [東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")のテーマランド
+      - [トゥーンタウン](../Page/トゥーンタウン.md "wikilink") () - [東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")のテーマランド
   - [モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink") - Tourist Trophy Race の略称
       - [マン島TTレース](../Page/マン島TTレース.md "wikilink") - イギリス[マン島](https://ja.wikipedia.org/wiki/マン島 "wikilink")のオートバイレース
       - [ダッチTT](https://ja.wikipedia.org/wiki/ダッチTT "wikilink") - オランダのオートバイレース
   - 製品名
       - [アウディ・TT](../Page/アウディ・TT.md "wikilink") - [アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")社の[スポーツカー](../Page/スポーツカー.md "wikilink")
       - [Tiny Talk](../Page/WS001IN.md "wikilink") - [ウィルコム](../Page/ウィルコム.md "wikilink")の[AIR-EDGE](../Page/AIR-EDGE.md "wikilink")音声通信端末
-      - [トカレフTT](https://ja.wikipedia.org/wiki/トカレフTT-33 "wikilink") () - ソ連の拳銃
+      - [トカレフTT](../Page/トカレフTT-33.md "wikilink") () - ソ連の拳銃
       - [アタリTT](https://ja.wikipedia.org/wiki/アタリTT "wikilink") () - [アタリ社](https://ja.wikipedia.org/wiki/アタリ社 "wikilink")のパソコン
       - [テムコ TT](https://ja.wikipedia.org/wiki/テムコ_TT "wikilink") - アメリカ海軍の練習機
       - [Template Toolkit](https://ja.wikipedia.org/wiki/Template_Toolkit "wikilink") - テンプレートエンジン
-      - [日産車のエンジンにおいて](../Page/日産自動車.md "wikilink")、ツイン[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")仕様車を意味する符号。(例：[RB26DE**TT**](https://ja.wikipedia.org/wiki/日産・RB26DETT "wikilink")、[VG30DE**TT**](../Page/日産・VGエンジン.md "wikilink"))
+      - [日産車のエンジンにおいて](../Page/日産自動車.md "wikilink")、ツイン[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")仕様車を意味する符号。(例：[RB26DE**TT**](../Page/日産・RB26DETT.md "wikilink")、[VG30DE**TT**](../Page/日産・VGエンジン.md "wikilink"))
   - 音楽
       - 「[TT (曲)](https://ja.wikipedia.org/wiki/TT_\(曲\) "wikilink")」 - [TWICE (韓国)の曲](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")。ミニ・アルバム『[TWICEcoaster : LANE 1](https://ja.wikipedia.org/wiki/TWICEcoaster_:_LANE_1 "wikilink")』に収録。
 
@@ -66,7 +66,7 @@
 ## tt
 
   - [.tt](https://ja.wikipedia.org/wiki/.tt "wikilink") - トリニダード・トバゴの[国別ドメイン](https://ja.wikipedia.org/wiki/国別ドメイン "wikilink")
-  - [タタール語](https://ja.wikipedia.org/wiki/タタール語 "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
+  - [タタール語](../Page/タタール語.md "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
   - [等幅フォント](../Page/等幅フォント.md "wikilink") () を表す[HTMLタグ](https://ja.wikipedia.org/wiki/HTMLタグ "wikilink")
 
 ## 脚注

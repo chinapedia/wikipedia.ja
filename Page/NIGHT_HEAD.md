@@ -7,7 +7,7 @@
 
 ## 概要
 
-原案となっているのは、『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』で[飯田譲治](../Page/飯田譲治.md "wikilink")脚本&演出で放送された「[常識酒場](../Page/常識酒場.md "wikilink")」「トラブル・カフェ」である。このときの兄弟を演じているのは、[霧原直人に](https://ja.wikipedia.org/wiki/#霧原直人 "wikilink")[今井雅之](../Page/今井雅之.md "wikilink")、[霧原直也に](https://ja.wikipedia.org/wiki/#霧原直也 "wikilink")[東根作寿英](https://ja.wikipedia.org/wiki/東根作寿英 "wikilink")である。「常識酒場」のストーリーは、そのまま第1話に流用された。後に今井雅之は、テレビ番組の好評を受けて製作されたスペシャル番組「NIGHT HEAD THE OTHER SIDE」（後述）で主演の刑事を演じている。
+原案となっているのは、『[世にも奇妙な物語](https://ja.wikipedia.org/wiki/世にも奇妙な物語 "wikilink")』で[飯田譲治](../Page/飯田譲治.md "wikilink")脚本&演出で放送された「[常識酒場](../Page/常識酒場.md "wikilink")」「トラブル・カフェ」である。このときの兄弟を演じているのは、[霧原直人に](https://ja.wikipedia.org/wiki/#霧原直人 "wikilink")[今井雅之](../Page/今井雅之.md "wikilink")、[霧原直也に](https://ja.wikipedia.org/wiki/#霧原直也 "wikilink")[東根作寿英](../Page/東根作寿英.md "wikilink")である。「常識酒場」のストーリーは、そのまま第1話に流用された。後に今井雅之は、テレビ番組の好評を受けて製作されたスペシャル番組「NIGHT HEAD THE OTHER SIDE」（後述）で主演の刑事を演じている。
 
 山奥のある研究所に隔離されていた霧原兄弟がそこを飛び出すところから物語は始まる。ストーリーは霧原兄弟を中心に動いていき、二人に対して過酷な運命が次々と襲いかかってくることとなる。最初から最後まで見ると納得できる骨太な構成となっており、超能力用語も多用されている。また番組冒頭の映像では[ロンゴロンゴ](https://ja.wikipedia.org/wiki/ロンゴロンゴ "wikilink")が映し出されるなど、[超古代文明](../Page/超古代文明.md "wikilink")や[精神世界](../Page/精神世界.md "wikilink")などの要素などもストーリーに組み込まれている。
 
@@ -124,7 +124,7 @@
     施設設備は研究所という名前に反して、無機質なコンクリなどはなく、木造のシンプルかつ生活感ある別荘といった造りで、長期生活を送ってもなるべくストレスのないような外観を意識されている。運営資金は、支援するパトロンのおかげで潤沢であり、特別高価なものでなければ大抵の物は手に入る。（直人が何度TVを爆発させても、すぐに新しいものが届く程。）
     研究所周囲には、霧原兄弟のみに作用する、白いロープを円周とする結界が球体状に張られている為、2人は長年、何度も逃亡を試みるも外に出ることが出来なかった。岬老人の死後、結界が消失した事を契機に、2人は研究所を脱出する。実際には、岬老人の意思ひとつでどんな人間でも拒むことも出来る為、実は、結界は外敵や外のマイナスのエネルギーから兄弟を守るための場所だと知るのは、脱走からしばらくしてのことである。
   - 精神文明
-    2万年以上も前に超高度な文明を築きあげていた[超古代文明](../Page/超古代文明.md "wikilink")。精神のエネルギーにより繁栄していたが、精神の方向がマイナスに転じたことで滅亡した。今の物質文明の前に人類最初に発生した文明と位置づけられる。[イースター島](https://ja.wikipedia.org/wiki/イースター島 "wikilink")の遺跡に残る、未解明の[ロンゴ・ロンゴ](https://ja.wikipedia.org/wiki/ロンゴ・ロンゴ "wikilink")という碑文にその痕跡を僅かに残す。
+    2万年以上も前に超高度な文明を築きあげていた[超古代文明](../Page/超古代文明.md "wikilink")。精神のエネルギーにより繁栄していたが、精神の方向がマイナスに転じたことで滅亡した。今の物質文明の前に人類最初に発生した文明と位置づけられる。[イースター島](../Page/イースター島.md "wikilink")の遺跡に残る、未解明の[ロンゴ・ロンゴ](https://ja.wikipedia.org/wiki/ロンゴ・ロンゴ "wikilink")という碑文にその痕跡を僅かに残す。
   - 不確定要素
     現実を変える程、大きな能力を持つ霧原兄弟に対してARKが定義した言葉。絶大な予知能力を持つ奥原晶子が、彼らが社内に訪問するギリギリまで未来を読めなかったのはその為とされる。
   - 変革
@@ -140,7 +140,7 @@
   - 演出：[落合正幸](../Page/落合正幸.md "wikilink")、[土方政人](../Page/土方政人.md "wikilink")、[本広克行](../Page/本広克行.md "wikilink")、[土坂浩輝](https://ja.wikipedia.org/wiki/土坂浩輝 "wikilink")
   - 脚本：飯田譲治、[笠井健夫](https://ja.wikipedia.org/wiki/笠井健夫 "wikilink")、[高山直也](../Page/高山直也.md "wikilink")
   - 音楽：[蓜島邦明](https://ja.wikipedia.org/wiki/蓜島邦明 "wikilink")
-  - 技術協力：[バスク](https://ja.wikipedia.org/wiki/バスク_\(テレビ技術会社\) "wikilink")
+  - 技術協力：[バスク](../Page/バスク_\(テレビ技術会社\).md "wikilink")
   - 美術協力：[フジアール](../Page/フジアール.md "wikilink")
   - 助監督：土坂浩輝、[坂梨公紀](https://ja.wikipedia.org/wiki/坂梨公紀 "wikilink")、小山田雅和、[高橋伸之](../Page/高橋伸之.md "wikilink")
   - プロデュース：[岩田祐二](https://ja.wikipedia.org/wiki/岩田祐二 "wikilink")
@@ -162,8 +162,8 @@
   - 彩子：[篠原涼子](https://ja.wikipedia.org/wiki/篠原涼子 "wikilink")（第11話）
   - 神谷司：[小木茂光](../Page/小木茂光.md "wikilink")（第10話・第15話）
   - 真鍋貴昭：[池田成志](../Page/池田成志.md "wikilink")（第10話）
-  - 曽根崎道夫：[六平直政](https://ja.wikipedia.org/wiki/六平直政 "wikilink")（第18話・第20話）
-  - 反町：[松重豊](https://ja.wikipedia.org/wiki/松重豊 "wikilink")（第14話）
+  - 曽根崎道夫：[六平直政](../Page/六平直政.md "wikilink")（第18話・第20話）
+  - 反町：[松重豊](../Page/松重豊.md "wikilink")（第14話）
   - Y：高橋信雄（第6話・第11話・第18話）
   - 森川綾：[西牟田恵](../Page/西牟田恵.md "wikilink")（第18話）
   - 谷口良実：[大路恵美](https://ja.wikipedia.org/wiki/大路恵美 "wikilink")（第5話）
@@ -171,7 +171,7 @@
   - 広瀬麗子：[深浦加奈子](https://ja.wikipedia.org/wiki/深浦加奈子 "wikilink") （第1話・第2話）
   - 湯島佳代：[宮田早苗](https://ja.wikipedia.org/wiki/宮田早苗 "wikilink") （第5話）
   - 井坂俊二：[大鷹明良](https://ja.wikipedia.org/wiki/大鷹明良 "wikilink")（第16話・第17話）
-  - 立花美紀：[石橋桂](https://ja.wikipedia.org/wiki/石橋けい "wikilink")（第1話・第6話）
+  - 立花美紀：[石橋桂](../Page/石橋けい.md "wikilink")（第1話・第6話）
   - ミラクルミック：[綾田俊樹](../Page/綾田俊樹.md "wikilink")（第1話・第3話）
   - 関本美佐：[木村翠](../Page/木村翠.md "wikilink")（第17話）
   - 花輪正太郎：[今福将雄](../Page/今福将雄.md "wikilink")（第16話・第17話）
@@ -253,8 +253,8 @@
   - 大久保教諭：[森下哲夫](../Page/森下哲夫.md "wikilink")
   - 佐藤刑事：[有福正志](../Page/有福正志.md "wikilink")
   - 天元悠子：[姿晴香](../Page/姿晴香.md "wikilink")
-  - 三雲玄吾：[篠井英介](https://ja.wikipedia.org/wiki/篠井英介 "wikilink")
-  - 奥原晶子：[南美江](https://ja.wikipedia.org/wiki/南美江 "wikilink")
+  - 三雲玄吾：[篠井英介](../Page/篠井英介.md "wikilink")
+  - 奥原晶子：[南美江](../Page/南美江.md "wikilink")
 
 ## CD
 
@@ -334,7 +334,7 @@
       - NIGHT HEAD 4（著者：飯田譲治/発行年月：1994.9/ISBN 4-04-872815-6）
       - NIGHT HEAD THE TRIAL（著者：飯田譲治/発行年月：1994.11/ISBN 4-04-872840-7）（挿絵:[上條淳士](../Page/上條淳士.md "wikilink")）
       - NIGHT HEAD DEEP FOREST（著者：飯田譲治/発行年月：1995.12/ISBN 4-04-872931-4）オリジナル小説（挿絵:上條淳士）
-  - [角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")
+  - [角川文庫](../Page/角川文庫.md "wikilink")
       - NIGHT HEAD 1（著者：飯田譲治/発行年月：1996.12/ISBN 4-04-340901-X）
       - NIGHT HEAD 2（著者：飯田譲治/発行年月：1996.12/ISBN 4-04-340902-8）
       - NIGHT HEAD 3（著者：飯田譲治/発行年月：1997.2/ISBN 4-04-340903-6）
@@ -347,7 +347,7 @@
       - NIGHT HEAD／未来（著者：飯田譲治/発行年月日：2000.9.10/ISBN 4-04-349306-1）オリジナル小説含む
   - [講談社](../Page/講談社.md "wikilink")（単行本）
       - 誘発者（著者：飯田譲治/発行年月：2007.4.20/ISBN 4-06-213991-X）「THE TRIAL」の4年後となる続編
-  - [講談社文庫](https://ja.wikipedia.org/wiki/講談社文庫 "wikilink")
+  - [講談社文庫](../Page/講談社文庫.md "wikilink")
       - NIGHT HEAD 1（著者：飯田譲治/発行年月日：2006.6.15/ISBN 4-06-275415-0）
       - NIGHT HEAD 2（著者：飯田譲治/発行年月日：2006.6.15/ISBN 4-06-275416-9）
       - NIGHT HEAD 3（著者：飯田譲治/発行年月日：2006.7.14/ISBN 4-06-275443-6）

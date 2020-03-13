@@ -30,7 +30,7 @@
     BD7副団長。団長の小林が不在の回（2回ほどあった）は彼が全員の指揮をとる。[アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")で鍛えた体が自慢で、タックルとショルダーアタックの名人。[ヘルメット](../Page/ヘルメット.md "wikilink")を脱いでいてもアメフトジャージとプロテクターはめったに脱がない。体育系かとおもいきや、推理などでも活躍し科学技術にも関心がある。
 
   - 桂正一（ゴムカン）：[すのうち滋之](https://ja.wikipedia.org/wiki/簾内滋之 "wikilink")
-    BD7団員。[スリングショット](https://ja.wikipedia.org/wiki/スリングショット "wikilink")射撃の名手。狙った的は外さない。「ゴムカン」はパチンコの古名。実家は魚屋。
+    BD7団員。[スリングショット](../Page/スリングショット.md "wikilink")射撃の名手。狙った的は外さない。「ゴムカン」はパチンコの古名。実家は魚屋。
 
   - 羽柴荘二（オウム）：[内海敏彦](../Page/内海敏彦.md "wikilink")
     BD7団員。どんな人や動物の声でも即座に出せる[声帯模写の名人](../Page/物真似.md "wikilink")。技を使う時は鼻を摘む仕草を見せる。
@@ -72,9 +72,9 @@
   - 倉本武吉：[坂本由英](https://ja.wikipedia.org/wiki/坂本由英 "wikilink")（第7・8話）
   - 幽霊部隊隊長：[加藤新二](https://ja.wikipedia.org/wiki/加藤新二 "wikilink")（第7・8話）
   - 看護婦：[城山いづみ](https://ja.wikipedia.org/wiki/城山いづみ "wikilink")（第8話）
-  - ゴムカンの父：[日笠潤一](https://ja.wikipedia.org/wiki/日笠潤一 "wikilink")（第8話）
+  - ゴムカンの父：[日笠潤一](../Page/日笠潤一.md "wikilink")（第8話）
   - ルミ：[土田里美](https://ja.wikipedia.org/wiki/土田里美 "wikilink")（第9・10話）
-  - ケン：[尾美利徳](https://ja.wikipedia.org/wiki/尾美としのり "wikilink")（第9・10話）
+  - ケン：[尾美利徳](../Page/尾美としのり.md "wikilink")（第9・10話）
   - 杉田教授：[石崎二郎](https://ja.wikipedia.org/wiki/石崎二郎 "wikilink")（第9話）
   - 坂田愛：[三本木美樹](https://ja.wikipedia.org/wiki/三本木美樹 "wikilink")（第10話）
   - 愛の母：[宗方奈美](https://ja.wikipedia.org/wiki/宗方奈美 "wikilink")（第10話）
@@ -124,8 +124,8 @@
   - 題字：[戸川昌子](../Page/戸川昌子.md "wikilink")
   - プロデューサー：黒沢哲也(グレート)、内間稔(読売広告社)、鈴木清
   - プロデューサー補：安田九二四四
-  - 監督：近藤一美、戸田康貴、[松林宗恵](../Page/松林宗恵.md "wikilink")、[東条昭平](https://ja.wikipedia.org/wiki/東條昭平 "wikilink")、前川洋之、鍛冶昇、[鈴木俊継](https://ja.wikipedia.org/wiki/鈴木俊継 "wikilink")
-  - 脚本：[長坂秀佳](https://ja.wikipedia.org/wiki/長坂秀佳 "wikilink")、[上原正三](../Page/上原正三.md "wikilink")
+  - 監督：近藤一美、戸田康貴、[松林宗恵](../Page/松林宗恵.md "wikilink")、[東条昭平](../Page/東條昭平.md "wikilink")、前川洋之、鍛冶昇、[鈴木俊継](https://ja.wikipedia.org/wiki/鈴木俊継 "wikilink")
+  - 脚本：[長坂秀佳](../Page/長坂秀佳.md "wikilink")、[上原正三](../Page/上原正三.md "wikilink")
   - 音楽：[菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影：[大岡新一](../Page/大岡新一.md "wikilink")
   - 録音：[整音スタジオ](https://ja.wikipedia.org/wiki/整音スタジオ "wikilink")
@@ -138,7 +138,7 @@
 
 [菊池俊輔](../Page/菊池俊輔.md "wikilink")が主題歌・挿入歌およびBGMの作・編曲を1人で手掛けた。
 
-作詞は脚本の[上原正三](../Page/上原正三.md "wikilink")と[長坂秀佳](https://ja.wikipedia.org/wiki/長坂秀佳 "wikilink")が担当した。
+作詞は脚本の[上原正三](../Page/上原正三.md "wikilink")と[長坂秀佳](../Page/長坂秀佳.md "wikilink")が担当した。
 
 [水木一郎](../Page/水木一郎.md "wikilink")が全ての主題歌・挿入歌を歌った。4曲のうち3曲にはBD7も歌手としてクレジットされている。
 
@@ -157,7 +157,7 @@
 <!-- end list -->
 
   -
-    作詞：上原正三 / 作曲・編曲：菊池俊輔 / 歌：水木一郎、[コロムビアゆりかご会](https://ja.wikipedia.org/wiki/音羽ゆりかご会 "wikilink")、BD7
+    作詞：上原正三 / 作曲・編曲：菊池俊輔 / 歌：水木一郎、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")、BD7
 
 <!-- end list -->
 

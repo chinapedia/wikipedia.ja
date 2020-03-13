@@ -1,7 +1,7 @@
 > この記事は[IN-HI](https://ja.wikipedia.org/wiki/IN-HI)から翻訳されています。
 
 
-**IN-HI**（インハイ）は、[メロディック・ハードコア](../Page/メロディック・ハードコア.md "wikilink")と[沖縄民謡](https://ja.wikipedia.org/wiki/沖縄民謡 "wikilink")の融合を特徴とする、[沖縄県](../Page/沖縄県.md "wikilink")を中心に活動を行うミクスチャー・ロック（[沖縄コア](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")）[バンド](../Page/バンド_\(音楽\).md "wikilink")。1997年結成。2000年4月自身のレーベル「High Sigh Records」を設立。 2007年1月活動休止。 2008年12月活動再開。
+**IN-HI**（インハイ）は、[メロディック・ハードコア](../Page/メロディック・ハードコア.md "wikilink")と[沖縄民謡](https://ja.wikipedia.org/wiki/沖縄民謡 "wikilink")の融合を特徴とする、[沖縄県](../Page/沖縄県.md "wikilink")を中心に活動を行うミクスチャー・ロック（[沖縄コア](../Page/ミクスチャー・ロック.md "wikilink")）[バンド](../Page/バンド_\(音楽\).md "wikilink")。1997年結成。2000年4月自身のレーベル「High Sigh Records」を設立。 2007年1月活動休止。 2008年12月活動再開。
 
 ## 概要
 
@@ -33,7 +33,7 @@ IN-HIの活動休止後、ボーカルのShimo-Zは「NUM42」で活動し、そ
 
 現在ドラムのZukejianは沖縄在住でありサポートメンバーがドラムを担当することもある。
 
-  - 上原彰兼/元[ロードオブメジャー](https://ja.wikipedia.org/wiki/ロードオブメジャー "wikilink")
+  - 上原彰兼/元[ロードオブメジャー](../Page/ロードオブメジャー.md "wikilink")
   - Atsushi Armstrong Jr/JUNIOR
   - TO-BU/[ロリータ18号](../Page/ロリータ18号.md "wikilink")
 
@@ -766,7 +766,7 @@ IN-HIの活動休止後、ボーカルのShimo-Zは「NUM42」で活動し、そ
 <ol>
 <li>デリケートにキスして / <a href="../Page/氣志團.md" title="wikilink">氣志團</a></li>
 <li>SO EXCITED！ / <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></li>
-<li>WILL / <a href="https://ja.wikipedia.org/wiki/SNAIL_RAMP" title="wikilink">SNAIL RAMP</a></li>
+<li>WILL / <a href="../Page/SNAIL_RAMP.md" title="wikilink">SNAIL RAMP</a></li>
 <li>イナズマ / <a href="https://ja.wikipedia.org/wiki/CUNE" title="wikilink">CUNE</a></li>
 <li>あしたのうた / <a href="../Page/DOMINO88.md" title="wikilink">DOMINO88</a></li>
 <li><strong>IN-HIのテーマ / IN-HI</strong></li>
@@ -776,7 +776,7 @@ IN-HIの活動休止後、ボーカルのShimo-Zは「NUM42」で活動し、そ
 <li>XL MAN OSAKA / <a href="../Page/GELUGUGU.md" title="wikilink">THE GELUGUGU</a></li>
 <li>はんぶんこ / <a href="../Page/Bivattchee.md" title="wikilink">Bivattchee</a></li>
 <li>STIRRING UP / <a href="https://ja.wikipedia.org/wiki/DALLAX" title="wikilink">DALLAX</a></li>
-<li>少年激情 / <a href="https://ja.wikipedia.org/wiki/STANCE_PUNKS" title="wikilink">STANCE PUNKS</a></li>
+<li>少年激情 / <a href="../Page/STANCE_PUNKS.md" title="wikilink">STANCE PUNKS</a></li>
 </ol>
 <p># one night summer love / [[SQUEEZE</p></td>
 <td><p>|SQUEEZE</p></td>

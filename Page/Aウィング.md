@@ -1,7 +1,7 @@
 > この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
 
 
-[サムネイルで展示されているAウィング](https://ja.wikipedia.org/wiki/ファイル:A-wing_interceptor_Star_Wars_Galaxy's_Edge_Disneyland_Resort_in_Anaheim,_California_\(48512509337\).jpg "wikilink")\]\] **Aウィング**はアメリカ映画『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の戦闘機。[反乱同盟軍により運用される](https://ja.wikipedia.org/wiki/スター・ウォーズ登場組織一覧 "wikilink")。
+[サムネイルで展示されているAウィング](https://ja.wikipedia.org/wiki/ファイル:A-wing_interceptor_Star_Wars_Galaxy's_Edge_Disneyland_Resort_in_Anaheim,_California_\(48512509337\).jpg "wikilink")\]\] **Aウィング**はアメリカ映画『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の戦闘機。[反乱同盟軍により運用される](../Page/スター・ウォーズ登場組織一覧.md "wikilink")。
 
 ## 諸元
 

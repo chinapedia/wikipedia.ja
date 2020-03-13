@@ -1,7 +1,7 @@
 > この記事は[BEGIN \(\)](https://ja.wikipedia.org/wiki/BEGIN_\(\))から翻訳されています。
 
 
-**BEGIN**（ビギン）は、[沖縄県](../Page/沖縄県.md "wikilink")[石垣市](../Page/石垣市.md "wikilink")出身の3人からなる、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアコースティック[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[Imperial Records](../Page/インペリアルレコード_\(日本\).md "wikilink")。『[三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")』出身のバンドである。「[涙そうそう](../Page/涙そうそう.md "wikilink")」や「[島人ぬ宝](../Page/島人ぬ宝.md "wikilink")」などヒット曲を世に送り出し、[紅白歌合戦にも出場した](../Page/NHK紅白歌合戦.md "wikilink")。
+**BEGIN**（ビギン）は、[沖縄県](../Page/沖縄県.md "wikilink")[石垣市](../Page/石垣市.md "wikilink")出身の3人からなる、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアコースティック[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。[レコード会社](../Page/レコード会社.md "wikilink")は[Imperial Records](../Page/インペリアルレコード_\(日本\).md "wikilink")。『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』出身のバンドである。「[涙そうそう](../Page/涙そうそう.md "wikilink")」や「[島人ぬ宝](../Page/島人ぬ宝.md "wikilink")」などヒット曲を世に送り出し、[紅白歌合戦にも出場した](../Page/NHK紅白歌合戦.md "wikilink")。
 
 ## メンバー
 
@@ -15,7 +15,7 @@
 
 ### イカ天出場
 
-[1989年](../Page/1989年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")、[TBS系オーディション番組](../Page/TBSテレビ.md "wikilink")『[平成名物TV](../Page/平成名物TV.md "wikilink") [三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")』（イカ天）にエントリーナンバー6番で出場。登場時トークでは[ウチナーグチ](https://ja.wikipedia.org/wiki/ウチナーグチ "wikilink")の発音にツッコミを入れられる、上地が「[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")と一字違いだ」と名前をネタにされるなど地方からの一参加者の扱いであったが、「[恋しくて](../Page/恋しくて_\(BEGINの曲\).md "wikilink")」を演奏した後評価は一転、主として歌詞の面で審査員全員の絶賛を受ける。グーフィー森は、手放しで「好き」と言い切り、[中島啓江](../Page/中島啓江.md "wikilink")は「詩が少なくても表している」[伊藤銀次](../Page/伊藤銀次.md "wikilink")は「気持ちよくてまだこのあたり（首）痺れてる」と一言の意見もつけずに絶賛した。[三宅裕司](../Page/三宅裕司.md "wikilink")には「こういうバンドがチャレンジャーになったら比べるのが大変ですね、イカ天キングと」と評された。この週は2代目グランドイカ天キングに挑戦した[NORMA JEANのファイナルステージであったが](../Page/NORMA_JEAN_\(日本\).md "wikilink")、結果的にNORMA JEANを倒して2代目イカ天キングとなる。
+[1989年](../Page/1989年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")、[TBS系オーディション番組](../Page/TBSテレビ.md "wikilink")『[平成名物TV](../Page/平成名物TV.md "wikilink") [三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』（イカ天）にエントリーナンバー6番で出場。登場時トークでは[ウチナーグチ](https://ja.wikipedia.org/wiki/ウチナーグチ "wikilink")の発音にツッコミを入れられる、上地が「[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")と一字違いだ」と名前をネタにされるなど地方からの一参加者の扱いであったが、「[恋しくて](../Page/恋しくて_\(BEGINの曲\).md "wikilink")」を演奏した後評価は一転、主として歌詞の面で審査員全員の絶賛を受ける。グーフィー森は、手放しで「好き」と言い切り、[中島啓江](../Page/中島啓江.md "wikilink")は「詩が少なくても表している」[伊藤銀次](../Page/伊藤銀次.md "wikilink")は「気持ちよくてまだこのあたり（首）痺れてる」と一言の意見もつけずに絶賛した。[三宅裕司](../Page/三宅裕司.md "wikilink")には「こういうバンドがチャレンジャーになったら比べるのが大変ですね、イカ天キングと」と評された。この週は2代目グランドイカ天キングに挑戦した[NORMA JEANのファイナルステージであったが](../Page/NORMA_JEAN_\(日本\).md "wikilink")、結果的にNORMA JEANを倒して2代目イカ天キングとなる。
 
 グランドイカ天キングを阻止されたNORMA JEANが番組終了後にメンバー全員で泣いていたことを、BEGINは、今でも申し訳なく思っているらしく、2007年の『イカ天2007復活祭』においても心情を語っている。なお、イカ天出場が決まった日に比嘉栄昇の祖母が亡くなっている。葬式のため沖縄に戻ったとき、もう東京に戻るなと言われていたが、イカ天出場が決まっていたため、番組出場のためだけに勝つ気もなく東京に出てきたところ、本人たちも予期せぬ大人気となった。
 
@@ -33,13 +33,13 @@
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")にプロデビュー。
 
-デビュー曲の「恋しくて」は、[日産自動車](../Page/日産自動車.md "wikilink")の[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")にも採用された。この曲で[オリコン](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")4位を記録する。[1996年](../Page/1996年のコマーシャル.md "wikilink")、[アステル](../Page/アステル.md "wikilink")東京の[PHS](../Page/PHS.md "wikilink")・[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")に「声のおまもりください」が採用されスマッシュヒット。
+デビュー曲の「恋しくて」は、[日産自動車](../Page/日産自動車.md "wikilink")の[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")にも採用された。この曲で[オリコン](../Page/オリコンチャート.md "wikilink")4位を記録する。[1996年](../Page/1996年のコマーシャル.md "wikilink")、[アステル](../Page/アステル.md "wikilink")東京の[PHS](../Page/PHS.md "wikilink")・[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")に「声のおまもりください」が採用されスマッシュヒット。
 
 2001年より沖縄[慰霊の日](../Page/慰霊の日.md "wikilink")の翌日を「うたの日」として『うたの日コンサート』を始める（2007年より『うたの日カーニバル』と名称を改め、この年より入場無料になった。2009年のうたの日カーニバル2009に明石家さんまがゲストで参加した結果、５万人程の観客が訪れてしまいパニックに、翌年から有料に戻す）\[1\]。2011年、当初は6月25日の予定だったが台風のため中止され、翌日急遽、代わりのライブ「石垣島うたの日「はっさもー、メアリーよ〜！」」を開いた。その翌年、６月30日にBEGINの出身地でもある石垣島で初めて開催された\[2\]。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、デビュー15周年を記念し、初めての[日本武道館](../Page/日本武道館.md "wikilink")および[大阪城ホール](../Page/大阪城ホール.md "wikilink")にて記念コンサートを開催。大阪城ホールでのコンサートはトラブルにより延期となるが、代わりに大阪城ホールコンサートの予定日に[万博記念公園](../Page/万博記念公園.md "wikilink")にて1500円という破格で親子連れOKの野外コンサートを開催した\[3\]。
+[2005年](../Page/2005年.md "wikilink")、デビュー15周年を記念し、初めての[日本武道館](../Page/日本武道館.md "wikilink")および[大阪城ホール](../Page/大阪城ホール.md "wikilink")にて記念コンサートを開催。大阪城ホールでのコンサートはトラブルにより延期となるが、代わりに大阪城ホールコンサートの予定日に[万博記念公園](../Page/万博記念公園.md "wikilink")にて1500円という破格で親子連れOKの野外コンサートを開催した\[3\]。
 
-[2006年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")・[8月27日](../Page/8月27日.md "wikilink")、事務所の先輩である[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の呼びかけにより、『[THE 夢人島 Fes.2006](../Page/THE_夢人島_Fes..md "wikilink")』に参加。[2007年](../Page/2007年.md "wikilink")4月から[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")で放送されている『[おきなわのホームソング](../Page/おきなわのホームソング.md "wikilink")』を中心となって制作。
+[2006年](../Page/2006年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")・[8月27日](../Page/8月27日.md "wikilink")、事務所の先輩である[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の呼びかけにより、『[THE 夢人島 Fes.2006](../Page/THE_夢人島_Fes..md "wikilink")』に参加。[2007年](../Page/2007年.md "wikilink")4月から[琉球放送](../Page/琉球放送.md "wikilink")で放送されている『[おきなわのホームソング](../Page/おきなわのホームソング.md "wikilink")』を中心となって制作。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")、デビュー20周年を迎え、彼らにとって「第二の故郷」である大阪を選び、[大阪城ホール](../Page/大阪城ホール.md "wikilink")で「BEGIN20周年記念歌えるだけで丸もうけ大阪城ホールコンサート」を開催。
 
@@ -57,7 +57,7 @@
 
   - [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")と「年齢」「所属事務所」「デビュー年月日」「東京に出てきた年齢」が全く同じである。このため、お互いの親交も深く福山は自身のラジオ番組にBEGINがゲスト出演した際に「俺は4人目のBEGINだ」と言ったり、福山が沖縄に行った際にはふらりと比嘉の実家を訪ねたりしている。
   - [夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")とは、同郷で古くからの知己。夏川の姉とBEGINメンバーが同級生という間柄でもある。後に夏川が[森山良子](../Page/森山良子.md "wikilink")作詞・BEGIN作曲の「涙そうそう」をヒットさせる。森山・BEGIN・夏川の3組でのコンサート・歌番組の出演も多い。
-  - 『[ロンドンブーツ1号2号のオールナイトニッポン](https://ja.wikipedia.org/wiki/ロンドンブーツ1号2号のオールナイトニッポン "wikilink")』のコーナー「イメージ3・2・1」で比嘉は[YOU THE ROCK★と人気を二分するほど](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")1位にされることが多かった有名人だった（ただし大半の表記が名前ではなく「BEGINのボーカル」だった）。なお、BEGINが『ロンドンブーツ1号2号のオールナイトニッポン』にゲスト出演したこともある。
+  - 『[ロンドンブーツ1号2号のオールナイトニッポン](../Page/ロンドンブーツ1号2号のオールナイトニッポン.md "wikilink")』のコーナー「イメージ3・2・1」で比嘉は[YOU THE ROCK★と人気を二分するほど](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink")1位にされることが多かった有名人だった（ただし大半の表記が名前ではなく「BEGINのボーカル」だった）。なお、BEGINが『ロンドンブーツ1号2号のオールナイトニッポン』にゲスト出演したこともある。
   - [津波信一](../Page/津波信一.md "wikilink")と家が非常に近いので、よく一緒に飲んでいる\[5\]。
 
 ## その他エピソード
@@ -429,7 +429,7 @@
 
 ### その他
 
-1.  1989年11月 Album 『[Beginning](https://ja.wikipedia.org/wiki/Beginning_\(BEGINのアルバム\) "wikilink")』 （[イカ天レーベルCD](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")）
+1.  1989年11月 Album 『[Beginning](https://ja.wikipedia.org/wiki/Beginning_\(BEGINのアルバム\) "wikilink")』 （[イカ天レーベルCD](../Page/三宅裕司のいかすバンド天国.md "wikilink")）
 2.  1994年12月1日 Single 「[Paper Moon 〜再会のテーマ〜](https://ja.wikipedia.org/wiki/Paper_Moon_〜再会のテーマ〜 "wikilink")」 （[真田広之](../Page/真田広之.md "wikilink")とのセッションバンド）
 3.  1997年1月21日 Single 「[WISH ―鳥たちよ！](https://ja.wikipedia.org/wiki/WISH_―鳥たちよ！ "wikilink")」 （[比嘉栄昇](https://ja.wikipedia.org/wiki/比嘉栄昇 "wikilink")初のソロ・シングル）
 4.  2004年1月1日 Album 『[テイチクアワー 一五一会](https://ja.wikipedia.org/wiki/テイチクアワー_一五一会 "wikilink")』 （[テイチク](https://ja.wikipedia.org/wiki/テイチク "wikilink")創立70周年記念企画第一弾アルバム）
@@ -449,7 +449,7 @@
 1.  1998年05月21日 『[祭囃子〜ゲームトリビュート](https://ja.wikipedia.org/wiki/祭囃子〜ゲームトリビュート "wikilink")』（[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")20周年記念[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")／島袋のみ参加）
 2.  2002年03月06日 『[和音〜Songs for Children〜](../Page/和音〜Songs_for_Children〜.md "wikilink")』（[DEEN](../Page/DEEN.md "wikilink")初のカバーアルバム）
 3.  2008年10月22日 『[さだまさしトリビュート さだのうた](https://ja.wikipedia.org/wiki/さだまさしトリビュート_さだのうた "wikilink")』（[さだまさし](../Page/さだまさし.md "wikilink")デビュー35周年記念トリビュート・アルバム）
-4.  2009年07月21日 『[BOOMANIA～THE BOOM SPECIAL BEST COVERS～](https://ja.wikipedia.org/wiki/BOOMANIA～THE_BOOM_SPECIAL_BEST_COVERS～ "wikilink")』（[THE BOOMデビュー](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")20周年記念トリビュート・アルバム）
+4.  2009年07月21日 『[BOOMANIA～THE BOOM SPECIAL BEST COVERS～](https://ja.wikipedia.org/wiki/BOOMANIA～THE_BOOM_SPECIAL_BEST_COVERS～ "wikilink")』（[THE BOOMデビュー](../Page/THE_BOOM.md "wikilink")20周年記念トリビュート・アルバム）
 5.  2011年12月14日 『[Happy Holidays\! ～CITY POPS COVERS～](https://ja.wikipedia.org/wiki/Happy_Holidays!_～CITY_POPS_COVERS～ "wikilink")』（シティ・ポップスのカバーアルバム）
 6.  2012年05月02日 『KING OF SONGWRITER～SONGS OF COVERS～』（[忌野清志郎](../Page/忌野清志郎.md "wikilink")のカバーアルバム）
 
@@ -462,7 +462,7 @@
 3.  2005年7月6日 『[BEGIN 15周年ドキュメント音楽旅団 〜そしてライブが始まる〜](https://ja.wikipedia.org/wiki/BEGIN_15周年ドキュメント音楽旅団_〜そしてライブが始まる〜 "wikilink")』
 4.  2005年7月6日 『[BEGIN 15周年記念DVD BOX](https://ja.wikipedia.org/wiki/BEGIN_15周年記念DVD_BOX "wikilink")』 （同発のDVD3タイトルにスペシャル特典DVDをプラスした4枚組）
 5.  2008年2月27日 『[BEGIN アコースティックコンサート2007 らいぶ いず 往来（オーライ）](https://ja.wikipedia.org/wiki/BEGIN_アコースティックコンサート2007_らいぶ_いず_往来（オーライ） "wikilink")』
-      - （2007年11月24日、[新宿コマ劇場](https://ja.wikipedia.org/wiki/新宿コマ劇場 "wikilink")にて収録）
+      - （2007年11月24日、[新宿コマ劇場](../Page/新宿コマ劇場.md "wikilink")にて収録）
 
 ### 楽曲提供
 
@@ -482,7 +482,7 @@
 
   -
     イラヨイ月夜浜 [大島保克](https://ja.wikipedia.org/wiki/大島保克 "wikilink")（作曲）
-    旅の終わりに聞く歌は [田端義夫](https://ja.wikipedia.org/wiki/田端義夫 "wikilink")（作詞・作曲）
+    旅の終わりに聞く歌は [田端義夫](../Page/田端義夫.md "wikilink")（作詞・作曲）
     BIRTHDAY CAKE [Misia](https://ja.wikipedia.org/wiki/Misia "wikilink")（作詞・作曲）
 
 <!-- end list -->
@@ -532,10 +532,10 @@
   - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[ちゅらさん](../Page/ちゅらさん.md "wikilink")』（2001年）
   - [Music Lovers](../Page/Music_Lovers.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2010年11月14日）出演
   - [Panasonic 3D Music Studio](https://ja.wikipedia.org/wiki/Panasonic_3D_Music_Studio "wikilink")（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、2011年3月14日～18日）出演
-  - [課外授業 ようこそ先輩](https://ja.wikipedia.org/wiki/課外授業_ようこそ先輩 "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2012年1月7日）先輩として母校・登野城小の校歌を生徒たちとレコーディング
+  - [課外授業 ようこそ先輩](../Page/課外授業_ようこそ先輩.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2012年1月7日）先輩として母校・登野城小の校歌を生徒たちとレコーディング
   - BEGINの音色旅団 デビュー25年目の真実（BS朝日、2015年3月29日）
   - [SONGS (テレビ番組)](../Page/SONGS_\(テレビ番組\).md "wikilink")(2019年3月9日、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink"))
-  - [アナザースカイII](https://ja.wikipedia.org/wiki/アナザースカイ_\(テレビ番組\) "wikilink") ([日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2019年7月12日・19日) [RBC琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")(TBS系)では、2019年9月15日・22日に放送
+  - [アナザースカイII](https://ja.wikipedia.org/wiki/アナザースカイ_\(テレビ番組\) "wikilink") ([日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2019年7月12日・19日) [RBC琉球放送](../Page/琉球放送.md "wikilink")(TBS系)では、2019年9月15日・22日に放送
 
 ### NHK紅白歌合戦出場歴
 
@@ -587,7 +587,7 @@
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ブルースロック・バンド](https://ja.wikipedia.org/wiki/Category:ブルースロック・バンド "wikilink") [Category:日本のフォークグループ](https://ja.wikipedia.org/wiki/Category:日本のフォークグループ "wikilink") [Category:フォーク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:フォーク・ロック・バンド "wikilink") [Category:イカ天出身のバンド](https://ja.wikipedia.org/wiki/Category:イカ天出身のバンド "wikilink") [Category:アミューズ](https://ja.wikipedia.org/wiki/Category:アミューズ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:テイチクエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:テイチクエンタテインメントのアーティスト "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:1988年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1988年に結成した音楽グループ "wikilink")
 
-1.  BEGINも2度ゲスト出演した『[夏 長崎から さだまさし](../Page/夏_長崎から_さだまさし.md "wikilink")』(1987-2006)に触発されたイベントとされる。2008年9月18日、[長崎ブリックホール](https://ja.wikipedia.org/wiki/長崎ブリックホール "wikilink")での公演におけるMCで、比嘉栄昇がさだまさしとのエピソードを披露
+1.  BEGINも2度ゲスト出演した『[夏 長崎から さだまさし](../Page/夏_長崎から_さだまさし.md "wikilink")』(1987-2006)に触発されたイベントとされる。2008年9月18日、[長崎ブリックホール](../Page/長崎ブリックホール.md "wikilink")での公演におけるMCで、比嘉栄昇がさだまさしとのエピソードを披露
 2.  [石垣でうたの日コンサート　BEGINら熱唱](http://www.okinawatimes.co.jp/article/2011-06-27_19739/) 沖縄タイムス2011年6月27日、[BEGIN「お祝い共有したい」　石垣で初「うたの日」コンサート](http://ryukyushimpo.jp/news/storyid-177959-storytopic-6.html) 琉球新報2011年6月7日。
 3.  東京および大阪でのデビュー15周年コンサートの模様は、BEGIN初のライブ[DVD](../Page/DVD.md "wikilink")にそれぞれ収録された。同時に15周年ツアーの模様メインのドキュメントDVDを発売した（DVD-BOXにはこの3枚のDVDに加え、大阪万博公園でのコンサートを収録した特典DVDが同梱された）。
 4.  [BEGIN － IMPERIAL RECORDS](http://web.archive.org/web/20180812060251/http://www.teichiku.co.jp/artist/begin/)

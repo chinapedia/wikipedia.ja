@@ -1,11 +1,11 @@
 > この記事は[IgA](https://ja.wikipedia.org/wiki/IgA)から翻訳されています。
 
 
-**IgA腎症**（アイジーエーじんしょう、）は、主に[免疫グロブリンの一種である](../Page/抗体.md "wikilink")[IgAが免疫複合体を形成し](../Page/免疫グロブリンA.md "wikilink")、腎[糸球体](https://ja.wikipedia.org/wiki/糸球体 "wikilink")[メサンギウム](https://ja.wikipedia.org/wiki/メサンギウム "wikilink")領域に沈着することを特徴とする[疾患](https://ja.wikipedia.org/wiki/疾患 "wikilink")である。 [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のベルジェらが提唱したことによりベルジェ病とも言われる。
+**IgA腎症**（アイジーエーじんしょう、）は、主に[免疫グロブリンの一種である](../Page/抗体.md "wikilink")[IgAが免疫複合体を形成し](../Page/免疫グロブリンA.md "wikilink")、腎[糸球体](../Page/糸球体.md "wikilink")[メサンギウム](https://ja.wikipedia.org/wiki/メサンギウム "wikilink")領域に沈着することを特徴とする[疾患](https://ja.wikipedia.org/wiki/疾患 "wikilink")である。 [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のベルジェらが提唱したことによりベルジェ病とも言われる。
 
 ## 疫学
 
-好発年齢は10代後半から30年代前半であるが10歳未満でも50歳以上でも発症することもある。患者は男性に多く、数倍の性差が存在する。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")における[慢性糸球体腎炎](https://ja.wikipedia.org/wiki/慢性糸球体腎炎 "wikilink")の30〜40%をIgA腎症が占める。この割合は、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")[太平洋](../Page/太平洋.md "wikilink")地域、フランス・[イタリア](../Page/イタリア.md "wikilink")などの南欧、[北アメリカ](../Page/北アメリカ.md "wikilink")、[南アメリカ](../Page/南アメリカ.md "wikilink")の順に低くなる。治療中の患者数は国内で年間20,000〜30,000人と推計されており、[特定疾患](../Page/特定疾患.md "wikilink")に指定されている。
+好発年齢は10代後半から30年代前半であるが10歳未満でも50歳以上でも発症することもある。患者は男性に多く、数倍の性差が存在する。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")における[慢性糸球体腎炎](https://ja.wikipedia.org/wiki/慢性糸球体腎炎 "wikilink")の30〜40%をIgA腎症が占める。この割合は、[アジア](../Page/アジア.md "wikilink")[太平洋](../Page/太平洋.md "wikilink")地域、フランス・[イタリア](../Page/イタリア.md "wikilink")などの南欧、[北アメリカ](../Page/北アメリカ.md "wikilink")、[南アメリカ](../Page/南アメリカ.md "wikilink")の順に低くなる。治療中の患者数は国内で年間20,000〜30,000人と推計されており、[特定疾患](../Page/特定疾患.md "wikilink")に指定されている。
 
 ## 臨床像
 
@@ -13,7 +13,7 @@
 
 ## 病因・機序
 
-  - 詳しいことは不明であり、今後の研究成果が期待される。病因として有力なものは、食物やウイルスを[抗原](../Page/抗原.md "wikilink")とする免疫複合体の[糸球体](https://ja.wikipedia.org/wiki/糸球体 "wikilink")内沈着によって引き起こされるとする説である。機序としては、扁桃腺炎が反復することにより陰窩上皮が破壊され、これを抗原として認識したリンパ球がIgA抗体を産生すると考えられている。IgAサブクラス1の[抗体](../Page/抗体.md "wikilink")ヒンジ領域の[糖鎖](../Page/糖鎖.md "wikilink")異常を示唆する実験結果もある。また、IgA腎症の一部では明らかな家族内発症が見られることから、遺伝因子の関与も疑われる。[レニン](../Page/レニン.md "wikilink")・[アンギオテンシン](https://ja.wikipedia.org/wiki/アンギオテンシン "wikilink")系[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")や[IgAクラススイッチ制御](../Page/免疫グロブリンA.md "wikilink")[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の[多型](../Page/多型.md "wikilink")が本疾患の発症・進行に関与するとして注目されているものの、確定的な証拠は依然得られていない。
+  - 詳しいことは不明であり、今後の研究成果が期待される。病因として有力なものは、食物やウイルスを[抗原](../Page/抗原.md "wikilink")とする免疫複合体の[糸球体](../Page/糸球体.md "wikilink")内沈着によって引き起こされるとする説である。機序としては、扁桃腺炎が反復することにより陰窩上皮が破壊され、これを抗原として認識したリンパ球がIgA抗体を産生すると考えられている。IgAサブクラス1の[抗体](../Page/抗体.md "wikilink")ヒンジ領域の[糖鎖](../Page/糖鎖.md "wikilink")異常を示唆する実験結果もある。また、IgA腎症の一部では明らかな家族内発症が見られることから、遺伝因子の関与も疑われる。[レニン](../Page/レニン.md "wikilink")・[アンギオテンシン](https://ja.wikipedia.org/wiki/アンギオテンシン "wikilink")系[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")や[IgAクラススイッチ制御](../Page/免疫グロブリンA.md "wikilink")[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")の[多型](../Page/多型.md "wikilink")が本疾患の発症・進行に関与するとして注目されているものの、確定的な証拠は依然得られていない。
 
 ## 病期分類
 
@@ -50,7 +50,7 @@
 
   - 病期分類により治療手段は変化する。
     生活指導 :上記の国内指針によれば、予後比較的不良群以降は過労は避け、[妊娠](../Page/妊娠.md "wikilink")・[出産](../Page/出産.md "wikilink")も避けることが望ましい。ただし、運動制限については賛否両論であり、過労が直接的に腎臓に悪影響を及ぼすデータはない。しかしながら、[脱水](https://ja.wikipedia.org/wiki/脱水 "wikilink")状態を招くほどの激しい運動は腎機能の悪化につながることからやはり控えるべきである。また、妊娠分娩の結果は腎生検の結果よりも腎障害の程度により大きく異なり、中等度以上の腎機能が低下している場合には母体の将来的な腎不全悪化や妊娠中の合併症（[妊娠高血圧症](https://ja.wikipedia.org/wiki/妊娠高血圧症 "wikilink")など）、生児の分娩率に影響が生じることから原則として勧められない。
-    [食事療法](../Page/食事療法.md "wikilink") :低[タンパク](https://ja.wikipedia.org/wiki/タンパク "wikilink")食療法も徹底度こそ施設間で異なるが、IgA腎症に限らず[慢性腎臓病](https://ja.wikipedia.org/wiki/慢性腎臓病 "wikilink")治療の一環として、広く行われている。また、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")などではフィッシュオイル（[魚油](../Page/魚油.md "wikilink")）の服用が有効とされており、こうした[サプリメント](https://ja.wikipedia.org/wiki/サプリメント "wikilink")摂取や成分中の[ω-3系と呼ばれる](https://ja.wikipedia.org/wiki/ω-3脂肪酸 "wikilink")[脂肪酸](../Page/脂肪酸.md "wikilink")（[DHA](https://ja.wikipedia.org/wiki/ドコサヘキサエン酸 "wikilink")・[EPAなど](https://ja.wikipedia.org/wiki/エイコサペンタエン酸 "wikilink")）の治療効果を支持する[英語](../Page/英語.md "wikilink")論文も散見されるが、国際的な評価は定まっていない。
+    [食事療法](../Page/食事療法.md "wikilink") :低[タンパク](https://ja.wikipedia.org/wiki/タンパク "wikilink")食療法も徹底度こそ施設間で異なるが、IgA腎症に限らず[慢性腎臓病](https://ja.wikipedia.org/wiki/慢性腎臓病 "wikilink")治療の一環として、広く行われている。また、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")などではフィッシュオイル（[魚油](../Page/魚油.md "wikilink")）の服用が有効とされており、こうした[サプリメント](../Page/サプリメント.md "wikilink")摂取や成分中の[ω-3系と呼ばれる](https://ja.wikipedia.org/wiki/ω-3脂肪酸 "wikilink")[脂肪酸](../Page/脂肪酸.md "wikilink")（[DHA](../Page/ドコサヘキサエン酸.md "wikilink")・[EPAなど](../Page/エイコサペンタエン酸.md "wikilink")）の治療効果を支持する[英語](../Page/英語.md "wikilink")論文も散見されるが、国際的な評価は定まっていない。
     薬物療法 :患者背景や病理所見を含めた検査結果などから総合的に検討される。治療の主体は[副腎皮質ステロイド](https://ja.wikipedia.org/wiki/副腎皮質ステロイド "wikilink")薬と[ACE阻害剤](https://ja.wikipedia.org/wiki/ACE阻害剤 "wikilink")・[ARBである](https://ja.wikipedia.org/wiki/アンギオテンシンII受容体拮抗薬 "wikilink")。腎生検で糸球体メサンギウム基質の増加や間質の線維化が軽度なもの、腎機能が比較的保たれているもの、尿蛋白が陽性であるものは、ステロイドの効果が得られやすいとする論文が多い。ACE阻害薬を主体とした降圧薬による十分な血圧コントロールが腎障害の進展を遅らせるという臨床試験結果も数多い。ACE阻害薬＋ステロイド併用で、ACE阻害薬単独よりも腎機能予後が良好であったという報告がある\[1\]\[2\]。国内ではACE阻害薬以上にARBが消費されており、一部では両者の併用療法も行われている。このほか、[ジピリダモール](https://ja.wikipedia.org/wiki/ジピリダモール "wikilink")、[塩酸ジラゼプ](https://ja.wikipedia.org/wiki/塩酸ジラゼプ "wikilink")、[ワーファリン](https://ja.wikipedia.org/wiki/ワーファリン "wikilink")、[アザチオプリン](../Page/アザチオプリン.md "wikilink")、[ミゾリビン](https://ja.wikipedia.org/wiki/ミゾリビン "wikilink")などを使うこともある。
     [扁桃腺](https://ja.wikipedia.org/wiki/扁桃腺 "wikilink")摘出+ステロイド[パルス](../Page/パルス.md "wikilink")療法 :急性[上気道](https://ja.wikipedia.org/wiki/上気道 "wikilink")炎、とくに扁桃腺炎の反復によりIgA腎症が惹起されるという考えに基づいて、国内の一部施設で積極的に行われている。蛋白尿減少など臨床的寛解が認められるが長期的な評価はまだ定まっていない\[3\]\[4\]\[5\]。
 
@@ -62,7 +62,7 @@
 
 ## 関連項目
 
-  - [腎臓学](https://ja.wikipedia.org/wiki/腎臓学 "wikilink")
+  - [腎臓学](../Page/腎臓学.md "wikilink")
   - [アレルギー性紫斑病](../Page/アレルギー性紫斑病.md "wikilink")…同疾患の経過中に、IgA腎症と酷似した腎炎を発症することがある。
 
 ## 外部リンク

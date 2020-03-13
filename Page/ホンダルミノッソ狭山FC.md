@@ -9,7 +9,7 @@
 
 [本田技研工業](../Page/本田技研工業.md "wikilink")（ホンダ）のサッカーチームといえば、[Honda FC](https://ja.wikipedia.org/wiki/Honda_FC "wikilink")（[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")・浜松製作所）が社会人の強豪として名高いが、ホンダルミノッソ狭山FCは埼玉製作所狭山工場に所属するサッカー愛好者で[1967年](../Page/1967年.md "wikilink")に創部しており、チームの歴史としてはHonda FC（1971年創部）よりも4年古い。ただ実業団ではありながらHonda FCはホンダの正式な企業スポーツ部の位置づけであるのに対し、ホンダルミノッソ狭山FCは同好会の扱いとなっており、選手は一般社員と同じく勤務を終えてから練習を行う。
 
-長年、[埼玉県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/埼玉県社会人サッカーリーグ "wikilink")の強豪といわれながら[関東サッカーリーグ](https://ja.wikipedia.org/wiki/関東サッカーリーグ "wikilink")への昇格が達成できずにいたが、1990-91年シーズンの[関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")を制して関東サッカーリーグに昇格する。以来、常に同リーグで上位に君臨するも、[JFL昇格を懸けた](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[全国地域リーグ決勝大会ではあと一歩届かず](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")、JFL入りを逃し続けていた。なお、関東サッカーリーグでは6回の優勝を誇る。
+長年、[埼玉県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/埼玉県社会人サッカーリーグ "wikilink")の強豪といわれながら[関東サッカーリーグ](../Page/関東サッカーリーグ.md "wikilink")への昇格が達成できずにいたが、1990-91年シーズンの[関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")を制して関東サッカーリーグに昇格する。以来、常に同リーグで上位に君臨するも、[JFL昇格を懸けた](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[全国地域リーグ決勝大会ではあと一歩届かず](../Page/全国地域サッカーチャンピオンズリーグ.md "wikilink")、JFL入りを逃し続けていた。なお、関東サッカーリーグでは6回の優勝を誇る。
 
 [1994年](../Page/1994年.md "wikilink")よりチーム名を**本田技研工業狭山サッカー部**からホンダルミノッソ狭山FCに改称した。
 
@@ -25,7 +25,7 @@
 | -------------------------------------------------------------------------- | --------------------------------------------------------------- | ------ | -- | ---- | -- | ---- | -- | -- | ---- | ---- |
 | 年度                                                                         | 所属                                                              | 順位     | 勝点 | 試合   | 勝  | 分    | 敗  | 得点 | 失点   | 差    |
 | [1990](https://ja.wikipedia.org/wiki/1990年の都道府県リーグ_\(関東・サッカー\) "wikilink") | [埼玉県1部](https://ja.wikipedia.org/wiki/埼玉県社会人サッカーリーグ "wikilink") | **優勝** |    |      |    |      |    |    | |    |      |
-| [1991](https://ja.wikipedia.org/wiki/1991年の地域リーグ_\(サッカー\) "wikilink")      | [関東](https://ja.wikipedia.org/wiki/関東サッカーリーグ "wikilink")        | 3位     | 26 | 18   | 11 | 4    | 3  | 41 | 23   | \+18 |
+| [1991](https://ja.wikipedia.org/wiki/1991年の地域リーグ_\(サッカー\) "wikilink")      | [関東](../Page/関東サッカーリーグ.md "wikilink")                           | 3位     | 26 | 18   | 11 | 4    | 3  | 41 | 23   | \+18 |
 | [1992](https://ja.wikipedia.org/wiki/1992年の地域リーグ_\(サッカー\) "wikilink")      | **優勝**                                                          | 29     | 18 | 13   | 3  | 2    | 36 | 16 | \+20 |      |
 | [1993](https://ja.wikipedia.org/wiki/1993年の地域リーグ_\(サッカー\) "wikilink")      | **優勝**                                                          | 30     | 18 | 14   | 2  | 2    | 64 | 22 | \+42 |      |
 | [1994](https://ja.wikipedia.org/wiki/1994年の地域リーグ_\(サッカー\) "wikilink")      | 2位                                                              | 22     | 18 | 8    | 6  | 4    | 38 | 27 | \+11 |      |
@@ -53,7 +53,7 @@
 
 ### リーグ戦
 
-  - **[関東サッカーリーグ](https://ja.wikipedia.org/wiki/関東サッカーリーグ "wikilink")1部：6回**
+  - **[関東サッカーリーグ](../Page/関東サッカーリーグ.md "wikilink")1部：6回**
       - 1992年、1993年、1996年、2001年、2004年、2005年
 
 （リーグ最多優勝記録）
@@ -84,7 +84,7 @@
 
 ### MF
 
-  - [新井信明](https://ja.wikipedia.org/wiki/新井信明 "wikilink") (?)：本郷高－[読売クラブ](https://ja.wikipedia.org/wiki/読売サッカークラブ "wikilink")(JSL1部)
+  - [新井信明](https://ja.wikipedia.org/wiki/新井信明 "wikilink") (?)：本郷高－[読売クラブ](../Page/読売サッカークラブ.md "wikilink")(JSL1部)
   - [申在範](https://ja.wikipedia.org/wiki/申在範 "wikilink") (1997年‐1998年)
   - [照井真展](https://ja.wikipedia.org/wiki/照井真展 "wikilink") (?)：武南高（[第68回](https://ja.wikipedia.org/wiki/第68回全国高等学校サッカー選手権大会 "wikilink")、[第69回](https://ja.wikipedia.org/wiki/第69回全国高等学校サッカー選手権大会 "wikilink")、[第70回全国高校サッカー選手権大会](https://ja.wikipedia.org/wiki/第70回全国高等学校サッカー選手権大会 "wikilink") 大会優秀選手）－国士舘大
   - [迫田和憲](https://ja.wikipedia.org/wiki/迫田和憲 "wikilink") (?)：滝川第二高－東海大（関東選抜）

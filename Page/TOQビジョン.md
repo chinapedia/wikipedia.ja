@@ -5,13 +5,13 @@
 
 ## 概要
 
-TOQビジョンは、[東急5000系列と](https://ja.wikipedia.org/wiki/東急5000系電車_\(2代\) "wikilink")[6000系](../Page/東急6000系電車_\(2代\).md "wikilink")、[横浜高速鉄道](../Page/横浜高速鉄道.md "wikilink")の[Y500系の客用ドア客室側上部に](../Page/横浜高速鉄道Y500系電車.md "wikilink")2画面設置されている。サービス自体は[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[12月8日](../Page/12月8日.md "wikilink")から開始したが、「TOQビジョン」の名称が使われ始めたのは[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）9月からであり、画面周りに「TOQビジョン」のステッカーを貼付している。なお、[池上線](https://ja.wikipedia.org/wiki/東急池上線 "wikilink")・[東急多摩川線](https://ja.wikipedia.org/wiki/東急多摩川線 "wikilink")用の[7000系も客用ドア客室側上部に](https://ja.wikipedia.org/wiki/東急7000系電車_\(2代\) "wikilink")2画面の[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")が設置されているが、こちらはTOQビジョンの名称を使用していない。
+TOQビジョンは、[東急5000系列と](../Page/東急5000系電車_\(2代\).md "wikilink")[6000系](../Page/東急6000系電車_\(2代\).md "wikilink")、[横浜高速鉄道](../Page/横浜高速鉄道.md "wikilink")の[Y500系の客用ドア客室側上部に](../Page/横浜高速鉄道Y500系電車.md "wikilink")2画面設置されている。サービス自体は[2002年](../Page/2002年.md "wikilink")（[平成](../Page/平成.md "wikilink")14年）[12月8日](../Page/12月8日.md "wikilink")から開始したが、「TOQビジョン」の名称が使われ始めたのは[2004年](../Page/2004年.md "wikilink")（[平成](../Page/平成.md "wikilink")16年）9月からであり、画面周りに「TOQビジョン」のステッカーを貼付している。なお、[池上線](https://ja.wikipedia.org/wiki/東急池上線 "wikilink")・[東急多摩川線](https://ja.wikipedia.org/wiki/東急多摩川線 "wikilink")用の[7000系も客用ドア客室側上部に](https://ja.wikipedia.org/wiki/東急7000系電車_\(2代\) "wikilink")2画面の[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")が設置されているが、こちらはTOQビジョンの名称を使用していない。
 
 [田園都市線用の](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink")5000系第1編成 (5101F) は運行開始当時1画面で、このサービスを行っていなかったが、第2編成 (5102F) 以降では[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")用[E231系500番台と同様の](https://ja.wikipedia.org/wiki/JR東日本E231系電車 "wikilink")2画面レイアウトになり、サービス開始となった。第1編成も[2003年](../Page/2003年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")より2画面レイアウトとされた。第1編成営業当時、駅到着直前・停車中・出発直後は現在のような旅客案内を表示し、駅間走行中は動物・魚などの[環境映像](https://ja.wikipedia.org/wiki/環境映像 "wikilink")を放映していた。環境映像は駅到着直前に打ち切られた。
 
 画面上ではJR東日本の「[トレインチャンネル](../Page/トレインチャンネル.md "wikilink")」と異なり、[テレビコマーシャルの動画が繰り返し流される](../Page/コマーシャルメッセージ.md "wikilink")。なお、[ニュース](../Page/ニュース.md "wikilink")や[天気予報](../Page/天気予報.md "wikilink")は長い間放映されなかったが、2018年から「TOQビジョンニュース」として[NHK Pickup NEWSや](https://ja.wikipedia.org/wiki/NHKニュース#インターネット "wikilink")[共同通信ニュース](../Page/共同通信社.md "wikilink")、更に[ウェザーニューズ](https://ja.wikipedia.org/wiki/ウェザーニューズ "wikilink")提供の天気予報（愛称・のるるん天気予報）が流れるようになった\[2\]。音声は「トレインチャンネル」と同様に流れない。運行情報は旅客案内側モニターで東急線の情報のみ表示される。
 
-CM動画は[劇団四季](../Page/劇団四季.md "wikilink")や[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")など一般企業・団体の他、自社やグループ各社（ [Bunkamura](../Page/Bunkamura.md "wikilink")[オーチャードホール](https://ja.wikipedia.org/wiki/オーチャードホール "wikilink")・[シアターコクーン](../Page/シアターコクーン.md "wikilink")など）の商品・サービスやイベント告知も多い。5050系4000番台第10編成（Shibuya Hikarie号）では[渋谷ヒカリエ](https://ja.wikipedia.org/wiki/渋谷ヒカリエ "wikilink")の案内動画が流されるなど、特定の編成に限り動画が異なるケースもある。
+CM動画は[劇団四季](../Page/劇団四季.md "wikilink")や[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")など一般企業・団体の他、自社やグループ各社（ [Bunkamura](../Page/Bunkamura.md "wikilink")[オーチャードホール](../Page/オーチャードホール.md "wikilink")・[シアターコクーン](../Page/シアターコクーン.md "wikilink")など）の商品・サービスやイベント告知も多い。5050系4000番台第10編成（Shibuya Hikarie号）では[渋谷ヒカリエ](https://ja.wikipedia.org/wiki/渋谷ヒカリエ "wikilink")の案内動画が流されるなど、特定の編成に限り動画が異なるケースもある。
 
 車両運用の関係で、東急線以外に以下の路線でも見ることができる。
 
@@ -37,7 +37,7 @@ CM動画は[劇団四季](../Page/劇団四季.md "wikilink")や[パナソニッ
 
 ## 搭載車両
 
-  - [5000系列](https://ja.wikipedia.org/wiki/東急5000系電車_\(2代\) "wikilink")
+  - [5000系列](../Page/東急5000系電車_\(2代\).md "wikilink")
       - [田園都市線用](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink")5000系
       - [東横線用](../Page/東急東横線.md "wikilink")5050系
       - [目黒線用](https://ja.wikipedia.org/wiki/東急目黒線 "wikilink")5080系5183編成以降〈5181・5182編成は未設置〉
@@ -59,7 +59,7 @@ CM動画は[劇団四季](../Page/劇団四季.md "wikilink")や[パナソニッ
   - [Tokyo Metro ビジョン](https://ja.wikipedia.org/wiki/Tokyo_Metro_ビジョン "wikilink") - [東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")
   - [SaiNet Vision](../Page/SaiNet_Vision.md "wikilink") - [埼玉高速鉄道](../Page/埼玉高速鉄道.md "wikilink")
   - [西武スマイルビジョン](https://ja.wikipedia.org/wiki/西武スマイルビジョン "wikilink") - [西武鉄道](../Page/西武鉄道.md "wikilink")
-  - [WESTビジョン](https://ja.wikipedia.org/wiki/WESTビジョン "wikilink") - [JR西日本](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")
+  - [WESTビジョン](https://ja.wikipedia.org/wiki/WESTビジョン "wikilink") - [JR西日本](../Page/西日本旅客鉄道.md "wikilink")
   - [地下っ都ビジョン](https://ja.wikipedia.org/wiki/地下っ都ビジョン "wikilink") - [都営地下鉄](../Page/都営地下鉄.md "wikilink")
 
 ## 外部リンク

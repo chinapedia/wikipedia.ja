@@ -1,7 +1,7 @@
 > この記事は[FAN](https://ja.wikipedia.org/wiki/FAN)から翻訳されています。
 
 
-『**FAN**』（ファン、*Fantastic Amusement Night*）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")である。[鐘紡](https://ja.wikipedia.org/wiki/カネボウ_\(1887-2008\) "wikilink")（現・[クラシエホールディングス](../Page/クラシエホールディングス.md "wikilink")）の一社提供。放送時間は毎週金曜 23:00 - 23:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**FAN**』（ファン、*Fantastic Amusement Night*）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")まで[日本テレビ系列局で放送されていた](../Page/日本テレビネットワーク協議会.md "wikilink")[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。[鐘紡](https://ja.wikipedia.org/wiki/カネボウ_\(1887-2008\) "wikilink")（現・[クラシエホールディングス](../Page/クラシエホールディングス.md "wikilink")）の一社提供。放送時間は毎週金曜 23:00 - 23:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 

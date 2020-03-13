@@ -29,7 +29,7 @@ MBシリーズで特徴的だったX型バックボーン[フレームをやめ]
 
 1982年2月25日発表、同年3月1日発売\[1\]。
 
-イメージ[キャラクター](../Page/キャラクター.md "wikilink")には[近藤真彦](https://ja.wikipedia.org/wiki/近藤真彦 "wikilink")を起用したモデルで、搭載されるAC03E型エンジンは最高出力7.2ps/8,500rpm・最大トルク0.65㎏-m/7,500rpmのスペックを発揮する\[2\]。
+イメージ[キャラクター](../Page/キャラクター.md "wikilink")には[近藤真彦](../Page/近藤真彦.md "wikilink")を起用したモデルで、搭載されるAC03E型エンジンは最高出力7.2ps/8,500rpm・最大トルク0.65㎏-m/7,500rpmのスペックを発揮する\[2\]。
 
 年間販売目標は12,000台、標準現金価格186,000円に設定された。
 
@@ -93,7 +93,7 @@ MBシリーズで特徴的だったX型バックボーン[フレームをやめ]
   - [ホンダ・MB](../Page/ホンダ・MB.md "wikilink")
   - [ホンダ・MVX250F](../Page/ホンダ・MVX250F.md "wikilink")
   - [ヤマハ・RZ](../Page/ヤマハ・RZ.md "wikilink")
-  - [スズキ・ガンマ](https://ja.wikipedia.org/wiki/スズキ・ガンマ "wikilink")
+  - [スズキ・ガンマ](../Page/スズキ・ガンマ.md "wikilink")
   - [カワサキ・AR](../Page/カワサキ・AR.md "wikilink")
 
 ## 外部リンク
@@ -113,7 +113,7 @@ MBシリーズで特徴的だったX型バックボーン[フレームをやめ]
 9.  [1987年2月4日プレスリリース](http://www.honda.co.jp/news/1987/2870204.html)
 10.
 11.
-12. インテグラの商標は、元々1982年に[CB750F](https://ja.wikipedia.org/wiki/ホンダ・CB-F "wikilink")・[CBX400F](../Page/ホンダ・CBX400F.md "wikilink")・CBX550F、1983年に[VT250F](https://ja.wikipedia.org/wiki/ホンダ・VT "wikilink")・本モデル、1984年に[VF400Fへ設定されたフルカウル装着車のペットネームとして使用された](../Page/ホンダ・VF400F.md "wikilink")。1985年に[クイントがフルチェンジされた際にクイントインテグラと改称されたために](../Page/ホンダ・クイント.md "wikilink")4輪車のネーミングにコンバートされ、[1989年](../Page/1989年.md "wikilink")のフルモデルチェンジによりインテグラと改称。[2006年](../Page/2006年.md "wikilink")の製造終了まで使用された後、[2011年](../Page/2011年.md "wikilink")以降は再び[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")の[車名として使用された](https://ja.wikipedia.org/wiki/ホンダ・インテグラ_\(オートバイ\) "wikilink")
+12. インテグラの商標は、元々1982年に[CB750F](https://ja.wikipedia.org/wiki/ホンダ・CB-F "wikilink")・[CBX400F](../Page/ホンダ・CBX400F.md "wikilink")・CBX550F、1983年に[VT250F](../Page/ホンダ・VT.md "wikilink")・本モデル、1984年に[VF400Fへ設定されたフルカウル装着車のペットネームとして使用された](../Page/ホンダ・VF400F.md "wikilink")。1985年に[クイントがフルチェンジされた際にクイントインテグラと改称されたために](../Page/ホンダ・クイント.md "wikilink")4輪車のネーミングにコンバートされ、[1989年](../Page/1989年.md "wikilink")のフルモデルチェンジによりインテグラと改称。[2006年](../Page/2006年.md "wikilink")の製造終了まで使用された後、[2011年](../Page/2011年.md "wikilink")以降は再び[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")の[車名として使用された](https://ja.wikipedia.org/wiki/ホンダ・インテグラ_\(オートバイ\) "wikilink")
 13. [1983年6月21日プレスリリース](http://www.honda.co.jp/news/1983/2830621.html)
 14. [1983年3月17日プレスリリース](http://www.honda.co.jp/news/1983/2830317m.html)
 15. [バイクブロス 絶版原付 MBX125F](http://www.bikebros.co.jp/vb/fifty/zeppangentsuki/zeppangentsuki-02/)

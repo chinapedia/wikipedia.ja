@@ -55,13 +55,13 @@
 
 ### X線源
 
-一般的な実験設備ではX線管から発せられる[MgKα線](https://ja.wikipedia.org/wiki/特性X線 "wikilink")(1253.6eV) や[AlKα線](https://ja.wikipedia.org/wiki/特性X線 "wikilink")(1486.6eV)などの[軟X線を照射する](../Page/X線.md "wikilink")（軟X線は表面感度が良い）。但し、老朽化したX線源を用いると[Mgや](https://ja.wikipedia.org/wiki/マグネシウム "wikilink")[Alが酸化物になっており](../Page/アルミニウム.md "wikilink")、[酸素](../Page/酸素.md "wikilink")の特性X線も同時に発生することがあるため注意が必要。X線の取り出し窓にはアルミニウム薄膜が用いられる。電子の脱出深さが一定であることから、試料表面と電子レンズとの角度を15°程度にすることによりさらに表面感度を上げることができる（バルク由来のバックグラウンドが減る）。高分解能が要求される場合は、[シンクロトロン放射光](https://ja.wikipedia.org/wiki/シンクロトロン放射光 "wikilink")を用いる。
+一般的な実験設備ではX線管から発せられる[MgKα線](https://ja.wikipedia.org/wiki/特性X線 "wikilink")(1253.6eV) や[AlKα線](https://ja.wikipedia.org/wiki/特性X線 "wikilink")(1486.6eV)などの[軟X線を照射する](../Page/X線.md "wikilink")（軟X線は表面感度が良い）。但し、老朽化したX線源を用いると[Mgや](../Page/マグネシウム.md "wikilink")[Alが酸化物になっており](../Page/アルミニウム.md "wikilink")、[酸素](../Page/酸素.md "wikilink")の特性X線も同時に発生することがあるため注意が必要。X線の取り出し窓にはアルミニウム薄膜が用いられる。電子の脱出深さが一定であることから、試料表面と電子レンズとの角度を15°程度にすることによりさらに表面感度を上げることができる（バルク由来のバックグラウンドが減る）。高分解能が要求される場合は、[シンクロトロン放射光](https://ja.wikipedia.org/wiki/シンクロトロン放射光 "wikilink")を用いる。
 
 単色化されたX線を光源として用いると、化学状態を詳細に解析できる。単色化X線源を用いると光電子スペクトルがシャープになり、X線源のサテライト線やKβ線も除去されるため、S/B比が良くなる。単色化X線源では、[ローランド円](https://ja.wikipedia.org/wiki/ローランド円 "wikilink")上にX線源（Alなど）と分光結晶を配置させる。
 
 ### 真空ポンプ
 
-XPSでは試料の表面汚染を防ぐため、10^-7Pa以下の[超高真空](https://ja.wikipedia.org/wiki/超高真空 "wikilink")が必要となる。試料導入部では[ターボ分子ポンプ](../Page/ターボ分子ポンプ.md "wikilink")と[ロータリーポンプ](../Page/ロータリーポンプ.md "wikilink")を組み合わせる。測定部ではオイルを使わない[イオンポンプ](../Page/イオンポンプ.md "wikilink")とチタン[サブリメーションポンプ](https://ja.wikipedia.org/wiki/サブリメーションポンプ "wikilink")などを組み合わせる。他にも[拡散ポンプ](../Page/拡散ポンプ.md "wikilink")や[クライオポンプ](https://ja.wikipedia.org/wiki/クライオポンプ "wikilink")も使われる。
+XPSでは試料の表面汚染を防ぐため、10^-7Pa以下の[超高真空](https://ja.wikipedia.org/wiki/超高真空 "wikilink")が必要となる。試料導入部では[ターボ分子ポンプ](../Page/ターボ分子ポンプ.md "wikilink")と[ロータリーポンプ](../Page/ロータリーポンプ.md "wikilink")を組み合わせる。測定部ではオイルを使わない[イオンポンプ](../Page/イオンポンプ.md "wikilink")とチタン[サブリメーションポンプ](https://ja.wikipedia.org/wiki/サブリメーションポンプ "wikilink")などを組み合わせる。他にも[拡散ポンプ](../Page/拡散ポンプ.md "wikilink")や[クライオポンプ](../Page/クライオポンプ.md "wikilink")も使われる。
 
 ### エネルギー分析器
 

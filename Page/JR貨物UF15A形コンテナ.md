@@ -850,7 +850,7 @@
   - 40、41
     日本石油輸送所有（[全農直販](https://ja.wikipedia.org/wiki/全農直販 "wikilink")借受）。総重量6.8t。
   - 67 - 71
-    [日本水産](https://ja.wikipedia.org/wiki/日本水産 "wikilink")所有。総重量6.8t。
+    [日本水産](../Page/日本水産.md "wikilink")所有。総重量6.8t。
   - 78、79
     [山九](../Page/山九.md "wikilink")所有。総重量6.8t。
   - 118 - 122

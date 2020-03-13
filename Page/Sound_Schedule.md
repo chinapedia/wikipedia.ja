@@ -81,7 +81,7 @@
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/4月16日" title="wikilink">4月16日</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ことばさがし" title="wikilink">ことばさがし</a></strong></p></td>
 <td><p>YCDL-00008</p></td>
 <td></td>
@@ -105,7 +105,7 @@
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/1月19日.md" title="wikilink">1月19日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アンサー_(Sound_Scheduleの曲)" title="wikilink">アンサー</a></strong></p></td>
 <td><p>YCCL-30002</p></td>
 <td></td>

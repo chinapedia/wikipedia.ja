@@ -7,7 +7,7 @@
 
 SNKと[カプコン](../Page/カプコン.md "wikilink")のクロスライセンス契約による『[SNK VS. CAPCOM](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM "wikilink")』シリーズの第2弾ソフト（カプコン側製作の『[CAPCOM VS. SNK](../Page/CAPCOM_VS._SNK.md "wikilink")』シリーズを含めた通算においても第2弾である）。
 
-SNKからは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』『[餓狼伝説](../Page/餓狼伝説.md "wikilink")』『[龍虎の拳](../Page/龍虎の拳.md "wikilink")』『[サムライスピリッツ](../Page/サムライスピリッツ.md "wikilink")』『[月華の剣士](../Page/月華の剣士.md "wikilink")』、カプコンからは『[ストリートファイター](https://ja.wikipedia.org/wiki/ストリートファイター "wikilink")』『[ヴァンパイア](../Page/ヴァンパイア_\(ゲーム\).md "wikilink")』のキャラクターが登場し、他のネオジオポケットで発売された格闘ゲーム同様、[デフォルメ](../Page/デフォルメ.md "wikilink")されたキャラクターが対決する。
+SNKからは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』『[餓狼伝説](../Page/餓狼伝説.md "wikilink")』『[龍虎の拳](../Page/龍虎の拳.md "wikilink")』『[サムライスピリッツ](../Page/サムライスピリッツ.md "wikilink")』『[月華の剣士](../Page/月華の剣士.md "wikilink")』、カプコンからは『[ストリートファイター](../Page/ストリートファイター.md "wikilink")』『[ヴァンパイア](../Page/ヴァンパイア_\(ゲーム\).md "wikilink")』のキャラクターが登場し、他のネオジオポケットで発売された格闘ゲーム同様、[デフォルメ](../Page/デフォルメ.md "wikilink")されたキャラクターが対決する。
 
 操作は1レバー+2ボタンで、ボタンの押す長さによって攻撃の強弱が決まる。
 
@@ -29,7 +29,7 @@ SNKからは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キ
   - シングル
     通常の1対1の対戦。基本は2本先取の3本勝負だが対戦ラウンド数はコンフィグで変更が可能。
   - タッグ
-    2対2のタッグ戦で、カプコンの『[X-MEN VS. STREET FIGHTER](https://ja.wikipedia.org/wiki/X-MEN_VS._STREET_FIGHTER "wikilink")』等の[VS.マーヴルシリーズのように随時戦闘メンバーの交代が可能](../Page/VS.シリーズ.md "wikilink")。ラウンド制ではなく、チームメンバー両方を倒した時点で決着となる。なお、本作は『[KOF](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズのように対戦の決着時には勝利ポーズをとらないまま勝利セリフ画面に移行してしまうため、このモードでは（決着がタイムアップの時や親衛隊戦を除き）勝利ポーズを一切見る事ができない。
+    2対2のタッグ戦で、カプコンの『[X-MEN VS. STREET FIGHTER](../Page/X-MEN_VS._STREET_FIGHTER.md "wikilink")』等の[VS.マーヴルシリーズのように随時戦闘メンバーの交代が可能](../Page/VS.シリーズ.md "wikilink")。ラウンド制ではなく、チームメンバー両方を倒した時点で決着となる。なお、本作は『[KOF](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』シリーズのように対戦の決着時には勝利ポーズをとらないまま勝利セリフ画面に移行してしまうため、このモードでは（決着がタイムアップの時や親衛隊戦を除き）勝利ポーズを一切見る事ができない。
     1人のみでエントリーすることも可能で、この時は相手側のみタッグ戦のシステムとなる。
   - チーム
     3対3のチーム戦で、『KOF』シリーズ同様の勝ち抜き戦形式。
@@ -94,7 +94,7 @@ SNKからは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キ
 
 ## 周辺作品とのリンク
 
-本作の隠しキャラクターはゲームクリア時に特定の条件で決まる枚数分隠しキャラクターのパネルがめくられることにより出現するが、その他に『[SNK VS. CAPCOM 激突カードファイターズ](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_激突カードファイターズ "wikilink")』のデータを送ることでも、送られたデータにおけるカード収集率に応じて出現する。また、この際に収集率から"VSポイント"が算出され加算される。
+本作の隠しキャラクターはゲームクリア時に特定の条件で決まる枚数分隠しキャラクターのパネルがめくられることにより出現するが、その他に『[SNK VS. CAPCOM 激突カードファイターズ](../Page/SNK_VS._CAPCOM_激突カードファイターズ.md "wikilink")』のデータを送ることでも、送られたデータにおけるカード収集率に応じて出現する。また、この際に収集率から"VSポイント"が算出され加算される。
 
 また、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用ソフト『THE KING OF FIGHTERS DREAM MATCH 1999』からキャラクター別のデータを送ることでもVSポイントを獲得できる。この際は送られてきたキャラクターと本ソフトで受け取るキャラクターの相性により、獲得できるポイントが変動する。また、本ソフトの戦績データを『THE KING OF FIGHTERS DREAM MATCH 1999』に送ることで同作のCGギャラリーを閲覧できるようにすることも可能。
 
@@ -111,7 +111,7 @@ SNKからは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キ
   - [テリー・ボガード](../Page/テリー・ボガード.md "wikilink")
   - [不知火舞](../Page/不知火舞.md "wikilink")
   - [リョウ・サカザキ](../Page/リョウ・サカザキ.md "wikilink")
-  - [覇王丸](https://ja.wikipedia.org/wiki/覇王丸 "wikilink")
+  - [覇王丸](../Page/覇王丸.md "wikilink")
   - [ナコルル](../Page/ナコルル.md "wikilink") - 色替えキャラクターにする（Aボタン長押しで決定する）と[紫ナコルルになる](https://ja.wikipedia.org/wiki/ナコルル#紫ナコルル_（羅刹ナコルル） "wikilink")。バストアップでの表情と勝利台詞が変わるが、連れている動物（どちらでもママハハを連れている）・性能や対戦開始前・勝利ポーズ・トーナメントモードのデモの台詞は変わらない。
   - [麻宮アテナ](../Page/麻宮アテナ.md "wikilink")
   - [レオナ](../Page/レオナ・ハイデルン.md "wikilink")
@@ -127,7 +127,7 @@ SNKからは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キ
   - [春麗](../Page/春麗.md "wikilink")
   - [ガイル](../Page/ガイル_\(ストリートファイター\).md "wikilink")
   - [ザンギエフ](../Page/ザンギエフ.md "wikilink")
-  - [ダン](https://ja.wikipedia.org/wiki/火引弾 "wikilink")
+  - [ダン](../Page/火引弾.md "wikilink")
   - [春日野さくら](../Page/春日野さくら.md "wikilink")
   - [モリガン](../Page/モリガン・アーンスランド.md "wikilink")
   - [フェリシア](../Page/フェリシア_\(ヴァンパイア\).md "wikilink")
@@ -143,8 +143,8 @@ SNKからは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キ
 | [草薙京](../Page/草薙京.md "wikilink")                                                    | [リュウ](../Page/リュウ_\(ストリートファイター\).md "wikilink")                                            |
 | [テリー・ボガード](../Page/テリー・ボガード.md "wikilink")                                          | [ケン](../Page/ケン・マスターズ.md "wikilink")                                                       |
 | [不知火舞](../Page/不知火舞.md "wikilink")                                                  | [春麗](../Page/春麗.md "wikilink")                                                             |
-| [リョウ・サカザキ](../Page/リョウ・サカザキ.md "wikilink")                                          | [ダン](https://ja.wikipedia.org/wiki/火引弾 "wikilink")                                         |
-| [覇王丸](https://ja.wikipedia.org/wiki/覇王丸 "wikilink")                                 | [ザンギエフ](../Page/ザンギエフ.md "wikilink")                                                       |
+| [リョウ・サカザキ](../Page/リョウ・サカザキ.md "wikilink")                                          | [ダン](../Page/火引弾.md "wikilink")                                                            |
+| [覇王丸](../Page/覇王丸.md "wikilink")                                                    | [ザンギエフ](../Page/ザンギエフ.md "wikilink")                                                       |
 | [ナコルル](../Page/ナコルル.md "wikilink")                                                  | [モリガン](../Page/モリガン・アーンスランド.md "wikilink")                                                 |
 | [八神庵](../Page/八神庵.md "wikilink")                                                    | [豪鬼](../Page/豪鬼.md "wikilink")                                                             |
 | [麻宮アテナ](../Page/麻宮アテナ.md "wikilink")                                                | [春日野さくら](../Page/春日野さくら.md "wikilink")                                                     |
@@ -164,7 +164,7 @@ SNKからは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キ
 
 モノクロ版の本体に挿して起動するとカラー専用ソフトである旨のメッセージが表示されるが、このメッセージを表示させることで通常はクリア回数が100回を超えなければ出現しないデモ閲覧モードがその後1回のクリアで出現する。
 
-ネオジオポケット本体の言語設定を「英語」に変更すると、「豪鬼」→「AKUMA」、「バレッタ」→「B.B.HOOD」、「ベガ」→「M.BISON」、「バルログ」→「VEGA」（ストーリーデモで登場）と、原作での日本版以外での名前に変更されるが、「[ナッシュ](https://ja.wikipedia.org/wiki/ナッシュ_\(ストリートファイター\) "wikilink")」（ガイルのストーリーデモで名前のみ登場）は「NASH」と、日本版表記のままになっている（原作では日本国外におけるナッシュの名前は「Charlie」）。
+ネオジオポケット本体の言語設定を「英語」に変更すると、「豪鬼」→「AKUMA」、「バレッタ」→「B.B.HOOD」、「ベガ」→「M.BISON」、「バルログ」→「VEGA」（ストーリーデモで登場）と、原作での日本版以外での名前に変更されるが、「[ナッシュ](../Page/ナッシュ_\(ストリートファイター\).md "wikilink")」（ガイルのストーリーデモで名前のみ登場）は「NASH」と、日本版表記のままになっている（原作では日本国外におけるナッシュの名前は「Charlie」）。
 
 公式イラストは[北千里が担当](https://ja.wikipedia.org/wiki/北千里_\(イラストレーター\) "wikilink")。
 
@@ -178,8 +178,8 @@ SNKからは『[ザ・キング・オブ・ファイターズ](../Page/ザ・キ
 
 ## 関連項目
 
-  - [SNKの対戦型格闘ゲーム一覧](https://ja.wikipedia.org/wiki/SNKの対戦型格闘ゲーム一覧 "wikilink")
-  - [SNK VS. CAPCOM 激突カードファイターズ](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_激突カードファイターズ "wikilink")
+  - [SNKの対戦型格闘ゲーム一覧](../Page/SNKの対戦型格闘ゲーム一覧.md "wikilink")
+  - [SNK VS. CAPCOM 激突カードファイターズ](../Page/SNK_VS._CAPCOM_激突カードファイターズ.md "wikilink")
   - [SNK VS. CAPCOM SVC CHAOS](../Page/SNK_VS._CAPCOM_SVC_CHAOS.md "wikilink")
   - [CAPCOM VS. SNKシリーズ](../Page/CAPCOM_VS._SNK.md "wikilink")
       - [カプコン バーサス エス・エヌ・ケイ ミレニアムファイト 2000](../Page/カプコン_バーサス_エス・エヌ・ケイ_ミレニアムファイト_2000.md "wikilink")

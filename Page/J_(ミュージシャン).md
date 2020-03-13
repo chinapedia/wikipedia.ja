@@ -1,7 +1,7 @@
 > この記事は[J \(\)](https://ja.wikipedia.org/wiki/J_\(\))から翻訳されています。
 
 
-**J**（ジェイ、[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[8月12日](../Page/8月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。本名：**小野瀬 潤**（おのせ じゅん）。身長180cm。血液型はAB型。[神奈川県立大秦野高等学校](https://ja.wikipedia.org/wiki/神奈川県立大秦野高等学校 "wikilink")卒業。[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")にしてロックミュージシャン。既婚。
+**J**（ジェイ、[1970年](../Page/1970年.md "wikilink")[8月12日](../Page/8月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。本名：**小野瀬 潤**（おのせ じゅん）。身長180cm。血液型はAB型。[神奈川県立大秦野高等学校](../Page/神奈川県立大秦野高等学校.md "wikilink")卒業。[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[ベーシスト](../Page/ベーシスト.md "wikilink")にしてロックミュージシャン。既婚。
 
 ## 経歴（LUNA SEA）
 
@@ -20,7 +20,7 @@
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - LUNA SEA活動休止の間、複数のソロ作品を発表。
   - [2001年](../Page/2001年.md "wikilink") - この年より本格的にソロ活動を開始。歌手[Youjeen](https://ja.wikipedia.org/wiki/Youjeen "wikilink")のデビューアルバム「[THE DOLL](https://ja.wikipedia.org/wiki/THE_DOLL "wikilink")」を全曲プロデュース。
   - [2003年](../Page/2003年.md "wikilink") - 自身初の[日本武道館](../Page/日本武道館.md "wikilink")ライブを行う。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - LUNA SEA時代から在籍していた[ユニバーサルを離れ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[blowgrowに移籍](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
+  - [2005年](../Page/2005年.md "wikilink") - LUNA SEA時代から在籍していた[ユニバーサルを離れ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[blowgrowに移籍](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
   - [2006年](../Page/2006年.md "wikilink") - イベント「WEAR RED SHOES Vol.3」に高樹町ミサイルズのベースとして出演。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [西川貴教](../Page/西川貴教.md "wikilink")率いる[abingdon boys school主催のMATCH](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink") UP '08-SUMMER SERIESの最終日・名古屋公演（Zepp Nagoya）に出演。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - 音楽雑誌[BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")創刊10周年記念ライブに出演。
@@ -36,23 +36,23 @@
   - 右腕の二の腕、右肩後ろ、左腕の二の腕の内側、腰にタトゥーを彫っている、その中のひとつは、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")とお揃いで彫った。
   - [X JAPANのhideのことを実の兄のように慕っていた](../Page/X_JAPAN.md "wikilink")。
   - [クロムハーツ](../Page/クロムハーツ.md "wikilink")と[ガボール](https://ja.wikipedia.org/wiki/ガボール "wikilink")を愛用。
-  - [アメ車](https://ja.wikipedia.org/wiki/アメ車 "wikilink")を好んでおり、[フォード・マスタング](../Page/フォード・マスタング.md "wikilink")や、[ダッジ・バイパー](../Page/ダッジ・バイパー.md "wikilink")、[シボレー・カプリス](https://ja.wikipedia.org/wiki/シボレー・カプリス "wikilink")、[ハマー (自動車)H](https://ja.wikipedia.org/wiki/ハマー_\(自動車\) "wikilink")2などに乗っている。またバイクも好んでおり、[ハーレーを所有](../Page/ハーレーダビッドソン.md "wikilink")。
+  - [アメ車](https://ja.wikipedia.org/wiki/アメ車 "wikilink")を好んでおり、[フォード・マスタング](../Page/フォード・マスタング.md "wikilink")や、[ダッジ・バイパー](../Page/ダッジ・バイパー.md "wikilink")、[シボレー・カプリス](https://ja.wikipedia.org/wiki/シボレー・カプリス "wikilink")、[ハマー (自動車)H](../Page/ハマー_\(自動車\).md "wikilink")2などに乗っている。またバイクも好んでおり、[ハーレーを所有](../Page/ハーレーダビッドソン.md "wikilink")。
   - 10代の頃、[AION](../Page/AION.md "wikilink")の[ローディー](../Page/ローディー.md "wikilink")をしていた。
   - 5歳上のロック好きな姉がいる。また、インタビュー等でもロックにのめり込むきっかけとなったのは、姉がベースを所有していて、姉の外出時にそれをこっそり見つからないように弾いていた、とも語っている。
-  - ソロ活動では、[ベースだけでなく](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")や[ギター](../Page/ギター.md "wikilink")もこなしている。
+  - ソロ活動では、[ベースだけでなく](../Page/ベース_\(弦楽器\).md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")や[ギター](../Page/ギター.md "wikilink")もこなしている。
   - オフィシャルファンクラブは「F.C.Pyro.」である。
-  - 中学生の時はサッカー部で、大の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンとしても知られていて、[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")では[浦和レッズ](https://ja.wikipedia.org/wiki/浦和レッズ "wikilink")のファンである。サッカー元日本代表の[岡野雅行や](../Page/岡野雅行_\(サッカー選手\).md "wikilink")[西澤明訓](https://ja.wikipedia.org/wiki/西澤明訓 "wikilink")などの選手達とも交流があり、自身のファンクラブ名（F.C.Pyro.）もサッカーにちなんだ名前になっている。
+  - 中学生の時はサッカー部で、大の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンとしても知られていて、[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")では[浦和レッズ](https://ja.wikipedia.org/wiki/浦和レッズ "wikilink")のファンである。サッカー元日本代表の[岡野雅行や](../Page/岡野雅行_\(サッカー選手\).md "wikilink")[西澤明訓](../Page/西澤明訓.md "wikilink")などの選手達とも交流があり、自身のファンクラブ名（F.C.Pyro.）もサッカーにちなんだ名前になっている。
   - LUNA SEA結成初期から2019年まで[ESP](../Page/ESP.md "wikilink")とエンドースメント契約しており、自身のメインであるJ-TVBや「ROSIER」のPVで使われ話題になったJ−VB、レフトジャズベースシェイプを模したJ-RJBなどが有名。中でもJ-TVBシリーズは、本家や廉価版も含め「世界で最も売れたアーティストモデルベース」でもある。
-  - 2019年5月に[フェンダーとエンドースメント契約した事を発表した](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")\[1\]。
+  - 2019年5月に[フェンダーとエンドースメント契約した事を発表した](../Page/フェンダー_\(楽器メーカー\).md "wikilink")\[1\]。
 
 ## ベーシストとして
 
-  - [演奏](../Page/演奏.md "wikilink")の際は基本的には[ピック弾きであるが](https://ja.wikipedia.org/wiki/ピック奏法 "wikilink")、[指弾きで演奏することもある](https://ja.wikipedia.org/wiki/フィンガー・ピッキング "wikilink")。（[MOTHER](../Page/MOTHER_\(Single_Version\).md "wikilink")/[I for You](../Page/I_for_You.md "wikilink")/Crazy About You等）
+  - [演奏](../Page/演奏.md "wikilink")の際は基本的には[ピック弾きであるが](../Page/ピック奏法.md "wikilink")、[指弾きで演奏することもある](../Page/フィンガー・ピッキング.md "wikilink")。（[MOTHER](../Page/MOTHER_\(Single_Version\).md "wikilink")/[I for You](../Page/I_for_You.md "wikilink")/Crazy About You等）
   - 97年のLUNA SEA活動休止期間中に、仲野茂と藤沼伸一（共に[アナーキー](../Page/アナーキー_\(バンド\).md "wikilink")）、[DJ KRUSH](../Page/DJ_KRUSH.md "wikilink")、[澤田純](https://ja.wikipedia.org/wiki/澤田純 "wikilink")とバンド、**[GaZa](https://ja.wikipedia.org/wiki/GaZa "wikilink")**を結成。一度限りのライブを行う。
   - [X JAPANの](../Page/X_JAPAN.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")・[hide](https://ja.wikipedia.org/wiki/hide "wikilink")が欧米で出会ったミュージシャンと組んだバンド、**[zilch](https://ja.wikipedia.org/wiki/hide#zilch "wikilink")**にも参加している。
   - X JAPANのhide、LUNA SEAのINORANと組んだユニット、**MxAxSxS**で[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")「[DANCE 2 NOISE 004](https://ja.wikipedia.org/wiki/DANCE_2_NOISE_004 "wikilink")」に参加している。
-  - [中村獅童 (2代目)](../Page/中村獅童_\(2代目\).md "wikilink")・[TAKUYA](https://ja.wikipedia.org/wiki/TAKUYA "wikilink")（ex.[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")）・FURUTON（ex.[Oblivion Dust](../Page/オブリヴィオン・ダスト.md "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink") etc.）らと共に結成されたバンド、**西麻布アウトサイダーズ**を結成。一度限りのライブを行う。
-  - [仲野茂](https://ja.wikipedia.org/wiki/仲野茂 "wikilink")（[アナーキー](../Page/アナーキー_\(バンド\).md "wikilink") etc.）・[今井寿](../Page/今井寿.md "wikilink")（[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")）・[MOTOKATSU](../Page/宮上元克.md "wikilink")（[THE MAD CAPSULE MARKETS](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink") etc.）らと共に結成されたバンド、**高樹町ミサイルズ**を結成。一度限りのライブを行う。
+  - [中村獅童 (2代目)](../Page/中村獅童_\(2代目\).md "wikilink")・[TAKUYA](../Page/TAKUYA.md "wikilink")（ex.[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")）・FURUTON（ex.[Oblivion Dust](../Page/オブリヴィオン・ダスト.md "wikilink")、[HYDE](https://ja.wikipedia.org/wiki/HYDE "wikilink") etc.）らと共に結成されたバンド、**西麻布アウトサイダーズ**を結成。一度限りのライブを行う。
+  - [仲野茂](https://ja.wikipedia.org/wiki/仲野茂 "wikilink")（[アナーキー](../Page/アナーキー_\(バンド\).md "wikilink") etc.）・[今井寿](../Page/今井寿.md "wikilink")（[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")）・[MOTOKATSU](../Page/宮上元克.md "wikilink")（[THE MAD CAPSULE MARKETS](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink") etc.）らと共に結成されたバンド、**高樹町ミサイルズ**を結成。一度限りのライブを行う。
 
 ## ソロ活動 メンバー
 
@@ -63,7 +63,7 @@
 
 ## ソロ活動 旧メンバー
 
-  - **[Franz Stahl](https://ja.wikipedia.org/wiki/:en:Franz_Stahl "wikilink")**[フランツ・ストール](../Page/フランツ・ストール.md "wikilink")（ex.[フー・ファイターズ](https://ja.wikipedia.org/wiki/フー・ファイターズ "wikilink")、[SCREAM](https://ja.wikipedia.org/wiki/:en:Scream_\(band\) "wikilink")）/ ギター（1997-2005年）
+  - **[Franz Stahl](https://ja.wikipedia.org/wiki/:en:Franz_Stahl "wikilink")**[フランツ・ストール](../Page/フランツ・ストール.md "wikilink")（ex.[フー・ファイターズ](../Page/フー・ファイターズ.md "wikilink")、[SCREAM](https://ja.wikipedia.org/wiki/:en:Scream_\(band\) "wikilink")）/ ギター（1997-2005年）
   - **[藤田高志](../Page/藤田タカシ.md "wikilink")**（ex.[DOOM](../Page/Doom_\(日本のバンド\).md "wikilink")）/ ギター （1997-2014年）
   - **[Scott Garrett](https://ja.wikipedia.org/wiki/:en:Scott_Garrett_\(musician\) "wikilink")**（ex.[THE CULT](https://ja.wikipedia.org/wiki/:en:The_Cult "wikilink")、[Dag Nastyetc](https://ja.wikipedia.org/wiki/:en:Dag_Nasty "wikilink").）/ ドラム （1997-2016年）
 
@@ -75,7 +75,7 @@
   - ソロとなって以降も、年間2本以上の全国ツアーを精力的に行う。
   - 少年時代は「悪ガキ」であった。小学生時代に民家に放火をしたこともある。幸い小火で消し止められ、警察と学校からの注意で済んだ。その際に両親が悲しむ姿を見て、「これ以上悪さをしてはいけない」と思ったとのこと。なお彼の1stアルバム『[PYROMANIA](https://ja.wikipedia.org/wiki/PYROMANIA "wikilink")』は日本語で「放火魔」を意味する。また96年に2人組に絡まれて渋谷の路上でケンカをしている。その時相手をスニーカーで蹴ってしまい、足の指を骨折している。年末に行われた[真冬の野外](https://ja.wikipedia.org/wiki/真冬の野外 "wikilink")で車椅子に乗って登場するパフォーマンスはそのため。
   - 「LUNA SEA 10TH ANNIVERSARY GIG \[NEVER SOLD OUT\] CAPACITY ∞」の開催3日前に起きた突風でステージセットが倒壊した件で、スタッフはメンバーにライヴ延期を勧め、実際にメンバー間でも当日ライヴをやるかやらないかで意見が割れたという（実際に[INORAN](../Page/INORAN.md "wikilink")は「（お客さんが怪我したりしたら）危険だから」という理由でライヴ開催に反対したという。また、「今のご時世だったらこういう形でのライヴは絶対にできない」とも言っている）。しかしメンバーの一部、特にJは頑なにライブの強行を求めた。結果SUGIZOの「廃墟を（観客が怪我をしないように壊れた部分を補強・整理した上で）セットにしよう」という提案により、予定通りライブは開催された。J曰く「俺たちはステージと楽器さえあればパーフェクトでいられる」。
-  - [ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")にて、最多出演記録を持っているアーティストとなっている\[2\]。
+  - [ライブハウス](../Page/ライブハウス.md "wikilink")[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて、最多出演記録を持っているアーティストとなっている\[2\]。
 
 ## ディスコグラフィー
 
@@ -106,7 +106,7 @@
 <td><p>1997年10月22日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BUT_YOU_SAID_I&#39;M_USELESS" title="wikilink">BUT YOU SAID I'M USELESS</a></strong></p></td>
 <td><p>MVDH-10</p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ" title="wikilink">ガンズ・アンド・ローゼズ</a>の<a href="https://ja.wikipedia.org/wiki/スラッシュ_(ミュージシャン)" title="wikilink">スラッシュが参加</a><br />
+<td><p>元<a href="https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ" title="wikilink">ガンズ・アンド・ローゼズ</a>の<a href="../Page/スラッシュ_(ミュージシャン).md" title="wikilink">スラッシュが参加</a><br />
 オリコン最高31位</p></td>
 <td></td>
 </tr>
@@ -1056,17 +1056,17 @@ CTXD-20081:Blu-ray</p></td>
 
 ### 参加作品
 
-| 発売日         | タイトル                                                                                                             | 規格品番       | 収録曲                                                                         |
-| ----------- | ---------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------- |
-| 2005年12月21日 | **[PARADE〜RESPECTIVE TRACKS OF BUCK-TICK〜](../Page/PARADE〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md "wikilink")**       | BVCR-11080 | 2.ICONOCLASM                                                                |
-| 2007年01月24日 | **ロックNIPPON [東海林のり子](../Page/東海林のり子.md "wikilink") Selection**                                                   | UICZ-8019  | 14.BURN OUT                                                                 |
-| 2008年02月27日 | **THE BRAINCASE**                                                                                                | TKCA-73307 | 5曲参加                                                                        |
-| 2013年12月18日 | **[hide](https://ja.wikipedia.org/wiki/hide "wikilink") TRIBUTE VII -Rock SPIRITS-**                             | TKCA-74018 | 3.FLAME                                                                     |
-| 2010年10月30日 | **[Jack Rocks 2010](../Page/ジャックダニエル.md "wikilink")**                                                            | 非売品        | 1.Miss Dizzy                                                                |
-| 2009年04月08日 | **[AGGRESSIVE DOGS](https://ja.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE "wikilink") TRIBUTE ALBUM ～真我～** | DFCL-1560  | 2.蒼き餓狼-Aoki Garou-                                                          |
-| 2015年12月09日 | **G ([minus(-)](https://ja.wikipedia.org/wiki/minus\(-\) "wikilink"))**                                          | AVCD-93168 | 2.Peepshow                                                                  |
-| 2017年05月31日 | **SINNERS - EP**                                                                                                 | KICS-3497  | 2.TRIGGER feat. [J](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink") |
-| 未定          | **REAL×EYEZ**                                                                                                    | 未定         | REAL×EYEZ （J×[Takanori Nishikawa名義](../Page/西川貴教.md "wikilink")）            |
+| 発売日         | タイトル                                                                                                             | 規格品番       | 収録曲                                                              |
+| ----------- | ---------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------- |
+| 2005年12月21日 | **[PARADE〜RESPECTIVE TRACKS OF BUCK-TICK〜](../Page/PARADE〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md "wikilink")**       | BVCR-11080 | 2.ICONOCLASM                                                     |
+| 2007年01月24日 | **ロックNIPPON [東海林のり子](../Page/東海林のり子.md "wikilink") Selection**                                                   | UICZ-8019  | 14.BURN OUT                                                      |
+| 2008年02月27日 | **THE BRAINCASE**                                                                                                | TKCA-73307 | 5曲参加                                                             |
+| 2013年12月18日 | **[hide](https://ja.wikipedia.org/wiki/hide "wikilink") TRIBUTE VII -Rock SPIRITS-**                             | TKCA-74018 | 3.FLAME                                                          |
+| 2010年10月30日 | **[Jack Rocks 2010](../Page/ジャックダニエル.md "wikilink")**                                                            | 非売品        | 1.Miss Dizzy                                                     |
+| 2009年04月08日 | **[AGGRESSIVE DOGS](https://ja.wikipedia.org/wiki/AGGRESSIVE_DOGS_a.k.a_UZI-ONE "wikilink") TRIBUTE ALBUM ～真我～** | DFCL-1560  | 2.蒼き餓狼-Aoki Garou-                                               |
+| 2015年12月09日 | **G ([minus(-)](https://ja.wikipedia.org/wiki/minus\(-\) "wikilink"))**                                          | AVCD-93168 | 2.Peepshow                                                       |
+| 2017年05月31日 | **SINNERS - EP**                                                                                                 | KICS-3497  | 2.TRIGGER feat. [J](../Page/J_\(ミュージシャン\).md "wikilink")         |
+| 未定          | **REAL×EYEZ**                                                                                                    | 未定         | REAL×EYEZ （J×[Takanori Nishikawa名義](../Page/西川貴教.md "wikilink")） |
 
 ### 書籍
 
@@ -1249,9 +1249,9 @@ CTXD-20081:Blu-ray</p></td>
 
   - [LUNA SEA](../Page/LUNA_SEA.md "wikilink")
       - [RYUICHI](../Page/河村隆一.md "wikilink")
-      - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")
+      - [SUGIZO](../Page/SUGIZO.md "wikilink")
       - [INORAN](../Page/INORAN.md "wikilink")
-      - [真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")
+      - [真矢](../Page/真矢_\(ドラマー\).md "wikilink")
   - [hide](https://ja.wikipedia.org/wiki/hide "wikilink")
   - [西川貴教](../Page/西川貴教.md "wikilink")
   - [DIR EN GREY](../Page/DIR_EN_GREY.md "wikilink")

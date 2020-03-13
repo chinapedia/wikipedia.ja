@@ -1,15 +1,15 @@
 > この記事は[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX)から翻訳されています。
 
 
-**SHIBUYA-AX**（シブヤ-アックス）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")でかつて営業していた[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")。収容人数は約1,700人。2000年12月にオープンし、2014年5月をもって営業を終了した。この間、3671公演を行い、延べ440万人の観客を動員した。
+**SHIBUYA-AX**（シブヤ-アックス）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")でかつて営業していた[ライブハウス](../Page/ライブハウス.md "wikilink")。収容人数は約1,700人。2000年12月にオープンし、2014年5月をもって営業を終了した。この間、3671公演を行い、延べ440万人の観客を動員した。
 
 ## 概要
 
 運営は[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")株式会社と株式会社[電通](../Page/電通.md "wikilink")\[1\]。[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")の駐車場を[日本スポーツ振興センター](../Page/日本スポーツ振興センター.md "wikilink")から賃貸した仮設施設としてオープン\[2\]\[3\]。杮落し公演は[2000年](../Page/2000年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に[Dragon Ashによって行われた](../Page/Dragon_Ash.md "wikilink")\[4\]。
 
-仮設施設としてオープンしたのは、国立代々木競技場周辺は[第二種中高層住居専用地域](https://ja.wikipedia.org/wiki/第二種中高層住居専用地域 "wikilink")も指定されており、興行施設が建てられなかったためである\[5\]。若者に人気の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")のライブを中心に使用されていた\[6\]。
+仮設施設としてオープンしたのは、国立代々木競技場周辺は[第二種中高層住居専用地域](../Page/第二種中高層住居専用地域.md "wikilink")も指定されており、興行施設が建てられなかったためである\[5\]。若者に人気の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")・[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")のライブを中心に使用されていた\[6\]。
 
-オールスタンディング時、合計1500人超〜2000人弱規模の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")は数少なく、[2000年代](../Page/2000年代.md "wikilink")前半において東京では本会場と[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")（旧施設）だけであった\[7\]。赤坂BLITZが[TBSの再開発事業のため](../Page/東京放送ホールディングス.md "wikilink")、2003年9月から2008年3月まで閉鎖された影響で、一時期は同規模を持つ唯一\[8\]のライブハウス会場となり、SHIBUYA-AXの公演数も多くなった。
+オールスタンディング時、合計1500人超〜2000人弱規模の[ライブハウス](../Page/ライブハウス.md "wikilink")は数少なく、[2000年代](../Page/2000年代.md "wikilink")前半において東京では本会場と[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")（旧施設）だけであった\[7\]。赤坂BLITZが[TBSの再開発事業のため](../Page/東京放送ホールディングス.md "wikilink")、2003年9月から2008年3月まで閉鎖された影響で、一時期は同規模を持つ唯一\[8\]のライブハウス会場となり、SHIBUYA-AXの公演数も多くなった。
 
 しかし、スポーツ振興とは無関係であったことや、仮設施設でありながら10年以上も営業していたことが問題視された\[9\]。また、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")秋の[事業仕分けでも](https://ja.wikipedia.org/wiki/事業仕分け_\(行政刷新会議\) "wikilink")「目的外の業務で存在が好ましくない」と指摘された\[10\]。
 
@@ -32,7 +32,7 @@
 ## 関連項目
 
   - [汐留AX（SHIODOME-AX）](../Page/日本テレビタワー.md "wikilink")
-  - [ステラボール](https://ja.wikipedia.org/wiki/アクアパーク品川#ステラボール "wikilink") - 2005年4月にオープン。オールスタンディング時、合計1,884人と数少ない1500人超〜2000人弱規模の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")。
+  - [ステラボール](https://ja.wikipedia.org/wiki/アクアパーク品川#ステラボール "wikilink") - 2005年4月にオープン。オールスタンディング時、合計1,884人と数少ない1500人超〜2000人弱規模の[ライブハウス](../Page/ライブハウス.md "wikilink")。
   - [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink") - オールスタンディング時、旧施設の1,944人に比べ、現施設は1,298人と減少しており、ひとつ下の規模に衣替えした。
 
 ## 脚注

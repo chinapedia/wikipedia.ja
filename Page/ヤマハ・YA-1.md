@@ -7,13 +7,13 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Yamaha_YA-1_and_DKW_RT125.jpg "wikilink") オートバイ部門を分社化（現在の[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")）する直前の日本楽器製造株式会社（現[ヤマハ](../Page/ヤマハ.md "wikilink")）が、最初にオートバイの製造に乗り出して発売したオートバイであり、ヤマハ発動機のオートバイのルーツである。排気量は125cc、最高出力5.6[馬力](../Page/馬力.md "wikilink")、最大トルク0.96kgm。愛称は**赤トンボ**。
 
-その設計は、ドイツ・[DKW](https://ja.wikipedia.org/wiki/DKW "wikilink")（デーカーヴェー）社が開発した小型オートバイの代表的モデル・[RT125](https://ja.wikipedia.org/wiki/:de:RT_125 "wikilink")\[1\]に範をとった、同時代に多く見られた設計の一つであるが\[2\]、スタイリングには[GKデザイングループ](https://ja.wikipedia.org/wiki/GKデザイングループ "wikilink")が関与している\[3\]。1954年10月に発表。翌1955年1月より生産開始、2月発売。
+その設計は、ドイツ・[DKW](../Page/DKW.md "wikilink")（デーカーヴェー）社が開発した小型オートバイの代表的モデル・[RT125](https://ja.wikipedia.org/wiki/:de:RT_125 "wikilink")\[1\]に範をとった、同時代に多く見られた設計の一つであるが\[2\]、スタイリングには[GKデザイングループ](https://ja.wikipedia.org/wiki/GKデザイングループ "wikilink")が関与している\[3\]。1954年10月に発表。翌1955年1月より生産開始、2月発売。
 
 まだ黎明期であった日本の[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")において活躍を残しており、発売された1955年7月10日の第3回[富士登山レース](https://ja.wikipedia.org/wiki/富士登山レース "wikilink")ではウルトラライト級の優勝を果たす。これはヤマハ発動機創立から10日目のことであった。さらに3ヵ月後、第1回[浅間火山レース](https://ja.wikipedia.org/wiki/浅間火山レース "wikilink")では125ccクラスにおいて1位から4位までを独占するという成果を収めた。これにより、楽器メーカーとしてのイメージしかなかった「ヤマハ」の名を、モーターサイクルファンの間にも定着させるきっかけを作った。
 
 ## 関連項目
 
-  - [ヤマハ・YB](https://ja.wikipedia.org/wiki/ヤマハ・YB "wikilink")
+  - [ヤマハ・YB](../Page/ヤマハ・YB.md "wikilink")
   - [野村順亮](https://ja.wikipedia.org/wiki/野村順亮 "wikilink")
 
 ## 外部リンク

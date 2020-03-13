@@ -5,9 +5,9 @@
 
 ## 概要
 
-2002年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の改編で、25時台の番組枠（2000年3月までの『[UP'S〜Ultra Performer'S radio〜](https://ja.wikipedia.org/wiki/UP'S〜Ultra_Performer'S_radio〜 "wikilink")』）と『[Be@t B@by\!\!](https://ja.wikipedia.org/wiki/Be@t_B@by!! "wikilink")』枠（TBSでは24時台）をもって統一ブランドとした『**[JUNK](../Page/JUNK.md "wikilink")**』が開始することになり、それを記念して開催された。『JUNK』全曜日（当時は月 - 金）と土日の深夜番組のパーソナリティが出演した。イベントの模様は参加している各番組の中で放送された。
+2002年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の改編で、25時台の番組枠（2000年3月までの『[UP'S〜Ultra Performer'S radio〜](../Page/UP'S〜Ultra_Performer'S_radio〜.md "wikilink")』）と『[Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink")』枠（TBSでは24時台）をもって統一ブランドとした『**[JUNK](../Page/JUNK.md "wikilink")**』が開始することになり、それを記念して開催された。『JUNK』全曜日（当時は月 - 金）と土日の深夜番組のパーソナリティが出演した。イベントの模様は参加している各番組の中で放送された。
 
-当イベントに参加した伊集院光は、日曜午後に生放送されていた『[伊集院光 日曜日の秘密基地](../Page/伊集院光_日曜日の秘密基地.md "wikilink")』（当時は15:00 - 17:30）に出演していたが、当イベントは日曜日17:00の開演だったため、当日は[FMヨコハマのスタジオから放送した](https://ja.wikipedia.org/wiki/横浜エフエム放送 "wikilink")。こうした事情から、イベントの後援にはFMヨコハマが参加していた。
+当イベントに参加した伊集院光は、日曜午後に生放送されていた『[伊集院光 日曜日の秘密基地](../Page/伊集院光_日曜日の秘密基地.md "wikilink")』（当時は15:00 - 17:30）に出演していたが、当イベントは日曜日17:00の開演だったため、当日は[FMヨコハマのスタジオから放送した](../Page/横浜エフエム放送.md "wikilink")。こうした事情から、イベントの後援にはFMヨコハマが参加していた。
 
 この後、『JUNK』の公開イベントは、2005年に「JUNK夏祭り2005」、2011年と2013年に「JUNK大集合\!」がなど開催されている（[JUNK\#当番組枠のイベント](https://ja.wikipedia.org/wiki/JUNK#当番組枠のイベント "wikilink")を参照）。
 
@@ -26,14 +26,14 @@
 ### JUNK24時台（Be@t B@by\!\!）
 
   - [今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")（[今井絵理子 HOT LINK](../Page/今井絵理子_HOT_LINK.md "wikilink")）
-  - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")（[ゴスペラーズ 真夜中のコーラス](https://ja.wikipedia.org/wiki/ゴスペラーズ_真夜中のコーラス "wikilink")）
+  - [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")（[ゴスペラーズ 真夜中のコーラス](../Page/ゴスペラーズ_真夜中のコーラス.md "wikilink")）
   - [タンポポ](../Page/タンポポ_\(ハロー!プロジェクト\).md "wikilink")（[タンポポ編集部 OH-SO-RO\!](../Page/タンポポ編集部_OH-SO-RO!.md "wikilink")）
   - [DA PUMP](../Page/DA_PUMP.md "wikilink")（[DA PUMP ON THE RADIO〜sound freak show〜](https://ja.wikipedia.org/wiki/DA_PUMP_ON_THE_RADIO〜sound_freak_show〜 "wikilink")） - 事前収録により出演。
 
 ### 土日深夜
 
   - [松浦亜弥](../Page/松浦亜弥.md "wikilink")（[つんくばん](https://ja.wikipedia.org/wiki/つんくばん "wikilink")）
-  - [キャイ〜ン](../Page/キャイ〜ン.md "wikilink")（[ヤンマガ伝説 キャイ〜ン編集部 なんですか?](https://ja.wikipedia.org/wiki/ヤンマガ伝説キャイ〜ンDAあ゛〜ん "wikilink")）
+  - [キャイ〜ン](../Page/キャイ〜ン.md "wikilink")（[ヤンマガ伝説 キャイ〜ン編集部 なんですか?](../Page/ヤンマガ伝説キャイ〜ンDAあ゛〜ん.md "wikilink")）
   - [アリtoキリギリス](../Page/アリtoキリギリス.md "wikilink")（[量産型アリtoキリギリス](https://ja.wikipedia.org/wiki/量産型アリtoキリギリス "wikilink")）
 
 ### ゲスト

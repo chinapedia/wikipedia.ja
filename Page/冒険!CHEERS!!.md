@@ -1,7 +1,7 @@
 > この記事は[!CHEERS!!](https://ja.wikipedia.org/wiki/!CHEERS!!)から翻訳されています。
 
 
-『**冒険\!CHEERS\!\!**』（ぼうけん\!チアーズ\!\!）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[アウトドア](../Page/アウトドア.md "wikilink")を中心とした体験番組。小学生から中学生、大人の若手タレントが野外で様々ないろいろな体験をする。
+『**冒険\!CHEERS\!\!**』（ぼうけん\!チアーズ\!\!）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2003年](../Page/2003年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送された[アウトドア](../Page/アウトドア.md "wikilink")を中心とした体験番組。小学生から中学生、大人の若手タレントが野外で様々ないろいろな体験をする。
 
 [沖縄県](../Page/沖縄県.md "wikilink")を含む全国31局（[モグモグGOMBO](../Page/モグモグGOMBO.md "wikilink")がネットされなかった地域でも数日遅れで放送されるように）と[BS日テレで放送されていた](../Page/BS日本.md "wikilink")。
 
@@ -29,11 +29,11 @@
   - [大束友紀](https://ja.wikipedia.org/wiki/大束友紀 "wikilink")
   - [中尾明慶](../Page/中尾明慶.md "wikilink")
   - [悠城早矢](../Page/悠城早矢.md "wikilink")
-  - [川口翔平](https://ja.wikipedia.org/wiki/川口翔平 "wikilink")
+  - [川口翔平](../Page/川口翔平.md "wikilink")
   - [森下翔梧](../Page/森下翔梧.md "wikilink")
   - [粕谷由弥](https://ja.wikipedia.org/wiki/粕谷由弥 "wikilink")
   - [斉藤翔](https://ja.wikipedia.org/wiki/斉藤翔 "wikilink")
-  - [石井正則](https://ja.wikipedia.org/wiki/石井正則 "wikilink")（「ツリーハウス造り」など番組初期に参加）
+  - [石井正則](../Page/石井正則.md "wikilink")（「ツリーハウス造り」など番組初期に参加）
   - [杉浦太陽](https://ja.wikipedia.org/wiki/杉浦太陽 "wikilink")（番組後期「廃線復活」から参加）
   - [細田よしひこ](../Page/細田善彦.md "wikilink")（番組後期「廃線復活」から参加）
   - [伊藤鉄哉](https://ja.wikipedia.org/wiki/伊藤鉄哉 "wikilink")（番組後期「廃線復活」から参加）
@@ -43,7 +43,7 @@
 
 ### ナレーション
 
-  - [安元洋貴](https://ja.wikipedia.org/wiki/安元洋貴 "wikilink")
+  - [安元洋貴](../Page/安元洋貴.md "wikilink")
 
 ## スタッフ
 
@@ -79,7 +79,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -225,7 +225,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>（FBS）</p></td>
 <td></td>
 <td></td>
@@ -315,6 +315,6 @@
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビの教養番組](https://ja.wikipedia.org/wiki/Category:日本テレビの教養番組 "wikilink") [Category:日本テレビのドキュメンタリー番組](https://ja.wikipedia.org/wiki/Category:日本テレビのドキュメンタリー番組 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:日本テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:日本テレビの一社提供番組 "wikilink") [Category:イオングループ](https://ja.wikipedia.org/wiki/Category:イオングループ "wikilink") [Category:冒険作品](https://ja.wikipedia.org/wiki/Category:冒険作品 "wikilink") [Category:野外教育](https://ja.wikipedia.org/wiki/Category:野外教育 "wikilink")
 
-1.  [プロ野球](../Page/プロ野球.md "wikilink")[ナイター](../Page/ナイター.md "wikilink")[中継](https://ja.wikipedia.org/wiki/中継 "wikilink")（[阪神](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")×[巨人の場合](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、18:30から全国ネットより30分早くローカル編成で組む場合があった。その場合は、日曜13:30 - 14:00の枠で振替放送。
+1.  [プロ野球](../Page/プロ野球.md "wikilink")[ナイター](../Page/ナイター.md "wikilink")[中継](https://ja.wikipedia.org/wiki/中継 "wikilink")（[阪神](../Page/阪神タイガース.md "wikilink")×[巨人の場合](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、18:30から全国ネットより30分早くローカル編成で組む場合があった。その場合は、日曜13:30 - 14:00の枠で振替放送。
 2.  [広島](../Page/広島東洋カープ.md "wikilink")×巨人戦を放送する場合、18:30から全国ネットより30分早くローカル編成で組む場合があった。その場合は、日曜13:30 - 14:00の枠で振替放送。
 3.  スポーツ中継による時間の変動がたまにあった。[TBS](../Page/TBSテレビ.md "wikilink")『[世界遺産](https://ja.wikipedia.org/wiki/THE世界遺産 "wikilink")』（[SONY提供](../Page/ソニー.md "wikilink")、日曜23:30 - 24:00）を遅れネットしていたため。

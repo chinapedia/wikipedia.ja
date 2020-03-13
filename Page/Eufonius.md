@@ -416,13 +416,13 @@
   - [恋旅〜True Tours Nanto〜](https://ja.wikipedia.org/wiki/恋旅〜True_Tours_Nanto "wikilink") 音楽集
       - 2013年5月24日発売 / ランティス / LZM-2101（南砺市限定版）・LZM-2102
       - sympathetic world
-          - 作詞：riya / 作曲・編曲：[ただすけ](https://ja.wikipedia.org/wiki/ただすけ "wikilink")
+          - 作詞：riya / 作曲・編曲：[ただすけ](../Page/ただすけ.md "wikilink")
       - 君の引力
           - 作曲・作詞：riya / 編曲：ただすけ
       - Paslaptis
           - 作詞・作曲：riya / 編曲：[bermei.inazawa](https://ja.wikipedia.org/wiki/bermei.inazawa "wikilink")
   - HOOKSOFT Vocal Collection My Smile Pocket
-      - 2014年6月26日発売 / [HOOKSOFT](https://ja.wikipedia.org/wiki/HOOKSOFT "wikilink") / LPTN-0016
+      - 2014年6月26日発売 / [HOOKSOFT](../Page/HOOKSOFT.md "wikilink") / LPTN-0016
       - LovelySmile
           - 作詞：riya / 作曲・編曲：菊地創
   - [紅い瞳に映るセカイ](https://ja.wikipedia.org/wiki/いろとりどりのセカイ "wikilink") Original Soundtrack Plus Plus
@@ -451,7 +451,7 @@
       - [流れる雲を追いかけて](https://ja.wikipedia.org/wiki/R_\(白石涼子のアルバム\) "wikilink")
   - [伊藤静](../Page/伊藤静.md "wikilink")
       - デリデリ×スタイル
-  - [辻あゆみ](https://ja.wikipedia.org/wiki/辻あゆみ "wikilink")
+  - [辻あゆみ](../Page/辻あゆみ.md "wikilink")
       - wish
   - [野中藍](../Page/野中藍.md "wikilink")
       - [ゆきなみき](../Page/しあわせのいろ.md "wikilink")

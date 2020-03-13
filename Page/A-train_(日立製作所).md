@@ -5,7 +5,7 @@
 
 ## 概要
 
-日立製作所が「[環境負荷](https://ja.wikipedia.org/wiki/環境負荷 "wikilink")の低減」「[ライフサイクルコスト](../Page/ライフサイクルコスト.md "wikilink")の低減」「今後の[熟練者就業人口の減少への対応](https://ja.wikipedia.org/wiki/技術者不足 "wikilink")」をコンセプトに鉄道車両の生産方式を抜本的に見直したもので、[アルミニウム合金](https://ja.wikipedia.org/wiki/アルミニウム合金 "wikilink")のオール[ダブルスキン構体および自立型モジュール](../Page/ダブルスキン構造.md "wikilink")[艤装](../Page/艤装.md "wikilink")を核とした車体トータルシステムとして構築したものである。従来の鉄道車両にはないシンプルで簡素な構造となったため、数万点あった部品点数が百数点まで削減された。
+日立製作所が「[環境負荷](https://ja.wikipedia.org/wiki/環境負荷 "wikilink")の低減」「[ライフサイクルコスト](../Page/ライフサイクルコスト.md "wikilink")の低減」「今後の[熟練者就業人口の減少への対応](https://ja.wikipedia.org/wiki/技術者不足 "wikilink")」をコンセプトに鉄道車両の生産方式を抜本的に見直したもので、[アルミニウム合金](../Page/アルミニウム合金.md "wikilink")のオール[ダブルスキン構体および自立型モジュール](../Page/ダブルスキン構造.md "wikilink")[艤装](../Page/艤装.md "wikilink")を核とした車体トータルシステムとして構築したものである。従来の鉄道車両にはないシンプルで簡素な構造となったため、数万点あった部品点数が百数点まで削減された。
 
 具体的には、以下のような特色を持つ。
 
@@ -20,7 +20,7 @@
     さらに車両の先頭部分、[運転台部分](../Page/操縦席.md "wikilink")、客室扉用のドアエンジン、中・長距離列車に必要な[トイレなども](https://ja.wikipedia.org/wiki/便所#列車のトイレ "wikilink")、別工程で組立てた[モジュール](../Page/モジュール.md "wikilink")を取り付けるようになっている
   - [統合型制御伝送装置](https://ja.wikipedia.org/wiki/鉄道車両のモニタ装置#制御伝送装置 "wikilink")「**ATI**」の採用
     「ATI (**A**utonomous **T**rain **I**ntegration system)」を採用し、従来機能ごとに回路を設けていた構造をデジタル化しシリアル伝送とした。これにより、従来の回路に使用されていた100V信号線に比べて軽量化・省資材化が可能となった。また、乗務員室には編成のコンディションを各車ごと・各電動車ユニットごとに表示するモニタが配置され、乗務員の負担軽減を図っている。これに合わせて、制御方式は（[電車](../Page/電車.md "wikilink")の場合）通常[VVVFインバータ制御となる](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")。他、減速から停止まで一切物理ブレーキ（空気ブレーキ）を使用しない[全電気ブレーキの採用などを可能にしている](../Page/純電気ブレーキ.md "wikilink")。また、自動放送など乗務員補助の機能も付加されている。
-    このATIは、日立製作所独自の[アーキテクチャ](https://ja.wikipedia.org/wiki/アーキテクチャ "wikilink")を採用しているが、規格化し複数の鉄道会社に仕様の細部のみを変更して納入するA-Train自体のコンセプトにより、幅広く普及させることでコストを軽減させている。
+    このATIは、日立製作所独自の[アーキテクチャ](../Page/アーキテクチャ.md "wikilink")を採用しているが、規格化し複数の鉄道会社に仕様の細部のみを変更して納入するA-Train自体のコンセプトにより、幅広く普及させることでコストを軽減させている。
 
 ## A-trainの採用例
 
@@ -30,7 +30,7 @@
       - [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）
           - [E257系電車](../Page/JR東日本E257系電車.md "wikilink")\[2\]
           - [EV-E801系電車](https://ja.wikipedia.org/wiki/JR東日本EV-E801系電車 "wikilink")
-      - [西日本旅客鉄道](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")（JR西日本）
+      - [西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）
           - [683系電車](../Page/JR西日本683系電車.md "wikilink")\[3\]
       - [九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）
           - [815系電車](../Page/JR九州815系電車.md "wikilink")\[4\]以降の[在来線](../Page/在来線.md "wikilink")の[アルミ製](https://ja.wikipedia.org/wiki/アルミニウム合金製の鉄道車両 "wikilink")[電車](../Page/電車.md "wikilink")全形式\[5\]
@@ -61,7 +61,7 @@
       - [名古屋市交通局](../Page/名古屋市交通局.md "wikilink")
           - [N3000形電車](https://ja.wikipedia.org/wiki/名古屋市交通局N3000形電車 "wikilink")\[12\]
       - [福岡市交通局](../Page/福岡市交通局.md "wikilink")
-          - [3000系電車](https://ja.wikipedia.org/wiki/福岡市交通局3000系電車 "wikilink")
+          - [3000系電車](../Page/福岡市交通局3000系電車.md "wikilink")
   - 日本国外
       - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")
           - [台湾鉄路管理局TEMU1000型電車](https://ja.wikipedia.org/wiki/台湾鉄路管理局TEMU1000型電車 "wikilink")
@@ -97,7 +97,7 @@
 ## 関連項目
 
   - [日立製作所笠戸事業所](https://ja.wikipedia.org/wiki/日立製作所笠戸事業所 "wikilink")
-  - [通勤・近郊電車の標準仕様ガイドライン](https://ja.wikipedia.org/wiki/通勤・近郊電車の標準仕様ガイドライン "wikilink")
+  - [通勤・近郊電車の標準仕様ガイドライン](../Page/通勤・近郊電車の標準仕様ガイドライン.md "wikilink")
   - [アルミニウム合金製の鉄道車両](https://ja.wikipedia.org/wiki/アルミニウム合金製の鉄道車両 "wikilink")
   - [efACE](https://ja.wikipedia.org/wiki/efACE "wikilink") - [川崎重工業](../Page/川崎重工業.md "wikilink")による類似コンセプトの鉄道車両。こちらはアルミ車に加えて[ステンレス車も存在する](../Page/オールステンレス車両.md "wikilink")。
   - [sustina](https://ja.wikipedia.org/wiki/sustina "wikilink") - [東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")→[総合車両製作所](https://ja.wikipedia.org/wiki/総合車両製作所 "wikilink")による類似コンセプトの鉄道車両。こちらはステンレス車のみである。
@@ -117,7 +117,7 @@
 7.  3・4次車のみ。川崎重工業で製造した1・2・5次車は、同社独自の「[efACE](https://ja.wikipedia.org/wiki/efACE "wikilink")」コンセプトで製造されている。
 8.  10両編成のみ。8両編成は近畿車輛で製造。
 9.  [相鉄、東急線のトンネルくぐれる新型車](http://kenplatz.nikkeibp.co.jp/atcl/knpnews/14/660651/00048/?P=2) - 日経コンストラクション 2017年6月12日発信、同年6月13日閲覧。
-10. [9300系](../Page/阪急9300系電車.md "wikilink")・[9000系の一部編成は](https://ja.wikipedia.org/wiki/阪急9000系電車 "wikilink")[アルナ車両](../Page/アルナ車両.md "wikilink")が艤装を担当。
+10. [9300系](../Page/阪急9300系電車.md "wikilink")・[9000系の一部編成は](../Page/阪急9000系電車.md "wikilink")[アルナ車両](../Page/アルナ車両.md "wikilink")が艤装を担当。
 11. 全車川崎重工業製だが、[日立製作所](../Page/日立製作所.md "wikilink")の開発した「A-train」の技術を用いており、これを川崎重工業がライセンス生産するという形になっている。
 12. 第1編成のみ。第2編成以降は日本車輌製造製で[ステンレス構体](../Page/ステンレス鋼.md "wikilink")「[日車式ブロック工法](https://ja.wikipedia.org/wiki/ブロック工法#鉄道車両 "wikilink")」を採用。
 13. ただし、製造はSLS重工業。

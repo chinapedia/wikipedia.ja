@@ -5,7 +5,7 @@
 
 ## 一般名称
 
-  - [オーバードース](https://ja.wikipedia.org/wiki/オーバードース "wikilink") () - [薬物](../Page/薬物.md "wikilink")（狭義には特に[麻薬](../Page/麻薬.md "wikilink")）を濫用あるいは過量摂取すること。
+  - [オーバードース](../Page/オーバードース.md "wikilink") () - [薬物](../Page/薬物.md "wikilink")（狭義には特に[麻薬](../Page/麻薬.md "wikilink")）を濫用あるいは過量摂取すること。
   - [オーバードライブ](../Page/オーバードライブ.md "wikilink") ()
       - [オーバークロック](../Page/オーバークロック.md "wikilink")に同じ。コンピュータの[CPU](../Page/CPU.md "wikilink")の動作周波数を上げてパフォーマンスを上げること。
       - [自動車の変速機構で減速比が](../Page/マニュアルトランスミッション.md "wikilink")1対1未満の増速ギア。
@@ -13,7 +13,7 @@
   - [オリーブドラブ](../Page/オリーブドラブ.md "wikilink") () - 軍用車両などに使われる色。
   - 疾病
       - [起立性調節障害](../Page/起立性調節障害.md "wikilink") () - 自律神経失調症。
-      - [職業病](https://ja.wikipedia.org/wiki/職業病 "wikilink") ()
+      - [職業病](../Page/職業病.md "wikilink") ()
       - [離断性骨軟骨炎](https://ja.wikipedia.org/wiki/離断性骨軟骨炎 "wikilink") ()
   - [オープンデスク](../Page/インターンシップ.md "wikilink") ()。
   - [アウトバンドダイヤル](https://ja.wikipedia.org/wiki/アウトバンドダイヤル "wikilink") () - アナログ電話回線の方式。

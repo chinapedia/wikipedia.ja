@@ -5,7 +5,7 @@
 
 ## 歴史
 
-元々は「[沖縄アクターズスクール](https://ja.wikipedia.org/wiki/沖縄アクターズスクール "wikilink")」内における20人ほどのトップ選抜グループの総称であり\[1\]、現[kiroro](https://ja.wikipedia.org/wiki/kiroro "wikilink")の玉城千春も一時在籍していた。そこから新たなチームが編成され、最終段階では女子5人男子2人（そのうち一人は牧野アンナの実兄）のメンバーとなるが、デビュー前に変更されて女子5人グループとなる。
+元々は「[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")」内における20人ほどのトップ選抜グループの総称であり\[1\]、現[kiroro](https://ja.wikipedia.org/wiki/kiroro "wikilink")の玉城千春も一時在籍していた。そこから新たなチームが編成され、最終段階では女子5人男子2人（そのうち一人は牧野アンナの実兄）のメンバーとなるが、デビュー前に変更されて女子5人グループとなる。
 
 名前の由来はスクールの校長である[マキノ正幸](https://ja.wikipedia.org/wiki/マキノ正幸 "wikilink")の「君たちはまだタレントではなく猿の段階、でもただの猿（モンキー）じゃかわいそうだから”スーパー・モンキーズ”にしよう！」の一言がきっかけであると当時の[雑誌](../Page/雑誌.md "wikilink")インタビューなどで発言している\[2\]。
 
@@ -13,11 +13,11 @@
 
 ### 「スーパーモンキーズスペシャル」時代（1991年〜）
 
-1991年、「SUPER MONKEY'S」から選抜された女子5人男子2人のメンバーでグループを結成。メンバー全員が[琉球空手の初段で](../Page/手_\(沖縄武術\).md "wikilink")、デビュー前に[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")『HOT NIGHT沖縄アイランド』のオープニングで空手パフォーマンスを演じるなど地元番組に度々出演しており、それが東京のテレビスタッフの目に留まったことがきっかけで全国ネットのテレビ出演が決まる。
+1991年、「SUPER MONKEY'S」から選抜された女子5人男子2人のメンバーでグループを結成。メンバー全員が[琉球空手の初段で](../Page/手_\(沖縄武術\).md "wikilink")、デビュー前に[琉球放送](../Page/琉球放送.md "wikilink")『HOT NIGHT沖縄アイランド』のオープニングで空手パフォーマンスを演じるなど地元番組に度々出演しており、それが東京のテレビスタッフの目に留まったことがきっかけで全国ネットのテレビ出演が決まる。
 
 ### 「SUPER MONKEY'S」時代（1992年4月 - 1993年4月）
 
-全国出演をきっかけに、安室奈美恵、[牧野アンナ](https://ja.wikipedia.org/wiki/牧野アンナ "wikilink")、澤岻奈々子（95年頃に「沢詩」に改名、後の[Nana](https://ja.wikipedia.org/wiki/Nana_\(歌手\) "wikilink")）、天久美奈子（後の[Mina](https://ja.wikipedia.org/wiki/Mina_\(歌手\) "wikilink")）、[新垣寿子](https://ja.wikipedia.org/wiki/新垣寿子 "wikilink")の女子5人グループとなる。それに伴い、グループ名もアクターズ内選抜の「SUPER MONKEY'S」をそのまま代用。
+全国出演をきっかけに、安室奈美恵、[牧野アンナ](../Page/牧野アンナ.md "wikilink")、澤岻奈々子（95年頃に「沢詩」に改名、後の[Nana](https://ja.wikipedia.org/wiki/Nana_\(歌手\) "wikilink")）、天久美奈子（後の[Mina](https://ja.wikipedia.org/wiki/Mina_\(歌手\) "wikilink")）、[新垣寿子](https://ja.wikipedia.org/wiki/新垣寿子 "wikilink")の女子5人グループとなる。それに伴い、グループ名もアクターズ内選抜の「SUPER MONKEY'S」をそのまま代用。
 
 1992年4月より、[TBS系](../Page/TBSテレビ.md "wikilink")『[KATO\&KENテレビバスターズ](../Page/KATO&KENテレビバスターズ.md "wikilink")』のアシスタント（バスターズガール）としての出演や、[ロッテ](../Page/ロッテ.md "wikilink")「シリアルアイス」のCMに初出演し、本格的に芸能活動をスタート。また同時期に、[日本テレビ系バラエティ番組](../Page/日本テレビ放送網.md "wikilink")『[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")』に琉球空手少女として出演した。
 
@@ -33,7 +33,7 @@
 
 名実共に安室メインの体制となり、1994年7月にリリースした「[PARADISE TRAIN](https://ja.wikipedia.org/wiki/PARADISE_TRAIN "wikilink")」以降は単独でボーカルを務めた。翌8月より、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[夜もヒッパレ一生けんめい](../Page/夜も一生けんめい。.md "wikilink")』に準レギュラーとして出演するようになる。10月、新垣が沖縄アクターズスクールの講師となるためグループを脱退。新垣と入れ替わる形で松田律子（後の[Lina](https://ja.wikipedia.org/wiki/Lina_\(歌手\) "wikilink")）、安室の同級生で同じ中学校に通っていた宮内玲奈（後の[Reina](https://ja.wikipedia.org/wiki/Reina_\(歌手\) "wikilink")）が加入し、デビュー時以来の5人体制となる。
 
-1995年1月、[MAX松浦プロデュースによるシングル](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")「[TRY ME 〜私を信じて〜](https://ja.wikipedia.org/wiki/TRY_ME_〜私を信じて〜 "wikilink")」をリリース。[ユーロビート](../Page/ユーロビート.md "wikilink")のカバーでもある同曲は、初登場の49位からじわじわと上昇し、初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")TOP10入りを果たすと同時に累計でも70万枚を超える。その後も同路線で立て続けにヒットを生み出す\[4\]。4月から日本テレビ系音楽バラエティ『[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")』にレギュラー出演。同時に安室を除く4人が[MAXとして活動を開始する](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。但し、MAXのCDデビューや安室の[avex移籍後も](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、安室のシングル「[Body Feels EXIT](../Page/Body_Feels_EXIT.md "wikilink")」、「[Chase the Chance](../Page/Chase_the_Chance.md "wikilink")」ではバックダンサーとして4人が参加しているほか、ライブもグループ名義で行われており、5人での活動は継続された。
+1995年1月、[MAX松浦プロデュースによるシングル](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")「[TRY ME 〜私を信じて〜](https://ja.wikipedia.org/wiki/TRY_ME_〜私を信じて〜 "wikilink")」をリリース。[ユーロビート](../Page/ユーロビート.md "wikilink")のカバーでもある同曲は、初登場の49位からじわじわと上昇し、初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")TOP10入りを果たすと同時に累計でも70万枚を超える。その後も同路線で立て続けにヒットを生み出す\[4\]。4月から日本テレビ系音楽バラエティ『[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")』にレギュラー出演。同時に安室を除く4人が[MAXとして活動を開始する](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。但し、MAXのCDデビューや安室の[avex移籍後も](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")、安室のシングル「[Body Feels EXIT](../Page/Body_Feels_EXIT.md "wikilink")」、「[Chase the Chance](../Page/Chase_the_Chance.md "wikilink")」ではバックダンサーとして4人が参加しているほか、ライブもグループ名義で行われており、5人での活動は継続された。
 
 1995年12月、初の沖縄凱旋ライブを[沖縄コンベンションセンター](../Page/沖縄コンベンションセンター.md "wikilink")で行い、4000人を動員。念願の地元での初公演だったこともあり、アンコールの際のMCでは全員が感極まり涙を見せた。
 
@@ -62,7 +62,7 @@
 <!-- end list -->
 
   -
-    デビュー時からメインボーカルを担当。デビュー前、アクターズの仲間と一緒に出場した[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")のローカル番組「HOT NIGHT沖縄アイランド」内で行われた「ちびっ子カラオケ大会」（1989年8月1日O.A）で[ゆうゆの](https://ja.wikipedia.org/wiki/岩井由紀子 "wikilink")『-3℃』を堂々披露し優勝を果たす\[5\]。その後は学校へ行くのも惜しんで大好きな歌とダンスに没頭、スクールでの行事優先としその節約のために食べ物以外では水ばかり飲んでいた。自分からはあまり前に出ないが反面負けず嫌いでもある。[ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")、[ポーラ・アブドゥル](https://ja.wikipedia.org/wiki/ポーラ・アブドゥル "wikilink")に強く影響を受けており、当時語っていた夢は「ダンサブルな歌手」\[6\]。
+    デビュー時からメインボーカルを担当。デビュー前、アクターズの仲間と一緒に出場した[琉球放送](../Page/琉球放送.md "wikilink")のローカル番組「HOT NIGHT沖縄アイランド」内で行われた「ちびっ子カラオケ大会」（1989年8月1日O.A）で[ゆうゆの](../Page/岩井由紀子.md "wikilink")『-3℃』を堂々披露し優勝を果たす\[5\]。その後は学校へ行くのも惜しんで大好きな歌とダンスに没頭、スクールでの行事優先としその節約のために食べ物以外では水ばかり飲んでいた。自分からはあまり前に出ないが反面負けず嫌いでもある。[ジャネット・ジャクソン](../Page/ジャネット・ジャクソン.md "wikilink")、[ポーラ・アブドゥル](https://ja.wikipedia.org/wiki/ポーラ・アブドゥル "wikilink")に強く影響を受けており、当時語っていた夢は「ダンサブルな歌手」\[6\]。
 
 <!-- end list -->
 
@@ -102,7 +102,7 @@
 
 ### 脱退したメンバー
 
-  - [牧野アンナ](https://ja.wikipedia.org/wiki/牧野アンナ "wikilink")
+  - [牧野アンナ](../Page/牧野アンナ.md "wikilink")
 
 <!-- end list -->
 
@@ -470,7 +470,7 @@ TK DANCE CAMP</a></strong></p></td>
       - 第28回[日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽優秀賞 - 「TRY ME 〜私を信じて〜」
       - [第37回日本レコード大賞](https://ja.wikipedia.org/wiki/第37回日本レコード大賞 "wikilink") 優秀作品賞 - 「TRY ME 〜私を信じて〜」
   - 1996年
-      - 第33回[ゴールデン・アロー賞](https://ja.wikipedia.org/wiki/ゴールデン・アロー賞 "wikilink") 音楽賞
+      - 第33回[ゴールデン・アロー賞](../Page/ゴールデン・アロー賞.md "wikilink") 音楽賞
 
 ## ライブ／ライブツアー
 
@@ -496,7 +496,7 @@ TK DANCE CAMP</a></strong></p></td>
 <div class="NavContent" style="text-align:center;">
 <p>7月16日 <a href="../Page/岡山市民会館.md" title="wikilink">岡山市民会館</a><br />
 8月5日 <a href="../Page/愛知厚生年金会館.md" title="wikilink">愛知厚生年金会館</a><br />
-8月27日 <a href="https://ja.wikipedia.org/wiki/中野サンプラザ" title="wikilink">中野サンプラザ</a></p>
+8月27日 <a href="../Page/中野サンプラザ.md" title="wikilink">中野サンプラザ</a></p>
 </div>
 </div></td>
 </tr>
@@ -531,7 +531,7 @@ AMURO NAMIE with SUPER MONKEY'S TOUR '96</em></p></td>
 3月30日 神戸ハーバーランドプラザ<br />
 3月31日 <a href="https://ja.wikipedia.org/wiki/京都会館" title="wikilink">京都会館</a><br />
 4月2日 <a href="../Page/福岡サンパレス.md" title="wikilink">福岡サンパレス</a><br />
-4月4日 <a href="https://ja.wikipedia.org/wiki/神奈川県立県民ホール" title="wikilink">神奈川県民ホール</a><br />
+4月4日 <a href="../Page/神奈川県立県民ホール.md" title="wikilink">神奈川県民ホール</a><br />
 4月6日 <a href="../Page/岩手県民会館.md" title="wikilink">岩手県民会館</a><br />
 4月7日 <a href="../Page/仙台サンプラザ.md" title="wikilink">仙台サンプラザ</a>ホール<br />
 4月13日 <a href="../Page/新潟県民会館.md" title="wikilink">新潟県民会館</a><br />
@@ -539,7 +539,7 @@ AMURO NAMIE with SUPER MONKEY'S TOUR '96</em></p></td>
 4月20日 <a href="../Page/名古屋国際会議場.md" title="wikilink">名古屋センチュリーホール</a><br />
 4月21日 <a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a><br />
 4月27日 <a href="../Page/川口総合文化センター.md" title="wikilink">川口リリア</a> メインホール<br />
-4月29日 <a href="https://ja.wikipedia.org/wiki/府中の森芸術劇場" title="wikilink">府中の森芸術劇場</a><br />
+4月29日 <a href="../Page/府中の森芸術劇場.md" title="wikilink">府中の森芸術劇場</a><br />
 5月2日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a><br />
 5月6日 <a href="../Page/日本武道館.md" title="wikilink">日本武道館</a><br />
 5月11日 <a href="../Page/長野県松本文化会館.md" title="wikilink">長野県松本文化会館</a><br />
@@ -612,7 +612,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <td><p>9月23日</p></td>
 <td><p>''Here We Are</p></td>
 <td><p>スーパー・モンキーズ''</p></td>
-<td><p><a href="../Page/原宿.md" title="wikilink">原宿</a><a href="https://ja.wikipedia.org/wiki/歩行者天国" title="wikilink">歩行者天国</a>[14]</p></td>
+<td><p><a href="../Page/原宿.md" title="wikilink">原宿</a><a href="../Page/歩行者天国.md" title="wikilink">歩行者天国</a>[14]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月1日</p></td>
@@ -683,7 +683,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <p>出演店舗</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p><a href="https://ja.wikipedia.org/wiki/あべのベルタ" title="wikilink">あべのベルタ</a><br />
+<p><a href="../Page/あべのベルタ.md" title="wikilink">あべのベルタ</a><br />
 <a href="../Page/ダイエー.md" title="wikilink">ダイエー</a><a href="../Page/横須賀市.md" title="wikilink">横須賀店</a><br />
 ジャスコ<a href="../Page/仙台市.md" title="wikilink">川平店</a><br />
 <a href="../Page/長崎屋.md" title="wikilink">長崎屋</a><a href="../Page/多賀城市.md" title="wikilink">多賀城店</a><br />
@@ -726,7 +726,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <p>出演会場</p>
 </div>
 <div class="NavContent" style="text-align:center;">
-<p>8月3日 <a href="https://ja.wikipedia.org/wiki/池袋" title="wikilink">池袋</a><a href="../Page/サンシャインシティ.md" title="wikilink">サンシャインシティ</a>・噴水広場<br />
+<p>8月3日 <a href="../Page/池袋.md" title="wikilink">池袋</a><a href="../Page/サンシャインシティ.md" title="wikilink">サンシャインシティ</a>・噴水広場<br />
 8月6日 <a href="../Page/ユアエルム.md" title="wikilink">ユアエルム</a><a href="https://ja.wikipedia.org/wiki/八千代市" title="wikilink">八千代台店</a>・屋上駐車場<br />
 不明 <a href="../Page/東武百貨店.md" title="wikilink">東武百貨店</a>・屋上ファミリーガーデン</p></td>
 <td></td>
@@ -740,13 +740,13 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="even">
 <td><p>8月21日</p></td>
 <td><p>飯塚オート ファン感謝デー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/飯塚オートレース場" title="wikilink">飯塚オートレース場</a></p></td>
+<td><p><a href="../Page/飯塚オートレース場.md" title="wikilink">飯塚オートレース場</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>8月xx日</p></td>
 <td><p>越後よしかわまつり</p></td>
-<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="https://ja.wikipedia.org/wiki/吉川町_(新潟県)" title="wikilink">吉川町</a></p></td>
+<td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="../Page/吉川町_(新潟県).md" title="wikilink">吉川町</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -775,7 +775,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 </tr>
 <tr class="even">
 <td><p>10月26日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/池袋" title="wikilink">池袋</a><a href="https://ja.wikipedia.org/wiki/パルコ" title="wikilink">P'PARCO</a> イベント</p></td>
+<td><p><a href="../Page/池袋.md" title="wikilink">池袋</a><a href="../Page/パルコ.md" title="wikilink">P'PARCO</a> イベント</p></td>
 <td><p>入口特設ステージ</p></td>
 <td></td>
 </tr>
@@ -789,7 +789,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 </div>
 <div class="NavContent" style="text-align:center;">
 <p>11月5日 第33回:<a href="https://ja.wikipedia.org/wiki/東京電機大学" title="wikilink">東京電機大学</a>・錦祭[19]<br />
-11月6日 第2回:<a href="https://ja.wikipedia.org/wiki/福井県立大学" title="wikilink">福井県立大学</a>・白樫祭<br />
+11月6日 第2回:<a href="../Page/福井県立大学.md" title="wikilink">福井県立大学</a>・白樫祭<br />
 11月23日 第36回:<a href="https://ja.wikipedia.org/wiki/慶應義塾大学" title="wikilink">慶應義塾大学</a>・<a href="../Page/三田祭.md" title="wikilink">三田祭</a>[20]</p></td>
 </tr>
 <tr class="even">
@@ -817,7 +817,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/豊科町" title="wikilink">豊科</a><a href="https://ja.wikipedia.org/wiki/サティ_(チェーンストア)" title="wikilink">SATY</a> イベント</p></td>
+<td><p><a href="../Page/豊科町.md" title="wikilink">豊科</a><a href="https://ja.wikipedia.org/wiki/サティ_(チェーンストア)" title="wikilink">SATY</a> イベント</p></td>
 <td><p>駐車場特設ステージ</p></td>
 <td></td>
 <td></td>
@@ -879,7 +879,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="even">
 <td><p>6月11日</p></td>
 <td><p>第13回 大野みんなのまつり</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮島競艇場" title="wikilink">宮島競艇場</a></p></td>
+<td><p><a href="../Page/宮島競艇場.md" title="wikilink">宮島競艇場</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -897,19 +897,19 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 <tr class="odd">
 <td><p>7月30日</p></td>
 <td><p>フェスタ小瀬'95 甲斐の夏まつり</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山梨県小瀬スポーツ公園" title="wikilink">山梨県小瀬スポーツ公園</a></p></td>
+<td><p><a href="../Page/山梨県小瀬スポーツ公園.md" title="wikilink">山梨県小瀬スポーツ公園</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>8月4日</p></td>
 <td><p>'95 <a href="../Page/フェスタしずおか.md" title="wikilink">フェスタしずおか</a> JPOP Dancing</p></td>
-<td><p>静岡・<a href="https://ja.wikipedia.org/wiki/駿府城公園" title="wikilink">駿府公園</a></p></td>
+<td><p>静岡・<a href="../Page/駿府城公園.md" title="wikilink">駿府公園</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>8月13日</p></td>
 <td><p><a href="../Page/エキサイティング・サマー・イン・ワジキ.md" title="wikilink">Exciting Summer in WAJIKI'95</a></p></td>
-<td><p><a href="../Page/大塚製薬.md" title="wikilink">大塚製薬</a><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島</a><a href="https://ja.wikipedia.org/wiki/鷲敷町" title="wikilink">ワジキ工場野外ステージ</a></p></td>
+<td><p><a href="../Page/大塚製薬.md" title="wikilink">大塚製薬</a><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島</a><a href="../Page/鷲敷町.md" title="wikilink">ワジキ工場野外ステージ</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -944,7 +944,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 </tr>
 <tr class="odd">
 <td><p>12月1日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アクト・アゲインスト・エイズ" title="wikilink">AAA</a>‘95 SPECIAL LIVE IN VELFARRE</p></td>
+<td><p><a href="../Page/アクト・アゲインスト・エイズ.md" title="wikilink">AAA</a>‘95 SPECIAL LIVE IN VELFARRE</p></td>
 <td><p>六本木ヴェルファーレ</p></td>
 <td></td>
 </tr>
@@ -975,7 +975,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 
   - [文化放送](../Page/文化放送.md "wikilink")「SUPER MONKEY'S GIVE ME A BEAT」（1992年10月 - 1993年3月　日曜日 20時〜20時30分）
   - 文化放送「[サスケの夜はこんびんば\!](../Page/サスケの夜はこんびんば!.md "wikilink")」（1992年〜1993年）- ゲスト出演
-  - 文化放送「[斉藤一美のとんカツワイド](https://ja.wikipedia.org/wiki/斉藤一美のとんカツワイド "wikilink")」（1993年〜1995年）- 同上
+  - 文化放送「[斉藤一美のとんカツワイド](../Page/斉藤一美のとんカツワイド.md "wikilink")」（1993年〜1995年）- 同上
   - [ニッポン放送](../Page/ニッポン放送.md "wikilink")「[伊集院光のOh\!デカナイト](../Page/伊集院光のOh!デカナイト.md "wikilink")」〜真夏のミステリーSP〜 （1993年8月）- 同上
 
 ### ドラマ
@@ -999,7 +999,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 
 [Category:SUPER_MONKEY'S](https://ja.wikipedia.org/wiki/Category:SUPER_MONKEY'S "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:安室奈美恵](https://ja.wikipedia.org/wiki/Category:安室奈美恵 "wikilink") [Category:MAX_(音楽グループ)](https://ja.wikipedia.org/wiki/Category:MAX_\(音楽グループ\) "wikilink")
 
-1.  前身は「クラブハート」、SUPER MONKEY'Sデビュー後は「[B.B.WAVES](https://ja.wikipedia.org/wiki/B.B.WAVES "wikilink")」へと改名。
+1.  前身は「クラブハート」、SUPER MONKEY'Sデビュー後は「[B.B.WAVES](../Page/B.B.WAVES.md "wikilink")」へと改名。
 2.  「週刊宝石 92.9.10」より
 3.  この流れはデビュー前から想定されていたとされる説もある。
 4.  「[太陽のSEASON](https://ja.wikipedia.org/wiki/太陽のSEASON "wikilink")」、「[Stop the music](https://ja.wikipedia.org/wiki/Stop_the_music "wikilink")」は安室の単独名義ではあるものの、裏ジャケットにはメンバーの写真と「安室奈美恵 with SUPER MONKEY'S」の記載があり、音楽番組などでも同クレジットで出演していた。
@@ -1010,7 +1010,7 @@ SUPER MONKEY'S及び安室奈美恵 with SUPER MONKEY'S参加イベント
 9.  「微笑1992.5.16」より
 10. 「[明星](../Page/Myojo.md "wikilink") 92.6」より
 11. 「[Zipper](../Page/Zipper.md "wikilink") 93.6」より
-12. [沖縄アクターズスクール](https://ja.wikipedia.org/wiki/沖縄アクターズスクール "wikilink")主催の舞台劇。主人公のピーターパン役を安室が務め、メンバーも全員出演した。またメンバー加入前の松田、宮内の他、後にデビューする[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のメンバーや、[知念里奈](https://ja.wikipedia.org/wiki/知念里奈 "wikilink")なども出演している。
+12. [沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")主催の舞台劇。主人公のピーターパン役を安室が務め、メンバーも全員出演した。またメンバー加入前の松田、宮内の他、後にデビューする[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")のメンバーや、[知念里奈](https://ja.wikipedia.org/wiki/知念里奈 "wikilink")なども出演している。
 13. [24時間テレビ内の企画](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")
 14. トラックステージで行われたデビュー告知イベント。
 15. 当時SUPER MONKEY'SがロッテアイスのCMに出演していたことからゲスト出演

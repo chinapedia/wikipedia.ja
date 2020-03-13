@@ -15,7 +15,7 @@
   - 大森五郎：[渡辺いっけい](https://ja.wikipedia.org/wiki/渡辺いっけい "wikilink")
   - 榊達也：[平泉成](../Page/平泉成.md "wikilink")
   - 山城課長：[斉藤暁](../Page/斉藤暁.md "wikilink")
-  - 津野純平：[大高力也](https://ja.wikipedia.org/wiki/大高力也 "wikilink")
+  - 津野純平：[大高力也](../Page/大高力也.md "wikilink")
   - 幸子：[須藤真理子](https://ja.wikipedia.org/wiki/須藤真理子 "wikilink")
   - 高原久美：[戸田麻衣子](../Page/戸田麻衣子.md "wikilink")
   - 三田室長：[潮哲也](../Page/潮哲也.md "wikilink")

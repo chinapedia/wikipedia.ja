@@ -7,7 +7,7 @@
 
   - 正式タイトルでは、「○○○○のG1 Grouper」としていた（いわゆる[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")で、○○○○の中に、メインパーソナリティーの名前が入る）。「G1 Grouper」のGrouperは造語である。
     新聞のラ・テ欄では、「**○○○○のG1G**」と書かれていた（スペースの関係上、G1 Grouperの字が入らないための措置）。番組スタート時、[見えるラジオ](https://ja.wikipedia.org/wiki/見えるラジオ "wikilink")のスタート期と重なったため、サブタイトルに「**見えるオールナイターズ**」（[1996年](../Page/1996年.md "wikilink")10月からは「**エレキテルラジオ**」）が付いていた。
-  - 歴代レギュラーパーソナリティは、[河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")、[永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")、国分太一、[グレートチキンパワーズ](../Page/グレートチキンパワーズ.md "wikilink")、[武内由紀子](../Page/武内由紀子.md "wikilink")、[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")、[明石家さんま](../Page/明石家さんま.md "wikilink")、[伊達杏子 DK-96](https://ja.wikipedia.org/wiki/伊達杏子_DK-96 "wikilink")・[平野友康](../Page/平野友康.md "wikilink")、[真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")、[椎名へきる](../Page/椎名へきる.md "wikilink")であった（詳細は[後述](https://ja.wikipedia.org/wiki/#パーソナリティ "wikilink")）。
+  - 歴代レギュラーパーソナリティは、[河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")、[永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")、国分太一、[グレートチキンパワーズ](../Page/グレートチキンパワーズ.md "wikilink")、[武内由紀子](../Page/武内由紀子.md "wikilink")、[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")、[明石家さんま](../Page/明石家さんま.md "wikilink")、[伊達杏子 DK-96](https://ja.wikipedia.org/wiki/伊達杏子_DK-96 "wikilink")・[平野友康](../Page/平野友康.md "wikilink")、[真矢](../Page/真矢_\(ドラマー\).md "wikilink")、[椎名へきる](../Page/椎名へきる.md "wikilink")であった（詳細は[後述](https://ja.wikipedia.org/wiki/#パーソナリティ "wikilink")）。
   - [FM長野アナウンサー](../Page/長野エフエム放送.md "wikilink")[田中利彦](https://ja.wikipedia.org/wiki/田中利彦 "wikilink")は、当番組のアルバイトであった。
 
 ## ネット局
@@ -78,7 +78,7 @@
 
 <!-- end list -->
 
-  - [河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")（1995年3月 - 1995年9月） - この番組の中で河相の友人でもある[つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")が「つるちゃんのしあわせデリバリー\!」なるワンコーナーを持っていた。のちにつるのはG1Gより深い時間帯で『[BPR5000](https://ja.wikipedia.org/wiki/BPR5000 "wikilink")』を担当。
+  - [河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")（1995年3月 - 1995年9月） - この番組の中で河相の友人でもある[つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")が「つるちゃんのしあわせデリバリー\!」なるワンコーナーを持っていた。のちにつるのはG1Gより深い時間帯で『[BPR5000](../Page/BPR5000.md "wikilink")』を担当。
   - [武内由紀子](../Page/武内由紀子.md "wikilink")（1995年10月 - 1996年9月）
   - [明石家さんま](../Page/明石家さんま.md "wikilink")（1996年10月 - 1997年9月）
 
@@ -90,7 +90,7 @@
 **水曜日**
 
   - [国分太一](../Page/国分太一.md "wikilink")（1995年3月 - 1997年3月）
-  - [真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）（1997年4月 - 1997年9月　→次番組「DEEPER STREET」に続行）
+  - [真矢](../Page/真矢_\(ドラマー\).md "wikilink")（[LUNA SEA](../Page/LUNA_SEA.md "wikilink")）（1997年4月 - 1997年9月　→次番組「DEEPER STREET」に続行）
 
 **木曜日**
 
@@ -120,11 +120,11 @@
 
 ## 国分太一のG1 Grouper
 
-この番組が発展し、『[国分太一 Radio Box](https://ja.wikipedia.org/wiki/国分太一_Radio_Box "wikilink")』が誕生した。
+この番組が発展し、『[国分太一 Radio Box](../Page/国分太一_Radio_Box.md "wikilink")』が誕生した。
 
 ## LUNA SEA 真矢のG1 Grouper
 
-アシスタント：[三重野瞳](https://ja.wikipedia.org/wiki/三重野瞳 "wikilink")（初代）[三森愛子](https://ja.wikipedia.org/wiki/三森愛子 "wikilink")（二代目）
+アシスタント：[三重野瞳](../Page/三重野瞳.md "wikilink")（初代）[三森愛子](https://ja.wikipedia.org/wiki/三森愛子 "wikilink")（二代目）
 
 ## 制作スタッフ
 

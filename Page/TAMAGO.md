@@ -3,7 +3,7 @@
 
 **TAMAGO**（たまご）は、[門脇舞](https://ja.wikipedia.org/wiki/門脇舞 "wikilink")と[福圓美里](../Page/福圓美里.md "wikilink")による[声優ユニット](../Page/声優ユニット.md "wikilink")である。
 
-「[RADIOアニメロミックス](https://ja.wikipedia.org/wiki/RADIOアニメロミックス "wikilink")」から誕生したユニットだが、番組の卒業により活動を休止。[キングレコード](../Page/キングレコード.md "wikilink")（[スターチャイルド](../Page/スターチャイルド.md "wikilink")レコード）に所属していた。
+「[RADIOアニメロミックス](../Page/RADIOアニメロミックス.md "wikilink")」から誕生したユニットだが、番組の卒業により活動を休止。[キングレコード](../Page/キングレコード.md "wikilink")（[スターチャイルド](../Page/スターチャイルド.md "wikilink")レコード）に所属していた。
 
 ## 作品
 
@@ -19,7 +19,7 @@
     3.  着メロは歌わない（off vocal version）
     4.  待ってるから（off vocal version）
 2.  3D HEART
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")発売
+      - [2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")発売
     <!-- end list -->
     1.  3D HEART
           - 作詞：有森聡美、作曲：[佐藤英敏](../Page/佐藤英敏.md "wikilink")、編曲：五島翔

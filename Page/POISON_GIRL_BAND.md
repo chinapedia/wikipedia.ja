@@ -5,13 +5,13 @@
 
 ## メンバー
 
-**[阿部智則](https://ja.wikipedia.org/wiki/阿部智則 "wikilink")**（あべ とものり [1979年](../Page/1979年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - ）
+**[阿部智則](../Page/阿部智則.md "wikilink")**（あべ とものり [1979年](../Page/1979年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - ）
 
 ボケ（便乗ツッコミ）担当。身長167cm、体重63kg、A型。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身。[宮城県石巻工業高等学校](../Page/宮城県石巻工業高等学校.md "wikilink")卒業。[土木](https://ja.wikipedia.org/wiki/土木 "wikilink")科に在籍し、毎日あちこちを掘っていた。『映話』のレギュラーメンバー、動物好き。
 
 **[吉田大吾](../Page/吉田大吾.md "wikilink")**（よしだ だいご [1979年](../Page/1979年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）
 
-ツッコミ（便乗ボケ）、主にネタ作り担当。身長182cm、体重63kg、O型。趣味は散歩・株。特技は単独行動。[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の大ファン。[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[荻窪出身](../Page/荻窪_\(杉並区\).md "wikilink")。[東京都立豊多摩高等学校](https://ja.wikipedia.org/wiki/東京都立豊多摩高等学校 "wikilink")卒業。小・中学校は[せんだみつお](https://ja.wikipedia.org/wiki/せんだみつお "wikilink")、高校は[宮崎駿](../Page/宮崎駿.md "wikilink")の後輩。阿部と同じく『映話』のレギュラーメンバー。 東京大吾組の主催者。2012年4月から2014年10月までの2年半、[TOKYO FMのラジオ番組](../Page/エフエム東京.md "wikilink")『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』にて「よしだ教頭」として[メインパーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
+ツッコミ（便乗ボケ）、主にネタ作り担当。身長182cm、体重63kg、O型。趣味は散歩・株。特技は単独行動。[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の大ファン。[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[荻窪出身](../Page/荻窪_\(杉並区\).md "wikilink")。[東京都立豊多摩高等学校](../Page/東京都立豊多摩高等学校.md "wikilink")卒業。小・中学校は[せんだみつお](../Page/せんだみつお.md "wikilink")、高校は[宮崎駿](../Page/宮崎駿.md "wikilink")の後輩。阿部と同じく『映話』のレギュラーメンバー。 東京大吾組の主催者。2012年4月から2014年10月までの2年半、[TOKYO FMのラジオ番組](../Page/エフエム東京.md "wikilink")『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』にて「よしだ教頭」として[メインパーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
 
 ## 来歴
 
@@ -23,7 +23,7 @@
 
 [2004年](../Page/2004年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") 『お笑いカウントダウンTV』でテレビ初出演（しかし阿部は「山根」と間違ったテロップを入れられた）。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月](../Page/9月.md "wikilink") [マクドナルド](../Page/マクドナルド.md "wikilink")のCMの声に抜擢され、動物の声を担当。
+[2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink") [マクドナルド](../Page/マクドナルド.md "wikilink")のCMの声に抜擢され、動物の声を担当。
 
 [2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") 「[ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink")」水曜2部のナビゲーターを務める。同年[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") [神保町花月](../Page/神保町花月.md "wikilink")のこけら落し公演「ハッピーな片想い」にて座長を務める。
 
@@ -43,7 +43,7 @@
 
   - 2002年 3回戦敗退
   - 2003年 準決勝敗退
-  - 2004年 決勝6位（ネタは「今年の[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")」）- 吉田は、決勝進出したことが芸人人生で一番嬉しかったと語る。
+  - 2004年 決勝6位（ネタは「今年の[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")」）- 吉田は、決勝進出したことが芸人人生で一番嬉しかったと語る。
   - 2005年 準決勝敗退
   - 2006年 9位（ネタは「ファッション」）審査員を務めた[渡辺正行](../Page/渡辺正行.md "wikilink")は大会後自身のブログで同年最下位の原因の一つとしてネタ順が1番だった事を指摘し、「**俺は、謝らなければいけない。低い点数（75点）つけすぎた**」「**君達は、最下位の点数じゃない。**」とコメントしている\[2\]。
 
@@ -66,7 +66,7 @@
 #### レギュラー番組
 
   - [メンB](../Page/メンB.md "wikilink")（日本テレビ、2004年4月 - 2005年3月）
-  - [少女B](https://ja.wikipedia.org/wiki/少女B "wikilink")（日本テレビ、2005年4月 - 9月）
+  - [少女B](../Page/少女B.md "wikilink")（日本テレビ、2005年4月 - 9月）
   - [ヨシモト∞](https://ja.wikipedia.org/wiki/ヨシモト∞ "wikilink") 水曜日 2部のナビゲーターを務める
 
 #### 単発
@@ -77,7 +77,7 @@
   - [笑いの金メダル](../Page/笑いの金メダル.md "wikilink")（[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")）
   - [大笑点](../Page/大笑点.md "wikilink")（日本テレビ）
   - [お笑い登龍門](../Page/登龍門F.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
-  - [NANDA\!?](https://ja.wikipedia.org/wiki/ナンだ!? "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [NANDA\!?](../Page/ナンだ!?.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ウンナン極限ネタバトル!_ザ・イロモネア_笑わせたら100万円 "wikilink")（TBS、2006年3月1日）4thステージ敗退。
   - [失恋保険〜女の安心保障〜](../Page/失恋保険〜女の安心保障〜.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2006年）
   - [株式投資バラエティ 株って行こう\!](https://ja.wikipedia.org/wiki/株式投資バラエティ_株って行こう! "wikilink")（[casTY](https://ja.wikipedia.org/wiki/casTY "wikilink")、吉田のみ）

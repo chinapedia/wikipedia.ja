@@ -38,7 +38,7 @@
 ## 備考
 
   - 読切では主人公は高校生であり、競技との出会いやそれをする経緯もハンドボール未経験者である以外は著しく異なっている。
-  - 読みきりで一定の評価を受け連載が始まったが、ハンドボール自体がマイナーなスポーツであった事や連載開始当初はハンドボールと無関係な内容が続いたことなどから人気を得られず、2004年14号に『[LIVE](../Page/LIVE_\(漫画\).md "wikilink")』が10週で打ち切られて以来、約3年ぶりの10週[打ち切り](https://ja.wikipedia.org/wiki/打ち切り "wikilink")作品となった。この作品の終了直後に開始された『[神力契約者M\&Y](https://ja.wikipedia.org/wiki/神力契約者M&Y "wikilink")』、『[重機人間ユンボル](../Page/重機人間ユンボル.md "wikilink")』も10週打ち切りとなっている。
-  - 第一話で主人公の親が借金が原因で蒸発する、車で連れ去られたヒロインを主人公が助けるといった箇所などが[畑健二郎](https://ja.wikipedia.org/wiki/畑健二郎 "wikilink")の漫画『[ハヤテのごとく\!](../Page/ハヤテのごとく!.md "wikilink")』の第一話と酷似しており、読者の一部では盗作疑惑も囁かれた。
+  - 読みきりで一定の評価を受け連載が始まったが、ハンドボール自体がマイナーなスポーツであった事や連載開始当初はハンドボールと無関係な内容が続いたことなどから人気を得られず、2004年14号に『[LIVE](../Page/LIVE_\(漫画\).md "wikilink")』が10週で打ち切られて以来、約3年ぶりの10週[打ち切り](../Page/打ち切り.md "wikilink")作品となった。この作品の終了直後に開始された『[神力契約者M\&Y](../Page/神力契約者M&Y.md "wikilink")』、『[重機人間ユンボル](../Page/重機人間ユンボル.md "wikilink")』も10週打ち切りとなっている。
+  - 第一話で主人公の親が借金が原因で蒸発する、車で連れ去られたヒロインを主人公が助けるといった箇所などが[畑健二郎](../Page/畑健二郎.md "wikilink")の漫画『[ハヤテのごとく\!](../Page/ハヤテのごとく!.md "wikilink")』の第一話と酷似しており、読者の一部では盗作疑惑も囁かれた。
 
 [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:2006年の漫画](https://ja.wikipedia.org/wiki/Category:2006年の漫画 "wikilink") [Category:週刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年ジャンプの漫画作品 "wikilink") [Category:ハンドボール](https://ja.wikipedia.org/wiki/Category:ハンドボール "wikilink") [Category:球技を題材とした漫画](https://ja.wikipedia.org/wiki/Category:球技を題材とした漫画 "wikilink")

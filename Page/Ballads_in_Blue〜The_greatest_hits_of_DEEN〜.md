@@ -1,7 +1,7 @@
 > この記事は[Ballads in BlueThe greatest hits of DEEN](https://ja.wikipedia.org/wiki/Ballads_in_BlueThe_greatest_hits_of_DEEN)から翻訳されています。
 
 
-『**Ballads in Blue 〜The greatest hits of DEEN〜**』（バラーズ・イン・ブルー ザ・グレイスト・ヒッツ・オブ・ディーン）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の6thアルバム。
+『**Ballads in Blue 〜The greatest hits of DEEN〜**』（バラーズ・イン・ブルー ザ・グレイスト・ヒッツ・オブ・ディーン）は、[DEEN](../Page/DEEN.md "wikilink")の6thアルバム。
 
 ## 作品の解説
 
@@ -12,14 +12,14 @@
 作詞曲・編曲に記載の無いものは原曲と同じ
 
 1.  **Blue eyes 〜Introduction〜**
-      - 作曲:[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")　編曲:DEEN
+      - 作曲:[山根公路](../Page/山根公路.md "wikilink")　編曲:DEEN
 2.  **いつか僕の腕の中で 〜Ballads in Blue style〜**
-      - 作詞:[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")　作曲:山根公路　編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
+      - 作詞:[池森秀一](../Page/池森秀一.md "wikilink")　作曲:山根公路　編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
     <!-- end list -->
       -
         5thシングル『瞳そらさないで』のカップリング曲。投票第8位。波音のSEはカットされ、ヴォーカル・キーボードは再録しドラムパートは打ち込みに差し替えられている。
 3.  **[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")**
-      - 作詞:[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")　作曲:[織田哲郎](../Page/織田哲郎.md "wikilink")　編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
+      - 作詞:[上杉昇](../Page/上杉昇.md "wikilink")　作曲:[織田哲郎](../Page/織田哲郎.md "wikilink")　編曲:[葉山たけし](../Page/葉山たけし.md "wikilink")
     <!-- end list -->
       -
         1stシングル。投票第2位。
@@ -27,7 +27,7 @@
       - 作詞:池森秀一　作曲:山根公路　編曲:[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
     <!-- end list -->
       -
-        2ndアルバム『[I wish](https://ja.wikipedia.org/wiki/I_wish_\(DEENのアルバム\) "wikilink")』収録曲。投票第3位。
+        2ndアルバム『[I wish](../Page/I_wish_\(DEENのアルバム\).md "wikilink")』収録曲。投票第3位。
 5.  **[翼を広げて](https://ja.wikipedia.org/wiki/翼を広げて "wikilink")**
       - 作詞:[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")　作曲:織田哲郎　編曲:葉山たけし
     <!-- end list -->
@@ -44,7 +44,7 @@
       -
         13thシングル。投票第1位。
 8.  **[Teenage dream](../Page/Teenage_dream.md "wikilink")**
-      - 作詞:坂井泉水　作曲:[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")　編曲:葉山たけし
+      - 作詞:坂井泉水　作曲:[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲:葉山たけし
     <!-- end list -->
       -
         6thシングル。投票第11位。
@@ -57,7 +57,7 @@
       - 作詞:池森秀一　作曲:山根公路、宇津本直紀　編曲:DEEN
     <!-- end list -->
       -
-        19thシングル。投票第10位。本作に収録されているのは、『['need love](https://ja.wikipedia.org/wiki/'need_love "wikilink")』に収録されているバージョン。
+        19thシングル。投票第10位。本作に収録されているのは、『['need love](../Page/'need_love.md "wikilink")』に収録されているバージョン。
 11. **[哀しみの向こう側](../Page/哀しみの向こう側.md "wikilink")**
       - 作詞:池森秀一　作曲:池森秀一、山根公路　編曲:DEEN
     <!-- end list -->

@@ -7,7 +7,7 @@
 
 ## 概要
 
-SGホールディングスグループ守山パーク（旧：佐川急便守山パーク）は[佐川急便](../Page/佐川急便.md "wikilink")などの[SGホールディングス](../Page/SGホールディングス.md "wikilink")グループの[スポーツ](../Page/スポーツ.md "wikilink")[レクリェーション](https://ja.wikipedia.org/wiki/レクリェーション "wikilink")活動の全国的な中心拠点として建設され、本施設以外に、[野球場](../Page/野球場.md "wikilink")（硬式・[軟式](https://ja.wikipedia.org/wiki/軟式野球 "wikilink")）、総合体育館などがあり、各施設が毎年全国の各支社が参加する「SGホールディングスグループ スポーツフェスティバル」（毎年[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")に開催）の主会場として使用されている\[1\]。
+SGホールディングスグループ守山パーク（旧：佐川急便守山パーク）は[佐川急便](../Page/佐川急便.md "wikilink")などの[SGホールディングス](../Page/SGホールディングス.md "wikilink")グループの[スポーツ](../Page/スポーツ.md "wikilink")[レクリェーション](https://ja.wikipedia.org/wiki/レクリェーション "wikilink")活動の全国的な中心拠点として建設され、本施設以外に、[野球場](../Page/野球場.md "wikilink")（硬式・[軟式](../Page/軟式野球.md "wikilink")）、総合体育館などがあり、各施設が毎年全国の各支社が参加する「SGホールディングスグループ スポーツフェスティバル」（毎年[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")に開催）の主会場として使用されている\[1\]。
 
 SGホールディングスグループ[陸上競技部](https://ja.wikipedia.org/wiki/陸上競技部 "wikilink")がこの陸上競技場を本拠地に活動している。また、かつて[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink") （JFL）に所属していた[SAGAWA SHIGA FCがホームグラウンドとし](../Page/SAGAWA_SHIGA_FC.md "wikilink")、[SP京都FC](../Page/SP京都FC.md "wikilink")が不定期に使用していた。
 

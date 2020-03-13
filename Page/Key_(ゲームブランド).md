@@ -5,7 +5,7 @@
 
 ## 概要
 
-Keyは、株式会社[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")を代表するゲームブランドである。[恋愛アドベンチャーゲームに](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")「泣き」「感動」「笑い」の要素を取り入れた「[泣きゲー](../Page/泣きゲー.md "wikilink")」ジャンルの草分けかつ代名詞的存在として知られる。また、**[Key Sounds Label](https://ja.wikipedia.org/wiki/Key_Sounds_Label "wikilink")**という自社レーベルを持ち、Keyブランドのゲームの[オリジナルサウンドトラック等はすべてこのレーベルから発売される](https://ja.wikipedia.org/wiki/サウンドトラック "wikilink")。
+Keyは、株式会社[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")を代表するゲームブランドである。[恋愛アドベンチャーゲームに](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")「泣き」「感動」「笑い」の要素を取り入れた「[泣きゲー](../Page/泣きゲー.md "wikilink")」ジャンルの草分けかつ代名詞的存在として知られる。また、**[Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink")**という自社レーベルを持ち、Keyブランドのゲームの[オリジナルサウンドトラック等はすべてこのレーベルから発売される](../Page/サウンドトラック.md "wikilink")。
 
 通称は「鍵」と略されることが多く、Keyの熱心なファンは「**鍵っ子**」と呼称されることが多い。また、[アクアプラス](../Page/アクアプラス.md "wikilink")傘下のゲームブランドである[Leaf](../Page/Leaf.md "wikilink")と並ぶ有名ブランドである事から、「**[葉鍵](https://ja.wikipedia.org/wiki/leaf,key掲示板 "wikilink")**」と呼ばれることも多い。
 
@@ -13,21 +13,21 @@ Keyは、株式会社[ビジュアルアーツ](../Page/ビジュアルアーツ
 
 しかし、2014年現在では両ブランドの作品傾向は大きく異なっているため、ファン層の乖離が顕在化しており、KeyとLeafを一括りにする考え方は、現状に則していない面も大きい。
 
-第1作『[Kanon](https://ja.wikipedia.org/wiki/Kanon_\(ゲーム\) "wikilink")』・第2作『[AIR](../Page/AIR_\(ゲーム\).md "wikilink")』・第3作『[CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink")』・第6作『[リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")』・第7作『[リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")エクスタシー』、というフル規格の作品で初版10万本以上の大ヒット級と言える売り上げを上げている。ブランドが立ち上がってから10年以上が経過しているにもかかわらず、長期にわたって人気が安定している息の長いブランドである。また、後の作品になるほどエンターテイメント性が強化されており、作中のミニゲームとしてシミュレーションRPGや野球ゲームなどが製作されている。単純にノベルゲームとして見ても、独特の手法が後進のブランド・シナリオライターに与えた影響は大きく、[奈須きのこ](../Page/奈須きのこ.md "wikilink")、[竜騎士07](../Page/竜騎士07.md "wikilink")\[3\]などがKeyから影響を受けたと語っている。
+第1作『[Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")』・第2作『[AIR](../Page/AIR_\(ゲーム\).md "wikilink")』・第3作『[CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink")』・第6作『[リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")』・第7作『[リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")エクスタシー』、というフル規格の作品で初版10万本以上の大ヒット級と言える売り上げを上げている。ブランドが立ち上がってから10年以上が経過しているにもかかわらず、長期にわたって人気が安定している息の長いブランドである。また、後の作品になるほどエンターテイメント性が強化されており、作中のミニゲームとしてシミュレーションRPGや野球ゲームなどが製作されている。単純にノベルゲームとして見ても、独特の手法が後進のブランド・シナリオライターに与えた影響は大きく、[奈須きのこ](../Page/奈須きのこ.md "wikilink")、[竜騎士07](../Page/竜騎士07.md "wikilink")\[3\]などがKeyから影響を受けたと語っている。
 
-key原作のゲームは[京都アニメーション](https://ja.wikipedia.org/wiki/京都アニメーション "wikilink")などにより積極的にアニメ化されている。アニメ化されることによって、原作の認知度も上がり、それが売上やkeyブランドの向上につながっている。また、2010年にはkey社内のスタッフが脚本を務めたオリジナルアニメ作品『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』が、2015年には麻枝准が原作・脚本を手掛けるオリジナルアニメ作品『[Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")』が[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")によって制作され、更に2016年には『[Rewrite](https://ja.wikipedia.org/wiki/Rewrite_\(ゲーム\) "wikilink")』が[エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")制作など、近年では他のアニメーション会社に制作されることが多くなった。
+key原作のゲームは[京都アニメーション](../Page/京都アニメーション.md "wikilink")などにより積極的にアニメ化されている。アニメ化されることによって、原作の認知度も上がり、それが売上やkeyブランドの向上につながっている。また、2010年にはkey社内のスタッフが脚本を務めたオリジナルアニメ作品『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』が、2015年には麻枝准が原作・脚本を手掛けるオリジナルアニメ作品『[Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")』が[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")によって制作され、更に2016年には『[Rewrite](https://ja.wikipedia.org/wiki/Rewrite_\(ゲーム\) "wikilink")』が[エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")制作など、近年では他のアニメーション会社に制作されることが多くなった。
 
 2007年にはネットラジオである『[Keyらじ](../Page/Keyらじ.md "wikilink")』の配信を開始するなど精力的な活動展開を繰り広げている。
 
 ## 沿革
 
-『[MOON.](https://ja.wikipedia.org/wiki/MOON. "wikilink")』・『[ONE 〜輝く季節へ〜](../Page/ONE_〜輝く季節へ〜.md "wikilink")』を開発した主力スタッフが、[Nexton傘下のゲームブランドである](../Page/ネクストン.md "wikilink")[Tacticsから](../Page/Tactics_\(ブランド\).md "wikilink")、[株式会社ビジュアルアーツへ移籍したことにより設立された](../Page/ビジュアルアーツ.md "wikilink")\[4\]。この初期メンバーのうち、シナリオ担当[麻枝准](../Page/麻枝准.md "wikilink")、[久弥直樹](https://ja.wikipedia.org/wiki/久弥直樹 "wikilink")、音楽担当[折戸伸治](../Page/折戸伸治.md "wikilink")、原画担当[樋上いたる](../Page/樋上いたる.md "wikilink")は2016年現在でも業界内で著名である。
+『[MOON.](https://ja.wikipedia.org/wiki/MOON. "wikilink")』・『[ONE 〜輝く季節へ〜](../Page/ONE_〜輝く季節へ〜.md "wikilink")』を開発した主力スタッフが、[Nexton傘下のゲームブランドである](../Page/ネクストン.md "wikilink")[Tacticsから](../Page/Tactics_\(ブランド\).md "wikilink")、[株式会社ビジュアルアーツへ移籍したことにより設立された](../Page/ビジュアルアーツ.md "wikilink")\[4\]。この初期メンバーのうち、シナリオ担当[麻枝准](../Page/麻枝准.md "wikilink")、[久弥直樹](../Page/久弥直樹.md "wikilink")、音楽担当[折戸伸治](../Page/折戸伸治.md "wikilink")、原画担当[樋上いたる](../Page/樋上いたる.md "wikilink")は2016年現在でも業界内で著名である。
 
 [1999年](../Page/1999年.md "wikilink")発売の処女作『Kanon』は、事実上の前作である『ONE 〜輝く季節へ〜』が話題作であったことからも注目を呼んで大ヒットとなり、[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")に「泣き」「感動」の要素を取り入れた、いわゆる「[泣きゲー](../Page/泣きゲー.md "wikilink")」と呼ばれるジャンルを確立することとなった。この結果、本ブランドは第1作目から、[アクアプラス](../Page/アクアプラス.md "wikilink")傘下のゲームブランド[Leaf](../Page/Leaf.md "wikilink")と並ぶ、当時の[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")のトップブランドに位置する事となった。
 
-[2000年](../Page/2000年.md "wikilink")には続く第2作の『AIR』も「泣きゲー」として初回限定版売り上げ10万本以上の大ヒット作品となり\[5\]、その安定した実力を示す。その後、[2001年](../Page/2001年.md "wikilink")には、第3作となる『CLANNAD』の制作発表がなされたものの、それから2年余り発売の目処がつかない状態が続いた。最終的に『CLANNAD』は[2004年](../Page/2004年.md "wikilink")に[全年齢対象](https://ja.wikipedia.org/wiki/全年齢対象 "wikilink")作品として発売された。2作目と3作目の間に発売期間が開いていたにも関わらず、人と人との「絆」をテーマに描かれた壮大な物語は深い感動をよび、またエンターテイメント性も充実しており、10万本以上を売り上げる三度目の大ヒット作品となった。また、「家族」や「絆」をあつかったテーマのために、[ギャルゲー](../Page/ギャルゲー.md "wikilink")のゲームジャンルでは珍しく女性ファンも急増した。
+[2000年](../Page/2000年.md "wikilink")には続く第2作の『AIR』も「泣きゲー」として初回限定版売り上げ10万本以上の大ヒット作品となり\[5\]、その安定した実力を示す。その後、[2001年](../Page/2001年.md "wikilink")には、第3作となる『CLANNAD』の制作発表がなされたものの、それから2年余り発売の目処がつかない状態が続いた。最終的に『CLANNAD』は[2004年](../Page/2004年.md "wikilink")に[全年齢対象](../Page/全年齢対象.md "wikilink")作品として発売された。2作目と3作目の間に発売期間が開いていたにも関わらず、人と人との「絆」をテーマに描かれた壮大な物語は深い感動をよび、またエンターテイメント性も充実しており、10万本以上を売り上げる三度目の大ヒット作品となった。また、「家族」や「絆」をあつかったテーマのために、[ギャルゲー](../Page/ギャルゲー.md "wikilink")のゲームジャンルでは珍しく女性ファンも急増した。
 
-2004年には『[planetarian 〜ちいさなほしのゆめ〜](https://ja.wikipedia.org/wiki/planetarian_〜ちいさなほしのゆめ〜 "wikilink")』が、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には『[智代アフター 〜It's a Wonderful Life〜](https://ja.wikipedia.org/wiki/智代アフター_〜It's_a_Wonderful_Life〜 "wikilink")』が、小規模作品として発売された。
+2004年には『[planetarian 〜ちいさなほしのゆめ〜](https://ja.wikipedia.org/wiki/planetarian_〜ちいさなほしのゆめ〜 "wikilink")』が、[2005年](../Page/2005年.md "wikilink")には『[智代アフター 〜It's a Wonderful Life〜](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink")』が、小規模作品として発売された。
 
 その後、[2007年](../Page/2007年.md "wikilink")には第6作の『リトルバスターズ\!』・[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")には第7作の『リトルバスターズ\!エクスタシー』が発売された。今までKeyがあまり扱ってこなかった「友情」をテーマに感動を呼び起こす物語が描かれ、またエンターテイメント性も前作『CLANNAD』以上に大幅に強化され、10万本を超える四度目の大ヒット作となった。
 
@@ -45,7 +45,7 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
 
 ## 作品一覧
 
-  - [Kanon](https://ja.wikipedia.org/wiki/Kanon_\(ゲーム\) "wikilink")
+  - [Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")
       - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[PC](../Page/パーソナルコンピュータ.md "wikilink") [18禁CD版ゲーム](../Page/レイティング.md "wikilink")：1999年6月4日 発売
       - WindowsPC 全年齢CD版ゲーム：2000年1月7日発売
       - WindowsPC 18禁DVD-ROM版ゲーム：2004年11月26日発売
@@ -61,7 +61,7 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
       - ダウンロード版（[Yahoo\! BBユーザー先行販売](../Page/Yahoo!_BB.md "wikilink")）：2004年11月29日発売
       - ダウンロード版（一般販売）：2004年12月6日発売
       - パッケージ版：2006年4月28日発売
-  - [智代アフター 〜It's a Wonderful Life〜](https://ja.wikipedia.org/wiki/智代アフター_〜It's_a_Wonderful_Life〜 "wikilink")
+  - [智代アフター 〜It's a Wonderful Life〜](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink")
       - WindowsPC 18禁DVD-ROM版ゲーム：2005年11月25日発売
   - [リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")
       - WindowsPC 全年齢DVD-ROM版ゲーム：2007年7月27日発売
@@ -102,11 +102,11 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
 
 ## コンシューマ機移植作品一覧
 
-  - [Kanon](https://ja.wikipedia.org/wiki/Kanon_\(ゲーム\) "wikilink")
+  - [Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")
       - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版ゲーム：2000年9月14日発売（発売元：[インターチャネル](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")）
       - [PlayStation 2版ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")：2002年2月28日発売（発売元：インターチャネル）
       - PlayStation 2版ベスト版：2004年12月22日発売（発売元：インターチャネル→[ガンホー・ワークス](../Page/ガンホー・ワークス.md "wikilink")）
-      - [PlayStation Portable版ゲーム](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")：2007年2月15日発売（発売元：[プロトタイプ](../Page/プロトタイプ_\(企業\).md "wikilink")）
+      - [PlayStation Portable版ゲーム](../Page/PlayStation_Portable.md "wikilink")：2007年2月15日発売（発売元：[プロトタイプ](../Page/プロトタイプ_\(企業\).md "wikilink")）
       - iモード・ビジュアルアーツ★Motto版：2007年6月18日配信（発売元：プロトタイプ）
   - [AIR](../Page/AIR_\(ゲーム\).md "wikilink")
       - ドリームキャスト版ゲーム：2001年9月20日発売（発売元：インターチャネル）
@@ -135,7 +135,7 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
   -   - [東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")被災地チャリティー版：PSP版、2011年5月12日発売（発売元：プロトタイプ）
       - [Nintendo switch版ゲーム](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")：2019年1月31日ダウンロード版のみ発売（発売元：プロトタイプ）
 
-  - [智代アフター 〜It's a Wonderful Life〜](https://ja.wikipedia.org/wiki/智代アフター_〜It's_a_Wonderful_Life〜 "wikilink")
+  - [智代アフター 〜It's a Wonderful Life〜](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink")
 
       - PlayStation 2版ゲーム：2007年1月25日発売（発売元：プロトタイプ）
       - iモード・ビジュアルアーツ★Motto版：2008年5月29日配信（発売元：プロトタイプ）
@@ -180,24 +180,24 @@ Key設立から10年目の[2009年](../Page/2009年.md "wikilink")[2月28日](..
 
 ## アニメ化作品一覧
 
-Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")制作のものと、[京都アニメーション](https://ja.wikipedia.org/wiki/京都アニメーション "wikilink")制作のものと2つ作られたことである。前者はKanonのみ[フジテレビ系のテレビアニメとして制作](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、他2作品は劇場版として制作されている。後者はいずれも[TBSが制作に関与している](../Page/TBSテレビ.md "wikilink")。
+Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")制作のものと、[京都アニメーション](../Page/京都アニメーション.md "wikilink")制作のものと2つ作られたことである。前者はKanonのみ[フジテレビ系のテレビアニメとして制作](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、他2作品は劇場版として制作されている。後者はいずれも[TBSが制作に関与している](../Page/TBSテレビ.md "wikilink")。
 
 リトルバスターズ\!は[J.C.STAFF](../Page/ジェー・シー・スタッフ.md "wikilink")、Rewriteは[エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")、planetarian 〜ちいさなほしのゆめ〜は[david productionで制作](https://ja.wikipedia.org/wiki/david_production "wikilink")。アニメオリジナル作品であるAngel Beats\!とCharlotteはいずれも[P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")で制作された。
 
-| 作品                                                                                          | 放送局                                      | 放送開始日                                                           | アニメーション制作                                                                     | 備考                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Kanon](https://ja.wikipedia.org/wiki/Kanon_\(ゲーム\) "wikilink")                             | [フジテレビ系列](../Page/フジテレビ系列.md "wikilink") | 2002年1月31日                                                      | [東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")               | \[12\]                                                                                                                                                                                       |
-| [BS-i](../Page/BS-TBS.md "wikilink")                                                        | 2006年10月5日                               | [京都アニメーション](https://ja.wikipedia.org/wiki/京都アニメーション "wikilink") | BS-i限定でTVアニメーション放映開始。\[13\]                                                   |                                                                                                                                                                                              |
-| [AIR](../Page/AIR_\(ゲーム\).md "wikilink")                                                    | BS-i                                     | 2005年1月7日                                                       | 京都アニメーション                                                                     | BS-i限定でTVアニメーション放映開始。\[14\]                                                                                                                                                                  |
-| 劇場版                                                                                         | 2005年2月5日                                | 東映アニメーション                                                       | \[15\]                                                                        |                                                                                                                                                                                              |
-| [CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink")                         | 劇場版                                      | 2007年9月15日                                                      | 東映アニメーション                                                                     |                                                                                                                                                                                              |
-| [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")                        | 2007年10月4日                               | 京都アニメーション                                                       | \[16\]                                                                        |                                                                                                                                                                                              |
-| [Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")                      | TBS系列                                    | 2010年4月2日                                                       | [P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")               | 麻枝准が原作と全話の脚本を手掛けるオリジナル作品。\[17\]                                                                                                                                                              |
-| [リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")                                               | 独立局                                      | 2012年10月6日                                                      | [J.C.STAFF](https://ja.wikipedia.org/wiki/J.C.STAFF "wikilink")               | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[tvk](../Page/テレビ神奈川.md "wikilink")、[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[テレビ愛知](../Page/テレビ愛知.md "wikilink")にて放送。\[18\] |
-| [Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")                     | 独立局                                      | 2015年7月5日                                                       | P.A.WORKS                                                                     | 麻枝准が原作と全話の脚本を手掛けるオリジナル作品。\[19\]                                                                                                                                                              |
-| [Rewrite](https://ja.wikipedia.org/wiki/Rewrite_\(ゲーム\) "wikilink")                         | 独立局                                      | 2016年7月3日                                                       | [エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")                     | \[20\]                                                                                                                                                                                       |
-| [planetarian 〜ちいさなほしのゆめ〜](https://ja.wikipedia.org/wiki/planetarian_〜ちいさなほしのゆめ〜 "wikilink") | [ネット配信](../Page/ネット配信.md "wikilink")     | 2016年7月7日                                                       | [david production](https://ja.wikipedia.org/wiki/david_production "wikilink") | TV放送ではなく、ニコニコ動画等で配信される。                                                                                                                                                                      |
-| 劇場版                                                                                         | 2016年9月3日                                | david production                                                | \[21\]                                                                        |                                                                                                                                                                                              |
+| 作品                                                                                          | 放送局                                      | 放送開始日                                        | アニメーション制作                                                                     | 備考                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Kanon](../Page/Kanon_\(ゲーム\).md "wikilink")                                                | [フジテレビ系列](../Page/フジテレビ系列.md "wikilink") | 2002年1月31日                                   | [東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")               | \[12\]                                                                                                                                                                                       |
+| [BS-i](../Page/BS-TBS.md "wikilink")                                                        | 2006年10月5日                               | [京都アニメーション](../Page/京都アニメーション.md "wikilink") | BS-i限定でTVアニメーション放映開始。\[13\]                                                   |                                                                                                                                                                                              |
+| [AIR](../Page/AIR_\(ゲーム\).md "wikilink")                                                    | BS-i                                     | 2005年1月7日                                    | 京都アニメーション                                                                     | BS-i限定でTVアニメーション放映開始。\[14\]                                                                                                                                                                  |
+| 劇場版                                                                                         | 2005年2月5日                                | 東映アニメーション                                    | \[15\]                                                                        |                                                                                                                                                                                              |
+| [CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\) "wikilink")                         | 劇場版                                      | 2007年9月15日                                   | 東映アニメーション                                                                     |                                                                                                                                                                                              |
+| [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")                        | 2007年10月4日                               | 京都アニメーション                                    | \[16\]                                                                        |                                                                                                                                                                                              |
+| [Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")                      | TBS系列                                    | 2010年4月2日                                    | [P.A.WORKS](https://ja.wikipedia.org/wiki/P.A.WORKS "wikilink")               | 麻枝准が原作と全話の脚本を手掛けるオリジナル作品。\[17\]                                                                                                                                                              |
+| [リトルバスターズ\!](../Page/リトルバスターズ!.md "wikilink")                                               | 独立局                                      | 2012年10月6日                                   | [J.C.STAFF](https://ja.wikipedia.org/wiki/J.C.STAFF "wikilink")               | [TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[tvk](../Page/テレビ神奈川.md "wikilink")、[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")、[テレビ愛知](../Page/テレビ愛知.md "wikilink")にて放送。\[18\] |
+| [Charlotte](https://ja.wikipedia.org/wiki/Charlotte_\(アニメ\) "wikilink")                     | 独立局                                      | 2015年7月5日                                    | P.A.WORKS                                                                     | 麻枝准が原作と全話の脚本を手掛けるオリジナル作品。\[19\]                                                                                                                                                              |
+| [Rewrite](https://ja.wikipedia.org/wiki/Rewrite_\(ゲーム\) "wikilink")                         | 独立局                                      | 2016年7月3日                                    | [エイトビット](https://ja.wikipedia.org/wiki/エイトビット "wikilink")                     | \[20\]                                                                                                                                                                                       |
+| [planetarian 〜ちいさなほしのゆめ〜](https://ja.wikipedia.org/wiki/planetarian_〜ちいさなほしのゆめ〜 "wikilink") | [ネット配信](../Page/ネット配信.md "wikilink")     | 2016年7月7日                                    | [david production](https://ja.wikipedia.org/wiki/david_production "wikilink") | TV放送ではなく、ニコニコ動画等で配信される。                                                                                                                                                                      |
+| 劇場版                                                                                         | 2016年9月3日                                | david production                             | \[21\]                                                                        |                                                                                                                                                                                              |
 
 ## 主要な制作スタッフ
 
@@ -227,17 +227,17 @@ Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーシ
 
   -
     [樋上いたる](../Page/樋上いたる.md "wikilink")<small>※原画家。『Harmonia』制作後に退社。現在フリー。</small>
-    [久弥直樹](https://ja.wikipedia.org/wiki/久弥直樹 "wikilink") <small>※シナリオ。『Kanon』制作後に退社。現在フリー。</small>
+    [久弥直樹](../Page/久弥直樹.md "wikilink") <small>※シナリオ。『Kanon』制作後に退社。現在フリー。</small>
     みらくる☆みきぽん <small>※グラフィック。『CLANNAD』制作中に退社。その後、[ネクストン](../Page/ネクストン.md "wikilink")系列ブランド・[PSYCHOに移籍](../Page/PSYCHO_\(ブランド\).md "wikilink")。現在はビジュアルアーツ系列ブランド・[はむはむソフト](../Page/はむはむソフト.md "wikilink")に所属。</small>
     [涼元悠一](../Page/涼元悠一.md "wikilink") <small>※シナリオ。2005年退社、現在は[アクアプラス](../Page/アクアプラス.md "wikilink")に所属。</small>
-    [戸越まごめ](https://ja.wikipedia.org/wiki/戸越まごめ "wikilink") <small>※音楽。2006年10月に[自己都合退職](https://ja.wikipedia.org/wiki/自己都合退職 "wikilink")。</small>
+    [戸越まごめ](../Page/戸越まごめ.md "wikilink") <small>※音楽。2006年10月に[自己都合退職](../Page/自己都合退職.md "wikilink")。</small>
     田山みにも <small>※グラフィック。独立後も各作品に参加している。</small>
     丘野塔也 <small>※シナリオアシスタント。『Kanon』開発後に短期間所属した後、ビジュアルアーツ内の[大熊猫の立ち上げに従事](https://ja.wikipedia.org/wiki/大熊猫_\(ブランド\) "wikilink")。『AIR』『CLANNAD』にはKeyから離脱後にヘルプで参加した。大熊猫休止後はFrillに所属。</small>
     イシカワタカシ <small>※シナリオ。ビジュアルアーツ内の他のブランドに所属。</small>
     Dinn <small>※グラフィック。『AIR』制作後、ビジュアルアーツ内のWordsに所属。</small>
     鳥の <small>※グラフィック・背景原画。ビジュアルアーツ内のRAMに所属。RAM解散後の所属は不明。</small>
     [魁](https://ja.wikipedia.org/wiki/魁_\(シナリオライター\) "wikilink") <small>※企画・シナリオ。ビジュアルアーツ内の[Bonbee\!](../Page/Bonbee!.md "wikilink")、[RAMに所属](https://ja.wikipedia.org/wiki/RAM_\(ブランド\) "wikilink")。RAM解散後はmanaに所属。</small>
-    藤井知貴 <small>※シナリオアシスタント・[進行管理](https://ja.wikipedia.org/wiki/制作進行 "wikilink")。ビジュアルアーツ制作スタッフ。</small>
+    藤井知貴 <small>※シナリオアシスタント・[進行管理](../Page/制作進行.md "wikilink")。ビジュアルアーツ制作スタッフ。</small>
     [井内舞子](https://ja.wikipedia.org/wiki/井内舞子 "wikilink") <small>※音楽。ビジュアルアーツ系列会社[I've](../Page/I've.md "wikilink")スタッフ。</small>
     [清水準一](https://ja.wikipedia.org/wiki/清水淳一 "wikilink") <small>※音楽。『クドわふたー』の音楽を担当後退社。</small>
 
@@ -245,7 +245,7 @@ Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーシ
 
   - 原画
     [フミオ](../Page/フミオ.md "wikilink")
-    [駒都えーじ](https://ja.wikipedia.org/wiki/駒都えーじ "wikilink")
+    [駒都えーじ](../Page/駒都えーじ.md "wikilink")
   - 音楽
     [PMMK](https://ja.wikipedia.org/wiki/POSTMÄRCHEN "wikilink")
     [Manack](https://ja.wikipedia.org/wiki/三輪学_\(作曲家\) "wikilink")
@@ -267,8 +267,8 @@ Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーシ
 
 ## 関連項目
 
-  - [Key Sounds Label](https://ja.wikipedia.org/wiki/Key_Sounds_Label "wikilink")
-  - [リセ(Lycée)](https://ja.wikipedia.org/wiki/リセ_\(カードゲーム\) "wikilink") Ver.VisualArtsとして、Keyのキャラクターが多数登場している。
+  - [Key Sounds Label](../Page/Key_Sounds_Label.md "wikilink")
+  - [リセ(Lycée)](../Page/リセ_\(カードゲーム\).md "wikilink") Ver.VisualArtsとして、Keyのキャラクターが多数登場している。
   - [泣きゲー](../Page/泣きゲー.md "wikilink")
   - [leaf,key掲示板](https://ja.wikipedia.org/wiki/leaf,key掲示板 "wikilink")
   - [アダルトゲームメーカー一覧](../Page/アダルトゲームメーカー一覧.md "wikilink")
@@ -287,8 +287,8 @@ Kanon、AIR、CLANNADの3作品の共通点としては、[東映アニメーシ
 3.
 4.  このため、[コミックマーケット](../Page/コミックマーケット.md "wikilink")の[ジャンルコードなどで](https://ja.wikipedia.org/wiki/コミックマーケットのジャンルコード "wikilink")『[MOON.](https://ja.wikipedia.org/wiki/MOON. "wikilink")』、『[ONE 〜輝く季節へ〜](../Page/ONE_〜輝く季節へ〜.md "wikilink")』は、Keyのゲームとして扱われている。
 5.  本ブランド作品の売上推移の一例として挙げるが、2005年時点でAIRの累計売上は30万本とされている（詳しくは本項『[AIR](../Page/AIR_\(ゲーム\).md "wikilink")』）
-6.  代表作に『[CROSS†CHANNEL](../Page/CROSS†CHANNEL.md "wikilink")』（[フライングシャイン](https://ja.wikipedia.org/wiki/フライングシャイン "wikilink"))、『[人類は衰退しました](../Page/人類は衰退しました.md "wikilink")』がある。
-7.  代表作に『[ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に "wikilink")』がある。
+6.  代表作に『[CROSS†CHANNEL](../Page/CROSS†CHANNEL.md "wikilink")』（[フライングシャイン](../Page/フライングシャイン.md "wikilink"))、『[人類は衰退しました](../Page/人類は衰退しました.md "wikilink")』がある。
+7.  代表作に『[ひぐらしのなく頃に](../Page/ひぐらしのなく頃に.md "wikilink")』がある。
 8.
 9.
 10.

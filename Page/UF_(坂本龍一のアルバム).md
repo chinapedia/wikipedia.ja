@@ -1,7 +1,7 @@
 > この記事は[UF \(\)](https://ja.wikipedia.org/wiki/UF_\(\))から翻訳されています。
 
 
-『**UF**』（**ユーエフ**）は[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に同時発売された[坂本龍一](../Page/坂本龍一.md "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")3作品の一つ（他は『[US](../Page/US_\(坂本龍一のアルバム\).md "wikilink")』と『[CM/TV](https://ja.wikipedia.org/wiki/CM/TV "wikilink")』）。
+『**UF**』（**ユーエフ**）は[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に同時発売された[坂本龍一](../Page/坂本龍一.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")3作品の一つ（他は『[US](../Page/US_\(坂本龍一のアルバム\).md "wikilink")』と『[CM/TV](https://ja.wikipedia.org/wiki/CM/TV "wikilink")』）。
 
 ## 解説
 
@@ -24,7 +24,7 @@
         サウンドトラック 『[王立宇宙軍 オネアミスの翼](../Page/王立宇宙軍_オネアミスの翼.md "wikilink")』 より。
 4.  **Rain (I Want A Divorce)**
       -
-        サウンドトラック 『[ラストエンペラー](https://ja.wikipedia.org/wiki/ラストエンペラー_\(サウンドトラック\) "wikilink")』 より。
+        サウンドトラック 『[ラストエンペラー](../Page/ラストエンペラー_\(サウンドトラック\).md "wikilink")』 より。
 5.  **The Last Emperor - Theme**
       -
         サウンドトラック 『ラストエンペラー』 より。
@@ -42,10 +42,10 @@
         サウンドトラック 『シェルタリング・スカイ』 より。
 10. **MAIN THEME**
       -
-        サウンドトラック 『[ハイヒール](https://ja.wikipedia.org/wiki/ハイヒール_\(映画\) "wikilink")』 より。
+        サウンドトラック 『[ハイヒール](../Page/ハイヒール_\(映画\).md "wikilink")』 より。
 11. **Main Theme / End Titles**
       -
-        サウンドトラック 『[嵐が丘](https://ja.wikipedia.org/wiki/嵐が丘 "wikilink")』 より。
+        サウンドトラック 『[嵐が丘](../Page/嵐が丘.md "wikilink")』 より。
 12. **THE MIDDLE WAY**
       -
         サウンドトラック 『[リトル・ブッダ](../Page/リトル・ブッダ_\(サウンドトラック\).md "wikilink")』 より。

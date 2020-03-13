@@ -1,11 +1,11 @@
 > この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
 
 
-**ヴィヴィカ・A・フォックス**（Vivica A. Fox、[1964年](../Page/1964年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）、本名ヴィヴィカ・アンジャネッタ・フォックス（Vivica Anjanetta Fox）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[インディアナ州](../Page/インディアナ州.md "wikilink")[サウスベンド出身の女優](https://ja.wikipedia.org/wiki/サウスベンド_\(インディアナ州\) "wikilink")。**ヴィヴィカ・フォックス**とクレジットされることもある。
+**ヴィヴィカ・A・フォックス**（Vivica A. Fox、[1964年](../Page/1964年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）、本名ヴィヴィカ・アンジャネッタ・フォックス（Vivica Anjanetta Fox）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[インディアナ州](../Page/インディアナ州.md "wikilink")[サウスベンド出身の女優](../Page/サウスベンド_\(インディアナ州\).md "wikilink")。**ヴィヴィカ・フォックス**とクレジットされることもある。
 
 ## 来歴
 
-アフリカ系アメリカ人、ネイティブ・アメリカンの血を引く\[1\]\[2\]。[ゴールデン・ウエスト短期大学](https://ja.wikipedia.org/wiki/ゴールデン・ウエスト短期大学 "wikilink")で社会科学の準学士号を取得した後、女優になるべく[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")に移る。初めは[ソープ・オペラ](https://ja.wikipedia.org/wiki/ソープ・オペラ "wikilink")に出演し、[1996年](../Page/1996年.md "wikilink")の『インデペンデンス・デイ』で[ウィル・スミス](https://ja.wikipedia.org/wiki/ウィル・スミス "wikilink")の恋人役を獲得して認められるようになる。
+アフリカ系アメリカ人、ネイティブ・アメリカンの血を引く\[1\]\[2\]。[ゴールデン・ウエスト短期大学](https://ja.wikipedia.org/wiki/ゴールデン・ウエスト短期大学 "wikilink")で社会科学の準学士号を取得した後、女優になるべく[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")に移る。初めは[ソープ・オペラ](https://ja.wikipedia.org/wiki/ソープ・オペラ "wikilink")に出演し、[1996年](../Page/1996年.md "wikilink")の『インデペンデンス・デイ』で[ウィル・スミス](../Page/ウィル・スミス.md "wikilink")の恋人役を獲得して認められるようになる。
 
 ### プライベート
 
@@ -30,14 +30,14 @@
 <tbody>
 <tr class="odd">
 <td><p>1989</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/7月4日に生まれて" title="wikilink">7月4日に生まれて</a><br />
+<td><p><a href="../Page/7月4日に生まれて.md" title="wikilink">7月4日に生まれて</a><br />
 <em>Born on the Fourth of July</em></p></td>
 <td><p>娼婦</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1996</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インデペンデンス・デイ" title="wikilink">インデペンデンス・デイ</a><br />
+<td><p><a href="../Page/インデペンデンス・デイ.md" title="wikilink">インデペンデンス・デイ</a><br />
 <em>Independence Day</em></p></td>
 <td><p>ジャスミン・ダブロウ・ヒラー</p></td>
 <td></td>
@@ -135,7 +135,7 @@
 </tr>
 <tr class="even">
 <td><p>2003</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キル・ビル" title="wikilink">キル・ビル Vol.1</a><br />
+<td><p><a href="../Page/キル・ビル.md" title="wikilink">キル・ビル Vol.1</a><br />
 <em>Kill Bill: Vol. 1</em></p></td>
 <td><p>ヴァニータ・グリーン／“コッパーヘッド”／ジーニー・ベル</p></td>
 <td></td>

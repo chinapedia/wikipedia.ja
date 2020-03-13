@@ -1,11 +1,11 @@
 > この記事は[HD](https://ja.wikipedia.org/wiki/HD)から翻訳されています。
 
 
-『**グランツーリスモHDコンセプト**』 (GRAN TURISMO HD Concept) は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで提供された[グランツーリスモシリーズ](../Page/グランツーリスモシリーズ.md "wikilink")初の[PlayStation 3向け作品である](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。[PLAYSTATION Storeで無料配信された](../Page/PlayStation_Store.md "wikilink")。
+『**グランツーリスモHDコンセプト**』 (GRAN TURISMO HD Concept) は、[2006年](../Page/2006年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで提供された[グランツーリスモシリーズ](../Page/グランツーリスモシリーズ.md "wikilink")初の[PlayStation 3向け作品である](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。[PLAYSTATION Storeで無料配信された](../Page/PlayStation_Store.md "wikilink")。
 
 ## 概要
 
-大元となる作品は2006年5月の[E3で初公開された](https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo "wikilink")「グランツーリスモ HD」で、この時点では[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[グランツーリスモ4](https://ja.wikipedia.org/wiki/グランツーリスモ4 "wikilink")」をベースに高解像度化などのアレンジを加えた試作品とされたが、2006年9月の[東京ゲームショウ](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")に合わせて実際の製品として2006年12月に発売される事が発表された。この時点では、ソフトの価格を製造実費程度の低価格に設定する代わりに、新しい車種やコースを有料ダウンロード配信するという新しい試みが検討されていた\[1\]。
+大元となる作品は2006年5月の[E3で初公開された](../Page/Electronic_Entertainment_Expo.md "wikilink")「グランツーリスモ HD」で、この時点では[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[グランツーリスモ4](../Page/グランツーリスモ4.md "wikilink")」をベースに高解像度化などのアレンジを加えた試作品とされたが、2006年9月の[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")に合わせて実際の製品として2006年12月に発売される事が発表された。この時点では、ソフトの価格を製造実費程度の低価格に設定する代わりに、新しい車種やコースを有料ダウンロード配信するという新しい試みが検討されていた\[1\]。
 
 しかし、2006年12月1日に「[グランツーリスモ5](https://ja.wikipedia.org/wiki/グランツーリスモ5 "wikilink")」の開発が優先される事が発表され、これにより今まで構想されてきた「グランツーリスモ HD」としての多くの要素は「グランツーリスモ5」に吸収される事となり、同時に「**グランツーリスモHDコンセプト**」という名称の無料ダウンロード作品が提供されることが発表された。
 
@@ -17,9 +17,9 @@
 
 ### フルスペックハイビジョンでの出力
 
-GT-HDはフルスペック[ハイビジョン](../Page/ハイビジョン.md "wikilink")（1920×1080・[プログレッシブ](https://ja.wikipedia.org/wiki/プログレッシブ "wikilink")）でのゲーム画面出力に対応している。情報量としては、現行の標準的なデジタル[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送（1440×1080、[インターレース](https://ja.wikipedia.org/wiki/インターレース "wikilink")）の約4倍。前作の[グランツーリスモ4](https://ja.wikipedia.org/wiki/グランツーリスモ4 "wikilink")と比べると約13.5倍の情報量となる。
+GT-HDはフルスペック[ハイビジョン](../Page/ハイビジョン.md "wikilink")（1920×1080・[プログレッシブ](../Page/プログレッシブ.md "wikilink")）でのゲーム画面出力に対応している。情報量としては、現行の標準的なデジタル[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送（1440×1080、[インターレース](../Page/インターレース.md "wikilink")）の約4倍。前作の[グランツーリスモ4](../Page/グランツーリスモ4.md "wikilink")と比べると約13.5倍の情報量となる。
 
-2006年5月のE3で[山内一典](https://ja.wikipedia.org/wiki/山内一典 "wikilink")は「人類史上初の試み」と発言したが、実際の製品化においては2006年11月11日発売の「[リッジレーサー7](https://ja.wikipedia.org/wiki/リッジレーサー7 "wikilink")」などが先にフルスペックハイビジョンに対応している。
+2006年5月のE3で[山内一典](../Page/山内一典.md "wikilink")は「人類史上初の試み」と発言したが、実際の製品化においては2006年11月11日発売の「[リッジレーサー7](../Page/リッジレーサー7.md "wikilink")」などが先にフルスペックハイビジョンに対応している。
 
 ### フェラーリの登場
 
@@ -39,19 +39,19 @@ GT-HDはフルスペック[ハイビジョン](../Page/ハイビジョン.md "wi
 
 ### ドリフトトライアル
 
-コーナーでの[ドリフト走行](https://ja.wikipedia.org/wiki/ドリフト走行 "wikilink")の腕を試すモード。指定されたコーナーで上手くドリフトを決めるとスコアが上昇する。
+コーナーでの[ドリフト走行](../Page/ドリフト走行.md "wikilink")の腕を試すモード。指定されたコーナーで上手くドリフトを決めるとスコアが上昇する。
 
 ## 登場車種
 
   - [スズキ・カプチーノ](https://ja.wikipedia.org/wiki/スズキ・カプチーノ "wikilink") 1995年
-  - [マツダ・ロードスター](https://ja.wikipedia.org/wiki/マツダ・ロードスター "wikilink") 1989年
-  - [ホンダ・インテグラ](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink") TYPE R 2004年
+  - [マツダ・ロードスター](../Page/マツダ・ロードスター.md "wikilink") 1989年
+  - [ホンダ・インテグラ](../Page/ホンダ・インテグラ.md "wikilink") TYPE R 2004年
   - [三菱・ランサーエボリューション](../Page/三菱・ランサーエボリューション.md "wikilink")IV GSR 1996年
-  - [日産・スカイライン](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink") クーペ 2006年
+  - [日産・スカイライン](../Page/日産・スカイライン.md "wikilink") クーペ 2006年
   - 三菱・ランサーエボリューションIX GSR 2005年
-  - [ロータス・エリーゼ](https://ja.wikipedia.org/wiki/ロータス・エリーゼ "wikilink") 111R 2004年
+  - [ロータス・エリーゼ](../Page/ロータス・エリーゼ.md "wikilink") 111R 2004年
   - [日産・スカイラインGT-R](../Page/日産・スカイラインGT-R.md "wikilink") VスペックII 1994年
-  - [トヨタ・セリカ](https://ja.wikipedia.org/wiki/トヨタ・セリカ "wikilink")GT-FOUR ラリーカー 1995年
+  - [トヨタ・セリカ](../Page/トヨタ・セリカ.md "wikilink")GT-FOUR ラリーカー 1995年
   - [フェラーリ・599GTBフィオラノ](../Page/フェラーリ・599GTBフィオラノ.md "wikilink") 2006年
 
 ## その他

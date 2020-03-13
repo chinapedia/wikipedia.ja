@@ -3,7 +3,7 @@
 
 『**JNNモーニング**』（ジェイエヌエヌ モーニング）は、[CS衛星放送のJNNニュースバード](../Page/衛星放送.md "wikilink")（現：[TBS NEWS (CS放送)](https://ja.wikipedia.org/wiki/TBS_NEWS_\(CS放送\) "wikilink")）と[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")のBS-i（現：[BS-TBS](../Page/BS-TBS.md "wikilink")）で放映されていた朝の[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")である。なお、BS-iのみの独自タイトルとして『JNNモーニング [i-NEWS](https://ja.wikipedia.org/wiki/i-NEWS "wikilink")』が使われていた。放送開始は『**[JNNイブニング](../Page/JNNイブニング.md "wikilink")**』と同じく、2002年4月から。
 
-同時期[TBSでは](../Page/TBSテレビ.md "wikilink")、朝のテレビ情報番組『[おはよう\!グッデイ](https://ja.wikipedia.org/wiki/おはよう!グッデイ "wikilink")』を始めている。
+同時期[TBSでは](../Page/TBSテレビ.md "wikilink")、朝のテレビ情報番組『[おはよう\!グッデイ](../Page/おはよう!グッデイ.md "wikilink")』を始めている。
 
 2005年3月放送終了。
 
@@ -20,20 +20,20 @@
 
 ニュースバード所属の女性キャスターが主に担当。
 
-  - [月曜日](../Page/月曜日.md "wikilink")・[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")・[金曜日](../Page/金曜日.md "wikilink")･･･[菅原美千子](../Page/菅原美千子.md "wikilink")
+  - [月曜日](../Page/月曜日.md "wikilink")・[木曜日](../Page/木曜日.md "wikilink")・[金曜日](../Page/金曜日.md "wikilink")･･･[菅原美千子](../Page/菅原美千子.md "wikilink")
   - [火曜日](../Page/火曜日.md "wikilink")・[水曜日](../Page/水曜日.md "wikilink")･･･[中澤有美子](../Page/中澤有美子.md "wikilink")
 
 ### サブキャスター
 
 こちらもニュースバード所属の7人の女性キャスター（8人という説もある）が交代で担当。ただし、曜日別には固定されていなかった。（五十音順）
 
-  - [江口桃子](../Page/江口桃子.md "wikilink")、[小沢尚美](../Page/小沢尚美.md "wikilink")、[金井亜佐子](https://ja.wikipedia.org/wiki/金井亜佐子 "wikilink")、[児玉良香](https://ja.wikipedia.org/wiki/児玉良香 "wikilink")、[柴山延子](https://ja.wikipedia.org/wiki/柴山延子 "wikilink")、[曽根純恵](https://ja.wikipedia.org/wiki/曽根純恵 "wikilink")、[中澤志月](../Page/中澤志月.md "wikilink")
+  - [江口桃子](../Page/江口桃子.md "wikilink")、[小沢尚美](../Page/小沢尚美.md "wikilink")、[金井亜佐子](https://ja.wikipedia.org/wiki/金井亜佐子 "wikilink")、[児玉良香](../Page/児玉良香.md "wikilink")、[柴山延子](../Page/柴山延子.md "wikilink")、[曽根純恵](../Page/曽根純恵.md "wikilink")、[中澤志月](../Page/中澤志月.md "wikilink")
 
 ### 気象キャスター
 
-  - [月曜日](../Page/月曜日.md "wikilink")：[森朗](https://ja.wikipedia.org/wiki/森朗 "wikilink")
+  - [月曜日](../Page/月曜日.md "wikilink")：[森朗](../Page/森朗.md "wikilink")
   - [火曜日](../Page/火曜日.md "wikilink")・[水曜日](../Page/水曜日.md "wikilink")：[江花純](https://ja.wikipedia.org/wiki/江花純 "wikilink")
-  - [木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")・[金曜日](../Page/金曜日.md "wikilink")：[大野治夫](../Page/大野治夫.md "wikilink")
+  - [木曜日](../Page/木曜日.md "wikilink")・[金曜日](../Page/金曜日.md "wikilink")：[大野治夫](../Page/大野治夫.md "wikilink")
 
 ## 関連項目
 

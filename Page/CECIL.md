@@ -5,17 +5,17 @@
 
 [デザイナー](../Page/デザイナー.md "wikilink")・[イラストレーター](../Page/イラストレーター.md "wikilink")がメンバーとして在籍し、アートワーク、ジャケットデザイン等も自身達で手がける。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")をもって、実質的な活動休止となっている。
+[2006年](../Page/2006年.md "wikilink")をもって、実質的な活動休止となっている。
 
 ## メンバー
 
-  - ゆきち - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - batayam - 作詞、アートワーク　[advantage Lucy](https://ja.wikipedia.org/wiki/advantage_Lucy "wikilink")、[ROUND TABLEなどの裏方](https://ja.wikipedia.org/wiki/ROUND_TABLE "wikilink")・アートワークにも参加。[2018年](../Page/2018年.md "wikilink")4月死去\[2\]。
+  - ゆきち - [作詞](../Page/作詞.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - batayam - 作詞、アートワーク　[advantage Lucy](https://ja.wikipedia.org/wiki/advantage_Lucy "wikilink")、[ROUND TABLEなどの裏方](../Page/ROUND_TABLE.md "wikilink")・アートワークにも参加。[2018年](../Page/2018年.md "wikilink")4月死去\[2\]。
   - [カンバラクニエ](https://ja.wikipedia.org/wiki/カンバラクニエ "wikilink") - イラスト、デザイン
   - カンバラヨシエ - デザイン　カンバラクニエの実妹。2003年加入。
-  - 大平太一 - [作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 大平太一 - [作曲](../Page/作曲.md "wikilink")、[編曲](../Page/編曲.md "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 佐藤五魚 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[ドラム](../Page/ドラムセット.md "wikilink")
-  - 川口佑介 - [レコーディング・エンジニア](https://ja.wikipedia.org/wiki/レコーディング・エンジニア "wikilink")　2001年加入。
+  - 川口佑介 - [レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")　2001年加入。
 
 アルバム『CINEMA SCOPE』以降はゆきち・batayam・カンバラ姉妹の女性4名がCECILのメンバーとしてクレジットされ、大平・佐藤・川口はスタッフとして参加している。
 
@@ -26,7 +26,7 @@
   - 青盤（2000年6月1日）完売
   - 赤盤（2000年6月1日）完売
       -
-        [ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")限定
+        [ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")限定
 
 ### シングル
 
@@ -52,7 +52,7 @@
 
 ### アルバム
 
-  - [CINEMA SCOPE](https://ja.wikipedia.org/wiki/CINEMA_SCOPE "wikilink")（2003年2月13日）
+  - [CINEMA SCOPE](../Page/CINEMA_SCOPE.md "wikilink")（2003年2月13日）
       -
         「楓樹の街」朝日放送『おはようコールABC』第1部オープニングテーマ
         「サーフライダー」朝日放送『おはようコールABC』エンディングテーマ
@@ -63,13 +63,13 @@
 
   - 涙の蕾（2005年）
       -
-        [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』挿入曲。番組内[アニメーション](../Page/アニメーション.md "wikilink")イラストはカンバラクニエが制作。
+        [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』挿入曲。番組内[アニメーション](../Page/アニメーション.md "wikilink")イラストはカンバラクニエが制作。
   - フルーツバスケット（2006年）
   - 夜間飛行（2006年）
 
 ## 関連項目
 
-  - [セラニポージ](https://ja.wikipedia.org/wiki/セラニポージ "wikilink") - ゲームソフト『ROOMMANIA＃203』のために結成され、ボーカル・ゆきちが参加していた音楽ユニット。
+  - [セラニポージ](../Page/セラニポージ.md "wikilink") - ゲームソフト『ROOMMANIA＃203』のために結成され、ボーカル・ゆきちが参加していた音楽ユニット。
 
 ## 脚注
 

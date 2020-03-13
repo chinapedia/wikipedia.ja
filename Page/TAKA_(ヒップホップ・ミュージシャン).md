@@ -45,13 +45,13 @@ LIVE活動においては交友のある[m-flo](https://ja.wikipedia.org/wiki/m-
 ## タイアップ
 
   - 青空ノ向コウ - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ジャンクSPORTS](../Page/ジャンクSPORTS.md "wikilink")エンディングテーマ
-  - Good bye Summer Time feat. mur mur - [関西電力](../Page/関西電力.md "wikilink")CM、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[浜ちゃんと\!](https://ja.wikipedia.org/wiki/浜ちゃんと! "wikilink")エンディングテーマ
+  - Good bye Summer Time feat. mur mur - [関西電力](../Page/関西電力.md "wikilink")CM、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[浜ちゃんと\!](../Page/浜ちゃんと!.md "wikilink")エンディングテーマ
   - LOVE TRAIN - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[松紳](../Page/松紳.md "wikilink")エンディングテーマ、[auラジオCM](../Page/Au_\(携帯電話\).md "wikilink")
-  - Alcohol Magic-OLD NICK ver.-feat.BOY-KEN(DJ HASEBE) - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[上海大腕](https://ja.wikipedia.org/wiki/上海大腕 "wikilink")エンディングテーマ
+  - Alcohol Magic-OLD NICK ver.-feat.BOY-KEN(DJ HASEBE) - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[上海大腕](../Page/上海大腕.md "wikilink")エンディングテーマ
   - NI-CHI-YO\! feat.BOO - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")エンディングテーマ
-  - 二人の距離 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[ぶちぬき](https://ja.wikipedia.org/wiki/ぶちぬき "wikilink")エンディングテーマ
+  - 二人の距離 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[ぶちぬき](../Page/ぶちぬき.md "wikilink")エンディングテーマ
   - クリスマスキャロルの頃には - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[HEY\!HEY\!HEY\!MUSIC CHAMPエンディングテーマ](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")
-  - OH YEAH\! feat. HI-D - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[上海大腕](https://ja.wikipedia.org/wiki/上海大腕 "wikilink")エンディングテーマ
+  - OH YEAH\! feat. HI-D - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[上海大腕](../Page/上海大腕.md "wikilink")エンディングテーマ
   - Na-Na-Na With you - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[MusiG](../Page/MusiG.md "wikilink")エンディングテーマ
 
 ## 外部リンク

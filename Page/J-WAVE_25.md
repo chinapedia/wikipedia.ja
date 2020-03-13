@@ -1,7 +1,7 @@
 > この記事は[J-WAVE 25](https://ja.wikipedia.org/wiki/J-WAVE_25)から翻訳されています。
 
 
-**J-WAVE 25**（ジェイウェーブ・トゥウェンティファイヴ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月3日から2009年9月27日まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**J-WAVE 25**（ジェイウェーブ・トゥウェンティファイヴ）は、[2005年](../Page/2005年.md "wikilink")4月3日から2009年9月27日まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 
 同趣向の番組として、J-WAVEでは[2002年](../Page/2002年.md "wikilink")3月まで日曜深夜に「J-WAVE TRIAL」を放送していた。またそれ以降も週代わりの企画を放送していた枠として「J-WAVE WEEKEND CIRCUIT」、「J-WAVE WEEKEND SPECIAL」といった番組が存在した。
 
-通例放送時間は1時間だが延長される場合もあった。なお、[RADIO SAKAMOTOが放送される場合は休止となる](https://ja.wikipedia.org/wiki/RADIO_SAKAMOTO "wikilink")。なお、2006年10月29日から2006年11月19日までは、J-WAVEの放送機器メンテナンスのため放送が休止された。
+通例放送時間は1時間だが延長される場合もあった。なお、[RADIO SAKAMOTOが放送される場合は休止となる](../Page/RADIO_SAKAMOTO.md "wikilink")。なお、2006年10月29日から2006年11月19日までは、J-WAVEの放送機器メンテナンスのため放送が休止された。
 
 2009年9月をもって当番組が放送終了したことにともない、J-WAVEの日曜の放送終了時刻は1時間繰り上げられ25:00（月曜1:00）となった。（RADIO SAKAMOTO等の特別番組放送時を除く）
 
@@ -22,7 +22,7 @@
 
 ## ナビゲーター
 
-  - [鳥越さやか](https://ja.wikipedia.org/wiki/鳥越さやか "wikilink")（2006年4月-2007年3月）
+  - [鳥越さやか](../Page/鳥越さやか.md "wikilink")（2006年4月-2007年3月）
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 
   - [藤浦紀子](https://ja.wikipedia.org/wiki/藤浦紀子 "wikilink")（1996年-1998年3月）
   - [北島美穂](../Page/北島美穂.md "wikilink") （1998年4月-2001年9月）
-  - [ルーシー・ケント](https://ja.wikipedia.org/wiki/ルーシー・ケント "wikilink") （2001年10月-2002年3月）
+  - [ルーシー・ケント](../Page/ルーシー・ケント.md "wikilink") （2001年10月-2002年3月）
 
 ## 受賞番組
 

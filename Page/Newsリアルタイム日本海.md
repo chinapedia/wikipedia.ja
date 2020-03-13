@@ -5,7 +5,7 @@
 
 ## 概要
 
-前番組『[ニュース日本海プラス1](https://ja.wikipedia.org/wiki/ニュース日本海プラス1 "wikilink")』に代わる「ニュース日本海」シリーズの第3弾で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")に放送を開始した。スタジオ映像を中心に[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送がされていた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")の放送をもって終了した。
+前番組『[ニュース日本海プラス1](../Page/ニュース日本海プラス1.md "wikilink")』に代わる「ニュース日本海」シリーズの第3弾で、[2006年](../Page/2006年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")に放送を開始した。スタジオ映像を中心に[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送がされていた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")の放送をもって終了した。
 
 オープニングなどでは、「News」の綴りが「NEWS」と大文字表記の「NEWSリアルタイム日本海」となっていた。
 
@@ -18,7 +18,7 @@
 
 ### 2007年10月1日以降
 
-  - [福浜隆宏](https://ja.wikipedia.org/wiki/福浜隆宏 "wikilink")（NKTアナウンサー、月曜 - 金曜、番組開始時 - ）
+  - [福浜隆宏](../Page/福浜隆宏.md "wikilink")（NKTアナウンサー、月曜 - 金曜、番組開始時 - ）
   - [殿垣内薫](https://ja.wikipedia.org/wiki/殿垣内薫 "wikilink")（NKTアナウンサー、月曜 - 水曜、2007年10月1日 - ）
   - [串山真理](https://ja.wikipedia.org/wiki/串山真理 "wikilink")（NKTアナウンサー、木曜 - 金曜、2007年10月4日 - ）
 
@@ -36,7 +36,7 @@
   - 18:35ごろ フラッシュニュース
   - 18:36 リアルSPORTS（基本的に全て放送、山陰のスポーツを紹介する場合、短縮あり）
   - 18:45 山陰のニュース・話題（主に1つ程度）
-  - 18:50ごろ 天気情報（『[ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/ヤン坊マー坊天気予報 "wikilink")』として放送する場合あり）
+  - 18:50ごろ 天気情報（『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』として放送する場合あり）
   - 18:53ごろ 最後の話題・ニュース振り返り（『スパイス\!\!』の番組宣伝をする場合あり）
   - 18:54 エンディング
   - 18:57 終了告知

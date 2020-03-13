@@ -3,11 +3,11 @@
 
 **AK砲**（AKほう）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")から[1993年](../Page/1993年.md "wikilink")にかけて[西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")（現・埼玉西武ライオンズ）に在籍した、3番打者の**[秋山幸二](../Page/秋山幸二.md "wikilink")**（あきやま こうじ）と4番打者の**[清原和博](../Page/清原和博.md "wikilink")**（きよはら かずひろ）の2人を指す通称。
 
-その後[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")でもAK砲が誕生したため、本項ではそれについても記述する。
+その後[阪神タイガース](../Page/阪神タイガース.md "wikilink")でもAK砲が誕生したため、本項ではそれについても記述する。
 
 ## 西武ライオンズのAK砲
 
-[森祇晶](../Page/森祇晶.md "wikilink")監督率いる常勝軍団と呼ばれた西武は、1986年から1993年までの8シーズンでリーグ優勝7回、日本一を6回達成している。その黄金期を象徴するスラッガー2人が「AK砲」である。数多くの[アベックホームラン](https://ja.wikipedia.org/wiki/アベックホームラン "wikilink")を打ち、常勝軍団を支えた。[バークレオ](https://ja.wikipedia.org/wiki/タイラー・バン・バークレオ "wikilink")（1988年在籍）、[デストラーデ](https://ja.wikipedia.org/wiki/オレステス・デストラーデ "wikilink")（1989年 - 1991年在籍）を加えた[クリーンナップ](https://ja.wikipedia.org/wiki/クリーンナップ "wikilink")は、それぞれAKB砲、AKD砲とも言われた。
+[森祇晶](../Page/森祇晶.md "wikilink")監督率いる常勝軍団と呼ばれた西武は、1986年から1993年までの8シーズンでリーグ優勝7回、日本一を6回達成している。その黄金期を象徴するスラッガー2人が「AK砲」である。数多くの[アベックホームラン](https://ja.wikipedia.org/wiki/アベックホームラン "wikilink")を打ち、常勝軍団を支えた。[バークレオ](https://ja.wikipedia.org/wiki/タイラー・バン・バークレオ "wikilink")（1988年在籍）、[デストラーデ](https://ja.wikipedia.org/wiki/オレステス・デストラーデ "wikilink")（1989年 - 1991年在籍）を加えた[クリーンナップ](../Page/クリーンナップ.md "wikilink")は、それぞれAKB砲、AKD砲とも言われた。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")5月12日以降、秋山と清原がアベックホームランを放った試合は負けないという「AKアベック不敗神話」が存在していたが、1993年8月13日の[ホークス戦で](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")、アベックホームランを打ったのにもかかわらず試合は5-6で敗れ崩壊した。また同年オフに秋山がホークスにトレード移籍したため、この年が最後のAK砲となった。1986年から1993年の8年間でのAKアベックホームランは通算62回（52勝8敗2分 勝率.867）であった。
 

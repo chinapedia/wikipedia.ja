@@ -1,14 +1,14 @@
 > この記事は[GOOD MUSIC](https://ja.wikipedia.org/wiki/GOOD_MUSIC)から翻訳されています。
 
 
-『**GOOD MUSIC**』（グッド・ミュージック）は、[KICK THE CAN CREWの](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")[メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")3枚目（ベスト・アルバムをいれると4枚目）の[アルバム](../Page/アルバム.md "wikilink")である。
+『**GOOD MUSIC**』（グッド・ミュージック）は、[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")3枚目（ベスト・アルバムをいれると4枚目）の[アルバム](../Page/アルバム.md "wikilink")である。
 
 ## 概要
 
   - 初回プレス分は「[magic number](https://ja.wikipedia.org/wiki/magic_number_\(KICK_THE_CAN_CREWのアルバム\) "wikilink")」に続き、スリーブケース仕様と開運おみくじ付属。
   - 全16曲収録。[2003年](../Page/2003年.md "wikilink")[8月](../Page/8月.md "wikilink")から続く連続リリース（6ヶ月7枚）の最後で、連続リリースされた5枚のシングル曲は全て収録（アルバムヴァージョンあり）。
   - [韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")で[日本語](../Page/日本語.md "wikilink")[CDリリース解禁第](../Page/コンパクトディスク.md "wikilink")1弾[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")としてKICK THE CAN CREWが選ばれ2004年にアルバム『GOOD MUSIC』を韓国でもリリース。
-  - [R・ケリー](../Page/R・ケリー.md "wikilink")や、[小沢健二](../Page/小沢健二.md "wikilink")など数々の作品を手掛けてきたエンジニア、[Herb Powers Jr.による](https://ja.wikipedia.org/wiki/:en:Herb_Powers_Jr. "wikilink")[マスタリング](https://ja.wikipedia.org/wiki/マスタリング "wikilink")。
+  - [R・ケリー](../Page/R・ケリー.md "wikilink")や、[小沢健二](../Page/小沢健二.md "wikilink")など数々の作品を手掛けてきたエンジニア、[Herb Powers Jr.による](https://ja.wikipedia.org/wiki/:en:Herb_Powers_Jr. "wikilink")[マスタリング](../Page/マスタリング.md "wikilink")。
   - 2003年[9月10日](../Page/9月10日.md "wikilink")に、同じタイトルのシングルをリリースしている。
   - 活動休止前としてはこれが最後のアルバムであったが、約14年後に活動再開し、4枚目となるニューアルバム『KICK\!』を発売した。
 

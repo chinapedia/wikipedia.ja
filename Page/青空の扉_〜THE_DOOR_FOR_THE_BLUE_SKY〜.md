@@ -1,7 +1,7 @@
 > この記事は[ THE DOOR FOR THE BLUE SKY](https://ja.wikipedia.org/wiki/_THE_DOOR_FOR_THE_BLUE_SKY)から翻訳されています。
 
 
-『**青空の扉 〜THE DOOR FOR THE BLUE SKY〜**』（あおぞらのとびら ザ・ドアー・フォア・ザ・ブルー・スカイ）は、[1996年](../Page/1996年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の15枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得。
+『**青空の扉 〜THE DOOR FOR THE BLUE SKY〜**』（あおぞらのとびら ザ・ドアー・フォア・ザ・ブルー・スカイ）は、[1996年](../Page/1996年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の15枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位を獲得。
 
 ## 概要
 
@@ -24,10 +24,10 @@
       -
         <small>（作詞・作曲：[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")、編曲：[水谷公生](../Page/水谷公生.md "wikilink")）</small>
     <!-- end list -->
-      - アルバムの先行シングルとして発売された。[TBS系](../Page/TBSテレビ.md "wikilink")[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")『[COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』エンディング・テーマ。オリコン第4位のヒットを記録した。
+      - アルバムの先行シングルとして発売された。[TBS系](../Page/TBSテレビ.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』エンディング・テーマ。オリコン第4位のヒットを記録した。
 3.  **二人の絆**
       -
-        <small>（作詞・作曲：浜田省吾、編曲：[梁邦彦](https://ja.wikipedia.org/wiki/梁邦彦 "wikilink")）</small>
+        <small>（作詞・作曲：浜田省吾、編曲：[梁邦彦](../Page/梁邦彦.md "wikilink")）</small>
 4.  **彼女はブルー**
       -
         <small>（作詞・作曲：浜田省吾、編曲：町支寛二）</small>
@@ -63,9 +63,9 @@
 
 **BE MY BABY**
 
-  - Drums：[小田原豊](https://ja.wikipedia.org/wiki/小田原豊 "wikilink")
+  - Drums：[小田原豊](../Page/小田原豊.md "wikilink")
   - Bass：[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")
-  - Guitars：[武沢豊](https://ja.wikipedia.org/wiki/武沢豊 "wikilink"), [吉川忠英](../Page/吉川忠英.md "wikilink"), [嘉多山信](https://ja.wikipedia.org/wiki/嘉多山信 "wikilink"), [笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink"), [谷康一](https://ja.wikipedia.org/wiki/谷康一 "wikilink")
+  - Guitars：[武沢豊](../Page/武沢豊.md "wikilink"), [吉川忠英](../Page/吉川忠英.md "wikilink"), [嘉多山信](https://ja.wikipedia.org/wiki/嘉多山信 "wikilink"), [笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink"), [谷康一](https://ja.wikipedia.org/wiki/谷康一 "wikilink")
   - Keyboards：[小島良喜](../Page/小島良喜.md "wikilink")
   - Strings：[DAVID CAMPBELL](../Page/デヴィッド・キャンベル_\(アレンジャー\).md "wikilink") Group
   - Hand Clap：WHACHO, 中島オバヲ, [町支寛二](../Page/町支寛二.md "wikilink"), 新川富之, TAKEAKI SUGIYAMA
@@ -87,7 +87,7 @@
   - Drums：[大久保敦夫](https://ja.wikipedia.org/wiki/大久保敦夫 "wikilink")
   - Bass：[坂井紀雄](../Page/坂井紀雄.md "wikilink")
   - Guitars：古川望, [鎌田ジョージ](https://ja.wikipedia.org/wiki/鎌田ジョージ "wikilink")
-  - Keyboards：[梁邦彦](https://ja.wikipedia.org/wiki/梁邦彦 "wikilink")
+  - Keyboards：[梁邦彦](../Page/梁邦彦.md "wikilink")
   - Synthesizer Operation：森康成
   - Trumpets & FlugelHorns：[小林正弘](../Page/小林正弘.md "wikilink"), 菅坂雅彦
   - Saxophones：[古村敏比古](../Page/古村敏比古.md "wikilink")
@@ -133,7 +133,7 @@
   - Strings：JOE KATO Group
   - Glocken：大石真理恵
   - Percussion：[LUIS CONTE](https://ja.wikipedia.org/wiki/ルイス・コンテ "wikilink")
-  - Female Vocal & Chorus：[鈴木祥子](https://ja.wikipedia.org/wiki/鈴木祥子 "wikilink")
+  - Female Vocal & Chorus：[鈴木祥子](../Page/鈴木祥子.md "wikilink")
   - Chorus：町支寛二
 
 **君がいるところが My sweet home**
@@ -162,7 +162,7 @@
   - Drums：小田原豊
   - Bass：美久月千晴
   - Guitars：武沢豊
-  - Keyboards：[中西康晴](https://ja.wikipedia.org/wiki/中西康晴 "wikilink"), 小島良喜, [GREG PHILLINGANES](https://ja.wikipedia.org/wiki/グレッグ・フィリンゲインズ "wikilink")
+  - Keyboards：[中西康晴](../Page/中西康晴.md "wikilink"), 小島良喜, [GREG PHILLINGANES](https://ja.wikipedia.org/wiki/グレッグ・フィリンゲインズ "wikilink")
   - Synthesizer Operation：武沢豊, 石川鉄男
   - Chorus：町支寛二, 浜田省吾
 

@@ -29,7 +29,7 @@ IAAFは世界ランキング上位5選手を優先招待し、残りの出場枠
 <td><p><a href="../Page/2003年.md" title="wikilink">2003年</a></p></td>
 <td></td>
 <td><p>モンテカルロ市</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタッド・ルイ・ドゥ" title="wikilink">スタッド・ルイ・ドゥ</a></p></td>
+<td><p><a href="../Page/スタッド・ルイ・ドゥ.md" title="wikilink">スタッド・ルイ・ドゥ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -40,14 +40,14 @@ IAAFは世界ランキング上位5選手を優先招待し、残りの出場枠
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td></td>
 <td><p>モンテカルロ市</p></td>
 <td><p>スタッド・ルイ・ドゥ</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a></p></td>
 <td></td>
 <td><p><a href="../Page/シュトゥットガルト.md" title="wikilink">シュトゥットガルト</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴットリーブ・ダイムラー・シュタディオン" title="wikilink">ゴットリーブ・ダイムラー・シュタディオン</a></p></td>
@@ -70,7 +70,7 @@ IAAFは世界ランキング上位5選手を優先招待し、残りの出場枠
 <td><p>7</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テッサロニキ" title="wikilink">テッサロニキ</a></p></td>
+<td><p><a href="../Page/テッサロニキ.md" title="wikilink">テッサロニキ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カフタンゾグリオ・スタジアム" title="wikilink">カフタンゾグリオ・スタジアム</a></p></td>
 </tr>
 </tbody>

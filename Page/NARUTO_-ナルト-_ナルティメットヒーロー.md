@@ -5,7 +5,7 @@
 
 『ナルティメット』の由来は、「ナルト」と「アルティメット」を組み合わせた造語である。
 
-この項目では、続編『NARUTO-ナルト- ナルティメットヒーロー2』及び『NARUTO-ナルト- ナルティメットヒーロー3』及び『NARUTO-ナルト-疾風伝 ナルティメットアクセル』、及び[PlayStation Portable用](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『ナルティメットポータブル』、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・[Xbox 360用](../Page/Xbox_360.md "wikilink")『NARUTO -ナルト-疾風伝　ナルティメットストーム』についても解説する。
+この項目では、続編『NARUTO-ナルト- ナルティメットヒーロー2』及び『NARUTO-ナルト- ナルティメットヒーロー3』及び『NARUTO-ナルト-疾風伝 ナルティメットアクセル』、及び[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")『ナルティメットポータブル』、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・[Xbox 360用](../Page/Xbox_360.md "wikilink")『NARUTO -ナルト-疾風伝　ナルティメットストーム』についても解説する。
 
 ## シリーズタイトル一覧
 
@@ -18,7 +18,7 @@
     発売日：[2004年](../Page/2004年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")
     ジャンル：忍道対戦アクション
   - NARUTO-ナルト-ナルティメットヒーロー3
-    発売日：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月22日](../Page/12月22日.md "wikilink")
+    発売日：[2005年](../Page/2005年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")
     ジャンル：忍道対戦アクション
   - NARUTO-ナルト-疾風伝 ナルティメットアクセル
     発売日：[2007年](../Page/2007年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")
@@ -30,19 +30,19 @@
 ### PSP
 
   - NARUTO-ナルト-ナルティメットポータブル
-    発売日：[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")\[1\]
+    発売日：[2006年](../Page/2006年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")\[1\]
     ジャンル：忍道対戦アクション
   - NARUTO-ナルト-疾風伝 ナルティメットアクセル3
     発売日：[2009年](../Page/2009年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")
     ジャンル：忍道大戦アクション
-    CMでは、[うずまきナルト](https://ja.wikipedia.org/wiki/うずまきナルト "wikilink")役の[竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")と[はたけカカシ](https://ja.wikipedia.org/wiki/はたけカカシ "wikilink")役の[井上和彦が顔出しでゲームの通信対戦を行っている](../Page/井上和彦_\(声優\).md "wikilink")。
+    CMでは、[うずまきナルト](../Page/うずまきナルト.md "wikilink")役の[竹内順子](../Page/竹内順子.md "wikilink")と[はたけカカシ](../Page/はたけカカシ.md "wikilink")役の[井上和彦が顔出しでゲームの通信対戦を行っている](../Page/井上和彦_\(声優\).md "wikilink")。
 
 ### PS3
 
   - NARUTO -ナルト-ナルティメットストーム
     発売日：[2009年](../Page/2009年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")
     ジャンル：忍道対戦アクション
-    第13回[文化庁メディア芸術祭](https://ja.wikipedia.org/wiki/文化庁メディア芸術祭 "wikilink")エンターテインメント部門優秀賞受賞作品
+    第13回[文化庁メディア芸術祭](../Page/文化庁メディア芸術祭.md "wikilink")エンターテインメント部門優秀賞受賞作品
   - NARUTO -ナルト-疾風伝　ナルティメットストーム2
     発売日：[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")
     ジャンル：忍道対戦アクション
@@ -96,10 +96,10 @@
 
 | キャラクター                                                               | 1               | 2      | 3      | P | 補足 |
 | -------------------------------------------------------------------- | --------------- | ------ | ------ | - | -- |
-| [うずまきナルト](https://ja.wikipedia.org/wiki/うずまきナルト "wikilink")          | ○               | ○\[2\] | ○      | ○ |    |
-| [うちはサスケ](https://ja.wikipedia.org/wiki/うちはサスケ "wikilink")            | ○               | ○      | ○      | ○ |    |
+| [うずまきナルト](../Page/うずまきナルト.md "wikilink")                             | ○               | ○\[2\] | ○      | ○ |    |
+| [うちはサスケ](../Page/うちはサスケ.md "wikilink")                               | ○               | ○      | ○      | ○ |    |
 | [春野サクラ](https://ja.wikipedia.org/wiki/春野サクラ "wikilink")              | ○               | ○      | ○      | ○ |    |
-| [はたけカカシ](https://ja.wikipedia.org/wiki/はたけカカシ "wikilink")            | ○               | ○\[3\] | ○\[4\] | ○ |    |
+| [はたけカカシ](../Page/はたけカカシ.md "wikilink")                               | ○               | ○\[3\] | ○\[4\] | ○ |    |
 | 日向ヒナタ                                                                | ○               | ○\[5\] | ○      | ○ |    |
 | 日向ハナビ                                                                |                 |        | ○      |   |    |
 | [日向ネジ](https://ja.wikipedia.org/wiki/日向ネジ "wikilink")                | ○               | ○      | ○      | ○ |    |
@@ -227,7 +227,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/竹内順子" title="wikilink">竹内順子</a>/九喇嘛：<a href="https://ja.wikipedia.org/wiki/玄田哲章" title="wikilink">玄田哲章</a></p></td>
+<td><p><a href="../Page/竹内順子.md" title="wikilink">竹内順子</a>/九喇嘛：<a href="https://ja.wikipedia.org/wiki/玄田哲章" title="wikilink">玄田哲章</a></p></td>
 </tr>
 <tr class="even">
 <td><p>うちはサスケ</p></td>
@@ -237,7 +237,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉山紀彰" title="wikilink">杉山紀彰</a></p></td>
+<td><p><a href="../Page/杉山紀彰.md" title="wikilink">杉山紀彰</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>春野サクラ</p></td>
@@ -247,7 +247,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村千絵" title="wikilink">中村千絵</a></p></td>
+<td><p><a href="../Page/中村千絵.md" title="wikilink">中村千絵</a></p></td>
 </tr>
 <tr class="even">
 <td><p>サイ</p></td>
@@ -257,7 +257,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日野聡" title="wikilink">日野聡</a></p></td>
+<td><p><a href="../Page/日野聡.md" title="wikilink">日野聡</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ヤマト</p></td>
@@ -297,7 +297,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/遠近孝一" title="wikilink">遠近孝一</a></p></td>
+<td><p><a href="../Page/遠近孝一.md" title="wikilink">遠近孝一</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>テンテン</p></td>
@@ -317,7 +317,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江原正士" title="wikilink">江原正士</a></p></td>
+<td><p><a href="../Page/江原正士.md" title="wikilink">江原正士</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>奈良シカマル</p></td>
@@ -347,7 +347,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柚木涼香" title="wikilink">柚木涼香</a></p></td>
+<td><p><a href="../Page/柚木涼香.md" title="wikilink">柚木涼香</a></p></td>
 </tr>
 <tr class="even">
 <td><p>猿飛アスマ</p></td>
@@ -357,7 +357,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小杉十郎太" title="wikilink">小杉十郎太</a></p></td>
+<td><p><a href="../Page/小杉十郎太.md" title="wikilink">小杉十郎太</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>犬塚キバ</p></td>
@@ -367,7 +367,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳥海浩輔" title="wikilink">鳥海浩輔</a>/赤丸：竹内順子</p></td>
+<td><p><a href="../Page/鳥海浩輔.md" title="wikilink">鳥海浩輔</a>/赤丸：竹内順子</p></td>
 </tr>
 <tr class="even">
 <td><p>油女シノ</p></td>
@@ -377,7 +377,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川田紳司" title="wikilink">川田紳司</a></p></td>
+<td><p><a href="../Page/川田紳司.md" title="wikilink">川田紳司</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>日向ヒナタ</p></td>
@@ -397,7 +397,7 @@
 <td></td>
 <td><p>◇</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/落合るみ" title="wikilink">落合るみ</a></p></td>
+<td><p><a href="../Page/落合るみ.md" title="wikilink">落合るみ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>猿飛木ノ葉丸</p></td>
@@ -447,7 +447,7 @@
 <td></td>
 <td></td>
 <td><p>△</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/津田英三" title="wikilink">津田英三</a></p></td>
+<td><p><a href="../Page/津田英三.md" title="wikilink">津田英三</a></p></td>
 </tr>
 <tr class="even">
 <td><p>神月イズモ</p></td>
@@ -457,7 +457,7 @@
 <td></td>
 <td></td>
 <td><p>△</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坪井智浩" title="wikilink">坪井智浩</a></p></td>
+<td><p><a href="../Page/坪井智浩.md" title="wikilink">坪井智浩</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>はがねコテツ</p></td>
@@ -467,7 +467,7 @@
 <td></td>
 <td></td>
 <td><p>△</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河野智之" title="wikilink">河野智之</a></p></td>
+<td><p><a href="../Page/河野智之.md" title="wikilink">河野智之</a></p></td>
 </tr>
 <tr class="even">
 <td><p>我愛羅</p></td>
@@ -487,7 +487,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/加瀬康之" title="wikilink">加瀬康之</a></p></td>
+<td><p><a href="../Page/加瀬康之.md" title="wikilink">加瀬康之</a></p></td>
 </tr>
 <tr class="even">
 <td><p>テマリ</p></td>
@@ -517,7 +517,7 @@
 <td><p>□</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中正彦" title="wikilink">田中正彦</a></p></td>
+<td><p><a href="../Page/田中正彦.md" title="wikilink">田中正彦</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>うちはシスイ</p></td>
@@ -527,7 +527,7 @@
 <td></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木内秀信" title="wikilink">木内秀信</a></p></td>
+<td><p><a href="../Page/木内秀信.md" title="wikilink">木内秀信</a></p></td>
 </tr>
 <tr class="even">
 <td><p>志村ダンゾウ</p></td>
@@ -537,7 +537,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/糸博" title="wikilink">糸博</a></p></td>
+<td><p><a href="../Page/糸博.md" title="wikilink">糸博</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>白</p></td>
@@ -547,7 +547,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/浅野まゆみ" title="wikilink">浅野まゆみ</a></p></td>
+<td><p><a href="../Page/浅野まゆみ.md" title="wikilink">浅野まゆみ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>桃地再不斬</p></td>
@@ -637,7 +637,7 @@
 <td><p>□</p></td>
 <td></td>
 <td></td>
-<td><p>金角：<a href="https://ja.wikipedia.org/wiki/黒田崇矢" title="wikilink">黒田崇矢</a>/銀角：<a href="../Page/矢崎文也.md" title="wikilink">矢崎文也</a></p></td>
+<td><p>金角：<a href="../Page/黒田崇矢.md" title="wikilink">黒田崇矢</a>/銀角：<a href="../Page/矢崎文也.md" title="wikilink">矢崎文也</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>シー</p></td>
@@ -657,7 +657,7 @@
 <td><p>◇</p></td>
 <td><p>◇</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宮田幸季" title="wikilink">宮田幸季</a></p></td>
+<td><p><a href="../Page/宮田幸季.md" title="wikilink">宮田幸季</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>青</p></td>
@@ -667,7 +667,7 @@
 <td><p>◇</p></td>
 <td><p>◇</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西前忠久" title="wikilink">西前忠久</a></p></td>
+<td><p><a href="../Page/西前忠久.md" title="wikilink">西前忠久</a></p></td>
 </tr>
 <tr class="even">
 <td><p>黒ツチ</p></td>
@@ -687,7 +687,7 @@
 <td><p>◇</p></td>
 <td><p>◇</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三宅健太" title="wikilink">三宅健太</a></p></td>
+<td><p><a href="../Page/三宅健太.md" title="wikilink">三宅健太</a></p></td>
 </tr>
 <tr class="even">
 <td><p>フー</p></td>
@@ -717,7 +717,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/長克巳" title="wikilink">長克巳</a></p></td>
+<td><p><a href="../Page/長克巳.md" title="wikilink">長克巳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>半蔵</p></td>
@@ -727,7 +727,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/沢木郁也" title="wikilink">沢木郁也</a></p></td>
+<td><p><a href="../Page/沢木郁也.md" title="wikilink">沢木郁也</a></p></td>
 </tr>
 <tr class="even">
 <td><p>キラービー</p></td>
@@ -737,7 +737,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/江川央生" title="wikilink">江川央生</a></p></td>
+<td><p><a href="../Page/江川央生.md" title="wikilink">江川央生</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>雷影・エー</p></td>
@@ -767,7 +767,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/西村知道" title="wikilink">西村知道</a></p></td>
+<td><p><a href="../Page/西村知道.md" title="wikilink">西村知道</a></p></td>
 </tr>
 <tr class="even">
 <td><p>二代目土影</p></td>
@@ -787,7 +787,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日野由利加" title="wikilink">日野由利加</a></p></td>
+<td><p><a href="../Page/日野由利加.md" title="wikilink">日野由利加</a></p></td>
 </tr>
 <tr class="even">
 <td><p>二代目水影</p></td>
@@ -797,7 +797,7 @@
 <td><p>□</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梅津秀行" title="wikilink">梅津秀行</a></p></td>
+<td><p><a href="../Page/梅津秀行.md" title="wikilink">梅津秀行</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>初代火影</p></td>
@@ -807,7 +807,7 @@
 <td><p>○</p></td>
 <td><p>○[176]</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/菅生隆之" title="wikilink">菅生隆之</a></p></td>
+<td><p><a href="../Page/菅生隆之.md" title="wikilink">菅生隆之</a></p></td>
 </tr>
 <tr class="even">
 <td><p>二代目火影</p></td>
@@ -817,7 +817,7 @@
 <td><p>○</p></td>
 <td><p>○[177]</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堀内賢雄" title="wikilink">堀内賢雄</a></p></td>
+<td><p><a href="../Page/堀内賢雄.md" title="wikilink">堀内賢雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>三代目火影</p></td>
@@ -827,7 +827,7 @@
 <td><p>○</p></td>
 <td><p>○[178]</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/柴田秀勝" title="wikilink">柴田秀勝</a></p></td>
+<td><p><a href="../Page/柴田秀勝.md" title="wikilink">柴田秀勝</a></p></td>
 </tr>
 <tr class="even">
 <td><p>波風ミナト</p></td>
@@ -837,7 +837,7 @@
 <td><p>○</p></td>
 <td><p>○[180]</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森川智之" title="wikilink">森川智之</a></p></td>
+<td><p><a href="../Page/森川智之.md" title="wikilink">森川智之</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>うずまきクシナ</p></td>
@@ -857,7 +857,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大塚芳忠" title="wikilink">大塚芳忠</a></p></td>
+<td><p><a href="../Page/大塚芳忠.md" title="wikilink">大塚芳忠</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>シズネ</p></td>
@@ -867,7 +867,7 @@
 <td></td>
 <td><p>◇</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/根本圭子" title="wikilink">根本圭子</a></p></td>
+<td><p><a href="../Page/根本圭子.md" title="wikilink">根本圭子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>綱手</p></td>
@@ -887,7 +887,7 @@
 <td></td>
 <td><p>◇</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/本田貴子" title="wikilink">本田貴子</a></p></td>
+<td><p><a href="../Page/本田貴子.md" title="wikilink">本田貴子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>大蛇丸</p></td>
@@ -907,7 +907,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神奈延年" title="wikilink">神奈延年</a></p></td>
+<td><p><a href="../Page/神奈延年.md" title="wikilink">神奈延年</a></p></td>
 </tr>
 <tr class="even">
 <td><p>次郎坊</p></td>
@@ -927,7 +927,7 @@
 <td></td>
 <td><p>◇</p></td>
 <td><p>◎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉進歩" title="wikilink">千葉進歩</a></p></td>
+<td><p><a href="../Page/千葉進歩.md" title="wikilink">千葉進歩</a></p></td>
 </tr>
 <tr class="even">
 <td><p>右近/左近</p></td>
@@ -937,7 +937,7 @@
 <td></td>
 <td><p>◇</p></td>
 <td><p>◎</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/咲野俊介" title="wikilink">咲野俊介</a></p></td>
+<td><p><a href="../Page/咲野俊介.md" title="wikilink">咲野俊介</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>多由也</p></td>
@@ -987,7 +987,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/阪口周平" title="wikilink">阪口周平</a></p></td>
+<td><p><a href="../Page/阪口周平.md" title="wikilink">阪口周平</a></p></td>
 </tr>
 <tr class="even">
 <td><p>うちはオビト</p></td>
@@ -997,7 +997,7 @@
 <td><p>○</p></td>
 <td><p>○[182]</p></td>
 <td><p>○[183]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高木渉" title="wikilink">高木渉</a>/少年期：<a href="../Page/小森創介.md" title="wikilink">小森創介</a>[184]→<a href="https://ja.wikipedia.org/wiki/潘めぐみ" title="wikilink">潘めぐみ</a></p></td>
+<td><p><a href="../Page/高木渉.md" title="wikilink">高木渉</a>/少年期：<a href="../Page/小森創介.md" title="wikilink">小森創介</a>[184]→<a href="https://ja.wikipedia.org/wiki/潘めぐみ" title="wikilink">潘めぐみ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>トビ</p></td>
@@ -1007,7 +1007,7 @@
 <td><p>○[185]</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p>高木渉/マダラ：<a href="https://ja.wikipedia.org/wiki/内田直哉" title="wikilink">内田直哉</a></p></td>
+<td><p>高木渉/マダラ：<a href="../Page/内田直哉.md" title="wikilink">内田直哉</a></p></td>
 </tr>
 <tr class="even">
 <td><p>仮面の男</p></td>
@@ -1057,7 +1057,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森田順平" title="wikilink">森田順平</a></p></td>
+<td><p><a href="../Page/森田順平.md" title="wikilink">森田順平</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ペイン</p></td>
@@ -1077,7 +1077,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田中敦子_(声優)" title="wikilink">田中敦子</a></p></td>
+<td><p><a href="../Page/田中敦子_(声優).md" title="wikilink">田中敦子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>デイダラ</p></td>
@@ -1107,7 +1107,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/てらそままさき" title="wikilink">てらそままさき</a></p></td>
+<td><p><a href="../Page/てらそままさき.md" title="wikilink">てらそままさき</a></p></td>
 </tr>
 <tr class="even">
 <td><p>角都</p></td>
@@ -1127,7 +1127,7 @@
 <td></td>
 <td></td>
 <td><p>△</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/飛田展男" title="wikilink">飛田展男</a></p></td>
+<td><p><a href="../Page/飛田展男.md" title="wikilink">飛田展男</a></p></td>
 </tr>
 <tr class="even">
 <td><p>二位ユギト</p></td>
@@ -1137,7 +1137,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/園崎未恵" title="wikilink">園崎未恵</a></p></td>
+<td><p><a href="../Page/園崎未恵.md" title="wikilink">園崎未恵</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>やぐら</p></td>
@@ -1147,7 +1147,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/入野自由" title="wikilink">入野自由</a></p></td>
+<td><p><a href="../Page/入野自由.md" title="wikilink">入野自由</a></p></td>
 </tr>
 <tr class="even">
 <td><p>老紫</p></td>
@@ -1157,7 +1157,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宗矢樹頼" title="wikilink">宗矢樹頼</a></p></td>
+<td><p><a href="../Page/宗矢樹頼.md" title="wikilink">宗矢樹頼</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ハン</p></td>
@@ -1167,7 +1167,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/安元洋貴" title="wikilink">安元洋貴</a></p></td>
+<td><p><a href="../Page/安元洋貴.md" title="wikilink">安元洋貴</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ウタカタ</p></td>
@@ -1588,7 +1588,7 @@
 
 ## 関連項目
 
-  - [NARUTO -ナルト- (ゲーム)](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(ゲーム\) "wikilink") - 本シリーズをはじめとした原作『NARUTO -ナルト-』のゲーム化作品一覧
+  - [NARUTO -ナルト- (ゲーム)](../Page/NARUTO_-ナルト-_\(ゲーム\).md "wikilink") - 本シリーズをはじめとした原作『NARUTO -ナルト-』のゲーム化作品一覧
   - [サイバーコネクトツー](../Page/サイバーコネクトツー.md "wikilink") - 本作の開発元
 
 ## 脚注
@@ -1804,4 +1804,4 @@
 189. 「月読/十拳剣」「穢土転生」として参戦
 190. 2013年10月10日に檀が亡くなったため、鬼鮫を演じるのは『ナルティメットストーム3』が最後となった
 191. 「ペイン六道」として参戦。
-192. 『[鉄拳6](https://ja.wikipedia.org/wiki/鉄拳6 "wikilink")』よりゲスト出演。作者の岸本がデザインしたキャラクター。
+192. 『[鉄拳6](../Page/鉄拳6.md "wikilink")』よりゲスト出演。作者の岸本がデザインしたキャラクター。

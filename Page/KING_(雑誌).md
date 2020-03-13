@@ -1,7 +1,7 @@
 > この記事は[KING \(\)](https://ja.wikipedia.org/wiki/KING_\(\))から翻訳されています。
 
 
-『**KING**』（キング）は、[講談社](../Page/講談社.md "wikilink")が発行していた男性向け月刊誌。[2004年](../Page/2004年.md "wikilink")から2年間の準備期間をかけて、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月13日](../Page/9月13日.md "wikilink")に創刊され、2008年10月号をもって休刊（実質的な廃刊）した。
+『**KING**』（キング）は、[講談社](../Page/講談社.md "wikilink")が発行していた男性向け月刊誌。[2004年](../Page/2004年.md "wikilink")から2年間の準備期間をかけて、[2006年](../Page/2006年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")に創刊され、2008年10月号をもって休刊（実質的な廃刊）した。
 
 ## 概要
 
@@ -36,6 +36,6 @@
 
 [Category:日本の雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の雑誌_\(休廃刊\) "wikilink") [Category:男性誌](https://ja.wikipedia.org/wiki/Category:男性誌 "wikilink") [Category:講談社の雑誌](https://ja.wikipedia.org/wiki/Category:講談社の雑誌 "wikilink") [Category:講談社の歴史](https://ja.wikipedia.org/wiki/Category:講談社の歴史 "wikilink") [Category:2006年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2006年創刊の雑誌 "wikilink") [Category:2008年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2008年休廃刊の雑誌 "wikilink")
 
-1.  [「有名雑誌が次々と...」'08休刊雑誌プレイバック](http://www.cyzo.com/2009/01/post_1410.html) 日刊[サイゾー](https://ja.wikipedia.org/wiki/サイゾー "wikilink") 2009年01月12日。
+1.  [「有名雑誌が次々と...」'08休刊雑誌プレイバック](http://www.cyzo.com/2009/01/post_1410.html) 日刊[サイゾー](../Page/サイゾー.md "wikilink") 2009年01月12日。
 2.  [【エロか？アートか？】話題のグラビア写真集「妄撮」](http://sankei.jp.msn.com/culture/books/090504/bks0905041801000-n1.htm) MSN産経ニュース 2009年5月4日。リンク切れ
 3.  [すべての男子の夢をかなえる「妄撮」とは?](http://www.mosatsu.com/about.php) [妄撮 MOSATSU.COM](http://www.mosatsu.com/)

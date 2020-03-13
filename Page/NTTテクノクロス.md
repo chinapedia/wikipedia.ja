@@ -1,9 +1,9 @@
 > この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
 
 
-**NTTテクノクロス株式会社**（エヌ・ティ・ティ・テクノクロス、NTT TechnoCross Corporation）は、[NTTグループ](../Page/NTTグループ.md "wikilink")に属し、[ソフトウェア](../Page/ソフトウェア.md "wikilink")・情報通信システムの設計・開発・運用、そしてそれらに関わる[コンサルティング](https://ja.wikipedia.org/wiki/コンサルティング "wikilink")をしている[ICT（情報通信技術）企業である](https://ja.wikipedia.org/wiki/情報通信技術 "wikilink")。旧社名は**エヌ・ティ・ティ・ソフトウェア株式会社**（**NTTソフトウェア**、NTT Software Corporation、**NTT SOFT**とも表記）。
+**NTTテクノクロス株式会社**（エヌ・ティ・ティ・テクノクロス、NTT TechnoCross Corporation）は、[NTTグループ](../Page/NTTグループ.md "wikilink")に属し、[ソフトウェア](../Page/ソフトウェア.md "wikilink")・情報通信システムの設計・開発・運用、そしてそれらに関わる[コンサルティング](../Page/コンサルティング.md "wikilink")をしている[ICT（情報通信技術）企業である](https://ja.wikipedia.org/wiki/情報通信技術 "wikilink")。旧社名は**エヌ・ティ・ティ・ソフトウェア株式会社**（**NTTソフトウェア**、NTT Software Corporation、**NTT SOFT**とも表記）。
 
-[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")付でNTTソフトウェア株式会社を存続会社とした上で[NTTアイティ](https://ja.wikipedia.org/wiki/NTTアイティ "wikilink")株式会社を[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")し、さらに[NTTアドバンステクノロジ](../Page/NTTアドバンステクノロジ.md "wikilink")株式会社の[音響](https://ja.wikipedia.org/wiki/音響 "wikilink")・[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")事業を統合して発足、会社名はNTTテクノクロス株式会社に[商号](https://ja.wikipedia.org/wiki/商号 "wikilink")変更となった\[1\]\[2\]。
+[2017年](../Page/2017年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")付でNTTソフトウェア株式会社を存続会社とした上で[NTTアイティ](https://ja.wikipedia.org/wiki/NTTアイティ "wikilink")株式会社を[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")し、さらに[NTTアドバンステクノロジ](../Page/NTTアドバンステクノロジ.md "wikilink")株式会社の[音響](https://ja.wikipedia.org/wiki/音響 "wikilink")・[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")事業を統合して発足、会社名はNTTテクノクロス株式会社に[商号](../Page/商号.md "wikilink")変更となった\[1\]\[2\]。
 
 なお、NTTソフトウェア時代にはNTTアドバンステクノロジ（NTT-AT）、[NTTエレクトロニクス](https://ja.wikipedia.org/wiki/NTTエレクトロニクス "wikilink")、NTTアイティ（NTT-IT）と共にNTTグループ内で先端技術開発事業を受け持ち、NTTの各研究所とのつながりが深いため、**研究所系4社**と呼ばれていた。
 
@@ -49,7 +49,7 @@
   - [ISO 9001（品質）JQA-1586](../Page/ISO_9000.md "wikilink")
   - [ISO 14001（環境）JQA-EM2855](../Page/ISO_14000.md "wikilink")
   - [ISO/IEC 27001（情報セキュリティ）JQA-IM0189](../Page/情報セキュリティマネジメントシステム.md "wikilink")
-  - [JIS Q 15001（プライバシーマーク）11820080](https://ja.wikipedia.org/wiki/プライバシーマーク "wikilink")
+  - [JIS Q 15001（プライバシーマーク）11820080](../Page/プライバシーマーク.md "wikilink")
   - [次世代認定マーク](https://ja.wikipedia.org/wiki/次世代認定マーク "wikilink")（[愛称：くるみんマーク](https://ja.wikipedia.org/wiki/くるみんマーク "wikilink")）
 
 2004年12月には、全品質（ISO 9001）・環境（ISO 14001）・情報セキュリティ（ISMS（現ISO/IEC 27001））の3規格を合わせた統合マネジメントシステム（TMS）を受審し、大規模事業所としては国内初の認証を取得した。現在は、JIS Q 15001 (プライバシーマーク)も加えて、4規格を統合して運用している。

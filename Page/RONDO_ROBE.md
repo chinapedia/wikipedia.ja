@@ -9,9 +9,9 @@
 
 ジェネオン・ユニバーサル時代以降は、ユニバーサルのトレードマークである「**地球儀マーク**」の使用率が高くなっており、ロンド・ローブのトレードマークである「**女神マーク**」の使用はオフィシャルサイトなどで限定的に使用されるのみとなっている。
 
-旧パイオニアLDC時代から[TVCMなどアニメ作品や](../Page/コマーシャルメッセージ.md "wikilink")、アニメ関連のアーティストのプロモーションにおいてレーベル名を宣伝している。ただし**あくまで『レーベル』としての名称**であり、制作部門としての呼称ではない。そのため、[キングレコード](../Page/キングレコード.md "wikilink")の[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")等と同様に、作品にクレジットされる事は無い。
+旧パイオニアLDC時代から[TVCMなどアニメ作品や](../Page/コマーシャルメッセージ.md "wikilink")、アニメ関連のアーティストのプロモーションにおいてレーベル名を宣伝している。ただし**あくまで『レーベル』としての名称**であり、制作部門としての呼称ではない。そのため、[キングレコード](../Page/キングレコード.md "wikilink")の[スターチャイルド](../Page/スターチャイルド.md "wikilink")等と同様に、作品にクレジットされる事は無い。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[2007年](../Page/2007年.md "wikilink")にかけて毎年初夏頃に、同社主催のイベント「RONDO ROBE 200x」（[西暦](../Page/西暦.md "wikilink")年が入る）を開催していた。通称、RONDO ROBEイベント。同社アニメ部門の[川瀬浩平](../Page/川瀬浩平.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")（当時）らの悪ノリぶりが前面に出た企画のオンパレードのイベントとして評判を集めた。
+[2005年](../Page/2005年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")にかけて毎年初夏頃に、同社主催のイベント「RONDO ROBE 200x」（[西暦](../Page/西暦.md "wikilink")年が入る）を開催していた。通称、RONDO ROBEイベント。同社アニメ部門の[川瀬浩平](../Page/川瀬浩平.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")（当時）らの悪ノリぶりが前面に出た企画のオンパレードのイベントとして評判を集めた。
 
 2015年からは一部の作品を除き使われておらず、事実上のレーベル廃止となっている。
 
@@ -25,13 +25,13 @@
 
 ### あ行
 
-  - [あぃまぃみぃ\!ストロベリー・エッグ](https://ja.wikipedia.org/wiki/あぃまぃみぃ!ストロベリー・エッグ "wikilink") ※[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/m-serve "wikilink")
+  - [あぃまぃみぃ\!ストロベリー・エッグ](../Page/あぃまぃみぃ!ストロベリー・エッグ.md "wikilink") ※[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/m-serve "wikilink")
   - [藍より青し](../Page/藍より青し.md "wikilink")
   - [葦プロロボットアニメ二部作](https://ja.wikipedia.org/wiki/プロダクション_リード "wikilink")
       - [超獣機神ダンクーガ](../Page/超獣機神ダンクーガ.md "wikilink") ※[CBS/SONY](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
       - [宇宙戦士バルディオス](../Page/宇宙戦士バルディオス.md "wikilink") ※[キングレコード](../Page/キングレコード.md "wikilink")
   - [明日のよいち\!](../Page/明日のよいち!.md "wikilink") ※[Mellow Head](../Page/ランティス.md "wikilink")
-  - [アニマル横町](https://ja.wikipedia.org/wiki/アニマル横町 "wikilink")
+  - [アニマル横町](../Page/アニマル横町.md "wikilink")
   - [あの夏で待ってる](https://ja.wikipedia.org/wiki/あの夏で待ってる "wikilink")
   - [あまつき](../Page/あまつき.md "wikilink") ※[フロンティアワークス](../Page/フロンティアワークス.md "wikilink")
   - [AMNESIA](https://ja.wikipedia.org/wiki/AMNESIA "wikilink")
@@ -41,17 +41,17 @@
   - [イナズマイレブンシリーズ](https://ja.wikipedia.org/wiki/イナズマイレブン_\(アニメ\) "wikilink") ※[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")
       - [劇場版 イナズマイレブンGO vs ダンボール戦機W](https://ja.wikipedia.org/wiki/劇場版_イナズマイレブンGO_vs_ダンボール戦機W "wikilink")（[ダンボール戦機](https://ja.wikipedia.org/wiki/ダンボール戦機 "wikilink")WはTV版は[小学館](../Page/小学館.md "wikilink")・[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")制作。）
   - [今、そこにいる僕](../Page/今、そこにいる僕.md "wikilink")
-  - [Wind -a breath of heart-](../Page/Wind_-a_breath_of_heart-.md "wikilink") （OVA版は[ケイエスエス](../Page/ケイエスエス.md "wikilink")が製作し、後に[Softgarage](https://ja.wikipedia.org/wiki/Softgarage "wikilink")に諸権利を譲渡）
+  - [Wind -a breath of heart-](../Page/Wind_-a_breath_of_heart-.md "wikilink") （OVA版は[ケイエスエス](../Page/ケイエスエス.md "wikilink")が製作し、後に[Softgarage](../Page/Softgarage.md "wikilink")に諸権利を譲渡）
   - [うたわれるもの](../Page/うたわれるもの.md "wikilink")OVA ※フロンティアワークス（TV版は[VAPの製作](../Page/バップ.md "wikilink")）
   - [うみねこのなく頃に](https://ja.wikipedia.org/wiki/うみねこのなく頃に "wikilink") ※フロンティアワークス
   - [ef - a tale of memories./ef - a tale of melodies.](https://ja.wikipedia.org/wiki/ef_-_a_fairy_tale_of_the_two. "wikilink")
   - [L/R -Licensed by Royal-](https://ja.wikipedia.org/wiki/L/R_-Licensed_by_Royal- "wikilink") ※ビクターエンタテインメント
   - [Ergo Proxy](../Page/Ergo_Proxy.md "wikilink")
-  - [エレメンタル ジェレイド](https://ja.wikipedia.org/wiki/エレメンタル_ジェレイド "wikilink") ※ビクターエンタテインメント
+  - [エレメンタル ジェレイド](../Page/エレメンタル_ジェレイド.md "wikilink") ※ビクターエンタテインメント
   - [大江戸ロケット](../Page/大江戸ロケット.md "wikilink") ※主題歌はソニーミュージックエンタテインメント制作
   - [OH\!スーパーミルクチャン](../Page/OH!スーパーミルクチャン.md "wikilink")
   - [おとぎ銃士 赤ずきん](../Page/おとぎ銃士_赤ずきん.md "wikilink") ※コナミデジタルエンタテインメントおよびキングレコード
-  - [おもいっきり科学アドベンチャー そーなんだ\!](https://ja.wikipedia.org/wiki/おもいっきり科学アドベンチャー_そーなんだ! "wikilink") ※主題歌はソニーミュージックエンタテインメント制作
+  - [おもいっきり科学アドベンチャー そーなんだ\!](../Page/おもいっきり科学アドベンチャー_そーなんだ!.md "wikilink") ※主題歌はソニーミュージックエンタテインメント制作
 
 ### か行
 
@@ -64,13 +64,13 @@
       - [神のみぞ知るセカイ 女神篇](https://ja.wikipedia.org/wiki/神のみぞ知るセカイ "wikilink")
   - [仮面のメイドガイ](https://ja.wikipedia.org/wiki/仮面のメイドガイ "wikilink")
   - [神無月の巫女](../Page/神無月の巫女.md "wikilink") ※MellowHead
-  - [ガンパレード・マーチ 〜新たなる行軍歌〜](../Page/ガンパレード・マーチ_〜新たなる行軍歌〜.md "wikilink")（原作の続編『[ガンパレード・オーケストラ](https://ja.wikipedia.org/wiki/ガンパレード・オーケストラ "wikilink")』は[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")（映像制作）・ランティス（音楽制作）がそれぞれ担当）
+  - [ガンパレード・マーチ 〜新たなる行軍歌〜](../Page/ガンパレード・マーチ_〜新たなる行軍歌〜.md "wikilink")（原作の続編『[ガンパレード・オーケストラ](../Page/ガンパレード・オーケストラ.md "wikilink")』は[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")（映像制作）・ランティス（音楽制作）がそれぞれ担当）
   - 君とナイショの…今日から彼氏 ※ [GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")（モバイルゲーム）
   - [キャシャーン Sins](../Page/キャシャーン_Sins.md "wikilink") ※主題歌は[ユニバーサルミュージックと](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[ドリーミュージック](../Page/ドリーミュージック.md "wikilink")の制作
   - [キャラディのジョークな毎日](https://ja.wikipedia.org/wiki/キャラディのジョークな毎日 "wikilink")
   - [きらりん☆レボリューション](../Page/きらりん☆レボリューション.md "wikilink") ※アップフロントワークス
   - [京四郎と永遠の空](../Page/京四郎と永遠の空.md "wikilink") ※MellowHead
-  - [吟遊黙示録マイネリーベ](../Page/吟遊黙示録マイネリーベ.md "wikilink") ※主題歌はキングレコード/[スターチャイルド](https://ja.wikipedia.org/wiki/スターチャイルド "wikilink")の制作
+  - [吟遊黙示録マイネリーベ](../Page/吟遊黙示録マイネリーベ.md "wikilink") ※主題歌はキングレコード/[スターチャイルド](../Page/スターチャイルド.md "wikilink")の制作
       - [吟遊黙示録マイネリーベwieder](https://ja.wikipedia.org/wiki/吟遊黙示録マイネリーベwieder "wikilink") ※[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスAQL "wikilink")
   - [グリザイアの果実](https://ja.wikipedia.org/wiki/グリザイアの果実 "wikilink")
   - [クロスゲーム](https://ja.wikipedia.org/wiki/クロスゲーム "wikilink") ※[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")
@@ -78,14 +78,14 @@
   - [ケメコデラックス\!](https://ja.wikipedia.org/wiki/ケメコデラックス! "wikilink")
   - [劇場版CLANNAD](https://ja.wikipedia.org/wiki/CLANNAD_\(ゲーム\)#劇場版アニメ "wikilink") ※フロンティアワークス（京都アニメーション版は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")が制作）
   - [ケンコー全裸系水泳部 ウミショー](../Page/ケンコー全裸系水泳部_ウミショー.md "wikilink") ※5pb.
-  - [恋風](https://ja.wikipedia.org/wiki/恋風 "wikilink") ※[Lantis](../Page/ランティス.md "wikilink")
+  - [恋風](../Page/恋風.md "wikilink") ※[Lantis](../Page/ランティス.md "wikilink")
   - [極上\!\!めちゃモテ委員長](https://ja.wikipedia.org/wiki/極上!!めちゃモテ委員長 "wikilink") ※主題歌はTNX（[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）が制作
-  - [ゴクドーくん漫遊記](https://ja.wikipedia.org/wiki/ゴクドーくん漫遊記 "wikilink") ※主題歌は[HEAT WAVEと](https://ja.wikipedia.org/wiki/日本コロムビア#主要レーベル "wikilink")[ポリドールの制作](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
+  - [ゴクドーくん漫遊記](../Page/ゴクドーくん漫遊記.md "wikilink") ※主題歌は[HEAT WAVEと](https://ja.wikipedia.org/wiki/日本コロムビア#主要レーベル "wikilink")[ポリドールの制作](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
   - [ご注文はうさぎですか?](https://ja.wikipedia.org/wiki/ご注文はうさぎですか? "wikilink")
   - [この醜くも美しい世界](../Page/この醜くも美しい世界.md "wikilink")
   - [こはるびより](../Page/こはるびより.md "wikilink")
   - [こみっくパーティー](../Page/こみっくパーティー.md "wikilink")Revolution ※フロンティアワークス
-  - [これが私の御主人様](https://ja.wikipedia.org/wiki/これが私の御主人様 "wikilink")
+  - [これが私の御主人様](../Page/これが私の御主人様.md "wikilink")
 
 ### さ行
 
@@ -96,19 +96,19 @@
   - [灼眼のシャナ](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")
       - [灼眼のシャナII（Second）](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink")
       - [灼眼のシャナIII-FINAL-](https://ja.wikipedia.org/wiki/灼眼のシャナ_\(アニメ\) "wikilink") ※[ワーナー・ホーム・ビデオ](https://ja.wikipedia.org/wiki/ワーナー_エンターテイメント_ジャパン "wikilink")
-  - [十二国記](https://ja.wikipedia.org/wiki/十二国記 "wikilink") （Blu-ray BOX・DVD BOXのみ）※ビクターエンタテインメント
-  - [少年陰陽師](https://ja.wikipedia.org/wiki/少年陰陽師 "wikilink") ※フロンティアワークス
+  - [十二国記](../Page/十二国記.md "wikilink") （Blu-ray BOX・DVD BOXのみ）※ビクターエンタテインメント
+  - [少年陰陽師](../Page/少年陰陽師.md "wikilink") ※フロンティアワークス
   - [女子高生 GIRL'S-HIGH](https://ja.wikipedia.org/wiki/女子高生_\(漫画\) "wikilink") ※MellowHead
   - [神撃のバハムート GENESIS](https://ja.wikipedia.org/wiki/神撃のバハムート "wikilink")
   - [真月譚 月姫](../Page/真月譚_月姫.md "wikilink")
-  - [新白雪姫伝説プリーティア](https://ja.wikipedia.org/wiki/新白雪姫伝説プリーティア "wikilink")
+  - [新白雪姫伝説プリーティア](../Page/新白雪姫伝説プリーティア.md "wikilink")
   - [神秘の世界エルハザード](../Page/神秘の世界エルハザード.md "wikilink")
-  - [心霊探偵 八雲](https://ja.wikipedia.org/wiki/心霊探偵_八雲 "wikilink") ※フロンティアワークス（販売委託のみ、主題歌は[flying DOGの制作](../Page/フライングドッグ.md "wikilink")）
+  - [心霊探偵 八雲](../Page/心霊探偵_八雲.md "wikilink") ※フロンティアワークス（販売委託のみ、主題歌は[flying DOGの制作](../Page/フライングドッグ.md "wikilink")）
   - [switch](https://ja.wikipedia.org/wiki/switch_\(naked_apeの漫画\) "wikilink") ※フロンティアワークス
-  - [スーパードール★リカちゃん](https://ja.wikipedia.org/wiki/スーパードール★リカちゃん "wikilink") ※[日本コロムビア](../Page/日本コロムビア.md "wikilink")→[NECインターチャネル](../Page/ティー_ワイ_エンタテインメント.md "wikilink")
+  - [スーパードール★リカちゃん](../Page/スーパードール★リカちゃん.md "wikilink") ※[日本コロムビア](../Page/日本コロムビア.md "wikilink")→[NECインターチャネル](../Page/ティー_ワイ_エンタテインメント.md "wikilink")
   - [スカイガールズ](../Page/スカイガールズ.md "wikilink") ※コナミデジタルエンタテインメント、[ムービック](../Page/ムービック.md "wikilink")との共同製作。音楽制作・発売元はコナミデジタルエンタテインメント（尚、エンディングテーマとキャラクターソングは、[ソニー・ミュージックディストリビューション](https://ja.wikipedia.org/wiki/ソニー・ミュージックディストリビューション "wikilink")が販売委託）
-  - [スカルマン](https://ja.wikipedia.org/wiki/スカルマン "wikilink") ※[フジパシフィック音楽出版](https://ja.wikipedia.org/wiki/フジパシフィック音楽出版 "wikilink")と共同制作、主題歌は[ユニバーサルJが制作](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
-  - [スターシップ・オペレーターズ](https://ja.wikipedia.org/wiki/スターシップ・オペレーターズ "wikilink")
+  - [スカルマン](../Page/スカルマン.md "wikilink") ※[フジパシフィック音楽出版](https://ja.wikipedia.org/wiki/フジパシフィック音楽出版 "wikilink")と共同制作、主題歌は[ユニバーサルJが制作](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
+  - [スターシップ・オペレーターズ](../Page/スターシップ・オペレーターズ.md "wikilink")
   - [Starry☆Sky](https://ja.wikipedia.org/wiki/Starry☆Sky "wikilink") ※フロンティアワークス（販売委託のみ）
   - [STRANGE DAWN](../Page/ストレンジドーン.md "wikilink")
   - [精霊の守り人](../Page/守り人シリーズ.md "wikilink")
@@ -116,7 +116,7 @@
   - [絶対可憐チルドレン](https://ja.wikipedia.org/wiki/絶対可憐チルドレン_\(アニメ\) "wikilink")
       - [THE UNLIMITED 兵部京介](https://ja.wikipedia.org/wiki/絶対可憐チルドレン_\(アニメ\) "wikilink")
   - [絶対防衛レヴィアタン](https://ja.wikipedia.org/wiki/絶対防衛レヴィアタン "wikilink") ※ユニバーサルミュージック
-  - [The Soul Taker 〜魂狩〜](https://ja.wikipedia.org/wiki/The_Soul_Taker_〜魂狩〜 "wikilink") ※ビクターエンタテインメント
+  - [The Soul Taker 〜魂狩〜](../Page/The_Soul_Taker_〜魂狩〜.md "wikilink") ※ビクターエンタテインメント
   - [Soul Link](../Page/Soul_Link.md "wikilink") ※MellowHead
   - [そふてにっ](https://ja.wikipedia.org/wiki/そふてにっ "wikilink") ※MellowHead
 
@@ -132,7 +132,7 @@
   - [ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink")
   - [ちび☆デビ\!](https://ja.wikipedia.org/wiki/ちび☆デビ! "wikilink")\[1\]
   - [ちょびっツ](../Page/ちょびっツ.md "wikilink") ※ビクターエンタテインメント
-  - [月は東に日は西に 〜Operation Sanctuary〜](https://ja.wikipedia.org/wiki/月は東に日は西に_〜Operation_Sanctuary〜 "wikilink") ※フロンティアワークス
+  - [月は東に日は西に 〜Operation Sanctuary〜](../Page/月は東に日は西に_〜Operation_Sanctuary〜.md "wikilink") ※フロンティアワークス
   - [テイルズ オブ シンフォニア](https://ja.wikipedia.org/wiki/テイルズ_オブ_シンフォニア "wikilink") ※フロンティアワークス
   - [テイルズ オブ ファンタジア](https://ja.wikipedia.org/wiki/テイルズ_オブ_ファンタジア "wikilink") ※フロンティアワークス
   - [TEXHNOLYZE](https://ja.wikipedia.org/wiki/TEXHNOLYZE "wikilink")
@@ -160,7 +160,7 @@
   - [菜々子解体診書](../Page/菜々子解体診書.md "wikilink")
   - [ななついろ★ドロップス](../Page/ななついろ★ドロップス.md "wikilink")
   - [隠の王](https://ja.wikipedia.org/wiki/隠の王 "wikilink")
-  - [NieA 7](https://ja.wikipedia.org/wiki/NieA_7 "wikilink")
+  - [NieA 7](../Page/NieA_7.md "wikilink")
   - [西の善き魔女 Astraea Testament](../Page/西の善き魔女.md "wikilink") ※MellowHead
   - [二十面相の娘](https://ja.wikipedia.org/wiki/二十面相の娘 "wikilink") ※主題歌（OP）は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")、EDはLantisの制作
   - [乃木坂春香の秘密](../Page/乃木坂春香の秘密.md "wikilink")
@@ -170,8 +170,8 @@
 ### は行
 
   - [BURN-UP SCRAMBLE](../Page/BURN-UP.md "wikilink") ※NECインターチャネル
-  - [灰羽連盟](https://ja.wikipedia.org/wiki/灰羽連盟 "wikilink")
-  - [PERFECT BLUE](https://ja.wikipedia.org/wiki/パーフェクトブルー "wikilink")（Blu-ray Discのみ） ※ポニーキャニオン
+  - [灰羽連盟](../Page/灰羽連盟.md "wikilink")
+  - [PERFECT BLUE](../Page/パーフェクトブルー.md "wikilink")（Blu-ray Discのみ） ※ポニーキャニオン
   - [ハイスクール\!奇面組](../Page/ハイスクール!奇面組.md "wikilink") ※キャニオン・レコード（後のポニーキャニオン）
   - [薄桜鬼](https://ja.wikipedia.org/wiki/薄桜鬼_〜新選組奇譚〜 "wikilink") ※[ティームエンタテインメント](https://ja.wikipedia.org/wiki/ティームエンタテインメント "wikilink")/クロスフューチャーレーベル
       - [薄桜鬼 碧血録](https://ja.wikipedia.org/wiki/薄桜鬼_〜新選組奇譚〜 "wikilink") ※ティームエンタテインメント/クロスフューチャーレーベル
@@ -181,7 +181,7 @@
   - [バクマン。](https://ja.wikipedia.org/wiki/バクマン。_\(アニメ\) "wikilink") ※ワーナーミュージックジャパン（サウンドトラックはMellow Headの制作）
   - [パタリロ西遊記\!](../Page/パタリロ西遊記!.md "wikilink")
   - [初恋限定。](../Page/初恋限定。.md "wikilink") ※OPは[Glory Heaven](../Page/ランティス.md "wikilink")、EDはMellow Headの制作
-  - [幕末Rock](https://ja.wikipedia.org/wiki/幕末Rock "wikilink") ※[マーベラス](https://ja.wikipedia.org/wiki/マーベラス_\(企業\) "wikilink")
+  - [幕末Rock](https://ja.wikipedia.org/wiki/幕末Rock "wikilink") ※[マーベラス](../Page/マーベラス_\(企業\).md "wikilink")
   - [破天荒遊戯](../Page/破天荒遊戯.md "wikilink") ※フロンティアワークス
   - [バトルアスリーテス 大運動会](../Page/バトルアスリーテス_大運動会.md "wikilink")
   - [花右京メイド隊](../Page/花右京メイド隊.md "wikilink") ※TV版第一作（[WOWOW](../Page/WOWOW.md "wikilink")版[アニコン枠](../Page/アニメコンプレックス.md "wikilink")）はポニーキャニオンが制作
@@ -189,15 +189,15 @@
   - [BALDR FORCE EXE RESOLUTION](../Page/BALDR_FORCE.md "wikilink")
   - [HAND MAID メイ](../Page/HAND_MAID_メイ.md "wikilink")
   - [パンプキン・シザーズ](../Page/パンプキン・シザーズ.md "wikilink")
-  - [PIANO](https://ja.wikipedia.org/wiki/PIANO_\(アニメ\) "wikilink") ※[マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")
+  - [PIANO](../Page/PIANO_\(アニメ\).md "wikilink") ※[マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")
   - [PEACE MAKER鐵](../Page/新撰組異聞PEACE_MAKER.md "wikilink") ※フロンティアワークス（主題歌はポニーキャニオンの制作）
-  - [ひぐらしのなく頃に](https://ja.wikipedia.org/wiki/ひぐらしのなく頃に "wikilink") ※フロンティアワークス
+  - [ひぐらしのなく頃に](../Page/ひぐらしのなく頃に.md "wikilink") ※フロンティアワークス
   - [ひめチェン\!おとぎちっくアイドル リルぷりっ](https://ja.wikipedia.org/wiki/リルぷりっ "wikilink")
   - [BUS GAMER](../Page/BUS_GAMER.md "wikilink") ※フロンティアワークス
   - [Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night "wikilink") ※原作版はフロンティアワークスの制作（「[Fate/Zero](https://ja.wikipedia.org/wiki/Fate/Zero "wikilink")」および原作版のアニメアドベンチャーゲームの音楽制作は[アニプレックス](../Page/アニプレックス.md "wikilink")の製作。スピンオフ作品「[Fate/kaleid liner プリズマ☆イリヤ](https://ja.wikipedia.org/wiki/Fate/kaleid_liner_プリズマ☆イリヤ "wikilink")」は角川書店・クロックワークスが制作）
   - [武装錬金](https://ja.wikipedia.org/wiki/武装錬金 "wikilink")
   - [ぷちぷり\*ユーシィ](../Page/ぷちぷり*ユーシィ.md "wikilink")
-  - [プリキュアシリーズ](https://ja.wikipedia.org/wiki/プリキュアシリーズ "wikilink")（CDのみ） ※マーベラスエンターテイメント
+  - [プリキュアシリーズ](../Page/プリキュアシリーズ.md "wikilink")（CDのみ） ※マーベラスエンターテイメント
   - [BROTHERS CONFLICT](https://ja.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")
   - [ブラック・ブレット](https://ja.wikipedia.org/wiki/ブラック・ブレット "wikilink")
   - [BLACK LAGOON](https://ja.wikipedia.org/wiki/ブラック・ラグーン "wikilink")
@@ -207,7 +207,7 @@
 ### ま行
 
   - [魔界戦記ディスガイア](../Page/魔界戦記ディスガイア.md "wikilink")
-  - [まじかるカナン](https://ja.wikipedia.org/wiki/SeptemCharm_まじかるカナン "wikilink") ※ランティス（アニメ版はフロンティアワークスの制作）
+  - [まじかるカナン](../Page/SeptemCharm_まじかるカナン.md "wikilink") ※ランティス（アニメ版はフロンティアワークスの制作）
   - [魔法少女プリティサミー](../Page/魔法少女プリティサミー.md "wikilink")
   - [魔法遣いに大切なこと](https://ja.wikipedia.org/wiki/魔法遣いに大切なこと "wikilink")
   - [まほろまてぃっく](https://ja.wikipedia.org/wiki/まほろまてぃっく "wikilink")
@@ -228,7 +228,7 @@
 ### ら行
 
   - [RIDEBACK](https://ja.wikipedia.org/wiki/RIDEBACK "wikilink")
-  - [あかほり外道アワーらぶげ](https://ja.wikipedia.org/wiki/あかほり外道アワーらぶげ "wikilink") ※Mellow Head
+  - [あかほり外道アワーらぶげ](../Page/あかほり外道アワーらぶげ.md "wikilink") ※Mellow Head
   - [れでぃ×ばと\!](https://ja.wikipedia.org/wiki/れでぃ×ばと! "wikilink") ※Mellow Head
 
 ### わ行

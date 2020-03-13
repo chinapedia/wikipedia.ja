@@ -5,7 +5,7 @@
 
 物語の舞台となるのは、[テラフォーミング](../Page/テラフォーミング.md "wikilink")され水の惑星となった未来の[火星](../Page/火星.md "wikilink")、**アクア**。そのアクアの観光都市**ネオ・ヴェネツィア**で、一人前の観光水先案内人を目指す少女、水無灯里とその周囲の人々の四季折々の日常を描いている。ネオ・ヴェネツィアは地球の[ヴェネツィア](../Page/ヴェネツィア.md "wikilink")から建築物や風習を移転したという設定になっており、異星を舞台にしながらも実在の観光資源が作中に登場している。
 
-当初は『AQUA』の題で『[月刊ステンシル](../Page/月刊ステンシル.md "wikilink")』（[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")刊）に掲載されていたが、いわゆる[エニックスお家騒動](https://ja.wikipedia.org/wiki/エニックスお家騒動 "wikilink")により[2002年](../Page/2002年.md "wikilink")から『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』（[マッグガーデン](../Page/マッグガーデン.md "wikilink")刊）に掲載誌が変わり、題も『ARIA』に改題された。
+当初は『AQUA』の題で『[月刊ステンシル](../Page/月刊ステンシル.md "wikilink")』（[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")刊）に掲載されていたが、いわゆる[エニックスお家騒動](../Page/エニックスお家騒動.md "wikilink")により[2002年](../Page/2002年.md "wikilink")から『[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")』（[マッグガーデン](../Page/マッグガーデン.md "wikilink")刊）に掲載誌が変わり、題も『ARIA』に改題された。
 
 ## 作品解説
 
@@ -17,7 +17,7 @@
 
 ### AQUA
 
-『**AQUA**』（アクア）は、『月刊ステンシル』[2001年](../Page/2001年.md "wikilink")3月号から同年11月号まで連載された漫画作品。連載中に[エニックスお家騒動](https://ja.wikipedia.org/wiki/エニックスお家騒動 "wikilink")が起こり、『月刊コミックブレイド』への移籍にあたって改題した。ステンシルコミックスの『AQUA』は絶版となっており、マッグガーデン(ブレイドコミックス)より新装版『AQUA』が出版されている。
+『**AQUA**』（アクア）は、『月刊ステンシル』[2001年](../Page/2001年.md "wikilink")3月号から同年11月号まで連載された漫画作品。連載中に[エニックスお家騒動](../Page/エニックスお家騒動.md "wikilink")が起こり、『月刊コミックブレイド』への移籍にあたって改題した。ステンシルコミックスの『AQUA』は絶版となっており、マッグガーデン(ブレイドコミックス)より新装版『AQUA』が出版されている。
 
 ### ARIA
 
@@ -25,7 +25,7 @@
 
 ### メディアミックス
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月には『**ARIA The ANIMATION**』（アリア ジ アニメーション）のタイトルで[アニメ](../Page/アニメ.md "wikilink")化し、翌[2006年](../Page/2006年.md "wikilink")4月から第2期『**ARIA The NATURAL**』（アリア ザ ナチュラル）も放送。[2007年](../Page/2007年.md "wikilink")の9月には[OVA](../Page/OVA.md "wikilink")版が『**ARIA The OVA 〜ARIETTA〜**』（アリア ジ オーブイエー アリエッタ）のタイトルで発売。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月から第3期『**ARIA The ORIGINATION**』（アリア ジ・オリジネーション）が放送され、2008年3月31日に最終話が放送。
+[2005年](../Page/2005年.md "wikilink")10月には『**ARIA The ANIMATION**』（アリア ジ アニメーション）のタイトルで[アニメ](../Page/アニメ.md "wikilink")化し、翌[2006年](../Page/2006年.md "wikilink")4月から第2期『**ARIA The NATURAL**』（アリア ザ ナチュラル）も放送。[2007年](../Page/2007年.md "wikilink")の9月には[OVA](../Page/OVA.md "wikilink")版が『**ARIA The OVA 〜ARIETTA〜**』（アリア ジ オーブイエー アリエッタ）のタイトルで発売。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")1月から第3期『**ARIA The ORIGINATION**』（アリア ジ・オリジネーション）が放送され、2008年3月31日に最終話が放送。
 
 2006年9月には『**ARIA The NATURAL 〜遠い記憶のミラージュ〜**』（アリア ザ ナチュラル とおいゆめのミラージュ）のタイトルで[ゲームも発売](../Page/コンピュータゲーム.md "wikilink")。
 
@@ -33,7 +33,7 @@
 
 2015年9月には『**ARIA The AVVENIRE**』が劇場公開された。
 
-この他にも[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")化や画集発売など、[メディアミックス](../Page/メディアミックス.md "wikilink")展開された。
+この他にも[ドラマCD](../Page/ドラマCD.md "wikilink")化や画集発売など、[メディアミックス](../Page/メディアミックス.md "wikilink")展開された。
 
 ## 作品内容
 
@@ -93,7 +93,7 @@
 ## 既刊一覧
 
   - AQUA
-    全2巻。[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")版は[エニックスお家騒動](https://ja.wikipedia.org/wiki/エニックスお家騒動 "wikilink")により絶版となり、新装版として[マッグガーデン](../Page/マッグガーデン.md "wikilink")から刊行されている。
+    全2巻。[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")版は[エニックスお家騒動](../Page/エニックスお家騒動.md "wikilink")により絶版となり、新装版として[マッグガーデン](../Page/マッグガーデン.md "wikilink")から刊行されている。
     1.  ISBN 4-901926-89-6
     2.  ISBN 4-901926-90-X
   - ARIA
@@ -142,7 +142,7 @@
 ### 概要
 
   -
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月 - 12月の間、[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")6局および[AT-Xで放送](../Page/アニメシアターX.md "wikilink")、2006年[4月1日](../Page/4月1日.md "wikilink")より[GyaOにて配信](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。
+    [2005年](../Page/2005年.md "wikilink")10月 - 12月の間、[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")6局および[AT-Xで放送](../Page/アニメシアターX.md "wikilink")、2006年[4月1日](../Page/4月1日.md "wikilink")より[GyaOにて配信](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")。
     タイトルロゴは青色。
     [画面アスペクト比](../Page/画面アスペクト比.md "wikilink")は4:3であり、これは第2期でも同様である。
   -
@@ -155,7 +155,7 @@
     OVA作品として、[2007年](../Page/2007年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")に発売された。内容は本編映像は30分が1話と特典映像が含まれる。タイトルロゴはオレンジ色。
     灯里が訪れる前のARIAカンパニーを中心とした完全オリジナルエピソードで描く。
     ARIAシリーズとしては初めての16:9サイズ制作である。
-    製作局である[AT-Xでは発売に先駆けて](../Page/アニメシアターX.md "wikilink")2007年[9月2日](../Page/9月2日.md "wikilink")と2007年[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")に先行放映された。
+    製作局である[AT-Xでは発売に先駆けて](../Page/アニメシアターX.md "wikilink")2007年[9月2日](../Page/9月2日.md "wikilink")と2007年[9月8日](../Page/9月8日.md "wikilink")に先行放映された。
   -
     テレビアニメの第3期として、2008年1月からテレビ東京系列3局およびAT-Xで放送、[びわ湖放送](../Page/びわ湖放送.md "wikilink")でも1年9か月遅れで放送。
     OVAと並行して、もしくはそれ以前より製作が開始されている。タイトルロゴは紫色。テーマは「始まり」。
@@ -343,7 +343,7 @@
 </tr>
 <tr class="even">
 <td><p>アニメーション制作</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハルフィルムメーカー" title="wikilink">ハルフィルムメーカー</a></p></td>
+<td><p><a href="../Page/ハルフィルムメーカー.md" title="wikilink">ハルフィルムメーカー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TYOアニメーションズ" title="wikilink">TYOアニメーションズ</a></p></td>
 <td></td>
 <td></td>
@@ -369,7 +369,7 @@
 
 :; オープニングテーマ「[ウンディーネ](../Page/ウンディーネ_\(牧野由依の曲\).md "wikilink")」
 
-:: 作詞 - [河井英里](../Page/河井英里.md "wikilink") / 作曲・編曲 - [窪田ミナ](https://ja.wikipedia.org/wiki/窪田ミナ "wikilink") / 歌唱 - [牧野由依](https://ja.wikipedia.org/wiki/牧野由依 "wikilink")
+:: 作詞 - [河井英里](../Page/河井英里.md "wikilink") / 作曲・編曲 - [窪田ミナ](../Page/窪田ミナ.md "wikilink") / 歌唱 - [牧野由依](../Page/牧野由依.md "wikilink")
 
 :: 第9話から第11話までは2コーラス目が、第12話はサウンドトラック収録の歌詞を[造語](../Page/造語.md "wikilink")に置き換え、そのボーカルに[エコー](../Page/エコー.md "wikilink")をかけた「forest mix」が使用された。
 
@@ -429,7 +429,7 @@
 
 ::; 「Smile Again」（第16話 - 第25話）
 
-::: 作詞・作曲 - [妹尾武](https://ja.wikipedia.org/wiki/妹尾武 "wikilink") / 編曲 - 妹尾武、[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink") / 歌 - [葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")
+::: 作詞・作曲 - [妹尾武](https://ja.wikipedia.org/wiki/妹尾武 "wikilink") / 編曲 - 妹尾武、[羽岡佳](https://ja.wikipedia.org/wiki/羽岡佳 "wikilink") / 歌 - [葉月絵理乃](../Page/葉月絵理乃.md "wikilink")
 
 ::; 「Rainbow」（第26話）
 
@@ -483,7 +483,7 @@
 
 :; エンディングテーマ「明日、夕暮れまで」
 
-:: 作詞 - 伊藤利恵子 / 作曲・編曲 - 北川勝利 / ストリングス編曲 - 桜井康史（妹尾武ピアノ演奏） / 歌 - [葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")
+:: 作詞 - 伊藤利恵子 / 作曲・編曲 - 北川勝利 / ストリングス編曲 - 桜井康史（妹尾武ピアノ演奏） / 歌 - [葉月絵理乃](../Page/葉月絵理乃.md "wikilink")
 
 :; 挿入歌「コッコロ」
 
@@ -497,13 +497,13 @@
 
 :; オープニングテーマ「[スピラーレ](../Page/スピラーレ.md "wikilink")」
 
-:: 作詞 - [河井英里](../Page/河井英里.md "wikilink") / 作曲・編曲 - [窪田ミナ](https://ja.wikipedia.org/wiki/窪田ミナ "wikilink") / 歌唱 - [牧野由依](https://ja.wikipedia.org/wiki/牧野由依 "wikilink")
+:: 作詞 - [河井英里](../Page/河井英里.md "wikilink") / 作曲・編曲 - [窪田ミナ](../Page/窪田ミナ.md "wikilink") / 歌唱 - [牧野由依](../Page/牧野由依.md "wikilink")
 
 :; エンディングテーマ
 
 ::; 「[金の波 千の波](https://ja.wikipedia.org/wiki/金の波_千の波 "wikilink")」（第1話 - 第12話）
 
-::: 作詞・歌 - [新居昭乃](https://ja.wikipedia.org/wiki/新居昭乃 "wikilink") / 作曲 - 新居昭乃、[保刈久明](https://ja.wikipedia.org/wiki/保刈久明 "wikilink") / 編曲 - 保刈久明
+::: 作詞・歌 - [新居昭乃](../Page/新居昭乃.md "wikilink") / 作曲 - 新居昭乃、[保刈久明](https://ja.wikipedia.org/wiki/保刈久明 "wikilink") / 編曲 - 保刈久明
 
 ::; 「ウンディーネ」（第13話）
 
@@ -554,7 +554,7 @@
   -
 
       -
-        歌 - [葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink") / 作詞 - 伊藤利恵子 / 作曲・編曲 - 北川勝利 / ストリングス編曲 - 桜井康史（[妹尾武](https://ja.wikipedia.org/wiki/妹尾武 "wikilink")ピアノ演奏）
+        歌 - [葉月絵理乃](../Page/葉月絵理乃.md "wikilink") / 作詞 - 伊藤利恵子 / 作曲・編曲 - 北川勝利 / ストリングス編曲 - 桜井康史（[妹尾武](https://ja.wikipedia.org/wiki/妹尾武 "wikilink")ピアノ演奏）
         第3話ではピアノアレンジが流れた。
 
   - AVVENIRE
@@ -1191,12 +1191,12 @@ Navigation</p></td>
 | 放送地域                                                  | 放送局                                                     | 放送期間                                                                                                                                      | 放送日時                  | 放送系列                                                             | 備考       |
 | ----------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------- | -------- |
 | 第1期                                                   |                                                         |                                                                                                                                           |                       |                                                                  |          |
-| [関東広域圏](../Page/広域放送.md "wikilink")                   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月6日](../Page/10月6日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")      | 木曜 1:30 - 2:00 (水曜深夜) | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |          |
+| [関東広域圏](../Page/広域放送.md "wikilink")                   | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [2005年](../Page/2005年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")                         | 木曜 1:30 - 2:00 (水曜深夜) | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |          |
 | [大阪府](../Page/大阪府.md "wikilink")                      | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    | 木曜 2:05 - 2:35 (水曜深夜)                                                                                                                     |                       |                                                                  |          |
 | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")   | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    | 2005年[10月7日](../Page/10月7日.md "wikilink") - [12月30日](../Page/12月30日.md "wikilink")                                                        | 金曜 2:28 - 2:58 (木曜深夜) |                                                                  |          |
 | [日本全域](../Page/全国放送.md "wikilink")                    | [AT-X](../Page/アニメシアターX.md "wikilink")                  | 2005年[10月10日](../Page/10月10日.md "wikilink") - 2006年[1月2日](../Page/1月2日.md "wikilink")                                                     | 月曜 10:30 - 11:00      | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")   | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                  | 2005年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - [2006年](../Page/2006年.md "wikilink")[1月11日](../Page/1月11日.md "wikilink") | 水曜 2:00 - 2:30 (火曜深夜) | テレビ東京系列                                                          |          |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")   | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                | 水曜 2:23 - 2:53 (水曜深夜)                                                                                                                     |                       |                                                                  |          |
+| [福岡県](../Page/福岡県.md "wikilink")                      | [TVQ九州放送](../Page/TVQ九州放送.md "wikilink")                | 水曜 2:23 - 2:53 (水曜深夜)                                                                                                                     |                       |                                                                  |          |
 | [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")           | [テレビせとうち](../Page/テレビせとうち.md "wikilink")                | 2005年[10月13日](../Page/10月13日.md "wikilink") - 2006年[1月12日](../Page/1月12日.md "wikilink")                                                   | 木曜 1:28 - 1:58 (水曜深夜) |                                                                  |          |
 | [滋賀県](../Page/滋賀県.md "wikilink")                      | [びわ湖放送](../Page/びわ湖放送.md "wikilink")                    | 2006年[4月11日](../Page/4月11日.md "wikilink") - [7月4日](../Page/7月4日.md "wikilink")                                                            | 火曜 17:25 - 17:54      | [独立局](../Page/全国独立放送協議会.md "wikilink")                           |          |
 | 日本全域                                                  | [GYAO\!](../Page/GYAO!.md "wikilink")                   | 2006年[4月1日](../Page/4月1日.md "wikilink") - [6月24日](../Page/6月24日.md "wikilink")                                                            | 土曜 更新                 | [ネット配信](../Page/ネット配信.md "wikilink")                             |          |
@@ -1337,7 +1337,7 @@ Navigation</p></td>
 ゲーム自体はアニメ的な演出効果を盛り込んでいる[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")の形式をとっており\[7\]、物語を主人公の青年の視点から描いている。また、本作のために新たに書き下ろされたCGや天野自らがデザインしたゲームオリジナルのキャラクターも追加されている。2006年4月に行われたアルケミストのイベント「アルケ祭」にて本作の主題歌が発表された。
 
   - ストーリー
-    主人公はマンホーム（地球）の大学で[都市工学](../Page/都市工学.md "wikilink")を専攻する青年。彼は[フィールドワーク](https://ja.wikipedia.org/wiki/フィールドワーク "wikilink")のためにアクアを訪れたが、ふとしたきっかけで灯里と出会い、行動を共にすることとなる。灯里達とのアクアでの生活は楽しく穏やかに過ぎていくのだが、そんな日常がゆっくりと確実に変わっていく。
+    主人公はマンホーム（地球）の大学で[都市工学](../Page/都市工学.md "wikilink")を専攻する青年。彼は[フィールドワーク](../Page/フィールドワーク.md "wikilink")のためにアクアを訪れたが、ふとしたきっかけで灯里と出会い、行動を共にすることとなる。灯里達とのアクアでの生活は楽しく穏やかに過ぎていくのだが、そんな日常がゆっくりと確実に変わっていく。
   - テーマソング
     オープニングおよびエンディング収録のCDは2006年[10月6日](../Page/10月6日.md "wikilink")に発売された。
       - オープニングテーマ「BLUE BLUE WAVE」
@@ -1349,7 +1349,7 @@ Navigation</p></td>
 
 『**ARIA The ORIGINATION 〜蒼い惑星のエルシエロ〜**』（アリア ジ オリジネーション あおいほしのエルシエロ）のタイトルで、2008年[6月26日](../Page/6月26日.md "wikilink")にアルケミストからPlayStation 2用ゲームとして発売された。2009年[8月6日](../Page/8月6日.md "wikilink")に加賀クリエイトからベスト版が発売している。本作では冬のネオ・ヴェネツィアを舞台に、プリマを目指す見習いウンディーネのアニエス・デュマ（アニー）の視点で物語を追体験していく。
 
-本作品には[ハルフィルムメーカー](https://ja.wikipedia.org/wiki/ハルフィルムメーカー "wikilink")制作によるフルアニメーションのオープニングムービーが収録されている。前述の通り、テレビアニメ版やOVA版ではそれぞれ固有のオープニングムービーと呼べるものが制作されていないため、現時点では本作品がARIAで唯一、ハルフィルム制作のオープニングムービーを有する作品であると言える。
+本作品には[ハルフィルムメーカー](../Page/ハルフィルムメーカー.md "wikilink")制作によるフルアニメーションのオープニングムービーが収録されている。前述の通り、テレビアニメ版やOVA版ではそれぞれ固有のオープニングムービーと呼べるものが制作されていないため、現時点では本作品がARIAで唯一、ハルフィルム制作のオープニングムービーを有する作品であると言える。
 
   - テーマソング
 
@@ -1389,8 +1389,8 @@ Navigation</p></td>
 ## インターネットラジオ
 
   - [ARIA The STATION Neo VENEZIA INFORMALE](../Page/灯里・藍華・アリスのARIA_The_STATION_Neo_VENEZIA_INFORMALE.md "wikilink")
-    2006年[1月10日](../Page/1月10日.md "wikilink") - [3月28日](../Page/3月28日.md "wikilink")まで[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")・[BEWE](../Page/BEWE.md "wikilink")、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて毎週火曜日（アニメイトTVでは毎週木曜日）に配信されていた。
-    パーソナリティ：[葉月絵理乃](https://ja.wikipedia.org/wiki/葉月絵理乃 "wikilink")・[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")・[広橋涼](../Page/広橋涼.md "wikilink")
+    2006年[1月10日](../Page/1月10日.md "wikilink") - [3月28日](../Page/3月28日.md "wikilink")まで[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")にて毎週火曜日（アニメイトTVでは毎週木曜日）に配信されていた。
+    パーソナリティ：[葉月絵理乃](../Page/葉月絵理乃.md "wikilink")・[斎藤千和](https://ja.wikipedia.org/wiki/斎藤千和 "wikilink")・[広橋涼](../Page/広橋涼.md "wikilink")
   - [ARIA The STATION Due](../Page/ARIA_The_STATION_Due.md "wikilink")
     2006年[4月6日](../Page/4月6日.md "wikilink") - 2007年[3月29日](../Page/3月29日.md "wikilink")まで音泉・BEWE、アニメイトTVにて毎週木曜日に配信されていた。
     パーソナリティ：葉月絵理乃・[西村ちなみ](../Page/西村ちなみ.md "wikilink")
@@ -1458,7 +1458,7 @@ Navigation</p></td>
 ### ドラマCD
 
   - ARIA Drama CD I - 発売日：[2004年](../Page/2004年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")
-  - ARIA Drama CD II - 発売日：[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")
+  - ARIA Drama CD II - 発売日：[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")
   - AQUA Drama CD I - 発売日：2005年[9月22日](../Page/9月22日.md "wikilink")
   - ARIA The ANIMATION Drama CD I BLUE - 発売日：2005年[11月25日](../Page/11月25日.md "wikilink")
   - ARIA The ANIMATION Drama CD II RED - 発売日：2005年[12月22日](../Page/12月22日.md "wikilink")
@@ -1531,7 +1531,7 @@ Navigation</p></td>
 [Category:ARIA](https://ja.wikipedia.org/wiki/Category:ARIA "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:月刊コミックブレイドの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊コミックブレイドの漫画作品 "wikilink") [Category:月刊ステンシル](https://ja.wikipedia.org/wiki/Category:月刊ステンシル "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:松竹のアニメ作品](https://ja.wikipedia.org/wiki/Category:松竹のアニメ作品 "wikilink") [Category:メディアファクトリーのアニメ作品](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ作品 "wikilink") [Category:テレビ東京メディアネットのアニメ作品](https://ja.wikipedia.org/wiki/Category:テレビ東京メディアネットのアニメ作品 "wikilink") [Category:マッグガーデンのアニメ作品](https://ja.wikipedia.org/wiki/Category:マッグガーデンのアニメ作品 "wikilink") [Category:アルケミストのゲームソフト](https://ja.wikipedia.org/wiki/Category:アルケミストのゲームソフト "wikilink") [Category:ノベルゲーム](https://ja.wikipedia.org/wiki/Category:ノベルゲーム "wikilink") [Category:マッグガーデンノベルス](https://ja.wikipedia.org/wiki/Category:マッグガーデンノベルス "wikilink") [Category:火星を舞台とした作品](https://ja.wikipedia.org/wiki/Category:火星を舞台とした作品 "wikilink") [Category:未来を題材にした作品](https://ja.wikipedia.org/wiki/Category:未来を題材にした作品 "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")
 
 1.
-2.  前シリーズを担当していた[ハルフィルムメーカー](https://ja.wikipedia.org/wiki/ハルフィルムメーカー "wikilink")は2009年ゆめ太カンパニーに吸収合併されTYOアニメーションズとなっている。
+2.  前シリーズを担当していた[ハルフィルムメーカー](../Page/ハルフィルムメーカー.md "wikilink")は2009年ゆめ太カンパニーに吸収合併されTYOアニメーションズとなっている。
 3.  [ARIA The AVVENIRE Twitter公式アカウント（2015年4月5日）](https://twitter.com/ARIATheAVVENIRE/status/584922660557033473)より。なお、本作中にはアテナの新録セリフは無く、声の出演は回想シーンのみである。
 4.  「月刊NEWTYPE」2015年10月号別冊付録「movieNewtype」誌上のインタビューより
 5.

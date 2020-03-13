@@ -5,15 +5,15 @@
 
 ## 概要
 
-本作は、[性転換](https://ja.wikipedia.org/wiki/性転換 "wikilink")（[TSF](../Page/TSF.md "wikilink")）を題材にした「Xchange」シリーズの第4作であり、『[Xchange3](../Page/Xchange3.md "wikilink")』までの相原拓也（相原たくや）を主人公としたシリーズとは世界観が別の物語となっている。
+本作は、[性転換](../Page/性転換.md "wikilink")（[TSF](../Page/TSF.md "wikilink")）を題材にした「Xchange」シリーズの第4作であり、『[Xchange3](../Page/Xchange3.md "wikilink")』までの相原拓也（相原たくや）を主人公としたシリーズとは世界観が別の物語となっている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")には、廉価版として『**Yin-Yang\! X Change Alternative 復刻版**』、ならびに『Xchange3 復刻版』とセットになった『**XチェンBOX2**』が発売された。また、[2012年](../Page/2012年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")には、[Android](../Page/Android.md "wikilink")版も発売された。
+[2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")には、廉価版として『**Yin-Yang\! X Change Alternative 復刻版**』、ならびに『Xchange3 復刻版』とセットになった『**XチェンBOX2**』が発売された。また、[2012年](../Page/2012年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")には、[Android](../Page/Android.md "wikilink")版も発売された。
 
 なお、「Xchange」の表記について、『Xchange』から『Xchange3』までのシリーズはcが小文字でXとつなげて書かれているが、本作ではメーカーWebページやパッケージにおいてCが大文字でXとの間にスペースが入っている。
 
 ## あらすじ
 
-桜塚薫は、低い身長と女顔をコンプレックスに持ちながらも「男の中の男」を目指してケンカに明け暮れ、常勝無敗を誇っていた。ところが、[保健室](https://ja.wikipedia.org/wiki/保健室 "wikilink")の[養護教諭](../Page/養護教諭.md "wikilink")が作った謎の薬を飲んで女の子になってしまう。学園の[生徒会](../Page/生徒会.md "wikilink")長に調教されたり、同居している親友達に狙われたりと例によって女の子の快感を満喫してしまったカオルは、果たして男に戻れるのか。
+桜塚薫は、低い身長と女顔をコンプレックスに持ちながらも「男の中の男」を目指してケンカに明け暮れ、常勝無敗を誇っていた。ところが、[保健室](../Page/保健室.md "wikilink")の[養護教諭](../Page/養護教諭.md "wikilink")が作った謎の薬を飲んで女の子になってしまう。学園の[生徒会](../Page/生徒会.md "wikilink")長に調教されたり、同居している親友達に狙われたりと例によって女の子の快感を満喫してしまったカオルは、果たして男に戻れるのか。
 
 ## 登場キャラクター
 
@@ -40,7 +40,7 @@
     薫のクラスメートで薫と同居している。バンド命で、女の子からラブレターをもらっても見向きもしない。
   - 早乙女蓮司（さおとめ れんじ）
     声 - [一条和矢](../Page/一条和矢.md "wikilink")
-    薫のクラスメートで薫と同居している。[ナンパ](https://ja.wikipedia.org/wiki/ナンパ "wikilink")命で、女の子のためなら何でもやる。
+    薫のクラスメートで薫と同居している。[ナンパ](../Page/ナンパ.md "wikilink")命で、女の子のためなら何でもやる。
   - 七海 留衣（ななうみ るい）
     声 - [高橋栄一](https://ja.wikipedia.org/wiki/高橋栄一 "wikilink")
     代々西園寺家に仕える家柄の生まれ。杏華の僕だが実は杏華が好き。由衣の双子の弟。

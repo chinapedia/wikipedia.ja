@@ -5,11 +5,11 @@
 
 ## 概要
 
-本作は、[性転換](https://ja.wikipedia.org/wiki/性転換 "wikilink")（[TSF](../Page/TSF.md "wikilink")）を題材にした「Xchange」シリーズの第3作であり、前作『[Xchange2](../Page/Xchange2.md "wikilink")』の続編作品にあたる。なお、相原拓也（相原たくや）を主人公にしたシリーズとしてはこれが最後となる。
+本作は、[性転換](../Page/性転換.md "wikilink")（[TSF](../Page/TSF.md "wikilink")）を題材にした「Xchange」シリーズの第3作であり、前作『[Xchange2](../Page/Xchange2.md "wikilink")』の続編作品にあたる。なお、相原拓也（相原たくや）を主人公にしたシリーズとしてはこれが最後となる。
 
 また、2004年には村上早紀による小説版がパラダイム（パラダイムノベル）から発売されている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")には廉価版として『**Xchange3 復刻版**』ならびに『[Yin-Yang\! X Change Alternative 復刻版](https://ja.wikipedia.org/wiki/Yin-Yang!_X_Change_Alternative "wikilink")』とセットになった『**XチェンBOX2**』が発売された。
+[2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")には廉価版として『**Xchange3 復刻版**』ならびに『[Yin-Yang\! X Change Alternative 復刻版](../Page/Yin-Yang!_X_Change_Alternative.md "wikilink")』とセットになった『**XチェンBOX2**』が発売された。
 
 ## あらすじ
 
@@ -43,7 +43,7 @@
     声 - [麻生明良](https://ja.wikipedia.org/wiki/麻生明良 "wikilink")
     北ノ都大学助教授。元々はアメリカに留学して医師を目指していたが、ある事件がきっかけで遺伝子研究の世界に飛び込む。過去に渡り2度も男性から女性の身体になった拓也に興味を持っており、弘二の「拓也女性化計画」を承認してしまった。
   - 高田 綾乃（たかだ あやの）
-    声 - [乃田あす実](https://ja.wikipedia.org/wiki/乃田あす実 "wikilink")
+    声 - [乃田あす実](../Page/乃田あす実.md "wikilink")
     北ノ都大学3回生。拓也のゼミの後輩で拓也の事を先輩以上の感情で慕っているようである。何も知らないとはいえ、弘二の陰謀に協力してしまった事に罪悪感を持っており、積極的にたくやの力になろうとする。涼乃（すずの）という性格が全く異なる妹がいる。子猫を一匹拾ってこっそり育てており、ルートによっては、その事が原因で夏美によって最悪の結末をたどる事になる。
   - 相原 夏美（あいはら なつみ）
     声 - [中瀬ひな](https://ja.wikipedia.org/wiki/中瀬ひな "wikilink")

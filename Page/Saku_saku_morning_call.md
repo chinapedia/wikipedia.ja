@@ -1,13 +1,13 @@
 > この記事は[Saku saku morning call](https://ja.wikipedia.org/wiki/Saku_saku_morning_call)から翻訳されています。
 
 
-『**saku saku MORNING CALL**』（サクサク モーニングコール）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（TVKテレビ）で放送されていた[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。現tvk取締役の[関佳史](https://ja.wikipedia.org/wiki/関佳史 "wikilink")が立ち上げに関わった。
+『**saku saku MORNING CALL**』（サクサク モーニングコール）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（TVKテレビ）で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。現tvk取締役の[関佳史](https://ja.wikipedia.org/wiki/関佳史 "wikilink")が立ち上げに関わった。
 
 ## 概要
 
-[PUFFY](../Page/PUFFY.md "wikilink")の初レギュラー番組となった週5日間の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")\[1\]。当初は月曜に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")を行っていたが、1997年10月からは金曜にも生放送を行うようになった。（後の金曜も含め）生放送時にはモーニングコール、天気予報、トーク、ゲスト、VTRコーナーその他という流れで行われていた。
+[PUFFY](../Page/PUFFY.md "wikilink")の初レギュラー番組となった週5日間の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")\[1\]。当初は月曜に[生放送](../Page/生放送.md "wikilink")を行っていたが、1997年10月からは金曜にも生放送を行うようになった。（後の金曜も含め）生放送時にはモーニングコール、天気予報、トーク、ゲスト、VTRコーナーその他という流れで行われていた。
 
-1998年4月に[Say a Little PrayerがMCに就任して以来](https://ja.wikipedia.org/wiki/Say_a_Little_Prayer "wikilink")、生放送は金曜のみになり、収録もスタジオ収録からCG収録へ移行した。
+1998年4月に[Say a Little PrayerがMCに就任して以来](../Page/Say_a_Little_Prayer.md "wikilink")、生放送は金曜のみになり、収録もスタジオ収録からCG収録へ移行した。
 
 1999年4月からは全日収録となる。そしてMCの[IZAM](../Page/IZAM.md "wikilink")の要望により、番組初のパペットMC「フトモモ」（登場当初は名前無し）が登場。その路線が後継番組『[saku saku](https://ja.wikipedia.org/wiki/saku_saku "wikilink")』に登場する[増田ジゴロウ](../Page/増田ジゴロウ.md "wikilink") → [白井ヴィンセント](https://ja.wikipedia.org/wiki/saku_sakuの出演者、登場キャラクター#以前の出演者・出演キャラクター "wikilink") → [ポンモップへと繋がった](https://ja.wikipedia.org/wiki/saku_sakuの出演者、登場キャラクター#現在の出演者・出演キャラクター "wikilink")。
 
@@ -39,7 +39,7 @@
 <td><p>1997.9</p></td>
 <td><p>1998.3</p></td>
 <td><p><a href="../Page/ユースケ・サンタマリア.md" title="wikilink">ユースケ・サンタマリア</a><br />
-<a href="https://ja.wikipedia.org/wiki/FLIP-FLAP" title="wikilink">FLIP FLAP</a>[3]</p></td>
+<a href="../Page/FLIP-FLAP.md" title="wikilink">FLIP FLAP</a>[3]</p></td>
 </tr>
 <tr class="even">
 <td><p>期間</p></td>
@@ -49,7 +49,7 @@
 <tr class="odd">
 <td><p>1998.4</p></td>
 <td><p>1999.3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Say_a_Little_Prayer" title="wikilink">Say a Little Prayer</a></p></td>
+<td><p><a href="../Page/Say_a_Little_Prayer.md" title="wikilink">Say a Little Prayer</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1999.4</p></td>

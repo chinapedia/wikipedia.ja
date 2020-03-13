@@ -24,10 +24,10 @@
 
   - [アクア (バンド)](../Page/アクア_\(バンド\).md "wikilink") - [デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。
   - [Aqua Timezの略称](https://ja.wikipedia.org/wiki/Aqua_Timez "wikilink")。[テレビ欄](https://ja.wikipedia.org/wiki/テレビ欄 "wikilink")などで使われる。
-  - [AQUA (スターダストレビューのアルバム)](../Page/AQUA_\(スターダストレビューのアルバム\).md "wikilink") - [スターダストレビュー](https://ja.wikipedia.org/wiki/スターダストレビュー "wikilink")のオリジナルアルバム。
+  - [AQUA (スターダストレビューのアルバム)](../Page/AQUA_\(スターダストレビューのアルバム\).md "wikilink") - [スターダストレビュー](../Page/スターダストレビュー.md "wikilink")のオリジナルアルバム。
   - [AQUA (今井美樹のアルバム)](https://ja.wikipedia.org/wiki/AQUA_\(今井美樹のアルバム\) "wikilink") - [今井美樹](../Page/今井美樹.md "wikilink")のアルバム。
   - [AQUA (Q;indiviのアルバム)](https://ja.wikipedia.org/wiki/AQUA_\(Q;indiviのアルバム\) "wikilink") - [Q;indivi Starring Rin Oikawaのアルバム](../Page/Q;indivi.md "wikilink")。
-  - [アクア (アルバム)](https://ja.wikipedia.org/wiki/アクア_\(アルバム\) "wikilink") - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のロックバンド、[エイジア](https://ja.wikipedia.org/wiki/エイジア "wikilink")の通算4枚目のオリジナルアルバム。
+  - [アクア (アルバム)](https://ja.wikipedia.org/wiki/アクア_\(アルバム\) "wikilink") - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のロックバンド、[エイジア](../Page/エイジア.md "wikilink")の通算4枚目のオリジナルアルバム。
   - [アクア (佐藤博のアルバム)](https://ja.wikipedia.org/wiki/アクア_\(佐藤博のアルバム\) "wikilink") -[佐藤博のアルバム](https://ja.wikipedia.org/wiki/佐藤博_\(ミュージシャン\) "wikilink")。
 
 ## フィクション
@@ -44,7 +44,7 @@
 
   - [めざましテレビ アクア](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") - 2014年3月31日から2018年3月30日まで放送された[フジテレビの早朝の報道](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・情報番組。
   - 　スポーツ選手
-  - 　[天空海翔馬](https://ja.wikipedia.org/wiki/天空海翔馬 "wikilink")（あくあ　しょうま）：[四股名](../Page/四股名.md "wikilink")が[アクアワールド・大洗](../Page/アクアワールド・大洗.md "wikilink")に由来する[茨城県](../Page/茨城県.md "wikilink")[大洗町](https://ja.wikipedia.org/wiki/大洗町 "wikilink")出身の[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")。
+  - 　[天空海翔馬](https://ja.wikipedia.org/wiki/天空海翔馬 "wikilink")（あくあ　しょうま）：[四股名](../Page/四股名.md "wikilink")が[アクアワールド・大洗](../Page/アクアワールド・大洗.md "wikilink")に由来する[茨城県](../Page/茨城県.md "wikilink")[大洗町](../Page/大洗町.md "wikilink")出身の[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](https://ja.wikipedia.org/wiki/力士 "wikilink")。
 
 ## 関連項目
 

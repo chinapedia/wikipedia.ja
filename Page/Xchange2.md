@@ -5,7 +5,7 @@
 
 ## 概要
 
-本作は、[性転換](https://ja.wikipedia.org/wiki/性転換 "wikilink")（[TSF](../Page/TSF.md "wikilink")）を題材にした「Xchange」シリーズの第2作であり、前作『Xchange』の続編作品にあたる。
+本作は、[性転換](../Page/性転換.md "wikilink")（[TSF](../Page/TSF.md "wikilink")）を題材にした「Xchange」シリーズの第2作であり、前作『Xchange』の続編作品にあたる。
 
 本作の廉価版やリメイク版も発売され、[2002年](../Page/2002年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")にパッケージを変更し価格を引き下げた『**Xchange2 復刻版**』、[2004年](../Page/2004年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")にキャスト変更・CGリニューアルしたリメイク版『**Xchange2R**』（エックスチェンジツー・リメイク）が発売された。なお、『Xchange2R』は2004年[10月15日](../Page/10月15日.md "wikilink")発売『**Xチェン-BOX**』（ペケチェンボックス）にも収録されている。
 

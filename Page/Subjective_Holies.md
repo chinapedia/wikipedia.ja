@@ -1,7 +1,7 @@
 > この記事は[Subjective Holies](https://ja.wikipedia.org/wiki/Subjective_Holies)から翻訳されています。
 
 
-**Subjective Holies**（サブジェクティブ ホーリーズ）は、[2002年](../Page/2002年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")〜[12月27日](../Page/12月27日.md "wikilink")に[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")のウッディシアター中目黒で上演された舞台公演。[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")の演出家である[齋藤吉正](https://ja.wikipedia.org/wiki/齋藤吉正 "wikilink")が外部公演での初の作・演出を行った。
+**Subjective Holies**（サブジェクティブ ホーリーズ）は、[2002年](../Page/2002年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")〜[12月27日](../Page/12月27日.md "wikilink")に[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")のウッディシアター中目黒で上演された舞台公演。[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")の演出家である[齋藤吉正](../Page/齋藤吉正.md "wikilink")が外部公演での初の作・演出を行った。
 
 主演は元[宝塚歌劇団](../Page/宝塚歌劇団.md "wikilink")雪組トップスターの[高嶺ふぶき](https://ja.wikipedia.org/wiki/高嶺ふぶき "wikilink")。出演は西村直人、[貴咲美里](https://ja.wikipedia.org/wiki/貴咲美里 "wikilink")、宮原美文。そして[小林隆](../Page/小林隆.md "wikilink")が友情出演している。
 
@@ -41,7 +41,7 @@ Subjective Holiesは齋藤吉正の書き下ろしによる作品で、完成当
 
 ## STAFF
 
-  - 原作・演出：[齋藤吉正](https://ja.wikipedia.org/wiki/齋藤吉正 "wikilink")
+  - 原作・演出：[齋藤吉正](../Page/齋藤吉正.md "wikilink")
   - 脚色：浅田幸姫
   - 音楽：木川田新
   - 振付：[若央りさ](../Page/若央りさ.md "wikilink")

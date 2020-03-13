@@ -7,11 +7,11 @@
 
 グラフト法とポリマーブレンド法に大別される。
 
-乳化グラフト法では、アクリロニトリル、[ラテックス](../Page/ラテックス.md "wikilink")、スチレンおよび[触媒](../Page/触媒.md "wikilink")や[乳化剤](../Page/乳化剤.md "wikilink")を[重合反応](https://ja.wikipedia.org/wiki/重合反応 "wikilink")機内で重合させ、[水分](../Page/水分.md "wikilink")などを[遠心分離機](https://ja.wikipedia.org/wiki/遠心分離機 "wikilink")で取り除いた後、押出機で[ペレット](https://ja.wikipedia.org/wiki/ペレット "wikilink")化する。塊状重合法では、重合反応槽を使用してそれぞれを重合させ、未重合の[モノマー](https://ja.wikipedia.org/wiki/モノマー "wikilink")を回収した後、押出機でペレット化する。
+乳化グラフト法では、アクリロニトリル、[ラテックス](../Page/ラテックス.md "wikilink")、スチレンおよび[触媒](../Page/触媒.md "wikilink")や[乳化剤](../Page/乳化剤.md "wikilink")を[重合反応](../Page/重合反応.md "wikilink")機内で重合させ、[水分](../Page/水分.md "wikilink")などを[遠心分離機](https://ja.wikipedia.org/wiki/遠心分離機 "wikilink")で取り除いた後、押出機で[ペレット](https://ja.wikipedia.org/wiki/ペレット "wikilink")化する。塊状重合法では、重合反応槽を使用してそれぞれを重合させ、未重合の[モノマー](https://ja.wikipedia.org/wiki/モノマー "wikilink")を回収した後、押出機でペレット化する。
 
 ポリマーブレンド法では、[AS樹脂](https://ja.wikipedia.org/wiki/AS樹脂 "wikilink")にゴムと添加剤を加えてミキサーでコンパウンドした後、押出機でペレット化する。極端にブタジエン比率が高いABS樹脂をグラフト法にて製造し、AS樹脂とコンパウンドする手法も同法の一種に当たる。
 
-着色や難燃化･繊維強化は、一般に通常品のペレットを製造した後、コンパウンド加工にて行われるが、大量生産の際には重合時に各種材料を同時に投入しコストダウンを図る手法もある。資源の再利用の観点から、[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")を中心に[リサイクル](../Page/リサイクル.md "wikilink")材を使用する流れが強くなっている。
+着色や難燃化･繊維強化は、一般に通常品のペレットを製造した後、コンパウンド加工にて行われるが、大量生産の際には重合時に各種材料を同時に投入しコストダウンを図る手法もある。資源の再利用の観点から、[アジア](../Page/アジア.md "wikilink")を中心に[リサイクル](../Page/リサイクル.md "wikilink")材を使用する流れが強くなっている。
 
 ## 特徴
 
@@ -48,7 +48,7 @@
 
 ## 用途
 
-主に家電や電気電子製品の各種外装･筐体･機構部品類、[自動車](../Page/自動車.md "wikilink")パネルなど内装部品、文具･雑貨類、事務用[家具](../Page/家具.md "wikilink")部材、[ブラシ](https://ja.wikipedia.org/wiki/ブラシ "wikilink")の[柄](https://ja.wikipedia.org/wiki/柄 "wikilink")など。学校教育で使用される[リコーダー](../Page/リコーダー.md "wikilink")など、[楽器](../Page/楽器.md "wikilink")にも使用されている。また玩具製品や[模型](../Page/模型.md "wikilink")の可動部部品や樹脂製の[鉄道模型](../Page/鉄道模型.md "wikilink")の[車輪](../Page/車輪.md "wikilink")や透明部品を除いた大部分など、さまざまな用途で使用される。
+主に家電や電気電子製品の各種外装･筐体･機構部品類、[自動車](../Page/自動車.md "wikilink")パネルなど内装部品、文具･雑貨類、事務用[家具](../Page/家具.md "wikilink")部材、[ブラシ](../Page/ブラシ.md "wikilink")の[柄](https://ja.wikipedia.org/wiki/柄 "wikilink")など。学校教育で使用される[リコーダー](../Page/リコーダー.md "wikilink")など、[楽器](../Page/楽器.md "wikilink")にも使用されている。また玩具製品や[模型](../Page/模型.md "wikilink")の可動部部品や樹脂製の[鉄道模型](../Page/鉄道模型.md "wikilink")の[車輪](../Page/車輪.md "wikilink")や透明部品を除いた大部分など、さまざまな用途で使用される。
 
 ## 出典
 

@@ -27,15 +27,15 @@
 
   - [ジョホールバル](../Page/ジョホールバル.md "wikilink")
   - [日本血液製剤機構](https://ja.wikipedia.org/wiki/日本血液製剤機構 "wikilink")
-  - [NHK教育テレビの番組](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")「[英語であそぼ](https://ja.wikipedia.org/wiki/英語であそぼ "wikilink")」に出演していたキャラクター
+  - [NHK教育テレビの番組](../Page/NHK教育テレビジョン.md "wikilink")「[英語であそぼ](https://ja.wikipedia.org/wiki/英語であそぼ "wikilink")」に出演していたキャラクター
   - [NHK金沢放送局](../Page/NHK金沢放送局.md "wikilink")ラジオ第2放送、教育テレビジョン（JOJB、JOJB-DTV）
   - 日本バスプロ協会の略称
   - 日本接骨師協会の略称
-  - [本州四国連絡高速道路](https://ja.wikipedia.org/wiki/本州四国連絡高速道路 "wikilink")株式会社の略称（JB本四高速）
-  - [フェンダー社のエレクトリックベースである](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")[ジャズベース](../Page/フェンダー・ジャズベース.md "wikilink")（Jazz Bass）の略。また、他社の製品でも形やピックアップの配置が同じものをJBタイプと呼ぶ事もある。
+  - [本州四国連絡高速道路](../Page/本州四国連絡高速道路.md "wikilink")株式会社の略称（JB本四高速）
+  - [フェンダー社のエレクトリックベースである](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[ジャズベース](../Page/フェンダー・ジャズベース.md "wikilink")（Jazz Bass）の略。また、他社の製品でも形やピックアップの配置が同じものをJBタイプと呼ぶ事もある。
   - ダイハツの660cc・4気筒エンジンの形式。[JB型](../Page/ダイハツ・JB型エンジン.md "wikilink")。
   - [ジャンクションボックス](https://ja.wikipedia.org/wiki/ジャンクションボックス "wikilink")
-  - [ユングフラウ鉄道](https://ja.wikipedia.org/wiki/ユングフラウ鉄道 "wikilink")
+  - [ユングフラウ鉄道](../Page/ユングフラウ鉄道.md "wikilink")
   - [ジェイルブレイク](https://ja.wikipedia.org/wiki/jailbreak "wikilink")（[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[プレイステーション3等で非公認ソフトを動作させる仕組み](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）
   - [JR東日本](../Page/東日本旅客鉄道.md "wikilink")[中央・総武緩行線](../Page/中央・総武緩行線.md "wikilink")の略称（[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")）。
 

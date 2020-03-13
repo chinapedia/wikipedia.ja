@@ -3,7 +3,7 @@
 
 『**グラディウスIV -復活-**』（グラディウスフォー ふっかつ、*GRADIUS IV*）は、[1999年](../Page/1999年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として稼動された[コナミの横スクロール](../Page/コナミアミューズメント.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
 
-2000年には[PlayStation 2専用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[グラディウスIII -伝説から神話へ-](../Page/グラディウスIII_-伝説から神話へ-.md "wikilink")』と一緒に『グラディウスIII\&IV -復活の神話-』として移植されている（後に廉価版としてKONAMI The Best版、コナミ殿堂セレクション版も発売）。また、2006年には[PlayStation Portable用ソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『[グラディウス ポータブル](../Page/グラディウス_ポータブル.md "wikilink")』にも収録された。
+2000年には[PlayStation 2専用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[グラディウスIII -伝説から神話へ-](../Page/グラディウスIII_-伝説から神話へ-.md "wikilink")』と一緒に『グラディウスIII\&IV -復活の神話-』として移植されている（後に廉価版としてKONAMI The Best版、コナミ殿堂セレクション版も発売）。また、2006年には[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『[グラディウス ポータブル](../Page/グラディウス_ポータブル.md "wikilink")』にも収録された。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 グラフィック面では、横スクロールのグラディウスシリーズとしては初のフルポリゴン描画を行っている。ステージ構成は全体的に『[グラディウスII -GOFERの野望-](../Page/グラディウスII_-GOFERの野望-.md "wikilink")』とかなり類似している。これは開発者も認めており「結果としてグラディウスファンに配慮した形になった」と述べている\[1\]。またモニターへの画像出力が24kHzにも対応した事により、縦方向の描画の密度が増している。
 
-ゲーム中の一部の場面ではランダム要素の多さからクリアに運が絡んでくることがあり、[バグ](../Page/バグ.md "wikilink")や[永久パターン](https://ja.wikipedia.org/wiki/永久パターン "wikilink")の存在も発覚している。開発者は「簡単なパターンゲームにはしたくない」という意図があったとしている\[2\]。
+ゲーム中の一部の場面ではランダム要素の多さからクリアに運が絡んでくることがあり、[バグ](../Page/バグ.md "wikilink")や[永久パターン](../Page/永久パターン.md "wikilink")の存在も発覚している。開発者は「簡単なパターンゲームにはしたくない」という意図があったとしている\[2\]。
 
 またシリーズ通して初めて1000万点の桁が存在せず、999万9900点でカウンターストップ（以下、カンスト）する（コンティニューありの設定であれば、コンティニュー回数がスコアにカウントされるため999万9999点まで可能）。初めてカンストが確認されたのは6番装備だった。
 
@@ -263,11 +263,11 @@ BGMは[渡辺篤紀](https://ja.wikipedia.org/wiki/渡辺篤紀 "wikilink")（"A
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a></p></td>
+<td><p><a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a></p></td>
 <td><p><a href="../Page/グラディウス_ポータブル.md" title="wikilink">グラディウス ポータブル</a></p></td>
 <td><p>Konami Software Shanghai</p></td>
 <td><p>コナミ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユニバーサル・メディア・ディスク" title="wikilink">UMD</a></p></td>
+<td><p><a href="../Page/ユニバーサル・メディア・ディスク.md" title="wikilink">UMD</a></p></td>
 <td><p>VP-013J1</p></td>
 <td><p>4,980円（税別）</p></td>
 <td><p>-</p></td>
@@ -342,5 +342,5 @@ BGMは[渡辺篤紀](https://ja.wikipedia.org/wiki/渡辺篤紀 "wikilink")（"A
 
 1.  『グラディウスポータブル公式ガイド』144頁。
 2.  公式サイト "ANSWER"第3回。
-3.  「フォトントゥーピドゥ」と名称は似ているが、貫通性能はない。torpedoとは魚雷という意味で、photon torpedoは[光子魚雷](https://ja.wikipedia.org/wiki/光子魚雷 "wikilink")（主に宇宙用の魚雷）。
+3.  「フォトントゥーピドゥ」と名称は似ているが、貫通性能はない。torpedoとは魚雷という意味で、photon torpedoは[光子魚雷](../Page/光子魚雷.md "wikilink")（主に宇宙用の魚雷）。
 4.  『グラディウスポータブル公式ガイド』4頁。

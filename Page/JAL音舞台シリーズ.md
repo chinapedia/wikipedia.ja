@@ -9,7 +9,7 @@
 
 ## 概要
 
-様々な[日本文化](https://ja.wikipedia.org/wiki/日本文化 "wikilink")の発祥の源であり、いつの時代でも新しい文化のパイオニアとしてあり続けた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を代表する寺院に舞台を設け、「[東洋](../Page/東洋.md "wikilink")と[西洋](../Page/西洋.md "wikilink")の出会い」をテーマに世界中で親しまれる[音楽](../Page/音楽.md "wikilink")・新しい[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")を披露し、[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")を奉納する文化[イベント](../Page/イベント.md "wikilink")。これまで100人を超えるアーティストが表現を披露している。
+様々な[日本文化](https://ja.wikipedia.org/wiki/日本文化 "wikilink")の発祥の源であり、いつの時代でも新しい文化のパイオニアとしてあり続けた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")を代表する寺院に舞台を設け、「[東洋](../Page/東洋.md "wikilink")と[西洋](../Page/西洋.md "wikilink")の出会い」をテーマに世界中で親しまれる[音楽](../Page/音楽.md "wikilink")・新しい[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")を披露し、[コラボレーション](../Page/コラボレーション.md "wikilink")を奉納する文化[イベント](../Page/イベント.md "wikilink")。これまで100人を超えるアーティストが表現を披露している。
 
 第15回（[2002年](../Page/2002年.md "wikilink")）の「[法隆寺](https://ja.wikipedia.org/wiki/法隆寺 "wikilink")音舞台」までは『JALステージスペシャル音舞台』だったが、第16回（[2003年](../Page/2003年.md "wikilink")）の「[萬福寺](../Page/萬福寺.md "wikilink")音舞台」からは現在のタイトルとなる。
 

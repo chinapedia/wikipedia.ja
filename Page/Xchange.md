@@ -5,9 +5,9 @@
 
 ## 概要
 
-本作は、[性転換](https://ja.wikipedia.org/wiki/性転換 "wikilink")（[TSF](../Page/TSF.md "wikilink")）を題材にしたアダルトゲームである。
+本作は、[性転換](../Page/性転換.md "wikilink")（[TSF](../Page/TSF.md "wikilink")）を題材にしたアダルトゲームである。
 
-以後シリーズ化され、現在までに6作（復刻版・リメイクなどを含めると13作）が発売されている。なお、『[Xchange3](https://ja.wikipedia.org/wiki/Xchange3 "wikilink")』までは本作の主人公である相原拓也（相原たくや）を主人公にしたシリーズであり、『[Yin-Yang\! X Change Alternative](https://ja.wikipedia.org/wiki/Yin-Yang!_X_Change_Alternative "wikilink")』以降はシリーズ名を冠しているものの、世界観は別の物語となっている。
+以後シリーズ化され、現在までに6作（復刻版・リメイクなどを含めると13作）が発売されている。なお、『[Xchange3](../Page/Xchange3.md "wikilink")』までは本作の主人公である相原拓也（相原たくや）を主人公にしたシリーズであり、『[Yin-Yang\! X Change Alternative](../Page/Yin-Yang!_X_Change_Alternative.md "wikilink")』以降はシリーズ名を冠しているものの、世界観は別の物語となっている。
 
 また、本作の廉価版やリメイク版も存在する。[2000年](../Page/2000年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")にはパッケージを変更した廉価版『**Xchange 復刻版**』が、[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")にはフルボイス化・CGリニューアル・キャラクターとシナリオを追加したリメイク版『**XchangeR**』（エックスチェンジ・リメイク）がそれぞれ発売された。なお、『XchangeR』は2004年[10月15日](../Page/10月15日.md "wikilink")発売の『**Xチェン-BOX**』（ペケチェンボックス）にも収録されている。
 
@@ -15,7 +15,7 @@
 
 ## あらすじ
 
-科学部に所属する相原拓也は、ある日怪しげな薬を浴びて女の子（たくや）になってしまう。それからというもの、痴漢には遭うわ、義理の姉や[保健室](https://ja.wikipedia.org/wiki/保健室 "wikilink")の女教師には弄ばれるわでエッチな体験の連続。果たして、たくやは無事に男に戻れるのだろうか。
+科学部に所属する相原拓也は、ある日怪しげな薬を浴びて女の子（たくや）になってしまう。それからというもの、痴漢には遭うわ、義理の姉や[保健室](../Page/保健室.md "wikilink")の女教師には弄ばれるわでエッチな体験の連続。果たして、たくやは無事に男に戻れるのだろうか。
 
 ## 登場キャラクター
 
@@ -48,13 +48,13 @@
   - Xchange - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売
       - Xchange 復刻版 - [2000年](../Page/2000年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")発売
       - XchangeR - [2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")発売
-  - [Xchange2](https://ja.wikipedia.org/wiki/Xchange2 "wikilink") - [1999年](../Page/1999年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")発売
+  - [Xchange2](../Page/Xchange2.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")発売
       - Xchange2 復刻版 - [2002年](../Page/2002年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")発売
       - Xchange2R - [2004年](../Page/2004年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")発売
-  - [Xchange3](https://ja.wikipedia.org/wiki/Xchange3 "wikilink") - 2004年[6月25日](../Page/6月25日.md "wikilink")発売
-      - Xchange3 復刻版 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売
-  - [Yin-Yang\! X Change Alternative](https://ja.wikipedia.org/wiki/Yin-Yang!_X_Change_Alternative "wikilink") - 2004年[10月29日](../Page/10月29日.md "wikilink")発売
-      - Yin-Yang\! X Change Alternative 復刻版 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売
+  - [Xchange3](../Page/Xchange3.md "wikilink") - 2004年[6月25日](../Page/6月25日.md "wikilink")発売
+      - Xchange3 復刻版 - [2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売
+  - [Yin-Yang\! X Change Alternative](../Page/Yin-Yang!_X_Change_Alternative.md "wikilink") - 2004年[10月29日](../Page/10月29日.md "wikilink")発売
+      - Yin-Yang\! X Change Alternative 復刻版 - [2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")発売
   - [X Change Alternative2](https://ja.wikipedia.org/wiki/X_Change_Alternative2 "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月26日](../Page/9月26日.md "wikilink")発売
   - [Yin-Yang\! X Change EX](https://ja.wikipedia.org/wiki/Yin-Yang!_X_Change_EX "wikilink") - [2012年](../Page/2012年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")発売
   - Xチェン-BOX - 2004年10月15日発売（『Xchange 復刻版』『Xchange2 復刻版』を同梱）

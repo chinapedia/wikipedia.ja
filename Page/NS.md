@@ -7,7 +7,7 @@
 
   - 企業
       - [ナショナル セミコンダクター](../Page/ナショナル_セミコンダクター.md "wikilink") ()
-      - [日本精機](https://ja.wikipedia.org/wiki/日本精機 "wikilink") ()
+      - [日本精機](../Page/日本精機.md "wikilink") ()
       - [日建設計](../Page/日建設計.md "wikilink") ()
       - [日本スピンドル製造](https://ja.wikipedia.org/wiki/日本スピンドル製造 "wikilink") ()
       - [オランダ鉄道](../Page/オランダ鉄道.md "wikilink") ()
@@ -26,7 +26,7 @@
   - 番組
       - [ニュースステーション](../Page/ニュースステーション.md "wikilink") - [テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列のニュース番組](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")（終了）
       - [ニューススクランブル](../Page/ニューススクランブル.md "wikilink") - [読売テレビのニュース番組](../Page/讀賣テレビ放送.md "wikilink")（終了）
-      - [ナイトシャッフル](https://ja.wikipedia.org/wiki/ナイトシャッフル "wikilink") - [福岡放送](../Page/福岡放送.md "wikilink")のバラエティ番組
+      - [ナイトシャッフル](../Page/ナイトシャッフル.md "wikilink") - [福岡放送](../Page/福岡放送.md "wikilink")のバラエティ番組
   - 地名
       - [ノヴァスコシア州](https://ja.wikipedia.org/wiki/ノヴァスコシア州 "wikilink") () の[ISOカナダ州コード](../Page/ISO_3166-2:CA.md "wikilink")
       - [ヌグリ・スンビラン州](../Page/ヌグリ・スンビラン州.md "wikilink") () - マレーシアの州
@@ -41,11 +41,11 @@
   - その他
       - [いすゞ自動車](../Page/いすゞ自動車.md "wikilink")製の一般大型[ノンステップバス](../Page/ノンステップバス.md "wikilink")を表す（**N**on-step i**S**uzu）[名古屋市営バス](../Page/名古屋市営バス.md "wikilink")の[局内管理番号](https://ja.wikipedia.org/wiki/名古屋市営バス#管理番号 "wikilink")
       - [新暦（グレゴリオ暦）](../Page/グレゴリオ暦.md "wikilink") ()
-      - [近鉄12200系電車の編成記号](https://ja.wikipedia.org/wiki/近鉄12000系電車 "wikilink")。
+      - [近鉄12200系電車の編成記号](../Page/近鉄12000系電車.md "wikilink")。
       - [ニューシャトル](https://ja.wikipedia.org/wiki/埼玉新都市交通伊奈線 "wikilink") () - [埼玉新都市交通](../Page/埼玉新都市交通.md "wikilink")の路線（愛称）
       - [ノースキン](https://ja.wikipedia.org/wiki/ノースキン "wikilink") () - [コンドーム](../Page/コンドーム.md "wikilink")を着用しない性交（[膣内射精\#性風俗業界の「中出し」](https://ja.wikipedia.org/wiki/膣内射精#性風俗業界の「中出し」 "wikilink")参照）
       - [国家社会主義](https://ja.wikipedia.org/wiki/国家社会主義 "wikilink") ()
-      - [新宿NSビル](https://ja.wikipedia.org/wiki/新宿NSビル "wikilink") - [新宿副都心](https://ja.wikipedia.org/wiki/新宿副都心 "wikilink")にある[高層ビルディング](https://ja.wikipedia.org/wiki/高層ビルディング "wikilink")
+      - [新宿NSビル](../Page/新宿NSビル.md "wikilink") - [新宿副都心](https://ja.wikipedia.org/wiki/新宿副都心 "wikilink")にある[高層ビルディング](https://ja.wikipedia.org/wiki/高層ビルディング "wikilink")
       - [ふたりはNS](https://ja.wikipedia.org/wiki/ふたりはNS "wikilink")
 
 ## Ns

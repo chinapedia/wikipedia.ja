@@ -1,7 +1,7 @@
 > この記事は[2 Become 1](https://ja.wikipedia.org/wiki/2_Become_1)から翻訳されています。
 
 
-「**2 Become 1**」（ツゥー・ビカム・ワン）は、[スパイス・ガールズ](https://ja.wikipedia.org/wiki/スパイス・ガールズ "wikilink")のヒット曲。デビュー・アルバム『[Spice](https://ja.wikipedia.org/wiki/スパイス_\(アルバム\) "wikilink")』からの3枚目のシングルである。
+「**2 Become 1**」（ツゥー・ビカム・ワン）は、[スパイス・ガールズ](../Page/スパイス・ガールズ.md "wikilink")のヒット曲。デビュー・アルバム『[Spice](https://ja.wikipedia.org/wiki/スパイス_\(アルバム\) "wikilink")』からの3枚目のシングルである。
 
 ## この曲について
 
@@ -60,11 +60,11 @@
 
 ## チャート
 
-この曲でスパイス・ガールズは3度目の[全英シングルチャート](https://ja.wikipedia.org/wiki/全英シングルチャート "wikilink")1位を記録し、また初めての[クリスマス](https://ja.wikipedia.org/wiki/クリスマス "wikilink")・ナンバー1シングルにもなる。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")だけで100万枚以上を売り上げた。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で3週間にわたりチャート1位を記録。[オーストラリア](../Page/オーストラリア.md "wikilink")では2位を記録した。アメリカでは**シングル・セールス・ホット100**にえらばれ、[ビルボードチャート](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")4位を記録した。アメリカでの人気が長く続き、予定されていたスパイス・ガールズの「[Who Do You Think You Are](../Page/フー・ドゥ・ユー・シンク・ユー・アー_\(スパイス・ガールズの曲\).md "wikilink")」が[北アメリカ](../Page/北アメリカ.md "wikilink")でリリースをキャンセルしたほどであった。
+この曲でスパイス・ガールズは3度目の[全英シングルチャート](https://ja.wikipedia.org/wiki/全英シングルチャート "wikilink")1位を記録し、また初めての[クリスマス](../Page/クリスマス.md "wikilink")・ナンバー1シングルにもなる。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")だけで100万枚以上を売り上げた。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で3週間にわたりチャート1位を記録。[オーストラリア](../Page/オーストラリア.md "wikilink")では2位を記録した。アメリカでは**シングル・セールス・ホット100**にえらばれ、[ビルボードチャート](https://ja.wikipedia.org/wiki/Billboard_Hot_100 "wikilink")4位を記録した。アメリカでの人気が長く続き、予定されていたスパイス・ガールズの「[Who Do You Think You Are](../Page/フー・ドゥ・ユー・シンク・ユー・アー_\(スパイス・ガールズの曲\).md "wikilink")」が[北アメリカ](../Page/北アメリカ.md "wikilink")でリリースをキャンセルしたほどであった。
 
 ## ミュージック・ビデオ
 
-[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[タイムズスクエア](https://ja.wikipedia.org/wiki/タイムズスクエア "wikilink")で撮影された。真夜中に車が目に見えぬほどの速さで走っていうるところをバックに、スパイス・ガールズのメンバーは1人あるいは2人で、あるいはグループで歌う。
+[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[タイムズスクエア](../Page/タイムズスクエア.md "wikilink")で撮影された。真夜中に車が目に見えぬほどの速さで走っていうるところをバックに、スパイス・ガールズのメンバーは1人あるいは2人で、あるいはグループで歌う。
 
 ## チャート
 
@@ -83,7 +83,7 @@
 | [スイス](../Page/スイス.md "wikilink")                          | 10      |
 | [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink") | 7       |
 | [ノルウェー](../Page/ノルウェー.md "wikilink")                      | 12      |
-| [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink") | 9       |
+| [フィンランド](../Page/フィンランド.md "wikilink")                    | 9       |
 
 UKでの売り上げ約107万枚
 

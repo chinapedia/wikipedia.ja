@@ -1,7 +1,7 @@
 > この記事は[Toi teens!\?](https://ja.wikipedia.org/wiki/Toi_teens!\?)から翻訳されています。
 
 
-**toi teens\!?**（トイ・ティーンズ）は[女子高生](https://ja.wikipedia.org/wiki/女子高生 "wikilink")を中心として結成された[ゴスペル](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")[クワイア](https://ja.wikipedia.org/wiki/クワイア "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")結成、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりデビューしたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")元旦に行われたストリートライブを締めに解散した。
+**toi teens\!?**（トイ・ティーンズ）は[女子高生](../Page/女子高生.md "wikilink")を中心として結成された[ゴスペル](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")[クワイア](https://ja.wikipedia.org/wiki/クワイア "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")結成、[2006年](../Page/2006年.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")よりデビューしたが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")元旦に行われたストリートライブを締めに解散した。
 
 ## メンバー
 
@@ -29,7 +29,7 @@
     2.  You Can't Hurry Love
     3.  約束
     4.  toi song for you
-    5.  ともだち（映画「[水に棲む花](https://ja.wikipedia.org/wiki/水に棲む花 "wikilink")」エンディングテーマ）
+    5.  ともだち（映画「[水に棲む花](../Page/水に棲む花.md "wikilink")」エンディングテーマ）
     6.  卒業(平成17年度ヴァージョン)
     7.  OH HAPPY DAY
 

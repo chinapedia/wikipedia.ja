@@ -1,7 +1,7 @@
 > この記事は[IOC](https://ja.wikipedia.org/wiki/IOC)から翻訳されています。
 
 
-**IOCコード一覧**（IOCコードいちらん）は、[国際オリンピック委員会](https://ja.wikipedia.org/wiki/国際オリンピック委員会 "wikilink") (IOC) における国名コードの一覧。このコードは[オリンピックに参加している全ての](../Page/近代オリンピック.md "wikilink")[国内オリンピック委員会](../Page/国内オリンピック委員会.md "wikilink")と他のグループに割り当てられるが、歴史上、これらの多くは、[ISO 3166-1のラテン文字](../Page/ISO_3166-1.md "wikilink")3文字と異なる。
+**IOCコード一覧**（IOCコードいちらん）は、[国際オリンピック委員会](../Page/国際オリンピック委員会.md "wikilink") (IOC) における国名コードの一覧。このコードは[オリンピックに参加している全ての](../Page/近代オリンピック.md "wikilink")[国内オリンピック委員会](../Page/国内オリンピック委員会.md "wikilink")と他のグループに割り当てられるが、歴史上、これらの多くは、[ISO 3166-1のラテン文字](../Page/ISO_3166-1.md "wikilink")3文字と異なる。
 
 ## コード一覧
 
@@ -11,7 +11,7 @@
 <thead>
 <tr class="header">
 <th><p>コード</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC承認国</a>・地域</p></th>
+<th><p><a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC承認国</a>・地域</p></th>
 <th><p>初参加年</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -229,7 +229,7 @@
 <tr class="even">
 <td><p><span id="C"></span>CAF</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Central African Republic</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Central African Republic</p></td>
 <td><p>1968</p></td>
 <td></td>
 </tr>
@@ -272,9 +272,9 @@
 <tr class="odd">
 <td><p>CHN</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: People's Republic of China</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: People's Republic of China</p></td>
 <td><p>1932</p></td>
-<td><p>1932年-1956年 "「中国」としての<a href="https://ja.wikipedia.org/wiki/中華民国" title="wikilink">中華民国</a>" (CHN) として参加<br />
+<td><p>1932年-1956年 "「中国」としての<a href="../Page/中華民国.md" title="wikilink">中華民国</a>" (CHN) として参加<br />
 1979年より左記のものを使用</p></td>
 </tr>
 <tr class="even">
@@ -484,7 +484,7 @@
 <tr class="odd">
 <td><p>GBR</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Great Britain</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Great Britain</p></td>
 <td><p>1896</p></td>
 <td><p>1896年-1920年 "グレートブリテン及びアイルランド (Great Britain and Ireland)" として参加<br />
 1924年より左記のものを使用<br />
@@ -583,7 +583,7 @@ WAL </p></td>
 <tr class="odd">
 <td><p>HKG</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Hong Kong, China</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Hong Kong, China</p></td>
 <td><p>1952</p></td>
 <td><p>1952年-1996年  として参加<br />
 2000年より左記のものを使用</p></td>
@@ -621,7 +621,7 @@ WAL </p></td>
 <tr class="odd">
 <td><p>IRI</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Islamic Republic of Iran</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Islamic Republic of Iran</p></td>
 <td><p>1948</p></td>
 <td></td>
 </tr>
@@ -732,7 +732,7 @@ WAL </p></td>
 <tr class="even">
 <td><p>KOR</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Republic of Korea</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Republic of Korea</p></td>
 <td><p>1948</p></td>
 <td></td>
 </tr>
@@ -763,7 +763,7 @@ WAL </p></td>
 <tr class="odd">
 <td><p><span id="L"></span>LAO</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Lao People's Democratic Republic</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Lao People's Democratic Republic</p></td>
 <td><p>1980</p></td>
 <td></td>
 </tr>
@@ -860,7 +860,7 @@ WAL </p></td>
 <tr class="even">
 <td><p>MDA</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Republic of Moldova</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Republic of Moldova</p></td>
 <td><p>1996</p></td>
 <td><p>1900年-1912年  (RUS) の一部<br />
 1920年-1936年  (ROM) の一部<br />
@@ -894,7 +894,7 @@ WAL </p></td>
 <tr class="odd">
 <td><p>MKD</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Former Yugoslav Republic of Macedonia</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Former Yugoslav Republic of Macedonia</p></td>
 <td><p>1996</p></td>
 <td><p>1920年-1988年  (YUG) の一部として参加<br />
 1992年 オリンピック独立参加者 (IOP, Independent Olympic Participants) として参加</p></td>
@@ -1092,7 +1092,7 @@ WAL </p></td>
 <tr class="odd">
 <td><p>PRK</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Democratic People's Republic of Korea</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Democratic People's Republic of Korea</p></td>
 <td><p>1972</p></td>
 <td></td>
 </tr>
@@ -1135,7 +1135,7 @@ WAL </p></td>
 <tr class="even">
 <td><p>RUS</p></td>
 <td><p><br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Russian Federation</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Russian Federation</p></td>
 <td><p>1900</p></td>
 <td><p>1900年-1912年 "ロシア帝国 (Russian Empire)" として参加<br />
 1952年-1988年  (URS) として参加<br />
@@ -1335,9 +1335,9 @@ WAL </p></td>
 <tr class="odd">
 <td><p>TPE</p></td>
 <td><p>（<a href="https://ja.wikipedia.org/wiki/台湾" title="wikilink">台湾</a>）<br />
-<a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC呼称</a>: Chinese Taipei</p></td>
+<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Chinese Taipei</p></td>
 <td><p>1979</p></td>
-<td><p>1932年-1956年 "「中国」としての<a href="https://ja.wikipedia.org/wiki/中華民国" title="wikilink">中華民国</a>" (CHN) として参加<br />
+<td><p>1932年-1956年 "「中国」としての<a href="../Page/中華民国.md" title="wikilink">中華民国</a>" (CHN) として参加<br />
 1960年-1964年  (TAI) として参加<br />
 1968年-1972年  (ROC) として参加<br />
 1984年より左記のものを使用</p></td>
@@ -1517,7 +1517,7 @@ WAL </p></td>
 <thead>
 <tr class="header">
 <th><p>コード</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/国際オリンピック委員会" title="wikilink">IOC承認国</a>・地域</p></th>
+<th><p><a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC承認国</a>・地域</p></th>
 <th><p>参加年</p></th>
 <th><p>備考</p></th>
 </tr>

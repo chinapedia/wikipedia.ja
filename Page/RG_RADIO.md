@@ -10,20 +10,20 @@
 ## 概要
 
   - メインパーソナリティ：[田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")（ルーラ役）
-  - 配信サイト：[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")、公式サイト
+  - 配信サイト：[音泉](../Page/音泉.md "wikilink")、公式サイト
   - 配信日：毎週金曜日（音泉）、毎週水曜日（公式サイト）
   - 配信期間：2006年12月1日～2007年3月30日（音泉）、2006年12月6日～（公式サイト）
-  - 提供：[トライネットエンタテインメント](https://ja.wikipedia.org/wiki/トライネットエンタテインメント "wikilink")、[GDH](../Page/GDH_\(企業\).md "wikilink")、[GONZOスタイル](../Page/ゴンゾ.md "wikilink")、GONZO MOBILE、[COSPA](../Page/コスパ.md "wikilink")
+  - 提供：[トライネットエンタテインメント](../Page/トライネットエンタテインメント.md "wikilink")、[GDH](../Page/GDH_\(企業\).md "wikilink")、[GONZOスタイル](../Page/ゴンゾ.md "wikilink")、GONZO MOBILE、[COSPA](../Page/コスパ.md "wikilink")
 
 ## ゲストパーソナリティ
 
   - \#01,02　[新谷良子](../Page/新谷良子.md "wikilink")（レイチェル役）
-  - \#03,04,17　[富坂晶](https://ja.wikipedia.org/wiki/富坂晶 "wikilink")（ケイト役）
+  - \#03,04,17　[富坂晶](../Page/富坂晶.md "wikilink")（ケイト役）
   - \#05,06　[福圓美里](../Page/福圓美里.md "wikilink")（リーズ役）
-  - \#07,08　[辻あゆみ](https://ja.wikipedia.org/wiki/辻あゆみ "wikilink")（ローズ役）
+  - \#07,08　[辻あゆみ](../Page/辻あゆみ.md "wikilink")（ローズ役）
   - \#09,10　[近藤隆](https://ja.wikipedia.org/wiki/近藤隆 "wikilink")（JC役）
-  - \#11,12　[小林恵美](https://ja.wikipedia.org/wiki/亜城めぐ "wikilink")（ポーラ役）
-  - \#13,14　[後藤沙緒里](https://ja.wikipedia.org/wiki/後藤沙緒里 "wikilink")（ジェシカ役）
+  - \#11,12　[小林恵美](../Page/亜城めぐ.md "wikilink")（ポーラ役）
+  - \#13,14　[後藤沙緒里](../Page/後藤沙緒里.md "wikilink")（ジェシカ役）
   - \#15　[木村はるか](../Page/木村はるか.md "wikilink")（アマンダ役）
   - \#16　[石毛佐和](../Page/石毛佐和.md "wikilink")（ルーシー役）
 

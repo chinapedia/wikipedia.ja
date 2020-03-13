@@ -9,9 +9,9 @@
 
 それまでは地元大阪を中心に活動していたが、[2001年](../Page/2001年.md "wikilink")にアメリカのハウスシーンの大御所であるが主宰するレーベル「WAVE MUSIC」よりリリースした「BATONGA」([アンジェリーク・キジョー](https://ja.wikipedia.org/wiki/アンジェリーク・キジョー "wikilink")のカバー) が世界的なクラブヒットを記録(ボーカルはTeNが担当)。続く[2003年](../Page/2003年.md "wikilink")にはテクノ・ハウスにまたがってヒットしたAZTEC MYSTICの「Knight Of The Jaguar」をカバーしたインスト作品「JAGUAR」もヒットを記録し、国内外のクラブシーンで認知されることとなる。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")より1stアルバム「Fly From The Tree」でメジャーデビュー。アルバムには[佐藤タイジ](../Page/佐藤タイジ.md "wikilink")、[有坂美香](https://ja.wikipedia.org/wiki/有坂美香 "wikilink")、[サトシ・トミイエ](https://ja.wikipedia.org/wiki/富家哲 "wikilink")、DJ NORI、[DA PUMPのISSA](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")、KENらが参加しており、外資系企業を中心に極めて高いセールスを記録した。
+[2005年](../Page/2005年.md "wikilink")には[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")より1stアルバム「Fly From The Tree」でメジャーデビュー。アルバムには[佐藤タイジ](../Page/佐藤タイジ.md "wikilink")、[有坂美香](../Page/有坂美香.md "wikilink")、[サトシ・トミイエ](https://ja.wikipedia.org/wiki/富家哲 "wikilink")、DJ NORI、[DA PUMPのISSA](../Page/DA_PUMP.md "wikilink")、KENらが参加しており、外資系企業を中心に極めて高いセールスを記録した。
 
-同年には[朝霧JAM](https://ja.wikipedia.org/wiki/朝霧JAM "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")には[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")、[RISING SUN ROCK FESTIVALなどの大型フェスにも出演し話題となる](https://ja.wikipedia.org/wiki/ライジング・サン・ロック・フェスティバル "wikilink")。
+同年には[朝霧JAM](https://ja.wikipedia.org/wiki/朝霧JAM "wikilink")、[2006年](../Page/2006年.md "wikilink")には[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")、[RISING SUN ROCK FESTIVALなどの大型フェスにも出演し話題となる](https://ja.wikipedia.org/wiki/ライジング・サン・ロック・フェスティバル "wikilink")。
 
 また、リミキサー、プロデューサーとしても[Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")、[SAWA](https://ja.wikipedia.org/wiki/SAWA "wikilink")、[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、DA PUMPなどの作品に参加している。なお、現在も活動拠点は大阪である。
 

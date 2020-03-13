@@ -6,7 +6,7 @@
 ## 概要
 
   - 本人曰く「デビュー前にレコーディングが開始されていた」との事であり、本作のリリースに不安を感じていたという。
-  - シングルでは唯一のノン・[タイアップ](https://ja.wikipedia.org/wiki/タイアップ "wikilink")作品だが、初動売り上げとオリコン最高位は前作を上回った。
+  - シングルでは唯一のノン・[タイアップ](../Page/タイアップ.md "wikilink")作品だが、初動売り上げとオリコン最高位は前作を上回った。
 
 ## 収録曲
 
@@ -14,7 +14,7 @@
       - 作詞：愛内里菜　作曲：[大野愛果](../Page/大野愛果.md "wikilink")　編曲：[尾城九龍](../Page/尾城九龍.md "wikilink")
     <!-- end list -->
       -
-        作曲者・大野の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")・アルバム『[Shadows of Dreams](https://ja.wikipedia.org/wiki/Shadows_of_Dreams "wikilink")』には、この楽曲を[Deron Reynoldsが英作詞した](https://ja.wikipedia.org/wiki/Deron_Reynolds "wikilink")「I'm crazy for you」が収録されている。
+        作曲者・大野の[セルフカバー](../Page/セルフカバー.md "wikilink")・アルバム『[Shadows of Dreams](https://ja.wikipedia.org/wiki/Shadows_of_Dreams "wikilink")』には、この楽曲を[Deron Reynoldsが英作詞した](https://ja.wikipedia.org/wiki/Deron_Reynolds "wikilink")「I'm crazy for you」が収録されている。
 2.  **golden moonlight**
       - 作詞：愛内里菜　作曲：大野愛果　編曲：尾城九龍
 3.  **It's crazy for you 〜VIVA RINA THE WEST“☆”REMIX〜**
@@ -25,8 +25,8 @@
 
 ## 収録アルバム
 
-  - [Be Happy](https://ja.wikipedia.org/wiki/Be_Happy "wikilink") (\#1)
-  - [Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(愛内里菜のアルバム\) "wikilink") (\#1)
+  - [Be Happy](../Page/Be_Happy.md "wikilink") (\#1)
+  - [Single Collection](../Page/Single_Collection_\(愛内里菜のアルバム\).md "wikilink") (\#1)
   - [ALL SINGLES BEST 〜THANX 10th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink") (\#1)
   - [COLORS](https://ja.wikipedia.org/wiki/COLORS_\(愛内里菜のアルバム\) "wikilink") (\#2)
 

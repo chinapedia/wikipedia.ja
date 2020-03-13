@@ -27,7 +27,7 @@ bjリーグの「東アジア構想」に基づき、将来は[日](https://ja.w
   - 特別協賛
       - [全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（2006-07）
       - [BSフジ](../Page/BSフジ.md "wikilink")（2007-08より2009-10まで）
-      - [マルコメ](https://ja.wikipedia.org/wiki/マルコメ "wikilink")（2010-11より2013-2014まで）
+      - [マルコメ](../Page/マルコメ.md "wikilink")（2010-11より2013-2014まで）
       - [ターキッシュ エアラインズ](../Page/ターキッシュ_エアラインズ.md "wikilink")（2014-15より）
 
 ## 概略
@@ -78,7 +78,7 @@ bjリーグの「東アジア構想」に基づき、将来は[日](https://ja.w
 
 ### ユニフォーム
 
-第2回大会までは、bjリーグオフィシャルサプライヤーの尾崎商事（現・[菅公学生服](../Page/菅公学生服.md "wikilink")）より[スポルディングブランドで提供を受けていた](https://ja.wikipedia.org/wiki/スポルディング_\(スポーツ用品\) "wikilink")。2008-09シーズンのオールスターは[デサント](https://ja.wikipedia.org/wiki/デサント "wikilink")が提供する。
+第2回大会までは、bjリーグオフィシャルサプライヤーの尾崎商事（現・[菅公学生服](../Page/菅公学生服.md "wikilink")）より[スポルディングブランドで提供を受けていた](https://ja.wikipedia.org/wiki/スポルディング_\(スポーツ用品\) "wikilink")。2008-09シーズンのオールスターは[デサント](../Page/デサント.md "wikilink")が提供する。
 
 なお、スリーポイント及びダンクコンテストでは所属球団のユニフォームを着用する。
 
@@ -151,10 +151,10 @@ bjリーグ公式ルールに準ずる。
 <td><p><a href="https://ja.wikipedia.org/wiki/Bjリーグ_2007-08#bjリーグオールスターゲーム" title="wikilink">2</a></p></td>
 <td><p>2007年<br />
 <a href="../Page/12月29日.md" title="wikilink">12月29日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/朱鷺メッセ" title="wikilink">朱鷺メッセ</a><br />
+<td><p><a href="../Page/朱鷺メッセ.md" title="wikilink">朱鷺メッセ</a><br />
 （<a href="../Page/新潟県.md" title="wikilink">新潟県</a><a href="https://ja.wikipedia.org/wiki/新潟市" title="wikilink">新潟市</a> ）</p>
 <hr>
-<p><a href="https://ja.wikipedia.org/wiki/新潟アルビレックスBB" title="wikilink">新潟アルビレックスBB</a></p></td>
+<p><a href="../Page/新潟アルビレックスBB.md" title="wikilink">新潟アルビレックスBB</a></p></td>
 <td><p>A</p></td>
 <td><p>94 - <strong>121</strong></p></td>
 <td><p>H</p></td>
@@ -178,7 +178,7 @@ bjリーグ公式ルールに準ずる。
 <td><p><a href="../Page/宮城県総合運動公園総合体育館.md" title="wikilink">宮城県総合運動公園総合体育館</a><br />
 （<a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a><a href="../Page/宮城郡.md" title="wikilink">宮城郡</a><a href="../Page/利府町.md" title="wikilink">利府町</a> ）</p>
 <hr>
-<p><a href="https://ja.wikipedia.org/wiki/仙台89ERS" title="wikilink">仙台89ERS</a></p></td>
+<p><a href="../Page/仙台89ERS.md" title="wikilink">仙台89ERS</a></p></td>
 <td><p>A</p></td>
 <td><p><strong>105</strong> - 102</p></td>
 <td><p>H</p></td>
@@ -187,7 +187,7 @@ bjリーグ公式ルールに準ずる。
 <td><p>5</p></td>
 <td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><br />
 <a href="https://ja.wikipedia.org/wiki/1月23日" title="wikilink">1月23日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/大阪府立体育会館" title="wikilink">大阪府立体育会館</a><br />
+<td><p><a href="../Page/大阪府立体育会館.md" title="wikilink">大阪府立体育会館</a><br />
 （<a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a> ）</p>
 <hr>
 <p><a href="https://ja.wikipedia.org/wiki/大阪エヴェッサ" title="wikilink">大阪エヴェッサ</a></p></td>
@@ -211,7 +211,7 @@ bjリーグ公式ルールに準ずる。
 <td><p>7</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><br />
 <a href="../Page/1月20日.md" title="wikilink">1月20日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/有明コロシアム" title="wikilink">有明コロシアム</a><br />
+<td><p><a href="../Page/有明コロシアム.md" title="wikilink">有明コロシアム</a><br />
 （<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/江東区" title="wikilink">江東区</a> ）</p>
 <hr>
 <p>なし</p></td>
@@ -263,8 +263,8 @@ bjリーグ公式ルールに準ずる。
 | 回  | MVP                                                                                                                            | MIP                                                                                                                             | 備考         |
 | -- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 1  | [ジェロッド・ワード](../Page/ジェロッド・ワード.md "wikilink")（[富山](../Page/富山グラウジーズ.md "wikilink")）                                             |                                                                                                                                 |            |
-| 2  | [小菅直人](../Page/小菅直人.md "wikilink")（[新潟](https://ja.wikipedia.org/wiki/新潟アルビレックスBB "wikilink")）                                 |                                                                                                                                 |            |
-| 3  | [ボビー・セントプルー](https://ja.wikipedia.org/wiki/ボビー・セントプルー "wikilink")（[仙台](https://ja.wikipedia.org/wiki/仙台89ERS "wikilink")）      | [マイケル・パーカー](https://ja.wikipedia.org/wiki/マイケル・パーカー "wikilink")（[福岡](https://ja.wikipedia.org/wiki/ライジング福岡 "wikilink")）         | この年よりMIP創設 |
+| 2  | [小菅直人](../Page/小菅直人.md "wikilink")（[新潟](../Page/新潟アルビレックスBB.md "wikilink")）                                                    |                                                                                                                                 |            |
+| 3  | [ボビー・セントプルー](https://ja.wikipedia.org/wiki/ボビー・セントプルー "wikilink")（[仙台](../Page/仙台89ERS.md "wikilink")）                         | [マイケル・パーカー](https://ja.wikipedia.org/wiki/マイケル・パーカー "wikilink")（[福岡](https://ja.wikipedia.org/wiki/ライジング福岡 "wikilink")）         | この年よりMIP創設 |
 | 4  | マイケル・パーカー（福岡）                                                                                                                  | [ウェンデル・ホワイト](https://ja.wikipedia.org/wiki/ウェンデル・ホワイト "wikilink")（[浜松](https://ja.wikipedia.org/wiki/浜松・東三河フェニックス "wikilink")）  |            |
 | 5  | [リン・ワシントン](../Page/リン・ワシントン.md "wikilink")（[大阪](https://ja.wikipedia.org/wiki/大阪エヴェッサ "wikilink")）                             | [青木康平](../Page/青木康平.md "wikilink")（[東京](../Page/東京アパッチ.md "wikilink")）                                                          |            |
 | 6  | リン・ワシントン（大阪）                                                                                                                   | [ジョン・ハンフリー](../Page/ジョン・ハンフリー.md "wikilink")（[埼玉](https://ja.wikipedia.org/wiki/埼玉ブロンコス "wikilink")）                            |            |

@@ -1,11 +1,11 @@
 > この記事は[LIVE ATURAL from LIVE TOUR 005ATURALat YOKOHAMA ARENA 2005.12.13](https://ja.wikipedia.org/wiki/LIVE_ATURAL_from_LIVE_TOUR_005ATURALat_YOKOHAMA_ARENA_2005.12.13)から翻訳されています。
 
 
-『**LIVE ИATURAL 〜from LIVE TOUR 005"ИATURAL"at YOKOHAMA ARENA 2005.12.13〜**』（ライブ ナチュラル フロム ライブ ツアー 005 "ナチュラル" アット ヨコハマ アリーナ 2005.12.13）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")4枚目の[DVD](../Page/DVD.md "wikilink")。
+『**LIVE ИATURAL 〜from LIVE TOUR 005"ИATURAL"at YOKOHAMA ARENA 2005.12.13〜**』（ライブ ナチュラル フロム ライブ ツアー 005 "ナチュラル" アット ヨコハマ アリーナ 2005.12.13）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")4枚目の[DVD](../Page/DVD.md "wikilink")。
 
 ## 解説
 
-  - ORANGE RANGE2枚目の[ライブDVD](https://ja.wikipedia.org/wiki/演奏会 "wikilink")。ライブツアー「[ИATURAL](../Page/ИATURAL.md "wikilink")」の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")での最終公演の映像が収録されている。
+  - ORANGE RANGE2枚目の[ライブDVD](../Page/演奏会.md "wikilink")。ライブツアー「[ИATURAL](../Page/ИATURAL.md "wikilink")」の[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")での最終公演の映像が収録されている。
   - このライブ映像とほとんど同様の番組がNHK-BSで2006年1月に放送されていたが、オフショットや特典映像の充実、「雨」「盃 Jammer」（全て「ИATURAL」収録）などの未放送ライブ映像も収録されている。
   - 以前のDVD同様、曲間のMCはカットされているが、唯一、「Winter Winner」の掛け声の練習のみ収録されている。
   - エンディングには元メンバーのKATCHANが写っている写真が何枚か流れる。

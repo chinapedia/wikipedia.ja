@@ -1,11 +1,11 @@
 > この記事は[AvtoKrAZ](https://ja.wikipedia.org/wiki/AvtoKrAZ)から翻訳されています。
 
 
-**持株会社「AvtoKrAZ」**(KhK AvtoKrAZ、アウトクラーズ、アフトクラーズ；[ウクライナ語](../Page/ウクライナ語.md "wikilink"):****<small>アウトクラーズ</small>；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):)のひとつである。[中部ウクライナ](https://ja.wikipedia.org/wiki/中部ウクライナ "wikilink")の都市[クレメンチューク](https://ja.wikipedia.org/wiki/クレメンチューク "wikilink")に本拠を置き、大型車輌を主に[自動車の開発・製造を行っている](https://ja.wikipedia.org/wiki/自動車工業 "wikilink")。また、AvtoKrAZは国際規格として[ISO 9001:2000を取得している](../Page/ISO_9000.md "wikilink")。
+**持株会社「AvtoKrAZ」**(KhK AvtoKrAZ、アウトクラーズ、アフトクラーズ；[ウクライナ語](../Page/ウクライナ語.md "wikilink"):****<small>アウトクラーズ</small>；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):)のひとつである。[中部ウクライナ](https://ja.wikipedia.org/wiki/中部ウクライナ "wikilink")の都市[クレメンチューク](../Page/クレメンチューク.md "wikilink")に本拠を置き、大型車輌を主に[自動車の開発・製造を行っている](https://ja.wikipedia.org/wiki/自動車工業 "wikilink")。また、AvtoKrAZは国際規格として[ISO 9001:2000を取得している](../Page/ISO_9000.md "wikilink")。
 
 旧称は**クレメンチューク自動車工場**(****<small>クレメンチューツィクィイ・アウトモビーリヌィイ・ザヴォード</small>)で、その略称**KrAZ**(****<small>クラーズ</small>)に「自動車」を意味する「」を付けて新しい社名とした。
 
-なお、公式ホームページでは[大文字](../Page/大文字.md "wikilink")と[小文字](https://ja.wikipedia.org/wiki/小文字 "wikilink")の使い分けが判然としない部分がある。企業名は恐らく正式には**AVTOKRAZ**や**AvtoKRAZ**ではなく**AvtoKrAZ**であるが、車両[商標については](../Page/ブランド.md "wikilink")**KrAZ**と**KRAZ**が混在している。このページでは、特に企業名と違える根拠もないため、企業名に合わせ商標についても**KrAZ**を用いることとする。
+なお、公式ホームページでは[大文字](../Page/大文字.md "wikilink")と[小文字](../Page/小文字.md "wikilink")の使い分けが判然としない部分がある。企業名は恐らく正式には**AVTOKRAZ**や**AvtoKRAZ**ではなく**AvtoKrAZ**であるが、車両[商標については](../Page/ブランド.md "wikilink")**KrAZ**と**KRAZ**が混在している。このページでは、特に企業名と違える根拠もないため、企業名に合わせ商標についても**KrAZ**を用いることとする。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 AvtoKrAZ製の車輌モデルは25種の[プラットフォームを有しており](../Page/プラットフォーム_\(自動車\).md "wikilink")、そこから150以上の派生型が作られている。車輪配置には、4x2、4x4、6x4、6x6、8x4、8x6のバリエーションがある。こうしたベース車輌をもとに、主として[貨物自動車](../Page/貨物自動車.md "wikilink")(トラック)、[ダンプカー](../Page/ダンプカー.md "wikilink")、[牽引自動車](../Page/牽引自動車.md "wikilink")(トレーラーおよびその牽引車・[トラクター](../Page/トラクター.md "wikilink")・トレーラーヘッド・ロードトラクター)を生産している。
 
-AvtoKrAZの車輌は、これまでに国内外で多くの賞を受けている。運用は民間に留まらず、[ソ連軍や](../Page/ソビエト連邦軍.md "wikilink")[ウクライナ軍](../Page/ウクライナ軍.md "wikilink")をはじめ、多くの国で軍用車輌としても用いられている。軍専用型としては[KrAZ-6322](https://ja.wikipedia.org/wiki/KrAZ-6322 "wikilink")、[KrAZ-5133](https://ja.wikipedia.org/wiki/KrAZ-5133 "wikilink")BYe兵員輸送トラックなどがあり、これらからは[BM-21](../Page/BM-21.md "wikilink")「グラート」の後継車輌として設計されたKrAZ-6322-121「グラート」[ロケット砲](https://ja.wikipedia.org/wiki/ロケット砲 "wikilink")、「コリチューハ」([鎖帷子](../Page/鎖帷子.md "wikilink")の意味)[レーダー](../Page/レーダー.md "wikilink")アンテナを搭載したKrAZ-6322レーダー車、KrAZ-6322AF装甲トラックが開発されている。また、[KrAZ-6446](https://ja.wikipedia.org/wiki/KrAZ-6446 "wikilink")トラクターは[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")の牽引に用いられている。逆に、民間専用型としては[KrAZ-6133KYe](https://ja.wikipedia.org/wiki/KRAZ-6133 "wikilink")[バスなどがある](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")。
+AvtoKrAZの車輌は、これまでに国内外で多くの賞を受けている。運用は民間に留まらず、[ソ連軍や](../Page/ソビエト連邦軍.md "wikilink")[ウクライナ軍](../Page/ウクライナ軍.md "wikilink")をはじめ、多くの国で軍用車輌としても用いられている。軍専用型としては[KrAZ-6322](https://ja.wikipedia.org/wiki/KrAZ-6322 "wikilink")、[KrAZ-5133](https://ja.wikipedia.org/wiki/KrAZ-5133 "wikilink")BYe兵員輸送トラックなどがあり、これらからは[BM-21](../Page/BM-21.md "wikilink")「グラート」の後継車輌として設計されたKrAZ-6322-121「グラート」[ロケット砲](../Page/ロケット砲.md "wikilink")、「コリチューハ」([鎖帷子](../Page/鎖帷子.md "wikilink")の意味)[レーダー](../Page/レーダー.md "wikilink")アンテナを搭載したKrAZ-6322レーダー車、KrAZ-6322AF装甲トラックが開発されている。また、[KrAZ-6446](https://ja.wikipedia.org/wiki/KrAZ-6446 "wikilink")トラクターは[弾道ミサイル](../Page/弾道ミサイル.md "wikilink")の牽引に用いられている。逆に、民間専用型としては[KrAZ-6133KYe](https://ja.wikipedia.org/wiki/KRAZ-6133 "wikilink")[バスなどがある](https://ja.wikipedia.org/wiki/バス_\(車両\) "wikilink")。
 
 ### 歴史
 
@@ -25,9 +25,9 @@ AvtoKrAZは、[1945年](../Page/1945年.md "wikilink")[8月31日](../Page/8月31
 
 [1958年](../Page/1958年.md "wikilink")4月には政府より大型貨物自動車の製造開始が命ぜられ、翌月より工場の体制は大型車輌の製造に移行した。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:PMP-Pontoon-Bridge-latrun-1.jpg "wikilink")(浮橋)設置車輌[PMP](https://ja.wikipedia.org/wiki/PMP_\(自動車\) "wikilink")\]\] [1959年](../Page/1959年.md "wikilink")には[ヤロスラーヴリ自動車工場](https://ja.wikipedia.org/wiki/ヤロスラーヴリ自動車工場 "wikilink")(YaAZ)との共同生産となるの2種のダンプが生産を開始した。[5月1日](../Page/5月1日.md "wikilink")の[メーデー](../Page/メーデー.md "wikilink")には最初のKrAZブランドの車輌となる[KrAZ-222](https://ja.wikipedia.org/wiki/KrAZ-222 "wikilink")が完成し、クレメンチュークと[ポルタヴァ](https://ja.wikipedia.org/wiki/ポルタヴァ "wikilink")で生産が開始された。12月には、12 tダンプの[KrAZ-219](https://ja.wikipedia.org/wiki/KrAZ-219 "wikilink")とその踏破力を向上した[KrAZ-214](https://ja.wikipedia.org/wiki/KrAZ-214 "wikilink")が完成した。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:PMP-Pontoon-Bridge-latrun-1.jpg "wikilink")(浮橋)設置車輌[PMP](https://ja.wikipedia.org/wiki/PMP_\(自動車\) "wikilink")\]\] [1959年](../Page/1959年.md "wikilink")には[ヤロスラーヴリ自動車工場](https://ja.wikipedia.org/wiki/ヤロスラーヴリ自動車工場 "wikilink")(YaAZ)との共同生産となるの2種のダンプが生産を開始した。[5月1日](../Page/5月1日.md "wikilink")の[メーデー](../Page/メーデー.md "wikilink")には最初のKrAZブランドの車輌となる[KrAZ-222](https://ja.wikipedia.org/wiki/KrAZ-222 "wikilink")が完成し、クレメンチュークと[ポルタヴァ](../Page/ポルタヴァ.md "wikilink")で生産が開始された。12月には、12 tダンプの[KrAZ-219](https://ja.wikipedia.org/wiki/KrAZ-219 "wikilink")とその踏破力を向上した[KrAZ-214](https://ja.wikipedia.org/wiki/KrAZ-214 "wikilink")が完成した。
 
-[1960年](../Page/1960年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")からKrAZブランドの車輌の輸出が開始され、まず初めに[アルゼンチン](../Page/アルゼンチン.md "wikilink")、[アフガニスタン](../Page/アフガニスタン.md "wikilink")、[ブルガリア](../Page/ブルガリア.md "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")、[インド](../Page/インド.md "wikilink")、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")へ輸出が行われた。また、トラクターの[KRAZ-221](https://ja.wikipedia.org/wiki/KRAZ-221 "wikilink")が完成した。
+[1960年](../Page/1960年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")からKrAZブランドの車輌の輸出が開始され、まず初めに[アルゼンチン](../Page/アルゼンチン.md "wikilink")、[アフガニスタン](../Page/アフガニスタン.md "wikilink")、[ブルガリア](../Page/ブルガリア.md "wikilink")、[中華人民共和国](../Page/中華人民共和国.md "wikilink")、[インド](../Page/インド.md "wikilink")、[フィンランド](../Page/フィンランド.md "wikilink")へ輸出が行われた。また、トラクターの[KRAZ-221](https://ja.wikipedia.org/wiki/KRAZ-221 "wikilink")が完成した。
 
 [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")には輸出数は500台を超え、共同企業のヤロスラーヴリ自動車工場を凌ぐようになった。
 
@@ -37,7 +37,7 @@ AvtoKrAZは、[1945年](../Page/1945年.md "wikilink")[8月31日](../Page/8月31
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:KrAZ_255.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:TMM-Bridge-latrun-1.jpg "wikilink")\]\] [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")には、自動車・木材運搬車[KrAZ-255](https://ja.wikipedia.org/wiki/KrAZ-255 "wikilink")Lが生産ラインを出た。
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")には、工場は[レーニン勲章](https://ja.wikipedia.org/wiki/レーニン勲章 "wikilink")を受けた。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")には、工場は[レーニン勲章](../Page/レーニン勲章.md "wikilink")を受けた。
 
 [1975年](../Page/1975年.md "wikilink")には、[ポールトレーラー](../Page/ポールトレーラー.md "wikilink")となる[KrAZ-260](https://ja.wikipedia.org/wiki/KrAZ-260 "wikilink")Gの試験が行われた。
 

@@ -1,11 +1,11 @@
 > この記事は[UMG ABS](https://ja.wikipedia.org/wiki/UMG_ABS)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Seiroka_gardens.jpg "wikilink") **UMG ABS株式会社**（ユーエムジー・エービーエス、*UMG ABS,LTD.*）は、[三菱ケミカル](https://ja.wikipedia.org/wiki/三菱ケミカル "wikilink")と[宇部興産](https://ja.wikipedia.org/wiki/宇部興産 "wikilink")が[ABS樹脂](https://ja.wikipedia.org/wiki/ABS樹脂 "wikilink")事業における折半出資会社で、2018年4月に[テクノポリマー](../Page/テクノポリマー.md "wikilink")株式会社([JSR](https://ja.wikipedia.org/wiki/JSR "wikilink")完全子会社)と統合し、**[テクノUMG](https://ja.wikipedia.org/wiki/テクノUMG "wikilink")株式会社**として事業を継続することになった。主に[ABS樹脂](https://ja.wikipedia.org/wiki/ABS樹脂 "wikilink")の生産、販売を行なっている。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Seiroka_gardens.jpg "wikilink") **UMG ABS株式会社**（ユーエムジー・エービーエス、*UMG ABS,LTD.*）は、[三菱ケミカル](https://ja.wikipedia.org/wiki/三菱ケミカル "wikilink")と[宇部興産](../Page/宇部興産.md "wikilink")が[ABS樹脂](../Page/ABS樹脂.md "wikilink")事業における折半出資会社で、2018年4月に[テクノポリマー](../Page/テクノポリマー.md "wikilink")株式会社([JSR](../Page/JSR.md "wikilink")完全子会社)と統合し、**[テクノUMG](https://ja.wikipedia.org/wiki/テクノUMG "wikilink")株式会社**として事業を継続することになった。主に[ABS樹脂](../Page/ABS樹脂.md "wikilink")の生産、販売を行なっている。
 
 ## 概要
 
-**宇部サイコン株式会社**（1963年設立、統合直前時点で[宇部興産](https://ja.wikipedia.org/wiki/宇部興産 "wikilink")と[ゼネラル・エレクトリック](https://ja.wikipedia.org/wiki/ゼネラル・エレクトリック "wikilink") (GE) の合弁企業）と、[三菱レイヨン](../Page/三菱レイヨン.md "wikilink")のABS樹脂事業部の統合により、2002年4月1日に設立。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に[日立化成工業](https://ja.wikipedia.org/wiki/日立化成工業 "wikilink")より[ASA樹脂](https://ja.wikipedia.org/wiki/ASA樹脂 "wikilink")事業の譲渡を受けている。2017年現在では[宇部興産](https://ja.wikipedia.org/wiki/宇部興産 "wikilink")と[三菱ケミカル](https://ja.wikipedia.org/wiki/三菱ケミカル "wikilink")が出資する合弁会社である\[1\]。
+**宇部サイコン株式会社**（1963年設立、統合直前時点で[宇部興産](../Page/宇部興産.md "wikilink")と[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink") (GE) の合弁企業）と、[三菱レイヨン](../Page/三菱レイヨン.md "wikilink")のABS樹脂事業部の統合により、2002年4月1日に設立。[2005年](../Page/2005年.md "wikilink")に[日立化成工業](https://ja.wikipedia.org/wiki/日立化成工業 "wikilink")より[ASA樹脂](https://ja.wikipedia.org/wiki/ASA樹脂 "wikilink")事業の譲渡を受けている。2017年現在では[宇部興産](../Page/宇部興産.md "wikilink")と[三菱ケミカル](https://ja.wikipedia.org/wiki/三菱ケミカル "wikilink")が出資する合弁会社である\[1\]。
 
   - 事業内容
     ABS樹脂事業（ABS、ASA、SAN、AESの各[ポリマー](https://ja.wikipedia.org/wiki/ポリマー "wikilink")及びこれらを使用するコンパウンド品、並びに他の樹脂とのアロイ製品にかかる事業）
@@ -22,7 +22,7 @@
   - [1967年](../Page/1967年.md "wikilink")（昭和42年） - 三菱レイヨンが[日東化学工業](https://ja.wikipedia.org/wiki/日東化学工業 "wikilink")よりABS樹脂事業を継承
   - [1988年](../Page/1988年.md "wikilink")（昭和63年） - ゼネラル・エレクトリックがボーグ・ワーナー・ケミカルズを買収
   - [2002年](../Page/2002年.md "wikilink")（平成14年） - 宇部サイコンと三菱レイヨンABS樹脂事業部が統合し、**UMG ABS株式会社**が設立される。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年） - [日立化成工業](https://ja.wikipedia.org/wiki/日立化成工業 "wikilink")からASA樹脂事業を譲渡される。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年） - [日立化成工業](https://ja.wikipedia.org/wiki/日立化成工業 "wikilink")からASA樹脂事業を譲渡される。
 
 ## 関連会社
 

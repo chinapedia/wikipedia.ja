@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - アルバム『[Single Collection](https://ja.wikipedia.org/wiki/Single_Collection_\(愛内里菜のアルバム\) "wikilink")』には未収録の曲であるが、ライブでの定番曲となっており、その際にはライブ用に一部歌詞をアレンジして歌われる。
+  - アルバム『[Single Collection](../Page/Single_Collection_\(愛内里菜のアルバム\).md "wikilink")』には未収録の曲であるが、ライブでの定番曲となっており、その際にはライブ用に一部歌詞をアレンジして歌われる。
   - 2010年のシングル「[HANABI](https://ja.wikipedia.org/wiki/HANABI_\(愛内里菜の曲\) "wikilink")」が発売されるまでは、長らく全シングルの中で最もチャート初登場・最高順位が低い作品であった。
   - 初回版は紙ジャケット仕様である。
 
@@ -28,7 +28,7 @@
 
 ## 収録アルバム
 
-  - [Be Happy](https://ja.wikipedia.org/wiki/Be_Happy "wikilink")（\#1）
+  - [Be Happy](../Page/Be_Happy.md "wikilink")（\#1）
   - [ALL SINGLES BEST 〜THANX 10th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ALL_SINGLES_BEST_〜THANX_10th_ANNIVERSARY〜 "wikilink")（\#1）
   - [COLORS](https://ja.wikipedia.org/wiki/COLORS_\(愛内里菜のアルバム\) "wikilink")（\#2）
 

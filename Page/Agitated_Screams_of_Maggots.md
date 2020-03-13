@@ -1,14 +1,14 @@
 > この記事は[Agitated Screams of Maggots](https://ja.wikipedia.org/wiki/Agitated_Screams_of_Maggots)から翻訳されています。
 
 
-「**Agitated Screams of Maggots**」（アジテイテッド・スクリームズ・オブ・マゴッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[DIR EN GREYの](https://ja.wikipedia.org/wiki/DIR_EN_GREY "wikilink")[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")20枚目の[シングル](../Page/シングル.md "wikilink")。
+「**Agitated Screams of Maggots**」（アジテイテッド・スクリームズ・オブ・マゴッツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[DIR EN GREYの](../Page/DIR_EN_GREY.md "wikilink")[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")20枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 概要
 
   - [アルバム](../Page/アルバム.md "wikilink")『[THE MARROW OF A BONE](../Page/THE_MARROW_OF_A_BONE.md "wikilink")』に先駆けてリリースされたシングル。2006年8月に行なわれた[日本武道館](../Page/日本武道館.md "wikilink")でのライブ「**TOUR06 INWARD SCREAM**」にて先行披露されている（当時は正式なタイトルは決まっていなかった）。
   - 薫曰く**「DIR EN GREY史上最狂の曲」**
   - 夏に行なわれたKORN主催の「**THE FAMILY VALUES TOUR**」への渡米前にはすでに[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")及びミックス作業まで済ませていた。
-  - 「Agitated Screams of Maggots」の[PVで流れたアニメーションは](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、Toshiyaの発案により[黒坂圭太](https://ja.wikipedia.org/wiki/黒坂圭太 "wikilink")が手がけることとなった。MTVで見た同監督の作品が非常にインパクトがあったことからコンタクトを取って実現した。PVは後半のあまりの残虐さからほとんどモザイクがかけられており、遂には放送禁止となった。当PVは全てアニメーションのみで構成されており、メンバー自体は出演していないが、メンバーの顔の絵のみがわずかながら登場している。
+  - 「Agitated Screams of Maggots」の[PVで流れたアニメーションは](../Page/ミュージック・ビデオ.md "wikilink")、Toshiyaの発案により[黒坂圭太](https://ja.wikipedia.org/wiki/黒坂圭太 "wikilink")が手がけることとなった。MTVで見た同監督の作品が非常にインパクトがあったことからコンタクトを取って実現した。PVは後半のあまりの残虐さからほとんどモザイクがかけられており、遂には放送禁止となった。当PVは全てアニメーションのみで構成されており、メンバー自体は出演していないが、メンバーの顔の絵のみがわずかながら登場している。
   - ジャケットも同じく黒坂が手がけているが、あまりにもグロテスクである\[[http://f.hatena.ne.jp/solitary_shell/20061116000152\]ということで](http://f.hatena.ne.jp/solitary_shell/20061116000152%5Dということで)[ソニー側が難色をしめし](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、結局書き直された。
   - 初回生産限定版は紙ジャケット仕様、ステッカー封入。店によってはポスターやその他の特典をもらうことも出来た。
   - アルバム『THE MARROW OF A BONE』では、タイトル表記が全て大文字の「AGITATED SCREAMS OF MAGGOTS」に改変されている。

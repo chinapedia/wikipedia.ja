@@ -1,7 +1,7 @@
 > この記事は[BURGER NUDS](https://ja.wikipedia.org/wiki/BURGER_NUDS)から翻訳されています。
 
 
-**BURGER NUDS**（バーガーナッズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")に中・高の同級生だった3人で結成され、[2004年](../Page/2004年.md "wikilink")に[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink")のラストライブを以て解散。リリースされたオリジナルアルバムは[2003年](../Page/2003年.md "wikilink")発表の「symphony」1枚のみである。レーベルは[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")の[木下理樹](https://ja.wikipedia.org/wiki/木下理樹 "wikilink")などが所属していた[TELESCOPE-LABEL](https://ja.wikipedia.org/wiki/TELESCOPE-LABEL "wikilink")。
+**BURGER NUDS**（バーガーナッズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スリーピース](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")に中・高の同級生だった3人で結成され、[2004年](../Page/2004年.md "wikilink")に[新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink")のラストライブを以て解散。リリースされたオリジナルアルバムは[2003年](../Page/2003年.md "wikilink")発表の「symphony」1枚のみである。レーベルは[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")の[木下理樹](../Page/木下理樹.md "wikilink")などが所属していた[TELESCOPE-LABEL](https://ja.wikipedia.org/wiki/TELESCOPE-LABEL "wikilink")。
 
 [2014年](../Page/2014年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、公式サイトを開設し、[6月21日](../Page/6月21日.md "wikilink")に10年ぶりのライブを開催すると発表した\[1\]\[2\]\[3\]。
 
@@ -9,7 +9,7 @@
 
   - 門田匡陽（もんでん まさあき）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ギター](../Page/ギター.md "wikilink")担当。
       - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月30日](../Page/1月30日.md "wikilink")生まれ。[東京都](../Page/東京都.md "wikilink")出身。現[Good Dog Happy MenのVo](../Page/Good_Dog_Happy_Men.md "wikilink")\&G。内田とはBURGER NUDS以前にも同じバンドで活動していた。
-  - 丸山潤（まるやま じゅん）[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+  - 丸山潤（まるやま じゅん）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
       - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")生まれ。愛称は「丸潤」。
   - 内田武瑠（うちだ たける）[ドラム担当](../Page/ドラムセット.md "wikilink")。
       - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")生まれ。[Good Dog Happy Men](../Page/Good_Dog_Happy_Men.md "wikilink")(その後脱退)のDr。愛称は「タケル」。TELESCOPE LABELによる公式サイト（現在閉鎖）の日記では小島義則と名乗っていた。
@@ -20,7 +20,7 @@
 
 ## 交流
 
-[BUMP OF CHICKENなどと交流が深く](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、彼らに[ハイラインレコーズ](https://ja.wikipedia.org/wiki/ハイラインレコーズ "wikilink")の委託情報を教えてもらったことが下北沢を中心に活動するきっかけになったと門田は語る。また彼らの主催ライブツアー「B.O.C. Presents BAUXiTE page1」にも参加した。
+[BUMP OF CHICKENなどと交流が深く](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、彼らに[ハイラインレコーズ](../Page/ハイラインレコーズ.md "wikilink")の委託情報を教えてもらったことが下北沢を中心に活動するきっかけになったと門田は語る。また彼らの主催ライブツアー「B.O.C. Presents BAUXiTE page1」にも参加した。
 
 ## ディスコグラフィー
 

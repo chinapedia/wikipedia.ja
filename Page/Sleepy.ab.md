@@ -25,7 +25,7 @@
 
 <!-- end list -->
 
-  - **田中秀幸**（たなか ひでゆき） - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[岩見沢市](../Page/岩見沢市.md "wikilink")出身。
+  - **田中秀幸**（たなか ひでゆき） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")。[岩見沢市](../Page/岩見沢市.md "wikilink")出身。
 
 <!-- end list -->
 
@@ -48,7 +48,7 @@
   - 2002年、1stアルバム『face the music』をリリース。
   - 2008年、5thアルバム『archive』リリース。この時期までの楽曲を総括。再録音や新曲も入れた。
   - 2009年11月25日、6thアルバム『paratroop』で[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")よりメジャーデビュー。
-  - 2012年6月、津波が脱退。津波脱退後は[U\&DESIGN](https://ja.wikipedia.org/wiki/U&DESIGN "wikilink")、元[ART-SCHOOL](https://ja.wikipedia.org/wiki/ART-SCHOOL "wikilink")の鈴木浩之がサポートドラマーとして参加している。
+  - 2012年6月、津波が脱退。津波脱退後は[U\&DESIGN](https://ja.wikipedia.org/wiki/U&DESIGN "wikilink")、元[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")の鈴木浩之がサポートドラマーとして参加している。
   - 2013年、8thアルバム『neuron』リリース。津波と鈴木のドラムが聴ける。
 
 ### バンド名の表記・読み方について
@@ -59,7 +59,7 @@
 ### エピソード
 
   - 成山は、映画「[丹青な庭](https://ja.wikipedia.org/wiki/丹青な庭 "wikilink")」で主演している。
-  - [CREATIVE OFFICE CUEのコンピレーションCD](https://ja.wikipedia.org/wiki/CREATIVE_OFFICE_CUE "wikilink")『CUE DREAM JAM-BOREE 2006「再会」』に津波が参加している。
+  - [CREATIVE OFFICE CUEのコンピレーションCD](../Page/CREATIVE_OFFICE_CUE.md "wikilink")『CUE DREAM JAM-BOREE 2006「再会」』に津波が参加している。
 
 ## ディスコグラフィー
 
@@ -224,7 +224,7 @@ PCCA-03196<通常盤></p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
 <td><p>palette</p></td>
 <td><p>WHCD-14</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -411,7 +411,7 @@ PCCA-03042<通常価格盤></p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/12月27日.md" title="wikilink">12月27日</a></p></td>
 <td><p>sleepy.ab LIVE@Sapporo Artpark</p></td>
 <td><p>CHA-013</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -661,16 +661,16 @@ SLP-1006/1007(web限定盤)</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li><a href="https://ja.wikipedia.org/wiki/新世紀のラブソング" title="wikilink">新世紀のラブソング</a> / <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>I Don't Wanna Be With You / <a href="https://ja.wikipedia.org/wiki/ZAZEN_BOYS" title="wikilink">ZAZEN BOYS</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/新世紀のラブソング" title="wikilink">新世紀のラブソング</a> / <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>I Don't Wanna Be With You / <a href="../Page/ZAZEN_BOYS.md" title="wikilink">ZAZEN BOYS</a></li>
 <li>O.K.Funky God / <a href="https://ja.wikipedia.org/wiki/鈴木亜美" title="wikilink">鈴木亜美</a> joins <a href="../Page/Buffalo_Daughter.md" title="wikilink">Buffalo Daughter</a></li>
-<li>幸福な朝食 退屈な夕食 / <a href="https://ja.wikipedia.org/wiki/斉藤和義" title="wikilink">斉藤和義</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/能動的三分間" title="wikilink">能動的三分間</a> / <a href="https://ja.wikipedia.org/wiki/東京事変" title="wikilink">東京事変</a></li>
+<li>幸福な朝食 退屈な夕食 / <a href="../Page/斉藤和義.md" title="wikilink">斉藤和義</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/能動的三分間" title="wikilink">能動的三分間</a> / <a href="../Page/東京事変.md" title="wikilink">東京事変</a></li>
 <li>Q&amp;A / <a href="../Page/100s.md" title="wikilink">100s</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Man-like_Creatures" title="wikilink">Man-like Creatures</a> / <a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/若者のすべて_(フジファブリックの曲)" title="wikilink">若者のすべて</a> / <a href="https://ja.wikipedia.org/wiki/フジファブリック" title="wikilink">フジファブリック</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/若者のすべて_(フジファブリックの曲)" title="wikilink">若者のすべて</a> / <a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a></li>
 <li>キャラメルフレーバー / <a href="https://ja.wikipedia.org/wiki/sister_jet" title="wikilink">sister jet</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/アカシア_(レミオロメンの曲)" title="wikilink">アカシア</a> / <a href="https://ja.wikipedia.org/wiki/レミオロメン" title="wikilink">レミオロメン</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/アカシア_(レミオロメンの曲)" title="wikilink">アカシア</a> / <a href="../Page/レミオロメン.md" title="wikilink">レミオロメン</a></li>
 <li><a href="../Page/渚_(曲).md" title="wikilink">渚</a> / <a href="https://ja.wikipedia.org/wiki/スピッツ_(バンド)" title="wikilink">スピッツ</a></li>
 <li>ほし / <a href="https://ja.wikipedia.org/wiki/曽我部恵一BAND" title="wikilink">曽我部恵一BAND</a></li>
 <li><strong>sonar / sleepy.ab</strong></li>
@@ -680,9 +680,9 @@ SLP-1006/1007(web限定盤)</p></td>
 <li><a href="../Page/赤橙_(曲).md" title="wikilink">赤橙</a> / <a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li><a href="../Page/シャングリラ_(チャットモンチーの曲).md" title="wikilink">シャングリラ</a> / <a href="../Page/チャットモンチー.md" title="wikilink">チャットモンチー</a></li>
 <li>Sunday 2010 / <a href="../Page/TOKYO_No.1_SOUL_SET.md" title="wikilink">TOKYO No.1 SOUL SET</a></li>
-<li>検索少年 / <a href="https://ja.wikipedia.org/wiki/七尾旅人" title="wikilink">七尾旅人</a></li>
+<li>検索少年 / <a href="../Page/七尾旅人.md" title="wikilink">七尾旅人</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/愛し愛されて生きるのさ/東京恋愛専科・または恋は言ってみりゃボディー・ブロー" title="wikilink">愛し愛されて生きるのさ</a> / <a href="../Page/小沢健二.md" title="wikilink">小沢健二</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/月に咲く花のようになるの" title="wikilink">月に咲く花のようになるの</a> / <a href="https://ja.wikipedia.org/wiki/サンボマスター" title="wikilink">サンボマスター</a>
+<li><a href="https://ja.wikipedia.org/wiki/月に咲く花のようになるの" title="wikilink">月に咲く花のようになるの</a> / <a href="../Page/サンボマスター.md" title="wikilink">サンボマスター</a>
 </div>
 </div></li>
 </ol></td>

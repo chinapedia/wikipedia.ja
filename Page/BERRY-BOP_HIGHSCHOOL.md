@@ -1,7 +1,7 @@
 > この記事は[BERRY-BOP HIGHSCHOOL](https://ja.wikipedia.org/wiki/BERRY-BOP_HIGHSCHOOL)から翻訳されています。
 
 
-『**BERRY-BOP HIGHSCHOOL**』（ベリー・バップ・ハイスクール）は[RADIO BERRYで放送されていたラジオ番組](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月から[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月にかけて放送された。
+『**BERRY-BOP HIGHSCHOOL**』（ベリー・バップ・ハイスクール）は[RADIO BERRYで放送されていたラジオ番組](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")。[2006年](../Page/2006年.md "wikilink")4月から[2006年](../Page/2006年.md "wikilink")11月にかけて放送された。
 
 ## 番組概要
 
@@ -11,7 +11,7 @@
 
 それぞれの時間の冒頭で出席確認と銘打ったフリーメールを募集し、トークを交えながらそれを読み上げていく。出席確認が終わるとその中で印象深いメールを送ったリスナーが日直に選ばれる。
 
-そして、お題が発表され同じようにトークをしながら読み上げていく。最後にそのなかから[MVPを決める](https://ja.wikipedia.org/wiki/最優秀選手 "wikilink")。MVPに選ばれたメールはHPに掲載される。
+そして、お題が発表され同じようにトークをしながら読み上げていく。最後にそのなかから[MVPを決める](../Page/最優秀選手.md "wikilink")。MVPに選ばれたメールはHPに掲載される。
 
 また、日直またはMVPに選ばれたリスナーには賞品として「伝説」という大見出しのついた認定書と共に[イチゴローボールペンが送られる](https://ja.wikipedia.org/wiki/エフエム栃木#局の概要 "wikilink")。
 

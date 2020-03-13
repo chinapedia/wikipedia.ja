@@ -10,7 +10,7 @@
   - [2002年](../Page/2002年.md "wikilink")3月に、中山加奈子（Vo\&G）、澄田健（G\&Vo）、[穴井仁吉](https://ja.wikipedia.org/wiki/穴井仁吉 "wikilink")（Ba）、大島治彦（Dr）にて第二期始動。
   - [2003年](../Page/2003年.md "wikilink")11月、穴井仁吉脱退。
   - [2004年](../Page/2004年.md "wikilink")[9月5日](../Page/9月5日.md "wikilink")に、中山加奈子（Vo\&G）、澄田健（G\&Vo）、伊藤航（Ba）、[富田京子](../Page/富田京子.md "wikilink")（Dr）の構成でライヴを行った。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月28日](../Page/2月28日.md "wikilink")より小関純匡（Dr）、[7月21日](../Page/7月21日.md "wikilink")より曽我将之（Ba）が加入。
+  - [2005年](../Page/2005年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")より小関純匡（Dr）、[7月21日](../Page/7月21日.md "wikilink")より曽我将之（Ba）が加入。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月11日](../Page/5月11日.md "wikilink")、ライブ上で活動休止が発表された。
   - [2012年](../Page/2012年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")よりライブ活動再開する事が発表された。
   - [2014年](../Page/2014年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")、アルバム「LOVE and ROLL」リリース。
@@ -19,7 +19,7 @@
 
 ## メンバー
 
-  - Vo.\&Gt. [中山加奈子](../Page/中山加奈子.md "wikilink")（ex.[プリンセス プリンセス](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")）
+  - Vo.\&Gt. [中山加奈子](../Page/中山加奈子.md "wikilink")（ex.[プリンセス プリンセス](../Page/プリンセス_プリンセス.md "wikilink")）
   - Gt.\&Vo [澄田健](https://ja.wikipedia.org/wiki/澄田健 "wikilink")（ex.[LOOPUS](../Page/LOOPUS.md "wikilink")）
   - Ba. 曽我"JETTSOUL"将之（[AGE of PUNK](../Page/ASAKI.md "wikilink")）
   - Dr. 小関純匡（マチルダロドリゲス　ex.[Crybaby](https://ja.wikipedia.org/wiki/Crybaby_\(ロックバンド\) "wikilink")）
@@ -61,9 +61,9 @@
 
 ## 関連項目
 
-  - [プリンセス プリンセス](https://ja.wikipedia.org/wiki/プリンセス_プリンセス "wikilink")
+  - [プリンセス プリンセス](../Page/プリンセス_プリンセス.md "wikilink")
   - [LOOPUS](../Page/LOOPUS.md "wikilink")
-  - [ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")
+  - [ANTHEM](../Page/ANTHEM.md "wikilink")
   - [ザ・ロッカーズ](../Page/ザ・ロッカーズ.md "wikilink")
   - [Crybaby](https://ja.wikipedia.org/wiki/Crybaby_\(ロックバンド\) "wikilink")
   - [AGE of PUNK](../Page/ASAKI.md "wikilink")

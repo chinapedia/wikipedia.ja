@@ -1,31 +1,31 @@
 > この記事は[MUSIC MAN SHIP](https://ja.wikipedia.org/wiki/MUSIC_MAN_SHIP)から翻訳されています。
 
 
-『**MUSIC MAN SHIP**』（ミュージック マン シップ）は、[フォークデュオ](https://ja.wikipedia.org/wiki/フォークデュオ "wikilink")[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")が[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")にリリースした通算4枚目のオリジナルアルバム。
+『**MUSIC MAN SHIP**』（ミュージック マン シップ）は、[フォークデュオ](../Page/フォークデュオ.md "wikilink")[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")が[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")にリリースした通算4枚目のオリジナルアルバム。
 
 ## 概要
 
-ロングセラーとなった10thシングル「Miilion Films」「永遠にともに」や、ボーナストラックとして[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")との企画ユニットの[トコブクロ](https://ja.wikipedia.org/wiki/トコブクロ "wikilink")の楽曲のコブクロヴァージョンが収録されている。
+ロングセラーとなった10thシングル「Miilion Films」「永遠にともに」や、ボーナストラックとして[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")との企画ユニットの[トコブクロ](../Page/トコブクロ.md "wikilink")の楽曲のコブクロヴァージョンが収録されている。
 
-1st〜3rdメジャーアルバムまで[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")プロデュースだったが、この4thアルバムで自身初のセルフプロデュースアルバムとなった。 シングル、アルバムを通して初のトップ3入りを記録した。
+1st〜3rdメジャーアルバムまで[笹路正徳](../Page/笹路正徳.md "wikilink")プロデュースだったが、この4thアルバムで自身初のセルフプロデュースアルバムとなった。 シングル、アルバムを通して初のトップ3入りを記録した。
 
 ## 収録曲
 
-1.  **東京の冬** （作詞・作曲:[小渕健太郎](https://ja.wikipedia.org/wiki/小渕健太郎 "wikilink")）
+1.  **東京の冬** （作詞・作曲:[小渕健太郎](../Page/小渕健太郎.md "wikilink")）
       -
         デンソーセンシングシステムCMソング。
 2.  **[Million Films](https://ja.wikipedia.org/wiki/永遠にともに/Million_Films "wikilink")** （作詞・作曲:小渕健太郎）
       -
         10thシングルの2曲目
         [NTT西日本電報イメージソングのタイアップがついた楽曲](../Page/西日本電信電話.md "wikilink")。西日本限定のタイアップであったために関東地方では同CMはOAされていなかった。
-3.  **ボーイズ・オン・ザ・ラン** （作詞・作曲:[馬場俊英](https://ja.wikipedia.org/wiki/馬場俊英 "wikilink")）
+3.  **ボーイズ・オン・ザ・ラン** （作詞・作曲:[馬場俊英](../Page/馬場俊英.md "wikilink")）
       -
-        [馬場俊英](https://ja.wikipedia.org/wiki/馬場俊英 "wikilink")のカヴァー曲。馬場もコーラスとして参加している。
+        [馬場俊英](../Page/馬場俊英.md "wikilink")のカヴァー曲。馬場もコーラスとして参加している。
 4.  **[永遠にともに](https://ja.wikipedia.org/wiki/永遠にともに/Million_Films "wikilink")** （作詞・作曲:小渕健太郎）
       -
         10thシングルの1曲目
-        NHK教育「[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")」として使用され、このアルバム発売年には結婚式で最も歌われた楽曲となった。シングルの初回盤にはこの楽曲のエレクトーンおよびピアノ向けアレンジの楽譜と小渕手書き風ギターコード譜がついていた。2006年には互いにリスペクトしあう仲である[Skoop On SomebodyのTAKEが自身のソロアルバムで同曲をカヴァーしている](../Page/Skoop_On_Somebody.md "wikilink")。2007年、お笑い芸人の[陣内智則](../Page/陣内智則.md "wikilink")が自身の結婚式で永遠にともにのピアノ弾き語りを披露したことによって、着うたダウンロードランキングに快挙を残した。
-5.  **Rising** （作詞・作曲:[黒田俊介](https://ja.wikipedia.org/wiki/黒田俊介 "wikilink")）
+        NHK教育「[みんなのうた](../Page/みんなのうた.md "wikilink")」として使用され、このアルバム発売年には結婚式で最も歌われた楽曲となった。シングルの初回盤にはこの楽曲のエレクトーンおよびピアノ向けアレンジの楽譜と小渕手書き風ギターコード譜がついていた。2006年には互いにリスペクトしあう仲である[Skoop On SomebodyのTAKEが自身のソロアルバムで同曲をカヴァーしている](../Page/Skoop_On_Somebody.md "wikilink")。2007年、お笑い芸人の[陣内智則](../Page/陣内智則.md "wikilink")が自身の結婚式で永遠にともにのピアノ弾き語りを披露したことによって、着うたダウンロードランキングに快挙を残した。
+5.  **Rising** （作詞・作曲:[黒田俊介](../Page/黒田俊介.md "wikilink")）
       -
         コブクロの楽曲では数少ない黒田俊介作詞作曲。
 6.  **光の誓いが聴こえた日** （作詞・作曲:小渕健太郎）
@@ -46,9 +46,9 @@
 11. **[ここから -Album version-](https://ja.wikipedia.org/wiki/永遠にともに/Million_Films "wikilink")** （作詞・作曲:小渕健太郎）
       -
         10thシングルの[c/w](https://ja.wikipedia.org/wiki/c/w "wikilink")のアルバムヴァージョン。曲の最後にギターソロが追加されている。
-12. **[毎朝、ボクの横にいて。-sweet drip mix-(bonus track)](https://ja.wikipedia.org/wiki/トコブクロ "wikilink")** （作詞・作曲:[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")）
+12. **[毎朝、ボクの横にいて。-sweet drip mix-(bonus track)](../Page/トコブクロ.md "wikilink")** （作詞・作曲:[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")）
       -
-        所ジョージとの企画ユニット「[トコブクロ](https://ja.wikipedia.org/wiki/トコブクロ "wikilink")」としてリリースしたシングルのコブクロバージョン。シングルコレクション「[ALL SINGLES BEST](../Page/ALL_SINGLES_BEST_\(コブクロのアルバム\).md "wikilink")」にはこのバージョンが収録されている。
+        所ジョージとの企画ユニット「[トコブクロ](../Page/トコブクロ.md "wikilink")」としてリリースしたシングルのコブクロバージョン。シングルコレクション「[ALL SINGLES BEST](../Page/ALL_SINGLES_BEST_\(コブクロのアルバム\).md "wikilink")」にはこのバージョンが収録されている。
 
 ## MUSIC MAN SHIP SPECIAL DVD（初回限定版DVD）
 

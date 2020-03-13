@@ -5,13 +5,13 @@
 
 ## 概要
 
-[220px](https://ja.wikipedia.org/wiki/ファイル:Barcelona-Mini_Estadi.jpg "wikilink") [FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の下部組織（[ラ・マシア](https://ja.wikipedia.org/wiki/ラ・マシア "wikilink")）のうち、最上位に位置しており、FCバルセロナBの上にはトップチームしかない。年齢別カテゴリーであるフベニルA以下の[カンテラ](../Page/カンテラ.md "wikilink")の最終地点となるカテゴリ（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の最上級である[J1](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")・[J2のクラブを対象に行われていた](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")[サテライトに相当するクラスに当たる](https://ja.wikipedia.org/wiki/Jサテライトリーグ "wikilink")）であり、ここで活躍が認められようやくトップチームに昇格することが出来る。ただし、トップチームであるFCバルセロナは世界有数のビッグクラブであり、各国のスター選手を獲得することも多いため、決して昇格することは容易ではない。
+[220px](https://ja.wikipedia.org/wiki/ファイル:Barcelona-Mini_Estadi.jpg "wikilink") [FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の下部組織（[ラ・マシア](https://ja.wikipedia.org/wiki/ラ・マシア "wikilink")）のうち、最上位に位置しており、FCバルセロナBの上にはトップチームしかない。年齢別カテゴリーであるフベニルA以下の[カンテラ](../Page/カンテラ.md "wikilink")の最終地点となるカテゴリ（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の最上級である[J1](https://ja.wikipedia.org/wiki/J1リーグ "wikilink")・[J2のクラブを対象に行われていた](https://ja.wikipedia.org/wiki/J2リーグ "wikilink")[サテライトに相当するクラスに当たる](../Page/Jサテライトリーグ.md "wikilink")）であり、ここで活躍が認められようやくトップチームに昇格することが出来る。ただし、トップチームであるFCバルセロナは世界有数のビッグクラブであり、各国のスター選手を獲得することも多いため、決して昇格することは容易ではない。
 
 2007年まではFCバルセロナBという名称であり、FCバルセロナBよりも一つ下の下部組織として[FCバルセロナC](https://ja.wikipedia.org/wiki/FCバルセロナC "wikilink")が存在していた。しかし、FCバルセロナBが2006-07シーズンの結果、[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")（3部）から[テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部）に降格し、規定上、同一のディビシオンにFCバルセロナBとFCバルセロナCが存在できないことから、FCバルセロナCが消滅している。また、この時にFCバルセロナBより**FCバルセロナ・アトレティック**に名称を変更した。選手を育成しトップチームへ輩出することがチームの目的であるとの理由から、2010-11シーズンよりFCバルセロナBへと再び名称を変更した。
 
-なお、テルセーラ・ディビシオン所属となった2007-08シーズンであったが、後にトップチーム監督となる[ジョゼップ・グアルディオラ](https://ja.wikipedia.org/wiki/ジョゼップ・グアルディオラ "wikilink")監督のもとで健闘し、[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")への再昇格を果たした。また、2009-10シーズンには、同じく後にトップチーム監督となる[ルイス・エンリケ](https://ja.wikipedia.org/wiki/ルイス・エンリケ "wikilink")監督のもとで好成績を収め、[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")に昇格している。そして、昇格1シーズン目の2010-11シーズンは本来ならば[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン "wikilink")への昇格プレーオフの参加資格がある（トップチームと同一カテゴリーに所属できない規定により、プレーオフに参加はしていない）3位に入り、プリメーラ・ディビシオンのクラブに匹敵する実力があることを示した。
+なお、テルセーラ・ディビシオン所属となった2007-08シーズンであったが、後にトップチーム監督となる[ジョゼップ・グアルディオラ](../Page/ジョゼップ・グアルディオラ.md "wikilink")監督のもとで健闘し、[セグンダ・ディビシオンB](../Page/セグンダ・ディビシオンB.md "wikilink")への再昇格を果たした。また、2009-10シーズンには、同じく後にトップチーム監督となる[ルイス・エンリケ](../Page/ルイス・エンリケ.md "wikilink")監督のもとで好成績を収め、[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")に昇格している。そして、昇格1シーズン目の2010-11シーズンは本来ならば[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")への昇格プレーオフの参加資格がある（トップチームと同一カテゴリーに所属できない規定により、プレーオフに参加はしていない）3位に入り、プリメーラ・ディビシオンのクラブに匹敵する実力があることを示した。
 
-2017年6月25日、[ラシン・サンタンデール](https://ja.wikipedia.org/wiki/ラシン・サンタンデール "wikilink")とのプレーオフで2戦合計4-1と勝利し、3年ぶりの[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")昇格を果たした。
+2017年6月25日、[ラシン・サンタンデール](../Page/ラシン・サンタンデール.md "wikilink")とのプレーオフで2戦合計4-1と勝利し、3年ぶりの[セグンダ・ディビシオン](../Page/セグンダ・ディビシオン.md "wikilink")昇格を果たした。
 
 ## 主な成績
 
@@ -40,11 +40,11 @@
 
   - [カルロス・レシャック](../Page/カルロス・レシャック.md "wikilink") 1981-1987
 
-  - [ファンデ・ラモス](https://ja.wikipedia.org/wiki/ファンデ・ラモス "wikilink") 1996-1997
+  - [ファンデ・ラモス](../Page/ファンデ・ラモス.md "wikilink") 1996-1997
 
-  - [ジョゼップ・グアルディオラ](https://ja.wikipedia.org/wiki/ジョゼップ・グアルディオラ "wikilink") 2007-2008
+  - [ジョゼップ・グアルディオラ](../Page/ジョゼップ・グアルディオラ.md "wikilink") 2007-2008
 
-  - [ルイス・エンリケ](https://ja.wikipedia.org/wiki/ルイス・エンリケ "wikilink") 2008-2011
+  - [ルイス・エンリケ](../Page/ルイス・エンリケ.md "wikilink") 2008-2011
 
   - [エウセビオ・サクリスタン](../Page/エウセビオ・サクリスタン・メナ.md "wikilink") 2011-2015
 
@@ -60,7 +60,7 @@
 
   - [アルベルト・ジョルケラ](../Page/アルベルト・ジョルケラ.md "wikilink") 1999-2000
 
-  - [ビクトル・バルデス](https://ja.wikipedia.org/wiki/ビクトル・バルデス "wikilink") 2000-2003
+  - [ビクトル・バルデス](../Page/ビクトル・バルデス.md "wikilink") 2000-2003
 
   - [ルーベン・マルティネス](https://ja.wikipedia.org/wiki/ルーベン・マルティネス "wikilink") 2002-2004
 
@@ -76,7 +76,7 @@
 
   - [クベンガ・オクノウォ](https://ja.wikipedia.org/wiki/クベンガ・オクノウォ "wikilink") 1997-1998
 
-  - [カルレス・プジョル](https://ja.wikipedia.org/wiki/カルレス・プジョル "wikilink") 1996-1999
+  - [カルレス・プジョル](../Page/カルレス・プジョル.md "wikilink") 1996-1999
 
   - [ペーニャ](https://ja.wikipedia.org/wiki/カルロス・ゴンザレス・ペーニャ "wikilink") 2000-2004
 
@@ -124,7 +124,7 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [ジョゼップ・グアルディオラ](https://ja.wikipedia.org/wiki/ジョゼップ・グアルディオラ "wikilink") 1984-1990
+  - [ジョゼップ・グアルディオラ](../Page/ジョゼップ・グアルディオラ.md "wikilink") 1984-1990
 
   - [ナイム](https://ja.wikipedia.org/wiki/モハメド・アリ・アマル "wikilink") 1985-1987
 
@@ -146,7 +146,7 @@
 
   - [ガブリ](../Page/ガブリエル・ガルシア・デ・ラ・トーレ.md "wikilink") 1997-1999
 
-  - [ルイス・ガルシア](https://ja.wikipedia.org/wiki/ルイス・ハビエル・ガルシア・サンス "wikilink") 1997-1999
+  - [ルイス・ガルシア](../Page/ルイス・ハビエル・ガルシア・サンス.md "wikilink") 1997-1999
 
   - [モハ](https://ja.wikipedia.org/wiki/モハメド・エル・ヤッゴビ "wikilink") 1999-2001
 
@@ -208,13 +208,13 @@
 
   - [ゴラン・ドルリッチ](https://ja.wikipedia.org/wiki/ゴラン・ドルリッチ "wikilink") 1996-1997
 
-  - [ハルナ・ババンギダ](https://ja.wikipedia.org/wiki/ハルナ・ババンギダ "wikilink") 1999-2001
+  - [ハルナ・ババンギダ](../Page/ハルナ・ババンギダ.md "wikilink") 1999-2001
 
   - [セルヒオ・ガルシア](../Page/セルヒオ・ガルシア_\(サッカー選手\).md "wikilink") 2002-2003
 
-  - [リオネル・メッシ](https://ja.wikipedia.org/wiki/リオネル・メッシ "wikilink") 2003-2004
+  - [リオネル・メッシ](../Page/リオネル・メッシ.md "wikilink") 2003-2004
 
-  - [クリスティアン](https://ja.wikipedia.org/wiki/クリスティアン・イダルゴ "wikilink") 2003-2006
+  - [クリスティアン](../Page/クリスティアン・イダルゴ.md "wikilink") 2003-2006
 
   - [ハビート](https://ja.wikipedia.org/wiki/フランシスコ・ペラル "wikilink") 2003-2005
 
@@ -228,7 +228,7 @@
 
   - [ボージャン・クルキッチ](../Page/ボージャン・クルキッチ.md "wikilink") 2006-2007
 
-  - [ジェフレン・スアレス](https://ja.wikipedia.org/wiki/ジェフレン・スアレス "wikilink") 2006-2009
+  - [ジェフレン・スアレス](../Page/ジェフレン・スアレス.md "wikilink") 2006-2009
 
 </div>
 

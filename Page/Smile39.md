@@ -5,7 +5,7 @@
 
 ## 概要・来歴
 
-デビュー後は[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")「[ビーバップ\!ハイヒール](https://ja.wikipedia.org/wiki/ビーバップ!ハイヒール "wikilink")」のエンディングや、全国ネットのラジオドラマの主題歌などに選ばれた。韓国俳優、[キム・ジェウォン](../Page/キム・ジェウォン.md "wikilink")やABCラジオのパーソナリティーの[妹尾和夫](../Page/妹尾和夫.md "wikilink")に楽曲提供を行っている。
+デビュー後は[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")「[ビーバップ\!ハイヒール](../Page/ビーバップ!ハイヒール.md "wikilink")」のエンディングや、全国ネットのラジオドラマの主題歌などに選ばれた。韓国俳優、[キム・ジェウォン](../Page/キム・ジェウォン.md "wikilink")やABCラジオのパーソナリティーの[妹尾和夫](../Page/妹尾和夫.md "wikilink")に楽曲提供を行っている。
 
 ## メンバー
 

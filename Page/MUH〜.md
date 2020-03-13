@@ -9,13 +9,13 @@
 
   - **森由理香**
       -
-        1984年1月23日生まれ。身長151cm。スリーサイズB84-W58-H84。[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身。リーダー。愛称は森ちゃん。イメージカラーはピンク  。
+        1984年1月23日生まれ。身長151cm。スリーサイズB84-W58-H84。[東京都](../Page/東京都.md "wikilink")出身。リーダー。愛称は森ちゃん。イメージカラーはピンク  。
   - **[宇佐美なな](../Page/宇佐美なな.md "wikilink")**
       -
-        1985年10月23日生まれ。[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身。愛称はななっぺ、なぁちゃん。イメージカラーは水色  。
+        1985年10月23日生まれ。[千葉県](../Page/千葉県.md "wikilink")出身。愛称はななっぺ、なぁちゃん。イメージカラーは水色  。
   - **[原田明絵](https://ja.wikipedia.org/wiki/原田明絵 "wikilink")**
       -
-        1987年1月22日生まれ。身長148cm。スリーサイズB80-W59-H82。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。愛称は明絵。イメージカラーは黄色  。
+        1987年1月22日生まれ。身長148cm。スリーサイズB80-W59-H82。[埼玉県](../Page/埼玉県.md "wikilink")出身。愛称は明絵。イメージカラーは黄色  。
 
 ## ユニット名
 
@@ -30,7 +30,7 @@
     2.  [残酷な天使のテーゼ](../Page/残酷な天使のテーゼ.md "wikilink")『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』
     3.  キャンディ・キャンディ『[キャンディ・キャンディ](https://ja.wikipedia.org/wiki/キャンディ・キャンディ "wikilink")』
     4.  風の谷のナウシカ『[風の谷のナウシカ](https://ja.wikipedia.org/wiki/風の谷のナウシカ_\(映画\) "wikilink")』
-    5.  デリケートに好きして『[魔法の天使クリィミーマミ](https://ja.wikipedia.org/wiki/魔法の天使クリィミーマミ "wikilink")』
+    5.  デリケートに好きして『[魔法の天使クリィミーマミ](../Page/魔法の天使クリィミーマミ.md "wikilink")』
     6.  [ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")『[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン_\(テレビアニメ\) "wikilink")』
     7.  [はじめてのチュウ](../Page/はじめてのチュウ.md "wikilink")『[キテレツ大百科](https://ja.wikipedia.org/wiki/キテレツ大百科_\(アニメ\) "wikilink")』
     8.  キューティーハニー『[キューティーハニー](https://ja.wikipedia.org/wiki/キューティーハニー "wikilink")』
@@ -64,9 +64,9 @@
 
 ## ライブ
 
-主に[学園祭](https://ja.wikipedia.org/wiki/学園祭 "wikilink")や[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")などで行われる無料ライブや、都内の[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")でのライブに出演していた。
+主に[学園祭](https://ja.wikipedia.org/wiki/学園祭 "wikilink")や[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")などで行われる無料ライブや、都内の[ライブハウス](../Page/ライブハウス.md "wikilink")でのライブに出演していた。
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には、初のソロライブを行い、その後も数ヶ月に一度のペースで開催されていた。ソロライブでは、MUH～のメンバー本人達が考えた演出やサプライズなどもあった。
+[2006年](../Page/2006年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")には、初のソロライブを行い、その後も数ヶ月に一度のペースで開催されていた。ソロライブでは、MUH～のメンバー本人達が考えた演出やサプライズなどもあった。
 
 ライブで歌われる曲には、上記の2枚のアルバムには未収録の曲も含まれていることが多かった。例えば、「[ハッピー☆マテリアル](../Page/ハッピー☆マテリアル.md "wikilink")」、「Believe」、「Heartbeat」、「ハロー\!サンキュー\! 」、「true blue」、「Dream×Dream」、「EQUALロマンス」、「運命'95」などで、これらの曲もすべてアニメソングのカバー曲である。
 

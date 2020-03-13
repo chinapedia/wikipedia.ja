@@ -27,7 +27,7 @@
       - 趣味 アニメ鑑賞 声優モノマネ
       - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")・[ばいきんまん](https://ja.wikipedia.org/wiki/ばいきんまん "wikilink")の[中尾隆聖](../Page/中尾隆聖.md "wikilink")のモノマネが得意で、[R-1ぐらんぷり](../Page/R-1ぐらんぷり.md "wikilink")2010では「フリーザVSばいきんまん in[ファミリーレストラン](../Page/ファミリーレストラン.md "wikilink")」というネタを披露した。
       - [フリーザ](https://ja.wikipedia.org/wiki/フリーザ "wikilink")の[物真似](../Page/物真似.md "wikilink")、[コスプレ](../Page/コスプレ.md "wikilink")をしてネタを行う事が多い\[13\]が、お笑いLIVEではコスプレをせず、[漫才](../Page/漫才.md "wikilink")、[コント](../Page/コント.md "wikilink")を行う。
-      - 中尾隆聖の妻とマネージャーにモノマネで電話で話したところ、全くばれずに過ごしたと言う伝説を持つほど中尾の声帯模写が上手い。あまり知られてはいないが[中尾隆聖](../Page/中尾隆聖.md "wikilink")、[八奈見乗児](../Page/八奈見乗児.md "wikilink")、[郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")、[オール巨人](https://ja.wikipedia.org/wiki/オール巨人 "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[花火](../Page/花火.md "wikilink")等のモノマネが得意。
+      - 中尾隆聖の妻とマネージャーにモノマネで電話で話したところ、全くばれずに過ごしたと言う伝説を持つほど中尾の声帯模写が上手い。あまり知られてはいないが[中尾隆聖](../Page/中尾隆聖.md "wikilink")、[八奈見乗児](../Page/八奈見乗児.md "wikilink")、[郷里大輔](../Page/郷里大輔.md "wikilink")、[オール巨人](https://ja.wikipedia.org/wiki/オール巨人 "wikilink")、[トランペット](../Page/トランペット.md "wikilink")、[花火](../Page/花火.md "wikilink")等のモノマネが得意。
       - 18歳の時に大阪吉本でアカペラバンドを組み歌手として活動しながらbaseよしもとで行われていた「baseプレステージ」に前のコンビ、ドック・タグ(後のグリーンボール)で参加。その時、大阪NSC21期生扱いとして活動していた\[14\]。その後、解散し上京後に幼馴染の鮫島とパリパリポリパリを結成、鮫島が東京NSC8期生\[15\]の為（大阪NSC25期生相当）山本も東京NSC8期生扱い。実際の所、NSCには大阪、東京共に通ってはいない。
       - 声優オーディションの方にも参加をしており2013年発売 アニメ『[蒼い世界の中心で](https://ja.wikipedia.org/wiki/蒼い世界の中心で "wikilink")』DVD特典作品「外伝 勇者ミョムト」の600人参加のオーディションに合格し教祖イブリル役に選ばれた。
       - 2016年、第1子女児が誕生\[16\]。
@@ -119,7 +119,7 @@
 
   - [メタルマックス4 月光のディーヴァ](https://ja.wikipedia.org/wiki/メタルマックス4_月光のディーヴァ "wikilink")（[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")、2013年11月7日発売、山本のみ、サソリスタン役）
   - ハロウィンナイト キャンディマニア（[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")/[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、2015年11月5日配信開始、山本のみ、お化け役）
-  - [スカッとゴルフ パンヤ](https://ja.wikipedia.org/wiki/スカッとゴルフ_パンヤ "wikilink")（[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、2015年11月26日実装開始、山本のみ、マックス役）
+  - [スカッとゴルフ パンヤ](../Page/スカッとゴルフ_パンヤ.md "wikilink")（[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、2015年11月26日実装開始、山本のみ、マックス役）
   - アルテイルクロニクル（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")・[Android](../Page/Android.md "wikilink")、2016年11月15日配信開始、山本のみ、ラルトヴァイス役）
   - 三国志ディフェンちゅ（iOS・Android、2018年5月1日配信開始、山本のみ、白い馬役）
   - 相剋のエルシオン（iOS・Android、2018年5月21日配信開始、山本のみ、パルミル役）
@@ -127,7 +127,7 @@
 
 #### その他
 
-  - [増田ジゴロウ](https://ja.wikipedia.org/wiki/増田ジゴロウ "wikilink")（3代目）の声\[28\]（2015年 - 継続中、鮫島）
+  - [増田ジゴロウ](../Page/増田ジゴロウ.md "wikilink")（3代目）の声\[28\]（2015年 - 継続中、鮫島）
 
 ### インターネット番組
 
@@ -195,14 +195,14 @@
   - アニソンディスコ in ニコファーレ（2012年2月19日）
   - 中学星TV～chu-gakusei.2nd DVD発売記念。（2012年6月11日、山本のみ）
   - [ドリームクリエイター](https://ja.wikipedia.org/wiki/ドリームクリエイター "wikilink") \#65（2012年10月20日、山本のみ）
-  - [鈴村健一](../Page/鈴村健一.md "wikilink")＆[逢坂良太](https://ja.wikipedia.org/wiki/逢坂良太 "wikilink")の「[バンプレラボ](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")～俺たちバンプレ宣伝隊～」（2013年8月15日、9月19日、2014年4月17日、山本のみ）
+  - [鈴村健一](../Page/鈴村健一.md "wikilink")＆[逢坂良太](https://ja.wikipedia.org/wiki/逢坂良太 "wikilink")の「[バンプレラボ](../Page/バンプレスト.md "wikilink")～俺たちバンプレ宣伝隊～」（2013年8月15日、9月19日、2014年4月17日、山本のみ）
   - アニメぴあちゃんねる（2013年2月27日、2013年10月7日、2014年7月31日、2016年11月17日）
   - [電人☆ゲッチャ\!](https://ja.wikipedia.org/wiki/電人☆ゲッチャ! "wikilink")（2013年11月1日、山本のみ）※[高橋名人](../Page/高橋名人.md "wikilink")のコーナーに出演
   - 年末年始ぶっ通し78時間全局テレビ実況（2013年12月31日 - 1月4日）※7元生放送。[R藤本](https://ja.wikipedia.org/wiki/R藤本 "wikilink")と[爆笑コメディアンズ](https://ja.wikipedia.org/wiki/爆笑コメディアンズ "wikilink")と交代で出演\[38\]。
   - [ニコニコ超会議](https://ja.wikipedia.org/wiki/ニコニコ超会議 "wikilink")
-      - 【ニコニコ超会議3】[バンプレスト](https://ja.wikipedia.org/wiki/バンプレスト "wikilink")ブース（2014年4月26日、4月27日、山本のみ）
+      - 【ニコニコ超会議3】[バンプレスト](../Page/バンプレスト.md "wikilink")ブース（2014年4月26日、4月27日、山本のみ）
       - 【ニコニコ超会議2016】NTT超未来大博覧会（2016年4月30日、山本のみ）
-      - 【ニコニコ超会議2018】超料理ステージ supported by [カゴメ](https://ja.wikipedia.org/wiki/カゴメ "wikilink")（2018年4月28日、4月29日）
+      - 【ニコニコ超会議2018】超料理ステージ supported by [カゴメ](../Page/カゴメ.md "wikilink")（2018年4月28日、4月29日）
   - ニコニコ町会議
       - ニコニコ町会議 in 大阪 水都大阪ミナミフェスティバル2014（2014年11月1日、山本のみ）
       - ニコニコ町会議 in 大阪 とんぼりリバーウォークステージ（2014年11月1日、山本のみ）
@@ -233,15 +233,15 @@
 <!-- end list -->
 
   - [PLAY\!AWA'S 〜美と笑いの大お見せ合いパーティ〜](../Page/PLAY!AWA'S_〜美と笑いの大お見せ合いパーティ〜.md "wikilink")（[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、2007年8月23日）
-  - [おしゃべりやってまーす](https://ja.wikipedia.org/wiki/おしゃべりやってまーす "wikilink")第2放送（[K'z Station](https://ja.wikipedia.org/wiki/K'z_Station "wikilink")、山本のみ：2009年6月16日、6月23日、8月25日、9月1日、2010年1月12日、4月20日、2011年8月9日、8月16日、鮫島のみ：2010年10月5日、10月12日）
+  - [おしゃべりやってまーす](https://ja.wikipedia.org/wiki/おしゃべりやってまーす "wikilink")第2放送（[K'z Station](../Page/K'z_Station.md "wikilink")、山本のみ：2009年6月16日、6月23日、8月25日、9月1日、2010年1月12日、4月20日、2011年8月9日、8月16日、鮫島のみ：2010年10月5日、10月12日）
   - [オリエンタルラジオのマンガの日](https://ja.wikipedia.org/wiki/オリエンタルラジオのマンガの日 "wikilink")（[ヤフー](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")、2010年3月5日）
   - [蒼い世界の隅っこで](https://ja.wikipedia.org/wiki/蒼い世界の中心で#WEBラジオ "wikilink")（[HiBiKi Radio Station](https://ja.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")、2013年2月14日、山本のみ）
   - [本気\!アニラブ](https://ja.wikipedia.org/wiki/本気!アニラブ "wikilink")（[文化放送](../Page/文化放送.md "wikilink")[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")、2013年8月20日）
   - [野坂尚也](https://ja.wikipedia.org/wiki/野坂尚也 "wikilink")のNow Young\!\!\!（[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")、2013年9月1日）
-  - [ゆっちと](https://ja.wikipedia.org/wiki/牧野由依 "wikilink")[アサミの](../Page/田野アサミ.md "wikilink")「へいらっしゃい！たのまき寿司」（[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")、2013年10月29日、2014年3月18日）
+  - [ゆっちと](../Page/牧野由依.md "wikilink")[アサミの](../Page/田野アサミ.md "wikilink")「へいらっしゃい！たのまき寿司」（[Ustream](https://ja.wikipedia.org/wiki/Ustream "wikilink")、2013年10月29日、2014年3月18日）
   - [METAL MAX](../Page/メタルマックス.md "wikilink") RADIO（[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")、2013年12月19日、山本のみ）
   - BANBANBANと一緒に毎月ますもと。（[SHOWROOM](https://ja.wikipedia.org/wiki/SHOWROOM_\(ストリーミングサービス\) "wikilink")、山本のみ:2015年10月19日、コンビで出演:2015年11月30日）
-  - [パンヤ](https://ja.wikipedia.org/wiki/スカッとゴルフ_パンヤ "wikilink")11周年記念特別生放送！（[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、2015年11月23日、山本のみ）
+  - [パンヤ](../Page/スカッとゴルフ_パンヤ.md "wikilink")11周年記念特別生放送！（[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")、2015年11月23日、山本のみ）
   - [デヴィ夫人の帰ってきた夫人のお部屋](https://ja.wikipedia.org/wiki/デヴィ・スカルノ "wikilink")（OPENREC.tv、2017年4月13日、山本のみ）
 
 ### ラジオ
@@ -258,7 +258,7 @@
 
 <!-- end list -->
 
-  - 小見川千明とBANBANBAN山本の輪廻を木っ端微塵\!\[39\]（[音泉](https://ja.wikipedia.org/wiki/音泉 "wikilink")、2018年4月9日 - 2018年9月24日、山本のみ）※隔週月曜に放送
+  - 小見川千明とBANBANBAN山本の輪廻を木っ端微塵\!\[39\]（[音泉](../Page/音泉.md "wikilink")、2018年4月9日 - 2018年9月24日、山本のみ）※隔週月曜に放送
 
 <!-- end list -->
 
@@ -268,15 +268,15 @@
 
   - かごしまラジオマガジン「ラジマガ」（[MBCラジオ](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、2007年8月21日、2007年10月2日、2008年1月29日）
   - [火曜JUNK2 タカアンドトシのケチャケチャラジオ](../Page/火曜JUNK2_タカアンドトシのケチャケチャラジオ.md "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、2008年4月15日、山本のみ）
-  - [雨上がり決死隊べしゃりブリンッ\!](https://ja.wikipedia.org/wiki/雨上がり決死隊べしゃりブリンッ! "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、2008年6月11日、山本のみ）
-  - [平野綾](../Page/平野綾.md "wikilink")の[RADIOアニメロミックス](https://ja.wikipedia.org/wiki/RADIOアニメロミックス "wikilink")（[文化放送](../Page/文化放送.md "wikilink")、2008年10月11日）※10月13日に[ニコニコアニメチャンネル](https://ja.wikipedia.org/wiki/アニメロチャンネル "wikilink")（当時）で動画配信
-  - [古川登志夫](../Page/古川登志夫.md "wikilink")のくるくるドリーム（[MID-FM](../Page/MID-FM.md "wikilink")及び[SimulRadio](https://ja.wikipedia.org/wiki/SimulRadio "wikilink")、2013年3月15日）
+  - [雨上がり決死隊べしゃりブリンッ\!](../Page/雨上がり決死隊べしゃりブリンッ!.md "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、2008年6月11日、山本のみ）
+  - [平野綾](../Page/平野綾.md "wikilink")の[RADIOアニメロミックス](../Page/RADIOアニメロミックス.md "wikilink")（[文化放送](../Page/文化放送.md "wikilink")、2008年10月11日）※10月13日に[ニコニコアニメチャンネル](https://ja.wikipedia.org/wiki/アニメロチャンネル "wikilink")（当時）で動画配信
+  - [古川登志夫](../Page/古川登志夫.md "wikilink")のくるくるドリーム（[MID-FM](../Page/MID-FM.md "wikilink")及び[SimulRadio](../Page/SimulRadio.md "wikilink")、2013年3月15日）
   - さくら☆電波放送局（[FM-FUJI](https://ja.wikipedia.org/wiki/FM-FUJI "wikilink")、2013年11月8日）
-  - [ユピテルPresents](../Page/ユピテル_\(企業\).md "wikilink")[野島裕史](https://ja.wikipedia.org/wiki/野島裕史 "wikilink")・[瀬戸麻沙美](https://ja.wikipedia.org/wiki/瀬戸麻沙美 "wikilink")の霧島レイくらぶ（[文化放送](../Page/文化放送.md "wikilink")、2015年1月2日）
+  - [ユピテルPresents](../Page/ユピテル_\(企業\).md "wikilink")[野島裕史](../Page/野島裕史.md "wikilink")・[瀬戸麻沙美](https://ja.wikipedia.org/wiki/瀬戸麻沙美 "wikilink")の霧島レイくらぶ（[文化放送](../Page/文化放送.md "wikilink")、2015年1月2日）
 
 ### CM
 
-  - [関西Tuka](https://ja.wikipedia.org/wiki/ツーカーホン関西 "wikilink")〜Tuka祭り〜（鮫島のみ）
+  - [関西Tuka](../Page/ツーカーホン関西.md "wikilink")〜Tuka祭り〜（鮫島のみ）
 
 ### PV出演
 
@@ -321,13 +321,13 @@
   - 夏の宴（コンビ:2012年8月9日、2013年8月9日、2014年8月14日、鮫島のみ:2016年8月11日）
   - 冬の宴（2012年12月28日、2013年12月28日、2014年12月27日、2015年12月28日）
   - 「メタルマックス4」発売前夜祭イベント（2013年11月6日、コンビで出演）
-  - 【[TGS](https://ja.wikipedia.org/wiki/東京ゲームショウ "wikilink")2014】「[消滅都市](https://ja.wikipedia.org/wiki/消滅都市 "wikilink")」ステージイベント（2014年9月18日）
+  - 【[TGS](../Page/東京ゲームショウ.md "wikilink")2014】「[消滅都市](https://ja.wikipedia.org/wiki/消滅都市 "wikilink")」ステージイベント（2014年9月18日）
   - 「サタデージネット」トークイベント（2016年3月26日）
   - 【[ニコニコ超会議](https://ja.wikipedia.org/wiki/ニコニコ超会議 "wikilink")2017】超ナポリたんブース（幕張メッセ、山本のみ:2017年4月29日、コンビ:2017年4月30日）※配信なし
 
 ### 演劇　
 
-  - [ダイノジ](https://ja.wikipedia.org/wiki/ダイノジ "wikilink")班「犬Ｇ」（2007年12月11日 - 12月16日全6公演、神保町花月）
+  - [ダイノジ](../Page/ダイノジ.md "wikilink")班「犬Ｇ」（2007年12月11日 - 12月16日全6公演、神保町花月）
   - 「声　～黒松病院～」（2008年3月11日 - 3月16日全6公演、神保町花月）
   - [ゆったり感](https://ja.wikipedia.org/wiki/ゆったり感 "wikilink")班「ＺＯＯ」（2008年6月4日 - 6月8日全5公演、神保町花月）
   - 「君と踊りたい」（2009年3月9日、3月10日全2公演、神保町花月） - 松崎豊 役（鮫島）、堂本ヒロト 役（山本）
@@ -365,7 +365,7 @@
   - [吉本興業所属タレント一覧](https://ja.wikipedia.org/wiki/吉本興業所属タレント一覧 "wikilink")
   - [吉本総合芸能学院](../Page/吉本総合芸能学院.md "wikilink")
   - [ものまねタレント一覧](../Page/ものまねタレント一覧.md "wikilink")
-  - [鹿児島県出身の人物一覧](https://ja.wikipedia.org/wiki/鹿児島県出身の人物一覧 "wikilink")
+  - [鹿児島県出身の人物一覧](../Page/鹿児島県出身の人物一覧.md "wikilink")
 
 ## 外部リンク
 

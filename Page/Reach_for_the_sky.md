@@ -5,7 +5,7 @@
 
 ## 概要
 
-「Reach for the sky」は、[NHK朝の連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[オードリー](https://ja.wikipedia.org/wiki/オードリー_\(テレビドラマ\) "wikilink")』主題歌であり、連続テレビ小説主題歌では歴代最年少での起用となった。
+「Reach for the sky」は、[NHK朝の連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[オードリー](../Page/オードリー_\(テレビドラマ\).md "wikilink")』主題歌であり、連続テレビ小説主題歌では歴代最年少での起用となった。
 
 [ジョン・レノン](../Page/ジョン・レノン.md "wikilink")が「ストロベリー・フィールズ・フォーエバー」の時に使っていたレズリーエフェクトを、コーラスで使用している。また当時のサウンドを意識してか、CDのレーベルが[レコード](../Page/レコード.md "wikilink")の様なデザインになっている。ジャケットとPVは[ロンドン](../Page/ロンドン.md "wikilink")で撮影された。
 
@@ -39,17 +39,17 @@
   - Ricky "Cosmo" Francis : コーラス （\#2）
   - Geoffrey Gems : コーラス （\#2）
   - Anna Gholston : コーラス （\#2）
-  - Masakazu Tomita : [システムエンジニア](https://ja.wikipedia.org/wiki/システムエンジニア "wikilink") （\#2）
+  - Masakazu Tomita : [システムエンジニア](../Page/システムエンジニア.md "wikilink") （\#2）
   - David Acker : ギター （\#3）
   - kenn.nagai : プログラミング、[ピアノ](../Page/ピアノ.md "wikilink") （\#5）
 
 ## タイアップ
 
-  - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[オードリー](https://ja.wikipedia.org/wiki/オードリー_\(テレビドラマ\) "wikilink")』主題歌（2000年10月 - 2001年3月）（\#1）
+  - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[オードリー](../Page/オードリー_\(テレビドラマ\).md "wikilink")』主題歌（2000年10月 - 2001年3月）（\#1）
 
 ## 収録アルバム
 
-  - [Perfect Crime](https://ja.wikipedia.org/wiki/Perfect_Crime_\(アルバム\) "wikilink")（\#1,3）
+  - [Perfect Crime](../Page/Perfect_Crime_\(アルバム\).md "wikilink")（\#1,3）
   - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")（\#1）
   - [ALL MY BEST](https://ja.wikipedia.org/wiki/ALL_MY_BEST "wikilink")（\#1）
   - [MAI KURAKI BEST 151A -LOVE & HOPE-](https://ja.wikipedia.org/wiki/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE- "wikilink")（\#1）

@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 初の[オリコンシングルチャート首位を獲得し](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、前作に続きこの作品もノンタイアップにもかかわらず出荷枚数100万枚を超えた（自身の歴代シングル売り上げ枚数第3位）。
+  - 初の[オリコンシングルチャート首位を獲得し](../Page/オリコンチャート.md "wikilink")、前作に続きこの作品もノンタイアップにもかかわらず出荷枚数100万枚を超えた（自身の歴代シングル売り上げ枚数第3位）。
   - 前作に引き続きサウンドプロデュースはPerry Geyer、ミックスはMiguel Sá Pessoaが手がけた。カップリング曲の「Just Like You Smile Baby」と次作カップリング曲の「This is your life」も本作のA面候補楽曲として制作されていた。
   - PVでは、教会で本人がゴスペル歌手とともに歌っている。撮影場所は[品川教会](https://ja.wikipedia.org/wiki/品川教会 "wikilink")。
   - 表題曲は後に、初出演した[2003年](../Page/2003年.md "wikilink")の『[第54回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")』で[京都市](../Page/京都市.md "wikilink")[南区の](../Page/南区_\(京都市\).md "wikilink")[東寺](../Page/東寺.md "wikilink")にて歌われた。

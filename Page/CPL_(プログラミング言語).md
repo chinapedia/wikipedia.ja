@@ -15,7 +15,7 @@ CPL\[1\]は[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikil
 
 CPLは当時のコンピュータが非力で[コンパイラ](../Page/コンパイラ.md "wikilink")技術も未熟であったことを明白にした。実用的なCPLコンパイラは恐らく1970年頃に作られた\[2\]が、全く普及することなく、[1970年代](../Page/1970年代.md "wikilink")に自然消滅した。
 
-CPLをベースにした[BCPL](https://ja.wikipedia.org/wiki/BCPL "wikilink")（Basic CPL、元々はBootstrap CPL）という後発の言語は特にコンパイラを記述することを目的とした比較的シンプルな[システム記述用言語](https://ja.wikipedia.org/wiki/システム記述用言語 "wikilink")であった。後にBCPLは[B言語](../Page/B言語.md "wikilink")となり、今日最も重要な[プログラミング言語](../Page/プログラミング言語.md "wikilink")の1つである[C言語](../Page/C言語.md "wikilink")の元になった。
+CPLをベースにした[BCPL](../Page/BCPL.md "wikilink")（Basic CPL、元々はBootstrap CPL）という後発の言語は特にコンパイラを記述することを目的とした比較的シンプルな[システム記述用言語](https://ja.wikipedia.org/wiki/システム記述用言語 "wikilink")であった。後にBCPLは[B言語](../Page/B言語.md "wikilink")となり、今日最も重要な[プログラミング言語](../Page/プログラミング言語.md "wikilink")の1つである[C言語](../Page/C言語.md "wikilink")の元になった。
 
 ## コードの例
 

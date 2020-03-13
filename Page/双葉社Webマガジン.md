@@ -10,7 +10,7 @@
 ### コミックス
 
   - ドーナツボックス（[いしいひさいち](../Page/いしいひさいち.md "wikilink")）
-  - ガチ博士のヤンキーラボラトリー（[真右衛門](https://ja.wikipedia.org/wiki/真右衛門 "wikilink")）
+  - ガチ博士のヤンキーラボラトリー（[真右衛門](../Page/真右衛門.md "wikilink")）
   - 台湾でゼロからはじめる中国語（[小道迷子](https://ja.wikipedia.org/wiki/小道迷子 "wikilink")）
   - オンダンバタケ（[内田春菊](../Page/内田春菊.md "wikilink")）
   - 町の子の黄昏（レオナルド☆いも）※峯正澄のコラムとのコラボレーション作品
@@ -34,7 +34,7 @@
 ### コミックス
 
   - 三日経ったら違う女（内田春菊）
-  - 帰ってきたどらン猫2（[はるき悦巳](https://ja.wikipedia.org/wiki/はるき悦巳 "wikilink")）
+  - 帰ってきたどらン猫2（[はるき悦巳](../Page/はるき悦巳.md "wikilink")）
   - 女いっぴき猫ふたり（[伊藤理佐](../Page/伊藤理佐.md "wikilink")）
   - [台湾素食](../Page/台湾素食.md "wikilink")（小道迷子）
 
@@ -44,14 +44,14 @@
 
 ## web漫画アクションへ移行
 
-  - [シートン](https://ja.wikipedia.org/wiki/シートン_\(漫画\) "wikilink")（[谷口ジロー](https://ja.wikipedia.org/wiki/谷口ジロー "wikilink")）
+  - [シートン](https://ja.wikipedia.org/wiki/シートン_\(漫画\) "wikilink")（[谷口ジロー](../Page/谷口ジロー.md "wikilink")）
   - [真・異種格闘大戦](../Page/真・異種格闘大戦.md "wikilink")（[相原コージ](../Page/相原コージ.md "wikilink")）
-  - [マエストロ](../Page/マエストロ_\(漫画\).md "wikilink")（[さそうあきら](https://ja.wikipedia.org/wiki/さそうあきら "wikilink")）
+  - [マエストロ](../Page/マエストロ_\(漫画\).md "wikilink")（[さそうあきら](../Page/さそうあきら.md "wikilink")）
   - 耳かきお蝶（湯浅ヒトシ）
 
 ## WEBコミックアクションへ移行
 
-  - [馬なり1ハロン劇場](https://ja.wikipedia.org/wiki/馬なり1ハロン劇場 "wikilink")（[よしだみほ](https://ja.wikipedia.org/wiki/よしだみほ "wikilink")）
+  - [馬なり1ハロン劇場](../Page/馬なり1ハロン劇場.md "wikilink")（[よしだみほ](../Page/よしだみほ.md "wikilink")）
 
 ## 関連項目
 

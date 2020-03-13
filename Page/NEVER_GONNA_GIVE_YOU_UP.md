@@ -11,7 +11,7 @@
 
 サウンドプロデュースに加え、作曲・編曲もPerry Geyer、Miguel Sá Pessoa、マイケル・アフリックによるもの。歌詞は英語と日本語が半々になっており、どちらも単体で意味が通るようになっている。マイケル・アフリックと掛け合うラップの中では全米デビューシングル「[Baby I Like](https://ja.wikipedia.org/wiki/Baby_I_Like "wikilink")」の名前も登場する。PVはレコーディングの映像。
 
-[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」が同発となり、発売当時マスコミからは「歌姫対決」として注目された。結果としては[オリコンシングルチャートで第](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位となり僅差で浜崎に敗れる形となった。2000年度6月度FMラジオ局オンエアチャートでは第1位を記録。
+[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」が同発となり、発売当時マスコミからは「歌姫対決」として注目された。結果としては[オリコンシングルチャートで第](../Page/オリコンチャート.md "wikilink")2位となり僅差で浜崎に敗れる形となった。2000年度6月度FMラジオ局オンエアチャートでは第1位を記録。
 
 ## 収録曲
 
@@ -27,7 +27,7 @@
         前作の「This is your life」同様、歌詞カードに歌詞が記載されていない。
 3.  NEVER GONNA GIVE YOU UP ～It's On Tonight Remix～ (4:59)
       - Remixed by [ME-YA](../Page/DJ_ME-YA.md "wikilink")
-4.  NEVER GONNA GIVE YOU UP ～[Instrumental](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")～
+4.  NEVER GONNA GIVE YOU UP ～[Instrumental](../Page/器楽曲.md "wikilink")～
 
 ## 参加ミュージシャン
 
@@ -38,7 +38,7 @@
 
 ## タイアップ
 
-  - MFTV（のち[The MUSIC 272](https://ja.wikipedia.org/wiki/The_MUSIC_272 "wikilink")）"I'm MUSIC FRANK" キャンペーンソング。（\#1）
+  - MFTV（のち[The MUSIC 272](../Page/The_MUSIC_272.md "wikilink")）"I'm MUSIC FRANK" キャンペーンソング。（\#1）
 
 ## カバー
 

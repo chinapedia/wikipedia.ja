@@ -5,11 +5,11 @@
 
 ## 概要
 
-**FOX出版**は、「有限会社FOX出版」として[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月に設立され、[2013年](../Page/2013年.md "wikilink")10月の株式会社への改組とともに「ツクルノモリ株式会社」へと改称された。[コミックとらのあな](../Page/コミックとらのあな.md "wikilink")などを経営する株式会社[虎の穴の出版関連会社であり](../Page/コミックとらのあな.md "wikilink")、代表取締役は同社と同じく[吉田博高](https://ja.wikipedia.org/wiki/吉田博高 "wikilink")。名称の由来は「[虎](../Page/トラ.md "wikilink")（虎の穴）の威を借る[狐](../Page/キツネ.md "wikilink")」から。本社は[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")（[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")）にあり、同秋葉原および[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[市川市](../Page/市川市.md "wikilink")の二箇所に事業所を置く。
+**FOX出版**は、「有限会社FOX出版」として[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月に設立され、[2013年](../Page/2013年.md "wikilink")10月の株式会社への改組とともに「ツクルノモリ株式会社」へと改称された。[コミックとらのあな](../Page/コミックとらのあな.md "wikilink")などを経営する株式会社[虎の穴の出版関連会社であり](../Page/コミックとらのあな.md "wikilink")、代表取締役は同社と同じく[吉田博高](https://ja.wikipedia.org/wiki/吉田博高 "wikilink")。名称の由来は「[虎](../Page/トラ.md "wikilink")（虎の穴）の威を借る[狐](../Page/キツネ.md "wikilink")」から。本社は[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")（[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")）にあり、同秋葉原および[千葉県](../Page/千葉県.md "wikilink")[市川市](../Page/市川市.md "wikilink")の二箇所に事業所を置く。
 
 主に[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品を取り扱い、単行本や版権作品のコミックアンソロジーを刊行している。単行本のメインレーベルとなる「FOXコミックス」では[成人向け漫画](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")作品も一般向け作品と共通のレーベル枠で取り扱われる点が特徴的である。なお、FOX出版は発行元扱いとなり、発売元は[文苑堂](https://ja.wikipedia.org/wiki/文苑堂_\(出版社\) "wikilink")（[2003年](../Page/2003年.md "wikilink")前半までは旧名称の「文苑堂東京店」）となっている 。
 
-[2000年代](../Page/2000年代.md "wikilink")前半には『コミックメガフリーク』『コミックヒメクリ』などを発行。『コミックメガフリーク』は全年齢向けの一般誌であるが、同誌増刊として創刊された『コミックヒメクリ』は[成年コミック誌である](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に創刊され、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")より隔月刊行されたものの同年内に休刊となった『もより（萌寄）』以降は、定期刊行物を発行していない 。
+[2000年代](../Page/2000年代.md "wikilink")前半には『コミックメガフリーク』『コミックヒメクリ』などを発行。『コミックメガフリーク』は全年齢向けの一般誌であるが、同誌増刊として創刊された『コミックヒメクリ』は[成年コミック誌である](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")。[2005年](../Page/2005年.md "wikilink")に創刊され、[2006年](../Page/2006年.md "wikilink")より隔月刊行されたものの同年内に休刊となった『もより（萌寄）』以降は、定期刊行物を発行していない 。
 
 [ウェブコミック誌](https://ja.wikipedia.org/wiki/ウェブコミック誌 "wikilink")『[コミックHOLIC](https://ja.wikipedia.org/wiki/コミックHOLIC "wikilink")』なども展開しているが、サイトの運営は虎の穴が行っている。同誌の掲載作品は**コミホリコミックス**として刊行している。
 
@@ -35,7 +35,7 @@
 
   - [アイドルマスター](../Page/アイドルマスターシリーズの作品一覧.md "wikilink") - 「アイドルマスター アンソロジーコミック」（単巻）
   - [君が主で執事が俺で](../Page/君が主で執事が俺で.md "wikilink") - 「君が主で執事が俺で コミックアンソロジー」（Vol.1、Vol.2）
-  - [つよきす](https://ja.wikipedia.org/wiki/つよきす "wikilink") - 「つよきす コミックアンソロジー 竜鳴ツンデレ白書」（Vol.1 - Vol.6）
+  - [つよきす](../Page/つよきす.md "wikilink") - 「つよきす コミックアンソロジー 竜鳴ツンデレ白書」（Vol.1 - Vol.6）
   - [ToHeart2](https://ja.wikipedia.org/wiki/ToHeart2 "wikilink") - 「ToHeart2 アンソロジー」（Vol.1、Vol.2）\[6\]
   - [ぱすてるチャイムContinue](../Page/ぱすてるチャイムContinue.md "wikilink") - 「ぱすてるチャイムContinue アンソロジーコミック」（Vol.1のみ）
   - [Fate/stay night](https://ja.wikipedia.org/wiki/Fate/stay_night "wikilink") - 「Fate アンソロジーコミック」（Vol.1 - Vol.5A、Vol.5B）

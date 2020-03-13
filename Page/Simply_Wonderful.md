@@ -7,9 +7,9 @@
 
 「Simply Wonderful」は「いいものはいい」という意味で使用されている。サウンドプロデュースはPerry Geyerが手がけた。
 
-このシングルは「ダブル・エディット・シングル」として、両A面シングルのような形で発売された。両A面シングルというと、通常は**異なる楽曲2曲**が両方A面となるのに対し、このシングルは**同一の楽曲の異なるヴァージョン2つ**がA面というような扱いになった（その結果、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")ならびに『[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")』などでは「**Simply Wonderful〜Club Edit〜／Simply Wonderful〜Radio Edit〜**」という表記がされた）。ただし、実質的にはClub Editがリミックス、Radio Editがオリジナルバージョンのような扱いになっている。
+このシングルは「ダブル・エディット・シングル」として、両A面シングルのような形で発売された。両A面シングルというと、通常は**異なる楽曲2曲**が両方A面となるのに対し、このシングルは**同一の楽曲の異なるヴァージョン2つ**がA面というような扱いになった（その結果、[オリコンチャート](../Page/オリコンチャート.md "wikilink")ならびに『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』などでは「**Simply Wonderful〜Club Edit〜／Simply Wonderful〜Radio Edit〜**」という表記がされた）。ただし、実質的にはClub Editがリミックス、Radio Editがオリジナルバージョンのような扱いになっている。
 
-2枚目のアルバム『[Perfect Crime](https://ja.wikipedia.org/wiki/Perfect_Crime_\(アルバム\) "wikilink")』にはカップリングの「think about」が収録された。「Simply Wonderful」は長年アルバム未収録だったが、ベストアルバム『[Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")』にRadio Editが収録された。
+2枚目のアルバム『[Perfect Crime](../Page/Perfect_Crime_\(アルバム\).md "wikilink")』にはカップリングの「think about」が収録された。「Simply Wonderful」は長年アルバム未収録だったが、ベストアルバム『[Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")』にRadio Editが収録された。
 
 累計売上枚数は60万枚。
 
@@ -26,7 +26,7 @@
       -
         こちらが実質的なオリジナルバージョン（A面）となっている。
 3.  **think about** (4:42)
-      - 作詞：倉木麻衣　作曲・編曲：[YOKO Black. Stone](https://ja.wikipedia.org/wiki/YOKO_Black._Stone "wikilink")
+      - 作詞：倉木麻衣　作曲・編曲：[YOKO Black. Stone](../Page/YOKO_Black._Stone.md "wikilink")
     <!-- end list -->
       -
         YOKO Black. Stoneの仮歌に倉木の詞が付けられて制作された。
@@ -49,7 +49,7 @@
 
 ## 収録アルバム
 
-  - [Perfect Crime](https://ja.wikipedia.org/wiki/Perfect_Crime_\(アルバム\) "wikilink")（\#3）
+  - [Perfect Crime](../Page/Perfect_Crime_\(アルバム\).md "wikilink")（\#3）
   - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")（\#2）
   - [ALL MY BEST](https://ja.wikipedia.org/wiki/ALL_MY_BEST "wikilink")（\#2）
 

@@ -7,9 +7,9 @@
 
 ## 概要
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に、[ルイ・ヴィトン](https://ja.wikipedia.org/wiki/ルイ・ヴィトン "wikilink")と[モエ・ヘネシー](https://ja.wikipedia.org/wiki/モエ・ヘネシー "wikilink")（[モエ・エ・シャンドン](../Page/モエ・エ・シャンドン.md "wikilink")、[コニャック](https://ja.wikipedia.org/wiki/コニャック "wikilink")「ヘネシー」を販売）の両社が合併して誕生した。現在はフランスや[イタリア](../Page/イタリア.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")などの[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")を中心に60近くの高級ブランドを持つほか、免税店の[DFSグループ](../Page/DFSグループ.md "wikilink")などを傘下に収めている。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に、[ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")と[モエ・ヘネシー](https://ja.wikipedia.org/wiki/モエ・ヘネシー "wikilink")（[モエ・エ・シャンドン](../Page/モエ・エ・シャンドン.md "wikilink")、[コニャック](../Page/コニャック.md "wikilink")「ヘネシー」を販売）の両社が合併して誕生した。現在はフランスや[イタリア](../Page/イタリア.md "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")などの[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")を中心に60近くの高級ブランドを持つほか、免税店の[DFSグループ](../Page/DFSグループ.md "wikilink")などを傘下に収めている。
 
-配下の企業の販売品は、ヨーロッパ内生産のほかに[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")への外注を行っている。シャンパンのシェアは米国で16%、日本では70%を占める。
+配下の企業の販売品は、ヨーロッパ内生産のほかに[アジア](../Page/アジア.md "wikilink")への外注を行っている。シャンパンのシェアは米国で16%、日本では70%を占める。
 
 日本法人（[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[平河町](../Page/平河町.md "wikilink")2-1-1）はその事業内容によって、LVJグループ、LVMHウォッチ&ジュエリー・ジャパン、LVMHフレグランスブランズなどと呼ばれる。また酒類のブランドは、[ディアジオ](https://ja.wikipedia.org/wiki/ディアジオ "wikilink")との合弁で設立された**MHD モエ・ヘネシー・ディアジオ**が取り扱っている。
 
@@ -21,9 +21,9 @@
 
 ### ファッション
 
-  - （[ルイ・ヴィトン](https://ja.wikipedia.org/wiki/ルイ・ヴィトン "wikilink")）
+  - （[ルイ・ヴィトン](../Page/ルイ・ヴィトン.md "wikilink")）
 
-  - （[ロエベ](https://ja.wikipedia.org/wiki/ロエベ "wikilink")）
+  - （[ロエベ](../Page/ロエベ.md "wikilink")）
 
   - （[セリーヌ](https://ja.wikipedia.org/wiki/セリーヌ_\(ファッションブランド\) "wikilink")）
 
@@ -33,9 +33,9 @@
 
   - （[ベルルッティ](https://ja.wikipedia.org/wiki/ベルルッティ "wikilink")）
 
-  - （[ディオール](https://ja.wikipedia.org/wiki/ディオール "wikilink")/クリスチャン・ディオール）
+  - （[ディオール](../Page/ディオール.md "wikilink")/クリスチャン・ディオール）
 
-  - （[フェンディ](https://ja.wikipedia.org/wiki/フェンディ "wikilink")）
+  - （[フェンディ](../Page/フェンディ.md "wikilink")）
 
   - （[ジバンシー](https://ja.wikipedia.org/wiki/ジバンシー "wikilink")）
 
@@ -54,9 +54,9 @@
 
 <!-- end list -->
 
-  - （[ディオール](https://ja.wikipedia.org/wiki/ディオール "wikilink")/パルファン・クリスチャン・ディオール）
+  - （[ディオール](../Page/ディオール.md "wikilink")/パルファン・クリスチャン・ディオール）
 
-  - （[ゲラン](https://ja.wikipedia.org/wiki/ゲラン "wikilink")）
+  - （[ゲラン](../Page/ゲラン.md "wikilink")）
 
   - （[ベネフィット](https://ja.wikipedia.org/wiki/ベネフィット_\(化粧品\) "wikilink")）
 
@@ -134,7 +134,7 @@
 
   - （グレンモレンジー）
 
-  - （[アードベッグ](https://ja.wikipedia.org/wiki/アードベッグ蒸留所 "wikilink")）
+  - （[アードベッグ](../Page/アードベッグ蒸留所.md "wikilink")）
 
   -
   -

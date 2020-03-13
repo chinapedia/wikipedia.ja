@@ -8,7 +8,7 @@
 
 </div>
 
-『**ジャッカー電撃隊VSゴレンジャー**』（ジャッカーでんげきたい ブイエス ゴレンジャー）は、1978年の春休み[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")にて上映された劇場用オリジナル作品。封切は[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")。併映は『[世界名作童話 おやゆび姫](https://ja.wikipedia.org/wiki/世界名作童話_おやゆび姫 "wikilink")』『[惑星ロボ ダンガードA 宇宙大海戦](https://ja.wikipedia.org/wiki/惑星ロボ_ダンガードA "wikilink")』『[キャンディ・キャンディ 春の呼び声](https://ja.wikipedia.org/wiki/キャンディ・キャンディ "wikilink")』『[一休さんとやんちゃ姫](https://ja.wikipedia.org/wiki/一休さん_\(テレビアニメ\) "wikilink")』の4本。
+『**ジャッカー電撃隊VSゴレンジャー**』（ジャッカーでんげきたい ブイエス ゴレンジャー）は、1978年の春休み[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")にて上映された劇場用オリジナル作品。封切は[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月18日](../Page/3月18日.md "wikilink")。併映は『[世界名作童話 おやゆび姫](https://ja.wikipedia.org/wiki/世界名作童話_おやゆび姫 "wikilink")』『[惑星ロボ ダンガードA 宇宙大海戦](../Page/惑星ロボ_ダンガードA.md "wikilink")』『[キャンディ・キャンディ 春の呼び声](https://ja.wikipedia.org/wiki/キャンディ・キャンディ "wikilink")』『[一休さんとやんちゃ姫](https://ja.wikipedia.org/wiki/一休さん_\(テレビアニメ\) "wikilink")』の4本。
 
 ## 概要
 
@@ -102,7 +102,7 @@
   - UFO船長：[安藤三男](../Page/安藤三男.md "wikilink")
   - 鉄面男爵：[潮建志](../Page/潮健児.md "wikilink")
   - サハラ将軍：[天本英世](../Page/天本英世.md "wikilink")
-  - 地獄拳師：[金田治](https://ja.wikipedia.org/wiki/金田治 "wikilink")
+  - 地獄拳師：[金田治](../Page/金田治.md "wikilink")
 
 ### 声の出演
 
@@ -116,7 +116,7 @@
 
   - スペードエース：丹波義隆（名乗りシーンのみ代役を担当）\[6\]
   - [高橋利道](../Page/高橋利道.md "wikilink")
-  - [春田三三夫](https://ja.wikipedia.org/wiki/春田純一 "wikilink")
+  - [春田三三夫](../Page/春田純一.md "wikilink")
   - 竹下誠治
   - [古賀弘文](../Page/古賀弘文.md "wikilink")
   - 横山稔
@@ -134,11 +134,11 @@
   - 脚本：[上原正三](../Page/上原正三.md "wikilink")
   - 特撮監督：[矢島信男](../Page/矢島信男.md "wikilink") （ノンクレジット）
   - 監督：[田口勝彦](../Page/田口勝彦_\(監督\).md "wikilink")
-  - アクション監督：（[JAC](https://ja.wikipedia.org/wiki/ジャパンアクションエンタープライズ "wikilink")）[山岡淳二](../Page/山岡淳二.md "wikilink")、[金田治](https://ja.wikipedia.org/wiki/金田治 "wikilink")
+  - アクション監督：（[JAC](../Page/ジャパンアクションエンタープライズ.md "wikilink")）[山岡淳二](../Page/山岡淳二.md "wikilink")、[金田治](../Page/金田治.md "wikilink")
   - 音楽：[渡辺宙明](../Page/渡辺宙明.md "wikilink")
   - 主題歌
       - 「見よ\!\!ゴレンジャー」
-          - 作詞：石森章太郎 / 作曲・編曲：渡辺宙明 / 歌：[ささきいさお](https://ja.wikipedia.org/wiki/ささきいさお "wikilink")、[こおろぎ'73](https://ja.wikipedia.org/wiki/こおろぎ'73 "wikilink")、ウィルビーズ
+          - 作詞：石森章太郎 / 作曲・編曲：渡辺宙明 / 歌：[ささきいさお](../Page/ささきいさお.md "wikilink")、[こおろぎ'73](../Page/こおろぎ'73.md "wikilink")、ウィルビーズ
       - 「J.A.K.Q.進めジャッカー」
           - 作詞：[八手三郎](../Page/八手三郎.md "wikilink") / 作曲・編曲：渡辺宙明 / 歌：ささきいさお、こおろぎ'73、[ザ・チャープス](../Page/ザ・チャープス.md "wikilink")
 

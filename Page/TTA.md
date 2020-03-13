@@ -3,7 +3,7 @@
 
 **TTA** (ティーティーエー、**The True Audio**) は[フリー](../Page/フリーソフトウェア.md "wikilink")（[GPL](../Page/GNU_General_Public_License.md "wikilink")）のリアルタイム[可逆圧縮](../Page/可逆圧縮.md "wikilink")[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")[エンコーダー/デコーダーである](../Page/コーデック.md "wikilink")。可逆圧縮であるため音声の劣化がない。「ハードウェアサポートの容易さ」を目標に、開発が進められている。
 
-デコード速度と再生時のハードウェア負荷で[FLAC](../Page/FLAC.md "wikilink")に劣り、圧縮率で[Monkey's Audioに劣る](../Page/Monkey's_Audio.md "wikilink")。エンコード速度と圧縮率のバランスに優れるが、最近の利用率では、より高レベルでデコードとエンコードの能力向上を果たした[TAK](https://ja.wikipedia.org/wiki/TAK "wikilink")に押されつつある\[1\]。
+デコード速度と再生時のハードウェア負荷で[FLAC](../Page/FLAC.md "wikilink")に劣り、圧縮率で[Monkey's Audioに劣る](../Page/Monkey's_Audio.md "wikilink")。エンコード速度と圧縮率のバランスに優れるが、最近の利用率では、より高レベルでデコードとエンコードの能力向上を果たした[TAK](../Page/TAK.md "wikilink")に押されつつある\[1\]。
 
 [Matroska](../Page/Matroska.md "wikilink")コンテナ（.mkvや.mka）も対応している。
 
@@ -15,7 +15,7 @@
   - 複数の異なったプラットフォーム上でのコンパイル・実行が可能。
   - フリーの[オープンソース](../Page/オープンソース.md "wikilink")であり、技術情報が文書提供されている。
   - ハードウェアサポート実装。
-  - [ID3タグ](https://ja.wikipedia.org/wiki/ID3タグ "wikilink")、APEタグが利用可能（FLACは独自タグ、Monkey's AudioはAPEタグしか利用できない）。
+  - [ID3タグ](../Page/ID3タグ.md "wikilink")、APEタグが利用可能（FLACは独自タグ、Monkey's AudioはAPEタグしか利用できない）。
       - ただし、これはID3タグやAPEタグを付加してもフォーマットとして互換性が保たれるという意味であり、公式に提供されているエンコーダ・デコーダやライブラリではタグの読み書きはサポートされていない。また、現行のDirectShowフィルターでは表示はできないため、[foobar2000](https://ja.wikipedia.org/wiki/foobar2000 "wikilink")のプラグインや[SuperTagEditor](https://ja.wikipedia.org/wiki/SuperTagEditor "wikilink")改造版などでしか解釈できない。
 
 ## 利用例
@@ -37,8 +37,8 @@
   - [FLAC](../Page/FLAC.md "wikilink")
   - [Apple Lossless](../Page/Apple_Lossless.md "wikilink")
   - [Monkey's Audio](../Page/Monkey's_Audio.md "wikilink")
-  - [TAK](https://ja.wikipedia.org/wiki/TAK "wikilink")
-  - [WMA Lossless](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")
+  - [TAK](../Page/TAK.md "wikilink")
+  - [WMA Lossless](../Page/Windows_Media_Audio.md "wikilink")
   - [WavPack](https://ja.wikipedia.org/wiki/WavPack "wikilink")
   - [foobar2000](https://ja.wikipedia.org/wiki/foobar2000 "wikilink")
 

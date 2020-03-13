@@ -10,7 +10,7 @@
 ## キャラクター
 
   - 志木 春人（しき はるひと）
-    主人公。長男。[引きこもり](https://ja.wikipedia.org/wiki/引きこもり "wikilink")がちな[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")。春人は必須授業以外、レポートを出す教授ばっかりを選んでいるため殆ど家にいる。
+    主人公。長男。[引きこもり](../Page/引きこもり.md "wikilink")がちな[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")。春人は必須授業以外、レポートを出す教授ばっかりを選んでいるため殆ど家にいる。
   - 志木 千夏（しき ちなつ）
     [声優](../Page/声優.md "wikilink")：[清水香](https://ja.wikipedia.org/wiki/清水香_\(声優\) "wikilink")
     長女。主人公の義妹。活発な性格で、[陸上部](https://ja.wikipedia.org/wiki/陸上部 "wikilink")員の中ではかなり優秀。料理は特徴ある出来。

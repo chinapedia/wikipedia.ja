@@ -7,13 +7,13 @@
 
 マイクロソフト社が[MPEG-4](../Page/MPEG-4.md "wikilink")の暫定規格を取り入れて独自に開発したコーデックで、本来のMPEG-4（動画 第2部）とは若干異なっている。MPEG-4の規格が正式に制定された1999年前後においては、MPEG-4と言えばMS-MPEG4のことを指すことがあった\[4\]。
 
-[記録型CD](../Page/CD-R.md "wikilink")1枚に2時間程度の映像を記録でき一時期人気を博したが、大容量の[DVD](../Page/DVD.md "wikilink")や[BDが普及し](../Page/Blu-ray_Disc.md "wikilink")、高圧縮高画質の[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")コーデックも普及した現在では古いコーデックであるMS-MPEG4は使われなくなった。
+[記録型CD](../Page/CD-R.md "wikilink")1枚に2時間程度の映像を記録でき一時期人気を博したが、大容量の[DVD](../Page/DVD.md "wikilink")や[BDが普及し](../Page/Blu-ray_Disc.md "wikilink")、高圧縮高画質の[H.264](../Page/H.264.md "wikilink")コーデックも普及した現在では古いコーデックであるMS-MPEG4は使われなくなった。
 
 MS-MPEG4でエンコードした動画はベリノイズと呼ばれる画像の乱れが発生しやすい。そのためベリノイズを抑えるためのツールもある。
 
 マイクロソフト社は後にISO完全準拠のMPEG-4コーデック（ISO MPEG-4 バージョン 1 および 1.1）も開発している\[5\]。
 
-また、マイクロソフト社はMS-MPEG4をベースに[Windows Media Video 7を開発](https://ja.wikipedia.org/wiki/Windows_Media_Video "wikilink")。それを皮切りに、独自コーデックとして8、9へと改良を重ね、[VC-1](https://ja.wikipedia.org/wiki/VC-1 "wikilink") として現在に至る。
+また、マイクロソフト社はMS-MPEG4をベースに[Windows Media Video 7を開発](../Page/Windows_Media_Video.md "wikilink")。それを皮切りに、独自コーデックとして8、9へと改良を重ね、[VC-1](../Page/VC-1.md "wikilink") として現在に至る。
 
 ## バージョン
 

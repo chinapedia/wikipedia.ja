@@ -5,7 +5,7 @@
 
 また、[新交通ゆりかもめや](https://ja.wikipedia.org/wiki/ゆりかもめ東京臨海新交通臨海線 "wikilink")、[東京臨海高速鉄道](../Page/東京臨海高速鉄道.md "wikilink")[りんかい線を走る広告貸切電車も同一名称を名乗る](https://ja.wikipedia.org/wiki/東京臨海高速鉄道りんかい線 "wikilink")。
 
-[2001年](../Page/2001年.md "wikilink")以降は一部のADトレインにおいて、[ラッピングによる車体広告車両も登場した](../Page/ラッピング広告.md "wikilink")。なお、広告貸切電車のため、かつては内側に広告のある[ドアステッカー](https://ja.wikipedia.org/wiki/ドアステッカー "wikilink")も貼り付けていなかった。
+[2001年](../Page/2001年.md "wikilink")以降は一部のADトレインにおいて、[ラッピングによる車体広告車両も登場した](../Page/ラッピング広告.md "wikilink")。なお、広告貸切電車のため、かつては内側に広告のある[ドアステッカー](../Page/ドアステッカー.md "wikilink")も貼り付けていなかった。
 
 当初、[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")では正面に特製[ヘッドマークを装着していたが](https://ja.wikipedia.org/wiki/方向幕#ヘッドマーク "wikilink")、[2004年](../Page/2004年.md "wikilink")から装着していない。
 

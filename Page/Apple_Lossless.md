@@ -3,7 +3,7 @@
 
 **Apple ロスレス**\[1\]（アップルロスレス、英語：Apple Lossless Audio Codec、略称：ALAC）は[アップルの](../Page/アップル_\(企業\).md "wikilink")[可逆圧縮](../Page/可逆圧縮.md "wikilink")方式のオーディオ[コーデック](../Page/コーデック.md "wikilink")。[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")等で使用されている。
 
-非圧縮ファイル([WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")や[AIFF](https://ja.wikipedia.org/wiki/AIFF "wikilink"))を音質の劣化なく70%から50%程圧縮する。通常はQuickTimeのMOVファイル(.mov)か[MP4](../Page/MP4.md "wikilink")ファイル(.m4a)に格納される。
+非圧縮ファイル([WAV](../Page/WAV.md "wikilink")や[AIFF](../Page/AIFF.md "wikilink"))を音質の劣化なく70%から50%程圧縮する。通常はQuickTimeのMOVファイル(.mov)か[MP4](../Page/MP4.md "wikilink")ファイル(.m4a)に格納される。
 
 [iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink") 4.5と[QuickTime](../Page/QuickTime.md "wikilink") 6.5.1で新たにサポートされた。
 
@@ -11,18 +11,18 @@
 
 再生できる携帯プレイヤーは[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")シリーズ（第1・2世代iPod shuffleは非対応）、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[ソニー](../Page/ソニー.md "wikilink") [ウォークマン](../Page/ウォークマン.md "wikilink") ZXシリーズ、ウォークマン Fシリーズ、ウォークマンＡシリーズ、[iriver](https://ja.wikipedia.org/wiki/iriver "wikilink") AKシリーズ等。また、[Android](../Page/Android.md "wikilink")ベースのプレーヤーは対応アプリをインストールすることにより再生できる。一部の[ネットワークプレーヤー](https://ja.wikipedia.org/wiki/ネットワークプレーヤー "wikilink")も再生対応している。
 
-[仕様](../Page/仕様.md "wikilink")が非公開であった頃、[リバースエンジニアリング](https://ja.wikipedia.org/wiki/リバースエンジニアリング "wikilink")によって[オープンソース](../Page/オープンソース.md "wikilink")のApple ロスレスデコーダが公開され、[FFmpeg](../Page/FFmpeg.md "wikilink")はエンコーダの実装にも成功している。
+[仕様](../Page/仕様.md "wikilink")が非公開であった頃、[リバースエンジニアリング](../Page/リバースエンジニアリング.md "wikilink")によって[オープンソース](../Page/オープンソース.md "wikilink")のApple ロスレスデコーダが公開され、[FFmpeg](../Page/FFmpeg.md "wikilink")はエンコーダの実装にも成功している。
 
 2011年10月、アップルはApple ロスレスをオープンソース化し\[3\]、[Apache License](https://ja.wikipedia.org/wiki/Apache_License "wikilink") 2.0の下で[ソースコード](../Page/ソースコード.md "wikilink")を公開した。
 
 ## 関連項目
 
-  - [TAK](https://ja.wikipedia.org/wiki/TAK "wikilink")
+  - [TAK](../Page/TAK.md "wikilink")
   - [FLAC](../Page/FLAC.md "wikilink")
   - [Monkey's Audio](../Page/Monkey's_Audio.md "wikilink")
-  - [TTA](https://ja.wikipedia.org/wiki/TTA "wikilink")
+  - [TTA](../Page/TTA.md "wikilink")
   - [WavPack](https://ja.wikipedia.org/wiki/WavPack "wikilink")
-  - [WMA Lossless](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")
+  - [WMA Lossless](../Page/Windows_Media_Audio.md "wikilink")
   - [MPEG-4 ALS](https://ja.wikipedia.org/wiki/MPEG-4_ALS "wikilink")
   - [MPEG-4 SLS](https://ja.wikipedia.org/wiki/MPEG-4_SLS "wikilink")
   - [MPEG-4 DST](https://ja.wikipedia.org/wiki/MPEG-4_DST "wikilink")

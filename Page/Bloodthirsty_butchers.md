@@ -1,14 +1,14 @@
 > この記事は[Bloodthirsty butchers](https://ja.wikipedia.org/wiki/Bloodthirsty_butchers)から翻訳されています。
 
 
-**bloodthirsty butchers**（ブラッドサースティ・ブッチャーズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。通称「ブッチャーズ」。[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")、[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")、自主レーベル｢[391tone](https://ja.wikipedia.org/wiki/391tone "wikilink")｣を経て\[1\]現在は再び[キングレコード](../Page/キングレコード.md "wikilink")に所属。
+**bloodthirsty butchers**（ブラッドサースティ・ブッチャーズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。通称「ブッチャーズ」。[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")、[キングレコード](../Page/キングレコード.md "wikilink")、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")、自主レーベル｢[391tone](https://ja.wikipedia.org/wiki/391tone "wikilink")｣を経て\[1\]現在は再び[キングレコード](../Page/キングレコード.md "wikilink")に所属。
 
 ## メンバー
 
   - **吉村 秀樹**（**よしむら ひでき**、[1967年](../Page/1967年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")） - ボーカル、ギター、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[留萌市](../Page/留萌市.md "wikilink")出身、B型。2013年5月27日、急性心不全のため逝去\[2\]。。
   - **射守矢 雄**（**いもりや たけし**、 - ） - ベース、北海道留萌市出身、O型。現在は射守矢雄と平松学（[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")）として活動。
   - **小松 正宏**（**こまつ まさひろ**、 - ） - ドラムス、北海道留萌市出身、O型。FOE、SOSITE、[Crypt City](http://cryptcity.tumblr.com/)に参加。
-  - **[田渕 ひさ子](../Page/田渕ひさ子.md "wikilink")**（**たぶち ひさこ**、 - ） - ギター、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身、O型。toddle、LAMAに参加。
+  - **[田渕 ひさ子](../Page/田渕ひさ子.md "wikilink")**（**たぶち ひさこ**、 - ） - ギター、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身、O型。toddle、LAMAに参加。
 
 ### 旧メンバー
 
@@ -16,7 +16,7 @@
 
 ## 概要・来歴
 
-[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、前身バンドである「**畜生**」での活動を経て、[北海道留萌工業高等学校](../Page/北海道留萌工業高等学校.md "wikilink")の同級生である吉村秀樹と射守矢雄、[北海道留萌高等学校](https://ja.wikipedia.org/wiki/北海道留萌高等学校 "wikilink")出身で1期下の佐野紀代己によって同年11月14日に初ライブ。留萌高校の掟ポルシェ（[ロマンポルシェ。](../Page/ロマンポルシェ。.md "wikilink")）、上原子友康（[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")）とは同時期に在学して、お互いに刺激し合ったという。また、上原子はかつて畜生のメンバーとして在籍していた。 バンド名は[アンディ・ミリガン](https://ja.wikipedia.org/wiki/アンディ・ミリガン "wikilink")監督のカルト映画｢血に飢えた断髪魔(原題：*Bloodthirsty Butchers*)｣に由来している\[3\]。
+[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")、前身バンドである「**畜生**」での活動を経て、[北海道留萌工業高等学校](../Page/北海道留萌工業高等学校.md "wikilink")の同級生である吉村秀樹と射守矢雄、[北海道留萌高等学校](../Page/北海道留萌高等学校.md "wikilink")出身で1期下の佐野紀代己によって同年11月14日に初ライブ。留萌高校の掟ポルシェ（[ロマンポルシェ。](../Page/ロマンポルシェ。.md "wikilink")）、上原子友康（[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")）とは同時期に在学して、お互いに刺激し合ったという。また、上原子はかつて畜生のメンバーとして在籍していた。 バンド名は[アンディ・ミリガン](https://ja.wikipedia.org/wiki/アンディ・ミリガン "wikilink")監督のカルト映画｢血に飢えた断髪魔(原題：*Bloodthirsty Butchers*)｣に由来している\[3\]。
 
 [1989年](../Page/1989年.md "wikilink")に佐野が脱退し、入れ替わる形で後輩の小松正宏が加入。
 
@@ -40,7 +40,7 @@
 
 [2004年](../Page/2004年.md "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より田渕ひさ子加入後初となるアルバム「**birdy**」発売。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、アルバム「**banging the drum**」発売。
+[2005年](../Page/2005年.md "wikilink")、アルバム「**banging the drum**」発売。
 
 [2007年](../Page/2007年.md "wikilink")、自主レーベル「391tone」よりアルバム「**ギタリストを殺さないで**」発売。
 
@@ -48,13 +48,13 @@
 
 [2016年](../Page/2016年.md "wikilink")に発売20周年を記念し新たに未発表曲「kocorono」を収録、84ページ豪華ブックレット等を同梱した「**kocorono最終盤**」を発売。
 
-過去共演した海外アーティストとしてFugazi（3回の来日すべて）、[Rocket From The Crypt](https://ja.wikipedia.org/wiki/Rocket_From_The_Crypt "wikilink")、[Beck](https://ja.wikipedia.org/wiki/ベック_\(歌手\) "wikilink")、[The Flaming Lips](https://ja.wikipedia.org/wiki/フレーミング・リップス "wikilink")、[Rage Against the Machine](https://ja.wikipedia.org/wiki/レイジ・アゲインスト・ザ・マシーン "wikilink")、J・マスシス（[Dinosaur Jr.](../Page/ダイナソーJr..md "wikilink")）がいる。[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")等、フェスティバルへも毎年のように参加している常連であった。
+過去共演した海外アーティストとしてFugazi（3回の来日すべて）、[Rocket From The Crypt](https://ja.wikipedia.org/wiki/Rocket_From_The_Crypt "wikilink")、[Beck](../Page/ベック_\(歌手\).md "wikilink")、[The Flaming Lips](https://ja.wikipedia.org/wiki/フレーミング・リップス "wikilink")、[Rage Against the Machine](../Page/レイジ・アゲインスト・ザ・マシーン.md "wikilink")、J・マスシス（[Dinosaur Jr.](../Page/ダイナソーJr..md "wikilink")）がいる。[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")等、フェスティバルへも毎年のように参加している常連であった。
 
 ## サウンドと評価
 
 バンド初期はノイジーでカオティックなギターサウンドが特徴で、｢SHE'S BREAK｣、｢korekara dohshiyo｣など[Dinosaur Jr.や](../Page/ダイナソーJr..md "wikilink")[Sonic Youthを彷彿とさせる楽曲が顕著にみられる](https://ja.wikipedia.org/wiki/Sonic_Youth "wikilink")。
 
-吉村の使用するチューニング・ギターのコードはオリジナルが殆どであるが、直感で作っているため本人ですら理解しきれておらず、再現するのは困難を極める。 使用ギターは[ジャズマスター](https://ja.wikipedia.org/wiki/ジャズマスター "wikilink")、[テレキャスター](https://ja.wikipedia.org/wiki/テレキャスター "wikilink")など[シングルコイル](https://ja.wikipedia.org/wiki/シングルコイル "wikilink")のギターが多く、特に本人はジャズマスターを好んで使用していた。[シングルコイル](https://ja.wikipedia.org/wiki/シングルコイル "wikilink")特有の繊細なクリーントーンと、[ファズ](https://ja.wikipedia.org/wiki/ファズ "wikilink")による大音量に歪んだ音を使い分け、ブッチャーズ特有の「静と動」を表現していた。
+吉村の使用するチューニング・ギターのコードはオリジナルが殆どであるが、直感で作っているため本人ですら理解しきれておらず、再現するのは困難を極める。 使用ギターは[ジャズマスター](https://ja.wikipedia.org/wiki/ジャズマスター "wikilink")、[テレキャスター](https://ja.wikipedia.org/wiki/テレキャスター "wikilink")など[シングルコイル](../Page/シングルコイル.md "wikilink")のギターが多く、特に本人はジャズマスターを好んで使用していた。[シングルコイル](../Page/シングルコイル.md "wikilink")特有の繊細なクリーントーンと、[ファズ](https://ja.wikipedia.org/wiki/ファズ "wikilink")による大音量に歪んだ音を使い分け、ブッチャーズ特有の「静と動」を表現していた。
 
 ボーカリストとしては音程が不安定かつ線が細く、聞く人を選ぶこともあるが、日本語による[抽象的](https://ja.wikipedia.org/wiki/抽象的 "wikilink")な歌詞と相まってブッチャーズ特有の哀愁を生み出している。
 
@@ -62,9 +62,9 @@
 
 その唯一無二のサウンドのため、[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")が発売される際、多くのミュージシャンが再現するのに困ったという。
 
-また[向井秀徳](https://ja.wikipedia.org/wiki/向井秀徳 "wikilink")（[NUMBER GIRL](../Page/ナンバーガール.md "wikilink")、[ZAZEN BOYS](https://ja.wikipedia.org/wiki/ZAZEN_BOYS "wikilink")）は「私が大変昔から尊敬するバンド」としてあげている\[4\]。[BECKや](https://ja.wikipedia.org/wiki/ベック_\(歌手\) "wikilink")[レイジ・アゲインスト・ザ・マシーン](https://ja.wikipedia.org/wiki/レイジ・アゲインスト・ザ・マシーン "wikilink")からは指名されて共演\[5\]。[Fugazi](https://ja.wikipedia.org/wiki/Fugazi "wikilink")のイアン・マッケイから「グレイトなバンドだ」と賞賛され、[會田茂一](../Page/會田茂一.md "wikilink")（[EL-MALO](../Page/EL-MALO.md "wikilink"), [FOE](https://ja.wikipedia.org/wiki/FOE "wikilink")他）は「音楽的に大変尊敬している」と述べている。このように、国内外においてミュージシャン人気が高く、それを示すように早い時期にトリビュート盤がメジャー、インディーズからそれぞれ発売されている。また一部のアルバムは台湾でもリリースされている。
+また[向井秀徳](../Page/向井秀徳.md "wikilink")（[NUMBER GIRL](../Page/ナンバーガール.md "wikilink")、[ZAZEN BOYS](../Page/ZAZEN_BOYS.md "wikilink")）は「私が大変昔から尊敬するバンド」としてあげている\[4\]。[BECKや](../Page/ベック_\(歌手\).md "wikilink")[レイジ・アゲインスト・ザ・マシーン](../Page/レイジ・アゲインスト・ザ・マシーン.md "wikilink")からは指名されて共演\[5\]。[Fugazi](https://ja.wikipedia.org/wiki/Fugazi "wikilink")のイアン・マッケイから「グレイトなバンドだ」と賞賛され、[會田茂一](../Page/會田茂一.md "wikilink")（[EL-MALO](../Page/EL-MALO.md "wikilink"), [FOE](https://ja.wikipedia.org/wiki/FOE "wikilink")他）は「音楽的に大変尊敬している」と述べている。このように、国内外においてミュージシャン人気が高く、それを示すように早い時期にトリビュート盤がメジャー、インディーズからそれぞれ発売されている。また一部のアルバムは台湾でもリリースされている。
 
-2013年、吉村秀樹の訃報を聞きつけたアーティストからは多くの追悼の声が寄せられた\[6\]。[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")は吉村への追悼の意を表して、同年5月31日に30分間の追悼番組『bloodthirsty butchers 吉村秀樹 追悼ミュージックビデオ集』を放送した\[7\]。
+2013年、吉村秀樹の訃報を聞きつけたアーティストからは多くの追悼の声が寄せられた\[6\]。[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")は吉村への追悼の意を表して、同年5月31日に30分間の追悼番組『bloodthirsty butchers 吉村秀樹 追悼ミュージックビデオ集』を放送した\[7\]。
 
 ## 作品
 
@@ -162,7 +162,7 @@ MVCH-19005(再発)</p></td>
 <td><p>MVCH-29034</p></td>
 <td><p>ファウスト／ソレダケ／うかつにも素直になれないさ／灰色の雲／未完成／プールサイド／僕／「△」サンカク (album version)</p></td>
 <td><p>MCAビクター<br />
-ジャケットは<a href="https://ja.wikipedia.org/wiki/ジミー大西" title="wikilink">ジミー大西</a>によるもの。<br />
+ジャケットは<a href="../Page/ジミー大西.md" title="wikilink">ジミー大西</a>によるもの。<br />
 2011年末～2012年初頭に、<a href="../Page/HMV.md" title="wikilink">HMV</a>一部店舗にて数量限定で再発。</p></td>
 </tr>
 <tr class="odd">
@@ -374,10 +374,10 @@ MKCL-1001</p></td>
 <td><ol>
 <li>12月 - <a href="../Page/浅野忠信.md" title="wikilink">浅野忠信</a></li>
 <li>4月 - <a href="../Page/曽我部恵一.md" title="wikilink">曽我部恵一</a></li>
-<li>アリゲーター - 山野直子（<a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a>）</li>
+<li>アリゲーター - 山野直子（<a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a>）</li>
 <li>2月 - <a href="../Page/ASA-CHANG&amp;巡礼.md" title="wikilink">ASA-CHANG&amp;巡礼</a></li>
 <li>10月 - <a href="../Page/Chocolat.md" title="wikilink">ショコラ</a></li>
-<li>LOST IN TIME - <a href="https://ja.wikipedia.org/wiki/山塚アイ" title="wikilink">EYE</a>（<a href="https://ja.wikipedia.org/wiki/ボアダムス" title="wikilink">ボアダムス</a>）</li>
+<li>LOST IN TIME - <a href="https://ja.wikipedia.org/wiki/山塚アイ" title="wikilink">EYE</a>（<a href="../Page/ボアダムス.md" title="wikilink">ボアダムス</a>）</li>
 <li>3月 - <a href="../Page/GREAT3.md" title="wikilink">GREAT3</a></li>
 <li>8月 - <a href="../Page/EL-MALO.md" title="wikilink">EL-MALO</a></li>
 </ol></td>
@@ -389,7 +389,7 @@ MKCL-1001</p></td>
 <td><p>ZIKS-095</p></td>
 <td><ol>
 <li>MIZU - <a href="../Page/NAHT.md" title="wikilink">NAHT</a></li>
-<li>CROWS CAW LOUDLY - <a href="https://ja.wikipedia.org/wiki/Hi-STANDARD" title="wikilink">Hi-STANDARD</a></li>
+<li>CROWS CAW LOUDLY - <a href="../Page/Hi-STANDARD.md" title="wikilink">Hi-STANDARD</a></li>
 <li>COWBOY - GOD'S GUTS</li>
 <li>10月 - RAILROAD JERK</li>
 <li>IN A CAR - NKX-26</li>
@@ -412,10 +412,10 @@ MKCL-1001</p></td>
 <td><ol>
 <li>襟がゆれてる。 - <a href="../Page/ACIDMAN.md" title="wikilink">ACIDMAN</a></li>
 <li>2月/february - <a href="https://ja.wikipedia.org/wiki/the_band_apart" title="wikilink">the band apart</a></li>
-<li>散文とブルース - <a href="https://ja.wikipedia.org/wiki/BRAHMAN" title="wikilink">BRAHMAN</a></li>
+<li>散文とブルース - <a href="../Page/BRAHMAN.md" title="wikilink">BRAHMAN</a></li>
 <li>ROOM - <a href="https://ja.wikipedia.org/wiki/COCOBAT" title="wikilink">COCOBAT</a></li>
 <li>9月/september - <a href="https://ja.wikipedia.org/wiki/八田ケンヂ" title="wikilink">八田ケンヂ</a></li>
-<li>ocean - <a href="https://ja.wikipedia.org/wiki/HUSKING_BEE" title="wikilink">HUSKING BEE</a></li>
+<li>ocean - <a href="../Page/HUSKING_BEE.md" title="wikilink">HUSKING BEE</a></li>
 <li>JACK NICOLSON - <a href="../Page/KING_BROTHERS.md" title="wikilink">KING BROTHERS</a></li>
 <li>ラリホー - <a href="../Page/ロマンポルシェ。.md" title="wikilink">ロマンポルシェ。</a></li>
 <li>サラバ世界君主 - <a href="https://ja.wikipedia.org/wiki/The_SALOVERS" title="wikilink">The SALOVERS</a></li>
@@ -435,10 +435,10 @@ MKCL-1001</p></td>
 <li>襟がゆれてる。 - <a href="https://ja.wikipedia.org/wiki/Climb_The_Mind" title="wikilink">Climb The Mind</a>　</li>
 <li>I’m on fire - <a href="https://ja.wikipedia.org/wiki/怒髪天" title="wikilink">怒髪天</a>　</li>
 <li>JACK NICOLSON - <a href="../Page/LOSTAGE.md" title="wikilink">LOSTAGE</a>　</li>
-<li>9月 - <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a>　</li>
+<li>9月 - <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a>　</li>
 <li>ファウスト - <a href="https://ja.wikipedia.org/wiki/LOW_IQ_01" title="wikilink">LOW IQ 01</a>　</li>
 <li>サラバ世界君主 - <a href="https://ja.wikipedia.org/wiki/MONOBRIGHT" title="wikilink">MONOBRIGHT</a>　</li>
-<li>プールサイド - <a href="https://ja.wikipedia.org/wiki/向井秀徳" title="wikilink">向井秀徳</a>　</li>
+<li>プールサイド - <a href="../Page/向井秀徳.md" title="wikilink">向井秀徳</a>　</li>
 <li>11月 - <a href="https://ja.wikipedia.org/wiki/THE_NOVEMBERS" title="wikilink">THE NOVEMBERS</a>　</li>
 <li>襟がゆれてる。 - <a href="https://ja.wikipedia.org/wiki/perfectlife" title="wikilink">perfectlife</a>　</li>
 <li>散文とブルース - <a href="https://ja.wikipedia.org/wiki/the_pillows" title="wikilink">the pillows</a>　</li>
@@ -450,14 +450,14 @@ MKCL-1001</p></td>
 <td><p><strong>Yes, We Love butchers ～Tribute to bloodthirsty butchers～ Night Walking</strong></p></td>
 <td><p>CRCP-40366</p></td>
 <td><ol>
-<li>ファウスト - <a href="https://ja.wikipedia.org/wiki/ART-SCHOOL" title="wikilink">ART-SCHOOL</a></li>
+<li>ファウスト - <a href="../Page/ART-SCHOOL.md" title="wikilink">ART-SCHOOL</a></li>
 <li>ソレダケ - <a href="https://ja.wikipedia.org/wiki/bed" title="wikilink">bed</a></li>
 <li>7月/july - <a href="https://ja.wikipedia.org/wiki/Co/SS/gZ" title="wikilink">Co/SS/gZ</a></li>
 <li>no future - <a href="https://ja.wikipedia.org/wiki/Discharming_man" title="wikilink">Discharming man</a></li>
 <li>Never Give Up - <a href="https://ja.wikipedia.org/wiki/eastern_youth" title="wikilink">eastern youth</a></li>
 <li>discordman - <a href="https://ja.wikipedia.org/wiki/きのこ帝国" title="wikilink">きのこ帝国</a></li>
-<li>ロスト・イン・タイム - <a href="https://ja.wikipedia.org/wiki/MO&#39;SOME_TONEBENDER" title="wikilink">MO'SOME TONEBENDER</a></li>
-<li>ファウスト - <a href="https://ja.wikipedia.org/wiki/少年ナイフ" title="wikilink">少年ナイフ</a></li>
+<li>ロスト・イン・タイム - <a href="../Page/MO&#39;SOME_TONEBENDER.md" title="wikilink">MO'SOME TONEBENDER</a></li>
+<li>ファウスト - <a href="../Page/少年ナイフ.md" title="wikilink">少年ナイフ</a></li>
 <li>燃える、想い - <a href="https://ja.wikipedia.org/wiki/SiNE" title="wikilink">SiNE</a></li>
 <li>ピンチ - <a href="https://ja.wikipedia.org/wiki/タルトタタン" title="wikilink">タルトタタン</a></li>
 <li>8月/august - <a href="https://ja.wikipedia.org/wiki/ueken_butchers_pjoject" title="wikilink">ueken butchers pjoject</a></li>
@@ -469,10 +469,10 @@ MKCL-1001</p></td>
 <td><p><strong>Yes, We Love butchers ～Tribute to bloodthirsty butchers～ The Last Match</strong></p></td>
 <td><p>CRCP-40369</p></td>
 <td><ol>
-<li>僕 - <a href="https://ja.wikipedia.org/wiki/あがた森魚" title="wikilink">あがた森魚</a></li>
+<li>僕 - <a href="../Page/あがた森魚.md" title="wikilink">あがた森魚</a></li>
 <li>2月/february - <a href="../Page/ASA-CHANG&amp;巡礼.md" title="wikilink">ASA-CHANG&amp;巡礼</a>　　　</li>
-<li>banging the drum - <a href="https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
-<li>ノイズ - <a href="https://ja.wikipedia.org/wiki/THE_BACK_HORN" title="wikilink">THE BACK HORN</a></li>
+<li>banging the drum - <a href="../Page/ASIAN_KUNG-FU_GENERATION.md" title="wikilink">ASIAN KUNG-FU GENERATION</a></li>
+<li>ノイズ - <a href="../Page/THE_BACK_HORN.md" title="wikilink">THE BACK HORN</a></li>
 <li>時は終わる - <a href="https://ja.wikipedia.org/wiki/envy" title="wikilink">envy</a> 　　　　　　　</li>
 <li>Silencer - <a href="https://ja.wikipedia.org/wiki/the_原爆オナニーズ" title="wikilink">the 原爆オナニーズ</a></li>
 <li>レクイエム - <a href="../Page/GREAT3.md" title="wikilink">GREAT3</a> 　　　　　　　</li>
@@ -581,7 +581,7 @@ KICS-782</p></td>
 </tr>
 <tr class="even">
 <td><p>2001年6月25日</p></td>
-<td><p>「RE:MOVEMENT」tribute to <a href="https://ja.wikipedia.org/wiki/ニュー・オーダー" title="wikilink">New Order</a></p></td>
+<td><p>「RE:MOVEMENT」tribute to <a href="../Page/ニュー・オーダー.md" title="wikilink">New Order</a></p></td>
 <td><p>SALD-002</p></td>
 <td><p>吉村が「Love Vigilantes」で参加</p></td>
 </tr>
@@ -641,7 +641,7 @@ UKDZ-0110</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005年9月28日</p></td>
-<td><p>RESPECTABLE <a href="https://ja.wikipedia.org/wiki/ルースターズ" title="wikilink">ROOSTERS</a>→Z a→GOGO</p></td>
+<td><p>RESPECTABLE <a href="../Page/ルースターズ.md" title="wikilink">ROOSTERS</a>→Z a→GOGO</p></td>
 <td><p>COCP-50871</p></td>
 <td><p>「Ve[’]nus」で参加</p></td>
 </tr>
@@ -665,7 +665,7 @@ UKDZ-0110</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年6月4日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BEAT_CRUSADERS" title="wikilink">BEAT CRUSADERS</a>/<a href="https://ja.wikipedia.org/wiki/popdod" title="wikilink">popdod</a></p></td>
+<td><p><a href="../Page/BEAT_CRUSADERS.md" title="wikilink">BEAT CRUSADERS</a>/<a href="https://ja.wikipedia.org/wiki/popdod" title="wikilink">popdod</a></p></td>
 <td><p>DFCL-1470<br />
 DFCL-1475<br />
 DFCL-1477</p></td>
@@ -673,7 +673,7 @@ DFCL-1477</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年3月16日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/GO!GO!7188" title="wikilink">GO!GO!7188</a> Tribute - GO!GO! A GO!GO!</p></td>
+<td><p><a href="../Page/GO!GO!7188.md" title="wikilink">GO!GO!7188</a> Tribute - GO!GO! A GO!GO!</p></td>
 <td><p>VICB-60069</p></td>
 <td><p>「ジェットにんぢん」で参加</p></td>
 </tr>
@@ -801,7 +801,7 @@ DFCL-1477</p></td>
   - 2005年 - tour 05 bunging the drum
   - 2005年 - official bootleg vol.006
   - 2007年 - 全国ワンマンツアー
-  - 2009年 - [少年ナイフ](https://ja.wikipedia.org/wiki/少年ナイフ "wikilink")との合同ツアー『SPACE bootleg X’MAS TOUR 2009』
+  - 2009年 - [少年ナイフ](../Page/少年ナイフ.md "wikilink")との合同ツアー『SPACE bootleg X’MAS TOUR 2009』
   - 2010年 - 無題ナノダ
   - 2010年 - 無題ナノナノダ
   - 2011年 - never mind the kocorono
@@ -823,7 +823,7 @@ DFCL-1477</p></td>
   - 2004年12月30日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 04/05
   - 2005年04月28日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")04292005 荒吐宵祭/前夜
   - 2006年08月05日 - ROCK IN JAPAN FESTIVAL 2006
-  - 2007年11月25日 - [BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink") Tour "EPop MAKING SENSE 2007"
+  - 2007年11月25日 - [BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink") Tour "EPop MAKING SENSE 2007"
   - 2008年08月15日 - RISING SUN ROCK FESTIVAL 2008 in EZO
   - 2010年07月17日 - KESEN ROCK FESTIVAL'10
   - 2010年07月31日 - FUJI ROCK FESTIVAL '10

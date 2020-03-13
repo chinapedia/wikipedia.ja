@@ -1,27 +1,27 @@
 > この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
 
 
-『**秀吉**』（ひでよし）は、[1996年](../Page/1996年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")にかけて放送された第35作目の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")。原作：[堺屋太一](../Page/堺屋太一.md "wikilink")、脚本：[竹山洋](https://ja.wikipedia.org/wiki/竹山洋 "wikilink")、主演：[竹中直人](../Page/竹中直人.md "wikilink")。全49話。
+『**秀吉**』（ひでよし）は、[1996年](../Page/1996年.md "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")にかけて放送された第35作目の[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[大河ドラマ](../Page/大河ドラマ.md "wikilink")。原作：[堺屋太一](../Page/堺屋太一.md "wikilink")、脚本：[竹山洋](../Page/竹山洋.md "wikilink")、主演：[竹中直人](../Page/竹中直人.md "wikilink")。全49話。
 
 ## 作品内容と反響
 
 ### 概要
 
-[堺屋太一](../Page/堺屋太一.md "wikilink")の[小説](../Page/小説.md "wikilink")『秀吉〜夢を超えた男〜』『豊臣秀長』『鬼と人と 信長と光秀』（主人公：[明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")と[織田信長](../Page/織田信長.md "wikilink")）の3作品を物語の基とし、[脚本家](../Page/脚本家.md "wikilink")の[竹山洋](https://ja.wikipedia.org/wiki/竹山洋 "wikilink")自身が創作した逸話なども随所に取り入れてドラマ化した。
+[堺屋太一](../Page/堺屋太一.md "wikilink")の[小説](../Page/小説.md "wikilink")『秀吉〜夢を超えた男〜』『豊臣秀長』『鬼と人と 信長と光秀』（主人公：[明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")と[織田信長](../Page/織田信長.md "wikilink")）の3作品を物語の基とし、[脚本家](../Page/脚本家.md "wikilink")の[竹山洋](../Page/竹山洋.md "wikilink")自身が創作した逸話なども随所に取り入れてドラマ化した。
 
-[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")を[主人公](https://ja.wikipedia.org/wiki/主人公 "wikilink")にした大河ドラマは、[1965年](../Page/1965年.md "wikilink")の『[太閤記](../Page/太閤記_\(NHK大河ドラマ\).md "wikilink")』以来、31年ぶり2作目。『[八代将軍吉宗](https://ja.wikipedia.org/wiki/八代将軍吉宗 "wikilink")』の総集編が終わった後の予告で「**これがドラマだ\!**」と強調、[竹中直人](../Page/竹中直人.md "wikilink")や[おね](https://ja.wikipedia.org/wiki/高台院 "wikilink")\[1\]役の[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")のほか、信長役の[渡哲也](https://ja.wikipedia.org/wiki/渡哲也 "wikilink")の重厚な演技（大河ドラマ史上最高齢の信長であった）、秀長役の[高嶋政伸](https://ja.wikipedia.org/wiki/高嶋政伸 "wikilink")、なか役の[市原悦子](../Page/市原悦子.md "wikilink")、足利義昭役の[玉置浩二](../Page/玉置浩二.md "wikilink")\[2\]、[千利休](../Page/千利休.md "wikilink")役の[仲代達矢](https://ja.wikipedia.org/wiki/仲代達矢 "wikilink")、光秀役の[村上弘明](https://ja.wikipedia.org/wiki/村上弘明 "wikilink")などの脇役たちの存在感もそれぞれ光るものがあった。
+[豊臣秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")を[主人公](../Page/主人公.md "wikilink")にした大河ドラマは、[1965年](../Page/1965年.md "wikilink")の『[太閤記](../Page/太閤記_\(NHK大河ドラマ\).md "wikilink")』以来、31年ぶり2作目。『[八代将軍吉宗](../Page/八代将軍吉宗.md "wikilink")』の総集編が終わった後の予告で「**これがドラマだ\!**」と強調、[竹中直人](../Page/竹中直人.md "wikilink")や[おね](../Page/高台院.md "wikilink")\[1\]役の[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")のほか、信長役の[渡哲也](https://ja.wikipedia.org/wiki/渡哲也 "wikilink")の重厚な演技（大河ドラマ史上最高齢の信長であった）、秀長役の[高嶋政伸](../Page/高嶋政伸.md "wikilink")、なか役の[市原悦子](../Page/市原悦子.md "wikilink")、足利義昭役の[玉置浩二](../Page/玉置浩二.md "wikilink")\[2\]、[千利休](../Page/千利休.md "wikilink")役の[仲代達矢](../Page/仲代達矢.md "wikilink")、光秀役の[村上弘明](../Page/村上弘明.md "wikilink")などの脇役たちの存在感もそれぞれ光るものがあった。
 
 平均[視聴率](../Page/視聴率.md "wikilink")30.5%、最高視聴率は37.4%\[3\]と、歴代の大河ドラマの中でも上位に位置する高視聴率を記録。この作品以降で平均視聴率・最高視聴率いずれも30%を越えた作品は存在しない。
 
 豊臣秀吉役の竹中直人が事あるごとに、右手で5文字を強調しながら言う決め台詞「**心配御無用\!**」は、その年の[流行語](../Page/流行語.md "wikilink")となった。その後この決め台詞は真田広之演じる石田三成にも引き継がれている。放送初回の第1話の[大仁田厚](../Page/大仁田厚.md "wikilink")演じる[蜂須賀小六が秀吉を担ぎ上げる場面で](../Page/蜂須賀正勝.md "wikilink")、褌の横から竹中の陰部が露出していることが放送直後から話題になったが、NHK側は「放送前から承知していたが、[モザイク](../Page/モザイク.md "wikilink")を入れたらかえって不自然だと判断した」とコメントした。なおこの場面は総集編ではモザイクが入らずに放送されているが、DVDではモザイク処理されている。
 
-渡は『[勝海舟](../Page/勝海舟_\(NHK大河ドラマ\).md "wikilink")』の主役を病気で途中降板して以来久々の大河ドラマ出演となったが、渡演ずる信長に極めて強い反応があり、当初の予定を変更して渡の出演を4話延長する処置をとった。番組終了後、[大阪新歌舞伎座での自身の初舞台公演でも信長役を](https://ja.wikipedia.org/wiki/新歌舞伎座_\(大阪\) "wikilink")2回演じ、その後2002年には[宝酒造の日本酒](../Page/宝ホールディングス.md "wikilink")「[松竹梅](../Page/松竹梅.md "wikilink")」のCMでも、信長のような役を演じている。久々の大河出演にあたって、所属する[石原プロモーション](../Page/石原プロモーション.md "wikilink")専務の[小林正彦](https://ja.wikipedia.org/wiki/小林正彦 "wikilink")は「渡哲也の完全復活のチャンス」と位置づけ、積極的なプロモーションを展開した。渡の演技に注目が集まったために、信長死後の平均視聴率は32%から28%と4ポイント落ちてしまった。また、30%を超えた回は信長生前は30話中24話だったが、信長死後は19話中5話であった。
+渡は『[勝海舟](../Page/勝海舟_\(NHK大河ドラマ\).md "wikilink")』の主役を病気で途中降板して以来久々の大河ドラマ出演となったが、渡演ずる信長に極めて強い反応があり、当初の予定を変更して渡の出演を4話延長する処置をとった。番組終了後、[大阪新歌舞伎座での自身の初舞台公演でも信長役を](../Page/新歌舞伎座_\(大阪\).md "wikilink")2回演じ、その後2002年には[宝酒造の日本酒](../Page/宝ホールディングス.md "wikilink")「[松竹梅](../Page/松竹梅.md "wikilink")」のCMでも、信長のような役を演じている。久々の大河出演にあたって、所属する[石原プロモーション](../Page/石原プロモーション.md "wikilink")専務の[小林正彦](https://ja.wikipedia.org/wiki/小林正彦 "wikilink")は「渡哲也の完全復活のチャンス」と位置づけ、積極的なプロモーションを展開した。渡の演技に注目が集まったために、信長死後の平均視聴率は32%から28%と4ポイント落ちてしまった。また、30%を超えた回は信長生前は30話中24話だったが、信長死後は19話中5話であった。
 
 当時高級食品だった[豆腐](../Page/豆腐.md "wikilink")を百姓が食べている\[4\]、当時日本にいなかったはずの犬種が出てくる\[5\]、秀吉の母・なかが軍議の席に乱入するなど、時代考証を無視した描写が存在した。また、第6話で描かれた[墨俣の一夜城伝説は歴史学者の間では後世のフィクションというのが定説となっているがそれを肯定してしまうと脚本自体が成立しなくなってしまうため](../Page/墨俣城.md "wikilink")、歴史考証を担当した[小和田哲男](../Page/小和田哲男.md "wikilink")は「立派な櫓や石垣のある城ではなく急ごしらえの砦に見えるようにしてほしい」と進言するに止めたという\[6\]。
 
-本作では、秀吉の生涯を人間味を重視して描くとともに、秀吉の弟・秀長（小一郎）にも光が当てられている。秀長が主要人物として登場する大河ドラマは『[おんな太閤記](../Page/おんな太閤記.md "wikilink")』以来15年ぶりであり、『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』で[足利尊氏](https://ja.wikipedia.org/wiki/足利尊氏 "wikilink")の弟・[足利直義](../Page/足利直義.md "wikilink")を演じた[高嶋政伸](https://ja.wikipedia.org/wiki/高嶋政伸 "wikilink")が彼の実務面での奮迅振りを演じた。全体として家族の描写には力が入れられており、史実では没年不詳でドラマでも小説でも描かれることの少ない継父・竹阿弥が終盤まで登場し秀吉との和解に至る展開も異色であった。
+本作では、秀吉の生涯を人間味を重視して描くとともに、秀吉の弟・秀長（小一郎）にも光が当てられている。秀長が主要人物として登場する大河ドラマは『[おんな太閤記](../Page/おんな太閤記.md "wikilink")』以来15年ぶりであり、『[太平記](../Page/太平記_\(NHK大河ドラマ\).md "wikilink")』で[足利尊氏](https://ja.wikipedia.org/wiki/足利尊氏 "wikilink")の弟・[足利直義](../Page/足利直義.md "wikilink")を演じた[高嶋政伸](../Page/高嶋政伸.md "wikilink")が彼の実務面での奮迅振りを演じた。全体として家族の描写には力が入れられており、史実では没年不詳でドラマでも小説でも描かれることの少ない継父・竹阿弥が終盤まで登場し秀吉との和解に至る展開も異色であった。
 
-浪人時代の明智光秀も初回から登場し、秀吉との出会いと、織田家に仕官した後の互いに認め合う良きライバルとしての関係が描かれている。秀吉・信長に次ぐ準主役的な扱いで、その家族・家臣もストーリーの中で大きく取り上げられている。光秀が信長に虐げられて本能寺に至るまでの過程が詳細に描かれており、[村上弘明](https://ja.wikipedia.org/wiki/村上弘明 "wikilink")が悲劇的な光秀を演じた。
+浪人時代の明智光秀も初回から登場し、秀吉との出会いと、織田家に仕官した後の互いに認め合う良きライバルとしての関係が描かれている。秀吉・信長に次ぐ準主役的な扱いで、その家族・家臣もストーリーの中で大きく取り上げられている。光秀が信長に虐げられて本能寺に至るまでの過程が詳細に描かれており、[村上弘明](../Page/村上弘明.md "wikilink")が悲劇的な光秀を演じた。
 
 その一方で、[徳川家康](../Page/徳川家康.md "wikilink")を演じた[西村雅彦は自身の扱いに不満を漏らしていたが](../Page/西村まさ彦.md "wikilink")、局側から「これからどんどん膨らんでいきますから」と説得されていたという。しかし、西村は「そのまましぼんでしまった」と振り返っている。
 
@@ -29,7 +29,7 @@
 
 [本能寺](../Page/本能寺.md "wikilink")での信長の最期は、自ら太刀を振るっての殺陣で明智軍を震え上がらせ、燃え盛る炎の中で白装束の信長が「人間五十年」で有名な幸若舞「敦盛」の一節を謡った後、「神か…、神が死ぬか\!」と叫び頚動脈を自ら斬り、大量の血を吹き出させながら絶命するという壮絶なシーンとなった。数ある本能寺の映像作品の中で、切腹以外の方法で死ぬ信長の描写は初めてであったという。頸動脈を斬って死ぬ信長は、後年の大河ドラマ『[功名が辻](../Page/功名が辻_\(NHK大河ドラマ\).md "wikilink")』(大量の血を吹き出させるシーンは無いが)と『[軍師官兵衛](https://ja.wikipedia.org/wiki/軍師官兵衛 "wikilink")』でも見られる。
 
-本能寺に至る理由として、本作では信長による光秀への冷遇（敵地への領地替えや、光秀の母・美が[八上城](https://ja.wikipedia.org/wiki/八上城 "wikilink")に人質に取られているにも関わらず、信長が八上城主・[波多野秀治](https://ja.wikipedia.org/wiki/波多野秀治 "wikilink")・[秀尚を殺害してしまう等](https://ja.wikipedia.org/wiki/波多野秀尚 "wikilink")）と共に、信長によって長男・[信康と正室](../Page/松平信康.md "wikilink")[築山を失った徳川家康](../Page/築山殿.md "wikilink")、および信長に茶道を冷遇された[千利休](../Page/千利休.md "wikilink")の二人が、光秀に謀反をけしかけるという陰謀説を採用している。なお、ストーリーブックに収録されていたあらすじでは、明智光秀が小栗栖で死なずに天海と名を変え徳川家康に仕えたことを示唆する展開がなされていたが、実際に放映された作品では史実どおりに光秀は小栗栖で死んでいる。なお、作中ではその最後を見届けた石川五右衛門の計らいで光秀の首は坂本城に届けられ、届けられた光秀の首を抱えてひろ子が琵琶湖へ入水自殺するという顛末となっている。
+本能寺に至る理由として、本作では信長による光秀への冷遇（敵地への領地替えや、光秀の母・美が[八上城](https://ja.wikipedia.org/wiki/八上城 "wikilink")に人質に取られているにも関わらず、信長が八上城主・[波多野秀治](../Page/波多野秀治.md "wikilink")・[秀尚を殺害してしまう等](https://ja.wikipedia.org/wiki/波多野秀尚 "wikilink")）と共に、信長によって長男・[信康と正室](../Page/松平信康.md "wikilink")[築山を失った徳川家康](../Page/築山殿.md "wikilink")、および信長に茶道を冷遇された[千利休](../Page/千利休.md "wikilink")の二人が、光秀に謀反をけしかけるという陰謀説を採用している。なお、ストーリーブックに収録されていたあらすじでは、明智光秀が小栗栖で死なずに天海と名を変え徳川家康に仕えたことを示唆する展開がなされていたが、実際に放映された作品では史実どおりに光秀は小栗栖で死んでいる。なお、作中ではその最後を見届けた石川五右衛門の計らいで光秀の首は坂本城に届けられ、届けられた光秀の首を抱えてひろ子が琵琶湖へ入水自殺するという顛末となっている。
 
 また翌週の[8月4日](../Page/8月4日.md "wikilink")の[アトランタ五輪・男子マラソンはNHKで放送されるため](../Page/1996年アトランタオリンピックの陸上競技.md "wikilink")、休止の予告として放送の最後に、鎧姿の秀吉が「がんばれニッポン、心配御無用\!ニカッ\!」と語り掛ける特別なスポットが放映された。そのため第31話の予告はカットされた。
 
@@ -39,13 +39,13 @@
 
 本編の最終回のサブタイトルは後述の通り「夢のまた夢」という、秀吉の[辞世](../Page/辞世.md "wikilink")の一部であり、秀吉がおねのご機嫌を伺う為に[大坂城](../Page/大坂城.md "wikilink")で催した架空の花見と、そこに顔を出した豊臣家の人々や家臣・大名たちが華やかに描かれる。そして最後には一人となった秀吉が亡き母に辞世を伝え、不意に現れた段々畑に挟まれた坂道を、沈みゆく夕日に向かい一人光に包まれて駆け登っていく、という彼自身と一族の最期を暗示する様なラストシーンが描かれた。
 
-ただし、総集編では描き方が変わり、秀吉が同じ道を「**さよなら\!あぁ～～～\!（花吹雪で飛ばされる）来年の大河ドラマ・[毛利元就もよろしく](https://ja.wikipedia.org/wiki/毛利元就_\(NHK大河ドラマ\) "wikilink")\!心配御無用\!**」とアドリブを入れたバージョンで完結し、ラストの印象自体が本編と総集編とでは大幅に変わったものになっている。2003年の再放送では、翌年の大河ドラマに関する部分がカットされ、「さよなら\!」の挨拶と、「心配御無用\!」の決め台詞のみのバージョンとなっている。
+ただし、総集編では描き方が変わり、秀吉が同じ道を「**さよなら\!あぁ～～～\!（花吹雪で飛ばされる）来年の大河ドラマ・[毛利元就もよろしく](../Page/毛利元就_\(NHK大河ドラマ\).md "wikilink")\!心配御無用\!**」とアドリブを入れたバージョンで完結し、ラストの印象自体が本編と総集編とでは大幅に変わったものになっている。2003年の再放送では、翌年の大河ドラマに関する部分がカットされ、「さよなら\!」の挨拶と、「心配御無用\!」の決め台詞のみのバージョンとなっている。
 
 ### 後年の大河作品とのつながり
 
   - [石田三成](../Page/石田三成.md "wikilink")の少年時代を演じた小栗は[2009年](../Page/2009年.md "wikilink")の『[天地人](https://ja.wikipedia.org/wiki/天地人_\(NHK大河ドラマ\) "wikilink")』で再度、成人後の石田三成を演じることになる。その際、少年時代の三杯の茶のエピソードに触れた際、本作での映像をモノクロ化して流用している。
-  - 主演の竹中は[2014年](../Page/2014年.md "wikilink")のNHK大河ドラマ『[軍師官兵衛](https://ja.wikipedia.org/wiki/軍師官兵衛 "wikilink")』([岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")主演)で再度秀吉役として出演した。その中では、本作で使用された「心配御無用」も何度か使われている他、本作では描かれず、竹中が心残りとしていた堕ち行く秀吉の姿を演じた。また、本作で[黒田官兵衛を演じた](../Page/黒田孝高.md "wikilink")[伊武雅刀](../Page/伊武雅刀.md "wikilink")は『軍師官兵衛』で[千利休](../Page/千利休.md "wikilink")を演じており、新旧官兵衛の共演が実現することとなった。
-  - [滝川一益](https://ja.wikipedia.org/wiki/滝川一益 "wikilink")役の[段田安則](../Page/段田安則.md "wikilink")は[2016年](../Page/2016年.md "wikilink")放送の『[真田丸](https://ja.wikipedia.org/wiki/真田丸_\(NHK大河ドラマ\) "wikilink")』でも同役で出演している。
+  - 主演の竹中は[2014年](../Page/2014年.md "wikilink")のNHK大河ドラマ『[軍師官兵衛](https://ja.wikipedia.org/wiki/軍師官兵衛 "wikilink")』([岡田准一](../Page/岡田准一.md "wikilink")主演)で再度秀吉役として出演した。その中では、本作で使用された「心配御無用」も何度か使われている他、本作では描かれず、竹中が心残りとしていた堕ち行く秀吉の姿を演じた。また、本作で[黒田官兵衛を演じた](../Page/黒田孝高.md "wikilink")[伊武雅刀](../Page/伊武雅刀.md "wikilink")は『軍師官兵衛』で[千利休](../Page/千利休.md "wikilink")を演じており、新旧官兵衛の共演が実現することとなった。
+  - [滝川一益](../Page/滝川一益.md "wikilink")役の[段田安則](../Page/段田安則.md "wikilink")は[2016年](../Page/2016年.md "wikilink")放送の『[真田丸](https://ja.wikipedia.org/wiki/真田丸_\(NHK大河ドラマ\) "wikilink")』でも同役で出演している。
 
 ## あらすじ
 
@@ -62,15 +62,15 @@
   - 日吉→[秀吉](https://ja.wikipedia.org/wiki/豊臣秀吉 "wikilink")：[竹中直人](../Page/竹中直人.md "wikilink")
       -
         信長を盲信し、父と同じと慕って忠義を尽くす。信長へは「**ごもっとも！**」を連呼する。「**心配御無用！**」のセリフと共に猛烈な行動力で数々の仕事をこなし、信長から「侍たるものは皆、秀吉にあやかりたく存ずべし」との最上級の評価をもらう。正室であるおねに惚れ大事にしているが、女好きであることを公言し、度々浮気をしている。織田家家臣時代は庶民的で命を尊ぶ性格だったが、出世と共に次第に傲慢になっていく。
-  - [おね](https://ja.wikipedia.org/wiki/高台院 "wikilink")：[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")
+  - [おね](../Page/高台院.md "wikilink")：[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")
       -
         秀吉の正室
         最初は前田犬千代と婚約していたが、後述の拾阿弥の一件で破談となる。以降その原因を作った秀吉を毛嫌いするが、逆に一目惚れされる。やがて秀吉の熱意に惹かれて結婚する。その後秀吉との間に子を儲けるが流産し、これが原因で子供を産めない体になってしまった。ただし本人以外でこれを知るのは流産に際して身近にいた秀長のみであり、秀長自身もおねから隠すよう懇願されたため、秀吉ですら知らずにいた。晩年は淀が秀吉との間に子を成したことから、精神が不安定になった。
-  - 小竹→小一郎→[秀長](../Page/豊臣秀長.md "wikilink")：[高嶋政伸](https://ja.wikipedia.org/wiki/高嶋政伸 "wikilink")
+  - 小竹→小一郎→[秀長](../Page/豊臣秀長.md "wikilink")：[高嶋政伸](../Page/高嶋政伸.md "wikilink")
       -
         秀吉の弟
         兄・秀吉と同等の**第二の主人公**として描写され、兄の無茶をフォローする名補佐役としての姿が描かれた。また、千利休の娘・お吟と祝言をあげる設定がされている。晩年は豊臣家の為にかなりの貯金をしていた事を死後、兄に知られる。
-  - 茶々→[淀](../Page/淀殿.md "wikilink")：[小井紗陽](https://ja.wikipedia.org/wiki/小井紗陽 "wikilink")→[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")
+  - 茶々→[淀](../Page/淀殿.md "wikilink")：[小井紗陽](../Page/小井紗陽.md "wikilink")→[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")
       -
         秀吉の側室。浅井長政・市の娘。
         秀吉によって二度も夫を殺された母・市から「サルを殺せ、羽柴の家を滅亡させよ」との遺言を受け、秀吉の側室となる。そしてその美貌により、豊臣家に波乱を巻き起こして行く。一方で正室であるおねを気遣う面も描かれている。おねからは自分と違い子宝に恵まれたことから「淀が悪いのではないとわかっているのに、心苦しい」という複雑な感情を抱かれている。大政所とはあまり仲が良くない。なお、常に高齢の侍女を従えているが、これが[大蔵卿局](../Page/大蔵卿局.md "wikilink")であるかは劇中では明かされていない。
@@ -94,12 +94,12 @@
   - [秀勝](../Page/羽柴秀勝.md "wikilink")：[青木海](https://ja.wikipedia.org/wiki/青木海 "wikilink")
       -
         信長の子。秀勝を失った秀吉の養子となる。信長の死後、清州会議で丹波亀山城を与えられるが、そこで病没。
-  - [お豪](https://ja.wikipedia.org/wiki/豪姫 "wikilink")：[松尾恵理香](https://ja.wikipedia.org/wiki/松尾恵理香 "wikilink")→[坂田麻衣子](https://ja.wikipedia.org/wiki/坂田麻衣子 "wikilink")
+  - [お豪](../Page/豪姫.md "wikilink")：[松尾恵理香](https://ja.wikipedia.org/wiki/松尾恵理香 "wikilink")→[坂田麻衣子](https://ja.wikipedia.org/wiki/坂田麻衣子 "wikilink")
       -
         秀吉の養女。前田利家の娘。
   - [なか](../Page/大政所.md "wikilink")：[市原悦子](../Page/市原悦子.md "wikilink")
       -
-        秀吉の生母。大政所。[尾張訛りで喋る](https://ja.wikipedia.org/wiki/尾張弁 "wikilink")。
+        秀吉の生母。大政所。[尾張訛りで喋る](../Page/尾張弁.md "wikilink")。
         秀吉を深く愛する良き母親として描かれるが、晩年は傲慢となった秀吉を非難していた。しばしば、未来の光景を夢で見ることがある。[朝鮮出兵](https://ja.wikipedia.org/wiki/朝鮮出兵 "wikilink")に最期まで反対していた。
   - [竹阿弥](../Page/竹阿弥.md "wikilink")：[財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")
       -
@@ -123,13 +123,13 @@
   - [浅野又右衛門](../Page/浅野長勝.md "wikilink")：[宗近晴見](https://ja.wikipedia.org/wiki/宗近晴見 "wikilink")
       -
         おねの養父。おねと秀吉の縁談には懐疑的だったが、最終的に認める。
-  - [あさひ](https://ja.wikipedia.org/wiki/七曲殿_\(浅野長勝の妻\) "wikilink")：[白川由美](https://ja.wikipedia.org/wiki/白川由美 "wikilink")
+  - [あさひ](https://ja.wikipedia.org/wiki/七曲殿_\(浅野長勝の妻\) "wikilink")：[白川由美](../Page/白川由美.md "wikilink")
       -
         おねの養母。夫と同じくおねと秀吉の縁談には懐疑的であった。
 
 ### 豊臣家臣
 
-  - [竹中半兵衛](../Page/竹中重治.md "wikilink")：[古谷一行](https://ja.wikipedia.org/wiki/古谷一行 "wikilink")
+  - [竹中半兵衛](../Page/竹中重治.md "wikilink")：[古谷一行](../Page/古谷一行.md "wikilink")
       -
         年上の女性を好みとし、光秀の母に恋していた（しかしこれは追っ手から光秀の母を逃す為の演技であった）。光秀の母からの光秀への仕官への要請を断り、秀吉に仕官する。秀吉の軍師として活躍するが、毛利攻めの最中に病没。
   - [細川藤孝](../Page/細川幽斎.md "wikilink")：[浜畑賢吉](../Page/浜畑賢吉.md "wikilink")
@@ -138,10 +138,10 @@
   - [細川忠興](../Page/細川忠興.md "wikilink")：[小林滋央](../Page/小林成男.md "wikilink")
       -
         藤孝の子。岳父である光秀からの援軍要請を父と共に断り、豊臣家の配下になるが、後に徳川家の傘下に入る。
-  - [たま](https://ja.wikipedia.org/wiki/細川ガラシャ "wikilink")：[清水桂那](https://ja.wikipedia.org/wiki/清水桂那 "wikilink")→[田村英里子](https://ja.wikipedia.org/wiki/田村英里子 "wikilink")
+  - [たま](../Page/細川ガラシャ.md "wikilink")：[清水桂那](https://ja.wikipedia.org/wiki/清水桂那 "wikilink")→[田村英里子](../Page/田村英里子.md "wikilink")
       -
         忠興の妻で、明智光秀の三女。本能寺の変後は、婚家である細川家から離縁されて追われて京の味土野の山奥の庵に幽閉されるが、後に許されて夫と復縁する。
-  - 佐吉→[石田三成](../Page/石田三成.md "wikilink")：[小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")→[真田広之](../Page/真田広之.md "wikilink")
+  - 佐吉→[石田三成](../Page/石田三成.md "wikilink")：[小栗旬](../Page/小栗旬.md "wikilink")→[真田広之](../Page/真田広之.md "wikilink")
       -
         少年時代に秀吉に仕え始め、忠実な家臣として重用されるが、成長後は秀吉に諫言することが多くなり、秀吉からの折檻を受ける事も度々あった。長久手の合戦後、なかに徳川家へ人質として出向くよう要請し、秀吉の逆鱗にふれたがその際「石田三成は豊臣の子にございまする」と語り、自身の並々ならぬ覚悟を示した。　
   - [蜂須賀小六](../Page/蜂須賀正勝.md "wikilink")：[大仁田厚](../Page/大仁田厚.md "wikilink")
@@ -153,14 +153,14 @@
   - 松寿丸→[小寺長政](../Page/黒田長政.md "wikilink")：[内田悠太](https://ja.wikipedia.org/wiki/内田悠太 "wikilink")→[田中丈資](https://ja.wikipedia.org/wiki/田中丈資 "wikilink")
       -
         官兵衛の子。
-  - 小西弥九郎→[小西行長](../Page/小西行長.md "wikilink")：[小西博之](https://ja.wikipedia.org/wiki/小西博之 "wikilink")
+  - 小西弥九郎→[小西行長](../Page/小西行長.md "wikilink")：[小西博之](../Page/小西博之.md "wikilink")
       -
         毛利攻めの最中の秀吉に仕官する。後述の酒の席で五右衛門の仲間を殺してしまう。
-  - [加藤清正](../Page/加藤清正.md "wikilink")：[高杉亘](https://ja.wikipedia.org/wiki/高杉亘 "wikilink")
+  - [加藤清正](../Page/加藤清正.md "wikilink")：[高杉亘](../Page/高杉亘.md "wikilink")
   - [福島正則](../Page/福島正則.md "wikilink")：[松田敏幸](https://ja.wikipedia.org/wiki/松田一三 "wikilink")
       -
         豊臣家の配下として、常に行動を共にする。三成と共に裸踊りをしている。
-  - [前野将右衛門](https://ja.wikipedia.org/wiki/前野長康 "wikilink")：[長江英和](../Page/長江英和.md "wikilink")
+  - [前野将右衛門](../Page/前野長康.md "wikilink")：[長江英和](../Page/長江英和.md "wikilink")
       -
         秀吉の最古参の家臣の一人で、後に秀次側近となる。
   - 浅野長吉→浅野弥兵衛→[浅野長政](../Page/浅野長政.md "wikilink")：[原田優一](../Page/原田優一.md "wikilink")→[天現寺竜](../Page/天現寺竜.md "wikilink")
@@ -169,10 +169,10 @@
   - [堀尾茂助](../Page/堀尾吉晴.md "wikilink")：[高村祐毅](https://ja.wikipedia.org/wiki/高村祐毅 "wikilink")→[大地泰仁](https://ja.wikipedia.org/wiki/大地泰仁 "wikilink")
       -
         織田家家臣だったが、後に豊臣家に仕え、三中老の一人となる。
-  - [堀久太郎](https://ja.wikipedia.org/wiki/堀秀政 "wikilink")：[戸井勝美](https://ja.wikipedia.org/wiki/戸井勝海 "wikilink")
+  - [堀久太郎](../Page/堀秀政.md "wikilink")：[戸井勝美](https://ja.wikipedia.org/wiki/戸井勝海 "wikilink")
       -
         織田家家臣だったが、後に豊臣家に使える。小田原征伐時に陣中で疫病にかかって急死。
-  - 宇喜多八郎→[宇喜多秀家](../Page/宇喜多秀家.md "wikilink")：[浅利陽介](https://ja.wikipedia.org/wiki/浅利陽介 "wikilink")→[西手武](https://ja.wikipedia.org/wiki/西手武 "wikilink")
+  - 宇喜多八郎→[宇喜多秀家](../Page/宇喜多秀家.md "wikilink")：[浅利陽介](../Page/浅利陽介.md "wikilink")→[西手武](https://ja.wikipedia.org/wiki/西手武 "wikilink")
       -
         お福と宇喜多直家の子。
   - [上杉景勝](../Page/上杉景勝.md "wikilink")：[神谷秀澄](https://ja.wikipedia.org/wiki/神谷秀澄 "wikilink")
@@ -184,7 +184,7 @@
   - [藤堂高虎](../Page/藤堂高虎.md "wikilink")：[徳秀樹](https://ja.wikipedia.org/wiki/徳秀樹 "wikilink")
       -
         当初は浅井家家臣だったが、後に織田数学→豊臣と主君を次々と乗り換えていく。
-  - [稲田大炊助](https://ja.wikipedia.org/wiki/稲田稙元 "wikilink")：[梶原善](https://ja.wikipedia.org/wiki/梶原善 "wikilink")
+  - [稲田大炊助](https://ja.wikipedia.org/wiki/稲田稙元 "wikilink")：[梶原善](../Page/梶原善.md "wikilink")
       -
         蜂須賀家臣。
   - [加治田隼人](https://ja.wikipedia.org/wiki/加治田隼人 "wikilink")：[中山正幻](https://ja.wikipedia.org/wiki/中山正幻 "wikilink")
@@ -199,9 +199,9 @@
   - [織田信長](../Page/織田信長.md "wikilink")：[渡哲也](https://ja.wikipedia.org/wiki/渡哲也 "wikilink")
       -
         織田家当主。敵対勢力には女子供にも容赦しない苛烈さを持つ一方、秀吉の良き理解者でもある。本能寺の変で横死。
-  - [吉乃](https://ja.wikipedia.org/wiki/生駒吉乃 "wikilink")：[斉藤慶子](https://ja.wikipedia.org/wiki/斉藤慶子 "wikilink")
+  - [吉乃](../Page/生駒吉乃.md "wikilink")：[斉藤慶子](../Page/斉藤慶子.md "wikilink")
       -
-        信長の側室。信長の正室・[濃姫](../Page/濃姫.md "wikilink")の侍女だったが、彼女の代わりに信忠と信雄と[徳姫](https://ja.wikipedia.org/wiki/徳姫 "wikilink")を生む。信長に先立って病没。
+        信長の側室。信長の正室・[濃姫](../Page/濃姫.md "wikilink")の侍女だったが、彼女の代わりに信忠と信雄と[徳姫](../Page/徳姫.md "wikilink")を生む。信長に先立って病没。
   - [お鍋](../Page/興雲院.md "wikilink")：[櫻井公美](https://ja.wikipedia.org/wiki/櫻井公美 "wikilink")
       -
         信長の側室。吉乃の死後、事実上の正室に格上げとなった。本能寺の変で死亡している。
@@ -225,7 +225,7 @@
       -
         信長の妹。浅井長政・柴田勝家の妻。
         長政との間に茶々（淀）と初と小督（江）を儲ける。息子・万福丸を処刑した信長を責め立てるが、徐々に落ち着きを取り戻す。柴田と再婚するが、秀吉に敗れた夫と共に越前北庄城で自害する。
-  - [織田信行](https://ja.wikipedia.org/wiki/織田信行 "wikilink")：[大石悟郎](https://ja.wikipedia.org/wiki/大石吾朗 "wikilink")
+  - [織田信行](https://ja.wikipedia.org/wiki/織田信行 "wikilink")：[大石悟郎](../Page/大石吾朗.md "wikilink")
       -
         信長の弟。信長との家督争奪に敗れ、側近の柴田に成敗される。
   - [林佐渡守](../Page/林秀貞.md "wikilink")：[高松英郎](../Page/高松英郎.md "wikilink")
@@ -237,10 +237,10 @@
   - [柴田勝家](../Page/柴田勝家.md "wikilink")：[中尾彬](../Page/中尾彬.md "wikilink")
       -
         家臣。通称を権六。若い頃、信行に仕えたが、あと一歩のところで手が震えた信行に脆弱さを感じて信長を選び、自ら信行を成敗した。晩年は織田家随一の統率力で重きをなす。足軽時代の秀吉を悪し様に罵倒し対立を繰り返していたが、金ヶ崎の陣では、しんがりを志願した秀吉に言葉をかける。賤ヶ岳の戦いで戦死する際、お市の娘たちを逃がす。
-  - [丹羽長秀](../Page/丹羽長秀.md "wikilink")：[篠田三郎](https://ja.wikipedia.org/wiki/篠田三郎 "wikilink")
+  - [丹羽長秀](../Page/丹羽長秀.md "wikilink")：[篠田三郎](../Page/篠田三郎.md "wikilink")
       -
         家臣。柴田と並び信長の信任を最も得ている。城壁の三日普請の役目を秀吉に奪われ面目をなくして以来、秀吉を快く思っていなかったが、光秀や秀吉ら新参の臣下の頭角を感じてからは影に回ることが多く、専ら柴田と秀吉の間を取り持つ役回りに終止した。秀吉の配下になるが、病気を理由に豊臣政権から身を引く。
-  - [滝川一益](https://ja.wikipedia.org/wiki/滝川一益 "wikilink")：[段田安則](../Page/段田安則.md "wikilink")
+  - [滝川一益](../Page/滝川一益.md "wikilink")：[段田安則](../Page/段田安則.md "wikilink")
       -
         家臣。桶狭間以後で頭角をあらわした織田家古参の家臣の一人で秀吉とは出世のペースが近いが、重要な局面では常に柴田を支持しているため対立を繰り返す。信長の死後、北条家に大敗を喫したショックから白髪となる。清州会議では秀吉に疑念をぶつけ、列席の面前で厳しく批判した。
   - [池田恒興](../Page/池田恒興.md "wikilink")：[五代高之](../Page/五代高之.md "wikilink")
@@ -252,7 +252,7 @@
   - [佐々成政](../Page/佐々成政.md "wikilink")：[秋山武史](../Page/秋山武史.md "wikilink")
       -
         家臣。秀吉を罵倒し対立を繰り返す。後に秀吉配下となるが、九州征伐の際に肥後の国人一揆を鎮圧できなかった咎を受けて切腹。
-  - [毛利新介](../Page/毛利良勝.md "wikilink")：[深江卓次](https://ja.wikipedia.org/wiki/深江卓次 "wikilink")
+  - [毛利新介](../Page/毛利良勝.md "wikilink")：[深江卓次](../Page/深江卓次.md "wikilink")
       -
         家臣。桶狭間の戦いで今川義元を討つ。本能寺の変で戦死。
   - [服部小平太](../Page/服部一忠.md "wikilink")：[畑山東一郎](https://ja.wikipedia.org/wiki/畑山東一郎 "wikilink")
@@ -264,10 +264,10 @@
   - [拾阿弥](https://ja.wikipedia.org/wiki/拾阿弥 "wikilink")：[岡田正典](https://ja.wikipedia.org/wiki/岡田正典 "wikilink")
       -
         家臣。茶坊主だが、秀吉に対する嫌がらせが原因で利家の怒りを買い、信長の前で利家に成敗される。この一件で利家は一時出仕を解かれてしまう。
-  - [村井貞勝](https://ja.wikipedia.org/wiki/村井貞勝 "wikilink")：[桝田徳寿](https://ja.wikipedia.org/wiki/桝田徳寿 "wikilink")
+  - [村井貞勝](../Page/村井貞勝.md "wikilink")：[桝田徳寿](https://ja.wikipedia.org/wiki/桝田徳寿 "wikilink")
       -
         家臣。佐々の舅でもある。
-  - [佐久間盛政](../Page/佐久間盛政.md "wikilink")：[遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink")
+  - [佐久間盛政](../Page/佐久間盛政.md "wikilink")：[遠藤憲一](../Page/遠藤憲一.md "wikilink")
       -
         家臣。信盛の従甥。賤ヶ岳の戦で柴田に味方した。
   - [青山新七](https://ja.wikipedia.org/wiki/青山新介 "wikilink")：[町田真一](https://ja.wikipedia.org/wiki/町田真一 "wikilink")
@@ -282,7 +282,7 @@
   - 前田犬千代→[前田利家](../Page/前田利家.md "wikilink")：[渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")
       -
         秀吉夫婦とは織田家家臣時代からの親しい間柄である。
-  - [おまつ](https://ja.wikipedia.org/wiki/芳春院 "wikilink")：[中村あずさ](https://ja.wikipedia.org/wiki/中村あずさ "wikilink")
+  - [おまつ](../Page/芳春院.md "wikilink")：[中村あずさ](../Page/中村あずさ.md "wikilink")
       -
         利家の正室。おねとは懇意である。夫との間には利長を儲ける。
   - [前田利長](../Page/前田利長.md "wikilink")：[中倉健太郎](https://ja.wikipedia.org/wiki/中倉健太郎 "wikilink")
@@ -308,7 +308,7 @@
 
 ### 明智家
 
-  - [明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")：[村上弘明](https://ja.wikipedia.org/wiki/村上弘明 "wikilink")
+  - [明智光秀](https://ja.wikipedia.org/wiki/明智光秀 "wikilink")：[村上弘明](../Page/村上弘明.md "wikilink")
       -
         秀吉や秀長と並ぶ本作**第三の主人公**。
         明智家当主。家族思いの性格で、とりわけ母を大切にしていた。
@@ -321,7 +321,7 @@
   - [美](https://ja.wikipedia.org/wiki/お牧の方 "wikilink")：[野際陽子](../Page/野際陽子.md "wikilink")
       -
         光秀の母。信長の人質となっていたが、磔刑に処せられる。物語序盤で、周囲の武士が信長を鬼に例えたところ、「鬼には仕官できませぬな。いずれ、鬼は誰かに退治されるもの」と因縁めいたことを話した。後に処刑される間際にも、光秀に同様のことを述べている。織田家家臣の息子を持つ者同士なのか、なかとは打ち解けあい、秀吉にもその人柄を慕われていた。
-  - [明智秀満](https://ja.wikipedia.org/wiki/明智秀満 "wikilink")：[青島健介](https://ja.wikipedia.org/wiki/青島健介 "wikilink")
+  - [明智秀満](../Page/明智秀満.md "wikilink")：[青島健介](https://ja.wikipedia.org/wiki/青島健介 "wikilink")
       -
         家臣。「明智左馬助の湖水渡り」でも知られる。坂本城攻めで秀吉に討たれる。
   - [斎藤利三](../Page/斎藤利三.md "wikilink")：[上條恒彦](../Page/上條恒彦.md "wikilink")
@@ -342,13 +342,13 @@
   - [徳川信康](../Page/松平信康.md "wikilink")\[9\]：[佐藤真一郎](https://ja.wikipedia.org/wiki/佐藤真一郎 "wikilink")
       -
         家康と築山殿の子で、信長の娘婿。母と同じ理由で舅の信長に処刑される。
-  - [本多正信](../Page/本多正信.md "wikilink")：[宍戸錠](https://ja.wikipedia.org/wiki/宍戸錠 "wikilink")
+  - [本多正信](../Page/本多正信.md "wikilink")：[宍戸錠](../Page/宍戸錠.md "wikilink")
       -
         徳川家筆頭家老。家康の側近で信長の安土築城後に家康とともに招かれる。毒舌に加え細やかな観察眼を持ち、秀吉の髭の薄さを揶揄している。また安土では光秀による接待の際、数正とともに次々と注文をつけ、これが信長と光秀の関係悪化に拍車をかけた。
-  - [石川数正](https://ja.wikipedia.org/wiki/石川数正 "wikilink")：[誠直也](../Page/誠直也.md "wikilink")
+  - [石川数正](../Page/石川数正.md "wikilink")：[誠直也](../Page/誠直也.md "wikilink")
       -
         本多に次ぐ徳川家筆頭家老。小牧・長久手の戦いの後、秀吉に懐柔される。
-  - [酒井忠次](../Page/酒井忠次.md "wikilink")：[真夏竜](https://ja.wikipedia.org/wiki/真夏竜 "wikilink")
+  - [酒井忠次](../Page/酒井忠次.md "wikilink")：[真夏竜](../Page/真夏竜.md "wikilink")
       -
         本田、石川に次ぐ徳川家重臣。
 
@@ -358,13 +358,13 @@
   - [小早川隆景](../Page/小早川隆景.md "wikilink")：[山崎海童](../Page/山崎海童.md "wikilink")
       -
         輝元の叔父。
-  - [安国寺恵瓊](../Page/安国寺恵瓊.md "wikilink")：[中条きよし](https://ja.wikipedia.org/wiki/中条きよし "wikilink")
+  - [安国寺恵瓊](../Page/安国寺恵瓊.md "wikilink")：[中条きよし](../Page/中条きよし.md "wikilink")
       -
         京都から追われた足利義昭の身柄を引き取る。
   - [吉川元長](../Page/吉川元長.md "wikilink")：[田中允貴](https://ja.wikipedia.org/wiki/田中允貴 "wikilink")
       -
         輝元の従兄。
-  - [清水宗治](https://ja.wikipedia.org/wiki/清水宗治 "wikilink")：[真田五郎](https://ja.wikipedia.org/wiki/真田五郎 "wikilink")
+  - [清水宗治](../Page/清水宗治.md "wikilink")：[真田五郎](https://ja.wikipedia.org/wiki/真田五郎 "wikilink")
       -
         毛利家臣。自らの切腹と家臣の助命を条件に秀吉に降伏。
 
@@ -376,7 +376,7 @@
   - [万福丸](../Page/浅井万福丸.md "wikilink")：[穴井隆文](https://ja.wikipedia.org/wiki/穴井隆文 "wikilink")
       -
         長政と市の子。長政自刃後、信長の命により柴田勝家に殺される。
-  - 初→[お初](https://ja.wikipedia.org/wiki/常高院 "wikilink")：[登坂瞳](https://ja.wikipedia.org/wiki/登坂瞳 "wikilink")→[湯原麻利絵](../Page/湯原麻利絵.md "wikilink")
+  - 初→[お初](../Page/常高院.md "wikilink")：[登坂瞳](https://ja.wikipedia.org/wiki/登坂瞳 "wikilink")→[湯原麻利絵](../Page/湯原麻利絵.md "wikilink")
       -
         長政と市の子で、茶々（淀）の妹で小督の姉。京極高次に嫁ぐ。
   - [小督](../Page/崇源院.md "wikilink")：[徳島更紗](https://ja.wikipedia.org/wiki/徳島更紗 "wikilink")→[濱松恵](https://ja.wikipedia.org/wiki/濱松咲 "wikilink")
@@ -411,7 +411,7 @@
   - [尼子勝久](../Page/尼子勝久.md "wikilink")：[高場隆義](https://ja.wikipedia.org/wiki/高場隆義 "wikilink")
       -
         尼子家当主。尼子家の再興を目論んで秀吉の指揮下に入った。
-  - [山中鹿介](../Page/山中幸盛.md "wikilink")：[梅垣義明](https://ja.wikipedia.org/wiki/梅垣義明 "wikilink")
+  - [山中鹿介](../Page/山中幸盛.md "wikilink")：[梅垣義明](../Page/梅垣義明.md "wikilink")
       -
         尼子家臣。
   - [穴山梅雪](../Page/穴山信君.md "wikilink")：[サンダー杉山](../Page/サンダー杉山.md "wikilink")
@@ -420,10 +420,10 @@
 
 ### その他
 
-  - [山科](https://ja.wikipedia.org/wiki/山科言継 "wikilink")：[朱源実](https://ja.wikipedia.org/wiki/朱源実 "wikilink")
+  - [山科](../Page/山科言継.md "wikilink")：[朱源実](https://ja.wikipedia.org/wiki/朱源実 "wikilink")
       -
         公家。
-  - 千宗易→[千利休](../Page/千利休.md "wikilink")：[仲代達矢](https://ja.wikipedia.org/wiki/仲代達矢 "wikilink")
+  - 千宗易→[千利休](../Page/千利休.md "wikilink")：[仲代達矢](../Page/仲代達矢.md "wikilink")
       -
         茶人だが、秀吉の配下として島津家との交渉を務めるなどの活躍も果たす。秀長の頼みで渋々[黄金の茶室](../Page/黄金の茶室.md "wikilink")を設計する。後に秀吉との諍いで処刑されるが、秀吉自身はこれに後ろめたさを感じていた模様。
   - [お京](https://ja.wikipedia.org/wiki/宗恩 "wikilink")：[香山美子](../Page/香山美子_\(女優\).md "wikilink")
@@ -435,13 +435,13 @@
   - [山上宗二](../Page/山上宗二.md "wikilink")：[加藤久詞](https://ja.wikipedia.org/wiki/加藤久詞 "wikilink")
       -
         茶人。
-  - [里村紹巴](../Page/里村紹巴.md "wikilink")：[阪脩](https://ja.wikipedia.org/wiki/阪脩 "wikilink")
+  - [里村紹巴](../Page/里村紹巴.md "wikilink")：[阪脩](../Page/阪脩.md "wikilink")
       -
         連歌師。
   - [曲直瀬道三](../Page/曲直瀬道三.md "wikilink")：[大川義幸](https://ja.wikipedia.org/wiki/大川義幸 "wikilink")
       -
         医師。
-  - [神谷宗湛](https://ja.wikipedia.org/wiki/神屋宗湛 "wikilink")：[木下秀雄](../Page/木下秀雄.md "wikilink")
+  - [神谷宗湛](../Page/神屋宗湛.md "wikilink")：[木下秀雄](../Page/木下秀雄.md "wikilink")
       -
         商人。
   - [能登屋](https://ja.wikipedia.org/wiki/能登屋平久 "wikilink")：[川辺久造](../Page/川辺久造.md "wikilink")
@@ -465,7 +465,7 @@
 
 ### 架空 / 実在不明（主な配役のみ）
 
-  - おせん：[八代亜紀](https://ja.wikipedia.org/wiki/八代亜紀 "wikilink")
+  - おせん：[八代亜紀](../Page/八代亜紀.md "wikilink")
 
 <!-- end list -->
 
@@ -491,13 +491,13 @@
   - 原作：[堺屋太一](../Page/堺屋太一.md "wikilink")（『秀吉〜夢を超えた男〜』『鬼と人と 信長と光秀』『豊臣秀長』より）
   - 音楽：[小六禮次郎](../Page/小六禮次郎.md "wikilink")
   - テーマ音楽演奏：[NHK交響楽団](../Page/NHK交響楽団.md "wikilink")
-  - 指揮：[大友直人](https://ja.wikipedia.org/wiki/大友直人 "wikilink")
+  - 指揮：[大友直人](../Page/大友直人.md "wikilink")
   - 演奏：[ダッド・ミュージック](https://ja.wikipedia.org/wiki/ダッド・ミュージック "wikilink")
   - トランペット演奏：[津堅直弘](https://ja.wikipedia.org/wiki/津堅直弘 "wikilink")（NHK交響楽団トランペット奏者）
   - パンフルート演奏：[藤山明](https://ja.wikipedia.org/wiki/藤山明 "wikilink")
-  - 挿入歌「泡沫〜UTAKATA〜」（歌：[八代亜紀](https://ja.wikipedia.org/wiki/八代亜紀 "wikilink")）
-  - 題字：[森繁久彌](https://ja.wikipedia.org/wiki/森繁久彌 "wikilink")
-  - 語り：[宮本隆治](https://ja.wikipedia.org/wiki/宮本隆治 "wikilink")（NHKアナウンサー）
+  - 挿入歌「泡沫〜UTAKATA〜」（歌：[八代亜紀](../Page/八代亜紀.md "wikilink")）
+  - 題字：[森繁久彌](../Page/森繁久彌.md "wikilink")
+  - 語り：[宮本隆治](../Page/宮本隆治.md "wikilink")（NHKアナウンサー）
       -
         基本的に語り役は宮本隆治だが、所々になか役の市原悦子、なかの死後はおね役の沢口靖子も語りを行った。宮本は状況説明、市原・沢口は心情説明と役割分担がなされている。
   - 時代考証：[小和田哲男](../Page/小和田哲男.md "wikilink")、[下山治久](https://ja.wikipedia.org/wiki/下山治久 "wikilink")
@@ -533,8 +533,8 @@
 
 ### 通常放送時間
 
-  - [NHK総合テレビジョン](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")：毎週日曜 20時00分 - 20時45分
-  - [NHK衛星第2テレビジョン](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")：毎週日曜 21時45分-22時29分（13話まで）、22時30分-23時14分（14話から）\[10\]
+  - [NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")：毎週日曜 20時00分 - 20時45分
+  - [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")：毎週日曜 21時45分-22時29分（13話まで）、22時30分-23時14分（14話から）\[10\]
   - （再放送）NHK総合テレビジョン：毎週土曜 13時05分-13時50分\[11\]
 
 ### 放送日程
@@ -543,58 +543,58 @@
   - 8月4日は[アトランタオリンピック男子マラソン放映のため休止](https://ja.wikipedia.org/wiki/1996年アトランタオリンピック "wikilink")
   - 10月20日は[第41回衆議院議員総選挙](https://ja.wikipedia.org/wiki/第41回衆議院議員総選挙 "wikilink")開票速報のため休止
 
-| 放送回                                                                                                                                         | 放送日    | サブタイトル         | 演出     | 視聴率\[12\] |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ------ | -------------- | ------ | --------- |
-| 第1回                                                                                                                                         | 1月7日   | 太陽の子           | 佐藤幹夫   | 26.6%     |
-| 第2回                                                                                                                                         | 1月14日  | 桶狭間の奇跡         | 29.2%  |           |
-| 第3回                                                                                                                                         | 1月21日  | 運命の花嫁          | 黛りんたろう | 33.5%     |
-| 第4回                                                                                                                                         | 1月28日  | 黄金兄弟           | 33.1%  |           |
-| 第5回                                                                                                                                         | 2月4日   | 男の値段           | 佐藤幹夫   | 34.6%     |
-| 第6回                                                                                                                                         | 2月11日  | 一夜城            | 柴田岳志   | 35.0%     |
-| 第7回                                                                                                                                         | 2月18日  | 妻の秘密           | 黛りんたろう | 33.7%     |
-| 第8回                                                                                                                                         | 2月25日  | 知らぬ顔の半兵衛       | 佐藤幹夫   | 33.2%     |
-| 第9回                                                                                                                                         | 3月3日   | 猿のかく乱          | 柴田岳志   | 32.0%     |
-| 第10回                                                                                                                                        | 3月10日  | 浮気いたし候         | 黛りんたろう | 37.4%     |
-| 第11回                                                                                                                                        | 3月17日  | 絶体絶命           | 佐藤幹夫   | 34.7%     |
-| 第12回                                                                                                                                        | 3月24日  | 比叡山焼き打ち        | 柴田岳志   | 31.2%     |
-| 第13回                                                                                                                                        | 3月31日  | 極秘情報           | 黛りんたろう | 30.7%     |
-| 第14回                                                                                                                                        | 4月7日   | 小谷落城           | 佐藤幹夫   | 28.4%     |
-| 第15回                                                                                                                                        | 4月14日  | どくろの盃          | 柴田岳志   | 32.7%     |
-| 第16回                                                                                                                                        | 4月21日  | 隠し子発覚\!        | 黛りんたろう | 33.5%     |
-| 第17回                                                                                                                                        | 4月28日  | かあちゃんと母御前      | 佐藤幹夫   | 28.0%     |
-| 第18回                                                                                                                                        | 5月5日   | 切腹命令           | 柴田岳志   | 29.4%     |
-| 第19回                                                                                                                                        | 5月12日  | 父の家出           | 黛りんたろう | 31.7%     |
-| 第20回                                                                                                                                        | 5月19日  | 軍師の条件          | 真銅健嗣   | 32.4%     |
-| 第21回                                                                                                                                        | 5月26日  | 命の重さ           | 柴田岳志   | 31.2%     |
-| 第22回                                                                                                                                        | 6月2日   | 母御前、はりつけ       | 黛りんたろう | 30.6%     |
-| 第23回                                                                                                                                        | 6月9日   | 半兵衛の死          | 佐藤幹夫   | 36.2%     |
-| 第24回                                                                                                                                        | 6月16日  | 左遷寸前           | 柴田岳志   | 32.8%     |
-| 第25回                                                                                                                                        | 6月23日  | 温泉に行きたく候       | 大友啓史   | 33.9%     |
-| 第26回                                                                                                                                        | 6月30日  | 史上最大のお歳暮       | 真銅健嗣   | 33.2%     |
-| 第27回                                                                                                                                        | 7月7日   | 三成登場           | 佐藤幹夫   | 31.3%     |
-| 第28回                                                                                                                                        | 7月14日  | 高松城水攻め         | 柴田岳志   | 33.5%     |
-| 第29回                                                                                                                                        | 7月21日  | 敵は本能寺          | 黛りんたろう | 31.2%     |
-| 第30回                                                                                                                                        | 7月28日  | 信長、死す          | 佐藤幹夫   | 26.4%     |
-| 第31回                                                                                                                                        | 8月11日  | 天下への道          | 柴田岳志   | 26.8%     |
-| 第32回                                                                                                                                        | 8月18日  | 夢を継ぐ者          | 鹿島由晴   | 29.7%     |
-| 第33回                                                                                                                                        | 8月25日  | 光秀の首           | 黛りんたろう | 29.9%     |
-| 第34回                                                                                                                                        | 9月1日   | 女の天下獲り         | 佐藤幹夫   | 31.8%     |
-| 第35回                                                                                                                                        | 9月8日   | 美しき刺客          | 柴田岳志   | 33.1%     |
-| 第36回                                                                                                                                        | 9月15日  | 家康VS秀吉         | 加藤拓    | 29.5%     |
-| 第37回                                                                                                                                        | 9月22日  | 天子様の御落胤\!?     | 黛りんたろう | 31.8%     |
-| 第38回                                                                                                                                        | 9月29日  | 黄金の茶室          | 加藤拓    | 23.9%     |
-| 第39回                                                                                                                                        | 10月6日  | かあちゃん、人質       | 佐藤幹夫   | 22.2%     |
-| 第40回                                                                                                                                        | 10月13日 | 誘惑             | 中島由貴   | 27.9%     |
-| 第41回                                                                                                                                        | 10月27日 | 決別の朝顔          | 黛りんたろう | 29.1%     |
-| 第42回                                                                                                                                        | 11月3日  | 淀の子、誕生         | 柴田岳志   | 25.0%     |
-| 第43回                                                                                                                                        | 11月10日 | 花戦さでござる        | 大友啓史   | 27.2%     |
-| 第44回                                                                                                                                        | 11月17日 | 秀長、逝く          | 佐藤幹夫   | 29.1%     |
-| 第45回                                                                                                                                        | 11月24日 | 利休切腹           | 黛りんたろう | 30.0%     |
-| 第46回                                                                                                                                        | 12月1日  | 母の悲しみ          | 佐藤幹夫   | 30.5%     |
-| 第47回                                                                                                                                        | 12月8日  | かあちゃんの死\!      | 柴田岳志   | 25.9%     |
-| 第48回                                                                                                                                        | 12月15日 | 五右衛門、釜ゆで\[13\] | 佐藤幹夫   | 27.3%     |
-| 最終回                                                                                                                                         | 12月22日 | 夢のまた夢          | 黛りんたろう | 27.1%     |
-| 平均視聴率30.5% （視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")社調べ）\[14\] |        |                |        |           |
+| 放送回                                                                                                                      | 放送日    | サブタイトル         | 演出     | 視聴率\[12\] |
+| ------------------------------------------------------------------------------------------------------------------------ | ------ | -------------- | ------ | --------- |
+| 第1回                                                                                                                      | 1月7日   | 太陽の子           | 佐藤幹夫   | 26.6%     |
+| 第2回                                                                                                                      | 1月14日  | 桶狭間の奇跡         | 29.2%  |           |
+| 第3回                                                                                                                      | 1月21日  | 運命の花嫁          | 黛りんたろう | 33.5%     |
+| 第4回                                                                                                                      | 1月28日  | 黄金兄弟           | 33.1%  |           |
+| 第5回                                                                                                                      | 2月4日   | 男の値段           | 佐藤幹夫   | 34.6%     |
+| 第6回                                                                                                                      | 2月11日  | 一夜城            | 柴田岳志   | 35.0%     |
+| 第7回                                                                                                                      | 2月18日  | 妻の秘密           | 黛りんたろう | 33.7%     |
+| 第8回                                                                                                                      | 2月25日  | 知らぬ顔の半兵衛       | 佐藤幹夫   | 33.2%     |
+| 第9回                                                                                                                      | 3月3日   | 猿のかく乱          | 柴田岳志   | 32.0%     |
+| 第10回                                                                                                                     | 3月10日  | 浮気いたし候         | 黛りんたろう | 37.4%     |
+| 第11回                                                                                                                     | 3月17日  | 絶体絶命           | 佐藤幹夫   | 34.7%     |
+| 第12回                                                                                                                     | 3月24日  | 比叡山焼き打ち        | 柴田岳志   | 31.2%     |
+| 第13回                                                                                                                     | 3月31日  | 極秘情報           | 黛りんたろう | 30.7%     |
+| 第14回                                                                                                                     | 4月7日   | 小谷落城           | 佐藤幹夫   | 28.4%     |
+| 第15回                                                                                                                     | 4月14日  | どくろの盃          | 柴田岳志   | 32.7%     |
+| 第16回                                                                                                                     | 4月21日  | 隠し子発覚\!        | 黛りんたろう | 33.5%     |
+| 第17回                                                                                                                     | 4月28日  | かあちゃんと母御前      | 佐藤幹夫   | 28.0%     |
+| 第18回                                                                                                                     | 5月5日   | 切腹命令           | 柴田岳志   | 29.4%     |
+| 第19回                                                                                                                     | 5月12日  | 父の家出           | 黛りんたろう | 31.7%     |
+| 第20回                                                                                                                     | 5月19日  | 軍師の条件          | 真銅健嗣   | 32.4%     |
+| 第21回                                                                                                                     | 5月26日  | 命の重さ           | 柴田岳志   | 31.2%     |
+| 第22回                                                                                                                     | 6月2日   | 母御前、はりつけ       | 黛りんたろう | 30.6%     |
+| 第23回                                                                                                                     | 6月9日   | 半兵衛の死          | 佐藤幹夫   | 36.2%     |
+| 第24回                                                                                                                     | 6月16日  | 左遷寸前           | 柴田岳志   | 32.8%     |
+| 第25回                                                                                                                     | 6月23日  | 温泉に行きたく候       | 大友啓史   | 33.9%     |
+| 第26回                                                                                                                     | 6月30日  | 史上最大のお歳暮       | 真銅健嗣   | 33.2%     |
+| 第27回                                                                                                                     | 7月7日   | 三成登場           | 佐藤幹夫   | 31.3%     |
+| 第28回                                                                                                                     | 7月14日  | 高松城水攻め         | 柴田岳志   | 33.5%     |
+| 第29回                                                                                                                     | 7月21日  | 敵は本能寺          | 黛りんたろう | 31.2%     |
+| 第30回                                                                                                                     | 7月28日  | 信長、死す          | 佐藤幹夫   | 26.4%     |
+| 第31回                                                                                                                     | 8月11日  | 天下への道          | 柴田岳志   | 26.8%     |
+| 第32回                                                                                                                     | 8月18日  | 夢を継ぐ者          | 鹿島由晴   | 29.7%     |
+| 第33回                                                                                                                     | 8月25日  | 光秀の首           | 黛りんたろう | 29.9%     |
+| 第34回                                                                                                                     | 9月1日   | 女の天下獲り         | 佐藤幹夫   | 31.8%     |
+| 第35回                                                                                                                     | 9月8日   | 美しき刺客          | 柴田岳志   | 33.1%     |
+| 第36回                                                                                                                     | 9月15日  | 家康VS秀吉         | 加藤拓    | 29.5%     |
+| 第37回                                                                                                                     | 9月22日  | 天子様の御落胤\!?     | 黛りんたろう | 31.8%     |
+| 第38回                                                                                                                     | 9月29日  | 黄金の茶室          | 加藤拓    | 23.9%     |
+| 第39回                                                                                                                     | 10月6日  | かあちゃん、人質       | 佐藤幹夫   | 22.2%     |
+| 第40回                                                                                                                     | 10月13日 | 誘惑             | 中島由貴   | 27.9%     |
+| 第41回                                                                                                                     | 10月27日 | 決別の朝顔          | 黛りんたろう | 29.1%     |
+| 第42回                                                                                                                     | 11月3日  | 淀の子、誕生         | 柴田岳志   | 25.0%     |
+| 第43回                                                                                                                     | 11月10日 | 花戦さでござる        | 大友啓史   | 27.2%     |
+| 第44回                                                                                                                     | 11月17日 | 秀長、逝く          | 佐藤幹夫   | 29.1%     |
+| 第45回                                                                                                                     | 11月24日 | 利休切腹           | 黛りんたろう | 30.0%     |
+| 第46回                                                                                                                     | 12月1日  | 母の悲しみ          | 佐藤幹夫   | 30.5%     |
+| 第47回                                                                                                                     | 12月8日  | かあちゃんの死\!      | 柴田岳志   | 25.9%     |
+| 第48回                                                                                                                     | 12月15日 | 五右衛門、釜ゆで\[13\] | 佐藤幹夫   | 27.3%     |
+| 最終回                                                                                                                      | 12月22日 | 夢のまた夢          | 黛りんたろう | 27.1%     |
+| 平均視聴率30.5% （視聴率は[関東地区](https://ja.wikipedia.org/wiki/関東地方 "wikilink")・[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社調べ）\[14\] |        |                |        |           |
 
 ### 総集編
 
@@ -617,14 +617,14 @@
 
 [Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1996年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1996年のテレビドラマ "wikilink") [Category:文学を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:文学を原作とするテレビドラマ "wikilink") [Category:NHK名古屋](https://ja.wikipedia.org/wiki/Category:NHK名古屋 "wikilink") [Category:NHK大阪のテレビドラマ](https://ja.wikipedia.org/wiki/Category:NHK大阪のテレビドラマ "wikilink") [Category:豊臣秀吉を題材とした作品](https://ja.wikipedia.org/wiki/Category:豊臣秀吉を題材とした作品 "wikilink") [Category:堺屋太一](https://ja.wikipedia.org/wiki/Category:堺屋太一 "wikilink") [Category:竹山洋脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:竹山洋脚本のテレビドラマ "wikilink") [Category:名古屋市を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:名古屋市を舞台としたテレビドラマ "wikilink") [Category:大阪市を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:大阪市を舞台としたテレビドラマ "wikilink")
 
-1.  このドラマで初めて秀吉の妻の名前が「ねね」ではなく「おね」として呼ばれた。この呼び名は6年後の『[利家とまつ](https://ja.wikipedia.org/wiki/利家とまつ〜加賀百万石物語〜 "wikilink")』でも引き続いて使用された。また、呼び名に関しての解説が、第27話のアバンタイトルでされている。
+1.  このドラマで初めて秀吉の妻の名前が「ねね」ではなく「おね」として呼ばれた。この呼び名は6年後の『[利家とまつ](../Page/利家とまつ〜加賀百万石物語〜.md "wikilink")』でも引き続いて使用された。また、呼び名に関しての解説が、第27話のアバンタイトルでされている。
 2.  所属するロックバンド「[安全地帯](../Page/安全地帯_\(ロックバンド\).md "wikilink")」の活動休止後、しばらくは目立った活動がなかったが、この作品以降、翌年にかけて、民放のドラマシリーズで3作の主演を果たすことになった。なお、玉置の芝居は義昭初登場時は物腰の柔らかい落ち着いた口調で演じていたが、徐々に声が甲高くなりハイテンションな演技へと変化していった。
 3.  [ビデオリサーチ NHK大河ドラマ 過去の視聴率データ](http://www.videor.co.jp/data/ratedata/program/03taiga.htm)
 4.  小一郎が道普請をして稼いだ金を全て使ったという台詞があり、高級食品であるという描写はされている。
-5.  OPで秀吉に寄り添う犬が[パグ](https://ja.wikipedia.org/wiki/パグ "wikilink")となっている。このことに関してNHK宛てに投書があり、第26話のアバンタイトルで「パグは中国原産であり、ヨーロッパをはじめ世界中に渡った事から、当時日本にこの犬が居た事は誰も否定出来ない」と説明している。
+5.  OPで秀吉に寄り添う犬が[パグ](../Page/パグ.md "wikilink")となっている。このことに関してNHK宛てに投書があり、第26話のアバンタイトルで「パグは中国原産であり、ヨーロッパをはじめ世界中に渡った事から、当時日本にこの犬が居た事は誰も否定出来ない」と説明している。
 6.
 7.  その後ついに宿願叶い、2014年の大河ドラマ『[軍師官兵衛](https://ja.wikipedia.org/wiki/軍師官兵衛 "wikilink")』で秀吉を再演した際に、晩年の「堕ちていく」秀吉を演じることになった。
-8.  元NHK・[フジテレビアナで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[鹿内春雄](https://ja.wikipedia.org/wiki/鹿内春雄 "wikilink")夫人。[2014年](../Page/2014年.md "wikilink")放送の『[軍師官兵衛](https://ja.wikipedia.org/wiki/軍師官兵衛 "wikilink")』では彼女の後輩・[内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")が市を演じている
+8.  元NHK・[フジテレビアナで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[鹿内春雄](../Page/鹿内春雄.md "wikilink")夫人。[2014年](../Page/2014年.md "wikilink")放送の『[軍師官兵衛](https://ja.wikipedia.org/wiki/軍師官兵衛 "wikilink")』では彼女の後輩・[内田恭子](https://ja.wikipedia.org/wiki/内田恭子 "wikilink")が市を演じている
 9.  24話のクレジットでは『結城信康』と表記されていた。
 10. 一部放送日時の変更あり
 11. 一部放送日時の変更あり

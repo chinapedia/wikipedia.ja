@@ -65,7 +65,7 @@ the pillowsは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilin
 
 第二期は脱退した上田ケンジに代わりボーカルの山中さわおがリーダーとなって本格的に活動を再開した1994年から、1996年に「Tiny Boat」での失敗を機に活動方針の転換を図るまでの時期である。上田ケンジ抜きの新たなthe pillowsを模索した時期であり、第三期への過渡期となる\[25\]。
 
-上田ケンジ脱退からおよそ一年間にわたって表立ったバンド活動が休止状態となっていたthe pillowsは、新たに山中さわおをリーダーとし、ベーシストにはサポートメンバーとして[SUPER BADの](https://ja.wikipedia.org/wiki/SUPER_BAD "wikilink")[鹿島達也](https://ja.wikipedia.org/wiki/鹿島達也 "wikilink")を迎え本格的に活動を再開。しかし、売上低迷の打開策として招かれた[某・大物プロデューサーの持つ楽曲制作法に山中が相容れる事が出来ず](https://ja.wikipedia.org/wiki/高橋研 "wikilink")（決して人間的に嫌悪していた訳ではなく、そういう方法もあるという一定の理解は示した上で）、レコーディング初日に反故した事から、ポニーキャニオンとの契約が破棄。その後、楽曲を評価してくれたキングレコードに移籍する事となり、鹿島達也の紹介により[プロデューサーに](../Page/音楽プロデューサー.md "wikilink")[SALON MUSICの](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink")[吉田仁](https://ja.wikipedia.org/wiki/吉田仁 "wikilink")が加わるなど、バンドの様相が大きく変わった\[26\]。第二期の間にシングル3枚とアルバム2枚をリリースした。
+上田ケンジ脱退からおよそ一年間にわたって表立ったバンド活動が休止状態となっていたthe pillowsは、新たに山中さわおをリーダーとし、ベーシストにはサポートメンバーとして[SUPER BADの](https://ja.wikipedia.org/wiki/SUPER_BAD "wikilink")[鹿島達也](https://ja.wikipedia.org/wiki/鹿島達也 "wikilink")を迎え本格的に活動を再開。しかし、売上低迷の打開策として招かれた[某・大物プロデューサーの持つ楽曲制作法に山中が相容れる事が出来ず](../Page/高橋研.md "wikilink")（決して人間的に嫌悪していた訳ではなく、そういう方法もあるという一定の理解は示した上で）、レコーディング初日に反故した事から、ポニーキャニオンとの契約が破棄。その後、楽曲を評価してくれたキングレコードに移籍する事となり、鹿島達也の紹介により[プロデューサーに](../Page/音楽プロデューサー.md "wikilink")[SALON MUSICの](https://ja.wikipedia.org/wiki/SALON_MUSIC "wikilink")[吉田仁](https://ja.wikipedia.org/wiki/吉田仁 "wikilink")が加わるなど、バンドの様相が大きく変わった\[26\]。第二期の間にシングル3枚とアルバム2枚をリリースした。
 
 第二期the pillowsの楽曲は、新たにリーダーとなった山中さわおが[ソウルミュージック](../Page/ソウルミュージック.md "wikilink")や[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")風のテイストを取り入れたことによる\[27\]多彩な[リズム](../Page/リズム.md "wikilink")・アプローチとスタイリッシュなサウンドをその特徴とし\[28\]、[ポップなメロディーを目指しつつも凝ったアレンジの楽曲が多く作られた](../Page/ポップ・ミュージック.md "wikilink")\[29\]。
 
@@ -77,13 +77,13 @@ the pillowsは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilin
 
 6thシングル「ストレンジ カメレオン」は、大衆的な音楽を目指すも失敗した自分たちを「まわりの色に馴染まない出来損ないのカメレオン」とたとえ\[35\]、それまでthe pillowsが築いてきた音楽やスタイルを大きく否定するものであった。そのため「ストレンジ カメレオン」の発売は、反対するレコード会社とメンバーの対立の中、半ば強行的に行われた\[36\]。また「ストレンジ カメレオン」を収録した5thアルバム『[Please Mr.Lostman](https://ja.wikipedia.org/wiki/Please_Mr.Lostman "wikilink")』は、メンバーにとってインディーズへの後退も覚悟した「音楽業界への遺書」であり\[37\]、同時にどんな状況下でも自分たちの信じる音楽を頑なに貫く\[38\]という決意のアルバムであった。
 
-こうしてバンドの方向性を大きく転換したthe pillowsは、「ストレンジ カメレオン」がFM局の[ヘヴィー・ローテーション](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")を獲得するなど\[39\]、次第に支持を集めるようになる。また逆境を共に乗り越えたメンバーやスタッフの間の結束はより強固なものとなったという\[40\]。続く6thアルバム『[LITTLE BUSTERS](../Page/LITTLE_BUSTERS.md "wikilink")』で山中さわおが「初めてリスナーの方を向いて」「目の前の理解者に対する感謝の気持ち」を歌ったと語るように\[41\]、活動方針の転換を機にthe pillowsを取り巻く状況は徐々に好転していった。
+こうしてバンドの方向性を大きく転換したthe pillowsは、「ストレンジ カメレオン」がFM局の[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")を獲得するなど\[39\]、次第に支持を集めるようになる。また逆境を共に乗り越えたメンバーやスタッフの間の結束はより強固なものとなったという\[40\]。続く6thアルバム『[LITTLE BUSTERS](../Page/LITTLE_BUSTERS.md "wikilink")』で山中さわおが「初めてリスナーの方を向いて」「目の前の理解者に対する感謝の気持ち」を歌ったと語るように\[41\]、活動方針の転換を機にthe pillowsを取り巻く状況は徐々に好転していった。
 
 その後、the pillowsはオルタナティブという手法を通じて、現在のロックバンドとしてのスタイルを確立していく\[42\]。この頃からサポートベーシストには鹿島達也に代わって[THE CHEWINGGUM WEEKENDの](https://ja.wikipedia.org/wiki/THE_CHEWINGGUM_WEEKEND "wikilink")[鈴木淳が加入した](../Page/鈴木淳_\(ベーシスト\).md "wikilink")。
 
-第三期the pillowsはオリジナル・アルバムの作成と並行して[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")や[B-side集をリリースし](../Page/コンピレーション・アルバム.md "wikilink")、[2004年](../Page/2004年.md "wikilink")にはデビュー15周年を記念した[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")アルバムと[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")を発表する\[43\]など、多様な楽曲展開を行うようになった。2006年末にはレーベルをavex traxへと移し、[2007年](../Page/2007年.md "wikilink")にはキングレコード在籍時にリリースされたシングルの収録曲を網羅した[シングル・コレクションも発売されている](../Page/コンピレーション・アルバム.md "wikilink")\[44\]。またDVDなどの映像作品やバンドスコアなどの書籍の発売も積極的に行うようになった。
+第三期the pillowsはオリジナル・アルバムの作成と並行して[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")や[B-side集をリリースし](../Page/コンピレーション・アルバム.md "wikilink")、[2004年](../Page/2004年.md "wikilink")にはデビュー15周年を記念した[セルフカバー](../Page/セルフカバー.md "wikilink")アルバムと[トリビュートアルバム](https://ja.wikipedia.org/wiki/トリビュートアルバム "wikilink")を発表する\[43\]など、多様な楽曲展開を行うようになった。2006年末にはレーベルをavex traxへと移し、[2007年](../Page/2007年.md "wikilink")にはキングレコード在籍時にリリースされたシングルの収録曲を網羅した[シングル・コレクションも発売されている](../Page/コンピレーション・アルバム.md "wikilink")\[44\]。またDVDなどの映像作品やバンドスコアなどの書籍の発売も積極的に行うようになった。
 
-[2000年代](../Page/2000年代.md "wikilink")以降は多くのファンの声に応え日本国外でのライブ活動も行っている。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[アメリカツアーを皮切りに](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、度々日本国外で公演やツアーを行い成功を収めるなど、アメリカをはじめとした日本国外におけるthe pillowsの人気はメンバー自身も驚くほどに高いようである\[45\]\[46\]。こうした海外での高い評価は、そのほとんどがthe pillowsがテーマソングや挿入歌を提供した[ガイナックス](../Page/ガイナックス.md "wikilink")製作の[OVA](../Page/OVA.md "wikilink")『[フリクリ](../Page/フリクリ.md "wikilink")』の海外での人気とともに得られたものである\[47\]。『フリクリ』は2000年～2001年にかけて公開されたもので、全6話中にthe pillowsの楽曲が20曲以上も使用されていた\[48\]。
+[2000年代](../Page/2000年代.md "wikilink")以降は多くのファンの声に応え日本国外でのライブ活動も行っている。[2005年](../Page/2005年.md "wikilink")の[アメリカツアーを皮切りに](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、度々日本国外で公演やツアーを行い成功を収めるなど、アメリカをはじめとした日本国外におけるthe pillowsの人気はメンバー自身も驚くほどに高いようである\[45\]\[46\]。こうした海外での高い評価は、そのほとんどがthe pillowsがテーマソングや挿入歌を提供した[ガイナックス](../Page/ガイナックス.md "wikilink")製作の[OVA](../Page/OVA.md "wikilink")『[フリクリ](../Page/フリクリ.md "wikilink")』の海外での人気とともに得られたものである\[47\]。『フリクリ』は2000年～2001年にかけて公開されたもので、全6話中にthe pillowsの楽曲が20曲以上も使用されていた\[48\]。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[Oasisの来日公演の前座のオファーがきたが](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、「断った方がネタになるから」という理由で断る\[49\]。
 
@@ -116,7 +116,7 @@ the pillowsは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilin
 <tr class="header">
 <th></th>
 <th><p>リリース<br />
-<a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>タイトル</p></th>
 <th><p>収録曲（<em>斜体</em>は既発表曲）</p></th>
 <th><p><a href="../Page/オリコン.md" title="wikilink">オリコン</a>最高位</p></th>
@@ -791,7 +791,7 @@ HOMO-001</p></td>
 <td><p>LIBERTY/<em>Tiny Boat</em>/あの頃に戻って/<em>キミと僕とお月様</em>/<em>WANT TO SLEEP FOR</em>/<em>僕らのハレー彗星</em></p></td>
 <td><p>2004年6月23日<br />
 KICS-1090</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルフカバー" title="wikilink">セルフカバー</a></p></td>
+<td><p><a href="../Page/セルフカバー.md" title="wikilink">セルフカバー</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -880,7 +880,7 @@ KICA-695</p></td>
 </tr>
 <tr class="odd">
 <td><p>RESPECTABLE ROOSTERS</p></td>
-<td><p>the pillowsが「Good Dreams」で参加した<a href="https://ja.wikipedia.org/wiki/ルースターズ" title="wikilink">ルースターズ</a>のトリビュート・アルバム。</p></td>
+<td><p>the pillowsが「Good Dreams」で参加した<a href="../Page/ルースターズ.md" title="wikilink">ルースターズ</a>のトリビュート・アルバム。</p></td>
 <td><p>1999年4月10日<br />
 COCP-50061</p></td>
 </tr>
@@ -1038,7 +1038,7 @@ KIBM-80</p></td>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>DELICIOUS BUMP TOUR IN USA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>3月にnoodlesを伴って行われた同名のアメリカツアーにおけるライブ映像。ツアーの模様を収録したドキュメンタリー映像でもある。</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>3月にnoodlesを伴って行われた同名のアメリカツアーにおけるライブ映像。ツアーの模様を収録したドキュメンタリー映像でもある。</p></td>
 <td><p>2005年9月14日<br />
 KIBM-92</p></td>
 </tr>
@@ -1051,7 +1051,7 @@ KIBM-92</p></td>
 <tr class="odd">
 <td><p>8th</p></td>
 <td><p>DELICIOUS BUMP SHOW! !</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月10日.md" title="wikilink">11月10日</a>Shibuya O-WESTにて行われた「DELICIOUS BUMP SHOW! !」の模様を収録したDVD。映像特典でバックステージなど収めたおまけ映像も収録。</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月10日.md" title="wikilink">11月10日</a>Shibuya O-WESTにて行われた「DELICIOUS BUMP SHOW! !」の模様を収録したDVD。映像特典でバックステージなど収めたおまけ映像も収録。</p></td>
 <td><p>2006年2月26日<br />
 BUMP-021</p></td>
 </tr>
@@ -1081,7 +1081,7 @@ AVBD-91372</p></td>
 <tr class="odd">
 <td><p>10th</p></td>
 <td><p>Wake up! Stand up! and Go! -the pillows Wake up! Tour 2007.10.08 @Zepp Tokyo-</p></td>
-<td><p>「Wake up! Tour」から、<a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月8日.md" title="wikilink">10月8日</a>に<a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">ZEPP TOKYOで行われたライブを完全収録</a>。映像特典に全国Zeppでのドキュメント映像。</p></td>
+<td><p>「Wake up! Tour」から、<a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/10月8日.md" title="wikilink">10月8日</a>に<a href="../Page/Zepp.md" title="wikilink">ZEPP TOKYOで行われたライブを完全収録</a>。映像特典に全国Zeppでのドキュメント映像。</p></td>
 <td><p>2008年1月30日<br />
 AVBD-91501</p></td>
 </tr>
@@ -1439,39 +1439,39 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 
 ### タイアップ
 
-| タイトル                                                                                                                                                 | 収録先                                       | タイアップ先                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| ガールフレンド                                                                                                                                              | 4thシングル                                   | 映画『[Love Letter](../Page/Love_Letter_\(1995年の映画\).md "wikilink")』イメージソング                                                              |
-| Tiny Boat                                                                                                                                            | 5thシングル                                   | [CX系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『とれたてガバット』テーマソング                                                              |
-| [TVK](../Page/テレビ神奈川.md "wikilink")『[Mutoma JAPAN](https://ja.wikipedia.org/wiki/ミュージックトマトJAPAN "wikilink")』エンディングテーマ                                |                                           |                                                                                                                                       |
-| Swanky Street                                                                                                                                        | 7thシングル                                   | [ANB系](../Page/テレビ朝日.md "wikilink")『金之玉手箱』エンディングテーマ                                                                                   |
-| TRIP DANCER                                                                                                                                          | 8thシングル                                   | [TBS系](../Page/TBSテレビ.md "wikilink")『TICOS』テーマソング                                                                                     |
-| [NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")『[645・大化の改新 青春記](https://ja.wikipedia.org/wiki/青春アドベンチャー_\(NHK-FM\) "wikilink")』エンディングテーマ |                                           |                                                                                                                                       |
-| 彼女は今日,                                                                                                                                               | 9thシングル                                   | [NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")『WEEKEND JOY』エンディングテーマ                                                                  |
-| NHK-FM『ミュージックスクエア』エンディングテーマ                                                                                                                          |                                           |                                                                                                                                       |
-| ONE LIFE                                                                                                                                             | 10thシングル                                  | CX系『来来圏』エンディングテーマ                                                                                                                     |
-| ハイブリッド レインボウ                                                                                                                                         | 11thシングル                                  | NHK-BS2『WEEKEND JOY』エンディングテーマ                                                                                                         |
-| アナザーモーニング                                                                                                                                            | 12thシングル                                  | CX系『来来圏』エンディングテーマ                                                                                                                     |
-| カーニバル                                                                                                                                                | 15thシングル                                  | TBS系『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』エンディングテーマ                                                                   |
-| like a lovesong (back to back)                                                                                                                       | 10thシングル 『ONE LIFE』収録                     | 映画『[ラブ&ポップ](../Page/ラブ&ポップ.md "wikilink")』挿入歌                                                                                         |
-| Ride on shooting star                                                                                                                                | 17thシングル                                  | [OVA](../Page/OVA.md "wikilink")『[フリクリ](../Page/フリクリ.md "wikilink")』テーマソング                                                            |
-| I think I can                                                                                                                                        | 18thシングル                                  | [NTV系](../Page/日本テレビ放送網.md "wikilink")『[スポーツMAX](https://ja.wikipedia.org/wiki/スポーツMAX "wikilink")』エンディングテーマ                          |
-| 昇らない太陽                                                                                                                                               | 11thアルバム 『PENALTY LIFE』収録                 | [映画](../Page/映画.md "wikilink")『ムーンライト・ジェリーフィッシュ』挿入歌                                                                                   |
-| Gazelle city                                                                                                                                         | 13thアルバム『MY FOOT』収録                       | [セイコーマート](../Page/セイコーマート.md "wikilink")『爽美風茶』CMソング                                                                                   |
-| スケアクロウ                                                                                                                                               | 24thシングル                                  | [WOWOW](../Page/WOWOW.md "wikilink")『[MOONLIGHT MILE](../Page/MOONLIGHT_MILE.md "wikilink")』1stシーズン エンディングテーマ                         |
-| Ladybird girl                                                                                                                                        | 25thシングル                                  | [CN](../Page/カートゥーン_ネットワーク.md "wikilink")『[ベン10](../Page/ベン10.md "wikilink")』エンディングテーマ                                                |
-| BOAT HOUSE                                                                                                                                           | 14thアルバム『Wake up\! Wake up\! Wake up\!』収録 | WOWOW『MOONLIGHT MILE』2ndシーズン エンディングテーマ                                                                                                |
-| Rodeo star mate                                                                                                                                      | 29thシングル                                  | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[スティッチ\! 〜いたずらエイリアンの大冒険〜](https://ja.wikipedia.org/wiki/スティッチ! "wikilink")』オープニングテーマ            |
-| Comic Sonic                                                                                                                                          | 33rdシングル                                  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[SKET DANCE](https://ja.wikipedia.org/wiki/SKET_DANCE "wikilink")』 エンディングテーマ |
-| Good by present                                                                                                                                      | 33rdシングル                                  | BeeTV 「モテキ」エンディングテーマ                                                                                                                  |
-| EMERALD CITY                                                                                                                                         | 17thアルバム『HORN AGAIN』収録                    | dビデオ powered by BeeTVスペシャル『[闇金ウシジマくん (テレビドラマ)](https://ja.wikipedia.org/wiki/闇金ウシジマくん_\(テレビドラマ\) "wikilink")』主題歌                      |
-| About A Rock’n’Roll Band                                                                                                                             | 36thシングル                                  | テレビ東京系『[モヤモヤさまぁ～ず](https://ja.wikipedia.org/wiki/モヤモヤさまぁ～ず "wikilink")2』エンディングテーマ                                                     |
-| Locomotion, more\! more\!                                                                                                                            | 20thアルバム『STROLL AND ROLL』収録               | TOKYO MX『[ニンジャスレイヤー](https://ja.wikipedia.org/wiki/ニンジャスレイヤー "wikilink") フロムアニメイシヨン』TVシリーズ第1話エンディングテーマ                                |
-| BE WILD                                                                                                                                              | 21stアルバム『NOOK IN THE BRAIN』収録             | [東新住建](../Page/東新住建.md "wikilink") CMソング \[55\]                                                                                       |
-| Star overhead                                                                                                                                        | 「フリクリ」サウンドトラックFooL on CooL generation収録   | 劇場版『フリクリ オルタナ』主題歌                                                                                                                     |
-| Spiky Seeds                                                                                                                                          | 「フリクリ」サウンドトラックFooL on CooL generation収録   | 劇場版『フリクリ プログレ』主題歌                                                                                                                     |
-| 眩しい闇のメロディー                                                                                                                                           | 22ndアルバム『REBROADCAST』収録                   | 映画『[純平、考え直せ](https://ja.wikipedia.org/wiki/純平、考え直せ "wikilink")』主題歌                                                                    |
-| Happy Go Ducky\!                                                                                                                                     | 39thシングル                                  | アニメ『[あひるの空](../Page/あひるの空.md "wikilink")』オープニングテーマ                                                                                    |
+| タイトル                                                                                                                              | 収録先                                       | タイアップ先                                                                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ガールフレンド                                                                                                                           | 4thシングル                                   | 映画『[Love Letter](../Page/Love_Letter_\(1995年の映画\).md "wikilink")』イメージソング                                                              |
+| Tiny Boat                                                                                                                         | 5thシングル                                   | [CX系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『とれたてガバット』テーマソング                                                              |
+| [TVK](../Page/テレビ神奈川.md "wikilink")『[Mutoma JAPAN](https://ja.wikipedia.org/wiki/ミュージックトマトJAPAN "wikilink")』エンディングテーマ             |                                           |                                                                                                                                       |
+| Swanky Street                                                                                                                     | 7thシングル                                   | [ANB系](../Page/テレビ朝日.md "wikilink")『金之玉手箱』エンディングテーマ                                                                                   |
+| TRIP DANCER                                                                                                                       | 8thシングル                                   | [TBS系](../Page/TBSテレビ.md "wikilink")『TICOS』テーマソング                                                                                     |
+| [NHK-FM](../Page/NHK-FM放送.md "wikilink")『[645・大化の改新 青春記](https://ja.wikipedia.org/wiki/青春アドベンチャー_\(NHK-FM\) "wikilink")』エンディングテーマ |                                           |                                                                                                                                       |
+| 彼女は今日,                                                                                                                            | 9thシングル                                   | [NHK-BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")『WEEKEND JOY』エンディングテーマ                                                                  |
+| NHK-FM『ミュージックスクエア』エンディングテーマ                                                                                                       |                                           |                                                                                                                                       |
+| ONE LIFE                                                                                                                          | 10thシングル                                  | CX系『来来圏』エンディングテーマ                                                                                                                     |
+| ハイブリッド レインボウ                                                                                                                      | 11thシングル                                  | NHK-BS2『WEEKEND JOY』エンディングテーマ                                                                                                         |
+| アナザーモーニング                                                                                                                         | 12thシングル                                  | CX系『来来圏』エンディングテーマ                                                                                                                     |
+| カーニバル                                                                                                                             | 15thシングル                                  | TBS系『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』エンディングテーマ                                                                   |
+| like a lovesong (back to back)                                                                                                    | 10thシングル 『ONE LIFE』収録                     | 映画『[ラブ&ポップ](../Page/ラブ&ポップ.md "wikilink")』挿入歌                                                                                         |
+| Ride on shooting star                                                                                                             | 17thシングル                                  | [OVA](../Page/OVA.md "wikilink")『[フリクリ](../Page/フリクリ.md "wikilink")』テーマソング                                                            |
+| I think I can                                                                                                                     | 18thシングル                                  | [NTV系](../Page/日本テレビ放送網.md "wikilink")『[スポーツMAX](https://ja.wikipedia.org/wiki/スポーツMAX "wikilink")』エンディングテーマ                          |
+| 昇らない太陽                                                                                                                            | 11thアルバム 『PENALTY LIFE』収録                 | [映画](../Page/映画.md "wikilink")『ムーンライト・ジェリーフィッシュ』挿入歌                                                                                   |
+| Gazelle city                                                                                                                      | 13thアルバム『MY FOOT』収録                       | [セイコーマート](../Page/セイコーマート.md "wikilink")『爽美風茶』CMソング                                                                                   |
+| スケアクロウ                                                                                                                            | 24thシングル                                  | [WOWOW](../Page/WOWOW.md "wikilink")『[MOONLIGHT MILE](../Page/MOONLIGHT_MILE.md "wikilink")』1stシーズン エンディングテーマ                         |
+| Ladybird girl                                                                                                                     | 25thシングル                                  | [CN](../Page/カートゥーン_ネットワーク.md "wikilink")『[ベン10](../Page/ベン10.md "wikilink")』エンディングテーマ                                                |
+| BOAT HOUSE                                                                                                                        | 14thアルバム『Wake up\! Wake up\! Wake up\!』収録 | WOWOW『MOONLIGHT MILE』2ndシーズン エンディングテーマ                                                                                                |
+| Rodeo star mate                                                                                                                   | 29thシングル                                  | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[スティッチ\! 〜いたずらエイリアンの大冒険〜](https://ja.wikipedia.org/wiki/スティッチ! "wikilink")』オープニングテーマ            |
+| Comic Sonic                                                                                                                       | 33rdシングル                                  | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[SKET DANCE](https://ja.wikipedia.org/wiki/SKET_DANCE "wikilink")』 エンディングテーマ |
+| Good by present                                                                                                                   | 33rdシングル                                  | BeeTV 「モテキ」エンディングテーマ                                                                                                                  |
+| EMERALD CITY                                                                                                                      | 17thアルバム『HORN AGAIN』収録                    | dビデオ powered by BeeTVスペシャル『[闇金ウシジマくん (テレビドラマ)](https://ja.wikipedia.org/wiki/闇金ウシジマくん_\(テレビドラマ\) "wikilink")』主題歌                      |
+| About A Rock’n’Roll Band                                                                                                          | 36thシングル                                  | テレビ東京系『[モヤモヤさまぁ～ず](https://ja.wikipedia.org/wiki/モヤモヤさまぁ～ず "wikilink")2』エンディングテーマ                                                     |
+| Locomotion, more\! more\!                                                                                                         | 20thアルバム『STROLL AND ROLL』収録               | TOKYO MX『[ニンジャスレイヤー](https://ja.wikipedia.org/wiki/ニンジャスレイヤー "wikilink") フロムアニメイシヨン』TVシリーズ第1話エンディングテーマ                                |
+| BE WILD                                                                                                                           | 21stアルバム『NOOK IN THE BRAIN』収録             | [東新住建](../Page/東新住建.md "wikilink") CMソング \[55\]                                                                                       |
+| Star overhead                                                                                                                     | 「フリクリ」サウンドトラックFooL on CooL generation収録   | 劇場版『フリクリ オルタナ』主題歌                                                                                                                     |
+| Spiky Seeds                                                                                                                       | 「フリクリ」サウンドトラックFooL on CooL generation収録   | 劇場版『フリクリ プログレ』主題歌                                                                                                                     |
+| 眩しい闇のメロディー                                                                                                                        | 22ndアルバム『REBROADCAST』収録                   | 映画『[純平、考え直せ](https://ja.wikipedia.org/wiki/純平、考え直せ "wikilink")』主題歌                                                                    |
+| Happy Go Ducky\!                                                                                                                  | 39thシングル                                  | アニメ『[あひるの空](../Page/あひるの空.md "wikilink")』オープニングテーマ                                                                                    |
 
 ### カバー曲
 
@@ -1498,7 +1498,7 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 <tr class="odd">
 <td><p>Good Dreams</p></td>
 <td><p><a href="../Page/トリビュート・アルバム.md" title="wikilink">トリビュート・アルバム</a>『RESPECTABLE ROOSTERS-a tribute to the roosters-』収録</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルースターズ" title="wikilink">ルースターズ</a>のカバー</p></td>
+<td><p><a href="../Page/ルースターズ.md" title="wikilink">ルースターズ</a>のカバー</p></td>
 </tr>
 <tr class="even">
 <td><p>1.2.3.4.5.6.7 DAYS A WEEK</p></td>
@@ -1788,7 +1788,7 @@ DVD:QEBD-10001（BUMP-060）</p></td>
       - 08月11日・12日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2007
       - 08月18日 - RISING SUN ROCK FESTIVAL 2007 in EZO
       - 08月26日 - [Sky Jamboree](https://ja.wikipedia.org/wiki/Sky_Jamboree "wikilink") 2007 ～遊び心～
-      - 10月22日 - [ELLEGARDEN](https://ja.wikipedia.org/wiki/ELLEGARDEN "wikilink") TOUR 2007
+      - 10月22日 - [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink") TOUR 2007
   - 2008年
       - 04月26日 - ARABAKI ROCK FEST.08
       - 07月20日 - [ap bank](https://ja.wikipedia.org/wiki/ap_bank "wikilink") fes '08
@@ -1847,7 +1847,7 @@ DVD:QEBD-10001（BUMP-060）</p></td>
       - 10月31日 - [上智大学](../Page/上智大学.md "wikilink")四谷キャンパス ソフィア祭2014
       - 11月12日・13日 - Que20th記念 2DAYS series OPERATION Que HATACHI 「1期・2期さえも分かるヤツだけが来ーい\!」
   - 2015年
-      - 04月19日 - [音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")LIVE 2015 ローリング・サンダー・レビュー
+      - 04月19日 - [音楽と人](../Page/音楽と人.md "wikilink")LIVE 2015 ローリング・サンダー・レビュー
       - 04月26日 - ARABAKI ROCK FEST.15
       - 07月08日 - 髭 presents ファニーバニー\! とテキーラ\! テキーラ\!
       - 08月31日 - UEda KENji 50th.BIRTHDAY FESTIVAL～Band night～
@@ -1900,8 +1900,8 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 ## 書籍
 
   - ザ・ピロウズ ハイブリッド レインボウ（2009年9月15日、USEN）the pillows結成20周年、完全ヒストリーブック
-      - 2019年10月23日、[音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")より再発売、内容は上記のUSEN版と同じ。
-  - ザ・ピロウズ ハイブリッドレインボウ2（2019年10月23日、[音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")）the pillows結成30周年、ヒストリーブック第2弾
+      - 2019年10月23日、[音楽と人](../Page/音楽と人.md "wikilink")より再発売、内容は上記のUSEN版と同じ。
+  - ザ・ピロウズ ハイブリッドレインボウ2（2019年10月23日、[音楽と人](../Page/音楽と人.md "wikilink")）the pillows結成30周年、ヒストリーブック第2弾
 
 ## 関連アーティスト
 
@@ -1951,12 +1951,12 @@ DVD:QEBD-10001（BUMP-060）</p></td>
 4.  「[the pillows](http://www.delicious-label.com/pillows.html)」.[DELICIOUS LABEL](../Page/DELICIOUS_LABEL.md "wikilink").（参照：2009年3月17日）
 5.
 6.
-7.  ほかには、一度は決まりかけたという「ブレーメン」や[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")の[増子直純](https://ja.wikipedia.org/wiki/増子直純 "wikilink")発案による「White」と「Why」をかけた「ホワイツ」などが候補に挙がったという（「MTV STYLUS」.90'S MY LIFE returns.[MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink").2007年4月25日.（[ダイジェスト版](http://www.mtvjapan.com/music/feature/stylus/repo04.html)）（参照：2009年3月17日））。
+7.  ほかには、一度は決まりかけたという「ブレーメン」や[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")の[増子直純](https://ja.wikipedia.org/wiki/増子直純 "wikilink")発案による「White」と「Why」をかけた「ホワイツ」などが候補に挙がったという（「MTV STYLUS」.90'S MY LIFE returns.[MTVジャパン](../Page/MTVジャパン.md "wikilink").2007年4月25日.（[ダイジェスト版](http://www.mtvjapan.com/music/feature/stylus/repo04.html)）（参照：2009年3月17日））。
 8.
 9.  2005年秋にシングル「ノンフィクション」、「サード アイ」とDVD『DELICIOUS BUMP TOUR IN USA』の初回盤に付属する応募券をすべて集めると、応募者全員バンド名にちなんでオリジナル枕カバーをプレゼントするというキャンペーンを行った。
-10. 中村貴子（パーソナリティ）「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」[NHK-FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")、1998年3月3日.
+10. 中村貴子（パーソナリティ）「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")、1998年3月3日.
 11. 笹川清彦.「NOTES ABOUT TURN BACK\!」.『TURN BACK』[ライナーノーツ](../Page/ライナーノーツ.md "wikilink").2004年6月23日.
-12. 「[“永遠”なんてないと知りながら、“永遠”を願う。the pillows山中さわおがバンドの25年と未来を語る。](http://www.m-on.press/music/0000004613)」.[M-ON\! MUSIC](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")（参照：2015年6月11日）
+12. 「[“永遠”なんてないと知りながら、“永遠”を願う。the pillows山中さわおがバンドの25年と未来を語る。](http://www.m-on.press/music/0000004613)」.[M-ON\! MUSIC](../Page/MUSIC_ON!_TV.md "wikilink")（参照：2015年6月11日）
 13.
 14. 笹川清彦.『90'S MY LIFE returns』.ライナーノーツ.2004年3月8日.
 15. KENZI.「[BIOGRAPY](http://www.kentori.net/pc/biography/index.html)」.KENZI\&THE TRIPSオフィシャルサイト【KENTORI.NET】.（参照：2009年3月17日）

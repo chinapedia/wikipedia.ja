@@ -300,7 +300,7 @@
   - 金22:00、23:00 … 『[SCHOOL OF LOCK\! FRIDAY](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』
   - 土10:00 … 『[TOYOTA Athlete Beat](https://ja.wikipedia.org/wiki/TOYOTA_Athlete_Beat "wikilink")』
   - 土13:00 … 『[JA全農 COUNTDOWN JAPAN](https://ja.wikipedia.org/wiki/JA全農_COUNTDOWN_JAPAN "wikilink")』
-  - 土14:00 … 『[福山雅治 福のラジオ](https://ja.wikipedia.org/wiki/福山雅治_福のラジオ "wikilink")』
+  - 土14:00 … 『[福山雅治 福のラジオ](../Page/福山雅治_福のラジオ.md "wikilink")』
   - 土15:00 … 『[COSMO POPS STATION](https://ja.wikipedia.org/wiki/COSMO_POPS_STATION "wikilink")』
   - 土15:30 … 『[東京海上日動 Challenge Stories 〜人生は、挑戦であふれている〜](https://ja.wikipedia.org/wiki/東京海上日動_Challenge_Stories_〜人生は、挑戦であふれている〜 "wikilink")』
   - 土16:00 … 『[KIRIN BEER "Good Luck" LIVE](https://ja.wikipedia.org/wiki/KIRIN_BEER_"Good_Luck"_LIVE "wikilink")』
@@ -310,7 +310,7 @@
   - 日11:00 … 『[KOSE HEALING BLUE](https://ja.wikipedia.org/wiki/KOSE_HEALING_BLUE "wikilink")』
   - 日12:00 … 『[BUZZ FLAG](https://ja.wikipedia.org/wiki/BUZZ_FLAG "wikilink")』
   - 日13:00 … 『[ENEOS presents DREAMS COME TRUE 中村正人のENERGY for ALL](https://ja.wikipedia.org/wiki/DREAMS_COME_TRUE_中村正人の_ENERGY_for_ALL "wikilink")』\[12\]
-  - 日14:00 … 『[山下達郎のサンデー・ソングブック](https://ja.wikipedia.org/wiki/山下達郎のサンデー・ソングブック "wikilink")』\[13\]
+  - 日14:00 … 『[山下達郎のサンデー・ソングブック](../Page/山下達郎のサンデー・ソングブック.md "wikilink")』\[13\]
   - 日15:00 … 『[日本郵便 SUNDAY'S POST](https://ja.wikipedia.org/wiki/日本郵便_SUNDAY'S_POST "wikilink")』
   - 日16:00 … 『[ももいろクローバーZのSUZUKI ハッピー・クローバー\!](https://ja.wikipedia.org/wiki/ももいろクローバーZのSUZUKI_ハッピー・クローバー! "wikilink")』
   - 日17:00 … 『[NISSAN あ、安部礼司〜BEYOND THE AVERAGE](../Page/NISSAN_あ、安部礼司〜BEYOND_THE_AVERAGE.md "wikilink")』

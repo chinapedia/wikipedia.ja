@@ -19,7 +19,7 @@
 
 ## 関連項目
 
-  - [連邦美術計画](https://ja.wikipedia.org/wiki/連邦美術計画 "wikilink")
+  - [連邦美術計画](../Page/連邦美術計画.md "wikilink")
 
 ## 外部サイト
 

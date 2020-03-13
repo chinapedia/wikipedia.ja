@@ -9,7 +9,7 @@
 
 ### フジテレビ系列時代
 
-  - 1977年10月から1980年頃まで[ホルスト作曲の](../Page/グスターヴ・ホルスト.md "wikilink")[クラシック](../Page/クラシック音楽.md "wikilink")[音楽](../Page/音楽.md "wikilink")（「交響曲『[惑星](../Page/惑星_\(組曲\).md "wikilink")』より組曲第4番「木星」- 快楽の神 -」 のイントロとアウトロ（OPとEDで使用。この曲名の別表記名義は「新世界」。ちなみに間奏曲は[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")の[日本語](../Page/日本語.md "wikilink")歌詞楽曲カバー曲でお馴染みの『[Jupiter](../Page/Jupiter_\(平原綾香の曲\).md "wikilink")』である）。同局がフジ系列時代に放映経験していた『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』の1コーナー「[ひょうきんニュース](https://ja.wikipedia.org/wiki/オレたちひょうきん族のコーナー一覧 "wikilink")」のOPとEDでも同名のイントロ・アウトロ曲を使用していた。）をBGMに、オープニングは画面左に電波のイメージアニメ（エンディングも同じ）、右にまず県内の[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")の通行人や建物、報道カメラ、テレビモニターの順番で写したのち、「\[ y \]」マークのYTS社章（シンボルロゴ）の表記と番組名が出て[提供クレジット](../Page/提供クレジット.md "wikilink")を表記→再び提供クレジットの表記と「END」が出て、もう一度「\[ y \]」マーク社章と、番組名の表記をエンディングにて表記という形を取っていた。
+  - 1977年10月から1980年頃まで[ホルスト作曲の](../Page/グスターヴ・ホルスト.md "wikilink")[クラシック](../Page/クラシック音楽.md "wikilink")[音楽](../Page/音楽.md "wikilink")（「交響曲『[惑星](../Page/惑星_\(組曲\).md "wikilink")』より組曲第4番「木星」- 快楽の神 -」 のイントロとアウトロ（OPとEDで使用。この曲名の別表記名義は「新世界」。ちなみに間奏曲は[平原綾香](https://ja.wikipedia.org/wiki/平原綾香 "wikilink")の[日本語](../Page/日本語.md "wikilink")歌詞楽曲カバー曲でお馴染みの『[Jupiter](../Page/Jupiter_\(平原綾香の曲\).md "wikilink")』である）。同局がフジ系列時代に放映経験していた『[オレたちひょうきん族](../Page/オレたちひょうきん族.md "wikilink")』の1コーナー「[ひょうきんニュース](https://ja.wikipedia.org/wiki/オレたちひょうきん族のコーナー一覧 "wikilink")」のOPとEDでも同名のイントロ・アウトロ曲を使用していた。）をBGMに、オープニングは画面左に電波のイメージアニメ（エンディングも同じ）、右にまず県内の[エキストラ](../Page/エキストラ.md "wikilink")の通行人や建物、報道カメラ、テレビモニターの順番で写したのち、「\[ y \]」マークのYTS社章（シンボルロゴ）の表記と番組名が出て[提供クレジット](../Page/提供クレジット.md "wikilink")を表記→再び提供クレジットの表記と「END」が出て、もう一度「\[ y \]」マーク社章と、番組名の表記をエンディングにて表記という形を取っていた。
   - その後、1980年頃から1984年9月までは、自動車道路の映像→取材ヘリコプターが旋回し、そこにタイトル。その後カメラがクローズアップされ、[提供クレジット](../Page/提供クレジット.md "wikilink")が表示。エンディングはそのカメラから上空に向かうヘリコプターを写して終わりというものだった。
       - また、全国ニュース際は『FNNニュース』として放送され、1978年から1982年までは[フジテレビと同様](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、電波の波をイメージした画像からFNNの文字がズームアップし、直後ズームダウンして左上に波文字となり画面の端から光が放たれて中央から「ニュース」の文字が現れるもの。
       - 後期には直線ラインを富士山風にイメージし、カラーボールがたくさん発射→キラキラ星状の光が出てFNNがズームイン→「FNN（上）ニュース（下）」の文字が上から下にストライプしながら現れるタイプ。フジが使用を終了した1983年から1984年9月まで使用された。
@@ -39,14 +39,14 @@
 ## 関連項目・番組
 
   - [YTSお昼のN天ステーション](../Page/YTSお昼のN天ステーション.md "wikilink")
-  - [YTSイブニングワイド](https://ja.wikipedia.org/wiki/YTSイブニングワイド "wikilink")
-  - [YTSテレビ夕刊](https://ja.wikipedia.org/wiki/YTSテレビ夕刊 "wikilink")
-  - [YTSニュースワイド60](https://ja.wikipedia.org/wiki/YTSニュースワイド60 "wikilink")
+  - [YTSイブニングワイド](../Page/YTSイブニングワイド.md "wikilink")
+  - [YTSテレビ夕刊](../Page/YTSテレビ夕刊.md "wikilink")
+  - [YTSニュースワイド60](../Page/YTSニュースワイド60.md "wikilink")
   - [YTSニュース スーパータイム](../Page/YTSニュース_スーパータイム.md "wikilink")
   - [YTS夕やけステーション](../Page/YTS夕やけステーション.md "wikilink")
-  - [YTSステーションEYE](https://ja.wikipedia.org/wiki/YTSステーションEYE "wikilink")
+  - [YTSステーションEYE](../Page/YTSステーションEYE.md "wikilink")
   - [情報わいど YTSゴジダス](https://ja.wikipedia.org/wiki/情報わいど_YTSゴジダス "wikilink")
-  - [スーパーJチャンネルYTSゴジダス](https://ja.wikipedia.org/wiki/スーパーJチャンネルYTSゴジダス "wikilink")
+  - [スーパーJチャンネルYTSゴジダス](../Page/スーパーJチャンネルYTSゴジダス.md "wikilink")
   - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
 
 ## 外部リンク

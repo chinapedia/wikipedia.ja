@@ -17,7 +17,7 @@
 
   - [Secure Shell](../Page/Secure_Shell.md "wikilink")
 
-      - [OpenSSH](https://ja.wikipedia.org/wiki/OpenSSH "wikilink")
+      - [OpenSSH](../Page/OpenSSH.md "wikilink")
       - [RLogin](https://ja.wikipedia.org/wiki/RLogin "wikilink")
       - [PuTTY](../Page/PuTTY.md "wikilink")
       - [Poderosa](../Page/Poderosa.md "wikilink")

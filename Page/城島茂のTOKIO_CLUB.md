@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1992年](../Page/1992年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")放送開始。当初の番組名は『**TOKIO CLUB**（トキオクラブ）』で、[TOKIO](../Page/TOKIO.md "wikilink")のメンバー全員で[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")からパーソナリティがリーダーの[城島茂](../Page/城島茂.md "wikilink")一人となり、『城島茂のTOKIO CLUB』に改題。同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは当番組をJRN各局でネットするようになった。番組の最後にTOKIOメンバーの出演情報を紹介するなどしていた。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送を終了し、同年4月からは別枠で『[城島茂のどっち派?\!](../Page/城島茂のどっち派?!.md "wikilink")』がスタートした。
+[1992年](../Page/1992年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")放送開始。当初の番組名は『**TOKIO CLUB**（トキオクラブ）』で、[TOKIO](../Page/TOKIO.md "wikilink")のメンバー全員で[パーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")からパーソナリティがリーダーの[城島茂](../Page/城島茂.md "wikilink")一人となり、『城島茂のTOKIO CLUB』に改題。同年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")からは当番組をJRN各局でネットするようになった。番組の最後にTOKIOメンバーの出演情報を紹介するなどしていた。[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送を終了し、同年4月からは別枠で『[城島茂のどっち派?\!](../Page/城島茂のどっち派?!.md "wikilink")』がスタートした。
 
 オープニング及びCM前後のジングルで[沢田研二](../Page/沢田研二.md "wikilink")「[TOKIO](../Page/TOKIO_\(沢田研二の曲\).md "wikilink")」のイントロ、エンディングでは「ONE NIGHT MAGICIAN」（デビュー前の未CD化楽曲）が使われた。
 

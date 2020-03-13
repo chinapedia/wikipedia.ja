@@ -27,7 +27,7 @@
   - *You know Willie* (1957) 「変身」
       - [吉田誠一](https://ja.wikipedia.org/wiki/吉田誠一 "wikilink")訳、創元推理文庫『SFベスト・オブ・ザ・ベスト（下）』(1976)に収録
   - *Limiting Factor* (1954) 「スーパーマンはつらい」
-      - [浅倉久志](https://ja.wikipedia.org/wiki/浅倉久志 "wikilink")訳、文化出版局『救命艇の叛乱』(1975)に収録
+      - [浅倉久志](../Page/浅倉久志.md "wikilink")訳、文化出版局『救命艇の叛乱』(1975)に収録
       - 同上、国書刊行会『グラックの卵』(2006)に収録
   - *Threesie* (1955) 「スリージー」
       - [浜野アキオ](https://ja.wikipedia.org/wiki/浜野アキオ "wikilink")訳、ちくま文庫『天使と悪魔の物語』(1995)に収録

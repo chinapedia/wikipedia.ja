@@ -1,11 +1,11 @@
 > この記事は[BEST ALBUM 2001-2003](https://ja.wikipedia.org/wiki/BEST_ALBUM_2001-2003)から翻訳されています。
 
 
-**BEST ALBUM 2001-2003**（ベストアルバム にせんいち・にせんさん）は、[2003年](../Page/2003年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に発売された、[KICK THE CAN CREWの](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")[メジャー初の](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。
+**BEST ALBUM 2001-2003**（ベストアルバム にせんいち・にせんさん）は、[2003年](../Page/2003年.md "wikilink")[11月19日](../Page/11月19日.md "wikilink")に発売された、[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[メジャー初の](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。
 
 ## 概要
 
-  - 完全生産限定盤でCDとDVDの2枚組仕様。Disc1は[CD](../Page/コンパクトディスク.md "wikilink")、Disc2は収録曲9曲の[PVとおまけ映像の収録された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[DVD](../Page/DVD-Video.md "wikilink")。
+  - 完全生産限定盤でCDとDVDの2枚組仕様。Disc1は[CD](../Page/コンパクトディスク.md "wikilink")、Disc2は収録曲9曲の[PVとおまけ映像の収録された](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD-Video.md "wikilink")。
 
 ## 収録曲
 

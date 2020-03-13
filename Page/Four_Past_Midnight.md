@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - ランゴリアーズ - FOUR PAST MIDNIGHT I（[文春文庫](https://ja.wikipedia.org/wiki/文春文庫 "wikilink")）
+  - ランゴリアーズ - FOUR PAST MIDNIGHT I（[文春文庫](../Page/文春文庫.md "wikilink")）
 
 <!-- end list -->
 

@@ -8,7 +8,7 @@
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりデビュー。同年7月21日にファーストシングル『軌跡』を発売する。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、ファーストアルバム『胎動』を発売する。
   - [2003年](../Page/2003年.md "wikilink")、シングル「三昧」を発売する。これ以降は2009年に全曲インストアルバム「night canoe」を発売した事以外は単独の活動がほぼ無く、暫くは作品の発表が途絶える事となる。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")、[Keyco](https://ja.wikipedia.org/wiki/Keyco "wikilink")とのプロジェクト[Fuuri](../Page/Fuuri.md "wikilink")で幅広いジャンルの音でサウンドプロデュースする。
+  - [2006年](../Page/2006年.md "wikilink")、[Keyco](../Page/Keyco.md "wikilink")とのプロジェクト[Fuuri](../Page/Fuuri.md "wikilink")で幅広いジャンルの音でサウンドプロデュースする。
   - [2014年](../Page/2014年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")、単独名義では実に5年ぶりとなるアルバム『COMPLETED TUNING』を発売する。これ以降は単独で作品を発表する事が多くなっていく。
   - [2015年](../Page/2015年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")、アルバム『拓く人』を発売する。
   - [2016年](../Page/2016年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")、[ポチョムキン](../Page/ポチョムキン_\(ラッパー\).md "wikilink")（[餓鬼レンジャー](https://ja.wikipedia.org/wiki/餓鬼レンジャー "wikilink")）と共に結成したユニット「鶴亀サウンド」名義でアルバム「AWAKENING」を発売する。
@@ -78,8 +78,8 @@
 ### 参加楽曲
 
   - 「FOREVER」DJ TONK feat. AKEEM, LIBRO, HILL THE IQ, [CO-KEY](../Page/CO-KEY.md "wikilink")『Reincarnation』(2000年3月30日)
-  - 「サタデイ feat. [CO-KEY](../Page/CO-KEY.md "wikilink") & LIBRO」[Keyco](https://ja.wikipedia.org/wiki/Keyco "wikilink")『Keyco』(2000年11月8日)
-  - 「HIGH & LOW feat. LIBRO」[Keyco](https://ja.wikipedia.org/wiki/Keyco "wikilink")『SEVEN』 (2004年6月30日)
+  - 「サタデイ feat. [CO-KEY](../Page/CO-KEY.md "wikilink") & LIBRO」[Keyco](../Page/Keyco.md "wikilink")『Keyco』(2000年11月8日)
+  - 「HIGH & LOW feat. LIBRO」[Keyco](../Page/Keyco.md "wikilink")『SEVEN』 (2004年6月30日)
   - 「SUKIKATTE feat. DOGMA, [漢 a.k.a. GAMI](https://ja.wikipedia.org/wiki/漢_\(ミュージシャン\) "wikilink"), LIBRO」PONY　『PONY EP』(2014年11月26日)
   - 「Raindrops(Album Ver.)」餓鬼レンジャー『祭事』(2015年9月16日)
   - 「アメノウキハシ」Laugh(2017年4月16日)
@@ -96,7 +96,7 @@
 
 ### 楽曲提供
 
-  - 「新時代」 [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink") 『ラッパ我リヤ伝説』 （2000年7月19日）
+  - 「新時代」 [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink") 『ラッパ我リヤ伝説』 （2000年7月19日）
   - 「YES Feat. CO-KEY」　HILL 『YES』　（2002年4月26日）
   - 「SKIT」「BYE BYE COOKIE MAN」 山仁 『クッキーマン』 (2008年10月10日)
   - 「Easy Like Sunday Morning」 KLOOZ (2011年1月16日)
@@ -124,7 +124,7 @@
   - 「マジでハイ」　梅田サイファー『NEVER GET OLD』 (2019年1月23日)
   - 「キューバ・リブレ feat. Mummy-D, RYO-Z, LIBRO & DABO」　餓鬼レンジャー 『ティンカーベル　〜ネバーランドの妖精たち〜』(2019年4月3日)
   - 「夢で逢いましょう　feat. 鶴亀サウンド」　餓鬼レンジャー 『ティンカーベル　〜ネバーランドの妖精たち〜』(2019年4月3日)
-  - 「2015」 [崇勲](https://ja.wikipedia.org/wiki/崇勲 "wikilink")　『素通り』 (2019年5月29日)
+  - 「2015」 [崇勲](../Page/崇勲.md "wikilink")　『素通り』 (2019年5月29日)
   - 「Check My Style」 MU-TON　(2019年10月03日)
 
 <!-- end list -->
@@ -135,7 +135,7 @@
 #### リミックス
 
   - 「FOREVER (LIBRO Remix)」　DJ TONK feat. AKEEM, LIBRO, HILL THE IQ, [CO-KEY](../Page/CO-KEY.md "wikilink")　『REINCARNATED SOLDIERS』　（2000年11月30日）
-  - 「FAMILY (FIRST LIGHT MIX)」　 [Keyco](https://ja.wikipedia.org/wiki/Keyco "wikilink")　『IMPRESSIONS』　（2002年11月13日）
+  - 「FAMILY (FIRST LIGHT MIX)」　 [Keyco](../Page/Keyco.md "wikilink")　『IMPRESSIONS』　（2002年11月13日）
   - 「All Night (Libro Remix) feat. The Procussions」　DJ TONK　『SPACE TRAVELERS』　（2008年5月28日）
   - 「Innervision (Libro Remix) feat. Kero One」　DJ TONK　『SPACE TRAVELERS』　（2008年5月28日）
   - 「ENTER MY DREAM （LIBRO REMIX）」　 キリコ （2010年9月8日）

@@ -1,15 +1,15 @@
 > この記事は[NEWS C-master](https://ja.wikipedia.org/wiki/NEWS_C-master)から翻訳されています。
 
 
-『**NEWS C-master**』（ニュース シーマスター）は、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")の[独立UHF局](../Page/全国独立放送協議会.md "wikilink")・[千葉テレビ放送](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")(チバテレ)にて、[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで毎週[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の21:00- 21:55枠（[マリーンズナイター実施の時は](../Page/CTCマリーンズナイター.md "wikilink")21:30から）にて放送されていた、夜の[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")である。
+『**NEWS C-master**』（ニュース シーマスター）は、[千葉県](../Page/千葉県.md "wikilink")の[独立UHF局](../Page/全国独立放送協議会.md "wikilink")・[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")(チバテレ)にて、[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで毎週[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の21:00- 21:55枠（[マリーンズナイター実施の時は](../Page/CTCマリーンズナイター.md "wikilink")21:30から）にて放送されていた、夜の[ローカルニュース番組](https://ja.wikipedia.org/wiki/ローカルニュース番組 "wikilink")である。
 
 ## 概要
 
-それまで21:00（以下全て[日本時間](../Page/日本標準時.md "wikilink")）から放送されていた地域情報番組『[JUST 9 Information](https://ja.wikipedia.org/wiki/JUST_9_Information "wikilink")』と21:30から放送されていた報道番組『[CTCニュース 930ライフ](https://ja.wikipedia.org/wiki/CTCニュース_930ライフ "wikilink")』を融合して時間枠を拡大し『**ニュースC-master**』としてリニューアル[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")内の[ニュース](../Page/ニュース.md "wikilink")や生活・スポット情報を提供している。なお、放送開始当初から正式番組名の頭にチバテレビの略称である**CTC**の3文字は付記されていない。
+それまで21:00（以下全て[日本時間](../Page/日本標準時.md "wikilink")）から放送されていた地域情報番組『[JUST 9 Information](https://ja.wikipedia.org/wiki/JUST_9_Information "wikilink")』と21:30から放送されていた報道番組『[CTCニュース 930ライフ](https://ja.wikipedia.org/wiki/CTCニュース_930ライフ "wikilink")』を融合して時間枠を拡大し『**ニュースC-master**』としてリニューアル[千葉県](../Page/千葉県.md "wikilink")内の[ニュース](../Page/ニュース.md "wikilink")や生活・スポット情報を提供している。なお、放送開始当初から正式番組名の頭にチバテレビの略称である**CTC**の3文字は付記されていない。
 
 『マリーンズナイター』実施日の場合、番組のコーナーはほぼ県内ニュース・スポーツ・天気予報に集約される。ちなみに本番組開始後もロッテの試合が続いている場合、[千葉マリンスタジアム](../Page/千葉マリンスタジアム.md "wikilink")へ中継することがある。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")5月から大文字表記の『**ニュースC-MASTER**』と改められる（テーマ曲も変更）。更に2007年10月からは現在の『**NEWS C-master**』と、全て英語表記になった（ロゴの右側に千葉県の形を●の集合で表現したものも表示）。テーマ曲も再度一新している（『Tidal wave warning』 演奏：徳田雄一郎 クインテット）。ただしCM前のBGMのみ前代から引き続き使用されている。
+[2005年](../Page/2005年.md "wikilink")5月から大文字表記の『**ニュースC-MASTER**』と改められる（テーマ曲も変更）。更に2007年10月からは現在の『**NEWS C-master**』と、全て英語表記になった（ロゴの右側に千葉県の形を●の集合で表現したものも表示）。テーマ曲も再度一新している（『Tidal wave warning』 演奏：徳田雄一郎 クインテット）。ただしCM前のBGMのみ前代から引き続き使用されている。
 
 なお、以前の番組告知CMにおいては、『**全国のニュースは他の局でご覧下さい。でも、県内の出来事・生活密着情報は**』と銘打っているものがあった（他にも司会者が挨拶するもの、海をバックにBGMが流れるものの2パターンがあった）。ただ、この番組でも全国のニュースをフラッシュで放送している。
 
@@ -22,7 +22,7 @@
 ### 総合司会
 
   - [山口亜紀](../Page/山口亜紀.md "wikilink") （2004年4月 - 2006年9月）
-  - [一瀬友里](https://ja.wikipedia.org/wiki/一瀬友里 "wikilink") （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 2009年3月：月・火曜担当 ）
+  - [一瀬友里](https://ja.wikipedia.org/wiki/一瀬友里 "wikilink") （[2006年](../Page/2006年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 2009年3月：月・火曜担当 ）
   - [きゃんひとみ](../Page/きゃんひとみ.md "wikilink") （2006年10月 - 2009年3月：水～金曜担当 ）
 
 ### サブ司会

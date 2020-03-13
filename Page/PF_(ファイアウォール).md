@@ -11,9 +11,9 @@ PFが作成されたのは、Darren Reedが作った[IPFilter](https://ja.wikipe
 
 [IPFilter](https://ja.wikipedia.org/wiki/IPFilter "wikilink")が削除されたとき、[テオ・デ・ラート](../Page/テオ・デ・ラート.md "wikilink")は「OpenBSDが使ったり配布したりするソフトウェアはあらゆることに対して自由でなくてはならない。...そして、それはどんな目的に対してでも自由であるべきだ...その目的が改変、利用、漏洩、子供の根囲いをする機械やオーストラリアに落とされる核爆弾に対する実装であったとしても」と語った。このことからもわかるように、OpenBSD開発者チームはこの手の問題に対して無駄な交渉を続けていくよりも、ソフトウェアを置き換えることを選ぶ。
 
-現在、PFはOpenBSDだけでなく、[NetBSD](../Page/NetBSD.md "wikilink")や[FreeBSD](../Page/FreeBSD.md "wikilink")、[DragonFly BSDでも利用することが出来る](https://ja.wikipedia.org/wiki/DragonFly_BSD "wikilink")。また、[Windowsでも](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Core forceという名前でOpenBSDの実装を使うことが出来る](https://ja.wikipedia.org/wiki/Core_force "wikilink")。
+現在、PFはOpenBSDだけでなく、[NetBSD](../Page/NetBSD.md "wikilink")や[FreeBSD](../Page/FreeBSD.md "wikilink")、[DragonFly BSDでも利用することが出来る](../Page/DragonFly_BSD.md "wikilink")。また、[Windowsでも](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Core forceという名前でOpenBSDの実装を使うことが出来る](https://ja.wikipedia.org/wiki/Core_force "wikilink")。
 
-PFは、他の[ファイアウォール](../Page/ファイアウォール.md "wikilink")に無い利点を持つ。PFを使って[ネットワークアドレス変換](../Page/ネットワークアドレス変換.md "wikilink") (NAT) や[Quality of Service](https://ja.wikipedia.org/wiki/Quality_of_Service "wikilink") (QoS) 制御を行うことが出来る。なお、QoS制御はキューイング機構である[ALTQ](https://ja.wikipedia.org/wiki/ALTQ "wikilink")で実装されており、PFの設定で指定することで利用できるようになる。
+PFは、他の[ファイアウォール](../Page/ファイアウォール.md "wikilink")に無い利点を持つ。PFを使って[ネットワークアドレス変換](../Page/ネットワークアドレス変換.md "wikilink") (NAT) や[Quality of Service](../Page/Quality_of_Service.md "wikilink") (QoS) 制御を行うことが出来る。なお、QoS制御はキューイング機構である[ALTQ](https://ja.wikipedia.org/wiki/ALTQ "wikilink")で実装されており、PFの設定で指定することで利用できるようになる。
 
 また、PFでは[pfsync](https://ja.wikipedia.org/wiki/pfsync "wikilink")や[CARPという](https://ja.wikipedia.org/wiki/Common_Address_Redundancy_Protocol "wikilink")[フェイルオーバー](https://ja.wikipedia.org/wiki/フェイルオーバー "wikilink")や冗長化のための機構や、authpfというセッション認証の機構、ftp-proxyというファイアウォールで扱いにくいプロトコルであるFTPを扱うための機構を使うことが出来る。
 

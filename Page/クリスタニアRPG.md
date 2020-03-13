@@ -1,7 +1,7 @@
 > この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
 
 
-**クリスタニアRPG**は、[ファンタジー](../Page/ファンタジー.md "wikilink")世界のクリスタニア大陸において[獣人](../Page/獣人.md "wikilink")となって遊ぶ[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。[グループSNE](../Page/グループSNE.md "wikilink")がデザインしており（世界デザインは[水野良](../Page/水野良.md "wikilink")）、[角川書店](../Page/角川書店.md "wikilink")および[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")から出版された。
+**クリスタニアRPG**は、[ファンタジー](../Page/ファンタジー.md "wikilink")世界のクリスタニア大陸において[獣人](../Page/獣人.md "wikilink")となって遊ぶ[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。[グループSNE](../Page/グループSNE.md "wikilink")がデザインしており（世界デザインは[水野良](../Page/水野良.md "wikilink")）、[角川書店](../Page/角川書店.md "wikilink")および[メディアワークス](../Page/メディアワークス.md "wikilink")から出版された。
 
 クリスタニア大陸は[フォーセリア](../Page/フォーセリア.md "wikilink")世界の一部である。しかし、[ロードス島RPG](https://ja.wikipedia.org/wiki/ロードス島RPG "wikilink")や[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")とは、時代や場所などが隔絶している。
 
@@ -39,7 +39,7 @@
 
 ### 行為判定
 
-[行為判定](https://ja.wikipedia.org/wiki/行為判定 "wikilink")システムは、基本的には100[ダイス](../Page/サイコロ.md "wikilink")（1d100 または 2d10）による[パーセンテージロールであり](https://ja.wikipedia.org/wiki/行為判定#パーセンテージロール "wikilink")、修正を加えた目標値以下の値の出目が出ると成功となる。また、修正を加えた目標値の1/10以下（端数切捨て）の出目を出した場合は、[クリティカル](https://ja.wikipedia.org/wiki/行為判定#クリティカル "wikilink")（大成功）扱いとなる。修正後の目標値が9%以下であっても、01から10の出目は成功となり、01の出目は目標値が9%以下であってもクリティカルとなる。また逆に、00（100）の出目は、目標値が100%を超過していても[ファンブル](https://ja.wikipedia.org/wiki/行為判定#ファンブル "wikilink")（大失敗）となる。
+[行為判定](../Page/行為判定.md "wikilink")システムは、基本的には100[ダイス](../Page/サイコロ.md "wikilink")（1d100 または 2d10）による[パーセンテージロールであり](https://ja.wikipedia.org/wiki/行為判定#パーセンテージロール "wikilink")、修正を加えた目標値以下の値の出目が出ると成功となる。また、修正を加えた目標値の1/10以下（端数切捨て）の出目を出した場合は、[クリティカル](https://ja.wikipedia.org/wiki/行為判定#クリティカル "wikilink")（大成功）扱いとなる。修正後の目標値が9%以下であっても、01から10の出目は成功となり、01の出目は目標値が9%以下であってもクリティカルとなる。また逆に、00（100）の出目は、目標値が100%を超過していても[ファンブル](https://ja.wikipedia.org/wiki/行為判定#ファンブル "wikilink")（大失敗）となる。
 
 戦闘時の命中判定で大成功した場合は、与えるダメージが2倍になる。
 
@@ -71,13 +71,13 @@
 
 ### クリスタニアRPG
 
-[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")から出版された。プレイヤーブック、ゲームマスターブック、シナリオブックの3冊が箱入りで販売された。ISBN 978-4073010845。（[ブッキング](https://ja.wikipedia.org/wiki/ブッキング "wikilink")が、復刻出版している。1冊に合本してあり、内容は変わらない。ISBN 978-4835442372 。※エラッタ修正なし）
+[メディアワークス](../Page/メディアワークス.md "wikilink")から出版された。プレイヤーブック、ゲームマスターブック、シナリオブックの3冊が箱入りで販売された。ISBN 978-4073010845。（[ブッキング](../Page/ブッキング.md "wikilink")が、復刻出版している。1冊に合本してあり、内容は変わらない。ISBN 978-4835442372 。※エラッタ修正なし）
 
 クリスタニア コンパニオンをブラッシュアップしたものとなっている。対応するキャラクターのレベルは10レベル（最高レベル）までとなっている。
 
 ## リプレイ
 
-  - [コンプティーク](../Page/コンプティーク.md "wikilink")誌連載。後に[メディアワークス](https://ja.wikipedia.org/wiki/メディアワークス "wikilink")から出版。
+  - [コンプティーク](../Page/コンプティーク.md "wikilink")誌連載。後に[メディアワークス](../Page/メディアワークス.md "wikilink")から出版。
       - 漂流伝説クリスタニア ISBN 978-4073031086
       - 蟻帝伝説クリスタニア ISBN 978-4073054559
       - 黄金伝説クリスタニア ISBN 978-4073081463
@@ -89,7 +89,7 @@
 
 ## 関連項目
 
-  - [クリスタニア](https://ja.wikipedia.org/wiki/クリスタニア "wikilink")
+  - [クリスタニア](../Page/クリスタニア.md "wikilink")
   - [ロードス島RPG](https://ja.wikipedia.org/wiki/ロードス島RPG "wikilink")
   - [グループSNE](../Page/グループSNE.md "wikilink")
   - [水野良](../Page/水野良.md "wikilink")

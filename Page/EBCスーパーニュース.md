@@ -8,7 +8,7 @@
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")、『[EBCザ・ヒューマン FNN](../Page/FNNニュース555_ザ・ヒューマン.md "wikilink")』の後番組として『**EBCスーパーニュース FNN**』の題で放送を開始。
   - 週末版『**FNNスーパーニュースWEEKEND EBC**』は[2001年](../Page/2001年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")より放送している。
   - [2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")からは『スーパーニュース』第1部（ローカルセールス枠）のネットを開始し、それを『**一番出し\!スーパーニュース EBC**』と題して放送している。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までは夕方の[コンプレックス型情報ワイド](../Page/コンプレックス_\(番組形式\).md "wikilink")『[テレチュー2・5h](../Page/テレチュー2・5h.md "wikilink")』に内包した「コンプレックスのコンプレックス」として前半の『一番出し\!スーパーニュース EBC』が第2部、後半の『EBCスーパーニュース FNN』が第3部（実質的には『一番出し\!\!』と『EBCスーパーニュース』の前半・東京発の全国ニュース編（東京からのネット受け）までが第2部、『EBCスーパーニュース』後半・愛媛ローカル編が第3部）として位置づけられた。
+  - [2005年](../Page/2005年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")までは夕方の[コンプレックス型情報ワイド](../Page/コンプレックス_\(番組形式\).md "wikilink")『[テレチュー2・5h](../Page/テレチュー2・5h.md "wikilink")』に内包した「コンプレックスのコンプレックス」として前半の『一番出し\!スーパーニュース EBC』が第2部、後半の『EBCスーパーニュース FNN』が第3部（実質的には『一番出し\!\!』と『EBCスーパーニュース』の前半・東京発の全国ニュース編（東京からのネット受け）までが第2部、『EBCスーパーニュース』後半・愛媛ローカル編が第3部）として位置づけられた。
   - [2012年](../Page/2012年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")からは、第1部・第2部ともに『EBCスーパーニュース』と題して放送。同年[10月1日](../Page/10月1日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")4月1日までは放送開始を早めて16:48開始とし、16:50から『FNNスーパーニュース』をネットしていた。
 
 ## キャスター
@@ -29,7 +29,7 @@
 
 <!-- end list -->
 
-  - [滝沢雄一](https://ja.wikipedia.org/wiki/滝沢雄一 "wikilink")
+  - [滝沢雄一](../Page/滝沢雄一.md "wikilink")
 
 <!-- end list -->
 
@@ -53,11 +53,11 @@
 ### 過去
 
   - [岡本匡史](https://ja.wikipedia.org/wiki/岡本匡史 "wikilink")
-  - [橋本利恵](https://ja.wikipedia.org/wiki/橋本利恵 "wikilink")
+  - [橋本利恵](../Page/橋本利恵.md "wikilink")
   - [久保田夏菜](https://ja.wikipedia.org/wiki/久保田夏菜 "wikilink")
   - [土居寛親](https://ja.wikipedia.org/wiki/土居寛親 "wikilink")
   - [三好千博](https://ja.wikipedia.org/wiki/三好千博 "wikilink")
-  - [住田洋](https://ja.wikipedia.org/wiki/住田洋 "wikilink")
+  - [住田洋](../Page/住田洋.md "wikilink")
   - [川添永津子](../Page/川添永津子.md "wikilink")
   - [山田幸子](https://ja.wikipedia.org/wiki/山田幸子_\(アナウンサー\) "wikilink")
   - [石崎佳代子](../Page/石崎佳代子.md "wikilink")
@@ -68,7 +68,7 @@
   - [五十嵐利恵](https://ja.wikipedia.org/wiki/五十嵐利恵 "wikilink")
   - [高山景子](../Page/高山景子.md "wikilink")
   - [小林咲夏](../Page/小林咲夏.md "wikilink")
-  - [近藤鉄太郎](https://ja.wikipedia.org/wiki/近藤鉄太郎 "wikilink")
+  - [近藤鉄太郎](../Page/近藤鉄太郎.md "wikilink")
   - [西村裕美子](https://ja.wikipedia.org/wiki/西村裕美子 "wikilink")
   - [森川慎太郎](https://ja.wikipedia.org/wiki/森川慎太郎 "wikilink")
   - 東将太

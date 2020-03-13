@@ -6,24 +6,24 @@
 ## 概要
 
   - A.I.Rは"**Aiuchi Infinity Rina**"の略であり、同時に「空気」の意味も含まれている。「空気」、「無限」の2本柱をコンセプトにシングル曲を含む14曲を収録。
-  - 本作リリースと同日に自身の15thシングル「[空気](https://ja.wikipedia.org/wiki/空気_\(曲\) "wikilink")」、書籍「made in RINA 2003」がリリースされ、異例の3作品同時発売となり話題となる。
-  - 前作『[POWER OF WORDS](../Page/POWER_OF_WORDS.md "wikilink")』から連続でのオリコンチャート1位となり、本作の収録曲「[FULL JUMP](https://ja.wikipedia.org/wiki/FULL_JUMP "wikilink")」にて[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場した。
+  - 本作リリースと同日に自身の15thシングル「[空気](../Page/空気_\(曲\).md "wikilink")」、書籍「made in RINA 2003」がリリースされ、異例の3作品同時発売となり話題となる。
+  - 前作『[POWER OF WORDS](../Page/POWER_OF_WORDS.md "wikilink")』から連続でのオリコンチャート1位となり、本作の収録曲「[FULL JUMP](../Page/FULL_JUMP.md "wikilink")」にて[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場した。
   - オリコンのデイリーチャートでは「空気」と共に1位を獲得し、シングル・アルバム同時1位を達成した。
-  - 初回盤には『LOVE RINA』ロゴステッカー、および[スクリーンセーバー](https://ja.wikipedia.org/wiki/スクリーンセーバー "wikilink")・[壁紙](https://ja.wikipedia.org/wiki/壁紙 "wikilink")・[着声](https://ja.wikipedia.org/wiki/着声 "wikilink")をダウンロードできるサイトのパスワードが封入されている。
+  - 初回盤には『LOVE RINA』ロゴステッカー、および[スクリーンセーバー](../Page/スクリーンセーバー.md "wikilink")・[壁紙](../Page/壁紙.md "wikilink")・[着声](https://ja.wikipedia.org/wiki/着声 "wikilink")をダウンロードできるサイトのパスワードが封入されている。
 
 ## 収録曲
 
 1.  **∞ INFINITY**
-      - 作詞：愛内里菜 / 作曲：[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink") / 編曲：corin.
+      - 作詞：愛内里菜 / 作曲：[輝門](../Page/輝門.md "wikilink") / 編曲：corin.
     <!-- end list -->
       -
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")」エンディングテーマ。
-2.  **[FULL JUMP](https://ja.wikipedia.org/wiki/FULL_JUMP "wikilink")**
+2.  **[FULL JUMP](../Page/FULL_JUMP.md "wikilink")**
       - 作詞：愛内里菜 / 作曲：輝門 / 編曲：三輪緑
     <!-- end list -->
       -
         13thシングル。日本テレビ系野球中継「[THE BASEBALL 2003ワールドカップ](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")」 主題歌。
-3.  **[空気 -Album version-](https://ja.wikipedia.org/wiki/空気_\(曲\) "wikilink")**
+3.  **[空気 -Album version-](../Page/空気_\(曲\).md "wikilink")**
       - 作詞：愛内里菜 / 作曲：輝門 / 編曲：[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
     <!-- end list -->
       -
@@ -35,20 +35,20 @@
       -
         10thシングル「Sincerely Yours／Can you feel the POWER OF WORDS?」の1曲目。
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ザ・レターズ〜家族の愛にありがとう](../Page/ザ・レターズ〜家族の愛にありがとう.md "wikilink")」 挿入歌。
-5.  **[風のない海で抱きしめて](https://ja.wikipedia.org/wiki/風のない海で抱きしめて "wikilink")**
+5.  **[風のない海で抱きしめて](../Page/風のない海で抱きしめて.md "wikilink")**
       - 作詞：愛内里菜 / 作曲：輝門 / 編曲：AKIRA、池田大介
     <!-- end list -->
       -
         12thシングル。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ「[釣りバカ日誌](../Page/釣りバカ日誌.md "wikilink")」エンディングテーマ。
-6.  **[Over Shine](https://ja.wikipedia.org/wiki/Over_Shine "wikilink")**
-      - 作詞：愛内里菜 / 作曲：輝門 / 編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+6.  **[Over Shine](../Page/Over_Shine.md "wikilink")**
+      - 作詞：愛内里菜 / 作曲：輝門 / 編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -
         14thシングル。[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[三宅裕司のドシロウト](../Page/三宅裕司のドシロウト.md "wikilink")』エンディングテーマ。
         日本テレビ系『AX MUSIC-TV』AX POWER PLAY \#035
 7.  **NO NEEDS**
       - 作詞：愛内里菜 / 作曲：五大ゆり / 編曲：三輪緑
-8.  **[Deep Freeze](https://ja.wikipedia.org/wiki/Deep_Freeze "wikilink")**
+8.  **[Deep Freeze](../Page/Deep_Freeze.md "wikilink")**
       - 作詞：愛内里菜 / 作曲：輝門 / 編曲：AKIRA
     <!-- end list -->
       -
@@ -58,7 +58,7 @@
       - 作詞：愛内里菜 / 作曲：大野愛果 / 編曲：AKIRA
 10. **our sound**
       - 作詞：愛内里菜 / 作曲：corin. / 編曲：corin.
-11. **[CODE CRUSH](https://ja.wikipedia.org/wiki/Over_Shine "wikilink")**
+11. **[CODE CRUSH](../Page/Over_Shine.md "wikilink")**
       - 作詞：愛内里菜 / 作曲：五大ゆり / 編曲：corin.
     <!-- end list -->
       -

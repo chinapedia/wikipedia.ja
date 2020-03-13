@@ -1,7 +1,7 @@
 > この記事は[Timeless \(UVERworld\)](https://ja.wikipedia.org/wiki/Timeless_\(UVERworld\))から翻訳されています。
 
 
-『**Timeless**』（タイムレス）は、[UVERworld](../Page/UVERworld.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[2月15日](../Page/2月15日.md "wikilink")に[gr8\!recordsから発売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には、2006年[12月29日](../Page/12月29日.md "wikilink")までの期間限定で『Timeless(Special Edition)』も発売。
+『**Timeless**』（タイムレス）は、[UVERworld](../Page/UVERworld.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に[gr8\!recordsから発売された](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には、2006年[12月29日](../Page/12月29日.md "wikilink")までの期間限定で『Timeless(Special Edition)』も発売。
 
 ## 内容
 
@@ -67,7 +67,7 @@
 12. **SE**\[3:10\]
     :\***<small>作曲:UVERworld　/　編曲:UVERworld , 平出悟</small>**
       -
-        [器楽曲](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")に近い構成になっている、インストナンバー。ライブでの出囃子によく使われていたが、"UVERworld BUGRIGHT TOUR 2007"を最後に使われなくなり、次のライブからは殆ど3rdアルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』収録の「to the world (SE)」が使用されている。しかし、初の[日本武道館](../Page/日本武道館.md "wikilink")公演となる"<small>[POCARI SWEAT](https://ja.wikipedia.org/wiki/POCARI_SWEAT "wikilink") presents</small> UVERworld 2008 Premium Live at NIPPON BUDOKAN"と、同じく初の[大阪城ホール](../Page/大阪城ホール.md "wikilink")公演となる"<small>POCARI SWEAT presents</small> UVERworld 2008 Premium Live at OSAKA-JO HALL"ではライブの初めに「SE」が使用された。45秒目ほどに流れる「UVERworld」という声でファンは一気に盛り上がる。また、UVERworld初のライブDVD『[LIVE at SHIBUYA-AX from Timeless TOUR 2006](https://ja.wikipedia.org/wiki/LIVE_at_SHIBUYA-AX_from_Timeless_TOUR_2006 "wikilink")』や、6thシングル「[君の好きなうた](../Page/君の好きなうた.md "wikilink")」の初回生産限定版の付属DVD「2006 TOUR DOCUMENT」や、ネット配信限定の番組「UVER家のTV」の最初の放送の冒頭でよく流される曲でもある。歌詞は存在しない。このアルバムのボーナストラックである。
+        [器楽曲](../Page/器楽曲.md "wikilink")に近い構成になっている、インストナンバー。ライブでの出囃子によく使われていたが、"UVERworld BUGRIGHT TOUR 2007"を最後に使われなくなり、次のライブからは殆ど3rdアルバム『[PROGLUTION](https://ja.wikipedia.org/wiki/PROGLUTION "wikilink")』収録の「to the world (SE)」が使用されている。しかし、初の[日本武道館](../Page/日本武道館.md "wikilink")公演となる"<small>[POCARI SWEAT](https://ja.wikipedia.org/wiki/POCARI_SWEAT "wikilink") presents</small> UVERworld 2008 Premium Live at NIPPON BUDOKAN"と、同じく初の[大阪城ホール](../Page/大阪城ホール.md "wikilink")公演となる"<small>POCARI SWEAT presents</small> UVERworld 2008 Premium Live at OSAKA-JO HALL"ではライブの初めに「SE」が使用された。45秒目ほどに流れる「UVERworld」という声でファンは一気に盛り上がる。また、UVERworld初のライブDVD『[LIVE at SHIBUYA-AX from Timeless TOUR 2006](https://ja.wikipedia.org/wiki/LIVE_at_SHIBUYA-AX_from_Timeless_TOUR_2006 "wikilink")』や、6thシングル「[君の好きなうた](../Page/君の好きなうた.md "wikilink")」の初回生産限定版の付属DVD「2006 TOUR DOCUMENT」や、ネット配信限定の番組「UVER家のTV」の最初の放送の冒頭でよく流される曲でもある。歌詞は存在しない。このアルバムのボーナストラックである。
 13. **D-tecnoLife <small>(Album Version)</small>**\[4:33\]
     :\***<small>作詞:TAKUYA∞　/　作曲:TAKUYA∞　/　編曲:UVERworld , 平出悟</small>**
       -
@@ -75,7 +75,7 @@
 
 ## Timeless(Special Edition)
 
-2006年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には、2006年[12月29日](../Page/12月29日.md "wikilink")までの期間限定で、1stスタジオ・アルバム『Timeless』に収録された1stシングル「D-tecnoLife」から3rdシングル「just Melody」の[PVなどを収録したDVD付の完全版を発売](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。
+2006年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")には、2006年[12月29日](../Page/12月29日.md "wikilink")までの期間限定で、1stスタジオ・アルバム『Timeless』に収録された1stシングル「D-tecnoLife」から3rdシングル「just Melody」の[PVなどを収録したDVD付の完全版を発売](../Page/ミュージック・ビデオ.md "wikilink")。
 
 キャッチコピーは、『*デビューアルバムDVD付完全版！期間限定！*』
 
@@ -127,7 +127,7 @@
   - TAKUYA∞：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") & [Programming](../Page/デスクトップミュージック.md "wikilink")
   - 克哉：[Guitar](../Page/ギター.md "wikilink")
   - 彰：Guitar
-  - 信人：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 信人：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - 真太郎：[Drums](../Page/ドラムセット.md "wikilink")
 
 <!-- end list -->

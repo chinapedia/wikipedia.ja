@@ -1,7 +1,7 @@
 > この記事は[ DS](https://ja.wikipedia.org/wiki/_DS)から翻訳されています。
 
 
-**タッチで楽しむ百人一首 DS時雨殿**（タッチでたのしむひゃくにんいっしゅ ディーエスしぐれでん）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。
+**タッチで楽しむ百人一首 DS時雨殿**（タッチでたのしむひゃくにんいっしゅ ディーエスしぐれでん）は、[2006年](../Page/2006年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。
 
 [時雨殿](../Page/時雨殿.md "wikilink")のアトラクションをベースに、[小倉百人一首](https://ja.wikipedia.org/wiki/小倉百人一首 "wikilink")の歌人たちと対戦するモードや和歌の暗記トレーニング、京都における名所、歌枕や歌人ゆかりの地をナビゲーションする「ちどりの京案内」などのモードが収録されている。
 
@@ -18,7 +18,7 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [蝉丸](https://ja.wikipedia.org/wiki/蝉丸 "wikilink")
+  - [蝉丸](../Page/蝉丸.md "wikilink")
 
 </div>
 
@@ -88,7 +88,7 @@
   -
     実際に取り札を用意し、DS本体にランダムで札を詠み上げさせる。
   - ちどりの京案内
-    京都市内の百人一首にちなむ歌枕や名所の観光案内。タッチペンで行程を指示すると徒歩で移動した場合の距離や時間・消費カロリーを計算する機能が搭載されている。[昭文社](https://ja.wikipedia.org/wiki/昭文社 "wikilink")・[まっぷる](https://ja.wikipedia.org/wiki/まっぷる "wikilink")のデータを使用。
+    京都市内の百人一首にちなむ歌枕や名所の観光案内。タッチペンで行程を指示すると徒歩で移動した場合の距離や時間・消費カロリーを計算する機能が搭載されている。[昭文社](../Page/昭文社.md "wikilink")・[まっぷる](https://ja.wikipedia.org/wiki/まっぷる "wikilink")のデータを使用。
 
 ## タッチで覚える百人一首 ちょっとDSi時雨殿
 

@@ -17,22 +17,22 @@ Sincerely Yours／Can you feel the POWER OF WORDS?}}
 1.  **POWER OF WORDS**
       - 作詞：愛内里菜 / 作曲：[宝仙明伽音](https://ja.wikipedia.org/wiki/宝仙明伽音 "wikilink") / 編曲：KCP
 2.  **[I can't stop my love for you♥](../Page/I_can't_stop_my_love_for_you.md "wikilink")**
-      - 作詞：愛内里菜 / 作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") / 編曲：尾城九龍
+      - 作詞：愛内里菜 / 作曲：[川島だりあ](../Page/川島だりあ.md "wikilink") / 編曲：尾城九龍
     <!-- end list -->
       -
         9thシングル。[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系アニメ](../Page/日本テレビ放送網.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ。
-3.  **[NAVY BLUE](https://ja.wikipedia.org/wiki/NAVY_BLUE "wikilink")**
+3.  **[NAVY BLUE](../Page/NAVY_BLUE.md "wikilink")**
       - 作詞：愛内里菜 / 作曲：川島だりあ / 編曲：三輪緑
     <!-- end list -->
       -
         7thシングル。[TBS系](../Page/TBSテレビ.md "wikilink")『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』2001年10月度テーマソング。
-4.  **[Forever You 〜永遠に君と〜](https://ja.wikipedia.org/wiki/Forever_You_〜永遠に君と〜 "wikilink")**
-      - 作詞：愛内里菜 / 作曲：[大野愛果](../Page/大野愛果.md "wikilink") / 編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+4.  **[Forever You 〜永遠に君と〜](../Page/Forever_You_〜永遠に君と〜.md "wikilink")**
+      - 作詞：愛内里菜 / 作曲：[大野愛果](../Page/大野愛果.md "wikilink") / 編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -
         8thシングル。[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[感動ファクトリー・すぽると\!](../Page/すぽると!.md "wikilink")』主題歌。
 5.  **[pink baby's breath -album mix-](../Page/I_can't_stop_my_love_for_you.md "wikilink")**
-      - 作詞：愛内里菜 / 作曲：[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink") / 編曲：[寺尾広](../Page/寺尾広.md "wikilink")
+      - 作詞：愛内里菜 / 作曲：[輝門](../Page/輝門.md "wikilink") / 編曲：[寺尾広](../Page/寺尾広.md "wikilink")
     <!-- end list -->
       -
         9thシングル「I can't stop my love for you♥」のカップリング曲のアルバムミックス。
@@ -42,7 +42,7 @@ Sincerely Yours／Can you feel the POWER OF WORDS?}}
       - 作詞：愛内里菜 / 作曲：徳永暁人 / 編曲：尾城九龍
 8.  **Painted Black**
       - 作詞：愛内里菜 / 作曲：[北浦正尚](../Page/北浦正尚.md "wikilink") / 編曲：徳永暁人
-9.  **[FAITH](https://ja.wikipedia.org/wiki/FAITH_\(愛内里菜の曲\) "wikilink")**
+9.  **[FAITH](../Page/FAITH_\(愛内里菜の曲\).md "wikilink")**
       - 作詞：愛内里菜 / 作曲：大野愛果 / 編曲：尾城九龍
     <!-- end list -->
       -
@@ -56,11 +56,11 @@ Sincerely Yours／Can you feel the POWER OF WORDS?}}
       - 作詞：愛内里菜 / 作曲：川島だりあ / 編曲：[綿貫正顕](../Page/綿貫正顕.md "wikilink")
 12. **precious pain**
       - 作詞：愛内里菜 / 作曲：輝門 / 編曲：コリエンタリズム
-13. **[Run up](https://ja.wikipedia.org/wiki/Run_up "wikilink")**
+13. **[Run up](../Page/Run_up.md "wikilink")**
       - 作詞：愛内里菜 / 作曲：大野愛果 / 編曲：三輪緑
     <!-- end list -->
       -
-        6thシングル。TBS系『[ここがヘンだよ日本人](https://ja.wikipedia.org/wiki/ここがヘンだよ日本人 "wikilink")』エンディングテーマ。
+        6thシングル。TBS系『[ここがヘンだよ日本人](../Page/ここがヘンだよ日本人.md "wikilink")』エンディングテーマ。
 14. **[Can you feel the POWER OF WORDS?](https://ja.wikipedia.org/wiki/Sincerely_Yours/Can_you_feel_the_POWER_OF_WORDS? "wikilink")**
       - 作詞：愛内里菜 / 作曲：大野愛果 / 編曲：徳永暁人
     <!-- end list -->

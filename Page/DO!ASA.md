@@ -1,15 +1,15 @@
 > この記事は[DO!ASA](https://ja.wikipedia.org/wiki/DO!ASA)から翻訳されています。
 
 
-**DO\!ASA**（ド\!アサ）は、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")ラジオで毎週土曜 9:00 - 12:00まで放送されている[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
+**DO\!ASA**（ド\!アサ）は、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")ラジオで毎週土曜 9:00 - 12:00まで放送されている[生放送](../Page/生放送.md "wikilink")の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
 
 ## 概要
 
 1984年4月に**土曜いい朝おはようワイド**（どよういいあさおはようワイド。通称：**土朝**（どあさ））として開始した[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")である。
 
-初代パーソナリティーは、[井上雪彦](https://ja.wikipedia.org/wiki/井上雪彦 "wikilink")アナウンサーと、コメンテーターで[僧侶](https://ja.wikipedia.org/wiki/僧侶 "wikilink")の三池孝尚。二人の絶妙なコンビ力が、地元を一世風靡した。2代目パーソナリティーは[池内博子](../Page/池内博子.md "wikilink")アナウンサーとドイツ人コメンテーター [マルク・レール](https://ja.wikipedia.org/wiki/マルク・レール "wikilink")。異文化が時に衝突する面白さで人気を博す。[1996年](../Page/1996年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")放送分が第33回[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")ラジオ部門選奨受賞。
+初代パーソナリティーは、[井上雪彦](../Page/井上雪彦.md "wikilink")アナウンサーと、コメンテーターで[僧侶](https://ja.wikipedia.org/wiki/僧侶 "wikilink")の三池孝尚。二人の絶妙なコンビ力が、地元を一世風靡した。2代目パーソナリティーは[池内博子](../Page/池内博子.md "wikilink")アナウンサーとドイツ人コメンテーター [マルク・レール](https://ja.wikipedia.org/wiki/マルク・レール "wikilink")。異文化が時に衝突する面白さで人気を博す。[1996年](../Page/1996年.md "wikilink")[3月2日](../Page/3月2日.md "wikilink")放送分が第33回[ギャラクシー賞](../Page/ギャラクシー賞.md "wikilink")ラジオ部門選奨受賞。
 
-3代目は[吉田治美](https://ja.wikipedia.org/wiki/吉田治美 "wikilink")と[石川正史](../Page/石川正史.md "wikilink")のアナウンサーコンビ。その後、現在の渡辺・山本コンビで今に至る。
+3代目は[吉田治美](../Page/吉田治美.md "wikilink")と[石川正史](../Page/石川正史.md "wikilink")のアナウンサーコンビ。その後、現在の渡辺・山本コンビで今に至る。
 
 放送開始 - [2012年](../Page/2012年.md "wikilink")3月は7:00 - 12:00の放送だったが、同年4月に正式番組名が現題名になり、放送時間も9:00 - 12:00に変更となった。
 
@@ -32,11 +32,11 @@
 
 ### 過去の出演者
 
-  - [井上雪彦](https://ja.wikipedia.org/wiki/井上雪彦 "wikilink")（放送開始～90年代半ば、故人）
+  - [井上雪彦](../Page/井上雪彦.md "wikilink")（放送開始～90年代半ば、故人）
   - [三池孝尚](https://ja.wikipedia.org/wiki/三池孝尚 "wikilink")（放送開始～90年代半ば、下松市閼伽井坊住職）
   - [池内博子](../Page/池内博子.md "wikilink")（90年代半ば～2001年）
   - [マルク・レール](https://ja.wikipedia.org/wiki/マルク・レール "wikilink")（1993～1999年）
-  - [吉田治美](https://ja.wikipedia.org/wiki/吉田治美 "wikilink")（2001年、故人）
+  - [吉田治美](../Page/吉田治美.md "wikilink")（2001年、故人）
   - [石川正史](../Page/石川正史.md "wikilink")（2001年、現[OBS大分放送アナウンサー](https://ja.wikipedia.org/wiki/大分放送 "wikilink")）
 
 <!-- end list -->
@@ -65,7 +65,7 @@
   - 10:00 今日この一曲
   - 10:03 KRYニュース・天気予報
   - 10:06 道路交通情報
-  - 10:10 [マルキュウ](https://ja.wikipedia.org/wiki/丸久 "wikilink")・アルクこだわり情報
+  - 10:10 [マルキュウ](../Page/丸久.md "wikilink")・アルクこだわり情報
   - 10:25 絵本の世界
   - 10:30 旅にもおすすめ　今日はDOこから?
   - 10:50 DO\!ASAひざうちクラブ
@@ -98,7 +98,7 @@
   - 8:08 明日は晴れるかな
   - 8:16 旅に出ようよ
   - 8:31 朝の健康マガジン
-  - 8:38 （[神足裕司](https://ja.wikipedia.org/wiki/神足裕司 "wikilink")の）[エネルギー最前線　ミライレポート](https://ja.wikipedia.org/wiki/エネルギー最前線_ミライレポート "wikilink")（[中国放送](../Page/中国放送.md "wikilink")制作）（内包されていた）
+  - 8:38 （[神足裕司](../Page/神足裕司.md "wikilink")の）[エネルギー最前線　ミライレポート](https://ja.wikipedia.org/wiki/エネルギー最前線_ミライレポート "wikilink")（[中国放送](../Page/中国放送.md "wikilink")制作）（内包されていた）
   - 8:53 お台所情報
   - 9:00 **第2部オープニング**
   - ここからは2人で進行。
@@ -122,8 +122,8 @@
 
 ## 関連項目
 
-  - [ほっとゾーンおはようKRY](https://ja.wikipedia.org/wiki/ほっとゾーンおはようKRY "wikilink") - 平日朝の情報番組
-  - [朝の歳時記](../Page/朝の歳時記.md "wikilink")、[日産ラジオナビ](https://ja.wikipedia.org/wiki/日産ラジオナビ "wikilink")、[アミューズメントワールド](https://ja.wikipedia.org/wiki/お早うネットワーク "wikilink")、[トヨペットナイスミドル応援団](https://ja.wikipedia.org/wiki/トヨペットナイスミドル応援団 "wikilink") - かつて番組内で内包して放送、それぞれ終了。
+  - [ほっとゾーンおはようKRY](../Page/ほっとゾーンおはようKRY.md "wikilink") - 平日朝の情報番組
+  - [朝の歳時記](../Page/朝の歳時記.md "wikilink")、[日産ラジオナビ](https://ja.wikipedia.org/wiki/日産ラジオナビ "wikilink")、[アミューズメントワールド](../Page/お早うネットワーク.md "wikilink")、[トヨペットナイスミドル応援団](https://ja.wikipedia.org/wiki/トヨペットナイスミドル応援団 "wikilink") - かつて番組内で内包して放送、それぞれ終了。
 
 ## リンク
 

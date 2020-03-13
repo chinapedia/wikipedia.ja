@@ -11,7 +11,7 @@
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - 文部省より本校卒業生に対して「専門士」付与
   - [2000年](../Page/2000年.md "wikilink") - 美容学科「ビューティースタイリスト科」（厚生労働大臣指定　美容師養成施設）新設
   - [2001年](../Page/2001年.md "wikilink") - 横浜洋裁学院を「横浜fカレッジ」に改称
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") - ジュエリー&アクセサリー科開設
+  - [2006年](../Page/2006年.md "wikilink") - ジュエリー&アクセサリー科開設
 
 ## 教育目標
 
@@ -34,7 +34,7 @@
 <!-- end list -->
 
   -
-    [美容師](https://ja.wikipedia.org/wiki/美容師 "wikilink")の養成過程。
+    [美容師](../Page/美容師.md "wikilink")の養成過程。
 
 <!-- end list -->
 

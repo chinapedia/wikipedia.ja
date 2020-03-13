@@ -1,17 +1,17 @@
 > この記事は[Pure \(\)](https://ja.wikipedia.org/wiki/Pure_\(\))から翻訳されています。
 
 
-『**Pure**』（ピュア）は、[國府田マリ子](../Page/國府田マリ子.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")、[KONAMIより発売](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")。
+『**Pure**』（ピュア）は、[國府田マリ子](../Page/國府田マリ子.md "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1994年](../Page/1994年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")、[KONAMIより発売](../Page/コナミレーベル.md "wikilink")。
 
 ## 解説
 
-  - [コナミレーベル](https://ja.wikipedia.org/wiki/コナミレーベル "wikilink")における國府田マリ子1枚目のアルバム。
+  - [コナミレーベル](../Page/コナミレーベル.md "wikilink")における國府田マリ子1枚目のアルバム。
 
 ## 収録曲
 
 1.  **[僕らのステキ](https://ja.wikipedia.org/wiki/僕らのステキ/Harmony "wikilink")-suteki version-**
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、[作曲](../Page/作曲.md "wikilink")：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")、[編曲](../Page/編曲.md "wikilink")：[岩本正樹](../Page/岩本正樹.md "wikilink")
+        [作詞](../Page/作詞.md "wikilink")：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、[作曲](../Page/作曲.md "wikilink")：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")、[編曲](../Page/編曲.md "wikilink")：[岩本正樹](../Page/岩本正樹.md "wikilink")
         『[ツインビーPARADISE2](https://ja.wikipedia.org/wiki/ツインビー#ツインビーPARADISE "wikilink")』[オープニングテーマ](https://ja.wikipedia.org/wiki/オープニングテーマ "wikilink")
 2.  **[誰のせいでもない二人](https://ja.wikipedia.org/wiki/みみかきをしていると "wikilink")**
       -

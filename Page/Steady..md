@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - [Jill Stuart系列](../Page/ジル・スチュアート.md "wikilink")
-  - [ケイト・スペード](https://ja.wikipedia.org/wiki/ケイト・スペード "wikilink")
+  - [ケイト・スペード](../Page/ケイト・スペード.md "wikilink")
   - [MARC BY MARC JACOBS](../Page/マーク・ジェイコブス.md "wikilink")
   - [シーバイクロエ](../Page/クロエ_\(ブランド\).md "wikilink")
 
@@ -55,7 +55,7 @@
   - [蝶々](../Page/蝶々_\(エッセイスト\).md "wikilink")
   - [高橋ミカ](https://ja.wikipedia.org/wiki/高橋ミカ "wikilink")
   - [小出恵介](../Page/小出恵介.md "wikilink")
-  - [バカリズム](https://ja.wikipedia.org/wiki/バカリズム "wikilink")
+  - [バカリズム](../Page/バカリズム.md "wikilink")
   - [石原さとみ](../Page/石原さとみ.md "wikilink")
 
 ## その他の宝島社女性誌シリーズ

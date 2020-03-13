@@ -1,7 +1,7 @@
 > この記事は[ \(TV\)](https://ja.wikipedia.org/wiki/_\(TV\))から翻訳されています。
 
 
-**ニコロデオン**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")チャンネル。幼児・児童向け番組を専門とするチャンネルで、『[スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink")』や『[ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")』などのアメリカで人気のアニメ番組を多くの国で放送している。[バイアコムCBS](https://ja.wikipedia.org/wiki/バイアコムCBS "wikilink")傘下の[バイアコムCBS・ドメスティック・メディア・ネットワークスが運営する](https://ja.wikipedia.org/wiki/:en:Viacom_Media_Networks "wikilink")。
+**ニコロデオン**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")チャンネル。幼児・児童向け番組を専門とするチャンネルで、『[スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink")』や『[ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink")』などのアメリカで人気のアニメ番組を多くの国で放送している。[バイアコムCBS](../Page/バイアコムCBS.md "wikilink")傘下の[バイアコムCBS・ドメスティック・メディア・ネットワークスが運営する](https://ja.wikipedia.org/wiki/:en:Viacom_Media_Networks "wikilink")。
 
 ## 概要
 
@@ -9,11 +9,11 @@
 
 ディレクTVの日本撤退に伴い、2000年10月に[プラットフォームを](../Page/有料放送管理事業者.md "wikilink")[スカイパーフェクTV\!に移行](../Page/スカパー!プレミアムサービス.md "wikilink")（[委託放送事業者](../Page/委託放送事業者.md "wikilink")は[ジャパンイメージコミュニケーションズ](../Page/ジャパンイメージコミュニケーションズ.md "wikilink")、Ch.278）。チャンネル名は「**ニコロデオン/教養バラエティータイム**」。2001年にニコロデオン・マネージメント・プライベート・Ltd日本支社（ニコロデオン・ジャパン）設立。同年11月にはチャンネル名を「**ニコロデオン/アニメ・子どもTV**」に変更。
 
-2005年1月、現在の日本での運営会社であるViacom International Japan (VIJ) 株式会社設立。2006年1月には[電気通信役務利用放送](https://ja.wikipedia.org/wiki/電気通信役務利用放送 "wikilink")に移行（電気通信役務利用放送事業者は[MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")株式会社、現在のバイアコム・ネットワークス・ジャパン株式会社、Ch.751に変更）。2006年10月にはチャンネルのリニューアルが行われた。2008年1月、VIJがMTV Networks Japan株式会社（MTVNJ）に社名変更（のち合同会社に組織変更）。
+2005年1月、現在の日本での運営会社であるViacom International Japan (VIJ) 株式会社設立。2006年1月には[電気通信役務利用放送](https://ja.wikipedia.org/wiki/電気通信役務利用放送 "wikilink")に移行（電気通信役務利用放送事業者は[MTVジャパン](../Page/MTVジャパン.md "wikilink")株式会社、現在のバイアコム・ネットワークス・ジャパン株式会社、Ch.751に変更）。2006年10月にはチャンネルのリニューアルが行われた。2008年1月、VIJがMTV Networks Japan株式会社（MTVNJ）に社名変更（のち合同会社に組織変更）。
 
-しかし、[日本アニメの根強い人気に加え](../Page/アニメ.md "wikilink")、同業会社である[ディズニーチャンネルや](https://ja.wikipedia.org/wiki/ディズニー・チャンネル "wikilink")[カートゥーン ネットワークなどとの競争で苦戦を強いられた結果](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")、2009年9月30日にチャンネル放送を一旦終了。2018年になるまでMTVジャパンや他のCS局、[TwellVや](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")[NHK Eテレなどに配給を行っていた](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")\[2\]。
+しかし、[日本アニメの根強い人気に加え](../Page/アニメ.md "wikilink")、同業会社である[ディズニーチャンネルや](../Page/ディズニー・チャンネル.md "wikilink")[カートゥーン ネットワークなどとの競争で苦戦を強いられた結果](../Page/カートゥーン_ネットワーク.md "wikilink")、2009年9月30日にチャンネル放送を一旦終了。2018年になるまでMTVジャパンや他のCS局、[TwellVや](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")[NHK Eテレなどに配給を行っていた](../Page/NHK教育テレビジョン.md "wikilink")\[2\]。
 
-日本での再開局を望むニコロデオンファンからの強い要望などもあり、2017年10月18日に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")系の[動画配信サービスであるdTVチャンネルにてチャンネルの放送を再開する事が発表された](https://ja.wikipedia.org/wiki/ビデオ・オン・デマンド "wikilink")。更に2018年1月29日には[日本テレビ系の動画配信サービスのHuluでも放送される事が発表](../Page/日本テレビ放送網.md "wikilink")。同年1月30日に放送を開始した\[3\]。
+日本での再開局を望むニコロデオンファンからの強い要望などもあり、2017年10月18日に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")系の[動画配信サービスであるdTVチャンネルにてチャンネルの放送を再開する事が発表された](../Page/ビデオ・オン・デマンド.md "wikilink")。更に2018年1月29日には[日本テレビ系の動画配信サービスのHuluでも放送される事が発表](../Page/日本テレビ放送網.md "wikilink")。同年1月30日に放送を開始した\[3\]。
 
 2018年4月20日、[Facebook](../Page/Facebook.md "wikilink")公式アカウントが開設。
 
@@ -33,7 +33,7 @@
 
 ## 日本国外での歴史
 
-[Nickelodeon_Studios_in_Hard_Rock_Cafe.jpg](https://ja.wikipedia.org/wiki/File:Nickelodeon_Studios_in_Hard_Rock_Cafe.jpg "fig:Nickelodeon_Studios_in_Hard_Rock_Cafe.jpg") 1977年に「QUBE」というケーブルテレビ網で始まった児童向けチャンネル「ピンホイール」が改称し、1979年に「ニコロデオン」として開局\[6\]\[7\]。局名は20世紀初頭の小規模な[映画館の名にちなむ](https://ja.wikipedia.org/wiki/ニッケルオデオン_\(映画館\) "wikilink")。[ワーナー・ケーブル](https://ja.wikipedia.org/wiki/ワーナー・ケーブル "wikilink")で放送開始。1986年にはワーナー・ケーブルは各ケーブルチャンネルを独立会社とし、ニコロデオンも[MTV](../Page/MTV.md "wikilink")などとともに[バイアコム](../Page/バイアコム.md "wikilink")に売却。 1990年、ニコロデオンは自社スタジオ兼テーマパークを[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](https://ja.wikipedia.org/wiki/オーランド "wikilink")にある[ユニバーサル・スタジオ・フロリダ](../Page/ユニバーサル・スタジオ・フロリダ.md "wikilink")内に開き、ここでシットコムやゲーム番組の収録を行ってきたが\[8\]、2005年に閉鎖した。
+[Nickelodeon_Studios_in_Hard_Rock_Cafe.jpg](https://ja.wikipedia.org/wiki/File:Nickelodeon_Studios_in_Hard_Rock_Cafe.jpg "fig:Nickelodeon_Studios_in_Hard_Rock_Cafe.jpg") 1977年に「QUBE」というケーブルテレビ網で始まった児童向けチャンネル「ピンホイール」が改称し、1979年に「ニコロデオン」として開局\[6\]\[7\]。局名は20世紀初頭の小規模な[映画館の名にちなむ](https://ja.wikipedia.org/wiki/ニッケルオデオン_\(映画館\) "wikilink")。[ワーナー・ケーブル](https://ja.wikipedia.org/wiki/ワーナー・ケーブル "wikilink")で放送開始。1986年にはワーナー・ケーブルは各ケーブルチャンネルを独立会社とし、ニコロデオンも[MTV](../Page/MTV.md "wikilink")などとともに[バイアコム](../Page/バイアコム.md "wikilink")に売却。 1990年、ニコロデオンは自社スタジオ兼テーマパークを[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](../Page/オーランド.md "wikilink")にある[ユニバーサル・スタジオ・フロリダ](../Page/ユニバーサル・スタジオ・フロリダ.md "wikilink")内に開き、ここでシットコムやゲーム番組の収録を行ってきたが\[8\]、2005年に閉鎖した。
 
 ## 日本で視聴可能なサービス（2018年 - ）
 
@@ -46,7 +46,7 @@
 
   - [スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink") Ch.751
   - BBTV [ビー・ビー・ケーブル](../Page/ビー・ビー・ケーブル.md "wikilink")
-  - 4th Media [ぷらら](https://ja.wikipedia.org/wiki/ぷらら "wikilink")
+  - 4th Media [ぷらら](../Page/ぷらら.md "wikilink")
   - GEO@チャンネル [エンタウェイブ](https://ja.wikipedia.org/wiki/エンタウェイブ "wikilink")
   - [ひかりone](https://ja.wikipedia.org/wiki/ひかりone "wikilink") TVサービス [KDDI](../Page/KDDI.md "wikilink")
   - 各地域ケーブルテレビ
@@ -55,9 +55,9 @@
 
 ### ニコロデオン（1998年 - 2009年）
 
-  - [スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink") ※[NHKおよび](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[Amazonビデオおよび](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")[TOKYO MXに移動](../Page/東京メトロポリタンテレビジョン.md "wikilink")（[MTV](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")、[アニマックス](../Page/アニマックス.md "wikilink")と[BSフジ](../Page/BSフジ.md "wikilink")では放送終了）
+  - [スポンジ・ボブ](../Page/スポンジ・ボブ.md "wikilink") ※[NHKおよび](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[Amazonビデオおよび](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")[TOKYO MXに移動](../Page/東京メトロポリタンテレビジョン.md "wikilink")（[MTV](../Page/MTVジャパン.md "wikilink")、[アニマックス](../Page/アニマックス.md "wikilink")と[BSフジ](../Page/BSフジ.md "wikilink")では放送終了）
   - [ジミー・ニュートロン 僕は天才発明家\!](https://ja.wikipedia.org/wiki/ジミー・ニュートロン_僕は天才発明家! "wikilink") ※[キッズステーション](../Page/キッズステーション.md "wikilink")に移動（現在は放送終了）
-  - [Oops\!フェアリーペアレンツ](../Page/Oops!フェアリーペアレンツ.md "wikilink") ※[ディズニー・チャンネル](https://ja.wikipedia.org/wiki/ディズニー・チャンネル "wikilink")および[ネットフリックス](https://ja.wikipedia.org/wiki/ネットフリックス "wikilink")およびYouTube[ツリーハウスダイレクトチャンネル](https://www.youtube.com/channel/UCLDK5VDqgjqDktjDjd14WHg)に移動
+  - [Oops\!フェアリーペアレンツ](../Page/Oops!フェアリーペアレンツ.md "wikilink") ※[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")および[ネットフリックス](https://ja.wikipedia.org/wiki/ネットフリックス "wikilink")およびYouTube[ツリーハウスダイレクトチャンネル](https://www.youtube.com/channel/UCLDK5VDqgjqDktjDjd14WHg)に移動
   - [トロールズ☆](https://ja.wikipedia.org/wiki/:en:Trollz "wikilink")
   - [ぼんじゅール?\!イボン](https://ja.wikipedia.org/wiki/:en:Yvon_of_the_Yukon "wikilink")
   - [ラグラッツ](../Page/ラグラッツ.md "wikilink") ※Amazonビデオに移動
@@ -107,7 +107,7 @@
   - [おまかせアレックス](../Page/おまかせアレックス.md "wikilink")
   - [私はケイトリン](https://ja.wikipedia.org/wiki/私はケイトリン "wikilink")
   - [マペット放送局](../Page/マペット放送局.md "wikilink")
-  - [まんが日本昔ばなし](https://ja.wikipedia.org/wiki/まんが日本昔ばなし "wikilink")
+  - [まんが日本昔ばなし](../Page/まんが日本昔ばなし.md "wikilink")
   - [ぶぶチャチャ](../Page/ぶぶチャチャ.md "wikilink")
 
 ### ニコロデオン（2018年 - ）
@@ -120,9 +120,9 @@
   - ドーラといっしょに大冒険
   - ブルーズ・クルーズ
   - アバター 伝説の少年アン ※シーズン3は当初はAmazonビデオで配信
-  - [iCarly](https://ja.wikipedia.org/wiki/iCarly "wikilink") ※当初は[MTVと](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink")[NHKで放送](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") ※日本語字幕版
+  - [iCarly](https://ja.wikipedia.org/wiki/iCarly "wikilink") ※当初は[MTVと](../Page/MTVジャパン.md "wikilink")[NHKで放送](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") ※日本語字幕版
   - [スーパーエージェント TUFFパピー](https://ja.wikipedia.org/wiki/スーパーエージェント_TUFFパピー "wikilink") ※当初はAmazonビデオで配信
-  - [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink") ※当初はNHKと[ディズニー・チャンネル](https://ja.wikipedia.org/wiki/ディズニー・チャンネル "wikilink")/[ディズニーXD](https://ja.wikipedia.org/wiki/ディズニーXD "wikilink")で放送
+  - [ザ・ペンギンズ from マダガスカル](https://ja.wikipedia.org/wiki/ザ・ペンギンズ_from_マダガスカル "wikilink") ※当初はNHKと[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")/[ディズニーXD](https://ja.wikipedia.org/wiki/ディズニーXD "wikilink")で放送
   - [カンフー・パンダ ザ・シリーズ](../Page/カンフー・パンダ.md "wikilink") ※当初はディズニーXDとNHKで放送
   - [ミュータント タートルズ3D](../Page/ティーンエイジ・ミュータント・ニンジャ・タートルズ.md "wikilink") ※当初は[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")とディズニーXDで放送
   - [みんなのウミズーミ](https://ja.wikipedia.org/wiki/:en:Team_Umizoomi "wikilink") ※当初はAmazonビデオで配信
@@ -156,9 +156,9 @@
   - [超能力ファミリー サンダーマン](https://ja.wikipedia.org/wiki/超能力ファミリー_サンダーマン "wikilink")（NHK）
   - [100 オトナになったらできないこと](https://ja.wikipedia.org/wiki/100_オトナになったらできないこと "wikilink")（NHK）
   - スクール・オブ・ロック（NHK）
-  - [パワーレンジャー・サムライ](https://ja.wikipedia.org/wiki/パワーレンジャー・サムライ "wikilink")（[東映チャンネル](https://ja.wikipedia.org/wiki/東映チャンネル "wikilink")）
+  - [パワーレンジャー・サムライ](https://ja.wikipedia.org/wiki/パワーレンジャー・サムライ "wikilink")（[東映チャンネル](../Page/東映チャンネル.md "wikilink")）
   - [パワーレンジャー・メガフォース](https://ja.wikipedia.org/wiki/パワーレンジャー・メガフォース "wikilink")（東映チャンネル）
-  - [ピーターラビット](https://ja.wikipedia.org/wiki/ピーターラビット "wikilink")のだいぼうけん（[カートゥーン ネットワーク](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")、ネットフリックス）
+  - [ピーターラビット](../Page/ピーターラビット.md "wikilink")のだいぼうけん（[カートゥーン ネットワーク](../Page/カートゥーン_ネットワーク.md "wikilink")、ネットフリックス）
   - [Victorious](https://ja.wikipedia.org/wiki/Victorious "wikilink")（NHK）
   - [忍者ハットリくん](../Page/忍者ハットリくん.md "wikilink")（[アニマックス](../Page/アニマックス.md "wikilink")、[テレ朝チャンネル1](https://ja.wikipedia.org/wiki/テレ朝チャンネル#テレ朝チャンネル1_ドラマ・バラエティ・アニメ "wikilink")）
   - [ララループシー](https://ja.wikipedia.org/wiki/ララループシー "wikilink")（ネットフリックス）
@@ -176,7 +176,7 @@
   -
     2002年5月1日開局。主にニコロデオン制作のアニメーションを放送している。
   -
-    元々は深夜の放送枠として開設され、現在はチャンネルとして独立している。大抵の番組はオリジナルドラマやバラエティーなど。1950年代から2000年代の[シットコムの放送が主である](https://ja.wikipedia.org/wiki/シチュエーション・コメディ "wikilink")。
+    元々は深夜の放送枠として開設され、現在はチャンネルとして独立している。大抵の番組はオリジナルドラマやバラエティーなど。1950年代から2000年代の[シットコムの放送が主である](../Page/シチュエーション・コメディ.md "wikilink")。
   -
     未就学児向け教育番組を中心に放送するチャンネル。 日本でも枠として放送されていた。
   -

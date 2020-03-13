@@ -16,7 +16,7 @@
   - Firefoxとの主な相違点
     タブのプレビュー表示機能。
     オレンジを基調としたデザイン。
-    [ロリ](https://ja.wikipedia.org/wiki/ロリ "wikilink")娘（[擬人化](../Page/擬人化.md "wikilink")したキツネ）の[マスコット](https://ja.wikipedia.org/wiki/マスコット "wikilink")キャラクター。
+    [ロリ](https://ja.wikipedia.org/wiki/ロリ "wikilink")娘（[擬人化](../Page/擬人化.md "wikilink")したキツネ）の[マスコット](../Page/マスコット.md "wikilink")キャラクター。
     いくつかの特徴的なブックマークをデフォルトで含んでいる。
 
 ## 関連項目

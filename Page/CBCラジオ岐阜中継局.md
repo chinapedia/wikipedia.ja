@@ -11,7 +11,7 @@
 <th><p><a href="../Page/放送局.md" title="wikilink">放送局</a>名</p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">コールサイン</a></p></th>
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
 内世帯数</p></th>
@@ -24,7 +24,7 @@
 <td><p>なし</p></td>
 <td><p>639<a href="https://ja.wikipedia.org/wiki/キロヘルツ" title="wikilink">kHz</a></p></td>
 <td><p>500W</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東海3県" title="wikilink">中京</a><a href="../Page/広域放送.md" title="wikilink">広域圏</a></p></td>
+<td><p><a href="../Page/東海3県.md" title="wikilink">中京</a><a href="../Page/広域放送.md" title="wikilink">広域圏</a></p></td>
 <td><p>約-世帯</p></td>
 <td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a><a href="../Page/岐阜市.md" title="wikilink">岐阜市</a>・<a href="https://ja.wikipedia.org/wiki/各務原市" title="wikilink">各務原市</a>・<a href="../Page/大垣市.md" title="wikilink">大垣市</a>・<br />
 <a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/一宮市.md" title="wikilink">一宮市</a>など周辺地域</p></td>
@@ -36,7 +36,7 @@
 
   - [岐阜県](../Page/岐阜県.md "wikilink")[各務原市](https://ja.wikipedia.org/wiki/各務原市 "wikilink")川島北山町
       - 開局時の地名は「[岐阜県](../Page/岐阜県.md "wikilink")[羽島郡](../Page/羽島郡.md "wikilink")[川島町北山町](../Page/川島町_\(岐阜県\).md "wikilink")」である\[1\]。
-      - [東海北陸自動車道](https://ja.wikipedia.org/wiki/東海北陸自動車道 "wikilink")沿いにあり、[川島パーキングエリア](../Page/川島パーキングエリア.md "wikilink")（[河川環境楽園](https://ja.wikipedia.org/wiki/河川環境楽園 "wikilink")）～[一宮木曽川インターチェンジ](../Page/一宮木曽川インターチェンジ.md "wikilink")の[木曽川](../Page/木曽川.md "wikilink")本流の橋のすぐ南である。
+      - [東海北陸自動車道](https://ja.wikipedia.org/wiki/東海北陸自動車道 "wikilink")沿いにあり、[川島パーキングエリア](../Page/川島パーキングエリア.md "wikilink")（[河川環境楽園](../Page/河川環境楽園.md "wikilink")）～[一宮木曽川インターチェンジ](../Page/一宮木曽川インターチェンジ.md "wikilink")の[木曽川](../Page/木曽川.md "wikilink")本流の橋のすぐ南である。
 
 ## 放送エリア
 

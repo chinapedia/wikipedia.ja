@@ -7,9 +7,9 @@
 
 『ザ・キング・オブ・ファイターズ』（以下『KOF』と表記）の第8作目である『KOF2001』（以下『2001』と表記）から登場する女性格闘家。
 
-年齢は19歳。白に近い銀髪のショートカットの女性。グラマラスな体格で、性的な言動が多く、テンションも高い。服装は[ビキニ風の衣装の上に](https://ja.wikipedia.org/wiki/ビキニ_\(水着\) "wikilink")[ジャンパーとズボンタイプの](../Page/ジャンパー_\(衣服\).md "wikilink")[チャップス](https://ja.wikipedia.org/wiki/チャップス "wikilink")のようなものを纏っている。
+年齢は19歳。白に近い銀髪のショートカットの女性。グラマラスな体格で、性的な言動が多く、テンションも高い。服装は[ビキニ風の衣装の上に](../Page/ビキニ_\(水着\).md "wikilink")[ジャンパーとズボンタイプの](../Page/ジャンパー_\(衣服\).md "wikilink")[チャップス](https://ja.wikipedia.org/wiki/チャップス "wikilink")のようなものを纏っている。
 
-秘密犯罪組織ネスツに所属しているが、その自由奔放な振る舞いは今ひとつ組織の構成員としての自覚が感じられない。[K'](https://ja.wikipedia.org/wiki/K' "wikilink")の抹殺を目的として[イグニスにより創造された人間であり](../Page/イグニス_\(KOF\).md "wikilink")、同じ立場である[K9999](https://ja.wikipedia.org/wiki/K9999 "wikilink")と行動を共にする。
+秘密犯罪組織ネスツに所属しているが、その自由奔放な振る舞いは今ひとつ組織の構成員としての自覚が感じられない。[K'](https://ja.wikipedia.org/wiki/K' "wikilink")の抹殺を目的として[イグニスにより創造された人間であり](../Page/イグニス_\(KOF\).md "wikilink")、同じ立場である[K9999](../Page/K9999.md "wikilink")と行動を共にする。
 
 ほとんどのキャラクターが何らかの格闘技かスポーツなどをもとに戦闘技術を確立しているのに対して、アンヘルの格闘スタイルは特定の格闘技に根ざしたものではない。
 
@@ -187,12 +187,12 @@ UC技は、「(1)→(2)→(3)→(4)→(5)→(6)（(6)の後は(1)に戻る）」
 ## 声優
 
   - [冨永みーな](../Page/冨永みーな.md "wikilink")（『2001』）
-  - [新谷真弓](https://ja.wikipedia.org/wiki/新谷真弓 "wikilink")（『2002』、PS2版『NEOWAVE』、『2002UM』）
+  - [新谷真弓](../Page/新谷真弓.md "wikilink")（『2002』、PS2版『NEOWAVE』、『2002UM』）
   - [小椋美輝](https://ja.wikipedia.org/wiki/小椋美輝 "wikilink")（『XIV』、アプリ『THE KING OF FIGHTERS ALLSTAR』）
 
 ## 関連人物
 
-  - [K9999](https://ja.wikipedia.org/wiki/K9999 "wikilink") - 『KOF2001』『KOF2002』でのチームメイト。親友かつ相棒的存在だったが、『KOF XIV』以降は別れている。
+  - [K9999](../Page/K9999.md "wikilink") - 『KOF2001』『KOF2002』でのチームメイト。親友かつ相棒的存在だったが、『KOF XIV』以降は別れている。
   - [クーラ・ダイアモンド](../Page/クーラ・ダイアモンド.md "wikilink") - 『KOF 2001』『KOF 2002』『KOF 2002UM』でのチームメイトだったが、後に裏切ってフォクシーに重傷を負わせたことで敵対関係となる。
   - [フォクシー](https://ja.wikipedia.org/wiki/フォクシー_\(KOF\) "wikilink") - 『KOF 2001』『KOF 2002UM』でのチームメイトだが、後に裏切って重傷を負わせた。
   - [ラモン](https://ja.wikipedia.org/wiki/ラモン_\(KOF\) "wikilink") - 『KOF XIV』でのチームメイト。実は「ネスツの関係者」という裏設定があった。

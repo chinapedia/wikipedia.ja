@@ -17,7 +17,7 @@
 
 ### 一般販売
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月17日](../Page/12月17日.md "wikilink") - [SeptemCharm まじかるカナン](https://ja.wikipedia.org/wiki/SeptemCharm_まじかるカナン "wikilink")
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月17日](../Page/12月17日.md "wikilink") - [SeptemCharm まじかるカナン](../Page/SeptemCharm_まじかるカナン.md "wikilink")
   - [1999年](../Page/1999年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink") - SeptemCharm まじかるカナン MAGICAL FANTASY BOX（『SeptemCharm まじかるカナン』のファンディスク）
   - [2000年](../Page/2000年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink") - [ELYSION 〜永遠のサンクチュアリ〜](../Page/ELYSION_〜永遠のサンクチュアリ〜.md "wikilink")
   - [2002年](../Page/2002年.md "wikilink")
@@ -28,8 +28,8 @@
       - [11月7日](../Page/11月7日.md "wikilink") - [夏色☆こみゅにけ〜しょん♪](../Page/夏色☆こみゅにけ〜しょん♪.md "wikilink")（回収版）
       - [11月14日](../Page/11月14日.md "wikilink") - 夏色☆こみゅにけ〜しょん♪（再発売版）
       - [12月26日](../Page/12月26日.md "wikilink") - [テリぷら](https://ja.wikipedia.org/wiki/テリぷら "wikilink")DVDリニューアルパッケージ、[テリ☆みっくす](https://ja.wikipedia.org/wiki/テリ☆みっくす "wikilink")
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
-      - [4月28日](../Page/4月28日.md "wikilink") - [まじかるカナン -RISEA- トリプルフィーチャリングBOX](https://ja.wikipedia.org/wiki/SeptemCharm_まじかるカナン "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
+      - [4月28日](../Page/4月28日.md "wikilink") - [まじかるカナン -RISEA- トリプルフィーチャリングBOX](../Page/SeptemCharm_まじかるカナン.md "wikilink")
       - [9月22日](../Page/9月22日.md "wikilink") - 夏色☆こみゅにけ〜しょん♪（DVD-ROM版）
       - [12月16日](../Page/12月16日.md "wikilink") - [夜刀姫斬鬼行](../Page/夜刀姫斬鬼行.md "wikilink")
   - [2006年](../Page/2006年.md "wikilink")
@@ -82,5 +82,5 @@
 3.  [官報](http://megalodon.jp/2013-0414-1744-32/kanpou.npb.go.jp/20130410/20130410g00077/pdf/20130410g000770022.pdf)（号外第77号）22ページ
 4.
 5.
-6.  [TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink") 2014年9月号 p.34.
+6.  [TECH GIAN](../Page/TECH_GIAN.md "wikilink") 2014年9月号 p.34.
 7.

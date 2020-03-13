@@ -1,7 +1,7 @@
 > この記事は[THE !](https://ja.wikipedia.org/wiki/THE_!)から翻訳されています。
 
 
-『**THE ビッグ\!**』（ザ・ビッグ）は、[1979年](../Page/1979年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送された[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）制作の[ビンゴ](https://ja.wikipedia.org/wiki/ビンゴ "wikilink")を使った[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")&[ゲーム番組](../Page/ゲーム番組.md "wikilink")である。
+『**THE ビッグ\!**』（ザ・ビッグ）は、[1979年](../Page/1979年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送された[朝日放送](../Page/朝日放送テレビ.md "wikilink")（ABCテレビ）制作の[ビンゴ](../Page/ビンゴ.md "wikilink")を使った[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")&[ゲーム番組](../Page/ゲーム番組.md "wikilink")である。
 
 本項では、リニューアル後の『**THE ビッグチャンス**』および『**生クイズだよ\!日本全国THEビッグチャンス**』についても触れる。
 
@@ -9,7 +9,7 @@
 
 ### 関西ローカル時代
 
-当初は[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")の[深夜番組](../Page/深夜番組.md "wikilink")で、毎週[土曜](../Page/土曜日.md "wikilink") 23:20 - 翌0:15 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた（1980年10月からは放送枠が10分拡大し、土曜 23:15 - 翌0:20に放送）。[ABCホール](https://ja.wikipedia.org/wiki/ABCホール "wikilink")からの非公開[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")で、[板東英二](../Page/板東英二.md "wikilink")、[桂文珍](https://ja.wikipedia.org/wiki/桂文珍 "wikilink")、[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")の3人がレギュラーを務め、[安部憲幸](https://ja.wikipedia.org/wiki/安部憲幸 "wikilink")がアナウンスを担当していた。板東英二の起用は上岡龍太郎の推薦があった。また、他に[明石家さんま](../Page/明石家さんま.md "wikilink")が外からの生中継を担当していたが、さんまは早々に降板した。鶴瓶はゲームの仕組み（ルール）把握していなかった。
+当初は[関西ローカル](../Page/関西ローカル.md "wikilink")の[深夜番組](../Page/深夜番組.md "wikilink")で、毎週[土曜](../Page/土曜日.md "wikilink") 23:20 - 翌0:15 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた（1980年10月からは放送枠が10分拡大し、土曜 23:15 - 翌0:20に放送）。[ABCホール](https://ja.wikipedia.org/wiki/ABCホール "wikilink")からの非公開[生放送](../Page/生放送.md "wikilink")で、[板東英二](../Page/板東英二.md "wikilink")、[桂文珍](../Page/桂文珍.md "wikilink")、[笑福亭鶴瓶](../Page/笑福亭鶴瓶.md "wikilink")の3人がレギュラーを務め、[安部憲幸](../Page/安部憲幸.md "wikilink")がアナウンスを担当していた。板東英二の起用は上岡龍太郎の推薦があった。また、他に[明石家さんま](../Page/明石家さんま.md "wikilink")が外からの生中継を担当していたが、さんまは早々に降板した。鶴瓶はゲームの仕組み（ルール）把握していなかった。
 
 この当時のゲームはあらかじめ視聴者に配られたカードで生放送中に実際にビンゴゲームを行い、前半では放送中に選ばれた数字（5球）がタテ・ヨコ・ナナメのいずれか1列揃った人が番組に電話を掛け、電話が通じた先着3-4名の視聴者が賞金を賭けたクイズに挑戦するというもの、後半では毎回異なる特定の枠（L字やT字など9マス）内に放送中に選ばれた数字（7球）全てが収まった人が番組に電話を掛け、制限時間内に電話が通じた全ての人が「[三菱・ミラージュ](../Page/三菱・ミラージュ.md "wikilink")」への挑戦権を獲得、番組のエンディングでもう1球（8球目）を選び、その数字が指定された枠の残りの2マスのいずれかに当てはまった視聴者が「三菱・ミラージュ」を獲得できるというものだった。
 

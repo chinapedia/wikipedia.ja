@@ -127,7 +127,7 @@ TOSHI-LOWは[セックス・ピストルズ](../Page/セックス・ピストル
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>オリコン</p></th>
 <th><p>備考</p></th>
@@ -156,7 +156,7 @@ TOSHI-LOWは[セックス・ピストルズ](../Page/セックス・ピストル
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月27日.md" title="wikilink">7月27日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/CAUSATION" title="wikilink">CAUSATION</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>TFCC-89138</p></td>
@@ -393,7 +393,7 @@ TFCC-89634(通常盤)</p></td>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -465,7 +465,7 @@ TFCC-89634(通常盤)</p></td>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>オリコン</p></th>
 <th><p>備考</p></th>
@@ -1318,7 +1318,7 @@ TFXQ-78111:BD</p></td>
 </tr>
 <tr class="even">
 <td><p>2020年1月29日</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/PARADE_III_〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜" title="wikilink">PARADE III 〜RESPECTIVE TRACKS OF BUCK-TICK〜</a>」</p></td>
+<td><p>「<a href="../Page/PARADE_III_〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜.md" title="wikilink">PARADE III 〜RESPECTIVE TRACKS OF BUCK-TICK〜</a>」</p></td>
 <td><p>VICL-70243</p></td>
 <td><p>ICONOCLASM</p></td>
 </tr>
@@ -1395,7 +1395,7 @@ TFXQ-78111:BD</p></td>
         w/[耳切坊主](https://ja.wikipedia.org/wiki/耳切坊主 "wikilink")/[スカイメイツ](https://ja.wikipedia.org/wiki/スカイメイツ "wikilink")/[MOGA THE \\5](https://ja.wikipedia.org/wiki/MOGA_THE_/5 "wikilink")/SEASIDE PANDA/[MINIMUM WAGE](https://ja.wikipedia.org/wiki/MINIMUM_WAGE "wikilink")/[ASSFORT](https://ja.wikipedia.org/wiki/ASSFORT "wikilink")/SPREAD/[DRIVE 4GEAR](https://ja.wikipedia.org/wiki/DRIVE_4GEAR "wikilink")/[GREST](https://ja.wikipedia.org/wiki/GREST "wikilink")/[ZEROHOUR](https://ja.wikipedia.org/wiki/ZEROHOUR "wikilink")/[FIRST ALERT](https://ja.wikipedia.org/wiki/FIRST_ALERT "wikilink")/[toe](https://ja.wikipedia.org/wiki/toe "wikilink")/[THE DICK SPIKIE](https://ja.wikipedia.org/wiki/THE_DICK_SPIKIE "wikilink")/[THE GRIFFIN](https://ja.wikipedia.org/wiki/THE_GRIFFIN "wikilink")/[SHAKKAZOMBIE](../Page/SHAKKAZOMBIE.md "wikilink")/GOOFY'S HOLIDAY/STAB 4 REASON/[the 原爆オナニーズ](https://ja.wikipedia.org/wiki/the_原爆オナニーズ "wikilink")/[REAL REGGAE](https://ja.wikipedia.org/wiki/REAL_REGGAE "wikilink")/[GLADLY](https://ja.wikipedia.org/wiki/GLADLY "wikilink")/HUSKING BEE/SLANG/[QUACK](https://ja.wikipedia.org/wiki/QUACK "wikilink")/[TROPICAL GORILLA](../Page/TROPICAL_GORILLA.md "wikilink")/[REACH](../Page/REACH.md "wikilink")/[WORD](https://ja.wikipedia.org/wiki/WORD "wikilink")/[LUNCH TIME SPEAX](../Page/LUNCH_TIME_SPEAX.md "wikilink")/[SLIGHT SLAPPERS](https://ja.wikipedia.org/wiki/SLIGHT_SLAPPERS "wikilink")
   - 2002年 - -hope against hope- tour '02
       -
-        w/[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")/ABNORMALS/[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")/BACK DROP BOMB/[STURDY STAMP](https://ja.wikipedia.org/wiki/STURDY_STAMP "wikilink")/[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")/[CENTRAL](https://ja.wikipedia.org/wiki/CENTRAL "wikilink")/[RISE\&FALL](https://ja.wikipedia.org/wiki/RISE&FALL "wikilink")/[VEMCRAFT](https://ja.wikipedia.org/wiki/VEMCRAFT "wikilink")/[TOK\\O $KUNX](https://ja.wikipedia.org/wiki/TOK/O_$KUNX "wikilink")
+        w/[COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink")/ABNORMALS/[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")/BACK DROP BOMB/[STURDY STAMP](https://ja.wikipedia.org/wiki/STURDY_STAMP "wikilink")/[RHYMESTER](../Page/RHYMESTER.md "wikilink")/[CENTRAL](https://ja.wikipedia.org/wiki/CENTRAL "wikilink")/[RISE\&FALL](https://ja.wikipedia.org/wiki/RISE&FALL "wikilink")/[VEMCRAFT](https://ja.wikipedia.org/wiki/VEMCRAFT "wikilink")/[TOK\\O $KUNX](https://ja.wikipedia.org/wiki/TOK/O_$KUNX "wikilink")
   - 2003年 - Tour '03 -Hands and Feet-
       -
         w/[EVIL SUBSTITUTE](https://ja.wikipedia.org/wiki/EVIL_SUBSTITUTE "wikilink")/[HIGH SCHOOL LOVELETTERS](https://ja.wikipedia.org/wiki/HIGH_SCHOOL_LOVELETTERS "wikilink")/[54-71](../Page/54-71.md "wikilink")/[無我](../Page/無我.md "wikilink")/STAB 4 REASON/REAL REGGAE/[DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")/SPREAD/[YUKIGUNI](https://ja.wikipedia.org/wiki/YUKIGUNI "wikilink")/[King Prawn](https://ja.wikipedia.org/wiki/King_Prawn "wikilink")
@@ -1417,7 +1417,7 @@ TFXQ-78111:BD</p></td>
         w/[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")/[the band apart](https://ja.wikipedia.org/wiki/the_band_apart "wikilink")
   - 2008年 - BRAHMAN Tour "AUTONOMY"
       -
-        w/[MY WAY MY LOVE](../Page/MY_WAY_MY_LOVE.md "wikilink")/[endzweck](https://ja.wikipedia.org/wiki/endzweck "wikilink")/笠間コブラ会/SLANG/[SWARRRM](https://ja.wikipedia.org/wiki/SWARRRM "wikilink")/[ZORRO](https://ja.wikipedia.org/wiki/ZORRO "wikilink")/[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")/[WRESTLING CRIME MASTER](https://ja.wikipedia.org/wiki/WRESTLING_CRIME_MASTER "wikilink")/THE BACK HORN/[DIEGOSTAR](https://ja.wikipedia.org/wiki/DIEGOSTAR "wikilink")/BEAT CRUSADERS/[BATTLE OF NINJAMANZ](https://ja.wikipedia.org/wiki/BATTLE_OF_NINJAMANZ "wikilink")/LOW IQ & THE BEAT BREAKER/[COKEHEAD HIPSTERS](../Page/COKEHEAD_HIPSTERS.md "wikilink")/MONGOL800/[MO'SOME TONEBENDER](https://ja.wikipedia.org/wiki/MO'SOME_TONEBENDER "wikilink")/[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")/[PASSING TRUTH DRIVE](https://ja.wikipedia.org/wiki/PASSING_TRUTH_DRIVE "wikilink")/[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")/[雷矢](https://ja.wikipedia.org/wiki/雷矢 "wikilink")/SPREAD/[ASPARAGUS](../Page/ASPARAGUS.md "wikilink")/STAB 4 REASON/[DOLCE](https://ja.wikipedia.org/wiki/DOLCE "wikilink")/[青猫ロマントルソ](https://ja.wikipedia.org/wiki/青猫ロマントルソ "wikilink")/[PRACTICE](https://ja.wikipedia.org/wiki/PRACTICE "wikilink")/[MATERIAL BOYS](https://ja.wikipedia.org/wiki/MATERIAL_BOYS "wikilink")/[CHRONO METER](https://ja.wikipedia.org/wiki/CHRONO_METER "wikilink")/[IDORA](https://ja.wikipedia.org/wiki/IDORA "wikilink")/[riddim saunter](https://ja.wikipedia.org/wiki/riddim_saunter "wikilink")
+        w/[MY WAY MY LOVE](../Page/MY_WAY_MY_LOVE.md "wikilink")/[endzweck](https://ja.wikipedia.org/wiki/endzweck "wikilink")/笠間コブラ会/SLANG/[SWARRRM](https://ja.wikipedia.org/wiki/SWARRRM "wikilink")/[ZORRO](https://ja.wikipedia.org/wiki/ZORRO "wikilink")/[エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink")/[WRESTLING CRIME MASTER](https://ja.wikipedia.org/wiki/WRESTLING_CRIME_MASTER "wikilink")/THE BACK HORN/[DIEGOSTAR](https://ja.wikipedia.org/wiki/DIEGOSTAR "wikilink")/BEAT CRUSADERS/[BATTLE OF NINJAMANZ](https://ja.wikipedia.org/wiki/BATTLE_OF_NINJAMANZ "wikilink")/LOW IQ & THE BEAT BREAKER/[COKEHEAD HIPSTERS](../Page/COKEHEAD_HIPSTERS.md "wikilink")/MONGOL800/[MO'SOME TONEBENDER](../Page/MO'SOME_TONEBENDER.md "wikilink")/[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")/[PASSING TRUTH DRIVE](https://ja.wikipedia.org/wiki/PASSING_TRUTH_DRIVE "wikilink")/[怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink")/[雷矢](https://ja.wikipedia.org/wiki/雷矢 "wikilink")/SPREAD/[ASPARAGUS](../Page/ASPARAGUS.md "wikilink")/STAB 4 REASON/[DOLCE](https://ja.wikipedia.org/wiki/DOLCE "wikilink")/[青猫ロマントルソ](https://ja.wikipedia.org/wiki/青猫ロマントルソ "wikilink")/[PRACTICE](https://ja.wikipedia.org/wiki/PRACTICE "wikilink")/[MATERIAL BOYS](https://ja.wikipedia.org/wiki/MATERIAL_BOYS "wikilink")/[CHRONO METER](https://ja.wikipedia.org/wiki/CHRONO_METER "wikilink")/[IDORA](https://ja.wikipedia.org/wiki/IDORA "wikilink")/[riddim saunter](https://ja.wikipedia.org/wiki/riddim_saunter "wikilink")
   - 2008年 - BRAHMAN Tour-Hands and Feet 4-
   - 2008年 - BRAHMAN presents tantrism vol.4
       -
@@ -1432,17 +1432,17 @@ TFXQ-78111:BD</p></td>
         w/[NUMB](https://ja.wikipedia.org/wiki/NUMB "wikilink")/toe
   - 2011年 - BRAHMAN 2011 TOUR「霹靂」
       -
-        w/[BACK DROP BOMB](../Page/BACK_DROP_BOMB.md "wikilink")/[LOW IQ & THE BEAT BREAKER](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")/[SLANG](https://ja.wikipedia.org/wiki/SLANG "wikilink")/[SCAFULL KING](https://ja.wikipedia.org/wiki/SCAFULL_KING "wikilink")/[ACIDMAN](../Page/ACIDMAN.md "wikilink")/[10-FEET](../Page/10-FEET.md "wikilink")/[the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")/[IDOL PUNCH](https://ja.wikipedia.org/wiki/IDOL_PUNCH "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")/[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")/[ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")/[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")/[Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink")/[難波章浩 -AKIHIRO NAMBA-](../Page/難波章浩.md "wikilink")/[CUBISMO GRAFICO FIVE](https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE "wikilink")
+        w/[BACK DROP BOMB](../Page/BACK_DROP_BOMB.md "wikilink")/[LOW IQ & THE BEAT BREAKER](https://ja.wikipedia.org/wiki/LOW_IQ_01 "wikilink")/[SLANG](https://ja.wikipedia.org/wiki/SLANG "wikilink")/[SCAFULL KING](https://ja.wikipedia.org/wiki/SCAFULL_KING "wikilink")/[ACIDMAN](../Page/ACIDMAN.md "wikilink")/[10-FEET](../Page/10-FEET.md "wikilink")/[the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")/[IDOL PUNCH](https://ja.wikipedia.org/wiki/IDOL_PUNCH "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")/[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")/[ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")/[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")/[Ken Yokoyama](https://ja.wikipedia.org/wiki/Ken_Yokoyama "wikilink")/[難波章浩 -AKIHIRO NAMBA-](../Page/難波章浩.md "wikilink")/[CUBISMO GRAFICO FIVE](https://ja.wikipedia.org/wiki/CUBISMO_GRAFICO_FIVE "wikilink")
   - 2012年 - BRAHMAN2012 Tour 「露命」
   - 2012年 - BRAHMAN presents tantrism vol.8
       -
         w/[8otto](../Page/8otto.md "wikilink")/[RADIOTS](https://ja.wikipedia.org/wiki/RADIOTS "wikilink")
   - 2012年 - BRAHMAN presents tantrism vol.9
       -
-        w/[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")/[フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")
+        w/[BIGMAMA](https://ja.wikipedia.org/wiki/BIGMAMA "wikilink")/[フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")
   - 2013年 - BRAHMAN Tour 相克
       -
-        w/雷矢/[next](https://ja.wikipedia.org/wiki/next "wikilink")/[RAPPA](https://ja.wikipedia.org/wiki/RAPPA "wikilink")/[QUATTRO](https://ja.wikipedia.org/wiki/QUATTRO_\(バンド\) "wikilink")/[恒正彦](https://ja.wikipedia.org/wiki/恒正彦 "wikilink")/[The FRIDAY](https://ja.wikipedia.org/wiki/The_FRIDAY "wikilink")/[笠間コブラ会](https://ja.wikipedia.org/wiki/笠間コブラ会 "wikilink")/[OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink")/[THE NAMPA BOYS](https://ja.wikipedia.org/wiki/THE_NAMPA_BOYS "wikilink")/[九狼吽](https://ja.wikipedia.org/wiki/九狼吽 "wikilink")/[rega](https://ja.wikipedia.org/wiki/rega "wikilink")/[THINK AGAIN](https://ja.wikipedia.org/wiki/THINK_AGAIN "wikilink")/[WHITE ASH](https://ja.wikipedia.org/wiki/WHITE_ASH "wikilink")/[NAMBA69（ex-難波章浩-AKIHIRO NAMBA-）](https://ja.wikipedia.org/wiki/NAMBA69（ex-難波章浩-AKIHIRO_NAMBA-） "wikilink")/[Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")/[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[DAM](https://ja.wikipedia.org/wiki/DAM "wikilink")/[HUSKING BEE](../Page/HUSKING_BEE.md "wikilink")/[KEISHI TANAKA](https://ja.wikipedia.org/wiki/KEISHI_TANAKA "wikilink")/[KiM](https://ja.wikipedia.org/wiki/KiM "wikilink")/[MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")/[KEN YOKOYAMA](https://ja.wikipedia.org/wiki/KEN_YOKOYAMA "wikilink")/SPREAD/[LOSTAGE](../Page/LOSTAGE.md "wikilink")/[LIFE STYLE](https://ja.wikipedia.org/wiki/LIFE_STYLE "wikilink")/[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")
+        w/雷矢/[next](https://ja.wikipedia.org/wiki/next "wikilink")/[RAPPA](https://ja.wikipedia.org/wiki/RAPPA "wikilink")/[QUATTRO](https://ja.wikipedia.org/wiki/QUATTRO_\(バンド\) "wikilink")/[恒正彦](https://ja.wikipedia.org/wiki/恒正彦 "wikilink")/[The FRIDAY](https://ja.wikipedia.org/wiki/The_FRIDAY "wikilink")/[笠間コブラ会](https://ja.wikipedia.org/wiki/笠間コブラ会 "wikilink")/[OVER ARM THROW](https://ja.wikipedia.org/wiki/OVER_ARM_THROW "wikilink")/[THE NAMPA BOYS](https://ja.wikipedia.org/wiki/THE_NAMPA_BOYS "wikilink")/[九狼吽](https://ja.wikipedia.org/wiki/九狼吽 "wikilink")/[rega](https://ja.wikipedia.org/wiki/rega "wikilink")/[THINK AGAIN](https://ja.wikipedia.org/wiki/THINK_AGAIN "wikilink")/[WHITE ASH](https://ja.wikipedia.org/wiki/WHITE_ASH "wikilink")/[NAMBA69（ex-難波章浩-AKIHIRO NAMBA-）](https://ja.wikipedia.org/wiki/NAMBA69（ex-難波章浩-AKIHIRO_NAMBA-） "wikilink")/[Nothing's Carved In Stone](https://ja.wikipedia.org/wiki/Nothing's_Carved_In_Stone "wikilink")/[POLYSICS](../Page/POLYSICS.md "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[DAM](https://ja.wikipedia.org/wiki/DAM "wikilink")/[HUSKING BEE](../Page/HUSKING_BEE.md "wikilink")/[KEISHI TANAKA](https://ja.wikipedia.org/wiki/KEISHI_TANAKA "wikilink")/[KiM](https://ja.wikipedia.org/wiki/KiM "wikilink")/[MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")/[KEN YOKOYAMA](https://ja.wikipedia.org/wiki/KEN_YOKOYAMA "wikilink")/SPREAD/[LOSTAGE](../Page/LOSTAGE.md "wikilink")/[LIFE STYLE](https://ja.wikipedia.org/wiki/LIFE_STYLE "wikilink")/[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")
   - 2014年05月21日〜06月28日 - BRAHMAN Tour 1080°
   - 2015年01月19日〜04月05日 - BRAHMAN「Tour -Hands and Feet 7-」
       -
@@ -1464,7 +1464,7 @@ TFXQ-78111:BD</p></td>
 
 ### 出演イベント
 
-  - 1998年05月16日 - [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink") No More Fuckin' Band Boom Tour '98
+  - 1998年05月16日 - [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink") No More Fuckin' Band Boom Tour '98
   - 1998年08月22日 - [AIR JAM](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink") '98
   - 1999年07月31日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '99
   - 2000年08月19日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2000 in EZO
@@ -1578,7 +1578,7 @@ TFXQ-78111:BD</p></td>
   - 2015年03月17日・29日・04月04日・11日 - TOWER RECORDS presents Bowline 2015
   - 2015年03月21日 - 闇鍋音楽祭 2015
   - 2015年04月18日 - MOBSTYLES 15th ANNIVERSARY LIVE TOUR "FIGHT & MOSH" 〜浮かれちゃうよね\! 浮かれちゃうよね\! そりゃ浮かれちゃうよね\!\!\!〜
-  - 2015年04月19日 - [音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")LIVE 2015 ローリング・サンダー・レビュー
+  - 2015年04月19日 - [音楽と人](../Page/音楽と人.md "wikilink")LIVE 2015 ローリング・サンダー・レビュー
   - 2015年05月05日 - 越前・アオッサの乱 〜第二戦〜
   - 2015年05月06日 - 暁ロックフェス
   - 2015年05月08日・09日 - Stayin' Alive × -Hands and Feet 8-
@@ -1663,7 +1663,7 @@ TFXQ-78111:BD</p></td>
   - 2017年09月06日・7日 - Fire EX.「世界進撃WORLD TOUR 2017」
   - 2017年09月23日 - 山人音楽祭 2017
   - 2017年09月27日 - 九狼吽\&BRAHMAN presents "卍巴" vol.1
-  - 2017年09月29日 - [サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")「今年は何かとはっちゃけたい\!〜2017全国ツアー〜」
+  - 2017年09月29日 - [サンボマスター](../Page/サンボマスター.md "wikilink")「今年は何かとはっちゃけたい\!〜2017全国ツアー〜」
   - 2017年10月01日 - MACKDADDY 20th ANNIVERSARY LIVE"NEW AGE"
   - 2017年10月07日 - 気仙沼サンマフェスティバル 2017
   - 2017年10月12日 - The Covers'Fes.2017
@@ -1672,7 +1672,7 @@ TFXQ-78111:BD</p></td>
   - 2017年11月03日 - BLUE RESISTANCE pre BLUE RESISTANCE 5th ANNIVERSARY BRAHMAN SPECIAL LIVE
   - 2017年11月05日 - [G-FREAK FACTORY](../Page/G-FREAK_FACTORY.md "wikilink") "風林花山" TOUR 2017-2018
   - 2017年11月12日 - "SHIBUYA CYCLONE 20TH ANNIVERSARY" [NAMBA69](../Page/難波章浩.md "wikilink") vs BRAHMAN 2MAN SHOW
-  - 2017年11月18日 - [Hi-STANDARD](https://ja.wikipedia.org/wiki/Hi-STANDARD "wikilink") "THE GIFT TOUR 2017"
+  - 2017年11月18日 - [Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink") "THE GIFT TOUR 2017"
   - 2017年11月23日 - [ACIDMAN](../Page/ACIDMAN.md "wikilink") presents SAITAMA ROCK FESTIVAL "SAI"
   - 2017年12月03日 - POWER STOCK 2017 in ZEPP SAPPORO
   - 2018年6月24日 - [LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink") 2018 Produced by [LUNA SEA](../Page/LUNA_SEA.md "wikilink")

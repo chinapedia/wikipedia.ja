@@ -1,7 +1,7 @@
 > この記事は[IR3 JAPAN](https://ja.wikipedia.org/wiki/IR3_JAPAN)から翻訳されています。
 
 
-**IR3 JAPAN**（**アイ・アール・スリー・ジャパン**）は、[JFN系列で放送された](../Page/全国FM放送協議会.md "wikilink")「メール機能」を主に使用して放送する[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた。前番組は「[カウントダウンパラダイス](https://ja.wikipedia.org/wiki/カウントダウンパラダイス "wikilink")」（カンパラ）。
+**IR3 JAPAN**（**アイ・アール・スリー・ジャパン**）は、[JFN系列で放送された](../Page/全国FM放送協議会.md "wikilink")「メール機能」を主に使用して放送する[ラジオ番組](../Page/ラジオ番組.md "wikilink")で、[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていた。前番組は「[カウントダウンパラダイス](https://ja.wikipedia.org/wiki/カウントダウンパラダイス "wikilink")」（カンパラ）。
 
 ## 概要
 
@@ -48,7 +48,7 @@
   -
 
       -
-        クラモチ（→ツツイ）の初ディレクション番組がこのIR3である。JFNでは他にも「[BPR5000](https://ja.wikipedia.org/wiki/BPR5000 "wikilink")」なども担当していたが、当番組では事ある毎に効果音を乱発していた。「[2005年の新春特番](https://ja.wikipedia.org/wiki/生放送だよ!JFNオールスターズ全員集合!?2005 "wikilink")」での[つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")曰く「他のどの番組よりも生き生きしている」。
+        クラモチ（→ツツイ）の初ディレクション番組がこのIR3である。JFNでは他にも「[BPR5000](../Page/BPR5000.md "wikilink")」なども担当していたが、当番組では事ある毎に効果音を乱発していた。「[2005年の新春特番](../Page/生放送だよ!JFNオールスターズ全員集合!?2005.md "wikilink")」での[つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")曰く「他のどの番組よりも生き生きしている」。
 
 <!-- end list -->
 
@@ -251,13 +251,13 @@
 
 ## 放送終了決定後からの流れ
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月4日](../Page/3月4日.md "wikilink")、4時台の「電書鳩ポポー」終了後突然放送終了が決まったことが告知される。翌週（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月11日](../Page/3月11日.md "wikilink")）、わたなべヨシコは同じく2005年3月で放送終了となる「[MEGA HITS RADIO](https://ja.wikipedia.org/wiki/MEGA_HITS_RADIO "wikilink")」のエンディングに出演。さらにその日、当番組の3時台オープニングに「MEGA HITS RADIO」のパーソナリティ・[岩本三千代](https://ja.wikipedia.org/wiki/岩本三千代 "wikilink")が当番組宛にメッセージを贈った。また、以前はメールでのみの受付だった[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からのメッセージを、2005年3月に限り[FAXでも受け付けた](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")、4時台の「電書鳩ポポー」終了後突然放送終了が決まったことが告知される。翌週（[2005年](../Page/2005年.md "wikilink")[3月11日](../Page/3月11日.md "wikilink")）、わたなべヨシコは同じく2005年3月で放送終了となる「[MEGA HITS RADIO](https://ja.wikipedia.org/wiki/MEGA_HITS_RADIO "wikilink")」のエンディングに出演。さらにその日、当番組の3時台オープニングに「MEGA HITS RADIO」のパーソナリティ・[岩本三千代](https://ja.wikipedia.org/wiki/岩本三千代 "wikilink")が当番組宛にメッセージを贈った。また、以前はメールでのみの受付だった[リスナー](../Page/リスナー.md "wikilink")からのメッセージを、2005年3月に限り[FAXでも受け付けた](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")。
 
 2005年3月19日での放送では、わたなべヨシコへのドッキリとして、わたなべが尊敬するミュージシャンの山下達郎からのメッセージを放送。
 
-そして[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、5年半の歴史に幕を閉じた（「MEGA HITS RADIO」も同日放送終了）。最終回の時は、[BGMも曲も流さず](../Page/バックグラウンドミュージック.md "wikilink")（ただしこの番組にゆかりのある曲は流していた）、放送内容のほとんどをメッセージ紹介の時間にあてた。エンディングは、「[パッヘルベルのカノン](https://ja.wikipedia.org/wiki/カノン_\(パッヘルベル\) "wikilink")」をBGMにしながら、男性ナレーター（担当：ホズミックス）が過去在籍していたスタッフのあだ名や、この番組に関わった人たちの名前を読み上げ、そしてわたなべヨシコの涙まじりのコールが入り、最後はこの番組の挿入歌（詞はリスナーからアイデアを集めて作り、作曲は[カンケ](https://ja.wikipedia.org/wiki/カンケ "wikilink")という謎のミュージシャンが担当）だった「**メイド・イン・キス**」が流れるというものだった。
+そして[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、5年半の歴史に幕を閉じた（「MEGA HITS RADIO」も同日放送終了）。最終回の時は、[BGMも曲も流さず](../Page/バックグラウンドミュージック.md "wikilink")（ただしこの番組にゆかりのある曲は流していた）、放送内容のほとんどをメッセージ紹介の時間にあてた。エンディングは、「[パッヘルベルのカノン](../Page/カノン_\(パッヘルベル\).md "wikilink")」をBGMにしながら、男性ナレーター（担当：ホズミックス）が過去在籍していたスタッフのあだ名や、この番組に関わった人たちの名前を読み上げ、そしてわたなべヨシコの涙まじりのコールが入り、最後はこの番組の挿入歌（詞はリスナーからアイデアを集めて作り、作曲は[カンケ](https://ja.wikipedia.org/wiki/カンケ "wikilink")という謎のミュージシャンが担当）だった「**メイド・イン・キス**」が流れるというものだった。
 
-なお、当番組と「MEGA HITS RADIO」の後番組は、深夜1時からの「[ミッドナイトランブラー](https://ja.wikipedia.org/wiki/ミッドナイトランブラー "wikilink")」（パーソナリティ:[鈴木ダイ](https://ja.wikipedia.org/wiki/鈴木ダイ_\(ディスクジョッキー\) "wikilink")、[オアシズ](../Page/オアシズ.md "wikilink")）。この番組も飛び乗り・飛び降りネットをする局が多いが、理由の1つに、「MEGA HITS RADIO」とこの番組を飛び乗り・飛び降りネットもしくはネットしていなかった局がその放送枠に放送している番組や、「[放送室](https://ja.wikipedia.org/wiki/放送室_\(ラジオ番組\) "wikilink")」の放送枠を確保するためであることが多い。
+なお、当番組と「MEGA HITS RADIO」の後番組は、深夜1時からの「[ミッドナイトランブラー](../Page/ミッドナイトランブラー.md "wikilink")」（パーソナリティ:[鈴木ダイ](https://ja.wikipedia.org/wiki/鈴木ダイ_\(ディスクジョッキー\) "wikilink")、[オアシズ](../Page/オアシズ.md "wikilink")）。この番組も飛び乗り・飛び降りネットをする局が多いが、理由の1つに、「MEGA HITS RADIO」とこの番組を飛び乗り・飛び降りネットもしくはネットしていなかった局がその放送枠に放送している番組や、「[放送室](../Page/放送室_\(ラジオ番組\).md "wikilink")」の放送枠を確保するためであることが多い。
 
 ## IR3に関連したサイト
 

@@ -17,8 +17,8 @@
 
 ### 現在
 
-  - 月曜 - [BUTCH](https://ja.wikipedia.org/wiki/BUTCH "wikilink")（2013年3月までは火曜も担当していた。）、[小雪](https://ja.wikipedia.org/wiki/小雪_\(タレント\) "wikilink")（女優の小雪とは別人。）
-  - 火曜 - [岡本ヒロミツ](https://ja.wikipedia.org/wiki/岡本ヒロミツ "wikilink")（2017年10月 - ）、[斉藤ふみ](https://ja.wikipedia.org/wiki/斉藤ふみ "wikilink")（2013年3月までは月曜も担当していた。）
+  - 月曜 - [BUTCH](../Page/BUTCH.md "wikilink")（2013年3月までは火曜も担当していた。）、[小雪](https://ja.wikipedia.org/wiki/小雪_\(タレント\) "wikilink")（女優の小雪とは別人。）
+  - 火曜 - [岡本ヒロミツ](https://ja.wikipedia.org/wiki/岡本ヒロミツ "wikilink")（2017年10月 - ）、[斉藤ふみ](../Page/斉藤ふみ.md "wikilink")（2013年3月までは月曜も担当していた。）
   - 水曜 - [ちん](https://ja.wikipedia.org/wiki/ちん "wikilink")。（2013年4月 - 。2014年4月 - 2017年9月は「ちんみ」として木曜も担当していた\[3\]。）、[バンカヨコ](https://ja.wikipedia.org/wiki/バンカヨコ "wikilink")（2013年4月 - 。2009年3月 - 6月は代打として火曜も担当していた。）
   - 木曜 - [TOGGY](https://ja.wikipedia.org/wiki/TOGGY "wikilink")（2017年10月 - \[4\]）、[山田優子](https://ja.wikipedia.org/wiki/山田優子 "wikilink")（2013年3月までは水曜も担当していた。また、2009年3月 - 6月は代打として月曜も担当していた。）
 
@@ -28,8 +28,8 @@
   - [松尾亜希子](https://ja.wikipedia.org/wiki/松尾亜希子 "wikilink")（水曜・木曜 - 2003年3月）
       - [AIR-G'に転向](../Page/エフエム北海道.md "wikilink")。
   - [木原友香](../Page/木原友香.md "wikilink")（水曜・木曜）
-  - [椎葉ユウ](https://ja.wikipedia.org/wiki/椎葉ユウ "wikilink")（水曜・木曜）
-  - [米岡誠一](https://ja.wikipedia.org/wiki/米岡誠一 "wikilink")（2013年3月までは水曜・木曜、2013年4月 - 2014年3月に木曜担当。16年パーソナリティを務めた。）
+  - [椎葉ユウ](../Page/椎葉ユウ.md "wikilink")（水曜・木曜）
+  - [米岡誠一](../Page/米岡誠一.md "wikilink")（2013年3月までは水曜・木曜、2013年4月 - 2014年3月に木曜担当。16年パーソナリティを務めた。）
   - [謎のアジア人](https://ja.wikipedia.org/wiki/謎のアジア人 "wikilink")（ナジ→）（2013年4月 - 2017年9月に火曜担当\[5\]\[6\]。）
       - [BUTCH COUNTDOWN RADIOなどのプロデューサーも務めている](../Page/BUTCH_COUNTDOWN_RADIO.md "wikilink")。
 
@@ -85,7 +85,7 @@
   - 14:35 - （火・木）ライフ・ウィズ・北九州（提供：[北九州市](../Page/北九州市役所.md "wikilink")）
       - 北九州の市政情報などを伝える。
   - 14:40 - Traffic Report
-  - 14:55 - [MY OLYMPIC α](https://ja.wikipedia.org/wiki/MY_OLYMPIC "wikilink")（JFNネット番組）
+  - 14:55 - [MY OLYMPIC α](../Page/MY_OLYMPIC.md "wikilink")（JFNネット番組）
   - 15:00 - ラジ★ゴン ちょっ コレなぁ～ん\!?～ちょっコレ～
       - DJが「ちょっと、これ何?」と気になるものを紹介するコーナー。
   - 15:09 - Today's Report

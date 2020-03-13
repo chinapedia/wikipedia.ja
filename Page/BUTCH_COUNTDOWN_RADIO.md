@@ -15,7 +15,7 @@
 
 なお、番組ジングルは「BUTCH COUNTDOWN RADIO WOW\! FM FUKUOKA」が主に使用される。
 
-番組は20年以上、延べ回数1000回以上続いており、現在も朝ワイド「[（ナカジー&バン）MORNING JAM](../Page/モーニングジャム.md "wikilink")」や平日昼ワイド「[SUPER RADIO MONSTER ラジ★ゴン](https://ja.wikipedia.org/wiki/SUPER_RADIO_MONSTER_ラジ★ゴン "wikilink")」（以下「ラジ★ゴン」と記載）と並び、同局の中でも長寿番組としてリスナーから支持を得ている。
+番組は20年以上、延べ回数1000回以上続いており、現在も朝ワイド「[（ナカジー&バン）MORNING JAM](../Page/モーニングジャム.md "wikilink")」や平日昼ワイド「[SUPER RADIO MONSTER ラジ★ゴン](../Page/SUPER_RADIO_MONSTER_ラジ★ゴン.md "wikilink")」（以下「ラジ★ゴン」と記載）と並び、同局の中でも長寿番組としてリスナーから支持を得ている。
 
 2008年11月からは同局の新社屋移転に伴い、一階にあるサテライトスタジオ（[アクサダイレクト](https://ja.wikipedia.org/wiki/アクサダイレクト "wikilink")スタジオ）からの放送を開始。これに伴い、ガラス越しで放送中の様子を閲覧する事が可能となった。また、同局のホームページでも、静止画ではあるが放送中の様子を確認する事ができる。
 
@@ -45,7 +45,7 @@
 
 ### 現在のMC
 
-  - [BUTCH](https://ja.wikipedia.org/wiki/BUTCH "wikilink")
+  - [BUTCH](../Page/BUTCH.md "wikilink")
       - メインMC。番組開始当初からPART1及びPART2を担当。自称「**スーパーDJ（MC）**」。
       - 下記の通り、随時声真似・物真似を挟みながら番組を進行。これが番組紹介で『15分に一回の大爆笑〜』と記載される理由の一部でもある。
 
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - [斉藤ふみ](https://ja.wikipedia.org/wiki/斉藤ふみ "wikilink")
+  - [斉藤ふみ](../Page/斉藤ふみ.md "wikilink")
       - 時期失念（遅くとも1999年10月）〜2006年6月まではPART2、2006年7月〜2009年9月まではPART1を担当。ただし、上述の通り、2009年3月〜6月は産休により番組を休演していた。
       - 同番組の中ではBUTCHに次ぐ長期間の出演者となる。なお、同じく番組のMCとして務める「ラジ★ゴン」は2013年3月まで月・火曜をBUTCHと共演していた。
       - BUTCHが特番出演のため、斉藤が1人で番組を進めた時には、リスナーから心配のメールが多数寄せられた（しかし、逆に斉藤が特番のために途中で抜け出した時、BUTCH宛にメールは来なかった）。
@@ -105,9 +105,9 @@
 
 ## タイムテーブル
 
-途中で「FM FUKUOKA Today's Report」（[ニュース](../Page/ニュース.md "wikilink")）、「Weather Report」（[天気予報](../Page/天気予報.md "wikilink")）、「Traffic Report」（[交通情報](../Page/交通情報.md "wikilink")）が含まれる他、14:55にTFM発ネット番組「[MY OLYMPIC α](https://ja.wikipedia.org/wiki/MY_OLYMPIC "wikilink")」が挿入。
+途中で「FM FUKUOKA Today's Report」（[ニュース](../Page/ニュース.md "wikilink")）、「Weather Report」（[天気予報](../Page/天気予報.md "wikilink")）、「Traffic Report」（[交通情報](../Page/交通情報.md "wikilink")）が含まれる他、14:55にTFM発ネット番組「[MY OLYMPIC α](../Page/MY_OLYMPIC.md "wikilink")」が挿入。
 
-「Weather Report」は、14時台と18時台はBUTCHやkaedeが声真似・物真似をしながら伝える（物真似は[BUTCH](https://ja.wikipedia.org/wiki/BUTCH "wikilink")項目参照）。
+「Weather Report」は、14時台と18時台はBUTCHやkaedeが声真似・物真似をしながら伝える（物真似は[BUTCH](../Page/BUTCH.md "wikilink")項目参照）。
 概況は「**天気概況お伝え赤ちゃん**（[博多弁](../Page/博多弁.md "wikilink")訛り。概況中盤から急激に成長が早くなり伝え終わる頃には通常のBUTCHボイスを通り越しおじいちゃんの声）」に固定（14時台・18時台）。一度、「たまには逆に行ってみるか」という発言をきっかけに「お伝えおじいちゃん」（もちろん逆成長も早い）でやったが相当至難だったためか行われていない。また「[響灘](../Page/響灘.md "wikilink")」のフレーズが出ると、「どれくらい響くのか」を調べる（単純にシャウトにエコーをかける）。
 そのあとは地域ごとの予報を福岡地方、北九州地方、筑豊地方、筑後地方の順でお届けする。福岡は王貞治、北九州はルパン三世で固定。筑豊はkaedeが倖田來未やked34を経て『[キテレツ大百科](../Page/キテレツ大百科.md "wikilink")』のブタゴリラをまねながら野菜ダジャレ、その後BUTCHが苅野勉三に扮して予報を伝える。松藤は[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")。筑後は往々にして[郷ひろみ](../Page/郷ひろみ.md "wikilink")。ただし、全地方で同じ予報が発表されているときは一つのモノマネで済ませることもある。
 コーナーの最後はkaede・松藤の声をボイスチェンジした[天 達子（あま・たつこ）が通常の天気原稿を読んでいる](../Page/天達武史.md "wikilink")。2015年ごろからはオカマ風に天気を伝える[カマ 達子（かま・たつこ）が読むこともある](../Page/天達武史.md "wikilink")。
@@ -138,7 +138,7 @@
   - 14:35　ザ・メシュラン
       - 「謎のアジア人」とBUTCHが自腹でお薦めの飲食店を紹介。自腹のため、一曲挟んだ後に不満な点・改善すべき箇所等を言う。
       - このコーナーをまとめた書籍が過去に発売されている（下記参照）。
-  - 14:55　[MY OLYMPIC α](https://ja.wikipedia.org/wiki/MY_OLYMPIC "wikilink")
+  - 14:55　[MY OLYMPIC α](../Page/MY_OLYMPIC.md "wikilink")
   - 15:00　ブチコ登場
       - BUTCHが[ピーコ](../Page/ピーコ.md "wikilink")の話し方を真似たキャラ・「**ブチコ**」を演じ、雑誌の気になる記事や話題を紹介。
       - 放送禁止用語を連発するため、いわゆる「ピー音」がかかるが、生放送のため当然すべては隠す事はできない。過去にMCを務めた斉藤曰く、「ブチ子の時は禁止用語を連発するため爆笑をする事が多く、この時はスタッフも（「ピー音」を出す事に）真剣になっている」らしい。その一方で、「ブチコ（BUTCH）自身がピー音をかいくぐろうと努力している」との意見もある。ただし、最近は放送禁止用語を喋らなくなっている。
@@ -162,7 +162,7 @@
   - 16:45　FM FUKUOKA Today's Report
   - 16:48　ちょいちょいちょい
   - 16:51　ベスト・ヒット ブチカン‼
-      - BUTCH演じる「小林かつんや」とkaede演じる「セーラ・よえる」がコーナーを進行。コーナー名は[ベストヒットUSA](https://ja.wikipedia.org/wiki/ベストヒットUSA "wikilink")のパロディ、それぞれの名前は[小林克也](../Page/小林克也.md "wikilink")と[セーラ・ロウエル](https://ja.wikipedia.org/wiki/セーラ・ロウエル "wikilink")に掛かっている。内容は以前放送されていた「ちょっとストリーム」とほぼ同じである。
+      - BUTCH演じる「小林かつんや」とkaede演じる「セーラ・よえる」がコーナーを進行。コーナー名は[ベストヒットUSA](../Page/ベストヒットUSA.md "wikilink")のパロディ、それぞれの名前は[小林克也](../Page/小林克也.md "wikilink")と[セーラ・ロウエル](https://ja.wikipedia.org/wiki/セーラ・ロウエル "wikilink")に掛かっている。内容は以前放送されていた「ちょっとストリーム」とほぼ同じである。
 
 ### PART2
 
@@ -229,7 +229,7 @@
   - ブチカン人生相談
       - BUTCHが様々なジャンルの「先生」に扮して、リスナーからの相談に回答する。
   - 恥かチンドン
-      - リスナーの恥ずかしい話を紹介。コメンテーターはチンドン屋の[安達ひでや](https://ja.wikipedia.org/wiki/安達ひでや "wikilink")。
+      - リスナーの恥ずかしい話を紹介。コメンテーターはチンドン屋の[安達ひでや](../Page/安達ひでや.md "wikilink")。
       - 2016年1月29日の放送1000回の際に一夜限りで復活した。
   - 結成\!\!ブチカンブラック団
       - kaedeが団長となり、リスナーからの「腹黒い話」を募る。
@@ -254,7 +254,7 @@
 当初の放送日時は毎週金曜日の05:00-05:55。
 放送日の前週に放送されたブチカンを55分間に編集（主に「ザ・メシュラン」「ブチコ登場」と18時台に放送したブチカンチャートTOP5）して再放送している。
 
-後に放送枠を拡大し毎週金曜日の05:15-07:00の放送となった（05:55-06:00は「[MY OLYMPIC](https://ja.wikipedia.org/wiki/MY_OLYMPIC "wikilink")」、06:25-06:45は「[LOVE & HOPE～ヒューマン・ケア・プロジェクト～](https://ja.wikipedia.org/wiki/LOVE_&_HOPE "wikilink")」、「TODAY'S AGRI NEWS」、「クロノス～MUSIC」、「[コスモアースコンシャスアクト 未来へのタカラモノ](https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。 "wikilink")」を放送するため中断）。
+後に放送枠を拡大し毎週金曜日の05:15-07:00の放送となった（05:55-06:00は「[MY OLYMPIC](../Page/MY_OLYMPIC.md "wikilink")」、06:25-06:45は「[LOVE & HOPE～ヒューマン・ケア・プロジェクト～](https://ja.wikipedia.org/wiki/LOVE_&_HOPE "wikilink")」、「TODAY'S AGRI NEWS」、「クロノス～MUSIC」、「[コスモアースコンシャスアクト 未来へのタカラモノ](https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。 "wikilink")」を放送するため中断）。
 
 2019年4月からは「AIG損保presents 法人会「賢者の名言」」の終了と「MY OLYMPIC」の枠移動に伴い5:10-6:25の放送となる。
 
@@ -308,4 +308,4 @@
 3.  [1](https://twitter.com/minako_0328/status/1201682873134174208)
 4.  [2](https://twitter.com/kaede_hug/status/1200386583989374977)
 5.  ex:番組本番中に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")及び、その発生から5年を迎えた2016年3月11日、[熊本地震](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、[2009年豪雨](https://ja.wikipedia.org/wiki/平成21年7月中国・九州北部豪雨 "wikilink")、[2012年豪雨](https://ja.wikipedia.org/wiki/平成24年7月九州北部豪雨 "wikilink")、[2017年豪雨](https://ja.wikipedia.org/wiki/平成29年7月九州北部豪雨 "wikilink")（数週間自粛）
-6.  2006年3月まではジョウ・タツンダ（[城達也](https://ja.wikipedia.org/wiki/城達也 "wikilink")の並びを逆にした[アナグラム](../Page/アナグラム.md "wikilink")）の、2006年4月以降はサトウ・イブマ（この場合もアナグラム方式で[伊武雅刀](../Page/伊武雅刀.md "wikilink")の並びを逆にしたもの。アメリカ読みで「イブマ・サトウ」というフレーズを必ず付ける）物真似だった。
+6.  2006年3月まではジョウ・タツンダ（[城達也](../Page/城達也.md "wikilink")の並びを逆にした[アナグラム](../Page/アナグラム.md "wikilink")）の、2006年4月以降はサトウ・イブマ（この場合もアナグラム方式で[伊武雅刀](../Page/伊武雅刀.md "wikilink")の並びを逆にしたもの。アメリカ読みで「イブマ・サトウ」というフレーズを必ず付ける）物真似だった。

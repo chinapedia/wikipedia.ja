@@ -5,22 +5,22 @@
 
 タイトル表記は『スパイVSスパイ』だが、読み方は「スパイ **アンド** スパイ」である。アメリカンコミックス『[Mad](../Page/MAD_\(雑誌\).md "wikilink")』に連載された『[Spy vs. Spy](https://ja.wikipedia.org/wiki/Spy_vs._Spy "wikilink")』（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")）のゲーム化で、コミックの著者はAntonio Prohías（アントニオ・プロヒアス）。本作のゲーム・デザインはマイケル・J・リーデルが行った。
 
-オリジナルは[Atari 8ビット・コンピュータ版で](../Page/Atari_8ビット・コンピュータ.md "wikilink")、同年に[コモドール64](https://ja.wikipedia.org/wiki/コモドール64 "wikilink")や[Apple II](../Page/Apple_II.md "wikilink")、後年には[Amiga](../Page/Amiga.md "wikilink")や[Atari STなど当時の主要な海外](../Page/Atari_ST.md "wikilink")[プラットフォームに広く移植された](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。[2人対戦が基本のアクションゲームで](../Page/2プレイヤー.md "wikilink")、続編もリリースされる人気シリーズとなった。日本では[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、[セガマークIII](https://ja.wikipedia.org/wiki/セガマークIII "wikilink")、[PC-8801](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")、[X1](../Page/X1_\(コンピュータ\).md "wikilink")、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")に移植されている。
+オリジナルは[Atari 8ビット・コンピュータ版で](../Page/Atari_8ビット・コンピュータ.md "wikilink")、同年に[コモドール64](../Page/コモドール64.md "wikilink")や[Apple II](../Page/Apple_II.md "wikilink")、後年には[Amiga](../Page/Amiga.md "wikilink")や[Atari STなど当時の主要な海外](../Page/Atari_ST.md "wikilink")[プラットフォームに広く移植された](../Page/プラットフォーム_\(コンピューティング\).md "wikilink")。[2人対戦が基本のアクションゲームで](../Page/2プレイヤー.md "wikilink")、続編もリリースされる人気シリーズとなった。日本では[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、[セガマークIII](https://ja.wikipedia.org/wiki/セガマークIII "wikilink")、[PC-8801](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")、[X1](../Page/X1_\(コンピュータ\).md "wikilink")、[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")に移植されている。
 
 ## ゲーム内容
 
 ### システム
 
-スパイの情報争奪戦をテーマとした対戦型アクションゲーム。白の[スパイ](../Page/スパイ.md "wikilink")「ヘッケル」と黒の「ジャッケル」を操作し、部屋のどこかに隠された『カバン』『[設計図](../Page/図面.md "wikilink")』『[パスポート](https://ja.wikipedia.org/wiki/パスポート "wikilink")』『金』『[鍵](https://ja.wikipedia.org/wiki/鍵 "wikilink")』の4種類の[アイテム](https://ja.wikipedia.org/wiki/アイテム "wikilink")を探し出し、相手よりも早く[空港](../Page/空港.md "wikilink")から飛行機で脱出することが目的である\[1\]。カバンを除くそれぞれのアイテムは2つ以上は持てないので、カバンを手に入れて他のアイテムを運ばなくてはならない。なお、武器、カバンを含むアイテムとプレーヤーは、マップ上に青く表示される。カバンに4種類のアイテムを入れて、制限時間内に空港のドアを出た方の勝ちとなる。アイテムが揃っていないのに空港のドアを開けると、はじかれて一回気絶する。
+スパイの情報争奪戦をテーマとした対戦型アクションゲーム。白の[スパイ](../Page/スパイ.md "wikilink")「ヘッケル」と黒の「ジャッケル」を操作し、部屋のどこかに隠された『カバン』『[設計図](../Page/図面.md "wikilink")』『[パスポート](https://ja.wikipedia.org/wiki/パスポート "wikilink")』『金』『[鍵](https://ja.wikipedia.org/wiki/鍵 "wikilink")』の4種類の[アイテム](../Page/アイテム.md "wikilink")を探し出し、相手よりも早く[空港](../Page/空港.md "wikilink")から飛行機で脱出することが目的である\[1\]。カバンを除くそれぞれのアイテムは2つ以上は持てないので、カバンを手に入れて他のアイテムを運ばなくてはならない。なお、武器、カバンを含むアイテムとプレーヤーは、マップ上に青く表示される。カバンに4種類のアイテムを入れて、制限時間内に空港のドアを出た方の勝ちとなる。アイテムが揃っていないのに空港のドアを開けると、はじかれて一回気絶する。
 
-以下の罠の要素を使って相手の動きを妨害することができる。設置された罠に引っかかると死亡し、一定時間行動不能となり、ペナルティとして制限時間が30秒マイナスされる。制限時間が0秒になった場合[ゲームオーバー](https://ja.wikipedia.org/wiki/ゲームオーバー "wikilink")になるので、気絶した回数が多いと不利になる。
+以下の罠の要素を使って相手の動きを妨害することができる。設置された罠に引っかかると死亡し、一定時間行動不能となり、ペナルティとして制限時間が30秒マイナスされる。制限時間が0秒になった場合[ゲームオーバー](../Page/ゲームオーバー.md "wikilink")になるので、気絶した回数が多いと不利になる。
 
 ### 罠と回避方法
 
 以下の種類の罠が存在し、それぞれ決められた場所に仕掛けることができる。仕掛けた罠は仕掛けた本人にも効果がある。
 
   - [ダイナマイト](../Page/ダイナマイト.md "wikilink")
-    [タンス](../Page/箪笥.md "wikilink")、[机](https://ja.wikipedia.org/wiki/机 "wikilink")、[額縁](https://ja.wikipedia.org/wiki/額縁 "wikilink")などに仕掛ける。設置された机などを開けた途端爆発、即死する。赤い防火用具入れにある白バケツを使用し、ダイナマイトを元から消火することで回避できる。
+    [タンス](../Page/箪笥.md "wikilink")、[机](../Page/机.md "wikilink")、[額縁](../Page/額縁.md "wikilink")などに仕掛ける。設置された机などを開けた途端爆発、即死する。赤い防火用具入れにある白バケツを使用し、ダイナマイトを元から消火することで回避できる。
   - [スプリング](../Page/ばね.md "wikilink")
     タンス、机、額縁などに仕掛ける。設置された机などを開けた途端弾き飛ばされ気絶する。なお、飛んだ先のドアが開いていれば、その隣の部屋まで飛ばされる。その部屋のドアも開いていれば、さらに隣へ飛ばされる。白い[工具箱](../Page/工具箱.md "wikilink")にある[ペンチ](../Page/ペンチ.md "wikilink")を使用しスプリングをばらして回避できる。
   - [硫酸](https://ja.wikipedia.org/wiki/硫酸 "wikilink")バケツ
@@ -224,7 +224,7 @@
 
 <!-- end list -->
 
-  - ゲーム誌『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、15.16点（満30点）となっている\[4\]。
+  - ゲーム誌『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、15.16点（満30点）となっている\[4\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -241,7 +241,7 @@
 ## 続編
 
   - Spy vs. Spy II: THE ISLAND CAPER（1985年）
-      - 南国の無人島を舞台にしたシリーズ第2弾。『[南国指令\!\!スパイvsスパイ](https://ja.wikipedia.org/wiki/南国指令!!スパイvsスパイ "wikilink")』のタイトルで、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")にも移植された。
+      - 南国の無人島を舞台にしたシリーズ第2弾。『[南国指令\!\!スパイvsスパイ](../Page/南国指令!!スパイvsスパイ.md "wikilink")』のタイトルで、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")にも移植された。
   - Spy vs Spy III: AECTIC ANTICS（1987年）
       - [南極](../Page/南極.md "wikilink")を舞台にしたシリーズ第3弾。日本製ハードには移植されなかった。
   - Spy vs Spy　[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")/[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")版（2012年）、[Android](../Page/Android.md "wikilink")版（2014年）

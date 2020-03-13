@@ -11,7 +11,7 @@ __TOC__ {{-}}
 
 <!-- end list -->
 
-  - **SAITARO**（サイタロウ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月3日](../Page/2月3日.md "wikilink") - ）[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")出身。血液型A型。
+  - **SAITARO**（サイタロウ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月3日](../Page/2月3日.md "wikilink") - ）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")出身。血液型A型。
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@ __TOC__ {{-}}
 
 <!-- end list -->
 
-  - **kj**（ケージェイ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")担当。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")[蓮田市](../Page/蓮田市.md "wikilink")出身。血液型[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - **kj**（ケージェイ、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月20日](../Page/10月20日.md "wikilink") - ）[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")担当。[埼玉県](../Page/埼玉県.md "wikilink")[蓮田市](../Page/蓮田市.md "wikilink")出身。血液型[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
 
 ## 過去のメンバー
 
@@ -36,7 +36,7 @@ __TOC__ {{-}}
   - TAKASHI KAMEI　[トロンボーン](../Page/トロンボーン.md "wikilink")担当　\[〜sonic\]
   - Shuhei KIMURA　[トロンボーン](../Page/トロンボーン.md "wikilink")担当　\[〜sonic\]
   - YOSHITOMO KUSHIBE　[ドラム担当](../Page/ドラムセット.md "wikilink")　\[〜sonic\]
-  - TAKEOMI SUGAWARA　[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")　\[〜DELTA FORCE\]
+  - TAKEOMI SUGAWARA　[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")　\[〜DELTA FORCE\]
 
 ## 略歴
 
@@ -438,7 +438,7 @@ TCA-2001</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビクターエンタテインメント" title="wikilink">ビクターエンタテインメント</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/11月9日.md" title="wikilink">11月9日</a></p></td>
 <td><p><strong>STYLE OF Limited VITALIZE ~best sellection~</strong></p></td>
 <td><p>LTDC-088</p></td>
 <td><p>[disc2]track1.Swear</p></td>
@@ -473,7 +473,7 @@ TCA-2001</p></td>
 
 #### パーソナリティ
 
-  - LONG SHOT PARTY ミッドナイトスクープ（[fmOSAKA](../Page/エフエム大阪.md "wikilink")、毎週[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 27:00 - 29:00）[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")
+  - LONG SHOT PARTY ミッドナイトスクープ（[fmOSAKA](../Page/エフエム大阪.md "wikilink")、毎週[木曜日](../Page/木曜日.md "wikilink") 27:00 - 29:00）[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")
 
 ## 外部リンク
 

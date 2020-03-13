@@ -23,7 +23,7 @@
 
   - DENKI-MAN(デンキマン)
       - 結成初期から2007年までいたサポートメンバー。イラクのテロリストのマスクを被っていた。、【SEIKE WEARS THE SWIT】のPVに出演している。
-      - 脱退後、[LM.C](https://ja.wikipedia.org/wiki/LM.C "wikilink")のサポートVJを勤めている。
+      - 脱退後、[LM.C](../Page/LM.C.md "wikilink")のサポートVJを勤めている。
 
 ### 関係者
 
@@ -35,7 +35,7 @@
   - 2003年8月、前身バンドKINGを結成後、継続して活動。
   - 2004年4月4日、NAZIS CLUBにて1st GIGを行う。しかし1曲演奏した所で警察に止められてしまう。販売する予定だったKLACKのスティッカーを配布する事を余儀なくされた。
   - 2004年7月28日、1stシングル『INTIFADA2004』を発売。同日SMクラブにて2nd GIG「Khmer Rouge」を敢行。
-  - 2004年7月30日、[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")にオープニングアクトとして出演。
+  - 2004年7月30日、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")にオープニングアクトとして出演。
   - 2004年11月17日、1st DVD『TERRORISM OF RED PISS』を発売。
   - 2004年12月26日、ライブイベント「Beauti-fool's fest 04」(東京BAY NKホール)に参加。しかしスクリーンに上映した映像が問題となる。
   - 2007年6月、それまではサポート・メンバーとして参加していた上村隼人（元ガネーシャ）が正式に加入。
@@ -51,7 +51,7 @@
 
 ### KLACK事件
 
-KLACK史上最も有名な事件。2004年12月26日、雑誌「[FOOL'S MATE](https://ja.wikipedia.org/wiki/FOOL'S_MATE "wikilink")」、[TBSが主催したライブイベント](../Page/TBSテレビ.md "wikilink")「Beauti-fool's Fest '04」に出演。その際に5000人あまりの観客を前に**[イラク日本人青年殺害事件](https://ja.wikipedia.org/wiki/イラク日本人青年殺害事件 "wikilink")で[イラク](../Page/イラク.md "wikilink")の[武装](../Page/武装.md "wikilink")[組織](https://ja.wikipedia.org/wiki/組織_\(社会科学\) "wikilink")、[アルカーイダ](https://ja.wikipedia.org/wiki/アルカーイダ "wikilink")に拉致された日本人男性が首を切られる一部始終の映像を流した**というものである\[3\]\[4\]。
+KLACK史上最も有名な事件。2004年12月26日、雑誌「[FOOL'S MATE](https://ja.wikipedia.org/wiki/FOOL'S_MATE "wikilink")」、[TBSが主催したライブイベント](../Page/TBSテレビ.md "wikilink")「Beauti-fool's Fest '04」に出演。その際に5000人あまりの観客を前に**[イラク日本人青年殺害事件](../Page/イラク日本人青年殺害事件.md "wikilink")で[イラク](../Page/イラク.md "wikilink")の[武装](../Page/武装.md "wikilink")[組織](../Page/組織_\(社会科学\).md "wikilink")、[アルカーイダ](https://ja.wikipedia.org/wiki/アルカーイダ "wikilink")に拉致された日本人男性が首を切られる一部始終の映像を流した**というものである\[3\]\[4\]。
 
 事件後、主催者のTBS及び『FOOL'S MATE』は謝罪文を発表したものの\[5\]\[6\]、KLACKのメンバーからのコメントは一切なかった。
 

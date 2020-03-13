@@ -7,7 +7,7 @@
 
 2ndミニアルバム『[day after tomorrow II](https://ja.wikipedia.org/wiki/day_after_tomorrow_II "wikilink")』からのリカットシングルで、メンバー3人が大切にしている曲である。鈴木がavexに送ったこの曲をたまたまmisonoがデモで歌い、それを聞いた北野が2人に声をかけ、3人が出会うきっかけとなった。
 
-[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高位は12位だが、11回チャートインしており、オリコンチャートTOP10入りしなかったシングルの中では一番売り上げが高い(全シングルの中では5番目の売り上げ)。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高位は12位だが、11回チャートインしており、オリコンチャートTOP10入りしなかったシングルの中では一番売り上げが高い(全シングルの中では5番目の売り上げ)。
 
 ## CDシングル
 
@@ -16,7 +16,7 @@
 1.  **My faith**
     （作詞：[misono](https://ja.wikipedia.org/wiki/misono "wikilink") / 作曲：[鈴木大輔](https://ja.wikipedia.org/wiki/鈴木大輔_\(ミュージシャン\) "wikilink") / 編曲：[五十嵐充](../Page/五十嵐充.md "wikilink")、day after tomorrow）
       -
-        [フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[ホーム&アウェイ](https://ja.wikipedia.org/wiki/ホーム&アウェイ_\(テレビドラマ\) "wikilink")』主題歌
+        [フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[ホーム&アウェイ](../Page/ホーム&アウェイ_\(テレビドラマ\).md "wikilink")』主題歌
 2.  **My faith -Instrumental-**
 
 ## DVDシングル
@@ -29,9 +29,9 @@
 ## 参加ミュージシャン
 
   - misono:[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-  - [北野正人](https://ja.wikipedia.org/wiki/北野正人 "wikilink"):[ギター](../Page/ギター.md "wikilink")
+  - [北野正人](../Page/北野正人.md "wikilink"):[ギター](../Page/ギター.md "wikilink")
   - 鈴木大輔:[キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - 五十嵐充:[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、キーボード
+  - 五十嵐充:[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")、キーボード
   - 加藤薫:[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")
 
 [en:My Faith](https://ja.wikipedia.org/wiki/en:My_Faith "wikilink")

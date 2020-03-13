@@ -3,7 +3,7 @@
 
 『**南国指令\!\!スパイvsスパイ**』（なんごくしれい スパイアンドスパイ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[コトブキシステム](../Page/コトブキシステム.md "wikilink")から発売されたファミリーコンピュータ用ソフト。
 
-[ファーストスターソフトウェアから](https://ja.wikipedia.org/wiki/:en:First_Star_Software "wikilink")1985年に北米および欧州にて[Apple II](../Page/Apple_II.md "wikilink")、[Atari 8ビット・コンピュータ](../Page/Atari_8ビット・コンピュータ.md "wikilink")、[コモドール64](https://ja.wikipedia.org/wiki/コモドール64 "wikilink")用ソフトとして発売された『*Spy vs. Spy: The Island Caper*』をオリジナルとしたローカライズ移植版である。オリジナル版はマイケル・J・リーデルがプログラムを担当した。
+[ファーストスターソフトウェアから](https://ja.wikipedia.org/wiki/:en:First_Star_Software "wikilink")1985年に北米および欧州にて[Apple II](../Page/Apple_II.md "wikilink")、[Atari 8ビット・コンピュータ](../Page/Atari_8ビット・コンピュータ.md "wikilink")、[コモドール64](../Page/コモドール64.md "wikilink")用ソフトとして発売された『*Spy vs. Spy: The Island Caper*』をオリジナルとしたローカライズ移植版である。オリジナル版はマイケル・J・リーデルがプログラムを担当した。
 
 『[スパイvsスパイ](../Page/スパイvsスパイ_\(コンピュータゲーム\).md "wikilink")』の続編であり、前作に引き続きアメリカンコミックス『[Mad](../Page/MAD_\(雑誌\).md "wikilink")』に連載された『[Spy vs. Spy](https://ja.wikipedia.org/wiki/Spy_vs._Spy "wikilink")』（[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")）を原作としている。
 
@@ -15,7 +15,7 @@
 
 ### システム
 
-全6ステージの中から1つを選択し、敵より先にステージ（[無人島](https://ja.wikipedia.org/wiki/無人島 "wikilink")）内に隠されているミサイルの破片をすべて集め、無人島脱出用の潜水艦が待ち構えている場所へ到達すると勝ちとなる。(潜水艦は一定周期で出入りを繰り返しているため、タイミングによっては海に入っても脱出できない)
+全6ステージの中から1つを選択し、敵より先にステージ（[無人島](../Page/無人島.md "wikilink")）内に隠されているミサイルの破片をすべて集め、無人島脱出用の潜水艦が待ち構えている場所へ到達すると勝ちとなる。(潜水艦は一定周期で出入りを繰り返しているため、タイミングによっては海に入っても脱出できない)
 
 前作では罠にかかった時点で死亡だったが、今作ではライフ制となっており、罠にかかるとライフが減少しライフが0になった時点で死亡となる。即死しない代わりに罠に引っかかると動きが一定時間封じられタイムロスとなる。
 
@@ -156,7 +156,7 @@
 
 <!-- end list -->
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計26点（満40点）\[1\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、17.03点（満30点）となっている\[2\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計26点（満40点）\[1\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、17.03点（満30点）となっている\[2\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |

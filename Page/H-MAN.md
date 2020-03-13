@@ -172,7 +172,7 @@
 <li>1-2-3</li>
 <li>一騎打ち(feat. <a href="https://ja.wikipedia.org/wiki/Mr.Jay" title="wikilink">Mr.Jay</a>)</li>
 <li>アップ アップ!With Home Grown</li>
-<li>青空(feat. <a href="https://ja.wikipedia.org/wiki/Keyco" title="wikilink">Keyco</a>)</li>
+<li>青空(feat. <a href="../Page/Keyco.md" title="wikilink">Keyco</a>)</li>
 <li>手紙</li>
 </ol></td>
 <td><p>OVERHEAT</p></td>

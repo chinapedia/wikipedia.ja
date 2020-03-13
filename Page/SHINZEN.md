@@ -1,7 +1,7 @@
 > この記事は[SHINZEN](https://ja.wikipedia.org/wiki/SHINZEN)から翻訳されています。
 
 
-**SHINZEN**（しんぜん）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink") の[ボランティア](../Page/ボランティア.md "wikilink")団体。統一教会（「[世界基督教統一神霊協会](https://ja.wikipedia.org/wiki/世界基督教統一神霊協会 "wikilink")」）系組織のボランティア団体（*[\#統一教会との関係](https://ja.wikipedia.org/wiki/#統一教会との関係 "wikilink")の節を参照*）\[1\]\[2\]\[3\]\[4\]。以前は「しんぜん会」と称していた。代表は藤波英子（ふじなみえいこ）。[東京都](../Page/東京都.md "wikilink")[世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")に事務所があり、同区内に「福祉ショップしんぜん」（[千歳船橋店](https://ja.wikipedia.org/wiki/千歳船橋駅 "wikilink")）がある。雑誌『しんぜん』を発行。
+**SHINZEN**（しんぜん）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink") の[ボランティア](../Page/ボランティア.md "wikilink")団体。統一教会（「[世界基督教統一神霊協会](https://ja.wikipedia.org/wiki/世界基督教統一神霊協会 "wikilink")」）系組織のボランティア団体（*[\#統一教会との関係](https://ja.wikipedia.org/wiki/#統一教会との関係 "wikilink")の節を参照*）\[1\]\[2\]\[3\]\[4\]。以前は「しんぜん会」と称していた。代表は藤波英子（ふじなみえいこ）。[東京都](../Page/東京都.md "wikilink")[世田谷区](../Page/世田谷区.md "wikilink")に事務所があり、同区内に「福祉ショップしんぜん」（[千歳船橋店](https://ja.wikipedia.org/wiki/千歳船橋駅 "wikilink")）がある。雑誌『しんぜん』を発行。
 
 ## 活動
 
@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 

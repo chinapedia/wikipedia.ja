@@ -11,15 +11,15 @@
   - [ケーズデンキHAT神戸店](https://ja.wikipedia.org/wiki/ケーズホールディングス "wikilink")
   - ブルメールHAT神戸（[関西スーパー](https://ja.wikipedia.org/wiki/関西スーパー "wikilink")、[ユニクロ](../Page/ユニクロ.md "wikilink")など）
   - [国際健康開発センタービル](https://ja.wikipedia.org/wiki/国際健康開発センタービル "wikilink")
-      - [WHO健康開発総合研究センター](https://ja.wikipedia.org/wiki/WHO健康開発総合研究センター "wikilink")（WHO神戸センター・WKC）
+      - [WHO健康開発総合研究センター](../Page/WHO健康開発総合研究センター.md "wikilink")（WHO神戸センター・WKC）
       - [ひょうご国際プラザ](https://ja.wikipedia.org/wiki/ひょうご国際プラザ "wikilink")（[兵庫県国際交流協会](https://ja.wikipedia.org/wiki/財団法人兵庫県国際交流協会 "wikilink")）
       - [シスメックス](../Page/シスメックス.md "wikilink")本社
       - [日本看護協会](../Page/日本看護協会.md "wikilink")神戸研修センター
   - [神戸製鋼所](../Page/神戸製鋼所.md "wikilink")本社
-  - [兵庫県立美術館](https://ja.wikipedia.org/wiki/兵庫県立美術館 "wikilink")
-  - [人と防災未来センター](https://ja.wikipedia.org/wiki/人と防災未来センター "wikilink")
-      - [人と防災未来センター東館](https://ja.wikipedia.org/wiki/ひと未来館 "wikilink")
-      - [防災未来館](https://ja.wikipedia.org/wiki/防災未来館 "wikilink")
+  - [兵庫県立美術館](../Page/兵庫県立美術館.md "wikilink")
+  - [人と防災未来センター](../Page/人と防災未来センター.md "wikilink")
+      - [人と防災未来センター東館](../Page/ひと未来館.md "wikilink")
+      - [防災未来館](../Page/防災未来館.md "wikilink")
       - 独立行政法人[防災科学技術研究所](../Page/防災科学技術研究所.md "wikilink") [地震防災フロンティア研究センター](https://ja.wikipedia.org/wiki/地震防災フロンティア研究センター "wikilink")
       - [アジア防災センター](https://ja.wikipedia.org/wiki/アジア防災センター "wikilink")
       - [国際連合人道問題調整事務所](../Page/国際連合人道問題調整事務所.md "wikilink")（OCHA）神戸
@@ -41,7 +41,7 @@
 
 ## 周辺施設
 
-  - [JR西日本](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[灘駅](https://ja.wikipedia.org/wiki/灘駅 "wikilink")(北方約700m)
+  - [JR西日本](../Page/西日本旅客鉄道.md "wikilink")[灘駅](https://ja.wikipedia.org/wiki/灘駅 "wikilink")(北方約700m)
   - [阪急電鉄](../Page/阪急電鉄.md "wikilink")
       - [春日野道駅](https://ja.wikipedia.org/wiki/春日野道駅_\(阪急\) "wikilink")(北方約800m)
       - [王子公園駅](https://ja.wikipedia.org/wiki/王子公園駅 "wikilink")(北方約1km)
@@ -50,12 +50,12 @@
       - [春日野道駅](../Page/春日野道駅_\(阪神\).md "wikilink")(北方約300m)
   - [葺合警察署](../Page/葺合警察署.md "wikilink")
   - [葺合郵便局](https://ja.wikipedia.org/wiki/葺合郵便局 "wikilink")
-  - [兵庫県立美術館 原田の森ギャラリー](https://ja.wikipedia.org/wiki/兵庫県立美術館_原田の森ギャラリー "wikilink")
+  - [兵庫県立美術館 原田の森ギャラリー](../Page/兵庫県立美術館_原田の森ギャラリー.md "wikilink")
   - [神戸市王子スタジアム](../Page/神戸市王子スタジアム.md "wikilink")
-  - [西山記念会館](https://ja.wikipedia.org/wiki/西山記念会館 "wikilink")
+  - [西山記念会館](../Page/西山記念会館.md "wikilink")
   - [神戸文学館](../Page/神戸文学館.md "wikilink")
-  - [神戸市立王子動物園](https://ja.wikipedia.org/wiki/神戸市立王子動物園 "wikilink")
-      - [旧ハンター住宅](https://ja.wikipedia.org/wiki/旧ハンター住宅 "wikilink")
+  - [神戸市立王子動物園](../Page/神戸市立王子動物園.md "wikilink")
+      - [旧ハンター住宅](../Page/旧ハンター住宅.md "wikilink")
   - [シマブンコーポレーション](https://ja.wikipedia.org/wiki/シマブンコーポレーション "wikilink")本社
   - [JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")神戸ビル
   - [BBプラザ](https://ja.wikipedia.org/wiki/BBプラザ "wikilink")

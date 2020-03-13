@@ -7,7 +7,7 @@
 
 ## 概説
 
-[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北見市](https://ja.wikipedia.org/wiki/北見市 "wikilink")出身の女子によって[1994年](../Page/1994年.md "wikilink")に結成された。[1999年](../Page/1999年.md "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。[2000年](../Page/2000年.md "wikilink")[9月](../Page/9月.md "wikilink")に発売された「[夏祭り](https://ja.wikipedia.org/wiki/夏祭り_\(JITTERIN'JINNの曲\)#Whiteberryのカバー "wikilink")」（[JITTERIN'JINN](https://ja.wikipedia.org/wiki/JITTERIN'JINN "wikilink")のカバー曲）は[TBS系](../Page/TBSテレビ.md "wikilink")「[ふしぎな話](../Page/ふしぎな話.md "wikilink")」の主題歌に起用され、[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")最高位3位を記録する大ヒットとなり、この楽曲で[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")に出場した。
+[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北見市](https://ja.wikipedia.org/wiki/北見市 "wikilink")出身の女子によって[1994年](../Page/1994年.md "wikilink")に結成された。[1999年](../Page/1999年.md "wikilink")に[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。[2000年](../Page/2000年.md "wikilink")[9月](../Page/9月.md "wikilink")に発売された「[夏祭り](https://ja.wikipedia.org/wiki/夏祭り_\(JITTERIN'JINNの曲\)#Whiteberryのカバー "wikilink")」（[JITTERIN'JINN](../Page/JITTERIN'JINN.md "wikilink")のカバー曲）は[TBS系](../Page/TBSテレビ.md "wikilink")「[ふしぎな話](../Page/ふしぎな話.md "wikilink")」の主題歌に起用され、[オリコンチャート](../Page/オリコンチャート.md "wikilink")最高位3位を記録する大ヒットとなり、この楽曲で[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")に出場した。
 
 ## メンバー
 
@@ -36,7 +36,7 @@
 
 [1999年](../Page/1999年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")、ミニアルバム『[after school](https://ja.wikipedia.org/wiki/after_school_\(Whiteberryのアルバム\) "wikilink")』で[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーデビュー "wikilink")。このアルバムには、同年[7月1日](../Page/7月1日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されていたテレビアニメ『[キョロちゃん](https://ja.wikipedia.org/wiki/キョロちゃん_\(アニメ\) "wikilink")』で、放送開始から年末までエンディングテーマとして使用されていたデビュー曲「通学路」ほか4曲が入っている。その後、同年[12月8日](../Page/12月8日.md "wikilink")、当時[JUDY AND MARYのリーダーだった](../Page/JUDY_AND_MARY.md "wikilink")[恩田快人](../Page/恩田快人.md "wikilink")プロデュース・作曲で1stシングル「[YUKI](https://ja.wikipedia.org/wiki/YUKI_\(Whiteberryの曲\) "wikilink")」をリリース。スマッシュヒットとなる。この曲は[フジテレビ系列のテレビ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めちゃ²イケてるッ\!](../Page/めちゃ×2イケてるッ!.md "wikilink")』のエンディングテーマ曲に選ばれ、同番組内にてWhiteberryスペシャルと題して企画が放送されるなど、大きく紹介される。(その際の視聴率は21.1%を記録し、歴代高視聴率企画にランクインしている。)デビュー後はしばらくライヴを行っていなかったが、[2000年](../Page/2000年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に北見市で、[9月](../Page/9月.md "wikilink")に[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")で久々に行なう。
 
-2000年[8月](../Page/8月.md "wikilink")には[JITTERIN'JINN](https://ja.wikipedia.org/wiki/JITTERIN'JINN "wikilink")のカバー曲「[夏祭り](https://ja.wikipedia.org/wiki/夏祭り_\(JITTERIN'JINNの曲\)#Whiteberry "wikilink")」で[オリコンシングルチャート最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")3位を記録。[浴衣](../Page/浴衣.md "wikilink")の裾をまくり、[ミニスカート](../Page/ミニスカート.md "wikilink")のように脚を見せたり、[レギンス](https://ja.wikipedia.org/wiki/レギンス "wikilink")と合わせて着るという奇抜なファッションにも注目が集まった。累計売上ではオリジナルを大きく上回っており、[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")に出場した際にも歌われた。1stアルバム『[（初）](https://ja.wikipedia.org/wiki/（初） "wikilink")』も初登場でオリコン3位にチャートイン。チャート3位以内に入ったバンドの最年少記録を更新した。
+2000年[8月](../Page/8月.md "wikilink")には[JITTERIN'JINN](../Page/JITTERIN'JINN.md "wikilink")のカバー曲「[夏祭り](https://ja.wikipedia.org/wiki/夏祭り_\(JITTERIN'JINNの曲\)#Whiteberry "wikilink")」で[オリコンシングルチャート最高位](../Page/オリコンチャート.md "wikilink")3位を記録。[浴衣](../Page/浴衣.md "wikilink")の裾をまくり、[ミニスカート](../Page/ミニスカート.md "wikilink")のように脚を見せたり、[レギンス](https://ja.wikipedia.org/wiki/レギンス "wikilink")と合わせて着るという奇抜なファッションにも注目が集まった。累計売上ではオリジナルを大きく上回っており、[第51回NHK紅白歌合戦](../Page/第51回NHK紅白歌合戦.md "wikilink")に出場した際にも歌われた。1stアルバム『[（初）](https://ja.wikipedia.org/wiki/（初） "wikilink")』も初登場でオリコン3位にチャートイン。チャート3位以内に入ったバンドの最年少記録を更新した。
 
 ### 解散
 
@@ -96,7 +96,7 @@
 <td><ol>
 <li>夏祭り （作詞・作曲: 破矢ジンタ）
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/JITTERIN&#39;JINN" title="wikilink">JITTERIN'JINN</a>のカバー曲。オリコン最高3位を記録した自己最大ヒット曲。</li>
+<li><a href="../Page/JITTERIN&#39;JINN.md" title="wikilink">JITTERIN'JINN</a>のカバー曲。オリコン最高3位を記録した自己最大ヒット曲。</li>
 <li>TBS系『<a href="../Page/ドラマ30.md" title="wikilink">ドラマ30</a>』枠内ドラマ『<a href="../Page/ふしぎな話.md" title="wikilink">ふしぎな話</a>』主題歌</li>
 </ul></li>
 <li>がんばれ！女の子 （作詞: 長谷川ゆかり、作曲: 坂井紀雄）</li>
@@ -180,7 +180,7 @@
 <li>BE HAPPY （作詞: JILL、作曲: 渡邉貢）
 <ul>
 <li><a href="../Page/PERSONZ.md" title="wikilink">PERSONZ</a>のカバー曲</li>
-<li><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">NHK教育テレビドラマ</a>『<a href="https://ja.wikipedia.org/wiki/どっちがどっち!" title="wikilink">どっちがどっち!</a>』挿入歌</li>
+<li><a href="../Page/NHK教育テレビジョン.md" title="wikilink">NHK教育テレビドラマ</a>『<a href="../Page/どっちがどっち!.md" title="wikilink">どっちがどっち!</a>』挿入歌</li>
 </ul></li>
 <li>生まれ変わってもアタシでいたい （作詞: 川村恵里加、作曲: 馬場一嘉）
 <ul>

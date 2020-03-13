@@ -1,7 +1,7 @@
 > この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
 
 
-『**FMシンフォニー・コンサート**』は、[NHK-FMで放送されていた](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")[クラシック音楽](../Page/クラシック音楽.md "wikilink")番組である。
+『**FMシンフォニー・コンサート**』は、[NHK-FMで放送されていた](../Page/NHK-FM放送.md "wikilink")[クラシック音楽](../Page/クラシック音楽.md "wikilink")番組である。
 
 ## 概要
 

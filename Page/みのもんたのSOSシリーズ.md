@@ -39,15 +39,15 @@
 ### 第4弾
 
   - 2005年9月30日　19:00～20:54
-  - 内容は[地震雲](https://ja.wikipedia.org/wiki/地震雲 "wikilink")の「"科学的" 検証」等
+  - 内容は[地震雲](../Page/地震雲.md "wikilink")の「"科学的" 検証」等
 
 ## スタッフ
 
-  - 構成 : [伊藤正宏](../Page/伊藤正宏.md "wikilink")、[そーたに](https://ja.wikipedia.org/wiki/そーたに "wikilink")、[堀田延](../Page/堀田延.md "wikilink")、[福原フトシ](../Page/福原フトシ.md "wikilink")、[山名宏和](../Page/山名宏和.md "wikilink")ほか
+  - 構成 : [伊藤正宏](../Page/伊藤正宏.md "wikilink")、[そーたに](../Page/そーたに.md "wikilink")、[堀田延](../Page/堀田延.md "wikilink")、[福原フトシ](../Page/福原フトシ.md "wikilink")、[山名宏和](../Page/山名宏和.md "wikilink")ほか
   - 総合演出 : [杉本達](https://ja.wikipedia.org/wiki/杉本達 "wikilink")
   - 編成担当 : [中村百合子](../Page/中村百合子.md "wikilink")（※以前プロデューサー）
-  - プロデューサー : [松村匠](https://ja.wikipedia.org/wiki/松村匠 "wikilink")
-  - 制作 : [吉田正樹](https://ja.wikipedia.org/wiki/吉田正樹 "wikilink")
+  - プロデューサー : [松村匠](../Page/松村匠.md "wikilink")
+  - 制作 : [吉田正樹](../Page/吉田正樹.md "wikilink")
   - 技術協力 : [ニユーテレス](../Page/ニユーテレス.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[アンサーズ](../Page/アンサーズ.md "wikilink")、[SPOT](../Page/スポット_\(企業\).md "wikilink")
   - ロケ技術協力 : [共同テレビジョン](../Page/共同テレビジョン.md "wikilink")
   - 美術協力 : [フジアール](../Page/フジアール.md "wikilink")

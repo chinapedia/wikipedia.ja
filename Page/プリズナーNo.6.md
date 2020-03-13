@@ -1,7 +1,7 @@
 > この記事は[No.6](https://ja.wikipedia.org/wiki/No.6)から翻訳されています。
 
 
-『**プリズナーNo.6**』（原題:***The Prisoner***）は、[1967年](../Page/1967年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")にかけて[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で製作・放映された連続[テレビドラマ](../Page/テレビドラマ.md "wikilink")作品。主演・企画・監督（一部の回）は[パトリック・マクグーハン](https://ja.wikipedia.org/wiki/パトリック・マクグーハン "wikilink")（Patrick McGoohan）。各話約52分、全17本。
+『**プリズナーNo.6**』（原題:***The Prisoner***）は、[1967年](../Page/1967年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[2月4日](../Page/2月4日.md "wikilink")にかけて[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")で製作・放映された連続[テレビドラマ](../Page/テレビドラマ.md "wikilink")作品。主演・企画・監督（一部の回）は[パトリック・マクグーハン](../Page/パトリック・マクグーハン.md "wikilink")（Patrick McGoohan）。各話約52分、全17本。
 
 ジャンルとしては[SF的な](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[スパイ](../Page/スパイ.md "wikilink")ものであるが、斬新で[前衛](https://ja.wikipedia.org/wiki/前衛 "wikilink")的な演出や[哲学](../Page/哲学.md "wikilink")的なメッセージが随所にちりばめられており、[2017年](../Page/2017年.md "wikilink")現在でも一部に熱狂的なファンをもち[カルト的な人気を保っている](../Page/カルト映画.md "wikilink")。
 
@@ -17,7 +17,7 @@
 
 ## キャスト
 
-  - No.6（主人公）（[パトリック・マクグーハン](https://ja.wikipedia.org/wiki/パトリック・マクグーハン "wikilink")）:[小山田宗徳](../Page/小山田宗徳.md "wikilink")
+  - No.6（主人公）（[パトリック・マクグーハン](../Page/パトリック・マクグーハン.md "wikilink")）:[小山田宗徳](../Page/小山田宗徳.md "wikilink")
   - No.6の上司（ジョージ・マークスタイン）（OP・7話）
   - 執事（アンジェロ・マスカット）
   - 管理官（ピーター・スワンウィック）:[千葉耕市](../Page/千葉耕市.md "wikilink")（1話）、[槐柳二](../Page/槐柳二.md "wikilink")（2、4、6、10、13、14、16、17話）
@@ -42,7 +42,7 @@
   - 裁判長（オーブリー・モリス）:[細井重之](../Page/細井重之.md "wikilink")（8話）
   - No.2（メアリー・モリス）：真咲美岐（8話）
   - No.2（クリフォード・エバンス）:[和田文夫](../Page/和田文夫.md "wikilink")（9話）
-  - 大佐（[ナイジェル・ストック](https://ja.wikipedia.org/wiki/ナイジェル・ストック "wikilink")）:[外山高士](https://ja.wikipedia.org/wiki/外山高士 "wikilink")（9話）
+  - 大佐（[ナイジェル・ストック](https://ja.wikipedia.org/wiki/ナイジェル・ストック "wikilink")）:[外山高士](../Page/外山高士.md "wikilink")（9話）
   - 老No.2（アンドレ・ファン・ジュゼクヘム）:[中村正](../Page/中村正_\(声優\).md "wikilink")（10話）
   - 新No.2（[ダーレン・ネスビット](https://ja.wikipedia.org/wiki/ダーレン・ネスビット "wikilink")）:[内田稔](../Page/内田稔.md "wikilink")（10話）
   - No.2（ピーター・ウィンガード）:[小林清志](../Page/小林清志.md "wikilink")（11話）
@@ -56,7 +56,7 @@
   - No.249 / 精神科医（ノーマン・スケース）:[上田敏也](../Page/上田敏也.md "wikilink")（14話）
   - No.2（パトリック・カーギル）:[巌金四郎](https://ja.wikipedia.org/wiki/巌金四郎 "wikilink")（14話）
   - スニップ博士 / No.2（[ケネス・グリフィス](https://ja.wikipedia.org/wiki/ケネス・グリフィス "wikilink")）:近石真介（15話）
-  - 議長（ケネス・グリフィス）:[田口計](https://ja.wikipedia.org/wiki/田口計 "wikilink")（17話）
+  - 議長（ケネス・グリフィス）:[田口計](../Page/田口計.md "wikilink")（17話）
   - No.48（アレクシス・カナー）:[愛川欽也](../Page/愛川欽也.md "wikilink")（17話）
   - No.1（?）
 
@@ -106,7 +106,7 @@
 
 ### 車
 
-登場する車についても、非常にマニアックな作りとなっており、冒頭に登場する[ロータス・セブン](https://ja.wikipedia.org/wiki/ロータス・セブン "wikilink")を始め、[ロータス・エラン](../Page/ロータス・エラン.md "wikilink")、[ジャガー・Eタイプ](https://ja.wikipedia.org/wiki/ジャガー・Eタイプ "wikilink")などが登場し、[カーチェイス](https://ja.wikipedia.org/wiki/カーチェイス "wikilink")を繰り広げる。また「村」の[タクシー](../Page/タクシー.md "wikilink")で使われているのは[ミニ・モーク](https://ja.wikipedia.org/wiki/ミニ・モーク "wikilink")であり、特異なキャラクターであったモークを一躍メジャーにした。
+登場する車についても、非常にマニアックな作りとなっており、冒頭に登場する[ロータス・セブン](../Page/ロータス・セブン.md "wikilink")を始め、[ロータス・エラン](../Page/ロータス・エラン.md "wikilink")、[ジャガー・Eタイプ](https://ja.wikipedia.org/wiki/ジャガー・Eタイプ "wikilink")などが登場し、[カーチェイス](https://ja.wikipedia.org/wiki/カーチェイス "wikilink")を繰り広げる。また「村」の[タクシー](../Page/タクシー.md "wikilink")で使われているのは[ミニ・モーク](https://ja.wikipedia.org/wiki/ミニ・モーク "wikilink")であり、特異なキャラクターであったモークを一躍メジャーにした。
 
 ## 日本での放送
 
@@ -303,7 +303,7 @@
 
 ### キャスト
 
-  - No.6 - [ジェームズ・カヴィーゼル](https://ja.wikipedia.org/wiki/ジム・カヴィーゼル "wikilink")
+  - No.6 - [ジェームズ・カヴィーゼル](../Page/ジム・カヴィーゼル.md "wikilink")
 
 <!-- end list -->
 
@@ -312,7 +312,7 @@
 
 <!-- end list -->
 
-  - No.2 - [イアン・マッケラン](https://ja.wikipedia.org/wiki/イアン・マッケラン "wikilink")
+  - No.2 - [イアン・マッケラン](../Page/イアン・マッケラン.md "wikilink")
 
 <!-- end list -->
 

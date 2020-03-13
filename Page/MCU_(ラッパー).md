@@ -3,7 +3,7 @@
 
 **MCU**（エムシーユー、本名：小泉 雄志（こいずみ ゆうし）、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[巣鴨](../Page/巣鴨.md "wikilink")出身の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")である。
 
-名前の由来は、本名の雄志及び[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")のMCAから。[KICK THE CAN CREW及び](../Page/KICK_THE_CAN_CREW.md "wikilink")[マツリルカ](../Page/マツリルカ.md "wikilink")、[SEAL](https://ja.wikipedia.org/wiki/SEAL "wikilink")のMC担当。愛称は「雄志くん」。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。[FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")、[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")、DJとして[TRIBAL FRUITS CAFEの一員](https://ja.wikipedia.org/wiki/TRIBAL_FRUITS_CAFE "wikilink")。かつてはU、MC Uという名で活動していた。現在は[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")と共に[UL](https://ja.wikipedia.org/wiki/UL "wikilink")のMCとして活動している。プロデューサーは同じく[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[KREVA](../Page/KREVA.md "wikilink")である。既婚。
+名前の由来は、本名の雄志及び[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")のMCAから。[KICK THE CAN CREW及び](../Page/KICK_THE_CAN_CREW.md "wikilink")[マツリルカ](../Page/マツリルカ.md "wikilink")、[SEAL](https://ja.wikipedia.org/wiki/SEAL "wikilink")のMC担当。愛称は「雄志くん」。所属[レコード会社](../Page/レコード会社.md "wikilink")は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。[FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")、[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")、DJとして[TRIBAL FRUITS CAFEの一員](https://ja.wikipedia.org/wiki/TRIBAL_FRUITS_CAFE "wikilink")。かつてはU、MC Uという名で活動していた。現在は[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](../Page/LITTLE.md "wikilink")と共に[UL](https://ja.wikipedia.org/wiki/UL "wikilink")のMCとして活動している。プロデューサーは同じく[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[KREVA](../Page/KREVA.md "wikilink")である。既婚。
 
 ## 来歴
 
@@ -11,7 +11,7 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、文京区立第十中学校からの同級生であった[DJ TATSUTAらと共に](../Page/DJ_TATSUTA.md "wikilink")[RADICAL FREAKSを結成](../Page/RADICAL_FREAKS.md "wikilink")（グループ名の一部は[ラジカル・ガジベリビンバ・システム](../Page/ラジカル・ガジベリビンバ・システム.md "wikilink")から）。音楽活動に集中するため、高校には進学しなかった。その後、アンダーグラウンドで長く活動し、オムニバスアルバム『悪名』に収録されている「地下室」で存在を知らしめ、[東京U家族](https://ja.wikipedia.org/wiki/東京U家族 "wikilink")での活動でスキルを磨く（結成当初、自身が結婚したら解散と言っており、その後結婚したため解散）。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から活動を開始したKICK THE CAN CREWでは、MCを担当。一方で[2002年](../Page/2002年.md "wikilink")には、MCU feat.[浜崎貴司](../Page/浜崎貴司.md "wikilink")で「幸せであるように」をリリース。[2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink")にはKICK THE CAN CREWの活動休止後、再び浜崎貴司と組んで[7月28日](../Page/7月28日.md "wikilink")に「サーフライダー」、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月には、THE BOOMの宮沢和史とのシングル「ありがとう」をリリース。5月には、全曲がフィーチャリングとなるアルバム『A Peacetime MCU』をリリース。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から活動を開始したKICK THE CAN CREWでは、MCを担当。一方で[2002年](../Page/2002年.md "wikilink")には、MCU feat.[浜崎貴司](../Page/浜崎貴司.md "wikilink")で「幸せであるように」をリリース。[2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink")にはKICK THE CAN CREWの活動休止後、再び浜崎貴司と組んで[7月28日](../Page/7月28日.md "wikilink")に「サーフライダー」、[2005年](../Page/2005年.md "wikilink")3月には、THE BOOMの宮沢和史とのシングル「ありがとう」をリリース。5月には、全曲がフィーチャリングとなるアルバム『A Peacetime MCU』をリリース。
 
 7月には浜崎貴司とマツリルカを結成してシングルを1枚、マツリルカ＆[アリスとしてシングルを](../Page/アリス_\(モデル\).md "wikilink")2枚リリースした。
 
@@ -23,7 +23,7 @@
 
 ## 人物・エピソード
 
-  - 元々はロック畑の出身で、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")と邦楽[ロックを好む](../Page/ロック_\(音楽\).md "wikilink")。今は[アシッドハウス](https://ja.wikipedia.org/wiki/アシッドハウス "wikilink")、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")なども聴く。また[イカ天世代で](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")、特に[THE BOOMと](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")[FLYING KIDSの大ファンとして知られる](https://ja.wikipedia.org/wiki/FLYING_KIDS "wikilink")。ソロ作品では、FLYING KIDSの[浜崎貴司](../Page/浜崎貴司.md "wikilink")を迎えた。
+  - 元々はロック畑の出身で、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")と邦楽[ロックを好む](../Page/ロック_\(音楽\).md "wikilink")。今は[アシッドハウス](https://ja.wikipedia.org/wiki/アシッドハウス "wikilink")、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")なども聴く。また[イカ天世代で](../Page/三宅裕司のいかすバンド天国.md "wikilink")、特に[THE BOOMと](../Page/THE_BOOM.md "wikilink")[FLYING KIDSの大ファンとして知られる](../Page/FLYING_KIDS.md "wikilink")。ソロ作品では、FLYING KIDSの[浜崎貴司](../Page/浜崎貴司.md "wikilink")を迎えた。
   - 大のゲーム好きで、デビュー前は[ゲームセンター](../Page/ゲームセンター.md "wikilink")でアルバイトをしていた。自宅にはセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）のゲームソフトのコレクションがある。セガフェス2018を訪れた際も、[セガグループの中途採用募集のパンフレットを見て](https://ja.wikipedia.org/wiki/セガホールディングス "wikilink")、知り合いのセガ社員に中途入社に関して問い合わせていたという\[1\]\[2\]。
   - 料理が得意で、雑誌「[オレンジページ](../Page/オレンジページ.md "wikilink")」で取り上げられたほど。
   - [2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に34歳となり、バースデーパーティーが行われ、同級生の[DJ TATSUTAと](../Page/DJ_TATSUTA.md "wikilink")[TAICHI MASTER](../Page/TAICHI_MASTER.md "wikilink")、[安田大サーカス](../Page/安田大サーカス.md "wikilink")の[団長](../Page/団長安田.md "wikilink")、[クロちゃんらが参加した](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")。団長から「団長なりきりセット」をプレゼントされ、赤い[褌](https://ja.wikipedia.org/wiki/褌 "wikilink")姿となった。
@@ -49,7 +49,7 @@
 2.  サーフライダー（浜崎貴司） 2004年7月28日
     1.  サーフライダー
     2.  6月の未完成
-3.  ありがとう（[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")） 2005年3月9日
+3.  ありがとう（[宮沢和史](../Page/宮沢和史.md "wikilink")） 2005年3月9日
     1.  ありがとう
     2.  ACT ON MY STYLE
 4.  MCU in WONDERLAND e.p. 2006年5月17日
@@ -80,7 +80,7 @@
 
 （）内はMCUが参加したアーティスト。
 
-  - time after time 〜KREVA Remix feat MCU〜（[EARTH](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\) "wikilink")） - ラップパートを担当。シングル『[time after time 〜HIP HOP SOUL Version〜](https://ja.wikipedia.org/wiki/time_after_time_-HIP_HOP_SOUL_Version- "wikilink")』に収録
+  - time after time 〜KREVA Remix feat MCU〜（[EARTH](../Page/EARTH_\(歌手グループ\).md "wikilink")） - ラップパートを担当。シングル『[time after time 〜HIP HOP SOUL Version〜](https://ja.wikipedia.org/wiki/time_after_time_-HIP_HOP_SOUL_Version- "wikilink")』に収録
   - ORANGE（[175R](../Page/175R.md "wikilink")） - ラップパートを担当。アルバム『[MELODY](../Page/MELODY_\(175Rのアルバム\).md "wikilink")』及びシングル『ORANGE』に収録
   - ギター侍のうた〜REMIX〜（[波田陽区](../Page/波田陽区.md "wikilink")） - リミックスを担当。アルバム『ギター侍のうた弐〜完全保存盤〜』に収録
   - ウィークエンド・シャッフル（[Rhymester](https://ja.wikipedia.org/wiki/Rhymester "wikilink")） - アルバム『[HEAT ISLAND](../Page/HEAT_ISLAND_\(アルバム\).md "wikilink")』に収録
@@ -128,7 +128,7 @@
   - [FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")
       - [RHYMESTER](../Page/RHYMESTER.md "wikilink")
       - [KREVA](../Page/KREVA.md "wikilink")
-      - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")
+      - [LITTLE](../Page/LITTLE.md "wikilink")
       - [DJ SHUHO](../Page/DJ_SHUHO.md "wikilink")
       - [DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")
   - [RADICAL FREAKS](../Page/RADICAL_FREAKS.md "wikilink")
@@ -136,7 +136,7 @@
   - [マツリルカ](../Page/マツリルカ.md "wikilink")
       - [浜崎貴司](../Page/浜崎貴司.md "wikilink")
   - [アリス](../Page/アリス_\(モデル\).md "wikilink")
-  - [THE BOOM](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")
+  - [THE BOOM](../Page/THE_BOOM.md "wikilink")
   - [アルファ](../Page/アルファ_\(音楽グループ\).md "wikilink")
       - [TSUBOI](https://ja.wikipedia.org/wiki/TSUBOI "wikilink")
       - [WADA](https://ja.wikipedia.org/wiki/WADA "wikilink")

@@ -1,11 +1,11 @@
 > この記事は[VF-4 III](https://ja.wikipedia.org/wiki/VF-4_III)から翻訳されています。
 
 
-**VF-4 ライトニングIII**（ブイエフ フォー ライトニング スリー *LIGHTNING* III）は、「[マクロスシリーズ](../Page/マクロスシリーズ.md "wikilink")」に登場する架空の兵器。初出は、1987年発売の[OVA](../Page/OVA.md "wikilink")『[超時空要塞マクロス Flash Back 2012](../Page/超時空要塞マクロス_Flash_Back_2012.md "wikilink")』。「バルキリー」の通称で呼ばれる[可変戦闘機](../Page/可変戦闘機_\(マクロスシリーズ\).md "wikilink")（ヴァリアブル・ファイター=VF）の一つで、ファイター（航空機）とバトロイド（人型ロボット）、両者の中間形態である[ガウォーク](https://ja.wikipedia.org/wiki/ガウォーク "wikilink")の三形態に変形する。
+**VF-4 ライトニングIII**（ブイエフ フォー ライトニング スリー *LIGHTNING* III）は、「[マクロスシリーズ](../Page/マクロスシリーズ.md "wikilink")」に登場する架空の兵器。初出は、1987年発売の[OVA](../Page/OVA.md "wikilink")『[超時空要塞マクロス Flash Back 2012](../Page/超時空要塞マクロス_Flash_Back_2012.md "wikilink")』。「バルキリー」の通称で呼ばれる[可変戦闘機](../Page/可変戦闘機_\(マクロスシリーズ\).md "wikilink")（ヴァリアブル・ファイター=VF）の一つで、ファイター（航空機）とバトロイド（人型ロボット）、両者の中間形態である[ガウォーク](../Page/ガウォーク.md "wikilink")の三形態に変形する。
 
 [VF-1 バルキリーに次ぐ地球統合軍の量産機で](../Page/VF-1_バルキリー.md "wikilink")、独特の三胴体構造と高い宇宙戦能力を持つ。1982年放送の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[超時空要塞マクロス](../Page/超時空要塞マクロス.md "wikilink")』の最終話で模型飛行機として登場したのち、『Flash Back 2012』でより空力的なデザイン変更が行われた実機が登場する。
 
-愛称（ペットネーム）の「[ライトニング](https://ja.wikipedia.org/wiki/ライトニング "wikilink")」は英語で「[稲妻](https://ja.wikipedia.org/wiki/稲妻 "wikilink")」「[雷光](https://ja.wikipedia.org/wiki/雷光 "wikilink")」を意味し、実在の[戦闘機](../Page/戦闘機.md "wikilink")[P-38と](../Page/P-38_\(航空機\).md "wikilink")[F-35（ライトニングII）も同じ愛称で呼ばれている](../Page/F-35_\(戦闘機\).md "wikilink")。
+愛称（ペットネーム）の「[ライトニング](../Page/ライトニング.md "wikilink")」は英語で「[稲妻](https://ja.wikipedia.org/wiki/稲妻 "wikilink")」「[雷光](https://ja.wikipedia.org/wiki/雷光 "wikilink")」を意味し、実在の[戦闘機](../Page/戦闘機.md "wikilink")[P-38と](../Page/P-38_\(航空機\).md "wikilink")[F-35（ライトニングII）も同じ愛称で呼ばれている](../Page/F-35_\(戦闘機\).md "wikilink")。
 
 メカニックデザインは、[河森正治](../Page/河森正治.md "wikilink")が実在の[超音速](../Page/超音速.md "wikilink")[偵察機](../Page/偵察機.md "wikilink")「[SR-71 ブラックバード](../Page/SR-71_\(航空機\).md "wikilink")」を参考に行った。
 
@@ -19,7 +19,7 @@
 
 ## 機体解説
 
-ストンウェル・ベルコム社が、VF-1 バルキリーの後継機として開発した機体。中央の胴体と左右のエンジンブロックで構成される三胴体形状が特徴で、ガウォーク、バトロイド形態時はエンジンブロックが腕と脚に分割される。正式な愛称は「ライトニングIII」だが、その形状の特異さと美しさからパイロットや整備員によって「アロー」、「[サイレーン](https://ja.wikipedia.org/wiki/セイレーン "wikilink")」などと呼ばれることも多かった。
+ストンウェル・ベルコム社が、VF-1 バルキリーの後継機として開発した機体。中央の胴体と左右のエンジンブロックで構成される三胴体形状が特徴で、ガウォーク、バトロイド形態時はエンジンブロックが腕と脚に分割される。正式な愛称は「ライトニングIII」だが、その形状の特異さと美しさからパイロットや整備員によって「アロー」、「[サイレーン](../Page/セイレーン.md "wikilink")」などと呼ばれることも多かった。
 
 VF-1の欠点であった宇宙戦能力の強化を目標としており、ファイター形態での総合性能はVF-1スーパーパック装備型と比較して約40パーセント向上している。しかし大気圏内での機動性・低空特性はVF-1より劣っていたため完全代替とはならず、並行してVF-1の改修と生産も継続された。
 
@@ -41,7 +41,7 @@ VF-1の後継機種は当初は[VF-X-3とVF](https://ja.wikipedia.org/wiki/VF-30
 
 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時に連合国各国空軍・陸軍航空隊で使用された双発[双胴の戦闘機](../Page/双胴機.md "wikilink")、ロッキード（後の[ロッキード・マーティン](../Page/ロッキード・マーティン.md "wikilink")）P-38は「ライトニング」という愛称で呼ばれた。21世紀初頭から配備が始まった[F-22は](../Page/F-22_\(戦闘機\).md "wikilink")「ラプター」の愛称で呼ばれているが、[YF-23との競争試作および実用試験当初は](../Page/YF-23_\(航空機\).md "wikilink")「ライトニング II」という愛称であった。VF-4はこれらの機体の名を受け継ぐものとして"III"の[ローマ数字](../Page/ローマ数字.md "wikilink")を使用した。
 
-なお、現実において「ライトニング」の愛称がつけられた軍用機としてはほかに[イングリッシュ・エレクトリック ライトニング](https://ja.wikipedia.org/wiki/イングリッシュ・エレクトリック_ライトニング "wikilink")、[F-35 ライトニング IIがあるが](../Page/F-35_\(戦闘機\).md "wikilink")、後者の場合、VF-4 はこれよりずっと以前に設定されており、命名に関してはまったくの無関係である。
+なお、現実において「ライトニング」の愛称がつけられた軍用機としてはほかに[イングリッシュ・エレクトリック ライトニング](../Page/イングリッシュ・エレクトリック_ライトニング.md "wikilink")、[F-35 ライトニング IIがあるが](../Page/F-35_\(戦闘機\).md "wikilink")、後者の場合、VF-4 はこれよりずっと以前に設定されており、命名に関してはまったくの無関係である。
 
 しかしながら、この設定は1995年以降に各種ゲーム媒体での添付資料から付加されたものであるため、それ以前の資料などでは、同機の試作実証機で形状の細部が大幅に異なるVF-X-4 サイレーンの呼称や、無印のライトニングの呼称が混在している状況である。河森はサイレーンの名が、『[超時空要塞マクロスII -LOVERS AGAIN-](../Page/超時空要塞マクロスII_-LOVERS_AGAIN-.md "wikilink")』に登場する「VA-1SS メタル・サイレーン」と紛らわしいために改称したともコメントしている。
 
@@ -92,7 +92,7 @@ VF-4 は日本国外で[ハーモニーゴールド USA](https://ja.wikipedia.or
   - マクロス デジタルミッション VF-X 「[ヴァルハラ III](https://ja.wikipedia.org/wiki/マクロス_デジタルミッション_VF-X#艦艇 "wikilink")」所属の VF-4G が登場。
   - [マクロスM3](../Page/マクロスM3.md "wikilink") - VF-4G[マックス機](../Page/マクシミリアン・ジーナス.md "wikilink")、[ミリア機が登場](https://ja.wikipedia.org/wiki/ミリア・ファリーナ・ジーナス "wikilink")。
   - [マクロス7 トラッシュ](../Page/マクロス7_トラッシュ.md "wikilink")-練習機として使用されている機体が登場。
-  - [マクロスアルティメットフロンティア](https://ja.wikipedia.org/wiki/マクロスアルティメットフロンティア "wikilink") - VF-4 [スカル飛行大隊所属の指揮官](https://ja.wikipedia.org/wiki/スカル隊 "wikilink")（航空団（群）司令/CAG）機[一条輝](../Page/一条輝.md "wikilink")機が登場。
+  - [マクロスアルティメットフロンティア](https://ja.wikipedia.org/wiki/マクロスアルティメットフロンティア "wikilink") - VF-4 [スカル飛行大隊所属の指揮官](../Page/スカル隊.md "wikilink")（航空団（群）司令/CAG）機[一条輝](../Page/一条輝.md "wikilink")機が登場。
   - [小説マクロスF「カブキ・ウォーバード」](https://ja.wikipedia.org/wiki/マクロスF#小説 "wikilink") - 「[オーディーン II](https://ja.wikipedia.org/wiki/メガロード-01#小説 "wikilink")」所属の VF-4G が登場。
   - [マクロス・ザ・ライド](https://ja.wikipedia.org/wiki/マクロス・ザ・ライド "wikilink") - VF-4S 型を基本に大気圏内専用の対艦攻撃・邀撃機用途のために腕部と一部変形機構を省略し「軽装型」とした VF-4SL 型が民間の「バンキッシュ・レース」用途に払い下げられ腕部を必要としない「オストリッチ・レース」等に参加。
 
@@ -126,7 +126,7 @@ VF-4 は日本国外で[ハーモニーゴールド USA](https://ja.wikipedia.or
 
 1.  『[アニメV](https://ja.wikipedia.org/wiki/アニメV "wikilink")』1987年7月号
 2.  スタジオぬえ メカニックデザインブック PART.1 125頁
-3.  『[電撃ホビーマガジン](https://ja.wikipedia.org/wiki/電撃ホビーマガジン "wikilink")』2012年10月号
+3.  『[電撃ホビーマガジン](../Page/電撃ホビーマガジン.md "wikilink")』2012年10月号
 4.
 5.  マクロス・クロニクル No.43 3頁
 6.  [1/60 完全変形 VF-4G ライトニングⅢ _ 株式会社アル カディア](http://arcadia.ac/products/detail.php?product_id=228)

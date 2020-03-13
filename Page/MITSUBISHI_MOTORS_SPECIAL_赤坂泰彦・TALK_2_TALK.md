@@ -15,14 +15,14 @@
 
 ## ゲスト
 
-  - [久米宏](https://ja.wikipedia.org/wiki/久米宏 "wikilink")
+  - [久米宏](../Page/久米宏.md "wikilink")
   - [筑紫哲也](https://ja.wikipedia.org/wiki/筑紫哲也 "wikilink")
   - [福留功男](../Page/福留功男.md "wikilink")
   - [大瀧詠一](../Page/大瀧詠一.md "wikilink")
   - [湯川れい子](../Page/湯川れい子.md "wikilink")
   - [辻仁成](../Page/辻仁成.md "wikilink")
   - [山田詠美](../Page/山田詠美.md "wikilink")
-  - [宮嶋茂樹](https://ja.wikipedia.org/wiki/宮嶋茂樹 "wikilink")
+  - [宮嶋茂樹](../Page/宮嶋茂樹.md "wikilink")
   - [谷啓](../Page/谷啓.md "wikilink")
   - [毒蝮三太夫](../Page/毒蝮三太夫.md "wikilink")
   - [伊東四朗](../Page/伊東四朗.md "wikilink")

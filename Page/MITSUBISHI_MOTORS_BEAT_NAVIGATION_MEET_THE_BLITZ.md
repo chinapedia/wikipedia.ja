@@ -7,7 +7,7 @@
 
 ## 関連項目
 
-  - [中村雅俊マイ・ホームページ](../Page/中村雅俊マイ・ホームページ.md "wikilink") - 同じ時期にスタートした三菱自動車提供のラジオ番組。こちらは月曜 - 金曜の帯で放送の[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。
+  - [中村雅俊マイ・ホームページ](../Page/中村雅俊マイ・ホームページ.md "wikilink") - 同じ時期にスタートした三菱自動車提供のラジオ番組。こちらは月曜 - 金曜の帯で放送の[ミニ番組](../Page/ミニ番組.md "wikilink")。
 
 [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink") [Category:TBSラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの情報・ワイドショー番組 "wikilink") [Category:TBSラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの一社提供番組 "wikilink") [Category:三菱自動車工業一社提供番組](https://ja.wikipedia.org/wiki/Category:三菱自動車工業一社提供番組 "wikilink") [Category:TBSラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの番組の歴史 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 

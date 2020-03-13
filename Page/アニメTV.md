@@ -38,8 +38,8 @@
 
 **2012年**
 
-  - 3月29日 - 約3年にわたりパーソナリティを務めた藤田が番組を卒業。また、番組開始から[スポンサー](../Page/スポンサー.md "wikilink")を務めていた[日本ナレーション演技研究所](../Page/日本ナレーション演技研究所.md "wikilink")も降板。サプライズゲストとして千葉保弘、[福原香織](../Page/福原香織.md "wikilink")、[牧野由依](https://ja.wikipedia.org/wiki/牧野由依 "wikilink")が登場した。
-  - 4月2日 - [庄子裕衣](https://ja.wikipedia.org/wiki/庄子裕衣 "wikilink")が新たなパーソナリティに就任。そして[5pb.](../Page/5pb..md "wikilink")が新たなスポンサーとなった。ナレーターは、[勝田詩織](https://ja.wikipedia.org/wiki/勝田詩織 "wikilink")、[松井恵理子](https://ja.wikipedia.org/wiki/松井恵理子 "wikilink")、[宮健一](https://ja.wikipedia.org/wiki/宮健一 "wikilink")が務めることを発表。
+  - 3月29日 - 約3年にわたりパーソナリティを務めた藤田が番組を卒業。また、番組開始から[スポンサー](../Page/スポンサー.md "wikilink")を務めていた[日本ナレーション演技研究所](../Page/日本ナレーション演技研究所.md "wikilink")も降板。サプライズゲストとして千葉保弘、[福原香織](../Page/福原香織.md "wikilink")、[牧野由依](../Page/牧野由依.md "wikilink")が登場した。
+  - 4月2日 - [庄子裕衣](../Page/庄子裕衣.md "wikilink")が新たなパーソナリティに就任。そして[5pb.](../Page/5pb..md "wikilink")が新たなスポンサーとなった。ナレーターは、[勝田詩織](https://ja.wikipedia.org/wiki/勝田詩織 "wikilink")、[松井恵理子](https://ja.wikipedia.org/wiki/松井恵理子 "wikilink")、[宮健一](https://ja.wikipedia.org/wiki/宮健一 "wikilink")が務めることを発表。
   - 12月3日 - 番組の画角が16：9フルワイド化。（それまでは4：3超額縁だった）
 
 **2013年**
@@ -98,7 +98,7 @@
 </tr>
 <tr class="even">
 <td><p>2012.4 - 2013.6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/庄子裕衣" title="wikilink">庄子裕衣</a></p></td>
+<td><p><a href="../Page/庄子裕衣.md" title="wikilink">庄子裕衣</a></p></td>
 <td><p>長谷川千紘<br />
 瞳麻弥</p></td>
 </tr>
@@ -117,11 +117,11 @@
 
 2代目以降のレポーターは声優志望の女子学生が務めており、これがきっかけで声優事務所入りが決まる場合もあった。2代目レポーターの佐藤奏美は番組卒業後、事務所入所が決まっていたが、諸事情により延期になった（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[アイムエンタープライズ](../Page/アイムエンタープライズ.md "wikilink")への所属が決まった）。
 
-[2003年](../Page/2003年.md "wikilink")7月と[2004年](../Page/2004年.md "wikilink")1月の2回、『[ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")』のPRを兼ね、「アニメTV + PLUS」という特別番組が放送された。放送局はテレビ神奈川のほか、当番組を放送していない[千葉テレビと](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")の計3局。CSでの放送はなかった。司会は『小麦ちゃん』主演の[桃井はるこ](../Page/桃井はるこ.md "wikilink")で、山本麻里安は出演していない。翌年に[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")界で「兄貴」と呼ばれる[水木一郎](../Page/水木一郎.md "wikilink")がゲスト出演した際は、画面右下の番組ロゴが「Aniki TV」に差し替えられた。また、2008年6月に放送400回を迎えた際には、水木自身が歌手生活40周年だったことから「4」繋がりで祝福のコメントを寄せている。
+[2003年](../Page/2003年.md "wikilink")7月と[2004年](../Page/2004年.md "wikilink")1月の2回、『[ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")』のPRを兼ね、「アニメTV + PLUS」という特別番組が放送された。放送局はテレビ神奈川のほか、当番組を放送していない[千葉テレビと](../Page/千葉テレビ放送.md "wikilink")[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")の計3局。CSでの放送はなかった。司会は『小麦ちゃん』主演の[桃井はるこ](../Page/桃井はるこ.md "wikilink")で、山本麻里安は出演していない。翌年に[アニメソング](https://ja.wikipedia.org/wiki/アニメソング "wikilink")界で「兄貴」と呼ばれる[水木一郎](../Page/水木一郎.md "wikilink")がゲスト出演した際は、画面右下の番組ロゴが「Aniki TV」に差し替えられた。また、2008年6月に放送400回を迎えた際には、水木自身が歌手生活40周年だったことから「4」繋がりで祝福のコメントを寄せている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月から[2006年](../Page/2006年.md "wikilink")6月までの7ヶ月間、一部の回を除きエンディングトークが放送されなかった。しかし、2006年7月より再びエンディングトークが毎週放送されるようになった。
+[2005年](../Page/2005年.md "wikilink")12月から[2006年](../Page/2006年.md "wikilink")6月までの7ヶ月間、一部の回を除きエンディングトークが放送されなかった。しかし、2006年7月より再びエンディングトークが毎週放送されるようになった。
 
-かつて「パセラボTV」のコーナーがあり、ここでは[酒井香奈子が](https://ja.wikipedia.org/wiki/さかいかな "wikilink")[ナビゲーター](https://ja.wikipedia.org/wiki/ナビゲーター "wikilink")を務めていた。なお、「パセラボTV」公式サイトでは引き続き更新が続いていた。
+かつて「パセラボTV」のコーナーがあり、ここでは[酒井香奈子が](../Page/さかいかな.md "wikilink")[ナビゲーター](https://ja.wikipedia.org/wiki/ナビゲーター "wikilink")を務めていた。なお、「パセラボTV」公式サイトでは引き続き更新が続いていた。
 
 ## スタッフ
 
@@ -199,7 +199,7 @@
 ## オープニングテーマ
 
   - 絶対無敵LOVE（歌：[山本麻里安](../Page/山本麻里安.md "wikilink")）
-  - [Hasta La Vista](https://ja.wikipedia.org/wiki/Hasta_La_Vista "wikilink")（歌：[今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")）
+  - [Hasta La Vista](https://ja.wikipedia.org/wiki/Hasta_La_Vista "wikilink")（歌：[今井麻美](../Page/今井麻美.md "wikilink")）
   - もう一度（歌：[下田麻美](https://ja.wikipedia.org/wiki/下田麻美 "wikilink")）
   - [蛍火](https://ja.wikipedia.org/wiki/蛍火_\(原由実の曲\) "wikilink")（歌：[原由実](https://ja.wikipedia.org/wiki/原由実 "wikilink")）
   - フェノグラム（歌：[彩音](../Page/彩音.md "wikilink")）
@@ -215,11 +215,11 @@
 2.  [ひまわり](../Page/ひまわり_\(飯塚雅弓のアルバム\).md "wikilink")（歌：[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")）
 3.  アフタースクール after school（歌：とりおまてぃっく）
 4.  恋の色（歌：飯塚雅弓）
-5.  揺らぐことない愛（歌：[田村直美](https://ja.wikipedia.org/wiki/田村直美 "wikilink")）
+5.  揺らぐことない愛（歌：[田村直美](../Page/田村直美.md "wikilink")）
 6.  [proof of life](https://ja.wikipedia.org/wiki/sweets_\(石田燿子のアルバム\) "wikilink")（歌：[石田燿子](../Page/石田燿子.md "wikilink")）
 7.  [星めぐり](https://ja.wikipedia.org/wiki/Lune "wikilink")（歌：[折笠富美子](../Page/折笠富美子.md "wikilink")）
 8.  [羽](../Page/羽-hane-.md "wikilink")（歌：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")）
-9.  お世話します（歌：[吉住梢](../Page/吉住梢.md "wikilink")・[門脇舞](../Page/門脇舞以.md "wikilink")・[吉川由弥](https://ja.wikipedia.org/wiki/吉川由弥 "wikilink")）
+9.  お世話します（歌：[吉住梢](../Page/吉住梢.md "wikilink")・[門脇舞](../Page/門脇舞以.md "wikilink")・[吉川由弥](../Page/吉川由弥.md "wikilink")）
 10. 鼻歌（はみんぐ）でいず♪（歌：[川澄綾子](../Page/川澄綾子.md "wikilink")・[清水愛](../Page/清水愛.md "wikilink")）
 11. [Re-sublimity](../Page/Re-sublimity.md "wikilink")（歌：KOTOKO）
 12. 螺旋のプロローグ（歌：清水愛）
@@ -227,7 +227,7 @@
 14. [情熱の女神](https://ja.wikipedia.org/wiki/all_of_me "wikilink")（歌：石田燿子）
 15. [硝子の靡風](../Page/硝子の靡風.md "wikilink")（がらすのかぜ）（歌：KOTOKO）
 16. [Flower](https://ja.wikipedia.org/wiki/Flower_\(折笠富美子のアルバム\) "wikilink")（歌：折笠富美子）
-17. metamorphose（歌：[高橋洋子](https://ja.wikipedia.org/wiki/高橋洋子_\(歌手\) "wikilink")）
+17. metamorphose（歌：[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")）
 18. [蜜-mitsu-](https://ja.wikipedia.org/wiki/蜜-mitsu- "wikilink")（歌：奥井雅美）
 19. [seed](../Page/SEED_\(川田まみのアルバム\).md "wikilink")（歌：[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")）
 20. OUTRIDE（歌：[アニサマフレンズ](https://ja.wikipedia.org/wiki/Animelo_Summer_Live#2006年 "wikilink")）
@@ -276,9 +276,9 @@
 63. 　楽曲お調べ中
 64. 　[Borderland](https://ja.wikipedia.org/wiki/Borderland "wikilink")（歌：[川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")）
 65. 脳内ONLY（スタプラ！星華学院芸能部 team.アルタイル）
-66. Shining Star-☆-LOVE Letter（[井口裕香](https://ja.wikipedia.org/wiki/井口裕香 "wikilink")）
+66. Shining Star-☆-LOVE Letter（[井口裕香](../Page/井口裕香.md "wikilink")）
 67. [疾走論](https://ja.wikipedia.org/wiki/疾走論 "wikilink")（歌：[原田ひとみ](../Page/原田ひとみ.md "wikilink")）
-68. [Dear Darling](https://ja.wikipedia.org/wiki/Dear_Darling "wikilink")（[今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink")）
+68. [Dear Darling](https://ja.wikipedia.org/wiki/Dear_Darling "wikilink")（[今井麻美](../Page/今井麻美.md "wikilink")）
 69. 私は想像する（[昆夏美](https://ja.wikipedia.org/wiki/昆夏美 "wikilink")）
 70. 愛しき日々（[流田Project](https://ja.wikipedia.org/wiki/流田Project "wikilink")）
 71. シャララ☆ランデヴー（[星華学院芸能部team.スピカ](https://ja.wikipedia.org/wiki/スタプラ! "wikilink")）
@@ -297,7 +297,7 @@
   - 第181回放送（2004年3月20日） 『ナースウィッチ小麦ちゃんマジカルて』 KARTE.5（後編）
       - KARTE.5は通常の番組の枠内で2週に分けて放映された。
   - 第204回放送（2004年8月28日） 『ナースウィッチ小麦ちゃんマジカルてZ』 おぺ.1
-  - 第222回放送（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月1日） 『ナースウィッチ小麦ちゃんマジカルて』 KARTE.1（再放送）
+  - 第222回放送（[2005年](../Page/2005年.md "wikilink")1月1日） 『ナースウィッチ小麦ちゃんマジカルて』 KARTE.1（再放送）
   - 第232回放送（2005年3月12日） 『[撲殺天使ドクロちゃん](../Page/撲殺天使ドクロちゃん.md "wikilink")』 第1話・第2話
   - 第241回放送（2005年5月14日） 『撲殺天使ドクロちゃん』 第3話・第4話
   - 第250回放送（2005年7月16日） 『撲殺天使ドクロちゃん』 第5話・第6話

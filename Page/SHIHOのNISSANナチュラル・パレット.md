@@ -3,7 +3,7 @@
 
 **SHIHOのNISSANナチュラル・パレット**（しほのにっさんなちゅらる・ぱれっと）は、[TOKYO FMをはじめとする](../Page/エフエム東京.md "wikilink")[JFN系列](../Page/全国FM放送協議会.md "wikilink")37局([Kiss-FM KOBEを除く](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink"))で週末に放送していた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2003年](../Page/2003年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、「[NISSAN SONG 4 SEASON](https://ja.wikipedia.org/wiki/NISSAN_SONG_4_SEASON "wikilink")」（DJ・[栗原由佳](../Page/栗原由佳.md "wikilink")）からタイトル改題。（一部地域では放送時間が異なる）提供は[日産自動車](../Page/日産自動車.md "wikilink")単独。2006年3月で終了。
 
-パーソナリティーは[SHIHO](https://ja.wikipedia.org/wiki/SHIHO_\(ファッションモデル\) "wikilink")。2005年4月からは[藤野直彦](https://ja.wikipedia.org/wiki/藤野直彦 "wikilink")がアシスタントとして登場した。
+パーソナリティーは[SHIHO](../Page/SHIHO_\(ファッションモデル\).md "wikilink")。2005年4月からは[藤野直彦](https://ja.wikipedia.org/wiki/藤野直彦 "wikilink")がアシスタントとして登場した。
 
 ## オンエア局
 

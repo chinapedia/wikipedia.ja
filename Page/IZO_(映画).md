@@ -24,7 +24,7 @@
   - [中山一也](../Page/中山一也.md "wikilink") - 岡田以蔵 （イゾー）
   - [桃井かおり](../Page/桃井かおり.md "wikilink") - サヤ
   - [松田龍平](../Page/松田龍平.md "wikilink") - 殿下
-  - [美木良介](https://ja.wikipedia.org/wiki/美木良介 "wikilink") - [ハンペイタ](../Page/武市瑞山.md "wikilink")
+  - [美木良介](../Page/美木良介.md "wikilink") - [ハンペイタ](../Page/武市瑞山.md "wikilink")
   - [高野八誠](../Page/高野八誠.md "wikilink") - 男蝶
   - [ボブ・サップ](../Page/ボブ・サップ.md "wikilink") - 門衛の怪物
   - [松方弘樹](../Page/松方弘樹.md "wikilink") - やくざのボス
@@ -35,13 +35,13 @@
   - [内田裕也](../Page/内田裕也.md "wikilink") - 弐番の男
   - [緒形拳](../Page/緒形拳.md "wikilink") - 剣豪
   - [原田芳雄](../Page/原田芳雄.md "wikilink") - 茶室の老主人
-  - [篠田三郎](https://ja.wikipedia.org/wiki/篠田三郎 "wikilink") - 学界のドン
+  - [篠田三郎](../Page/篠田三郎.md "wikilink") - 学界のドン
   - [勝野洋](../Page/勝野洋.md "wikilink") - [土方歳三](../Page/土方歳三.md "wikilink") （トシゾー）
   - [大滝秀治](../Page/大滝秀治.md "wikilink") - 茶室の老人客
   - [山本太郎](https://ja.wikipedia.org/wiki/山本太郎 "wikilink") - 鬼二
-  - [遠藤憲一](https://ja.wikipedia.org/wiki/遠藤憲一 "wikilink") - 刑吏一
+  - [遠藤憲一](../Page/遠藤憲一.md "wikilink") - 刑吏一
   - [寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink") - 刑吏二
-  - [松田優](https://ja.wikipedia.org/wiki/松田優 "wikilink") - SAT隊長
+  - [松田優](../Page/松田優.md "wikilink") - SAT隊長
   - [夏山千景](https://ja.wikipedia.org/wiki/夏山千景 "wikilink") - 女蝶
   - [中山麻理](https://ja.wikipedia.org/wiki/中山麻理 "wikilink") - 参番の女
   - [及川光博](../Page/及川光博.md "wikilink") - [沖田総司](../Page/沖田総司.md "wikilink") （ソウジ）
@@ -68,7 +68,7 @@
   - [武蔵拳](../Page/武蔵拳.md "wikilink") - やくざ一
   - [田島好人](https://ja.wikipedia.org/wiki/田島好人 "wikilink") - やくざ二
   - [内山仁](https://ja.wikipedia.org/wiki/内山仁 "wikilink") - やくざ三
-  - [菅田俊](https://ja.wikipedia.org/wiki/菅田俊 "wikilink") - 僧兵一
+  - [菅田俊](../Page/菅田俊.md "wikilink") - 僧兵一
   - [石山雄大](../Page/石山雄大.md "wikilink") - 重鎮の老人二
   - [高瀬春奈](../Page/高瀬春奈.md "wikilink") - ラッキーマザー
   - [曽根晴美](../Page/曽根晴美.md "wikilink") - 財界のドン

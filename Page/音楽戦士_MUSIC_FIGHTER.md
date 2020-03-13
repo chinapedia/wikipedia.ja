@@ -14,21 +14,21 @@
 ## 出演者
 
   - [青木さやか](../Page/青木さやか.md "wikilink")（2010年2月19日より産休）
-      - [杉上佐智枝](https://ja.wikipedia.org/wiki/杉上佐智枝 "wikilink")アナウンサー（青木の産休代理、2010年2月19日より出演）
+      - [杉上佐智枝](../Page/杉上佐智枝.md "wikilink")アナウンサー（青木の産休代理、2010年2月19日より出演）
   - [キングコング](https://ja.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")（[西野亮廣](../Page/西野亮廣.md "wikilink")・[梶原雄太](../Page/梶原雄太.md "wikilink")）
-  - [新谷保志](https://ja.wikipedia.org/wiki/新谷保志 "wikilink")アナウンサー（ナレーション。但し番組公式サイト内での紹介はなし。新谷アナウンサーの代わりに[矢島学](../Page/矢島学.md "wikilink")アナウンサーや[森圭介](../Page/森圭介.md "wikilink")アナウンサーが担当する回もある）
+  - [新谷保志](../Page/新谷保志.md "wikilink")アナウンサー（ナレーション。但し番組公式サイト内での紹介はなし。新谷アナウンサーの代わりに[矢島学](../Page/矢島学.md "wikilink")アナウンサーや[森圭介](../Page/森圭介.md "wikilink")アナウンサーが担当する回もある）
 
 ### 過去
 
   - [レニー・ハート](../Page/レニー・ハート.md "wikilink")（ナレーション。2008年10月3日まで）
   - [宮﨑宣子アナウンサー](https://ja.wikipedia.org/wiki/宮崎宣子 "wikilink")（アシスタント、2005年10月7日まで）
   - [シーモネーター 改め SEAMO](../Page/SEAMO.md "wikilink")（準レギュラー、2005年春頃まで）
-  - [工藤里紗](https://ja.wikipedia.org/wiki/工藤里紗 "wikilink")（準レギュラー、2005年春頃まで）
+  - [工藤里紗](../Page/工藤里紗.md "wikilink")（準レギュラー、2005年春頃まで）
   - [はなわ](https://ja.wikipedia.org/wiki/はなわ "wikilink")（同上）
   - アユミ（現在の[ICONIQ](https://ja.wikipedia.org/wiki/伊藤ゆみ "wikilink")、当時は[Sugarのメンバー](../Page/Sugar_\(韓国の音楽グループ\).md "wikilink")、2006年3月まで）
   - 青木専属イケメンアシスタント（2005年10月14日〜2006年3月）
       - [安藤亮司](../Page/安藤亮司.md "wikilink")
-      - [和田正人](https://ja.wikipedia.org/wiki/和田正人 "wikilink")
+      - [和田正人](../Page/和田正人.md "wikilink")
       - [野久保直樹](../Page/野久保直樹.md "wikilink")
 
 ## 番組コーナー
@@ -44,7 +44,7 @@
     スタジオトークのコーナータイトルが消滅し、観覧客を入れる形に変わった。この観覧客は、ゲストアーティストの所属事務所がファンクラブ会員やアーティスト公式サイト訪問者限定で募集している。
     同時にセットを全面リニューアルした。リニューアルしたセットにある背景のイラストは西野が担当した。
     たまに、スタジオトークの代わりに青木・キングコング・ゲストがロケに出る企画が放映される事もある。
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")の回より、不定期にスタジオトーク内で青木や梶原がゲストを喜ばせる趣向をプレゼンしあう企画「○○（ゲスト）をハネさせた〜い\!\!」が行われる様になった。また、[2006年](../Page/2006年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")の回より不定期にスタジオトーク内でゲストにまつわる噂の真偽を検証する企画「噂の真相（ウワサのQ）」が行われる様になった。取り上げる噂は主に視聴者から募集するが、共演者・マネージャー・スタッフがVTR出演で情報提供する事もある。
+    [2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")の回より、不定期にスタジオトーク内で青木や梶原がゲストを喜ばせる趣向をプレゼンしあう企画「○○（ゲスト）をハネさせた〜い\!\!」が行われる様になった。また、[2006年](../Page/2006年.md "wikilink")[3月3日](../Page/3月3日.md "wikilink")の回より不定期にスタジオトーク内でゲストにまつわる噂の真偽を検証する企画「噂の真相（ウワサのQ）」が行われる様になった。取り上げる噂は主に視聴者から募集するが、共演者・マネージャー・スタッフがVTR出演で情報提供する事もある。
   - 2006年4月7日〜
     いくつかのコーナー入れ替えがあり、スタジオトークとスタジオライブがハイビジョン化された。この時期から青木やキングコングがメインとなる企画（後述）はほとんど行われず、ゲストが中心となった。
   - 2006年10月20日〜
@@ -64,12 +64,12 @@
 ### その他のコーナー
 
   - スタジオライブ
-    上記コーナーの合間に別収録のスタジオライブが流れる。チャート上位に入るトップアーティストの新曲から注目の新人アーティストまで幅広く出演。ここでのライブ映像が「[速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")」「[ミンナのテレビ](https://ja.wikipedia.org/wiki/ミンナのテレビ "wikilink")」など他の番組で流用される事もあった。
+    上記コーナーの合間に別収録のスタジオライブが流れる。チャート上位に入るトップアーティストの新曲から注目の新人アーティストまで幅広く出演。ここでのライブ映像が「[速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")」「[ミンナのテレビ](../Page/ミンナのテレビ.md "wikilink")」など他の番組で流用される事もあった。
   - 明るいニュース
-    不況の音楽業界を盛り上げる明るいニュースだけを紹介する。実態はアーティストの新曲PRや近況報告。「明るいオリコンチャート」と題し、[オリコンシングルチャートTOP](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")10を発表していた時期もある。
+    不況の音楽業界を盛り上げる明るいニュースだけを紹介する。実態はアーティストの新曲PRや近況報告。「明るいオリコンチャート」と題し、[オリコンシングルチャートTOP](../Page/オリコンチャート.md "wikilink")10を発表していた時期もある。
     当初は「夜の宣伝会議」のスタジオでキングコング梶原雄太と宮﨑秘書が進行を担当した。地元密着型アーティストの紹介や音楽業界を盛り上げるアイデアの提案などがあったが、次第にアーティストのコメント映像のみとなった。
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")1月頃「夜の宣伝会議」の廃止と共にコーナー進行役が不在になった。
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")の回から、キャスターとしてアユミ（[Sugar](../Page/Sugar_\(韓国の音楽グループ\).md "wikilink")）が進行を担当した（但し9月23・30日の回は進行役なし）。アーティストはスタジオライブの前に、ニュース番組のレポーター風に明るいニュースを読み上げる。
+    [2005年](../Page/2005年.md "wikilink")1月頃「夜の宣伝会議」の廃止と共にコーナー進行役が不在になった。
+    [2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")の回から、キャスターとしてアユミ（[Sugar](../Page/Sugar_\(韓国の音楽グループ\).md "wikilink")）が進行を担当した（但し9月23・30日の回は進行役なし）。アーティストはスタジオライブの前に、ニュース番組のレポーター風に明るいニュースを読み上げる。
     2005年[9月23日](../Page/9月23日.md "wikilink")の回からオリコンチャートがランキング表形式になり、チャート発表の合間に「明日つかえるオリコンチャート」と称してランクインした楽曲やアーティストに関する豆知識が紹介される様になった。
     [2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")の回から再び進行役が不在になる。アーティストがニュース番組のレポーター風に明るいニュースを読み上げる形式は変わらず。また、オリコンチャートのコーナーがなくなった。
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")の回では、進行役のいないVTR形式に加え、「夜の宣伝会議」復活企画の一環として3年ぶりにキングコング梶原と宮﨑秘書の進行による「明るいニュース」も放送された。
@@ -83,7 +83,7 @@
 ### 過去のコーナー
 
   - 2005年の「さくら」を発掘
-    ブレーク前のアーティストの春や卒業をテーマにした楽曲の中から青木と梶原が1曲ずつを選び、それぞれが考えたプロモーション企画を進める。青木は[Les.R](https://ja.wikipedia.org/wiki/Les.R "wikilink")『卒業』の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")を監督し、梶原は[JINDOU](../Page/JINDOU.md "wikilink")『春のうた』の卒業式ライブを計画。西野の母校・川西緑台高校（卒業生に西野の弟がいる）で実施した。
+    ブレーク前のアーティストの春や卒業をテーマにした楽曲の中から青木と梶原が1曲ずつを選び、それぞれが考えたプロモーション企画を進める。青木は[Les.R](../Page/Les.R.md "wikilink")『卒業』の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")を監督し、梶原は[JINDOU](../Page/JINDOU.md "wikilink")『春のうた』の卒業式ライブを計画。西野の母校・川西緑台高校（卒業生に西野の弟がいる）で実施した。
   - 関西ロックサミット
     梶原が[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")を勝手に押さえた事から始まり、売り出し中の関西の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")を集めたイベントを2005年3月に開催する事が決定。選抜された3バンドが観客へのプレゼントを集めるため大物アーティストを訪問する企画が放送された。
   - ジモラッパー
@@ -105,11 +105,11 @@
       - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の番組収録のADとして働く。
       - [DA PUMPにダンスを伝授してもらう](../Page/DA_PUMP.md "wikilink")。
       - [SEAMO](../Page/SEAMO.md "wikilink")が[さだまさし](../Page/さだまさし.md "wikilink")の『[関白宣言](../Page/関白宣言.md "wikilink")』をリメークするため、SEAMO・キングコング・工藤がさだの元を訪れて[ヒップホップ](../Page/ヒップホップ.md "wikilink")の良さを伝える。
-      - 振付師の[真島茂樹](https://ja.wikipedia.org/wiki/真島茂樹 "wikilink")を訪問し、番組オリジナルのダンスを振り付けしてもらう。後にキングコングが松平の[東京ドーム](../Page/東京ドーム.md "wikilink")公演に参加する事に成功した。
+      - 振付師の[真島茂樹](../Page/真島茂樹.md "wikilink")を訪問し、番組オリジナルのダンスを振り付けしてもらう。後にキングコングが松平の[東京ドーム](../Page/東京ドーム.md "wikilink")公演に参加する事に成功した。
 
   - CDデビュー企画
 
-:\* 青木が[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のパートチェンジバンド「[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")」に「P'UNK青木」として加入し、『Round and Round 2005』をレコーディングした。その曲を引っ提げて2004年12月に[日本武道館](../Page/日本武道館.md "wikilink")で行われたライブイベントに出演した。同曲は2005年1月に『[Killing Me](../Page/Killing_Me.md "wikilink")』のカップリングとして発売され、[オリコン週間シングルチャートで初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した。
+:\* 青木が[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のパートチェンジバンド「[P'UNK〜EN〜CIEL](https://ja.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")」に「P'UNK青木」として加入し、『Round and Round 2005』をレコーディングした。その曲を引っ提げて2004年12月に[日本武道館](../Page/日本武道館.md "wikilink")で行われたライブイベントに出演した。同曲は2005年1月に『[Killing Me](../Page/Killing_Me.md "wikilink")』のカップリングとして発売され、[オリコン週間シングルチャートで初登場](../Page/オリコンチャート.md "wikilink")1位を獲得した。
 
 :\* 梶原がSEAMOとのジモラップ競作を目指し、自身の母親をテーマにした『[おかん](https://ja.wikipedia.org/wiki/おかん_\(キングコング梶原の曲\) "wikilink")』を作詞した。
 
@@ -141,7 +141,7 @@
 ## 特別番組・特別編成
 
   - 2005年[9月14日](../Page/9月14日.md "wikilink")（水曜日）22:00〜23:09にスペシャル番組『発表\! 2005年上半期ヒットソング30 青木さやか・キングコング秋のアーティスト祭』が放送された。セットや番組構成が全く異なり、音楽戦士の特番とは銘打たれなかったが、司会者とスタッフは同じである。
-  - 2005年[10月7日](../Page/10月7日.md "wikilink")の通常放送では、放送時間の大半を使い、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のニューアルバム「[キラーストリート](https://ja.wikipedia.org/wiki/キラーストリート "wikilink")」のプロモーションが行われた。これにより「明るいニュース」「K-POP大図鑑」の2コーナーは休止となり、スタジオライブコーナーではサザンオールスターズのみが出演という形になった。
+  - 2005年[10月7日](../Page/10月7日.md "wikilink")の通常放送では、放送時間の大半を使い、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")のニューアルバム「[キラーストリート](../Page/キラーストリート.md "wikilink")」のプロモーションが行われた。これにより「明るいニュース」「K-POP大図鑑」の2コーナーは休止となり、スタジオライブコーナーではサザンオールスターズのみが出演という形になった。
   - 2007年[10月26日](../Page/10月26日.md "wikilink")は75分の延長放送だった。内容の大半は奥田のデビュー20周年を祝う企画で、青木さやかによる[奥田民生](../Page/奥田民生.md "wikilink")へのインタビューロケを軸にしたもの。
   - 2009年[3月27日](../Page/3月27日.md "wikilink")は、ゲスト出演者が全コーナー合わせて延べ6500名を超えたことを記念し、過去に放送したスタジオトークとスタジオライブの傑作選をVTRで振り返る企画が大半を占めた。この放映回で新曲のライブをしたゲストは「新入戦士」として出演した[SPANK PAGEのみ](https://ja.wikipedia.org/wiki/SPANK_PAGE "wikilink")。
 
@@ -160,7 +160,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/日本テレビ放送網.md" title="wikilink">日本テレビ</a>(NTV・<strong>制作局</strong>)<br />
-<a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>(STV)<br />
+<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>(STV)<br />
 <a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a>(RAB)<br />
 <a href="../Page/宮城テレビ放送.md" title="wikilink">ミヤギテレビ</a>(MMT)<br />
 <a href="https://ja.wikipedia.org/wiki/秋田放送" title="wikilink">秋田放送</a>(ABS)<br />
@@ -233,7 +233,7 @@
 ### 備考
 
   - 「[金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")」及び「[プロ野球中継](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")」の放送時間拡大や特別番組などで放送開始時間が繰り下がる場合がある。
-  - 2008年4月より『[フライデーTVラボ](https://ja.wikipedia.org/wiki/フライデーTVラボ "wikilink")』の開始に伴いスタート時間が30分遅くなったが、同レーベルをネットしていない一部局(MMT・SDT・HTV・FBS・KKT)では[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")の30分先行ネットか別番組で穴埋めにより同時ネットの対応となった。また、SDTなどの一部地方局では[放送回線の関係からHV画質からSD画質に差し替えになっている](https://ja.wikipedia.org/wiki/NTT中継回線 "wikilink")（同レーベルと当番組を同時ネットする局にはNTVからHV回線で配信し、当番組30分先行の局にはSD回線で裏送り）。
+  - 2008年4月より『[フライデーTVラボ](https://ja.wikipedia.org/wiki/フライデーTVラボ "wikilink")』の開始に伴いスタート時間が30分遅くなったが、同レーベルをネットしていない一部局(MMT・SDT・HTV・FBS・KKT)では[裏送り](../Page/裏送り.md "wikilink")の30分先行ネットか別番組で穴埋めにより同時ネットの対応となった。また、SDTなどの一部地方局では[放送回線の関係からHV画質からSD画質に差し替えになっている](../Page/NTT中継回線.md "wikilink")（同レーベルと当番組を同時ネットする局にはNTVからHV回線で配信し、当番組30分先行の局にはSD回線で裏送り）。
       - 2008年10月より、30分先行ネット局は、HTVを除いて24:55スタート（同時ネット）になった。
   - 2008年4月から同年12月までの間、NTV及び同時ネット局では月1回（原則、毎月第4金曜）『フライデーTVラボ』の前に『[月刊サッカーアース](../Page/サッカーアース.md "wikilink")』を放送するため、放送枠が通常より1時間以上繰り下がることがあった。2009年1月より『月刊サッカーアース』が当番組のあとに放映されることになったため、この事態は解消した。
   - そして2009年10月より3年半ぶりに24:30開始となる。
@@ -246,7 +246,7 @@
   - YBS・KTK・OBS（TBS系列）は2005年4月から放送を開始した。但し、OBSについては2007年6月で一旦打ち切りになったものの、2008年4月よりネット復帰した。
   - ytvは2006年3月まで1日遅れだったが、同年4月から一旦同時ネットになった。しかし、2007年[4月6日](../Page/4月6日.md "wikilink")より自社制作バラエティ番組『[ブラマヨ・チュートのまる金TV](../Page/ブラマヨ・チュートのまる金TV.md "wikilink")』放送開始に伴い3日遅れの放送となった。その後、NTV系のバラエティ番組『[業界クイズ ミニキテ\!](../Page/業界クイズ_ミニキテ!.md "wikilink")』の放送開始に伴い、同年10月より4日遅れの放送となった。
   - CTVは2006年3月までは同時ネットだったが、同年4月7日より自社制作のバラエティ番組『[TA☆RO](../Page/TA☆RO.md "wikilink")』の放送開始に伴い1時間遅れの放送となった。2007年4月6日からは放送開始時間がさらに5分繰り下げられた。同年10月より『[MusiG](../Page/MusiG.md "wikilink")』の放送終了に伴い遅れが30分縮まった。さらに2008年4月より『サッカーアース』の放送終了に伴う『TA☆RO』の放送時間変更により再び同時ネットとなったが、2009年10月14日より水曜に移動となり、2010年1月より現在の放送日時に変更された。CTVにおけるこの番組の曜日移動は初めてである。
-  - NKTは金曜深夜（7日遅れ、25:20〜26:20、2006年3月まで）→月曜深夜（17日遅れ、24:31〜25:31）を経て同時ネットに移行している。また、同局については『[歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")』が開始当初から金曜深夜の放送であるため（現在も金曜深夜のまま、当番組の次枠で放送）、当番組が月曜の放送だった時期は、この2番組に関して言えばネット局で唯一NTVの編成と入れ替わった形での放送となっていた。
+  - NKTは金曜深夜（7日遅れ、25:20〜26:20、2006年3月まで）→月曜深夜（17日遅れ、24:31〜25:31）を経て同時ネットに移行している。また、同局については『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』が開始当初から金曜深夜の放送であるため（現在も金曜深夜のまま、当番組の次枠で放送）、当番組が月曜の放送だった時期は、この2番組に関して言えばネット局で唯一NTVの編成と入れ替わった形での放送となっていた。
   - RNCは当初同時ネットだったが、7日遅れになった（遅れネットに変更となった時期は不明）。しかし2009年10月、再び同時ネットとなった。
   - KNBは2006年9月28日まで6日遅れだった（木曜24:20〜25:15）。
   - ABSは2007年4月6日から放送開始。
@@ -256,7 +256,7 @@
 
 ## スタッフ
 
-  - （構成） [舘川範雄](../Page/舘川範雄.md "wikilink")　[金沢達也](https://ja.wikipedia.org/wiki/金沢達也 "wikilink")　AKO　[桝本壮志](https://ja.wikipedia.org/wiki/桝本壮志 "wikilink")　
+  - （構成） [舘川範雄](../Page/舘川範雄.md "wikilink")　[金沢達也](https://ja.wikipedia.org/wiki/金沢達也 "wikilink")　AKO　[桝本壮志](../Page/桝本壮志.md "wikilink")　
   - （TM） 古川誠一
   - （TD-SW） 鈴木健司　安藤康一　蔦佳樹 佐藤裕司　北折雅人
   - （カメラ） 茅野竜徳　山内剛　北折雅人　木藤和久　吉田健治　鎌倉和由　東武志　赤澤知弘
@@ -284,7 +284,7 @@
 
 ### 過去のスタッフ
 
-  - （構成）　[福田雄一](https://ja.wikipedia.org/wiki/福田雄一 "wikilink")　成実みつき　[玉井貴代志](https://ja.wikipedia.org/wiki/玉井貴代志 "wikilink")
+  - （構成）　[福田雄一](https://ja.wikipedia.org/wiki/福田雄一 "wikilink")　成実みつき　[玉井貴代志](../Page/玉井貴代志.md "wikilink")
   - （LP）　内藤晋
   - （編集）　市川貴裕
   - （美術デザイン）　中村桂子　塚越千恵
@@ -293,7 +293,7 @@
   - （ディレクター）　久木野大　榮裕士　梅沢正亮　阿部聡　久保田克重　大竹正高
   - （演出）　今井康則　徳永清孝
   - （プロデューサー）　[中村英明](../Page/中村英明.md "wikilink")　南波昌人　金田有浩　中西健〔以前は演出担当〕
-  - （チーフプロデューサー） [土屋泰則](https://ja.wikipedia.org/wiki/土屋泰則 "wikilink")
+  - （チーフプロデューサー） [土屋泰則](../Page/土屋泰則.md "wikilink")
 
 ## 歴代テーマ曲
 
@@ -315,7 +315,7 @@
 <tr class="even">
 <td><p>2004年<br />
 11月度</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/聖者が街にやってくる_(LITTLEの曲)" title="wikilink">聖者が街にやってくる</a>」 <a href="https://ja.wikipedia.org/wiki/LITTLE" title="wikilink">LITTLE</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/聖者が街にやってくる_(LITTLEの曲)" title="wikilink">聖者が街にやってくる</a>」 <a href="../Page/LITTLE.md" title="wikilink">LITTLE</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/君へカケル" title="wikilink">君へカケル</a>」 <a href="../Page/THE_BOOGIE_JACK.md" title="wikilink">THE BOOGIE JACK</a></p></td>
 </tr>
 <tr class="odd">
@@ -382,7 +382,7 @@
 <td><p>2005年<br />
 10月度</p></td>
 <td><p>「<a href="../Page/AROUND_THE_WORLD_(鈴木亜美の曲).md" title="wikilink">AROUND THE WORLD</a>」 鈴木亜美</p></td>
-<td><p>「<a href="../Page/Friday_Party.md" title="wikilink">Friday Party</a>」 <a href="https://ja.wikipedia.org/wiki/AAA_(音楽グループ)" title="wikilink">AAA</a></p></td>
+<td><p>「<a href="../Page/Friday_Party.md" title="wikilink">Friday Party</a>」 <a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAA</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2005年<br />
@@ -436,7 +436,7 @@
 <td><p>2006年<br />
 7月度</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/Deep_in_your_heart/+MILLION_but_-LOVE" title="wikilink">+MILLION but -LOVE</a>」 <a href="../Page/堂本光一.md" title="wikilink">堂本光一</a></p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/コミュニケイション" title="wikilink">コミュニケイション</a>」 <a href="https://ja.wikipedia.org/wiki/高橋瞳" title="wikilink">高橋瞳</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/コミュニケイション" title="wikilink">コミュニケイション</a>」 <a href="../Page/高橋瞳.md" title="wikilink">高橋瞳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2006年<br />
@@ -453,13 +453,13 @@
 <tr class="odd">
 <td><p>2006年<br />
 10月度</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/I_Say_Yeah!" title="wikilink">I Say Yeah!</a>」 <a href="https://ja.wikipedia.org/wiki/PUSHIM" title="wikilink">PUSHIM</a>, <a href="https://ja.wikipedia.org/wiki/RHYMESTER" title="wikilink">RHYMESTER</a>, HOME MADE 家族, <a href="../Page/マボロシ.md" title="wikilink">マボロシ</a>, May J.</p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/I_Say_Yeah!" title="wikilink">I Say Yeah!</a>」 <a href="https://ja.wikipedia.org/wiki/PUSHIM" title="wikilink">PUSHIM</a>, <a href="../Page/RHYMESTER.md" title="wikilink">RHYMESTER</a>, HOME MADE 家族, <a href="../Page/マボロシ.md" title="wikilink">マボロシ</a>, May J.</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/ダズリングスープ/シルク" title="wikilink">ダズリングスープ</a>」 <a href="../Page/SHAKALABBITS.md" title="wikilink">SHAKALABBITS</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2006年<br />
 11月度</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/I&#39;m_a_lady〜じれったい私〜" title="wikilink">I'm a lady〜じれったい私〜</a>」 <a href="https://ja.wikipedia.org/wiki/時東ぁみ" title="wikilink">時東ぁみ</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/I&#39;m_a_lady〜じれったい私〜" title="wikilink">I'm a lady〜じれったい私〜</a>」 <a href="../Page/時東ぁみ.md" title="wikilink">時東ぁみ</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/Possession/My_All_For_You" title="wikilink">Possession</a>」 <a href="https://ja.wikipedia.org/wiki/JYONGRI" title="wikilink">JYONGRI</a></p></td>
 </tr>
 <tr class="odd">
@@ -484,7 +484,7 @@
 <td><p>2007年<br />
 3月度</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/Close_To_Fantasy" title="wikilink">Getting Funky!</a>」 JYONGRI</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/真昼の月_(音速ラインの曲)" title="wikilink">真昼の月</a>」 <a href="https://ja.wikipedia.org/wiki/音速ライン" title="wikilink">音速ライン</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/真昼の月_(音速ラインの曲)" title="wikilink">真昼の月</a>」 <a href="../Page/音速ライン.md" title="wikilink">音速ライン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年<br />
@@ -526,7 +526,7 @@
 <td><p>2007年<br />
 10月度</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/そろそろ、かりゆし" title="wikilink">電照菊</a>」 <a href="../Page/かりゆし58.md" title="wikilink">かりゆし58</a></p></td>
-<td><p>「<a href="../Page/このは_(曲).md" title="wikilink">このは</a>」 <a href="https://ja.wikipedia.org/wiki/ナイトメア_(バンド)" title="wikilink">ナイトメア</a></p></td>
+<td><p>「<a href="../Page/このは_(曲).md" title="wikilink">このは</a>」 <a href="../Page/ナイトメア_(バンド).md" title="wikilink">ナイトメア</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007年<br />
@@ -603,7 +603,7 @@
 <tr class="even">
 <td><p>2008年<br />
 11月度</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/Miss_you_(COLORの曲)" title="wikilink">Miss you</a>」 <a href="https://ja.wikipedia.org/wiki/COLOR_(ロックバンド)" title="wikilink">COLOR</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/Miss_you_(COLORの曲)" title="wikilink">Miss you</a>」 <a href="../Page/COLOR_(ロックバンド).md" title="wikilink">COLOR</a></p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/NIGHT_WING/雪傘" title="wikilink">NIGHT WING</a>」 <a href="../Page/工藤静香.md" title="wikilink">工藤静香</a></p></td>
 </tr>
 <tr class="odd">
@@ -640,8 +640,8 @@ Miss Monday</p></td>
 <tr class="even">
 <td><p>2009年<br />
 5月度</p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/名前の無い色" title="wikilink">名前の無い色</a>」 <a href="https://ja.wikipedia.org/wiki/藍坊主" title="wikilink">藍坊主</a></p></td>
-<td><p>「<a href="https://ja.wikipedia.org/wiki/会いたくて" title="wikilink">会いたくて</a>」 <a href="https://ja.wikipedia.org/wiki/彩冷える" title="wikilink">彩冷える</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/名前の無い色" title="wikilink">名前の無い色</a>」 <a href="../Page/藍坊主.md" title="wikilink">藍坊主</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/会いたくて" title="wikilink">会いたくて</a>」 <a href="../Page/彩冷える.md" title="wikilink">彩冷える</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年<br />
@@ -683,7 +683,7 @@ Miss Monday</p></td>
 <td><p>2009年<br />
 12月度</p></td>
 <td><p>「<a href="https://ja.wikipedia.org/wiki/トキドキセカイ" title="wikilink">トキドキセカイ</a>」 <a href="https://ja.wikipedia.org/wiki/WEAVER" title="wikilink">WEAVER</a></p></td>
-<td><p>「Slow Luv feat. Kayzabro（<a href="https://ja.wikipedia.org/wiki/DS455" title="wikilink">DS455</a>），詩音」 <a href="https://ja.wikipedia.org/wiki/DJ☆GO" title="wikilink">DJ☆GO</a>[5]</p></td>
+<td><p>「Slow Luv feat. Kayzabro（<a href="../Page/DS455.md" title="wikilink">DS455</a>），詩音」 <a href="https://ja.wikipedia.org/wiki/DJ☆GO" title="wikilink">DJ☆GO</a>[5]</p></td>
 </tr>
 <tr class="even">
 <td><p>「<a href="https://ja.wikipedia.org/wiki/誰より好きなのに" title="wikilink">誰より好きなのに</a>」<a href="https://ja.wikipedia.org/wiki/Tiara_(シンガーソングライター)" title="wikilink">Tiara</a>[6]</p></td>

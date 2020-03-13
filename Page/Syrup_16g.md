@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ポリス](https://ja.wikipedia.org/wiki/ポリス_\(バンド\) "wikilink")、[ザ・スミス](https://ja.wikipedia.org/wiki/ザ・スミス "wikilink")、[BARBEE BOYSなど広義の](../Page/BARBEE_BOYS.md "wikilink")[ニュー・ウェイヴ時代のバンドの影響を受ける](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")\[1\]。
+[ポリス](../Page/ポリス_\(バンド\).md "wikilink")、[ザ・スミス](../Page/ザ・スミス.md "wikilink")、[BARBEE BOYSなど広義の](../Page/BARBEE_BOYS.md "wikilink")[ニュー・ウェイヴ時代のバンドの影響を受ける](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")\[1\]。
 
 五十嵐の作曲のペースが非常に速いため書き溜めた曲が多数あり、バンド初期にできた作品が後になって収録されることも多く\[2\]、さらに未発表の曲も多数ある。特にメジャーデビューから1年の間は、フルアルバムを3枚リリースするというハイペースぶりであった。解散ライブに至ってもアンコールで未発表で音源化未定の最後の新曲が披露された。かつて、[熊谷昭](https://ja.wikipedia.org/wiki/熊谷昭 "wikilink")率いるKEYCREWに所属していた。
 
@@ -149,7 +149,7 @@
 <li>回送</li>
 <li>根ぐされ</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a>34位、登場回数3回<br />
+<td><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a>34位、登場回数3回<br />
 廃盤。<a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>に「My Song」と2枚組で再発された。</p></td>
 </tr>
 <tr class="even">
@@ -519,7 +519,7 @@ Blu-ray:オリコン52位、登場回数2回</p></td>
 <li>プロローグ / 椿屋四重奏</li>
 <li>オールライト / <a href="../Page/PERIDOTS.md" title="wikilink">PERIDOTS</a></li>
 <li>A communication refusal desire / <a href="../Page/VOLA_&amp;_THE_ORIENTAL_MACHINE.md" title="wikilink">VOLA &amp; THE ORIENTAL MACHINE</a></li>
-<li>蛍 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>蛍 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li><strong>聞こえるかい / Syrup 16g</strong></li>
 <li><strong>翌日 / Syrup 16g</strong>
 </div>
@@ -537,7 +537,7 @@ Blu-ray:オリコン52位、登場回数2回</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>希望 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>希望 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>Marine / <a href="../Page/KAREN_(バンド).md" title="wikilink">KAREN</a></li>
 <li>Darjeeling / <a href="https://ja.wikipedia.org/wiki/伊藤文暁" title="wikilink">伊藤文暁</a></li>
 <li>何もできない / <a href="https://ja.wikipedia.org/wiki/paionia" title="wikilink">paionia</a></li>
@@ -548,7 +548,7 @@ Blu-ray:オリコン52位、登場回数2回</p></td>
 <li>Demophobia / <a href="https://ja.wikipedia.org/wiki/PILLS_EMPIRE" title="wikilink">PILLS EMPIRE</a></li>
 <li>electric girl / <a href="https://ja.wikipedia.org/wiki/the_telephones" title="wikilink">the telephones</a></li>
 <li>Mexico Pub / <a href="https://ja.wikipedia.org/wiki/VOLA&amp;THE_ORIENTAL_MACHINE" title="wikilink">VOLA&amp;THE ORIENTAL MACHINE</a></li>
-<li>NEW HERO / <a href="https://ja.wikipedia.org/wiki/SPARTA_LOCALS" title="wikilink">SPARTA LOCALS</a></li>
+<li>NEW HERO / <a href="../Page/SPARTA_LOCALS.md" title="wikilink">SPARTA LOCALS</a></li>
 <li>青い春 / <a href="https://ja.wikipedia.org/wiki/Your_gold,_my_pink" title="wikilink">Your gold, my pink</a></li>
 <li>Ru's rock / <a href="https://ja.wikipedia.org/wiki/CONDOR44" title="wikilink">CONDOR44</a></li>
 <li>凡凡 / <a href="../Page/BAZRA.md" title="wikilink">BAZRA</a></li>
@@ -679,7 +679,7 @@ Blu-ray:オリコン52位、登場回数2回</p></td>
 4.  <http://www.ukproject.com/artist/syrup.html>
 5.  <http://www.ukproject.com/artist/syrup.html>
 6.  月刊GiGS 2006年10月号（No.258）インタビューより
-7.  このライブには前ベースの佐藤、[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")の[木下理樹](https://ja.wikipedia.org/wiki/木下理樹 "wikilink")も一般客として観覧している（[DIARY OF MADMAN 〜狂人日記〜](http://www.art-school.net/cgi-bin/diary_2006/diary.cgi?action=view&date=20041011&year=2004&month=10&day=1&to=31)）。
+7.  このライブには前ベースの佐藤、[ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")の[木下理樹](../Page/木下理樹.md "wikilink")も一般客として観覧している（[DIARY OF MADMAN 〜狂人日記〜](http://www.art-school.net/cgi-bin/diary_2006/diary.cgi?action=view&date=20041011&year=2004&month=10&day=1&to=31)）。
 8.  アンコール以外全て新曲であった事もある
 9.  [五十嵐隆が4年の沈黙破り“生還”ライブ](http://natalie.mu/music/news/85831)ナタリー 2013年3月1日
 10.

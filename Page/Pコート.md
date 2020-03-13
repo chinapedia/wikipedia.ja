@@ -1,7 +1,7 @@
 > この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/ファイル:US_Navy_p_coat_wiki.jpg "wikilink") **Pコート**（ピーコート）は、厚手[ウール](../Page/ウール.md "wikilink")のダブル前で腰丈の[外套](https://ja.wikipedia.org/wiki/外套 "wikilink")（オーバーコート）である。
+[right](https://ja.wikipedia.org/wiki/ファイル:US_Navy_p_coat_wiki.jpg "wikilink") **Pコート**（ピーコート）は、厚手[ウール](../Page/ウール.md "wikilink")のダブル前で腰丈の[外套](../Page/外套.md "wikilink")（オーバーコート）である。
 
 ## 概要
 

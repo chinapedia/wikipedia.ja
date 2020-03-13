@@ -5,7 +5,7 @@
 
 [2001年](../Page/2001年.md "wikilink")11月、NHK大阪放送会館が移転したのと同時にスタート。基本的には公開収録。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月12日](../Page/2月12日.md "wikilink")で放送終了。
+[2005年](../Page/2005年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")で放送終了。
 
 ## 出演者
 
@@ -13,7 +13,7 @@
 
   - [トミーズ雅](https://ja.wikipedia.org/wiki/トミーズ雅 "wikilink")（MC）
   - [中澤裕子](../Page/中澤裕子.md "wikilink")（MC）
-  - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")（[千葉涼平](https://ja.wikipedia.org/wiki/千葉涼平 "wikilink")、[橘慶太](https://ja.wikipedia.org/wiki/橘慶太 "wikilink")、[緒方龍一](https://ja.wikipedia.org/wiki/緒方龍一 "wikilink")）
+  - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")（[千葉涼平](../Page/千葉涼平.md "wikilink")、[橘慶太](../Page/橘慶太.md "wikilink")、[緒方龍一](../Page/緒方龍一.md "wikilink")）
   - [WEST SIDE](../Page/WEST_SIDE.md "wikilink")（[ランディーズ](../Page/ランディーズ.md "wikilink")、[ロザン](../Page/ロザン.md "wikilink")、[キングコング](https://ja.wikipedia.org/wiki/キングコング_\(お笑い\) "wikilink")）
   - [ココナッツ娘。](../Page/ココナッツ娘。.md "wikilink")
 
@@ -22,7 +22,7 @@
   - [陣内智則](../Page/陣内智則.md "wikilink")（MC）
   - 中澤裕子（MC）
   - ランディーズ([中川貴志](../Page/中川貴志.md "wikilink")、[高井俊彦](https://ja.wikipedia.org/wiki/高井俊彦 "wikilink")）
-  - [ビッキーズ](https://ja.wikipedia.org/wiki/ビッキーズ "wikilink")（須知裕雅、木部信彦）
+  - [ビッキーズ](../Page/ビッキーズ.md "wikilink")（須知裕雅、木部信彦）
   - w-inds.（千葉涼平、橘慶太、緒方龍一）（2003年9月まで）
   - [Lead](../Page/Lead.md "wikilink")（中土居宏宜、鍵本輝、谷内伸也、古屋敬多）（2003年10月から）
   - ココナッツ娘。
@@ -32,7 +32,7 @@
   - 陣内智則（MC）
   - 中澤裕子（MC）
   - ビッキーズ（須知裕雅、木部信彦）
-  - [月亭八光](https://ja.wikipedia.org/wiki/月亭八光 "wikilink")
+  - [月亭八光](../Page/月亭八光.md "wikilink")
   - Lead（中土居宏宜、鍵本輝、谷内伸也、古屋敬多）
   - [カントリー娘。](../Page/カントリー娘。.md "wikilink")（あさみ、[里田まい](https://ja.wikipedia.org/wiki/里田まい "wikilink")、みうな）
 
@@ -43,7 +43,7 @@
 <!-- end list -->
 
   -
-    出演者によるコント。ほぼ毎回、[吉本新喜劇](https://ja.wikipedia.org/wiki/吉本新喜劇 "wikilink")からのゲスト出演があった。
+    出演者によるコント。ほぼ毎回、[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")からのゲスト出演があった。
 
 <!-- end list -->
 
@@ -81,7 +81,7 @@
 <!-- end list -->
 
   -
-    一般視聴者がステージ上で歌い、点数を競うというものだった。審査員に吉本新喜劇の[末成由美](https://ja.wikipedia.org/wiki/末成由美 "wikilink")など。番組開始当初にあったコーナーだったが、すぐに終了。
+    一般視聴者がステージ上で歌い、点数を競うというものだった。審査員に吉本新喜劇の[末成由美](../Page/末成由美.md "wikilink")など。番組開始当初にあったコーナーだったが、すぐに終了。
 
 ## 補足事項
 

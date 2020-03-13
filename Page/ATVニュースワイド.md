@@ -13,7 +13,7 @@
 
 同年[10月2日](../Page/10月2日.md "wikilink")からは『**ATVニュースワイドプラス**』も日曜日の6:00 - 6:30に開始した。
 
-[2014年](../Page/2014年.md "wikilink")3月までは[ヤンマー](https://ja.wikipedia.org/wiki/ヤンマー "wikilink")提供の『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』も番組内で放送されていた。
+[2014年](../Page/2014年.md "wikilink")3月までは[ヤンマー](../Page/ヤンマー.md "wikilink")提供の『[ヤン坊マー坊天気予報](../Page/ヤン坊マー坊天気予報.md "wikilink")』も番組内で放送されていた。
 
 また、ATVのホームページ上で[動画配信もしている](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")。
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - [今泉清保](../Page/今泉清保.md "wikilink")（2011年10月3日～、青森テレビ記者、元[福岡放送](../Page/福岡放送.md "wikilink")アナウンサー、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[レディス4](../Page/レディス4.md "wikilink")』\[1\]、[木更津ケーブルテレビ](https://ja.wikipedia.org/wiki/ジェイコム千葉 "wikilink")『[鉄骨\!DASH‼︎](../Page/鉄骨!DASH!!.md "wikilink")』司会、メインキャスター。）
+  - [今泉清保](../Page/今泉清保.md "wikilink")（2011年10月3日～、青森テレビ記者、元[福岡放送](../Page/福岡放送.md "wikilink")アナウンサー、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")『[レディス4](../Page/レディス4.md "wikilink")』\[1\]、[木更津ケーブルテレビ](../Page/ジェイコム千葉.md "wikilink")『[鉄骨\!DASH‼︎](../Page/鉄骨!DASH!!.md "wikilink")』司会、メインキャスター。）
   - [駒井亜由美](../Page/駒井亜由美.md "wikilink")（2009年3月30日からニュース担当・2007年1月と2月の2ヶ月間のみ天気担当）
 
 <!-- end list -->
@@ -61,14 +61,14 @@
   - 藤原加奈代
   - 柳下詩織（1998年頃担当）
   - [田中栄子](https://ja.wikipedia.org/wiki/田中栄子 "wikilink")（ニュース担当・ ?- 2006年12月27日）
-  - [寺田早輪子](https://ja.wikipedia.org/wiki/寺田早輪子 "wikilink")（現・[仙台放送](../Page/仙台放送.md "wikilink")記者、現在は、当番組の放送時間と一部重複した[仙台放送みんなのニュース](https://ja.wikipedia.org/wiki/仙台放送みんなのニュース "wikilink")メインキャスター。）
+  - [寺田早輪子](../Page/寺田早輪子.md "wikilink")（現・[仙台放送](../Page/仙台放送.md "wikilink")記者、現在は、当番組の放送時間と一部重複した[仙台放送みんなのニュース](https://ja.wikipedia.org/wiki/仙台放送みんなのニュース "wikilink")メインキャスター。）
   - 田中珠紀（現・[青森朝日放送](../Page/青森朝日放送.md "wikilink")ディレクター）
   - 中村藍（天気）
   - 波佐間幸絵（天気）
   - [竹内夕己美](../Page/竹内夕己美.md "wikilink")（天気）
   - 山岸朋美（天気・2007年7月9日 - 2008年3月28日、当時・アップルウェザー所属、現・[ウェザーマップ](../Page/ウェザーマップ.md "wikilink")所属気象予報士）
-  - [横田光幸](https://ja.wikipedia.org/wiki/横田光幸 "wikilink")（ニュース担当:2007年1月4日 - 2008年6月27日、現・[テレビ信州](../Page/テレビ信州.md "wikilink")アナウンサー）
-  - [川口浩一](https://ja.wikipedia.org/wiki/川口浩一 "wikilink")（2001年10月 - 2006年12月27日、2008年6月30日 - 2009年3月27日）
+  - [横田光幸](../Page/横田光幸.md "wikilink")（ニュース担当:2007年1月4日 - 2008年6月27日、現・[テレビ信州](../Page/テレビ信州.md "wikilink")アナウンサー）
+  - [川口浩一](../Page/川口浩一.md "wikilink")（2001年10月 - 2006年12月27日、2008年6月30日 - 2009年3月27日）
   - [安藤あや菜](../Page/安藤あや菜.md "wikilink")（ニュース担当:2007年1月4日 - 2009年3月27日・天気担当:? - 2006年12月27日、現・[セント・フォース](../Page/セント・フォース.md "wikilink")所属）
   - [石原愛美](https://ja.wikipedia.org/wiki/石原愛美 "wikilink")（特集NW担当）
   - [斉藤彩](../Page/斉藤彩_\(アナウンサー\).md "wikilink")（特集NW担当、現在産休中）
@@ -95,7 +95,7 @@
 
   - [ATVニュース](../Page/ATVニュース.md "wikilink")
   - [ATVニュースロータリー](https://ja.wikipedia.org/wiki/ATVニュースロータリー "wikilink")
-  - [SBCニュースワイド](https://ja.wikipedia.org/wiki/SBCニュースワイド "wikilink") - 本番組の1週間後に開始された同系列の[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")の番組。但し、こちらは、中断期間がある。
+  - [SBCニュースワイド](../Page/SBCニュースワイド.md "wikilink") - 本番組の1週間後に開始された同系列の[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")の番組。但し、こちらは、中断期間がある。
   - [RCCニュース6](../Page/RCCニュース6.md "wikilink") - (第1期の)放送開始が本番組と同じ1976年3月29日。こちらも、｢SBCニュースワイド｣と同様に中断期間がある。
 
 ## 公式サイト

@@ -1,11 +1,11 @@
 > この記事は[JJ \(\)](https://ja.wikipedia.org/wiki/JJ_\(\))から翻訳されています。
 
 
-『**JJ**』（ジェイ・ジェイ）は、[光文社](../Page/光文社.md "wikilink")が発売している日本の女性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[月刊誌で](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")、毎月23日発売。主な対象読者は[女子大生](https://ja.wikipedia.org/wiki/女子大生 "wikilink")で、「[男好みの](../Page/男性.md "wikilink")[コンサバファッション](../Page/コンサバファッション.md "wikilink")」を中心に扱っていることで知られる\[1\]。
+『**JJ**』（ジェイ・ジェイ）は、[光文社](../Page/光文社.md "wikilink")が発売している日本の女性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[月刊誌で](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")、毎月23日発売。主な対象読者は[女子大生](../Page/女子大生.md "wikilink")で、「[男好みの](../Page/男性.md "wikilink")[コンサバファッション](../Page/コンサバファッション.md "wikilink")」を中心に扱っていることで知られる\[1\]。
 
 ## 概要
 
-[1975年](../Page/1975年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")50年）、『[女性自身](../Page/女性自身.md "wikilink")』別冊として隔月刊で創刊された。誌名は、「Josei-Jishin」の頭文字を取って「JJ」と決定された。創刊号は6月号。創刊編集長は並河良（のち光文社社長、現会長）。表紙モデルは[ケレン吉川](https://ja.wikipedia.org/wiki/ケレン吉川 "wikilink")、撮影は[篠山紀信](../Page/篠山紀信.md "wikilink")であった。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")から『JJ』として月刊化される。 誌面でおもに紹介されるファッションは、いわゆるコンサバ系（[コンサバファッション](../Page/コンサバファッション.md "wikilink")）である\[2\]。同誌の成功により、他社も『[CanCam](https://ja.wikipedia.org/wiki/CanCam "wikilink")』『[ViVi](../Page/ViVi.md "wikilink")』『[Ray](../Page/Ray_\(雑誌\).md "wikilink")』などの、[ロゴ](../Page/ロゴタイプ.md "wikilink")[デザイン](../Page/デザイン.md "wikilink")から誌内レイアウトまでコンセプトをそっくり真似た女子大生向けファッション誌を続々と創刊させた。のちにこれら4誌は誌面構成の類似性、発売日がすべて同じ23日であることから「[赤文字雑誌](https://ja.wikipedia.org/wiki/赤文字雑誌 "wikilink")」と呼ばれるようになる。 創刊以降、[バブル景気](../Page/バブル景気.md "wikilink")時期を経て長年の間「赤文字雑誌」の売り上げ部数トップを誇っていた。 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）以降は、一般の読者モデルのほか、自ら会社を経営しファッションブランドを展開する「**おしゃP**」（おしゃれプロデューサー）と呼ばれる人物や、ブログでファッションやライフスタイルなどを公開してモデルとして活動する「**[ブロモ](https://ja.wikipedia.org/wiki/ブロモ "wikilink")**」を前面に押し出した誌面づくりを行っている。 男性が登場する誌面では、兄弟/姉妹誌にあたる男性ファッション誌『[Gainer](../Page/Gainer.md "wikilink")』のモデルが主に起用されているが、2012年以降は大幅に減少している。
+[1975年](../Page/1975年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")50年）、『[女性自身](../Page/女性自身.md "wikilink")』別冊として隔月刊で創刊された。誌名は、「Josei-Jishin」の頭文字を取って「JJ」と決定された。創刊号は6月号。創刊編集長は並河良（のち光文社社長、現会長）。表紙モデルは[ケレン吉川](https://ja.wikipedia.org/wiki/ケレン吉川 "wikilink")、撮影は[篠山紀信](../Page/篠山紀信.md "wikilink")であった。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")から『JJ』として月刊化される。 誌面でおもに紹介されるファッションは、いわゆるコンサバ系（[コンサバファッション](../Page/コンサバファッション.md "wikilink")）である\[2\]。同誌の成功により、他社も『[CanCam](../Page/CanCam.md "wikilink")』『[ViVi](../Page/ViVi.md "wikilink")』『[Ray](../Page/Ray_\(雑誌\).md "wikilink")』などの、[ロゴ](../Page/ロゴタイプ.md "wikilink")[デザイン](../Page/デザイン.md "wikilink")から誌内レイアウトまでコンセプトをそっくり真似た女子大生向けファッション誌を続々と創刊させた。のちにこれら4誌は誌面構成の類似性、発売日がすべて同じ23日であることから「[赤文字雑誌](https://ja.wikipedia.org/wiki/赤文字雑誌 "wikilink")」と呼ばれるようになる。 創刊以降、[バブル景気](../Page/バブル景気.md "wikilink")時期を経て長年の間「赤文字雑誌」の売り上げ部数トップを誇っていた。 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）以降は、一般の読者モデルのほか、自ら会社を経営しファッションブランドを展開する「**おしゃP**」（おしゃれプロデューサー）と呼ばれる人物や、ブログでファッションやライフスタイルなどを公開してモデルとして活動する「**[ブロモ](https://ja.wikipedia.org/wiki/ブロモ "wikilink")**」を前面に押し出した誌面づくりを行っている。 男性が登場する誌面では、兄弟/姉妹誌にあたる男性ファッション誌『[Gainer](../Page/Gainer.md "wikilink")』のモデルが主に起用されているが、2012年以降は大幅に減少している。
 
 ### 素人モデルの起用
 
@@ -13,7 +13,7 @@
 
 ### 流行の発信源として
 
-同創刊号で「[ニュートラ](https://ja.wikipedia.org/wiki/ニュートラ "wikilink")」を取り上げると、以降も9回に渡って「ニュートラ」を特集。「ニュートラ」流行のきっかけとなった。また[1970年代](../Page/1970年代.md "wikilink")後半には「[ハマトラ](https://ja.wikipedia.org/wiki/ハマトラ_\(ファッション\) "wikilink")」を提唱し、やはりブームとして育てた。2000年代前半には姉妹誌として「[bis](https://ja.wikipedia.org/wiki/bis "wikilink")」も発売されたが、2006年に、事実上統合される形で休刊となった。近年では[可愛ゴー](https://ja.wikipedia.org/wiki/可愛ゴー "wikilink")や[名古屋嬢](https://ja.wikipedia.org/wiki/名古屋嬢 "wikilink")、[おしゃP](https://ja.wikipedia.org/wiki/おしゃP "wikilink")、[ブロモ](https://ja.wikipedia.org/wiki/ブロモ "wikilink")などが、同誌を発信源としたトレンドキーワードとして挙げられる。
+同創刊号で「[ニュートラ](https://ja.wikipedia.org/wiki/ニュートラ "wikilink")」を取り上げると、以降も9回に渡って「ニュートラ」を特集。「ニュートラ」流行のきっかけとなった。また[1970年代](../Page/1970年代.md "wikilink")後半には「[ハマトラ](https://ja.wikipedia.org/wiki/ハマトラ_\(ファッション\) "wikilink")」を提唱し、やはりブームとして育てた。2000年代前半には姉妹誌として「[bis](https://ja.wikipedia.org/wiki/bis "wikilink")」も発売されたが、2006年に、事実上統合される形で休刊となった。近年では[可愛ゴー](https://ja.wikipedia.org/wiki/可愛ゴー "wikilink")や[名古屋嬢](../Page/名古屋嬢.md "wikilink")、[おしゃP](https://ja.wikipedia.org/wiki/おしゃP "wikilink")、[ブロモ](https://ja.wikipedia.org/wiki/ブロモ "wikilink")などが、同誌を発信源としたトレンドキーワードとして挙げられる。
 
 ## モデル
 
@@ -38,29 +38,29 @@
   - [荒井玲良](https://ja.wikipedia.org/wiki/荒井玲良 "wikilink")
   - [有末麻祐子](../Page/有末麻祐子.md "wikilink")
   - [有村実樹](https://ja.wikipedia.org/wiki/有村実樹 "wikilink")
-  - [池田晶子](https://ja.wikipedia.org/wiki/池田晶子_\(文筆家\) "wikilink")
+  - [池田晶子](../Page/池田晶子_\(文筆家\).md "wikilink")
   - [池田カトリーナ](../Page/アユミカトリーナ.md "wikilink")
   - [池田沙絵美](../Page/池田沙絵美.md "wikilink")
-  - [伊藤裕子](https://ja.wikipedia.org/wiki/伊藤裕子 "wikilink")
+  - [伊藤裕子](../Page/伊藤裕子.md "wikilink")
   - [岩﨑名美](https://ja.wikipedia.org/wiki/岩崎名美 "wikilink")
   - [宇井愛美](https://ja.wikipedia.org/wiki/宇井愛美 "wikilink")
   - [上原歩](../Page/上原歩.md "wikilink")
-  - [植松真実](https://ja.wikipedia.org/wiki/植松真美 "wikilink")
+  - [植松真実](../Page/植松真美.md "wikilink")
   - [梅宮アンナ](../Page/梅宮アンナ.md "wikilink")
   - [浦浜アリサ](../Page/浦浜アリサ.md "wikilink")
   - [大川藍](https://ja.wikipedia.org/wiki/大川藍 "wikilink")
   - [太田在](../Page/太田在.md "wikilink")
-  - [大友みなみ](https://ja.wikipedia.org/wiki/大友みなみ "wikilink")
+  - [大友みなみ](../Page/大友みなみ.md "wikilink")
   - [オードリー亜谷香](https://ja.wikipedia.org/wiki/オードリー亜谷香 "wikilink")
   - [落合砂央里](../Page/砂央里.md "wikilink")
-  - [小畑由香里](https://ja.wikipedia.org/wiki/小畑由香里 "wikilink")
+  - [小畑由香里](../Page/小畑由香里.md "wikilink")
   - [小野リエ](../Page/小野リエ.md "wikilink")
-  - [賀来千香子](https://ja.wikipedia.org/wiki/賀来千香子 "wikilink")
+  - [賀来千香子](../Page/賀来千香子.md "wikilink")
   - [筧美和子](https://ja.wikipedia.org/wiki/筧美和子 "wikilink")
-  - [樫本知永子](https://ja.wikipedia.org/wiki/黒田知永子 "wikilink")
+  - [樫本知永子](../Page/黒田知永子.md "wikilink")
   - [片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")
   - [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")
-  - [金子絵里](https://ja.wikipedia.org/wiki/金子絵里 "wikilink")
+  - [金子絵里](../Page/金子絵里.md "wikilink")
   - [川口優菜](https://ja.wikipedia.org/wiki/川口優菜 "wikilink")
   - [神戸蘭子](https://ja.wikipedia.org/wiki/神戸蘭子 "wikilink")
   - [久保田友紀](https://ja.wikipedia.org/wiki/久保田友紀 "wikilink")
@@ -85,9 +85,9 @@
   - [高橋亮子](https://ja.wikipedia.org/wiki/玉井涼子 "wikilink")
   - [滝沢カレン](../Page/滝沢カレン.md "wikilink")
   - [多嶋沙弥](https://ja.wikipedia.org/wiki/多嶋沙弥 "wikilink")
-  - [田波涼子](https://ja.wikipedia.org/wiki/田波涼子 "wikilink")
+  - [田波涼子](../Page/田波涼子.md "wikilink")
   - [ダレノガレ明美](https://ja.wikipedia.org/wiki/ダレノガレ明美 "wikilink")
-  - [角田ともみ](https://ja.wikipedia.org/wiki/角田ともみ "wikilink")
+  - [角田ともみ](../Page/角田ともみ.md "wikilink")
   - [ティファニー春香](https://ja.wikipedia.org/wiki/ティファニー春香 "wikilink")
   - [デヴィン](https://ja.wikipedia.org/wiki/デヴィン "wikilink")
   - [寺本愛美](../Page/寺本愛美.md "wikilink")
@@ -95,15 +95,15 @@
   - [中村みづほ](../Page/中村みづほ.md "wikilink")
   - [永尾まりや](https://ja.wikipedia.org/wiki/永尾まりや "wikilink")
   - [夏美](https://ja.wikipedia.org/wiki/夏美_\(モデル\) "wikilink")
-  - [Nanami](https://ja.wikipedia.org/wiki/Nanami "wikilink")
+  - [Nanami](../Page/Nanami.md "wikilink")
   - [南條有香](../Page/南條有香.md "wikilink")
   - [ニコル](https://ja.wikipedia.org/wiki/ニコル_\(モデル\) "wikilink")
   - [西村美保](https://ja.wikipedia.org/wiki/西村美保 "wikilink")
-  - [能世あんな](https://ja.wikipedia.org/wiki/能世あんな "wikilink")
+  - [能世あんな](../Page/能世あんな.md "wikilink")
   - [畑野浩子](https://ja.wikipedia.org/wiki/畑野ひろ子 "wikilink")
   - [東原亜希](https://ja.wikipedia.org/wiki/東原亜希 "wikilink")
   - [ビビアーニ大野](https://ja.wikipedia.org/wiki/ビビアーニ大野 "wikilink")
-  - [平子理沙](https://ja.wikipedia.org/wiki/平子理沙 "wikilink")
+  - [平子理沙](../Page/平子理沙.md "wikilink")
   - [陳法拉](https://ja.wikipedia.org/wiki/陳法拉 "wikilink")
   - [藤井萩花](../Page/藤井萩花.md "wikilink")
   - [藤本恵理子](../Page/藤本恵理子.md "wikilink")
@@ -127,7 +127,7 @@
   - [ラブリ](https://ja.wikipedia.org/wiki/ラブリ "wikilink")
   - [LIZA](../Page/LIZA.md "wikilink")
   - [RINA](../Page/RINA.md "wikilink")
-  - [梨花](https://ja.wikipedia.org/wiki/梨花 "wikilink")
+  - [梨花](../Page/梨花.md "wikilink")
   - [和智茉璃奈](https://ja.wikipedia.org/wiki/和智茉璃奈 "wikilink")（ランジェリーフィッター）
 
 ## バックナンバー
@@ -566,7 +566,7 @@
 </tr>
 <tr class="odd">
 <td><p>2013年7月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梨花" title="wikilink">梨花</a></p></td>
+<td><p><a href="../Page/梨花.md" title="wikilink">梨花</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -648,7 +648,7 @@
 </tr>
 <tr class="even">
 <td><p>2012年6月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梨花" title="wikilink">梨花</a></p></td>
+<td><p><a href="../Page/梨花.md" title="wikilink">梨花</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -697,8 +697,8 @@
 
 | 号         | 表紙モデル                                                       | 表紙登場回数 | 備考 |
 | --------- | ----------------------------------------------------------- | ------ | -- |
-| 2011年1月号  | [梨花](https://ja.wikipedia.org/wiki/梨花 "wikilink")           |        |    |
-| 2011年2月号  | [梨花](https://ja.wikipedia.org/wiki/梨花 "wikilink")           |        |    |
+| 2011年1月号  | [梨花](../Page/梨花.md "wikilink")                              |        |    |
+| 2011年2月号  | [梨花](../Page/梨花.md "wikilink")                              |        |    |
 | 2011年3月号  | [吉川ひなの](https://ja.wikipedia.org/wiki/吉川ひなの "wikilink")     |        |    |
 | 2011年4月号  | [松本恵奈](https://ja.wikipedia.org/wiki/松本恵奈 "wikilink")       |        |    |
 | 2011年5月号  |                                                             |        |    |
@@ -787,13 +787,13 @@
 </tr>
 <tr class="odd">
 <td><p>2010年11月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梨花" title="wikilink">梨花</a></p></td>
+<td><p><a href="../Page/梨花.md" title="wikilink">梨花</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2010年12月号</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/梨花" title="wikilink">梨花</a></p></td>
+<td><p><a href="../Page/梨花.md" title="wikilink">梨花</a></p></td>
 <td></td>
 <td></td>
 </tr>

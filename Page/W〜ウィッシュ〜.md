@@ -14,12 +14,12 @@
 ### メインキャラクター
 
   - 遠野 潤和（とおの じゅんな）
-    [声](../Page/声優.md "wikilink")：[福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")（テレビアニメ、ドラマCD）
+    [声](../Page/声優.md "wikilink")：[福山潤](../Page/福山潤.md "wikilink")（テレビアニメ、ドラマCD）
     [1989年](../Page/1989年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")生まれ。ゲームの主人公。私立桜浜学園高等部1年B組。事故で両親を亡くし、記憶喪失に陥っている。泉奈の双子の兄という設定ながら、ゲーム版ではまるで似ていない。アニメ版では、泉奈に近い顔立ちになっている。
     実は、両親の死は彼が文字盤に泉奈の復活を願った結果であり、春陽が妹だったことも思い出す。それにより、世界崩壊の危機になり、彼は重大な決断を迫られることになる。
   - 遠野 泉奈（とおの せんな）
     声：[清水愛](../Page/清水愛.md "wikilink")
-    [1989年](../Page/1989年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")生まれ。[AB型](https://ja.wikipedia.org/wiki/AB型 "wikilink")。身長:150cm。スリーサイズ:75/54/79。主人公の双子の妹。桜浜学園高等部1年A組。身体が少々弱く、おとなしい感じの少女。頭脳明晰ながらもどこか抜けた所がある。家事全般も得意で、だらしない潤和の代わりに家の家事全てを請け負っている（潤和を毎朝、起こしたりする）。かなりの[ブラコンで甘えん坊](https://ja.wikipedia.org/wiki/ブラザーコンプレックス "wikilink")。実は、潤和が幼い頃、双子の妹は産まれて来なかった（流産した）が、彼が文字盤に願ったことで霊体が実体化した姿だった。彼女のシナリオは、今までのままでいる場合と、両親が復活し一旦は消滅してしまうも母の胎内で赤子として宿る場合の二つのパターンがある。アニメ版では、後者のものに近い展開になっている。
+    [1989年](../Page/1989年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")生まれ。[AB型](https://ja.wikipedia.org/wiki/AB型 "wikilink")。身長:150cm。スリーサイズ:75/54/79。主人公の双子の妹。桜浜学園高等部1年A組。身体が少々弱く、おとなしい感じの少女。頭脳明晰ながらもどこか抜けた所がある。家事全般も得意で、だらしない潤和の代わりに家の家事全てを請け負っている（潤和を毎朝、起こしたりする）。かなりの[ブラコンで甘えん坊](../Page/ブラザーコンプレックス.md "wikilink")。実は、潤和が幼い頃、双子の妹は産まれて来なかった（流産した）が、彼が文字盤に願ったことで霊体が実体化した姿だった。彼女のシナリオは、今までのままでいる場合と、両親が復活し一旦は消滅してしまうも母の胎内で赤子として宿る場合の二つのパターンがある。アニメ版では、後者のものに近い展開になっている。
   - 井ノ原 春陽（いのはら はるひ）
     声：[新谷良子](../Page/新谷良子.md "wikilink")
     [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")生まれ。[O型](https://ja.wikipedia.org/wiki/O型 "wikilink")。身長:147cm。スリーサイズ:77/57/78。主人公の幼なじみ。中等部2年C組。天真爛漫で元気な少女。両親の海外赴任で夕子の家に預けられ、桜浜町にやって来た。潤和が大好きですぐにくっついてくる。彼女のシナリオは他とパラレルワールドとなっており、実は潤和の妹であり、幼馴染が泉奈であったが、文字盤に願ったことで泉奈と立場が入れ替わっている。たびたび、登場する謎の少女と銀河を走る鉄道は彼女のことを暗示している。彼女のシナリオでは、文字盤に元の関係に戻ることを願うが、何も変わらずに以後は恋人として付き合うことになるパターンと、お互い知らない状態からやり直してスタートする二つのパターンがある。アニメ版では、幼馴染として関係を続けるような描写となる。
@@ -40,7 +40,7 @@
 ### サブキャラクター
 
   - 岸田 智一（きしだ ともかず）
-    声：[藤田圭宣](https://ja.wikipedia.org/wiki/織田圭祐 "wikilink")
+    声：[藤田圭宣](../Page/織田圭祐.md "wikilink")
     [1988年](../Page/1988年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")生まれ。主人公の同級生で中等部からの知り合い。岸田智の双子の兄。女の子のようなかわいらしい容姿。料理と裁縫が得意。潤和と仲が良く、泉奈によくヤキモチを焼かせる。桜夏祭では、女装して[メイド](../Page/メイド.md "wikilink")の姿も見せる。なおゲームでは智一のシナリオが存在するがそれといった話はなく、ただ普通の日々を過ごして行く話である。
   - 鈴木 貴子（すずき たかこ）
     声：[三五美奈子](../Page/三五美奈子.md "wikilink")
@@ -67,7 +67,7 @@
     声：[岡崎雅紘](../Page/岡崎雅紘.md "wikilink")
     考古学者。禁断の文字盤に泉奈の復活を願うよう潤和に助言し、妻と共に交通事故死する。顔は、潤和・泉奈似。復活後は、ゲームの潤和の役割の赤ん坊の命名をする。
   - 潤和の母
-    声：[稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")
+    声：[稲村優奈](../Page/稲村優奈.md "wikilink")
     主婦。顔は、春陽似。復活後は、3人目の子供（実は泉奈）を妊娠する。
 
 ## スタッフ
@@ -76,7 +76,7 @@
   - キャラクターデザイン・原画：[如月水](../Page/如月水.md "wikilink")
   - 音楽制作：[サイトロン・デジタルコンテンツ](../Page/サイトロン・デジタルコンテンツ.md "wikilink")
   - オープニングテーマ「**Can you feel crying alone?**」
-      - 作詞・作曲：[志倉千代丸](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink") / 編曲：[上野浩司](../Page/上野浩司.md "wikilink") / 歌：[tiaraway](https://ja.wikipedia.org/wiki/tiaraway "wikilink")（[千葉紗子](../Page/千葉紗子.md "wikilink") & [南里侑香](../Page/南里侑香.md "wikilink")）
+      - 作詞・作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink") / 編曲：[上野浩司](../Page/上野浩司.md "wikilink") / 歌：[tiaraway](https://ja.wikipedia.org/wiki/tiaraway "wikilink")（[千葉紗子](../Page/千葉紗子.md "wikilink") & [南里侑香](../Page/南里侑香.md "wikilink")）
   - エンディングテーマ「**Fly away**」
       - 作詞：志倉千代丸 / 作曲：TARAWO / 編曲：上野浩司 / 歌：[彩音](../Page/彩音.md "wikilink")
 
@@ -107,7 +107,7 @@
   - 音楽 - [酒井良](https://ja.wikipedia.org/wiki/酒井良_\(作曲家\) "wikilink")
   - プロデューサー - [大宮三郎](../Page/大宮三郎.md "wikilink")、中西孝
   - アニメーションプロデューサー - 佐久間敏郎、岡尾貴洋
-  - アニメーション制作 - [トライネットエンタテインメント](https://ja.wikipedia.org/wiki/トライネットエンタテインメント "wikilink")、[ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")
+  - アニメーション制作 - [トライネットエンタテインメント](../Page/トライネットエンタテインメント.md "wikilink")、[ピクチャーマジック](../Page/ピクチャーマジック.md "wikilink")
   - アニメーション制作協力 - [陸演隊](../Page/陸演隊.md "wikilink")
   - 製作 - W Wish製作委員会
 
@@ -116,7 +116,7 @@
   - オープニングテーマ「KIZUNA〜絆」
     作詞 - 彩音 / 作曲・編曲 - TARAWO / 歌 - [彩音](../Page/彩音.md "wikilink")
   - エンディングテーマ「想い出 good night」
-    作詞・作曲 - [Chiyomaru](https://ja.wikipedia.org/wiki/志倉千代丸 "wikilink") / 編曲 - 陳詠福 / 歌 - [tiaraway](https://ja.wikipedia.org/wiki/tiaraway "wikilink")
+    作詞・作曲 - [Chiyomaru](../Page/志倉千代丸.md "wikilink") / 編曲 - 陳詠福 / 歌 - [tiaraway](https://ja.wikipedia.org/wiki/tiaraway "wikilink")
   - 劇中挿入歌「GLORY DAYS」
     作詞 - 彩音 / 作曲 - TARAWO / 編曲 - [磯江俊道](../Page/磯江俊道.md "wikilink") / 歌 - [千葉紗子](../Page/千葉紗子.md "wikilink")
 
@@ -140,16 +140,16 @@
 
 #### 放送局
 
-| 放送地域                                                | 放送局                                                       | 放送期間                                                                                                                                  | 放送日時             | 放送系列                                                             | 備考         |
-| --------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ---------------------------------------------------------------- | ---------- |
-| [神奈川](https://ja.wikipedia.org/wiki/神奈川 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                       | [2004年](../Page/2004年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")                     | 土曜 25:30 - 26:00 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |            |
-| [兵庫県](../Page/兵庫県.md "wikilink")                    | [サンテレビ](../Page/サンテレビジョン.md "wikilink")                   | 2004年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [12月27日](../Page/12月27日.md "wikilink")                                 | 月曜 24:40 - 25:10 |                                                                  |            |
-| [千葉県](../Page/千葉県.md "wikilink")                    | [ちばテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink") | 2004年[10月5日](../Page/10月5日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink")                                                    | 火曜 26:00 - 26:30 |                                                                  |            |
-| [埼玉県](../Page/埼玉県.md "wikilink")                    | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")     | 2004年[10月6日](../Page/10月6日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")                                                    | 水曜 25:00 - 25:30 |                                                                  |            |
-| [京都府](../Page/京都府.md "wikilink")                    | [KBS京都](../Page/京都放送.md "wikilink")                       | 水曜 25:55 - 26:25                                                                                                                      |                  |                                                                  |            |
-| [日本全域](../Page/全国放送.md "wikilink")                  | [キッズステーション](../Page/キッズステーション.md "wikilink")              | 2004年[10月7日](../Page/10月7日.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月6日](../Page/1月6日.md "wikilink") | 木曜 24:30 - 25:00 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり   |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                      | 2004年10月7日 - [12月30日](../Page/12月30日.md "wikilink")                                                                                   | 木曜 25:58 - 26:28 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |            |
-| 日本全域                                                | [GYAO\!](../Page/GYAO!.md "wikilink")                     | [2007年](../Page/2007年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") - [10月9日](../Page/10月9日.md "wikilink")                       | 火曜 12:00 - 14:00 | [ネット配信](../Page/ネット配信.md "wikilink")                             | Φ/Wを2話ずつ放送 |
+| 放送地域                                                | 放送局                                                   | 放送期間                                                                                                               | 放送日時             | 放送系列                                                             | 備考         |
+| --------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------- | ---------------------------------------------------------------- | ---------- |
+| [神奈川](https://ja.wikipedia.org/wiki/神奈川 "wikilink") | [tvk](../Page/テレビ神奈川.md "wikilink")                   | [2004年](../Page/2004年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink") - [12月25日](../Page/12月25日.md "wikilink")  | 土曜 25:30 - 26:00 | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                        |            |
+| [兵庫県](../Page/兵庫県.md "wikilink")                    | [サンテレビ](../Page/サンテレビジョン.md "wikilink")               | 2004年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - [12月27日](../Page/12月27日.md "wikilink")              | 月曜 24:40 - 25:10 |                                                                  |            |
+| [千葉県](../Page/千葉県.md "wikilink")                    | [ちばテレビ](../Page/千葉テレビ放送.md "wikilink")                | 2004年[10月5日](../Page/10月5日.md "wikilink") - [12月28日](../Page/12月28日.md "wikilink")                                 | 火曜 26:00 - 26:30 |                                                                  |            |
+| [埼玉県](../Page/埼玉県.md "wikilink")                    | [テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink") | 2004年[10月6日](../Page/10月6日.md "wikilink") - [12月29日](../Page/12月29日.md "wikilink")                                 | 水曜 25:00 - 25:30 |                                                                  |            |
+| [京都府](../Page/京都府.md "wikilink")                    | [KBS京都](../Page/京都放送.md "wikilink")                   | 水曜 25:55 - 26:25                                                                                                   |                  |                                                                  |            |
+| [日本全域](../Page/全国放送.md "wikilink")                  | [キッズステーション](../Page/キッズステーション.md "wikilink")          | 2004年[10月7日](../Page/10月7日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") | 木曜 24:30 - 25:00 | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink") | リピート放送あり   |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                  | 2004年10月7日 - [12月30日](../Page/12月30日.md "wikilink")                                                                | 木曜 25:58 - 26:28 | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")          |            |
+| 日本全域                                                | [GYAO\!](../Page/GYAO!.md "wikilink")                 | [2007年](../Page/2007年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") - [10月9日](../Page/10月9日.md "wikilink")    | 火曜 12:00 - 14:00 | [ネット配信](../Page/ネット配信.md "wikilink")                             | Φ/Wを2話ずつ放送 |
 
 ### CD
 
@@ -169,11 +169,11 @@
 
 2003年10月 - 2004年3月まで、ゲームの発売に先駆け『**超・ULTRAスーパーマニア「レディオウィッシュ団」**』が、[文化放送](../Page/文化放送.md "wikilink")と[ラジオ関西](../Page/ラジオ関西.md "wikilink")で放送されていた。パーソナリティは、志倉千代丸・新谷良子・清水愛。
 
-さらに、2004年4月から『**超・ULTRAスーパーマニア「新レディオウィッシュ団」**』とリニューアルされ、文化放送とラジオ関西で[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")として放送されていた。パーソナリティは、松来未祐・金田朋子。
+さらに、2004年4月から『**超・ULTRAスーパーマニア「新レディオウィッシュ団」**』とリニューアルされ、文化放送とラジオ関西で[ミニ番組](../Page/ミニ番組.md "wikilink")として放送されていた。パーソナリティは、松来未祐・金田朋子。
 
 ### 書籍
 
-2005年5月[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")出版・[日暮茶坊](../Page/日暮茶坊.md "wikilink")著でノベル化された。
+2005年5月[ジャイブ](../Page/ジャイブ.md "wikilink")出版・[日暮茶坊](../Page/日暮茶坊.md "wikilink")著でノベル化された。
 
 ### S\!アプリ版
 

@@ -5,9 +5,9 @@
 
 ## 概要
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")より、[光文社](../Page/光文社.md "wikilink")の『[ポップコーン](../Page/ポップコーン_\(漫画雑誌\).md "wikilink")』に創刊号から連載。[1981年](../Page/1981年.md "wikilink")に『ポップコーン』の休刊に伴い、代わりに創刊された『ジャストコミック』にも引き続き連載、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")終了。[2001年](../Page/2001年.md "wikilink")に[個人誌](../Page/同人誌.md "wikilink")『産直あづまマガジン』で復活した。ただし、[2004年](../Page/2004年.md "wikilink")を最後に個人誌は出版されていない。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に発売された『ハヤカワコミック文庫』全3巻には、それぞれ新たに描き起しされた「ななこ1ページ劇場」が掲載されている。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")より、[光文社](../Page/光文社.md "wikilink")の『[ポップコーン](../Page/ポップコーン_\(漫画雑誌\).md "wikilink")』に創刊号から連載。[1981年](../Page/1981年.md "wikilink")に『ポップコーン』の休刊に伴い、代わりに創刊された『ジャストコミック』にも引き続き連載、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")終了。[2001年](../Page/2001年.md "wikilink")に[個人誌](../Page/同人誌.md "wikilink")『産直あづまマガジン』で復活した。ただし、[2004年](../Page/2004年.md "wikilink")を最後に個人誌は出版されていない。[2005年](../Page/2005年.md "wikilink")に発売された『ハヤカワコミック文庫』全3巻には、それぞれ新たに描き起しされた「ななこ1ページ劇場」が掲載されている。
 
-[みのり書房](https://ja.wikipedia.org/wiki/みのり書房 "wikilink")発行の『[Peke](https://ja.wikipedia.org/wiki/Peke "wikilink")』1979年1月号に掲載された『どーでもいんなーすぺーす』の『すーぱーがーる』という短編が『ななこSOS』の原型になったと言われている。『すーぱーがーる』は、ななこに似た気が弱いスーパー・ガールが主人公だが、『ななこSOS』とストーリーのつながりはない。なお『どーでもいんなーすぺーす』は[奇想天外社発行の単行本](https://ja.wikipedia.org/wiki/奇想天外_\(SF雑誌\) "wikilink")『パラレル狂室』にも収録されている。
+[みのり書房](https://ja.wikipedia.org/wiki/みのり書房 "wikilink")発行の『[Peke](https://ja.wikipedia.org/wiki/Peke "wikilink")』1979年1月号に掲載された『どーでもいんなーすぺーす』の『すーぱーがーる』という短編が『ななこSOS』の原型になったと言われている。『すーぱーがーる』は、ななこに似た気が弱いスーパー・ガールが主人公だが、『ななこSOS』とストーリーのつながりはない。なお『どーでもいんなーすぺーす』は[奇想天外社発行の単行本](../Page/奇想天外_\(SF雑誌\).md "wikilink")『パラレル狂室』にも収録されている。
 
 ## ストーリー
 
@@ -45,7 +45,7 @@
     元は[ゴキブリ](https://ja.wikipedia.org/wiki/ゴキブリ "wikilink")で、マッド・サイエンティスト。ロボット作りの天才で、ロボット遊園地で子供たちを誘拐しゴキブリ人間に改造を企てる。配下に、チャバネ・ロボ軍団を率いる。頭のゴキブリの[触覚](https://ja.wikipedia.org/wiki/触覚 "wikilink")は登場のたびに有無がまちまち。モデルは原作者のアシスタントだった**[沖由佳雄](../Page/沖由佳雄.md "wikilink")**。
     悪役連の四人で唯一アニメに登場していない。
   - 国際セル密売組織の男
-    世界のアニメ・セル市場を席捲し、純真な若者をセルの魔力の虜にして莫大な利益を上げている組織の男。[パーマ頭に](https://ja.wikipedia.org/wiki/パーマネントウエーブ "wikilink")、[サングラス](https://ja.wikipedia.org/wiki/サングラス "wikilink")・大きな唇が特徴。組織は、[マフィア](../Page/マフィア.md "wikilink")に継ぐ暗黒街の大御所とも言われている。よく切れるセルを[手裏剣](../Page/手裏剣.md "wikilink")のように武器として扱う。アニメ版「長万部」のベースになったキャラクターで、悪役連で登場しているうちに、長万部化が進み、ついには長万部そのものに変わった。 モデルは漫画家の[計奈恵](../Page/計奈恵.md "wikilink")。
+    世界のアニメ・セル市場を席捲し、純真な若者をセルの魔力の虜にして莫大な利益を上げている組織の男。[パーマ頭に](../Page/パーマネントウエーブ.md "wikilink")、[サングラス](../Page/サングラス.md "wikilink")・大きな唇が特徴。組織は、[マフィア](../Page/マフィア.md "wikilink")に継ぐ暗黒街の大御所とも言われている。よく切れるセルを[手裏剣](../Page/手裏剣.md "wikilink")のように武器として扱う。アニメ版「長万部」のベースになったキャラクターで、悪役連で登場しているうちに、長万部化が進み、ついには長万部そのものに変わった。 モデルは漫画家の[計奈恵](../Page/計奈恵.md "wikilink")。
 
 ### その他
 
@@ -67,7 +67,7 @@
 ## 単行本
 
   - 『ジャストコミック増刊』　全5巻（光文社、1983年6月～1986年7月） - 5巻のみ『光文社コミックス』
-  - 『マグコミックス』 全5巻（[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")、1996年3月～1996年5月）
+  - 『マグコミックス』 全5巻（[マガジンハウス](../Page/マガジンハウス.md "wikilink")、1996年3月～1996年5月）
   - 『ハヤカワコミック文庫』 全3巻（[早川書房](../Page/早川書房.md "wikilink")、2005年3月～2005年5月） - 『悪魔のような貴男』、『産直あづまマガジン1～3』 掲載分3話も収録
 
 ## イメージソング
@@ -610,7 +610,7 @@ Dr.O友/Dr.石川</p></td>
 ### 登場人物・登場キャラクター
 
   - ななこ
-    [声](../Page/声優.md "wikilink") - [木藤玲子](https://ja.wikipedia.org/wiki/木藤玲子 "wikilink")
+    [声](../Page/声優.md "wikilink") - [木藤玲子](../Page/木藤玲子.md "wikilink")
     本編の主人公。純粋で､優しい心を持つ美少女である。
     気が弱く泣き虫だが､他人が犯した悪事に目を瞑っていられないという正義感の強い一面も持っている。
     天然ボケで人を疑う事を知らない純粋さのせいで､非常に騙されやすい。
@@ -639,12 +639,12 @@ Dr.O友/Dr.石川</p></td>
     四谷の突拍子もない言動に時には呆れる事もあるが、彼を常に「社長」と呼び、慕っている。「ボス」と呼ぶ場合もある。ボディの色は、青。
     なお、声を担当した龍田は頓宮恭子とともに、本作の次回予告のナレーションも担当。
   - コンビニエンジ・イレブン
-    声 - [頓宮恭子](https://ja.wikipedia.org/wiki/頓宮恭子 "wikilink")
+    声 - [頓宮恭子](../Page/頓宮恭子.md "wikilink")
     コンビニエンジ・セブンと同様、ななこを監視するために四谷が作ったロボット。セブンとは同型で、双子の兄妹の様な関係で、ボディの色は赤色。
     声を担当した頓宮は龍田とともに、本作の次回予告のナレーションも担当。
   - ドクター石川
     声 - [銀河万丈](../Page/銀河万丈.md "wikilink")
-    マッド・サイエンティスト。スノウ（声 - [塩屋浩三](https://ja.wikipedia.org/wiki/塩屋浩三 "wikilink")）を筆頭に、数人の部下を持つ。
+    マッド・サイエンティスト。スノウ（声 - [塩屋浩三](../Page/塩屋浩三.md "wikilink")）を筆頭に、数人の部下を持つ。
     「ロリータ・コンプレックス」という一面があり、第1話でななこに惚れて以来、彼女を手に入れようとして何度も四谷達の前に現れる。
     好物は「玉子焼き」。四谷や長万部らと同様、世界征服を企んでいる。
     部下のスノウが操縦するヘリコプターに乗って登場する。
@@ -655,7 +655,7 @@ Dr.O友/Dr.石川</p></td>
     熊がモチーフの潜水艦に乗っている。
     ※原作コミックACT.6に登場する、「国際セル密売組織」の男がモチーフ。
   - 五反田
-    声 - [滝雅也](https://ja.wikipedia.org/wiki/滝雅也 "wikilink")
+    声 - [滝雅也](../Page/滝雅也.md "wikilink")
     妖怪コレクター・怪物コレクターであるが、メカの操作にも長けている。ななこをコレクションに加えるため、付け狙う。
     「山手線グループ」という駒込（声 - [永井一郎](../Page/永井一郎.md "wikilink")）など、数人の部下がいる。第3話より登場。
     半魚人や怪獣を美しいと褒め称えるなど､独自の美的センスを持っている。
@@ -695,7 +695,7 @@ Dr.O友/Dr.石川</p></td>
   - 録音 - [タバック](../Page/タバック.md "wikilink")
   - キャスティング協力 - [青二プロダクション](../Page/青二プロダクション.md "wikilink")
   - 現像 - [東映化学](https://ja.wikipedia.org/wiki/東映化学 "wikilink") 　
-  - 製作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[国際映画社](https://ja.wikipedia.org/wiki/国際映画社 "wikilink")　
+  - 製作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[国際映画社](../Page/国際映画社.md "wikilink")　
 
 ### 主題歌
 
@@ -782,7 +782,7 @@ Dr.O友/Dr.石川</p></td>
 <td><p>4月16日</p></td>
 <td><p>なやめる吸血少年?!</p></td>
 <td><p><a href="../Page/大橋志吉.md" title="wikilink">大橋志吉</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/うえだひでひと" title="wikilink">鳥南乃</a></p></td>
+<td><p><a href="../Page/うえだひでひと.md" title="wikilink">鳥南乃</a></p></td>
 <td><p>永木龍博</p></td>
 <td></td>
 </tr>
@@ -799,7 +799,7 @@ Dr.O友/Dr.石川</p></td>
 <td><p>5</p></td>
 <td><p>4月30日</p></td>
 <td><p>オリーブは悪魔の匂い</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アミノテツロー" title="wikilink">網野哲郎</a></p></td>
+<td><p><a href="../Page/アミノテツロー.md" title="wikilink">網野哲郎</a></p></td>
 <td><p><a href="../Page/木下ゆうき.md" title="wikilink">木下ゆうき</a></p></td>
 <td></td>
 <td></td>
@@ -1152,7 +1152,7 @@ Dr.O友/Dr.石川</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td><p>土曜 7:30 - 8:00</p></td>
 <td></td>
@@ -1348,7 +1348,7 @@ B面
 [1984年](../Page/1984年.md "wikilink")に8ビット[パソコン用](../Page/パーソナルコンピュータ.md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[Windows用のゲームが発売されている](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。
 
   - 8ビットパソコン用ゲーム　
-    [パソコン雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")『[テクノポリス](../Page/テクノポリス_\(雑誌\).md "wikilink")』のテクノポリス・ゲームソフト・コンテストのアドベンチャー部門優秀作のアドベンチャーゲームとして発表され、[PC-8801版と](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")[FM-7](../Page/FM-7.md "wikilink")版が市販化された。コマンド入力形式の[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。入力は「ななこ言葉」に対応しており、原作を知らないと確実にクリアできない。作者は[藤井保則](https://ja.wikipedia.org/wiki/藤井保則 "wikilink")。
+    [パソコン雑誌](../Page/パソコン雑誌.md "wikilink")『[テクノポリス](../Page/テクノポリス_\(雑誌\).md "wikilink")』のテクノポリス・ゲームソフト・コンテストのアドベンチャー部門優秀作のアドベンチャーゲームとして発表され、[PC-8801版と](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")[FM-7](../Page/FM-7.md "wikilink")版が市販化された。コマンド入力形式の[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。入力は「ななこ言葉」に対応しており、原作を知らないと確実にクリアできない。作者は[藤井保則](https://ja.wikipedia.org/wiki/藤井保則 "wikilink")。
   - Windows用ゲーム　
     [富士通](../Page/富士通.md "wikilink")パレックスと[ファミリーソフト](../Page/ファミリーソフト.md "wikilink")が企画・制作し、富士通パレックスが発売した。カードバトルゲーム。Windows 3.1 / 95対応。初回特典として、原画イラストカードが付いている。ビジュアルシーンはフルボイス対応。また、[日高のり子](../Page/日高のり子.md "wikilink")の歌唱による主題歌が収録されている。
 

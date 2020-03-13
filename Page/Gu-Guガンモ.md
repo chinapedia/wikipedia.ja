@@ -29,7 +29,7 @@
     声 - [大塚智子](../Page/大塚智子.md "wikilink")
     半平太の姉で中学生。かなり粗暴な性格で、半平太に毎度「スペシャルタマくだき」と称した[電気あんま](../Page/電気あんま.md "wikilink")をしている。ただ、ガンモと勘違いしてスペシャルタマくだきを（一度だけであるが）あゆみにやってしまい、顔面蒼白となったことがあった。
   - 佃家のパパ
-    声 - [千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
+    声 - [千葉繁](../Page/千葉繁.md "wikilink")
     半平太とつくねの父。
   - 佃家のママ
     声 - [吉田理保子](../Page/吉田理保子.md "wikilink")
@@ -44,7 +44,7 @@
     声 - [八奈見乗児](../Page/八奈見乗児.md "wikilink")
     あゆみの祖母。あゆみの教育を両親から任されているが、過激なスパルタ教育やお仕置きで恐怖に陥れ、あゆみの性格が歪む要因でもある。型破りな登場でいつもあゆみを悩ませている。派手なスクーターを乗り回して暴れまわることがある。
   - あゆみの父
-    声 - [山下啓介](https://ja.wikipedia.org/wiki/山下啓介 "wikilink")
+    声 - [山下啓介](../Page/山下啓介.md "wikilink")
     普段は普通の男性であるが、正体は「あかずのおばん」として、横断歩道で女装して「みどりのおばさん」の姿で無断歩行を取り締まっている。その目的は不気味であり常に謎で、普通のみどりのおばさんではなくこのおばさんのおかげでガンモを含め子供たちはひどい目にあっている。だれもあゆみの父が正体だとは気がついていない。身だしなみは常に紳士の姿でエリートだが、おばさんの姿に変わると性格も行動も別人のようになる。行動は常に怪しく、謎めいている得体の知れない所がある不気味な存在。ばあやですらその正体は知らない。
   - デジャブー\[7\]
     声 - 千葉繁
@@ -69,7 +69,7 @@
     声 - 吉田理保子
     リンダの姉。リンダと違って日本語は堪能ではない。「DASEE！」「オナカスイタ」「[なめたらいかんぜよ！](https://ja.wikipedia.org/wiki/鬼龍院花子の生涯 "wikilink")」くらいしか話せない。
   - デービット・スカイラーク
-    声 - [矢田耕司](https://ja.wikipedia.org/wiki/矢田耕司 "wikilink")
+    声 - [矢田耕司](../Page/矢田耕司.md "wikilink")
     リンダの父。サラリーマン。仕事は真面目だが、リンダと同じく口が悪く喧嘩っ早く、いつも傷をつけて帰ってくる。リンダとは母国語の英語でコミュニケーションをとるときもある。
   - ジェーン・スカイラーク
     リンダの母。夫婦共働き。やや片言の日本語を喋り、「～のコトよ」や「～のコトね」が口癖。ボロボロで傷だらけで帰ってくるリンダの事をいつも心配している。
@@ -80,12 +80,12 @@
     声 - [塩沢兼人](../Page/塩沢兼人.md "wikilink")
     学校で番を張るいわゆるガキ大将。一人称は「俺」。かなり横暴だが、ときには優しさを見せることもある。実は「白いものが汚れているのを見ると徹底的に磨かずにはいられない」という重度の[潔癖症](https://ja.wikipedia.org/wiki/潔癖症 "wikilink")で、掃除の類は一切手を抜かないほか、泥遊びの類が全く出来ない。
     自分と同じ体格のおしんが唯一の天敵で、彼女が現れると絶叫と共に一目散に逃げ出してしまう\[14\]。
-    「フン」というのが特徴で口癖。鼻息で金魚すくいを攻略する特技がある。めり子（声 - [頓宮恭子](https://ja.wikipedia.org/wiki/頓宮恭子 "wikilink")）という顔がそっくりな妹がいる。
+    「フン」というのが特徴で口癖。鼻息で金魚すくいを攻略する特技がある。めり子（声 - [頓宮恭子](../Page/頓宮恭子.md "wikilink")）という顔がそっくりな妹がいる。
   - 藤田 カシオ（ふじた かしお）\[15\]。
     声 - [水島裕](../Page/水島裕_\(声優\).md "wikilink")
     クラスの委員長で、成績もトップクラス。一人称は「僕」。西郷にいつもいじめられている。背広とネクタイがトレードマーク。塾で1位の少女と張り合ったことがあるほどの優等生だが、ガンモを未発見の生物と考えて発表して名声を得ようとしたり、やや騙されやすい抜けたところもある。
   - 松任谷 弓子（まつとうや ゆみこ）
-    声 - [雨宮かずみ](https://ja.wikipedia.org/wiki/雨宮かずみ "wikilink")→[小宮和枝](../Page/小宮和枝.md "wikilink")
+    声 - [雨宮かずみ](../Page/雨宮かずみ.md "wikilink")→[小宮和枝](../Page/小宮和枝.md "wikilink")
     「納豆屋」とクラスメートにからかわれている青髪の少女。根は暗く陰険で、負けん気の強い性格。いつも仲間2人と3人組でつるんでリンダやあゆみにちょっかいを出している。
   - ケンちゃん
     通称「嘘つきケンちゃん」として、小学校で恐れられ、忌み嫌われている存在。にこやかでさわやかな顔して騙すので、クラスメイトたちはひどい目にあっている。本当のことのようにズバズバ言うので、引越しのときも半平太の仲間ほぼ全員が騙され、デートのときもあゆみがまんまと騙されてしまった\[16\]。
@@ -151,7 +151,7 @@
   - 製作担当 - 佐々木章、中尾嘉伸
   - 編集 - 花井正明
   - 録音 - 二宮健治、蔵本貞司
-  - 効果 - 新井秀徳（[フィズサウンドクリエイション](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")）
+  - 効果 - 新井秀徳（[フィズサウンドクリエイション](../Page/フィズサウンドクリエイション.md "wikilink")）
   - 選曲 - [宮下滋](https://ja.wikipedia.org/wiki/ビモス "wikilink")
   - オーディオディレクター - [小松亘弘](https://ja.wikipedia.org/wiki/小松亘弘 "wikilink")
   - 演出助手・製作進行 - 堀川和政、鈴木元、松沢正一、石橋康全、渡辺美和子、佐藤直人、渡辺一哉、吉村文宏、宍戸正仁
@@ -164,7 +164,7 @@
 下記2曲を収録したEPレコードは、[キャニオン・レコード](https://ja.wikipedia.org/wiki/キャニオン・レコード "wikilink")から発売（2曲とも、後にCDとして復刻）。
 
   - オープニングテーマ - 『ガンモ・ドキッ\!』
-    歌 - スージー・松原 / 作詞・作曲 - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 編曲 - [戸田誠司](../Page/戸田誠司.md "wikilink") / 演奏 - 雪之丞シンジケート ※スージー・松原とは「[真夜中のドア〜Stay With Me](https://ja.wikipedia.org/wiki/真夜中のドア〜Stay_With_Me "wikilink")」で知られる[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")の別名義\[19\]。曲調は当時イギリスを中心に流行していたファンカラティーナである。
+    歌 - スージー・松原 / 作詞・作曲 - [森雪之丞](../Page/森雪之丞.md "wikilink") / 編曲 - [戸田誠司](../Page/戸田誠司.md "wikilink") / 演奏 - 雪之丞シンジケート ※スージー・松原とは「[真夜中のドア〜Stay With Me](https://ja.wikipedia.org/wiki/真夜中のドア〜Stay_With_Me "wikilink")」で知られる[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")の別名義\[19\]。曲調は当時イギリスを中心に流行していたファンカラティーナである。
   - エンディングテーマ - 『ヒョコポン関係』
     歌 - スージー・松原 / 作詞・作曲 - 森雪之丞 / 編曲 - 戸田誠司 / 演奏 - 雪之丞シンジケート
 
@@ -193,7 +193,7 @@
 <td><p><strong>1984年</strong><br />
 3月18日</p></td>
 <td><p>なんだ? どうした!? 不思議なガンモ登場</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/藤川桂介" title="wikilink">藤川桂介</a></p></td>
+<td><p><a href="../Page/藤川桂介.md" title="wikilink">藤川桂介</a></p></td>
 <td><p><a href="../Page/永丘昭典.md" title="wikilink">永丘昭典</a></p></td>
 <td><p><a href="../Page/香西隆男.md" title="wikilink">香西隆男</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海老沢一男" title="wikilink">海老沢一男</a></p></td>
@@ -229,7 +229,7 @@
 <td><p>第3話</p></td>
 <td><p>4月1日</p></td>
 <td><p>コーヒー持ってこ〜い</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/武上純希" title="wikilink">武上純希</a></p></td>
+<td><p><a href="../Page/武上純希.md" title="wikilink">武上純希</a></p></td>
 <td><p>池田裕之</p></td>
 <td><p><a href="../Page/山口泰弘.md" title="wikilink">山口泰弘</a></p></td>
 <td><p>田中資幸</p></td>
@@ -628,7 +628,7 @@
 <td><p>9月16日</p></td>
 <td><p>ガンモでメチャクチャ! 美しき姉弟愛</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/星山博之" title="wikilink">星山博之</a></p></td>
+<td><p><a href="../Page/星山博之.md" title="wikilink">星山博之</a></p></td>
 <td><p>高山秀樹</p></td>
 <td><p>北原健雄</p></td>
 </tr>
@@ -984,7 +984,7 @@
 <td><p>大盗賊参上</p></td>
 <td><p>ガンモの金庫いただきます</p></td>
 <td><p>新田義方</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤隆幸" title="wikilink">後藤隆幸</a><br />
+<td><p><a href="../Page/後藤隆幸.md" title="wikilink">後藤隆幸</a><br />
 水村十司</p></td>
 <td><p>鹿野良行</p></td>
 </tr>
@@ -1164,7 +1164,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a></p></td>
 <td></td>
 <td></td>
@@ -1263,8 +1263,8 @@
 
   - テレビアニメ最終回放送前日の[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")、「[東映まんがまつり](../Page/東映まんがまつり.md "wikilink")」で公開。上映時間：45分、配給：[東映](../Page/東映.md "wikilink")。
   - [竹](../Page/竹.md "wikilink")から生まれたガンモと[桃から生まれた半平太が](../Page/モモ.md "wikilink")「[桃太郎](../Page/桃太郎.md "wikilink")」になって、リンダ、西郷、カシオらが鬼の鬼ヶ島へ鬼退治に行こうとするも、突然あゆみやつくねがいる「[竜宮城](https://ja.wikipedia.org/wiki/竜宮城 "wikilink")」に巻き込まれたり、一行が[牛若丸や](../Page/源義経.md "wikilink")[一寸法師](https://ja.wikipedia.org/wiki/一寸法師 "wikilink")になったり、「[マッチ売りの少女](../Page/マッチ売りの少女.md "wikilink")」や「[ジャックと豆の木](../Page/ジャックと豆の木.md "wikilink")」が出たり、しまいには宇宙戦争になったりと、和洋童話や宇宙SFがごちゃ混ぜになるというドタバタなストーリー。
-  - オープニング映像はTV版と同じだが、エンディング映像はオリジナル。またスタッフクレジットは双方とも、TV版の「手書き風ロゴ」（当時東映動画が使用）ではなく[丸ゴシック体](https://ja.wikipedia.org/wiki/丸ゴシック体 "wikilink")だが、オープニングのみの歌詞[テロップは手書き風ロゴになっている](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")。
-  - かつて「劇場版マジンガーシリーズ」を輩出した、[フジ日曜19時台アニメの](https://ja.wikipedia.org/wiki/フジテレビ系列日曜夜7時台枠のアニメ "wikilink")「まんがまつり」版は、[1979年](../Page/1979年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")公開の『[SF西遊記スタージンガー 悪夢のバリバリゾーン](https://ja.wikipedia.org/wiki/SF西遊記スタージンガー "wikilink")』（TVブロウアップ版）以来6年振りだが、本作が事実上最後となった。
+  - オープニング映像はTV版と同じだが、エンディング映像はオリジナル。またスタッフクレジットは双方とも、TV版の「手書き風ロゴ」（当時東映動画が使用）ではなく[丸ゴシック体](../Page/丸ゴシック体.md "wikilink")だが、オープニングのみの歌詞[テロップは手書き風ロゴになっている](../Page/スーパーインポーズ_\(映像編集\).md "wikilink")。
+  - かつて「劇場版マジンガーシリーズ」を輩出した、[フジ日曜19時台アニメの](https://ja.wikipedia.org/wiki/フジテレビ系列日曜夜7時台枠のアニメ "wikilink")「まんがまつり」版は、[1979年](../Page/1979年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")公開の『[SF西遊記スタージンガー 悪夢のバリバリゾーン](../Page/SF西遊記スタージンガー.md "wikilink")』（TVブロウアップ版）以来6年振りだが、本作が事実上最後となった。
 
 <!-- end list -->
 
@@ -1340,7 +1340,7 @@
 
 [Category:細野不二彦](https://ja.wikipedia.org/wiki/Category:細野不二彦 "wikilink") [Category:漫画作品_く](https://ja.wikipedia.org/wiki/Category:漫画作品_く "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:ギャグ漫画](https://ja.wikipedia.org/wiki/Category:ギャグ漫画 "wikilink") [Category:鳥を主人公にした物語](https://ja.wikipedia.org/wiki/Category:鳥を主人公にした物語 "wikilink") [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:フジテレビ系アニメ](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメ "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:1985年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1985年のアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink") [Category:永丘昭典の監督映画](https://ja.wikipedia.org/wiki/Category:永丘昭典の監督映画 "wikilink") [Category:民話・童話を題材とした作品](https://ja.wikipedia.org/wiki/Category:民話・童話を題材とした作品 "wikilink") [Category:東映アニメーションのアニメ作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ作品 "wikilink") [Category:ADKグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:ADKグループのアニメ作品 "wikilink") [Category:1984年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1984年のテレビアニメ "wikilink") [Category:少年サンデーコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:少年サンデーコミックスのアニメ作品 "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink") [Category:幼稚園_(雑誌)](https://ja.wikipedia.org/wiki/Category:幼稚園_\(雑誌\) "wikilink")
 
-1.  いずれにせよ、[貴種流離譚](https://ja.wikipedia.org/wiki/貴種流離譚 "wikilink")的なラストであることは原作・アニメとも共通している。
+1.  いずれにせよ、[貴種流離譚](../Page/貴種流離譚.md "wikilink")的なラストであることは原作・アニメとも共通している。
 2.  13話
 3.  9話「走れ、半平太」
 4.  7話など。
@@ -1359,5 +1359,5 @@
 17. モデルは水戸黄門（ご隠居）。
 18. 41話-Bほか
 19. [プラチナムベスト 松原みき（UHQCD）-松原みき](https://www.ponycanyon.co.jp/music/PCCA000050282)ポニーキャニオン
-20. 『[アニメージュ](https://ja.wikipedia.org/wiki/アニメージュ "wikilink") 1985年3月号』　1985年、[徳間書店](../Page/徳間書店.md "wikilink")、全国放映リスト（126 - 127頁）
+20. 『[アニメージュ](../Page/アニメージュ.md "wikilink") 1985年3月号』　1985年、[徳間書店](../Page/徳間書店.md "wikilink")、全国放映リスト（126 - 127頁）
 21. 『[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")』1985年3月6日 - 4月24日付テレビ欄。

@@ -9,7 +9,7 @@
 
 内容は基本的に視聴者からのハガキがメインで、ゲストに対する質問やファンレターなどを紹介していくというスタイル。曜日ごとに様々なコーナーを設けていた。何でもありが信条のアバウトな番組で、小さなものから大きなものまでハプニングの絶えない番組だった。
 
-当時TBSが所有していた[日比谷シャンテの](https://ja.wikipedia.org/wiki/東宝日比谷ビル#日比谷シャンテ "wikilink")[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")から毎日[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")を行っていた。シャンテスタジオの外にはカメラ回線を用意していたため、屋外に出て進めるコーナーも積極的に行っていた。地下スタジオで一般観覧は基本的に無かったが、1992年11月23日放送分では「榊原郁恵復活コンサート」と称して[TBSホールからの公開生中継を行った](https://ja.wikipedia.org/wiki/赤坂メディアビル "wikilink")。
+当時TBSが所有していた[日比谷シャンテの](https://ja.wikipedia.org/wiki/東宝日比谷ビル#日比谷シャンテ "wikilink")[サテライトスタジオ](../Page/サテライトスタジオ.md "wikilink")から毎日[生放送](../Page/生放送.md "wikilink")を行っていた。シャンテスタジオの外にはカメラ回線を用意していたため、屋外に出て進めるコーナーも積極的に行っていた。地下スタジオで一般観覧は基本的に無かったが、1992年11月23日放送分では「榊原郁恵復活コンサート」と称して[TBSホールからの公開生中継を行った](https://ja.wikipedia.org/wiki/赤坂メディアビル "wikilink")。
 
 放送回数は全100回。うち2回は、[皇太子徳仁親王](https://ja.wikipedia.org/wiki/皇太子徳仁親王 "wikilink")成婚報道番組のために中止になった（欠番扱い）。
 
@@ -58,7 +58,7 @@
 
 ## 最終回のエピソード
 
-最終回に裏番組である『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の「[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")」に出演した[せんだみつお](https://ja.wikipedia.org/wiki/せんだみつお "wikilink")が大島さと子を指名し、生放送中のスタジオに電話がかかるというハプニングがあった。その際、伊集院は「いいとも\!」ではなく「わいど\!ウオッチャー」と叫んだ。翌週の月曜日に「テレフォンショッキング」に出演した大島は、この番組の[ノベルティ](../Page/ノベルティ.md "wikilink")であるトートバッグをお土産に持っていった。
+最終回に裏番組である『[森田一義アワー 笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）の「[テレフォンショッキング](https://ja.wikipedia.org/wiki/テレフォンショッキング "wikilink")」に出演した[せんだみつお](../Page/せんだみつお.md "wikilink")が大島さと子を指名し、生放送中のスタジオに電話がかかるというハプニングがあった。その際、伊集院は「いいとも\!」ではなく「わいど\!ウオッチャー」と叫んだ。翌週の月曜日に「テレフォンショッキング」に出演した大島は、この番組の[ノベルティ](../Page/ノベルティ.md "wikilink")であるトートバッグをお土産に持っていった。
 
 。永田は、最終回当日の夜に放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")の『[伊集院光のOh\!デカナイト](../Page/伊集院光のOh!デカナイト.md "wikilink")』に奥貫薫とともにゲスト出演した。TBSのプロデューサーがニッポン放送の番組に出演するという点では異例の事態であった。
 
@@ -68,6 +68,6 @@
 
 ## 番組が産んだ副産物
 
-プロデューサーの永田は[ラジオ制作部に配属されて制作部門に復帰した際](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、TBSラジオの深夜枠建て直しのため、当時『伊集院光のOh\!デカナイト』を打ち切られ、ラジオのレギュラー出演は衛星ラジオ局[セント・ギガ](../Page/セント・ギガ.md "wikilink")の『[伊集院光の放課後の王様](https://ja.wikipedia.org/wiki/伊集院光の放課後の王様 "wikilink")』だけとなっていた伊集院を起用して『[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")』を開始した。当時伊集院は永田以外に[TOKYO FMからもオファーを受けていたが](../Page/エフエム東京.md "wikilink")、「絶対禁煙」のTOKYO FMに対し、「禁煙だが黙認する」という永田の発言があり、当時ヘビースモーカーだった伊集院はTBSラジオへの移籍を決意した。
+プロデューサーの永田は[ラジオ制作部に配属されて制作部門に復帰した際](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")、TBSラジオの深夜枠建て直しのため、当時『伊集院光のOh\!デカナイト』を打ち切られ、ラジオのレギュラー出演は衛星ラジオ局[セント・ギガ](../Page/セント・ギガ.md "wikilink")の『[伊集院光の放課後の王様](../Page/伊集院光の放課後の王様.md "wikilink")』だけとなっていた伊集院を起用して『[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")』を開始した。当時伊集院は永田以外に[TOKYO FMからもオファーを受けていたが](../Page/エフエム東京.md "wikilink")、「絶対禁煙」のTOKYO FMに対し、「禁煙だが黙認する」という永田の発言があり、当時ヘビースモーカーだった伊集院はTBSラジオへの移籍を決意した。
 
 [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:伊集院光](https://ja.wikipedia.org/wiki/Category:伊集院光 "wikilink") [Category:榊原郁恵](https://ja.wikipedia.org/wiki/Category:榊原郁恵 "wikilink")

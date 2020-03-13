@@ -1,7 +1,7 @@
 > この記事は[SUZUKI](https://ja.wikipedia.org/wiki/SUZUKI)から翻訳されています。
 
 
-**SUZUKIハッピーモーニング・いってらっしゃいシリーズ**（スズキハッピーモーニング・いってらっしゃいシリーズ）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で1981年4月6日から放送している[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。
+**SUZUKIハッピーモーニング・いってらっしゃいシリーズ**（スズキハッピーモーニング・いってらっしゃいシリーズ）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")で1981年4月6日から放送している[ミニ番組](../Page/ミニ番組.md "wikilink")。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
 <!-- end list -->
 
-  - [十朱幸代](https://ja.wikipedia.org/wiki/十朱幸代 "wikilink") - 1981年4月6日 - 1996年3月29日
+  - [十朱幸代](../Page/十朱幸代.md "wikilink") - 1981年4月6日 - 1996年3月29日
   - [沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink") - 1996年4月1日 - 2002年12月31日
   - [黒木瞳](../Page/黒木瞳.md "wikilink") - 2003年1月6日 - 2004年9月24日
   - [鈴木杏樹](https://ja.wikipedia.org/wiki/鈴木杏樹 "wikilink") - 2004年9月27日 - 2020年2月6日
@@ -108,7 +108,7 @@
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山口放送" title="wikilink">山口放送</a>（KRY）</p></td>
 <td><p>7:40 - 7:45</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/ほっとゾーンおはようKRY" title="wikilink">ほっとゾーンおはようKRY</a>』内</p></td>
+<td><p>『<a href="../Page/ほっとゾーンおはようKRY.md" title="wikilink">ほっとゾーンおはようKRY</a>』内</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
@@ -153,7 +153,7 @@
 <td><p>『<a href="https://ja.wikipedia.org/wiki/さわやかラジオおはようハイタッチ!" title="wikilink">さわやかラジオ おはようハイタッチ!</a>』内</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KBCラジオ" title="wikilink">九州朝日放送</a>（KBC）</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/アサデス。" title="wikilink">小林徹夫のアサデス。ラジオ</a>』内</p></td>
 <td></td>
@@ -269,7 +269,7 @@ Goodモーニング 守屋です（木曜・金曜）</a>』内</p></td>
 ## 関連項目
 
   - [ニッポン放送平日朝帯ワイド番組](../Page/ニッポン放送平日朝帯ワイド番組.md "wikilink")
-  - [小島奈津子のおかえりなさい](https://ja.wikipedia.org/wiki/小島奈津子のおかえりなさい "wikilink")※同局が制作している夕方のミニ番組
+  - [小島奈津子のおかえりなさい](../Page/小島奈津子のおかえりなさい.md "wikilink")※同局が制作している夕方のミニ番組
 
 [Category:ニッポン放送の帯番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組 "wikilink") [Category:スズキ一社提供番組](https://ja.wikipedia.org/wiki/Category:スズキ一社提供番組 "wikilink") [Category:ニッポン放送のミニ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のミニ番組 "wikilink") [Category:ニッポン放送の一社提供番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の一社提供番組 "wikilink") [Category:1981年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1981年のラジオ番組_\(日本\) "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:女優のラジオ番組](https://ja.wikipedia.org/wiki/Category:女優のラジオ番組 "wikilink")
 

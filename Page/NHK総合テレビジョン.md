@@ -9,13 +9,13 @@
 
 ## 概要
 
-[東京](../Page/東京.md "wikilink")にて[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")開局（以降の開局は[\#沿革](https://ja.wikipedia.org/wiki/#沿革 "wikilink")参照）。本チャンネルは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")初の[テレビ](../Page/テレビ.md "wikilink")[チャンネルである](../Page/チャンネル_\(テレビ放送\).md "wikilink")。「[総合](https://ja.wikipedia.org/wiki/総合 "wikilink")テレビジョン」という通称名は、同じく[地上波](../Page/地上波.md "wikilink")で放送される[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（[2011年](../Page/2011年.md "wikilink")からの通称：Eテレ）と対比して、[総合編成を実施しているということから付けられたものである](../Page/放送法.md "wikilink")。
+[東京](../Page/東京.md "wikilink")にて[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[2月1日](../Page/2月1日.md "wikilink")開局（以降の開局は[\#沿革](https://ja.wikipedia.org/wiki/#沿革 "wikilink")参照）。本チャンネルは[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")初の[テレビ](../Page/テレビ.md "wikilink")[チャンネルである](../Page/チャンネル_\(テレビ放送\).md "wikilink")。「[総合](https://ja.wikipedia.org/wiki/総合 "wikilink")テレビジョン」という通称名は、同じく[地上波](../Page/地上波.md "wikilink")で放送される[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（[2011年](../Page/2011年.md "wikilink")からの通称：Eテレ）と対比して、[総合編成を実施しているということから付けられたものである](../Page/放送法.md "wikilink")。
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")全国でほぼ統一された番組編成をするEテレに対して、総合テレビではそれに比べて各地域ごとに異なる番組編成がなされる。そのため、[アナログ放送での](../Page/NTSC.md "wikilink")[広域放送](../Page/広域放送.md "wikilink")は関東広域圏（1[都](../Page/東京都.md "wikilink")6[県](../Page/都道府県.md "wikilink")）のみで、その他の40道府県は[県域放送](../Page/県域放送.md "wikilink")がとられていた。[デジタル放送では](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")2004年に[茨城県](../Page/茨城県.md "wikilink")が、2012年に[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")と[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")が県域放送に移行し、広域放送は[南関東](../Page/南関東.md "wikilink")4都県のみとなった。
 
-総合テレビの[本放送](https://ja.wikipedia.org/wiki/本放送 "wikilink")開始当初、一般[家庭](../Page/家庭.md "wikilink")へのテレビ普及には程遠く、[テレビ番組](../Page/テレビ番組.md "wikilink")として独自に制作をするには[予算](https://ja.wikipedia.org/wiki/予算 "wikilink")的にも厳しかったことから、[NHKラジオ](../Page/NHKラジオ.md "wikilink")の人気番組を本チャンネルで中継するということがしばしば行われていた\[2\]。
+総合テレビの[本放送](https://ja.wikipedia.org/wiki/本放送 "wikilink")開始当初、一般[家庭](../Page/家庭.md "wikilink")へのテレビ普及には程遠く、[テレビ番組](../Page/テレビ番組.md "wikilink")として独自に制作をするには[予算](../Page/予算.md "wikilink")的にも厳しかったことから、[NHKラジオ](../Page/NHKラジオ.md "wikilink")の人気番組を本チャンネルで中継するということがしばしば行われていた\[2\]。
 
-総合テレビの関東地区における[全日](https://ja.wikipedia.org/wiki/全日 "wikilink")[視聴率](../Page/視聴率.md "wikilink")（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社の調査）は、[1963年](../Page/1963年.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")までの24年間、各[民放](../Page/民間放送.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")を押しのけて、連続して1位を獲得していた\[3\]\[4\]。しかし[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")は[フジテレビに全日視聴率](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")1位を譲り、[1988年](../Page/1988年.md "wikilink")・[1989年](../Page/1989年.md "wikilink")は奪還したが、1989年を最後にその座から遠ざかっている。
+総合テレビの関東地区における[全日](../Page/全日.md "wikilink")[視聴率](../Page/視聴率.md "wikilink")（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")社の調査）は、[1963年](../Page/1963年.md "wikilink")から[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")までの24年間、各[民放](../Page/民間放送.md "wikilink")[キー局](https://ja.wikipedia.org/wiki/キー局 "wikilink")を押しのけて、連続して1位を獲得していた\[3\]\[4\]。しかし[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")は[フジテレビに全日視聴率](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")1位を譲り、[1988年](../Page/1988年.md "wikilink")・[1989年](../Page/1989年.md "wikilink")は奪還したが、1989年を最後にその座から遠ざかっている。
 
 『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』があることなど（後述）から、年間視聴率1位は総合テレビの番組というケースが多い。[2001年](../Page/2001年.md "wikilink")まで総合テレビの番組が年間視聴率1位の座を譲ったことがなかった（紅白についても1997年まで年間視聴率1位の座を譲ったことがなかった）。[2002年](../Page/2002年.md "wikilink")以降は年によっては民放番組（主に国際[スポーツ中継](../Page/スポーツ中継.md "wikilink")の[日本戦](../Page/日本代表.md "wikilink")）にその座を奪われるケースもある。
 
@@ -33,12 +33,12 @@
   - [1952年](../Page/1952年.md "wikilink")
     [10月1日](../Page/10月1日.md "wikilink") - 実験局をNHK東京放送会館に移転（出力3kW）、送出方式をNHK独自方式から[NTSC](../Page/NTSC.md "wikilink")方式に変更\[10\]。
     [11月14日](../Page/11月14日.md "wikilink") - 東京実験局を実用化試験局に移行\[11\]。
-    [12月15日](../Page/12月15日.md "wikilink") - 実用化試験局が毎日放送となる\[12\]（事実上の[サービス放送](https://ja.wikipedia.org/wiki/サービス放送 "wikilink")開始）。
+    [12月15日](../Page/12月15日.md "wikilink") - 実用化試験局が毎日放送となる\[12\]（事実上の[サービス放送](../Page/サービス放送.md "wikilink")開始）。
     [12月26日](../Page/12月26日.md "wikilink") - 東京テレビジョンに予備免許が交付される\[13\]。
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")
     [1月11日](../Page/1月11日.md "wikilink") - [テレビジョン放送](../Page/テレビジョン放送.md "wikilink")の開始に備え、NHK自前の[東名阪](https://ja.wikipedia.org/wiki/日本の三大都市圏 "wikilink")[マイクロ回線](https://ja.wikipedia.org/wiki/マイクロ回線 "wikilink")の運用開始。[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")(NHK)の[テレビ](../Page/テレビ.md "wikilink")事業として[公営放送](https://ja.wikipedia.org/wiki/公営放送 "wikilink")を開始した。総合テレビ以外では[民放](https://ja.wikipedia.org/wiki/民放 "wikilink")での主体として、少し遅れて設立された[日本テレビ放送網](../Page/日本テレビ放送網.md "wikilink")と共に、[ラジオ](../Page/ラジオ.md "wikilink")が主体であった[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前から[戦後しばらくの間](https://ja.wikipedia.org/wiki/第二次世界大戦後 "wikilink")[報道](../Page/報道.md "wikilink")のあり方を変え、現在に至る[日本国](https://ja.wikipedia.org/wiki/日本国 "wikilink")[マスメディア](../Page/マスメディア.md "wikilink")の基本形を形成した。
     [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") - 東京テレビジョンに本免許\[14\]。
-    2月1日 - 14時、東京テレビジョン（[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOAK-TV、現[NHK放送センター](../Page/NHK放送センター.md "wikilink")）[本放送](https://ja.wikipedia.org/wiki/本放送 "wikilink")開始。[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")は[内幸町](../Page/内幸町.md "wikilink")の[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")に、[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")は[紀尾井町](https://ja.wikipedia.org/wiki/紀尾井町 "wikilink")の千代田放送所（現・[千代田放送会館](../Page/千代田放送会館.md "wikilink")）に置かれ、[VHF](../Page/超短波.md "wikilink")3[chで送信された](../Page/チャンネル_\(テレビ放送\).md "wikilink")。映像出力5kW。
+    2月1日 - 14時、東京テレビジョン（[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOAK-TV、現[NHK放送センター](../Page/NHK放送センター.md "wikilink")）[本放送](https://ja.wikipedia.org/wiki/本放送 "wikilink")開始。[演奏所](https://ja.wikipedia.org/wiki/演奏所 "wikilink")は[内幸町](../Page/内幸町.md "wikilink")の[NHK東京放送会館](../Page/NHK東京放送会館.md "wikilink")に、[送信所](../Page/送信所.md "wikilink")は[紀尾井町](https://ja.wikipedia.org/wiki/紀尾井町 "wikilink")の千代田放送所（現・[千代田放送会館](../Page/千代田放送会館.md "wikilink")）に置かれ、[VHF](../Page/超短波.md "wikilink")3[chで送信された](../Page/チャンネル_\(テレビ放送\).md "wikilink")。映像出力5kW。
   - [1954年](../Page/1954年.md "wikilink")
     3月1日 - 大阪テレビジョン（呼出符号：JOBK-TV、現[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")）、名古屋テレビジョン（呼出符号：JOCK-TV、現[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")）本放送開始。
     :\*大阪は演奏所を馬場町の[大阪放送会館](https://ja.wikipedia.org/wiki/大阪放送会館 "wikilink")に、送信所を[生駒山に置き](../Page/生駒山テレビ・FM送信所.md "wikilink")、VHF4chで送信された。
@@ -53,24 +53,24 @@
   - [1958年](../Page/1958年.md "wikilink")
     [12月1日](../Page/12月1日.md "wikilink") - 大阪テレビジョン、[毎日放送](../Page/毎日放送.md "wikilink")の[テレビジョン放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（呼出符号：JOOR-TV、VHF4ch）開始に備え送信チャンネルを4chから2chに変更。
   - [1959年](../Page/1959年.md "wikilink")
-    [1月10日](../Page/1月10日.md "wikilink") - [教育放送](https://ja.wikipedia.org/wiki/教育放送 "wikilink")専門の[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")（2011年6月以後の[愛称](../Page/愛称.md "wikilink")「Eテレ」）開局。それとの区分のため、正式な名称を「NHK総合テレビジョン」に定める。
+    [1月10日](../Page/1月10日.md "wikilink") - [教育放送](https://ja.wikipedia.org/wiki/教育放送 "wikilink")専門の[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")（2011年6月以後の[愛称](../Page/愛称.md "wikilink")「Eテレ」）開局。それとの区分のため、正式な名称を「NHK総合テレビジョン」に定める。
     [4月6日](../Page/4月6日.md "wikilink") - 東京テレビジョン、放送エリアを[関東全域に拡大するため](https://ja.wikipedia.org/wiki/関東地方 "wikilink")、この年[1月10日](../Page/1月10日.md "wikilink")に開局した東京教育テレビジョン（呼出符号：JOAB-TV）と送信所を入れ替え。この日の放送開始から送信所は[東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")（[芝放送所](../Page/芝_\(東京都港区\).md "wikilink")）に、チャンネルはVHF1chに変わり、[デジタル放送完全移行までの半世紀以上の間総合](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")1ch、教育3chというチャンネル割り当てで放送を行った。
   - [1960年](../Page/1960年.md "wikilink")
     [9月10日](../Page/9月10日.md "wikilink") - 東京と大阪でカラー本放送開始。
   - [1962年](../Page/1962年.md "wikilink")
     [3月19日](../Page/3月19日.md "wikilink") - 平日午前にあった中断時間を廃止。
-    [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") - 平日午後の中断時間を廃止し、終日放送となる。
+    [7月23日](../Page/7月23日.md "wikilink") - 平日午後の中断時間を廃止し、終日放送となる。
   - [1964年](../Page/1964年.md "wikilink")
     [東京オリンピック終了後](../Page/1964年東京オリンピック.md "wikilink")、[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[神南](../Page/神南.md "wikilink")の[NHK放送センター](../Page/NHK放送センター.md "wikilink")運用開始。以後9年をかけて順次機能移転。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")
     [3月15日](../Page/3月15日.md "wikilink") - [佐賀テレビジョン](../Page/NHK佐賀放送局.md "wikilink")（呼出符号：JOSP-TV）、総合テレビ初の[UHF親局として放送開始](../Page/極超短波.md "wikilink")。以後、[高松](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")、大阪以外の近畿5府県、[津](../Page/NHK津放送局.md "wikilink")、[岐阜でUHFによる親局が開局し](../Page/NHK岐阜放送局.md "wikilink")、県域放送開始。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")
-    4月 - [UHFテレビジョン試験放送が東京と大阪で開局](https://ja.wikipedia.org/wiki/NHK_UHFテレビ実験局 "wikilink")（ともにUHF14ch）。
+  - [1970年](../Page/1970年.md "wikilink")
+    4月 - [UHFテレビジョン試験放送が東京と大阪で開局](../Page/NHK_UHFテレビ実験局.md "wikilink")（ともにUHF14ch）。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")
     10月 - 全番組カラー化\[15\]\[16\]\[17\]。
   - [1974年](../Page/1974年.md "wikilink")
     1月16日 - 第1次[オイルショック](../Page/オイルショック.md "wikilink")に伴い、テレビ放送の[昼間](https://ja.wikipedia.org/wiki/昼間 "wikilink")、[深夜](../Page/深夜.md "wikilink")の放送を一部休止。
-    :\*総合テレビ、[UHFテレビ](https://ja.wikipedia.org/wiki/UHFテレビ "wikilink")[試験放送](https://ja.wikipedia.org/wiki/試験放送 "wikilink")では月～金曜日の14時台後半～16時台前半を放送休止とし、深夜は23時で放送打ち切りとなる\[18\]。
+    :\*総合テレビ、[UHFテレビ](https://ja.wikipedia.org/wiki/UHFテレビ "wikilink")[試験放送](../Page/試験放送.md "wikilink")では月～金曜日の14時台後半～16時台前半を放送休止とし、深夜は23時で放送打ち切りとなる\[18\]。
     4月1日 - 深夜の放送終了を23時15分に繰り下げ。翌年には週末のみ\[19\]24時まで、と段階的に放送時間を拡大させている。
     [9月9日](../Page/9月9日.md "wikilink") - 昼間の放送休止を解除。
   - [1975年](../Page/1975年.md "wikilink")
@@ -84,12 +84,12 @@
   - 1985年
     11月 - [文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")開始。
   - 1988年
-    9月19日 - [昭和天皇](https://ja.wikipedia.org/wiki/昭和天皇 "wikilink")が[重体](https://ja.wikipedia.org/wiki/重体 "wikilink")に陥る。この日から[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")の形で終夜放送を開始し、随時昭和天皇の容体を伝えた。
+    9月19日 - [昭和天皇](../Page/昭和天皇.md "wikilink")が[重体](https://ja.wikipedia.org/wiki/重体 "wikilink")に陥る。この日から[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")の形で終夜放送を開始し、随時昭和天皇の容体を伝えた。
   - 1989年
-    [1月7日](../Page/1月7日.md "wikilink") - 昭和天皇[崩御](../Page/崩御.md "wikilink")。NHKは[教育放送](https://ja.wikipedia.org/wiki/教育放送 "wikilink")を除いて[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[純ちゃんの応援歌](../Page/純ちゃんの応援歌.md "wikilink")』と[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[春日局](https://ja.wikipedia.org/wiki/春日局_\(NHK大河ドラマ\) "wikilink")』を含めた全番組を休止し、9日未明まで昭和天皇の追悼特別番組を編成した。臨時終夜放送を終了するが3月まで暫定的に翌日1時までに定時番組を編成した。
+    [1月7日](../Page/1月7日.md "wikilink") - 昭和天皇[崩御](../Page/崩御.md "wikilink")。NHKは[教育放送](https://ja.wikipedia.org/wiki/教育放送 "wikilink")を除いて[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[純ちゃんの応援歌](../Page/純ちゃんの応援歌.md "wikilink")』と[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[春日局](../Page/春日局_\(NHK大河ドラマ\).md "wikilink")』を含めた全番組を休止し、9日未明まで昭和天皇の追悼特別番組を編成した。臨時終夜放送を終了するが3月まで暫定的に翌日1時までに定時番組を編成した。
     4月 - [金曜日](../Page/金曜日.md "wikilink")の深夜に限り24時以後をまたぐ[深夜放送](../Page/深夜放送.md "wikilink")を開始（1990年4月からは土曜日に変更、1992年度は一旦中断、1993年度から金・土曜日に再開）。
   - 1995年
-    1月17日 - [阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")発生。NHKは教育放送を含むすべての放送チャンネルを使い、6時から[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")を開始。連続テレビ小説「[春よ、来い](../Page/春よ、来い_\(テレビドラマ\).md "wikilink")」などの通常番組を全て休止。2月以降からほぼ通常編成に戻ったが、2月末まで（[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")は3月末まで）震災報道を中心とした編成となった。
+    1月17日 - [阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")発生。NHKは教育放送を含むすべての放送チャンネルを使い、6時から[報道特別番組](../Page/報道特別番組.md "wikilink")を開始。連続テレビ小説「[春よ、来い](../Page/春よ、来い_\(テレビドラマ\).md "wikilink")」などの通常番組を全て休止。2月以降からほぼ通常編成に戻ったが、2月末まで（[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")は3月末まで）震災報道を中心とした編成となった。
     4月3日 - 放送時間を早朝5時から翌日1時までに拡大\[20\]。それ以前は6:00（後に5:57→5:55 - この時は[天気予報](../Page/天気予報.md "wikilink")が1日の最初の番組）開始だった。
   - 1996年
     4月 - 週末（金・土曜深夜）に限り24時間放送開始。また平日の放送時間も翌日2時までに拡大。
@@ -97,8 +97,8 @@
     4月 - 月曜未明（日曜深夜）を除き24時間放送開始（基点は5時）。
   - 2000年
     4月 - 生放送番組の文字放送による[同時字幕放送を開始](../Page/リアルタイム字幕放送.md "wikilink")（順次拡大）。また日曜についても終夜放送に踏み切る。当初は第1・3週日曜の深夜を除く。
-    7月 - [ラジオ第1放送を含めて休止](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")・[減力放送](../Page/減力放送.md "wikilink")は各放送局の任意となり、完全24時間放送となった。\[21\]
-    :\*総合放送（総合テレビ・ラジオ第1・[FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")）の完全24時間化は[地震](../Page/地震.md "wikilink")・[台風](../Page/台風.md "wikilink")・[豪雨](https://ja.wikipedia.org/wiki/豪雨 "wikilink")など天災が発生した場合を対象とした[災害対策基本法](../Page/災害対策基本法.md "wikilink")や、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")などの大規模な有事が発生した場合を対象とした諸法律の義務を履行するための措置。
+    7月 - [ラジオ第1放送を含めて休止](../Page/NHKラジオ第1放送.md "wikilink")・[減力放送](../Page/減力放送.md "wikilink")は各放送局の任意となり、完全24時間放送となった。\[21\]
+    :\*総合放送（総合テレビ・ラジオ第1・[FM放送](../Page/NHK-FM放送.md "wikilink")）の完全24時間化は[地震](../Page/地震.md "wikilink")・[台風](../Page/台風.md "wikilink")・[豪雨](https://ja.wikipedia.org/wiki/豪雨 "wikilink")など天災が発生した場合を対象とした[災害対策基本法](../Page/災害対策基本法.md "wikilink")や、[テロ](https://ja.wikipedia.org/wiki/テロ "wikilink")などの大規模な有事が発生した場合を対象とした諸法律の義務を履行するための措置。
   - 2003年
     12月1日 - 11時、東京・大阪・名古屋の各放送局で地上デジタルテレビジョン放送の本放送を開始。
   - 2004年
@@ -116,7 +116,7 @@
     7月5日 - 地デジ完全移行を念頭にした[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")との申し合わせにより、午前4時15分の基点（前日付け=7月4日付の深夜休止の地区は開始）時間から、NTSCで全番組レターボックス16:9での放送に移行\[25\]。
     10月25日 - アナログ放送では総務省地デジコールセンターの受付電話番号の常時表示を開始。また、ロールスーパーによる終了告知の表示はこれまで開始冒頭のみ行っていたが、同日から放送時間が10分以上の全番組についても10分毎に表示を始めた。東京以外の地域放送（全国放送番組の時差放送も含む）では画面の黒帯上に「ご覧のアナログ放送は2011年7月に終了します」のテロップが追加表示されているところがあった（札幌局など）。
   - 2011年
-    3月11日 - [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生。国内全ての放送チャンネルを使い、地震発生の瞬間・14時46分に[緊急地震速報](../Page/緊急地震速報.md "wikilink")を発し[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")を開始。連続テレビ小説『[てっぱん](https://ja.wikipedia.org/wiki/てっぱん "wikilink")』\[26\]、大河ドラマ『[江〜姫たちの戦国〜](https://ja.wikipedia.org/wiki/江〜姫たちの戦国〜 "wikilink")』などの通常番組を全て休止し、異例の大長時間特別編成となった。また、暫時的ではあるが衛星によるセーフティーネットとは別に、[衛星第1テレビジョン](https://ja.wikipedia.org/wiki/NHK_BS1 "wikilink")（BS101=ID1）も総合テレビの番組を同時配信した。
+    3月11日 - [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")発生。国内全ての放送チャンネルを使い、地震発生の瞬間・14時46分に[緊急地震速報](../Page/緊急地震速報.md "wikilink")を発し[報道特別番組](../Page/報道特別番組.md "wikilink")を開始。連続テレビ小説『[てっぱん](https://ja.wikipedia.org/wiki/てっぱん "wikilink")』\[26\]、大河ドラマ『[江〜姫たちの戦国〜](https://ja.wikipedia.org/wiki/江〜姫たちの戦国〜 "wikilink")』などの通常番組を全て休止し、異例の大長時間特別編成となった。また、暫時的ではあるが衛星によるセーフティーネットとは別に、[衛星第1テレビジョン](../Page/NHK_BS1.md "wikilink")（BS101=ID1）も総合テレビの番組を同時配信した。
     7月24日 - 東日本大震災で被害の大きかった岩手・宮城・福島の3県を除いてアナログ放送終了、デジタル放送へ完全に移行。最終番組は、11時59分にアナウンサーの[鈴木奈穂子](../Page/鈴木奈穂子.md "wikilink")による終了アナウンスと、「どーもくん」のアニメーションによる終了メッセージだった。
   - 2012年
     3月31日 - 岩手・宮城・福島の各県についてもアナログ放送終了。これらの地域では、11時59分に仙台局アナウンサーの[谷地健吾](../Page/谷地健吾.md "wikilink")による終了アナウンス\[27\]と、「どーもくん」の静止画による終了メッセージが放送されて、日本国内全域でデジタル放送への移行を完了した。
@@ -126,7 +126,7 @@
   - 2018年
     4月3日 - この日より火-金曜日付の放送開始（基点）時間を4:00に繰り上げ\[28\]。月・土・日曜は従来通り4:15を開始（基点）としている。
   - 2020年
-    4月1日 - 常時同時配信・見逃し番組配信の「[NHKプラス](https://ja.wikipedia.org/wiki/NHKプラス "wikilink")」でのサイマル放送開始予定。
+    4月1日 - 常時同時配信・見逃し番組配信の「[NHKプラス](../Page/NHKプラス.md "wikilink")」でのサイマル放送開始予定。
 
 ## 番組
 
@@ -368,11 +368,11 @@
 
 ### 移行期間における独自編成
 
-[2003年](../Page/2003年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")から順次開始されている[地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")（地デジ）を活かし、全国放送のほぼすべての番組が[ハイビジョン](../Page/ハイビジョン.md "wikilink")方式で制作・放送されている。標準画質マルチ放送は最大3チャンネル取れるが、NHK総合では現在011と012（あるいは031と032）のみで行われており、013（033）は使用されていない。なお、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")12月までデジタル放送では以下のように独自の差し替え番組があった。
+[2003年](../Page/2003年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")から順次開始されている[地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")（地デジ）を活かし、全国放送のほぼすべての番組が[ハイビジョン](../Page/ハイビジョン.md "wikilink")方式で制作・放送されている。標準画質マルチ放送は最大3チャンネル取れるが、NHK総合では現在011と012（あるいは031と032）のみで行われており、013（033）は使用されていない。なお、[2005年](../Page/2005年.md "wikilink")12月までデジタル放送では以下のように独自の差し替え番組があった。
 
-  - 日曜11:00～11:45 「[地球\!ふしぎ大自然](https://ja.wikipedia.org/wiki/地球!ふしぎ大自然 "wikilink")」（先行放送）2005年9月で終了（アナログ放送では「[日曜スタジオパーク](https://ja.wikipedia.org/wiki/日曜スタジオパーク "wikilink")」と「[食彩浪漫](https://ja.wikipedia.org/wiki/食彩浪漫 "wikilink")」）
-  - 日曜13:05～13:50 「[大河ドラマ](../Page/大河ドラマ.md "wikilink")」（先行放送）2005年12月で終了（なお、[2004年](../Page/2004年.md "wikilink")1月から2005年3月までは、13:00～13:45の放送だった。アナログ放送では「[笑いがいちばん](../Page/笑いがいちばん.md "wikilink")」と「[ふだん着の温泉](../Page/ふだん着の温泉.md "wikilink")」と「[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")」）
-  - 土曜14:00～14:45 「[NHK歌謡コンサート](https://ja.wikipedia.org/wiki/NHK歌謡コンサート "wikilink")」（再放送）2005年9月で再放送終了（アナログ放送では「[土曜スタジオパーク](../Page/土曜スタジオパーク.md "wikilink")」）
+  - 日曜11:00～11:45 「[地球\!ふしぎ大自然](../Page/地球!ふしぎ大自然.md "wikilink")」（先行放送）2005年9月で終了（アナログ放送では「[日曜スタジオパーク](../Page/日曜スタジオパーク.md "wikilink")」と「[食彩浪漫](../Page/食彩浪漫.md "wikilink")」）
+  - 日曜13:05～13:50 「[大河ドラマ](../Page/大河ドラマ.md "wikilink")」（先行放送）2005年12月で終了（なお、[2004年](../Page/2004年.md "wikilink")1月から2005年3月までは、13:00～13:45の放送だった。アナログ放送では「[笑いがいちばん](../Page/笑いがいちばん.md "wikilink")」と「[ふだん着の温泉](../Page/ふだん着の温泉.md "wikilink")」と「[みんなのうた](../Page/みんなのうた.md "wikilink")」）
+  - 土曜14:00～14:45 「[NHK歌謡コンサート](../Page/NHK歌謡コンサート.md "wikilink")」（再放送）2005年9月で再放送終了（アナログ放送では「[土曜スタジオパーク](../Page/土曜スタジオパーク.md "wikilink")」）
 
 近畿圏では2010年4月より夕方時間帯で地上デジタル放送告知番組の差し替えを行っていた。
 
@@ -416,7 +416,7 @@
 
 ### ネットワーク
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:NHKID.png "wikilink") 各放送局に関する情報は[日本放送協会放送局の一覧](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")を参照。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:NHKID.png "wikilink") 各放送局に関する情報は[日本放送協会放送局の一覧](../Page/日本放送協会放送局の一覧.md "wikilink")を参照。
 
   - 関東1都3県以外は県域放送を基本とするが、北海道と福岡県は地域別放送を行っている。
   - **太字**は[拠点局](../Page/基幹局.md "wikilink")。
@@ -502,7 +502,7 @@
 <td><p>JOJG-TV</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK鶴岡支局" title="wikilink">鶴岡</a></p></td>
+<td><p><a href="../Page/NHK鶴岡支局.md" title="wikilink">鶴岡</a></p></td>
 <td><p><small>（山形・中継局）</small></p></td>
 <td><p>34ch</p></td>
 <td><p>500</p></td>
@@ -778,7 +778,7 @@
 
 #### 3ch
 
-アナログ総合の親局で全国的に**3ch**が多かった理由は、テレビ放送が開局した当初1ch・2ch・12chが[米軍の](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")[レーダー](../Page/レーダー.md "wikilink")に使用されており、後にその周波数は返還されたものの、NHKについては第一次チャンネルプランでそれらの地域に3chが割り当てられたためである。沿革にもある通り、テレビ放送開始当初東京が3ch、大阪が4chで送信されていたのはこのことが原因である。その後東京ではエリアの拡大のため、当時1chで東京タワーから送信されていた[NHK教育テレビとチャンネルを入れ替える形で](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")**1ch**となった。一方大阪も、その後京阪神第4局（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。JOOR-TV、4ch）の開局予定日であった1958年12月1日から**2ch**に変更された。しかしアナログ総合が3chの地域で1chは、どの放送局にも割り当てられず最後まで空きチャンネルだったのは広島県と大分県のみ、アナログ教育の親局に割り当てられたのも長崎県のみであり、大半の地域で民放用に割り当てられた。更には総合が3ch以外でも1chがアナログ教育だったのは山口県（総合9ch）のみであった。
+アナログ総合の親局で全国的に**3ch**が多かった理由は、テレビ放送が開局した当初1ch・2ch・12chが[米軍の](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")[レーダー](../Page/レーダー.md "wikilink")に使用されており、後にその周波数は返還されたものの、NHKについては第一次チャンネルプランでそれらの地域に3chが割り当てられたためである。沿革にもある通り、テレビ放送開始当初東京が3ch、大阪が4chで送信されていたのはこのことが原因である。その後東京ではエリアの拡大のため、当時1chで東京タワーから送信されていた[NHK教育テレビとチャンネルを入れ替える形で](../Page/NHK教育テレビジョン.md "wikilink")**1ch**となった。一方大阪も、その後京阪神第4局（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。JOOR-TV、4ch）の開局予定日であった1958年12月1日から**2ch**に変更された。しかしアナログ総合が3chの地域で1chは、どの放送局にも割り当てられず最後まで空きチャンネルだったのは広島県と大分県のみ、アナログ教育の親局に割り当てられたのも長崎県のみであり、大半の地域で民放用に割り当てられた。更には総合が3ch以外でも1chがアナログ教育だったのは山口県（総合9ch）のみであった。
 
 この「民放用に割り当てられた1ch」がNHKにとっての曲者と化したのが半世紀後の地デジ移行である。そのリモコンキーIDに、NHKは「**2**」の教育テレビだけでなく総合テレビも全国統一の「**1**」を希望しており、アナログ総合が3chの地域でも1chが空いていた広島県と大分県では「**3**」を引き継がず「**1**」が、そもそも1chがアナログ教育に割り当てられていた山口県と長崎県ではそれに親局より大きい「**2**」を割り当てたうえで総合テレビに「**1**」が割り当てられた\[61\]。しかし1chが民放の親局（本社送信所）に割り当てられていた地域ではその民放各局\[62\]が猛反発したことでNHKは総合テレビのID全国統一を断念せざるを得なくなる。最終的には、当該地域に限り1chの民放各局が「**1**」を継承し、総合テレビには「1」「2」を除いて最も若い番号であるのとアナログ時代から3chであったという地域性から「**3**」を割り当てることで決着した。
 
@@ -794,7 +794,7 @@
 
   - 関東地方などほとんどの局…卵形の青色バックにコールサイン表示（アナログ・デジタルとも全国共通のフォーマット。アナログでは16:9レターボックスで表示）。
       - テレビ放送開始当初から、少なくとも1980年代前半までは、全国各放送局共通で、モノクロの1枚画が使われ、[ブーメラン](../Page/ブーメラン.md "wikilink")を2枚重ねたような絵に白文字でコールサイン（JO○○）その横に黒でTV、更にその下に白文字で各放送局の親局のチャンネル番号（東京1、大阪2、札幌・仙台・名古屋・福岡3など）と、黒で当時のNHKロゴ、更にその下に（○○テレビジョン）と表示されていた。これは教育テレビジョン、および開局当初の衛星放送でも共通だった\[64\]。
-      - また、[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")の試験放送が行われていた時期にはデジタル総合に限り**「携帯端末向けサービスの試験電波発射中」**\[65\]との字幕も添えられていた。
+      - また、[ワンセグ](../Page/ワンセグ.md "wikilink")の試験放送が行われていた時期にはデジタル総合に限り**「携帯端末向けサービスの試験電波発射中」**\[65\]との字幕も添えられていた。
   - 旭川放送局…緑の自然（緑葉）の写真をバックにコールサイン表示。4:3表示でアナログのみ使用していた。元々は札幌放送局のフォーマットにコールサインとCH表記をしていたのが、札幌放送局が地上デジタル放送を開始したことに伴い変更された。旭川局のアナログ放送のID画面切り替えの際、一瞬画像が乱れることがあった。このIDは2011年7月24日のアナログテレビ放送終了とともに使用を終了した。なお、デジタル放送のIDは2007年10月1日の開始当初から上記と同じく全国共通のフォーマットである。
   - 仙台放送局…仙台城をバックに馬とコールサイン表示。
   - 山形放送局…緑の自然（緑葉）の写真をバックにコールサイン表示。コールサインは左下に表記。
@@ -826,7 +826,7 @@
 1.  NHK G:[地上デジタル放送](https://ja.wikipedia.org/wiki/地上デジタル放送 "wikilink")のチャンネル[アイコン](../Page/アイコン.md "wikilink")でも。
 2.  太田省一『紅白歌合戦と日本人』（[筑摩書房](../Page/筑摩書房.md "wikilink") 筑摩選書78 ISBN 4480015868、2013.11）、27頁。
 3.  『全記録 テレビ視聴率50年戦争―そのとき一億人が感動した』（引田惣弥・著、[講談社](../Page/講談社.md "wikilink")、2004年、ISBN 4062122227、116頁）
-4.  [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の年間の[全日](https://ja.wikipedia.org/wiki/全日 "wikilink")[視聴率](../Page/視聴率.md "wikilink")は、総合テレビと[TBSとが](../Page/TBSテレビ.md "wikilink")10.1%で同率1位であった。なお、この年（1978年）にはTBSが年間視聴率で3冠王を獲得している。
+4.  [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")の年間の[全日](../Page/全日.md "wikilink")[視聴率](../Page/視聴率.md "wikilink")は、総合テレビと[TBSとが](../Page/TBSテレビ.md "wikilink")10.1%で同率1位であった。なお、この年（1978年）にはTBSが年間視聴率で3冠王を獲得している。
 5.  [「よく見えますか」テレビ受像公開実験 （1939）](https://www.nhk.or.jp/strl/aboutstrl/evolution-of-tv/p09col_1.html) - 日本放送技術発達小史
 6.  [テレビドラマのはじまり 12分間の『夕餉前（ゆうげまえ）』](https://www.nhk.or.jp/strl/aboutstrl/evolution-of-tv/p09col_2.html) - 日本放送技術発達小史
 7.  [日本放送協会総合技術研究所『五十年史』(1981.03)](https://shashi.shibusawa.or.jp/details_nenpyo.php?sid=13410&query=&class=&d=all&page=48)
@@ -838,9 +838,9 @@
 13.
 14.
 15. [NHKアーカイブス](../Page/NHKアーカイブス.md "wikilink")のサイト「[アカイさん資料室](http://www.nhk.or.jp/archives/dataroom/)」([Adobe Flash必要](../Page/Adobe_Flash.md "wikilink")、2016年6月閲覧)で見られる[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")10月版の業務用の放送番組時刻表（[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")）に「総合テレビは全番組[カラー](../Page/カラーテレビ.md "wikilink")」の記載あり。
-16. NHKアーカイブスの番組表検索によると、番組の間に放送される「SB」（[ステーションブレイク](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")(ステブレ)編成。短い告知など）が10月9日までは[白黒で](../Page/白黒テレビ.md "wikilink")10日からカラーとなっており、「[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[年鑑](https://ja.wikipedia.org/wiki/年鑑 "wikilink")’11」の「放送史ミニ年表」では10月10日で全面カラー化としている。なお[新聞](../Page/新聞.md "wikilink")[縮刷版](https://ja.wikipedia.org/wiki/縮刷版 "wikilink")の[テレビ欄](https://ja.wikipedia.org/wiki/テレビ欄 "wikilink")によると『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』『[明るい農村](https://ja.wikipedia.org/wiki/明るい農村 "wikilink")』には、その後も白黒で放送された回が存在する。
+16. NHKアーカイブスの番組表検索によると、番組の間に放送される「SB」（[ステーションブレイク](https://ja.wikipedia.org/wiki/ステーションブレイク "wikilink")(ステブレ)編成。短い告知など）が10月9日までは[白黒で](../Page/白黒テレビ.md "wikilink")10日からカラーとなっており、「[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[年鑑](https://ja.wikipedia.org/wiki/年鑑 "wikilink")’11」の「放送史ミニ年表」では10月10日で全面カラー化としている。なお[新聞](../Page/新聞.md "wikilink")[縮刷版](https://ja.wikipedia.org/wiki/縮刷版 "wikilink")の[テレビ欄](https://ja.wikipedia.org/wiki/テレビ欄 "wikilink")によると『[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")』『[明るい農村](../Page/明るい農村.md "wikilink")』には、その後も白黒で放送された回が存在する。
 17. NHKアーカイブスの番組表検索によると、その後も番組の一部分が白黒で放送された記録があり、同年10月28日の「第26回[国民体育大会](../Page/国民体育大会.md "wikilink")秋季大会-第5日-」では[弓道](../Page/弓道.md "wikilink")が白黒（同枠内の[陸上競技](../Page/陸上競技.md "wikilink")はカラー）、各地方局が取材した地元の話題を紹介する『日本ところどころ』では1972年4月2日までの一部の回で、取り上げられた話題のうち1件が白黒で放送されている。その他、カラーの報道・情報番組の中で[沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")からの中継が白黒で行われた例があり、同検索で確認できるものでは1974年3月12日の「[日航機ハイジャック](https://ja.wikipedia.org/wiki/日本航空ハイジャック事件#日本航空903便ハイジャック事件 "wikilink")」が最後となっている。
-18. なお、[国会中継](https://ja.wikipedia.org/wiki/国会中継 "wikilink")や[高校野球](https://ja.wikipedia.org/wiki/高校野球 "wikilink")中継が行われた場合は休止時間帯でも放送されていた。
+18. なお、[国会中継](../Page/国会中継.md "wikilink")や[高校野球](https://ja.wikipedia.org/wiki/高校野球 "wikilink")中継が行われた場合は休止時間帯でも放送されていた。
 19. 金曜・土曜のみ。
 20. 早朝5時開始はこれ以前にも[夏休み](../Page/夏休み.md "wikilink")期間限定で行われていたことがある。深夜の日またぎも同様に[夏](../Page/夏休み.md "wikilink")・[冬](../Page/冬休み.md "wikilink")・[春休み](../Page/春休み.md "wikilink")に期間限定で実施されていたが、定時編成としては1993年4月から行われており、この時は0時から放送日の上での最終版[NHKニュース](../Page/NHKニュース.md "wikilink")を5分だけ流して放送終了となっていた。1995年の放送時間枠拡大で本格的に日またぎ編成を開始した。
 21. ただし原則として第1・3日曜としているが、第2・4・5日曜も局によって休止にする場合もある。

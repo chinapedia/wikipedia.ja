@@ -33,10 +33,10 @@
   - 原作：[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")
   - プロデューサー：清水祐美（テレビ朝日）、[小嶋雄嗣](https://ja.wikipedia.org/wiki/小嶋雄嗣 "wikilink")、加藤和夫、[丸山真哉](https://ja.wikipedia.org/wiki/丸山真哉 "wikilink")（東映）
   - 脚本：[西園悟](../Page/西園悟.md "wikilink")
-  - 音楽：[有澤孝紀](../Page/有澤孝紀.md "wikilink")、[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
-  - 撮影：[いのくままさお](https://ja.wikipedia.org/wiki/いのくままさお "wikilink")
-  - 助監督：[鈴村展弘](https://ja.wikipedia.org/wiki/鈴村展弘 "wikilink")
-  - 監督：[坂本太郎](https://ja.wikipedia.org/wiki/坂本太郎_\(テレビドラマ監督\) "wikilink")
+  - 音楽：[有澤孝紀](../Page/有澤孝紀.md "wikilink")、[菊池俊輔](../Page/菊池俊輔.md "wikilink")
+  - 撮影：[いのくままさお](../Page/いのくままさお.md "wikilink")
+  - 助監督：[鈴村展弘](../Page/鈴村展弘.md "wikilink")
+  - 監督：[坂本太郎](../Page/坂本太郎_\(テレビドラマ監督\).md "wikilink")
   - 制作協力：[テレビ朝日](../Page/テレビ朝日.md "wikilink")
   - 制作：[東映ビデオ](../Page/東映ビデオ.md "wikilink")、[東映](../Page/東映.md "wikilink")
 
@@ -66,7 +66,7 @@
   - ロボガシャ：[飛鳥井豊](../Page/飛鳥井豊.md "wikilink")
   - ロボパチ：[山口勝平](../Page/山口勝平.md "wikilink")
   - ロボブル：[大神いずみ](../Page/大神いずみ.md "wikilink")
-  - 秘密捜査官ロボコン：[山本圭子](https://ja.wikipedia.org/wiki/山本圭子 "wikilink")
+  - 秘密捜査官ロボコン：[山本圭子](../Page/山本圭子.md "wikilink")
   - ワーズ：[柴田秀勝](../Page/柴田秀勝.md "wikilink")
 
 ## 音楽
@@ -74,7 +74,7 @@
   - オープニングテーマ「燃えろ×4ロボコン\!\!」
     作詞：[近藤由華](https://ja.wikipedia.org/wiki/近藤由華 "wikilink") / 作曲：[有澤孝紀](../Page/有澤孝紀.md "wikilink") / 編曲：[猪股義周](https://ja.wikipedia.org/wiki/猪股義周 "wikilink") / 歌：[速水けんたろう](../Page/速水けんたろう.md "wikilink")
   - エンディングテーマ「がんばれロボコン」
-    作詞：[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink") / 作曲：[菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink") / 編曲：有澤孝紀 / 歌：[水木一郎](../Page/水木一郎.md "wikilink")
+    作詞：[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink") / 作曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink") / 編曲：有澤孝紀 / 歌：[水木一郎](../Page/水木一郎.md "wikilink")
 
 ## 関連商品
 

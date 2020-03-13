@@ -49,7 +49,7 @@
 
 ## 競合ソフトウェア
 
-  - [Final Cut Pro](https://ja.wikipedia.org/wiki/Final_Cut_Pro "wikilink") （アップル）
+  - [Final Cut Pro](../Page/Final_Cut_Pro.md "wikilink") （アップル）
   - [Avid Media Composer](https://ja.wikipedia.org/wiki/Avid_Media_Composer "wikilink") （アビッド）
   - [EDIUS Pro](../Page/EDIUS.md "wikilink") (グラスバレー)
   - [Vegas Pro](https://www.vegascreativesoftware.com/jp/) （Magix）

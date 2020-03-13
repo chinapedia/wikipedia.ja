@@ -30,17 +30,17 @@
   - [セルジオ越後](../Page/セルジオ越後.md "wikilink")
   - [富樫洋一](../Page/富樫洋一.md "wikilink")
   - [大下容子](../Page/大下容子.md "wikilink")（テレビ朝日アナウンサー）
-  - [清水圭](https://ja.wikipedia.org/wiki/清水圭 "wikilink") - 月に1回出演。
+  - [清水圭](../Page/清水圭.md "wikilink") - 月に1回出演。
 
 ## テーマ曲
 
-  - [刹那さを消せやしない](https://ja.wikipedia.org/wiki/刹那さを消せやしない/傷だらけを抱きしめて "wikilink")（[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")） - 日曜夕方時代のテーマ曲。
+  - [刹那さを消せやしない](https://ja.wikipedia.org/wiki/刹那さを消せやしない/傷だらけを抱きしめて "wikilink")（[T-BOLAN](../Page/T-BOLAN.md "wikilink")） - 日曜夕方時代のテーマ曲。
   - [Ready or not](../Page/Ready_or_not.md "wikilink") （[FEEL SO BAD](../Page/FEEL_SO_BAD.md "wikilink")）
   - [for dear](https://ja.wikipedia.org/wiki/for_dear "wikilink") （[黒夢](../Page/黒夢.md "wikilink")）
-  - [明日のStory](../Page/明日のStory.md "wikilink") （[MANISH](https://ja.wikipedia.org/wiki/MANISH "wikilink")）
+  - [明日のStory](../Page/明日のStory.md "wikilink") （[MANISH](../Page/MANISH.md "wikilink")）
   - [夢だけじゃ終わらない](https://ja.wikipedia.org/wiki/夢だけじゃ終わらない "wikilink")（[須藤あきら](https://ja.wikipedia.org/wiki/須藤あきら "wikilink")）
   - 遥かなる哀しみの果て（[REDIEAN;MODE](https://ja.wikipedia.org/wiki/REDIEAN;MODE "wikilink")）
-  - [Fly So High](https://ja.wikipedia.org/wiki/Fly_So_High "wikilink") （[松田樹利亜](https://ja.wikipedia.org/wiki/松田樹利亜 "wikilink")）
+  - [Fly So High](https://ja.wikipedia.org/wiki/Fly_So_High "wikilink") （[松田樹利亜](../Page/松田樹利亜.md "wikilink")）
   - NAKED BLUE （[CRAZE](../Page/CRAZE.md "wikilink")）
   - [太陽が燃えている](../Page/太陽が燃えている.md "wikilink")（[THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")）
   - after （[Eins:Vier](../Page/Eins:Vier.md "wikilink")）

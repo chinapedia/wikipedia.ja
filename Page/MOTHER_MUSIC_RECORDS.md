@@ -3,7 +3,7 @@
 
 『**MOTHER MUSIC RECORDS**』（マザーミュージックレコーズ）は、[TOKYO FMをキー局に](../Page/エフエム東京.md "wikilink")[JFN系](../Page/全国FM放送協議会.md "wikilink")38局をネットして放送していたワイド番組。各曜日を2パートに分けて放送。
 
-ナビゲーターは放送開始時は[福田明子](../Page/福田明子.md "wikilink")が担当していたが、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[菊池浬](https://ja.wikipedia.org/wiki/菊池浬 "wikilink")にバトンタッチされた。
+ナビゲーターは放送開始時は[福田明子](../Page/福田明子.md "wikilink")が担当していたが、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[菊池浬](https://ja.wikipedia.org/wiki/菊池浬 "wikilink")にバトンタッチされた。
 
 ## 概要
 
@@ -15,15 +15,15 @@
 
 かつての正式タイトルは「**MOTHER MUSIC RECORDS supported by [MITSUBISHI MOTORS](../Page/三菱自動車工業.md "wikilink")**」だったが、[三菱自動車のリコール隠し問題により三菱自動車はテレビ](../Page/三菱リコール隠し.md "wikilink")･ラジオでの[CM放映を全面中止しこの番組のスポンサーからも撤退](../Page/コマーシャルメッセージ.md "wikilink")。このあおりを受けTOKYO FMはタイトル変更を余儀なくされた。
 
-その後、三菱自動車はテレビでのCM放映は再開したが、ラジオでは再開できていない局があるためスポンサーに復帰していない状態が暫く続いたが、2013年4月に『[ピートのふしぎなガレージ](https://ja.wikipedia.org/wiki/ピートのふしぎなガレージ "wikilink")』で久々のラジオ番組の提供を再開した。 また、開始当初からのサブスポンサーだった[ブルボン](../Page/ブルボン.md "wikilink")と[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")が三菱自動車降板後のメインスポンサー、また[PTの為](https://ja.wikipedia.org/wiki/パーティシペーション "wikilink")、各局CMとなっている。
+その後、三菱自動車はテレビでのCM放映は再開したが、ラジオでは再開できていない局があるためスポンサーに復帰していない状態が暫く続いたが、2013年4月に『[ピートのふしぎなガレージ](https://ja.wikipedia.org/wiki/ピートのふしぎなガレージ "wikilink")』で久々のラジオ番組の提供を再開した。 また、開始当初からのサブスポンサーだった[ブルボン](../Page/ブルボン.md "wikilink")と[ヨドバシカメラ](../Page/ヨドバシカメラ.md "wikilink")が三菱自動車降板後のメインスポンサー、また[PTの為](../Page/パーティシペーション.md "wikilink")、各局CMとなっている。
 
-番組は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[9月](../Page/9月.md "wikilink")で終了し、後続番組『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』に引き継いだ。
+番組は[2005年](../Page/2005年.md "wikilink")[9月](../Page/9月.md "wikilink")で終了し、後続番組『[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink")』に引き継いだ。
 
 ## 担当とタイムテーブル（末期）
 
 **月曜日**
 
-  - 22:00 「[MONDAY MIC CHECK](https://ja.wikipedia.org/wiki/MONDAY_MIC_CHECK "wikilink")」 [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")
+  - 22:00 「[MONDAY MIC CHECK](https://ja.wikipedia.org/wiki/MONDAY_MIC_CHECK "wikilink")」 [RHYMESTER](../Page/RHYMESTER.md "wikilink")
   - 23:00 「NIGHT RANGER」 [ケツメイシ](../Page/ケツメイシ.md "wikilink")
 
 **火曜日**

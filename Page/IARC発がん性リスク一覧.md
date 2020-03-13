@@ -1,7 +1,7 @@
 > この記事は[IARC](https://ja.wikipedia.org/wiki/IARC)から翻訳されています。
 
 
-**IARC発がん性リスク一覧**は、[国際がん研究機関](https://ja.wikipedia.org/wiki/国際がん研究機関 "wikilink") (IARC) による[発がん性を有する対象の一覧である](../Page/発癌性.md "wikilink")。この表の見方は項目[発癌性](../Page/発癌性.md "wikilink")を参照のこと。2019年1月に、その名称が**IARC発がん性対象一覧**に変更された。その前文に示されるように、この一覧の分類法が、がんを発現させる蓋然性（probability）に基づくのではなく、その特性（capability）についての根拠の十全さに基づいていることに留意すべきである。\[1\]
+**IARC発がん性リスク一覧**は、[国際がん研究機関](../Page/国際がん研究機関.md "wikilink") (IARC) による[発がん性を有する対象の一覧である](../Page/発癌性.md "wikilink")。この表の見方は項目[発癌性](../Page/発癌性.md "wikilink")を参照のこと。2019年1月に、その名称が**IARC発がん性対象一覧**に変更された。その前文に示されるように、この一覧の分類法が、がんを発現させる蓋然性（probability）に基づくのではなく、その特性（capability）についての根拠の十全さに基づいていることに留意すべきである。\[1\]
 
 一部の項目については、最新の情報を反映していないおそれがある。最新の分類については IARC のウェブサイト [IARC Monographs Programme on the Evaluation of Carcinogenic Hazards to Humans](http://monographs.iarc.fr/) で確認されたい。
 
@@ -104,7 +104,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/シクロホスファミド" title="wikilink">シクロホスファミド</a> (Cyclophosphamide)</p></td>
+<td><p><a href="../Page/シクロホスファミド.md" title="wikilink">シクロホスファミド</a> (Cyclophosphamide)</p></td>
 <td><p>抗腫瘍剤</p></td>
 <td></td>
 </tr>
@@ -154,7 +154,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘリコバクター・ピロリ" title="wikilink">ヘリコバクター・ピロリ</a>感染 (Helicobacter pylori, infection with)</p></td>
+<td><p><a href="../Page/ヘリコバクター・ピロリ.md" title="wikilink">ヘリコバクター・ピロリ</a>感染 (Helicobacter pylori, infection with)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -169,7 +169,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ウマノスズクサ属.md" title="wikilink">ウマノスズクサ属</a>の植物を含有する<a href="https://ja.wikipedia.org/wiki/薬草" title="wikilink">薬草</a>療法 (Herbal remedies containing plant species of the genus Aristolochia)</p></td>
+<td><p><a href="../Page/ウマノスズクサ属.md" title="wikilink">ウマノスズクサ属</a>の植物を含有する<a href="../Page/薬草.md" title="wikilink">薬草</a>療法 (Herbal remedies containing plant species of the genus Aristolochia)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -405,7 +405,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/コールタール" title="wikilink">コールタール</a>残渣 (Coal-tar pitches)</p></td>
+<td><p><a href="../Page/コールタール.md" title="wikilink">コールタール</a>残渣 (Coal-tar pitches)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -505,7 +505,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マゼンタ" title="wikilink">マゼンタ</a>染料製造に従事 (Magenta, manufacture of)</p></td>
+<td><p><a href="../Page/マゼンタ.md" title="wikilink">マゼンタ</a>染料製造に従事 (Magenta, manufacture of)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -657,7 +657,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アクリロニトリル" title="wikilink">アクリロニトリル</a> (Acrylonitrile)</p></td>
+<td><p><a href="../Page/アクリロニトリル.md" title="wikilink">アクリロニトリル</a> (Acrylonitrile)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -777,7 +777,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/コーヒー酸" title="wikilink">コーヒー酸</a> (Caffeic acid)</p></td>
+<td><p><a href="../Page/コーヒー酸.md" title="wikilink">コーヒー酸</a> (Caffeic acid)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -792,7 +792,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/カテコール" title="wikilink">カテコール</a> (Catechol)</p></td>
+<td><p><a href="../Page/カテコール.md" title="wikilink">カテコール</a> (Catechol)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -982,7 +982,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/パラジクロロベンゼン" title="wikilink">パラジクロロベンゼン</a> (para-Dichlorobenzene)</p></td>
+<td><p><a href="../Page/パラジクロロベンゼン.md" title="wikilink">パラジクロロベンゼン</a> (para-Dichlorobenzene)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1112,7 +1112,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/エチルベンゼン" title="wikilink">エチルベンゼン</a> (Ethylbenzene)</p></td>
+<td><p><a href="../Page/エチルベンゼン.md" title="wikilink">エチルベンゼン</a> (Ethylbenzene)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1140,7 +1140,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/フラン_(化学)" title="wikilink">フラン</a> (Furan)</p></td>
+<td><p><a href="../Page/フラン_(化学).md" title="wikilink">フラン</a> (Furan)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1225,7 +1225,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/イソプレン" title="wikilink">イソプレン</a> (Isoprene)</p></td>
+<td><p><a href="../Page/イソプレン.md" title="wikilink">イソプレン</a> (Isoprene)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1240,7 +1240,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/マゼンタ" title="wikilink">マゼンタ</a> (Magenta)</p></td>
+<td><p><a href="../Page/マゼンタ.md" title="wikilink">マゼンタ</a> (Magenta)</p></td>
 <td><p>染料  </p></td>
 <td></td>
 </tr>
@@ -1300,7 +1300,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/メチルイソブチルケトン" title="wikilink">メチルイソブチルケトン</a> (methyl isobutyl ketone)</p></td>
+<td><p><a href="../Page/メチルイソブチルケトン.md" title="wikilink">メチルイソブチルケトン</a> (methyl isobutyl ketone)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1620,7 +1620,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/日本住血吸虫" title="wikilink">日本住血吸虫</a>感染 (Schistosoma japonicum (infection with))</p></td>
+<td><p><a href="../Page/日本住血吸虫.md" title="wikilink">日本住血吸虫</a>感染 (Schistosoma japonicum (infection with))</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1645,7 +1645,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/スチレン" title="wikilink">スチレン</a> (Styrene)</p></td>
+<td><p><a href="../Page/スチレン.md" title="wikilink">スチレン</a> (Styrene)</p></td>
 <td><p>Type3からType2Bへ昇格</p></td>
 <td></td>
 </tr>
@@ -1715,12 +1715,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/五酸化バナジウム" title="wikilink">五酸化バナジウム</a> (Vanadium pentoxide)</p></td>
+<td><p><a href="../Page/五酸化バナジウム.md" title="wikilink">五酸化バナジウム</a> (Vanadium pentoxide)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/酢酸ビニル" title="wikilink">酢酸ビニル</a> (Vinyl acetate)</p></td>
+<td><p><a href="../Page/酢酸ビニル.md" title="wikilink">酢酸ビニル</a> (Vinyl acetate)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1750,7 +1750,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p>減成した<a href="https://ja.wikipedia.org/wiki/カラギーナン" title="wikilink">カラギーナン</a> (Carrageenan, degraded)</p></td>
+<td><p>減成した<a href="../Page/カラギーナン.md" title="wikilink">カラギーナン</a> (Carrageenan, degraded)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1810,7 +1810,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ドライクリーニング" title="wikilink">ドライクリーニング</a>に従事 (Dry cleaning (occupational exposures in))</p></td>
+<td><p><a href="../Page/ドライクリーニング.md" title="wikilink">ドライクリーニング</a>に従事 (Dry cleaning (occupational exposures in))</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1876,7 +1876,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ABS樹脂" title="wikilink">ABS樹脂</a> (Acrylonitrile-butadiene-styrene copolymers)</p></td>
+<td><p><a href="../Page/ABS樹脂.md" title="wikilink">ABS樹脂</a> (Acrylonitrile-butadiene-styrene copolymers)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -1971,7 +1971,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アンピシリン" title="wikilink">アンピシリン</a> (Ampicillin)</p></td>
+<td><p><a href="../Page/アンピシリン.md" title="wikilink">アンピシリン</a> (Ampicillin)</p></td>
 <td><p>ペニシリン系抗生物質</p></td>
 <td></td>
 </tr>
@@ -2086,7 +2086,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フェナントレン" title="wikilink">(c)フェナントレン</a> ([c]phenanthrene)</p></td>
+<td><p><a href="../Page/フェナントレン.md" title="wikilink">(c)フェナントレン</a> ([c]phenanthrene)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2236,12 +2236,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>天然の<a href="https://ja.wikipedia.org/wiki/カラギーナン" title="wikilink">カラギーナン</a> (Carrageenan, native)</p></td>
+<td><p>天然の<a href="../Page/カラギーナン.md" title="wikilink">カラギーナン</a> (Carrageenan, native)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クロラミン" title="wikilink">クロラミン</a> (Chloramine)</p></td>
+<td><p><a href="../Page/クロラミン.md" title="wikilink">クロラミン</a> (Chloramine)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2306,7 +2306,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クロロキン" title="wikilink">クロロキン</a> (Chloroquine)</p></td>
+<td><p><a href="../Page/クロロキン.md" title="wikilink">クロロキン</a> (Chloroquine)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2321,7 +2321,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/コレステロール" title="wikilink">コレステロール</a> (Cholesterol)</p></td>
+<td><p><a href="../Page/コレステロール.md" title="wikilink">コレステロール</a> (Cholesterol)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2381,7 +2381,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/石炭.md" title="wikilink">石炭</a><a href="https://ja.wikipedia.org/wiki/粉塵" title="wikilink">粉塵</a> (Coal dust)</p></td>
+<td><p><a href="../Page/石炭.md" title="wikilink">石炭</a><a href="../Page/粉塵.md" title="wikilink">粉塵</a> (Coal dust)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2411,7 +2411,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/クロトンアルデヒド" title="wikilink">クロトンアルデヒド</a> (Crotonaldehyde)</p></td>
+<td><p><a href="../Page/クロトンアルデヒド.md" title="wikilink">クロトンアルデヒド</a> (Crotonaldehyde)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2661,7 +2661,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジスルフィラム" title="wikilink">ジスルフィラム</a> (Disulfiram)</p></td>
+<td><p><a href="../Page/ジスルフィラム.md" title="wikilink">ジスルフィラム</a> (Disulfiram)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2721,7 +2721,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/エスタゾラム" title="wikilink">エスタゾラム</a> (Estazolam)</p></td>
+<td><p><a href="../Page/エスタゾラム.md" title="wikilink">エスタゾラム</a> (Estazolam)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -2866,7 +2866,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/鉄鉱石" title="wikilink">鉄鉱石</a> (Haematite)</p></td>
+<td><p><a href="../Page/鉄鉱石.md" title="wikilink">鉄鉱石</a> (Haematite)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3016,7 +3016,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/コウジ酸" title="wikilink">コウジ酸</a> (Kojic acid)</p></td>
+<td><p><a href="../Page/コウジ酸.md" title="wikilink">コウジ酸</a> (Kojic acid)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3036,7 +3036,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/リモネン" title="wikilink">リモネン</a> (d-Limonene)</p></td>
+<td><p><a href="../Page/リモネン.md" title="wikilink">リモネン</a> (d-Limonene)</p></td>
 <td><p>Type2BからType3へ降格</p></td>
 <td></td>
 </tr>
@@ -3046,7 +3046,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アカネ" title="wikilink">アカネ</a>の根（セイヨウアカネ） (Madder root) (Rubia tinctorum)</p></td>
+<td><p><a href="../Page/アカネ.md" title="wikilink">アカネ</a>の根（セイヨウアカネ） (Madder root) (Rubia tinctorum)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3111,7 +3111,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/メトトレキサート" title="wikilink">メトトレキサート</a> (Methotrexate)</p></td>
+<td><p><a href="../Page/メトトレキサート.md" title="wikilink">メトトレキサート</a> (Methotrexate)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3236,7 +3236,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/メチルレッド" title="wikilink">メチルレッド</a> (Methyl red)</p></td>
+<td><p><a href="../Page/メチルレッド.md" title="wikilink">メチルレッド</a> (Methyl red)</p></td>
 <td><p>染料</p></td>
 <td></td>
 </tr>
@@ -3336,7 +3336,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1-ニトロナフタレン" title="wikilink">1-ニトロナフタレン</a> (1-Nitronaphthalene)</p></td>
+<td><p><a href="../Page/1-ニトロナフタレン.md" title="wikilink">1-ニトロナフタレン</a> (1-Nitronaphthalene)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3506,7 +3506,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/フェナントレン" title="wikilink">フェナントレン</a> (Phenanthrene)</p></td>
+<td><p><a href="../Page/フェナントレン.md" title="wikilink">フェナントレン</a> (Phenanthrene)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3596,12 +3596,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポリプロピレン" title="wikilink">ポリプロピレン</a> (Polypropylene)</p></td>
+<td><p><a href="../Page/ポリプロピレン.md" title="wikilink">ポリプロピレン</a> (Polypropylene)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポリスチレン" title="wikilink">ポリスチレン</a> (Polystyrene)</p></td>
+<td><p><a href="../Page/ポリスチレン.md" title="wikilink">ポリスチレン</a> (Polystyrene)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3611,17 +3611,17 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポリウレタン" title="wikilink">ポリウレタン</a>フォーム (Polyurethane foams)</p></td>
+<td><p><a href="../Page/ポリウレタン.md" title="wikilink">ポリウレタン</a>フォーム (Polyurethane foams)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポリ酢酸ビニル" title="wikilink">ポリ酢酸ビニル</a> (Polyvinyl acetate)</p></td>
+<td><p><a href="../Page/ポリ酢酸ビニル.md" title="wikilink">ポリ酢酸ビニル</a> (Polyvinyl acetate)</p></td>
 <td><p>接着剤</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ポリビニルアルコール" title="wikilink">ポリビニルアルコール</a> (Polyvinyl alcohol)</p></td>
+<td><p><a href="../Page/ポリビニルアルコール.md" title="wikilink">ポリビニルアルコール</a> (Polyvinyl alcohol)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3731,7 +3731,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/レゾルシノール" title="wikilink">レゾルシノール</a> (Resorcinol)</p></td>
+<td><p><a href="../Page/レゾルシノール.md" title="wikilink">レゾルシノール</a> (Resorcinol)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -3921,14 +3921,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/外科学" title="wikilink">外科</a><a href="https://ja.wikipedia.org/wiki/インプラント" title="wikilink">インプラント</a>およびその他の<a href="https://ja.wikipedia.org/wiki/異物" title="wikilink">異物</a> (Surgical implants and other foreign bodies) :<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/外科学" title="wikilink">外科</a><a href="../Page/インプラント.md" title="wikilink">インプラント</a>およびその他の<a href="https://ja.wikipedia.org/wiki/異物" title="wikilink">異物</a> (Surgical implants and other foreign bodies) :<br />
 - 有機高分子材料 (Organic polymeric materials) (as a group)<br />
-- 複合材料からなる<a href="https://ja.wikipedia.org/wiki/整形外科学" title="wikilink">整形外科用インプラント</a> (Orthopaedic implants of complex composition)<br />
+- 複合材料からなる<a href="../Page/整形外科学.md" title="wikilink">整形外科用インプラント</a> (Orthopaedic implants of complex composition)<br />
 - 心臓用<a href="../Page/心臓ペースメーカー.md" title="wikilink">ペースメーカー</a> (Cardiac pacemakers)<br />
-- <a href="https://ja.wikipedia.org/wiki/豊胸" title="wikilink">豊胸</a>用<a href="https://ja.wikipedia.org/wiki/シリコーン" title="wikilink">シリコーン</a> (Silicone breast implants)<br />
+- <a href="https://ja.wikipedia.org/wiki/豊胸" title="wikilink">豊胸</a>用<a href="../Page/シリコーン.md" title="wikilink">シリコーン</a> (Silicone breast implants)<br />
 - 金属<a href="../Page/クロム.md" title="wikilink">クロム</a>、金属<a href="../Page/チタン.md" title="wikilink">チタン</a>、<a href="../Page/コバルト.md" title="wikilink">コバルト</a>合金、クロム合金、チタン合金、<a href="https://ja.wikipedia.org/wiki/ステンレススチール" title="wikilink">ステンレススチール</a>、および<a href="../Page/劣化ウラン.md" title="wikilink">劣化ウラン</a>などでできた異物 (Implanted foreign bodies of metallic chromium or titanium and of cobalt-based, chromium-based and titanium-based alloys, stainless steel and depleted uranium)<br />
 - 歯科材料 (Dental materials)<br />
-- <a href="https://ja.wikipedia.org/wiki/セラミック" title="wikilink">セラミック</a><a href="https://ja.wikipedia.org/wiki/インプラント" title="wikilink">インプラント</a> (Ceramic implants)</p></td>
+- <a href="https://ja.wikipedia.org/wiki/セラミック" title="wikilink">セラミック</a><a href="../Page/インプラント.md" title="wikilink">インプラント</a> (Ceramic implants)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>
@@ -4133,7 +4133,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/塩化ビニル" title="wikilink">塩化ビニル</a>-<a href="https://ja.wikipedia.org/wiki/酢酸ビニル" title="wikilink">酢酸ビニル</a><a href="https://ja.wikipedia.org/wiki/共重合体" title="wikilink">共重合体</a> (Vinyl chloride-vinyl acetate copolymers)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/塩化ビニル" title="wikilink">塩化ビニル</a>-<a href="../Page/酢酸ビニル.md" title="wikilink">酢酸ビニル</a><a href="https://ja.wikipedia.org/wiki/共重合体" title="wikilink">共重合体</a> (Vinyl chloride-vinyl acetate copolymers)</p></td>
 <td><p> </p></td>
 <td></td>
 </tr>

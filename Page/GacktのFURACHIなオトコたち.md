@@ -1,11 +1,11 @@
 > この記事は[GacktFURACHI](https://ja.wikipedia.org/wiki/GacktFURACHI)から翻訳されています。
 
 
-**GacktのFURACHIなオトコたち**（がくとのふらちなおとこたち）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")、[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティーは](../Page/ラジオパーソナリティ.md "wikilink")、歌手の[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")。番組の略称は**ふらちお**。
+**GacktのFURACHIなオトコたち**（がくとのふらちなおとこたち）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")を[キーステーションに](https://ja.wikipedia.org/wiki/キー局 "wikilink")、[2003年](../Page/2003年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[パーソナリティーは](../Page/ラジオパーソナリティ.md "wikilink")、歌手の[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")。番組の略称は**ふらちお**。
 
 ## 概略
 
-[2002年](../Page/2002年.md "wikilink")4月から1年間担当していた[@llnightnippon.com](https://ja.wikipedia.org/wiki/@llnightnippon.com "wikilink")が2003年3月に終了したのに伴い、2003年4月から（ニッポン放送で）毎週土曜日の21:30～22:00の時間帯で放送開始となったこの番組はリスナーから寄せられた悩み事を“不埒”になって解決するという番組。CM前の[ジングルでは](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")『不埒になって既成概念を捨てて新しい発見を。』というフレーズをGacktが語るものもあった。
+[2002年](../Page/2002年.md "wikilink")4月から1年間担当していた[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")が2003年3月に終了したのに伴い、2003年4月から（ニッポン放送で）毎週土曜日の21:30～22:00の時間帯で放送開始となったこの番組はリスナーから寄せられた悩み事を“不埒”になって解決するという番組。CM前の[ジングルでは](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")『不埒になって既成概念を捨てて新しい発見を。』というフレーズをGacktが語るものもあった。
 
 番組内ではリスナーと電話をつなぐときもあるが、その際Gacktは「もしもし。」ではなく、「もりもり。」と声をかける。当然、リスナー側も「もりもり。」と返答をする。
 

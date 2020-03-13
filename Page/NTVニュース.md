@@ -18,7 +18,7 @@
       - [イブニングプレス donna](https://ja.wikipedia.org/wiki/イブニングプレス_donna "wikilink")（月曜日から木曜日までの15:50 - 15:55）
       - [朝日新聞ニュース](../Page/朝日新聞ニュース.md "wikilink")
       - [毎日新聞ニュース](../Page/毎日新聞ニュース.md "wikilink")
-      - [NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")
+      - [NNNニュース](../Page/NNNニュース.md "wikilink")
 
 ## 脚注
 

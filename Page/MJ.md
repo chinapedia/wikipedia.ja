@@ -28,15 +28,15 @@
   - 雑誌名・紙名
       - [日経MJ](../Page/日経MJ.md "wikilink") - [日本経済新聞社](../Page/日本経済新聞社.md "wikilink")の日刊紙
       - [月刊少年ジャンプ](../Page/月刊少年ジャンプ.md "wikilink") (Monthly Jump)
-      - [無線と実験](https://ja.wikipedia.org/wiki/無線と実験 "wikilink") - [誠文堂新光社](https://ja.wikipedia.org/wiki/誠文堂新光社 "wikilink")の月刊誌。
+      - [無線と実験](https://ja.wikipedia.org/wiki/無線と実験 "wikilink") - [誠文堂新光社](../Page/誠文堂新光社.md "wikilink")の月刊誌。
       - [模型情報](../Page/模型情報.md "wikilink") - [バンダイ](../Page/バンダイ.md "wikilink")の月刊誌（Monthly BANDAI Making Journal）。
-      - [月刊エムジェーマガジン](https://ja.wikipedia.org/wiki/月刊エムジェーマガジン "wikilink") - [中古車](https://ja.wikipedia.org/wiki/中古車 "wikilink")情報誌。
+      - [月刊エムジェーマガジン](https://ja.wikipedia.org/wiki/月刊エムジェーマガジン "wikilink") - [中古車](../Page/中古車.md "wikilink")情報誌。
           - 同誌の中古車情報サイト、[MJ.net](http://www.mjnet.co.jp/)。
   - 番組名
       - [マイティジャック](../Page/マイティジャック.md "wikilink") - [円谷プロのTV特撮ドラマ](../Page/円谷プロダクション.md "wikilink")。
       - [ミュージック・ジャンプ](../Page/ミュージック・ジャンプ.md "wikilink") - [NHK衛星第2の音楽バラエティ番組](../Page/NHK衛星第2テレビジョン.md "wikilink")。
       - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink") - [NHK総合テレビの音楽番組](../Page/NHK総合テレビジョン.md "wikilink")。
-      - [MJ -MUSIC JOURNAL-](https://ja.wikipedia.org/wiki/MJ_-MUSIC_JOURNAL- "wikilink") - [フジテレビの音楽番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
+      - [MJ -MUSIC JOURNAL-](../Page/MJ_-MUSIC_JOURNAL-.md "wikilink") - [フジテレビの音楽番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。
       - [ミッドナイト★ジャングル](https://ja.wikipedia.org/wiki/ミッドナイト★ジャングル "wikilink") - [FM OSAKAの深夜番組](../Page/エフエム大阪.md "wikilink")。
   - [セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")のシリーズ名
       - セガ四人打ち麻雀MJ
@@ -70,7 +70,7 @@
 <!-- end list -->
 
   - 店名
-      - 浅草MJ - [東京](../Page/東京都.md "wikilink")・[浅草](../Page/浅草.md "wikilink")にある、[東貴博](https://ja.wikipedia.org/wiki/東貴博 "wikilink")（[Take2](https://ja.wikipedia.org/wiki/Take2 "wikilink")）経営の[もんじゃ焼](https://ja.wikipedia.org/wiki/もんじゃ焼 "wikilink")店。[1](http://www.asakusa-mj.com/)
+      - 浅草MJ - [東京](../Page/東京都.md "wikilink")・[浅草](../Page/浅草.md "wikilink")にある、[東貴博](../Page/東貴博.md "wikilink")（[Take2](../Page/Take2.md "wikilink")）経営の[もんじゃ焼](https://ja.wikipedia.org/wiki/もんじゃ焼 "wikilink")店。[1](http://www.asakusa-mj.com/)
 
 <!-- end list -->
 
@@ -85,7 +85,7 @@
           - [皆川純子](../Page/皆川純子.md "wikilink") - 声優
           - [松本潤](../Page/松本潤.md "wikilink") - アイドル（[嵐](../Page/嵐_\(グループ\).md "wikilink")）
           - [松井珠理奈](https://ja.wikipedia.org/wiki/松井珠理奈 "wikilink") - アイドル（[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")）
-      - MJブロンディ - 自動車評論家、[清水草一](https://ja.wikipedia.org/wiki/清水草一 "wikilink")の別名。
+      - MJブロンディ - 自動車評論家、[清水草一](../Page/清水草一.md "wikilink")の別名。
       - [鄭夢準](../Page/鄭夢準.md "wikilink")の愛称。
 
 ## フィクションのことがら

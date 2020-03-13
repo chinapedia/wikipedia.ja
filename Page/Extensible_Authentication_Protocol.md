@@ -16,7 +16,7 @@
 
 ## 利用例
 
-EAPは[LANにおけるユーザー認証の規格である](../Page/Local_Area_Network.md "wikilink")[IEEE 802.1Xに採用されている](https://ja.wikipedia.org/wiki/IEEE_802.1X "wikilink")。 特に[無線LAN](../Page/無線LAN.md "wikilink")においては、電波を通信媒体としている為に無断利用が問題視されており、この解決方法として[IEEE 802.11i等の規格に採用された](https://ja.wikipedia.org/wiki/IEEE_802.11#IEEE_802.11i "wikilink")。
+EAPは[LANにおけるユーザー認証の規格である](../Page/Local_Area_Network.md "wikilink")[IEEE 802.1Xに採用されている](../Page/IEEE_802.1X.md "wikilink")。 特に[無線LAN](../Page/無線LAN.md "wikilink")においては、電波を通信媒体としている為に無断利用が問題視されており、この解決方法として[IEEE 802.11i等の規格に採用された](https://ja.wikipedia.org/wiki/IEEE_802.11#IEEE_802.11i "wikilink")。
 
 ## 関連項目
 

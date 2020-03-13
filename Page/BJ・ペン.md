@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:HughesPenn-faceoff.jpg "wikilink")
 
-**ジェイ・ディー・"B.J."・ペン III**（**Jay Dee Penn III**、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")、[柔術家](../Page/ブラジリアン柔術.md "wikilink")。[ハワイ州](../Page/ハワイ州.md "wikilink")[カイルア出身](https://ja.wikipedia.org/wiki/カイルア_\(ハワイ州ホノルル郡\) "wikilink")。BJ・ペンズMMA主宰。元[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")世界[ライト級](../Page/ライト級.md "wikilink")王者。元UFC世界[ウェルター級](https://ja.wikipedia.org/wiki/ウェルター級 "wikilink")王者。UFC史上2人目の二階級制覇王者。UFC[ホール・オブ・フェイマー](https://ja.wikipedia.org/wiki/UFC殿堂 "wikilink")。
+**ジェイ・ディー・"B.J."・ペン III**（**Jay Dee Penn III**、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")、[柔術家](../Page/ブラジリアン柔術.md "wikilink")。[ハワイ州](../Page/ハワイ州.md "wikilink")[カイルア出身](https://ja.wikipedia.org/wiki/カイルア_\(ハワイ州ホノルル郡\) "wikilink")。BJ・ペンズMMA主宰。元[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")世界[ライト級](../Page/ライト級.md "wikilink")王者。元UFC世界[ウェルター級](../Page/ウェルター級.md "wikilink")王者。UFC史上2人目の二階級制覇王者。UFC[ホール・オブ・フェイマー](https://ja.wikipedia.org/wiki/UFC殿堂 "wikilink")。
 
 史上初めて[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")以外で[柔術世界選手権を優勝した選手](../Page/世界柔術選手権.md "wikilink")。寝技だけでなく、名ボクシングトレーナーの[フレディ・ローチ](../Page/フレディ・ローチ.md "wikilink")から絶賛されるほど優れた[ボクシング](../Page/ボクシング.md "wikilink")技術も持つ。また、UFCでライト級とウェルター級の2階級制覇を達成しただけでなく、自身の適性階級より遥かに重い[ミドル級](../Page/ミドル級.md "wikilink")、[ライトヘビー級](../Page/ライトヘビー級.md "wikilink")でも強豪と互角以上に渡り合った。
 
@@ -23,7 +23,7 @@
 
 [2003年](../Page/2003年.md "wikilink")2月28日、[UFC 41のライト級王座決定トーナメント決勝戦で](../Page/UFC_41.md "wikilink")[宇野薫](../Page/宇野薫.md "wikilink")と再戦し、1-1の判定で引き分け王座獲得はならなかった。
 
-2003年10月10日、地元ハワイの[Rumble on the Rock 4で](../Page/Rumble_on_the_Rock.md "wikilink")[五味隆典](https://ja.wikipedia.org/wiki/五味隆典 "wikilink")と対戦。3Rに[チョークスリーパーによる一本勝ち](../Page/裸絞.md "wikilink")。五味は「試合したら怖いと思うのはBJくらい」と語っている\[2\]。
+2003年10月10日、地元ハワイの[Rumble on the Rock 4で](../Page/Rumble_on_the_Rock.md "wikilink")[五味隆典](../Page/五味隆典.md "wikilink")と対戦。3Rに[チョークスリーパーによる一本勝ち](../Page/裸絞.md "wikilink")。五味は「試合したら怖いと思うのはBJくらい」と語っている\[2\]。
 
 [2004年](../Page/2004年.md "wikilink")1月31日、階級をウェルター級に上げ[UFC 46のUFCF世界ウェルター級タイトルマッチで王者の](../Page/UFC_46.md "wikilink")[マット・ヒューズ](../Page/マット・ヒューズ.md "wikilink")に挑戦し、当時ウェルター級で敵無しだったヒューズを圧倒し1Rにチョークスリーパーで破る番狂わせで王座獲得に成功した。
 
@@ -33,7 +33,7 @@ UFCに対戦する意味のある相手がもう残っていないとして[K-1]
 
 2004年11月20日、Rumble on the Rock 6で[ホドリゴ・グレイシー](../Page/ホドリゴ・グレイシー.md "wikilink")とミドル級契約で対戦し、判定勝ちを収めた。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月26日、[HERO'S](../Page/HERO'S.md "wikilink")旗揚げ戦において[無差別級](../Page/無差別級.md "wikilink")契約で[リョート・マチダ](../Page/リョート・マチダ.md "wikilink")と対戦。マスト方式の判定0-3で敗れたものの、102kgのマチダに対しペンは86.5kgと15.5kgの体重差があるにもかかわらず互角に渡り合った\[3\]。
+[2005年](../Page/2005年.md "wikilink")3月26日、[HERO'S](../Page/HERO'S.md "wikilink")旗揚げ戦において[無差別級](../Page/無差別級.md "wikilink")契約で[リョート・マチダ](../Page/リョート・マチダ.md "wikilink")と対戦。マスト方式の判定0-3で敗れたものの、102kgのマチダに対しペンは86.5kgと15.5kgの体重差があるにもかかわらず互角に渡り合った\[3\]。
 
 2005年7月29日、 K-1 WORLD GP 2005 in HAWAIIで[ヘンゾ・グレイシー](../Page/ヘンゾ・グレイシー.md "wikilink")とミドル級契約で対戦し、判定勝ちを収めた。
 
@@ -90,17 +90,17 @@ UFCに対戦する意味のある相手がもう残っていないとして[K-1]
 ## 人物・エピソード
 
   - ニックネーム"**B.J.**"の由来は、ペンの両親はペンの兄弟3人にジェイ・ディー・ペン（それぞれI世、II世、III世）と名付けており、その中で最年少であるペンは"**Baby Jay**"（ベイビー・ジェイ）と呼ばれていたが、そのニックネームを短縮したものである。
-  - 2004年にUFCを離脱して[FEG](../Page/FEG.md "wikilink")と契約してからUFCに復帰するまでの間は[無差別級](../Page/無差別級.md "wikilink")世界最強を目指して階級を上げていた。[ミドル級](../Page/ミドル級.md "wikilink")の[ホドリゴ・グレイシー](../Page/ホドリゴ・グレイシー.md "wikilink")に寝技で完封勝ちし、[ライトヘビー級](../Page/ライトヘビー級.md "wikilink")で無敗を誇る[リョート・マチダ](../Page/リョート・マチダ.md "wikilink")と無差別級契約で対戦して15kg以上の体重差をものともせずに互角に渡り合う活躍を見せ、さらには[ヘビー級](../Page/ヘビー級.md "wikilink")の[藤田和之](https://ja.wikipedia.org/wiki/藤田和之 "wikilink")との対戦を要求するなど、階級を上げても恐れ知らずな姿勢は変わらなかった。
-  - [山本"KID"徳郁と親交が深い](https://ja.wikipedia.org/wiki/山本徳郁 "wikilink")。一緒に練習した際にKIDは「BJは強い。特に寝技のスパーリングでは一回も勝てなかった」と苦笑交じりに語っている\[18\]。
+  - 2004年にUFCを離脱して[FEG](../Page/FEG.md "wikilink")と契約してからUFCに復帰するまでの間は[無差別級](../Page/無差別級.md "wikilink")世界最強を目指して階級を上げていた。[ミドル級](../Page/ミドル級.md "wikilink")の[ホドリゴ・グレイシー](../Page/ホドリゴ・グレイシー.md "wikilink")に寝技で完封勝ちし、[ライトヘビー級](../Page/ライトヘビー級.md "wikilink")で無敗を誇る[リョート・マチダ](../Page/リョート・マチダ.md "wikilink")と無差別級契約で対戦して15kg以上の体重差をものともせずに互角に渡り合う活躍を見せ、さらには[ヘビー級](../Page/ヘビー級.md "wikilink")の[藤田和之](../Page/藤田和之.md "wikilink")との対戦を要求するなど、階級を上げても恐れ知らずな姿勢は変わらなかった。
+  - [山本"KID"徳郁と親交が深い](../Page/山本徳郁.md "wikilink")。一緒に練習した際にKIDは「BJは強い。特に寝技のスパーリングでは一回も勝てなかった」と苦笑交じりに語っている\[18\]。
   - [ボクシング](../Page/ボクシング.md "wikilink")史上に残る名トレーナーである[フレディ・ローチ](../Page/フレディ・ローチ.md "wikilink")が「私がこれまで見た[MMAファイターの中でもBJ](../Page/総合格闘技.md "wikilink")・ペンはベスト[ストライカーだ](https://ja.wikipedia.org/wiki/ストライカー_\(格闘技\) "wikilink")」とペンのボクシング技術を絶賛している\[19\]。
-  - 2005年5月7日、[Rumble on the Rock 7の大会終了後に](../Page/Rumble_on_the_Rock.md "wikilink")[パーティ](https://ja.wikipedia.org/wiki/パーティ "wikilink")が行われていた[ワイキキ](https://ja.wikipedia.org/wiki/ワイキキ "wikilink")の[ナイトクラブ](https://ja.wikipedia.org/wiki/ナイトクラブ "wikilink")の外で[警察官](../Page/警察官.md "wikilink")に暴行を働いたとして[逮捕](../Page/逮捕.md "wikilink")された\[20\]\[21\]。ペンの[弁護士](../Page/弁護士.md "wikilink")によると、ペンは彼の兄弟を騒ぎから救おうとしていて、群衆に入るために誰かを彼の側の方に押しやったところ、それがたまたま警官だったとのこと\[22\]。ペンは2007年8月に告訴に対する申し立てをせず、2007年12月11日に1年の[執行猶予](../Page/執行猶予.md "wikilink")を受けた\[23\]。
+  - 2005年5月7日、[Rumble on the Rock 7の大会終了後に](../Page/Rumble_on_the_Rock.md "wikilink")[パーティ](../Page/パーティ.md "wikilink")が行われていた[ワイキキ](../Page/ワイキキ.md "wikilink")の[ナイトクラブ](../Page/ナイトクラブ.md "wikilink")の外で[警察官](../Page/警察官.md "wikilink")に暴行を働いたとして[逮捕](../Page/逮捕.md "wikilink")された\[20\]\[21\]。ペンの[弁護士](../Page/弁護士.md "wikilink")によると、ペンは彼の兄弟を騒ぎから救おうとしていて、群衆に入るために誰かを彼の側の方に押しやったところ、それがたまたま警官だったとのこと\[22\]。ペンは2007年8月に告訴に対する申し立てをせず、2007年12月11日に1年の[執行猶予](../Page/執行猶予.md "wikilink")を受けた\[23\]。
 
 ## 戦績
 
 ## 獲得タイトル
 
   - [世界柔術選手権](../Page/世界柔術選手権.md "wikilink") 黒帯ペナ級 優勝（2000年）
-  - 第4代[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")世界[ウェルター級](https://ja.wikipedia.org/wiki/ウェルター級 "wikilink")王座（2004年）
+  - 第4代[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")世界[ウェルター級](../Page/ウェルター級.md "wikilink")王座（2004年）
   - 第3代UFC世界[ライト級](../Page/ライト級.md "wikilink")王座（2008年）
 
 ## 表彰
@@ -218,7 +218,7 @@ UFCに対戦する意味のある相手がもう残っていないとして[K-1]
   - [男子総合格闘家一覧](../Page/男子総合格闘家一覧.md "wikilink")
   - [ブラジリアン柔術家一覧](https://ja.wikipedia.org/wiki/ブラジリアン柔術家一覧 "wikilink")
   - [HERO'S選手一覧](../Page/HERO'S選手一覧.md "wikilink")
-  - [UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧 "wikilink")
+  - [UFC王者一覧](../Page/UFC王者一覧.md "wikilink")
   - [UFC選手一覧](../Page/UFC選手一覧.md "wikilink")
 
 ## 外部リンク

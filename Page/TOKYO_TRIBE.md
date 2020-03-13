@@ -20,7 +20,7 @@
 
 ## 関連作品
 
-  - [TOKYO TRIBE2](https://ja.wikipedia.org/wiki/TOKYO_TRIBE2 "wikilink")
+  - [TOKYO TRIBE2](../Page/TOKYO_TRIBE2.md "wikilink")
   - [TOKYO TRIBE2 SpinOff](https://ja.wikipedia.org/wiki/TOKYO_TRIBE2_SpinOff "wikilink")
   - [TOKYO TRIBE3](https://ja.wikipedia.org/wiki/TOKYO_TRIBE3 "wikilink")
   - [TOKYO GRAFFITI](https://ja.wikipedia.org/wiki/TOKYO_GRAFFITI "wikilink")
@@ -29,11 +29,11 @@
 
 ## 関連項目
 
-  - [不良行為少年](https://ja.wikipedia.org/wiki/不良行為少年 "wikilink")（不良少年）
+  - [不良行為少年](../Page/不良行為少年.md "wikilink")（不良少年）
   - [ギャング](../Page/ギャング.md "wikilink")
   - [ヤンキー](../Page/ヤンキー_\(不良少年\).md "wikilink")
-  - [ストリートギャング](https://ja.wikipedia.org/wiki/ストリートギャング "wikilink")
-  - [チーマー](https://ja.wikipedia.org/wiki/チーマー "wikilink")
+  - [ストリートギャング](../Page/ストリートギャング.md "wikilink")
+  - [チーマー](../Page/チーマー.md "wikilink")
 
 ## 刊行書
 

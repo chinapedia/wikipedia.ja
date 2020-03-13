@@ -11,10 +11,10 @@
   - 翌年[2000年](../Page/2000年.md "wikilink")に上京。[インディーズ](../Page/インディーズ.md "wikilink")レーベルよりマキシシングル・ミニアルバムを発表し、2001年にファーストアルバム『パラダイス』を発表。インディーズ時代、毎週末は新宿、渋谷、横浜、千葉、柏とあらゆる箇所でストリートライブ活動をする。
   - [2002年](../Page/2002年.md "wikilink")1月、吉田大作が脱退。現在の体制となる。
   - [2003年](../Page/2003年.md "wikilink")、[ラジオ番組](../Page/ラジオ番組.md "wikilink")「FMトライアングル・スーパーオーディション」でグランプリを獲得。
-  - [2004年](../Page/2004年.md "wikilink")2月に、元[LINDBERG](../Page/LINDBERG.md "wikilink")の[平川達也](../Page/平川達也.md "wikilink")をプロデューサに迎え、[プラティア・エンタテインメント](https://ja.wikipedia.org/wiki/プラティア・エンタテインメント "wikilink")から『イエスタデイ』（メジャー盤）で[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。8万枚のスマッシュヒットとなった。この曲を元に[小栗旬](https://ja.wikipedia.org/wiki/小栗旬 "wikilink")出演のオリジナルドラマも作られた。
+  - [2004年](../Page/2004年.md "wikilink")2月に、元[LINDBERG](../Page/LINDBERG.md "wikilink")の[平川達也](../Page/平川達也.md "wikilink")をプロデューサに迎え、[プラティア・エンタテインメント](https://ja.wikipedia.org/wiki/プラティア・エンタテインメント "wikilink")から『イエスタデイ』（メジャー盤）で[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。8万枚のスマッシュヒットとなった。この曲を元に[小栗旬](../Page/小栗旬.md "wikilink")出演のオリジナルドラマも作られた。
   - 同年4月メジャー1stアルバム『Silent pictures』を発表。同年7月2ndシングル「アンバランス」リリース。このシングルは[フジテレビ系列の番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[めざましTV](https://ja.wikipedia.org/wiki/めざましTV "wikilink")」のタイアップにもなった楽曲「[手のひらを太陽に](https://ja.wikipedia.org/wiki/手のひらを太陽に "wikilink")」も収録。
   - 2005年シングル『かげぼうし』（PV出演は[臼田あさ美](https://ja.wikipedia.org/wiki/臼田あさ美 "wikilink")）,アルバム『君がいる場所』リリース。
-  - その後レーベルを[（旧プラティア・エンタテインメント）から](https://ja.wikipedia.org/wiki/ミューチャー・コミュニケーションズ "wikilink")[FOR-SIDE TUNEと所属を変える](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")。所属事務所は[ユークリッドエージェンシー](https://ja.wikipedia.org/wiki/ユークリッドエージェンシー "wikilink")だったが、離籍した。
+  - その後レーベルを[（旧プラティア・エンタテインメント）から](../Page/ミューチャー・コミュニケーションズ.md "wikilink")[FOR-SIDE TUNEと所属を変える](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")。所属事務所は[ユークリッドエージェンシー](https://ja.wikipedia.org/wiki/ユークリッドエージェンシー "wikilink")だったが、離籍した。
   - [2007年](../Page/2007年.md "wikilink")シングル　「Diary」（PV監督はYUKIや宇多田ヒカルも手がける[野田凪](../Page/野田凪.md "wikilink")）、「Don't look back」、「君の存在」リリース。アルバム「Transit camp」リリース。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月8日](../Page/6月8日.md "wikilink")原宿アストロホールでのワンマンライブを以ってライブ活動休止（事実上の活動休止）を発表。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")ライブ活動休止中に[9月4日](../Page/9月4日.md "wikilink")完全自主制作シングル「夢旅 / One to One」を発売。
@@ -33,10 +33,10 @@
   - 足土 貴英（あづち たかひで）
     [ベースギター担当](../Page/エレクトリックベース.md "wikilink") 1979年[4月2日](../Page/4月2日.md "wikilink")、愛知県あま市生まれ。中学時代に加藤と出会い音楽に目覚め、ギターを手にするが、その後ベースに転向。
     [柴咲コウ](https://ja.wikipedia.org/wiki/柴咲コウ "wikilink")の「[無形スピリット](https://ja.wikipedia.org/wiki/無形スピリット "wikilink")」のアレンジ、[ビビアンスー](https://ja.wikipedia.org/wiki/ビビアンスー "wikilink")の「MY LOVE」作曲編曲、 [LM.C](../Page/LM.C.md "wikilink")「[JOHN](https://ja.wikipedia.org/wiki/JOHN "wikilink")」ベースRecにて参加。
-    [ウイニングイレブン](https://ja.wikipedia.org/wiki/ウイニングイレブン "wikilink")BGM担当。[DECO27](https://ja.wikipedia.org/wiki/DECO27 "wikilink")、[あやまんJAPAN](https://ja.wikipedia.org/wiki/あやまんJAPAN "wikilink")、[パクヘジン](https://ja.wikipedia.org/wiki/パクヘジン "wikilink")など制作に参加。
+    [ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")BGM担当。[DECO27](https://ja.wikipedia.org/wiki/DECO27 "wikilink")、[あやまんJAPAN](https://ja.wikipedia.org/wiki/あやまんJAPAN "wikilink")、[パクヘジン](https://ja.wikipedia.org/wiki/パクヘジン "wikilink")など制作に参加。
     [ZZ](https://ja.wikipedia.org/wiki/ZZ "wikilink"),VoのSotaro、[Dust BoxのDr](https://ja.wikipedia.org/wiki/Dust_Box "wikilink"):REIJIなどとパンクバンド:AMIDA ADDICT(こちらはギターで参加）結成（現在活動は不明）
     [ARIA ASIAのBassとしてFUJI](https://ja.wikipedia.org/wiki/ARIA_ASIA "wikilink") ROCK FESTIVAL、MIYAKO ISLAND FESTIVALなどにも出演。
-    他[Red Pepper Girls](https://ja.wikipedia.org/wiki/レッド・ペッパー・ガールズ "wikilink")、[STRAY PIG VANGUARDのサポートとして活動](https://ja.wikipedia.org/wiki/STRAY_PIG_VANGUARD "wikilink")。
+    他[Red Pepper Girls](https://ja.wikipedia.org/wiki/レッド・ペッパー・ガールズ "wikilink")、[STRAY PIG VANGUARDのサポートとして活動](../Page/STRAY_PIG_VANGUARD.md "wikilink")。
 
 <!-- end list -->
 
@@ -48,7 +48,7 @@
 ## サポートメンバー
 
   - ターキー（本名：細川 央行（ほそかわ たかゆき）、[1973年](../Page/1973年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink") - ）
-    [ドラム担当](../Page/ドラムセット.md "wikilink")。元[GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")
+    [ドラム担当](../Page/ドラムセット.md "wikilink")。元[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")
   - 荒幡亮平（あらはた りょうへい、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - ）
     キーボード担当。
   - 高田政良（たかだ まさよし [1977年](../Page/1977年.md "wikilink")[5月15日](../Page/5月15日.md "wikilink") - )
@@ -92,7 +92,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/かげぼうし_(sacraの曲)" title="wikilink">かげぼうし</a></strong></p></td>
 <td><p>PYCM-8</p></td>
 <td><p>50位</p></td>
@@ -154,7 +154,7 @@ BARE-45[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
 <td><p><strong><a href="../Page/君がいる場所_(アルバム).md" title="wikilink">君がいる場所</a></strong></p></td>
 <td><p>PYCE-6</p></td>
 <td><p>58位</p></td>
@@ -297,20 +297,20 @@ BARE-0016[7]。</p></td>
 
 **太文字**はA面
 
-| 楽曲                                                                                                                                                                               | タイアップ                                                                                                                                                                                                                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| identity                                                                                                                                                                         | アニメ[陸奥圓明流外伝 修羅の刻オープニングテーマ曲](../Page/陸奥圓明流外伝_修羅の刻.md "wikilink")                                                                                                                                                                                |
-| **アンバランス**                                                                                                                                                                       | [北海道マラソン](https://ja.wikipedia.org/wiki/北海道マラソン "wikilink")2004テーマ曲                                                                                                                                                                            |
-| 手のひらを太陽に                                                                                                                                                                         | 『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』2004年6月度テーマソング                                                                                                                                                                    |
-| **かげぼうし**                                                                                                                                                                        | 『[おぎやはぎnoだっぴんぐ](../Page/おぎやはぎnoだっぴんぐ.md "wikilink")』エンディングテーマ曲                                                                                                                                                                                 |
-| **Diary**                                                                                                                                                                        | 『I Love Music MAX（[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")）』2006年10月度エンディングテーマ曲                                                                                                                                                        |
-| **don't look back**                                                                                                                                                              | 『I Love Music MAX』2006年11月度エンディングテーマ曲                                                                                                                                                                                                          |
-| 『[MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")[I LOVE MUSIC CONNECT](https://ja.wikipedia.org/wiki/I_LOVE_MUSIC_CONNECT "wikilink")』2006年11月度エンディングテーマ曲 |                                                                                                                                                                                                                                                |
-| エンドレス・ループ                                                                                                                                                                        | テレビドラマ『[半分の月がのぼる空](https://ja.wikipedia.org/wiki/半分の月がのぼる空#テレビドラマ "wikilink")』オープニングテーマ曲                                                                                                                                                       |
-| **君の存在**                                                                                                                                                                         | 『I Love Music MAX』2006年12月度エンディングテーマ曲                                                                                                                                                                                                          |
-| 『MUSIC ON\! TV I LOVE MUSIC CONNECT』2006年12月度エンディングテーマ曲                                                                                                                          |                                                                                                                                                                                                                                                |
-| 閃光                                                                                                                                                                               | テレビドラマ『[しにがみのバラッド。](https://ja.wikipedia.org/wiki/しにがみのバラッド。#テレビドラマ "wikilink")』オープニングテーマ曲                                                                                                                                                     |
-| 5年後のマイセルフ                                                                                                                                                                        | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列](https://ja.wikipedia.org/wiki/TXN "wikilink")[紀行番組](https://ja.wikipedia.org/wiki/紀行番組 "wikilink")『[釣りロマンを求めて](https://ja.wikipedia.org/wiki/釣りロマンを求めて "wikilink")』10月クール番組エンディング曲 |
+| 楽曲                                                                                                                                                            | タイアップ                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| identity                                                                                                                                                      | アニメ[陸奥圓明流外伝 修羅の刻オープニングテーマ曲](../Page/陸奥圓明流外伝_修羅の刻.md "wikilink")                                                                                                                                                             |
+| **アンバランス**                                                                                                                                                    | [北海道マラソン](../Page/北海道マラソン.md "wikilink")2004テーマ曲                                                                                                                                                                            |
+| 手のひらを太陽に                                                                                                                                                      | 『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』2004年6月度テーマソング                                                                                                                                                 |
+| **かげぼうし**                                                                                                                                                     | 『[おぎやはぎnoだっぴんぐ](../Page/おぎやはぎnoだっぴんぐ.md "wikilink")』エンディングテーマ曲                                                                                                                                                              |
+| **Diary**                                                                                                                                                     | 『I Love Music MAX（[東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink")）』2006年10月度エンディングテーマ曲                                                                                                                                     |
+| **don't look back**                                                                                                                                           | 『I Love Music MAX』2006年11月度エンディングテーマ曲                                                                                                                                                                                       |
+| 『[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")[I LOVE MUSIC CONNECT](https://ja.wikipedia.org/wiki/I_LOVE_MUSIC_CONNECT "wikilink")』2006年11月度エンディングテーマ曲 |                                                                                                                                                                                                                             |
+| エンドレス・ループ                                                                                                                                                     | テレビドラマ『[半分の月がのぼる空](https://ja.wikipedia.org/wiki/半分の月がのぼる空#テレビドラマ "wikilink")』オープニングテーマ曲                                                                                                                                    |
+| **君の存在**                                                                                                                                                      | 『I Love Music MAX』2006年12月度エンディングテーマ曲                                                                                                                                                                                       |
+| 『MUSIC ON\! TV I LOVE MUSIC CONNECT』2006年12月度エンディングテーマ曲                                                                                                       |                                                                                                                                                                                                                             |
+| 閃光                                                                                                                                                            | テレビドラマ『[しにがみのバラッド。](https://ja.wikipedia.org/wiki/しにがみのバラッド。#テレビドラマ "wikilink")』オープニングテーマ曲                                                                                                                                  |
+| 5年後のマイセルフ                                                                                                                                                     | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系列](https://ja.wikipedia.org/wiki/TXN "wikilink")[紀行番組](../Page/紀行番組.md "wikilink")『[釣りロマンを求めて](https://ja.wikipedia.org/wiki/釣りロマンを求めて "wikilink")』10月クール番組エンディング曲 |
 
 ## 出演
 

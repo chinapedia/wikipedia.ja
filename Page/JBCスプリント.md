@@ -129,7 +129,7 @@
 <td><p>牡4</p></td>
 <td><p><a href="../Page/日本中央競馬会.md" title="wikilink">JRA</a></p></td>
 <td><p>1:11.1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/蛯名正義" title="wikilink">蛯名正義</a></p></td>
+<td><p><a href="../Page/蛯名正義.md" title="wikilink">蛯名正義</a></p></td>
 <td><p><a href="../Page/森秀行.md" title="wikilink">森秀行</a></p></td>
 <td><p>（有）池ばた</p></td>
 </tr>
@@ -143,7 +143,7 @@
 <td><p>牡5</p></td>
 <td><p>JRA</p></td>
 <td><p>1:11.4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/福永祐一" title="wikilink">福永祐一</a></p></td>
+<td><p><a href="../Page/福永祐一.md" title="wikilink">福永祐一</a></p></td>
 <td><p><a href="../Page/北橋修二.md" title="wikilink">北橋修二</a></p></td>
 <td><p>（株）協栄</p></td>
 </tr>
@@ -283,7 +283,7 @@
 <td><p>牡5</p></td>
 <td><p>JRA</p></td>
 <td><p>1:26.6</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内田博幸" title="wikilink">内田博幸</a></p></td>
+<td><p><a href="../Page/内田博幸.md" title="wikilink">内田博幸</a></p></td>
 <td><p><a href="../Page/矢作芳人.md" title="wikilink">矢作芳人</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田中成奉" title="wikilink">田中成奉</a></p></td>
 </tr>
@@ -297,7 +297,7 @@
 <td><p>牡8</p></td>
 <td><p>JRA</p></td>
 <td><p>1.27.1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/後藤浩輝" title="wikilink">後藤浩輝</a></p></td>
+<td><p><a href="../Page/後藤浩輝.md" title="wikilink">後藤浩輝</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安達昭夫" title="wikilink">安達昭夫</a></p></td>
 <td><p><a href="../Page/友駿ホースクラブ.md" title="wikilink">（株）友駿ホースクラブ</a></p></td>
 </tr>
@@ -311,7 +311,7 @@
 <td><p>牡7</p></td>
 <td><p>JRA</p></td>
 <td><p>1:09.0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩田康誠" title="wikilink">岩田康誠</a></p></td>
+<td><p><a href="../Page/岩田康誠.md" title="wikilink">岩田康誠</a></p></td>
 <td><p><a href="../Page/加用正.md" title="wikilink">加用正</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セゾンレースホース" title="wikilink">セゾンレースホース</a>（株）</p></td>
 </tr>
@@ -339,7 +339,7 @@
 <td><p>牡6</p></td>
 <td><p>JRA</p></td>
 <td><p>1:27.2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミルコ・デムーロ" title="wikilink">M.デムーロ</a></p></td>
+<td><p><a href="../Page/ミルコ・デムーロ.md" title="wikilink">M.デムーロ</a></p></td>
 <td><p><a href="../Page/村山明_(競馬).md" title="wikilink">村山明</a></p></td>
 <td><p><a href="../Page/野田順弘.md" title="wikilink">（株）ダノックス</a></p></td>
 </tr>
@@ -353,7 +353,7 @@
 <td><p>牡6</p></td>
 <td><p>JRA</p></td>
 <td><p>1:11.4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/横山典弘" title="wikilink">横山典弘</a></p></td>
+<td><p><a href="../Page/横山典弘.md" title="wikilink">横山典弘</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/庄野靖志" title="wikilink">庄野靖志</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西森鶴" title="wikilink">西森鶴</a></p></td>
 </tr>

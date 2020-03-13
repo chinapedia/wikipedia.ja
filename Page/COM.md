@@ -8,7 +8,7 @@
 ### コンピュータ関係
 
   - [Component Object Model](../Page/Component_Object_Model.md "wikilink") - ソフトウェア間通信技術。
-  - コンピュータ出力[マイクロフィルム](https://ja.wikipedia.org/wiki/マイクロフィルム "wikilink") ()
+  - コンピュータ出力[マイクロフィルム](../Page/マイクロフィルム.md "wikilink") ()
   - [コンピュータ](../Page/コンピュータ.md "wikilink") () - 転じて、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の[ノンプレイヤーキャラクター](../Page/ノンプレイヤーキャラクター.md "wikilink")のことをCOMと称することがある。
   - [Computer on Module](https://ja.wikipedia.org/wiki/Computer_on_Module "wikilink")
   - [COMファイル](../Page/COMファイル.md "wikilink") - [CP/M](https://ja.wikipedia.org/wiki/CP/M "wikilink")、[MS-DOS](../Page/MS-DOS.md "wikilink")等の[実行ファイル](../Page/実行ファイル.md "wikilink")の[拡張子](../Page/拡張子.md "wikilink")
@@ -21,7 +21,7 @@
   - [コミュテータ](https://ja.wikipedia.org/wiki/コミュテータ "wikilink") ()
   - [コモロ](../Page/コモロ.md "wikilink")の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")。
   - [COM (雑誌)](../Page/COM_\(雑誌\).md "wikilink") - 手塚治虫が創刊した漫画雑誌。
-  - [キングダム ハーツ チェイン オブ メモリーズ](https://ja.wikipedia.org/wiki/キングダム_ハーツ_チェイン_オブ_メモリーズ "wikilink") () - ゲームソフト
+  - [キングダム ハーツ チェイン オブ メモリーズ](../Page/キングダム_ハーツ_チェイン_オブ_メモリーズ.md "wikilink") () - ゲームソフト
   - [COM (イラストレーター)](https://ja.wikipedia.org/wiki/COM_\(イラストレーター\) "wikilink") - 日本のイラストレーター、漫画家。
   - [シー・オー・エム](https://ja.wikipedia.org/wiki/シー・オー・エム "wikilink") - [平和堂](https://ja.wikipedia.org/wiki/平和堂 "wikilink")系列の[ケンタッキーフライドチキン](https://ja.wikipedia.org/wiki/ケンタッキーフライドチキン "wikilink")のフランチャイジー。
   - [かみのけ座](../Page/かみのけ座.md "wikilink") ()。

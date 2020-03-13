@@ -3,9 +3,9 @@
 
 『**劇場版美少女戦士セーラームーンR**』（げきじょうばん びしょうじょせんしセーラームーンR）は、[1993年](../Page/1993年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")に公開された、『[美少女戦士セーラームーンR](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン_\(テレビアニメ\) "wikilink")』の[劇場版アニメ](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。製作は[東映動画](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")。
 
-監督は、後に『[少女革命ウテナ](../Page/少女革命ウテナ.md "wikilink")』を監督した[幾原邦彦](https://ja.wikipedia.org/wiki/幾原邦彦 "wikilink")。
+監督は、後に『[少女革命ウテナ](../Page/少女革命ウテナ.md "wikilink")』を監督した[幾原邦彦](../Page/幾原邦彦.md "wikilink")。
 
-同時上映は『[メイクアップ\!セーラー戦士](https://ja.wikipedia.org/wiki/メイクアップ!セーラー戦士 "wikilink")』と、『[ツヨシしっかりしなさい ツヨシのタイムマシーンでしっかりしなさい](https://ja.wikipedia.org/wiki/ツヨシしっかりしなさい "wikilink")』。
+同時上映は『[メイクアップ\!セーラー戦士](../Page/メイクアップ!セーラー戦士.md "wikilink")』と、『[ツヨシしっかりしなさい ツヨシのタイムマシーンでしっかりしなさい](../Page/ツヨシしっかりしなさい.md "wikilink")』。
 
 ## 概要
 
@@ -13,11 +13,11 @@
 
 映画化の話は、平成5年（[1993年](../Page/1993年.md "wikilink")）の年明け間もないころからあったが、女児向けの映画が本当にヒットするのかという興行的な不安から、[東映](../Page/東映.md "wikilink")が映画化をためらっていた。結局「正月映画にふさわしい劇映画が見当たらず、利益率の高いアニメで勝負した」（当時の東映常務・鈴木常承の話）\[2\]ということで制作に入ったのは8月からで、制作スケジュールはとても短いものだった\[3\]が、公開すると配収13億円の大ヒットでその後のシリーズの映画化への道筋をつけた。
 
-物語のクライマックス、挿入歌『[Moon Revenge](https://ja.wikipedia.org/wiki/Moon_Revenge/I_am_セーラームーン "wikilink")』が映画を効果的に盛り上げている\[4\]。歌詞は二番目の前半でそれぞれのキャラクターの声を担当した声優がソロで歌う構成だが、映画中、それぞれのキャラクターの回想と歌のソロパートがシンクロし、スペクタクルシーンと共に絶妙なタイミングで編集されている\[5\]。クライマックスはミュージカルのようにしたいという監督の幾原とプロデューサーの東の提案\[6\]で、[セーラームーン・ミュージカルで音楽を担当していた作詞](../Page/美少女戦士セーラームーン_\(ミュージカル\).md "wikilink")・[冬杜花代子](../Page/冬杜花代子.md "wikilink")、作曲・[小坂明子](https://ja.wikipedia.org/wiki/小坂明子 "wikilink")によるコンビが作詞・作曲を担当した。そのため、クライマックスはミュージカル映画のようでもあり、幾原の持ち味が強く出ているが\[7\]、それは東が、制作当初から幾原の個性を全面に押し立てた作品にしたいと考えていたからである\[8\]。挿入歌「Moon Revenge」は『[美少女戦士セーラームーンCrystal](https://ja.wikipedia.org/wiki/美少女戦士セーラームーンCrystal "wikilink")』オープニングテーマ収録の[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")のシングル『[MOON PRIDE](https://ja.wikipedia.org/wiki/MOON_PRIDE "wikilink")』にも、ももいろクローバーZが歌うアレンジバージョンとして収録された。
+物語のクライマックス、挿入歌『[Moon Revenge](https://ja.wikipedia.org/wiki/Moon_Revenge/I_am_セーラームーン "wikilink")』が映画を効果的に盛り上げている\[4\]。歌詞は二番目の前半でそれぞれのキャラクターの声を担当した声優がソロで歌う構成だが、映画中、それぞれのキャラクターの回想と歌のソロパートがシンクロし、スペクタクルシーンと共に絶妙なタイミングで編集されている\[5\]。クライマックスはミュージカルのようにしたいという監督の幾原とプロデューサーの東の提案\[6\]で、[セーラームーン・ミュージカルで音楽を担当していた作詞](../Page/美少女戦士セーラームーン_\(ミュージカル\).md "wikilink")・[冬杜花代子](../Page/冬杜花代子.md "wikilink")、作曲・[小坂明子](../Page/小坂明子.md "wikilink")によるコンビが作詞・作曲を担当した。そのため、クライマックスはミュージカル映画のようでもあり、幾原の持ち味が強く出ているが\[7\]、それは東が、制作当初から幾原の個性を全面に押し立てた作品にしたいと考えていたからである\[8\]。挿入歌「Moon Revenge」は『[美少女戦士セーラームーンCrystal](https://ja.wikipedia.org/wiki/美少女戦士セーラームーンCrystal "wikilink")』オープニングテーマ収録の[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")のシングル『[MOON PRIDE](https://ja.wikipedia.org/wiki/MOON_PRIDE "wikilink")』にも、ももいろクローバーZが歌うアレンジバージョンとして収録された。
 
 公開当時、メイン客層である子供たちだけではなく同伴した多くの大人をも涙させた作品\[9\]である。
 
-テレビシリーズを支えていた作画監督（[伊藤郁子](../Page/伊藤郁子.md "wikilink")、[長谷川眞也](https://ja.wikipedia.org/wiki/長谷川眞也 "wikilink")、[香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")）たちと、そうそうたる顔ぶれのアニメーター陣（新井浩一・須賀重行・[濱洲英喜](https://ja.wikipedia.org/wiki/濱洲英喜 "wikilink")・[山内則康](https://ja.wikipedia.org/wiki/山内則康 "wikilink")など\[10\]）が作画（原画）に参加している。作画監督の[只野和子](../Page/只野和子.md "wikilink")は「セーラームーンのエキスをギュッと集めた集大成」と語っている\[11\]。全ての必殺技シーンを長谷川眞也が作画担当している\[12\]。
+テレビシリーズを支えていた作画監督（[伊藤郁子](../Page/伊藤郁子.md "wikilink")、[長谷川眞也](../Page/長谷川眞也.md "wikilink")、[香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")）たちと、そうそうたる顔ぶれのアニメーター陣（新井浩一・須賀重行・[濱洲英喜](https://ja.wikipedia.org/wiki/濱洲英喜 "wikilink")・[山内則康](https://ja.wikipedia.org/wiki/山内則康 "wikilink")など\[10\]）が作画（原画）に参加している。作画監督の[只野和子](../Page/只野和子.md "wikilink")は「セーラームーンのエキスをギュッと集めた集大成」と語っている\[11\]。全ての必殺技シーンを長谷川眞也が作画担当している\[12\]。
 
 本作に感動した[庵野秀明](../Page/庵野秀明.md "wikilink")は映画館で3度観た\[13\]。[緒方恵美](../Page/緒方恵美.md "wikilink")\[14\]が本作で衛の少年時代の声を担当していて、映画のビデオを[貞本義行](https://ja.wikipedia.org/wiki/貞本義行 "wikilink")に見せて、準備中だった「[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")」の[碇シンジ](../Page/碇シンジ.md "wikilink")の声は緒方しかないと力説した\[15\] 。
 
@@ -77,17 +77,17 @@
 
 ## スタッフ
 
-  - 監督 - [幾原邦彦](https://ja.wikipedia.org/wiki/幾原邦彦 "wikilink")
+  - 監督 - [幾原邦彦](../Page/幾原邦彦.md "wikilink")
   - 助監督 - [五十嵐卓哉](../Page/五十嵐卓哉.md "wikilink")
   - キャラクターデザイン・作画監督 - [只野和子](../Page/只野和子.md "wikilink")
-  - 美術監修 - [窪田忠雄](https://ja.wikipedia.org/wiki/窪田忠雄 "wikilink")
+  - 美術監修 - [窪田忠雄](../Page/窪田忠雄.md "wikilink")
   - 美術監督 - [谷口淳一](https://ja.wikipedia.org/wiki/谷口淳一 "wikilink")
   - 企画 - [東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
-  - 脚本 - [富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")
+  - 脚本 - [富田祐弘](../Page/富田祐弘.md "wikilink")
   - 原画 - 松下浩美、山内則康、新井浩一、濱洲英喜、須賀重行、長谷川眞也、[羽山淳一](../Page/羽山淳一.md "wikilink")、香川久、伊藤郁子 他
   - 動画 - 岸祐弥、馬渡久 他
   - 背景 - 浅井和久、橋本和幸、大河内稔、田尻健一 他
-  - 協力プロダクション - [スタジオ・ライブ](../Page/スタジオ・ライブ.md "wikilink")、[中村プロダクション](../Page/中村プロダクション.md "wikilink")、[スタジオコクピット](../Page/スタジオコクピット.md "wikilink")、[ムクオスタジオ](https://ja.wikipedia.org/wiki/ムクオスタジオ "wikilink")、[スタジオイースター](../Page/スタジオ・イースター.md "wikilink")、はだしぷろ、[トムスフォト](../Page/トムス・フォト.md "wikilink")、[トランスアーツ](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")、[スワラプロダクション](https://ja.wikipedia.org/wiki/スワラ・プロ "wikilink") 他
+  - 協力プロダクション - [スタジオ・ライブ](../Page/スタジオ・ライブ.md "wikilink")、[中村プロダクション](../Page/中村プロダクション.md "wikilink")、[スタジオコクピット](../Page/スタジオコクピット.md "wikilink")、[ムクオスタジオ](https://ja.wikipedia.org/wiki/ムクオスタジオ "wikilink")、[スタジオイースター](../Page/スタジオ・イースター.md "wikilink")、はだしぷろ、[トムスフォト](../Page/トムス・フォト.md "wikilink")、[トランスアーツ](../Page/トランス・アーツ.md "wikilink")、[スワラプロダクション](../Page/スワラ・プロ.md "wikilink") 他
   - 製作担当 - [樋口宗久](https://ja.wikipedia.org/wiki/樋口宗久 "wikilink")
   - 音楽 - [有澤孝紀](../Page/有澤孝紀.md "wikilink")
   - 撮影 - [高橋基](https://ja.wikipedia.org/wiki/高橋基 "wikilink")
@@ -109,12 +109,12 @@
 ### オープニングテーマ
 
   - 「[ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")」
-    作詞 - [小田佳奈子](../Page/小田佳奈子.md "wikilink") / 作曲 - [小諸鉄矢](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") / 編曲 - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink") / 歌 - [DALI](https://ja.wikipedia.org/wiki/MANISH "wikilink")
+    作詞 - [小田佳奈子](../Page/小田佳奈子.md "wikilink") / 作曲 - [小諸鉄矢](../Page/川島だりあ.md "wikilink") / 編曲 - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink") / 歌 - [DALI](../Page/MANISH.md "wikilink")
 
 ### エンディングテーマ
 
   - 「[Moon Revenge](https://ja.wikipedia.org/wiki/Moon_Revenge/I_am_セーラームーン "wikilink")」
-    作詞 - [冬杜花代子](../Page/冬杜花代子.md "wikilink") / 作曲 - [小坂明子](https://ja.wikipedia.org/wiki/小坂明子 "wikilink") / 編曲 - 林有三 / 歌 - 三石琴乃・久川綾・富沢美智恵・篠原恵美・深見梨加
+    作詞 - [冬杜花代子](../Page/冬杜花代子.md "wikilink") / 作曲 - [小坂明子](../Page/小坂明子.md "wikilink") / 編曲 - 林有三 / 歌 - 三石琴乃・久川綾・富沢美智恵・篠原恵美・深見梨加
     途中挿入もあり。
 
 ## ドラマCD
@@ -126,8 +126,8 @@
 <!-- end list -->
 
   - プロデューサー - [東伊里弥](https://ja.wikipedia.org/wiki/東伊里弥 "wikilink")
-  - 脚本 - [富田祐弘](https://ja.wikipedia.org/wiki/富田祐弘 "wikilink")
-  - 演出 - [幾原邦彦](https://ja.wikipedia.org/wiki/幾原邦彦 "wikilink")
+  - 脚本 - [富田祐弘](../Page/富田祐弘.md "wikilink")
+  - 演出 - [幾原邦彦](../Page/幾原邦彦.md "wikilink")
   - 録音 - [立花康夫](https://ja.wikipedia.org/wiki/立花康夫 "wikilink")（タバック）
   - 効果 - 今野康之（スワラプロ）
   - タバックスタジオ - 9437MEN

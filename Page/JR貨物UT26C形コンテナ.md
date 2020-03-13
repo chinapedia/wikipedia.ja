@@ -14,7 +14,7 @@
     [苫小牧駅](../Page/苫小牧駅.md "wikilink") - [北旭川駅](../Page/北旭川駅.md "wikilink")・[新富士駅間専用](../Page/新富士駅_\(北海道\).md "wikilink")。
   - 38117 - 38124, 38135 - 38149
     日本石油輸送所有、液化天然ガス専用。最大総重量20.0t（規格外）。自重9.05t。コキ100系積載限定。
-    [富山貨物駅](../Page/富山貨物駅.md "wikilink") - [姫路貨物駅](https://ja.wikipedia.org/wiki/姫路貨物駅 "wikilink")間専用。
+    [富山貨物駅](../Page/富山貨物駅.md "wikilink") - [姫路貨物駅](../Page/姫路貨物駅.md "wikilink")間専用。
   - 38155 - 38159, 38191 - 38200, 38216 - 38219
     日本石油輸送所有（[東北天然ガス](https://ja.wikipedia.org/wiki/東北天然ガス "wikilink")借受）、液化天然ガス専用。最大総重量20t（規格外）。コキ100系積載限定。
     [新潟貨物ターミナル駅](../Page/新潟貨物ターミナル駅.md "wikilink") - [東青森駅](https://ja.wikipedia.org/wiki/東青森駅 "wikilink")間専用。

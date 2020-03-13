@@ -27,12 +27,12 @@
 
 <!-- end list -->
 
-  - [野村恵里](https://ja.wikipedia.org/wiki/野村恵里 "wikilink") - 第21回TSCピュアガール賞受賞。
+  - [野村恵里](../Page/野村恵里.md "wikilink") - 第21回TSCピュアガール賞受賞。
   - [堀越のり](../Page/堀越のり.md "wikilink") - 第2回夏のお嬢さんコンテストグランプリ受賞。
   - [平山綾](https://ja.wikipedia.org/wiki/平山あや "wikilink")（現・平山あや） - 第23回TSCグランプリ受賞。
   - [西端さおり](../Page/西端さおり.md "wikilink") - 第24回TSCグランプリ受賞。
   - [西田夏](../Page/西田夏.md "wikilink") - 第4回夏のお嬢さんコンテストグランプリ受賞。
-  - [藤本綾](https://ja.wikipedia.org/wiki/藤本綾 "wikilink") - 第25回TSCグランプリ受賞。
+  - [藤本綾](../Page/藤本綾.md "wikilink") - 第25回TSCグランプリ受賞。
   - [綾瀬はるか](https://ja.wikipedia.org/wiki/綾瀬はるか "wikilink") - 第25回TSC審査員特別賞受賞。
 
 ## 主な出演
@@ -62,6 +62,6 @@
 
 ## 関連項目
 
-  - [HOP CLUB](https://ja.wikipedia.org/wiki/HOP_CLUB "wikilink")（大阪支社のアイドルユニット）
+  - [HOP CLUB](../Page/HOP_CLUB.md "wikilink")（大阪支社のアイドルユニット）
 
 [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink") [Category:ホリプロ](https://ja.wikipedia.org/wiki/Category:ホリプロ "wikilink") [Category:優香](https://ja.wikipedia.org/wiki/Category:優香 "wikilink") [Category:深田恭子](https://ja.wikipedia.org/wiki/Category:深田恭子 "wikilink") [Category:綾瀬はるか](https://ja.wikipedia.org/wiki/Category:綾瀬はるか "wikilink")

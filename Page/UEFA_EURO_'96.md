@@ -1,7 +1,7 @@
 > この記事は[UEFA EURO \'96](https://ja.wikipedia.org/wiki/UEFA_EURO_\'96)から翻訳されています。
 
 
-**UEFA欧州選手権1996** は、第10回目の[UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")であり、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各国の代表チームによって争われる[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大会である。UEFA欧州選手権はヨーロッパで行われる[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")主催の大会で、4年毎に開催される。
+**UEFA欧州選手権1996** は、第10回目の[UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")であり、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")各国の代表チームによって争われる[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大会である。UEFA欧州選手権はヨーロッパで行われる[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")主催の大会で、4年毎に開催される。
 
 本大会は、[イングランド](../Page/イングランド.md "wikilink")の主催で[1996年](../Page/1996年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")から同年[6月30日](../Page/6月30日.md "wikilink")にかけて行われ、開催国であるイングランド、及び予選を通過した15カ国で争われた。
 
@@ -13,16 +13,16 @@
 
 ## スタジアム
 
-| スタジアム名                                                                   | 所在地                                                                 | 収容人数   |
-| ------------------------------------------------------------------------ | ------------------------------------------------------------------- | ------ |
-| [ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム_\(1923\).md "wikilink")              | [ロンドン](../Page/ロンドン.md "wikilink")                                  | 80,000 |
-| [ヴィラ・パーク](../Page/ヴィラ・パーク.md "wikilink")                                 | [バーミンガム](../Page/バーミンガム.md "wikilink")                              | 40,000 |
-| [エランド・ロード](https://ja.wikipedia.org/wiki/エランド・ロード "wikilink")            | [リーズ](../Page/リーズ.md "wikilink")                                    | 43,000 |
-| [セント・ジェームズ・パーク](../Page/セント・ジェームズ・パーク_\(ニューカッスル・アポン・タイン\).md "wikilink") | [ニューカッスル](https://ja.wikipedia.org/wiki/ニューカッスル・アポン・タイン "wikilink") | 32,000 |
-| [オールド・トラッフォード](https://ja.wikipedia.org/wiki/オールド・トラッフォード "wikilink")    | [マンチェスター](../Page/マンチェスター.md "wikilink")                            | 43,000 |
-| [アンフィールド](../Page/アンフィールド.md "wikilink")                                 | [リヴァプール](../Page/リヴァプール.md "wikilink")                              | 40,000 |
-| [ヒルズボロ・スタジアム](https://ja.wikipedia.org/wiki/ヒルズボロ・スタジアム "wikilink")      | [シェフィールド](../Page/シェフィールド.md "wikilink")                            | 41,000 |
-| [シティ・グラウンド](https://ja.wikipedia.org/wiki/シティ・グラウンド "wikilink")          | [ノッティンガム](../Page/ノッティンガム.md "wikilink")                            | 28,000 |
+| スタジアム名                                                                   | 所在地                                              | 収容人数   |
+| ------------------------------------------------------------------------ | ------------------------------------------------ | ------ |
+| [ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム_\(1923\).md "wikilink")              | [ロンドン](../Page/ロンドン.md "wikilink")               | 80,000 |
+| [ヴィラ・パーク](../Page/ヴィラ・パーク.md "wikilink")                                 | [バーミンガム](../Page/バーミンガム.md "wikilink")           | 40,000 |
+| [エランド・ロード](https://ja.wikipedia.org/wiki/エランド・ロード "wikilink")            | [リーズ](../Page/リーズ.md "wikilink")                 | 43,000 |
+| [セント・ジェームズ・パーク](../Page/セント・ジェームズ・パーク_\(ニューカッスル・アポン・タイン\).md "wikilink") | [ニューカッスル](../Page/ニューカッスル・アポン・タイン.md "wikilink") | 32,000 |
+| [オールド・トラッフォード](../Page/オールド・トラッフォード.md "wikilink")                       | [マンチェスター](../Page/マンチェスター.md "wikilink")         | 43,000 |
+| [アンフィールド](../Page/アンフィールド.md "wikilink")                                 | [リヴァプール](../Page/リヴァプール.md "wikilink")           | 40,000 |
+| [ヒルズボロ・スタジアム](../Page/ヒルズボロ・スタジアム.md "wikilink")                         | [シェフィールド](../Page/シェフィールド.md "wikilink")         | 41,000 |
+| [シティ・グラウンド](https://ja.wikipedia.org/wiki/シティ・グラウンド "wikilink")          | [ノッティンガム](../Page/ノッティンガム.md "wikilink")         | 28,000 |
 
 ## グループリーグ
 
@@ -357,17 +357,17 @@
 
 **5 得点**
 
-  - [アラン・シアラー](https://ja.wikipedia.org/wiki/アラン・シアラー "wikilink")
+  - [アラン・シアラー](../Page/アラン・シアラー.md "wikilink")
 
 **3得点**
 
   - [フリスト・ストイチコフ](../Page/フリスト・ストイチコフ.md "wikilink")
 
-  - [ユルゲン・クリンスマン](https://ja.wikipedia.org/wiki/ユルゲン・クリンスマン "wikilink")
+  - [ユルゲン・クリンスマン](../Page/ユルゲン・クリンスマン.md "wikilink")
 
-  - [ダヴォール・シューケル](https://ja.wikipedia.org/wiki/ダヴォール・シューケル "wikilink")
+  - [ダヴォール・シューケル](../Page/ダヴォール・シューケル.md "wikilink")
 
-  - [ブライアン・ラウドルップ](https://ja.wikipedia.org/wiki/ブライアン・ラウドルップ "wikilink")
+  - [ブライアン・ラウドルップ](../Page/ブライアン・ラウドルップ.md "wikilink")
 
 ## 関連項目
 

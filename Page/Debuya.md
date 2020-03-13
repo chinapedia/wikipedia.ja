@@ -17,7 +17,7 @@
 
 ### ナレーター
 
-  - [まつもとみわ](https://ja.wikipedia.org/wiki/星河舞 "wikilink")
+  - [まつもとみわ](../Page/星河舞.md "wikilink")
 
 ## 主なコーナー
 
@@ -72,7 +72,7 @@
   - 音声：高橋憲治（パコス）
   - 編集：細川敬志、清原正貴（ビームテレビセンター）
   - MA：出蔵孝裕（ビームテレビセンター）
-  - 音効：田中寿一（[J-WORKS](https://ja.wikipedia.org/wiki/J-WORKS "wikilink")）
+  - 音効：田中寿一（[J-WORKS](../Page/J-WORKS.md "wikilink")）
   - 演出：田中久義
   - ディレクター：花田好昭
   - プロデューサー：大和田宇一、徳江長政、桜井卓也→山崎圭介（テレビ東京）

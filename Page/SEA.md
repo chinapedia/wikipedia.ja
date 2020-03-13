@@ -15,13 +15,13 @@
 
   - [S.E.A.](https://ja.wikipedia.org/wiki/S.E.A. "wikilink") (Society of Explorors and Adventurers)
 
-  - Sea Limited - デジタルサービス企業[Garena](https://ja.wikipedia.org/wiki/Garena "wikilink")の親会社
+  - Sea Limited - デジタルサービス企業[Garena](../Page/Garena.md "wikilink")の親会社
 
 **スポーツチーム**
 
   - [シアトル・マリナーズ](../Page/シアトル・マリナーズ.md "wikilink")
   - [シアトル・シーホークス](../Page/シアトル・シーホークス.md "wikilink")
-  - [シアトル・スーパーソニックス](https://ja.wikipedia.org/wiki/シアトル・スーパーソニックス "wikilink")
+  - [シアトル・スーパーソニックス](../Page/シアトル・スーパーソニックス.md "wikilink")
 
 **数学**
 
@@ -31,7 +31,7 @@
 **地理/場所**
 
   - [シアトル](../Page/シアトル.md "wikilink")
-  - [シアトル・タコマ国際空港](https://ja.wikipedia.org/wiki/シアトル・タコマ国際空港 "wikilink")
+  - [シアトル・タコマ国際空港](../Page/シアトル・タコマ国際空港.md "wikilink")
   - [東南アジア](../Page/東南アジア.md "wikilink")
 
 **その他**
@@ -40,4 +40,4 @@
   - [北原愛子](../Page/北原愛子.md "wikilink")のアルバム『』
   - [単一欧州議定書](https://ja.wikipedia.org/wiki/単一欧州議定書 "wikilink")
   - [マンソン住血吸虫](https://ja.wikipedia.org/wiki/マンソン住血吸虫 "wikilink")
-  - [戦略的環境アセスメント](https://ja.wikipedia.org/wiki/戦略的環境アセスメント "wikilink")
+  - [戦略的環境アセスメント](../Page/戦略的環境アセスメント.md "wikilink")

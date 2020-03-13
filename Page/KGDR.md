@@ -16,7 +16,7 @@
 
 <!-- end list -->
 
-  - [Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")（ジブラ）：MC
+  - [Zeebra](../Page/Zeebra.md "wikilink")（ジブラ）：MC
 
 <!-- end list -->
 
@@ -39,13 +39,13 @@
 
 [2001年](../Page/2001年.md "wikilink")1月31日発売のDJ OASISの1stアルバム『東京砂漠』収録曲「ハルマゲドン」にK DUB SHINE、ZEEBRAが参加。また、同年9月19日発売のK DUB SHINEのミニアルバム『SAVE THE CHILDREN』収録曲「ザ・シャイニング（KG STILL SHINING REMIX）」にDJ OASIS、ZEEBRAが参加。
 
-[2002年](../Page/2002年.md "wikilink") 6年ぶりに再結成し話題を呼ぶ。[4月10日](../Page/4月10日.md "wikilink")に2枚同時シングル「[UNSTOPPABLE](../Page/UNSTOPPABLE.md "wikilink")」、「[F.F.B.](../Page/F.F.B..md "wikilink")」を[デフスターレコーズ](https://ja.wikipedia.org/wiki/デフスターレコーズ "wikilink")から発売。しかし「UNSTOPPABLE」収録曲「ドライブバイ」の歌詞に「ヤワなラップをする偽者」を同性愛者に擬えて攻撃をほのめかした事が、[同性愛](https://ja.wikipedia.org/wiki/同性愛 "wikilink")者を蔑視していると市民団体が抗議。また、「F.F.B.」にも[HIV患者への偏見があると抗議され](../Page/ヒト免疫不全ウイルス.md "wikilink")、両シングルの発売停止に至る\[5\]。[4月27日](../Page/4月27日.md "wikilink")に両シングルから問題となった「ドライブバイ」「F.F.B.」以外の楽曲を1枚に収録したシングル「UNSTOPPABLE」を再発売。
+[2002年](../Page/2002年.md "wikilink") 6年ぶりに再結成し話題を呼ぶ。[4月10日](../Page/4月10日.md "wikilink")に2枚同時シングル「[UNSTOPPABLE](../Page/UNSTOPPABLE.md "wikilink")」、「[F.F.B.](../Page/F.F.B..md "wikilink")」を[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")から発売。しかし「UNSTOPPABLE」収録曲「ドライブバイ」の歌詞に「ヤワなラップをする偽者」を同性愛者に擬えて攻撃をほのめかした事が、[同性愛](https://ja.wikipedia.org/wiki/同性愛 "wikilink")者を蔑視していると市民団体が抗議。また、「F.F.B.」にも[HIV患者への偏見があると抗議され](../Page/ヒト免疫不全ウイルス.md "wikilink")、両シングルの発売停止に至る\[5\]。[4月27日](../Page/4月27日.md "wikilink")に両シングルから問題となった「ドライブバイ」「F.F.B.」以外の楽曲を1枚に収録したシングル「UNSTOPPABLE」を再発売。
 
-同年[9月11日](../Page/9月11日.md "wikilink")、2枚同時シングル「[911 (Remix)](https://ja.wikipedia.org/wiki/911_\(Remix\) "wikilink")」、「[ジェネレーションネクスト](https://ja.wikipedia.org/wiki/ジェネレーションネクスト "wikilink")」をデフスターレコーズから発売。[10月17日](../Page/10月17日.md "wikilink")、アルバム『[最終兵器](https://ja.wikipedia.org/wiki/最終兵器_\(アルバム\) "wikilink")』をデフスターレコーズから発売。[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")[Kj](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")、[KICK THE CAN CREW](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink")、[RIP SLYMEに向けた](../Page/RIP_SLYME.md "wikilink")[ディス楽曲](../Page/ディスリスペクト.md "wikilink")「公開処刑 feat. [BOY-KEN](https://ja.wikipedia.org/wiki/BOY-KEN "wikilink")」や、歌詞を一部削除した「F.F.B. (Album Version)」などを収録。また、ミュージック・ビデオやライブ映像が収録されたVHS・DVD『最終兵器』を同日に発売。
+同年[9月11日](../Page/9月11日.md "wikilink")、2枚同時シングル「[911 (Remix)](https://ja.wikipedia.org/wiki/911_\(Remix\) "wikilink")」、「[ジェネレーションネクスト](https://ja.wikipedia.org/wiki/ジェネレーションネクスト "wikilink")」をデフスターレコーズから発売。[10月17日](../Page/10月17日.md "wikilink")、アルバム『[最終兵器](https://ja.wikipedia.org/wiki/最終兵器_\(アルバム\) "wikilink")』をデフスターレコーズから発売。[Dragon Ashの](../Page/Dragon_Ash.md "wikilink")[Kj](../Page/降谷建志.md "wikilink")、[KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")、[RIP SLYMEに向けた](../Page/RIP_SLYME.md "wikilink")[ディス楽曲](../Page/ディスリスペクト.md "wikilink")「公開処刑 feat. [BOY-KEN](https://ja.wikipedia.org/wiki/BOY-KEN "wikilink")」や、歌詞を一部削除した「F.F.B. (Album Version)」などを収録。また、ミュージック・ビデオやライブ映像が収録されたVHS・DVD『最終兵器』を同日に発売。
 
 10月19日公開の映画『[凶気の桜](../Page/凶気の桜.md "wikilink")』の音楽をK DUB SHINEが担当\[6\]し、キングギドラの楽曲を多数使用した。期間限定の再結成だったためその後再び活動を停止し、各メンバーがソロ活動再開。
 
-[2007年](../Page/2007年.md "wikilink")3月31日、[日本武道館](../Page/日本武道館.md "wikilink")にて開催された[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")のライブイベント[KING OF STAGEに出演し](../Page/KING_OF_STAGE.md "wikilink")、約10年振りにRHYMESTERと共演\[7\]。
+[2007年](../Page/2007年.md "wikilink")3月31日、[日本武道館](../Page/日本武道館.md "wikilink")にて開催された[RHYMESTER](../Page/RHYMESTER.md "wikilink")のライブイベント[KING OF STAGEに出演し](../Page/KING_OF_STAGE.md "wikilink")、約10年振りにRHYMESTERと共演\[7\]。
 
 ### 8年ぶり2度目の再結成〜｢空からの力｣発売20周年〜
 
@@ -57,7 +57,7 @@
 
 [2014年](../Page/2014年.md "wikilink")12月27日、川崎[CLUB CITTA'で開催された](../Page/CLUB_CITTA'.md "wikilink")[妄走族](../Page/妄走族.md "wikilink")主催のイベント「核MIX」に出演\[17\]。
 
-[2015年](../Page/2015年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")、お台場野外特設会場にて開催された[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")が主催する野外フェス「[RHYMESTER presents 野外音楽フェスティバル 人間交差点 2015](https://ja.wikipedia.org/wiki/人間交差点_\(イベント\) "wikilink")」に出演。[日本武道館](../Page/日本武道館.md "wikilink")で行われた[KING OF STAGE vol.7以来](../Page/KING_OF_STAGE.md "wikilink")8年ぶりに「口からでまかせ」をRHYMESTERと共に披露した。
+[2015年](../Page/2015年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")、お台場野外特設会場にて開催された[RHYMESTER](../Page/RHYMESTER.md "wikilink")が主催する野外フェス「[RHYMESTER presents 野外音楽フェスティバル 人間交差点 2015](https://ja.wikipedia.org/wiki/人間交差点_\(イベント\) "wikilink")」に出演。[日本武道館](../Page/日本武道館.md "wikilink")で行われた[KING OF STAGE vol.7以来](../Page/KING_OF_STAGE.md "wikilink")8年ぶりに「口からでまかせ」をRHYMESTERと共に披露した。
 
 [2015年](../Page/2015年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")に[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")にて開催されたPヴァインの設立40周年記念イベント「P-VINE 40th ANNIVERSARY」にヘッドライナーとして出演し、デビューアルバム『空からの力』の発売20周年記念ライブを行う\[18\]\[19\]。
 
@@ -120,7 +120,7 @@ Amebreakの伊藤雄介は、『[空からの力](https://ja.wikipedia.org/wiki/
 
 ### オムニバス参加作品
 
-  - 『Egotopia』　/　[RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")　(1995年6月25日)
+  - 『Egotopia』　/　[RHYMESTER](../Page/RHYMESTER.md "wikilink")　(1995年6月25日)
       -
         5.口からでまかせ (feat. キングギドラ & [SOUL SCREAM](../Page/SOUL_SCREAM.md "wikilink"))
   - 『BEST OF JAPANESE HIP HOP VOL.2』　（1995年7月21日）

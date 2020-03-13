@@ -1,7 +1,7 @@
 > この記事は[Microsoft Layer for Unicode](https://ja.wikipedia.org/wiki/Microsoft_Layer_for_Unicode)から翻訳されています。
 
 
-**Microsoft Layer for Unicode** (**MSLU**)は、[Windows 9x系](https://ja.wikipedia.org/wiki/Windows_9x系 "wikilink") (95/98/Me)で[Unicode](../Page/Unicode.md "wikilink")対応の[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を実行するための[マイクロソフト](../Page/マイクロソフト.md "wikilink")製の[ライブラリ](../Page/ライブラリ.md "wikilink")である。**UnicoWS** (Unicode for Windows 95/98/Me Systems)やUNICOWS.DLLなどといった名称でも知られている。
+**Microsoft Layer for Unicode** (**MSLU**)は、[Windows 9x系](../Page/Windows_9x系.md "wikilink") (95/98/Me)で[Unicode](../Page/Unicode.md "wikilink")対応の[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")を実行するための[マイクロソフト](../Page/マイクロソフト.md "wikilink")製の[ライブラリ](../Page/ライブラリ.md "wikilink")である。**UnicoWS** (Unicode for Windows 95/98/Me Systems)やUNICOWS.DLLなどといった名称でも知られている。
 
 マイクロソフトは、MSLUのことを「Windows 95/98/ME上のWin32 APIのレイヤーであり、Unicodeを用いたプログラムだけを書いても全てのプラットフォーム上で動作させることができる」と記述している。[1](http://www.microsoft.com/globaldev/handson/dev/mslu_announce.mspx) MSLUが登場する前は9x系のWindowsに対応しつつ、Unicode対応にもするには、Unicodeを使ったものとそうでないもの（Windows 9x用）の2つをビルドする必要があった。
 
@@ -9,7 +9,7 @@ MSLUは[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/w
 
 ## 動作
 
-[Windows APIでは](https://ja.wikipedia.org/wiki/Windows_API "wikilink")、普通**A** （[ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink"): ANSIコードページに基づく[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")）版と**W** （[ワイド文字](../Page/ワイド文字.md "wikilink")）版の2つの関数が用意されている。[Windows 9x系では](https://ja.wikipedia.org/wiki/Windows_9x "wikilink")、A版のみが実装され、W版を呼び出そうとすると、極一部を除いて実装されていない旨のエラーになる。一方[Windows NT系では](../Page/Windows_NT系.md "wikilink")、A版とW版の両方が実装されている（ただし内部で直接実装されているのはW版であり、A版はW版の呼び出しへ変換する[サンク](https://ja.wikipedia.org/wiki/サンク "wikilink")となっている）。
+[Windows APIでは](../Page/Windows_API.md "wikilink")、普通**A** （[ANSI](https://ja.wikipedia.org/wiki/ANSI "wikilink"): ANSIコードページに基づく[マルチバイト文字](../Page/マルチバイト文字.md "wikilink")）版と**W** （[ワイド文字](../Page/ワイド文字.md "wikilink")）版の2つの関数が用意されている。[Windows 9x系では](https://ja.wikipedia.org/wiki/Windows_9x "wikilink")、A版のみが実装され、W版を呼び出そうとすると、極一部を除いて実装されていない旨のエラーになる。一方[Windows NT系では](../Page/Windows_NT系.md "wikilink")、A版とW版の両方が実装されている（ただし内部で直接実装されているのはW版であり、A版はW版の呼び出しへ変換する[サンク](https://ja.wikipedia.org/wiki/サンク "wikilink")となっている）。
 
 リンクの際、KERNEL32.LIBやADVAPI32.LIBなどWindows APIのライブラリよりも先にUNICOWS.LIBを指定すると、[リンカはUNICOWS](../Page/リンケージエディタ.md "wikilink").LIBからシンボルを解決するようになる。
 

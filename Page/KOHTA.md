@@ -5,11 +5,11 @@
 
 ## 略歴
 
-[1994年](../Page/1994年.md "wikilink")、実兄である[キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")の誘いでベーシストとして[Pierrotに参加](https://ja.wikipedia.org/wiki/PIERROT "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、PIERROTの解散までのメンバーによる初のアルバム『[パンドラの匣](../Page/パンドラの匣_\(アルバム\).md "wikilink")』の制作を開始する。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[東芝EMIよりPIERROTのメンバーとしてシングル](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")「[クリア・スカイ](../Page/クリア・スカイ.md "wikilink")」でメジャーデビュー。
+[1994年](../Page/1994年.md "wikilink")、実兄である[キリト](../Page/キリト.md "wikilink")の誘いでベーシストとして[Pierrotに参加](https://ja.wikipedia.org/wiki/PIERROT "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、PIERROTの解散までのメンバーによる初のアルバム『[パンドラの匣](../Page/パンドラの匣_\(アルバム\).md "wikilink")』の制作を開始する。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、[東芝EMIよりPIERROTのメンバーとしてシングル](../Page/EMIミュージック・ジャパン.md "wikilink")「[クリア・スカイ](../Page/クリア・スカイ.md "wikilink")」でメジャーデビュー。
 
-[2004年](../Page/2004年.md "wikilink")、自身とキリトのマネージメントオフィス、有限会社Other Gate設立。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[Everlasting-Kのライブ](https://ja.wikipedia.org/wiki/Kouichi#Everlasting-K "wikilink")・ツアーにサポートベーシストとして参加。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")4月12日、PIERROTの解散を発表。同年8月14日、PIERROTのキリト、TAKEOと共に[Angelo](../Page/Angelo.md "wikilink")結成を発表。
+[2004年](../Page/2004年.md "wikilink")、自身とキリトのマネージメントオフィス、有限会社Other Gate設立。[2005年](../Page/2005年.md "wikilink")、[Everlasting-Kのライブ](https://ja.wikipedia.org/wiki/Kouichi#Everlasting-K "wikilink")・ツアーにサポートベーシストとして参加。[2006年](../Page/2006年.md "wikilink")4月12日、PIERROTの解散を発表。同年8月14日、PIERROTのキリト、TAKEOと共に[Angelo](../Page/Angelo.md "wikilink")結成を発表。
 
-2006年10月25日、[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")のシングル「[TOY$\! (scrambled mix)](https://ja.wikipedia.org/wiki/TOY$!_\(scrambled_mix\) "wikilink")」のレコーディングに参加。[2007年](../Page/2007年.md "wikilink")、6月3日、オリジナルブランド「Star Bright」発表。[2014年](../Page/2014年.md "wikilink")4月12日、PIERROTの再結成コンサート「DICTATORS CIRCUS FINAL」を開催する事を発表\[1\]\[2\]\[3\]。10月24日・10月25日、PIERROTとして8年ぶりのライブを成功させる\[4\]。
+2006年10月25日、[上杉昇](../Page/上杉昇.md "wikilink")のシングル「[TOY$\! (scrambled mix)](https://ja.wikipedia.org/wiki/TOY$!_\(scrambled_mix\) "wikilink")」のレコーディングに参加。[2007年](../Page/2007年.md "wikilink")、6月3日、オリジナルブランド「Star Bright」発表。[2014年](../Page/2014年.md "wikilink")4月12日、PIERROTの再結成コンサート「DICTATORS CIRCUS FINAL」を開催する事を発表\[1\]\[2\]\[3\]。10月24日・10月25日、PIERROTとして8年ぶりのライブを成功させる\[4\]。
 
 ## 人物
 
@@ -48,7 +48,7 @@
 ## 関連項目
 
   - [Angelo](../Page/Angelo.md "wikilink")
-      - [キリト](https://ja.wikipedia.org/wiki/キリト "wikilink")
+      - [キリト](../Page/キリト.md "wikilink")
       - [Karyu](https://ja.wikipedia.org/wiki/Karyu "wikilink")
       - [ギル](https://ja.wikipedia.org/wiki/ギル_\(ミュージシャン\) "wikilink")
       - [TAKEO](../Page/TAKEO.md "wikilink")

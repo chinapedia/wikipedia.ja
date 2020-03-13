@@ -1,7 +1,7 @@
 > この記事は[Hearts Grow](https://ja.wikipedia.org/wiki/Hearts_Grow)から翻訳されています。
 
 
-**Hearts Grow**（ハーツ・グロウ）は[沖縄県](../Page/沖縄県.md "wikilink")[本部町](../Page/本部町.md "wikilink")出身の5人組[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2006年[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")より「Road」でメジャーデビュー。
+**Hearts Grow**（ハーツ・グロウ）は[沖縄県](../Page/沖縄県.md "wikilink")[本部町](../Page/本部町.md "wikilink")出身の5人組[バンドである](../Page/バンド_\(音楽\).md "wikilink")。2006年[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")より「Road」でメジャーデビュー。
 
 2009年に休止。
 
@@ -21,7 +21,7 @@
 
 ## 来歴
 
-[沖縄県](../Page/沖縄県.md "wikilink")[国頭郡](../Page/国頭郡.md "wikilink")[本部町](../Page/本部町.md "wikilink")にある、弁当屋の地下に作られた音楽スタジオ「[あじさい音楽村](https://ja.wikipedia.org/wiki/あじさい音楽村 "wikilink")」に集まって音楽活動をしていた地元の高校生たち6人によって[2004年](../Page/2004年.md "wikilink")に結成。沖縄県内での[路上ライブ](../Page/路上ライブ.md "wikilink")や[ライブハウス](https://ja.wikipedia.org/wiki/ライブハウス "wikilink")でのライブ活動を経て、2006年にメジャーデビューを果たす。
+[沖縄県](../Page/沖縄県.md "wikilink")[国頭郡](../Page/国頭郡.md "wikilink")[本部町](../Page/本部町.md "wikilink")にある、弁当屋の地下に作られた音楽スタジオ「[あじさい音楽村](https://ja.wikipedia.org/wiki/あじさい音楽村 "wikilink")」に集まって音楽活動をしていた地元の高校生たち6人によって[2004年](../Page/2004年.md "wikilink")に結成。沖縄県内での[路上ライブ](../Page/路上ライブ.md "wikilink")や[ライブハウス](../Page/ライブハウス.md "wikilink")でのライブ活動を経て、2006年にメジャーデビューを果たす。
 
 2009年11月、「音楽性の違い」を理由として活動休止。ボーカルのハルナはソロで音楽活動を継続する予定（あじさいミュージック公式サイト参照）。
 
@@ -164,7 +164,7 @@
 <li>島人ぬ宝
 <dl>
 <dt></dt>
-<dd><a href="https://ja.wikipedia.org/wiki/BEGIN_(バンド)" title="wikilink">BEGINの</a><a href="../Page/島人ぬ宝.md" title="wikilink">同名曲をカバー</a>。
+<dd><a href="../Page/BEGIN_(バンド).md" title="wikilink">BEGINの</a><a href="../Page/島人ぬ宝.md" title="wikilink">同名曲をカバー</a>。
 </dd>
 </dl></li>
 <li>Road－Sweet Fuchagi Mix</li>
@@ -191,7 +191,7 @@
 
 ### 配信
 
-**春〜spring〜**（2008年2月1日、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[ビーバップ\!ハイヒール](https://ja.wikipedia.org/wiki/ビーバップ!ハイヒール "wikilink")』エンディング・テーマ）
+**春〜spring〜**（2008年2月1日、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")『[ビーバップ\!ハイヒール](../Page/ビーバップ!ハイヒール.md "wikilink")』エンディング・テーマ）
 
   - [Hysteric Blueの](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")[同名曲をカバー](../Page/春〜spring〜.md "wikilink")。
 
@@ -214,7 +214,7 @@
 
 ## テレビ
 
-  - [超音2〜スーパーミュージック〜](https://ja.wikipedia.org/wiki/超音2〜スーパーミュージック〜 "wikilink")（[チバテレビ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")）ゲスト出演
+  - [超音2〜スーパーミュージック〜](https://ja.wikipedia.org/wiki/超音2〜スーパーミュージック〜 "wikilink")（[チバテレビ](../Page/千葉テレビ放送.md "wikilink")）ゲスト出演
 
 ## ラジオ
 

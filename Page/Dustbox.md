@@ -1,7 +1,7 @@
 > この記事は[Dustbox](https://ja.wikipedia.org/wiki/Dustbox)から翻訳されています。
 
 
-**dustbox**（ダストボックス）は、[日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")で[1996年](../Page/1996年.md "wikilink")結成。[1999年](../Page/1999年.md "wikilink")よりアルバム・デビュー時のメンバーに定着した。2003年[東芝EMIよりメジャーデビューするが](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、2004年再びインディーズに戻る。現在、定期的にSearching For Freedomと銘打った自主企画のライブ活動をはじめ、積極的なリリース及びフェス出演などを行なっている。
+**dustbox**（ダストボックス）は、[日本のパンク・ロック](../Page/日本のパンク・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")で[1996年](../Page/1996年.md "wikilink")結成。[1999年](../Page/1999年.md "wikilink")よりアルバム・デビュー時のメンバーに定着した。2003年[東芝EMIよりメジャーデビューするが](../Page/EMIミュージック・ジャパン.md "wikilink")、2004年再びインディーズに戻る。現在、定期的にSearching For Freedomと銘打った自主企画のライブ活動をはじめ、積極的なリリース及びフェス出演などを行なっている。
 
 ## メンバー
 
@@ -9,7 +9,7 @@
 
 本名・須賀真太郎。既婚者。二児の父。ESPミュージカルアカデミー卒。ライブのMCでよく噛む。[しけもくロッカーズ](https://ja.wikipedia.org/wiki/しけもくロッカーズ "wikilink")のギター・ボーカルを務めている。
 
-  - **JOJI**（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
+  - **JOJI**（[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
 
 本名・佐藤穣二。[しけもくロッカーズ](https://ja.wikipedia.org/wiki/しけもくロッカーズ "wikilink")のボーカルを務めている。鍵を差しっぱなしにして停めておいたバイクを盗まれたというエピソードをもとに「Neo chavez 400」という楽曲が作られた。
 
@@ -37,9 +37,9 @@
       - 09月26日、2ndフルアルバム『everlasting』を発売。
   - **[2004年](../Page/2004年.md "wikilink")**
       - 10月06日、3rdミニアルバム『triangle』をMachine Recordsより発売し、再びインディーズレーベルへ戻った。
-  - **[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")**
+  - **[2005年](../Page/2005年.md "wikilink")**
       - 05月11日、4thミニアルバム『Mr.keating』を発売。
-  - **[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")**
+  - **[2006年](../Page/2006年.md "wikilink")**
       - 02月22日、3rdシングル『4our cherries』を発売。
       - 07月19日、3rdフルアルバム『13 Brilliant Leaves』を発売。渋谷O-WESTにてツアーファイナルを行う。\*\*追加公演として行ったツアーにてファイナルを渋谷QUATTROにて行う。
   - **[2007年](../Page/2007年.md "wikilink")**
@@ -51,7 +51,7 @@
       - 10月19日、『Searching For Freedom 10th Anniversary - departure - 』と題した初映像DVD作品を発売。
       - 11月03日、6thフルアルバム『starbow』を発売。リリースツアー全国44本を行い、ツアーファイナルをなんばHATCH、名古屋DIAMOND HALL、新木場STUDIO COASTにて行う。
   - **[2013年](../Page/2013年.md "wikilink")**
-      - 06月05日、[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")、[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")とのスプリットアルバム『THE ANTHEMS』を発売。全5会場のZEPP TOURを敢行。
+      - 06月05日、[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")、[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")とのスプリットアルバム『THE ANTHEMS』を発売。全5会場のZEPP TOURを敢行。
       - 07月03日、7thフルアルバム『Care Package』を発売。リリースツアー全国44本を行い、ツアーファイナルをなんばHATCH、名古屋DIAMOND HALL、新木場STUDIO COASTにて行う。
   - '''[2014年](../Page/2014年.md "wikilink")
       - 07月21日、結成15年目を記念したワンマンライブを東京晴海旅客ターミナル特設ステージにて行う。
@@ -82,7 +82,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -130,7 +130,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/2月22日.md" title="wikilink">2月22日</a></p></td>
 <td><p>4our Cherries</p></td>
 <td><p>FGCA-16</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -206,7 +206,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -278,7 +278,7 @@
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/7月19日.md" title="wikilink">7月19日</a></p></td>
 <td><p>13 Brilliant Leaves</p></td>
 <td><p>FGCA-18</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -529,7 +529,7 @@
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p>Mr.keating</p></td>
 <td><p>FGCA-14</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -588,7 +588,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -721,14 +721,14 @@
 <tr class="header">
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/8月9日.md" title="wikilink">8月9日</a></p></td>
 <td><p>ALL MIXED UP! 2</p></td>
 <td><p>ZYBV-1001</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -787,7 +787,7 @@
 <li>THE LETTER TO THE PRESIDENT / <a href="https://ja.wikipedia.org/wiki/FULLSCRATCH" title="wikilink">FULLSCRATCH</a></li>
 <li>ALL BEGAN TO HURRY / <a href="https://ja.wikipedia.org/wiki/GLEAM_GARDEN" title="wikilink">GLEAM GARDEN</a></li>
 <li>ARE YOU STRAIGHT EDGE? / <a href="https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB" title="wikilink">HARDCORE FANCLUB</a></li>
-<li>Fire / <a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a></li>
+<li>Fire / <a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a></li>
 <li>remains / <a href="../Page/HOLSTEIN.md" title="wikilink">HOLSTEIN</a></li>
 <li>AREA47 / <a href="https://ja.wikipedia.org/wiki/IDOL_PUNCH" title="wikilink">IDOL PUNCH</a></li>
 <li>Situation / <a href="https://ja.wikipedia.org/wiki/ISCREAM_7_SHOWERS" title="wikilink">ISCREAM 7 SHOWERS</a></li>
@@ -797,7 +797,7 @@
 <li>HORSE WITH A KAPPA FACE / <a href="https://ja.wikipedia.org/wiki/LIVE_CLEAN_STAY_YOUNG" title="wikilink">LIVE CLEAN STAY YOUNG</a></li>
 <li>あらしの夜に… / <a href="../Page/THE_LOCAL_ART.md" title="wikilink">THE LOCAL ART</a></li>
 <li>cycled promises / <a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a></li>
-<li>足跡 / <a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a></li>
+<li>足跡 / <a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a></li>
 <li>INSTANT FOOD CHAIN / <a href="https://ja.wikipedia.org/wiki/MEATBUNS" title="wikilink">MEATBUNS</a></li>
 <li>JUSTICE / <a href="https://ja.wikipedia.org/wiki/M.G.T" title="wikilink">M.G.T</a></li>
 <li>Here Comes May Again / <a href="https://ja.wikipedia.org/wiki/MUGWUMPS" title="wikilink">MUGWUMPS</a></li>
@@ -901,7 +901,7 @@
 </div>
 <div class="NavContent" style="text-align:left;">
 <ol>
-<li>小さな町の小さな唄 / 海北大輔（<a href="https://ja.wikipedia.org/wiki/LOST_IN_TIME" title="wikilink">LOST IN TIME</a>）</li>
+<li>小さな町の小さな唄 / 海北大輔（<a href="../Page/LOST_IN_TIME.md" title="wikilink">LOST IN TIME</a>）</li>
 <li>Daisy Train / Tony Sly(<a href="https://ja.wikipedia.org/wiki/No_Use_For_A_Name" title="wikilink">No Use For A Name</a>）</li>
 <li>笑い声 / 三浦ユウキ(<a href="https://ja.wikipedia.org/wiki/TOMBOTORI" title="wikilink">TOMBOTORI</a>）</li>
 <li>Courage Song / YU-TAN(<a href="../Page/GOOD4NOTHING.md" title="wikilink">GOOD4NOTHING</a>）</li>
@@ -912,7 +912,7 @@
 <li><strong>HOPE UNDER THE RUBBLE / Shintaro Suga(dustbox）</strong></li>
 <li>UPRISING / YOSHIYA(<a href="https://ja.wikipedia.org/wiki/RADIOTS" title="wikilink">RADIOTS</a>）</li>
 <li>ムーンライト / 小田和奏(<a href="../Page/No_Regret_Life.md" title="wikilink">No Regret Life</a>）</li>
-<li>Star Falls On Our Hands Tonight / YUTA(<a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a>）</li>
+<li>Star Falls On Our Hands Tonight / YUTA(<a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a>）</li>
 <li>僕に至っては普通だよ / 佐佐木　春助(<a href="https://ja.wikipedia.org/wiki/東狂アルゴリズム" title="wikilink">東狂アルゴリズム</a>）</li>
 <li>たばこ屋の犬 / TEKUMA(<a href="https://ja.wikipedia.org/wiki/TAN-FEET" title="wikilink">TAN-FEET</a>)
 </div>
@@ -922,7 +922,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="https://ja.wikipedia.org/wiki/6月5日" title="wikilink">6月5日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a>/<a href="https://ja.wikipedia.org/wiki/HAWAIIAN6" title="wikilink">HAWAIIAN6</a>/dustbox『THE ANTHEMS』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/locofrank" title="wikilink">locofrank</a>/<a href="../Page/HAWAIIAN6.md" title="wikilink">HAWAIIAN6</a>/dustbox『THE ANTHEMS』</p></td>
 <td><p>XQDB-1007</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -981,11 +981,11 @@
   - 2010年 - Searching for Freedom TOUR 2010 10th ANNIVERDSRY 〜DEPARTURE〜
   - 2010年12月01日-2011年04月30日（41公演） - dustbox TOUR 2010 & 2011 -starbow-
       -
-        w/[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")/[STOMPIN'BIRD](https://ja.wikipedia.org/wiki/STOMPIN'BIRD "wikilink")/[GARLIC BOYS](https://ja.wikipedia.org/wiki/GARLIC_BOYS "wikilink")/[HARDCORE FANCLUB](https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB "wikilink")/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[Jr.MONSTER](https://ja.wikipedia.org/wiki/Jr.MONSTER "wikilink")/[Boobie Trap](https://ja.wikipedia.org/wiki/Boobie_Trap "wikilink")/[DOACOCK](https://ja.wikipedia.org/wiki/DOACOCK "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[MINOR LEAGUE](https://ja.wikipedia.org/wiki/MINOR_LEAGUE "wikilink")/[No Hitter](https://ja.wikipedia.org/wiki/No_Hitter "wikilink")/[S.M.N.](https://ja.wikipedia.org/wiki/S.M.N. "wikilink")/[camellia](https://ja.wikipedia.org/wiki/camellia "wikilink")/[FUCK YOU HEROES](https://ja.wikipedia.org/wiki/FUCK_YOU_HEROES "wikilink")/[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")/[ISCREAM 7 SHOWERS](https://ja.wikipedia.org/wiki/ISCREAM_7_SHOWERS "wikilink")/[kamomekamome](https://ja.wikipedia.org/wiki/kamomekamome "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")/[PAN](https://ja.wikipedia.org/wiki/PAN "wikilink")/[PSYCHO FOOD EATERS](https://ja.wikipedia.org/wiki/PSYCHO_FOOD_EATERS "wikilink")/[SA](https://ja.wikipedia.org/wiki/SA "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")/[BRAHMAN](https://ja.wikipedia.org/wiki/BRAHMAN "wikilink")
+        w/[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")/[STOMPIN'BIRD](https://ja.wikipedia.org/wiki/STOMPIN'BIRD "wikilink")/[GARLIC BOYS](https://ja.wikipedia.org/wiki/GARLIC_BOYS "wikilink")/[HARDCORE FANCLUB](https://ja.wikipedia.org/wiki/HARDCORE_FANCLUB "wikilink")/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[Jr.MONSTER](https://ja.wikipedia.org/wiki/Jr.MONSTER "wikilink")/[Boobie Trap](https://ja.wikipedia.org/wiki/Boobie_Trap "wikilink")/[DOACOCK](https://ja.wikipedia.org/wiki/DOACOCK "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[MINOR LEAGUE](https://ja.wikipedia.org/wiki/MINOR_LEAGUE "wikilink")/[No Hitter](https://ja.wikipedia.org/wiki/No_Hitter "wikilink")/[S.M.N.](https://ja.wikipedia.org/wiki/S.M.N. "wikilink")/[camellia](https://ja.wikipedia.org/wiki/camellia "wikilink")/[FUCK YOU HEROES](https://ja.wikipedia.org/wiki/FUCK_YOU_HEROES "wikilink")/[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")/[ISCREAM 7 SHOWERS](https://ja.wikipedia.org/wiki/ISCREAM_7_SHOWERS "wikilink")/[kamomekamome](https://ja.wikipedia.org/wiki/kamomekamome "wikilink")/[locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink")/[PAN](https://ja.wikipedia.org/wiki/PAN "wikilink")/[PSYCHO FOOD EATERS](https://ja.wikipedia.org/wiki/PSYCHO_FOOD_EATERS "wikilink")/[SA](https://ja.wikipedia.org/wiki/SA "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[10-FEET](../Page/10-FEET.md "wikilink")/[BRAHMAN](../Page/BRAHMAN.md "wikilink")
   - 2012年 - [ASPARAGUS](../Page/ASPARAGUS.md "wikilink"), dustbox "Callaway & TaylorMade 2012"
   - 2012年 - dustbox presents Searching for Freedom TOUR
       -
-        w/[サンボマスター](https://ja.wikipedia.org/wiki/サンボマスター "wikilink")/[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")
+        w/[サンボマスター](../Page/サンボマスター.md "wikilink")/[ヒダカトオル](https://ja.wikipedia.org/wiki/ヒダカトオル "wikilink")
   - 2013年 - dustbox presents -KOSHIGAYA ROCK FESTIVAL 2013-
       -
         w/GARLIC BOYS/10-FEET/[ドブロク](https://ja.wikipedia.org/wiki/ドブロク "wikilink")/[folca](https://ja.wikipedia.org/wiki/folca "wikilink")/[MY WAY MY LOVE](../Page/MY_WAY_MY_LOVE.md "wikilink")/[RED BACTERIA VACUUM](https://ja.wikipedia.org/wiki/RED_BACTERIA_VACUUM "wikilink")
@@ -1003,7 +1003,7 @@
         w/[TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")
   - 2014年 - dustbox 15th Anniversary - Chaotic Week Tour 2014 【Mercury】-
       -
-        w/[HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink")
+        w/[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink")
   - 2014年07月21日 - dustbox 15th Anniversary 単独公演 - Here Comes A Miracle - 会場:東京晴海旅客ターミナル特設ステージ
   - 2014年08月31日 - dustbox presents Searching For Freedom vo.57 KOSHIGAYA ROCK FES 2014
   - 2014年02月01日〜11月24日 - dustbox 15th Anniversary Chaotic Week Tour 2014
@@ -1060,7 +1060,7 @@
   - 2009年08月30日 - RUSH BALL 2009
   - 2009年09月06日 - PUNKAFOOLIC\! SHIBUYA CRASH 2009
   - 2009年09月12日 - MASTER COLISEUM'09
-  - 2009年11月21日,27日,12月01日 - [10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink") Life is sweet TOUR2009-2010
+  - 2009年11月21日,27日,12月01日 - [10-FEET](../Page/10-FEET.md "wikilink") Life is sweet TOUR2009-2010
   - 2009年12月23日 - ポルノ超特急2009 本陣
   - 2009年12月31日 - COUNTDOWN JAPAN 09/10
   - 2010年02月07日 - NO MATTER LIVE 2010
@@ -1077,7 +1077,7 @@
   - 2011年08月06日 - 八食サマーフリーライブ 2011
   - 2011年08月13日 - RISING SUN ROCK FESTIVAL 2011 in EZO
   - 2011年09月23日 - MASTER COLISEUM'11
-  - 2011年10月29日,31日,11月01日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") "one by one" TOUR
+  - 2011年10月29日,31日,11月01日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") "one by one" TOUR
   - 2011年11月02日 - [福岡大学](../Page/福岡大学.md "wikilink") presents -第56回七隈祭前夜祭-
   - 2011年11月18日 - Subciety A.V.E.S.T PROJECT Vol.5
   - 2011年12月20日 - 10-FEET "その向こうへ" TOUR 2011
@@ -1103,7 +1103,7 @@
   - 2012年09月23日 - [SABOTEN](../Page/SABOTEN.md "wikilink"),[PAN](../Page/PAN_\(バンド\).md "wikilink") presents「マスターコロシアム '12」
   - 2012年09月30日 - [the telephones](https://ja.wikipedia.org/wiki/the_telephones "wikilink")「RED HOT DISCO\!\!\!　〜PLAY BALL SAITAMA〜」
   - 2012年10月05日 - [SLANG](https://ja.wikipedia.org/wiki/SLANG "wikilink")「Glory Outshines Doom Tour」
-  - 2012年10月08日 - [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") presents「ECHOES 2012」
+  - 2012年10月08日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") presents「ECHOES 2012」
   - 2012年10月12日,14日,25日 - 10-FEET "thread" TOUR 2012-2013
   - 2012年10月28日,30日 - [THE CHERRY COKE$](../Page/THE_CHERRY_COKE$.md "wikilink") 5th Full Albumリリースツアー "Revenge Of The Phantom Ship"
   - 2012年11月04日 - [早稲田大学](../Page/早稲田大学.md "wikilink")広告研究会 presents - free for music 〜 Music Dive〜 -
@@ -1125,7 +1125,7 @@
   - 2013年05月18日 - SSMC 2013
   - 2013年06月09日 - POWER STOCK 2013 in MIYAKO
   - 2013年06月13日 - HEY-SMITH "Now Album" JAPAN TOUR.
-  - 2013年06月17日-07月04日（5公演） - [locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink") [HAWAIIAN6](https://ja.wikipedia.org/wiki/HAWAIIAN6 "wikilink") dustbox ZEPP TOUR 2013
+  - 2013年06月17日-07月04日（5公演） - [locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink") [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") dustbox ZEPP TOUR 2013
   - 2013年07月06日 - 京都大作戦2013〜天の川今年も宇治で見上げな祭〜
   - 2013年07月13日 - SUMMER CAMP 2013
   - 2013年07月20日 - SUN BURST 2013
@@ -1154,7 +1154,7 @@
   - 2014年06月07日 - SATANIC CARNIVAL'14
   - 2014年06月21日 - GIANT LOOP FES 2014
   - 2014年06月25日 - [SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")「Baitfish Attitude Tour 2014 -FINAL SERIES-」
-  - 2014年06月28日 - [NAMBA69](https://ja.wikipedia.org/wiki/難波章浩 "wikilink")「MELODIC PUNKS NOT DEAD\!\!\! TOUR 2014」
+  - 2014年06月28日 - [NAMBA69](../Page/難波章浩.md "wikilink")「MELODIC PUNKS NOT DEAD\!\!\! TOUR 2014」
   - 2014年07月05日 - 京都大作戦2014〜束になってかかってきな祭！〜
   - 2014年07月19日 - KESEN ROCK FESTIVAL'14
   - 2014年08月10日 - ROCK IN JAPAN FESTIVAL 2014
@@ -1225,7 +1225,7 @@
 ## その他
 
   - バンド名は不安や後悔を俺に投げつけて前に進んで欲しいという理由から。
-  - [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")には、[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")、[Dragon Ashと並び](https://ja.wikipedia.org/wiki/Dragon_Ash "wikilink")12年連続皆勤出演している。（2018年は[平成30年7月豪雨](https://ja.wikipedia.org/wiki/平成30年7月豪雨 "wikilink")の影響で中止。なお、2019年は2週に渡り出演した。）
+  - [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")には、[10-FEET](../Page/10-FEET.md "wikilink")、[Dragon Ashと並び](../Page/Dragon_Ash.md "wikilink")12年連続皆勤出演している。（2018年は[平成30年7月豪雨](https://ja.wikipedia.org/wiki/平成30年7月豪雨 "wikilink")の影響で中止。なお、2019年は2週に渡り出演した。）
 
 ## 関連項目
 

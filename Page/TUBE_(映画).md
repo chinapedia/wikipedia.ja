@@ -5,9 +5,9 @@
 
 ## ストーリー
 
-[金浦空港で](https://ja.wikipedia.org/wiki/金浦国際空港 "wikilink")、[政府](../Page/政府.md "wikilink")の要人を狙う[テロが起こった](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。激しい銃撃戦の中、駆けつけたチャン刑事（[キム・ソックン](https://ja.wikipedia.org/wiki/キム・ソックン "wikilink")）は逃亡する一味を追うが、すんでのところで捕り逃がしてしまう。しかし、そのテロリストの中に、自分が以前護衛した要人が襲われた時に恋人が殺され、自分も乱闘の末に[指を詰める大怪我を負わせられた相手であるカン](https://ja.wikipedia.org/wiki/指詰め "wikilink")・ギテク（[ソン・ビョンホ](https://ja.wikipedia.org/wiki/ソン・ビョンホ "wikilink")）がいたことが判明した。
+[金浦空港で](../Page/金浦国際空港.md "wikilink")、[政府](../Page/政府.md "wikilink")の要人を狙う[テロが起こった](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。激しい銃撃戦の中、駆けつけたチャン刑事（[キム・ソックン](https://ja.wikipedia.org/wiki/キム・ソックン "wikilink")）は逃亡する一味を追うが、すんでのところで捕り逃がしてしまう。しかし、そのテロリストの中に、自分が以前護衛した要人が襲われた時に恋人が殺され、自分も乱闘の末に[指を詰める大怪我を負わせられた相手であるカン](../Page/指詰め.md "wikilink")・ギテク（[ソン・ビョンホ](https://ja.wikipedia.org/wiki/ソン・ビョンホ "wikilink")）がいたことが判明した。
 
-もともと国家情報部の最精鋭秘密要員だったカン・ギテクは、政府から追放された後、要員を[暗殺](../Page/暗殺.md "wikilink")して手配中だった。新任市長団の地下鉄視察がある[日](../Page/日.md "wikilink")、カン・ギテクは、[地下鉄](../Page/地下鉄.md "wikilink")を奪取して大型テロを敢行しようとする。これに勘づいた[スリ](https://ja.wikipedia.org/wiki/スリ "wikilink")、インギョン（[ペ・ドゥナ](../Page/ペ・ドゥナ.md "wikilink")）の緊急連絡を受けたチャン刑事は、問題の地下鉄への[搭乗](https://ja.wikipedia.org/wiki/搭乗 "wikilink")を試みる。
+もともと国家情報部の最精鋭秘密要員だったカン・ギテクは、政府から追放された後、要員を[暗殺](../Page/暗殺.md "wikilink")して手配中だった。新任市長団の地下鉄視察がある[日](../Page/日.md "wikilink")、カン・ギテクは、[地下鉄](../Page/地下鉄.md "wikilink")を奪取して大型テロを敢行しようとする。これに勘づいた[スリ](../Page/スリ.md "wikilink")、インギョン（[ペ・ドゥナ](../Page/ペ・ドゥナ.md "wikilink")）の緊急連絡を受けたチャン刑事は、問題の地下鉄への[搭乗](https://ja.wikipedia.org/wiki/搭乗 "wikilink")を試みる。
 
 ## キャスト
 
@@ -46,12 +46,12 @@
 <tr class="odd">
 <td><p>ソン・インギョン</p></td>
 <td><p><a href="../Page/ペ・ドゥナ.md" title="wikilink">ペ・ドゥナ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/園崎未恵" title="wikilink">園崎未恵</a></p></td>
+<td><p><a href="../Page/園崎未恵.md" title="wikilink">園崎未恵</a></p></td>
 </tr>
 <tr class="even">
 <td><p>カン・ギテク</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パク・サンミン" title="wikilink">パク・サンミン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中村秀利" title="wikilink">中村秀利</a></p></td>
+<td><p><a href="../Page/中村秀利.md" title="wikilink">中村秀利</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>クォン中央統制室長</p></td>
@@ -66,24 +66,24 @@
 <tr class="odd">
 <td><p>かみそり</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クォン・オジュン_(俳優)" title="wikilink">クォン・オジュン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/竹若拓磨" title="wikilink">竹若拓磨</a></p></td>
+<td><p><a href="../Page/竹若拓磨.md" title="wikilink">竹若拓磨</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ソン・イルグォン</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ソン・ヨンテ" title="wikilink">ソン・ヨンテ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/牛山茂" title="wikilink">牛山茂</a></p></td>
+<td><p><a href="../Page/牛山茂.md" title="wikilink">牛山茂</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>その他</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/河相智哉" title="wikilink">河相智哉</a><br />
-<a href="https://ja.wikipedia.org/wiki/長克巳" title="wikilink">長克巳</a><br />
-<a href="https://ja.wikipedia.org/wiki/辻親八" title="wikilink">辻親八</a><br />
-<a href="https://ja.wikipedia.org/wiki/柳沢栄治" title="wikilink">柳沢栄治</a><br />
+<td><p><a href="../Page/河相智哉.md" title="wikilink">河相智哉</a><br />
+<a href="../Page/長克巳.md" title="wikilink">長克巳</a><br />
+<a href="../Page/辻親八.md" title="wikilink">辻親八</a><br />
+<a href="../Page/柳沢栄治.md" title="wikilink">柳沢栄治</a><br />
 <a href="../Page/浅井晴美.md" title="wikilink">浅井晴美</a><br />
 <a href="https://ja.wikipedia.org/wiki/寺田はるひ" title="wikilink">寺田はるひ</a><br />
 <a href="../Page/上田燿司.md" title="wikilink">上田燿司</a><br />
-<a href="https://ja.wikipedia.org/wiki/新垣樽助" title="wikilink">新垣樽助</a><br />
+<a href="../Page/新垣樽助.md" title="wikilink">新垣樽助</a><br />
 <a href="../Page/杉山大.md" title="wikilink">杉山大</a><br />
 <a href="../Page/大野エリ.md" title="wikilink">大野エリ</a><br />
 <a href="../Page/藤井啓輔.md" title="wikilink">藤井啓輔</a><br />
@@ -160,7 +160,7 @@
 
 ## 裏話
 
-この映画で舞台となっている「7103」という地下鉄車両の車体は[ソウル特別市都市鉄道公社7号線](https://ja.wikipedia.org/wiki/ソウル特別市都市鉄道公社7号線 "wikilink")で使われている[ソウル特別市都市鉄道公社7000系電車](../Page/ソウル特別市都市鉄道公社7000系電車.md "wikilink")の7003編成（7103は正確には編成の 先頭[制御車](../Page/制御車.md "wikilink")(Tc)）を使って撮影しているが、車内及び一部の車外は他車及びセットである。また、一部では[釜山都市鉄道2号線](https://ja.wikipedia.org/wiki/釜山都市鉄道2号線 "wikilink")の車両も使われた。実車には[ソウルメトロ](https://ja.wikipedia.org/wiki/ソウルメトロ "wikilink")所属車のような[枕木](https://ja.wikipedia.org/wiki/枕木 "wikilink")方向の[LED](https://ja.wikipedia.org/wiki/LED "wikilink")案内表示機はない。
+この映画で舞台となっている「7103」という地下鉄車両の車体は[ソウル特別市都市鉄道公社7号線](https://ja.wikipedia.org/wiki/ソウル特別市都市鉄道公社7号線 "wikilink")で使われている[ソウル特別市都市鉄道公社7000系電車](../Page/ソウル特別市都市鉄道公社7000系電車.md "wikilink")の7003編成（7103は正確には編成の 先頭[制御車](../Page/制御車.md "wikilink")(Tc)）を使って撮影しているが、車内及び一部の車外は他車及びセットである。また、一部では[釜山都市鉄道2号線](https://ja.wikipedia.org/wiki/釜山都市鉄道2号線 "wikilink")の車両も使われた。実車には[ソウルメトロ](../Page/ソウルメトロ.md "wikilink")所属車のような[枕木](../Page/枕木.md "wikilink")方向の[LED](https://ja.wikipedia.org/wiki/LED "wikilink")案内表示機はない。
 
 ## 脚注
 

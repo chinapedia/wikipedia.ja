@@ -5,7 +5,7 @@
 
 ## 概要
 
-HDDは[半導体メモリ](../Page/半導体メモリ.md "wikilink")に比べてアクセスが遅く（特に[シーク](https://ja.wikipedia.org/wiki/シーク_\(コンピュータ\) "wikilink")）、長年[コンピュータ](../Page/コンピュータ.md "wikilink")機器の性能の[ボトルネック](https://ja.wikipedia.org/wiki/ボトルネック "wikilink")となっていた。また、プラッタとヘッドの駆動に[モーターを使っているので消費電力が大きく](../Page/電動機.md "wikilink")、[ノートパソコン](../Page/ノートパソコン.md "wikilink")や[モバイル端末](https://ja.wikipedia.org/wiki/モバイル端末 "wikilink")などのような[バッテリーを使う機器の](../Page/二次電池.md "wikilink")、駆動時間の短さに繋がっていた。物理的な駆動をするため、消耗・劣化も激しく、[情報機器](https://ja.wikipedia.org/wiki/情報機器 "wikilink")に使われている部品の中では最も壊れやすいものの1つである。
+HDDは[半導体メモリ](../Page/半導体メモリ.md "wikilink")に比べてアクセスが遅く（特に[シーク](https://ja.wikipedia.org/wiki/シーク_\(コンピュータ\) "wikilink")）、長年[コンピュータ](../Page/コンピュータ.md "wikilink")機器の性能の[ボトルネック](../Page/ボトルネック.md "wikilink")となっていた。また、プラッタとヘッドの駆動に[モーターを使っているので消費電力が大きく](../Page/電動機.md "wikilink")、[ノートパソコン](../Page/ノートパソコン.md "wikilink")や[モバイル端末](https://ja.wikipedia.org/wiki/モバイル端末 "wikilink")などのような[バッテリーを使う機器の](../Page/二次電池.md "wikilink")、駆動時間の短さに繋がっていた。物理的な駆動をするため、消耗・劣化も激しく、[情報機器](../Page/情報機器.md "wikilink")に使われている部品の中では最も壊れやすいものの1つである。
 
 この解決策の1つに、[ソリッドステートドライブ](../Page/ソリッドステートドライブ.md "wikilink")（以下単にSSD）によるHDDの置き換えがある。しかし、大幅な高速化と省電力化が図れる反面、SSDの容量単価は、2000年代後半においてもHDDのそれよりも大幅に高く、現行の数十 - 数百[GBのHDDを置き換えるにはコストがかかりすぎてしまう](../Page/ギガバイト.md "wikilink")。そのため、フラッシュメモリとHDD両方の特徴（高速、省電力、大容量）を持つ、ハイブリッドHDDが開発された。
 
@@ -17,7 +17,7 @@ HDDは[半導体メモリ](../Page/半導体メモリ.md "wikilink")に比べて
 
 2007年9月、内蔵ハイブリッドHDDは日本国内で一般には出回っておらず、NECなどの一部ノートパソコンに採用されているに留まった。また極わずかな数量ながら、自作系ショップで「内蔵型HDD」が限定販売されたが、開店直後に完売となるなど一部のユーザーの間で大きな注目を集めた。
 
-2007年10月後半になって、[シーゲイトから大容量フラッシュ搭載品としては初の](https://ja.wikipedia.org/wiki/シーゲイト・テクノロジー "wikilink")2.5インチハイブリッドHDD「Momentus 5400 PSD」シリーズが発売され、12月には[サムスンからも販売開始した](../Page/サムスン電子.md "wikilink")。これにより、一般ユーザもハイブリッドHDDの入手が簡単になった。しかし、自作系の専門ショップでも取り扱っていない場合も多く、販売している店舗数は限られていた。
+2007年10月後半になって、[シーゲイトから大容量フラッシュ搭載品としては初の](../Page/シーゲイト・テクノロジー.md "wikilink")2.5インチハイブリッドHDD「Momentus 5400 PSD」シリーズが発売され、12月には[サムスンからも販売開始した](../Page/サムスン電子.md "wikilink")。これにより、一般ユーザもハイブリッドHDDの入手が簡単になった。しかし、自作系の専門ショップでも取り扱っていない場合も多く、販売している店舗数は限られていた。
 
 2007年に登場した第4世代Intel [Centrino](../Page/Centrino.md "wikilink")プラットフォームでは「[Intel Turbo Memory](https://ja.wikipedia.org/wiki/Intel_Turbo_Memory "wikilink")」が導入された。これは通常のHDDと専用のフラッシュメモリを組み合わせることでWindows ReadyDriveと[Windows ReadyBoostを利用可能にする](../Page/Windows_ReadyBoost.md "wikilink")。
 
@@ -89,4 +89,4 @@ HDDは[半導体メモリ](../Page/半導体メモリ.md "wikilink")に比べて
 1.
 2.
 3.  東芝は型番の末尾に「H」が付く製品、ウェスタン・デジタルは「WD Blue SSHD」シリーズ
-4.  例：[Marvell](https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ "wikilink")＝HyperDuo、[Broadcom](https://ja.wikipedia.org/wiki/ブロードコム "wikilink") MegaRAID＝CacheCade Pro、[Adaptec](../Page/アダプテック.md "wikilink")＝Max IQ。
+4.  例：[Marvell](https://ja.wikipedia.org/wiki/マーベル・テクノロジー・グループ "wikilink")＝HyperDuo、[Broadcom](../Page/ブロードコム.md "wikilink") MegaRAID＝CacheCade Pro、[Adaptec](../Page/アダプテック.md "wikilink")＝Max IQ。

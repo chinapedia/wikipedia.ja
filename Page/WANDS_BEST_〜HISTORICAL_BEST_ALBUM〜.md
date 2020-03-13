@@ -1,11 +1,11 @@
 > この記事は[WANDS BEST HISTORICAL BEST ALBUM](https://ja.wikipedia.org/wiki/WANDS_BEST_HISTORICAL_BEST_ALBUM)から翻訳されています。
 
 
-『**WANDS BEST 〜HISTORICAL BEST ALBUM〜**』（ワンズ・ベスト ヒストリカル・ベスト・アルバム）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月6日](../Page/11月6日.md "wikilink")に発売された[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")。発売元は[B-Gram RECORDS](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")。
+『**WANDS BEST 〜HISTORICAL BEST ALBUM〜**』（ワンズ・ベスト ヒストリカル・ベスト・アルバム）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[11月6日](../Page/11月6日.md "wikilink")に発売された[WANDS](../Page/WANDS.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。発売元は[B-Gram RECORDS](../Page/B-Gram_RECORDS.md "wikilink")。
 
 ## リリース
 
-メンバーが変更（第3期）された直後にリリースされた2枚目のベスト・アルバムで、WANDS最後の[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位獲得作品。
+メンバーが変更（第3期）された直後にリリースされた2枚目のベスト・アルバムで、WANDS最後の[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位獲得作品。
 
 シングル曲を中心とした選曲となっているが、7thシングル「[Jumpin' Jack Boy](../Page/Jumpin'_Jack_Boy.md "wikilink")」のみ収録されていない。また、第2期時代のアルバム『[PIECE OF MY SOUL](../Page/PIECE_OF_MY_SOUL.md "wikilink")』に収録されている楽曲「MILLION MILES AWAY」は3期のメンバーによって再録音されている。
 
@@ -17,7 +17,7 @@ WANDSのボーカルであった上杉は「**『[SINGLES COLLECTION+6](../Page/
 
 ## 批評
 
-CDジャーナルは、「メンバー・チェンジのたびに、サウンドも進化し続けてきた[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")。そんな3期にわたる歴史が集約されている。」と批評した上で、「作品を出す毎に[ハードなロック色を強めていく姿が](../Page/ハードロック.md "wikilink")、時代ごとに楽曲を追いかけ聴いていくと、見えてくるはずだ。」肯定的に評価している\[1\]。
+CDジャーナルは、「メンバー・チェンジのたびに、サウンドも進化し続けてきた[WANDS](../Page/WANDS.md "wikilink")。そんな3期にわたる歴史が集約されている。」と批評した上で、「作品を出す毎に[ハードなロック色を強めていく姿が](../Page/ハードロック.md "wikilink")、時代ごとに楽曲を追いかけ聴いていくと、見えてくるはずだ。」肯定的に評価している\[1\]。
 
 ## 収録曲
 
@@ -35,7 +35,7 @@ CDジャーナルは、「メンバー・チェンジのたびに、サウンド
       - 第1期。
 3.  **[もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")**
       - 第1期。リミックスバージョンで、間奏やエンディング部分における[ギター](../Page/ギター.md "wikilink")のパートが完全にカットされている。
-4.  **[世界中の誰よりきっと](https://ja.wikipedia.org/wiki/世界中の誰よりきっと "wikilink") 〜Album Version〜**
+4.  **[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink") 〜Album Version〜**
       - 第1期。リミックスバージョン。
 5.  **[時の扉](../Page/時の扉_\(WANDSの曲\).md "wikilink")**
       - 第2期。リミックスバージョンで、演奏が右チャンネルと左チャンネルで分けられている。
@@ -66,11 +66,11 @@ CDジャーナルは、「メンバー・チェンジのたびに、サウンド
 
   - 収録曲の参加ミュージシャンの詳細は、各項目を参照。
 
-### [WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")
+### [WANDS](../Page/WANDS.md "wikilink")
 
 **第1期**<small>（[1991年](../Page/1991年.md "wikilink")〜[1992年](../Page/1992年.md "wikilink")）</small>
 
-  - Vocal：[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")
+  - Vocal：[上杉昇](../Page/上杉昇.md "wikilink")
   - Guitar：[柴崎浩](../Page/柴崎浩.md "wikilink")
   - Keyboards：[大島康祐](../Page/大島こうすけ.md "wikilink")
 
@@ -78,7 +78,7 @@ CDジャーナルは、「メンバー・チェンジのたびに、サウンド
 
   - Vocal：上杉昇
   - Guitar：柴崎浩
-  - Keyboards：[木村真也](https://ja.wikipedia.org/wiki/木村真也 "wikilink")
+  - Keyboards：[木村真也](../Page/木村真也.md "wikilink")
 
 **第3期**<small>（1997年〜[2000年](../Page/2000年.md "wikilink")）</small>
 

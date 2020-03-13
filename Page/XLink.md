@@ -11,7 +11,7 @@
 
 XLinkは、[HTMLのハイパーリンク](../Page/HyperText_Markup_Language.md "wikilink")（a要素）に似ている（だいたい、HTMLのa要素を汎用に調整したもの、と言える）。また、[SGML](https://ja.wikipedia.org/wiki/SGML "wikilink")においても、[HyTime](https://ja.wikipedia.org/wiki/HyTime "wikilink")(ハイタイム・Hypermedia/Time-based Structuring Language)と呼ばれる文書間をリンクするための規格が策定されており\[1\]、XLinkはHyTimeのうち特に重要な一部機構をXML上で実現する規格とも考えられる。
 
-XLinkは、[XMLドキュメント間のリンクを記述するものだが](../Page/Extensible_Markup_Language.md "wikilink")、HTMLのハイパーリンクに加えて、双方向のリンクが可能、ドキュメントと独立してリンクの記述が可能などの特徴を持つ。国際的に普及している標準仕様で、XLinkを採用しているものに[XBRLがある](https://ja.wikipedia.org/wiki/Extensible_Business_Reporting_Language "wikilink")。
+XLinkは、[XMLドキュメント間のリンクを記述するものだが](../Page/Extensible_Markup_Language.md "wikilink")、HTMLのハイパーリンクに加えて、双方向のリンクが可能、ドキュメントと独立してリンクの記述が可能などの特徴を持つ。国際的に普及している標準仕様で、XLinkを採用しているものに[XBRLがある](../Page/Extensible_Business_Reporting_Language.md "wikilink")。
 
 ## 脚注
 

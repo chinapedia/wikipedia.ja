@@ -9,7 +9,7 @@
 
 ## 概要
 
-[ポップス](../Page/ポピュラー音楽.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[クラブジャズ](https://ja.wikipedia.org/wiki/クラブジャズ "wikilink")、[ハウス](https://ja.wikipedia.org/wiki/ハウス_\(音楽\) "wikilink")、AORなどの洋楽を中心とした幅広いルーツを持つ。
+[ポップス](../Page/ポピュラー音楽.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[クラブジャズ](https://ja.wikipedia.org/wiki/クラブジャズ "wikilink")、[ハウス](../Page/ハウス_\(音楽\).md "wikilink")、AORなどの洋楽を中心とした幅広いルーツを持つ。
 
 現在作詞・作曲はKutsu-ringが行い、アレンジ、プロデュース等は作品によって変わる事が多い。
 
@@ -23,7 +23,7 @@
 
   - ボーカル、ピアノ、コーラス。血液型A型。
   - 現在はほぼ全ての楽曲の作詞作曲を担当する。OL、イベントコンパニオンとして勤務していたことがある。
-  - [札幌国際大学](https://ja.wikipedia.org/wiki/札幌国際大学 "wikilink")[人文・社会学部](https://ja.wikipedia.org/wiki/人文・社会学部 "wikilink")卒業。
+  - [札幌国際大学](../Page/札幌国際大学.md "wikilink")[人文・社会学部](https://ja.wikipedia.org/wiki/人文・社会学部 "wikilink")卒業。
   - 猫を2匹飼っている。ガラム（オス）、マサラ（メス）。由来はスパイスの名前から。
 
 ### デビューしてからの脱退メンバー
@@ -34,7 +34,7 @@
 
 同年10月に、 Vocal,GuitarからなるAcid Jazzユニット Original Flava（オリジナル フラヴァ）として Wess Records よりメジャーデビュー。 アルバムプロデュースも手がける。
 
-現在、[三浦涼介](https://ja.wikipedia.org/wiki/三浦涼介 "wikilink")ツアーメンバー、「INSPIRE OMEGATRIBE」（旧名 [オメガトライブ](../Page/オメガトライブ.md "wikilink")）、ジャズフュージョンバンド「SHIFT」のギタリストとして活躍中。
+現在、[三浦涼介](../Page/三浦涼介.md "wikilink")ツアーメンバー、「INSPIRE OMEGATRIBE」（旧名 [オメガトライブ](../Page/オメガトライブ.md "wikilink")）、ジャズフュージョンバンド「SHIFT」のギタリストとして活躍中。
 
   - 松原　仁（まつばら　ひとし、1974年8月22日） Bass、作曲、編曲
 

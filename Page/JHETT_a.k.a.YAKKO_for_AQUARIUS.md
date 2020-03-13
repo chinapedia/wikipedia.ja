@@ -7,7 +7,7 @@
 
 1990年代初めから、[東京都](../Page/東京都.md "wikilink")を中心に日本各地のクラブでDJとしてのキャリアをスタート。ラップ、ダンス、DJと数々のコンテストで優勝し以降音楽プロデューサー、DJとして活動。
 
-アンダーグラウンド・ヒップホップ・シーンでの活動によって名を知られるようになり、[NITRO MICROPHONE UNDERGROUNDの](https://ja.wikipedia.org/wiki/NITRO_MICROPHONE_UNDERGROUND "wikilink")1stアルバム『NITRO MICROPHONE UNDERGROUND』、およびNITRO MICROPHONE UNDERGROUNDのメンバーである[DABO](../Page/DABO.md "wikilink")、[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")、[S-WORD](../Page/S-WORD.md "wikilink")、[DELI](../Page/DELI.md "wikilink")、[XBS](../Page/XBS.md "wikilink")、[SUIKEN](../Page/SUIKEN.md "wikilink")、[GORE-TEX](https://ja.wikipedia.org/wiki/GORE-TEX_\(ミュージシャン\) "wikilink")、[BIGZAM](https://ja.wikipedia.org/wiki/BIGZAM "wikilink")から、[キングギドラ](https://ja.wikipedia.org/wiki/KGDR "wikilink")、[OZROSAURUS](../Page/OZROSAURUS.md "wikilink")に至るまで数々の日本語ヒップホップの作品を手掛ける。また[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")のプロジェクト「[SUITE CHIC](../Page/SUITE_CHIC.md "wikilink")」のシングルや[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の[川畑要](https://ja.wikipedia.org/wiki/川畑要 "wikilink")、[AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")、[HI-D](../Page/HI-D.md "wikilink")、[MICHICO](../Page/MICHICO.md "wikilink")、[椿](https://ja.wikipedia.org/wiki/椿 "wikilink")の楽曲プロデュースなども手掛ける。
+アンダーグラウンド・ヒップホップ・シーンでの活動によって名を知られるようになり、[NITRO MICROPHONE UNDERGROUNDの](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")1stアルバム『NITRO MICROPHONE UNDERGROUND』、およびNITRO MICROPHONE UNDERGROUNDのメンバーである[DABO](../Page/DABO.md "wikilink")、[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")、[S-WORD](../Page/S-WORD.md "wikilink")、[DELI](../Page/DELI.md "wikilink")、[XBS](../Page/XBS.md "wikilink")、[SUIKEN](../Page/SUIKEN.md "wikilink")、[GORE-TEX](https://ja.wikipedia.org/wiki/GORE-TEX_\(ミュージシャン\) "wikilink")、[BIGZAM](https://ja.wikipedia.org/wiki/BIGZAM "wikilink")から、[キングギドラ](../Page/KGDR.md "wikilink")、[OZROSAURUS](../Page/OZROSAURUS.md "wikilink")に至るまで数々の日本語ヒップホップの作品を手掛ける。また[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")のプロジェクト「[SUITE CHIC](../Page/SUITE_CHIC.md "wikilink")」のシングルや[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の[川畑要](../Page/川畑要.md "wikilink")、[AI](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")、[HI-D](../Page/HI-D.md "wikilink")、[MICHICO](../Page/MICHICO.md "wikilink")、[椿](https://ja.wikipedia.org/wiki/椿 "wikilink")の楽曲プロデュースなども手掛ける。
 
 2005年には、R\&Bプロジェクト「**JHETT**（ジェット）」を始動。リミックス・アルバムには[ロイ・エアーズ](../Page/ロイ・エアーズ.md "wikilink")、[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")、[須永辰緒](https://ja.wikipedia.org/wiki/須永辰緒 "wikilink")、[福富幸宏](../Page/福富幸宏.md "wikilink")、[COLDFEET](https://ja.wikipedia.org/wiki/COLDFEET "wikilink")など多数の著名アーティストが参加している。
 
@@ -86,11 +86,11 @@
 <li>Oh Boy feat. <a href="https://ja.wikipedia.org/wiki/Heartsdales" title="wikilink">Heartsdales</a></li>
 <li>Sweetest feat. <a href="../Page/LISA_(歌手).md" title="wikilink">LISA</a></li>
 <li>Just Go feat. KODA KUMI</li>
-<li>Heart Breaker feat. <a href="https://ja.wikipedia.org/wiki/浦嶋りんこ" title="wikilink">RINKO URASHIMA</a></li>
+<li>Heart Breaker feat. <a href="../Page/浦嶋りんこ.md" title="wikilink">RINKO URASHIMA</a></li>
 <li>Leave It To Fate feat. LORI FINE(<a href="https://ja.wikipedia.org/wiki/COLDFEET" title="wikilink">COLDFEET</a>)</li>
-<li>Get Out feat. YUKI(<a href="https://ja.wikipedia.org/wiki/YeLLOW_Generation" title="wikilink">YeLLOW Generation</a>)</li>
+<li>Get Out feat. YUKI(<a href="../Page/YeLLOW_Generation.md" title="wikilink">YeLLOW Generation</a>)</li>
 <li>Call U Every Nite feat. <a href="../Page/MICHICO.md" title="wikilink">MICHICO</a></li>
-<li>Everything inside of Me feat. <a href="https://ja.wikipedia.org/wiki/リナ・パーク" title="wikilink">Lena Park</a></li>
+<li>Everything inside of Me feat. <a href="../Page/リナ・パーク.md" title="wikilink">Lena Park</a></li>
 <li>Outro feat. ia</li>
 <li>Uh...Uh... (Ver.2K5) ／ <a href="../Page/SUITE_CHIC.md" title="wikilink">SUITE CHIC</a> feat. <a href="https://ja.wikipedia.org/wiki/AI_(歌手)" title="wikilink">AI</a></li>
 </ol>

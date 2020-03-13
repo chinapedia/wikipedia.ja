@@ -1,7 +1,7 @@
 > この記事は[K2C \(\)](https://ja.wikipedia.org/wiki/K2C_\(\))から翻訳されています。
 
 
-『**K2C**』（ケー・ツー・シー）は、[米米CLUB](../Page/米米CLUB.md "wikilink")の6枚目の[アルバム](../Page/アルバム.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")発売。発売元は[CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")。
+『**K2C**』（ケー・ツー・シー）は、[米米CLUB](../Page/米米CLUB.md "wikilink")の6枚目の[アルバム](../Page/アルバム.md "wikilink")。[1991年](../Page/1991年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")発売。発売元は[CBSソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
 
 ## 解説
 
@@ -9,7 +9,7 @@
 
 初回限定版には、「Kick Knock」「2much 2ist」「Co-Conga」の3曲が収録された[8cmCD](https://ja.wikipedia.org/wiki/8cmCD "wikilink")が付属した。ちなみにこの3曲の頭文字をとると、アルバムタイトルである「**K2C**」となる。
 
-「Just U」は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の再結成時にリメイクされ、シングル[E-ヨ](../Page/E-ヨ.md "wikilink")のカップリングとして発売された。
+「Just U」は[2006年](../Page/2006年.md "wikilink")の再結成時にリメイクされ、シングル[E-ヨ](../Page/E-ヨ.md "wikilink")のカップリングとして発売された。
 
 ## 収録曲
 
@@ -31,7 +31,7 @@
 8.  **Simple Mind**
 9.  **[Sûre Danse](https://ja.wikipedia.org/wiki/sure_danse "wikilink")**
       -
-        「Paradise」同様シングル発売時の改変前に近い形のアレンジ。後の[ベスト・アルバム](https://ja.wikipedia.org/wiki/ベスト・アルバム "wikilink")「[DECADE](../Page/DECADE_\(米米CLUBのアルバム\).md "wikilink")」にて、「元祖 sure danse」としてより初期構想に近い形で再びリメイクされる。
+        「Paradise」同様シングル発売時の改変前に近い形のアレンジ。後の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")「[DECADE](../Page/DECADE_\(米米CLUBのアルバム\).md "wikilink")」にて、「元祖 sure danse」としてより初期構想に近い形で再びリメイクされる。
 10. **Transfer**
 11. **STAY**
 12. **Just U**

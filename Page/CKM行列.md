@@ -1,7 +1,7 @@
 > この記事は[CKM](https://ja.wikipedia.org/wiki/CKM)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Cabibbo_Kobayashi_2.jpg "wikilink")（左）と[小林誠](https://ja.wikipedia.org/wiki/小林誠_\(物理学者\) "wikilink")（右）\]\] **カビボ・小林・益川行列**（カビボ・こばやし・ますかわぎょうれつ, ）は、[素粒子物理学](https://ja.wikipedia.org/wiki/素粒子物理学 "wikilink")の[標準理論において](../Page/標準模型.md "wikilink")、[フレーバーが変化する場合における弱崩壊の結合定数を表す](https://ja.wikipedia.org/wiki/フレーバー_\(素粒子\) "wikilink")[ユニタリー行列](https://ja.wikipedia.org/wiki/ユニタリー行列 "wikilink")である。 頭文字をとって**CKM行列**と呼ばれることが多い。**クォーク混合行列**とも言われる。 CKM行列は[クォーク](https://ja.wikipedia.org/wiki/クォーク "wikilink")が自由に伝播する場合と[弱い相互作用](https://ja.wikipedia.org/wiki/弱い相互作用 "wikilink")を起こす場合の[量子状態](../Page/量子状態.md "wikilink")の不整合を示しており、[CP対称性の破れ](../Page/CP対称性の破れ.md "wikilink")を説明するために必要不可欠である。この行列は元々[ニコラ・カビボ](https://ja.wikipedia.org/wiki/ニコラ・カビボ "wikilink")が2世代の行列理論として公表していたものを、[小林誠と](https://ja.wikipedia.org/wiki/小林誠_\(物理学者\) "wikilink")[益川敏英](../Page/益川敏英.md "wikilink")が3世代の行列にして完成したものである。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Cabibbo_Kobayashi_2.jpg "wikilink")（左）と[小林誠](../Page/小林誠_\(物理学者\).md "wikilink")（右）\]\] **カビボ・小林・益川行列**（カビボ・こばやし・ますかわぎょうれつ, ）は、[素粒子物理学](https://ja.wikipedia.org/wiki/素粒子物理学 "wikilink")の[標準理論において](../Page/標準模型.md "wikilink")、[フレーバーが変化する場合における弱崩壊の結合定数を表す](https://ja.wikipedia.org/wiki/フレーバー_\(素粒子\) "wikilink")[ユニタリー行列](https://ja.wikipedia.org/wiki/ユニタリー行列 "wikilink")である。 頭文字をとって**CKM行列**と呼ばれることが多い。**クォーク混合行列**とも言われる。 CKM行列は[クォーク](https://ja.wikipedia.org/wiki/クォーク "wikilink")が自由に伝播する場合と[弱い相互作用](https://ja.wikipedia.org/wiki/弱い相互作用 "wikilink")を起こす場合の[量子状態](../Page/量子状態.md "wikilink")の不整合を示しており、[CP対称性の破れ](../Page/CP対称性の破れ.md "wikilink")を説明するために必要不可欠である。この行列は元々[ニコラ・カビボ](../Page/ニコラ・カビボ.md "wikilink")が2世代の行列理論として公表していたものを、[小林誠と](../Page/小林誠_\(物理学者\).md "wikilink")[益川敏英](../Page/益川敏英.md "wikilink")が3世代の行列にして完成したものである。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 ## カビボ角
 
-1963年、カビボはそれまでの[ゲルマンらの研究により導かれていた弱い相互作用の普遍性を保存するために](https://ja.wikipedia.org/wiki/マレー・ゲルマン "wikilink")**カビボ角**（θ<sub>c</sub>）を提唱した。当時まだクォークモデルは存在していなかったが、これは[ダウンクォーク](../Page/ダウンクォーク.md "wikilink")や[ストレンジクォーク](../Page/ストレンジクォーク.md "wikilink")が[アップクォーク](../Page/アップクォーク.md "wikilink")へと崩壊する場合にかかわる現象（|*V*<sub>ud</sub>|<sup>2</sup> および |*V*<sub>us</sub>|<sup>2</sup> に相当する）をよく説明できた。 弱荷電カレントによりアップクォークへと崩壊するクォークは、一般に下系列クォークの重ね合わせ状態となっている。これを *d′*として表記すると、ベクトル表示では
+1963年、カビボはそれまでの[ゲルマンらの研究により導かれていた弱い相互作用の普遍性を保存するために](../Page/マレー・ゲルマン.md "wikilink")**カビボ角**（θ<sub>c</sub>）を提唱した。当時まだクォークモデルは存在していなかったが、これは[ダウンクォーク](../Page/ダウンクォーク.md "wikilink")や[ストレンジクォーク](../Page/ストレンジクォーク.md "wikilink")が[アップクォーク](../Page/アップクォーク.md "wikilink")へと崩壊する場合にかかわる現象（|*V*<sub>ud</sub>|<sup>2</sup> および |*V*<sub>us</sub>|<sup>2</sup> に相当する）をよく説明できた。 弱荷電カレントによりアップクォークへと崩壊するクォークは、一般に下系列クォークの重ね合わせ状態となっている。これを *d′*として表記すると、ベクトル表示では
 
 \[|d^\prime \rangle = V_{ud} | d \rangle + V_{us} | s \rangle\] となる。カビボ角を用いれば
 
@@ -136,7 +136,7 @@ N = 2 の場合、2世代のクォーク間の混合角を表す位相因子は1
 
 CKM行列の対角成分でユニタリティーの制限は
 
-\[\sum_j |V_{ij}|^2 = 1 \quad (i=1,\,2,\,3)\] である。これは上向き[アイソスピン](https://ja.wikipedia.org/wiki/アイソスピン "wikilink")を持つクォークと下向きアイソスピンを持つクォークのペアの数が全ての世代で同じことを示唆している。この関係はカビボが[1967年](../Page/1967年.md "wikilink")に**弱い相互作用の普遍性（弱い相互作用のユニバーサリティー）**として初めて指摘した。理論上全ての SU(2) 粒子対は弱い相互作用の[ゲージボソン](https://ja.wikipedia.org/wiki/ゲージボソン "wikilink")と同じ強さで結合することが導かれ、これまでの実験結果と一致している。
+\[\sum_j |V_{ij}|^2 = 1 \quad (i=1,\,2,\,3)\] である。これは上向き[アイソスピン](../Page/アイソスピン.md "wikilink")を持つクォークと下向きアイソスピンを持つクォークのペアの数が全ての世代で同じことを示唆している。この関係はカビボが[1967年](../Page/1967年.md "wikilink")に**弱い相互作用の普遍性（弱い相互作用のユニバーサリティー）**として初めて指摘した。理論上全ての SU(2) 粒子対は弱い相互作用の[ゲージボソン](https://ja.wikipedia.org/wiki/ゲージボソン "wikilink")と同じ強さで結合することが導かれ、これまでの実験結果と一致している。
 
 ## ユニタリティー三角形
 
@@ -149,9 +149,9 @@ CKM行列で残りのユニタリティーの制限は
 ## 関連項目
 
   - [CP対称性の破れ](../Page/CP対称性の破れ.md "wikilink")
-  - [ニコラ・カビボ](https://ja.wikipedia.org/wiki/ニコラ・カビボ "wikilink")
+  - [ニコラ・カビボ](../Page/ニコラ・カビボ.md "wikilink")
   - [小林・益川理論](../Page/小林・益川理論.md "wikilink")
-      - [小林誠](https://ja.wikipedia.org/wiki/小林誠_\(物理学者\) "wikilink")
+      - [小林誠](../Page/小林誠_\(物理学者\).md "wikilink")
       - [益川敏英](../Page/益川敏英.md "wikilink")
 
 [Category:素粒子物理学](https://ja.wikipedia.org/wiki/Category:素粒子物理学 "wikilink") [Category:標準模型](https://ja.wikipedia.org/wiki/Category:標準模型 "wikilink") [Category:行列](https://ja.wikipedia.org/wiki/Category:行列 "wikilink") [Category:エポニム](https://ja.wikipedia.org/wiki/Category:エポニム "wikilink")

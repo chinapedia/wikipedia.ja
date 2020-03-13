@@ -1,7 +1,7 @@
 > この記事は[Atol](https://ja.wikipedia.org/wiki/Atol)から翻訳されています。
 
 
-**atol** (ASCII to Long Integer) は、文字列を[整数型](https://ja.wikipedia.org/wiki/整数型 "wikilink")に変換する[C言語](../Page/C言語.md "wikilink")の[標準Cライブラリ](https://ja.wikipedia.org/wiki/標準Cライブラリ "wikilink")の[関数](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")。標準ヘッダーファイル `<stdlib.h>`で宣言されている。読み方は規格では特に定められていない。
+**atol** (ASCII to Long Integer) は、文字列を[整数型](../Page/整数型.md "wikilink")に変換する[C言語](../Page/C言語.md "wikilink")の[標準Cライブラリ](../Page/標準Cライブラリ.md "wikilink")の[関数](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")。標準ヘッダーファイル `<stdlib.h>`で宣言されている。読み方は規格では特に定められていない。
 
 ## 概要
 

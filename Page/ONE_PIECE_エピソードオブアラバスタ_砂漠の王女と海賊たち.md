@@ -13,37 +13,37 @@
 
 本編のDVD版は特別編共に2007年7月21日発売。「ワンピース」映画化10作を記念して[Blu-ray Disc版が](../Page/Blu-ray_Disc.md "wikilink")2010年1月21日発売。
 
-2011年8月20日の『[土曜プレミアム](https://ja.wikipedia.org/wiki/土曜プレミアム "wikilink")』では、新作カットを加えた特別編が放送された。新作カットは、ウイスキーピークでビビが麦わらの一味の船に乗る経緯を描いている。
+2011年8月20日の『[土曜プレミアム](../Page/土曜プレミアム.md "wikilink")』では、新作カットを加えた特別編が放送された。新作カットは、ウイスキーピークでビビが麦わらの一味の船に乗る経緯を描いている。
 
 ## キャスト
 
-  - [モンキー・D・ルフィ](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink") - [田中真弓](../Page/田中真弓.md "wikilink")
-  - [ロロノア・ゾロ](../Page/ロロノア・ゾロ.md "wikilink") - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")
-  - [ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink") - [岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")
+  - [モンキー・D・ルフィ](../Page/モンキー・D・ルフィ.md "wikilink") - [田中真弓](../Page/田中真弓.md "wikilink")
+  - [ロロノア・ゾロ](../Page/ロロノア・ゾロ.md "wikilink") - [中井和哉](../Page/中井和哉.md "wikilink")
+  - [ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink") - [岡村明美](../Page/岡村明美.md "wikilink")
   - [ウソップ](../Page/ウソップ.md "wikilink") - [山口勝平](../Page/山口勝平.md "wikilink")
   - [サンジ](../Page/サンジ.md "wikilink") - [平田広明](../Page/平田広明.md "wikilink")
   - [トニートニー・チョッパー](https://ja.wikipedia.org/wiki/トニートニー・チョッパー "wikilink") - [大谷育江](../Page/大谷育江.md "wikilink")
-  - [ネフェルタリ・ビビ](https://ja.wikipedia.org/wiki/アラバスタ王国#ネフェルタリ・ビビ "wikilink") - [渡辺美佐](https://ja.wikipedia.org/wiki/渡辺美佐_\(声優\) "wikilink")
-  - [サー・クロコダイル](https://ja.wikipedia.org/wiki/王下七武海#サー・クロコダイル "wikilink") - [大友龍三郎](https://ja.wikipedia.org/wiki/大友龍三郎 "wikilink")
-  - ミス・オールサンデー（[ニコ・ロビン](../Page/ニコ・ロビン.md "wikilink")） - [山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink")
+  - [ネフェルタリ・ビビ](https://ja.wikipedia.org/wiki/アラバスタ王国#ネフェルタリ・ビビ "wikilink") - [渡辺美佐](../Page/渡辺美佐_\(声優\).md "wikilink")
+  - [サー・クロコダイル](https://ja.wikipedia.org/wiki/王下七武海#サー・クロコダイル "wikilink") - [大友龍三郎](../Page/大友龍三郎.md "wikilink")
+  - ミス・オールサンデー（[ニコ・ロビン](../Page/ニコ・ロビン.md "wikilink")） - [山口由里子](../Page/山口由里子.md "wikilink")
   - コーザ、ハグワール・D・サウロ - [草尾毅](../Page/草尾毅.md "wikilink")
-  - ペル - [野島健児](https://ja.wikipedia.org/wiki/野島健児_\(声優\) "wikilink")
-  - チャカ - [植村喜八郎](https://ja.wikipedia.org/wiki/植村喜八郎 "wikilink")
-  - テラコッタ - [園部啓一](https://ja.wikipedia.org/wiki/園部啓一 "wikilink")
-  - Mr.2・ボン・クレー - [矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")
-  - Mr.1 - [稲田徹](https://ja.wikipedia.org/wiki/稲田徹 "wikilink")
-  - ミス・ダブルフィンガー - [橘U子](https://ja.wikipedia.org/wiki/橘U子 "wikilink")
-  - Mr.4 - [高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")
+  - ペル - [野島健児](../Page/野島健児_\(声優\).md "wikilink")
+  - チャカ - [植村喜八郎](../Page/植村喜八郎.md "wikilink")
+  - テラコッタ - [園部啓一](../Page/園部啓一.md "wikilink")
+  - Mr.2・ボン・クレー - [矢尾一樹](../Page/矢尾一樹.md "wikilink")
+  - Mr.1 - [稲田徹](../Page/稲田徹.md "wikilink")
+  - ミス・ダブルフィンガー - [橘U子](../Page/橘U子.md "wikilink")
+  - Mr.4 - [高塚正也](../Page/高塚正也.md "wikilink")
   - ミス・メリークリスマス - [金月真美](../Page/金月真美.md "wikilink")
   - Mr.7 - [けーすけ](../Page/けーすけ.md "wikilink")
-  - ミス・ファーザーズデー - [中友子](https://ja.wikipedia.org/wiki/中友子 "wikilink")
+  - ミス・ファーザーズデー - [中友子](../Page/中友子.md "wikilink")
   - カッパ - [野田順子](../Page/野田順子.md "wikilink")
-  - 副リーダー - [竹本英史](https://ja.wikipedia.org/wiki/竹本英史 "wikilink")
+  - 副リーダー - [竹本英史](../Page/竹本英史.md "wikilink")
   - カルー - [粗忽屋](../Page/平田広明.md "wikilink")
-  - トト - [塚田正昭](https://ja.wikipedia.org/wiki/塚田正昭 "wikilink")
+  - トト - [塚田正昭](../Page/塚田正昭.md "wikilink")
   - ラッスー - [青野武](../Page/青野武.md "wikilink")
   - メイディ - [川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")
-  - ネフェルタリ・コブラ - [家弓家正](https://ja.wikipedia.org/wiki/家弓家正 "wikilink")
+  - ネフェルタリ・コブラ - [家弓家正](../Page/家弓家正.md "wikilink")
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 :\* [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")
 
-:\* [南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")
+:\* [南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")
 
 :\* [田村淳](../Page/田村淳.md "wikilink") （[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）
 
@@ -64,7 +64,7 @@
   - 製作担当 - 清水洋一
   - 編集 - 後藤正浩
   - 録音 - 渡辺絵里奈
-  - 効果 - [新井秀徳](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")
+  - 効果 - [新井秀徳](../Page/フィズサウンドクリエイション.md "wikilink")
   - 撮影監督 - 若尾卓見、大西弘悟
   - CG監督 - 新井啓介
   - 美術監督 - 吉池隆司

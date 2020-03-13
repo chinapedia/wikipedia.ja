@@ -22,9 +22,9 @@
   - キング：[殺陣剛太](../Page/殺陣剛太.md "wikilink")
   - クラブ：[江原修](https://ja.wikipedia.org/wiki/江原修 "wikilink")
   - パンク：[山下真広](https://ja.wikipedia.org/wiki/山下真広 "wikilink")
-  - キャッシュ：[橋本さとし](https://ja.wikipedia.org/wiki/橋本さとし "wikilink")
+  - キャッシュ：[橋本さとし](../Page/橋本さとし.md "wikilink")
   - 橘刑事：[水上竜士](../Page/水上竜士.md "wikilink")
-  - 阿南刑事：[宇梶剛士](https://ja.wikipedia.org/wiki/宇梶剛士 "wikilink")
+  - 阿南刑事：[宇梶剛士](../Page/宇梶剛士.md "wikilink")
 
 ## スタッフ
 
@@ -47,11 +47,11 @@
   - 企画協力：中川好久、百田英生
   - 宣伝：植竹敏孝
   - [タイミング](https://ja.wikipedia.org/wiki/カラコレ "wikilink")：上野芳弘
-  - [オプチカル](https://ja.wikipedia.org/wiki/光学合成 "wikilink")：金子鉄男
+  - [オプチカル](../Page/光学合成.md "wikilink")：金子鉄男
   - ネガ編集：[三陽編集室](https://ja.wikipedia.org/wiki/三陽編集室 "wikilink")
   - タイトルデザイン：津田輝王
   - タイトル：[島田プロダクション](https://ja.wikipedia.org/wiki/島田プロダクション "wikilink")
-  - 録音スタジオ：[アオイスタジオ](../Page/アオイスタジオ.md "wikilink")、[アルカブース](https://ja.wikipedia.org/wiki/アルカブース_\(企業\) "wikilink")
+  - 録音スタジオ：[アオイスタジオ](../Page/アオイスタジオ.md "wikilink")、[アルカブース](../Page/アルカブース_\(企業\).md "wikilink")
   - 現像：[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")、PIA（フィリピン）
   - 協力：CINE FORCE、[報映産業](https://ja.wikipedia.org/wiki/報映産業 "wikilink")、[日本映機](https://ja.wikipedia.org/wiki/日本映機 "wikilink")、[稲川素子事務所](../Page/稲川素子事務所.md "wikilink")、エディオフィス、龍保険事務所、[中田商店](../Page/中田商店.md "wikilink")
   - 製作協力：DIGEX、LA TRINIDAD Production

@@ -1,12 +1,12 @@
 > この記事は[Stereo Fabrication of Youth](https://ja.wikipedia.org/wiki/Stereo_Fabrication_of_Youth)から翻訳されています。
 
 
-**Stereo Fabrication of Youth**（ステレオ・ファブリケーション・オブ・ユース）は、[名古屋](../Page/名古屋.md "wikilink")出身\[1\]の[エモーショナル・ハードコア](https://ja.wikipedia.org/wiki/エモーショナル・ハードコア "wikilink")・[ギター](../Page/ギター.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年[名古屋大学](../Page/名古屋大学.md "wikilink")フォークソング同好会にて結成。2003年[東芝EMIよりメジャーデビュー](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。現在はインディーズで活動している。略称はステファブ。
+**Stereo Fabrication of Youth**（ステレオ・ファブリケーション・オブ・ユース）は、[名古屋](../Page/名古屋.md "wikilink")出身\[1\]の[エモーショナル・ハードコア](https://ja.wikipedia.org/wiki/エモーショナル・ハードコア "wikilink")・[ギター](../Page/ギター.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1999年[名古屋大学](../Page/名古屋大学.md "wikilink")フォークソング同好会にて結成。2003年[東芝EMIよりメジャーデビュー](../Page/EMIミュージック・ジャパン.md "wikilink")。現在はインディーズで活動している。略称はステファブ。
 
 ## メンバー
 
   - **江口亮**（えぐち りょう、[1979年](../Page/1979年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink") - ）ボーカル・ギター担当。
-      - [岐阜県](../Page/岐阜県.md "wikilink")[関市](../Page/関市.md "wikilink")出身。[中京大学](https://ja.wikipedia.org/wiki/中京大学 "wikilink")卒。
+      - [岐阜県](../Page/岐阜県.md "wikilink")[関市](../Page/関市.md "wikilink")出身。[中京大学](../Page/中京大学.md "wikilink")卒。
       - ギター以外にもキーボードも弾ける。和田在籍時は主に作曲を担当。
       - 現在は[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")としても活動しており、[LiSA](https://ja.wikipedia.org/wiki/LiSA "wikilink")、[さユり](https://ja.wikipedia.org/wiki/さユり "wikilink")、[いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")、[東京パフォーマンスドール](../Page/東京パフォーマンスドール.md "wikilink")(新生)などの楽曲のアレンジを中心に活動している他、[school food punishment](https://ja.wikipedia.org/wiki/school_food_punishment "wikilink")、[cinema staffなどの楽曲制作](https://ja.wikipedia.org/wiki/cinema_staff "wikilink")（後述）にも携わっている。また、2012年からは元school food punishmentの内村友美らと結成した[la la larksでキーボード](https://ja.wikipedia.org/wiki/la_la_larks "wikilink")・ギターを務めている。
       - [初音ミク](../Page/初音ミク.md "wikilink")「[マジカルミライ2013](https://ja.wikipedia.org/wiki/初音ミクのメディア展開#ライブイベント "wikilink")」のサウンドプロデュースを担当した。\[2\]
@@ -28,7 +28,7 @@
   - **加藤由浩**（かとう よしひろ） ドラム担当。
       - 岐阜県関市出身。2000年夏に加入。
       - 江口の高校時代の後輩である。
-      - 好きなアーティストは[ベック](https://ja.wikipedia.org/wiki/ベック_\(歌手\) "wikilink")。
+      - 好きなアーティストは[ベック](../Page/ベック_\(歌手\).md "wikilink")。
       - 一時期、和田と同居していたことがある。
       - 名古屋で行われたワンマンを期に、2005年7月25日脱退。現在は引退し、営業マン。
 
@@ -68,8 +68,8 @@
 
   - 「[卒業写真](../Page/SAKURA_\(いきものがかりの曲\).md "wikilink")」（編曲）
   - 「[HANABI](../Page/HANABI_\(いきものがかりの曲\).md "wikilink")」（編曲・共サウンドプロデュース・アコースティックギター・キーボード）（サウンドプロデュースは西原永二と共同）
-  - 「[GET CRAZY\! - 秋 mix version -](https://ja.wikipedia.org/wiki/コイスルオトメ "wikilink")」（編曲）
-  - 「[流星ミラクル](https://ja.wikipedia.org/wiki/流星ミラクル "wikilink")」（編曲・プログラミング・ギター・ベース・ピアノ）
+  - 「[GET CRAZY\! - 秋 mix version -](../Page/コイスルオトメ.md "wikilink")」（編曲）
+  - 「[流星ミラクル](../Page/流星ミラクル.md "wikilink")」（編曲・プログラミング・ギター・ベース・ピアノ）
   - 「風に吹かれて」（編曲・プログラミング・ギター・ベース）
   - 「[うるわしきひと](https://ja.wikipedia.org/wiki/うるわしきひと/青春のとびら "wikilink")」（編曲・共サウンドプロデュース・ギター・ベース・キーボード）（サウンドプロデュースは西原永二と共同）
   - 「春一番」（編曲）
@@ -299,7 +299,7 @@
   - 「Exceeeed\!\!」（編曲）
   - 「メロンソーダ」（編曲）
 
-**[ユンナ](https://ja.wikipedia.org/wiki/ユンナ "wikilink")**
+**[ユンナ](../Page/ユンナ.md "wikilink")**
 
   - 「向日葵」（作曲・編曲・プロデュース）
   - 「儚く強く」（作曲・編曲）

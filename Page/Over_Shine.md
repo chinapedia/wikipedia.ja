@@ -14,7 +14,7 @@
 ## 収録曲
 
 1.  **Over Shine**
-      - 作詞：愛内里菜 / 作曲：[輝門](https://ja.wikipedia.org/wiki/輝門 "wikilink") / 編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞：愛内里菜 / 作曲：[輝門](../Page/輝門.md "wikilink") / 編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
     <!-- end list -->
       -
         「立てノリ」楽曲。「Over Shine」は「溢れんばかりの輝き」を意味し、愛内がリスナーにとって「光」のような存在で、力になっていきたいという願いを込めている。

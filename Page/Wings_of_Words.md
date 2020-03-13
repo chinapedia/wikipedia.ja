@@ -1,18 +1,18 @@
 > この記事は[Wings of Words](https://ja.wikipedia.org/wiki/Wings_of_Words)から翻訳されています。
 
 
-「**Wings of Words**」（ウィングス・オブ・ワーズ）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の15枚目のシングル。初回版と通常盤で収録曲が異なる。
+「**Wings of Words**」（ウィングス・オブ・ワーズ）は、[2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の15枚目のシングル。初回版と通常盤で収録曲が異なる。
 
 ## 解説
 
   - 前作「[キミがいる](https://ja.wikipedia.org/wiki/キミがいる "wikilink")」から5ヶ月ぶりのシングル。
-  - 「Wings of Words」はアニメ『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』の第4期オープニング曲。
+  - 「Wings of Words」はアニメ『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の第4期オープニング曲。
   - 初回版・通常盤ともにカップリングに[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")の[カバー](../Page/カバー.md "wikilink")曲「Change the World」を収録している。
   - 「Change the World」は[サントリー](../Page/サントリー.md "wikilink")ウイスキー「[角瓶](https://ja.wikipedia.org/wiki/角瓶 "wikilink")」のCMで唄ったワンフレーズしか存在しなかったが、それが好評だったため今作にフルで収録されることになった（『CDでーた』2005年8月号）。
   - 「Wings of Words」は4thアルバム『[fo(u)r](https://ja.wikipedia.org/wiki/fo\(u\)r "wikilink")』に収録されている。ただしシングルのものとは伴奏が微妙に異なるアルバムバージョン（『[ALL THE BEST](../Page/ALL_THE_BEST.md "wikilink")』も同様）。
   - アニメでオンエアされたバージョンでは、最初に「空は飛べないけど翼ならあるのさ」という歌詞が挿入されているが、フルバージョンには入っていない。
   - 初回盤には堂珍・川畑それぞれのソロ楽曲を収録。川畑はソロ名義「BUGSY」（バグジー）として参加。「BROTHERHOOD」にて共演した[DABO](../Page/DABO.md "wikilink")と再び共演。
-  - 初回盤：[平井久司](https://ja.wikipedia.org/wiki/平井久司 "wikilink")・植田洋一描き下ろしロング・スリーブ・ジャケット仕様ステッカー、[キラ・ヤマト](https://ja.wikipedia.org/wiki/キラ・ヤマト "wikilink")のキャラクターカード封入。
+  - 初回盤：[平井久司](../Page/平井久司.md "wikilink")・植田洋一描き下ろしロング・スリーブ・ジャケット仕様ステッカー、[キラ・ヤマト](../Page/キラ・ヤマト.md "wikilink")のキャラクターカード封入。
   - 通常盤：初回のみ[ラクス・クライン](../Page/ラクス・クライン.md "wikilink")のキャラクターカード封入。
 
 ## 収録曲
@@ -23,8 +23,8 @@
 
 1.  Wings of Words
       -
-        （作詞：[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") 作曲：[葛谷葉子](../Page/葛谷葉子.md "wikilink")、[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 編曲：谷口尚久）
-        [TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』オープニングテーマ
+        （作詞：[森雪之丞](../Page/森雪之丞.md "wikilink") 作曲：[葛谷葉子](../Page/葛谷葉子.md "wikilink")、[谷口尚久](https://ja.wikipedia.org/wiki/谷口尚久 "wikilink") 編曲：谷口尚久）
+        [TBS系アニメ](../Page/TBSテレビ.md "wikilink")『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』オープニングテーマ
 2.  わしを市民球場に連れてって。/ 堂珍嘉邦
       -
         （作詞、作曲、編曲：堂珍嘉邦、GOOD LOVIN'）

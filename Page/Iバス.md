@@ -25,7 +25,7 @@
   - [2002年](../Page/2002年.md "wikilink")（平成14年）[4月30日](../Page/4月30日.md "wikilink") - 本格運行を開始する\[1\]。
   - 2002年（平成14年）[9月](../Page/9月.md "wikilink") - 小田急バスの車両による運行から、専用車両による運行に変更する。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[5月1日](../Page/5月1日.md "wikilink") - 平尾団地から[京王よみうりランド駅](../Page/京王よみうりランド駅.md "wikilink")ルートの運転を開始する。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）[12月20日](../Page/12月20日.md "wikilink") - 京王よみうりランド駅 - [よみうりランド丘の湯](https://ja.wikipedia.org/wiki/よみうりランド丘の湯 "wikilink")を延伸、市内循環ルートの迂回路線を本路線に変更する\[2\]。また、インターネットによるバス位置確認情報サービスを一時休止する。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）[12月20日](../Page/12月20日.md "wikilink") - 京王よみうりランド駅 - [よみうりランド丘の湯](https://ja.wikipedia.org/wiki/よみうりランド丘の湯 "wikilink")を延伸、市内循環ルートの迂回路線を本路線に変更する\[2\]。また、インターネットによるバス位置確認情報サービスを一時休止する。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[4月23日](../Page/4月23日.md "wikilink") - [尾根幹線道路](https://ja.wikipedia.org/wiki/尾根幹線道路 "wikilink")の開通に伴い、[矢野口駅](https://ja.wikipedia.org/wiki/矢野口駅 "wikilink")、榎戸の[バス停留所](../Page/バス停留所.md "wikilink")を移設する\[3\]。
   - 2006年（平成18年）[11月20日](../Page/11月20日.md "wikilink") - 平尾団地から[稲城市立病院](https://ja.wikipedia.org/wiki/稲城市立病院 "wikilink")ルートの試験運行を開始する\[4\]。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）[2月28日](../Page/2月28日.md "wikilink") - インターネットでのバス位置確認情報サービスを終了する\[5\]。
@@ -44,7 +44,7 @@
 
 小田急バスIC[定期券](../Page/定期乗車券.md "wikilink")、小田急バス[一日フリーパス](../Page/一日乗車券.md "wikilink")、小田急バスの[高齢者](../Page/高齢者.md "wikilink")専用割引定期券「ナイスパス」\[9\]も利用可能である。
 
-また、[東京都シルバーパス](https://ja.wikipedia.org/wiki/東京都シルバーパス "wikilink")の利用も可能である。[障害者](../Page/障害者.md "wikilink")割引もあり、大人運賃のみ各種[障害者手帳](../Page/障害者手帳.md "wikilink")提示により半額となる（子供運賃の割引はなし）。路線の一部で[川崎市](../Page/川崎市.md "wikilink")内を通行する箇所があるが、[精神障害者保健福祉手帳](../Page/精神障害者保健福祉手帳.md "wikilink")での割引は東京都内の区間のみ割引が適用される。
+また、[東京都シルバーパス](../Page/東京都シルバーパス.md "wikilink")の利用も可能である。[障害者](../Page/障害者.md "wikilink")割引もあり、大人運賃のみ各種[障害者手帳](../Page/障害者手帳.md "wikilink")提示により半額となる（子供運賃の割引はなし）。路線の一部で[川崎市](../Page/川崎市.md "wikilink")内を通行する箇所があるが、[精神障害者保健福祉手帳](../Page/精神障害者保健福祉手帳.md "wikilink")での割引は東京都内の区間のみ割引が適用される。
 
 ## 現行路線
 
@@ -62,7 +62,7 @@
 
 ### はるひ野駅～南多摩駅前 往復（Cコース）
 
-  - [はるひ野駅](https://ja.wikipedia.org/wiki/はるひ野駅 "wikilink") - [若葉台駅](https://ja.wikipedia.org/wiki/若葉台駅 "wikilink") - 上谷戸親水公園 - 向陽台 - 稲城市立病院 - 南多摩駅前
+  - [はるひ野駅](../Page/はるひ野駅.md "wikilink") - [若葉台駅](https://ja.wikipedia.org/wiki/若葉台駅 "wikilink") - 上谷戸親水公園 - 向陽台 - 稲城市立病院 - 南多摩駅前
 
 ### 平尾団地～南多摩駅前 循環（Dコース）
 
@@ -147,7 +147,7 @@
 <!-- end list -->
 
   - [日野・ポンチョ](../Page/日野・ポンチョ.md "wikilink")
-      - [ノンステップバス](https://ja.wikipedia.org/wiki/ノンステップバス "wikilink")。経年車のリエッセの代替で導入。[大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")デザインの稲城市の[ゆるキャラ](https://ja.wikipedia.org/wiki/ゆるキャラ "wikilink")「稲城なしのすけ」が描かれている。
+      - [ノンステップバス](../Page/ノンステップバス.md "wikilink")。経年車のリエッセの代替で導入。[大河原邦男](../Page/大河原邦男.md "wikilink")デザインの稲城市の[ゆるキャラ](../Page/ゆるキャラ.md "wikilink")「稲城なしのすけ」が描かれている。
       - 2017年4月に導入された新型車両には、稲城市をホームタウンとする[東京ヴェルディ](https://ja.wikipedia.org/wiki/東京ヴェルディ "wikilink")のキャラクター「ヴェルディくん」もラッピングされている\[32\]。
 
 ## 脚注
@@ -156,7 +156,7 @@
 
   - [稲城市](../Page/稲城市.md "wikilink")
   - [小田急バス町田営業所](../Page/小田急バス町田営業所.md "wikilink")
-  - [大河原邦男](https://ja.wikipedia.org/wiki/大河原邦男 "wikilink")
+  - [大河原邦男](../Page/大河原邦男.md "wikilink")
   - [コミュニティバス](../Page/コミュニティバス.md "wikilink")
   - [日本のコミュニティバス一覧](../Page/日本のコミュニティバス一覧.md "wikilink")
 

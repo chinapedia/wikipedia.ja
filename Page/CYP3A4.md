@@ -3,7 +3,7 @@
 
 **シトクロムP450 3A4** (**CYP3A4**) は[シトクロムP450](../Page/シトクロムP450.md "wikilink") (CYP) の分子種の一種であり、人体に存在するを代謝する[酵素](../Page/酵素.md "wikilink")の主要なものの1つである。CYPによる酸化反応では寄与する範囲が最も広い。また、[肝臓](../Page/肝臓.md "wikilink")に存在するCYPのうちの大部分を占める。
 
-[胎児](https://ja.wikipedia.org/wiki/胎児 "wikilink")は肝臓その他の組織でCYP3A4ではなく同様な基質に作用するCYP3A7を作る。成長に伴い、CYP3A7はCYP3A4に徐々に置き換えられていく。
+[胎児](../Page/胎児.md "wikilink")は肝臓その他の組織でCYP3A4ではなく同様な基質に作用するCYP3A7を作る。成長に伴い、CYP3A7はCYP3A4に徐々に置き換えられていく。
 
 ## 分布
 
@@ -15,19 +15,19 @@
 
 CYP3A4が基質とする物質は多数あり、薬剤の代謝において大きな役割をはたしている。以下にCYP3A4の主な基質を挙げる。
 
-| 基質                                                              | 反応             |
-| --------------------------------------------------------------- | -------------- |
-| [アミオダロン](https://ja.wikipedia.org/wiki/アミオダロン "wikilink")       | N-脱メチル         |
-| [カルバマゼピン](https://ja.wikipedia.org/wiki/カルバマゼピン "wikilink")     | エポキシ化          |
-| [エリスロマイシン](../Page/エリスロマイシン.md "wikilink")                      | N-脱メチル         |
-| [シクロスポリンA](https://ja.wikipedia.org/wiki/シクロスポリンA "wikilink")   | N-脱メチル、メチル基水酸化 |
-| [タクロリムス](../Page/タクロリムス.md "wikilink")                          | O-脱メチル、C-酸化    |
-| [タモキシフェン](https://ja.wikipedia.org/wiki/タモキシフェン "wikilink")     | N-脱メチル、α-水酸化   |
-| [シクロホスファミド](https://ja.wikipedia.org/wiki/シクロホスファミド "wikilink") | 4-水酸化、N-脱アルキル  |
-| [パクリタキセル](../Page/パクリタキセル.md "wikilink")                        | 3'-水酸化         |
-| [テルフェナジン](https://ja.wikipedia.org/wiki/テルフェナジン "wikilink")     | C-酸化、N-脱アルキル   |
-| [コデイン](../Page/コデイン.md "wikilink")                              | N-脱メチル         |
-| [テストステロン](https://ja.wikipedia.org/wiki/テストステロン "wikilink")     | 6β-水酸化         |
+| 基質                                                            | 反応             |
+| ------------------------------------------------------------- | -------------- |
+| [アミオダロン](https://ja.wikipedia.org/wiki/アミオダロン "wikilink")     | N-脱メチル         |
+| [カルバマゼピン](https://ja.wikipedia.org/wiki/カルバマゼピン "wikilink")   | エポキシ化          |
+| [エリスロマイシン](../Page/エリスロマイシン.md "wikilink")                    | N-脱メチル         |
+| [シクロスポリンA](https://ja.wikipedia.org/wiki/シクロスポリンA "wikilink") | N-脱メチル、メチル基水酸化 |
+| [タクロリムス](../Page/タクロリムス.md "wikilink")                        | O-脱メチル、C-酸化    |
+| [タモキシフェン](https://ja.wikipedia.org/wiki/タモキシフェン "wikilink")   | N-脱メチル、α-水酸化   |
+| [シクロホスファミド](../Page/シクロホスファミド.md "wikilink")                  | 4-水酸化、N-脱アルキル  |
+| [パクリタキセル](../Page/パクリタキセル.md "wikilink")                      | 3'-水酸化         |
+| [テルフェナジン](https://ja.wikipedia.org/wiki/テルフェナジン "wikilink")   | C-酸化、N-脱アルキル   |
+| [コデイン](../Page/コデイン.md "wikilink")                            | N-脱メチル         |
+| [テストステロン](../Page/テストステロン.md "wikilink")                      | 6β-水酸化         |
 
 CYP3A4の主な基質と反応
 
@@ -35,7 +35,7 @@ CYP3A4の主な基質と反応
 
 CYP3A4の酵素活性には個体差があることが知られている。*CYP3A4* をコードする遺伝子には28種以上の[一塩基多型](../Page/一塩基多型.md "wikilink")が同定されているが、これらは生体内 (in vivo) における個体差に反映されないことが知られている。これは、基質に接触する際にCYP3A4へと誘導されるためではないかと考えられている。
 
-CYP3A4の変異は[エリスロマイシン呼気検査](https://ja.wikipedia.org/wiki/エリスロマイシン呼気検査 "wikilink") (erythromycin breath test, ERMBT) によって非侵襲的に決定できる。この検査では、[点滴静脈注射](https://ja.wikipedia.org/wiki/点滴静脈注射 "wikilink")によって（<sup>14</sup>C-*N*-メチル）[エリスロマイシン](../Page/エリスロマイシン.md "wikilink")を投与したあと、呼気中に含まれる[同位体](../Page/同位体.md "wikilink")標識された二酸化炭素を測定することにより、生体内のCYP3A4活性を決定する\[2\]。
+CYP3A4の変異は[エリスロマイシン呼気検査](https://ja.wikipedia.org/wiki/エリスロマイシン呼気検査 "wikilink") (erythromycin breath test, ERMBT) によって非侵襲的に決定できる。この検査では、[点滴静脈注射](../Page/点滴静脈注射.md "wikilink")によって（<sup>14</sup>C-*N*-メチル）[エリスロマイシン](../Page/エリスロマイシン.md "wikilink")を投与したあと、呼気中に含まれる[同位体](../Page/同位体.md "wikilink")標識された二酸化炭素を測定することにより、生体内のCYP3A4活性を決定する\[2\]。
 
 ## 誘導
 
@@ -71,12 +71,12 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="../Page/タクロリムス.md" title="wikilink">タクロリムス</a>[9][10]</li>
 <li><a href="https://ja.wikipedia.org/wiki/シロリムス" title="wikilink">シロリムス</a>[11][12]</li>
 </ul></li>
-<li>多くの<a href="https://ja.wikipedia.org/wiki/化学療法" title="wikilink">化学療法</a>
+<li>多くの<a href="../Page/化学療法.md" title="wikilink">化学療法</a>
 <ul>
 <li><a href="../Page/ドセタキセル.md" title="wikilink">ドセタキセル</a>[13][14]</li>
 <li><a href="https://ja.wikipedia.org/wiki/タモキシフェン" title="wikilink">タモキシフェン</a>[15][16]</li>
 <li><a href="../Page/パクリタキセル.md" title="wikilink">パクリタキセル</a>[17][18]</li>
-<li><a href="https://ja.wikipedia.org/wiki/シクロホスファミド" title="wikilink">シクロホスファミド</a>[19]</li>
+<li><a href="../Page/シクロホスファミド.md" title="wikilink">シクロホスファミド</a>[19]</li>
 <li><a href="../Page/ドキソルビシン.md" title="wikilink">ドキソルビシン</a>[20]</li>
 <li><a href="../Page/エルロチニブ.md" title="wikilink">エルロチニブ</a>[21]</li>
 <li><a href="../Page/エトポシド.md" title="wikilink">エトポシド</a>[22]</li>
@@ -92,7 +92,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="https://ja.wikipedia.org/wiki/ベムラフェニブ" title="wikilink">ベムラフェニブ</a>[32]</li>
 <li><a href="https://ja.wikipedia.org/wiki/テムシロリムス" title="wikilink">テムシロリムス</a>[33]</li>
 <li><a href="https://ja.wikipedia.org/wiki/アナストロゾール" title="wikilink">アナストロゾール</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/ゲフィチニブ" title="wikilink">ゲフィチニブ</a></li>
+<li><a href="../Page/ゲフィチニブ.md" title="wikilink">ゲフィチニブ</a></li>
 </ul></li>
 <li><a href="https://ja.wikipedia.org/wiki/抗真菌薬#内服薬の種類" title="wikilink">アゾール系抗真菌薬</a>
 <ul>
@@ -124,7 +124,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/シクロベンザプリン" title="wikilink">シクロベンザプリン</a>[46]</li>
 <li><a href="https://ja.wikipedia.org/wiki/ノルフルオキセチン" title="wikilink">ノルフルオキセチン</a>[47]</li>
-<li><a href="https://ja.wikipedia.org/wiki/セルトラリン" title="wikilink">セルトラリン</a>[48]</li>
+<li><a href="../Page/セルトラリン.md" title="wikilink">セルトラリン</a>[48]</li>
 </ul></li>
 <li>他の一部の抗うつ薬
 <ul>
@@ -137,7 +137,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="https://ja.wikipedia.org/wiki/ブスピロン" title="wikilink">ブスピロン</a>[54][55] (<a href="../Page/抗不安薬.md" title="wikilink">抗不安薬</a>)</li>
 <li><a href="../Page/抗精神病薬.md" title="wikilink">抗精神病薬</a>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/ハロペリドール" title="wikilink">ハロペリドール</a>[56][57]</li>
+<li><a href="../Page/ハロペリドール.md" title="wikilink">ハロペリドール</a>[56][57]</li>
 <li><a href="../Page/アリピプラゾール.md" title="wikilink">アリピプラゾール</a>[58]</li>
 <li><a href="../Page/リスペリドン.md" title="wikilink">リスペリドン</a>[59]</li>
 <li><a href="https://ja.wikipedia.org/wiki/ジプラシドン" title="wikilink">ジプラシドン</a>[60]</li>
@@ -149,7 +149,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="https://ja.wikipedia.org/wiki/アルフェンタニル" title="wikilink">アルフェンタニル</a>[63][64]</li>
 <li><a href="../Page/ブプレノルフィン.md" title="wikilink">ブプレノルフィン</a>[65]</li>
 <li><a href="../Page/コデイン.md" title="wikilink">コデイン</a>[66] (<a href="../Page/鎮痛剤.md" title="wikilink">鎮痛剤</a>, <a href="https://ja.wikipedia.org/wiki/鎮咳去痰薬" title="wikilink">鎮咳剤</a>, <a href="https://ja.wikipedia.org/wiki/止瀉薬" title="wikilink">止瀉薬</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/フェンタニル" title="wikilink">フェンタニル</a>[67]</li>
+<li><a href="../Page/フェンタニル.md" title="wikilink">フェンタニル</a>[67]</li>
 <li><a href="../Page/メサドン.md" title="wikilink">メサドン</a>[68] (鎮痛剤, オピオイド依存治療)</li>
 <li><a href="https://ja.wikipedia.org/wiki/レバセチルメタドール" title="wikilink">レバセチルメタドール</a>[69]</li>
 <li><a href="https://ja.wikipedia.org/wiki/トラマドール" title="wikilink">トラマドール</a> (不活性代謝物となる。<a href="https://ja.wikipedia.org/wiki/CYP2D6" title="wikilink">CYP2D6</a>を介する代謝と混同しないよう)</li>
@@ -163,16 +163,16 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 </ul></li>
 <li>いくつかの<a href="https://ja.wikipedia.org/wiki/睡眠薬" title="wikilink">睡眠薬</a>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/ゾピクロン" title="wikilink">ゾピクロン</a>[77]</li>
+<li><a href="../Page/ゾピクロン.md" title="wikilink">ゾピクロン</a>[77]</li>
 <li><a href="https://ja.wikipedia.org/wiki/ザレプロン" title="wikilink">ザレプロン</a>[78]</li>
 <li><a href="../Page/ゾルピデム.md" title="wikilink">ゾルピデム</a>[79]</li>
 </ul></li>
 <li><a href="../Page/ドネペジル.md" title="wikilink">ドネペジル</a>[80] (<a href="https://ja.wikipedia.org/wiki/コリンエステラーゼ阻害剤" title="wikilink">コリンエステラーゼ阻害剤</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/スタチン" title="wikilink">スタチン</a>
+<li><a href="../Page/スタチン.md" title="wikilink">スタチン</a>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/アトルバスタチン" title="wikilink">アトルバスタチン</a>[81][82]</li>
 <li><a href="https://ja.wikipedia.org/wiki/ロバスタチン" title="wikilink">ロバスタチン</a>[83][84]</li>
-<li><a href="https://ja.wikipedia.org/wiki/シンバスタチン" title="wikilink">シンバスタチン</a>[85]</li>
+<li><a href="../Page/シンバスタチン.md" title="wikilink">シンバスタチン</a>[85]</li>
 <li><a href="https://ja.wikipedia.org/wiki/セリバスタチン" title="wikilink">セリバスタチン</a>[86]</li>
 </ul></li>
 </ul>
@@ -200,17 +200,17 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="../Page/キニジン.md" title="wikilink">キニジン</a>[103] (I群抗不整脈薬)</li>
 <li><a href="https://ja.wikipedia.org/wiki/ホスホジエステラーゼ5阻害剤" title="wikilink">ホスホジエステラーゼ5阻害剤</a>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/シルデナフィル" title="wikilink">シルデナフィル</a>(勃起不全治療薬)[104][105]</li>
+<li><a href="../Page/シルデナフィル.md" title="wikilink">シルデナフィル</a>(勃起不全治療薬)[104][105]</li>
 <li><a href="../Page/タダラフィル.md" title="wikilink">タダラフィル</a>(勃起不全治療薬)[106]</li>
 </ul></li>
-<li><a href="https://ja.wikipedia.org/wiki/キニン" title="wikilink">キニン</a>[107] (<a href="../Page/血管拡張薬.md" title="wikilink">血管拡張薬</a>, <a href="https://ja.wikipedia.org/wiki/平滑筋" title="wikilink">平滑筋</a>収縮)</li>
+<li><a href="https://ja.wikipedia.org/wiki/キニン" title="wikilink">キニン</a>[107] (<a href="../Page/血管拡張薬.md" title="wikilink">血管拡張薬</a>, <a href="../Page/平滑筋.md" title="wikilink">平滑筋</a>収縮)</li>
 <li><a href="https://ja.wikipedia.org/wiki/性ホルモン" title="wikilink">性ホルモン</a>のアゴニストおよびアンタゴニスト
 <ul>
 <li><a href="../Page/フィナステリド.md" title="wikilink">フィナステリド</a>[108][109] (<a href="https://ja.wikipedia.org/wiki/抗アンドロゲン剤" title="wikilink">抗アンドロゲン剤</a>)</li>
 <li><a href="../Page/エストラジオール.md" title="wikilink">エストラジオール</a>[110] (<a href="../Page/エストロゲン.md" title="wikilink">エストロゲン</a>)</li>
 <li><a href="../Page/プロゲステロン.md" title="wikilink">プロゲステロン</a>[111]</li>
 <li><a href="https://ja.wikipedia.org/wiki/エチニルエストラジオール" title="wikilink">エチニルエストラジオール</a>[112] ()</li>
-<li><a href="https://ja.wikipedia.org/wiki/テストステロン" title="wikilink">テストステロン</a>[113] (<a href="https://ja.wikipedia.org/wiki/アンドロゲン" title="wikilink">アンドロゲン</a>)</li>
+<li><a href="../Page/テストステロン.md" title="wikilink">テストステロン</a>[113] (<a href="../Page/アンドロゲン.md" title="wikilink">アンドロゲン</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/トレミフェン" title="wikilink">トレミフェン</a>[114](<a href="https://ja.wikipedia.org/wiki/選択的エストロゲン受容体モジュレーター" title="wikilink">SERM</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/ビカルタミド" title="wikilink">ビカルタミド</a>[115]</li>
 </ul></li>
@@ -237,7 +237,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="../Page/ヒドロコルチゾン.md" title="wikilink">ヒドロコルチゾン</a>[131]</li>
 <li><a href="../Page/デキサメタゾン.md" title="wikilink">デキサメタゾン</a>[132]</li>
 </ul></li>
-<li><a href="https://ja.wikipedia.org/wiki/シサプリド" title="wikilink">シサプリド</a>[133][134] (<a href="https://ja.wikipedia.org/wiki/5-HT4受容体" title="wikilink">5-HT4受容体</a> <a href="https://ja.wikipedia.org/wiki/アゴニスト" title="wikilink">アゴニスト</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/シサプリド" title="wikilink">シサプリド</a>[133][134] (<a href="https://ja.wikipedia.org/wiki/5-HT4受容体" title="wikilink">5-HT4受容体</a> <a href="../Page/アゴニスト.md" title="wikilink">アゴニスト</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/アプレピタント" title="wikilink">アプレピタント</a>[135] (<a href="../Page/制吐薬.md" title="wikilink">制吐薬</a>)</li>
 <li><a href="../Page/カフェイン.md" title="wikilink">カフェイン</a>[136] (<a href="https://ja.wikipedia.org/wiki/精神刺激薬" title="wikilink">精神刺激薬</a>)</li>
 <li><a href="../Page/コカイン.md" title="wikilink">コカイン</a>[137] (精神刺激薬)</li>
@@ -249,11 +249,11 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="https://ja.wikipedia.org/wiki/オンダンセ" title="wikilink">オンダンセ</a>[143] (5-HT3アンタゴニスト)</li>
 <li><a href="../Page/プロプラノロール.md" title="wikilink">プロプラノロール</a>[144] (<a href="../Page/交感神経β受容体遮断薬.md" title="wikilink">β遮断薬</a>)</li>
 <li><a href="../Page/サルメテロール.md" title="wikilink">サルメテロール</a>[145] (βアゴニスト)</li>
-<li><a href="https://ja.wikipedia.org/wiki/ワルファリン" title="wikilink">ワルファリン</a>[146] (<a href="https://ja.wikipedia.org/wiki/抗凝固剤" title="wikilink">抗凝固剤</a>)</li>
+<li><a href="../Page/ワルファリン.md" title="wikilink">ワルファリン</a>[146] (<a href="https://ja.wikipedia.org/wiki/抗凝固剤" title="wikilink">抗凝固剤</a>)</li>
 </ul>
 <ul>
 <li><a href="../Page/オメプラゾール.md" title="wikilink">オメプラゾール</a>[147] (<a href="../Page/プロトンポンプ阻害薬.md" title="wikilink">プロトンポンプ阻害薬</a>)</li>
-<li><a href="https://ja.wikipedia.org/wiki/ナテグリニド" title="wikilink">ナテグリニド</a>[148] (<a href="https://ja.wikipedia.org/wiki/経口血糖降下薬" title="wikilink">経口血糖降下薬</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/ナテグリニド" title="wikilink">ナテグリニド</a>[148] (<a href="../Page/経口血糖降下薬.md" title="wikilink">経口血糖降下薬</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/メトキセタミン" title="wikilink">メトキセタミン</a>[149]</li>
 </ul></td>
 <td><p>'''強力 '''</p>
@@ -294,7 +294,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <ul>
 <li><a href="../Page/フルコナゾール.md" title="wikilink">フルコナゾール</a>[172]</li>
 </ul></li>
-<li><a href="https://ja.wikipedia.org/wiki/ベルガモチン" title="wikilink">ベルガモチン</a>は、<a href="https://ja.wikipedia.org/wiki/グレープフルーツ" title="wikilink">グレープフルーツ</a>ジュースの成分の1つ[173]</li>
+<li><a href="https://ja.wikipedia.org/wiki/ベルガモチン" title="wikilink">ベルガモチン</a>は、<a href="../Page/グレープフルーツ.md" title="wikilink">グレープフルーツ</a>ジュースの成分の1つ[173]</li>
 <li><a href="../Page/セイヨウカノコソウ.md" title="wikilink">ヴァレリアン</a>[174]</li>
 </ul>
 <p><strong>弱</strong></p>
@@ -314,7 +314,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 </ul></li>
 <li><a href="../Page/バルビツール酸系.md" title="wikilink">バルビツール酸系</a>[185]
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/フェノバルビタール" title="wikilink">フェノバルビタール</a>[186][187]</li>
+<li><a href="../Page/フェノバルビタール.md" title="wikilink">フェノバルビタール</a>[186][187]</li>
 </ul></li>
 <li><a href="https://ja.wikipedia.org/wiki/セント・ジョーンズ・ワート" title="wikilink">セント・ジョーンズ・ワート</a>[188][189]</li>
 <li>一部の<a href="https://ja.wikipedia.org/wiki/殺菌剤_(医薬品)" title="wikilink">殺菌剤</a>
@@ -332,7 +332,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="https://ja.wikipedia.org/wiki/ピオグリタゾン" title="wikilink">ピオグリタゾン</a>[196]</li>
 <li><a href="https://ja.wikipedia.org/wiki/トログリタゾン" title="wikilink">トログリタゾン</a>[197]</li>
 </ul></li>
-<li><a href="https://ja.wikipedia.org/wiki/グルココルチコイド" title="wikilink">グルココルチコイド</a>[198] (<a href="https://ja.wikipedia.org/wiki/血糖値" title="wikilink">血糖値</a>増加, <a href="https://ja.wikipedia.org/wiki/免疫増強薬" title="wikilink">免疫増強薬</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/グルココルチコイド" title="wikilink">グルココルチコイド</a>[198] (<a href="../Page/血糖値.md" title="wikilink">血糖値</a>増加, <a href="https://ja.wikipedia.org/wiki/免疫増強薬" title="wikilink">免疫増強薬</a>)</li>
 <li><a href="../Page/モダフィニル.md" title="wikilink">モダフィニル</a>[199] (<a href="../Page/覚醒剤.md" title="wikilink">覚醒剤</a>)</li>
 </ul></td>
 </tr>

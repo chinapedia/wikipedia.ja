@@ -7,9 +7,9 @@
 
 ## 来歴
 
-[LOUDNESS](../Page/LOUDNESS.md "wikilink")の二井原実(Vo)と[爆風スランプ](https://ja.wikipedia.org/wiki/爆風スランプ "wikilink")のファンキー末吉(Dr)が中心になって結成された。[SLY](../Page/SLY.md "wikilink")活動停止に際し、二井原実が今後の身の振り方を友人のファンキー末吉に相談したことがきっかけで、バンド結成となった。
+[LOUDNESS](../Page/LOUDNESS.md "wikilink")の二井原実(Vo)と[爆風スランプ](../Page/爆風スランプ.md "wikilink")のファンキー末吉(Dr)が中心になって結成された。[SLY](../Page/SLY.md "wikilink")活動停止に際し、二井原実が今後の身の振り方を友人のファンキー末吉に相談したことがきっかけで、バンド結成となった。
 
-爆風スランプは、ポップ寄りのロック系に分類され、いわゆる[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")では無かったため、ファンキー末吉は初めヘヴィメタル独特のドラムさばきに少々苦労したようである。ギターには[筋肉少女帯](https://ja.wikipedia.org/wiki/筋肉少女帯 "wikilink")の橘高文彦が参加した。筋肉少女帯はコミックバンドやパンク的イメージもあるが、橘高文彦自身はかつてAROUGEと言うヘヴィメタルバンドでメジャーデビューを果たしており、芯からヘヴィメタルのギタリストであった。ベースには、爆風スランプでファンキー末吉と共にリズム隊を組んでいたバーベQ和佐田（[和佐田達彦](https://ja.wikipedia.org/wiki/和佐田達彦 "wikilink")）が担当。バンド結成当初は所属事務所の契約上の問題でサポートメンバー名義で参加、現在は正式メンバーである。
+爆風スランプは、ポップ寄りのロック系に分類され、いわゆる[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")では無かったため、ファンキー末吉は初めヘヴィメタル独特のドラムさばきに少々苦労したようである。ギターには[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")の橘高文彦が参加した。筋肉少女帯はコミックバンドやパンク的イメージもあるが、橘高文彦自身はかつてAROUGEと言うヘヴィメタルバンドでメジャーデビューを果たしており、芯からヘヴィメタルのギタリストであった。ベースには、爆風スランプでファンキー末吉と共にリズム隊を組んでいたバーベQ和佐田（[和佐田達彦](https://ja.wikipedia.org/wiki/和佐田達彦 "wikilink")）が担当。バンド結成当初は所属事務所の契約上の問題でサポートメンバー名義で参加、現在は正式メンバーである。
 メンバーはいずれも、大ヒットしたバンドの元メンバーで構成されているが、主に[インディーズ](../Page/インディーズ.md "wikilink")中心の活動を行っている。結成初年度は1年半で100本以上のライブを行うなど精力的な活動を行った。また、彼らは海外でも積極的に活動している。
 
 それぞれが別のプロジェクトなどを持ち、二井原実は[2000年](../Page/2000年.md "wikilink")からオリジナルメンバーで再結成されたLOUDNESSでも活動。橘高文彦は[2006年](../Page/2006年.md "wikilink")から再結成した筋肉少女帯に参加。現在は2人とも掛け持ちで活動している。
@@ -79,7 +79,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -161,8 +161,8 @@
 
   - [二井原実](../Page/二井原実.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")） LOUDNESS、SLY
   - [橘高文彦](../Page/橘高文彦.md "wikilink")（[ギター](../Page/ギター.md "wikilink")） ex.AROUGE、筋肉少女帯
-  - [和佐田達彦](https://ja.wikipedia.org/wiki/和佐田達彦 "wikilink")（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")） TOPS、爆風スランプ
-  - [ファンキー末吉](https://ja.wikipedia.org/wiki/ファンキー末吉 "wikilink")（[ドラム](../Page/ドラムセット.md "wikilink")） 爆風スランプ
+  - [和佐田達彦](https://ja.wikipedia.org/wiki/和佐田達彦 "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")） TOPS、爆風スランプ
+  - [ファンキー末吉](../Page/ファンキー末吉.md "wikilink")（[ドラム](../Page/ドラムセット.md "wikilink")） 爆風スランプ
 
 ## ディスコグラフィ
 
@@ -432,7 +432,7 @@
 <td><p><strong>We Love Bakufu Slump</strong></p></td>
 <td><p>BTYS-1002<br />
 YZSM-20009</p></td>
-<td><p>※トリビュート・アルバム。<a href="https://ja.wikipedia.org/wiki/爆風スランプ" title="wikilink">爆風スランプ</a>の「<a href="https://ja.wikipedia.org/wiki/リゾ・ラバ_-Resort_Lovers-" title="wikilink">リゾ・ラバ</a>」で参加。</p></td>
+<td><p>※トリビュート・アルバム。<a href="../Page/爆風スランプ.md" title="wikilink">爆風スランプ</a>の「<a href="https://ja.wikipedia.org/wiki/リゾ・ラバ_-Resort_Lovers-" title="wikilink">リゾ・ラバ</a>」で参加。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011年4月6日</p></td>

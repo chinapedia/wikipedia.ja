@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK福島放送局**（エヌエイチケイふくしまほうそうきょく）は、[福島県](../Page/福島県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+**NHK福島放送局**（エヌエイチケイふくしまほうそうきょく）は、[福島県](../Page/福島県.md "wikilink")を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 概要
 
@@ -28,7 +28,7 @@
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）[7月22日](../Page/7月22日.md "wikilink") - 機構改革により郡山局といわき局を福島局の支局に格下げ。
   - [1991年](../Page/1991年.md "wikilink")（平成3年）3月 - 教育テレビ音声多重放送開始。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）4月 - 総合テレビで大型県域番組『ゆうYOUふくしま』放送開始。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")（平成17年）9月 - 老朽化に伴い福島放送会館を福島駅前に移転。その際環境対策にも力を入れ、屋上に畑を作った。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）9月 - 老朽化に伴い福島放送会館を福島駅前に移転。その際環境対策にも力を入れ、屋上に畑を作った。
   - 2005年（平成17年）[12月1日](../Page/12月1日.md "wikilink") - 笹森山からデジタルテレビジョン放送開始。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[12月1日](../Page/12月1日.md "wikilink") - 会津若松デジタルテレビジョン中継局開局。
   - [2007年](../Page/2007年.md "wikilink")（平成19年）[12月1日](../Page/12月1日.md "wikilink") - 原町デジタルテレビジョン中継局開局。
@@ -60,10 +60,10 @@
 
 ### アナログテレビジョン放送
 
-| [チャンネル](../Page/チャンネル_\(テレビ放送\).md "wikilink") | 放送局名        | [コールサイン](https://ja.wikipedia.org/wiki/識別信号#呼出符号 "wikilink") | [空中線電力](https://ja.wikipedia.org/wiki/空中線電力 "wikilink") | [ERP](https://ja.wikipedia.org/wiki/実効輻射電力 "wikilink") |
-| ---------------------------------------------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------ |
-| 2ch                                            | NHK教育テレビジョン | JOFD-TV                                                      | 映像3kW／音声750W                                            | 映像17kW／音声4.3kW                                         |
-| 9ch                                            | NHK総合テレビジョン | JOFP-TV                                                      |                                                         |                                                        |
+| [チャンネル](../Page/チャンネル_\(テレビ放送\).md "wikilink") | 放送局名        | [コールサイン](https://ja.wikipedia.org/wiki/識別信号#呼出符号 "wikilink") | [空中線電力](../Page/空中線電力.md "wikilink") | [ERP](https://ja.wikipedia.org/wiki/実効輻射電力 "wikilink") |
+| ---------------------------------------------- | ----------- | ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------ |
+| 2ch                                            | NHK教育テレビジョン | JOFD-TV                                                      | 映像3kW／音声750W                         | 映像17kW／音声4.3kW                                         |
+| 9ch                                            | NHK総合テレビジョン | JOFP-TV                                                      |                                      |                                                        |
 
 笹森山から送信していた。2011年度いっぱいで完全停波。
 
@@ -108,9 +108,9 @@
 
 ## 支局
 
-:\* [郡山](https://ja.wikipedia.org/wiki/NHK郡山支局 "wikilink")
+:\* [郡山](../Page/NHK郡山支局.md "wikilink")
 
-:\* [いわき](https://ja.wikipedia.org/wiki/NHKいわき支局 "wikilink")
+:\* [いわき](../Page/NHKいわき支局.md "wikilink")
 
 :\* 会津若松
 
@@ -134,7 +134,7 @@
 <!-- end list -->
 
   -
-    [若松城](https://ja.wikipedia.org/wiki/若松城 "wikilink")（鶴ヶ城）に隣接しているため、全国放送でもたびたび使用される。
+    [若松城](../Page/若松城.md "wikilink")（鶴ヶ城）に隣接しているため、全国放送でもたびたび使用される。
 
 <!-- end list -->
 
@@ -142,7 +142,7 @@
   - 富岡（富岡岬／福島第一原子力発電所）
   - いわき（小名浜港）
   - [裏磐梯](../Page/磐梯高原.md "wikilink")
-  - [福島空港](https://ja.wikipedia.org/wiki/福島空港 "wikilink") HD対応
+  - [福島空港](../Page/福島空港.md "wikilink") HD対応
 
 <!-- end list -->
 
@@ -154,7 +154,7 @@
   - NHKニュース[おはよう福島](https://ja.wikipedia.org/wiki/おはようふくしま "wikilink")（平日7:45 - 8:00、7:50 - 7:58の[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")各地の話題・中継・東北地方の気象情報は**東北ブロック放送**扱い）
   - [はまなかあいづToday](../Page/はまなかあいづToday.md "wikilink")（平日 18:10 - 18:59）
   - NHKニュースふくしま845（平日 20:45 - 21:00）
-  - [こでらんに5](https://ja.wikipedia.org/wiki/こでらんに5 "wikilink")（平日 17:00 - 18:00、[ラジオ第1](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")）
+  - [こでらんに5](https://ja.wikipedia.org/wiki/こでらんに5 "wikilink")（平日 17:00 - 18:00、[ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink")）
   - NHK News福島（土日祝日 18:45（祝日・年末年始は18:50） - 19:00）
   - 福島スペシャル（金曜 19:30 - 19:55、不定期）
   - ふくしまパラダイス（金曜 20:00 - 20:43、不定期）
@@ -218,13 +218,13 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/田中朋樹.md" title="wikilink">田中朋樹</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK富山放送局" title="wikilink">富山</a></p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/こでらんに5" title="wikilink">こでらんに5</a><br />
 福島県のニュース</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/川崎寛司.md" title="wikilink">川崎寛司</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK福井放送局" title="wikilink">福井</a></p></td>
+<td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
 <td><p>福島県のニュース</p></td>
 </tr>
 <tr class="even">
@@ -276,7 +276,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/杉本麻紀_(アナウンサー)" title="wikilink">杉本麻紀</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK_BSニュース" title="wikilink">BSニュース</a></p></td>
+<td><p><a href="../Page/NHK_BSニュース.md" title="wikilink">BSニュース</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/おはようふくしま" title="wikilink">おはようふくしま</a></p></td>
 </tr>
 <tr class="even">

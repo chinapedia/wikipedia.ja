@@ -1,11 +1,11 @@
 > この記事は[SHIZUOKA TOP40](https://ja.wikipedia.org/wiki/SHIZUOKA_TOP40)から翻訳されています。
 
 
-**SHIZUOKA TOP40**（シズオカ・トップ・フォーティー）は、[静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink")（K-mix）で放送されていた[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")形式の[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")（[カウントダウン番組](../Page/カウントダウン番組.md "wikilink")）である。 K-mix本社1階の「ビュースタ」からの公開[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")。
+**SHIZUOKA TOP40**（シズオカ・トップ・フォーティー）は、[静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink")（K-mix）で放送されていた[ランキング](https://ja.wikipedia.org/wiki/ランキング "wikilink")形式の[音楽番組](../Page/音楽番組.md "wikilink")（[カウントダウン番組](../Page/カウントダウン番組.md "wikilink")）である。 K-mix本社1階の「ビュースタ」からの公開[生放送](../Page/生放送.md "wikilink")。
 
 ## 番組概要
 
-  - K-mix独自の音楽[チャート上位](https://ja.wikipedia.org/wiki/ヒットチャート "wikilink")40曲を[カウントダウン](https://ja.wikipedia.org/wiki/カウントダウン "wikilink")形式で紹介する。
+  - K-mix独自の音楽[チャート上位](https://ja.wikipedia.org/wiki/ヒットチャート "wikilink")40曲を[カウントダウン](../Page/カウントダウン.md "wikilink")形式で紹介する。
   - [洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")と[J-POP](../Page/J-POP.md "wikilink")をミックスさせたランキングが特徴である。
 
 <!-- end list -->
@@ -26,7 +26,7 @@
 <!-- end list -->
 
   - チャートは、県内[CDショップ](https://ja.wikipedia.org/wiki/CDショップ "wikilink")\[1\]のセールスデータ、県内の[TSUTAYAのレンタルデータ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")、K-mixの生[ワイド番組](../Page/ワイド番組.md "wikilink")のオンエア回数・リクエスト回数、及び番組へのリクエスト数を、独自にポイント化してランキングする。
-  - [K-MIX 8×8やMEGA](../Page/K-MIX_8×8.md "wikilink") PUSH TRACK、[ボサノバカサノバ](https://ja.wikipedia.org/wiki/ボサノバカサノバ "wikilink")といったK-mixに所縁のあるアーティストが上位に入りやすい傾向がある。「Bossanova Cassanova coupuling [久保ひとみ](https://ja.wikipedia.org/wiki/久保ひとみ "wikilink")」の「今夜はふたり水いらず（静岡編）」は5か月に渡りトップ10入りを果たした。
+  - [K-MIX 8×8やMEGA](../Page/K-MIX_8×8.md "wikilink") PUSH TRACK、[ボサノバカサノバ](https://ja.wikipedia.org/wiki/ボサノバカサノバ "wikilink")といったK-mixに所縁のあるアーティストが上位に入りやすい傾向がある。「Bossanova Cassanova coupuling [久保ひとみ](../Page/久保ひとみ.md "wikilink")」の「今夜はふたり水いらず（静岡編）」は5か月に渡りトップ10入りを果たした。
   - [アルバム](../Page/アルバム.md "wikilink")のセールスもポイントに加算されるため、アルバムに収録されている曲がランクインすることも多い。
   - [アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")系や[K-POP](https://ja.wikipedia.org/wiki/K-POP "wikilink")、[声優](../Page/声優.md "wikilink")の曲がランクインすることは稀である。
 
@@ -39,7 +39,7 @@
 ### 概要
 
   - 2003年の番組大[改編](../Page/改編.md "wikilink")により、金曜日に番組枠新設。
-  - 番組開始から2007年度までは、男女2名の[パーソナリティが出演](../Page/ラジオパーソナリティ.md "wikilink")。[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")が電話で番組に参加するコーナーを設けていた。
+  - 番組開始から2007年度までは、男女2名の[パーソナリティが出演](../Page/ラジオパーソナリティ.md "wikilink")。[リスナー](../Page/リスナー.md "wikilink")が電話で番組に参加するコーナーを設けていた。
   - 2008年4月より、パーソナリティに[柴田聡](../Page/柴田聡.md "wikilink")を迎え、完全リニューアル。リスナー参加型コーナーを廃止、チャートの発表の時間、曲が流れる時間が長くなり、音楽性が強くなっている。番組ホームページのチャートには[音楽配信](../Page/音楽配信.md "wikilink")サイトへのリンクが貼られるようになった。
 
 ### パーソナリティ
@@ -75,7 +75,7 @@
   - 15:10頃 - **カウントダウン（14位-10位）**
   - 16:00 - **K-MIX HEADLINE NEWS・K-MIX Traffic & Weather Information**
       -
-        提供は[鈴与](https://ja.wikipedia.org/wiki/鈴与 "wikilink")グループ、[ミサワホーム](https://ja.wikipedia.org/wiki/ミサワホーム "wikilink")静岡。
+        提供は[鈴与](../Page/鈴与.md "wikilink")グループ、[ミサワホーム](../Page/ミサワホーム.md "wikilink")静岡。
   - 16:12頃 - **カウントダウン（9位-4位）**
   - 16:40頃 - **柴田印**
       -
@@ -146,7 +146,7 @@
         毎週一組のアーティストをピックアップして、特集するコーナー。
   - **ゲームコーナー・CRAZY BEAT BOX**
       -
-        2006年4月から現在の形になり、14、15、16時台にリスナーがゲームに挑戦し、勝利すると5000円分の[CDギフト券のプレゼントとなる](https://ja.wikipedia.org/wiki/音楽ギフトカード "wikilink")。14、15時台に当選者が出ると次の時間のコーナーはなくなり、メッセージの紹介となる。16時台でも当選者が現れない場合には次週へ[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")となる。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")の放送での3万円が過去最高額となっている。ゲームの内容の一部は以下の通り。
+        2006年4月から現在の形になり、14、15、16時台にリスナーがゲームに挑戦し、勝利すると5000円分の[CDギフト券のプレゼントとなる](../Page/音楽ギフトカード.md "wikilink")。14、15時台に当選者が出ると次の時間のコーナーはなくなり、メッセージの紹介となる。16時台でも当選者が現れない場合には次週へ[キャリーオーバー](../Page/キャリーオーバー.md "wikilink")となる。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月7日](../Page/3月7日.md "wikilink")の放送での3万円が過去最高額となっている。ゲームの内容の一部は以下の通り。
     <!-- end list -->
       - **クレイジー2ペア**
           -
@@ -183,7 +183,7 @@
 
   - [K-MIX Rainbow Fly-Dayに内包されたことにより](https://ja.wikipedia.org/wiki/K-MIX_Rainbow_Fly-Day "wikilink")、時間枠が大幅に縮小。
   - 1時間の番組枠で40曲全てを紹介している。40位から6位までは全てフラッシュで流し、5位から1位は一曲ずつ紹介している。
-  - このコーナーに対する[リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")からのリクエストやメッセージが廃止された。
+  - このコーナーに対する[リスナー](../Page/リスナー.md "wikilink")からのリクエストやメッセージが廃止された。
   - 2015年4月の改編でカウントダウン番組は『[K-mix SHIZUOKA HITS ON PARADE](https://ja.wikipedia.org/wiki/K-mix_SHIZUOKA_HITS_ON_PARADE "wikilink")』となった。kainatsuは当該番組に出演せず、次の番組である『[K-mix LIFE\! LIFE\! LIFE\!](https://ja.wikipedia.org/wiki/K-mix_LIFE!_LIFE!_LIFE! "wikilink")』に出演。
 
 ### 放送時間
@@ -216,12 +216,12 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")「My Way」
+  - [2005年](../Page/2005年.md "wikilink") - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")「My Way」
   - [2006年](../Page/2006年.md "wikilink") - [GTP](../Page/GTP_\(音楽グループ\).md "wikilink")「冷凍みかん」
   - [2007年](../Page/2007年.md "wikilink") - 櫻井大介「お家へ帰ろう」
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - [青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink") feat. [SoulJa](https://ja.wikipedia.org/wiki/SoulJa "wikilink")「そばにいるね」
   - [2009年](../Page/2009年.md "wikilink") - [甲斐名都](https://ja.wikipedia.org/wiki/甲斐名都 "wikilink")「同じ空を見上げてる」
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [LADY GAGA](https://ja.wikipedia.org/wiki/レディー・ガガ "wikilink")「[Telephone](https://ja.wikipedia.org/wiki/テレフォン_\(曲\) "wikilink") feat. [Beyonce](https://ja.wikipedia.org/wiki/ビヨンセ "wikilink")」
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - [LADY GAGA](https://ja.wikipedia.org/wiki/レディー・ガガ "wikilink")「[Telephone](https://ja.wikipedia.org/wiki/テレフォン_\(曲\) "wikilink") feat. [Beyonce](../Page/ビヨンセ.md "wikilink")」
   - [2011年](../Page/2011年.md "wikilink") - [ズータンズ](https://ja.wikipedia.org/wiki/ズータンズ "wikilink")「カウボーイ」\[2\]
   - [2012年](../Page/2012年.md "wikilink") - [SEKAI NO OWARI](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink")「[眠り姫](https://ja.wikipedia.org/wiki/眠り姫_\(SEKAI_NO_OWARIの曲\) "wikilink")」\[3\]
 
@@ -233,7 +233,7 @@
   - Re Entry - 圏外から再び40位以内に入った曲
   - This Week Highest Debut - 今週の最上位初登場曲
   - This Week Greatest Gainer - 今週最もランクアップが大きかった曲
-  - K-MIX MEGA PUSH TRACK - K-MIXが月替わりで[ヘビーローテーションする曲](https://ja.wikipedia.org/wiki/ヘヴィー・ローテーション "wikilink")
+  - K-MIX MEGA PUSH TRACK - K-MIXが月替わりで[ヘビーローテーションする曲](../Page/ヘヴィー・ローテーション.md "wikilink")
 
 ## 脚注・出典
 

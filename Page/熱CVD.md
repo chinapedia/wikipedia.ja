@@ -18,7 +18,7 @@
   - 触媒の利用（触媒CVD法）
   - 有機金属原料の利用（[MOCVD](https://ja.wikipedia.org/wiki/MOCVD "wikilink")法）
 
-熱反応下において原料ガスと[酸化剤](../Page/酸化剤.md "wikilink")または[還元剤](https://ja.wikipedia.org/wiki/還元剤 "wikilink")を混合し、希望する材料を生成する。原料比と反応温度、反応容器設計により反応が決定される。
+熱反応下において原料ガスと[酸化剤](../Page/酸化剤.md "wikilink")または[還元剤](../Page/還元剤.md "wikilink")を混合し、希望する材料を生成する。原料比と反応温度、反応容器設計により反応が決定される。
 
 ## 用途
 

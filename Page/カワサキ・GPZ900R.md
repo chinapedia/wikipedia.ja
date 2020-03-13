@@ -5,15 +5,15 @@
 
 ## 概要
 
-GPZ900Rの登場以前、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")当時のカワサキの[スポーツバイクの](https://ja.wikipedia.org/wiki/オートバイの種類#オンロードモデル "wikilink")[最上位機種であった](https://ja.wikipedia.org/wiki/フラグシップ機 "wikilink")[GPz1100](https://ja.wikipedia.org/wiki/カワサキ・GPZ1100 "wikilink")（ZX1100A）は、[Z-1以来の伝統を持つ](https://ja.wikipedia.org/wiki/カワサキ・Z1 "wikilink")[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[エンジンを採用していたが](https://ja.wikipedia.org/wiki/オートバイ用エンジン "wikilink")、これ以上の性能向上は望めず、重量が大きすぎるため運動性を損なっていた。
+GPZ900Rの登場以前、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")当時のカワサキの[スポーツバイクの](https://ja.wikipedia.org/wiki/オートバイの種類#オンロードモデル "wikilink")[最上位機種であった](../Page/フラグシップ機.md "wikilink")[GPz1100](../Page/カワサキ・GPZ1100.md "wikilink")（ZX1100A）は、[Z-1以来の伝統を持つ](../Page/カワサキ・Z1.md "wikilink")[空冷](https://ja.wikipedia.org/wiki/空冷エンジン "wikilink")[4気筒](../Page/直列4気筒.md "wikilink")[エンジンを採用していたが](https://ja.wikipedia.org/wiki/オートバイ用エンジン "wikilink")、これ以上の性能向上は望めず、重量が大きすぎるため運動性を損なっていた。
 
-小型で高出力なエンジンとコンパクトな車体を組み合わせることによって、GPz1100以上の動力性能とワンクラス下の俊敏さを併せ持った[ロードスポーツを実現すべく](https://ja.wikipedia.org/wiki/オートバイの種類#オンロードモデル "wikilink")、GPZ900Rが開発された。エンジンは全く新しく設計された[水冷第](https://ja.wikipedia.org/wiki/水冷エンジン "wikilink")1世代で、908[ccの](../Page/立方センチメートル.md "wikilink")[排気量](../Page/排気量.md "wikilink")で115[psを発揮し](../Page/馬力.md "wikilink")、[1984年](../Page/1984年.md "wikilink")当時としては一流の性能だった。また、それを支える車体はラバーマウントを持たずにリジッド締結としたハイテンションスチール（[高張力鋼](../Page/高張力鋼.md "wikilink")）製で、ダウンチューブを廃止した代わりにエンジンそのものをストレスメンバーとして使用する[ダイヤモンドフレームを採用し](https://ja.wikipedia.org/wiki/フレーム_\(オートバイ\)#ダイヤモンドフレーム "wikilink")、低重心化に貢献していた。また、[空気抵抗を抑える](../Page/抗力.md "wikilink")[フルフェアリングと](https://ja.wikipedia.org/wiki/カウル#フルカウル "wikilink")16インチフロント[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")の採用も当時は目新しい点だったと言える。
+小型で高出力なエンジンとコンパクトな車体を組み合わせることによって、GPz1100以上の動力性能とワンクラス下の俊敏さを併せ持った[ロードスポーツを実現すべく](https://ja.wikipedia.org/wiki/オートバイの種類#オンロードモデル "wikilink")、GPZ900Rが開発された。エンジンは全く新しく設計された[水冷第](../Page/水冷エンジン.md "wikilink")1世代で、908[ccの](../Page/立方センチメートル.md "wikilink")[排気量](../Page/排気量.md "wikilink")で115[psを発揮し](../Page/馬力.md "wikilink")、[1984年](../Page/1984年.md "wikilink")当時としては一流の性能だった。また、それを支える車体はラバーマウントを持たずにリジッド締結としたハイテンションスチール（[高張力鋼](../Page/高張力鋼.md "wikilink")）製で、ダウンチューブを廃止した代わりにエンジンそのものをストレスメンバーとして使用する[ダイヤモンドフレームを採用し](https://ja.wikipedia.org/wiki/フレーム_\(オートバイ\)#ダイヤモンドフレーム "wikilink")、低重心化に貢献していた。また、[空気抵抗を抑える](../Page/抗力.md "wikilink")[フルフェアリングと](https://ja.wikipedia.org/wiki/カウル#フルカウル "wikilink")16インチフロント[ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink")の採用も当時は目新しい点だったと言える。
 
-結果としてGPZ900Rの最高速度は250[km/hをマークし](https://ja.wikipedia.org/wiki/キロメートル毎時 "wikilink")、GPz1100よりも馬力では若干劣りながらも、最高速度・加速・コーナリングなどすべての面でGPz1100を上回る性能を持つ軽快なスポーツ車が誕生した。
+結果としてGPZ900Rの最高速度は250[km/hをマークし](../Page/キロメートル毎時.md "wikilink")、GPz1100よりも馬力では若干劣りながらも、最高速度・加速・コーナリングなどすべての面でGPz1100を上回る性能を持つ軽快なスポーツ車が誕生した。
 
 なお、[姉妹車](../Page/姉妹車.md "wikilink")に同一の車体構成でボア・ストロークをダウンしたエンジンを搭載するGPZ750R ( 748cc / 77ps・G1-G3 ) があり、北米を除く各国に輸出された。日本国内では750cc超の大排気量車の販売が[1991年](../Page/1991年.md "wikilink")まで自主規制されていた関係上、国内市場向けとしては750ccモデルのみの販売となった。しかしオリジナルを求めるユーザーの需要も多く、多数のGPZ900Rが[逆輸入](https://ja.wikipedia.org/wiki/逆輸入 "wikilink")と言う形をとって日本国内で登録された。
 
-生産終了された[2000年代](../Page/2000年代.md "wikilink")以降も[旧車](https://ja.wikipedia.org/wiki/旧車 "wikilink")ファンから一定の支持を集めている。
+生産終了された[2000年代](../Page/2000年代.md "wikilink")以降も[旧車](../Page/旧車.md "wikilink")ファンから一定の支持を集めている。
 
 ## 車両解説
 

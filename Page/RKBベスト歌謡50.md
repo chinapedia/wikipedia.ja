@@ -8,7 +8,7 @@
 ## DJ
 
   - 初回～[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）[4月1日](../Page/4月1日.md "wikilink")：[林幹雄アナウンサー](https://ja.wikipedia.org/wiki/林幹雄_\(アナウンサー\) "wikilink")\[1\]
-  - 1990年[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")～最終回：[石上正憲](../Page/石上正憲.md "wikilink")アナウンサー
+  - 1990年[4月8日](../Page/4月8日.md "wikilink")～最終回：[石上正憲](../Page/石上正憲.md "wikilink")アナウンサー
 
 ## 概要
 
@@ -24,15 +24,15 @@
 
 「TOYOTA SUNDAY SPECIAL」は、1983年から1990年秋までは14:00～17:00、1990年秋以降15:00～17:00。
 
-身内のラジオパーソナリティが楽曲をリリースした際には必ずランクインしていた（「[HiHiHi](https://ja.wikipedia.org/wiki/HiHiHi "wikilink")」のメインパーソナリティだった[山崎銀之丞](https://ja.wikipedia.org/wiki/山崎銀之丞 "wikilink")率いる銀之丞バンドの『君がシャイニンオン』、「[もっとももんが](../Page/もっとももんが.md "wikilink")」のアシスタントだった[永田真代](../Page/永田真代.md "wikilink")の『なごり雪』など）。
+身内のラジオパーソナリティが楽曲をリリースした際には必ずランクインしていた（「[HiHiHi](../Page/HiHiHi.md "wikilink")」のメインパーソナリティだった[山崎銀之丞](../Page/山崎銀之丞.md "wikilink")率いる銀之丞バンドの『君がシャイニンオン』、「[もっとももんが](../Page/もっとももんが.md "wikilink")」のアシスタントだった[永田真代](../Page/永田真代.md "wikilink")の『なごり雪』など）。
 
 1980年1月1日～4日は、放送300回を記念して、「ベスト歌謡500」が放送された。1983年11月21日～27日にも放送500回記念として「ベスト歌謡500」が放送され、どちらも、放送開始からそれぞれの時点までの上位500曲がオンエアされた。また、1985年10月14日～18日にも25:00～27:00に放送600回記念特集が放送され、放送開始から599回までの1位獲得楽曲がすべてオンエアされた\[3\]。 なお、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")から[1989年](../Page/1989年.md "wikilink")[9月](../Page/9月.md "wikilink")迄の期間は、[TBS製作の](../Page/TBSテレビ.md "wikilink")『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』のラジオ総合ベスト10にRKBのランキングデータとして毎週活用されていた。\[4\]
 
 ## 関連番組
 
   - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")
-  - [ベストテンほっかいどう](https://ja.wikipedia.org/wiki/ベストテンほっかいどう "wikilink")
-  - [IBC TOP40](https://ja.wikipedia.org/wiki/IBC_TOP40 "wikilink")
+  - [ベストテンほっかいどう](../Page/ベストテンほっかいどう.md "wikilink")
+  - [IBC TOP40](../Page/IBC_TOP40.md "wikilink")
   - [森田公一の青春ベストテン](https://ja.wikipedia.org/wiki/森田公一の青春ベストテン "wikilink")
   - [CBC歌謡ベストテン](../Page/CBC歌謡ベストテン.md "wikilink")
   - [歌謡曲ヒット情報](../Page/歌謡曲ヒット情報.md "wikilink")
@@ -45,6 +45,6 @@
 [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:RKB毎日放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:RKB毎日放送のラジオ番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1974年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1974年のラジオ番組_\(日本\) "wikilink")
 
 1.  林はこの番組の降板をもってアナウンサーを引退した。
-2.  このトヨタ自動車・トヨタディーラー（トヨタの販売店）が協賛する「TOYOTA SUNDAY SPECIAL」という冠が付いた番組は[HBCラジオ](../Page/HBCラジオ.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[ラジオ大阪で放送されていたほぼ同じ趣旨の歌謡曲ランキング番組](../Page/大阪放送.md "wikilink")「[決定\!全日本歌謡選抜](../Page/決定!全日本歌謡選抜.md "wikilink")」との[企画ネット番組](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")だった。基本的には[NRNシングルネットであるが](../Page/全国ラジオネットワーク.md "wikilink")、HBCは[JRNとのクロスネット](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")、RKBは企画ネットで唯一JRN単独加盟だった
-3.  該当週の[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作のネット番組『[スーパーギャング](https://ja.wikipedia.org/wiki/スーパーギャング "wikilink")』はネットを返上。出典：[朝日新聞西部本社](https://ja.wikipedia.org/wiki/朝日新聞西部本社 "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")付[夕刊](https://ja.wikipedia.org/wiki/夕刊 "wikilink")[ラ・テ欄](https://ja.wikipedia.org/wiki/番組表 "wikilink")
+2.  このトヨタ自動車・トヨタディーラー（トヨタの販売店）が協賛する「TOYOTA SUNDAY SPECIAL」という冠が付いた番組は[HBCラジオ](../Page/HBCラジオ.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[ラジオ大阪で放送されていたほぼ同じ趣旨の歌謡曲ランキング番組](../Page/大阪放送.md "wikilink")「[決定\!全日本歌謡選抜](../Page/決定!全日本歌謡選抜.md "wikilink")」との[企画ネット番組](../Page/企画ネット番組.md "wikilink")だった。基本的には[NRNシングルネットであるが](../Page/全国ラジオネットワーク.md "wikilink")、HBCは[JRNとのクロスネット](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")、RKBは企画ネットで唯一JRN単独加盟だった
+3.  該当週の[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作のネット番組『[スーパーギャング](../Page/スーパーギャング.md "wikilink")』はネットを返上。出典：[朝日新聞西部本社](https://ja.wikipedia.org/wiki/朝日新聞西部本社 "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")付[夕刊](../Page/夕刊.md "wikilink")[ラ・テ欄](https://ja.wikipedia.org/wiki/番組表 "wikilink")
 4.  林は番組初期の頃のみ、ラジオベストテン情報のRKB担当の回とRKBからの中継の時の追っかけマンとして出演していた。

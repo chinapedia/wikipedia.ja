@@ -21,7 +21,7 @@
 
 ## 主な制作番組
 
-特記なきものはNHKの衛星放送（[BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")・[BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")・[BShi](https://ja.wikipedia.org/wiki/NHKデジタル衛星ハイビジョン "wikilink")）で放送。
+特記なきものはNHKの衛星放送（[BS1](https://ja.wikipedia.org/wiki/NHK衛星第1テレビジョン "wikilink")・[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")・[BShi](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")）で放送。
 
   - [日本の名峰](https://ja.wikipedia.org/wiki/日本の名峰 "wikilink")
   - [スポーツ大陸](../Page/スポーツ大陸.md "wikilink")（総合テレビでも放送）
@@ -49,7 +49,7 @@
 
   - [内山俊哉](../Page/内山俊哉.md "wikilink")（現在[NHK名古屋放送局](../Page/NHK名古屋放送局.md "wikilink")勤務（一時期、[解説委員を兼任](../Page/NHK解説委員室.md "wikilink")。）[Jリーグ中継アナウンスも担当](../Page/Jリーグ中継_\(NHK\).md "wikilink")）
   - [広坂安伸](../Page/広坂安伸.md "wikilink")（現在[神戸局勤務](../Page/NHK神戸放送局.md "wikilink")）
-  - [近藤敏之](../Page/近藤敏之.md "wikilink")（現在[NHK放送研修センター・日本語センター](https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター "wikilink")勤務　スポーツ中継からは一時引退）
+  - [近藤敏之](../Page/近藤敏之.md "wikilink")（現在[NHK放送研修センター・日本語センター](../Page/NHK放送研修センター・日本語センター.md "wikilink")勤務　スポーツ中継からは一時引退）
   - [森中直樹](../Page/森中直樹.md "wikilink")（現[東京アナウンス室](../Page/NHK放送センター.md "wikilink")[嘱託](https://ja.wikipedia.org/wiki/嘱託 "wikilink")勤務）
 
 ## 脚注

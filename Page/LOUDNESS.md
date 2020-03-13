@@ -1,9 +1,9 @@
 > この記事は[LOUDNESS](https://ja.wikipedia.org/wiki/LOUDNESS)から翻訳されています。
 
 
-**LOUDNESS**（ラウドネス）は、元[レイジー](../Page/レイジー.md "wikilink")の[高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")と[樋口宗孝](../Page/樋口宗孝.md "wikilink")が中心になって結成された、日本の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]\[2\]。現在のメンバーは、[二井原実](../Page/二井原実.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、[高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")（[ギター](../Page/ギター.md "wikilink")）、[山下昌良](../Page/山下昌良.md "wikilink")（[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")）、[鈴木政行](https://ja.wikipedia.org/wiki/鈴木政行 "wikilink")（[ドラム](../Page/ドラムセット.md "wikilink")）の4人である。レーベルは[ワードレコーズ](https://ja.wikipedia.org/wiki/ワードレコーズ "wikilink")、所属事務所は[カタナミュージック](https://ja.wikipedia.org/wiki/カタナミュージック "wikilink")。
+**LOUDNESS**（ラウドネス）は、元[レイジー](../Page/レイジー.md "wikilink")の[高崎晃](../Page/高崎晃.md "wikilink")と[樋口宗孝](../Page/樋口宗孝.md "wikilink")が中心になって結成された、日本の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]\[2\]。現在のメンバーは、[二井原実](../Page/二井原実.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）、[高崎晃](../Page/高崎晃.md "wikilink")（[ギター](../Page/ギター.md "wikilink")）、[山下昌良](../Page/山下昌良.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）、[鈴木政行](https://ja.wikipedia.org/wiki/鈴木政行 "wikilink")（[ドラム](../Page/ドラムセット.md "wikilink")）の4人である。レーベルは[ワードレコーズ](https://ja.wikipedia.org/wiki/ワードレコーズ "wikilink")、所属事務所は[カタナミュージック](https://ja.wikipedia.org/wiki/カタナミュージック "wikilink")。
 
-80年代中盤に海外進出し、[ビルボード](../Page/ビルボード.md "wikilink")TOP100にアルバムを送り込んだ。さらに[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の前座ではあるものの、日本人アーティストとして初めて、「[マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")（MSG）」のステージに立つという快挙も成し遂げ、名実共に日本を代表するロックバンドとなった。
+80年代中盤に海外進出し、[ビルボード](../Page/ビルボード.md "wikilink")TOP100にアルバムを送り込んだ。さらに[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の前座ではあるものの、日本人アーティストとして初めて、「[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")（MSG）」のステージに立つという快挙も成し遂げ、名実共に日本を代表するロックバンドとなった。
 
 [1989年](../Page/1989年.md "wikilink")以降、大幅なメンバーチェンジを繰り返し、一時期はオリジナルメンバーが高崎しかいないラインナップにもなったが、[2000年](../Page/2000年.md "wikilink")に高崎がオリジナルメンバーでの再結成を宣言。2008年11月に中心人物の一人である樋口宗孝が他界したが、後任に鈴木を迎えて活動を継続。[2018年](../Page/2018年.md "wikilink")現在までに27枚のオリジナルアルバムをリリースし、精力的に活動中である。
 
@@ -11,9 +11,9 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Loudness_logo.png "wikilink") 第1期（[1981年](../Page/1981年.md "wikilink") - [1988年](../Page/1988年.md "wikilink")）
 
-  - [二井原実](../Page/二井原実.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")
-  - [高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")：[ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、作詞（一部）
-  - [山下昌良](../Page/山下昌良.md "wikilink")：[ベースギター](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、作曲（一部）
+  - [二井原実](../Page/二井原実.md "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")
+  - [高崎晃](../Page/高崎晃.md "wikilink")：[ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、作詞（一部）
+  - [山下昌良](../Page/山下昌良.md "wikilink")：[ベースギター](../Page/ベース_\(弦楽器\).md "wikilink")、作曲（一部）
   - [樋口宗孝](../Page/樋口宗孝.md "wikilink")：[ドラムス](../Page/ドラムセット.md "wikilink")、[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")
 
 第2期（[1989年](../Page/1989年.md "wikilink") - [1992年](../Page/1992年.md "wikilink")）
@@ -27,7 +27,7 @@
 
   - [山田雅樹](https://ja.wikipedia.org/wiki/山田雅樹 "wikilink")：ボーカル、作詞
   - 高崎晃：ギター、作曲、[プロデュース](../Page/音楽プロデューサー.md "wikilink")
-  - [沢田泰司](https://ja.wikipedia.org/wiki/沢田泰司 "wikilink")：ベースギター
+  - [沢田泰司](../Page/沢田泰司.md "wikilink")：ベースギター
   - 樋口宗孝：ドラムス、リーダー
 
 第4期（[1994年](../Page/1994年.md "wikilink") - [2000年](../Page/2000年.md "wikilink")）
@@ -168,9 +168,9 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 #### 結成からデビューまで
 
-[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、所属事務所（[トライアングルプロダクション](https://ja.wikipedia.org/wiki/トライアングルプロダクション "wikilink")）の意向でアイドルバンドとしての活動を余儀なくされていた[LAZY](../Page/レイジー.md "wikilink")。そのLAZYのリーダーである樋口宗孝は他のメンバーより先に成人を迎えていた事から、多くの先輩ミュージシャンと呑みに行くうちに様々な情報を手に入れていた。そうした先輩ミュージシャンとの交流を深めていく内に所属事務所や業界の考えに違和感を持つ様になり、所属事務所側にいちリーダー、年長者として様々な口出しをする様になる\[5\]。そうした樋口の態度に対し事務所側は樋口を解雇しようとする動きに出るが、それを耳にした高崎晃は、樋口がいなくなるのなら自分も一緒に辞めると考える様になり\[6\]、その様な状況で12月にリリースされた『[宇宙船地球号](../Page/宇宙船地球号_\(アルバム\).md "wikilink")』はヘヴィメタル宣言をしたアルバムとして注目を集めたが、高崎によると当時の評価は「アイドルバンドがヘヴィメタルに挑戦しただけ」\[7\]というネガティブな受け止められ方が強かった事や、[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")と[井上俊次](../Page/井上俊次.md "wikilink")の2人が[ジューダス・プリースト](https://ja.wikipedia.org/wiki/ジューダス・プリースト "wikilink")や[アイアン・メイデン](https://ja.wikipedia.org/wiki/アイアン・メイデン "wikilink")らを中心に当時イギリスで注目を集めていたNWOBHMの様な音楽性に着いていけなくなった事\[8\]\[9\]も含め、上記の様な事情が重なり合った結果、LAZY解散の道へ向かう事となった\[10\]。
+[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")、所属事務所（[トライアングルプロダクション](https://ja.wikipedia.org/wiki/トライアングルプロダクション "wikilink")）の意向でアイドルバンドとしての活動を余儀なくされていた[LAZY](../Page/レイジー.md "wikilink")。そのLAZYのリーダーである樋口宗孝は他のメンバーより先に成人を迎えていた事から、多くの先輩ミュージシャンと呑みに行くうちに様々な情報を手に入れていた。そうした先輩ミュージシャンとの交流を深めていく内に所属事務所や業界の考えに違和感を持つ様になり、所属事務所側にいちリーダー、年長者として様々な口出しをする様になる\[5\]。そうした樋口の態度に対し事務所側は樋口を解雇しようとする動きに出るが、それを耳にした高崎晃は、樋口がいなくなるのなら自分も一緒に辞めると考える様になり\[6\]、その様な状況で12月にリリースされた『[宇宙船地球号](../Page/宇宙船地球号_\(アルバム\).md "wikilink")』はヘヴィメタル宣言をしたアルバムとして注目を集めたが、高崎によると当時の評価は「アイドルバンドがヘヴィメタルに挑戦しただけ」\[7\]というネガティブな受け止められ方が強かった事や、[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")と[井上俊次](../Page/井上俊次.md "wikilink")の2人が[ジューダス・プリースト](../Page/ジューダス・プリースト.md "wikilink")や[アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")らを中心に当時イギリスで注目を集めていたNWOBHMの様な音楽性に着いていけなくなった事\[8\]\[9\]も含め、上記の様な事情が重なり合った結果、LAZY解散の道へ向かう事となった\[10\]。
 
-[1981年](../Page/1981年.md "wikilink")2月、所属事務所とバンドメンバーとの協議の結果、2月18日のコンサートでLAZYは解散宣言をする。3月には高崎と樋口、[田中宏幸は高崎が](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")“東京の兄貴”と慕うレイジー初期の現場マネージャーだった元[テイチク・レコードの中下利行を従えて新バンド結成を決意](https://ja.wikipedia.org/wiki/テイチクエンタテインメント "wikilink")\[11\]\[12\]。2〜3人程の候補者を招いてボーカルオーディションを開く。候補者の一人には後に第4期LOUDNESSのベーシストとなる柴田直人が当時在籍していた「BLACK HOLE」のボーカリスト（定リオ）もいた\[13\]。最終的に選ばれたのは高崎の幼馴染である山下昌良が推薦した元[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")のボーカルの[二井原実](../Page/二井原実.md "wikilink")で、[パーシー・スレッジ](https://ja.wikipedia.org/wiki/パーシー・スレッジ "wikilink")の「[男が女を愛する時](https://ja.wikipedia.org/wiki/男が女を愛する時 "wikilink")」をピアノの弾き語りで歌った事が加入の決め手となりバンドに迎えられ\[14\]\[15\]、高崎晃プロジェクトとして始動。所属事務所も中下が[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")とビジネス上の付き合いがあった事から[ビーイング](../Page/ビーイング.md "wikilink")に籍を置く事となった\[16\]。
+[1981年](../Page/1981年.md "wikilink")2月、所属事務所とバンドメンバーとの協議の結果、2月18日のコンサートでLAZYは解散宣言をする。3月には高崎と樋口、[田中宏幸は高崎が](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")“東京の兄貴”と慕うレイジー初期の現場マネージャーだった元[テイチク・レコードの中下利行を従えて新バンド結成を決意](../Page/テイチクエンタテインメント.md "wikilink")\[11\]\[12\]。2〜3人程の候補者を招いてボーカルオーディションを開く。候補者の一人には後に第4期LOUDNESSのベーシストとなる柴田直人が当時在籍していた「BLACK HOLE」のボーカリスト（定リオ）もいた\[13\]。最終的に選ばれたのは高崎の幼馴染である山下昌良が推薦した元[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")のボーカルの[二井原実](../Page/二井原実.md "wikilink")で、[パーシー・スレッジ](https://ja.wikipedia.org/wiki/パーシー・スレッジ "wikilink")の「[男が女を愛する時](https://ja.wikipedia.org/wiki/男が女を愛する時 "wikilink")」をピアノの弾き語りで歌った事が加入の決め手となりバンドに迎えられ\[14\]\[15\]、高崎晃プロジェクトとして始動。所属事務所も中下が[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")とビジネス上の付き合いがあった事から[ビーイング](../Page/ビーイング.md "wikilink")に籍を置く事となった\[16\]。
 
 5月31日にLAZYは正式に解散。しかし、程なくして田中は音楽性の違いや樋口との意見が合わなくなった事から離脱\[17\]。そこで高崎の幼馴染で、二井原をボーカルに推薦した[山下昌良](../Page/山下昌良.md "wikilink")をベースに迎え、山下は6月に上京し高崎の自宅マンションに居候として住み込め始めた\[18\]。ここから高崎晃プロジェクトからバンドという体制に方向転換する。(当初はあくまでも高崎晃のソロアルバム制作を目的に動いていたプロジェクトであったがスタジオでのセッションが予想以上に良かったため樋口の提案により、このメンツでの新バンド結成に繋がった)\[19\]\[20\]。山下は二井原を推薦した当時、「ゼファー」というバンド（山下以外には後に[MARINOに加入する](https://ja.wikipedia.org/wiki/MARINO_\(バンド\) "wikilink")[大谷令文](../Page/大谷令文.md "wikilink")、後に[X-RAY](../Page/X-RAY.md "wikilink")に加入する[高橋ロジャー和久](../Page/高橋ロジャー和久.md "wikilink")が在籍）を結成しており、山下の自宅でゼファーのファーストライブの打ち合わせをしている時に、高崎から電話でLOUDNESSに誘われている\[21\]。
 
@@ -178,9 +178,9 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 #### デビュー〜海外進出
 
-[11月25日](../Page/11月25日.md "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より、アルバム『[THE BIRTHDAY EVE 〜誕生前夜〜](https://ja.wikipedia.org/wiki/THE_BIRTHDAY_EVE_〜誕生前夜〜 "wikilink")』でデビューした。この作品でのサウンドは[ヴァン・ヘイレン](https://ja.wikipedia.org/wiki/ヴァン・ヘイレン "wikilink")の『[炎の導火線](https://ja.wikipedia.org/wiki/炎の導火線 "wikilink")』\[24\]や[NWOBHM](https://ja.wikipedia.org/wiki/NWOBHM "wikilink")を意識しており、1曲1曲に様々なリフを詰め込み、全体的に長い演奏時間や変拍子な曲調から[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の傾向も見られる。[12月17日](../Page/12月17日.md "wikilink")に[浅草国際劇場](https://ja.wikipedia.org/wiki/浅草国際劇場 "wikilink")にてデビューコンサートを実施。「日本のハードロックは売れない」と言う当時の邦楽界の見方に反し、3000枚近くあったチケットは即座に完売し、関係者を驚かせた\[25\]。
+[11月25日](../Page/11月25日.md "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より、アルバム『[THE BIRTHDAY EVE 〜誕生前夜〜](https://ja.wikipedia.org/wiki/THE_BIRTHDAY_EVE_〜誕生前夜〜 "wikilink")』でデビューした。この作品でのサウンドは[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")の『[炎の導火線](https://ja.wikipedia.org/wiki/炎の導火線 "wikilink")』\[24\]や[NWOBHM](../Page/NWOBHM.md "wikilink")を意識しており、1曲1曲に様々なリフを詰め込み、全体的に長い演奏時間や変拍子な曲調から[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の傾向も見られる。[12月17日](../Page/12月17日.md "wikilink")に[浅草国際劇場](https://ja.wikipedia.org/wiki/浅草国際劇場 "wikilink")にてデビューコンサートを実施。「日本のハードロックは売れない」と言う当時の邦楽界の見方に反し、3000枚近くあったチケットは即座に完売し、関係者を驚かせた\[25\]。
 
-1982年1月18日、[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")で行われた『JAPAN HEAVY METAL FESTIVAL』、22日には[大阪毎日ホール](https://ja.wikipedia.org/wiki/大阪毎日ホール "wikilink")で行われた『JAPAN HEAVY METAL FANTASY』といったイベントに出演。二井原はプロ経験が浅かった事もあり、多くのミスを犯してしまった事から初めてプロとして活動する厳しさを痛感する\[26\]。4月6日には本格的なツアーを開始するが、4月10日で行われた[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")公演で大音量で演奏した事から近隣住民からクレームが殺到したとの事で出入り禁止を下されたとの噂が広まった\[27\]。ただし高崎曰く「出禁と言うよりは、その後しばらく出られなくなった」との事\[28\]。 5月1日にはデビューシングル『BURNING LOVE』をリリース、7月25日にリリースされた『[DEVIL SOLDIER 〜戦慄の奇蹟〜](https://ja.wikipedia.org/wiki/DEVIL_SOLDIER_〜戦慄の奇蹟〜 "wikilink")』では[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")にジョージ吾妻の紹介で[ダニー・マクレンドン](https://ja.wikipedia.org/wiki/ダニー・マクレンドン "wikilink")を起用したが、サウンド的には前作の延長上であった（実際に前作からの[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")曲もある）が『誕生前夜』以上の売上を記録した\[29\]。
+1982年1月18日、[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")で行われた『JAPAN HEAVY METAL FESTIVAL』、22日には[大阪毎日ホール](https://ja.wikipedia.org/wiki/大阪毎日ホール "wikilink")で行われた『JAPAN HEAVY METAL FANTASY』といったイベントに出演。二井原はプロ経験が浅かった事もあり、多くのミスを犯してしまった事から初めてプロとして活動する厳しさを痛感する\[26\]。4月6日には本格的なツアーを開始するが、4月10日で行われた[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")公演で大音量で演奏した事から近隣住民からクレームが殺到したとの事で出入り禁止を下されたとの噂が広まった\[27\]。ただし高崎曰く「出禁と言うよりは、その後しばらく出られなくなった」との事\[28\]。 5月1日にはデビューシングル『BURNING LOVE』をリリース、7月25日にリリースされた『[DEVIL SOLDIER 〜戦慄の奇蹟〜](https://ja.wikipedia.org/wiki/DEVIL_SOLDIER_〜戦慄の奇蹟〜 "wikilink")』では[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")にジョージ吾妻の紹介で[ダニー・マクレンドン](https://ja.wikipedia.org/wiki/ダニー・マクレンドン "wikilink")を起用したが、サウンド的には前作の延長上であった（実際に前作からの[アウトテイク](https://ja.wikipedia.org/wiki/アウトテイク "wikilink")曲もある）が『誕生前夜』以上の売上を記録した\[29\]。
 
 1983年、ビーイングを離脱し、中下が新たに設立した音楽事務所「LOUDNESS MUSIC」に移籍。1月21日にリリースされた『[THE LAW OF DEVIL'S LAND 〜魔界典章〜](https://ja.wikipedia.org/wiki/THE_LAW_OF_DEVIL'S_LAND_〜魔界典章〜 "wikilink")』でもダニー・マクレンドンを起用。ダニーはアメリカの関係者との繋がりもある事から幾つかの現地のライブハウスにブッキングをし\[30\]、バンドは7月9日に渡米。現地のラジオ局が「IN THE MIRROR」や「SPEED」を流した事や、メタルマニア向けのレコード・ショップでLOUDNESSのアルバムを扱っていた事も含め、アンダーグラウンドな[ファンジン](https://ja.wikipedia.org/wiki/ファンジン "wikilink")で情報を得ていたアメリカのメタルマニアが当時高額だった日本盤を購入するという現象が起きた\[31\]。
 
@@ -190,19 +190,19 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 #### 本格的な海外進出〜二井原実の脱退
 
-1983年のヨーロッパツアー及び『撃剣霊化』のレコーディング中の間にアメリカの[RCAレコード](https://ja.wikipedia.org/wiki/RCAレコード "wikilink")や[ゾンバ・ミュージック・グループ](../Page/ゾンバ・ミュージック・グループ.md "wikilink")からのオファーが事務所宛に届く\[33\]。この時点で中下は「RCAと契約した方が良いのではないか？」とメンバーと打ち合わせをしていたが、1984年5月のヨーロッパツアー中\[34\]に[ワーナー・パイオニアを通じで](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")[アトランティック・レコード](https://ja.wikipedia.org/wiki/アトランティック・レコード "wikilink")より「LOUDNESSに興味がある」との一報が所属事務所に入った\[35\]。中下はこの時点でアトランティック・レコードの存在を知らなかったが、メンバーにとっては憧れの[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")らを輩出した大手レーベルであった事から協議の結果アトランティックと契約\[36\]。契約内容も7年間にアルバム7枚をリリースするという日本人アーティストとしても前例のない契約であった\[37\]。
+1983年のヨーロッパツアー及び『撃剣霊化』のレコーディング中の間にアメリカの[RCAレコード](../Page/RCAレコード.md "wikilink")や[ゾンバ・ミュージック・グループ](../Page/ゾンバ・ミュージック・グループ.md "wikilink")からのオファーが事務所宛に届く\[33\]。この時点で中下は「RCAと契約した方が良いのではないか？」とメンバーと打ち合わせをしていたが、1984年5月のヨーロッパツアー中\[34\]に[ワーナー・パイオニアを通じで](../Page/ワーナーミュージック・ジャパン.md "wikilink")[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")より「LOUDNESSに興味がある」との一報が所属事務所に入った\[35\]。中下はこの時点でアトランティック・レコードの存在を知らなかったが、メンバーにとっては憧れの[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")らを輩出した大手レーベルであった事から協議の結果アトランティックと契約\[36\]。契約内容も7年間にアルバム7枚をリリースするという日本人アーティストとしても前例のない契約であった\[37\]。
 
 これと前後して[デイヴ・ムステイン](../Page/デイヴ・ムステイン.md "wikilink")を解雇したばかりの[メタリカ](https://ja.wikipedia.org/wiki/メタリカ "wikilink")側のマネージメントから高崎へ、まだメジャーレーベルと契約する前の無名バンドだったメタリカへの加入へのオファーの手紙とデモテープが届くが、高崎が「LOUDNESSに命を賭けている」事や「日本人チームで世界と闘いたい」という強い思いからオファーを断っている\[38\]。
 
-1984年5月、高崎はアトランティックとの打ち合わせの為に渡米、全米デビューアルバムのプロデューサーとして[エディ・クレイマー](https://ja.wikipedia.org/wiki/エディ・クレイマー "wikilink")、[ニール・カーノン](https://ja.wikipedia.org/wiki/:en:Neil_Kernon "wikilink")、[マックス・ノーマン](https://ja.wikipedia.org/wiki/:en:Max_Norman "wikilink")\[39\]の名が挙がる中、高崎はノーマンが手がけた[オジー・オズボーン](https://ja.wikipedia.org/wiki/オジー・オズボーン "wikilink")のアルバム、特に[ランディ・ローズ](https://ja.wikipedia.org/wiki/ランディ・ローズ "wikilink")の音を好んでいた事から協議の結果、アルバムの[プロデューサーにノーマンを迎えた](../Page/音楽プロデューサー.md "wikilink")\[40\]。ノーマンはアメリカ進出するバンドが成功する事を強く意識し、当時アメリカのヘヴィメタルシーンでムーブメントを起こしていた[グラム・メタル](../Page/グラム・メタル.md "wikilink")の様な明るいサウンドを目指す方向性に舵を取った。
+1984年5月、高崎はアトランティックとの打ち合わせの為に渡米、全米デビューアルバムのプロデューサーとして[エディ・クレイマー](https://ja.wikipedia.org/wiki/エディ・クレイマー "wikilink")、[ニール・カーノン](https://ja.wikipedia.org/wiki/:en:Neil_Kernon "wikilink")、[マックス・ノーマン](https://ja.wikipedia.org/wiki/:en:Max_Norman "wikilink")\[39\]の名が挙がる中、高崎はノーマンが手がけた[オジー・オズボーン](../Page/オジー・オズボーン.md "wikilink")のアルバム、特に[ランディ・ローズ](../Page/ランディ・ローズ.md "wikilink")の音を好んでいた事から協議の結果、アルバムの[プロデューサーにノーマンを迎えた](../Page/音楽プロデューサー.md "wikilink")\[40\]。ノーマンはアメリカ進出するバンドが成功する事を強く意識し、当時アメリカのヘヴィメタルシーンでムーブメントを起こしていた[グラム・メタル](../Page/グラム・メタル.md "wikilink")の様な明るいサウンドを目指す方向性に舵を取った。
 
 1984年7月、中下に英語の発音の悪さを指摘された二井原が、英語やヴォーカルレッスンの為に先に渡米\[41\]\[42\]。8月下旬、レコーディングの為残りのメンバー全員が渡米。ノーマンの一切の妥協を許さぬ厳しい指導に耐えながらの2ヶ月以上もの長期レコーディングを経て12月1日、先行シングルとして『CRAZY NIGHT』、翌1985年1月24日に『[THUNDER IN THE EAST](https://ja.wikipedia.org/wiki/THUNDER_IN_THE_EAST "wikilink")』がリリース。アルバムは日本の[オリコン](../Page/オリコン.md "wikilink")チャートでは最高第4位\[43\]、アメリカのビルボード総合チャートで最高74位を記録した\[44\]ビルボードでは24週に渡り、200位圏内にランクインされた\[45\]。
 
-12月2日の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")を皮切りに翌1985年2月1日まで日本ツアーを開始。4月から6月にかけて全米ツアーを行う。6月21日には劇場用アニメ『[オーディーン_光子帆船スターライト](../Page/オーディーン_光子帆船スターライト.md "wikilink")』の主題歌や劇中BGMを収録した12インチシングル「GOTTA FIGHT」をリリース、6月30日から8月6日にサポートキーボーディストに元[ノヴェラ](../Page/ノヴェラ.md "wikilink")〜[GERARD](../Page/GERARD.md "wikilink")の[永川敏郎](https://ja.wikipedia.org/wiki/永川敏郎 "wikilink")を迎えて日本ツアー\[46\]を行った後、8月8日より[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の前座として全米ツアーに参加。8月14日には日本人アーティスト及び日本のバンドとして初めて[マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")のステージに立った\[47\]。
+12月2日の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")を皮切りに翌1985年2月1日まで日本ツアーを開始。4月から6月にかけて全米ツアーを行う。6月21日には劇場用アニメ『[オーディーン_光子帆船スターライト](../Page/オーディーン_光子帆船スターライト.md "wikilink")』の主題歌や劇中BGMを収録した12インチシングル「GOTTA FIGHT」をリリース、6月30日から8月6日にサポートキーボーディストに元[ノヴェラ](../Page/ノヴェラ.md "wikilink")〜[GERARD](../Page/GERARD.md "wikilink")の[永川敏郎](https://ja.wikipedia.org/wiki/永川敏郎 "wikilink")を迎えて日本ツアー\[46\]を行った後、8月8日より[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の前座として全米ツアーに参加。8月14日には日本人アーティスト及び日本のバンドとして初めて[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")のステージに立った\[47\]。
 
-モトリー・クルーとのツアーは9月18日まで続き、ツアー終了後に帰国。12月には再びノーマンを迎えて六本木のセディック・スタジオでレコーディングを開始\[48\]。レコード会社も日本コロムビアからワーナー・パイオニアに移籍、1986年3月には『[SHADOWS OF WAR](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")』がリリースされる。同時に[大阪城ホール](../Page/大阪城ホール.md "wikilink")を皮切りに日本ツアーを開始。4月3日、4日に行われた[代々木オリンピックプール公演の模様は同年](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")9月に映像作品『LIVE IN TOKYO〜LIGHTNING STRIKES』、11月には2枚組みライブアルバム『[8186 LIVE](https://ja.wikipedia.org/wiki/8186_LIVE "wikilink")』として発売された。
+モトリー・クルーとのツアーは9月18日まで続き、ツアー終了後に帰国。12月には再びノーマンを迎えて六本木のセディック・スタジオでレコーディングを開始\[48\]。レコード会社も日本コロムビアからワーナー・パイオニアに移籍、1986年3月には『[SHADOWS OF WAR](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")』がリリースされる。同時に[大阪城ホール](../Page/大阪城ホール.md "wikilink")を皮切りに日本ツアーを開始。4月3日、4日に行われた[代々木オリンピックプール公演の模様は同年](../Page/国立代々木競技場.md "wikilink")9月に映像作品『LIVE IN TOKYO〜LIGHTNING STRIKES』、11月には2枚組みライブアルバム『[8186 LIVE](https://ja.wikipedia.org/wiki/8186_LIVE "wikilink")』として発売された。
 
-7月25日には前出の『SHADOWS OF WAR』のUSミックス盤『[LIGHTNING STRIKES](https://ja.wikipedia.org/wiki/LIGHTNING_STRIKES "wikilink")』が全米で発売。ビルボード総合チャート64位と前作『THUNDER IN THE EAST』を上回る記録を残した\[49\]。8月には全米ツアー、10月にはヨーロッパツアーを行う。このツアーの間にアメリカでは前半に[ポイズン](../Page/ポイズン_\(ロックバンド\).md "wikilink")\[50\]、[シンデレラ](../Page/シンデレラ_\(バンド\).md "wikilink")\[51\]を前座に、後半は[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")\[52\]の前座として、ヨーロッパでは[サクソン](../Page/サクソン.md "wikilink")\[53\]と共に行っていた。全米ツアー終了後の9月25日には[シンセサイザー](../Page/シンセサイザー.md "wikilink")を多用した[ディスコ](https://ja.wikipedia.org/wiki/ディスコ "wikilink")的な『[RISKY WOMAN](https://ja.wikipedia.org/wiki/RISKY_WOMAN "wikilink")』をリリース。12月28日、29日にはバンド初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行っている。
+7月25日には前出の『SHADOWS OF WAR』のUSミックス盤『[LIGHTNING STRIKES](https://ja.wikipedia.org/wiki/LIGHTNING_STRIKES "wikilink")』が全米で発売。ビルボード総合チャート64位と前作『THUNDER IN THE EAST』を上回る記録を残した\[49\]。8月には全米ツアー、10月にはヨーロッパツアーを行う。このツアーの間にアメリカでは前半に[ポイズン](../Page/ポイズン_\(ロックバンド\).md "wikilink")\[50\]、[シンデレラ](../Page/シンデレラ_\(バンド\).md "wikilink")\[51\]を前座に、後半は[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")\[52\]の前座として、ヨーロッパでは[サクソン](../Page/サクソン.md "wikilink")\[53\]と共に行っていた。全米ツアー終了後の9月25日には[シンセサイザー](../Page/シンセサイザー.md "wikilink")を多用した[ディスコ](../Page/ディスコ.md "wikilink")的な『[RISKY WOMAN](https://ja.wikipedia.org/wiki/RISKY_WOMAN "wikilink")』をリリース。12月28日、29日にはバンド初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行っている。
 
 1987年2月から3月にかけて新作のためのリハーサルや制作を開始。4月にはプロデューサーに[エディ・クレイマー](https://ja.wikipedia.org/wiki/エディ・クレイマー "wikilink")を迎え日本とアメリカでレコーディングを開始。7月31日には[ストライパー](../Page/ストライパー.md "wikilink")を前座に迎えて全米ツアーを開始。8月25日には『[HURRICANE EYES](https://ja.wikipedia.org/wiki/HURRICANE_EYES "wikilink")』がリリースされ、第1期LOUDNESSのバンドサウンドは完成の域に達した。日本のオリコンチャートでは4位を記録したものの\[54\]、ビルボードでは190位と前作よりも大きく下回った\[55\]。また、この時期より高崎の愛器が[ESPのランダムスターから荒木一三が設立した](../Page/イーエスピー.md "wikilink")[キラーギターズ](../Page/キラーギターズ.md "wikilink")のプライムを使用するようになる\[56\]。1988年には日本のみで長期ツアーを行い、5月にはミニアルバム『JEALOUSY』をリリース。しかし、『[SOLDIER OF FORTUNE](../Page/SOLDIER_OF_FORTUNE.md "wikilink")』レコーディング中の[1988年](../Page/1988年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に二井原が脱退（事実上の解雇）し、第1期LOUDNESSは終了する。
 
@@ -212,7 +212,7 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 ### 第2期（1989〜1992）
 
-オーディションを幾度となく行ったが、「日本には二井原以上のボーカリストはいない」として（この時期、後にボーカリストとして加入する事になる[山田雅樹](https://ja.wikipedia.org/wiki/山田雅樹 "wikilink")にも声をかけているが、当時はまだ[E・Z・Oで活動中だったため断られている](https://ja.wikipedia.org/wiki/FLATBACKER "wikilink")。）、海外オーディションによりアメリカ人である[マイク・ヴェセーラ](../Page/マイク・ヴェセーラ.md "wikilink")を新たなボーカルに、プロデューサーにマックス・ノーマンの他に[ロジャー・プロバート](https://ja.wikipedia.org/wiki/ロジャー・プロバート "wikilink")を迎え、[1989年](../Page/1989年.md "wikilink")に『[SOLDIER OF FORTUNE](../Page/SOLDIER_OF_FORTUNE.md "wikilink")』をリリースした。サウンドはアメリカ進出時の明るく硬質なアメリカン・ヘヴィメタルサウンドからメロディアスなものへと傾倒していった。当時この音楽的変化は、ギタリスト向けの[YOUNG GUITAR誌では](../Page/YOUNG_GUITAR.md "wikilink")、テクニカルさとメロディアスさもあって高評価を受けた。高崎はこの作品がテクニカル路線最後のアルバムと語っている。[1991年](../Page/1991年.md "wikilink")リリースの『[ON THE PROWL](https://ja.wikipedia.org/wiki/ON_THE_PROWL "wikilink")』はデビュー10周年やボーカルのチェンジによる国内基盤時代の代表曲の紹介を狙った為か、過去の曲のリメイクが多い。バンドサウンド（特にギターとドラムの変化が著しい）が洗練され、曲本来のメロディアスさをさらに引き出した。中には製作後3年しか経過していない曲も含まれていたが、これらもリメイクされた。 しかし、同年リリースのミニアルバム『[SLAP IN THE FACE](https://ja.wikipedia.org/wiki/SLAP_IN_THE_FACE "wikilink")』の表題曲では、今までのLOUDNESSには見られなかったスラッシュメタル的なリフ展開を繰り出し、ヘヴィなサウンドを前面に押し出したものの、5月の[日本武道館](../Page/日本武道館.md "wikilink")公演後にマイクは脱退（事実上の解雇）。[1992年](../Page/1992年.md "wikilink")には山下も脱退、第2期LOUDNESSは終了する。『SLAP IN THE FACE』のサウンドは第3期に受け継がれることになった。
+オーディションを幾度となく行ったが、「日本には二井原以上のボーカリストはいない」として（この時期、後にボーカリストとして加入する事になる[山田雅樹](https://ja.wikipedia.org/wiki/山田雅樹 "wikilink")にも声をかけているが、当時はまだ[E・Z・Oで活動中だったため断られている](../Page/FLATBACKER.md "wikilink")。）、海外オーディションによりアメリカ人である[マイク・ヴェセーラ](../Page/マイク・ヴェセーラ.md "wikilink")を新たなボーカルに、プロデューサーにマックス・ノーマンの他に[ロジャー・プロバート](https://ja.wikipedia.org/wiki/ロジャー・プロバート "wikilink")を迎え、[1989年](../Page/1989年.md "wikilink")に『[SOLDIER OF FORTUNE](../Page/SOLDIER_OF_FORTUNE.md "wikilink")』をリリースした。サウンドはアメリカ進出時の明るく硬質なアメリカン・ヘヴィメタルサウンドからメロディアスなものへと傾倒していった。当時この音楽的変化は、ギタリスト向けの[YOUNG GUITAR誌では](../Page/YOUNG_GUITAR.md "wikilink")、テクニカルさとメロディアスさもあって高評価を受けた。高崎はこの作品がテクニカル路線最後のアルバムと語っている。[1991年](../Page/1991年.md "wikilink")リリースの『[ON THE PROWL](https://ja.wikipedia.org/wiki/ON_THE_PROWL "wikilink")』はデビュー10周年やボーカルのチェンジによる国内基盤時代の代表曲の紹介を狙った為か、過去の曲のリメイクが多い。バンドサウンド（特にギターとドラムの変化が著しい）が洗練され、曲本来のメロディアスさをさらに引き出した。中には製作後3年しか経過していない曲も含まれていたが、これらもリメイクされた。 しかし、同年リリースのミニアルバム『[SLAP IN THE FACE](https://ja.wikipedia.org/wiki/SLAP_IN_THE_FACE "wikilink")』の表題曲では、今までのLOUDNESSには見られなかったスラッシュメタル的なリフ展開を繰り出し、ヘヴィなサウンドを前面に押し出したものの、5月の[日本武道館](../Page/日本武道館.md "wikilink")公演後にマイクは脱退（事実上の解雇）。[1992年](../Page/1992年.md "wikilink")には山下も脱退、第2期LOUDNESSは終了する。『SLAP IN THE FACE』のサウンドは第3期に受け継がれることになった。
 
 マイクのボーカル力はデリケートであり、ライヴにおいてはムラが出はしたものの、スタジオ録音ではその力が遺憾無く発揮された。
 
@@ -220,21 +220,21 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 ### 第3期（1992〜1993）
 
-[1992年](../Page/1992年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、ボーカルに元[E・Z・OのMASAKIこと](https://ja.wikipedia.org/wiki/FLATBACKER "wikilink")[山田雅樹](https://ja.wikipedia.org/wiki/山田雅樹 "wikilink")、ベースに元[XのTAIJIこと](../Page/X_JAPAN.md "wikilink")[沢田泰司](https://ja.wikipedia.org/wiki/沢田泰司 "wikilink")を迎えた。沢田は元々LOUDNESSの大ファンであり、[X在籍時から](../Page/X_JAPAN.md "wikilink")[高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")と親交があった。そのベースの腕はメンバーにも認められていた。そこで脱退する山下が自分に替わる新たなベーシストとして推薦したため加入することになった。なお、沢田は[X在籍時は](../Page/X_JAPAN.md "wikilink")[ソニーレコードに所属していたため](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[1月31日](../Page/1月31日.md "wikilink")に事務所と契約が切れる（[X正式脱退](../Page/X_JAPAN.md "wikilink")）までサポートメンバーとしてアルバムのレコーディングに参加した。
+[1992年](../Page/1992年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、ボーカルに元[E・Z・OのMASAKIこと](../Page/FLATBACKER.md "wikilink")[山田雅樹](https://ja.wikipedia.org/wiki/山田雅樹 "wikilink")、ベースに元[XのTAIJIこと](../Page/X_JAPAN.md "wikilink")[沢田泰司](../Page/沢田泰司.md "wikilink")を迎えた。沢田は元々LOUDNESSの大ファンであり、[X在籍時から](../Page/X_JAPAN.md "wikilink")[高崎晃](../Page/高崎晃.md "wikilink")と親交があった。そのベースの腕はメンバーにも認められていた。そこで脱退する山下が自分に替わる新たなベーシストとして推薦したため加入することになった。なお、沢田は[X在籍時は](../Page/X_JAPAN.md "wikilink")[ソニーレコードに所属していたため](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[1月31日](../Page/1月31日.md "wikilink")に事務所と契約が切れる（[X正式脱退](../Page/X_JAPAN.md "wikilink")）までサポートメンバーとしてアルバムのレコーディングに参加した。
 
-バンドのプロデュースは高崎が務め、ギターが半音下げチューニングになり、山田の力強いボーカルと相まって、[PANTERAを髣髴とさせる攻撃的でヘヴィなサウンドになった](https://ja.wikipedia.org/wiki/パンテラ "wikilink")。沢田はあまり目立とうとはせず、高崎のギターとの[ユニゾンプレイによる重厚なアンサンブルを作り出すことに徹底している](https://ja.wikipedia.org/wiki/斉唱 "wikilink")。高崎との高速リフにおけるユニゾンはもちろん、「ジャック・オフ・ビブラート」と呼ばれるテクニックまで揃える。そして各所で盛り込まれる流麗なフレーズや、かつてのLOUDNESSにはあまり見られなかった[スラップ奏法](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")によるベースソロをフィーチャーしている。沢田のプレイスタイルについて樋口は、自身が即興で叩いたドラミングに合わせて沢田が弾いたベースフレーズを絶賛している。
+バンドのプロデュースは高崎が務め、ギターが半音下げチューニングになり、山田の力強いボーカルと相まって、[PANTERAを髣髴とさせる攻撃的でヘヴィなサウンドになった](../Page/パンテラ.md "wikilink")。沢田はあまり目立とうとはせず、高崎のギターとの[ユニゾンプレイによる重厚なアンサンブルを作り出すことに徹底している](https://ja.wikipedia.org/wiki/斉唱 "wikilink")。高崎との高速リフにおけるユニゾンはもちろん、「ジャック・オフ・ビブラート」と呼ばれるテクニックまで揃える。そして各所で盛り込まれる流麗なフレーズや、かつてのLOUDNESSにはあまり見られなかった[スラップ奏法](../Page/スラップ奏法.md "wikilink")によるベースソロをフィーチャーしている。沢田のプレイスタイルについて樋口は、自身が即興で叩いたドラミングに合わせて沢田が弾いたベースフレーズを絶賛している。
 
 元[Xという経歴を持つ沢田の加入は各方面で波紋を呼んだ](../Page/X_JAPAN.md "wikilink")。沢田加入によりライブには（沢田あるいは[Xの](../Page/X_JAPAN.md "wikilink")）女性ファンが来るようになり、それまでの男性ファンからはツアー初日に大ブーイングを浴びせられていたが、高崎によると「半信半疑のファンもいたんだろうけど、ツアーやってるうちにみんな泰司の事を認めだしていた」と当時の様子を語り、沢田もまた高崎、樋口のコンビネーションとどう合わせるか、毎日考えさせられていたと述懐していた。\[60\]CD売上・知名度・人気度において頂点を極めた時期だったが、当時の所属事務所が海外展開に全く興味を示さなかった事から海外での活動が止まってしまった\[61\]。
 
-事務所との契約の関係などの様々なトラブルにより実質解散寸前状態に陥り、[1993年](../Page/1993年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に山田が脱退の意を示すが、樋口の説得により撤回する。[11月](../Page/11月.md "wikilink")に樋口がLOUDNESS復活をメンバーに知らせるが、この直前に沢田はこの状況ではLOUDNESS復帰が絶望的だと判断し、自身のソロプロジェクト（後の[D.T.R](../Page/D.T.R.md "wikilink")）を行うことを所属事務所レベルで決定していたため参加を断念せざるを得ず、脱退する。その後バンドのリーダーである樋口が脱退し、第3期LOUDNESSは1枚のアルバム（ライブアルバムを含めても2枚）を残して早々と終わってしまった。以降、復活後も高崎がリーダーを務めることになる。樋口は脱退した直後に沢田に対して「泰司とはフリーでもいいからすぐに音を出したい」と声を掛けたりしていたそうで、樋口にとって沢田はかなりお気に入りのベーシストであるらしく、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に樋口自身がプロデュースした[コージー・パウエル](https://ja.wikipedia.org/wiki/コージー・パウエル "wikilink")[トリビュートアルバム](../Page/トリビュート・アルバム.md "wikilink")『COZY POWELL FOREVER』に沢田を呼んでいる。
+事務所との契約の関係などの様々なトラブルにより実質解散寸前状態に陥り、[1993年](../Page/1993年.md "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")に山田が脱退の意を示すが、樋口の説得により撤回する。[11月](../Page/11月.md "wikilink")に樋口がLOUDNESS復活をメンバーに知らせるが、この直前に沢田はこの状況ではLOUDNESS復帰が絶望的だと判断し、自身のソロプロジェクト（後の[D.T.R](../Page/D.T.R.md "wikilink")）を行うことを所属事務所レベルで決定していたため参加を断念せざるを得ず、脱退する。その後バンドのリーダーである樋口が脱退し、第3期LOUDNESSは1枚のアルバム（ライブアルバムを含めても2枚）を残して早々と終わってしまった。以降、復活後も高崎がリーダーを務めることになる。樋口は脱退した直後に沢田に対して「泰司とはフリーでもいいからすぐに音を出したい」と声を掛けたりしていたそうで、樋口にとって沢田はかなりお気に入りのベーシストであるらしく、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に樋口自身がプロデュースした[コージー・パウエル](../Page/コージー・パウエル.md "wikilink")[トリビュートアルバム](../Page/トリビュート・アルバム.md "wikilink")『COZY POWELL FOREVER』に沢田を呼んでいる。
 
 この第3期LOUDNESSの布陣はファンからも高い支持を得、メンバーである高崎、沢田、樋口の3名も近年「オリジナル・ラウドネスとは別に、第3期も企画モノでいいから再結成したい」というような事を語っていたが、2008年に樋口、2011年に沢田がそれぞれ他界している為実現不可能となった。
 
 ### 第4期（1994〜2000）
 
-[1994年](../Page/1994年.md "wikilink")、MASAKI（山田）の誘いによりドラムに元[E・Z・OのHIROこと](https://ja.wikipedia.org/wiki/FLATBACKER "wikilink")[本間大嗣](../Page/本間大嗣.md "wikilink")が加入。この当時、正式メンバーのベースがおらず、高崎がギターと兼任した『[HEAVY METAL HIPPIES](https://ja.wikipedia.org/wiki/HEAVY_METAL_HIPPIES "wikilink")』発表後、12月のツアーのサポートを経て[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にはベースに元[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")の[柴田直人](../Page/柴田直人.md "wikilink")が加入し、第4期LOUDNESSが本格的に始動する。柴田は「余計な事を考えずベースプレイにだけ集中出来たので、LOUDNESSは楽しかった」と近年語っている。
+[1994年](../Page/1994年.md "wikilink")、MASAKI（山田）の誘いによりドラムに元[E・Z・OのHIROこと](../Page/FLATBACKER.md "wikilink")[本間大嗣](../Page/本間大嗣.md "wikilink")が加入。この当時、正式メンバーのベースがおらず、高崎がギターと兼任した『[HEAVY METAL HIPPIES](https://ja.wikipedia.org/wiki/HEAVY_METAL_HIPPIES "wikilink")』発表後、12月のツアーのサポートを経て[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にはベースに元[ANTHEM](../Page/ANTHEM.md "wikilink")の[柴田直人](../Page/柴田直人.md "wikilink")が加入し、第4期LOUDNESSが本格的に始動する。柴田は「余計な事を考えずベースプレイにだけ集中出来たので、LOUDNESSは楽しかった」と近年語っている。
 
-[ドゥームメタル](../Page/ドゥームメタル.md "wikilink")寄りのスローテンポの曲が多くなり、[Rooms RECORDS移籍後に製作されたブッダ](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")・ロックと高崎が称する3枚のアルバム『[GHETTO MACHINE](https://ja.wikipedia.org/wiki/GHETTO_MACHINE "wikilink")』（1997年）『[DRAGON](https://ja.wikipedia.org/wiki/DRAGON_\(LOUDNESSのアルバム\) "wikilink")』（1998年）『[ENGINE](https://ja.wikipedia.org/wiki/ENGINE_\(LOUDNESSのアルバム\) "wikilink")』（1999年、以下通称「インド3部作」）をリリース。第4期では高崎のルックスにも極端な変化があり、それまでのトレードマークであったロングヘアーから坊主頭になり、衣装もインドの民族的なものとなる。MASAKIは第三期の加入当時は本名の山田雅樹で参加したが、FLATBACKER/E・Z・O時代の[隈取り](https://ja.wikipedia.org/wiki/隈取り "wikilink")メイクを再び施す事も多くなり、芸名も当時と同じMASAKIに戻した。
+[ドゥームメタル](../Page/ドゥームメタル.md "wikilink")寄りのスローテンポの曲が多くなり、[Rooms RECORDS移籍後に製作されたブッダ](../Page/VERMILLION_RECORDS.md "wikilink")・ロックと高崎が称する3枚のアルバム『[GHETTO MACHINE](https://ja.wikipedia.org/wiki/GHETTO_MACHINE "wikilink")』（1997年）『[DRAGON](https://ja.wikipedia.org/wiki/DRAGON_\(LOUDNESSのアルバム\) "wikilink")』（1998年）『[ENGINE](https://ja.wikipedia.org/wiki/ENGINE_\(LOUDNESSのアルバム\) "wikilink")』（1999年、以下通称「インド3部作」）をリリース。第4期では高崎のルックスにも極端な変化があり、それまでのトレードマークであったロングヘアーから坊主頭になり、衣装もインドの民族的なものとなる。MASAKIは第三期の加入当時は本名の山田雅樹で参加したが、FLATBACKER/E・Z・O時代の[隈取り](https://ja.wikipedia.org/wiki/隈取り "wikilink")メイクを再び施す事も多くなり、芸名も当時と同じMASAKIに戻した。
 
 しかしこの頃、[レイジー](../Page/レイジー.md "wikilink")が再結成し高崎と樋口のコンビが復活。また樋口プロデュースによる[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")のカバーアルバム「SUPER ROCK SUMMIT 〜天国への階段〜」（1999年）では第1期LOUDNESSメンバーが全員参加するなど、後のオリジナルメンバー復活に繋がる活動が見られるようになる。
 
@@ -248,7 +248,7 @@ LOUDNESSのサウンドは高崎の指向がとても強く、第1期-第3期ま
 
 ### 第6期（2009〜現在）
 
-[2009年](../Page/2009年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[C.C.Lemonホールにて樋口追悼ライブを行う](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")。
+[2009年](../Page/2009年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[C.C.Lemonホールにて樋口追悼ライブを行う](../Page/渋谷公会堂.md "wikilink")。
 
 [2009年](../Page/2009年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")、鈴木“アンパン”政行が樋口の後任ドラマーとして正式に加入。\[63\]
 
@@ -272,7 +272,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、当時[レイジー](../Page/レイジー.md "wikilink")に在籍していたギターの[高崎晃](https://ja.wikipedia.org/wiki/高崎晃 "wikilink")とドラムの[樋口宗孝](../Page/樋口宗孝.md "wikilink")、ベースの[田中宏幸が](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")、新バンド結成を決意。オーディションによって選ばれた[二井原実](../Page/二井原実.md "wikilink")を迎え、高崎晃ソロプロジェクトとして始動。しかし、田中は音楽性の違いから離脱。新たに[山下昌良](../Page/山下昌良.md "wikilink")をベースに迎えLOUDNESS結成\[68\]（**第1期LOUDNESS**）。
+  - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")、当時[レイジー](../Page/レイジー.md "wikilink")に在籍していたギターの[高崎晃](../Page/高崎晃.md "wikilink")とドラムの[樋口宗孝](../Page/樋口宗孝.md "wikilink")、ベースの[田中宏幸が](https://ja.wikipedia.org/wiki/田中宏幸_\(ベーシスト\) "wikilink")、新バンド結成を決意。オーディションによって選ばれた[二井原実](../Page/二井原実.md "wikilink")を迎え、高崎晃ソロプロジェクトとして始動。しかし、田中は音楽性の違いから離脱。新たに[山下昌良](../Page/山下昌良.md "wikilink")をベースに迎えLOUDNESS結成\[68\]（**第1期LOUDNESS**）。
   - [11月25日](../Page/11月25日.md "wikilink")、[日本コロムビア](../Page/日本コロムビア.md "wikilink")より、1stアルバム『[THE BIRTHDAY EVE 〜誕生前夜〜](https://ja.wikipedia.org/wiki/THE_BIRTHDAY_EVE_〜誕生前夜〜 "wikilink")』でデビュー。
   - [12月17日](../Page/12月17日.md "wikilink")、[浅草国際劇場](https://ja.wikipedia.org/wiki/浅草国際劇場 "wikilink")にでデビューコンサートを行う。
 
@@ -304,7 +304,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
   - 1月、4thアルバム『[DISILLUSION 〜撃剣霊化〜](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")』をリリース。
   - 4月、バンド2度目のヨーロッパツアー。この時の模様は、8月にライブ・ビデオ『[EUROBOUNDS](https://ja.wikipedia.org/wiki/EUROBOUNDS "wikilink")』としてリリースされた。
-  - 5月、アメリカのレーベル[アトランティック・レコード](https://ja.wikipedia.org/wiki/アトランティック・レコード "wikilink")と契約を結ぶ。
+  - 5月、アメリカのレーベル[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")と契約を結ぶ。
   - 7月、『[DISILLUSION 〜撃剣霊化〜](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")』の英語版アルバム『[DISILLUSION English Version](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")』リリース。
   - 12月、シングル『[CRAZY NIGHT](https://ja.wikipedia.org/wiki/CRAZY_NIGHT "wikilink")』をリリース。スマッシュヒットする。
 
@@ -314,13 +314,13 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - [1月21日](../Page/1月21日.md "wikilink")、5thアルバム『[THUNDER IN THE EAST](https://ja.wikipedia.org/wiki/THUNDER_IN_THE_EAST "wikilink")』をリリース。シングル『[CRAZY NIGHT](https://ja.wikipedia.org/wiki/CRAZY_NIGHT "wikilink")』のヒットもあり、アメリカの[ビルボード](../Page/ビルボード.md "wikilink")アルバムチャート74位（日本においては、[オリコンヒットチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")4位）を記録する。日本のロックバンドにおいて、ビルボード100位圏内に入ったのは初めてであった（ソロアーティストでは、唯一[坂本九](../Page/坂本九.md "wikilink")が1位という快挙を果たしている）。
+  - [1月21日](../Page/1月21日.md "wikilink")、5thアルバム『[THUNDER IN THE EAST](https://ja.wikipedia.org/wiki/THUNDER_IN_THE_EAST "wikilink")』をリリース。シングル『[CRAZY NIGHT](https://ja.wikipedia.org/wiki/CRAZY_NIGHT "wikilink")』のヒットもあり、アメリカの[ビルボード](../Page/ビルボード.md "wikilink")アルバムチャート74位（日本においては、[オリコンヒットチャート](../Page/オリコンチャート.md "wikilink")4位）を記録する。日本のロックバンドにおいて、ビルボード100位圏内に入ったのは初めてであった（ソロアーティストでは、唯一[坂本九](../Page/坂本九.md "wikilink")が1位という快挙を果たしている）。
   - 4月5日〜6月2日、「THUNDER IN THE EAST TOUR IN THE WEST」と題するUSツアーを行う。
   - 6月21日、アニメ映画『[オーディーン 光子帆船スターライト](../Page/オーディーン_光子帆船スターライト.md "wikilink")』の主題歌やBGMを含めた12インチシングル『GOTTA FIGHT』をリリース。
   - 6月30日〜8月6日、日本ツアーを行い、最終日の翌日（8月7日）に渡米。
   - 8月8日〜9月18日、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の[サポートとしてアメリカツアーを行う](https://ja.wikipedia.org/wiki/前座 "wikilink")。
-  - [8月14日](../Page/8月14日.md "wikilink")、アジア人アーティストとして初めて、ロックの殿堂[マディソン・スクエア・ガーデン](https://ja.wikipedia.org/wiki/マディソン・スクエア・ガーデン "wikilink")のステージに立つ。
-  - [11月9日](../Page/11月9日.md "wikilink")、[アトランティック・レコード](https://ja.wikipedia.org/wiki/アトランティック・レコード "wikilink")より『THUNDER IN THE EAST』がアメリカでリリースされる。
+  - [8月14日](../Page/8月14日.md "wikilink")、アジア人アーティストとして初めて、ロックの殿堂[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")のステージに立つ。
+  - [11月9日](../Page/11月9日.md "wikilink")、[アトランティック・レコード](../Page/アトランティック・レコード.md "wikilink")より『THUNDER IN THE EAST』がアメリカでリリースされる。
   - [12月31日](../Page/12月31日.md "wikilink")、[第27回日本レコード大賞](https://ja.wikipedia.org/wiki/第27回日本レコード大賞 "wikilink")にて『THUNDER IN THE EAST』が優秀アルバム賞を受賞。
 
 <!-- end list -->
@@ -329,9 +329,9 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - レーベルを[日本コロムビア](../Page/日本コロムビア.md "wikilink")から[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")に移籍。
+  - レーベルを[日本コロムビア](../Page/日本コロムビア.md "wikilink")から[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")に移籍。
   - [3月24日](../Page/3月24日.md "wikilink")、6thアルバム『[SHADOWS OF WAR](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")』をリリース。
-  - 4月3日〜4日、[代々木オリンピック・プールで大規模なライブを行う](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")。
+  - 4月3日〜4日、[代々木オリンピック・プールで大規模なライブを行う](../Page/国立代々木競技場.md "wikilink")。
   - 7月、『[SHADOWS OF WAR](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")』のアメリカ向けリミックスアルバム『[LIGHTNING STRIKES](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")』をリリース。[ビルボード](../Page/ビルボード.md "wikilink")・アルバム・チャートで64位を記録。
   - 8月3日〜10月28日、[シンデレラ](../Page/シンデレラ_\(バンド\).md "wikilink")、[ポイズン](../Page/ポイズン_\(ロックバンド\).md "wikilink")、[AC/DC](https://ja.wikipedia.org/wiki/AC/DC "wikilink")らとアメリカツアーを、ヨーロッパでもツアーを敢行させる。
   - 11月、2ndライブアルバム『[8186 LIVE](https://ja.wikipedia.org/wiki/8186_LIVE "wikilink")』をリリース。
@@ -397,10 +397,10 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、山下が脱退。替わりに元[Xの](../Page/X_JAPAN.md "wikilink")[沢田泰司](https://ja.wikipedia.org/wiki/沢田泰司 "wikilink")と、ボーカルに元[E・Z・Oの](https://ja.wikipedia.org/wiki/FLATBACKER "wikilink")[山田雅樹](https://ja.wikipedia.org/wiki/山田雅樹 "wikilink")が加入（**第3期LOUDNESS**）。沢田はX在籍時に所属していた[ソニーレコードとの契約上](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[1月31日](../Page/1月31日.md "wikilink")までサポート・メンバーとしてアルバムのレコーディングに参加した。
+  - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink")、山下が脱退。替わりに元[Xの](../Page/X_JAPAN.md "wikilink")[沢田泰司](../Page/沢田泰司.md "wikilink")と、ボーカルに元[E・Z・Oの](../Page/FLATBACKER.md "wikilink")[山田雅樹](https://ja.wikipedia.org/wiki/山田雅樹 "wikilink")が加入（**第3期LOUDNESS**）。沢田はX在籍時に所属していた[ソニーレコードとの契約上](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[1月31日](../Page/1月31日.md "wikilink")までサポート・メンバーとしてアルバムのレコーディングに参加した。
   - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、沢田が正式に加入。
   - [5月28日](../Page/5月28日.md "wikilink")、ライブツアー『ONCE AND FOR ALL』をスタート（[6月6日](../Page/6月6日.md "wikilink")まで、4都市5公演）。
-  - [6月10日](../Page/6月10日.md "wikilink")、10thアルバム『[LOUDNESS](../Page/LOUDNESS_\(アルバム\).md "wikilink")』をリリース。[オリコン初登場](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")2位を記録。同時にライブツアー『Welcome to the SLAUGHTER HOUSE』をスタート（[8月3日](../Page/8月3日.md "wikilink")まで、10都市13公演）。
+  - [6月10日](../Page/6月10日.md "wikilink")、10thアルバム『[LOUDNESS](../Page/LOUDNESS_\(アルバム\).md "wikilink")』をリリース。[オリコン初登場](../Page/オリコンチャート.md "wikilink")2位を記録。同時にライブツアー『Welcome to the SLAUGHTER HOUSE』をスタート（[8月3日](../Page/8月3日.md "wikilink")まで、10都市13公演）。
   - [9月21日](../Page/9月21日.md "wikilink")、ライブツアー『SLAUGHTER HOUSE 2 〜POWER STORM〜』をスタート（[9月28日](../Page/9月28日.md "wikilink")まで、2都市3公演）。
   - [11月17日](../Page/11月17日.md "wikilink")、ライブツアー『SLAUGHTER HOUSE 2 〜LOVE NEVER DIES〜』をスタート（[1993年](../Page/1993年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")まで、18都市20公演）。
 
@@ -421,9 +421,9 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 <!-- end list -->
 
   - [4月24日](../Page/4月24日.md "wikilink")、第3期のライブを収録した3rdライブアルバム『[ONCE AND FOR ALL](https://ja.wikipedia.org/wiki/ONCE_AND_FOR_ALL "wikilink")』をリリース。
-  - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、ドラムに元[E・Z・Oの](https://ja.wikipedia.org/wiki/FLATBACKER "wikilink")[本間大嗣](../Page/本間大嗣.md "wikilink")が加入。正式メンバーのベースがおらず、レコーディングにて高崎がギターと兼任する。
+  - [12月](https://ja.wikipedia.org/wiki/12月 "wikilink")、ドラムに元[E・Z・Oの](../Page/FLATBACKER.md "wikilink")[本間大嗣](../Page/本間大嗣.md "wikilink")が加入。正式メンバーのベースがおらず、レコーディングにて高崎がギターと兼任する。
   - [12月21日](../Page/12月21日.md "wikilink")、11thアルバム『[HEAVY METAL HIPPIES](https://ja.wikipedia.org/wiki/HEAVY_METAL_HIPPIES "wikilink")』リリース。
-  - ライブツアー『CLUB GIG BAD TASTE』開始に伴いベースに元[ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink")の[柴田直人](../Page/柴田直人.md "wikilink")がサポートとして加入。
+  - ライブツアー『CLUB GIG BAD TASTE』開始に伴いベースに元[ANTHEM](../Page/ANTHEM.md "wikilink")の[柴田直人](../Page/柴田直人.md "wikilink")がサポートとして加入。
 
 <!-- end list -->
 
@@ -450,7 +450,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - [Rooms RECORDSに移籍](https://ja.wikipedia.org/wiki/VERMILLION_RECORDS "wikilink")。
+  - [Rooms RECORDSに移籍](../Page/VERMILLION_RECORDS.md "wikilink")。
   - [2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、レコーディングの為に渡米
   - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、アメリカ滞在中に現地のライブハウスにてライブを行う。
   - [7月25日](../Page/7月25日.md "wikilink")、俗に言う「インド3部作（ブッダ・ロック）」の1作目に当たる12thアルバム『[GHETTO MACHINE](https://ja.wikipedia.org/wiki/GHETTO_MACHINE "wikilink")』をリリース。
@@ -493,7 +493,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 <!-- end list -->
 
   - [3月7日](../Page/3月7日.md "wikilink")、復活後、最初のアルバムである15thアルバム『[SPIRITUAL CANOE 〜輪廻転生〜](https://ja.wikipedia.org/wiki/SPIRITUAL_CANOE_〜輪廻転生〜 "wikilink")』をリリース。3部作までのモダンヘヴィネス的なサウンドではなく、往年のLOUDNESSサウンドを意識的に再現した作品となった。このアルバムに伴う全国ツアーも行われた。
-  - [5月23日](../Page/5月23日.md "wikilink")、第1期の[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")時代の曲を収録したベストアルバム『[BEST OF LOUDNESS 8688 ATLANTIC YEARS](https://ja.wikipedia.org/wiki/BEST_OF_LOUDNESS_8688_ATLANTIC_YEARS "wikilink")』をリリース。
+  - [5月23日](../Page/5月23日.md "wikilink")、第1期の[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")時代の曲を収録したベストアルバム『[BEST OF LOUDNESS 8688 ATLANTIC YEARS](https://ja.wikipedia.org/wiki/BEST_OF_LOUDNESS_8688_ATLANTIC_YEARS "wikilink")』をリリース。
   - [7月20日](../Page/7月20日.md "wikilink")、第5期のライブを収録した6thライブアルバム『[The SOLDIER's just came back LIVE BEST](https://ja.wikipedia.org/wiki/The_SOLDIER's_just_came_back_LIVE_BEST "wikilink")』をリリース。
   - [11月21日](../Page/11月21日.md "wikilink")、16thアルバム『[PANDEMONIUM 〜降臨幻術〜](https://ja.wikipedia.org/wiki/PANDEMONIUM_〜降臨幻術〜 "wikilink")』、自身のトリビュートアルバム『[TRIBUTE TO LOUDNESS〜Rock’n Roll Crazy Night](https://ja.wikipedia.org/wiki/TRIBUTE_TO_LOUDNESS〜Rock’n_Roll_Crazy_Night "wikilink")』をリリース。
   - 12月、第1期[日本コロムビア](../Page/日本コロムビア.md "wikilink")時代のベストアルバム、『[RE-MASTERPIECES THE BEST OF LOUDNESS](https://ja.wikipedia.org/wiki/RE-MASTERPIECES_THE_BEST_OF_LOUDNESS "wikilink")』をリリース。
@@ -504,11 +504,11 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - [徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")に移籍。
+  - [徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")に移籍。
   - [3月24日](../Page/3月24日.md "wikilink")、[CLUB CITTA'でイベント](../Page/CLUB_CITTA'.md "wikilink")「Loudn'Fest Vol.1」を主催。
   - [5月21日](../Page/5月21日.md "wikilink")、第5期のライブを収録した7thライブアルバム『[LOUDNESS LIVE 2002](https://ja.wikipedia.org/wiki/LOUDNESS_LIVE_2002 "wikilink")』をリリース。
   - [9月4日](../Page/9月4日.md "wikilink")、17thアルバム『[BIOSPHERE](https://ja.wikipedia.org/wiki/BIOSPHERE "wikilink")』をリリース。
-  - [10月25日](../Page/10月25日.md "wikilink")、[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink") でワンマンライブ「LOUDNESS LIVE BIOSPHERE」を開催。
+  - [10月25日](../Page/10月25日.md "wikilink")、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink") でワンマンライブ「LOUDNESS LIVE BIOSPHERE」を開催。
   - [12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")、[新宿LOFT](https://ja.wikipedia.org/wiki/新宿LOFT "wikilink")にて[54-71](../Page/54-71.md "wikilink")とのツーマンライブ「LOFT presents RHYTHM OF FEAR〜LOUDNESS vs 54-71」を開催。
   - [12月31日](../Page/12月31日.md "wikilink")、[東京厚生年金会館](../Page/東京厚生年金会館.md "wikilink")でのカウントダウンイベント「Rock Legends Count Down」に出演。[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")等と共演。
 
@@ -531,7 +531,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
   - [1月7日](../Page/1月7日.md "wikilink")、18thアルバム『[TERROR 〜剥離〜](https://ja.wikipedia.org/wiki/TERROR_〜剥離〜 "wikilink")』をリリース。
   - [1月22日](../Page/1月22日.md "wikilink")、渋谷[O-East](https://ja.wikipedia.org/wiki/O-East "wikilink")にてライブを行う。
   - [1月31日](../Page/1月31日.md "wikilink")、国内インドア[ロック・フェスティバル](../Page/ロック・フェスティバル.md "wikilink")『[ソニックマニア](https://ja.wikipedia.org/wiki/ソニックマニア "wikilink") 04』に参加（[2月1日](../Page/2月1日.md "wikilink")まで）。
-  - [2月22日](../Page/2月22日.md "wikilink")、[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")でワンマンライブ「Live Terror 2004」を開催。
+  - [2月22日](../Page/2月22日.md "wikilink")、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でワンマンライブ「Live Terror 2004」を開催。
   - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")、17thシングル『CRAZY SAMURAI』をリリース。
   - [7月15日](../Page/7月15日.md "wikilink")、[TOKYO FM HALLにて](https://ja.wikipedia.org/wiki/TOKYO_FM_HALL "wikilink")「大江千里のLive Depot」の公開収録ライブを行う。
   - [8月13日](../Page/8月13日.md "wikilink")、[赤坂プリンスホテルにて](https://ja.wikipedia.org/wiki/グランドプリンスホテル赤坂 "wikilink")、ヘヴィメタル・バンドとしては異例の[ディナーショー](../Page/ディナーショー.md "wikilink")を行う。
@@ -541,7 +541,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -563,7 +563,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 <!-- end list -->
 
   - [2月12日](../Page/2月12日.md "wikilink")から[4月5日](../Page/4月5日.md "wikilink")までワールドツアー「LOUDNESS LIVESHOCKS world circuit 2006 chapter1」を行う（日本1公演・アメリカ13公演・カナダ1公演の計16公演）。オリジナル・メンバーとしては19年ぶりの北米公演となった。
-  - [11月25日](../Page/11月25日.md "wikilink")、[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")にて結成25周年ライブ「Loudness 25th Anniversary "Loudness Live Rockshocks 2006"」を開催する。
+  - [11月25日](../Page/11月25日.md "wikilink")、[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")にて結成25周年ライブ「Loudness 25th Anniversary "Loudness Live Rockshocks 2006"」を開催する。
   - [12月27日](../Page/12月27日.md "wikilink")、アルバム『[BREAKING THE TABOO](https://ja.wikipedia.org/wiki/BREAKING_THE_TABOO "wikilink")』をリリース。
 
 <!-- end list -->
@@ -586,7 +586,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
   - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、東名阪[クラブクアトロ](https://ja.wikipedia.org/wiki/クラブクアトロ "wikilink")ツアーを行う。闘病中の樋口の代打として**手数王**こと[菅沼孝三](../Page/菅沼孝三.md "wikilink")が出演。
   - [10月26日](../Page/10月26日.md "wikilink")、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の前座を[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")にて努める。
   - [11月30日](../Page/11月30日.md "wikilink")、半年以上もの間、復帰に向けて闘病生活を続けていた樋口であったが、この日の[早朝](https://ja.wikipedia.org/wiki/早朝 "wikilink")、大阪市内にある実家の自室において、激しい[嘔吐](../Page/嘔吐.md "wikilink")の末、[呼吸](../Page/呼吸.md "wikilink")[停止](https://ja.wikipedia.org/wiki/停止 "wikilink")･[意識不明](https://ja.wikipedia.org/wiki/意識不明 "wikilink")の状態で倒れているのを母親に発見される。そのまま、同市内にある病院へ[緊急](https://ja.wikipedia.org/wiki/緊急 "wikilink")[搬送](https://ja.wikipedia.org/wiki/搬送 "wikilink")されるも、午前10時44分、[死亡](../Page/死亡.md "wikilink")が確認される。享年51、満49歳。
-  - [12月6日](../Page/12月6日.md "wikilink")、[SHIBUYA-AX](https://ja.wikipedia.org/wiki/SHIBUYA-AX "wikilink")にてイベントライブ「Peace Maker 2008」に出演。MCでバンドの活動を続けることを表明する。
+  - [12月6日](../Page/12月6日.md "wikilink")、[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にてイベントライブ「Peace Maker 2008」に出演。MCでバンドの活動を続けることを表明する。
   - [12月24日](../Page/12月24日.md "wikilink")東京・青山葬儀所にて樋口のファン葬を執り行う。ファン、関係者、有名人合わせて1300人以上が参列した。\[69\]
 
 <!-- end list -->
@@ -595,15 +595,15 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - [2月14日](../Page/2月14日.md "wikilink")、[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")にて樋口宗孝追悼コンサートを行う。
+  - [2月14日](../Page/2月14日.md "wikilink")、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")にて樋口宗孝追悼コンサートを行う。
   - [2月16日](../Page/2月16日.md "wikilink")、高崎のブログにて元[SABER TIGERの鈴木](../Page/SABER_TIGER.md "wikilink")“アンパン”政行が樋口の後任ドラマーとして正式に加入することが発表される。\[70\]
   - [4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、初期作品を軸にした東名阪ツアー「Classic Loudness Live 2009 The Birthday Eve - Disillusion」を計3公演行う。
   - [5月27日](../Page/5月27日.md "wikilink")、アルバム『[THE EVERLASTING -魂宗久遠-](https://ja.wikipedia.org/wiki/THE_EVERLASTING_-魂宗久遠- "wikilink")』をリリース。
   - [6月18日](../Page/6月18日.md "wikilink")から[7月2日](../Page/7月2日.md "wikilink")まで全国ツアー「Classic Loudness Live 2009 The Birthday Eve - Disillusion Chapter 2」を計7公演行う。
   - [8月15日](../Page/8月15日.md "wikilink")、[RISING SUN ROCK FESTIVALに出演](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")。
   - [8月26日](../Page/8月26日.md "wikilink")から[9月5日](../Page/9月5日.md "wikilink")までツアー「Classic Loudness Live 2009 Thunder In The East」を計4公演行う。
-  - [10月17日](../Page/10月17日.md "wikilink")、[エース・フレーリー](../Page/エース・フレーリー.md "wikilink")（元[KISS](https://ja.wikipedia.org/wiki/キッス "wikilink")）の代役として[LOUD PARK](../Page/LOUD_PARK.md "wikilink")09に急遽出演が決まる。
-  - [11月14日](../Page/11月14日.md "wikilink")、[中野サンプラザ](https://ja.wikipedia.org/wiki/中野サンプラザ "wikilink")にて樋口宗孝一周忌追悼ライブを行なう。レイジーの[影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")と[井上俊次](../Page/井上俊次.md "wikilink")、沢田泰司、菅沼孝三、[真矢](https://ja.wikipedia.org/wiki/真矢_\(ドラマー\) "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")などをゲストに迎え、LOUDNESSとのセッションを行なう。
+  - [10月17日](../Page/10月17日.md "wikilink")、[エース・フレーリー](../Page/エース・フレーリー.md "wikilink")（元[KISS](../Page/キッス.md "wikilink")）の代役として[LOUD PARK](../Page/LOUD_PARK.md "wikilink")09に急遽出演が決まる。
+  - [11月14日](../Page/11月14日.md "wikilink")、[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")にて樋口宗孝一周忌追悼ライブを行なう。レイジーの[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")と[井上俊次](../Page/井上俊次.md "wikilink")、沢田泰司、菅沼孝三、[真矢](../Page/真矢_\(ドラマー\).md "wikilink")、[奥田民生](../Page/奥田民生.md "wikilink")などをゲストに迎え、LOUDNESSとのセッションを行なう。
   - [11月29日](../Page/11月29日.md "wikilink")、[恵比寿Liquidroomにて樋口宗孝追悼ワンマンライブ](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")「SORROWFUL NIGHT」を開催する。
   - [12月8日](../Page/12月8日.md "wikilink")、「Super Peace Festival 2009」に出演。
 
@@ -649,7 +649,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - 2月23日、LOUDNESSと樋口宗孝がん研究基金を中心に企画されたチャリティーライブ『Rock Beats Cancer FES 2013 Vol.1』開催。（出演、LOUDNESS、井上俊次、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[少年カミカゼ](../Page/少年カミカゼ.md "wikilink")、[Day of Acid Rain](https://ja.wikipedia.org/wiki/Day_of_Acid_Rain "wikilink")、一般のアマチュアギタリスト2名）
+  - 2月23日、LOUDNESSと樋口宗孝がん研究基金を中心に企画されたチャリティーライブ『Rock Beats Cancer FES 2013 Vol.1』開催。（出演、LOUDNESS、井上俊次、[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[斉藤和義](../Page/斉藤和義.md "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[少年カミカゼ](../Page/少年カミカゼ.md "wikilink")、[Day of Acid Rain](https://ja.wikipedia.org/wiki/Day_of_Acid_Rain "wikilink")、一般のアマチュアギタリスト2名）
   - 3月17日〜18日、バハマで行われた「MONSTERS OF ROCK CRUISING ON BAHAMA」に出演。
   - 4月14日、ブラジルのヘヴィメタルフェス「LIVE N'LOUDER FESTIVAL in Sao Paulo,Brazil」に出演、スケジュールの都合で参加出来なくなった二井原の代役に[ヒブリア](../Page/ヒブリア.md "wikilink")のユーリ・サンソンがボーカルを務めた。
   - 5月4日、アメリカの[メリーランド州](../Page/メリーランド州.md "wikilink")で行われたロックフェス「M3 Rock Festival on May 4th at Merriweather Post Pavilion」に出演。
@@ -663,9 +663,9 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
   - 1月、所属事務所をソルブレッドから個人事務所カタナミュージックへ移籍。
   - 3月29日〜4月2日、アメリカのロックフェス『Monsters of Rock Cruise 2014に出演。
-  - 4月、日本のレコード会社を徳間ジャパンから[ユニバーサルミュージックへ移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+  - 4月、日本のレコード会社を徳間ジャパンから[ユニバーサルミュージックへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
   - 6月4日、ユニバーサル移籍第1弾アルバム『[THE SUN WILL RISE AGAIN 〜撃魂霊刀](https://ja.wikipedia.org/wiki/THE_SUN_WILL_RISE_AGAIN_〜撃魂霊刀 "wikilink")』リリース。
-  - 8月8日、[フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")のヘヴィメタルフェス『Jalometalli Metal Music Festival』に出演。
+  - 8月8日、[フィンランド](../Page/フィンランド.md "wikilink")のヘヴィメタルフェス『Jalometalli Metal Music Festival』に出演。
   - 10月18日、2009年以来、5年振りに日本のヘヴィメタルフェス『LOUDPARK 14』に出演。
 
 <!-- end list -->
@@ -674,7 +674,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - 5月2日、[新木場スタジオコースト](https://ja.wikipedia.org/wiki/新木場スタジオコースト "wikilink")にて『LOUD∞OUT FEST 2015』を開催。出演バンドはLOUDNESS、[Outrage](https://ja.wikipedia.org/wiki/Outrage "wikilink")、[SADS](https://ja.wikipedia.org/wiki/SADS "wikilink")、[HER NAME IN BLOOD](https://ja.wikipedia.org/wiki/HER_NAME_IN_BLOOD "wikilink")。
+  - 5月2日、[新木場スタジオコースト](https://ja.wikipedia.org/wiki/新木場スタジオコースト "wikilink")にて『LOUD∞OUT FEST 2015』を開催。出演バンドはLOUDNESS、[Outrage](https://ja.wikipedia.org/wiki/Outrage "wikilink")、[SADS](../Page/SADS.md "wikilink")、[HER NAME IN BLOOD](https://ja.wikipedia.org/wiki/HER_NAME_IN_BLOOD "wikilink")。
   - 6月27日、フィンランドのヘヴィメタルフェス『[Tuska Open Air Metal Festival](https://ja.wikipedia.org/wiki/:en:Tuska_Open_Air_Metal_Festival "wikilink")』に出演。
   - 7月17日、ドイツのヘヴィメタルフェス『[Bang Your Head Festival](https://ja.wikipedia.org/wiki/:en:Bang_Your_Head!!! "wikilink") 2015』に出演。
   - 10月7日、『[The Sun Will Rise Again-US MIX-](https://ja.wikipedia.org/wiki/The_Sun_Will_Rise_Again-US_MIX- "wikilink")』がリリース。
@@ -708,7 +708,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 <!-- end list -->
 
-  - 1月26日、アルバム『[RISE TO GLORY - 8118 -](https://ja.wikipedia.org/wiki/RISE_TO_GLORY_-_8118_- "wikilink")』リリース。
+  - 1月26日、アルバム『[RISE TO GLORY - 8118 -](../Page/RISE_TO_GLORY_-_8118_-.md "wikilink")』リリース。
   - 2月8日、ドラムの鈴木が[脳梗塞](../Page/脳梗塞.md "wikilink")のため、緊急入院\[74\]。
   - 6月24日、[LUNA SEA主催のフェス](../Page/LUNA_SEA.md "wikilink")『[LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")』に出演\[75\]。
   - 9月24日、「METAL WEEKEND 第4弾 LOUDNESS & FRIENDS -AMPAN RETURNS-」にて鈴木が「LOUDNESS」でドラムを披露。
@@ -717,7 +717,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 ### 与えた影響
 
-[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")\[76\]、[X JAPAN](../Page/X_JAPAN.md "wikilink")\[77\]、[NOV](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")\[78\]、[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[Laputa](../Page/Laputa.md "wikilink")\[79\]、[La'cryma Christiなどのハードロック系](../Page/La'cryma_Christi.md "wikilink")、ヴィジュアル系バンドだけでなく、[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")\[80\]、[サイキックラバー](https://ja.wikipedia.org/wiki/サイキックラバー "wikilink")\[81\]、[斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")\[82\]\[83\]、[奥田民生](../Page/奥田民生.md "wikilink")\[84\]、[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")など多くの音楽アーティストに影響を与えた。
+[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")\[76\]、[X JAPAN](../Page/X_JAPAN.md "wikilink")\[77\]、[NOV](https://ja.wikipedia.org/wiki/NOV_\(ボーカリスト\) "wikilink")\[78\]、[SEX MACHINEGUNS](../Page/SEX_MACHINEGUNS.md "wikilink")、[Laputa](../Page/Laputa.md "wikilink")\[79\]、[La'cryma Christiなどのハードロック系](../Page/La'cryma_Christi.md "wikilink")、ヴィジュアル系バンドだけでなく、[スピッツ](https://ja.wikipedia.org/wiki/スピッツ_\(バンド\) "wikilink")\[80\]、[サイキックラバー](../Page/サイキックラバー.md "wikilink")\[81\]、[斉藤和義](../Page/斉藤和義.md "wikilink")\[82\]\[83\]、[奥田民生](../Page/奥田民生.md "wikilink")\[84\]、[上杉昇](../Page/上杉昇.md "wikilink")など多くの音楽アーティストに影響を与えた。
 
 ## 作品
 
@@ -727,90 +727,90 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 
 ※12インチアナログ、マキシ含む
 
-|      | タイトル                                                                                  | 発売日         | 規格      | [JP](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink") |
-| ---- | ------------------------------------------------------------------------------------- | ----------- | ------- | ------------------------------------------------------- |
-| 第1期  |                                                                                       |             |         |                                                         |
-| 1st  | [BURNING LOVE](https://ja.wikipedia.org/wiki/BURNING_LOVE_\(LOUDNESSの曲\) "wikilink")  | 1982年5月1日   | EP      |                                                         |
-| 2nd  | [GERALDINE](https://ja.wikipedia.org/wiki/GERALDINE "wikilink")                       | 1983年1月21日  |         |                                                         |
-| 3rd  | [ROAD RACER](https://ja.wikipedia.org/wiki/ROAD_RACER "wikilink")                     | 1983年9月21日  |         |                                                         |
-| 4th  | CRAZY NIGHT                                                                           | 1984年12月    |         |                                                         |
-| 5th  | Gotta Fight                                                                           | 1985年6月21日  |         |                                                         |
-| 6th  | LET IT GO                                                                             | 1986年3月10日  |         |                                                         |
-| 7th  | RISKY WOMAN                                                                           | 1986年9月27日  | 32      |                                                         |
-| プロモ  | THIS LONELY HEART                                                                     | 1987年       |         |                                                         |
-| 8th  | SO LONELY                                                                             | 1987年11月28日 | 8cmCD   |                                                         |
-| 9th  | LONG DISTANCE LOVE                                                                    | 1988年5月25日  | 58      |                                                         |
-| 10th | DREAMER AND SCREAMER                                                                  | 1989年5月25日  |         |                                                         |
-| 第2期  |                                                                                       |             |         |                                                         |
-| 11th | YOU SHOOK ME                                                                          | 1989年8月10日  | 8cmCD   | 79                                                      |
-| 12th | DOWN'N'DIRTY                                                                          | 1991年2月10日  | 97      |                                                         |
-| 13th | IN THE MIRROR                                                                         | 1991年4月25日  |         |                                                         |
-| 第3期  |                                                                                       |             |         |                                                         |
-| 14th | BLACK WIDOW                                                                           | 1992年5月25日  | 8cmCD   | 30                                                      |
-| 15th | SLAUGHTER HOUSE                                                                       | 1992年8月25日  | 40      |                                                         |
-| 第4期  |                                                                                       |             |         |                                                         |
-| 16th | ELECTRIC KISSES                                                                       | 1994年12月10日 | 8cmCD   |                                                         |
-| 第5期  |                                                                                       |             |         |                                                         |
-| 17th | CRAZY SAMURAI                                                                         | 2004年7月7日   | マキシシングル | 72                                                      |
-| 18th | The Battleship MUSASHI                                                                | 2005年8月17日  | 89      |                                                         |
-| 第6期  |                                                                                       |             |         |                                                         |
-| 19th | [The ETERNAL SOLDIERS](https://ja.wikipedia.org/wiki/The_ETERNAL_SOLDIERS "wikilink") | 2010年12月15日 | マキシシングル | 143                                                     |
-|      |                                                                                       |             |         |                                                         |
+|      | タイトル                                                                                  | 発売日         | 規格      | [JP](../Page/オリコンチャート.md "wikilink") |
+| ---- | ------------------------------------------------------------------------------------- | ----------- | ------- | ------------------------------------ |
+| 第1期  |                                                                                       |             |         |                                      |
+| 1st  | [BURNING LOVE](https://ja.wikipedia.org/wiki/BURNING_LOVE_\(LOUDNESSの曲\) "wikilink")  | 1982年5月1日   | EP      |                                      |
+| 2nd  | [GERALDINE](https://ja.wikipedia.org/wiki/GERALDINE "wikilink")                       | 1983年1月21日  |         |                                      |
+| 3rd  | [ROAD RACER](https://ja.wikipedia.org/wiki/ROAD_RACER "wikilink")                     | 1983年9月21日  |         |                                      |
+| 4th  | CRAZY NIGHT                                                                           | 1984年12月    |         |                                      |
+| 5th  | Gotta Fight                                                                           | 1985年6月21日  |         |                                      |
+| 6th  | LET IT GO                                                                             | 1986年3月10日  |         |                                      |
+| 7th  | RISKY WOMAN                                                                           | 1986年9月27日  | 32      |                                      |
+| プロモ  | THIS LONELY HEART                                                                     | 1987年       |         |                                      |
+| 8th  | SO LONELY                                                                             | 1987年11月28日 | 8cmCD   |                                      |
+| 9th  | LONG DISTANCE LOVE                                                                    | 1988年5月25日  | 58      |                                      |
+| 10th | DREAMER AND SCREAMER                                                                  | 1989年5月25日  |         |                                      |
+| 第2期  |                                                                                       |             |         |                                      |
+| 11th | YOU SHOOK ME                                                                          | 1989年8月10日  | 8cmCD   | 79                                   |
+| 12th | DOWN'N'DIRTY                                                                          | 1991年2月10日  | 97      |                                      |
+| 13th | IN THE MIRROR                                                                         | 1991年4月25日  |         |                                      |
+| 第3期  |                                                                                       |             |         |                                      |
+| 14th | BLACK WIDOW                                                                           | 1992年5月25日  | 8cmCD   | 30                                   |
+| 15th | SLAUGHTER HOUSE                                                                       | 1992年8月25日  | 40      |                                      |
+| 第4期  |                                                                                       |             |         |                                      |
+| 16th | ELECTRIC KISSES                                                                       | 1994年12月10日 | 8cmCD   |                                      |
+| 第5期  |                                                                                       |             |         |                                      |
+| 17th | CRAZY SAMURAI                                                                         | 2004年7月7日   | マキシシングル | 72                                   |
+| 18th | The Battleship MUSASHI                                                                | 2005年8月17日  | 89      |                                      |
+| 第6期  |                                                                                       |             |         |                                      |
+| 19th | [The ETERNAL SOLDIERS](https://ja.wikipedia.org/wiki/The_ETERNAL_SOLDIERS "wikilink") | 2010年12月15日 | マキシシングル | 143                                  |
+|      |                                                                                       |             |         |                                      |
 
 ### アルバム
 
 ※英語版、日本語版、リミックス版含む
 
-|                   | タイトル                                                                                                      | 発売日         | [JP](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink") |
-| ----------------- | --------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------- |
-| 第1期               |                                                                                                           |             |                                                         |
-| 1st               | [THE BIRTHDAY EVE 〜誕生前夜〜](https://ja.wikipedia.org/wiki/THE_BIRTHDAY_EVE_〜誕生前夜〜 "wikilink")               | 1981年11月25日 |                                                         |
-| 2nd               | [DEVIL SOLDIER 〜戦慄の奇蹟〜](https://ja.wikipedia.org/wiki/DEVIL_SOLDIER_〜戦慄の奇蹟〜 "wikilink")                   | 1982年7月21日  |                                                         |
-| 3rd               | [THE LAW OF DEVIL'S LAND 〜魔界典章〜](https://ja.wikipedia.org/wiki/THE_LAW_OF_DEVIL'S_LAND_〜魔界典章〜 "wikilink") | 1983年1月25日  |                                                         |
-| 4th               | [DISILLUSION 〜撃剣霊化〜](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")                         | 1984年1月21日  |                                                         |
-| 4th English ver.  | [DISILLUSION English Version](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")                | 1984年7月21日  |                                                         |
-| 5th               | [THUNDER IN THE EAST](https://ja.wikipedia.org/wiki/THUNDER_IN_THE_EAST "wikilink")                       | 1985年1月21日  | 4                                                       |
-| 6th               | [SHADOWS OF WAR](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")                                 | 1986年3月24日  |                                                         |
-| 6th US Mix ver.   | [LIGHTNING STRIKES](https://ja.wikipedia.org/wiki/LIGHTNING_STRIKES "wikilink")                           | 1986年7月25日  |                                                         |
-| 7th               | [HURRICANE EYES](https://ja.wikipedia.org/wiki/HURRICANE_EYES "wikilink")                                 | 1987年8月25日  |                                                         |
-| 7th Japanese ver. | [HURRICANE EYES Japanese Version](https://ja.wikipedia.org/wiki/HURRICANE_EYES "wikilink")                | 1987年12月10日 | 34                                                      |
-| Mini Album        | [JEALOUSY](https://ja.wikipedia.org/wiki/JEALOUSY "wikilink")                                             | 1988年5月25日  |                                                         |
-| 第2期               |                                                                                                           |             |                                                         |
-| 8th               | [SOLDIER OF FORTUNE](../Page/SOLDIER_OF_FORTUNE.md "wikilink")                                            | 1989年9月17日  | 18                                                      |
-| 9th               | [ON THE PROWL](https://ja.wikipedia.org/wiki/ON_THE_PROWL "wikilink")                                     | 1991年2月25日  | 7                                                       |
-| Mini Album        | [SLAP IN THE FACE](https://ja.wikipedia.org/wiki/SLAP_IN_THE_FACE "wikilink")                             | 1991年9月25日  | 65                                                      |
-| 第3期               |                                                                                                           |             |                                                         |
-| 10th              | [LOUDNESS](../Page/LOUDNESS_\(アルバム\).md "wikilink")                                                       | 1992年6月10日  | 2                                                       |
-| 第4期               |                                                                                                           |             |                                                         |
-| 11th              | [HEAVY METAL HIPPIES](https://ja.wikipedia.org/wiki/HEAVY_METAL_HIPPIES "wikilink")                       | 1994年12月21日 | 29                                                      |
-| 12th              | [GHETTO MACHINE](https://ja.wikipedia.org/wiki/GHETTO_MACHINE "wikilink")                                 | 1997年7月25日  | 65                                                      |
-| 13th              | [DRAGON](https://ja.wikipedia.org/wiki/DRAGON_\(LOUDNESSのアルバム\) "wikilink")                               | 1998年8月5日   | 49                                                      |
-| 14th              | [ENGINE](https://ja.wikipedia.org/wiki/ENGINE_\(LOUDNESSのアルバム\) "wikilink")                               | 1999年7月7日   | 48                                                      |
-| 第5期               |                                                                                                           |             |                                                         |
-| 15th              | [SPIRITUAL CANOE 〜輪廻転生〜](https://ja.wikipedia.org/wiki/SPIRITUAL_CANOE_〜輪廻転生〜 "wikilink")                 | 2001年3月7日   | 20                                                      |
-| 16th              | [PANDEMONIUM 〜降臨幻術〜](https://ja.wikipedia.org/wiki/PANDEMONIUM_〜降臨幻術〜 "wikilink")                         | 2001年11月21日 | 27                                                      |
-| 17th              | [BIOSPHERE 〜新世界〜](https://ja.wikipedia.org/wiki/BIOSPHERE "wikilink")                                     | 2002年9月4日   | 45                                                      |
-| 18th              | [TERROR 〜剥離〜](https://ja.wikipedia.org/wiki/TERROR_〜剥離〜 "wikilink")                                       | 2004年1月7日   | 88                                                      |
-| 19th              | [Racing/音速](https://ja.wikipedia.org/wiki/Racing/音速 "wikilink")                                           | 2004年11月25日 | 60                                                      |
-| 19th English ver. | [Racing (English Version)](https://ja.wikipedia.org/wiki/Racing/音速 "wikilink")                            | 2005年4月6日   | 174                                                     |
-| 20th              | [BREAKING THE TABOO](https://ja.wikipedia.org/wiki/BREAKING_THE_TABOO "wikilink")                         | 2006年12月27日 | 129                                                     |
-| 21st              | [METAL MAD](https://ja.wikipedia.org/wiki/METAL_MAD "wikilink")                                           | 2008年2月20日  | 51                                                      |
-| 第6期               |                                                                                                           |             |                                                         |
-| 22nd              | [THE EVERLASTING -魂宗久遠-](https://ja.wikipedia.org/wiki/THE_EVERLASTING_-魂宗久遠- "wikilink")                 | 2009年5月17日  | 42                                                      |
-| 23rd              | [KING OF PAIN 因果応報](https://ja.wikipedia.org/wiki/KING_OF_PAIN_因果応報 "wikilink")                           | 2010年5月19日  | 21                                                      |
-| 24th              | [Eve to Dawn 旭日昇天](https://ja.wikipedia.org/wiki/Eve_to_Dawn "wikilink")                                  | 2011年9月14日  | 36                                                      |
-| 25th              | [2・0・1・2](https://ja.wikipedia.org/wiki/2・0・1・2 "wikilink")                                               | 2012年8月22日  | 33                                                      |
-| 26th              | [THE SUN WILL RISE AGAIN 〜撃魂霊刀](https://ja.wikipedia.org/wiki/THE_SUN_WILL_RISE_AGAIN_〜撃魂霊刀 "wikilink")   | 2014年6月4日   | 29                                                      |
-| 27th              | [RISE TO GLORY - 8118 -](https://ja.wikipedia.org/wiki/RISE_TO_GLORY_-_8118_- "wikilink")                 | 2018年1月26日  | 13                                                      |
+|                   | タイトル                                                                                                      | 発売日         | [JP](../Page/オリコンチャート.md "wikilink") |
+| ----------------- | --------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------ |
+| 第1期               |                                                                                                           |             |                                      |
+| 1st               | [THE BIRTHDAY EVE 〜誕生前夜〜](https://ja.wikipedia.org/wiki/THE_BIRTHDAY_EVE_〜誕生前夜〜 "wikilink")               | 1981年11月25日 |                                      |
+| 2nd               | [DEVIL SOLDIER 〜戦慄の奇蹟〜](https://ja.wikipedia.org/wiki/DEVIL_SOLDIER_〜戦慄の奇蹟〜 "wikilink")                   | 1982年7月21日  |                                      |
+| 3rd               | [THE LAW OF DEVIL'S LAND 〜魔界典章〜](https://ja.wikipedia.org/wiki/THE_LAW_OF_DEVIL'S_LAND_〜魔界典章〜 "wikilink") | 1983年1月25日  |                                      |
+| 4th               | [DISILLUSION 〜撃剣霊化〜](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")                         | 1984年1月21日  |                                      |
+| 4th English ver.  | [DISILLUSION English Version](https://ja.wikipedia.org/wiki/DISILLUSION_〜撃剣霊化〜 "wikilink")                | 1984年7月21日  |                                      |
+| 5th               | [THUNDER IN THE EAST](https://ja.wikipedia.org/wiki/THUNDER_IN_THE_EAST "wikilink")                       | 1985年1月21日  | 4                                    |
+| 6th               | [SHADOWS OF WAR](https://ja.wikipedia.org/wiki/SHADOWS_OF_WAR "wikilink")                                 | 1986年3月24日  |                                      |
+| 6th US Mix ver.   | [LIGHTNING STRIKES](https://ja.wikipedia.org/wiki/LIGHTNING_STRIKES "wikilink")                           | 1986年7月25日  |                                      |
+| 7th               | [HURRICANE EYES](https://ja.wikipedia.org/wiki/HURRICANE_EYES "wikilink")                                 | 1987年8月25日  |                                      |
+| 7th Japanese ver. | [HURRICANE EYES Japanese Version](https://ja.wikipedia.org/wiki/HURRICANE_EYES "wikilink")                | 1987年12月10日 | 34                                   |
+| Mini Album        | [JEALOUSY](https://ja.wikipedia.org/wiki/JEALOUSY "wikilink")                                             | 1988年5月25日  |                                      |
+| 第2期               |                                                                                                           |             |                                      |
+| 8th               | [SOLDIER OF FORTUNE](../Page/SOLDIER_OF_FORTUNE.md "wikilink")                                            | 1989年9月17日  | 18                                   |
+| 9th               | [ON THE PROWL](https://ja.wikipedia.org/wiki/ON_THE_PROWL "wikilink")                                     | 1991年2月25日  | 7                                    |
+| Mini Album        | [SLAP IN THE FACE](https://ja.wikipedia.org/wiki/SLAP_IN_THE_FACE "wikilink")                             | 1991年9月25日  | 65                                   |
+| 第3期               |                                                                                                           |             |                                      |
+| 10th              | [LOUDNESS](../Page/LOUDNESS_\(アルバム\).md "wikilink")                                                       | 1992年6月10日  | 2                                    |
+| 第4期               |                                                                                                           |             |                                      |
+| 11th              | [HEAVY METAL HIPPIES](https://ja.wikipedia.org/wiki/HEAVY_METAL_HIPPIES "wikilink")                       | 1994年12月21日 | 29                                   |
+| 12th              | [GHETTO MACHINE](https://ja.wikipedia.org/wiki/GHETTO_MACHINE "wikilink")                                 | 1997年7月25日  | 65                                   |
+| 13th              | [DRAGON](https://ja.wikipedia.org/wiki/DRAGON_\(LOUDNESSのアルバム\) "wikilink")                               | 1998年8月5日   | 49                                   |
+| 14th              | [ENGINE](https://ja.wikipedia.org/wiki/ENGINE_\(LOUDNESSのアルバム\) "wikilink")                               | 1999年7月7日   | 48                                   |
+| 第5期               |                                                                                                           |             |                                      |
+| 15th              | [SPIRITUAL CANOE 〜輪廻転生〜](https://ja.wikipedia.org/wiki/SPIRITUAL_CANOE_〜輪廻転生〜 "wikilink")                 | 2001年3月7日   | 20                                   |
+| 16th              | [PANDEMONIUM 〜降臨幻術〜](https://ja.wikipedia.org/wiki/PANDEMONIUM_〜降臨幻術〜 "wikilink")                         | 2001年11月21日 | 27                                   |
+| 17th              | [BIOSPHERE 〜新世界〜](https://ja.wikipedia.org/wiki/BIOSPHERE "wikilink")                                     | 2002年9月4日   | 45                                   |
+| 18th              | [TERROR 〜剥離〜](https://ja.wikipedia.org/wiki/TERROR_〜剥離〜 "wikilink")                                       | 2004年1月7日   | 88                                   |
+| 19th              | [Racing/音速](https://ja.wikipedia.org/wiki/Racing/音速 "wikilink")                                           | 2004年11月25日 | 60                                   |
+| 19th English ver. | [Racing (English Version)](https://ja.wikipedia.org/wiki/Racing/音速 "wikilink")                            | 2005年4月6日   | 174                                  |
+| 20th              | [BREAKING THE TABOO](https://ja.wikipedia.org/wiki/BREAKING_THE_TABOO "wikilink")                         | 2006年12月27日 | 129                                  |
+| 21st              | [METAL MAD](https://ja.wikipedia.org/wiki/METAL_MAD "wikilink")                                           | 2008年2月20日  | 51                                   |
+| 第6期               |                                                                                                           |             |                                      |
+| 22nd              | [THE EVERLASTING -魂宗久遠-](https://ja.wikipedia.org/wiki/THE_EVERLASTING_-魂宗久遠- "wikilink")                 | 2009年5月17日  | 42                                   |
+| 23rd              | [KING OF PAIN 因果応報](https://ja.wikipedia.org/wiki/KING_OF_PAIN_因果応報 "wikilink")                           | 2010年5月19日  | 21                                   |
+| 24th              | [Eve to Dawn 旭日昇天](https://ja.wikipedia.org/wiki/Eve_to_Dawn "wikilink")                                  | 2011年9月14日  | 36                                   |
+| 25th              | [2・0・1・2](https://ja.wikipedia.org/wiki/2・0・1・2 "wikilink")                                               | 2012年8月22日  | 33                                   |
+| 26th              | [THE SUN WILL RISE AGAIN 〜撃魂霊刀](https://ja.wikipedia.org/wiki/THE_SUN_WILL_RISE_AGAIN_〜撃魂霊刀 "wikilink")   | 2014年6月4日   | 29                                   |
+| 27th              | [RISE TO GLORY - 8118 -](../Page/RISE_TO_GLORY_-_8118_-.md "wikilink")                                    | 2018年1月26日  | 13                                   |
 
 #### セルフカヴァーアルバム
 
-|     | タイトル                                                                                    | 発売日         | [JP](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink") |
-| --- | --------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------- |
-| 第5期 |                                                                                         |             |                                                         |
-| 1st | [ROCK SHOCKS](https://ja.wikipedia.org/wiki/ROCK_SHOCKS "wikilink")                     | 2004年10月27日 | 37                                                      |
-| 第6期 |                                                                                         |             |                                                         |
-| 2nd | [SAMSARA FLIGHT 〜輪廻飛翔〜](https://ja.wikipedia.org/wiki/SAMSARA_FLIGHT_〜輪廻飛翔〜 "wikilink") | 2016年7月6日   | 19                                                      |
+|     | タイトル                                                                                    | 発売日         | [JP](../Page/オリコンチャート.md "wikilink") |
+| --- | --------------------------------------------------------------------------------------- | ----------- | ------------------------------------ |
+| 第5期 |                                                                                         |             |                                      |
+| 1st | [ROCK SHOCKS](https://ja.wikipedia.org/wiki/ROCK_SHOCKS "wikilink")                     | 2004年10月27日 | 37                                   |
+| 第6期 |                                                                                         |             |                                      |
+| 2nd | [SAMSARA FLIGHT 〜輪廻飛翔〜](https://ja.wikipedia.org/wiki/SAMSARA_FLIGHT_〜輪廻飛翔〜 "wikilink") | 2016年7月6日   | 19                                   |
 
 #### ライブアルバム
 
@@ -821,7 +821,7 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
 <th><p>備考</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -901,7 +901,7 @@ LP初回盤のみボーナストラックシングル付属</p></td>
 <th><p>タイトル</p></th>
 <th><p>発売日</p></th>
 <th><p>備考</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">JP</a></p></th>
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">JP</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1315,14 +1315,14 @@ Amazon限定販売</p></td>
   - 雷神〜Rising 高崎晃 自伝 （2015年 リットー・ミュージック）ISBN 978-4845627172
   - 愛蔵版 高崎晃 Guitar Collection（2016年 メディアパル）ISBN 978-4802191470
   - 二井原実 自伝 真我Singer（2018年 リットー・ミュージック） ISBN 978-4845632114
-  - 柴田直人 自伝（[シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink") 2018年）ISBN 978-4401646388
+  - 柴田直人 自伝（[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink") 2018年）ISBN 978-4401646388
 
 ## タイアップ
 
   - [Gotta Fight](https://ja.wikipedia.org/wiki/Gotta_Fight "wikilink")、[ODIN](https://ja.wikipedia.org/wiki/ODIN "wikilink")
       - [劇場用アニメ映画](https://ja.wikipedia.org/wiki/劇場用アニメ映画 "wikilink")『[オーディーン 光子帆船スターライト](../Page/オーディーン_光子帆船スターライト.md "wikilink")』主題歌（1985年）
   - [DREAMER AND SCREAMER](https://ja.wikipedia.org/wiki/DREAMER_AND_SCREAMER "wikilink")
-      - [OVA](../Page/OVA.md "wikilink")『[湘南爆走族](https://ja.wikipedia.org/wiki/湘南爆走族 "wikilink")5』主題歌（1988年）
+      - [OVA](../Page/OVA.md "wikilink")『[湘南爆走族](../Page/湘南爆走族.md "wikilink")5』主題歌（1988年）
   - 『[The ETERNAL SOLDIERS](https://ja.wikipedia.org/wiki/The_ETERNAL_SOLDIERS "wikilink")』
       - 劇場版『[マジンカイザーSKL](https://ja.wikipedia.org/wiki/マジンカイザーSKL "wikilink")』オープニング主題歌（2010年）
 
@@ -1339,9 +1339,9 @@ Amazon限定販売</p></td>
 
   - [SPLASH](https://ja.wikipedia.org/wiki/SPLASH_\(ロックバンド\) "wikilink") - [THE ALFEEの](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")[高見沢俊彦](../Page/高見沢俊彦.md "wikilink")プロデュースによるロックバンド。高見沢の依頼により樋口がドラムで参加していた。
   - [レイジー](../Page/レイジー.md "wikilink") - LOUDNESSの前身。樋口、高崎、田中が在籍。
-  - [FLATBACKER](https://ja.wikipedia.org/wiki/FLATBACKER "wikilink")（E・Z・O） - 本間とMASAKIがLOUDNESS加入以前に参加していた。
+  - [FLATBACKER](../Page/FLATBACKER.md "wikilink")（E・Z・O） - 本間とMASAKIがLOUDNESS加入以前に参加していた。
   - [FiRE SiGN](https://ja.wikipedia.org/wiki/FiRE_SiGN "wikilink") - MASAKIが第4期末期に結成し、現在も続く女性ボーカルバンド。MASAKIはベーシストとして参加。
-  - [ANTHEM](https://ja.wikipedia.org/wiki/ANTHEM "wikilink") - 柴田がLOUDNESS以前にリーダーを務めており、LOUDNESS脱退後に再結成。再結成時には本間が新規参加。
+  - [ANTHEM](../Page/ANTHEM.md "wikilink") - 柴田がLOUDNESS以前にリーダーを務めており、LOUDNESS脱退後に再結成。再結成時には本間が新規参加。
   - [X JAPAN](../Page/X_JAPAN.md "wikilink")（X） - 沢田がLOUDNESS以前に参加。
   - [D.T.R](../Page/D.T.R.md "wikilink") - 沢田がLOUDNESS脱退後に結成。
   - [紫 (バンド)](../Page/紫_\(バンド\).md "wikilink") - 高崎と親交が深く、山下とともにセッション参加
@@ -1352,7 +1352,7 @@ Amazon限定販売</p></td>
   - [SLY](../Page/SLY.md "wikilink") - 二井原、樋口のバンド。LOUDNESSを脱退した樋口を二井原が誘う形で結成。
   - [ネバーランド](../Page/ネバーランド_\(バンド\).md "wikilink") - 田中が離脱後結成したバンド
   - [SABER TIGER](../Page/SABER_TIGER.md "wikilink") - 鈴木政行が所属していたバンド
-  - [X.Y.Z.→A](https://ja.wikipedia.org/wiki/X.Y.Z.→A "wikilink") - 二井原がLOUDNESSと並行して所属、活動しているバンド
+  - [X.Y.Z.→A](../Page/X.Y.Z.→A.md "wikilink") - 二井原がLOUDNESSと並行して所属、活動しているバンド
 
 ## 参考文献・出典
 
@@ -1438,7 +1438,7 @@ Amazon限定販売</p></td>
 56. 参考資料 ロッキンf（立東社） 1987年10月号 41p
 57.
 58.
-59. [BURRN\!](../Page/BURRN!.md "wikilink")（[シンコーミュージック・エンタテイメント](https://ja.wikipedia.org/wiki/シンコーミュージック・エンタテイメント "wikilink")）2016年2月号 29p
+59. [BURRN\!](../Page/BURRN!.md "wikilink")（[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")）2016年2月号 29p
 60. [We Rock](https://ja.wikipedia.org/wiki/We_Rock "wikilink") Vol.1（2007年11月）11p
 61.
 62. [高崎晃(LOUDNESS) SPECIAL INTERVIEW \!\!](https://web.archive.org/web/20071028010849/http://mysound.jp/hrhm/2007/10/004741.php) Hard Rock / Heavy Metal Magazine LAZY\!\! 2007年10月22日 [インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")より
@@ -1456,7 +1456,7 @@ Amazon限定販売</p></td>
 74.
 75.
 76. 過去にLOUDNESSのコピーバンド『ICBM』のボーカルとして参加したこともある（稲葉の項目参照）
-77. 後にLOUDNESSのメンバーとなった[TAIJIのみならず](https://ja.wikipedia.org/wiki/沢田泰司 "wikilink")、[TOSHIもLOUDNESSのコピーをして腕を磨いたと二井原との対談で明かしている](https://ja.wikipedia.org/wiki/Toshl "wikilink")（ロッキンf 1995年3月号）
+77. 後にLOUDNESSのメンバーとなった[TAIJIのみならず](../Page/沢田泰司.md "wikilink")、[TOSHIもLOUDNESSのコピーをして腕を磨いたと二井原との対談で明かしている](https://ja.wikipedia.org/wiki/Toshl "wikilink")（ロッキンf 1995年3月号）
 78. [番長 清原が生んだ？！カリスマメタルボーカリストNOVインタビュー](http://myuu.jp/?p=3516/) Myuu 2016年1月9日 2020年1月3日 閲覧
 79. 『Laputa―from the cradle to the grave 1999 (Fool’s Mate extrax)』、 FOOL’S MATE、1999年、p.54、ISBN 4938716186
 80. [リズム＆ドラム・マガジン](https://ja.wikipedia.org/wiki/リズム＆ドラム・マガジン "wikilink")2009年3月号『追悼 樋口宗孝』より

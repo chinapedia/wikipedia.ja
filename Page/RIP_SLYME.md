@@ -1,14 +1,14 @@
 > この記事は[RIP SLYME](https://ja.wikipedia.org/wiki/RIP_SLYME)から翻訳されています。
 
 
-**RIP SLYME**（**リップスライム**）は、4[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")+1[DJで構成される](https://ja.wikipedia.org/wiki/ディスクジョッキー#ミュージシャンとしてのDJ "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ。所属[事務所は](../Page/芸能事務所.md "wikilink")[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")。所属レコード会社は[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。ヒップホップ・[クルー](https://ja.wikipedia.org/wiki/クルー "wikilink")[FUNKY GRAMMAR UNITに所属](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")をもって活動休止した\[1\]。
+**RIP SLYME**（**リップスライム**）は、4[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")+1[DJで構成される](https://ja.wikipedia.org/wiki/ディスクジョッキー#ミュージシャンとしてのDJ "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップ](../Page/ヒップホップ.md "wikilink")グループ。所属[事務所は](../Page/芸能事務所.md "wikilink")[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")。所属レコード会社は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。ヒップホップ・[クルー](https://ja.wikipedia.org/wiki/クルー "wikilink")[FUNKY GRAMMAR UNITに所属](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")をもって活動休止した\[1\]。
 
 ## メンバー
 
   - **[RYO-Z](../Page/RYO-Z.md "wikilink")**（リョージ、[1974年](../Page/1974年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ） 本名：成田 亮治（なりた りょうじ）
       - [東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")出身。[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。初期メンバーの1人。
   - **[ILMARI](../Page/ILMARI.md "wikilink")**（イルマリ、[1975年](../Page/1975年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）
-      - [フィンランド](https://ja.wikipedia.org/wiki/フィンランド "wikilink")・[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")出生、東京都江東区出身。MC。初期メンバーの1人。
+      - [フィンランド](../Page/フィンランド.md "wikilink")・[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")出生、東京都江東区出身。MC。初期メンバーの1人。
   - **[PES](../Page/PES.md "wikilink")**（ペス、[1976年](../Page/1976年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ） 本名：千葉 正嗣（ちば まさつぐ）。
       - 東京都[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")出身。[MC](../Page/MC.md "wikilink")兼トラックメイカー。初期メンバーの1人。
   - **[SU](../Page/SU_\(RIP_SLYME\).md "wikilink")**（スー、[1973年](../Page/1973年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink") - ） 本名：大槻 一人（おおつき かずと）
@@ -39,7 +39,7 @@
 
 ### メジャー時代
 
-メジャーデビューは2001年3月だが、プロジェクト自体は[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")と[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")によって1年前の2000年から始められていた\[2\]。デビュー翌年にリリースされたセカンドアルバム『[TOKYO CLASSIC](../Page/TOKYO_CLASSIC.md "wikilink")』は、日本のヒップホップ史上初の100万枚を記録した\[3\]\[4\]。
+メジャーデビューは2001年3月だが、プロジェクト自体は[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")と[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")によって1年前の2000年から始められていた\[2\]。デビュー翌年にリリースされたセカンドアルバム『[TOKYO CLASSIC](../Page/TOKYO_CLASSIC.md "wikilink")』は、日本のヒップホップ史上初の100万枚を記録した\[3\]\[4\]。
 
 #### 2000年代
 
@@ -50,7 +50,7 @@
       - [3月31日](../Page/3月31日.md "wikilink")、[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")「[戦争に反対する唯一の手段は。-ピチカート・ファイヴのうたとことば-](https://ja.wikipedia.org/wiki/戦争に反対する唯一の手段は。-ピチカート・ファイヴのうたとことば- "wikilink")」で「nonstop to tokyo」をカバー。
       - [7月24日](../Page/7月24日.md "wikilink")、2ndアルバム『[TOKYO CLASSIC](../Page/TOKYO_CLASSIC.md "wikilink")』を発売。初のオリコン初登場1位を獲得。同じ日に発売されたSMAPのアルバムを抑えて1位獲得した。この発売を記念して、購入者を先着で[日本武道館](../Page/日本武道館.md "wikilink")での特別ライヴに無料招待している。
       - 日本のヒップホップアーティストとして初めて日本武道館でライブを開催した。
-      - 同年10月、ヒップホップグループの[キングギドラがリリースしたアルバム](https://ja.wikipedia.org/wiki/KGDR "wikilink")『最終兵器』内の楽曲「公開処刑 feat. BOY-KEN」で[K DUB SHINEにディス](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")（批判）される。その後同年11月に発売したシングル「[BLUE BE-BOP](../Page/BLUE_BE-BOP.md "wikilink")」の[MVの終盤部分で](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")「THANK YOU FOR YOUR KIND ADVICE AND SUPPORT\!（意：親切な忠告と応援をありがとうございます）」との表現があった（後の2004年8月、「blast」誌上のインタビューでK DUB SHINEは「もう批判はしない」といった意の発言をしている）。
+      - 同年10月、ヒップホップグループの[キングギドラがリリースしたアルバム](../Page/KGDR.md "wikilink")『最終兵器』内の楽曲「公開処刑 feat. BOY-KEN」で[K DUB SHINEにディス](https://ja.wikipedia.org/wiki/K_DUB_SHINE "wikilink")（批判）される。その後同年11月に発売したシングル「[BLUE BE-BOP](../Page/BLUE_BE-BOP.md "wikilink")」の[MVの終盤部分で](../Page/ミュージック・ビデオ.md "wikilink")「THANK YOU FOR YOUR KIND ADVICE AND SUPPORT\!（意：親切な忠告と応援をありがとうございます）」との表現があった（後の2004年8月、「blast」誌上のインタビューでK DUB SHINEは「もう批判はしない」といった意の発言をしている）。
   - [2003年](../Page/2003年.md "wikilink")
       - [7月16日](../Page/7月16日.md "wikilink")、3rdアルバム『[TIME TO GO](../Page/TIME_TO_GO.md "wikilink")』をリリース。オリコンウィークリーチャート初登場1位を獲得。
       - [7月20日](../Page/7月20日.md "wikilink")、日本のヒップホップ界史上、初となる野外5万人LIVE「**SUMMER MADNESS '03**」を[国営昭和記念公園](https://ja.wikipedia.org/wiki/国営昭和記念公園 "wikilink")で行う。なお、同公演のチケットは即日完売したため、後にチケットを追加販売。実際には同会場に5万2000人を動員した。
@@ -58,13 +58,13 @@
       - [3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")初のDVD『[SHORTCUTS\!](https://ja.wikipedia.org/wiki/SHORTCUTS! "wikilink")』をリリース。
   - [2004年](../Page/2004年.md "wikilink")
       - [3月17日](../Page/3月17日.md "wikilink")、8枚目のシングル「[Dandelion](../Page/Dandelion_\(RIP_SLYMEの曲\).md "wikilink")」をリリース。オリコンウィークリーチャートでは初登場2位を記録。
-      - 前記のシングルを引っ提げ[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")にクラブツアー「**DANCE FLOOR MASSIVE**」がスタート。[Zepp Tokyoなど全国](https://ja.wikipedia.org/wiki/Zepp "wikilink")7都市10公演を回った。
+      - 前記のシングルを引っ提げ[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")にクラブツアー「**DANCE FLOOR MASSIVE**」がスタート。[Zepp Tokyoなど全国](../Page/Zepp.md "wikilink")7都市10公演を回った。
       - [8月7日](../Page/8月7日.md "wikilink")、昨年に引き続き夏の野外LIVE「**OCEAN'S FIVE**」を[沖縄県](../Page/沖縄県.md "wikilink")の[宜野湾海浜公園](../Page/宜野湾海浜公園.md "wikilink")屋外劇場にて行う。
       - [11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、4thアルバム『[MASTERPIECE](../Page/MASTERPIECE_\(RIP_SLYMEのアルバム\).md "wikilink")』をリリース。
       - [11月27日](../Page/11月27日.md "wikilink")、初のアリーナツアー「**MASTERPIECE TOUR 2004**」がスタート。[大阪城ホール](../Page/大阪城ホール.md "wikilink")を皮切りに[名古屋レインボーホール](https://ja.wikipedia.org/wiki/名古屋レインボーホール "wikilink")、[日本武道館](../Page/日本武道館.md "wikilink")(3DAYS)など全国7都市11公演、延べ10万3000人を動員。RIP史上最大のツアーとなっている。
-      - 同年、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")プレイヤー[ロナウジーニョ](../Page/ロナウジーニョ.md "wikilink")の指名で、2001年に発表した曲「[STEPPER'S DELIGHT](../Page/STEPPER'S_DELIGHT.md "wikilink")」が[NIKE FOOTBALLの東アジア](../Page/ナイキ.md "wikilink")[CMソングに使用された](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+      - 同年、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")プレイヤー[ロナウジーニョ](../Page/ロナウジーニョ.md "wikilink")の指名で、2001年に発表した曲「[STEPPER'S DELIGHT](../Page/STEPPER'S_DELIGHT.md "wikilink")」が[NIKE FOOTBALLの東アジア](../Page/ナイキ.md "wikilink")[CMソングに使用された](../Page/コマーシャルソング.md "wikilink")。
       - 「STEPPER'S DELIGHT」のリミックスバージョンが作られ、それが東アジア中にCMと共に放送された。このCMに使われた曲は、後に発売されるベストアルバム『[グッジョブ\!](../Page/グッジョブ!_\(アルバム\).md "wikilink")』内に「STEPPER'S DELIGHT (TRICKY REMIX)」（初回限定盤のみ）収録された。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [4月13日](../Page/4月13日.md "wikilink")、2作目のDVD『[ROUGH-CUT FIVE](https://ja.wikipedia.org/wiki/ROUGH-CUT_FIVE "wikilink")』をリリース。
       - [8月5日](../Page/8月5日.md "wikilink")、[ROCK IN JAPAN FESTIVAL 2005に出演し](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")、初日のトリを務めた。なお二日目には[Mr. Children](https://ja.wikipedia.org/wiki/Mr._Children "wikilink")、三日目には[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")がトリをつとめた。
       - [8月31日](../Page/8月31日.md "wikilink")、初のベストアルバム『[グッジョブ\!](../Page/グッジョブ!_\(アルバム\).md "wikilink")』をリリース。
@@ -109,10 +109,10 @@
       - [5月28日](../Page/5月28日.md "wikilink") RIP SLYME初の展覧会開催決定。題名は『RIP SLYME大博覧会｢GOOD TIMES｣2001〜2010～HIPでPOPでARTな10YEARSなのだ！！〜』
       - [6月1日](../Page/6月1日.md "wikilink") 史上初、1CMに2つの楽曲がタイアップという触れ込みで [ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")の「"[Cyber-shot](https://ja.wikipedia.org/wiki/Cyber-shot "wikilink")ケータイ S003" & "[BRAVIA](https://ja.wikipedia.org/wiki/BRAVIA "wikilink")(r) Phone S004"」のCM曲の内の1つにRIP SLYMEがCMのために書き下ろした曲である「Good Times」が起用されることが発表される。8月4日に発売されるベストアルバム『GOOD TIMES』に収録されるタイトルチューンである。CM放送は、[6月21日](../Page/6月21日.md "wikilink")からである。
       - [6月9日](../Page/6月9日.md "wikilink") 「マタ逢ウ日マデ2010〜冨田流〜」&「トゥナイト」の着うた配信開始。
-      - [6月12日](../Page/6月12日.md "wikilink") [パルコ](https://ja.wikipedia.org/wiki/パルコ "wikilink") グランバザール CMソング「パルコアラ」をSUが担当。
+      - [6月12日](../Page/6月12日.md "wikilink") [パルコ](../Page/パルコ.md "wikilink") グランバザール CMソング「パルコアラ」をSUが担当。
       - [6月17日](../Page/6月17日.md "wikilink") [TDK Life on Recordの](https://ja.wikipedia.org/wiki/TDK_Life_on_Record "wikilink")「プレミアム・ワイヤレス ステレオヘッドホン TH-WR700」イメージキャラクターに起用される。
       - [6月22日](../Page/6月22日.md "wikilink") ソニー・エリクソン・モバイルコミュニケーションズCM曲「Good Times」の着うた配信開始。
-      - [6月23日](../Page/6月23日.md "wikilink") 7月13日(火)より開始の[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")全国ネット[火曜9時ドラマ](https://ja.wikipedia.org/wiki/フジテレビ火曜9時枠の連続ドラマ "wikilink")「[ジョーカー 許されざる捜査官](https://ja.wikipedia.org/wiki/ジョーカー_許されざる捜査官 "wikilink")」のドラマ主題歌を担当。曲名は『「GOOD TIMES」収録「SCAR」』。今回ドラマ主題歌を歌うのは初である。さらに、同時に着うたを配信開始。
+      - [6月23日](../Page/6月23日.md "wikilink") 7月13日(火)より開始の[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")全国ネット[火曜9時ドラマ](../Page/フジテレビ火曜9時枠の連続ドラマ.md "wikilink")「[ジョーカー 許されざる捜査官](https://ja.wikipedia.org/wiki/ジョーカー_許されざる捜査官 "wikilink")」のドラマ主題歌を担当。曲名は『「GOOD TIMES」収録「SCAR」』。今回ドラマ主題歌を歌うのは初である。さらに、同時に着うたを配信開始。
       - [6月30日](../Page/6月30日.md "wikilink") 17th single「[マタ逢ウ日マデ2010〜冨田流〜](https://ja.wikipedia.org/wiki/マタ逢ウ日マデ2010〜冨田流〜 "wikilink")」発売。同時にケータイ用きせかえ第一弾として「マタ逢ウ日マデ2010〜冨田流〜」バージョンを配信。
       - [7月5日](../Page/7月5日.md "wikilink") ラジオ [J-WAVE](../Page/J-WAVE.md "wikilink")81.3FM番組｢[M+](https://ja.wikipedia.org/wiki/M+ "wikilink")｣で新コーナー「“[RIP SERVICE](https://ja.wikipedia.org/wiki/RIP_SERVICE "wikilink")”(リップサービス)」がスタート。
       - [7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") ケータイ用きせかえ第二弾「[楽園ベイベー](../Page/楽園ベイベー.md "wikilink")」バージョンを配信。バンダイナムコゲームス「[太鼓の達人](../Page/太鼓の達人.md "wikilink")+」とのコラボレーションで、SUの『ディープ・クレンジング』と追加楽曲パック「RSパック」を配信開始。
@@ -128,7 +128,7 @@
       - [3月2日](../Page/3月2日.md "wikilink")　8thオリジナルアルバム『[STAR](https://ja.wikipedia.org/wiki/STAR_\(RIP_SLYMEのアルバム\) "wikilink")』発売。
       - [4月21日](../Page/4月21日.md "wikilink")　「RIP SLYME STAR TOUR 2011」公演開始。しかし、この日より行うはずだった「RIP SLYME STAR TOUR 2011」は[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")により、中止になる地域が発生した。　
       - [5月7日](../Page/5月7日.md "wikilink")　SU著書「Kokan Nikki」を発売。
-      - [6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")　新型[日産・ラフェスタ](https://ja.wikipedia.org/wiki/日産・ラフェスタ "wikilink") [Highway Starのキャンペーンソングとして](https://ja.wikipedia.org/wiki/ハイウェイスター "wikilink")「甘い生活～La dolce vita～」起用。RIP SLYMEがオリジナルのペインティングを施した、日産ラフェスタ Highway Starのプレゼントキャンペーンも行われた。
+      - [6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")　新型[日産・ラフェスタ](../Page/日産・ラフェスタ.md "wikilink") [Highway Starのキャンペーンソングとして](https://ja.wikipedia.org/wiki/ハイウェイスター "wikilink")「甘い生活～La dolce vita～」起用。RIP SLYMEがオリジナルのペインティングを施した、日産ラフェスタ Highway Starのプレゼントキャンペーンも行われた。
       - [6月28日](../Page/6月28日.md "wikilink")　[ジャックダニエル](../Page/ジャックダニエル.md "wikilink")とコラボ。キャンペーンソングとして、「JACK GOES ON」制作。
       - [7月18日](../Page/7月18日.md "wikilink") 「RIP SLYME STAR TOUR 2011」公演終了。
       - [8月17日](../Page/8月17日.md "wikilink")　[布袋寅泰](../Page/布袋寅泰.md "wikilink")の30周年記念アルバム「ALL TIME SUPER GUEST」発売。その中で「バンビーナ」をカバー。
@@ -139,7 +139,7 @@
       - [1月25日](../Page/1月25日.md "wikilink")に発売された[lecca](https://ja.wikipedia.org/wiki/lecca "wikilink")のアルバム「[Step One](https://ja.wikipedia.org/wiki/Step_One "wikilink")」の中で、「HI-TEN」という曲にSUとILMARIが参加。
       - [2月29日](../Page/2月29日.md "wikilink")　[Studio Apartmentのアルバム](../Page/Studio_Apartment.md "wikilink")｢にほんのうた｣発売。その中の「ミス ユニバース」という曲に、[黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink")とともにSUとILMARIがフィーチャリング。
       - [3月24日](../Page/3月24日.md "wikilink")　[僕達急行 A列車で行こう公開](https://ja.wikipedia.org/wiki/僕達急行_A列車で行こう "wikilink")。主題歌はRIP SLYMEの「RIDE ON」。それと同時に「RIDE ON（僕達急行ver.）」を配信開始。基本のリリック、トラックは変わらないが電車音などがバックで入っている。
-      - [4月17日](../Page/4月17日.md "wikilink")に放送開始の[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")全国ネット[火曜9時ドラマ](https://ja.wikipedia.org/wiki/フジテレビ火曜9時枠の連続ドラマ "wikilink")『[リーガル・ハイ](https://ja.wikipedia.org/wiki/リーガル・ハイ "wikilink")』にて、5月30日（水）にソロデビューしたPESが主題歌を担当。曲は「女神のKISS」。
+      - [4月17日](../Page/4月17日.md "wikilink")に放送開始の[フジテレビ系列](../Page/フジテレビ系列.md "wikilink")全国ネット[火曜9時ドラマ](../Page/フジテレビ火曜9時枠の連続ドラマ.md "wikilink")『[リーガル・ハイ](https://ja.wikipedia.org/wiki/リーガル・ハイ "wikilink")』にて、5月30日（水）にソロデビューしたPESが主題歌を担当。曲は「女神のKISS」。
         第1話終了後12時間、「女神のKISS」の着うたが無料配信された。
   - [2013年](../Page/2013年.md "wikilink")
       - [1月30日](../Page/1月30日.md "wikilink")　[東京マラソン2013](https://ja.wikipedia.org/wiki/東京マラソン2013 "wikilink") チャリティ“つなぐ”【Run with Heart】のテーマ曲「Run with...」の着うた配信開始。
@@ -589,7 +589,7 @@ CD</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
 <td><p><a href="../Page/グッジョブ!_(アルバム).md" title="wikilink">グッジョブ!</a></p></td>
 <td><p>初回盤 WPZL-30034/5<br />
 通常盤 WPCL-10212</p></td>
@@ -598,7 +598,7 @@ CD</p></td>
 </tr>
 <tr class="even">
 <td><p>*</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月7日.md" title="wikilink">12月7日</a></p></td>
 <td><p><a href="../Page/グッジョブ!CHRISTMAS_EDITION.md" title="wikilink">グッジョブ!CHRISTMAS EDITION</a></p></td>
 <td><p>限定盤 WPCL-10249</p></td>
 <td><p>30,000枚限定生産</p></td>
@@ -649,7 +649,7 @@ DJ FUMIYAが選曲したベスト。レコードにて発売。</p></td>
 #### その他
 
   - O.T.F LIVE AT BUDOKAN 2002.07.25 \[LIMITED EDITION\]（2002年8月14日）
-  - V.A - REALRHYME TRAX phase2. （2002年11月20日） - 『By the Way』の[砂原良徳](https://ja.wikipedia.org/wiki/砂原良徳 "wikilink")リミックスを収録。
+  - V.A - REALRHYME TRAX phase2. （2002年11月20日） - 『By the Way』の[砂原良徳](../Page/砂原良徳.md "wikilink")リミックスを収録。
   - RIP SLYME ORCHESTRA + PLUS（2003年2月26日） - 代表曲のポエム朗読とオーケストラ演奏
 
 #### 参加作品（全員参加のみ）
@@ -659,12 +659,12 @@ DJ FUMIYAが選曲したベスト。レコードにて発売。</p></td>
   - TMC Graffiti / TMC ALLSTARS
   - [We Are The Wild](../Page/We_Are_The_Wild.md "wikilink") / Gathering Of The All Stars
   - Fanta-Z (slow ride babies) feat. RIP SLYME / GWASHI
-  - Black Dada（江戸前Mix）/ [Fantastic Plastic Machine](https://ja.wikipedia.org/wiki/Fantastic_Plastic_Machine "wikilink")
+  - Black Dada（江戸前Mix）/ [Fantastic Plastic Machine](../Page/Fantastic_Plastic_Machine.md "wikilink")
   - nonstop to tokyo / RIP SLYME（オムニバス「戦争に反対する唯一の手段は。−ピチカート・ファイヴのうたとことば−」）
   - Sync \! feat. RIP SLYME / [BLACK BOTTOM BRASS BAND](../Page/BLACK_BOTTOM_BRASS_BAND.md "wikilink")
   - No Future feat. RIP SLYME / [EAST END](../Page/EAST_END.md "wikilink")
   - Mothership Connection feat. RIP SLYME / [MELLOW YELLOW](../Page/MELLOW_YELLOW.md "wikilink")
-  - ウィークエンド・シャフル featuring MCU, RYO-Z, KREVA, CUEZERO, CHANNEL, KOHEI JAPAN, SU, LITTLE, ILMARI, GAKU-MC, SONOMI, PES, K.I.N, 童子-T / [RHYMESTER](https://ja.wikipedia.org/wiki/RHYMESTER "wikilink")
+  - ウィークエンド・シャフル featuring MCU, RYO-Z, KREVA, CUEZERO, CHANNEL, KOHEI JAPAN, SU, LITTLE, ILMARI, GAKU-MC, SONOMI, PES, K.I.N, 童子-T / [RHYMESTER](../Page/RHYMESTER.md "wikilink")
   - Wanna? / [OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink") × RIP SLYME
   - あなたに / RIP SLYME（オムニバス「[MONGOL800](../Page/MONGOL800.md "wikilink")トリビュートアルバム」）
   - Feel / unBORDE all stars \[11\]
@@ -692,7 +692,7 @@ WPV7-90010</p></td>
 <td><p>曲のPV、ライヴ映像などを収録</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ROUGH-CUT_FIVE" title="wikilink">ROUGH-CUT FIVE</a></p></td>
 <td><p>WPBL-90050/1</p></td>
 <td><p>ツアー映像やオフショット、曲のPVなどを収録</p></td>
@@ -756,7 +756,7 @@ WPV7-90010</p></td>
   - [TOKYO-FM](../Page/エフエム東京.md "wikilink") [SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") "[RIP LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")"
       - 月曜日 23:05〜23:30 2005年10月3日〜2009年6月8日
   - [J-WAVE](../Page/J-WAVE.md "wikilink") [M+ (music plus)](../Page/MUSIC_PLUS.md "wikilink") "RIP SERVICE"
-      - 毎週[月曜日](../Page/月曜日.md "wikilink")〜[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 12:20〜13:30 2010年7月5日〜2010年12月30日
+      - 毎週[月曜日](../Page/月曜日.md "wikilink")〜[木曜日](../Page/木曜日.md "wikilink") 12:20〜13:30 2010年7月5日〜2010年12月30日
 
 ## ミュージックビデオ
 
@@ -795,22 +795,22 @@ WPV7-90010</p></td>
       - [EAST END](../Page/EAST_END.md "wikilink")
       - [Gnz Word](https://ja.wikipedia.org/wiki/Gnz_Word "wikilink")
       - [MELLOW YELLOW](../Page/MELLOW_YELLOW.md "wikilink")
-      - [KREVA](https://ja.wikipedia.org/wiki/KREVA "wikilink") ([KICK THE CAN CREW](https://ja.wikipedia.org/wiki/KICK_THE_CAN_CREW "wikilink"))
-      - [LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink") (KICK THE CAN CREW)
-      - [MCU](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink") (KICK THE CAN CREW)
-      - [CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO "wikilink")
+      - [KREVA](../Page/KREVA.md "wikilink") ([KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink"))
+      - [LITTLE](../Page/LITTLE.md "wikilink") (KICK THE CAN CREW)
+      - [MCU](../Page/MCU_\(ラッパー\).md "wikilink") (KICK THE CAN CREW)
+      - [CUEZERO](../Page/CUEZERO.md "wikilink")
       - [CHANNEL](../Page/CHANNEL.md "wikilink")
       - [DJ TATSUTA](../Page/DJ_TATSUTA.md "wikilink")
       - [DJ SHUHO](../Page/DJ_SHUHO.md "wikilink")
   - TMC ALLSTARS
       - [Dragon Ash](../Page/Dragon_Ash.md "wikilink")
       - [スケボーキング](../Page/スケボーキング.md "wikilink")
-      - [ラッパ我リヤ](https://ja.wikipedia.org/wiki/ラッパ我リヤ "wikilink")
+      - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")
       - [Missile Girl Scoot](../Page/Missile_Girl_Scoot.md "wikilink")
       - [PENPALS](../Page/PENPALS.md "wikilink")
   - [VERBAL](https://ja.wikipedia.org/wiki/VERBAL "wikilink") -\>\> 『[EPOCH](../Page/EPOCH.md "wikilink")』 - 「パーリーピーポー」。　[ILMARI](../Page/ILMARI.md "wikilink")、[RYO-Z](../Page/RYO-Z.md "wikilink")も参加している[TERIYAKI BOYZのメンバー](../Page/TERIYAKI_BOYZ.md "wikilink")
-  - [スチャダラパー](https://ja.wikipedia.org/wiki/スチャダラパー "wikilink") -\>\> 『[EPOCH](../Page/EPOCH.md "wikilink")』 - 「レッツゴー7〜8匹」。
-  - [YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink")
+  - [スチャダラパー](../Page/スチャダラパー.md "wikilink") -\>\> 『[EPOCH](../Page/EPOCH.md "wikilink")』 - 「レッツゴー7〜8匹」。
+  - [YO-KING](../Page/YO-KING.md "wikilink")
   - [ケツメイシ](../Page/ケツメイシ.md "wikilink")
   - [Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")
   - [chay](https://ja.wikipedia.org/wiki/chay "wikilink")
@@ -832,14 +832,14 @@ WPV7-90010</p></td>
 **その他**
 
   - [GROOVISIONS](https://ja.wikipedia.org/wiki/GROOVISIONS "wikilink") - ジャケットデザイン等を手掛けている
-  - [MTVジャパン](https://ja.wikipedia.org/wiki/MTVジャパン "wikilink") - [布袋寅泰](../Page/布袋寅泰.md "wikilink")との[マッシュアップ](../Page/マッシュアップ.md "wikilink")企画、[SONY](../Page/ソニー.md "wikilink")[VAIO](../Page/VAIO.md "wikilink")typeC [CMコラボ企画などを製作](../Page/コマーシャルメッセージ.md "wikilink")
+  - [MTVジャパン](../Page/MTVジャパン.md "wikilink") - [布袋寅泰](../Page/布袋寅泰.md "wikilink")との[マッシュアップ](../Page/マッシュアップ.md "wikilink")企画、[SONY](../Page/ソニー.md "wikilink")[VAIO](../Page/VAIO.md "wikilink")typeC [CMコラボ企画などを製作](../Page/コマーシャルメッセージ.md "wikilink")
 
 ## 脚注・出典
 
 ## 関連項目
 
   - [田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")　RIP SLYMEの所属事務所
-  - [ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")　RIP SLYMEの所属レコード会社
+  - [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")　RIP SLYMEの所属レコード会社
   - [アクセルエンターメディア](https://ja.wikipedia.org/wiki/アクセルエンターメディア "wikilink")　RIP SLYME MOBILEの運営主体
 
 ## 外部リンク

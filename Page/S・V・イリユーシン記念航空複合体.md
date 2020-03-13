@@ -17,32 +17,32 @@
 
 そのほか、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時には[対地攻撃機](../Page/攻撃機.md "wikilink")([シュトゥルモヴィーク](../Page/シュトゥルモヴィーク.md "wikilink"))[Il-2が赤軍の勝利に大きな貢献をした](../Page/Il-2_\(航空機\).md "wikilink")。非常に多くの数が製造されたこの重シュトゥルモヴィークは、[ドイツ軍](../Page/ドイツ軍.md "wikilink")の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")を大量に破壊し、[枢軸国](../Page/枢軸国.md "wikilink")軍のロシアへの侵攻に歯止めをかけた。
 
-戦後は専ら[旅客機](../Page/旅客機.md "wikilink")タイプの航空機の設計を行い、[Il-14や](../Page/Il-14_\(航空機\).md "wikilink")[Il-18](https://ja.wikipedia.org/wiki/Il-18_\(航空機\) "wikilink")、[Il-62などは](https://ja.wikipedia.org/wiki/Il-62_\(航空機\) "wikilink")[Tu-134や](../Page/Tu-134_\(航空機\).md "wikilink")[Tu-154と並んでアエロフロートの代表的旅客機であった](https://ja.wikipedia.org/wiki/Tu-154_\(航空機\) "wikilink")。また、[Il-76はソ連後期の主力輸送機となり](../Page/Il-76_\(航空機\).md "wikilink")、世界中の軍や民間会社で多数が運用されている。また、Il-76からはさまざまな特殊用途向けの機体が開発され、その中でも[Il-78は](../Page/Il-78_\(航空機\).md "wikilink")[ロシア空軍で唯一の専用](../Page/ロシア航空宇宙軍.md "wikilink")[空中給油機](../Page/空中給油機.md "wikilink")として重要な位置にある。また、[ベリエフ設計局の開発した](../Page/G・M・ベリーエフ記念タガンローク航空科学技術複合体.md "wikilink")[早期警戒管制機](../Page/早期警戒管制機.md "wikilink")[A-50も](../Page/A-50_\(航空機\).md "wikilink")、機体はIl-76がもとになっている。
+戦後は専ら[旅客機](../Page/旅客機.md "wikilink")タイプの航空機の設計を行い、[Il-14や](../Page/Il-14_\(航空機\).md "wikilink")[Il-18](../Page/Il-18_\(航空機\).md "wikilink")、[Il-62などは](../Page/Il-62_\(航空機\).md "wikilink")[Tu-134や](../Page/Tu-134_\(航空機\).md "wikilink")[Tu-154と並んでアエロフロートの代表的旅客機であった](../Page/Tu-154_\(航空機\).md "wikilink")。また、[Il-76はソ連後期の主力輸送機となり](../Page/Il-76_\(航空機\).md "wikilink")、世界中の軍や民間会社で多数が運用されている。また、Il-76からはさまざまな特殊用途向けの機体が開発され、その中でも[Il-78は](../Page/Il-78_\(航空機\).md "wikilink")[ロシア空軍で唯一の専用](../Page/ロシア航空宇宙軍.md "wikilink")[空中給油機](../Page/空中給油機.md "wikilink")として重要な位置にある。また、[ベリエフ設計局の開発した](../Page/G・M・ベリーエフ記念タガンローク航空科学技術複合体.md "wikilink")[早期警戒管制機](../Page/早期警戒管制機.md "wikilink")[A-50も](../Page/A-50_\(航空機\).md "wikilink")、機体はIl-76がもとになっている。
 
 イリューシン設計局の航空機は主としてロシアの[ヴォロネジ](../Page/ヴォロネジ.md "wikilink")や[ウズベキスタン](../Page/ウズベキスタン.md "wikilink")の[タシュケント](../Page/タシュケント.md "wikilink")の航空機工場で生産が行われていた。
 
-[ソ連崩壊](https://ja.wikipedia.org/wiki/ソ連崩壊 "wikilink")後、イリューシンは「**S・V・イリューシン記念航空複合体**」となって従来設計局の下で航空機の製造を行ってきたVASOとともに「**イリューシン会社**」を設立し、株式保有率の関係からVASOの強い影響下に置かれることとなった。また、イリューシンの設計した機体の製造はボロネジのVASO（）、タシュケントのTAPOiCh（）に加え、航空産業統合の一環として[RSK MiGのルホヴィツキイ航空機組立試験総合](../Page/MiG.md "wikilink")(LAPIK)でも行われている。LAPIKでは、[Il-103の製造が行われている](https://ja.wikipedia.org/wiki/Il-103_\(航空機\) "wikilink")。2012年以降、ロシアとウズベキスタンとの関係悪化、生産された機体の利益分配をめぐる論争などの問題から、タシュケント工場で行っていた生産分については[ウリヤノフスク](https://ja.wikipedia.org/wiki/ウリヤノフスク "wikilink")の[アヴィアスタル-SP](https://ja.wikipedia.org/wiki/アヴィアスタル-SP "wikilink")に移管されている。
+[ソ連崩壊](../Page/ソ連崩壊.md "wikilink")後、イリューシンは「**S・V・イリューシン記念航空複合体**」となって従来設計局の下で航空機の製造を行ってきたVASOとともに「**イリューシン会社**」を設立し、株式保有率の関係からVASOの強い影響下に置かれることとなった。また、イリューシンの設計した機体の製造はボロネジのVASO（）、タシュケントのTAPOiCh（）に加え、航空産業統合の一環として[RSK MiGのルホヴィツキイ航空機組立試験総合](../Page/MiG.md "wikilink")(LAPIK)でも行われている。LAPIKでは、[Il-103の製造が行われている](https://ja.wikipedia.org/wiki/Il-103_\(航空機\) "wikilink")。2012年以降、ロシアとウズベキスタンとの関係悪化、生産された機体の利益分配をめぐる論争などの問題から、タシュケント工場で行っていた生産分については[ウリヤノフスク](../Page/ウリヤノフスク.md "wikilink")の[アヴィアスタル-SP](https://ja.wikipedia.org/wiki/アヴィアスタル-SP "wikilink")に移管されている。
 
-イリューシンには大規模な組織改変を行う計画があり、第1段階として、2015年までに[ミヤシーシェフといった設計局を統合](https://ja.wikipedia.org/wiki/V・M・ミャスィーシチェフ記念試作機械製造工場 "wikilink")、第2段階として、2017年までにアヴィアスタル-SPとVASOを統合するとされる \[2\]\[3\]。この第一段階として2014年7月3日、取締役会においてミヤシーシェフとの融合が決定されたことが発表された。両社は統一航空機製造会社の輸送機におけるビジネスユニットを形成するために協力するという\[4\]\[5\]。
+イリューシンには大規模な組織改変を行う計画があり、第1段階として、2015年までに[ミヤシーシェフといった設計局を統合](../Page/V・M・ミャスィーシチェフ記念試作機械製造工場.md "wikilink")、第2段階として、2017年までにアヴィアスタル-SPとVASOを統合するとされる \[2\]\[3\]。この第一段階として2014年7月3日、取締役会においてミヤシーシェフとの融合が決定されたことが発表された。両社は統一航空機製造会社の輸送機におけるビジネスユニットを形成するために協力するという\[4\]\[5\]。
 
-イリューシンは、ロシア空軍に輸送機などを、[アエロフロート航空などの旧共産圏の国々を中心とした](https://ja.wikipedia.org/wiki/アエロフロート・ロシア航空 "wikilink")[航空会社](../Page/航空会社.md "wikilink")へ旅客機を供給している。2014年現在の社長はヴィークトル・リヴァーノフ()で、主任技師はゲンリフ・ノヴォジロフ()である。
+イリューシンは、ロシア空軍に輸送機などを、[アエロフロート航空などの旧共産圏の国々を中心とした](../Page/アエロフロート・ロシア航空.md "wikilink")[航空会社](../Page/航空会社.md "wikilink")へ旅客機を供給している。2014年現在の社長はヴィークトル・リヴァーノフ()で、主任技師はゲンリフ・ノヴォジロフ()である。
 
 ## 主な機体
 
-*※斜体（）内は[NATOコードネーム](https://ja.wikipedia.org/wiki/NATOコードネーム "wikilink")*
+*※斜体（）内は[NATOコードネーム](../Page/NATOコードネーム.md "wikilink")*
 
   - 旅客機
-      - [Il-12](https://ja.wikipedia.org/wiki/Il-12_\(航空機\) "wikilink") *（コーチ）*（ソ連製の[DC-3である](https://ja.wikipedia.org/wiki/ダグラス_DC-3 "wikilink")[リスノーフ](https://ja.wikipedia.org/wiki/リスノーフ "wikilink")[Li-2を改良した双発旅客機](../Page/Li-2_\(航空機\).md "wikilink")）
+      - [Il-12](https://ja.wikipedia.org/wiki/Il-12_\(航空機\) "wikilink") *（コーチ）*（ソ連製の[DC-3である](../Page/ダグラス_DC-3.md "wikilink")[リスノーフ](https://ja.wikipedia.org/wiki/リスノーフ "wikilink")[Li-2を改良した双発旅客機](../Page/Li-2_\(航空機\).md "wikilink")）
 
       - [Il-14](../Page/Il-14_\(航空機\).md "wikilink") *（クレイト）*（Il-12の拡大型）
 
-      - [Il-18](https://ja.wikipedia.org/wiki/Il-18_\(航空機\) "wikilink") *（クート）*（Il-14の拡大型）（[1957年](../Page/1957年.md "wikilink")）
+      - [Il-18](../Page/Il-18_\(航空機\).md "wikilink") *（クート）*（Il-14の拡大型）（[1957年](../Page/1957年.md "wikilink")）
 
-      - [Il-62](https://ja.wikipedia.org/wiki/Il-62_\(航空機\) "wikilink") *（クラシック）*（ソ連の代表的4発大型ジェット旅客機）（[1963年](../Page/1963年.md "wikilink")）
+      - [Il-62](../Page/Il-62_\(航空機\).md "wikilink") *（クラシック）*（ソ連の代表的4発大型ジェット旅客機）（[1963年](../Page/1963年.md "wikilink")）
 
-      - [Il-86](https://ja.wikipedia.org/wiki/Il-86_\(航空機\) "wikilink") *（キャンバー）*（ソ連後期に生産された4発大型ジェット旅客機）（[1976年](../Page/1976年.md "wikilink")）
+      - [Il-86](../Page/Il-86_\(航空機\).md "wikilink") *（キャンバー）*（ソ連後期に生産された4発大型ジェット旅客機）（[1976年](../Page/1976年.md "wikilink")）
 
-      - [Il-96](https://ja.wikipedia.org/wiki/Il-96_\(航空機\) "wikilink")（Il-86の改良型、現在の主力生産機）（[1988年](../Page/1988年.md "wikilink")）
+      - [Il-96](../Page/Il-96_\(航空機\).md "wikilink")（Il-86の改良型、現在の主力生産機）（[1988年](../Page/1988年.md "wikilink")）
 
       - [Il-114](../Page/Il-114_\(航空機\).md "wikilink")（[ウズベキスタン](../Page/ウズベキスタン.md "wikilink")と共同開発した新型の双発プロペラ旅客機）（[1999年](../Page/1999年.md "wikilink")）
 
@@ -65,7 +65,7 @@
       -
       - [Il-40](https://ja.wikipedia.org/wiki/Il-40_\(航空機\) "wikilink")（シュトゥルモヴィーク）
 
-      - [Il-102](https://ja.wikipedia.org/wiki/Il-102_\(航空機\) "wikilink")（[Su-25に敗れた試作シュトゥルモヴィーク](https://ja.wikipedia.org/wiki/Su-25_\(航空機\) "wikilink")）
+      - [Il-102](https://ja.wikipedia.org/wiki/Il-102_\(航空機\) "wikilink")（[Su-25に敗れた試作シュトゥルモヴィーク](../Page/Su-25_\(航空機\).md "wikilink")）
   - 爆撃機
       - [DB-3](https://ja.wikipedia.org/wiki/Il-4_\(航空機\) "wikilink")（ソ連の代表的な重爆撃機）（1936年）
 
@@ -80,7 +80,7 @@
   - 空中給油機
       - [Il-78](../Page/Il-78_\(航空機\).md "wikilink") *（マイダス）*（Il-76の派生型）（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）
   - [対潜哨戒機](../Page/対潜哨戒機.md "wikilink")
-      - [Il-38](https://ja.wikipedia.org/wiki/Il-38_\(航空機\) "wikilink") *（メイ）*（Il-18の派生型）[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")）
+      - [Il-38](https://ja.wikipedia.org/wiki/Il-38_\(航空機\) "wikilink") *（メイ）*（Il-18の派生型）[1970年](../Page/1970年.md "wikilink")）
   - 輸送機
       - [Il-32](https://ja.wikipedia.org/wiki/Il-32_\(航空機\) "wikilink")
       - [Il-76](../Page/Il-76_\(航空機\).md "wikilink") *（キャンディッド）*（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）

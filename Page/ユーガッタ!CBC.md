@@ -7,13 +7,13 @@
 
 それまで平日夕方に放送されていた『[ミックスパイください](../Page/ミックスパイください.md "wikilink")』と『[CBCニュースワイド](https://ja.wikipedia.org/wiki/CBCニュースワイド "wikilink")』双方を前身とする[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")で\[1\]、週5日間毎日2時間あまりにわたって放送されていた。
 
-当初は[森合康行](../Page/森合康行.md "wikilink")と[住田都史子](../Page/住田都史子.md "wikilink")が総合司会を、[竹地祐治](https://ja.wikipedia.org/wiki/竹地祐治 "wikilink")と[丹野みどり](https://ja.wikipedia.org/wiki/丹野みどり "wikilink")がニュース読みを担当していた。この当時は『ミックスパイ』からの流れで[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")色が強く、[FAXテーマの募集や](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")[占い](../Page/占い.md "wikilink")コーナーなども行っていた。後の番組リニューアルで[石塚元章](https://ja.wikipedia.org/wiki/石塚元章 "wikilink")をアンカーマンに据えるようになってからは報道番組色が強まり、スタジオセットの配色もややトーンを抑えたものとなった。
+当初は[森合康行](../Page/森合康行.md "wikilink")と[住田都史子](../Page/住田都史子.md "wikilink")が総合司会を、[竹地祐治](../Page/竹地祐治.md "wikilink")と[丹野みどり](../Page/丹野みどり.md "wikilink")がニュース読みを担当していた。この当時は『ミックスパイ』からの流れで[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")色が強く、[FAXテーマの募集や](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")[占い](../Page/占い.md "wikilink")コーナーなども行っていた。後の番組リニューアルで[石塚元章](../Page/石塚元章.md "wikilink")をアンカーマンに据えるようになってからは報道番組色が強まり、スタジオセットの配色もややトーンを抑えたものとなった。
 
 番組は2006年春の改編で終了。替わって、この番組でリポーターを務めていた[大石邦彦](../Page/大石邦彦.md "wikilink")をメインキャスターに起用した後継番組『[イッポウ](../Page/イッポウ.md "wikilink")』がスタートした。
 
 ## 放送時間
 
-いずれも[日本標準時](../Page/日本標準時.md "wikilink")。1999年中のみ[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")が組まれている日には18:30までの放送で、18時台のローカルニュースはカットされていた。
+いずれも[日本標準時](../Page/日本標準時.md "wikilink")。1999年中のみ[プロ野球中継](../Page/プロ野球中継.md "wikilink")が組まれている日には18:30までの放送で、18時台のローカルニュースはカットされていた。
 
   - 月曜 - 金曜 16:50 - 18:55 （1999年3月29日 - 2002年3月29日）
   - 月曜 - 金曜 16:45 - 18:55 （2002年4月1日 - 2005年4月1日）
@@ -27,14 +27,14 @@
 
   - [森合康行](../Page/森合康行.md "wikilink")（当時CBCアナウンサー） - 総合司会を担当。
   - [住田都史子](../Page/住田都史子.md "wikilink")（当時CBCアナウンサー） - 総合司会を担当。
-  - [竹地祐治](https://ja.wikipedia.org/wiki/竹地祐治 "wikilink")（当時CBCアナウンサー） - 報道を担当。
-  - [丹野みどり](https://ja.wikipedia.org/wiki/丹野みどり "wikilink")（当時CBCアナウンサー） - 報道を担当。
+  - [竹地祐治](../Page/竹地祐治.md "wikilink")（当時CBCアナウンサー） - 報道を担当。
+  - [丹野みどり](../Page/丹野みどり.md "wikilink")（当時CBCアナウンサー） - 報道を担当。
 
 ### 2代目キャスター
 
 2000年10月から2003年9月までのメンバー。
 
-  - [石塚元章](https://ja.wikipedia.org/wiki/石塚元章 "wikilink")（CBC報道部デスク・論説委員）
+  - [石塚元章](../Page/石塚元章.md "wikilink")（CBC報道部デスク・論説委員）
   - 丹野みどり
   - 森合康行
 
@@ -44,20 +44,20 @@
 
   - 石塚元章
   - 丹野みどり
-  - [石井亮次](https://ja.wikipedia.org/wiki/石井亮次 "wikilink")（CBCアナウンサー） - 月曜・火曜・金曜担当。
-  - [沢朋宏](https://ja.wikipedia.org/wiki/沢朋宏 "wikilink")（CBCアナウンサー） - 水曜・木曜担当。
+  - [石井亮次](../Page/石井亮次.md "wikilink")（CBCアナウンサー） - 月曜・火曜・金曜担当。
+  - [沢朋宏](../Page/沢朋宏.md "wikilink")（CBCアナウンサー） - 水曜・木曜担当。
 
 ### リポーター
 
   - 森合康行 - 2003年9月からは週後半の中継リポーターも兼任。
   - [大石邦彦](../Page/大石邦彦.md "wikilink")（CBCアナウンサー） - 「大石で行こう」のコーナーを担当。番組リニューアル以前には中継リポーターも兼任していた。
-  - [加藤由香](https://ja.wikipedia.org/wiki/加藤由香 "wikilink")（CBCアナウンサー） - 月曜のコーナーと中継リポーターを兼任。
+  - [加藤由香](../Page/加藤由香.md "wikilink")（CBCアナウンサー） - 月曜のコーナーと中継リポーターを兼任。
   - [中西直輝](../Page/中西直輝.md "wikilink")（当時CBCアナウンサー） - 火曜のコーナーを担当。
-  - [占部沙矢香](https://ja.wikipedia.org/wiki/占部沙矢香 "wikilink")（当時CBCアナウンサー） - 水曜のコーナーを担当。番組リニューアル以前には木曜のコーナーを担当していた。
-  - [青池奈津子](https://ja.wikipedia.org/wiki/青池奈津子 "wikilink")（当時CBCアナウンサー） - 木曜のコーナーを担当。番組リニューアル以前には水曜のコーナーを担当していた。
-  - [若狭敬一](https://ja.wikipedia.org/wiki/若狭敬一 "wikilink")（CBCアナウンサー） - 金曜のコーナーを担当。
-  - [丸山蘭那](https://ja.wikipedia.org/wiki/丸山蘭那 "wikilink")（当時CBCアナウンサー） - 中継リポーターを担当。
-  - [青木まな](https://ja.wikipedia.org/wiki/青木まな "wikilink")（CBCアナウンサー） - 中継リポーターその他を担当。番組リニューアル以前には「青木まなの行ってきます\!」のコーナーを担当していた。
+  - [占部沙矢香](../Page/占部沙矢香.md "wikilink")（当時CBCアナウンサー） - 水曜のコーナーを担当。番組リニューアル以前には木曜のコーナーを担当していた。
+  - [青池奈津子](../Page/青池奈津子.md "wikilink")（当時CBCアナウンサー） - 木曜のコーナーを担当。番組リニューアル以前には水曜のコーナーを担当していた。
+  - [若狭敬一](../Page/若狭敬一.md "wikilink")（CBCアナウンサー） - 金曜のコーナーを担当。
+  - [丸山蘭那](../Page/丸山蘭那.md "wikilink")（当時CBCアナウンサー） - 中継リポーターを担当。
+  - [青木まな](../Page/青木まな.md "wikilink")（CBCアナウンサー） - 中継リポーターその他を担当。番組リニューアル以前には「青木まなの行ってきます\!」のコーナーを担当していた。
   - [MORI MOMO](https://ja.wikipedia.org/wiki/MORI_MOMO "wikilink") - 『ミックスパイ』からの継続出演者で、日替わり情報コーナーでリポーターを務めていた。
 
 ### その他の主な出演者
@@ -68,16 +68,16 @@
 ### ナレーター
 
   - [江崎明](https://ja.wikipedia.org/wiki/江崎明 "wikilink")
-  - [小堀勝啓](https://ja.wikipedia.org/wiki/小堀勝啓 "wikilink")（当時CBCアナウンサー）
+  - [小堀勝啓](../Page/小堀勝啓.md "wikilink")（当時CBCアナウンサー）
   - [渡辺美香](../Page/渡辺美香.md "wikilink")（CBCアナウンサー） - コーナーナレーションを担当。
 
 ## 放送内容
 
-  - 16:50から17:00頃までは[東海3県](https://ja.wikipedia.org/wiki/東海3県 "wikilink")のローカルニュースを伝えていた。
+  - 16:50から17:00頃までは[東海3県](../Page/東海3県.md "wikilink")のローカルニュースを伝えていた。
   - 17:00から17:10頃までは後述の日替わり情報コーナー「情報大接近」を放送。
   - その後の時間帯は天気予報、中継、「ワイドショー見聞録」のコーナー、および番組発足当時より続く後述の「大石で行こう」のコーナーなどを実施。
   - 17:30頃からはローカルニュースと天気予報を放送。
-  - 17:50からは[TBS発の全国ニュースを放送](../Page/TBSテレビ.md "wikilink")。2005年3月25日までは『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』を、それ以降は『[JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/JNNイブニング・ニュース "wikilink")』を放送していた。
+  - 17:50からは[TBS発の全国ニュースを放送](../Page/TBSテレビ.md "wikilink")。2005年3月25日までは『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』を、それ以降は『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』を放送していた。
   - 18:16からは再びローカルニュースを伝えていた。月曜には、番組とは別に傑作選も放送する「カメラアイ」を実施。
   - 終わりに特集、ニュース、天気予報などを放送。
 
@@ -122,7 +122,7 @@
 
 ## 関連項目
 
-  - [ユーガッタ\!Weekend](https://ja.wikipedia.org/wiki/ユーガッタ!Weekend "wikilink") - この番組の土曜版。
+  - [ユーガッタ\!Weekend](../Page/ユーガッタ!Weekend.md "wikilink") - この番組の土曜版。
   - [中日新聞ニュース](../Page/中日新聞ニュース.md "wikilink")
 
 [Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:CBCテレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCテレビの帯番組の歴史 "wikilink") [Category:CBCテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:CBCテレビの情報・ワイドショー番組 "wikilink") [Category:中日新聞社のニュース番組](https://ja.wikipedia.org/wiki/Category:中日新聞社のニュース番組 "wikilink") [Category:東海・北陸地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:JNNニュースの森](https://ja.wikipedia.org/wiki/Category:JNNニュースの森 "wikilink") [Category:JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/Category:JNNイブニング・ニュース "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[Fate Axis](https://ja.wikipedia.org/wiki/Fate_Axis)から翻訳されています。
 
 
-『**Fate Axis**』（フェイトアクシス）は、[2002年](../Page/2002年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")に[フリーウェア](../Page/フリーウェア.md "wikilink")として公開された[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用の[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。同人サークルT-Riamによって開発され、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[大創出版](https://ja.wikipedia.org/wiki/大創出版 "wikilink")の「ザ・ゲームシリーズ28 3D格闘」\[1\]として『Fate Axis -Enlargement Edition-』が[100円ショップ](../Page/100円ショップ.md "wikilink")で販売された。なおダイソー版では隠しキャラクター2名のストーリーモードやVS Modeでのキャラクター会話のバリエーション、さらにおまけドラマが追加されている。
+『**Fate Axis**』（フェイトアクシス）は、[2002年](../Page/2002年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")に[フリーウェア](../Page/フリーウェア.md "wikilink")として公開された[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用の[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。同人サークルT-Riamによって開発され、[2005年](../Page/2005年.md "wikilink")には[大創出版](https://ja.wikipedia.org/wiki/大創出版 "wikilink")の「ザ・ゲームシリーズ28 3D格闘」\[1\]として『Fate Axis -Enlargement Edition-』が[100円ショップ](../Page/100円ショップ.md "wikilink")で販売された。なおダイソー版では隠しキャラクター2名のストーリーモードやVS Modeでのキャラクター会話のバリエーション、さらにおまけドラマが追加されている。
 
 ## 特徴
 

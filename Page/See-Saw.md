@@ -1,7 +1,7 @@
 > この記事は[See-Saw](https://ja.wikipedia.org/wiki/See-Saw)から翻訳されています。
 
 
-**See-Saw**（シーソー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。ユニット名は公園などにある遊具[シーソー](https://ja.wikipedia.org/wiki/シーソー "wikilink")に由来する。
+**See-Saw**（シーソー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。ユニット名は公園などにある遊具[シーソー](../Page/シーソー.md "wikilink")に由来する。
 
 ## メンバー
 
@@ -20,7 +20,7 @@
 <td><p><strong><a href="../Page/石川智晶.md" title="wikilink">石川智晶</a></strong>（いしかわ ちあき）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a></p></td>
 <td><ul>
-<li><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a>生まれ。AB型。<a href="../Page/東京都.md" title="wikilink">東京都</a>/<a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a>出身。</li>
+<li><a href="https://ja.wikipedia.org/wiki/1969年" title="wikilink">1969年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a>生まれ。AB型。<a href="../Page/東京都.md" title="wikilink">東京都</a>/<a href="../Page/福岡県.md" title="wikilink">福岡県</a>出身。</li>
 <li>作詞・作曲を担当。</li>
 <li>1度目の活動休止後は<strong>somali</strong>名義でソロ活動をしていた。</li>
 </ul></td>
@@ -31,7 +31,7 @@
 <td><ul>
 <li><a href="../Page/1965年.md" title="wikilink">1965年</a><a href="../Page/8月6日.md" title="wikilink">8月6日</a>生まれ。A型。<a href="../Page/東京都.md" title="wikilink">東京都</a>出身。</li>
 <li>作詞・作曲・編曲を担当。</li>
-<li><strong><a href="https://ja.wikipedia.org/wiki/FictionJunction" title="wikilink">FictionJunction</a></strong>名義でソロプロジェクトを展開。</li>
+<li><strong><a href="../Page/FictionJunction.md" title="wikilink">FictionJunction</a></strong>名義でソロプロジェクトを展開。</li>
 </ul></td>
 </tr>
 </tbody>
@@ -50,7 +50,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>西岡由紀子</strong>（にしおか ゆきこ）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベース_(弦楽器)" title="wikilink">ベース</a></p></td>
+<td><p><a href="../Page/ベース_(弦楽器).md" title="wikilink">ベース</a></p></td>
 <td><ul>
 <li>在籍時は、「永遠」「たった一人のあなたへ」の作曲を担当。</li>
 <li><a href="../Page/1994年.md" title="wikilink">1994年</a>4月、作家活動に専念するため脱退。</li>
@@ -79,7 +79,7 @@
 
   - [1994年](../Page/1994年.md "wikilink")
 
-:\* 第4回[NHK新人歌謡コンテスト](https://ja.wikipedia.org/wiki/NHK新人歌謡コンテスト "wikilink")に最終決戦まで進み出場し、優秀賞を獲得。出場者の中には、グランプリを獲得し受賞者特典である『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』出場権を得て出場した演歌歌手の[田川寿美](https://ja.wikipedia.org/wiki/田川寿美 "wikilink")と、後に第6回でグランプリとなった[門倉有希](../Page/門倉有希.md "wikilink")がいる。
+:\* 第4回[NHK新人歌謡コンテスト](https://ja.wikipedia.org/wiki/NHK新人歌謡コンテスト "wikilink")に最終決戦まで進み出場し、優秀賞を獲得。出場者の中には、グランプリを獲得し受賞者特典である『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』出場権を得て出場した演歌歌手の[田川寿美](../Page/田川寿美.md "wikilink")と、後に第6回でグランプリとなった[門倉有希](../Page/門倉有希.md "wikilink")がいる。
 
 :\* 3rdシングル「Chao Tokyo」リリース後の[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、西岡が作家活動に専念するため脱退。石川・梶浦の体制となる。
 
@@ -93,7 +93,7 @@
 
   - [2001年](../Page/2001年.md "wikilink")
 
-:\* 梶浦がBGMを手掛けたテレビアニメ『[ノワール](https://ja.wikipedia.org/wiki/ノワール_\(アニメ\) "wikilink")』の挿入歌「Indio」のボーカルに石川（chiaki）を迎えたのがきっかけで、活動を再開。
+:\* 梶浦がBGMを手掛けたテレビアニメ『[ノワール](../Page/ノワール_\(アニメ\).md "wikilink")』の挿入歌「Indio」のボーカルに石川（chiaki）を迎えたのがきっかけで、活動を再開。
 
   -
 
@@ -111,25 +111,25 @@
 
   -
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
-:\* [8月3日](../Page/8月3日.md "wikilink")、テレビアニメ『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』エンディングテーマである11thシングル「[君は僕に似ている](https://ja.wikipedia.org/wiki/君は僕に似ている "wikilink")」をリリース。歴代最高となるオリコンチャート4位を記録。
+:\* [8月3日](../Page/8月3日.md "wikilink")、テレビアニメ『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』エンディングテーマである11thシングル「[君は僕に似ている](https://ja.wikipedia.org/wiki/君は僕に似ている "wikilink")」をリリース。歴代最高となるオリコンチャート4位を記録。
 
   -
 
   - [2006年](../Page/2006年.md "wikilink")
 
-:\* この年から再び活動休止し、それぞれのソロ活動を展開。その間、2人とも所属レーベルを[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の子会社である[FlyingDogに移籍し](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink")、2013年5月8日、同レーベルから「Dream Field」が再リリースされた。
+:\* この年から再び活動休止し、それぞれのソロ活動を展開。その間、2人とも所属レーベルを[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")の子会社である[FlyingDogに移籍し](../Page/フライングドッグ.md "wikilink")、2013年5月8日、同レーベルから「Dream Field」が再リリースされた。
 
   -
 
   - [2019年](../Page/2019年.md "wikilink")
 
-:\*[2月2日](../Page/2月2日.md "wikilink")、フライングドッグ10周年記念ライブ「[犬フェス\!](https://ja.wikipedia.org/wiki/犬フェス! "wikilink")」に石川と梶浦（[FictionJunction YUUKA](https://ja.wikipedia.org/wiki/FictionJunction_YUUKA "wikilink")）が出演\[5\]。石川のコーナー後に梶浦が登場し、久々にSee-Sawとして「あんなに一緒だったのに」を披露した\[6\]\[7\]。
+:\*[2月2日](../Page/2月2日.md "wikilink")、フライングドッグ10周年記念ライブ「[犬フェス\!](https://ja.wikipedia.org/wiki/犬フェス! "wikilink")」に石川と梶浦（[FictionJunction YUUKA](../Page/FictionJunction_YUUKA.md "wikilink")）が出演\[5\]。石川のコーナー後に梶浦が登場し、久々にSee-Sawとして「あんなに一緒だったのに」を披露した\[6\]\[7\]。
 
 :\* 梶浦が作曲を担当するテレビアニメ『[鬼滅の刃](https://ja.wikipedia.org/wiki/鬼滅の刃 "wikilink")』のボーカルに石川が参加。
 
-:\* [12月15日](../Page/12月15日.md "wikilink")、[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")Aにて『See-Saw LIVE 〜Dream Field 2019〜』を開催\[8\]。See-Sawとしての単独ライブは17年ぶり\[9\]。
+:\* [12月15日](../Page/12月15日.md "wikilink")、[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")Aにて『See-Saw LIVE 〜Dream Field 2019〜』を開催\[8\]。See-Sawとしての単独ライブは17年ぶり\[9\]。
 
 ## ディスコグラフィ
 
@@ -149,7 +149,7 @@
 | 8th           | 2002年[7月24日](../Page/7月24日.md "wikilink")                                                 | [edge](https://ja.wikipedia.org/wiki/edge_\(See-Sawの曲\) "wikilink")                   |
 | 9th           | 2002年[10月23日](../Page/10月23日.md "wikilink")                                               | [あんなに一緒だったのに](https://ja.wikipedia.org/wiki/あんなに一緒だったのに "wikilink")                   |
 | 10th          | [2003年](../Page/2003年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")                  | [君がいた物語/Emerald Green](https://ja.wikipedia.org/wiki/君がいた物語/Emerald_Green "wikilink") |
-| 11th          | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[8月3日](../Page/8月3日.md "wikilink") | [君は僕に似ている](https://ja.wikipedia.org/wiki/君は僕に似ている "wikilink")                         |
+| 11th          | [2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")                    | [君は僕に似ている](https://ja.wikipedia.org/wiki/君は僕に似ている "wikilink")                         |
 |               |                                                                                           |                                                                                       |
 
 ### アルバム
@@ -175,24 +175,24 @@
 
 ## タイアップ
 
-| 楽曲                      | タイアップ                                                                                                      |
-| ----------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 永遠                      | TBS系列テレビドラマ『[泣きたい夜もある](../Page/泣きたい夜もある.md "wikilink")』挿入歌                                                 |
-| ChaoTokyo               | フジテレビ系列のバラエティ番組『[上岡龍太郎にはダマされないぞ\!](https://ja.wikipedia.org/wiki/上岡龍太郎にはダマされないぞ! "wikilink")』エンディングテーマ     |
-| 素肌                      | フジテレビ『ROOMS』エンディングテーマ                                                                                      |
-| また会えるから                 | 映画『[ルビーフルーツ](https://ja.wikipedia.org/wiki/ルビーフルーツ "wikilink")』主題歌                                         |
-| Obsession               | テレビ東京系テレビアニメ『[.hack//sign](https://ja.wikipedia.org/wiki/.hack/sign "wikilink")』オープニングテーマ                  |
-| 優しい夜明け                  | テレビ東京系テレビアニメ『.hack//sign』エンディングテーマ                                                                         |
-| edge                    | OVA『[.hack//Liminality](https://ja.wikipedia.org/wiki/.hack/Liminality "wikilink") Vol.1』オープニングテーマ         |
-| 千夜一夜                    | OVA『.hack//Liminality Vol.2』オープニングテーマ                                                                      |
-| 黄昏の海                    | OVA『.hack//Liminality』Vol.1 - Vol.4エンディングテーマ                                                               |
-| あんなに一緒だったのに             | TBS系テレビアニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』エンディングテーマ                                    |
-| 君がいた物語                  | OVA『.hack//Liminality Vol.3』オープニングテーマ                                                                      |
-| 記憶                      | OVA『.hack//Liminality Vol.4』オープニングテーマ                                                                      |
-| Emerald Green           | テレビ東京系テレビアニメ『[.hack//黄昏の腕輪伝説](https://ja.wikipedia.org/wiki/.hack/黄昏の腕輪伝説 "wikilink")』エンディングテーマ            |
-| 君は僕に似ている                | TBS系テレビアニメ『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』エンディングテーマ |
-| 新しい予感 〜 Only at JUSCO 〜 | [ジャスコ](../Page/ジャスコ.md "wikilink")（現・[イオングループ](../Page/イオングループ.md "wikilink")）店内イメージソング\[10\]              |
-|                         |                                                                                                            |
+| 楽曲                      | タイアップ                                                                                              |
+| ----------------------- | -------------------------------------------------------------------------------------------------- |
+| 永遠                      | TBS系列テレビドラマ『[泣きたい夜もある](../Page/泣きたい夜もある.md "wikilink")』挿入歌                                         |
+| ChaoTokyo               | フジテレビ系列のバラエティ番組『[上岡龍太郎にはダマされないぞ\!](../Page/上岡龍太郎にはダマされないぞ!.md "wikilink")』エンディングテーマ                |
+| 素肌                      | フジテレビ『ROOMS』エンディングテーマ                                                                              |
+| また会えるから                 | 映画『[ルビーフルーツ](https://ja.wikipedia.org/wiki/ルビーフルーツ "wikilink")』主題歌                                 |
+| Obsession               | テレビ東京系テレビアニメ『[.hack//sign](https://ja.wikipedia.org/wiki/.hack/sign "wikilink")』オープニングテーマ          |
+| 優しい夜明け                  | テレビ東京系テレビアニメ『.hack//sign』エンディングテーマ                                                                 |
+| edge                    | OVA『[.hack//Liminality](https://ja.wikipedia.org/wiki/.hack/Liminality "wikilink") Vol.1』オープニングテーマ |
+| 千夜一夜                    | OVA『.hack//Liminality Vol.2』オープニングテーマ                                                              |
+| 黄昏の海                    | OVA『.hack//Liminality』Vol.1 - Vol.4エンディングテーマ                                                       |
+| あんなに一緒だったのに             | TBS系テレビアニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』エンディングテーマ                            |
+| 君がいた物語                  | OVA『.hack//Liminality Vol.3』オープニングテーマ                                                              |
+| 記憶                      | OVA『.hack//Liminality Vol.4』オープニングテーマ                                                              |
+| Emerald Green           | テレビ東京系テレビアニメ『[.hack//黄昏の腕輪伝説](https://ja.wikipedia.org/wiki/.hack/黄昏の腕輪伝説 "wikilink")』エンディングテーマ    |
+| 君は僕に似ている                | TBS系テレビアニメ『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』エンディングテーマ            |
+| 新しい予感 〜 Only at JUSCO 〜 | [ジャスコ](../Page/ジャスコ.md "wikilink")（現・[イオングループ](../Page/イオングループ.md "wikilink")）店内イメージソング\[10\]      |
+|                         |                                                                                                    |
 
 ## 脚注
 

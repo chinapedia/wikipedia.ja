@@ -5,9 +5,9 @@
 
 ## プロフィール
 
-[埼玉県](../Page/埼玉県.md "wikilink")[桶川市](../Page/桶川市.md "wikilink")周辺出身の3人組。[THE BLUE HEARTSに憧れた当時中学一年生のメンバーたちにより結成され](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")、その後何度かのメンバーチェンジを経てデビュー当時の5人体制となる。2度のメンバー脱退があったが、サポートメンバーを迎えながら継続的に活動。バンド名の由来は[THE JAMの同名曲より](../Page/ザ・ジャム.md "wikilink")。ロゴマークは正五角形。
+[埼玉県](../Page/埼玉県.md "wikilink")[桶川市](../Page/桶川市.md "wikilink")周辺出身の3人組。[THE BLUE HEARTSに憧れた当時中学一年生のメンバーたちにより結成され](../Page/THE_BLUE_HEARTS.md "wikilink")、その後何度かのメンバーチェンジを経てデビュー当時の5人体制となる。2度のメンバー脱退があったが、サポートメンバーを迎えながら継続的に活動。バンド名の由来は[THE JAMの同名曲より](../Page/ザ・ジャム.md "wikilink")。ロゴマークは正五角形。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃より[下北沢](../Page/下北沢.md "wikilink")のライブハウスを中心に順調にライブ活動を続けた。当時は[ウィーザー](https://ja.wikipedia.org/wiki/ウィーザー "wikilink")に影響されていたという（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月2日[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」より）。[2001年](../Page/2001年.md "wikilink")6月21日、シングル「[グラフティー](https://ja.wikipedia.org/wiki/グラフティー "wikilink")」にてメジャーデビュー。[2003年](../Page/2003年.md "wikilink")に「[ハートビート](https://ja.wikipedia.org/wiki/ハートビート_\(GOING_UNDER_GROUNDの曲\) "wikilink")」が[ボーダフォン（現ソフトバンクモバイル）の](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に「[STAND BY ME](https://ja.wikipedia.org/wiki/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\) "wikilink")」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")のテレビCMに起用される。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月にリリースしたアルバム『[h.o.p.s.](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")』が自己最高のオリコン初登場10位を記録。同タイトルの全国ツアーにて、7月に念願の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")公演を行った。同年「[トゥモロウズ ソング](https://ja.wikipedia.org/wiki/きらり/トゥモロウズ_ソング "wikilink")」を[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")』に提供。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")頃より[下北沢](../Page/下北沢.md "wikilink")のライブハウスを中心に順調にライブ活動を続けた。当時は[ウィーザー](../Page/ウィーザー.md "wikilink")に影響されていたという（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")6月2日[NHK-FM](../Page/NHK-FM放送.md "wikilink")「[ミュージックスクエア](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」より）。[2001年](../Page/2001年.md "wikilink")6月21日、シングル「[グラフティー](https://ja.wikipedia.org/wiki/グラフティー "wikilink")」にてメジャーデビュー。[2003年](../Page/2003年.md "wikilink")に「[ハートビート](https://ja.wikipedia.org/wiki/ハートビート_\(GOING_UNDER_GROUNDの曲\) "wikilink")」が[ボーダフォン（現ソフトバンクモバイル）の](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")、[2005年](../Page/2005年.md "wikilink")に「[STAND BY ME](https://ja.wikipedia.org/wiki/STAND_BY_ME_\(GOING_UNDER_GROUNDの曲\) "wikilink")」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")のテレビCMに起用される。[2005年](../Page/2005年.md "wikilink")2月にリリースしたアルバム『[h.o.p.s.](https://ja.wikipedia.org/wiki/h.o.p.s. "wikilink")』が自己最高のオリコン初登場10位を記録。同タイトルの全国ツアーにて、7月に念願の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")公演を行った。同年「[トゥモロウズ ソング](https://ja.wikipedia.org/wiki/きらり/トゥモロウズ_ソング "wikilink")」を[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』に提供。
 
 メジャーデビュー5周年となった[2006年](../Page/2006年.md "wikilink")には2月にアルバム『[TUTTI](../Page/TUTTI.md "wikilink")』、5月にシングル「[VISTA/ハミングライフ](https://ja.wikipedia.org/wiki/VISTA/ハミングライフ "wikilink")」、6月にベストアルバム『[BEST OF GOING UNDER GROUND with YOU](../Page/BEST_OF_GOING_UNDER_GROUND_with_YOU.md "wikilink")』を相次いでリリースすると共に、3月からのツアー「TUTTI」にて7月6日、[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")では初の[日本武道館](../Page/日本武道館.md "wikilink")公演を実施。後にこの公演は、全曲ノーカットで[DVD](../Page/DVD.md "wikilink")化された。
 
@@ -19,9 +19,9 @@
 
 メジャーデビュー10周年を迎えた[2011年](../Page/2011年.md "wikilink")は、記念ツアー「GOING UNDER GROUND 10th Anniversary Tour 2011『Rollin' Rollin'』」を実施。4月に約2年ぶりのオリジナルアルバム『[稲川くん](https://ja.wikipedia.org/wiki/稲川くん "wikilink")』をリリース。
 
-[2012年](../Page/2012年.md "wikilink")、[メレンゲとのスプリットツアー](https://ja.wikipedia.org/wiki/メレンゲ_\(バンド\) "wikilink")「strangers in the night」を実施。全国ワンマンツアー「WHEEL of FORTUNE」を実施。
+[2012年](../Page/2012年.md "wikilink")、[メレンゲとのスプリットツアー](../Page/メレンゲ_\(バンド\).md "wikilink")「strangers in the night」を実施。全国ワンマンツアー「WHEEL of FORTUNE」を実施。
 
-[2012年](../Page/2012年.md "wikilink")7月7日に、[andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")、[初恋の嵐](https://ja.wikipedia.org/wiki/初恋の嵐 "wikilink")、[フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")を迎えGOING UNDER GROUND主催の野外フェス「[SOU FES](https://ja.wikipedia.org/wiki/SOU_FES "wikilink")」を日比谷野外大音楽堂にて開催。同年11月にアルバム『[Roots＆Routes](https://ja.wikipedia.org/wiki/Roots＆Routes "wikilink")』をリリースする。
+[2012年](../Page/2012年.md "wikilink")7月7日に、[andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")、[初恋の嵐](https://ja.wikipedia.org/wiki/初恋の嵐 "wikilink")、[フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")を迎えGOING UNDER GROUND主催の野外フェス「[SOU FES](https://ja.wikipedia.org/wiki/SOU_FES "wikilink")」を日比谷野外大音楽堂にて開催。同年11月にアルバム『[Roots＆Routes](https://ja.wikipedia.org/wiki/Roots＆Routes "wikilink")』をリリースする。
 
 [2013年](../Page/2013年.md "wikilink")5月8日、 タワーレコード企画により[末光篤](https://ja.wikipedia.org/wiki/末光篤 "wikilink")(a.k.a. SUEMITSU ＆ THE SUEMITH)とのコラボレーションシングル「[カモメトゥモロー/世界を変えるピアノが歌う](https://ja.wikipedia.org/wiki/カモメトゥモロー/世界を変えるピアノが歌う "wikilink")」をリリース。さらに11月9日には会場限定シングル「[ならば青春の光](https://ja.wikipedia.org/wiki/ならば青春の光 "wikilink")」をリリースし、GOING UNDER GROUND TOUR 2013-14「ならば青春の光」を実施。
 
@@ -33,11 +33,11 @@
 
 [2015年](../Page/2015年.md "wikilink")6月28日、[ザ・コレクターズ](../Page/ザ・コレクターズ.md "wikilink")、[メレンゲ](https://ja.wikipedia.org/wiki/メレンゲ "wikilink")、[HARCO](../Page/青木慶則.md "wikilink")、[ナカザタロウ](https://ja.wikipedia.org/wiki/ナカザタロウ "wikilink")を迎え、GOING UNDER GROUND主催の音楽フェス「[SOU FES](https://ja.wikipedia.org/wiki/SOU_FES "wikilink")」を[TSUTAYA O-EASTにて開催](https://ja.wikipedia.org/wiki/TSUTAYA_O-EAST "wikilink")。
 
-[2014年](../Page/2014年.md "wikilink")11月15日〜[2015年](../Page/2015年.md "wikilink")1月31日、全国ツアー『OReTABI 2014〜15』計9公演を実施。ツアーファイナルの[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")公演「河野、バンドやめるってよ」をもって[河野丈洋](../Page/河野丈洋.md "wikilink")が脱退。この模様は、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")で生中継が行われた。同ライブはDVD 『GOING UNDER GROUND TOUR 「OReTABI 2014〜15」 LIVE at 渋谷公会堂「河野、バンドやめるってよ」』 に収録されている。
+[2014年](../Page/2014年.md "wikilink")11月15日〜[2015年](../Page/2015年.md "wikilink")1月31日、全国ツアー『OReTABI 2014〜15』計9公演を実施。ツアーファイナルの[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")公演「河野、バンドやめるってよ」をもって[河野丈洋](../Page/河野丈洋.md "wikilink")が脱退。この模様は、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")で生中継が行われた。同ライブはDVD 『GOING UNDER GROUND TOUR 「OReTABI 2014〜15」 LIVE at 渋谷公会堂「河野、バンドやめるってよ」』 に収録されている。
 
 [2015年](../Page/2015年.md "wikilink")2月8日〜2月22日、東名阪ツアー『Teenage last』計3公演を実施。
 
-[2015年](../Page/2015年.md "wikilink")3月28日〜4月18日、[LOST IN TIMEとの対バンツアー](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")『武蔵野コーリング』計8公演を実施。
+[2015年](../Page/2015年.md "wikilink")3月28日〜4月18日、[LOST IN TIMEとの対バンツアー](../Page/LOST_IN_TIME.md "wikilink")『武蔵野コーリング』計8公演を実施。
 
 [2015年](../Page/2015年.md "wikilink")5月16日〜6月27日、全国ツアー『soul train』計9公演を実施。「[東京キネマ倶楽部](https://ja.wikipedia.org/wiki/東京キネマ倶楽部 "wikilink")」で行われたツアーファイナルでは、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")で生中継が行われた。
 
@@ -69,19 +69,19 @@
     通称「ナカザ」。ライブでは「王子」と呼ばれることもある。近年のライブでは概ねサングラスを着用している。一部の楽曲の作詞・作曲を手がける。女性のような独特のハイトーン・ボイスで、リードボーカルを担当する曲もある。GOING UNDER GROUNDの公式ファンクラブ「TEAM GOING」が会員向けに発行している会報誌「ヒダマリ画報」の編集長。[Jリーグ開幕当初からの熱心な](../Page/日本プロサッカーリーグ.md "wikilink")[浦和レッズの](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")[サポーターであり](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink")、ライブで同チームのユニフォームのレプリカを着用していたことがあるほか、過去に数度サッカー誌『[Footival](https://ja.wikipedia.org/wiki/Footival "wikilink")』で選手と対談したことがある。
     中学一年生の時に松本とバンドを始めるまでは[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")を志していた。現在でも携帯コンテンツやファンクラブ会報等で自作の漫画を公開している。
     ラーメン好き。
-    元[BEAT CRUSADERSのカトウタロウとのツインギターユニット](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")「[ナカザタロウ](https://ja.wikipedia.org/wiki/ナカザタロウ "wikilink")」名義で活動を行っている。
+    元[BEAT CRUSADERSのカトウタロウとのツインギターユニット](../Page/BEAT_CRUSADERS.md "wikilink")「[ナカザタロウ](https://ja.wikipedia.org/wiki/ナカザタロウ "wikilink")」名義で活動を行っている。
 
 <!-- end list -->
 
-  - **石原聡**（いしはら さとし、1978年8月14日 - ）- [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **石原聡**（いしはら さとし、1978年8月14日 - ）- [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
   -
     [埼玉県](../Page/埼玉県.md "wikilink")[桶川市](../Page/桶川市.md "wikilink")出身、血液型A型。メンバー中唯一の大卒者。
-    通称「いっさん」。2009年夏よりプレイング・マネージャーとしてバンドのマネジメントも担当している。「同じ月を見てた」の[PVで主演しているほか](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")、[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")の番組「ゴゴイチ！」の番組内企画で制作されたドラマ「2分40秒」（備考参照）、映画「[ハミングライフ](https://ja.wikipedia.org/wiki/ハミングライフ_\(映画\) "wikilink")」などに出演している。趣味は[パチスロ](../Page/パチスロ.md "wikilink")と[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")で、桶川市の2部のサッカーチームに所属もしている。
+    通称「いっさん」。2009年夏よりプレイング・マネージャーとしてバンドのマネジメントも担当している。「同じ月を見てた」の[PVで主演しているほか](../Page/ミュージック・ビデオ.md "wikilink")、[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")の番組「ゴゴイチ！」の番組内企画で制作されたドラマ「2分40秒」（備考参照）、映画「[ハミングライフ](https://ja.wikipedia.org/wiki/ハミングライフ_\(映画\) "wikilink")」などに出演している。趣味は[パチスロ](../Page/パチスロ.md "wikilink")と[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")で、桶川市の2部のサッカーチームに所属もしている。
     2012年4月のTBS系ドラマ「[ATARU](https://ja.wikipedia.org/wiki/ATARU "wikilink")」の主題歌として[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")が描き下ろした「[自由へ道連れ](https://ja.wikipedia.org/wiki/自由へ道連れ "wikilink")」(2012年5月16日リリース)にベースとして参加。
-    ファンクラブ会報によると120万円するという[フェンダー](https://ja.wikipedia.org/wiki/フェンダー_\(楽器メーカー\) "wikilink")[プレシジョンベース](https://ja.wikipedia.org/wiki/プレシジョンベース "wikilink")65年製フルオリジナルを使用している。
+    ファンクラブ会報によると120万円するという[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")[プレシジョンベース](https://ja.wikipedia.org/wiki/プレシジョンベース "wikilink")65年製フルオリジナルを使用している。
 
 ### 元メンバー
 
@@ -91,7 +91,7 @@
 
   -
     通称「よういっさん」。GOING UNDER GROUND加入当時はまったく鍵盤に触れたことがなく、バンドに入りたいがためにピアノ教室に通った。ライブのステージでは最もよく動き、本人はそれを「自分はこのバンドのいちばんのファンだから」と説明していた。
-    ライブでは伊藤のキーボード正面に大きな旗（2006-2007ツアーで新調された正五角形の新しいロゴ）が掲げられ、後方には銅鑼が置かれた。この銅鑼はライブ中にも使用されている（「Happy Birthday」の[PVでも確認できる](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")）。インディーズ時代は作曲にも参加していた。
+    ライブでは伊藤のキーボード正面に大きな旗（2006-2007ツアーで新調された正五角形の新しいロゴ）が掲げられ、後方には銅鑼が置かれた。この銅鑼はライブ中にも使用されている（「Happy Birthday」の[PVでも確認できる](../Page/ミュージック・ビデオ.md "wikilink")）。インディーズ時代は作曲にも参加していた。
     [2009年](../Page/2009年.md "wikilink")4月18日の[日比谷野外大音楽堂](https://ja.wikipedia.org/wiki/日比谷野外大音楽堂 "wikilink")でのライブを最後に、育児に専念するためGOING UNDER GROUNDを脱退し、音楽活動を休止した。
     [2011年](../Page/2011年.md "wikilink")5月4日の日比谷野外大音楽堂で行われたGOING UNDER GROUND 10th Anniversary Tour 2011「Rollin' Rollin'」追加公演のアンコールでゲスト出演し、「グラフティー」を演奏したほか、2013年12月の桶川、大阪でのワンマンライブなどにゲスト参加している。
 
@@ -104,7 +104,7 @@
   -
     [埼玉県](../Page/埼玉県.md "wikilink")[上尾市](https://ja.wikipedia.org/wiki/上尾市 "wikilink")出身であるが、他のメンバーが隣の[桶川市](../Page/桶川市.md "wikilink")出身であるため雑誌等でしばしば桶川出身と誤記される。血液型O型。
     通称「丈（じょう）さん」。
-    [2015年](../Page/2015年.md "wikilink")1月31日の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")でのライブを最後に脱退。
+    [2015年](../Page/2015年.md "wikilink")1月31日の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")でのライブを最後に脱退。
 
 ## ディスコグラフィー
 
@@ -112,7 +112,7 @@
 
 #### インディーズ
 
-1.  **[桜が咲いたら](https://ja.wikipedia.org/wiki/桜が咲いたら "wikilink")** （2000年4月21日、[amps](https://ja.wikipedia.org/wiki/規格品番 "wikilink")-0001）※廃盤
+1.  **[桜が咲いたら](https://ja.wikipedia.org/wiki/桜が咲いたら "wikilink")** （2000年4月21日、[amps](../Page/規格品番.md "wikilink")-0001）※廃盤
 2.  **[ロマンチック街道](https://ja.wikipedia.org/wiki/ロマンチック街道_\(曲\) "wikilink")** （2000年9月3日、amps-0002）※廃盤
 3.  **[アロー](https://ja.wikipedia.org/wiki/アロー_\(曲\) "wikilink")** （2001年3月10日、amps-0003）※廃盤
 
@@ -194,7 +194,7 @@
 <td><p>VICL-35734</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アゲハ_(曲)" title="wikilink">アゲハ</a></p></td>
 <td><p>-</p></td>
 </tr>
@@ -354,7 +354,7 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/h.o.p.s." title="wikilink">h.o.p.s.</a></p></td>
 <td><p>VICL-61565</p></td>
 </tr>
@@ -451,7 +451,7 @@
         [メロン記念日](../Page/メロン記念日.md "wikilink")とのコラボレーションシングル。タワーレコード限定販売。
 2.  **給水塔** （2012年3月10日、ampa-003）
       -
-        [メレンゲとのスプリットCD](https://ja.wikipedia.org/wiki/メレンゲ_\(バンド\) "wikilink")。2012年に行われたスプリットツアーのライブ会場及び公式サイト通販にて販売されていたが、2014年現在入手不可。
+        [メレンゲとのスプリットCD](../Page/メレンゲ_\(バンド\).md "wikilink")。2012年に行われたスプリットツアーのライブ会場及び公式サイト通販にて販売されていたが、2014年現在入手不可。
 3.  **[カモメトゥモロー/世界を変えるピアノが歌う](https://ja.wikipedia.org/wiki/カモメトゥモロー/世界を変えるピアノが歌う "wikilink")**（2013年5月8日、TRJC-1017）
       -
         [末光篤](https://ja.wikipedia.org/wiki/末光篤 "wikilink")とのコラボレーションシングル。タワーレコード限定販売。
@@ -562,7 +562,7 @@
 1.  **[藤井フミヤ](../Page/藤井フミヤ.md "wikilink")『[F's KITCHEN](https://ja.wikipedia.org/wiki/F's_KITCHEN "wikilink")』** （2008年10月8日）
       -
         「ケモノ マイハート」に参加。
-2.  **[ミドリカワ書房](https://ja.wikipedia.org/wiki/ミドリカワ書房 "wikilink")『愛にのぼせろ』** （2011年7月13日）
+2.  **[ミドリカワ書房](../Page/ミドリカワ書房.md "wikilink")『愛にのぼせろ』** （2011年7月13日）
       -
         10曲中6曲に参加。
 
@@ -585,7 +585,7 @@
 
 ### 雑誌
 
-  - **[音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")**
+  - **[音楽と人](../Page/音楽と人.md "wikilink")**
 
 <!-- end list -->
 
@@ -609,7 +609,7 @@
 
   -
     2010年、石原聡がエッセイ「バンめし」を連載していた（現在は終了）。
-    （[フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink")金澤ダイスケと隔号リレー形式で掲載）
+    （[フジファブリック](../Page/フジファブリック.md "wikilink")金澤ダイスケと隔号リレー形式で掲載）
 
 ### ラジオ
 
@@ -627,7 +627,7 @@
 <!-- end list -->
 
   -
-    [J-WAVE](../Page/J-WAVE.md "wikilink")にて毎週火曜日 26:00 - 28:00 に放送されていた。「[TR2](https://ja.wikipedia.org/wiki/TR2 "wikilink")」という月曜日-金曜日に放送されていた番組の火曜日を担当していたが「TR2」の番組自体が終了となり、「松本素生のTR2」も終了した。その後2007年初頭までは[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")を利用して「松本素生の元TR2」が配信されていたが、2010年現在は更新が停止している。
+    [J-WAVE](../Page/J-WAVE.md "wikilink")にて毎週火曜日 26:00 - 28:00 に放送されていた。「[TR2](../Page/TR2.md "wikilink")」という月曜日-金曜日に放送されていた番組の火曜日を担当していたが「TR2」の番組自体が終了となり、「松本素生のTR2」も終了した。その後2007年初頭までは[ポッドキャスティング](https://ja.wikipedia.org/wiki/ポッドキャスティング "wikilink")を利用して「松本素生の元TR2」が配信されていたが、2010年現在は更新が停止している。
 
 <!-- end list -->
 
@@ -663,7 +663,7 @@
 <!-- end list -->
 
   -
-    松本素生が[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")にて毎週水曜日 18:30 - 20:00 に[10-FEET](https://ja.wikipedia.org/wiki/10-FEET "wikilink")のTAKUMAと共にVJとして出演していた。
+    松本素生が[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")にて毎週水曜日 18:30 - 20:00 に[10-FEET](../Page/10-FEET.md "wikilink")のTAKUMAと共にVJとして出演していた。
 
 <!-- end list -->
 
@@ -696,9 +696,9 @@
 
 ### テレビ
 
-  - **ミラージュ** - [スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")2002年4月度[POWER PUSH](https://ja.wikipedia.org/wiki/スペースシャワーTV#POWER_PUSH\(-INTERNATIONAL\) "wikilink")
+  - **ミラージュ** - [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")2002年4月度[POWER PUSH](https://ja.wikipedia.org/wiki/スペースシャワーTV#POWER_PUSH\(-INTERNATIONAL\) "wikilink")
   - **トワイライト** - [NHK教育](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[あしたをつかめ 平成若者仕事図鑑](../Page/あしたをつかめ_平成若者仕事図鑑.md "wikilink")」主題歌（2004年4月5日 - ）
-  - **トゥモロウズソング** - [NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[みんなのうた](https://ja.wikipedia.org/wiki/みんなのうた "wikilink")」で放送（2005年8月 - 9月）
+  - **トゥモロウズソング** - [NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[みんなのうた](../Page/みんなのうた.md "wikilink")」で放送（2005年8月 - 9月）
   - **My Treasure** - [テレビ朝日](../Page/テレビ朝日.md "wikilink")「[アドレなガレッジ](https://ja.wikipedia.org/wiki/アドレなガレッジ "wikilink")」エンディングテーマ（2008年4月1日 - 6月）
   - **LISTEN TO THE STEREO\!\!** - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink")」オープニングテーマ（2010年4月 - ）
   - **Breakthrough** - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")「[FAIRY TAIL](../Page/FAIRY_TAIL.md "wikilink")」オープニングテーマ（2012年12月 - ）
@@ -707,12 +707,12 @@
 ### ラジオ
 
   - **ランブル** - [FM802](../Page/FM802.md "wikilink") [HEAVY ROTATION](https://ja.wikipedia.org/wiki/ヘビーローテーション "wikilink")（2002年7月）
-  - **アロー** - [NHK-FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")「[ミュージックスクエア](https://ja.wikipedia.org/wiki/ミュージックスクエア "wikilink")」エンディング（2001年2月 - 3月)
+  - **アロー** - [NHK-FM放送](../Page/NHK-FM放送.md "wikilink")「[ミュージックスクエア](https://ja.wikipedia.org/wiki/ミュージックスクエア "wikilink")」エンディング（2001年2月 - 3月)
   - **ハミングライフ** - [J-WAVE](../Page/J-WAVE.md "wikilink")春のキャンペーンソング（2006年4月1日 - ）
 
 ### 映画
 
-  - **トワイライト**・**さえないブルー** - 『[銀のエンゼル](https://ja.wikipedia.org/wiki/銀のエンゼル_\(映画\) "wikilink")』（[鈴井貴之](../Page/鈴井貴之.md "wikilink")監督／2004年12月18日公開）主題歌
+  - **トワイライト**・**さえないブルー** - 『[銀のエンゼル](../Page/銀のエンゼル_\(映画\).md "wikilink")』（[鈴井貴之](../Page/鈴井貴之.md "wikilink")監督／2004年12月18日公開）主題歌
   - **ハミングライフ**・**ion** -『[ハミングライフ](https://ja.wikipedia.org/wiki/ハミングライフ_\(映画\) "wikilink")』（[窪田崇](../Page/窪田崇.md "wikilink")監督／2006年1月13日公開）主題歌
   - **サンキュー** - 『[彩恋 SAI-REN](https://ja.wikipedia.org/wiki/彩恋_SAI-REN "wikilink")』（[飯塚健](https://ja.wikipedia.org/wiki/飯塚健 "wikilink")監督・2007年8月4日公開）挿入歌
   - **さかさまワールド** - 『[タクミくんシリーズ そして春風にささやいて](https://ja.wikipedia.org/wiki/タクミくんシリーズ_\(映画\) "wikilink")』（[横山一洋](https://ja.wikipedia.org/wiki/横山一洋 "wikilink")監督／2007年12月22日公開）主題歌
@@ -721,9 +721,9 @@
 
 ### CM
 
-  - **ダイアリー** - [丸大食品](https://ja.wikipedia.org/wiki/丸大食品 "wikilink")[テレビCMアテネ五輪応援ソング](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")
+  - **ダイアリー** - [丸大食品](../Page/丸大食品.md "wikilink")[テレビCMアテネ五輪応援ソング](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")
   - **ハートビート** - [ボーダフォン日本法人の](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")[V601N](../Page/V601N.md "wikilink")テレビCM（[2003年](../Page/2003年.md "wikilink")11月末）
-  - **サンキュー** - [花王](../Page/花王.md "wikilink")[ソフィーナ](https://ja.wikipedia.org/wiki/ソフィーナ "wikilink")AUBE・「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」限定60秒テレビCM
+  - **サンキュー** - [花王](../Page/花王.md "wikilink")[ソフィーナ](../Page/ソフィーナ.md "wikilink")AUBE・「[恋するハニカミ\!](../Page/恋するハニカミ!.md "wikilink")」限定60秒テレビCM
   - **STAND BY ME** - [アサヒ飲料](../Page/アサヒ飲料.md "wikilink")「[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")」テレビCM2005年3月12日 - 不明）
 
 <!-- end list -->
@@ -816,11 +816,11 @@
   - 2011年06月25日〜06月26日 - GOING UNDER GROUND 10th Anniversary LIVE ～tribute of 2006～2009 vol.2
   - 2011年11月13日 - GOING UNDER GROUND ふるさとライブ～荒川わたれvol.2～
   - 2012年01月15日 - GOING UNDER GROUNDファンクラブイベント 『TAMARIBA vol,5』スペシャルアコースティックLIVE
-  - 2012年03月01日〜04月01日 - GOING UNDER GROUND vs [メレンゲ (バンド)](https://ja.wikipedia.org/wiki/メレンゲ_\(バンド\) "wikilink") split tour 「strangers in the night」
+  - 2012年03月01日〜04月01日 - GOING UNDER GROUND vs [メレンゲ (バンド)](../Page/メレンゲ_\(バンド\).md "wikilink") split tour 「strangers in the night」
   - 2012年05月10日〜06月30日 - GOING UNDER GROUND TOUR 2012 「WHEEL of FORTUNE」
   - 2012年07月07日 - SOU FES
       -
-        w/[フラワーカンパニーズ](https://ja.wikipedia.org/wiki/フラワーカンパニーズ "wikilink")/[初恋の嵐](https://ja.wikipedia.org/wiki/初恋の嵐 "wikilink")/[andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")
+        w/[フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink")/[初恋の嵐](https://ja.wikipedia.org/wiki/初恋の嵐 "wikilink")/[andymori](https://ja.wikipedia.org/wiki/andymori "wikilink")
   - 2012年09月22日〜10月14日 - emotional song session
   - 2012年11月17日 - 冬のHALL TOUR ふるさとライブ～荒川わたれvol.3～
   - 2012年12月08日 - GOING UNDER GROUND 冬のHALL TOUR 淀川わたれ
@@ -848,7 +848,7 @@
   - 2014年11月29日〜2015年01月11日 - GOING UNDER GROUND TOUR 「OReTABI 2014～15」
   - 2015年01月31日 - 「OReTABI 2014～15」 LIVE at 渋谷公会堂 「河野、バンドやめるってよ」
   - 2015年02月08日〜02月22日 - TOUR 2015 「Teenage last」
-  - 2015年03月28日〜04月18日 - GOING UNDER GROUND × [LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink") 「武蔵野コーリング」
+  - 2015年03月28日〜04月18日 - GOING UNDER GROUND × [LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink") 「武蔵野コーリング」
   - 2015年05月16日〜06月27日 - TOUR 「soul train 2015」
   - 2015年09月18日 - 新生GOING UNDER GROUND 初SINGLE release LIVE
   - 2015年12月17日〜12月22日 - hello sunset club tour
@@ -895,7 +895,7 @@
   - 2006年08月30日 - ロックロックこんにちは\! 10th ANNIVERSARY SPECIAL Ver.パイレーツ・オブ・10リビアン
   - 2006年09月17日 - RADIO BERRY ベリテンライブ2006 Special
   - 2006年11月05日 - [京都産業大学](../Page/京都産業大学.md "wikilink")学祭ライブ
-  - 2007年04月12日 - [THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")「KYO-MEI対バンツアー」～共に鳴らす夜～
+  - 2007年04月12日 - [THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")「KYO-MEI対バンツアー」～共に鳴らす夜～
   - 2007年09月01日 - SKULLMANIA Vol.1 ～DARKPLOTリニューアルスペシャル～
   - 2007年09月16日 - RADIO BERRY ベリテンライブ2007 Special
   - 2007年11月03日 - [立教大学](../Page/立教大学.md "wikilink") The 23rd St.Paul' Festival
@@ -951,7 +951,7 @@
   - 2013年08月21日 - JANUSチャウダー岸本 ～必殺\!ゴーイングチリ爆弾\!\!～
   - 2013年08月24日 - MONSTER baSH 2013
   - 2013年09月13日 - [THEイナズマ戦隊](https://ja.wikipedia.org/wiki/THEイナズマ戦隊 "wikilink") presents「NEO TIGER HOLE vol.4」
-  - 2013年09月15日・16日 - [TRIPLANE](https://ja.wikipedia.org/wiki/TRIPLANE "wikilink")×GOING UNDER GROUND「いくぜ\!道産子魂 vs 埼玉っ子魂」
+  - 2013年09月15日・16日 - [TRIPLANE](../Page/TRIPLANE.md "wikilink")×GOING UNDER GROUND「いくぜ\!道産子魂 vs 埼玉っ子魂」
   - 2013年10月21日・22日・28日 - QUATTRO MIRAGE ～TOUR MIRAGE VOL.1～
   - 2013年11月10日 - TOKYO BOOTLEG 7th Anniversary
   - 2013年12月03日 - [SAKANAMON](https://ja.wikipedia.org/wiki/SAKANAMON "wikilink") 花色の美男美女ツアー
@@ -962,11 +962,11 @@
   - 2014年06月21日 - YATSUI FESTIVAL\! 2014
   - 2014年07月05日 - [見放題](https://ja.wikipedia.org/wiki/見放題 "wikilink")2014
   - 2014年08月05日 - SHELTER presents "BATTLE60×60"
-  - 2014年08月12日 - [音楽と人](https://ja.wikipedia.org/wiki/音楽と人 "wikilink")LIVE 2014 さらば、友よ「俺達の旅は、8月の秘密」
+  - 2014年08月12日 - [音楽と人](../Page/音楽と人.md "wikilink")LIVE 2014 さらば、友よ「俺達の旅は、8月の秘密」
   - 2014年08月23日 - [FREEDOM NAGOYA](https://ja.wikipedia.org/wiki/FREEDOM_NAGOYA "wikilink") 2014
   - 2014年09月02日 - ロックのほそ道
   - 2014年09月15日 - THE BIG PARADE 2014
-  - 2014年09月20日 - [LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink")×GOING UNDER GROUND「線路の上で同じ月を見てた」
+  - 2014年09月20日 - [LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink")×GOING UNDER GROUND「線路の上で同じ月を見てた」
   - 2014年11月22日 - グッドモーニングアメリカ企画フェス「あっ、良いライブここにあります。2014」
   - 2014年12月07日 - [フラカン](https://ja.wikipedia.org/wiki/フラカン "wikilink")結成25周年 ほぼ対バンtour 「シリーズ・人間の爆発スペシャル」
   - 2015年04月19日 - 音楽と人LIVE 2015 ローリング・サンダー・レビュー
@@ -989,7 +989,7 @@
   - 2016年12月04日 - SKULLSHIT 20th ANNIVERSARY 骸骨祭り
   - 2016年12月21日 - 全方位全肯定vol.1
   - 2017年01月24日 - 全方位全肯定vol.2
-  - 2017年02月11日 - [ナードマグネット](https://ja.wikipedia.org/wiki/ナードマグネット "wikilink")「『渡り廊下で先輩殴るツーマン』シリーズ vol.3 ～GOING UNDER GROUND先輩～」「『渡り廊下で先輩殴るツーマン』シリーズ vol.3 ～GOING UNDER GROUND先輩～」
+  - 2017年02月11日 - [ナードマグネット](../Page/ナードマグネット.md "wikilink")「『渡り廊下で先輩殴るツーマン』シリーズ vol.3 ～GOING UNDER GROUND先輩～」「『渡り廊下で先輩殴るツーマン』シリーズ vol.3 ～GOING UNDER GROUND先輩～」
   - 2017年03月19日 - Negi Rock
   - 2017年04月08日 - 全方位全肯定 vol.4 大阪編
   - 2017年04月28日 - 【すきくるナイトフィーバー】& 人性補欠 企画 "OWAOWA"
@@ -1032,8 +1032,8 @@
 
 ### その他
 
-  - [ゴゴイチ\! 〜SPACE SHOWER CHART SHOW〜](../Page/ゴゴイチ!_〜SPACE_SHOWER_CHART_SHOW〜.md "wikilink")（[スペースシャワーTV](https://ja.wikipedia.org/wiki/スペースシャワーTV "wikilink")）において、石原主演のドラマ「2分40秒」を制作。「[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」のパロディ。
-  - 「[BEST OF GOING UNDER GROUND with YOU](../Page/BEST_OF_GOING_UNDER_GROUND_with_YOU.md "wikilink")」のテレビCMには[博多華丸・大吉](https://ja.wikipedia.org/wiki/博多華丸・大吉 "wikilink")が起用された。
+  - [ゴゴイチ\! 〜SPACE SHOWER CHART SHOW〜](../Page/ゴゴイチ!_〜SPACE_SHOWER_CHART_SHOW〜.md "wikilink")（[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")）において、石原主演のドラマ「2分40秒」を制作。「[24 -TWENTY FOUR-](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」のパロディ。
+  - 「[BEST OF GOING UNDER GROUND with YOU](../Page/BEST_OF_GOING_UNDER_GROUND_with_YOU.md "wikilink")」のテレビCMには[博多華丸・大吉](../Page/博多華丸・大吉.md "wikilink")が起用された。
   - [日本フットサルリーグ](https://ja.wikipedia.org/wiki/日本フットサルリーグ "wikilink")（F.LEAGUE）のオフィシャルアーティストに選ばれ、オフィシャルテーマソング「Title」「run boyz run」を書き下ろしている。
 
 ## 脚注
@@ -1050,8 +1050,8 @@
   - [上田ケンジ](../Page/上田ケンジ.md "wikilink") - インディーズ時代のプロデューサー。
   - [浅田信一](../Page/浅田信一.md "wikilink")（元[SMILE](../Page/SMILE_\(バンド\).md "wikilink")）- アルバム「[ひとりぼっちになる日のために](https://ja.wikipedia.org/wiki/ひとりぼっちになる日のために "wikilink")」収録の「ALONE AGAIN」「Turquise blue」にプロデューサーとして参加。
   - [末光篤](https://ja.wikipedia.org/wiki/末光篤 "wikilink") - アルバム「[ひとりぼっちになる日のために](https://ja.wikipedia.org/wiki/ひとりぼっちになる日のために "wikilink")」収録の「カモメトゥモロー」「ならば青春の光」「STORMY STORIES」にゲスト参加。
-  - [メレンゲ](https://ja.wikipedia.org/wiki/メレンゲ_\(バンド\) "wikilink") - 2012年にスプリットツアーを実施。
-  - [LOST IN TIME](https://ja.wikipedia.org/wiki/LOST_IN_TIME "wikilink") - 2015年「武蔵野コーリング」と題したスプリットツアーを実施。
+  - [メレンゲ](../Page/メレンゲ_\(バンド\).md "wikilink") - 2012年にスプリットツアーを実施。
+  - [LOST IN TIME](../Page/LOST_IN_TIME.md "wikilink") - 2015年「武蔵野コーリング」と題したスプリットツアーを実施。
   - [ケイタイモ](../Page/ケイタイモ.md "wikilink") - 2010年のライブにキーボーディストとしてゲスト参加。
   - [マシータ](../Page/マシータ.md "wikilink") - 2015年よりサポートドラムとしてライブに参加。
   - [宮尾和孝](../Page/宮尾和孝.md "wikilink") - イラストレーター。河野丈洋の中学校時代の同級生であり、GOING UNDER GROUNDのCD、DVD作品のジャケットイラストを多く手がける。

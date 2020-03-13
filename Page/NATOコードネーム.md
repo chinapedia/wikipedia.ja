@@ -3,7 +3,7 @@
 
 **NATOコードネーム**（ナトーコードネーム）とは、[NATOが](../Page/北大西洋条約機構.md "wikilink")[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（ソ連）をはじめとする[東側諸国](../Page/東側諸国.md "wikilink")の装備（[兵器](../Page/兵器.md "wikilink")）に付けた[コードネーム](../Page/コードネーム.md "wikilink")である。正式な[英語](../Page/英語.md "wikilink")名は、（NATO報告名）。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")、[オーストラリア](../Page/オーストラリア.md "wikilink")、[ニュージーランド](../Page/ニュージーランド.md "wikilink")の5ヵ国によって構成される**航空機標準化調整委員会**（ASCC、）によってコードネームが与えられる。
 
-[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")（DoD）はNATOとは別にソ連の兵器に識別番号を与えており、ソ連の兵器を紹介する際には「SS-6、」の様にDoD番号に続けてNATOコードネームが併記される例もある。得られた情報に混乱があったことからNATOコードネームとDoD識別番号が同じ兵器を示さない事もあった。[冷戦](../Page/冷戦.md "wikilink")終結後に情報が公開されると「SS-6 は[R-7である](https://ja.wikipedia.org/wiki/R-7_\(ロケット\) "wikilink")」といった[旧ソ連軍の制式番号との対応が取られたが](../Page/ソビエト連邦軍.md "wikilink")、その結果、分類上正しくないコードネームを付与した例などの誤認があることも判明した。
+[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")（DoD）はNATOとは別にソ連の兵器に識別番号を与えており、ソ連の兵器を紹介する際には「SS-6、」の様にDoD番号に続けてNATOコードネームが併記される例もある。得られた情報に混乱があったことからNATOコードネームとDoD識別番号が同じ兵器を示さない事もあった。[冷戦](../Page/冷戦.md "wikilink")終結後に情報が公開されると「SS-6 は[R-7である](../Page/R-7_\(ロケット\).md "wikilink")」といった[旧ソ連軍の制式番号との対応が取られたが](../Page/ソビエト連邦軍.md "wikilink")、その結果、分類上正しくないコードネームを付与した例などの誤認があることも判明した。
 
 ## 概要
 

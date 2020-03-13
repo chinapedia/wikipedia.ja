@@ -27,7 +27,7 @@
 <!-- end list -->
 
   - [東京都](../Page/東京都.md "wikilink")
-      - [世田谷区](https://ja.wikipedia.org/wiki/世田谷区 "wikilink")
+      - [世田谷区](../Page/世田谷区.md "wikilink")
       - [狛江市](../Page/狛江市.md "wikilink")
 
 <!-- end list -->

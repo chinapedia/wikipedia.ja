@@ -11,14 +11,14 @@
 ## 略語・略称
 
   - [スーパーバイザー](../Page/スーパーバイザー.md "wikilink") ()。
-  - [サイドバルブ](https://ja.wikipedia.org/wiki/サイドバルブ "wikilink") () - レシプロエンジンの種類。
+  - [サイドバルブ](../Page/サイドバルブ.md "wikilink") () - レシプロエンジンの種類。
   - [セックスボランティア](../Page/セックスボランティア.md "wikilink") () - 障害者や要介護者に対する性行為の介助・介護。
   - [サーバ](../Page/サーバ.md "wikilink") ()。
   - [スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink") ()
   - [拍出量](https://ja.wikipedia.org/wiki/拍出量 "wikilink") ()
   - [遠隔表示](https://ja.wikipedia.org/wiki/遠隔表示 "wikilink") () - 有線遠隔監視システム
   - [活性汚泥沈殿率](https://ja.wikipedia.org/wiki/活性汚泥沈殿率 "wikilink") ()
-  - [テクニカルエンジニア(情報セキュリティ)試験](https://ja.wikipedia.org/wiki/テクニカルエンジニア\(情報セキュリティ\)試験 "wikilink")の略語。[情報処理技術者試験](../Page/情報処理技術者試験.md "wikilink")の1区分。2008年度を最後に[情報セキュリティスペシャリスト試験](https://ja.wikipedia.org/wiki/情報セキュリティスペシャリスト試験 "wikilink")に統合され廃止。
+  - [テクニカルエンジニア(情報セキュリティ)試験](../Page/テクニカルエンジニア\(情報セキュリティ\)試験.md "wikilink")の略語。[情報処理技術者試験](../Page/情報処理技術者試験.md "wikilink")の1区分。2008年度を最後に[情報セキュリティスペシャリスト試験](https://ja.wikipedia.org/wiki/情報セキュリティスペシャリスト試験 "wikilink")に統合され廃止。
 
 ### 固有名詞
 
@@ -37,7 +37,7 @@
   - [国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")）で、**[エルサルバドル](https://ja.wikipedia.org/wiki/エルサルバドル "wikilink")** () を示す。
       - [.sv](https://ja.wikipedia.org/wiki/.sv "wikilink") - エルサルバドルの[国別トップレベルドメイン](https://ja.wikipedia.org/wiki/国別トップレベルドメイン "wikilink")（ccTLD）
   - [IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")で、**[サウジアラビア航空](https://ja.wikipedia.org/wiki/サウジアラビア航空 "wikilink")** () を示す。
-  - [ISO 639-1言語コードで](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")、**[スウェーデン語](../Page/スウェーデン語.md "wikilink")** () を示す。
+  - [ISO 639-1言語コードで](../Page/ISO_639.md "wikilink")、**[スウェーデン語](../Page/スウェーデン語.md "wikilink")** () を示す。
   - [近鉄50000系電車](https://ja.wikipedia.org/wiki/近鉄50000系電車 "wikilink")の電算記号。
 
 ### 形式名

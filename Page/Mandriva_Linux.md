@@ -23,7 +23,7 @@ MandrakeSoftがブラジルのLinuxディストリビューターであるConect
 
 同社創業者の一人であった Gaël Duval はその後解雇され、新たなLinuxディストリビューションの開発に従事している\[1\]。もともと開発者層が比較的厚いとされるMandrivaではあるが、近年では、Linux Mandrake 7.0からMandriva Linux 2007に至る7年間の間にリリースマネージャとして関わってきた Warly が2007年2月にMandrivaを去ったり、パッケージマネージャであった Texstar が[PCLinuxOS](../Page/PCLinuxOS.md "wikilink")というLinuxディストリビューションを開発してユーザーに影響を与えるなど、主要な開発者の異動が見られた。
 
-2010年9月には主要な開発者やコミュニティがMandriva Linuxから独立し、[Mageia](https://ja.wikipedia.org/wiki/Mageia "wikilink")（マギア）という[フォークを立ち上げている](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")。Mandriva Linux自体もフリー版は[OpenMandriva Lxとしてフォークし](https://ja.wikipedia.org/wiki/OpenMandriva_Lx "wikilink")、OpenMandriva Associationに移管している。Mandriva社は商用版に専念することとなった。
+2010年9月には主要な開発者やコミュニティがMandriva Linuxから独立し、[Mageia](https://ja.wikipedia.org/wiki/Mageia "wikilink")（マギア）という[フォークを立ち上げている](../Page/フォーク_\(ソフトウェア開発\).md "wikilink")。Mandriva Linux自体もフリー版は[OpenMandriva Lxとしてフォークし](../Page/OpenMandriva_Lx.md "wikilink")、OpenMandriva Associationに移管している。Mandriva社は商用版に専念することとなった。
 
 2015年5月にMandriva社は倒産したため、開発も、事実上終了した\[2\]。
 
@@ -47,7 +47,7 @@ Smartパッケージ・マネージャとは、かつてブラジルに存在し
 
 リリース年月日 / リリース名（※括弧内はコードネームあるいは正式名）
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink") Linux Mandrake 5.1 （Venice） リリース
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月23日](../Page/7月23日.md "wikilink") Linux Mandrake 5.1 （Venice） リリース
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月1日](../Page/12月1日.md "wikilink") Linux Mandrake 5.2 （Leeloo） リリース
   - [1999年](../Page/1999年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink") Linux Mandrake 5.3 （Festen） リリース
   - [1999年](../Page/1999年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") Linux Mandrake 6.0 （Venus） リリース
@@ -65,10 +65,10 @@ Smartパッケージ・マネージャとは、かつてブラジルに存在し
   - [2004年](../Page/2004年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") Mandrakelinux 10.0 （10.0 Official） リリース ※Community版でのフィードバックを元に、改良した版のリリース
   - [2004年](../Page/2004年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink") Mandrakelinux 10.1 （10.1 Community） リリース
   - [2004年](../Page/2004年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink") Mandrakelinux 10.1 （10.1 Official） リリース
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月7日](../Page/4月7日.md "wikilink") **Mandriva Linux**に名称変更。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月13日](../Page/4月13日.md "wikilink") Mandriva Linux Limited Edition 2005 （10.2 Official） リリース
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月6日](../Page/10月6日.md "wikilink") Mandriva Linux 2006 (2006 Official) リリース
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月14日](../Page/11月14日.md "wikilink") Mandriva Linux 2006 Free Download Edition リリース
+  - [2005年](../Page/2005年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") **Mandriva Linux**に名称変更。
+  - [2005年](../Page/2005年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink") Mandriva Linux Limited Edition 2005 （10.2 Official） リリース
+  - [2005年](../Page/2005年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink") Mandriva Linux 2006 (2006 Official) リリース
+  - [2005年](../Page/2005年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink") Mandriva Linux 2006 Free Download Edition リリース
   - [2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") Mandriva Linux 2007 (2007 Official) Commercial Edition リリース
   - [2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink") Mandriva Linux 2007 Free Download Edition リリース
   - [2007年](../Page/2007年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") Mandriva Linux 2007 Spring (2007.1 Official) リリース

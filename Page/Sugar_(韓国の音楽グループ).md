@@ -19,7 +19,7 @@
   - **Sae Byul**（セビョル） → **Hye Seung**（ヘスン）
       - ユク・ヘスン（<span lang="ko">육혜승</span>）
       - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。
-      - 特技は[バドミントン](https://ja.wikipedia.org/wiki/バドミントン "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - 特技は[バドミントン](../Page/バドミントン.md "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
       - [韓国](../Page/大韓民国.md "wikilink")1集時には**Sae Byul**（セビョル、<span lang="ko">새별</span>）の名で活動した。
       - Sugar解散後、**ハン・イェウォン**(<span lang="ko">한예원</span>)に名を変更して女優転身。ドラマ「[オンエアー](https://ja.wikipedia.org/wiki/オンエアー_\(テレビドラマ\) "wikilink")」などに出演。
 
@@ -27,7 +27,7 @@
 
   - **Haleen**（ハリン）
       - イ・ハリン（<span lang="ko">이하린</span>）
-      - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")[京畿道](../Page/京畿道.md "wikilink")出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月8日](../Page/9月8日.md "wikilink")[京畿道](../Page/京畿道.md "wikilink")出身。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
       - [2004年](../Page/2004年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")加入。
       - Sugar解散後、女優転身。
       - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月15日](../Page/6月15日.md "wikilink")デジタルシングル「속마음(本音)」を発売。
@@ -49,7 +49,7 @@
       - 特技はドラム。血液型はA型。
       - [2006年](../Page/2006年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")卒業。
       - sugar脱退後、女優転身。
-      - 2015年5月、事務所の先輩[ペ・ヨンジュン](https://ja.wikipedia.org/wiki/ペ・ヨンジュン "wikilink")と結婚を発表した。
+      - 2015年5月、事務所の先輩[ペ・ヨンジュン](../Page/ペ・ヨンジュン.md "wikilink")と結婚を発表した。
 
 ## 経歴
 
@@ -57,7 +57,7 @@
 
 [2003年](../Page/2003年.md "wikilink")10月に[ホリプロ](../Page/ホリプロ.md "wikilink")と2年契約を交わし[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にも進出。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2003年](../Page/2003年.md "wikilink")、アニメ [カレイドスター](../Page/カレイドスター.md "wikilink")のOP/ED(TAKE IT SHAKE IT/real identity)を担当したことで活動をはじめ、翌[2004年](../Page/2004年.md "wikilink")正式にデビューを果たす。
 
-2004年[11月30日](../Page/11月30日.md "wikilink")にジョンウムの卒業を、当時担当していた日本のラジオ番組「[ラジオアミューズメントパーク](https://ja.wikipedia.org/wiki/ラジオアミューズメントパーク "wikilink") Seoul to Sugar」で発表。同時にジョンウムの卒業およびハリンの加入が韓国公式ホームページでも発表された。[12月1日](../Page/12月1日.md "wikilink")に行われた[東京ジョイポリス](https://ja.wikipedia.org/wiki/東京ジョイポリス "wikilink")のクリスマスツリー点灯式でハリンが新メンバーとしてお披露目された。ジョンウムは同年[12月29日](../Page/12月29日.md "wikilink")の[SBS歌謡大典がSugarとしての最後の舞台となった](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")。
+2004年[11月30日](../Page/11月30日.md "wikilink")にジョンウムの卒業を、当時担当していた日本のラジオ番組「[ラジオアミューズメントパーク](../Page/ラジオアミューズメントパーク.md "wikilink") Seoul to Sugar」で発表。同時にジョンウムの卒業およびハリンの加入が韓国公式ホームページでも発表された。[12月1日](../Page/12月1日.md "wikilink")に行われた[東京ジョイポリス](https://ja.wikipedia.org/wiki/東京ジョイポリス "wikilink")のクリスマスツリー点灯式でハリンが新メンバーとしてお披露目された。ジョンウムは同年[12月29日](../Page/12月29日.md "wikilink")の[SBS歌謡大典がSugarとしての最後の舞台となった](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")。
 
 [2006年](../Page/2006年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、スジンが契約満了により卒業。
 
@@ -80,7 +80,7 @@
 
 #### シングル
 
-1.  GO THE DISTANCE（2004年2月4日）オリコン96位。期間限定生産・[CD EXTRA](https://ja.wikipedia.org/wiki/CD_EXTRA "wikilink")
+1.  GO THE DISTANCE（2004年2月4日）オリコン96位。期間限定生産・[CD EXTRA](../Page/CD_EXTRA.md "wikilink")
     1.  GO THE DISTANCE\[5:16\] - [TBS系列](../Page/TBSテレビ.md "wikilink")[COUNT DOWN TVエンディングテーマ](../Page/COUNT_DOWN_TV.md "wikilink")
           -
             作詞・作曲：[近藤金吾](../Page/近藤金吾.md "wikilink")／編曲：[藤本和則](../Page/藤本和則.md "wikilink")
@@ -95,7 +95,7 @@
     1.  風と花束\[4:44\]
           -
             作詞・作曲・編曲：[小幡英之](../Page/小幡英之.md "wikilink")
-    2.  Present\[3:50\] - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")「Harmony with the Earth〜明日のためにできること〜」イメージソング
+    2.  Present\[3:50\] - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")「Harmony with the Earth〜明日のためにできること〜」イメージソング
           -
             作詞：幸／作曲・編曲：[h-wonder](https://ja.wikipedia.org/wiki/h-wonder "wikilink")
     3.  Heart\&Soul\[4:51\] - 「セガ アミューズメント 2004」イメージソング
@@ -113,13 +113,13 @@
             作詞：Yoko Hiji・山木隆一郎／作曲・編曲：山木隆一郎
     4.  Heartful (Korean version)
     5.  Heartful (Instrumental)
-5.  ひまわり/LOVEACCELE（2005年8月24日）オリコン29位[TBS系列連続ドラマ](../Page/TBSテレビ.md "wikilink")「[幸せになりたい\!](https://ja.wikipedia.org/wiki/幸せになりたい! "wikilink")」主題歌
+5.  ひまわり/LOVEACCELE（2005年8月24日）オリコン29位[TBS系列連続ドラマ](../Page/TBSテレビ.md "wikilink")「[幸せになりたい\!](../Page/幸せになりたい!.md "wikilink")」主題歌
     1.  ひまわり\[3:41\]
           -
             作詞：H.U.B.／作曲：[酒井ミキオ](../Page/酒井ミキオ.md "wikilink")／編曲：[蔦谷好位置](../Page/蔦谷好位置.md "wikilink")
     2.  LOVEACCELE\[4:51\]
           -
-            作詞：[satomi](https://ja.wikipedia.org/wiki/satomi "wikilink")／作曲：[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")／編曲：[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+            作詞：[satomi](https://ja.wikipedia.org/wiki/satomi "wikilink")／作曲：[松本良喜](https://ja.wikipedia.org/wiki/松本良喜 "wikilink")／編曲：[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     3.  ひまわり (Instrumental)\[3:41\]
 
 #### アルバム（日本）
@@ -170,7 +170,7 @@
 
 #### DVD
 
-1.  7 STARS（2006年4月26日）[PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")
+1.  7 STARS（2006年4月26日）[PV集](../Page/ミュージック・ビデオ.md "wikilink")
 
 ※発売元はすべて[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")
 

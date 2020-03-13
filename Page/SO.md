@@ -43,9 +43,9 @@
   - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")）で、**[ソマリア](../Page/ソマリア.md "wikilink")**を示す。
   - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の行政区画コード（[ISO 3166-2](../Page/ISO_3166-2.md "wikilink")）などのコードで、以下の各国の行政区画を示す。
       - [ゾロトゥルン州](../Page/ゾロトゥルン州.md "wikilink") () の[スイス州コード](https://ja.wikipedia.org/wiki/ISO_3166-2:CH "wikilink")。
-      - [ソンドリオ県](https://ja.wikipedia.org/wiki/ソンドリオ県 "wikilink")の[県名略記号および](../Page/イタリア共和国の県名略記号.md "wikilink")[イタリア県名コード](../Page/ISO_3166-2:IT.md "wikilink")。
+      - [ソンドリオ県](../Page/ソンドリオ県.md "wikilink")の[県名略記号および](../Page/イタリア共和国の県名略記号.md "wikilink")[イタリア県名コード](../Page/ISO_3166-2:IT.md "wikilink")。
   - [静岡県](../Page/静岡県.md "wikilink")を表す[漁船](../Page/漁船.md "wikilink")の登録番号識別標（漁船法施行規則13条・付録第二）。
-  - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[言語コード](https://ja.wikipedia.org/wiki/ISO_639 "wikilink")（ISO 639-1）で、**[ソマリ語](../Page/ソマリ語.md "wikilink")**を示す。
+  - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[言語コード](../Page/ISO_639.md "wikilink")（ISO 639-1）で、**[ソマリ語](../Page/ソマリ語.md "wikilink")**を示す。
 
 <!-- end list -->
 

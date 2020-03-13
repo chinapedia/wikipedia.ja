@@ -11,7 +11,7 @@
       - [you.](https://ja.wikipedia.org/wiki/you. "wikilink") - 日本のAV女優。
       - [@YOU](../Page/@YOU.md "wikilink") - 日本のAV女優。
       - [YOU THE ROCK★](https://ja.wikipedia.org/wiki/YOU_THE_ROCK★ "wikilink") - 日本のミュージシャン。
-      - [足立祐二](https://ja.wikipedia.org/wiki/足立祐二 "wikilink") - HM/HRバンド、元デッドエンドのギタリスト。かつてYOUと名乗った。
+      - [足立祐二](../Page/足立祐二.md "wikilink") - HM/HRバンド、元デッドエンドのギタリスト。かつてYOUと名乗った。
       - YOU - ホリプロ傘下ブース所属のモデル。
       - YOU - 日本のベーシスト。
       - YOU - ボーカルグループ[Missing Linkのメンバー](../Page/Missing_Link.md "wikilink")。
@@ -22,9 +22,9 @@
 
   - 音楽
       - 楽曲
-          - YOU - [大江千里の楽曲](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")。1987年発売のシングルに収録。
+          - YOU - [大江千里の楽曲](../Page/大江千里_\(アーティスト\).md "wikilink")。1987年発売のシングルに収録。
           - YOU - [結城めぐみ](../Page/結城めぐみ.md "wikilink")の楽曲。1988年発売。アニメ『美味しんぼ』オープニングテーマ。
-          - YOU - サザンオールスターズの楽曲。1990年発売のアルバム『[Southern All Stars](https://ja.wikipedia.org/wiki/Southern_All_Stars_\(アルバム\) "wikilink")』などに収録。
+          - YOU - サザンオールスターズの楽曲。1990年発売のアルバム『[Southern All Stars](../Page/Southern_All_Stars_\(アルバム\).md "wikilink")』などに収録。
           - [YOU (布袋寅泰の曲)](https://ja.wikipedia.org/wiki/YOU_\(布袋寅泰の曲\) "wikilink") - 布袋寅泰の楽曲。1991年のアルバム『[GUITARHYTHM II](../Page/GUITARHYTHM_II.md "wikilink")』に収録。
           - YOU - [Island](https://ja.wikipedia.org/wiki/Island_\(日本のバンド\) "wikilink")（[紫も参照](../Page/紫_\(バンド\).md "wikilink")）の楽曲。1994年発売のシングルに収録。
           - YOU - [熊谷幸子](../Page/熊谷幸子.md "wikilink")の楽曲。1996年発売のシングル『Bahia～バイーア～』に収録。テレビ東京系アニメ『赤ちゃんと僕』エンディングテーマ。
@@ -48,7 +48,7 @@
           - [YOU (JUJUのアルバム)](https://ja.wikipedia.org/wiki/YOU_\(JUJUのアルバム\) "wikilink") - JUJUのアルバム作品。
           - [YOU (ウルフルズのアルバム)](https://ja.wikipedia.org/wiki/YOU_\(ウルフルズのアルバム\) "wikilink") - ウルフルズのアルバム作品。
           - [YOU (山下智久のアルバム)](https://ja.wikipedia.org/wiki/YOU_\(山下智久のアルバム\) "wikilink") - 山下智久のアルバム作品。
-          - [YOU (阿部真央のアルバム)](https://ja.wikipedia.org/wiki/YOU_\(阿部真央のアルバム\) "wikilink")
+          - [YOU (阿部真央のアルバム)](../Page/YOU_\(阿部真央のアルバム\).md "wikilink")
 
 <!-- end list -->
 
@@ -60,12 +60,12 @@
 
   - 放送関連
       - テレビ番組
-          - [YOU (テレビ番組)](https://ja.wikipedia.org/wiki/YOU_\(テレビ番組\) "wikilink") - 1982年から1986年まで、[NHK教育テレビジョン](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")で放送されていたテレビ番組。
+          - [YOU (テレビ番組)](../Page/YOU_\(テレビ番組\).md "wikilink") - 1982年から1986年まで、[NHK教育テレビジョン](../Page/NHK教育テレビジョン.md "wikilink")で放送されていたテレビ番組。
           - [YOUは何しに日本へ?](https://ja.wikipedia.org/wiki/YOUは何しに日本へ? "wikilink") - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されているバラエティ番組。
           - [Youドキッ\!たいむ](../Page/Youドキッ!たいむ.md "wikilink") - [富山テレビ放送](../Page/富山テレビ放送.md "wikilink")で放送されていたテレビ番組。
           - [YOUたち\!](../Page/YOUたち!.md "wikilink") - [日本テレビで放送されていたテレビ番組](../Page/日本テレビ放送網.md "wikilink")。
           - [ワイドYOU](https://ja.wikipedia.org/wiki/ワイドYOU "wikilink") - [毎日放送](../Page/毎日放送.md "wikilink")で放送されていたワイドショー番組。
-          - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")YOU - [NHK Eテレで](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")2017年4月から放送されている子供向け番組。
+          - [天才てれびくん](https://ja.wikipedia.org/wiki/天才てれびくん "wikilink")YOU - [NHK Eテレで](../Page/NHK教育テレビジョン.md "wikilink")2017年4月から放送されている子供向け番組。
       - 放送局
           - [YOUテレビ](../Page/YOUテレビ.md "wikilink") - 横浜市鶴見区・神奈川区・鶴見川以南の港北区、川崎市川崎区・幸区がサービスエリアのケーブルテレビ局。
 

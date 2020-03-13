@@ -28,7 +28,7 @@
 
 **Ra**
 
-  - [ラー](../Page/ラー.md "wikilink") (Ra) - [エジプト神話](../Page/エジプト神話.md "wikilink")の[太陽神](https://ja.wikipedia.org/wiki/太陽神 "wikilink")
+  - [ラー](../Page/ラー.md "wikilink") (Ra) - [エジプト神話](../Page/エジプト神話.md "wikilink")の[太陽神](../Page/太陽神.md "wikilink")
 
   - [ラジウム](../Page/ラジウム.md "wikilink") (radium) の[元素記号](../Page/元素記号.md "wikilink")
 

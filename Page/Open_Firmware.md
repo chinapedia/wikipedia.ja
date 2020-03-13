@@ -31,9 +31,9 @@ Open Firmwareは"ok"をプロンプトとして表示する。
 
   - [BIOS](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")
 
-  - [Extensible Firmware Interface](https://ja.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface "wikilink") (EFI)
+  - [Extensible Firmware Interface](../Page/Unified_Extensible_Firmware_Interface.md "wikilink") (EFI)
 
-  - [Unified Extensible Firmware Interface](https://ja.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface "wikilink") (UEFI)
+  - [Unified Extensible Firmware Interface](../Page/Unified_Extensible_Firmware_Interface.md "wikilink") (UEFI)
 
   - \- OpenFirmware標準の別実装
 

@@ -1,15 +1,15 @@
 > この記事は[SOUSOU](https://ja.wikipedia.org/wiki/SOUSOU)から翻訳されています。
 
 
-**SOU・SOU**（そうそう）は、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")の[和装](https://ja.wikipedia.org/wiki/和装 "wikilink")製造販売の[デザインユニット](https://ja.wikipedia.org/wiki/デザインユニット "wikilink")。[地下足袋](https://ja.wikipedia.org/wiki/地下足袋 "wikilink")や[作務衣](https://ja.wikipedia.org/wiki/作務衣 "wikilink")などを得意とする。他、[帽子](../Page/帽子.md "wikilink")、[鞄](https://ja.wikipedia.org/wiki/鞄 "wikilink")など斬新な和のアイテムを創造している。
+**SOU・SOU**（そうそう）は、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")の[和装](https://ja.wikipedia.org/wiki/和装 "wikilink")製造販売の[デザインユニット](https://ja.wikipedia.org/wiki/デザインユニット "wikilink")。[地下足袋](https://ja.wikipedia.org/wiki/地下足袋 "wikilink")や[作務衣](../Page/作務衣.md "wikilink")などを得意とする。他、[帽子](../Page/帽子.md "wikilink")、[鞄](../Page/鞄.md "wikilink")など斬新な和のアイテムを創造している。
 
-関西テレビ京都チャンネル\&KBS京都の『[京都\!ちゃちゃちゃっ](../Page/京都!ちゃちゃちゃっ.md "wikilink")』で紹介。[桑原征平](../Page/桑原征平.md "wikilink")（フリーアナウンサー、元KTVアナウンサー）が気に入ったらしく毎回着る様になった。 近年、[Le coq sportif](https://ja.wikipedia.org/wiki/Le_coq_sportif "wikilink")（[ルコック・スポルティフ](https://ja.wikipedia.org/wiki/ルコック・スポルティフ "wikilink")）や[BELLEMAISON](https://ja.wikipedia.org/wiki/BELLEMAISON "wikilink")（[千趣会](../Page/千趣会.md "wikilink")）とのコラボレート、[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")脚本の映画『[舞妓Haaaan\!\!\!](https://ja.wikipedia.org/wiki/舞妓Haaaan!!! "wikilink")』、シンガーソングライター[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")などの衣装協力により年齢性別問わず幅広い層に人気を広げている。
+関西テレビ京都チャンネル\&KBS京都の『[京都\!ちゃちゃちゃっ](../Page/京都!ちゃちゃちゃっ.md "wikilink")』で紹介。[桑原征平](../Page/桑原征平.md "wikilink")（フリーアナウンサー、元KTVアナウンサー）が気に入ったらしく毎回着る様になった。 近年、[Le coq sportif](https://ja.wikipedia.org/wiki/Le_coq_sportif "wikilink")（[ルコック・スポルティフ](https://ja.wikipedia.org/wiki/ルコック・スポルティフ "wikilink")）や[BELLEMAISON](https://ja.wikipedia.org/wiki/BELLEMAISON "wikilink")（[千趣会](../Page/千趣会.md "wikilink")）とのコラボレート、[宮藤官九郎](../Page/宮藤官九郎.md "wikilink")脚本の映画『[舞妓Haaaan\!\!\!](../Page/舞妓Haaaan!!!.md "wikilink")』、シンガーソングライター[タテタカコ](https://ja.wikipedia.org/wiki/タテタカコ "wikilink")などの衣装協力により年齢性別問わず幅広い層に人気を広げている。
 
 ## 会社概要
 
   - 運営会社 若林株式会社
   - 代表者 若林 剛之
-  - [京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[中京区](../Page/中京区.md "wikilink")新京極通四条上ル二筋目東入ル二軒目P-91ビル3F
+  - [京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[中京区](../Page/中京区.md "wikilink")新京極通四条上ル二筋目東入ル二軒目P-91ビル3F
   - 設立年月 平成12年8月
 
 ## 事業内容

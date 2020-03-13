@@ -11,7 +11,7 @@
 
 1.  **人生はParadise\!**
       -
-        作詞:高岡亜衣 作曲･編曲:[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+        作詞:高岡亜衣 作曲･編曲:[徳永暁人](../Page/徳永暁人.md "wikilink")
 2.  **眠れない夜**
       -
         作詞･作曲:高岡亜衣 編曲:[麻井寛史](../Page/麻井寛史.md "wikilink")

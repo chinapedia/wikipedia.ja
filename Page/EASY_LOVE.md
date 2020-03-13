@@ -5,7 +5,7 @@
 
 ## 内容
 
-  - 約1年5ヶ月ぶりにリリースしたシングル。当初は「BITCH AS WITCH／SWEET REVOLUTION」が2006年1月25日に発売される予定であったが、2005年12月に発売が2月8日に延期され、さらに「SWEET REVOLUTION」が「EASY LOVE」に差し替えられ、結局2006年2月8日に「EASY LOVE／BITCH AS WITCH」として発売された（なお、このシングルから漏れた「[SWEET REVOLUTION](../Page/SWEET_REVOLUTION.md "wikilink")」は2006年10月8日に25thシングルとして発売された）。「EASY LOVE」の作詞を久しぶりに[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")が手掛けているが、これは[森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")が多忙であったことが理由である。プロモーションビデオは2005年12月31日に行われたカウントダウンライブからの映像を使用した、モノトーンで落ち着いた雰囲気のものとなっている。着うた総合サイト[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")のCMで流れる。
+  - 約1年5ヶ月ぶりにリリースしたシングル。当初は「BITCH AS WITCH／SWEET REVOLUTION」が2006年1月25日に発売される予定であったが、2005年12月に発売が2月8日に延期され、さらに「SWEET REVOLUTION」が「EASY LOVE」に差し替えられ、結局2006年2月8日に「EASY LOVE／BITCH AS WITCH」として発売された（なお、このシングルから漏れた「[SWEET REVOLUTION](../Page/SWEET_REVOLUTION.md "wikilink")」は2006年10月8日に25thシングルとして発売された）。「EASY LOVE」の作詞を久しぶりに[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")が手掛けているが、これは[森雪之丞](../Page/森雪之丞.md "wikilink")が多忙であったことが理由である。プロモーションビデオは2005年12月31日に行われたカウントダウンライブからの映像を使用した、モノトーンで落ち着いた雰囲気のものとなっている。着うた総合サイト[music.jp](https://ja.wikipedia.org/wiki/music.jp "wikilink")のCMで流れる。
 
 ## 収録曲
 

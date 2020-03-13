@@ -1,23 +1,23 @@
 > この記事は[ I LOVE YOU](https://ja.wikipedia.org/wiki/_I_LOVE_YOU)から翻訳されています。
 
 
-『**極東 I LOVE YOU**』（きょくとう アイ・ラブ・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")の12枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")\[1\]。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+『**極東 I LOVE YOU**』（きょくとう アイ・ラブ・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の12枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 解説
 
   - BMGファンハウス移籍後2枚目となるアルバム。
   - [電子音](https://ja.wikipedia.org/wiki/電子音 "wikilink")を使いつつ有機的で温かみのあるサウンドを目指した作品であり、その影響で[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")の使用頻度が他の作品よりも高くなっている。
   - 制作時には本作に収められていない曲も何曲かレコーディングされていたが、曲順などを決める際にどうにも収まりが悪く溢れてしまい、2枚組にする案も出たがそれには曲数が足りなかった。何より締め切りが迫っていたため、とりあえず保留ということになり、その時点ではその数曲を[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")としてリリースすることも想定されていたが、結局は翌年新たに曲を追加し『[Mona Lisa OVERDRIVE](../Page/Mona_Lisa_OVERDRIVE.md "wikilink")』（[2003年](../Page/2003年.md "wikilink")）としてリリースされた。これにより次回作『Mona Lisa OVERDRIVE』は本作と対を成すアルバムとして位置付けられており、内容も本作とは全く逆の攻撃性に満ちたアルバムになっている。またそれぞれの1曲目と最後の曲が互いに繋がるような構成になっており、最後の曲のタイトルもそれぞれ「Continue（続く）」・「Continuous（連続的な、途切れない）」と、2作品が対を成していることを示唆している。
-  - 本作のアウトテイクとなった曲のうちの1曲はリアレンジされて、「Lullaby II」として後のアルバム『[十三階は月光](../Page/十三階は月光.md "wikilink")』（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）に、「Lullaby-III」としてアルバム『[memento mori](https://ja.wikipedia.org/wiki/memento_mori "wikilink")』（[2009年](../Page/2009年.md "wikilink")）に収録されたが、原曲は未発表のままである。
+  - 本作のアウトテイクとなった曲のうちの1曲はリアレンジされて、「Lullaby II」として後のアルバム『[十三階は月光](../Page/十三階は月光.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")）に、「Lullaby-III」としてアルバム『[memento mori](https://ja.wikipedia.org/wiki/memento_mori "wikilink")』（[2009年](../Page/2009年.md "wikilink")）に収録されたが、原曲は未発表のままである。
   - [ギタリスト](../Page/ギタリスト.md "wikilink")の[今井寿](../Page/今井寿.md "wikilink")曰く「ウチららしい問題作」。
   - [2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、デビュー30周年を記念し、全曲リマスター・[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")2・紙ジャケット仕様で再発売された\[2\]。
 
 ## リリース履歴
 
-| No. | 日付                                                                                        | [レーベル](../Page/レコードレーベル.md "wikilink")                          | 規格                                                                 | [規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink") | 最高順位 | 備考                  |
-| --- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------- | ---- | ------------------- |
-| 1   | [2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") | [BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") | [CD](../Page/コンパクトディスク.md "wikilink")                              | BVCR-11038                                            | 12位  |                     |
-| 2   | [2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")                  | [アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")   | [Blu-Spec CD2](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink") | BVCL-30038                                            | 244位 | デジタルリマスター盤、紙ジャケット仕様 |
+| No. | 日付                                                                                        | [レーベル](../Page/レコードレーベル.md "wikilink")                          | 規格                                                                 | [規格品番](../Page/規格品番.md "wikilink") | 最高順位 | 備考                  |
+| --- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------- | ---- | ------------------- |
+| 1   | [2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink") | [BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink") | [CD](../Page/コンパクトディスク.md "wikilink")                              | BVCR-11038                         | 12位  |                     |
+| 2   | [2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")                  | [アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")   | [Blu-Spec CD2](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink") | BVCL-30038                         | 244位 | デジタルリマスター盤、紙ジャケット仕様 |
 
 ## 収録曲
 
@@ -82,12 +82,12 @@
   - 櫻井敦司 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - 今井寿 - [ギター](../Page/ギター.md "wikilink")、[ノイズ](../Page/ノイズミュージック.md "wikilink")、[エレクトロニクス](../Page/エレクトロニカ.md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - 星野英彦 - ギター
-  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [樋口豊](../Page/樋口豊_\(ミュージシャン\).md "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - [ヤガミトール](../Page/ヤガミトール.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")
 
 ### サポートミュージシャン
 
-  - 横山和俊 - [マニピュレート](https://ja.wikipedia.org/wiki/マニピュレーター "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ノイズ
+  - 横山和俊 - [マニピュレート](../Page/マニピュレーター.md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、ノイズ
   - FUKUDA SHOKO - コーラス (\#2)
 
 ## 脚注

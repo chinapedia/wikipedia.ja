@@ -7,7 +7,7 @@
 
   - 記録的なビッグ・セールスとなった1枚目のアルバム『[LOVE BRACE](../Page/LOVE_BRACE.md "wikilink")』からのシングルカット。カップリング曲も同じくシングルカットの「MOONLIGHT」。
   - 1コイン（￥500）シングルとしてリリースされた。表記はないが、アルバムに収録されたバージョンとは異なり、ドラムの音などが加わっている。
-  - 小室が出演した[第一興商](../Page/第一興商.md "wikilink")「[DAM](../Page/DAM_\(カラオケ\).md "wikilink")」の[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")。
+  - 小室が出演した[第一興商](../Page/第一興商.md "wikilink")「[DAM](../Page/DAM_\(カラオケ\).md "wikilink")」の[CMソング](../Page/コマーシャルソング.md "wikilink")。
   - TVなどで一度も歌ったことがなかったが、自身のコンサートで[2004年](../Page/2004年.md "wikilink")から解禁し、アンコールの最後の曲として歌っている。
   - [2015年](../Page/2015年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")スカパー音楽祭にて[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と共演し原曲キーで披露した。（テレビ初披露）
   - 「LOVE BRACE」のPVはスポット用として存在するが、PV集等にはCMの一部のみしか収録されず、お蔵入りとなっている。
@@ -25,7 +25,7 @@
 <!-- end list -->
 
   -
-    [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+    [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
     MIX：Keith "KC" Cohen
     作詞（\#2）：小室哲哉&華原朋美
 
@@ -91,4 +91,4 @@
 [Category:華原朋美の楽曲](https://ja.wikipedia.org/wiki/Category:華原朋美の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1996年のシングル](https://ja.wikipedia.org/wiki/Category:1996年のシングル "wikilink") [Category:カラオケのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:カラオケのコマーシャルソング "wikilink") [Category:NBCユニバーサル・ジャパンの楽曲](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンの楽曲 "wikilink") [Category:リカット・シングル](https://ja.wikipedia.org/wiki/Category:リカット・シングル "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
 1.  [角川書店](../Page/角川書店.md "wikilink")刊『[月刊カドカワ](../Page/月刊カドカワ.md "wikilink")』1996年7月号156P-160Pより。
-2.  [マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")刊『[POPEYE](../Page/POPEYE.md "wikilink")』1996年12月25日号36Pより。
+2.  [マガジンハウス](../Page/マガジンハウス.md "wikilink")刊『[POPEYE](../Page/POPEYE.md "wikilink")』1996年12月25日号36Pより。

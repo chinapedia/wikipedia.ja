@@ -1,7 +1,7 @@
 > この記事は[TK ](https://ja.wikipedia.org/wiki/TK_)から翻訳されています。
 
 
-**TKプロジェクト ガチコラ**とは、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")と[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が行ったお笑い芸人の楽曲制作プロジェクト。
+**TKプロジェクト ガチコラ**とは、[2006年](../Page/2006年.md "wikilink")に[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")と[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が行ったお笑い芸人の楽曲制作プロジェクト。
 
 吉本興業所属の芸人達が「着ボイス」、「着ネタ」を撮ると言われスタジオに呼び出されると、そこで待っていた小室哲哉。小室が作曲、芸人が作詞するという企画。事前に小室によってプロデュースされることが知らされておらず、「レコーディング開始前の30分間に自身が歌う歌詞を完成させなければならない」というノルマを課した。プロジェクトの裏テーマとして、当時吉本に所属してから、直接近づきやすい後輩がいなかった小室の芸人の友達作りのきっかけ作りとしての思いもあった\[1\]。
 
@@ -9,25 +9,25 @@
 
   - TK\&YY
       - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
-      - [山本吉貴](https://ja.wikipedia.org/wiki/山本吉貴 "wikilink")（元[チャイルドマシーン](https://ja.wikipedia.org/wiki/チャイルドマシーン "wikilink")）
+      - [山本吉貴](https://ja.wikipedia.org/wiki/山本吉貴 "wikilink")（元[チャイルドマシーン](../Page/チャイルドマシーン.md "wikilink")）
 
 **第1回**
 
-  - [南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")（第1回ダウンロード1位）
+  - [南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")（第1回ダウンロード1位）
       - [しずちゃん](../Page/山崎静代.md "wikilink")
       - [山ちゃん](../Page/山里亮太.md "wikilink")
   - [トータルテンボス](../Page/トータルテンボス.md "wikilink")
-      - [藤田憲右](https://ja.wikipedia.org/wiki/藤田憲右 "wikilink")
-      - [大村朋宏](https://ja.wikipedia.org/wiki/大村朋宏 "wikilink")
-  - [POISON GIRL BAND](https://ja.wikipedia.org/wiki/POISON_GIRL_BAND "wikilink")
-      - [阿部智則](https://ja.wikipedia.org/wiki/阿部智則 "wikilink")
-      - [吉田大吾](https://ja.wikipedia.org/wiki/吉田大吾 "wikilink")
+      - [藤田憲右](../Page/藤田憲右.md "wikilink")
+      - [大村朋宏](../Page/大村朋宏.md "wikilink")
+  - [POISON GIRL BAND](../Page/POISON_GIRL_BAND.md "wikilink")
+      - [阿部智則](../Page/阿部智則.md "wikilink")
+      - [吉田大吾](../Page/吉田大吾.md "wikilink")
   - [とろサーモン](https://ja.wikipedia.org/wiki/とろサーモン_\(お笑いコンビ\) "wikilink")
       - [村田秀亮](https://ja.wikipedia.org/wiki/村田秀亮 "wikilink")
       - [久保田和靖](https://ja.wikipedia.org/wiki/久保田和靖 "wikilink")
   - [ほっしゃん。](https://ja.wikipedia.org/wiki/ほっしゃん。 "wikilink")
   - [だいたひかる](../Page/だいたひかる.md "wikilink")
-  - [まちゃまちゃ](https://ja.wikipedia.org/wiki/まちゃまちゃ "wikilink")
+  - [まちゃまちゃ](../Page/まちゃまちゃ.md "wikilink")
 
 **第2回**
 
@@ -37,7 +37,7 @@
   - [チュートリアル](../Page/チュートリアル_\(お笑いコンビ\).md "wikilink")
       - [徳井義実](../Page/徳井義実.md "wikilink")
       - [福田充徳](../Page/福田充徳.md "wikilink")
-  - [千鳥](https://ja.wikipedia.org/wiki/千鳥_\(お笑いコンビ\) "wikilink")
+  - [千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")
       - 大悟
       - ノブ
   - [笑い飯](../Page/笑い飯.md "wikilink")
@@ -48,7 +48,7 @@
 
   - JK（[次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")）
       - [河本準一](../Page/河本準一.md "wikilink")
-      - [井上聡](https://ja.wikipedia.org/wiki/井上聡 "wikilink")
+      - [井上聡](../Page/井上聡.md "wikilink")
 
 ## 関連商品
 

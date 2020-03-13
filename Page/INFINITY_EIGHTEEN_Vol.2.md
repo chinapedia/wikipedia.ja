@@ -1,7 +1,7 @@
 > この記事は[INFINITY EIGHTEEN Vol.2](https://ja.wikipedia.org/wiki/INFINITY_EIGHTEEN_Vol.2)から翻訳されています。
 
 
-『**INFINITY EIGHTEEN Vol.2**』（インフィニティー・エイティーン・ボリューム・ツー）は、[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")3枚目のオリジナルアルバム。[TRUE KiSS DISCよりリリースされた](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")。
+『**INFINITY EIGHTEEN Vol.2**』（インフィニティー・エイティーン・ボリューム・ツー）は、[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")3枚目のオリジナルアルバム。[TRUE KiSS DISCよりリリースされた](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。
 
 ## 解説
 

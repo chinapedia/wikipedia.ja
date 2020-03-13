@@ -1,7 +1,7 @@
 > この記事は[Digital Performer](https://ja.wikipedia.org/wiki/Digital_Performer)から翻訳されています。
 
 
-**Digital Performer**（デジタルパフォーマー）はアメリカのMark of the Unicorn（MOTU、マークオブザユニコーン）社製の[MIDI](../Page/MIDI.md "wikilink")[シーケンサー](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")、[デジタルオーディオワークステーション](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink") (DAW)ソフトウェア。MOTU DP、デジパフォなどと呼ばれる。
+**Digital Performer**（デジタルパフォーマー）はアメリカのMark of the Unicorn（MOTU、マークオブザユニコーン）社製の[MIDI](../Page/MIDI.md "wikilink")[シーケンサー](../Page/ミュージックシーケンサー.md "wikilink")、[デジタルオーディオワークステーション](https://ja.wikipedia.org/wiki/デジタルオーディオワークステーション "wikilink") (DAW)ソフトウェア。MOTU DP、デジパフォなどと呼ばれる。
 
 ## 概要
 
@@ -20,7 +20,7 @@ MOTU社はオーディオインターフェース、MIDIインターフェース
   - 1ch、2ch、4ch、LCRS、5.1ch、6.1ch、7.1ch、10.2chのオーディオの[ミキシング](../Page/ミキシング.md "wikilink")に対応。
   - [QuickTime](../Page/QuickTime.md "wikilink")ビデオとの同期再生。
   - [SMF形式のMIDIファイルの読み込み](../Page/スタンダードMIDIファイル.md "wikilink")・書き出し。
-  - [SDII](https://ja.wikipedia.org/wiki/SDII "wikilink")、[AIFF](https://ja.wikipedia.org/wiki/AIFF "wikilink")、[WAV](https://ja.wikipedia.org/wiki/WAV "wikilink")、[MP3](../Page/MP3.md "wikilink")形式などのオーディオファイルの読み込み・書き出し。
+  - [SDII](https://ja.wikipedia.org/wiki/SDII "wikilink")、[AIFF](../Page/AIFF.md "wikilink")、[WAV](../Page/WAV.md "wikilink")、[MP3](../Page/MP3.md "wikilink")形式などのオーディオファイルの読み込み・書き出し。
   - [OMF](https://ja.wikipedia.org/wiki/Open_Media_Framework_Interchange "wikilink")、[AAF形式のマルチトラック](https://ja.wikipedia.org/wiki/Advanced_Authoring_Format "wikilink")・オーディオ設定ファイルの読み込み・書き出し。
   - 67種類のオーディオ用[エフェクター](../Page/エフェクター.md "wikilink")・[プラグイン](../Page/プラグイン.md "wikilink")が付属。
   - 7種類の[ソフトウェア・シンセサイザー](../Page/ソフトウェア・シンセサイザー.md "wikilink")・プラグインが付属、それに加えサードパーティでフリーウェアであるUVI Workstationで動作するアコースティック楽器のライブラリが付属。（バージョン10.0以降）。
@@ -39,7 +39,7 @@ MOTU社はオーディオインターフェース、MIDIインターフェース
   - 1997年 Performer 6を発売。8トラックのオーディオ録音・編集・ミックス機能を追加した。Performerは6.xが最終バージョン。
   - [2001年](../Page/2001年.md "wikilink") Digital Performer 3を発売。[PPC専用となる](../Page/PowerPC.md "wikilink")。
   - [2003年](../Page/2003年.md "wikilink") Digital Performer 4を発売。[Mac OS X専用となる](https://ja.wikipedia.org/wiki/macOS "wikilink")。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink") Digital Performer 5を発売。バージョン5.1より[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") / [PPC両対応となる](../Page/PowerPC.md "wikilink")。
+  - [2006年](../Page/2006年.md "wikilink") Digital Performer 5を発売。バージョン5.1より[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") / [PPC両対応となる](../Page/PowerPC.md "wikilink")。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") Digital Performer 6を発売。
   - [2009年](../Page/2009年.md "wikilink") Digital Performer 7を発売。
   - [2012年](../Page/2012年.md "wikilink") Digital Performer 8を発売。

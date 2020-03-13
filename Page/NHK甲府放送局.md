@@ -1,13 +1,13 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK甲府放送局**（エヌエイチケイこうふほうそうきょく）は、[山梨県](../Page/山梨県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で県域放送を行っている。
+**NHK甲府放送局**（エヌエイチケイこうふほうそうきょく）は、[山梨県](../Page/山梨県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。[テレビ](../Page/テレビ.md "wikilink")と[ラジオ](../Page/ラジオ.md "wikilink")で県域放送を行っている。
 
 ## 放送局概要
 
-テレビ放送は[1958年](../Page/1958年.md "wikilink")（昭和33年）に開始されたが山梨県の地理的条件で契約数が少なく、[1959年](../Page/1959年.md "wikilink")（昭和34年）に[東八代郡](../Page/東八代郡.md "wikilink")[境川村](../Page/境川村.md "wikilink")[坊ヶ峰](https://ja.wikipedia.org/wiki/曽根丘陵 "wikilink")（現：[笛吹市](https://ja.wikipedia.org/wiki/笛吹市 "wikilink")）に中継送信所を設置し、契約数を増やした。[富士吉田市](../Page/富士吉田市.md "wikilink")下吉田4-7-53ゲボイテビル２階に報道室、[大月と](../Page/大月市.md "wikilink")[身延に通信部がある](https://ja.wikipedia.org/wiki/身延町 "wikilink")。
+テレビ放送は[1958年](../Page/1958年.md "wikilink")（昭和33年）に開始されたが山梨県の地理的条件で契約数が少なく、[1959年](../Page/1959年.md "wikilink")（昭和34年）に[東八代郡](../Page/東八代郡.md "wikilink")[境川村](../Page/境川村.md "wikilink")[坊ヶ峰](https://ja.wikipedia.org/wiki/曽根丘陵 "wikilink")（現：[笛吹市](../Page/笛吹市.md "wikilink")）に中継送信所を設置し、契約数を増やした。[富士吉田市](../Page/富士吉田市.md "wikilink")下吉田4-7-53ゲボイテビル２階に報道室、[大月と](../Page/大月市.md "wikilink")[身延に通信部がある](../Page/身延町.md "wikilink")。
 
-局舎（放送会館）は[甲府駅](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")から西に1kmほど離れた飯田地区に所在していたが、建物や施設の老朽化および[地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")に絡んだ多様化に既存局舎では対応できないことから[2004年](../Page/2004年.md "wikilink")に甲府駅の北口への新局舎移転・建設が[甲府市](../Page/甲府市.md "wikilink")と基本合意され、[2007年](../Page/2007年.md "wikilink")12月に甲府駅北口の北西側（[甲府機関区の事務所および](https://ja.wikipedia.org/wiki/新鶴見機関区#甲府派出 "wikilink")[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）甲府総合事務所が存在した場所）に建てることが発表された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に着工され、[2012年](../Page/2012年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に新局舎での業務が開始、[5月24日](../Page/5月24日.md "wikilink")にグランドオープンした。新局舎の鉄塔は84mと県内の建築構造物では2番目に高い建物（1番は[セインツ.25](../Page/セインツ.25.md "wikilink")）となっており、300段ある階段の最上段には[お天気カメラ](https://ja.wikipedia.org/wiki/お天気カメラ "wikilink")が設置されている。
+局舎（放送会館）は[甲府駅](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")から西に1kmほど離れた飯田地区に所在していたが、建物や施設の老朽化および[地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")に絡んだ多様化に既存局舎では対応できないことから[2004年](../Page/2004年.md "wikilink")に甲府駅の北口への新局舎移転・建設が[甲府市](../Page/甲府市.md "wikilink")と基本合意され、[2007年](../Page/2007年.md "wikilink")12月に甲府駅北口の北西側（[甲府機関区の事務所および](https://ja.wikipedia.org/wiki/新鶴見機関区#甲府派出 "wikilink")[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）甲府総合事務所が存在した場所）に建てることが発表された。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に着工され、[2012年](../Page/2012年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に新局舎での業務が開始、[5月24日](../Page/5月24日.md "wikilink")にグランドオープンした。新局舎の鉄塔は84mと県内の建築構造物では2番目に高い建物（1番は[セインツ.25](../Page/セインツ.25.md "wikilink")）となっており、300段ある階段の最上段には[お天気カメラ](../Page/お天気カメラ.md "wikilink")が設置されている。
 
 マスコットキャラクターとして「しんげん君」、「ぶど雄」、「もも姫」を採用。さらに[2007年](../Page/2007年.md "wikilink")（平成19年）度NHK大河ドラマ『[風林火山](../Page/風林火山_\(NHK大河ドラマ\).md "wikilink")』の放送に伴うイメージキャラクターとして「かんすけ君」が設定されている。
 
@@ -38,11 +38,11 @@
 <!-- end list -->
 
   -
-    ※以上4波の[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")：[笛吹市](https://ja.wikipedia.org/wiki/笛吹市 "wikilink")坊ケ峰（[甲府送信所](../Page/甲府送信所.md "wikilink")）、アナログ2波は[南巨摩郡](../Page/南巨摩郡.md "wikilink")[身延町](https://ja.wikipedia.org/wiki/身延町 "wikilink")にも送信所がある。
+    ※以上4波の[送信所](../Page/送信所.md "wikilink")：[笛吹市](../Page/笛吹市.md "wikilink")坊ケ峰（[甲府送信所](../Page/甲府送信所.md "wikilink")）、アナログ2波は[南巨摩郡](../Page/南巨摩郡.md "wikilink")[身延町](../Page/身延町.md "wikilink")にも送信所がある。
 
 <!-- end list -->
 
-  - ラジオ第1放送 甲府：927[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")（送信所：甲府市貢川）、富士吉田：1584kHz（送信所：富士吉田市・[南都留郡](../Page/南都留郡.md "wikilink")[鳴沢村](https://ja.wikipedia.org/wiki/鳴沢村 "wikilink")） [コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOKG
+  - ラジオ第1放送 甲府：927[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")（送信所：甲府市貢川）、富士吉田：1584kHz（送信所：富士吉田市・[南都留郡](../Page/南都留郡.md "wikilink")[鳴沢村](../Page/鳴沢村.md "wikilink")） [コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：JOKG
   - ラジオ第2放送 1602kHz コールサイン：JOKC（送信所：ラジオ第1放送と同じ）
   - FM放送 甲府：85.6[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")（送信所：テレビ4波と同じ）、三ツ峠：86.0MHz（送信所：南都留郡[富士河口湖町](../Page/富士河口湖町.md "wikilink")）、身延：84.7MHz（送信所：身延町） コールサイン：JOKG-FM
   - 同局敷地内には甲府北中継局あり（詳細は[NHK甲府北テレビ中継放送所](https://ja.wikipedia.org/wiki/NHK甲府北テレビ中継放送所 "wikilink")に記述。[民放はそれぞれ別の場所に置局](../Page/民間放送.md "wikilink")）。
@@ -59,16 +59,16 @@
 ## 情報カメラ
 
   - NHK甲府放送会館屋上鉄塔上（[甲府駅](https://ja.wikipedia.org/wiki/甲府駅 "wikilink")北口）（[甲府市](../Page/甲府市.md "wikilink")）
-  - 身延（[身延町](https://ja.wikipedia.org/wiki/身延町 "wikilink")）
-  - [笛吹川フルーツ公園](https://ja.wikipedia.org/wiki/山梨県笛吹川フルーツ公園 "wikilink")（[山梨市](https://ja.wikipedia.org/wiki/山梨市 "wikilink")）
-  - [上野原IC上野原市上野原](https://ja.wikipedia.org/wiki/上野原インターチェンジ "wikilink")964番地　横河マニュファクチャリング㈱上野原事業所屋上（[上野原市](https://ja.wikipedia.org/wiki/上野原市 "wikilink")）
+  - 身延（[身延町](../Page/身延町.md "wikilink")）
+  - [笛吹川フルーツ公園](../Page/山梨県笛吹川フルーツ公園.md "wikilink")（[山梨市](../Page/山梨市.md "wikilink")）
+  - [上野原IC上野原市上野原](../Page/上野原インターチェンジ.md "wikilink")964番地　横河マニュファクチャリング㈱上野原事業所屋上（[上野原市](../Page/上野原市.md "wikilink")）
   - 大月　大月市御太刀二丁目2番14号　東京電力パワーグリッド㈱大月支社ビル屋上（[大月市](../Page/大月市.md "wikilink")）
-  - [富士山駅](https://ja.wikipedia.org/wiki/富士山駅 "wikilink")前　富士吉田市松山二丁目7番14号　オサダビル屋上（[富士吉田市](../Page/富士吉田市.md "wikilink")）
+  - [富士山駅](../Page/富士山駅.md "wikilink")前　富士吉田市松山二丁目7番14号　オサダビル屋上（[富士吉田市](../Page/富士吉田市.md "wikilink")）
   - [新倉山浅間公園](https://ja.wikipedia.org/wiki/新倉山浅間公園 "wikilink")忠霊塔　富士吉田市新倉字宮林3360番1　（五重塔と富士山を一望できる場所）（[富士吉田市](../Page/富士吉田市.md "wikilink")）
   - [三つ峠](../Page/三つ峠.md "wikilink")　南都留郡富士河口湖町河口字御巣鷹山2733番1　FM送信所建物屋上（南都留郡[富士河口湖町](../Page/富士河口湖町.md "wikilink")）
   - [河口湖](https://ja.wikipedia.org/wiki/河口湖 "wikilink")　南都留郡富士河口湖町浅川132番地　ホテル富士吟景屋上（南都留郡[富士河口湖町](../Page/富士河口湖町.md "wikilink")）
   - [富士山](../Page/富士山.md "wikilink")五合目 富士吉田市上吉田5617番地　富士山五合目総合管理センター屋上（富士吉田市）
-      - [2019年](../Page/2019年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")より運用開始。運用は夏山シーズンを中心とした5月上旬から10月末まで。普段の放送で使用するほか、法定伝達先機関として災害発生時には現場の被害状況の映像を国や自治体に提供する。光学18倍のズームレンズを搭載し、[山頂](https://ja.wikipedia.org/wiki/山頂 "wikilink")付近だけでなく、天気がよければ[南アルプス](https://ja.wikipedia.org/wiki/南アルプス "wikilink")、[本栖湖](https://ja.wikipedia.org/wiki/本栖湖 "wikilink")、富士吉田市街などの様子の撮影も可能。高地に設置されているため風速80メートルまで耐えられるよう設計されており（平地の情報カメラは風速60メートルまで）、雷対策として新たに[避雷針](https://ja.wikipedia.org/wiki/避雷針 "wikilink")も設置されている\[1\]。
+      - [2019年](../Page/2019年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")より運用開始。運用は夏山シーズンを中心とした5月上旬から10月末まで。普段の放送で使用するほか、法定伝達先機関として災害発生時には現場の被害状況の映像を国や自治体に提供する。光学18倍のズームレンズを搭載し、[山頂](https://ja.wikipedia.org/wiki/山頂 "wikilink")付近だけでなく、天気がよければ[南アルプス](https://ja.wikipedia.org/wiki/南アルプス "wikilink")、[本栖湖](../Page/本栖湖.md "wikilink")、富士吉田市街などの様子の撮影も可能。高地に設置されているため風速80メートルまで耐えられるよう設計されており（平地の情報カメラは風速60メートルまで）、雷対策として新たに[避雷針](../Page/避雷針.md "wikilink")も設置されている\[1\]。
 
 ## 主な甲府局制作番組
 
@@ -87,7 +87,7 @@
 <!-- end list -->
 
   -
-    ※[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")では、以前は上記の番組は放送されず、主に関東ローカル向けの番組に差し替えられていた（ただし「もうすぐ-」の時間帯は[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")映像）。
+    ※[ワンセグ](../Page/ワンセグ.md "wikilink")では、以前は上記の番組は放送されず、主に関東ローカル向けの番組に差し替えられていた（ただし「もうすぐ-」の時間帯は[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")映像）。
 
 <!-- end list -->
 
@@ -190,7 +190,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大谷昌弘" title="wikilink">大谷昌弘</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK盛岡放送局" title="wikilink">盛岡</a></p></td>
+<td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -232,7 +232,7 @@
 </tr>
 <tr class="even">
 <td><p>平山裕子</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK福井放送局" title="wikilink">福井</a></p></td>
+<td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

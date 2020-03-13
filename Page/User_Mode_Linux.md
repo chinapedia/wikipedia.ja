@@ -7,7 +7,7 @@
 
 [Libvirt_support.svg](https://ja.wikipedia.org/wiki/File:Libvirt_support.svg "fig:Libvirt_support.svg")\]\] UMLの[カーネル](../Page/カーネル.md "wikilink")は、基本的にUML向けにコンパイルされたカーネルに、プログラムローダをくっつけた形に構築されており、Linux上で実行することで、プロセスの中で独立したLinuxが動作する構造となっている。[ホスト](https://ja.wikipedia.org/wiki/ホスト "wikilink")OSもLinuxであることが前提である。サポートしている CPU は x86-32 と x86-64。
 
-UML上で動作するゲストプロセスは[デバッガ](../Page/デバッガ.md "wikilink")などで使われる ptrace を使い、[システムコール](https://ja.wikipedia.org/wiki/システムコール "wikilink")や[シグナルを横取りし](../Page/シグナル_\(Unix\).md "wikilink")、それをホスト側に投げ、システムコールやシグナルを成立させている。ゲストプロセスのシステムコールは ptrace で横取りした際、EAX レジスタを書き換えて getpid() に置き換え無害化したうえで、UML 内からシステムコールを実行し、戻り値を EAX レジスタに設定して、ptrace でゲストプロセスを再開させる\[1\]。本来1往復だったシステムコールの[コンテキストスイッチ](https://ja.wikipedia.org/wiki/コンテキストスイッチ "wikilink")は4往復になる。Linux は [mmap](https://ja.wikipedia.org/wiki/mmap "wikilink") で MAP_FIXED を使うと、ユーザーモードからでも固定番地にメモリを確保できるが、それを利用して特定の番地にメモリを割り振っている。UML 自体は CPU の特権命令を一切使ってない。
+UML上で動作するゲストプロセスは[デバッガ](../Page/デバッガ.md "wikilink")などで使われる ptrace を使い、[システムコール](../Page/システムコール.md "wikilink")や[シグナルを横取りし](../Page/シグナル_\(Unix\).md "wikilink")、それをホスト側に投げ、システムコールやシグナルを成立させている。ゲストプロセスのシステムコールは ptrace で横取りした際、EAX レジスタを書き換えて getpid() に置き換え無害化したうえで、UML 内からシステムコールを実行し、戻り値を EAX レジスタに設定して、ptrace でゲストプロセスを再開させる\[1\]。本来1往復だったシステムコールの[コンテキストスイッチ](../Page/コンテキストスイッチ.md "wikilink")は4往復になる。Linux は [mmap](https://ja.wikipedia.org/wiki/mmap "wikilink") で MAP_FIXED を使うと、ユーザーモードからでも固定番地にメモリを確保できるが、それを利用して特定の番地にメモリを割り振っている。UML 自体は CPU の特権命令を一切使ってない。
 
 UMLカーネルは、ディスク資源、メモリ、ネットワークなどホストの資源を一部間借りすることができる。UML 用のデバイスドライバが作られている。特にディスクは、実際のディスクではなく、イメージファイルをディスクにみせかけることができるようになっている上、本来のイメージファイルに差分ファイルを組み合わせることで、イメージファイルに書き込みを行わずに利用することも可能となっている。そのため、単一イメージを複数のUMLで共有することも可能である。
 

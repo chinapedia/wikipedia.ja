@@ -1,26 +1,26 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/ファイル:NHK_Nagano.jpg "wikilink") **NHK長野放送局**（エヌエイチケイながのほうそうきょく）は、[長野県](../Page/長野県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](https://ja.wikipedia.org/wiki/日本放送協会放送局の一覧 "wikilink")。テレビとラジオで県域放送を行っている。
+[right](https://ja.wikipedia.org/wiki/ファイル:NHK_Nagano.jpg "wikilink") **NHK長野放送局**（エヌエイチケイながのほうそうきょく）は、[長野県](../Page/長野県.md "wikilink")を[放送対象地域とする](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[地域放送局](../Page/日本放送協会放送局の一覧.md "wikilink")。テレビとラジオで県域放送を行っている。
 
 ## 概要
 
 長野県は南北に広いため、中南部の[松本市](../Page/松本市.md "wikilink")に[1938年](../Page/1938年.md "wikilink")松本放送局が設置されたが、[1988年](../Page/1988年.md "wikilink")に[支局に降格され](https://ja.wikipedia.org/wiki/NHK松本支局 "wikilink")、中南信の報道取材・受信料事務の拠点となった。
 
-かつて放送会館は[長野市](../Page/長野市.md "wikilink")[城山公園](https://ja.wikipedia.org/wiki/城山公園_\(長野市\) "wikilink")（[善光寺](../Page/善光寺.md "wikilink")東側）にあったが、建物老朽化と[長野オリンピック開催を期に](../Page/1998年長野オリンピック.md "wikilink")、長野市[若里](https://ja.wikipedia.org/wiki/若里 "wikilink")の[ビッグハット](https://ja.wikipedia.org/wiki/長野市若里多目的スポーツアリーナ "wikilink")（長野オリンピックのアイスホッケー会場）前に新築移転している。現会館は[本局方式が採用され](../Page/NHK放送センター.md "wikilink")、五輪・パラリンピックの[国際放送センター](../Page/国際放送センター.md "wikilink")として先行運用開始となった。
+かつて放送会館は[長野市](../Page/長野市.md "wikilink")[城山公園](https://ja.wikipedia.org/wiki/城山公園_\(長野市\) "wikilink")（[善光寺](../Page/善光寺.md "wikilink")東側）にあったが、建物老朽化と[長野オリンピック開催を期に](../Page/1998年長野オリンピック.md "wikilink")、長野市[若里](https://ja.wikipedia.org/wiki/若里 "wikilink")の[ビッグハット](../Page/長野市若里多目的スポーツアリーナ.md "wikilink")（長野オリンピックのアイスホッケー会場）前に新築移転している。現会館は[本局方式が採用され](../Page/NHK放送センター.md "wikilink")、五輪・パラリンピックの[国際放送センター](../Page/国際放送センター.md "wikilink")として先行運用開始となった。
 
 ## 沿革
 
   - [1931年](../Page/1931年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") 長野放送局に本免許交付（呼出符号:JONK 周波数:635kc 出力:500W）。
   - [1931年](../Page/1931年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink") **[社団法人](../Page/社団法人.md "wikilink")日本放送協会長野放送局**開局、ラジオ放送を開始。
   - [1932年](../Page/1932年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") ラジオ第1放送の周波数を940kcに変更。
-  - [1933年](../Page/1933年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") 日本で初めて[野鳥](https://ja.wikipedia.org/wiki/野鳥 "wikilink")の啼き声の放送を企画、[戸隠山](https://ja.wikipedia.org/wiki/戸隠山 "wikilink")から日本全国への中継生放送に成功。
+  - [1933年](../Page/1933年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink") 日本で初めて[野鳥](https://ja.wikipedia.org/wiki/野鳥 "wikilink")の啼き声の放送を企画、[戸隠山](../Page/戸隠山.md "wikilink")から日本全国への中継生放送に成功。
   - [1936年](../Page/1936年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink") ラジオ第1放送の周波数を1040kcに変更。
   - [1942年](../Page/1942年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink") 飯田中継局、[社団法人](../Page/社団法人.md "wikilink")日本放送協会東京中央放送局の飯田臨時放送所として開局（当時呼出符号はなく、のちにJOAK7となり、JOSQに変更後、現在は廃止）。
   - [1948年](../Page/1948年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink") ラジオ第二放送開始。
   - [1950年](../Page/1950年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink") [放送法](../Page/放送法.md "wikilink")施行に伴い社団法人日本放送協会が解散。一切の権利義務は[特殊法人](../Page/特殊法人.md "wikilink")としての**日本放送協会**に継承。
   - [1957年](../Page/1957年.md "wikilink") [善光寺平テレビ中継局](../Page/長野盆地.md "wikilink")、NHK東京テレビの中継局として開局。
-  - [1958年](../Page/1958年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") 長野局としてのテレビ局が開局。[美ヶ原](https://ja.wikipedia.org/wiki/美ヶ原 "wikilink")送信所からのテレビ放送を開始する（チャンネル:2ch）。\[1\]
+  - [1958年](../Page/1958年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink") 長野局としてのテレビ局が開局。[美ヶ原](../Page/美ヶ原.md "wikilink")送信所からのテレビ放送を開始する（チャンネル:2ch）。\[1\]
   - [1962年](../Page/1962年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") 教育テレビ（チャンネル:9ch）が本放送を開始し、テレビが一局二波制となる。
   - [1963年](../Page/1963年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink") 総合テレビのカラー放送開始。
   - [1964年](../Page/1964年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") 教育テレビのカラー放送開始。
@@ -33,14 +33,14 @@
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[6月10日](../Page/6月10日.md "wikilink") 総合テレビの音声多重放送開始。
   - [1991年](../Page/1991年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") 教育テレビの音声多重放送開始。
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[5月11日](../Page/5月11日.md "wikilink") 放送会館を長野市[城山から長野市](https://ja.wikipedia.org/wiki/城山公園_\(長野市\) "wikilink")[若里](https://ja.wikipedia.org/wiki/若里 "wikilink")に移転。
-  - [2004年](../Page/2004年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink") [新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")発生、長野県内だけでなく新潟県[津南町](https://ja.wikipedia.org/wiki/津南町 "wikilink")、[十日町市](https://ja.wikipedia.org/wiki/十日町市 "wikilink")などの被害状況の中継も行う。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月10日](../Page/6月10日.md "wikilink") [地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")の予備免許を取得（長野の民放テレビ4局も同時に取得）。\[2\]
+  - [2004年](../Page/2004年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink") [新潟県中越地震](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")発生、長野県内だけでなく新潟県[津南町](../Page/津南町.md "wikilink")、[十日町市](../Page/十日町市.md "wikilink")などの被害状況の中継も行う。
+  - [2005年](../Page/2005年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") [地上デジタルテレビ放送](../Page/地上デジタルテレビ放送.md "wikilink")の予備免許を取得（長野の民放テレビ4局も同時に取得）。\[2\]
   - [2006年](../Page/2006年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink") 午前10時、地上波総合・教育デジタルテレビのサイマル試験放送を開始。これに伴い、ローカルニュース番組を初めとする、一部のローカル番組のハイビジョン放送も開始。 \[3\]
   - [2006年](../Page/2006年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink") 全部のテレビ・ラジオ放送が、統一型のデジタルマスターへ更新。
   - [2006年](../Page/2006年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink") 地上デジタルテレビ放送の本免許を取得。\[4\]
   - [2006年](../Page/2006年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") 午前5時（当日のプログラム開始時刻）に総合・教育の地上デジタルテレビの本放送を開始。\[5\]
   - [2007年](../Page/2007年.md "wikilink")[6月](../Page/6月.md "wikilink") [岐阜県](../Page/岐阜県.md "wikilink")[中津川市](../Page/中津川市.md "wikilink")と越境合併した旧[木曽郡](../Page/木曽郡.md "wikilink")[山口村内の](../Page/山口村_\(長野県\).md "wikilink")[テレビ中継所が](https://ja.wikipedia.org/wiki/NHK木曽山口テレビ中継放送所 "wikilink")、[NHK岐阜放送局](../Page/NHK岐阜放送局.md "wikilink")の中継所に変更される。\[6\]
-  - [2007年](../Page/2007年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") デジタル総合テレビにて、長野オリンピックスタジアムから、[北信越BCリーグ](../Page/ベースボール・チャレンジ・リーグ.md "wikilink")「[信濃グランセローズ](../Page/信濃グランセローズ.md "wikilink") 対 [新潟アルビレックス](https://ja.wikipedia.org/wiki/新潟アルビレックス・ベースボール・クラブ "wikilink") 」の実況生放送を、試合開始の18時から試合終了まで放送。長野放送局独自の放送内容としては、デジタル総合テレビ初のマルチ編成放送を行った。\[7\]
+  - [2007年](../Page/2007年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") デジタル総合テレビにて、長野オリンピックスタジアムから、[北信越BCリーグ](../Page/ベースボール・チャレンジ・リーグ.md "wikilink")「[信濃グランセローズ](../Page/信濃グランセローズ.md "wikilink") 対 [新潟アルビレックス](../Page/新潟アルビレックス・ベースボール・クラブ.md "wikilink") 」の実況生放送を、試合開始の18時から試合終了まで放送。長野放送局独自の放送内容としては、デジタル総合テレビ初のマルチ編成放送を行った。\[7\]
   - [2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") アナログ放送終了。同日の24時前に完全停波。
   - 2011年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") 長野放送局の屋上に太陽電池パネルが設置され、運用開始（出力:1KWh）。
   - [2016年](../Page/2016年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink") 松本支局に設けていた営業部分室を廃止し、中南信地域の営業関係業務を集約\[8\]。
@@ -129,7 +129,7 @@
 <!-- end list -->
 
   -
-    ※[ワンセグ](https://ja.wikipedia.org/wiki/ワンセグ "wikilink")では2006年まで、関東甲信越エリアを統括する[東京本局の内容を](../Page/NHK放送センター.md "wikilink")[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")していた（現在は長野放送局の番組を放送）。
+    ※[ワンセグ](../Page/ワンセグ.md "wikilink")では2006年まで、関東甲信越エリアを統括する[東京本局の内容を](../Page/NHK放送センター.md "wikilink")[サイマル放送](../Page/サイマル放送.md "wikilink")していた（現在は長野放送局の番組を放送）。
 
 ## 天気ループ
 
@@ -233,7 +233,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/西川典孝" title="wikilink">西川典孝</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK富山放送局" title="wikilink">富山</a></p></td>
+<td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td><p>イブニング信州（リポーター）<br />
 長野県のニュース</p></td>
 <td></td>

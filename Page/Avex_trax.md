@@ -13,9 +13,9 @@
 
   - avex trax
   - J-FRIENDS PROJECT（[V6が](../Page/V6_\(グループ\).md "wikilink")[TOKIO](../Page/TOKIO.md "wikilink")、[KinKi Kidsとの共同プロジェクト](../Page/KinKi_Kids.md "wikilink")「[J-FRIENDS](https://ja.wikipedia.org/wiki/J-FRIENDS "wikilink")」からリリースするときに使用したレーベル名・1997年 - 2003年）
-  - [SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")（[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")所属アーティスト専用レーベル・2000年設置）
+  - [SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")（[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属アーティスト専用レーベル・2000年設置）
       - 品番はAV\*D-16\*\*\*
-      - [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")（当時はソロ）がトイズファクトリーより、[MAXがavex](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink") traxより、[DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")・[AKINA](https://ja.wikipedia.org/wiki/AKINA_\(歌手\) "wikilink")\[1\]・[三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")が[avex tuneより移籍](https://ja.wikipedia.org/wiki/avex_tune "wikilink")
+      - [SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")（当時はソロ）がトイズファクトリーより、[MAXがavex](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink") traxより、[DA PUMP](../Page/DA_PUMP.md "wikilink")・[AKINA](../Page/AKINA_\(歌手\).md "wikilink")\[1\]・[三浦大知](../Page/三浦大知.md "wikilink")が[avex tuneより移籍](https://ja.wikipedia.org/wiki/avex_tune "wikilink")
   - motorod（もともとは[cutting edgeのサブレーベルだった](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")・2002年移管）
       - 品番はAV\*D-32\*\*\*
       - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")、[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")、[Oblivion Dust](https://ja.wikipedia.org/wiki/Oblivion_Dust "wikilink")、[DEAD END](https://ja.wikipedia.org/wiki/DEAD_END "wikilink")\[2\]が所属
@@ -49,7 +49,7 @@
   - [崎山つばさ](https://ja.wikipedia.org/wiki/崎山つばさ "wikilink") with 桜men (2017年〜)
   - [シシド・カフカ](https://ja.wikipedia.org/wiki/シシド・カフカ "wikilink") (2015年〜)（[インペリアル・レコード](../Page/インペリアルレコード_\(日本\).md "wikilink")([テイチクエンタテイメント](https://ja.wikipedia.org/wiki/テイチクエンタテイメント "wikilink"))より移籍）
   - [島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink") (1999年〜)
-      - 島谷ひとみ×[相田みつを](https://ja.wikipedia.org/wiki/相田みつを "wikilink") (2008年)
+      - 島谷ひとみ×[相田みつを](../Page/相田みつを.md "wikilink") (2008年)
   - [高野洸](https://ja.wikipedia.org/wiki/高野洸 "wikilink") (2019年〜)
   - [たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink") (2016年〜)
   - [チャラン・ポ・ランタン](https://ja.wikipedia.org/wiki/チャラン・ポ・ランタン "wikilink") (2014年〜)
@@ -58,7 +58,7 @@
       - [サ上と中江](https://ja.wikipedia.org/wiki/サ上と中江 "wikilink") (2015年)
       - 志田サマー新井サマー (2016年)
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink") (2011年〜)（rhythm zoneより移籍）\[5\]
-  - [ときめき♡宣伝部](https://ja.wikipedia.org/wiki/ときめき宣伝部 "wikilink")（2018年〜）（[ユニバーサルシグマから移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）
+  - [ときめき♡宣伝部](https://ja.wikipedia.org/wiki/ときめき宣伝部 "wikilink")（2018年〜）（[ユニバーサルシグマから移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
   - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink") (1998年〜)
   - [林部智史](https://ja.wikipedia.org/wiki/林部智史 "wikilink") (2016年〜)
   - [ピコ太郎](https://ja.wikipedia.org/wiki/ピコ太郎 "wikilink") (2016年〜)
@@ -66,7 +66,7 @@
   - [平井大](https://ja.wikipedia.org/wiki/平井大 "wikilink") (2013年〜)
   - [豚乙女](https://ja.wikipedia.org/wiki/豚乙女 "wikilink")(2017年〜)
   - [松居慶子](../Page/松居慶子.md "wikilink") (2011年〜)
-  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") (2009年〜)（[エレック](https://ja.wikipedia.org/wiki/エレックレコード "wikilink")→[ODYSSEY/CBSソニー](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")→[フォーライフ](../Page/フォーライフ・レコード.md "wikilink")→[インペリアルより移籍](../Page/インペリアルレコード_\(日本\).md "wikilink")）
+  - [吉田拓郎](https://ja.wikipedia.org/wiki/吉田拓郎 "wikilink") (2009年〜)（[エレック](https://ja.wikipedia.org/wiki/エレックレコード "wikilink")→[ODYSSEY/CBSソニー](../Page/ソニー・ミュージックレコーズ.md "wikilink")→[フォーライフ](../Page/フォーライフ・レコード.md "wikilink")→[インペリアルより移籍](../Page/インペリアルレコード_\(日本\).md "wikilink")）
   - [龍雅-Ryoga-](https://ja.wikipedia.org/wiki/龍雅-Ryoga- "wikilink") (2016年〜)
   - [和楽器バンド](https://ja.wikipedia.org/wiki/和楽器バンド "wikilink") (2014年〜)
       - [鈴華ゆう子](https://ja.wikipedia.org/wiki/鈴華ゆう子 "wikilink") (2016年)
@@ -75,7 +75,7 @@
 
 <div style="float:left; width:50%;">
 
-  - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink") (2005年〜)
+  - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink") (2005年〜)
       - [URATA NAOYA](../Page/浦田直也.md "wikilink") (2010年〜)
       - [與真司郎](../Page/與真司郎.md "wikilink") (2013年)
       - [SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink") (2013年〜)
@@ -95,13 +95,13 @@
   - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink") (1996年〜2018年)
       - [持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink") (2004年〜2012年,2019年)
           - [Caocao](https://ja.wikipedia.org/wiki/Caocao "wikilink") (2009年)
-      - [伊藤一朗](https://ja.wikipedia.org/wiki/伊藤一朗 "wikilink") (2009年)
+      - [伊藤一朗](../Page/伊藤一朗.md "wikilink") (2009年)
           - [はじめあきらとつくもちゃん](https://ja.wikipedia.org/wiki/はじめあきらとつくもちゃん "wikilink") (2018年)
   - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink") (2015年〜)
       - [EXO-CBX](https://ja.wikipedia.org/wiki/EXO-CBX "wikilink") (2017年〜)
   - [GIRLFRIEND](https://ja.wikipedia.org/wiki/GIRLFRIEND_\(バンド\) "wikilink") (2017年〜)
   - [Honey L Days](https://ja.wikipedia.org/wiki/Honey_L_Days "wikilink") (2008年〜)
-  - [Kis-My-Ft2](https://ja.wikipedia.org/wiki/Kis-My-Ft2 "wikilink") (2011年〜)
+  - [Kis-My-Ft2](../Page/Kis-My-Ft2.md "wikilink") (2011年〜)
       - [舞祭組](https://ja.wikipedia.org/wiki/舞祭組 "wikilink") (2013年〜)
   - [kolme](https://ja.wikipedia.org/wiki/kolme "wikilink") (2015年〜)
   - [lol](https://ja.wikipedia.org/wiki/lol_\(音楽グループ\) "wikilink") (2015年〜)
@@ -137,7 +137,7 @@
       - [Coming Century](../Page/V6_\(グループ\).md "wikilink")
   - [X21](https://ja.wikipedia.org/wiki/X21 "wikilink") (2014年〜)
       - [マジカル☆どりーみん](https://ja.wikipedia.org/wiki/マジカル☆どりーみん "wikilink") (2015年)
-  - [ゼブラヘッド](../Page/ゼブラヘッド.md "wikilink") (2019年〜) ([ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")から移籍。)
+  - [ゼブラヘッド](../Page/ゼブラヘッド.md "wikilink") (2019年〜) ([ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")から移籍。)
     </div>
 
 <div style="clear:both;">
@@ -154,22 +154,22 @@
       - [SUITE CHIC](../Page/SUITE_CHIC.md "wikilink") (2002年〜2003年)
   - [あびる優](../Page/あびる優.md "wikilink") (2001年)
   - [天方直実](https://ja.wikipedia.org/wiki/天方直実 "wikilink") (1996年〜1999年)
-  - [天野浩成](https://ja.wikipedia.org/wiki/天野浩成 "wikilink") (2005年〜2006年)
+  - [天野浩成](../Page/天野浩成.md "wikilink") (2005年〜2006年)
   - [甘WARS with 甘王](https://ja.wikipedia.org/wiki/甘王の共感スクール "wikilink") (2013年)
   - [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink") (2013年)
   - [荒木宏文](https://ja.wikipedia.org/wiki/荒木宏文 "wikilink") (2015年〜2016年)
   - [安良城紅](https://ja.wikipedia.org/wiki/BENI "wikilink") (2004年〜2008年)（BENIとして[NAYUTAWAVE RECORDSへ移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#ナユタウェイヴ_レコーズ "wikilink")）
   - [幾田愛子](https://ja.wikipedia.org/wiki/幾田愛子 "wikilink") (2006年)
-  - [石橋凌](https://ja.wikipedia.org/wiki/石橋凌 "wikilink") (2011年〜2015年)
+  - [石橋凌](../Page/石橋凌.md "wikilink") (2011年〜2015年)
   - [イ・テガン](https://ja.wikipedia.org/wiki/イ・テガン "wikilink") (2013年)
   - [稲森寿世](https://ja.wikipedia.org/wiki/稲森寿世 "wikilink") (2008年〜2009年)
-  - [岩代太郎](https://ja.wikipedia.org/wiki/岩代太郎 "wikilink") (2006年〜2012年)
+  - [岩代太郎](../Page/岩代太郎.md "wikilink") (2006年〜2012年)
   - [上田まり](../Page/上田まり.md "wikilink") (1998年〜2001年)
   - [上原多香子](https://ja.wikipedia.org/wiki/上原多香子 "wikilink") (2007年)
   - うさ (2011年)
   - [浦井健治](https://ja.wikipedia.org/wiki/浦井健治 "wikilink") (2016年)
   - [ウルトラタワー](https://ja.wikipedia.org/wiki/ウルトラタワー "wikilink") (2014年〜2017年3月20日解散)
-  - [及川光博](https://ja.wikipedia.org/wiki/及川光博 "wikilink") (2015年)
+  - [及川光博](../Page/及川光博.md "wikilink") (2015年)
   - [オーラルヴァンパイア](https://ja.wikipedia.org/wiki/オーラルヴァンパイア "wikilink") (2010年)
   - [尾関美穂](https://ja.wikipedia.org/wiki/尾関美穂 "wikilink") (2005年〜2006年)
   - [乙三](../Page/乙三.md "wikilink") (2006年〜2009年)
@@ -181,14 +181,14 @@
   - [鎧武乃風](https://ja.wikipedia.org/wiki/鎧武乃風 "wikilink") (2013年〜2014年)
   - [鍵山由佳](https://ja.wikipedia.org/wiki/鍵山由佳 "wikilink") (2009年)
   - [片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink") (2002年〜2005年)（音楽活動を休止）
-  - [加藤和樹](https://ja.wikipedia.org/wiki/加藤和樹 "wikilink") (2007年〜2013年)
+  - [加藤和樹](../Page/加藤和樹.md "wikilink") (2007年〜2013年)
   - [カフェラテ噴水公園](https://ja.wikipedia.org/wiki/カフェラテ噴水公園 "wikilink") (2018年)
   - [上木彩矢](https://ja.wikipedia.org/wiki/上木彩矢 "wikilink") (2010年〜2011年)（[GIZA studioより移籍](../Page/GIZA_studio.md "wikilink")→インディーズへ移籍→ポニーキャニオンへ移籍）
-  - [嘉陽愛子](https://ja.wikipedia.org/wiki/嘉陽愛子 "wikilink") (2003年〜2007年)
+  - [嘉陽愛子](../Page/嘉陽愛子.md "wikilink") (2003年〜2007年)
   - [キーヤキッス](../Page/キーヤキッス.md "wikilink") (2000年〜2001年)（解散）
   - [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink") (2010年〜2016年)
   - [キム・ヒョンジュン](https://ja.wikipedia.org/wiki/キム・ヒョンジュン "wikilink")（[SS501](../Page/SS501.md "wikilink")） (2011年)
-  - [キリト](https://ja.wikipedia.org/wiki/キリト "wikilink") (2005年〜2006年)
+  - [キリト](../Page/キリト.md "wikilink") (2005年〜2006年)
   - [クラムボン](https://ja.wikipedia.org/wiki/クラムボン_\(バンド\) "wikilink") (2012年)
   - [クレモンティーヌ](https://ja.wikipedia.org/wiki/クレモンティーヌ "wikilink") (2014年)
   - [黒夢](../Page/黒夢.md "wikilink") (2011年〜2014年)（解散）
@@ -196,7 +196,7 @@
   - [元気ロケッツ](../Page/元気ロケッツ.md "wikilink") (2007年〜2008年)
   - [光上せあら](../Page/光上せあら.md "wikilink") (2009年)
   - [極楽ボーイズ](../Page/ぶっせん.md "wikilink") (2013年)
-  - [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink") (2010年〜2012年)（[PICCOLO TOWN](https://ja.wikipedia.org/wiki/アップフロントワークス "wikilink")→rhythm zoneより移籍）
+  - [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink") (2010年〜2012年)（[PICCOLO TOWN](../Page/アップフロントワークス.md "wikilink")→rhythm zoneより移籍）
   - [コトリンゴ](../Page/コトリンゴ.md "wikilink") (2010年)
   - [斉藤未知](../Page/斉藤未知.md "wikilink") (2005年〜2006年)
   - [桜井美南](https://ja.wikipedia.org/wiki/桜井美南 "wikilink") (2014年)
@@ -224,7 +224,7 @@
   - [仙台貨物](../Page/仙台貨物.md "wikilink") (2013年〜2014年)
   - [ソン・シギョン](https://ja.wikipedia.org/wiki/ソン・シギョン "wikilink") (2017年)
   - [高木里代子](https://ja.wikipedia.org/wiki/高木里代子 "wikilink") (2016年)
-  - [高橋克典](https://ja.wikipedia.org/wiki/高橋克典 "wikilink") (2000年〜2003年)
+  - [高橋克典](../Page/高橋克典.md "wikilink") (2000年〜2003年)
   - [たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink") (2011年)
   - [立川こしら](../Page/立川こしら.md "wikilink") (2011年〜2017年)
   - [立川俊之](../Page/立川俊之.md "wikilink") (2016年)
@@ -247,7 +247,7 @@
   - [富永TOMMY弘明](https://ja.wikipedia.org/wiki/BLUFF_\(バンド\)#メンバー "wikilink") (2013年)
   - [長澤奈央](https://ja.wikipedia.org/wiki/長澤奈央 "wikilink") (2005年〜2008年)
   - [中川あゆみ](https://ja.wikipedia.org/wiki/中川あゆみ "wikilink") (2010年〜2011年)
-  - [中邑真輔](https://ja.wikipedia.org/wiki/中邑真輔 "wikilink") (2006年)
+  - [中邑真輔](../Page/中邑真輔.md "wikilink") (2006年)
   - [中村優](../Page/中村優.md "wikilink") (2009年)
   - [成田圭](https://ja.wikipedia.org/wiki/成田圭 "wikilink") (2009年)
   - [南天マン](https://ja.wikipedia.org/wiki/南天マン "wikilink") (2008年)
@@ -271,26 +271,26 @@
   - [増田有華](https://ja.wikipedia.org/wiki/増田有華 "wikilink") (2017年)
   - [松下萌子](../Page/松下萌子.md "wikilink") (2001年〜2003年)
   - [マリーンズカンパイガールズ](https://ja.wikipedia.org/wiki/マリーンズカンパイガールズ "wikilink") (2015年〜2016年)
-  - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink") (2009年)
+  - [三浦大知](../Page/三浦大知.md "wikilink") (2009年)
   - [ミソッカス](../Page/ミソッカス.md "wikilink") (2015年〜2017年)
   - [宮﨑薫](https://ja.wikipedia.org/wiki/宮﨑薫 "wikilink") (2012年)
   - [宮脇詩音](../Page/宮脇詩音.md "wikilink") (2015年〜2016年)（rhythm zoneより移籍）
   - [実谷なな](https://ja.wikipedia.org/wiki/実谷なな "wikilink") (年〜年)
   - [メンタメ・オールスターズ](https://ja.wikipedia.org/wiki/メンタメ・オールスターズ "wikilink") (2011年)
-  - [森ひろこ](https://ja.wikipedia.org/wiki/森ひろこ "wikilink") (1999年〜2000年)
+  - [森ひろこ](../Page/森ひろこ.md "wikilink") (1999年〜2000年)
   - [矢島美容室](https://ja.wikipedia.org/wiki/矢島美容室 "wikilink") (2008年〜2010年)
-  - [山上兄弟](https://ja.wikipedia.org/wiki/山上兄弟 "wikilink") (2007年)
+  - [山上兄弟](../Page/山上兄弟.md "wikilink") (2007年)
   - [山本サヤカ](https://ja.wikipedia.org/wiki/山本サヤカ "wikilink") (2005年〜2006年)
   - [弥生](https://ja.wikipedia.org/wiki/弥生_\(歌手\) "wikilink") (2008年〜2009年)
   - [優梨花](https://ja.wikipedia.org/wiki/優梨花 "wikilink") (2012年)
   - [妖怪プロジェクト](../Page/妖怪プロジェクト.md "wikilink") (2006年〜2008年)
   - [ラムジ](../Page/ラムジ_\(音楽ユニット\).md "wikilink") (2005年〜2008年)
   - [蘭華](https://ja.wikipedia.org/wiki/蘭華 "wikilink") (2015年)
-  - [リュ・シウォン](../Page/リュ・シウォン.md "wikilink") (2011年〜2013年)（[徳間ジャパンコミュニケーションズ](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")より移籍）
-  - [梨花](https://ja.wikipedia.org/wiki/梨花 "wikilink") (2006年〜2007年)
+  - [リュ・シウォン](../Page/リュ・シウォン.md "wikilink") (2011年〜2013年)（[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")より移籍）
+  - [梨花](../Page/梨花.md "wikilink") (2006年〜2007年)
   - [Risky](https://ja.wikipedia.org/wiki/島崎和歌子#Risky "wikilink") (1999年)
   - [ルミカ](../Page/ルミカ.md "wikilink") (2009年)
-  - [レミオロメン](https://ja.wikipedia.org/wiki/レミオロメン "wikilink") (2009年)
+  - [レミオロメン](../Page/レミオロメン.md "wikilink") (2009年)
   - [ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink") (2000年〜2006年)
       - [たむらあつし](../Page/田村淳.md "wikilink") (2002年)
   - [和央ようか](../Page/和央ようか.md "wikilink") (2000年)
@@ -314,7 +314,7 @@
   - [BiS](https://ja.wikipedia.org/wiki/BiS "wikilink") (2012年〜2015年)（解散）
       - [BiS階段](https://ja.wikipedia.org/wiki/BiS階段 "wikilink") (2013年〜2014年)
   - [Bomber HEY\!\!](https://ja.wikipedia.org/wiki/Bomber_HEY!! "wikilink") (2009年)
-  - [BREATH](https://ja.wikipedia.org/wiki/BREATH_\(バンド\) "wikilink") (2001年〜2005年)（解散）
+  - [BREATH](../Page/BREATH_\(バンド\).md "wikilink") (2001年〜2005年)（解散）
   - [Buzz72+](../Page/Buzz72+.md "wikilink") (2005年〜2007年)
   - [C-999](../Page/C-999.md "wikilink") (2008年)
   - [Candy](../Page/Candy_\(歌手\).md "wikilink") (2005年)
@@ -335,8 +335,8 @@
   - [DJ YUTAKA](../Page/DJ_YUTAKA.md "wikilink") (2000年〜2001年)
   - [DJハローキティ](../Page/ハローキティ.md "wikilink") (2010年〜2011年)
   - [DiVA](https://ja.wikipedia.org/wiki/DiVA "wikilink") (2011年〜2014年)（解散）
-  - [D-LOOP](https://ja.wikipedia.org/wiki/D-LOOP "wikilink") (1997年〜2004年)（活動終了）
-  - [Dorothy Little Happy](https://ja.wikipedia.org/wiki/Dorothy_Little_Happy "wikilink") (2011年〜2015年)（[UNIVERSAL GEARへ移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）
+  - [D-LOOP](../Page/D-LOOP.md "wikilink") (1997年〜2004年)（活動終了）
+  - [Dorothy Little Happy](https://ja.wikipedia.org/wiki/Dorothy_Little_Happy "wikilink") (2011年〜2015年)（[UNIVERSAL GEARへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
   - [DOZ](https://ja.wikipedia.org/wiki/DOZ "wikilink") (2010年)
   - [DMBQ](../Page/DMBQ.md "wikilink") (2002年〜2005年)
   - [Dramatic Crew](https://ja.wikipedia.org/wiki/Dramatic_Crew "wikilink") (2011年)
@@ -347,7 +347,7 @@
   - [EU・PHORIA](https://ja.wikipedia.org/wiki/EU・PHORIA "wikilink") (2007年〜2008年)
   - [FPM](../Page/Fantastic_Plastic_Machine.md "wikilink")（Fantastic Plastic Machine） (2001年,2007年〜2016年)
       - [SymmetryS](../Page/SymmetryS.md "wikilink") (2008年)
-  - [Favorite Blue](https://ja.wikipedia.org/wiki/Favorite_Blue "wikilink") (1996年〜2000年)（解散）
+  - [Favorite Blue](../Page/Favorite_Blue.md "wikilink") (1996年〜2000年)（解散）
   - [Fayray](https://ja.wikipedia.org/wiki/Fayray "wikilink") (2001年〜2003年)([R and Cへ移籍](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink"))
   - [FOE](https://ja.wikipedia.org/wiki/FOE "wikilink") (2009年)
   - [f(x)](https://ja.wikipedia.org/wiki/f\(x\) "wikilink") (2015年〜2016年)
@@ -357,7 +357,7 @@
   - [girl next door](https://ja.wikipedia.org/wiki/girl_next_door "wikilink")（2008年～2013年)（解散）
   - [Goodbye holiday](https://ja.wikipedia.org/wiki/Goodbye_holiday "wikilink") (2015年〜2018年5月13日解散)
   - [GOタリモ & ミニカレー](../Page/恋の400Mカレー.md "wikilink") (2001年)
-  - [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink") (2000年〜2003年)（ボーカル[HΛLNA脱退後リリース停止](https://ja.wikipedia.org/wiki/浜田春菜 "wikilink")）
+  - [HΛL](../Page/HΛL.md "wikilink") (2000年〜2003年)（ボーカル[HΛLNA脱退後リリース停止](https://ja.wikipedia.org/wiki/浜田春菜 "wikilink")）
   - [Happy Dance](https://ja.wikipedia.org/wiki/Happy_Dance "wikilink") (2014年)
   - [hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink") (1994年〜2009年)
   - [HY](https://ja.wikipedia.org/wiki/HY_\(バンド\) "wikilink") (2014年)
@@ -388,19 +388,19 @@
   - [minus(-)](https://ja.wikipedia.org/wiki/minus\(-\) "wikilink") (2015年〜2018年)
   - [Miracle Vell Magic](https://ja.wikipedia.org/wiki/Miracle_Vell_Magic "wikilink") (2016年)
   - [MISSION](../Page/MISSION.md "wikilink") (1998年〜1999年)（解散）
-  - [MOON CHILD](https://ja.wikipedia.org/wiki/MOON_CHILD_\(バンド\) "wikilink") (1996年〜1999年)（解散）
+  - [MOON CHILD](../Page/MOON_CHILD_\(バンド\).md "wikilink") (1996年〜1999年)（解散）
   - [Mother Ninja](../Page/Mother_Ninja.md "wikilink") (2007年)
   - [Mr.マリック](../Page/Mr.マリック.md "wikilink") (2005年)
   - [NEO fromアイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\)#NEO_fromアイドリング!!! "wikilink") (2013年〜2014年)（活動終了）
   - [NGS365](https://ja.wikipedia.org/wiki/NGS365 "wikilink") (2013年)
-  - [O-Zone](https://ja.wikipedia.org/wiki/O-Zone "wikilink") (2005年)
+  - [O-Zone](../Page/O-Zone.md "wikilink") (2005年)
   - [PARADISE GO\!\! GO\!\!](../Page/PARADISE_GO!!_GO!!.md "wikilink") (2004年〜2006年)（事実上活動終了）
-  - [Party Rockets](https://ja.wikipedia.org/wiki/Party_Rockets "wikilink") (2012年)（[ROCKET BEATSへ移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）
+  - [Party Rockets](https://ja.wikipedia.org/wiki/Party_Rockets "wikilink") (2012年)（[ROCKET BEATSへ移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
   - [Purple Days](https://ja.wikipedia.org/wiki/Purple_Days "wikilink") (2010年〜2012年)
   - [Q;indivi](../Page/Q;indivi.md "wikilink") (2007年〜2008年)
   - [Questy](https://ja.wikipedia.org/wiki/Questy "wikilink")（2016年）
   - [ravex](https://ja.wikipedia.org/wiki/ravex "wikilink") (2008年〜2009年)
-  - [Re:Japan](https://ja.wikipedia.org/wiki/Re:Japan "wikilink") (2001年〜2002年)（解散）
+  - [Re:Japan](../Page/Re:Japan.md "wikilink") (2001年〜2002年)（解散）
   - [Ricken's](../Page/Ricken's.md "wikilink") (2004年〜2006年)
   - [RIDER CHIPS](../Page/RIDER_CHIPS.md "wikilink")（2014年）（avex entertainmentより移籍）
   - [Rin'](../Page/Rin'.md "wikilink") (2004年〜2007年)
@@ -416,7 +416,7 @@
   - [SHORT LEG SUMMER](../Page/SHORT_LEG_SUMMER.md "wikilink") (2007年〜2009年)
   - [SHU:DO](https://ja.wikipedia.org/wiki/SHU:DO "wikilink") (1997年〜1999年)
   - [SHU-I](https://ja.wikipedia.org/wiki/SHU-I "wikilink") (2011年〜2013年)
-  - [SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink") (2011年〜2013年)（[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")→東芝EMI→[ユニバーサルより移籍](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）\[10\]
+  - [SOPHIA](../Page/SOPHIA.md "wikilink") (2011年〜2013年)（[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")→東芝EMI→[ユニバーサルより移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）\[10\]
       - [Mitsuru Matsuoka EARNEST DRIVE](../Page/松岡充.md "wikilink") (2014年〜2015年)
   - [SOULHEAD](../Page/SOULHEAD.md "wikilink") (2010年〜2011年)（アソシエイテッドレコーズより移籍）
   - [Spark](https://ja.wikipedia.org/wiki/Spark "wikilink") (1999年〜2001年)（解散）
@@ -431,7 +431,7 @@
   - Sunday([天上智喜](../Page/天上智喜The_Grace.md "wikilink")) (2004年〜2005年)
   - [SweetS](https://ja.wikipedia.org/wiki/SweetS "wikilink") (2003年〜2006年)（解散）
   - [teranoid\&MCnatsack](https://ja.wikipedia.org/wiki/teranoid&MCnatsack "wikilink") (2006年)
-  - [THE BLACK COMET CLUB BAND](https://ja.wikipedia.org/wiki/THE_BLACK_COMET_CLUB_BAND "wikilink") (2016年)
+  - [THE BLACK COMET CLUB BAND](../Page/THE_BLACK_COMET_CLUB_BAND.md "wikilink") (2016年)
   - [THE KIDDIE](https://ja.wikipedia.org/wiki/THE_KIDDIE "wikilink") (2014年)
   - [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink") (2007年〜2016年)（[キングレコード](../Page/キングレコード.md "wikilink")→avex trax→DELICIOUS LABEL）
   - [THE REBOOT](https://ja.wikipedia.org/wiki/THE_REBOOT "wikilink") (2009年)
@@ -441,7 +441,7 @@
   - [TOKYO CALL PROJECT](https://ja.wikipedia.org/wiki/TOKYO_CALL_PROJECT "wikilink") (2006年〜2007年)
   - [TOKYO No.1 SOUL SET](../Page/TOKYO_No.1_SOUL_SET.md "wikilink") (2012年〜2013年)
   - [tomboy](https://ja.wikipedia.org/wiki/tomboy "wikilink") (2007年)
-  - [Tourbillon](https://ja.wikipedia.org/wiki/Tourbillon_\(バンド\) "wikilink") (2005年〜2016年)
+  - [Tourbillon](../Page/Tourbillon_\(バンド\).md "wikilink") (2005年〜2016年)
   - [TRF](../Page/TRF.md "wikilink") (1993年〜2009年,2012年〜2013年)
   - [TRINITY](../Page/TRINITY_\(アーティスト\).md "wikilink") (1999年〜2001年)（解散）
   - [UKAWANIMATION\!](https://ja.wikipedia.org/wiki/UKAWANIMATION! "wikilink") (2008年)
@@ -469,7 +469,7 @@
 ## エイベックス内の他のレーベルへ移籍したアーティスト
 
   - [cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")（ロックなどを中心においたレーベル）
-      - [J](https://ja.wikipedia.org/wiki/J_\(ミュージシャン\) "wikilink") (2007年)
+      - [J](../Page/J_\(ミュージシャン\).md "wikilink") (2007年)
       - [OLIVIA](https://ja.wikipedia.org/wiki/OLIVIA_\(日本の歌手\) "wikilink") (1999年〜2003年)
   - [rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")（R\&Bなどを中心においたレーベル）
       - [Dream](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")（元dream・DRM） (2000年〜2007年)
@@ -485,8 +485,8 @@
       - [D](https://ja.wikipedia.org/wiki/D_\(バンド\) "wikilink") (2008年〜2010年)
       - [kannivalism](https://ja.wikipedia.org/wiki/kannivalism "wikilink") (2006年〜2010年)
       - [LUNA SEA](../Page/LUNA_SEA.md "wikilink") (2008年)
-          - [河村隆一](https://ja.wikipedia.org/wiki/河村隆一 "wikilink") (2009年〜2013年)
-      - [マーティ・フリードマン](https://ja.wikipedia.org/wiki/マーティ・フリードマン "wikilink") (2006年〜2011年)
+          - [河村隆一](../Page/河村隆一.md "wikilink") (2009年〜2013年)
+      - [マーティ・フリードマン](../Page/マーティ・フリードマン.md "wikilink") (2006年〜2011年)
   - [ヤマハミュージックコミュニケーションズ](../Page/ヤマハミュージックコミュニケーションズ.md "wikilink")（※流通をエイベックスが行っている）
       - [中村中](https://ja.wikipedia.org/wiki/中村中 "wikilink") (2006年〜2011年)
   - [blowgrow](https://ja.wikipedia.org/wiki/blowgrow "wikilink")
@@ -527,14 +527,14 @@
   - avex 15th Anniversary PRESENTS 15YEARS150HITS INTERNATIONAL 50HIT TRACKS(2003年07月30日/AVCD-17334)
   - avex 15th Anniversary PRESENTS 15年150曲 Complete Box(2003年07月30日/AVCD-17335)
   - [X-TRAIL JAM](../Page/X-TRAIL_JAM.md "wikilink") JAM(2003年11月12日/AVCD-17384)
-  - 「[速報\!歌の大辞テン](https://ja.wikipedia.org/wiki/速報!歌の大辞テン "wikilink")\!\!」presents POPS DAIJITEN\! 昭和 VS 平成(2005年03月02日/AVCD-17648)
+  - 「[速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")\!\!」presents POPS DAIJITEN\! 昭和 VS 平成(2005年03月02日/AVCD-17648)
   - 「速報\!歌の大辞テン\!\!」presents BALLADS DAIJITEN\! 昭和VS平成(2005年03月02日/AVCD-17649)
   - [THE GREATEST HITS - 小室哲哉作品集 - a](https://ja.wikipedia.org/wiki/THE_GREATEST_HITS_-_小室哲哉作品集_-_a "wikilink")(2006年02月22日/AVCD-17780)
   - [李家幽竹](../Page/李家幽竹.md "wikilink") フルール yuchiku selection(2006年03月29日/AVCD-17819)
   - ROCK THE [ULTRAMAN](https://ja.wikipedia.org/wiki/ULTRAMAN "wikilink")(2006年05月10日/AVCD-17953)
   - Thanx Grateful to you(2006年06月07日/AVCD-17973)
   - Beautiful Woman(2006年11月08日/AVCD-23079)
-  - 『[歌スタ\!\!](https://ja.wikipedia.org/wiki/歌スタ!! "wikilink")』エイベックス・スペシャル・エディション -SONG OF LIFE-(2006年12月06日/AVCD-23105)
+  - 『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』エイベックス・スペシャル・エディション -SONG OF LIFE-(2006年12月06日/AVCD-23105)
   - YEAH\!\!(2006年12月06日/AVCD-23098)
   - ガールズ・バラード・ベスト ～ティア ドロップス～(2007年03月07日/AVCD-23233)
   - Regain(2007年07月11日/AVCD-23347)
@@ -626,7 +626,7 @@
 1.  現在は離脱、なお2012年に[Folder5](../Page/Folder5.md "wikilink")（事実上活動終了）が移管された
 2.  DEAD ENDのみ一部タイトルの品番がavex traxのものになっている
 3.  但し2011年の一時期のみavex傘下のインディーズレーベルMAXIMUM 10を利用
-4.  レーベル名を**影別苦須 虎津苦須**（avex traxの[当て字](https://ja.wikipedia.org/wiki/当て字 "wikilink")）としている
+4.  レーベル名を**影別苦須 虎津苦須**（avex traxの[当て字](../Page/当て字.md "wikilink")）としている
 5.  [SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")所属アーティスト用の規格番号"AV\*K-79\*\*\*"を用いている
 6.
 7.

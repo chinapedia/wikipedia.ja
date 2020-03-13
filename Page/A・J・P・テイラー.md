@@ -3,7 +3,7 @@
 
 **アラン・ジョン・パーシヴァル・テイラー**（Alan John Percivale Taylor, [1906年](../Page/1906年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月7日](../Page/9月7日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[歴史家](../Page/歴史家.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")近現代史を専門とし、一般向けを含め数多くの著書を著した。
 
-[イングランド](../Page/イングランド.md "wikilink")の[サウスポート](https://ja.wikipedia.org/wiki/サウスポート "wikilink")（当時は[ランカシャー](../Page/ランカシャー.md "wikilink")、現在は[マージーサイド](https://ja.wikipedia.org/wiki/マージーサイド "wikilink")）に生まれた。[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")の[オリオル・カレッジ卒業後](../Page/オリオル・カレッジ_\(オックスフォード大学\).md "wikilink")、[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")に2年間留学し、アルフレッド・プリブラムの指導を受ける。[マンチェスター大学](../Page/マンチェスター大学.md "wikilink")歴史学部講師を経て、[1938年](../Page/1938年.md "wikilink")からオックスフォード大学[モードリン・カレッジで教鞭をとる](https://ja.wikipedia.org/wiki/モードリン・カレッジ_\(オックスフォード大学\) "wikilink")。[1956年](../Page/1956年.md "wikilink")に[イギリス学士院](https://ja.wikipedia.org/wiki/イギリス学士院 "wikilink")会員に選出される。
+[イングランド](../Page/イングランド.md "wikilink")の[サウスポート](https://ja.wikipedia.org/wiki/サウスポート "wikilink")（当時は[ランカシャー](../Page/ランカシャー.md "wikilink")、現在は[マージーサイド](../Page/マージーサイド.md "wikilink")）に生まれた。[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")の[オリオル・カレッジ卒業後](../Page/オリオル・カレッジ_\(オックスフォード大学\).md "wikilink")、[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")に2年間留学し、アルフレッド・プリブラムの指導を受ける。[マンチェスター大学](../Page/マンチェスター大学.md "wikilink")歴史学部講師を経て、[1938年](../Page/1938年.md "wikilink")からオックスフォード大学[モードリン・カレッジで教鞭をとる](https://ja.wikipedia.org/wiki/モードリン・カレッジ_\(オックスフォード大学\) "wikilink")。[1956年](../Page/1956年.md "wikilink")に[イギリス学士院](https://ja.wikipedia.org/wiki/イギリス学士院 "wikilink")会員に選出される。
 
 ## 評価
 
@@ -45,7 +45,7 @@
 <!-- end list -->
 
   -
-    [真壁広道](https://ja.wikipedia.org/wiki/真壁広道 "wikilink")訳『トラブルメーカーズ――イギリスの外交政策に反対した人々 1792-1939』（[法政大学出版局](https://ja.wikipedia.org/wiki/法政大学出版局 "wikilink"), 2002年）
+    [真壁広道](https://ja.wikipedia.org/wiki/真壁広道 "wikilink")訳『トラブルメーカーズ――イギリスの外交政策に反対した人々 1792-1939』（[法政大学出版局](../Page/法政大学出版局.md "wikilink"), 2002年）
 
 <!-- end list -->
 
@@ -83,7 +83,7 @@
 <!-- end list -->
 
   -
-    [川端末人](https://ja.wikipedia.org/wiki/川端末人 "wikilink")・[岡俊孝](https://ja.wikipedia.org/wiki/岡俊孝 "wikilink")訳『ヨーロッパ・栄光と凋落――近代ヨーロッパ政治外交史論』（[未來社](https://ja.wikipedia.org/wiki/未來社 "wikilink"), 1975年、新版1994年）
+    [川端末人](https://ja.wikipedia.org/wiki/川端末人 "wikilink")・[岡俊孝](https://ja.wikipedia.org/wiki/岡俊孝 "wikilink")訳『ヨーロッパ・栄光と凋落――近代ヨーロッパ政治外交史論』（[未來社](../Page/未來社.md "wikilink"), 1975年、新版1994年）
 
 <!-- end list -->
 

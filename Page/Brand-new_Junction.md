@@ -10,9 +10,9 @@
   - [アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")が[パーソナリティ並びに](../Page/ラジオパーソナリティ.md "wikilink")[ディレクター](../Page/ディレクター.md "wikilink")業務を兼ねる[ワンマン](https://ja.wikipedia.org/wiki/ワンマン "wikilink")放送である\[1\]。
   - 放送開始当時は、K-MIXの女性アナウンサー全員が曜日毎に出演していた。
   - 2011年4月より、番組開始以来初めて男性パーソナリティが出演する。
-  - [正月三が日](https://ja.wikipedia.org/wiki/正月三が日 "wikilink")は番組が休止される。かつては[JFNから番組を受けていた](../Page/全国FM放送協議会.md "wikilink")。
-      - 2007年[1月1日](../Page/1月1日.md "wikilink")、[2日は特別番組](../Page/1月2日.md "wikilink")、[1月3日](../Page/1月3日.md "wikilink")には「ユミコーリン」を主体にした新春[特番](https://ja.wikipedia.org/wiki/特別番組 "wikilink")「GO GO Wゆみこ」が7:30 - 13:00に放送された。
-      - 2008年以降は、特別番組「タナツカ賀正」が放送されていた（TOKYO FM送出の時間帯、ニュース、交通情報、天気予報、[ラジオショッピング](https://ja.wikipedia.org/wiki/ラジオショッピング "wikilink")は通常通り）。
+  - [正月三が日](../Page/正月三が日.md "wikilink")は番組が休止される。かつては[JFNから番組を受けていた](../Page/全国FM放送協議会.md "wikilink")。
+      - 2007年[1月1日](../Page/1月1日.md "wikilink")、[2日は特別番組](../Page/1月2日.md "wikilink")、[1月3日](../Page/1月3日.md "wikilink")には「ユミコーリン」を主体にした新春[特番](../Page/特別番組.md "wikilink")「GO GO Wゆみこ」が7:30 - 13:00に放送された。
+      - 2008年以降は、特別番組「タナツカ賀正」が放送されていた（TOKYO FM送出の時間帯、ニュース、交通情報、天気予報、[ラジオショッピング](../Page/ラジオショッピング.md "wikilink")は通常通り）。
       - 2012年1月2日、3日は通常通り番組が放送された。
   - 2013年3月29日 - 番組終了。
 
@@ -68,7 +68,7 @@
         道路交通情報と[JR東海運行情報](../Page/東海旅客鉄道.md "wikilink")。
   - 7:53 - 7:56 - **Brand-new Weather Information**
       -
-        [BGMは週替わり](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。
+        [BGMは週替わり](../Page/バックグラウンドミュージック.md "wikilink")。
   - 7:57 - 7:58 - **Brand-new Stock**
       -
         [東京証券取引所](../Page/東京証券取引所.md "wikilink")における前営業日の[日経平均株価](../Page/日経平均株価.md "wikilink")と[TOPIX](https://ja.wikipedia.org/wiki/TOPIX "wikilink")の終値。
@@ -106,9 +106,9 @@
 
 ## プレゼントコーナー
 
-  - [リスナー](https://ja.wikipedia.org/wiki/リスナー "wikilink")へ直接電話をしてキーワードを答えると、日替わりの商品がプレゼントされる。
+  - [リスナー](../Page/リスナー.md "wikilink")へ直接電話をしてキーワードを答えると、日替わりの商品がプレゼントされる。
       - 前番組のK-MIX MORNING CUEでは、「デリシャス・コール」としてコーナーが続いていたが、番組打ち切りに伴い終了した。
-      - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月より、寺田・廣木両アナウンサーの名前からとった「ユミコーリン」が開始し、2年ぶりに朝の番組でのプレゼントコーナーが再開した。
+      - [2005年](../Page/2005年.md "wikilink")4月より、寺田・廣木両アナウンサーの名前からとった「ユミコーリン」が開始し、2年ぶりに朝の番組でのプレゼントコーナーが再開した。
       - 以後、2007年4月に高原アナが加わり「ユカコーリン」、2008年4月から宮本アナが加わり「ジュンコーリン」とパーソナリティによってタイトルが変更されている。
       - 2009年4月にタイトルがリニューアルし、「Happy Delivery〜来々電〜」となった。新聞ラジオ欄、[タイムテーブルの表記は](https://ja.wikipedia.org/wiki/番組表 "wikilink")「幸福的配達〜来々電〜」。
 

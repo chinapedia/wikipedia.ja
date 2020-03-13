@@ -1,7 +1,7 @@
 > この記事は[Channel-a](https://ja.wikipedia.org/wiki/Channel-a)から翻訳されています。
 
 
-**Channel a**（チャンネル エー）は、 [エイベックス所属の](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")が出演し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで放送された[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）制作で、全国各地で主に[深夜](../Page/深夜.md "wikilink")のローカル枠を中心に放送された。
+**Channel a**（チャンネル エー）は、 [エイベックス所属の](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")が出演し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")まで放送された[音楽番組](../Page/音楽番組.md "wikilink")。[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")（tvk）制作で、全国各地で主に[深夜](../Page/深夜.md "wikilink")のローカル枠を中心に放送された。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 マイナーチェンジを経て長らく放送されてきたが、2009年9月3日から4週にわたった『**最初で最後の大総集編スペシャル\!〰10年間ありがとうございました〰**』が放送され、同年9月24日放送の回をもって11年間の歴史に幕を閉じた。総放送回数は573回だった。
 
-制作はavex\&EAST。製作著作はtvkとエイベックス・グループ。首都圏の[独立UHF局](../Page/全国独立放送協議会.md "wikilink")（tvk、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[チバテレ](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）ではエイベックス一社単独の[冠スポンサー](https://ja.wikipedia.org/wiki/冠スポンサー "wikilink")（事実上の[一社提供](../Page/一社提供.md "wikilink")）で放送されたが、もともとローカルセールス枠だったため、地方局では必ずしもエイベックスが提供に付かず、別のスポットCMで放送されていた。代わりに他の企業のCMか、他の[番組宣伝](../Page/番組宣伝.md "wikilink")、時にはライバル会社のレコード会社による楽曲発売の宣伝まで放送されていた。
+制作はavex\&EAST。製作著作はtvkとエイベックス・グループ。首都圏の[独立UHF局](../Page/全国独立放送協議会.md "wikilink")（tvk、[TOKYO MX](../Page/東京メトロポリタンテレビジョン.md "wikilink")、[チバテレ](../Page/千葉テレビ放送.md "wikilink")、[テレ玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）ではエイベックス一社単独の[冠スポンサー](../Page/冠スポンサー.md "wikilink")（事実上の[一社提供](../Page/一社提供.md "wikilink")）で放送されたが、もともとローカルセールス枠だったため、地方局では必ずしもエイベックスが提供に付かず、別のスポットCMで放送されていた。代わりに他の企業のCMか、他の[番組宣伝](../Page/番組宣伝.md "wikilink")、時にはライバル会社のレコード会社による楽曲発売の宣伝まで放送されていた。
 
 ## 出演者
 
@@ -24,7 +24,7 @@
 
   - エイベックス所属アーティスト全般。
   - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink")
   - [相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")
   - [BoA](../Page/BoA.md "wikilink")
   - [day after tomorrow](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")
@@ -36,7 +36,7 @@
   - [H.O.T.](../Page/H.O.T..md "wikilink")
   - [天上智喜](https://ja.wikipedia.org/wiki/天上智喜 "wikilink")
   - [S.E.S.](../Page/S.E.S..md "wikilink")
-  - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")
+  - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")
   - [V6](../Page/V6_\(グループ\).md "wikilink")
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")
@@ -61,7 +61,7 @@
   - [大沢あかね](https://ja.wikipedia.org/wiki/大沢あかね "wikilink")（4代目MC（途中からレギュラー出演））
   - [永井一郎](../Page/永井一郎.md "wikilink")（ナレーション）
   - [細田羅夢](https://ja.wikipedia.org/wiki/細田羅夢 "wikilink")（リポーター）
-  - [木内梨生奈](https://ja.wikipedia.org/wiki/木内梨生奈 "wikilink")（リポーター）
+  - [木内梨生奈](../Page/木内梨生奈.md "wikilink")（リポーター）
 
 ## コーナー
 
@@ -170,7 +170,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/千葉テレビ放送" title="wikilink">千葉テレビ放送</a>（チバテレビ。CTC)</p></td>
+<td><p><a href="../Page/千葉テレビ放送.md" title="wikilink">千葉テレビ放送</a>（チバテレビ。CTC)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -263,7 +263,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a> (TVQ)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TXN" title="wikilink">テレビ東京系列</a></p></td>
 <td><p>過去には<a href="../Page/福岡放送.md" title="wikilink">福岡放送</a> (FBS)<br />
@@ -296,7 +296,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/琉球放送" title="wikilink">琉球放送</a> (RBC)</p></td>
+<td><p><a href="../Page/琉球放送.md" title="wikilink">琉球放送</a> (RBC)</p></td>
 <td><p>TBS系列</p></td>
 <td></td>
 </tr>
@@ -311,7 +311,7 @@
 
 ### 備考
 
-  - tvk及びTOKYO MXでは再放送あり。また制作局のtvkでは[全日](https://ja.wikipedia.org/wiki/全日 "wikilink")枠に放送されていた。
+  - tvk及びTOKYO MXでは再放送あり。また制作局のtvkでは[全日](../Page/全日.md "wikilink")枠に放送されていた。
   - 茨城県・群馬県・山梨県・福井県・徳島県・佐賀県・宮崎県では（中でも茨城県には関東地区で唯一独立テレビ局がない）1度もこの番組を放送されなかった。ただし、ケーブルテレビなどを利用して近隣のネット局を受信して見ることができたり、通常のアンテナ受信で見ることができる地域もあった。
   - 放送開始後数年間は、上記の視聴できない地域でもインターネットに繋がっていれば、avexnetにて視聴することができた。また、2002年に開始したavexnetTVでのストリーミング放送を視聴することが可能だったが、その後これらの方法での視聴はできなくなった。
 

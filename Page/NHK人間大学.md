@@ -1,7 +1,7 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK人間大学**（えぬえいちけいにんげんだいがく）は、[1992年](../Page/1992年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[NHK教育で放送された](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[教養番組](../Page/教養番組.md "wikilink")である。各界の著名人が自ら最も得意とするテーマを取り上げ、3か月にわたって講義する生涯学習番組である。
+**NHK人間大学**（えぬえいちけいにんげんだいがく）は、[1992年](../Page/1992年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[NHK教育で放送された](../Page/NHK教育テレビジョン.md "wikilink")[教養番組](../Page/教養番組.md "wikilink")である。各界の著名人が自ら最も得意とするテーマを取り上げ、3か月にわたって講義する生涯学習番組である。
 
 ## 放送時間
 
@@ -61,11 +61,11 @@
 <td><p>1993</p></td>
 <td><p>01</p></td>
 <td><p>現代人と日本神話<br />
-<a href="https://ja.wikipedia.org/wiki/河合隼雄" title="wikilink">河合隼雄</a></p></td>
+<a href="../Page/河合隼雄.md" title="wikilink">河合隼雄</a></p></td>
 <td><p>現代アメリカの素顔<br />
 <a href="../Page/本間長世.md" title="wikilink">本間長世</a></p></td>
 <td><p>数学・文化・人生<br />
-<a href="https://ja.wikipedia.org/wiki/森毅" title="wikilink">森毅</a></p></td>
+<a href="../Page/森毅.md" title="wikilink">森毅</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>04</p></td>
@@ -82,11 +82,11 @@
 <tr class="even">
 <td><p>07</p></td>
 <td><p>死とどう向き合うか<br />
-<a href="https://ja.wikipedia.org/wiki/アルフォンス・デーケン" title="wikilink">アルフォンス・デーケン</a></p></td>
+<a href="../Page/アルフォンス・デーケン.md" title="wikilink">アルフォンス・デーケン</a></p></td>
 <td><p>思想としての近代経済学<br />
 <a href="../Page/森嶋通夫.md" title="wikilink">森嶋通夫</a></p></td>
 <td><p>宇宙はどこまでわかっているか<br />
-<a href="https://ja.wikipedia.org/wiki/池内了" title="wikilink">池内了</a></p></td>
+<a href="../Page/池内了.md" title="wikilink">池内了</a></p></td>
 <td><p>少女へのまなざし<br />
 <a href="https://ja.wikipedia.org/wiki/本田和子" title="wikilink">本田和子</a></p></td>
 </tr>
@@ -109,7 +109,7 @@
 <td><p>秦の始皇帝<br />
 <a href="../Page/陳舜臣.md" title="wikilink">陳舜臣</a></p></td>
 <td><p>地球・海と大陸のダイナミズム<br />
-<a href="https://ja.wikipedia.org/wiki/上田誠也" title="wikilink">上田誠也</a></p></td>
+<a href="../Page/上田誠也.md" title="wikilink">上田誠也</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>04</p></td>
@@ -120,14 +120,14 @@
 <td><p>森と文明<br />
 <a href="../Page/安田喜憲.md" title="wikilink">安田喜憲</a></p></td>
 <td><p>日本人の写真・歴史と現在<br />
-<a href="https://ja.wikipedia.org/wiki/飯沢耕太郎" title="wikilink">飯沢耕太郎</a></p></td>
+<a href="../Page/飯沢耕太郎.md" title="wikilink">飯沢耕太郎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>07</p></td>
 <td><p>劇的ということ<br />
-<a href="https://ja.wikipedia.org/wiki/木下順二" title="wikilink">木下順二</a></p></td>
+<a href="../Page/木下順二.md" title="wikilink">木下順二</a></p></td>
 <td><p>日本の水を考える<br />
-<a href="https://ja.wikipedia.org/wiki/宇井純" title="wikilink">宇井純</a></p></td>
+<a href="../Page/宇井純.md" title="wikilink">宇井純</a></p></td>
 <td><p>デジタル時代・情報技術と文明<br />
 <a href="../Page/猪瀬博.md" title="wikilink">猪瀬博</a></p></td>
 <td><p>ラフカディオ・ハーン 漂泊の魂<br />
@@ -137,14 +137,14 @@
 <td><p>10</p></td>
 <td><p>長編小説の楽しみ<br />
 世界の名作を読む<br />
-<a href="https://ja.wikipedia.org/wiki/加賀乙彦" title="wikilink">加賀乙彦</a></p></td>
+<a href="../Page/加賀乙彦.md" title="wikilink">加賀乙彦</a></p></td>
 <td><p>ポスト冷戦の国際社会<br />
 <a href="https://ja.wikipedia.org/wiki/高坂正尭" title="wikilink">高坂正尭</a></p></td>
 <td><p>新素材の拓く世界<br />
 セラミックスの展開を中心に<br />
 <a href="../Page/柳田博明.md" title="wikilink">柳田博明</a></p></td>
 <td><p>上方芸能・笑いの放送史<br />
-<a href="https://ja.wikipedia.org/wiki/澤田隆治" title="wikilink">澤田隆治</a></p></td>
+<a href="../Page/澤田隆治.md" title="wikilink">澤田隆治</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1995</p></td>
@@ -160,7 +160,7 @@
 <td><p>04</p></td>
 <td><p>イエス・キリスト<br />
 その生と死と復活<br />
-<a href="https://ja.wikipedia.org/wiki/小川国夫" title="wikilink">小川国夫</a></p></td>
+<a href="../Page/小川国夫.md" title="wikilink">小川国夫</a></p></td>
 <td><p>韓国の古代文化<br />
 <a href="https://ja.wikipedia.org/wiki/韓柄三" title="wikilink">韓柄三</a></p></td>
 <td><p>生物のデザイン<br />
@@ -187,12 +187,12 @@
 <td><p>日本の風土性<br />
 <a href="https://ja.wikipedia.org/wiki/オギュスタン・ベルク" title="wikilink">オギュスタン・ベルク</a></p></td>
 <td><p>山東京伝と江戸のメディア<br />
-<a href="https://ja.wikipedia.org/wiki/田中優子" title="wikilink">田中優子</a></p></td>
+<a href="../Page/田中優子.md" title="wikilink">田中優子</a></p></td>
 <td><p>バイオテクノロジーへの招待<br />
 21世紀を拓く最新技術<br />
 <a href="https://ja.wikipedia.org/wiki/木村光" title="wikilink">木村光</a></p></td>
 <td><p>映画はついに100歳になった<br />
-<a href="https://ja.wikipedia.org/wiki/四方田犬彦" title="wikilink">四方田犬彦</a></p></td>
+<a href="../Page/四方田犬彦.md" title="wikilink">四方田犬彦</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1996</p></td>
@@ -203,7 +203,7 @@
 新しい歴史像の可能性<br />
 <a href="../Page/網野善彦.md" title="wikilink">網野善彦</a></p></td>
 <td><p>庭園との対話<br />
-<a href="https://ja.wikipedia.org/wiki/野田正彰" title="wikilink">野田正彰</a></p></td>
+<a href="../Page/野田正彰.md" title="wikilink">野田正彰</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>04</p></td>
@@ -215,7 +215,7 @@
 原子の中の小宇宙<br />
 <a href="https://ja.wikipedia.org/wiki/本間三郎_(物理学者)" title="wikilink">本間三郎</a></p></td>
 <td><p>かたち誕生<br />
-<a href="https://ja.wikipedia.org/wiki/杉浦康平" title="wikilink">杉浦康平</a></p></td>
+<a href="../Page/杉浦康平.md" title="wikilink">杉浦康平</a></p></td>
 </tr>
 <tr class="even">
 <td><p>07</p></td>
@@ -233,9 +233,9 @@
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>蕪村の風景<br />
-<a href="https://ja.wikipedia.org/wiki/森本哲郎" title="wikilink">森本哲郎</a></p></td>
+<a href="../Page/森本哲郎.md" title="wikilink">森本哲郎</a></p></td>
 <td><p>地方分権を考える<br />
-<a href="https://ja.wikipedia.org/wiki/新藤宗幸" title="wikilink">新藤宗幸</a></p></td>
+<a href="../Page/新藤宗幸.md" title="wikilink">新藤宗幸</a></p></td>
 <td><p>オーロラ・極地の科学<br />
 <a href="../Page/赤祖父俊一.md" title="wikilink">赤祖父俊一</a></p></td>
 <td><p>ガラスと文化<br />
@@ -246,7 +246,7 @@
 <td><p>01</p></td>
 <td><p>戦国武将の素顔<br />
 毛利元就の手紙を読む<br />
-<a href="https://ja.wikipedia.org/wiki/永井路子" title="wikilink">永井路子</a></p></td>
+<a href="../Page/永井路子.md" title="wikilink">永井路子</a></p></td>
 <td><p>死を看取る医学<br />
 <a href="https://ja.wikipedia.org/wiki/柏木哲夫" title="wikilink">柏木哲夫</a></p></td>
 <td><p>新しい科学史の見方<br />
@@ -255,7 +255,7 @@
 <tr class="odd">
 <td><p>04</p></td>
 <td><p>源氏物語の女性たち<br />
-<a href="https://ja.wikipedia.org/wiki/瀬戸内寂聴" title="wikilink">瀬戸内寂聴</a></p></td>
+<a href="../Page/瀬戸内寂聴.md" title="wikilink">瀬戸内寂聴</a></p></td>
 <td><p>21世紀・日本経済はよみがえるか<br />
 <a href="../Page/野口悠紀雄.md" title="wikilink">野口悠紀雄</a></p></td>
 <td><p>オスとメス・性はなぜあるのか<br />
@@ -266,9 +266,9 @@
 <tr class="even">
 <td><p>07</p></td>
 <td><p>子どもに教わったこと<br />
-<a href="https://ja.wikipedia.org/wiki/灰谷健次郎" title="wikilink">灰谷健次郎</a></p></td>
+<a href="../Page/灰谷健次郎.md" title="wikilink">灰谷健次郎</a></p></td>
 <td><p>華人ネットワークの時代<br />
-<a href="https://ja.wikipedia.org/wiki/渡辺利夫" title="wikilink">渡辺利夫</a></p></td>
+<a href="../Page/渡辺利夫.md" title="wikilink">渡辺利夫</a></p></td>
 <td><p>マルチメディア<br />
 21世紀の見取り図<br />
 <a href="../Page/長尾真.md" title="wikilink">長尾真</a></p></td>
@@ -286,18 +286,18 @@
 環境考古学の視点<br />
 <a href="../Page/安田喜憲.md" title="wikilink">安田喜憲</a></p></td>
 <td><p>ひとはなぜ服を着るのか<br />
-<a href="https://ja.wikipedia.org/wiki/鷲田清一" title="wikilink">鷲田清一</a></p></td>
+<a href="../Page/鷲田清一.md" title="wikilink">鷲田清一</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1998</p></td>
 <td><p>01</p></td>
 <td><p>太宰治への旅<br />
-<a href="https://ja.wikipedia.org/wiki/長部日出雄" title="wikilink">長部日出雄</a></p></td>
+<a href="../Page/長部日出雄.md" title="wikilink">長部日出雄</a></p></td>
 <td><p>古代国家の胎動<br />
 <a href="../Page/都出比呂志.md" title="wikilink">都出比呂志</a></p></td>
 <td><p>免疫<br />
 ＂自己＂と＂非自己＂の科学<br />
-<a href="https://ja.wikipedia.org/wiki/多田富雄" title="wikilink">多田富雄</a></p></td>
+<a href="../Page/多田富雄.md" title="wikilink">多田富雄</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>04</p></td>
@@ -317,10 +317,10 @@
 <tr class="even">
 <td><p>07</p></td>
 <td><p>万葉の女性歌人たち<br />
-<a href="https://ja.wikipedia.org/wiki/杉本苑子" title="wikilink">杉本苑子</a></p></td>
+<a href="../Page/杉本苑子.md" title="wikilink">杉本苑子</a></p></td>
 <td><p>異文化理解への12章<br />
 現代世界を読み直す<br />
-<a href="https://ja.wikipedia.org/wiki/青木保_(文化人類学者)" title="wikilink">青木保</a></p></td>
+<a href="../Page/青木保_(文化人類学者).md" title="wikilink">青木保</a></p></td>
 <td><p>家族の闇をさぐる<br />
 現代の親子関係<br />
 <a href="../Page/斎藤学_(精神科医).md" title="wikilink">斎藤学</a></p></td>
@@ -332,12 +332,12 @@ SF史に見るイメージの変遷<br />
 <td><p>10</p></td>
 <td><p>ピラミッド文明・新たなる謎<br />
 ナイル川古代遺跡の旅<br />
-<a href="https://ja.wikipedia.org/wiki/吉村作治" title="wikilink">吉村作治</a></p></td>
+<a href="../Page/吉村作治.md" title="wikilink">吉村作治</a></p></td>
 <td><p>体験的国際平和論<br />
-<a href="https://ja.wikipedia.org/wiki/明石康" title="wikilink">明石康</a></p></td>
+<a href="../Page/明石康.md" title="wikilink">明石康</a></p></td>
 <td><p>建築探偵<br />
 <a href="https://ja.wikipedia.org/wiki/NHK人間大学・建築探偵・近代日本の洋館をさぐる" title="wikilink">近代日本の洋館をさぐる</a><br />
-<a href="https://ja.wikipedia.org/wiki/藤森照信" title="wikilink">藤森照信</a></p></td>
+<a href="../Page/藤森照信.md" title="wikilink">藤森照信</a></p></td>
 <td><p>百花繚乱<br />
 女たちの中国史<br />
 <a href="../Page/井波律子.md" title="wikilink">井波律子</a></p></td>
@@ -347,7 +347,7 @@ SF史に見るイメージの変遷<br />
 <td><p>01</p></td>
 <td><p>西鶴よみがえる<br />
 私の創作論<br />
-<a href="https://ja.wikipedia.org/wiki/藤本義一_(作家)" title="wikilink">藤本義一</a></p></td>
+<a href="../Page/藤本義一_(作家).md" title="wikilink">藤本義一</a></p></td>
 <td><p>＂豊かな国＂のゆくえ<br />
 新しい経済学への模索<br />
 <a href="../Page/飯田経夫.md" title="wikilink">飯田経夫</a></p></td>
@@ -361,9 +361,9 @@ SF史に見るイメージの変遷<br />
 
 | 放送期間                 | 講座名                          | 講師                                                                                                                                                                                                                           |
 | -------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1993年3月29日 - 4月1日    | わたしの良寛                       | [村上三島](../Page/村上三島.md "wikilink")、[早坂暁](https://ja.wikipedia.org/wiki/早坂暁 "wikilink")、[杉本苑子](https://ja.wikipedia.org/wiki/杉本苑子 "wikilink")、[栗田勇](../Page/栗田勇.md "wikilink")                                                |
+| 1993年3月29日 - 4月1日    | わたしの良寛                       | [村上三島](../Page/村上三島.md "wikilink")、[早坂暁](../Page/早坂暁.md "wikilink")、[杉本苑子](../Page/杉本苑子.md "wikilink")、[栗田勇](../Page/栗田勇.md "wikilink")                                                                                      |
 | 1993年12月27日 - 12月28日 | 対談・国家とは何か                    | [上山春平](../Page/上山春平.md "wikilink")、[森嶋通夫](../Page/森嶋通夫.md "wikilink")                                                                                                                                                        |
-| 1993年12月29日 - 12月30日 | 対談・イメージの宇宙                   | [中野美代子](https://ja.wikipedia.org/wiki/中野美代子 "wikilink")、[若桑みどり](../Page/若桑みどり.md "wikilink")                                                                                                                                 |
+| 1993年12月29日 - 12月30日 | 対談・イメージの宇宙                   | [中野美代子](../Page/中野美代子.md "wikilink")、[若桑みどり](../Page/若桑みどり.md "wikilink")                                                                                                                                                    |
 | 1994年1月4日 - 1月6日     | ポスト冷戦時代の日本                   | [ロナルド・ドーア](https://ja.wikipedia.org/wiki/ロナルド・ドーア "wikilink")                                                                                                                                                                |
 | 1994年6月27日 - 6月30日   | 詩人 芭蕉                        | [黒田杏子](../Page/黒田杏子.md "wikilink")、[小澤實](../Page/小澤實.md "wikilink")、[小林恭二](../Page/小林恭二.md "wikilink")                                                                                                                       |
 | 1994年9月26日 - 9月29日   | 私の“都市”論                      | [安藤忠雄](../Page/安藤忠雄.md "wikilink")                                                                                                                                                                                           |
@@ -376,10 +376,10 @@ SF史に見るイメージの変遷<br />
 | 1996年9月23日 - 9月26日   | 歌舞伎から見た日本演劇史                 | [鳥越文蔵](../Page/鳥越文蔵.md "wikilink")                                                                                                                                                                                           |
 | 1996年9月30日 - 10月3日   | 地球時代の日本語教育                   | [J.V.ネウストプニー](https://ja.wikipedia.org/wiki/J.V.ネウストプニー "wikilink")                                                                                                                                                          |
 | 1997年3月31日 - 4月3日    | 魔女の文明史                       | [吉田敦彦](../Page/吉田敦彦.md "wikilink")、[伊東俊太郎](../Page/伊東俊太郎.md "wikilink")                                                                                                                                                      |
-| 1997年6月30日 - 7月3日    | 美しき＂日本人＂の肖像                  | [早坂暁](https://ja.wikipedia.org/wiki/早坂暁 "wikilink")                                                                                                                                                                          |
+| 1997年6月30日 - 7月3日    | 美しき＂日本人＂の肖像                  | [早坂暁](../Page/早坂暁.md "wikilink")                                                                                                                                                                                             |
 | 1997年9月29日 - 10月2日   | 民族学の世界 異文化へのまなざし             | [吉田憲司](https://ja.wikipedia.org/wiki/吉田憲司 "wikilink")、[秋道智彌](https://ja.wikipedia.org/wiki/秋道智彌 "wikilink")、[栗本英世](https://ja.wikipedia.org/wiki/栗本英世 "wikilink")、[木下直之](../Page/木下直之.md "wikilink")                         |
-| 1998年3月30日 - 4月2日    | 時代劇と日本人                      | [筒井清忠](https://ja.wikipedia.org/wiki/筒井清忠 "wikilink")                                                                                                                                                                        |
-| 1998年6月29日 - 7月2日    | イスラーム・現代文明の新しいパラダイム          | [小杉泰](https://ja.wikipedia.org/wiki/小杉泰 "wikilink")                                                                                                                                                                          |
+| 1998年3月30日 - 4月2日    | 時代劇と日本人                      | [筒井清忠](../Page/筒井清忠.md "wikilink")                                                                                                                                                                                           |
+| 1998年6月29日 - 7月2日    | イスラーム・現代文明の新しいパラダイム          | [小杉泰](../Page/小杉泰.md "wikilink")                                                                                                                                                                                             |
 | 1998年9月28日 - 10月1日   | 新しい生命観の時代                    | [森岡正博](../Page/森岡正博.md "wikilink")                                                                                                                                                                                           |
 | 1998年12月28日 - 12月30日 | 心の闇の物語 ダニエル・キイスの世界           | [ダニエル・キイス](../Page/ダニエル・キイス.md "wikilink")                                                                                                                                                                                   |
 
@@ -390,6 +390,6 @@ SF史に見るイメージの変遷<br />
 ## 関連番組
 
   - [NHK人間講座](../Page/NHK人間講座.md "wikilink")
-  - [知るを楽しむ](https://ja.wikipedia.org/wiki/知るを楽しむ "wikilink")
+  - [知るを楽しむ](../Page/知るを楽しむ.md "wikilink")
 
 [Category:NHK教育テレビジョンの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの帯番組の歴史 "wikilink") [Category:NHK教育テレビジョンの教養番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK教育テレビジョンの教養番組の歴史 "wikilink") [Category:1992年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1992年のテレビ番組_\(日本\) "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")

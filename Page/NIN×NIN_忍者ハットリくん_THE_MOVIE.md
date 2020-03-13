@@ -15,25 +15,25 @@
 
 主題歌は、香取扮する「ハットリくん」が歌う、「[HATTORI<sup>3</sup>(参上)](https://ja.wikipedia.org/wiki/HATTORI3_\(参上\) "wikilink")」（アニメ版主題歌「忍者ハットリくん」のカバー）。
 
-アクションシーンでは、[樋口真嗣](../Page/樋口真嗣.md "wikilink")が「ヒグチしんじ」名義で[画コンテを担当している](https://ja.wikipedia.org/wiki/絵コンテ "wikilink")\[2\]。
+アクションシーンでは、[樋口真嗣](../Page/樋口真嗣.md "wikilink")が「ヒグチしんじ」名義で[画コンテを担当している](../Page/絵コンテ.md "wikilink")\[2\]。
 
 ## キャスト
 
   - 服部カンゾウ：[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
   - ミドリ：[田中麗奈](https://ja.wikipedia.org/wiki/田中麗奈 "wikilink")
-  - ケムマキケムゾウ：[ゴリ](https://ja.wikipedia.org/wiki/ゴリ_\(お笑い芸人\) "wikilink")（[ガレッジセール](../Page/ガレッジセール.md "wikilink")）
+  - ケムマキケムゾウ：[ゴリ](../Page/ゴリ_\(お笑い芸人\).md "wikilink")（[ガレッジセール](../Page/ガレッジセール.md "wikilink")）
   - 三葉ケンイチ：[知念侑李](https://ja.wikipedia.org/wiki/知念侑李 "wikilink")（当時[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")、現[Hey\! Say\! JUMP](https://ja.wikipedia.org/wiki/Hey!_Say!_JUMP "wikilink")）
   - 服部ジンゾウ：[伊東四朗](../Page/伊東四朗.md "wikilink")
-  - 黒影：[升毅](https://ja.wikipedia.org/wiki/升毅 "wikilink")
+  - 黒影：[升毅](../Page/升毅.md "wikilink")
   - 三葉妙子：[戸田恵子](../Page/戸田恵子.md "wikilink")
-  - 三葉健太郎：[浅野和之](https://ja.wikipedia.org/wiki/浅野和之 "wikilink")
-  - 田原警部：[宇梶剛士](https://ja.wikipedia.org/wiki/宇梶剛士 "wikilink")
-  - 柏田刑事：[東幹久](https://ja.wikipedia.org/wiki/東幹久 "wikilink")
+  - 三葉健太郎：[浅野和之](../Page/浅野和之.md "wikilink")
+  - 田原警部：[宇梶剛士](../Page/宇梶剛士.md "wikilink")
+  - 柏田刑事：[東幹久](../Page/東幹久.md "wikilink")
   - トオル：[佐藤和也](../Page/佐藤和也.md "wikilink")
   - アキラ：[長谷川成義](https://ja.wikipedia.org/wiki/長谷川成義 "wikilink")
   - タケシ：[安達直人](../Page/安達直人.md "wikilink")
   - 吉田（ガードマン）：[阿南健治](../Page/阿南健治.md "wikilink")
-  - アナウンサー：[田中要次](https://ja.wikipedia.org/wiki/田中要次 "wikilink")
+  - アナウンサー：[田中要次](../Page/田中要次.md "wikilink")
   - 藤村刑事：[正名僕蔵](../Page/正名僕蔵.md "wikilink")
   - 川島順子：[畠山明子](../Page/畠山明子.md "wikilink")
   - 校長先生：[武川修造](https://ja.wikipedia.org/wiki/武川修造 "wikilink")
@@ -52,8 +52,8 @@
 ### カメオ出演キャスト
 
   - 甲賀忍者サラリーマン：[草彅剛](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")（SMAP）
-  - 甲賀忍者新聞配達：[川田広樹](https://ja.wikipedia.org/wiki/川田広樹 "wikilink")（ガレッジセール）
-  - 甲賀忍者ビル窓拭き：[酒井敏也](https://ja.wikipedia.org/wiki/酒井敏也 "wikilink")
+  - 甲賀忍者新聞配達：[川田広樹](../Page/川田広樹.md "wikilink")（ガレッジセール）
+  - 甲賀忍者ビル窓拭き：[酒井敏也](../Page/酒井敏也.md "wikilink")
   - 甲賀忍者大道芸人：[村上ショージ](../Page/村上ショージ.md "wikilink")
   - 甲賀忍者主婦：[乙葉](../Page/乙葉.md "wikilink")
   - CMガール：[瀬戸朝香](../Page/瀬戸朝香.md "wikilink")
@@ -62,22 +62,22 @@
 
 ## スタッフ
 
-  - 監督 : [鈴木雅之](https://ja.wikipedia.org/wiki/鈴木雅之_\(演出家\) "wikilink")
+  - 監督 : [鈴木雅之](../Page/鈴木雅之_\(演出家\).md "wikilink")
   - 製作 : 森隆一、[亀山千広](../Page/亀山千広.md "wikilink")、荒井善清、[島谷能成](https://ja.wikipedia.org/wiki/島谷能成 "wikilink")、[亀井修](https://ja.wikipedia.org/wiki/亀井修 "wikilink")、柴田克己
   - 企画 : 遠谷信幸、千野毅彦、関一由、[大多亮](../Page/大多亮.md "wikilink")
-  - プロデューサー : [福山亮一](https://ja.wikipedia.org/wiki/福山亮一 "wikilink")、[和田行](https://ja.wikipedia.org/wiki/和田行 "wikilink")、[宮澤徹](https://ja.wikipedia.org/wiki/宮澤徹 "wikilink")、[瀧山麻土香](../Page/瀧山麻土香.md "wikilink")、[和田倉和利](https://ja.wikipedia.org/wiki/和田倉和利 "wikilink")
+  - プロデューサー : [福山亮一](https://ja.wikipedia.org/wiki/福山亮一 "wikilink")、[和田行](../Page/和田行.md "wikilink")、[宮澤徹](https://ja.wikipedia.org/wiki/宮澤徹 "wikilink")、[瀧山麻土香](../Page/瀧山麻土香.md "wikilink")、[和田倉和利](https://ja.wikipedia.org/wiki/和田倉和利 "wikilink")
   - 原作 : [藤子不二雄<span class="Unicode">Ⓐ</span>](../Page/藤子不二雄A.md "wikilink")
   - 脚本 : [マギー](../Page/マギー_\(俳優\).md "wikilink")
-  - 音楽 : [服部隆之](https://ja.wikipedia.org/wiki/服部隆之 "wikilink")
+  - 音楽 : [服部隆之](../Page/服部隆之.md "wikilink")
   - 撮影 : [高瀬比呂志](https://ja.wikipedia.org/wiki/高瀬比呂志 "wikilink")
   - 編集 : [田口拓也](https://ja.wikipedia.org/wiki/田口拓也 "wikilink")
   - 画コンテ : [ヒグチしんじ](../Page/樋口真嗣.md "wikilink")
   - キャスティング : [杉野剛](https://ja.wikipedia.org/wiki/杉野剛 "wikilink")
   - エンディングタイトル : 山本雅之
-  - 特撮監督 : [尾上克郎](https://ja.wikipedia.org/wiki/尾上克郎 "wikilink")
+  - 特撮監督 : [尾上克郎](../Page/尾上克郎.md "wikilink")
   - VFXプロデューサー：[大屋哲男](https://ja.wikipedia.org/wiki/大屋哲男 "wikilink")
   - VFXディレクター : [西村了](https://ja.wikipedia.org/wiki/西村了 "wikilink")
-  - メインタイトルロゴデザイン : [田中秀幸](https://ja.wikipedia.org/wiki/田中秀幸_\(アートディレクター\) "wikilink")
+  - メインタイトルロゴデザイン : [田中秀幸](../Page/田中秀幸_\(アートディレクター\).md "wikilink")
   - 協力 : [田辺満](https://ja.wikipedia.org/wiki/田辺満 "wikilink")、[いずみ吉紘](https://ja.wikipedia.org/wiki/いずみ吉紘 "wikilink")、[林宏司](../Page/林宏司.md "wikilink")、[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")
   - 製作プロダクション : シネバザール
 

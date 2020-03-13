@@ -1,33 +1,33 @@
 > この記事は[NK](https://ja.wikipedia.org/wiki/NK)から翻訳されています。
 
 
-**東京ベイNKホール**（とうきょうベイエヌケイホール、*Tokyo Bay NK Hall*）は、[1988年](../Page/1988年.md "wikilink")開業の[コンサートホール](../Page/コンサートホール.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")に所在した。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に閉館。
+**東京ベイNKホール**（とうきょうベイエヌケイホール、*Tokyo Bay NK Hall*）は、[1988年](../Page/1988年.md "wikilink")開業の[コンサートホール](../Page/コンサートホール.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")に所在した。[2005年](../Page/2005年.md "wikilink")に閉館。
 
 ## 概要
 
-オープンは[1988年](../Page/1988年.md "wikilink")（昭和63年）。名称の"NK"は、当時の日本火災海上保険（**N**ihon **K**asai、現・[損害保険ジャパン日本興亜](https://ja.wikipedia.org/wiki/損害保険ジャパン日本興亜 "wikilink")）が所有していた事によるが、その後、運営は[第一生命保険](https://ja.wikipedia.org/wiki/第一生命保険 "wikilink")に引き継がれた。客席数は固定席の場合で6,269席\[1\]。アリーナ後方には昇降式のスタンド席が設けられていたほか\[2\]、ホールとして使用される際はスタンディング席として使用されることも想定しており、その場合、東京周辺では[Zepp Tokyoを越える最大級の収容人数](https://ja.wikipedia.org/wiki/Zepp "wikilink")（最大6,500人収容）だった\[3\]。
+オープンは[1988年](../Page/1988年.md "wikilink")（昭和63年）。名称の"NK"は、当時の日本火災海上保険（**N**ihon **K**asai、現・[損害保険ジャパン日本興亜](https://ja.wikipedia.org/wiki/損害保険ジャパン日本興亜 "wikilink")）が所有していた事によるが、その後、運営は[第一生命保険](../Page/第一生命保険.md "wikilink")に引き継がれた。客席数は固定席の場合で6,269席\[1\]。アリーナ後方には昇降式のスタンド席が設けられていたほか\[2\]、ホールとして使用される際はスタンディング席として使用されることも想定しており、その場合、東京周辺では[Zepp Tokyoを越える最大級の収容人数](../Page/Zepp.md "wikilink")（最大6,500人収容）だった\[3\]。
 
-主として、音楽関連の[コンサートや舞台](https://ja.wikipedia.org/wiki/演奏会 "wikilink")[演劇](../Page/演劇.md "wikilink")、[格闘技](../Page/格闘技.md "wikilink")などの[スポーツ](../Page/スポーツ.md "wikilink")に幅広く利用されていた。。
+主として、音楽関連の[コンサートや舞台](../Page/演奏会.md "wikilink")[演劇](../Page/演劇.md "wikilink")、[格闘技](../Page/格闘技.md "wikilink")などの[スポーツ](../Page/スポーツ.md "wikilink")に幅広く利用されていた。。
 
-しかし、所有者だった第一生命保険が「竣工後16年を経て設備更新のタイミングに入っており、今後莫大な追加投資が見込まれるため」として、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月30日](../Page/6月30日.md "wikilink")に閉鎖することを発表\[4\]。、閉鎖後も施設は取り壊されず、2011年6月12日には[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のチャリティイベントとして「千葉県震災復興フェア」が跡地内で開催されたほか\[5\]、温泉掘削の申請も行われたものの許可に至らなかった\[6\]。
+しかし、所有者だった第一生命保険が「竣工後16年を経て設備更新のタイミングに入っており、今後莫大な追加投資が見込まれるため」として、[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に閉鎖することを発表\[4\]。、閉鎖後も施設は取り壊されず、2011年6月12日には[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のチャリティイベントとして「千葉県震災復興フェア」が跡地内で開催されたほか\[5\]、温泉掘削の申請も行われたものの許可に至らなかった\[6\]。
 
 2013年12月24日、当施設が所在する[東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")の運営母体・[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")が当施設とその周辺の土地を約93.19億円で取得\[7\]\[8\]。2015年に解体工事が開始され、現在は更地になっている。
 
 ## 主な実績
 
   - [杮落とし](https://ja.wikipedia.org/wiki/杮落とし "wikilink") - [1988年](../Page/1988年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")（松任谷由実）
-  - 最終公演 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月10日](../Page/7月10日.md "wikilink")（[W-inds](https://ja.wikipedia.org/wiki/W-inds "wikilink")）
+  - 最終公演 - [2005年](../Page/2005年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")（[W-inds](https://ja.wikipedia.org/wiki/W-inds "wikilink")）
 
 ### 同会場から放送 / 収録されたテレビ番組
 
   - [ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系、1992年 - 2003年）
-  - 第24回[日本歌謡大賞](https://ja.wikipedia.org/wiki/日本歌謡大賞 "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、1993年11月16日。この年を最後に終了となった）
+  - 第24回[日本歌謡大賞](../Page/日本歌謡大賞.md "wikilink")（[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、1993年11月16日。この年を最後に終了となった）
   - [HEY\!HEY\!HEY\!MUSIC CHAMPの生放送特番](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（MUSIC AWARDSなど）（フジテレビ系、1997年他）
   - [SASUKE](https://ja.wikipedia.org/wiki/SASUKE "wikilink")第1回メイン会場（[TBS系](../Page/TBSテレビ.md "wikilink")、1997年9月）
   - [とくばん](../Page/うたばん.md "wikilink")（TBS系、1997年10月・1998年4月）
-  - 第33回[日本有線大賞](https://ja.wikipedia.org/wiki/日本有線大賞 "wikilink")（TBS系、2000年12月15日）
-  - [1億3000万人が選ぶ\!ベストアーティスト（西暦）](https://ja.wikipedia.org/wiki/日テレ系音楽の祭典_ベストアーティスト "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")、2001年 - 2004年）
-  - [クリスマスの約束](https://ja.wikipedia.org/wiki/クリスマスの約束 "wikilink")（TBS系、2001年 - 2003年）
+  - 第33回[日本有線大賞](../Page/日本有線大賞.md "wikilink")（TBS系、2000年12月15日）
+  - [1億3000万人が選ぶ\!ベストアーティスト（西暦）](../Page/日テレ系音楽の祭典_ベストアーティスト.md "wikilink")（[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")、2001年 - 2004年）
+  - [クリスマスの約束](../Page/クリスマスの約束.md "wikilink")（TBS系、2001年 - 2003年）
   - [MTV COOL CHRISTMAS 2004](https://ja.wikipedia.org/wiki/MTV_COOL_CHRISTMAS_2004 "wikilink")（[MTV](../Page/MTV.md "wikilink")、2004年）
   - 第24回[全国高等学校クイズ選手権](../Page/全国高等学校クイズ選手権.md "wikilink")（日本テレビ系、2004年）
 
@@ -35,9 +35,9 @@
 
 ### 同会場でラストライブを開催したグループ・バンド
 
-  - [CoCo](https://ja.wikipedia.org/wiki/CoCo_\(アイドルグループ\) "wikilink")（1994年8月21日、ラストツアー「CoCo夏'94 CoCo was CoCo made」最終日）
-  - [DIE IN CRIES](https://ja.wikipedia.org/wiki/DIE_IN_CRIES "wikilink")（1995年7月2日、LAST LIVE）※後に「LAST LIVE「1995.7.2」」として映像化された。
-  - [チェキッ娘](https://ja.wikipedia.org/wiki/チェキッ娘 "wikilink")（1999年11月3日、卒業ライブ「チェキッ娘LIVE ver.2.0.1-f 旅立ち 2000 －泣いたモン勝ち－」）
+  - [CoCo](../Page/CoCo_\(アイドルグループ\).md "wikilink")（1994年8月21日、ラストツアー「CoCo夏'94 CoCo was CoCo made」最終日）
+  - [DIE IN CRIES](../Page/DIE_IN_CRIES.md "wikilink")（1995年7月2日、LAST LIVE）※後に「LAST LIVE「1995.7.2」」として映像化された。
+  - [チェキッ娘](../Page/チェキッ娘.md "wikilink")（1999年11月3日、卒業ライブ「チェキッ娘LIVE ver.2.0.1-f 旅立ち 2000 －泣いたモン勝ち－」）
 
 <!-- end list -->
 
@@ -55,19 +55,19 @@
 
 <!-- end list -->
 
-  - [FANATIC◇CRISIS](https://ja.wikipedia.org/wiki/FANATIC◇CRISIS "wikilink")（2005年5月14日 LAST LIVE。解散発表後の全国ツアーはファンクラブ会員限定。発表後の一般向けライブは、この日が最初で最後であった）
+  - [FANATIC◇CRISIS](../Page/FANATIC◇CRISIS.md "wikilink")（2005年5月14日 LAST LIVE。解散発表後の全国ツアーはファンクラブ会員限定。発表後の一般向けライブは、この日が最初で最後であった）
 
 など
 
 ### 格闘技興行
 
   - [1992年](../Page/1992年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")まで[全日本キックボクシング連盟](../Page/全日本キックボクシング連盟.md "wikilink")が主会場として使用していた。
-  - 格闘技団体「[パンクラス](https://ja.wikipedia.org/wiki/パンクラス "wikilink")」は[1993年](../Page/1993年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")にここで旗揚げ興行を行った\[9\]。1995年から1999年までは毎年1回、大会が開催されており、1997年は3回行われたが、2000年以降は使用されなかった。しかし閉鎖が決定した後の2004年11月7日には「ありがとうNKホール」と銘打った興行が開催された。
-  - プロレスでも[平成維震軍](../Page/平成維震軍.md "wikilink")旗揚げ興行\[10\]や[全女対](https://ja.wikipedia.org/wiki/全日本女子プロレス "wikilink")[JWP対抗戦など歴史的な興行が数多く行われた](https://ja.wikipedia.org/wiki/JWP女子プロレス "wikilink") 。
+  - 格闘技団体「[パンクラス](../Page/パンクラス.md "wikilink")」は[1993年](../Page/1993年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")にここで旗揚げ興行を行った\[9\]。1995年から1999年までは毎年1回、大会が開催されており、1997年は3回行われたが、2000年以降は使用されなかった。しかし閉鎖が決定した後の2004年11月7日には「ありがとうNKホール」と銘打った興行が開催された。
+  - プロレスでも[平成維震軍](../Page/平成維震軍.md "wikilink")旗揚げ興行\[10\]や[全女対](../Page/全日本女子プロレス.md "wikilink")[JWP対抗戦など歴史的な興行が数多く行われた](../Page/JWP女子プロレス.md "wikilink") 。
   - [1996年](../Page/1996年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")には、プロボクシング元世界[ヘビー級](../Page/ヘビー級.md "wikilink")チャンピオン：[ジョージ・フォアマン](../Page/ジョージ・フォアマン.md "wikilink")（）が[WBU世界ヘビー級王座の](../Page/世界ボクシング連合.md "wikilink")[防衛戦を開催した](https://ja.wikipedia.org/wiki/タイトルマッチ "wikilink")（[新日本プロモーションが](../Page/新日本木村ボクシングジム.md "wikilink")[JBCプロモーターライセンスを名義貸ししなかった為に同非公認の興行](../Page/日本ボクシングコミッション.md "wikilink")・試合となった）。アンダーカードとして[WIBF世界スーパーウェルター級選手権試合](../Page/女子国際ボクシング連盟.md "wikilink")、[メアリー・アン・アルマジャー](https://ja.wikipedia.org/wiki/w:Mary_Ann_Almager "wikilink") vs [ヴァレリー・ヘニン戦が行われ](https://ja.wikipedia.org/wiki/:fr:Valérie_Wiet-Henin "wikilink")、これが[日本のボクシング史](https://ja.wikipedia.org/wiki/日本のボクシング史 "wikilink")上初の女子世界選手権試合となる。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")・[1999年](../Page/1999年.md "wikilink")の「[VALE TUDO JAPAN](https://ja.wikipedia.org/wiki/VALE_TUDO_JAPAN "wikilink")」、[2000年](../Page/2000年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")の「[修斗](https://ja.wikipedia.org/wiki/修斗 "wikilink")」興行も開催された。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")・[1999年](../Page/1999年.md "wikilink")の「[VALE TUDO JAPAN](https://ja.wikipedia.org/wiki/VALE_TUDO_JAPAN "wikilink")」、[2000年](../Page/2000年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")の「[修斗](../Page/修斗.md "wikilink")」興行も開催された。
   - 1999年[11月14日](../Page/11月14日.md "wikilink")、アメリカの総合格闘技イベント「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の第2回日本興行（[UFC 23](../Page/UFC_23.md "wikilink")）が開催された。
-  - [2002年](../Page/2002年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")には、[WBC認定世界](../Page/世界ボクシング評議会.md "wikilink")[ライトフライ級](../Page/ライトフライ級.md "wikilink")選手権試合：[崔堯三](../Page/崔堯森.md "wikilink")（）対[山口真吾](../Page/山口真吾.md "wikilink")（／[渡嘉敷](https://ja.wikipedia.org/wiki/渡嘉敷勝男 "wikilink")）戦が開催された。尚、この試合は当会場で開催されたJBC公認団体による唯一の世界選手権試合であった。
+  - [2002年](../Page/2002年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")には、[WBC認定世界](../Page/世界ボクシング評議会.md "wikilink")[ライトフライ級](../Page/ライトフライ級.md "wikilink")選手権試合：[崔堯三](../Page/崔堯森.md "wikilink")（）対[山口真吾](../Page/山口真吾.md "wikilink")（／[渡嘉敷](../Page/渡嘉敷勝男.md "wikilink")）戦が開催された。尚、この試合は当会場で開催されたJBC公認団体による唯一の世界選手権試合であった。
 
 ### その他
 

@@ -8,14 +8,14 @@
 最終週、放送時点
 
   - 月曜日：[井関裕貴](../Page/井関裕貴.md "wikilink")・[松井梨絵子](../Page/松井梨絵子.md "wikilink")
-  - 火〜水曜日：[井関裕貴](../Page/井関裕貴.md "wikilink")・[物袋綾子](https://ja.wikipedia.org/wiki/物袋綾子 "wikilink")
+  - 火〜水曜日：[井関裕貴](../Page/井関裕貴.md "wikilink")・[物袋綾子](../Page/物袋綾子.md "wikilink")
   - 木〜金曜日：[加藤隆弘](https://ja.wikipedia.org/wiki/加藤隆弘 "wikilink")・[高橋美樹](../Page/高橋美樹.md "wikilink")
 
 <!-- end list -->
 
   - そのほか
 
-[柳沼慎一](https://ja.wikipedia.org/wiki/柳沼慎一 "wikilink")、[太田真希](../Page/太田真希.md "wikilink")、[村野涼子](https://ja.wikipedia.org/wiki/村野涼子 "wikilink")、[石川恵美](https://ja.wikipedia.org/wiki/石川恵美 "wikilink")、[松浦大悟](../Page/松浦大悟.md "wikilink")、[原志保](../Page/原志保.md "wikilink")、[柳本雪絵](https://ja.wikipedia.org/wiki/柳本雪絵 "wikilink")、[遠藤里沙](../Page/遠藤里沙.md "wikilink")、[松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink")、[鍋倉美保](https://ja.wikipedia.org/wiki/鍋倉美保 "wikilink")
+[柳沼慎一](https://ja.wikipedia.org/wiki/柳沼慎一 "wikilink")、[太田真希](../Page/太田真希.md "wikilink")、[村野涼子](https://ja.wikipedia.org/wiki/村野涼子 "wikilink")、[石川恵美](https://ja.wikipedia.org/wiki/石川恵美 "wikilink")、[松浦大悟](../Page/松浦大悟.md "wikilink")、[原志保](../Page/原志保.md "wikilink")、[柳本雪絵](../Page/柳本雪絵.md "wikilink")、[遠藤里沙](../Page/遠藤里沙.md "wikilink")、[松本龍](../Page/松本龍_\(アナウンサー\).md "wikilink")、[鍋倉美保](https://ja.wikipedia.org/wiki/鍋倉美保 "wikilink")
 
 ## インフォメーション
 
@@ -27,12 +27,12 @@
 
 以前はほとんど[アトリオンで中継を行っていたが](../Page/秋田総合生活文化会館・美術館.md "wikilink")、番組後期には[イオン秋田ショッピングセンター](../Page/イオンモール秋田.md "wikilink")、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[秋田駅](../Page/秋田駅.md "wikilink")併設の[トピコ](../Page/トピコ.md "wikilink")などでも行われていた。
 
-その影響もあって、毎月最終金曜日は、[秋田新幹線](../Page/秋田新幹線.md "wikilink")[こまちで繋がれている隣の](../Page/こまち_\(列車\).md "wikilink")[岩手県](../Page/岩手県.md "wikilink")の[テレビ岩手](../Page/テレビ岩手.md "wikilink")とマイクロ回線を使って、『[いわて特盛\!5きげんテレビ](../Page/5きげんテレビ.md "wikilink")』と共同で「5きげんこまち通信」というコーナーを設け、お互いの県の情報を交換し合った。また、同様に2005年4月より、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")の夕方ワイド『[@なまてれ](https://ja.wikipedia.org/wiki/@なまてれ "wikilink")』とも中継を結ぶ「@ゆう・なまてれ」というコーナーを毎月第1・第2金曜日に設けて情報交換を行った。
+その影響もあって、毎月最終金曜日は、[秋田新幹線](../Page/秋田新幹線.md "wikilink")[こまちで繋がれている隣の](../Page/こまち_\(列車\).md "wikilink")[岩手県](../Page/岩手県.md "wikilink")の[テレビ岩手](../Page/テレビ岩手.md "wikilink")とマイクロ回線を使って、『[いわて特盛\!5きげんテレビ](../Page/5きげんテレビ.md "wikilink")』と共同で「5きげんこまち通信」というコーナーを設け、お互いの県の情報を交換し合った。また、同様に2005年4月より、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")の夕方ワイド『[@なまてれ](../Page/@なまてれ.md "wikilink")』とも中継を結ぶ「@ゆう・なまてれ」というコーナーを毎月第1・第2金曜日に設けて情報交換を行った。
 
 ### 中継担当
 
   - [マッキー](../Page/マッキー.md "wikilink")
-  - [宇奈月満](https://ja.wikipedia.org/wiki/宇奈月満 "wikilink")
+  - [宇奈月満](../Page/宇奈月満.md "wikilink")
   - [多可亨子](https://ja.wikipedia.org/wiki/多可亨子 "wikilink")
   - [佐藤美知子](../Page/佐藤美知子.md "wikilink")（[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")。秋田ステーションデパート「トピコ」中継担当、初回・アトリオン中継担当）
   - [長谷川真弓](https://ja.wikipedia.org/wiki/長谷川真弓_\(アナウンサー\) "wikilink")（フリーアナウンサー）らが居る。
@@ -47,7 +47,7 @@
 
 ### 参加型クイズ
 
-開始当初から視聴者参加型のクイズを行っている。 （**市町村発おばんですクイズ**[1994年](../Page/1994年.md "wikilink")→いきなりクイズ→お待たせクイズ→キーワードクイズ([2004年](../Page/2004年.md "wikilink"))→**当たっておくれ\!\!諭吉さんクイズ**([2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")〜)）
+開始当初から視聴者参加型のクイズを行っている。 （**市町村発おばんですクイズ**[1994年](../Page/1994年.md "wikilink")→いきなりクイズ→お待たせクイズ→キーワードクイズ([2004年](../Page/2004年.md "wikilink"))→**当たっておくれ\!\!諭吉さんクイズ**([2005年](../Page/2005年.md "wikilink")〜)）
 
 市町村発おばんですクイズでは、県内69市町村（当時）から問題が出題されスタジオから電話をかけて参加するものであった。
 

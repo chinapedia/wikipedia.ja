@@ -17,7 +17,7 @@ PC-9801版とファミリーコンピュータ(FC)版を除き、星系開発及
 
 タイトルである「ディーヴァ」は、[サンスクリット](../Page/サンスクリット.md "wikilink")で「神」を意味する言葉である「[デーヴァ](https://ja.wikipedia.org/wiki/デーヴァ "wikilink")」(Deva)に由来する。本作の随所に[ヒンドゥー教](../Page/ヒンドゥー教.md "wikilink")や[仏教](../Page/仏教.md "wikilink")などをモチーフとした描写が見られる。
 
-例えば、各ストーリーの主人公の名前は、[密教](../Page/密教.md "wikilink")の[五智如来](../Page/五智如来.md "wikilink")や[インド神話](https://ja.wikipedia.org/wiki/インド神話 "wikilink")の神々に由来している。
+例えば、各ストーリーの主人公の名前は、[密教](../Page/密教.md "wikilink")の[五智如来](../Page/五智如来.md "wikilink")や[インド神話](../Page/インド神話.md "wikilink")の神々に由来している。
 
   - ルシャナ＝パティー ← [大日如来](../Page/大日如来.md "wikilink")の梵名「マハー・[ヴァイローチャナ](../Page/ヴァイローチャナ.md "wikilink")」の漢訳「[摩訶毘盧遮那](../Page/毘盧遮那仏.md "wikilink")」（マカビルシャナ）、「パティー」はサンスクリットで「主」
   - ア＝ミターバ ← [阿弥陀如来](../Page/阿弥陀如来.md "wikilink")の梵名「アミターバ」
@@ -25,7 +25,7 @@ PC-9801版とファミリーコンピュータ(FC)版を除き、星系開発及
   - ラトナ＝サンバ ← [宝生如来](https://ja.wikipedia.org/wiki/宝生如来 "wikilink")の梵名「ラトナサンバヴァ」
   - アクショー＝ビア ← [阿閦如来の梵名](../Page/阿しゅく如来.md "wikilink")「アクショービア」
   - マータリ＝シュバン ← [リグ・ヴェーダ](../Page/リグ・ヴェーダ.md "wikilink")に登場する人類に火をもたらした神「[マータリシュヴァン](https://ja.wikipedia.org/wiki/マータリシュヴァン "wikilink")」
-  - クリシュナ＝シャーク ← ヒンドゥー教における神の化身（[アヴァターラ](https://ja.wikipedia.org/wiki/アヴァターラ "wikilink")）のひとつ「[クリシュナ](../Page/クリシュナ.md "wikilink")」
+  - クリシュナ＝シャーク ← ヒンドゥー教における神の化身（[アヴァターラ](../Page/アヴァターラ.md "wikilink")）のひとつ「[クリシュナ](../Page/クリシュナ.md "wikilink")」
 
 他にも、敵であるリュカーン教の最高司祭にして元帝国宇宙軍最高司令官の「[シヴァ](../Page/シヴァ.md "wikilink")＝ルドラ」や、舞台となる銀河の名「[ヴィシュヌ](https://ja.wikipedia.org/wiki/ヴィシュヌ "wikilink")」は、ともにヒンドゥー教の最高神の一柱に由来する（[ルドラ](../Page/ルドラ.md "wikilink")もインド神話の暴風雨神）。
 
@@ -46,7 +46,7 @@ PC-9801版とファミリーコンピュータ(FC)版を除き、星系開発及
     [MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")用、ROMカートリッジで1987年4月発売。
     主人公はアモーガ＝シッディ艦隊所属のエースパイロット・ラトナ＝サンバ。親友ラーヴァナに裏切られ殺されかけたラトナは、アモーガからラーヴァナの父がリュカーン教徒であったことを聞かされ、リュカーン教の聖地である惑星トラントランへ向かう。
   - STORY5 ソーマの杯／THE CUP OF SOMA
-    [MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")2用。1987年3月発売。後に[MSX・FAN](https://ja.wikipedia.org/wiki/MSX・FAN "wikilink")1993年12-1月号のスーパー付録ディスクのコーナー「oldies」に収録された。
+    [MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")2用。1987年3月発売。後に[MSX・FAN](../Page/MSX・FAN.md "wikilink")1993年12-1月号のスーパー付録ディスクのコーナー「oldies」に収録された。
     主人公はインドゥーラ帝国科学技術院の天才科学者・アクショー＝ビア。帝国を離れて個人で蘇生薬ソーマの研究を進めていたが、ソーマ完成直後に研究資料を助手のラティーに奪われる。ラティーを追って惑星ファンスルへ降り立ったアクショーは、スーラ族に殺されていたアモーガ＝シッディを発見し、ソーマで蘇生させる。
   - STORY6 ナーサティアの玉座／IMPERIAL OF NIRSARTIA
     [ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用。ROMカートリッジで[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・[ユニバーサル ミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から1986年12月5日発売。
@@ -169,19 +169,19 @@ iTunesStoreでは、クレジットが浅倉のみになっているが、実際
 ## 関連商品
 
   - ディーヴァ・ファンブック
-    発売は[アスキー系列の](../Page/アスキー_\(企業\).md "wikilink")[MIA](https://ja.wikipedia.org/wiki/MIA "wikilink")で、企画・編集は[マイクロデザイン出版局](https://ja.wikipedia.org/wiki/マイクロデザイン出版局 "wikilink")。当時のスタッフ証言による開発秘話、物語の発端から結末までを描いたオリジナルノベル(挿絵：おおやま黎)、設定資料や各機種別ゲーム内データ（当時未発売のPC98版を除く）や、開発者自身が語る[裏技](https://ja.wikipedia.org/wiki/裏技 "wikilink")・攻略法が収録されている。カバーイラストは[出渕裕](../Page/出渕裕.md "wikilink")による。
+    発売は[アスキー系列の](../Page/アスキー_\(企業\).md "wikilink")[MIA](https://ja.wikipedia.org/wiki/MIA "wikilink")で、企画・編集は[マイクロデザイン出版局](https://ja.wikipedia.org/wiki/マイクロデザイン出版局 "wikilink")。当時のスタッフ証言による開発秘話、物語の発端から結末までを描いたオリジナルノベル(挿絵：おおやま黎)、設定資料や各機種別ゲーム内データ（当時未発売のPC98版を除く）や、開発者自身が語る[裏技](../Page/裏技.md "wikilink")・攻略法が収録されている。カバーイラストは[出渕裕](../Page/出渕裕.md "wikilink")による。
   - ゲームコミックス「DAIVA」
-    [東京書籍](https://ja.wikipedia.org/wiki/東京書籍 "wikilink")からの発売。当時流行していた[ゲームブック](https://ja.wikipedia.org/wiki/ゲームブック "wikilink")の体裁を取っているが選択肢が設定されている箇所は少なく、また各巻によって選択肢の数もまちまちだった。コミック担当者は巻によって異なり、ストーリーや設定も作画担当者によって細かなアレンジがされている（例としては、STORY3に登場する「ニルヴァーナ」が女性に設定されている等）。
+    [東京書籍](../Page/東京書籍.md "wikilink")からの発売。当時流行していた[ゲームブック](../Page/ゲームブック.md "wikilink")の体裁を取っているが選択肢が設定されている箇所は少なく、また各巻によって選択肢の数もまちまちだった。コミック担当者は巻によって異なり、ストーリーや設定も作画担当者によって細かなアレンジがされている（例としては、STORY3に登場する「ニルヴァーナ」が女性に設定されている等）。
       - STORY1 ヴリトラの炎　作画：[小林誠](../Page/小林誠_\(イラストレーター\).md "wikilink")
       - STORY2 ドゥルガーの記憶 作画：青木めだか
       - STORY3 ニルヴァーナの試練　作画：堀内元
       - STORY4 アスラの血流　作画：内田貴志
       - STORY5 ソーマの杯　作画：小林浩子
       - STORY6 ナーサティアの玉座　作画：小林鉄造
-      - STORY7 カリ・ユガの光輝　作画:THE GREAT GAIJIN　※[ゲーメスト](../Page/ゲーメスト.md "wikilink")掲載版『[餓狼伝説](https://ja.wikipedia.org/wiki/餓狼伝説 "wikilink")』作画担当のLEO ADVERと同一人物。
+      - STORY7 カリ・ユガの光輝　作画:THE GREAT GAIJIN　※[ゲーメスト](../Page/ゲーメスト.md "wikilink")掲載版『[餓狼伝説](../Page/餓狼伝説.md "wikilink")』作画担当のLEO ADVERと同一人物。
   - [アドベンチャーヒーローブックス](https://ja.wikipedia.org/wiki/アドベンチャーヒーローブックス "wikilink")12 「ディーヴァ・女戦士ミリスの挑戦」
     文・構成：[草野直樹](https://ja.wikipedia.org/wiki/草野直樹_\(スポーツ紙記者\) "wikilink")　[刀堂光貴](https://ja.wikipedia.org/wiki/伊吹秀明 "wikilink")、本文イラスト：おぐ・ぼっくぇ
-    [勁文社](https://ja.wikipedia.org/wiki/勁文社 "wikilink")からの発売。「STORY6 ナーサティアの玉座」の主人公であるマータリ＝シュバンの部下である女性、ミリス＝シャイナを主人公としたゲームブック。マータリ＝シュバンも登場する。
+    [勁文社](../Page/勁文社.md "wikilink")からの発売。「STORY6 ナーサティアの玉座」の主人公であるマータリ＝シュバンの部下である女性、ミリス＝シャイナを主人公としたゲームブック。マータリ＝シュバンも登場する。
   - わんぱっくコミック「ディーヴァ」
     作画：たまだとしみつ
     [徳間書店](../Page/徳間書店.md "wikilink")からの発売。雑誌「わんぱっくコミック」で連載された漫画の単行本化。作画はたまだとしみつ。連載当時STORY7は未発売で、対応機種すらまだ公表されていなかったこともあり、[ネタバレ](../Page/ネタバレ.md "wikilink")防止の配慮から、最終話でクリシュナ＝シャークがストーリーの真相を語る部分では台詞のほとんどが空白になっている。

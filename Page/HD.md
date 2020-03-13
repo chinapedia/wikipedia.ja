@@ -22,7 +22,7 @@
 
 ### その他
 
-  - [ヘンリー・ドレイパーカタログ](../Page/ヘンリー・ドレイパーカタログ.md "wikilink")（）。[星表](https://ja.wikipedia.org/wiki/星表 "wikilink")。
+  - [ヘンリー・ドレイパーカタログ](../Page/ヘンリー・ドレイパーカタログ.md "wikilink")（）。[星表](../Page/星表.md "wikilink")。
   - [重水素化水素](https://ja.wikipedia.org/wiki/重水素化水素 "wikilink")（）
 
 ## 組織名
@@ -31,11 +31,11 @@
   - [AIRDO](../Page/AIRDO.md "wikilink")の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")
   - [NHK高松放送局](https://ja.wikipedia.org/wiki/NHK高松放送局 "wikilink")ラジオ第2・教育（）
   - [ザ・ホーム・デポ](https://ja.wikipedia.org/wiki/ザ・ホーム・デポ "wikilink")の[ティッカーシンボル](../Page/ティッカーシンボル.md "wikilink")。
-  - [ハーレーダビッドソン](https://ja.wikipedia.org/wiki/ハーレーダビッドソン "wikilink")（）- オートバイメーカー。
+  - [ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")（）- オートバイメーカー。
 
 ## 製品名
 
-  - [ハードドライビン](https://ja.wikipedia.org/wiki/ハードドライビン "wikilink")（）- [アタリ社の](../Page/アタリ_\(企業\).md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。
+  - [ハードドライビン](../Page/ハードドライビン.md "wikilink")（）- [アタリ社の](../Page/アタリ_\(企業\).md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。
   - [トヨタ・HDエンジン](../Page/トヨタ・HDエンジン.md "wikilink")
   - [4代目ヒュンダイ･エラントラの通称](https://ja.wikipedia.org/wiki/ヒュンダイ・エラントラ#4代目（HD型、2006年-） "wikilink")。韓国ではアバンテHD（正式名ではない）とも。
   - [Intel HD Graphics](https://ja.wikipedia.org/wiki/Intel_HD_Graphics "wikilink") - インテル製CPUにおける、プロセッサ内蔵グラフィックスのシリーズ名称。

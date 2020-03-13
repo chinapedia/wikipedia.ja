@@ -12,7 +12,7 @@
 
 本作は2004年[8月13日](../Page/8月13日.md "wikilink")に1次出荷が行われ、[9月7日](../Page/9月7日.md "wikilink")に2次出荷が行われた。なお[ロケテスト](https://ja.wikipedia.org/wiki/ロケテスト "wikilink")は2004年5月頃から[大阪](../Page/大阪.md "wikilink")府京橋にある[ゲームセンター](../Page/ゲームセンター.md "wikilink")を皮切りに大阪・東京を中心に複数のゲームセンターで7月頃まで断続的に行われていた。
 
-家庭用ゲーム機への移植としては、2004年[12月9日](../Page/12月9日.md "wikilink")に『[機動戦士ガンダム ガンダムvs.Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムvs.Ζガンダム "wikilink")』のタイトルで[PlayStation 2版と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")版が発売された。機種によって多人数対戦の方式が異なる（PS2版は通信対戦、GC版は画面4分割）ほか、アニメ版ストーリーのifを体験できる「宇宙世紀モード」や、『[機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink")』から主役機『[ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")』が参戦するなどの追加要素あり。
+家庭用ゲーム機への移植としては、2004年[12月9日](../Page/12月9日.md "wikilink")に『[機動戦士ガンダム ガンダムvs.Ζガンダム](../Page/機動戦士ガンダム_ガンダムvs.Ζガンダム.md "wikilink")』のタイトルで[PlayStation 2版と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")版が発売された。機種によって多人数対戦の方式が異なる（PS2版は通信対戦、GC版は画面4分割）ほか、アニメ版ストーリーのifを体験できる「宇宙世紀モード」や、『[機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink")』から主役機『[ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")』が参戦するなどの追加要素あり。
 
 ## 主な変更点
 

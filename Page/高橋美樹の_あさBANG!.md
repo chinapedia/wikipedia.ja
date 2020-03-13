@@ -1,7 +1,7 @@
 > この記事は[ BANG!](https://ja.wikipedia.org/wiki/_BANG!)から翻訳されています。
 
 
-**高橋美樹の あさBANG！**は、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")の[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。高橋が不在の時は新聞欄に「○○のるすBANG\!」と紹介されている。
+**高橋美樹の あさBANG！**は、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")の[生放送](../Page/生放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。高橋が不在の時は新聞欄に「○○のるすBANG\!」と紹介されている。
 
 ## 司会者のやりくり
 
@@ -11,12 +11,12 @@
 
   - 7:00 オープニング
   - 7:05 県内イベント情報
-  - 7:10 [ラジオアミューズメントワールド](https://ja.wikipedia.org/wiki/お早うネットワーク "wikilink")
+  - 7:10 [ラジオアミューズメントワールド](../Page/お早うネットワーク.md "wikilink")
   - 7:25 朝の歳時記
   - 7:30 [日産ラジオナビ](https://ja.wikipedia.org/wiki/日産ラジオナビ "wikilink")
   - 7:37 押しBANG！
   - 7:55 [さきがけニュース](https://ja.wikipedia.org/wiki/さきがけABSニュース "wikilink")
-  - 8:00 [話題のアンテナ 日本全国8時です](https://ja.wikipedia.org/wiki/話題のアンテナ_日本全国8時です "wikilink")
+  - 8:00 [話題のアンテナ 日本全国8時です](../Page/話題のアンテナ_日本全国8時です.md "wikilink")
   - 8:25 交通情報（提供：[聖教新聞](https://ja.wikipedia.org/wiki/聖教新聞 "wikilink"))
   - 8:30 おはようレーダー（提供：[秋田三菱自動車](https://ja.wikipedia.org/wiki/秋田三菱自動車販売 "wikilink")）
   - 8:40 押しBANG！
@@ -29,7 +29,7 @@
   - 9:55 さきがけニュース
   - 10:00 秋田ここだけニュース
   - 10:05 県内イベント情報
-  - 10:10 交通情報（[JATIC秋田](https://ja.wikipedia.org/wiki/日本道路交通情報センター "wikilink")）
+  - 10:10 交通情報（[JATIC秋田](../Page/日本道路交通情報センター.md "wikilink")）
   - 10:15 押しBANG！
   - 10:19 エンディング
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1999年](../Page/1999年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")や[J Soul Brothers](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink")（初代）等を第1号アーティストとして設立。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にレーベル創設6周年で新CI導入で新ロゴ**“RZマーク”**が誕生。[2009年](../Page/2009年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の新CI導入で英名ロゴタイプ方式と正方形ロゴタイプ方式（<span style="color:red;">rhythm</span>が上、<span style="color:lightgray;">zone</span>が下）の2パターンに変更。 現行のレーベル公式ロゴタイプは3代目である（[2012年](../Page/2012年.md "wikilink")[9月](../Page/9月.md "wikilink")現在）。
+[1999年](../Page/1999年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")や[J Soul Brothers](https://ja.wikipedia.org/wiki/J_SOUL_BROTHERS "wikilink")（初代）等を第1号アーティストとして設立。[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にレーベル創設6周年で新CI導入で新ロゴ**“RZマーク”**が誕生。[2009年](../Page/2009年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の新CI導入で英名ロゴタイプ方式と正方形ロゴタイプ方式（<span style="color:red;">rhythm</span>が上、<span style="color:lightgray;">zone</span>が下）の2パターンに変更。 現行のレーベル公式ロゴタイプは3代目である（[2012年](../Page/2012年.md "wikilink")[9月](../Page/9月.md "wikilink")現在）。
 
 規格品番はRZCD、RZBD、RZXD、RZZD等から始まる。
 
@@ -109,7 +109,7 @@
   - [NEVER LAND](../Page/NEVER_LAND_\(ヒップホップユニット\).md "wikilink") (2006年〜2007年) (2008年活動休止)
   - [paco](https://ja.wikipedia.org/wiki/paco "wikilink") (2012年〜2014年)
   - [Port of Notes](../Page/Port_of_Notes.md "wikilink") (2009年)
-  - [RAM RIDER](https://ja.wikipedia.org/wiki/RAM_RIDER "wikilink") (2005年〜2007年)
+  - [RAM RIDER](../Page/RAM_RIDER.md "wikilink") (2005年〜2007年)
   - [RATHER UNIQUE](../Page/RATHER_UNIQUE.md "wikilink") (2004年〜2005年) (2006年9月活動休止)
   - [Remark Spirits](../Page/Remark_Spirits.md "wikilink") (2007年〜2008年) (2009年活動休止)
   - [Retro G-Style](../Page/Retro_G-Style.md "wikilink") (2001年〜2004年) (2004年9月解散、2010年6月再結成後は[ARTIMAGE RECORDSより](../Page/ARTIMAGE.md "wikilink"))
@@ -117,7 +117,7 @@
   - [SATOMi](../Page/SATOMI'.md "wikilink") (2011年〜2012年)
   - [Seek](https://ja.wikipedia.org/wiki/seek_\(ラッパー\) "wikilink") (2011年)
   - [SHINee](../Page/SHINee.md "wikilink") (2009年〜2010年)
-  - [SOFFet](https://ja.wikipedia.org/wiki/SOFFet "wikilink") (2006年〜2011年)(ワーナーミュージック・ジャパンより移籍）
+  - [SOFFet](../Page/SOFFet.md "wikilink") (2006年〜2011年)(ワーナーミュージック・ジャパンより移籍）
   - [SONOMI](../Page/SONOMI_\(歌手\).md "wikilink") (2012年〜2013年)
   - [Super Junior](https://ja.wikipedia.org/wiki/Super_Junior "wikilink") (2008年〜2010年同一レコード会社内の[avex traxに移籍](https://ja.wikipedia.org/wiki/avex_trax "wikilink"))
   - [SWEET BLACK](https://ja.wikipedia.org/wiki/SWEET_BLACK "wikilink") (2009年)
@@ -129,7 +129,7 @@
   - [THE CHILL](https://ja.wikipedia.org/wiki/THE_CHILL "wikilink") (2007年)
   - [Toshiyuki Goto](https://ja.wikipedia.org/wiki/Toshiyuki_Goto "wikilink") (2007年)
   - [twenty4-7](https://ja.wikipedia.org/wiki/twenty4-7 "wikilink") (2007年〜2012年6月解散)
-  - UL([MCU](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\) "wikilink")+[LITTLE](https://ja.wikipedia.org/wiki/LITTLE "wikilink")) (2014年〜2015年)
+  - UL([MCU](../Page/MCU_\(ラッパー\).md "wikilink")+[LITTLE](../Page/LITTLE.md "wikilink")) (2014年〜2015年)
   - [warp-generation](../Page/NEVER_LAND_\(ヒップホップユニット\).md "wikilink") (2008年) (2009年4月活動休止)
   - [YORK](https://ja.wikipedia.org/wiki/YORK "wikilink") (2013年〜2014年)
   - [yu-yu](https://ja.wikipedia.org/wiki/yu-yu "wikilink") (2010年〜2014年)
@@ -148,16 +148,16 @@
   - [小山絵里奈](../Page/小山絵里奈.md "wikilink") (2007年)(→commmons / AEI）
   - [佐伯ユウスケ](https://ja.wikipedia.org/wiki/佐伯ユウスケ "wikilink") (2012年)(→TOHO animation RECORDS）
   - [坂詰美紗子](https://ja.wikipedia.org/wiki/坂詰美紗子 "wikilink") (2008年〜2009年)(→avex infinity）
-  - [佐藤直紀](https://ja.wikipedia.org/wiki/佐藤直紀 "wikilink") (2003年〜2010年)
+  - [佐藤直紀](../Page/佐藤直紀.md "wikilink") (2003年〜2010年)
   - [高杉さと美](../Page/高杉さと美.md "wikilink") (2007年〜2012年)
   - [天上智喜The Grace](../Page/天上智喜The_Grace.md "wikilink") (2006年〜2009年)（2009年頃活動休止）
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink") (2004年〜2010年) (2011年同一レコード会社内のavex traxに移籍)
   - [冨田ラボ](https://ja.wikipedia.org/wiki/冨田恵一 "wikilink") (2009年〜2011年)(フェイスレコーズ→ソニー・ミュージックアソシエイテッドレコーズ→rhythm zone→SPEEDSTAR RECORDS）
   - [二代目J Soul Brothers](https://ja.wikipedia.org/wiki/二代目J_Soul_Brothers "wikilink") (2009年〜2011年)
   - [信近エリ](../Page/信近エリ.md "wikilink") (2016年)
-  - [野宮真貴](https://ja.wikipedia.org/wiki/野宮真貴 "wikilink") (2005年)
+  - [野宮真貴](../Page/野宮真貴.md "wikilink") (2005年)
   - [畠山美由紀](../Page/畠山美由紀.md "wikilink") (2005年〜2009年)(フェイスレコーズ→rhythm zone→Rambling RECORDS)
-  - [福耳](https://ja.wikipedia.org/wiki/福耳_\(音楽\) "wikilink") (2008年)シングル『[DANCE BABY DANCE/夏はこれからだ\!](https://ja.wikipedia.org/wiki/DANCE_BABY_DANCE/夏はこれからだ! "wikilink")』のみ
+  - [福耳](../Page/福耳_\(音楽\).md "wikilink") (2008年)シングル『[DANCE BABY DANCE/夏はこれからだ\!](https://ja.wikipedia.org/wiki/DANCE_BABY_DANCE/夏はこれからだ! "wikilink")』のみ
   - [舞](../Page/工藤舞.md "wikilink") (2005年〜2006年)（2007年[Ruppinaで活動再開](../Page/Ruppina+.md "wikilink")）
   - [宮脇詩音](../Page/宮脇詩音.md "wikilink") (2007年〜2009年) (2015年同一レコード会社内のavex traxに移籍)
 
@@ -711,7 +711,7 @@ RZC1-46475</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年01月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/戦国BASARA" title="wikilink">戦国BASARA</a> 武将テーマ ボーカルコレクション</p></td>
+<td><p><a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA</a> 武将テーマ ボーカルコレクション</p></td>
 <td><p>RZCD-86043B<br />
 RZCD-86044</p></td>
 <td></td>
@@ -774,7 +774,7 @@ RZXD-86831</p></td>
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------- |
 | 2003年06月18日 | [顔](../Page/顔_\(2003年のテレビドラマ\).md "wikilink")/オリジナル・サウンドトラック                                                                       | RZCD-45093  |
 | 2004年05月26日 | 「[キューティーハニー](../Page/キューティーハニー_\(映画\).md "wikilink")」オリジナル・サウンドトラック                                                                | RZCD-45134  |
-| 2005年09月14日 | [刑事部屋〜六本木おかしな捜査班〜](https://ja.wikipedia.org/wiki/刑事部屋〜六本木おかしな捜査班〜 "wikilink") オリジナル サウンドトラック                                       | RZCD-45249  |
+| 2005年09月14日 | [刑事部屋〜六本木おかしな捜査班〜](../Page/刑事部屋〜六本木おかしな捜査班〜.md "wikilink") オリジナル サウンドトラック                                                          | RZCD-45249  |
 | 2006年02月22日 | [エム 〜エンチャント・アーム〜](../Page/ENCHANT_ARM.md "wikilink") サウンド・トラック                                                                     | RZCD-45343  |
 | 2006年06月14日 | [ブスの瞳に恋してる](../Page/ブスの瞳に恋してる.md "wikilink") オリジナル・サウンドトラック                                                                        | RZCD-45419  |
 | 2006年08月23日 | 「[バックダンサーズ\!](https://ja.wikipedia.org/wiki/バックダンサーズ! "wikilink")」オリジナル・サウンドトラック                                                   | RZCD-45432  |
@@ -897,7 +897,7 @@ RZCD-46088</p></td>
 ## 関連項目
 
   - [Rhythm REPUBLIC](../Page/Rhythm_REPUBLIC.md "wikilink") - エイベックスのインディーズレーベル。同じ名前を受け継ぐメジャーレーベルrhythm zoneとは兄弟レーベルである。
-  - [RZTV](../Page/RZTV.md "wikilink") - rhythm zone[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")情報満載の[音楽情報番組で](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")、[BS日テレやmu](../Page/BS日本.md "wikilink")-moてれびなどで放送された（2006年4月〜2007年3月）。
+  - [RZTV](../Page/RZTV.md "wikilink") - rhythm zone[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")情報満載の[音楽情報番組で](../Page/音楽番組.md "wikilink")、[BS日テレやmu](../Page/BS日本.md "wikilink")-moてれびなどで放送された（2006年4月〜2007年3月）。
   - [STUDIO 4℃](../Page/STUDIO_4℃.md "wikilink") - 映像と音楽のコラボレーション企画を行う。（エイベックス系アニメ関連情報フリーペーパー**"pam\!"**2006年10月号にて詳細情報掲載）
   - [Rhythm Nation](../Page/Rhythm_Nation.md "wikilink") - 国内最大規模のインドアフェスティバル。2006年より開催。
 

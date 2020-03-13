@@ -3,9 +3,9 @@
 
 **PSP**（ピーエスピー）
 
-  - [PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")（プレイステーション・ポータブル） - [SCEの](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機。
+  - [PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（プレイステーション・ポータブル） - [SCEの](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機。
 
-  - [Corel Paint Shop Pro](https://ja.wikipedia.org/wiki/Corel_Paint_Shop_Pro "wikilink") - [コーレル](../Page/コーレル.md "wikilink")から発売されているWindows用[グラフィックソフトウェア](../Page/グラフィックソフトウェア.md "wikilink")。
+  - [Corel Paint Shop Pro](../Page/Corel_Paint_Shop_Pro.md "wikilink") - [コーレル](../Page/コーレル.md "wikilink")から発売されているWindows用[グラフィックソフトウェア](../Page/グラフィックソフトウェア.md "wikilink")。
 
   - [フェノールスルホンフタレイン](../Page/フェノールスルホンフタレイン.md "wikilink")（phenolsulfonphthalein） - [pH指示薬](../Page/酸塩基指示薬.md "wikilink")
 
@@ -15,13 +15,13 @@
 
   - [ポリスチレンペーパー](https://ja.wikipedia.org/wiki/発泡スチロール#PSP "wikilink")（polystyrene paper） - 発泡スチロールの一種
 
-  - プログラマブル[シグナルプロセッサ](https://ja.wikipedia.org/wiki/デジタルシグナルプロセッサ "wikilink")（programmable signal processor）
+  - プログラマブル[シグナルプロセッサ](../Page/デジタルシグナルプロセッサ.md "wikilink")（programmable signal processor）
 
   - 政党
 
       - [人民社会党](https://ja.wikipedia.org/wiki/人民社会党_\(スペイン\) "wikilink")（Partido Socialista Popular） - スペインにかつて存在した政党。[スペイン社会労働党](../Page/スペイン社会労働党.md "wikilink")に合流した。
 
-      - キューバ人民社会党（Partido Socialista Popular） - [キューバ共産党](https://ja.wikipedia.org/wiki/キューバ共産党 "wikilink")の一時的な党名
+      - キューバ人民社会党（Partido Socialista Popular） - [キューバ共産党](../Page/キューバ共産党.md "wikilink")の一時的な党名
 
       - [レバノン進歩社会党](https://ja.wikipedia.org/wiki/進歩社会党_\(レバノン\) "wikilink")（Progressive Socialist Party）
 
@@ -31,7 +31,7 @@
 
   - [パームスプリングス国際空港](https://ja.wikipedia.org/wiki/パームスプリングス国際空港 "wikilink")の[IATA空港コード](https://ja.wikipedia.org/wiki/IATA空港コード "wikilink")。
 
-  - （Paralytic shellfish poisoning） - [貝毒](https://ja.wikipedia.org/wiki/貝毒 "wikilink")の一種。
+  - （Paralytic shellfish poisoning） - [貝毒](../Page/貝毒.md "wikilink")の一種。
 
   - （Personal Software Process） - [ソフトウェア開発者](https://ja.wikipedia.org/wiki/ソフトウェア開発者 "wikilink")の技量向上のための手法。
 

@@ -18,7 +18,7 @@
 
 ### アルバムタイトル
 
-  - Fragile - [1972年](../Page/1972年.md "wikilink")に発表された[イエスのアルバム](../Page/イエス_\(バンド\).md "wikilink")、邦題『[こわれもの](https://ja.wikipedia.org/wiki/こわれもの "wikilink")』。
+  - Fragile - [1972年](../Page/1972年.md "wikilink")に発表された[イエスのアルバム](../Page/イエス_\(バンド\).md "wikilink")、邦題『[こわれもの](../Page/こわれもの.md "wikilink")』。
   - [フラジャイル (大西順子のアルバム)](https://ja.wikipedia.org/wiki/フラジャイル_\(大西順子のアルバム\) "wikilink") - 1995年に発表された[大西順子のアルバム](../Page/大西順子_\(ミュージシャン\).md "wikilink")。
   - [fragile (宇都宮隆のアルバム)](https://ja.wikipedia.org/wiki/fragile_\(宇都宮隆のアルバム\) "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発表された[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")のアルバム。
   - [The Fragile（ザ・フラジャイル）](https://ja.wikipedia.org/wiki/ザ・フラジャイル "wikilink") - [1999年](../Page/1999年.md "wikilink")に発表された[Nine Inch Nailsのアルバム](../Page/ナイン・インチ・ネイルズ.md "wikilink")。
@@ -30,11 +30,11 @@
 
 ## その他
 
-  - FRAGILE（フラジール） - 株式会社[三陽商会](https://ja.wikipedia.org/wiki/三陽商会 "wikilink")（SANYO）の[ファッション](../Page/ファッション.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")。
-  - フラジール - 透ける素材などで、華奢なイメージを表現したブランド用語。[1993年](../Page/1993年.md "wikilink")春秋の[パリ・コレクション](https://ja.wikipedia.org/wiki/パリ・コレクション "wikilink")に登場した傾向。
+  - FRAGILE（フラジール） - 株式会社[三陽商会](../Page/三陽商会.md "wikilink")（SANYO）の[ファッション](../Page/ファッション.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")。
+  - フラジール - 透ける素材などで、華奢なイメージを表現したブランド用語。[1993年](../Page/1993年.md "wikilink")春秋の[パリ・コレクション](../Page/パリ・コレクション.md "wikilink")に登場した傾向。
   - [FRAGILE 〜さよなら月の廃墟〜](../Page/FRAGILE_〜さよなら月の廃墟〜.md "wikilink")（フラジール さよならつきのはいきょ） - [2009年](../Page/2009年.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")から発売された[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ゲームソフト。
   - FRAGILE（フラジャイル） - [戸部淑](../Page/戸部淑.md "wikilink")の公式サイト。
-  - fragile - 小説家の[桜井亜美](../Page/桜井亜美.md "wikilink")、写真家の[蜷川実花](https://ja.wikipedia.org/wiki/蜷川実花 "wikilink")、モデルの[小林俊](https://ja.wikipedia.org/wiki/小林俊 "wikilink")によるコラボレーション写真詩集。[2002年](../Page/2002年.md "wikilink")12月に[幻冬舎](https://ja.wikipedia.org/wiki/幻冬舎 "wikilink")から出版された。
+  - fragile - 小説家の[桜井亜美](../Page/桜井亜美.md "wikilink")、写真家の[蜷川実花](../Page/蜷川実花.md "wikilink")、モデルの[小林俊](https://ja.wikipedia.org/wiki/小林俊 "wikilink")によるコラボレーション写真詩集。[2002年](../Page/2002年.md "wikilink")12月に[幻冬舎](../Page/幻冬舎.md "wikilink")から出版された。
   - [フラジャイル 病理医岸京一郎の所見](https://ja.wikipedia.org/wiki/フラジャイル_病理医岸京一郎の所見 "wikilink") - [草水敏](https://ja.wikipedia.org/wiki/草水敏 "wikilink")原作、[恵三朗](https://ja.wikipedia.org/wiki/恵三朗 "wikilink")作画の漫画作品、およびそれを原作とする[テレビドラマ](../Page/テレビドラマ.md "wikilink")。
 
 ## 関連項目

@@ -10,7 +10,7 @@
 ## 収録曲
 
 1.  **・-introduction-** (1:28)
-      - 作曲・編曲：[高瀬一矢](https://ja.wikipedia.org/wiki/高瀬一矢 "wikilink")、[中沢伴行](../Page/中沢伴行.md "wikilink")
+      - 作曲・編曲：[高瀬一矢](../Page/高瀬一矢.md "wikilink")、[中沢伴行](../Page/中沢伴行.md "wikilink")
 2.  **UZU-MAKI** (6:16)
       - 作詞：[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")／作曲：高瀬一矢／編曲：高瀬一矢、[尾崎武士](https://ja.wikipedia.org/wiki/尾崎武士 "wikilink")
       - 映画『[Departed to the future](https://ja.wikipedia.org/wiki/I've_Sound_10th_Anniversary_「Departed_to_the_future」Special_CD_BOX#_映画『Departed_to_the_future』 "wikilink")』挿入歌
@@ -28,7 +28,7 @@
 6.  **月夜の舞踏会** (5:55)
       - 作詞：KOTOKO／作曲：高瀬一矢／編曲：中沢伴行
       - 6thシングル『[Chercher 〜シャルシェ〜](../Page/Chercher_〜シャルシェ〜.md "wikilink")』カップリング曲。
-      - 歌詞が「Chercher 〜シャルシェ〜」と連動したものになっており、PVも2曲が連作となっている（なお「Chercher 〜シャルシェ〜」自体は今作未収録）。本人出演の[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")TV-CMソング。
+      - 歌詞が「Chercher 〜シャルシェ〜」と連動したものになっており、PVも2曲が連作となっている（なお「Chercher 〜シャルシェ〜」自体は今作未収録）。本人出演の[ドワンゴ](../Page/ドワンゴ.md "wikilink")TV-CMソング。
 7.  **海豚** (4:52)
       - 作詞・作曲：KOTOKO／編曲：中沢伴行、尾崎武士
       - 「いるか」というタイトルとは裏腹に、ダークな曲調になっている。

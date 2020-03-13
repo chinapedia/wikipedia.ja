@@ -23,8 +23,8 @@
 
 2003年9月から12月にかけて、J-WAVEと三菱地所の企画による番組のコンピレーションCDが3社から発売されている。
 
-  - MARUNOUCHI Classy Cafe （2003年、TOCP-67259） - [東芝EMI盤](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")
-  - MARUNOUCHI Classy Cafe （2003年、UCCS-1040） - [ユニバーサルミュージック盤](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")
+  - MARUNOUCHI Classy Cafe （2003年、TOCP-67259） - [東芝EMI盤](../Page/EMIミュージック・ジャパン.md "wikilink")
+  - MARUNOUCHI Classy Cafe （2003年、UCCS-1040） - [ユニバーサルミュージック盤](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")
   - MARUNOUCHI Classy Cafe （2003年、IOCD-20069）- [エイベックス盤](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
 
 ## 外部リンク

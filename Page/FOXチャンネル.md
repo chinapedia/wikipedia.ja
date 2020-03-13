@@ -5,7 +5,7 @@
 
 ## 概要
 
-[20世紀フォックス配給映画やFOXのグループ会社](https://ja.wikipedia.org/wiki/20世紀スタジオ "wikilink")（主に[フォックス放送](https://ja.wikipedia.org/wiki/フォックス放送 "wikilink")）が制作したドラマやバラエティ、リアリティ番組などを放送する。グループ会社の強みを活かしながらも、番組は別グループからも供給を受ける。
+[20世紀フォックス配給映画やFOXのグループ会社](../Page/20世紀スタジオ.md "wikilink")（主に[フォックス放送](../Page/フォックス放送.md "wikilink")）が制作したドラマやバラエティ、リアリティ番組などを放送する。グループ会社の強みを活かしながらも、番組は別グループからも供給を受ける。
 
 2017年12月現在、ケーブルテレビや[スカパー\!](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")（Ch.312、[衛星基幹放送事業者は](https://ja.wikipedia.org/wiki/基幹放送事業者 "wikilink")[スカパー・エンターテイメント](../Page/スカパー・エンターテイメント.md "wikilink")）などの衛星放送を合わせて日本国内で7,076,031世帯で視聴可能となっており、そのうち約83%がケーブルテレビ経由、残りの17%が衛星放送経由となっている。auひかりTVなどIPTVでも視聴可能であるが、IPTV経由の視聴可能世帯数は公表していない。
 
@@ -15,14 +15,14 @@
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月1日より、[ジュピターテレコム](../Page/ジュピターテレコム.md "wikilink")にて、当チャンネルを[ハイビジョン](../Page/ハイビジョン.md "wikilink")化した「**FOX HD**」の放送を開始した。2008年10月1日より、スカパー\!HD（現・[スカパー\!プレミアムサービス](../Page/スカパー!プレミアムサービス.md "wikilink")）でも同チャンネルの放送を開始（[衛星一般放送事業者は](../Page/放送事業者.md "wikilink")[スカパー・ブロードキャスティング](../Page/スカパー・ブロードキャスティング.md "wikilink")）している。
   - [2011年](../Page/2011年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")、「[FOX bs238（現・FOXスポーツ&エンターテイメント）](https://ja.wikipedia.org/wiki/ビーエスFOX "wikilink")」が開局したが、本チャンネルは引き続き継続放送されている。
   - [2013年](../Page/2013年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")より、スカパー\!にて16:9の画角情報を付加し、フルサイズのSD放送を開始した。
-  - 2013年[6月30日](../Page/6月30日.md "wikilink")、[スカパー\!プレミアムサービス光](https://ja.wikipedia.org/wiki/スカパー!プレミアムサービス光 "wikilink")にて標準画質放送を終了し、ハイビジョン放送に完全移行した。
+  - 2013年[6月30日](../Page/6月30日.md "wikilink")、[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")にて標準画質放送を終了し、ハイビジョン放送に完全移行した。
   - [2014年](../Page/2014年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")、スカパー\!プレミアムサービスにて標準画質放送を終了し、ハイビジョン放送に完全移行した。
   - [2016年](../Page/2016年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")、スカパー\!プレミアムサービスの衛星一般放送事業者が、スカパー・ブロードキャスティングからスカパー・エンターテイメントに変更。
   - [2018年](../Page/2018年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")より、スカパー\!での放送を標準画質からハイビジョン画質に変更。
 
 ## 放送実績
 
-本家の米国での[FOXチャンネルで放送された作品のみならず](https://ja.wikipedia.org/wiki/フォックス放送 "wikilink")、製作サイドの[FOXが絡んだ作品も放送できる](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")。[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")や[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")の割合が高い。一方で、[GOTHAM/ゴッサム](https://ja.wikipedia.org/wiki/GOTHAM/ゴッサム "wikilink")、[LUCIFER/ルシファー](https://ja.wikipedia.org/wiki/LUCIFER/ルシファー "wikilink")など米国FOXチャンネルで放送された番組が日本では[AXN](../Page/AXN.md "wikilink")など他局で放送されることもしばしばある。また、一度編成にのせた番組は日本側の都合で打ち切ることはせず、ほぼ確実に最終シーズンまで放送するという特徴がある。2010年代の目玉番組は[NCIS 〜ネイビー犯罪捜査班と](https://ja.wikipedia.org/wiki/NCIS_〜ネイビー犯罪捜査班 "wikilink")[ウォーキング・デッド](https://ja.wikipedia.org/wiki/ウォーキング・デッド "wikilink")である。過去には、[アメリカン・アイドル](https://ja.wikipedia.org/wiki/アメリカン・アイドル "wikilink")や[24 TWENTY FOUR](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")、[プリズン・ブレイク](https://ja.wikipedia.org/wiki/プリズン・ブレイク "wikilink")、[Xファイル](https://ja.wikipedia.org/wiki/Xファイル "wikilink")等が目玉であった。
+本家の米国での[FOXチャンネルで放送された作品のみならず](../Page/フォックス放送.md "wikilink")、製作サイドの[FOXが絡んだ作品も放送できる](https://ja.wikipedia.org/wiki/20世紀フォックス "wikilink")。[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")や[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")の割合が高い。一方で、[GOTHAM/ゴッサム](https://ja.wikipedia.org/wiki/GOTHAM/ゴッサム "wikilink")、[LUCIFER/ルシファー](https://ja.wikipedia.org/wiki/LUCIFER/ルシファー "wikilink")など米国FOXチャンネルで放送された番組が日本では[AXN](../Page/AXN.md "wikilink")など他局で放送されることもしばしばある。また、一度編成にのせた番組は日本側の都合で打ち切ることはせず、ほぼ確実に最終シーズンまで放送するという特徴がある。2010年代の目玉番組は[NCIS 〜ネイビー犯罪捜査班と](https://ja.wikipedia.org/wiki/NCIS_〜ネイビー犯罪捜査班 "wikilink")[ウォーキング・デッド](https://ja.wikipedia.org/wiki/ウォーキング・デッド "wikilink")である。過去には、[アメリカン・アイドル](../Page/アメリカン・アイドル.md "wikilink")や[24 TWENTY FOUR](https://ja.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")、[プリズン・ブレイク](https://ja.wikipedia.org/wiki/プリズン・ブレイク "wikilink")、[Xファイル](https://ja.wikipedia.org/wiki/Xファイル "wikilink")等が目玉であった。
 
 ### ドラマ
 
@@ -42,10 +42,10 @@
   - [Xファイル](https://ja.wikipedia.org/wiki/Xファイル "wikilink")
   - [アウェイク 〜引き裂かれた現実](https://ja.wikipedia.org/wiki/アウェイク_〜引き裂かれた現実 "wikilink")
   - [アメリカン・ホラー・ストーリー](https://ja.wikipedia.org/wiki/アメリカン・ホラー・ストーリー "wikilink")
-  - [アリー my Love](https://ja.wikipedia.org/wiki/アリー_my_Love "wikilink")
+  - [アリー my Love](../Page/アリー_my_Love.md "wikilink")
   - [ウォーキング・デッド](https://ja.wikipedia.org/wiki/ウォーキング・デッド "wikilink")
-  - [宇宙家族ロビンソン](https://ja.wikipedia.org/wiki/宇宙家族ロビンソン "wikilink")
-  - [エド～ボーリング弁護士](https://ja.wikipedia.org/wiki/エド_\(テレビドラマ\) "wikilink")
+  - [宇宙家族ロビンソン](../Page/宇宙家族ロビンソン.md "wikilink")
+  - [エド～ボーリング弁護士](../Page/エド_\(テレビドラマ\).md "wikilink")
   - [エンジェル](../Page/エンジェル_\(テレビドラマ\).md "wikilink")
   - [キャッスル 〜ミステリー作家は事件がお好き](https://ja.wikipedia.org/wiki/キャッスル_〜ミステリー作家は事件がお好き "wikilink")
   - [ゴースト 〜天国からのささやき](https://ja.wikipedia.org/wiki/ゴースト_〜天国からのささやき "wikilink")
@@ -54,12 +54,12 @@
   - [ジャーニーマン 時空を越えた赤い糸](https://ja.wikipedia.org/wiki/ジャーニーマン_時空を越えた赤い糸 "wikilink")
   - [スリーピー・ホロウ](https://ja.wikipedia.org/wiki/スリーピー・ホロウ_\(テレビドラマ\) "wikilink")
   - [タイタス](../Page/タイタス.md "wikilink")
-  - [タイムトンネル](https://ja.wikipedia.org/wiki/タイムトンネル "wikilink")
+  - [タイムトンネル](../Page/タイムトンネル.md "wikilink")
   - [ダ・ヴィンチと禁断の謎](https://ja.wikipedia.org/wiki/ダ・ヴィンチと禁断の謎 "wikilink")
   - [ダーク・エンジェル](https://ja.wikipedia.org/wiki/ダークエンジェル_\(テレビドラマ\) "wikilink")
-  - [ダーマ&グレッグ](https://ja.wikipedia.org/wiki/ダーマ&グレッグ "wikilink")
+  - [ダーマ&グレッグ](../Page/ダーマ&グレッグ.md "wikilink")
   - [チャーリー・ジェイド](https://ja.wikipedia.org/wiki/チャーリー・ジェイド "wikilink")
-  - [トゥルー・コーリング](https://ja.wikipedia.org/wiki/トゥルー・コーリング "wikilink")
+  - [トゥルー・コーリング](../Page/トゥルー・コーリング.md "wikilink")
   - [ドールハウス](https://ja.wikipedia.org/wiki/ドールハウス_\(アメリカ合衆国のテレビドラマ\) "wikilink")
   - [バトル・クリーク格差警察署](https://ja.wikipedia.org/wiki/バトル・クリーク格差警察署 "wikilink")
   - [バフィー 〜恋する十字架〜](../Page/バフィー_〜恋する十字架〜.md "wikilink")
@@ -67,7 +67,7 @@
   - [プリズン・ブレイク](https://ja.wikipedia.org/wiki/プリズン・ブレイク "wikilink")
   - [ブリッジ ～国境に潜む闇](https://ja.wikipedia.org/wiki/ブリッジ_～国境に潜む闇 "wikilink")
   - [ブレイクアウト・キング](https://ja.wikipedia.org/wiki/ブレイクアウト・キング "wikilink")
-  - [フレンズ](https://ja.wikipedia.org/wiki/フレンズ_\(1994年のテレビドラマ\) "wikilink")
+  - [フレンズ](../Page/フレンズ_\(1994年のテレビドラマ\).md "wikilink")
   - [ボストン・パブリック](https://ja.wikipedia.org/wiki/ボストン・パブリック "wikilink")
   - [ボストン・リーガル](../Page/ボストン・リーガル.md "wikilink")
   - [マイネーム・イズ・アール](../Page/マイネーム・イズ・アール.md "wikilink")
@@ -80,9 +80,9 @@
   - [ラスベガス](https://ja.wikipedia.org/wiki/ラスベガス_\(テレビドラマ\) "wikilink")
   - [レバレッジ 〜詐欺師たちの流儀](https://ja.wikipedia.org/wiki/レバレッジ_〜詐欺師たちの流儀 "wikilink")
   - [ロイヤル・ペインズ ～セレブ専門救命医](https://ja.wikipedia.org/wiki/救命医ハンク_セレブ診療ファイル "wikilink")
-  - [ロズウェル](https://ja.wikipedia.org/wiki/ロズウェル_-_星の恋人たち "wikilink")
+  - [ロズウェル](../Page/ロズウェル_-_星の恋人たち.md "wikilink")
   - [堕ちた弁護士 -ニック・フォーリン-](../Page/堕ちた弁護士_-ニック・フォーリン-.md "wikilink")
-  - [恋するアンカーウーマン](https://ja.wikipedia.org/wiki/恋するアンカーウーマン "wikilink")
+  - [恋するアンカーウーマン](../Page/恋するアンカーウーマン.md "wikilink")
 
 ### コメディ
 
@@ -110,7 +110,7 @@
   - [Xファクター](https://ja.wikipedia.org/wiki/Xファクター "wikilink")
   - [アジアズ・ネクスト・トップ・モデル](https://ja.wikipedia.org/wiki/アジアズ・ネクスト・トップ・モデル "wikilink")
   - [アメリカズ・ネクスト・トップ・モデル](https://ja.wikipedia.org/wiki/アメリカズ・ネクスト・トップ・モデル "wikilink")
-  - [アメリカン・アイドル](https://ja.wikipedia.org/wiki/アメリカン・アイドル "wikilink")
+  - [アメリカン・アイドル](../Page/アメリカン・アイドル.md "wikilink")
   - [アメリカン・ダンスアイドル](../Page/アメリカン・ダンスアイドル.md "wikilink")
   - [エンターテイメント・トゥナイト](../Page/エンターテイメント・トゥナイト.md "wikilink")
   - [クィア・アイ](https://ja.wikipedia.org/wiki/クィア・アイ "wikilink")

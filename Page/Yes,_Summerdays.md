@@ -12,7 +12,7 @@
 ## 収録曲
 
 1.  **Yes, Summerdays**
-      - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink") / 編曲:GLAY、[佐久間正英](https://ja.wikipedia.org/wiki/佐久間正英 "wikilink")
+      - 作詞・作曲：[TAKURO](../Page/TAKURO.md "wikilink") / 編曲:GLAY、[佐久間正英](../Page/佐久間正英.md "wikilink")
     <!-- end list -->
       -
         2ndアルバム『[BEAT out\!](../Page/BEAT_out!.md "wikilink")』に収録されており、長くベストアルバムに収録されることはなかったが、『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』で初めてベストアルバムに収録された。なお、『胸懐』にてTAKUROはCMソングと言う事に関して「CMで使用される条件を盛り込んだ上で自分の音楽を追求出来る」と語っている。また、この曲の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は2種類存在する。
@@ -43,6 +43,6 @@
 
 ## 関連項目
 
-  - [1995年の音楽](https://ja.wikipedia.org/wiki/1995年の音楽 "wikilink")
+  - [1995年の音楽](../Page/1995年の音楽.md "wikilink")
 
 [Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:宝飾のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:宝飾のコマーシャルソング "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

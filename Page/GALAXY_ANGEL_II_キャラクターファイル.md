@@ -1,13 +1,13 @@
 > この記事は[GALAXY ANGEL II ](https://ja.wikipedia.org/wiki/GALAXY_ANGEL_II_)から翻訳されています。
 
 
-**GALAXY ANGEL II キャラクターファイル**（ギャラクシーエンジェル ツー キャラクターファイル）は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリースされた各キャラクターのシングルである。
+**GALAXY ANGEL II キャラクターファイル**（ギャラクシーエンジェル ツー キャラクターファイル）は[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリースされた各キャラクターのシングルである。
 
 ## リリース一覧
 
 ### (1) アプリコット・桜葉
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。アプリコット・桜葉（[稲村優奈](https://ja.wikipedia.org/wiki/稲村優奈 "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第1弾。
+[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。アプリコット・桜葉（[稲村優奈](../Page/稲村優奈.md "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第1弾。
 
   - 収録曲
 
@@ -18,7 +18,7 @@
 <!-- end list -->
 
   - 作詞：[Bee'](https://ja.wikipedia.org/wiki/Bee' "wikilink")
-  - 作曲・編曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements Garden](https://ja.wikipedia.org/wiki/Elements_Garden "wikilink")）
+  - 作曲・編曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
 
 <!-- end list -->
 
@@ -29,7 +29,7 @@
 
 ### (2) アニス・アジート
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。アニス・アジート（[花村怜美](../Page/花村怜美.md "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第2弾。
+[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。アニス・アジート（[花村怜美](../Page/花村怜美.md "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第2弾。
 
   - 収録曲
 
@@ -51,7 +51,7 @@
 
 ### (3) ナノナノ・プディング
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。ナノナノ・プディング（[明坂聡美](../Page/明坂聡美.md "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第3弾。
+[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。ナノナノ・プディング（[明坂聡美](../Page/明坂聡美.md "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第3弾。
 
   - 収録曲
 
@@ -74,7 +74,7 @@
 
 ### (4) カルーア・マジョラム
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。カルーア・マジョラム（[平野綾](../Page/平野綾.md "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第4弾。
+[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。カルーア・マジョラム（[平野綾](../Page/平野綾.md "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第4弾。
 
   - 収録曲
 
@@ -96,7 +96,7 @@
 
 ### (5) リリィ・C・シャーベット
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。リリィ・C・シャーベット（[中山恵里奈](https://ja.wikipedia.org/wiki/中山恵里奈 "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第5弾。
+[2005年](../Page/2005年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にリリース。リリィ・C・シャーベット（[中山恵里奈](../Page/中山恵里奈.md "wikilink")）のシングル。GALAXY ANGEL II キャラクターファイルの第5弾。
 
   - 収録曲
 

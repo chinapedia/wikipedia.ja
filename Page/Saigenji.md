@@ -1,13 +1,13 @@
 > この記事は[Saigenji](https://ja.wikipedia.org/wiki/Saigenji)から翻訳されています。
 
 
-**Saigenji**（サイゲンジ、[1975年](../Page/1975年.md "wikilink") - ）は、[広島県](../Page/広島県.md "wikilink")出身のミュージシャンである。2002年Happiness Recordsよりデビュー。2005年[東芝EMIに移籍](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。2007年より再びHappiness Recordsに在籍。他アーティストのゲストボーカルやリミックスをなども多数参加している。
+**Saigenji**（サイゲンジ、[1975年](../Page/1975年.md "wikilink") - ）は、[広島県](../Page/広島県.md "wikilink")出身のミュージシャンである。2002年Happiness Recordsよりデビュー。2005年[東芝EMIに移籍](../Page/EMIミュージック・ジャパン.md "wikilink")。2007年より再びHappiness Recordsに在籍。他アーティストのゲストボーカルやリミックスをなども多数参加している。
 
 ## 人物
 
 シンガーソングライター、ギタリスト、ヴォイスパフォーマー、歌手、プロデューサー、アレンジャー。1975年、広島県にて生まれ、父親の仕事の関係で沖縄県、香港、東京都を転々とし、現在は東京都在住。
 
-9歳のとき、『コンドルは飛んでいく』に感銘を受け[ケーナ](https://ja.wikipedia.org/wiki/ケーナ "wikilink")を始める。その後、南米の民族音楽[フォルクローレ](https://ja.wikipedia.org/wiki/フォルクローレ "wikilink")やブラジル音楽をルーツに、ソウルやジャズなどさまざまな音楽をとりいれている。
+9歳のとき、『コンドルは飛んでいく』に感銘を受け[ケーナ](../Page/ケーナ.md "wikilink")を始める。その後、南米の民族音楽[フォルクローレ](../Page/フォルクローレ.md "wikilink")やブラジル音楽をルーツに、ソウルやジャズなどさまざまな音楽をとりいれている。
 
 ライフワークである自身の楽曲制作はもちろんのことながら、作詞、作曲、編曲による楽曲提供や、プロデュース、リミックス、アレンジ、ゲスト演奏も精力的に行っている。日本各地のみならず、シンガポール、パリ、ソウルなど、海外でのパフォーマンスも多い。またフジロック、サマーソニック、ライジングサン、サンセットなど、国内野外フェスの常連でもある。
 
@@ -43,12 +43,12 @@
   - [沖仁](https://ja.wikipedia.org/wiki/沖仁 "wikilink")「Spring News\[feat.Saigenji\]」
   - [Keyco](../Page/Keyco.md "wikilink")「イメージ feat.saigenji」
   - [小西康陽](../Page/小西康陽.md "wikilink")「“Chim Chim Cher-ee”\[Mary Poppins\]feat.saigenji」
-  - [JHETT a.k.a.YAKKO for AQUARIUS](https://ja.wikipedia.org/wiki/JHETT_a.k.a.YAKKO_for_AQUARIUS "wikilink")「Sweetest dub feat.LISA & SAIGENJI」
+  - [JHETT a.k.a.YAKKO for AQUARIUS](../Page/JHETT_a.k.a.YAKKO_for_AQUARIUS.md "wikilink")「Sweetest dub feat.LISA & SAIGENJI」
   - [SOULHEAD](../Page/SOULHEAD.md "wikilink")「PLAYBOY-SAIGENJI remix-」
   - [beret](https://ja.wikipedia.org/wiki/beret "wikilink")「虹の線路-beret,saigenji meet filo machado-」
   - [MOOMIN](https://ja.wikipedia.org/wiki/MOOMIN "wikilink")「栽培したい～世界中で～\[Saigenji Pagode Mix\]」
   - [MONDO GROSSO](../Page/MONDO_GROSSO.md "wikilink")「WATIN' FOR T Vocals by saigenji」
-  - [ハシケン](https://ja.wikipedia.org/wiki/ハシケン "wikilink")「列車に揺られながら Quena by saigenji」
+  - [ハシケン](../Page/ハシケン.md "wikilink")「列車に揺られながら Quena by saigenji」
 
 ### コンピレレーション参加作品（楽曲収録作品）
 
@@ -90,7 +90,7 @@
   - [小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink") DEEP DEEP/ 担当: gt ( 2001.04)
   - [Readymade International](https://ja.wikipedia.org/wiki/Readymade_International "wikilink") テーブルにひとびんのワイン/担当: gt/cho ( 2002.03)
   - [Shakkazombie](https://ja.wikipedia.org/wiki/Shakkazombie "wikilink") So tight,so deep/担当: gt ( 2002.03)
-  - [川口大輔](https://ja.wikipedia.org/wiki/川口大輔 "wikilink") BEFORE THE DAWN/\] 担当: gt ( 2003.01)
+  - [川口大輔](../Page/川口大輔.md "wikilink") BEFORE THE DAWN/\] 担当: gt ( 2003.01)
   - [冨田ラボ](https://ja.wikipedia.org/wiki/冨田ラボ "wikilink") feat.Saigenji『太陽の顔』（2003年2月）/作詞・ボーカル・ギター
   - [bird](https://ja.wikipedia.org/wiki/bird_\(日本の歌手\) "wikilink")『廃墟のダンスホール』（2003年10月）/作曲
   - [比屋定篤子](https://ja.wikipedia.org/wiki/比屋定篤子 "wikilink")『君を照らすよ』（2004年2月）/作曲
@@ -104,7 +104,7 @@
   - [Sweep](https://ja.wikipedia.org/wiki/Sweep "wikilink")『Walkin' in the rain』（2008年4月）/編曲
   - [多和田えみ](https://ja.wikipedia.org/wiki/多和田えみ "wikilink")『時の空』（2009年6月24日）/作曲・ギター・スキャット
   - 多和田えみ『MUSING』（2009年6月24日）/作曲・編曲・プロデュース
-  - [福山潤](https://ja.wikipedia.org/wiki/福山潤 "wikilink")『Love Letters～南の街より』（2009年11月26日）/作曲・編曲・ギター
+  - [福山潤](../Page/福山潤.md "wikilink")『Love Letters～南の街より』（2009年11月26日）/作曲・編曲・ギター
 
 ## 関連項目
 

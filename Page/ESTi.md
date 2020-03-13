@@ -5,7 +5,7 @@
 
 ## 経歴・活動
 
-幼少期だった1987年ごろから、コンピューターゲームを愛好し、初歩的な日本語を知っていた。1997年冬に初来日し、[東京の](https://ja.wikipedia.org/wiki/東京都 "wikilink")[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")などを訪れた。1998年には、アルバイトで作った音楽の[RPGがヒットし](../Page/ロールプレイングゲーム.md "wikilink")、プロデビュー作となった。[韓国外国語大学校](https://ja.wikipedia.org/wiki/韓国外国語大学校 "wikilink")の日本語科に入学したのは、日本のゲームやアニメを、人目を気にせず楽しむためだった。2004年から、日本向けの[韓国産](../Page/大韓民国.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")の、[BGMを中心とする](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")の作曲・編曲を手がけるようになった\[1\]。
+幼少期だった1987年ごろから、コンピューターゲームを愛好し、初歩的な日本語を知っていた。1997年冬に初来日し、[東京の](../Page/東京都.md "wikilink")[秋葉原](https://ja.wikipedia.org/wiki/秋葉原 "wikilink")などを訪れた。1998年には、アルバイトで作った音楽の[RPGがヒットし](../Page/ロールプレイングゲーム.md "wikilink")、プロデビュー作となった。[韓国外国語大学校](https://ja.wikipedia.org/wiki/韓国外国語大学校 "wikilink")の日本語科に入学したのは、日本のゲームやアニメを、人目を気にせず楽しむためだった。2004年から、日本向けの[韓国産](../Page/大韓民国.md "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")の、[BGMを中心とする](../Page/バックグラウンドミュージック.md "wikilink")[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")の作曲・編曲を手がけるようになった\[1\]。
 
 過去に[韓国外国語大学校](https://ja.wikipedia.org/wiki/韓国外国語大学校 "wikilink")にて日本語を専攻していたため日本語が堪能であり、アイドルマスターの楽曲「[Little Match Girl](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_ANIM@TION_MASTER_生っすかSPECIAL#05 "wikilink")」などは自ら日本語で作詞した。[日本においては](https://ja.wikipedia.org/wiki/日本国 "wikilink")、[同人音楽](../Page/同人音楽.md "wikilink")活動を皮切りに、近年はアーケードゲーム「[チュウニズム](https://ja.wikipedia.org/wiki/チュウニズム "wikilink")」やTVアニメ「[アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink")」の収録曲「[Memories](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_GIRLS_ANIMATION_PROJECT#02_Memories "wikilink")」などで韓国発ではない日本の作品にも参加している。
 
@@ -18,7 +18,7 @@
   - [アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink")　（バンダイナムコエンターテインメント、TVアニメ）
   - [THE IDOLM@STER 2](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_2 "wikilink")、[アイドルマスター ワンフォーオール](https://ja.wikipedia.org/wiki/アイドルマスター_ワンフォーオール "wikilink")　（[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")、[PS3](https://ja.wikipedia.org/wiki/PS3 "wikilink")、[XBOX360](https://ja.wikipedia.org/wiki/XBOX360 "wikilink")、TVアニメ）
   - [リッジレーサー7](../Page/リッジレーサー7.md "wikilink")、Ridge Racer Slipstream　（[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")、PS3、iOS）
-  - [ティンクル☆くるせいだーす](https://ja.wikipedia.org/wiki/ティンクル☆くるせいだーす "wikilink") STARLIT BRAVE\!\!　（[Lillian](https://ja.wikipedia.org/wiki/Lillian "wikilink")、[PSP](https://ja.wikipedia.org/wiki/PSP "wikilink")）
+  - [ティンクル☆くるせいだーす](https://ja.wikipedia.org/wiki/ティンクル☆くるせいだーす "wikilink") STARLIT BRAVE\!\!　（[Lillian](https://ja.wikipedia.org/wiki/Lillian "wikilink")、[PSP](../Page/PSP.md "wikilink")）
 
 ## 韓国の商業参加作品
 
@@ -26,7 +26,7 @@
 
   - [テイルズウィーバー](../Page/テイルズウィーバー.md "wikilink")　（NEXON、[SOFTMAX](https://ja.wikipedia.org/wiki/SOFTMAX "wikilink")、PCオンライン）
   - [DJMAX](../Page/DJMAX.md "wikilink")シリーズ　（[PENTAVISION](../Page/PENTAVISION.md "wikilink")、PCオンライン、PSP、アーケード）
-  - [スカッとゴルフ パンヤシリーズ](https://ja.wikipedia.org/wiki/スカッとゴルフ_パンヤ "wikilink")　（[Ntreev Soft](https://ja.wikipedia.org/wiki/Ntreev_Soft "wikilink")、PCオンライン、PSP、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")）
+  - [スカッとゴルフ パンヤシリーズ](../Page/スカッとゴルフ_パンヤ.md "wikilink")　（[Ntreev Soft](https://ja.wikipedia.org/wiki/Ntreev_Soft "wikilink")、PCオンライン、PSP、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")）
   - [トキメキファンタジー ラテール](../Page/トキメキファンタジー_ラテール.md "wikilink")　（ActozSoft、PCオンライン）
   - [マビノギデュエル](../Page/マビノギ_\(ゲーム\).md "wikilink")　（[NEXON](https://ja.wikipedia.org/wiki/NEXON "wikilink")、Android、iOS）
   - [DESTINY CHILD](http://www.destiny-child.com)　（NextFloor、SHIFT UP、Android、iOS）
@@ -34,14 +34,14 @@
   - [セブンナイツ](http://sevenknights.netmarble.jp)　（[ネットマーブルジャパン](../Page/ネットマーブルジャパン.md "wikilink")、Android、iOS）
   - [ダイスの神](http://god.joycity.com/ja)　（JOYCITY、Android、iOS）
   - [O2Jam](../Page/O2Jam.md "wikilink") U　（MOMO、Android、iOS）
-  - [トリックスター](https://ja.wikipedia.org/wiki/トリックスター_\(オンラインゲーム\) "wikilink")　（Ntreev Soft、PCオンライン）
+  - [トリックスター](../Page/トリックスター_\(オンラインゲーム\).md "wikilink")　（Ntreev Soft、PCオンライン）
   - [タワー オブ アイオン](https://ja.wikipedia.org/wiki/タワー_オブ_アイオン "wikilink")　（[エヌ・シー・ジャパン](../Page/エヌ・シー・ジャパン.md "wikilink")、PCオンライン）
   - [ドリフトシティ](https://ja.wikipedia.org/wiki/ドリフトシティ "wikilink")　（[ハンゲーム](../Page/ハンゲーム.md "wikilink")、PCオンライン）
   - アスタリア（原題Call of Chaos）　（ハンゲーム、PCオンライン）
   - G2〜Guns Gunner　（ハンゲーム、PCオンライン）
   - Cyphers　（Neople、PCオンライン）
   - [StreetGears](https://ja.wikipedia.org/wiki/StreetGears "wikilink")　（エヌフレーバー、PCオンライン）
-  - [マグナカルタ](https://ja.wikipedia.org/wiki/マグナカルタ_\(ゲーム\) "wikilink")　（SOFTMAX、Windows、[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - [マグナカルタ](../Page/マグナカルタ_\(ゲーム\).md "wikilink")　（SOFTMAX、Windows、[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
   - [4LEAF](../Page/ルーンの子供たち.md "wikilink")　（SOFTMAX、PCオンライン）
   - [BnB](https://ja.wikipedia.org/wiki/BnB "wikilink") Adventure　（SOFTMAX、NEXON、Windows）
   - Dream Chaser　（SOFTMAX、Windows）
@@ -58,7 +58,7 @@
 
 ## 同人参加作品
 
-  - 88☓88　（[Super Togoshi Blend](https://ja.wikipedia.org/wiki/戸越まごめ "wikilink")）
+  - 88☓88　（[Super Togoshi Blend](../Page/戸越まごめ.md "wikilink")）
   - berpop melodies & Remixes 2　（[bermei.inazawa](https://ja.wikipedia.org/wiki/bermei.inazawa "wikilink")）
   - berpop melodies & Remixies 　（bermei.inazawa）
   - 而立〜さよなら20代〜　（さよなら20代製作委員会）

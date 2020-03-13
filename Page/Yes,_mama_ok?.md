@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - [金剛地武志](https://ja.wikipedia.org/wiki/金剛地武志 "wikilink")：作詞、作曲、アレンジ、演奏、ボーカル、ミックス等の音楽面全般を主に担当。
+  - [金剛地武志](../Page/金剛地武志.md "wikilink")：作詞、作曲、アレンジ、演奏、ボーカル、ミックス等の音楽面全般を主に担当。
   - 高橋晃：ジャケットデザイン等のビジュアル面を主に担当。曲によって演奏にも参加する(sax.等)。現在はデザイン会社を経営している。[1](http://www.kloka.com)
   - [仲澤真萠](https://ja.wikipedia.org/wiki/仲澤真萠 "wikilink")：ボーカル。「Q\&A 65000」をもって脱退。
 
@@ -53,7 +53,7 @@
 
 ### トリビュートアルバム
 
-  - 「tribute to yes,mama ok?」（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")）
+  - 「tribute to yes,mama ok?」（[2006年](../Page/2006年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")）
 
 ### コンピレーション
 
@@ -67,7 +67,7 @@
   - 「Smash water people, ok?」（[2000年](../Page/2000年.md "wikilink")1月 COAR-0003）※1曲目「問と解」
   - 「a breach of etiquette vol.1」（[2000年](../Page/2000年.md "wikilink")8月 EQTR-2001）※1曲目「Breaches of Etiquette」、10曲目「Steeplechase」
   - 「J-WAVE DX presents SUPER NOVA」（[2000年](../Page/2000年.md "wikilink")11月）※14曲目「wild turkey」
-  - 「Beauty J-POP -Columbia edition-」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink") SSK-6）※12曲目「three-week-old love sick puppy (unplugged)」
+  - 「Beauty J-POP -Columbia edition-」（[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") SSK-6）※12曲目「three-week-old love sick puppy (unplugged)」
 
 ## タイアップ
 

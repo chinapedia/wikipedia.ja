@@ -11,11 +11,11 @@
 
 主要人物らが次々に亡くなるなど、かなり暗い作風となっており、[孫悟飯が人造人間に殺された時](https://ja.wikipedia.org/wiki/孫悟飯#異時系列における孫悟飯 "wikilink")、演じた[野沢雅子](../Page/野沢雅子.md "wikilink")は非常に悔しい思いをしたと語っている\[2\]。また、トランクス役の[草尾毅](../Page/草尾毅.md "wikilink")は印象に残ったストーリーに本作を挙げている\[3\]。
 
-『[ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")』の第52話ではトランクスの回想シーンで、本作の一部のシーンが[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")されている。
+『[ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")』の第52話ではトランクスの回想シーンで、本作の一部のシーンが[リメイク](../Page/リメイク.md "wikilink")されている。
 
 ## ストーリー
 
-[地球に帰還した](https://ja.wikipedia.org/wiki/地球_\(ドラゴンボール\) "wikilink")[孫悟空が](https://ja.wikipedia.org/wiki/孫悟空_\(ドラゴンボール\) "wikilink")[フリーザ一味](https://ja.wikipedia.org/wiki/フリーザ一味 "wikilink")を倒してから2年半後、悟空は[心臓病](../Page/心臓病.md "wikilink")で息を引き取った。それから半年後、2人の[人造人間が現れ](https://ja.wikipedia.org/wiki/人造人間_\(ドラゴンボール\) "wikilink")、都市の破壊と殺戮を繰り返し、この世は恐怖に包まれた。2人を倒すべく立ち上がった戦士たちも、[ピッコロが死に](../Page/ピッコロ_\(ドラゴンボール\).md "wikilink")、[ドラゴンボールは消滅](../Page/ドラゴンボール_\(架空の道具\).md "wikilink")。超サイヤ人となった[ベジータ](https://ja.wikipedia.org/wiki/ベジータ#異時系列におけるベジータ "wikilink")、地球人戦士の[ヤムチャ](../Page/ヤムチャ.md "wikilink")、[天津飯](../Page/天津飯_\(ドラゴンボール\).md "wikilink")、[餃子](../Page/餃子_\(ドラゴンボール\).md "wikilink")、[クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")も戦死した。
+[地球に帰還した](https://ja.wikipedia.org/wiki/地球_\(ドラゴンボール\) "wikilink")[孫悟空が](../Page/孫悟空_\(ドラゴンボール\).md "wikilink")[フリーザ一味](https://ja.wikipedia.org/wiki/フリーザ一味 "wikilink")を倒してから2年半後、悟空は[心臓病](../Page/心臓病.md "wikilink")で息を引き取った。それから半年後、2人の[人造人間が現れ](../Page/人造人間_\(ドラゴンボール\).md "wikilink")、都市の破壊と殺戮を繰り返し、この世は恐怖に包まれた。2人を倒すべく立ち上がった戦士たちも、[ピッコロが死に](../Page/ピッコロ_\(ドラゴンボール\).md "wikilink")、[ドラゴンボールは消滅](../Page/ドラゴンボール_\(架空の道具\).md "wikilink")。超サイヤ人となった[ベジータ](https://ja.wikipedia.org/wiki/ベジータ#異時系列におけるベジータ "wikilink")、地球人戦士の[ヤムチャ](../Page/ヤムチャ.md "wikilink")、[天津飯](../Page/天津飯_\(ドラゴンボール\).md "wikilink")、[餃子](../Page/餃子_\(ドラゴンボール\).md "wikilink")、[クリリン](../Page/クリリン.md "wikilink")も戦死した。
 
 それから13年後、なすすべも無い状況の中、孫悟飯だけは、懸命に人造人間への反抗を続けていた。ベジータの遺児であるトランクスも戦う決意をし、悟飯に弟子入りする。地球の未来は悟飯とトランクスの2人に託されたのだった。
 
@@ -28,16 +28,16 @@
   - [トランクス](https://ja.wikipedia.org/wiki/トランクス_\(ドラゴンボール\)#トランクス（未来） "wikilink")
     ベジータの遺児。父であるベジータは物心付いた頃には他界している。人造人間になす術もなく破壊される街を見て[サイヤ人](../Page/サイヤ人.md "wikilink")の誇りに目覚め、悟飯の指導を受けるが、超サイヤ人に覚醒することができず、焦りを見せる。しかし、人生の師である悟飯の死と同時に超サイヤ人に目覚めた。その後も一人で人造人間と挑み続けるが一度も勝てず、歴史を変えるべくブルマが開発したタイムマシンで悟空が生きていた過去の時代へ心臓病の薬を携え、単身向かった。
     原作では悟飯との修行中にすでに超サイヤ人になっており、悟飯によると、あと数か月で自分を超える程と評された。
-  - [ブルマ](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink")
+  - [ブルマ](../Page/ブルマ_\(ドラゴンボール\).md "wikilink")
     トランクスの母。人造人間の行いは許せないものの、戦いでは勝ち目がないことは悟っており、違う方法で人造人間を破壊する術を自身の残された研究施設で模索している。トランクスや悟飯が闘っていることは知っていたが、黙認していた。後にトランクスが人造人間に立ち向かおうとする際も、「3年前の悟飯と大して違っているとは思えない」と実力差を見抜いていた。
     本編では息子たちを見守る母親として描かれているが、小説版では自分自身が助かりたいがためにタイムマシンの資金援助を申し出た成金の男を投げ飛ばすなど、かつての気性の強い部分が描かれた。
-  - [亀仙人](https://ja.wikipedia.org/wiki/亀仙人 "wikilink")（かめせんにん）
+  - [亀仙人](../Page/亀仙人.md "wikilink")（かめせんにん）
     悟空やクリリンたちの師匠。原作では弟子たちが殺された後の消息は不明だったが、本作では戦わず、[プーアル](../Page/プーアル.md "wikilink")、[ウーロン](https://ja.wikipedia.org/wiki/ウーロン "wikilink")、ウミガメと共に生き残っており、悟空さえ生きていれば人造人間を倒せたと己の無力さを嘆く。人造人間から逃れるために潜水艦内で日々を送っている。
   - [チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink")
     悟空の妻で悟飯の母。悟飯が人造人間に敵わないことは悟っているようで、戦いを諦めて父親の牛魔王と3人で平穏に暮らしたいと考えている。原作では生死不明だったが、悟空の死ですっかり元気がなくなり、人造人間と戦う気力も無くしている様子が描かれた。トランクスと共に人造人間と戦う悟飯を心配し、家族3人が写った写真を眺めながら「戦いなどやめて、自分の元へ戻ってこい」と語りかけている。
   - 牛魔王（ぎゅうまおう）
     悟飯の祖父でチチの父。亀仙人の2番弟子。原作では消息不明だったが、本作ではチチや亀仙人同様、人造人間とは直接戦わずに生き残る。本編では初登場時から変わらぬ外見を最終回まで保っていたが、本作では老け込んでいた。人造人間と戦い続ける悟飯の噂を聞き、心配している。
-  - [クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")
+  - [クリリン](../Page/クリリン.md "wikilink")
     悟空の親友。悟空が病死した日、外で待機していたメンバーの中で真っ先に悟空の死を感じ取る。人造人間との戦いでは、17号と18号の同時攻撃で戦死。
   - [ベジータ](https://ja.wikipedia.org/wiki/ベジータ#異時系列におけるベジータ "wikilink")
     サイヤ人の王子であり、トランクスの父親（ブルマとは結婚しないまま死を遂げた）。ライバルである悟空の死後、17号との戦いで死亡。悟飯からは「気難しいけど、強くて、とても誇り高い人だった」と評された。原作では不明だが、本作やアニメのトランクスの回想シーンでは、超サイヤ人になっていた。
@@ -49,45 +49,45 @@
 ## 声の出演
 
   - **[孫悟飯](https://ja.wikipedia.org/wiki/孫悟飯#異時系列における孫悟飯 "wikilink")** - [野沢雅子](../Page/野沢雅子.md "wikilink")
-  - **[クリリン](https://ja.wikipedia.org/wiki/クリリン "wikilink")** - [田中真弓](../Page/田中真弓.md "wikilink")
-  - '''[ブルマ](https://ja.wikipedia.org/wiki/ブルマ_\(ドラゴンボール\) "wikilink") - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
+  - **[クリリン](../Page/クリリン.md "wikilink")** - [田中真弓](../Page/田中真弓.md "wikilink")
+  - '''[ブルマ](../Page/ブルマ_\(ドラゴンボール\).md "wikilink") - [鶴ひろみ](../Page/鶴ひろみ.md "wikilink")
   - **[ベジータ](https://ja.wikipedia.org/wiki/ベジータ#異時系列におけるベジータ "wikilink")** - [堀川亮](../Page/堀川りょう.md "wikilink")
   - **[トランクス](https://ja.wikipedia.org/wiki/トランクス_\(ドラゴンボール\)#トランクス（未来） "wikilink")** - [草尾毅](../Page/草尾毅.md "wikilink")
-  - '''[チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink") - [渡辺菜生子](https://ja.wikipedia.org/wiki/渡辺菜生子 "wikilink")
-  - '''[牛魔王](https://ja.wikipedia.org/wiki/ドラゴンボールの登場人物#牛魔王 "wikilink") - [郷里大輔](https://ja.wikipedia.org/wiki/郷里大輔 "wikilink")
+  - '''[チチ](../Page/チチ_\(ドラゴンボール\).md "wikilink") - [渡辺菜生子](../Page/渡辺菜生子.md "wikilink")
+  - '''[牛魔王](https://ja.wikipedia.org/wiki/ドラゴンボールの登場人物#牛魔王 "wikilink") - [郷里大輔](../Page/郷里大輔.md "wikilink")
   - **[ウーロン](https://ja.wikipedia.org/wiki/ウーロン "wikilink")** - [龍田直樹](../Page/龍田直樹.md "wikilink")
-  - **[亀仙人](https://ja.wikipedia.org/wiki/亀仙人 "wikilink")** - [宮内幸平](https://ja.wikipedia.org/wiki/宮内幸平 "wikilink")
+  - **[亀仙人](../Page/亀仙人.md "wikilink")** - [宮内幸平](../Page/宮内幸平.md "wikilink")
   - **[人造人間17号](https://ja.wikipedia.org/wiki/人造人間17号#異時系列における人造人間17号 "wikilink")** - [中原茂](../Page/中原茂.md "wikilink")
-  - **[人造人間18号](https://ja.wikipedia.org/wiki/人造人間18号#異時系列における人造人間18号 "wikilink")** - [伊藤美紀](https://ja.wikipedia.org/wiki/伊藤美紀_\(声優\) "wikilink")
+  - **[人造人間18号](https://ja.wikipedia.org/wiki/人造人間18号#異時系列における人造人間18号 "wikilink")** - [伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")
   - **アナウンサー** - [里内信夫](../Page/里内信夫.md "wikilink")
-  - **店主** - [太田真一郎](https://ja.wikipedia.org/wiki/太田真一郎 "wikilink")
-  - **女** - [長沢直美](https://ja.wikipedia.org/wiki/永澤菜教 "wikilink")
-  - **係員** - [田中一成](https://ja.wikipedia.org/wiki/田中一成 "wikilink")\[5\]\[6\]
+  - **店主** - [太田真一郎](../Page/太田真一郎.md "wikilink")
+  - **女** - [長沢直美](../Page/永澤菜教.md "wikilink")
+  - **係員** - [田中一成](../Page/田中一成.md "wikilink")\[5\]\[6\]
   - **ナレーション** - [八奈見乗児](../Page/八奈見乗児.md "wikilink")
 
 キャストには野沢雅子が孫悟空・孫悟飯の二役とクレジットされているが、作中に悟空の台詞はなく冒頭の登場シーンで既に息を引き取っていて、ほぼ未登場に近い扱い。
 
 ## スタッフ
 
-  - 企画 - [清水賢治](https://ja.wikipedia.org/wiki/清水賢治 "wikilink")、金田耕司、[森下孝三](../Page/森下孝三.md "wikilink")
+  - 企画 - [清水賢治](../Page/清水賢治.md "wikilink")、金田耕司、[森下孝三](../Page/森下孝三.md "wikilink")
   - 原作 - [鳥山明](../Page/鳥山明.md "wikilink")
   - 製作担当 - 山口彰彦
-  - シリーズディレクター - [西尾大介](https://ja.wikipedia.org/wiki/西尾大介 "wikilink")
-  - シリーズ構成 - [小山高生](https://ja.wikipedia.org/wiki/小山高生 "wikilink")
+  - シリーズディレクター - [西尾大介](../Page/西尾大介.md "wikilink")
+  - シリーズ構成 - [小山高生](../Page/小山高生.md "wikilink")
   - 脚本 - [戸田博史](https://ja.wikipedia.org/wiki/戸田博史 "wikilink")
-  - 音楽 - [菊池俊輔](https://ja.wikipedia.org/wiki/菊池俊輔 "wikilink")
+  - 音楽 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 美術設定、美術監督 - 鷲崎博
-  - キャラクター設定、作画監督 - [前田実](https://ja.wikipedia.org/wiki/前田実 "wikilink")
+  - キャラクター設定、作画監督 - [前田実](../Page/前田実.md "wikilink")
   - 演出 - 上田芳裕
   - 原画 - [中鶴勝祥](../Page/中鶴勝祥.md "wikilink") ほか
   - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[東映動画](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")
 
 ## 主題歌
 
-  - オープニングテーマ - 「[CHA-LA HEAD-CHA-LA](https://ja.wikipedia.org/wiki/CHA-LA_HEAD-CHA-LA "wikilink")」
-    作詞 - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - [山本健司](../Page/山本健司.md "wikilink") / 歌 - [影山ヒロノブ](https://ja.wikipedia.org/wiki/影山ヒロノブ "wikilink")
+  - オープニングテーマ - 「[CHA-LA HEAD-CHA-LA](../Page/CHA-LA_HEAD-CHA-LA.md "wikilink")」
+    作詞 - [森雪之丞](../Page/森雪之丞.md "wikilink") / 作曲 - [清岡千穂](../Page/清岡千穂.md "wikilink") / 編曲 - [山本健司](../Page/山本健司.md "wikilink") / 歌 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
   - エンディングテーマ - 「青い風のHOPE」
-    作詞 - [佐藤大](https://ja.wikipedia.org/wiki/佐藤大 "wikilink") / 作曲 - 清岡千穂 / 編曲 - 山本健司 / 歌 - 影山ヒロノブ
+    作詞 - [佐藤大](../Page/佐藤大.md "wikilink") / 作曲 - 清岡千穂 / 編曲 - 山本健司 / 歌 - 影山ヒロノブ
 
 ## 映像ソフト
 
@@ -130,7 +130,7 @@
 
 ## 関連項目
 
-  - [ドラゴンボールZ 真武道会2](../Page/ドラゴンボールZ_真武道会2.md "wikilink") - [PSP専用のゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。本作をベースにし、なおかつ人造人間が全て倒された後の未来を描いている。
+  - [ドラゴンボールZ 真武道会2](../Page/ドラゴンボールZ_真武道会2.md "wikilink") - [PSP専用のゲームソフト](../Page/PlayStation_Portable.md "wikilink")。本作をベースにし、なおかつ人造人間が全て倒された後の未来を描いている。
 
 [Category:スペシャルアニメ](https://ja.wikipedia.org/wiki/Category:スペシャルアニメ "wikilink") [Category:ドラゴンボールのアニメ](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのアニメ "wikilink") [Category:1993年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1993年のテレビアニメ "wikilink") [Category:アニメのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:アニメのスピンオフ作品 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 

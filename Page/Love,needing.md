@@ -1,7 +1,7 @@
 > この記事は[Love,needing](https://ja.wikipedia.org/wiki/Love,needing)から翻訳されています。
 
 
-「**Love,needing**」（ラブ・ニーディング）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された、日本の女性歌手・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の19作目の[シングル](../Page/シングル.md "wikilink")曲。CDコードはGZCA-4020。
+「**Love,needing**」（ラブ・ニーディング）は、[2005年](../Page/2005年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された、日本の女性歌手・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の19作目の[シングル](../Page/シングル.md "wikilink")曲。CDコードはGZCA-4020。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 1.  **Love,needing** (3:18)
       - 作詞：倉木麻衣、作曲：[大野愛果](../Page/大野愛果.md "wikilink")、編曲：[麻井寛史](../Page/麻井寛史.md "wikilink")
 2.  **Moon serenade,Moonlight** (4:29)
-      - 作詞：倉木麻衣、作曲・編曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+      - 作詞：倉木麻衣、作曲・編曲：[徳永暁人](../Page/徳永暁人.md "wikilink")
 3.  **[明日へ架ける橋](../Page/明日へ架ける橋.md "wikilink") 〜ballad ver.〜** (3:51)
       - 作詞：倉木麻衣、作曲・編曲：徳永暁人
     <!-- end list -->

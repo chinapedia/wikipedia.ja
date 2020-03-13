@@ -9,7 +9,7 @@
 
 【初回生産限定】カップリング1曲収録、ジャケット別絵柄
 
-デビュー前に参加したコンピレーションアルバム『SWEET LOVERS TALKING VOL.1』に「BLUES feat.KANAMI」という[THC\!\!](https://ja.wikipedia.org/wiki/THC!! "wikilink")のKANAMI（現：KANA）を加えた別バージョンが存在する。
+デビュー前に参加したコンピレーションアルバム『SWEET LOVERS TALKING VOL.1』に「BLUES feat.KANAMI」という[THC\!\!](../Page/THC!!.md "wikilink")のKANAMI（現：KANA）を加えた別バージョンが存在する。
 
 ## 収録曲
 
@@ -38,6 +38,6 @@
 
 ## タイアップ
 
-TBS系「[天才\!トコロ店](https://ja.wikipedia.org/wiki/天才!トコロ店 "wikilink")」2004年10～11月度エンディングテーマ
+TBS系「[天才\!トコロ店](../Page/天才!トコロ店.md "wikilink")」2004年10～11月度エンディングテーマ
 
 [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

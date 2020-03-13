@@ -5,11 +5,11 @@
 
 ## 概略
 
-[1992年](../Page/1992年.md "wikilink")に日暮愛葉を中心に結成\[1\]。当時としては珍しく最初から海外での活動を念頭に置き、[Buffalo Daughterや](../Page/Buffalo_Daughter.md "wikilink")[CIBO MATTOらと共に](../Page/チボ・マット.md "wikilink")、海外の空気を含んだ、新しいバンドの文脈を形成\[2\]。当初は[ブリットポップ](../Page/ブリットポップ.md "wikilink")やキャンディポップのような曲をやっていた\[3\]。4曲入りのデモを作ると、[カジヒデキ](../Page/カジヒデキ.md "wikilink")のおかげでESCALATOR RECORDSの仲真史主宰のa trumpet trumpet RECORDSからのリリースが決まる\[4\]。日本とニューヨークを行き来する間に小山ナオや辛島孝治と出会い、次第にカワイイ曲調からシーガルらしい尖った音に変わって行った\[5\]。[1996年](../Page/1996年.md "wikilink")に[小山田圭吾](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")([フリッパーズ・ギター](../Page/フリッパーズ・ギター.md "wikilink")、コーネリアス)主宰の[トラットリア](https://ja.wikipedia.org/wiki/トラットリア_\(レコードレーベル\) "wikilink")/[ポリスター](https://ja.wikipedia.org/wiki/ポリスター "wikilink")から作品を発表するようになる。[2002年](../Page/2002年.md "wikilink")に活動休止。[2014年](../Page/2014年.md "wikilink")、日暮にとって近年のパートナーである中尾憲太郎の提案により、新メンバーを迎えて新生SEAGULL SCREAMING KISS HER KISS HERとして再始動\[6\]。
+[1992年](../Page/1992年.md "wikilink")に日暮愛葉を中心に結成\[1\]。当時としては珍しく最初から海外での活動を念頭に置き、[Buffalo Daughterや](../Page/Buffalo_Daughter.md "wikilink")[CIBO MATTOらと共に](../Page/チボ・マット.md "wikilink")、海外の空気を含んだ、新しいバンドの文脈を形成\[2\]。当初は[ブリットポップ](../Page/ブリットポップ.md "wikilink")やキャンディポップのような曲をやっていた\[3\]。4曲入りのデモを作ると、[カジヒデキ](../Page/カジヒデキ.md "wikilink")のおかげでESCALATOR RECORDSの仲真史主宰のa trumpet trumpet RECORDSからのリリースが決まる\[4\]。日本とニューヨークを行き来する間に小山ナオや辛島孝治と出会い、次第にカワイイ曲調からシーガルらしい尖った音に変わって行った\[5\]。[1996年](../Page/1996年.md "wikilink")に[小山田圭吾](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")([フリッパーズ・ギター](../Page/フリッパーズ・ギター.md "wikilink")、コーネリアス)主宰の[トラットリア](https://ja.wikipedia.org/wiki/トラットリア_\(レコードレーベル\) "wikilink")/[ポリスター](../Page/ポリスター.md "wikilink")から作品を発表するようになる。[2002年](../Page/2002年.md "wikilink")に活動休止。[2014年](../Page/2014年.md "wikilink")、日暮にとって近年のパートナーである中尾憲太郎の提案により、新メンバーを迎えて新生SEAGULL SCREAMING KISS HER KISS HERとして再始動\[6\]。
 
 ## バンド名
 
-[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のバンド、[XTCのアルバム](https://ja.wikipedia.org/wiki/XTC_\(バンド\) "wikilink")『[ザ・ビッグ・エキスプレス](https://ja.wikipedia.org/wiki/ザ・ビッグ・エキスプレス "wikilink")』収録曲「Seagulls screaming kiss her,kiss her」を長すぎて面白いと思った事と、XTCが好きという理由から決められた。初ライブ当日に決めたという\[7\]。
+[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のバンド、[XTCのアルバム](../Page/XTC_\(バンド\).md "wikilink")『[ザ・ビッグ・エキスプレス](https://ja.wikipedia.org/wiki/ザ・ビッグ・エキスプレス "wikilink")』収録曲「Seagulls screaming kiss her,kiss her」を長すぎて面白いと思った事と、XTCが好きという理由から決められた。初ライブ当日に決めたという\[7\]。
 
 ## メンバー
 
@@ -27,7 +27,7 @@
 <!-- end list -->
 
   -
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。
     Crypt City、younGSounds、元[ナンバーガール](../Page/ナンバーガール.md "wikilink")。
 
 <!-- end list -->
@@ -86,7 +86,7 @@
 <!-- end list -->
 
   -
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")・ボーカル担当。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")・ボーカル担当。
     2002年の活動休止後、[イラストレーター](../Page/イラストレーター.md "wikilink")“ナオミ・レモン”として活動。
 
 <!-- end list -->

@@ -5,8 +5,8 @@
 
 ## 概要
 
-  - [ネオプラネットに続く](../Page/ネオプラネットXX.md "wikilink")「[EL VISION](https://ja.wikipedia.org/wiki/EL_VISION "wikilink")」機として「山佐」からリリースされた。
-  - 準大量獲得機 (A-500) となる本機は「7ライン機」で、RTゲーム数とモード式両方を含んだストック機であり、[連荘](https://ja.wikipedia.org/wiki/連荘 "wikilink")が望める[ビッグバンモード](../Page/ビッグバンモード.md "wikilink")、更には「マジカル×10ゾーン」 (MZ) というボーナスを高確率で放出してくれるモードも新たに搭載された。
+  - [ネオプラネットに続く](../Page/ネオプラネットXX.md "wikilink")「[EL VISION](../Page/EL_VISION.md "wikilink")」機として「山佐」からリリースされた。
+  - 準大量獲得機 (A-500) となる本機は「7ライン機」で、RTゲーム数とモード式両方を含んだストック機であり、[連荘](../Page/連荘.md "wikilink")が望める[ビッグバンモード](../Page/ビッグバンモード.md "wikilink")、更には「マジカル×10ゾーン」 (MZ) というボーナスを高確率で放出してくれるモードも新たに搭載された。
 
 ## 演出
 
@@ -64,7 +64,7 @@
 
 ## 家庭用ゲーム機
 
-  - 本機種は[プレイステーション2に移植され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、系列会社の[ヤマサエンタテイメント](https://ja.wikipedia.org/wiki/ヤマサエンタテイメント "wikilink")より「[山佐デジワールドSP ネオマジックパルサーXX](https://ja.wikipedia.org/wiki/山佐Digiシリーズ "wikilink")」として発売された（発売日：[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")）。
+  - 本機種は[プレイステーション2に移植され](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、系列会社の[ヤマサエンタテイメント](https://ja.wikipedia.org/wiki/ヤマサエンタテイメント "wikilink")より「[山佐デジワールドSP ネオマジックパルサーXX](../Page/山佐Digiシリーズ.md "wikilink")」として発売された（発売日：[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")）。
 
 ## 関連項目
 

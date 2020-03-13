@@ -1,7 +1,7 @@
 > この記事は[Crossover](https://ja.wikipedia.org/wiki/Crossover)から翻訳されています。
 
 
-『**crossover**』（クロスオーバー）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の[スペシャルコンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**crossover**』（クロスオーバー）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")の[スペシャルコンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -20,7 +20,7 @@
         作詞:[shungo.](https://ja.wikipedia.org/wiki/shungo. "wikilink")・[中野雄太](../Page/中野雄太.md "wikilink")、作曲・編曲:中野雄太
 2.  **[Perseus-ペルセウス-](../Page/Perseus-ペルセウス-.md "wikilink")(crossover version)**
       -
-        作詞:[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")、作曲:迫茂樹、編曲:前嶋康明
+        作詞:[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")、作曲:迫茂樹、編曲:前嶋康明
         12thシングル
 3.  **I will**
       -
@@ -39,7 +39,7 @@
         16thシングル
 7.  **[シャンティ](https://ja.wikipedia.org/wiki/シャンティ_\(シングル\) "wikilink")(crossover version)**
       -
-        作詞:[康珍化](https://ja.wikipedia.org/wiki/康珍化 "wikilink") / 作曲:上野圭市 / 編曲:[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
+        作詞:[康珍化](../Page/康珍化.md "wikilink") / 作曲:上野圭市 / 編曲:[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")
         6thシングル
 8.  **秘密**
       -
@@ -48,7 +48,7 @@
       -
         作詞:BOUNCEBACK、作曲・編曲:中野雄太
         ｢あいうた｣と読む。
-10. **[追憶+LOVE LETTER](https://ja.wikipedia.org/wiki/追憶+LOVE_LETTER "wikilink")(crossover version)**
+10. **[追憶+LOVE LETTER](../Page/追憶+LOVE_LETTER.md "wikilink")(crossover version)**
       -
         作詞:kenko-p / 作曲・編曲:中野雄太
         4thアルバム『追憶+LOVE LETTER』の表題曲。

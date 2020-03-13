@@ -1,11 +1,11 @@
 > この記事は[BTR-94](https://ja.wikipedia.org/wiki/BTR-94)から翻訳されています。
 
 
-**BTR-94**（[ウクライナ語](../Page/ウクライナ語.md "wikilink")：****<small>ベーテーエール・デヴィヤノースト・チョトィールィ</small>）は、[ウクライナ](../Page/ウクライナ.md "wikilink")で開発された[装甲兵員輸送車](https://ja.wikipedia.org/wiki/装甲兵員輸送車 "wikilink")（）である。
+**BTR-94**（[ウクライナ語](../Page/ウクライナ語.md "wikilink")：****<small>ベーテーエール・デヴィヤノースト・チョトィールィ</small>）は、[ウクライナ](../Page/ウクライナ.md "wikilink")で開発された[装甲兵員輸送車](../Page/装甲兵員輸送車.md "wikilink")（）である。
 
 ## 概要
 
-BTR-94は、[ソ連時代から使用されてきた](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[BTR-60](../Page/BTR-60.md "wikilink")/[70](../Page/BTR-70.md "wikilink")/[80シリーズを代替する目的で開発された](../Page/BTR-80.md "wikilink")。車体はBTR-80と同一のものが利用されたが、BTR-80に搭載されたものより大型の[銃塔が搭載され](../Page/砲塔.md "wikilink")、そこに23 mm連装対空[機関砲](https://ja.wikipedia.org/wiki/機関砲 "wikilink")[ZU-23-2](https://ja.wikipedia.org/wiki/ZU-23-2 "wikilink")を装備した。また、補助兵装として7.62mm[PKT](../Page/PK_\(機関銃\).md "wikilink")[機銃](https://ja.wikipedia.org/wiki/機銃 "wikilink")も搭載している。
+BTR-94は、[ソ連時代から使用されてきた](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[BTR-60](../Page/BTR-60.md "wikilink")/[70](../Page/BTR-70.md "wikilink")/[80シリーズを代替する目的で開発された](../Page/BTR-80.md "wikilink")。車体はBTR-80と同一のものが利用されたが、BTR-80に搭載されたものより大型の[銃塔が搭載され](../Page/砲塔.md "wikilink")、そこに23 mm連装対空[機関砲](../Page/機関砲.md "wikilink")[ZU-23-2](https://ja.wikipedia.org/wiki/ZU-23-2 "wikilink")を装備した。また、補助兵装として7.62mm[PKT](../Page/PK_\(機関銃\).md "wikilink")[機銃](https://ja.wikipedia.org/wiki/機銃 "wikilink")も搭載している。
 
 これに加え、車上には[索敵レーダーを搭載しており](../Page/レーダー.md "wikilink")、地上の目標では20km、上空の目標では30km先のものを探知できる。
 

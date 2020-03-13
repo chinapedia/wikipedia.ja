@@ -1,7 +1,7 @@
 > この記事は[First Message](https://ja.wikipedia.org/wiki/First_Message)から翻訳されています。
 
 
-『**First Message**』（ファースト・メッセージ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の 歌手[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月1日](../Page/11月1日.md "wikilink")にリリースされた。発売元は[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")。
+『**First Message**』（ファースト・メッセージ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の 歌手[絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink")の1枚目の[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")にリリースされた。発売元は[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 またアルバムには、発売された100枚のうちの1枚の割合でGOLD TICKETというチケットが封入されている。チケット入りのアルバムを入手した購入者は、2006年[11月18日](../Page/11月18日.md "wikilink")から全国で行われるライブに行くとその会場で「アルバム全曲[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")収録のドキュメンタリーDVD」がもらえた。
 
-シングル『三日月』に続き、[オリコンアルバムチャート初登場首位を記録](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")。 さらに4月16日付で[ミリオン](https://ja.wikipedia.org/wiki/ミリオン "wikilink")突破を果たした。 デビューアルバムのミリオンヒットは[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")『[TRUE](../Page/TRUE_\(中島美嘉のアルバム\).md "wikilink")』以来の記録となった。
+シングル『三日月』に続き、[オリコンアルバムチャート初登場首位を記録](../Page/オリコンチャート.md "wikilink")。 さらに4月16日付で[ミリオン](https://ja.wikipedia.org/wiki/ミリオン "wikilink")突破を果たした。 デビューアルバムのミリオンヒットは[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")『[TRUE](../Page/TRUE_\(中島美嘉のアルバム\).md "wikilink")』以来の記録となった。
 
 ちなみに、歌詞カードの見開きのページに「[Jewelry day](../Page/Jewelry_day.md "wikilink")」の歌詞の一部が書かれている。
 

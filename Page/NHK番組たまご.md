@@ -1,11 +1,11 @@
 > この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
 
 
-**NHK番組たまご**（エヌエイチケイばんぐみたまご）は、[NHKが随時行っていた実験的](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[単発特別番組枠](https://ja.wikipedia.org/wiki/単発特別番組枠 "wikilink")の総称である。
+**NHK番組たまご**（エヌエイチケイばんぐみたまご）は、[NHKが随時行っていた実験的](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")の総称である。
 
 ## これまでに放送された番組
 
-「※」は外部番組制作会社に番組企画を募り、採択、委託して制作・放送された番組。 特記に放送チャンネルのないものは[総合テレビで放映された](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")。一部、NHKワールド・プレミアムでも放送されたものがある。
+「※」は外部番組制作会社に番組企画を募り、採択、委託して制作・放送された番組。 特記に放送チャンネルのないものは[総合テレビで放映された](../Page/NHK総合テレビジョン.md "wikilink")。一部、NHKワールド・プレミアムでも放送されたものがある。
 
 ### 2005年
 
@@ -38,7 +38,7 @@
 <tr class="odd">
 <td><p><a href="../Page/祝日.md" title="wikilink">祝日</a>等随時</p></td>
 <td><p><a href="../Page/今日は一日○○三昧.md" title="wikilink">今日は一日○○三昧</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK-FM放送" title="wikilink">FMで放送</a></p></td>
+<td><p><a href="../Page/NHK-FM放送.md" title="wikilink">FMで放送</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/3月27日.md" title="wikilink">3月27日</a></p></td>
@@ -67,7 +67,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/4月8日" title="wikilink">4月8日</a></p></td>
+<td><p><a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
 <td><p>新感覚伝統芸能バラエティー RAKU-GO!</p></td>
 <td></td>
 </tr>
@@ -89,7 +89,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/7月8日" title="wikilink">7月8日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ETV特集" title="wikilink">ETV特集</a></p></td>
+<td><p><a href="../Page/ETV特集.md" title="wikilink">ETV特集</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -123,7 +123,7 @@
 <tr class="odd">
 <td><p><a href="../Page/8月12日.md" title="wikilink">8月12日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒミツのちからんど" title="wikilink">音楽のちから</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK教育テレビジョン" title="wikilink">教育テレビで放送</a></p></td>
+<td><p><a href="../Page/NHK教育テレビジョン.md" title="wikilink">教育テレビで放送</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/8月26日.md" title="wikilink">8月26日</a></p></td>
@@ -226,7 +226,7 @@
 <tr class="odd">
 <td><p><a href="../Page/4月30日.md" title="wikilink">4月30日</a></p></td>
 <td><p>わんちゃんのがっこう</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン" title="wikilink">BS2で放送</a></p></td>
+<td><p><a href="../Page/NHK衛星第2テレビジョン.md" title="wikilink">BS2で放送</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
@@ -369,11 +369,11 @@
 | [4月12日](../Page/4月12日.md "wikilink")                                   | TVソムリエ 謎の屋台                                                                                                  |                                                                   |
 | 5月8日                                                                   | [ドキュメント考える](https://ja.wikipedia.org/wiki/ドキュメント考える "wikilink")〜華道家・[假屋崎省吾](../Page/假屋崎省吾.md "wikilink")〜    |                                                                   |
 | 5月8日                                                                   | 謎缶                                                                                                           |                                                                   |
-| [5月9日](../Page/5月9日.md "wikilink")                                     | ドキュメント考える〜クリエイティブディレクター・[箭内道彦](https://ja.wikipedia.org/wiki/箭内道彦 "wikilink")〜                               |                                                                   |
+| [5月9日](../Page/5月9日.md "wikilink")                                     | ドキュメント考える〜クリエイティブディレクター・[箭内道彦](../Page/箭内道彦.md "wikilink")〜                                                  |                                                                   |
 | [5月31日](../Page/5月31日.md "wikilink")                                   | 今日からメルダチ\!                                                                                                   | ※                                                                 |
 | [6月13日](../Page/6月13日.md "wikilink")                                   | 無邪気なオオカミ                                                                                                     |                                                                   |
 | [7月12日](../Page/7月12日.md "wikilink")                                   | [笑・神・降・臨](https://ja.wikipedia.org/wiki/笑・神・降・臨 "wikilink")                                                  |                                                                   |
-| [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")                | [歴史秘話ヒストリア](../Page/歴史秘話ヒストリア.md "wikilink")                                                                 |                                                                   |
+| [7月23日](../Page/7月23日.md "wikilink")                                   | [歴史秘話ヒストリア](../Page/歴史秘話ヒストリア.md "wikilink")                                                                 |                                                                   |
 | 7月30日                                                                  | [たったひとりの反乱](https://ja.wikipedia.org/wiki/たったひとりの反乱 "wikilink")                                              |                                                                   |
 | 7月31日                                                                  | あれ今どうなった?                                                                                                    |                                                                   |
 | 8月1日                                                                   | うわさのプロファイリング                                                                                                 |                                                                   |
@@ -668,7 +668,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月20日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヨコワリ!〜同時代対決・歴史バラエティー〜" title="wikilink">ヨコワリ!〜同時代対決・歴史バラエティー〜</a>「<a href="https://ja.wikipedia.org/wiki/天璋院" title="wikilink">天璋院</a>VS<a href="../Page/西太后.md" title="wikilink">西太后</a>」 ※</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ヨコワリ!〜同時代対決・歴史バラエティー〜" title="wikilink">ヨコワリ!〜同時代対決・歴史バラエティー〜</a>「<a href="../Page/天璋院.md" title="wikilink">天璋院</a>VS<a href="../Page/西太后.md" title="wikilink">西太后</a>」 ※</p></td>
 <td><p>「秋の番組たまごまつり」</p></td>
 </tr>
 <tr class="even">
@@ -901,7 +901,7 @@
 <td><p>「夏の番組たまごまつり」</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AAA_(音楽グループ)" title="wikilink">AAAの</a><a href="https://ja.wikipedia.org/wiki/Glee/グリーのエピソード一覧" title="wikilink">ショークワイヤやろうぜ</a>!</p></td>
+<td><p><a href="../Page/AAA_(音楽グループ).md" title="wikilink">AAAの</a><a href="https://ja.wikipedia.org/wiki/Glee/グリーのエピソード一覧" title="wikilink">ショークワイヤやろうぜ</a>!</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1121,19 +1121,19 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>4月</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>4月</p></td>
 <td><p>|<a href="../Page/2009年.md" title="wikilink">2009年</a>3月[14]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/きよしとこの夜" title="wikilink">きよしとこの夜</a>※</p></td>
+<td><p><a href="../Page/きよしとこの夜.md" title="wikilink">きよしとこの夜</a>※</p></td>
 <td><p>同題</p></td>
 </tr>
 <tr class="even">
 <td><p>|2009年3月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/探検ロマン世界遺産" title="wikilink">探検ロマン世界遺産</a>※</p></td>
+<td><p><a href="../Page/探検ロマン世界遺産.md" title="wikilink">探検ロマン世界遺産</a>※</p></td>
 <td><p>同題</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>1月</p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a>1月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a>3月</p></td>
 <td><p><a href="../Page/プロフェッショナル_仕事の流儀.md" title="wikilink">プロフェッショナル 仕事の流儀</a>※</p></td>
 <td><p>同題</p></td>
@@ -1213,7 +1213,7 @@
 <tr class="even">
 <td><p>2007年1月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a>3月</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クイズモンスター" title="wikilink">クイズモンスター</a></p></td>
+<td><p><a href="../Page/クイズモンスター.md" title="wikilink">クイズモンスター</a></p></td>
 <td><p>THEクイズモンスター</p></td>
 </tr>
 <tr class="odd">
@@ -1795,10 +1795,10 @@
 
 ## 民間放送の関連番組
 
-  - [バリューナイトフィーバー](https://ja.wikipedia.org/wiki/バリューナイトフィーバー "wikilink")→[サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [バリューナイトフィーバー](../Page/バリューナイトフィーバー.md "wikilink")→[サタデーバリューフィーバー](https://ja.wikipedia.org/wiki/サタデーバリューフィーバー "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [ニューカマーズ](../Page/ニューカマーズ.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [企画工場なりあがり](../Page/企画工場なりあがり.md "wikilink")→[21世紀エジソン](../Page/21世紀エジソン.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）
-  - [ドスペ2](https://ja.wikipedia.org/wiki/ドスペ2 "wikilink")・[バラコレ](https://ja.wikipedia.org/wiki/バラコレ "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
+  - [ドスペ2](../Page/ドスペ2.md "wikilink")・[バラコレ](https://ja.wikipedia.org/wiki/バラコレ "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [TV☆Lab](../Page/TV☆Lab.md "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")）
   - [FNSソフト工場](https://ja.wikipedia.org/wiki/FNSソフト工場 "wikilink")（[フジネットワーク](../Page/フジネットワーク.md "wikilink")）
 

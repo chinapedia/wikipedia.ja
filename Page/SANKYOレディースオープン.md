@@ -1,11 +1,11 @@
 > この記事は[SANKYO](https://ja.wikipedia.org/wiki/SANKYO)から翻訳されています。
 
 
-**SANKYOレディースオープン**は、[2000年](../Page/2000年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")まで毎年10月第1週から第2週に[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台製造メーカーの[SANKYOの主催で](https://ja.wikipedia.org/wiki/三共_\(パチンコ\) "wikilink")、同社の創業地である[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")を舞台に行われていた[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つであった](../Page/トーナメント方式.md "wikilink")。
+**SANKYOレディースオープン**は、[2000年](../Page/2000年.md "wikilink")から[2011年](../Page/2011年.md "wikilink")まで毎年10月第1週から第2週に[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")台製造メーカーの[SANKYOの主催で](../Page/三共_\(パチンコ\).md "wikilink")、同社の創業地である[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")を舞台に行われていた[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つであった](../Page/トーナメント方式.md "wikilink")。
 
-大会の会場は2000年の第1回大会から[2009年](../Page/2009年.md "wikilink")の第10回までは[桐生市](../Page/桐生市.md "wikilink")にある赤城カントリー倶楽部で開催されていたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の第11回大会からはSANKYOの関連会社が運営する[高崎市](../Page/高崎市.md "wikilink")[吉井町の吉井カントリークラブで開催されていた](https://ja.wikipedia.org/wiki/吉井町_\(群馬県\) "wikilink")。
+大会の会場は2000年の第1回大会から[2009年](../Page/2009年.md "wikilink")の第10回までは[桐生市](../Page/桐生市.md "wikilink")にある赤城カントリー倶楽部で開催されていたが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の第11回大会からはSANKYOの関連会社が運営する[高崎市](../Page/高崎市.md "wikilink")[吉井町の吉井カントリークラブで開催されていた](../Page/吉井町_\(群馬県\).md "wikilink")。
 
-[2004年](../Page/2004年.md "wikilink")の[北田瑠衣](../Page/北田瑠衣.md "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の[諸見里しのぶ](https://ja.wikipedia.org/wiki/諸見里しのぶ "wikilink")など若手女子ゴルファーの登竜門として知られていた大会だったが、2011年[11月30日](../Page/11月30日.md "wikilink")、2011年限りでの大会終了が発表された\[1\]。2011年実績、賞金総額1億円、優勝賞金1800万円。
+[2004年](../Page/2004年.md "wikilink")の[北田瑠衣](../Page/北田瑠衣.md "wikilink")、[2006年](../Page/2006年.md "wikilink")の[諸見里しのぶ](https://ja.wikipedia.org/wiki/諸見里しのぶ "wikilink")など若手女子ゴルファーの登竜門として知られていた大会だったが、2011年[11月30日](../Page/11月30日.md "wikilink")、2011年限りでの大会終了が発表された\[1\]。2011年実績、賞金総額1億円、優勝賞金1800万円。
 
 ## 歴代優勝者
 
@@ -14,7 +14,7 @@
   - 第1回（2000年）： [不動裕理](https://ja.wikipedia.org/wiki/不動裕理 "wikilink")（-10）
   - 第2回（2001年）： [山口裕子](https://ja.wikipedia.org/wiki/山口裕子_\(ゴルファー\) "wikilink")（-9）
   - 第3回（2002年）： [木村敏美](https://ja.wikipedia.org/wiki/木村敏美 "wikilink")（-9）
-  - 第4回（2003年）： [李知姫](https://ja.wikipedia.org/wiki/李知姫 "wikilink")（-12）
+  - 第4回（2003年）： [李知姫](../Page/李知姫.md "wikilink")（-12）
   - 第5回（2004年）： 北田瑠衣（-4）
   - 第6回（2005年）： 李知姫（-8）\[2\]
   - 第7回（2006年）： 諸見里しのぶ（-1）
@@ -27,7 +27,7 @@
 ## テレビ・ラジオ中継
 
   - 2000年の第1回大会から2003年の第4回大会までは[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列での放送だったが、2004年の第5回大会から2011年の第12回大会までは[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列及び[BSデジタル放送の](../Page/衛星放送.md "wikilink")[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")に移行して放送していた\[4\]。テレビ朝日系列で放送していた時には赤城カントリー倶楽部のコース監修を行った[杉原輝雄](../Page/杉原輝雄.md "wikilink")が解説を務めていた。また[CS放送の](../Page/衛星放送.md "wikilink")[ゴルフネットワーク](../Page/ゴルフネットワーク.md "wikilink")でも放送されていた。
-  - 2010年以降はテレビ東京の子会社[InterFM及び](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")[コミュニティFM局の](../Page/コミュニティ放送.md "wikilink")[ラジオ高崎](https://ja.wikipedia.org/wiki/ラジオ高崎 "wikilink")でもダイジェストや特別番組が放送されていた。
+  - 2010年以降はテレビ東京の子会社[InterFM及び](https://ja.wikipedia.org/wiki/エフエムインターウェーブ "wikilink")[コミュニティFM局の](../Page/コミュニティ放送.md "wikilink")[ラジオ高崎](../Page/ラジオ高崎.md "wikilink")でもダイジェストや特別番組が放送されていた。
 
 ## その他
 

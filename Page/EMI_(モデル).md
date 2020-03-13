@@ -32,7 +32,7 @@
 
 ### バラエティ番組
 
-  - [クチコミ](https://ja.wikipedia.org/wiki/クチコミ_\(テレビ番組\) "wikilink") （[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")、[TBS](../Page/TBSテレビ.md "wikilink")）
+  - [クチコミ](https://ja.wikipedia.org/wiki/クチコミ_\(テレビ番組\) "wikilink") （[2006年](../Page/2006年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [笑っていいとも\!](https://ja.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月29日](../Page/4月29日.md "wikilink")、2009年3月30日 [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [グータンヌーボ](https://ja.wikipedia.org/wiki/グータンヌーボ "wikilink")（2008年[7月30日](../Page/7月30日.md "wikilink")、[関西テレビ](../Page/関西テレビ放送.md "wikilink")）
   - [『ぷっ』すま](../Page/『ぷっ』すま.md "wikilink")（2010年[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）

@@ -1,7 +1,7 @@
 > この記事は[GELUGUGU](https://ja.wikipedia.org/wiki/GELUGUGU)から翻訳されています。
 
 
-**GELUGUGU**（ゲルググ）は[大阪府](../Page/大阪府.md "wikilink")出身の[スカコア](../Page/スカコア.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1996年結成。1998年[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりデビュー。2000年[キティMME](https://ja.wikipedia.org/wiki/キティMME "wikilink")に移籍。2002年[cutting edgeに移籍](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。2004年[ネオプレックス](https://ja.wikipedia.org/wiki/ネオプレックス "wikilink")に移籍。現在は自主レーベル[THREECODE MUSICを立ち上げ活動中](https://ja.wikipedia.org/wiki/THREECODE_MUSIC "wikilink")。
+**GELUGUGU**（ゲルググ）は[大阪府](../Page/大阪府.md "wikilink")出身の[スカコア](../Page/スカコア.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。1996年結成。1998年[ソニーレコード](https://ja.wikipedia.org/wiki/ソニーレコード "wikilink")よりデビュー。2000年[キティMME](https://ja.wikipedia.org/wiki/キティMME "wikilink")に移籍。2002年[cutting edgeに移籍](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。2004年[ネオプレックス](../Page/ネオプレックス.md "wikilink")に移籍。現在は自主レーベル[THREECODE MUSICを立ち上げ活動中](https://ja.wikipedia.org/wiki/THREECODE_MUSIC "wikilink")。
 
 ## メンバー
 
@@ -92,7 +92,7 @@
 <li>BEGINNERS LUCK</li>
 </ol></td>
 <td><p>Kitty MME<br />
-<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TVオープニングテーマ</a></p></td>
+<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TVオープニングテーマ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -590,7 +590,7 @@ LIVE会場限定</p></td>
 <li>CRACKERS! (<a href="https://ja.wikipedia.org/wiki/鴨川" title="wikilink">鴨川</a>)</li>
 <li>HURRY UP(<a href="https://ja.wikipedia.org/wiki/GARGOYLE" title="wikilink">GARGOYLE</a>)</li>
 <li>SIX SKA AMIGOS (<a href="../Page/コンコンジャンプ.md" title="wikilink">コンコンジャンプ</a>)</li>
-<li>ONE TWO (<a href="https://ja.wikipedia.org/wiki/MJ" title="wikilink">MJ</a>)</li>
+<li>ONE TWO (<a href="../Page/MJ.md" title="wikilink">MJ</a>)</li>
 <li>I THINK (<a href="../Page/ロリータ18号.md" title="wikilink">ロリータ18号</a>)</li>
 <li>BOON BOON BOON (<a href="../Page/175R.md" title="wikilink">175R</a>)</li>
 </ol></td>

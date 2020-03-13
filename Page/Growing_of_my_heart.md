@@ -1,13 +1,13 @@
 > この記事は[Growing of my heart](https://ja.wikipedia.org/wiki/Growing_of_my_heart)から翻訳されています。
 
 
-「**Growing of my heart**」（グロウィング・オブ・マイ・ハート）は、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の楽曲。彼女の22作目の[CDシングルとして](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月9日](../Page/11月9日.md "wikilink")に[GIZA studioから発売された](../Page/GIZA_studio.md "wikilink")。CDコードはGZCA-4054。
+「**Growing of my heart**」（グロウィング・オブ・マイ・ハート）は、[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の楽曲。彼女の22作目の[CDシングルとして](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")[2005年](../Page/2005年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")に[GIZA studioから発売された](../Page/GIZA_studio.md "wikilink")。CDコードはGZCA-4054。
 
 ## 概要
 
-[よみうりテレビアニメ](../Page/讀賣テレビ放送.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ。「[風のららら](../Page/風のららら.md "wikilink")」以来7度目の『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』タイアップ。なお、同時期のエンディングテーマである[岩田さゆり](https://ja.wikipedia.org/wiki/岩田さゆり "wikilink")の「[Thank You For Everything](../Page/Thank_You_For_Everything.md "wikilink")」も同日に発売された。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")・[VALSHE](https://ja.wikipedia.org/wiki/VALSHE "wikilink")が[カバー](../Page/カバー.md "wikilink")しており、2013年11月27日にリリースされたシングル「[Butterfly Core](https://ja.wikipedia.org/wiki/Butterfly_Core "wikilink")」の初回限定盤Bに収録されている。
+[よみうりテレビアニメ](../Page/讀賣テレビ放送.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ。「[風のららら](../Page/風のららら.md "wikilink")」以来7度目の『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』タイアップ。なお、同時期のエンディングテーマである[岩田さゆり](../Page/岩田さゆり.md "wikilink")の「[Thank You For Everything](../Page/Thank_You_For_Everything.md "wikilink")」も同日に発売された。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")・[VALSHE](https://ja.wikipedia.org/wiki/VALSHE "wikilink")が[カバー](../Page/カバー.md "wikilink")しており、2013年11月27日にリリースされたシングル「[Butterfly Core](https://ja.wikipedia.org/wiki/Butterfly_Core "wikilink")」の初回限定盤Bに収録されている。
 
-2005年9月3日から10月28日まで行われていたライブツアー"Mai Kuraki LIVE TOUR 2005 LIKE A FUSE OF LOVE"の頃からも既に歌われており、[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")も同ツアーのダイジェストといった内容に仕上がっている。
+2005年9月3日から10月28日まで行われていたライブツアー"Mai Kuraki LIVE TOUR 2005 LIKE A FUSE OF LOVE"の頃からも既に歌われており、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")も同ツアーのダイジェストといった内容に仕上がっている。
 
 ## シングル収録曲
 
@@ -36,8 +36,8 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">オープニングテーマ</a><br />
-<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a> - <a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">オープニングテーマ</a><br />
+<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月10日.md" title="wikilink">10月10日</a> - <a href="../Page/2005年.md" title="wikilink">2005年</a><a href="https://ja.wikipedia.org/wiki/12月19日" title="wikilink">12月19日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>前作:<br />

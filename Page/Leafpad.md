@@ -5,7 +5,7 @@
 
 ## 特徴
 
-シンプルなテキストエディタであり、その機能は必要最低限の機能に抑えられている。そのため、起動が速く、軽快に動作するようになっている。このテキストエディタは [Linux](../Page/Linux.md "wikilink") / [BSD](../Page/BSD.md "wikilink") などUnix系のオペレーティングシステムで利用可能であり、さしずめ [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") で広く知られている[メモ帳](https://ja.wikipedia.org/wiki/メモ帳 "wikilink")（ノートパッド）のクローンといった存在である。画面上から、マウスやキーボードを用いて直感的でグラフィカルな操作が行える。特に、次の機能が備わっている。
+シンプルなテキストエディタであり、その機能は必要最低限の機能に抑えられている。そのため、起動が速く、軽快に動作するようになっている。このテキストエディタは [Linux](../Page/Linux.md "wikilink") / [BSD](../Page/BSD.md "wikilink") などUnix系のオペレーティングシステムで利用可能であり、さしずめ [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") で広く知られている[メモ帳](../Page/メモ帳.md "wikilink")（ノートパッド）のクローンといった存在である。画面上から、マウスやキーボードを用いて直感的でグラフィカルな操作が行える。特に、次の機能が備わっている。
 
   - 文字コードの自動認識・自動設定
   - 編集の復元・やり直しが自由

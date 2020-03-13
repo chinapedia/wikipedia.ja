@@ -13,9 +13,9 @@
 
   - [2004年](../Page/2004年.md "wikilink")11月　東京都中央区東日本橋2-28-4に本店を移転
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")11月　東京都中央区日本橋小舟町10-6に本店を移転
+  - [2005年](../Page/2005年.md "wikilink")11月　東京都中央区日本橋小舟町10-6に本店を移転
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")2月　[株式交換](../Page/株式交換.md "wikilink")によりジャレコ（後の[EMCOMホールディングス](https://ja.wikipedia.org/wiki/EMCOMホールディングス "wikilink")）の完全子会社となり、上場を廃止。
+  - [2006年](../Page/2006年.md "wikilink")2月　[株式交換](../Page/株式交換.md "wikilink")によりジャレコ（後の[EMCOMホールディングス](https://ja.wikipedia.org/wiki/EMCOMホールディングス "wikilink")）の完全子会社となり、上場を廃止。
 
   - [2009年](../Page/2009年.md "wikilink")4月　EMCOMリアルティに商号変更。
 
@@ -28,12 +28,12 @@
 
   - [2013年](../Page/2013年.md "wikilink")5月9日　親会社の[EMCOMホールディングス](https://ja.wikipedia.org/wiki/EMCOMホールディングス "wikilink")について、EMCOM株式会社の買収・商号変更等の一連の企業再編が実質的存続性の喪失にあたるとされ\[3\]、猶予期間も経過し上場廃止\[4\]\[5\]。
 
-  - [2015年](../Page/2015年.md "wikilink")12月18日　第二種金融商品取引業で登録している営業所の所在地が確認できないため、同日付で[関東財務局](https://ja.wikipedia.org/wiki/関東財務局 "wikilink")によって金融商品取引業者の登録が取り消された\[6\]。
+  - [2015年](../Page/2015年.md "wikilink")12月18日　第二種金融商品取引業で登録している営業所の所在地が確認できないため、同日付で[関東財務局](../Page/関東財務局.md "wikilink")によって金融商品取引業者の登録が取り消された\[6\]。
 
 ## 登録
 
   - [宅地建物取引業者免許](../Page/宅地建物取引業法.md "wikilink") 東京都知事(1)第90060号
-  - [金融商品取引業者](https://ja.wikipedia.org/wiki/金融商品取引業者 "wikilink") [関東財務局](https://ja.wikipedia.org/wiki/関東財務局 "wikilink")長（金商）第1426号
+  - [金融商品取引業者](https://ja.wikipedia.org/wiki/金融商品取引業者 "wikilink") [関東財務局](../Page/関東財務局.md "wikilink")長（金商）第1426号
   - 社団法人[不動産流通経営協会](https://ja.wikipedia.org/wiki/不動産流通経営協会 "wikilink")会員。
 
 ## 脚注

@@ -1,7 +1,7 @@
 > この記事は[Platinum Peppers Family](https://ja.wikipedia.org/wiki/Platinum_Peppers_Family)から翻訳されています。
 
 
-**Platinum Peppers Family**（プラチナ・ペッパーズ・ファミリー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギター](../Page/ギター.md "wikilink")・[ポップ](../Page/ポップ・ミュージック.md "wikilink")・[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")よりデビュー。[1999年](../Page/1999年.md "wikilink")解散。
+**Platinum Peppers Family**（プラチナ・ペッパーズ・ファミリー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギター](../Page/ギター.md "wikilink")・[ポップ](../Page/ポップ・ミュージック.md "wikilink")・[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")結成。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")よりデビュー。[1999年](../Page/1999年.md "wikilink")解散。
 
 ## メンバー
 
@@ -12,7 +12,7 @@
   - 檀上尚居　（だんじょう たかおり）
     [ドラム担当](../Page/ドラムセット.md "wikilink")
   - 百合公平　（ゆり こうへい）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")
 
 ## ディスコグラフィー
 

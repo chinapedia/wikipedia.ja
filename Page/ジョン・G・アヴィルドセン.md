@@ -5,9 +5,9 @@
 
 ## 経歴
 
-広告代理店で[CM等の制作をしていたが](../Page/コマーシャルメッセージ.md "wikilink")、監督募集の広告に応募したのがきっかけで映画業界に入った。当初は[トロマ](https://ja.wikipedia.org/wiki/トロマ "wikilink")社など低予算の[B級映画](../Page/B級映画.md "wikilink")ばかりだったが、アメリカの世代間の断絶を描いたバイオレンス映画『ジョー』（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")）で注目される。
+広告代理店で[CM等の制作をしていたが](../Page/コマーシャルメッセージ.md "wikilink")、監督募集の広告に応募したのがきっかけで映画業界に入った。当初は[トロマ](https://ja.wikipedia.org/wiki/トロマ "wikilink")社など低予算の[B級映画](../Page/B級映画.md "wikilink")ばかりだったが、アメリカの世代間の断絶を描いたバイオレンス映画『ジョー』（[1970年](../Page/1970年.md "wikilink")）で注目される。
 
-[1973年](../Page/1973年.md "wikilink")の監督作『セイブ・ザ・タイガー』（日本未公開）では、主演を務めた[ジャック・レモン](https://ja.wikipedia.org/wiki/ジャック・レモン "wikilink")が演じ[アカデミー主演男優賞](https://ja.wikipedia.org/wiki/アカデミー主演男優賞 "wikilink")を受賞。更に[1976年](../Page/1976年.md "wikilink")の『[ロッキー](../Page/ロッキー_\(映画\).md "wikilink")』では自身が[アカデミー監督賞](../Page/アカデミー監督賞.md "wikilink")を受賞したのをはじめ、[アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")他多数の賞を受賞。同作品は世界的に大ヒット、シリーズ化（アヴィルドセンは一作目と五作目の監督を担当）もされ興行的な面でも大成功をおさめた。
+[1973年](../Page/1973年.md "wikilink")の監督作『セイブ・ザ・タイガー』（日本未公開）では、主演を務めた[ジャック・レモン](../Page/ジャック・レモン.md "wikilink")が演じ[アカデミー主演男優賞](../Page/アカデミー主演男優賞.md "wikilink")を受賞。更に[1976年](../Page/1976年.md "wikilink")の『[ロッキー](../Page/ロッキー_\(映画\).md "wikilink")』では自身が[アカデミー監督賞](../Page/アカデミー監督賞.md "wikilink")を受賞したのをはじめ、[アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")他多数の賞を受賞。同作品は世界的に大ヒット、シリーズ化（アヴィルドセンは一作目と五作目の監督を担当）もされ興行的な面でも大成功をおさめた。
 
 その後、『ロッキー』の[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")版ともいえる『[ベスト・キッド](../Page/ベスト・キッド.md "wikilink")』も大ヒット、『ロッキー』シリーズと同様にシリーズ化された（一作目から三作目までの監督を担当）。
 

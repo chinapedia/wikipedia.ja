@@ -7,7 +7,7 @@
 
 ## 概要
 
-『[ママハハ・ブギ](../Page/ママハハ・ブギ.md "wikilink")』、『[予備校ブギ](../Page/予備校ブギ.md "wikilink")』に続く、[遊川和彦](https://ja.wikipedia.org/wiki/遊川和彦 "wikilink")脚本のブギ3部作の最終作。加勢大周が中心だが3人のAD（[アシスタントディレクター](https://ja.wikipedia.org/wiki/アシスタントディレクター "wikilink")）を主演級として描かれている唯一のブギシリーズ。
+『[ママハハ・ブギ](../Page/ママハハ・ブギ.md "wikilink")』、『[予備校ブギ](../Page/予備校ブギ.md "wikilink")』に続く、[遊川和彦](https://ja.wikipedia.org/wiki/遊川和彦 "wikilink")脚本のブギ3部作の最終作。加勢大周が中心だが3人のAD（[アシスタントディレクター](../Page/アシスタントディレクター.md "wikilink")）を主演級として描かれている唯一のブギシリーズ。
 
 ## キャスト
 
@@ -27,14 +27,14 @@
 
   - 遠山久美（元コンビニ店員・デザイナー志望） - [浅香唯](https://ja.wikipedia.org/wiki/浅香唯 "wikilink")
   - 小林あかね（スタイリストの新人） - [石田ひかり](../Page/石田ひかり.md "wikilink")
-  - 香坂直子（杉田と同棲・久美と同じデザイナー学校に通う） - [相楽晴子](https://ja.wikipedia.org/wiki/相楽晴子 "wikilink")
-  - 原理代子（藤井が心を寄せている相手） - [森口瑤子](https://ja.wikipedia.org/wiki/森口瑤子 "wikilink")
+  - 香坂直子（杉田と同棲・久美と同じデザイナー学校に通う） - [相楽晴子](../Page/相楽晴子.md "wikilink")
+  - 原理代子（藤井が心を寄せている相手） - [森口瑤子](../Page/森口瑤子.md "wikilink")
 
 ## スタッフ
 
   - 脚本 - [遊川和彦](https://ja.wikipedia.org/wiki/遊川和彦 "wikilink")
-  - 音楽 - [杉本竜一](https://ja.wikipedia.org/wiki/杉本竜一 "wikilink")
-  - プロデュース - [八木康夫](https://ja.wikipedia.org/wiki/八木康夫 "wikilink")、横井直行
+  - 音楽 - [杉本竜一](../Page/杉本竜一.md "wikilink")
+  - プロデュース - [八木康夫](../Page/八木康夫.md "wikilink")、横井直行
   - 演出 - 清弘誠、山崎恒成、横井直行
 
 ## 主題歌

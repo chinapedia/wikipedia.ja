@@ -7,7 +7,7 @@
 
 ### 地名
 
-  - SFF () - [Felts Fieldの](https://ja.wikipedia.org/wiki/:en:Felts_Field "wikilink")[IATAコード](https://ja.wikipedia.org/wiki/IATAコード "wikilink")。
+  - SFF () - [Felts Fieldの](https://ja.wikipedia.org/wiki/:en:Felts_Field "wikilink")[IATAコード](../Page/IATAコード.md "wikilink")。
 
 ### 音楽・ゲーム
 
@@ -30,7 +30,7 @@
 
   - [サラエヴォ映画祭](https://ja.wikipedia.org/wiki/サラエヴォ映画祭 "wikilink") () - [バルカン半島](../Page/バルカン半島.md "wikilink")の長編[映画祭](../Page/映画祭.md "wikilink")。
 
-  - \- [チャンネル諸島](https://ja.wikipedia.org/wiki/チャンネル諸島 "wikilink")の[サーク島](../Page/サーク島.md "wikilink")で開催される民俗的な祭。
+  - \- [チャンネル諸島](../Page/チャンネル諸島.md "wikilink")の[サーク島](../Page/サーク島.md "wikilink")で開催される民俗的な祭。
 
   - \- [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")の花火大会。
 
@@ -40,8 +40,8 @@
 
 ### 軍事
 
-  - [特殊野戦部隊](https://ja.wikipedia.org/wiki/特殊野戦部隊 "wikilink") () - [ナミビア](https://ja.wikipedia.org/wiki/ナミビア "wikilink")の[準軍事組織](https://ja.wikipedia.org/wiki/準軍事組織 "wikilink")。
-  - [特殊国境部隊](https://ja.wikipedia.org/wiki/特殊国境部隊 "wikilink")（） - [ダライ・ラマ14世](https://ja.wikipedia.org/wiki/ダライ・ラマ14世 "wikilink")がインドの支援を受け結成した、[ガンデンポタン](https://ja.wikipedia.org/wiki/ガンデンポタン "wikilink")の反中ゲリラ組織。
+  - [特殊野戦部隊](https://ja.wikipedia.org/wiki/特殊野戦部隊 "wikilink") () - [ナミビア](../Page/ナミビア.md "wikilink")の[準軍事組織](../Page/準軍事組織.md "wikilink")。
+  - [特殊国境部隊](https://ja.wikipedia.org/wiki/特殊国境部隊 "wikilink")（） - [ダライ・ラマ14世](https://ja.wikipedia.org/wiki/ダライ・ラマ14世 "wikilink")がインドの支援を受け結成した、[ガンデンポタン](../Page/ガンデンポタン.md "wikilink")の反中ゲリラ組織。
   - [自己鍛造弾](../Page/自己鍛造弾.md "wikilink") () - [成形炸薬弾](../Page/成形炸薬弾.md "wikilink")の一種。
 
 ### 組織と企業
@@ -74,4 +74,4 @@
 
 ## sff
 
-  - ** () - [強弱記号](https://ja.wikipedia.org/wiki/強弱法 "wikilink")。
+  - ** () - [強弱記号](../Page/強弱法.md "wikilink")。

@@ -11,10 +11,10 @@
 
   -
     兄で、[ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")(たまにツッコミ)担当。A型。
-    [小林旭](https://ja.wikipedia.org/wiki/小林旭 "wikilink")と[K-1](../Page/K-1.md "wikilink")が好きで、小林の物真似やK-1実況の真似の持ち芸がある。兄妹で一緒に小林旭のコンサートに行くこともあるという。
+    [小林旭](../Page/小林旭.md "wikilink")と[K-1](../Page/K-1.md "wikilink")が好きで、小林の物真似やK-1実況の真似の持ち芸がある。兄妹で一緒に小林旭のコンサートに行くこともあるという。
     本名で呼ばれるとなぜか怒る。
     芸人になる前は、[東京ドームホテル](../Page/東京ドームホテル.md "wikilink")に勤務していた。ちなみにシスコンである\[1\]。
-    [2013年](../Page/2013年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から『[GOGO競馬サンデー\!](../Page/GOGO競馬サンデー!.md "wikilink")』（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")の競馬中継番組）のレギュラーを務めるなど、近年は関西圏を中心に、テレビ・ラジオで[中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")関連の番組に出演。出演番組で競馬の予想を披露することも多い。
+    [2013年](../Page/2013年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から『[GOGO競馬サンデー\!](../Page/GOGO競馬サンデー!.md "wikilink")』（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")の競馬中継番組）のレギュラーを務めるなど、近年は関西圏を中心に、テレビ・ラジオで[中央競馬](../Page/中央競馬.md "wikilink")関連の番組に出演。出演番組で競馬の予想を披露することも多い。
 
 <!-- end list -->
 
@@ -40,17 +40,17 @@
   - 漫才ではものまねなどは行わず、正統派のしゃべくり漫才を披露する。終盤では兄弟喧嘩を起こしその際はボケとツッコミが逆転する。
   - K-1の実況ネタをTVなどでやっていた時に、実際に兄にはあるプロレス団体から実況アナウンサーとしてのオファーが来たが、「プロレスはよく知らない」ということでそれを断ったという。
   - お兄ちゃんは、コンビ結成まで[MBSヤングタウン](../Page/MBSヤングタウン.md "wikilink")の有名なハガキ職人だった。ラジオネームは「ダメダメボーイ13号」や妹の本名「中野舞子」も使っていた。
-  - あらびき団で「K-1の実況」「小林旭」「[桑名正博](https://ja.wikipedia.org/wiki/桑名正博 "wikilink")」ネタしかやっていない為、司会者からネタのレパートリーが少ないと指摘される。
-  - 家族揃って[杉良太郎](https://ja.wikipedia.org/wiki/杉良太郎 "wikilink")のファンで、舞台作品を頻繁に見に行く。お兄ちゃんは1歳で初めて舞台作品を観劇。毎週月曜日にレギュラーで出演中の『[上泉雄一のええなぁ\!](https://ja.wikipedia.org/wiki/上泉雄一のええなぁ! "wikilink")』（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）でも、「お兄ちゃんのクイズ渡り鳥」というコーナーで、直近に見た舞台作品を紹介している。
-  - お兄ちゃんがテレビ番組で杉良太郎の立ち回りのものまねをするが、審査員だった杉の妻の[伍代夏子](https://ja.wikipedia.org/wiki/伍代夏子 "wikilink")からは「足の角度は凄く似てるけど、雪駄が全然違うわ」と言われてしまった。しかし後日、伍代から自宅に、杉が『[遠山の金さん](https://ja.wikipedia.org/wiki/遠山の金さん_\(テレビ朝日\) "wikilink")』で履いていた雪駄が送られてきた。
+  - あらびき団で「K-1の実況」「小林旭」「[桑名正博](../Page/桑名正博.md "wikilink")」ネタしかやっていない為、司会者からネタのレパートリーが少ないと指摘される。
+  - 家族揃って[杉良太郎](../Page/杉良太郎.md "wikilink")のファンで、舞台作品を頻繁に見に行く。お兄ちゃんは1歳で初めて舞台作品を観劇。毎週月曜日にレギュラーで出演中の『[上泉雄一のええなぁ\!](https://ja.wikipedia.org/wiki/上泉雄一のええなぁ! "wikilink")』（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）でも、「お兄ちゃんのクイズ渡り鳥」というコーナーで、直近に見た舞台作品を紹介している。
+  - お兄ちゃんがテレビ番組で杉良太郎の立ち回りのものまねをするが、審査員だった杉の妻の[伍代夏子](../Page/伍代夏子.md "wikilink")からは「足の角度は凄く似てるけど、雪駄が全然違うわ」と言われてしまった。しかし後日、伍代から自宅に、杉が『[遠山の金さん](../Page/遠山の金さん_\(テレビ朝日\).md "wikilink")』で履いていた雪駄が送られてきた。
   - [THE MANZAI 2011において](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")、決勝をかけて全国サーキットを行う、認定漫才師50組に選ばれる。
   - お兄ちゃん・マイコとも、[2013年](../Page/2013年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に一般人と結婚した。お兄ちゃんは、[2011年](../Page/2011年.md "wikilink")から一般人の女性と交際。当初は[2015年](../Page/2015年.md "wikilink")頃の結婚を予定していたが、2013年3月から元バンドマンの自営業者と交際していたマイコの結婚が先に決まったことを機に、兄妹揃って同じ日に婚姻届を提出することになった\[6\]。
   - マイコは2015年2月7日に第1子となる男児を出産\[7\]。
 
 ## ものまねのレパートリー
 
-  - [小林旭](https://ja.wikipedia.org/wiki/小林旭 "wikilink")
-  - [桑名正博](https://ja.wikipedia.org/wiki/桑名正博 "wikilink")
+  - [小林旭](../Page/小林旭.md "wikilink")
+  - [桑名正博](../Page/桑名正博.md "wikilink")
   - [井上陽水](../Page/井上陽水.md "wikilink")
   - [財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")
   - [K-1](../Page/K-1.md "wikilink")の実況と[藤原紀香](../Page/藤原紀香.md "wikilink")
@@ -66,7 +66,7 @@
 
   - [麒麟の部屋](../Page/麒麟の部屋.md "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")、2007年4月9日 - ）
   - [ブラマヨ・チュートのまる金TV](../Page/ブラマヨ・チュートのまる金TV.md "wikilink")（[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")）- 映画のコーナー
-  - [サタうま\!](https://ja.wikipedia.org/wiki/サタうま! "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）- コイちゃん軍団メンバーとして不定期出演
+  - [サタうま\!](../Page/サタうま!.md "wikilink")（[関西テレビ](../Page/関西テレビ放送.md "wikilink")）- コイちゃん軍団メンバーとして不定期出演
   - [博士と助手〜細かすぎて伝わらないモノマネ選手権〜](../Page/博士と助手〜細かすぎて伝わらないモノマネ選手権〜.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
 
 <!-- end list -->
@@ -87,9 +87,9 @@
 
   - [今夜もハッスル](https://ja.wikipedia.org/wiki/今夜もハッスル "wikilink")（[サンテレビ](../Page/サンテレビジョン.md "wikilink")、2008年7月12日）
   - [お笑いメリーゴーランド](https://ja.wikipedia.org/wiki/お笑いメリーゴーランド "wikilink")（TBSテレビ、2008年10月16日）- 第2回で[友近](../Page/友近.md "wikilink")、[木村明浩](https://ja.wikipedia.org/wiki/木村明浩 "wikilink")（[バッファロー吾郎](../Page/バッファロー吾郎.md "wikilink")）、[指圧野郎](https://ja.wikipedia.org/wiki/指圧野郎 "wikilink")と一緒に「友近チーム」のメンバーで出演
-  - [千鳥のぼっけぇTV\!](https://ja.wikipedia.org/wiki/千鳥のぼっけぇTV! "wikilink")（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")）
-  - [ジャイケルマクソン](https://ja.wikipedia.org/wiki/ジャイケルマクソン "wikilink")（毎日放送）
-  - [よしもとサンサンTV](https://ja.wikipedia.org/wiki/よしもとサンサンTV "wikilink")（[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")）
+  - [千鳥のぼっけぇTV\!](../Page/千鳥のぼっけぇTV!.md "wikilink")（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")）
+  - [ジャイケルマクソン](../Page/ジャイケルマクソン.md "wikilink")（毎日放送）
+  - [よしもとサンサンTV](../Page/よしもとサンサンTV.md "wikilink")（[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")）
   - [新春ホワイトカーペット](https://ja.wikipedia.org/wiki/爆笑ホワイトカーペット "wikilink")（フジテレビ、2009年1月1日）
 
 <!-- end list -->
@@ -125,7 +125,7 @@
   - [ゼッタイジャルっ\!](https://ja.wikipedia.org/wiki/ゼッタイジャルっ! "wikilink")（関西テレビ、2010年5月21日）- お兄ちゃんのみ
   - [枠アリ\!](https://ja.wikipedia.org/wiki/枠アリ! "wikilink")（毎日放送、2010年12月10日・2011年2月18日）- マイコのみ、エージェント
   - [トレセンまるごと情報局](https://ja.wikipedia.org/wiki/トレセンまるごと情報局 "wikilink")（[グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")、2013年1月10日 - 2017年12月26日）- お兄ちゃんのみ
-  - [GOGO競馬サタデー\!](https://ja.wikipedia.org/wiki/GOGO競馬サタデー! "wikilink")（ラジオ関西）・[GOGO競馬サンデー\!](../Page/GOGO競馬サンデー!.md "wikilink")（毎日放送ラジオ） - お兄ちゃんのみレギュラー出演。「ビタミンSお兄ちゃんの、男の馬券ショー\!」では毎回、中継対象のメインレースの予想を披露している。
+  - [GOGO競馬サタデー\!](../Page/GOGO競馬サタデー!.md "wikilink")（ラジオ関西）・[GOGO競馬サンデー\!](../Page/GOGO競馬サンデー!.md "wikilink")（毎日放送ラジオ） - お兄ちゃんのみレギュラー出演。「ビタミンSお兄ちゃんの、男の馬券ショー\!」では毎回、中継対象のメインレースの予想を披露している。
 
 ### 映画
 

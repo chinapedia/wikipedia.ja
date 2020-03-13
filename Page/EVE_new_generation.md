@@ -1,7 +1,7 @@
 > この記事は[EVE new generation](https://ja.wikipedia.org/wiki/EVE_new_generation)から翻訳されています。
 
 
-『**EVE new generation**』（イブ ニュージェネレーション）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")から発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。「[EVEシリーズ](https://ja.wikipedia.org/wiki/EVEシリーズ "wikilink")」の6作目。主人公は私立探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作してストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。18禁要素を加えたPC版『**EVE 〜new generation X〜**』や、ストーリーに[脱衣麻雀](https://ja.wikipedia.org/wiki/脱衣麻雀 "wikilink")要素を加えた『**EVE雀**』がタイレルラボラトリー（[F\&C](../Page/F&C.md "wikilink")系列）から発売された。また、同社刊の『[コンプエース](../Page/月刊コンプエース.md "wikilink")』で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品も連載された。
+『**EVE new generation**』（イブ ニュージェネレーション）は、[2006年](../Page/2006年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")から発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。「[EVEシリーズ](../Page/EVEシリーズ.md "wikilink")」の6作目。主人公は私立探偵「天城小次郎」と捜査官「法条まりな」。2人の主人公を操作してストーリーを進めていくマルチサイト[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。18禁要素を加えたPC版『**EVE 〜new generation X〜**』や、ストーリーに[脱衣麻雀](../Page/脱衣麻雀.md "wikilink")要素を加えた『**EVE雀**』がタイレルラボラトリー（[F\&C](../Page/F&C.md "wikilink")系列）から発売された。また、同社刊の『[コンプエース](../Page/月刊コンプエース.md "wikilink")』で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品も連載された。
 
 ## ストーリー
 
@@ -40,9 +40,9 @@
   - 法条 まりな（ほうじょう まりな）
     声：[三石琴乃](../Page/三石琴乃.md "wikilink")/[風音](https://ja.wikipedia.org/wiki/風音_\(声優\) "wikilink")
   - 桂木 弥生（かつらぎ やよい）
-    声：[本多知恵子](https://ja.wikipedia.org/wiki/本多知恵子 "wikilink")/[かわしまりの](https://ja.wikipedia.org/wiki/かわしまりの "wikilink")
+    声：[本多知恵子](../Page/本多知恵子.md "wikilink")/[かわしまりの](../Page/かわしまりの.md "wikilink")
   - 氷室 恭子（ひむろ きょうこ）
-    声：[松井菜桜子](https://ja.wikipedia.org/wiki/松井菜桜子 "wikilink")/[藤森ゆき奈](../Page/藤森ゆき奈.md "wikilink")
+    声：[松井菜桜子](../Page/松井菜桜子.md "wikilink")/[藤森ゆき奈](../Page/藤森ゆき奈.md "wikilink")
   - 甲野 三郎（こうの さぶろう）
     声：[野沢那智](../Page/野沢那智.md "wikilink")/[魚田明](https://ja.wikipedia.org/wiki/魚田明 "wikilink")
   - 紀瀬木 乃依（きぜき のい）
@@ -50,29 +50,29 @@
   - 紀瀬木 アルト（きぜき あると）
     声：名塚佳織/春日アン
   - ミカエル・ベルシュタイン
-    声：[中田和宏](https://ja.wikipedia.org/wiki/中田和宏 "wikilink")/[東慎](https://ja.wikipedia.org/wiki/東慎 "wikilink")
+    声：[中田和宏](../Page/中田和宏.md "wikilink")/[東慎](https://ja.wikipedia.org/wiki/東慎 "wikilink")
   - 鐘本 美奈代（しょうもと みなよ）
-    声：[甲斐田裕子](https://ja.wikipedia.org/wiki/甲斐田裕子 "wikilink")/[甲賀忍](https://ja.wikipedia.org/wiki/甲賀忍 "wikilink")
+    声：[甲斐田裕子](../Page/甲斐田裕子.md "wikilink")/[甲賀忍](https://ja.wikipedia.org/wiki/甲賀忍 "wikilink")
   - 紀瀬木 エフィ（きぜき えふぃ）
     声：[伊藤静](../Page/伊藤静.md "wikilink")/[歌織](../Page/歌織.md "wikilink")
   - 三六九（みろく）
-    声：[生天目仁美](https://ja.wikipedia.org/wiki/生天目仁美 "wikilink")/[カンザキカナリ](https://ja.wikipedia.org/wiki/カンザキカナリ "wikilink")
+    声：[生天目仁美](../Page/生天目仁美.md "wikilink")/[カンザキカナリ](../Page/カンザキカナリ.md "wikilink")
   - 紀瀬木 初海（きぜき はつみ）
-    声：[さとうあい](https://ja.wikipedia.org/wiki/さとうあい "wikilink")
+    声：[さとうあい](../Page/さとうあい.md "wikilink")
   - 小湊 龍司（こみなと りゅうじ）
     声：[木村拓](../Page/木村拓.md "wikilink")
   - 大隈 朋義（おおくま ともよし）
-    声：[保村真](https://ja.wikipedia.org/wiki/保村真 "wikilink")/[丸山壮史](../Page/丸山壮史.md "wikilink")
+    声：[保村真](../Page/保村真.md "wikilink")/[丸山壮史](../Page/丸山壮史.md "wikilink")
   - ツユザキ マユミ
     矢枝 アルト（やえだ あると）
     大五郎（だいごろう）
-    声：[大畑伸太郎](https://ja.wikipedia.org/wiki/大畑伸太郎 "wikilink")/[鈴村和泉](https://ja.wikipedia.org/wiki/鈴村和泉 "wikilink")
+    声：[大畑伸太郎](../Page/大畑伸太郎.md "wikilink")/[鈴村和泉](https://ja.wikipedia.org/wiki/鈴村和泉 "wikilink")
 
 ## スタッフ
 
   - プロデューサー：[金杉はじめ](https://ja.wikipedia.org/wiki/金杉はじめ "wikilink")
   - シナリオ：[打越鋼太郎](../Page/打越鋼太郎.md "wikilink")
-  - キャラクターデザイン：[橋本タカシ](https://ja.wikipedia.org/wiki/橋本タカシ "wikilink")
+  - キャラクターデザイン：[橋本タカシ](../Page/橋本タカシ.md "wikilink")
 
 ## 関連作品
 
@@ -92,7 +92,7 @@
   -
 
       -
-        本作の[脱衣麻雀](https://ja.wikipedia.org/wiki/脱衣麻雀 "wikilink")。
+        本作の[脱衣麻雀](../Page/脱衣麻雀.md "wikilink")。
 
 ## 外部リンク
 

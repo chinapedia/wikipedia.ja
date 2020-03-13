@@ -1,7 +1,7 @@
 > この記事は[ASIAN2](https://ja.wikipedia.org/wiki/ASIAN2)から翻訳されています。
 
 
-**ASIAN2**（エイジアンツー）は[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")出身の[ミクスチャーロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2011年](../Page/2011年.md "wikilink")6月解散。
+**ASIAN2**（エイジアンツー）は[長野県](../Page/長野県.md "wikilink")[松本市](../Page/松本市.md "wikilink")出身の[ミクスチャーロック](../Page/ミクスチャー・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[2011年](../Page/2011年.md "wikilink")6月解散。
 
 ## メンバー
 
@@ -12,7 +12,7 @@
 
 ## サポート
 
-  - 野田賢輔（**Guitar**）（[センチグラム](https://ja.wikipedia.org/wiki/センチグラム "wikilink")）
+  - 野田賢輔（**Guitar**）（[センチグラム](../Page/センチグラム.md "wikilink")）
   - [ghoma](https://ja.wikipedia.org/wiki/ghoma "wikilink")（**Key Board**）（[カミナリグモ](https://ja.wikipedia.org/wiki/カミナリグモ "wikilink")）
 
 ## 旧メンバー
@@ -20,7 +20,7 @@
   - HISATO(**Guitar**) （本名：横内久人）
   - マキロン（**Sax**）)（本名：牧野恵子）
   - NISHI(**Guitar**)
-  - KENSUKE（**Guitar**）（野田賢輔）（脱退後もサポートメンバーとして参加していた。2015年[センチグラム](https://ja.wikipedia.org/wiki/センチグラム "wikilink")に加入。）
+  - KENSUKE（**Guitar**）（野田賢輔）（脱退後もサポートメンバーとして参加していた。2015年[センチグラム](../Page/センチグラム.md "wikilink")に加入。）
 
 ## バンド結成までの経緯
 
@@ -36,11 +36,11 @@ ASIAN2の多くの楽曲を手がけているTATSUは、思っていることを
   - 結成当時のバンド名は"アジア太郎"。その後、ASIAN2（アジアンツー）に変わる。だが、TWENTY"20"が加入時にバンド名を"エイジアンツー"と読む（発音する）と指摘し、現在のバンド名に改名した。
   - メジャーデビュー後に作詞、作曲の表記を本名からアーティスト名に変更した。
   - HIDEOは趣味の一つでレザークラフトを行っており、プロ並みの腕前である。
-  - [FM長野で放送していた冠番組](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")｢ASIAN2 Jam in You｣の"Jam in You"という部分は、2ndアルバム｢VERONICA｣に収録されている｢ライオンとビーナス｣の歌詞からとっている。
+  - [FM長野で放送していた冠番組](../Page/長野エフエム放送.md "wikilink")｢ASIAN2 Jam in You｣の"Jam in You"という部分は、2ndアルバム｢VERONICA｣に収録されている｢ライオンとビーナス｣の歌詞からとっている。
   - FM長野の冠番組内で、TATSUのダイエット企画を行った。開始当初のTATSUの体重は三桁近くあったが、ダイエットとリバウンドを繰り返しつつも、約5ヶ月後には20kg近くの減量に成功した。
   - 地元・松本市をホームタウンとする[松本山雅FC](../Page/松本山雅FC.md "wikilink")のサポーターズソングである｢wanna be a super star｣を製作・発表した。この曲は[3月21日](../Page/3月21日.md "wikilink")に行われた松本山雅FCの2010年ホームゲーム開幕戦に合わせて作られたため当初のリリースは未定であったが、松本山雅FCサポーター集団である[ULTRAS MATSUMOTOが中心となって楽曲をリリースさせるための署名活動を行った結果](https://ja.wikipedia.org/wiki/ULTRAS_MATSUMOTO "wikilink")5,136人分の署名を集めた。[7月18日](../Page/7月18日.md "wikilink")にULTRAS MATSUMOTOの代表者より[avexに署名が提出された](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。これに対しavex側よりCDの発売と、それに先行して[着うた](../Page/着うた.md "wikilink")での配信が行う旨の回答があった。[8月4日](../Page/8月4日.md "wikilink")に着うたでの配信が開始、[9月12日](../Page/9月12日.md "wikilink")にはCDが発売された。
   - 元々TWENTY"20"はReal Gateまで、M2O44Dという名義で活動していたが、BRAZIL以降現在の名義になった。
-  - 2010年の[8月6日](../Page/8月6日.md "wikilink")、[広島市への原子爆弾投下](https://ja.wikipedia.org/wiki/広島市への原子爆弾投下 "wikilink")の節目のこの日にこの出来事に関することを歌った楽曲「iKILL」を[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")上で発表。ASIAN2自身が封鎖的と思っている日本の言論の活性化に少しでも足しになってほしいという目的から作曲された。公式ブログ上で「我々がこの曲を書いたのは誠実で在りたいからだ。ただただ闇雲に反戦平和を唱えて議論から逃げ出す人間では在りたくないからだ。ひたすらに理想を語るだけでプロセスについては思考を停止するような卑怯な大人にはなりたくないからだ。あの悲劇があたかも戦争早期終結の為の大英断だったと学校で教えるような行為は許せないからだ。我々は議論を呼び起こしたいと思っている。皆がもっと怒ればいいと思っている。わからないフリをして口をつぐむよりも意見をぶつけ合えばいいと思っている。」と述べている。この曲は3rd ALBUM「very」にも収録されている。
+  - 2010年の[8月6日](../Page/8月6日.md "wikilink")、[広島市への原子爆弾投下](../Page/広島市への原子爆弾投下.md "wikilink")の節目のこの日にこの出来事に関することを歌った楽曲「iKILL」を[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")上で発表。ASIAN2自身が封鎖的と思っている日本の言論の活性化に少しでも足しになってほしいという目的から作曲された。公式ブログ上で「我々がこの曲を書いたのは誠実で在りたいからだ。ただただ闇雲に反戦平和を唱えて議論から逃げ出す人間では在りたくないからだ。ひたすらに理想を語るだけでプロセスについては思考を停止するような卑怯な大人にはなりたくないからだ。あの悲劇があたかも戦争早期終結の為の大英断だったと学校で教えるような行為は許せないからだ。我々は議論を呼び起こしたいと思っている。皆がもっと怒ればいいと思っている。わからないフリをして口をつぐむよりも意見をぶつけ合えばいいと思っている。」と述べている。この曲は3rd ALBUM「very」にも収録されている。
   - [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の影響を受け、TATSUが[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")を中心とした東北地方で救援物資の募集・配送や現地での救援活動を行った。
 
 ## 略歴
@@ -62,9 +62,9 @@ ASIAN2の多くの楽曲を手がけているTATSUは、思っていることを
       - [6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink") 六本木morph-tokyoにて東京では初のASIAN2主催イベント"5000 Monroes Night vol.1"を開催。
       - [9月19日](../Page/9月19日.md "wikilink") 松本ALECXワンマンライブをもって、ギターNISHIが音楽性の相違により脱退。
       - [9月24日](../Page/9月24日.md "wikilink") 渋谷VUENOSのライブより、NEWギタリストKENSUKEが加入。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [9月28日](../Page/9月28日.md "wikilink") [観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")とのコラボレーション"ALISA MIZUKI TO ASIAN2"として、シングル「セ・ラ・ビ」を発売。東映「鳶がクルリと」の主題歌に。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
       - [3月17日](../Page/3月17日.md "wikilink") 東京初ワンマンライブを六本木morph-tokyoにて開催。
       - [4月29日](../Page/4月29日.md "wikilink") 松本aCのライブをもってサックスのマキロンが脱退。
       - [5月24日](../Page/5月24日.md "wikilink") [SONIC GROOVEよりメジャー](../Page/SONIC_GROOVE.md "wikilink")・デビューシングル「ASIAN VIBRATION」発売
@@ -84,7 +84,7 @@ ASIAN2の多くの楽曲を手がけているTATSUは、思っていることを
       - [9月16日](../Page/9月16日.md "wikilink") [渋谷O-WEST](https://ja.wikipedia.org/wiki/渋谷O-WEST "wikilink")での勝手にcutting祭り vol.2をもってギターのKENSUKEが活動の幅を広げるという理由で脱退。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
       - [3月22日](../Page/3月22日.md "wikilink") [松本山雅FC](../Page/松本山雅FC.md "wikilink")のホームゲーム開幕戦でサポーターズソングの「wanna be a super star」を発表。
-      - [8月6日](../Page/8月6日.md "wikilink") [広島市への原子爆弾投下](https://ja.wikipedia.org/wiki/広島市への原子爆弾投下 "wikilink")から65年目である節目のこの日にこの出来事に関することを歌った楽曲「iKILL」を[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")上でを発表。
+      - [8月6日](../Page/8月6日.md "wikilink") [広島市への原子爆弾投下](../Page/広島市への原子爆弾投下.md "wikilink")から65年目である節目のこの日にこの出来事に関することを歌った楽曲「iKILL」を[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")上でを発表。
       - [9月12日](../Page/9月12日.md "wikilink") メジャー第5弾シングル「wanna be a super star」リリース。
       - [12月1日](../Page/12月1日.md "wikilink") 3rd ALBUM「very」リリース。
       - [12月27日](../Page/12月27日.md "wikilink") ライブで解散することを発表。
@@ -136,7 +136,7 @@ ASIAN2の多くの楽曲を手がけているTATSUは、思っていることを
 <li>BRAZIL(instrumental)</li>
 <li>BRAZIL(headphone ver.)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン最高位</a>195位</p></td>
+<td><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン最高位</a>195位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -153,7 +153,7 @@ ASIAN2の多くの楽曲を手がけているTATSUは、思っていることを
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p><strong>ASIAN VIBRATION</strong></p></td>
 <td><p>AVCD-16099</p></td>
 <td><ol>
@@ -163,7 +163,7 @@ ASIAN2の多くの楽曲を手がけているTATSUは、思っていることを
 <li>RISKY 【作詞:TWENTY"20",TATSU/作曲:TATSU/編曲:ASIAN2,YASUSHI SASAMOTO】</li>
 </ol></td>
 <td><p>メジャーデビュー作<br />
-<a href="../Page/流派-R.md" title="wikilink">流派-R</a>（<a href="https://ja.wikipedia.org/wiki/テレビ東京系" title="wikilink">テレビ東京系</a>）<a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a>5月度エンディングテーマ</p></td>
+<a href="../Page/流派-R.md" title="wikilink">流派-R</a>（<a href="https://ja.wikipedia.org/wiki/テレビ東京系" title="wikilink">テレビ東京系</a>）<a href="../Page/2006年.md" title="wikilink">2006年</a>5月度エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -219,7 +219,7 @@ ASIAN2の多くの楽曲を手がけているTATSUは、思っていることを
 </ol></td>
 <td><p>長野県限定発売<br />
 サッカー<a href="../Page/松本山雅FC.md" title="wikilink">松本山雅FC</a>サポーターズソング<br />
-<a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコンデイリーチャート最高位</a>11位<br />
+<a href="../Page/オリコンチャート.md" title="wikilink">オリコンデイリーチャート最高位</a>11位<br />
 オリコン最高71位</p></td>
 </tr>
 <tr class="odd">
@@ -273,7 +273,7 @@ ASIAN2の多くの楽曲を手がけているTATSUは、思っていることを
 <li>ASIAN VIBRATION 【作詞:TWENTY"20",TATSU/作曲:TATSU/編曲:ASIAN2】</li>
 <li>Bitter Sweet 【作詞:TWENTY"20",TATSU/作曲:TATSU/編曲:ASIAN2】</li>
 <li>marmot(一) 【作曲:ASIAN2】</li>
-<li>like a be burned 【作詞:TWENTY"20",TATSU/作曲:TATSU/編曲:ASIAN2,<a href="https://ja.wikipedia.org/wiki/好色人種" title="wikilink">好色人種</a>】</li>
+<li>like a be burned 【作詞:TWENTY"20",TATSU/作曲:TATSU/編曲:ASIAN2,<a href="../Page/好色人種.md" title="wikilink">好色人種</a>】</li>
 <li>workin’ man blues 【作詞:TWENTY"20",TATSU/作曲:TATSU/編曲:ASIAN2】</li>
 <li>BRIDGE 【作詞:TWENTY"20",TATSU/作曲:TATSU/編曲:ASIAN2】</li>
 <li>hanaoto 【作詞:TWENTY"20",TATSU/作曲:TATSU/編曲:ASIAN2】</li>
@@ -406,7 +406,7 @@ CTCR-14716:CD</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
 <td><p><strong>セ・ラ・ビ</strong></p></td>
 <td><p>AVCT-30104<br />
 AVCT-30105</p></td>
@@ -461,9 +461,9 @@ AVCT-30105</p></td>
 **テレビ番組**
 
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（2005年9月9日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）（セ・ラ・ビ ALISA MIZUKI TO ASIAN2として、[観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")とのコラボ出演）
-  - [ウエンズデー J-POP](../Page/ウエンズデー_J-POP.md "wikilink")（2006年12月6日、[NHK BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")）
-  - [CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")（2007年9月7日、[TBS](../Page/TBSテレビ.md "wikilink")）
-  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2007年9月15日、[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）
+  - [ウエンズデー J-POP](../Page/ウエンズデー_J-POP.md "wikilink")（2006年12月6日、[NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
+  - [CDTV](../Page/COUNT_DOWN_TV.md "wikilink")（2007年9月7日、[TBS](../Page/TBSテレビ.md "wikilink")）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2007年9月15日、[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）
   - [ワンダフル\!\!信州人](https://ja.wikipedia.org/wiki/ワンダフル!!信州人 "wikilink")（2010年10月18日、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")）
   - [346Bar](https://ja.wikipedia.org/wiki/346Bar "wikilink")（2010年11月15日（月）、2010年11月22日（月）、[信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")）
 
@@ -474,27 +474,27 @@ AVCT-30105</p></td>
 
 **ラジオ番組**
 
-  - ASIAN2 Jam in You（[FM長野](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")　2007年～2010年、木曜 20:30 - 20:55）
+  - ASIAN2 Jam in You（[FM長野](../Page/長野エフエム放送.md "wikilink")　2007年～2010年、木曜 20:30 - 20:55）
 
 ## 脚注
 
 ## 関連項目
 
   - [松本市](../Page/松本市.md "wikilink")
-  - [長野県出身の人物一覧](https://ja.wikipedia.org/wiki/長野県出身の人物一覧 "wikilink")
+  - [長野県出身の人物一覧](../Page/長野県出身の人物一覧.md "wikilink")
   - [ミクスチャーロック](https://ja.wikipedia.org/wiki/ミクスチャーロック "wikilink")
-  - [プロテストソング](https://ja.wikipedia.org/wiki/プロテストソング "wikilink")
+  - [プロテストソング](../Page/プロテストソング.md "wikilink")
   - [エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
   - [松本山雅FC](../Page/松本山雅FC.md "wikilink")- 所属選手と交友関係、ブログで紹介
       - [柿本倫明](../Page/柿本倫明.md "wikilink")、[原裕晃](https://ja.wikipedia.org/wiki/原裕晃 "wikilink")、[大西康平](https://ja.wikipedia.org/wiki/大西康平 "wikilink")、[今井昌太](https://ja.wikipedia.org/wiki/今井昌太 "wikilink") - 『ASIAN2 Jam in You』に出演
-  - [好色人種](https://ja.wikipedia.org/wiki/好色人種 "wikilink")-　レコーディング等でサポート
+  - [好色人種](../Page/好色人種.md "wikilink")-　レコーディング等でサポート
   - [カミナリグモ](https://ja.wikipedia.org/wiki/カミナリグモ "wikilink")- [松本市](../Page/松本市.md "wikilink")出身、『ASIAN2 Jam in You』に出演、レコーディング等でサポート
   - [THE NAMPA BOYS](https://ja.wikipedia.org/wiki/THE_NAMPA_BOYS "wikilink")- [松本市](../Page/松本市.md "wikilink")出身、『ASIAN2 Jam in You』に出演
   - [観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")- 『セ・ラ・ビ』を「ALISA MIZUKI TO ASIAN2」としてコラボ
   - [平愛梨](https://ja.wikipedia.org/wiki/平愛梨 "wikilink")- プロマーシャル『Country Road』に起用
   - [高橋ヒロシ](../Page/高橋ヒロシ.md "wikilink")- [松本市](../Page/松本市.md "wikilink")在住、『ASIAN2 Jam in You』に出演
   - [脇谷亮太](https://ja.wikipedia.org/wiki/脇谷亮太 "wikilink")- 当選手の2007年度後半登場曲として『Country Road』が起用
-  - [長野県松本筑摩高等学校](https://ja.wikipedia.org/wiki/長野県松本筑摩高等学校 "wikilink")
+  - [長野県松本筑摩高等学校](../Page/長野県松本筑摩高等学校.md "wikilink")
 
 ## 外部リンク
 

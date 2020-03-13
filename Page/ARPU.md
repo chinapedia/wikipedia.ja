@@ -29,7 +29,7 @@ ARPUには音声ARPUとデータARPUがあり、それらを合計して総合AR
 <!-- end list -->
 
   -
-    [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")度に平均77[RMBあったARPUは](../Page/人民元.md "wikilink")、[2009年](../Page/2009年.md "wikilink")度に平均69RMBにまで減少した。もともとARPUの安いプリペイド契約のユーザーが多かったことに加え、新規参入による競争の激化でさらに低下している\[3\]。
+    [2006年](../Page/2006年.md "wikilink")度に平均77[RMBあったARPUは](../Page/人民元.md "wikilink")、[2009年](../Page/2009年.md "wikilink")度に平均69RMBにまで減少した。もともとARPUの安いプリペイド契約のユーザーが多かったことに加え、新規参入による競争の激化でさらに低下している\[3\]。
 
 <!-- end list -->
 

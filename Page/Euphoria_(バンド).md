@@ -10,7 +10,7 @@
 ## メンバー
 
   - [森川裕之](https://ja.wikipedia.org/wiki/森川裕之 "wikilink")（もりかわ ひろゆき、[1982年](../Page/1982年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")-）。[ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。バンドの楽曲のレコーディング・エンジニアリングも手がける。
-  - [佐藤昭太](https://ja.wikipedia.org/wiki/佐藤昭太 "wikilink")（さとう しょうた、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")-）。[ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。CDジャケット、公式ウェブサイトなどの[デザイン](../Page/デザイン.md "wikilink")も手がける。
+  - [佐藤昭太](https://ja.wikipedia.org/wiki/佐藤昭太 "wikilink")（さとう しょうた、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月5日](../Page/1月5日.md "wikilink")-）。[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。CDジャケット、公式ウェブサイトなどの[デザイン](../Page/デザイン.md "wikilink")も手がける。
   - [木下陽輔](https://ja.wikipedia.org/wiki/木下陽輔 "wikilink")（きのした ようすけ、[1982年](../Page/1982年.md "wikilink")[8月13日](../Page/8月13日.md "wikilink")-）。[ドラム担当](../Page/ドラムセット.md "wikilink")。CDブックレットなどに載る[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")も手がける。
 
 ## ヒストリー
@@ -18,17 +18,17 @@
   - [2001年](../Page/2001年.md "wikilink")　[自由学園](https://ja.wikipedia.org/wiki/自由学園 "wikilink")に通っていた当時高校3年のメンバー3人が、euphoriaを結成。都内を中心にライブ活動をスタートする。12月、ライブ会場と公式ウェブサイトで自主制作CD『euphoria ep』を発売（現在は入手不可）。
   - [2003年](../Page/2003年.md "wikilink")　[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")、ミニアルバム『**floral dew**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")より全国発売。9月に東名京阪のツアー。
   - [2004年](../Page/2004年.md "wikilink")　[3月24日](../Page/3月24日.md "wikilink")、ミニアルバム『**silent roar**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")より全国発売。4月には、アメリカの[The Album Leafと共演](https://ja.wikipedia.org/wiki/アルバム・リーフ "wikilink")。[6月28日](../Page/6月28日.md "wikilink")、自主企画ライブイベント「silver lining vol.1」開催。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")　1月、アメリカの[Tarentel](https://ja.wikipedia.org/wiki/Tarentel "wikilink")と共演。[6月8日](../Page/6月8日.md "wikilink")、フルアルバム『**eternal gift from the moment**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")より全国発売。9月-10月に東名神阪のツアー。[11月6日](../Page/11月6日.md "wikilink")、自主企画ライブイベント「silver lining vol.2」開催。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")　3月にイタリアの[Bellini](https://ja.wikipedia.org/wiki/Bellini "wikilink")と共演。11月11日にマキシシングル『**oneday**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")よりリリース。11月12日にはタイ・バンコクで開催されたタイ最大のロックフェスティバル、Fat Festival \#6に出演し、数千人のオーディエンスを前に大きな反響を受ける。また、タイのレーベル、[Luxi RecordsよりリリースされたコンピレーションCDに](../Page/Luxi_Records.md "wikilink")[キセル](../Page/キセル_\(バンド\).md "wikilink")、[Chocolat](../Page/Chocolat.md "wikilink")\&Akito、[Cafa](https://ja.wikipedia.org/wiki/Cafa "wikilink")らと共に参加。
-  - [2007年](../Page/2007年.md "wikilink")　[3月2日](../Page/3月2日.md "wikilink")、フルアルバム『**white pattern**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")より全国発売。4月-5月に東京・大阪・神戸・京都のリリースツアー。[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")、自主企画ライブイベント「silver lining vol.3」にて、初のワンマンライブを開催。[10月24日](../Page/10月24日.md "wikilink")、『**white pattern**』のタイ盤を[Luxi Recordsより](../Page/Luxi_Records.md "wikilink")[タイ国内にて発売](../Page/タイ王国.md "wikilink")。12月、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のバンド、[efの楽曲](../Page/Ef_\(ロックバンド\).md "wikilink")[リミックス](../Page/リミックス.md "wikilink")を担当。[efのツアー限定CDに収録される](../Page/Ef_\(ロックバンド\).md "wikilink")（その他のリミキサー陣は、[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")の[Stafraenn Hákon](../Page/スタフライン・ハウコン.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[Isan](../Page/アイサン.md "wikilink")、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[Patrik Torssonなど](https://ja.wikipedia.org/wiki/Patrik_Torsson "wikilink")）。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")　[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")、アルバム『**silence in everywhere**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")より全国発売。9月に全国7ヶ所をまわるリリースツアーを催行。[12月6日](../Page/12月6日.md "wikilink")、自主企画ライブイベント「silver lining vol.4」として、2回目のワンマンライブを渋谷O-Nestにて開催。
+  - [2005年](../Page/2005年.md "wikilink")　1月、アメリカの[Tarentel](https://ja.wikipedia.org/wiki/Tarentel "wikilink")と共演。[6月8日](../Page/6月8日.md "wikilink")、フルアルバム『**eternal gift from the moment**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")より全国発売。9月-10月に東名神阪のツアー。[11月6日](../Page/11月6日.md "wikilink")、自主企画ライブイベント「silver lining vol.2」開催。
+  - [2006年](../Page/2006年.md "wikilink")　3月にイタリアの[Bellini](https://ja.wikipedia.org/wiki/Bellini "wikilink")と共演。11月11日にマキシシングル『**oneday**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")よりリリース。11月12日にはタイ・バンコクで開催されたタイ最大のロックフェスティバル、Fat Festival \#6に出演し、数千人のオーディエンスを前に大きな反響を受ける。また、タイのレーベル、[Luxi RecordsよりリリースされたコンピレーションCDに](../Page/Luxi_Records.md "wikilink")[キセル](../Page/キセル_\(バンド\).md "wikilink")、[Chocolat](../Page/Chocolat.md "wikilink")\&Akito、[Cafa](https://ja.wikipedia.org/wiki/Cafa "wikilink")らと共に参加。
+  - [2007年](../Page/2007年.md "wikilink")　[3月2日](../Page/3月2日.md "wikilink")、フルアルバム『**white pattern**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")より全国発売。4月-5月に東京・大阪・神戸・京都のリリースツアー。[9月8日](../Page/9月8日.md "wikilink")、自主企画ライブイベント「silver lining vol.3」にて、初のワンマンライブを開催。[10月24日](../Page/10月24日.md "wikilink")、『**white pattern**』のタイ盤を[Luxi Recordsより](../Page/Luxi_Records.md "wikilink")[タイ国内にて発売](../Page/タイ王国.md "wikilink")。12月、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のバンド、[efの楽曲](../Page/Ef_\(ロックバンド\).md "wikilink")[リミックス](../Page/リミックス.md "wikilink")を担当。[efのツアー限定CDに収録される](../Page/Ef_\(ロックバンド\).md "wikilink")（その他のリミキサー陣は、[アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink")の[Stafraenn Hákon](../Page/スタフライン・ハウコン.md "wikilink")、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[Isan](../Page/アイサン.md "wikilink")、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[Patrik Torssonなど](https://ja.wikipedia.org/wiki/Patrik_Torsson "wikilink")）。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")　[7月23日](../Page/7月23日.md "wikilink")、アルバム『**silence in everywhere**』を[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")より全国発売。9月に全国7ヶ所をまわるリリースツアーを催行。[12月6日](../Page/12月6日.md "wikilink")、自主企画ライブイベント「silver lining vol.4」として、2回目のワンマンライブを渋谷O-Nestにて開催。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")　[2月5日](../Page/2月5日.md "wikilink")、アルバム『**fluidify**』を公式サイトにて全曲無料配信形式でリリース。その後4月に当該アルバムのCDパッケージ版を、韓国ソウルのステショナリーブランドO-CHECK DESIGN GRAPHICSとのコラボレーションであるノート型のパッケージにて、また数量限定で、メンバーが手描きでジャケットアートワークを仕上げるハンドメイド版にて、それぞれ[123RECORDS](https://ja.wikipedia.org/wiki/123RECORDS "wikilink")より発売。
 
 ## 作品
 
 ### アルバム
 
-  - 『eternal gift from the moment』 123R-8（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月8日](../Page/6月8日.md "wikilink")）
+  - 『eternal gift from the moment』 123R-8（[2005年](../Page/2005年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")）
     1.  moment
     2.  shining
     3.  fairytale landscape
@@ -48,7 +48,7 @@
     7.  dograce
     8.  blue
     9.  white pattern
-  - 『silence in everywhere』 123R-12（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")）
+  - 『silence in everywhere』 123R-12（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月23日](../Page/7月23日.md "wikilink")）
     1.  december
     2.  butterfly track
     3.  quiet rain
@@ -88,7 +88,7 @@
 
 ### マキシシングル
 
-  - 『oneday』 123R-9（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月11日](../Page/11月11日.md "wikilink")）
+  - 『oneday』 123R-9（[2006年](../Page/2006年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")）
     1.  oneday
     2.  summer
     3.  fly
@@ -106,7 +106,7 @@
 
 <!-- end list -->
 
-  - 『Luxi Magic』（[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")・[Luxi Records](../Page/Luxi_Records.md "wikilink")/日本国内での入手不可）
+  - 『Luxi Magic』（[2006年](../Page/2006年.md "wikilink")・[Luxi Records](../Page/Luxi_Records.md "wikilink")/日本国内での入手不可）
     1.  **euphoria** - silent roar (2006 version)
     2.  [Yokee Playboy](https://ja.wikipedia.org/wiki/Yokee_Playboy "wikilink") - I'm Fine
     3.  [キセル](../Page/キセル_\(バンド\).md "wikilink") - 夢のいくら

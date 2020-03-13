@@ -1,7 +1,7 @@
 > この記事は[I.Q](https://ja.wikipedia.org/wiki/I.Q)から翻訳されています。
 
 
-**I.Q**（アイキュー）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から発売された[アクションパズル](https://ja.wikipedia.org/wiki/アクションパズル "wikilink")ゲーム。またそのシリーズの総称。原案は[佐藤雅彦](https://ja.wikipedia.org/wiki/佐藤雅彦_\(メディアクリエーター\) "wikilink")。 I.Qは「*Intelligent Qube*」（インテリジェントキューブ）の略で、[知能指数](../Page/知能指数.md "wikilink")とは関係ないという（ただし「キューブ」の綴りは本来、「Qube」ではなく「Cube」である）。ヨーロッパにおいては、**I.Q**ではなく**KURUSHI**というタイトルで発売している。
+**I.Q**（アイキュー）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から発売された[アクションパズル](../Page/アクションパズル.md "wikilink")ゲーム。またそのシリーズの総称。原案は[佐藤雅彦](../Page/佐藤雅彦_\(メディアクリエーター\).md "wikilink")。 I.Qは「*Intelligent Qube*」（インテリジェントキューブ）の略で、[知能指数](../Page/知能指数.md "wikilink")とは関係ないという（ただし「キューブ」の綴りは本来、「Qube」ではなく「Cube」である）。ヨーロッパにおいては、**I.Q**ではなく**KURUSHI**というタイトルで発売している。
 
 ## 概要とルール
 
@@ -53,16 +53,16 @@
 
 ## シリーズ一覧
 
-  - 『I.Q Intelligent Qube』（[PlayStation](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")、売上本数101万本）
+  - 『I.Q Intelligent Qube』（[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月31日](../Page/1月31日.md "wikilink")、売上本数101万本）
       - 2018年12月3日に発売された『[プレイステーション クラシック](https://ja.wikipedia.org/wiki/プレイステーション_クラシック "wikilink")』にも収録されている。
   - 『I.Q FINAL』（PlayStation、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")）
   - 『I.Q REMIX+』（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")）
-  - 『I.Q Mania』（[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")）
+  - 『I.Q Mania』（[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")）
   - 『I.Q』（携帯用アプリ）（[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")、[EZweb](../Page/EZweb.md "wikilink")、[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")、[CLUB AIR-EDGE](https://ja.wikipedia.org/wiki/エアーエッジ "wikilink")） - その中で[W-ZERO3](../Page/W-ZERO3.md "wikilink")シリーズ用に配信されたものに限りタッチ操作が可能。
 
 ## 関連項目
 
-  - [服部隆之](https://ja.wikipedia.org/wiki/服部隆之 "wikilink") - 『I.Q intelligent qube』及び『I.Q FINAL』のBGMの作曲家。このBGMを集めたアルバムも1999年にリリースされた。
+  - [服部隆之](../Page/服部隆之.md "wikilink") - 『I.Q intelligent qube』及び『I.Q FINAL』のBGMの作曲家。このBGMを集めたアルバムも1999年にリリースされた。
   - [中村至男](../Page/中村至男.md "wikilink") - グラフィック面を担当。
   - [堀江由朗](https://ja.wikipedia.org/wiki/堀江由朗 "wikilink") - 効果音と楽曲のディレクションを担当。1999年、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』「[だんご3兄弟](../Page/だんご3兄弟.md "wikilink")」作、編曲者でもある。
   - [NP完全問題](../Page/NP完全問題.md "wikilink") - このゲームはNP完全問題であることが証明されている。

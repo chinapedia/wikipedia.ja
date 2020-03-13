@@ -1,7 +1,7 @@
 > この記事は[HOLA! DOMINGO](https://ja.wikipedia.org/wiki/HOLA!_DOMINGO)から翻訳されています。
 
 
-**HOLA\! DOMINGO**（オーラ・ドミンゴ）は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週日曜9:00～13:00に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター([DJ](../Page/ディスクジョッキー.md "wikilink"))は[南美布](https://ja.wikipedia.org/wiki/南美布 "wikilink")。
+**HOLA\! DOMINGO**（オーラ・ドミンゴ）は[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週日曜9:00～13:00に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター([DJ](../Page/ディスクジョッキー.md "wikilink"))は[南美布](../Page/南美布.md "wikilink")。
 
 ## 概要
 
@@ -49,7 +49,7 @@
 
 ### 終了したコーナー
 
-  - 10:55-11:25 [NTT DATA](https://ja.wikipedia.org/wiki/NTTデータ "wikilink") SMOOTH INSIGHT
+  - 10:55-11:25 [NTT DATA](../Page/NTTデータ.md "wikilink") SMOOTH INSIGHT
 
 ## 外部リンク
 

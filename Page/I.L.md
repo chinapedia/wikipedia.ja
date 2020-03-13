@@ -1,7 +1,7 @@
 > この記事は[I.L](https://ja.wikipedia.org/wiki/I.L)から翻訳されています。
 
 
-『**I.L**』（アイエル）は、[手塚治虫](../Page/手塚治虫.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の各回読み切りの[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。「[ビッグコミック](../Page/ビッグコミック.md "wikilink")」（[小学館](../Page/小学館.md "wikilink")）にて[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")8月から[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")3月にかけて連載された。
+『**I.L**』（アイエル）は、[手塚治虫](../Page/手塚治虫.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の各回読み切りの[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。「[ビッグコミック](../Page/ビッグコミック.md "wikilink")」（[小学館](../Page/小学館.md "wikilink")）にて[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")8月から[1970年](../Page/1970年.md "wikilink")3月にかけて連載された。
 
 ## 概要
 

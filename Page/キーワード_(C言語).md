@@ -160,7 +160,7 @@ void *p = &a;
 
 ## 関連項目
 
-  - [キーワード (C++)](https://ja.wikipedia.org/wiki/キーワード_\(C++\) "wikilink")
+  - [キーワード (C++)](../Page/キーワード_\(C++\).md "wikilink")
   - [CとC++の演算子](https://ja.wikipedia.org/wiki/CとC++の演算子 "wikilink")
 
 [Category:プログラミング言語の構文](https://ja.wikipedia.org/wiki/Category:プログラミング言語の構文 "wikilink") [Category:C言語](https://ja.wikipedia.org/wiki/Category:C言語 "wikilink")

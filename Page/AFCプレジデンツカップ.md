@@ -1,7 +1,7 @@
 > この記事は[AFC](https://ja.wikipedia.org/wiki/AFC)から翻訳されています。
 
 
-**AFCプレジデンツカップ**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")から[2014年](../Page/2014年.md "wikilink")まで開催された。
+**AFCプレジデンツカップ**（）は、[アジアサッカー連盟](../Page/アジアサッカー連盟.md "wikilink")（AFC）が主催する、[クラブチーム](../Page/クラブチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の国際大会である。[2005年](../Page/2005年.md "wikilink")から[2014年](../Page/2014年.md "wikilink")まで開催された。
 
 ## 開催の経緯
 

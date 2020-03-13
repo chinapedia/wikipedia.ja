@@ -1,7 +1,7 @@
 > この記事は[NI](https://ja.wikipedia.org/wiki/NI)から翻訳されています。
 
 
-**NI帝人商事株式会社**（エヌアイていじんしょうじ、[英称](../Page/英語.md "wikilink"): N.I. TEIJIN SHOJI CO., LTD.）は、かつて存在した[帝人](../Page/帝人.md "wikilink")系の[商社](../Page/商社.md "wikilink")である。[衣料製品](https://ja.wikipedia.org/wiki/衣類 "wikilink")、[繊維](../Page/繊維.md "wikilink")原料、[インテリア](https://ja.wikipedia.org/wiki/インテリア "wikilink")関連製品、建設資材、[樹脂製品](../Page/合成樹脂.md "wikilink")、[フィルム](../Page/フィルム.md "wikilink")製品などの輸出入取引及び国内販売を主要事業とする。
+**NI帝人商事株式会社**（エヌアイていじんしょうじ、[英称](../Page/英語.md "wikilink"): N.I. TEIJIN SHOJI CO., LTD.）は、かつて存在した[帝人](../Page/帝人.md "wikilink")系の[商社](../Page/商社.md "wikilink")である。[衣料製品](https://ja.wikipedia.org/wiki/衣類 "wikilink")、[繊維](../Page/繊維.md "wikilink")原料、[インテリア](../Page/インテリア.md "wikilink")関連製品、建設資材、[樹脂製品](../Page/合成樹脂.md "wikilink")、[フィルム](../Page/フィルム.md "wikilink")製品などの輸出入取引及び国内販売を主要事業とする。
 
 [2001年](../Page/2001年.md "wikilink")に**日商岩井アパレル株式会社**を吸収合併し、**帝人商事株式会社**から**NI帝人商事株式会社**に社名変更。 [2012年](../Page/2012年.md "wikilink")10月に**帝人ファイバー株式会社**のアパレル事業を統合し**[帝人フロンティア](https://ja.wikipedia.org/wiki/帝人フロンティア "wikilink")**となった。
 

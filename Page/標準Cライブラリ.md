@@ -1,7 +1,7 @@
 > この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
 
 
-**標準Cライブラリ**（ひょうじゅんシーライブラリ）は、[C言語](../Page/C言語.md "wikilink")の標準規格で定められた、[型](../Page/データ型.md "wikilink")・[マクロ](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink")・[関数の集合からなる](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")である。
+**標準Cライブラリ**（ひょうじゅんシーライブラリ）は、[C言語](../Page/C言語.md "wikilink")の標準規格で定められた、[型](../Page/データ型.md "wikilink")・[マクロ](../Page/マクロ_\(コンピュータ用語\).md "wikilink")・[関数の集合からなる](https://ja.wikipedia.org/wiki/関数_\(プログラミング\) "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")である。
 
 ## 歴史
 

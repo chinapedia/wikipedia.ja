@@ -51,13 +51,13 @@
 
 [芸能界](https://ja.wikipedia.org/wiki/芸能界 "wikilink")でもLOVEポーズは浸透しており、テレビ番組などでも頻繁に見られる。その火付け役となったのが、武藤と公私にわたり仲良くしている[ものまねタレント](../Page/ものまねタレント.md "wikilink")の[神奈月](../Page/神奈月.md "wikilink")である。
 
-[アンガールズ](../Page/アンガールズ.md "wikilink")や[魔邪のポージングはLOVEポーズが原型であり](https://ja.wikipedia.org/wiki/まちゃまちゃ "wikilink")、アンガールズに至ってはテレビ番組内で直接武藤に許可を得ている。
+[アンガールズ](../Page/アンガールズ.md "wikilink")や[魔邪のポージングはLOVEポーズが原型であり](../Page/まちゃまちゃ.md "wikilink")、アンガールズに至ってはテレビ番組内で直接武藤に許可を得ている。
 
 [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")の[松井玲奈](https://ja.wikipedia.org/wiki/松井玲奈 "wikilink")、[松井珠理奈](https://ja.wikipedia.org/wiki/松井珠理奈 "wikilink")は[Kinect](https://ja.wikipedia.org/wiki/Kinect "wikilink")のCMでLOVEポーズを披露しており、本人たちの一つの代表的なポージングにもなっている。イベントでは武藤に直接指導を受けた。
 
 [水泳選手](https://ja.wikipedia.org/wiki/水泳選手 "wikilink")である[森田智己](../Page/森田智己.md "wikilink")は、武藤の大ファンであり、大会で優勝したときにLOVEポーズを完璧な形で披露している。
 
-[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")では[TBSの](../Page/TBSテレビ.md "wikilink")[小笠原亘](https://ja.wikipedia.org/wiki/小笠原亘 "wikilink")が「[みのもんたの朝ズバッ\!](https://ja.wikipedia.org/wiki/みのもんたの朝ズバッ! "wikilink")」スポーツコーナーの[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")取り組み紹介時に「相撲LONE」と称してLOVEポーズを披露している。
+[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")では[TBSの](../Page/TBSテレビ.md "wikilink")[小笠原亘](../Page/小笠原亘.md "wikilink")が「[みのもんたの朝ズバッ\!](https://ja.wikipedia.org/wiki/みのもんたの朝ズバッ! "wikilink")」スポーツコーナーの[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")取り組み紹介時に「相撲LONE」と称してLOVEポーズを披露している。
 
 [ももいろクローバー](https://ja.wikipedia.org/wiki/ももいろクローバー "wikilink")の楽曲[Chai Maxxの](https://ja.wikipedia.org/wiki/ミライボウル/Chai_Maxx "wikilink")[振付](https://ja.wikipedia.org/wiki/振付 "wikilink")に使用されている。これが縁で、武藤本人がももいろクローバーのライブ『4.10中野サンプラザ大会 ももクロ春の一大事〜眩しさの中に君がいた〜』にゲスト出演した。
 
@@ -67,7 +67,7 @@
 
 **プロレスLOVE 夜のシャイニング・インパクト**（プロレスラブ よるのシャイニング・インパクト）はテレビ東京系列で放送されていた、全日本プロレスの[プロレス中継](../Page/プロレス中継.md "wikilink")番組である。正式タイトルは「**ALL JAPAN PRO-WRESTLING プロレスLOVE 夜のシャイニング・インパクト**」。「夜シャイ」と略されることもある。
 
-放送期間は[2004年](../Page/2004年.md "wikilink")4月から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")3月まで。
+放送期間は[2004年](../Page/2004年.md "wikilink")4月から[2005年](../Page/2005年.md "wikilink")3月まで。
 
 当時全日本社長だった武藤敬司は番組について「番組では試合を放送するわけじゃなくて、ダイジェストを流すだけ。見た人がそのまま視聴者になってもらうわけじゃなくて、会場に来てもらうのが目的」とかつて語っていた。実際、ビッグマッチ以外はダイジェストとして放送され、ノーカット放送された試合は[両国国技館](../Page/両国国技館.md "wikilink")での武藤敬司20周年記念試合（武藤敬司・[三沢光晴](../Page/三沢光晴.md "wikilink")組vs[佐々木健介](https://ja.wikipedia.org/wiki/佐々木健介 "wikilink")・[馳浩](../Page/馳浩.md "wikilink")組）等、数少ない。
 
@@ -81,7 +81,7 @@
 
 ### ナビゲーター
 
-  - [渕正信](https://ja.wikipedia.org/wiki/渕正信 "wikilink")
+  - [渕正信](../Page/渕正信.md "wikilink")
   - [TAKAみちのく](../Page/TAKAみちのく.md "wikilink")
   - [矢野武](../Page/矢野武.md "wikilink")（実況）
   - [鍵野威史](https://ja.wikipedia.org/wiki/鍵野威史 "wikilink")（実況）

@@ -26,19 +26,19 @@
   - [2001年](../Page/2001年.md "wikilink")
       - [北野武](https://ja.wikipedia.org/wiki/北野武 "wikilink")監督の映画「[BROTHER](../Page/BROTHER.md "wikilink")」にインスパイアされ、シングル「Neva Enuff Feat. AKTION」を発表。
       - 8月、映画『TOKYO G.P』に主演出演。
-      - 11月、[FM FESTIVAL'01にて](https://ja.wikipedia.org/wiki/FMフェスティバル "wikilink")[RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink")とのコラボレーションを実現。その年の12月には日本武道館でのライブでの競演も果たしている。
+      - 11月、[FM FESTIVAL'01にて](../Page/FMフェスティバル.md "wikilink")[RIZE](../Page/RIZE.md "wikilink")とのコラボレーションを実現。その年の12月には日本武道館でのライブでの競演も果たしている。
   - [2002年](../Page/2002年.md "wikilink")
       - キングギドラを再始動。2枚同時発売のシングル「Unstoppable」「F.F.B.」を発表。
       - [今井了介](https://ja.wikipedia.org/wiki/今井了介 "wikilink")、[DJ KEN-BOと共にプロデュースユニット](https://ja.wikipedia.org/wiki/DJ_KEN-BO "wikilink")[FIRSTKLAS](https://ja.wikipedia.org/wiki/FIRSTKLAS "wikilink")を結成し、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")のプロジェクトである[SUITE CHICなどのヒット曲に参加](../Page/SUITE_CHIC.md "wikilink")。
   - [2003年](../Page/2003年.md "wikilink")
       - PONY CANYONに移籍。
-      - 5月、[MTV Video Music Awards Japanの司会を務める](https://ja.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")。
+      - 5月、[MTV Video Music Awards Japanの司会を務める](../Page/MTV_Video_Music_Awards_Japan.md "wikilink")。
       - シングル「Perfect Queen」の[PVでは](../Page/ミュージック・ビデオ.md "wikilink")、当時は雑誌[CanCam](../Page/CanCam.md "wikilink")モデルだった妻・中林美和と共演。
       - 3rdアルバム「TOKYO'S FINEST」をリリース。
   - [2004年](../Page/2004年.md "wikilink")
       - [長渕剛](../Page/長渕剛.md "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")「[Hey ANIKI\!](../Page/Hey_ANIKI!.md "wikilink")」に「[しあわせになろうよ'04](../Page/しあわせになろうよ'04.md "wikilink")」で参加。さらに、[8月21日](../Page/8月21日.md "wikilink")に桜島で行われた長渕剛のオールナイトコンサートに同曲で出演し、異ジャンルとのコラボレーションを実現させた。
       - MTV Video Music Awards Japan 2004にて、最優秀ヒップホップビデオ賞を獲得。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [フジテレビの深夜ドラマディビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[15歳のブルース](https://ja.wikipedia.org/wiki/ディビジョン1_\(テレビドラマ\)#ステージ13『15歳のブルース』 "wikilink")」で家庭教師役を務める。また、6月には同ドラマのテーマ曲である「Wildin'」も収録された「Street Dreams」がリリース。
       - [ヤクルトスワローズおよび](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[明治神宮野球場](../Page/明治神宮野球場.md "wikilink")の空間プロデュースに関わる。
       - 10月から、巡回[クラブ](../Page/クラブ.md "wikilink")ツアー『THE LIVE ANIMAL '05 BACK TO THE STREET TOUR』を展開。
@@ -48,7 +48,7 @@
       - [8月](../Page/8月.md "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")と[パーフェクト チョイスで放送された](https://ja.wikipedia.org/wiki/パーフェクト_チョイス "wikilink")[バスケットボール世界選手権のイメージソング](../Page/2006年バスケットボール世界選手権.md "wikilink")「Top Of The World」を制作。この曲は当初リリースする予定はなかったが大きな反響があり急遽、インターネット配信という形にすることになった。
       - 2006年[10月5日](../Page/10月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで、毎週木曜日に[日本テレビで放送されたヒップホップ番組](../Page/日本テレビ放送網.md "wikilink")「[シュガーヒルストリート](../Page/シュガーヒルストリート.md "wikilink")」の司会も務めた。
   - [2007年](../Page/2007年.md "wikilink")
-      - Not your Boyfriend feat.[JESSE](../Page/JESSE.md "wikilink")([RIZE](https://ja.wikipedia.org/wiki/RIZE "wikilink"))が2007年[12月8日](../Page/12月8日.md "wikilink")と[12月9日](../Page/12月9日.md "wikilink")に行われるX-TRAIL JAM IN [東京ドーム](../Page/東京ドーム.md "wikilink")のイメージソングになった。
+      - Not your Boyfriend feat.[JESSE](../Page/JESSE.md "wikilink")([RIZE](../Page/RIZE.md "wikilink"))が2007年[12月8日](../Page/12月8日.md "wikilink")と[12月9日](../Page/12月9日.md "wikilink")に行われるX-TRAIL JAM IN [東京ドーム](../Page/東京ドーム.md "wikilink")のイメージソングになった。
       - 10月、1年8ヶ月ぶりにアルバム「World Of Music」をリリース。
       - 11月29日、ZEEBRAと[スニッカーズ](../Page/スニッカーズ.md "wikilink")の[コラボレーション](../Page/コラボレーション.md "wikilink")[PVが完成し](../Page/ミュージック・ビデオ.md "wikilink")、[MTV](../Page/MTV.md "wikilink")にて初公開される
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
@@ -80,7 +80,7 @@
 
 ## 家族
 
-義父は建築家の[坂倉竹之助](https://ja.wikipedia.org/wiki/坂倉竹之助 "wikilink")。父方の義祖父は建築家の[坂倉準三](https://ja.wikipedia.org/wiki/坂倉準三 "wikilink")、曽祖父は文化学院創立者の[西村伊作](../Page/西村伊作.md "wikilink")。母方の祖父は実業家の[横井英樹](../Page/横井英樹.md "wikilink")。[SPHEREは異父弟](../Page/SPHERE_\(ラッパー\).md "wikilink")。 [1991年](../Page/1991年.md "wikilink")に結婚し、2人の息子を授かるも離婚。2人の子供はZeebraが引き取る。現在の妻は[モデルの](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")[中林美和](https://ja.wikipedia.org/wiki/中林美和 "wikilink")で、中林との間にも2人の娘がおり、合計4人の子供の父である。
+義父は建築家の[坂倉竹之助](https://ja.wikipedia.org/wiki/坂倉竹之助 "wikilink")。父方の義祖父は建築家の[坂倉準三](../Page/坂倉準三.md "wikilink")、曽祖父は文化学院創立者の[西村伊作](../Page/西村伊作.md "wikilink")。母方の祖父は実業家の[横井英樹](../Page/横井英樹.md "wikilink")。[SPHEREは異父弟](../Page/SPHERE_\(ラッパー\).md "wikilink")。 [1991年](../Page/1991年.md "wikilink")に結婚し、2人の息子を授かるも離婚。2人の子供はZeebraが引き取る。現在の妻は[モデルの](../Page/ファッションモデル.md "wikilink")[中林美和](https://ja.wikipedia.org/wiki/中林美和 "wikilink")で、中林との間にも2人の娘がおり、合計4人の子供の父である。
 
 ## その他
 
@@ -177,7 +177,7 @@ VINYL</p></td>
 <tr class="odd">
 <td><p>9th</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Street_Dreams" title="wikilink">Street Dreams</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a>6月1日</p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a>6月1日</p></td>
 <td></td>
 <td><p>16位</p></td>
 <td></td>
@@ -1129,7 +1129,7 @@ feat.Sugar Soul &amp;Zeebra</p></td>
   - PLAYER'S DELIGHT Kevin Garnet Feat.Zeebra（1999年、[NIKE](https://ja.wikipedia.org/wiki/NIKE "wikilink")）\*ナレーション \*楽曲提供
   - 光文社DIAS（2000年、[光文社](../Page/光文社.md "wikilink")）
   - プロバイダー 0 （2001年、[ZERO](../Page/ZERO_\(インターネットサービスプロバイダ\).md "wikilink")）
-  - ドワンゴ 着ラップ偏（2002年、[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")）
+  - ドワンゴ 着ラップ偏（2002年、[ドワンゴ](../Page/ドワンゴ.md "wikilink")）
   - ドワンゴ コズミック ニュース偏（2003年、ドワンゴ）
   - ドワンゴ CAR AUDIO編（2003年、ドワンゴ）
   - ユニクロ（2003年、[ユニクロ](../Page/ユニクロ.md "wikilink")）
@@ -1164,7 +1164,7 @@ feat.Sugar Soul &amp;Zeebra</p></td>
   - 1998年 - ZEEBRA THE LIVE ANIMAL 2000 JAPAN TOUR【全国6ヶ所(札幌、大阪、名古屋、仙台、福岡、東京)ホールツアー】
   - 1998年 - キングギドラ 最終兵器 TOUR 2002【全国4ヶ所(東京,名古屋,大阪,福岡)ホールツアー】
   - [2003年](../Page/2003年.md "wikilink") - ZEEBRA THE LIVE ANIMAL '03 JAPAN TOUR【全国5ヶ所(東京,名古屋,大阪,福岡,仙台)ホールツアー】
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - ZEEBRA THE LIVE ANIMAL '05 〜Back To The Street〜【全国主要都市15ヶ所クラブツアー】
+  - [2005年](../Page/2005年.md "wikilink") - ZEEBRA THE LIVE ANIMAL '05 〜Back To The Street〜【全国主要都市15ヶ所クラブツアー】
   - [2006年](../Page/2006年.md "wikilink") - ZEEBRA LIVE ANIMAL TOUR '06 〜The New Beginning【全国5ヶ所(大阪,名古屋,仙台,福岡,東京2Days)ホールツアー】
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - ZEEBRA CLUB TOUR "THE LIVE ANIMAL WORLD WIDE - World Of Music -"【日本,韓国,台湾,ハワイを含む】
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") - KUROFUNE -Floor invasion tour- ※DJ DIRTYKRATESとして参加【全国主要都市18カ所DJツアー】
@@ -1181,7 +1181,7 @@ feat.Sugar Soul &amp;Zeebra</p></td>
   - [2002年](../Page/2002年.md "wikilink") - 群馬県・赤城少年院でのヒップホップ・アーティストとしては初の慰問ライブ(キングギドラ)
   - 2003年 - MTV VIDEO MUSIC AWARDS JAPAN 2003
   - [2004年](../Page/2004年.md "wikilink") - 長渕剛『桜島オールナイトコンサート』に参加。7万人収容。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink") - プロ野球史上初のイニング間にグランド内でライブを敢行。『ヤクルト vs 巨人』
+  - [2005年](../Page/2005年.md "wikilink") - プロ野球史上初のイニング間にグランド内でライブを敢行。『ヤクルト vs 巨人』
   - [2006年](../Page/2006年.md "wikilink") - 来日中のDamian MarleyのLIVE(@SPRINGROOVE 06)にゲスト参加出演。
   - [2007年](../Page/2007年.md "wikilink") - SPRINGROOVE 07
   - 2007年 - X-TRAIL JAM in 東京ドーム

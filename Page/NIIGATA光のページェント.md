@@ -1,13 +1,13 @@
 > この記事は[NIIGATA](https://ja.wikipedia.org/wiki/NIIGATA)から翻訳されています。
 
 
-**NIIGATA光のページェント**（にいがたひかりのページェント）とは、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区で](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")、毎年[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")に行われる[イルミネーション](https://ja.wikipedia.org/wiki/イルミネーション "wikilink")[イベント](../Page/イベント.md "wikilink")のことである。新潟における冬の[風物詩](../Page/風物詩.md "wikilink")として定着している。
+**NIIGATA光のページェント**（にいがたひかりのページェント）とは、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区で](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")、毎年[年末年始](../Page/年末年始.md "wikilink")に行われる[イルミネーション](https://ja.wikipedia.org/wiki/イルミネーション "wikilink")[イベント](../Page/イベント.md "wikilink")のことである。新潟における冬の[風物詩](../Page/風物詩.md "wikilink")として定着している。
 
 ## 概要
 
 [新潟駅](https://ja.wikipedia.org/wiki/新潟駅 "wikilink")南口[ロータリー](https://ja.wikipedia.org/wiki/ロータリー "wikilink")および隣接する新潟市道駅南線（[けやき通り](https://ja.wikipedia.org/wiki/けやき通り "wikilink")）の[街路樹](../Page/街路樹.md "wikilink")を約26万個\[1\]の[豆電球により電飾する](../Page/電球.md "wikilink")。特にけやき通りでは、幻想的な「光のトンネル」が東西1[kmに渡って形成される](../Page/キロメートル.md "wikilink")。NIIGATA光のページェント実行委員会の主催、新潟市南商工振興会の共催で、運営は全て[ボランティア](../Page/ボランティア.md "wikilink")によって行われている。
 
-[ハッピーマンデー制度](../Page/ハッピーマンデー制度.md "wikilink")施行後の点灯期間は、[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")の[成人の日](../Page/成人の日.md "wikilink")までの[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")1ヶ月間となっている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度（[平成](../Page/平成.md "wikilink")22年度）を例にとると、点灯期間は[12月10日](../Page/12月10日.md "wikilink")（金）〜[1月10日](../Page/1月10日.md "wikilink")（月・祝）であり、例年初日は[金曜日](../Page/金曜日.md "wikilink")、最終日は成人の日（[祝日](../Page/国民の祝日.md "wikilink")）のため[月曜日](../Page/月曜日.md "wikilink")となる。
+[ハッピーマンデー制度](../Page/ハッピーマンデー制度.md "wikilink")施行後の点灯期間は、[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")の[成人の日](../Page/成人の日.md "wikilink")までの[年末年始](../Page/年末年始.md "wikilink")1ヶ月間となっている。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度（[平成](../Page/平成.md "wikilink")22年度）を例にとると、点灯期間は[12月10日](../Page/12月10日.md "wikilink")（金）〜[1月10日](../Page/1月10日.md "wikilink")（月・祝）であり、例年初日は[金曜日](../Page/金曜日.md "wikilink")、最終日は成人の日（[祝日](../Page/国民の祝日.md "wikilink")）のため[月曜日](../Page/月曜日.md "wikilink")となる。
 
 点灯時間は、夕方から新潟駅着の[上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")最終列車が到着してしばらく後まで。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")度（平成20年度）の例では17:00-24:20\[2\]、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")度（平成22年度）のそれは17:00-24:10\[3\]。
 
@@ -15,7 +15,7 @@
 
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）、ボランティアが3万個の[豆電球を](../Page/電球.md "wikilink")、けやき通りの[ケヤキ](../Page/ケヤキ.md "wikilink")17本に飾り付けたことから始まった。その後、年を追うごとに電球数は多くなっていった。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）、けやき通り150本、および、新潟駅南口58本の計208本のケヤキに、合計26万個\[4\]の豆電球が飾り付けられた。この年以降、この規模で維持されている。
-  - [2007年](../Page/2007年.md "wikilink")（平成19年）より、電飾の消費電力約2万[kWhのうち](https://ja.wikipedia.org/wiki/キロワット時 "wikilink")5千kWhを[グリーン電力証書](../Page/グリーン電力証書.md "wikilink")を利用して[再生可能エネルギー](../Page/再生可能エネルギー.md "wikilink")でまかなっている\[5\]\[6\]。
+  - [2007年](../Page/2007年.md "wikilink")（平成19年）より、電飾の消費電力約2万[kWhのうち](../Page/キロワット時.md "wikilink")5千kWhを[グリーン電力証書](../Page/グリーン電力証書.md "wikilink")を利用して[再生可能エネルギー](../Page/再生可能エネルギー.md "wikilink")でまかなっている\[5\]\[6\]。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）より、[省エネルギー](../Page/省エネルギー.md "wikilink")に配慮して[LED電飾への切り替えを順次行う予定](../Page/発光ダイオード.md "wikilink")\[7\]。
 
 [1991年](../Page/1991年.md "wikilink")（平成3年）から、新潟市が150万円の[補助金](../Page/補助金.md "wikilink")を交付し始めた\[8\]。その後数度増額され、近年は500万円（補助率40%強）になっている\[9\]\[10\]。

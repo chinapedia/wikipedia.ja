@@ -11,20 +11,20 @@
       - [ロマンシング サ・ガ](../Page/ロマンシング_サ・ガ.md "wikilink") - [コンピュータRPG](../Page/コンピュータRPG.md "wikilink")
       - [RailSim](../Page/RailSim.md "wikilink") - パソコンゲーム
       - [RuneScape](../Page/RuneScape.md "wikilink") - [MMORPG](../Page/MMORPG.md "wikilink")ゲーム
-      - [RED STONE](https://ja.wikipedia.org/wiki/RED_STONE "wikilink") - [MMORPG](../Page/MMORPG.md "wikilink")ゲーム
+      - [RED STONE](../Page/RED_STONE.md "wikilink") - [MMORPG](../Page/MMORPG.md "wikilink")ゲーム
       - [RaidersSphere](https://ja.wikipedia.org/wiki/RaidersSphere "wikilink") - [フライトシューティングゲーム](https://ja.wikipedia.org/wiki/シューティングゲーム#3Dシューティングゲーム "wikilink")
       - [ライディングスピリッツ](https://ja.wikipedia.org/wiki/ライディングスピリッツ "wikilink") - レースゲーム
       - [ポケットモンスター ルビー・サファイア](../Page/ポケットモンスター_ルビー・サファイア.md "wikilink") - RPG
   - [鉄道](../Page/鉄道.md "wikilink")
-      - [ひかりレールスター](../Page/ひかりレールスター.md "wikilink") - [JR西日本が運行する](https://ja.wikipedia.org/wiki/西日本旅客鉄道 "wikilink")[新幹線](../Page/新幹線.md "wikilink")[種別](https://ja.wikipedia.org/wiki/列車種別 "wikilink")
+      - [ひかりレールスター](../Page/ひかりレールスター.md "wikilink") - [JR西日本が運行する](../Page/西日本旅客鉄道.md "wikilink")[新幹線](../Page/新幹線.md "wikilink")[種別](https://ja.wikipedia.org/wiki/列車種別 "wikilink")
       - [国鉄](../Page/日本国有鉄道.md "wikilink")・[JR](../Page/JR.md "wikilink")の主[整流器](../Page/整流器.md "wikilink")の形式名に冠される記号。
   - [自動車](../Page/自動車.md "wikilink")・[オートバイ](../Page/オートバイ.md "wikilink")の車種名またはグレード名。主にモータースポーツを意識したグレードに命名される。（レーシングスポーツ又はロードセーリングの略）
       - [アウディ](https://ja.wikipedia.org/wiki/Audi "wikilink")
           - [RS4](../Page/アウディ・S4.md "wikilink")
           - [RS6](../Page/アウディ・S6.md "wikilink")
       - [日産](../Page/日産自動車.md "wikilink")
-          - [スカイラインRS](https://ja.wikipedia.org/wiki/日産・スカイライン "wikilink")(R30)
-          - [ステージア](https://ja.wikipedia.org/wiki/日産・ステージア "wikilink") (RS, RS-FOUR) - 市販車（[オーテックジャパン](https://ja.wikipedia.org/wiki/オーテックジャパン "wikilink")限定車：260RS）
+          - [スカイラインRS](../Page/日産・スカイライン.md "wikilink")(R30)
+          - [ステージア](../Page/日産・ステージア.md "wikilink") (RS, RS-FOUR) - 市販車（[オーテックジャパン](../Page/オーテックジャパン.md "wikilink")限定車：260RS）
       - [ホンダ](../Page/本田技研工業.md "wikilink")
           - [RS](../Page/ホンダ・RS.md "wikilink") (RS250, RS125) - 市販レーサー（競技専用オートバイ）
           - [CB](https://ja.wikipedia.org/wiki/ホンダ・CB "wikilink") (CB250RS, CB250RS･Z) - 市販車
@@ -40,7 +40,7 @@
           - [チャンプRS](../Page/ヤマハ・チャンプ.md "wikilink") - スクーター
       - その他
           - [スバル・レガシィ](../Page/スバル・レガシィ.md "wikilink")RS - [スバル](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")
-          - [アプリリア・RS](https://ja.wikipedia.org/wiki/アプリリア・RS "wikilink") - [アプリリアの](../Page/アプリリア_\(会社\).md "wikilink")[2サイクルオートバイシリーズ](../Page/2ストローク機関.md "wikilink")
+          - [アプリリア・RS](../Page/アプリリア・RS.md "wikilink") - [アプリリアの](../Page/アプリリア_\(会社\).md "wikilink")[2サイクルオートバイシリーズ](../Page/2ストローク機関.md "wikilink")
           - [三菱・ランサーエボリューション](../Page/三菱・ランサーエボリューション.md "wikilink")RS - [三菱の競技用ベース車両](https://ja.wikipedia.org/wiki/三菱自動車 "wikilink") ※但し、競技専用車ではなく公道走行(ナンバー取得)も可能
           - [カワサキ・RS](https://ja.wikipedia.org/wiki/カワサキ・RS "wikilink") (750RS, 750RS-Police) - [カワサキの市販車](../Page/川崎重工業.md "wikilink")
           - [トヨタ・ヴィッツ](../Page/トヨタ・ヴィッツ.md "wikilink")のグレード名 - [トヨタ](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")

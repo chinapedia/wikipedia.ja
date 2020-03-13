@@ -7,7 +7,7 @@
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")に[深夜番組](../Page/深夜番組.md "wikilink")放送枠『[ZZZ](../Page/ZZZ.md "wikilink")』の金曜第1部の番組としてスタート。[1999年](../Page/1999年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")放送分までを第一期として一旦終了し、年末年始に単発の特番を放送。
 
-1999年10月から2002年3月まで後番組の『[フジリコ](https://ja.wikipedia.org/wiki/フジリコ "wikilink")』が放送された後、[2002年](../Page/2002年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで、『HAMASHO』第二期が放送された。第二期からはナレーションを[岩崎ひろみ](../Page/岩崎ひろみ.md "wikilink")が担当した。
+1999年10月から2002年3月まで後番組の『[フジリコ](../Page/フジリコ.md "wikilink")』が放送された後、[2002年](../Page/2002年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで、『HAMASHO』第二期が放送された。第二期からはナレーションを[岩崎ひろみ](../Page/岩崎ひろみ.md "wikilink")が担当した。
 
 その後始まった浜田の番組『[浜ちゃんと\!](../Page/浜ちゃんと!.md "wikilink")』に笑瓶がゲスト出演し、名物企画「風俗刑事」を復活させるなど、その後も浜田主体の特別番組において笑瓶が乱入して本番組由来の企画が放送されることがある。
 
@@ -37,7 +37,7 @@
 ## 備考
 
   - 上記の企画以外にも浜田が監督を務める笑瓶CMが撮影された。これは主演である笑瓶が外国人美女を救出する「アクションスター編(Just do it Shohei)」、そして[遠山景織子](https://ja.wikipedia.org/wiki/遠山景織子 "wikilink")をヒロインとした「ラブロマンス編(この夏話題の笑瓶)」の2部構成のストーリーである。この映画は[新宿オデヲン座にて](../Page/東亜興行.md "wikilink")1998年6月20日から7月3日まで[エイリアン4](../Page/エイリアン4.md "wikilink")と同時上映で公開された。
-  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[木村拓哉](https://ja.wikipedia.org/wiki/木村拓哉 "wikilink")は「風俗刑事」の大ファンであり、毎回欠かさずに見ていて、ヒントをじっと見て犯人を予想するのが好きだとダウンタウンDXの楽屋で浜田に話したと言う。
+  - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の[木村拓哉](../Page/木村拓哉.md "wikilink")は「風俗刑事」の大ファンであり、毎回欠かさずに見ていて、ヒントをじっと見て犯人を予想するのが好きだとダウンタウンDXの楽屋で浜田に話したと言う。
   - 同じくニックネームが「ハマショー」と呼ばれている[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")とは無関係。ただ、「[裏国民栄誉賞](../Page/国民栄誉賞.md "wikilink")」という企画で浜田省吾に表彰状を届けに行ったことはある（本人の出演は無し）。
   - 2人が大阪に帰省するというロケの第2夜で、浜田の原点である[2丁目劇場](https://ja.wikipedia.org/wiki/2丁目劇場 "wikilink")（現在は廃館）に出向いた時、まだ[フットボールアワー](../Page/フットボールアワー.md "wikilink")結成前（おそらく[エレキグラム](../Page/エレキグラム.md "wikilink")時代）の[後藤輝基](../Page/後藤輝基.md "wikilink")が少しだけ映っている。
 
@@ -109,7 +109,7 @@
   - 初代
     オープニングは浜田・笑瓶の映像が渦巻いてHAMASHOの文字を作るという映像。
   - 2代目
-    土曜深夜に移動し[サタデー・ナイト・フィーバー](https://ja.wikipedia.org/wiki/サタデー・ナイト・フィーバー "wikilink")風に2人がダンスをしている映像。
+    土曜深夜に移動し[サタデー・ナイト・フィーバー](../Page/サタデー・ナイト・フィーバー.md "wikilink")風に2人がダンスをしている映像。
 
 エンディングではテーマソングはなくなり来週の見どころをナレーターの口調で紹介するという方式となった。
 

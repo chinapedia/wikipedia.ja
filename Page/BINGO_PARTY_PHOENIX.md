@@ -1,7 +1,7 @@
 > この記事は[BINGO PARTY PHOENIX](https://ja.wikipedia.org/wiki/BINGO_PARTY_PHOENIX)から翻訳されています。
 
 
-『**BINGO PARTY PHOENIX**』（**ビンゴパーティーフェニックス**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[ビンゴ](https://ja.wikipedia.org/wiki/ビンゴ "wikilink")ゲームとして[1996年](../Page/1996年.md "wikilink")に発売された。 ビンゴパーティーシリーズの3作目である。
+『**BINGO PARTY PHOENIX**』（**ビンゴパーティーフェニックス**）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[ビンゴ](../Page/ビンゴ.md "wikilink")ゲームとして[1996年](../Page/1996年.md "wikilink")に発売された。 ビンゴパーティーシリーズの3作目である。
 
 ## 概要
 

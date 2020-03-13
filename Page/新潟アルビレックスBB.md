@@ -15,7 +15,7 @@
 
   - オレンジ、 青、 白
 
-チームカラーはオレンジと青(チーム名の由来となった「[アルビレオ](https://ja.wikipedia.org/wiki/アルビレオ "wikilink")」の色から)・白。また、オレンジは[日本海](../Page/日本海.md "wikilink")に沈む夕日、青は日本海と[信濃川](../Page/信濃川.md "wikilink")、白は[白鳥](https://ja.wikipedia.org/wiki/白鳥 "wikilink")と[雪](../Page/雪.md "wikilink")という位置づけもされている。
+チームカラーはオレンジと青(チーム名の由来となった「[アルビレオ](../Page/アルビレオ.md "wikilink")」の色から)・白。また、オレンジは[日本海](../Page/日本海.md "wikilink")に沈む夕日、青は日本海と[信濃川](../Page/信濃川.md "wikilink")、白は[白鳥](https://ja.wikipedia.org/wiki/白鳥 "wikilink")と[雪](../Page/雪.md "wikilink")という位置づけもされている。
 
 ### マスコット
 
@@ -43,7 +43,7 @@
 
 スーパーリーグ時代〜2016年：[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")
 
-試合会場として、[朱鷺メッセ](https://ja.wikipedia.org/wiki/朱鷺メッセ "wikilink")(スーパーリーグ時代〜08-09シーズン)、[新潟市東総合スポーツセンター](https://ja.wikipedia.org/wiki/新潟市東総合スポーツセンター "wikilink")・[新潟市鳥屋野総合体育館](https://ja.wikipedia.org/wiki/新潟市鳥屋野総合体育館 "wikilink")(09-10シーズン〜11-12シーズン)といった新潟市の大規模アリーナが使用された。
+試合会場として、[朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")(スーパーリーグ時代〜08-09シーズン)、[新潟市東総合スポーツセンター](https://ja.wikipedia.org/wiki/新潟市東総合スポーツセンター "wikilink")・[新潟市鳥屋野総合体育館](https://ja.wikipedia.org/wiki/新潟市鳥屋野総合体育館 "wikilink")(09-10シーズン〜11-12シーズン)といった新潟市の大規模アリーナが使用された。
 
 Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総合スポーツセンター Image:Toyano Gymnasium.jpg|鳥屋野総合体育館
 
@@ -81,7 +81,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 | [長岡市栃尾体育館](https://ja.wikipedia.org/wiki/長岡市栃尾体育館 "wikilink")             |
 | 新潟市内                                                                      |
 | [新潟市鳥屋野総合体育館](https://ja.wikipedia.org/wiki/新潟市鳥屋野総合体育館 "wikilink")       |
-| [朱鷺メッセ](https://ja.wikipedia.org/wiki/朱鷺メッセ "wikilink")                   |
+| [朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")                                      |
 | [新潟市体育館](../Page/新潟市体育館.md "wikilink")                                    |
 | [新潟市白根カルチャーセンター](https://ja.wikipedia.org/wiki/新潟市白根カルチャーセンター "wikilink") |
 | 新潟地域                                                                      |
@@ -141,7 +141,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 
 #### 2009-10シーズン
 
-開幕戦ダッシュを目論んだが、チーム内のコミュニケーション不足が祟り、連敗が続いた。シーズン中盤より持ち直し、東カンファレンス3位でプレイオフに進出。 カンファレンスセミファイナルではホームである[仙台89ERS](https://ja.wikipedia.org/wiki/仙台89ERS "wikilink")を破り、3シーズンぶりにファイナル4に進出。ファイナル4では、カンファレンスファイナルの浜松戦と3位決定戦の[琉球ゴールデンキングス](../Page/琉球ゴールデンキングス.md "wikilink")戦に敗れ、4位でシーズンを終えた。
+開幕戦ダッシュを目論んだが、チーム内のコミュニケーション不足が祟り、連敗が続いた。シーズン中盤より持ち直し、東カンファレンス3位でプレイオフに進出。 カンファレンスセミファイナルではホームである[仙台89ERS](../Page/仙台89ERS.md "wikilink")を破り、3シーズンぶりにファイナル4に進出。ファイナル4では、カンファレンスファイナルの浜松戦と3位決定戦の[琉球ゴールデンキングス](../Page/琉球ゴールデンキングス.md "wikilink")戦に敗れ、4位でシーズンを終えた。
 
 #### 2010-11シーズン
 
@@ -175,7 +175,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 
 中村HCが退任、OBでもあり高松ACであった[庄司和広](../Page/庄司和広.md "wikilink")が新HCに就任した。
 
-日本人選手は[五十嵐圭](https://ja.wikipedia.org/wiki/五十嵐圭 "wikilink")(三菱)、[遥天翼](https://ja.wikipedia.org/wiki/遥天翼 "wikilink")(熊本)、[畠山俊樹](https://ja.wikipedia.org/wiki/畠山俊樹 "wikilink")(西宮)が新加入、[木村啓太郎](https://ja.wikipedia.org/wiki/木村啓太郎 "wikilink")(青森)、[武井弘明](https://ja.wikipedia.org/wiki/武井弘明 "wikilink")(信州)、[小松秀平](https://ja.wikipedia.org/wiki/小松秀平 "wikilink")(奈良)、[加藤竜太](https://ja.wikipedia.org/wiki/加藤竜太 "wikilink")(奈良・レンタル)が退団、[堀田剛司](../Page/堀田剛司.md "wikilink")・[仲西翔自](../Page/仲西翔自.md "wikilink")は引退した。尚、[渡邊大我](https://ja.wikipedia.org/wiki/渡邊大我 "wikilink")も五十嵐と共に三菱から移籍したが、シーズン前に契約解除となった。外国出身選手は総入れ替えを行い、[ダバンテ・ガードナー](https://ja.wikipedia.org/wiki/ダバンテ・ガードナー "wikilink")(西宮)、[クリント・チャップマン](https://ja.wikipedia.org/wiki/クリント・チャップマン "wikilink")(千葉)が新加入、バン・トリースが福島から復帰した。
+日本人選手は[五十嵐圭](../Page/五十嵐圭.md "wikilink")(三菱)、[遥天翼](https://ja.wikipedia.org/wiki/遥天翼 "wikilink")(熊本)、[畠山俊樹](https://ja.wikipedia.org/wiki/畠山俊樹 "wikilink")(西宮)が新加入、[木村啓太郎](https://ja.wikipedia.org/wiki/木村啓太郎 "wikilink")(青森)、[武井弘明](https://ja.wikipedia.org/wiki/武井弘明 "wikilink")(信州)、[小松秀平](https://ja.wikipedia.org/wiki/小松秀平 "wikilink")(奈良)、[加藤竜太](https://ja.wikipedia.org/wiki/加藤竜太 "wikilink")(奈良・レンタル)が退団、[堀田剛司](../Page/堀田剛司.md "wikilink")・[仲西翔自](../Page/仲西翔自.md "wikilink")は引退した。尚、[渡邊大我](https://ja.wikipedia.org/wiki/渡邊大我 "wikilink")も五十嵐と共に三菱から移籍したが、シーズン前に契約解除となった。外国出身選手は総入れ替えを行い、[ダバンテ・ガードナー](https://ja.wikipedia.org/wiki/ダバンテ・ガードナー "wikilink")(西宮)、[クリント・チャップマン](https://ja.wikipedia.org/wiki/クリント・チャップマン "wikilink")(千葉)が新加入、バン・トリースが福島から復帰した。
 
 開幕2戦目で富山からBリーグ初勝利を挙げた。ホーム開幕戦には球団史上初の5千人超えとなる5,286人が、ホームアリーナである[アオーレ長岡](https://ja.wikipedia.org/wiki/アオーレ長岡 "wikilink")に駆け付け、2戦目でNBL企業チームの流れをくむSR渋谷からホーム初勝利をあげる。12月に5連勝を挙げ、前半戦を地区4位ながらも15勝14敗で折り返す。[森井健太](https://ja.wikipedia.org/wiki/森井健太 "wikilink")と[田口凛](https://ja.wikipedia.org/wiki/田口凛 "wikilink")の若手選手を強化選手として獲得したが、2月19日の京都戦でガードナーが負傷離脱すると、3月18日に復帰するまでの間、6連敗を喫した。その後は一進一退となり、7試合を残してB1残留を決めたが、同時にCS進出が途絶えた。最終的には、地区4位で18チーム中全体では10番目ながらも、27勝33敗で旧bj勢のなかでは健闘を見せた。しかし、旧NBL勢、特にNBL企業チームの流れをくむ三河・A東京・川崎には未勝利、名古屋Dからは1勝を挙げるも、SR渋谷に1勝7敗と大きく負け越す点で力の違いを感じたシーズンを終えた。
 
@@ -445,7 +445,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 
 <!-- end list -->
 
-  - bjリーグ 57点[仙台89ERS](https://ja.wikipedia.org/wiki/仙台89ERS "wikilink") 2009-10 3月13日
+  - bjリーグ 57点[仙台89ERS](../Page/仙台89ERS.md "wikilink") 2009-10 3月13日
   - Bリーグ 57点 [SR渋谷](../Page/サンロッカーズ渋谷.md "wikilink") 2016-17 4月15日
 
 <!-- end list -->
@@ -488,7 +488,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 
 <!-- end list -->
 
-  - 3連敗 [仙台89ERS](https://ja.wikipedia.org/wiki/仙台89ERS "wikilink") 2007-08 12月16日〜3月30日
+  - 3連敗 [仙台89ERS](../Page/仙台89ERS.md "wikilink") 2007-08 12月16日〜3月30日
 
 ### 観客動員記録
 
@@ -497,7 +497,7 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 <!-- end list -->
 
   - Bリーグ 2016-17 5,286人[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")[アオーレ長岡](https://ja.wikipedia.org/wiki/アオーレ長岡 "wikilink")
-  - bjリーグ 2006-07 4,515人[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[朱鷺メッセ](https://ja.wikipedia.org/wiki/朱鷺メッセ "wikilink")
+  - bjリーグ 2006-07 4,515人[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")
 
 <!-- end list -->
 
@@ -525,38 +525,38 @@ Image:TOKI MESSE.jpg|朱鷺メッセ Image:Niigata east sports center.jpg|東総
 
   - 会場別観客動員記録
 
-|                                                       |                                                                    |                                                             |         |           |
-| ----------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------- | ------- | --------- |
-| 年度                                                    | 自治体                                                                | アリーナ                                                        | 座席数     | ホームゲーム観客数 |
-| 試合数                                                   | 合計                                                                 | 平均                                                          | 最大      | 最小        |
-| 2005-06                                               | [新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")                | **[朱鷺メッセ](https://ja.wikipedia.org/wiki/朱鷺メッセ "wikilink")** | 約5,000席 | 10        |
-| 新潟市                                                   | [市東総合SC](https://ja.wikipedia.org/wiki/新潟市東総合スポーツセンター "wikilink")  | 3,120席                                                      | 2       | \---人     |
-| [長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")   | [市厚生会館](../Page/長岡市厚生会館.md "wikilink")                             | 席                                                           | 4       | \---人     |
-| [小千谷市](../Page/小千谷市.md "wikilink")                    | [市総合体育館](https://ja.wikipedia.org/wiki/小千谷市総合体育館 "wikilink")       | 席                                                           | 2       | \---人     |
-| [上越市](../Page/上越市.md "wikilink")                      | [リージョンプラザ](https://ja.wikipedia.org/wiki/リージョンプラザ上越 "wikilink")    | 3,476席                                                      | 2       | \---人     |
-| *ホーム計*                                                | 20                                                                 | 60,160人                                                     | 3,008人  | 4,394人    |
-| 2006-07                                               | 新潟市                                                                | **朱鷺メッセ**                                                   | 約5,000席 | 10        |
-| 長岡市                                                   | 市厚生会館                                                              | 席                                                           | 4       | 9,573人    |
-| 柏崎市                                                   | 市総合体育館                                                             | 1,130席                                                      | 2       | 4,556人    |
-| 小千谷市                                                  | 市総合体育館                                                             | 席                                                           | 2       | 3,850人    |
-| 上越市                                                   | リージョンプラザ                                                           | 3,476席                                                      | 2       | 5,047人    |
-| *ホーム計*                                                | 20                                                                 | 65,179人                                                     | 3,259人  | 4,515人    |
-| 2007-08                                               | 新潟市                                                                | **朱鷺メッセ**                                                   | 約5,000席 | 10        |
-| 新潟市                                                   | 市東総合SC                                                             | 3,120席                                                      | 2       | \---人     |
-| 新潟市                                                   | [市体育館](../Page/新潟市体育館.md "wikilink")                               | 席                                                           | 2       | \---人     |
-| 長岡市                                                   | 市厚生会館                                                              | 席                                                           | 4       | \---人     |
-| [阿賀野市](https://ja.wikipedia.org/wiki/阿賀野市 "wikilink") | [ささかみ体育館](https://ja.wikipedia.org/wiki/阿賀野市ささかみ体育館 "wikilink")    | 席                                                           | 2       | \---人     |
-| 上越市                                                   | リージョンプラザ                                                           | 3,476席                                                      | 2       | \---人     |
-| *ホーム計*                                                | 22                                                                 | \---人                                                       | \---人   | \---人     |
-| 2008-09                                               | 新潟市                                                                | **朱鷺メッセ**                                                   | 約5,000席 | 10        |
-| 新潟市                                                   | 市東総合SC                                                             | 3,120席                                                      | 4       | \---人     |
-| 長岡市                                                   | [市民体育館](https://ja.wikipedia.org/wiki/長岡市民体育館 "wikilink")          | 席                                                           | 2       | \---人     |
-| 長岡市                                                   | 市厚生会館                                                              | 席                                                           | 2       | \---人     |
-| [新発田市](../Page/新発田市.md "wikilink")                    | [カルチャーセンター](https://ja.wikipedia.org/wiki/新発田カルチャーセンター "wikilink") | 席                                                           | 2       | \---人     |
-| [燕市](../Page/燕市.md "wikilink")                        | [吉田総合体育館](https://ja.wikipedia.org/wiki/燕市吉田総合体育館 "wikilink")      | 席                                                           | 2       | \---人     |
-| 上越市                                                   | リージョンプラザ                                                           | 3,476席                                                      | 2       | \---人     |
-| [聖籠町](../Page/聖籠町.md "wikilink")                      | [町民会館](https://ja.wikipedia.org/wiki/聖籠町町民会館 "wikilink")           | 席                                                           | 2       | \---人     |
-| *ホーム計*                                                | 26                                                                 | \---人                                                       | \---人   | \---人     |
+|                                                       |                                                                    |                                          |         |           |
+| ----------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------- | ------- | --------- |
+| 年度                                                    | 自治体                                                                | アリーナ                                     | 座席数     | ホームゲーム観客数 |
+| 試合数                                                   | 合計                                                                 | 平均                                       | 最大      | 最小        |
+| 2005-06                                               | [新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")                | **[朱鷺メッセ](../Page/朱鷺メッセ.md "wikilink")** | 約5,000席 | 10        |
+| 新潟市                                                   | [市東総合SC](https://ja.wikipedia.org/wiki/新潟市東総合スポーツセンター "wikilink")  | 3,120席                                   | 2       | \---人     |
+| [長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")   | [市厚生会館](../Page/長岡市厚生会館.md "wikilink")                             | 席                                        | 4       | \---人     |
+| [小千谷市](../Page/小千谷市.md "wikilink")                    | [市総合体育館](https://ja.wikipedia.org/wiki/小千谷市総合体育館 "wikilink")       | 席                                        | 2       | \---人     |
+| [上越市](../Page/上越市.md "wikilink")                      | [リージョンプラザ](https://ja.wikipedia.org/wiki/リージョンプラザ上越 "wikilink")    | 3,476席                                   | 2       | \---人     |
+| *ホーム計*                                                | 20                                                                 | 60,160人                                  | 3,008人  | 4,394人    |
+| 2006-07                                               | 新潟市                                                                | **朱鷺メッセ**                                | 約5,000席 | 10        |
+| 長岡市                                                   | 市厚生会館                                                              | 席                                        | 4       | 9,573人    |
+| 柏崎市                                                   | 市総合体育館                                                             | 1,130席                                   | 2       | 4,556人    |
+| 小千谷市                                                  | 市総合体育館                                                             | 席                                        | 2       | 3,850人    |
+| 上越市                                                   | リージョンプラザ                                                           | 3,476席                                   | 2       | 5,047人    |
+| *ホーム計*                                                | 20                                                                 | 65,179人                                  | 3,259人  | 4,515人    |
+| 2007-08                                               | 新潟市                                                                | **朱鷺メッセ**                                | 約5,000席 | 10        |
+| 新潟市                                                   | 市東総合SC                                                             | 3,120席                                   | 2       | \---人     |
+| 新潟市                                                   | [市体育館](../Page/新潟市体育館.md "wikilink")                               | 席                                        | 2       | \---人     |
+| 長岡市                                                   | 市厚生会館                                                              | 席                                        | 4       | \---人     |
+| [阿賀野市](https://ja.wikipedia.org/wiki/阿賀野市 "wikilink") | [ささかみ体育館](https://ja.wikipedia.org/wiki/阿賀野市ささかみ体育館 "wikilink")    | 席                                        | 2       | \---人     |
+| 上越市                                                   | リージョンプラザ                                                           | 3,476席                                   | 2       | \---人     |
+| *ホーム計*                                                | 22                                                                 | \---人                                    | \---人   | \---人     |
+| 2008-09                                               | 新潟市                                                                | **朱鷺メッセ**                                | 約5,000席 | 10        |
+| 新潟市                                                   | 市東総合SC                                                             | 3,120席                                   | 4       | \---人     |
+| 長岡市                                                   | [市民体育館](https://ja.wikipedia.org/wiki/長岡市民体育館 "wikilink")          | 席                                        | 2       | \---人     |
+| 長岡市                                                   | 市厚生会館                                                              | 席                                        | 2       | \---人     |
+| [新発田市](../Page/新発田市.md "wikilink")                    | [カルチャーセンター](https://ja.wikipedia.org/wiki/新発田カルチャーセンター "wikilink") | 席                                        | 2       | \---人     |
+| [燕市](../Page/燕市.md "wikilink")                        | [吉田総合体育館](https://ja.wikipedia.org/wiki/燕市吉田総合体育館 "wikilink")      | 席                                        | 2       | \---人     |
+| 上越市                                                   | リージョンプラザ                                                           | 3,476席                                   | 2       | \---人     |
+| [聖籠町](../Page/聖籠町.md "wikilink")                      | [町民会館](https://ja.wikipedia.org/wiki/聖籠町町民会館 "wikilink")           | 席                                        | 2       | \---人     |
+| *ホーム計*                                                | 26                                                                 | \---人                                    | \---人   | \---人     |
 
 ## 国際試合・親善試合
 

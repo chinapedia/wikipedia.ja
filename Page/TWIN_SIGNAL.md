@@ -1,11 +1,11 @@
 > この記事は[TWIN SIGNAL](https://ja.wikipedia.org/wiki/TWIN_SIGNAL)から翻訳されています。
 
 
-『**TWIN SIGNAL**』（ツインシグナル）は、[大清水さち](https://ja.wikipedia.org/wiki/大清水さち "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[OVA](../Page/OVA.md "wikilink")、[小説](../Page/小説.md "wikilink")、[ドラマCD](https://ja.wikipedia.org/wiki/ドラマCD "wikilink")。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』ならびに『[月刊Gファンタジー](https://ja.wikipedia.org/wiki/月刊Gファンタジー "wikilink")』（共に[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")刊）にて[1992年](../Page/1992年.md "wikilink")12月号から[2001年](../Page/2001年.md "wikilink")12月号まで連載された。 [2019年](../Page/2019年.md "wikilink")より[メディバン](https://ja.wikipedia.org/wiki/メディバン "wikilink")が運営するARTstreetにて続編の『TWIN SIGNAL Biennial』が連載中。
+『**TWIN SIGNAL**』（ツインシグナル）は、[大清水さち](https://ja.wikipedia.org/wiki/大清水さち "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[OVA](../Page/OVA.md "wikilink")、[小説](../Page/小説.md "wikilink")、[ドラマCD](../Page/ドラマCD.md "wikilink")。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』ならびに『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』（共に[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")刊）にて[1992年](../Page/1992年.md "wikilink")12月号から[2001年](../Page/2001年.md "wikilink")12月号まで連載された。 [2019年](../Page/2019年.md "wikilink")より[メディバン](https://ja.wikipedia.org/wiki/メディバン "wikilink")が運営するARTstreetにて続編の『TWIN SIGNAL Biennial』が連載中。
 
 ## 概要
 
-最初は読み切り作品として『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』増刊号の『[フレッシュガンガン](../Page/フレッシュガンガン.md "wikilink")』に掲載された。それが好評であったため、『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』で連載が開始された。[2000年](../Page/2000年.md "wikilink")10月号から掲載誌を『[月刊Gファンタジー](https://ja.wikipedia.org/wiki/月刊Gファンタジー "wikilink")』へと変更。その際に『TWIN SIGNAL A-ナンバーズ抹殺計画』へと改題している。全123話、単行本全19巻、文庫版全11巻。文庫版は朝日ソノラマから出版。
+最初は読み切り作品として『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』増刊号の『[フレッシュガンガン](../Page/フレッシュガンガン.md "wikilink")』に掲載された。それが好評であったため、『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』で連載が開始された。[2000年](../Page/2000年.md "wikilink")10月号から掲載誌を『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』へと変更。その際に『TWIN SIGNAL A-ナンバーズ抹殺計画』へと改題している。全123話、単行本全19巻、文庫版全11巻。文庫版は朝日ソノラマから出版。
 
 また、外伝として『[月刊ガンガンWING](../Page/月刊ガンガンWING.md "wikilink")』に連載された『呪われし電脳神（MOIRA）TWIN SIGNAL外伝』（[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現:[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）刊）がある。こちらは単行本全2巻。
 
@@ -353,7 +353,7 @@
     トッカリタウン警察署の[警察官](../Page/警察官.md "wikilink")。巡査ロボットたちの面倒を見ている女性。
   - 真城守巡査（しんじょう まもる）
     声 - [森川智之](../Page/森川智之.md "wikilink")
-    トッカリタウン警察署に新規配属された巡査。かなりの熱血漢で、[ベアトラップ](https://ja.wikipedia.org/wiki/ベアトラップ "wikilink")に縄をつけた「投げベア」を武器としている。ロボット嫌いで、特にHFRを「からくりカカシ」「人真似カカシ」と呼び、身近にいるシグナルを目のカタキにしている。しかし、シグナルとパルスを見間違えたり、正信をシグナルたちと間違えたり、ラヴェンダーをロボットと見抜けなかったりなど、見る目はあまりない。
+    トッカリタウン警察署に新規配属された巡査。かなりの熱血漢で、[ベアトラップ](../Page/ベアトラップ.md "wikilink")に縄をつけた「投げベア」を武器としている。ロボット嫌いで、特にHFRを「からくりカカシ」「人真似カカシ」と呼び、身近にいるシグナルを目のカタキにしている。しかし、シグナルとパルスを見間違えたり、正信をシグナルたちと間違えたり、ラヴェンダーをロボットと見抜けなかったりなど、見る目はあまりない。
   - 荒谷光（あらや ひかる）・懸田（かけた）・関根新吾（せきね しんご）
     信彦のトッカリタウンでの小学校の同級生。荒谷光はトッカリタウン警察署・荒谷巡査の妹。懸田は信彦の隣席でクラス委員長。関根新吾は悪友。信彦同様、ロボットと人間の違いを気にしない子供たち。
   - 江神美咲（えがみ みさき）
@@ -557,13 +557,13 @@
   - 監督 - 曽我部孝
   - 脚本 - 山下久仁明
   - キャラクターデザイン・総作画監督 - 佐々木敏子
-  - 美術監督 - [加藤浩](https://ja.wikipedia.org/wiki/加藤浩 "wikilink")
+  - 美術監督 - [加藤浩](../Page/加藤浩.md "wikilink")
   - 色彩設計 - 木村早苗
   - 撮影監督 - 宇津畑隆
-  - 音響監督 - [千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")
+  - 音響監督 - [千葉繁](../Page/千葉繁.md "wikilink")
   - 音楽 - 鈴木豪
   - プロデューサー - 林美千代、五十嵐智之
-  - 制作協力 - [東京キッズ](https://ja.wikipedia.org/wiki/東京キッズ "wikilink")
+  - 制作協力 - [東京キッズ](../Page/東京キッズ.md "wikilink")
   - 制作 - 西国晃、藤家和正
   - 製作・著作 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 
@@ -573,7 +573,7 @@
 
 :; オープニングテーマ「[Truth](https://ja.wikipedia.org/wiki/TRUTH_\(Bluem_of_Youthの曲\) "wikilink")」
 
-:: 作詞 - 別所悠二 / 作曲・編曲 - 松ヶ下宏之 / 歌 - [Bluem of Youth](https://ja.wikipedia.org/wiki/Bluem_of_Youth "wikilink")
+:: 作詞 - 別所悠二 / 作曲・編曲 - 松ヶ下宏之 / 歌 - [Bluem of Youth](../Page/Bluem_of_Youth.md "wikilink")
 
 :; エンディングテーマ「なんとかなるよ」
 

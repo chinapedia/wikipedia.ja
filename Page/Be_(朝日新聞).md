@@ -5,11 +5,11 @@
 
 ## 概要
 
-朝日新聞では、[1959年](../Page/1959年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から毎週[日曜日](../Page/日曜日.md "wikilink")（[年末年始](https://ja.wikipedia.org/wiki/年末年始 "wikilink")と[1964年](../Page/1964年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の[東京オリンピック期間中を除く](../Page/1964年東京オリンピック.md "wikilink")）に別冊特集「[日曜版](https://ja.wikipedia.org/wiki/日曜版 "wikilink")」（4\~8ページ建て、[オフセット印刷](../Page/オフセット印刷.md "wikilink")化は[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")付から）を発行し、「[世界名画の旅](../Page/世界名画の旅.md "wikilink")」「[100人の20世紀](../Page/100人の20世紀.md "wikilink")」など後に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列でテレビ番組化された連載読み物や[クロスワード](https://ja.wikipedia.org/wiki/クロスワード "wikilink")、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")「[ハーイあっこです](https://ja.wikipedia.org/wiki/ハーイあっこです "wikilink")」（これも後に[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")からテレビアニメ化、[みつはしちかこ](../Page/みつはしちかこ.md "wikilink")著）などを掲載していた。それを[2002年](../Page/2002年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に廃止し、その代わりとして翌[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の紙面刷新を機に毎週[土曜日](../Page/土曜日.md "wikilink")に週末にゆったりと楽しんでもらえる内容として「Business\&Entertainment」の頭文字を取って「be」を創刊させた。
+朝日新聞では、[1959年](../Page/1959年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から毎週[日曜日](../Page/日曜日.md "wikilink")（[年末年始](../Page/年末年始.md "wikilink")と[1964年](../Page/1964年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")の[東京オリンピック期間中を除く](../Page/1964年東京オリンピック.md "wikilink")）に別冊特集「[日曜版](https://ja.wikipedia.org/wiki/日曜版 "wikilink")」（4\~8ページ建て、[オフセット印刷](../Page/オフセット印刷.md "wikilink")化は[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")付から）を発行し、「[世界名画の旅](../Page/世界名画の旅.md "wikilink")」「[100人の20世紀](../Page/100人の20世紀.md "wikilink")」など後に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列でテレビ番組化された連載読み物や[クロスワード](https://ja.wikipedia.org/wiki/クロスワード "wikilink")、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")「[ハーイあっこです](../Page/ハーイあっこです.md "wikilink")」（これも後に[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")からテレビアニメ化、[みつはしちかこ](../Page/みつはしちかこ.md "wikilink")著）などを掲載していた。それを[2002年](../Page/2002年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に廃止し、その代わりとして翌[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")の紙面刷新を機に毎週[土曜日](../Page/土曜日.md "wikilink")に週末にゆったりと楽しんでもらえる内容として「Business\&Entertainment」の頭文字を取って「be」を創刊させた。
 
 この別冊新聞は2冊構成になっており、タイトルにもある様に、経済情報や[社長](../Page/社長.md "wikilink")などへのトップインタビューを核とした経済特集のページ（<span style="color:blue;">青のbe</span>）と、文化[芸能](../Page/芸能.md "wikilink")、クロスワードなどのパズル、生活情報などで構成するエンターテインメント特集のページ（<span style="color:red;">赤のbe</span>）の2分冊（土曜日付けの本編と合せると3分冊）で構成されている。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月からは、実質的には3年ぶりの復活となる日曜版「be on sunday」（<span style="color:green;">緑のbe</span>）を創刊させたが、こちらは科学特集に特化した内容で掲載されている。これに伴い土曜版は「be on Saturday」と題して発行されている。さらに[2007年](../Page/2007年.md "wikilink")3月からはこれに加えて「be television」（<span style="color:gold;">金色のbe</span>）も創刊させているが、こちらは1週間のテレビ[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")を各地域毎に掲載する他、テレビに関する情報も掲載している（同月末までは夕刊に「週間TV」が掲載されていた）。これによって日曜版も2分冊（本編と合わせて3分冊）となっている。
+[2005年](../Page/2005年.md "wikilink")4月からは、実質的には3年ぶりの復活となる日曜版「be on sunday」（<span style="color:green;">緑のbe</span>）を創刊させたが、こちらは科学特集に特化した内容で掲載されている。これに伴い土曜版は「be on Saturday」と題して発行されている。さらに[2007年](../Page/2007年.md "wikilink")3月からはこれに加えて「be television」（<span style="color:gold;">金色のbe</span>）も創刊させているが、こちらは1週間のテレビ[番組表](https://ja.wikipedia.org/wiki/番組表 "wikilink")を各地域毎に掲載する他、テレビに関する情報も掲載している（同月末までは夕刊に「週間TV」が掲載されていた）。これによって日曜版も2分冊（本編と合わせて3分冊）となっている。
 
 [2009年](../Page/2009年.md "wikilink")4月の紙面刷新で、日曜版は廃止となり、日曜版に掲載されていた一部の連載記事と週間テレビ番組表は土曜版に移行した。2016年10月からは「be television」は「beテレビ」としてさらに分離した。 なお日曜版はその後2年間休止ののち、[2011年](../Page/2011年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から、月曜付に月2回中頁抜き取り形式で掲載していた「[朝日新聞グローブ](https://ja.wikipedia.org/wiki/朝日新聞グローブ "wikilink")」を移設する形で再開している（第1・3週の日曜のみ）。
 
@@ -33,7 +33,7 @@
 
 [BS朝日では](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")までこのbeを題材にしたテレビ番組（サブタイトル：「大人の知的サプリメント」）を毎週[日曜日](../Page/日曜日.md "wikilink")に放送していた。
 
-当初は「be on sunday」という表題だったが、先述の通り、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から新聞の日曜版のタイトルに使用される事から混同を避けるため「be on TV」を経て「be on AIR」となった。また、2007年は関連番組「beメディカル」が放送されていた。司会は[吉田照美](../Page/吉田照美.md "wikilink")と[久保田直子](https://ja.wikipedia.org/wiki/久保田直子 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー）だった。
+当初は「be on sunday」という表題だったが、先述の通り、[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から新聞の日曜版のタイトルに使用される事から混同を避けるため「be on TV」を経て「be on AIR」となった。また、2007年は関連番組「beメディカル」が放送されていた。司会は[吉田照美](../Page/吉田照美.md "wikilink")と[久保田直子](https://ja.wikipedia.org/wiki/久保田直子 "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー）だった。
 
 ### be on AIR
 
@@ -45,7 +45,7 @@
 
   - 毎週日曜日22時30分～23時（再放送：本放送翌週の日曜日11時30分～12時）
   - 毎月、あるテーマに沿って健康にまつわる情報や視聴者からの相談を専門の医者が解説する。
-  - 協賛：[日本医師会](https://ja.wikipedia.org/wiki/日本医師会 "wikilink")（地上波・[日本テレビ系列で放送された](../Page/日本テレビ放送網.md "wikilink")「[健康増進時代](../Page/健康増進時代.md "wikilink")」→「[Oh\!診](https://ja.wikipedia.org/wiki/Oh!診 "wikilink")」→「[からだ元気科](../Page/からだ元気科.md "wikilink")」の終了を受けて放送局を代えて番組を協賛。加盟製薬会社との共同スポンサー）
+  - 協賛：[日本医師会](../Page/日本医師会.md "wikilink")（地上波・[日本テレビ系列で放送された](../Page/日本テレビ放送網.md "wikilink")「[健康増進時代](../Page/健康増進時代.md "wikilink")」→「[Oh\!診](../Page/Oh!診.md "wikilink")」→「[からだ元気科](../Page/からだ元気科.md "wikilink")」の終了を受けて放送局を代えて番組を協賛。加盟製薬会社との共同スポンサー）
   - 2008年3月30日終了（なお、スポンサー上の後継企画は『[鳥越俊太郎 医療の現場\!](https://ja.wikipedia.org/wiki/鳥越俊太郎_医療の現場! "wikilink")』とされている）
 
 ## 関連項目

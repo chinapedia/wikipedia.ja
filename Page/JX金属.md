@@ -17,7 +17,7 @@
 
 ### 本社・事務所
 
-  - [本社](../Page/本社.md "wikilink") - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[大手町一丁目](https://ja.wikipedia.org/wiki/大手町_\(千代田区\) "wikilink")1番2号
+  - [本社](../Page/本社.md "wikilink") - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[大手町一丁目](../Page/大手町_\(千代田区\).md "wikilink")1番2号
   - チリ事務所 - [サンティアゴ](https://ja.wikipedia.org/wiki/サンティアゴ・デ・チレ "wikilink")（[チリ](../Page/チリ.md "wikilink")）
 
 ### 生産拠点
@@ -28,7 +28,7 @@
       - 電材加工事業（薄膜材料事業）を担当。
   - 倉見工場 - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[高座郡](../Page/高座郡.md "wikilink")[寒川町](../Page/寒川町.md "wikilink")倉見3
       - 電材加工事業（機能材料事業）を担当。
-  - 敦賀工場 - [福井県](../Page/福井県.md "wikilink")[敦賀市](https://ja.wikipedia.org/wiki/敦賀市 "wikilink")若泉町1
+  - 敦賀工場 - [福井県](../Page/福井県.md "wikilink")[敦賀市](../Page/敦賀市.md "wikilink")若泉町1
       - 環境リサイクル事業を担当。
 
 ### 研究所
@@ -43,10 +43,10 @@
   - [1992年](../Page/1992年.md "wikilink")（[平成](../Page/平成.md "wikilink")4年）[5月28日](../Page/5月28日.md "wikilink") - （旧）**日鉱金属株式会社**設立。
   - 1992年（平成4年）11月 - [日本鉱業の金属資源](../Page/ジャパンエナジー.md "wikilink")・金属事業・金属加工事業部門を継承、営業開始。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）11月 - [亜鉛](../Page/亜鉛.md "wikilink")・[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")事業製錬から撤退。
-  - [2000年](../Page/2000年.md "wikilink")（平成12年）[10月3日](../Page/10月3日.md "wikilink") - [三井金属鉱業](https://ja.wikipedia.org/wiki/三井金属鉱業 "wikilink")株式会社と共同出資し、[パンパシフィック・カッパー](../Page/パンパシフィック・カッパー.md "wikilink")株式会社を設立。
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）[10月3日](../Page/10月3日.md "wikilink") - [三井金属鉱業](../Page/三井金属鉱業.md "wikilink")株式会社と共同出資し、[パンパシフィック・カッパー](../Page/パンパシフィック・カッパー.md "wikilink")株式会社を設立。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - ジャパンエナジーと共同持株会社である[新日鉱ホールディングス](../Page/新日鉱ホールディングス.md "wikilink")株式会社を設立し、新日鉱グループの一翼となる。
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[10月1日](../Page/10月1日.md "wikilink") - 金属加工部門（倉見工場・川崎分工場）を**日鉱金属加工株式会社**として分社化。
-  - [2006年](../Page/2006年.md "wikilink")（平成18年）3月 - 亜鉛・鉛事業から撤退。資源枯渇により、子会社の[豊羽鉱山](https://ja.wikipedia.org/wiki/豊羽鉱山 "wikilink")株式会社が操業休止。
+  - [2006年](../Page/2006年.md "wikilink")（平成18年）3月 - 亜鉛・鉛事業から撤退。資源枯渇により、子会社の[豊羽鉱山](../Page/豊羽鉱山.md "wikilink")株式会社が操業休止。
 
 ### 日鉱マテリアルズ
 
@@ -78,7 +78,7 @@
       - 高純度金属（[ケイ素](../Page/ケイ素.md "wikilink")・[鉄](../Page/鉄.md "wikilink")・[ニッケル](../Page/ニッケル.md "wikilink")・銅など）
       - [表面処理](https://ja.wikipedia.org/wiki/表面処理 "wikilink")剤
       - 銅粉
-      - [硫酸銅](https://ja.wikipedia.org/wiki/硫酸銅\(II\) "wikilink")
+      - [硫酸銅](../Page/硫酸銅\(II\).md "wikilink")
       - 銅[合金](../Page/合金.md "wikilink")[伸銅](https://ja.wikipedia.org/wiki/伸銅 "wikilink")品
       - 精密プレス品
       - 精密めっき品
@@ -88,7 +88,7 @@
   - 柿の沢発電所
     [福島県](../Page/福島県.md "wikilink")[いわき市](../Page/いわき市.md "wikilink")にある、JX金属が有する唯一の[水力発電所](https://ja.wikipedia.org/wiki/水力発電所 "wikilink")。[1955年](../Page/1955年.md "wikilink")（昭和30年）、銅の[電解精錬](../Page/電解精錬.md "wikilink")に必要な[電力](../Page/電力.md "wikilink")をまかなうために建設したもので、余剰電力は売電している。[2015年](../Page/2015年.md "wikilink")（平成27年）には[スクラップアンドビルド](../Page/スクラップアンドビルド.md "wikilink")を完了し、出力を4,800[キロワットから](../Page/ワット.md "wikilink")5,120キロワットに増強した\[1\]\[2\]\[3\]。
 
-<File:Kakinosawa> Power Station weir 1.jpg|[鮫川](https://ja.wikipedia.org/wiki/鮫川 "wikilink")取水[堰](https://ja.wikipedia.org/wiki/堰 "wikilink")（[古殿町](https://ja.wikipedia.org/wiki/古殿町 "wikilink")） <File:Kakinosawa> Power Station 1.jpg|発電所建屋（いわき市）
+<File:Kakinosawa> Power Station weir 1.jpg|[鮫川](https://ja.wikipedia.org/wiki/鮫川 "wikilink")取水[堰](../Page/堰.md "wikilink")（[古殿町](../Page/古殿町.md "wikilink")） <File:Kakinosawa> Power Station 1.jpg|発電所建屋（いわき市）
 
 ## 傘下グループ会社
 

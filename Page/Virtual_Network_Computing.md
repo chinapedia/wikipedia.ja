@@ -33,7 +33,7 @@ PC操作を教える側、教わる側が傍にいなくても、実際に操作
 
 ## デメリット
 
-VNCは通信に[暗号](../Page/暗号.md "wikilink")を用いないため、[パスワード](../Page/パスワード.md "wikilink")等を含め全て[平文](https://ja.wikipedia.org/wiki/平文 "wikilink")で送信される。このため、[Telnet](../Page/Telnet.md "wikilink")等と同じく危険なプロトコルであり、使用には注意が必要である。
+VNCは通信に[暗号](../Page/暗号.md "wikilink")を用いないため、[パスワード](../Page/パスワード.md "wikilink")等を含め全て[平文](../Page/平文.md "wikilink")で送信される。このため、[Telnet](../Page/Telnet.md "wikilink")等と同じく危険なプロトコルであり、使用には注意が必要である。
 
 ただし、よりセキュリティの高い[SSHや](../Page/Secure_Shell.md "wikilink")[VPNをトンネルして接続することも出来る](../Page/Virtual_Private_Network.md "wikilink")。また、派生バージョンでは、[NTLM認証が可能であったりと](https://ja.wikipedia.org/wiki/NT_LAN_Manager "wikilink")、セキュリティ面の強化が図られているものもある。
 

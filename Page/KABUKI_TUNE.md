@@ -1,11 +1,11 @@
 > この記事は[KABUKI TUNE](https://ja.wikipedia.org/wiki/KABUKI_TUNE)から翻訳されています。
 
 
-『**KABUKI TUNE**』（カブキ・チューン）は、[NHK-FM放送](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")である。リニューアル前のタイトルは『**邦楽ジョッキー**』（ほうがくジョッキー）であった。
+『**KABUKI TUNE**』（カブキ・チューン）は、[NHK-FM放送](../Page/NHK-FM放送.md "wikilink")の[音楽番組](../Page/音楽番組.md "wikilink")である。リニューアル前のタイトルは『**邦楽ジョッキー**』（ほうがくジョッキー）であった。
 
 ## 概要
 
-毎週金曜日11:00～11:50放送（再放送は土曜日5:00～5:50）。但し[千葉局はローカル別番組を放送するため](../Page/NHK千葉放送局.md "wikilink")、通常は再放送枠のみの放送となる。金曜日が[祝日](../Page/祝日.md "wikilink")の時はローカル番組が休止され本放送枠も放送される。 1976年度（昭和51年度）に[ラジオ第一放送で放送を開始](https://ja.wikipedia.org/wiki/NHKラジオ第1放送 "wikilink")、1985年度（昭和60年度）にNHK-FMに移設された。同番組は、毎回若手[歌舞伎](../Page/歌舞伎.md "wikilink")俳優が歴代のパーソナリティーを勤めている。 2018年4月6日より、番組名を「邦楽ジョッキー」から「[KABUKI TUNE](https://ja.wikipedia.org/wiki/KABUKI_TUNE "wikilink")」（カブキ・チューン）として、リニューアルした。
+毎週金曜日11:00～11:50放送（再放送は土曜日5:00～5:50）。但し[千葉局はローカル別番組を放送するため](../Page/NHK千葉放送局.md "wikilink")、通常は再放送枠のみの放送となる。金曜日が[祝日](../Page/祝日.md "wikilink")の時はローカル番組が休止され本放送枠も放送される。 1976年度（昭和51年度）に[ラジオ第一放送で放送を開始](../Page/NHKラジオ第1放送.md "wikilink")、1985年度（昭和60年度）にNHK-FMに移設された。同番組は、毎回若手[歌舞伎](../Page/歌舞伎.md "wikilink")俳優が歴代のパーソナリティーを勤めている。 2018年4月6日より、番組名を「邦楽ジョッキー」から「[KABUKI TUNE](../Page/KABUKI_TUNE.md "wikilink")」（カブキ・チューン）として、リニューアルした。
 
 ## 放送内容
 

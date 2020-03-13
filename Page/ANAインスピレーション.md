@@ -32,7 +32,7 @@
 
 ## 記録
 
-  - 最多優勝回数：3回、[エイミー・オルコット](https://ja.wikipedia.org/wiki/エイミー・オルコット "wikilink")（[1983](https://ja.wikipedia.org/wiki/1983年 "wikilink")・1988・1991年）、[ベッツィ・キング](https://ja.wikipedia.org/wiki/ベッツィ・キング "wikilink")（[1987](https://ja.wikipedia.org/wiki/1987年 "wikilink")・[1990](https://ja.wikipedia.org/wiki/1990年 "wikilink")・[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）、[アニカ・ソレンスタム](../Page/アニカ・ソレンスタム.md "wikilink")（2001・2002・[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")）
+  - 最多優勝回数：3回、[エイミー・オルコット](https://ja.wikipedia.org/wiki/エイミー・オルコット "wikilink")（[1983](https://ja.wikipedia.org/wiki/1983年 "wikilink")・1988・1991年）、[ベッツィ・キング](https://ja.wikipedia.org/wiki/ベッツィ・キング "wikilink")（[1987](https://ja.wikipedia.org/wiki/1987年 "wikilink")・[1990](https://ja.wikipedia.org/wiki/1990年 "wikilink")・[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）、[アニカ・ソレンスタム](../Page/アニカ・ソレンスタム.md "wikilink")（2001・2002・[2005年](../Page/2005年.md "wikilink")）
   - 最年長優勝：42歳、[ジョ・アン・プレンティス](https://ja.wikipedia.org/wiki/ジョ・アン・プレンティス "wikilink")（[1974年](../Page/1974年.md "wikilink")）
   - 最年少優勝：18歳、[モーガン・プレッセル](../Page/モーガン・プレッセル.md "wikilink")（[2007年](../Page/2007年.md "wikilink")）
   - 72ホール最高スコア：269、[ドッティー・ペッパー](https://ja.wikipedia.org/wiki/ドッティー・ペッパー "wikilink")（[1999年](../Page/1999年.md "wikilink")）
@@ -211,7 +211,7 @@
 <td><p>1,800,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 <td><p>Mar 24–27</p></td>
 <td><p><a href="../Page/アニカ・ソレンスタム.md" title="wikilink">アニカ・ソレンスタム</a> (3)</p></td>
 <td></td>
@@ -575,7 +575,7 @@
 </tr>
 <tr class="even">
 <td><p>1973</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ミッキー・ライト" title="wikilink">ミッキー・ライト</a></p></td>
+<td><p><a href="../Page/ミッキー・ライト.md" title="wikilink">ミッキー・ライト</a></p></td>
 <td></td>
 <td><p>71-74-71-68</p></td>
 <td><p>284</p></td>

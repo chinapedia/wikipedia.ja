@@ -11,9 +11,9 @@
 
 これといったストーリーはなく、[フリーター](../Page/フリーター.md "wikilink")の3人組が[ファミリーレストラン](../Page/ファミリーレストラン.md "wikilink")・サニーデイ（実写版では[ビッグボーイ](../Page/ビッグボーイ_\(レストラン\).md "wikilink")）にてダラダラと緩い会話を繰り広げる深夜の日常を描いた「だけ」の内容。毎週4ページの1話完結。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にオリジナル[DVD](../Page/DVD.md "wikilink")として実写シリーズ化。『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』『[ココリコミラクルタイプ](../Page/ココリコミラクルタイプ.md "wikilink")』などを手がけた[構成作家](https://ja.wikipedia.org/wiki/構成作家 "wikilink")・[福田雄一](https://ja.wikipedia.org/wiki/福田雄一 "wikilink")が監督・脚本を務めた。2005年[5月16日](../Page/5月16日.md "wikilink")発売の『スピリッツ』本誌内で実写化を告知した（その回の内容は実写化のキャスティングにまつわるエピソード）。
+[2005年](../Page/2005年.md "wikilink")にオリジナル[DVD](../Page/DVD.md "wikilink")として実写シリーズ化。『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』『[ココリコミラクルタイプ](../Page/ココリコミラクルタイプ.md "wikilink")』などを手がけた[構成作家](https://ja.wikipedia.org/wiki/構成作家 "wikilink")・[福田雄一](https://ja.wikipedia.org/wiki/福田雄一 "wikilink")が監督・脚本を務めた。2005年[5月16日](../Page/5月16日.md "wikilink")発売の『スピリッツ』本誌内で実写化を告知した（その回の内容は実写化のキャスティングにまつわるエピソード）。
 
-また[2006年](../Page/2006年.md "wikilink")には、作品の一部分が『他人を見下す若者たち』（[速水敏彦](https://ja.wikipedia.org/wiki/速水敏彦 "wikilink")著・[講談社現代新書](https://ja.wikipedia.org/wiki/講談社現代新書 "wikilink")）の帯に使用された。
+また[2006年](../Page/2006年.md "wikilink")には、作品の一部分が『他人を見下す若者たち』（[速水敏彦](https://ja.wikipedia.org/wiki/速水敏彦 "wikilink")著・[講談社現代新書](../Page/講談社現代新書.md "wikilink")）の帯に使用された。
 
 当作品と同様のコンセプトの作品としてファミレスで4人の主婦が会話を繰り広げるだけの『**La 4名様**』がある（この作品は『ファミレス以外\! 石原まこちん短編集』に収録されている）。
 
@@ -47,7 +47,7 @@
 
 ## コラボ
 
-『[キン肉マン](../Page/キン肉マン.md "wikilink")』とのコラボとして『**[THE超人様](https://ja.wikipedia.org/wiki/THE超人様 "wikilink")**』が『[週プレNews](https://ja.wikipedia.org/wiki/週刊プレイボーイ "wikilink")』内で連載。
+『[キン肉マン](../Page/キン肉マン.md "wikilink")』とのコラボとして『**[THE超人様](https://ja.wikipedia.org/wiki/THE超人様 "wikilink")**』が『[週プレNews](../Page/週刊プレイボーイ.md "wikilink")』内で連載。
 
 ## 単行本
 
@@ -61,7 +61,7 @@
   - 第2集（2001年6月）
   - 第3集「和風おろしハンバーグの章」（[2004年](../Page/2004年.md "wikilink")7月）
   - 第4集「激辛スパイシーポテトの章」（2004年11月）
-  - 第5集「シェフの気まぐれピッツァの章」（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月）
+  - 第5集「シェフの気まぐれピッツァの章」（[2005年](../Page/2005年.md "wikilink")4月）
   - 第6集「豆ぬきフルーツみつ豆の章」（2005年9月）
   - 第7集「トロピカルきのこカレーの章」（[2006年](../Page/2006年.md "wikilink")1月）
   - 第8集「ベジタブル野菜サラダの章」（2006年6月）

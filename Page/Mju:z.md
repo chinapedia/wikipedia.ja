@@ -1,20 +1,20 @@
 > この記事は[Mju:z](https://ja.wikipedia.org/wiki/Mju:z)から翻訳されています。
 
 
-**Mju:z**（ミューズ）は、主に[美少女ゲーム](https://ja.wikipedia.org/wiki/美少女ゲーム "wikilink")で使用される[デモや](https://ja.wikipedia.org/wiki/デモンストレーション "wikilink")[オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")・[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")など、各種[ムービー](https://ja.wikipedia.org/wiki/ムービー "wikilink")を手掛ける[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の制作集団およびブランド\[1\]。
+**Mju:z**（ミューズ）は、主に[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")で使用される[デモや](https://ja.wikipedia.org/wiki/デモンストレーション "wikilink")[オープニング](https://ja.wikipedia.org/wiki/オープニング "wikilink")・[エンディング](https://ja.wikipedia.org/wiki/エンディング "wikilink")など、各種[ムービー](../Page/ムービー.md "wikilink")を手掛ける[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の制作集団およびブランド\[1\]。
 
-ブランド名は[ギリシア神話](../Page/ギリシア神話.md "wikilink")に登場する、文芸を司る女神・[ミューズを諷示しており](../Page/ムーサ.md "wikilink")、「Motion Graphic Joyful United Zone」の略称をも兼ねている\[2\]。ブランド内のチーフを務める神月社を中心に、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[9月](../Page/9月.md "wikilink")より活動を開始させた\[3\]。
+ブランド名は[ギリシア神話](../Page/ギリシア神話.md "wikilink")に登場する、文芸を司る女神・[ミューズを諷示しており](../Page/ムーサ.md "wikilink")、「Motion Graphic Joyful United Zone」の略称をも兼ねている\[2\]。ブランド内のチーフを務める神月社を中心に、[2006年](../Page/2006年.md "wikilink")[9月](../Page/9月.md "wikilink")より活動を開始させた\[3\]。
 
 ## スタッフ
 
 ### チーフデザイナー
 
-  - 神月社（元[Radiant Impression Prelude所属](https://ja.wikipedia.org/wiki/Radiant_Impression_Prelude "wikilink")）
+  - 神月社（元[Radiant Impression Prelude所属](../Page/Radiant_Impression_Prelude.md "wikilink")）
 
 <!-- end list -->
 
   -
-    学生時代から趣味で[Adobe After Effectsを用いたムービー制作に親しみ](https://ja.wikipedia.org/wiki/Adobe_After_Effects "wikilink")、2001年1月に発売されたゲーム『[家族計画](../Page/家族計画_\(ゲーム\).md "wikilink")』デモムービーを手掛け\[4\]、それから[フリーランス](../Page/フリーランス.md "wikilink")での映像制作を始める\[5\]。4年間フリーランスでの活動を続けたのち\[6\]、ムービークリエイターを招集して本ブランドを立ち上げた\[7\]。フリー活動時での主な代表作に『[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")』・『[リアライズ](../Page/リアライズ.md "wikilink")』がある\[8\]。
+    学生時代から趣味で[Adobe After Effectsを用いたムービー制作に親しみ](../Page/Adobe_After_Effects.md "wikilink")、2001年1月に発売されたゲーム『[家族計画](../Page/家族計画_\(ゲーム\).md "wikilink")』デモムービーを手掛け\[4\]、それから[フリーランス](../Page/フリーランス.md "wikilink")での映像制作を始める\[5\]。4年間フリーランスでの活動を続けたのち\[6\]、ムービークリエイターを招集して本ブランドを立ち上げた\[7\]。フリー活動時での主な代表作に『[BALDR FORCE](../Page/BALDR_FORCE.md "wikilink")』・『[リアライズ](../Page/リアライズ.md "wikilink")』がある\[8\]。
 
 ### デザイナー
 
@@ -192,8 +192,8 @@
   - 綾瀬家のオンナ
   - [あるぺじお 〜きみいろのメロディ〜](../Page/あるぺじお_〜きみいろのメロディ〜.md "wikilink")
   - [いつか、届く、あの空に。](../Page/いつか、届く、あの空に。.md "wikilink")
-  - [いな☆こい\!ファンディスク](https://ja.wikipedia.org/wiki/いな☆こい!_〜お稲荷さまとモテモテのたたり〜 "wikilink")
-  - [うつりぎ七恋天気あめ](https://ja.wikipedia.org/wiki/うつりぎ七恋天気あめ "wikilink")
+  - [いな☆こい\!ファンディスク](../Page/いな☆こい!_〜お稲荷さまとモテモテのたたり〜.md "wikilink")
+  - [うつりぎ七恋天気あめ](../Page/うつりぎ七恋天気あめ.md "wikilink")
   - [幼なじみと甘〜くエッチに過ごす方法](../Page/幼なじみと甘〜くエッチに過ごす方法.md "wikilink")
   - [鬼畜眼鏡](../Page/鬼畜眼鏡.md "wikilink")
   - 傷モノの学園III －heaven's door－
@@ -217,7 +217,7 @@
   - でるた\!
   - 飛ぶ山羊はさかさまの木の夢を見るか
   - [冬音-Tone-](https://ja.wikipedia.org/wiki/冬音-Tone- "wikilink")
-  - [ナツメグ](https://ja.wikipedia.org/wiki/ナツメグ_\(ゲーム\) "wikilink")
+  - [ナツメグ](../Page/ナツメグ_\(ゲーム\).md "wikilink")
   - [夏めろ](../Page/夏めろ.md "wikilink")
   - [HoneyComing](../Page/HoneyComing.md "wikilink")
   - [フォセット - Cafe au Le Ciel Bleu -](../Page/フォセット_-_Cafe_au_Le_Ciel_Bleu_-.md "wikilink")

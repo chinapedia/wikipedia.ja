@@ -5,14 +5,14 @@
 
 ## 解説
 
-  - 自身最大のヒット曲となった「[CAN YOU CELEBRATE?](https://ja.wikipedia.org/wiki/CAN_YOU_CELEBRATE? "wikilink")」に続くシングル。
+  - 自身最大のヒット曲となった「[CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")」に続くシングル。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
-  - 2年連続で前年に引き続き（曲は「[You're my sunshine](../Page/You're_my_sunshine.md "wikilink")」）、自身が当時イメージキャラクターに選ばれ出演した[ブリストル・マイヤーズ スクイブ](../Page/ブリストル・マイヤーズ_スクイブ.md "wikilink")（現・[エフティ資生堂](https://ja.wikipedia.org/wiki/エフティ資生堂 "wikilink")）「[シーブリーズ](../Page/シーブリーズ.md "wikilink") '97」CFイメージソング。
+  - 2年連続で前年に引き続き（曲は「[You're my sunshine](../Page/You're_my_sunshine.md "wikilink")」）、自身が当時イメージキャラクターに選ばれ出演した[ブリストル・マイヤーズ スクイブ](../Page/ブリストル・マイヤーズ_スクイブ.md "wikilink")（現・[エフティ資生堂](../Page/エフティ資生堂.md "wikilink")）「[シーブリーズ](../Page/シーブリーズ.md "wikilink") '97」CFイメージソング。
   - コンセプトは「ロックだけど踊れる曲」を志向した\[1\]。
   - [MARCと小室の共作詞](../Page/マーク・パンサー.md "wikilink")。MARCがベーシックとなる歌詞を先に作り、小室が楽曲制作と同時進行で仕上げていった\[2\]。
   - 歌入れは2日間かけてじっくり行われた\[3\]。
   - お馴染みの元・[dosの](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink")[KABAが手掛けた振付も話題になった](../Page/KABA.ちゃん.md "wikilink")。
-  - [地下鉄](../Page/地下鉄.md "wikilink")を舞台にしたファッションショー仕立ての[PVも話題になった](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")。PVで安室は5変化を魅せている。撮影場所は全て[新富町駅](https://ja.wikipedia.org/wiki/新富町駅 "wikilink")で日曜日の終電前に撮影許可なしで挑んだ。使用したセットも事前に1日で制作した\[4\]。
+  - [地下鉄](../Page/地下鉄.md "wikilink")を舞台にしたファッションショー仕立ての[PVも話題になった](../Page/ミュージック・ビデオ.md "wikilink")。PVで安室は5変化を魅せている。撮影場所は全て[新富町駅](https://ja.wikipedia.org/wiki/新富町駅 "wikilink")で日曜日の終電前に撮影許可なしで挑んだ。使用したセットも事前に1日で制作した\[4\]。
   - 累計出荷枚数は110万枚\[5\]。
 
 ## 主な記録
@@ -20,7 +20,7 @@
   - [HEY\!HEY\!HEY\!MUSIC CHAMPパーフェクトランキング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")・3 YEARS BEST 100（95・96・97）74位。
   - 1997オリコン年間シングルチャート23位。
   - 1997オリコン年間アーティストセールス4位。
-  - この曲を以って[オリコンでのシングル売り上げが](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1000万枚を突破した。デビューからの2年1ヶ月での1000万枚達成は、[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の2年7ヶ月をしのぐ、史上最速での達成である（現在も最速記録保持）。
+  - この曲を以って[オリコンでのシングル売り上げが](../Page/オリコンチャート.md "wikilink")1000万枚を突破した。デビューからの2年1ヶ月での1000万枚達成は、[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の2年7ヶ月をしのぐ、史上最速での達成である（現在も最速記録保持）。
 
 ## 収録曲
 
@@ -36,7 +36,7 @@
 
 <!-- end list -->
 
-  - オリジナル『**[Concentration 20](https://ja.wikipedia.org/wiki/Concentration_20 "wikilink")**』
+  - オリジナル『**[Concentration 20](../Page/Concentration_20.md "wikilink")**』
   - ベスト『**[181920](https://ja.wikipedia.org/wiki/181920 "wikilink")**』（『**181920 & films**』も同様）
   - ライヴ『**[namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜](https://ja.wikipedia.org/wiki/namie_amuro_5_Major_Domes_Tour_2012_〜20th_Anniversary_Best〜 "wikilink")**』
   - ベスト『**[Finally](https://ja.wikipedia.org/wiki/Finally_\(安室奈美恵のアルバム\) "wikilink")**』（Disc-1）
@@ -66,5 +66,5 @@
 1.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1997年6月5日号16Pより。
 2.
 3.
-4.  [日経BP](https://ja.wikipedia.org/wiki/日経BP "wikilink")刊『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1998年1月号57Pより。
+4.  [日経BP](../Page/日経BP.md "wikilink")刊『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1998年1月号57Pより。
 5.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

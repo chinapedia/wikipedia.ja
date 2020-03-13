@@ -11,16 +11,16 @@
 
 [石田純一](../Page/石田純一.md "wikilink")が無名・下積みだった頃の出演作である。
 
-出演者の[藤岡琢也](https://ja.wikipedia.org/wiki/藤岡琢也 "wikilink")と[宮内洋](../Page/宮内洋.md "wikilink")は本作で刑事役で登場するが、ほぼ同様の役柄で同枠の『[通り魔連続殺人 襲われた団地妻](https://ja.wikipedia.org/wiki/通り魔連続殺人_襲われた団地妻 "wikilink")』（監督：[野村孝](https://ja.wikipedia.org/wiki/野村孝 "wikilink")、主演：[水沢アキ](../Page/水沢アキ.md "wikilink")）にも出演している。
+出演者の[藤岡琢也](../Page/藤岡琢也.md "wikilink")と[宮内洋](../Page/宮内洋.md "wikilink")は本作で刑事役で登場するが、ほぼ同様の役柄で同枠の『[通り魔連続殺人 襲われた団地妻](https://ja.wikipedia.org/wiki/通り魔連続殺人_襲われた団地妻 "wikilink")』（監督：[野村孝](https://ja.wikipedia.org/wiki/野村孝 "wikilink")、主演：[水沢アキ](../Page/水沢アキ.md "wikilink")）にも出演している。
 
-[フィルム作品](https://ja.wikipedia.org/wiki/テレビ映画 "wikilink")。青山の自室にある、揺れる[ロッキングチェア](https://ja.wikipedia.org/wiki/ロッキングチェア "wikilink")が、この変質者の歪んだ精神状態を象徴する道具として効果的に使用されていた。また青山は自前の[アイスピック](https://ja.wikipedia.org/wiki/アイスピック "wikilink")を犯罪凶器として常時使用。暗い自室にて壁に貼られたかつての婚約者・道代の写真を狂気の形相で傷付けていた。
+[フィルム作品](../Page/テレビ映画.md "wikilink")。青山の自室にある、揺れる[ロッキングチェア](https://ja.wikipedia.org/wiki/ロッキングチェア "wikilink")が、この変質者の歪んだ精神状態を象徴する道具として効果的に使用されていた。また青山は自前の[アイスピック](https://ja.wikipedia.org/wiki/アイスピック "wikilink")を犯罪凶器として常時使用。暗い自室にて壁に貼られたかつての婚約者・道代の写真を狂気の形相で傷付けていた。
 
 ## キャスト
 
   - 大沢紀子：[吉沢京子](../Page/吉沢京子.md "wikilink")
   - 大沢（紀子の夫）：[新克利](../Page/新克利.md "wikilink")
   - 青山：[石田純一](../Page/石田純一.md "wikilink")
-  - 刑事：[藤岡琢也](https://ja.wikipedia.org/wiki/藤岡琢也 "wikilink")
+  - 刑事：[藤岡琢也](../Page/藤岡琢也.md "wikilink")
   - 刑事：[宮内洋](../Page/宮内洋.md "wikilink")
   - [星正人](../Page/星正人.md "wikilink")
   - [宮下順子](../Page/宮下順子.md "wikilink")
@@ -38,7 +38,7 @@
   - 原案：村尾昭
   - 音楽：[鏑木創](../Page/鏑木創.md "wikilink")
   - 音響効果：東宝効果集団
-  - 現像：[東京現像所](https://ja.wikipedia.org/wiki/東京現像所 "wikilink")
+  - 現像：[東京現像所](../Page/東京現像所.md "wikilink")
   - プロデュース：稲垣健司、浅香真哉、西川善男、斎藤進
   - 製作：テレビ朝日、[東宝映像](https://ja.wikipedia.org/wiki/東宝映像 "wikilink")
 

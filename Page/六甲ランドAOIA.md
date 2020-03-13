@@ -1,7 +1,7 @@
 > この記事は[AOIA](https://ja.wikipedia.org/wiki/AOIA)から翻訳されています。
 
 
-**六甲ランドAOIA**（ろっこうランドアオイア）は、かつて[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[東灘区](../Page/東灘区.md "wikilink")にあった[レジャー施設](https://ja.wikipedia.org/wiki/レジャー施設 "wikilink")である。[セゾングループ](../Page/セゾングループ.md "wikilink")の六甲環境計画（現在は解散。[西洋環境開発](https://ja.wikipedia.org/wiki/西洋環境開発 "wikilink")の子会社）が経営していた。
+**六甲ランドAOIA**（ろっこうランドアオイア）は、かつて[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[東灘区](../Page/東灘区.md "wikilink")にあった[レジャー施設](https://ja.wikipedia.org/wiki/レジャー施設 "wikilink")である。[セゾングループ](../Page/セゾングループ.md "wikilink")の六甲環境計画（現在は解散。[西洋環境開発](../Page/西洋環境開発.md "wikilink")の子会社）が経営していた。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 5,000円という高額の入場料ながらも、年間およそ200万人の人出で賑わう関西を代表する人気プールだったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")の[阪神・淡路大震災](../Page/阪神・淡路大震災.md "wikilink")で壊滅的被害を受ける。復興には莫大な費用を要することが判明したため営業再開を断念、被害を受けたそのままの姿で放置されたまま閉鎖された。
 
-閉鎖後、イルミネーション機能を搭載した[観覧車](https://ja.wikipedia.org/wiki/観覧車 "wikilink")「ワンダーホイール」は同じ神戸市の[モザイクガーデン](https://ja.wikipedia.org/wiki/モザイクガーデン "wikilink")に移設された。[2002年](../Page/2002年.md "wikilink")、跡地の西半分に[神戸国際大学](../Page/神戸国際大学.md "wikilink")が[垂水区](../Page/垂水区.md "wikilink")から移転。立体駐車場はそのまま放置されていたが、現在は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")に北側にオープンしたレジャープールデカパトスの駐車場としても利用されている。
+閉鎖後、イルミネーション機能を搭載した[観覧車](../Page/観覧車.md "wikilink")「ワンダーホイール」は同じ神戸市の[モザイクガーデン](../Page/モザイクガーデン.md "wikilink")に移設された。[2002年](../Page/2002年.md "wikilink")、跡地の西半分に[神戸国際大学](../Page/神戸国際大学.md "wikilink")が[垂水区](../Page/垂水区.md "wikilink")から移転。立体駐車場はそのまま放置されていたが、現在は[2005年](../Page/2005年.md "wikilink")に北側にオープンしたレジャープールデカパトスの駐車場としても利用されている。
 
 ## 外部リンク
 

@@ -1,7 +1,7 @@
 > この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
 
 
-**土曜ワイド 吉田照美のハッピーTOKYO**（どようワイド よしだてるみのハッピートーキョー）とは、[1988年](../Page/1988年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")から[1991年](../Page/1991年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")にかけて、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink")に[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")されていた[ワイド番組](https://ja.wikipedia.org/wiki/ワイド番組 "wikilink")。
+**土曜ワイド 吉田照美のハッピーTOKYO**（どようワイド よしだてるみのハッピートーキョー）とは、[1988年](../Page/1988年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")にかけて、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink")に[生放送](../Page/生放送.md "wikilink")されていた[ワイド番組](../Page/ワイド番組.md "wikilink")。
 
 ## 概要
 
@@ -9,14 +9,14 @@ TBSラジオ土曜の生ワイド『[土曜ワイドラジオTOKYO](https://ja.w
 
 ## 出演者
 
-  - [吉田照美](https://ja.wikipedia.org/wiki/吉田照美 "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")）
+  - [吉田照美](../Page/吉田照美.md "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")、[パーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")）
   - [毒蝮三太夫](../Page/毒蝮三太夫.md "wikilink")（1988年4月 - 1989年3月）
   - [井森美幸](https://ja.wikipedia.org/wiki/井森美幸 "wikilink")（1988年4月 - 1988年9月）
   - [渡瀬マキ](https://ja.wikipedia.org/wiki/渡瀬マキ "wikilink")（1988年10月 - 1989年9月、在任当時は[LINDBERG](../Page/LINDBERG.md "wikilink")が結成前後の時期だが、この番組では本名の「渡瀬麻紀」名義で出演していた。）
-  - [小林千絵](https://ja.wikipedia.org/wiki/小林千絵 "wikilink")（1989年10月 - 終了まで）
-  - [小林豊](https://ja.wikipedia.org/wiki/小林豊_\(アナウンサー\) "wikilink")（時期不詳 - 終了まで）
+  - [小林千絵](../Page/小林千絵.md "wikilink")（1989年10月 - 終了まで）
+  - [小林豊](../Page/小林豊_\(アナウンサー\).md "wikilink")（時期不詳 - 終了まで）
   - [笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")
-  - [今村稔](https://ja.wikipedia.org/wiki/今村稔 "wikilink")（ニュースデスク。　- 1989年3月）
+  - [今村稔](../Page/今村稔.md "wikilink")（ニュースデスク。　- 1989年3月）
   - [土屋統督](../Page/土屋統督.md "wikilink")（ニュースデスク。1989年4月-6月）
   - [中村欣資](https://ja.wikipedia.org/wiki/中村欣資 "wikilink")（ニュースデスク。1989年7月 -12月）
   - [樂衛](https://ja.wikipedia.org/wiki/樂衛 "wikilink")（ニュースデスク。1989年12月-1990年6月）
@@ -24,7 +24,7 @@ TBSラジオ土曜の生ワイド『[土曜ワイドラジオTOKYO](https://ja.w
 
 ## 放送時間
 
-  - 9:00 - 14:00（1988年4月16日 - [1989年](../Page/1989年.md "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")）
+  - 9:00 - 14:00（1988年4月16日 - [1989年](../Page/1989年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")）
   - 8:30 - 14:00（1989年[4月15日](../Page/4月15日.md "wikilink") - 1991年4月6日）
 
 ## 番組内コーナー
@@ -43,7 +43,7 @@ TBSラジオ土曜の生ワイド『[土曜ワイドラジオTOKYO](https://ja.w
   - **10時台**
       - まむしの結婚バンザイ\!（1988年4月 - 1989年3月）
       - それいけ東京ウルトラ大作戦（1989年3月 - 終了まで）
-      - [小林豊の東京生中継](https://ja.wikipedia.org/wiki/小林豊_\(アナウンサー\) "wikilink")
+      - [小林豊の東京生中継](../Page/小林豊_\(アナウンサー\).md "wikilink")
       - てるみと遊ぼうピッポッパ
       - 交通情報
       - 照美と白ヤギさん倶楽部（1989年10月 - 終了まで）

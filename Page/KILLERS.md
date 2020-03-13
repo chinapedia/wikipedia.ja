@@ -5,9 +5,9 @@
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[8月16日](../Page/8月16日.md "wikilink")、[大阪城ホール](../Page/大阪城ホール.md "wikilink")にて行われたイベント『きらきらアフロ IN 大阪城ホール』での出演が初御披露目となる。このイベントで、[レッド・ホット・チリ・ペッパーズ](https://ja.wikipedia.org/wiki/レッド・ホット・チリ・ペッパーズ "wikilink")の「バイ・ザ・ウェイ」などを[カバーした](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")。その後、[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[東京理科大学](../Page/東京理科大学.md "wikilink")の学園祭にてシークレットライブを行い、「TROUBLE QUEEN」「アタシの掘った穴に落ちろ\!」の2曲を初披露。[11月29日](../Page/11月29日.md "wikilink")にデビュー[シングル](../Page/シングル.md "wikilink")「TROUBLE QUEEN」を発売し、12月11日付[オリコンシングルチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初登場11位となった。[12月25日](../Page/12月25日.md "wikilink")には[下北沢](../Page/下北沢.md "wikilink")のCLUB251にて「きらきらアフロ Presents KILLERS X'mas シークレットライブ」にて6曲演奏し、[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に行われる[武道館ライブを最後に解散することを発表した](../Page/日本武道館.md "wikilink")。
+[2006年](../Page/2006年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")、[大阪城ホール](../Page/大阪城ホール.md "wikilink")にて行われたイベント『きらきらアフロ IN 大阪城ホール』での出演が初御披露目となる。このイベントで、[レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")の「バイ・ザ・ウェイ」などを[カバーした](https://ja.wikipedia.org/wiki/カバー#カバー（楽曲） "wikilink")。その後、[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")に[東京理科大学](../Page/東京理科大学.md "wikilink")の学園祭にてシークレットライブを行い、「TROUBLE QUEEN」「アタシの掘った穴に落ちろ\!」の2曲を初披露。[11月29日](../Page/11月29日.md "wikilink")にデビュー[シングル](../Page/シングル.md "wikilink")「TROUBLE QUEEN」を発売し、12月11日付[オリコンシングルチャートで](../Page/オリコンチャート.md "wikilink")、初登場11位となった。[12月25日](../Page/12月25日.md "wikilink")には[下北沢](../Page/下北沢.md "wikilink")のCLUB251にて「きらきらアフロ Presents KILLERS X'mas シークレットライブ」にて6曲演奏し、[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")に行われる[武道館ライブを最後に解散することを発表した](../Page/日本武道館.md "wikilink")。
 
-2007年[2月10日](../Page/2月10日.md "wikilink")、[大阪](../Page/大阪.md "wikilink")[アメリカ村](https://ja.wikipedia.org/wiki/アメリカ村 "wikilink")の[BIG CATにてライブを決行](https://ja.wikipedia.org/wiki/BIG_CAT "wikilink")。[2月28日](../Page/2月28日.md "wikilink")にセカンドシングル「JAPANESE GIRL」を発売。3月27日のイベント『きらきらアフロ in 武道館』の出演をもって解散した。
+2007年[2月10日](../Page/2月10日.md "wikilink")、[大阪](../Page/大阪.md "wikilink")[アメリカ村](../Page/アメリカ村.md "wikilink")の[BIG CATにてライブを決行](https://ja.wikipedia.org/wiki/BIG_CAT "wikilink")。[2月28日](../Page/2月28日.md "wikilink")にセカンドシングル「JAPANESE GIRL」を発売。3月27日のイベント『きらきらアフロ in 武道館』の出演をもって解散した。
 
 ## メンバー
 
@@ -25,7 +25,7 @@
 <!-- end list -->
 
   -
-    ギター担当。[埼玉県](https://ja.wikipedia.org/wiki/埼玉県 "wikilink")出身。元[media youthのベーシストで](https://ja.wikipedia.org/wiki/media_youth "wikilink")、本来は廣嶋というバンドで活躍中。また、[HYDE BANDのベーシスト及び](https://ja.wikipedia.org/wiki/Hyde "wikilink")[PENICILLIN](../Page/PENICILLIN.md "wikilink")のサポートメンバーのベースとして参加している。
+    ギター担当。[埼玉県](../Page/埼玉県.md "wikilink")出身。元[media youthのベーシストで](https://ja.wikipedia.org/wiki/media_youth "wikilink")、本来は廣嶋というバンドで活躍中。また、[HYDE BANDのベーシスト及び](https://ja.wikipedia.org/wiki/Hyde "wikilink")[PENICILLIN](../Page/PENICILLIN.md "wikilink")のサポートメンバーのベースとして参加している。
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@
 <!-- end list -->
 
   -
-    ギター担当。[福井県](../Page/福井県.md "wikilink")出身\[1\]。所属当時は39歳\[2\]。本業は[精神科医](https://ja.wikipedia.org/wiki/精神科医 "wikilink")の受付\[3\]。元々松嶋の友人で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")8月の大阪城ホールのライブの際に松嶋に頼まれ、メンバーを集めさせられた。また人見知りする松嶋の為に急遽メンバーに加入して同年4月からギターを始めた。
+    ギター担当。[福井県](../Page/福井県.md "wikilink")出身\[1\]。所属当時は39歳\[2\]。本業は[精神科医](../Page/精神科医.md "wikilink")の受付\[3\]。元々松嶋の友人で、[2006年](../Page/2006年.md "wikilink")8月の大阪城ホールのライブの際に松嶋に頼まれ、メンバーを集めさせられた。また人見知りする松嶋の為に急遽メンバーに加入して同年4月からギターを始めた。
 
 <!-- end list -->
 
@@ -65,8 +65,8 @@
 
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - [うたばん](../Page/うたばん.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")）
-  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
 
 ## 脚注
 

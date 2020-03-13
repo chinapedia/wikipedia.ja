@@ -1,9 +1,9 @@
 > この記事は[ONE PIECE ](https://ja.wikipedia.org/wiki/ONE_PIECE_)から翻訳されています。
 
 
-『**ONE PIECE 呪われた聖剣**』（ワンピース のろわれたせいけん）は、[2004年](../Page/2004年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/ONE_PIECE_\(アニメ\) "wikilink")5作目。
+『**ONE PIECE 呪われた聖剣**』（ワンピース のろわれたせいけん）は、[2004年](../Page/2004年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](../Page/ONE_PIECE_\(アニメ\).md "wikilink")5作目。
 
-麦わらの一味の一員、[ロロノア・ゾロ](https://ja.wikipedia.org/wiki/ロロノア・ゾロ "wikilink")をメインとしたストーリー。監督は『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール#アニメ "wikilink")』シリーズ等の演出をしていた[竹之内和久](https://ja.wikipedia.org/wiki/竹之内和久 "wikilink")。麦わらの一味と魚人海賊団が野球で勝負をするショート映画「**めざせ\!海賊野球王**」が同時上映。
+麦わらの一味の一員、[ロロノア・ゾロ](../Page/ロロノア・ゾロ.md "wikilink")をメインとしたストーリー。監督は『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール#アニメ "wikilink")』シリーズ等の演出をしていた[竹之内和久](https://ja.wikipedia.org/wiki/竹之内和久 "wikilink")。麦わらの一味と魚人海賊団が野球で勝負をするショート映画「**めざせ\!海賊野球王**」が同時上映。
 
 映像ソフトは[DVD](../Page/DVD.md "wikilink")が2004年7月21日発売。『ONE PIECE』映画化10作を記念して[Blu-ray Disc版が](../Page/Blu-ray_Disc.md "wikilink")2009年12月11日発売。
 
@@ -15,20 +15,20 @@
 
 ### 麦わらの一味
 
-  - [モンキー・D・ルフィ](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink")
+  - [モンキー・D・ルフィ](../Page/モンキー・D・ルフィ.md "wikilink")
     声 - [田中真弓](../Page/田中真弓.md "wikilink")
-  - [ロロノア・ゾロ](https://ja.wikipedia.org/wiki/ロロノア・ゾロ "wikilink")
-    声 - [中井和哉](https://ja.wikipedia.org/wiki/中井和哉 "wikilink")、[浦和めぐみ](https://ja.wikipedia.org/wiki/浦和めぐみ "wikilink")（幼少期）
-  - [ナミ](https://ja.wikipedia.org/wiki/ナミ_\(ONE_PIECE\) "wikilink")
-    声 - [岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")
-  - [ウソップ](https://ja.wikipedia.org/wiki/ウソップ "wikilink")
+  - [ロロノア・ゾロ](../Page/ロロノア・ゾロ.md "wikilink")
+    声 - [中井和哉](../Page/中井和哉.md "wikilink")、[浦和めぐみ](../Page/浦和めぐみ.md "wikilink")（幼少期）
+  - [ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink")
+    声 - [岡村明美](../Page/岡村明美.md "wikilink")
+  - [ウソップ](../Page/ウソップ.md "wikilink")
     声 - [山口勝平](../Page/山口勝平.md "wikilink")
   - [サンジ](../Page/サンジ.md "wikilink")
     声 - [平田広明](../Page/平田広明.md "wikilink")
   - [トニートニー・チョッパー](https://ja.wikipedia.org/wiki/トニートニー・チョッパー "wikilink")
     声 - [大谷育江](../Page/大谷育江.md "wikilink")
-  - [ニコ・ロビン](https://ja.wikipedia.org/wiki/ニコ・ロビン "wikilink")
-    声 - [山口由里子](https://ja.wikipedia.org/wiki/山口由里子 "wikilink")
+  - [ニコ・ロビン](../Page/ニコ・ロビン.md "wikilink")
+    声 - [山口由里子](../Page/山口由里子.md "wikilink")
 
 ### オリジナルキャラクター
 
@@ -50,11 +50,11 @@
       - 妖蛇・牙襲斬（ようじゃ・がしゅうざん）
         七星剣から蛇のような炎を放ち、血を吸わせる。
   - トウマ
-    声 - [内博貴](https://ja.wikipedia.org/wiki/内博貴 "wikilink")（[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")）（特別出演）
+    声 - [内博貴](../Page/内博貴.md "wikilink")（[NEWS](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")）（特別出演）
     海軍道場高弟。サガの三高弟の一人。居合抜きを得意とする「光速の剣士」。
     師であるサガを尊敬している。三高弟で唯一正気を保ち続けていられたが、中盤でとうとう七聖剣の妖力に操られてしまった。「貪狼」の搭のナミとチョッパーを襲撃するが、最後はチョッパーの「刻蹄・桜」を食らって吹き飛ばされた。
   - ビスマルク
-    声 - [佐々木誠二](https://ja.wikipedia.org/wiki/佐々木誠二 "wikilink")
+    声 - [佐々木誠二](../Page/佐々木誠二.md "wikilink")
     海軍道場高弟。サガの三高弟の一人。全身に鎧を纏っている「鋼鉄の騎士」。
     ゾロやブーコングと共に村を襲い、マヤから宝玉を奪う。「巨門」の搭でサンジとラコスを迎え撃つが、最後はサンジに唯一鎧を纏っていない頭部と顔面を攻撃され倒された。
   - ブーコング
@@ -65,7 +65,7 @@
 #### アスカ島
 
   - マヤ
-    声 - [柚木涼香](https://ja.wikipedia.org/wiki/柚木涼香 "wikilink")
+    声 - [柚木涼香](../Page/柚木涼香.md "wikilink")
     アスカ島に住む心優しい美少女。
     先祖代々の巫女の家系であり、一族の中でも卓越した祈りの力を持つ。サガとは恋仲であり、サガが七星剣を取り変貌してしまったのは自分のせいと思い込んでおり、彼を救うためなら自身の命も惜しまない。ルフィが洞窟の中で見つけた宝玉を受け取り、ルフィたちと協力し儀式を行うため行動を開始する。サンジたちが納めた宝玉で儀式を行い、七星剣の破壊に成功する。七星剣が破壊されても暴走が止まらないサガのため、祈りをささげ続けた。
   - イザヤ
@@ -73,7 +73,7 @@
     マヤの祖母。
     普段は腰が曲がっているが、驚くと背筋が直り首や両腕が一瞬だけ伸びる。始めはナミたちにすぐに島から出て行くよう忠告したが、七星剣の呪いを語った。
   - ラコス
-    声 - [立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")
+    声 - [立木文彦](../Page/立木文彦.md "wikilink")
     アスカ島の住民。
     島の男達のまとめ役であり、村を守るために先陣を切って戦う勇気ある男。マヤを慕っている。村を襲ったブーコングに倒されたが、その後サンジと手を組み、「巨門」の搭へ向かい宝玉を納めた。
 
@@ -92,7 +92,7 @@
   - 音楽 - [田中公平](../Page/田中公平.md "wikilink")、[浜口史郎](https://ja.wikipedia.org/wiki/浜口史郎 "wikilink")
   - 編集 - 福光伸一
   - 録音 - 市川修
-  - 効果 - [鷲尾健太郎](https://ja.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")
+  - 効果 - [鷲尾健太郎](../Page/フィズサウンドクリエイション.md "wikilink")
   - 色彩設計 - 塚田劭
   - デジタル撮影監督 - 石井吉忠
   - CG監督 - 吉安徹
@@ -104,13 +104,13 @@
 ## 主題歌
 
   - 「あの場所へ」
-    作詞 - 松風友也・内田浩之 / 作曲 - 松風友也 / 編曲 - [明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink") / 歌 - [晴晴゛](../Page/晴晴゛.md "wikilink")
+    作詞 - 松風友也・内田浩之 / 作曲 - 松風友也 / 編曲 - [明石昌夫](../Page/明石昌夫.md "wikilink") / 歌 - [晴晴゛](../Page/晴晴゛.md "wikilink")
 
 ## めざせ\!海賊野球王
 
 同時上映のショート映画。麦わらの一味と魚人海族団が野球勝負をする内容で、同時期に発売されたGBA用ゲームソフト『ONE PIECE ゴーイングベースボール』が原案となっている。
 
-実況・解説はバギー（声:[千葉繁](https://ja.wikipedia.org/wiki/千葉繁 "wikilink")）とMr.2・ボン・クレー（声：[矢尾一樹](https://ja.wikipedia.org/wiki/矢尾一樹 "wikilink")）が担当し、声の出演もこの2人のみ。
+実況・解説はバギー（声:[千葉繁](../Page/千葉繁.md "wikilink")）とMr.2・ボン・クレー（声：[矢尾一樹](../Page/矢尾一樹.md "wikilink")）が担当し、声の出演もこの2人のみ。
 
 [ru:Список анимационных фильмов о One Piece\#Фильм пятый](https://ja.wikipedia.org/wiki/ru:Список_анимационных_фильмов_о_One_Piece#Фильм_пятый "wikilink")
 

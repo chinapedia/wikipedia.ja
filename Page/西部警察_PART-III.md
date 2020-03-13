@@ -1,7 +1,7 @@
 > この記事は[ PART-III](https://ja.wikipedia.org/wiki/_PART-III)から翻訳されています。
 
 
-『**西部警察 PART-III**』（せいぶけいさつパートスリー）は、[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作の[刑事ドラマ](https://ja.wikipedia.org/wiki/刑事ドラマ "wikilink")である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")～[1984年](../Page/1984年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で[日曜日](../Page/日曜日.md "wikilink")の20:00～20:54に放送された。なお最終回は『**[さよなら西部警察](https://ja.wikipedia.org/wiki/さよなら西部警察 "wikilink") 大門死す\!男達よ永遠に…**』と称し、10月22日の[月曜日](../Page/月曜日.md "wikilink")20:00より3時間スペシャルとして放送された。
+『**西部警察 PART-III**』（せいぶけいさつパートスリー）は、[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")である。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")～[1984年](../Page/1984年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系で[日曜日](../Page/日曜日.md "wikilink")の20:00～20:54に放送された。なお最終回は『**[さよなら西部警察](https://ja.wikipedia.org/wiki/さよなら西部警察 "wikilink") 大門死す\!男達よ永遠に…**』と称し、10月22日の[月曜日](../Page/月曜日.md "wikilink")20:00より3時間スペシャルとして放送された。
 
 ## 概要
 
@@ -17,7 +17,7 @@
 
   - [渡哲也](https://ja.wikipedia.org/wiki/渡哲也 "wikilink")
   - [三浦友和](../Page/三浦友和.md "wikilink")（第6話まで）
-  - [柴俊夫](https://ja.wikipedia.org/wiki/柴俊夫 "wikilink")（第7話から）
+  - [柴俊夫](../Page/柴俊夫.md "wikilink")（第7話から）
   - [石原良純](../Page/石原良純.md "wikilink")（第8話から）
   - [御木裕](../Page/御木裕.md "wikilink")
   - [峰竜太](../Page/峰竜太.md "wikilink")
@@ -152,7 +152,7 @@
 <td><p><strong>沖田刑事・絶唱!</strong>[2]</p></td>
 <td><p>5月15日</p></td>
 <td><p>大野武雄</p></td>
-<td><p>宮川洋一、<a href="https://ja.wikipedia.org/wiki/中庸助" title="wikilink">中庸助</a>、<a href="https://ja.wikipedia.org/wiki/姿鐵太郎" title="wikilink">姿鐵太郎</a>、<a href="https://ja.wikipedia.org/wiki/浜口竜哉" title="wikilink">浜口竜哉</a>、<a href="../Page/夏樹レナ.md" title="wikilink">夏木レナ</a>、<a href="https://ja.wikipedia.org/wiki/高橋義治_(俳優)" title="wikilink">高橋義治</a>、<a href="https://ja.wikipedia.org/wiki/浅見小四郎" title="wikilink">浅見小四郎</a>、<a href="https://ja.wikipedia.org/wiki/小池幸次" title="wikilink">小池幸次</a>、<a href="https://ja.wikipedia.org/wiki/岡沢徳久子" title="wikilink">岡沢徳久子</a>、<a href="https://ja.wikipedia.org/wiki/浅野直人" title="wikilink">浅野直人</a>、<a href="https://ja.wikipedia.org/wiki/上野忠彦" title="wikilink">上野忠彦</a>、<a href="https://ja.wikipedia.org/wiki/神谷潤" title="wikilink">神谷潤</a>、<a href="https://ja.wikipedia.org/wiki/郷内栄喜" title="wikilink">郷内栄喜</a>、<a href="https://ja.wikipedia.org/wiki/国宗篤" title="wikilink">国宗篤</a>、<a href="https://ja.wikipedia.org/wiki/五十嵐美鈴" title="wikilink">五十嵐美鈴</a>、<a href="https://ja.wikipedia.org/wiki/大熊敏志" title="wikilink">大熊敏志</a>、<a href="https://ja.wikipedia.org/wiki/北斗太郎" title="wikilink">北斗太郎</a>、中瀬博文</p></td>
+<td><p>宮川洋一、<a href="../Page/中庸助.md" title="wikilink">中庸助</a>、<a href="https://ja.wikipedia.org/wiki/姿鐵太郎" title="wikilink">姿鐵太郎</a>、<a href="https://ja.wikipedia.org/wiki/浜口竜哉" title="wikilink">浜口竜哉</a>、<a href="../Page/夏樹レナ.md" title="wikilink">夏木レナ</a>、<a href="https://ja.wikipedia.org/wiki/高橋義治_(俳優)" title="wikilink">高橋義治</a>、<a href="https://ja.wikipedia.org/wiki/浅見小四郎" title="wikilink">浅見小四郎</a>、<a href="https://ja.wikipedia.org/wiki/小池幸次" title="wikilink">小池幸次</a>、<a href="https://ja.wikipedia.org/wiki/岡沢徳久子" title="wikilink">岡沢徳久子</a>、<a href="https://ja.wikipedia.org/wiki/浅野直人" title="wikilink">浅野直人</a>、<a href="https://ja.wikipedia.org/wiki/上野忠彦" title="wikilink">上野忠彦</a>、<a href="https://ja.wikipedia.org/wiki/神谷潤" title="wikilink">神谷潤</a>、<a href="https://ja.wikipedia.org/wiki/郷内栄喜" title="wikilink">郷内栄喜</a>、<a href="https://ja.wikipedia.org/wiki/国宗篤" title="wikilink">国宗篤</a>、<a href="https://ja.wikipedia.org/wiki/五十嵐美鈴" title="wikilink">五十嵐美鈴</a>、<a href="https://ja.wikipedia.org/wiki/大熊敏志" title="wikilink">大熊敏志</a>、<a href="https://ja.wikipedia.org/wiki/北斗太郎" title="wikilink">北斗太郎</a>、中瀬博文</p></td>
 <td><p>20.1%</p></td>
 <td><p>BOX1<br />
 オキ</p></td>
@@ -188,8 +188,8 @@
 <td><p>6月12日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/永原秀一" title="wikilink">永原秀一</a></p></td>
 <td><p>小澤啓一</p></td>
-<td><p>（第9・10話共通）<a href="../Page/下條正巳.md" title="wikilink">下條正巳</a>、<a href="https://ja.wikipedia.org/wiki/田口計" title="wikilink">田口計</a>、<a href="https://ja.wikipedia.org/wiki/小林勝彦" title="wikilink">小林勝彦</a>、<a href="../Page/唐沢民賢.md" title="wikilink">唐沢民賢</a>、<a href="https://ja.wikipedia.org/wiki/岩淵智子" title="wikilink">岩淵智子</a>、<a href="https://ja.wikipedia.org/wiki/永野明彦" title="wikilink">永野明彦</a><br />
-（第9話のみ）<a href="../Page/石山雄大.md" title="wikilink">石山雄大</a>、<a href="https://ja.wikipedia.org/wiki/滝川潤" title="wikilink">滝川潤</a>、<a href="https://ja.wikipedia.org/wiki/森幹太" title="wikilink">森幹太</a>、<a href="https://ja.wikipedia.org/wiki/外山高士" title="wikilink">外山高士</a>、<a href="https://ja.wikipedia.org/wiki/田辺年秋" title="wikilink">田辺年秋</a>、<a href="https://ja.wikipedia.org/wiki/鶴岡修" title="wikilink">鶴岡修</a>、<a href="https://ja.wikipedia.org/wiki/俵一" title="wikilink">俵一</a>、<a href="https://ja.wikipedia.org/wiki/三上剛仙" title="wikilink">三上剛仙</a>、<a href="https://ja.wikipedia.org/wiki/岡田和子" title="wikilink">岡田和子</a>、<a href="https://ja.wikipedia.org/wiki/西内彰" title="wikilink">西内彰</a>、<a href="https://ja.wikipedia.org/wiki/星野晃" title="wikilink">星野晃</a><br />
+<td><p>（第9・10話共通）<a href="../Page/下條正巳.md" title="wikilink">下條正巳</a>、<a href="../Page/田口計.md" title="wikilink">田口計</a>、<a href="../Page/小林勝彦.md" title="wikilink">小林勝彦</a>、<a href="../Page/唐沢民賢.md" title="wikilink">唐沢民賢</a>、<a href="https://ja.wikipedia.org/wiki/岩淵智子" title="wikilink">岩淵智子</a>、<a href="https://ja.wikipedia.org/wiki/永野明彦" title="wikilink">永野明彦</a><br />
+（第9話のみ）<a href="../Page/石山雄大.md" title="wikilink">石山雄大</a>、<a href="https://ja.wikipedia.org/wiki/滝川潤" title="wikilink">滝川潤</a>、<a href="https://ja.wikipedia.org/wiki/森幹太" title="wikilink">森幹太</a>、<a href="../Page/外山高士.md" title="wikilink">外山高士</a>、<a href="https://ja.wikipedia.org/wiki/田辺年秋" title="wikilink">田辺年秋</a>、<a href="https://ja.wikipedia.org/wiki/鶴岡修" title="wikilink">鶴岡修</a>、<a href="https://ja.wikipedia.org/wiki/俵一" title="wikilink">俵一</a>、<a href="https://ja.wikipedia.org/wiki/三上剛仙" title="wikilink">三上剛仙</a>、<a href="https://ja.wikipedia.org/wiki/岡田和子" title="wikilink">岡田和子</a>、<a href="https://ja.wikipedia.org/wiki/西内彰" title="wikilink">西内彰</a>、<a href="https://ja.wikipedia.org/wiki/星野晃" title="wikilink">星野晃</a><br />
 （第10話のみ）<a href="https://ja.wikipedia.org/wiki/松田章生" title="wikilink">松田章生</a>、高橋正昭、石崎洋光、有馬明良</p></td>
 <td><p>17.8%</p></td>
 <td><p>BOX1</p></td>
@@ -231,7 +231,7 @@
 <td><p>7月10日</p></td>
 <td><p>新井光</p></td>
 <td><p>澤田幸弘</p></td>
-<td><p><a href="../Page/剣持伴紀.md" title="wikilink">剣持伴紀</a>、<a href="https://ja.wikipedia.org/wiki/美木良介" title="wikilink">美木良介</a>、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a>、<a href="../Page/相原巨典.md" title="wikilink">相原巨典</a></p></td>
+<td><p><a href="../Page/剣持伴紀.md" title="wikilink">剣持伴紀</a>、<a href="../Page/美木良介.md" title="wikilink">美木良介</a>、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a>、<a href="../Page/相原巨典.md" title="wikilink">相原巨典</a></p></td>
 <td><p>12.1%</p></td>
 <td><p>チョウさん</p></td>
 </tr>
@@ -252,7 +252,7 @@
 <td><p>7月24日</p></td>
 <td><p>永原秀一</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/荻原達" title="wikilink">荻原達</a></p></td>
-<td><p><a href="../Page/川合伸旺.md" title="wikilink">川合伸旺</a>、<a href="https://ja.wikipedia.org/wiki/五十嵐知子" title="wikilink">五十嵐知子</a>、<a href="../Page/片岡五郎.md" title="wikilink">片岡五郎</a>、<a href="../Page/日向明子.md" title="wikilink">日向明子</a>、<a href="https://ja.wikipedia.org/wiki/坂田金太郎" title="wikilink">坂田金太郎</a>、<a href="https://ja.wikipedia.org/wiki/市村博_(俳優)" title="wikilink">市村博</a>、<a href="https://ja.wikipedia.org/wiki/山岡八高" title="wikilink">山岡八高</a>、<a href="https://ja.wikipedia.org/wiki/田村貫" title="wikilink">田村貫</a>、<a href="https://ja.wikipedia.org/wiki/田代潤" title="wikilink">田代潤</a>、<a href="https://ja.wikipedia.org/wiki/三宅優司" title="wikilink">三宅優司</a>、<a href="https://ja.wikipedia.org/wiki/小室忠雄" title="wikilink">小室忠雄</a>、藤原益二、<a href="https://ja.wikipedia.org/wiki/山本庄助" title="wikilink">山本庄助</a></p></td>
+<td><p><a href="../Page/川合伸旺.md" title="wikilink">川合伸旺</a>、<a href="https://ja.wikipedia.org/wiki/五十嵐知子" title="wikilink">五十嵐知子</a>、<a href="../Page/片岡五郎.md" title="wikilink">片岡五郎</a>、<a href="../Page/日向明子.md" title="wikilink">日向明子</a>、<a href="https://ja.wikipedia.org/wiki/坂田金太郎" title="wikilink">坂田金太郎</a>、<a href="https://ja.wikipedia.org/wiki/市村博_(俳優)" title="wikilink">市村博</a>、<a href="../Page/山岡八高.md" title="wikilink">山岡八高</a>、<a href="https://ja.wikipedia.org/wiki/田村貫" title="wikilink">田村貫</a>、<a href="https://ja.wikipedia.org/wiki/田代潤" title="wikilink">田代潤</a>、<a href="https://ja.wikipedia.org/wiki/三宅優司" title="wikilink">三宅優司</a>、<a href="https://ja.wikipedia.org/wiki/小室忠雄" title="wikilink">小室忠雄</a>、藤原益二、<a href="https://ja.wikipedia.org/wiki/山本庄助" title="wikilink">山本庄助</a></p></td>
 <td><p>9.1%</p></td>
 <td><p>BOX1<br />
 ジュン</p></td>
@@ -351,7 +351,7 @@
 <td><p>10月23日</p></td>
 <td><p>|永原秀一<br />
 新井光</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/金内吉男" title="wikilink">金内吉男</a>、<a href="../Page/草薙幸二郎.md" title="wikilink">草薙幸二郎</a>、<a href="../Page/中田博久.md" title="wikilink">中田博久</a>、<a href="https://ja.wikipedia.org/wiki/外野村晋" title="wikilink">外野村晋</a>、庄司三郎、辰馬伸、石田和彦、有馬明良、星野晃</p></td>
+<td><p><a href="../Page/金内吉男.md" title="wikilink">金内吉男</a>、<a href="../Page/草薙幸二郎.md" title="wikilink">草薙幸二郎</a>、<a href="../Page/中田博久.md" title="wikilink">中田博久</a>、<a href="https://ja.wikipedia.org/wiki/外野村晋" title="wikilink">外野村晋</a>、庄司三郎、辰馬伸、石田和彦、有馬明良、星野晃</p></td>
 <td><p>11.4%</p></td>
 <td><p>BOX1</p></td>
 <td></td>
@@ -393,7 +393,7 @@
 <td><p>11月20日</p></td>
 <td><p>大野武雄</p></td>
 <td><p>澤田幸弘</p></td>
-<td><p><a href="../Page/石橋雅史.md" title="wikilink">石橋雅史</a>、<a href="https://ja.wikipedia.org/wiki/六浦誠" title="wikilink">六浦誠</a>、<a href="https://ja.wikipedia.org/wiki/金井大" title="wikilink">金井大</a>、<a href="https://ja.wikipedia.org/wiki/東山明美" title="wikilink">東山明美</a>、<a href="https://ja.wikipedia.org/wiki/荻原紀" title="wikilink">荻原紀</a>、関川慎二、壇喧太</p></td>
+<td><p><a href="../Page/石橋雅史.md" title="wikilink">石橋雅史</a>、<a href="https://ja.wikipedia.org/wiki/六浦誠" title="wikilink">六浦誠</a>、<a href="../Page/金井大.md" title="wikilink">金井大</a>、<a href="https://ja.wikipedia.org/wiki/東山明美" title="wikilink">東山明美</a>、<a href="https://ja.wikipedia.org/wiki/荻原紀" title="wikilink">荻原紀</a>、関川慎二、壇喧太</p></td>
 <td><p>14.3%</p></td>
 <td><p>BOX1<br />
 タイショー</p></td>
@@ -404,7 +404,7 @@
 <td><p>11月27日</p></td>
 <td><p>峯尾基三</p></td>
 <td><p>小澤啓一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森山周一郎" title="wikilink">森山周一郎</a> <a href="../Page/杉江廣太郎.md" title="wikilink">杉江廣太郎</a> <a href="https://ja.wikipedia.org/wiki/鈴木金哉" title="wikilink">鈴木欽也</a> 石山雄大、福岡正剛、田村貫、<a href="https://ja.wikipedia.org/wiki/高瀬夏子" title="wikilink">高瀬夏子</a>、倉島襄、山岡八高</p></td>
+<td><p><a href="../Page/森山周一郎.md" title="wikilink">森山周一郎</a> <a href="../Page/杉江廣太郎.md" title="wikilink">杉江廣太郎</a> <a href="https://ja.wikipedia.org/wiki/鈴木金哉" title="wikilink">鈴木欽也</a> 石山雄大、福岡正剛、田村貫、<a href="https://ja.wikipedia.org/wiki/高瀬夏子" title="wikilink">高瀬夏子</a>、倉島襄、山岡八高</p></td>
 <td><p>15.4%</p></td>
 <td><p>イッペイ(2)</p></td>
 </tr>
@@ -441,7 +441,7 @@
 <a href="../Page/小野武彦.md" title="wikilink">小野武彦</a>、<a href="https://ja.wikipedia.org/wiki/廣瀬昌亮" title="wikilink">広瀬昌助</a>、<a href="../Page/三浦リカ.md" title="wikilink">三浦リカ</a>、<a href="https://ja.wikipedia.org/wiki/稲垣昭三" title="wikilink">稲垣昭三</a>、成瀬正、<br />
 <a href="../Page/南城竜也.md" title="wikilink">南城竜也</a>、<a href="../Page/中田譲治.md" title="wikilink">中田譲治</a>、<a href="../Page/佐原健二.md" title="wikilink">佐原健二</a><br />
 （第32話のみ）片岡五郎、永野明彦、<a href="../Page/田島義文.md" title="wikilink">田島義文</a>、<a href="../Page/幸田宗丸.md" title="wikilink">幸田宗丸</a><br />
-（第33話のみ）<a href="https://ja.wikipedia.org/wiki/チェリッシュ_(歌手グループ)" title="wikilink">チェリッシュ</a>※ノンクレジット、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a></p></td>
+（第33話のみ）<a href="../Page/チェリッシュ_(歌手グループ).md" title="wikilink">チェリッシュ</a>※ノンクレジット、<a href="https://ja.wikipedia.org/wiki/入江正徳" title="wikilink">入江正徳</a></p></td>
 <td><p>11.0%</p></td>
 </tr>
 <tr class="odd">
@@ -475,7 +475,7 @@
 <td><p>1月8日</p></td>
 <td><p>永原秀一</p></td>
 <td><p>村川透</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/神山繁" title="wikilink">神山繁</a>、<a href="../Page/鹿内孝.md" title="wikilink">鹿内孝</a>、<a href="../Page/内藤剛志.md" title="wikilink">内藤剛志</a></p></td>
+<td><p><a href="../Page/神山繁.md" title="wikilink">神山繁</a>、<a href="../Page/鹿内孝.md" title="wikilink">鹿内孝</a>、<a href="../Page/内藤剛志.md" title="wikilink">内藤剛志</a></p></td>
 <td><p>12.3%</p></td>
 <td><p>BOX2</p></td>
 </tr>
@@ -506,7 +506,7 @@
 <td><p><strong>さよならに接吻を―</strong></p></td>
 <td><p>1月29日</p></td>
 <td><p>柏原寛司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/麻丘めぐみ" title="wikilink">麻丘めぐみ</a>、<a href="../Page/葉山良二.md" title="wikilink">葉山良二</a>、山西道広、<a href="https://ja.wikipedia.org/wiki/福山象三" title="wikilink">福山象三</a></p></td>
+<td><p><a href="../Page/麻丘めぐみ.md" title="wikilink">麻丘めぐみ</a>、<a href="../Page/葉山良二.md" title="wikilink">葉山良二</a>、山西道広、<a href="https://ja.wikipedia.org/wiki/福山象三" title="wikilink">福山象三</a></p></td>
 <td><p>13.2%</p></td>
 <td><p>BOX2<br />
 ハト(3)</p></td>
@@ -563,7 +563,7 @@
 <td><p>新井光<br />
 <a href="https://ja.wikipedia.org/wiki/永海秀国" title="wikilink">永海秀国</a></p></td>
 <td><p>村川透</p></td>
-<td><p><a href="../Page/石濱朗.md" title="wikilink">石濱朗</a>、<a href="https://ja.wikipedia.org/wiki/番場恵介" title="wikilink">番場恵介</a>、<a href="https://ja.wikipedia.org/wiki/大石はるみ" title="wikilink">大石はるみ</a>、<a href="https://ja.wikipedia.org/wiki/瀬川新蔵" title="wikilink">瀬川新蔵</a>、高橋明、<a href="https://ja.wikipedia.org/wiki/高山千草" title="wikilink">高山千草</a>、市村博、<a href="https://ja.wikipedia.org/wiki/宮田光" title="wikilink">宮田光</a>、<a href="https://ja.wikipedia.org/wiki/水橋和夫" title="wikilink">水橋和夫</a>、広田正光、<a href="https://ja.wikipedia.org/wiki/志賀真理子" title="wikilink">志賀真理子</a></p></td>
+<td><p><a href="../Page/石濱朗.md" title="wikilink">石濱朗</a>、<a href="https://ja.wikipedia.org/wiki/番場恵介" title="wikilink">番場恵介</a>、<a href="https://ja.wikipedia.org/wiki/大石はるみ" title="wikilink">大石はるみ</a>、<a href="https://ja.wikipedia.org/wiki/瀬川新蔵" title="wikilink">瀬川新蔵</a>、高橋明、<a href="https://ja.wikipedia.org/wiki/高山千草" title="wikilink">高山千草</a>、市村博、<a href="../Page/宮田光.md" title="wikilink">宮田光</a>、<a href="https://ja.wikipedia.org/wiki/水橋和夫" title="wikilink">水橋和夫</a>、広田正光、<a href="../Page/志賀真理子.md" title="wikilink">志賀真理子</a></p></td>
 <td><p>13.0%</p></td>
 <td><p>BOX2</p></td>
 </tr>
@@ -594,7 +594,7 @@
 <td><p><strong>さらば友よ</strong></p></td>
 <td><p>3月25日</p></td>
 <td><p>永原秀一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/目黒祐樹" title="wikilink">目黒祐樹</a>、美木良介、<a href="https://ja.wikipedia.org/wiki/佐伯徹" title="wikilink">佐伯徹</a>、姿鐡太郎</p></td>
+<td><p><a href="../Page/目黒祐樹.md" title="wikilink">目黒祐樹</a>、美木良介、<a href="https://ja.wikipedia.org/wiki/佐伯徹" title="wikilink">佐伯徹</a>、姿鐡太郎</p></td>
 <td><p>9.7%</p></td>
 <td><p>BOX2<br />
 タイショー</p></td>
@@ -606,7 +606,7 @@
 <td><p>4月1日</p></td>
 <td><p><a href="../Page/金子成人.md" title="wikilink">金子成人</a></p></td>
 <td><p>村川透</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョニー大倉" title="wikilink">ジョニー大倉</a>、<a href="https://ja.wikipedia.org/wiki/水上功治" title="wikilink">水上功治</a>、<a href="../Page/寺島達夫.md" title="wikilink">寺島達夫</a>、<a href="../Page/福家美峰.md" title="wikilink">福家美峰</a>、南城竜也、友金敏雄 高橋雅男 、<a href="https://ja.wikipedia.org/wiki/藤原あい子" title="wikilink">藤原あい子</a> 、<a href="https://ja.wikipedia.org/wiki/稲葉淳子" title="wikilink">稲葉淳子</a> 、遠山孝一、<a href="https://ja.wikipedia.org/wiki/藤田健一" title="wikilink">藤田健一</a> 、<a href="https://ja.wikipedia.org/wiki/伊藤明徳" title="wikilink">伊藤明徳</a></p></td>
+<td><p><a href="../Page/ジョニー大倉.md" title="wikilink">ジョニー大倉</a>、<a href="https://ja.wikipedia.org/wiki/水上功治" title="wikilink">水上功治</a>、<a href="../Page/寺島達夫.md" title="wikilink">寺島達夫</a>、<a href="../Page/福家美峰.md" title="wikilink">福家美峰</a>、南城竜也、友金敏雄 高橋雅男 、<a href="https://ja.wikipedia.org/wiki/藤原あい子" title="wikilink">藤原あい子</a> 、<a href="https://ja.wikipedia.org/wiki/稲葉淳子" title="wikilink">稲葉淳子</a> 、遠山孝一、<a href="https://ja.wikipedia.org/wiki/藤田健一" title="wikilink">藤田健一</a> 、<a href="https://ja.wikipedia.org/wiki/伊藤明徳" title="wikilink">伊藤明徳</a></p></td>
 <td><p>13.0%</p></td>
 <td><p>団長(2)</p></td>
 </tr>
@@ -629,7 +629,7 @@
 <td><p>4月22日</p></td>
 <td><p>宮下潤一</p></td>
 <td><p>小澤啓一</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小野みゆき" title="wikilink">小野みゆき</a>、<a href="../Page/深江章喜.md" title="wikilink">深江章喜</a>、<a href="https://ja.wikipedia.org/wiki/滝川潤" title="wikilink">滝川潤</a> 、福本清三、<a href="https://ja.wikipedia.org/wiki/南条好輝" title="wikilink">南条好輝</a>、<a href="https://ja.wikipedia.org/wiki/赤塚歩" title="wikilink">赤塚歩</a>、<a href="https://ja.wikipedia.org/wiki/下元年世" title="wikilink">下元年世</a>、<a href="../Page/五王四郎.md" title="wikilink">荻原郁三</a>、<a href="https://ja.wikipedia.org/wiki/邦保" title="wikilink">邦保</a>、<a href="../Page/キダ・タロー.md" title="wikilink">キダ・タロー</a>※ノンクレジット</p></td>
+<td><p><a href="../Page/小野みゆき.md" title="wikilink">小野みゆき</a>、<a href="../Page/深江章喜.md" title="wikilink">深江章喜</a>、<a href="https://ja.wikipedia.org/wiki/滝川潤" title="wikilink">滝川潤</a> 、福本清三、<a href="https://ja.wikipedia.org/wiki/南条好輝" title="wikilink">南条好輝</a>、<a href="https://ja.wikipedia.org/wiki/赤塚歩" title="wikilink">赤塚歩</a>、<a href="https://ja.wikipedia.org/wiki/下元年世" title="wikilink">下元年世</a>、<a href="../Page/五王四郎.md" title="wikilink">荻原郁三</a>、<a href="https://ja.wikipedia.org/wiki/邦保" title="wikilink">邦保</a>、<a href="../Page/キダ・タロー.md" title="wikilink">キダ・タロー</a>※ノンクレジット</p></td>
 <td><p>10.1%</p></td>
 </tr>
 <tr class="even">
@@ -639,7 +639,7 @@
 <td><p>4月29日</p></td>
 <td><p>新井光<br />
 <a href="../Page/山浦弘靖.md" title="wikilink">山浦弘靖</a></p></td>
-<td><p><a href="../Page/浅野ゆう子.md" title="wikilink">浅野ゆう子</a>、<a href="../Page/神田隆_(俳優).md" title="wikilink">神田隆</a>、北村総一朗、唐沢民賢、<a href="../Page/篠田薫.md" title="wikilink">篠田薫</a>、小寺大介、辰馬伸、<a href="https://ja.wikipedia.org/wiki/坂口徹郎" title="wikilink">坂口徹郎</a>、<a href="../Page/芝本正.md" title="wikilink">芝本正</a>、<a href="../Page/乾浩明.md" title="wikilink">乾浩明</a>、<a href="https://ja.wikipedia.org/wiki/國村隼" title="wikilink">米村嘉洋</a>、<a href="https://ja.wikipedia.org/wiki/田中弘史" title="wikilink">田中弘史</a>、<a href="../Page/塚本幸一.md" title="wikilink">塚本幸一</a>（<a href="../Page/ワコール.md" title="wikilink">ワコール</a>会長）、<a href="https://ja.wikipedia.org/wiki/大宮隆" title="wikilink">大宮隆</a>（<a href="https://ja.wikipedia.org/wiki/寶酒造" title="wikilink">寶酒造</a>会長）、<a href="https://ja.wikipedia.org/wiki/納屋嘉治" title="wikilink">納屋嘉治</a>（<a href="../Page/淡交社.md" title="wikilink">淡交社</a>社長）、<a href="../Page/西川きよし.md" title="wikilink">西川きよし</a>（友情出演）</p></td>
+<td><p><a href="../Page/浅野ゆう子.md" title="wikilink">浅野ゆう子</a>、<a href="../Page/神田隆_(俳優).md" title="wikilink">神田隆</a>、北村総一朗、唐沢民賢、<a href="../Page/篠田薫.md" title="wikilink">篠田薫</a>、小寺大介、辰馬伸、<a href="https://ja.wikipedia.org/wiki/坂口徹郎" title="wikilink">坂口徹郎</a>、<a href="../Page/芝本正.md" title="wikilink">芝本正</a>、<a href="../Page/乾浩明.md" title="wikilink">乾浩明</a>、<a href="../Page/國村隼.md" title="wikilink">米村嘉洋</a>、<a href="https://ja.wikipedia.org/wiki/田中弘史" title="wikilink">田中弘史</a>、<a href="../Page/塚本幸一.md" title="wikilink">塚本幸一</a>（<a href="../Page/ワコール.md" title="wikilink">ワコール</a>会長）、<a href="https://ja.wikipedia.org/wiki/大宮隆" title="wikilink">大宮隆</a>（<a href="https://ja.wikipedia.org/wiki/寶酒造" title="wikilink">寶酒造</a>会長）、<a href="https://ja.wikipedia.org/wiki/納屋嘉治" title="wikilink">納屋嘉治</a>（<a href="../Page/淡交社.md" title="wikilink">淡交社</a>社長）、<a href="../Page/西川きよし.md" title="wikilink">西川きよし</a>（友情出演）</p></td>
 <td><p><span color="blue">6.8%</span></p></td>
 <td><p>BOX2</p></td>
 <td></td>
@@ -802,7 +802,7 @@
 <td><p><strong>14年目の賭け</strong></p></td>
 <td><p>9月16日</p></td>
 <td><p>宮田雪</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/畑中葉子" title="wikilink">畑中葉子</a>、河合絃司、片岡五郎、南雲佑介、<a href="https://ja.wikipedia.org/wiki/影山英俊" title="wikilink">影山英俊</a>、永野明彦</p></td>
+<td><p><a href="../Page/畑中葉子.md" title="wikilink">畑中葉子</a>、河合絃司、片岡五郎、南雲佑介、<a href="https://ja.wikipedia.org/wiki/影山英俊" title="wikilink">影山英俊</a>、永野明彦</p></td>
 <td><p>12.0%</p></td>
 <td><p>チョウさん</p></td>
 <td></td>
@@ -844,7 +844,7 @@
 <td><p>10月21日</p></td>
 <td><p>新井光</p></td>
 <td><p>渡辺拓也</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宍戸錠" title="wikilink">宍戸錠</a>、<a href="../Page/秋山武史.md" title="wikilink">秋山武史</a>、きくち英一、姿鐡太郎、横山あきお、三重街恒二</p></td>
+<td><p><a href="../Page/宍戸錠.md" title="wikilink">宍戸錠</a>、<a href="../Page/秋山武史.md" title="wikilink">秋山武史</a>、きくち英一、姿鐡太郎、横山あきお、三重街恒二</p></td>
 <td><p>17.9%</p></td>
 <td><p>BOX2<br />
 ジュン</p></td>
@@ -861,7 +861,7 @@
 峯尾基三</p></td>
 <td><p>小澤啓一</p></td>
 <td><p><a href="../Page/原田芳雄.md" title="wikilink">原田芳雄</a>、<a href="https://ja.wikipedia.org/wiki/宝田明" title="wikilink">宝田明</a>、<a href="../Page/中村晃子.md" title="wikilink">中村晃子</a>、<a href="../Page/中丸忠雄.md" title="wikilink">中丸忠雄</a>、<a href="../Page/倉田保昭.md" title="wikilink">倉田保昭</a>、<a href="../Page/小林稔侍.md" title="wikilink">小林稔侍</a>、黒部進、深水三章、<a href="https://ja.wikipedia.org/wiki/北条清嗣" title="wikilink">北条清嗣</a>、<a href="../Page/中田鉄治.md" title="wikilink">中田鉄治</a>、成瀬正、小野武彦、中真千子、ジャンル・ウルフ、マリーエレーヌ・ヴォー、ニコラス・シャルパンティーエ、ルネ・ウィアード、<a href="https://ja.wikipedia.org/wiki/福岡正剛" title="wikilink">福岡正剛</a>、<a href="https://ja.wikipedia.org/wiki/松本朝夫" title="wikilink">松本朝夫</a>、<a href="https://ja.wikipedia.org/wiki/川口智子" title="wikilink">川口智子</a>、入江正徳、片岡五郎、庄司三郎、<a href="https://ja.wikipedia.org/wiki/石田和剛" title="wikilink">石田和剛</a>、<br />
-<a href="https://ja.wikipedia.org/wiki/原吉実" title="wikilink">原吉実</a>、山本武、<a href="https://ja.wikipedia.org/wiki/佐藤政道" title="wikilink">佐藤政道</a>、<a href="https://ja.wikipedia.org/wiki/高杉哲平" title="wikilink">高杉哲平</a>、谷村隆之、萩原紀、二家本辰己、<a href="../Page/小寺大介.md" title="wikilink">小寺大介</a>、郷内栄喜、西内彰、<a href="https://ja.wikipedia.org/wiki/菊川予市" title="wikilink">菊川予市</a>、<a href="https://ja.wikipedia.org/wiki/清水進一" title="wikilink">清水進一</a>、<a href="https://ja.wikipedia.org/wiki/高久洋" title="wikilink">高久洋</a>、<a href="../Page/迫文代.md" title="wikilink">迫文代</a>（ノンクレジット）、<a href="../Page/武田鉄矢.md" title="wikilink">武田鉄矢</a>（友情出演[11]）、<a href="../Page/山村聰.md" title="wikilink">山村聡</a></p></td>
+<a href="https://ja.wikipedia.org/wiki/原吉実" title="wikilink">原吉実</a>、山本武、<a href="../Page/佐藤政道.md" title="wikilink">佐藤政道</a>、<a href="https://ja.wikipedia.org/wiki/高杉哲平" title="wikilink">高杉哲平</a>、谷村隆之、萩原紀、二家本辰己、<a href="../Page/小寺大介.md" title="wikilink">小寺大介</a>、郷内栄喜、西内彰、<a href="https://ja.wikipedia.org/wiki/菊川予市" title="wikilink">菊川予市</a>、<a href="https://ja.wikipedia.org/wiki/清水進一" title="wikilink">清水進一</a>、<a href="https://ja.wikipedia.org/wiki/高久洋" title="wikilink">高久洋</a>、<a href="../Page/迫文代.md" title="wikilink">迫文代</a>（ノンクレジット）、<a href="../Page/武田鉄矢.md" title="wikilink">武田鉄矢</a>（友情出演[11]）、<a href="../Page/山村聰.md" title="wikilink">山村聡</a></p></td>
 <td><p><span color="red">25.2%</span></p></td>
 <td><p>BOX2<br />
 団長(3)</p></td>
@@ -902,7 +902,7 @@
 <!-- end list -->
 
   -
-    [鷲羽山ハイランド](../Page/鷲羽山ハイランド.md "wikilink")、[高松国際ホテル](https://ja.wikipedia.org/wiki/高松国際ホテル "wikilink")、[加ト吉山本工場](https://ja.wikipedia.org/wiki/テーブルマーク "wikilink")、[丸亀町商店街](../Page/高松中央商店街.md "wikilink")、観音寺競輪などで撮影
+    [鷲羽山ハイランド](../Page/鷲羽山ハイランド.md "wikilink")、[高松国際ホテル](https://ja.wikipedia.org/wiki/高松国際ホテル "wikilink")、[加ト吉山本工場](../Page/テーブルマーク.md "wikilink")、[丸亀町商店街](../Page/高松中央商店街.md "wikilink")、観音寺競輪などで撮影
 
 <!-- end list -->
 
@@ -950,14 +950,14 @@
 
 ## 西部警察スペシャル・男たちは燃えた・・・　全国縦断フィーバードキュメント
 
-  - 1984年[9月2日](../Page/9月2日.md "wikilink")に放送。構成・演出：星裕夫、ナレーター：[矢島正明](https://ja.wikipedia.org/wiki/矢島正明 "wikilink")。
+  - 1984年[9月2日](../Page/9月2日.md "wikilink")に放送。構成・演出：星裕夫、ナレーター：[矢島正明](../Page/矢島正明.md "wikilink")。
 
 石原裕次郎の病床からのカムバックと全国縦断ロケを中心としたドキュメント編。視聴率12.1%。
 
 ## 補足
 
-  - 土曜日昼の人気番組『[独占\!女の60分](https://ja.wikipedia.org/wiki/独占!女の60分 "wikilink")』では、当番組の地方ロケ編が放映される前日に、アタッカー（リポーター）がロケ現場の舞台裏を取り上げていた。他にも深夜番組『[トゥナイト](https://ja.wikipedia.org/wiki/トゥナイト "wikilink")』でもロケ現場の舞台裏を取り上げていた。こちらは一部ダイジェストで『[西部警察 SPECIAL](../Page/西部警察_SPECIAL.md "wikilink")』のDVD特典映像で挿入されている。
-  - 遅れネット局のうち、[TBS系列の一部の局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")など）では、同じく[テレビ朝日系列で火曜](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")21時台に放送されていた時代劇『[柳生十兵衛あばれ旅](https://ja.wikipedia.org/wiki/柳生十兵衛あばれ旅 "wikilink")』の後番組扱いとなっていた。本来の後番組が生放送も行われた音楽番組『[ザ・ベストヒット'83](https://ja.wikipedia.org/wiki/ザ・ベストヒット'83 "wikilink")』となり、番組の特性上遅れネットができなかったと見られる。以上の4局での放送時間は火曜日の22:00 - 22:54\[15\]。なお、最終回スペシャルへの各局の対応状況は不明（ただし、北陸放送は土曜日、長崎放送は、日曜日のそれぞれ昼ごろに放送された）またここから[福井県](../Page/福井県.md "wikilink")での放映ネット局が[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（土曜日13:00 - 13:54）から[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")に変更され、日本テレビ系列月曜21時枠（[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")枠）をいったん時差ネットに降格させる形で月曜日21:00 - 21:54に1日遅れで放送された\[16\]。
+  - 土曜日昼の人気番組『[独占\!女の60分](../Page/独占!女の60分.md "wikilink")』では、当番組の地方ロケ編が放映される前日に、アタッカー（リポーター）がロケ現場の舞台裏を取り上げていた。他にも深夜番組『[トゥナイト](https://ja.wikipedia.org/wiki/トゥナイト "wikilink")』でもロケ現場の舞台裏を取り上げていた。こちらは一部ダイジェストで『[西部警察 SPECIAL](../Page/西部警察_SPECIAL.md "wikilink")』のDVD特典映像で挿入されている。
+  - 遅れネット局のうち、[TBS系列の一部の局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")・[琉球放送](../Page/琉球放送.md "wikilink")など）では、同じく[テレビ朝日系列で火曜](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")21時台に放送されていた時代劇『[柳生十兵衛あばれ旅](https://ja.wikipedia.org/wiki/柳生十兵衛あばれ旅 "wikilink")』の後番組扱いとなっていた。本来の後番組が生放送も行われた音楽番組『[ザ・ベストヒット'83](../Page/ザ・ベストヒット'83.md "wikilink")』となり、番組の特性上遅れネットができなかったと見られる。以上の4局での放送時間は火曜日の22:00 - 22:54\[15\]。なお、最終回スペシャルへの各局の対応状況は不明（ただし、北陸放送は土曜日、長崎放送は、日曜日のそれぞれ昼ごろに放送された）またここから[福井県](../Page/福井県.md "wikilink")での放映ネット局が[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（土曜日13:00 - 13:54）から[福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")に変更され、日本テレビ系列月曜21時枠（[月曜スター劇場](../Page/月曜スター劇場.md "wikilink")枠）をいったん時差ネットに降格させる形で月曜日21:00 - 21:54に1日遅れで放送された\[16\]。
 
 ## 脚注
 
@@ -972,7 +972,7 @@
 7.  屋島の檀ノ浦のことで、関門海峡の壇ノ浦とは異なる。
 8.  初代大門軍団特殊車両の[マシンX](../Page/マシンX.md "wikilink")爆破回（ただし、爆破シーンではダミー車が使用されている）。タイトルテロップは「戦士よ さらば」となっている。「セブン」の2代目歌姫・八木美代子がこの回で降板。
 9.  二宮係長役の[庄司永建](../Page/庄司永建.md "wikilink")の実娘。現在はフリーアナウンサー。
-10. 大門軍団特殊車両の特別機動車両・[サファリがこの回で退役](https://ja.wikipedia.org/wiki/日産・サファリ "wikilink")。
+10. 大門軍団特殊車両の特別機動車両・[サファリがこの回で退役](../Page/日産・サファリ.md "wikilink")。
 11. 武田鉄矢本人役で出演。
 12. 山形放送はクロスネット局で唯一、シリーズを通しての全国縦断ロケの制作協力局である。一方で日本テレビ系列の日曜20時台の番組は当時[フジテレビ系列局だった](../Page/フジネットワーク.md "wikilink")[山形テレビ](../Page/山形テレビ.md "wikilink")で同時ネットで放送されていた（1993年3月まで）。山形放送は現在はNNSマストバイ局。ちなみに『西部警察』シリーズの山形県での再放送は山形テレビにて放送されている。
 13. 当時は[TBS系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")で2日遅れで放送されていた。ANN系の[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")は[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")開局。

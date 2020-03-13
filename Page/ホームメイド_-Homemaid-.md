@@ -1,7 +1,7 @@
 > この記事は[ -Homemaid-](https://ja.wikipedia.org/wiki/_-Homemaid-)から翻訳されています。
 
 
-『**ホームメイド -Homemaid-**』は、[CIRCUS FETISHの](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")に初回限定版が、[10月29日](../Page/10月29日.md "wikilink")に通常版が発売された。また、[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")から[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象の[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**ホームメイド〜終の館〜**』が[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に発売された。
+『**ホームメイド -Homemaid-**』は、[CIRCUS FETISHの](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")に初回限定版が、[10月29日](../Page/10月29日.md "wikilink")に通常版が発売された。また、[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")から[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象の[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**ホームメイド〜終の館〜**』が[2005年](../Page/2005年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")に発売された。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")には、『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』のスタッフが追加エピソード、追加ヒロインを加えリファインした、『ホームメイド スイーツ』が発売された。この作品には前作となる『[終の館](../Page/終の館.md "wikilink")』全5章も再編集して収録されている。
 
@@ -37,11 +37,11 @@
     声 - [長崎みなみ](../Page/長崎みなみ.md "wikilink")(PC)／[石毛佐和](../Page/石毛佐和.md "wikilink")(PS2)／[風音](https://ja.wikipedia.org/wiki/風音_\(声優\) "wikilink")(スイーツ)
     誕生日:[5月5日](../Page/5月5日.md "wikilink")。星座:おうし座。身長:158cm。3サイズ:B80/W55/H85。
     好きなもの:家族,[餡子](https://ja.wikipedia.org/wiki/餡子 "wikilink"),テレビ鑑賞 嫌いなもの:ドラマ鑑賞中のニュース鑑賞 特技:餡子を使った創作料理
-    林海学園サーバント科2年。団子屋の娘であり、幼いころから家のお使いで速水家によく出入りする。主人公とは[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")。かなりのマイペースだが、時としてかなり強引である。[餡](../Page/餡.md "wikilink")子が好き。実家で家事を担っているためメイドとしての実務能力はそれなりだが、学力は非常に低い。
+    林海学園サーバント科2年。団子屋の娘であり、幼いころから家のお使いで速水家によく出入りする。主人公とは[幼馴染](../Page/幼馴染.md "wikilink")。かなりのマイペースだが、時としてかなり強引である。[餡](../Page/餡.md "wikilink")子が好き。実家で家事を担っているためメイドとしての実務能力はそれなりだが、学力は非常に低い。
   - 鈴原桂花（すずはら けいか）
     声 - [今岡文](https://ja.wikipedia.org/wiki/今岡文 "wikilink")
     誕生日：[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")。身長:138㎝ 体重:27㎏ 3サイズ:B62/W51/H65。
-    好きなもの:[プリン](https://ja.wikipedia.org/wiki/カスタードプディング "wikilink"), 嫌いなもの:[人参](https://ja.wikipedia.org/wiki/人参 "wikilink") 特技:勉強,[フェンシング](../Page/フェンシング.md "wikilink"),[乗馬](../Page/乗馬.md "wikilink")
+    好きなもの:[プリン](../Page/カスタードプディング.md "wikilink"), 嫌いなもの:[人参](https://ja.wikipedia.org/wiki/人参 "wikilink") 特技:勉強,[フェンシング](../Page/フェンシング.md "wikilink"),[乗馬](../Page/乗馬.md "wikilink")
     林海学園ジェントリー科2年。かつての名家、鈴原家の一人娘。成績優秀で運動神経もそれなり以上だが、芸術科目は壊滅的。ある事情により鈴原桂と名乗り、男としてジェントリー科に通う。
   - 岡（クララ）直海（おか くらら なおみ）
     声 - [ありす](../Page/ありす.md "wikilink")
@@ -76,7 +76,7 @@
   - 久留間茉莉（くるま まり）
     藤の妹。[幼稚園児](https://ja.wikipedia.org/wiki/幼稚園児 "wikilink")。おませさん。
   - 岬（みさき）
-    林海学園サーバント科2年。函南家の[メイド](../Page/メイド.md "wikilink")になるのが[内定](https://ja.wikipedia.org/wiki/内定 "wikilink")している。函南の[幼馴染](https://ja.wikipedia.org/wiki/幼馴染 "wikilink")。
+    林海学園サーバント科2年。函南家の[メイド](../Page/メイド.md "wikilink")になるのが[内定](../Page/内定.md "wikilink")している。函南の[幼馴染](../Page/幼馴染.md "wikilink")。
   - 虹咲浜路（にじさき はまじ）
     東京に住む資産家。あやめの養母でもある。速水卿とは旧知の仲。
   - マーシャル・ウィロビー
@@ -123,7 +123,7 @@
 ### ホームメイド スイーツ
 
   - オープニングテーマ『Sweet Love Flag』
-      - 作詞・作曲：Little Non、編曲：[松下典由](https://ja.wikipedia.org/wiki/松下典由 "wikilink")、歌：[Little Non](https://ja.wikipedia.org/wiki/Little_Non "wikilink")
+      - 作詞・作曲：Little Non、編曲：[松下典由](https://ja.wikipedia.org/wiki/松下典由 "wikilink")、歌：[Little Non](../Page/Little_Non.md "wikilink")
   - エンディングテーマ『愛は静かな夢に降る』
       - 作詞：[畑亜貴](../Page/畑亜貴.md "wikilink")、作曲：不知火つばさ、編曲：[大川茂伸](../Page/大川茂伸.md "wikilink")、歌：[橋本みゆき](../Page/橋本みゆき.md "wikilink")
   - 終の館エンディングテーマ『Fortune's wheel』
@@ -153,7 +153,7 @@
 
 <!-- end list -->
 
-  - **Sweet Love Flag／Cheer Up\!**（歌：[Little Non](https://ja.wikipedia.org/wiki/Little_Non "wikilink")）
+  - **Sweet Love Flag／Cheer Up\!**（歌：[Little Non](../Page/Little_Non.md "wikilink")）
 
 <!-- end list -->
 
@@ -193,7 +193,7 @@
 
 ファンブック
 
-  - **ホームメイド 〜終の館〜設定解説ファンブック**（[ジャイブ](https://ja.wikipedia.org/wiki/ジャイブ "wikilink")）\[6\]
+  - **ホームメイド 〜終の館〜設定解説ファンブック**（[ジャイブ](../Page/ジャイブ.md "wikilink")）\[6\]
 
 <!-- end list -->
 

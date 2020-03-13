@@ -9,7 +9,7 @@
 
 ## メンバー
 
-  - **[森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink")**（もりとも あらし、1965年10月30日 - 、<small>歳</small>）
+  - **[森友嵐士](../Page/森友嵐士.md "wikilink")**（もりとも あらし、1965年10月30日 - 、<small>歳</small>）
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 <!-- end list -->
 
   -
-    [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、編曲担当。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身。AB型。
+    [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、編曲担当。[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")出身。AB型。
 
 <!-- end list -->
 
@@ -112,7 +112,7 @@
 
 ### デビュー前
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、青木和義（Dr）が[森友嵐士](https://ja.wikipedia.org/wiki/森友嵐士 "wikilink")（Vo）（当時、[東海大学](../Page/東海大学.md "wikilink")理学部に在籍）を誘ってT-BOLANの前身となるバンド「プリズナー」を結成。同年11月22日、[ビーイング](../Page/ビーイング.md "wikilink")主催の第2回BADオーディション（会場：目黒ライブステーション）でグランプリを受賞。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、青木和義（Dr）が[森友嵐士](../Page/森友嵐士.md "wikilink")（Vo）（当時、[東海大学](../Page/東海大学.md "wikilink")理学部に在籍）を誘ってT-BOLANの前身となるバンド「プリズナー」を結成。同年11月22日、[ビーイング](../Page/ビーイング.md "wikilink")主催の第2回BADオーディション（会場：目黒ライブステーション）でグランプリを受賞。
 
 [1988年](../Page/1988年.md "wikilink")7月22日、「BOLAN」としてビーイングのインディーズレーベル『YEAH』からEP「I WAITED FOR A TIME」をリリースしインディーズデビュー。ライブ活動を年間100本以上行う。その後、森友は他メンバーとの音楽性の相違により「BOLAN」を脱退し、新たなバンドを複数掛け持ちするなどして音楽活動を続け、その過程で[五味孝氏](../Page/五味孝氏.md "wikilink")（Gt）、上野博文（Ba）のそれぞれに出会う。森友脱退後のBOLANは、しばらくしてギター([紅谷昭夫](https://ja.wikipedia.org/wiki/紅谷昭夫 "wikilink"))とベース（[赤羽浩治](https://ja.wikipedia.org/wiki/赤羽浩治 "wikilink")）が脱退し活動停止状態になる。
 
@@ -120,13 +120,13 @@
 
 ### メジャーデビュー ～ 解散
 
-[1991年](../Page/1991年.md "wikilink")7月、[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")作詞・作曲、[西田昌史](../Page/西田昌史.md "wikilink")（[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")）編曲・サウンドプロデュース（西田魔阿思惟名義）の「[悲しみが痛いよ](../Page/悲しみが痛いよ.md "wikilink")」でメジャーデビュー。以降、「[離したくはない](../Page/離したくはない.md "wikilink")」、「[Bye For Now](../Page/Bye_For_Now.md "wikilink")」、「[マリア](../Page/マリア_\(T-BOLANの曲\).md "wikilink")」などがヒット。特に[1992年](../Page/1992年.md "wikilink")に発売された「Bye For Now」はミリオンヒットを記録した。
+[1991年](../Page/1991年.md "wikilink")7月、[川島だりあ](../Page/川島だりあ.md "wikilink")作詞・作曲、[西田昌史](../Page/西田昌史.md "wikilink")（[EARTHSHAKER](../Page/EARTHSHAKER.md "wikilink")）編曲・サウンドプロデュース（西田魔阿思惟名義）の「[悲しみが痛いよ](../Page/悲しみが痛いよ.md "wikilink")」でメジャーデビュー。以降、「[離したくはない](../Page/離したくはない.md "wikilink")」、「[Bye For Now](../Page/Bye_For_Now.md "wikilink")」、「[マリア](../Page/マリア_\(T-BOLANの曲\).md "wikilink")」などがヒット。特に[1992年](../Page/1992年.md "wikilink")に発売された「Bye For Now」はミリオンヒットを記録した。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、ライブツアー『LIVE HEAVEN '94〜'95』中に、森友は原因不明の発声障害（後に[心因性発声障害と判明する](https://ja.wikipedia.org/wiki/言語障害 "wikilink")）が発症。喉の調子が悪い状態が続いていたが、様子をみながらツアーを続けていた。ツアー最終公演であった[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")大阪厚生年金会館（現・[オリックス劇場](../Page/オリックス劇場.md "wikilink")）大ホールでは、ドクターストップがかかりライブ当日の会場で公演中止の発表をするも、会場に来たファンの声援に応えてライブを強行した。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、ライブツアー『LIVE HEAVEN '94〜'95』中に、森友は原因不明の発声障害（後に[心因性発声障害と判明する](../Page/言語障害.md "wikilink")）が発症。喉の調子が悪い状態が続いていたが、様子をみながらツアーを続けていた。ツアー最終公演であった[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")大阪厚生年金会館（現・[オリックス劇場](../Page/オリックス劇場.md "wikilink")）大ホールでは、ドクターストップがかかりライブ当日の会場で公演中止の発表をするも、会場に来たファンの声援に応えてライブを強行した。
 
 その後、翌年のシングル「Be Myself/Heart of Gold 1996」を境に新曲を発表することなく活動休止状態となる。[1996年](../Page/1996年.md "wikilink")、活動休止中にリリースされたベストアルバム『[SINGLES](../Page/SINGLES_\(T-BOLANのアルバム\).md "wikilink")』がミリオンヒットとなる。
 
-[1999年](../Page/1999年.md "wikilink")12月、森友嵐士の喉の不調が、[心因性発声障害によるものであると判明](https://ja.wikipedia.org/wiki/言語障害 "wikilink")。医師から「原因も治療法も不明の病気である」という診断を受けたことが決定打となり、森友の申し出によってT-BOLANは解散。ベストアルバム『[FINAL BEST GREATEST SONGS & MORE](../Page/T-BOLAN_FINAL_BEST_GREATEST_SONGS_&_MORE.md "wikilink")』、VHS『FINAL BEST LIVE HEAVEN〜LIVE\&CLIPS〜』をリリース。また、森友による自伝エッセイ『泥だらけのエピローグ』も発売される。
+[1999年](../Page/1999年.md "wikilink")12月、森友嵐士の喉の不調が、[心因性発声障害によるものであると判明](../Page/言語障害.md "wikilink")。医師から「原因も治療法も不明の病気である」という診断を受けたことが決定打となり、森友の申し出によってT-BOLANは解散。ベストアルバム『[FINAL BEST GREATEST SONGS & MORE](../Page/T-BOLAN_FINAL_BEST_GREATEST_SONGS_&_MORE.md "wikilink")』、VHS『FINAL BEST LIVE HEAVEN〜LIVE\&CLIPS〜』をリリース。また、森友による自伝エッセイ『泥だらけのエピローグ』も発売される。
 
 [2009年](../Page/2009年.md "wikilink")11月、森友嵐士、ソロで音楽活動を再開。
 
@@ -155,7 +155,7 @@
   - 「BOLAN」としてメジャーデビューする予定だったが、海外メーカーの服の商標に登録されていて使えなかったため、“T-BOLAN”に改名してデビューした。
   - テレビドラマ『[ホテルウーマン](../Page/関西テレビ制作・月曜夜10時枠の連続ドラマ.md "wikilink")』（[関西テレビ](../Page/関西テレビ放送.md "wikilink")、1991年10月7日 - 12月23日）の挿入歌となった森友の作詞・作曲による楽曲「[離したくはない](../Page/離したくはない.md "wikilink")」が有線へリクエストが殺到。ドラマが終わる直前にシングルカットされ、最高位15位でありながらじわじわと長期に渡り売れ続け約50万枚のヒットとなった（ちなみに、このシングルのC/Wには、「Heart of Gold」が収録されている）。
   - 「離したくはない」は1stアルバム『T-BOLAN』に収録されているものがオリジナルである。シングルバージョンはオリジナルバージョンと一部歌詞が異なっている。このアルバム以外には、シングルバージョンの歌詞で収録されている。ライブでは1stアルバムバージョンの歌詞で歌った。
-  - ビーイング所属アーティストが数々の楽曲に参加している。編曲は主に、[B'z](../Page/B'z.md "wikilink")の編曲をしていた[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")や、アコースティックアレンジでは[葉山たけし](../Page/葉山たけし.md "wikilink")がサポートした。コーラスでは、[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")、[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")等が主に参加している。
+  - ビーイング所属アーティストが数々の楽曲に参加している。編曲は主に、[B'z](../Page/B'z.md "wikilink")の編曲をしていた[明石昌夫](../Page/明石昌夫.md "wikilink")や、アコースティックアレンジでは[葉山たけし](../Page/葉山たけし.md "wikilink")がサポートした。コーラスでは、[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")、[川島だりあ](../Page/川島だりあ.md "wikilink")等が主に参加している。
   - ビーイング所属の中にはライブを行わないアーティストがいたが、T-BOLANはメジャーデビュー以前から盛んにライブ活動を行っており、デビュー後も積極的にライブツアーを行うライブバンドであった。また、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）などテレビ音楽番組にも数多く出演している。
   - 『LIVE HEAVEN '94〜'95』ツアー最終日であった[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")大阪厚生年金会館大ホール公演当日、森友のびらん性の声帯結節によりドクターストップがかかり、協議のうえ森友も他メンバーも渋々ながら一旦受け入れた。ところが、舞台でスタッフがライブの中止および延期の旨を客席に告げたところ、観客から大ブーイングと割れんばかりの森友コールが沸き起こった。これを舞台の袖から見ていた森友は心を動かされ、中止せずにステージに立ちたい思いを他メンバーとスタッフに話しメンバーは同意する 。スタッフは反対し、黙ってステージに立たせるわけにいかず制止（止めるスタッフに森友が「離してくれ」と言う大きな声が舞台袖から聞こえひしめきあっていた）したのだが、バンドはスタッフの制止を振り切り舞台に出てライブを行った。このライブは中断されることなく最後までやり終えている。その後、コンサートでのドクターストップなどでの精神的ストレスからか森友は心因性発声障害を引き起こした。このライブを見た者が、ジェイロックマガジン誌に、ボーカリストの体調が万全でない状態でライブを行った（観客は入場料を払った）T-BOLANの姿勢を批判する内容の意見を投稿 する。
   - 上記の1995年3月26日大阪厚生年金会館大ホール公演を最後にライブは行われていないが、その後シングル「SHAKE IT」「愛のために 愛の中で」「Be Myself」をリリースしている。またオリジナルアルバム制作にもとりかかっていて、リリースに足りるだけの楽曲は揃っていたといわれているが、結局リリースされることはなかった。シングル「Be Myself」以降に発表された新曲は、1999年解散時リリースの「FINAL BEST GREATEST SONGS & MORE」に収録された「SMILE」だけだったが、その後、2010年リリースの2枚組ベストアルバム『LEGENDS』に、デジタルリマスタリングされた「SMILE」と共に未発表曲「満月の夜」が収録された。
@@ -176,7 +176,7 @@
 <th><p>タイトル</p></th>
 <th><p>規格</p></th>
 <th><p>楽曲制作</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/オリコンチャート" title="wikilink">オリコン</a><br />
+<th><p><a href="../Page/オリコンチャート.md" title="wikilink">オリコン</a><br />
 最高位</p></th>
 <th><p>収録アルバム</p></th>
 </tr>
@@ -187,7 +187,7 @@
 <td><p>1991年7月10日</p></td>
 <td><p><strong><a href="../Page/悲しみが痛いよ.md" title="wikilink">悲しみが痛いよ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/8センチCD" title="wikilink">8cmCD</a></p></td>
-<td><p>作詞：<a href="https://ja.wikipedia.org/wiki/川島だりあ" title="wikilink">川島だりあ</a><br />
+<td><p>作詞：<a href="../Page/川島だりあ.md" title="wikilink">川島だりあ</a><br />
 作曲：川島だりあ<br />
 編曲：西田魔阿思惟</p></td>
 <td><p>46位</p></td>
@@ -354,7 +354,7 @@
 <td><p>8cmCD</p></td>
 <td><p>作詞：森友嵐士<br />
 作曲：森友嵐士<br />
-編曲：<a href="https://ja.wikipedia.org/wiki/徳永暁人" title="wikilink">徳永暁人</a></p></td>
+編曲：<a href="../Page/徳永暁人.md" title="wikilink">徳永暁人</a></p></td>
 <td><p>26位</p></td>
 <td><p><a href="../Page/1999_REMIXES.md" title="wikilink">1999 REMIXES</a></p></td>
 </tr>
@@ -654,8 +654,8 @@
 ### オムニバス
 
 1.  [ホテルウーマン オリジナル・サウンドトラック](../Page/ホテルウーマン_オリジナルサウンドトラック.md "wikilink") （1991年11月21日、[BMGビクター](https://ja.wikipedia.org/wiki/BMGビクター "wikilink")） M-4.離したくはない
-2.  [ウーマンドリーム　オリジナル・サウンドトラック](../Page/ウーマンドリーム_\(アルバム\).md "wikilink") （1992年12月2日、[B-JIN](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")） M-1.Bye For Now
-3.  [vocal compilation 90's hits Vol.1〜male〜 at the BEING studio](https://ja.wikipedia.org/wiki/vocal_compilation_90's_hits_Vol.1〜male〜_at_the_BEING_studio "wikilink") （2003年4月25日、[B-Gram RECORDS](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")） M-2.悲しみが痛いよ,M-13.サヨナラから始めよう
+2.  [ウーマンドリーム　オリジナル・サウンドトラック](../Page/ウーマンドリーム_\(アルバム\).md "wikilink") （1992年12月2日、[B-JIN](../Page/ZAIN_RECORDS.md "wikilink")） M-1.Bye For Now
+3.  [vocal compilation 90's hits Vol.1〜male〜 at the BEING studio](https://ja.wikipedia.org/wiki/vocal_compilation_90's_hits_Vol.1〜male〜_at_the_BEING_studio "wikilink") （2003年4月25日、[B-Gram RECORDS](../Page/B-Gram_RECORDS.md "wikilink")） M-2.悲しみが痛いよ,M-13.サヨナラから始めよう
 4.  IT'S TV SHOW\!\! （2004年10月27日、B-Gram RECORDS） DISC I M-2.マリア
 5.  [R35 Sweet J-Ballads](../Page/R35_Sweet_J-Ballads.md "wikilink") （2007年4月25日、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")） M-7.離したくはない
 6.  [クライマックス ロマンティック・ソングス](https://ja.wikipedia.org/wiki/クライマックス_ロマンティック・ソングス "wikilink") （2008年8月20日、[ソニー・ミュージックダイレクト](../Page/ソニー・ミュージックダイレクト.md "wikilink")） DISC 2 M-7.Bye For Now
@@ -680,7 +680,7 @@
 | すれ違いの純情                | [富士フイルム](../Page/富士フイルム.md "wikilink")「[AXIA](https://ja.wikipedia.org/wiki/AXIA "wikilink")」CMソング                                                          |                                                                                                                      |
 | 刹那さを消せやしない             | テレビ朝日系「\[\[Jリーグ_A_GOGO                                                                                                                                    | |Jリーグ A GO GO                                                                                                        |
 | 傷だらけを抱きしめて             | [大塚製薬](../Page/大塚製薬.md "wikilink")「ファイブミニ」CMソング （出演：[萩原聖人](../Page/萩原聖人.md "wikilink")）                                                                     |                                                                                                                      |
-| わがままに抱き合えたなら           | ANB系[月曜ドラマ・イン](https://ja.wikipedia.org/wiki/月曜ドラマ・イン "wikilink")「[愛してるよ\!](../Page/愛してるよ!.md "wikilink")」オープニング・テーマ                                        |                                                                                                                      |
+| わがままに抱き合えたなら           | ANB系[月曜ドラマ・イン](../Page/月曜ドラマ・イン.md "wikilink")「[愛してるよ\!](../Page/愛してるよ!.md "wikilink")」オープニング・テーマ                                                           |                                                                                                                      |
 | 1994年                  | LOVE                                                                                                                                                        | テレビ朝日系[木曜ドラマ](../Page/木曜ドラマ_\(テレビ朝日\).md "wikilink")『[彼と彼女の事情](https://ja.wikipedia.org/wiki/彼と彼女の事情 "wikilink")』主題歌 |
 | No.1 Girl              | [ホンダ](../Page/本田技研工業.md "wikilink")・[シビックフェリオ](https://ja.wikipedia.org/wiki/シビックフェリオ "wikilink") CMソング （出演：[ジョディ・フォスター](../Page/ジョディ・フォスター.md "wikilink")） |                                                                                                                      |
 | マリア                    | [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")「[○I○I](../Page/丸井.md "wikilink") TOKYO TASTE 『Rooms』」エンディングテーマ                                      |                                                                                                                      |

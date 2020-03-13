@@ -9,15 +9,15 @@
 
 </div class="pathnavbox">
 
-『**ドラ・Q・パーマン**』（ドラ・キュー・パーマン）は、原作：[藤子不二雄](../Page/藤子不二雄.md "wikilink")（[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")）、絵：[しのだひでお](../Page/しのだひでお.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、及び、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")に放映されたテレビアニメ作品。漫画雑誌『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』[1979年](../Page/1979年.md "wikilink")8月号（[7月14日](../Page/7月14日.md "wikilink")発売）に掲載された。
+『**ドラ・Q・パーマン**』（ドラ・キュー・パーマン）は、原作：[藤子不二雄](../Page/藤子不二雄.md "wikilink")（[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")）、絵：[しのだひでお](../Page/しのだひでお.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、及び、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")に放映されたテレビアニメ作品。漫画雑誌『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』[1979年](../Page/1979年.md "wikilink")8月号（[7月14日](../Page/7月14日.md "wikilink")発売）に掲載された。
 
 ## 概要
 
-[1979年](../Page/1979年.md "wikilink")の2度目の[アニメ](../Page/アニメ.md "wikilink")化に伴い、一躍人気者になった『[ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん_\(1979年のテレビアニメ\) "wikilink")』が、往年の人気藤子キャラと共演を果たした[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")。なお、当時の『コロコロコミック』は「[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")」及び「[パーマン](../Page/パーマン.md "wikilink")」の再掲載をしていた。『[熱血\!\!コロコロ伝説](../Page/熱血!!コロコロ伝説.md "wikilink")』Vol.2に再録され、2012年9月に『[藤子・F・不二雄大全集](https://ja.wikipedia.org/wiki/藤子・F・不二雄大全集 "wikilink")』ドラえもん第20巻にて初めて単行本化された。
+[1979年](../Page/1979年.md "wikilink")の2度目の[アニメ](../Page/アニメ.md "wikilink")化に伴い、一躍人気者になった『[ドラえもん](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")』が、往年の人気藤子キャラと共演を果たした[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")。なお、当時の『コロコロコミック』は「[オバケのQ太郎](../Page/オバケのQ太郎.md "wikilink")」及び「[パーマン](../Page/パーマン.md "wikilink")」の再掲載をしていた。『[熱血\!\!コロコロ伝説](../Page/熱血!!コロコロ伝説.md "wikilink")』Vol.2に再録され、2012年9月に『[藤子・F・不二雄大全集](https://ja.wikipedia.org/wiki/藤子・F・不二雄大全集 "wikilink")』ドラえもん第20巻にて初めて単行本化された。
 
 作者の藤子は[ネームとキャラクターの大体の配置を担当し](https://ja.wikipedia.org/wiki/ネーム_\(漫画\) "wikilink")、それをしのだひでおがペン入れをしたため、完全にしのだタッチとなっている。しのだによると、「藤子タッチで描く事も出来たが、真似をすると線が活きて来ない」とのことである。当初藤子は「それぞれ違う世界を持った作品で、まったく違う発想で描いた作品なので一緒にはできない」と難色を示していた。
 
-この作品は、1980年4月8日の『ドラえもん』の特番『[春だ\! 一番ドラえもん祭り](https://ja.wikipedia.org/wiki/ドラえもん_\(1979年のテレビアニメ\) "wikilink")』\[1\]枠で、[シンエイ動画](../Page/シンエイ動画.md "wikilink")によりアニメ化された\[2\]。この際、パーマン1号のマスクが黒に近い濃紺だった\[3\]。
+この作品は、1980年4月8日の『ドラえもん』の特番『[春だ\! 一番ドラえもん祭り](../Page/ドラえもん_\(1979年のテレビアニメ\).md "wikilink")』\[1\]枠で、[シンエイ動画](../Page/シンエイ動画.md "wikilink")によりアニメ化された\[2\]。この際、パーマン1号のマスクが黒に近い濃紺だった\[3\]。
 
 アニメ版ではパーマンとオバQが活躍するシーンでそれぞれの旧主題歌が流れる。ともにモノクロ時代の[TBS版のもの](../Page/TBSテレビ.md "wikilink")。
 
@@ -29,12 +29,12 @@
 
 『パーマン』、『オバQ』共にシンエイ版の[リメイク](../Page/リメイク.md "wikilink")前であった為に旧作\[4\]に準じていた。
 
-  - [ドラえもん](https://ja.wikipedia.org/wiki/ドラえもん_\(キャラクター\) "wikilink")：[大山のぶ代](../Page/大山のぶ代.md "wikilink")
+  - [ドラえもん](../Page/ドラえもん_\(キャラクター\).md "wikilink")：[大山のぶ代](../Page/大山のぶ代.md "wikilink")
   - [のび太](../Page/野比のび太.md "wikilink")：[小原乃梨子](../Page/小原乃梨子.md "wikilink")
   - Q太郎：[堀絢子](../Page/堀絢子.md "wikilink")
   - 正太：[太田淑子](../Page/太田淑子.md "wikilink")
   - O次郎：[桂玲子](../Page/桂玲子.md "wikilink")
-  - ドロンパ：[山本嘉子](https://ja.wikipedia.org/wiki/山本嘉子 "wikilink")
+  - ドロンパ：[山本嘉子](../Page/山本嘉子.md "wikilink")
   - パーマン（ミツ夫）：[三輪勝恵](../Page/三輪勝恵.md "wikilink")\[5\]
   - パーマン2号（ブービー）：[大竹宏](../Page/大竹宏.md "wikilink")\[6\]
   - [パーマン3号（パー子）](../Page/星野スミレ.md "wikilink")：[栗葉子](../Page/栗葉子.md "wikilink")

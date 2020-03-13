@@ -21,7 +21,7 @@
         『[第53回NHK紅白歌合戦](../Page/第53回NHK紅白歌合戦.md "wikilink")』に出場し、本曲を披露した。
 2.  **Song 2 〜the sequel to that〜**
       -
-        作詞・作曲:[市川喜康](https://ja.wikipedia.org/wiki/市川喜康 "wikilink") / 編曲:知野芳彦
+        作詞・作曲:[市川喜康](../Page/市川喜康.md "wikilink") / 編曲:知野芳彦
     <!-- end list -->
       - 32ndシングル「[らいおんハート](../Page/らいおんハート.md "wikilink")」カップリング「**オレンジ**」の続編
     <!-- end list -->

@@ -33,9 +33,9 @@
 | 翼面荷重                                                                    |
 |                                                                         |
 
-**ダグラス DC-2**（Douglas DC-2）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")社が開発した全金属製の[プロペラ](https://ja.wikipedia.org/wiki/プロペラ "wikilink")双発[旅客機](../Page/旅客機.md "wikilink")・[輸送機](../Page/輸送機.md "wikilink")である。
+**ダグラス DC-2**（Douglas DC-2）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink")社が開発した全金属製の[プロペラ](../Page/プロペラ.md "wikilink")双発[旅客機](../Page/旅客機.md "wikilink")・[輸送機](../Page/輸送機.md "wikilink")である。
 
-[ボーイング247](../Page/ボーイング247.md "wikilink")の対抗機として開発され、所期の成功を収めたが、それ以上に世界的ベストセラー機[DC-3の母体となった機体として重要な存在である](https://ja.wikipedia.org/wiki/ダグラス_DC-3 "wikilink")。
+[ボーイング247](../Page/ボーイング247.md "wikilink")の対抗機として開発され、所期の成功を収めたが、それ以上に世界的ベストセラー機[DC-3の母体となった機体として重要な存在である](../Page/ダグラス_DC-3.md "wikilink")。
 
 ## 開発
 
@@ -51,7 +51,7 @@
 
 DC-2は[アメリカ陸軍航空隊](https://ja.wikipedia.org/wiki/アメリカ陸軍航空隊 "wikilink")でも使用された。制式名はC-32（空中指揮機）、C-33（輸送機）、C-34（VIP輸送機）、C-38、C-39、C-41、C-42である。
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[日本航空輸送](../Page/日本航空輸送.md "wikilink")が8機を輸入して運用したほか、[中島飛行機](../Page/中島飛行機.md "wikilink")が[ライセンス生産](https://ja.wikipedia.org/wiki/ライセンス生産 "wikilink")を行ない6機を製造した。また、中島では[陸軍向けの大型輸送機](../Page/大日本帝国陸軍.md "wikilink")「キ16」としてDC-2をベースとした機体の開発も計画されていたが、陸軍の方針が固まっていなかったため見送られている\[1\]。DC-2のライセンス生産で得られた技術は、後に[中島AT-2](../Page/中島AT-2.md "wikilink")の開発や、DC-3を元にした[零式輸送機](../Page/零式輸送機.md "wikilink")の生産に生かされている。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[日本航空輸送](../Page/日本航空輸送.md "wikilink")が8機を輸入して運用したほか、[中島飛行機](../Page/中島飛行機.md "wikilink")が[ライセンス生産](../Page/ライセンス生産.md "wikilink")を行ない6機を製造した。また、中島では[陸軍向けの大型輸送機](../Page/大日本帝国陸軍.md "wikilink")「キ16」としてDC-2をベースとした機体の開発も計画されていたが、陸軍の方針が固まっていなかったため見送られている\[1\]。DC-2のライセンス生産で得られた技術は、後に[中島AT-2](../Page/中島AT-2.md "wikilink")の開発や、DC-3を元にした[零式輸送機](../Page/零式輸送機.md "wikilink")の生産に生かされている。
 
 ## 評価
 

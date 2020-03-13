@@ -3,7 +3,7 @@
 
 [VALUESTAR_N.jpg](https://ja.wikipedia.org/wiki/File:VALUESTAR_N.jpg "fig:VALUESTAR_N.jpg") **VALUESTAR**（バリュースター）は、かつて[日本電気](../Page/日本電気.md "wikilink") (NEC) が発売していた[デスクトップパソコン](../Page/デスクトップパソコン.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")。
 
-企画・開発・製造はNECの関連会社である[NECパーソナルコンピュータ](https://ja.wikipedia.org/wiki/NECパーソナルコンピュータ "wikilink")（2011年7月にNECパーソナルプロダクツのパソコン部門を分社化して設立。[レノボ](https://ja.wikipedia.org/wiki/レノボ "wikilink")との合弁会社であるLenovo NEC Holdings B.Vの完全子会社）が行っていた。[2004年](../Page/2004年.md "wikilink")春モデル（2004年1月発売）で発売以来初めてブランドロゴが変更されて2代目に移行した（ノートパソコンの「[LaVie](../Page/LAVIE.md "wikilink")」も同時にブランドロゴを変更して2代目となった）。
+企画・開発・製造はNECの関連会社である[NECパーソナルコンピュータ](https://ja.wikipedia.org/wiki/NECパーソナルコンピュータ "wikilink")（2011年7月にNECパーソナルプロダクツのパソコン部門を分社化して設立。[レノボ](../Page/レノボ.md "wikilink")との合弁会社であるLenovo NEC Holdings B.Vの完全子会社）が行っていた。[2004年](../Page/2004年.md "wikilink")春モデル（2004年1月発売）で発売以来初めてブランドロゴが変更されて2代目に移行した（ノートパソコンの「[LaVie](../Page/LAVIE.md "wikilink")」も同時にブランドロゴを変更して2代目となった）。
 
 ## 概要
 
@@ -21,11 +21,11 @@
 
 当初ロードマップで想定されたものの実際に発売されなかったCanbe NX（TVチューナー内蔵。PC-9821シリーズでは一部の機種を除きディスプレイ一体型）や、初期に数機種が発売された程度で終わったCEREB NX（マルチメディア対応）も最終的に包含されることになった。
 
-国内で販売するNEC製パーソナル用のデスクトップは商品名を**VALUESTAR**として統一している。タワー型だけでなく横置きのデスクトップ型も製造されたが、後にデスクトップ型は廃止となった。RシリーズやUシリーズのような[ATX](https://ja.wikipedia.org/wiki/ATX "wikilink")規格の機種を除いてオリジナル筐体が多い。
+国内で販売するNEC製パーソナル用のデスクトップは商品名を**VALUESTAR**として統一している。タワー型だけでなく横置きのデスクトップ型も製造されたが、後にデスクトップ型は廃止となった。RシリーズやUシリーズのような[ATX](../Page/ATX.md "wikilink")規格の機種を除いてオリジナル筐体が多い。
 
 「縦置きのミニタワー型」（正確にはマイクロタワー型）というスタイルを一般的にしたのは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に登場したVALUESTAR NX（当時の型番のPC-VC型とPC-VE型がこのスタイルであった）であり、当時はそのスリムな本体が注目を集めた。その後、具体的にモデルの差を表すため、VALUESTARの後ろのNXの代わりにCやTといったアルファベットが付けられるようになった。ちなみに、2004年夏モデルまでのLシリーズにはマイクロタワー型のVALUESTAR NXの面影があったが、LシリーズがTシリーズを吸収し、デザインも大きく変更されたため、今はその面影を見ることは出来ない。
 
-最近では3D映像([3次元映像](../Page/3次元映像.md "wikilink"))の視聴に対応した機種もあり、[TVチューナー](../Page/TVチューナー.md "wikilink")([デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink"))搭載機では[リモコン](https://ja.wikipedia.org/wiki/リモコン "wikilink")を使用し、[テレビ](../Page/テレビ.md "wikilink")や[DVD](../Page/DVD.md "wikilink")と同じ感覚で[ストリーミング](../Page/ストリーミング.md "wikilink")放送を視聴できた。
+最近では3D映像([3次元映像](../Page/3次元映像.md "wikilink"))の視聴に対応した機種もあり、[TVチューナー](../Page/TVチューナー.md "wikilink")([デジタルチューナー](https://ja.wikipedia.org/wiki/デジタルチューナー "wikilink"))搭載機では[リモコン](../Page/リモコン.md "wikilink")を使用し、[テレビ](../Page/テレビ.md "wikilink")や[DVD](../Page/DVD.md "wikilink")と同じ感覚で[ストリーミング](../Page/ストリーミング.md "wikilink")放送を視聴できた。
 
 ### LAVIEへのブランド統合
 
@@ -39,7 +39,7 @@
 
   - [LaVie](https://ja.wikipedia.org/wiki/LaVie "wikilink")
   - [ValueOne](../Page/ValueOne.md "wikilink")
-  - [Mate](https://ja.wikipedia.org/wiki/Mate_\(デスクトップパソコン\) "wikilink")
+  - [Mate](../Page/Mate_\(デスクトップパソコン\).md "wikilink")
   - [FMV](../Page/FMV.md "wikilink")
   - [海老沢泰久](../Page/海老沢泰久.md "wikilink") - 作家。1996年、本機種と[Aile](../Page/Aile.md "wikilink")用にマニュアルを執筆し、後に書籍（NECクリエイティブ）として出版された。
 

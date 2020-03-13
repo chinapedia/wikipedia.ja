@@ -7,7 +7,7 @@
 
   - タイトルが表すように、歌詞は全編[関西弁](https://ja.wikipedia.org/wiki/関西弁 "wikilink")、[メロディ](../Page/メロディ.md "wikilink")部分はほぼ[台詞](../Page/台詞.md "wikilink")という異色な楽曲である。内容は**浪速の商人**をモチーフにしたものとなっており、[コミックソング](../Page/コミックソング.md "wikilink")の要素すら覗かせる楽曲である。歌詞はすべて関西弁であるものの、SMAPは全員[関東](../Page/関東.md "wikilink")地区の出身である。なお作詞者の[庄野賢一](https://ja.wikipedia.org/wiki/庄野賢一 "wikilink")は[神戸市](../Page/神戸市.md "wikilink")出身である。
   - 当時、まだデビュー前のJr.時代でSMAPのバックで踊っていた[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")出身の[KinKi Kidsに関西弁のイントネーションを教わってもらっていたという](../Page/KinKi_Kids.md "wikilink")。また、この曲の紹介はKinKi Kidsの二人がしていた。
-  - CDデビューから丸3年、12枚目のシングルにして初の[オリコンシングルチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「泣きたい気持ち」がメンバー出演の[映画](../Page/映画.md "wikilink")『[シュート\!](https://ja.wikipedia.org/wiki/シュート! "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")、タイトル曲は同挿入歌ともなり、映画と共にヒットした。
+  - CDデビューから丸3年、12枚目のシングルにして初の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「泣きたい気持ち」がメンバー出演の[映画](../Page/映画.md "wikilink")『[シュート\!](../Page/シュート!.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")、タイトル曲は同挿入歌ともなり、映画と共にヒットした。
   - もともとc/wの「泣きたい気持ち」はメンバーの[中居正広](../Page/中居正広.md "wikilink")のソロ曲だった（『[SMAP 004](../Page/SMAP_004.md "wikilink")』に収録）
   - レコーディング前の打ち合わせで、新曲として「Hey Hey おおきに毎度あり」を受け取った際、メンバー誰もが「ダッセー\!\!」「こんなの売れるかよっ\!\!」と曲に対してかなり否定的だったものの、前述の通り、この曲がSMAP初のオリコンシングルチャート1位を記録。なお、稲垣だけはこの曲を気に入り、ヒットを予想していたという。
   - メンバー全員にソロパートがある。シングルで6人全員ソロパートがあるのはこの曲のみ。メンバーが5人体勢になってからは森のパートを[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")が担当している。
@@ -23,7 +23,7 @@
       -
         作詞:[庄野賢一](https://ja.wikipedia.org/wiki/庄野賢一 "wikilink")・えのきみちこ　作曲・編曲:庄野賢一
     <!-- end list -->
-      - SMAP主演 映画「[シュート\!](https://ja.wikipedia.org/wiki/シュート! "wikilink")」挿入歌
+      - SMAP主演 映画「[シュート\!](../Page/シュート!.md "wikilink")」挿入歌
       - SMAP出演 [ワニブックス](../Page/ワニブックス.md "wikilink")「SMAP YEAR BOOK 1993-1994」CMソング
       - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")」オープニング・テーマ
 2.  **[泣きたい気持ち](../Page/SMAP_004.md "wikilink")**

@@ -7,7 +7,7 @@
 
 同番組は、同局の[深夜放送](../Page/深夜放送.md "wikilink")『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』放送開始30周年を記念して、ナイターオフシーズンの半年間限定で放送された番組であり、番組[パーソナリティも](../Page/ラジオパーソナリティ.md "wikilink")1970～80年代に『オールナイトニッポン』のパーソナリティを務めた有名人が担当していた。また番組内でのジングルも、かつて『オールナイトニッポン』で使用されていたもの（そのうち、初期の「ビバ\!ヤング」のフレーズが入ったものと、20周年記念で制作した[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")のジングルは本番組放送にあたりフレーズなどを変えて新規製作されている。）が流されていた。
 
-しかし同時間帯にニッポン放送では、これまでのナイターオフシーズン同様に『[ヨッ\!お疲れさん](https://ja.wikipedia.org/wiki/ヨッ!お疲れさん "wikilink")』が地方局向けに[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")で制作されており\[1\]、多くの地方局では『オールナイトニッポンDX』よりも『ヨッ\!お疲れさん』をネットしている局のほうが多かった\[2\]。
+しかし同時間帯にニッポン放送では、これまでのナイターオフシーズン同様に『[ヨッ\!お疲れさん](../Page/ヨッ!お疲れさん.md "wikilink")』が地方局向けに[裏送り](../Page/裏送り.md "wikilink")で制作されており\[1\]、多くの地方局では『オールナイトニッポンDX』よりも『ヨッ\!お疲れさん』をネットしている局のほうが多かった\[2\]。
 
 ニッポン放送では、同番組の中で19時台に[サントリー](../Page/サントリー.md "wikilink")が[スポンサー](../Page/スポンサー.md "wikilink")を務めていたが、その[CMではかつて](../Page/コマーシャルメッセージ.md "wikilink")『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』のパーソナリティを務めた有名人（おもにアナウンサーをはじめとするニッポン放送職員\[3\]）が、当時の思い出や[ウイスキー](../Page/ウイスキー.md "wikilink")について語っており、**オールナイトウイスキー**や**ビバウイスキー**などといった[ジングル](https://ja.wikipedia.org/wiki/ジングル "wikilink")がCM中に使用されていた。
 
@@ -19,7 +19,7 @@
 
 ### 火曜日
 
-**[ねのね](../Page/あのねのね.md "wikilink")**（あのねのねの[原田伸郎](https://ja.wikipedia.org/wiki/原田伸郎 "wikilink")\[4\]）
+**[ねのね](../Page/あのねのね.md "wikilink")**（あのねのねの[原田伸郎](../Page/原田伸郎.md "wikilink")\[4\]）
 
 ### 水曜日
 
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - 10日 - [カメ&アンコー](https://ja.wikipedia.org/wiki/カメ&アンコー "wikilink")（[亀淵昭信](https://ja.wikipedia.org/wiki/亀淵昭信 "wikilink")、[斉藤安弘](../Page/斉藤安弘.md "wikilink")）、17日 - [笑福亭鶴光](../Page/笑福亭鶴光.md "wikilink")、24日 - [ビートたけし](../Page/ビートたけし.md "wikilink")、31日 - [サンプラザ中野](https://ja.wikipedia.org/wiki/サンプラザ中野くん "wikilink")
+  - 10日 - [カメ&アンコー](https://ja.wikipedia.org/wiki/カメ&アンコー "wikilink")（[亀淵昭信](https://ja.wikipedia.org/wiki/亀淵昭信 "wikilink")、[斉藤安弘](../Page/斉藤安弘.md "wikilink")）、17日 - [笑福亭鶴光](../Page/笑福亭鶴光.md "wikilink")、24日 - [ビートたけし](../Page/ビートたけし.md "wikilink")、31日 - [サンプラザ中野](../Page/サンプラザ中野くん.md "wikilink")
 
 <!-- end list -->
 
@@ -106,9 +106,9 @@
       - [亀淵昭信のオールナイトニッポン](https://ja.wikipedia.org/wiki/亀淵昭信のオールナイトニッポン "wikilink")
       - [笑福亭鶴光のオールナイトニッポン](../Page/笑福亭鶴光のオールナイトニッポン.md "wikilink")
       - [ビートたけしのオールナイトニッポン](../Page/ビートたけしのオールナイトニッポン.md "wikilink")
-      - [デーモン小暮のオールナイトニッポン](https://ja.wikipedia.org/wiki/デーモン小暮のオールナイトニッポン "wikilink")
+      - [デーモン小暮のオールナイトニッポン](../Page/デーモン小暮のオールナイトニッポン.md "wikilink")
       - [坂崎幸之助のオールナイトニッポン](../Page/坂崎幸之助のオールナイトニッポン.md "wikilink")
-      - [渡辺美里のオールナイトニッポン](https://ja.wikipedia.org/wiki/渡辺美里のオールナイトニッポン "wikilink")
+      - [渡辺美里のオールナイトニッポン](../Page/渡辺美里のオールナイトニッポン.md "wikilink")
   - [セイ\!ヤング21](../Page/セイ!ヤング21.md "wikilink")
 
 ## 脚注

@@ -1,7 +1,7 @@
 > この記事は[ANA](https://ja.wikipedia.org/wiki/ANA)から翻訳されています。
 
 
-[200px](https://ja.wikipedia.org/wiki/ファイル:Shiodome_City_Center_2012.JPG "wikilink")（[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）\]\] **ANAグループ**（エーエヌエーグループ）は、[純粋持株会社である](../Page/持株会社.md "wikilink")[ANAホールディングス](https://ja.wikipedia.org/wiki/ANAホールディングス "wikilink")株式会社、およびその子会社で日本の大手[航空会社](../Page/航空会社.md "wikilink")である[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）を中心とする企業グループである。2018年3月末現在で[連結子会社](https://ja.wikipedia.org/wiki/連結子会社 "wikilink")126社、関連会社45社から構成される\[1\]。グループ行動指針は「あんしん、あったか、あかるく元気！」\[2\]。
+[200px](https://ja.wikipedia.org/wiki/ファイル:Shiodome_City_Center_2012.JPG "wikilink")（[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）\]\] **ANAグループ**（エーエヌエーグループ）は、[純粋持株会社である](../Page/持株会社.md "wikilink")[ANAホールディングス](https://ja.wikipedia.org/wiki/ANAホールディングス "wikilink")株式会社、およびその子会社で日本の大手[航空会社](../Page/航空会社.md "wikilink")である[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")（ANA）を中心とする企業グループである。2018年3月末現在で[連結子会社](../Page/連結子会社.md "wikilink")126社、関連会社45社から構成される\[1\]。グループ行動指針は「あんしん、あったか、あかるく元気！」\[2\]。
 
 ## 主なグループ会社一覧
 
@@ -18,7 +18,7 @@
   - [エアージャパン](../Page/エアージャパン.md "wikilink")
   - [バニラ・エア](https://ja.wikipedia.org/wiki/バニラ・エア "wikilink")（[LCC](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")）
   - [Peach Aviation](https://ja.wikipedia.org/wiki/Peach_Aviation "wikilink")（LCC）
-  - [スターフライヤー](https://ja.wikipedia.org/wiki/スターフライヤー "wikilink") - 持分法適用会社
+  - [スターフライヤー](../Page/スターフライヤー.md "wikilink") - 持分法適用会社
 
 ### 空港地上支援業務
 
@@ -118,11 +118,11 @@
   - [エアーセントラル](../Page/エアーセントラル.md "wikilink")
   - [エアーネクスト](../Page/エアーネクスト.md "wikilink")
   - [日本貨物航空](../Page/日本貨物航空.md "wikilink") - [日本郵船](../Page/日本郵船.md "wikilink")へ株式譲渡
-  - [オールニッポンヘリコプター](https://ja.wikipedia.org/wiki/オールニッポンヘリコプター "wikilink") - 2017年現在は[名鉄グループ](../Page/名鉄グループ.md "wikilink")
+  - [オールニッポンヘリコプター](../Page/オールニッポンヘリコプター.md "wikilink") - 2017年現在は[名鉄グループ](../Page/名鉄グループ.md "wikilink")
 
 #### その他
 
-  - [全日空スポーツ](../Page/全日空スポーツ.md "wikilink") - [全日空横浜サッカークラブ](https://ja.wikipedia.org/wiki/全日空横浜サッカークラブ "wikilink")→[横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")の運営会社
+  - [全日空スポーツ](../Page/全日空スポーツ.md "wikilink") - [全日空横浜サッカークラブ](../Page/全日空横浜サッカークラブ.md "wikilink")→[横浜フリューゲルス](../Page/横浜フリューゲルス.md "wikilink")の運営会社
   - [イースタン・エアポート・モータース](https://ja.wikipedia.org/wiki/イースタン・エアポート・モータース "wikilink") - 2011年に、ANAの岡山地区総代理店である[両備ホールディングス](../Page/両備ホールディングス.md "wikilink")傘下へ
   - [全日空整備](../Page/全日空整備.md "wikilink")
 

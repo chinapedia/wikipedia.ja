@@ -1,7 +1,7 @@
 > この記事は[FNNKANSAI](https://ja.wikipedia.org/wiki/FNNKANSAI)から翻訳されています。
 
 
-『**FNNスーパーニュースほっとKANSAI**』（エフエヌエヌスーパーニュースほっとカンサイ）は、[関西テレビで](../Page/関西テレビ放送.md "wikilink")[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までに放送された[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方の[関西ローカル](https://ja.wikipedia.org/wiki/関西ローカル "wikilink")[ワイドニュース番組](../Page/報道番組.md "wikilink")。
+『**FNNスーパーニュースほっとKANSAI**』（エフエヌエヌスーパーニュースほっとカンサイ）は、[関西テレビで](../Page/関西テレビ放送.md "wikilink")[2001年](../Page/2001年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")までに放送された[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方の[関西ローカル](../Page/関西ローカル.md "wikilink")[ワイドニュース番組](../Page/報道番組.md "wikilink")。
 
 ## 番組概要
 
@@ -101,7 +101,7 @@
 <td><p>2001.4.2</p></td>
 <td><p>2002.3.29</p></td>
 <td><p><a href="../Page/豊田康雄.md" title="wikilink">豊田康雄</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/林部香織" title="wikilink">林部香織</a></p></td>
+<td><p><a href="../Page/林部香織.md" title="wikilink">林部香織</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2002.4.1</p></td>
@@ -113,7 +113,7 @@
 <td><p>2003.9.29</p></td>
 <td><p>2005.3.25</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/村西利恵" title="wikilink">村西利恵</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/林弘典" title="wikilink">林弘典</a></p></td>
+<td><p><a href="../Page/林弘典.md" title="wikilink">林弘典</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005.3.28</p></td>
@@ -149,7 +149,7 @@
 
 ### 週末版（関西ローカル）キャスター
 
-  - [岡本栄](https://ja.wikipedia.org/wiki/岡本栄 "wikilink")
+  - [岡本栄](../Page/岡本栄.md "wikilink")
   - [若田部克彦](../Page/若田部克彦.md "wikilink")
   - [梅田淳](../Page/梅田淳.md "wikilink")
   - 林弘典

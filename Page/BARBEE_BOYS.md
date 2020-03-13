@@ -5,15 +5,15 @@
 
 ## 概要
 
-メンバーは[KONTA](https://ja.wikipedia.org/wiki/KONTA "wikilink")（近藤敦）、[杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")、[いまみちともたか](../Page/いまみちともたか.md "wikilink")（イマサ）、[ENRIQUE](https://ja.wikipedia.org/wiki/ENRIQUE "wikilink")、小沼俊昭（コイソ）の5人。KONTAと杏子による男女混声ツインボーカルが特徴。
+メンバーは[KONTA](../Page/KONTA.md "wikilink")（近藤敦）、[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")、[いまみちともたか](../Page/いまみちともたか.md "wikilink")（イマサ）、[ENRIQUE](https://ja.wikipedia.org/wiki/ENRIQUE "wikilink")、小沼俊昭（コイソ）の5人。KONTAと杏子による男女混声ツインボーカルが特徴。
 
 バンド名は、いまみちによると酒場でたむろするゴロツキの意味「barfly」と付けたかったが、「fly」が「ハエ」とあまり品がないため「ハチ」を意味する「bee」に変えたことに由来するとしているものの\[1\]、ある時の打ち上げでKONTAが持ち込んだ[バービー人形](https://ja.wikipedia.org/wiki/バービー人形 "wikilink")に由来するとも語っている\[2\]。なお、女性を含むにも拘らず「BOYS」を名乗るのは杏子が加入する前はメンバーが全員男性であったため。アマチュア時代は女性視点のパートは顔を白塗りにしたKONTAが歌っていた\[3\]。1983年にライブハウスで[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")を行った際、男女の掛け合いボーカル曲（実は杏子を勧誘するために作った楽曲）の女性パートを杏子にゲストボーカルとして歌って貰った。その模様を録音し、オーディション応募のデモテープとしたことがきっかけとなり、のちに彼女も正式加入することになった。
 
-ライブはサポートメンバーをつけず（スタジオ録音では一部の曲に[PSY・S](https://ja.wikipedia.org/wiki/PSY・S "wikilink")の[松浦雅也](../Page/松浦雅也.md "wikilink")がキーボードで参加しているが）、解散まで杏子以外の4人での演奏を貫いた。男女ツインボーカルを活かし、男女間の痴話をぶつけ合う歌詞とトリッキーなサウンドの楽曲はバービーボーイズの個性であり強みである。その独特なカラーに影響されたアーティストは多く、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")や[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")などが公言している。中でもバンドの[グループ魂](../Page/グループ魂.md "wikilink")は、ゲストボーカルに杏子を迎え、リスペクトしたオリジナル曲「片付けられない7Days」を制作。いまみちにも絶賛されている。
+ライブはサポートメンバーをつけず（スタジオ録音では一部の曲に[PSY・S](../Page/PSY・S.md "wikilink")の[松浦雅也](../Page/松浦雅也.md "wikilink")がキーボードで参加しているが）、解散まで杏子以外の4人での演奏を貫いた。男女ツインボーカルを活かし、男女間の痴話をぶつけ合う歌詞とトリッキーなサウンドの楽曲はバービーボーイズの個性であり強みである。その独特なカラーに影響されたアーティストは多く、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")や[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")などが公言している。中でもバンドの[グループ魂](../Page/グループ魂.md "wikilink")は、ゲストボーカルに杏子を迎え、リスペクトしたオリジナル曲「片付けられない7Days」を制作。いまみちにも絶賛されている。
 
 ## 略歴
 
-[1982年](../Page/1982年.md "wikilink")7月結成。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")11月、[CBSソニーのSDオーディションにてグランプリを受賞](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。[1984年](../Page/1984年.md "wikilink")9月、シングル「暗闇でDANCE」でメジャーデビュー。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にリリースしたシングル「女ぎつねon the Run」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")の[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")に起用される。
+[1982年](../Page/1982年.md "wikilink")7月結成。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")11月、[CBSソニーのSDオーディションにてグランプリを受賞](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。[1984年](../Page/1984年.md "wikilink")9月、シングル「暗闇でDANCE」でメジャーデビュー。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にリリースしたシングル「女ぎつねon the Run」が[三ツ矢サイダー](../Page/三ツ矢サイダー.md "wikilink")の[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")に起用される。
 
 初めてのTV出演はテレビ岩手の『ザ・テレビジョン』。この日2人で1本のマイクを使用し、寄り添いながらのカラオケライブを披露。
 
@@ -29,9 +29,9 @@ KONTAは、1988年7月2日公開の映画『・ふ・た・り・ぼ・っ・ち
 
 [2003年](../Page/2003年.md "wikilink")2月、[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")25周年記念イベント『[LIVE EPIC 25](../Page/LIVE_EPIC_25.md "wikilink")』限定で再結成を果たした。しかし、バンド側の意向で、その際の映像は2009年まで公開されず、同イベントの[NHKでのライブ番組放送時や](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、同イベントを記録した[DVD](../Page/DVD.md "wikilink")にも収録されていない\[5\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")、[関西テレビ](../Page/関西テレビ放送.md "wikilink")・フジテレビ系「[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")名曲歌謡祭」で、**ついうっかり**（いまみち弁）一夜限りの復活。「女ぎつねon the Run」を歌った。しかし、TV局側の都合で披露できるのは1曲のみであったためメンバー間で消化不良感が残ったことから、[8月15日](../Page/8月15日.md "wikilink")に「[RISING SUN ROCK FESTIVAL 2008 in EZO](https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル "wikilink")」、[8月23日](../Page/8月23日.md "wikilink")に「[SOUND MARINA 2008](https://ja.wikipedia.org/wiki/SOUND_MARINA "wikilink")」にも出演した。結果的にこの出演が翌年以降の布石となる。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月21日](../Page/4月21日.md "wikilink")、[関西テレビ](../Page/関西テレビ放送.md "wikilink")・フジテレビ系「[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")名曲歌謡祭」で、**ついうっかり**（いまみち弁）一夜限りの復活。「女ぎつねon the Run」を歌った。しかし、TV局側の都合で披露できるのは1曲のみであったためメンバー間で消化不良感が残ったことから、[8月15日](../Page/8月15日.md "wikilink")に「[RISING SUN ROCK FESTIVAL 2008 in EZO](../Page/ライジング・サン・ロックフェスティバル.md "wikilink")」、[8月23日](../Page/8月23日.md "wikilink")に「[SOUND MARINA 2008](https://ja.wikipedia.org/wiki/SOUND_MARINA "wikilink")」にも出演した。結果的にこの出演が翌年以降の布石となる。
 
-[2009年](../Page/2009年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")からデビュー25周年を記念して全国4か所（福岡、東京（2公演）、名古屋、大阪）の[Zepp](https://ja.wikipedia.org/wiki/Zepp "wikilink")で全国ツアー「Re:BARBEE BOYS」が行われ、新曲も披露された。
+[2009年](../Page/2009年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")からデビュー25周年を記念して全国4か所（福岡、東京（2公演）、名古屋、大阪）の[Zepp](../Page/Zepp.md "wikilink")で全国ツアー「Re:BARBEE BOYS」が行われ、新曲も披露された。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月26日](../Page/2月26日.md "wikilink")から全国ツアー「Bcc:from BARBEE BOYS AD2010」が全国4ヶ所(5公演)で行われ、千秋楽の[3月7日](../Page/3月7日.md "wikilink")には21年ぶりに[日本武道館](../Page/日本武道館.md "wikilink")でライブを行った。
 
@@ -39,15 +39,15 @@ KONTAは、1988年7月2日公開の映画『・ふ・た・り・ぼ・っ・ち
 
 [2018年](../Page/2018年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")で公開収録された[NHK BSプレミアムの](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「The Covers'Fes.2018」で8年ぶりに一夜限りの復活。「目を閉じておいでよ」と「女ぎつねon the Run」を歌った。コンタやいまみちの弁によると、たまたま全員のスケジュールが合っただけとのこと。
 
-[2019年](../Page/2019年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")、同年12月18日に29年ぶりの新曲「PlanBee」をリリースすることを発表\[6\]。
+[2019年](../Page/2019年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")、同年12月18日に29年ぶりの新曲「PlanBee」をリリースすることを発表\[6\]。
 
 2020年1月13日（月・祝）、国立代々木競技場第一体育館（東京都）にてワンマンライブ『突然こんなところは嫌いかい？』を開催する\[7\]。
 
 ## メンバー
 
-  - **[KONTA](https://ja.wikipedia.org/wiki/KONTA "wikilink")**（コンタ、本名:近藤敦、[1960年](../Page/1960年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") - 血液型O）
+  - **[KONTA](../Page/KONTA.md "wikilink")**（コンタ、本名:近藤敦、[1960年](../Page/1960年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") - 血液型O）
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ソプラノサックス担当](../Page/サクソフォーン.md "wikilink")。作詞・作曲も行う。
-  - **[杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")**（きょうこ、1960年[8月10日](../Page/8月10日.md "wikilink") - 血液型A）
+  - **[杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")**（きょうこ、1960年[8月10日](../Page/8月10日.md "wikilink") - 血液型A）
       - ボーカル、ダンス担当。オーディション直前に加入\[8\]。わずかだが、作詞も担当。
   - **[いまみちともたか](../Page/いまみちともたか.md "wikilink")**（[1959年](../Page/1959年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") - 血液型AB）
       - バンドリーダー。[ギター](../Page/ギター.md "wikilink")、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。愛称は「イマサ」。ほとんどの曲の作詞・作曲を担当。
@@ -60,7 +60,7 @@ KONTAは、1988年7月2日公開の映画『・ふ・た・り・ぼ・っ・ち
 ### 元メンバー
 
   - **[安部隆雄](https://ja.wikipedia.org/wiki/安部王子 "wikilink")**（あべ たかお）
-      - ベース担当。愛称は「Ohji」\[9\]。デビューアルバムレコーディング中に脱退。その後は[PSY・S](https://ja.wikipedia.org/wiki/PSY・S "wikilink")のサポートなどを展開。
+      - ベース担当。愛称は「Ohji」\[9\]。デビューアルバムレコーディング中に脱退。その後は[PSY・S](../Page/PSY・S.md "wikilink")のサポートなどを展開。
 
 ### 杏子の加入経緯
 

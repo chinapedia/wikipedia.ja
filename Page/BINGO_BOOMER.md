@@ -1,7 +1,7 @@
 > この記事は[BINGO BOOMER](https://ja.wikipedia.org/wiki/BINGO_BOOMER)から翻訳されています。
 
 
-**BINGO BOOMER**（**ビンゴブーマー**）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[ビンゴ](https://ja.wikipedia.org/wiki/ビンゴ "wikilink")ゲームとして[2000年](../Page/2000年.md "wikilink")に発売された。
+**BINGO BOOMER**（**ビンゴブーマー**）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")の[メダルゲーム](../Page/メダルゲーム.md "wikilink")で、[ビンゴ](../Page/ビンゴ.md "wikilink")ゲームとして[2000年](../Page/2000年.md "wikilink")に発売された。
 
 ## 概要
 

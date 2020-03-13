@@ -23,9 +23,9 @@
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月　全車に運転席エアバッグが標準装備。グレード体系の見直しでグランデール系のみへ。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月\[1\]　前年の[カペラのフルモデルチェンジによる車種整理とオーダーストップのため](https://ja.wikipedia.org/wiki/マツダ・カペラ "wikilink")、生産終了。以降は在庫対応分のみの販売となる。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")3月\[1\]　前年の[カペラのフルモデルチェンジによる車種整理とオーダーストップのため](../Page/マツダ・カペラ.md "wikilink")、生産終了。以降は在庫対応分のみの販売となる。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月 在庫対応分がすべて完売し販売終了。[クロノスファミリーの中では最後まで生産された車種でもあった](https://ja.wikipedia.org/wiki/マツダ・クロノス "wikilink")。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月 在庫対応分がすべて完売し販売終了。[クロノスファミリーの中では最後まで生産された車種でもあった](../Page/マツダ・クロノス.md "wikilink")。
 
 <File:Ẽfini> MS-8 001.JPG|後期型 フロント <File:Ẽfini> MS-8 002.JPG|後期型 リア
 
@@ -40,11 +40,11 @@
 ## 関連項目
 
   - [マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")
-  - [マツダ・クロノス](https://ja.wikipedia.org/wiki/マツダ・クロノス "wikilink")
+  - [マツダ・クロノス](../Page/マツダ・クロノス.md "wikilink")
   - [マツダ・アンフィニMS-9](../Page/マツダ・アンフィニMS-9.md "wikilink")
-  - [マツダ・アンフィニMS-6](https://ja.wikipedia.org/wiki/マツダ・アンフィニMS-6 "wikilink")
-  - [マツダ・MX-6](https://ja.wikipedia.org/wiki/マツダ・MX-6 "wikilink")
-  - [マツダ・ユーノス500](https://ja.wikipedia.org/wiki/マツダ・ユーノス500 "wikilink")
+  - [マツダ・アンフィニMS-6](../Page/マツダ・アンフィニMS-6.md "wikilink")
+  - [マツダ・MX-6](../Page/マツダ・MX-6.md "wikilink")
+  - [マツダ・ユーノス500](../Page/マツダ・ユーノス500.md "wikilink")
   - [マツダ・クレフ](../Page/マツダ・クレフ.md "wikilink")
   - [マツダ・ペルソナ](../Page/マツダ・ペルソナ.md "wikilink")
   - [マツダ・ミレーニア](../Page/マツダ・ミレーニア.md "wikilink")（←マツダ・ユーノス800）

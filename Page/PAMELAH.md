@@ -6,7 +6,7 @@
 ## メンバー
 
   - [水原由貴](../Page/水原由貴.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")・[作詞](../Page/作詞.md "wikilink")）
-  - [小澤正澄](../Page/小澤正澄.md "wikilink")（[ギター](../Page/ギター.md "wikilink")・[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")）
+  - [小澤正澄](../Page/小澤正澄.md "wikilink")（[ギター](../Page/ギター.md "wikilink")・[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")）
 
 ## 概要
 
@@ -14,7 +14,7 @@
 
 しかし、2000年以降は、2000年3月にボーカルの[水原由貴](../Page/水原由貴.md "wikilink")がソロシングルを発売したもののPAMELAHとしての表立った音楽活動は一切無くなり2001年に活動休止したとされる（実質的な解散）。2003年、『[complete of PAMELAH at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_PAMELAH_at_the_BEING_studio "wikilink")』発売後にファンクラブ会員に正式に活動停止が通知された。
 
-[オリコン調べによるCD売上は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、[シングル](../Page/シングル.md "wikilink")では7thシングル『[SPIRIT](../Page/SPIRIT_\(PAMELAHの曲\).md "wikilink")』の13.8万枚が自己最高\[1\]。[アルバム](../Page/アルバム.md "wikilink")では1stアルバム『[Truth](../Page/Truth_\(PAMELAHのアルバム\).md "wikilink")』から3rdアルバム『[SPIRIT](https://ja.wikipedia.org/wiki/SPIRIT_\(PAMELAHのアルバム\) "wikilink")』までいずれも20万枚前後\[2\]、ベストアルバム『[HIT COLLECTION -CONFIDENCE-](../Page/HIT_COLLECTION_-CONFIDENCE-.md "wikilink")』では25.2万枚\[3\]を記録している。
+[オリコン調べによるCD売上は](../Page/オリコンチャート.md "wikilink")、[シングル](../Page/シングル.md "wikilink")では7thシングル『[SPIRIT](../Page/SPIRIT_\(PAMELAHの曲\).md "wikilink")』の13.8万枚が自己最高\[1\]。[アルバム](../Page/アルバム.md "wikilink")では1stアルバム『[Truth](../Page/Truth_\(PAMELAHのアルバム\).md "wikilink")』から3rdアルバム『[SPIRIT](https://ja.wikipedia.org/wiki/SPIRIT_\(PAMELAHのアルバム\) "wikilink")』までいずれも20万枚前後\[2\]、ベストアルバム『[HIT COLLECTION -CONFIDENCE-](../Page/HIT_COLLECTION_-CONFIDENCE-.md "wikilink")』では25.2万枚\[3\]を記録している。
 
 ## デビュー当時の編成
 
@@ -27,7 +27,7 @@
 
 **GROOVE＆BODY UNIT**
 
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）　ユニット消滅後も、1997年頃まではTV出演時にバックバンドとして出演。
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）　ユニット消滅後も、1997年頃まではTV出演時にバックバンドとして出演。
   - 牟田昌広（[ドラム](../Page/ドラムセット.md "wikilink")）　元・マグネッツ。正確な時期は不明だが、2ndシングル発売以降に脱退したものと思われる。1997年にサティスファクションでデビュー、脱退。1999年に元・[黒夢](../Page/黒夢.md "wikilink")の[清春](../Page/清春.md "wikilink")と共に[SADS](../Page/SADS.md "wikilink")を結成。
   - 倉澤圭介（[ドラム](../Page/ドラムセット.md "wikilink")）　元・[DEEN](../Page/DEEN.md "wikilink")のメンバー。牟田の脱退後に、代わりにTV出演などをするも正式にメンバーに加入していたかは不明。
 

@@ -1,7 +1,7 @@
 > この記事は[JRA](https://ja.wikipedia.org/wiki/JRA)から翻訳されています。
 
 
-**JRA顕彰馬**（ジェイアールエーけんしょうば）とは、[中央競馬](https://ja.wikipedia.org/wiki/中央競馬 "wikilink")の発展に多大な貢献のあった[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")の功績を讃え、後世まで[顕彰](../Page/顕彰.md "wikilink")していくために日本中央競馬会30周年記念事業（昭和59年）の一環として制度を発足し[1984年](../Page/1984年.md "wikilink")に制定されたものである。
+**JRA顕彰馬**（ジェイアールエーけんしょうば）とは、[中央競馬](../Page/中央競馬.md "wikilink")の発展に多大な貢献のあった[競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")の功績を讃え、後世まで[顕彰](../Page/顕彰.md "wikilink")していくために日本中央競馬会30周年記念事業（昭和59年）の一環として制度を発足し[1984年](../Page/1984年.md "wikilink")に制定されたものである。
 
 顕彰競走馬は「殿堂入り」に相当する。
 
@@ -29,13 +29,13 @@
 
 この方式で最後に選出されたのは、[1999年](../Page/1999年.md "wikilink")の[タイキシャトル](../Page/タイキシャトル.md "wikilink")である。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には過去の競走馬に対する再度の選考を実施し[テンポイント](../Page/テンポイント.md "wikilink")、[コダマ](https://ja.wikipedia.org/wiki/コダマ_\(競走馬\) "wikilink")、[スピードシンボリ](https://ja.wikipedia.org/wiki/スピードシンボリ "wikilink")、[メイジヒカリ](https://ja.wikipedia.org/wiki/メイジヒカリ "wikilink")が選ばれている。これは制度制定時に[トウショウボーイ](../Page/トウショウボーイ.md "wikilink")を選出したにも関わらず、その宿敵であったテンポイントが選出されなかった事に対して関西圏を中心とする競馬ファンやマスコミ・関係者から批判がずっと繰り返されていた事が大きいとされるが、他にも産駒の活躍、他の選出馬との比較などで最初期の選考の時点と状況が大きく異なる馬が発生していたためである。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には過去の競走馬に対する再度の選考を実施し[テンポイント](../Page/テンポイント.md "wikilink")、[コダマ](../Page/コダマ_\(競走馬\).md "wikilink")、[スピードシンボリ](../Page/スピードシンボリ.md "wikilink")、[メイジヒカリ](https://ja.wikipedia.org/wiki/メイジヒカリ "wikilink")が選ばれている。これは制度制定時に[トウショウボーイ](../Page/トウショウボーイ.md "wikilink")を選出したにも関わらず、その宿敵であったテンポイントが選出されなかった事に対して関西圏を中心とする競馬ファンやマスコミ・関係者から批判がずっと繰り返されていた事が大きいとされるが、他にも産駒の活躍、他の選出馬との比較などで最初期の選考の時点と状況が大きく異なる馬が発生していたためである。
 
-また、[ダイナナホウシユウ](https://ja.wikipedia.org/wiki/ダイナナホウシユウ "wikilink")([皐月賞](../Page/皐月賞.md "wikilink")、[菊花賞](../Page/菊花賞.md "wikilink")、[天皇賞](https://ja.wikipedia.org/wiki/天皇賞 "wikilink"))、[タケホープ](https://ja.wikipedia.org/wiki/タケホープ "wikilink")([日本ダービー](https://ja.wikipedia.org/wiki/日本ダービー "wikilink")、菊花賞、天皇賞)、[グリーングラス](../Page/グリーングラス.md "wikilink")(菊花賞、天皇賞、[有馬記念](https://ja.wikipedia.org/wiki/有馬記念 "wikilink"))のように上記の条件を満たしながら顕彰入り出来なかった馬もいる。 特にダイナナホウシユウは今と違い大レースの数も少なく天皇賞が勝ち抜け制度だった時代に[八大競走](https://ja.wikipedia.org/wiki/八大競走 "wikilink")3勝、29戦23勝(うち60キロ以上の斤量で8勝)さらに中央競馬の連勝記録(11連勝)も保持するほどの、時代を代表する名馬だったが、最初に行われた1984年の顕彰馬選考時に選出濃厚とされながら、選考委員のひとりが小柄な馬格を指摘しサラブレッドとしての品格に欠けるとして強硬に反対したため選出されなかった。
+また、[ダイナナホウシユウ](../Page/ダイナナホウシユウ.md "wikilink")([皐月賞](../Page/皐月賞.md "wikilink")、[菊花賞](../Page/菊花賞.md "wikilink")、[天皇賞](https://ja.wikipedia.org/wiki/天皇賞 "wikilink"))、[タケホープ](../Page/タケホープ.md "wikilink")([日本ダービー](https://ja.wikipedia.org/wiki/日本ダービー "wikilink")、菊花賞、天皇賞)、[グリーングラス](../Page/グリーングラス.md "wikilink")(菊花賞、天皇賞、[有馬記念](https://ja.wikipedia.org/wiki/有馬記念 "wikilink"))のように上記の条件を満たしながら顕彰入り出来なかった馬もいる。 特にダイナナホウシユウは今と違い大レースの数も少なく天皇賞が勝ち抜け制度だった時代に[八大競走](../Page/八大競走.md "wikilink")3勝、29戦23勝(うち60キロ以上の斤量で8勝)さらに中央競馬の連勝記録(11連勝)も保持するほどの、時代を代表する名馬だったが、最初に行われた1984年の顕彰馬選考時に選出濃厚とされながら、選考委員のひとりが小柄な馬格を指摘しサラブレッドとしての品格に欠けるとして強硬に反対したため選出されなかった。
 
 ### 2001年 - 2003年
 
-[2001年](../Page/2001年.md "wikilink")からは現在とほぼ同じマスコミの投票による選考方法になったが、競走馬登録抹消からの年数制限はなかったため、[タケシバオー](https://ja.wikipedia.org/wiki/タケシバオー "wikilink")ら競走馬登録抹消20年以前の馬を推す古参の記者と、[エルコンドルパサー](https://ja.wikipedia.org/wiki/エルコンドルパサー "wikilink")、[スペシャルウィーク](../Page/スペシャルウィーク.md "wikilink")ら近年の馬を推す中堅の記者との間で票が分散する傾向にあった。
+[2001年](../Page/2001年.md "wikilink")からは現在とほぼ同じマスコミの投票による選考方法になったが、競走馬登録抹消からの年数制限はなかったため、[タケシバオー](../Page/タケシバオー.md "wikilink")ら競走馬登録抹消20年以前の馬を推す古参の記者と、[エルコンドルパサー](https://ja.wikipedia.org/wiki/エルコンドルパサー "wikilink")、[スペシャルウィーク](../Page/スペシャルウィーク.md "wikilink")ら近年の馬を推す中堅の記者との間で票が分散する傾向にあった。
 
 そして[2003年](../Page/2003年.md "wikilink")に投票対象となった[テイエムオペラオー](../Page/テイエムオペラオー.md "wikilink")が古馬中長距離GI完全制覇、最多タイのGI7勝、賞金世界記録などの実績を持ってしても75％の得票率をクリア出来ず落選。これに関してJRAのHPには抗議が殺到した。
 
@@ -43,7 +43,7 @@
 
 前年のテイエムオペラオーの落選を受けて、競走馬登録を抹消してから20年も経過しているとその当時を知る人間が少なくなること、繁殖馬としての評価が定まることなどから、競走馬登録抹消後長い年月を経ている馬を投票対象とする選定方法の見直しが行われ、投票対象が登録抹消から20年以内の馬と制限されることとなった。
 
-この選考方法では、2004年にテイエムオペラオー、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[ディープインパクト](https://ja.wikipedia.org/wiki/ディープインパクト_\(競走馬\) "wikilink")、[2011年](../Page/2011年.md "wikilink")に[ウオッカ](../Page/ウオッカ.md "wikilink")が選出された。
+この選考方法では、2004年にテイエムオペラオー、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[ディープインパクト](../Page/ディープインパクト_\(競走馬\).md "wikilink")、[2011年](../Page/2011年.md "wikilink")に[ウオッカ](../Page/ウオッカ.md "wikilink")が選出された。
 
 ### 2015年以降
 
@@ -71,7 +71,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クモハタ" title="wikilink">クモハタ</a></p></td>
+<td><p><a href="../Page/クモハタ.md" title="wikilink">クモハタ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1936年</p></td>
 <td><p>1984年</p></td>
@@ -86,26 +86,26 @@
 <td><p>1941年 - <a href="../Page/皐月賞.md" title="wikilink">横濱農林省賞典4歳呼馬</a>、東京優駿競走、<a href="../Page/菊花賞.md" title="wikilink">京都農商省賞典4歳呼馬</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/クリフジ" title="wikilink">クリフジ</a></p></td>
+<td><p><a href="../Page/クリフジ.md" title="wikilink">クリフジ</a></p></td>
 <td><p>牝</p></td>
 <td><p>1940年</p></td>
 <td><p>1984年</p></td>
 <td><p>1943年 - 東京優駿競走、<a href="https://ja.wikipedia.org/wiki/優駿牝馬" title="wikilink">阪神優駿牝馬</a>、京都農商省賞典4歳呼馬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/トキツカゼ" title="wikilink">トキツカゼ</a></p></td>
+<td><p><a href="../Page/トキツカゼ.md" title="wikilink">トキツカゼ</a></p></td>
 <td><p>牝</p></td>
 <td><p>1944年</p></td>
 <td><p>1984年</p></td>
 <td><p>1947年 - <a href="../Page/皐月賞.md" title="wikilink">農林省賞典</a>、<a href="https://ja.wikipedia.org/wiki/優駿牝馬" title="wikilink">優駿牝馬</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/トサミドリ" title="wikilink">トサミドリ</a></p></td>
+<td><p><a href="../Page/トサミドリ.md" title="wikilink">トサミドリ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1946年</p></td>
 <td><p>1984年</p></td>
 <td><p>1949年 - <a href="../Page/皐月賞.md" title="wikilink">皐月賞</a>、<a href="../Page/菊花賞.md" title="wikilink">菊花賞</a><br />
-<a href="https://ja.wikipedia.org/wiki/八大競走" title="wikilink">八大競走</a>勝ち馬7頭の父</p></td>
+<a href="../Page/八大競走.md" title="wikilink">八大競走</a>勝ち馬7頭の父</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/トキノミノル.md" title="wikilink">トキノミノル</a></p></td>
@@ -115,7 +115,7 @@
 <td><p>1951年 - 皐月賞、東京優駿</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/メイヂヒカリ" title="wikilink">メイヂヒカリ</a></p></td>
+<td><p><a href="../Page/メイヂヒカリ.md" title="wikilink">メイヂヒカリ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1952年</p></td>
 <td><p>1990年</p></td>
@@ -124,7 +124,7 @@
 1956年 - 天皇賞・春、<a href="https://ja.wikipedia.org/wiki/有馬記念" title="wikilink">中山グランプリ</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ハクチカラ" title="wikilink">ハクチカラ</a></p></td>
+<td><p><a href="../Page/ハクチカラ.md" title="wikilink">ハクチカラ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1953年</p></td>
 <td><p>1984年</p></td>
@@ -133,14 +133,14 @@
 1959年 - ワシントンバースデーハンデキャップ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/セイユウ" title="wikilink">セイユウ</a></p></td>
+<td><p><a href="../Page/セイユウ.md" title="wikilink">セイユウ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1954年</p></td>
 <td><p>1985年</p></td>
 <td><p>1957年 - <a href="../Page/読売カップ.md" title="wikilink">読売カップ</a>・春、<a href="../Page/セントライト記念.md" title="wikilink">セントライト記念</a>、読売カップ・秋</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/コダマ_(競走馬)" title="wikilink">コダマ</a></p></td>
+<td><p><a href="../Page/コダマ_(競走馬).md" title="wikilink">コダマ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1957年</p></td>
 <td><p>1990年</p></td>
@@ -156,7 +156,7 @@
 1965年 - <a href="https://ja.wikipedia.org/wiki/宝塚記念" title="wikilink">宝塚記念</a>、天皇賞・秋、有馬記念</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/スピードシンボリ" title="wikilink">スピードシンボリ</a></p></td>
+<td><p><a href="../Page/スピードシンボリ.md" title="wikilink">スピードシンボリ</a></p></td>
 <td><p>牡</p></td>
 <td><p>1963年</p></td>
 <td><p>1990年</p></td>
@@ -165,7 +165,7 @@
 1970年 - 宝塚記念、有馬記念</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/タケシバオー" title="wikilink">タケシバオー</a></p></td>
+<td><p><a href="../Page/タケシバオー.md" title="wikilink">タケシバオー</a></p></td>
 <td><p>牡</p></td>
 <td><p>1965年</p></td>
 <td><p>2004年</p></td>
@@ -173,7 +173,7 @@
 1969年 - 天皇賞・春、<a href="../Page/スプリンターズステークス.md" title="wikilink">英国フェア開催記念</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/グランドマーチス" title="wikilink">グランドマーチス</a></p></td>
+<td><p><a href="../Page/グランドマーチス.md" title="wikilink">グランドマーチス</a></p></td>
 <td><p>牡</p></td>
 <td><p>1969年</p></td>
 <td><p>1985年</p></td>
@@ -296,7 +296,7 @@
 2001年 - 天皇賞・春</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ディープインパクト_(競走馬)" title="wikilink">ディープインパクト</a></p></td>
+<td><p><a href="../Page/ディープインパクト_(競走馬).md" title="wikilink">ディープインパクト</a></p></td>
 <td><p>牡</p></td>
 <td><p>2002年</p></td>
 <td><p>2008年</p></td>
@@ -318,7 +318,7 @@
 <td><p>牡</p></td>
 <td><p>2008年</p></td>
 <td><p>2018年</p></td>
-<td><p>2012年 - スプリンターズステークス、<a href="https://ja.wikipedia.org/wiki/香港スプリント" title="wikilink">香港スプリント</a><br />
+<td><p>2012年 - スプリンターズステークス、<a href="../Page/香港スプリント.md" title="wikilink">香港スプリント</a><br />
 2013年 - <a href="https://ja.wikipedia.org/wiki/高松宮記念_(競馬)" title="wikilink">高松宮記念</a>、安田記念、スプリンターズステークス、香港スプリント</p></td>
 </tr>
 <tr class="even">
@@ -337,7 +337,7 @@
 <td><p>2016年</p></td>
 <td><p>2012年 - 桜花賞、優駿牝馬、<a href="https://ja.wikipedia.org/wiki/秋華賞" title="wikilink">秋華賞</a>、ジャパンカップ<br />
 2013年 - ジャパンカップ<br />
-2014年 - <a href="https://ja.wikipedia.org/wiki/ドバイシーマクラシック" title="wikilink">ドバイシーマクラシック</a>、有馬記念</p></td>
+2014年 - <a href="../Page/ドバイシーマクラシック.md" title="wikilink">ドバイシーマクラシック</a>、有馬記念</p></td>
 </tr>
 </tbody>
 </table>
@@ -370,8 +370,8 @@
   - 得票数内訳
       - [エルコンドルパサー](https://ja.wikipedia.org/wiki/エルコンドルパサー "wikilink") 60（45.4%）
       - [スペシャルウィーク](../Page/スペシャルウィーク.md "wikilink") 54 (40.9%）
-      - [タケシバオー](https://ja.wikipedia.org/wiki/タケシバオー "wikilink") 26 (19.6%)
-      - [マヤノトップガン](https://ja.wikipedia.org/wiki/マヤノトップガン "wikilink") 11 (8.3%)
+      - [タケシバオー](../Page/タケシバオー.md "wikilink") 26 (19.6%)
+      - [マヤノトップガン](../Page/マヤノトップガン.md "wikilink") 11 (8.3%)
       - [エアグルーヴ](../Page/エアグルーヴ.md "wikilink") 8 (6%)
 
 <!-- end list -->
@@ -431,8 +431,8 @@
       - エルコンドルパサー 119 (65.4%)
       - スペシャルウィーク 55 (30.2%)
       - [シンボリクリスエス](../Page/シンボリクリスエス.md "wikilink") 37 (20.3%)
-      - [アグネスデジタル](https://ja.wikipedia.org/wiki/アグネスデジタル "wikilink") 29 (15.9%)
-      - [ニホンピロウイナー](https://ja.wikipedia.org/wiki/ニホンピロウイナー "wikilink") 18 (9.9%)
+      - [アグネスデジタル](../Page/アグネスデジタル.md "wikilink") 29 (15.9%)
+      - [ニホンピロウイナー](../Page/ニホンピロウイナー.md "wikilink") 18 (9.9%)
       - [ミホノブルボン](../Page/ミホノブルボン.md "wikilink") 11 (6.0%)
       - 該当馬なし 83
       - 無効票 1
@@ -481,7 +481,7 @@
   - 選考対象馬：昭和62年4月1日から平成19年3月31日の間に競走馬登録を抹消した馬
   - 投票者数：186名（140票以上で選出）
   - 得票数内訳（上位5頭）
-      - **[ディープインパクト](https://ja.wikipedia.org/wiki/ディープインパクト_\(競走馬\) "wikilink")** 161 (86.6%)→顕彰馬に選出
+      - **[ディープインパクト](../Page/ディープインパクト_\(競走馬\).md "wikilink")** 161 (86.6%)→顕彰馬に選出
       - エルコンドルパサー 95に (51.1%)
       - スペシャルウィーク 26 (14.0%)
       - アグネスデジタル 7 (3.8%)
@@ -675,7 +675,7 @@
 
 ## ギャラリー
 
-ファイル:kumohata.jpg|[クモハタ](https://ja.wikipedia.org/wiki/クモハタ "wikilink") ファイル:StLite1.jpg|[セントライト](../Page/セントライト.md "wikilink") ファイル:Kurifuji.JPG|[クリフジ](https://ja.wikipedia.org/wiki/クリフジ "wikilink") ファイル:tokino_minoru.jpg|[トキノミノル](../Page/トキノミノル.md "wikilink") ファイル:Meiji hikari.jpg|[メイヂヒカリ](https://ja.wikipedia.org/wiki/メイヂヒカリ "wikilink") ファイル:Hakuchikara.jpg|[ハクチカラ](https://ja.wikipedia.org/wiki/ハクチカラ "wikilink") ファイル:Shinzan in Tanigawa Farm.JPG|[シンザン](../Page/シンザン.md "wikilink") ファイル:Statue of Haiseiko 001ja.jpg|[ハイセイコー](../Page/ハイセイコー.md "wikilink") ファイル:Mrcb19831113.jpg|[ミスターシービー](../Page/ミスターシービー.md "wikilink") ファイル:Symboli rudolf.jpg|[シンボリルドルフ](../Page/シンボリルドルフ.md "wikilink") <File:mejiro> r.jpg|[メジロラモーヌ](../Page/メジロラモーヌ.md "wikilink") <File:Oguri> Cap in Yushun Stallion station.jpg|[オグリキャップ](../Page/オグリキャップ.md "wikilink") ファイル:Mejiromakkui-n.JPG|[メジロマックイーン](../Page/メジロマックイーン.md "wikilink") ファイル:Tokai_Teio_20000923F01.jpg|[トウカイテイオー](../Page/トウカイテイオー.md "wikilink") ファイル:Narita Brian 19960309R1.jpg|[ナリタブライアン](../Page/ナリタブライアン.md "wikilink") ファイル:Taiki Shuttle.jpg|[タイキシャトル](../Page/タイキシャトル.md "wikilink") ファイル:El_Condor_Pasa_19991128I1.jpg|[エルコンドルパサー](https://ja.wikipedia.org/wiki/エルコンドルパサー "wikilink") ファイル:TM Opera O.jpg|[テイエムオペラオー](../Page/テイエムオペラオー.md "wikilink") ファイル:Deep_Impact(horse)20060430R1.jpg|[ディープインパクト](https://ja.wikipedia.org/wiki/ディープインパクト_\(競走馬\) "wikilink") ファイル:Vodka(horse)_20070527R1.jpg|[ウオッカ](../Page/ウオッカ.md "wikilink") ファイル:Orfevre20111225(2).jpg|[オルフェーヴル](https://ja.wikipedia.org/wiki/オルフェーヴル "wikilink") <File:Gentildonna> Arima Kinen 2014(IMG2).jpg|[ジェンティルドンナ](https://ja.wikipedia.org/wiki/ジェンティルドンナ "wikilink") <File:Lord> Kanaloa Sprinters Stakes 2013(IMG1).jpg|[ロードカナロア](https://ja.wikipedia.org/wiki/ロードカナロア "wikilink")
+ファイル:kumohata.jpg|[クモハタ](../Page/クモハタ.md "wikilink") ファイル:StLite1.jpg|[セントライト](../Page/セントライト.md "wikilink") ファイル:Kurifuji.JPG|[クリフジ](../Page/クリフジ.md "wikilink") ファイル:tokino_minoru.jpg|[トキノミノル](../Page/トキノミノル.md "wikilink") ファイル:Meiji hikari.jpg|[メイヂヒカリ](../Page/メイヂヒカリ.md "wikilink") ファイル:Hakuchikara.jpg|[ハクチカラ](../Page/ハクチカラ.md "wikilink") ファイル:Shinzan in Tanigawa Farm.JPG|[シンザン](../Page/シンザン.md "wikilink") ファイル:Statue of Haiseiko 001ja.jpg|[ハイセイコー](../Page/ハイセイコー.md "wikilink") ファイル:Mrcb19831113.jpg|[ミスターシービー](../Page/ミスターシービー.md "wikilink") ファイル:Symboli rudolf.jpg|[シンボリルドルフ](../Page/シンボリルドルフ.md "wikilink") <File:mejiro> r.jpg|[メジロラモーヌ](../Page/メジロラモーヌ.md "wikilink") <File:Oguri> Cap in Yushun Stallion station.jpg|[オグリキャップ](../Page/オグリキャップ.md "wikilink") ファイル:Mejiromakkui-n.JPG|[メジロマックイーン](../Page/メジロマックイーン.md "wikilink") ファイル:Tokai_Teio_20000923F01.jpg|[トウカイテイオー](../Page/トウカイテイオー.md "wikilink") ファイル:Narita Brian 19960309R1.jpg|[ナリタブライアン](../Page/ナリタブライアン.md "wikilink") ファイル:Taiki Shuttle.jpg|[タイキシャトル](../Page/タイキシャトル.md "wikilink") ファイル:El_Condor_Pasa_19991128I1.jpg|[エルコンドルパサー](https://ja.wikipedia.org/wiki/エルコンドルパサー "wikilink") ファイル:TM Opera O.jpg|[テイエムオペラオー](../Page/テイエムオペラオー.md "wikilink") ファイル:Deep_Impact(horse)20060430R1.jpg|[ディープインパクト](../Page/ディープインパクト_\(競走馬\).md "wikilink") ファイル:Vodka(horse)_20070527R1.jpg|[ウオッカ](../Page/ウオッカ.md "wikilink") ファイル:Orfevre20111225(2).jpg|[オルフェーヴル](https://ja.wikipedia.org/wiki/オルフェーヴル "wikilink") <File:Gentildonna> Arima Kinen 2014(IMG2).jpg|[ジェンティルドンナ](https://ja.wikipedia.org/wiki/ジェンティルドンナ "wikilink") <File:Lord> Kanaloa Sprinters Stakes 2013(IMG1).jpg|[ロードカナロア](https://ja.wikipedia.org/wiki/ロードカナロア "wikilink")
 
 ## 追悼競走
 

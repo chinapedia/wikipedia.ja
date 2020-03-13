@@ -98,18 +98,18 @@
   - ラミーカ・リィ - [木藤聡子](../Page/木藤聡子.md "wikilink")
   - 麗銀星 - [曽我部和恭](https://ja.wikipedia.org/wiki/曽我部和恭 "wikilink")
   - グレコ・ローマン - [屋良有作](../Page/屋良有作.md "wikilink")
-  - ピーター・フェリンゴ - [清川元夢](https://ja.wikipedia.org/wiki/清川元夢 "wikilink")
+  - ピーター・フェリンゴ - [清川元夢](../Page/清川元夢.md "wikilink")
   - ミドウィッチの蛇女 - [弥永和子](../Page/弥永和子.md "wikilink")、[榊原良子](../Page/榊原良子.md "wikilink")
   - ローマン村長 - [村松康雄](../Page/村松康雄.md "wikilink")
-  - ルーク・ダントン - [徳丸完](https://ja.wikipedia.org/wiki/徳丸完 "wikilink")
-  - オレイリー - [田中和実](https://ja.wikipedia.org/wiki/田中和実 "wikilink")
+  - ルーク・ダントン - [徳丸完](../Page/徳丸完.md "wikilink")
+  - オレイリー - [田中和実](../Page/田中和実.md "wikilink")
   - ギムレット - [大滝進矢](../Page/大滝進矢.md "wikilink")
   - Dの左手、ナレーション - [永井一郎](../Page/永井一郎.md "wikilink")
 
 ### スタッフ
 
   - 原作 - 菊地秀行
-  - 監督 - [芦田豊雄](https://ja.wikipedia.org/wiki/芦田豊雄 "wikilink")
+  - 監督 - [芦田豊雄](../Page/芦田豊雄.md "wikilink")
   - 脚本 - [平野靖士](../Page/平野靖士.md "wikilink")
   - 製作 - 佐藤俊彦
   - プロデューサー - 肥田光久、加藤博、[長崎行男](https://ja.wikipedia.org/wiki/長崎行男 "wikilink")
@@ -146,7 +146,7 @@
   - ノルト＝マーカス - [ジョン・ディマジオ](https://ja.wikipedia.org/wiki/ジョン・ディマジオ "wikilink") / [大友龍三郎](../Page/大友龍三郎.md "wikilink")
   - バルバロイ長老 - [ドワイト・シュルツ](../Page/ドワイト・シュルツ.md "wikilink") / [大塚周夫](../Page/大塚周夫.md "wikilink")
   - ポルク - / [青野武](../Page/青野武.md "wikilink")
-  - ジョン＝エルバーン - ジョン・ディマジオ / [清川元夢](https://ja.wikipedia.org/wiki/清川元夢 "wikilink")
+  - ジョン＝エルバーン - ジョン・ディマジオ / [清川元夢](../Page/清川元夢.md "wikilink")
   - アラン＝エルバーン - / [辻谷耕史](../Page/辻谷耕史.md "wikilink")
   - マシラ - ジョン・ディマジオ / [西凛太朗](https://ja.wikipedia.org/wiki/西凛太朗 "wikilink")
   - カロリーヌ - [メアリー・エリザベス・マクグリン](https://ja.wikipedia.org/wiki/メアリー・エリザベス・マクグリン "wikilink")/ [沢海陽子](../Page/沢海陽子.md "wikilink")
@@ -156,13 +156,13 @@
   - 治安官 - ジョン・ディマジオ / [小山力也](https://ja.wikipedia.org/wiki/小山力也 "wikilink")
   - 少女（レイラの孫） - [デビ・デリーベリー](https://ja.wikipedia.org/wiki/デビ・デリーベリー "wikilink") / [かないみか](../Page/かないみか.md "wikilink")
   - 神父 - ジョン・デマータ / [石塚運昇](../Page/石塚運昇.md "wikilink")
-  - カーミラ - / [前田美波里](https://ja.wikipedia.org/wiki/前田美波里 "wikilink")
+  - カーミラ - / [前田美波里](../Page/前田美波里.md "wikilink")
 
 ### スタッフ（映画）
 
   - 原作 - 菊地秀行
   - キャラクター原案 - [天野喜孝](../Page/天野喜孝.md "wikilink")
-  - 監督・脚本・絵コンテ - [川尻善昭](https://ja.wikipedia.org/wiki/川尻善昭 "wikilink")
+  - 監督・脚本・絵コンテ - [川尻善昭](../Page/川尻善昭.md "wikilink")
   - 製作 - [山本又一朗](../Page/山本又一朗.md "wikilink")
   - キャラクターデザイン - [箕輪豊](https://ja.wikipedia.org/wiki/箕輪豊 "wikilink")
   - 設定デザイン - [池畑祐治](https://ja.wikipedia.org/wiki/池畑祐治 "wikilink")、[渡部隆](https://ja.wikipedia.org/wiki/渡部隆 "wikilink")、[韮沢靖](../Page/韮沢靖.md "wikilink")、[小池健](../Page/小池健.md "wikilink")
@@ -185,7 +185,7 @@
   - 共同制作 - DOMO CORPORATION
   - 製作協力 - [DR MOVIE](../Page/DR_MOVIE.md "wikilink")
   - オリジナルサウンドトラック - [avex mode](https://ja.wikipedia.org/wiki/avex_mode "wikilink")
-  - アニメーション制作 - [マッドハウス](https://ja.wikipedia.org/wiki/マッドハウス "wikilink")
+  - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")
   - 製作 - バンパイアハンターD製作委員会（フィルムリンク・インターナショナル、[BMGファンハウス](https://ja.wikipedia.org/wiki/BMGファンハウス "wikilink")、[ムービック](../Page/ムービック.md "wikilink")、グッドヒルヴィジョン、ソフトキャピタル）
   - 英語版スタッフ
       - ADRディレクター：ジャック・フレッチャー
@@ -229,7 +229,7 @@
   - シャーロット＝エルバーン - [冬馬由美](../Page/冬馬由美.md "wikilink")
   - ボルゴフ＝マーカス - [立木文彦](../Page/立木文彦.md "wikilink")
   - カーミラ - [野沢由香里](../Page/野沢由香里.md "wikilink")
-  - ベンゲ - [岩崎ひろし](https://ja.wikipedia.org/wiki/岩崎ひろし "wikilink")
+  - ベンゲ - [岩崎ひろし](../Page/岩崎ひろし.md "wikilink")
   - グローヴ＝マーカス - 岩崎ひろし
   - マシラ - [楠大典](https://ja.wikipedia.org/wiki/楠大典 "wikilink")
   - ジョン＝エルバーン - [大木民夫](../Page/大木民夫.md "wikilink")
@@ -284,7 +284,7 @@
 
 :\* ヘイグ - [塩屋浩三](../Page/塩屋浩三.md "wikilink")
 
-:\* ナレーション - [池水通洋](https://ja.wikipedia.org/wiki/池水通洋 "wikilink")
+:\* ナレーション - [池水通洋](../Page/池水通洋.md "wikilink")
 
 :\* 声 - [郷里大輔](../Page/郷里大輔.md "wikilink")
 
@@ -328,7 +328,7 @@
 
 :\* 暁鬼 - 堀内賢雄
 
-:\* ツイン - [小野健一](https://ja.wikipedia.org/wiki/小野健一_\(声優\) "wikilink")
+:\* ツイン - [小野健一](../Page/小野健一_\(声優\).md "wikilink")
 
 :\* グレン - [速水奨](../Page/速水奨.md "wikilink")
 
@@ -336,12 +336,12 @@
 
 :\* 貴族 - [松本保典](../Page/松本保典.md "wikilink")
 
-:\* 子供 - [真柴摩利](../Page/真柴摩利.md "wikilink")、[こおろぎさとみ](https://ja.wikipedia.org/wiki/こおろぎさとみ "wikilink")、[後藤あけみ](https://ja.wikipedia.org/wiki/後藤あけみ "wikilink")
+:\* 子供 - [真柴摩利](../Page/真柴摩利.md "wikilink")、[こおろぎさとみ](../Page/こおろぎさとみ.md "wikilink")、[後藤あけみ](https://ja.wikipedia.org/wiki/後藤あけみ "wikilink")
 
 ### スタッフ（オーディオドラマ）
 
   - 原作 - 菊地秀行
-  - 脚本 - [渡辺麻実](../Page/渡辺麻実.md "wikilink")（吸血鬼ハンター 風立ちてD）、[会川昇](https://ja.wikipedia.org/wiki/會川昇 "wikilink")
+  - 脚本 - [渡辺麻実](../Page/渡辺麻実.md "wikilink")（吸血鬼ハンター 風立ちてD）、[会川昇](../Page/會川昇.md "wikilink")
   - 音楽 - 伊藤信雄
 
 ## 漫画

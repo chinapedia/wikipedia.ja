@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:F-Zero_AX_deluxe_cabinet.jpg "wikilink")
 
-**F-ZERO AX**（エフゼロ エーエックス）は[任天堂](../Page/任天堂.md "wikilink")との[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")によって[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")にセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）より発売された[アーケード用](../Page/アーケードゲーム.md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ソフト[F-ZERO GXのアーケード版であり](../Page/F-ZERO_GX.md "wikilink")、連動要素も存在する。発売前に付けられていた仮題は「**F-ZERO AC**」。
+**F-ZERO AX**（エフゼロ エーエックス）は[任天堂](../Page/任天堂.md "wikilink")との[コラボレーション](../Page/コラボレーション.md "wikilink")によって[2003年](../Page/2003年.md "wikilink")[6月](../Page/6月.md "wikilink")にセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）より発売された[アーケード用](../Page/アーケードゲーム.md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ソフト[F-ZERO GXのアーケード版であり](../Page/F-ZERO_GX.md "wikilink")、連動要素も存在する。発売前に付けられていた仮題は「**F-ZERO AC**」。
 
 システム基板は[トライフォースを使用](https://ja.wikipedia.org/wiki/トライフォース_\(アーケードゲーム基板\) "wikilink")。筐体はマシンの一つブルーファルコンを意識したデザインである。筐体は座席が動くDX筐体と座席固定のスタンダード筐体のほかMONSTER RIDEが存在した。専用のカードを使用することで、オリジナルマシンの使用やタイムアタックにおけるインターネットランキングへの参加が可能だった。インターネットランキングは2004年6月25日で終了。
 

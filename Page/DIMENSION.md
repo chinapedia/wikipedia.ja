@@ -1,18 +1,18 @@
 > この記事は[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION)から翻訳されています。
 
 
-**DIMENSION**（**ディメンション**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属レコード会社は[ビーイング](../Page/ビーイング.md "wikilink")、レーベルは[ZAIN RECORDS](https://ja.wikipedia.org/wiki/ZAIN_RECORDS "wikilink")。
+**DIMENSION**（**ディメンション**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属レコード会社は[ビーイング](../Page/ビーイング.md "wikilink")、レーベルは[ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink")。
 
 ## メンバー
 
   - [勝田一樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")（かつた かずき・[サックス](../Page/サクソフォーン.md "wikilink")）
   - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（ますざき たかし・[ギター](../Page/ギター.md "wikilink")）
 
-[ドラムはデビュー以来現在まで固定はしていないが](../Page/ドラムセット.md "wikilink")、ライブにおいては当初は石川雅春が、青木智仁逝去後は大半を[則竹裕之](../Page/則竹裕之.md "wikilink")が担当している。[ベースは当初は](../Page/ベース_\(弦楽器\).md "wikilink")[青木智仁](../Page/青木智仁.md "wikilink")が主に担当していたが、2006年に青木が逝去し以降はレコーディングでは一時増崎・小野塚のどちらかが兼任し、ライブではグレッグ・リーが担当していた。2009年からはレコーディング・ライブともに[川崎哲平](https://ja.wikipedia.org/wiki/川崎哲平 "wikilink")がレギュラーサポートという形で担当している。2020年2月18日をもって初期メンバーの[小野塚晃](../Page/小野塚晃.md "wikilink")（おのづか あきら・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink")）が脱退した。
+[ドラムはデビュー以来現在まで固定はしていないが](../Page/ドラムセット.md "wikilink")、ライブにおいては当初は石川雅春が、青木智仁逝去後は大半を[則竹裕之](../Page/則竹裕之.md "wikilink")が担当している。[ベースは当初は](../Page/ベース_\(弦楽器\).md "wikilink")[青木智仁](../Page/青木智仁.md "wikilink")が主に担当していたが、2006年に青木が逝去し以降はレコーディングでは一時増崎・小野塚のどちらかが兼任し、ライブではグレッグ・リーが担当していた。2009年からはレコーディング・ライブともに[川崎哲平](https://ja.wikipedia.org/wiki/川崎哲平 "wikilink")がレギュラーサポートという形で担当している。2020年2月18日をもって初期メンバーの[小野塚晃](../Page/小野塚晃.md "wikilink")（おのづか あきら・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")）が脱退した。
 
 ## 特徴
 
-[ビーイング](../Page/ビーイング.md "wikilink")の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")部隊とも言える存在。多くのインストバンドの例に洩れず、テレビなどで多くの楽曲が使用される。また、メンバーそれぞれ、他の[ミュージシャンの](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")や、[スタジオ・ミュージシャン](../Page/スタジオ・ミュージシャン.md "wikilink")としても活躍している。メンバー全員で[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")のツアーでは、サポートミュージシャンとして出演している傍ら、栗林とトークをする一面を見せたこともあるが、ジョイントライブでやったわけではない。
+[ビーイング](../Page/ビーイング.md "wikilink")の[インストゥルメンタル](https://ja.wikipedia.org/wiki/インストゥルメンタル "wikilink")部隊とも言える存在。多くのインストバンドの例に洩れず、テレビなどで多くの楽曲が使用される。また、メンバーそれぞれ、他の[ミュージシャンの](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[バックバンド](https://ja.wikipedia.org/wiki/バックバンド "wikilink")や、[スタジオ・ミュージシャン](../Page/スタジオ・ミュージシャン.md "wikilink")としても活躍している。メンバー全員で[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")のツアーでは、サポートミュージシャンとして出演している傍ら、栗林とトークをする一面を見せたこともあるが、ジョイントライブでやったわけではない。
 
 フュージョン色の強い同グループであるが、下記のアーティストに楽曲提供&サウンドプロデュースを手掛けている。
 
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   -
-    [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[プロ野球中継](https://ja.wikipedia.org/wiki/プロ野球中継 "wikilink")テーマ音楽（1992〜1997年）
+    [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[プロ野球中継](../Page/プロ野球中継.md "wikilink")テーマ音楽（1992〜1997年）
     [STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")「室田智美のミュージックサタデー」オープニングテーマ（2004年〜）
 
 ### アルバム
@@ -93,7 +93,7 @@
 ## レコーディング参加(全員参加)
 
   - [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")「Over The Rainbow（カバー曲、アルバム「[ONE LIFE](https://ja.wikipedia.org/wiki/ONE_LIFE_\(倉木麻衣のアルバム\) "wikilink")」収録曲）」
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")「[会わなくてもI Love You](../Page/会わなくてもI_Love_You.md "wikilink")」「ONE MORE TIME」「Back To The Summer」「寂しさは秋の色（原曲：[WANDS](../Page/WANDS.md "wikilink")）」「いつでも君を見つめている」「DO WHAT I SEE」「Words」
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")「[会わなくてもI Love You](../Page/会わなくてもI_Love_You.md "wikilink")」「ONE MORE TIME」「Back To The Summer」「寂しさは秋の色（原曲：[WANDS](../Page/WANDS.md "wikilink")）」「いつでも君を見つめている」「DO WHAT I SEE」「Words」
   - [Riding](../Page/Riding.md "wikilink")「First Riding」「Feelin' High」
   - [DEEN](../Page/DEEN.md "wikilink")「[雨の六本木](https://ja.wikipedia.org/wiki/二十歳/雨の六本木 "wikilink")」
   - [矢嶋良介](../Page/矢嶋良介.md "wikilink")「[いつまでもLover's Day](https://ja.wikipedia.org/wiki/いつまでもLover's_Day "wikilink")」

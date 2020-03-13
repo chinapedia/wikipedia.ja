@@ -5,7 +5,7 @@
 
 ## 概要
 
-同局の『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』に先駆けて[法律](../Page/法律.md "wikilink")をテーマにしていた番組で、世の中の身近な法律と世界のユニークな法律・習慣をクイズ形式で紹介。[日企](https://ja.wikipedia.org/wiki/日企 "wikilink")と[日テレアックスオン](../Page/日テレアックスオン.md "wikilink")が制作協力をしていた\[1\]。
+同局の『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』に先駆けて[法律](../Page/法律.md "wikilink")をテーマにしていた番組で、世の中の身近な法律と世界のユニークな法律・習慣をクイズ形式で紹介。[日企](../Page/日企.md "wikilink")と[日テレアックスオン](../Page/日テレアックスオン.md "wikilink")が制作協力をしていた\[1\]。
 
 [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある[放送ライブラリー](../Page/放送ライブラリー.md "wikilink")には、この番組の初回の記録映像が保存されている\[2\]。
 
@@ -28,19 +28,19 @@
 
 ### 解答者
 
-  - [浜美枝](https://ja.wikipedia.org/wiki/浜美枝 "wikilink")
+  - [浜美枝](../Page/浜美枝.md "wikilink")
   - [高橋三千綱](../Page/高橋三千綱.md "wikilink")
-  - [池田満寿夫](../Page/池田満寿夫.md "wikilink")・[佐藤陽子](https://ja.wikipedia.org/wiki/佐藤陽子_\(ヴァイオリニスト\) "wikilink")
+  - [池田満寿夫](../Page/池田満寿夫.md "wikilink")・[佐藤陽子](../Page/佐藤陽子_\(ヴァイオリニスト\).md "wikilink")
   - [山田邦子](../Page/山田邦子.md "wikilink")
-  - [谷隼人](https://ja.wikipedia.org/wiki/谷隼人 "wikilink")
-  - [桂文珍](https://ja.wikipedia.org/wiki/桂文珍 "wikilink")
+  - [谷隼人](../Page/谷隼人.md "wikilink")
+  - [桂文珍](../Page/桂文珍.md "wikilink")
   - [C・W・ニコル](../Page/C・W・ニコル.md "wikilink")
   - [宍戸錠](../Page/宍戸錠.md "wikilink")
   - ウエルフ・ウェイクリー
   - [ジェフ・バーグランド](../Page/ジェフ・バーグランド.md "wikilink")
   - ジェフ・スミス
   - [ヨネスケ](../Page/ヨネスケ.md "wikilink")
-  - [斉藤ゆう子](https://ja.wikipedia.org/wiki/斉藤祐子 "wikilink")
+  - [斉藤ゆう子](../Page/斉藤祐子.md "wikilink")
   - [渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")
   - [矢崎滋](../Page/矢崎滋.md "wikilink")
   - [神保美喜](../Page/神保美喜.md "wikilink")
@@ -82,7 +82,7 @@
   - [山形放送](../Page/山形放送.md "wikilink")は当時[TBSの](../Page/TBSテレビ.md "wikilink")『[ナショナル劇場](https://ja.wikipedia.org/wiki/ナショナル劇場 "wikilink")』の遅れネットを行っていたため、同局では14時間遅れの土曜 12:00 - 12:51に放送されていた。
   - [フジテレビ系列の](../Page/フジネットワーク.md "wikilink")[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")は、[NNSには非加盟でも](../Page/日本テレビネットワーク協議会.md "wikilink")[NNNには加盟している関係からか](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")、日曜正午のローカル枠を使って放送していた。
   - 当時日本テレビ系列局が無かった[石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")では、[TBS系列の](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")で山形放送と同じ日時に放送されていた。
-  - 現在でも日本テレビ系列局が無い[沖縄県](../Page/沖縄県.md "wikilink")では、TBS系列の[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")で2日遅れの日曜 10:00 - 10:55に放送されていた。
+  - 現在でも日本テレビ系列局が無い[沖縄県](../Page/沖縄県.md "wikilink")では、TBS系列の[琉球放送](../Page/琉球放送.md "wikilink")で2日遅れの日曜 10:00 - 10:55に放送されていた。
 
 ### シャープ以外のスポンサーCMに関して
 

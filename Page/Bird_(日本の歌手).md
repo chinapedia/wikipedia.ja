@@ -7,9 +7,9 @@
 
 [ノートルダム女学院高等学校](https://ja.wikipedia.org/wiki/ノートルダム女学院高等学校 "wikilink")、[関西大学](../Page/関西大学.md "wikilink")[社会学部](../Page/社会学部.md "wikilink")卒業。大学在学中には軽音楽部に所属。
 
-卒業後[ニューヨーク](../Page/ニューヨーク.md "wikilink")に1年間滞在後、大阪のジャズクラブで歌っているところを[大沢伸一](../Page/大沢伸一.md "wikilink")（[MONDO GROSSO](https://ja.wikipedia.org/wiki/モンド・グロッソ "wikilink")）に認められ、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")のミニアルバム『THE RHYME ANIMAL REMIX E.P.1』の「未来への鍵（Osawa's Realized Mix）」のフィーチャリング・ボーカルを務める。birdという名前は、デビュー当時の髪型が[アフロヘアー](https://ja.wikipedia.org/wiki/アフロヘアー "wikilink")で鳥の巣のようだったことと、小鳥のように歌声を響かせて欲しいことから名付けられた。
+卒業後[ニューヨーク](../Page/ニューヨーク.md "wikilink")に1年間滞在後、大阪のジャズクラブで歌っているところを[大沢伸一](../Page/大沢伸一.md "wikilink")（[MONDO GROSSO](https://ja.wikipedia.org/wiki/モンド・グロッソ "wikilink")）に認められ、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")のミニアルバム『THE RHYME ANIMAL REMIX E.P.1』の「未来への鍵（Osawa's Realized Mix）」のフィーチャリング・ボーカルを務める。birdという名前は、デビュー当時の髪型が[アフロヘアー](../Page/アフロヘアー.md "wikilink")で鳥の巣のようだったことと、小鳥のように歌声を響かせて欲しいことから名付けられた。
 
-[1999年](../Page/1999年.md "wikilink")3月20日、[ソニー・ミュージックアソシエイテッドレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアソシエイテッドレコーズ "wikilink")より、[大沢伸一](../Page/大沢伸一.md "wikilink")主宰のレーベル「RealEyes」からシングル「SOULS」でデビュー。同年7月に発売したデビューアルバム『[bird](https://ja.wikipedia.org/wiki/bird_\(アルバム\) "wikilink")』は70万枚を売り上げ、[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")新人賞を獲得。
+[1999年](../Page/1999年.md "wikilink")3月20日、[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")より、[大沢伸一](../Page/大沢伸一.md "wikilink")主宰のレーベル「RealEyes」からシングル「SOULS」でデビュー。同年7月に発売したデビューアルバム『[bird](https://ja.wikipedia.org/wiki/bird_\(アルバム\) "wikilink")』は70万枚を売り上げ、[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")新人賞を獲得。
 
 [2002年](../Page/2002年.md "wikilink")3月にRealEyesレーベルから独立する。以後、作曲・プロデュースといったクリエイターとしての才能も発揮する。2007年に[ユニバーサルミュージックに移籍する](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
@@ -146,7 +146,7 @@
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
 <td></td>
 <td><p>140</p></td>
 </tr>
@@ -170,7 +170,7 @@
 </tr>
 <tr class="even">
 <td><p>23rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -192,7 +192,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td></td>
 <td><p>8</p></td>
 </tr>
@@ -288,7 +288,7 @@
 </tr>
 <tr class="even">
 <td><p>ベスト</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月28日.md" title="wikilink">9月28日</a></p></td>
 <td></td>
 <td><p>27</p></td>
 </tr>
@@ -368,7 +368,7 @@
 </tr>
 <tr class="odd">
 <td><p>DVD<br />
-<a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/10月9日.md" title="wikilink">10月9日</a></p></td>
+<a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/10月9日.md" title="wikilink">10月9日</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -393,9 +393,9 @@
   - [Taiji All Stars](../Page/Taiji_All_Stars.md "wikilink") 君が笑う方へ feat. bird
   - [RYO the SKYWALKER](../Page/RYO_the_SKYWALKER.md "wikilink") 光りの海へ (& bird)
   - [冨田ラボ](https://ja.wikipedia.org/wiki/冨田ラボ "wikilink") 道 feat. bird
-  - [FreeTEMPO](https://ja.wikipedia.org/wiki/FreeTEMPO "wikilink") Sunshine
+  - [FreeTEMPO](../Page/FreeTEMPO.md "wikilink") Sunshine
   - [スチャダラパー](../Page/スチャダラパー.md "wikilink") 壊れかけの･･･ feat. bird
-  - [シアターブルック](../Page/THEATRE_BROOK.md "wikilink") もう一度世界を変えるのさ（album ver.） featuring [仲井戸"CHABO"麗市](../Page/仲井戸麗市.md "wikilink")、[斉藤和義](https://ja.wikipedia.org/wiki/斉藤和義 "wikilink")、[Char](../Page/Char.md "wikilink")、[細美武士](../Page/細美武士.md "wikilink")、TOSHI-LOW、[Kj](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")、[浜崎貴司](../Page/浜崎貴司.md "wikilink")、増子直純 ([怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink"))、[高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")、[堂珍嘉邦](https://ja.wikipedia.org/wiki/堂珍嘉邦 "wikilink")、Utsumi Yoko、bird、[Leyona](https://ja.wikipedia.org/wiki/Leyona "wikilink")、[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")、[中村中](https://ja.wikipedia.org/wiki/中村中 "wikilink")、[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")、[元晴&タブゾンビ](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")
+  - [シアターブルック](../Page/THEATRE_BROOK.md "wikilink") もう一度世界を変えるのさ（album ver.） featuring [仲井戸"CHABO"麗市](../Page/仲井戸麗市.md "wikilink")、[斉藤和義](../Page/斉藤和義.md "wikilink")、[Char](../Page/Char.md "wikilink")、[細美武士](../Page/細美武士.md "wikilink")、TOSHI-LOW、[Kj](../Page/降谷建志.md "wikilink")、[浜崎貴司](../Page/浜崎貴司.md "wikilink")、増子直純 ([怒髪天](https://ja.wikipedia.org/wiki/怒髪天 "wikilink"))、[高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")、[堂珍嘉邦](../Page/堂珍嘉邦.md "wikilink")、Utsumi Yoko、bird、[Leyona](../Page/Leyona.md "wikilink")、[矢井田瞳](https://ja.wikipedia.org/wiki/矢井田瞳 "wikilink")、[中村中](https://ja.wikipedia.org/wiki/中村中 "wikilink")、[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")、[元晴&タブゾンビ](../Page/SOIL&"PIMP"SESSIONS.md "wikilink")
 
 ### タイアップ
 

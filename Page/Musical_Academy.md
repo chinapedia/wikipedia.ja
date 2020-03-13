@@ -7,7 +7,7 @@
 
 [1999年](../Page/1999年.md "wikilink")3月、ミュージカル『[PLAYZONE'99 Goodbye\&Hello](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'99_Goodbye&Hello "wikilink")』に出演する、舞台中心に活躍していたジャニーズJr.がユニットとしてまとめられて誕生。雑誌でグループとして掲載された後、『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』にも出演。以降『[THE夜もヒッパレ](../Page/THE夜もヒッパレ.md "wikilink")』への準レギュラー出演などを通してMAとしての活動が本格化していった。初代メンバーには、[大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")（[嵐](../Page/嵐_\(グループ\).md "wikilink")）や[原知宏](../Page/原知宏.md "wikilink")なども在籍していたが、その後メンバー交替を何度か繰り返した。
 
-『[PLAYZONE](https://ja.wikipedia.org/wiki/PLAYZONE "wikilink")』や『[SHOCK](../Page/SHOCK.md "wikilink")』など舞台関連の仕事を中心に活動する一方、TOKIOのコンサート\[3\]や東山紀之のディナーショーなどのバックを務めた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[屋良朝幸](../Page/屋良朝幸.md "wikilink")がソロ活動に専念して以降は、MAとして米花剛史と町田慎吾の2人が[KinKi Kids](../Page/KinKi_Kids.md "wikilink")、[堂本光一](../Page/堂本光一.md "wikilink")のコンサートや歌番組でバックダンサーとして活動していたが、[2012年](../Page/2012年.md "wikilink")7月に米花が事務所を退社し\[4\]、グループとしての活動はなくなった。
+『[PLAYZONE](../Page/PLAYZONE.md "wikilink")』や『[SHOCK](../Page/SHOCK.md "wikilink")』など舞台関連の仕事を中心に活動する一方、TOKIOのコンサート\[3\]や東山紀之のディナーショーなどのバックを務めた。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[屋良朝幸](../Page/屋良朝幸.md "wikilink")がソロ活動に専念して以降は、MAとして米花剛史と町田慎吾の2人が[KinKi Kids](../Page/KinKi_Kids.md "wikilink")、[堂本光一](../Page/堂本光一.md "wikilink")のコンサートや歌番組でバックダンサーとして活動していたが、[2012年](../Page/2012年.md "wikilink")7月に米花が事務所を退社し\[4\]、グループとしての活動はなくなった。
 
 ## 来歴
 
@@ -110,18 +110,18 @@
 
   - [PLAYZONE1999 Goodbye\&Hello](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'99_Goodbye&Hello "wikilink") （1999年7月11日 - 8月15日、[青山劇場](../Page/青山劇場.md "wikilink") / [フェスティバルホール](../Page/フェスティバルホール.md "wikilink")）
   - [PLAYZONE2000 THEME PARK](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'00_THEME_PARK "wikilink") （2000年7月16日 - 8月20日、青山劇場 / 大阪フェスティバルホール）
-  - [MILLENNIUM SHOCK](https://ja.wikipedia.org/wiki/SHOCK#MILLENNIUM_SHOCK_（2000年） "wikilink")（2000年11月2日 - 26日、[帝国劇場](https://ja.wikipedia.org/wiki/帝国劇場 "wikilink")）
+  - [MILLENNIUM SHOCK](https://ja.wikipedia.org/wiki/SHOCK#MILLENNIUM_SHOCK_（2000年） "wikilink")（2000年11月2日 - 26日、[帝国劇場](../Page/帝国劇場.md "wikilink")）
   - [PLAYZONE2001 新世紀 EMOTION](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'01_EMOTION〜新世紀〜 "wikilink") （2001年7月14日 - 8月17日、青山劇場 / 大阪フェスティバルホール）
   - [SHOW劇・SHOCK](https://ja.wikipedia.org/wiki/SHOCK#SHOW劇・SHOCK_（2001年、2002年） "wikilink")（2001年12月1日 - 2002年1月27日、帝国劇場）
   - [SHOW劇・SHOCK-再演-](https://ja.wikipedia.org/wiki/SHOCK#SHOW劇・SHOCK_（2001年、2002年） "wikilink")（2002年6月、帝国劇場）
   - [PLAYZONE2002 愛史](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'02_愛史 "wikilink") （2002年7月13日 - 8月15日、青山劇場 / 大阪フェスティバルホール）
-  - My Mirage（2002年9月、[かながわドームシアター](https://ja.wikipedia.org/wiki/神奈川県立県民ホール "wikilink")） - 屋良・米花・町田
+  - My Mirage（2002年9月、[かながわドームシアター](../Page/神奈川県立県民ホール.md "wikilink")） - 屋良・米花・町田
   - [SHOCK is Real shock](https://ja.wikipedia.org/wiki/SHOCK#SHOCK_is_Real_shock_（2003年） "wikilink")（2003年1月8日 - 2月25日、帝国劇場）
-  - 青木さん家の奥さん（2003年5月29日 - 6月8日、[東京グローブ座](https://ja.wikipedia.org/wiki/東京グローブ座 "wikilink") / 大阪） - 主演\[12\]
+  - 青木さん家の奥さん（2003年5月29日 - 6月8日、[東京グローブ座](../Page/東京グローブ座.md "wikilink") / 大阪） - 主演\[12\]
   - [PLAYZONE2003 Vacation](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'03_Vacation "wikilink") （2003年7月14日 - 8月17日、青山劇場 / 大阪フェスティバルホール）\[13\]
   - My Mirage II（2003年10月、東京） - 屋良・米花・町田
   - [Shocking SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Shocking_SHOCK_（2004年） "wikilink")（2004年2月6日 - 29日、帝国劇場）
-  - [真夏の夜の夢](https://ja.wikipedia.org/wiki/夏の夜の夢 "wikilink")（2004年5月30日 - 6月12日、東京グローブ座） - 主演\[14\]
+  - [真夏の夜の夢](../Page/夏の夜の夢.md "wikilink")（2004年5月30日 - 6月12日、東京グローブ座） - 主演\[14\]
   - スカパン（2004年9月、松本芸術文化会館：こけら落し・東京グローブ座） - 屋良・町田
   - [Endless SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Endless_SHOCK_（2005年_-_） "wikilink")（2005年1月8日 - 2月28日、帝国劇場）
   - [PLAYZONE2005 〜20th Anniversary〜Twenty Years…そしてまだ見ぬ未来へ](https://ja.wikipedia.org/wiki/PLAYZONE#PLAYZONE'05_〜20th_Anniversary〜Twenty_Years… "wikilink") （2005年7月6日 - 8月17日、青山劇場 / 大阪フェスティバルホール）\[15\]
@@ -130,7 +130,7 @@
   - [Endless SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Endless_SHOCK_2006 "wikilink")（2006年2月6日 - 3月29日、帝国劇場）\[19\]
   - [忍者イリュージョン NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-#舞台 "wikilink")（2006年5月4日 - 14日、[五反田ゆうぽうと簡易保険ホール](../Page/ゆうぽうと.md "wikilink") / 5月19日 - 21日、[シアターBRAVA\!](../Page/シアターBRAVA!.md "wikilink")） - 主演\[20\]
   - [Endless SHOCK](https://ja.wikipedia.org/wiki/SHOCK#Endless_SHOCK_2007 "wikilink")（2007年1月6日 - 2月28日、帝国劇場）
-  - サバイバル☆アイランド（2007年5月11日 - 21日、[池袋サンシャイン劇場](../Page/サンシャイン劇場.md "wikilink") / 6月1日 - 3日、[兵庫県立芸術文化センター](https://ja.wikipedia.org/wiki/兵庫県立芸術文化センター "wikilink")） - 主演\[21\]\[22\]\[23\]
+  - サバイバル☆アイランド（2007年5月11日 - 21日、[池袋サンシャイン劇場](../Page/サンシャイン劇場.md "wikilink") / 6月1日 - 3日、[兵庫県立芸術文化センター](../Page/兵庫県立芸術文化センター.md "wikilink")） - 主演\[21\]\[22\]\[23\]
   - @ザ・グローブ・プロジェクト vol.3（2007年12月、東京グローブ座） - 町田・米花
   - フルハウス（2008年5月・6月、東京グローブ座・兵庫県立芸術文化センター） - 町田・米花
 

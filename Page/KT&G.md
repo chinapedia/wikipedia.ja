@@ -11,7 +11,7 @@
 
 社名の由来はKorea Tabacco & Ginsengの略であるが、事業内容の広がりを受けてKorea Tomorrow & Globalと説明している。
 
-スポーツへの後援としては女子[バレーボール](../Page/バレーボール.md "wikilink")部（[KGC人参公社](https://ja.wikipedia.org/wiki/KGC人参公社 "wikilink")）は国内屈指の強さを誇り、国家代表チームのスポンサーも務めている。また、2005年7月には[SBSからプロバスケットボールチームを譲り受け](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")、[安養KT\&Gカイツ](https://ja.wikipedia.org/wiki/安養KT&Gカイツ "wikilink")として[韓国バスケットボールリーグ](https://ja.wikipedia.org/wiki/韓国バスケットボールリーグ "wikilink")へ参入する。
+スポーツへの後援としては女子[バレーボール](../Page/バレーボール.md "wikilink")部（[KGC人参公社](https://ja.wikipedia.org/wiki/KGC人参公社 "wikilink")）は国内屈指の強さを誇り、国家代表チームのスポンサーも務めている。また、2005年7月には[SBSからプロバスケットボールチームを譲り受け](https://ja.wikipedia.org/wiki/ソウル放送 "wikilink")、[安養KT\&Gカイツ](https://ja.wikipedia.org/wiki/安養KT&Gカイツ "wikilink")として[韓国バスケットボールリーグ](../Page/韓国バスケットボールリーグ.md "wikilink")へ参入する。
 
 なお、同じく韓国企業である[KTとは直接の関係はない](https://ja.wikipedia.org/wiki/KT_\(通信企業\) "wikilink")。
 

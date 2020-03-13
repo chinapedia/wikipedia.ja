@@ -1,7 +1,7 @@
 > この記事は[Ayu ready\?](https://ja.wikipedia.org/wiki/Ayu_ready\?)から翻訳されています。
 
 
-『**ayu ready?**』（アユレディ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた](../Page/フジネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[トーク番組](../Page/トーク番組.md "wikilink")・[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")）である。全74回。フジテレビ系列局では[2002年](../Page/2002年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink") 23:30 - 翌0:00（[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた。[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。
+『**ayu ready?**』（アユレディ）は、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた](../Page/フジネットワーク.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[トーク番組](../Page/トーク番組.md "wikilink")・[音楽番組](../Page/音楽番組.md "wikilink")）である。全74回。フジテレビ系列局では[2002年](../Page/2002年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")まで、毎週[土曜日](../Page/土曜日.md "wikilink") 23:30 - 翌0:00（[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた。[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。
 
 ## 概要
 
@@ -30,7 +30,7 @@
 <!-- end list -->
 
   - [北陽](../Page/北陽.md "wikilink")
-      - [虻川美穂子](https://ja.wikipedia.org/wiki/虻川美穂子 "wikilink")
+      - [虻川美穂子](../Page/虻川美穂子.md "wikilink")
       - [伊藤さおり](../Page/伊藤さおり.md "wikilink")
 
 <!-- end list -->
@@ -54,7 +54,7 @@
   - あゆのおもてなし
     毎回ゲストがリクエストする料理を浜崎が出してもてなしていたコーナー。北陽がレギュラーに加わるまではこの企画がメインだった。
   - あゆクッキータイム
-    2002年11月30日放送分（第8回）から実施。[フォーチュン・クッキー](https://ja.wikipedia.org/wiki/フォーチュン・クッキー "wikilink")の中に入っている質問にゲストが答えていくというもので、軽い質問からプライベートについての質問までいろいろあった。2003年8月16日に放送された[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")[名古屋スペシャルの回](../Page/名古屋市.md "wikilink")（第44回）では『あゆシャチホコタイム』と題して行われた。
+    2002年11月30日放送分（第8回）から実施。[フォーチュン・クッキー](../Page/フォーチュン・クッキー.md "wikilink")の中に入っている質問にゲストが答えていくというもので、軽い質問からプライベートについての質問までいろいろあった。2003年8月16日に放送された[a-nation](https://ja.wikipedia.org/wiki/a-nation "wikilink")[名古屋スペシャルの回](../Page/名古屋市.md "wikilink")（第44回）では『あゆシャチホコタイム』と題して行われた。
   - 北陽タイム
     末期に行われていたコーナーで、北陽がゲストのプライベートを暴いていた。心理テストを行う回もあった。
   - ライブコーナー
@@ -66,7 +66,7 @@
   - プロデューサー：[きくち伸](../Page/きくち伸.md "wikilink")（フジテレビ）、座間隆司（イースト）\[4\]
   - 演出：城野智則（フジテレビ）、上川伸廣（イースト）
   - ディレクター：高橋伸彰、手塚公一、佐久間大介、藤保修一（イースト）
-  - 構成：[小原信治](https://ja.wikipedia.org/wiki/小原信治 "wikilink")、やみ、[そーたに](https://ja.wikipedia.org/wiki/そーたに "wikilink")、津曲裕之
+  - 構成：[小原信治](../Page/小原信治.md "wikilink")、やみ、[そーたに](../Page/そーたに.md "wikilink")、津曲裕之
   - 音楽監修：富田恭通
   - 編成：志方聡
   - 広報：清野真紀
@@ -96,7 +96,7 @@
   - スタイリスト：鈴江英夫
   - ネイル：三浦加納子
   - 衣裳デザイナー：野田明（ワーカホリック）
-  - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")、[麻布プラザ](../Page/麻布プラザ.md "wikilink")（初期）、[ビーグル](../Page/ビーグル_\(ポストプロダクション\).md "wikilink")（中期以降）、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")（中期以降）、[メディアハウス](https://ja.wikipedia.org/wiki/メディアハウス・サウンドデザイン "wikilink")（初期）、[4-Legs](https://ja.wikipedia.org/wiki/4-Legs "wikilink")（中期以降）、[ヒビノ](../Page/ヒビノ_\(音響映像\).md "wikilink")、エイケイ
+  - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[麻布プラザ](../Page/麻布プラザ.md "wikilink")（初期）、[ビーグル](../Page/ビーグル_\(ポストプロダクション\).md "wikilink")（中期以降）、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")（中期以降）、[メディアハウス](https://ja.wikipedia.org/wiki/メディアハウス・サウンドデザイン "wikilink")（初期）、[4-Legs](../Page/4-Legs.md "wikilink")（中期以降）、[ヒビノ](../Page/ヒビノ_\(音響映像\).md "wikilink")、エイケイ
   - 美術協力：[フジアール](../Page/フジアール.md "wikilink")
   - 企画協力：アクシヴ（[エイベックス・ヴァンガード](https://ja.wikipedia.org/wiki/エイベックス・ヴァンガード "wikilink")）
   - 協力：MAX松浦

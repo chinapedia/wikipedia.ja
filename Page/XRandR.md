@@ -3,7 +3,7 @@
 
 **XRandR**（エックス・アール・アンド・アール）は、[X Window System](../Page/X_Window_System.md "wikilink") を再起動せずに解像度の変更や、画面の回転、表示モニターの切替え、[マルチモニター](../Page/マルチモニター.md "wikilink")の設定など、を行うことを容易にする[ライブラリ](../Page/ライブラリ.md "wikilink")と[コマンドである](../Page/キャラクタユーザインタフェース.md "wikilink")。XRandRは、X Window System Resize and Rotate Extension を略したもの。
 
-最初の [X11](../Page/X_Window_System.md "wikilink") の設計では動的なサイズ変更の要望を予想しておらず、変更を行うには [Xサーバを再起動する必要があった](../Page/X_Window_System.md "wikilink")。RandR 拡張[フレームワークによりXセッションの再起動なしでディスプレイの特徴を変えることができるようになった](../Page/アプリケーションフレームワーク.md "wikilink")。拡張フレームワークによって[ラップトップや手持ちサイズのコンピュータで](https://ja.wikipedia.org/wiki/ラップトップパソコン "wikilink")、組込みのスクリーンではなく異なる[解像度](https://ja.wikipedia.org/wiki/解像度 "wikilink")の外部モニターを駆動するようにスクリーンサイズを変更できるようになる\[1\]。現在の[プロトコル](../Page/プロトコル.md "wikilink")仕様のバージョンは1.2である。
+最初の [X11](../Page/X_Window_System.md "wikilink") の設計では動的なサイズ変更の要望を予想しておらず、変更を行うには [Xサーバを再起動する必要があった](../Page/X_Window_System.md "wikilink")。RandR 拡張[フレームワークによりXセッションの再起動なしでディスプレイの特徴を変えることができるようになった](../Page/アプリケーションフレームワーク.md "wikilink")。拡張フレームワークによって[ラップトップや手持ちサイズのコンピュータで](../Page/ラップトップパソコン.md "wikilink")、組込みのスクリーンではなく異なる[解像度](../Page/解像度.md "wikilink")の外部モニターを駆動するようにスクリーンサイズを変更できるようになる\[1\]。現在の[プロトコル](../Page/プロトコル.md "wikilink")仕様のバージョンは1.2である。
 
 使っている[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")がこの機能と相互作用するグラフィカルツールを提供していなくても、**xrandr** [コマンドラインツールが使える](../Page/キャラクタユーザインタフェース.md "wikilink")。
 

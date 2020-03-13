@@ -7,11 +7,11 @@
 
   - **[今井寿](../Page/今井寿.md "wikilink")**（いまい ひさし [1965年](../Page/1965年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink") - 、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[藤岡市](../Page/藤岡市.md "wikilink")出身）[ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
       -
-        主に[BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")のギタリストとして活躍。[藤井麻輝](../Page/藤井麻輝.md "wikilink")とのユニット、[SCHAFT](../Page/SCHAFT.md "wikilink")などで活動。
-  - *' [Kiyoshi](../Page/KIYOSHI.md "wikilink")*'（きよし 本名：本間清司 [1964年](../Page/1964年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink") - 、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身） ギター、ボーカル
+        主に[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")のギタリストとして活躍。[藤井麻輝](../Page/藤井麻輝.md "wikilink")とのユニット、[SCHAFT](../Page/SCHAFT.md "wikilink")などで活動。
+  - *' [Kiyoshi](../Page/KIYOSHI.md "wikilink")*'（きよし 本名：本間清司 [1964年](../Page/1964年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink") - 、[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")出身） ギター、ボーカル
       -
         元[media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")、[hide with spread beaver](https://ja.wikipedia.org/wiki/hide "wikilink")。現在は[machine](https://ja.wikipedia.org/wiki/machine "wikilink")、[Mad beavers](https://ja.wikipedia.org/wiki/Mad_beavers "wikilink")、[森重樹一](../Page/森重樹一.md "wikilink")のライブサポート等で活躍。
-  - **岡崎達成**（おかざきかつしげ [1967年](../Page/1967年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") 、[茨城県](https://ja.wikipedia.org/wiki/茨城県 "wikilink")[日立市](../Page/日立市.md "wikilink")出身） [ドラム](../Page/ドラムセット.md "wikilink")、[マニピュレート](https://ja.wikipedia.org/wiki/マニピュレータ "wikilink")、ボーカル
+  - **岡崎達成**（おかざきかつしげ [1967年](../Page/1967年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") 、[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")出身） [ドラム](../Page/ドラムセット.md "wikilink")、[マニピュレート](https://ja.wikipedia.org/wiki/マニピュレータ "wikilink")、ボーカル
       -
         元[M-AGE](../Page/M-AGE.md "wikilink")。現在は[AGE of PUNK以外でもドラムアレンジ](https://ja.wikipedia.org/wiki/ASAKI#AGE_of_PUNK "wikilink")、その他アレンジャー、BUCK-TICKのリズム・プログラマー、[Minimum Rocketsなど幅広く活動中](https://ja.wikipedia.org/wiki/Minimum_Rockets "wikilink")。愛称は「かっちゃん」。
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
 
 <!-- end list -->
 
@@ -41,7 +41,7 @@
 
 <!-- end list -->
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")
 
 <!-- end list -->
 
@@ -68,7 +68,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -76,7 +76,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/3月29日.md" title="wikilink">3月29日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/BULLETS-Shooting_Super_Star-" title="wikilink">BULLETS-Shooting Super Star-</a></strong></p></td>
 <td><p>VICL-35977</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -113,7 +113,7 @@
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -156,7 +156,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ROCKAROLLICA_II" title="wikilink">ROCKAROLLICA II</a></strong></p></td>
 <td><p>VIZL-178(初回限定盤)<br />
 VICL-61928(通常盤)</p></td>
@@ -209,7 +209,7 @@ VICL-61928(通常盤)</p></td>
 <th><p> </p></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">規格品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
 <th><p>収録曲</p></th>
 <th><p>備考</p></th>
 </tr>
@@ -252,7 +252,7 @@ VICL-61928(通常盤)</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
 <td><p><strong>Lucy Show002 Live at STUDIO COAST</strong></p></td>
 <td><p>VIBL-351</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -299,7 +299,7 @@ VICL-61928(通常盤)</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2006年" title="wikilink">2006年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
+<td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
 <td><p><strong>Lucy Show002 Live at UNIT</strong></p></td>
 <td><p>VIBL-352</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
@@ -363,7 +363,7 @@ VICL-61928(通常盤)</p></td>
 
 ## 関連項目
 
-  - [BUCK-TICK](https://ja.wikipedia.org/wiki/BUCK-TICK "wikilink")
+  - [BUCK-TICK](../Page/BUCK-TICK.md "wikilink")
   - [machine](https://ja.wikipedia.org/wiki/machine "wikilink")
   - [media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")
   - [hide with spread beaver](https://ja.wikipedia.org/wiki/hide "wikilink")

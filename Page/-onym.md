@@ -1,7 +1,7 @@
 > この記事は[-onym](https://ja.wikipedia.org/wiki/-onym)から翻訳されています。
 
 
-**-onym** は[古典ギリシア語の複合語の成分の](https://ja.wikipedia.org/wiki/古代ギリシア語 "wikilink")  (-ōnymos) の[英語](../Page/英語.md "wikilink")の形。「名前」を表す[単語を作る](https://ja.wikipedia.org/wiki/語 "wikilink")。
+**-onym** は[古典ギリシア語の複合語の成分の](../Page/古代ギリシア語.md "wikilink")  (-ōnymos) の[英語](../Page/英語.md "wikilink")の形。「名前」を表す[単語を作る](../Page/語.md "wikilink")。
 
 原則としてギリシャ語語幹の後に続くが、わずかな例外がある。
 
@@ -18,7 +18,7 @@
   - antonym（アントニム）：[反義語](../Page/対義語.md "wikilink")
   - apronym（アプロニム）：アクロニムであり、かつその文字の並びが別の単語になっているもの
   - aptronym（アプトロニム）：偶然にもその人の職業や性格を表している人名のこと。[スコット・スピード](../Page/スコット・スピード.md "wikilink")や[パディ・ドライバー](https://ja.wikipedia.org/wiki/パディ・ドライバー "wikilink")（いずれもF1ドライバー）など。
-  - aristonym（アリストニム）：[貴族](https://ja.wikipedia.org/wiki/貴族 "wikilink")の姓
+  - aristonym（アリストニム）：[貴族](../Page/貴族.md "wikilink")の姓
   - backronym（[バクロニム](../Page/バクロニム.md "wikilink")）：アクロニムに意味を付与したもの
   - basionym（ベーシオニム）：基名
   - caconym（カコニム）：謬称
@@ -36,8 +36,8 @@
   - gynonym（ガイノニム）：女名
   - heteronym（ヘテロニム）：同綴異義語
   - holonym（ホロニム）：全体を現す名詞
-  - homonym（[ホモニム](https://ja.wikipedia.org/wiki/同名 "wikilink")）：[同音異義語](https://ja.wikipedia.org/wiki/同音異義語 "wikilink")
-  - hydronym（ハイドロニム）：[体液](https://ja.wikipedia.org/wiki/体液 "wikilink")の名称
+  - homonym（[ホモニム](https://ja.wikipedia.org/wiki/同名 "wikilink")）：[同音異義語](../Page/同音異義語.md "wikilink")
+  - hydronym（ハイドロニム）：[体液](../Page/体液.md "wikilink")の名称
   - hypernym（ハイパーニム）：上位語
   - hyponym（ハイポニム）：下位語
   - isonym（アイソニム）：[同綴異義語](../Page/同綴異義語.md "wikilink")
@@ -52,7 +52,7 @@
   - retronym（[レトロニム](../Page/レトロニム.md "wikilink")）：同種の新しいものができたために区別して呼ばれるようになった名前。
   - synonym（[シノニム](../Page/シノニム.md "wikilink")）：[類義語](https://ja.wikipedia.org/wiki/類義語 "wikilink")、[同義語](https://ja.wikipedia.org/wiki/類義語 "wikilink")
   - tautonym（[トートニム](https://ja.wikipedia.org/wiki/トートニム "wikilink")）：[学名](https://ja.wikipedia.org/wiki/学名 "wikilink")の反復名。[ゴリラ](../Page/ゴリラ.md "wikilink") (*Gorilla gorilla*) の類。
-  - taxonym（タクソニム）：[タクソン](https://ja.wikipedia.org/wiki/タクソン "wikilink")（生物の分類群）の名
+  - taxonym（タクソニム）：[タクソン](../Page/タクソン.md "wikilink")（生物の分類群）の名
   - toponym（トポニム）：[地名](../Page/地名.md "wikilink")
   - troponym（トロポニム）：様態を加えた細かい意味を表す語。
 

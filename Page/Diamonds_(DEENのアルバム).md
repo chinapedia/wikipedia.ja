@@ -1,7 +1,7 @@
 > この記事は[Diamonds \(DEEN\)](https://ja.wikipedia.org/wiki/Diamonds_\(DEEN\))から翻訳されています。
 
 
-**Diamonds**（ダイヤモンド）は[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")の8作目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。「DEEN's ROCK」が今作品のテーマ。
+**Diamonds**（ダイヤモンド）は[DEEN](../Page/DEEN.md "wikilink")の8作目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。「DEEN's ROCK」が今作品のテーマ。
 
 ## 作品の解説
 
@@ -15,7 +15,7 @@
         作詞:池森秀一　作曲:池森秀一&時乗浩一郎　編曲:Steve Good
 2.  **[ダイヤモンド](../Page/ダイヤモンド_\(DEENの曲\).md "wikilink")**
       -
-        作詞:池森秀一　作曲:山根公路&池森秀一　編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞:池森秀一　作曲:山根公路&池森秀一　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink")
     <!-- end list -->
       - 33rdシングル。
 3.  **Family**
@@ -55,9 +55,9 @@
 
 ### DEEN
 
-  - [池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink")：Vocal\&Background Vocals
-  - [山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")：Keyboards，Vocal，Background Vocals\&Synthesizer Programming
-  - [田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")：Electric Guitar，Acoustic Guitar，Percussions，Background Vocals\&Synthesizer Programming
+  - [池森秀一](../Page/池森秀一.md "wikilink")：Vocal\&Background Vocals
+  - [山根公路](../Page/山根公路.md "wikilink")：Keyboards，Vocal，Background Vocals\&Synthesizer Programming
+  - [田川伸治](../Page/田川伸治.md "wikilink")：Electric Guitar，Acoustic Guitar，Percussions，Background Vocals\&Synthesizer Programming
 
 ### サポート
 

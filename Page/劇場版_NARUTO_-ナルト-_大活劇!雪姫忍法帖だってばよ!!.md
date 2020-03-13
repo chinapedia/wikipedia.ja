@@ -1,7 +1,7 @@
 > この記事は[ NARUTO -- !!!](https://ja.wikipedia.org/wiki/_NARUTO_--_!!!)から翻訳されています。
 
 
-『**劇場版 NARUTO -ナルト- 大活劇\!雪姫忍法帖だってばよ\!\!**』（げきじょうばん ナルト だいかつげき\!ゆきひめにんぽうちょうだってばよ\!\!）は、[2004年](../Page/2004年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に公開された漫画『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト- "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")1作目。同時上映は、『劇場版 NARUTO -ナルト- 木ノ葉の里の大うん動会』。本作のゲスト声優として[石塚英彦](../Page/石塚英彦.md "wikilink")と[美山加恋](../Page/美山加恋.md "wikilink")と[YUKIが出演した](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")開局40周年記念作品。
+『**劇場版 NARUTO -ナルト- 大活劇\!雪姫忍法帖だってばよ\!\!**』（げきじょうばん ナルト だいかつげき\!ゆきひめにんぽうちょうだってばよ\!\!）は、[2004年](../Page/2004年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に公開された漫画『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")1作目。同時上映は、『劇場版 NARUTO -ナルト- 木ノ葉の里の大うん動会』。本作のゲスト声優として[石塚英彦](../Page/石塚英彦.md "wikilink")と[美山加恋](../Page/美山加恋.md "wikilink")と[YUKIが出演した](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")開局40周年記念作品。
 
 ## ストーリー
 
@@ -19,41 +19,41 @@
 
 ### カカシ班
 
-  - [うずまきナルト](https://ja.wikipedia.org/wiki/うずまきナルト "wikilink")（声 - [竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")）
-  - [うちはサスケ](https://ja.wikipedia.org/wiki/うちはサスケ "wikilink")（声 - [杉山紀彰](https://ja.wikipedia.org/wiki/杉山紀彰 "wikilink")）
-  - [春野サクラ](https://ja.wikipedia.org/wiki/春野サクラ "wikilink")（声 - [中村千絵](https://ja.wikipedia.org/wiki/中村千絵 "wikilink")）
-  - [はたけカカシ](https://ja.wikipedia.org/wiki/はたけカカシ "wikilink")（声 - [井上和彦](../Page/井上和彦_\(声優\).md "wikilink")）
+  - [うずまきナルト](../Page/うずまきナルト.md "wikilink")（声 - [竹内順子](../Page/竹内順子.md "wikilink")）
+  - [うちはサスケ](../Page/うちはサスケ.md "wikilink")（声 - [杉山紀彰](../Page/杉山紀彰.md "wikilink")）
+  - [春野サクラ](https://ja.wikipedia.org/wiki/春野サクラ "wikilink")（声 - [中村千絵](../Page/中村千絵.md "wikilink")）
+  - [はたけカカシ](../Page/はたけカカシ.md "wikilink")（声 - [井上和彦](../Page/井上和彦_\(声優\).md "wikilink")）
 
 ### オリジナルキャラクター
 
 #### 映画関係者
 
   - 富士風雪絵（ふじかぜ ゆきえ） / 風花小雪（かざはな こゆき）
-    声 - [甲斐田裕子](https://ja.wikipedia.org/wiki/甲斐田裕子 "wikilink")、[美山加恋](../Page/美山加恋.md "wikilink")（幼少期）
+    声 - [甲斐田裕子](../Page/甲斐田裕子.md "wikilink")、[美山加恋](../Page/美山加恋.md "wikilink")（幼少期）
     映画『風雲姫』シリーズのヒロインの**風雲姫（ふううんひめ）**役で知られる人気女優。早雪の娘。10年前のクーデターからやる気も覇気も無く、諦め癖がつき、涙も流せなくなっていた。だが、ナルトに出会って変わり、最終的には雪の国の君主に即位し女優も続ける様子。
     『風雲姫』シリーズにおける風雲姫は三人の共を連れており、『[オズの魔法使い](../Page/オズの魔法使い.md "wikilink")』のヒロイン・ドロシーや『[西遊記](../Page/西遊記.md "wikilink")』の[三蔵法師](../Page/三蔵法師.md "wikilink")を思わせる立ち位置にある。
   - 浅間三太夫（あさま さんだゆう）
-    声 - [西川幾雄](https://ja.wikipedia.org/wiki/西川幾雄 "wikilink")
+    声 - [西川幾雄](../Page/西川幾雄.md "wikilink")
     雪絵のマネージャー。早雪に仕えていた。
   - マキノ監督
     声 - [大塚周夫](../Page/大塚周夫.md "wikilink")
     『風雲姫』シリーズの監督。
   - 助監督
-    声 - [高瀬右光](https://ja.wikipedia.org/wiki/高瀬右光 "wikilink")
+    声 - [高瀬右光](../Page/高瀬右光.md "wikilink")
   - マキノ組・カメラマン
-    声 - [髙階俊嗣](https://ja.wikipedia.org/wiki/高階俊嗣 "wikilink")
+    声 - [髙階俊嗣](../Page/高階俊嗣.md "wikilink")
   - ミッチー
-    声 - [古澤徹](https://ja.wikipedia.org/wiki/古澤徹 "wikilink")
+    声 - [古澤徹](../Page/古澤徹.md "wikilink")
     『風雲姫』シリーズで**助悪郎**（すけあくろう）を演じる長髪の俳優。サクラからは『ミッチー様』と呼ばれるなど、ハンサム。
     『風雲姫』シリーズにおける風雲姫以外の役名は、『オズの魔法使い』でヒロイン・ドロシーと共に冒険する三人組に由来しており、助悪郎の役名は知恵のないカカシから。また劇中の服装は『西遊記』の[孫悟空](../Page/孫悟空.md "wikilink")を連想させる。
   - キンちゃん
-    声 - [田中完](https://ja.wikipedia.org/wiki/田中完 "wikilink")
+    声 - [田中完](../Page/田中完.md "wikilink")
     『風雲姫』シリーズで**鰤金斗**（ぶりきんと）を演じるスキンヘッドの俳優。鰤金斗の役名は心のないブリキの木こりから、劇中の衣装は[沙悟浄](../Page/沙悟浄.md "wikilink")を思わせる。
   - ヒデローさん
-    声 - [仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")
+    声 - [仲野裕](../Page/仲野裕.md "wikilink")
     『風雲姫』シリーズで**獅子丸**（ししまる）を演じる顎髭の生えた俳優。獅子丸の役名は勇気のないライオンから、衣装は[猪八戒](../Page/猪八戒.md "wikilink")を思わせる。
   - 悪頭大魔王
-    声 - [宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")
+    声 - [宝亀克寿](../Page/宝亀克寿.md "wikilink")
     『風雲姫』シリーズの悪役、名前の由来はオズの大魔法使い、及び[牛魔王](../Page/牛魔王.md "wikilink")より。役者名は不明。
 
 #### 雪の国
@@ -62,7 +62,7 @@
     声 - [石塚英彦](../Page/石塚英彦.md "wikilink")([ホンジャマカ](../Page/ホンジャマカ.md "wikilink"))
     雪の国の先代の君主で小雪の父親。故人。
   - 風花ドトウ（かざはな ドトウ）
-    声 - [磯部勉](https://ja.wikipedia.org/wiki/磯部勉 "wikilink")
+    声 - [磯部勉](../Page/磯部勉.md "wikilink")
     雪忍を雇い、兄である早雪を退け雪の国を支配しようとしたこの映画最大の敵で、最新のチャクラの鎧を着込み、圧倒的な力を見せつけるが、サスケの千鳥によって鎧の核に傷をつけられ、最後はナルトの螺旋丸に敗れる。『[ナルティメットヒーロー2](../Page/NARUTO_-ナルト-_ナルティメットヒーロー.md "wikilink")』にも登場。
 
 #### 雪隠れの里
@@ -72,9 +72,9 @@
     雪忍のリーダー格で、10年前の[クーデター](../Page/クーデター.md "wikilink")の際、当時暗部だったカカシと戦ったことがあり、再戦ではチャクラの鎧に頼りすぎたのが仇となりカカシの体術に敗れる。
   - 冬熊ミゾレ（ふゆくま ミゾレ）
     声 - [金子はりい](../Page/かねこはりい.md "wikilink")
-    [スケートボード](https://ja.wikipedia.org/wiki/スケートボード "wikilink")のようなもので移動するが、サクラの劇場版オリジナル忍術「サクラ吹雪の術」に敗れる。
+    [スケートボード](../Page/スケートボード.md "wikilink")のようなもので移動するが、サクラの劇場版オリジナル忍術「サクラ吹雪の術」に敗れる。
   - 鶴翼フブキ（かくよく フブキ）
-    声 - [唐沢潤](https://ja.wikipedia.org/wiki/唐沢潤 "wikilink")
+    声 - [唐沢潤](../Page/唐沢潤.md "wikilink")
     チャクラの鎧で空を飛ぶことが出来るくの一だが、サスケの「獅子連弾」に敗れる。
 
 #### その他
@@ -88,10 +88,10 @@
 
 ## スタッフ
 
-  - 監督 - [岡村天斎](https://ja.wikipedia.org/wiki/岡村天斎 "wikilink")
+  - 監督 - [岡村天斎](../Page/岡村天斎.md "wikilink")
   - アニメーション監修 - [伊達勇登](../Page/伊達勇登.md "wikilink")
   - 脚本 - [隅沢克之](../Page/隅沢克之.md "wikilink")
-  - キャラクターデザイン - [西尾鉄也](https://ja.wikipedia.org/wiki/西尾鉄也 "wikilink")
+  - キャラクターデザイン - [西尾鉄也](../Page/西尾鉄也.md "wikilink")
   - コンセプトデザイン - 遠藤正明
   - メカニックデザイン - [荒牧伸志](../Page/荒牧伸志.md "wikilink")
   - 絵コンテ - 岡村天斎、川崎博嗣
@@ -117,7 +117,7 @@
 ## 同時上映
 
   - 劇場版 NARUTO -ナルト- 木ノ葉の里の大うん動会
-    有給休暇をかけた班対抗の運動会での出来事。本編に登場した登場人物のうち、本作でセリフがないもののほとんどは[モブキャラクター](../Page/モブキャラクター.md "wikilink")として登場した。テレビでは[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")のスペシャルにて放送された。
+    有給休暇をかけた班対抗の運動会での出来事。本編に登場した登場人物のうち、本作でセリフがないもののほとんどは[モブキャラクター](../Page/モブキャラクター.md "wikilink")として登場した。テレビでは[2006年](../Page/2006年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")のスペシャルにて放送された。
 
 <!-- end list -->
 
@@ -125,18 +125,18 @@
 
 <!-- end list -->
 
-  - うずまきナルト：[竹内順子](https://ja.wikipedia.org/wiki/竹内順子 "wikilink")
-  - うちはサスケ：[杉山紀彰](https://ja.wikipedia.org/wiki/杉山紀彰 "wikilink")
-  - 春野サクラ：[中村千絵](https://ja.wikipedia.org/wiki/中村千絵 "wikilink")
+  - うずまきナルト：[竹内順子](../Page/竹内順子.md "wikilink")
+  - うちはサスケ：[杉山紀彰](../Page/杉山紀彰.md "wikilink")
+  - 春野サクラ：[中村千絵](../Page/中村千絵.md "wikilink")
   - 奈良シカマル：[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")
-  - 山中いの：[柚木涼香](https://ja.wikipedia.org/wiki/柚木涼香 "wikilink")
+  - 山中いの：[柚木涼香](../Page/柚木涼香.md "wikilink")
   - 秋道チョウジ：[伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")
   - 日向ヒナタ：[水樹奈々](../Page/水樹奈々.md "wikilink")
-  - 犬塚キバ：[鳥海浩輔](https://ja.wikipedia.org/wiki/鳥海浩輔 "wikilink")
-  - 油女シノ：[川田紳司](https://ja.wikipedia.org/wiki/川田紳司 "wikilink")
+  - 犬塚キバ：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")
+  - 油女シノ：[川田紳司](../Page/川田紳司.md "wikilink")
   - 五代目火影・綱手：[勝生真沙子](../Page/勝生真沙子.md "wikilink")
   - うみのイルカ：[関俊彦](../Page/関俊彦.md "wikilink")
-  - みたらしアンコ：[本田貴子](https://ja.wikipedia.org/wiki/本田貴子 "wikilink")
+  - みたらしアンコ：[本田貴子](../Page/本田貴子.md "wikilink")
 
 <!-- end list -->
 
@@ -168,7 +168,7 @@
 
 ## 映像ソフト化
 
-  - 本編の[DVD](../Page/DVD.md "wikilink")は[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")発売。
+  - 本編の[DVD](../Page/DVD.md "wikilink")は[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")発売。
 
 ## 脚注
 

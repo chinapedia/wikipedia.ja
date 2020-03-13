@@ -1,7 +1,7 @@
 > この記事は[Riena](https://ja.wikipedia.org/wiki/Riena)から翻訳されています。
 
 
-**Riena**（りえな、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月9日](../Page/8月9日.md "wikilink") - ）は、[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身の[ファッションモデル](https://ja.wikipedia.org/wiki/ファッションモデル "wikilink")。フリーランス。
+**Riena**（りえな、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月9日](../Page/8月9日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[ファッションモデル](../Page/ファッションモデル.md "wikilink")。フリーランス。
 
 ## 略歴
 

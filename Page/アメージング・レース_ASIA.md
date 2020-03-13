@@ -1,7 +1,7 @@
 > この記事は[ ASIA](https://ja.wikipedia.org/wiki/_ASIA)から翻訳されています。
 
 
-**アメージング・レース ASIA**（アメージング・レース アジア、*The Amazing Race Asia*）は、[AXN](../Page/AXN.md "wikilink")で放送される[アメージング・レース](../Page/アメージング・レース.md "wikilink")の[アジア](https://ja.wikipedia.org/wiki/アジア "wikilink")版。
+**アメージング・レース ASIA**（アメージング・レース アジア、*The Amazing Race Asia*）は、[AXN](../Page/AXN.md "wikilink")で放送される[アメージング・レース](../Page/アメージング・レース.md "wikilink")の[アジア](../Page/アジア.md "wikilink")版。
 
 ## 番組概要
 
@@ -11,7 +11,7 @@
 
 ルールや参加資格の多くはアメリカ版と共通している。参加者は2人1組10チームで行われ、アジア出身者、およびアジアに長期間暮らしている非アジア人で、以前から何らかの関係を持つ2人組である必要がある。21歳以上、国際免許証とパスポートを持ち、英語を話せることが条件になる。出身は一ヶ国でなくても構わない。参加国は中東・オーストラリア・ニュージーランドを除くアジア各国である。なお日本はシーズン1では除外されていたが、日本でも放送開始されたシーズン2からは参加できるようになり、シーズン2では日本チームも参加している。
 
-シーズン1は放送に先駆け、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")からプロモーションツアーを開始し、[11月9日](../Page/11月9日.md "wikilink")に放送開始。10チームが参加した。
+シーズン1は放送に先駆け、[2006年](../Page/2006年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")からプロモーションツアーを開始し、[11月9日](../Page/11月9日.md "wikilink")に放送開始。10チームが参加した。
 
 日本では[AXN](../Page/AXN.md "wikilink")にて[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")より、第2シーズンが放送された。
 
@@ -70,7 +70,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/南アフリカ共和国" title="wikilink">南アフリカ共和国</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/アジア" title="wikilink">アジア</a></p></td>
+<td><p><a href="../Page/アジア.md" title="wikilink">アジア</a></p></td>
 <td><p><a href="../Page/中華人民共和国.md" title="wikilink">中華人民共和国</a>（<a href="https://ja.wikipedia.org/wiki/香港" title="wikilink">香港</a>、<a href="https://ja.wikipedia.org/wiki/澳門" title="wikilink">澳門</a>含む）、<a href="../Page/インド.md" title="wikilink">インド</a>、<strong><a href="../Page/インドネシア.md" title="wikilink">インドネシア</a></strong>、<a href="https://ja.wikipedia.org/wiki/日本" title="wikilink">日本</a>、<a href="https://ja.wikipedia.org/wiki/マレーシア" title="wikilink">マレーシア</a>、<a href="../Page/オマーン.md" title="wikilink">オマーン</a>、<a href="https://ja.wikipedia.org/wiki/フィリピン" title="wikilink">フィリピン</a>、<a href="https://ja.wikipedia.org/wiki/シンガポール" title="wikilink">シンガポール</a>、<a href="../Page/スリランカ.md" title="wikilink">スリランカ</a>、<a href="../Page/大韓民国.md" title="wikilink">大韓民国</a>、<a href="https://ja.wikipedia.org/wiki/台湾" title="wikilink">台湾</a>、<a href="../Page/タイ王国.md" title="wikilink">タイ</a>、<a href="../Page/アラブ首長国連邦.md" title="wikilink">アラブ首長国連邦</a>、<a href="https://ja.wikipedia.org/wiki/ベトナム" title="wikilink">ベトナム</a></p></td>
 </tr>
 <tr class="even">

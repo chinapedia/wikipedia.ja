@@ -1,7 +1,7 @@
 > この記事は[SUPERFINE SUNDAY](https://ja.wikipedia.org/wiki/SUPERFINE_SUNDAY)から翻訳されています。
 
 
-**SUPERFINE SUNDAY**（スーパーファイン・サンデー）は[FM802](../Page/FM802.md "wikilink")で放送されているラジオ番組。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送開始。
+**SUPERFINE SUNDAY**（スーパーファイン・サンデー）は[FM802](../Page/FM802.md "wikilink")で放送されているラジオ番組。[2006年](../Page/2006年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")放送開始。
 
 ## 概要
 

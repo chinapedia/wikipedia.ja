@@ -7,7 +7,7 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")開局。
 
-[東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[足立区](../Page/足立区.md "wikilink")に所在した草の根BBS局であり、その規模は草の根BBSとして日本最大の規模を誇った。
+[東京都](../Page/東京都.md "wikilink")[足立区](../Page/足立区.md "wikilink")に所在した草の根BBS局であり、その規模は草の根BBSとして日本最大の規模を誇った。
 
 内容はおよそホビーに特化しており、他の[パソコン通信](../Page/パソコン通信.md "wikilink")局とともに現在へ繋がる[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")文化に多大な影響を与えた。
 

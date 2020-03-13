@@ -20,7 +20,7 @@
           - 月曜 - 金曜：ニュースに続いて天気予報、土曜・日曜：ニュース終了後、CMを挿んで天気予報
           - 月曜 - 金曜：キャスターの挨拶（画面右上に「RNCニューススポット」のロゴ表示。日によっては挨拶をカットし、開始直後からニュースを読み始める場合がある）→ニュース本編→香川・岡山の週間天気→30秒のスポットCMまたは番宣【スポンサーがあるときにはスポンサーCM】→エンディング（提供クレジットはこの静止画クレジットの際に中央下部に表示される）
           - 土曜・日曜：キャスターの挨拶（月曜 - 金曜と同様の編成）→ニュース本編→30秒のスポットCMまたは番宣→天気予報本編→エンディング
-  - 1970年代にはテーマ曲として、西部劇『[大いなる西部](https://ja.wikipedia.org/wiki/大いなる西部 "wikilink")』のテーマ曲（[ジェローム・モロス](https://ja.wikipedia.org/wiki/ジェローム・モロス "wikilink")作曲）のイントロ部分を流用していた。
+  - 1970年代にはテーマ曲として、西部劇『[大いなる西部](https://ja.wikipedia.org/wiki/大いなる西部 "wikilink")』のテーマ曲（[ジェローム・モロス](../Page/ジェローム・モロス.md "wikilink")作曲）のイントロ部分を流用していた。
 
 ### JUST NEWS
 
@@ -28,14 +28,14 @@
   - 番組タイトルは、『**RNCニュース**』→『**RNC JUST NEWS**』を経て現在では『**JUST NEWS**』となっている（1970年代に日本テレビで放送された全国ニュース『[NNN JUST NEWS](../Page/NNN_JUST_NEWS.md "wikilink")』とは関係ない）。だが、西日本放送の公式ページの番組表やEPG番組表では「RNC Just News」の表記が使用されている。番組最後のタイトルとともに「西日本放送・四国新聞社」の連名で表記されている（[四国新聞](../Page/四国新聞.md "wikilink")との協力・提携の形を取っているが、あくまでRNCの自社取材によるローカルニュースである）。
   - 『[真相報道 バンキシャ\!](../Page/真相報道_バンキシャ!.md "wikilink")』でのローカルニュース差し替えは行なわれておらず、事実上この『JUST NEWS』が日曜夕方のローカルニュースという扱いになっている。
       - 2018年3月までは土曜日の16:55 - 17:00にも放送されており、その後放送される『[news every.サタデー](https://ja.wikipedia.org/wiki/news_every. "wikilink")』においてはローカルニュース枠を設けず別の番組を放送していた。2018年4月以降は当番組に替わり『news every.サタデー』のローカルニュース枠を新設している。
-  - 1990年代半ばには平日昼帯（13:55 - 14:00）で流れていたが、『[THE ワイド](../Page/ザ・ワイド.md "wikilink")』（現・『[情報ライブ ミヤネ屋](https://ja.wikipedia.org/wiki/情報ライブ_ミヤネ屋 "wikilink")』）開始に伴って廃枠となった（『THE ワイド』開始初期にはまだ14:00飛び乗りで、枠は存続されていた）。現在ではミニ情報番組『[情報あ〜る\!\!](https://ja.wikipedia.org/wiki/情報あ〜る!! "wikilink")』でニュース1本（大きなニュースが無ければほとんど取り上げるのは時節の話題）が伝えられる。番組のオープニングに「西日本放送・四国新聞社」のクレジットが出ている。
+  - 1990年代半ばには平日昼帯（13:55 - 14:00）で流れていたが、『[THE ワイド](../Page/ザ・ワイド.md "wikilink")』（現・『[情報ライブ ミヤネ屋](../Page/情報ライブ_ミヤネ屋.md "wikilink")』）開始に伴って廃枠となった（『THE ワイド』開始初期にはまだ14:00飛び乗りで、枠は存続されていた）。現在ではミニ情報番組『[情報あ〜る\!\!](../Page/情報あ〜る!!.md "wikilink")』でニュース1本（大きなニュースが無ければほとんど取り上げるのは時節の話題）が伝えられる。番組のオープニングに「西日本放送・四国新聞社」のクレジットが出ている。
   - 『JUST NEWS』はオープニング→ニュース本編→エンディングとシンプルな番組構成であるが、『RNCニューススポット』には一部曜日に番組スポンサーが付いているほか、ニュース本体のオープニングが存在しないという違いがある（上記参照）。
 
 ### 差し替え枠
 
   - 一方で、平日帯以外でのローカルニュース差し替えについては、現在『NNNストレイトニュース』のローカル枠で平日・土日を問わずに差し替えを行っている。
       - 2008年10月中旬までは、平日深夜において『[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")』『[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")』のローカル枠をローカルニュース（＋週間天気）に差し替えていた（なお、『NEWS ZERO』の初期にはローカル枠が縮小されていたためにローカル天気のみだったが、ごく稀にローカルニュースへの差し替えを行う場合もあった）。
-  - また、日曜深夜の『[NNNニュース](https://ja.wikipedia.org/wiki/NNNニュース "wikilink")』については、香川・岡山の県知事選挙または主要都市の市長選挙が行なわれた場合のみ開票情報という形でローカル枠の差し替えを行っている。
+  - また、日曜深夜の『[NNNニュース](../Page/NNNニュース.md "wikilink")』については、香川・岡山の県知事選挙または主要都市の市長選挙が行なわれた場合のみ開票情報という形でローカル枠の差し替えを行っている。
   - 一貫して土曜夕方枠の差し替えニュースは行なわれておらず、全国ニュースのみ（17:20）で打ち切る（土曜夕方のローカルニュースは『JUST NEWS』で対応）。
   - かつての『[NNN日曜夕刊](../Page/NNN日曜夕刊.md "wikilink")』→『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")サンデー』→『[The独占サンデー](../Page/THE独占サンデー.md "wikilink")』ではローカルニュース差し替えは実施していたが、『真相報道 バンキシャ\!』ではローカルニュースは行なわれず、ローカル天気のみになった（2005年9月までは実施、現在ローカルニュースはこちらも『JUST NEWS』で対応）。
 
@@ -44,6 +44,6 @@
   - 独立した枠としては平日には無く（いずれも自社ワイド番組・全国ネットのワイド番組で内包されている）、土日の17:50 - 18:00と20:55 - 21:00に実施。
       - 『[@ll night nippon Super\!](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』をネットしていた時期に、22:58から2分間の枠を設けていた時期もあった。
   - RNCニュースと名乗るのはごく少数で、殆どは系列の新聞社名を名乗る形を取っている。全国ニュースは『読売新聞ニュース』で、香川県内のローカルニュースは『四国新聞ニュース』である。通常はまとめて伝えているので、冒頭に「読売新聞ニュースと四国新聞ニュースをお送りします」と言う。
-  - 平日において午前中の『[さわやかラジオ きょうも一日きし、快晴\!](../Page/さわやかラジオ_きょうも一日きし、快晴!.md "wikilink")』中においてはパーソナリティの[岸たけし](../Page/岸猛.md "wikilink")（RNCアナウンサー）がそのまま担当。午後の『ミュージックインランチボックス』『[情報てんこもりラジオでDON](../Page/情報てんこもりラジオでDON.md "wikilink")』については後続の『[RNC TODAY](https://ja.wikipedia.org/wiki/RNC_TODAY "wikilink")』担当の[日野真](../Page/日野真.md "wikilink")（RNCアナウンサー）が担当している。まれに違うアナウンサーが担当する場合があり、その際にはテレビ『[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")』のローカルパート担当だったアナウンサーや『[RNC NEWSリアルタイム](../Page/RNC_Newsリアルタイム.md "wikilink")』のメインキャスター（[鴨居真理子](../Page/鴨居真理子.md "wikilink")（RNCアナウンサー）か[山口喜久一郎](../Page/山口喜久一郎_\(アナウンサー\).md "wikilink")（元RNCアナウンサー）のどちらか）が担当する。
+  - 平日において午前中の『[さわやかラジオ きょうも一日きし、快晴\!](../Page/さわやかラジオ_きょうも一日きし、快晴!.md "wikilink")』中においてはパーソナリティの[岸たけし](../Page/岸猛.md "wikilink")（RNCアナウンサー）がそのまま担当。午後の『ミュージックインランチボックス』『[情報てんこもりラジオでDON](../Page/情報てんこもりラジオでDON.md "wikilink")』については後続の『[RNC TODAY](../Page/RNC_TODAY.md "wikilink")』担当の[日野真](../Page/日野真.md "wikilink")（RNCアナウンサー）が担当している。まれに違うアナウンサーが担当する場合があり、その際にはテレビ『[NNNストレイトニュース](../Page/NNNストレイトニュース.md "wikilink")』のローカルパート担当だったアナウンサーや『[RNC NEWSリアルタイム](../Page/RNC_Newsリアルタイム.md "wikilink")』のメインキャスター（[鴨居真理子](../Page/鴨居真理子.md "wikilink")（RNCアナウンサー）か[山口喜久一郎](../Page/山口喜久一郎_\(アナウンサー\).md "wikilink")（元RNCアナウンサー）のどちらか）が担当する。
 
 [Category:西日本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:西日本放送のテレビ番組 "wikilink") [Category:西日本放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:西日本放送のラジオ番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:ローカルラジオ局のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のニュース・報道番組 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:NNN昼のニュース](https://ja.wikipedia.org/wiki/Category:NNN昼のニュース "wikilink") [Category:NNNニュースダッシュ](https://ja.wikipedia.org/wiki/Category:NNNニュースダッシュ "wikilink") [Category:NNNストレイトニュース](https://ja.wikipedia.org/wiki/Category:NNNストレイトニュース "wikilink") [Category:NNN日曜夕刊](https://ja.wikipedia.org/wiki/Category:NNN日曜夕刊 "wikilink") [Category:ヤン坊マー坊天気予報](https://ja.wikipedia.org/wiki/Category:ヤン坊マー坊天気予報 "wikilink")

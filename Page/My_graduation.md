@@ -6,12 +6,12 @@
 ## 解説
 
   - ジャケット写真のチョーカーが好評で問い合わせが殺到し、[ファンクラブ](../Page/ファンクラブ.md "wikilink")限定で発売されたというエピソードがある。
-  - 累計売上は175万枚\[1\]。[オリコン集計での累計売上は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")147.4万枚。
+  - 累計売上は175万枚\[1\]。[オリコン集計での累計売上は](../Page/オリコンチャート.md "wikilink")147.4万枚。
 
 ## 収録曲
 
 1.  **my graduation**
-      - [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+      - [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink") / [編曲](../Page/編曲.md "wikilink")：[水島康貴](../Page/水島康貴.md "wikilink")
     <!-- end list -->
       -
         「私の卒業」というタイトルどおり[卒業式](../Page/卒業式.md "wikilink")の定番曲であるが、卒業らしい言葉は歌詞に登場しない。
@@ -38,7 +38,7 @@
   - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](../Page/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜.md "wikilink")（\#1、ライブ音源）
   - [SPEEDLAND -The Premium Best Re Tracks-](https://ja.wikipedia.org/wiki/SPEEDLAND_-The_Premium_Best_Re_Tracks- "wikilink")（\#1、Re Track）
 
-**[PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")**
+**[PV集](../Page/ミュージック・ビデオ.md "wikilink")**
 
   - [SPEED VIDEO CLIPS「SPEED SPIRITS I」](https://ja.wikipedia.org/wiki/SPEED_VIDEO_CLIPS「SPEED_SPIRITS_I」 "wikilink")[VHS](../Page/VHS.md "wikilink")、[DVD](../Page/DVD.md "wikilink")（\#1）
   - [SPEED VIDEO CLIPS「SPEED SPIRITS COMPLETE」DVD](../Page/SPEED_VIDEO_CLIPS「SPEED_SPIRITS_COMPLETE」.md "wikilink")（\#1）
@@ -47,12 +47,12 @@
 
   - 「[速報\!歌の大辞テン\!\!](https://ja.wikipedia.org/wiki/速報!歌の大辞テン!! "wikilink")」presents BALLADS DAIJITEN\! 昭和 VS 平成（\#1、表記無しだがAlbum Version）
   - [クライマックス ロマンティック・ソングス](https://ja.wikipedia.org/wiki/クライマックス_ロマンティック・ソングス "wikilink")（\#1）
-  - [CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink") NO.1 HITS〜ナキウタ〜（\#1）
+  - [CDTV](../Page/COUNT_DOWN_TV.md "wikilink") NO.1 HITS〜ナキウタ〜（\#1）
   - [胸キュン90's 〜ひとりで聴きたい恋の唄〜](https://ja.wikipedia.org/wiki/胸キュン90's_〜ひとりで聴きたい恋の唄〜 "wikilink")（\#1）
 
 ## カバー
 
-  - [浅倉杏美](https://ja.wikipedia.org/wiki/浅倉杏美 "wikilink")、[原由実](https://ja.wikipedia.org/wiki/原由実 "wikilink")、[沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink") - 2013年発売のアルバム『[THE IDOLM@STER STATION\!\!\! FAVORITE TALKS](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!!#CD "wikilink")』に収録。
+  - [浅倉杏美](../Page/浅倉杏美.md "wikilink")、[原由実](https://ja.wikipedia.org/wiki/原由実 "wikilink")、[沼倉愛美](https://ja.wikipedia.org/wiki/沼倉愛美 "wikilink") - 2013年発売のアルバム『[THE IDOLM@STER STATION\!\!\! FAVORITE TALKS](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_STATION!!!#CD "wikilink")』に収録。
   - [華原朋美](../Page/華原朋美.md "wikilink") - 2014年3月12日発売のアルバム『[MEMORIES -Kahara Covers-](https://ja.wikipedia.org/wiki/MEMORIES_-Kahara_Covers- "wikilink")』に収録。
   - [Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink") - 2015年8月19日発売のアルバム『THE HITS ～No.1 SONG COVERS～』に収録。
 

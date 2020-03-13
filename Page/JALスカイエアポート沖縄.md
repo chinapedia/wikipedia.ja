@@ -11,10 +11,10 @@
 ## 事業所
 
   - [那覇空港](../Page/那覇空港.md "wikilink")
-  - [新石垣空港](https://ja.wikipedia.org/wiki/新石垣空港 "wikilink")
-  - [宮古空港](https://ja.wikipedia.org/wiki/宮古空港 "wikilink")
-  - [久米島空港](https://ja.wikipedia.org/wiki/久米島空港 "wikilink")
-  - [与那国空港](https://ja.wikipedia.org/wiki/与那国空港 "wikilink")
+  - [新石垣空港](../Page/新石垣空港.md "wikilink")
+  - [宮古空港](../Page/宮古空港.md "wikilink")
+  - [久米島空港](../Page/久米島空港.md "wikilink")
+  - [与那国空港](../Page/与那国空港.md "wikilink")
   - [南大東空港](../Page/南大東空港.md "wikilink")
 
 ## 業務内容

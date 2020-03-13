@@ -1,11 +1,11 @@
 > この記事は[For my DEAREST](https://ja.wikipedia.org/wiki/For_my_DEAREST)から翻訳されています。
 
 
-**for my DEAREST**（フォー・マイ・ディアレスト）は、[稲垣潤一](https://ja.wikipedia.org/wiki/稲垣潤一 "wikilink")の13枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。
+**for my DEAREST**（フォー・マイ・ディアレスト）は、[稲垣潤一](../Page/稲垣潤一.md "wikilink")の13枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")である。
 
 ## 解説
 
-  - 前年に「[クリスマスキャロルの頃には](../Page/クリスマスキャロルの頃には.md "wikilink")」が大ヒットした中で発売され、オリコン初登場2位、[ゴールドディスク](https://ja.wikipedia.org/wiki/ゴールドディスク "wikilink")賞受賞などにも輝いている。ただし「クリスマスキャロルの頃には」は収録されていない。
+  - 前年に「[クリスマスキャロルの頃には](../Page/クリスマスキャロルの頃には.md "wikilink")」が大ヒットした中で発売され、オリコン初登場2位、[ゴールドディスク](../Page/ゴールドディスク.md "wikilink")賞受賞などにも輝いている。ただし「クリスマスキャロルの頃には」は収録されていない。
   - シングル「[僕ならばここにいる](https://ja.wikipedia.org/wiki/僕ならばここにいる "wikilink")」を収録。[1993年](../Page/1993年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")には「[マラソンレース](https://ja.wikipedia.org/wiki/マラソンレース "wikilink")」が[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
   - 全曲、[秋元康](../Page/秋元康.md "wikilink")が作詞を提供している。
   - コーラスには[村田和人](../Page/村田和人.md "wikilink")や[安部恭弘](../Page/安部恭弘.md "wikilink")の他、ギタリストの[河内淳一](../Page/河内淳一.md "wikilink")も参加している。
@@ -17,7 +17,7 @@
 1.  **Too much happiness**
     （作詞：[秋元康](../Page/秋元康.md "wikilink")　作曲：岸正之　編曲：[清水信之](../Page/清水信之.md "wikilink")）
 2.  **彼女はBLOOD TYPE B**
-    （作詞：秋元康　作曲：桑村達人　編曲：[萩田光雄](https://ja.wikipedia.org/wiki/萩田光雄 "wikilink")）
+    （作詞：秋元康　作曲：桑村達人　編曲：[萩田光雄](../Page/萩田光雄.md "wikilink")）
       - シングルカット曲『マラソンレース』のC/W曲。シングル版は「リアレンジバージョン」。
 3.  **僕ならばここにいる**
     （作詞:秋元康　作曲：[MAYUMI](../Page/堀川まゆみ.md "wikilink")　編曲:清水信之）

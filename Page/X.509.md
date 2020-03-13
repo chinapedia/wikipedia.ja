@@ -11,7 +11,7 @@
 
 ## 証明書
 
-X.509体系では、認証局は公開鍵を特定の[X.500](../Page/X.500.md "wikilink")の識別名もしくは[メールアドレス](https://ja.wikipedia.org/wiki/メールアドレス "wikilink")や[DNSエントリのような別の名前に関連付ける証明書を発行する](../Page/Domain_Name_System.md "wikilink")。
+X.509体系では、認証局は公開鍵を特定の[X.500](../Page/X.500.md "wikilink")の識別名もしくは[メールアドレス](../Page/メールアドレス.md "wikilink")や[DNSエントリのような別の名前に関連付ける証明書を発行する](../Page/Domain_Name_System.md "wikilink")。
 
 組織の信頼された[ルート証明書](../Page/ルート証明書.md "wikilink")は全従業員に配布可能であるため、従業員は社内PKIシステムを使うことができる。[Internet Explorer](../Page/Internet_Explorer.md "wikilink"), [Netscape](https://ja.wikipedia.org/wiki/Netscape "wikilink")/[Mozilla](../Page/Mozilla.md "wikilink"), [Opera](https://ja.wikipedia.org/wiki/Opera "wikilink"), [Safari](../Page/Safari.md "wikilink")のようなブラウザはインストール済みのルート証明書とともに配布されるため、大手ベンダーから入手した[SSL証明書はすぐに動作する](https://ja.wikipedia.org/wiki/Secure_Sockets_Layer "wikilink")。事実上、ブラウザの所有者が、どの証明機関をブラウザのユーザーにとっての信頼できる第三者にするかを決定している。ルート証明書は削除することも無効にすることもできるが、ユーザーがそれを行うことは極めてまれである。
 
@@ -178,11 +178,11 @@ PKIの問題については数多くの出版物がある<ref name="schneier">
 
   - [Transport Layer Security](../Page/Transport_Layer_Security.md "wikilink") (TLS/SSL)
   - [S/MIME](https://ja.wikipedia.org/wiki/S/MIME "wikilink")
-  - [IPsec](https://ja.wikipedia.org/wiki/IPsec "wikilink")
+  - [IPsec](../Page/IPsec.md "wikilink")
   - [SSH](../Page/Secure_Shell.md "wikilink")
   - [スマートカード](https://ja.wikipedia.org/wiki/スマートカード "wikilink")
   - [HTTPS](../Page/HTTPS.md "wikilink")
-  - [Extensible Authentication Protocol](https://ja.wikipedia.org/wiki/Extensible_Authentication_Protocol "wikilink")
+  - [Extensible Authentication Protocol](../Page/Extensible_Authentication_Protocol.md "wikilink")
   - [LDAP](../Page/Lightweight_Directory_Access_Protocol.md "wikilink")
   - [Trusted Computing Group](https://www.trustedcomputinggroup.org/faq/TNCFAQ/) (TNC TPM NGSCB)
   - [CableLabs](https://www.cablelabs.com/) (North American Cable Industry Technology Forum)

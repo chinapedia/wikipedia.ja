@@ -1,7 +1,7 @@
 > この記事は[Misumi](https://ja.wikipedia.org/wiki/Misumi)から翻訳されています。
 
 
-**株式会社Misumi**（ミスミ）は、[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")[卸本町に本社を置く企業で](https://ja.wikipedia.org/wiki/卸本町_\(鹿児島市\) "wikilink")、[九州南部地区](https://ja.wikipedia.org/wiki/南九州 "wikilink")（鹿児島県・[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")）でエネルギー・外食・カルチャー・天然水販売などを展開。[福岡証券取引所](../Page/福岡証券取引所.md "wikilink")単独[上場](../Page/上場.md "wikilink")銘柄のひとつである（[証券コード](https://ja.wikipedia.org/wiki/証券コード "wikilink")は7441）。コーポレートスローガンは「**夢に、前向き**」である\[1\]。
+**株式会社Misumi**（ミスミ）は、[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")[卸本町に本社を置く企業で](https://ja.wikipedia.org/wiki/卸本町_\(鹿児島市\) "wikilink")、[九州南部地区](../Page/南九州.md "wikilink")（鹿児島県・[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")）でエネルギー・外食・カルチャー・天然水販売などを展開。[福岡証券取引所](../Page/福岡証券取引所.md "wikilink")単独[上場](../Page/上場.md "wikilink")銘柄のひとつである（[証券コード](../Page/証券コード.md "wikilink")は7441）。コーポレートスローガンは「**夢に、前向き**」である\[1\]。
 
 ## 沿革
 
@@ -11,9 +11,9 @@
   - [1964年](../Page/1964年.md "wikilink")（昭和39年） [2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 石油部門の営業を譲受、石油製品の販売開始。
   - [1965年](../Page/1965年.md "wikilink")（昭和40年） [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - 松下電器産業（株）（現・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")（株））と代理店契約を締結。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年） [9月](../Page/9月.md "wikilink") - 鹿児島市に鹿児島日東タイヤ（株）（現・南九州[トーヨータイヤ](https://ja.wikipedia.org/wiki/東洋ゴム工業 "wikilink")）を設立。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年） [2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 鹿児島市に三角住宅設備機器（株）(現・（株）ミスミ建設）を設立。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年） [2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - 鹿児島市に三角住宅設備機器（株）(現・（株）ミスミ建設）を設立。
   - [1976年](../Page/1976年.md "wikilink")（昭和51年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [日本ケンタッキー・フライド・チキン](https://ja.wikipedia.org/wiki/日本ケンタッキーフライドチキン "wikilink")（株）と[フランチャイズ](../Page/フランチャイズ.md "wikilink")契約締結。
-  - [1984年](../Page/1984年.md "wikilink")（昭和59年） [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 鹿児島市に（株）[オートラマ](../Page/オートラマ.md "wikilink")鹿児島（現・（株）[フォード南九州](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")）を設立。
+  - [1984年](../Page/1984年.md "wikilink")（昭和59年） [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - 鹿児島市に（株）[オートラマ](../Page/オートラマ.md "wikilink")鹿児島（現・（株）[フォード南九州](../Page/フォード・モーター.md "wikilink")）を設立。
   - 1984年（昭和59年） [6月](../Page/6月.md "wikilink") - [日本出版販売](../Page/日本出版販売.md "wikilink")（株）と取引契約締結。
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")（昭和61年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - [カルチュア・コンビニエンス・クラブ](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")（株）とフランチャイズ契約締結。
   - [1989年](../Page/1989年.md "wikilink")（平成元年） [4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - （株）ミスミへ社名変更。
@@ -40,9 +40,9 @@ Misumiが2018年現在行っている事業としては以下のものがある\
 
 ### かつて行っていた事業
 
-  - 外食部門 - [ピエトロ](https://ja.wikipedia.org/wiki/ピエトロ "wikilink")（ピエトロバルコーネ）、
+  - 外食部門 - [ピエトロ](../Page/ピエトロ.md "wikilink")（ピエトロバルコーネ）、
   - 水部門 - [姶良市](https://ja.wikipedia.org/wiki/姶良市 "wikilink")蒲生地域で採水された天然水「高牧の森の水」の販売\[4\]。2019年3月末をもってMisumiによる販売は終了した。\[5\]
-  - 自動車部門 - [フォード南九州](https://ja.wikipedia.org/wiki/フォード・モーター "wikilink")(現在は閉鎖)、
+  - 自動車部門 - [フォード南九州](../Page/フォード・モーター.md "wikilink")(現在は閉鎖)、
 
 ## CM
 

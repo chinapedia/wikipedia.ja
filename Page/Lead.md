@@ -1,13 +1,13 @@
 > この記事は[Lead](https://ja.wikipedia.org/wiki/Lead)から翻訳されています。
 
 
-**Lead**（リード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性3人組ダンス＆ボーカルグループ。[ライジングプロダクション](https://ja.wikipedia.org/wiki/ライジングプロダクション "wikilink")所属。レーベルは[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
+**Lead**（リード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性3人組ダンス＆ボーカルグループ。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。
 
 ## メンバー
 
   - **[谷内伸也](../Page/谷内伸也.md "wikilink")**（たにうち しんや、、大阪府[枚方市](../Page/枚方市.md "wikilink")出身、A型）
       - イメージカラーは緑。
-  - **[古屋敬多](../Page/古屋敬多.md "wikilink")**（ふるや けいた、、[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身、A型）
+  - **[古屋敬多](../Page/古屋敬多.md "wikilink")**（ふるや けいた、、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身、A型）
       - イメージカラーは黄。
   - **[鍵本輝](../Page/鍵本輝.md "wikilink")**（かぎもと あきら、、[奈良県](../Page/奈良県.md "wikilink")[生駒郡](../Page/生駒郡.md "wikilink")[斑鳩町](../Page/斑鳩町.md "wikilink")出身、O型）
       - イメージカラーは青。
@@ -19,10 +19,10 @@
 
 ## 略歴
 
-[2002年](../Page/2002年.md "wikilink")4月からダンススクール「キャレス」大阪校に通っていた[中土居宏宜](../Page/中土居宏宜.md "wikilink")、[谷内伸也](../Page/谷内伸也.md "wikilink")、[鍵本輝](../Page/鍵本輝.md "wikilink")が「Rhymix」（リミックス）というユニットを組んで、ストリートライブを行っていた。その後、「flow」（フロウ）と改称し[京橋駅付近などで路上パフォーマンスを始め](https://ja.wikipedia.org/wiki/京橋駅_\(大阪府\) "wikilink")、同年6月に「九州・沖縄 スターライトオーディション2002」で審査員特別賞を受賞した[古屋敬多](../Page/古屋敬多.md "wikilink")が加わり現在のLeadが結成される。ユニット名の由来は時代を「リード」できる存在になりたい、という意味をこめて自分たちで命名。その後大阪で路上ライブを始め、[城天でのライブでは](https://ja.wikipedia.org/wiki/大阪城公園 "wikilink")7000人の観客を集めるようになる。
+[2002年](../Page/2002年.md "wikilink")4月からダンススクール「キャレス」大阪校に通っていた[中土居宏宜](../Page/中土居宏宜.md "wikilink")、[谷内伸也](../Page/谷内伸也.md "wikilink")、[鍵本輝](../Page/鍵本輝.md "wikilink")が「Rhymix」（リミックス）というユニットを組んで、ストリートライブを行っていた。その後、「flow」（フロウ）と改称し[京橋駅付近などで路上パフォーマンスを始め](https://ja.wikipedia.org/wiki/京橋駅_\(大阪府\) "wikilink")、同年6月に「九州・沖縄 スターライトオーディション2002」で審査員特別賞を受賞した[古屋敬多](../Page/古屋敬多.md "wikilink")が加わり現在のLeadが結成される。ユニット名の由来は時代を「リード」できる存在になりたい、という意味をこめて自分たちで命名。その後大阪で路上ライブを始め、[城天でのライブでは](../Page/大阪城公園.md "wikilink")7000人の観客を集めるようになる。
 同年夏、先輩である[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の1st Liveのオープニングアクトを務め全国を廻った。
 
-同年7月31日、シングル「[真夏のMagic](https://ja.wikipedia.org/wiki/真夏のMagic "wikilink")」で[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")のレーベル[FLIGHT MASTERよりデビュー](https://ja.wikipedia.org/wiki/FLIGHT_MASTER "wikilink")。2ndシングル「[Show me the way](https://ja.wikipedia.org/wiki/Show_me_the_way "wikilink")」で2002年[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")新人賞を受賞。6thシングル「[Night Deluxe](https://ja.wikipedia.org/wiki/Night_Deluxe "wikilink")」で[2004年](../Page/2004年.md "wikilink")[第46回日本レコード大賞](https://ja.wikipedia.org/wiki/第46回日本レコード大賞 "wikilink")金賞を受賞。8thシングル「[あたらしい季節へ](https://ja.wikipedia.org/wiki/あたらしい季節へ "wikilink")」で[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")金賞を受賞。
+同年7月31日、シングル「[真夏のMagic](https://ja.wikipedia.org/wiki/真夏のMagic "wikilink")」で[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")のレーベル[FLIGHT MASTERよりデビュー](https://ja.wikipedia.org/wiki/FLIGHT_MASTER "wikilink")。2ndシングル「[Show me the way](https://ja.wikipedia.org/wiki/Show_me_the_way "wikilink")」で2002年[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")新人賞を受賞。6thシングル「[Night Deluxe](https://ja.wikipedia.org/wiki/Night_Deluxe "wikilink")」で[2004年](../Page/2004年.md "wikilink")[第46回日本レコード大賞](https://ja.wikipedia.org/wiki/第46回日本レコード大賞 "wikilink")金賞を受賞。8thシングル「[あたらしい季節へ](https://ja.wikipedia.org/wiki/あたらしい季節へ "wikilink")」で[2005年](../Page/2005年.md "wikilink")[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")金賞を受賞。
 
 リクエスト・ベスト・アルバム『Lead Tracks 〜listener's choice〜』においてファンを中心に一般からの投票を募り、収録楽曲を決定するといったものを行った。日本のみならず[韓国](../Page/大韓民国.md "wikilink")、台湾、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")などでも投票受け付けを行い、リクエスト総数105,571票となった。
 
@@ -44,7 +44,7 @@
 
 ## 作品
 
-「順位」は全て[オリコン週間ランキング最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")
+「順位」は全て[オリコン週間ランキング最高位](../Page/オリコンチャート.md "wikilink")
 
 ### シングル
 
@@ -431,7 +431,7 @@
 
   - **buddies**（2003年3月19日）
       - 収録曲「FLY AWAY 〜AKIRA'S CONQUISTADOR REMIX〜」、「Show me the way 〜TinyVoice,Production REMIX〜」
-      - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")、[FLAME](https://ja.wikipedia.org/wiki/FLAME "wikilink")との合同[リミックス](../Page/リミックス.md "wikilink")・アルバム。
+      - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")、[FLAME](../Page/FLAME.md "wikilink")との合同[リミックス](../Page/リミックス.md "wikilink")・アルバム。
   - **CHRISTMAS HARMONY 〜VISION FACTORY presents〜**（2007年11月21日）
       - 収録曲「Ding Dong」、「OkiDoki Christmas」
       - ヴィジョンファクトリー所属アーティストによるコンピレーション・アルバム。
@@ -444,13 +444,13 @@
 
 ### 配信限定
 
-※規格は[着うた](../Page/着うた.md "wikilink")、[着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")（その他については楽曲毎に特記）。「24HRS」以降は[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")限定配信（☆）、レコチョク先行配信（★）。「24HRS」以降の最高順位はレコチョクチャート。なお、レコチョク限定配信楽曲はCD化に合わせて他の配信サイトでも配信されている。
+※規格は[着うた](../Page/着うた.md "wikilink")、[着うたフル](../Page/着うたフル.md "wikilink")（その他については楽曲毎に特記）。「24HRS」以降は[レコチョク](https://ja.wikipedia.org/wiki/レコチョク "wikilink")限定配信（☆）、レコチョク先行配信（★）。「24HRS」以降の最高順位はレコチョクチャート。なお、レコチョク限定配信楽曲はCD化に合わせて他の配信サイトでも配信されている。
 
 1.  **OkiDoki Christmas**（2006年12月8日）
 2.  **Ding Dong**（2006年12月8日）
       -
         規格：[待ちうた](https://ja.wikipedia.org/wiki/待ちうた "wikilink")（上記2曲）
-        上記2曲ともに[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")『CHRISTMAS HARMONY』に収録。
+        上記2曲ともに[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")『CHRISTMAS HARMONY』に収録。
 3.  **Load**（2006年12月29日）
       -
         14thシングル「[STAND UP\!](https://ja.wikipedia.org/wiki/STAND_UP!_\(Leadの曲\) "wikilink")」に収録。
@@ -469,7 +469,7 @@
 7.  **Hungry Sniper**（2011年12月28日）★
       -
         規格：待ちうた　最高順位；デイリー1位、週間6位（ともに着うた）
-        [林田健司](https://ja.wikipedia.org/wiki/林田健司 "wikilink")による書き下ろし。KEITA出演の[女性チャンネル♪LaLa TV](../Page/LaLa_TV.md "wikilink")・[LISMO](../Page/LISMO.md "wikilink")ドラマ「[恋する私のベーカリー](https://ja.wikipedia.org/wiki/恋する私のベーカリー "wikilink")」主題歌。19thシングル「[Wanna Be With You](https://ja.wikipedia.org/wiki/Wanna_Be_With_You "wikilink")」（通常盤）に収録。
+        [林田健司](../Page/林田健司.md "wikilink")による書き下ろし。KEITA出演の[女性チャンネル♪LaLa TV](../Page/LaLa_TV.md "wikilink")・[LISMO](../Page/LISMO.md "wikilink")ドラマ「[恋する私のベーカリー](https://ja.wikipedia.org/wiki/恋する私のベーカリー "wikilink")」主題歌。19thシングル「[Wanna Be With You](https://ja.wikipedia.org/wiki/Wanna_Be_With_You "wikilink")」（通常盤）に収録。
 
 ### 未発表曲
 
@@ -703,22 +703,22 @@ PCXP-50542：BD</p></td>
   - FACTORY GENERATION（F超世代）（2003年3月13日 - 2005年2月19日、台湾TVBS-G）
   - コラボレーションスタジアム（2003年4月 - 9月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
   - ピカピカプリンス（2003年10月 - 2004年3月、テレビ東京）
-  - [大阪発元気ダッシュ\!DOYAH](https://ja.wikipedia.org/wiki/大阪発元気ダッシュ!DOYAH "wikilink")（2003年10月 - 2005年2月、[NHK BS2](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink")）
+  - [大阪発元気ダッシュ\!DOYAH](../Page/大阪発元気ダッシュ!DOYAH.md "wikilink")（2003年10月 - 2005年2月、[NHK BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
   - Lead Generation（2005年4月 - 2005年9月、東京MXTV）
-  - 「M-ON\! Make On The Holiday」Leadレギュラーコーナー「ぶらり〜ど」（2006年7月29日 - 2008年2月、[MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")）
-  - [東京ディズニーリゾート トレジャーハント](https://ja.wikipedia.org/wiki/東京ディズニーリゾート_トレジャーハント "wikilink")（2008年5月 - 2010年7月、[ディズニー・チャンネル](https://ja.wikipedia.org/wiki/ディズニー・チャンネル "wikilink")）
+  - 「M-ON\! Make On The Holiday」Leadレギュラーコーナー「ぶらり〜ど」（2006年7月29日 - 2008年2月、[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）
+  - [東京ディズニーリゾート トレジャーハント](https://ja.wikipedia.org/wiki/東京ディズニーリゾート_トレジャーハント "wikilink")（2008年5月 - 2010年7月、[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")）
   - [Abemaエンタメサンデー](https://ja.wikipedia.org/wiki/Abemaエンタメサンデー "wikilink")（2016年7月17日 - 2017年6月25日、[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")） - 月末レギュラー
 
 ### 音楽番組
 
   - [HEY\!HEY\!HEY\!MUSIC CHAMP](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!MUSIC_CHAMP "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
-  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（[NHK](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")）
-  - [BEAT MOTION](https://ja.wikipedia.org/wiki/BEAT_MOTION "wikilink")（NHK BS2）
+  - [ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")（[NHK](../Page/NHK総合テレビジョン.md "wikilink")）
+  - [BEAT MOTION](../Page/BEAT_MOTION.md "wikilink")（NHK BS2）
   - BSジュニアのど自慢（[放送衛星](../Page/放送衛星.md "wikilink")）
-  - [音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
+  - [音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [ハッピーMusic](https://ja.wikipedia.org/wiki/ハッピーMusic "wikilink")（日本テレビ）
-  - [COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")[系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）
+  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")[系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）
 
 ### ラジオ番組
 
@@ -733,8 +733,8 @@ PCXP-50542：BD</p></td>
 
 ### 舞台
 
-  - ミュージカル「ZIPANGU 〜遥かなる道〜」（2008年12月23日、名古屋・[御園座](https://ja.wikipedia.org/wiki/御園座 "wikilink")／29日、東京・[新宿コマ劇場](https://ja.wikipedia.org/wiki/新宿コマ劇場 "wikilink")）
-  - ミュージカル「絆 －少年よ、大紙を抱け！－」（2010年11月18日 - 23日、[新国立劇場](https://ja.wikipedia.org/wiki/新国立劇場 "wikilink") 中劇場）
+  - ミュージカル「ZIPANGU 〜遥かなる道〜」（2008年12月23日、名古屋・[御園座](https://ja.wikipedia.org/wiki/御園座 "wikilink")／29日、東京・[新宿コマ劇場](../Page/新宿コマ劇場.md "wikilink")）
+  - ミュージカル「絆 －少年よ、大紙を抱け！－」（2010年11月18日 - 23日、[新国立劇場](../Page/新国立劇場.md "wikilink") 中劇場）
   - ミュージカル「絆 2011 －少年よ、大紙を抱け！－」（2011年10月20日 - 25日、新国立劇場 中劇場）
 
 ## 書籍
@@ -752,8 +752,8 @@ PCXP-50542：BD</p></td>
 
 ## 関連項目
 
-  - [DA PUMP](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink") - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink") - [FLAME](https://ja.wikipedia.org/wiki/FLAME "wikilink") - [Lead](https://ja.wikipedia.org/wiki/Lead "wikilink")
-  - [Folder](../Page/Folder_\(音楽グループ\).md "wikilink") - [三浦大知](https://ja.wikipedia.org/wiki/三浦大知 "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink") - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink") - [FLAME](../Page/FLAME.md "wikilink") - [Lead](../Page/Lead.md "wikilink")
+  - [Folder](../Page/Folder_\(音楽グループ\).md "wikilink") - [三浦大知](../Page/三浦大知.md "wikilink")
 
 ## 外部リンク
 

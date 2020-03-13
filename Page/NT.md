@@ -17,7 +17,7 @@
       - [ツェッペリンNT](https://ja.wikipedia.org/wiki/ツェッペリン#ツェッペリンNT "wikilink") - [飛行船](../Page/飛行船.md "wikilink")
       - [月刊ニュータイプ](../Page/月刊ニュータイプ.md "wikilink")
       - [ノーザンテースト](../Page/ノーザンテースト.md "wikilink") () - [競走馬](https://ja.wikipedia.org/wiki/競走馬 "wikilink")・[種牡馬](../Page/種牡馬.md "wikilink")
-      - [ノーザンテリトリー](../Page/ノーザンテリトリー.md "wikilink") () - [オーストラリア](../Page/オーストラリア.md "wikilink")の[準州](https://ja.wikipedia.org/wiki/準州 "wikilink")
+      - [ノーザンテリトリー](../Page/ノーザンテリトリー.md "wikilink") () - [オーストラリア](../Page/オーストラリア.md "wikilink")の[準州](../Page/準州.md "wikilink")
       - [ノースウエスト準州](../Page/ノースウエスト準州.md "wikilink") () の[ISOカナダ州名コード](../Page/ISO_3166-2:CA.md "wikilink")
       - [ニューファンドランド時間](../Page/ニューファンドランド標準時.md "wikilink") (Newfoundland Time) - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の標準時の一つ
       - ノーズタックル () - [アメリカンフットボールのポジション](../Page/アメリカンフットボールのポジション.md "wikilink")

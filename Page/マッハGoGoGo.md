@@ -5,9 +5,9 @@
 
 ## 概要
 
-自動車レース（[スポーツカーレース](../Page/スポーツカーレース.md "wikilink")）をテーマとした子供向けのテレビアニメで、[1967年](../Page/1967年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")42年）にタツノコプロが制作し、[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。[吉田竜夫](https://ja.wikipedia.org/wiki/吉田竜夫 "wikilink")の漫画『**パイロットA(エース)**』が原作になっている。アメリカでは『**Speed Racer**』のタイトルで放送され、人気を博した。主題歌のメロディは日本とほぼ同じで、[ピーター・フェルナンデス](https://ja.wikipedia.org/wiki/ピーター・フェルナンデス "wikilink")による英語の歌詞を乗せている。
+自動車レース（[スポーツカーレース](../Page/スポーツカーレース.md "wikilink")）をテーマとした子供向けのテレビアニメで、[1967年](../Page/1967年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")42年）にタツノコプロが制作し、[フジテレビ系列で放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。[吉田竜夫](../Page/吉田竜夫.md "wikilink")の漫画『**パイロットA(エース)**』が原作になっている。アメリカでは『**Speed Racer**』のタイトルで放送され、人気を博した。主題歌のメロディは日本とほぼ同じで、[ピーター・フェルナンデス](https://ja.wikipedia.org/wiki/ピーター・フェルナンデス "wikilink")による英語の歌詞を乗せている。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（[平成](../Page/平成.md "wikilink")9年）に[リメイク](https://ja.wikipedia.org/wiki/リメイク "wikilink")版が制作され、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（[平成](../Page/平成.md "wikilink")9年）に[リメイク](../Page/リメイク.md "wikilink")版が制作され、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送された。
 
 [2006年](../Page/2006年.md "wikilink")（平成18年）、アメリカで実写[映画](../Page/映画.md "wikilink")化されることが発表され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）夏に劇場公開された。監督は[マトリックス三部作を手がけた](https://ja.wikipedia.org/wiki/マトリックス_\(映画\) "wikilink")[ウォシャウスキー姉弟](https://ja.wikipedia.org/wiki/ウォシャウスキー姉弟 "wikilink")。邦題は『**[スピード・レーサー](../Page/スピード・レーサー.md "wikilink")**』である。
 
@@ -47,7 +47,7 @@
 
 ### マッハ号（第1作）
 
-主人公である三船剛の搭乗するレーシングカー（ナンバープレートも付いていない。にもかかわらず日常で堂々と公道を走行している）。2シーターで[左ハンドル](https://ja.wikipedia.org/wiki/左ハンドル "wikilink")車。[V型エンジン](https://ja.wikipedia.org/wiki/V型エンジン "wikilink")（[V型12気筒](https://ja.wikipedia.org/wiki/V型12気筒 "wikilink")）を搭載していることと、後述の特殊機能以外、具体的なことはほとんど語られていない。外形から見て[フロントエンジンリアドライブ](https://ja.wikipedia.org/wiki/フロントエンジンリアドライブ "wikilink")である。
+主人公である三船剛の搭乗するレーシングカー（ナンバープレートも付いていない。にもかかわらず日常で堂々と公道を走行している）。2シーターで[左ハンドル](https://ja.wikipedia.org/wiki/左ハンドル "wikilink")車。[V型エンジン](../Page/V型エンジン.md "wikilink")（[V型12気筒](../Page/V型12気筒.md "wikilink")）を搭載していることと、後述の特殊機能以外、具体的なことはほとんど語られていない。外形から見て[フロントエンジンリアドライブ](https://ja.wikipedia.org/wiki/フロントエンジンリアドライブ "wikilink")である。
 
 幾つかの特殊機能があり、剛のピンチを救う。そのほとんどは[ステアリング](../Page/ステアリング.md "wikilink")パッドにあるボタンで操作される。特殊機能はその頭文字ごとにAからHのボタンが割り当てられている。車体の独特の塗装パターンはアルファベットのMをモチーフとしている。
 
@@ -60,11 +60,11 @@
   - Dボタン：ディフェンサー
     座席上部の防弾仕様の[キャノピー](https://ja.wikipedia.org/wiki/キャノピー "wikilink")が閉じる。硬質プラスチック製。
   - Eボタン：イブニングアイ
-    [赤外線](../Page/赤外線.md "wikilink")灯。剛がかぶる[ヘルメット](../Page/ヘルメット.md "wikilink")のシールドが暗視[ゴーグル](https://ja.wikipedia.org/wiki/ゴーグル "wikilink")になる。
+    [赤外線](../Page/赤外線.md "wikilink")灯。剛がかぶる[ヘルメット](../Page/ヘルメット.md "wikilink")のシールドが暗視[ゴーグル](../Page/ゴーグル.md "wikilink")になる。
   - Fボタン：フロッガー
     ディフェンサーに加えて[酸素ボンベ](https://ja.wikipedia.org/wiki/酸素ボンベ "wikilink")より酸素がコクピット内に放出され、水中走行を行なえる。[潜望鏡](../Page/潜望鏡.md "wikilink")も上部に伸び、[バックミラー](https://ja.wikipedia.org/wiki/バックミラー "wikilink")で映像を確認できる。
   - Gボタン：ギズモ号
-    [ツバメ](../Page/ツバメ.md "wikilink")型の偵察用の通信機能付き小型飛行メカ。マッハ号の車体前部から発射され、[遠隔操作](https://ja.wikipedia.org/wiki/遠隔操作 "wikilink")が可能で、目標への遠距離攻撃用としても使用可能。
+    [ツバメ](../Page/ツバメ.md "wikilink")型の偵察用の通信機能付き小型飛行メカ。マッハ号の車体前部から発射され、[遠隔操作](../Page/遠隔操作.md "wikilink")が可能で、目標への遠距離攻撃用としても使用可能。
   - Hボタン：ホーミング
     ギズモ号を自動操縦で自宅に戻す。救助を求める非常用ボタンという面があり、このボタンのみステアリング上には配置されていない。
 
@@ -85,15 +85,15 @@
   - Eボタン：エマージェンシーワイヤー
     [ウインチ](../Page/ウインチ.md "wikilink")。2基を装備し、射出することで突き刺すことができる。また挿すのではなく掴むように変形させることも可能。ワイヤーを使用した牽引や急旋回などに使用する。
   - Fボタン：フィッシュダイバー
-    [潜水艇](https://ja.wikipedia.org/wiki/潜水艇 "wikilink")モードに変形。タイヤを格納し、後部から[スクリュー](../Page/スクリュー.md "wikilink")が出る。
+    [潜水艇](../Page/潜水艇.md "wikilink")モードに変形。タイヤを格納し、後部から[スクリュー](../Page/スクリュー.md "wikilink")が出る。
   - Gボタン：ギャラント号
     無人[偵察機](../Page/偵察機.md "wikilink")。上空から適正ルートをマッピングしたり、場合によっては相手の車両に突撃することができる。
   - ミラージュエンジン
-    響健一が開発したマッハ号に搭載された[エンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")。時速555kmに達すると[ワープ](https://ja.wikipedia.org/wiki/ワープ "wikilink")ができる（ミラージュシュート）。ただし、ワープと言っても空間跳躍（[テレポーテーション](https://ja.wikipedia.org/wiki/テレポーテーション "wikilink")）ではなく、時間跳躍（[タイムスリップ](https://ja.wikipedia.org/wiki/タイムスリップ "wikilink")）である。
+    響健一が開発したマッハ号に搭載された[エンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")。時速555kmに達すると[ワープ](../Page/ワープ.md "wikilink")ができる（ミラージュシュート）。ただし、ワープと言っても空間跳躍（[テレポーテーション](https://ja.wikipedia.org/wiki/テレポーテーション "wikilink")）ではなく、時間跳躍（[タイムスリップ](https://ja.wikipedia.org/wiki/タイムスリップ "wikilink")）である。
 
 ### ホワイトサイクロン号
 
-第2作の[タイムトラベル](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")編より登場する[バイク](../Page/オートバイ.md "wikilink")。マッハ号がミラージュシュートが可能になった後、[メカニックである立石匠がともに](https://ja.wikipedia.org/wiki/整備士 "wikilink")[タイムトラベル](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")の冒険をする目的で制作した。マッハ号にワイヤーを取り付けることにより、一緒にミラージュシュートすることが可能となる。
+第2作の[タイムトラベル](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")編より登場する[バイク](../Page/オートバイ.md "wikilink")。マッハ号がミラージュシュートが可能になった後、[メカニックである立石匠がともに](../Page/整備士.md "wikilink")[タイムトラベル](https://ja.wikipedia.org/wiki/タイムトラベル "wikilink")の冒険をする目的で制作した。マッハ号にワイヤーを取り付けることにより、一緒にミラージュシュートすることが可能となる。
 
 響剛もマッハ号と兼ねて乗ることが多く、搭載装備のスパイラルアンカー（フロントから射出するアンカー）やエグゾーストファイヤー（ウィリー状態でマフラーから前方に放つ）で攻撃することもできる。後のことを想定して潜水機能も追加されている。マッハ号との通信機能やフロント部から[マニピュレータ](https://ja.wikipedia.org/wiki/マニピュレータ "wikilink")を介してマッハ号を修理することも可能。
 
@@ -107,19 +107,19 @@
 
 平均[視聴率](../Page/視聴率.md "wikilink")は13.9%（タツノコプロが所有する資料による）\[1\]。
 
-[関西テレビでは](../Page/関西テレビ放送.md "wikilink")、[聴覚障害者](../Page/聴覚障害者.md "wikilink")向けの[字幕](https://ja.wikipedia.org/wiki/字幕 "wikilink")を入れた上での[再放送](https://ja.wikipedia.org/wiki/再放送 "wikilink")が行われた。このバージョンではセリフだけでなく、アクション演出にも字幕が入れられていた。
+[関西テレビでは](../Page/関西テレビ放送.md "wikilink")、[聴覚障害者](../Page/聴覚障害者.md "wikilink")向けの[字幕](../Page/字幕.md "wikilink")を入れた上での[再放送](../Page/再放送.md "wikilink")が行われた。このバージョンではセリフだけでなく、アクション演出にも字幕が入れられていた。
 
 ### スタッフ
 
-  - 原作・プロデューサー - [吉田竜夫](https://ja.wikipedia.org/wiki/吉田竜夫 "wikilink")
+  - 原作・プロデューサー - [吉田竜夫](../Page/吉田竜夫.md "wikilink")
   - 企画 - [鳥海尽三](../Page/鳥海尽三.md "wikilink")
-  - 美術監督 - [中村光毅](https://ja.wikipedia.org/wiki/中村光毅 "wikilink")
+  - 美術監督 - [中村光毅](../Page/中村光毅.md "wikilink")
   - 色彩設定 - 向井稔
   - 録音ディレクター - [本田保則](../Page/本田保則.md "wikilink")
   - 音楽 - [越部信義](../Page/越部信義.md "wikilink")（音楽企画センター）
   - 効果 - 森健二、大野義信
   - 録音 - 平野勝ほか
-  - 総監督 - [笹川ひろし](https://ja.wikipedia.org/wiki/笹川ひろし "wikilink")
+  - 総監督 - [笹川ひろし](../Page/笹川ひろし.md "wikilink")
   - 制作 - 吉田竜夫、[タツノコプロ](../Page/タツノコプロ.md "wikilink")ダクション
 
 ### 主題歌
@@ -128,8 +128,8 @@
 
   - 「マッハゴー・ゴー・ゴー」
     作詞 - 吉田竜夫 / 作曲 - 越部信義 / 歌 - [ボーカル・ショップ](../Page/ボーカル・ショップ.md "wikilink")
-    [日本コロムビア](../Page/日本コロムビア.md "wikilink")版は[高橋元太郎](https://ja.wikipedia.org/wiki/高橋元太郎 "wikilink")歌唱によるカバー。
-    エンディングテーマは、実質的にはアメリカ版『Speed Racer』の[インストゥルメンタル版で](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")、ボーカル・ショップはラストのサビの部分しか歌っていない。映像はレギュラーの剛・大介・アヤ・くりお・三平・ミチ・サブによる車の発達史。なお、関西テレビでの字幕つきによる再放送ではほとんどのキャストやスタッフがテロップ挿入され、ラストには配給元のSB・エンタープライズ、字幕制作であるビデオメックと関西テレビもクレジットされる。
+    [日本コロムビア](../Page/日本コロムビア.md "wikilink")版は[高橋元太郎](../Page/高橋元太郎.md "wikilink")歌唱によるカバー。
+    エンディングテーマは、実質的にはアメリカ版『Speed Racer』の[インストゥルメンタル版で](../Page/器楽曲.md "wikilink")、ボーカル・ショップはラストのサビの部分しか歌っていない。映像はレギュラーの剛・大介・アヤ・くりお・三平・ミチ・サブによる車の発達史。なお、関西テレビでの字幕つきによる再放送ではほとんどのキャストやスタッフがテロップ挿入され、ラストには配給元のSB・エンタープライズ、字幕制作であるビデオメックと関西テレビもクレジットされる。
 
 #### イメージソング
 
@@ -141,11 +141,11 @@
 
   - 三船剛 - [田中雪弥](../Page/森功至.md "wikilink")
   - 志村ミチ - [松尾佳子](../Page/松尾佳子.md "wikilink") → [杉田郁子](https://ja.wikipedia.org/wiki/杉田郁子 "wikilink") → [野村道子](../Page/野村道子.md "wikilink")
-  - 三船大介 - [大宮悌二](https://ja.wikipedia.org/wiki/大宮悌二 "wikilink")
+  - 三船大介 - [大宮悌二](../Page/大宮悌二.md "wikilink")
   - 三船アヤ - [来宮良子](../Page/来宮良子.md "wikilink")
   - 三船くりお - [堀絢子](../Page/堀絢子.md "wikilink")
   - 三平 - [大竹宏](../Page/大竹宏.md "wikilink")
-  - サブ - [富山敬](https://ja.wikipedia.org/wiki/富山敬 "wikilink")
+  - サブ - [富山敬](../Page/富山敬.md "wikilink")
   - 六郷警部 - [内海賢二](../Page/内海賢二.md "wikilink")
   - 覆面レーサー- [愛川欽也](../Page/愛川欽也.md "wikilink")
 
@@ -165,12 +165,12 @@
 <td><p>1</p></td>
 <td><p>飛ばせ！マッハ号（前編）</p></td>
 <td><p><a href="../Page/鳥海尽三.md" title="wikilink">鳥海尽三</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/九里一平" title="wikilink">九里一平</a></p></td>
+<td><p><a href="../Page/九里一平.md" title="wikilink">九里一平</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>飛ばせ！マッハ号（後編）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/笹川ひろし" title="wikilink">笹川ひろし</a></p></td>
+<td><p><a href="../Page/笹川ひろし.md" title="wikilink">笹川ひろし</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -369,7 +369,7 @@
 <tr class="even">
 <td><p>34</p></td>
 <td><p>暴走！レコードカー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鳥海永行" title="wikilink">鳥海永行</a></p></td>
+<td><p><a href="../Page/鳥海永行.md" title="wikilink">鳥海永行</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -520,11 +520,11 @@
   - エグゼクティブプロデューサー - [吉田健二](../Page/吉田健二.md "wikilink")
   - 企画 - [成嶋弘毅](https://ja.wikipedia.org/wiki/成嶋弘毅 "wikilink")、徳山光俊（タツノコプロ）
   - 構成 - タツノコプロ企画室 → [桜井正明](https://ja.wikipedia.org/wiki/桜井正明 "wikilink")
-  - キャラクター原案・アートディレクター - [九里一平](https://ja.wikipedia.org/wiki/九里一平 "wikilink")
-  - キャラクターデザイン - [須田正己](https://ja.wikipedia.org/wiki/須田正己 "wikilink")
+  - キャラクター原案・アートディレクター - [九里一平](../Page/九里一平.md "wikilink")
+  - キャラクターデザイン - [須田正己](../Page/須田正己.md "wikilink")
   - メカニックデザイン - 堀井敏之、小川浩
   - 美術監督 - 阿部泰三郎（第1話 - 第21話） → 脇威志、多田喜久子（第22話以降）
-  - 音楽 - [大島ミチル](https://ja.wikipedia.org/wiki/大島ミチル "wikilink")
+  - 音楽 - [大島ミチル](../Page/大島ミチル.md "wikilink")
   - 録音監督 - [清水勝則](../Page/清水勝則.md "wikilink")
   - カラーデザイン - 青山まなみ
   - 撮影監督 - 横山幸太郎
@@ -532,20 +532,20 @@
   - 総監督 - 笹川ひろし
   - 制作担当 - 池田慎一、笠原慎介
   - 番組宣伝 - 穴見礼 → 神宮綾（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")）
-  - テクニカルアドバイサー - [長谷見昌弘](https://ja.wikipedia.org/wiki/長谷見昌弘 "wikilink")
+  - テクニカルアドバイサー - [長谷見昌弘](../Page/長谷見昌弘.md "wikilink")
   - プロデューサー - 村瀬由美 → 岩田牧子（テレビ東京）、大野実（[読売広告社](../Page/読売広告社.md "wikilink")）、由井正俊（タツノコプロ）
   - 文芸担当 - 田沢孔治
   - メカ作監 - 仲盛文、加藤ケンジ、村上勉、[森下博光](https://ja.wikipedia.org/wiki/森下博光 "wikilink")、[竹内昭](../Page/竹内昭.md "wikilink")、[中澤勇一](../Page/中澤勇一.md "wikilink")
   - 動画チェック - 伊乃戸汰沙海、小金井一郎、前田秀子、支矢太志、橘美穂、鎌田信之、田中和夫、猪瀬富士夫
   - 色指定/検査 - 飯島孝枝、村口冬仁、高石峯子、日比野仁、福原奈津子、青山まなみ、北爪英子、若菜陽子、田中真紀、世戸恵美、[笛吹康二](https://ja.wikipedia.org/wiki/笛吹康二 "wikilink")、柴田恭子、佐藤香、洞田留美、高木雅人、沢目まゆみ
-  - リスワーク - [マキ・プロダクション](https://ja.wikipedia.org/wiki/マキ・プロダクション "wikilink")
+  - リスワーク - [マキ・プロダクション](../Page/マキ・プロダクション.md "wikilink")
   - 特殊効果 - 太田憲之、山本公、岡島雄二、遠藤剛彦、前川孝、前川学、笛吹康二、中島正之、高木雅人、榊原豊彦
-  - 美術 - 脇威志、東條俊寿、[中村光毅](https://ja.wikipedia.org/wiki/中村光毅 "wikilink")、多田喜久子
+  - 美術 - 脇威志、東條俊寿、[中村光毅](../Page/中村光毅.md "wikilink")、多田喜久子
   - 背景 - [スタジオグリーン](../Page/GREEN_\(企業\).md "wikilink")、テイクワン
-  - 撮影 - タツノコデジタル、[スタジオコスモス](../Page/スタジオコスモス.md "wikilink")、[トランスアーツ国分寺](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")、スタジオドリーム、東現アニメルーム
+  - 撮影 - タツノコデジタル、[スタジオコスモス](../Page/スタジオコスモス.md "wikilink")、[トランスアーツ国分寺](../Page/トランス・アーツ.md "wikilink")、スタジオドリーム、東現アニメルーム
   - 編集 - 三木幸子
   - タイトル - 小谷野博
-  - 現像 - [東京現像所](https://ja.wikipedia.org/wiki/東京現像所 "wikilink")
+  - 現像 - [東京現像所](../Page/東京現像所.md "wikilink")
   - 効果 - 森賢一
   - 調整 - 成田一明
   - 録音制作 - ザックプロモーション
@@ -601,23 +601,23 @@
 
 ### 声の出演
 
-  - 響剛 - [遠近孝一](https://ja.wikipedia.org/wiki/遠近孝一 "wikilink")
+  - 響剛 - [遠近孝一](../Page/遠近孝一.md "wikilink")
   - 風見舞 - [村井毎早](https://ja.wikipedia.org/wiki/村井毎早 "wikilink")
   - 風見ワタル - [くまいもとこ](../Page/くまいもとこ.md "wikilink")
-  - ジュン - [岡村明美](https://ja.wikipedia.org/wiki/岡村明美 "wikilink")
-  - 響大輔 - [稲葉実](https://ja.wikipedia.org/wiki/稲葉実 "wikilink")
-  - 響美鈴 - [沢海陽子](https://ja.wikipedia.org/wiki/沢海陽子 "wikilink")
-  - 覆面レーサーX（響健一） - [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")
+  - ジュン - [岡村明美](../Page/岡村明美.md "wikilink")
+  - 響大輔 - [稲葉実](../Page/稲葉実.md "wikilink")
+  - 響美鈴 - [沢海陽子](../Page/沢海陽子.md "wikilink")
+  - 覆面レーサーX（響健一） - [森川智之](../Page/森川智之.md "wikilink")
   - 立石匠 - [石田彰](../Page/石田彰.md "wikilink")
   - ジエットソン - [檜山修之](../Page/檜山修之.md "wikilink")
-  - ミカエル - [古澤徹](https://ja.wikipedia.org/wiki/古澤徹 "wikilink")
-  - セシル葉月 - [田中敦子](https://ja.wikipedia.org/wiki/田中敦子_\(声優\) "wikilink")
-  - ボルボア - [小林修](https://ja.wikipedia.org/wiki/小林修_\(声優\) "wikilink")
+  - ミカエル - [古澤徹](../Page/古澤徹.md "wikilink")
+  - セシル葉月 - [田中敦子](../Page/田中敦子_\(声優\).md "wikilink")
+  - ボルボア - [小林修](../Page/小林修_\(声優\).md "wikilink")
   - レッド - [小野英昭](../Page/小野英昭.md "wikilink")
-  - ブラック - [天田益男](https://ja.wikipedia.org/wiki/天田益男 "wikilink")
+  - ブラック - [天田益男](../Page/天田益男.md "wikilink")
   - 秋葉原教授 - [八奈見乗児](../Page/八奈見乗児.md "wikilink")
   - ハンドラー - [塩沢兼人](../Page/塩沢兼人.md "wikilink")
-  - アナウンサー - [大滝進矢](https://ja.wikipedia.org/wiki/大滝進矢 "wikilink")
+  - アナウンサー - [大滝進矢](../Page/大滝進矢.md "wikilink")
 
 ### 放送リスト
 
@@ -641,7 +641,7 @@
 <td><p>山下久仁明</p></td>
 <td><p>福島宏之</p></td>
 <td><p>阿部雅司</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/須田正己" title="wikilink">須田正己</a></p></td>
+<td><p><a href="../Page/須田正己.md" title="wikilink">須田正己</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -656,7 +656,7 @@
 <td><p>3</p></td>
 <td><p>ハイウェイに潜む亡霊</p></td>
 <td><p>山下久仁明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/湖川友謙" title="wikilink">湖川友謙</a></p></td>
+<td><p><a href="../Page/湖川友謙.md" title="wikilink">湖川友謙</a></p></td>
 <td><p>宮崎一哉</p></td>
 <td><p>郷合郷</p></td>
 <td><p>1月23日</p></td>
@@ -664,9 +664,9 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>深海特急・救出大作戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岸間信明" title="wikilink">岸間信明</a></p></td>
+<td><p><a href="../Page/岸間信明.md" title="wikilink">岸間信明</a></p></td>
 <td><p>三宅綾</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/水島精二" title="wikilink">ミズシマセイジ</a></p></td>
+<td><p><a href="../Page/水島精二.md" title="wikilink">ミズシマセイジ</a></p></td>
 <td><p>須田正己</p></td>
 <td><p>1月30日</p></td>
 </tr>
@@ -676,7 +676,7 @@
 <td><p>久保田雅史</p></td>
 <td><p>福島宏之</p></td>
 <td><p>岡嶋国敏</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/谷口守泰" title="wikilink">谷口守泰</a></p></td>
+<td><p><a href="../Page/谷口守泰.md" title="wikilink">谷口守泰</a></p></td>
 <td><p>2月6日</p></td>
 </tr>
 <tr class="even">
@@ -746,7 +746,7 @@
 <td><p>13</p></td>
 <td><p>ワープ号登場！天才教授の異常な愛情</p></td>
 <td><p>岸間信明</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/笹川ひろし" title="wikilink">笹川ひろし</a></p></td>
+<td><p><a href="../Page/笹川ひろし.md" title="wikilink">笹川ひろし</a></p></td>
 <td><p>高橋幸雄</p></td>
 <td><p>須田正己</p></td>
 <td><p>4月24日</p></td>
@@ -830,7 +830,7 @@
 <td><p>桜井正明</p></td>
 <td><p><a href="../Page/冨永恒雄.md" title="wikilink">冨永恒雄</a></p></td>
 <td><p>山内富夫</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/毛利和昭" title="wikilink">毛利和昭</a></p></td>
+<td><p><a href="../Page/毛利和昭.md" title="wikilink">毛利和昭</a></p></td>
 <td><p>7月2日</p></td>
 </tr>
 <tr class="odd">
@@ -946,14 +946,14 @@
 
 ## マッハガール
 
-[スピンオフ](../Page/スピンオフ.md "wikilink")短編作品。全26話。三輪レーシングカー「マッハピンク」に乗るリップが活躍する。2008年9月13日 - 9月14日に[カートゥーン ネットワークで先行放送され](https://ja.wikipedia.org/wiki/カートゥーン_ネットワーク "wikilink")、同年12月5日 - 12月20日に放送。
+[スピンオフ](../Page/スピンオフ.md "wikilink")短編作品。全26話。三輪レーシングカー「マッハピンク」に乗るリップが活躍する。2008年9月13日 - 9月14日に[カートゥーン ネットワークで先行放送され](../Page/カートゥーン_ネットワーク.md "wikilink")、同年12月5日 - 12月20日に放送。
 
 ### キャスト
 
-  - リップ - [松本まりか](https://ja.wikipedia.org/wiki/松本まりか "wikilink")
+  - リップ - [松本まりか](../Page/松本まりか.md "wikilink")
   - ナッツ - [うえだゆうじ](../Page/うえだゆうじ.md "wikilink")
   - ジャン・ウェイン - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
-  - ナレーション - [郷田ほづみ](https://ja.wikipedia.org/wiki/郷田ほづみ "wikilink")
+  - ナレーション - [郷田ほづみ](../Page/郷田ほづみ.md "wikilink")
 
 ### スタッフ
 
@@ -1041,16 +1041,16 @@
   - [フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")のアメリカ向けテレビCM - 1996年式[フォルクスワーゲン・ゴルフ GTIのCMに](../Page/フォルクスワーゲン・ゴルフ.md "wikilink")「*Speed Racer*」のキャラクターが登場。スピード・レーサー（三船剛）が赤いゴルフGTIを運転し、レースに優勝したり悪人を追跡したりするという内容。レース編はSpeed Racer "[SABOTAGE](https://ja.wikipedia.org/wiki/サボタージュ "wikilink")" のサブタイトルが付いた短編アニメ作品となっており、スピードの他にトリクシー（ミチ）、パパ・レーサー（大助）、スプライトル・レーサー（くりお）、スパーキー（サブ）、チムチム（三平）などが登場。マッハ・ファイブ（マッハ号）のエンジンが故障したためにゴルフGTIに乗り換えてレースに参戦する（ただし、ゴルフGTIにはレース中も他の登場人物全員が同乗している）という筋立てになっている。コースアウトして爆発する敵車両や、ゴルフGTIをバックにしたスピードのカットインなど、CM全体の演出が本編オープニングをオマージュしたものになっている。なお、この時のスピードの声は原作の[ピーター・フェルナンデス](https://ja.wikipedia.org/wiki/ピーター・フェルナンデス "wikilink")ではなく、[ビリー・ウェスト](https://ja.wikipedia.org/wiki/ビリー・ウェスト "wikilink")が当てていた\[12\]。
   - [GEICO](https://ja.wikipedia.org/wiki/GEICO "wikilink")のテレビCM - 「*Speed Racer*」のキャラクターが登場。アニメ本編の一部シーンをCM映像に使用し、米版吹き替え担当声優が同CM用に収録したものにセリフ部分を差し替えて全米で放送された。なおこのCMは、海外のテレビ番組を紹介する[日本テレビの番組](../Page/日本テレビ放送網.md "wikilink")『[世界まる見え\!テレビ特捜部](../Page/世界まる見え!テレビ特捜部.md "wikilink")』の「世界のびっくりCMシリーズ」で取り上げられた。また、日本の金融機関においても[伊予銀行](../Page/伊予銀行.md "wikilink")のCMに利用されたことがある。
   - [クエンティン・タランティーノ](../Page/クエンティン・タランティーノ.md "wikilink")監督作品
-      - 1994年公開の『[パルプ・フィクション](https://ja.wikipedia.org/wiki/パルプ・フィクション "wikilink")』では、[エリック・ストルツ](https://ja.wikipedia.org/wiki/エリック・ストルツ "wikilink")演じる麻薬の売人が「スピード・レーサー」のTシャツを着ている。
-      - 2003年公開の『[キル・ビル](https://ja.wikipedia.org/wiki/キル・ビル "wikilink")』に登場するGOGO夕張のネーミングは本作に由来する。同作の宣伝のためにタランティーノがテレビ出演した際には、日本語でマッハゴー・ゴー・ゴーを歌った。
+      - 1994年公開の『[パルプ・フィクション](../Page/パルプ・フィクション.md "wikilink")』では、[エリック・ストルツ](../Page/エリック・ストルツ.md "wikilink")演じる麻薬の売人が「スピード・レーサー」のTシャツを着ている。
+      - 2003年公開の『[キル・ビル](../Page/キル・ビル.md "wikilink")』に登場するGOGO夕張のネーミングは本作に由来する。同作の宣伝のためにタランティーノがテレビ出演した際には、日本語でマッハゴー・ゴー・ゴーを歌った。
 
 ## その他
 
-  - 第1作テーマソングは、1990年代に[ポッカコーヒー](https://ja.wikipedia.org/wiki/ポッカコーヒー "wikilink")（[ポッカコーポレーション](../Page/ポッカサッポロフード&ビバレッジ.md "wikilink")）のテレビCM （出演：[柴田恭兵](https://ja.wikipedia.org/wiki/柴田恭兵 "wikilink")） に「ポッカゴーゴーゴーゴー」と歌詞を変えて使われたことがある。
+  - 第1作テーマソングは、1990年代に[ポッカコーヒー](../Page/ポッカコーヒー.md "wikilink")（[ポッカコーポレーション](../Page/ポッカサッポロフード&ビバレッジ.md "wikilink")）のテレビCM （出演：[柴田恭兵](https://ja.wikipedia.org/wiki/柴田恭兵 "wikilink")） に「ポッカゴーゴーゴーゴー」と歌詞を変えて使われたことがある。
   - テレビアニメ版『[ちびまる子ちゃん](../Page/ちびまる子ちゃん.md "wikilink")』の「まる子 ローラースルーゴーゴーがどうしても欲しい\!\!」の回では、まる子の友人のはまじこと浜崎憲孝が買ってもらった[ローラースルーゴーゴーを漕ぎながら第](../Page/ローラースルーGOGO.md "wikilink")1作テーマソングの替え歌を歌う場面がある。サビ部分の歌詞「マッハGoGo」は、「ローラーGoGo」に変えられている。
-  - 日本のロックバンド・[THE MAD CAPSULE MARKETSの楽曲](https://ja.wikipedia.org/wiki/THE_MAD_CAPSULE_MARKETS "wikilink")「パラサイト（寄生虫）」のプロモーションビデオに、本作のアニメ映像が挿入されている。そのバンドの映像作品『VIDEO』『[1990-1996 VIDEO](https://ja.wikipedia.org/wiki/1990-1996 "wikilink")』に収録されている。
+  - 日本のロックバンド・[THE MAD CAPSULE MARKETSの楽曲](../Page/THE_MAD_CAPSULE_MARKETS.md "wikilink")「パラサイト（寄生虫）」のプロモーションビデオに、本作のアニメ映像が挿入されている。そのバンドの映像作品『VIDEO』『[1990-1996 VIDEO](https://ja.wikipedia.org/wiki/1990-1996 "wikilink")』に収録されている。
   - 1995年には、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")が『スピード・レーサー』という[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")を発表している。第1作のキャラクターを用いたレースゲームだが、ジャンプや飛び道具を使ってのライバル車への妨害が可能になっている。本作は海外で正式発売されたが、日本国内ではごく少数の輸入があったのみだった。
-  - 2001年、アメリカのスピードレーサーオートワーク社より限定版スポーツカー「Mach 5 Signature Series」が100台発売された。ベース車両は[シボレー・コルベット](https://ja.wikipedia.org/wiki/シボレー・コルベット "wikilink")を使用し、ボディは[カーボンファイバー製](https://ja.wikipedia.org/wiki/炭素繊維強化プラスチック "wikilink")。ホイールは20x10インチの「アルミナムサンタナカスタムマッハ5」、タイヤはYokahamaタイヤの265/35ZR20/95Y。シートはロブスター・レッドの赤い総革で原作を再現。また、エンジンはフロントエンジンの2WD、ジェネラル・モーターズ製で385馬力を誇り、マニュアルとオートマチックの2種類を用意。価格は高額者優先順で最高額$125,000（約1,562万円）にもなり、[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")のオークションも掛けられた。[No.5_MACH_SYAKEN_with_Iracon_86c-west_at_2015_International_Suzuka_1000km_(7).JPG](https://ja.wikipedia.org/wiki/File:No.5_MACH_SYAKEN_with_Iracon_86c-west_at_2015_International_Suzuka_1000km_\(7\).JPG "fig:No.5_MACH_SYAKEN_with_Iracon_86c-west_at_2015_International_Suzuka_1000km_(7).JPG")
+  - 2001年、アメリカのスピードレーサーオートワーク社より限定版スポーツカー「Mach 5 Signature Series」が100台発売された。ベース車両は[シボレー・コルベット](../Page/シボレー・コルベット.md "wikilink")を使用し、ボディは[カーボンファイバー製](https://ja.wikipedia.org/wiki/炭素繊維強化プラスチック "wikilink")。ホイールは20x10インチの「アルミナムサンタナカスタムマッハ5」、タイヤはYokahamaタイヤの265/35ZR20/95Y。シートはロブスター・レッドの赤い総革で原作を再現。また、エンジンはフロントエンジンの2WD、ジェネラル・モーターズ製で385馬力を誇り、マニュアルとオートマチックの2種類を用意。価格は高額者優先順で最高額$125,000（約1,562万円）にもなり、[eBay](https://ja.wikipedia.org/wiki/eBay "wikilink")のオークションも掛けられた。[No.5_MACH_SYAKEN_with_Iracon_86c-west_at_2015_International_Suzuka_1000km_(7).JPG](https://ja.wikipedia.org/wiki/File:No.5_MACH_SYAKEN_with_Iracon_86c-west_at_2015_International_Suzuka_1000km_\(7\).JPG "fig:No.5_MACH_SYAKEN_with_Iracon_86c-west_at_2015_International_Suzuka_1000km_(7).JPG")
   - [全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink")および[SUPER GTのGT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")300クラスに、マッハ号を模した車両が参戦している。ドライバーは[玉中哲二](../Page/玉中哲二.md "wikilink")。また、2005年まで玉中の相棒として[桧井保孝](../Page/桧井保孝.md "wikilink")が登録名を「三船剛」に変更してマッハカラーのマシンに搭乗していた。
   - SUPER GT参戦と同時期にタツノコプロ40周年事業として「マッハ車検」が始まる。2015年時点ではその他の業態「マッハ車買取」「マッハ車販売」「マッハカーペイント」「マッハサービスステーション」も展開されている。[株式会社マッハFC](http://www.mach5.jp/)
   - [アリストクラート製の](../Page/アリストクラートテクノロジーズ.md "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")がリリースされており、一部が『[NEXON777](https://ja.wikipedia.org/wiki/NEXON777 "wikilink")』で利用可能だった。
@@ -1058,13 +1058,13 @@
   - [ハドソン](../Page/ハドソン.md "wikilink")が2004年に[携帯アプリ](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")用ゲーム（[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")・[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")・[S\!アプリ](../Page/S!アプリ.md "wikilink")）をリリースしている。
   - 2008年の[東京オートサロン](../Page/東京オートサロン.md "wikilink")の[ヨコハマタイヤ](https://ja.wikipedia.org/wiki/ヨコハマタイヤ "wikilink")ブースに、実物大模型のマッハ号が制作・展示された。
   - 2008年5月5日放送の『[ヤッターマン](https://ja.wikipedia.org/wiki/ヤッターマン_\(2008年のテレビアニメ\) "wikilink")』（2008年版）1時間特番の『ヤッターマン限定版 今夜限りのドロンボーVSみのもんた！アナタも一緒に脳力対決！ガッチャマンもマッハ号も登場スペシャル！だコロン！』では[みのもんた](../Page/みのもんた.md "wikilink")の知人として助っ人に登場しており、ドロンボーのメカに打ち勝っている。また、その後もたびたびチラリと登場している。
-  - 2008年8月27日には、[ホフディラン](https://ja.wikipedia.org/wiki/ホフディラン "wikilink")の[小宮山雄飛](../Page/小宮山雄飛.md "wikilink")プロデュースによるトリビュートアルバムが発売された。
+  - 2008年8月27日には、[ホフディラン](../Page/ホフディラン.md "wikilink")の[小宮山雄飛](../Page/小宮山雄飛.md "wikilink")プロデュースによるトリビュートアルバムが発売された。
   - 2009年には、[High Speed Boyzとのコラボレーションが開始された](https://ja.wikipedia.org/wiki/High_Speed_Boyz "wikilink")。
   - これまでにも[携帯アプリ](https://ja.wikipedia.org/wiki/携帯アプリ "wikilink")はダウンロード用に発売されていたが、2011年12月9日にモバイル用[ソーシャルゲーム](https://ja.wikipedia.org/wiki/ソーシャルゲーム "wikilink")『マッハGoGoGo』がアプリカにより[Mobage](https://ja.wikipedia.org/wiki/Mobage "wikilink")からリリースされた。なお、同じくMobageの『タツノコオールスターズ』（[DeNA](https://ja.wikipedia.org/wiki/DeNA "wikilink")製）にも参戦している。
-  - 2013年、『[Peeping Life](https://ja.wikipedia.org/wiki/Peeping_Life "wikilink")』と[手塚プロダクション](https://ja.wikipedia.org/wiki/手塚プロダクション "wikilink")&タツノコプロのコラボレーションアニメ『Peeping Life -手塚プロ・タツノコプロワンダーランド-』を放送。
+  - 2013年、『[Peeping Life](https://ja.wikipedia.org/wiki/Peeping_Life "wikilink")』と[手塚プロダクション](../Page/手塚プロダクション.md "wikilink")&タツノコプロのコラボレーションアニメ『Peeping Life -手塚プロ・タツノコプロワンダーランド-』を放送。
   - 2013年9月30日にフジテレビ系列で放送された大型特別番組『[SMAP GO\!GO\!](https://ja.wikipedia.org/wiki/SMAP_GO!GO! "wikilink")』で、オープニングに第1作風のアニメーションを放送。映像では[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が5人とも三船剛のスーツ姿で登場し、マッハ号が5台登場した。また、SMAPが歌唱する第1作テーマソングがオープニングテーマに使われていたが、サビ部分の「マッハ」は「SMAP」に変えられていた。
   - 2015年に放送された『[夜ノヤッターマン](https://ja.wikipedia.org/wiki/夜ノヤッターマン "wikilink")』第9話・第12話にはマッハ号に似た車両が登場しており、第9話においては同作品の登場人物であるガリナとアルエットが搭乗した。ただしボンネットのマーキングが「M」ではなく「W」となっているなど、詳細は異なる。
-  - 2015年に放送された[JAバンク](../Page/JAバンク.md "wikilink")のCM「マジシャン先輩」篇・「こねこ先輩」篇の各最後のBGMは、第1作テーマソングサビ部分の歌詞「マッハGoGo」を「バンクJA」に変えた[替え歌](https://ja.wikipedia.org/wiki/替え歌 "wikilink")である。
+  - 2015年に放送された[JAバンク](../Page/JAバンク.md "wikilink")のCM「マジシャン先輩」篇・「こねこ先輩」篇の各最後のBGMは、第1作テーマソングサビ部分の歌詞「マッハGoGo」を「バンクJA」に変えた[替え歌](../Page/替え歌.md "wikilink")である。
 
 ## 脚注
 

@@ -7,7 +7,7 @@
 
 ## ナビゲーター
 
-  - [小野正利](https://ja.wikipedia.org/wiki/小野正利 "wikilink")（放送開始 - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3月）
+  - [小野正利](../Page/小野正利.md "wikilink")（放送開始 - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")3月）
   - 沢口みなみ（1995年4月 - [1999年](../Page/1999年.md "wikilink")9月）
   - [大石恵](../Page/大石恵.md "wikilink")（1999年10月 - 2001年3月）
   - [真中瞳](https://ja.wikipedia.org/wiki/東風万智子 "wikilink")（2001年4月 - [2004年](../Page/2004年.md "wikilink")3月）
@@ -28,27 +28,27 @@
 
 放送時間の早い順から記載。ただし、ネット局・放送時間は放送開始 - 最終回のもの。
 
-| 放送対象地域                                                            | 放送局名                                                                 | 放送時間               | 備考      |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------ | ------- |
-| [東京都](../Page/東京都.md "wikilink")                                  | [エフエム東京](../Page/エフエム東京.md "wikilink")（TOKYO FM）                     | 毎週土曜 9:00 - 9:30   | **制作局** |
-| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")               | [富山エフエム放送](https://ja.wikipedia.org/wiki/富山エフエム放送 "wikilink")（FMとやま） | 毎週土曜 8:00 - 8:30   |         |
-| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）                     | 毎週土曜 9:00 - 9:30   |         |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [エフエム仙台](../Page/エフエム仙台.md "wikilink")（Date fm）                      |                    |         |
-| [秋田県](../Page/秋田県.md "wikilink")                                  | [エフエム秋田](../Page/エフエム秋田.md "wikilink")（AFM）                          |                    |         |
-| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")               | [エフエム石川](../Page/エフエム石川.md "wikilink")（HELLO FIVE）                   |                    |         |
-| [長野県](../Page/長野県.md "wikilink")                                  | [長野エフエム放送](https://ja.wikipedia.org/wiki/長野エフエム放送 "wikilink")（FM長野）  |                    |         |
-| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")               | [エフエム愛知](../Page/エフエム愛知.md "wikilink")（FM AICHI）                     |                    |         |
-| [大阪府](../Page/大阪府.md "wikilink")                                  | [エフエム大阪](../Page/エフエム大阪.md "wikilink")（FM OSAKA）                     |                    |         |
-| [広島県](../Page/広島県.md "wikilink")                                  | [広島エフエム放送](../Page/広島エフエム放送.md "wikilink")（HFM）                      |                    |         |
-| [山口県](../Page/山口県.md "wikilink")                                  | [エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")（FMY）       |                    |         |
-| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")               | [岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")（FM OKAYAMA）               |                    |         |
-| [香川県](../Page/香川県.md "wikilink")                                  | [エフエム香川](../Page/エフエム香川.md "wikilink")（FM香川）                         |                    |         |
-| [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")               | [エフエム福岡](../Page/エフエム福岡.md "wikilink")（fm fukuoka）                   |                    |         |
-| [大分県](../Page/大分県.md "wikilink")                                  | [エフエム大分](../Page/エフエム大分.md "wikilink")（Air-Radio FM88）               |                    |         |
-| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [エフエム熊本](../Page/エフエム熊本.md "wikilink")（FMK）                          |                    |         |
-| [沖縄県](../Page/沖縄県.md "wikilink")                                  | [エフエム沖縄](../Page/エフエム沖縄.md "wikilink")（FM沖縄）                         |                    |         |
-| [島根県](../Page/島根県.md "wikilink")・[鳥取県](../Page/鳥取県.md "wikilink") | [エフエム山陰](../Page/エフエム山陰.md "wikilink")（V-air）                        | 毎週日曜 9:00 - 9:30   |         |
-| [滋賀県](../Page/滋賀県.md "wikilink")                                  | [エフエム滋賀](../Page/エフエム滋賀.md "wikilink")（e-radio）                      | 毎週日曜 20:00 - 20:30 |         |
+| 放送対象地域                                                            | 放送局名                                                           | 放送時間               | 備考      |
+| ----------------------------------------------------------------- | -------------------------------------------------------------- | ------------------ | ------- |
+| [東京都](../Page/東京都.md "wikilink")                                  | [エフエム東京](../Page/エフエム東京.md "wikilink")（TOKYO FM）               | 毎週土曜 9:00 - 9:30   | **制作局** |
+| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")               | [富山エフエム放送](../Page/富山エフエム放送.md "wikilink")（FMとやま）              | 毎週土曜 8:00 - 8:30   |         |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [エフエム北海道](../Page/エフエム北海道.md "wikilink")（AIR-G'）               | 毎週土曜 9:00 - 9:30   |         |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")               | [エフエム仙台](../Page/エフエム仙台.md "wikilink")（Date fm）                |                    |         |
+| [秋田県](../Page/秋田県.md "wikilink")                                  | [エフエム秋田](../Page/エフエム秋田.md "wikilink")（AFM）                    |                    |         |
+| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")               | [エフエム石川](../Page/エフエム石川.md "wikilink")（HELLO FIVE）             |                    |         |
+| [長野県](../Page/長野県.md "wikilink")                                  | [長野エフエム放送](../Page/長野エフエム放送.md "wikilink")（FM長野）               |                    |         |
+| [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")               | [エフエム愛知](../Page/エフエム愛知.md "wikilink")（FM AICHI）               |                    |         |
+| [大阪府](../Page/大阪府.md "wikilink")                                  | [エフエム大阪](../Page/エフエム大阪.md "wikilink")（FM OSAKA）               |                    |         |
+| [広島県](../Page/広島県.md "wikilink")                                  | [広島エフエム放送](../Page/広島エフエム放送.md "wikilink")（HFM）                |                    |         |
+| [山口県](../Page/山口県.md "wikilink")                                  | [エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")（FMY） |                    |         |
+| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")               | [岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")（FM OKAYAMA）         |                    |         |
+| [香川県](../Page/香川県.md "wikilink")                                  | [エフエム香川](../Page/エフエム香川.md "wikilink")（FM香川）                   |                    |         |
+| [福岡県](../Page/福岡県.md "wikilink")                                  | [エフエム福岡](../Page/エフエム福岡.md "wikilink")（fm fukuoka）             |                    |         |
+| [大分県](../Page/大分県.md "wikilink")                                  | [エフエム大分](../Page/エフエム大分.md "wikilink")（Air-Radio FM88）         |                    |         |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [エフエム熊本](../Page/エフエム熊本.md "wikilink")（FMK）                    |                    |         |
+| [沖縄県](../Page/沖縄県.md "wikilink")                                  | [エフエム沖縄](../Page/エフエム沖縄.md "wikilink")（FM沖縄）                   |                    |         |
+| [島根県](../Page/島根県.md "wikilink")・[鳥取県](../Page/鳥取県.md "wikilink") | [エフエム山陰](../Page/エフエム山陰.md "wikilink")（V-air）                  | 毎週日曜 9:00 - 9:30   |         |
+| [滋賀県](../Page/滋賀県.md "wikilink")                                  | [エフエム滋賀](../Page/エフエム滋賀.md "wikilink")（e-radio）                | 毎週日曜 20:00 - 20:30 |         |
 
 ## 外部リンク
 

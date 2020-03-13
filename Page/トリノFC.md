@@ -21,7 +21,7 @@
 
 <!-- end list -->
 
-  - '''[コッパ・イタリア](https://ja.wikipedia.org/wiki/コッパ・イタリア "wikilink")：5回 '''[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")
+  - '''[コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink")：5回 '''[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")[Coccarda_Coppa_Italia.svg](https://ja.wikipedia.org/wiki/File:Coccarda_Coppa_Italia.svg "fig:Coccarda_Coppa_Italia.svg")
       - 1935-36, 1942-43, 1967-68, 1970-71, 1992-93
 
 ### 国際タイトル
@@ -30,84 +30,84 @@
 
 ## 過去の成績
 
-| シーズン                                                                        | ディビジョン                                      | [コッパ・イタリア](https://ja.wikipedia.org/wiki/コッパ・イタリア "wikilink") | [欧州カップ](https://ja.wikipedia.org/wiki/UEFA "wikilink") |
-| --------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------ |
-| リーグ                                                                         | 試                                           | 勝                                                             | 分                                                      |
-| 1945-46                                                                     | [セリエA](../Page/セリエA_\(サッカー\).md "wikilink") | 26                                                            | 19                                                     |
-| 1946-47                                                                     | セリエA                                        | 38                                                            | 28                                                     |
-| 1947-48                                                                     | セリエA                                        | 40                                                            | 29                                                     |
-| 1948-49                                                                     | セリエA                                        | 38                                                            | 25                                                     |
-| 1949-50                                                                     | セリエA                                        | 38                                                            | 17                                                     |
-| 1950-51                                                                     | セリエA                                        | 38                                                            | 9                                                      |
-| 1951-52                                                                     | セリエA                                        | 38                                                            | 12                                                     |
-| 1952-53                                                                     | セリエA                                        | 34                                                            | 11                                                     |
-| 1953-54                                                                     | セリエA                                        | 34                                                            | 9                                                      |
-| 1954-55                                                                     | セリエA                                        | 34                                                            | 12                                                     |
-| 1955-56                                                                     | セリエA                                        | 34                                                            | 12                                                     |
-| 1956-57                                                                     | セリエA                                        | 34                                                            | 13                                                     |
-| 1957-58                                                                     | セリエA                                        | 34                                                            | 11                                                     |
-| 1958-59                                                                     | セリエA                                        | 34                                                            | 6                                                      |
-| 1959-60                                                                     | [セリエB](../Page/セリエB_\(サッカー\).md "wikilink") | 38                                                            | 16                                                     |
-| 1960-61                                                                     | セリエA                                        | 34                                                            | 9                                                      |
-| 1961-62                                                                     | セリエA                                        | 34                                                            | 12                                                     |
-| 1962-63                                                                     | セリエA                                        | 34                                                            | 12                                                     |
-| 1963-64                                                                     | セリエA                                        | 34                                                            | 9                                                      |
-| 1964-65                                                                     | セリエA                                        | 34                                                            | 16                                                     |
-| 1965-66                                                                     | セリエA                                        | 34                                                            | 9                                                      |
-| 1966-67                                                                     | セリエA                                        | 34                                                            | 10                                                     |
-| 1967-68                                                                     | セリエA                                        | 30                                                            | 12                                                     |
-| 1968-69                                                                     | セリエA                                        | 30                                                            | 11                                                     |
-| 1969-70                                                                     | セリエA                                        | 30                                                            | 11                                                     |
-| 1970-71                                                                     | セリエA                                        | 30                                                            | 6                                                      |
-| 1971-72                                                                     | セリエA                                        | 30                                                            | 17                                                     |
-| 1972-73                                                                     | セリエA                                        | 30                                                            | 11                                                     |
-| 1973-74                                                                     | セリエA                                        | 30                                                            | 10                                                     |
-| 1974-75                                                                     | セリエA                                        | 30                                                            | 11                                                     |
-| 1975-76                                                                     | セリエA                                        | 30                                                            | 18                                                     |
-| 1976-77                                                                     | セリエA                                        | 30                                                            | 21                                                     |
-| 1977-78                                                                     | セリエA                                        | 30                                                            | 14                                                     |
-| 1978-79                                                                     | セリエA                                        | 30                                                            | 11                                                     |
-| 1979-80                                                                     | セリエA                                        | 30                                                            | 11                                                     |
-| 1980-81                                                                     | セリエA                                        | 30                                                            | 8                                                      |
-| 1981-82                                                                     | セリエA                                        | 30                                                            | 8                                                      |
-| 1982-83                                                                     | セリエA                                        | 30                                                            | 9                                                      |
-| 1983-84                                                                     | セリエA                                        | 30                                                            | 11                                                     |
-| 1984-85                                                                     | セリエA                                        | 30                                                            | 14                                                     |
-| 1985-86                                                                     | セリエA                                        | 30                                                            | 11                                                     |
-| 1986-87                                                                     | セリエA                                        | 30                                                            | 8                                                      |
-| 1987-88                                                                     | セリエA                                        | 30                                                            | 8                                                      |
-| 1988-89                                                                     | セリエA                                        | 34                                                            | 8                                                      |
-| 1989-90                                                                     | セリエB                                        | 38                                                            | 19                                                     |
-| 1990-91                                                                     | セリエA                                        | 34                                                            | 12                                                     |
-| 1991-92                                                                     | セリエA                                        | 34                                                            | 14                                                     |
-| 1992-93                                                                     | セリエA                                        | 34                                                            | 9                                                      |
-| 1993-94                                                                     | セリエA                                        | 34                                                            | 11                                                     |
-| 1994-95                                                                     | セリエA                                        | 34                                                            | 12                                                     |
-| 1995-96                                                                     | セリエA                                        | 34                                                            | 6                                                      |
-| 1996-97                                                                     | セリエB                                        | 38                                                            | 13                                                     |
-| 1997-98                                                                     | セリエB                                        | 38                                                            | 17                                                     |
-| 1998-99                                                                     | セリエB                                        | 38                                                            | 19                                                     |
-| [1999-00](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_1999-2000 "wikilink") | セリエA                                        | 34                                                            | 8                                                      |
-| 2000-01                                                                     | セリエB                                        | 38                                                            | 22                                                     |
-| [2001-02](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2001-2002 "wikilink") | セリエA                                        | 34                                                            | 10                                                     |
-| [2002-03](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2002-2003 "wikilink") | セリエA                                        | 34                                                            | 4                                                      |
-| 2003-04                                                                     | セリエB                                        | 46                                                            | 14                                                     |
-| 2004-05                                                                     | セリエB                                        | 42                                                            | 21                                                     |
-| 2005-06                                                                     | セリエB                                        | 42                                                            | 21                                                     |
-| [2006-07](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2006-2007 "wikilink") | セリエA                                        | 38                                                            | 10                                                     |
-| [2007-08](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2007-2008 "wikilink") | セリエA                                        | 38                                                            | 8                                                      |
-| [2008-09](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2008-2009 "wikilink") | セリエA                                        | 38                                                            | 8                                                      |
-| 2009-10                                                                     | セリエB                                        | 42                                                            | 19                                                     |
-| 2010-11                                                                     | セリエB                                        | 42                                                            | 15                                                     |
-| 2011-12                                                                     | セリエB                                        | 42                                                            | 24                                                     |
-| [2012-13](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2012-2013 "wikilink") | セリエA                                        | 38                                                            | 8                                                      |
-| [2013-14](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2013-2014 "wikilink") | セリエA                                        | 38                                                            | 15                                                     |
-| [2014-15](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2014-2015 "wikilink") | セリエA                                        | 38                                                            | 14                                                     |
-| [2015-16](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2015-2016 "wikilink") | セリエA                                        | 38                                                            | 12                                                     |
-| [2016-17](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2016-2017 "wikilink") | セリエA                                        | 38                                                            | 13                                                     |
-| [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink") | セリエA                                        | 38                                                            | 13                                                     |
-| [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                        | 38                                                            | 16                                                     |
-| [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                        | 38                                                            |                                                        |
+| シーズン                                                                        | ディビジョン                                      | [コッパ・イタリア](../Page/コッパ・イタリア.md "wikilink") | [欧州カップ](https://ja.wikipedia.org/wiki/UEFA "wikilink") |
+| --------------------------------------------------------------------------- | ------------------------------------------- | ------------------------------------------ | ------------------------------------------------------ |
+| リーグ                                                                         | 試                                           | 勝                                          | 分                                                      |
+| 1945-46                                                                     | [セリエA](../Page/セリエA_\(サッカー\).md "wikilink") | 26                                         | 19                                                     |
+| 1946-47                                                                     | セリエA                                        | 38                                         | 28                                                     |
+| 1947-48                                                                     | セリエA                                        | 40                                         | 29                                                     |
+| 1948-49                                                                     | セリエA                                        | 38                                         | 25                                                     |
+| 1949-50                                                                     | セリエA                                        | 38                                         | 17                                                     |
+| 1950-51                                                                     | セリエA                                        | 38                                         | 9                                                      |
+| 1951-52                                                                     | セリエA                                        | 38                                         | 12                                                     |
+| 1952-53                                                                     | セリエA                                        | 34                                         | 11                                                     |
+| 1953-54                                                                     | セリエA                                        | 34                                         | 9                                                      |
+| 1954-55                                                                     | セリエA                                        | 34                                         | 12                                                     |
+| 1955-56                                                                     | セリエA                                        | 34                                         | 12                                                     |
+| 1956-57                                                                     | セリエA                                        | 34                                         | 13                                                     |
+| 1957-58                                                                     | セリエA                                        | 34                                         | 11                                                     |
+| 1958-59                                                                     | セリエA                                        | 34                                         | 6                                                      |
+| 1959-60                                                                     | [セリエB](../Page/セリエB_\(サッカー\).md "wikilink") | 38                                         | 16                                                     |
+| 1960-61                                                                     | セリエA                                        | 34                                         | 9                                                      |
+| 1961-62                                                                     | セリエA                                        | 34                                         | 12                                                     |
+| 1962-63                                                                     | セリエA                                        | 34                                         | 12                                                     |
+| 1963-64                                                                     | セリエA                                        | 34                                         | 9                                                      |
+| 1964-65                                                                     | セリエA                                        | 34                                         | 16                                                     |
+| 1965-66                                                                     | セリエA                                        | 34                                         | 9                                                      |
+| 1966-67                                                                     | セリエA                                        | 34                                         | 10                                                     |
+| 1967-68                                                                     | セリエA                                        | 30                                         | 12                                                     |
+| 1968-69                                                                     | セリエA                                        | 30                                         | 11                                                     |
+| 1969-70                                                                     | セリエA                                        | 30                                         | 11                                                     |
+| 1970-71                                                                     | セリエA                                        | 30                                         | 6                                                      |
+| 1971-72                                                                     | セリエA                                        | 30                                         | 17                                                     |
+| 1972-73                                                                     | セリエA                                        | 30                                         | 11                                                     |
+| 1973-74                                                                     | セリエA                                        | 30                                         | 10                                                     |
+| 1974-75                                                                     | セリエA                                        | 30                                         | 11                                                     |
+| 1975-76                                                                     | セリエA                                        | 30                                         | 18                                                     |
+| 1976-77                                                                     | セリエA                                        | 30                                         | 21                                                     |
+| 1977-78                                                                     | セリエA                                        | 30                                         | 14                                                     |
+| 1978-79                                                                     | セリエA                                        | 30                                         | 11                                                     |
+| 1979-80                                                                     | セリエA                                        | 30                                         | 11                                                     |
+| 1980-81                                                                     | セリエA                                        | 30                                         | 8                                                      |
+| 1981-82                                                                     | セリエA                                        | 30                                         | 8                                                      |
+| 1982-83                                                                     | セリエA                                        | 30                                         | 9                                                      |
+| 1983-84                                                                     | セリエA                                        | 30                                         | 11                                                     |
+| 1984-85                                                                     | セリエA                                        | 30                                         | 14                                                     |
+| 1985-86                                                                     | セリエA                                        | 30                                         | 11                                                     |
+| 1986-87                                                                     | セリエA                                        | 30                                         | 8                                                      |
+| 1987-88                                                                     | セリエA                                        | 30                                         | 8                                                      |
+| 1988-89                                                                     | セリエA                                        | 34                                         | 8                                                      |
+| 1989-90                                                                     | セリエB                                        | 38                                         | 19                                                     |
+| 1990-91                                                                     | セリエA                                        | 34                                         | 12                                                     |
+| 1991-92                                                                     | セリエA                                        | 34                                         | 14                                                     |
+| 1992-93                                                                     | セリエA                                        | 34                                         | 9                                                      |
+| 1993-94                                                                     | セリエA                                        | 34                                         | 11                                                     |
+| 1994-95                                                                     | セリエA                                        | 34                                         | 12                                                     |
+| 1995-96                                                                     | セリエA                                        | 34                                         | 6                                                      |
+| 1996-97                                                                     | セリエB                                        | 38                                         | 13                                                     |
+| 1997-98                                                                     | セリエB                                        | 38                                         | 17                                                     |
+| 1998-99                                                                     | セリエB                                        | 38                                         | 19                                                     |
+| [1999-00](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_1999-2000 "wikilink") | セリエA                                        | 34                                         | 8                                                      |
+| 2000-01                                                                     | セリエB                                        | 38                                         | 22                                                     |
+| [2001-02](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2001-2002 "wikilink") | セリエA                                        | 34                                         | 10                                                     |
+| [2002-03](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2002-2003 "wikilink") | セリエA                                        | 34                                         | 4                                                      |
+| 2003-04                                                                     | セリエB                                        | 46                                         | 14                                                     |
+| 2004-05                                                                     | セリエB                                        | 42                                         | 21                                                     |
+| 2005-06                                                                     | セリエB                                        | 42                                         | 21                                                     |
+| [2006-07](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2006-2007 "wikilink") | セリエA                                        | 38                                         | 10                                                     |
+| [2007-08](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2007-2008 "wikilink") | セリエA                                        | 38                                         | 8                                                      |
+| [2008-09](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2008-2009 "wikilink") | セリエA                                        | 38                                         | 8                                                      |
+| 2009-10                                                                     | セリエB                                        | 42                                         | 19                                                     |
+| 2010-11                                                                     | セリエB                                        | 42                                         | 15                                                     |
+| 2011-12                                                                     | セリエB                                        | 42                                         | 24                                                     |
+| [2012-13](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2012-2013 "wikilink") | セリエA                                        | 38                                         | 8                                                      |
+| [2013-14](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2013-2014 "wikilink") | セリエA                                        | 38                                         | 15                                                     |
+| [2014-15](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2014-2015 "wikilink") | セリエA                                        | 38                                         | 14                                                     |
+| [2015-16](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2015-2016 "wikilink") | セリエA                                        | 38                                         | 12                                                     |
+| [2016-17](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2016-2017 "wikilink") | セリエA                                        | 38                                         | 13                                                     |
+| [2017-18](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2017-2018 "wikilink") | セリエA                                        | 38                                         | 13                                                     |
+| [2018-19](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2018-2019 "wikilink") | セリエA                                        | 38                                         | 16                                                     |
+| [2019-20](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)_2019-2020 "wikilink") | セリエA                                        | 38                                         |                                                        |
 
 ## 記録
 
@@ -143,7 +143,7 @@
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ボルシア・メンヒェングラートバッハ" title="wikilink">ボルシアMG</a></p></td>
+<td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシアMG</a></p></td>
 <td><p>1–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''1–2</p></td>
@@ -206,7 +206,7 @@
 </tr>
 <tr class="even">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TSV1860ミュンヘン" title="wikilink">1860ミュンヘン</a></p></td>
+<td><p><a href="../Page/TSV1860ミュンヘン.md" title="wikilink">1860ミュンヘン</a></p></td>
 <td><p>2–0</p></td>
 <td><p>1–3</p></td>
 <td><p>0–2</p></td>
@@ -272,7 +272,7 @@
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/レンジャーズFC" title="wikilink">レンジャーズ</a></p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>0–1</p></td>
 <td><p>'''1–2</p></td>
@@ -410,7 +410,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/VfBシュトゥットガルト" title="wikilink">シュトゥットガルト</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–1</p></td>
-<td><p>'''2–2 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''2–2 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -469,7 +469,7 @@
 <td><p>1986-87</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1986-87" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCナント" title="wikilink">ナント</a></p></td>
+<td><p><a href="../Page/FCナント.md" title="wikilink">ナント</a></p></td>
 <td><p>1–1</p></td>
 <td><p>4–0</p></td>
 <td><p>'''5–1</p></td>
@@ -557,7 +557,7 @@
 </tr>
 <tr class="odd">
 <td><p>決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>2–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''2–2 (a)</p></td>
@@ -577,7 +577,7 @@
 </tr>
 <tr class="odd">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・モスクワ" title="wikilink">ディナモ・モスクワ</a></p></td>
+<td><p><a href="../Page/FCディナモ・モスクワ.md" title="wikilink">ディナモ・モスクワ</a></p></td>
 <td><p>1–2</p></td>
 <td><p>0–0</p></td>
 <td><p>'''1–2</p></td>
@@ -607,7 +607,7 @@
 </tr>
 <tr class="even">
 <td><p>グループB</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–0</p></td>
 <td><p>'''2位</p></td>
@@ -637,7 +637,7 @@
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アスレティック・ビルバオ" title="wikilink">アスレティック・ビルバオ</a></p></td>
+<td><p><a href="../Page/アスレティック・ビルバオ.md" title="wikilink">アスレティック・ビルバオ</a></p></td>
 <td><p>2–2</p></td>
 <td><p>3–2</p></td>
 <td><p>'''5–4</p></td>
@@ -677,7 +677,7 @@
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウルヴァーハンプトン・ワンダラーズFC" title="wikilink">ウルヴァーハンプトン・ワンダラーズ</a></p></td>
+<td><p><a href="../Page/ウルヴァーハンプトン・ワンダラーズFC.md" title="wikilink">ウルヴァーハンプトン・ワンダラーズ</a></p></td>
 <td><p>2-3</p></td>
 <td><p>1-2</p></td>
 <td><p>'''3-4</p></td>
@@ -716,7 +716,7 @@
 </tr>
 <tr class="even">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビジャレアルCF" title="wikilink">ビジャレアル</a></p></td>
+<td><p><a href="../Page/ビジャレアルCF.md" title="wikilink">ビジャレアル</a></p></td>
 <td><p>2–0</p></td>
 <td><p>0–2</p></td>
 <td><p>'''2–2<br />
@@ -1140,7 +1140,7 @@
 <td><p>1997-1998</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/グレアム・スーネス" title="wikilink">グレアム・スーネス</a><br />
+<td><p><a href="../Page/グレアム・スーネス.md" title="wikilink">グレアム・スーネス</a><br />
 <a href="https://ja.wikipedia.org/wiki/エドアルド・レヤ" title="wikilink">エドアルド・レヤ</a></p></td>
 <td><p><br />
 </p></td>

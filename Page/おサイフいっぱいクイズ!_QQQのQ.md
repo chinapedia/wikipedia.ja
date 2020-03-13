@@ -7,7 +7,7 @@
 
 視聴率不振により半年で打ち切られた、『[宮本和知の熱血\!昼休み](../Page/宮本和知の熱血!昼休み.md "wikilink")』に代わる後番組として放送開始。
 
-[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")と[笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")が司会を務めていた平日昼の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")。上岡のスケジュールの都合で当初は基本的に月曜放送分のみ[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")し、その直後にその週の火曜放送分から金曜放送分までを一気に収録するというかなり特殊な方式の番組収録が行われ、後に日曜日に2週間分を一気に収録する方式に変更された。
+[上岡龍太郎](../Page/上岡龍太郎.md "wikilink")と[笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")が司会を務めていた平日昼の[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")。上岡のスケジュールの都合で当初は基本的に月曜放送分のみ[生放送](../Page/生放送.md "wikilink")し、その直後にその週の火曜放送分から金曜放送分までを一気に収録するというかなり特殊な方式の番組収録が行われ、後に日曜日に2週間分を一気に収録する方式に変更された。
 
 『[天才バカボン](https://ja.wikipedia.org/wiki/天才バカボン_\(アニメ\) "wikilink")』でおなじみの本官と[ウナギイヌ](../Page/ウナギイヌ.md "wikilink")が暴れまくるオープニングアニメ（テーマ曲は[リール・ビッグ・フィッシュ](../Page/リール・ビッグ・フィッシュ.md "wikilink")「She has a girlfriend now」）\[1\]と、ウナギイヌをモチーフにしたタイトルロゴは、[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")率いる「フジオプロ」が担当した。セットにも本官とウナギイヌのイラストがあり、棒つかみのセットにはウナギイヌが用いられていた。
 
@@ -76,21 +76,21 @@
 
 『[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）内でパロディ企画「[早押しクイズQQQのQのQ](https://ja.wikipedia.org/wiki/伊集院光_深夜の馬鹿力のコーナー#1999年 "wikilink")」が作られ人気を博した。
 
-2001年9月21日に[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[虎の門](https://ja.wikipedia.org/wiki/虎の門 "wikilink")』の「朝まで生どっち\!」で、「[真っ昼ま王](https://ja.wikipedia.org/wiki/まっ昼ま王!! "wikilink") vs QQQのQ・復活させるならどっち?」が放送された\[3\]。　
+2001年9月21日に[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[虎の門](../Page/虎の門.md "wikilink")』の「朝まで生どっち\!」で、「[真っ昼ま王](../Page/まっ昼ま王!!.md "wikilink") vs QQQのQ・復活させるならどっち?」が放送された\[3\]。　
 
 2014年10月20日に放送された『[クイズ☆アナタの記憶](https://ja.wikipedia.org/wiki/クイズ☆アナタの記憶 "wikilink")』で、クイズの予習をさせないために番組の復活版『おサイフいっぱいクイズ\! QQQのQ 2014』の収録だと嘘をついて解答者の[オードリー春日を呼び出した](https://ja.wikipedia.org/wiki/春日俊彰 "wikilink")。番組内容はほぼ無関係だが、記憶力に関するクイズである点や、全問正解時の現金つかみ取りなど、多少の要素を引き継いでいる。
 
 ## スタッフ
 
   - 構成：[福岡秀広](https://ja.wikipedia.org/wiki/福岡秀広 "wikilink")、恒川省三、[野尻靖之](https://ja.wikipedia.org/wiki/野尻靖之 "wikilink")、岩崎元哉、[青島利幸](https://ja.wikipedia.org/wiki/青島利幸 "wikilink")
-  - 問題：[道蔦岳史](https://ja.wikipedia.org/wiki/道蔦岳史 "wikilink")
+  - 問題：[道蔦岳史](../Page/道蔦岳史.md "wikilink")
   - 音楽：[塚山エリコ](https://ja.wikipedia.org/wiki/塚山エリコ "wikilink")
   - TD：筒浦文男、足立篤己、小川信明
   - VE：石垣強、南正法
   - カメラ：水間淳一、広瀬正行
   - 音声：藤井勝彦、原田光
   - 照明：加藤久雄、加藤由美子
-  - 効果：[サウンズアート](https://ja.wikipedia.org/wiki/サウンズアート "wikilink")
+  - 効果：[サウンズアート](../Page/サウンズアート.md "wikilink")
   - 美術プロデューサー：中嶋美津夫
   - 美術デザイナー：金子俊彦
   - 美術制作：市原智津子
@@ -105,14 +105,14 @@
   - プロデューサー：[田代冬彦](../Page/田代冬彦.md "wikilink")
   - タイトル作成：[東京ムービー](../Page/東京ムービー.md "wikilink")、フジオ・プロダクション
   - 協力：[GLORY](https://ja.wikipedia.org/wiki/グローリー工業 "wikilink")
-  - 技術協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[エヌ・エス・ティー](https://ja.wikipedia.org/wiki/エヌ・エス・ティー "wikilink")、[TAMCO](https://ja.wikipedia.org/wiki/タムコ "wikilink")、[ティ・エル・シー](https://ja.wikipedia.org/wiki/ティ・エル・シー "wikilink")
-  - 制作協力：[MMJ](https://ja.wikipedia.org/wiki/メディアミックス・ジャパン "wikilink")、SACCESS、ピポポ、トリム、クラップ、[フォーミュレーション](../Page/フォーミュレーション.md "wikilink")、フルタイム
+  - 技術協力：[東通](https://ja.wikipedia.org/wiki/東通 "wikilink")、[エヌ・エス・ティー](../Page/エヌ・エス・ティー.md "wikilink")、[TAMCO](../Page/タムコ.md "wikilink")、[ティ・エル・シー](../Page/ティ・エル・シー.md "wikilink")
+  - 制作協力：[MMJ](../Page/メディアミックス・ジャパン.md "wikilink")、SACCESS、ピポポ、トリム、クラップ、[フォーミュレーション](../Page/フォーミュレーション.md "wikilink")、フルタイム
   - 製作著作：TBS
 
 ## 脚注
 
 [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:視聴者参加型クイズ番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型クイズ番組 "wikilink") [Category:TBSのクイズ番組](https://ja.wikipedia.org/wiki/Category:TBSのクイズ番組 "wikilink") [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:上岡龍太郎](https://ja.wikipedia.org/wiki/Category:上岡龍太郎 "wikilink")
 
-1.  制作は[トムス・エンタテインメント](https://ja.wikipedia.org/wiki/トムス・エンタテインメント "wikilink")が担当した。
+1.  制作は[トムス・エンタテインメント](../Page/トムス・エンタテインメント.md "wikilink")が担当した。
 2.  「ここまできたか視聴者参加クイズ番組」[ナンシー関](../Page/ナンシー関.md "wikilink")『テレビ消灯時間3』[文藝春秋](../Page/文藝春秋.md "wikilink")、1999年、54-57頁。ISBN 4-16-355710-5。（初出『[週刊文春](../Page/週刊文春.md "wikilink")』1998年10月29日号）
 3.

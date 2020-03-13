@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ピヤ・ピロームパック](https://ja.wikipedia.org/wiki/ピヤ・ピロームパック "wikilink")博士が創設した。創設者の英語表記Piya Bhirombhakdiの頭文字を取ってこの会社名になった。当初は[ビア・シン](https://ja.wikipedia.org/wiki/ビア・シン "wikilink")で有名な[ブンロート・ブリュワリー](https://ja.wikipedia.org/wiki/ブンロート・ブリュワリー "wikilink")社社員を輸送するための航空会社であったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にチャーター便の営業許可を取得し、4年後には定期便のサービスを開始した。2009年10月、全便の運航を停止した\[1\]。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[ピヤ・ピロームパック](https://ja.wikipedia.org/wiki/ピヤ・ピロームパック "wikilink")博士が創設した。創設者の英語表記Piya Bhirombhakdiの頭文字を取ってこの会社名になった。当初は[ビア・シン](../Page/ビア・シン.md "wikilink")で有名な[ブンロート・ブリュワリー](https://ja.wikipedia.org/wiki/ブンロート・ブリュワリー "wikilink")社社員を輸送するための航空会社であったが、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にチャーター便の営業許可を取得し、4年後には定期便のサービスを開始した。2009年10月、全便の運航を停止した\[1\]。
 
 ## 運航路線
 
@@ -22,7 +22,7 @@
 
 国際線
 
-  - [バンコク](https://ja.wikipedia.org/wiki/スワンナプーム国際空港 "wikilink") ～ [ダナン](https://ja.wikipedia.org/wiki/ダナン "wikilink")
+  - [バンコク](https://ja.wikipedia.org/wiki/スワンナプーム国際空港 "wikilink") ～ [ダナン](../Page/ダナン.md "wikilink")
 
 ## 機材
 

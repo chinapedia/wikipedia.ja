@@ -1,7 +1,7 @@
 > この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
 
 
-『**メントレG**』（メントレ・ジー、メントレ・ザ・ジャイアント、メントレ the Giant）は、[1999年](../Page/1999年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月14日](../Page/9月14日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた](../Page/フジニュースネットワーク.md "wikilink")、[TOKIO](../Page/TOKIO.md "wikilink")が司会の[トーク](https://ja.wikipedia.org/wiki/トーク番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。地上デジタル放送では[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
+『**メントレG**』（メントレ・ジー、メントレ・ザ・ジャイアント、メントレ the Giant）は、[1999年](../Page/1999年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月14日](../Page/9月14日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送されていた](../Page/フジニュースネットワーク.md "wikilink")、[TOKIO](../Page/TOKIO.md "wikilink")が司会の[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。地上デジタル放送では[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。
 
 番組開始から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送分までは毎週金曜23:00 - 23:30に、2007年[4月15日](../Page/4月15日.md "wikilink")から番組終了までは毎週日曜21:00 -21:54（いずれも[JST](../Page/日本標準時.md "wikilink")）にそれぞれ放送されていた。
 
@@ -11,9 +11,9 @@
 
 ### 『メントレ』時代（1999.10 - 2003.09）
 
-[1999年](../Page/1999年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")、『[料理の鉄人](../Page/料理の鉄人.md "wikilink")』の後番組として『**[三菱電機](../Page/三菱電機.md "wikilink")サイエンスジム メントレ**』のタイトルで放送開始。[ミズノ](https://ja.wikipedia.org/wiki/ミズノ "wikilink")の一社提供だった『[Sports Partyただいま夢中\!](https://ja.wikipedia.org/wiki/Sports_Partyただいま夢中! "wikilink")』の後継番組。メントレとは*mental training*（*メン*タル*トレ*ーニング）の略で、精神の訓練を意味する。TOKIOがメインとなり、[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に著名人を呼んで[心理テスト](https://ja.wikipedia.org/wiki/心理テスト "wikilink")やゲームなどを行う形式のバラエティ番組として登場。独特の裏声で話す「[HIROSHI](https://ja.wikipedia.org/wiki/山西惇 "wikilink")」が「ハイ皆さん注目〜」「それではメントレスタートッ\!」などの台詞でナビゲーターを務めた。因みに彼の素顔は番組最後の心理テストで明かされた。その後[2000年](../Page/2000年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")より『**三菱電機サイエンスジム メントレG**（ザ・ジャイアント）』に改める。この番組タイトルは[プロレスラー](../Page/プロレスラー.md "wikilink")・[アンドレ・ザ・ジャイアント](https://ja.wikipedia.org/wiki/アンドレ・ザ・ジャイアント "wikilink")のもじり。
+[1999年](../Page/1999年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")、『[料理の鉄人](../Page/料理の鉄人.md "wikilink")』の後番組として『**[三菱電機](../Page/三菱電機.md "wikilink")サイエンスジム メントレ**』のタイトルで放送開始。[ミズノ](../Page/ミズノ.md "wikilink")の一社提供だった『[Sports Partyただいま夢中\!](https://ja.wikipedia.org/wiki/Sports_Partyただいま夢中! "wikilink")』の後継番組。メントレとは*mental training*（*メン*タル*トレ*ーニング）の略で、精神の訓練を意味する。TOKIOがメインとなり、[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")に著名人を呼んで[心理テスト](https://ja.wikipedia.org/wiki/心理テスト "wikilink")やゲームなどを行う形式のバラエティ番組として登場。独特の裏声で話す「[HIROSHI](../Page/山西惇.md "wikilink")」が「ハイ皆さん注目〜」「それではメントレスタートッ\!」などの台詞でナビゲーターを務めた。因みに彼の素顔は番組最後の心理テストで明かされた。その後[2000年](../Page/2000年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")より『**三菱電機サイエンスジム メントレG**（ザ・ジャイアント）』に改める。この番組タイトルは[プロレスラー](../Page/プロレスラー.md "wikilink")・[アンドレ・ザ・ジャイアント](../Page/アンドレ・ザ・ジャイアント.md "wikilink")のもじり。
 
-「G」となった当初はメントレ時代の形式（心理テストとトークのみ）を踏襲するとともに[ウサギ](../Page/ウサギ.md "wikilink")型のマスコットキャラクター「ココちゃん」がナビゲートしていたが、同年[10月6日](../Page/10月6日.md "wikilink")からはゲストとのトークと料理ゲーム「メントレレストラン」を行うという内容に変更された。さらに[2002年](../Page/2002年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")からはオープニングコーナーの「クイズ楽屋訪問」が開始し、現在も続く3コーナー構成となった。この時期から[視聴率](../Page/視聴率.md "wikilink")が毎週15%前後で安定するようになり、またTOKIO人気と番組の安定感もあり準ゴールデンタイム（[ノンプライム](https://ja.wikipedia.org/wiki/ノンプライム "wikilink")）の番組としては長寿の人気番組へと成長した。
+「G」となった当初はメントレ時代の形式（心理テストとトークのみ）を踏襲するとともに[ウサギ](../Page/ウサギ.md "wikilink")型のマスコットキャラクター「ココちゃん」がナビゲートしていたが、同年[10月6日](../Page/10月6日.md "wikilink")からはゲストとのトークと料理ゲーム「メントレレストラン」を行うという内容に変更された。さらに[2002年](../Page/2002年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")からはオープニングコーナーの「クイズ楽屋訪問」が開始し、現在も続く3コーナー構成となった。この時期から[視聴率](../Page/視聴率.md "wikilink")が毎週15%前後で安定するようになり、またTOKIO人気と番組の安定感もあり準ゴールデンタイム（[ノンプライム](../Page/ノンプライム.md "wikilink")）の番組としては長寿の人気番組へと成長した。
 
 当時の視聴率は[関西地区では約](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")6 - 8%と低迷していたが、それ以外の地域では全国的に約12 - 14%前後と安定した数字を記録していた。
 
@@ -21,15 +21,15 @@
 
 番組スポンサーは当初から三菱電機の1社提供だったが、[2003年](../Page/2003年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から同社を含め複数社の提供に変更、それに伴いTOKIOによるタイトルコールも『**メントレG**』に変わった。
 
-レギュラー放送とは別に過去の放送総集編を中心に据えたスペシャル版『**メントレスーパーG\!**』として、[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")・[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月11日](../Page/4月11日.md "wikilink")・[2006年](../Page/2006年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")・2006年[10月9日](../Page/10月9日.md "wikilink")のそれぞれ19:00 - 20:54に放送された。ゲストは1回目・[菅原文太](https://ja.wikipedia.org/wiki/菅原文太 "wikilink")、2回目・[ヒロシ](../Page/ヒロシ.md "wikilink")、3回目・[唐沢寿明](../Page/唐沢寿明.md "wikilink")と[南海キャンディーズ](https://ja.wikipedia.org/wiki/南海キャンディーズ "wikilink")、4回目・[島田紳助](../Page/島田紳助.md "wikilink")。3回目の放送ゴールデンタイムスペシャル（唐沢と南海）視聴率は同時間帯トップの19.8%を記録した。更に[2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")放送分（ゲスト・[荒川静香](https://ja.wikipedia.org/wiki/荒川静香 "wikilink")）ではレギュラー放送最高視聴率の20.1%を記録した。
+レギュラー放送とは別に過去の放送総集編を中心に据えたスペシャル版『**メントレスーパーG\!**』として、[2004年](../Page/2004年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")・[2005年](../Page/2005年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")・[2006年](../Page/2006年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")・2006年[10月9日](../Page/10月9日.md "wikilink")のそれぞれ19:00 - 20:54に放送された。ゲストは1回目・[菅原文太](https://ja.wikipedia.org/wiki/菅原文太 "wikilink")、2回目・[ヒロシ](../Page/ヒロシ.md "wikilink")、3回目・[唐沢寿明](../Page/唐沢寿明.md "wikilink")と[南海キャンディーズ](../Page/南海キャンディーズ.md "wikilink")、4回目・[島田紳助](../Page/島田紳助.md "wikilink")。3回目の放送ゴールデンタイムスペシャル（唐沢と南海）視聴率は同時間帯トップの19.8%を記録した。更に[2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")放送分（ゲスト・[荒川静香](https://ja.wikipedia.org/wiki/荒川静香 "wikilink")）ではレギュラー放送最高視聴率の20.1%を記録した。
 
 ### ゴールデンタイム昇格後（2007.04 - 2008.09）
 
-前身の『メントレ』の開始から7年半を経て、2007年春の改編で満を持してのゴールデン昇格となることが決定。当初は『[クイズ$ミリオネア](../Page/クイズ$ミリオネア.md "wikilink")』の後番組として木曜19時台への移動も予定されていたが、捏造問題から打ち切りとなった『[発掘\!あるある大事典](../Page/発掘!あるある大事典.md "wikilink")II』に代わり、2007年[4月15日](../Page/4月15日.md "wikilink")より日曜21時台に移動となった。同日には16:00 - 17:25より[番宣番組として](https://ja.wikipedia.org/wiki/番組宣伝 "wikilink")『今夜9時から新装開店メントレGの裏側全部見せますスペシャル\!』が放送された。
+前身の『メントレ』の開始から7年半を経て、2007年春の改編で満を持してのゴールデン昇格となることが決定。当初は『[クイズ$ミリオネア](../Page/クイズ$ミリオネア.md "wikilink")』の後番組として木曜19時台への移動も予定されていたが、捏造問題から打ち切りとなった『[発掘\!あるある大事典](../Page/発掘!あるある大事典.md "wikilink")II』に代わり、2007年[4月15日](../Page/4月15日.md "wikilink")より日曜21時台に移動となった。同日には16:00 - 17:25より[番宣番組として](../Page/番組宣伝.md "wikilink")『今夜9時から新装開店メントレGの裏側全部見せますスペシャル\!』が放送された。
 
 ゴールデン初回放送の視聴率は14.7%であったものの、その後は1桁台に落ち込む回も出るなど苦戦を強いられることとなった。このため、2007年1 - 3月期の平均である13.8%に比して4 - 6月の平均視聴率は11.9%（[関東地区](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")）を記録し、ゴールデン昇格前の金曜23時台よりも低下する形となった。
 
-一方、2007年後半は回によっては15%を越えることもあり、特に2007年[11月11日](../Page/11月11日.md "wikilink")放送分では、18.2%を記録（[ビデオリサーチ](https://ja.wikipedia.org/wiki/ビデオリサーチ "wikilink")・関東地区）し、その週の娯楽番組部門で1位となるなど持ち直しを見せていた。
+一方、2007年後半は回によっては15%を越えることもあり、特に2007年[11月11日](../Page/11月11日.md "wikilink")放送分では、18.2%を記録（[ビデオリサーチ](../Page/ビデオリサーチ.md "wikilink")・関東地区）し、その週の娯楽番組部門で1位となるなど持ち直しを見せていた。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は日曜21時台では、再び平均視聴率が1桁を記録する様になり、結果的に[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月14日](../Page/9月14日.md "wikilink")を以って『メントレ』時代を含めた9年間の歴史に幕を下ろした。同年10月より枠移動の上、『5LDK』へリニューアル された。
 
@@ -51,7 +51,7 @@ TOKIOと、スタッフの一部は、同年10月から『[5LDK](https://ja.wiki
 
 <!-- end list -->
 
-  - [HIROSHI](https://ja.wikipedia.org/wiki/山西惇 "wikilink")（1999年10月 - 2000年3月）
+  - [HIROSHI](../Page/山西惇.md "wikilink")（1999年10月 - 2000年3月）
   - [一龍斎貞友](../Page/一龍斎貞友.md "wikilink")（ココちゃんの声、「T-U」名義、2000年4月 - 9月）
 
 <!-- end list -->
@@ -60,8 +60,8 @@ TOKIOと、スタッフの一部は、同年10月から『[5LDK](https://ja.wiki
 
 <!-- end list -->
 
-  - [杉本るみ](https://ja.wikipedia.org/wiki/杉本るみ "wikilink")（『メントレ』時代・1999年10月 - 2000年3月）
-  - [武田広](https://ja.wikipedia.org/wiki/武田広 "wikilink")（2000年10月 - 2005年3月）
+  - [杉本るみ](../Page/杉本るみ.md "wikilink")（『メントレ』時代・1999年10月 - 2000年3月）
+  - [武田広](../Page/武田広.md "wikilink")（2000年10月 - 2005年3月）
   - [住友七絵](../Page/住友七絵.md "wikilink")
   - [DJナイク](https://ja.wikipedia.org/wiki/DJナイク "wikilink")（2005年4月 - 2008年9月）
 
@@ -87,7 +87,7 @@ TOKIOと、スタッフの一部は、同年10月から『[5LDK](https://ja.wiki
 <!-- end list -->
 
   -
-    ※[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")は拡大を機に打ち切られた。後番組は『[VivaVivaV6](https://ja.wikipedia.org/wiki/VivaVivaV6 "wikilink")』。
+    ※[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")は拡大を機に打ち切られた。後番組は『[VivaVivaV6](../Page/VivaVivaV6.md "wikilink")』。
 
 ### 2007年3月まで
 
@@ -217,24 +217,24 @@ TOKIOと、スタッフの一部は、同年10月から『[5LDK](https://ja.wiki
 ### メントレ
 
   - 構成：[高瀬真尚](https://ja.wikipedia.org/wiki/高瀬真尚 "wikilink")、吉野宏、加藤智久
-  - 技術：[八峯テレビ](https://ja.wikipedia.org/wiki/八峯テレビ "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")
+  - 技術：[八峯テレビ](../Page/八峯テレビ.md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")
   - 美術：[フジアール](../Page/フジアール.md "wikilink")
   - 編集・MA：[ザ・チューブ](../Page/ザ・チューブ.md "wikilink")
   - 音効：成岡知弘（SAVAN）
   - 演出：[井上晃一](../Page/井上晃一.md "wikilink")
   - プロデューサー：小島美佳
-  - 制作：フジテレビ、[ジーワン](https://ja.wikipedia.org/wiki/ジーワン_\(映像制作\) "wikilink")
+  - 制作：フジテレビ、[ジーワン](../Page/ジーワン_\(映像制作\).md "wikilink")
 
 ### メントレG
 
 #### 最終回時点スタッフ
 
-  - 構成：山内浩嗣、海老克哉、[すずきB](https://ja.wikipedia.org/wiki/すずきB "wikilink")、小川浩之 (放送作家)、渡辺健久、田中到、むらまつこうすけ
-  - ディレクター：田中友幸、岡島友孝、近藤貴浩（[BEE BRAIN](https://ja.wikipedia.org/wiki/ビー・ブレーン "wikilink")）、松本祐紀（フジテレビ）
-  - 演出：[三浦淳](https://ja.wikipedia.org/wiki/三浦淳 "wikilink")（フジテレビ）
+  - 構成：山内浩嗣、海老克哉、[すずきB](../Page/すずきB.md "wikilink")、小川浩之 (放送作家)、渡辺健久、田中到、むらまつこうすけ
+  - ディレクター：田中友幸、岡島友孝、近藤貴浩（[BEE BRAIN](../Page/ビー・ブレーン.md "wikilink")）、松本祐紀（フジテレビ）
+  - 演出：[三浦淳](../Page/三浦淳.md "wikilink")（フジテレビ）
   - 総合演出：疋田雅一（[HIHO-TV](https://ja.wikipedia.org/wiki/HIHO-TV "wikilink")）
   - プロデューサー：大川泰（D:COMPLEX）、鈴木浩史（[CELL](https://ja.wikipedia.org/wiki/CELL "wikilink")）
-  - チーフプロデューサー：[神原孝](https://ja.wikipedia.org/wiki/神原孝 "wikilink")（フジテレビ）
+  - チーフプロデューサー：[神原孝](../Page/神原孝.md "wikilink")（フジテレビ）
   - 技術協力：八峯テレビ・FLT（現[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")）、[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")
   - 協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - 制作：フジテレビバラエティ制作センター
@@ -264,7 +264,7 @@ TOKIOと、スタッフの一部は、同年10月から『[5LDK](https://ja.wiki
   - [Only One Song](https://ja.wikipedia.org/wiki/DR/Only_One_Song "wikilink") （2001年10月 - [2002年](../Page/2002年.md "wikilink")9月）
   - [glider](https://ja.wikipedia.org/wiki/ding-dong/glider "wikilink") （2002年10月 - [2003年](../Page/2003年.md "wikilink")9月）
   - [ALIVE-LIFE](https://ja.wikipedia.org/wiki/ラブラブ_マンハッタン/ALIVE-LIFE "wikilink") （2003年10月 - [2004年](../Page/2004年.md "wikilink")9月）
-  - [for you](https://ja.wikipedia.org/wiki/自分のために/for_you "wikilink") （2004年10月 - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")9月）
+  - [for you](https://ja.wikipedia.org/wiki/自分のために/for_you "wikilink") （2004年10月 - [2005年](../Page/2005年.md "wikilink")9月）
   - [僕の恋愛事情と台所事情](../Page/僕の恋愛事情と台所事情.md "wikilink") （2005年10月 - [2007年](../Page/2007年.md "wikilink")3月）
   - [Over Drive](https://ja.wikipedia.org/wiki/本日、未熟者/Over_Drive "wikilink") （2007年4月 - 2008年5月4日）
   - [あきれるくらい 僕らは願おう](https://ja.wikipedia.org/wiki/雨傘/あきれるくらい_僕らは願おう "wikilink") （2008年5月11日 - 9月14日）

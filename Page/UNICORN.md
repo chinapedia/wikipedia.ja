@@ -5,11 +5,11 @@
 
 ## 概要
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")デビュー。所属事務所はCBSソニー・アーティスツ（現・[ソニー・ミュージックアーティスツ](https://ja.wikipedia.org/wiki/ソニー・ミュージックアーティスツ "wikilink")）。契約レコード会社はCBSソニー（現・[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）。初期の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")は[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")。デビュー当初は、[ビートロック](https://ja.wikipedia.org/wiki/ビートロック "wikilink")の一派とされていたが、笹路正徳の弟子である阿部が新メンバー加入後のアルバム『服部』以降は音楽性は何でもありになり、ライブにも独特の寸劇が組み込まれたりするなど、バンドブームの中でも独自の活動を行った。音楽性の違うメンバー全員が作詞と作曲とボーカルを担当できるバンドでもあり、当時のバンドの中でも抜きん出た演奏力を持つバンドとも評された。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には、4thアルバム『[ケダモノの嵐](../Page/ケダモノの嵐.md "wikilink")』が[第32回日本レコード大賞](https://ja.wikipedia.org/wiki/第32回日本レコード大賞 "wikilink")アルバム賞を受賞した。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")デビュー。所属事務所はCBSソニー・アーティスツ（現・[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")）。契約レコード会社はCBSソニー（現・[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")）。初期の[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")は[笹路正徳](../Page/笹路正徳.md "wikilink")。デビュー当初は、[ビートロック](https://ja.wikipedia.org/wiki/ビートロック "wikilink")の一派とされていたが、笹路正徳の弟子である阿部が新メンバー加入後のアルバム『服部』以降は音楽性は何でもありになり、ライブにも独特の寸劇が組み込まれたりするなど、バンドブームの中でも独自の活動を行った。音楽性の違うメンバー全員が作詞と作曲とボーカルを担当できるバンドでもあり、当時のバンドの中でも抜きん出た演奏力を持つバンドとも評された。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")には、4thアルバム『[ケダモノの嵐](../Page/ケダモノの嵐.md "wikilink")』が[第32回日本レコード大賞](https://ja.wikipedia.org/wiki/第32回日本レコード大賞 "wikilink")アルバム賞を受賞した。
 
 「EBI奥田阿部西川手島」名義で『UNICORN』というタイトルのミニアルバム（形態は8cmシングル）を発表し、[1993年](../Page/1993年.md "wikilink")9月に解散。
 
-解散後はソロや新たなバンドでの活動、他のミュージシャンのプロデュース等、各方面で活動していたが、[2009年](../Page/2009年.md "wikilink")に再始動を発表。直後にリリースされたアルバム『[シャンブル](https://ja.wikipedia.org/wiki/シャンブル "wikilink")』はオリコン1位を獲得し、再結成グループによるアルバムの首位獲得は[かぐや姫の](https://ja.wikipedia.org/wiki/かぐや姫_\(フォークグループ\) "wikilink")『[かぐや姫・今日](../Page/かぐや姫・今日.md "wikilink")』以来、30年10か月ぶりで史上2組目となった。また、前回の首位から今回の首位獲得までの14年10か月というインターバル期間は、[CHAGE and ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")8年6か月を上回り、19年半ぶりに記録を更新した。
+解散後はソロや新たなバンドでの活動、他のミュージシャンのプロデュース等、各方面で活動していたが、[2009年](../Page/2009年.md "wikilink")に再始動を発表。直後にリリースされたアルバム『[シャンブル](https://ja.wikipedia.org/wiki/シャンブル "wikilink")』はオリコン1位を獲得し、再結成グループによるアルバムの首位獲得は[かぐや姫の](../Page/かぐや姫_\(フォークグループ\).md "wikilink")『[かぐや姫・今日](../Page/かぐや姫・今日.md "wikilink")』以来、30年10か月ぶりで史上2組目となった。また、前回の首位から今回の首位獲得までの14年10か月というインターバル期間は、[CHAGE and ASKAの](../Page/CHAGE_and_ASKA.md "wikilink")8年6か月を上回り、19年半ぶりに記録を更新した。
 
 現在は再始動前の活動年数を既に追い越し、精力的にライブ、リリースを重ねている。
 
@@ -211,7 +211,7 @@ PlotData=
   - 「民生くんとアベくん」奥田・阿部 - 解散まで、CX系『[ダウンタウンのごっつええ感じ](../Page/ダウンタウンのごっつええ感じ.md "wikilink")』にレギュラー出演。
   - 「しのコーン」手島・EBI（[篠原ともえ](../Page/篠原ともえ.md "wikilink")） - 1997年に結成され、ツアーをまわった。
   - 「電大」川西・手島・EBI - 2012年に結成された同じ大学出身の3人によるユニット。
-  - 「阿部民バンド」奥田・阿部（八熊慎一\[[SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink")\] / [YO-KING](https://ja.wikipedia.org/wiki/YO-KING "wikilink")・ [桜井秀俊](https://ja.wikipedia.org/wiki/桜井秀俊 "wikilink")\[[真心ブラザーズ](https://ja.wikipedia.org/wiki/真心ブラザーズ "wikilink")\] / [木内健](../Page/木内健.md "wikilink")） - 2013年「ワシモ半世紀」に出演したユニット。
+  - 「阿部民バンド」奥田・阿部（八熊慎一\[[SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink")\] / [YO-KING](../Page/YO-KING.md "wikilink")・ [桜井秀俊](../Page/桜井秀俊.md "wikilink")\[[真心ブラザーズ](../Page/真心ブラザーズ.md "wikilink")\] / [木内健](../Page/木内健.md "wikilink")） - 2013年「ワシモ半世紀」に出演したユニット。
   - 「なにわンダーたこ虹バンド」川西・手島（上野一郎・TACOS NAOMI） - [たこやきレインボー](https://ja.wikipedia.org/wiki/たこやきレインボー "wikilink")のバックバンド。
   - 「ABEDON and THE RINGSIDE」阿部・奥田（八熊慎一\[[SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink")\] ・[斎藤有太](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink")・[木内健](../Page/木内健.md "wikilink")）- [2016年](../Page/2016年.md "wikilink")に結成されたユニット。
   - 「むねきんトリオ」奥田・阿部（[斎藤有太](https://ja.wikipedia.org/wiki/斎藤有太 "wikilink")） - 氣志團presents企画「アベストテン」から派生したアイドルユニット。
@@ -220,7 +220,7 @@ PlotData=
 
   - [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")3月、川西、手島が中心となって「ユニコーン」を結成。手島が、ライブハウスの演奏で目をつけていたEBI(堀内)を勧誘し加入。2度の勧誘を経て最後に奥田が加入。12月、CBSソニーオーディション決勝にて合格。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月21日、1stアルバム『[BOOM](../Page/BOOM.md "wikilink")』でデビュー。
-  - [1988年](../Page/1988年.md "wikilink")1月、向井が健康上の理由から脱退。以後のレコーディングとライヴには、[笹路正徳](https://ja.wikipedia.org/wiki/笹路正徳 "wikilink")、阿部義晴がサポートメンバーとして参加。5月、阿部が正式加入。
+  - [1988年](../Page/1988年.md "wikilink")1月、向井が健康上の理由から脱退。以後のレコーディングとライヴには、[笹路正徳](../Page/笹路正徳.md "wikilink")、阿部義晴がサポートメンバーとして参加。5月、阿部が正式加入。
   - [1989年](../Page/1989年.md "wikilink")7月10日、初の[日本武道館](../Page/日本武道館.md "wikilink")でのライヴを行う。
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、4thアルバム『[ケダモノの嵐](../Page/ケダモノの嵐.md "wikilink")』が[第32回日本レコード大賞](https://ja.wikipedia.org/wiki/第32回日本レコード大賞 "wikilink")アルバム賞を受賞する。
   - [1991年](../Page/1991年.md "wikilink")8月23日、 EBIがアルバム「MUSE'E」でソロデビュー。10月22日、ユニコーンでは最長のツアー「舞監無き戦い」ツアー開始（1992年3月19日まで）。
@@ -272,7 +272,7 @@ PlotData=
 <td><p>1989年9月1日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/デーゲーム" title="wikilink">デーゲーム</a></strong></p></td>
 <td><p>11位</p></td>
-<td><p><small>「<a href="https://ja.wikipedia.org/wiki/坂上二郎" title="wikilink">坂上二郎</a>とユニコーン」名義</small></p></td>
+<td><p><small>「<a href="../Page/坂上二郎.md" title="wikilink">坂上二郎</a>とユニコーン」名義</small></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -754,19 +754,19 @@ ABEDONによる全曲リマスタリング。</p></td>
 
 ## ミュージックビデオ
 
-|                                                              |                                                                                                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                       | **曲名**                                                                                                                                                                                                                                                                                                                                                            |
-| [板屋宏幸](https://ja.wikipedia.org/wiki/板屋宏幸 "wikilink")        | 「I'M A LOSER」「ペケペケ」「[大迷惑](https://www.youtube.com/watch?v=9vEw-r3mmfk)」「デーゲーム」「働く男」「命果てるまで」「ブルース」「ニッポンへ行くの巻」「[ヒゲとボイン](https://www.youtube.com/watch?v=Q7ITtfUQ8eU)」「雪が降る町」「[すばらしい日々](https://www.youtube.com/watch?v=UA33zQ-DY1w)」「[WAO\!](https://www.youtube.com/watch?v=qsbgcQxZ6xI)」                                                                          |
-| [大沢組](https://ja.wikipedia.org/wiki/大沢組 "wikilink")          | 「AGONY」「[SAMURAI 5](https://www.youtube.com/watch?v=fnhLvQWSmXs)」「Z LIFE」「さらばビッチ」「ウルトラヘブン スーパーマイルド」「[手島いさむ物語](https://www.youtube.com/watch?v=keK78V22Lds)」「頼みたいぜ」                                                                                                                                                                                                |
-| [大沢昌史](https://ja.wikipedia.org/wiki/大沢昌史 "wikilink")        | 「HELLO from DVD「TOUR 2009 蘇える勤労」」「[ひまわり](https://www.youtube.com/watch?v=ADXgefhoZa0)」「[デジタルスープ](https://www.youtube.com/watch?v=jIylY9mFcmw)」「[レディオ体操](https://www.youtube.com/watch?v=okSxNhTBJGw)」「手島いさむ大百科」「素浪人ファーストアウト from DVD「TOUR 2009 蘇える勤労」」「[半世紀少年](https://www.youtube.com/watch?v=rXkC0PSdML4)」「[裸の太陽](https://www.youtube.com/watch?v=TUxUvxp3Bvc)」 |
-| [山岸聖太](https://ja.wikipedia.org/wiki/山岸聖太 "wikilink")        | 「ぶたぶた」                                                                                                                                                                                                                                                                                                                                                            |
-| [関和亮](https://ja.wikipedia.org/wiki/関和亮 "wikilink")          | 「[Feel So Moon](https://www.youtube.com/watch?v=2cuAHXEr7Xs)」                                                                                                                                                                                                                                                                                                     |
-| 山城竹識（45ど）・森川耕平（45ど）                                          | 「[KEEP ON ROCK'N ROLL](https://www.youtube.com/watch?v=0GOffSjZLds)」                                                                                                                                                                                                                                                                                              |
-| 時崎豊（[ハウフルス](https://ja.wikipedia.org/wiki/ハウフルス "wikilink")） | 「あなたが太陽」「俺のタクシー」「はいYES\!」                                                                                                                                                                                                                                                                                                                                         |
-| 谷山剛（EPOCH）                                                   | 「すばやくなりたい」「風と太陽」                                                                                                                                                                                                                                                                                                                                                  |
-| [ABEDON](https://ja.wikipedia.org/wiki/ABEDON "wikilink")    | 「OH MY RADIO」「ZERO」                                                                                                                                                                                                                                                                                                                                               |
-| 不明                                                           | 「Concrete Jungle〜Hystery Mystery」「Maybe Blue」「Pink Prisoner」                                                                                                                                                                                                                                                                                                      |
+|                                                           |                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **監督**                                                    | **曲名**                                                                                                                                                                                                                                                                                                                                                            |
+| [板屋宏幸](https://ja.wikipedia.org/wiki/板屋宏幸 "wikilink")     | 「I'M A LOSER」「ペケペケ」「[大迷惑](https://www.youtube.com/watch?v=9vEw-r3mmfk)」「デーゲーム」「働く男」「命果てるまで」「ブルース」「ニッポンへ行くの巻」「[ヒゲとボイン](https://www.youtube.com/watch?v=Q7ITtfUQ8eU)」「雪が降る町」「[すばらしい日々](https://www.youtube.com/watch?v=UA33zQ-DY1w)」「[WAO\!](https://www.youtube.com/watch?v=qsbgcQxZ6xI)」                                                                          |
+| [大沢組](https://ja.wikipedia.org/wiki/大沢組 "wikilink")       | 「AGONY」「[SAMURAI 5](https://www.youtube.com/watch?v=fnhLvQWSmXs)」「Z LIFE」「さらばビッチ」「ウルトラヘブン スーパーマイルド」「[手島いさむ物語](https://www.youtube.com/watch?v=keK78V22Lds)」「頼みたいぜ」                                                                                                                                                                                                |
+| [大沢昌史](https://ja.wikipedia.org/wiki/大沢昌史 "wikilink")     | 「HELLO from DVD「TOUR 2009 蘇える勤労」」「[ひまわり](https://www.youtube.com/watch?v=ADXgefhoZa0)」「[デジタルスープ](https://www.youtube.com/watch?v=jIylY9mFcmw)」「[レディオ体操](https://www.youtube.com/watch?v=okSxNhTBJGw)」「手島いさむ大百科」「素浪人ファーストアウト from DVD「TOUR 2009 蘇える勤労」」「[半世紀少年](https://www.youtube.com/watch?v=rXkC0PSdML4)」「[裸の太陽](https://www.youtube.com/watch?v=TUxUvxp3Bvc)」 |
+| [山岸聖太](https://ja.wikipedia.org/wiki/山岸聖太 "wikilink")     | 「ぶたぶた」                                                                                                                                                                                                                                                                                                                                                            |
+| [関和亮](https://ja.wikipedia.org/wiki/関和亮 "wikilink")       | 「[Feel So Moon](https://www.youtube.com/watch?v=2cuAHXEr7Xs)」                                                                                                                                                                                                                                                                                                     |
+| 山城竹識（45ど）・森川耕平（45ど）                                       | 「[KEEP ON ROCK'N ROLL](https://www.youtube.com/watch?v=0GOffSjZLds)」                                                                                                                                                                                                                                                                                              |
+| 時崎豊（[ハウフルス](../Page/ハウフルス.md "wikilink")）                 | 「あなたが太陽」「俺のタクシー」「はいYES\!」                                                                                                                                                                                                                                                                                                                                         |
+| 谷山剛（EPOCH）                                                | 「すばやくなりたい」「風と太陽」                                                                                                                                                                                                                                                                                                                                                  |
+| [ABEDON](https://ja.wikipedia.org/wiki/ABEDON "wikilink") | 「OH MY RADIO」「ZERO」                                                                                                                                                                                                                                                                                                                                               |
+| 不明                                                        | 「Concrete Jungle〜Hystery Mystery」「Maybe Blue」「Pink Prisoner」                                                                                                                                                                                                                                                                                                      |
 
 ## ライブ・コンサートツアー
 
@@ -785,7 +785,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 <p>UNICORN TOUR PANICK ATTACK'88</p>
 </div>
 <div class="NavContent" align="left">
-<p>10/14 <a href="https://ja.wikipedia.org/wiki/渋谷公会堂" title="wikilink">渋谷公会堂</a><br />
+<p>10/14 <a href="../Page/渋谷公会堂.md" title="wikilink">渋谷公会堂</a><br />
 10/20 <a href="../Page/オリックス劇場.md" title="wikilink">大阪厚生年金会館</a><br />
 10/30 <a href="../Page/愛媛県県民文化会館.md" title="wikilink">愛媛県県民文化会館</a><br />
 11/1 <a href="../Page/岡山市民会館.md" title="wikilink">岡山市民会館</a><br />
@@ -797,7 +797,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 11/15 <a href="../Page/鹿児島市民文化ホール.md" title="wikilink">鹿児島市民文化ホール</a><br />
 11/16 福岡<a href="https://ja.wikipedia.org/wiki/都久志会館" title="wikilink">都久志会館</a><br />
 11/17 長崎市平和会館<br />
-11/20 <a href="https://ja.wikipedia.org/wiki/神戸国際会館" title="wikilink">神戸国際会館</a><br />
+11/20 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a><br />
 11/21 横浜市教育会館<br />
 11/25 <a href="https://ja.wikipedia.org/wiki/愛知県勤労会館" title="wikilink">愛知県勤労会館</a><br />
 11/27 札幌<a href="https://ja.wikipedia.org/wiki/道新ホール" title="wikilink">道新ホール</a><br />
@@ -953,7 +953,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 12/12 名古屋市公会堂<br />
 12/13 静岡市民文化会館<br />
 12/14 <a href="https://ja.wikipedia.org/wiki/磐田市民文化会館" title="wikilink">磐田市民文化会館</a><br />
-12/19 <a href="https://ja.wikipedia.org/wiki/パルテノン多摩" title="wikilink">パルテノン多摩</a><br />
+12/19 <a href="../Page/パルテノン多摩.md" title="wikilink">パルテノン多摩</a><br />
 12/21 <a href="../Page/市川市文化会館.md" title="wikilink">市川市文化会館</a><br />
 12/22 千葉県文化会館<br />
 12/24 郡山市民文化センター<br />
@@ -1068,7 +1068,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 10/1.2 静岡市民文化会館<br />
 10/4.5 福岡サンパレス<br />
 10/7 新潟県民会館<br />
-10/15.16 <a href="https://ja.wikipedia.org/wiki/尼崎市総合文化センター" title="wikilink">尼崎アルカイックホール</a><br />
+10/15.16 <a href="../Page/尼崎市総合文化センター.md" title="wikilink">尼崎アルカイックホール</a><br />
 10/18 <a href="../Page/広島市文化交流会館.md" title="wikilink">広島厚生年金会館</a><br />
 10/19 倉敷市民会館<br />
 10/21 松山市民会館<br />
@@ -1125,7 +1125,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 6/9 神戸国際会館<br />
 6/11.12 大阪厚生年金会館<br />
 6/14 石川厚生年金会館<br />
-6/16.17.18 <a href="https://ja.wikipedia.org/wiki/東京ベイNKホール" title="wikilink">東京ベイNKホール</a><br />
+6/16.17.18 <a href="../Page/東京ベイNKホール.md" title="wikilink">東京ベイNKホール</a><br />
 6/22.23 <a href="../Page/長崎市公会堂.md" title="wikilink">長崎市公会堂</a><br />
 6/24 4946 宮崎市民会館<br />
 6/28.29.30 日本武道館<br />
@@ -1154,7 +1154,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 </div>
 <div class="NavContent" align="left">
 <p>3/5,6 山形県県民会館<br />
-3/8 <a href="https://ja.wikipedia.org/wiki/マリオス" title="wikilink">盛岡市民文化ホール</a><br />
+3/8 <a href="../Page/マリオス.md" title="wikilink">盛岡市民文化ホール</a><br />
 3/11(水),12(木) 新潟県民会館<br />
 3/14 福井フェニックスプラザ<br />
 3/15(日) 石川厚生年金会館<br />
@@ -1162,13 +1162,13 @@ ABEDONによる全曲リマスタリング。</p></td>
 3/20(金) 山梨県立県民文化ホール<br />
 3/26(木),27(金) 北海道厚生年金会館<br />
 4/1(水) 横浜アリーナ<br />
-4/5(日) <a href="https://ja.wikipedia.org/wiki/マリンメッセ福岡" title="wikilink">マリンメッセ福岡</a><br />
+4/5(日) <a href="../Page/マリンメッセ福岡.md" title="wikilink">マリンメッセ福岡</a><br />
 4/9(木) 鹿児島市民文化ホール第1<br />
 4/11(土),12(日) 神戸国際会館 こくさいホール<br />
 4/15(水) アルファあなぶきホール（香川県県民ホール）<br />
 4/16(木) 岡山市民会館<br />
 4/18(土) 島根県民会館<br />
-4/20(月) <a href="https://ja.wikipedia.org/wiki/アクトシティ浜松" title="wikilink">アクトシティ浜松</a><br />
+4/20(月) <a href="../Page/アクトシティ浜松.md" title="wikilink">アクトシティ浜松</a><br />
 4/22 日本ガイシホール（名古屋レインボーホール）<br />
 4/28(火),29(水) <a href="../Page/広島県立総合体育館.md" title="wikilink">広島グリーンアリーナ</a><br />
 5/2 <a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a><br />
@@ -1187,7 +1187,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 <p>3/24 <a href="https://ja.wikipedia.org/wiki/Zepp_Sapporo" title="wikilink">Zepp Sapporo</a><br />
 4/8 熊本市民会館<br />
 5/3 さいたまスーパーアリーナ<br />
-5/11,12 <a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Osaka</a><br />
+5/11,12 <a href="../Page/Zepp.md" title="wikilink">Zepp Osaka</a><br />
 5/22 日本武道館</p></td>
 </tr>
 <tr class="even">
@@ -1197,15 +1197,15 @@ ABEDONによる全曲リマスタリング。</p></td>
 <p>日本の夏、勤労の夏（野外フェス、イベント etc.）</p>
 </div>
 <div class="NavContent" align="left">
-<p>7/19 <a href="https://ja.wikipedia.org/wiki/MUSIC_ON!_TV" title="wikilink">MUSIC ON! TV</a> presents GG09<br />
+<p>7/19 <a href="../Page/MUSIC_ON!_TV.md" title="wikilink">MUSIC ON! TV</a> presents GG09<br />
 7/20 <a href="../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md" title="wikilink">ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.</a> 2009<br />
 7/25 <a href="../Page/SETSTOCK.md" title="wikilink">SETSTOCK</a>'09<br />
 7/26 <a href="https://ja.wikipedia.org/wiki/HIGHER_GROUND" title="wikilink">HIGHER GROUND</a> 2009（雨天中止）<br />
 8/2 <a href="https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL" title="wikilink">ROCK IN JAPAN FESTIVAL</a> 2009<br />
-8/7 <a href="https://ja.wikipedia.org/wiki/サマーソニック" title="wikilink">SUMMER SONIC</a> 2009 （大阪公演）<br />
-8/9 <a href="https://ja.wikipedia.org/wiki/サマーソニック" title="wikilink">SUMMER SONIC</a> 2009 （千葉公演）<br />
+8/7 <a href="../Page/サマーソニック.md" title="wikilink">SUMMER SONIC</a> 2009 （大阪公演）<br />
+8/9 <a href="../Page/サマーソニック.md" title="wikilink">SUMMER SONIC</a> 2009 （千葉公演）<br />
 8/14 <a href="../Page/J-WAVE.md" title="wikilink">J-WAVE</a> LIVE 2000+9<br />
-8/15 <a href="https://ja.wikipedia.org/wiki/ライジング・サン・ロックフェスティバル" title="wikilink">RISING SUN ROCK FESTIVAL</a> 2009 in EZO<br />
+8/15 <a href="../Page/ライジング・サン・ロックフェスティバル.md" title="wikilink">RISING SUN ROCK FESTIVAL</a> 2009 in EZO<br />
 8/22 <a href="https://ja.wikipedia.org/wiki/ロックロックこんにちは!" title="wikilink">ロックロックこんにちは!</a> in 仙台 10th Anniversary Special<br />
 8/28 <a href="../Page/SWEET_LOVE_SHOWER.md" title="wikilink">SPACE SHOWER SWEET LOVE SHOWER</a> 2009<br />
 9/5 <a href="https://ja.wikipedia.org/wiki/OTODAMA_音泉魂" title="wikilink">OTODAMA'09</a></p></td>
@@ -1247,7 +1247,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 7/2 ベイシア文化ホール（群馬県民会館）<br />
 7/4 <a href="../Page/大分県立総合文化センター.md" title="wikilink">大分 iichikoグランシアタ</a><br />
 7/5 長崎市公会堂<br />
-7/7 <a href="https://ja.wikipedia.org/wiki/大阪府立国際会議場" title="wikilink">グランキューブ大阪</a><br />
+7/7 <a href="../Page/大阪府立国際会議場.md" title="wikilink">グランキューブ大阪</a><br />
 7/8 グランキューブ大阪<br />
 7/11 松山市民会館<br />
 7/1 四日市市文化会館<br />
@@ -1256,7 +1256,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 7/20,21 <a href="../Page/森のホール21.md" title="wikilink">松戸 森のホール21</a><br />
 7/26 <a href="../Page/北上市文化交流センター_さくらホール.md" title="wikilink">北上市文化交流センター さくらホール</a><br />
 7/27 青森市文化会館<br />
-8/30,31 <a href="https://ja.wikipedia.org/wiki/Zepp" title="wikilink">Zepp Sendai</a>（6/27仙台サンプラザホール公演の振替）<br />
+8/30,31 <a href="../Page/Zepp.md" title="wikilink">Zepp Sendai</a>（6/27仙台サンプラザホール公演の振替）<br />
 <strong>（アリーナツアー）</strong><br />
 9/5,6 日本武道館<br />
 9/16,17 名古屋日本ガイシホール<br />
@@ -1296,7 +1296,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 4/24 仙台サンプラザ<br />
 4/26 札幌市民ホール<br />
 4/27 札幌市民ホール<br />
-5/7 <a href="https://ja.wikipedia.org/wiki/東京国際フォーラム" title="wikilink">東京国際フォーラム ホールA</a><br />
+5/7 <a href="../Page/東京国際フォーラム.md" title="wikilink">東京国際フォーラム ホールA</a><br />
 5/8 東京国際フォーラム ホールA<br />
 5/12 よこすか芸術劇場<br />
 5/13 よこすか芸術劇場<br />
@@ -1369,7 +1369,7 @@ ABEDONによる全曲リマスタリング。</p></td>
 
   - 1990年08月11日 - KIRIN SOUND TOGETHER [POP HILL](https://ja.wikipedia.org/wiki/POP_HILL "wikilink") '90
   - 1991年08月11日 - KIRIN SOUND TOGETHER POP HILL '91
-  - 2009年07月19日 - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") presents GG09
+  - 2009年07月19日 - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink") presents GG09
   - 2009年07月20日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")2009
   - 2009年07月25日 - [SETSTOCK](../Page/SETSTOCK.md "wikilink")'09
   - 2009年08月02日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2009
@@ -1426,7 +1426,7 @@ ABEDONによる全曲リマスタリング。</p></td>
   - 川西と手島は「THE STRIPPER」というバンドで一緒に活動していたが、音楽性の違いにより2人そろって脱退した。その後、手島は本気でプロのミュージシャンになる事を志し、ライブハウスでアルバイトをしつつ多数のバンドを掛け持ちする。一方で川西は音楽を一度止め、就職する。
   - バンドを止めサラリーマンとなった川西だったが、当時奥田の所属していたバンド「READY\!」の解散ライヴのサポートドラマーを頼まれ参加。バンド熱が戻った川西は新たなバンドを結成すべく手島に声をかけたが「サラリーマンと組む気は無い」と言われたため脱サラし、勧誘に成功した。次に手島が目をつけていたベーシスト堀内(EBI)を勧誘。実は川西、手島の大学の後輩だった。
   - READY\!を解散した奥田は、友人のベーシストである山中真一と新たなバンドを作ることを約束していた。そのため、川西からの最初のオファーを断ったのだが、山中が勝手に別のバンド（後の[レプリカ](https://ja.wikipedia.org/wiki/レプリカ_\(バンド\) "wikilink")）をやり始めたため、2度目のオファーでユニコーンへの加入を決意した。\[6\]
-  - バンド名は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のロックバンド[T・レックス](https://ja.wikipedia.org/wiki/T・レックス "wikilink")のアルバム『[ユニコーン](../Page/ユニコーン_\(アルバム\).md "wikilink")』に由来している\[7\]。
+  - バンド名は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のロックバンド[T・レックス](../Page/T・レックス.md "wikilink")のアルバム『[ユニコーン](../Page/ユニコーン_\(アルバム\).md "wikilink")』に由来している\[7\]。
 
 ### デビュー後
 
@@ -1436,11 +1436,11 @@ ABEDONによる全曲リマスタリング。</p></td>
 
 ### 「バンド御三家」
 
-  - 「[バンドブーム](../Page/バンドブーム.md "wikilink")」の中心的グループ\[11\]\[12\] で[THE BLUE HEARTS](https://ja.wikipedia.org/wiki/THE_BLUE_HEARTS "wikilink")、[JUN SKY WALKER(S)と共に](../Page/JUN_SKY_WALKER\(S\).md "wikilink")*[バンド](../Page/バンド_\(音楽\).md "wikilink")[御三家](../Page/御三家.md "wikilink")*とも呼ばれた。またルックスの良さから[チェッカーズ](../Page/チェッカーズ.md "wikilink")、[JUN SKY WALKER(S)と並んで](../Page/JUN_SKY_WALKER\(S\).md "wikilink")、当時の音楽雑誌で最も[グラビアページ](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")を組まれるバンドであった。特に"ロックバンドのアイドル化"を招いたと言われる『PATi PATi』では、[チェッカーズ](../Page/チェッカーズ.md "wikilink")の後、度々表紙や特集を組まれる同誌の看板スターとなった\[13\]。
+  - 「[バンドブーム](../Page/バンドブーム.md "wikilink")」の中心的グループ\[11\]\[12\] で[THE BLUE HEARTS](../Page/THE_BLUE_HEARTS.md "wikilink")、[JUN SKY WALKER(S)と共に](../Page/JUN_SKY_WALKER\(S\).md "wikilink")*[バンド](../Page/バンド_\(音楽\).md "wikilink")[御三家](../Page/御三家.md "wikilink")*とも呼ばれた。またルックスの良さから[チェッカーズ](../Page/チェッカーズ.md "wikilink")、[JUN SKY WALKER(S)と並んで](../Page/JUN_SKY_WALKER\(S\).md "wikilink")、当時の音楽雑誌で最も[グラビアページ](https://ja.wikipedia.org/wiki/グラビアページ "wikilink")を組まれるバンドであった。特に"ロックバンドのアイドル化"を招いたと言われる『PATi PATi』では、[チェッカーズ](../Page/チェッカーズ.md "wikilink")の後、度々表紙や特集を組まれる同誌の看板スターとなった\[13\]。
 
 ### 影響
 
-  - その後のロックバンド、ミュージシャンに与えた影響は大きく、[ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")\[14\]\[15\] や[小渕健太郎](https://ja.wikipedia.org/wiki/小渕健太郎 "wikilink")\[16\]\[17\]\[18\]、[ASIAN KUNG-FU GENERATION](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION "wikilink")\[19\]\[20\]、[BEAT CRUSADERS](https://ja.wikipedia.org/wiki/BEAT_CRUSADERS "wikilink")\[21\]\[22\]、[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")\[23\]\[24\]\[25\]、[レミオロメン](https://ja.wikipedia.org/wiki/レミオロメン "wikilink")\[26\]\[27\]\[28\]\[29\]、[SEAMO](../Page/SEAMO.md "wikilink")\[30\]\[31\]、志村正彦\[32\]（[フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink")）、[氣志團](../Page/氣志團.md "wikilink")、[小田井涼平](https://ja.wikipedia.org/wiki/小田井涼平 "wikilink")([純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink"))、和田唱（[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")）\[33\]、おのまきこ（[花\*花](https://ja.wikipedia.org/wiki/花*花 "wikilink")）\[34\]、[キンモクセイ](../Page/キンモクセイ_\(バンド\).md "wikilink")\[35\]\[36\]、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")\[37\]\[38\]、[THE BACK HORN](https://ja.wikipedia.org/wiki/THE_BACK_HORN "wikilink")\[39\]\[40\]、[スキマスイッチ](https://ja.wikipedia.org/wiki/スキマスイッチ "wikilink")\[41\]\[42\]\[43\]、[MONGOL800](../Page/MONGOL800.md "wikilink")\[44\]\[45\]、[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")\[46\]\[47\]、[ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")\[48\]（[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")）、[POLYSICS](https://ja.wikipedia.org/wiki/POLYSICS "wikilink")\[49\]、[DOES](https://ja.wikipedia.org/wiki/DOES "wikilink")\[50\]、[髭（HiGE）](https://ja.wikipedia.org/wiki/髭（HiGE） "wikilink")、[SPECIAL OTHERS](../Page/SPECIAL_OTHERS.md "wikilink")\[51\]\[52\]、[monobright](https://ja.wikipedia.org/wiki/monobright "wikilink")\[53\]\[54\]\[55\]、[アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")\[56\]\[57\]、西村晋弥\[58\]（元[シュノーケル](../Page/シュノーケル_\(バンド\).md "wikilink")）、[チャットモンチー](../Page/チャットモンチー.md "wikilink")\[59\]\[60\]、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")\[61\]\[62\]\[63\]、[リヴァース・クオモ](https://ja.wikipedia.org/wiki/リヴァース・クオモ "wikilink")（[スコット&リバース](https://ja.wikipedia.org/wiki/スコット&リバース "wikilink")）\[64\]、[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")\[65\] 、[マカロニえんぴつ](https://ja.wikipedia.org/wiki/マカロニえんぴつ "wikilink")等、近年活躍している多くのミュージシャンがその影響を公言している。[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[桜井和寿](../Page/桜井和寿.md "wikilink")は、アマチュア時代（[THE WALLS](https://ja.wikipedia.org/wiki/THE_WALLS "wikilink")）に[CBSソニー](https://ja.wikipedia.org/wiki/CBSソニー "wikilink")のオーディションを受けた時、ゲストで出演したユニコーンを観て「ああ、俺ら今みたいなことやってたら、売れないんだなぁ」と「ユニコーンの"華"を自分なりに研究した」「それまでの暗い音楽から、明るい音楽に方向転換した」等、特にアレンジ面で大きな影響を受けた話している\[66\]\[67\]\[68\]\[69\]。
+  - その後のロックバンド、ミュージシャンに与えた影響は大きく、[ゆず](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\) "wikilink")\[14\]\[15\] や[小渕健太郎](../Page/小渕健太郎.md "wikilink")\[16\]\[17\]\[18\]、[ASIAN KUNG-FU GENERATION](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")\[19\]\[20\]、[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")\[21\]\[22\]、[Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")\[23\]\[24\]\[25\]、[レミオロメン](../Page/レミオロメン.md "wikilink")\[26\]\[27\]\[28\]\[29\]、[SEAMO](../Page/SEAMO.md "wikilink")\[30\]\[31\]、志村正彦\[32\]（[フジファブリック](../Page/フジファブリック.md "wikilink")）、[氣志團](../Page/氣志團.md "wikilink")、[小田井涼平](../Page/小田井涼平.md "wikilink")([純烈](https://ja.wikipedia.org/wiki/純烈 "wikilink"))、和田唱（[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")）\[33\]、おのまきこ（[花\*花](https://ja.wikipedia.org/wiki/花*花 "wikilink")）\[34\]、[キンモクセイ](../Page/キンモクセイ_\(バンド\).md "wikilink")\[35\]\[36\]、[aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")\[37\]\[38\]、[THE BACK HORN](../Page/THE_BACK_HORN.md "wikilink")\[39\]\[40\]、[スキマスイッチ](../Page/スキマスイッチ.md "wikilink")\[41\]\[42\]\[43\]、[MONGOL800](../Page/MONGOL800.md "wikilink")\[44\]\[45\]、[マキシマムザホルモン](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")\[46\]\[47\]、[ファンキー加藤](https://ja.wikipedia.org/wiki/ファンキー加藤 "wikilink")\[48\]（[FUNKY MONKEY BABYS](https://ja.wikipedia.org/wiki/FUNKY_MONKEY_BABYS "wikilink")）、[POLYSICS](../Page/POLYSICS.md "wikilink")\[49\]、[DOES](https://ja.wikipedia.org/wiki/DOES "wikilink")\[50\]、[髭（HiGE）](https://ja.wikipedia.org/wiki/髭（HiGE） "wikilink")、[SPECIAL OTHERS](../Page/SPECIAL_OTHERS.md "wikilink")\[51\]\[52\]、[monobright](https://ja.wikipedia.org/wiki/monobright "wikilink")\[53\]\[54\]\[55\]、[アナログフィッシュ](../Page/アナログフィッシュ.md "wikilink")\[56\]\[57\]、西村晋弥\[58\]（元[シュノーケル](../Page/シュノーケル_\(バンド\).md "wikilink")）、[チャットモンチー](../Page/チャットモンチー.md "wikilink")\[59\]\[60\]、[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")\[61\]\[62\]\[63\]、[リヴァース・クオモ](https://ja.wikipedia.org/wiki/リヴァース・クオモ "wikilink")（[スコット&リバース](https://ja.wikipedia.org/wiki/スコット&リバース "wikilink")）\[64\]、[OKAMOTO'S](https://ja.wikipedia.org/wiki/OKAMOTO'S "wikilink")\[65\] 、[マカロニえんぴつ](https://ja.wikipedia.org/wiki/マカロニえんぴつ "wikilink")等、近年活躍している多くのミュージシャンがその影響を公言している。[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の[桜井和寿](../Page/桜井和寿.md "wikilink")は、アマチュア時代（[THE WALLS](https://ja.wikipedia.org/wiki/THE_WALLS "wikilink")）に[CBSソニー](https://ja.wikipedia.org/wiki/CBSソニー "wikilink")のオーディションを受けた時、ゲストで出演したユニコーンを観て「ああ、俺ら今みたいなことやってたら、売れないんだなぁ」と「ユニコーンの"華"を自分なりに研究した」「それまでの暗い音楽から、明るい音楽に方向転換した」等、特にアレンジ面で大きな影響を受けた話している\[66\]\[67\]\[68\]\[69\]。
 
 ### 解散中の交流
 
@@ -1456,17 +1456,17 @@ ABEDONによる全曲リマスタリング。</p></td>
 ### 再始動後
 
   - アルバム「シャンブル」レコーディング中、川西が再始動にあたりバンド名を変えようと提案したところ、即却下された。ちなみに、バンド名候補として「ペガサス」「シリウス」「UNICoooooRN ([GReeeeN](https://ja.wikipedia.org/wiki/GReeeeN "wikilink")のもじり)」などがあったという。\[70\]
-  - [Yahoo\!](https://ja.wikipedia.org/wiki/Yahoo! "wikilink")の [インタビュー](http://rd.yahoo.co.jp/rss/l/music/magazine/*http://magazine.music.yahoo.co.jp/pow/20090217_001/) ではメンバーはユニコーンを存続させる旨の発言をしている。[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[ドスペ2](https://ja.wikipedia.org/wiki/ドスペ2 "wikilink")・復活記念特番 蘇えるユニコーン」（[2月15日](../Page/2月15日.md "wikilink")放送）では「もはや解散なんてことはないと思う。やったりやらなかったりしていいわけだから（奥田）」との発言があり、また、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")」[2009年](../Page/2009年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")放送分では「誰かが『やってくれ』といったらやる（奥田）」とも発言している。これらの発言から、今後は各々のソロ活動と並行してユニコーンとしての活動を行っていくものと思われる。
+  - [Yahoo\!](../Page/Yahoo!.md "wikilink")の [インタビュー](http://rd.yahoo.co.jp/rss/l/music/magazine/*http://magazine.music.yahoo.co.jp/pow/20090217_001/) ではメンバーはユニコーンを存続させる旨の発言をしている。[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[ドスペ2](../Page/ドスペ2.md "wikilink")・復活記念特番 蘇えるユニコーン」（[2月15日](../Page/2月15日.md "wikilink")放送）では「もはや解散なんてことはないと思う。やったりやらなかったりしていいわけだから（奥田）」との発言があり、また、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")」[2009年](../Page/2009年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")放送分では「誰かが『やってくれ』といったらやる（奥田）」とも発言している。これらの発言から、今後は各々のソロ活動と並行してユニコーンとしての活動を行っていくものと思われる。
   - 新たに完成した[MAZDA Zoom-Zoom スタジアム広島に](../Page/MAZDA_Zoom-Zoom_スタジアム広島.md "wikilink")1年間限定で「ユニコーーーーーーン」とかかれた40メートルの巨大看板を設置、それに伴って4月26日の広島対阪神戦にてユニコーンのメンバーが始球式をすることが決定。\[71\] 始球式をEBIが担当したが、EBIの投げたボールが当時、腰痛であった阪神・[赤星憲広](https://ja.wikipedia.org/wiki/赤星憲広 "wikilink")の腰に直撃、EBI・奥田が謝罪するという事態となった。
   - 2019年に、再始動10周年、ABEDONが加入し現体制となって初のアルバム「服部」リリースから30周年、川西幸一の生誕60周年、これらの数字を合計し、2019年を“ユニコーン100周年”と銘打った彼らは「働き方改楽 - なぜ俺たちは楽しいんだろう -」というスローガンを掲げ、楽しいことを100個行うことを宣言した。
 
 ## 関連項目
 
   - [SPARKS GO GO](../Page/SPARKS_GO_GO.md "wikilink") - CSA時代からの盟友。奥田と「[THE BAND HAS NO NAME](../Page/THE_BAND_HAS_NO_NAME.md "wikilink")」、阿部と「[ABEX GO GO](../Page/ABEX_GO_GO.md "wikilink")」のユニットを組む等親交が深い。
-  - [レピッシュ](https://ja.wikipedia.org/wiki/レピッシュ "wikilink") - メンバー同士音楽番組で共演するなど交流がある一方、奥田\[72\]、阿部\[73\] はレピッシュに対してライバル視していた面もあった。後に阿部と[MAGUMI](https://ja.wikipedia.org/wiki/MAGUMI "wikilink")の会話が再始動のきっかけのひとつとなった\[74\]。
+  - [レピッシュ](../Page/レピッシュ.md "wikilink") - メンバー同士音楽番組で共演するなど交流がある一方、奥田\[72\]、阿部\[73\] はレピッシュに対してライバル視していた面もあった。後に阿部と[MAGUMI](https://ja.wikipedia.org/wiki/MAGUMI "wikilink")の会話が再始動のきっかけのひとつとなった\[74\]。
   - [JUN SKY WALKER(S)](../Page/JUN_SKY_WALKER\(S\).md "wikilink") - 音楽誌で度々合同取材や企画があり、再始動後も「ジュンスカ×ユニコーン」の企画を行った。
   - [井上陽水](../Page/井上陽水.md "wikilink") - 陽水の長男がユニコーンの大ファンであり、陽水の長男が聴いていた『[雪が降る町](https://ja.wikipedia.org/wiki/雪が降る町 "wikilink")』を気に入ったことから、奥田と陽水の交流が始まった。
-  - [ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink") - 『夢で逢えたら』など、ダウンタウンの番組にたびたび出演。奥田とは現在も交友があり、1997年には[浜田雅功](../Page/浜田雅功.md "wikilink")に「春はまだか」を提供している。再始動後、[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[ドスペ2](https://ja.wikipedia.org/wiki/ドスペ2 "wikilink")・復活記念特番 蘇えるユニコーン」で祝いのコメントを寄せている。
+  - [ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink") - 『夢で逢えたら』など、ダウンタウンの番組にたびたび出演。奥田とは現在も交友があり、1997年には[浜田雅功](../Page/浜田雅功.md "wikilink")に「春はまだか」を提供している。再始動後、[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[ドスペ2](../Page/ドスペ2.md "wikilink")・復活記念特番 蘇えるユニコーン」で祝いのコメントを寄せている。
 
 ## 脚注
 

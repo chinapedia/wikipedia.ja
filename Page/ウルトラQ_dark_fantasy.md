@@ -11,7 +11,7 @@
 
 1話と16話を除き各話の繋がりがほとんど無く、原則として1話ごとに独立した[オムニバス](../Page/オムニバス.md "wikilink")形式になっている。また、『Q』が怪獣モノとなる以前に当初企画していた怪奇SFとしての面をクローズアップしており\[2\]、全編を通してもいわゆる巨大怪獣はあまり登場せず（第1話と第16話のガラゴン、第8話のサビコング、最終話のレキューム人くらい）、等身大の怪人や怪物、あるいは幽霊や妖怪のようなものといったオカルトチックな存在が引き起こす超常現象を描いた話が主で、事件がほとんど解決せず謎のまま終わるラストが多い。
 
-本作以降のウルトラシリーズにレギュラー出演することとなる[宍戸開](https://ja.wikipedia.org/wiki/宍戸開 "wikilink")、[内山眞人](../Page/内山眞人.md "wikilink")、[桐島優介](https://ja.wikipedia.org/wiki/桐島優介 "wikilink")、[堀内正美](../Page/堀内正美.md "wikilink")らがそれぞれゲスト出演している。
+本作以降のウルトラシリーズにレギュラー出演することとなる[宍戸開](../Page/宍戸開.md "wikilink")、[内山眞人](../Page/内山眞人.md "wikilink")、[桐島優介](https://ja.wikipedia.org/wiki/桐島優介 "wikilink")、[堀内正美](../Page/堀内正美.md "wikilink")らがそれぞれゲスト出演している。
 
 監督には『[ウルトラQ ザ・ムービー 星の伝説](../Page/ウルトラQ_ザ・ムービー_星の伝説.md "wikilink")』の[実相寺昭雄](../Page/実相寺昭雄.md "wikilink")や『ザ・ムービー』の初期段階で参加予定であった[金子修介](../Page/金子修介.md "wikilink")などが参加している\[3\]。シリーズ構成は『Q』を手掛けた[上原正三](../Page/上原正三.md "wikilink")が務めた\[4\]。
 
@@ -31,10 +31,10 @@
 
 ### レギュラー・準レギュラー
 
-  - 坂本剛一：[袴田吉彦](https://ja.wikipedia.org/wiki/袴田吉彦 "wikilink")
+  - 坂本剛一：[袴田吉彦](../Page/袴田吉彦.md "wikilink")
   - 楠木涼：[遠藤久美子](https://ja.wikipedia.org/wiki/遠藤久美子 "wikilink")
   - 渡来角之進：[草刈正雄](../Page/草刈正雄.md "wikilink")
-  - ナレーション：[佐野史郎](https://ja.wikipedia.org/wiki/佐野史郎 "wikilink")
+  - ナレーション：[佐野史郎](../Page/佐野史郎.md "wikilink")
 
 ### ゲスト
 
@@ -59,32 +59,32 @@
   - 医師：谷藤太（2）
   - 警備員：永井博章（2）
   - 教授：[窪園純一](https://ja.wikipedia.org/wiki/窪園純一 "wikilink")（2）
-  - 山崎純：[近藤芳正](https://ja.wikipedia.org/wiki/近藤芳正 "wikilink")（3）
-  - 永井陽一郎：[宍戸開](https://ja.wikipedia.org/wiki/宍戸開 "wikilink")（3）
+  - 山崎純：[近藤芳正](../Page/近藤芳正.md "wikilink")（3）
+  - 永井陽一郎：[宍戸開](../Page/宍戸開.md "wikilink")（3）
   - 望月孝志：[菅原大吉](../Page/菅原大吉.md "wikilink")（3）
   - 山崎芳枝：[水木薫](../Page/水木薫.md "wikilink")（3）
-  - 白石明美：[白石マル美](https://ja.wikipedia.org/wiki/白石まるみ "wikilink")（3）
+  - 白石明美：[白石マル美](../Page/白石まるみ.md "wikilink")（3）
   - 山崎純（幼少期）：[小池城太朗](../Page/小池城太朗.md "wikilink")（3）
   - レストランのお客：[ノーマン・イングランド](../Page/ノーマン・イングランド.md "wikilink")（3）
   - 望月春彦：[金子貴俊](../Page/金子貴俊.md "wikilink")（4）
   - パズルの女：三浦由佳（4）
   - タクシー運転手：佐藤太三夫（4）
   - 売店老婆：阿部光子（4）
-  - 桑原真奈美：[渡辺典子](https://ja.wikipedia.org/wiki/渡辺典子 "wikilink")（5）
+  - 桑原真奈美：[渡辺典子](../Page/渡辺典子.md "wikilink")（5）
   - 米田：[梨本謙次郎](../Page/梨本謙次郎.md "wikilink")（5）
   - 偽装刑事D1・村木：[野口雅弘](https://ja.wikipedia.org/wiki/野口雅弘_\(俳優\) "wikilink")（5）
   - 偽造刑事D2・副島：千葉誠樹（5）
   - コメンテーター：[鹿出俊之輔](https://ja.wikipedia.org/wiki/鹿出俊之輔 "wikilink")（5）
-  - 楽園の配達人：[石橋けい](https://ja.wikipedia.org/wiki/石橋けい "wikilink")（6）
+  - 楽園の配達人：[石橋けい](../Page/石橋けい.md "wikilink")（6）
   - 工場主任：那波隆史（6）
   - 清掃局員：[江藤大我](https://ja.wikipedia.org/wiki/江藤大我 "wikilink")（6）
-  - 巽部長：[佐野史郎](https://ja.wikipedia.org/wiki/佐野史郎 "wikilink")（6）
+  - 巽部長：[佐野史郎](../Page/佐野史郎.md "wikilink")（6）
   - 巽喜代子：[田京恵](https://ja.wikipedia.org/wiki/田京恵 "wikilink")（6）
   - 浮浪者：[所博昭](https://ja.wikipedia.org/wiki/所博昭 "wikilink")（6）
   - オフィス担当者：田村三郎（6）
   - 坂口理：[野村宏伸](../Page/野村宏伸.md "wikilink")（7）
-  - 綺亞羅：[中村有沙](https://ja.wikipedia.org/wiki/中村有沙 "wikilink")（7）
-  - 田中正春：[デビット伊東](https://ja.wikipedia.org/wiki/デビット伊東 "wikilink")（7）
+  - 綺亞羅：[中村有沙](../Page/中村有沙.md "wikilink")（7）
+  - 田中正春：[デビット伊東](../Page/デビット伊東.md "wikilink")（7）
   - バスター・カークランド：ジョセフ・デビット（7）
   - 久我潔：武本尚司（7）
   - コンビニ・バイト：堀越彰（7）
@@ -112,7 +112,7 @@
   - 勧誘の男：[金子修介](../Page/金子修介.md "wikilink")、高橋創（9）
   - ヒタキ：[上條誠](../Page/上條誠.md "wikilink")（10）
   - 医師：[阿部渡](../Page/阿部渡.md "wikilink")（10）
-  - 玉木刑事：[影丸茂樹](https://ja.wikipedia.org/wiki/影丸茂樹 "wikilink")（10,11,13,18）
+  - 玉木刑事：[影丸茂樹](../Page/影丸茂樹.md "wikilink")（10,11,13,18）
   - 大盛検視官：[飯島大介](../Page/飯島大介.md "wikilink")（10）
   - 橘麻衣：[石川佳奈](../Page/石川佳奈.md "wikilink")（11）
   - 橘雪江：[矢代朝子](https://ja.wikipedia.org/wiki/矢代朝子 "wikilink")（11）
@@ -139,7 +139,7 @@
   - 赤いレインコートの女の子：小池絵麗奈（12）
   - 子供になった剛一：鍋倉萌杜（12）
   - 亜乃留：[斉藤麻衣](../Page/斉藤麻衣.md "wikilink")（13）
-  - 亜乃留の母：[藤井佳代子](https://ja.wikipedia.org/wiki/藤井佳代子 "wikilink")（13）
+  - 亜乃留の母：[藤井佳代子](../Page/藤井佳代子.md "wikilink")（13）
   - レポーター：[湯田美由紀](https://ja.wikipedia.org/wiki/湯田美由紀 "wikilink")（13）
   - 理容師：[石母田史朗](../Page/石母田史朗.md "wikilink")（13）
   - バレー教師：岡田朋美（13）
@@ -157,7 +157,7 @@
   - 雑貨店店主：[兎本有紀](https://ja.wikipedia.org/wiki/兎本有紀 "wikilink")（14）
   - 御厨真人：福田荘吉（14）
   - 岡田哲夫：[寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink")（15）
-  - 茶髪：[山崎裕太](https://ja.wikipedia.org/wiki/山崎裕太 "wikilink")（15）
+  - 茶髪：[山崎裕太](../Page/山崎裕太.md "wikilink")（15）
   - 岡田奈津子：[寺田千穂](../Page/寺田千穂.md "wikilink")（15）
   - 岡田真美：小泉奈々（15）
   - 医者：[野崎海太郎](https://ja.wikipedia.org/wiki/野崎海太郎 "wikilink")（15）
@@ -167,7 +167,7 @@
   - ルリ子 / セミ女：[松本智代美](https://ja.wikipedia.org/wiki/松本智代美 "wikilink")（16）
   - 佐藤：[うえだ峻](../Page/うえだ峻.md "wikilink")（16）
   - 富子：[東出典子](../Page/東出典子.md "wikilink")（16）
-  - 係官：[阪本良介](https://ja.wikipedia.org/wiki/坂元亮介 "wikilink")（万城目）、堀岡真（16）
+  - 係官：[阪本良介](../Page/坂元亮介.md "wikilink")（万城目）、堀岡真（16）
   - 警官：亀井俊彦（16）
   - 若林：[堺雅人](../Page/堺雅人.md "wikilink")（17）
   - 小町：[長澤奈央](https://ja.wikipedia.org/wiki/長澤奈央 "wikilink")（17）
@@ -190,8 +190,8 @@
   - OL風の女性：椿朝美（18）
   - 女子高生：和田百代、山野綾香（18）
   - 線路沿いの男：水戸ひねき（18）
-  - 矢島忠 / 矢島茂雄：[高橋一生](https://ja.wikipedia.org/wiki/高橋一生 "wikilink")（19）
-  - 少女：[柊瑠美](https://ja.wikipedia.org/wiki/柊瑠美 "wikilink")（19）
+  - 矢島忠 / 矢島茂雄：[高橋一生](../Page/高橋一生.md "wikilink")（19）
+  - 少女：[柊瑠美](../Page/柊瑠美.md "wikilink")（19）
   - 矢島静枝：[原知佐子](../Page/原知佐子.md "wikilink")（19）
   - 矢島尚人：[タケ・ウケタ](https://ja.wikipedia.org/wiki/タケ・ウケタ "wikilink")（19）
   - 山瀬由美子：[高橋かおり](../Page/高橋かおり.md "wikilink")（20）
@@ -209,10 +209,10 @@
   - 痩せた男 / 第五惑星人：柿澤隆史（21）
   - 屈強な男 / 第六惑星人：沢田統要（21）
   - 機敏な女 / 第七惑星人：岩崎光里（21）
-  - 金谷ハナエ / カネゴンヌの声：[宮内彩花](https://ja.wikipedia.org/wiki/宮内彩花 "wikilink")（22）
-  - 金谷雄太：[我修院達也](https://ja.wikipedia.org/wiki/我修院達也 "wikilink")（22）
+  - 金谷ハナエ / カネゴンヌの声：[宮内彩花](../Page/宮内彩花.md "wikilink")（22）
+  - 金谷雄太：[我修院達也](../Page/我修院達也.md "wikilink")（22）
   - 金谷陽子：[斉藤とも子](../Page/斉藤とも子.md "wikilink")（22）
-  - 金谷ジュン：[嘉陽愛子](https://ja.wikipedia.org/wiki/嘉陽愛子 "wikilink")（22）
+  - 金谷ジュン：[嘉陽愛子](../Page/嘉陽愛子.md "wikilink")（22）
   - 京子：[瓜田あすみ](https://ja.wikipedia.org/wiki/瓜田あすみ "wikilink")（22）
   - 晶：田村真依奈（22）
   - ヒロミ：枚田菜々子（22）
@@ -231,31 +231,31 @@
   - 吉安光雄（少年時代）：[鎌田雄太郎](../Page/鎌田雄太郎.md "wikilink")（23）
   - 喫茶店アリスの猫：[シュレディンガー](https://ja.wikipedia.org/wiki/シュレディンガーの猫 "wikilink")（23）
   - 門野美彦：[堀内正美](../Page/堀内正美.md "wikilink")（24）
-  - 真柄：[寺田農](https://ja.wikipedia.org/wiki/寺田農 "wikilink")（24）
+  - 真柄：[寺田農](../Page/寺田農.md "wikilink")（24）
   - 京子：[大家由祐子](https://ja.wikipedia.org/wiki/大家由祐子 "wikilink")（24）
   - 雛：ミニヨン（24）
   - 仙童平馬：[橋爪淳](../Page/橋爪淳.md "wikilink")（25）
-  - 酒井勝人：[嶋田久作](https://ja.wikipedia.org/wiki/嶋田久作 "wikilink")（25）
-  - [長南年恵](https://ja.wikipedia.org/wiki/長南年恵 "wikilink")：[渡辺梓](https://ja.wikipedia.org/wiki/渡辺梓 "wikilink")（25）
+  - 酒井勝人：[嶋田久作](../Page/嶋田久作.md "wikilink")（25）
+  - [長南年恵](https://ja.wikipedia.org/wiki/長南年恵 "wikilink")：[渡辺梓](../Page/渡辺梓.md "wikilink")（25）
   - 矢野祐子：小川はるみ（25）
-  - 後藤美姫：[林真里花](https://ja.wikipedia.org/wiki/林真里花 "wikilink")（25）
+  - 後藤美姫：[林真里花](../Page/林真里花.md "wikilink")（25）
   - 日下部四郎：佐野史郎（25）
-  - 笹山：[相島一之](https://ja.wikipedia.org/wiki/相島一之 "wikilink")（26）
+  - 笹山：[相島一之](../Page/相島一之.md "wikilink")（26）
   - 野沢：[中山夢歩](https://ja.wikipedia.org/wiki/中山夢歩 "wikilink")（26）
   - 作中に登場するマンガの作者：[大森倖三](https://ja.wikipedia.org/wiki/大森倖三 "wikilink")（26）
 
 ### 声の出演
 
-  - ガラQ：[中川亜紀子](https://ja.wikipedia.org/wiki/中川亜紀子 "wikilink")（1、16）
+  - ガラQ：[中川亜紀子](../Page/中川亜紀子.md "wikilink")（1、16）
   - [森尾トモアキ](../Page/ボンバー森尾.md "wikilink")（2）
   - [小金澤篤子](https://ja.wikipedia.org/wiki/小金澤篤子 "wikilink")（2）
   - 電話：[中西俊彦](https://ja.wikipedia.org/wiki/中西俊彦 "wikilink")（2）
-  - ウニトローダ：[高戸靖広](https://ja.wikipedia.org/wiki/高戸靖広 "wikilink")（8）
+  - ウニトローダ：[高戸靖広](../Page/高戸靖広.md "wikilink")（8）
   - ジェンシー：[茂呂田かおる](../Page/茂呂田かおる.md "wikilink")（9）
-  - 金髪少年：[皆川純子](https://ja.wikipedia.org/wiki/皆川純子 "wikilink")（18）
+  - 金髪少年：[皆川純子](../Page/皆川純子.md "wikilink")（18）
   - TVキャスター：[佐々木瑶子](../Page/佐々木瑶子.md "wikilink")（22）
-  - アナウンサー：[村山明](https://ja.wikipedia.org/wiki/村山明_\(声優\) "wikilink")（22）
-  - 天気予報士：[関根正明](https://ja.wikipedia.org/wiki/関根正明 "wikilink")（22）
+  - アナウンサー：[村山明](../Page/村山明_\(声優\).md "wikilink")（22）
+  - 天気予報士：[関根正明](../Page/関根正明.md "wikilink")（22）
   - 雛：[原知佐子](../Page/原知佐子.md "wikilink")（24）
 
 ### スーツアクター
@@ -280,8 +280,8 @@
   - 制作統括：円谷粲
   - 企画：[圓谷昌弘](https://ja.wikipedia.org/wiki/円谷昌弘 "wikilink")
   - シリーズ構成：[上原正三](../Page/上原正三.md "wikilink")
-  - 監督：[八木毅](../Page/八木毅.md "wikilink")、服部光則、[金子修介](../Page/金子修介.md "wikilink")、[北浦嗣巳](https://ja.wikipedia.org/wiki/北浦嗣巳 "wikilink")、[原田昌樹](https://ja.wikipedia.org/wiki/原田昌樹 "wikilink")、[鶴田法男](../Page/鶴田法男.md "wikilink")、[高橋巖](https://ja.wikipedia.org/wiki/高橋巖_\(映画監督\) "wikilink")、[清水厚](../Page/清水厚.md "wikilink")、[実相寺昭雄](../Page/実相寺昭雄.md "wikilink")
-  - 脚本：上原正三、武井彩、[林民夫](https://ja.wikipedia.org/wiki/林民夫 "wikilink")、[広田光毅](https://ja.wikipedia.org/wiki/広田光毅 "wikilink")、[高橋洋](../Page/高橋洋_\(映画監督\).md "wikilink")、[村井さだゆき](https://ja.wikipedia.org/wiki/村井さだゆき "wikilink")、[小中千昭](../Page/小中千昭.md "wikilink")、篠原高志、[太田愛](../Page/太田愛.md "wikilink")、清水信宜、[右田昌万](https://ja.wikipedia.org/wiki/右田昌万 "wikilink")、[高木登](../Page/高木登.md "wikilink") 、[小林雄次](../Page/小林雄次.md "wikilink")、岡野ゆうき、[藤川桂介](https://ja.wikipedia.org/wiki/藤川桂介 "wikilink")、[山田正弘](../Page/山田正弘.md "wikilink")
+  - 監督：[八木毅](../Page/八木毅.md "wikilink")、服部光則、[金子修介](../Page/金子修介.md "wikilink")、[北浦嗣巳](https://ja.wikipedia.org/wiki/北浦嗣巳 "wikilink")、[原田昌樹](../Page/原田昌樹.md "wikilink")、[鶴田法男](../Page/鶴田法男.md "wikilink")、[高橋巖](https://ja.wikipedia.org/wiki/高橋巖_\(映画監督\) "wikilink")、[清水厚](../Page/清水厚.md "wikilink")、[実相寺昭雄](../Page/実相寺昭雄.md "wikilink")
+  - 脚本：上原正三、武井彩、[林民夫](https://ja.wikipedia.org/wiki/林民夫 "wikilink")、[広田光毅](https://ja.wikipedia.org/wiki/広田光毅 "wikilink")、[高橋洋](../Page/高橋洋_\(映画監督\).md "wikilink")、[村井さだゆき](https://ja.wikipedia.org/wiki/村井さだゆき "wikilink")、[小中千昭](../Page/小中千昭.md "wikilink")、篠原高志、[太田愛](../Page/太田愛.md "wikilink")、清水信宜、[右田昌万](https://ja.wikipedia.org/wiki/右田昌万 "wikilink")、[高木登](../Page/高木登.md "wikilink") 、[小林雄次](../Page/小林雄次.md "wikilink")、岡野ゆうき、[藤川桂介](../Page/藤川桂介.md "wikilink")、[山田正弘](../Page/山田正弘.md "wikilink")
   - 撮影：岡雅一
   - 照明：額田賢一
   - 美術：内田哲也
@@ -304,11 +304,11 @@
   -
 
       -
-        作詞：[金築卓也](../Page/金築卓也.md "wikilink")、[前田知巳](../Page/前田知巳.md "wikilink") / 作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲：菊池一仁、[中野雄太](../Page/中野雄太.md "wikilink") / 歌：[ブレス](https://ja.wikipedia.org/wiki/BREATH_\(バンド\) "wikilink")
+        作詞：[金築卓也](../Page/金築卓也.md "wikilink")、[前田知巳](../Page/前田知巳.md "wikilink") / 作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲：菊池一仁、[中野雄太](../Page/中野雄太.md "wikilink") / 歌：[ブレス](../Page/BREATH_\(バンド\).md "wikilink")
 
 ## 放映リスト
 
-※登場怪獣については[ウルトラQ dark fantasyの登場怪獣を参照](https://ja.wikipedia.org/wiki/ウルトラQ_dark_fantasyの登場怪獣 "wikilink")。
+※登場怪獣については[ウルトラQ dark fantasyの登場怪獣を参照](../Page/ウルトラQ_dark_fantasyの登場怪獣.md "wikilink")。
 
 <table>
 <thead>
@@ -614,7 +614,7 @@ TGS-55楽園の配達人</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
 <td><p><a href="../Page/テレビ北海道.md" title="wikilink">テレビ北海道</a></p></td>
-<td><p>2004年<a href="../Page/8月19日.md" title="wikilink">8月19日</a> - <a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/2月10日.md" title="wikilink">2月10日</a></p></td>
+<td><p>2004年<a href="../Page/8月19日.md" title="wikilink">8月19日</a> - <a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/2月10日.md" title="wikilink">2月10日</a></p></td>
 <td><p>木曜 25:00 - 25:30</p></td>
 <td></td>
 </tr>
@@ -691,7 +691,7 @@ TGS-55楽園の配達人</p></td>
   - 漫画版（作：[大森倖三](https://ja.wikipedia.org/wiki/大森倖三 "wikilink")）
       - [特撮エース](../Page/特撮エース.md "wikilink")No.003より連載。坂本が登場せず、代わりに独自の設定として渡来の孫が登場。また、渡来の容姿が『[ウルトラQ](../Page/ウルトラQ.md "wikilink")』の一の谷博士を思わせる様な容姿に描かれている。
       - 「踊るガラゴン」「ウニトローダの恩返し」「楽園行き」「ヒトガタ」「虚無の扉」「カネゴンヌの光る径」「トーテムの眼」「送り火」を漫画化したが、単行本の刊行が1巻でストップした為に「虚無の扉」以降の作品は単行本未収録である。
-  - 小説版（作：梅津裕一／[岩佐まもる](https://ja.wikipedia.org/wiki/岩佐まもる "wikilink")／[長谷敏司](https://ja.wikipedia.org/wiki/長谷敏司 "wikilink")／相坂きいろ）
+  - 小説版（作：梅津裕一／[岩佐まもる](https://ja.wikipedia.org/wiki/岩佐まもる "wikilink")／[長谷敏司](../Page/長谷敏司.md "wikilink")／相坂きいろ）
       - [角川ホラー文庫](../Page/角川ホラー文庫.md "wikilink")刊。「らくがき」「ウニトローダの恩返し」「楽園行き」「送り火」の四編を別々の作家により小説化。
 
 ## 映像ソフト化
@@ -701,7 +701,7 @@ TGS-55楽園の配達人</p></td>
 ## 関連項目
 
   - [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")
-  - [ウルトラQ dark fantasyの登場怪獣](https://ja.wikipedia.org/wiki/ウルトラQ_dark_fantasyの登場怪獣 "wikilink")
+  - [ウルトラQ dark fantasyの登場怪獣](../Page/ウルトラQ_dark_fantasyの登場怪獣.md "wikilink")
   - [人でなしの恋](../Page/人でなしの恋.md "wikilink")
 
 ## 脚注

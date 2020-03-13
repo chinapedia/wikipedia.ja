@@ -5,8 +5,8 @@
 
 ## 発売ゲーム一覧
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月25日](../Page/2月25日.md "wikilink") - [咎狗の血](../Page/咎狗の血.md "wikilink")
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月27日](../Page/10月27日.md "wikilink") - [Lamento -BEYOND THE VOID-](https://ja.wikipedia.org/wiki/Lamento_-BEYOND_THE_VOID- "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink") - [咎狗の血](../Page/咎狗の血.md "wikilink")
+  - [2006年](../Page/2006年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink") - [Lamento -BEYOND THE VOID-](../Page/Lamento_-BEYOND_THE_VOID-.md "wikilink")
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月25日](../Page/1月25日.md "wikilink") - キラル盛
   - 2008年[5月29日](../Page/5月29日.md "wikilink") - [咎狗の血 True Blood](../Page/咎狗の血.md "wikilink")
   - 2008年[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink") - [sweet pool](https://ja.wikipedia.org/wiki/sweet_pool "wikilink")
@@ -20,7 +20,7 @@
 ## スタッフ
 
   - プロデューサー：[でじたろう](../Page/でじたろう.md "wikilink")
-  - 総指揮＆ディレクション：[虚淵玄](https://ja.wikipedia.org/wiki/虚淵玄 "wikilink")（うろぶちげん）
+  - 総指揮＆ディレクション：[虚淵玄](../Page/虚淵玄.md "wikilink")（うろぶちげん）
   - シナリオライター：[淵井鏑](https://ja.wikipedia.org/wiki/淵井鏑 "wikilink")（ふちいかぶら）
   - グラフィック：[なまにくATK](https://ja.wikipedia.org/wiki/なまにくATK "wikilink")（なまにくあったかい）
   - スクリプタ：[千代子黎人](https://ja.wikipedia.org/wiki/千代子黎人 "wikilink")（ちよこれいと）

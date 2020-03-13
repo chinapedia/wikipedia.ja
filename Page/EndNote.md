@@ -1,7 +1,7 @@
 > この記事は[EndNote](https://ja.wikipedia.org/wiki/EndNote)から翻訳されています。
 
 
-**EndNote** （エンドノート）は文献管理・[引用管理ソフトウェア](https://ja.wikipedia.org/wiki/引用管理ソフトウェア "wikilink")のひとつ。
+**EndNote** （エンドノート）は文献管理・[引用管理ソフトウェア](../Page/引用管理ソフトウェア.md "wikilink")のひとつ。
 
 1985年にRichard Niles 博士が、参考文献リストを投稿規定の指定する形式変換に苦労している夫人からヒントを得て、EndNoteを考案した。\[1\]
 
@@ -9,9 +9,9 @@
 
 ## 概要
 
-**EndNote** は文献管理・[引用管理ソフトウェア](https://ja.wikipedia.org/wiki/引用管理ソフトウェア "wikilink")であり、主に文献の収集、管理、閲覧、共有、引用を行うソフトウェアである。
+**EndNote** は文献管理・[引用管理ソフトウェア](../Page/引用管理ソフトウェア.md "wikilink")であり、主に文献の収集、管理、閲覧、共有、引用を行うソフトウェアである。
 
-引用では[Microsoft Wordや](../Page/Microsoft_Word.md "wikilink")[Microsoft PowerPointなどと連携し](https://ja.wikipedia.org/wiki/Microsoft_PowerPoint "wikilink")、書誌情報の引用、参考文献リスト作成をおこなう。
+引用では[Microsoft Wordや](../Page/Microsoft_Word.md "wikilink")[Microsoft PowerPointなどと連携し](../Page/Microsoft_PowerPoint.md "wikilink")、書誌情報の引用、参考文献リスト作成をおこなう。
 
 ソフトウェアの開発は  (旧[Thomson Reuters](https://ja.wikipedia.org/wiki/トムソン・ロイター "wikilink")）が行っている。
 
@@ -81,7 +81,7 @@ EndNote グループ引用データは、[ファイル属性](https://ja.wikiped
 
 また、プログラムは冗長な情報は検出しない。例えば、もし新聞記事で 2005年と2005年4月7日がすぐ後にあった場合、 EndNote の日付フィールドは、2005年2005年4月7日と出力される可能性がある。
 
-EndNoteは、[プレーンテキスト](../Page/プレーンテキスト.md "wikilink"), [Rich Text Format](https://ja.wikipedia.org/wiki/Rich_Text_Format "wikilink"), [HTML](../Page/HyperText_Markup_Language.md "wikilink") or [XMLとして引用を出力することができる](../Page/Extensible_Markup_Language.md "wikilink")。バージョン1.1から[OpenDocument](../Page/OpenDocument.md "wikilink")に対応。
+EndNoteは、[プレーンテキスト](../Page/プレーンテキスト.md "wikilink"), [Rich Text Format](../Page/Rich_Text_Format.md "wikilink"), [HTML](../Page/HyperText_Markup_Language.md "wikilink") or [XMLとして引用を出力することができる](../Page/Extensible_Markup_Language.md "wikilink")。バージョン1.1から[OpenDocument](../Page/OpenDocument.md "wikilink")に対応。
 
 MendeleyやZoteroと同様に、DropboxやiCloudなどのクラウドストレージ上に保存したファイルを開くとデータベースファイルが破損する可能性がある。開発元はクラウドストレージの使用を推奨しておらず、保存にはローカルコンピューターとEndNote Onlineを使うことを推奨している [1](https://www.usaco.co.jp/faq/detail.html?pdid1=14&scenarios=27-29-31-33-46)。
 

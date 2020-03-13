@@ -1,11 +1,11 @@
 > この記事は[ORCA](https://ja.wikipedia.org/wiki/ORCA)から翻訳されています。
 
 
-**ORCA**（オルカ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のツインボーカル[ユニットである](../Page/音楽ユニット.md "wikilink")。そのスタイルから「輪唱ロック」を称される。2002年活動開始。2003年[日本クラウン](https://ja.wikipedia.org/wiki/日本クラウン "wikilink")よりメジャーデビュー。
+**ORCA**（オルカ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のツインボーカル[ユニットである](../Page/音楽ユニット.md "wikilink")。そのスタイルから「輪唱ロック」を称される。2002年活動開始。2003年[日本クラウン](../Page/日本クラウン.md "wikilink")よりメジャーデビュー。
 
 ## メンバー
 
-  - [前田一人](https://ja.wikipedia.org/wiki/CUTT "wikilink")（まえだかずひと、[1977年](../Page/1977年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") - ）[SHAME](https://ja.wikipedia.org/wiki/SHAME "wikilink")
+  - [前田一人](https://ja.wikipedia.org/wiki/CUTT "wikilink")（まえだかずひと、[1977年](../Page/1977年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink") - ）[SHAME](../Page/SHAME.md "wikilink")
   - [百田留衣](https://ja.wikipedia.org/wiki/百田留衣 "wikilink")（ももたるい、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[7月25日](../Page/7月25日.md "wikilink") - ）元[GIRAFEE](https://ja.wikipedia.org/wiki/GIRAFEE "wikilink")
 
 ## ディスコグラフィー

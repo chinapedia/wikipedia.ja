@@ -253,7 +253,7 @@
 
   - [ジェフ・カニンガム](https://ja.wikipedia.org/wiki/ジェフ・カニンガム "wikilink") 2008-2010
 
-  - [マウロ・ロサレス](https://ja.wikipedia.org/wiki/マウロ・ロサレス "wikilink") 2016
+  - [マウロ・ロサレス](../Page/マウロ・ロサレス.md "wikilink") 2016
 
 ## 外部リンク
 

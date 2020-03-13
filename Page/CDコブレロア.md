@@ -3,7 +3,7 @@
 
 [Hinchada_de_cobreloa.jpg](https://ja.wikipedia.org/wiki/File:Hinchada_de_cobreloa.jpg "fig:Hinchada_de_cobreloa.jpg")
 
-**クルブ（クラブ）・デ・デポルテス・コブレロア**（）は、[チリ](../Page/チリ.md "wikilink")北部、[アタカマ砂漠](https://ja.wikipedia.org/wiki/アタカマ砂漠 "wikilink")の都市[カラマ](https://ja.wikipedia.org/wiki/カラマ "wikilink")に本拠地を置くサッカークラブである。
+**クルブ（クラブ）・デ・デポルテス・コブレロア**（）は、[チリ](../Page/チリ.md "wikilink")北部、[アタカマ砂漠](../Page/アタカマ砂漠.md "wikilink")の都市[カラマ](https://ja.wikipedia.org/wiki/カラマ "wikilink")に本拠地を置くサッカークラブである。
 
 1977年1月7日創立の新興クラブ。クラブ名はスペイン語で[銅](../Page/銅.md "wikilink")を意味するコブレ (*Cobre*) と、[エルロア県](https://ja.wikipedia.org/wiki/エルロア県 "wikilink")（*[Provincia de El Loa](https://ja.wikipedia.org/wiki/:es:Provincia_de_El_Loa "wikilink")*）から成る造語。ちなみに、Loaは、カラマ市内を流れる河川の名称である。
 

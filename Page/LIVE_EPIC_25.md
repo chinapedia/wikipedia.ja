@@ -1,19 +1,19 @@
 > この記事は[LIVE EPIC 25](https://ja.wikipedia.org/wiki/LIVE_EPIC_25)から翻訳されています。
 
 
-**LIVE EPIC25**（ライブエピックにじゅうご）は、[エピックレコードジャパン](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")創立25周年記念イベントとして歴代アーティストたち（下記参照）により開催されたライブイベント。[2003年](../Page/2003年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に[大阪城ホール](../Page/大阪城ホール.md "wikilink")、[2003年](../Page/2003年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")と23日に[国立代々木競技場](https://ja.wikipedia.org/wiki/国立代々木競技場 "wikilink")第一体育館でそれぞれ開催された（計3公演）。協賛は[サントリー](../Page/サントリー.md "wikilink")。
+**LIVE EPIC25**（ライブエピックにじゅうご）は、[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")創立25周年記念イベントとして歴代アーティストたち（下記参照）により開催されたライブイベント。[2003年](../Page/2003年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")に[大阪城ホール](../Page/大阪城ホール.md "wikilink")、[2003年](../Page/2003年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")と23日に[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館でそれぞれ開催された（計3公演）。協賛は[サントリー](../Page/サントリー.md "wikilink")。
 
 ## 概要
 
-参加ミュージシャンはエピックに於いて主に80年代にデビューし、かつ同時期にブレイクしていた組で構成されており、特に「ロックのEPIC」と呼ばれたイメージを色濃く反映したアーティストたちによるキャスティングとなった。「LIVE EPIC 25」キャンペーンの一環としてオムニバス盤「EPIC25 1980-1985」「EPIC25 1986-1990」「EPIC25 SPECIAL EDITION」、そして「The LEGEND」と題して各ミュージシャンのベスト盤をリリース。また[EPICソニー制作の音楽番組](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")「[eZ](https://ja.wikipedia.org/wiki/EZ_\(音楽番組\) "wikilink")」が[Viewsic](https://ja.wikipedia.org/wiki/Viewsic "wikilink")（現[MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")）で再放送された。
+参加ミュージシャンはエピックに於いて主に80年代にデビューし、かつ同時期にブレイクしていた組で構成されており、特に「ロックのEPIC」と呼ばれたイメージを色濃く反映したアーティストたちによるキャスティングとなった。「LIVE EPIC 25」キャンペーンの一環としてオムニバス盤「EPIC25 1980-1985」「EPIC25 1986-1990」「EPIC25 SPECIAL EDITION」、そして「The LEGEND」と題して各ミュージシャンのベスト盤をリリース。また[EPICソニー制作の音楽番組](../Page/エピックレコードジャパン.md "wikilink")「[eZ](../Page/EZ_\(音楽番組\).md "wikilink")」が[Viewsic](https://ja.wikipedia.org/wiki/Viewsic "wikilink")（現[MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink")）で再放送された。
 
 同イベントはエピックレコードジャパン25周年記念との名目で開催されたが、実際には[丸山茂雄](../Page/丸山茂雄.md "wikilink")の功績を称えるため、賛同したスタッフたちにより企画されたイベントである。ライブ公演中に観客席にいた丸山茂雄を指し「彼がいなければ僕らはここに存在していなかっただろう」と出演者たちが丸山を紹介するという一幕もあった。[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")著『新・電気仕掛けの預言者たち』にもそのことが書かれている。
 
-[1999年](../Page/1999年.md "wikilink")から活動休止していた[大沢誉志幸](https://ja.wikipedia.org/wiki/大沢誉志幸 "wikilink")が久しぶりに大衆の前で歌を披露し、[BARBEE BOYSも同イベント限定で再結成するなど話題を呼んだ](https://ja.wikipedia.org/wiki/BARBEE_BOYS "wikilink")。当初は[岡村靖幸](../Page/岡村靖幸.md "wikilink")の参加も決定していたが、チケット発売後に「レコーディングの都合」との理由で出演をキャンセル。しかし実際には岡村自身が[覚せい剤](https://ja.wikipedia.org/wiki/覚せい剤 "wikilink")を所持・使用していたとして[覚せい剤取締法](../Page/覚せい剤取締法.md "wikilink")違反で逮捕されたため急遽出演が中止され、当時この件については一切公にされなかった。また、同イベントが映像化される際、「映像化の話は聞いていない」とするBARBEE BOYS側と制作スタッフとの間でトラブルがあり、結果的にBARBEE BOYSの出演部分のみ削除して映像化された。同イベントが[NHK-BS2で放送された際もBARBEE](https://ja.wikipedia.org/wiki/NHK衛星第2テレビジョン "wikilink") BOYSの出演部分はカットされた。
+[1999年](../Page/1999年.md "wikilink")から活動休止していた[大沢誉志幸](https://ja.wikipedia.org/wiki/大沢誉志幸 "wikilink")が久しぶりに大衆の前で歌を披露し、[BARBEE BOYSも同イベント限定で再結成するなど話題を呼んだ](../Page/BARBEE_BOYS.md "wikilink")。当初は[岡村靖幸](../Page/岡村靖幸.md "wikilink")の参加も決定していたが、チケット発売後に「レコーディングの都合」との理由で出演をキャンセル。しかし実際には岡村自身が[覚せい剤](https://ja.wikipedia.org/wiki/覚せい剤 "wikilink")を所持・使用していたとして[覚せい剤取締法](../Page/覚せい剤取締法.md "wikilink")違反で逮捕されたため急遽出演が中止され、当時この件については一切公にされなかった。また、同イベントが映像化される際、「映像化の話は聞いていない」とするBARBEE BOYS側と制作スタッフとの間でトラブルがあり、結果的にBARBEE BOYSの出演部分のみ削除して映像化された。同イベントが[NHK-BS2で放送された際もBARBEE](../Page/NHK衛星第2テレビジョン.md "wikilink") BOYSの出演部分はカットされた。
 
 ## 参加ミュージシャン / セットリスト
 
-  - [鈴木雅之](https://ja.wikipedia.org/wiki/鈴木雅之_\(歌手\) "wikilink") with [桑野信義](https://ja.wikipedia.org/wiki/桑野信義 "wikilink")（※桑野の出演は2月22日と23日のみ）
+  - [鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink") with [桑野信義](../Page/桑野信義.md "wikilink")（※桑野の出演は2月22日と23日のみ）
       - 「ランナウェイ」
       - 「め組のひと」
   - 鈴木雅之 with [鈴木聖美](../Page/鈴木聖美.md "wikilink")
@@ -25,13 +25,13 @@
       - 「CONFUSION」
       - 「宵闇にまかせて」
       - 「そして僕は途方に暮れる」
-  - [小比類巻かほる](https://ja.wikipedia.org/wiki/小比類巻かほる "wikilink")
+  - [小比類巻かほる](../Page/小比類巻かほる.md "wikilink")
       - 「[Hold On Me](https://ja.wikipedia.org/wiki/Hold_On_Me "wikilink")」
       - 「[TOGETHER](https://ja.wikipedia.org/wiki/TOGETHER_\(小比類巻かほるの曲\) "wikilink")」
       - 「[I'm Here](https://ja.wikipedia.org/wiki/I'm_Here_\(小比類巻かほるの曲\) "wikilink")」（※アカペラで1コーラスのみ）
   - [松岡英明](../Page/松岡英明.md "wikilink")（※岡村靖幸の代わりにサプライズゲストとして出演）
       - 「以心伝心」
-  - [大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")
+  - [大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")
       - 「YOU」
       - 「REAL」
       - 「十人十色」
@@ -42,7 +42,7 @@
       - 「I FOUGHT THE LAW」（※[THE CLASHのカバー曲](../Page/ザ・クラッシュ.md "wikilink")。2月23日公演のみ演奏）
   - [HARRY](../Page/THE_STREET_SLIDERS.md "wikilink")（※サプライズゲストとして出演）
       - 「風が強い日」
-  - [BARBEE BOYS](https://ja.wikipedia.org/wiki/BARBEE_BOYS "wikilink")
+  - [BARBEE BOYS](../Page/BARBEE_BOYS.md "wikilink")
       - 「Blue Blue Rose」（※2月22日公演のみ演奏）
       - 「チャンス到来」（※2月23日公演のみ演奏）
       - 「泣いたままで listen to me」（※2月16日、2月23日公演のみ演奏）

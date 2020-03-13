@@ -1,17 +1,17 @@
 > この記事は[ HOT! 10 Count down Radio](https://ja.wikipedia.org/wiki/_HOT!_10_Count_down_Radio)から翻訳されています。
 
 
-**ネオロマンス♥ライヴ HOT\! 10 Count down Radio**（ネオロマンス ライヴ ホット\! テンカウントダウンラジオ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月から[2007年](../Page/2007年.md "wikilink")3月まで、毎週水曜に[ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")から配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")。略称は**ホッテンラジオ**。
+**ネオロマンス♥ライヴ HOT\! 10 Count down Radio**（ネオロマンス ライヴ ホット\! テンカウントダウンラジオ）は、[2006年](../Page/2006年.md "wikilink")10月から[2007年](../Page/2007年.md "wikilink")3月まで、毎週水曜に[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")から配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")。略称は**ホッテンラジオ**。
 
 当放送開始時には280曲を超え、絶えず増え続けているネオロマンス楽曲を毎回決められたテーマ毎にリスナーから募集してランキング形式で紹介している。
 
-なお、パーソナリティがGRANRODEOの新枠「GRANRODEOの"ケンゼンな本能"」を追加し、GRANRODEOのメンバーであるメインの谷山紀章を[小野大輔](https://ja.wikipedia.org/wiki/小野大輔 "wikilink")（ネオアンジェリークのヒュウガ役）に入れ替えた続編「[ネオロマンス♥ライヴ HOT\! 10 Count down Radio II Huu\!](../Page/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio_II_Huu!.md "wikilink")」を2007年5月2日（プレ回）より配信している。
+なお、パーソナリティがGRANRODEOの新枠「GRANRODEOの"ケンゼンな本能"」を追加し、GRANRODEOのメンバーであるメインの谷山紀章を[小野大輔](../Page/小野大輔.md "wikilink")（ネオアンジェリークのヒュウガ役）に入れ替えた続編「[ネオロマンス♥ライヴ HOT\! 10 Count down Radio II Huu\!](../Page/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio_II_Huu!.md "wikilink")」を2007年5月2日（プレ回）より配信している。
 
 ## パーソナリティ
 
   - [岩田光央](../Page/岩田光央.md "wikilink")（アンジェリークのゼフェル役）
-  - [谷山紀章](https://ja.wikipedia.org/wiki/谷山紀章 "wikilink")（金色のコルダの月森蓮役）
-  - [2HEARTS](../Page/2HEARTS.md "wikilink")（[立木文彦](https://ja.wikipedia.org/wiki/立木文彦 "wikilink")：アンジェリークのヴィクトール役 ＆ [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")：アンジェリークのエルンスト役）
+  - [谷山紀章](../Page/谷山紀章.md "wikilink")（金色のコルダの月森蓮役）
+  - [2HEARTS](../Page/2HEARTS.md "wikilink")（[立木文彦](../Page/立木文彦.md "wikilink")：アンジェリークのヴィクトール役 ＆ [森川智之](../Page/森川智之.md "wikilink")：アンジェリークのエルンスト役）
 
 <!-- end list -->
 
@@ -172,11 +172,11 @@
 
 ## ゲスト
 
-  - 第08回配信-[宮田幸季](https://ja.wikipedia.org/wiki/宮田幸季 "wikilink")（遙かなる時空の中での流山詩紋 / 彰紋 / 武蔵坊弁慶役）
-  - 第10回配信-[堀内賢雄](https://ja.wikipedia.org/wiki/堀内賢雄 "wikilink")（アンジェリークのオスカー / 遙かなる時空の中での源頼久の兄役）
+  - 第08回配信-[宮田幸季](../Page/宮田幸季.md "wikilink")（遙かなる時空の中での流山詩紋 / 彰紋 / 武蔵坊弁慶役）
+  - 第10回配信-[堀内賢雄](../Page/堀内賢雄.md "wikilink")（アンジェリークのオスカー / 遙かなる時空の中での源頼久の兄役）
   - 第15回配信-[伊藤健太郎](../Page/伊藤健太郎_\(声優\).md "wikilink")（金色のコルダの土浦梁太郎役）
-  - 第20回配信-[私市淳](https://ja.wikipedia.org/wiki/私市淳 "wikilink")（アンジェリークのティムカ役）
-  - 第22回配信-[高橋直純](https://ja.wikipedia.org/wiki/高橋直純 "wikilink")（遙かなる時空の中でのイノリ / イサト / ヒノエ役）
+  - 第20回配信-[私市淳](../Page/私市淳.md "wikilink")（アンジェリークのティムカ役）
+  - 第22回配信-[高橋直純](../Page/高橋直純.md "wikilink")（遙かなる時空の中でのイノリ / イサト / ヒノエ役）
   - 第24回配信-[岸尾大輔](../Page/岸尾だいすけ.md "wikilink")（金色のコルダの柚木梓馬役）
 
 ## CD
@@ -192,11 +192,11 @@
 
 ## 関連項目
 
-  - [ランティスウェブラジオ](https://ja.wikipedia.org/wiki/ランティスウェブラジオ "wikilink")
-  - [アンジェリーク](https://ja.wikipedia.org/wiki/アンジェリーク "wikilink")
+  - [ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")
+  - [アンジェリーク](../Page/アンジェリーク.md "wikilink")
   - [ネオ アンジェリーク](../Page/ネオ_アンジェリーク.md "wikilink")
   - [遙かなる時空の中で](../Page/遙かなる時空の中で.md "wikilink")
-  - [金色のコルダ](https://ja.wikipedia.org/wiki/金色のコルダ "wikilink")
+  - [金色のコルダ](../Page/金色のコルダ.md "wikilink")
   - [ネオロマンス♥ライヴ HOT\! 10 Count down Radio II Huu\!](../Page/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio_II_Huu!.md "wikilink")
 
 ## 外部リンク

@@ -169,7 +169,7 @@ G2</p></td>
 （みうら ともかず）</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a><a href="https://ja.wikipedia.org/wiki/甲州市" title="wikilink">甲州市</a></p></td>
+<td><p><a href="../Page/山梨県.md" title="wikilink">山梨県</a><a href="../Page/甲州市.md" title="wikilink">甲州市</a></p></td>
 <td><p>1970年代前期</p></td>
 </tr>
 <tr class="even">
@@ -214,7 +214,7 @@ G2</p></td>
 （かねこ マリ）</p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/世田谷区" title="wikilink">世田谷区</a><a href="../Page/下北沢.md" title="wikilink">下北沢</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/世田谷区.md" title="wikilink">世田谷区</a><a href="../Page/下北沢.md" title="wikilink">下北沢</a></p></td>
 <td><p>1980年〜</p></td>
 </tr>
 </tbody>
@@ -247,14 +247,14 @@ G2</p></td>
 <td><p><strong><a href="../Page/椎名和夫.md" title="wikilink">椎名和夫</a></strong><br />
 （しいな かずお）</p></td>
 <td></td>
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://ja.wikipedia.org/wiki/世田谷区" title="wikilink">世田谷区</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/世田谷区.md" title="wikilink">世田谷区</a></p></td>
 </tr>
 </tbody>
 </table>
 
 #### その他のメンバー
 
-エレキ化以降のレコーディング、コンサートでは、ホーンセクションとして[梅津和時](https://ja.wikipedia.org/wiki/梅津和時 "wikilink")と[片山広明](https://ja.wikipedia.org/wiki/片山広明 "wikilink")ら（時期によって他のメンバーが入ることもあった）が「生活向上委員会」（後に「[ブルーデイ・ホーンズ](https://ja.wikipedia.org/wiki/ブルーデイ・ホーンズ "wikilink")」に改名）のユニット名で参加している。
+エレキ化以降のレコーディング、コンサートでは、ホーンセクションとして[梅津和時](../Page/梅津和時.md "wikilink")と[片山広明](https://ja.wikipedia.org/wiki/片山広明 "wikilink")ら（時期によって他のメンバーが入ることもあった）が「生活向上委員会」（後に「[ブルーデイ・ホーンズ](https://ja.wikipedia.org/wiki/ブルーデイ・ホーンズ "wikilink")」に改名）のユニット名で参加している。
 
 ### 楽曲
 
@@ -280,7 +280,7 @@ G2</p></td>
 
 [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")、テレビ番組「[ヤング720](https://ja.wikipedia.org/wiki/ヤング720 "wikilink")」([TBS系](../Page/TBSテレビ.md "wikilink"))のオーディションに合格。続いて[8月29日](../Page/8月29日.md "wikilink")、[東芝](../Page/東芝.md "wikilink")主催の「[カレッジ・ポップス・コンサート](https://ja.wikipedia.org/wiki/カレッジ・ポップス・コンサート "wikilink")」オーディションで第3位に。この模様を収録した[オムニバス](../Page/オムニバス.md "wikilink")盤が初めての公式音源となる。収録曲は「泥だらけの海」。
 
-[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")、「[宝くじは買わない](https://ja.wikipedia.org/wiki/宝くじは買わない "wikilink")」で東芝音工（現[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）よりシングルデビュー。
+[1970年](../Page/1970年.md "wikilink")、「[宝くじは買わない](https://ja.wikipedia.org/wiki/宝くじは買わない "wikilink")」で東芝音工（現[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）よりシングルデビュー。
 
 [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")、RCが活動拠点の一つとしていた渋谷のライブハウス「[青い森](https://ja.wikipedia.org/wiki/青い森 "wikilink")」で当時フォークグループ[古井戸](../Page/古井戸.md "wikilink")として活動していた仲井戸麗市と出会う。
 
@@ -304,7 +304,7 @@ G2</p></td>
 
 [1981年](../Page/1981年.md "wikilink")、初の日本武道館単独公演。この年を始めとしてその後10年間連続で武道館クリスマスコンサートを行う。この年はその他にも年間100本近いコンサートを行う。\[4\]
 
-[1982年](../Page/1982年.md "wikilink")、忌野が[坂本龍一](../Page/坂本龍一.md "wikilink")（当時[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")）と組んで発表したシングル「[い・け・な・いルージュマジック](../Page/い・け・な・いルージュマジック.md "wikilink")」が[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")82春のキャンペーンソングとしてヒット。[PVでは](../Page/ミュージック・ビデオ.md "wikilink")、どぎつい化粧をして男同士でキスをするなど過激なパフォーマンスを展開、時代を席巻する。RCとしては同年、[サム・ムーア](../Page/サム&デイヴ.md "wikilink")、[チャック・ベリー](https://ja.wikipedia.org/wiki/チャック・ベリー "wikilink")らとのジョイントコンサートを大阪[住之江競艇場](https://ja.wikipedia.org/wiki/住之江競艇場 "wikilink")にて開催（アルバム『THE DAY OF R\&B』収録）。[ロンドン・レコード](https://ja.wikipedia.org/wiki/ロンドン・レコード "wikilink")に移籍。自身の[レーベル](../Page/レコードレーベル.md "wikilink")「BARCA」を設立。
+[1982年](../Page/1982年.md "wikilink")、忌野が[坂本龍一](../Page/坂本龍一.md "wikilink")（当時[イエロー・マジック・オーケストラ](../Page/イエロー・マジック・オーケストラ.md "wikilink")）と組んで発表したシングル「[い・け・な・いルージュマジック](../Page/い・け・な・いルージュマジック.md "wikilink")」が[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")82春のキャンペーンソングとしてヒット。[PVでは](../Page/ミュージック・ビデオ.md "wikilink")、どぎつい化粧をして男同士でキスをするなど過激なパフォーマンスを展開、時代を席巻する。RCとしては同年、[サム・ムーア](../Page/サム&デイヴ.md "wikilink")、[チャック・ベリー](../Page/チャック・ベリー.md "wikilink")らとのジョイントコンサートを大阪[住之江競艇場](https://ja.wikipedia.org/wiki/住之江競艇場 "wikilink")にて開催（アルバム『THE DAY OF R\&B』収録）。[ロンドン・レコード](https://ja.wikipedia.org/wiki/ロンドン・レコード "wikilink")に移籍。自身の[レーベル](../Page/レコードレーベル.md "wikilink")「BARCA」を設立。
 
 [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、事務所「りぼん」から独立。自分たちの事務所「うむ」を設立。西武劇場（現[PARCO劇場](../Page/PARCO劇場.md "wikilink")）で独立記念コンサート「スーパーエイプリルフール」を開催（[泉谷しげる](../Page/泉谷しげる.md "wikilink")、坂本龍一、[矢野顕子](../Page/矢野顕子.md "wikilink")、三浦友和らがゲスト参加）。
 
@@ -328,7 +328,7 @@ G2</p></td>
 ### 『初期のRCサクセション』 〜 『楽しい夕に』 （アコースティック期）
 
   - 1stアルバム『初期のRCサクセション』は、最終的なマスタリング作業にメンバーが立ち会わせて貰えず、完成したレコードの音源に自分たちの意図しない勝手なアレンジがほどこされていたために不満を感じる。そのため2ndからは自分たちの演奏を主体としたレコード作りを始め、後年まで外部プロデューサーの介入を避けるようになる。
-  - 1970年代初期の未発表ライブ音源が『ロック画報2002年第10号』の付録CDに収録されている。曲は、「つまらない仕事」「ぼくとあの娘」「忙しすぎたから」「内気な性格」「もっと何とかならないの？」「ぼくの自転車のうしろに乗りなよ」の6曲。選曲は清志郎自身が行い、[マスタリング](https://ja.wikipedia.org/wiki/マスタリング "wikilink")には清志郎と破廉が立ち会った。\[7\]
+  - 1970年代初期の未発表ライブ音源が『ロック画報2002年第10号』の付録CDに収録されている。曲は、「つまらない仕事」「ぼくとあの娘」「忙しすぎたから」「内気な性格」「もっと何とかならないの？」「ぼくの自転車のうしろに乗りなよ」の6曲。選曲は清志郎自身が行い、[マスタリング](../Page/マスタリング.md "wikilink")には清志郎と破廉が立ち会った。\[7\]
   - 忌野の高校の同級生である俳優の[三浦友和](../Page/三浦友和.md "wikilink")は、『初期のRCサクセション』に収録の「言論の自由」に[ボンゴ](../Page/ボンゴ.md "wikilink")で参加している。三浦はステージにもよく加わることがあり、また一時期破廉と同居するなどかなりRCと親交が深かった。
   - 忌野が作詞・作曲した「指輪をはめたい」を元にして、[井上陽水](../Page/井上陽水.md "wikilink")と「帰れない二人」を共作。もう1曲「待ちぼうけ」を共作し、この2曲が収録された陽水のアルバム『[氷の世界](../Page/氷の世界_\(アルバム\).md "wikilink")』 ([1973年](../Page/1973年.md "wikilink")) が日本音楽史上初のミリオンセラーLPとなる。
   - 1974年、ホリプロダクションの奥田義行プロデューサーが、当時大ブレイク中だった陽水を連れてホリプロを離れ、独立事務所「りぼん」を設立。この造反行為に激怒したホリプロは、奥田の子飼いだったRCの「りぼん」移籍を阻止。RCはスタッフも仕事も与えられず飼い殺し状態となる。
@@ -357,7 +357,7 @@ G2</p></td>
 
   - [1979年](../Page/1979年.md "wikilink")7月21日、2年8ヵ月ぶりのシングル「[ステップ\!](https://ja.wikipedia.org/wiki/ステップ! "wikilink")」を発売し、再デビューする。しかしこのシングルも、まだメンバーの演奏力を信用しきれていなかった制作担当者によりスタジオミュージシャンのテイクが採用されている。8月、NTV「紅白歌のベストテン」に出演。音楽評論家の[吉見佑子](https://ja.wikipedia.org/wiki/吉見佑子 "wikilink")が音頭を取って「シングルマン」再発実行委員会が発足する。深夜ラジオでの放送が増える。この年積極的にステージを求め、各地の大学祭に多数出演している。
   - [1979年](../Page/1979年.md "wikilink")11月16日、[久保講堂](https://ja.wikipedia.org/wiki/久保講堂 "wikilink")で行われた古井戸の解散コンサートで仲井戸麗市の正式加入が発表される。
-  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")1月21日「雨あがりの夜空に」発売。1月『「雨あがりの夜空に」発売記念コンサート』を渋谷[屋根裏](../Page/屋根裏.md "wikilink")で開催、4日間連日満員で屋根裏の観客動員記録を塗り替え話題となる。4月久保講堂で「RHAPSODY」録音。5月シングル「ボスしけてるぜ」、6月アルバム「RHAPSODY」、10月シングル「トランジスタ・ラジオ」、12月アルバム「PLEASE」と、立て続けにレコードを発売した。パンク・ロック的なスピード感とR\&Bに影響を受けた楽曲、[グラムロック](../Page/グラムロック.md "wikilink")や[ミック・ジャガー](../Page/ミック・ジャガー.md "wikilink")を彷彿させるドギツいメイクでのステージが話題になる。忌野が[オーティス・レディング](https://ja.wikipedia.org/wiki/オーティス・レディング "wikilink")の言葉を日本語にしてステージ上で観客へ呼びかけた「愛しあってるかい？」というフレーズは一世を風靡。
+  - [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")1月21日「雨あがりの夜空に」発売。1月『「雨あがりの夜空に」発売記念コンサート』を渋谷[屋根裏](../Page/屋根裏.md "wikilink")で開催、4日間連日満員で屋根裏の観客動員記録を塗り替え話題となる。4月久保講堂で「RHAPSODY」録音。5月シングル「ボスしけてるぜ」、6月アルバム「RHAPSODY」、10月シングル「トランジスタ・ラジオ」、12月アルバム「PLEASE」と、立て続けにレコードを発売した。パンク・ロック的なスピード感とR\&Bに影響を受けた楽曲、[グラムロック](../Page/グラムロック.md "wikilink")や[ミック・ジャガー](../Page/ミック・ジャガー.md "wikilink")を彷彿させるドギツいメイクでのステージが話題になる。忌野が[オーティス・レディング](../Page/オーティス・レディング.md "wikilink")の言葉を日本語にしてステージ上で観客へ呼びかけた「愛しあってるかい？」というフレーズは一世を風靡。
   - 「清志郎ルック」の髪型やメイク、ファッションを身にまとった若者が出現するに至って、音楽誌のみならず『[アサヒグラフ](https://ja.wikipedia.org/wiki/アサヒグラフ "wikilink")』や『[anan](https://ja.wikipedia.org/wiki/anan "wikilink")』、『[宝島](../Page/宝島_\(雑誌\).md "wikilink")』、各新聞などでも取り上げられ、サブカルチャー的存在として社会現象とまでなる。1980年[7月20日](../Page/7月20日.md "wikilink")付の[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")の社説では、「RCのコンサートへ行けば、今日のわが国のあらゆるタイプの若者像を瞬時にして知ることができる」とまで評される。
   - アルバム『RHAPSODY』リリース後、バンド名を変えようという話もあったが、「いちおうこれだけ続いたバンド名なんだから」という理由で却下される。
   - レコードを連発、コンサートも満員の人気バンドでありながら、忌野は杉並区の風呂無しアパートに住んでいた。81年に引っ越した後に入居したのが[三宅伸治](../Page/三宅伸治.md "wikilink")である。
@@ -385,7 +385,7 @@ G2</p></td>
 
 ### 『MARVY』 〜 『コブラの悩み』（激動期・その2）
 
-  - [1988年](../Page/1988年.md "wikilink")、[反戦](https://ja.wikipedia.org/wiki/反戦 "wikilink")・反核をテーマにしたカバーアルバム『[COVERS（カバーズ）](../Page/COVERS_\(RCサクセションのアルバム\).md "wikilink")』とシングル「ラヴ・ミー・テンダー」を制作するも、発売元の [東芝EMIの親会社](../Page/EMIミュージック・ジャパン.md "wikilink")・東芝が原子力関連企業でもあったため、歌詞の内容が問題視され急遽発売中止になる。東芝EMIは全国紙 ([毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")、[読売新聞](../Page/読売新聞.md "wikilink")) で「素晴らしすぎて発売できません」との[広告](../Page/広告.md "wikilink")を打つ（これは忌野が東芝から「企業の倫理とかいうのがあってどうも…素晴らしすぎて出せない」と発売の中止を告げられたことを受け、「素晴らしすぎて出せないっていうんだったら、それを新聞に出してくれ」と言ったことによる。\[12\]）。急遽レコード会社を古巣キティレコードに変えて発売されたこのアルバムは、話題性もありRC初の[オリコンチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得する。この事件に関しては、『[COVERS](../Page/COVERS_\(RCサクセションのアルバム\).md "wikilink")』の頁に詳細を記述。\[13\]
+  - [1988年](../Page/1988年.md "wikilink")、[反戦](https://ja.wikipedia.org/wiki/反戦 "wikilink")・反核をテーマにしたカバーアルバム『[COVERS（カバーズ）](../Page/COVERS_\(RCサクセションのアルバム\).md "wikilink")』とシングル「ラヴ・ミー・テンダー」を制作するも、発売元の [東芝EMIの親会社](../Page/EMIミュージック・ジャパン.md "wikilink")・東芝が原子力関連企業でもあったため、歌詞の内容が問題視され急遽発売中止になる。東芝EMIは全国紙 ([毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")、[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")、[読売新聞](../Page/読売新聞.md "wikilink")) で「素晴らしすぎて発売できません」との[広告](../Page/広告.md "wikilink")を打つ（これは忌野が東芝から「企業の倫理とかいうのがあってどうも…素晴らしすぎて出せない」と発売の中止を告げられたことを受け、「素晴らしすぎて出せないっていうんだったら、それを新聞に出してくれ」と言ったことによる。\[12\]）。急遽レコード会社を古巣キティレコードに変えて発売されたこのアルバムは、話題性もありRC初の[オリコンチャート](../Page/オリコンチャート.md "wikilink")1位を獲得する。この事件に関しては、『[COVERS](../Page/COVERS_\(RCサクセションのアルバム\).md "wikilink")』の頁に詳細を記述。\[13\]
   - アルバム『COVERS』の発売中止から、2ヵ月後の8月15日にライブを行い、この模様を収録したライブアルバム『コブラの悩み』をその年の12月にリリース。演奏曲目はほとんどが怒りをストレートに表現したもので、「発売中止騒動の時のマスコミの対応」や「東芝」を痛烈に批判した（ただし、このアルバム自体は東芝EMIからリリースされている）。
   - ライブアルバム『コブラの悩み』には、スタジオ録音である「君は Love Me Tender を聴いたか？」がアルバムラストに曲の冒頭部分のみ収録されている。この曲は、発禁問題を引き起こした「Love Me Tender」に対するセルフ・アンサーソングであるが、核心部分を語ろうとする「あの歌は、反…」という歌詞のところで音声が途切れ終わっている。なお、[1988年](../Page/1988年.md "wikilink")のクリスマス武道館ライブではこの曲がフルバージョンで披露された。内容は、「反原発ロック」などというレッテルを貼られた曲に対するシンパシーや、たかが一曲の歌ごときにレコード会社やマスコミなどの大企業が政治力まで使い圧力をかけてくることやことほどさように大騒ぎすることの愚かさ、日本の社会や報道機関の未熟さを皮肉った内容となっている。フルバージョンはラジオ放送で何度かオンエアされた事はあったものの、結局今日に至るまでCD化されていない。
 
@@ -412,8 +412,8 @@ G2</p></td>
       - ライブアルバム『the TEARS of a CLOWN』に収録された「君はそのうち死ぬだろう」は、暗黒期に[ノイローゼ](https://ja.wikipedia.org/wiki/ノイローゼ "wikilink")気味となった旧友を逆説的に励ますために作られた曲であったが、『内容的にまずい』ということで歌詞カードには載せられなかった。
   - 曲に歌われた[多摩蘭坂](../Page/たまらん坂.md "wikilink")（実際の坂の名前は「たまらん坂」）は、東京都[国立市](../Page/国立市.md "wikilink")と[国分寺市](../Page/国分寺市.md "wikilink")の境にある実在する[坂](../Page/坂.md "wikilink")。RCファン・清志郎ファンの聖地となっている。近くの大学生が通学時に上るときに「坂がきつくてたまらん！」と言ったことが地名の由来。以前は坂の途中の石垣にRCファンによって「清志郎」と書かれた落書きがあったが、現在は取り壊されマンションが建っている。忌野の実家がある[国分寺市](../Page/国分寺市.md "wikilink")[富士本](https://ja.wikipedia.org/wiki/富士本 "wikilink")は位置的には[JR中央線](https://ja.wikipedia.org/wiki/中央線快速 "wikilink")[国立駅](https://ja.wikipedia.org/wiki/国立駅 "wikilink")の北側にあたり、「たまらん坂」はJR中央線を挟んで反対側の[西国分寺駅](https://ja.wikipedia.org/wiki/西国分寺駅 "wikilink")・[国立駅](https://ja.wikipedia.org/wiki/国立駅 "wikilink")間南側に位置する。
   - 『PLEASE』収録の「あきれて物も言えない」は、RCの暗黒期に事務所のスタッフにハッパをかけようとして泉谷しげるが言った「清志郎はもうだめだよ、立ち直れねえよ」という言葉を人づてに歪曲して聞いた忌野が激怒して作った曲。歌詞の「どっかの山師が 俺が死んでるって言ったってさ」の部分を、ライブでは足の不自由な泉谷のことをあからさまに侮蔑する歌詞に替えて歌っていた。\[17\]
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、RC20周年記念で出版された『遊びじゃないんだっ\!（[マガジンハウス](https://ja.wikipedia.org/wiki/マガジンハウス "wikilink")）』の表紙および帯には、「RCサクセションの40年・上巻」「下巻は2010年の発売です」と書かれていたが、ジョークだったのか下巻は2014年現在も発売されていない。
-  - 清志郎のソロアルバム『夢助』に収録された「激しい雨」は、忌野と仲井戸が共作した楽曲。歌詞の中で「RCサクセションが 聴こえる RCサクセションが 流れてる」と歌っている。仲井戸本人によると、[ニール・ヤング](https://ja.wikipedia.org/wiki/ニール・ヤング "wikilink")がかつて在籍していたバンド [バッファロー・スプリングフィールド](../Page/バッファロー・スプリングフィールド.md "wikilink") について歌う「バッファロー・スプリングフィールド・アゲイン」という曲に感銘を受け、ラジオから『RCサクセションが 聴こえる』という歌詞が、一発で忌野と分かる声で聞こえたら面白いのではないか、というきっかけで歌詞が作られたという。\[18\]
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、RC20周年記念で出版された『遊びじゃないんだっ\!（[マガジンハウス](../Page/マガジンハウス.md "wikilink")）』の表紙および帯には、「RCサクセションの40年・上巻」「下巻は2010年の発売です」と書かれていたが、ジョークだったのか下巻は2014年現在も発売されていない。
+  - 清志郎のソロアルバム『夢助』に収録された「激しい雨」は、忌野と仲井戸が共作した楽曲。歌詞の中で「RCサクセションが 聴こえる RCサクセションが 流れてる」と歌っている。仲井戸本人によると、[ニール・ヤング](../Page/ニール・ヤング.md "wikilink")がかつて在籍していたバンド [バッファロー・スプリングフィールド](../Page/バッファロー・スプリングフィールド.md "wikilink") について歌う「バッファロー・スプリングフィールド・アゲイン」という曲に感銘を受け、ラジオから『RCサクセションが 聴こえる』という歌詞が、一発で忌野と分かる声で聞こえたら面白いのではないか、というきっかけで歌詞が作られたという。\[18\]
   - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の[氷室京介](../Page/氷室京介.md "wikilink")は、1980年7月5日のRC[野音ライブを観て](../Page/日比谷野外音楽堂.md "wikilink")、バンド結成を思い立ったとインタビューで語っている。
   - その他の詳細エピソードについては、[忌野清志郎](../Page/忌野清志郎.md "wikilink")の頁を参照。
 
@@ -424,8 +424,8 @@ G2</p></td>
 |                                                            | 発売日                                                                                                              | タイトル                                                                                          | カップリング                                                                             | 最高順位 |
 | ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---- |
 | [東芝音楽工業](../Page/EMIミュージック・ジャパン.md "wikilink") / EXPRESS   |                                                                                                                  |                                                                                               |                                                                                    |      |
-| 1st                                                        | [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")                        | **[宝くじは買わない](https://ja.wikipedia.org/wiki/宝くじは買わない "wikilink")**                             | どろだらけの海                                                                            | 圏外   |
-| 2nd                                                        | [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")[12月5日](../Page/12月5日.md "wikilink")                      | **涙でいっぱい**                                                                                    | イエスタディをうたって                                                                        |      |
+| 1st                                                        | [1970年](../Page/1970年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")                                           | **[宝くじは買わない](https://ja.wikipedia.org/wiki/宝くじは買わない "wikilink")**                             | どろだらけの海                                                                            | 圏外   |
+| 2nd                                                        | [1970年](../Page/1970年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")                                         | **涙でいっぱい**                                                                                    | イエスタディをうたって                                                                        |      |
 | 3rd                                                        | [1972年](../Page/1972年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")                                           | **[ぼくの好きな先生](https://ja.wikipedia.org/wiki/ぼくの好きな先生 "wikilink")**                             | 国立市中区3-1（返事をおくれよ）                                                                  | 70位  |
 | 4th                                                        | [1972年](../Page/1972年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")                                           | **キミかわいいね**                                                                                   | あの歌が想い出せない                                                                         | 圏外   |
 | 5th                                                        | [1972年](../Page/1972年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")                                       | **三番目に大事なもの**                                                                                 | けむり                                                                                |      |
@@ -433,7 +433,7 @@ G2</p></td>
 | 6th                                                        | [1976年](../Page/1976年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")                                         | **[スローバラード](https://ja.wikipedia.org/wiki/スローバラード "wikilink")**                               | やさしさ                                                                               | 圏外   |
 | [Kitty Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink") |                                                                                                                  |                                                                                               |                                                                                    |      |
 | 7th                                                        | [1976年](../Page/1976年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")                                       | **わかってもらえるさ**                                                                                 | よごれた顔でこんにちは                                                                        | 圏外   |
-| 8th                                                        | [1979年](../Page/1979年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                                         | **[ステップ\!](https://ja.wikipedia.org/wiki/ステップ! "wikilink")**                                  | [上を向いて歩こう](https://ja.wikipedia.org/wiki/上を向いて歩こう "wikilink")                      |      |
+| 8th                                                        | [1979年](../Page/1979年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")                                         | **[ステップ\!](https://ja.wikipedia.org/wiki/ステップ! "wikilink")**                                  | [上を向いて歩こう](../Page/上を向いて歩こう.md "wikilink")                                         |      |
 | 9th                                                        | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")                      | **[雨あがりの夜空に](https://ja.wikipedia.org/wiki/雨あがりの夜空に "wikilink")**                             | 君が僕を知っている                                                                          |      |
 | 10th                                                       | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[5月21日](../Page/5月21日.md "wikilink")                      | **ボスしけてるぜ**                                                                                   | キモちE                                                                               |      |
 | 11th                                                       | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink") | **[トランジスタ・ラジオ](../Page/トランジスタラジオ_\(曲\).md "wikilink")**                                       | たとえばこんなラブソング                                                                       | 83位  |
@@ -507,7 +507,7 @@ G2</p></td>
 | 6th                                                        | [1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink") | **[the TEARS OF a CLOWN](https://ja.wikipedia.org/wiki/ティアーズ・オブ・クラウン "wikilink")**  | 圏外   |
 | 7th                                                        | [1988年](../Page/1988年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")                                       | **[コブラの悩み](https://ja.wikipedia.org/wiki/コブラの悩み "wikilink")**                       | \-   |
 | [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")  |                                                                                                                  |                                                                                     |      |
-| 8th                                                        | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")                    | **[RHAPSODY NAKED](https://ja.wikipedia.org/wiki/RHAPSODY_NAKED "wikilink")**       | 圏外   |
+| 8th                                                        | [2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")                                       | **[RHAPSODY NAKED](https://ja.wikipedia.org/wiki/RHAPSODY_NAKED "wikilink")**       | 圏外   |
 | 9th                                                        | [2013年](../Page/2013年.md "wikilink")[5月3日](../Page/5月3日.md "wikilink")                                           | **悲しいことばっかり (オフィシャル・ブートレグ)**                                                        | 19位  |
 | なかよしグループ                                                   |                                                                                                                  |                                                                                     |      |
 | 10th                                                       | [2016年](../Page/2016年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")（発売延期）                                   | **初期のシングル・マン -The Immortal RC SUCCESSION-**                                         | \-   |
@@ -536,9 +536,9 @@ G2</p></td>
 | 11th                                                       | [2002年](../Page/2002年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")                      | **ゴールデン☆ベスト**                                                                 | 圏外   |
 | [ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")  |                                                                                               |                                                                               |      |
 | 12th                                                       | [2004年](../Page/2004年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")                      | **ゴールデン☆ベスト RCサクセション ユニバーサル・エディション**                                          | 31位  |
-| 13th                                                       | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")     | **Wonderful Days 1970-80**                                                    | 60位  |
+| 13th                                                       | [2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | **Wonderful Days 1970-80**                                                    | 60位  |
 | 東芝EMI / EASTWORLD                                          |                                                                                               |                                                                               |      |
-| 14th                                                       | [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")     | **Greatful Days 1981-90**                                                     | 60位  |
+| 14th                                                       | [2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                        | **Greatful Days 1981-90**                                                     | 60位  |
 
 ### ビデオ・DVD
 
@@ -617,7 +617,7 @@ G2</p></td>
 | 雨あがりの夜空に                                                         | [東宝](../Page/東宝.md "wikilink")映画『[\! (アイ・オー)](https://ja.wikipedia.org/wiki/!［ai-ou］ "wikilink")』挿入歌                |
 | こんなんなっちゃった                                                       | [ミノルタ](../Page/ミノルタ.md "wikilink")X7 CMソング                                                                          |
 | ベイビー\!逃げるんだ。                                                     | [MMC](../Page/三菱自動車工業.md "wikilink")『[MIRAGE](../Page/三菱・ミラージュ.md "wikilink")』CMソング                                 |
-| すべてはALRIGHT (YA BABY)                                            | [パルコ](https://ja.wikipedia.org/wiki/パルコ "wikilink") CMソング                                                           |
+| すべてはALRIGHT (YA BABY)                                            | [パルコ](../Page/パルコ.md "wikilink") CMソング                                                                              |
 | サン・トワ・マミー                                                        | [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[やっぱり猫が好き](../Page/やっぱり猫が好き.md "wikilink")』エンディングテーマ |
 | 松竹映画『[バカヤロー\! 私、怒ってます](../Page/バカヤロー!_私、怒ってます.md "wikilink")』主題歌 |                                                                                                                     |
 | I LIKE YOU                                                       | [セゾンカード](../Page/クレディセゾン.md "wikilink") CMソング                                                                       |
@@ -634,7 +634,7 @@ RCサクセションとしての出演番組を記載。個人としての出演
   - [ヤング・インパルス](https://ja.wikipedia.org/wiki/ヤング・インパルス "wikilink") （1972年4月9日〜1973年4月8日、1976年4月25日、[TVK](../Page/テレビ神奈川.md "wikilink")）72年4月の番組開始から翌年4月にかけてレギュラー出演。その後、度々ゲストとして出演した。
   - [ヤングおー\!おー\!](../Page/ヤングおー!おー!.md "wikilink") （1979年、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - ゲスト出演
   - [NTVザ・ヒット\! ピンク百発百中](https://ja.wikipedia.org/wiki/NTVザ・ヒット!_ピンク百発百中 "wikilink") （1979年、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - ゲスト出演
-  - [TVジョッキー](https://ja.wikipedia.org/wiki/TVジョッキー "wikilink") （1979年、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - ゲスト出演
+  - [TVジョッキー](../Page/TVジョッキー.md "wikilink") （1979年、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - ゲスト出演
   - [金曜娯楽館](../Page/金曜娯楽館.md "wikilink") （1979年、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - ゲスト出演
   - [NTV紅白歌のベストテン](../Page/NTV紅白歌のベストテン.md "wikilink") （1979年8月、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - ゲスト出演
   - [ぎんざNOW\!](../Page/ぎんざNOW!.md "wikilink") （1979年8月16日、TBS） - ゲスト出演
@@ -653,7 +653,7 @@ RCサクセションとしての出演番組を記載。個人としての出演
   - [ファイティング 80's](https://ja.wikipedia.org/wiki/ファイティング_80's "wikilink") （1981年12月18日、TVK） - ゲスト出演
   - [ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")（1983年8月5日、TBS） - ゲスト出演
   - [箱根オデッセイ ポップ'83イン・ハコネから](https://ja.wikipedia.org/wiki/箱根オデッセイ_ポップ'83イン・ハコネから "wikilink")（1983年8月20日、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")）
-  - [YOU (テレビ番組)](https://ja.wikipedia.org/wiki/YOU_\(テレビ番組\) "wikilink")（1983年8月27日、NHK） - ゲスト出演
+  - [YOU (テレビ番組)](../Page/YOU_\(テレビ番組\).md "wikilink")（1983年8月27日、NHK） - ゲスト出演
   - [スーパーフェス'84 KING OF LIVE\!](https://ja.wikipedia.org/wiki/スーパーフェス'84_KING_OF_LIVE! "wikilink") （1984年8月30日、フジテレビ）
   - [面白予約ショウ](https://ja.wikipedia.org/wiki/面白予約ショウ "wikilink") （1985年6月7日、フジテレビ） - ゲスト出演
   - [POP HILL：1986](https://ja.wikipedia.org/wiki/POP_HILL "wikilink")（1986年、[石川テレビ](../Page/石川テレビ放送.md "wikilink")） - ゲスト出演
@@ -673,7 +673,7 @@ RCサクセションとしての出演番組を記載。個人としての出演
 
   - 愛しあってるかい（[JICC出版局](https://ja.wikipedia.org/wiki/JICC出版局 "wikilink") 1981年）
   - 十年ゴム消し（忌野清志郎による私小説風エッセイ、[六興出版](../Page/六興出版.md "wikilink") 1987年・[河出文庫](../Page/河出文庫.md "wikilink") 2000年）
-  - GOTTA\!忌野清志郎（忌野清志郎伝、[角川文庫](https://ja.wikipedia.org/wiki/角川文庫 "wikilink")、1988年）
+  - GOTTA\!忌野清志郎（忌野清志郎伝、[角川文庫](../Page/角川文庫.md "wikilink")、1988年）
   - 遊びじゃないんだっ（RCサクセション20周年記念、マガジンハウス、1990年）
   - 日々の泡立ち 真説RCサクセション（インタビュー集、[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")、1991年）
   - 月刊カドカワ・1992年3月号「総力特集 清志郎の遺言」（[角川書店](../Page/角川書店.md "wikilink")、1992年）

@@ -1,13 +1,13 @@
 > この記事は[Atmel AVR](https://ja.wikipedia.org/wiki/Atmel_AVR)から翻訳されています。
 
 
-[250px](https://ja.wikipedia.org/wiki/ファイル:ATmega8_01_Pengo.jpg "wikilink").\]\] **AVR**（AVR）は、[Atmel](https://ja.wikipedia.org/wiki/Atmel "wikilink")社が[1996年](../Page/1996年.md "wikilink")に開発した、[RISC](../Page/RISC.md "wikilink")ベースの[8ビット](../Page/8ビット.md "wikilink")[マイクロコントローラ](https://ja.wikipedia.org/wiki/マイクロコントローラ "wikilink")（制御用IC）製品群の総称である。2016年以降は[Microchip社によって製造](https://ja.wikipedia.org/wiki/マイクロチップ・テクノロジー "wikilink")・販売されている。
+[250px](https://ja.wikipedia.org/wiki/ファイル:ATmega8_01_Pengo.jpg "wikilink").\]\] **AVR**（AVR）は、[Atmel](https://ja.wikipedia.org/wiki/Atmel "wikilink")社が[1996年](../Page/1996年.md "wikilink")に開発した、[RISC](../Page/RISC.md "wikilink")ベースの[8ビット](../Page/8ビット.md "wikilink")[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")（制御用IC）製品群の総称である。2016年以降は[Microchip社によって製造](https://ja.wikipedia.org/wiki/マイクロチップ・テクノロジー "wikilink")・販売されている。
 
 ## 概要
 
 [PIC同様に回路構成が簡単でCPU](../Page/PIC_\(コントローラ\).md "wikilink")、[メモリ](https://ja.wikipedia.org/wiki/メモリ "wikilink")（[RAM](../Page/Random_Access_Memory.md "wikilink")、[ROM](https://ja.wikipedia.org/wiki/Read_Only_Memory "wikilink")）、[I/O](../Page/入出力.md "wikilink")、データ記憶用の[EEPROM](../Page/EEPROM.md "wikilink")、クロック発振回路、タイマーなどが1チップに収められており、書き込まれたプログラムにより制御される。
 
-ISP ([In-System Programming](https://ja.wikipedia.org/wiki/In-System_Programming "wikilink")) に対応し、[コンパレータ](../Page/コンパレータ.md "wikilink")を内蔵する等、[i8051ピンコンパチ品や外部にRAMやI](../Page/Intel_8051.md "wikilink")/Oを増設する外部バスのあるものもあり、[電子工作](https://ja.wikipedia.org/wiki/電子工作 "wikilink")を行う人の間で人気がある。ISPには、In Circuit Serial Programming ([ICSP](https://ja.wikipedia.org/wiki/:en:ICSP "wikilink")) や[JTAG](../Page/JTAG.md "wikilink")という仕組みがある。
+ISP ([In-System Programming](https://ja.wikipedia.org/wiki/In-System_Programming "wikilink")) に対応し、[コンパレータ](../Page/コンパレータ.md "wikilink")を内蔵する等、[i8051ピンコンパチ品や外部にRAMやI](../Page/Intel_8051.md "wikilink")/Oを増設する外部バスのあるものもあり、[電子工作](../Page/電子工作.md "wikilink")を行う人の間で人気がある。ISPには、In Circuit Serial Programming ([ICSP](https://ja.wikipedia.org/wiki/:en:ICSP "wikilink")) や[JTAG](../Page/JTAG.md "wikilink")という仕組みがある。
 
 品種によっては、USBコントローラを内蔵した上でDFU対応Bootloaderをプログラムした状態で出荷されるものがあり、それらは外付け回路無しにUSB接続でプログラミング可能である。
 
@@ -15,7 +15,7 @@ ISP ([In-System Programming](https://ja.wikipedia.org/wiki/In-System_Programming
 
 MCSエレクトロニクス社より4Kバイト(2Kワード)までのコード生成が無償試用できるBascomAVRというBASICを基調としたコンパイラーが公開されている。液晶表示コマンド等、即実用可能なコマンド満載でC言語やマシン語にアレルギーのある人でも簡単にAVRを試用できる。(ただしRAM未搭載のものは殆どのコマンド使用不可)
 
-プログラム格納用のROMは全品種で[FlashROMを採用している](../Page/フラッシュメモリ.md "wikilink")。[ハーバード・アーキテクチャ](https://ja.wikipedia.org/wiki/ハーバード・アーキテクチャ "wikilink")である。
+プログラム格納用のROMは全品種で[FlashROMを採用している](../Page/フラッシュメモリ.md "wikilink")。[ハーバード・アーキテクチャ](../Page/ハーバード・アーキテクチャ.md "wikilink")である。
 
 AVRという名前は、チップを設計した**A**lf Egil Bogen と **V**egard Wollanの名前と、**R**ISC から取られている。
 
@@ -96,7 +96,7 @@ AVRという名前は、チップを設計した**A**lf Egil Bogen と **V**egar
   - [PIC](../Page/PIC_\(コントローラ\).md "wikilink") - [Microchip社が開発したマイクロコントローラ](https://ja.wikipedia.org/wiki/マイクロチップ・テクノロジー "wikilink")。元AVRの競合製品だが現在は併売されている
   - [Arduino](https://ja.wikipedia.org/wiki/Arduino "wikilink") - AVRを利用した[オープンソースハードウェア](../Page/オープンソースハードウェア.md "wikilink")
   - [組み込みシステム](../Page/組み込みシステム.md "wikilink")
-  - [シーケンス制御](https://ja.wikipedia.org/wiki/シーケンス制御 "wikilink")
+  - [シーケンス制御](../Page/シーケンス制御.md "wikilink")
 
 ## 外部リンク
 

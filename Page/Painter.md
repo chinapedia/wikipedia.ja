@@ -13,7 +13,7 @@
 
 現在は紙製パッケージで販売されているが、バージョン6以前はペンキ缶パッケージで販売されていたこともあり、缶切りを使って開封するという、他に類をみないパッケージのソフトウェアとしても有名だった。
 
-[グラフィックソフト](https://ja.wikipedia.org/wiki/グラフィックソフト "wikilink")の分野では[Adobe Photoshopとともに](../Page/Adobe_Photoshop.md "wikilink")、[2次元コンピュータグラフィックス](https://ja.wikipedia.org/wiki/2次元コンピュータグラフィックス "wikilink")(ドローイング)を代表するソフトであり、描画機能やナチュラル表現に優れているPainter、編集・加工機能や印刷時のカラーマッチング（[カラーマネージメントシステム](https://ja.wikipedia.org/wiki/カラーマネージメントシステム "wikilink")を参照）に優れているPhotoshop、という位置づけで定着している。
+[グラフィックソフト](https://ja.wikipedia.org/wiki/グラフィックソフト "wikilink")の分野では[Adobe Photoshopとともに](../Page/Adobe_Photoshop.md "wikilink")、[2次元コンピュータグラフィックス](../Page/2次元コンピュータグラフィックス.md "wikilink")(ドローイング)を代表するソフトであり、描画機能やナチュラル表現に優れているPainter、編集・加工機能や印刷時のカラーマッチング（[カラーマネージメントシステム](../Page/カラーマネージメントシステム.md "wikilink")を参照）に優れているPhotoshop、という位置づけで定着している。
 
 ## 歴史
 

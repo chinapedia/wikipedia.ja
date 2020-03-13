@@ -5,7 +5,7 @@
 
 ## 概要
 
-Multicsの元の計画と開発は[1964年](../Page/1964年.md "wikilink")に、[MIT](../Page/マサチューセッツ工科大学.md "wikilink")（[フェルナンド・J・コルバト](../Page/フェルナンド・J・コルバト.md "wikilink")ら）を中心として、AT\&T[ベル研究所](../Page/ベル研究所.md "wikilink")および[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink") (GE) の独創的な共同プロジェクトとして始まった。しかし1969年にベル研が見切りをつけ脱落（これが結果として[UNIX](../Page/UNIX.md "wikilink")を生んだ）、さらに翌年GEのコンピューター部門が[ハネウェル](https://ja.wikipedia.org/wiki/ハネウェル "wikilink")にMulticsもろとも買収されている。
+Multicsの元の計画と開発は[1964年](../Page/1964年.md "wikilink")に、[MIT](../Page/マサチューセッツ工科大学.md "wikilink")（[フェルナンド・J・コルバト](../Page/フェルナンド・J・コルバト.md "wikilink")ら）を中心として、AT\&T[ベル研究所](../Page/ベル研究所.md "wikilink")および[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink") (GE) の独創的な共同プロジェクトとして始まった。しかし1969年にベル研が見切りをつけ脱落（これが結果として[UNIX](../Page/UNIX.md "wikilink")を生んだ）、さらに翌年GEのコンピューター部門が[ハネウェル](../Page/ハネウェル.md "wikilink")にMulticsもろとも買収されている。
 
 MulticsはGEが商品化しようとしており、結果としてハネウェルが商品化したが、あまり成功しなかった。しかし、コンピュータ市場に与えた影響は大きく、様々な斬新で貴重なアイデアが盛り込まれている\[2\]。
 
@@ -33,11 +33,11 @@ Multicsは当初[GE-645メインフレーム](../Page/GE-600シリーズ.md "wik
 
 ベル研究所は[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")にプロジェクトから撤退した。当時Multicsに関わっていた人々の一部が[UNIX](../Page/UNIX.md "wikilink")システムの開発に移行した。Multicsの開発はMITとGEで続けられた。
 
-1970年、[ハネウェル](https://ja.wikipedia.org/wiki/ハネウェル "wikilink")はGEのコンピュータ部門を買い取り、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")ごろまでGEの設計に基づいたシステムを開発し続けた。約80ヶ所の大学や研究所や政府機関でMulticsシステムが稼動した。（[Bull](https://ja.wikipedia.org/wiki/Bull "wikilink")とハネウェルの関係で）フランスの大学で[1980年代](../Page/1980年代.md "wikilink")初期にいくつか導入されている。ハネウェルが Multics のサポートをやめると、ユーザーはUNIXなど他のシステムに移行していった。最後まで使われていたカナダ国防省のシステムは、2000年10月30日に退役した。
+1970年、[ハネウェル](../Page/ハネウェル.md "wikilink")はGEのコンピュータ部門を買い取り、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")ごろまでGEの設計に基づいたシステムを開発し続けた。約80ヶ所の大学や研究所や政府機関でMulticsシステムが稼動した。（[Bull](../Page/Bull.md "wikilink")とハネウェルの関係で）フランスの大学で[1980年代](../Page/1980年代.md "wikilink")初期にいくつか導入されている。ハネウェルが Multics のサポートをやめると、ユーザーはUNIXなど他のシステムに移行していった。最後まで使われていたカナダ国防省のシステムは、2000年10月30日に退役した。
 
 1985年、[NSAのNCSC](../Page/アメリカ国家安全保障局.md "wikilink")（国立コンピュータ保安センター）の策定したセキュリティ評価基準 Trusted Computer System Evaluation Criteria（通称[オレンジブック](https://ja.wikipedia.org/wiki/オレンジブック_\(セキュリティ\) "wikilink")）のB2レベルのセキュリティを実装したOSであると認証された。このレベルの認証を受けたのはMulticsが最初である。
 
-[Bull](https://ja.wikipedia.org/wiki/Bull "wikilink")は1975年から2000年までヨーロッパでMulticsを販売し、Bull HN Information Systems Inc. がアメリカで販売した。2006年、Bull SAS がMulticsのいくつかのバージョンを[オープンソース](../Page/オープンソース.md "wikilink")化した\[9\]。
+[Bull](../Page/Bull.md "wikilink")は1975年から2000年までヨーロッパでMulticsを販売し、Bull HN Information Systems Inc. がアメリカで販売した。2006年、Bull SAS がMulticsのいくつかのバージョンを[オープンソース](../Page/オープンソース.md "wikilink")化した\[9\]。
 
 ## 回顧
 
@@ -73,7 +73,7 @@ Multicsプロジェクトで仕事をしていた[ケン・トンプソン](../P
 
 ### 他のOS
 
-のオペレーティングシステムを、同社の創業者は「靴箱の中のMultics」(Multics in a shoebox) と称した。ポドスカは後に[アポロコンピュータ](https://ja.wikipedia.org/wiki/アポロコンピュータ "wikilink")を創業し、そこでAEGISと[Domain/OS](https://ja.wikipedia.org/wiki/Domain/OS "wikilink")というオペレーティングシステムを開発したが、それを「マッチ箱の中のMultics」(Multics in a matchbox) と呼んだりした。Domain/OSはMulticsにネットワークとグラフィックス機能を加えたものである。
+のオペレーティングシステムを、同社の創業者は「靴箱の中のMultics」(Multics in a shoebox) と称した。ポドスカは後に[アポロコンピュータ](../Page/アポロコンピュータ.md "wikilink")を創業し、そこでAEGISと[Domain/OS](https://ja.wikipedia.org/wiki/Domain/OS "wikilink")というオペレーティングシステムを開発したが、それを「マッチ箱の中のMultics」(Multics in a matchbox) と呼んだりした。Domain/OSはMulticsにネットワークとグラフィックス機能を加えたものである。
 
 ストラタスコンピュータ（現[ストラタステクノロジー](https://ja.wikipedia.org/wiki/ストラタステクノロジー "wikilink")）のオペレーティングシステム  はMulticsの強い影響を受けており、ユーザインタフェースも内部構造もよく似ている。Multicsの高信頼性・可用性・セキュリティ機能を強化したもので、高信頼[トランザクション処理](../Page/トランザクション処理.md "wikilink")をサポートする[フォールトトレラントシステム](../Page/フォールトトレラントシステム.md "wikilink")で採用されている。VOSはMulticsの直接の子孫として、今も活発に開発が続けられている。
 

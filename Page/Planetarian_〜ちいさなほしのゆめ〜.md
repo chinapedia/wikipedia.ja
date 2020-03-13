@@ -5,13 +5,13 @@
 
 ## 概要
 
-ビジュアルアーツが提唱する[キネティックノベル](https://ja.wikipedia.org/wiki/キネティックノベル "wikilink")の第1弾。戦争により荒廃した近未来の[廃墟](https://ja.wikipedia.org/wiki/廃墟 "wikilink")を舞台に、一人の男とそこにとり残された[ロボット](../Page/ロボット.md "wikilink")との交流を描いた作品である。
+ビジュアルアーツが提唱する[キネティックノベル](../Page/キネティックノベル.md "wikilink")の第1弾。戦争により荒廃した近未来の[廃墟](../Page/廃墟.md "wikilink")を舞台に、一人の男とそこにとり残された[ロボット](../Page/ロボット.md "wikilink")との交流を描いた作品である。
 
 ゲームの発売開始は2004年。その後ゲームの前日談・後日談を描いた小説・ドラマCDが発売され、ゲームは各種プラットフォームへも移植。映像化は長い間されなかったが、ゲームの発売開始から12年後の2016年7月にWEB配信アニメとして『planetarian 〜ちいさなほしのゆめ〜』全5話が配信。同年9月に劇場版アニメ『**planetarian 〜星の人〜**』が公開された。
 
 ## 作品の舞台
 
-作品の舞台となる「封印都市」は、[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[中区をモデルとしている](../Page/中区_\(浜松市\).md "wikilink")。作品中に出てくる花菱デパート本店の建物のモチーフは、かつて同地に存在した旧[松菱](../Page/松菱.md "wikilink")新館であり、「花菱」という名称はシナリオ担当の[涼元悠一](../Page/涼元悠一.md "wikilink")の故郷である静岡県[清水市](../Page/清水市.md "wikilink")（現[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")）にかつて実在したデパートの名称から付けられている。また、ゲームにおける「花菱デパート屋上プラネタリウム館」のビジュアルは、改築前の[名古屋市科学館](../Page/名古屋市科学館.md "wikilink")、[明石市立天文科学館](https://ja.wikipedia.org/wiki/明石市立天文科学館 "wikilink")、改装前の[コニカミノルタプラネタリウム](../Page/コニカミノルタプラネタリウム.md "wikilink")「満天」in [Sunshine Cityをモデルにしている事を](../Page/サンシャインシティ.md "wikilink")、涼元が自身の[ブログ](../Page/ブログ.md "wikilink")で語っている\[1\]。
+作品の舞台となる「封印都市」は、[静岡県](../Page/静岡県.md "wikilink")[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")[中区をモデルとしている](../Page/中区_\(浜松市\).md "wikilink")。作品中に出てくる花菱デパート本店の建物のモチーフは、かつて同地に存在した旧[松菱](../Page/松菱.md "wikilink")新館であり、「花菱」という名称はシナリオ担当の[涼元悠一](../Page/涼元悠一.md "wikilink")の故郷である静岡県[清水市](../Page/清水市.md "wikilink")（現[静岡市](../Page/静岡市.md "wikilink")[清水区](../Page/清水区.md "wikilink")）にかつて実在したデパートの名称から付けられている。また、ゲームにおける「花菱デパート屋上プラネタリウム館」のビジュアルは、改築前の[名古屋市科学館](../Page/名古屋市科学館.md "wikilink")、[明石市立天文科学館](../Page/明石市立天文科学館.md "wikilink")、改装前の[コニカミノルタプラネタリウム](../Page/コニカミノルタプラネタリウム.md "wikilink")「満天」in [Sunshine Cityをモデルにしている事を](../Page/サンシャインシティ.md "wikilink")、涼元が自身の[ブログ](../Page/ブログ.md "wikilink")で語っている\[1\]。
 
 ## 歴史
 
@@ -23,7 +23,7 @@
       - [8月24日](../Page/8月24日.md "wikilink") - [プロトタイプから](../Page/プロトタイプ_\(企業\).md "wikilink")[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版発売（全キャラクターフルボイス対応）\[2\]。
       - [11月28日](../Page/11月28日.md "wikilink") - [携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[3G対応端末と](../Page/SoftBank_3G.md "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](../Page/FOMA.md "wikilink")向けに配信開始（全キャラクターフルボイス対応）。
   - [2009年](../Page/2009年.md "wikilink")
-      - [2月28日](../Page/2月28日.md "wikilink")・[3月1日](../Page/3月1日.md "wikilink") - Key誕生10周年記念イベントにおいて、会場限定で[PSPパッケージ版を販売](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")。
+      - [2月28日](../Page/2月28日.md "wikilink")・[3月1日](../Page/3月1日.md "wikilink") - Key誕生10周年記念イベントにおいて、会場限定で[PSPパッケージ版を販売](../Page/PlayStation_Portable.md "wikilink")。
       - [7月31日](../Page/7月31日.md "wikilink") - ビジュアルアーツ通販限定で『KEY 10th MEMORIAL BOX』を販売。PSP版で収録した音声を使用して全キャラクターフルボイス化したPC版が収められている。
       - [8月24日](../Page/8月24日.md "wikilink") - [PlayStation Storeにて](../Page/PlayStation_Store.md "wikilink")、PSP版のダウンロード販売開始。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
@@ -41,7 +41,7 @@
       - [3月4日](../Page/3月4日.md "wikilink") - プラネタリウム用番組「planetarian〜ちいさなほしのゆめ〜プラネタリウム特別版」、郡山市ふれあい科学館で公開。
       - [5月8日](../Page/5月8日.md "wikilink") - Steamにて、『HDエディション』をベースに、ビジュアルアーツ自らがローカライゼーションを行った「planetarian HD」のダウンロード販売開始。テキストは2019年4月現在、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")・[繁体字](../Page/繁体字.md "wikilink")）、[ドイツ語](../Page/ドイツ語.md "wikilink")、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")に対応している。
   - [2019年](../Page/2019年.md "wikilink")
-      - [1月31日](../Page/1月31日.md "wikilink") - [Nintendo Switch版をダウンロード専用ソフトとして](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[ニンテンドーeショップ](https://ja.wikipedia.org/wiki/ニンテンドーeショップ "wikilink")で販売開始。テキストは日本語、英語、フランス語、中国語（簡体字・繁体字）に対応。Joy-Conのみでの操作や[タッチスクリーンの操作といったNintendo](https://ja.wikipedia.org/wiki/タッチパネル "wikilink") Switchの機能にも対応している。なお、これまでKeyが制作し、プロトタイプが販売した[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")ソフトは全て[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")シリーズや[Xbox 360で展開しており](../Page/Xbox_360.md "wikilink")、本作が初めての[任天堂](../Page/任天堂.md "wikilink")ハードウェアでの展開となる。
+      - [1月31日](../Page/1月31日.md "wikilink") - [Nintendo Switch版をダウンロード専用ソフトとして](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[ニンテンドーeショップ](https://ja.wikipedia.org/wiki/ニンテンドーeショップ "wikilink")で販売開始。テキストは日本語、英語、フランス語、中国語（簡体字・繁体字）に対応。Joy-Conのみでの操作や[タッチスクリーンの操作といったNintendo](../Page/タッチパネル.md "wikilink") Switchの機能にも対応している。なお、これまでKeyが制作し、プロトタイプが販売した[コンシューマーゲーム](../Page/コンシューマーゲーム.md "wikilink")ソフトは全て[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")シリーズや[Xbox 360で展開しており](../Page/Xbox_360.md "wikilink")、本作が初めての[任天堂](../Page/任天堂.md "wikilink")ハードウェアでの展開となる。
 
 ## ストーリー
 
@@ -70,7 +70,7 @@ planetarian -ちいさなほしのゆめ VA文庫 ISBN 4-89490-622-8
   - 雪圏球（[スノーグローブ](../Page/スノーグローブ.md "wikilink")）
     世界的大戦が発生する以前、人々が平和な時代を生きていたときの物語。ほしのゆめみと名付けられた女性型ロボットが、花菱[デパート](https://ja.wikipedia.org/wiki/デパート "wikilink")屋上の[プラネタリウム](../Page/プラネタリウム.md "wikilink")で働き始めてから10年。ゆめみは、ある日突然、奇妙な行動をとるようになる。それは、職場を離れ街中を歩き回るというものだった。特に目的のないその行動の原因がわからず、困惑する職員達。そんななか、職員の**倉橋里美**は、ゆめみの後を追って街に出たが、やはり原因は分からない。やがて、ゆめみはバッテリー切れになってしまう。
   - エルサレム
-    大戦により国家という概念は既に瓦解し、戦争の目的が国家間の争いから人類対自立戦闘兵器へと移った時代。南米[パタゴニア](https://ja.wikipedia.org/wiki/パタゴニア "wikilink")のある[教会](../Page/教会.md "wikilink")に、一人の[狙撃兵](https://ja.wikipedia.org/wiki/狙撃兵 "wikilink")が立て篭もっていると報告を受けた南米統合軍は、説得または排除のために**マードック曹長**の所属する一個[小隊](../Page/小隊.md "wikilink")を派遣した。しかし、狙撃兵は説得を受け入れず、小隊は一人また一人と狙撃されていく。残されたマードックは絶望的な状況の中、[双眼鏡](../Page/双眼鏡.md "wikilink")の中に狙撃兵の姿を捉える。それは、一人の美しい**[修道女](https://ja.wikipedia.org/wiki/修道女 "wikilink")**だった。
+    大戦により国家という概念は既に瓦解し、戦争の目的が国家間の争いから人類対自立戦闘兵器へと移った時代。南米[パタゴニア](../Page/パタゴニア.md "wikilink")のある[教会](../Page/教会.md "wikilink")に、一人の[狙撃兵](https://ja.wikipedia.org/wiki/狙撃兵 "wikilink")が立て篭もっていると報告を受けた南米統合軍は、説得または排除のために**マードック曹長**の所属する一個[小隊](../Page/小隊.md "wikilink")を派遣した。しかし、狙撃兵は説得を受け入れず、小隊は一人また一人と狙撃されていく。残されたマードックは絶望的な状況の中、[双眼鏡](../Page/双眼鏡.md "wikilink")の中に狙撃兵の姿を捉える。それは、一人の美しい**[修道女](https://ja.wikipedia.org/wiki/修道女 "wikilink")**だった。
   - 星の人
     大気は直接呼吸できないほどに汚れ、降り続いていた雨は雪に変わって地表を覆う。生き残ったごくわずかの人間は地下に逃れ、細々と暮らしながら滅びの時を待つ世界。ある地下集落に住む3人の子供たちの**レビ**・**ルツ**・**ヨブ**は、雪の中で倒れていた一人の老人を見付けた。地下集落へ運ばれた老人のことを、大人たちは「**星の人**」と呼んで敬う。滅多にない外部からの訪問者に、そして「星の人」と呼ばれる所以に興味を持つ子供たち。やがて子供たちは、老人の指示のもと、**あるもの**を作り始める。「屑屋」のその後の人生が描かれた作品。
   - チルシスとアマント
@@ -91,7 +91,7 @@ planetarian -ちいさなほしのゆめ VA文庫 ISBN 4-89490-622-8
   - ほしのゆめみ
     [声](../Page/声優.md "wikilink") - [すずきけいこ](../Page/すずきけいこ.md "wikilink")
     本作の主人公。封印都市に置き去りにされていたロボットで、花菱デパート屋上プラネタリウム館の解説員。形式名はSCR5000 Si/FL CAPELII。「ほしのゆめみ」という名前は、2034年に花菱デパートへ配属された際に一般公募により決められた。
-    外見の設定年齢は15〜16歳。骨格部分はチタンとマグネシウムの合金製。頭部には、放熱と保護を目的として髪を模した熱交換繊維が取り付けられている。また、人間で言うところの両[耳](../Page/耳.md "wikilink")にあたる部分には、ホロスナップ\[6\]や小型[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")、外部[コネクタ](https://ja.wikipedia.org/wiki/コネクタ "wikilink")などを備えたイヤーユニットが装備されており、有線、並びに無線で、投影に使用する機器の制御、テストなどを行うことが可能である。
+    外見の設定年齢は15〜16歳。骨格部分はチタンとマグネシウムの合金製。頭部には、放熱と保護を目的として髪を模した熱交換繊維が取り付けられている。また、人間で言うところの両[耳](../Page/耳.md "wikilink")にあたる部分には、ホロスナップ\[6\]や小型[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")、外部[コネクタ](../Page/コネクタ.md "wikilink")などを備えたイヤーユニットが装備されており、有線、並びに無線で、投影に使用する機器の制御、テストなどを行うことが可能である。
     花菱デパートの[制服](../Page/制服.md "wikilink")を模した光繊維が織り込まれている[コスチュームを纏っており](https://ja.wikipedia.org/wiki/服装 "wikilink")、停電などの緊急時には自身の電力で発光させる事が出来る他、頭部の帽子には自らの意思で自由に文字を表示させたり変色･発光させる事が可能なインフォメーション[リボン](../Page/リボン.md "wikilink")\[7\]が装備されている。
     動力源は筐体に内蔵された[バッテリーから供給される電気であるが](../Page/二次電池.md "wikilink")、自己発電機能などを持っていないため、電池への電力供給は外部電源からの充電に完全依存している。
     人間を喜ばせること、役に立つことを至上の役割としており、持ち合わせの無い兄弟に無料で投影を見せたり、プラネタリウムに迷い込んだ屑屋を248万7,290人番目の来館者にもかかわらず喜ばせるために250万人目として迎え、記念特別投影を見せようとする\[8\]反面、職務に対する命令、並びに人間に対しての危機を看過しない事については強情ともいえる挙動も見せる。
@@ -106,7 +106,7 @@ planetarian -ちいさなほしのゆめ VA文庫 ISBN 4-89490-622-8
     声 - [小野大輔](../Page/小野大輔.md "wikilink")
     本名は不明。2051年、日本のドーム都市に生まれる\[9\]。廃墟に眠る物資などを探すために封印都市に潜入、レーダー基地の跡と勘違いして侵入した花菱デパートの屋上ドームでゆめみと出会い、成りゆきでプラネタリウム投影機の修理をする羽目になる。非常にシニカルな性格で、当初はゆめみのことを非常に鬱陶しく思っていたが、ドーム内で過ごすうちに徐々に心情が変化していく。長い時間をゆめみと共に過ごすうちに少しずつではあるが愛情のような形で守りたい存在として認識していく。
   - 館長
-    声 - [石上祐一](https://ja.wikipedia.org/wiki/石上祐一 "wikilink")（ゲーム） / [滝知史](https://ja.wikipedia.org/wiki/滝知史 "wikilink")（アニメ）
+    声 - [石上祐一](https://ja.wikipedia.org/wiki/石上祐一 "wikilink")（ゲーム） / [滝知史](../Page/滝知史.md "wikilink")（アニメ）
     ゆめみの回想の中で登場。花菱デパート屋上プラネタリウム館の館長。
   - 老屑屋
     声 - [千々和竜策](../Page/千々和竜策.md "wikilink")（ゲーム） / [篠塚勝](../Page/篠塚勝.md "wikilink")（アニメ）
@@ -139,14 +139,14 @@ planetarian -ちいさなほしのゆめ VA文庫 ISBN 4-89490-622-8
     声 - [増田ゆき](../Page/増田ゆき.md "wikilink")
     南米パタゴニアのある教会に立て篭もっている狙撃兵。真っ黒な修道服に金髪、グレイブウォッチャー（墓守り銃）と呼ばれる強力な狙撃銃を片手で抱えている。交渉に応じようとはしない。
   - マンソン
-    声 - [奥田啓人](https://ja.wikipedia.org/wiki/奥田啓人 "wikilink")
+    声 - [奥田啓人](../Page/奥田啓人.md "wikilink")
     統合軍のリーダー的存在であり階級は[中尉](../Page/中尉.md "wikilink")。常に冷静であり、言い争いをする部下たちを叱咤激励することも。
   - グエン・チャウ
     声 - [櫛田泰道](../Page/櫛田泰道.md "wikilink")
     統合軍の一人で階級は上等兵。状況が進展しないことに苛立っており他の隊員と言い争ってしまう。国はなくなっており身寄りもない。サリンジャーとは特に相性が合わず彼のことは「おかま野郎」と呼んでいる。
   - ダニエル・ディアス
     声 - [遠藤大輔](../Page/遠藤大輔.md "wikilink")
-    統合軍の一人で階級は[軍曹](https://ja.wikipedia.org/wiki/軍曹 "wikilink")。[パワードスーツ](../Page/パワードスーツ.md "wikilink")を着用している。マードックたちとは離れた場所で待機している。マードックたちと繋がる無線は自己判断で切っている。
+    統合軍の一人で階級は[軍曹](../Page/軍曹.md "wikilink")。[パワードスーツ](../Page/パワードスーツ.md "wikilink")を着用している。マードックたちとは離れた場所で待機している。マードックたちと繋がる無線は自己判断で切っている。
 
 ### 星の人
 
@@ -154,7 +154,7 @@ planetarian -ちいさなほしのゆめ VA文庫 ISBN 4-89490-622-8
     声 - [広瀬正志](../Page/広瀬正志.md "wikilink")（ドラマCD） / [大木民夫](../Page/大木民夫.md "wikilink")（アニメ）、小野大輔（青年時）
     白髪に長い白髭を蓄えた80歳\[10\]の老人。右足は膝から下が[義足](../Page/義肢.md "wikilink")。小型のプラネタリウム投影機を携えて徒歩で世界を巡り、星と宇宙のことを語り歩いている。星に関する知識とその振る舞いから、いつしか「星の人」と呼ばれ、人から敬われるようになった。実は屑屋が老いた姿。
   - レビ
-    声 - [谷井あすか](https://ja.wikipedia.org/wiki/谷井あすか "wikilink")（ドラマCD） / [福沙奈恵](https://ja.wikipedia.org/wiki/福沙奈恵 "wikilink")（アニメ）
+    声 - [谷井あすか](../Page/谷井あすか.md "wikilink")（ドラマCD） / [福沙奈恵](https://ja.wikipedia.org/wiki/福沙奈恵 "wikilink")（アニメ）
     3人組の中では唯一の女子。勝気で他の男子2人を引っ張るリーダー格。物事に対して積極的。手先は不器用。
   - ヨブ
     声 - [西墻由香](../Page/西墻由香.md "wikilink")（ドラマCD） / [日笠陽子](https://ja.wikipedia.org/wiki/日笠陽子 "wikilink")（アニメ）
@@ -163,7 +163,7 @@ planetarian -ちいさなほしのゆめ VA文庫 ISBN 4-89490-622-8
     声 - [松岡由貴](../Page/松岡由貴.md "wikilink")（ドラマCD） / [津田美波](https://ja.wikipedia.org/wiki/津田美波 "wikilink")（アニメ）
     ヨブとは対照的に物静かな男子。手先がとても器用。
   - エズラ
-    声 - [及川ひとみ](../Page/及川ひとみ.md "wikilink")（ドラマCD） / [竹口安芸子](https://ja.wikipedia.org/wiki/竹口安芸子 "wikilink")（アニメ）
+    声 - [及川ひとみ](../Page/及川ひとみ.md "wikilink")（ドラマCD） / [竹口安芸子](../Page/竹口安芸子.md "wikilink")（アニメ）
     地下集落の村長。
   - エレミヤ
     声 - [細野雅世](../Page/細野雅世.md "wikilink")（ドラマCD） / [桑原由気](https://ja.wikipedia.org/wiki/桑原由気 "wikilink")（アニメ）
@@ -182,17 +182,17 @@ planetarian -ちいさなほしのゆめ VA文庫 ISBN 4-89490-622-8
 ## スタッフ
 
   - 企画・シナリオ：[涼元悠一](../Page/涼元悠一.md "wikilink")
-  - 原画・メカニックデザイン：[駒都えーじ](https://ja.wikipedia.org/wiki/駒都えーじ "wikilink")
-  - 音楽：[戸越まごめ](https://ja.wikipedia.org/wiki/戸越まごめ "wikilink") （PCダウンロード版・PCパッケージ版・PS2版・ドラマCD）
+  - 原画・メカニックデザイン：[駒都えーじ](../Page/駒都えーじ.md "wikilink")
+  - 音楽：[戸越まごめ](../Page/戸越まごめ.md "wikilink") （PCダウンロード版・PCパッケージ版・PS2版・ドラマCD）
 
 ## 主題歌・音楽
 
 PCパッケージ版の発売にあわせてエンディングテーマが追加された。
 
   - エンディングテーマ 『[星めぐりの歌](https://ja.wikipedia.org/wiki/星めぐりの歌 "wikilink")』
-    作詞 / 作曲：[宮沢賢治](../Page/宮沢賢治.md "wikilink")、編曲：[戸越まごめ](https://ja.wikipedia.org/wiki/戸越まごめ "wikilink")、歌：[MELL](https://ja.wikipedia.org/wiki/MELL "wikilink")
+    作詞 / 作曲：[宮沢賢治](../Page/宮沢賢治.md "wikilink")、編曲：[戸越まごめ](../Page/戸越まごめ.md "wikilink")、歌：[MELL](https://ja.wikipedia.org/wiki/MELL "wikilink")
 
-また[2006年](../Page/2006年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")、コミックマーケット70にて『[planetarian Original SoundTrack](https://ja.wikipedia.org/wiki/planetarian_Original_SoundTrack "wikilink")』が限定販売された。ゲーム中の楽曲に加えて、作曲者である[戸越まごめ](https://ja.wikipedia.org/wiki/戸越まごめ "wikilink")の手によるアレンジ曲と、[折戸伸治](../Page/折戸伸治.md "wikilink")の手による書き下ろし曲が各1曲追加されている。このサウンドトラックは2006年[12月28日](../Page/12月28日.md "wikilink")に一般販売されている。
+また[2006年](../Page/2006年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")、コミックマーケット70にて『[planetarian Original SoundTrack](https://ja.wikipedia.org/wiki/planetarian_Original_SoundTrack "wikilink")』が限定販売された。ゲーム中の楽曲に加えて、作曲者である[戸越まごめ](../Page/戸越まごめ.md "wikilink")の手によるアレンジ曲と、[折戸伸治](../Page/折戸伸治.md "wikilink")の手による書き下ろし曲が各1曲追加されている。このサウンドトラックは2006年[12月28日](../Page/12月28日.md "wikilink")に一般販売されている。
 
 ## ドラマCD
 
@@ -252,7 +252,7 @@ PCパッケージ版の発売にあわせてエンディングテーマが追加
 </tr>
 <tr class="odd">
 <td><p>キャラクター原案</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/駒都えーじ" title="wikilink">駒都えーじ</a></p></td>
+<td><p><a href="../Page/駒都えーじ.md" title="wikilink">駒都えーじ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>キャラクターデザイン</p></td>
@@ -336,7 +336,7 @@ PCパッケージ版の発売にあわせてエンディングテーマが追加
 
 ### 製作
 
-[アスミック・エース](../Page/アスミック・エース.md "wikilink")プロデューサーの青井宏之は[2014年](../Page/2014年.md "wikilink")の時点で『planetarian』のアニメ化のため[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")を訪れた。青井はネット[インフラの整った今こそ](https://ja.wikipedia.org/wiki/インフラストラクチャー "wikilink")、 [キネティックノベル](https://ja.wikipedia.org/wiki/キネティックノベル "wikilink")の第1弾としてダウンロード販売された『planetarian』が[2004年](../Page/2004年.md "wikilink")当時に試みた「いつでもどこでも視聴ができる」というものが実現できるのではという想いと作品の持つ普遍性、ロボットと人間の交流といったテーマ性、今でも愛し続けてくれるファンに向けて何かできないかという思いでプロジェクトをスタートさせている\[18\]。
+[アスミック・エース](../Page/アスミック・エース.md "wikilink")プロデューサーの青井宏之は[2014年](../Page/2014年.md "wikilink")の時点で『planetarian』のアニメ化のため[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")を訪れた。青井はネット[インフラの整った今こそ](../Page/インフラストラクチャー.md "wikilink")、 [キネティックノベル](../Page/キネティックノベル.md "wikilink")の第1弾としてダウンロード販売された『planetarian』が[2004年](../Page/2004年.md "wikilink")当時に試みた「いつでもどこでも視聴ができる」というものが実現できるのではという想いと作品の持つ普遍性、ロボットと人間の交流といったテーマ性、今でも愛し続けてくれるファンに向けて何かできないかという思いでプロジェクトをスタートさせている\[18\]。
 
 アニメーション制作には原作に対して最大のリスペクトを持って制作に臨んでくれる会社ということで『[ジョジョの奇妙な冒険](https://ja.wikipedia.org/wiki/ジョジョの奇妙な冒険_\(テレビアニメ\) "wikilink")』シリーズなどの制作でも知られる[david productionに依頼したという](https://ja.wikipedia.org/wiki/デイヴィッドプロダクション "wikilink")\[19\]。
 
@@ -368,7 +368,7 @@ PCパッケージ版の発売にあわせてエンディングテーマが追加
 
 音響監督も務める津田は配信版と劇場版では視点が違うため音楽ラインも設計を変えており、配信版はゆめみ主体のかわいらしさを、劇場版では屑屋の心情に寄り添った音楽を付けたという\[31\]。音楽はKey / ビジュアルアーツが全面協力しており、[折戸伸治](../Page/折戸伸治.md "wikilink")、どんまる、[竹下智博](https://ja.wikipedia.org/wiki/竹下智博 "wikilink")の3人が担当した。
 
-劇場版の主題歌「星の舟」では『[鳥の詩](https://ja.wikipedia.org/wiki/鳥の詩_\(Liaの曲\) "wikilink")』で知られるLiaと折戸伸治が8年ぶりにタッグを組んでいる。当初作詞は原作シナリオの[涼元悠一](../Page/涼元悠一.md "wikilink")に依頼することも考えていたがスケジュールが合わず、原作協力としても参加している丘野塔也が小説の最終章『チルシスとアマント』をモチーフに歌詞へと落とし込んでいる\[32\]。
+劇場版の主題歌「星の舟」では『[鳥の詩](../Page/鳥の詩_\(Liaの曲\).md "wikilink")』で知られるLiaと折戸伸治が8年ぶりにタッグを組んでいる。当初作詞は原作シナリオの[涼元悠一](../Page/涼元悠一.md "wikilink")に依頼することも考えていたがスケジュールが合わず、原作協力としても参加している丘野塔也が小説の最終章『チルシスとアマント』をモチーフに歌詞へと落とし込んでいる\[32\]。
 
 ### 主題歌
 
@@ -383,13 +383,13 @@ PCパッケージ版の発売にあわせてエンディングテーマが追加
   -
 
       -
-        作詞・作曲 - [宮沢賢治](../Page/宮沢賢治.md "wikilink") / 編曲 - [戸越まごめ](https://ja.wikipedia.org/wiki/戸越まごめ "wikilink") / 歌 - [MELL](https://ja.wikipedia.org/wiki/MELL "wikilink")
+        作詞・作曲 - [宮沢賢治](../Page/宮沢賢治.md "wikilink") / 編曲 - [戸越まごめ](../Page/戸越まごめ.md "wikilink") / 歌 - [MELL](https://ja.wikipedia.org/wiki/MELL "wikilink")
 
   - イメージソング「Worlds Pain」
     作詞 - [魁](https://ja.wikipedia.org/wiki/魁_\(シナリオライター\) "wikilink") / 作曲・編曲 - [竹下智博](https://ja.wikipedia.org/wiki/竹下智博 "wikilink") / 歌 - [Ceui](../Page/Ceui.md "wikilink")
 
   - 『星の人』メインテーマ「星の舟」
-    作詞 - 丘野塔也 / 作曲 - [折戸伸治](../Page/折戸伸治.md "wikilink") / 編曲 - [根岸貴幸](../Page/根岸貴幸.md "wikilink") / 歌 - [Lia](https://ja.wikipedia.org/wiki/Lia "wikilink")
+    作詞 - 丘野塔也 / 作曲 - [折戸伸治](../Page/折戸伸治.md "wikilink") / 編曲 - [根岸貴幸](../Page/根岸貴幸.md "wikilink") / 歌 - [Lia](../Page/Lia.md "wikilink")
 
 ### 各話リスト（Webアニメ）
 
@@ -563,10 +563,10 @@ PCパッケージ版の発売にあわせてエンディングテーマが追加
 ## 関連項目
 
   - [プラネタリウム](../Page/プラネタリウム.md "wikilink")
-  - [キネティックノベル](https://ja.wikipedia.org/wiki/キネティックノベル "wikilink")
+  - [キネティックノベル](../Page/キネティックノベル.md "wikilink")
   - [泣きゲー](../Page/泣きゲー.md "wikilink")
   - [カール・ツァイス](../Page/カール・ツァイス.md "wikilink")
-  - [明石市立天文科学館](https://ja.wikipedia.org/wiki/明石市立天文科学館 "wikilink") - 本作に出てくるプラネタリウム投影機のモデルとなった投影機がある。
+  - [明石市立天文科学館](../Page/明石市立天文科学館.md "wikilink") - 本作に出てくるプラネタリウム投影機のモデルとなった投影機がある。
 
 ## 外部リンク
 
@@ -593,7 +593,7 @@ PCパッケージ版の発売にあわせてエンディングテーマが追加
 3.
 4.
 5.  [ナハトの壁紙たくさん＆PS2版planetarianゲーマガ満足度１位御礼＆後書きにかえて２としてSS特別公開](http://suzumoto.jp/d0701.htm)
-6.  [ホログラフィー](https://ja.wikipedia.org/wiki/ホログラフィー "wikilink")で映像を撮影・録画･再生する装置
+6.  [ホログラフィー](../Page/ホログラフィー.md "wikilink")で映像を撮影・録画･再生する装置
 7.  勤続10周年を記念し、ゆめみに贈られたもので、機体のオプションである。
 8.  ドラマCDの雪圏球内の台詞。
 9.  『planetarian〜星の人〜』パンフレットp.27。インタビュー 涼元悠一 原作シナリオより。

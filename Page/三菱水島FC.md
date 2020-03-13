@@ -29,7 +29,7 @@ JFL昇格1年目の2005年は勝ち点8で16チーム中最下位だった。特
 
 2007年は自力で残留を果たす。
 
-2008年も降格圏内に低迷、しかし上位チームのJ2昇格([栃木SC](../Page/栃木SC.md "wikilink")・[カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")・[ファジアーノ岡山FC](https://ja.wikipedia.org/wiki/ファジアーノ岡山FC "wikilink"))に伴い引き続きJFL残留を果たしている。同年には同県のファジアーノ岡山FCとの[岡山ダービー](../Page/岡山ダービー.md "wikilink")が実現した。
+2008年も降格圏内に低迷、しかし上位チームのJ2昇格([栃木SC](../Page/栃木SC.md "wikilink")・[カターレ富山](https://ja.wikipedia.org/wiki/カターレ富山 "wikilink")・[ファジアーノ岡山FC](../Page/ファジアーノ岡山FC.md "wikilink"))に伴い引き続きJFL残留を果たしている。同年には同県のファジアーノ岡山FCとの[岡山ダービー](../Page/岡山ダービー.md "wikilink")が実現した。
 
 2008年末、[世界的な経済情勢の悪化から](https://ja.wikipedia.org/wiki/世界金融危機_\(2007年-\) "wikilink")、今後の活動について運営費削減および活動縮小が懸念された。これに対し、ホームスタジアム・岡山県笠岡陸上競技場のある[笠岡市](../Page/笠岡市.md "wikilink")が、同クラブが地域スポーツ振興の中核的な存在であるとして活動存続を要望した\[3\]。
 
@@ -874,7 +874,7 @@ JFL昇格1年目の2005年は勝ち点8で16チーム中最下位だった。特
 <td><p><strong>DF</strong></p></td>
 <td><p><strong>2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/前原辰徳" title="wikilink">前原辰徳</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファジアーノ岡山FC" title="wikilink">ファジアーノ岡山U-18</a></p></td>
+<td><p><a href="../Page/ファジアーノ岡山FC.md" title="wikilink">ファジアーノ岡山U-18</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1612,9 +1612,9 @@ JFL昇格1年目の2005年は勝ち点8で16チーム中最下位だった。特
 
 JFL時代は5000人以上収容スタンドが求められていたこともあり、公式戦会場は以下の通り。
 
-  - 本拠地 : [岡山県笠岡陸上競技場](https://ja.wikipedia.org/wiki/岡山県笠岡陸上競技場 "wikilink")（[笠岡市](../Page/笠岡市.md "wikilink")）
-  - 準本拠地 : [岡山県美作ラグビー・サッカー場](../Page/岡山県美作ラグビー・サッカー場.md "wikilink")（[美作市](https://ja.wikipedia.org/wiki/美作市 "wikilink")）
-  - 準本拠地 : [岡山県総合グラウンド陸上競技場](https://ja.wikipedia.org/wiki/岡山県総合グラウンド陸上競技場 "wikilink")（岡山市）
+  - 本拠地 : [岡山県笠岡陸上競技場](../Page/岡山県笠岡陸上競技場.md "wikilink")（[笠岡市](../Page/笠岡市.md "wikilink")）
+  - 準本拠地 : [岡山県美作ラグビー・サッカー場](../Page/岡山県美作ラグビー・サッカー場.md "wikilink")（[美作市](../Page/美作市.md "wikilink")）
+  - 準本拠地 : [岡山県総合グラウンド陸上競技場](../Page/岡山県総合グラウンド陸上競技場.md "wikilink")（岡山市）
   - 準本拠地 : [福山市竹ヶ端運動公園陸上競技場](../Page/福山市竹ヶ端運動公園陸上競技場.md "wikilink")（[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")）
 
 ## ユニフォーム
@@ -1676,7 +1676,7 @@ MAX</p></td>
 ### ユニフォームサプライヤ
 
   - \- 2007年 [KARDERI](http://www.karderi.co.jp/)
-  - 2008年 - 2011年 [ASICS](https://ja.wikipedia.org/wiki/アシックス "wikilink")
+  - 2008年 - 2011年 [ASICS](../Page/アシックス.md "wikilink")
   - 2012年 - [FUTURIST](http://oka-fb.com/)
 
 ### 歴代ユニフォームスポンサー年表
@@ -1714,7 +1714,7 @@ MAX</p></td>
 <td><p>2008</p></td>
 <td><p><a href="../Page/岡山放送.md" title="wikilink">OHK</a></p></td>
 <td><p><a href="../Page/明治安田生命保険.md" title="wikilink">明治安田生命</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アシックス" title="wikilink">ASICS</a></p></td>
+<td><p><a href="../Page/アシックス.md" title="wikilink">ASICS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1851,7 +1851,7 @@ MAX</a></p></td>
       - 三菱自動車水島ラグビー部
   - 他の三菱グループ内のサッカークラブを起源とするクラブ
       - [三菱重工長崎サッカー部](https://ja.wikipedia.org/wiki/三菱重工長崎サッカー部 "wikilink")
-      - [浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")(旧[三菱重工業サッカー部](https://ja.wikipedia.org/wiki/三菱重工業サッカー部 "wikilink"))
+      - [浦和レッドダイヤモンズ](https://ja.wikipedia.org/wiki/浦和レッドダイヤモンズ "wikilink")(旧[三菱重工業サッカー部](../Page/三菱重工業サッカー部.md "wikilink"))
       - [ギラヴァンツ北九州](../Page/ギラヴァンツ北九州.md "wikilink")(旧[三菱化成黒崎サッカー部](https://ja.wikipedia.org/wiki/三菱化成黒崎サッカー部 "wikilink"))
 
 ## 外部リンク

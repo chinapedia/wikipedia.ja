@@ -1,13 +1,13 @@
 > この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
 
 
-**あやしいわーるどII**([1999年](../Page/1999年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")- )とは、[あやしいわーるど](https://ja.wikipedia.org/wiki/あやしいわーるど "wikilink")電子掲示板群の内の一つであり、通称「**ぁぃぁぃ**」と呼ばれる。管理人は[AGStar](https://ja.wikipedia.org/wiki/AGStar "wikilink")。
+**あやしいわーるどII**([1999年](../Page/1999年.md "wikilink")[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink")- )とは、[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")電子掲示板群の内の一つであり、通称「**ぁぃぁぃ**」と呼ばれる。管理人は[AGStar](https://ja.wikipedia.org/wiki/AGStar "wikilink")。
 
 ## 概要
 
 管理人が認めた少数の利用者が使う[プロバイダ](https://ja.wikipedia.org/wiki/プロバイダ "wikilink")以外をすべてアクセス制限している。その制限の方法も豪快で、以前は制限された[プロバイダ](https://ja.wikipedia.org/wiki/プロバイダ "wikilink")からのアクセスに対して[ブラウザクラッシャー](../Page/ブラウザクラッシャー.md "wikilink")を表示するようにしていた。そのため、IIのURLを[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")等にコピーペーストする遊びまで起こった。よって、[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")では、IIというサイトは 掲示板ではなく[ブラウザクラッシャー](../Page/ブラウザクラッシャー.md "wikilink")として知られている\[1\]。 話題は着せ替え人形や同人誌など、管理人の好む内容だけに限定されており、それ以外の話題を持ち込むとすぐにアクセス制限される。
 
-現状として、この厳しい制限のせいでIIは[あやしいわーるど](https://ja.wikipedia.org/wiki/あやしいわーるど "wikilink")の中で孤立した立場に有ると言わざるを得ない。現在は規制が若干緩和されているという見方もあるが、ページのアクセス数は最盛期と比べて著しく減少している。 それでも、[あやしいわーるど](https://ja.wikipedia.org/wiki/あやしいわーるど "wikilink")においてIIがメインだった時期があることは否めず、またIIの排他政策によって、他の多くの[あやしいわーるど](https://ja.wikipedia.org/wiki/あやしいわーるど "wikilink")系の掲示板が生まれる結果となったのは事実ではある。
+現状として、この厳しい制限のせいでIIは[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")の中で孤立した立場に有ると言わざるを得ない。現在は規制が若干緩和されているという見方もあるが、ページのアクセス数は最盛期と比べて著しく減少している。 それでも、[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")においてIIがメインだった時期があることは否めず、またIIの排他政策によって、他の多くの[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")系の掲示板が生まれる結果となったのは事実ではある。
 
 ## あやしいわーるど@ARENA
 
@@ -25,13 +25,13 @@
 
 ## あやしいわーるどメイン
 
-様々な住人、別の匿名掲示板からの難民などが集まり盛況となった。管理が厳格なため非常に居心地がよく、ここで生まれた名言、テンプレ、文字絵、習慣などは多い。特に「リバース系掲示板」は、それぞれにおいて独自の習慣を少なからず受け継いでいる。[WebARENA](../Page/WebARENA.md "wikilink")の利用、[あやしいわーるど](https://ja.wikipedia.org/wiki/あやしいわーるど "wikilink")におけるアクセス制限導入はその最たるものであると考えられる。[アンダーグラウンドな雰囲気が強く](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\)#インターネットにおけるアンダーグラウンド "wikilink")、大学生など学術系の人も多かったため自由な雰囲気が保たれた。
+様々な住人、別の匿名掲示板からの難民などが集まり盛況となった。管理が厳格なため非常に居心地がよく、ここで生まれた名言、テンプレ、文字絵、習慣などは多い。特に「リバース系掲示板」は、それぞれにおいて独自の習慣を少なからず受け継いでいる。[WebARENA](../Page/WebARENA.md "wikilink")の利用、[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")におけるアクセス制限導入はその最たるものであると考えられる。[アンダーグラウンドな雰囲気が強く](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\)#インターネットにおけるアンダーグラウンド "wikilink")、大学生など学術系の人も多かったため自由な雰囲気が保たれた。
 
 ## 管理体制
 
 ### アクセス制限
 
-[スクリプトキディ](https://ja.wikipedia.org/wiki/スクリプトキディ "wikilink")などによる[荒らし](https://ja.wikipedia.org/wiki/荒らし "wikilink")、[自作自演](https://ja.wikipedia.org/wiki/自作自演 "wikilink")、負荷攻撃などが横行したため、[AGStar](https://ja.wikipedia.org/wiki/AGStar "wikilink")は一部のプロバイダからの接続を弾く、つまりはアクセス規制することで管理するようになる。このことは [あやしいわーるど](https://ja.wikipedia.org/wiki/あやしいわーるど "wikilink")のメイン級各板に受け継がれている。この事で[あやしいわーるど](https://ja.wikipedia.org/wiki/あやしいわーるど "wikilink")の多くは個人板である、との認識が高まった。
+[スクリプトキディ](../Page/スクリプトキディ.md "wikilink")などによる[荒らし](https://ja.wikipedia.org/wiki/荒らし "wikilink")、[自作自演](../Page/自作自演.md "wikilink")、負荷攻撃などが横行したため、[AGStar](https://ja.wikipedia.org/wiki/AGStar "wikilink")は一部のプロバイダからの接続を弾く、つまりはアクセス規制することで管理するようになる。このことは [あやしいわーるど](../Page/あやしいわーるど.md "wikilink")のメイン級各板に受け継がれている。この事で[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")の多くは個人板である、との認識が高まった。
 
 ### NGワード導入
 
@@ -41,7 +41,7 @@
 
 ### アニメホーダイ
 
-地上波放送などにおける[アニメ](../Page/アニメ.md "wikilink")、[特撮](../Page/特撮.md "wikilink")番組などの時間になると、その番組を視聴し感想を[リアルタイム](../Page/リアルタイム.md "wikilink")で書き込む事が日常化した。もちろん、当時は[インターネット](../Page/インターネット.md "wikilink")における[ストリーミング](../Page/ストリーミング.md "wikilink")[放送](../Page/放送.md "wikilink")などの実用的運営がまだであったため、各自がそれぞれ[テレビ](../Page/テレビ.md "wikilink")を視聴しながらその感想を述べる、[ネタ](https://ja.wikipedia.org/wiki/ネタ "wikilink")化するなどの[インターネット](../Page/インターネット.md "wikilink")[文化](../Page/文化.md "wikilink")になった。これらは 日本の[インターネット](../Page/インターネット.md "wikilink")[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")全域にまで広がっている。 黎明期における[インターネット](../Page/インターネット.md "wikilink")[文化](../Page/文化.md "wikilink")の発端の一つであるといえよう。なお、ホーダイの由来は[NTTの](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")[テレホーダイ](../Page/テレホーダイ.md "wikilink")に由来する。
+地上波放送などにおける[アニメ](../Page/アニメ.md "wikilink")、[特撮](../Page/特撮.md "wikilink")番組などの時間になると、その番組を視聴し感想を[リアルタイム](../Page/リアルタイム.md "wikilink")で書き込む事が日常化した。もちろん、当時は[インターネット](../Page/インターネット.md "wikilink")における[ストリーミング](../Page/ストリーミング.md "wikilink")[放送](../Page/放送.md "wikilink")などの実用的運営がまだであったため、各自がそれぞれ[テレビ](../Page/テレビ.md "wikilink")を視聴しながらその感想を述べる、[ネタ](https://ja.wikipedia.org/wiki/ネタ "wikilink")化するなどの[インターネット](../Page/インターネット.md "wikilink")[文化](../Page/文化.md "wikilink")になった。これらは 日本の[インターネット](../Page/インターネット.md "wikilink")[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")全域にまで広がっている。 黎明期における[インターネット](../Page/インターネット.md "wikilink")[文化](../Page/文化.md "wikilink")の発端の一つであるといえよう。なお、ホーダイの由来は[NTTの](../Page/日本電信電話.md "wikilink")[テレホーダイ](../Page/テレホーダイ.md "wikilink")に由来する。
 
 ### 萌えホーダイ
 
@@ -49,7 +49,7 @@
 
 ### あやしいストリート
 
-[ジオシティーズ](https://ja.wikipedia.org/wiki/ジオシティーズ "wikilink")の一区画をまるごとあやしい住人で埋め尽くし、あやしいストリートとするお遊び。だがここから色々な[ネット](../Page/ネット.md "wikilink")[文化](../Page/文化.md "wikilink")が生まれていくこととなる。[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")関係の住人も多かったことから、活発に動きがあった。特筆すべきは高槻、無職絵描き、saxyun、えここ、あおいまなぶ、デジカメ空白などによる[あやしいわーるど](https://ja.wikipedia.org/wiki/あやしいわーるど "wikilink")の同人計画などがあった。 廃墟と化したところ、現存するところと様々である。なお、このネット[文化](../Page/文化.md "wikilink")は、[あやしいわーるど](https://ja.wikipedia.org/wiki/あやしいわーるど "wikilink")全体に及ぶものになっている。
+[ジオシティーズ](../Page/ジオシティーズ.md "wikilink")の一区画をまるごとあやしい住人で埋め尽くし、あやしいストリートとするお遊び。だがここから色々な[ネット](../Page/ネット.md "wikilink")[文化](../Page/文化.md "wikilink")が生まれていくこととなる。[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")関係の住人も多かったことから、活発に動きがあった。特筆すべきは高槻、無職絵描き、saxyun、えここ、あおいまなぶ、デジカメ空白などによる[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")の同人計画などがあった。 廃墟と化したところ、現存するところと様々である。なお、このネット[文化](../Page/文化.md "wikilink")は、[あやしいわーるど](../Page/あやしいわーるど.md "wikilink")全体に及ぶものになっている。
 
 ### ネットラジオ
 
@@ -61,7 +61,7 @@ Tacticsチャット、あきかん掲示板などに宣伝と称して[荒らし
 
 ## その他
 
-その他、メイン級と呼ばれる掲示板が[あやしいわーるど@本店](../Page/あやしいわーるど@本店.md "wikilink")にいたるまで[WebARENA](../Page/WebARENA.md "wikilink")を利用しているのは[AGStar](https://ja.wikipedia.org/wiki/AGStar "wikilink")に先見の明があったからだと思われる。なお、色濃く[アングラ色の残っていた掲示板のためアクセス制限をした事が後のリバース系分裂を招き](https://ja.wikipedia.org/wiki/アンダーグラウンド_\(文化\) "wikilink")、同時にあやしいわーるどIIが衰退していく原因になったと考えられる。
+その他、メイン級と呼ばれる掲示板が[あやしいわーるど@本店](../Page/あやしいわーるど@本店.md "wikilink")にいたるまで[WebARENA](../Page/WebARENA.md "wikilink")を利用しているのは[AGStar](https://ja.wikipedia.org/wiki/AGStar "wikilink")に先見の明があったからだと思われる。なお、色濃く[アングラ色の残っていた掲示板のためアクセス制限をした事が後のリバース系分裂を招き](../Page/アンダーグラウンド_\(文化\).md "wikilink")、同時にあやしいわーるどIIが衰退していく原因になったと考えられる。
 
 ## 各掲示板設立の経緯
 
@@ -69,7 +69,7 @@ Tacticsチャット、あきかん掲示板などに宣伝と称して[荒らし
 
 ### あやしいわーるど@クリスマス島　設立の経緯
 
-[1999年](../Page/1999年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")相次ぐトラブル、 \[9\] アクセス制限などで辟易した住人たちが後の「[あやしいわーるど@クリスマス島](https://ja.wikipedia.org/wiki/あやしいわーるど@クリスマス島 "wikilink")」を設立。 \[10\] 当初の名称は「とりあえずの退避用」である。その後「あやしいわーるど@？？？」となり、住人の意見により「あやしいわーるど@わかな」となる。その後[ランダム](../Page/ランダム.md "wikilink")名の時代を経て 「[あやしいわーるど@クリスマス島](https://ja.wikipedia.org/wiki/あやしいわーるど@クリスマス島 "wikilink")」で定着する。島であるため、管理者は酋長と呼ばれている。
+[1999年](../Page/1999年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")相次ぐトラブル、 \[9\] アクセス制限などで辟易した住人たちが後の「[あやしいわーるど@クリスマス島](../Page/あやしいわーるど@クリスマス島.md "wikilink")」を設立。 \[10\] 当初の名称は「とりあえずの退避用」である。その後「あやしいわーるど@？？？」となり、住人の意見により「あやしいわーるど@わかな」となる。その後[ランダム](../Page/ランダム.md "wikilink")名の時代を経て 「[あやしいわーるど@クリスマス島](../Page/あやしいわーるど@クリスマス島.md "wikilink")」で定着する。島であるため、管理者は酋長と呼ばれている。
 
 ### 相談君事件
 
@@ -105,10 +105,10 @@ II以外のそれぞれの掲示板に多数いる。通称弾かれ難民。管
 
 ## 関連項目
 
-  - [自作自演 (インターネット)](https://ja.wikipedia.org/wiki/自作自演_\(インターネット\) "wikilink")
-  - [匿名掲示板](https://ja.wikipedia.org/wiki/匿名掲示板 "wikilink")
+  - [自作自演 (インターネット)](../Page/自作自演_\(インターネット\).md "wikilink")
+  - [匿名掲示板](../Page/匿名掲示板.md "wikilink")
   - [ブラウザクラッシャー](../Page/ブラウザクラッシャー.md "wikilink")
-  - [着せ替え人形](https://ja.wikipedia.org/wiki/着せ替え人形 "wikilink")
+  - [着せ替え人形](../Page/着せ替え人形.md "wikilink")
 
 ## 外部リンク
 
@@ -120,7 +120,7 @@ II以外のそれぞれの掲示板に多数いる。通称弾かれ難民。管
 
 [Category:あやしいわーるど](https://ja.wikipedia.org/wiki/Category:あやしいわーるど "wikilink")
 
-1.  [特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律](https://ja.wikipedia.org/wiki/特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律 "wikilink")の成立かつ周知、その他善管注意義務周知などの[ネット社会的](../Page/インターネット.md "wikilink")[モラル向上により](../Page/道徳.md "wikilink") 現在では行われていない。
+1.  [特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律](../Page/特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律.md "wikilink")の成立かつ周知、その他善管注意義務周知などの[ネット社会的](../Page/インターネット.md "wikilink")[モラル向上により](../Page/道徳.md "wikilink") 現在では行われていない。
 2.  [開始当初のログ](http://strangedb.ath.cx/getlog/ii/getlog.cgi?l=19990708&l=19990709&p=199907&move=&q=&o=a&t=all&sh=0&sm=00&eh=24&em=00&er=30&tm=)
 3.  [ホスティングサーバ](../Page/ホスティングサーバ.md "wikilink")の[ネット帯域幅制限などにより制約を受け通信端末](https://ja.wikipedia.org/wiki/帯域幅#Web_ホスティングにおける帯域幅 "wikilink")（Webブラウザ）のリクエスト反応速度が遅くなること
 4.

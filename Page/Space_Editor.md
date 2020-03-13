@@ -3,7 +3,7 @@
 
 **Space Editor**（スペース・エディタ）は、[Microsoft Windows向けの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[テキストエディタ](../Page/テキストエディタ.md "wikilink")である。
 
-[Windows 95以降](../Page/Microsoft_Windows_95.md "wikilink")、[Windows 2000までの環境上で動作が保証されているが](../Page/Microsoft_Windows_2000.md "wikilink")、[Windows XP以降では正式対応がアナウンスされていない](../Page/Microsoft_Windows_XP.md "wikilink")。自由なカスタマイズ機能が提供され、強力な[マクロ機能が実装されたテキストエディタとして](https://ja.wikipedia.org/wiki/マクロ_\(コンピュータ用語\) "wikilink")、主に文書作成用途で広く利用されている。
+[Windows 95以降](../Page/Microsoft_Windows_95.md "wikilink")、[Windows 2000までの環境上で動作が保証されているが](../Page/Microsoft_Windows_2000.md "wikilink")、[Windows XP以降では正式対応がアナウンスされていない](../Page/Microsoft_Windows_XP.md "wikilink")。自由なカスタマイズ機能が提供され、強力な[マクロ機能が実装されたテキストエディタとして](../Page/マクロ_\(コンピュータ用語\).md "wikilink")、主に文書作成用途で広く利用されている。
 
 ## 特徴
 
@@ -23,7 +23,7 @@
 
 ### マクロ
 
-C言語ライクな[マクロ言語](../Page/マクロ言語.md "wikilink")が実装されており、動作も比較的軽い。戻り値を持った[関数を定義できるため](https://ja.wikipedia.org/wiki/サブルーチン "wikilink")、エディタ付属のマクロ言語としては高度なプログラミングが行えるのも特徴。また、マクロ言語の他にキー操作を記録させる簡易マクロ機能もある。
+C言語ライクな[マクロ言語](../Page/マクロ言語.md "wikilink")が実装されており、動作も比較的軽い。戻り値を持った[関数を定義できるため](../Page/サブルーチン.md "wikilink")、エディタ付属のマクロ言語としては高度なプログラミングが行えるのも特徴。また、マクロ言語の他にキー操作を記録させる簡易マクロ機能もある。
 
 ## 関連項目
 

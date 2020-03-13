@@ -22,8 +22,8 @@
 
 <!-- end list -->
 
-  - [クリス・ペプラー](https://ja.wikipedia.org/wiki/クリス・ペプラー "wikilink")
-  - [飯星景子](https://ja.wikipedia.org/wiki/飯星景子 "wikilink")
+  - [クリス・ペプラー](../Page/クリス・ペプラー.md "wikilink")
+  - [飯星景子](../Page/飯星景子.md "wikilink")
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - [関谷亜矢子](../Page/関谷亜矢子.md "wikilink")（当時日本テレビアナウンサー） - 番組ラストのコーナー「雨予報」を担当。コーナーBGMは[ジーン・ケリー](https://ja.wikipedia.org/wiki/ジーン・ケリー "wikilink")の楽曲「[雨に唄えば](../Page/雨に唄えば.md "wikilink")」。
+  - [関谷亜矢子](../Page/関谷亜矢子.md "wikilink")（当時日本テレビアナウンサー） - 番組ラストのコーナー「雨予報」を担当。コーナーBGMは[ジーン・ケリー](../Page/ジーン・ケリー.md "wikilink")の楽曲「[雨に唄えば](../Page/雨に唄えば.md "wikilink")」。
 
 ## 放送局
 
@@ -55,7 +55,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a> (STV)</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a> (STV)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -197,7 +197,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a> (FBS)</p></td>
 <td></td>
 <td></td>

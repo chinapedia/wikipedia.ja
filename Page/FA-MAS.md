@@ -1,25 +1,25 @@
 > この記事は[FA-MAS](https://ja.wikipedia.org/wiki/FA-MAS)から翻訳されています。
 
 
-**FA-MAS**（**F**usil d' **A**ssaut de la **M**anufacture d' **A**rmes de **S**aint-Étienne：ファマス、ファーマス）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[GIAT](https://ja.wikipedia.org/wiki/GIAT "wikilink")（現・[NEXTER](https://ja.wikipedia.org/wiki/ネクスター "wikilink")）傘下の[サン＝テチエンヌ造兵廠が製造した](../Page/サン＝テティエンヌ.md "wikilink")[ブルパップ方式](https://ja.wikipedia.org/wiki/ブルパップ方式 "wikilink")の[アサルトライフル](../Page/アサルトライフル.md "wikilink")である。
+**FA-MAS**（**F**usil d' **A**ssaut de la **M**anufacture d' **A**rmes de **S**aint-Étienne：ファマス、ファーマス）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[GIAT](https://ja.wikipedia.org/wiki/GIAT "wikilink")（現・[NEXTER](https://ja.wikipedia.org/wiki/ネクスター "wikilink")）傘下の[サン＝テチエンヌ造兵廠が製造した](../Page/サン＝テティエンヌ.md "wikilink")[ブルパップ方式](../Page/ブルパップ方式.md "wikilink")の[アサルトライフル](../Page/アサルトライフル.md "wikilink")である。
 
 文書によっては-を省略してFAMASと書かれる場合もある。その形状から、「[クレーロン](../Page/ビューグル.md "wikilink")」（, 軍隊ラッパ）とも通称された。
 
 ## 概要
 
-[1977年](../Page/1977年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に[フランス陸軍](../Page/フランス陸軍.md "wikilink")が旧式化した[MAS 49半自動小銃や](../Page/MAS_49半自動小銃.md "wikilink")[MAT 49の後継として制式採用した](../Page/MAT_49.md "wikilink")。価格はF1が1,500[€](../Page/ユーロ.md "wikilink")（[ユーロ](../Page/ユーロ.md "wikilink")）、G2が3,000€。 [thumbを装着したFA](https://ja.wikipedia.org/wiki/ファイル:French_Armed_Forces.JPEG "wikilink")-MASを装備したフランス空軍兵\]\] FA-MASは、全長75.7cm、重量3.7kg、[口径](../Page/口径.md "wikilink")5.56mmの[ブルパップ型](https://ja.wikipedia.org/wiki/ブルパップ方式 "wikilink")[ライフルで](../Page/小銃.md "wikilink")、上部には[M16のような](../Page/M16自動小銃.md "wikilink")[照準器](https://ja.wikipedia.org/wiki/照準器 "wikilink")を兼用する大型キャリングハンドルがあり、[二脚](../Page/二脚.md "wikilink")を標準装備している。初期型のF1や後継のG1では専用の25発[弾倉](../Page/弾倉.md "wikilink")を使用し、弾倉を装着していない際に異物が銃へ侵入しないよう、マガジンウェルに挿入するダミーブロックが用意されている。[1994年](../Page/1994年.md "wikilink")から製造されているG2バージョンからは[STANAG マガジンが使用できる](https://ja.wikipedia.org/wiki/STANAG_マガジン "wikilink")。
+[1977年](../Page/1977年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に[フランス陸軍](../Page/フランス陸軍.md "wikilink")が旧式化した[MAS 49半自動小銃や](../Page/MAS_49半自動小銃.md "wikilink")[MAT 49の後継として制式採用した](../Page/MAT_49.md "wikilink")。価格はF1が1,500[€](../Page/ユーロ.md "wikilink")（[ユーロ](../Page/ユーロ.md "wikilink")）、G2が3,000€。 [thumbを装着したFA](https://ja.wikipedia.org/wiki/ファイル:French_Armed_Forces.JPEG "wikilink")-MASを装備したフランス空軍兵\]\] FA-MASは、全長75.7cm、重量3.7kg、[口径](../Page/口径.md "wikilink")5.56mmの[ブルパップ型](../Page/ブルパップ方式.md "wikilink")[ライフルで](../Page/小銃.md "wikilink")、上部には[M16のような](../Page/M16自動小銃.md "wikilink")[照準器](../Page/照準器.md "wikilink")を兼用する大型キャリングハンドルがあり、[二脚](../Page/二脚.md "wikilink")を標準装備している。初期型のF1や後継のG1では専用の25発[弾倉](../Page/弾倉.md "wikilink")を使用し、弾倉を装着していない際に異物が銃へ侵入しないよう、マガジンウェルに挿入するダミーブロックが用意されている。[1994年](../Page/1994年.md "wikilink")から製造されているG2バージョンからは[STANAG マガジンが使用できる](https://ja.wikipedia.org/wiki/STANAG_マガジン "wikilink")。
 
 [装備総局](https://ja.wikipedia.org/wiki/装備総局 "wikilink")は[2017年](../Page/2017年.md "wikilink")より順次[H\&K HK416Fと入れ替えていくと公表した](../Page/H&K_HK416.md "wikilink")\[1\]。交換作業は2027年終了を目指している。
 
 ## 特徴
 
-[FAMAS_Bolt-gr.PNG](https://ja.wikipedia.org/wiki/File:FAMAS_Bolt-gr.PNG "fig:FAMAS_Bolt-gr.PNG")が構成されている\]\] 携帯性向上のため、[銃身を縮めずに全長の短縮が可能な](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")[ブルパップ型のデザインとなっており](https://ja.wikipedia.org/wiki/ブルパップ方式 "wikilink")、作動機構として[AA-52](../Page/AA-52.md "wikilink")[機関銃](../Page/機関銃.md "wikilink")と同様の[レバー遅延式ブローバックを採用している](https://ja.wikipedia.org/wiki/ブローバック#レバー遅延式 "wikilink")。レバー遅延式ブローバックは、[てこ](../Page/てこ.md "wikilink")の原理を利用してボルトの開放を遅延させる方式で、[H\&K G3](../Page/H&K_G3.md "wikilink")[小銃](../Page/小銃.md "wikilink")や[H\&K HK21機関銃の](https://ja.wikipedia.org/wiki/H&K_HK21 "wikilink")[ローラー遅延式ブローバックと同じ系統の作動方式だが](https://ja.wikipedia.org/wiki/ブローバック#ローラー遅延式 "wikilink")、こちらはレシーバー・ボルト・ボルトキャリアの三部品が2本の爪を持つレバー（てこ）を介して連結される構造となっている。
+[FAMAS_Bolt-gr.PNG](https://ja.wikipedia.org/wiki/File:FAMAS_Bolt-gr.PNG "fig:FAMAS_Bolt-gr.PNG")が構成されている\]\] 携帯性向上のため、[銃身を縮めずに全長の短縮が可能な](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")[ブルパップ型のデザインとなっており](../Page/ブルパップ方式.md "wikilink")、作動機構として[AA-52](../Page/AA-52.md "wikilink")[機関銃](../Page/機関銃.md "wikilink")と同様の[レバー遅延式ブローバックを採用している](https://ja.wikipedia.org/wiki/ブローバック#レバー遅延式 "wikilink")。レバー遅延式ブローバックは、[てこ](../Page/てこ.md "wikilink")の原理を利用してボルトの開放を遅延させる方式で、[H\&K G3](../Page/H&K_G3.md "wikilink")[小銃](../Page/小銃.md "wikilink")や[H\&K HK21機関銃の](https://ja.wikipedia.org/wiki/H&K_HK21 "wikilink")[ローラー遅延式ブローバックと同じ系統の作動方式だが](https://ja.wikipedia.org/wiki/ブローバック#ローラー遅延式 "wikilink")、こちらはレシーバー・ボルト・ボルトキャリアの三部品が2本の爪を持つレバー（てこ）を介して連結される構造となっている。
 
 ガス・ポートが存在しない長い銃身を持つため、命中精度は良好であり、反動を制御し易いブルパップ形状、銃身軸線が射手の肩の下方に位置するデザイン、反動がマイルドなレバー遅延式ブローバックの効果、などが複合して連射時の安定性・集弾性はともに良好であるとされる。
 
-セレクターにも工夫があり、オプションパーツとしてバースト（3点射）ユニットが組み込めるようになっている。これは安全装置とは別の切り替えスイッチが用意され、ONにすることによりフルオートがバーストへと切り替わる。FA-MASのバースト（3点射）は、反動で射手の姿勢が変化する前に高速で3点射を行う事で集弾性を向上させていて、この発想は[H\&K G11や](../Page/H&K_G11.md "wikilink")[VP70の影響から生まれたもので](https://ja.wikipedia.org/wiki/H&K_VP70 "wikilink")、同様の発想に基づく製品としては[M93Rや](https://ja.wikipedia.org/wiki/ベレッタM93R "wikilink")[AN-94](../Page/AN-94.md "wikilink")が知られている。
+セレクターにも工夫があり、オプションパーツとしてバースト（3点射）ユニットが組み込めるようになっている。これは安全装置とは別の切り替えスイッチが用意され、ONにすることによりフルオートがバーストへと切り替わる。FA-MASのバースト（3点射）は、反動で射手の姿勢が変化する前に高速で3点射を行う事で集弾性を向上させていて、この発想は[H\&K G11や](../Page/H&K_G11.md "wikilink")[VP70の影響から生まれたもので](../Page/H&K_VP70.md "wikilink")、同様の発想に基づく製品としては[M93Rや](../Page/ベレッタM93R.md "wikilink")[AN-94](../Page/AN-94.md "wikilink")が知られている。
 
-さらにFA-MASには[ライフルグレネードの運用機能もあり](https://ja.wikipedia.org/wiki/グレネードランチャー#小銃擲弾 "wikilink")、対人・対[軽装甲用の](../Page/装甲.md "wikilink")[APAV 40と対装甲用の](https://ja.wikipedia.org/wiki/APAV40_ライフルグレネード "wikilink")[AC 58が用意されている](https://ja.wikipedia.org/wiki/AC58_ライフルグレネード "wikilink")。直接照準用と間接照準用の[アリダード](https://ja.wikipedia.org/wiki/アリダード "wikilink")式[照準器](https://ja.wikipedia.org/wiki/照準器 "wikilink")二種類が付属しており、前者は射距離75ないし100メートルの対装甲車両戦闘時に用いる。後者では、射手が伏せ撃ちの姿勢を取って、床尾板を地面に当てたFA-MASを斜めに支えて用いる。射距離の調節は、FA-MASの水平面からの角度と、ライフルグレネードを銃口に差し込む長さとを組み合わせることで行い、最長340メートルと設定されている。
+さらにFA-MASには[ライフルグレネードの運用機能もあり](https://ja.wikipedia.org/wiki/グレネードランチャー#小銃擲弾 "wikilink")、対人・対[軽装甲用の](../Page/装甲.md "wikilink")[APAV 40と対装甲用の](https://ja.wikipedia.org/wiki/APAV40_ライフルグレネード "wikilink")[AC 58が用意されている](https://ja.wikipedia.org/wiki/AC58_ライフルグレネード "wikilink")。直接照準用と間接照準用の[アリダード](https://ja.wikipedia.org/wiki/アリダード "wikilink")式[照準器](../Page/照準器.md "wikilink")二種類が付属しており、前者は射距離75ないし100メートルの対装甲車両戦闘時に用いる。後者では、射手が伏せ撃ちの姿勢を取って、床尾板を地面に当てたFA-MASを斜めに支えて用いる。射距離の調節は、FA-MASの水平面からの角度と、ライフルグレネードを銃口に差し込む長さとを組み合わせることで行い、最長340メートルと設定されている。
 
 初期型では照準器を兼ねるキャリングハンドルが固定式であることから、取り付けられる光学照準器が制限されていたが、後期型ではキャリングハンドルを脱着式とし、[ピカティニー・レール](../Page/ピカティニー・レール.md "wikilink")付きの物に交換できるよう改良された。ただ、取り付け部直下にボルトハンドルが存在するため、光学照準機は実際の射線から離れてしまう。
 
@@ -55,7 +55,7 @@
     G1をSTANAG マガジンが使用できるようにしたモデル。
 
       - G2 コマンド
-        [カービン](https://ja.wikipedia.org/wiki/カービン "wikilink")モデル。
+        [カービン](../Page/カービン.md "wikilink")モデル。
 
   - ; G2 SMG
 
@@ -94,16 +94,16 @@
 ### 映画・テレビドラマ
 
   - 『[スズメバチ](../Page/スズメバチ_\(映画\).md "wikilink")』
-    全編を通じて主人公が使用。[ブルパップ方式](https://ja.wikipedia.org/wiki/ブルパップ方式 "wikilink")の本銃の特性を生かし、室内戦で威力を発揮する。
+    全編を通じて主人公が使用。[ブルパップ方式](../Page/ブルパップ方式.md "wikilink")の本銃の特性を生かし、室内戦で威力を発揮する。
 
-  - 『[特捜戦隊デカレンジャー](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャー "wikilink")』
+  - 『[特捜戦隊デカレンジャー](../Page/特捜戦隊デカレンジャー.md "wikilink")』
     第49話に[S.P.D.の装備としてG](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャーの登場人物#宇宙警察 "wikilink")1が登場。一般隊員たちが[デカベースに侵入してきた](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャーの装備・戦力#デカベース "wikilink")[ドロイド軍団に対して使用する](https://ja.wikipedia.org/wiki/特捜戦隊デカレンジャー#アリエナイザーの装備 "wikilink")。
 
   - 『[平成仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ#平成仮面ライダーシリーズ "wikilink")』
 
 :; 『[仮面ライダークウガ](../Page/仮面ライダークウガ.md "wikilink")』
 
-:: 第39話に[警視庁](../Page/警視庁.md "wikilink")[SATの装備としてG](https://ja.wikipedia.org/wiki/特殊急襲部隊 "wikilink")1が登場。[未確認生命体第](https://ja.wikipedia.org/wiki/仮面ライダークウガ#グロンギ "wikilink")43号「[ゴ・ザザル・バ](https://ja.wikipedia.org/wiki/仮面ライダークウガ#ゴ集団 "wikilink")」に対して、第43号が持つ毒素を[中和](https://ja.wikipedia.org/wiki/中和 "wikilink")する成分を含んだ[弾丸](../Page/弾丸.md "wikilink")を撃ち込むために使用される。
+:: 第39話に[警視庁](../Page/警視庁.md "wikilink")[SATの装備としてG](../Page/特殊急襲部隊.md "wikilink")1が登場。[未確認生命体第](https://ja.wikipedia.org/wiki/仮面ライダークウガ#グロンギ "wikilink")43号「[ゴ・ザザル・バ](https://ja.wikipedia.org/wiki/仮面ライダークウガ#ゴ集団 "wikilink")」に対して、第43号が持つ毒素を[中和](https://ja.wikipedia.org/wiki/中和 "wikilink")する成分を含んだ[弾丸](../Page/弾丸.md "wikilink")を撃ち込むために使用される。
 
 :; 『[仮面ライダー555](../Page/仮面ライダー555.md "wikilink")』
 
@@ -125,7 +125,7 @@
     Project PAPO「First」第4話にて登場。[兵士](../Page/兵士.md "wikilink")が使用。
 
   - 『[エウレカセブンAO](https://ja.wikipedia.org/wiki/エウレカセブンAO "wikilink")』
-    ゲネラシオン・ブル社の[警備員](https://ja.wikipedia.org/wiki/警備員 "wikilink")などが装備している。
+    ゲネラシオン・ブル社の[警備員](../Page/警備員.md "wikilink")などが装備している。
 
   - 『[キューティクル探偵因幡](https://ja.wikipedia.org/wiki/キューティクル探偵因幡 "wikilink")』
     OPに登場。
@@ -179,11 +179,11 @@
   - 『[ディビジョン](https://ja.wikipedia.org/wiki/ディビジョン_\(ゲーム\) "wikilink")』
     「FAMAS」の名称で登場後、「ブルフロッグ」に改称される。
 
-  - 『[バトルフィールドシリーズ](https://ja.wikipedia.org/wiki/バトルフィールド_\(コンピューターゲーム\) "wikilink")』
+  - 『[バトルフィールドシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")』
 
 :; 『[BF2](../Page/バトルフィールド2.md "wikilink")』
 
-:: [EU](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")[衛生兵](https://ja.wikipedia.org/wiki/衛生兵 "wikilink")で使用可能。
+:: [EU](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")[衛生兵](../Page/衛生兵.md "wikilink")で使用可能。
 
 ::; 『[Project Reality（BF2）](https://ja.wikipedia.org/wiki/Project_Reality "wikilink")』
 
@@ -199,11 +199,11 @@
 
 :; 『[BF4](https://ja.wikipedia.org/wiki/バトルフィールド4 "wikilink")』
 
-:: ゲーム内の[兵科](https://ja.wikipedia.org/wiki/兵科 "wikilink")、突撃兵の[武器](../Page/武器.md "wikilink")として登場。
+:: ゲーム内の[兵科](../Page/兵科.md "wikilink")、突撃兵の[武器](../Page/武器.md "wikilink")として登場。
 
 :; 『[BFH](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
 
-  - 『[メタルギアソリッド](https://ja.wikipedia.org/wiki/メタルギアソリッド "wikilink")』
+  - 『[メタルギアソリッド](../Page/メタルギアソリッド.md "wikilink")』
     [スネークと敵兵が使用](../Page/ソリッド・スネーク.md "wikilink")。
   - 『[レインボーシックス シージ](https://ja.wikipedia.org/wiki/レインボーシックス_シージ "wikilink")』
     「F2」の名称で登場。攻撃オペレーター「TWITCH」で使用可能。
@@ -215,9 +215,9 @@
 ## 関連項目
 
   - [小銃・自動小銃等一覧](../Page/小銃・自動小銃等一覧.md "wikilink")
-  - [ブルパップ方式](https://ja.wikipedia.org/wiki/ブルパップ方式 "wikilink")
+  - [ブルパップ方式](../Page/ブルパップ方式.md "wikilink")
   - [ステアーAUG](https://ja.wikipedia.org/wiki/ステアーAUG "wikilink")
-  - [L85](https://ja.wikipedia.org/wiki/L85 "wikilink")
+  - [L85](../Page/L85.md "wikilink")
   - [VHS](https://ja.wikipedia.org/wiki/VHS_\(アサルトライフル\) "wikilink") - [クロアチア](../Page/クロアチア.md "wikilink")で開発された外観がFA-MASに似た[アサルトライフル](../Page/アサルトライフル.md "wikilink")。
   - [95式自動歩槍](https://ja.wikipedia.org/wiki/95式自動歩槍 "wikilink") - ブルパップ方式を採用した[中国北方工業公司（Norinco）製アサルトライフル](../Page/中国兵器工業集団.md "wikilink")。外見がFA-MASと類似していることから、一部では「チャイナトランペット」「チャマス」等と呼称されることがある。
 

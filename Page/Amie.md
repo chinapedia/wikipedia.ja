@@ -47,8 +47,8 @@
   - ケンジ（笹野鳥生）1998年6月号
   - 恋呪い（[大橋薫](../Page/大橋薫.md "wikilink")）1997年10月号
   - 御主人様の言うとおり（大橋薫）1997年4月号
-  - 子供部屋のクローゼットノーツ（[寺田克也](../Page/寺田克也.md "wikilink")、協力:[佐藤嗣麻子](https://ja.wikipedia.org/wiki/佐藤嗣麻子 "wikilink")・[七月鏡一](../Page/七月鏡一.md "wikilink")）1997年10月号
-  - コマンドはGO HAPPY（[秋元奈美](https://ja.wikipedia.org/wiki/秋元奈美 "wikilink")）1997年5月号
+  - 子供部屋のクローゼットノーツ（[寺田克也](../Page/寺田克也.md "wikilink")、協力:[佐藤嗣麻子](../Page/佐藤嗣麻子.md "wikilink")・[七月鏡一](../Page/七月鏡一.md "wikilink")）1997年10月号
+  - コマンドはGO HAPPY（[秋元奈美](../Page/秋元奈美.md "wikilink")）1997年5月号
   - こんにちは パパママ（[柴田亜美](../Page/柴田亜美.md "wikilink")）1997年4月号
 
 ### さ行
@@ -135,7 +135,7 @@
   - 1997年3月号・4月号
     香港超常現象捜査官番外編 無問題（[星野ケイ](https://ja.wikipedia.org/wiki/星野ケイ "wikilink")、イラスト：[安永圭](https://ja.wikipedia.org/wiki/安永圭 "wikilink")）
   - 1997年5月号・6月号
-    TALE OF A VAMPIRE（[佐藤嗣麻子](https://ja.wikipedia.org/wiki/佐藤嗣麻子 "wikilink")、イラスト：[田村由美](../Page/田村由美.md "wikilink")）
+    TALE OF A VAMPIRE（[佐藤嗣麻子](../Page/佐藤嗣麻子.md "wikilink")、イラスト：[田村由美](../Page/田村由美.md "wikilink")）
   - 1997年7月号・8月号
     空牙（[梶研吾](../Page/梶研吾.md "wikilink")、イラスト：[山田章博](../Page/山田章博.md "wikilink")）
   - 1997年9月号
@@ -150,7 +150,7 @@
 ## コミックエッセイ ハマってますマイ・ブーム
 
   - 1997年2月号 - [池沢理美](../Page/池沢理美.md "wikilink")
-  - 1997年3月号 - [秋元奈美](https://ja.wikipedia.org/wiki/秋元奈美 "wikilink")
+  - 1997年3月号 - [秋元奈美](../Page/秋元奈美.md "wikilink")
   - 1997年4月号 - [西炯子](../Page/西炯子.md "wikilink")
   - 1997年5月号 - [萩尾望都](../Page/萩尾望都.md "wikilink")
   - 1997年6月号 - [安永圭](https://ja.wikipedia.org/wiki/安永圭 "wikilink")

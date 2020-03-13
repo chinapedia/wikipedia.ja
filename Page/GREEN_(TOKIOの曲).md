@@ -29,7 +29,7 @@
       -
         作詞・作曲：[Tom Nashville](../Page/長瀬智也.md "wikilink")、編曲：Tom Nashville・[KAM](https://ja.wikipedia.org/wiki/KAM_\(編曲家\) "wikilink")
     <!-- end list -->
-      - [TBS系](../Page/TBSテレビ.md "wikilink")「[ガチンコ\!](https://ja.wikipedia.org/wiki/ガチンコ! "wikilink")」“日本一モテない男” テーマソング
+      - [TBS系](../Page/TBSテレビ.md "wikilink")「[ガチンコ\!](../Page/ガチンコ!.md "wikilink")」“日本一モテない男” テーマソング
 2.  **GREEN**
       -
         作詞・作曲：[HIKARI](../Page/HIKARI.md "wikilink")、編曲：[島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink")

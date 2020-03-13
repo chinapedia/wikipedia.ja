@@ -5,11 +5,11 @@
 
 ## 概要
 
-  - [メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[シングル](../Page/シングル.md "wikilink")。今作と次作「[不思議ね…](https://ja.wikipedia.org/wiki/不思議ね… "wikilink")」、後に発売された1stアルバム『[Good-bye My Loneliness](https://ja.wikipedia.org/wiki/Good-bye_My_Loneliness_\(アルバム\) "wikilink")』のみ**Zard**名義で発売された。
-  - 表題曲は[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")と[田中美佐子](https://ja.wikipedia.org/wiki/田中美佐子 "wikilink")主演の[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[結婚の理想と現実](../Page/結婚の理想と現実.md "wikilink")』の[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink")に起用された。プロデューサーの[亀山千広](../Page/亀山千広.md "wikilink")は[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")に主題歌を依頼しに行ったが、大滝本人から「今一番売れてるのは[ビーイング](../Page/ビーイング.md "wikilink")だ」と言われたため、ビーイングに出向き[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")からデビューを考えている新人アーティスト数名のデモテープを聞かしてもらい、その中からZARDが選ばれた\[1\]。
-  - ZARDのシングルでは本作と次作「[不思議ね…](https://ja.wikipedia.org/wiki/不思議ね… "wikilink")」のみ、[CD規格では](../Page/コンパクトディスク.md "wikilink")[オリジナル・カラオケが収録されておらず](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")、[カセット規格のみオリジナル](../Page/カセットテープ.md "wikilink")・カラオケが収録された。
-  - [ジャケットは長戸の提案で元々撮影日に](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[アートディレクター](https://ja.wikipedia.org/wiki/アートディレクター "wikilink")の鈴木謙一が羽織っていた[革ジャン](https://ja.wikipedia.org/wiki/革ジャン "wikilink")を着用して撮影された\[2\]。また、この際に撮影された別ショットにはデビュー前の[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")が一緒に写っており、2019年写真が公開された。
-  - [オリコン初登場は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")28位だったが、発売から4週目に9位に入りデビューシングルでありながら、初となるトップ10入りを果たす。また、初の年間チャート入りも果たした。
+  - [メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")[シングル](../Page/シングル.md "wikilink")。今作と次作「[不思議ね…](../Page/不思議ね….md "wikilink")」、後に発売された1stアルバム『[Good-bye My Loneliness](../Page/Good-bye_My_Loneliness_\(アルバム\).md "wikilink")』のみ**Zard**名義で発売された。
+  - 表題曲は[中村雅俊](https://ja.wikipedia.org/wiki/中村雅俊 "wikilink")と[田中美佐子](../Page/田中美佐子.md "wikilink")主演の[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[結婚の理想と現実](../Page/結婚の理想と現実.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に起用された。プロデューサーの[亀山千広](../Page/亀山千広.md "wikilink")は[大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")に主題歌を依頼しに行ったが、大滝本人から「今一番売れてるのは[ビーイング](../Page/ビーイング.md "wikilink")だ」と言われたため、ビーイングに出向き[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")からデビューを考えている新人アーティスト数名のデモテープを聞かしてもらい、その中からZARDが選ばれた\[1\]。
+  - ZARDのシングルでは本作と次作「[不思議ね…](../Page/不思議ね….md "wikilink")」のみ、[CD規格では](../Page/コンパクトディスク.md "wikilink")[オリジナル・カラオケが収録されておらず](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")、[カセット規格のみオリジナル](../Page/カセットテープ.md "wikilink")・カラオケが収録された。
+  - [ジャケットは長戸の提案で元々撮影日に](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")[アートディレクター](../Page/アートディレクター.md "wikilink")の鈴木謙一が羽織っていた[革ジャン](https://ja.wikipedia.org/wiki/革ジャン "wikilink")を着用して撮影された\[2\]。また、この際に撮影された別ショットにはデビュー前の[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")が一緒に写っており、2019年写真が公開された。
+  - [オリコン初登場は](../Page/オリコンチャート.md "wikilink")28位だったが、発売から4週目に9位に入りデビューシングルでありながら、初となるトップ10入りを果たす。また、初の年間チャート入りも果たした。
 
 ## 収録曲
 
@@ -20,11 +20,11 @@
 
         作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
         作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")
-        編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 
         </div>
 
-        「Message for ZARD 25th Anniversary」にて[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")が[コーラスで参加したことを明かしている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。また、制作時に[コンセプトとなった楽曲が](../Page/概念.md "wikilink")[坂本九](../Page/坂本九.md "wikilink")の「[涙くんさよなら](https://ja.wikipedia.org/wiki/涙くんさよなら "wikilink")」だと後に明かされている。この楽曲の[オリジナル・カラオケは](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")[カセット規格でしか音源化されていなかったが](../Page/カセットテープ.md "wikilink")、坂井逝去後の[2017年](../Page/2017年.md "wikilink")7月12日に発売された隔週刊『ZARD CD＆DVD COLLECTION 第11号 Good-bye My Loneliness』にて初めて[CD規格で音源化された](../Page/コンパクトディスク.md "wikilink")。[ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")は当時映画監督デビュー前だった[岩井俊二](../Page/岩井俊二.md "wikilink")が担当した。1997年発売の「[ZARD BLEND〜SUN & STONE〜](https://ja.wikipedia.org/wiki/ZARD_BLEND〜SUN_&_STONE〜 "wikilink")」では再レコーディングされている。
+        「Message for ZARD 25th Anniversary」にて[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")が[コーラスで参加したことを明かしている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。また、制作時に[コンセプトとなった楽曲が](../Page/概念.md "wikilink")[坂本九](../Page/坂本九.md "wikilink")の「[涙くんさよなら](https://ja.wikipedia.org/wiki/涙くんさよなら "wikilink")」だと後に明かされている。この楽曲の[オリジナル・カラオケは](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink")[カセット規格でしか音源化されていなかったが](../Page/カセットテープ.md "wikilink")、坂井逝去後の[2017年](../Page/2017年.md "wikilink")7月12日に発売された隔週刊『ZARD CD＆DVD COLLECTION 第11号 Good-bye My Loneliness』にて初めて[CD規格で音源化された](../Page/コンパクトディスク.md "wikilink")。[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は当時映画監督デビュー前だった[岩井俊二](../Page/岩井俊二.md "wikilink")が担当した。1997年発売の「[ZARD BLEND〜SUN & STONE〜](../Page/ZARD_BLEND〜SUN_&_STONE〜.md "wikilink")」では再レコーディングされている。
 
 <!-- end list -->
 
@@ -34,7 +34,7 @@
         <div class="NavContent" style="text-align: left;font-size:small;">
 
         作詞：坂井泉水
-        作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
+        作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
         編曲：ZARD、[寺尾広](../Page/寺尾広.md "wikilink")
 
         </div>
@@ -59,23 +59,23 @@
 
 ## タイアップ
 
-  - [フジテレビ系列](../Page/フジネットワーク.md "wikilink")[木曜劇場](https://ja.wikipedia.org/wiki/木曜劇場 "wikilink")『[結婚の理想と現実](../Page/結婚の理想と現実.md "wikilink")』[主題歌](https://ja.wikipedia.org/wiki/主題歌 "wikilink") (\#1)
-  - 『[クラリオン](https://ja.wikipedia.org/wiki/クラリオン "wikilink")』[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink") (\#1)
+  - [フジテレビ系列](../Page/フジネットワーク.md "wikilink")[木曜劇場](../Page/木曜劇場.md "wikilink")『[結婚の理想と現実](../Page/結婚の理想と現実.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink") (\#1)
+  - 『[クラリオン](../Page/クラリオン.md "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink") (\#1)
 
 ## 収録アルバム
 
-  - [Good-bye My Loneliness](https://ja.wikipedia.org/wiki/Good-bye_My_Loneliness_\(アルバム\) "wikilink") (\#1,2)
-  - [ZARD BLEND〜SUN & STONE〜](https://ja.wikipedia.org/wiki/ZARD_BLEND〜SUN_&_STONE〜 "wikilink") (\#1)
-  - [Golden Best 〜15th Anniversary〜](https://ja.wikipedia.org/wiki/Golden_Best_〜15th_Anniversary〜 "wikilink") (\#1)
+  - [Good-bye My Loneliness](../Page/Good-bye_My_Loneliness_\(アルバム\).md "wikilink") (\#1,2)
+  - [ZARD BLEND〜SUN & STONE〜](../Page/ZARD_BLEND〜SUN_&_STONE〜.md "wikilink") (\#1)
+  - [Golden Best 〜15th Anniversary〜](../Page/Golden_Best_〜15th_Anniversary〜.md "wikilink") (\#1)
   - [ZARD SINGLE COLLECTION 〜20th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ZARD_SINGLE_COLLECTION_〜20th_ANNIVERSARY〜 "wikilink") (\#1,2)
   - [ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink") (\#1)
-  - [d-project with ZARD](https://ja.wikipedia.org/wiki/d-project_with_ZARD "wikilink") (\#2、ゲストボーカルに[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、ラップ詞を元[DA PUMPのKENによって書き下ろし追加しラップとして参加](https://ja.wikipedia.org/wiki/DA_PUMP "wikilink"))
+  - [d-project with ZARD](https://ja.wikipedia.org/wiki/d-project_with_ZARD "wikilink") (\#2、ゲストボーカルに[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、ラップ詞を元[DA PUMPのKENによって書き下ろし追加しラップとして参加](../Page/DA_PUMP.md "wikilink"))
 
 ## カバー
 
 | 曲名                                                                            | アーティスト                                                            | 収録作品                                                                     | 発売日                                                                      | 備考               |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ---------------- |
-| **Good-bye My Loneliness**                                                    | [DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")   | 『Loneliness』                                                             | [2004年](../Page/2004年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") |                  |
+| **Good-bye My Loneliness**                                                    | [DIMENSION](../Page/DIMENSION.md "wikilink")                      | 『Loneliness』                                                             | [2004年](../Page/2004年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") |                  |
 | [SARD UNDERGROUND](https://ja.wikipedia.org/wiki/SARD_UNDERGROUND "wikilink") | 「[少しづつ 少しづつ](https://ja.wikipedia.org/wiki/少しづつ_少しづつ "wikilink")」 | [2020年](../Page/2020年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink") | 初回限定盤、通常盤のc/wのみ収録。                                                       |                  |
 | **愛は暗闇の中で**                                                                   | SARD UNDERGROUND                                                  | 「少しづつ 少しづつ」                                                              | 2020年2月10日                                                               | 名探偵コナン盤のc/wのみ収録。 |
 
@@ -91,5 +91,5 @@
 
 [Category:1991年のデビュー・シングル](https://ja.wikipedia.org/wiki/Category:1991年のデビュー・シングル "wikilink") [Category:ZARDの楽曲](https://ja.wikipedia.org/wiki/Category:ZARDの楽曲 "wikilink") [Category:坂井泉水が制作した楽曲](https://ja.wikipedia.org/wiki/Category:坂井泉水が制作した楽曲 "wikilink") [Category:織田哲郎が制作した楽曲](https://ja.wikipedia.org/wiki/Category:織田哲郎が制作した楽曲 "wikilink") [Category:フジテレビ木曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ木曜10時枠の連続ドラマの主題歌 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_く](https://ja.wikipedia.org/wiki/Category:楽曲_く "wikilink")
 
-1.  『[ZARD BEST The Single Collection〜軌跡〜](https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection〜軌跡〜 "wikilink")』の特典写真集の亀山本人のコメントから
+1.  『[ZARD BEST The Single Collection〜軌跡〜](../Page/ZARD_BEST_The_Single_Collection〜軌跡〜.md "wikilink")』の特典写真集の亀山本人のコメントから
 2.

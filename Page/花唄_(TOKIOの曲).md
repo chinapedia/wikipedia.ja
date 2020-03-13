@@ -1,7 +1,7 @@
 > この記事は[ \(TOKIO\)](https://ja.wikipedia.org/wiki/_\(TOKIO\))から翻訳されています。
 
 
-「**花唄**」（はなうた）は、[TOKIO](../Page/TOKIO.md "wikilink")の25作目の[シングル](../Page/シングル.md "wikilink")曲。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[ユニバーサルJから発売された](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+「**花唄**」（はなうた）は、[TOKIO](../Page/TOKIO.md "wikilink")の25作目の[シングル](../Page/シングル.md "wikilink")曲。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[ユニバーサルJから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -15,7 +15,7 @@
       -
         作詞：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")、作曲：[鈴木秋則](../Page/鈴木秋則.md "wikilink")、編曲：[島田昌典](https://ja.wikipedia.org/wiki/島田昌典 "wikilink")
     <!-- end list -->
-      - [松岡昌宏](../Page/松岡昌宏.md "wikilink")主演 [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](https://ja.wikipedia.org/wiki/土曜ドラマ_\(日本テレビ\) "wikilink")『[ナースマン](https://ja.wikipedia.org/wiki/ナースマン "wikilink")』主題歌
+      - [松岡昌宏](../Page/松岡昌宏.md "wikilink")主演 [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[土曜ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink")『[ナースマン](../Page/ナースマン.md "wikilink")』主題歌
 2.  **遠い日のメロディー** \[4:49\]
       -
         作詞・作曲：[HIKARI](../Page/HIKARI.md "wikilink")、編曲：KAM

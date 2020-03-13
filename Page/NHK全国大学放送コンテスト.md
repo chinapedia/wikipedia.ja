@@ -5,9 +5,9 @@
 
 ## 開催部門
 
-  - [ラジオドラマ](https://ja.wikipedia.org/wiki/ラジオドラマ "wikilink")部門
+  - [ラジオドラマ](../Page/ラジオドラマ.md "wikilink")部門
   - [音声](https://ja.wikipedia.org/wiki/音声 "wikilink")[CM部門](../Page/コマーシャルメッセージ.md "wikilink")
-  - [Live部門](https://ja.wikipedia.org/wiki/生放送 "wikilink")
+  - [Live部門](../Page/生放送.md "wikilink")
   - [アナウンス](https://ja.wikipedia.org/wiki/アナウンス "wikilink")部門
   - [朗読](../Page/朗読.md "wikilink")部門
   - [映像](https://ja.wikipedia.org/wiki/映像 "wikilink")[番組](../Page/番組.md "wikilink")部門
@@ -15,7 +15,7 @@
 
 ## 参加資格
 
-全国の[大学](../Page/大学.md "wikilink")・[短期大学](https://ja.wikipedia.org/wiki/短期大学 "wikilink")・[高等専門学校](../Page/高等専門学校.md "wikilink")の公認団体で、かつ「放送系」を自認する団体であれば良い。そのため、放送[サークル](https://ja.wikipedia.org/wiki/サークル "wikilink")のほか[ゼミや](../Page/ゼミナール.md "wikilink")[研究室](https://ja.wikipedia.org/wiki/研究室 "wikilink")単位で参加する学生もいる。こうした背景から、同じ大学から複数団体が出場することも珍しくない。
+全国の[大学](../Page/大学.md "wikilink")・[短期大学](../Page/短期大学.md "wikilink")・[高等専門学校](../Page/高等専門学校.md "wikilink")の公認団体で、かつ「放送系」を自認する団体であれば良い。そのため、放送[サークル](../Page/サークル.md "wikilink")のほか[ゼミや](../Page/ゼミナール.md "wikilink")[研究室](https://ja.wikipedia.org/wiki/研究室 "wikilink")単位で参加する学生もいる。こうした背景から、同じ大学から複数団体が出場することも珍しくない。
 
 ## 運営
 
@@ -33,7 +33,7 @@
   - 1997年 第14回大会、対象を全国に拡大することを決定、採点システムを京都大学が開発
   - 1998年 第15回大会、全国からの参加が本格的に始まる、予選制度開始
   - 2002年 第19回大会、名称「NHK**全国**大学放送コンテスト」に改称、関西学生放送交流会議が名称を「関西学生放送連盟」（新）に改称
-  - 2003年 第20回大会、後援に文化庁・[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")・[京都市](../Page/京都市.md "wikilink")が追加、[関西元気文化圏参加事業](https://ja.wikipedia.org/wiki/関西元気文化圏参加事業 "wikilink")に認定、大会[特番放送開始](https://ja.wikipedia.org/wiki/特別番組 "wikilink")
+  - 2003年 第20回大会、後援に文化庁・[京都府](../Page/京都府.md "wikilink")・[京都市](../Page/京都市.md "wikilink")が追加、[関西元気文化圏参加事業](https://ja.wikipedia.org/wiki/関西元気文化圏参加事業 "wikilink")に認定、大会[特番放送開始](../Page/特別番組.md "wikilink")
   - 2004年 第21回大会、後援に文部科学省、最優秀賞へ[文部科学大臣](../Page/文部科学大臣.md "wikilink")奨励賞授与、[東京](../Page/東京.md "wikilink")実行委員会スタート
   - 2008年 第25回大会、節目の大会として全国放送で大きく取り上げられる
   - 2011年 公式ホームページを大幅刷新の上[NHK内サイトに移設](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。
@@ -67,7 +67,7 @@ NHKの関係者がNHK京都放送局内で実施（非公開）。
 
 ## 本選会場
 
-[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")朱雀キャンパス（[京都府](https://ja.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")）
+[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")朱雀キャンパス（[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")）
 
   - 28回大会までは[京都市生涯学習総合センター](https://ja.wikipedia.org/wiki/京都市生涯学習総合センター "wikilink")（京都アスニー、京都府京都市）で開催
 
@@ -77,18 +77,18 @@ NHKの関係者がNHK京都放送局内で実施（非公開）。
 
 ## 最近の強豪校・強豪地区
 
-関西の大会が発展したものであるため、伝統的に[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")・[龍谷大学](../Page/龍谷大学.md "wikilink")・[京都大学](../Page/京都大学.md "wikilink")・[関西学院大学](https://ja.wikipedia.org/wiki/関西学院大学 "wikilink")などの関西の大学が強いとされてきた。だが近年では、関西勢以外の大学の入賞実績が急激に高まり、文字通り全国規模の大会に発展している。その代表格が関東の[筑波大学](../Page/筑波大学.md "wikilink")や[早稲田大学](https://ja.wikipedia.org/wiki/早稲田大学 "wikilink")などで、それ以外の地域では特に[沖縄国際大学](../Page/沖縄国際大学.md "wikilink")など、九州・沖縄勢の健闘が目立つ。他方、先に挙げた関西勢のうち京都大学や関西学院大学などは引き続き好成績を収める一方、龍谷大学や立命館大学などは入賞圏内から大きく遠ざかり、本選進出すら危うくなってしまった大学もあった。現在はこれらの関西勢もある程度盛り返してはきているが、本選進出団体を見る限り競争は激化している。但し、文部科学大臣賞を[広島修道大学](../Page/広島修道大学.md "wikilink")や[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")の[弘前大学](../Page/弘前大学.md "wikilink")が獲得したこともあり、地域的な偏りはそれほど大きくはない。
+関西の大会が発展したものであるため、伝統的に[立命館大学](https://ja.wikipedia.org/wiki/立命館大学 "wikilink")・[龍谷大学](../Page/龍谷大学.md "wikilink")・[京都大学](../Page/京都大学.md "wikilink")・[関西学院大学](../Page/関西学院大学.md "wikilink")などの関西の大学が強いとされてきた。だが近年では、関西勢以外の大学の入賞実績が急激に高まり、文字通り全国規模の大会に発展している。その代表格が関東の[筑波大学](../Page/筑波大学.md "wikilink")や[早稲田大学](../Page/早稲田大学.md "wikilink")などで、それ以外の地域では特に[沖縄国際大学](../Page/沖縄国際大学.md "wikilink")など、九州・沖縄勢の健闘が目立つ。他方、先に挙げた関西勢のうち京都大学や関西学院大学などは引き続き好成績を収める一方、龍谷大学や立命館大学などは入賞圏内から大きく遠ざかり、本選進出すら危うくなってしまった大学もあった。現在はこれらの関西勢もある程度盛り返してはきているが、本選進出団体を見る限り競争は激化している。但し、文部科学大臣賞を[広島修道大学](../Page/広島修道大学.md "wikilink")や[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")の[弘前大学](../Page/弘前大学.md "wikilink")が獲得したこともあり、地域的な偏りはそれほど大きくはない。
 
 ## 特番
 
 ### 概要
 
-大会終了後、上位入賞者と大会実行委員が出演して全国放送される番組。毎年1月から3月頃に放送される。内容は主に優秀作品の放映、ディスカッションなど。またここで述べるテレビ番組のほか、[ラジオ第1の](https://ja.wikipedia.org/wiki/NHKラジオ第1放送番組 "wikilink")[渋マガZ](https://ja.wikipedia.org/wiki/渋マガZ "wikilink")（全国番組）や[FMラジオ](https://ja.wikipedia.org/wiki/NHK-FM放送 "wikilink")（[かんさいeスクエア](https://ja.wikipedia.org/wiki/かんさいeスクエア "wikilink")）（関西ローカル番組）内でも音声系部門優秀作が放送されているほか、[3つのたまご](https://ja.wikipedia.org/wiki/3つのたまご "wikilink")や[NHKとっておきサンデー](https://ja.wikipedia.org/wiki/NHKとっておきサンデー "wikilink")などのNHK広報番組などで紹介されることがある。
+大会終了後、上位入賞者と大会実行委員が出演して全国放送される番組。毎年1月から3月頃に放送される。内容は主に優秀作品の放映、ディスカッションなど。またここで述べるテレビ番組のほか、[ラジオ第1の](https://ja.wikipedia.org/wiki/NHKラジオ第1放送番組 "wikilink")[渋マガZ](https://ja.wikipedia.org/wiki/渋マガZ "wikilink")（全国番組）や[FMラジオ](../Page/NHK-FM放送.md "wikilink")（[かんさいeスクエア](../Page/かんさいeスクエア.md "wikilink")）（関西ローカル番組）内でも音声系部門優秀作が放送されているほか、[3つのたまご](https://ja.wikipedia.org/wiki/3つのたまご "wikilink")や[NHKとっておきサンデー](https://ja.wikipedia.org/wiki/NHKとっておきサンデー "wikilink")などのNHK広報番組などで紹介されることがある。
 
 ### 各番組（カッコ内は司会）
 
-  - 20回大会…「Nコン！放送の未来を語ろう」（[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")・[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")）
-  - 21回大会…「Nコン～放送のチ・カ・ラ 若者のチ・カ・ラ」（[さくら](https://ja.wikipedia.org/wiki/さくら_\(タレント\) "wikilink")）
+  - 20回大会…「Nコン！放送の未来を語ろう」（[眞鍋かをり](https://ja.wikipedia.org/wiki/眞鍋かをり "wikilink")・[森脇健児](../Page/森脇健児.md "wikilink")）
+  - 21回大会…「Nコン～放送のチ・カ・ラ 若者のチ・カ・ラ」（[さくら](../Page/さくら_\(タレント\).md "wikilink")）
   - 22回大会…「N魂！第22回NHK全国大学放送コンテスト」
   - 23回大会…「Nコン！伝えるヨロコビ～第23回NHK全国大学放送コンテスト」（[中山エミリ](../Page/中山エミリ.md "wikilink")）
   - 25回大会…「第25回NHK全国大学放送コンテスト Nコン！ -集まれ！未来のクリエーター-」（[熊田曜子](https://ja.wikipedia.org/wiki/熊田曜子 "wikilink")）
@@ -102,9 +102,9 @@ NHKの関係者がNHK京都放送局内で実施（非公開）。
 
 ## 過去の大会に関係した放送関係者
 
-  - [長谷川豊](https://ja.wikipedia.org/wiki/長谷川豊 "wikilink")（[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・13回大会）
-  - [山崎雄樹](https://ja.wikipedia.org/wiki/山崎雄樹 "wikilink")（[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")アナウンサー・13回大会）
-  - [石井百恵](https://ja.wikipedia.org/wiki/石井百恵 "wikilink")（[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")アナウンサー・15回大会）
+  - [長谷川豊](../Page/長谷川豊.md "wikilink")（[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・13回大会）
+  - [山崎雄樹](../Page/山崎雄樹.md "wikilink")（[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")アナウンサー・13回大会）
+  - [石井百恵](../Page/石井百恵.md "wikilink")（[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")アナウンサー・15回大会）
   - [大沢幸広](https://ja.wikipedia.org/wiki/大沢幸広 "wikilink")（NHKアナウンサー18回大会）
   - [和田光太郎](../Page/和田光太郎.md "wikilink")（NHKアナウンサー・21回大会）
   - [大西洋平](../Page/大西洋平_\(アナウンサー\).md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー・22回大会）

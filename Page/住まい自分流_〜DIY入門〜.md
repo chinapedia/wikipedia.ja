@@ -1,7 +1,7 @@
 > この記事は[ DIY](https://ja.wikipedia.org/wiki/_DIY)から翻訳されています。
 
 
-**住まい自分流 〜DIY入門〜**（すまいじぶんりゅうディーアイワイにゅうもん）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月8日](https://ja.wikipedia.org/wiki/4月8日 "wikilink")から[NHK教育テレビで放送された](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")[DIY](../Page/DIY.md "wikilink")専門番組である。[2009年](../Page/2009年.md "wikilink")度より、新番組「**[住まい自分流](../Page/住まい自分流.md "wikilink")**」と「**住まい自分流アルファ**」の2番組による構成となった（「住まい自分流」の項目参照）。
+**住まい自分流 〜DIY入門〜**（すまいじぶんりゅうディーアイワイにゅうもん）は、[2005年](../Page/2005年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[NHK教育テレビで放送された](../Page/NHK教育テレビジョン.md "wikilink")[DIY](../Page/DIY.md "wikilink")専門番組である。[2009年](../Page/2009年.md "wikilink")度より、新番組「**[住まい自分流](../Page/住まい自分流.md "wikilink")**」と「**住まい自分流アルファ**」の2番組による構成となった（「住まい自分流」の項目参照）。
 
 ## 放送時間
 
@@ -21,7 +21,7 @@
 
   - [鈴木桂一郎](../Page/鈴木桂一郎.md "wikilink")（アナウンサー、2008年4月 - 2009年3月）
   - [大桃美代子](../Page/大桃美代子.md "wikilink")（2006年4月 - 2009年3月）
-  - [パンチ佐藤](https://ja.wikipedia.org/wiki/パンチ佐藤 "wikilink")（2008年4月 - 2009年3月）
+  - [パンチ佐藤](../Page/パンチ佐藤.md "wikilink")（2008年4月 - 2009年3月）
   - [北斗晶](https://ja.wikipedia.org/wiki/北斗晶 "wikilink")（2008年4月 - 2009年3月）
   - [小野真弓](https://ja.wikipedia.org/wiki/小野真弓 "wikilink")（2008年4月 - 2009年3月）
   - ナレーション：[小川真由美](../Page/小川真由美_\(アナウンサー\).md "wikilink")（お手軽工作室にて顔出し出演の回もあり）（2007年4月 - ）
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - [服部真湖](https://ja.wikipedia.org/wiki/服部真湖 "wikilink")（2005年4月 - 2006年3月）
+  - [服部真湖](../Page/服部真湖.md "wikilink")（2005年4月 - 2006年3月）
   - [富永禎彦](../Page/富永禎彦.md "wikilink")（アナウンサー、2005年4月 - 2007年3月、ナレーションも担当。[熊本局へ異動](../Page/NHK熊本放送局.md "wikilink")）
   - [後藤理](../Page/後藤理.md "wikilink")（アナウンサー、2007年4月 - 2008年3月、[北九州局へ異動](../Page/NHK北九州放送局.md "wikilink")）
 
@@ -51,7 +51,7 @@
 
 :\*お宅拝見（担当：[堤信子](../Page/堤信子.md "wikilink")）
 
-:\*:DIYで自分流にリフォームしたお宅を訪問取材する。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月17日](../Page/3月17日.md "wikilink")放送分まで行われた。
+:\*:DIYで自分流にリフォームしたお宅を訪問取材する。[2005年](../Page/2005年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")放送分まで行われた。
 
 :\*お道具図鑑（担当：友野昌好）
 
@@ -59,7 +59,7 @@
 
 ## テーマ曲
 
-[東儀秀樹](https://ja.wikipedia.org/wiki/東儀秀樹 "wikilink")「Pure Smile」
+[東儀秀樹](../Page/東儀秀樹.md "wikilink")「Pure Smile」
 
 ## テキスト
 

@@ -1,7 +1,7 @@
 > この記事は[FVWM](https://ja.wikipedia.org/wiki/FVWM)から翻訳されています。
 
 
-**FVWM**とは[X Window System上で使用されるデスクトップのウインドウを管理する](../Page/X_Window_System.md "wikilink")[ウィンドウマネージャ](https://ja.wikipedia.org/wiki/ウィンドウマネージャ "wikilink")の一種である。[twm](https://ja.wikipedia.org/wiki/twm "wikilink")からの亜種。開発者は[Robert Nationなど](https://ja.wikipedia.org/wiki/Robert_Nation "wikilink")。
+**FVWM**とは[X Window System上で使用されるデスクトップのウインドウを管理する](../Page/X_Window_System.md "wikilink")[ウィンドウマネージャ](../Page/ウィンドウマネージャ.md "wikilink")の一種である。[twm](https://ja.wikipedia.org/wiki/twm "wikilink")からの亜種。開発者は[Robert Nationなど](https://ja.wikipedia.org/wiki/Robert_Nation "wikilink")。
 
 ## 歴史
 
@@ -9,7 +9,7 @@
 
 [1993年](../Page/1993年.md "wikilink")、Robert Nationは、[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")での[音紋に関する仕事の間に](https://ja.wikipedia.org/wiki/音#音紋 "wikilink")、[twm](https://ja.wikipedia.org/wiki/twm "wikilink")を、メモリ使用量を減らし、[仮想デスクトップ](../Page/仮想デスクトップ.md "wikilink")のサポートを追加する意図で改造し始めた\[1\]。
 
-既に[rxvt](https://ja.wikipedia.org/wiki/rxvt "wikilink")[端末エミュレータ](https://ja.wikipedia.org/wiki/端末エミュレータ "wikilink")で知られていた彼は、新しいウィンドウマネージャのメモリ使用量を減らすことに取り組んだ。FVWMの受容についてテストするために、[1993年](../Page/1993年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")、彼はこれをrxvtのリリースに組み合わせた。[1994年](../Page/1994年.md "wikilink")、NationはFVWMの開発を止め、Charles Hinesがメンテナとなった。Nationが最後にリリースしたFVWMはfvwm-1.24rである。
+既に[rxvt](https://ja.wikipedia.org/wiki/rxvt "wikilink")[端末エミュレータ](../Page/端末エミュレータ.md "wikilink")で知られていた彼は、新しいウィンドウマネージャのメモリ使用量を減らすことに取り組んだ。FVWMの受容についてテストするために、[1993年](../Page/1993年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")、彼はこれをrxvtのリリースに組み合わせた。[1994年](../Page/1994年.md "wikilink")、NationはFVWMの開発を止め、Charles Hinesがメンテナとなった。Nationが最後にリリースしたFVWMはfvwm-1.24rである。
 
 多くの開発者は、リファインと開発の年月から利益を受けるために、彼ら自身のプロジェクトをFVWMに基づかせた。多くの現在人気のあるウィンドウマネージャ（Afterstep、[Xfce](../Page/Xfce.md "wikilink")、[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink")など）は、FVWMと関係している。
 

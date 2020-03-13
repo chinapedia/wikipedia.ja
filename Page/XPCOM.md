@@ -3,7 +3,7 @@
 
 **XPCOM** (Cross Platform Component Object Model) は、[Mozilla](../Page/Mozilla.md "wikilink")プロジェクトにおいて開発されている[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")な[ソフトウェアコンポーネント](../Page/ソフトウェアコンポーネント.md "wikilink")技術である。マイクロソフトの[Component Object Model](../Page/Component_Object_Model.md "wikilink") (MS COM) の[オープンソース](../Page/オープンソース.md "wikilink")実装に相当する。XPCOMは[C++](../Page/C++.md "wikilink")で実装されており、[Linux](../Page/Linux.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")という主要なプラットフォーム上で動作する。複数の[言語バインディング](https://ja.wikipedia.org/wiki/言語バインディング "wikilink")が提供されており、C++の他に、[JavaScript](../Page/JavaScript.md "wikilink")、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")、[Python](../Page/Python.md "wikilink")等の実装が存在する。XPCOMのインタフェースには、XPIDLと呼ばれる[インタフェース記述言語](../Page/インタフェース記述言語.md "wikilink") (IDL) が用いられている。
 
-XPCOMにはコアとなるコンポーネントとクラス群が一緒に提供されている。例えば、ファイルやメモリの管理、[文字列](https://ja.wikipedia.org/wiki/文字列 "wikilink")や[配列](../Page/配列.md "wikilink")などの基本データ構造などがこれに含まれる。しかし、ほとんどのXPCOMコンポーネントは、コア以外の部分で提供されている。たとえば、[Gecko](../Page/Gecko.md "wikilink")レンダリングエンジンなどがこれにあたる。
+XPCOMにはコアとなるコンポーネントとクラス群が一緒に提供されている。例えば、ファイルやメモリの管理、[文字列](../Page/文字列.md "wikilink")や[配列](../Page/配列.md "wikilink")などの基本データ構造などがこれに含まれる。しかし、ほとんどのXPCOMコンポーネントは、コア以外の部分で提供されている。たとえば、[Gecko](../Page/Gecko.md "wikilink")レンダリングエンジンなどがこれにあたる。
 
 ## MonoのCOM相互運用
 
@@ -11,7 +11,7 @@ XPCOMにはコアとなるコンポーネントとクラス群が一緒に提供
 
 ## XUL/XPCOMベースのアドオン
 
-Mozillaは[Firefoxや](../Page/Mozilla_Firefox.md "wikilink")[Thunderbirdにおいて](../Page/Mozilla_Thunderbird.md "wikilink")、[XUL](https://ja.wikipedia.org/wiki/XUL "wikilink")/XPCOMを利用した[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")（[拡張機能](../Page/拡張機能_\(Mozilla\).md "wikilink")）の[SDKを提供してきたが](../Page/ソフトウェア開発キット.md "wikilink")、XUL/XPCOMベースのアドオンの段階的な廃止を表明している。Firefox Quantum 57 では全面的に廃止され\[3\]\[4\]\[5\]、。
+Mozillaは[Firefoxや](../Page/Mozilla_Firefox.md "wikilink")[Thunderbirdにおいて](../Page/Mozilla_Thunderbird.md "wikilink")、[XUL](../Page/XUL.md "wikilink")/XPCOMを利用した[アドオン](https://ja.wikipedia.org/wiki/アドオン "wikilink")（[拡張機能](../Page/拡張機能_\(Mozilla\).md "wikilink")）の[SDKを提供してきたが](../Page/ソフトウェア開発キット.md "wikilink")、XUL/XPCOMベースのアドオンの段階的な廃止を表明している。Firefox Quantum 57 では全面的に廃止され\[3\]\[4\]\[5\]、。
 
 Firefox Quantum の拡張機能では、XUL/XPCOMの代わりに [Microsoft Edge](https://ja.wikipedia.org/wiki/Microsoft_Edge "wikilink")、[Google Chrome](https://ja.wikipedia.org/wiki/Google_Chrome "wikilink")、[Opera](https://ja.wikipedia.org/wiki/Opera "wikilink")などでサポートされている WebExtensions\[6\] を使用する。
 
@@ -23,10 +23,10 @@ Firefox Quantum の拡張機能では、XUL/XPCOMの代わりに [Microsoft Edge
 
   - [Mozilla](../Page/Mozilla.md "wikilink")
   - [Gecko](../Page/Gecko.md "wikilink")
-  - [XUL](https://ja.wikipedia.org/wiki/XUL "wikilink")
+  - [XUL](../Page/XUL.md "wikilink")
   - [XULRunner](../Page/XULRunner.md "wikilink")
   - [XPConnect](https://ja.wikipedia.org/wiki/XPConnect "wikilink")（JavaScript用XPCOMバインディング）
-  - [JavaXPCOM](https://ja.wikipedia.org/wiki/JavaXPCOM "wikilink")（Java用XPCOMバインディング）
+  - [JavaXPCOM](../Page/JavaXPCOM.md "wikilink")（Java用XPCOMバインディング）
   - [PyXPCOM](https://ja.wikipedia.org/wiki/PyXPCOM "wikilink")（Python用XPCOMバインディング）
   - [RbXPCOM](https://ja.wikipedia.org/wiki/RbXPCOM "wikilink")（[Ruby](../Page/Ruby.md "wikilink")用XPCOMバインディング）
   - [PlXPCOM](https://ja.wikipedia.org/wiki/PlXPCOM "wikilink")（[Perl](../Page/Perl.md "wikilink")用XPCOMバインディング）

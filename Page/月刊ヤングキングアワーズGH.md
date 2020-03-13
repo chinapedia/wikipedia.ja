@@ -5,11 +5,11 @@
 
 ## 概要
 
-『**月刊ヤングキング**』として、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")12月号（[10月19日](../Page/10月19日.md "wikilink")発売）をもって創刊した\[1\]。「**ヒロイン至上主義**」と題したリニューアルが行われた[2011年](../Page/2011年.md "wikilink")9月号（7月19日発売）では、姉妹誌『[ヤングキング](https://ja.wikipedia.org/wiki/ヤングキング "wikilink")』および『[ヤングキングアワーズ](https://ja.wikipedia.org/wiki/ヤングキングアワーズ "wikilink")』から複数の作品が移籍した\[2\]\[3\]。また、これに伴い[中綴じ](https://ja.wikipedia.org/wiki/中綴じ "wikilink")から[無線綴じ](https://ja.wikipedia.org/wiki/無線綴じ "wikilink")（[平綴じ](https://ja.wikipedia.org/wiki/平綴じ "wikilink")）となった\[4\]。
+『**月刊ヤングキング**』として、[2006年](../Page/2006年.md "wikilink")12月号（[10月19日](../Page/10月19日.md "wikilink")発売）をもって創刊した\[1\]。「**ヒロイン至上主義**」と題したリニューアルが行われた[2011年](../Page/2011年.md "wikilink")9月号（7月19日発売）では、姉妹誌『[ヤングキング](../Page/ヤングキング.md "wikilink")』および『[ヤングキングアワーズ](../Page/ヤングキングアワーズ.md "wikilink")』から複数の作品が移籍した\[2\]\[3\]。また、これに伴い[中綴じ](https://ja.wikipedia.org/wiki/中綴じ "wikilink")から[無線綴じ](https://ja.wikipedia.org/wiki/無線綴じ "wikilink")（[平綴じ](https://ja.wikipedia.org/wiki/平綴じ "wikilink")）となった\[4\]。
 
 [2013年](../Page/2013年.md "wikilink")10月号（8月16日発売）より現誌名に改題・リニューアルされた\[5\]。これに伴って発売日についても、『月刊ヤングキング』時代の19日発売から、現行の16日発売に変更された\[6\]。
 
-2015年前後に、改題当初から連載されていたほとんどの作品が完結、『[ヤングキングアワーズ](https://ja.wikipedia.org/wiki/ヤングキングアワーズ "wikilink")』と掲載作品のジャンルが統一され、同誌を補完する役割を明確にしている。サスペンスや社会派などの作品は再び『[ヤングキング](https://ja.wikipedia.org/wiki/ヤングキング "wikilink")』が担うことになった。
+2015年前後に、改題当初から連載されていたほとんどの作品が完結、『[ヤングキングアワーズ](../Page/ヤングキングアワーズ.md "wikilink")』と掲載作品のジャンルが統一され、同誌を補完する役割を明確にしている。サスペンスや社会派などの作品は再び『[ヤングキング](../Page/ヤングキング.md "wikilink")』が担うことになった。
 
 定価は、2006年10月の創刊時（同12月号）が税込み380円（以下すべて税込み表記）\[7\]。のちに（時期不明）定価390円に変更され、中綴じ形態の時代は2011年6月（同8月号）まで継続\[8\]\[9\]\[10\]。2011年7月（同9月号）の新創刊リニューアルを受けて平綴じ形態に変更されるとともに定価580円に変更された\[11\]。2014年4月（同6月号）にて定価600円に変更され、同年9月（同11月号）にて定価680円に変更された\[12\]。
 
@@ -17,9 +17,9 @@
 
 ## 連載作品
 
-  - アホゲノム〜座牟坂サタニックヘアー〜（[井上和郎](https://ja.wikipedia.org/wiki/井上和郎 "wikilink")）
+  - アホゲノム〜座牟坂サタニックヘアー〜（[井上和郎](../Page/井上和郎.md "wikilink")）
   - 異世界狙撃手（スナイパー）は女戦士のモフモフ愛玩動物（ペット）（原作：[光永康則](../Page/光永康則.md "wikilink")、作画：いのまる）
-  - [おくさん](https://ja.wikipedia.org/wiki/おくさん "wikilink")（[大井昌和](https://ja.wikipedia.org/wiki/大井昌和 "wikilink")）
+  - [おくさん](https://ja.wikipedia.org/wiki/おくさん "wikilink")（[大井昌和](../Page/大井昌和.md "wikilink")）
   - かみくじむら（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
   - [出撃\!喫茶あるぺじお](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[小竹田貴弘](../Page/小竹田貴弘.md "wikilink")）
   - 心理学は役に立たない\!?（原作：[ゆうきゆう](https://ja.wikipedia.org/wiki/ゆうきゆう "wikilink")、作画：[ソウ](https://ja.wikipedia.org/wiki/ソウ_\(漫画家\) "wikilink")） ※2017年9月号にて『カウンセリングを学ぶ話を聞かない13人』→『心理学は役に立たない\!?』に改題
@@ -36,15 +36,15 @@
 以下のリストは『月刊ヤングキング』掲載作品と『月刊ヤングキングアワーズGH』掲載作品との両方を含む。
 
   - R402（中村卯月）
-  - [愛気](https://ja.wikipedia.org/wiki/愛気 "wikilink")（[ISUTOSHI](https://ja.wikipedia.org/wiki/ISUTOSHI "wikilink")） ←『[ヤングキング](https://ja.wikipedia.org/wiki/ヤングキング "wikilink")』からの移籍
+  - [愛気](https://ja.wikipedia.org/wiki/愛気 "wikilink")（[ISUTOSHI](https://ja.wikipedia.org/wiki/ISUTOSHI "wikilink")） ←『[ヤングキング](../Page/ヤングキング.md "wikilink")』からの移籍
   - [愛気](https://ja.wikipedia.org/wiki/愛気 "wikilink")-S（[ISUTOSHI](https://ja.wikipedia.org/wiki/ISUTOSHI "wikilink")）
   - i.d.（[岸虎次郎](https://ja.wikipedia.org/wiki/岸虎次郎 "wikilink")）
   - アイドルを守るだけの簡単なお仕事。（甘夏）
-  - [蒼き鋼のアルペジオ ノベライズ](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[森田繁](https://ja.wikipedia.org/wiki/森田繁 "wikilink")） ※小説作品
+  - [蒼き鋼のアルペジオ ノベライズ](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[森田繁](../Page/森田繁.md "wikilink")） ※小説作品
   - アタシのセンパイ（[しおやてるこ](https://ja.wikipedia.org/wiki/しおやてるこ "wikilink")）
   - 悪霊神 〜あらがみ〜（[竹山祐右](../Page/竹山祐右.md "wikilink")）
   - [アルペジオ劇場](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[山村響](https://ja.wikipedia.org/wiki/山村響 "wikilink")）
-  - E.D.D（[橋本エイジ](https://ja.wikipedia.org/wiki/橋本エイジ "wikilink")） ←『[ヤングキング](https://ja.wikipedia.org/wiki/ヤングキング "wikilink")』からの移籍
+  - E.D.D（[橋本エイジ](https://ja.wikipedia.org/wiki/橋本エイジ "wikilink")） ←『[ヤングキング](../Page/ヤングキング.md "wikilink")』からの移籍
   - [石田とあさくら](https://ja.wikipedia.org/wiki/石田とあさくら "wikilink")（[マサオ](https://ja.wikipedia.org/wiki/マサオ "wikilink")）
   - ウイングドマーメイズ（[塩野干支郎次](../Page/塩野干支郎次.md "wikilink")）
   - 嘘八百景シタタラズ（abua）
@@ -67,7 +67,7 @@
   - 鬼啖撃鉄サバイヴァ\!\!（霧恵マサノブ）
   - 軌道の鎧 レイルゴースト（[戸田泰成](../Page/戸田泰成.md "wikilink")）
   - [G.A.P 〜転居先不明郵便課〜](https://ja.wikipedia.org/wiki/G.A.P_〜転居先不明郵便課〜 "wikilink")（原作：[金子良馬](https://ja.wikipedia.org/wiki/金子良馬 "wikilink")、作画：[夏元雅人](../Page/夏元雅人.md "wikilink")）
-  - [球場ラヴァーズ 〜だって野球が好きじゃけん〜](https://ja.wikipedia.org/wiki/球場ラヴァーズ "wikilink")（[石田敦子](https://ja.wikipedia.org/wiki/石田敦子_\(漫画家\) "wikilink")）
+  - [球場ラヴァーズ 〜だって野球が好きじゃけん〜](https://ja.wikipedia.org/wiki/球場ラヴァーズ "wikilink")（[石田敦子](../Page/石田敦子_\(漫画家\).md "wikilink")）
   - キョーダイコンプレックス（9℃）
   - [霧くまs THE COMIC](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（高内優向）
   - [クピドの悪戯 惑いのレイコ](https://ja.wikipedia.org/wiki/クピドの悪戯_惑いのレイコ "wikilink")（[北崎拓](../Page/北崎拓.md "wikilink")）
@@ -78,7 +78,7 @@
   - [交渉人 堂本零時](https://ja.wikipedia.org/wiki/交渉人_堂本零時 "wikilink")（[楠本哲](https://ja.wikipedia.org/wiki/楠本哲 "wikilink")、監修：[玄秀盛](https://ja.wikipedia.org/wiki/玄秀盛 "wikilink")）
   - ごくべん ―極道弁護士 豆柴トメオ―（[オオイシヒロト](https://ja.wikipedia.org/wiki/オオイシヒロト "wikilink")） →『ゴクベン』と改題し『ヤングキング』に移籍
   - この人類域のゼルフィー（[塩野干支郎次](../Page/塩野干支郎次.md "wikilink")）
-  - コレハラ?（[金平守人](https://ja.wikipedia.org/wiki/金平守人 "wikilink")）
+  - コレハラ?（[金平守人](../Page/金平守人.md "wikilink")）
   - sunny（[今村陽子](https://ja.wikipedia.org/wiki/今村陽子 "wikilink")）
   - 36.5℃の天使（けんたろう）
   - [シーグラス](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[いけださくら](https://ja.wikipedia.org/wiki/いけださくら "wikilink")）
@@ -88,27 +88,27 @@
   - 女子轟生（内々けやき）
   - すてんばいみ〜\!（本井広海×本澤友一郎）
   - すも、かの（[ムラオミノル](https://ja.wikipedia.org/wiki/ムラオミノル "wikilink")） ※短期集中連載
-  - [SHIBUYA大戦争](https://ja.wikipedia.org/wiki/ドリームキングR "wikilink")（原作：[俵家宗弖一](https://ja.wikipedia.org/wiki/俵家宗弖一 "wikilink")、キャラデザイン：[柳内大樹](https://ja.wikipedia.org/wiki/柳内大樹 "wikilink")、漫画：[小幡文生](https://ja.wikipedia.org/wiki/小幡文生 "wikilink")）
+  - [SHIBUYA大戦争](https://ja.wikipedia.org/wiki/ドリームキングR "wikilink")（原作：[俵家宗弖一](https://ja.wikipedia.org/wiki/俵家宗弖一 "wikilink")、キャラデザイン：[柳内大樹](../Page/柳内大樹.md "wikilink")、漫画：[小幡文生](../Page/小幡文生.md "wikilink")）
   - 少年よ大志を抱け\!（[花見沢Q太郎](../Page/花見沢Q太郎.md "wikilink")）
   - STAY GOLD（[奥嶋ひろまさ](../Page/奥嶋ひろまさ.md "wikilink")）
   - 絶対零度アイドル（ハナツカシオリ）
-  - 先生彼女（[松山せいじ](https://ja.wikipedia.org/wiki/松山せいじ "wikilink")） ※不定期連載
+  - 先生彼女（[松山せいじ](../Page/松山せいじ.md "wikilink")） ※不定期連載
   - ソウルリキッド チェインバーズ（[環望](../Page/環望.md "wikilink")）
   - [ソルティ・ロード](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（TALI）
-  - タイニードライブ（[大石まさる](https://ja.wikipedia.org/wiki/大石まさる "wikilink")）
-  - タイニーマイティボーイ（[大石まさる](https://ja.wikipedia.org/wiki/大石まさる "wikilink")）
+  - タイニードライブ（[大石まさる](../Page/大石まさる.md "wikilink")）
+  - タイニーマイティボーイ（[大石まさる](../Page/大石まさる.md "wikilink")）
   - 玉キック（原作：[光永康則](../Page/光永康則.md "wikilink")、作画：いのまる）
   - [ダムマンガ](https://ja.wikipedia.org/wiki/ダムマンガ "wikilink")（[井上よしひさ](../Page/井上よしひさ.md "wikilink")）
   - ちあ〜ず\!（[さめだ小判](https://ja.wikipedia.org/wiki/さめだ小判 "wikilink")） ←『ヤングキング』からの移籍
   - ちょろこいぞ\!休刊さん（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
-  - [ツマヌダ格闘街](../Page/ツマヌダ格闘街.md "wikilink")（上山道郎） ←『[ヤングキングアワーズ](https://ja.wikipedia.org/wiki/ヤングキングアワーズ "wikilink")』からの移籍
+  - [ツマヌダ格闘街](../Page/ツマヌダ格闘街.md "wikilink")（上山道郎） ←『[ヤングキングアワーズ](../Page/ヤングキングアワーズ.md "wikilink")』からの移籍
   - [デスレス](https://ja.wikipedia.org/wiki/デスレス "wikilink")（[六道神士](../Page/六道神士.md "wikilink")） ←『ヤングキング』からの移籍
-  - テングガール（[上山徹郎](https://ja.wikipedia.org/wiki/上山徹郎 "wikilink")）
+  - テングガール（[上山徹郎](../Page/上山徹郎.md "wikilink")）
   - [ドリームキングR](https://ja.wikipedia.org/wiki/ドリームキングR "wikilink")（原作：俵家宗弖一、作画：柳内大樹）
   - ドンケツ（たーし） →『ヤングキング』に移籍
-  - なまいき☆クラスメイト（[きづきあきら](https://ja.wikipedia.org/wiki/きづきあきら "wikilink")・[サトウナンキ](https://ja.wikipedia.org/wiki/サトウナンキ "wikilink")）
-  - [並木橋通りアオバ自転車店](https://ja.wikipedia.org/wiki/並木橋通りアオバ自転車店 "wikilink")（[宮尾岳](../Page/宮尾岳.md "wikilink")） ←『ヤングキング』からの移籍、『ヤングキングアワーズ』にて並行連載
-  - 猫瞽女 -ネコゴゼ-（[宇河弘樹](https://ja.wikipedia.org/wiki/宇河弘樹 "wikilink")）
+  - なまいき☆クラスメイト（[きづきあきら](../Page/きづきあきら.md "wikilink")・[サトウナンキ](https://ja.wikipedia.org/wiki/サトウナンキ "wikilink")）
+  - [並木橋通りアオバ自転車店](../Page/並木橋通りアオバ自転車店.md "wikilink")（[宮尾岳](../Page/宮尾岳.md "wikilink")） ←『ヤングキング』からの移籍、『ヤングキングアワーズ』にて並行連載
+  - 猫瞽女 -ネコゴゼ-（[宇河弘樹](../Page/宇河弘樹.md "wikilink")）
   - ハイエナ（[藤原さとし](https://ja.wikipedia.org/wiki/藤原さとし "wikilink")） →『ヤングキング』に移籍
   - ハッピーネガティブマリッジ（[甘詰留太](../Page/甘詰留太.md "wikilink")） →『[ヤングコミック](https://ja.wikipedia.org/wiki/ヤングコミック "wikilink")』に移籍(2013年5月号に掲載)\[13\]\[14\]
   - [バトルクラブ](../Page/バトルクラブ.md "wikilink")（[塩崎雄二](../Page/塩崎雄二.md "wikilink")） ←『ヤングキング』からの移籍
@@ -127,12 +127,12 @@
   - 放課後探偵倶楽部（[石川マサキ](../Page/石川マサキ.md "wikilink")）
   - ぼくらのふしだら（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
   - [まるせい](https://ja.wikipedia.org/wiki/まるせい_\(漫画\) "wikilink")（[花見沢Q太郎](../Page/花見沢Q太郎.md "wikilink")） ←『ヤングキング』からの移籍
-  - マンガで読む心のクスリ（原作：[ゆうきゆう](https://ja.wikipedia.org/wiki/ゆうきゆう "wikilink")、作画：[長月みそか](https://ja.wikipedia.org/wiki/長月みそか "wikilink")）
+  - マンガで読む心のクスリ（原作：[ゆうきゆう](https://ja.wikipedia.org/wiki/ゆうきゆう "wikilink")、作画：[長月みそか](../Page/長月みそか.md "wikilink")）
   - マンガで分かる肉体改造（原作：ゆうきゆう、作画：ソウ）
       - 糖質制限編
       - スキンケア編
       - 短眠編
-  - 漫犬 〜エロ漫の星〜（[金平守人](https://ja.wikipedia.org/wiki/金平守人 "wikilink")）
+  - 漫犬 〜エロ漫の星〜（[金平守人](../Page/金平守人.md "wikilink")）
   - [メンタルモデル・リサーチ](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（[一葵さやか](https://ja.wikipedia.org/wiki/一葵さやか "wikilink")）
   - 妄想と現実の間で。（[草野紅壱](https://ja.wikipedia.org/wiki/草野紅壱 "wikilink")） →『ヤングキング』に移籍
   - MOMOの娘\!（[Boichi](../Page/Boichi.md "wikilink")）
@@ -140,7 +140,7 @@
   - [ようこそ蒼き鋼へ\!](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ#コラム・トリビュート作など "wikilink")（十一虎）
   - ラブスマ LOVELY♥ SMASH（夕凪薫）
   - ルーザー（[コウノコウジ](https://ja.wikipedia.org/wiki/コウノコウジ "wikilink")）
-  - 連載島（[金平守人](https://ja.wikipedia.org/wiki/金平守人 "wikilink")）
+  - 連載島（[金平守人](../Page/金平守人.md "wikilink")）
   - 倫敦塔の鵺（相模映）
   - わたしのふしだら（[大見武士](https://ja.wikipedia.org/wiki/大見武士 "wikilink")）
 

@@ -3,9 +3,9 @@
 
 **JULIE IV 今僕は倖せです**（ジュリー・フォー いまぼくはしあわせです）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の3作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
 
-[1972年](../Page/1972年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink") （現[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
+[1972年](../Page/1972年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink") （現[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
 
-その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、また[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[ユニバーサルミュージックから再リリースされている](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")、また[2005年](../Page/2005年.md "wikilink")には[ユニバーサルミュージックから再リリースされている](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -22,10 +22,10 @@
 1.  **今　僕は倖せです**
       - 編曲:[大野克夫](../Page/大野克夫.md "wikilink")
 2.  **被害妄想**
-      - 編曲:[井上堯之](https://ja.wikipedia.org/wiki/井上堯之 "wikilink")
+      - 編曲:[井上堯之](../Page/井上堯之.md "wikilink")
 3.  **不良時代**
       - 編曲:大野克夫
-      - 沢田がゲストで出演した[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系列の[刑事ドラマ](https://ja.wikipedia.org/wiki/刑事ドラマ "wikilink")「[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")」の第20話「そして、愛は終った」で挿入歌として使用された。
+      - 沢田がゲストで出演した[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系列の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")「[太陽にほえろ\!](../Page/太陽にほえろ!.md "wikilink")」の第20話「そして、愛は終った」で挿入歌として使用された。
 4.  **湯屋さん**
       - 編曲:大野克夫
 5.  **悲しくなると**
@@ -55,6 +55,6 @@
       - 井上堯之
       - 大野克夫
       - 原田祐臣
-      - [岸部修三](https://ja.wikipedia.org/wiki/岸部一徳 "wikilink")
+      - [岸部修三](../Page/岸部一徳.md "wikilink")
 
 [Category:沢田研二のアルバム](https://ja.wikipedia.org/wiki/Category:沢田研二のアルバム "wikilink") [Category:1972年のアルバム](https://ja.wikipedia.org/wiki/Category:1972年のアルバム "wikilink") [Category:ポリドール・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのアルバム "wikilink")

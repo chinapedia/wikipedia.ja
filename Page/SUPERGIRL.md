@@ -1,7 +1,7 @@
 > この記事は[SUPERGIRL](https://ja.wikipedia.org/wiki/SUPERGIRL)から翻訳されています。
 
 
-「**SUPERGIRL**」（スーパーガール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")[Folder5](https://ja.wikipedia.org/wiki/Folder5 "wikilink")の1枚目のシングル。[2000年](../Page/2000年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[avex tuneより発売された](https://ja.wikipedia.org/wiki/avex_tune "wikilink")。
+「**SUPERGIRL**」（スーパーガール）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")[Folder5](../Page/Folder5.md "wikilink")の1枚目のシングル。[2000年](../Page/2000年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")に[avex tuneより発売された](https://ja.wikipedia.org/wiki/avex_tune "wikilink")。
 
 ## 解説
 
@@ -17,7 +17,7 @@
         1stオリジナルアルバム『[HYPER GROOVE 1](https://ja.wikipedia.org/wiki/HYPER_GROOVE_1 "wikilink")』、ベストアルバム『[Folder+Folder 5 SINGLE COLLECTION and more](https://ja.wikipedia.org/wiki/Folder+Folder_5_SINGLE_COLLECTION_and_more "wikilink")」「[Folder+Folder 5 COMPLETE BOX](https://ja.wikipedia.org/wiki/Folder+Folder_5_COMPLETE_BOX "wikilink")』など数々のアルバムに収録されている。
 2.  ADVENTURE
       -
-        （作詞：サエキけんぞう / 作曲・編曲：[BULGE](https://ja.wikipedia.org/wiki/BULGE "wikilink")）
+        （作詞：サエキけんぞう / 作曲・編曲：[BULGE](../Page/BULGE.md "wikilink")）
 3.  SUPERGIRL (New Funk Mix)
 4.  SUPERGIRL (Groove That Soul Mix)
 5.  SUPERGIRL (instrumantal)

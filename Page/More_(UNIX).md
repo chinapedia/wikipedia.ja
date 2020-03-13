@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:More_\(Unix\).jpg "wikilink")
 
-**more**（モア）は、[Unix系](../Page/Unix系.md "wikilink")のシステムにおいて、[テキストファイル](https://ja.wikipedia.org/wiki/テキストファイル "wikilink")の内容を閲覧するために用いられるプログラムである。この種のプログラムは[ページャ](https://ja.wikipedia.org/wiki/ページャ "wikilink")と呼ばれる。<span style="font-family:monospace;">more</span>は非常に原始的なページャで、もともと表示領域を前方向に進めることしかできなかった。しかし、最近の実装では後方向へのスクロールも可能になっている。
+**more**（モア）は、[Unix系](../Page/Unix系.md "wikilink")のシステムにおいて、[テキストファイル](../Page/テキストファイル.md "wikilink")の内容を閲覧するために用いられるプログラムである。この種のプログラムは[ページャ](https://ja.wikipedia.org/wiki/ページャ "wikilink")と呼ばれる。<span style="font-family:monospace;">more</span>は非常に原始的なページャで、もともと表示領域を前方向に進めることしかできなかった。しかし、最近の実装では後方向へのスクロールも可能になっている。
 
 ## 歴史
 

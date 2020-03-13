@@ -93,7 +93,7 @@ mozilla.shutdownXPCOM(null);
 ## 関連項目
 
   - [XULRunner](../Page/XULRunner.md "wikilink")
-  - [XUL](https://ja.wikipedia.org/wiki/XUL "wikilink")
+  - [XUL](../Page/XUL.md "wikilink")
   - [XPCOM](../Page/XPCOM.md "wikilink")
 
 ## 外部リンク

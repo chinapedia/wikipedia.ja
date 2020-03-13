@@ -3,9 +3,9 @@
 
 '''JULIE II '''（ジュリー・ツー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")である[沢田研二](../Page/沢田研二.md "wikilink")の2作目となるオリジナル[アルバム](../Page/アルバム.md "wikilink")。
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink") （現[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[ポリドール](../Page/ポリドール・レコード.md "wikilink") （現[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）から[LP盤でリリースされた](../Page/レコード.md "wikilink")。
 
-その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")、また[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")には[ユニバーサルミュージックから再リリースされている](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\) "wikilink")。
+その後[CD化され](../Page/コンパクトディスク.md "wikilink")、[1991年](../Page/1991年.md "wikilink")と[1996年](../Page/1996年.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")、また[2005年](../Page/2005年.md "wikilink")には[ユニバーサルミュージックから再リリースされている](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
 
 ## 解説
 
@@ -26,7 +26,7 @@
 4.  **男の友情**
       - 作曲:クニ河内
 5.  **[美しい予感](../Page/許されない愛.md "wikilink")**
-      - 作曲:[井上堯之](https://ja.wikipedia.org/wiki/井上堯之 "wikilink")
+      - 作曲:[井上堯之](../Page/井上堯之.md "wikilink")
 6.  **揺れるこころ**
       - 作曲:[大野克夫](../Page/大野克夫.md "wikilink")
 7.  **純白の夜明け**

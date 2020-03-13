@@ -16,7 +16,7 @@
   - [インターナショナル・ダガー賞](https://ja.wikipedia.org/wiki/インターナショナル・ダガー賞 "wikilink") (The Duncan Lawrie International Dagger)
     優れた英語以外の作品に与えられる賞。
   - [イアン・フレミング・スチール・ダガー賞](https://ja.wikipedia.org/wiki/イアン・フレミング・スチール・ダガー賞 "wikilink") (The Ian Fleming Steel Dagger for best thriller)
-    優れたスリラー作品に与えられる賞。スパイ小説「[007シリーズ](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")」を送り出した作家[イアン・フレミング](https://ja.wikipedia.org/wiki/イアン・フレミング "wikilink")に因む。
+    優れたスリラー作品に与えられる賞。スパイ小説「[007シリーズ](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")」を送り出した作家[イアン・フレミング](../Page/イアン・フレミング.md "wikilink")に因む。
   - [エリス・ピーターズ・ヒストリカル・ダガー賞](https://ja.wikipedia.org/wiki/エリス・ピーターズ・ヒストリカル・ダガー賞 "wikilink") (Ellis Peters Historical Award)
     優れた歴史ミステリーに与えられる賞。「[修道士カドフェル](../Page/修道士カドフェル.md "wikilink")シリーズ」を送り出したイギリスの女性作家[エリス・ピーターズに因む](../Page/イーディス・パージター.md "wikilink")。1999年に新設。
   - ノンフィクション・ゴールドダガー賞 (The CWA Gold Dagger for Non-Fiction)

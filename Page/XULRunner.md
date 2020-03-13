@@ -1,7 +1,7 @@
 > この記事は[XULRunner](https://ja.wikipedia.org/wiki/XULRunner)から翻訳されています。
 
 
-**XULRunner**（ズールランナー）は、[XUL](https://ja.wikipedia.org/wiki/XUL "wikilink")+[XPCOM](https://ja.wikipedia.org/wiki/XPCOM "wikilink")アプリケーションの組み込み、起動を可能にするランタイムパッケージである。XULRunnerはそのバージョン番号と同じ[Firefoxと同じコードベースを使用している](../Page/Mozilla_Firefox.md "wikilink")。XULRunnerは、GRE (Gecko Runtime Environment) の後継技術であり、[Gecko](../Page/Gecko.md "wikilink")レンダリングエンジンの組み込み技術として利用が可能である。このことから、XULRunner を「新GRE」と呼ぶこともある。配布パッケージを利用することで、[C++](../Page/C++.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink") ([XPConnect](https://ja.wikipedia.org/wiki/XPConnect "wikilink"))、[Perl](../Page/Perl.md "wikilink") ([PlXPCOM](https://ja.wikipedia.org/wiki/PlXPCOM "wikilink"))、[Python](../Page/Python.md "wikilink") ([PyXPCOM](https://ja.wikipedia.org/wiki/PyXPCOM "wikilink"))、[Java](https://ja.wikipedia.org/wiki/Java "wikilink") ([JavaXPCOM](https://ja.wikipedia.org/wiki/JavaXPCOM "wikilink"))、[Ruby](../Page/Ruby.md "wikilink") ([RbXPCOM](https://ja.wikipedia.org/wiki/RbXPCOM "wikilink")) などから、提供コンポーネントを呼び出すことが可能である。現在、XULRunnerには 1,000 以上のXPCOMコンポーネントが含まれている。バイナリパッケージは、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") の各[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")用のものが提供されている。また、Firefox 3以降にはプライベートなXULRunnerパッケージが同梱されているため、XULRunnerアプリケーションをFirefoxの環境上で実行することも可能である。
+**XULRunner**（ズールランナー）は、[XUL](../Page/XUL.md "wikilink")+[XPCOM](../Page/XPCOM.md "wikilink")アプリケーションの組み込み、起動を可能にするランタイムパッケージである。XULRunnerはそのバージョン番号と同じ[Firefoxと同じコードベースを使用している](../Page/Mozilla_Firefox.md "wikilink")。XULRunnerは、GRE (Gecko Runtime Environment) の後継技術であり、[Gecko](../Page/Gecko.md "wikilink")レンダリングエンジンの組み込み技術として利用が可能である。このことから、XULRunner を「新GRE」と呼ぶこともある。配布パッケージを利用することで、[C++](../Page/C++.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink") ([XPConnect](https://ja.wikipedia.org/wiki/XPConnect "wikilink"))、[Perl](../Page/Perl.md "wikilink") ([PlXPCOM](https://ja.wikipedia.org/wiki/PlXPCOM "wikilink"))、[Python](../Page/Python.md "wikilink") ([PyXPCOM](https://ja.wikipedia.org/wiki/PyXPCOM "wikilink"))、[Java](https://ja.wikipedia.org/wiki/Java "wikilink") ([JavaXPCOM](../Page/JavaXPCOM.md "wikilink"))、[Ruby](../Page/Ruby.md "wikilink") ([RbXPCOM](https://ja.wikipedia.org/wiki/RbXPCOM "wikilink")) などから、提供コンポーネントを呼び出すことが可能である。現在、XULRunnerには 1,000 以上のXPCOMコンポーネントが含まれている。バイナリパッケージは、[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink") の各[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")用のものが提供されている。また、Firefox 3以降にはプライベートなXULRunnerパッケージが同梱されているため、XULRunnerアプリケーションをFirefoxの環境上で実行することも可能である。
 
 2015年7月にMozillaはXULRunnerの開発を終了することを発表した\[1\]。
 
@@ -26,7 +26,7 @@ XULRunnerには、[Mozilla Public License](../Page/Mozilla_Public_License.md "wi
   - [ChatZilla](../Page/ChatZilla.md "wikilink")（[IRCクライアント](https://ja.wikipedia.org/wiki/インターネット・リレー・チャット "wikilink")）
   - [Google Adwords Editor](http://www.google.com/intl/ja/adwordseditor/) ([Google](../Page/Google.md "wikilink"))
   - [SongBird](http://getsongbird.com/) (音楽プレイヤー)
-  - [風博士](https://ja.wikipedia.org/wiki/風博士_\(ウェブブラウザ\) "wikilink") (ウェブブラウザ)
+  - [風博士](../Page/風博士_\(ウェブブラウザ\).md "wikilink") (ウェブブラウザ)
 
 ## 脚注
 
@@ -35,8 +35,8 @@ XULRunnerには、[Mozilla Public License](../Page/Mozilla_Public_License.md "wi
   - [Mozilla Firefox](../Page/Mozilla_Firefox.md "wikilink")
   - [Mozilla Public License](../Page/Mozilla_Public_License.md "wikilink")
   - [Gecko](../Page/Gecko.md "wikilink")
-  - [XUL](https://ja.wikipedia.org/wiki/XUL "wikilink")
-  - [XPCOM](https://ja.wikipedia.org/wiki/XPCOM "wikilink")
+  - [XUL](../Page/XUL.md "wikilink")
+  - [XPCOM](../Page/XPCOM.md "wikilink")
 
 ## 外部リンク
 

@@ -5,14 +5,14 @@
 
 ## 解説
 
-  - 現時点でTRFで最も売れたシングルである (158.7万枚・[オリコン調べ](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink"))。
+  - 現時点でTRFで最も売れたシングルである (158.7万枚・[オリコン調べ](../Page/オリコンチャート.md "wikilink"))。
   - 3ヶ月連続リリースの第1弾となった曲である。
   - サビの終わりの部分で、次回作「masquerade」のメロディーが入ってくる箇所がある。
   - [関西テレビ制作](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[我慢できない\!](../Page/我慢できない!.md "wikilink")』 主題歌に採用された。
-  - 作曲者の小室哲哉は「製作段階では[ジャングル風の曲調にする予定だった](https://ja.wikipedia.org/wiki/ジャングル_\(音楽\) "wikilink")」と語っている。
+  - 作曲者の小室哲哉は「製作段階では[ジャングル風の曲調にする予定だった](../Page/ジャングル_\(音楽\).md "wikilink")」と語っている。
   - 小室の泊まっているホテルの部屋でレコーディングが可能な程のプリプロダクション用の機材が持ち込まれた。trfのコンサートの準備と多方面のプロジェクトのレコーディングと同時進行というタイトなスケジュールを縫いながら制作された\[1\]。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月29日](../Page/11月29日.md "wikilink")に12cmシングル廉価版として再発売された。
-  - [2012年](../Page/2012年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送された](../Page/フジネットワーク.md "wikilink")『[FNSうたの夏まつり2012](https://ja.wikipedia.org/wiki/FNSうたの夏まつり#2012年 "wikilink")』では、TRF×[AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")×小室哲哉が[コラボレーション](https://ja.wikipedia.org/wiki/コラボレーション "wikilink")し、同曲を披露した。
+  - [2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に12cmシングル廉価版として再発売された。
+  - [2012年](../Page/2012年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")に[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で放送された](../Page/フジネットワーク.md "wikilink")『[FNSうたの夏まつり2012](https://ja.wikipedia.org/wiki/FNSうたの夏まつり#2012年 "wikilink")』では、TRF×[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")×小室哲哉が[コラボレーション](../Page/コラボレーション.md "wikilink")し、同曲を披露した。
 
 ## 収録曲
 
@@ -26,7 +26,7 @@
 
 ### 2006年
 
-  - [avex trax所属のAAAによってカバーされ](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、TRFのアルバム『[Lif-e-Motions](https://ja.wikipedia.org/wiki/Lif-e-Motions "wikilink")』、AAAのカバーアルバム『[CCC -CHALLENGE COVER COLLECTION-](../Page/CCC-CHALLENGE_COVER_COLLECTION-.md "wikilink")』に収録された。
+  - [avex trax所属のAAAによってカバーされ](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、TRFのアルバム『[Lif-e-Motions](../Page/Lif-e-Motions.md "wikilink")』、AAAのカバーアルバム『[CCC -CHALLENGE COVER COLLECTION-](../Page/CCC-CHALLENGE_COVER_COLLECTION-.md "wikilink")』に収録された。
 
 ### 2010年
 
@@ -47,7 +47,7 @@
 
 ### 2016年
 
-  - avex traxから発売されたライブアイドルの[コンピレーション・アルバム](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")[EXA IDOL COMPLEX〜Super duper\!にて](https://ja.wikipedia.org/wiki/EXA_IDOL_COMPLEX〜Super_duper! "wikilink")[原宿物語](https://ja.wikipedia.org/wiki/原宿物語 "wikilink")によってカバーされた。
+  - avex traxから発売されたライブアイドルの[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")[EXA IDOL COMPLEX〜Super duper\!にて](https://ja.wikipedia.org/wiki/EXA_IDOL_COMPLEX〜Super_duper! "wikilink")[原宿物語](https://ja.wikipedia.org/wiki/原宿物語 "wikilink")によってカバーされた。
 
 ### 2017年
 

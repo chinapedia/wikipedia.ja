@@ -1,7 +1,7 @@
 > この記事は[ThinkLight](https://ja.wikipedia.org/wiki/ThinkLight)から翻訳されています。
 
 
-[ThinkLight.jpg](https://ja.wikipedia.org/wiki/File:ThinkLight.jpg "fig:ThinkLight.jpg") **ThinkLight**（シンクライト）は、[レノボ](https://ja.wikipedia.org/wiki/レノボ "wikilink") ([IBM](../Page/IBM.md "wikilink")) のノートパソコン、[ThinkPad](../Page/ThinkPad.md "wikilink")に搭載されている[ライト](../Page/照明.md "wikilink")。
+[ThinkLight.jpg](https://ja.wikipedia.org/wiki/File:ThinkLight.jpg "fig:ThinkLight.jpg") **ThinkLight**（シンクライト）は、[レノボ](../Page/レノボ.md "wikilink") ([IBM](../Page/IBM.md "wikilink")) のノートパソコン、[ThinkPad](../Page/ThinkPad.md "wikilink")に搭載されている[ライト](../Page/照明.md "wikilink")。
 
 ThinkLightはレノボの商標であり、公式には「**ThinkPad キーボード・ライト**」とアナウンスされている。
 

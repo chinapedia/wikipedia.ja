@@ -12,7 +12,7 @@
 ## 収録曲
 
 1.  **[Communication Break](../Page/Communication_Break.md "wikilink")**
-      - 作詞：上木彩矢 / 作曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink") / 編曲：[後藤康二](../Page/後藤康二.md "wikilink")
+      - 作詞：上木彩矢 / 作曲：[徳永暁人](../Page/徳永暁人.md "wikilink") / 編曲：[後藤康二](../Page/後藤康二.md "wikilink")
     <!-- end list -->
       -
         1stシングル
@@ -30,7 +30,7 @@
       - 作詞：上木彩矢 / 作曲：[大野愛果](../Page/大野愛果.md "wikilink") / 編曲：葉山たけし
     <!-- end list -->
       -
-        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN "wikilink")』2006年7月度オープニングテーマ
+        [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[JAPAN COUNTDOWN](../Page/JAPAN_COUNTDOWN.md "wikilink")』2006年7月度オープニングテーマ
 5.  **Bounce, Bounce, Bounce**
       - 作詞：上木彩矢 / 作曲：大野愛果 / 編曲：葉山たけし
 6.  **プライド オブ プレイス**

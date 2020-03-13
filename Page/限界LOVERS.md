@@ -1,11 +1,11 @@
 > この記事は[LOVERS](https://ja.wikipedia.org/wiki/LOVERS)から翻訳されています。
 
 
-「**限界LOVERS**」（げんかいラヴァーズ）は[SHOW-YA](../Page/SHOW-YA.md "wikilink")の8枚目のシングル。[1989年](../Page/1989年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に[東芝EMIからリリースされた](https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン "wikilink")。
+「**限界LOVERS**」（げんかいラヴァーズ）は[SHOW-YA](../Page/SHOW-YA.md "wikilink")の8枚目のシングル。[1989年](../Page/1989年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")。
 
 ## 解説
 
-このシングル以降、寺田脱退時までは、[安藤芳彦](https://ja.wikipedia.org/wiki/安藤芳彦 "wikilink")をこの[バンドの専属作詞家として起用した](../Page/バンド_\(音楽\).md "wikilink")。[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")を強く意識したシングル。[昭和シェル石油](../Page/昭和シェル石油.md "wikilink")の[CMソングとなった結果](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")、ブレイクをし始めるようになった。また、サビの歌詞では、いずれも「天使○○悪魔○○」である。
+このシングル以降、寺田脱退時までは、[安藤芳彦](https://ja.wikipedia.org/wiki/安藤芳彦 "wikilink")をこの[バンドの専属作詞家として起用した](../Page/バンド_\(音楽\).md "wikilink")。[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")を強く意識したシングル。[昭和シェル石油](../Page/昭和シェル石油.md "wikilink")の[CMソングとなった結果](../Page/コマーシャルソング.md "wikilink")、ブレイクをし始めるようになった。また、サビの歌詞では、いずれも「天使○○悪魔○○」である。
 
 後に、[デーモン小暮閣下がカバー](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")。また、[寺田恵子](https://ja.wikipedia.org/wiki/寺田恵子 "wikilink")のソロ・ライヴで、[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")弾き語りスタイルで披露されたこともある。
 
@@ -21,14 +21,14 @@
 <th><p>規格</p></th>
 <th><p>発売年月日</p></th>
 <th><p>レーベル</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/規格品番" title="wikilink">品番</a></p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">品番</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>EP</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EMIミュージック・ジャパン" title="wikilink">EAST WORLD / 東芝EMI</a></p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">EAST WORLD / 東芝EMI</a></p></td>
 <td><p>RT07-2311</p></td>
 </tr>
 <tr class="even">

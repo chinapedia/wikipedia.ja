@@ -5,9 +5,9 @@
 
 ## 内容
 
-ZARD初のライブ映像を収録したDVD。主に[東京国際フォーラム](https://ja.wikipedia.org/wiki/東京国際フォーラム "wikilink")の映像で構成されている。
+ZARD初のライブ映像を収録したDVD。主に[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink")の映像で構成されている。
 
-本来なら[2004年](../Page/2004年.md "wikilink")[9月8日](https://ja.wikipedia.org/wiki/9月8日 "wikilink")に発売予定であったが、[日本武道館](../Page/日本武道館.md "wikilink")公演の模様も収録するということで発売が延期されている。
+本来なら[2004年](../Page/2004年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink")に発売予定であったが、[日本武道館](../Page/日本武道館.md "wikilink")公演の模様も収録するということで発売が延期されている。
 
 [坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")にとっては生涯でただひとつのコンサート映像DVD作品となった。
 
@@ -66,27 +66,27 @@ ZARD初のライブ映像を収録したDVD。主に[東京国際フォーラム
 
 <!-- end list -->
 
-  - [大賀好修](../Page/大賀好修.md "wikilink")：[Live](https://ja.wikipedia.org/wiki/演奏会 "wikilink") [Arrangement](../Page/編曲.md "wikilink")、[Electric Guitar](../Page/エレクトリック・ギター.md "wikilink") & [Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink")
+  - [大賀好修](../Page/大賀好修.md "wikilink")：[Live](../Page/演奏会.md "wikilink") [Arrangement](../Page/編曲.md "wikilink")、[Electric Guitar](../Page/エレクトリック・ギター.md "wikilink") & [Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink")
   - [綿貫正顕](../Page/綿貫正顕.md "wikilink")：Electric Guitar
   - [岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")：Electric Guitar
-  - [麻井寛史](../Page/麻井寛史.md "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - [麻井寛史](../Page/麻井寛史.md "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink")
   - [古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")：[Keyboards](../Page/キーボード_\(楽器\).md "wikilink")
   - [大楠雄蔵](../Page/大楠雄蔵.md "wikilink")：Keyboards
-  - [岩井勇一郎](https://ja.wikipedia.org/wiki/岩井勇一郎 "wikilink")：Acoustic Guitar & [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - [岩井勇一郎](../Page/岩井勇一郎.md "wikilink")：Acoustic Guitar & [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")：Acoustic Guitar & Chorus
   - SATIN DOLL：Chorus
       - Megu
       - Miki
       - Kayo
-  - [岡崎雪](https://ja.wikipedia.org/wiki/岡崎雪 "wikilink")：Chorus
+  - [岡崎雪](../Page/岡崎雪.md "wikilink")：Chorus
   - 高久知也：[Violin](../Page/ヴァイオリン.md "wikilink")
   - [鈴木央紹](https://ja.wikipedia.org/wiki/鈴木央紹 "wikilink")：[Saxophone](../Page/サクソフォーン.md "wikilink")
-  - [勝田一樹](https://ja.wikipedia.org/wiki/勝田一樹 "wikilink")：Saxophone
-  - [車谷啓介](https://ja.wikipedia.org/wiki/車谷啓介 "wikilink")：[Percussion](../Page/パーカッション.md "wikilink")
+  - [勝田一樹](../Page/勝田一樹.md "wikilink")：Saxophone
+  - [車谷啓介](../Page/車谷啓介.md "wikilink")：[Percussion](../Page/パーカッション.md "wikilink")
   - デヴィッド・ブラウン：[Drums](../Page/ドラムセット.md "wikilink")
-  - [大藪拓](https://ja.wikipedia.org/wiki/大藪拓 "wikilink")：[Manipulator](https://ja.wikipedia.org/wiki/マニピュレーター#電子音楽 "wikilink")
+  - [大藪拓](../Page/大藪拓.md "wikilink")：[Manipulator](https://ja.wikipedia.org/wiki/マニピュレーター#電子音楽 "wikilink")
   - 兼松宏尚：Manipulator
-  - [池田大介](https://ja.wikipedia.org/wiki/池田大介 "wikilink")：[Opening](https://ja.wikipedia.org/wiki/オープニング "wikilink") [SE](https://ja.wikipedia.org/wiki/効果音 "wikilink") Arrangement
+  - [池田大介](https://ja.wikipedia.org/wiki/池田大介 "wikilink")：[Opening](https://ja.wikipedia.org/wiki/オープニング "wikilink") [SE](../Page/効果音.md "wikilink") Arrangement
 
 ## 関連項目
 

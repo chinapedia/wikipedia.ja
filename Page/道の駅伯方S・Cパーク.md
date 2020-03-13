@@ -1,9 +1,9 @@
 > この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
 
 
-**道の駅伯方S・Cパーク**（みちのえき はかたエスシーパーク）は、[愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")の[伯方島](../Page/伯方島.md "wikilink")にある[国道317号](https://ja.wikipedia.org/wiki/国道317号 "wikilink")沿いの[道の駅](../Page/道の駅.md "wikilink")である。また、**みなとオアシス伯方**として[みなとオアシス](https://ja.wikipedia.org/wiki/みなとオアシス "wikilink")も同一施設で運営している。愛称は**マリンオアシスはかた**。[株式会社しまなみが管理運営を行っている](https://ja.wikipedia.org/wiki/しまなみ_\(企業\) "wikilink")。
+**道の駅伯方S・Cパーク**（みちのえき はかたエスシーパーク）は、[愛媛県](../Page/愛媛県.md "wikilink")[今治市](../Page/今治市.md "wikilink")の[伯方島](../Page/伯方島.md "wikilink")にある[国道317号](../Page/国道317号.md "wikilink")沿いの[道の駅](../Page/道の駅.md "wikilink")である。また、**みなとオアシス伯方**として[みなとオアシス](https://ja.wikipedia.org/wiki/みなとオアシス "wikilink")も同一施設で運営している。愛称は**マリンオアシスはかた**。[株式会社しまなみが管理運営を行っている](https://ja.wikipedia.org/wiki/しまなみ_\(企業\) "wikilink")。
 
-建物は船の形を模している。[砂浜](../Page/砂浜.md "wikilink")に面しており、[ソフトクリーム](https://ja.wikipedia.org/wiki/ソフトクリーム "wikilink")や[伯方の塩](../Page/伯方の塩.md "wikilink")を販売している。
+建物は船の形を模している。[砂浜](../Page/砂浜.md "wikilink")に面しており、[ソフトクリーム](../Page/ソフトクリーム.md "wikilink")や[伯方の塩](../Page/伯方の塩.md "wikilink")を販売している。
 
 ## 沿革
 
@@ -55,7 +55,7 @@
 
 ## アクセス
 
-  - [国道317号](https://ja.wikipedia.org/wiki/国道317号 "wikilink")
+  - [国道317号](../Page/国道317号.md "wikilink")
 
 ## 周辺
 
@@ -70,7 +70,7 @@
 
 ## 関連項目
 
-  - [道の駅一覧 四国地方](https://ja.wikipedia.org/wiki/道の駅一覧_四国地方 "wikilink")
+  - [道の駅一覧 四国地方](../Page/道の駅一覧_四国地方.md "wikilink")
   - [道の駅一覧 は行](../Page/道の駅一覧_は行.md "wikilink")
 
 ## 外部リンク

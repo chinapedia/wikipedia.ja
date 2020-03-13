@@ -1,9 +1,9 @@
 > この記事は[ANZAC](https://ja.wikipedia.org/wiki/ANZAC)から翻訳されています。
 
 
-**ANZACの日**（アンザックのひ）もしくは**アンザック・デー**（）は、[オーストラリア](../Page/オーストラリア.md "wikilink")・[ニュージーランド](../Page/ニュージーランド.md "wikilink")・[クック諸島](https://ja.wikipedia.org/wiki/クック諸島 "wikilink")・[ニウエ](https://ja.wikipedia.org/wiki/ニウエ "wikilink")・[サモア](../Page/サモア.md "wikilink")・[トンガ](../Page/トンガ.md "wikilink") の[休日](../Page/休日.md "wikilink")。
+**ANZACの日**（アンザックのひ）もしくは**アンザック・デー**（）は、[オーストラリア](../Page/オーストラリア.md "wikilink")・[ニュージーランド](../Page/ニュージーランド.md "wikilink")・[クック諸島](../Page/クック諸島.md "wikilink")・[ニウエ](../Page/ニウエ.md "wikilink")・[サモア](../Page/サモア.md "wikilink")・[トンガ](../Page/トンガ.md "wikilink") の[休日](../Page/休日.md "wikilink")。
 
-毎年[4月25日](../Page/4月25日.md "wikilink")、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の[ガリポリの戦い](https://ja.wikipedia.org/wiki/ガリポリの戦い "wikilink")で勇敢に戦った[オーストラリア・ニュージーランド軍団](../Page/オーストラリア・ニュージーランド軍団.md "wikilink")([ANZAC](https://ja.wikipedia.org/wiki/ANZAC "wikilink"))の兵たちと、当時国の為に尽力した人々のために追悼を行う。
+毎年[4月25日](../Page/4月25日.md "wikilink")、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")の[ガリポリの戦い](../Page/ガリポリの戦い.md "wikilink")で勇敢に戦った[オーストラリア・ニュージーランド軍団](../Page/オーストラリア・ニュージーランド軍団.md "wikilink")([ANZAC](https://ja.wikipedia.org/wiki/ANZAC "wikilink"))の兵たちと、当時国の為に尽力した人々のために追悼を行う。
 
 1969年に記念日が設立した。1915年4月25日にANZAC軍がトルコ(当時は[オスマン帝国](../Page/オスマン帝国.md "wikilink"))の[ガリポリに上陸したことに由来する](https://ja.wikipedia.org/wiki/ゲリボル "wikilink")。
 

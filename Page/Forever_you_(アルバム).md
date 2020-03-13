@@ -1,11 +1,11 @@
 > この記事は[Forever you \(\)](https://ja.wikipedia.org/wiki/Forever_you_\(\))から翻訳されています。
 
 
-『**forever you**』（フォーエバー・ユー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")に[B-Gram RECORDSから発売された](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")6枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
+『**forever you**』（フォーエバー・ユー）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月10日](../Page/3月10日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")6枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 内容
 
-  - 今作で初めて他アーティストへの提供曲の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")がアルバムに収録（10曲目の「[瞳そらさないで](../Page/瞳そらさないで.md "wikilink")」）。
+  - 今作で初めて他アーティストへの提供曲の[セルフカバー](../Page/セルフカバー.md "wikilink")がアルバムに収録（10曲目の「[瞳そらさないで](../Page/瞳そらさないで.md "wikilink")」）。
   - ジャケットが[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")のアップであるが、これ以降『[止まっていた時計が今動き出した](../Page/止まっていた時計が今動き出した.md "wikilink")』まで坂井のアップの写真はない。また、ジャケット写真は今作が発売された1995年当時のものではなく、3rdアルバム『[HOLD ME](../Page/HOLD_ME.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）の頃のものである。
   - またオリジナルアルバムの曲が6曲以上あったのもこのアルバムまでで、『止まっていた時計が今動き出した』までオリジナルアルバムの曲は3曲ほどになっている。（セルフカバーを除く）。
   - アルバム「HOLD ME」から始まったZARDの“Z”に“〜”（波線）が入るデザインのロゴは、このアルバムで終了した。
@@ -18,8 +18,8 @@
         <div class="NavContent" style="text-align: left;font-size:small;">
 
         作詞：[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")
-        作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")
-        編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+        作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")
+        編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
 
         </div>
 
@@ -99,7 +99,7 @@
 
         タワーレコードCMソングとして起用され、本作を8cmシングルにした限定シングルも発売された。
 
-        [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")などが[コーラスで参加している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。坂井の死後、『[Brezza di mare 〜dedicated to IZUMI SAKAI〜](../Page/Brezza_di_mare_〜dedicated_to_IZUMI_SAKAI〜.md "wikilink")』に収録となった。
+        [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")、[川島だりあ](../Page/川島だりあ.md "wikilink")などが[コーラスで参加している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。坂井の死後、『[Brezza di mare 〜dedicated to IZUMI SAKAI〜](../Page/Brezza_di_mare_〜dedicated_to_IZUMI_SAKAI〜.md "wikilink")』に収録となった。
 8.  **[こんなにそばに居るのに](../Page/こんなにそばに居るのに.md "wikilink")**
       -
 
@@ -118,7 +118,7 @@
         <div class="NavContent" style="text-align: left;font-size:small;">
 
         作詞：坂井泉水
-        作曲：[春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")
+        作曲：[春畑道哉](../Page/春畑道哉.md "wikilink")
         編曲：[葉山たけし](../Page/葉山たけし.md "wikilink")
 
         </div>
@@ -135,7 +135,7 @@
 
         </div>
 
-        [DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")に提供した「[瞳そらさないで](../Page/瞳そらさないで.md "wikilink")」の[セルフカバー](https://ja.wikipedia.org/wiki/セルフカバー "wikilink")曲。[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")調にアレンジされている。間奏後の大サビの繰り返しがなく、2番の大サビで終了している。\[1\]
+        [DEEN](../Page/DEEN.md "wikilink")に提供した「[瞳そらさないで](../Page/瞳そらさないで.md "wikilink")」の[セルフカバー](../Page/セルフカバー.md "wikilink")曲。[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")調にアレンジされている。間奏後の大サビの繰り返しがなく、2番の大サビで終了している。\[1\]
 
         オリジナルカラオケの音盤化はされていなかったが、2018年5月30日発売「ZARD CD＆DVD COLLECTION　第34号　突然」の付属CDにて初音盤化された。
 
@@ -153,9 +153,9 @@
 
 <!-- end list -->
 
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")：[Guest](https://ja.wikipedia.org/wiki/ゲスト#一時的 "wikilink") [Voices](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")：[Guest](https://ja.wikipedia.org/wiki/ゲスト#一時的 "wikilink") [Voices](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")：Guest Voices
-  - [川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")：Guest Voices
+  - [川島だりあ](../Page/川島だりあ.md "wikilink")：Guest Voices
   - [生沢佑一](../Page/生沢佑一.md "wikilink")：Guest Voices
   - [牧穂エミ](../Page/牧穂エミ.md "wikilink")：Guest Voices
 
@@ -163,7 +163,7 @@
 
 ## 関連項目
 
-  - [1995年の音楽](https://ja.wikipedia.org/wiki/1995年の音楽 "wikilink")
+  - [1995年の音楽](../Page/1995年の音楽.md "wikilink")
 
 [Category:ZARDのアルバム](https://ja.wikipedia.org/wiki/Category:ZARDのアルバム "wikilink") [Category:1995年のアルバム](https://ja.wikipedia.org/wiki/Category:1995年のアルバム "wikilink") [Category:1995年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 

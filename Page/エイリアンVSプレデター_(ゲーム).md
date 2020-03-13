@@ -5,7 +5,7 @@
 
 ## 概要
 
-アメリカの映画『[エイリアン](https://ja.wikipedia.org/wiki/エイリアン_\(映画\) "wikilink")』と『[プレデター](https://ja.wikipedia.org/wiki/プレデター_\(映画\) "wikilink")』は[アメリカンコミック](https://ja.wikipedia.org/wiki/アメリカンコミック "wikilink")を中心に『エイリアンVSプレデター』として[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")が展開されているが、それを原作としたゲームも多数発売されている。
+アメリカの映画『[エイリアン](../Page/エイリアン_\(映画\).md "wikilink")』と『[プレデター](../Page/プレデター_\(映画\).md "wikilink")』は[アメリカンコミック](https://ja.wikipedia.org/wiki/アメリカンコミック "wikilink")を中心に『エイリアンVSプレデター』として[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")が展開されているが、それを原作としたゲームも多数発売されている。
 
   - 1993年発売のスーパーファミコン用ソフト。Information Global Service発売、[ジョルダン開発](../Page/ジョルダン_\(企業\).md "wikilink")、日本でも発売。
       - 基本的に色違いであるだけの敵キャラ、画面中に出てくる中型エイリアンは最大2体までという仕様などから、トーンの低い静かな戦いの連続である\[2\]。残機が増えず回復手段も存在しない上に敵の数も多いため難易度は極めて高い\[3\]。
@@ -21,7 +21,7 @@
   - 1994年発売の[Atari Jaguar用ソフト](../Page/Atari_Jaguar.md "wikilink")。[Rebellion開発](https://ja.wikipedia.org/wiki/:en:Rebellion_Developments "wikilink")。
   - 1999年発売のパソコン用ソフト。Rebellion開発。
       - 2000年発売の改良版。The Gold Edition of Aliens versus Predator
-  - 2001年発売のパソコン用ソフト『Aliens versus Predator 2』。[Monolith Productions開発](https://ja.wikipedia.org/wiki/Monolith_Productions "wikilink")。
+  - 2001年発売のパソコン用ソフト『Aliens versus Predator 2』。[Monolith Productions開発](../Page/Monolith_Productions.md "wikilink")。
       - 2003年発売の改良版。The Gold Edition of Aliens versus Predator 2
   - 2002年発売のパソコン用ソフト『Aliens versus Predator 2: Primal Hunt』。[Third Law Entertainment開発](https://ja.wikipedia.org/wiki/Third_Law_Entertainment "wikilink")。
   - 2003年発売のPlayStation 2、Xbox用ソフト『Aliens versus Predator: Extinction』。Zono Inc.開発、日本では未発売。

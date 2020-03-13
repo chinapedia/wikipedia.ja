@@ -1,13 +1,13 @@
 > この記事は[SHUNSUKE](https://ja.wikipedia.org/wiki/SHUNSUKE)から翻訳されています。
 
 
-**SHUNSUKE**（しゅんすけ）は[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身のロック[ギタリスト](../Page/ギタリスト.md "wikilink")。兄であるK助のバンド、[覇叉羅](https://ja.wikipedia.org/wiki/覇叉羅 "wikilink")に高校生の時に参加し、そこから本格的なバンド活動を始める。当時はSHAM、紗夢、舜という名で活動していた。 現在は、作曲家、アレンジャー、レコーディングエンジニアとして活動する傍ら、NEiNというバンドと共に新ソロプロジェクトRush Assault Machineryを結成、活動させている。
+**SHUNSUKE**（しゅんすけ）は[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身のロック[ギタリスト](../Page/ギタリスト.md "wikilink")。兄であるK助のバンド、[覇叉羅](https://ja.wikipedia.org/wiki/覇叉羅 "wikilink")に高校生の時に参加し、そこから本格的なバンド活動を始める。当時はSHAM、紗夢、舜という名で活動していた。 現在は、作曲家、アレンジャー、レコーディングエンジニアとして活動する傍ら、NEiNというバンドと共に新ソロプロジェクトRush Assault Machineryを結成、活動させている。
 
 ## 経歴
 
   - ︎1990年代初頭 - **覇叉羅(Vasalla)**に加入。
   - ︎1999年4月2日 - Vasallaを脱退。
-  - ︎1999年11月 - **[JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")**結成。
+  - ︎1999年11月 - **[JILS](../Page/JILS.md "wikilink")**結成。
   - ︎2001年10月 - **THE"FUZZ"**始動。
   - ︎2005年12月13日 - [川崎CLUB CITTA'で行われた](https://ja.wikipedia.org/wiki/川崎CLUB_CITTA' "wikilink")「[hide](https://ja.wikipedia.org/wiki/hide "wikilink") 41st Birthday Party」に[由紀人](https://ja.wikipedia.org/wiki/由紀人 "wikilink")のライブメンバーとして出演。
   - ︎2006年10月8日 - 「CLASSIC ROCK JAM」に出演。
@@ -49,7 +49,7 @@ THE"FUZZ"
   - 2001年10月10日 - 新宿ロフトワンマン。
   - 2005年12月24日 - 2ndミニアルバム『Trigger』が、[地震の影響で発売延期](https://ja.wikipedia.org/wiki/新潟県中越地震 "wikilink")。
   - 2005年1月25日 - 『Trigger』発売。
-  - 2005年2月14日 - [原宿アストロホール](https://ja.wikipedia.org/wiki/原宿アストロホール "wikilink")での、Shelly Trip Realize主催イベントに出演。
+  - 2005年2月14日 - [原宿アストロホール](../Page/原宿アストロホール.md "wikilink")での、Shelly Trip Realize主催イベントに出演。
   - 2005年10月7日 - 群馬前橋ラタン。
   - 2005年10月10日 - 新宿HOLIDAY。
   - 2005年10月17日 - [新宿ロフト](https://ja.wikipedia.org/wiki/新宿ロフト "wikilink")。マキシシングル先行発売。
@@ -80,7 +80,7 @@ THE"FUZZ"
 
   -   - [REN](https://ja.wikipedia.org/wiki/蓮_\(ベーシスト\) "wikilink")
 
-  - [JILS](https://ja.wikipedia.org/wiki/JILS "wikilink")
+  - [JILS](../Page/JILS.md "wikilink")
 
       - [YUKIYA](../Page/YUKIYA.md "wikilink")
 

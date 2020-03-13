@@ -26,13 +26,13 @@
 
 以上のようにコンピュータ将棋の中でも強い部類であり、[日本将棋連盟](../Page/日本将棋連盟.md "wikilink")からアマチュア五段の[棋力](../Page/棋力.md "wikilink")を公認されている。ただ、あくまで市販品の公認であり、2007年には[将棋倶楽部24](../Page/将棋倶楽部24.md "wikilink")で最高R2765点を記録している。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")、[激指](../Page/激指.md "wikilink")、[GPS将棋](https://ja.wikipedia.org/wiki/GPS将棋 "wikilink")、[Bonanza](../Page/Bonanza.md "wikilink")、YSSによる合議制で作られた「あから2010」が[清水市代](https://ja.wikipedia.org/wiki/清水市代 "wikilink")女流王将と対戦し、あから2010が勝利した。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月11日](../Page/10月11日.md "wikilink")、[激指](../Page/激指.md "wikilink")、[GPS将棋](https://ja.wikipedia.org/wiki/GPS将棋 "wikilink")、[Bonanza](../Page/Bonanza.md "wikilink")、YSSによる合議制で作られた「あから2010」が[清水市代](../Page/清水市代.md "wikilink")女流王将と対戦し、あから2010が勝利した。
 
 ## AI奨励会
 
-AI将棋の特徴の一つとして、コンピュータとの対戦を重ねながら[段級位をあげていく](https://ja.wikipedia.org/wiki/段級位制 "wikilink")、「AI奨励会」モードがある。
+AI将棋の特徴の一つとして、コンピュータとの対戦を重ねながら[段級位をあげていく](../Page/段級位制.md "wikilink")、「AI奨励会」モードがある。
 
-名前の通り、プロ棋士の養成機関である[新進棋士奨励会](https://ja.wikipedia.org/wiki/新進棋士奨励会 "wikilink")の制度に倣っており、「AI奨励会」では一定の成績（直近の対局での勝ち数による）を満たすと昇段・昇級できる。また、成績が伴わない場合、降段・降級もある。
+名前の通り、プロ棋士の養成機関である[新進棋士奨励会](../Page/新進棋士奨励会.md "wikilink")の制度に倣っており、「AI奨励会」では一定の成績（直近の対局での勝ち数による）を満たすと昇段・昇級できる。また、成績が伴わない場合、降段・降級もある。
 
 AI奨励会では棋力にあわせて対局の[手合いが変わり](../Page/将棋の手合割.md "wikilink")、2段級差で香落ち、3段級差で角落ち、4段級差で飛車落ちなどとなる。AI奨励会では「待った」「シミュレーション対局機能」「次の一手機能」などが使用できない。
 
@@ -64,12 +64,12 @@ AIマッチングシステムを利用して通信対局ができる。最近の
   - AI将棋 Version 16 for Windows - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月5日](../Page/12月5日.md "wikilink") - 税込標準価格：13,440円
   - AI将棋 Version 15 for Windows - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月22日](../Page/2月22日.md "wikilink")
   - AI将棋 Version 14 for Windows - [2007年](../Page/2007年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")
-  - AI将棋 Version 13 for Windows - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月29日](../Page/12月29日.md "wikilink")
+  - AI将棋 Version 13 for Windows - [2005年](../Page/2005年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")
   - AI将棋 Version 12 for Windows - [2004年](../Page/2004年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")
-  - AI将棋 優勝記念版 for Windows - [2004年](../Page/2004年.md "wikilink")[7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")
+  - AI将棋 優勝記念版 for Windows - [2004年](../Page/2004年.md "wikilink")[7月23日](../Page/7月23日.md "wikilink")
   - AI将棋2004 for Windows
   - AI将棋2003 - [PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[ジェネックス発売](../Page/サイバーフロント.md "wikilink")、[2003年](../Page/2003年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")
-  - AI将棋セレクション - [PlayStation版](https://ja.wikipedia.org/wiki/PlayStation_\(ゲーム機\) "wikilink")。
+  - AI将棋セレクション - [PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")。
   - AI将棋2002 for Windows
   - AI将棋2001 for Windows / Macintosh
 

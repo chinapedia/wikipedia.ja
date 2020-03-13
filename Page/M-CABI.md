@@ -1,7 +1,7 @@
 > この記事は[M-CABI](https://ja.wikipedia.org/wiki/M-CABI)から翻訳されています。
 
 
-『**m-CABI**』（エム・キャビ）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の6作目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")にリリースされた。
+『**m-CABI**』（エム・キャビ）は、[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の6作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")にリリースされた。
 
 ## 概要
 
@@ -24,7 +24,7 @@
 1.  **m-NAVI 1 "Ride on\!\! Blue vehicle\!"** \[0:35\]
     （作曲：岡野昭仁）
       -
-        アルバムの始まりを告げる[インスト](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。左右に振り分けられた[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")の音が特徴的なナンバー。[アウトロ](../Page/アウトロ.md "wikilink")に[バイク](https://ja.wikipedia.org/wiki/バイク "wikilink")のエンジン音が聞こえると、流れるように「ハネウマライダー」へと続く。ここからトラック（曲番号）4までが、メンバー曰く***“乗り物、青コーナー”***\[2\]\[3\]である。このバイクの音は、晴一の[ハーレーダビッドソン](https://ja.wikipedia.org/wiki/ハーレーダビッドソン "wikilink")をわざわざ運んできて録った音である。
+        アルバムの始まりを告げる[インスト](../Page/器楽曲.md "wikilink")。左右に振り分けられた[エレキギター](https://ja.wikipedia.org/wiki/エレキギター "wikilink")の音が特徴的なナンバー。[アウトロ](../Page/アウトロ.md "wikilink")に[バイク](https://ja.wikipedia.org/wiki/バイク "wikilink")のエンジン音が聞こえると、流れるように「ハネウマライダー」へと続く。ここからトラック（曲番号）4までが、メンバー曰く***“乗り物、青コーナー”***\[2\]\[3\]である。このバイクの音は、晴一の[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")をわざわざ運んできて録った音である。
         [イントロ](https://ja.wikipedia.org/wiki/イントロ "wikilink")の声は、シングル「Winding Road」の最終曲「ウェンディの薄い文字」中のジュリア・オシキで、アルバムとの繋がりを意識している。
 2.  **[ハネウマライダー](../Page/ハネウマライダー.md "wikilink")** \[4:47\]
     （作詞：新藤晴一 / 作曲：ak.homma）
@@ -95,8 +95,8 @@
       -
         ライブ「[横浜ロマンスポルノ'06 〜キャッチ ザ ハネウマ〜](../Page/横浜ロマンスポルノ'06_〜キャッチ_ザ_ハネウマ〜_IN_YOKOHAMA_STADIUM.md "wikilink")」でギターインストとして演奏された楽曲を[アレンジした曲](../Page/編曲.md "wikilink")。
         音源化こそされていないが、日本のミュージカルシーンで活躍中の女性3人によるユニット「gravity」への提供曲である\[17\]。
-        歌詞を書く際晴一は、[いしいしんじ](https://ja.wikipedia.org/wiki/いしいしんじ "wikilink")の『ぶらんこ乗り』などに影響を受けた。
-        最後の歌詞は晴一が歌っており昭仁は歌詞とは異なる内容を歌っている。そのあとの終盤では[3拍子となり](../Page/拍子.md "wikilink")、晴一が初めて[メロディオン](https://ja.wikipedia.org/wiki/メロディオン "wikilink")に挑戦。さらにアウトロの[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")で終わりかけた時点にはジュリアの声が入っており、アルバム全体の締めくくりにもなっている。
+        歌詞を書く際晴一は、[いしいしんじ](../Page/いしいしんじ.md "wikilink")の『ぶらんこ乗り』などに影響を受けた。
+        最後の歌詞は晴一が歌っており昭仁は歌詞とは異なる内容を歌っている。そのあとの終盤では[3拍子となり](../Page/拍子.md "wikilink")、晴一が初めて[メロディオン](../Page/メロディオン.md "wikilink")に挑戦。さらにアウトロの[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")で終わりかけた時点にはジュリアの声が入っており、アルバム全体の締めくくりにもなっている。
         ベスト・アルバム『PORNO GRAFFITTI BEST JOKER』には、フェードアウトが早くなりジュリアの声は省略されたアレンジで収録されている。
 
 ### エキストラトラックCD（初回限定盤）
@@ -117,7 +117,7 @@
 <!-- end list -->
 
   - [岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")、[クロマチックハーモニカ](https://ja.wikipedia.org/wiki/ハーモニカ#クロマティック・ハーモニカ "wikilink")（\#6）、Add Drums（ECD）、ピアノ（ECD）
-  - [新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")：[ギター](../Page/ギター.md "wikilink")、コーラス、[メロディオン](https://ja.wikipedia.org/wiki/メロディオン "wikilink")（\#17）、Add Drums（ECD）、ヴィブラスラップ（ECD）
+  - [新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")：[ギター](../Page/ギター.md "wikilink")、コーラス、[メロディオン](../Page/メロディオン.md "wikilink")（\#17）、Add Drums（ECD）、ヴィブラスラップ（ECD）
 
 <!-- end list -->
 
@@ -126,7 +126,7 @@
 <!-- end list -->
 
   - [ドラムス](../Page/ドラムセット.md "wikilink")：[松永俊弥](https://ja.wikipedia.org/wiki/松永俊弥 "wikilink")（\#3,6-8,13,14,16,17、ECD）、[村石雅行](../Page/村石雅行.md "wikilink")（\#2,9,10）、[野崎真助](../Page/野崎真助.md "wikilink")（\#12\[18\]）
-  - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")：[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")（\#10,17、ECD）、[根岸孝旨](../Page/根岸孝旨.md "wikilink")（\#3,6,14,15）、[亀田誠治](https://ja.wikipedia.org/wiki/亀田誠治 "wikilink")（\#2）、[野崎森男](https://ja.wikipedia.org/wiki/野崎森男 "wikilink")（\#8,9,\#12\[19\],13）
+  - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")：[美久月千晴](https://ja.wikipedia.org/wiki/美久月千晴 "wikilink")（\#10,17、ECD）、[根岸孝旨](../Page/根岸孝旨.md "wikilink")（\#3,6,14,15）、[亀田誠治](../Page/亀田誠治.md "wikilink")（\#2）、[野崎森男](../Page/野崎森男.md "wikilink")（\#8,9,\#12\[19\],13）
   - [パーカッション](../Page/パーカッション.md "wikilink")：[三沢またろう](../Page/三沢またろう.md "wikilink")（\#2-4,6,7,10,13,14,16,17、ECD）、村岡航（ECD）
   - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")（[ソロ](../Page/ソロ_\(音楽\).md "wikilink")）：[NAOTO](../Page/NAOTO_\(ヴァイオリニスト\).md "wikilink")（\#10）
   - [サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")（ソロ）：竹山良成（\#4）
@@ -153,7 +153,7 @@
 
   - プロデュース：[田村充義](https://ja.wikipedia.org/wiki/田村充義 "wikilink")（tmf）、本間昭光（bulesofa）
   - プロモーション監督：久保田康（[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")）
-  - エグゼクティブプロデューサー：畠中達郎（アミューズ）、八木昭二（[エスエムイーレコーズ](https://ja.wikipedia.org/wiki/エスエムイーレコーズ "wikilink")）
+  - エグゼクティブプロデューサー：畠中達郎（アミューズ）、八木昭二（[エスエムイーレコーズ](../Page/エスエムイーレコーズ.md "wikilink")）
   - スーパーバイザー：大里洋吉、松崎澄夫（ともにアミューズ）
   - 録音／ミキサー：山内"Dr."隆義(SOUND INN Mixer's crew)
   - 録音スタジオ：[サウンドインスタジオ](https://ja.wikipedia.org/wiki/サウンドインスタジオ "wikilink")、[ソニー・ミュージックスタジオ](https://ja.wikipedia.org/wiki/ソニー・ミュージックスタジオ "wikilink")、ビクタースタジオ、[ワーナーミュージック](https://ja.wikipedia.org/wiki/ワーナーミュージック "wikilink")・レコーディングスタジオ、On Air Azabu Studio、Bunkamura Studio

@@ -1,7 +1,7 @@
 > この記事は[ TEN-SEI](https://ja.wikipedia.org/wiki/_TEN-SEI)から翻訳されています。
 
 
-『**転生 TEN-SEI**』（てんせい）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の33作目の[オリジナルアルバムである](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。
+『**転生 TEN-SEI**』（てんせい）は、[2005年](../Page/2005年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に発表された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の33作目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。
 
 ## 解説
 
@@ -12,13 +12,13 @@
 
 ## 収録曲
 
-  - 全作詞/作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
+  - 全作詞/作曲：[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")、編曲：[瀬尾一三](../Page/瀬尾一三.md "wikilink")
 
 <!-- end list -->
 
 1.  **遺失物預り所**
 2.  **[帰れない者たちへ](https://ja.wikipedia.org/wiki/帰れない者たちへ "wikilink")**
-      - [テレビ朝日系木曜ドラマ](https://ja.wikipedia.org/wiki/木曜ドラマ_\(テレビ朝日\) "wikilink")『[けものみち](../Page/けものみち.md "wikilink")』主題歌
+      - [テレビ朝日系木曜ドラマ](../Page/木曜ドラマ_\(テレビ朝日\).md "wikilink")『[けものみち](../Page/けものみち.md "wikilink")』主題歌
       - 翌2006年[2月1日](../Page/2月1日.md "wikilink")に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。
 3.  **線路の外の風景**
 4.  **メビウスの帯はねじれる**
@@ -28,10 +28,10 @@
       - [ヒップホップ](../Page/ヒップホップ.md "wikilink")でも使われる[スクラッチを使用している](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink")。
 7.  **我が祖国は風の彼方**
 8.  **[命のリレー](https://ja.wikipedia.org/wiki/帰れない者たちへ "wikilink")**
-      - [フジテレビ系スペシャルドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[女の一代記](https://ja.wikipedia.org/wiki/女の一代記 "wikilink")』主題歌
+      - [フジテレビ系スペシャルドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[女の一代記](../Page/女の一代記.md "wikilink")』主題歌
       - 本アルバムで用いられたアレンジは夜会「24時着 0時発」の中盤で使用。後に、｢帰れない者たちへ｣のカップリング曲としてシングルカットされた際はエンディングのライブ音源が収録されている。
 9.  **ミラージュ・ホテル**
-      - [2003年](../Page/2003年.md "wikilink")に発売されたアルバム『[恋文](https://ja.wikipedia.org/wiki/恋文_\(中島みゆきのアルバム\) "wikilink")』に収録されている楽曲のリメイク。夜会で用いられたバージョンとは異なるアレンジ。
+      - [2003年](../Page/2003年.md "wikilink")に発売されたアルバム『[恋文](../Page/恋文_\(中島みゆきのアルバム\).md "wikilink")』に収録されている楽曲のリメイク。夜会で用いられたバージョンとは異なるアレンジ。
 10. **サーモン・ダンス**
       - 夜会で用いられたバージョンに比し、前奏・間奏が短縮されている。
 11. **無限・軌道**
@@ -43,10 +43,10 @@
 
 **遺失物預り所**
 
-  - Drums：[Vinnie Colaiuta](https://ja.wikipedia.org/wiki/ヴィニー・カリウタ "wikilink")
+  - Drums：[Vinnie Colaiuta](../Page/ヴィニー・カリウタ.md "wikilink")
   - E.Bass：[Neil Stubenhaus](../Page/ニール・スチューベンハウス.md "wikilink")
   - E.Guitar：[Michael Tompson](https://ja.wikipedia.org/wiki/:en:Michael_Thompson_\(guitarist\) "wikilink")
-  - Keyboards：[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink"), [瀬尾一三](https://ja.wikipedia.org/wiki/瀬尾一三 "wikilink")
+  - Keyboards：[小林信吾](https://ja.wikipedia.org/wiki/小林信吾 "wikilink"), [瀬尾一三](../Page/瀬尾一三.md "wikilink")
   - Programming：小林信吾, 浦田恵司, 佐藤朋生
   - Cello：堀沢真己
   - Engineer：David Thoener

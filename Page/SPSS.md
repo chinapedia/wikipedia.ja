@@ -9,7 +9,7 @@
 
 SPSSは[統計](../Page/統計.md "wikilink")パッケージソフトの代表的な製品である。
 
-2009年4月7日より、製品名が[PASW Statisticと変更になり](https://ja.wikipedia.org/wiki/PASW_Statistic "wikilink")、バージョン18より、機能拡張用に [R言語](https://ja.wikipedia.org/wiki/R言語 "wikilink")と[Python](../Page/Python.md "wikilink")とこれらと SPSS との接続モジュールをバンドルした。IBM社による買収により現在はIBMブランドのIBM SPSS Statisticsとなっている。2016年4月時点では、IBM SPSS Statistics 24.0が最新のバージョンである\[4\]。
+2009年4月7日より、製品名が[PASW Statisticと変更になり](https://ja.wikipedia.org/wiki/PASW_Statistic "wikilink")、バージョン18より、機能拡張用に [R言語](../Page/R言語.md "wikilink")と[Python](../Page/Python.md "wikilink")とこれらと SPSS との接続モジュールをバンドルした。IBM社による買収により現在はIBMブランドのIBM SPSS Statisticsとなっている。2016年4月時点では、IBM SPSS Statistics 24.0が最新のバージョンである\[4\]。
 
 ## 会社
 

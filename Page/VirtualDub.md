@@ -11,7 +11,7 @@
 
 ## 特許問題
 
-[ASFファイルフォーマットは](https://ja.wikipedia.org/wiki/Advanced_Systems_Format "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")社が[米国で](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[特許](https://ja.wikipedia.org/wiki/特許 "wikilink")を取得している([US patent 6041345](http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=US6041345))。VirtualDubはASFファイルの読み込みに正式対応していたが、マイクロソフト社側から[クレーム](https://ja.wikipedia.org/wiki/クレーム "wikilink")を受けたため、それ以降はASFファイル非対応となり、ソースコードには 「microsoft no baka\!」と記述されている。
+[ASFファイルフォーマットは](../Page/Advanced_Systems_Format.md "wikilink")[マイクロソフト](../Page/マイクロソフト.md "wikilink")社が[米国で](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[特許](../Page/特許.md "wikilink")を取得している([US patent 6041345](http://v3.espacenet.com/textdoc?DB=EPODOC&IDX=US6041345))。VirtualDubはASFファイルの読み込みに正式対応していたが、マイクロソフト社側から[クレーム](../Page/クレーム.md "wikilink")を受けたため、それ以降はASFファイル非対応となり、ソースコードには 「microsoft no baka\!」と記述されている。
 
 ## フィルター
 
@@ -31,7 +31,7 @@
   - [MPEG-2](../Page/MPEG-2.md "wikilink") (mpg,vob,m2v,mpeg,vdr)\[4\]
   - [Flash Video](../Page/Flash_Video.md "wikilink") (flv)\[5\]\[6\]
   - [Quick Time](https://ja.wikipedia.org/wiki/Quick_Time "wikilink") (mov,mp4)\[7\]\[8\]
-  - [Matroska](https://ja.wikipedia.org/wiki/Matroska "wikilink") (mkv,mka)\[9\]
+  - [Matroska](../Page/Matroska.md "wikilink") (mkv,mka)\[9\]
   - [PVN](https://ja.wikipedia.org/wiki/PVN "wikilink")\[10\]
   - [Redcode RAW](../Page/レッド・デジタル・シネマカメラ・カンパニー.md "wikilink") files (R3D)\[11\]
   - [DirectShow](https://ja.wikipedia.org/wiki/DirectShow "wikilink")\[12\]
@@ -51,7 +51,7 @@
 
 開発が終了したものも含む。
 
-  - **VirtualDubMod** - [Matroska](https://ja.wikipedia.org/wiki/Matroska "wikilink")や[Ogg Mediaの読み込み](https://ja.wikipedia.org/wiki/Ogg_Media "wikilink")・作成に対応。
+  - **VirtualDubMod** - [Matroska](../Page/Matroska.md "wikilink")や[Ogg Mediaの読み込み](../Page/Ogg_Media.md "wikilink")・作成に対応。
   - **VirtualDubMod Aud-X** - [Aud-X](https://ja.wikipedia.org/wiki/Aud-X "wikilink")等の[ACM](https://ja.wikipedia.org/wiki/Audio_Compression_Manager "wikilink")[サラウンド](../Page/サラウンド.md "wikilink")オーディオに対応させたもの
   - **VirtualDub-MPEG2** - [MPEG-2](../Page/MPEG-2.md "wikilink")の読み込みに対応。
   - **Nandub** - 2-pass[エンコード](../Page/エンコード.md "wikilink")を目的に作成されたもの。
@@ -65,7 +65,7 @@
   - [AviSynth](https://ja.wikipedia.org/wiki/AviSynth "wikilink")
   - [OpenShot Video Editor](https://ja.wikipedia.org/wiki/OpenShot_Video_Editor "wikilink")
   - [TMPGEnc](../Page/TMPGEnc.md "wikilink")
-  - [ノンリニア編集](https://ja.wikipedia.org/wiki/ノンリニア編集 "wikilink")
+  - [ノンリニア編集](../Page/ノンリニア編集.md "wikilink")
 
 ## 脚注
 

@@ -27,6 +27,6 @@
 ## 関連項目
 
   - [SUZUKI Future Navi](https://ja.wikipedia.org/wiki/SUZUKI_Future_Navi "wikilink")
-  - [Honda SWEET MISSION](https://ja.wikipedia.org/wiki/Honda_SWEET_MISSION "wikilink")
+  - [Honda SWEET MISSION](../Page/Honda_SWEET_MISSION.md "wikilink")
 
 [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:ラジオのミニ番組](https://ja.wikipedia.org/wiki/Category:ラジオのミニ番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:日本たばこ産業一社提供番組](https://ja.wikipedia.org/wiki/Category:日本たばこ産業一社提供番組 "wikilink")

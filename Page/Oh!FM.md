@@ -1,7 +1,7 @@
 > この記事は[Oh!FM](https://ja.wikipedia.org/wiki/Oh!FM)から翻訳されています。
 
 
-『**Oh\!FM**』（オー\!エフエム）は、[日本ソフトバンク（現・SBクリエイティブ）より発行された](https://ja.wikipedia.org/wiki/SBクリエイティブ "wikilink")、[富士通](../Page/富士通.md "wikilink")のパソコン・[FMシリーズ向けの](https://ja.wikipedia.org/wiki/富士通#パーソナルコンピュータ "wikilink")[パソコン雑誌](https://ja.wikipedia.org/wiki/パソコン雑誌 "wikilink")。本項では、後継誌の『**Oh\!FM TOWNS**』（オー\!エフエムタウンズ）、『**FMVファミリー**』についても解説する。
+『**Oh\!FM**』（オー\!エフエム）は、[日本ソフトバンク（現・SBクリエイティブ）より発行された](../Page/SBクリエイティブ.md "wikilink")、[富士通](../Page/富士通.md "wikilink")のパソコン・[FMシリーズ向けの](https://ja.wikipedia.org/wiki/富士通#パーソナルコンピュータ "wikilink")[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")。本項では、後継誌の『**Oh\!FM TOWNS**』（オー\!エフエムタウンズ）、『**FMVファミリー**』についても解説する。
 
 ## 略歴
 
@@ -13,7 +13,7 @@
   - 1996年4月24日 - 後継誌として、FMVシリーズ専門誌『**FMVファミリー**』が隔月刊誌として創刊。編集部のスタッフの大半はこちらに移行。
   - 1997年 - 『FMVファミリー』月刊化。
   - 2000年3月24日 - 『FMVファミリー』5月号を最後に月刊誌としての発行を終了。
-  - 2000年6月 - 『FMVファミリー』2000年夏号 が[ムックとして刊行](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")。
+  - 2000年6月 - 『FMVファミリー』2000年夏号 が[ムックとして刊行](../Page/ムック_\(出版\).md "wikilink")。
   - 2000年10月 - 『FMVファミリー』2000年秋号 がムックとして刊行。
 
 ## 記事

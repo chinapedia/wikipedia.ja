@@ -23,7 +23,7 @@
   - 岩田浩史（いわた ひろし）
     [ギター](../Page/ギター.md "wikilink")担当。2013年11月24日永眠[1](https://www.facebook.com/hiroshi.iwata.5458/posts/598060866897479)。
   - 岡田誠司（おかだ せいじ）
-    [ベース担当](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
   - 丸山慎司（まるやま しんじ）
     [ドラムス担当](../Page/ドラムセット.md "wikilink")。
   - 南真司（みなみ しんじ）

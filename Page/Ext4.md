@@ -46,16 +46,16 @@
 
 この問題に対処するためにfsyncを頻繁に使用すると、`data=ordered`フラグ（多くのLinuxディストリビューションではデフォルト）でマウントされたext3ファイルシステムでは深刻なパフォーマンス低下が起こる恐れがある。どちらのファイルシステムもしばらくの間使用されるだろうということを考えると、これはエンドユーザーアプリケーション開発者にとって非常に厄介な問題となる。このため、セオドア・ツォーは、上記のような場合の遅延アロケーションを制限するext4のパッチを作成した。パフォーマンスは多少低下するが、これによってクラッシュ後にどちらかのバージョンのデータが残る可能性が著しく高まった。
 
-このパッチはメインライン・カーネル2.6.30に導入されているが、様々なディストリビューションは2.6.28や2.6.29へとバックポートすることができる。例えば、[Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink")はバージョン9.04 Jaunty Jackalopeでカーネル2.6.28にそのパッチを導入した。
+このパッチはメインライン・カーネル2.6.30に導入されているが、様々なディストリビューションは2.6.28や2.6.29へとバックポートすることができる。例えば、[Ubuntu](../Page/Ubuntu.md "wikilink")はバージョン9.04 Jaunty Jackalopeでカーネル2.6.28にそのパッチを導入した。
 
 ## ディストリビューション
 
 以下の Linux ディストリビューションで標準ファイルシステムとして採用されている。
 
-  - [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu "wikilink") - 9.04 から利用可能、9.10 から標準
+  - [Ubuntu](../Page/Ubuntu.md "wikilink") - 9.04 から利用可能、9.10 から標準
   - [Debian](../Page/Debian.md "wikilink") - 6.0 から利用可能
   - [Fedora](../Page/Fedora.md "wikilink") - 9 から利用可能、11〜15 にて標準
-  - [Red Hat Enterprise Linux](https://ja.wikipedia.org/wiki/Red_Hat_Enterprise_Linux "wikilink") - 5.6 からフルサポート
+  - [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink") - 5.6 からフルサポート
   - Amazon Linux AMI - 2011.02 から標準
 
 ## 脚注

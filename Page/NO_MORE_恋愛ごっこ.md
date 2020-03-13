@@ -5,16 +5,16 @@
 
 ## 解説
 
-  - メインボーカルは、[富川春美](../Page/富川春美.md "wikilink")、[永田ルリ子](https://ja.wikipedia.org/wiki/永田ルリ子 "wikilink")、[岩井由紀子](https://ja.wikipedia.org/wiki/岩井由紀子 "wikilink")、[白石麻子](../Page/白石麻子.md "wikilink")。
+  - メインボーカルは、[富川春美](../Page/富川春美.md "wikilink")、[永田ルリ子](../Page/永田ルリ子.md "wikilink")、[岩井由紀子](../Page/岩井由紀子.md "wikilink")、[白石麻子](../Page/白石麻子.md "wikilink")。
   - シングルとしては唯一袋型ジャケットであり、歌詞にメンバーの歌唱パート割りが表記されている。同時期にリリースされたアルバム『[SIDE LINE](https://ja.wikipedia.org/wiki/SIDE_LINE "wikilink")』の歌詞カードにおいても同様である。
   - B面「あなただけ おやすみなさい」はアルバム『SIDE LINE』にアルバム・バージョンで収録されている。
 
 ## 収録曲
 
 1.  **NO MORE 恋愛ごっこ**
-      - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲・編曲: [後藤次利](https://ja.wikipedia.org/wiki/後藤次利 "wikilink")
+      - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲・編曲: [後藤次利](../Page/後藤次利.md "wikilink")
 2.  **あなただけ おやすみなさい**
-      - 作詞: 秋元康、作曲: [高橋研](https://ja.wikipedia.org/wiki/高橋研 "wikilink")、編曲: [佐藤準](../Page/佐藤準.md "wikilink")
+      - 作詞: 秋元康、作曲: [高橋研](../Page/高橋研.md "wikilink")、編曲: [佐藤準](../Page/佐藤準.md "wikilink")
 
 ## 収録作品
 

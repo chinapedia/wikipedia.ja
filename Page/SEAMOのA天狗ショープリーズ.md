@@ -22,7 +22,7 @@
 
 ## 主なコーナー
 
-  - [下ネタ](https://ja.wikipedia.org/wiki/下ネタ "wikilink")[川柳](../Page/川柳.md "wikilink")
+  - [下ネタ](../Page/下ネタ.md "wikilink")[川柳](../Page/川柳.md "wikilink")
       -
         「天狗ゼミナール」にも引き継がれた。
 

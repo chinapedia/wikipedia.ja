@@ -5,7 +5,7 @@
 
 ## 概要
 
-1998年に行われたツアー『TDK presents GLAY TOUR '98 pure soul』から[5月10日](../Page/5月10日.md "wikilink")の[NHKホール](https://ja.wikipedia.org/wiki/NHKホール "wikilink")の模様を中心に収録。「May Fair」「[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")」「ACID HEAD」「More than Love」「SHUTTER SPEEDSのテーマ」は[5月31日](../Page/5月31日.md "wikilink")の[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink")のライブを収録。
+1998年に行われたツアー『TDK presents GLAY TOUR '98 pure soul』から[5月10日](../Page/5月10日.md "wikilink")の[NHKホール](../Page/NHKホール.md "wikilink")の模様を中心に収録。「May Fair」「[彼女の“Modern…”](../Page/彼女の“Modern…”.md "wikilink")」「ACID HEAD」「More than Love」「SHUTTER SPEEDSのテーマ」は[5月31日](../Page/5月31日.md "wikilink")の[大阪厚生年金会館](https://ja.wikipedia.org/wiki/大阪厚生年金会館 "wikilink")のライブを収録。
 
 [2003年](../Page/2003年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")に特典付きでDVD化。
 

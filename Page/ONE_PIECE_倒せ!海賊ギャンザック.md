@@ -5,19 +5,19 @@
 
 ## 概要
 
-[Production I.Gがアニメーション制作を手がけた](../Page/プロダクション・アイジー.md "wikilink")、漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』初のアニメ作品。監督は[谷口悟朗](https://ja.wikipedia.org/wiki/谷口悟朗 "wikilink")、キャラクター設定は原作者の[尾田栄一郎](../Page/尾田栄一郎.md "wikilink")。[濱崎達弥によりノベライズもされている](../Page/浜崎達也.md "wikilink")。
+[Production I.Gがアニメーション制作を手がけた](../Page/プロダクション・アイジー.md "wikilink")、漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』初のアニメ作品。監督は[谷口悟朗](../Page/谷口悟朗.md "wikilink")、キャラクター設定は原作者の[尾田栄一郎](../Page/尾田栄一郎.md "wikilink")。[濱崎達弥によりノベライズもされている](../Page/浜崎達也.md "wikilink")。
 
-オレンジの町編とシロップ村編の間の出来事を描いたサイドストーリー。後に放送が始まった[テレビアニメ版とは声優が異なり](../Page/ONE_PIECE_\(アニメ\).md "wikilink")、ルフィを[高乃麗](https://ja.wikipedia.org/wiki/高乃麗 "wikilink")、ナミを[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")、ゾロを[高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")がそれぞれ演じている。
+オレンジの町編とシロップ村編の間の出来事を描いたサイドストーリー。後に放送が始まった[テレビアニメ版とは声優が異なり](../Page/ONE_PIECE_\(アニメ\).md "wikilink")、ルフィを[高乃麗](../Page/高乃麗.md "wikilink")、ナミを[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")、ゾロを[高木渉](../Page/高木渉.md "wikilink")がそれぞれ演じている。
 
 一般販売ソフト化はされていないが、[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")1999年1号 - 6号にて応募者全員サービスとして頒布された。
 
 ## 登場人物
 
-  - [モンキー・D・ルフィ](https://ja.wikipedia.org/wiki/モンキー・D・ルフィ "wikilink")
-    [声](../Page/声優.md "wikilink") - [高乃麗](https://ja.wikipedia.org/wiki/高乃麗 "wikilink")
-  - [ロロノア・ゾロ](https://ja.wikipedia.org/wiki/ロロノア・ゾロ "wikilink")
-    声 - [高木渉](https://ja.wikipedia.org/wiki/高木渉 "wikilink")
-  - [ナミ](https://ja.wikipedia.org/wiki/ナミ_\(ONE_PIECE\) "wikilink")
+  - [モンキー・D・ルフィ](../Page/モンキー・D・ルフィ.md "wikilink")
+    [声](../Page/声優.md "wikilink") - [高乃麗](../Page/高乃麗.md "wikilink")
+  - [ロロノア・ゾロ](../Page/ロロノア・ゾロ.md "wikilink")
+    声 - [高木渉](../Page/高木渉.md "wikilink")
+  - [ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink")
     声 - [豊口めぐみ](../Page/豊口めぐみ.md "wikilink")
 
 ### オリジナルキャラクター
@@ -29,19 +29,19 @@
     声 - [田中潤](../Page/田中潤.md "wikilink")
     ルフィが漂着した島に住んでいる少女。父がギャンザックに強制労働をさせられているため、海賊を嫌っている。
   - ヘリング
-    声 - [沢木郁也](https://ja.wikipedia.org/wiki/沢木郁也 "wikilink")
+    声 - [沢木郁也](../Page/沢木郁也.md "wikilink")
     メダカの父親。ギャンザックに強制労働をさせられている。
   - スキッド
-    声 - [石森達幸](https://ja.wikipedia.org/wiki/石森達幸 "wikilink")
+    声 - [石森達幸](../Page/石森達幸.md "wikilink")
     メダカの祖父。家でメダカの父親代わりをしている。
   - 海賊
-    声 - [加納詞桂章](../Page/加納明.md "wikilink")、[大倉正章](https://ja.wikipedia.org/wiki/大倉正章 "wikilink")、[永井誠](https://ja.wikipedia.org/wiki/永井誠 "wikilink")、新井隆
+    声 - [加納詞桂章](../Page/加納明.md "wikilink")、[大倉正章](../Page/大倉正章.md "wikilink")、[永井誠](../Page/永井誠.md "wikilink")、新井隆
   - 村人
-    声 - [千葉進歩](https://ja.wikipedia.org/wiki/千葉進歩 "wikilink")
+    声 - [千葉進歩](../Page/千葉進歩.md "wikilink")
 
 ## スタッフ
 
-  - 脚色・監督：[谷口悟朗](https://ja.wikipedia.org/wiki/谷口悟朗 "wikilink")
+  - 脚色・監督：[谷口悟朗](../Page/谷口悟朗.md "wikilink")
   - 脚本：[北嶋博明](../Page/北嶋博明.md "wikilink")
   - 脚本協力：スドウウラオ
   - キャラクターデザイン：[香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")
@@ -51,7 +51,7 @@
   - 色彩設計・色指定：柴田亜紀子
   - 撮影監督：安津畑隆
   - 編集：三木幸子
-  - 音響監督：[田中英行](https://ja.wikipedia.org/wiki/田中英行 "wikilink")
+  - 音響監督：[田中英行](../Page/田中英行.md "wikilink")
   - 音楽：元道俊哉
   - 音響効果：今野康之
   - プロデューサー：大徳哲雄・寺川英和

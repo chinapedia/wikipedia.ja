@@ -1,11 +1,11 @@
 > この記事は[BOX ](https://ja.wikipedia.org/wiki/BOX_)から翻訳されています。
 
 
-『**キャラメルBOX やるきばこ**』 ( - ボックス - ) は、[キャラメルBOX](https://ja.wikipedia.org/wiki/キャラメルBOX "wikilink")より[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")作品。**キャラメルBOX**によるファンディスク第1弾。
+『**キャラメルBOX やるきばこ**』 ( - ボックス - ) は、[キャラメルBOX](../Page/キャラメルBOX.md "wikilink")より[2005年](../Page/2005年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")作品。**キャラメルBOX**によるファンディスク第1弾。
 
 ## 概要
 
-本作品は発売後間もなく[ロットアップ](https://ja.wikipedia.org/wiki/ロットアップ "wikilink")となっていたが、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")の『[処女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")』のアニメ化に伴う人気再燃により本作も再発を求める声が高まり、それに応えて「**やるきばこ復刻版**」が[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された。
+本作品は発売後間もなく[ロットアップ](https://ja.wikipedia.org/wiki/ロットアップ "wikilink")となっていたが、[2006年](../Page/2006年.md "wikilink")の『[処女はお姉さまに恋してる](../Page/処女はお姉さまに恋してる.md "wikilink")』のアニメ化に伴う人気再燃により本作も再発を求める声が高まり、それに応えて「**やるきばこ復刻版**」が[2007年](../Page/2007年.md "wikilink")[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")に発売された。
 
 初回版はCD-ROM2枚組でパッケージがキャラメルケース、復刻版ではDVD-ROM1枚組でDVDトールケースとなっている。内容の違いは以下の収録作品別の詳細記述部分で述べる。
 
@@ -19,7 +19,7 @@
 
 ## コンテンツ
 
-  - 「[処女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")」 アナザーストーリー5本
+  - 「[処女はお姉さまに恋してる](../Page/処女はお姉さまに恋してる.md "wikilink")」 アナザーストーリー5本
   - 「[シャマナシャマナ 〜月とこころと太陽の魔法〜](../Page/シャマナシャマナ_〜月とこころと太陽の魔法〜.md "wikilink")」 追加ストーリー1本
   - オリジナルADV「月踊亭にて -At Moondance diner-」
   - カードバトルゲーム「きゃらばと\!」
@@ -48,15 +48,15 @@ CD版本編では攻略できなかった「ラビ・ロス」をヒロインと
 #### キャラクター
 
   - 時坂誓哉（ときさか せいや）
-  - 文月涼子（ふづき りょうこ）（[声](../Page/声優.md "wikilink")：[一色ヒカル](https://ja.wikipedia.org/wiki/一色ヒカル "wikilink")）
+  - 文月涼子（ふづき りょうこ）（[声](../Page/声優.md "wikilink")：[一色ヒカル](../Page/一色ヒカル.md "wikilink")）
   - 水島瞳（みずしま ひとみ）（声：[北都南](../Page/北都南.md "wikilink")）
-  - 光瀬葉由（みつせ はゆ）（声：[ありす](https://ja.wikipedia.org/wiki/ありす "wikilink")）
-  - 時坂いのり（ときさか いのり）（声：[佐本二厘](https://ja.wikipedia.org/wiki/佐本二厘 "wikilink")）
+  - 光瀬葉由（みつせ はゆ）（声：[ありす](../Page/ありす.md "wikilink")）
+  - 時坂いのり（ときさか いのり）（声：[佐本二厘](../Page/佐本二厘.md "wikilink")）
   - 黛桐花（まゆずみ きりか）（声：[松永雪希](../Page/松永雪希.md "wikilink")）
 
 #### その他
 
-  - この作品はキャラメルBOX第1作「[BLUE](https://ja.wikipedia.org/wiki/BLUE_\(ゲーム\) "wikilink")」と同じ舞台で展開するが、二つの作品の間に直接の関連は無い。
+  - この作品はキャラメルBOX第1作「[BLUE](../Page/BLUE_\(ゲーム\).md "wikilink")」と同じ舞台で展開するが、二つの作品の間に直接の関連は無い。
   - 作品中で涼子が弾くギターの曲は、「[終末少女幻想アリスマチック](../Page/終末少女幻想アリスマチック.md "wikilink")」でも主人公が弾くギターの曲として使われている。
 
 #### スタッフ
@@ -74,13 +74,13 @@ CD版本編では攻略できなかった「ラビ・ロス」をヒロインと
 
 復刻版ではVer2.1にバージョンアップされているが、復刻版のみで独自にカードが増えることは無い。
 
-ちなみに「TECH GIAN 2005年8月号」に「[TECH GIAN](https://ja.wikipedia.org/wiki/TECH_GIAN "wikilink")」オリジナルのカードを追加するパッチがある。エンディングで表示されることがある「なかまる」というカードだけはデバッグ用であり入手できない。
+ちなみに「TECH GIAN 2005年8月号」に「[TECH GIAN](../Page/TECH_GIAN.md "wikilink")」オリジナルのカードを追加するパッチがある。エンディングで表示されることがある「なかまる」というカードだけはデバッグ用であり入手できない。
 
 ※有志によりネットワーク対戦が可能な同人版（フリーウェア）も開発されている。
 
 ### 華麗なるReversi
 
-「[処女はお姉さまに恋してる](https://ja.wikipedia.org/wiki/処女はお姉さまに恋してる "wikilink")」のキャラクターと[リバーシ（オセロ）で対戦することができる](../Page/オセロ_\(遊戯\).md "wikilink")。オセロではなくリバーシと表記するのは、商標の都合である。
+「[処女はお姉さまに恋してる](../Page/処女はお姉さまに恋してる.md "wikilink")」のキャラクターと[リバーシ（オセロ）で対戦することができる](../Page/オセロ_\(遊戯\).md "wikilink")。オセロではなくリバーシと表記するのは、商標の都合である。
 
 ## 関連項目
 

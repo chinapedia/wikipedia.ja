@@ -17,7 +17,7 @@
 
 ## GSホームズ 極楽大作戦\!\!
 
-『[GS美神 極楽大作戦\!\!](https://ja.wikipedia.org/wiki/GS美神_極楽大作戦!! "wikilink")』からの[スピンオフ](../Page/スピンオフ.md "wikilink")作品で、『[月刊サンデージェネックス](https://ja.wikipedia.org/wiki/月刊サンデージェネックス "wikilink")』に2度掲載された（2002年1月号、2005年6月号）。第2話は本作品集の刊行後に描かれた作品で、次の短編集『[(有) 椎名大百貨店](https://ja.wikipedia.org/wiki/\(有\)_椎名大百貨店 "wikilink")』に収録されている。
+『[GS美神 極楽大作戦\!\!](../Page/GS美神_極楽大作戦!!.md "wikilink")』からの[スピンオフ](../Page/スピンオフ.md "wikilink")作品で、『[月刊サンデージェネックス](../Page/月刊サンデージェネックス.md "wikilink")』に2度掲載された（2002年1月号、2005年6月号）。第2話は本作品集の刊行後に描かれた作品で、次の短編集『[(有) 椎名大百貨店](https://ja.wikipedia.org/wiki/\(有\)_椎名大百貨店 "wikilink")』に収録されている。
 
 名探偵[シャーロック・ホームズ](../Page/シャーロック・ホームズ.md "wikilink")がゴーストスイーパー (GS) として活躍する姿を描き、『GS美神 極楽大作戦\!\!』からカオスとマリアが出演している。
 
@@ -41,11 +41,11 @@
 #### 本作オリジナルの登場人物
 
   - 知能の神
-    人の知識を吸う[邪神](https://ja.wikipedia.org/wiki/邪教 "wikilink")。
+    人の知識を吸う[邪神](../Page/邪教.md "wikilink")。
 
 ## 江戸狼狼伝
 
-『週刊少年サンデー』[2003年](../Page/2003年.md "wikilink")3月増刊号掲載。同号で語られているように、[岡っ引き](https://ja.wikipedia.org/wiki/岡っ引き "wikilink")ではなく下っ引きを重要人物としたのは、『[佐武と市捕物控](https://ja.wikipedia.org/wiki/佐武と市捕物控 "wikilink")』の[パロディ](https://ja.wikipedia.org/wiki/パロディ "wikilink")（[オマージュ](../Page/オマージュ.md "wikilink")）で、江戸時代末期を舞台としたファンタジー作品。
+『週刊少年サンデー』[2003年](../Page/2003年.md "wikilink")3月増刊号掲載。同号で語られているように、[岡っ引き](https://ja.wikipedia.org/wiki/岡っ引き "wikilink")ではなく下っ引きを重要人物としたのは、『[佐武と市捕物控](../Page/佐武と市捕物控.md "wikilink")』の[パロディ](../Page/パロディ.md "wikilink")（[オマージュ](../Page/オマージュ.md "wikilink")）で、江戸時代末期を舞台としたファンタジー作品。
 
 ### あらすじ
 
@@ -54,9 +54,9 @@
 ### 登場人物
 
   - 藪月
-    その名前のため、ヤブ医者と思われることも多いが、本道（[内科](https://ja.wikipedia.org/wiki/内科学 "wikilink")）も兼ねる名医。先祖に人狼がいたため、先祖返りで人狼となってしまう。医学を学んだきっかけも元の体に戻る方法を探すためであった。
+    その名前のため、ヤブ医者と思われることも多いが、本道（[内科](../Page/内科学.md "wikilink")）も兼ねる名医。先祖に人狼がいたため、先祖返りで人狼となってしまう。医学を学んだきっかけも元の体に戻る方法を探すためであった。
   - 清次
-    [目明かし](https://ja.wikipedia.org/wiki/岡っ引 "wikilink")（下っ引き）。
+    [目明かし](../Page/岡っ引.md "wikilink")（下っ引き）。
   - おりん
     清次の妹。心臓が弱く藪月の世話になっている。藪月に気がある様子を見せる。
   - おりょう
@@ -108,7 +108,7 @@
   - ジョドー
     [クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")技術で作られた肉体を持つ高性能AI。そのため、AIが無事ならば、何度でも再生できる。悟りを開き[如来](../Page/如来.md "wikilink")に近付いてもらうため、そして、西の都にある大量の[経典](../Page/経典.md "wikilink")を回収するために旅を行う。
   - 59（フィフティ・ナイン）
-    [2059年型AI搭載の](../Page/2050年代.md "wikilink")[1959年](../Page/1959年.md "wikilink")型[キャデラック](https://ja.wikipedia.org/wiki/キャデラック "wikilink")。
+    [2059年型AI搭載の](../Page/2050年代.md "wikilink")[1959年](../Page/1959年.md "wikilink")型[キャデラック](../Page/キャデラック.md "wikilink")。
       - 59・人間型（フィフティ・ナイン‐にんげんがた）
         戦闘時などに起動する。[如意棒](https://ja.wikipedia.org/wiki/如意棒 "wikilink")のような武器を使い攻撃を行う。
 
@@ -134,6 +134,6 @@
       - [(有) 椎名大百貨店](https://ja.wikipedia.org/wiki/\(有\)_椎名大百貨店 "wikilink") - 次の短編集。
   - 発表時期の近い連載
       - [一番湯のカナタ](https://ja.wikipedia.org/wiki/一番湯のカナタ "wikilink")
-      - [絶対可憐チルドレン](https://ja.wikipedia.org/wiki/絶対可憐チルドレン "wikilink")
+      - [絶対可憐チルドレン](../Page/絶対可憐チルドレン.md "wikilink")
 
 [Category:漫画短編集](https://ja.wikipedia.org/wiki/Category:漫画短編集 "wikilink") [Category:GS美神_極楽大作戦\!\!](https://ja.wikipedia.org/wiki/Category:GS美神_極楽大作戦!! "wikilink") [Category:椎名高志](https://ja.wikipedia.org/wiki/Category:椎名高志 "wikilink")

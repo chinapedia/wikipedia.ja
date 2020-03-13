@@ -17,4 +17,4 @@
 
 [Category:1984年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のテレビ番組_\(日本\) "wikilink") [Category:テレビ長崎の番組](https://ja.wikipedia.org/wiki/Category:テレビ長崎の番組 "wikilink") [Category:九州・沖縄地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの帯番組 "wikilink") [Category:九州・沖縄地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:FNNスーパータイム](https://ja.wikipedia.org/wiki/Category:FNNスーパータイム "wikilink")
 
-1.  [長崎新聞](https://ja.wikipedia.org/wiki/長崎新聞 "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")、[10月3日](../Page/10月3日.md "wikilink")、[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、[10月5日](../Page/10月5日.md "wikilink")付朝刊ラ・テ欄で確認。
+1.  [長崎新聞](../Page/長崎新聞.md "wikilink")[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月2日](../Page/10月2日.md "wikilink")、[10月3日](../Page/10月3日.md "wikilink")、[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、[10月5日](../Page/10月5日.md "wikilink")付朝刊ラ・テ欄で確認。

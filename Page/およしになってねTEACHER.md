@@ -3,7 +3,7 @@
 
 「**およしになってねTEACHER**」（およしになってねティーチャー）は、[おニャン子クラブ](../Page/おニャン子クラブ.md "wikilink")の楽曲で、2枚目のシングル。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")にキャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）から発売された。
 
-メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")は、[新田恵利](../Page/新田恵利.md "wikilink")、[中島美春](https://ja.wikipedia.org/wiki/中島美春 "wikilink")、[福永恵規](https://ja.wikipedia.org/wiki/福永恵規 "wikilink")、[内海和子](https://ja.wikipedia.org/wiki/内海和子 "wikilink")。
+メイン[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")は、[新田恵利](../Page/新田恵利.md "wikilink")、[中島美春](../Page/中島美春.md "wikilink")、[福永恵規](../Page/福永恵規.md "wikilink")、[内海和子](../Page/内海和子.md "wikilink")。
 
 作詞をした秋元康によると、「清純なんです」と言い切るのではなく、「清純**路線**なんです」という風にあえて女子高生側の本音のネタばらし的な詞になっているところがポイントであるという。
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[GLAY Acoustic Live in 日本武道館 produced by JIRO](../Page/GLAY_Acoustic_Live_in_日本武道館_produced_by_JIRO.md "wikilink")』『[GLAY EXPO 2001 “GLOBAL COMMUNICATION” in TOKYO STADIUM](https://ja.wikipedia.org/wiki/GLAY_EXPO_2001“GLOBAL_COMMUNICATION”in_TOKYO_STADIUM "wikilink")』と同時に発売された。この3作とボーナス・ディスクがセットになった『[LIVE DVD BOX vol.1 (includes LIVE DVD 3 Titles & GLAY Perfect Data 1994-2004)](https://ja.wikipedia.org/wiki/LIVE_DVD_BOX_vol.1\(includes_LIVE_DVD_3_Titles_&_GLAY_Perfect_Data_1994-2004\) "wikilink")』も同時発売された。
+『[GLAY Acoustic Live in 日本武道館 produced by JIRO](../Page/GLAY_Acoustic_Live_in_日本武道館_produced_by_JIRO.md "wikilink")』『[GLAY EXPO 2001 “GLOBAL COMMUNICATION” in TOKYO STADIUM](../Page/GLAY_EXPO_2001“GLOBAL_COMMUNICATION”in_TOKYO_STADIUM.md "wikilink")』と同時に発売された。この3作とボーナス・ディスクがセットになった『[LIVE DVD BOX vol.1 (includes LIVE DVD 3 Titles & GLAY Perfect Data 1994-2004)](../Page/LIVE_DVD_BOX_vol.1\(includes_LIVE_DVD_3_Titles_&_GLAY_Perfect_Data_1994-2004\).md "wikilink")』も同時発売された。
 
 2000年に行われた「J-PHONE presents GLAY ARENA TOUR 2000 “HEAVY GAUGE”」から、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")公演を収録。
 

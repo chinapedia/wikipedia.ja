@@ -7,11 +7,11 @@
 
 ## 概要
 
-[thumbによる](https://ja.wikipedia.org/wiki/ファイル:Paul_Gustave_Dore_Andromeda.jpg "wikilink")[アンドロメダ](https://ja.wikipedia.org/wiki/アンドロメダ "wikilink")\]\] [神話](../Page/神話.md "wikilink")類型は、[アンドロメダ](https://ja.wikipedia.org/wiki/アンドロメダ "wikilink")型神話の英雄譚に多く登場する。DIDは若い未婚の女性である場合が多い。英雄が救出する対象としてのモチーフであり、有名な例としては、アンドロメダ（[ギリシア神話](../Page/ギリシア神話.md "wikilink")）、[クシナダヒメ](https://ja.wikipedia.org/wiki/クシナダヒメ "wikilink")（[日本神話](../Page/日本神話.md "wikilink")／[ヤマタノオロチ](../Page/ヤマタノオロチ.md "wikilink")退治）などがある。この類型は[中世](../Page/中世.md "wikilink")の[物語](../Page/物語.md "wikilink")から現代の[小説](../Page/小説.md "wikilink")・[映画](../Page/映画.md "wikilink")・[マンガ](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")などにも引き継がれている。
+[thumbによる](https://ja.wikipedia.org/wiki/ファイル:Paul_Gustave_Dore_Andromeda.jpg "wikilink")[アンドロメダ](https://ja.wikipedia.org/wiki/アンドロメダ "wikilink")\]\] [神話](../Page/神話.md "wikilink")類型は、[アンドロメダ](https://ja.wikipedia.org/wiki/アンドロメダ "wikilink")型神話の英雄譚に多く登場する。DIDは若い未婚の女性である場合が多い。英雄が救出する対象としてのモチーフであり、有名な例としては、アンドロメダ（[ギリシア神話](../Page/ギリシア神話.md "wikilink")）、[クシナダヒメ](../Page/クシナダヒメ.md "wikilink")（[日本神話](../Page/日本神話.md "wikilink")／[ヤマタノオロチ](../Page/ヤマタノオロチ.md "wikilink")退治）などがある。この類型は[中世](../Page/中世.md "wikilink")の[物語](../Page/物語.md "wikilink")から現代の[小説](../Page/小説.md "wikilink")・[映画](../Page/映画.md "wikilink")・[マンガ](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")などにも引き継がれている。
 
 ## 特徴
 
-こうした女性は若く魅力的で、[悪漢](https://ja.wikipedia.org/wiki/悪漢 "wikilink")・[怪物](https://ja.wikipedia.org/wiki/怪物 "wikilink")・[異星人](https://ja.wikipedia.org/wiki/異星人 "wikilink")などにさらわれ危機に陥ることが多い。多くはその際に[縄](https://ja.wikipedia.org/wiki/縄 "wikilink")や[拘束具](../Page/拘束具.md "wikilink")で縛られ、あるいは[檻](https://ja.wikipedia.org/wiki/檻 "wikilink")に入れられ、または監視付きの軟禁状態で自由を奪われていることがほとんどである。救出された場合に主人公と恋に落ちることも少なくない。[西部劇](../Page/西部劇.md "wikilink")などで多く見られたこうした[ヒロイン](https://ja.wikipedia.org/wiki/ヒロイン "wikilink")像は、その後の活劇にも様々な形で用いられている。
+こうした女性は若く魅力的で、[悪漢](https://ja.wikipedia.org/wiki/悪漢 "wikilink")・[怪物](https://ja.wikipedia.org/wiki/怪物 "wikilink")・[異星人](https://ja.wikipedia.org/wiki/異星人 "wikilink")などにさらわれ危機に陥ることが多い。多くはその際に[縄](https://ja.wikipedia.org/wiki/縄 "wikilink")や[拘束具](../Page/拘束具.md "wikilink")で縛られ、あるいは[檻](https://ja.wikipedia.org/wiki/檻 "wikilink")に入れられ、または監視付きの軟禁状態で自由を奪われていることがほとんどである。救出された場合に主人公と恋に落ちることも少なくない。[西部劇](../Page/西部劇.md "wikilink")などで多く見られたこうした[ヒロイン](../Page/ヒロイン.md "wikilink")像は、その後の活劇にも様々な形で用いられている。
 
 ## 現実世界でのDID
 

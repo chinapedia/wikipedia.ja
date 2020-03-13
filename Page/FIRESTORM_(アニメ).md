@@ -5,7 +5,7 @@
 
 ## 概要
 
-原案は『[サンダーバード](../Page/サンダーバード_\(テレビ番組\).md "wikilink")』や『[謎の円盤UFO](https://ja.wikipedia.org/wiki/謎の円盤UFO "wikilink")』で知られる[ジェリー・アンダーソン](https://ja.wikipedia.org/wiki/ジェリー・アンダーソン "wikilink")が担当した。ヴィークルの発進・バンクシーンはCG処理が行われているが、多くの場面は通常のアニメーションで描かれた。前述の作品群のような大々的な商品展開はなかったが、[ユージンから主要メカのミニフィギュアが発売されている](../Page/タカラトミーアーツ.md "wikilink")。
+原案は『[サンダーバード](../Page/サンダーバード_\(テレビ番組\).md "wikilink")』や『[謎の円盤UFO](../Page/謎の円盤UFO.md "wikilink")』で知られる[ジェリー・アンダーソン](https://ja.wikipedia.org/wiki/ジェリー・アンダーソン "wikilink")が担当した。ヴィークルの発進・バンクシーンはCG処理が行われているが、多くの場面は通常のアニメーションで描かれた。前述の作品群のような大々的な商品展開はなかったが、[ユージンから主要メカのミニフィギュアが発売されている](../Page/タカラトミーアーツ.md "wikilink")。
 
 本作はその後、ジェリーの息子、ジェイミー・アンダーソンの手によってリメイクが行われているが、表現形式は５頭身の人形劇（「ウルトラマリオネーション」と呼ばれる）となった。
 
@@ -35,7 +35,7 @@
     [声](../Page/声優.md "wikilink") - [鷹森淑乃](../Page/鷹森淑乃.md "wikilink")
     主人公。日本人女性。記録保持者のスーパーアスリートでナノエンジニアリングのエキスパート。扱いの難しい最新鋭戦闘機サンダーボルトの第1号パイロットであり教官でもあった、パイロット能力を買われてSF9最後の１人として抜擢される。（１話）性格は努力家である。
   - サム・スコット
-    声 - [高塚正也](https://ja.wikipedia.org/wiki/高塚正也 "wikilink")
+    声 - [高塚正也](../Page/高塚正也.md "wikilink")
     元アメリカ海兵隊指揮官。アメリカ人男性。ベテランパイロットしてストーム・フォースに引き抜かれ、SF7で数々の戦績を挙げたことからSF9のチームリーダーに抜擢される。（１話）
   - ドリュー・マッキャリスター
     声 - [渡部猛](../Page/渡部猛.md "wikilink")
@@ -47,7 +47,7 @@
     声 - [志村知幸](../Page/志村知幸.md "wikilink")
     アメリカ人男性。学者でもあり、スポーツマンでもある。スラム街育ち。
   - ジェームス・ブレーディ
-    声 - [堀川仁](https://ja.wikipedia.org/wiki/堀川仁 "wikilink")
+    声 - [堀川仁](../Page/堀川仁.md "wikilink")
     イギリス人男性。登山家としての危機管理能力を買われてストーム・フォースに引き抜かれる。
   - チャック・モーガン
     声 - [青野武](../Page/青野武.md "wikilink")
@@ -55,17 +55,17 @@
   - ジーナ
     声 - [冬馬由美](../Page/冬馬由美.md "wikilink")
   - ルーシー
-    声 - [塩山由佳](https://ja.wikipedia.org/wiki/塩山由佳 "wikilink")
+    声 - [塩山由佳](../Page/塩山由佳.md "wikilink")
   - ジュリア
     声 - [堀越のり](../Page/堀越のり.md "wikilink")
   - ジャック
     声 - [馬場圭介](../Page/馬場圭介.md "wikilink")
   - ユーリ
-    声 - [前田沙耶香](https://ja.wikipedia.org/wiki/前田沙耶香 "wikilink")
+    声 - [前田沙耶香](../Page/前田沙耶香.md "wikilink")
   - ソフィア
     声 - [町井美紀](../Page/町井美紀.md "wikilink")
   - ヒロコ
-    声 - [前田沙耶香](https://ja.wikipedia.org/wiki/前田沙耶香 "wikilink")
+    声 - [前田沙耶香](../Page/前田沙耶香.md "wikilink")
 
 #### ストーム・フォース2
 
@@ -94,26 +94,26 @@
 ### その他の登場人物
 
   - 総司令（声 - [秋元羊介](../Page/秋元羊介.md "wikilink")）
-  - 司会者（声 - [坂口哲夫](https://ja.wikipedia.org/wiki/坂口哲夫 "wikilink")）
+  - 司会者（声 - [坂口哲夫](../Page/坂口哲夫.md "wikilink")）
   - 探検家（声 - [服巻浩司](../Page/服巻浩司.md "wikilink")）
-  - 将校（声 - [小野健一](https://ja.wikipedia.org/wiki/小野健一_\(声優\) "wikilink")）
+  - 将校（声 - [小野健一](../Page/小野健一_\(声優\).md "wikilink")）
   - 諜報部員（声 - [徳山靖彦](../Page/徳山靖彦.md "wikilink")）
   - デュバリエ（声 - [今村直樹](../Page/今村直樹.md "wikilink")）
-  - ヴァレンテ（声 - [うすいたかやす](https://ja.wikipedia.org/wiki/うすいたかやす "wikilink")）
+  - ヴァレンテ（声 - [うすいたかやす](../Page/うすいたかやす.md "wikilink")）
   - ロバート（声 - [稲田徹](../Page/稲田徹.md "wikilink")）
   - スティーブ・ジョンソン（声 - [島田敏](../Page/島田敏.md "wikilink")）
   - ガンサー・シュミット（声 - [檜山修之](../Page/檜山修之.md "wikilink")）
-  - タツ（声 - [川田紳司](https://ja.wikipedia.org/wiki/川田紳司 "wikilink")）
+  - タツ（声 - [川田紳司](../Page/川田紳司.md "wikilink")）
   - マカレフ（声 - [茶風林](../Page/茶風林.md "wikilink")）
   - トーマス・ニコルソン艦長（声 - [大川透](../Page/大川透.md "wikilink")）
   - ハミルトン艦長（声 - [沢木郁也](../Page/沢木郁也.md "wikilink")）
-  - コズミノフ（声 - [麻生智久](https://ja.wikipedia.org/wiki/麻生智久 "wikilink")）
+  - コズミノフ（声 - [麻生智久](../Page/麻生智久.md "wikilink")）
   - バビ（声 - [遠藤純一](../Page/遠藤純一_\(俳優\).md "wikilink")）
   - ヤス（声 - [菅沼久義](../Page/菅沼久義.md "wikilink")）
   - シド（声 - [稲田徹](../Page/稲田徹.md "wikilink")）
   - ナギサの母（声 - [滝沢久美子](../Page/滝沢久美子.md "wikilink")）
-  - ローラの父（声 - [平野正人](https://ja.wikipedia.org/wiki/平野正人 "wikilink")）
-  - ローラの母（声 - [幸田夏穂](https://ja.wikipedia.org/wiki/幸田夏穂 "wikilink")）
+  - ローラの父（声 - [平野正人](../Page/平野正人.md "wikilink")）
+  - ローラの母（声 - [幸田夏穂](../Page/幸田夏穂.md "wikilink")）
 
 ## 登場メカ
 
@@ -145,7 +145,7 @@
   - 音響監督 - [渡辺淳](https://ja.wikipedia.org/wiki/渡辺淳_\(音響監督\) "wikilink")
   - 音楽ディレクター - ANZ123.COM
   - プロデューサー - 青木俊志、平根昭彦
-  - アニメーション制作 - [トランスアーツ](https://ja.wikipedia.org/wiki/トランス・アーツ "wikilink")
+  - アニメーション制作 - [トランスアーツ](../Page/トランス・アーツ.md "wikilink")
   - 製作 - ifs、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")
 
 ## 主題歌
@@ -203,7 +203,7 @@
 <tr class="even">
 <td><p>Episode4</p></td>
 <td><p>カルロ・モレーリ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/富田祐弘" title="wikilink">富田祐弘</a></p></td>
+<td><p><a href="../Page/富田祐弘.md" title="wikilink">富田祐弘</a></p></td>
 <td><p>布施木一喜</p></td>
 <td><p>萩原露光</p></td>
 <td><p>松田芳明</p></td>

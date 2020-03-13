@@ -39,7 +39,7 @@
   - Saturday Interlude by Hiromi（土曜11:00～14:00）
   - Saturday Splash（土曜14:00～17:00）
   - Sunset Green Flash（土曜18:00～19:00）
-  - [天使のモーニングコール](https://ja.wikipedia.org/wiki/天使のモーニングコール "wikilink")（日曜8:30～9:00）
+  - [天使のモーニングコール](../Page/天使のモーニングコール.md "wikilink")（日曜8:30～9:00）
   - Special Sunday Program（日曜6:45～10:00）
   - KZOO Potluck Party\!（日曜14:30～16:00）
   - ほっと一息ニコニコサンデー（日曜16:00～16:30）
@@ -66,7 +66,7 @@
 ## 関連項目
 
   - [ハワイ州のラジオ放送局の一覧](../Page/ハワイ州のラジオ放送局の一覧.md "wikilink")
-  - [北米と中米のラジオ放送局の一覧](https://ja.wikipedia.org/wiki/北米と中米のラジオ放送局の一覧 "wikilink")
+  - [北米と中米のラジオ放送局の一覧](../Page/北米と中米のラジオ放送局の一覧.md "wikilink")
 
 ## 脚注
 

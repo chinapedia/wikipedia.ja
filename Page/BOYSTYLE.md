@@ -10,7 +10,7 @@
   - 2002年1月、グループ名をBOYSTYLEへ改名。
   - [2002年](../Page/2002年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")、シングル「Boys be Stylish\!」でメジャーデビュー。
   - 2003年 - 2006年、同じ事務所の[Buzy](../Page/Buzy.md "wikilink")、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")、小野麻亜奈、喜友名星、名取愛加らと共にアイドル集団[BEE-HIVE](../Page/BEE-HIVE.md "wikilink")としても活動。
-  - 2004年、村川が [連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[風のハルカ](https://ja.wikipedia.org/wiki/風のハルカ "wikilink")』の主役に抜擢され[女優業にも進出](../Page/俳優.md "wikilink")。ソロ活動が中心となる。
+  - 2004年、村川が [連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[風のハルカ](../Page/風のハルカ.md "wikilink")』の主役に抜擢され[女優業にも進出](../Page/俳優.md "wikilink")。ソロ活動が中心となる。
   - 2005年7月末、川田が脱退し、3人組となる。
   - 2005年、田野アサミに改名。
   - 2007年7月末、公式サイトにて解散を発表。
@@ -83,7 +83,7 @@
 
 ## 作品
 
-「順位」は全て[オリコン週間ランキング最高位](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")
+「順位」は全て[オリコン週間ランキング最高位](../Page/オリコンチャート.md "wikilink")
 
 ### シングル
 

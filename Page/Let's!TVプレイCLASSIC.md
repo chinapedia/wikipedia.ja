@@ -3,7 +3,7 @@
 
 ## 概要
 
-**Let's\!TVプレイCLASSIC**（レッツテレビプレイ クラシック）は、[バンダイ](../Page/バンダイ.md "wikilink")から発売されているTV[ゲーム機](../Page/ゲーム機.md "wikilink")で、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")に4機種が発売された。[コントローラと一体化した本体に専用AVケーブルと電源用の](../Page/ゲームコントローラ.md "wikilink")[ACアダプタ](../Page/ACアダプタ.md "wikilink")を差し込み[テレビ](../Page/テレビ.md "wikilink")と繋げることでゲームができる。専用AVケーブル&アダプターセットは本体とは別売り。
+**Let's\!TVプレイCLASSIC**（レッツテレビプレイ クラシック）は、[バンダイ](../Page/バンダイ.md "wikilink")から発売されているTV[ゲーム機](../Page/ゲーム機.md "wikilink")で、[2006年](../Page/2006年.md "wikilink")に4機種が発売された。[コントローラと一体化した本体に専用AVケーブルと電源用の](../Page/ゲームコントローラ.md "wikilink")[ACアダプタ](../Page/ACアダプタ.md "wikilink")を差し込み[テレビ](../Page/テレビ.md "wikilink")と繋げることでゲームができる。専用AVケーブル&アダプターセットは本体とは別売り。
 
 [ナムコと](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")のゲームが1機種につき2本収録されていて、おまけとしてそれぞれのゲームのアレンジ版が併録されている。おまけのアレンジ版はナムコ系はキャラクターを流用したミニゲームで、タイトー系はプレイヤーキャラクターを変更したもの。
 
@@ -15,12 +15,12 @@
 
   - ナムコノスタルジア1
       - [ゼビウス](../Page/ゼビウス.md "wikilink")
-      - [マッピー](https://ja.wikipedia.org/wiki/マッピー "wikilink")
+      - [マッピー](../Page/マッピー.md "wikilink")
       - ゼビウス スクランブルミッション
       - マッピー ニャームコ団の逆襲
   - ナムコノスタルジア2
-      - [ギャプラス](https://ja.wikipedia.org/wiki/ギャプラス "wikilink")
-      - [ドラゴンバスター](https://ja.wikipedia.org/wiki/ドラゴンバスター "wikilink")
+      - [ギャプラス](../Page/ギャプラス.md "wikilink")
+      - [ドラゴンバスター](../Page/ドラゴンバスター.md "wikilink")
       - ギャプラス ファランクス
       - ドラゴンバスター ハンドレッド
   - ナムコノスタルジア3（発売中止）
@@ -36,8 +36,8 @@
   - タイトーノスタルジア2
       - [奇々怪界](https://ja.wikipedia.org/wiki/奇々怪界 "wikilink")
       - [スラップファイト](../Page/スラップファイト.md "wikilink")
-      - 奇々怪界 覚蓮坊 - 主人公が『[地獄めぐり](https://ja.wikipedia.org/wiki/地獄めぐり "wikilink")』の主役に変更。
-      - スラップファイト タイガー - 自機が『[タイガーヘリ](https://ja.wikipedia.org/wiki/タイガーヘリ "wikilink")』の機体に変更。
+      - 奇々怪界 覚蓮坊 - 主人公が『[地獄めぐり](../Page/地獄めぐり.md "wikilink")』の主役に変更。
+      - スラップファイト タイガー - 自機が『[タイガーヘリ](../Page/タイガーヘリ.md "wikilink")』の機体に変更。
 
 ## 外部リンク
 

@@ -1,14 +1,14 @@
 > この記事は[ beauty hour 21](https://ja.wikipedia.org/wiki/_beauty_hour_21)から翻訳されています。
 
 
-**美勇伝 beauty hour 21**(びゆうでんビューティーアワーにじゅういち)は、[NRNネットの](../Page/全国ラジオネットワーク.md "wikilink")[ラジオアミューズメントパーク](https://ja.wikipedia.org/wiki/ラジオアミューズメントパーク "wikilink")内で放送されている、[文化放送](../Page/文化放送.md "wikilink")製作の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")放送開始。[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送終了。
+**美勇伝 beauty hour 21**(びゆうでんビューティーアワーにじゅういち)は、[NRNネットの](../Page/全国ラジオネットワーク.md "wikilink")[ラジオアミューズメントパーク](../Page/ラジオアミューズメントパーク.md "wikilink")内で放送されている、[文化放送](../Page/文化放送.md "wikilink")製作の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")放送開始。[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")放送終了。
 
 ## パーソナリティ
 
-  - [美勇伝](https://ja.wikipedia.org/wiki/美勇伝 "wikilink")
+  - [美勇伝](../Page/美勇伝.md "wikilink")
       - [石川梨華](https://ja.wikipedia.org/wiki/石川梨華 "wikilink")
       - [三好絵梨香](../Page/三好絵梨香.md "wikilink")
-      - [岡田唯](https://ja.wikipedia.org/wiki/岡田唯 "wikilink")
+      - [岡田唯](../Page/岡田唯.md "wikilink")
 
 ## 放送時間
 

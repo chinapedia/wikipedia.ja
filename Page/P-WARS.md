@@ -1,7 +1,7 @@
 > この記事は[P-WARS](https://ja.wikipedia.org/wiki/P-WARS)から翻訳されています。
 
 
-『**P-WARS**』（ピーウォーズ）は、[テレビ愛知](../Page/テレビ愛知.md "wikilink")ほかで放送された[パチンコ番組](../Page/パチンコ・パチスロ番組.md "wikilink")。製作局のテレビ愛知では[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[7月4日](../Page/7月4日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")まで放送。
+『**P-WARS**』（ピーウォーズ）は、[テレビ愛知](../Page/テレビ愛知.md "wikilink")ほかで放送された[パチンコ番組](../Page/パチンコ・パチスロ番組.md "wikilink")。製作局のテレビ愛知では[2006年](../Page/2006年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")まで放送。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
 ### パチンコ騎士
 
-  - [野々村真](https://ja.wikipedia.org/wiki/野々村真 "wikilink")
+  - [野々村真](../Page/野々村真.md "wikilink")
   - [大林素子](https://ja.wikipedia.org/wiki/大林素子 "wikilink")
   - [出川哲朗](../Page/出川哲朗.md "wikilink")
   - [福永ちな](../Page/福永ちな.md "wikilink")
@@ -46,7 +46,7 @@
 
 ## 関連項目
 
-  - [今夜もドル箱](https://ja.wikipedia.org/wiki/今夜もドル箱 "wikilink")\!\!R - 同時期に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ほかで放送されたパチンコ番組。
+  - [今夜もドル箱](../Page/今夜もドル箱.md "wikilink")\!\!R - 同時期に[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")ほかで放送されたパチンコ番組。
   - [P-1ゴールドラッシュ](../Page/P-1ゴールドラッシュ.md "wikilink") - 同時期に[テレビ大阪](../Page/テレビ大阪.md "wikilink")ほかで放送されたパチンコ番組で、2011年現在でも放送中。
 
 [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:テレビ愛知の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ愛知の番組の歴史 "wikilink") [Category:テレビ愛知の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ愛知の深夜番組 "wikilink") [Category:パチンコ・パチスロ番組](https://ja.wikipedia.org/wiki/Category:パチンコ・パチスロ番組 "wikilink")

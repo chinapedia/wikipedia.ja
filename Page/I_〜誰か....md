@@ -1,7 +1,7 @@
 > この記事は[I ...](https://ja.wikipedia.org/wiki/I_...)から翻訳されています。
 
 
-『**I 〜誰か...**』（アイ だれか）は、[小松未歩](../Page/小松未歩.md "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。2004年10月20日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はGZCA-4023。
+『**I 〜誰か...**』（アイ だれか）は、[小松未歩](../Page/小松未歩.md "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")。2004年10月20日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-4023。
 
 ## 概要
 
@@ -15,8 +15,8 @@
 
 1.  **I 〜誰か...**　編曲:[古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")
       -
-        [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2004年10月度POWER PLAY\[1\]
-        出版者:[日本テレビ音楽](https://ja.wikipedia.org/wiki/日本テレビ音楽 "wikilink")
+        [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2004年10月度POWER PLAY\[1\]
+        出版者:[日本テレビ音楽](../Page/日本テレビ音楽.md "wikilink")
 2.  **カムフラージュ**　編曲:[麻井寛史](../Page/麻井寛史.md "wikilink")
       -
         出版者:ギザミュージック
@@ -28,7 +28,7 @@
 ## 収録アルバム
 
   - 『[小松未歩 7 〜prime number〜](../Page/小松未歩_7_〜prime_number〜.md "wikilink")』(\#1)
-  - 『[小松未歩 ベスト 〜once more〜](https://ja.wikipedia.org/wiki/小松未歩_ベスト_〜once_more〜 "wikilink")』(\#1)
+  - 『[小松未歩 ベスト 〜once more〜](../Page/小松未歩_ベスト_〜once_more〜.md "wikilink")』(\#1)
 
 ## 出典・脚注
 
@@ -37,7 +37,7 @@
   - [古井弘人](https://ja.wikipedia.org/wiki/古井弘人 "wikilink")（[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）
   - [岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")（GARNET CROW）
   - [麻井寛史](../Page/麻井寛史.md "wikilink")（[the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")・[WAR-ED](https://ja.wikipedia.org/wiki/WAR-ED "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")）
-  - [2004年の音楽](https://ja.wikipedia.org/wiki/2004年の音楽 "wikilink")
+  - [2004年の音楽](../Page/2004年の音楽.md "wikilink")
 
 [Category:小松未歩の楽曲](https://ja.wikipedia.org/wiki/Category:小松未歩の楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 

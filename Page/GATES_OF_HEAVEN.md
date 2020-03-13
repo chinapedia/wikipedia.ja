@@ -9,8 +9,8 @@
   - [シングル](../Page/シングル.md "wikilink")3曲を含む11曲（初回盤は12曲）収録。初回盤は[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")収録。
   - アジア盤ではボーナストラックとして日本未発表の『真実の詩(Mandarin Version)』が収録されている。
   - この作品のリリース後、念願の[日本武道館](../Page/日本武道館.md "wikilink")公演を行った。また[2004年](../Page/2004年.md "wikilink")はライブ活動に専念したため、1年間シングルのリリースがなかった。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[2月16日](../Page/2月16日.md "wikilink")にデビュー6周年を記念して[紙ジャケット](https://ja.wikipedia.org/wiki/紙ジャケット "wikilink")仕様の限定盤が発売された。こちらは通常CD([CDDA](../Page/CD-DA.md "wikilink"))仕様となり、1,980円の特別価格でリリース。ただしボーナストラックは未収録で、歌詞カード（ブックレット）も簡略化されている。
-  - また[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売された6枚組CD＋DVDの完全限定ボックスセット『Do The Box』に入っている『GATES OF HEAVEN』のCDもCDDA仕様で発売されている（こちらは初回盤ボーナストラックも収録）。
+  - [2005年](../Page/2005年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")にデビュー6周年を記念して[紙ジャケット](https://ja.wikipedia.org/wiki/紙ジャケット "wikilink")仕様の限定盤が発売された。こちらは通常CD([CDDA](../Page/CD-DA.md "wikilink"))仕様となり、1,980円の特別価格でリリース。ただしボーナストラックは未収録で、歌詞カード（ブックレット）も簡略化されている。
+  - また[2006年](../Page/2006年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売された6枚組CD＋DVDの完全限定ボックスセット『Do The Box』に入っている『GATES OF HEAVEN』のCDもCDDA仕様で発売されている（こちらは初回盤ボーナストラックも収録）。
 
 ## 収録曲
 
@@ -25,7 +25,7 @@
         [TBS系ドラマ](../Page/TBSテレビ.md "wikilink")『[恋文 〜私たちが愛した男〜](../Page/恋文_〜私たちが愛した男〜.md "wikilink")』主題歌。
 4.  **アザヤカナハナ**
       -
-        作曲者は｢[D･A･I](https://ja.wikipedia.org/wiki/長尾大 "wikilink")｣となっているが、実際は[大渡亮](https://ja.wikipedia.org/wiki/大渡亮 "wikilink")による作曲。後に大渡が自身の所属するバンド[ミサイルイノベーション](https://ja.wikipedia.org/wiki/ミサイルイノベーション "wikilink")で『鮮やかな花』というタイトルでセルフ[カバー](../Page/カバー.md "wikilink")した。
+        作曲者は｢[D･A･I](../Page/長尾大.md "wikilink")｣となっているが、実際は[大渡亮](../Page/大渡亮.md "wikilink")による作曲。後に大渡が自身の所属するバンド[ミサイルイノベーション](../Page/ミサイルイノベーション.md "wikilink")で『鮮やかな花』というタイトルでセルフ[カバー](../Page/カバー.md "wikilink")した。
 5.  **[魔法の言葉 〜Would you marry me?〜](../Page/魔法の言葉_〜Would_you_marry_me?〜.md "wikilink")**
       -
         15thシングル。

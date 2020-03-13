@@ -1,7 +1,7 @@
 > この記事は[Mysterious love](https://ja.wikipedia.org/wiki/Mysterious_love)から翻訳されています。
 
 
-『**mysterious love**』（ミステリアス ラブ）は、[小松未歩](../Page/小松未歩.md "wikilink")の17枚目のシングル。2002年11月27日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](https://ja.wikipedia.org/wiki/規格品番 "wikilink")はGZCA-7003\[1\]。
+『**mysterious love**』（ミステリアス ラブ）は、[小松未歩](../Page/小松未歩.md "wikilink")の17枚目のシングル。2002年11月27日に[GIZA studioより発売された](../Page/GIZA_studio.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はGZCA-7003\[1\]。
 
 ## 概要
 
@@ -13,16 +13,16 @@
 
 全作詞・作曲／小松未歩
 
-1.  **mysterious love**　編曲:[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")
+1.  **mysterious love**　編曲:[徳永暁人](../Page/徳永暁人.md "wikilink")
       -
         [日本テレビ系列](../Page/日本テレビ系列.md "wikilink")\[2\][番宣バラエティ番組](../Page/番宣番組.md "wikilink")『[TVおじゃマンボウ](../Page/TVおじゃマンボウ.md "wikilink")』エンディングテーマ。
-        出版者:[日本テレビ音楽](https://ja.wikipedia.org/wiki/日本テレビ音楽 "wikilink")
+        出版者:[日本テレビ音楽](../Page/日本テレビ音楽.md "wikilink")
 2.  **特別になる日**　編曲:[岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")
       -
         出版者:ギザミュージック
 3.  **style of my own 〜遊景〜**　編曲:[麻井寛史](../Page/麻井寛史.md "wikilink")
       -
-        5thアルバム『[小松未歩 5 〜source〜](https://ja.wikipedia.org/wiki/小松未歩_5_〜source〜 "wikilink")』の収録曲「style of my own」のリアレンジバージョンである。
+        5thアルバム『[小松未歩 5 〜source〜](../Page/小松未歩_5_〜source〜.md "wikilink")』の収録曲「style of my own」のリアレンジバージョンである。
         表ジャケット裏面に記載されている歌詞は「style of my own」と同一であるが、「制作上の意図により、オリジナルの歌詞と異なる部分があります。」との但し書きがある。
         出版者:ギザミュージック
 4.  **mysterious love <instrumental>**
@@ -30,16 +30,16 @@
 ## 収録アルバム
 
   - 『[小松未歩 6th 〜花野〜](../Page/小松未歩_6th_〜花野〜.md "wikilink")』(\#1,2)
-  - 『[小松未歩 ベスト 〜once more〜](https://ja.wikipedia.org/wiki/小松未歩_ベスト_〜once_more〜 "wikilink")』(\#1)
+  - 『[小松未歩 ベスト 〜once more〜](../Page/小松未歩_ベスト_〜once_more〜.md "wikilink")』(\#1)
 
 ## 出典・脚注
 
 ## 関連項目
 
-  - [徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）
+  - [徳永暁人](../Page/徳永暁人.md "wikilink")（[XL](https://ja.wikipedia.org/wiki/XL_\(バンド\) "wikilink")・[doa](https://ja.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）
   - [岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")（[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")）
   - [麻井寛史](../Page/麻井寛史.md "wikilink")（[the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")・[WAR-ED](https://ja.wikipedia.org/wiki/WAR-ED "wikilink")・[Sensation](https://ja.wikipedia.org/wiki/Sensation "wikilink")）
-  - [2002年の音楽](https://ja.wikipedia.org/wiki/2002年の音楽 "wikilink")
+  - [2002年の音楽](../Page/2002年の音楽.md "wikilink")
 
 [Category:小松未歩の楽曲](https://ja.wikipedia.org/wiki/Category:小松未歩の楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")
 

@@ -5,7 +5,7 @@
 
 ## 概要
 
-前作『[グレープフルーツ](../Page/グレープフルーツ_\(坂本真綾のアルバム\).md "wikilink")』から、1年8ヶ月ぶりにリリースされた。キャッチコピーは「坂本真綾だけが歌える、ありふれない恋のうた。」。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[flying DOGから再発売された](https://ja.wikipedia.org/wiki/フライングドッグ "wikilink")。なお本作は1999年には[ミュージック・マガジン](https://ja.wikipedia.org/wiki/ミュージック・マガジン "wikilink")誌において歌謡曲&ポップス部門1位に選ばれている。
+前作『[グレープフルーツ](../Page/グレープフルーツ_\(坂本真綾のアルバム\).md "wikilink")』から、1年8ヶ月ぶりにリリースされた。キャッチコピーは「坂本真綾だけが歌える、ありふれない恋のうた。」。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[flying DOGから再発売された](../Page/フライングドッグ.md "wikilink")。なお本作は1999年には[ミュージック・マガジン](https://ja.wikipedia.org/wiki/ミュージック・マガジン "wikilink")誌において歌謡曲&ポップス部門1位に選ばれている。
 
 4th[シングル](https://ja.wikipedia.org/wiki/マキシシングル "wikilink")『[走る](../Page/走る_\(曲\).md "wikilink")』は、このアルバムからの先行シングルだが、ノンタイアップ楽曲だったため、アニメ関連の楽曲は一切収録されておらず、全曲オリジナルの楽曲である。
 

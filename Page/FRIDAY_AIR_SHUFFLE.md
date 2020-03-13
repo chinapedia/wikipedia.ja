@@ -5,13 +5,13 @@
 
 ## 第1部　FRIDAY AIR SHUFFLE HAPPY☆TRACKS
 
-**FRIDAY AIR SHUFFLE HAPPY☆TRACKS**（フライデーエアシャッフル・ハッピー・トラックス）はFM鹿児島自社製作番組「フライデーエアシャッフル」の午前中を占める枠であり、10:00～12:55に放送。パーソナリティは「[フィール・ザ・ミュージック・ダ](https://ja.wikipedia.org/wiki/MUSIC_POWER_STATION_feel_the_μzic_DA!! "wikilink")」を担当していた[有賀真姫](https://ja.wikipedia.org/wiki/有賀真姫 "wikilink")。HAPPY☆TRACKSは2007年3月をもって終了し[μFM W-ing Upと](https://ja.wikipedia.org/wiki/μFM_W-ing_Up "wikilink")[Switch\!](../Page/Switch!.md "wikilink")に引き継がれた。
+**FRIDAY AIR SHUFFLE HAPPY☆TRACKS**（フライデーエアシャッフル・ハッピー・トラックス）はFM鹿児島自社製作番組「フライデーエアシャッフル」の午前中を占める枠であり、10:00～12:55に放送。パーソナリティは「[フィール・ザ・ミュージック・ダ](../Page/MUSIC_POWER_STATION_feel_the_μzic_DA!!.md "wikilink")」を担当していた[有賀真姫](https://ja.wikipedia.org/wiki/有賀真姫 "wikilink")。HAPPY☆TRACKSは2007年3月をもって終了し[μFM W-ing Upと](https://ja.wikipedia.org/wiki/μFM_W-ing_Up "wikilink")[Switch\!](../Page/Switch!.md "wikilink")に引き継がれた。
 
 ### TIME TABLE
 
-  - 10:10　[FM Radio Shopping](https://ja.wikipedia.org/wiki/FM_Radio_Shopping "wikilink")
+  - 10:10　[FM Radio Shopping](../Page/FM_Radio_Shopping.md "wikilink")
   - 10:30　ジャッジメント
-  - 10:40　[交通情報](https://ja.wikipedia.org/wiki/交通情報 "wikilink")
+  - 10:40　[交通情報](../Page/交通情報.md "wikilink")
   - 10:45　デリシャスタイム
   - 10:50　テレマートラジオショッピング
   - 10:55　ファミラジ

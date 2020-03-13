@@ -7,7 +7,7 @@
 
   - **中川優美**（なかがわ ゆみ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[2月14日](../Page/2月14日.md "wikilink") - ）：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - **松永俊彦**（まつなが としひこ 、[1965年](../Page/1965年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - ）：[ギター](../Page/ギター.md "wikilink")
-  - **高間有一**（たかま ゆういち、[1974年](../Page/1974年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink") - ）：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **高間有一**（たかま ゆういち、[1974年](../Page/1974年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink") - ）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - **渋谷憲**（しぶや けん、1974年[9月6日](../Page/9月6日.md "wikilink") - ）：[ドラム](../Page/ドラムセット.md "wikilink")
 
 ## 来歴
@@ -24,15 +24,15 @@
 
 ## テレビ、ラジオ
 
-  - 「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」[NHK総合](https://ja.wikipedia.org/wiki/NHK総合テレビジョン "wikilink")
-  - 「[ARTIST PARADISE](https://ja.wikipedia.org/wiki/ARTIST_PARADISE "wikilink")」[bayfm](../Page/ベイエフエム.md "wikilink")（中川のみ）
+  - 「[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")」[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")
+  - 「[ARTIST PARADISE](../Page/ARTIST_PARADISE.md "wikilink")」[bayfm](../Page/ベイエフエム.md "wikilink")（中川のみ）
   - 「Good Gracious\!」[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（中川のみ）
 
 ## ライブ
 
   - 1998年2月22日　[shibuya eggman](https://ja.wikipedia.org/wiki/shibuya_eggman "wikilink")
   - 1998年3月10日　[CLUB24YOKOHAMA](https://ja.wikipedia.org/wiki/CLUB24YOKOHAMA "wikilink")
-  - 1998年4月22日「[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink") デビューレビュー Vol.57」渋谷 ON AIR WEST（現・[Shibuya O-WEST](../Page/Shibuya_O-WEST.md "wikilink")） 出演 クラックポット／SATISFACTION／[Rubii](https://ja.wikipedia.org/wiki/Rubii "wikilink")
+  - 1998年4月22日「[ぴあ](../Page/ぴあ.md "wikilink") デビューレビュー Vol.57」渋谷 ON AIR WEST（現・[Shibuya O-WEST](../Page/Shibuya_O-WEST.md "wikilink")） 出演 クラックポット／SATISFACTION／[Rubii](https://ja.wikipedia.org/wiki/Rubii "wikilink")
   - 1998年6月1日「WHAT'S IN? & GB PRESENT LIVE “GiRLPOP” ACT.22」[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")　出演 [LINDBERG](../Page/LINDBERG.md "wikilink")、[森高千里](../Page/森高千里.md "wikilink")／[CHAKA](https://ja.wikipedia.org/wiki/CHAKA_\(歌手\) "wikilink")、[楠瀬誠志郎](../Page/楠瀬誠志郎.md "wikilink")／北川恭子
 
 ## ディスコグラフィ
@@ -41,7 +41,7 @@
 
   - 未来がうまれる瞬間 （1997年11月21日） [ロッテ](../Page/ロッテ.md "wikilink")「[トッポ](https://ja.wikipedia.org/wiki/トッポ_\(菓子\) "wikilink")」TVCFイメージソング
   - KE-SE-RA-SE-RA （1998年3月4日） [TBS](../Page/TBSテレビ.md "wikilink")『[愛のヒナ壇](https://ja.wikipedia.org/wiki/愛のヒナ壇 "wikilink")』オープニングテーマ
-  - テレパシー （1998年8月21日）テレビ東京『[Gパラダイス](https://ja.wikipedia.org/wiki/バラエティ7 "wikilink")』オープニングテーマ
+  - テレパシー （1998年8月21日）テレビ東京『[Gパラダイス](../Page/バラエティ7.md "wikilink")』オープニングテーマ
   - Twister （1998年10月21日）TBS『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』内アニメ 「[LET'S ぬぷぬぷっ](../Page/LET'S_ぬぷぬぷっ.md "wikilink")」挿入歌
 
 ### アルバム

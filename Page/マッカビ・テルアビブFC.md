@@ -89,7 +89,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ブルッヘ" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>0–3</p></td>
 <td><p>'''0–4</p></td>
@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴェルダー・ブレーメン" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
+<td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ヴェルダー・ブレーメン</a></p></td>
 <td><p>0–0</p></td>
 <td><p>0–2</p></td>
 <td><p>'''0–2</p></td>
@@ -131,7 +131,7 @@
 <td><p>1996-97</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_1996-97" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予備戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェネルバフチェSK" title="wikilink">フェネルバフチェ</a></p></td>
+<td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–1</p></td>
 <td><p>'''1–2</p></td>
@@ -159,7 +159,7 @@
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RCランス" title="wikilink">ランス</a></p></td>
+<td><p><a href="../Page/RCランス.md" title="wikilink">ランス</a></p></td>
 <td><p>2–2</p></td>
 <td><p>1–2</p></td>
 <td><p>'''3–4</p></td>
@@ -182,7 +182,7 @@
 <td><p><a href="../Page/NKディナモ・ザグレブ.md" title="wikilink">ディナモ・ザグレブ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–2</p></td>
-<td><p>'''3–3 (<a href="https://ja.wikipedia.org/wiki/アウェーゴール" title="wikilink">a</a>)</p></td>
+<td><p>'''3–3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -268,7 +268,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アヤックス・アムステルダム" title="wikilink">アヤックス</a></p></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–3</p></td>
 <td></td>
@@ -369,7 +369,7 @@
 </tr>
 <tr class="even">
 <td><p>グループE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベシクタシュJK" title="wikilink">ベシクタシュ</a></p></td>
+<td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
 <td><p>2–3</p></td>
 <td><p>1–5</p></td>
 <td><p>'''3位</p></td>
@@ -378,7 +378,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>3–3</p></td>
 <td></td>
@@ -429,7 +429,7 @@
 </tr>
 <tr class="even">
 <td><p>グループF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー" title="wikilink">ボルドー</a></p></td>
+<td><p><a href="../Page/FCジロンダン・ボルドー.md" title="wikilink">ボルドー</a></p></td>
 <td><p>1–0</p></td>
 <td><p>2–1</p></td>
 <td><p>'''2位</p></td>
@@ -448,7 +448,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アイントラハト・フランクフルト" title="wikilink">アイントラハト・フランクフルト</a></p></td>
+<td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>4–2</p></td>
 <td><p>0–2</p></td>
 <td></td>
@@ -538,7 +538,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCディナモ・キエフ" title="wikilink">ディナモ・キエフ</a></p></td>
+<td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>0–2</p></td>
 <td><p>0–1</p></td>
 <td></td>
@@ -548,7 +548,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCポルト" title="wikilink">ポルト</a></p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>1–3</p></td>
 <td><p>0–2</p></td>
 <td></td>
@@ -609,7 +609,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AZアルクマール" title="wikilink">AZ</a></p></td>
+<td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>2-1</p></td>
 <td></td>
@@ -670,7 +670,7 @@
 </tr>
 <tr class="even">
 <td><p>グループA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビジャレアルCF" title="wikilink">ビジャレアル</a></p></td>
+<td><p><a href="../Page/ビジャレアルCF.md" title="wikilink">ビジャレアル</a></p></td>
 <td><p>0-0</p></td>
 <td><p>1-0</p></td>
 <td><p>'''4位</p></td>
@@ -776,7 +776,7 @@
 
   - 2018年5月21日時点
 
-([主将](https://ja.wikipedia.org/wiki/主将 "wikilink"))
+([主将](../Page/主将.md "wikilink"))
 
 ### ローン移籍
 

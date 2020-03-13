@@ -1,7 +1,7 @@
 > この記事は[ZARD BLENDSUN \& STONE](https://ja.wikipedia.org/wiki/ZARD_BLENDSUN_\&_STONE)から翻訳されています。
 
 
-『**ZARD BLEND〜SUN & STONE〜**』（ザード・ブレンド・サン・アンド・ストーン）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に[B-Gram RECORDSから発売された](https://ja.wikipedia.org/wiki/B-Gram_RECORDS "wikilink")1枚目の[コンピレーションアルバムである](https://ja.wikipedia.org/wiki/コンピレーション・アルバム "wikilink")。
+『**ZARD BLEND〜SUN & STONE〜**』（ザード・ブレンド・サン・アンド・ストーン）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に[B-Gram RECORDSから発売された](../Page/B-Gram_RECORDS.md "wikilink")1枚目の[コンピレーションアルバムである](../Page/コンピレーション・アルバム.md "wikilink")。
 
 ## 概要
 
@@ -20,12 +20,12 @@
       -
         20thシングル。オリジナルアルバム未収録。シングルミックスを担当した相原雅之から[野村昌之](https://ja.wikipedia.org/wiki/野村昌之 "wikilink")のミックスに変更されて収録\[2\]。後に発売されたベストアルバム『[ZARD BEST 〜Request Memorial〜](../Page/ZARD_BEST_〜Request_Memorial〜.md "wikilink")』、『[ZARD Request Best 〜beautiful memory〜](../Page/ZARD_Request_Best_〜beautiful_memory〜.md "wikilink")』、『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』でもこちらのミックスで収録されている。
 2.  **[揺れる想い](../Page/揺れる想い.md "wikilink")**
-      - 作曲：織田哲郎　編曲：[明石昌夫](https://ja.wikipedia.org/wiki/明石昌夫 "wikilink")
+      - 作曲：織田哲郎　編曲：[明石昌夫](../Page/明石昌夫.md "wikilink")
     <!-- end list -->
       -
         8thシングル。
 3.  **[君がいない](../Page/君がいない.md "wikilink")**
-      - 作曲：[栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")　編曲：明石昌夫
+      - 作曲：[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")　編曲：明石昌夫
     <!-- end list -->
       -
         7thシングル。シングルバージョンはアルバム初収録。
@@ -40,12 +40,12 @@
       -
         坂井本人が忘れられない曲と語るデビューシングル。ボーカルをリテイクしており、マイケル・ブラウワーのミックスで収録\[3\]。
 6.  **[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")**
-      - 作曲：[春畑道哉](https://ja.wikipedia.org/wiki/春畑道哉 "wikilink")　編曲：明石昌夫
+      - 作曲：[春畑道哉](../Page/春畑道哉.md "wikilink")　編曲：明石昌夫
     <!-- end list -->
       -
         5thシングル。マイケル・ブラウワーにより、全体的に乾いた印象の音にリミックスされている。
 7.  **[あの微笑みを忘れないで](../Page/HOLD_ME.md "wikilink")**
-      - 作曲：[川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")　編曲：明石昌夫
+      - 作曲：[川島だりあ](../Page/川島だりあ.md "wikilink")　編曲：明石昌夫
     <!-- end list -->
       -
         3rdアルバム『HOLD ME』収録曲。このアルバムの宣伝のためにビデオクリップが制作され、ジャケットにも登場する、湖の畔に建てられた家の周辺を坂井泉水が歩いたりする様子を収録した映像である。
@@ -95,9 +95,9 @@
 <!-- end list -->
 
   - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")：[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")
-  - [川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink")：Chorus
+  - [川島だりあ](../Page/川島だりあ.md "wikilink")：Chorus
   - [生沢佑一](../Page/生沢佑一.md "wikilink")：Chorus
-  - [栗林誠一郎](https://ja.wikipedia.org/wiki/栗林誠一郎 "wikilink")：Chorus
+  - [栗林誠一郎](../Page/栗林誠一郎.md "wikilink")：Chorus
   - [牧穂エミ](../Page/牧穂エミ.md "wikilink")：Chorus
   - [大田紳一郎](../Page/大田紳一郎.md "wikilink")：Chorus
   - 村上恭太郎：Chorus

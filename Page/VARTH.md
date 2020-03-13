@@ -11,7 +11,7 @@
 
 ## ゲームシステム
 
-8方向レバーと2ボタン（ショット、[ボンバー](https://ja.wikipedia.org/wiki/ボム_\(シューティングゲーム\) "wikilink")）により操作する。
+8方向レバーと2ボタン（ショット、[ボンバー](../Page/ボム_\(シューティングゲーム\).md "wikilink")）により操作する。
 
 ボンバーは時間経過で自動的に所持数が回復する（隠し操作として、レバーを小刻みに動かし続ける事により回復速度を速めることができる）ため、事実上無限に撃てる。時間により回復する上限は3発だが、ボンバーアイテムを取る事により最大5発までストック出来る。ボンバーの所持数が少ないほど、レバー操作による回復速度は早くなる。
 
@@ -69,7 +69,7 @@
     特定の敵を倒すとそこから画面下に降ってくる。10000点。
   - モビちゃん
     メガクラッシュ（画面全体に大ダメージ）。 5000点。
-  - [リュウ](https://ja.wikipedia.org/wiki/リュウ_\(ストリートファイター\) "wikilink")
+  - [リュウ](../Page/リュウ_\(ストリートファイター\).md "wikilink")
     4面のみ登場。昇竜拳を放ちながら落下していくが、さらに撃ち続けるとアイテムをばらまいていく。
   - １UP（大きめの自機シンボル）
     リュウに撃ち込むと稀に出現。（海外版で確認、国内仕様では出ない？）
@@ -82,6 +82,6 @@
 
 ## 移植
 
-日本国内ではどの機種にも家庭用移植されていないが、日本国外では[PlayStation Portable版](https://ja.wikipedia.org/wiki/PlayStation_Portable "wikilink")『[Capcom Classics Collection Remixed](../Page/カプコン_クラシックス_コレクション.md "wikilink")』および[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")『Capcom Classics Collection Vol.2』に収録されている。
+日本国内ではどの機種にも家庭用移植されていないが、日本国外では[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")『[Capcom Classics Collection Remixed](../Page/カプコン_クラシックス_コレクション.md "wikilink")』および[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")『Capcom Classics Collection Vol.2』に収録されている。
 
 [Category:1992年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1992年のアーケードゲーム "wikilink") [Category:縦スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:縦スクロールシューティングゲーム "wikilink") [Category:カプコンのゲームソフト](https://ja.wikipedia.org/wiki/Category:カプコンのゲームソフト "wikilink")

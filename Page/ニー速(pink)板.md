@@ -1,7 +1,7 @@
 > この記事は[\(pink\)](https://ja.wikipedia.org/wiki/\(pink\))から翻訳されています。
 
 
-**ニー速(pink)**は、[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")[掲示板の外郭掲示板である](../Page/電子掲示板.md "wikilink")[PINKちゃんねる](https://ja.wikipedia.org/wiki/PINKちゃんねる "wikilink")に属する板の一つである。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[ニュース速報(VIP)板](https://ja.wikipedia.org/wiki/ニュース速報\(VIP\)板 "wikilink")から独立した掲示板。正式名称は「ニー速(pink)＠bbspink掲示板」。
+**ニー速(pink)**は、[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")[掲示板の外郭掲示板である](../Page/電子掲示板.md "wikilink")[PINKちゃんねる](../Page/PINKちゃんねる.md "wikilink")に属する板の一つである。[2005年](../Page/2005年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[ニュース速報(VIP)板](https://ja.wikipedia.org/wiki/ニュース速報\(VIP\)板 "wikilink")から独立した掲示板。正式名称は「ニー速(pink)＠bbspink掲示板」。
 
 ## 概要
 
@@ -9,9 +9,9 @@
 
 ## 歴史
 
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[3月15日](../Page/3月15日.md "wikilink") [ニュース速報(VIP)板](https://ja.wikipedia.org/wiki/ニュース速報\(VIP\)板 "wikilink")から分割される。(sakura03.bbspink.com)
-  - 2005年[5月21日](../Page/5月21日.md "wikilink") マスコットキャラクター、「ニーピンたん」が[全板人気トーナメント](https://ja.wikipedia.org/wiki/全板人気トーナメント "wikilink")開催中に行われたエキシビジョンマッチ「マスコット人気トーナメント」で優勝した。
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[1月4日](../Page/1月4日.md "wikilink") - [★ルーラ(逝ってしまえ)](http://news19.2ch.net/test/rula.html)導入
+  - [2005年](../Page/2005年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink") [ニュース速報(VIP)板](https://ja.wikipedia.org/wiki/ニュース速報\(VIP\)板 "wikilink")から分割される。(sakura03.bbspink.com)
+  - 2005年[5月21日](../Page/5月21日.md "wikilink") マスコットキャラクター、「ニーピンたん」が[全板人気トーナメント](../Page/全板人気トーナメント.md "wikilink")開催中に行われたエキシビジョンマッチ「マスコット人気トーナメント」で優勝した。
+  - [2006年](../Page/2006年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink") - [★ルーラ(逝ってしまえ)](http://news19.2ch.net/test/rula.html)導入
       - ★持ちがスレを[ニュース速報板](https://ja.wikipedia.org/wiki/ニュース速報板 "wikilink")からニー速(pink)に飛ばせるようになった。
       - 権限を濫用し対象外スレッドを飛ばす記者現れ住民の反感を買う。7月の記者廃止まで続く事になる。[1](http://news.80.kg/index.php?%C5%AC%C0%DA%A4%C7%A4%CA%A4%A4%A5%EB%A1%BC%A5%E9%A4%CE%B5%AD%CF%BF)
   - 2006年[1月18日](../Page/1月18日.md "wikilink") - キャップが漏れる。とあるキャップにより、あらゆるスレ（自治スレさえ）がニー速(pink)に飛ばされる事態が発生した。
@@ -32,14 +32,14 @@
 
 ## ローカルルール
 
-明文化されたルールはなく、削除基準は[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")、[PINKちゃんねる](https://ja.wikipedia.org/wiki/PINKちゃんねる "wikilink")全体のルールに基づく。但しレスの削除は基本的に行われないため、個人情報や無修正画像へのリンクも基本的そのままである。なので発言やリンクのアップロードに注意が必要なほか、そのようなリンクを貼った[プロバイダ](https://ja.wikipedia.org/wiki/プロバイダ "wikilink")や携帯のSIMが持つ個別アドレスは運営で「焼かれる（アクセス規制）」、特に携帯のアドレスが焼かれた場合はBBS PINK全板へのアクセスが出来なくなる。
+明文化されたルールはなく、削除基準は[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")、[PINKちゃんねる](../Page/PINKちゃんねる.md "wikilink")全体のルールに基づく。但しレスの削除は基本的に行われないため、個人情報や無修正画像へのリンクも基本的そのままである。なので発言やリンクのアップロードに注意が必要なほか、そのようなリンクを貼った[プロバイダ](https://ja.wikipedia.org/wiki/プロバイダ "wikilink")や携帯のSIMが持つ個別アドレスは運営で「焼かれる（アクセス規制）」、特に携帯のアドレスが焼かれた場合はBBS PINK全板へのアクセスが出来なくなる。
 
 ## 脚注欄
 
 ## 関連項目
 
   - [2ちゃんねる](../Page/2ちゃんねる.md "wikilink")
-  - [PINKちゃんねる](https://ja.wikipedia.org/wiki/PINKちゃんねる "wikilink")
+  - [PINKちゃんねる](../Page/PINKちゃんねる.md "wikilink")
 
 ## 外部リンク
 

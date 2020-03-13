@@ -1,7 +1,7 @@
 > この記事は[Acappellers](https://ja.wikipedia.org/wiki/Acappellers)から翻訳されています。
 
 
-**A・cappellers**（ア・カッペラーズ）は[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")出身の[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。2001年結成。2003年[フォーライフミュージックエンタテイメント](https://ja.wikipedia.org/wiki/フォーライフミュージックエンタテイメント "wikilink")よりメジャーデビュー。現在は実質上、休止状態である。
+**A・cappellers**（ア・カッペラーズ）は[福岡県](../Page/福岡県.md "wikilink")出身の[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")である。2001年結成。2003年[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")よりメジャーデビュー。現在は実質上、休止状態である。
 
 2012年、**中島亮**と**岩崎タイチ**がヴォーカルユニット「**PaPa-Rhythm\&Co.**（パパリズム）」を結成。福岡を中心にライブ活動中。
 
@@ -9,11 +9,11 @@
 
 ## メンバー
 
-  - 中島亮　[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[八女市](../Page/八女市.md "wikilink")出身。
-  - 黒木亮　[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身。
-  - 岩崎タイチ　[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身。
+  - 中島亮　[福岡県](../Page/福岡県.md "wikilink")[八女市](../Page/八女市.md "wikilink")出身。
+  - 黒木亮　[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身。
+  - 岩崎タイチ　[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身。
   - 竹田昌史　[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[熊本市](https://ja.wikipedia.org/wiki/熊本市 "wikilink")出身。
-  - 柴田峰志　[福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身。
+  - 柴田峰志　[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身。
 
 ## ディスコグラフィー
 
@@ -22,7 +22,7 @@
 1.  Can't Stop Lovin'You（2003年6月4日）オリコン29位
     1.  Can't Stop Lovin' You\[4:11\]
           -
-            作詞・作曲：[馬場俊英](https://ja.wikipedia.org/wiki/馬場俊英 "wikilink")／編曲：Sin
+            作詞・作曲：[馬場俊英](../Page/馬場俊英.md "wikilink")／編曲：Sin
     2.  いつだって どこだって\[4:43\]
           -
             作詞・作曲：馬場俊英／編曲：Sin
@@ -40,8 +40,8 @@
 3.  Words of Love（2004年1月14日）オリコン47位
     1.  Words of Love\[4:48\]
           -
-            作詞：馬場俊英／作曲：[BOUNCEBACK](https://ja.wikipedia.org/wiki/BOUNCEBACK "wikilink")／編曲：BOUNCEBACK・A・cappellers
-            [COUNT DOWN TV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")2004年1月度オープニングテーマ
+            作詞：馬場俊英／作曲：[BOUNCEBACK](../Page/BOUNCEBACK.md "wikilink")／編曲：BOUNCEBACK・A・cappellers
+            [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")2004年1月度オープニングテーマ
     2.  Can't Stop Lovin' You ～Winter version～\[4:34\]
     3.  Words of Love \[Instrumental\]\[4:48\]
     4.  Can't Stop Lovin' You ～Winter version～ \[Instrumental\]\[4:32\]
@@ -65,7 +65,7 @@
     2.  [真夏の果実](https://ja.wikipedia.org/wiki/真夏の果実 "wikilink")\[2:49\]
     3.  PERFECT\[2:54\]
     4.  [川の流れのように](../Page/川の流れのように.md "wikilink")／I BELIEVE I CAN FLY\[3:03\]
-    5.  [WON'T BE LONG](https://ja.wikipedia.org/wiki/WON'T_BE_LONG "wikilink")\[3:42\]
+    5.  [WON'T BE LONG](../Page/WON'T_BE_LONG.md "wikilink")\[3:42\]
 2.  Steppin' Out（2004年5月26日）
     1.  overture\[0:27\]
           -

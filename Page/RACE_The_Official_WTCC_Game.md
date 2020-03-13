@@ -1,7 +1,7 @@
 > この記事は[RACE The Official WTCC Game](https://ja.wikipedia.org/wiki/RACE_The_Official_WTCC_Game)から翻訳されています。
 
 
-**RACE**（RACE The Official WTCC Game）は、[世界ツーリングカー選手権](../Page/世界ツーリングカー選手権.md "wikilink")（WTCC）を題材にした[レースゲーム](../Page/レースゲーム.md "wikilink")である。「WTCC」となって以後の同選手権を題材にした初のゲームでもあり、[国際自動車連盟](https://ja.wikipedia.org/wiki/国際自動車連盟 "wikilink")（FIA）の公認を得ている。
+**RACE**（RACE The Official WTCC Game）は、[世界ツーリングカー選手権](../Page/世界ツーリングカー選手権.md "wikilink")（WTCC）を題材にした[レースゲーム](../Page/レースゲーム.md "wikilink")である。「WTCC」となって以後の同選手権を題材にした初のゲームでもあり、[国際自動車連盟](../Page/国際自動車連盟.md "wikilink")（FIA）の公認を得ている。
 
 開発は[FIA-GT選手権を題材にした](../Page/FIA_GT選手権.md "wikilink")「[GTR](https://ja.wikipedia.org/wiki/GTR_-_FIA_GT_Racing_Game "wikilink")」（2005年3月発売）、1960年代から1970年代にかけてのGT選手権、ツーリングカー選手権を題材にした「[GT Legends](https://ja.wikipedia.org/wiki/GT_Legends "wikilink")」（2005年11月発売）などの開発実績がある[SimBin](https://ja.wikipedia.org/wiki/SimBin "wikilink")社、発売は[アイドス](../Page/アイドス.md "wikilink")社である。
 
@@ -17,14 +17,14 @@
 
 以下の10サーキットが収録されている。
 
-  - [モンツァ](https://ja.wikipedia.org/wiki/モンツァ・サーキット "wikilink")（[イタリア](../Page/イタリア.md "wikilink")）
-  - [マニクール](https://ja.wikipedia.org/wiki/マニクール・サーキット "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")）
+  - [モンツァ](../Page/モンツァ・サーキット.md "wikilink")（[イタリア](../Page/イタリア.md "wikilink")）
+  - [マニクール](../Page/マニクール・サーキット.md "wikilink")（[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")）
   - [ブランズハッチ](https://ja.wikipedia.org/wiki/ブランズハッチ "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")）
   - [オッシャースレーベン](https://ja.wikipedia.org/wiki/オッシャースレーベン "wikilink")（[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")）
   - [クリチバ](../Page/クリチバ・サーキット.md "wikilink")（[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")）
   - [プエブラ](https://ja.wikipedia.org/wiki/プエブラ・サーキット "wikilink")（[メキシコ](../Page/メキシコ.md "wikilink")）
   - [ブルノ](../Page/ブルノ・サーキット.md "wikilink")（[チェコ](../Page/チェコ.md "wikilink")）
-  - [イスタンブール](https://ja.wikipedia.org/wiki/イスタンブール・パーク "wikilink")（[トルコ](../Page/トルコ.md "wikilink")）
+  - [イスタンブール](../Page/イスタンブール・パーク.md "wikilink")（[トルコ](../Page/トルコ.md "wikilink")）
   - [バレンシア](../Page/バレンシア・サーキット.md "wikilink")（[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")）
   - [ギア・サーキット](https://ja.wikipedia.org/wiki/ギア・サーキット "wikilink")（[マカオ](../Page/マカオ.md "wikilink")）
 

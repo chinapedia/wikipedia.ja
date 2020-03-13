@@ -13,7 +13,7 @@
 ### 元メンバー
 
   - MEGU BURST　（DJ・トラックメーカー） （2005年7月30日、脱退）
-  - DJ BOLZOI　（[DJ](../Page/ディスクジョッキー.md "wikilink")・トラックメーカー [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身）
+  - DJ BOLZOI　（[DJ](../Page/ディスクジョッキー.md "wikilink")・トラックメーカー [東京都](../Page/東京都.md "wikilink")[大田区](https://ja.wikipedia.org/wiki/大田区 "wikilink")出身）
 
 ## エピソード
 

@@ -1,17 +1,17 @@
 > この記事は[RENDEZ-VOUS](https://ja.wikipedia.org/wiki/RENDEZ-VOUS)から翻訳されています。
 
 
-**RENDEZ-VOUS**（ランデヴー）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")4月から[2014年](../Page/2014年.md "wikilink")3月31日まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**RENDEZ-VOUS**（ランデヴー）は、[2005年](../Page/2005年.md "wikilink")4月から[2014年](../Page/2014年.md "wikilink")3月31日まで[J-WAVE](../Page/J-WAVE.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
-音楽および情報番組。午前中の[BOOM TOWN](https://ja.wikipedia.org/wiki/BOOM_TOWN "wikilink")→[I A.M.が日常生活に関わる情報を中心に据えているのに対し](https://ja.wikipedia.org/wiki/I_A.M. "wikilink")、映画や音楽、アートなどのエンターテインメントやスイーツなどの食文化といった、「楽しみ」に関わる情報を中心に放送している。
+音楽および情報番組。午前中の[BOOM TOWN](../Page/BOOM_TOWN.md "wikilink")→[I A.M.が日常生活に関わる情報を中心に据えているのに対し](https://ja.wikipedia.org/wiki/I_A.M. "wikilink")、映画や音楽、アートなどのエンターテインメントやスイーツなどの食文化といった、「楽しみ」に関わる情報を中心に放送している。
 
-上質な音楽と話題を取り上げ、落ち着きのある番組構成は他局の午後ワイド番組とは一線を画す。また、2010年の9月までは、この直前のランチタイムに放送している「[M+ (MUSIC PLUS)](../Page/MUSIC_PLUS.md "wikilink")」（その後[CURIOUS](https://ja.wikipedia.org/wiki/CURIOUS "wikilink")（2010年10月～2011年9月）、[PARK IN THE SKY](https://ja.wikipedia.org/wiki/PARK_IN_THE_SKY "wikilink")(2011年10月～2012年9月)を経て現在は[BEAT PLANET](https://ja.wikipedia.org/wiki/BEAT_PLANET "wikilink")。2012年10月～）とこの直後に放送されている「[GROOVE LINE](https://ja.wikipedia.org/wiki/GROOVE_LINE "wikilink")」（現：[GROOVE LINE Z](https://ja.wikipedia.org/wiki/GROOVE_LINE_Z "wikilink")。2010年4月～）のように賑やかな番組に挿まれている形となっている。
+上質な音楽と話題を取り上げ、落ち着きのある番組構成は他局の午後ワイド番組とは一線を画す。また、2010年の9月までは、この直前のランチタイムに放送している「[M+ (MUSIC PLUS)](../Page/MUSIC_PLUS.md "wikilink")」（その後[CURIOUS](https://ja.wikipedia.org/wiki/CURIOUS "wikilink")（2010年10月～2011年9月）、[PARK IN THE SKY](https://ja.wikipedia.org/wiki/PARK_IN_THE_SKY "wikilink")(2011年10月～2012年9月)を経て現在は[BEAT PLANET](https://ja.wikipedia.org/wiki/BEAT_PLANET "wikilink")。2012年10月～）とこの直後に放送されている「[GROOVE LINE](../Page/GROOVE_LINE.md "wikilink")」（現：[GROOVE LINE Z](https://ja.wikipedia.org/wiki/GROOVE_LINE_Z "wikilink")。2010年4月～）のように賑やかな番組に挿まれている形となっている。
 
 ## 放送時間
 
-  - 毎週[月曜](../Page/月曜日.md "wikilink")-[木曜](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 14:00-16:30
+  - 毎週[月曜](../Page/月曜日.md "wikilink")-[木曜](../Page/木曜日.md "wikilink") 14:00-16:30
 
 本番組は前後の番組と比べて、J-WAVEをサイマルネットしている[コミュニティFM局](https://ja.wikipedia.org/wiki/コミュニティFM局 "wikilink")でネットしているところが多い。
 
@@ -43,7 +43,7 @@
 <!-- end list -->
 
   -
-    [ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")。ピアニストの[西村由紀江](../Page/西村由紀江.md "wikilink")が、音楽家たちの様々なエピソードを紹介する。
+    [ミニ番組](../Page/ミニ番組.md "wikilink")。ピアニストの[西村由紀江](../Page/西村由紀江.md "wikilink")が、音楽家たちの様々なエピソードを紹介する。
 
 <!-- end list -->
 
@@ -119,7 +119,7 @@
 
 <!-- end list -->
 
-  - [MARUMIYA](https://ja.wikipedia.org/wiki/丸美屋食品工業 "wikilink") WHAT'S ON THE DISH
+  - [MARUMIYA](../Page/丸美屋食品工業.md "wikilink") WHAT'S ON THE DISH
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@
 <!-- end list -->
 
   -
-    [ジャイルス・ピーターソン](https://ja.wikipedia.org/wiki/ジャイルス・ピーターソン "wikilink")による15分間のDJ-MIXショーケース。
+    [ジャイルス・ピーターソン](../Page/ジャイルス・ピーターソン.md "wikilink")による15分間のDJ-MIXショーケース。
 
 <!-- end list -->
 

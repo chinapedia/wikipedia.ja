@@ -1,12 +1,12 @@
 > この記事は[Songs for Children](https://ja.wikipedia.org/wiki/Songs_for_Children)から翻訳されています。
 
 
-『**和音〜Songs for Children〜**』（わおん ソングス・フォー・チルドレン）は、[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")初のカバーアルバム。
+『**和音〜Songs for Children〜**』（わおん ソングス・フォー・チルドレン）は、[DEEN](../Page/DEEN.md "wikilink")初のカバーアルバム。
 
 ## 収録曲
 
 1.  **[見上げてごらん夜の星を](https://ja.wikipedia.org/wiki/見上げてごらん夜の星を_\(曲\)#DEENによるカバー "wikilink")　featuring [ダイアナ湯川](https://ja.wikipedia.org/wiki/ダイアナ湯川 "wikilink")**
-      - 作詞:[永六輔](../Page/永六輔.md "wikilink") 作曲:[いずみたく](https://ja.wikipedia.org/wiki/いずみたく "wikilink")
+      - 作詞:[永六輔](../Page/永六輔.md "wikilink") 作曲:[いずみたく](../Page/いずみたく.md "wikilink")
     <!-- end list -->
       -
         22ndシングル。
@@ -24,11 +24,11 @@
 4.  **切手のないおくりもの　featuring [上松美香](../Page/上松美香.md "wikilink")**
       - 作詞・作曲:[財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink")
 5.  **[戦争を知らない子供たち](https://ja.wikipedia.org/wiki/戦争を知らない子供たち_\(曲\) "wikilink")　featuring [塩谷哲](../Page/塩谷哲.md "wikilink")**
-      - 作詞:[北山修](../Page/北山修.md "wikilink") 作曲:[杉田二郎](https://ja.wikipedia.org/wiki/杉田二郎 "wikilink")
+      - 作詞:[北山修](../Page/北山修.md "wikilink") 作曲:[杉田二郎](../Page/杉田二郎.md "wikilink")
     <!-- end list -->
       -
         [ジローズ](../Page/ジローズ.md "wikilink")のカヴァー
-6.  **風をあつめて　featuring [BEGIN](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink")**
+6.  **風をあつめて　featuring [BEGIN](../Page/BEGIN_\(バンド\).md "wikilink")**
       - 作詞:[松本隆](../Page/松本隆.md "wikilink") 作曲:[細野晴臣](../Page/細野晴臣.md "wikilink")
 7.  **大きな空 小さな僕　featuring [宮本文昭](../Page/宮本文昭.md "wikilink")**
       - 作詞:池森秀一 作曲:DEEN
@@ -40,7 +40,7 @@
 9.  **月の沙漠　featuring [桑山哲也](../Page/桑山哲也.md "wikilink")**
       - 作詞:加藤まさを 作曲:佐々木すぐる
 10. **[少年](https://ja.wikipedia.org/wiki/LOVE_FOREVER/少年 "wikilink")　featuring [Lynx](https://ja.wikipedia.org/wiki/Lynx "wikilink")**
-      - 作詞:[池森秀一](https://ja.wikipedia.org/wiki/池森秀一 "wikilink") 作曲:[山根公路](https://ja.wikipedia.org/wiki/山根公路 "wikilink")・[田川伸治](https://ja.wikipedia.org/wiki/田川伸治 "wikilink")
+      - 作詞:[池森秀一](../Page/池森秀一.md "wikilink") 作曲:[山根公路](../Page/山根公路.md "wikilink")・[田川伸治](../Page/田川伸治.md "wikilink")
     <!-- end list -->
       -
         8thシングル両A面曲。この曲が本作で唯一セルフカヴァーである。
@@ -52,7 +52,7 @@
   - [原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink") （ヴォーカル）
   - [上松美香](../Page/上松美香.md "wikilink") （アルバ）
   - [塩谷哲](../Page/塩谷哲.md "wikilink") （ピアノ）
-  - [BEGIN](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\) "wikilink") （ヴォーカル、ギター、オルガン）
+  - [BEGIN](../Page/BEGIN_\(バンド\).md "wikilink") （ヴォーカル、ギター、オルガン）
   - [宮本文昭](../Page/宮本文昭.md "wikilink") （オーボエ）
   - 楊興新 （胡弓）
   - [桑山哲也](../Page/桑山哲也.md "wikilink") （アコーディオン）

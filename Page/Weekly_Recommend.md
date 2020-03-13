@@ -1,13 +1,13 @@
 > この記事は[Weekly Recommend](https://ja.wikipedia.org/wiki/Weekly_Recommend)から翻訳されています。
 
 
-**Weekly Recommend**（ウィークリーリコメンド）は、[ミュージックバード for コミュニティFMで放送されている番組](https://ja.wikipedia.org/wiki/ミュージックバード#コミュニティ "wikilink")。当番組を聴取するには、ネットを行う[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局又は[JCBAインターネットサイマルラジオ](https://ja.wikipedia.org/wiki/JCBAインターネットサイマルラジオ "wikilink")などの[サイマル放送](https://ja.wikipedia.org/wiki/サイマル放送 "wikilink")から聴取する必要がある。
+**Weekly Recommend**（ウィークリーリコメンド）は、[ミュージックバード for コミュニティFMで放送されている番組](https://ja.wikipedia.org/wiki/ミュージックバード#コミュニティ "wikilink")。当番組を聴取するには、ネットを行う[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局又は[JCBAインターネットサイマルラジオ](https://ja.wikipedia.org/wiki/JCBAインターネットサイマルラジオ "wikilink")などの[サイマル放送](../Page/サイマル放送.md "wikilink")から聴取する必要がある。
 
 ## 概要
 
 ミュージックバードが薦める音楽が毎週1曲\[1\]紹介される。月曜日の最初の放送分で新しい曲に変わり、日曜日の最終の放送分まで同じ曲が放送される。
 
-なお、『[防災・防犯インフォメーション](https://ja.wikipedia.org/wiki/防災・防犯インフォメーション "wikilink")』同様、コミュニティ放送局によっては、市町村のお知らせなどの別の[ミニ番組](https://ja.wikipedia.org/wiki/ミニ番組 "wikilink")への差し替えや、コミュニティ放送局の自主制作番組の放送に伴って一部の時間枠が放送されないことがある。
+なお、『[防災・防犯インフォメーション](https://ja.wikipedia.org/wiki/防災・防犯インフォメーション "wikilink")』同様、コミュニティ放送局によっては、市町村のお知らせなどの別の[ミニ番組](../Page/ミニ番組.md "wikilink")への差し替えや、コミュニティ放送局の自主制作番組の放送に伴って一部の時間枠が放送されないことがある。
 
 ## 放送時間
 

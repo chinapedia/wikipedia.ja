@@ -9,20 +9,20 @@
 
 当時は[ダウンタウン](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")、[ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")らの、いわゆる[お笑い第三世代](../Page/お笑い第三世代.md "wikilink")のタレントが台頭し始めてきた時期。これに目を付け、ダウンタウン、ウンナンに続く第三世代の芸人をこの番組から輩出しようと、日替わりで当時駆け出しだった芸人たちが20時台の『大笑い腹よじれクラブ』にレギュラー出演していた。
 
-メインパーソナリティは月曜日から[木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink")が、[萩本欽一](../Page/萩本欽一.md "wikilink")の下で座付き作家として活躍していた[放送作家](../Page/放送作家.md "wikilink")・[大倉利晴](../Page/大倉利晴.md "wikilink")、金曜日が[B21スペシャル](https://ja.wikipedia.org/wiki/B21スペシャル "wikilink")。
+メインパーソナリティは月曜日から[木曜日](../Page/木曜日.md "wikilink")が、[萩本欽一](../Page/萩本欽一.md "wikilink")の下で座付き作家として活躍していた[放送作家](../Page/放送作家.md "wikilink")・[大倉利晴](../Page/大倉利晴.md "wikilink")、金曜日が[B21スペシャル](../Page/B21スペシャル.md "wikilink")。
 
 19:00または19:10から19:30までは、2015年10月現在も『[今夜もオトパラ\!](https://ja.wikipedia.org/wiki/今夜もオトパラ! "wikilink")』で続いている全国ネット枠で、34局ネットで放送（時差ネットもあり）。20:00までは7局で、『大笑い腹よじれクラブ』を含む21:00まではニッポン放送と[西日本放送の](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")2局で放送、21:00 - 22:00はニッポン放送だけでの放送だった。
 
 ## パーソナリティ
 
   - 月曜日 - 木曜日：[大倉利晴](../Page/大倉利晴.md "wikilink")、[高橋尚代](https://ja.wikipedia.org/wiki/高橋尚代 "wikilink")（当時ニッポン放送アナウンサー）
-  - 金曜日：[B21スペシャル](https://ja.wikipedia.org/wiki/B21スペシャル "wikilink")、[広石恵子](https://ja.wikipedia.org/wiki/広石恵子 "wikilink")、[筒井由美子](https://ja.wikipedia.org/wiki/筒井由美子 "wikilink")、[増山さやか](https://ja.wikipedia.org/wiki/増山さやか "wikilink")（ニッポン放送アナウンサー）
+  - 金曜日：[B21スペシャル](../Page/B21スペシャル.md "wikilink")、[広石恵子](https://ja.wikipedia.org/wiki/広石恵子 "wikilink")、[筒井由美子](https://ja.wikipedia.org/wiki/筒井由美子 "wikilink")、[増山さやか](../Page/増山さやか.md "wikilink")（ニッポン放送アナウンサー）
 
 ### 『大笑い腹よじれクラブ』レギュラー
 
-  - 月曜日：[爆笑問題](../Page/爆笑問題.md "wikilink")、[森脇健児](https://ja.wikipedia.org/wiki/森脇健児 "wikilink")、[山田雅人](https://ja.wikipedia.org/wiki/山田雅人 "wikilink")
+  - 月曜日：[爆笑問題](../Page/爆笑問題.md "wikilink")、[森脇健児](../Page/森脇健児.md "wikilink")、[山田雅人](../Page/山田雅人.md "wikilink")
       -
-        （森脇、山田の二人は当時[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")『[ざまぁKANKAN\!](https://ja.wikipedia.org/wiki/ざまぁKANKAN! "wikilink")』のレギュラーだったため、[ラジオ大阪からの出演](../Page/大阪放送.md "wikilink")。当時梅田にあった旧局舎の手狭なスタジオを使用したため、森脇、山田は「ラジオ大阪窒息スタジオからお送りします」と自嘲していた。尚、同局はネットしていなかったので[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")出演だった）
+        （森脇、山田の二人は当時[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")『[ざまぁKANKAN\!](../Page/ざまぁKANKAN!.md "wikilink")』のレギュラーだったため、[ラジオ大阪からの出演](../Page/大阪放送.md "wikilink")。当時梅田にあった旧局舎の手狭なスタジオを使用したため、森脇、山田は「ラジオ大阪窒息スタジオからお送りします」と自嘲していた。尚、同局はネットしていなかったので[裏送り](../Page/裏送り.md "wikilink")出演だった）
   - 火曜日：[浅草キッド](../Page/浅草キッド.md "wikilink")、[シャインズ](https://ja.wikipedia.org/wiki/シャインズ "wikilink")（[伊藤洋介](https://ja.wikipedia.org/wiki/伊藤洋介 "wikilink")、[杉村太郎](../Page/杉村太郎.md "wikilink")）
   - 水曜日：[松村邦洋](../Page/松村邦洋.md "wikilink")、[広川ひかる](../Page/広川ひかる.md "wikilink")
   - 木曜日：[ビシバシステム](../Page/ビシバシステム.md "wikilink")、[松本きょうじ](../Page/松本きょうじ.md "wikilink")（当時、劇団「ランプティ・パンプティ」）
@@ -105,7 +105,7 @@
 
   - 大笑い腹よじれクラブ （日替わりコーナー）
       -
-        東海ラジオではタイトルとスポンサーだけ同じ別内容のコーナーがこの時間の自社番組で制作されていた（所謂、[企画ネット](https://ja.wikipedia.org/wiki/企画ネット番組 "wikilink")）。
+        東海ラジオではタイトルとスポンサーだけ同じ別内容のコーナーがこの時間の自社番組で制作されていた（所謂、[企画ネット](../Page/企画ネット番組.md "wikilink")）。
     <!-- end list -->
       - 貴重な体験 （月曜日）
       - ターゲットギャグ （月曜日、既に質問がギャグになっているリスナーからのはがきに、爆笑問題、森脇、山田がギャグで返すコーナー）
@@ -137,7 +137,7 @@
 
   - 21:10 - フリートーク
   - 21:20 - 大笑い海岸
-  - 21:30 - [ビーバーヤング](https://ja.wikipedia.org/wiki/三菱重工 "wikilink") [光のスターライトキッス](https://ja.wikipedia.org/wiki/光GENJI "wikilink") （内包番組、月 - 金）
+  - 21:30 - [ビーバーヤング](https://ja.wikipedia.org/wiki/三菱重工 "wikilink") [光のスターライトキッス](../Page/光GENJI.md "wikilink") （内包番組、月 - 金）
   - 21:40 - ここに幸あれ
 
 <!-- end list -->

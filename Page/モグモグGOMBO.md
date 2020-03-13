@@ -1,7 +1,7 @@
 > この記事は[GOMBO](https://ja.wikipedia.org/wiki/GOMBO)から翻訳されています。
 
 
-『**モグモグGOMBO**』（モグモグゴンボ）は、[日本テレビ系列局](../Page/日本テレビネットワーク協議会.md "wikilink")（一部除く）ほかで放送された[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[子供向けの](../Page/子供番組.md "wikilink")[料理](https://ja.wikipedia.org/wiki/料理番組 "wikilink")[教育番組](https://ja.wikipedia.org/wiki/教育番組 "wikilink")である。[カゴメ](https://ja.wikipedia.org/wiki/カゴメ "wikilink")の一社提供。製作局の日本テレビでは[1993年](../Page/1993年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで、毎週土曜 18:30 - 19:00 ([JST](../Page/日本標準時.md "wikilink")) に放送。
+『**モグモグGOMBO**』（モグモグゴンボ）は、[日本テレビ系列局](../Page/日本テレビネットワーク協議会.md "wikilink")（一部除く）ほかで放送された[日本テレビ製作の](../Page/日本テレビ放送網.md "wikilink")[子供向けの](../Page/子供番組.md "wikilink")[料理](../Page/料理番組.md "wikilink")[教育番組](../Page/教育番組.md "wikilink")である。[カゴメ](../Page/カゴメ.md "wikilink")の一社提供。製作局の日本テレビでは[1993年](../Page/1993年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで、毎週土曜 18:30 - 19:00 ([JST](../Page/日本標準時.md "wikilink")) に放送。
 
 司会は、番組スタートから最終回まで[ヒロミ](../Page/ヒロミ.md "wikilink")と林家こぶ平（現・[九代目林家正蔵](../Page/林家正蔵_\(9代目\).md "wikilink")）が担当。
 
@@ -13,16 +13,16 @@
 
 18:00開始の1994年を除く2000年までは『[24時間テレビ](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink")』が放送される日でも通常の時間で放送されていたが、2001年からは『24時間テレビ』が18:30開始となり、さらに直前の『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』が通常通り18:00からのスタートとなったために、番組を休止していた。
 
-2003年9月27日放送回を以て10年半の放送に幕を閉じた。最後には[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[世界に一つだけの花](https://ja.wikipedia.org/wiki/世界に一つだけの花 "wikilink")」が流れた。
+2003年9月27日放送回を以て10年半の放送に幕を閉じた。最後には[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の「[世界に一つだけの花](../Page/世界に一つだけの花.md "wikilink")」が流れた。
 
 ## スタッフ
 
-  - 構成：[喰始](../Page/喰始.md "wikilink")、[詩村博史](https://ja.wikipedia.org/wiki/詩村博史 "wikilink")、関根清貴、[川原慶太郎](https://ja.wikipedia.org/wiki/川原慶太郎 "wikilink")、[ひめはじめ](../Page/ひめはじめ.md "wikilink")
+  - 構成：[喰始](../Page/喰始.md "wikilink")、[詩村博史](../Page/詩村博史.md "wikilink")、関根清貴、[川原慶太郎](https://ja.wikipedia.org/wiki/川原慶太郎 "wikilink")、[ひめはじめ](../Page/ひめはじめ.md "wikilink")
   - 歴代ディレクター：[中村英明](../Page/中村英明.md "wikilink")、古野千秋/石田昌浩、小幡英司ほか
   - 総合演出：松岡至（2000年以降）
   - プロデューサー：中山憲明、宮木宣嗣
   - チーフプロデューサー：[五歩一勇](../Page/五歩一勇.md "wikilink")（番組開始当初、初期はプロデューサー）→[柏木登](../Page/柏木登.md "wikilink")（ - 2002.06）→[中山良夫](https://ja.wikipedia.org/wiki/中山良夫 "wikilink")（2002.07 - 最終回）
-  - 制作協力：[IVSテレビ制作](https://ja.wikipedia.org/wiki/IVSテレビ制作 "wikilink")
+  - 制作協力：[IVSテレビ制作](../Page/IVSテレビ制作.md "wikilink")
   - 製作著作：日本テレビ
 
 ## 歴代エンディングテーマ
@@ -33,7 +33,7 @@
   - HEART BEAT EXPRESS/[NUTS](https://ja.wikipedia.org/wiki/NUTS "wikilink")
   - forever love/[Love Lights Fields](https://ja.wikipedia.org/wiki/Love_Lights_Fields "wikilink")
   - 強い自分になろう/DELTA
-  - Happy Honeymoon/[大江千里](https://ja.wikipedia.org/wiki/大江千里_\(アーティスト\) "wikilink")
+  - Happy Honeymoon/[大江千里](../Page/大江千里_\(アーティスト\).md "wikilink")
   - かなう夢/[室瀬美紀](https://ja.wikipedia.org/wiki/室瀬美紀 "wikilink")
   - そんなヨウちゃんとキュウちゃんにだまされて/[クーニャンズ](https://ja.wikipedia.org/wiki/クーニャンズ "wikilink")
   - COLLECTION/[杉岡芳樹](https://ja.wikipedia.org/wiki/杉岡芳樹 "wikilink")
@@ -42,7 +42,7 @@
   - 笑ってるだけじゃない/[高橋由美子](https://ja.wikipedia.org/wiki/高橋由美子 "wikilink")
   - HEARTじかけのLOVEを歌おう/[ViViCa](https://ja.wikipedia.org/wiki/ViViCa "wikilink")
   - MY LIFE ↑/[BURST FRUITS](https://ja.wikipedia.org/wiki/BURST_FRUITS "wikilink")
-  - 愛する言葉/[カーネーション](https://ja.wikipedia.org/wiki/カーネーション_\(バンド\) "wikilink")
+  - 愛する言葉/[カーネーション](../Page/カーネーション_\(バンド\).md "wikilink")
   - ベクトルは上向き/[CAZACY](https://ja.wikipedia.org/wiki/CAZACY "wikilink")
   - サヨナラ/[恋愛信号](https://ja.wikipedia.org/wiki/恋愛信号 "wikilink")
   - 1 or 8/[ニキ･リナ](https://ja.wikipedia.org/wiki/ニキ･リナ "wikilink")
@@ -53,7 +53,7 @@
   - あなたに会う日の雨/[上田まり](../Page/上田まり.md "wikilink")
   - 秋風の狂詩曲/[Raphael](../Page/Raphael_\(バンド\).md "wikilink")
   - さくら/[RIZCO](https://ja.wikipedia.org/wiki/RIZCO "wikilink")
-  - C7/[GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")
+  - C7/[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")
   - あたしがあたしであるうちに/[Lita](../Page/Lita.md "wikilink")
   - It's to late/[LINDBERG](https://ja.wikipedia.org/wiki/リンドバーグ_\(バンド\) "wikilink")
   - 国道16/[Something ELse](../Page/Something_ELse.md "wikilink")
@@ -83,7 +83,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a></p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td><p>遅れネット<br />
 →同時ネット</p></td>
 <td><p>[1]</p></td>
@@ -233,7 +233,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a></p></td>
 <td></td>
 <td></td>
@@ -289,6 +289,6 @@
 4.  それ以前まで、当該時間帯では自社制作番組『[KRYテレビ夕刊](https://ja.wikipedia.org/wiki/KRYテレビ夕刊 "wikilink")』を放送していた。
 5.  ネット開始時期は不明。
 6.  それ以前まで、当該時間帯ではテレビ朝日系列の『[ビデオあんたが主役](https://ja.wikipedia.org/wiki/ビデオあんたが主役 "wikilink")』シリーズを遅れネットで放送していた。
-7.  本番組開始時点では『[遠くへ行きたい](https://ja.wikipedia.org/wiki/遠くへ行きたい_\(テレビ番組\) "wikilink")』で、その後は『[浪漫紀行・地球の贈り物](../Page/浪漫紀行・地球の贈り物.md "wikilink")』→『[世界遺産](https://ja.wikipedia.org/wiki/THE世界遺産 "wikilink")』（2番組とも[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）を放送。
+7.  本番組開始時点では『[遠くへ行きたい](../Page/遠くへ行きたい_\(テレビ番組\).md "wikilink")』で、その後は『[浪漫紀行・地球の贈り物](../Page/浪漫紀行・地球の贈り物.md "wikilink")』→『[世界遺産](https://ja.wikipedia.org/wiki/THE世界遺産 "wikilink")』（2番組とも[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）を放送。
 8.  M.B.MOOK『懐かしゲームボーイパーフェクトガイド』 (ISBN 9784866400259)、18ページ
 9.  [株式会社QBQ](http://qbq.jp/)編　『ゲームボーイクソゲー番付』マイウェイ出版発行、2017年。ISBN 9784865117790 p37

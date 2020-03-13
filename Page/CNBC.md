@@ -1,7 +1,7 @@
 > この記事は[CNBC](https://ja.wikipedia.org/wiki/CNBC)から翻訳されています。
 
 
-**CNBC**は、ニュース通信社[ダウ・ジョーンズ](https://ja.wikipedia.org/wiki/ダウ・ジョーンズ "wikilink")とアメリカの大手テレビネットワークのひとつ[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")が共同設立した[ニュース専門放送局](../Page/ニュース専門放送局.md "wikilink")。チャンネル名はConsumer News and Business Channel （コンシューマー・ニュース・アンド・ビジネス・チャンネル）の頭文字をとったもの、とされている。
+**CNBC**は、ニュース通信社[ダウ・ジョーンズ](../Page/ダウ・ジョーンズ.md "wikilink")とアメリカの大手テレビネットワークのひとつ[NBC](../Page/NBC.md "wikilink")が共同設立した[ニュース専門放送局](../Page/ニュース専門放送局.md "wikilink")。チャンネル名はConsumer News and Business Channel （コンシューマー・ニュース・アンド・ビジネス・チャンネル）の頭文字をとったもの、とされている。
 
 ## 概要
 
@@ -47,7 +47,7 @@
 ### その他
 
   - [アフリカ](../Page/アフリカ.md "wikilink")や[中東](../Page/中東.md "wikilink")といった地域向けのチャンネルや[イタリア](../Page/イタリア.md "wikilink")や[インド](../Page/インド.md "wikilink")といった個別の国向けのチャンネルがある。
-  - トルコでは[CNBC-e](https://ja.wikipedia.org/wiki/CNBC-e "wikilink")として放送していたが、2015年に終了した。
+  - トルコでは[CNBC-e](../Page/CNBC-e.md "wikilink")として放送していたが、2015年に終了した。
   - 2016年には[インドネシア](../Page/インドネシア.md "wikilink")で現地メディアとCNBCの提携が発表された。\[1\]
   - [フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")のニュースチャンネル・[ANCでは](../Page/ABS-CBN.md "wikilink")、CNBCの一部番組を放送する。
 

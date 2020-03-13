@@ -5,27 +5,27 @@
 
 ## 配役
 
-※山本・伊藤・秋山・虻川以外のレギュラーメンバーは各話で[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")として出演しており、回ごとに様々な役を担っている。以下は各話の主要キャストのみ記述。
+※山本・伊藤・秋山・虻川以外のレギュラーメンバーは各話で[エキストラ](../Page/エキストラ.md "wikilink")として出演しており、回ごとに様々な役を担っている。以下は各話の主要キャストのみ記述。
 
-  - 山本博 … [山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")（[ロバート](https://ja.wikipedia.org/wiki/ロバート_\(お笑いトリオ\) "wikilink")）
-  - 秋山さおり … [伊藤さおり](https://ja.wikipedia.org/wiki/伊藤さおり "wikilink")（[北陽](../Page/北陽.md "wikilink")）
-  - グローバルTPS 武蔵野支部リーダー 秋山竜次 … [秋山竜次](https://ja.wikipedia.org/wiki/秋山竜次 "wikilink")（ロバート）
-  - グローバルTPS 武蔵野支部サブリーダー 秋山美穂子 … [虻川美穂子](https://ja.wikipedia.org/wiki/虻川美穂子 "wikilink")（北陽）
+  - 山本博 … [山本博](../Page/山本博_\(お笑い芸人\).md "wikilink")（[ロバート](../Page/ロバート_\(お笑いトリオ\).md "wikilink")）
+  - 秋山さおり … [伊藤さおり](../Page/伊藤さおり.md "wikilink")（[北陽](../Page/北陽.md "wikilink")）
+  - グローバルTPS 武蔵野支部リーダー 秋山竜次 … [秋山竜次](../Page/秋山竜次.md "wikilink")（ロバート）
+  - グローバルTPS 武蔵野支部サブリーダー 秋山美穂子 … [虻川美穂子](../Page/虻川美穂子.md "wikilink")（北陽）
   - 博の父…[板倉俊之](../Page/板倉俊之.md "wikilink")([インパルス](../Page/インパルス_\(お笑いコンビ\).md "wikilink")）
-  - 博の母…[鈴木拓](https://ja.wikipedia.org/wiki/鈴木拓 "wikilink")（[ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")）
-  - 博の弟…[馬場裕之](https://ja.wikipedia.org/wiki/馬場裕之 "wikilink")（ロバート）
-  - 勧誘される博の友人…[西野亮廣](https://ja.wikipedia.org/wiki/西野亮廣 "wikilink")（[キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")）
-  - エステの無料体験に来た主婦…[塚地武雅](https://ja.wikipedia.org/wiki/塚地武雅 "wikilink")（ドランクドラゴン）
+  - 博の母…[鈴木拓](../Page/鈴木拓.md "wikilink")（[ドランクドラゴン](../Page/ドランクドラゴン.md "wikilink")）
+  - 博の弟…[馬場裕之](../Page/馬場裕之.md "wikilink")（ロバート）
+  - 勧誘される博の友人…[西野亮廣](../Page/西野亮廣.md "wikilink")（[キングコング](../Page/キングコング_\(お笑いコンビ\).md "wikilink")）
+  - エステの無料体験に来た主婦…[塚地武雅](../Page/塚地武雅.md "wikilink")（ドランクドラゴン）
 
 ## 内容
 
 平凡なサラリーマン・博が恋人さおりの家を訪問するのだが、実はさおりの両親は[マルチ商法](../Page/マルチ商法.md "wikilink")を営む「グローバルTPS」の幹部だった。回を追う毎に高額な商品を売りつけられ多額の借金を重ねる博は、やがてグローバルTPSの一員として勧誘を行う羽目になってしまう。序盤は普通のトーンで会話するも、勧誘時にはいきなり豹変して甲高い声で商品を売りつける秋山のキャラクターが人気となった。その喋り方はコミカルだが、次第に脅迫口調になり有無を言わせないリアリティを持つ。
 
-グローバルTPSの勧誘員は水色のジャケットを着用する。秋山が売りつけた商品としては、青い石で造られた[勾玉](https://ja.wikipedia.org/wiki/勾玉 "wikilink")のような「グローバルストーン」が代表的。後に秋山が発表する「[ロバート秋山のクリエイターズ・ファイル](https://ja.wikipedia.org/wiki/ロバート秋山のクリエイターズ・ファイル "wikilink")」の中の1篇「株式会社コンプリートアースOPS ジェネラルリーダー 川端司」に登場する企業・コンプリートアースは、グローバルTPSとかつて関連会社だったという裏設定がある\[1\]。
+グローバルTPSの勧誘員は水色のジャケットを着用する。秋山が売りつけた商品としては、青い石で造られた[勾玉](../Page/勾玉.md "wikilink")のような「グローバルストーン」が代表的。後に秋山が発表する「[ロバート秋山のクリエイターズ・ファイル](https://ja.wikipedia.org/wiki/ロバート秋山のクリエイターズ・ファイル "wikilink")」の中の1篇「株式会社コンプリートアースOPS ジェネラルリーダー 川端司」に登場する企業・コンプリートアースは、グローバルTPSとかつて関連会社だったという裏設定がある\[1\]。
 
 [2003年](../Page/2003年.md "wikilink")にはゲストが登場し、グローバルTPSの機関紙のインタビューを装って商品を売りつけたり私生活の秘密を暴露する内容になった。ただし同年[12月15日](../Page/12月15日.md "wikilink")放送での[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")はグローバルTPS側の人間（芸能支部リーダー）として登場した。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")10月、番組の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")進出に伴って1度だけ復活した。
+[2005年](../Page/2005年.md "wikilink")10月、番組の[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")進出に伴って1度だけ復活した。
 
 ## 概要
 
@@ -51,10 +51,10 @@
 8.  2002年[6月3日](../Page/6月3日.md "wikilink") 「恋の虜 ～グローバルTPS物語～ -特別編-」（DVDの告知のみ）
 9.  2002年[8月19日](../Page/8月19日.md "wikilink") 「グローバルTPS幸せ開発セミナー」（DVD発売記念イベント）
 10. [2003年](../Page/2003年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink") 「グローバルTPS物語」 ゲスト：[葛山信吾](../Page/葛山信吾.md "wikilink")
-11. 2003年[6月23日](../Page/6月23日.md "wikilink") 「グローバルTPS物語」 ゲスト：[東幹久](https://ja.wikipedia.org/wiki/東幹久 "wikilink")
-12. 2003年[9月15日](../Page/9月15日.md "wikilink") 「グローバルTPS物語」 ゲスト：[斉藤暁](https://ja.wikipedia.org/wiki/斉藤暁 "wikilink")
+11. 2003年[6月23日](../Page/6月23日.md "wikilink") 「グローバルTPS物語」 ゲスト：[東幹久](../Page/東幹久.md "wikilink")
+12. 2003年[9月15日](../Page/9月15日.md "wikilink") 「グローバルTPS物語」 ゲスト：[斉藤暁](../Page/斉藤暁.md "wikilink")
 13. 2003年[12月15日](../Page/12月15日.md "wikilink") 「グローバルTPS物語」 ゲスト：[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")
-14. [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月19日](../Page/10月19日.md "wikilink") 「グローバルTPSエステティックサロン」\[2\]
+14. [2005年](../Page/2005年.md "wikilink")[10月19日](../Page/10月19日.md "wikilink") 「グローバルTPSエステティックサロン」\[2\]
 
 ## 収録作品
 

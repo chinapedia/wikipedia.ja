@@ -1,7 +1,7 @@
 > この記事は[FOCUS](https://ja.wikipedia.org/wiki/FOCUS)から翻訳されています。
 
 
-『**FOCUS**』（フォーカス）は、[1981年](../Page/1981年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に[新潮社](../Page/新潮社.md "wikilink")から創刊された[写真週刊誌](https://ja.wikipedia.org/wiki/写真週刊誌 "wikilink")の草分け。[2001年](../Page/2001年.md "wikilink")休刊。
+『**FOCUS**』（フォーカス）は、[1981年](../Page/1981年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に[新潮社](../Page/新潮社.md "wikilink")から創刊された[写真週刊誌](../Page/写真週刊誌.md "wikilink")の草分け。[2001年](../Page/2001年.md "wikilink")休刊。
 
 取締役の編集者[斉藤十一](https://ja.wikipedia.org/wiki/斉藤十一 "wikilink")が、創刊に多く関係した。
 
@@ -11,9 +11,9 @@
 
 「新潮ジャーナリズム」と呼ばれる丹念な取材と張り込み取材を展開した。有名人やタレントの密会写真掲載などで話題を作ったり、政治的な事件や災害、事故などのスクープも多い。また、従来の新聞、テレビなどが報道しなかった、複雑な事件やニュースの裏側に迫る写真も数多く掲載した。
 
-[ロッキード事件](../Page/ロッキード事件.md "wikilink")[公判](../Page/公判.md "wikilink")で、被告だった[田中角栄](https://ja.wikipedia.org/wiki/田中角栄 "wikilink")元首相を法廷内で撮影したり、1997年の[神戸連続児童殺傷事件](https://ja.wikipedia.org/wiki/神戸連続児童殺傷事件 "wikilink")で未成年の犯人の顔写真や、著名人の葬儀に際し棺に納められた遺体の顔\[1\]を掲載したりと、法に抵触しかねない取材活動をして問題となったこともある（敢えて行った面もある）。また、[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")などのあおりを受け、その取材方法に社会的批判を浴びるようにもなった。
+[ロッキード事件](../Page/ロッキード事件.md "wikilink")[公判](../Page/公判.md "wikilink")で、被告だった[田中角栄](../Page/田中角栄.md "wikilink")元首相を法廷内で撮影したり、1997年の[神戸連続児童殺傷事件](https://ja.wikipedia.org/wiki/神戸連続児童殺傷事件 "wikilink")で未成年の犯人の顔写真や、著名人の葬儀に際し棺に納められた遺体の顔\[1\]を掲載したりと、法に抵触しかねない取材活動をして問題となったこともある（敢えて行った面もある）。また、[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")などのあおりを受け、その取材方法に社会的批判を浴びるようにもなった。
 
-だが、その一方では[桶川ストーカー殺人事件](https://ja.wikipedia.org/wiki/桶川ストーカー殺人事件 "wikilink")で、同誌の[清水潔が](https://ja.wikipedia.org/wiki/清水潔_\(ジャーナリスト\) "wikilink")、[埼玉県警察](../Page/埼玉県警察.md "wikilink")より先に犯人を捕捉し、捜査を放置した[警察の不祥事](https://ja.wikipedia.org/wiki/警察の不祥事 "wikilink")まで暴くという[調査報道](../Page/調査報道.md "wikilink")も成功させてもいる（テレビ朝日『[ザ・スクープ](../Page/ザ・スクープ.md "wikilink")』が後を追った）。1983年（昭和58年）には、[高部知子](https://ja.wikipedia.org/wiki/高部知子 "wikilink")の一服写真を掲載した（[ニャンニャン事件](https://ja.wikipedia.org/wiki/ニャンニャン事件 "wikilink")）。
+だが、その一方では[桶川ストーカー殺人事件](https://ja.wikipedia.org/wiki/桶川ストーカー殺人事件 "wikilink")で、同誌の[清水潔が](https://ja.wikipedia.org/wiki/清水潔_\(ジャーナリスト\) "wikilink")、[埼玉県警察](../Page/埼玉県警察.md "wikilink")より先に犯人を捕捉し、捜査を放置した[警察の不祥事](https://ja.wikipedia.org/wiki/警察の不祥事 "wikilink")まで暴くという[調査報道](../Page/調査報道.md "wikilink")も成功させてもいる（テレビ朝日『[ザ・スクープ](../Page/ザ・スクープ.md "wikilink")』が後を追った）。1983年（昭和58年）には、[高部知子](../Page/高部知子.md "wikilink")の一服写真を掲載した（[ニャンニャン事件](https://ja.wikipedia.org/wiki/ニャンニャン事件 "wikilink")）。
 
 最終ページは、[マッド・アマノ](../Page/マッド・アマノ.md "wikilink")が世相を広告風に作ったパロディ写真（[オマージュ](../Page/オマージュ.md "wikilink")）『狂告の時代』が連載されていた。
 

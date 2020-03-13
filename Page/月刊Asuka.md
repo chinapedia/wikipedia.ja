@@ -5,7 +5,7 @@
 
 ## 概要
 
-創刊号は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月](../Page/8月.md "wikilink")号（[6月](../Page/6月.md "wikilink")発売）。[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記はかつては**ASUKA**だったが、現在は**Asuka**である。表紙には、『Asuka』の上部に「月刊あすか」と記載されている。[少女漫画](../Page/少女漫画.md "wikilink")雑誌ではあるが、漫画面では『[少年エース](https://ja.wikipedia.org/wiki/少年エース "wikilink")』と同等で、主流の[恋愛漫画](https://ja.wikipedia.org/wiki/恋愛漫画 "wikilink")は皆無である。[森永あい](../Page/森永あい.md "wikilink")の『[山田太郎ものがたり](../Page/山田太郎ものがたり.md "wikilink")』、[杉崎ゆきる](../Page/杉崎ゆきる.md "wikilink")の『[D・N・ANGEL](../Page/D・N・ANGEL.md "wikilink")』、[小田切ほたる](https://ja.wikipedia.org/wiki/小田切ほたる "wikilink")の『[裏切りは僕の名前を知っている](https://ja.wikipedia.org/wiki/裏切りは僕の名前を知っている "wikilink")』、原作：[吉田直](https://ja.wikipedia.org/wiki/吉田直 "wikilink")、絵：[九条キヨ](../Page/九条キヨ.md "wikilink")、キャラクター原案：[THORES柴本](../Page/THORES柴本.md "wikilink")の『[トリニティ・ブラッド](https://ja.wikipedia.org/wiki/トリニティ・ブラッド "wikilink")』などが連載されている。『月刊Asuka』に掲載され単行本化される作品は『**[あすかコミックス](https://ja.wikipedia.org/wiki/あすかコミックス "wikilink")**』レーベルにおいて刊行されている。増刊誌として『別冊あすか』などがある。『月刊Asuka』独自の漫画賞として、『Asuka新人漫画賞』190回以上続いていたが、[2009年](../Page/2009年.md "wikilink")より角川書店が発行する漫画雑誌5誌合同の『[角川漫画新人賞](https://ja.wikipedia.org/wiki/角川漫画新人賞 "wikilink")』に統合された。2009年10月の『[ビーンズエース](../Page/ビーンズエース.md "wikilink")』の廃刊に伴い一部作品が、2012年10月に休刊した『[アルティマエース](https://ja.wikipedia.org/wiki/アルティマエース "wikilink")』から一部作品が、2013年10月に休刊した『[コミック怪](https://ja.wikipedia.org/wiki/コミック怪 "wikilink")』から一部作品が移籍してきた。Webマンガ誌『コミックNewtype』が創刊され一部作品が移籍していった。
+創刊号は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[8月](../Page/8月.md "wikilink")号（[6月](../Page/6月.md "wikilink")発売）。[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記はかつては**ASUKA**だったが、現在は**Asuka**である。表紙には、『Asuka』の上部に「月刊あすか」と記載されている。[少女漫画](../Page/少女漫画.md "wikilink")雑誌ではあるが、漫画面では『[少年エース](https://ja.wikipedia.org/wiki/少年エース "wikilink")』と同等で、主流の[恋愛漫画](https://ja.wikipedia.org/wiki/恋愛漫画 "wikilink")は皆無である。[森永あい](../Page/森永あい.md "wikilink")の『[山田太郎ものがたり](../Page/山田太郎ものがたり.md "wikilink")』、[杉崎ゆきる](../Page/杉崎ゆきる.md "wikilink")の『[D・N・ANGEL](../Page/D・N・ANGEL.md "wikilink")』、[小田切ほたる](https://ja.wikipedia.org/wiki/小田切ほたる "wikilink")の『[裏切りは僕の名前を知っている](https://ja.wikipedia.org/wiki/裏切りは僕の名前を知っている "wikilink")』、原作：[吉田直](../Page/吉田直.md "wikilink")、絵：[九条キヨ](../Page/九条キヨ.md "wikilink")、キャラクター原案：[THORES柴本](../Page/THORES柴本.md "wikilink")の『[トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")』などが連載されている。『月刊Asuka』に掲載され単行本化される作品は『**[あすかコミックス](https://ja.wikipedia.org/wiki/あすかコミックス "wikilink")**』レーベルにおいて刊行されている。増刊誌として『別冊あすか』などがある。『月刊Asuka』独自の漫画賞として、『Asuka新人漫画賞』190回以上続いていたが、[2009年](../Page/2009年.md "wikilink")より角川書店が発行する漫画雑誌5誌合同の『[角川漫画新人賞](https://ja.wikipedia.org/wiki/角川漫画新人賞 "wikilink")』に統合された。2009年10月の『[ビーンズエース](../Page/ビーンズエース.md "wikilink")』の廃刊に伴い一部作品が、2012年10月に休刊した『[アルティマエース](https://ja.wikipedia.org/wiki/アルティマエース "wikilink")』から一部作品が、2013年10月に休刊した『[コミック怪](https://ja.wikipedia.org/wiki/コミック怪 "wikilink")』から一部作品が移籍してきた。Webマンガ誌『コミックNewtype』が創刊され一部作品が移籍していった。
 
 ## 現在の主な掲載作品\[1\]
 
@@ -42,11 +42,11 @@
   - [アンジェリーク](../Page/アンジェリーク.md "wikilink")（作画：[由羅カイリ](../Page/由羅カイリ.md "wikilink") / 著作権：[KOEI](https://ja.wikipedia.org/wiki/KOEI "wikilink")）
   - [イマドキ青春](https://ja.wikipedia.org/wiki/イマドキ青春 "wikilink")（[カワハラ恋](https://ja.wikipedia.org/wiki/カワハラ恋 "wikilink")）
   - [うそつきエンゲージ](https://ja.wikipedia.org/wiki/うそつきエンゲージ "wikilink")（[山田シロ](https://ja.wikipedia.org/wiki/山田シロ "wikilink")）
-  - [うちの執事が言うことには](https://ja.wikipedia.org/wiki/うちの執事が言うことには "wikilink")（作画：[音中さわき](https://ja.wikipedia.org/wiki/音中さわき "wikilink") / 原作：[高里椎奈](https://ja.wikipedia.org/wiki/高里椎奈 "wikilink") / キャラクター原案：[佐原ミズ](../Page/佐原ミズ.md "wikilink")）
+  - [うちの執事が言うことには](https://ja.wikipedia.org/wiki/うちの執事が言うことには "wikilink")（作画：[音中さわき](https://ja.wikipedia.org/wiki/音中さわき "wikilink") / 原作：[高里椎奈](../Page/高里椎奈.md "wikilink") / キャラクター原案：[佐原ミズ](../Page/佐原ミズ.md "wikilink")）
   - [うちの陛下が新米で。](https://ja.wikipedia.org/wiki/うちの陛下が新米で。 "wikilink")（[湖住ふじこ](https://ja.wikipedia.org/wiki/湖住ふじこ "wikilink")）
   - [裏切りは僕の名前を知っている](https://ja.wikipedia.org/wiki/裏切りは僕の名前を知っている "wikilink")（[小田切ほたる](https://ja.wikipedia.org/wiki/小田切ほたる "wikilink")）
   - [干支ロワイヤル](https://ja.wikipedia.org/wiki/干支ロワイヤル "wikilink")（[御守リツヒロ](https://ja.wikipedia.org/wiki/御守リツヒロ "wikilink")）\[2\]
-  - [Elysion 二つの楽園を廻る物語](../Page/Elysion_〜楽園幻想物語組曲〜.md "wikilink") （作画：[木下さくら](https://ja.wikipedia.org/wiki/木下さくら "wikilink") / 解釈・構成：[十文字青](../Page/十文字青.md "wikilink") / 原作：[Sound Horizon](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink") ）　
+  - [Elysion 二つの楽園を廻る物語](../Page/Elysion_〜楽園幻想物語組曲〜.md "wikilink") （作画：[木下さくら](../Page/木下さくら.md "wikilink") / 解釈・構成：[十文字青](../Page/十文字青.md "wikilink") / 原作：[Sound Horizon](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink") ）　
   - [A+B -エンジェル+ブラッド-](https://ja.wikipedia.org/wiki/A+B_-エンジェル+ブラッド- "wikilink")（[阿倍野ちゃこ](../Page/阿倍野ちゃこ.md "wikilink")）
   - [王国の鍵](https://ja.wikipedia.org/wiki/王国の鍵 "wikilink")（[紫堂恭子](../Page/紫堂恭子.md "wikilink")）
   - [王子はただいま出稼ぎ中](https://ja.wikipedia.org/wiki/王子はただいま出稼ぎ中 "wikilink")（作画・キャラクター原案：[サマミヤアカザ](https://ja.wikipedia.org/wiki/サマミヤアカザ "wikilink") / 原作：[岩城広海](https://ja.wikipedia.org/wiki/岩城広海 "wikilink")）
@@ -56,7 +56,7 @@
 
 ### か行
 
-  - [確率捜査官 御子柴岳人](https://ja.wikipedia.org/wiki/確率捜査官_御子柴岳人 "wikilink")（作画：[マジコ\!](https://ja.wikipedia.org/wiki/マジコ! "wikilink") / 原作：[神永学](https://ja.wikipedia.org/wiki/神永学 "wikilink")）
+  - [確率捜査官 御子柴岳人](https://ja.wikipedia.org/wiki/確率捜査官_御子柴岳人 "wikilink")（作画：[マジコ\!](https://ja.wikipedia.org/wiki/マジコ! "wikilink") / 原作：[神永学](../Page/神永学.md "wikilink")）
   - [影執事マルクの手違い](https://ja.wikipedia.org/wiki/影執事マルクシリーズ "wikilink")（作画・キャラクター原案：[COMTA](https://ja.wikipedia.org/wiki/COMTA "wikilink") / 原作：[手島史詞](https://ja.wikipedia.org/wiki/手島史詞 "wikilink")）
   - [カタシロとメランコリー](https://ja.wikipedia.org/wiki/カタシロとメランコリー "wikilink")（加藤えりこ）\[3\]
   - [鎌倉デコフライフ](https://ja.wikipedia.org/wiki/鎌倉デコフライフ "wikilink")（[田中智](https://ja.wikipedia.org/wiki/田中智 "wikilink")）
@@ -66,10 +66,10 @@
   - [今日から㋮のつく自由業\!](https://ja.wikipedia.org/wiki/まるマシリーズ "wikilink")（作画：[松本テマリ](../Page/松本テマリ.md "wikilink") / 原作：[喬林知](../Page/喬林知.md "wikilink")）
   - [劇場版 ATARU](https://ja.wikipedia.org/wiki/劇場版_ATARU_THE_FIRST_LOVE_&_THE_LAST_KILL "wikilink") （作画：[寺井赤音](https://ja.wikipedia.org/wiki/寺井赤音 "wikilink") / 脚本：[櫻井武晴](https://ja.wikipedia.org/wiki/櫻井武晴 "wikilink")）
   - [源氏物語 千年の謎](https://ja.wikipedia.org/wiki/源氏物語_千年の謎 "wikilink")（作画：[宮城とおこ](https://ja.wikipedia.org/wiki/宮城とおこ "wikilink") / 原作：[高山由紀子](https://ja.wikipedia.org/wiki/高山由紀子 "wikilink")）
-  - [コードギアス 反逆のルルーシュ](https://ja.wikipedia.org/wiki/コードギアス_\(漫画\)#コードギアス_反逆のルルーシュ（漫画版） "wikilink")（作画；[マジコ\!](https://ja.wikipedia.org/wiki/マジコ! "wikilink") / ストーリー原案： [大河内一楼](https://ja.wikipedia.org/wiki/大河内一楼 "wikilink")・ [谷口悟朗](https://ja.wikipedia.org/wiki/谷口悟朗 "wikilink")）
+  - [コードギアス 反逆のルルーシュ](https://ja.wikipedia.org/wiki/コードギアス_\(漫画\)#コードギアス_反逆のルルーシュ（漫画版） "wikilink")（作画；[マジコ\!](https://ja.wikipedia.org/wiki/マジコ! "wikilink") / ストーリー原案： [大河内一楼](../Page/大河内一楼.md "wikilink")・ [谷口悟朗](../Page/谷口悟朗.md "wikilink")）
   - [胡鶴捕物帳](../Page/胡鶴捕物帳.md "wikilink")（[片桐美亜](https://ja.wikipedia.org/wiki/片桐美亜 "wikilink")）
   - 狐狸の花盗り（朱子すず）
-  - [コンダクター](https://ja.wikipedia.org/wiki/コンダクター（小説） "wikilink")（作画：[野奇夜](https://ja.wikipedia.org/wiki/野奇夜 "wikilink") / 原作：[神永学](https://ja.wikipedia.org/wiki/神永学 "wikilink")）
+  - [コンダクター](https://ja.wikipedia.org/wiki/コンダクター（小説） "wikilink")（作画：[野奇夜](https://ja.wikipedia.org/wiki/野奇夜 "wikilink") / 原作：[神永学](../Page/神永学.md "wikilink")）
 
 ### さ行
 
@@ -79,10 +79,10 @@
   - [新世紀エヴァンゲリオン 学園堕天録](../Page/新世紀エヴァンゲリオン_学園堕天録.md "wikilink")（作画：[眠民](https://ja.wikipedia.org/wiki/眠民 "wikilink")、原作：[GAINAX](https://ja.wikipedia.org/wiki/GAINAX "wikilink")・[カラー](../Page/カラー_\(アニメ制作会社\).md "wikilink")）
   - [新世紀エヴァンゲリオン 鋼鉄のガールフレンド2nd](../Page/新世紀エヴァンゲリオン_鋼鉄のガールフレンド2nd.md "wikilink")（作画：[林ふみの](../Page/林ふみの.md "wikilink") /原作：[GAINAX](https://ja.wikipedia.org/wiki/GAINAX "wikilink")・[カラー](../Page/カラー_\(アニメ制作会社\).md "wikilink")）
   - [声優一年生](https://ja.wikipedia.org/wiki/声優一年生 "wikilink")（[如月弘鷹](https://ja.wikipedia.org/wiki/如月弘鷹 "wikilink")）
-  - [戦国ＢＡＳＡＲＡ３～鬼神のごとく～](https://ja.wikipedia.org/wiki/戦国BASARA "wikilink")（作画： [樋口大輔](https://ja.wikipedia.org/wiki/樋口大輔 "wikilink") / 監修・協力： [カプコン](../Page/カプコン.md "wikilink")）
+  - [戦国ＢＡＳＡＲＡ３～鬼神のごとく～](../Page/戦国BASARA.md "wikilink")（作画： [樋口大輔](../Page/樋口大輔.md "wikilink") / 監修・協力： [カプコン](../Page/カプコン.md "wikilink")）
   - [シノビ四重奏](https://ja.wikipedia.org/wiki/シノビ四重奏 "wikilink")（[ひむか透留](https://ja.wikipedia.org/wiki/ひむか透留 "wikilink")）
   - [新米住職さんと不可思議な日々](https://ja.wikipedia.org/wiki/新米住職さんと不可思議な日々 "wikilink")（[鈴白ねりた](https://ja.wikipedia.org/wiki/鈴白ねりた "wikilink")）
-  - [心霊探偵 八雲](https://ja.wikipedia.org/wiki/心霊探偵_八雲 "wikilink")（作画：[小田すずか](https://ja.wikipedia.org/wiki/小田すずか "wikilink") / 原作：[神永学](https://ja.wikipedia.org/wiki/神永学 "wikilink")）
+  - [心霊探偵 八雲](../Page/心霊探偵_八雲.md "wikilink")（作画：[小田すずか](https://ja.wikipedia.org/wiki/小田すずか "wikilink") / 原作：[神永学](../Page/神永学.md "wikilink")）
 
 ### た行
 
@@ -94,7 +94,7 @@
   - [とある空言、ボクの秘密](https://ja.wikipedia.org/wiki/とある空言、ボクの秘密 "wikilink")（[鳩也直](https://ja.wikipedia.org/wiki/鳩也直 "wikilink")）
   - [東京デッドライン](https://ja.wikipedia.org/wiki/東京デッドライン "wikilink")（[坂本あきら](../Page/坂本あきら_\(漫画家\).md "wikilink")）
   - [東方妖遊記](https://ja.wikipedia.org/wiki/東方妖遊記 "wikilink")（作画：[マジコ\!](https://ja.wikipedia.org/wiki/マジコ! "wikilink") / 原作： [村田栞](https://ja.wikipedia.org/wiki/村田栞 "wikilink") / キャラクター原案：[伊藤明十](https://ja.wikipedia.org/wiki/伊藤明十 "wikilink")）
-  - [特等添乗員αの難事件](https://ja.wikipedia.org/wiki/Qシリーズ_\(小説\) "wikilink")（作画：[蒼崎律](https://ja.wikipedia.org/wiki/蒼崎律 "wikilink") / 原作：[松岡圭祐](https://ja.wikipedia.org/wiki/松岡圭祐 "wikilink") / キャラクター原案：[清原紘](https://ja.wikipedia.org/wiki/清原紘 "wikilink")）
+  - [特等添乗員αの難事件](https://ja.wikipedia.org/wiki/Qシリーズ_\(小説\) "wikilink")（作画：[蒼崎律](https://ja.wikipedia.org/wiki/蒼崎律 "wikilink") / 原作：[松岡圭祐](../Page/松岡圭祐.md "wikilink") / キャラクター原案：[清原紘](https://ja.wikipedia.org/wiki/清原紘 "wikilink")）
 
 ### な行
 
@@ -106,7 +106,7 @@
 
   - [ハーレムビートは夜明けまで](https://ja.wikipedia.org/wiki/ハーレムビートは夜明けまで "wikilink")（[高嶋上総](https://ja.wikipedia.org/wiki/高嶋上総 "wikilink")）
   - 初華咲いたか（[藤也卓巳](https://ja.wikipedia.org/wiki/藤也卓巳 "wikilink")）
-  - [バッテリー](https://ja.wikipedia.org/wiki/バッテリー_\(小説\) "wikilink")（作画：[柚庭千景](https://ja.wikipedia.org/wiki/柚庭千景 "wikilink") / 原作：[あさのあつこ](https://ja.wikipedia.org/wiki/あさのあつこ "wikilink")）
+  - [バッテリー](../Page/バッテリー_\(小説\).md "wikilink")（作画：[柚庭千景](https://ja.wikipedia.org/wiki/柚庭千景 "wikilink") / 原作：[あさのあつこ](../Page/あさのあつこ.md "wikilink")）
   - [花のあすか組\!](../Page/花のあすか組!.md "wikilink")（[高口里純](../Page/高口里純.md "wikilink")）
   - [花は桜よりも華のごとく](https://ja.wikipedia.org/wiki/花は桜よりも華のごとく "wikilink")（作画・キャラクター原案：[サカノ景子](https://ja.wikipedia.org/wiki/サカノ景子 "wikilink") / 原作：[河合ゆうみ](https://ja.wikipedia.org/wiki/河合ゆうみ "wikilink")）
   - [H.A.B.不可侵絶対領域](https://ja.wikipedia.org/wiki/H.A.B.不可侵絶対領域 "wikilink")（[このえ凜](https://ja.wikipedia.org/wiki/このえ凜 "wikilink")）
@@ -114,12 +114,12 @@
   - バラッド×オペラ（[サマミヤアカザ](https://ja.wikipedia.org/wiki/サマミヤアカザ "wikilink")）
   - [ビブリア古書堂の事件手帖](https://ja.wikipedia.org/wiki/ビブリア古書堂の事件手帖 "wikilink")（原作：[三上延](../Page/三上延.md "wikilink") / 漫画：[ナカノ](https://ja.wikipedia.org/wiki/ナカノ "wikilink") / キャラクター原案：[越島はぐ](https://ja.wikipedia.org/wiki/越島はぐ "wikilink")）
   - [姫様騎士’s](https://ja.wikipedia.org/wiki/姫様騎士’s "wikilink")（[倖野すず](https://ja.wikipedia.org/wiki/倖野すず "wikilink")）
-  - [百器徒然袋 雲外鏡　薔薇十字探偵の然疑](https://ja.wikipedia.org/wiki/百器徒然袋――風 "wikilink")（作画：[志水アキ](https://ja.wikipedia.org/wiki/志水アキ "wikilink") / 原作：[京極夏彦](../Page/京極夏彦.md "wikilink")）
-  - [百器徒然袋 面霊気 薔薇十字探偵の疑惑](https://ja.wikipedia.org/wiki/百器徒然袋――風 "wikilink")（作画：[志水アキ](https://ja.wikipedia.org/wiki/志水アキ "wikilink") / 原作：[京極夏彦](../Page/京極夏彦.md "wikilink")）
+  - [百器徒然袋 雲外鏡　薔薇十字探偵の然疑](https://ja.wikipedia.org/wiki/百器徒然袋――風 "wikilink")（作画：[志水アキ](../Page/志水アキ.md "wikilink") / 原作：[京極夏彦](../Page/京極夏彦.md "wikilink")）
+  - [百器徒然袋 面霊気 薔薇十字探偵の疑惑](https://ja.wikipedia.org/wiki/百器徒然袋――風 "wikilink")（作画：[志水アキ](../Page/志水アキ.md "wikilink") / 原作：[京極夏彦](../Page/京極夏彦.md "wikilink")）
   - [¥十億少女](https://ja.wikipedia.org/wiki/¥十億少女 "wikilink")（[酒井美羽](../Page/酒井美羽.md "wikilink")）
   - [ピンクとグレー](https://ja.wikipedia.org/wiki/ピンクとグレー#漫画 "wikilink")（作画：[藤崎みお](https://ja.wikipedia.org/wiki/藤崎みお "wikilink") / 原作：[加藤シゲアキ](https://ja.wikipedia.org/wiki/加藤シゲアキ "wikilink")）
   - [祓魔師な嫁ですが。](https://ja.wikipedia.org/wiki/祓魔師な嫁ですが。 "wikilink")（[風都ノリ](https://ja.wikipedia.org/wiki/風都ノリ "wikilink")）
-  - [“文学少女”と恋する詩人](../Page/“文学少女”シリーズ.md "wikilink")（作画：[日吉丸晃](https://ja.wikipedia.org/wiki/日吉丸晃 "wikilink") / 原作：[野村美月](https://ja.wikipedia.org/wiki/野村美月 "wikilink") / キャラクター原案：[竹岡美穂](../Page/竹岡美穂.md "wikilink")）
+  - [“文学少女”と恋する詩人](../Page/“文学少女”シリーズ.md "wikilink")（作画：[日吉丸晃](https://ja.wikipedia.org/wiki/日吉丸晃 "wikilink") / 原作：[野村美月](../Page/野村美月.md "wikilink") / キャラクター原案：[竹岡美穂](../Page/竹岡美穂.md "wikilink")）
   - [ブラッディ+メアリー](https://ja.wikipedia.org/wiki/ブラッディ+メアリー "wikilink")（[サマミヤアカザ](https://ja.wikipedia.org/wiki/サマミヤアカザ "wikilink")）
   - 封神しない演義（サカノ景子）
 
@@ -127,9 +127,9 @@
 
   - [魔境学園風雲記ハイパーハーフ&ハーフ](https://ja.wikipedia.org/wiki/魔境学園風雲記ハイパーハーフ&ハーフ "wikilink") （[巣田祐里子](../Page/巣田祐里子.md "wikilink")）
   - [身代わり伯爵の冒険](../Page/身代わり伯爵シリーズ.md "wikilink")（作画：[柴田五十鈴](https://ja.wikipedia.org/wiki/柴田五十鈴 "wikilink") / 原作：[清家未森](../Page/清家未森.md "wikilink") / キャラクター原案：[ねぎしきょうこ](../Page/ねぎしきょうこ.md "wikilink")）
-  - [明治東亰恋伽 朧ノ刻の戯曲](https://ja.wikipedia.org/wiki/明治東亰恋伽 "wikilink")（作画：[陽向ひより](https://ja.wikipedia.org/wiki/陽向ひより "wikilink") / 原案・監修：[ドワンゴ](https://ja.wikipedia.org/wiki/ドワンゴ "wikilink")・[魚住ユキコ](https://ja.wikipedia.org/wiki/魚住ユキコ "wikilink") / キャラクターデザイン：[かる](https://ja.wikipedia.org/wiki/かる "wikilink")）
+  - [明治東亰恋伽 朧ノ刻の戯曲](https://ja.wikipedia.org/wiki/明治東亰恋伽 "wikilink")（作画：[陽向ひより](https://ja.wikipedia.org/wiki/陽向ひより "wikilink") / 原案・監修：[ドワンゴ](../Page/ドワンゴ.md "wikilink")・[魚住ユキコ](https://ja.wikipedia.org/wiki/魚住ユキコ "wikilink") / キャラクターデザイン：[かる](https://ja.wikipedia.org/wiki/かる "wikilink")）
   - 百千さん家のあやかし王子（[硝音あや](../Page/硝音あや.md "wikilink")）
-  - [ももへの手紙](https://ja.wikipedia.org/wiki/ももへの手紙 "wikilink")（作画：[北見明子](https://ja.wikipedia.org/wiki/北見明子 "wikilink") /原案：[沖浦啓之](https://ja.wikipedia.org/wiki/沖浦啓之 "wikilink")）
+  - [ももへの手紙](https://ja.wikipedia.org/wiki/ももへの手紙 "wikilink")（作画：[北見明子](https://ja.wikipedia.org/wiki/北見明子 "wikilink") /原案：[沖浦啓之](../Page/沖浦啓之.md "wikilink")）
 
 ### や行
 
@@ -156,7 +156,7 @@
 ## コミックNewtypeへ移籍した作品
 
   - [ZONE-00](../Page/ZONE-00.md "wikilink")（[九条キヨ](../Page/九条キヨ.md "wikilink")）
-  - [トリニティ・ブラッド](https://ja.wikipedia.org/wiki/トリニティ・ブラッド "wikilink")（作画：[九条キヨ](../Page/九条キヨ.md "wikilink") / 原作：[吉田直](https://ja.wikipedia.org/wiki/吉田直 "wikilink")）
+  - [トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")（作画：[九条キヨ](../Page/九条キヨ.md "wikilink") / 原作：[吉田直](../Page/吉田直.md "wikilink")）
   - [花、むすぶ君へ](https://ja.wikipedia.org/wiki/花、むすぶ君へ "wikilink")（[青井みと](https://ja.wikipedia.org/wiki/青井みと "wikilink")）\[6\]
   - [真夜中のオカルト公務員](https://ja.wikipedia.org/wiki/真夜中のオカルト公務員 "wikilink")（[たもつ葉子](https://ja.wikipedia.org/wiki/たもつ葉子 "wikilink")）
   - [桃組プラス戦記](../Page/桃組プラス戦記.md "wikilink")（[左近堂絵里](../Page/左近堂絵里.md "wikilink")）
@@ -192,7 +192,7 @@
 
 <!-- end list -->
 
-  - [角川ビーンズ文庫](https://ja.wikipedia.org/wiki/角川ビーンズ文庫 "wikilink")
+  - [角川ビーンズ文庫](../Page/角川ビーンズ文庫.md "wikilink")
 
 <!-- end list -->
 

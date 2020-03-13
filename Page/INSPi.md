@@ -55,7 +55,7 @@
 
   - **塚田 陽**（つかた あきら、 - ）
       - ベースボーカル担当。[2006年](../Page/2006年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")付けで脱退。
-      - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")[片山津温泉](https://ja.wikipedia.org/wiki/片山津温泉 "wikilink")出身。
+      - [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")[加賀市](https://ja.wikipedia.org/wiki/加賀市 "wikilink")[片山津温泉](../Page/片山津温泉.md "wikilink")出身。
       - 血液型はAB型。
       - 愛称はツカちゃん、クール・バット・ホット。
 
@@ -79,27 +79,27 @@
 
 [2003年](../Page/2003年.md "wikilink")5月、[長渕剛](../Page/長渕剛.md "wikilink")のシングル「[しあわせになろうよ](../Page/しあわせになろうよ.md "wikilink")」にコーラスとして参加。この際にバックコーラスとして[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の音楽番組『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』に出演した。7月、長渕とINSPiリーダー杉田による共作「翼〜つばさ〜」を発売。
 
-長渕以外にもさまざまなミュージシャンと親交があり、[THE BOOMのカバー](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")「風になりたい」を3rdシングルとしてリリースしたつながりで宮沢とも交流がある。
+長渕以外にもさまざまなミュージシャンと親交があり、[THE BOOMのカバー](../Page/THE_BOOM.md "wikilink")「風になりたい」を3rdシングルとしてリリースしたつながりで宮沢とも交流がある。
 
-[2002年](../Page/2002年.md "wikilink")6月から行っている「INSPi Cafe」と題したライブでは毎回ゲストを呼ぶスタイルが基本だったため、[TRICERATOPS](https://ja.wikipedia.org/wiki/TRICERATOPS "wikilink")の和田、0930（オクサマ）、中西圭三など複数のミュージシャンと親交がある。
+[2002年](../Page/2002年.md "wikilink")6月から行っている「INSPi Cafe」と題したライブでは毎回ゲストを呼ぶスタイルが基本だったため、[TRICERATOPS](../Page/TRICERATOPS.md "wikilink")の和田、0930（オクサマ）、中西圭三など複数のミュージシャンと親交がある。
 
 [2004年](../Page/2004年.md "wikilink")からインディーズに拠点を置く。「この星の子守唄」をリリースしたインディーズレーベル、[pure musicは所属事務所の系列である](https://ja.wikipedia.org/wiki/pure_music "wikilink")。インディーズに活動拠点を移してからも、ライブやカバーアルバムリリースなど精力的に活動を続ける。ミニアルバム『インスピ浪漫』およびライブショー「INSPi浪漫2004秋」では、懐かしさと和をテーマを掲げた。
 
 2004年10月から、[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")系『[コスモアースコンシャスアクト ずっと地球で暮らそう。](https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。 "wikilink")』のサウンドステッカーを担当。[番組ホームページ](http://www.tfm.co.jp/earth/program/)で聴く事が出来る。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月から、[日立製作所](../Page/日立製作所.md "wikilink")を中心に構成した[日立グループ](https://ja.wikipedia.org/wiki/日立グループ "wikilink")のシンボルCM「[日立の樹](../Page/日立の樹.md "wikilink")」の9代目のBGMで「この木なんの木」の彼らによるアカペラアレンジバージョンが使われている。同月、初の海外ツアーとして、[インドネシア](../Page/インドネシア.md "wikilink")のジャカルタ・マカッサル・ジョグジャカルタでライブなどを行う。現地は前年末の[スマトラ島沖地震](../Page/スマトラ島沖地震.md "wikilink")の爪あとが大きく残っており開催が危ぶまれたが、現地の人々を少しでも励ますことができればというメンバーの意向と現地スタッフの協力もあって実現した。その際にメンバーが受けた感動や衝撃は、5月にLIVEショー「INSPi浪漫2」として、ステージで表現された。
+[2005年](../Page/2005年.md "wikilink")2月から、[日立製作所](../Page/日立製作所.md "wikilink")を中心に構成した[日立グループ](../Page/日立グループ.md "wikilink")のシンボルCM「[日立の樹](../Page/日立の樹.md "wikilink")」の9代目のBGMで「この木なんの木」の彼らによるアカペラアレンジバージョンが使われている。同月、初の海外ツアーとして、[インドネシア](../Page/インドネシア.md "wikilink")のジャカルタ・マカッサル・ジョグジャカルタでライブなどを行う。現地は前年末の[スマトラ島沖地震](../Page/スマトラ島沖地震.md "wikilink")の爪あとが大きく残っており開催が危ぶまれたが、現地の人々を少しでも励ますことができればというメンバーの意向と現地スタッフの協力もあって実現した。その際にメンバーが受けた感動や衝撃は、5月にLIVEショー「INSPi浪漫2」として、ステージで表現された。
 
-[8月10日](../Page/8月10日.md "wikilink")、pure music presents「鷹男」イベントが初開催される。所属事務所である[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")のミュージシャン、お笑い芸人が総出演した。参加ミュージシャンはINSPi、[ズボンドズボン](https://ja.wikipedia.org/wiki/ズボンドズボン "wikilink")、[より子](https://ja.wikipedia.org/wiki/より子 "wikilink")、[ビアンコネロ](../Page/ビアンコネロ.md "wikilink")、[甲斐名都](https://ja.wikipedia.org/wiki/甲斐名都 "wikilink")。INSPiはトリを勤めた。RAG FAIRはレコード会社が[TOY'S FACTORYとなるため参加していない](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")（ただし、ズボンドズボンの土屋礼央はRAG FAIRのメンバーでもある）。
+[8月10日](../Page/8月10日.md "wikilink")、pure music presents「鷹男」イベントが初開催される。所属事務所である[ワタナベエンターテインメント](../Page/ワタナベエンターテインメント.md "wikilink")のミュージシャン、お笑い芸人が総出演した。参加ミュージシャンはINSPi、[ズボンドズボン](../Page/ズボンドズボン.md "wikilink")、[より子](../Page/より子.md "wikilink")、[ビアンコネロ](../Page/ビアンコネロ.md "wikilink")、[甲斐名都](https://ja.wikipedia.org/wiki/甲斐名都 "wikilink")。INSPiはトリを勤めた。RAG FAIRはレコード会社が[TOY'S FACTORYとなるため参加していない](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")（ただし、ズボンドズボンの土屋礼央はRAG FAIRのメンバーでもある）。
 
 [2006年](../Page/2006年.md "wikilink")6月より、全国ストリートライブの旅と称して、メンバー自らがワゴン車を運転して全国をまわる。さすがに北海道は飛行機だったが、福岡まではワゴン車で到達した。ストリートライブをしながら、11月の渋谷公会堂ライブのチケットを手売りする。
 
-11月1日[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")より移籍第一弾シングル「粉雪／雨音にきみを想う」（両A面シングル）をリリース。「雨音にきみを想う」は同タイトルの台湾映画（主演[ディラン・クォ](https://ja.wikipedia.org/wiki/ディラン・クォ "wikilink")）のイメージソング。[11月5日](../Page/11月5日.md "wikilink")には初の[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")ワンマンライブを行った。
+11月1日[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")より移籍第一弾シングル「粉雪／雨音にきみを想う」（両A面シングル）をリリース。「雨音にきみを想う」は同タイトルの台湾映画（主演[ディラン・クォ](https://ja.wikipedia.org/wiki/ディラン・クォ "wikilink")）のイメージソング。[11月5日](../Page/11月5日.md "wikilink")には初の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")ワンマンライブを行った。
 
 2006年[12月22日](../Page/12月22日.md "wikilink")および[24日の](../Page/12月24日.md "wikilink")2日間、RAG FAIRと共にディナーショー開催をもってベースボーカルの塚田陽が脱退。塚田はINSPiの創設メンバーの一人であったが、結婚を機に「自分自身の人生を見つめなおし、音楽活動に終止符を打つ」事となった後、2007年3月に行われたツアーでは暫定的にヘルプとしてRAG FAIRのベースボーカル・加納孝政が参加した。
 
 [2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")、オーディションにより選ばれた新ベースボーカル・吉田圭介が加入。2007年[4月14日](../Page/4月14日.md "wikilink")のFCイベント旅行のライブにて初披露された。
 
-2007年[11月14日](../Page/11月14日.md "wikilink")、アルバム『この歌だれの歌氣になる歌』リリース。ジャケットはスピリチュアルカウンセラー[江原啓之](https://ja.wikipedia.org/wiki/江原啓之 "wikilink")が書いた。
+2007年[11月14日](../Page/11月14日.md "wikilink")、アルバム『この歌だれの歌氣になる歌』リリース。ジャケットはスピリチュアルカウンセラー[江原啓之](../Page/江原啓之.md "wikilink")が書いた。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")5月より、ファンクラブ限定ネットラジオ「オフスピラジオ」開始。
 
@@ -158,8 +158,8 @@
 3.  風になりたい VENTO DE AMOR（2002年5月22日）オリコン32位
     1.  風になりたい VENTO DE AMOR\[4:00\]
           -
-            作詞・作曲：[宮沢和史](https://ja.wikipedia.org/wiki/宮沢和史 "wikilink")／編曲：中村哲・INSPi
-            [THE BOOM](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")「[風になりたい](../Page/風になりたい_\(THE_BOOMの曲\).md "wikilink")」のカバー曲
+            作詞・作曲：[宮沢和史](../Page/宮沢和史.md "wikilink")／編曲：中村哲・INSPi
+            [THE BOOM](../Page/THE_BOOM.md "wikilink")「[風になりたい](../Page/風になりたい_\(THE_BOOMの曲\).md "wikilink")」のカバー曲
             NHK教育テレビ「川」テーマ・ソング
     2.  I do (オリジナルヴァージョン)\[4:21\]
           -
@@ -264,7 +264,7 @@
     2.  [青春の影](../Page/青春の影_\(チューリップの曲\).md "wikilink")\[3:15\]
     3.  [想い出がいっぱい](../Page/想い出がいっぱい.md "wikilink")\[3:47\]
     4.  [My Revolution](../Page/My_Revolution.md "wikilink")\[4:13\]
-    5.  [未来予想図II](https://ja.wikipedia.org/wiki/未来予想図II "wikilink")\[5:27\]
+    5.  [未来予想図II](../Page/未来予想図II.md "wikilink")\[5:27\]
 7.  この歌だれの歌氣になる歌（2007年11月13日）オリコン133位
     1.  粉雪\[4:53\]
     2.  素直記念日\[4:43\]

@@ -1,7 +1,7 @@
 > この記事は[SBS \(\)](https://ja.wikipedia.org/wiki/SBS_\(\))から翻訳されています。
 
 
-**株式会社SBS**（エスビーエス）は、[韓国の](../Page/大韓民国.md "wikilink")[ソウル首都圏を放送エリアとする](https://ja.wikipedia.org/wiki/首都圏_\(韓国\) "wikilink")[テレビ](../Page/テレビ.md "wikilink")・[ラジオ](../Page/ラジオ.md "wikilink")[兼営の](https://ja.wikipedia.org/wiki/ラテ兼営 "wikilink")[放送局](../Page/放送局.md "wikilink")である。純粋な[民間放送](../Page/民間放送.md "wikilink")局「**ソウル放送**」として[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に設立、2000年に現社名に変更した。本社を[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[陽川区](../Page/陽川区.md "wikilink")に置く。
+**株式会社SBS**（エスビーエス）は、[韓国の](../Page/大韓民国.md "wikilink")[ソウル首都圏を放送エリアとする](https://ja.wikipedia.org/wiki/首都圏_\(韓国\) "wikilink")[テレビ](../Page/テレビ.md "wikilink")・[ラジオ](../Page/ラジオ.md "wikilink")[兼営の](../Page/ラテ兼営.md "wikilink")[放送局](../Page/放送局.md "wikilink")である。純粋な[民間放送](../Page/民間放送.md "wikilink")局「**ソウル放送**」として[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に設立、2000年に現社名に変更した。本社を[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[陽川区](../Page/陽川区.md "wikilink")に置く。
 
 ソウル特別市、[仁川広域市](../Page/仁川広域市.md "wikilink")、[京畿道](../Page/京畿道.md "wikilink")を放送エリアとするが、その後開局した他地区の地域民放局と協定を結んだ。
 
@@ -15,13 +15,13 @@
 
 [株式](../Page/株式.md "wikilink")を[韓国証券取引所](https://ja.wikipedia.org/wiki/韓国証券取引所 "wikilink")（現：韓国取引所株式市場部）に上場している（証券コード:034120）。[筆頭株主](https://ja.wikipedia.org/wiki/筆頭株主 "wikilink")は建設会社の泰栄（テヨン, ）。泰栄はSBSの設立発起人的立場にあり、ユン・セヨン() が両社の会長を務めるなど、資本・人事上の関係が深い。
 
-プロ[バスケットボール](../Page/バスケットボール.md "wikilink")チーム、安養SBSスターズを保有し、[韓国バスケットボールリーグ](https://ja.wikipedia.org/wiki/韓国バスケットボールリーグ "wikilink") (KBL) に創設時から参加させてきたが、元[国営の](https://ja.wikipedia.org/wiki/国営企業 "wikilink")[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")会社 [KT\&G](https://ja.wikipedia.org/wiki/KT&G "wikilink")に譲渡、[安養KT\&Gカイツ](https://ja.wikipedia.org/wiki/安養KT&Gカイツ "wikilink")となった。また[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[PGAツアー](../Page/PGAツアー.md "wikilink")、[LPGAツアー](https://ja.wikipedia.org/wiki/LPGAツアー "wikilink")ともかかわりが深く、2005-2009年には女子の[SBSオープン](https://ja.wikipedia.org/wiki/SBSオープン "wikilink")、2011年と2017年には男子の[SBSトーナメント・オブ・チャンピオンズ大会の協賛スポンサーにも就任している](../Page/ヒュンダイ・トーナメント・オブ・チャンピオンズ.md "wikilink")。
+プロ[バスケットボール](../Page/バスケットボール.md "wikilink")チーム、安養SBSスターズを保有し、[韓国バスケットボールリーグ](../Page/韓国バスケットボールリーグ.md "wikilink") (KBL) に創設時から参加させてきたが、元[国営の](https://ja.wikipedia.org/wiki/国営企業 "wikilink")[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")会社 [KT\&G](../Page/KT&G.md "wikilink")に譲渡、[安養KT\&Gカイツ](https://ja.wikipedia.org/wiki/安養KT&Gカイツ "wikilink")となった。また[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[PGAツアー](../Page/PGAツアー.md "wikilink")、[LPGAツアー](https://ja.wikipedia.org/wiki/LPGAツアー "wikilink")ともかかわりが深く、2005-2009年には女子の[SBSオープン](https://ja.wikipedia.org/wiki/SBSオープン "wikilink")、2011年と2017年には男子の[SBSトーナメント・オブ・チャンピオンズ大会の協賛スポンサーにも就任している](../Page/ヒュンダイ・トーナメント・オブ・チャンピオンズ.md "wikilink")。
 
-ケーブルテレビや衛星デジタル放送（Skylife）を通じて、SBSドラマ、SBS ESPN(※アメリカ[ESPN](../Page/ESPN.md "wikilink")と提携、旧SBSスポーツ)、SBSゴルフ、SBS CNBCの各チャンネルを放送している。そのうちSBS ESPNでは、SBSスポーツ時代の2006年から2010年まで、[日本プロ野球](../Page/日本プロ野球.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")のホーム試合の生中継を[日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")からの映像提供を受ける形で行なっていた。これは[イ・スンヨプのジャイアンツ入団によるもので](../Page/李承ヨプ_\(野球\).md "wikilink")、試合終了まで音声はSBS側で付ける「[カラ出張](https://ja.wikipedia.org/wiki/カラ出張 "wikilink")」形式を取っていた。[2011年](../Page/2011年.md "wikilink")からはイ・スンヨプと[パク・チャンホが加入した](https://ja.wikipedia.org/wiki/朴賛浩 "wikilink")[オリックス・バファローズ](https://ja.wikipedia.org/wiki/オリックス・バファローズ "wikilink")の主催ゲームの放映権を獲得している。
+ケーブルテレビや衛星デジタル放送（Skylife）を通じて、SBSドラマ、SBS ESPN(※アメリカ[ESPN](../Page/ESPN.md "wikilink")と提携、旧SBSスポーツ)、SBSゴルフ、SBS CNBCの各チャンネルを放送している。そのうちSBS ESPNでは、SBSスポーツ時代の2006年から2010年まで、[日本プロ野球](../Page/日本プロ野球.md "wikilink")・[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")のホーム試合の生中継を[日テレG+](https://ja.wikipedia.org/wiki/日テレG+ "wikilink")からの映像提供を受ける形で行なっていた。これは[イ・スンヨプのジャイアンツ入団によるもので](../Page/李承ヨプ_\(野球\).md "wikilink")、試合終了まで音声はSBS側で付ける「[カラ出張](https://ja.wikipedia.org/wiki/カラ出張 "wikilink")」形式を取っていた。[2011年](../Page/2011年.md "wikilink")からはイ・スンヨプと[パク・チャンホが加入した](../Page/朴賛浩.md "wikilink")[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")の主催ゲームの放映権を獲得している。
 
 ### 日本との関係
 
-日本の放送局とは[日本テレビ](../Page/日本テレビ放送網.md "wikilink") (NTV) と開局以来提携関係にあり、テレビ開局当日には「[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")」の[桜井よしこ](https://ja.wikipedia.org/wiki/桜井よしこ "wikilink")キャスターがSBSのニューススタジオから放送を行った。日本テレビや系列の[福岡放送](../Page/福岡放送.md "wikilink") (FBS) などから[特派員](https://ja.wikipedia.org/wiki/特派員 "wikilink")を受け入れている。また[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[NBC](https://ja.wikipedia.org/wiki/NBC "wikilink")や[ロシアの](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")[RTR](../Page/ロシア1.md "wikilink")、[中国の](../Page/中華人民共和国.md "wikilink")[北京電視台](../Page/北京電視台.md "wikilink")などとも友好関係にある。なお、SBS東京支局は[汐留](../Page/汐留.md "wikilink")の日テレタワー内にあり、東京発のニュースでは[新橋駅](https://ja.wikipedia.org/wiki/新橋駅 "wikilink")付近を走る[東海道新幹線などを背景に特派員がリポートを伝えている](../Page/新幹線.md "wikilink")。
+日本の放送局とは[日本テレビ](../Page/日本テレビ放送網.md "wikilink") (NTV) と開局以来提携関係にあり、テレビ開局当日には「[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")」の[桜井よしこ](https://ja.wikipedia.org/wiki/桜井よしこ "wikilink")キャスターがSBSのニューススタジオから放送を行った。日本テレビや系列の[福岡放送](../Page/福岡放送.md "wikilink") (FBS) などから[特派員](https://ja.wikipedia.org/wiki/特派員 "wikilink")を受け入れている。また[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[NBC](../Page/NBC.md "wikilink")や[ロシアの](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")[RTR](../Page/ロシア1.md "wikilink")、[中国の](../Page/中華人民共和国.md "wikilink")[北京電視台](../Page/北京電視台.md "wikilink")などとも友好関係にある。なお、SBS東京支局は[汐留](../Page/汐留.md "wikilink")の日テレタワー内にあり、東京発のニュースでは[新橋駅](https://ja.wikipedia.org/wiki/新橋駅 "wikilink")付近を走る[東海道新幹線などを背景に特派員がリポートを伝えている](../Page/新幹線.md "wikilink")。
 
 2004年11月からは「[モバHO\!](../Page/モバHO!.md "wikilink")」へ、ドラマ・バラエティ・ラジオ番組の供給を開始したがその後、停波したことに伴ってサービスを終了した。
 
@@ -43,7 +43,7 @@
 ## 歴史
 
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")11月14日 - 「株式会社ソウル放送 （）」設立
-  - [1991年](../Page/1991年.md "wikilink")3月20日 - KBSラジオソウル（旧：[東亜放送](https://ja.wikipedia.org/wiki/東亜放送 "wikilink")）を移管する形でAMラジオ局を開局　792[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：HLSQ
+  - [1991年](../Page/1991年.md "wikilink")3月20日 - KBSラジオソウル（旧：[東亜放送](../Page/東亜放送.md "wikilink")）を移管する形でAMラジオ局を開局　792[kHz](https://ja.wikipedia.org/wiki/キロヘルツ "wikilink")、[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")：HLSQ
   - 1991年12月9日 - [テレビ](../Page/テレビ.md "wikilink")開局、[呼出符号](https://ja.wikipedia.org/wiki/識別信号 "wikilink")（コールサイン）：HLSQ-TV
   - [1993年](../Page/1993年.md "wikilink")7月1日 - AMラジオ、[ステレオ放送](../Page/ステレオ放送.md "wikilink")開始
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")5月14日 - この日の4社開局を皮切りにネットワーク開始
@@ -51,20 +51,20 @@
   - [1996年](../Page/1996年.md "wikilink")11月14日 - SBS POWER FM開局 107.7[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")、呼出符号：HLSQ-FM
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")1月28日 - 安養SBSスターズ創立
   - [1999年](../Page/1999年.md "wikilink")1月1日 - SBS LOVE FM（[標準FM放送](https://ja.wikipedia.org/wiki/標準FM放送 "wikilink")＝AMと同一内容）開局 103.5 MHz、呼出符号：HLSQ-SFM
-  - 1999年5月12日 - [コスダック](https://ja.wikipedia.org/wiki/コスダック "wikilink")（韓国店頭市場）に登録、[言論統廃合](https://ja.wikipedia.org/wiki/言論統廃合 "wikilink")以来初のマスコミの上場
+  - 1999年5月12日 - [コスダック](https://ja.wikipedia.org/wiki/コスダック "wikilink")（韓国店頭市場）に登録、[言論統廃合](../Page/言論統廃合.md "wikilink")以来初のマスコミの上場
   - [2000年](../Page/2000年.md "wikilink")3月17日 - 「株式会社SBS」に社名変更
-  - 2000年10月19日 - [平壌](../Page/平壌.md "wikilink")からニュースの[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")を実施
+  - 2000年10月19日 - [平壌](../Page/平壌.md "wikilink")からニュースの[生放送](../Page/生放送.md "wikilink")を実施
   - [2001年](../Page/2001年.md "wikilink")10月26日 - [地上デジタルテレビジョン放送](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")本放送開始（韓国初、[リモコンキーID](../Page/リモコンキーID.md "wikilink")は全国の民放局含め11で統一。）
   - [2002年](../Page/2002年.md "wikilink")5月30日 - [済州国際自由都市放送](https://ja.wikipedia.org/wiki/済州国際自由都市放送 "wikilink")の開局を以って民間放送全国ネットワーク完成
   - [2003年](../Page/2003年.md "wikilink")6月25日 - 韓国証券取引所に上場
-  - 2003年10月7日 - [鄭周永](https://ja.wikipedia.org/wiki/鄭周永 "wikilink")体育館開館記念、統一バスケットボール試合を平壌から生中継（韓国のテレビ中継車が初めて平壌入り）
-  - [2004年](../Page/2004年.md "wikilink")3月1日 - 開局以来[汝矣島](https://ja.wikipedia.org/wiki/汝矣島 "wikilink")に構えていた本社を木洞へ移転
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")2月25日-27日 - 米[LPGAツアー](../Page/全米女子プロゴルフ協会.md "wikilink")、SBSオープンを[オアフ島](../Page/オアフ島.md "wikilink")で主催
+  - 2003年10月7日 - [鄭周永](../Page/鄭周永.md "wikilink")体育館開館記念、統一バスケットボール試合を平壌から生中継（韓国のテレビ中継車が初めて平壌入り）
+  - [2004年](../Page/2004年.md "wikilink")3月1日 - 開局以来[汝矣島](../Page/汝矣島.md "wikilink")に構えていた本社を木洞へ移転
+  - [2005年](../Page/2005年.md "wikilink")2月25日-27日 - 米[LPGAツアー](../Page/全米女子プロゴルフ協会.md "wikilink")、SBSオープンを[オアフ島](../Page/オアフ島.md "wikilink")で主催
   - 2005年3月28日 - 地上波デジタルマルチメディア放送 (地上波[DMB](../Page/DMB.md "wikilink")) 事業者として放送委員会から選定（申請10社から6社選定）
   - 2005年6月10日 - 日本語サイト開設（提携先の日本テレビも韓国向けサイトを開設）
-  - 2005年7月29日 - [KT\&G](https://ja.wikipedia.org/wiki/KT&G "wikilink")に安養SBSスターズの経営権を譲渡することで同意
+  - 2005年7月29日 - [KT\&G](../Page/KT&G.md "wikilink")に安養SBSスターズの経営権を譲渡することで同意
   - 2005年12月1日 - 平日昼（12時-16時）のテレビ放送開始。地上波DMB「SBSu」開局
-  - 2006年8月2日 - [IOCと](https://ja.wikipedia.org/wiki/国際オリンピック委員会 "wikilink")[2010年から](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")[2016年までの](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック "wikilink")[オリンピック](../Page/近代オリンピック.md "wikilink")[放映権](https://ja.wikipedia.org/wiki/放映権 "wikilink")を単独で獲得する契約に調印。契約総額、7,250万ドル。朝鮮半島全域の放映権となっており、北朝鮮への映像提供権も含まれる。[2008年までは日本](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")（[ジャパンコンソーシアム](https://ja.wikipedia.org/wiki/ジャパンコンソーシアム "wikilink")）同様、3大放送局が合同で契約するプール制を取る。
+  - 2006年8月2日 - [IOCと](../Page/国際オリンピック委員会.md "wikilink")[2010年から](https://ja.wikipedia.org/wiki/バンクーバーオリンピック "wikilink")[2016年までの](https://ja.wikipedia.org/wiki/リオデジャネイロオリンピック "wikilink")[オリンピック](../Page/近代オリンピック.md "wikilink")[放映権](../Page/放映権.md "wikilink")を単独で獲得する契約に調印。契約総額、7,250万ドル。朝鮮半島全域の放映権となっており、北朝鮮への映像提供権も含まれる。[2008年までは日本](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")（[ジャパンコンソーシアム](../Page/ジャパンコンソーシアム.md "wikilink")）同様、3大放送局が合同で契約するプール制を取る。
   - 2012年12月31日 - 韓国時間午前4時（日本時間でも午前4時）をもってアナログテレビジョン放送を停波。但しSBSはテレビの24時間放送をしていないため、前日分の放送終了を以って実質的に終わっていた。
 
 ## シンボルマーク
@@ -367,9 +367,9 @@
   - [ウィッチ -W.I.T.C.H.-](../Page/ウィッチ_-W.I.T.C.H.-.md "wikilink")（韓国名:, 2005.10-2006.3）
   - [海賊マテオ](https://ja.wikipedia.org/wiki/海賊マテオ "wikilink")（韓国名:, 2005.11）
   - [バンパキングジャパー](https://ja.wikipedia.org/wiki/バンパキングジャパー "wikilink")（韓国名:, English:Bumperking Zapper, 2004）
-  - [トムとジェリー](https://ja.wikipedia.org/wiki/トムとジェリー "wikilink")（韓国名:, English:Tom and Jerry, 2005）
+  - [トムとジェリー](../Page/トムとジェリー.md "wikilink")（韓国名:, English:Tom and Jerry, 2005）
   - [パワーパフガールズ](../Page/パワーパフガールズ.md "wikilink")（韓国名:, English:The Powerpuff Girls, 2002）
-  - [ティーン・タイタンズ](https://ja.wikipedia.org/wiki/ティーン・タイタンズ_\(アニメ\) "wikilink")（韓国名:, English:Teen Titans, 2005）
+  - [ティーン・タイタンズ](../Page/ティーン・タイタンズ_\(アニメ\).md "wikilink")（韓国名:, English:Teen Titans, 2005）
   - [パタパタ飛行船の冒険](../Page/パタパタ飛行船の冒険.md "wikilink")（韓国名:, 2005）
   - [トップブレイド](../Page/爆転シュート_ベイブレード_\(アニメ\).md "wikilink")（韓国名:, English:Beyblade, 2001-2002）
   - [トップブレイドV](../Page/爆転シュート_ベイブレード_\(アニメ\).md "wikilink")（韓国名:, English:Beyblade2, 2002-2003）
@@ -377,23 +377,23 @@
   - [ポトリス](../Page/ポトリス.md "wikilink")（韓国名:, English:Portress, 2004-2005）
   - [ユニミニペッ](https://ja.wikipedia.org/wiki/ユニミニペッ "wikilink")（韓国名:, English:Uniminipet, 2001-2003）
   - [ポケットモンスター](../Page/ポケットモンスター_\(1997-2002年のアニメ\).md "wikilink")（韓国名:, English:Pocket Monsters, 1999-2003）
-  - [ポケットモンスターAG](https://ja.wikipedia.org/wiki/ポケットモンスター_アドバンスジェネレーション "wikilink")（韓国名:, English:Pocket Monsters: Advanced Generation, 2003-2005）
+  - [ポケットモンスターAG](../Page/ポケットモンスター_アドバンスジェネレーション.md "wikilink")（韓国名:, English:Pocket Monsters: Advanced Generation, 2003-2005）
   - [ポケットモンスターDP](../Page/ポケットモンスター_ダイヤモンド&パール.md "wikilink")（韓国名:, English:Pocket Monsters: Diamond & Pearl, 2007.9-）
   - [東京ミュウミュウ](../Page/東京ミュウミュウ.md "wikilink")（韓国名:, English:Mew Mew Power(Tokyo Mew Mew), 2004-2005）
   - [アクアキッズ](../Page/アクアキッズ.md "wikilink")（韓国名:, English:Aqua Kids, 2004-2005, 現在[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")から放送中）
   - [竜の伝説レジェンド](../Page/レジェンズ.md "wikilink")（韓国名:, English:Legend Z, 2004.11-2005.9）
-  - [遊☆戯☆王](https://ja.wikipedia.org/wiki/遊☆戯☆王 "wikilink")（韓国名:, English:Yugioh, 2003.12-2005.6）
+  - [遊☆戯☆王](../Page/遊☆戯☆王.md "wikilink")（韓国名:, English:Yugioh, 2003.12-2005.6）
   - [魔法神話ラグナロク](https://ja.wikipedia.org/wiki/魔法神話ラグナロク "wikilink")（韓国名:（ラグナロク）, English:Ragnarok The Animation, 2005.1-2006.2）
   - [白い心ペック](https://ja.wikipedia.org/wiki/白い心ペック "wikilink")（韓国名:, 2000）
-  - [銀河英雄サイバトロン](https://ja.wikipedia.org/wiki/超ロボット生命体トランスフォーマー_マイクロン伝説 "wikilink")（韓国名:, English:Transformers, 2004.12-2005.5）
+  - [銀河英雄サイバトロン](../Page/超ロボット生命体トランスフォーマー_マイクロン伝説.md "wikilink")（韓国名:, English:Transformers, 2004.12-2005.5）
   - [とっとこハム太郎](../Page/とっとこハム太郎_\(アニメ\).md "wikilink")（韓国名:, English:Hamtato (Banga Banga Hamtori), 2002-2003）
   - [カードキャプターさくら](../Page/カードキャプターさくら.md "wikilink")（韓国名:, English:Cardcaptors (Cardcaptor Cherry), 1999-2000）
   - [あるっそんたるっそん びくた](https://ja.wikipedia.org/wiki/あるっそんたるっそん_びくた "wikilink")（韓国名:, English:Victor, 2004-2005）
-  - [アニマル横町](https://ja.wikipedia.org/wiki/アニマル横町 "wikilink")（韓国名:, English:Animal Yokocho, 2005.12-2006.9, 現在[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と共同放送中。と言っても韓国製アニメとして放送）
+  - [アニマル横町](../Page/アニマル横町.md "wikilink")（韓国名:, English:Animal Yokocho, 2005.12-2006.9, 現在[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と共同放送中。と言っても韓国製アニメとして放送）
   - [クリスタル妖精 ジースクアド](https://ja.wikipedia.org/wiki/クリスタル妖精_ジースクアド "wikilink")（韓国名:, English:Z-Sqard (Crystral Fairy Z-Sqard), 2006.11-2007.9）
   - [亀特攻隊Z（タートルズ）](../Page/ティーンエイジ・ミュータント・ニンジャ・タートルズ.md "wikilink")（韓国名:, English:Ninja Turtles Z, 2006.9.21-2007.5.31）
-  - [マシュマロ通信](https://ja.wikipedia.org/wiki/マシュマロ通信 "wikilink")（韓国名:, English:The Raspberry Times, 2006.11-2007.9）
-  - [おねがいマイメロディ](https://ja.wikipedia.org/wiki/おねがいマイメロディ "wikilink")（韓国名:, English:My Melody, 2007.2-9）
+  - [マシュマロ通信](../Page/マシュマロ通信.md "wikilink")（韓国名:, English:The Raspberry Times, 2006.11-2007.9）
+  - [おねがいマイメロディ](../Page/おねがいマイメロディ.md "wikilink")（韓国名:, English:My Melody, 2007.2-9）
   - [ウイングスフレンズ](https://ja.wikipedia.org/wiki/Winx_Club "wikilink")（韓国名:, English:Wings Friends, 2007.6-）
   - [スーパーコリアン](https://ja.wikipedia.org/wiki/スーパーコリアン "wikilink")（韓国名:, English:Super Korean, 2007.6-10, 韓国人物の歴史アニメ）
   - [ジャングル王 サロ](https://ja.wikipedia.org/wiki/ジャングル王_サロ "wikilink")（韓国名:, English:Jungle King Saro, 2007.9-, [ジャングルブック](https://ja.wikipedia.org/wiki/ジャングルブック "wikilink")の再構成アニメ）
@@ -414,7 +414,7 @@ SBSでは、過去にも放送事故や不祥事が起きている。
   - 2009年7月22日、バラエティー番組の『驚くべき大会スターキング』内で放送された「3分出勤法」が日本の番組の[盗作](../Page/盗作.md "wikilink")だったことを認め謝罪した\[2\]。
   - 2011年11月17日、ニュース番組の『SBSナイトライン』で、同局のチョン・ソングンアナウンサーが[朴元淳](https://ja.wikipedia.org/wiki/朴元淳 "wikilink")[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")長がインターネットを利用したオンライン就任式を行ったことに対して、「趣のある就任式を期待していた市民も明らかに少なくなかったのではないでしょうか。そのような点では市民の権利を奪ったので、これが進歩でないことを望みます。」と発言し顰蹙を買った。\[3\]
   - 2014年3月5日、集団お見合い番組の「[チャク](https://ja.wikipedia.org/wiki/チャク_\(韓国のテレビ番組\) "wikilink")」で番組収録中に出演していた29歳の女性が首つり自殺した。同番組は振られた出演者には外で食事を取らせるなどして、出演者を心身共に傷つけていると批判された。なお、この事件を受けて同番組は打ち切りとなった。
-  - [2017年](../Page/2017年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")、時事風刺番組において[盧武鉉](../Page/盧武鉉.md "wikilink")元大統領が[TIME](https://ja.wikipedia.org/wiki/TIME "wikilink")誌で表紙を飾った際の画像を放送したが、表紙の文字が[日刊ベストストア](https://ja.wikipedia.org/wiki/日刊ベストストア "wikilink")利用者の手により「Hello，Mr.Roh」から「Go to Hell，Mr.Roh」へ書き換えられたパロディ画像であった。SBSが日刊ベストストアの画像を使って生じた[放送事故](https://ja.wikipedia.org/wiki/放送事故 "wikilink")は10回目とされ、局側は遺族らに陳謝したうえで幹部社員を処分している\[4\]。
+  - [2017年](../Page/2017年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")、時事風刺番組において[盧武鉉](../Page/盧武鉉.md "wikilink")元大統領が[TIME](https://ja.wikipedia.org/wiki/TIME "wikilink")誌で表紙を飾った際の画像を放送したが、表紙の文字が[日刊ベストストア](https://ja.wikipedia.org/wiki/日刊ベストストア "wikilink")利用者の手により「Hello，Mr.Roh」から「Go to Hell，Mr.Roh」へ書き換えられたパロディ画像であった。SBSが日刊ベストストアの画像を使って生じた[放送事故](../Page/放送事故.md "wikilink")は10回目とされ、局側は遺族らに陳謝したうえで幹部社員を処分している\[4\]。
 
 ## 民放ネットワーク
 
@@ -439,7 +439,7 @@ SBS以外のネットワーク局は地上波テレビ放送とFMラジオ放送
   - [SBSオープン](https://ja.wikipedia.org/wiki/SBSオープン "wikilink")
   - [SBSトーナメント・オブ・チャンピオンズ](../Page/ヒュンダイ・トーナメント・オブ・チャンピオンズ.md "wikilink")
   - [辛文善](../Page/辛文善.md "wikilink")
-  - [韓国ドラマ](https://ja.wikipedia.org/wiki/韓国ドラマ "wikilink")
+  - [韓国ドラマ](../Page/韓国ドラマ.md "wikilink")
 
 ## 脚注
 
@@ -452,7 +452,7 @@ SBS以外のネットワーク局は地上波テレビ放送とFMラジオ放送
 
 [Category:SBS_(韓国)](https://ja.wikipedia.org/wiki/Category:SBS_\(韓国\) "wikilink") [Category:韓国のテレビ局](https://ja.wikipedia.org/wiki/Category:韓国のテレビ局 "wikilink") [Category:ソウル特別市の企業](https://ja.wikipedia.org/wiki/Category:ソウル特別市の企業 "wikilink") [Category:韓国取引所上場企業](https://ja.wikipedia.org/wiki/Category:韓国取引所上場企業 "wikilink")
 
-1.  [捏造・改変なんでもあり！　やっぱり変わらない韓国メディアの「反日無罪」](http://news.nifty.com/cs/magazine/detail/sapio-20090608-01/1.htm) 副題「キム・ヨナ発言、日の丸映像、日本製アニメ……どんどん変えちゃう」[西村幸祐](https://ja.wikipedia.org/wiki/西村幸祐 "wikilink")『[SAPIO](https://ja.wikipedia.org/wiki/SAPIO "wikilink")』2009年5月27日・6月3日号掲載、2009年6月8日(月)配信、同日閲覧
+1.  [捏造・改変なんでもあり！　やっぱり変わらない韓国メディアの「反日無罪」](http://news.nifty.com/cs/magazine/detail/sapio-20090608-01/1.htm) 副題「キム・ヨナ発言、日の丸映像、日本製アニメ……どんどん変えちゃう」[西村幸祐](../Page/西村幸祐.md "wikilink")『[SAPIO](../Page/SAPIO.md "wikilink")』2009年5月27日・6月3日号掲載、2009年6月8日(月)配信、同日閲覧
 2.  [SBS、日本の番組のパクリ認め正式謝罪](http://www.chosunonline.com/news/20090723000013)『朝鮮日報』2009年7月23日更新、同日閲覧　元ネタは3月にTBSが放送した『時短生活ガイドSHOW』の「5分出勤法」
 3.  [SBS앵커“서울시장 취임식, 시민권리 뺏어” “오늘의 유머…”](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201111171058051&code=940705)([京郷新聞](../Page/京郷新聞.md "wikilink")、2011年11月17日)
 4.  [ＳＢＳプラス、盧武鉉氏中傷のネット写真を放送で流し波紋](http://japanese.donga.com/Home/3/all/27/927997/1) 東亜日報（2017年5月19日）2017年5月19日閲覧

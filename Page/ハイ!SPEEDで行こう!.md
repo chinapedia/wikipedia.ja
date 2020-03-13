@@ -8,7 +8,7 @@
   - [1996年](../Page/1996年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")3月　[日曜日](../Page/日曜日.md "wikilink") 21:15 - 21:45頃
   - 1997年4月 - 1997年9月　日曜日 21:50 - 22:20頃
   - 1997年10月 - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")　日曜日 21:30 - 22:00
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")　[月曜日](../Page/月曜日.md "wikilink") - [木曜日](https://ja.wikipedia.org/wiki/木曜日 "wikilink") 22:30 - 22:40
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")　[月曜日](../Page/月曜日.md "wikilink") - [木曜日](../Page/木曜日.md "wikilink") 22:30 - 22:40
   - [1999年](../Page/1999年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - [2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")　[月曜日](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink") 21:50 - 22:00
 
 ## パーソナリティ
@@ -21,7 +21,7 @@
 
 ## 番組変遷
 
-番組開始当初は「[古田新太と犬山犬子のサンデーおちゃめナイト](https://ja.wikipedia.org/wiki/古田新太と犬山犬子のサンデーおちゃめナイト "wikilink")」内で日曜21:15〜21:45頃（のち、日曜21:50〜22:20頃へ）の放送であったが（ワイド番組の中で放送されたため、放送時間に若干のずれがあった。なお、1997年10月からの半年間はおちゃめナイトが終了したため、独立した番組で放送。）、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から「[ゲルゲットショッキングセンター](../Page/ゲルゲットショッキングセンター.md "wikilink")」の中で月曜〜木曜まで22:30頃から10分間の帯番組となった。[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に「ゲルゲット-」が終了した後は、同年4月からスタートしたニッポン放送の深夜帯レーベル[LF+R](https://ja.wikipedia.org/wiki/LF+R "wikilink")内の番組として[2000年](../Page/2000年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の番組終了まで月曜日から金曜21:50〜22:00に放送された。
+番組開始当初は「[古田新太と犬山犬子のサンデーおちゃめナイト](../Page/古田新太と犬山犬子のサンデーおちゃめナイト.md "wikilink")」内で日曜21:15〜21:45頃（のち、日曜21:50〜22:20頃へ）の放送であったが（ワイド番組の中で放送されたため、放送時間に若干のずれがあった。なお、1997年10月からの半年間はおちゃめナイトが終了したため、独立した番組で放送。）、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から「[ゲルゲットショッキングセンター](../Page/ゲルゲットショッキングセンター.md "wikilink")」の中で月曜〜木曜まで22:30頃から10分間の帯番組となった。[1999年](../Page/1999年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に「ゲルゲット-」が終了した後は、同年4月からスタートしたニッポン放送の深夜帯レーベル[LF+R](../Page/LF+R.md "wikilink")内の番組として[2000年](../Page/2000年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")の番組終了まで月曜日から金曜21:50〜22:00に放送された。
 
 [1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")以降は月〜木は1つのテーマに沿った企画が放送され、毎週金曜はメンバーが週代わりで1人で番組を担当するスタイル（フリートーク）となった。また、[番組](../Page/番組.md "wikilink")の内容をまとめた[本](../Page/本.md "wikilink")も発売されている。
 
@@ -39,7 +39,7 @@
 
 ## 関連項目
 
-  - [ニッポン放送番組一覧](https://ja.wikipedia.org/wiki/ニッポン放送番組一覧 "wikilink")
+  - [ニッポン放送番組一覧](../Page/ニッポン放送番組一覧.md "wikilink")
   - [hiro素顔でMelody Fair](https://ja.wikipedia.org/wiki/hiro素顔でMelody_Fair "wikilink")
 
 [Category:1996年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送のトーク番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のトーク番組 "wikilink") [Category:ニッポン放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のバラエティ番組 "wikilink") [Category:ニッポン放送の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の帯番組の歴史 "wikilink") [Category:SPEED](https://ja.wikipedia.org/wiki/Category:SPEED "wikilink")

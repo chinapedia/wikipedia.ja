@@ -1,7 +1,7 @@
 > この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
 
 
-**ティーンズTV**は、2000年4月10日から2008年3月まで[NHK教育テレビで放送されていた中学校](https://ja.wikipedia.org/wiki/NHK教育テレビジョン "wikilink")・高等学校向けの[教育番組](https://ja.wikipedia.org/wiki/教育番組 "wikilink")。
+**ティーンズTV**は、2000年4月10日から2008年3月まで[NHK教育テレビで放送されていた中学校](../Page/NHK教育テレビジョン.md "wikilink")・高等学校向けの[教育番組](../Page/教育番組.md "wikilink")。
 
 ## 番組一覧
 
@@ -106,9 +106,9 @@
 
 ## インターネット情報局
 
-インターネット情報局は[火曜日](../Page/火曜日.md "wikilink")14:00～14:20に[2000年](../Page/2000年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")まで放送されていたコーナー。司会は[山口五和](https://ja.wikipedia.org/wiki/山口五和 "wikilink")。
+インターネット情報局は[火曜日](../Page/火曜日.md "wikilink")14:00～14:20に[2000年](../Page/2000年.md "wikilink")[4月11日](../Page/4月11日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")まで放送されていたコーナー。司会は[山口五和](../Page/山口五和.md "wikilink")。
 
-[スタジオ](../Page/スタジオ.md "wikilink")の子供（[大滝貴也](https://ja.wikipedia.org/wiki/大滝貴也 "wikilink")、[多賀名将也](https://ja.wikipedia.org/wiki/多賀名将也 "wikilink")、[渋谷桃子](https://ja.wikipedia.org/wiki/渋谷桃子 "wikilink")、[稲坂亜里沙](https://ja.wikipedia.org/wiki/稲坂亜里沙 "wikilink")、[斉藤祥太](https://ja.wikipedia.org/wiki/斉藤祥太 "wikilink")、[斉藤慶太](https://ja.wikipedia.org/wiki/斉藤慶太 "wikilink")）が1年を通して[パソコンや](../Page/パーソナルコンピュータ.md "wikilink")[インターネット](../Page/インターネット.md "wikilink")の基礎を学ぶというもの。
+[スタジオ](../Page/スタジオ.md "wikilink")の子供（[大滝貴也](https://ja.wikipedia.org/wiki/大滝貴也 "wikilink")、[多賀名将也](https://ja.wikipedia.org/wiki/多賀名将也 "wikilink")、[渋谷桃子](https://ja.wikipedia.org/wiki/渋谷桃子 "wikilink")、[稲坂亜里沙](https://ja.wikipedia.org/wiki/稲坂亜里沙 "wikilink")、[斉藤祥太](../Page/斉藤祥太.md "wikilink")、[斉藤慶太](../Page/斉藤慶太.md "wikilink")）が1年を通して[パソコンや](../Page/パーソナルコンピュータ.md "wikilink")[インターネット](../Page/インターネット.md "wikilink")の基礎を学ぶというもの。
 
 ## これまでに取り上げたテーマ
 

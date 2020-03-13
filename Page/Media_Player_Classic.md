@@ -12,9 +12,9 @@
   - メディア
     [DVD-Video](../Page/DVD-Video.md "wikilink")・[音楽CD](../Page/CD-DA.md "wikilink")・[ビデオCD](../Page/ビデオCD.md "wikilink")など
   - コンテナ形式
-    [AVI](../Page/Audio_Video_Interleave.md "wikilink")・[MOV](../Page/QuickTime.md "wikilink")・[MP4](../Page/MP4.md "wikilink")・[MPEG-2システム](../Page/MPEG-2システム.md "wikilink")・[Ogg](https://ja.wikipedia.org/wiki/Ogg "wikilink")・[Ogg Media](../Page/Ogg_Media.md "wikilink")・[Matroska](../Page/Matroska.md "wikilink")・[Flash Videoなど](../Page/Flash_Video.md "wikilink")
+    [AVI](../Page/Audio_Video_Interleave.md "wikilink")・[MOV](../Page/QuickTime.md "wikilink")・[MP4](../Page/MP4.md "wikilink")・[MPEG-2システム](../Page/MPEG-2システム.md "wikilink")・[Ogg](../Page/Ogg.md "wikilink")・[Ogg Media](../Page/Ogg_Media.md "wikilink")・[Matroska](../Page/Matroska.md "wikilink")・[Flash Videoなど](../Page/Flash_Video.md "wikilink")
   - ビデオコーデック
-    [H.263](https://ja.wikipedia.org/wiki/H.263 "wikilink")（FLV1）・[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")・[MPEG-1](../Page/MPEG-1.md "wikilink")・[MPEG-2](../Page/MPEG-2.md "wikilink")・[MPEG-4](../Page/MPEG-4.md "wikilink")・[MS-MPEG4](https://ja.wikipedia.org/wiki/MS-MPEG4 "wikilink")・[On2VP6（FLV4）など](https://ja.wikipedia.org/wiki/On2_VP6 "wikilink")
+    [H.263](../Page/H.263.md "wikilink")（FLV1）・[H.264](../Page/H.264.md "wikilink")・[MPEG-1](../Page/MPEG-1.md "wikilink")・[MPEG-2](../Page/MPEG-2.md "wikilink")・[MPEG-4](../Page/MPEG-4.md "wikilink")・[MS-MPEG4](https://ja.wikipedia.org/wiki/MS-MPEG4 "wikilink")・[On2VP6（FLV4）など](https://ja.wikipedia.org/wiki/On2_VP6 "wikilink")
   - オーディオコーデック
     [AAC](../Page/AAC.md "wikilink")・[AC-3](../Page/ドルビーデジタル.md "wikilink")・[DTS](https://ja.wikipedia.org/wiki/デジタル・シアター・システムズ "wikilink")・[MP3](../Page/MP3.md "wikilink")・[Vorbis](https://ja.wikipedia.org/wiki/Ogg_Vorbis "wikilink")・など
 
@@ -26,7 +26,7 @@
 
 オリジナルのメイン開発者であるGabestは、2007年3月、Media Player Classicの開発は止まっていないと表明したが、ソースコードの更新において何の進展もなかった。MPC-HCは、Media Player Classicを更新し、追加のビデオデコーダーを削除するオプションを含む多くの便利な機能を追加した。
 
-追加のビデオデコーダとして、[H.264](https://ja.wikipedia.org/wiki/H.264 "wikilink")、[VC-1](https://ja.wikipedia.org/wiki/VC-1 "wikilink")、および[MPEG-2](../Page/MPEG-2.md "wikilink")の[DirectX Video Accelerationのサポート](https://ja.wikipedia.org/wiki/DirectX_Video_Acceleration "wikilink")、のサポート、および複数のバグを修正をした。MPC-HCは、英語、バスク語、アルメニア語、ベラルーシ語、カタロニア語、中国語（簡体字）、中国語（繁体字）、チェコ語、オランダ語、フランス語、ドイツ語、ギリシャ語、ヘブライ語、ハンガリー語、イタリア語、日本語、韓国語、ポーランド語、ポルトガル語（ブラジル）、ロシア語、スロバキア語、スペイン語、スウェーデン語、トルコ語、ウクライナ語の24言語をサポートしている。
+追加のビデオデコーダとして、[H.264](../Page/H.264.md "wikilink")、[VC-1](../Page/VC-1.md "wikilink")、および[MPEG-2](../Page/MPEG-2.md "wikilink")の[DirectX Video Accelerationのサポート](https://ja.wikipedia.org/wiki/DirectX_Video_Acceleration "wikilink")、のサポート、および複数のバグを修正をした。MPC-HCは、英語、バスク語、アルメニア語、ベラルーシ語、カタロニア語、中国語（簡体字）、中国語（繁体字）、チェコ語、オランダ語、フランス語、ドイツ語、ギリシャ語、ヘブライ語、ハンガリー語、イタリア語、日本語、韓国語、ポーランド語、ポルトガル語（ブラジル）、ロシア語、スロバキア語、スペイン語、スウェーデン語、トルコ語、ウクライナ語の24言語をサポートしている。
 
 2017年7月16日にMPC-HC公式サイト上にて「アクティブな開発者がゼロであり、プロジェクトが正式に死んでいる」とした上で、バージョン1.7.13を最終リリースとし開発を終えるアナウンスが行われた。\[3\]
 

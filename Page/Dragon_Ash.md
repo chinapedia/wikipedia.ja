@@ -1,18 +1,18 @@
 > この記事は[Dragon Ash](https://ja.wikipedia.org/wiki/Dragon_Ash)から翻訳されています。
 
 
-**Dragon Ash**（ドラゴン・アッシュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](https://ja.wikipedia.org/wiki/ミクスチャー・ロック "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[JVCケンウッド・ビクターエンタテインメント](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")内のレーベル、[MOB SQUAD所属](../Page/MOB_SQUAD.md "wikilink")。CDの総売上は1500万枚以上。
+**Dragon Ash**（ドラゴン・アッシュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャー・ロック](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")内のレーベル、[MOB SQUAD所属](../Page/MOB_SQUAD.md "wikilink")。CDの総売上は1500万枚以上。
 
 ## メンバー
 
-  - **Kj** （ケイジェイ、[降谷建志](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")（ふるや けんじ））：[ボーカル](../Page/歌.md "wikilink")、[ギター](../Page/ギター.md "wikilink")
+  - **Kj** （ケイジェイ、[降谷建志](../Page/降谷建志.md "wikilink")（ふるや けんじ））：[ボーカル](../Page/歌.md "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
 <!-- end list -->
 
   -
 
       -
-        [作詞](https://ja.wikipedia.org/wiki/作詞 "wikilink")・[作曲](../Page/作曲.md "wikilink")も担当。妻は[タレント](../Page/タレント.md "wikilink")の[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")。
+        [作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")も担当。妻は[タレント](../Page/タレント.md "wikilink")の[MEGUMI](https://ja.wikipedia.org/wiki/MEGUMI "wikilink")。
 
 <!-- end list -->
 
@@ -23,7 +23,7 @@
   -
 
       -
-        Kj、BOTSとは同級生。HIROKIと共に[endive](https://ja.wikipedia.org/wiki/endive "wikilink")としても活動している。ライブでは[MCを担当することが多い](https://ja.wikipedia.org/wiki/司会 "wikilink")。趣味はゲームと料理で料理本を出版しており、ライブやフェスでも「桜井食堂」として出店している。最近では単独でパチスロ番組への出演も多くなっており、多くのライターとも共演している（CSフジテレビ1で放送の「パチスロ(旅)」で射駒タケシと共演他）
+        Kj、BOTSとは同級生。HIROKIと共に[endive](https://ja.wikipedia.org/wiki/endive "wikilink")としても活動している。ライブでは[MCを担当することが多い](../Page/司会.md "wikilink")。趣味はゲームと料理で料理本を出版しており、ライブやフェスでも「桜井食堂」として出店している。最近では単独でパチスロ番組への出演も多くなっており、多くのライターとも共演している（CSフジテレビ1で放送の「パチスロ(旅)」で射駒タケシと共演他）
 
 <!-- end list -->
 
@@ -56,7 +56,7 @@
   -
 
       -
-        2003年加入。[RIP SLYMEの紹介で加入](https://ja.wikipedia.org/wiki/RIP_SLYME "wikilink")。ヒップホップ、ブレイキン、パントマイムなどダンスのあらゆる要素を独自の解釈で取り入れて活動。「DRI-V DANCE SCHOOL」として都内でダンス[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")としても活動している。
+        2003年加入。[RIP SLYMEの紹介で加入](../Page/RIP_SLYME.md "wikilink")。ヒップホップ、ブレイキン、パントマイムなどダンスのあらゆる要素を独自の解釈で取り入れて活動。「DRI-V DANCE SCHOOL」として都内でダンス[インストラクター](https://ja.wikipedia.org/wiki/インストラクター "wikilink")としても活動している。
 
 <!-- end list -->
 
@@ -71,14 +71,14 @@
 
 <!-- end list -->
 
-  - **IKÜZÖNE** （イクゾーン、馬場育三（ばば いくぞう）、[1965年](../Page/1965年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")）：[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **IKÜZÖNE** （イクゾーン、馬場育三（ばば いくぞう）、[1965年](../Page/1965年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
   -
 
       -
-        [ピンキー青木](https://ja.wikipedia.org/wiki/ピンキー青木 "wikilink")が結成したPinky & The Crazy Love Machineなどで活動後、Dragon Ashのメンバー募集のオーディションにより加入。メンバー最年長者としてDragon Ashの活動を支え続けた。2012年4月21日、急性心不全のため逝去。46歳没。Dragon Ash以外では、桜井と共にMotor Headphoneを結成し、[YMOのトリビュートアルバムや](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")のソロプロジェクトである[Crack 6にも参加した](../Page/Crack_6.md "wikilink")。インディーズ時代、飲みの席でhideを遠目に見て憧れていた。hideの死後、泥酔しhide ミュージアムの壁に落書きをするなどした。腕にはhideの刺青を入れ、アンプヘッドにhide人形を飾っていたが、生前の[hide](https://ja.wikipedia.org/wiki/hide "wikilink")と直接の関わりは無かった。[ジャパニーズ・メタル](https://ja.wikipedia.org/wiki/ジャパニーズ・メタル "wikilink")と[ダイムバッグ・ダレル](https://ja.wikipedia.org/wiki/ダイムバッグ・ダレル "wikilink")をこよなく愛していた。
+        [ピンキー青木](https://ja.wikipedia.org/wiki/ピンキー青木 "wikilink")が結成したPinky & The Crazy Love Machineなどで活動後、Dragon Ashのメンバー募集のオーディションにより加入。メンバー最年長者としてDragon Ashの活動を支え続けた。2012年4月21日、急性心不全のため逝去。46歳没。Dragon Ash以外では、桜井と共にMotor Headphoneを結成し、[YMOのトリビュートアルバムや](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")のソロプロジェクトである[Crack 6にも参加した](../Page/Crack_6.md "wikilink")。インディーズ時代、飲みの席でhideを遠目に見て憧れていた。hideの死後、泥酔しhide ミュージアムの壁に落書きをするなどした。腕にはhideの刺青を入れ、アンプヘッドにhide人形を飾っていたが、生前の[hide](https://ja.wikipedia.org/wiki/hide "wikilink")と直接の関わりは無かった。[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")と[ダイムバッグ・ダレル](../Page/ダイムバッグ・ダレル.md "wikilink")をこよなく愛していた。
 
 ### 旧サポートメンバー
 
@@ -93,7 +93,7 @@
 
 ## 概要
 
-[ロック](../Page/ロック_\(音楽\).md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")、[ラテン](https://ja.wikipedia.org/wiki/ラテン音楽 "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")など、様々なジャンルの音楽を取り入れた7人組のバンド。
+[ロック](../Page/ロック_\(音楽\).md "wikilink")、[パンク](../Page/パンク・ロック.md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")、[ラテン](../Page/ラテン音楽.md "wikilink")、[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")など、様々なジャンルの音楽を取り入れた7人組のバンド。
 
 バンド名の「Dragon Ash」はKjが考えた造語であり、"drag on ash"（だらだらしていたら灰になる）という意味を込めているという説があるが、IKÜZÖNEはFAN CLUB（[D.A.CREW](https://ja.wikipedia.org/wiki/D.A.CREW "wikilink")）の会報でこれを否定している。 が2006年ZeppTokyoでKjが真実だと発言。 関西で開催されるロックフェス『[RUSH BALL](../Page/RUSH_BALL.md "wikilink")』や『[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")』には開催当初からラインナップに名を連ねている。
 
@@ -116,7 +116,7 @@
   - サポートメンバーであった*BOTS*が正式加入。
   - [3月3日](../Page/3月3日.md "wikilink")に発売した4thシングル「[Let yourself go, Let myself go](../Page/Let_yourself_go,_Let_myself_go.md "wikilink")」が70万枚近くの売り上げを記録。
   - [5月1日](../Page/5月1日.md "wikilink")、5thシングル「[Grateful Days](../Page/Grateful_Days.md "wikilink")」、6thシングル「[I LOVE HIP HOP](../Page/I_LOVE_HIP_HOP.md "wikilink")」を同時リリース。「Grateful Days」はバンド初のオリコン1位を記録し、売り上げ枚数も約90万枚を記録。
-  - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")、3rdアルバム『[Viva La Revolution](../Page/Viva_La_Revolution.md "wikilink")』を発売。約180万枚の売り上げを記録し、アルバムでは初めてオリコン1位を獲得。
+  - [7月23日](../Page/7月23日.md "wikilink")、3rdアルバム『[Viva La Revolution](../Page/Viva_La_Revolution.md "wikilink")』を発売。約180万枚の売り上げを記録し、アルバムでは初めてオリコン1位を獲得。
 
 ### 2001年
 
@@ -130,7 +130,7 @@
 
   - 以前からのサポート・メンバーであった*HIROKI*と*DRI-V*、*ATSUSHI*がメンバーとして正式加入。
   - [3月3日](../Page/3月3日.md "wikilink")、新レーベル**MOB SQUAD**を設立。
-  - [7月23日](https://ja.wikipedia.org/wiki/7月23日 "wikilink")、5thアルバム『[HARVEST](../Page/HARVEST_\(Dragon_Ashのアルバム\).md "wikilink")』を発売。オリコン1位を獲得。
+  - [7月23日](../Page/7月23日.md "wikilink")、5thアルバム『[HARVEST](../Page/HARVEST_\(Dragon_Ashのアルバム\).md "wikilink")』を発売。オリコン1位を獲得。
 
 ### 2005年
 
@@ -138,7 +138,7 @@
 
 ### 2006年
 
-  - [7月19日](../Page/7月19日.md "wikilink")、これまで発売されたすべてのアルバムが、[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[Mora](../Page/Mora.md "wikilink")などにて配信開始される。ただし、アルバム『Viva La Revolution』に収録されている、[Zeebra](https://ja.wikipedia.org/wiki/Zeebra "wikilink")と共演した「Grateful Days feat. ACO, ZEEBRA」は権利処理がされていないため、配信されていない。
+  - [7月19日](../Page/7月19日.md "wikilink")、これまで発売されたすべてのアルバムが、[iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[Mora](../Page/Mora.md "wikilink")などにて配信開始される。ただし、アルバム『Viva La Revolution』に収録されている、[Zeebra](../Page/Zeebra.md "wikilink")と共演した「Grateful Days feat. ACO, ZEEBRA」は権利処理がされていないため、配信されていない。
 
 ### 2007年
 
@@ -176,7 +176,7 @@
 
 ### 2015年
 
-  - [3月16日](../Page/3月16日.md "wikilink")、[Kjがソロ活動を開始](https://ja.wikipedia.org/wiki/降谷建志 "wikilink")。
+  - [3月16日](../Page/3月16日.md "wikilink")、[Kjがソロ活動を開始](../Page/降谷建志.md "wikilink")。
   - [9月26日](../Page/9月26日.md "wikilink")、[タワーレコード](../Page/タワーレコード.md "wikilink")プレゼンツイベント「**Bowline 2015**」のキュレーターを務め、15年ぶりに「**TMC**」を復活させた\[3\]。
 
 ### 2016年
@@ -192,7 +192,7 @@
 ### 2019年
 
   - [7月10日](../Page/7月10日.md "wikilink")、「Red Bull Air Race Chiba 2019」大会テーマ・ソングとして製作された、およそ2年振りとなる新曲「FLY OVER」を配信限定でリリース\[4\]。
-  - [7月19日](../Page/7月19日.md "wikilink")、KenKenが[大麻取締法](https://ja.wikipedia.org/wiki/大麻取締法 "wikilink")違反（[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")所持）容疑で[逮捕された](https://ja.wikipedia.org/wiki/逮捕_\(日本法\) "wikilink")。これを受け、[翌日](../Page/7月20日.md "wikilink")、所属するJVCケンウッド・ビクターエンタテインメントでは、彼が制作に携わった楽曲（音源）が含まれる全作品\[5\]の出荷や配信の全面停止を発表した\[6\]。
+  - [7月19日](../Page/7月19日.md "wikilink")、KenKenが[大麻取締法](../Page/大麻取締法.md "wikilink")違反（[大麻](https://ja.wikipedia.org/wiki/大麻 "wikilink")所持）容疑で[逮捕された](https://ja.wikipedia.org/wiki/逮捕_\(日本法\) "wikilink")。これを受け、[翌日](../Page/7月20日.md "wikilink")、所属するJVCケンウッド・ビクターエンタテインメントでは、彼が制作に携わった楽曲（音源）が含まれる全作品\[5\]の出荷や配信の全面停止を発表した\[6\]。
   - [7月24日](../Page/7月24日.md "wikilink")、サポートベーシストとして**T$UYO$HI**（[The BONEZ](https://ja.wikipedia.org/wiki/The_BONEZ "wikilink")、[Pay money To my Pain](../Page/Pay_money_To_my_Pain.md "wikilink")）を迎え、今夏のフェスおよびイベントに出演することを発表した\[7\]。
   - [9月11日](../Page/9月11日.md "wikilink")、配信停止となってしまった新曲「FLY OVER」を、新体制でリレコーディングした「**Fly Over feat. T$UYO$HI**」として再配信。また、ツアー会場限定でCD版も販売。内容は本曲が収録されたCDと、Tシャツをパッケージングしたもの\[8\]。
   - [11月13日](../Page/11月13日.md "wikilink")、出荷・配信停止となっていた2014年以降の作品の再生産・再配信を開始\[9\]。但し「FLY OVER」のオリジナル版に関しては配信されていない。
@@ -260,7 +260,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p>1998年<a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p>1998年<a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Under_Age&#39;s_Song" title="wikilink">Under Age's Song</a></strong></p></td>
 <td><p>VICL-35031 (CD)</p></td>
 <td><p>54位</p></td>
@@ -388,7 +388,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>14th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/crush_the_window" title="wikilink">crush the window</a></strong></p></td>
 <td><p>VICL-35855 (CD)</p></td>
 <td><p>2位</p></td>
@@ -436,7 +436,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>VICL-36442 (CD)</p></td>
-<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="https://ja.wikipedia.org/wiki/UEFA_EURO_2008" title="wikilink">UEFA EURO 2008</a>」テーマソング<br />
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS系</a>「<a href="../Page/UEFA_EURO_2008.md" title="wikilink">UEFA EURO 2008</a>」テーマソング<br />
 カップリング曲の「La Bamba」 - <a href="../Page/京セラ.md" title="wikilink">京セラ</a>「<a href="../Page/W64SA.md" title="wikilink">W64SA</a>」CMソング</p></td>
 <td></td>
 <td></td>
@@ -705,7 +705,7 @@ Hot Albums</a><br />
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong><a href="../Page/Viva_La_Revolution.md" title="wikilink">Viva La Revolution</a></strong></p></td>
 <td><p>VICL-60400 (CD)</p></td>
 <td><p>1位</p></td>
@@ -729,7 +729,7 @@ Hot Albums</a><br />
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
-<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="../Page/2003年.md" title="wikilink">2003年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p><strong><a href="../Page/HARVEST_(Dragon_Ashのアルバム).md" title="wikilink">HARVEST</a></strong></p></td>
 <td><p>VICL-60925 (CD)</p></td>
 <td><p>1位</p></td>
@@ -737,7 +737,7 @@ Hot Albums</a><br />
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Río_de_Emoción" title="wikilink">Río de Emoción</a></strong></p></td>
 <td><p>VICL-61724 (CD)</p></td>
 <td><p>1位</p></td>
@@ -1016,7 +1016,7 @@ Hot Albums</a><br />
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/12月21日.md" title="wikilink">12月21日</a></p></td>
 <td><p><strong>Video de Emoción</strong></p></td>
 <td><p>VIBL-313 (DVD)</p></td>
 <td><p>57位</p></td>
@@ -1249,9 +1249,9 @@ At BUDOKAN May 31, 2014</strong></p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/7月23日" title="wikilink">7月23日</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="../Page/7月23日.md" title="wikilink">7月23日</a></p></td>
 <td><p>V.A.</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/DTエイトロン" title="wikilink">DTエイトロン</a> オリジナル・サウンドトラック</strong></p></td>
+<td><p><strong><a href="../Page/DTエイトロン.md" title="wikilink">DTエイトロン</a> オリジナル・サウンドトラック</strong></p></td>
 <td><p>VICL-60260</p></td>
 <td><ul>
 <li>陽はまたのぼりくりかえす</li>
@@ -1299,7 +1299,7 @@ At BUDOKAN May 31, 2014</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2010年" title="wikilink">2010年</a><a href="https://ja.wikipedia.org/wiki/6月16日" title="wikilink">6月16日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/やついいちろう" title="wikilink">やついいちろう</a></p></td>
+<td><p><a href="../Page/やついいちろう.md" title="wikilink">やついいちろう</a></p></td>
 <td><p><strong>ATARASHII YATSU!</strong></p></td>
 <td><p>VICL-63635</p></td>
 <td><ul>
@@ -1558,7 +1558,7 @@ At BUDOKAN May 31, 2014</strong></p></td>
   - 2007年08月26日 - MONSTER baSH 2007
   - 2007年09月01日 - SPACE SHOWER [SWEET LOVE SHOWER](../Page/SWEET_LOVE_SHOWER.md "wikilink") 2007
   - 2007年09月02日 - RUSH BALL 2007
-  - 2007年10月08日 - [MUSIC ON\! TV](https://ja.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") GG07
+  - 2007年10月08日 - [MUSIC ON\! TV](../Page/MUSIC_ON!_TV.md "wikilink") GG07
   - 2008年06月29日 - 湘南音祭 Vol.2
   - 2008年07月12日 - [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")2008〜去年は台風でごめんな祭〜
   - 2008年08月03日 - ROCK IN JAPAN FESTIVAL 2008
@@ -1705,7 +1705,7 @@ At BUDOKAN May 31, 2014</strong></p></td>
 ## 参考文献
 
   - *Grateful Days Dragon Ash*　[1999年](../Page/1999年.md "wikilink")12月発行。[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")。ISBN 4-947599-78-2
-  - *Live goes on Dragon Ash tour 02 photo book*　[平間至](https://ja.wikipedia.org/wiki/平間至 "wikilink")撮影。[2003年](../Page/2003年.md "wikilink")8月発行。ロッキング・オン。ISBN 4-86052-021-1
+  - *Live goes on Dragon Ash tour 02 photo book*　[平間至](../Page/平間至.md "wikilink")撮影。[2003年](../Page/2003年.md "wikilink")8月発行。ロッキング・オン。ISBN 4-86052-021-1
 
 ## 関連項目
 

@@ -9,7 +9,7 @@
 
 ### 社名の由来
 
-「PFU」は、松下電器産業（現: [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")・2005年3月迄大株主）のブランド「パナソニック」のP、富士通ないし[FACOM](../Page/FACOM.md "wikilink")（富士通のかつてのコンピュータブランド・現在は当社の全株式を保有）のF、ウノケ電子工業・ユーザック電子工業・USAC（[内田洋行](https://ja.wikipedia.org/wiki/内田洋行 "wikilink")の情報システムブランド **U**noke **S**tandard **A**utomatic **C**omputerの略）のU、を並べたものである（P.F.U.＝**P**ana-**F**acom-**U**sac）。
+「PFU」は、松下電器産業（現: [パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")・2005年3月迄大株主）のブランド「パナソニック」のP、富士通ないし[FACOM](../Page/FACOM.md "wikilink")（富士通のかつてのコンピュータブランド・現在は当社の全株式を保有）のF、ウノケ電子工業・ユーザック電子工業・USAC（[内田洋行](../Page/内田洋行.md "wikilink")の情報システムブランド **U**noke **S**tandard **A**utomatic **C**omputerの略）のU、を並べたものである（P.F.U.＝**P**ana-**F**acom-**U**sac）。
 
 ## 主力製品・事業
 
@@ -19,7 +19,7 @@
       - [イメージスキャナ](../Page/イメージスキャナ.md "wikilink") - ScanSnapシリーズや、両面イメージスキャナ。
       - 情報[KIOSK端末](../Page/マルチメディアステーション.md "wikilink")
       - エンベデッド製品 -[COM Express準拠の](https://ja.wikipedia.org/wiki/COM_Express "wikilink")[SOMや組込向けなど産業機器向けコンピュータ](https://ja.wikipedia.org/wiki/Computer_on_Module "wikilink")
-      - [Happy Hacking Keyboard](https://ja.wikipedia.org/wiki/Happy_Hacking_Keyboard "wikilink") - 省スペースかつ多彩なカスタマイズ設定が可能なPC用[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")。UNIXユーザ向けに最適化したキーレイアウトをコンセプトに、最近では[Macユーザ向けのラインナップも備えている](../Page/Macintosh.md "wikilink")。
+      - [Happy Hacking Keyboard](../Page/Happy_Hacking_Keyboard.md "wikilink") - 省スペースかつ多彩なカスタマイズ設定が可能なPC用[キーボード](../Page/キーボード_\(コンピュータ\).md "wikilink")。UNIXユーザ向けに最適化したキーレイアウトをコンセプトに、最近では[Macユーザ向けのラインナップも備えている](../Page/Macintosh.md "wikilink")。
       - サーバ、ストレージ、スキャナ - 過去に笠島工場で[FMV](../Page/FMV.md "wikilink")のタワー型モデルの最終組み立てを行っていたが、現在富士通との[合弁会社](https://ja.wikipedia.org/wiki/合弁会社 "wikilink")である[富士通ITプロダクツ](https://ja.wikipedia.org/wiki/富士通ITプロダクツ "wikilink")へ移管された。
   - ソフトウェア
       - [XML関連プロダクト](../Page/Extensible_Markup_Language.md "wikilink")
@@ -38,7 +38,7 @@
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Panafacom_Pf_logo.svg "wikilink")
 
   - [1960年](../Page/1960年.md "wikilink")11月 - 深江溢郎が出資し、当時の石川県[河北郡](../Page/河北郡.md "wikilink")[宇ノ気町](https://ja.wikipedia.org/wiki/宇ノ気町 "wikilink")に**ウノケ電子工業**設立。
-  - [1962年](../Page/1962年.md "wikilink")5月 - [株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")に移行し、[内田洋行](https://ja.wikipedia.org/wiki/内田洋行 "wikilink")と販売提携。
+  - [1962年](../Page/1962年.md "wikilink")5月 - [株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")に移行し、[内田洋行](../Page/内田洋行.md "wikilink")と販売提携。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink") - **ユーザック電子工業**に社名変更。
   - [1972年](../Page/1972年.md "wikilink") - [富士通](../Page/富士通.md "wikilink")とユーザック電子工業が技術提携。
   - [1973年](../Page/1973年.md "wikilink") - 富士通と[松下電器産業（現・パナソニック）の合弁で](https://ja.wikipedia.org/wiki/パナソニック "wikilink")、**パナファコム**設立。

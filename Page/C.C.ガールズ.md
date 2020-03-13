@@ -5,9 +5,9 @@
 
 ## 来歴
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）に開催された「日本美人大賞」入賞者から[青田典子](https://ja.wikipedia.org/wiki/青田典子 "wikilink")、[原田徳子](../Page/原田徳子.md "wikilink")、[藤原理恵](https://ja.wikipedia.org/wiki/藤原理恵 "wikilink")、[藤森夕子](https://ja.wikipedia.org/wiki/藤森夕子 "wikilink")の4人で結成され、[歌手](../Page/歌手.md "wikilink")や[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")などで活躍。 ユニット名はクールで高貴なイメージを持つ美人たち（COOL & CLASSY）ということで付けられた。初期の頃は「D.D.GAPS」（ディー・ディー・ギャップス）名義も使用し、[1991年](../Page/1991年.md "wikilink")には同名義で歌手活動を行った。なお、[1992年](../Page/1992年.md "wikilink")からは歌手活動も「C.C.ガールズ」名義に統一。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）に開催された「日本美人大賞」入賞者から[青田典子](../Page/青田典子.md "wikilink")、[原田徳子](../Page/原田徳子.md "wikilink")、[藤原理恵](../Page/藤原理恵.md "wikilink")、[藤森夕子](https://ja.wikipedia.org/wiki/藤森夕子 "wikilink")の4人で結成され、[歌手](../Page/歌手.md "wikilink")や[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")などで活躍。 ユニット名はクールで高貴なイメージを持つ美人たち（COOL & CLASSY）ということで付けられた。初期の頃は「D.D.GAPS」（ディー・ディー・ギャップス）名義も使用し、[1991年](../Page/1991年.md "wikilink")には同名義で歌手活動を行った。なお、[1992年](../Page/1992年.md "wikilink")からは歌手活動も「C.C.ガールズ」名義に統一。
 
-その後、メンバー同士の不仲などから、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に掛けてメンバーの入れ替えが繰り返され、[浜野裕子](../Page/浜野裕子.md "wikilink")、[本杉美香](../Page/本杉美香.md "wikilink")、[森洋子](https://ja.wikipedia.org/wiki/森洋子_\(タレント\) "wikilink")、[山田誉子](../Page/山田誉子.md "wikilink")の4人による便宜上2代目の「C.C.ガールズ」が確立。 セクシー路線だけでなく[インターネット](../Page/インターネット.md "wikilink")を連動させて[コミュニケーション](../Page/コミュニケーション.md "wikilink")アイドルとして活動することを提案した。この頃、初代の4人のイメージが強いせいか「最初のメンバーが誰一人として残っていないC.C.ガールズ」などとも言われた。なお、総入れ替え後のリーダーは、森が務めた。
+その後、メンバー同士の不仲などから、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に掛けてメンバーの入れ替えが繰り返され、[浜野裕子](../Page/浜野裕子.md "wikilink")、[本杉美香](../Page/本杉美香.md "wikilink")、[森洋子](../Page/森洋子_\(タレント\).md "wikilink")、[山田誉子](../Page/山田誉子.md "wikilink")の4人による便宜上2代目の「C.C.ガールズ」が確立。 セクシー路線だけでなく[インターネット](../Page/インターネット.md "wikilink")を連動させて[コミュニケーション](../Page/コミュニケーション.md "wikilink")アイドルとして活動することを提案した。この頃、初代の4人のイメージが強いせいか「最初のメンバーが誰一人として残っていないC.C.ガールズ」などとも言われた。なお、総入れ替え後のリーダーは、森が務めた。
 
 2代目の4人は、平均年齢が30歳を超えたことなどから、[2003年](../Page/2003年.md "wikilink")12月に卒業（この時、浜野は結婚して引退。他の3人も卒業となったのは、浜野の結婚報告を怠ったための懲罰という説がある）。2代目卒業の際、オスカープロモーションは「C.C.ガールズ」の名前を残す意向を示し、3代目となる新たなメンバーを[2004年](../Page/2004年.md "wikilink")春にも決め、同7月にも発表するとしていたが、この時は立ち消えとなった。
 
@@ -17,15 +17,15 @@
 
 ### 初代
 
-  - [青田典子](https://ja.wikipedia.org/wiki/青田典子 "wikilink") - 1998年11月卒業。
+  - [青田典子](../Page/青田典子.md "wikilink") - 1998年11月卒業。
   - [原田徳子](../Page/原田徳子.md "wikilink") - 1995年6月卒業。
-  - [藤原理恵](https://ja.wikipedia.org/wiki/藤原理恵 "wikilink") - 1995年6月卒業。
+  - [藤原理恵](../Page/藤原理恵.md "wikilink") - 1995年6月卒業。
   - [藤森夕子](https://ja.wikipedia.org/wiki/藤森夕子 "wikilink") - 1996年卒業。
 
 ### 2代目
 
   - [本杉美香](../Page/本杉美香.md "wikilink") - 1995年8月加入、2003年12月卒業。
-  - [森洋子](https://ja.wikipedia.org/wiki/森洋子_\(タレント\) "wikilink") - 1995年8月加入、2003年12月卒業。
+  - [森洋子](../Page/森洋子_\(タレント\).md "wikilink") - 1995年8月加入、2003年12月卒業。
   - [山田誉子](../Page/山田誉子.md "wikilink") - 1996年1月 スーパーサポートメンバーとして加入、藤森の脱退後正式メンバーに昇格。2003年12月卒業。
   - [浜野裕子](../Page/浜野裕子.md "wikilink") - 1998年11月加入、2003年12月卒業。
 
@@ -65,7 +65,7 @@
 
 ### シングル
 
-版元の記述の無い物はすべて[ワーナーミュージック・ジャパン](https://ja.wikipedia.org/wiki/ワーナーミュージック・ジャパン "wikilink")から。
+版元の記述の無い物はすべて[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")から。
 
 **D.D.GAPS**名義
 
@@ -85,8 +85,8 @@
       - NO天気な恋の島 - 作詞：吉澤久美子 / Joey Carbone、作曲：[夢野真音](https://ja.wikipedia.org/wiki/三浦一年 "wikilink")
       - マリーの選択 - 作詞：[戸沢暢美](https://ja.wikipedia.org/wiki/戸沢暢美 "wikilink")、作曲：Joey Carbone / Dennis Belfield
 2.  **涙なしじゃ言えない**（1993年3月10日／WPDL-4337）
-      - 涙なしじゃ言えない - 作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲：[馬飼野康二](https://ja.wikipedia.org/wiki/馬飼野康二 "wikilink")
-      - エピキュリアン・ブルー - 作詞：[田久保真見](../Page/田久保真見.md "wikilink")、作曲：[羽田一郎](https://ja.wikipedia.org/wiki/羽田一郎 "wikilink")
+      - 涙なしじゃ言えない - 作詞：[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")、作曲：[馬飼野康二](../Page/馬飼野康二.md "wikilink")
+      - エピキュリアン・ブルー - 作詞：[田久保真見](../Page/田久保真見.md "wikilink")、作曲：[羽田一郎](../Page/羽田一郎.md "wikilink")
 3.  **恋するために生まれてきたの**（1993年9月25日／WPDL-4349）
       - 恋するために生まれてきたの - 作詞：[鮎川めぐみ](https://ja.wikipedia.org/wiki/鮎川めぐみ "wikilink")、作曲：[井上ヨシマサ](../Page/井上ヨシマサ.md "wikilink")
       - 白状しちゃおうかな - 作詞：松井五郎、作曲：羽田一郎
@@ -100,7 +100,7 @@
       - Happy White - 作詞：[森浩美](../Page/森浩美.md "wikilink")、作曲：[寺田一郎](https://ja.wikipedia.org/wiki/寺田一郎 "wikilink")
       - Happy White（カラオケ）
 
-**[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")\&C.C.ガールズ**名義
+**[林哲司](../Page/林哲司.md "wikilink")\&C.C.ガールズ**名義
 
 1.  世界で一番せつない夜に（1993年4月25日／WPDL-4345）
       - 世界で一番せつない夜に - 作詞：田久保真見、作曲：林哲司
@@ -119,8 +119,8 @@
 
   - Comin'（1992年5月25日）
   - ANIMALS（1992年11月28日）
-  - WOMAN FROM TOKYO（1993年7月25日）（「世界で一番せつない夜に」のみ、[林哲司](https://ja.wikipedia.org/wiki/林哲司 "wikilink")\&C.C.ガールズ名義）
-  - C.C.ガールズがうたうおねえたまどうよう（[ウゴウゴルーガ](https://ja.wikipedia.org/wiki/ウゴウゴルーガ "wikilink")）（1993年9月25日）
+  - WOMAN FROM TOKYO（1993年7月25日）（「世界で一番せつない夜に」のみ、[林哲司](../Page/林哲司.md "wikilink")\&C.C.ガールズ名義）
+  - C.C.ガールズがうたうおねえたまどうよう（[ウゴウゴルーガ](../Page/ウゴウゴルーガ.md "wikilink")）（1993年9月25日）
   - COOL and CLASSY（1993年12月10日）
   - SO WHAT ～だからナニ～（1995年6月25日）
 

@@ -16,7 +16,7 @@
   - [2003年](../Page/2003年.md "wikilink")[8月](../Page/8月.md "wikilink")、ソデッソジャパンが単独株式移転で[持株会社](../Page/持株会社.md "wikilink")「**株式会社レオックジャパン**」を設立。[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")には持株会社傘下に各地の地域事業会社を設け、レオックジャパングループが確立。
   - [2004年](../Page/2004年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")、東海地方の事業会社・レオック東海を[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）との合弁にて設立。
   - [2007年](../Page/2007年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、「**株式会社LEOC（初代）**」を親会社、レオックジャパンを中間持株会社とする形にグループ組織を変更。
-  - [2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[マネジメント・バイアウト](https://ja.wikipedia.org/wiki/マネジメント・バイアウト "wikilink")（MBO）により、LEOC（初代）が上場廃止。さらに同年[9月](../Page/9月.md "wikilink")、LEOC（初代）は新設された「株式会社小野寺事務所」と合併し消滅した。なおグループ組織の形態は、持株会社が小野寺事務所となった以外は従前同様。
+  - [2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、[マネジメント・バイアウト](../Page/マネジメント・バイアウト.md "wikilink")（MBO）により、LEOC（初代）が上場廃止。さらに同年[9月](../Page/9月.md "wikilink")、LEOC（初代）は新設された「株式会社小野寺事務所」と合併し消滅した。なおグループ組織の形態は、持株会社が小野寺事務所となった以外は従前同様。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、本社を港区東新橋に移転。
   - 2011年4月、レオックジャパンがレオック東海を除く地域会社・レオックサービス・レオックヒューマンケアを吸収合併、「**株式会社LEOC（2代目）**」に商号変更。旧事業会社の営業エリアを18支店に再編。
   - 2011年5月、LEOC（2代目）がレオック東海を吸収合併、東海支店を新設。
@@ -42,7 +42,7 @@
   - [ライフコミューン](https://ja.wikipedia.org/wiki/ライフコミューン "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../Page/9月.md "wikilink")、[木下工務店](https://ja.wikipedia.org/wiki/木下工務店 "wikilink")に全株式を売却
   - レオックサービス - 2011年4月、レオックジャパンと合併
   - レオック北日本（北海道） - 2011年4月、レオックジャパンと合併
-  - レオック東北（東北） - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")レオック北日本より移譲。2011年4月、レオックジャパンと合併
+  - レオック東北（東北） - [2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")レオック北日本より移譲。2011年4月、レオックジャパンと合併
   - レオック関東（茨城・栃木・群馬・埼玉・千葉・新潟・長野） - 2011年4月、レオックジャパンと合併
   - レオック東京（東京） - 2011年4月レオックジャパンと合併
   - レオック南関東（神奈川・山梨・静岡） - 2011年4月、レオックジャパンと合併
@@ -52,7 +52,7 @@
 
 ## 関連項目
 
-  - [横浜FC](../Page/横浜FC.md "wikilink") - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")の[第三者割当増資](../Page/第三者割当増資.md "wikilink")を受け株式の50%以上を取得し[筆頭株主](https://ja.wikipedia.org/wiki/筆頭株主 "wikilink")となった。練習場である戸塚トレーニングセンターの[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")（『[横浜FCレオックトレーニングセンター](../Page/横浜FC_LEOCトレーニングセンター.md "wikilink")』）も取得するほか、本業である食事面のサポートもしている。また、ユニフォームの胸スポンサーも担当している。
+  - [横浜FC](../Page/横浜FC.md "wikilink") - [2005年](../Page/2005年.md "wikilink")の[第三者割当増資](../Page/第三者割当増資.md "wikilink")を受け株式の50%以上を取得し[筆頭株主](https://ja.wikipedia.org/wiki/筆頭株主 "wikilink")となった。練習場である戸塚トレーニングセンターの[命名権](https://ja.wikipedia.org/wiki/命名権 "wikilink")（『[横浜FCレオックトレーニングセンター](../Page/横浜FC_LEOCトレーニングセンター.md "wikilink")』）も取得するほか、本業である食事面のサポートもしている。また、ユニフォームの胸スポンサーも担当している。
   - [YFCMD](https://ja.wikipedia.org/wiki/YFCMD "wikilink") - 旧横浜FC香港。2014年6月まではオーナー会社。7月以降はメインスポンサーを務めている\[1\]。
   - [エスポラーダ北海道](../Page/エスポラーダ北海道.md "wikilink")
   - [東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")

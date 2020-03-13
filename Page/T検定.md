@@ -3,7 +3,7 @@
 
 **t検定**（ティーけんてい）とは、[帰無仮説](https://ja.wikipedia.org/wiki/帰無仮説 "wikilink")が正しいと仮定した場合に、統計量が[t分布](https://ja.wikipedia.org/wiki/t分布 "wikilink")に従うことを利用する[統計学](../Page/統計学.md "wikilink")的[検定法](https://ja.wikipedia.org/wiki/検定法 "wikilink")の総称である。[母集団](../Page/母集団.md "wikilink")が[正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")に従うと仮定する[パラメトリック検定法](https://ja.wikipedia.org/wiki/パラメトリック検定法 "wikilink")であり、t分布が直接、もとの[平均](../Page/平均.md "wikilink")や[標準偏差](../Page/標準偏差.md "wikilink")にはよらない（ただし[自由度](https://ja.wikipedia.org/wiki/自由度 "wikilink")による）ことを利用している。2組の[標本について平均に有意差があるかどうかの検定などに用いられる](../Page/標本_\(統計学\).md "wikilink")。統計的仮説検定の一つ。[日本工業規格](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")では、「検定統計量が，帰無仮説の下でt分布に従うことを仮定して行う統計的検定。」と定義している\[1\]。
 
-**スチューデントのt検定**（Student's t-test）とも呼ばれるが、これは統計学者の[ウィリアム・ゴセット](../Page/ウィリアム・ゴセット.md "wikilink")が雇用者である[ギネス](https://ja.wikipedia.org/wiki/ギネス "wikilink")ビール社に本名使用を許されず*Student* というペンネームで最初の論文を発表した（[1908年](../Page/1908年.md "wikilink")）ためである。
+**スチューデントのt検定**（Student's t-test）とも呼ばれるが、これは統計学者の[ウィリアム・ゴセット](../Page/ウィリアム・ゴセット.md "wikilink")が雇用者である[ギネス](../Page/ギネス.md "wikilink")ビール社に本名使用を許されず*Student* というペンネームで最初の論文を発表した（[1908年](../Page/1908年.md "wikilink")）ためである。
 
 ## 種類
 
@@ -71,7 +71,7 @@ SE_{\\widehat\\beta} = \\frac{\\sqrt{\\frac{1}{n - 2}\\sum_{i=1}^n (Y_i - \\wide
 実務的なデータ分析では、母集団が様々な前提を満たしているかどうかを調べるため、以下のような検定をt検定の前段階に行う場合がある。
 
   - 標本が正規分布に従うかどうかは、[コルモゴロフ-スミルノフ検定](https://ja.wikipedia.org/wiki/コルモゴロフ-スミルノフ検定 "wikilink")や[シャピロ-ウィルク検定](https://ja.wikipedia.org/wiki/シャピロ-ウィルク検定 "wikilink")などの正規性検定によって判断することもできる。
-  - 標本の分散が等しいかどうかは、[F検定](https://ja.wikipedia.org/wiki/F検定 "wikilink")、[ルベーン検定](https://ja.wikipedia.org/wiki/ルベーン検定 "wikilink")、[バートレット検定](../Page/バートレット検定.md "wikilink")などにより判断する方法がある。
+  - 標本の分散が等しいかどうかは、[F検定](../Page/F検定.md "wikilink")、[ルベーン検定](https://ja.wikipedia.org/wiki/ルベーン検定 "wikilink")、[バートレット検定](../Page/バートレット検定.md "wikilink")などにより判断する方法がある。
 
 #### 等分散の場合
 

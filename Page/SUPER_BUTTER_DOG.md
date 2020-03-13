@@ -1,7 +1,7 @@
 > この記事は[SUPER BUTTER DOG](https://ja.wikipedia.org/wiki/SUPER_BUTTER_DOG)から翻訳されています。
 
 
-**SUPER BUTTER DOG**（スーパー・バター・ドッグ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[ファンク](https://ja.wikipedia.org/wiki/ファンク "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**SUPER BUTTER DOG**（スーパー・バター・ドッグ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の5人組[ファンク](../Page/ファンク.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に解散した。
 
@@ -17,7 +17,7 @@
   - [2002年](../Page/2002年.md "wikilink")、初のライヴアルバム『ラ』、また自主レーベルからシングル『風土』をリリース。
     9月の野音ライブをもって活動休止。
     友情参加した「This Y'all,That Y'all session with SUPER BUTTER DOG」が収録された[RHYMESTER](../Page/RHYMESTER.md "wikilink")のアルバムが発売。クリップにも参加している。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[竹中直人](../Page/竹中直人.md "wikilink")監督による映画『[サヨナラCOLOR](https://ja.wikipedia.org/wiki/サヨナラCOLOR_\(映画\) "wikilink")』が公開。
+  - [2005年](../Page/2005年.md "wikilink")、[竹中直人](../Page/竹中直人.md "wikilink")監督による映画『[サヨナラCOLOR](../Page/サヨナラCOLOR_\(映画\).md "wikilink")』が公開。
   - [2006年](../Page/2006年.md "wikilink")9月、SWEET LOVE SHOWER2006にて復活。
   - [2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")、[RHYMESTER](../Page/RHYMESTER.md "wikilink")の武道館イベント「KING OF STAGE VOL.7」ゲスト出演。
   - [2007年](../Page/2007年.md "wikilink")6月、「ファンキー大百科」を開催。バンドの他、個々のユニットを披露。
@@ -38,13 +38,13 @@
       -
         [2002年](../Page/2002年.md "wikilink")、バンドの活動休止後、"永積タカシ"名義で[はっぴぃえんど](https://ja.wikipedia.org/wiki/はっぴぃえんど "wikilink")のトリビュートアルバム『[HAPPY END PARADE〜tribute to はっぴいえんど〜](../Page/HAPPY_END_PARADE.md "wikilink")』(5月22日発売)に参加。
         同年にソロとして**[ハナレグミ](../Page/ハナレグミ.md "wikilink")**活動開始。10月2日にシングル「家族の風景」でデビュー。
-        [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")、[原田郁子](../Page/原田郁子.md "wikilink")、[オオヤユウスケとのユニット](../Page/Polaris_\(バンド\).md "wikilink")「[ohana](https://ja.wikipedia.org/wiki/ohana "wikilink")」を結成。
+        [2005年](../Page/2005年.md "wikilink")、[原田郁子](../Page/原田郁子.md "wikilink")、[オオヤユウスケとのユニット](../Page/Polaris_\(バンド\).md "wikilink")「[ohana](https://ja.wikipedia.org/wiki/ohana "wikilink")」を結成。
         [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink")、[冨田ラボ](https://ja.wikipedia.org/wiki/冨田ラボ "wikilink")などにゲスト・ボーカリスト参加。CMへの楽曲提供なども行っている。
         楽曲「真夜中のスーパー・フリーク」の歌詞は8割方、実母が書いたものを参考したと解散ライヴでメンバーに告白している。
         楽曲「オアシス」のMusicVideoに池田、TOMOHIKO（他、仲間ミュージシャン数名）が出演している。
   - [竹内朋康](../Page/竹内朋康.md "wikilink")（たけうち ともやす、[1973年](../Page/1973年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink") - 福井県出身）[ギター](../Page/ギター.md "wikilink")担当。
     リーダー。
-    池田、沢田とは中学からの同級生、また[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")の[藤田晋](https://ja.wikipedia.org/wiki/藤田晋 "wikilink")社長も その一人。
+    池田、沢田とは中学からの同級生、また[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")の[藤田晋](../Page/藤田晋.md "wikilink")社長も その一人。
       -
         2002年、バンドの活動休止後、[Mummy-D](../Page/Mummy-D.md "wikilink")とのユニット「[マボロシ](../Page/マボロシ.md "wikilink")」結成。
         解散後は、「竹内朋康 & The Laidbacks」、「[THE NEW BEADS](https://ja.wikipedia.org/wiki/THE_NEW_BEADS "wikilink")」、「[Dezille Brothers](https://ja.wikipedia.org/wiki/Dezille_Brothers "wikilink")」、「[Fiasco3](https://ja.wikipedia.org/wiki/Fiasco3 "wikilink")」など結成、参加。
@@ -52,8 +52,8 @@
         解散から数日後、一般女性と結婚披露宴を行う。余興にて、1ヶ月もしないうちにスピード再結成を果たしている\[1\]。
   - [池田貴史](../Page/レキシ.md "wikilink")（いけだ たかふみ、[1974年](../Page/1974年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - 福井県出身）[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。
     [いとうせいこう](../Page/いとうせいこう.md "wikilink")から「面白いミュージシャン3人衆の1人」と言わしめ、いとうの推薦で参加した「[しりとり竜王戦歌人戦](https://ja.wikipedia.org/wiki/虎の門#しりとり竜王戦 "wikilink")」では初出場ながらも決勝に進出した。
-    バンドの活動休止後、[2004年](../Page/2004年.md "wikilink")に[中村一義](https://ja.wikipedia.org/wiki/中村一義 "wikilink")らと共にバンド"[100s](../Page/100s.md "wikilink")"を結成。
-    SSTV「[熱血\!スペシャ中学](https://ja.wikipedia.org/wiki/熱血!スペシャ中学 "wikilink")」（放送終了）で共演した[スネオヘアー](../Page/スネオヘアー.md "wikilink")や[Jackson Vibeのプロデュース](https://ja.wikipedia.org/wiki/Jackson_Vibe "wikilink")、サポート参加している。
+    バンドの活動休止後、[2004年](../Page/2004年.md "wikilink")に[中村一義](../Page/中村一義.md "wikilink")らと共にバンド"[100s](../Page/100s.md "wikilink")"を結成。
+    SSTV「[熱血\!スペシャ中学](../Page/熱血!スペシャ中学.md "wikilink")」（放送終了）で共演した[スネオヘアー](../Page/スネオヘアー.md "wikilink")や[Jackson Vibeのプロデュース](https://ja.wikipedia.org/wiki/Jackson_Vibe "wikilink")、サポート参加している。
       -
         解散後、「[レキシ](../Page/レキシ.md "wikilink")」で[2007年](../Page/2007年.md "wikilink")にCDデビュー。
   - [TOMOHIKO](https://ja.wikipedia.org/wiki/TOMOHIKO "wikilink")（ともひこ、[1975年](../Page/1975年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink") - 本名/有本公彦　新潟県出身）[ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。
@@ -199,14 +199,14 @@
 </tr>
 <tr class="even">
 <td><p>10th</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/2005年" title="wikilink">2005年</a><a href="../Page/7月13日.md" title="wikilink">7月13日</a></p></td>
+<td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/7月13日.md" title="wikilink">7月13日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/サヨナラCOLOR" title="wikilink">サヨナラCOLOR / 明日へゆけ</a></strong></p></td>
 <td><p>TOCT-4893</p></td>
 <td><ol>
 <li>サヨナラCOLOR</li>
 <li>明日へゆけ</li>
 </ol></td>
-<td><p>映画「<a href="https://ja.wikipedia.org/wiki/サヨナラCOLOR_(映画)" title="wikilink">サヨナラCOLOR</a>」の主題歌。<br />
+<td><p>映画「<a href="../Page/サヨナラCOLOR_(映画).md" title="wikilink">サヨナラCOLOR</a>」の主題歌。<br />
 新曲『明日へゆけ』では活動休止中であるメンバーが久しぶりに集結し制作。<br />
 また初の初回DVD特典にてPVが収録されている。<br />
 オリコン最高23位</p></td>
@@ -497,7 +497,7 @@ TOBF-5611～12:通常盤</p></td>
 
 ### FEATURING
 
-  - [野宮真貴](https://ja.wikipedia.org/wiki/野宮真貴 "wikilink")
+  - [野宮真貴](../Page/野宮真貴.md "wikilink")
 
 <!-- end list -->
 
@@ -584,7 +584,7 @@ TOBF-5611～12:通常盤</p></td>
 
 ## その他・交友関係
 
-[竹中直人](../Page/竹中直人.md "wikilink")、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")、[中嶋朋子](https://ja.wikipedia.org/wiki/中嶋朋子 "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")、[椎名桔平](../Page/椎名桔平.md "wikilink")、[いとうせいこう](../Page/いとうせいこう.md "wikilink")、牧野百男（[福井県鯖江市市長](../Page/鯖江市.md "wikilink")）
+[竹中直人](../Page/竹中直人.md "wikilink")、[小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")、[中嶋朋子](../Page/中嶋朋子.md "wikilink")、[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")、[椎名桔平](../Page/椎名桔平.md "wikilink")、[いとうせいこう](../Page/いとうせいこう.md "wikilink")、牧野百男（[福井県鯖江市市長](../Page/鯖江市.md "wikilink")）
 
 ## 脚注
 

@@ -7,15 +7,15 @@
 
 これから後述のように日本で多くの派生語が誕生している。
 
-  - 警察官ではない[特別司法警察職員](https://ja.wikipedia.org/wiki/特別司法警察職員 "wikilink")・民間の[警備員](https://ja.wikipedia.org/wiki/警備員 "wikilink")。[麻薬Gメン](../Page/麻薬取締官.md "wikilink")、公害Gメン、[万引きGメン](https://ja.wikipedia.org/wiki/万引きGメン "wikilink")など。ただし民間警備員や地方採用の公務員などをGメン（正しくは単数形でGマン）と呼ぶのは、本来の意味（ガバメント・マン）から大きく外れる｡『日本では』民間の[ガードマンのことも](https://ja.wikipedia.org/wiki/警備員 "wikilink")、そのGを取ってGメンと呼ぶことがあるが、上記のように民間であれば役人のガバメント・マンではないことに加え、これは和製英語であって米国で警備員はsecurity guard(s), guard(s), watchman (-men), patrolman (-men) と呼ばれている\[1\]）から、適切とはいえない。
+  - 警察官ではない[特別司法警察職員](../Page/特別司法警察職員.md "wikilink")・民間の[警備員](../Page/警備員.md "wikilink")。[麻薬Gメン](../Page/麻薬取締官.md "wikilink")、公害Gメン、[万引きGメン](https://ja.wikipedia.org/wiki/万引きGメン "wikilink")など。ただし民間警備員や地方採用の公務員などをGメン（正しくは単数形でGマン）と呼ぶのは、本来の意味（ガバメント・マン）から大きく外れる｡『日本では』民間の[ガードマンのことも](../Page/警備員.md "wikilink")、そのGを取ってGメンと呼ぶことがあるが、上記のように民間であれば役人のガバメント・マンではないことに加え、これは和製英語であって米国で警備員はsecurity guard(s), guard(s), watchman (-men), patrolman (-men) と呼ばれている\[1\]）から、適切とはいえない。
   - アメリカ合衆国で[1952年](../Page/1952年.md "wikilink")に放送されたドラマシリーズ『[Gメン](https://ja.wikipedia.org/wiki/Gメン_\(テレビドラマ\) "wikilink")』。
-  - [東映](../Page/東映.md "wikilink")が製作し、[TBSで放映されたドラマシリーズ](../Page/TBSテレビ.md "wikilink")『[Gメン'75](https://ja.wikipedia.org/wiki/Gメン'75 "wikilink")』の略称。
-  - 東映映画『[にっぽんGメン](https://ja.wikipedia.org/wiki/にっぽんGメン "wikilink")』シリーズ（[片岡千恵蔵](https://ja.wikipedia.org/wiki/片岡千恵蔵 "wikilink")が主演）の通称。
+  - [東映](../Page/東映.md "wikilink")が製作し、[TBSで放映されたドラマシリーズ](../Page/TBSテレビ.md "wikilink")『[Gメン'75](../Page/Gメン'75.md "wikilink")』の略称。
+  - 東映映画『[にっぽんGメン](https://ja.wikipedia.org/wiki/にっぽんGメン "wikilink")』シリーズ（[片岡千恵蔵](../Page/片岡千恵蔵.md "wikilink")が主演）の通称。
   - 特撮番組『[宇宙Gメン](../Page/宇宙Gメン.md "wikilink")』
   - [ニッポン放送](../Page/ニッポン放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")、『[銀河に吠えろ\!宇宙GメンTAKUYA](https://ja.wikipedia.org/wiki/銀河に吠えろ!宇宙GメンTAKUYA "wikilink")』の通称または略称。
   - [ゲイ雑誌](../Page/ゲイ雑誌.md "wikilink")の『[G-men](../Page/G-men_\(雑誌\).md "wikilink")』。
-  - NFLチーム[ニューヨーク・ジャイアンツ](https://ja.wikipedia.org/wiki/ニューヨーク・ジャイアンツ "wikilink")の愛称。
-  - Valve社[ハーフライフ (ゲーム)に登場するキーパーソンG](https://ja.wikipedia.org/wiki/ハーフライフ_\(ゲーム\) "wikilink")-MAN
+  - NFLチーム[ニューヨーク・ジャイアンツ](../Page/ニューヨーク・ジャイアンツ.md "wikilink")の愛称。
+  - Valve社[ハーフライフ (ゲーム)に登場するキーパーソンG](../Page/ハーフライフ_\(ゲーム\).md "wikilink")-MAN
   - [週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")連載の[小沢としお](https://ja.wikipedia.org/wiki/小沢としお "wikilink")の漫画 『[Gメン](https://ja.wikipedia.org/wiki/Gメン_\(漫画\) "wikilink")』
 
 ## 脚注

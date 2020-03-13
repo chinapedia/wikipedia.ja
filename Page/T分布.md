@@ -4,13 +4,13 @@
 *t*検定}}  {\\Gamma (\\nu /2)2^{\\nu /2-1}}</math>
 
   - ただし、\(\nu >0\) の場合。
-  - \(K_{\nu} (x)\) は[ベッセル関数](https://ja.wikipedia.org/wiki/ベッセル関数 "wikilink")\[1\]
+  - \(K_{\nu} (x)\) は[ベッセル関数](../Page/ベッセル関数.md "wikilink")\[1\]
 
 }} [統計学](../Page/統計学.md "wikilink")および[確率論](../Page/確率論.md "wikilink")において、***t*分布**（ティーぶんぷ、または**スチューデントの*t*分布**、）は、[連続確率分布](../Page/連続確率分布.md "wikilink")の一つであり、[正規分布](https://ja.wikipedia.org/wiki/正規分布 "wikilink")する[母集団](../Page/母集団.md "wikilink")の平均と分散が未知で[標本サイズが小さい場合に](../Page/標本_\(統計学\).md "wikilink")[平均](../Page/平均.md "wikilink")を推定する問題に利用される。また、 2つの平均値の差の統計的[有意](../Page/有意.md "wikilink")性を検討する[t検定](https://ja.wikipedia.org/wiki/t検定 "wikilink")で利用される。*t*分布は、[一般化双曲型分布](https://ja.wikipedia.org/wiki/一般化双曲型分布 "wikilink")の特別なケースである。
 
 ***t*分布**は1908年に[ウィリアム・シーリー・ゴセットにより発表された](../Page/ウィリアム・ゴセット.md "wikilink")。当時の彼はビール醸造会社である[ギネスビール](https://ja.wikipedia.org/wiki/ギネスビール "wikilink")に雇用されており、[ギネスビール](https://ja.wikipedia.org/wiki/ギネスビール "wikilink")では秘密保持のため従業員による科学論文の公表を禁止していたので、彼はこの問題を回避するため「スチューデント」というペンネームを使用して論文を発表した\[2\]。
 
-その後、[ロナルド・フィッシャー](https://ja.wikipedia.org/wiki/ロナルド・フィッシャー "wikilink")がこの論文の重要性を見抜き**スチューデントの*t*分布**と呼んだため、このように呼ばれるようになった。
+その後、[ロナルド・フィッシャー](../Page/ロナルド・フィッシャー.md "wikilink")がこの論文の重要性を見抜き**スチューデントの*t*分布**と呼んだため、このように呼ばれるようになった。
 
 ## 導出
 
@@ -26,7 +26,7 @@
 
 ## 累積分布関数
 
-[累積分布関数](../Page/累積分布関数.md "wikilink")は、正則[不完全ベータ関数](https://ja.wikipedia.org/wiki/不完全ベータ関数 "wikilink")を用いて以下のように表される。
+[累積分布関数](../Page/累積分布関数.md "wikilink")は、正則[不完全ベータ関数](../Page/不完全ベータ関数.md "wikilink")を用いて以下のように表される。
 
 \[\int_{-\infty}^t f(u)\, du=I_x \left( \frac{\nu}{2} ,\frac{\nu}{2} \right) =\frac{B\left( x;\frac{\nu}{2} ,\frac{\nu}{2} \right)}{B\left( \frac{\nu}{2} ,\frac{\nu}{2} \right)}\] ただし、
 

@@ -1,7 +1,7 @@
 > この記事は[K \(\)](https://ja.wikipedia.org/wiki/K_\(\))から翻訳されています。
 
 
-**K**（ケイ、本名：カン・ユンソン（강윤성/姜潤成）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は、[韓国](../Page/大韓民国.md "wikilink")・[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")在住）の[J-POP](../Page/J-POP.md "wikilink")\[1\][シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")で、所属事務所は[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")である。
+**K**（ケイ、本名：カン・ユンソン（강윤성/姜潤成）、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は、[韓国](../Page/大韓民国.md "wikilink")・[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")（[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")在住）の[J-POP](../Page/J-POP.md "wikilink")\[1\][シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")で、所属事務所は[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")である。
 
 妻は[タレント](../Page/タレント.md "wikilink")の[関根麻里](../Page/関根麻里.md "wikilink")。義父は[タレント](../Page/タレント.md "wikilink")の[関根勤](../Page/関根勤.md "wikilink")。
 
@@ -10,9 +10,9 @@
   - 幼少の頃から、[ゴスペル](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")・[R\&Bといった](../Page/リズム・アンド・ブルース.md "wikilink")[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に親しみ、地元[ソウルの](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[教会](../Page/教会.md "wikilink")で続けていたピアノ演奏と歌唱力が音楽プロデューサーの目に留まり、本格的に音楽活動をスタートさせる。
   - [2004年](../Page/2004年.md "wikilink")
       - 韓国で歌手デビュー。その後、ピアノの弾き語りができるアーティストを探していた日本のスタッフにスカウトされ、同年秋、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での[J-POP](../Page/J-POP.md "wikilink")デビューに向けて初来日。
-  - [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")
+  - [2005年](../Page/2005年.md "wikilink")
       - [1月13日](../Page/1月13日.md "wikilink")：[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[H2〜君といた日々](../Page/H2〜君といた日々.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に抜擢された『over...』が発売前から話題を呼ぶ。
-      - [3月2日](../Page/3月2日.md "wikilink")：シングル『[over...](https://ja.wikipedia.org/wiki/over... "wikilink")』をリリース。日本デビューを果たす。[オリコン週間シングルチャートで](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、初登場6位を記録。直後には、[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[Young Guns](https://ja.wikipedia.org/wiki/ミュージックステーション#Young_Gunsに登場したアーティスト "wikilink")）」でテレビ初出演を果たし、最高位5位を記録するスマッシュヒットとなった。
+      - [3月2日](../Page/3月2日.md "wikilink")：シングル『[over...](https://ja.wikipedia.org/wiki/over... "wikilink")』をリリース。日本デビューを果たす。[オリコン週間シングルチャートで](../Page/オリコンチャート.md "wikilink")、初登場6位を記録。直後には、[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[Young Guns](https://ja.wikipedia.org/wiki/ミュージックステーション#Young_Gunsに登場したアーティスト "wikilink")）」でテレビ初出演を果たし、最高位5位を記録するスマッシュヒットとなった。
       - [5月11日](../Page/5月11日.md "wikilink")：2ndシングル『抱きしめたい』をリリース。このシングルも初登場10位を記録し、韓国の男性アーティストでは初となった2作連続TOP10入りを達成した。
       - [10月11日](../Page/10月11日.md "wikilink")：[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[1リットルの涙](../Page/1リットルの涙_\(テレビドラマ\).md "wikilink")』の主題歌に『Only Human』が起用された。
       - [11月23日](../Page/11月23日.md "wikilink")：4thシングル『Only Human』をリリース。オリコン週間シングルチャート10位内に初登場から7週連続チャートインのロングセールスを記録。最終的に20万枚を突破し、自身最大のヒットとなる。また、同ドラマの挿入歌である[レミオロメン](../Page/レミオロメン.md "wikilink")の「粉雪」も大ヒットし、1つのドラマの[タイアップ](../Page/タイアップ.md "wikilink")曲が2曲同時にオリコンシングルチャート10以内に入ったことで大きな話題となった。
@@ -498,7 +498,7 @@
 | 『ビタースウィート～オトナの交差点～』主題歌・TV CMソング |                                                                                                      |       |
 | あの雲の向こう側                        | ネスレショートフィルム『そちらの空は、どんな空ですか？』KIT MUSIC 第3弾主題歌                                                         | 2016年 |
 | 三重テレビ『伝統の継承～笑顔に逢いに～』オープニング曲     |                                                                                                      |       |
-| シャイン                            | テレビドラマ『[科捜研の女](https://ja.wikipedia.org/wiki/科捜研の女 "wikilink")』第16シーズン主題歌                            | 2017年 |
+| シャイン                            | テレビドラマ『[科捜研の女](../Page/科捜研の女.md "wikilink")』第16シーズン主題歌                                               | 2017年 |
 | Story                           | テレビ朝日系『[ワールドプロレスリング](../Page/ワールドプロレスリング.md "wikilink")』2017年12月・2018年1月ファイティングミュージック                |       |
 | 指輪物語                            | ジュエリーブランド「トレセンテ」ウェブCMソング                                                                             |       |
 | 光るソラ蒼く                          | 映画『[閉鎖病棟 -それぞれの朝-](https://ja.wikipedia.org/wiki/閉鎖病棟_Closed_Ward#映画_\(2019年版\) "wikilink")』主題歌\[4\] | 2019年 |

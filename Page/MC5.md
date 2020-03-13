@@ -14,7 +14,7 @@
 
 <!-- end list -->
 
-  - [フレッド・ソニック・スミス](https://ja.wikipedia.org/wiki/フレッド・ソニック・スミス "wikilink")（[リズムギター](../Page/リズムギター.md "wikilink")）… のちにソニックス・ランデヴー・バンドSonic's Rendezvous Bandを結成。2人目の妻は[パティ・スミス](https://ja.wikipedia.org/wiki/パティ・スミス "wikilink")。*1994年11月4日没*。
+  - [フレッド・ソニック・スミス](https://ja.wikipedia.org/wiki/フレッド・ソニック・スミス "wikilink")（[リズムギター](../Page/リズムギター.md "wikilink")）… のちにソニックス・ランデヴー・バンドSonic's Rendezvous Bandを結成。2人目の妻は[パティ・スミス](../Page/パティ・スミス.md "wikilink")。*1994年11月4日没*。
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 
 マネージャーのジョン・シンクレアはホワイトパンサー党の創設者として知られており、政治的姿勢も明確にし、[ヒッピー](../Page/ヒッピー.md "wikilink")のブームに浮かれる世情と真っ向から対立した。反政治的（反体制的?）な活動をしていたMC5は、1968年8月25日のシカゴのLincoln Parkで行われた“Festival of Life” において、悪名高いバンドとして警察からコンサートを中止させられそうになった。コンサートはそのまま続行されたが、終了後シカゴより逃げるようにデトロイトに帰ったという。当時のMC5は危険なバンドとして[FBIにもマークをされていたといわれる](../Page/連邦捜査局.md "wikilink")。
 
-また子供に悪影響を及ぼす等の理由によりしばしば、レコード店より販売の拒否、またはレコードの撤去をされたという事実もある。MC5は当時のデトロイトの大衆紙の1ページ全面で大々的に大手ハドソン・デパートを皮肉り 「KICK OUT OF THE JAMS, MOTHERFUCKER\! and kick in door if the store won’t sell you the album FUCK HUDSON'S\!」とレコードレーベルの[エレクトラ・レコード](https://ja.wikipedia.org/wiki/エレクトラ・レコード "wikilink")のロゴマークと共に書き込んだ。激怒したハドソン側がエレクトラのレコードを全て撤去、販売を中止したという事件もある。多大な被害を受けたのは所属レコード会社・エレクトラであった。
+また子供に悪影響を及ぼす等の理由によりしばしば、レコード店より販売の拒否、またはレコードの撤去をされたという事実もある。MC5は当時のデトロイトの大衆紙の1ページ全面で大々的に大手ハドソン・デパートを皮肉り 「KICK OUT OF THE JAMS, MOTHERFUCKER\! and kick in door if the store won’t sell you the album FUCK HUDSON'S\!」とレコードレーベルの[エレクトラ・レコード](../Page/エレクトラ・レコード.md "wikilink")のロゴマークと共に書き込んだ。激怒したハドソン側がエレクトラのレコードを全て撤去、販売を中止したという事件もある。多大な被害を受けたのは所属レコード会社・エレクトラであった。
 
 1972年に解散したが、2002年に再結成。再結成後は死去した二人のメンバーを除いた3人のラストネームのイニシャルを取りDTK/MC5（Michel Davis,Dennis Thompson,Wayne Kramer)という名前で活動している。ボーカルにはその時々に、[マッドハニー](https://ja.wikipedia.org/wiki/マッドハニー "wikilink")のマーク・アームや、元[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")のギルビー・クラーク、ベルレイズのリサ・ケカウラ等をゲストボーカルに呼んでいる。また、同年USA VH1のTVプログラム「MC5: Sonic Revolution 2004」でも放送された様に、現在はメンバーはバンド活動の他にプロデューサー活動も行っている。
 
@@ -52,7 +52,7 @@
 
 <!-- end list -->
 
-  - 最初の活動時は決して大きな商業的成功を収めなかったが、後の[ハードロック](../Page/ハードロック.md "wikilink")、[パンク・ロック](../Page/パンク・ロック.md "wikilink")の始祖として高いリスペクトを得るようになった。2枚目のアルバム『Back In The USA』内の曲『LOOKING AT YOU』をカバーした[ダムド](../Page/ダムド.md "wikilink")をはじめ、[モーターヘッド](https://ja.wikipedia.org/wiki/モーターヘッド "wikilink")、[ヘラコプターズ](../Page/ヘラコプターズ.md "wikilink")等に多大な影響を与えている。同じデトロイト出身の[ジャック・ホワイト](https://ja.wikipedia.org/wiki/ジャック・ホワイト "wikilink")（[ザ・ホワイト・ストライプス](https://ja.wikipedia.org/wiki/ザ・ホワイト・ストライプス "wikilink")等）は「幼少の頃はMC5の音楽で育った」と語っている（ザ・ホワイト・ストライプスとして『LOOKING AT YOU』のカバーも行っている）。
+  - 最初の活動時は決して大きな商業的成功を収めなかったが、後の[ハードロック](../Page/ハードロック.md "wikilink")、[パンク・ロック](../Page/パンク・ロック.md "wikilink")の始祖として高いリスペクトを得るようになった。2枚目のアルバム『Back In The USA』内の曲『LOOKING AT YOU』をカバーした[ダムド](../Page/ダムド.md "wikilink")をはじめ、[モーターヘッド](../Page/モーターヘッド.md "wikilink")、[ヘラコプターズ](../Page/ヘラコプターズ.md "wikilink")等に多大な影響を与えている。同じデトロイト出身の[ジャック・ホワイト](https://ja.wikipedia.org/wiki/ジャック・ホワイト "wikilink")（[ザ・ホワイト・ストライプス](../Page/ザ・ホワイト・ストライプス.md "wikilink")等）は「幼少の頃はMC5の音楽で育った」と語っている（ザ・ホワイト・ストライプスとして『LOOKING AT YOU』のカバーも行っている）。
 
 ## ディスコグラフィー
 
@@ -73,4 +73,4 @@
 
 [Category:アメリカ合衆国のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のハードロック・バンド "wikilink") [Category:アメリカ合衆国のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のパンク・ロック・バンド "wikilink") [Category:ガレージロック・バンド](https://ja.wikipedia.org/wiki/Category:ガレージロック・バンド "wikilink") [Category:ワーナー・ミュージック・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナー・ミュージック・グループのアーティスト "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:ミシガン州のミュージシャン](https://ja.wikipedia.org/wiki/Category:ミシガン州のミュージシャン "wikilink") [Category:1964年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1964年に結成した音楽グループ "wikilink") [Category:1972年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1972年に解散した音楽グループ "wikilink") [Category:2003年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に再結成した音楽グループ "wikilink")
 
-1.  [ジョイ・ディヴィジョン](https://ja.wikipedia.org/wiki/ジョイ・ディヴィジョン "wikilink")から発展した[同名バンドとは別](../Page/ニュー・オーダー.md "wikilink")
+1.  [ジョイ・ディヴィジョン](../Page/ジョイ・ディヴィジョン.md "wikilink")から発展した[同名バンドとは別](../Page/ニュー・オーダー.md "wikilink")

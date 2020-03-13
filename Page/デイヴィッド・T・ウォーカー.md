@@ -29,7 +29,7 @@
 
   - SIDEWALK（[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")）
   - GOING UP\!（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")）
-  - PLUM HAPPY（[1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")）
+  - PLUM HAPPY（[1970年](../Page/1970年.md "wikilink")）
   - DAVID T.WALKER（[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")）
   - PRESS ON（[1973年](../Page/1973年.md "wikilink")）
   - ON LOVE（[1976年](../Page/1976年.md "wikilink")）

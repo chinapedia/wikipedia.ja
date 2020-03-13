@@ -77,7 +77,7 @@
     1.  JUST TRY IT\[1:15\]
           -
             作詞：MOE／作曲・編曲：SOFTBALL
-            [ヘンケルライオンコスメティックス企業CMソング](https://ja.wikipedia.org/wiki/シュワルツコフヘンケル "wikilink")
+            [ヘンケルライオンコスメティックス企業CMソング](../Page/シュワルツコフヘンケル.md "wikilink")
     2.  SESAME STREET THEME\[0:49\]
           -
             作詞・作曲：JOSEPH G RAPOSO・BRUCE HART・JON STONE／編曲：SOFTBALL

@@ -1,7 +1,7 @@
 > この記事は[  Perfect Memento in Strict Sense.](https://ja.wikipedia.org/wiki/__Perfect_Memento_in_Strict_Sense.)から翻訳されています。
 
 
-『**東方求聞史紀 〜 Perfect Memento in Strict Sense.**』（とうほうぐもんしき）は、[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")から刊行された[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")の[設定資料集](https://ja.wikipedia.org/wiki/設定資料集 "wikilink")である。著者は[ZUN](https://ja.wikipedia.org/wiki/ZUN_\(ゲームクリエイター\) "wikilink")。[カバーイラスト担当は](https://ja.wikipedia.org/wiki/ブックカバー "wikilink")[唖采弦二](https://ja.wikipedia.org/wiki/唖采弦二 "wikilink")。挿絵は唖采弦二、[つくりものじ](https://ja.wikipedia.org/wiki/つくりものじ "wikilink")、[秋★枝](https://ja.wikipedia.org/wiki/秋★枝 "wikilink")、[TOKIAME](https://ja.wikipedia.org/wiki/TOKIAME "wikilink")、[神馬耶樹](https://ja.wikipedia.org/wiki/神馬耶樹 "wikilink")、[病らが担当している](https://ja.wikipedia.org/wiki/病_\(イラストレーター\) "wikilink")。
+『**東方求聞史紀 〜 Perfect Memento in Strict Sense.**』（とうほうぐもんしき）は、[一迅社](../Page/一迅社.md "wikilink")から刊行された[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")の[設定資料集](https://ja.wikipedia.org/wiki/設定資料集 "wikilink")である。著者は[ZUN](https://ja.wikipedia.org/wiki/ZUN_\(ゲームクリエイター\) "wikilink")。[カバーイラスト担当は](../Page/ブックカバー.md "wikilink")[唖采弦二](https://ja.wikipedia.org/wiki/唖采弦二 "wikilink")。挿絵は唖采弦二、[つくりものじ](https://ja.wikipedia.org/wiki/つくりものじ "wikilink")、[秋★枝](https://ja.wikipedia.org/wiki/秋★枝 "wikilink")、[TOKIAME](https://ja.wikipedia.org/wiki/TOKIAME "wikilink")、[神馬耶樹](https://ja.wikipedia.org/wiki/神馬耶樹 "wikilink")、[病らが担当している](https://ja.wikipedia.org/wiki/病_\(イラストレーター\) "wikilink")。
 
 東方Projectの舞台となる世界である[幻想郷](../Page/幻想郷.md "wikilink")に住む稗田阿求という人物が編集した本「幻想郷縁起」が全文掲載されている、という設定で書かれている。
 

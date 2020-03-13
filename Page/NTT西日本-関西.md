@@ -13,7 +13,7 @@
 ## 担当地域
 
   - [大阪府](../Page/大阪府.md "wikilink")全域
-      - （※[三島郡](https://ja.wikipedia.org/wiki/三島郡_\(大阪府\) "wikilink")[島本町](https://ja.wikipedia.org/wiki/島本町 "wikilink")、[四條畷市](../Page/四條畷市.md "wikilink")田原台・緑風台・さつきヶ丘・下田原の全域と上田原の一部、[東大阪市](../Page/東大阪市.md "wikilink")[生駒山](https://ja.wikipedia.org/wiki/生駒山 "wikilink")上を除く）
+      - （※[三島郡](https://ja.wikipedia.org/wiki/三島郡_\(大阪府\) "wikilink")[島本町](https://ja.wikipedia.org/wiki/島本町 "wikilink")、[四條畷市](../Page/四條畷市.md "wikilink")田原台・緑風台・さつきヶ丘・下田原の全域と上田原の一部、[東大阪市](../Page/東大阪市.md "wikilink")[生駒山](../Page/生駒山.md "wikilink")上を除く）
   - [和歌山県](../Page/和歌山県.md "wikilink")全域
 
 <!-- end list -->
@@ -26,10 +26,10 @@
           - [御所市](../Page/御所市.md "wikilink")[金剛山](../Page/金剛山_\(金剛山地\).md "wikilink")
           - [吉野郡](../Page/吉野郡.md "wikilink")[十津川村](../Page/十津川村.md "wikilink")[竹筒](https://ja.wikipedia.org/wiki/竹筒_\(十津川村\) "wikilink")（たけとう）・[七色](https://ja.wikipedia.org/wiki/七色_\(十津川村\) "wikilink")
       - [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")
-          - [南牟婁郡](../Page/南牟婁郡.md "wikilink")[紀宝町](https://ja.wikipedia.org/wiki/紀宝町 "wikilink")
+          - [南牟婁郡](../Page/南牟婁郡.md "wikilink")[紀宝町](../Page/紀宝町.md "wikilink")
       - [兵庫県](../Page/兵庫県.md "wikilink")
           - [川西市](https://ja.wikipedia.org/wiki/川西市 "wikilink")黒川・国崎
-          - ※[市外局番](../Page/市外局番.md "wikilink")が「06」または「072」でも収容局が兵庫県にある場合は基本的に[NTT西日本-兵庫](https://ja.wikipedia.org/wiki/NTT西日本-兵庫 "wikilink")の管轄であったが、川西市黒川地区は収容局が大阪府[豊能郡](../Page/豊能郡.md "wikilink")[豊能町](../Page/豊能町.md "wikilink")[ときわ台にあるため例外でNTT西日本](../Page/ときわ台駅_\(大阪府\).md "wikilink")-関西の管轄であった。
+          - ※[市外局番](../Page/市外局番.md "wikilink")が「06」または「072」でも収容局が兵庫県にある場合は基本的に[NTT西日本-兵庫](../Page/NTT西日本-兵庫.md "wikilink")の管轄であったが、川西市黒川地区は収容局が大阪府[豊能郡](../Page/豊能郡.md "wikilink")[豊能町](../Page/豊能町.md "wikilink")[ときわ台にあるため例外でNTT西日本](../Page/ときわ台駅_\(大阪府\).md "wikilink")-関西の管轄であった。
 
 ## スポーツ活動
 
@@ -42,7 +42,7 @@
   - [NTT西日本-北陸](https://ja.wikipedia.org/wiki/NTT西日本-北陸 "wikilink")（金沢市）
   - [NTT西日本-東海](../Page/NTT西日本-東海.md "wikilink")（名古屋市中区）
   - [NTT西日本-みやこ](../Page/NTT西日本-みやこ.md "wikilink")（京都市中京区）
-  - [NTT西日本-兵庫](https://ja.wikipedia.org/wiki/NTT西日本-兵庫 "wikilink")（神戸市中央区）
+  - [NTT西日本-兵庫](../Page/NTT西日本-兵庫.md "wikilink")（神戸市中央区）
   - [NTT西日本-中国](../Page/NTT西日本-中国.md "wikilink")（広島市中区）
   - [NTT西日本-四国](../Page/NTT西日本-四国.md "wikilink")（松山市）
   - [NTT西日本-九州](../Page/NTT西日本-九州.md "wikilink")（福岡市博多区）

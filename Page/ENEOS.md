@@ -11,7 +11,7 @@
 
 その後、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")には新日本石油（旧・日石三菱）と[ジャパンエナジー](../Page/ジャパンエナジー.md "wikilink")が合併することとなった。そして、JXエネルギーとなった際には、新日本石油側のエネオスが、ジャパンエナジーのJOMOを統合する形となった。
 
-[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[東燃ゼネラル石油](../Page/東燃ゼネラル石油.md "wikilink")を合併した際には、エネオス、[エッソ](https://ja.wikipedia.org/wiki/エッソ "wikilink")、[モービル](../Page/モービル_\(ブランド\).md "wikilink")、ゼネラルのひとつに集約するとしている\[1\]。その後、同年[9月5日](../Page/9月5日.md "wikilink")に傘下のエッソ、モービル、ゼネラルを2019年7月までに統合しエネオスに統一すると発表した\[2\]\[3\]。 [Enejet_tenjingawa.jpg](https://ja.wikipedia.org/wiki/File:Enejet_tenjingawa.jpg "fig:Enejet_tenjingawa.jpg")運営・旧エッソ）\]\]
+[2017年](../Page/2017年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[東燃ゼネラル石油](../Page/東燃ゼネラル石油.md "wikilink")を合併した際には、エネオス、[エッソ](../Page/エッソ.md "wikilink")、[モービル](../Page/モービル_\(ブランド\).md "wikilink")、ゼネラルのひとつに集約するとしている\[1\]。その後、同年[9月5日](../Page/9月5日.md "wikilink")に傘下のエッソ、モービル、ゼネラルを2019年7月までに統合しエネオスに統一すると発表した\[2\]\[3\]。 [Enejet_tenjingawa.jpg](https://ja.wikipedia.org/wiki/File:Enejet_tenjingawa.jpg "fig:Enejet_tenjingawa.jpg")運営・旧エッソ）\]\]
 
 ## 統合したブランド
 
@@ -33,11 +33,11 @@
 
 旧：東燃ゼネラル石油との統合に伴い、2019年6月30日までエッソ・モービル・ゼネラルから転換したENEOSのSSでは利用ができないものもある\[6\]。
 
-  - エネオスカード（TS3カード・[NICOS](https://ja.wikipedia.org/wiki/NICOS "wikilink")カード）
+  - エネオスカード（TS3カード・[NICOS](../Page/NICOS.md "wikilink")カード）
   - シナジーカード（NICOSカード・[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")カード）
-  - [Tカード](https://ja.wikipedia.org/wiki/Tポイント "wikilink")
-  - [ビューカード](https://ja.wikipedia.org/wiki/ビューカード "wikilink")
-  - [TS CUBICカード](https://ja.wikipedia.org/wiki/TS_CUBICカード "wikilink")
+  - [Tカード](../Page/Tポイント.md "wikilink")
+  - [ビューカード](../Page/ビューカード.md "wikilink")
+  - [TS CUBICカード](../Page/TS_CUBICカード.md "wikilink")
   - [ANAカード](../Page/ANAカード.md "wikilink")
   - [JALカード](../Page/JALカード.md "wikilink")
   - レクサスカード
@@ -55,10 +55,10 @@
       - [新日本石油](https://ja.wikipedia.org/wiki/新日本石油 "wikilink")
   - [JXTGホールディングス](https://ja.wikipedia.org/wiki/JXTGホールディングス "wikilink")
   - [JXTGグループ](../Page/JXTGグループ.md "wikilink")
-  - [エッソ](https://ja.wikipedia.org/wiki/エッソ "wikilink")
+  - [エッソ](../Page/エッソ.md "wikilink")
   - [モービル](../Page/モービル_\(ブランド\).md "wikilink")
   - [EneJet](../Page/EneJet.md "wikilink")
-  - [Tポイント](https://ja.wikipedia.org/wiki/Tポイント "wikilink")
+  - [Tポイント](../Page/Tポイント.md "wikilink")
   - [Dr.Drive](https://ja.wikipedia.org/wiki/Dr.Drive "wikilink")
 
 ## 外部リンク

@@ -66,7 +66,7 @@
   - 仙台支店／仙台カスタマーセンター　〒980-0811 [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")青葉区一番町二丁目7番12号　グリーンウッド仙台一番町ビル
   - 名古屋支店／名古屋カスタマーセンター　〒456-0062 [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")熱田区大宝三丁目2番11号　愛三ビル大宝
   - 大阪支社／大阪カスタマーセンター　〒534-0024 [大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")都島区東野田町一丁目7番4号　脇田・住友生命京橋第2ビル
-  - 福岡支店　〒812-0011 [福岡県](https://ja.wikipedia.org/wiki/福岡県 "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")博多区博多駅前四丁目2番1号　ザイマックス博多駅前ビル
+  - 福岡支店　〒812-0011 [福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")博多区博多駅前四丁目2番1号　ザイマックス博多駅前ビル
 
 ## 脚注
 

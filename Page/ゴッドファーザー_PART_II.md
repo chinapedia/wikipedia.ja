@@ -1,7 +1,7 @@
 > この記事は[ PART II](https://ja.wikipedia.org/wiki/_PART_II)から翻訳されています。
 
 
-『**ゴッドファーザー PART II**』（ゴッドファーザー パート ツー、原題: ** ）は、[1974年に公開された](../Page/1974年の映画.md "wikilink")[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ合衆国の映画 "wikilink")。監督は[フランシス・フォード・コッポラ](https://ja.wikipedia.org/wiki/フランシス・フォード・コッポラ "wikilink")。脚本はコッポラと[マリオ・プーゾ](../Page/マリオ・プーゾ.md "wikilink")の合作。[PG12指定](../Page/映画のレイティングシステム.md "wikilink")。
+『**ゴッドファーザー PART II**』（ゴッドファーザー パート ツー、原題: ** ）は、[1974年に公開された](../Page/1974年の映画.md "wikilink")[アメリカ映画](../Page/アメリカ合衆国の映画.md "wikilink")。監督は[フランシス・フォード・コッポラ](../Page/フランシス・フォード・コッポラ.md "wikilink")。脚本はコッポラと[マリオ・プーゾ](../Page/マリオ・プーゾ.md "wikilink")の合作。[PG12指定](../Page/映画のレイティングシステム.md "wikilink")。
 
 『[ゴッドファーザー](../Page/ゴッドファーザー_\(映画\).md "wikilink")』の続編だが、物語の時系列はやや複雑で、前作の後日談であると共に前日談に相当する。第一作でコルレオーネ・ファミリーを継承した[マイケル・コルレオーネ](https://ja.wikipedia.org/wiki/マイケル・コルレオーネ "wikilink")のその後を語ると同時に、若かりし頃の[ヴィトー・コルレオーネ](https://ja.wikipedia.org/wiki/ヴィトー・コルレオーネ "wikilink")が力を手にして浮上していく様を丁寧に描き出す。
 
@@ -9,9 +9,9 @@
 
 [1972年](../Page/1972年.md "wikilink")に公開された『[ゴッドファーザー](../Page/ゴッドファーザー_\(映画\).md "wikilink")』の続編。原作となった[マリオ・プーゾ](../Page/マリオ・プーゾ.md "wikilink")の小説の中から、前作では描けなかった父[ヴィトー・コルレオーネ](https://ja.wikipedia.org/wiki/ヴィトー・コルレオーネ "wikilink")の青年時代と、息子[マイケル・コルレオーネ](https://ja.wikipedia.org/wiki/マイケル・コルレオーネ "wikilink")のその後という二つの異なった時代の物語を平行させながら描いている。
 
-[パラマウント映画](https://ja.wikipedia.org/wiki/パラマウント映画 "wikilink")は『ゴッドファーザー』が公開される数か月前から続編の製作を検討していた。1971年8月、ちょうどコッポラが[シチリア](https://ja.wikipedia.org/wiki/シチリア "wikilink")島のロケを終えた頃、続編の脚本執筆にゴーサインが出され、パラマウントはマリオ・プーゾと契約を交わした。コッポラは『ゴッドファーザー』公開から1か月後の1972年4月、続編の監督には興味がないと表明し、関係者を驚かせた。パラマウントはコッポラに対し製作に関するほぼ全面的な決定権、事実上無制限の予算などを約束し、彼を説き伏せた。コッポラは監督兼プロデューサーとして契約書にサインをし、前回同様、プーゾと脚本を共同執筆した\[1\]。
+[パラマウント映画](../Page/パラマウント映画.md "wikilink")は『ゴッドファーザー』が公開される数か月前から続編の製作を検討していた。1971年8月、ちょうどコッポラが[シチリア](https://ja.wikipedia.org/wiki/シチリア "wikilink")島のロケを終えた頃、続編の脚本執筆にゴーサインが出され、パラマウントはマリオ・プーゾと契約を交わした。コッポラは『ゴッドファーザー』公開から1か月後の1972年4月、続編の監督には興味がないと表明し、関係者を驚かせた。パラマウントはコッポラに対し製作に関するほぼ全面的な決定権、事実上無制限の予算などを約束し、彼を説き伏せた。コッポラは監督兼プロデューサーとして契約書にサインをし、前回同様、プーゾと脚本を共同執筆した\[1\]。
 
-映画は[1973年](../Page/1973年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1974年](../Page/1974年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")の間に撮影された。1974年[12月12日](../Page/12月12日.md "wikilink")に全米で公開され、興行的に成功を収めた。批評家たちからも前作に勝るとも劣らない傑作であると絶賛された。同年度のアカデミー賞では[作品賞を含む](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")9部門（そのうち[助演男優賞部門では](https://ja.wikipedia.org/wiki/アカデミー助演男優賞 "wikilink")3人が候補になった）でノミネートされ、そのうち作品賞・[監督賞](../Page/アカデミー監督賞.md "wikilink")・助演男優賞・[脚色賞](https://ja.wikipedia.org/wiki/アカデミー脚色賞 "wikilink")・[作曲賞](../Page/アカデミー作曲賞.md "wikilink")・[美術賞を受賞した](../Page/アカデミー美術賞.md "wikilink")。アカデミー作品賞を受賞した映画の続編が再び作品賞を受賞したのは、現在に至るまでアカデミー賞史上唯一の快挙である。
+映画は[1973年](../Page/1973年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1974年](../Page/1974年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")の間に撮影された。1974年[12月12日](../Page/12月12日.md "wikilink")に全米で公開され、興行的に成功を収めた。批評家たちからも前作に勝るとも劣らない傑作であると絶賛された。同年度のアカデミー賞では[作品賞を含む](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")9部門（そのうち[助演男優賞部門では](../Page/アカデミー助演男優賞.md "wikilink")3人が候補になった）でノミネートされ、そのうち作品賞・[監督賞](../Page/アカデミー監督賞.md "wikilink")・助演男優賞・[脚色賞](../Page/アカデミー脚色賞.md "wikilink")・[作曲賞](../Page/アカデミー作曲賞.md "wikilink")・[美術賞を受賞した](../Page/アカデミー美術賞.md "wikilink")。アカデミー作品賞を受賞した映画の続編が再び作品賞を受賞したのは、現在に至るまでアカデミー賞史上唯一の快挙である。
 
 [1993年](../Page/1993年.md "wikilink")には[アメリカ国立フィルム登録簿](https://ja.wikipedia.org/wiki/アメリカ国立フィルム登録簿 "wikilink")の保管作品に選ばれた。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[アメリカ映画協会](https://ja.wikipedia.org/wiki/アメリカ映画協会 "wikilink")が選んだ映画ベスト100中第32位、[2007年](../Page/2007年.md "wikilink")に更新されたリストでは同じくベスト100中第32位にランクインした。
 
@@ -19,7 +19,7 @@
 
 ## ストーリー
 
-この映画では、二つの物語が同時進行で語られる。一つ目の物語の舞台は[1958年](../Page/1958年.md "wikilink")から[1959年](../Page/1959年.md "wikilink")で、前作『[ゴッドファーザー](https://ja.wikipedia.org/wiki/ゴッドファーザー "wikilink")』に続く[マイケル・コルレオーネ](https://ja.wikipedia.org/wiki/マイケル・コルレオーネ "wikilink")の姿が描かれる。もう一方の物語は[1901年](../Page/1901年.md "wikilink")から[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")までの、マイケルの父[ヴィトー・コルレオーネ](https://ja.wikipedia.org/wiki/ヴィトー・コルレオーネ "wikilink")の在りし日の姿を描く。幼い頃にニューヨークに渡りコルレオーネ・ファミリーを築いていくヴィトーの物語が、現在のファミリーを守るために戦うマイケルの物語と交錯（[クロスカッティング](https://ja.wikipedia.org/wiki/クロスカッティング "wikilink")）する。
+この映画では、二つの物語が同時進行で語られる。一つ目の物語の舞台は[1958年](../Page/1958年.md "wikilink")から[1959年](../Page/1959年.md "wikilink")で、前作『[ゴッドファーザー](../Page/ゴッドファーザー.md "wikilink")』に続く[マイケル・コルレオーネ](https://ja.wikipedia.org/wiki/マイケル・コルレオーネ "wikilink")の姿が描かれる。もう一方の物語は[1901年](../Page/1901年.md "wikilink")から[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")までの、マイケルの父[ヴィトー・コルレオーネ](https://ja.wikipedia.org/wiki/ヴィトー・コルレオーネ "wikilink")の在りし日の姿を描く。幼い頃にニューヨークに渡りコルレオーネ・ファミリーを築いていくヴィトーの物語が、現在のファミリーを守るために戦うマイケルの物語と交錯（[クロスカッティング](../Page/クロスカッティング.md "wikilink")）する。
 
 ### マイケルのパート
 
@@ -58,10 +58,10 @@
 ### コルレオーネ・ファミリー
 
   - [ドン・ヴィトー・コルレオーネ](https://ja.wikipedia.org/wiki/ヴィトー・コルレオーネ "wikilink")
-    演 - [ロバート・デ・ニーロ](https://ja.wikipedia.org/wiki/ロバート・デ・ニーロ "wikilink")
+    演 - [ロバート・デ・ニーロ](../Page/ロバート・デ・ニーロ.md "wikilink")
     9歳の時に両親と兄を地元のボスであるドン・チッチオに殺害され、命からがらニューヨークに逃亡してくる。当初はリトル・イタリーの食料品店で働く一介の店員であったが、嫌われ者である恐喝屋のドン・ファヌッチを殺害して周囲の信頼を獲得し、友であるクレメンザとテッシオと共にマフィアのボスとしてのし上がっていく。
   - [マイケル・コルレオーネ](https://ja.wikipedia.org/wiki/マイケル・コルレオーネ "wikilink")
-    演 - [アル・パチーノ](https://ja.wikipedia.org/wiki/アル・パチーノ "wikilink")
+    演 - [アル・パチーノ](../Page/アル・パチーノ.md "wikilink")
     ヴィトーの三男でありコルレオーネファミリーのボス。ユダヤ人のボスであり、父の盟友であったハイマン・ロスやフランク・ペンタンジェリと暗闘を繰り広げる。ファミリーを守るためには手段を選ばす、立ちはだかる敵を冷徹かつ徹底的に排除していくが、その過程で人間性を喪失し、冷酷な人物に変貌していく。
   - フレド・コルレオーネ
     演 - [ジョン・カザール](../Page/ジョン・カザール.md "wikilink")
@@ -82,7 +82,7 @@
     演 - ジェームス・ゴナリス
     マイケルとケイの長男。伯父であるフレドとは釣り仲間であり、非常に仲が良い
   - メアリー・コルレオーネ
-    演 - [ソフィア・コッポラ](https://ja.wikipedia.org/wiki/ソフィア・コッポラ "wikilink")
+    演 - [ソフィア・コッポラ](../Page/ソフィア・コッポラ.md "wikilink")
     マイケルとケイの長女。
   - ソニー・コルレオーネ
     演 - [ジェームズ・カーン](../Page/ジェームズ・カーン.md "wikilink")
@@ -121,7 +121,7 @@
 ### コルレオーネ・ファミリーの敵
 
   - ハイマン・ロス
-    演 - [リー・ストラスバーグ](https://ja.wikipedia.org/wiki/リー・ストラスバーグ "wikilink")（若年期：ジョン・メグナ）
+    演 - [リー・ストラスバーグ](../Page/リー・ストラスバーグ.md "wikilink")（若年期：ジョン・メグナ）
     本名はハイマン・スチャウスキー。マイアミを根拠地とするユダヤ人のボス。ヴィトーやモー・グリーンとはかつての仕事仲間であり、禁酒法時代に糖蜜をカナダへ輸送して財を築いた。バティスタ政権下でのキューバに巨大な権益を持っており、マイケルとの協力関係を築こうとするが、実は目をかけていたグリーンを殺害されたことを恨んでおり、様々な手段を用いてマイケルを窮地に陥れようとする。最後はイスラエルへの亡命を拒否され、衆人環視の中ロッコにマイアミの空港で射殺される。若い頃は自動車の修理工を務めており、クレメンザがヴィトーに彼を引き合わせ、実在のマフィアである[アーノルド・ロススタイン](../Page/アーノルド・ロススタイン.md "wikilink")にちなんで名字を変えるシーンが存在する（本編では削除されている）。モデルは実在のマフィアである[マイヤー・ランスキー](../Page/マイヤー・ランスキー.md "wikilink")。
   - ジョニー・オーラ
     演 - ドミニク・チアニーゼ
@@ -159,35 +159,35 @@
 
 ## 日本語吹き替え
 
-| 役名                                                                     | 日本テレビ版                                                    | DVD版                                                         | Blu-ray版                                                |
-| ---------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
-| [ドン・マイケル・コルレオーネ](https://ja.wikipedia.org/wiki/マイケル・コルレオーネ "wikilink") | [野沢那智](../Page/野沢那智.md "wikilink")                        | [山路和弘](https://ja.wikipedia.org/wiki/山路和弘 "wikilink")        | [森川智之](https://ja.wikipedia.org/wiki/森川智之 "wikilink")   |
-| トム・ヘイゲン                                                                | [森川公也](https://ja.wikipedia.org/wiki/森川公也 "wikilink")     | [田原アルノ](https://ja.wikipedia.org/wiki/田原アルノ "wikilink")      |                                                         |
-| ケイ・アダムス・コルレオーネ                                                         | [鈴木弘子](../Page/鈴木弘子.md "wikilink")                        | [山像かおり](https://ja.wikipedia.org/wiki/山像かおり "wikilink")      |                                                         |
-| [ヴィトー・コルレオーネ](https://ja.wikipedia.org/wiki/ヴィトー・コルレオーネ "wikilink")    | [青野武](../Page/青野武.md "wikilink")                          | [山野井仁](https://ja.wikipedia.org/wiki/山野井仁 "wikilink")        |                                                         |
-| フレド・コルレオーネ                                                             | [大塚国夫](https://ja.wikipedia.org/wiki/大塚国夫 "wikilink")     | [牛山茂](https://ja.wikipedia.org/wiki/牛山茂 "wikilink")          |                                                         |
-| コニー・コルレオーネ                                                             | [小谷野美智子](https://ja.wikipedia.org/wiki/小谷野美智子 "wikilink") | [渡辺美佐](https://ja.wikipedia.org/wiki/渡辺美佐_\(声優\) "wikilink") | [斉藤恵理](https://ja.wikipedia.org/wiki/斉藤恵理 "wikilink")   |
-| ハイマン・ロス                                                                | [宮内幸平](https://ja.wikipedia.org/wiki/宮内幸平 "wikilink")     | [大木民夫](https://ja.wikipedia.org/wiki/大木民夫 "wikilink")        | [稲垣隆史](../Page/稲垣隆史.md "wikilink")                      |
-| フランク・ペンタンジェリ                                                           | [雨森雅司](https://ja.wikipedia.org/wiki/雨森雅司 "wikilink")     | [藤本譲](https://ja.wikipedia.org/wiki/藤本譲 "wikilink")          |                                                         |
-| パット・ギアリー上院議員                                                           | [内田稔](../Page/内田稔.md "wikilink")                          | [佐々木敏](https://ja.wikipedia.org/wiki/佐々木敏 "wikilink")        | [水野龍司](https://ja.wikipedia.org/wiki/水野龍司 "wikilink")   |
-| ママ・コルレオーネ                                                              | [沼波輝枝](../Page/沼波輝枝.md "wikilink")                        | [竹口安芸子](https://ja.wikipedia.org/wiki/竹口安芸子 "wikilink")      | [新田万紀子](../Page/新田万紀子.md "wikilink")                    |
-| ディアナ・コルレオーネ                                                            | [弥永和子](https://ja.wikipedia.org/wiki/弥永和子 "wikilink")     | [金野恵子](../Page/金野恵子.md "wikilink")                           |                                                         |
-| ソニー・コルレオーネ                                                             | [穂積隆信](https://ja.wikipedia.org/wiki/穂積隆信 "wikilink")     | [金尾哲夫](https://ja.wikipedia.org/wiki/金尾哲夫 "wikilink")        | [谷口節](https://ja.wikipedia.org/wiki/谷口節 "wikilink")     |
-| ジェンコ                                                                   | [石丸博也](https://ja.wikipedia.org/wiki/石丸博也 "wikilink")     |                                                              | [仲野裕](https://ja.wikipedia.org/wiki/仲野裕 "wikilink")     |
-| クレメンザ                                                                  | [秋元羊介](../Page/秋元羊介.md "wikilink")                        |                                                              | [岩崎ひろし](https://ja.wikipedia.org/wiki/岩崎ひろし "wikilink") |
-| テッシオ                                                                   | [笹岡繁蔵](https://ja.wikipedia.org/wiki/笹岡繁蔵 "wikilink")     | [内田直哉](https://ja.wikipedia.org/wiki/内田直哉 "wikilink")        | [桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink")   |
-| ドン・ファヌッチ                                                               | [大宮悌二](https://ja.wikipedia.org/wiki/大宮悌二 "wikilink")     |                                                              | [稲葉実](https://ja.wikipedia.org/wiki/稲葉実 "wikilink")     |
-| ドン・チッチオ                                                                | [兼本新吾](../Page/兼本新吾.md "wikilink")                        | [長島雄一](../Page/チョー_\(俳優\).md "wikilink")                     | [宝亀克寿](https://ja.wikipedia.org/wiki/宝亀克寿 "wikilink")   |
-| ジョニー・オーラ                                                               |                                                           | [石井隆夫](https://ja.wikipedia.org/wiki/石井隆夫 "wikilink")        |                                                         |
-| アル・ネリ                                                                  |                                                           | [西村知道](https://ja.wikipedia.org/wiki/西村知道 "wikilink")        | 宝亀克寿                                                    |
-| ロス夫人                                                                   |                                                           | [定岡小百合](../Page/定岡小百合.md "wikilink")                         |                                                         |
-|                                                                        |                                                           |                                                              |                                                         |
+| 役名                                                                     | 日本テレビ版                                                    | DVD版                                      | Blu-ray版                                              |
+| ---------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------- |
+| [ドン・マイケル・コルレオーネ](https://ja.wikipedia.org/wiki/マイケル・コルレオーネ "wikilink") | [野沢那智](../Page/野沢那智.md "wikilink")                        | [山路和弘](../Page/山路和弘.md "wikilink")        | [森川智之](../Page/森川智之.md "wikilink")                    |
+| トム・ヘイゲン                                                                | [森川公也](../Page/森川公也.md "wikilink")                        | [田原アルノ](../Page/田原アルノ.md "wikilink")      |                                                       |
+| ケイ・アダムス・コルレオーネ                                                         | [鈴木弘子](../Page/鈴木弘子.md "wikilink")                        | [山像かおり](../Page/山像かおり.md "wikilink")      |                                                       |
+| [ヴィトー・コルレオーネ](https://ja.wikipedia.org/wiki/ヴィトー・コルレオーネ "wikilink")    | [青野武](../Page/青野武.md "wikilink")                          | [山野井仁](../Page/山野井仁.md "wikilink")        |                                                       |
+| フレド・コルレオーネ                                                             | [大塚国夫](https://ja.wikipedia.org/wiki/大塚国夫 "wikilink")     | [牛山茂](../Page/牛山茂.md "wikilink")          |                                                       |
+| コニー・コルレオーネ                                                             | [小谷野美智子](https://ja.wikipedia.org/wiki/小谷野美智子 "wikilink") | [渡辺美佐](../Page/渡辺美佐_\(声優\).md "wikilink") | [斉藤恵理](https://ja.wikipedia.org/wiki/斉藤恵理 "wikilink") |
+| ハイマン・ロス                                                                | [宮内幸平](../Page/宮内幸平.md "wikilink")                        | [大木民夫](../Page/大木民夫.md "wikilink")        | [稲垣隆史](../Page/稲垣隆史.md "wikilink")                    |
+| フランク・ペンタンジェリ                                                           | [雨森雅司](../Page/雨森雅司.md "wikilink")                        | [藤本譲](../Page/藤本譲.md "wikilink")          |                                                       |
+| パット・ギアリー上院議員                                                           | [内田稔](../Page/内田稔.md "wikilink")                          | [佐々木敏](../Page/佐々木敏.md "wikilink")        | [水野龍司](../Page/水野龍司.md "wikilink")                    |
+| ママ・コルレオーネ                                                              | [沼波輝枝](../Page/沼波輝枝.md "wikilink")                        | [竹口安芸子](../Page/竹口安芸子.md "wikilink")      | [新田万紀子](../Page/新田万紀子.md "wikilink")                  |
+| ディアナ・コルレオーネ                                                            | [弥永和子](../Page/弥永和子.md "wikilink")                        | [金野恵子](../Page/金野恵子.md "wikilink")        |                                                       |
+| ソニー・コルレオーネ                                                             | [穂積隆信](../Page/穂積隆信.md "wikilink")                        | [金尾哲夫](../Page/金尾哲夫.md "wikilink")        | [谷口節](../Page/谷口節.md "wikilink")                      |
+| ジェンコ                                                                   | [石丸博也](../Page/石丸博也.md "wikilink")                        |                                           | [仲野裕](../Page/仲野裕.md "wikilink")                      |
+| クレメンザ                                                                  | [秋元羊介](../Page/秋元羊介.md "wikilink")                        |                                           | [岩崎ひろし](../Page/岩崎ひろし.md "wikilink")                  |
+| テッシオ                                                                   | [笹岡繁蔵](../Page/笹岡繁蔵.md "wikilink")                        | [内田直哉](../Page/内田直哉.md "wikilink")        | [桐本琢也](https://ja.wikipedia.org/wiki/桐本琢也 "wikilink") |
+| ドン・ファヌッチ                                                               | [大宮悌二](../Page/大宮悌二.md "wikilink")                        |                                           | [稲葉実](../Page/稲葉実.md "wikilink")                      |
+| ドン・チッチオ                                                                | [兼本新吾](../Page/兼本新吾.md "wikilink")                        | [長島雄一](../Page/チョー_\(俳優\).md "wikilink")  | [宝亀克寿](../Page/宝亀克寿.md "wikilink")                    |
+| ジョニー・オーラ                                                               |                                                           | [石井隆夫](../Page/石井隆夫.md "wikilink")        |                                                       |
+| アル・ネリ                                                                  |                                                           | [西村知道](../Page/西村知道.md "wikilink")        | 宝亀克寿                                                  |
+| ロス夫人                                                                   |                                                           | [定岡小百合](../Page/定岡小百合.md "wikilink")      |                                                       |
+|                                                                        |                                                           |                                           |                                                       |
 
 :\*日本テレビ版：[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")/[12日](../Page/11月12日.md "wikilink")(水）21:02-22:54初回放送 [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『[水曜ロードショー](https://ja.wikipedia.org/wiki/水曜ロードショー_\(日本テレビ\) "wikilink")』版。※正味177分。
 
 :\*\*演出：[小林守夫](https://ja.wikipedia.org/wiki/小林守夫 "wikilink")、翻訳：飯嶋永昭、選曲/効果：赤塚不二夫/重秀彦、調整：前田仁信、製作：[東北新社](https://ja.wikipedia.org/wiki/東北新社 "wikilink")、解説：[水野晴郎](../Page/水野晴郎.md "wikilink")
 
-:\*\*再放送：[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")（日）21:00-23:24 [テレビ朝日](../Page/テレビ朝日.md "wikilink")『[日曜洋画劇場](https://ja.wikipedia.org/wiki/日曜洋画劇場 "wikilink")』他。
+:\*\*再放送：[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月30日](../Page/10月30日.md "wikilink")（日）21:00-23:24 [テレビ朝日](../Page/テレビ朝日.md "wikilink")『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』他。
 
 :\*[DVD](../Page/DVD.md "wikilink")版：[2001年](../Page/2001年.md "wikilink")にBOXセットとして発売。※コッポラ・リストレーション版にもBlu-ray版と共に収録。
 
@@ -202,40 +202,40 @@
 ### アカデミー賞
 
   - 受賞
-    [アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")：[フランシス・フォード・コッポラ](https://ja.wikipedia.org/wiki/フランシス・フォード・コッポラ "wikilink")/グレイ・フレデリクソン/フレッド・ルース
+    [アカデミー作品賞](https://ja.wikipedia.org/wiki/アカデミー作品賞 "wikilink")：[フランシス・フォード・コッポラ](../Page/フランシス・フォード・コッポラ.md "wikilink")/グレイ・フレデリクソン/フレッド・ルース
     [アカデミー監督賞](../Page/アカデミー監督賞.md "wikilink")：フランシス・フォード・コッポラ
-    [アカデミー助演男優賞](https://ja.wikipedia.org/wiki/アカデミー助演男優賞 "wikilink")：[ロバート・デ・ニーロ](https://ja.wikipedia.org/wiki/ロバート・デ・ニーロ "wikilink")
-    [アカデミー脚色賞](https://ja.wikipedia.org/wiki/アカデミー脚色賞 "wikilink")：フランシス・フォード・コッポラ/[マリオ・プーゾ](../Page/マリオ・プーゾ.md "wikilink")
+    [アカデミー助演男優賞](../Page/アカデミー助演男優賞.md "wikilink")：[ロバート・デ・ニーロ](../Page/ロバート・デ・ニーロ.md "wikilink")
+    [アカデミー脚色賞](../Page/アカデミー脚色賞.md "wikilink")：フランシス・フォード・コッポラ/[マリオ・プーゾ](../Page/マリオ・プーゾ.md "wikilink")
     [アカデミー美術賞](../Page/アカデミー美術賞.md "wikilink")：ディーン・タブラリス/アンジェロ・グラハム/ジョージ・R・ネルソン
-    [アカデミー作曲賞](../Page/アカデミー作曲賞.md "wikilink")：[ニーノ・ロータ](https://ja.wikipedia.org/wiki/ニーノ・ロータ "wikilink")/[カーマイン・コッポラ](https://ja.wikipedia.org/wiki/カーマイン・コッポラ "wikilink")
+    [アカデミー作曲賞](../Page/アカデミー作曲賞.md "wikilink")：[ニーノ・ロータ](../Page/ニーノ・ロータ.md "wikilink")/[カーマイン・コッポラ](https://ja.wikipedia.org/wiki/カーマイン・コッポラ "wikilink")
   - ノミネート
-    [アカデミー主演男優賞](https://ja.wikipedia.org/wiki/アカデミー主演男優賞 "wikilink")：[アル・パチーノ](https://ja.wikipedia.org/wiki/アル・パチーノ "wikilink")
-    アカデミー助演男優賞：[マイケル・V・ガッツォ](https://ja.wikipedia.org/wiki/マイケル・V・ガッツォ "wikilink")/[リー・ストラスバーグ](https://ja.wikipedia.org/wiki/リー・ストラスバーグ "wikilink")
+    [アカデミー主演男優賞](../Page/アカデミー主演男優賞.md "wikilink")：[アル・パチーノ](../Page/アル・パチーノ.md "wikilink")
+    アカデミー助演男優賞：[マイケル・V・ガッツォ](https://ja.wikipedia.org/wiki/マイケル・V・ガッツォ "wikilink")/[リー・ストラスバーグ](../Page/リー・ストラスバーグ.md "wikilink")
     [アカデミー助演女優賞](../Page/アカデミー助演女優賞.md "wikilink")：[タリア・シャイア](../Page/タリア・シャイア.md "wikilink")
     [アカデミー衣装デザイン賞](https://ja.wikipedia.org/wiki/アカデミー衣装デザイン賞 "wikilink")：テオドラ・ヴァン・ランクル
 
 ### 英国アカデミー賞
 
   - 受賞
-    [主演男優賞](../Page/英国アカデミー賞_主演男優賞.md "wikilink")：[アル・パチーノ](https://ja.wikipedia.org/wiki/アル・パチーノ "wikilink")
+    [主演男優賞](../Page/英国アカデミー賞_主演男優賞.md "wikilink")：[アル・パチーノ](../Page/アル・パチーノ.md "wikilink")
   - ノミネート
-    [アンソニー・アスキス賞](../Page/英国アカデミー賞_作曲賞.md "wikilink")：[ニーノ・ロータ](https://ja.wikipedia.org/wiki/ニーノ・ロータ "wikilink")
+    [アンソニー・アスキス賞](../Page/英国アカデミー賞_作曲賞.md "wikilink")：[ニーノ・ロータ](../Page/ニーノ・ロータ.md "wikilink")
     [編集賞](https://ja.wikipedia.org/wiki/英国アカデミー賞_編集賞 "wikilink")：[ピーター・ツィンナー](https://ja.wikipedia.org/wiki/ピーター・ツィンナー "wikilink")/バリー・マルキン/[リチャード・マークス](https://ja.wikipedia.org/wiki/リチャード・マークス_\(編集技師\) "wikilink")
-    新人賞：[ロバート・デ・ニーロ](https://ja.wikipedia.org/wiki/ロバート・デ・ニーロ "wikilink")
+    新人賞：[ロバート・デ・ニーロ](../Page/ロバート・デ・ニーロ.md "wikilink")
 
 ### ゴールデングローブ賞
 
   - ノミネート
     [作品賞 (ドラマ部門)](https://ja.wikipedia.org/wiki/ゴールデングローブ賞_作品賞_\(ドラマ部門\) "wikilink")
-    [監督賞](../Page/ゴールデングローブ賞_監督賞.md "wikilink")：[フランシス・フォード・コッポラ](https://ja.wikipedia.org/wiki/フランシス・フォード・コッポラ "wikilink")
-    [主演男優賞 (ドラマ部門)](https://ja.wikipedia.org/wiki/ゴールデングローブ賞_主演男優賞_\(ドラマ部門\) "wikilink")：[アル・パチーノ](https://ja.wikipedia.org/wiki/アル・パチーノ "wikilink")
+    [監督賞](../Page/ゴールデングローブ賞_監督賞.md "wikilink")：[フランシス・フォード・コッポラ](../Page/フランシス・フォード・コッポラ.md "wikilink")
+    [主演男優賞 (ドラマ部門)](https://ja.wikipedia.org/wiki/ゴールデングローブ賞_主演男優賞_\(ドラマ部門\) "wikilink")：[アル・パチーノ](../Page/アル・パチーノ.md "wikilink")
     [脚本賞](../Page/ゴールデングローブ賞_脚本賞.md "wikilink")：フランシス・フォード・コッポラ/[マリオ・プーゾ](../Page/マリオ・プーゾ.md "wikilink")
-    [作曲賞](../Page/ゴールデングローブ賞_作曲賞.md "wikilink")：[ニーノ・ロータ](https://ja.wikipedia.org/wiki/ニーノ・ロータ "wikilink")
-    新人男優賞：[リー・ストラスバーグ](https://ja.wikipedia.org/wiki/リー・ストラスバーグ "wikilink")
+    [作曲賞](../Page/ゴールデングローブ賞_作曲賞.md "wikilink")：[ニーノ・ロータ](../Page/ニーノ・ロータ.md "wikilink")
+    新人男優賞：[リー・ストラスバーグ](../Page/リー・ストラスバーグ.md "wikilink")
 
 ## 配役
 
-青年時代のヴィトーを演じたロバート・デ・ニーロは当時無名だったが、前作でソニー役のオーディションを受けていた。役のイメージとは合わずに最終的に起用されなかったものの、コッポラはデ・ニーロの存在感や演技力を心に留めていた。その後[マーティン・スコセッシ](../Page/マーティン・スコセッシ.md "wikilink")監督の『[ミーン・ストリート](https://ja.wikipedia.org/wiki/ミーン・ストリート "wikilink")』のデ・ニーロを見て、コッポラは彼こそヴィトーの青年期を演じるのにふさわしい俳優だと確信し、デ・ニーロを抜擢した\[3\]。その判断通り、デ・ニーロは絶賛され、アカデミー助演男優賞を受賞、ほとんど[英語](../Page/英語.md "wikilink")を話さずにオスカーを獲得した珍しい例となった。前作で晩年のヴィトーを演じた[マーロン・ブランド](../Page/マーロン・ブランド.md "wikilink")は[主演男優賞を受賞している](https://ja.wikipedia.org/wiki/アカデミー主演男優賞 "wikilink")（後に拒否）。青年期と晩年という違いこそあれ、同じ人物を演じてオスカーを得た俳優は、ブランドとデ・ニーロの二人のみである。
+青年時代のヴィトーを演じたロバート・デ・ニーロは当時無名だったが、前作でソニー役のオーディションを受けていた。役のイメージとは合わずに最終的に起用されなかったものの、コッポラはデ・ニーロの存在感や演技力を心に留めていた。その後[マーティン・スコセッシ](../Page/マーティン・スコセッシ.md "wikilink")監督の『[ミーン・ストリート](https://ja.wikipedia.org/wiki/ミーン・ストリート "wikilink")』のデ・ニーロを見て、コッポラは彼こそヴィトーの青年期を演じるのにふさわしい俳優だと確信し、デ・ニーロを抜擢した\[3\]。その判断通り、デ・ニーロは絶賛され、アカデミー助演男優賞を受賞、ほとんど[英語](../Page/英語.md "wikilink")を話さずにオスカーを獲得した珍しい例となった。前作で晩年のヴィトーを演じた[マーロン・ブランド](../Page/マーロン・ブランド.md "wikilink")は[主演男優賞を受賞している](../Page/アカデミー主演男優賞.md "wikilink")（後に拒否）。青年期と晩年という違いこそあれ、同じ人物を演じてオスカーを得た俳優は、ブランドとデ・ニーロの二人のみである。
 
 当初コッポラは、前作でヴィトーを演じた[マーロン・ブランド](../Page/マーロン・ブランド.md "wikilink")ならどんな年齢の役でも演じられると思い、青年時代のヴィトー役をブランドにオファーした。しかしブランドは前作でのパラマウント映画が出したオファーに不満があったので、巨額のギャラを要求した\[4\]。コッポラはせめてラストの誕生日の回想シーンだけでもブランドを起用したがったが、ブランドは撮影に現れなかった。止む無くこのシーンでヴィトーは映らず、代役なしで撮影することになったが、それが却って今は亡きドンの偉大さ、そして回想するマイケルの孤独を強調させることになった。
 
@@ -251,12 +251,12 @@
 
 ## その他
 
-  - 映画の物語は撮影前にプーゾとコッポラが新しく考え出したものであったが、アカデミー賞では[脚本賞ではなく](https://ja.wikipedia.org/wiki/アカデミー脚本賞 "wikilink")[脚色賞を獲得した](https://ja.wikipedia.org/wiki/アカデミー脚色賞 "wikilink")。マイケルの物語は映画の為に書き下ろされたものであったが、ヴィトーの物語はプーゾの小説から採られたものだったからである\[8\]。初期の原稿には、トム・ヘイゲンがソニー・コルレオーネの未亡人と関係を持ち、コルレオーネ・ファミリーに摩擦を生じさせるという案もあった。この部分はすぐに廃案になったが、コッポラは同様のエピソードを、続編である『ゴッドファーザー PART III』に採用した。
+  - 映画の物語は撮影前にプーゾとコッポラが新しく考え出したものであったが、アカデミー賞では[脚本賞ではなく](../Page/アカデミー脚本賞.md "wikilink")[脚色賞を獲得した](../Page/アカデミー脚色賞.md "wikilink")。マイケルの物語は映画の為に書き下ろされたものであったが、ヴィトーの物語はプーゾの小説から採られたものだったからである\[8\]。初期の原稿には、トム・ヘイゲンがソニー・コルレオーネの未亡人と関係を持ち、コルレオーネ・ファミリーに摩擦を生じさせるという案もあった。この部分はすぐに廃案になったが、コッポラは同様のエピソードを、続編である『ゴッドファーザー PART III』に採用した。
   - 『ゴッドファーザー』と『ゴッドファーザー PART II』との間に、フランシス・フォード・コッポラは『[カンバセーション…盗聴…](https://ja.wikipedia.org/wiki/カンバセーション…盗聴… "wikilink")』を監督している（撮影期間は1972年11月26日から1973年3月まで）。『カンバセーション…盗聴…』は『ゴッドファーザー PART II』と同年の1974年に劇場公開され、アカデミー作品賞の候補作にもなった。その結果コッポラは、同じ年に二つの監督作品で作品賞にノミネートされた二人目の監督（一人目は[アルフレッド・ヒッチコック](../Page/アルフレッド・ヒッチコック.md "wikilink")監督）となった。
   - ヴィトーの母親役は、イタリア人でフォークミュージックのシンガーソングライターであるマリア・カルタ（[Maria Carta](https://ja.wikipedia.org/wiki/:en:Maria_Carta "wikilink")）が演じた。少年時代のヴィトー役も、同じく演技経験のない11歳のオレステ・バルディーニが演じた\[9\]。
   - マイケルのボディーガード役はハンガリー出身の彫刻家、アメリゴ・トット（[Amerigo Tot](https://ja.wikipedia.org/wiki/:en:Amerigo_Tot "wikilink")）が演じた。
   - 公聴会でウィリー・チッチ、マイケル・コルレオーネ、フランク・ペンタンジェリを尋問する委員の中に、[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")の[ロジャー・コーマン](../Page/ロジャー・コーマン.md "wikilink")やフィル・フェルドマン、[SF作家](../Page/SF作家.md "wikilink")の[リチャード・マシスン](../Page/リチャード・マシスン.md "wikilink")の姿がある\[10\]。
-  - ヴィトー・コルレオーネがドン・ファヌッチと交渉するシーンは、[ジョージ・ルーカス](../Page/ジョージ・ルーカス.md "wikilink")監督の『[スター・ウォーズ エピソード4/新たなる希望](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード4/新たなる希望 "wikilink")』で、[ハン・ソロ](../Page/ハン・ソロ.md "wikilink")が[ジャバ・ザ・ハット](https://ja.wikipedia.org/wiki/ジャバ・ザ・ハット "wikilink")と金額交渉する場面に再現されている。このシーンは劇場版ではカットされたが、DVDには収録されている。
+  - ヴィトー・コルレオーネがドン・ファヌッチと交渉するシーンは、[ジョージ・ルーカス](../Page/ジョージ・ルーカス.md "wikilink")監督の『[スター・ウォーズ エピソード4/新たなる希望](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード4/新たなる希望 "wikilink")』で、[ハン・ソロ](../Page/ハン・ソロ.md "wikilink")が[ジャバ・ザ・ハット](../Page/ジャバ・ザ・ハット.md "wikilink")と金額交渉する場面に再現されている。このシーンは劇場版ではカットされたが、DVDには収録されている。
   - 本作では予算が潤沢であったこともあり、1918年のシーンを撮るためニューヨーク市内東6番街の1ブロックがまるごと当時の街並みに改築され撮影が行われた。
   - 終盤、マイケル達の母親カルメラ・コルレオーネが亡くなり棺桶に入っているシーンがあるが、実はこのシーンで彼女の役を演じていたのはそれまでのモーガナ・キングではない。シチリア人にとって死後以外に棺桶に入ることは縁起が悪いこととされているので、拒否したとのこと。代わりに演じたのはフランシス・フォード・コッポラ及びタリア・シャイアの母親であった。
   - 共に『ゴッドファーザー』が転機となり、イタリア系の俳優として名高いアル・パチーノとロバート・デ・ニーロは、この映画で初共演した。2人が映画で再び共演したのは、この作品より20年以上後の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に公開された、[マイケル・マン監督作品の](../Page/マイケル・マン_\(映画監督\).md "wikilink")『[ヒート](../Page/ヒート_\(1995年の映画\).md "wikilink")』である 。
@@ -269,9 +269,9 @@
 
 ## 関連項目
 
-  - [ゴッドファーザー](https://ja.wikipedia.org/wiki/ゴッドファーザー "wikilink")
+  - [ゴッドファーザー](../Page/ゴッドファーザー.md "wikilink")
   - [愛のテーマ](https://ja.wikipedia.org/wiki/愛のテーマ_\(ゴッドファーザー\) "wikilink")
-  - [キューバ革命](https://ja.wikipedia.org/wiki/キューバ革命 "wikilink")
+  - [キューバ革命](../Page/キューバ革命.md "wikilink")
   - [マイヤー・ランスキー](../Page/マイヤー・ランスキー.md "wikilink") - ハイマン・ロスのモデル。
   - [THE GODFATHER2](https://ja.wikipedia.org/wiki/THE_GODFATHER2 "wikilink") - 映画を基にしたビデオ・ゲーム。
 

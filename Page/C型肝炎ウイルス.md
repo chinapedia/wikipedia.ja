@@ -1,7 +1,7 @@
 > この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
 
 
-**C型肝炎ウイルス**（シーがたかんえんウイルス、*hepatitis C virus*、**HCV**）は、[フラビウイルス科](../Page/フラビウイルス科.md "wikilink")[ヘパシウイルス属](https://ja.wikipedia.org/wiki/ヘパシウイルス属 "wikilink")に属する[RNAウイルス](../Page/RNAウイルス.md "wikilink")で、[C型肝炎](../Page/C型肝炎.md "wikilink")の原因となる。抗ウイルス薬の登場により近年中の撲滅が期待されている\[1\]。
+**C型肝炎ウイルス**（シーがたかんえんウイルス、*hepatitis C virus*、**HCV**）は、[フラビウイルス科](../Page/フラビウイルス科.md "wikilink")[ヘパシウイルス属](../Page/ヘパシウイルス属.md "wikilink")に属する[RNAウイルス](../Page/RNAウイルス.md "wikilink")で、[C型肝炎](../Page/C型肝炎.md "wikilink")の原因となる。抗ウイルス薬の登場により近年中の撲滅が期待されている\[1\]。
 
 ## 歴史
 
@@ -9,7 +9,7 @@
 
 ## 構造
 
-[HCV_structure.png](https://ja.wikipedia.org/wiki/File:HCV_structure.png "fig:HCV_structure.png") ウイルス粒子は外皮（[エンベロープ](https://ja.wikipedia.org/wiki/エンベロープ_\(ウイルス\) "wikilink")）とコア蛋白の二重構造を持つ、直径35〜65nmの球状粒子であり、[ゲノム](../Page/ゲノム.md "wikilink")として9.5kbのプラス一本鎖RNAを持つ。[ヒト](../Page/ヒト.md "wikilink")を固有[宿主](../Page/宿主.md "wikilink")とする。
+[HCV_structure.png](https://ja.wikipedia.org/wiki/File:HCV_structure.png "fig:HCV_structure.png") ウイルス粒子は外皮（[エンベロープ](../Page/エンベロープ_\(ウイルス\).md "wikilink")）とコア蛋白の二重構造を持つ、直径35〜65nmの球状粒子であり、[ゲノム](../Page/ゲノム.md "wikilink")として9.5kbのプラス一本鎖RNAを持つ。[ヒト](../Page/ヒト.md "wikilink")を固有[宿主](../Page/宿主.md "wikilink")とする。
 
 一本鎖RNAは約3010のアミノ酸からなるポリプロテインをコードすることのできる読み取り枠(open reading frame、ORF)を有しており、このポリプロテイン、つまり前駆体蛋白に、細胞のシグナラーゼと、ウイルス自身のコードする2種類の[プロテアーゼ](../Page/プロテアーゼ.md "wikilink")が作用、ウイルス粒子を形成する構造蛋白質とウイルス粒子に含まれない非構造蛋白質が産生される。 また、ゲノムの5´末端には、ウイルス蛋白の翻訳調節に関与する領域が存在する。これは、多様性の高いゲノム配列中にあり、ウイルスのクローン間で最も良く保存されているため、遺伝子検出に利用される \[2\]。
 
@@ -52,7 +52,7 @@ C型肝炎ウイルスに感染すると[慢性肝炎](https://ja.wikipedia.org/
 
 ### 免疫系からの回避
 
-感染細胞や[樹状細胞](https://ja.wikipedia.org/wiki/樹状細胞 "wikilink")が産生する[インターフェロン](../Page/インターフェロン.md "wikilink")(IFN)はHCVの排除に働き、さらに樹状細胞によって活性化された[NK細胞](https://ja.wikipedia.org/wiki/NK細胞 "wikilink")もウイルス排除に貢献することが知られているが、HCVはNS3などによりインターフェロンのシグナル伝達を阻害するほか、E2によりNK細胞の機能を低下させることで免疫系からまぬがれている。
+感染細胞や[樹状細胞](../Page/樹状細胞.md "wikilink")が産生する[インターフェロン](../Page/インターフェロン.md "wikilink")(IFN)はHCVの排除に働き、さらに樹状細胞によって活性化された[NK細胞](https://ja.wikipedia.org/wiki/NK細胞 "wikilink")もウイルス排除に貢献することが知られているが、HCVはNS3などによりインターフェロンのシグナル伝達を阻害するほか、E2によりNK細胞の機能を低下させることで免疫系からまぬがれている。
 
 ### 治療
 

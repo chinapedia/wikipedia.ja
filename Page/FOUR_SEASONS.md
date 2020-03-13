@@ -7,22 +7,22 @@
 
 ## 解説
 
-  - 初の海外（[ロンドン](../Page/ロンドン.md "wikilink")）レコーディングであり、バンド初の[オリコンアルバムチャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")1位を獲得した作品。所属事務所はデモテープを聴いた段階でヒットを確信し、新車をオーダーしていたという\[1\]。
+  - 初の海外（[ロンドン](../Page/ロンドン.md "wikilink")）レコーディングであり、バンド初の[オリコンアルバムチャート](../Page/オリコンチャート.md "wikilink")1位を獲得した作品。所属事務所はデモテープを聴いた段階でヒットを確信し、新車をオーダーしていたという\[1\]。
   - 吉井は本作のテーマとして、アルバムタイトル曲の『Four Seasons』の冒頭の歌詞である「まず僕は壊す」をあげており、「殻に閉じこもっている自分を壊してしまおう」という意味が込められていると語っている\[2\]。
   - 吉井曰く、本作では「わかりやすい言葉」「日記のような歌詞」を心がけたと語っており、本作のコンセプトでもあると語っている\[3\]。
-  - ジャケットはロンドンのロイズビルで撮影された。吉井は「[U2](../Page/U2.md "wikilink")の『[アクトン・ベイビー](https://ja.wikipedia.org/wiki/アクトン・ベイビー "wikilink")』のジャケットの雰囲気をアートワークで表現したかったが、今見ると全然違う」と語っている\[4\]。
+  - ジャケットはロンドンのロイズビルで撮影された。吉井は「[U2](../Page/U2.md "wikilink")の『[アクトン・ベイビー](../Page/アクトン・ベイビー.md "wikilink")』のジャケットの雰囲気をアートワークで表現したかったが、今見ると全然違う」と語っている\[4\]。
   - 初回限定盤はフォトカード入りスペシャルパッケージ。
   - 本作リリース後、シングル「[JAM/Tactics](https://ja.wikipedia.org/wiki/JAM/Tactics "wikilink")」、「[SPARK](../Page/SPARK_\(THE_YELLOW_MONKEYの曲\).md "wikilink")」をリリースした後、バンドはレコード会社を[ファンハウスへ移籍](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。トライアド在籍最後のオリジナルアルバムとなった。
 
 ## 収録曲
 
-  - 全作詞：[吉井和哉](https://ja.wikipedia.org/wiki/吉井和哉 "wikilink")。
+  - 全作詞：[吉井和哉](../Page/吉井和哉.md "wikilink")。
 
 <!-- end list -->
 
 1.  **Four Seasons**
       -
-        アルバムタイトル曲。『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』で[フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink") が[カバー](../Page/カバー.md "wikilink")した。メンバーの志村の急逝に際し、吉井は自身のソロライブにおいてフジファブリックver.に近い形のアレンジで同曲を披露した。
+        アルバムタイトル曲。『[THIS IS FOR YOU〜THE YELLOW MONKEY TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/THIS_IS_FOR_YOU〜THE_YELLOW_MONKEY_TRIBUTE_ALBUM "wikilink")』で[フジファブリック](../Page/フジファブリック.md "wikilink") が[カバー](../Page/カバー.md "wikilink")した。メンバーの志村の急逝に際し、吉井は自身のソロライブにおいてフジファブリックver.に近い形のアレンジで同曲を披露した。
 2.  **Overture〜太陽が燃えている**
       -
         先行シングル曲。Overtureと題した前奏が追加されており、「太陽が燃えている」というフレーズを繰り返す。シングルバージョンよりもボーカルとギターソロの音がやや抑え目になっている\[5\]。
@@ -58,10 +58,10 @@
 
   - 吉井和哉 - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")
   - 菊地英昭 - ギター
-  - 廣瀬洋一 - [ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - 廣瀬洋一 - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
   - 菊地英二 - [ドラムス](../Page/ドラムセット.md "wikilink")
   - 三国義貴 - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-  - [松本晃彦](https://ja.wikipedia.org/wiki/松本晃彦 "wikilink") - キーボード (\#9)
+  - [松本晃彦](../Page/松本晃彦.md "wikilink") - キーボード (\#9)
   - REBECCA LEIGH-WHITE & JORDAN BAILEY - [バッキング](https://ja.wikipedia.org/wiki/バッキング "wikilink")ボーカル
   - SIMON SHERIDAN - Massage from the sky (\#11)
 
@@ -80,10 +80,10 @@
 5.  TRIAD COMPLETE BOX ブックレット
 6.
 7.
-8.  『15YEARS』（[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")）
+8.  『15YEARS』（[ぴあ](../Page/ぴあ.md "wikilink")）
 9.  「吉井和哉自伝 失われた愛を求めて」（[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")）
 10. 「ブリッジ97年4月号」
 11.
-12. 『15YEARS』（[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")）
-13. 『15YEARS』（[ぴあ](https://ja.wikipedia.org/wiki/ぴあ "wikilink")）
+12. 『15YEARS』（[ぴあ](../Page/ぴあ.md "wikilink")）
+13. 『15YEARS』（[ぴあ](../Page/ぴあ.md "wikilink")）
 14.

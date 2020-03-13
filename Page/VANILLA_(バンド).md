@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **[川西幸一](https://ja.wikipedia.org/wiki/川西幸一 "wikilink")**(Dr.)
+  - **[川西幸一](../Page/川西幸一.md "wikilink")**(Dr.)
   - **野山昭雄**(Gu.)…現[WOOHOO](https://ja.wikipedia.org/wiki/WOOHOO "wikilink")、元[THE BELL'S](https://ja.wikipedia.org/wiki/THE_BELL'S "wikilink")、[LAUGHIN' NOSE](../Page/LAUGHIN'_NOSE.md "wikilink")。
   - **坂巻晋**(Ba.)…元The Wells。
   - **笹本希絵**(Vo.)…1994年6月加入。
@@ -21,7 +21,7 @@
 
 ### シングル
 
-  - **愛をちょうだい**（1995年7月21日）…『[かざあなダウンタウン](https://ja.wikipedia.org/wiki/かざあなダウンタウン "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）エンディングテーマ曲
+  - **愛をちょうだい**（1995年7月21日）…『[かざあなダウンタウン](../Page/かざあなダウンタウン.md "wikilink")』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）エンディングテーマ曲
       - c/w　甘い生活
   - **ヌードと愛情**（1995年11月11日）
       - c/w　愛をちょうだい（Leigh Gorman's mix）
@@ -84,9 +84,9 @@
 
 ## 関連項目
 
-  - [森雪之丞](https://ja.wikipedia.org/wiki/森雪之丞 "wikilink")
+  - [森雪之丞](../Page/森雪之丞.md "wikilink")
   - [近田春夫](../Page/近田春夫.md "wikilink")
   - [中山加奈子](../Page/中山加奈子.md "wikilink")
-  - [ソニー・ミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ "wikilink")
+  - [ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink")

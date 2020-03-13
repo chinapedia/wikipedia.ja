@@ -5,7 +5,7 @@
 
 ## 概要
 
-[山梨県](../Page/山梨県.md "wikilink")[甲州市](https://ja.wikipedia.org/wiki/甲州市 "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局であり、地上波TV放送・BS-TV放送・CS-TV放送の再送信と自主制作番組の放送を行っている。
+[山梨県](../Page/山梨県.md "wikilink")[甲州市](../Page/甲州市.md "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局であり、地上波TV放送・BS-TV放送・CS-TV放送の再送信と自主制作番組の放送を行っている。
 
 また、CATVのケーブルを利用したインターネットサービス**「かつぬまケーブルネット」**も行っている。
 
@@ -15,7 +15,7 @@
 
 ## サービスエリア
 
-  - [山梨県](../Page/山梨県.md "wikilink")[甲州市](https://ja.wikipedia.org/wiki/甲州市 "wikilink")[勝沼町](https://ja.wikipedia.org/wiki/勝沼町 "wikilink")
+  - [山梨県](../Page/山梨県.md "wikilink")[甲州市](../Page/甲州市.md "wikilink")[勝沼町](../Page/勝沼町.md "wikilink")
 
 ## 主な放送チャンネル
 

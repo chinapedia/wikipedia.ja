@@ -17,8 +17,8 @@
   - ぷっちんブルマー（2003年5月21日、h.m.p）
   - 彼女の卑猥な匂い（2003年6月15日、h.m.p）
   - \[新\]アナタのオナニーたすけてアゲル（2004年4月29日、[ワープエンタテインメント](../Page/ワープエンタテインメント.md "wikilink")）
-  - 好色撮影 舐めすぎ痴女アシスタントのやりすぎ誘惑ご奉仕（2004年6月3日、[ドリームチケット](https://ja.wikipedia.org/wiki/ドリームチケット "wikilink")）
-  - LOVER'S LOCK 04 いつかの想い（2004年7月2日、[プレステージ](https://ja.wikipedia.org/wiki/プレステージ_\(アダルトビデオ\) "wikilink")）
+  - 好色撮影 舐めすぎ痴女アシスタントのやりすぎ誘惑ご奉仕（2004年6月3日、[ドリームチケット](../Page/ドリームチケット.md "wikilink")）
+  - LOVER'S LOCK 04 いつかの想い（2004年7月2日、[プレステージ](../Page/プレステージ_\(アダルトビデオ\).md "wikilink")）
   - デジタルモザイク Vol.045（2004年8月1日、[MOODYZ](../Page/MOODYZ.md "wikilink")）
   - ドリームシャワー60（2004年9月3日、ワープエンタテインメント）
   - 名門女子美尻学園 三浦萌&いつか（2005年7月27日、[実録出版](../Page/実録出版.md "wikilink")）共演:三浦萌
@@ -27,7 +27,7 @@
   - 女子校生拉致監禁 VOL.33 いつか（2006年2月17日、[ゴーゴーズ](../Page/ゴーゴーズ_\(アダルトビデオ\).md "wikilink")）
   - 美少女いつか〜隷辱淫女への教え〜（2006年8月1日、[グローリークエスト](https://ja.wikipedia.org/wiki/グローリークエスト "wikilink")）
   - 生撮り少女 03 いつか（2006年8月2日、プレステージ）
-  - SOD的 性教育番組（2006年8月16日、[SODクリエイト](../Page/SODクリエイト.md "wikilink")）共演:[葉月由良](../Page/星野綾香.md "wikilink")、[早乙女みなき](../Page/早乙女みなき.md "wikilink")、[長谷川ちひろ](https://ja.wikipedia.org/wiki/長谷川ちひろ "wikilink")、[倖田李梨](https://ja.wikipedia.org/wiki/倖田李梨 "wikilink")、里見瑤子、[日高ゆりあ](../Page/日高ゆりあ.md "wikilink")、[宮地奈々](../Page/宮地奈々.md "wikilink")
+  - SOD的 性教育番組（2006年8月16日、[SODクリエイト](../Page/SODクリエイト.md "wikilink")）共演:[葉月由良](../Page/星野綾香.md "wikilink")、[早乙女みなき](../Page/早乙女みなき.md "wikilink")、[長谷川ちひろ](../Page/長谷川ちひろ.md "wikilink")、[倖田李梨](https://ja.wikipedia.org/wiki/倖田李梨 "wikilink")、里見瑤子、[日高ゆりあ](../Page/日高ゆりあ.md "wikilink")、[宮地奈々](../Page/宮地奈々.md "wikilink")
   - コブ縄×オナニー（2006年9月1日、[映天](https://ja.wikipedia.org/wiki/映天 "wikilink")）他出演:MOMO、[平澤美樹](https://ja.wikipedia.org/wiki/坂下真紀 "wikilink")、稲本朱美、聖友沙、姫乃さくら
   - SF 03 いつか（2006年9月15日、[スマック](https://ja.wikipedia.org/wiki/スマック_\(アダルトビデオ\) "wikilink")）
   - 飼い慣らし折檻（2006年10月25日、[OPERA［オペラ］](../Page/オペラ_\(アダルトビデオ\).md "wikilink")）
@@ -45,7 +45,7 @@
 
 ### テレビ番組
 
-  - [桃のふくらみ](https://ja.wikipedia.org/wiki/桃のささやき#「桃のふくらみ」としての出演女優 "wikilink")（[MONDO TV](https://ja.wikipedia.org/wiki/MONDO_TV "wikilink")）
+  - [桃のふくらみ](https://ja.wikipedia.org/wiki/桃のささやき#「桃のふくらみ」としての出演女優 "wikilink")（[MONDO TV](../Page/MONDO_TV.md "wikilink")）
 
 ## 外部リンク
 

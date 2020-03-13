@@ -5,7 +5,7 @@
 
 ## 概要
 
-キャッチフレーズは「[Linux](../Page/Linux.md "wikilink")と[オープンソース](../Page/オープンソース.md "wikilink")・[ソフト活用のための実用情報誌](../Page/ソフトウェア.md "wikilink")」。1999年7月に前身となる「**日経Linux**8月号（創刊前号）」が[ムック形態で発売](https://ja.wikipedia.org/wiki/ムック_\(出版\) "wikilink")。その後、1999年9月に月刊化される。2007年からは日本国内で唯一のLinux専門誌となった。また、2008年1月号（2007年12月8日発売）にて創刊100号を発刊した。
+キャッチフレーズは「[Linux](../Page/Linux.md "wikilink")と[オープンソース](../Page/オープンソース.md "wikilink")・[ソフト活用のための実用情報誌](../Page/ソフトウェア.md "wikilink")」。1999年7月に前身となる「**日経Linux**8月号（創刊前号）」が[ムック形態で発売](../Page/ムック_\(出版\).md "wikilink")。その後、1999年9月に月刊化される。2007年からは日本国内で唯一のLinux専門誌となった。また、2008年1月号（2007年12月8日発売）にて創刊100号を発刊した。
 
 2017年8月より偶数月の隔月刊となった。\[1\]
 
@@ -19,7 +19,7 @@
 
   - [日経Linux](http://itpro.nikkeibp.co.jp/linux/) - 日経Linux公式サイト
   - [ITpro](http://itpro.nikkeibp.co.jp/) - 日経BP社のIT技術ポータルサイト
-  - [日経BP社](http://corporate.nikkeibp.co.jp/index_j.shtml) - [企業情報](https://ja.wikipedia.org/wiki/企業情報 "wikilink")、出版案内
+  - [日経BP社](http://corporate.nikkeibp.co.jp/index_j.shtml) - [企業情報](../Page/企業情報.md "wikilink")、出版案内
 
 [Category:パソコン雑誌](https://ja.wikipedia.org/wiki/Category:パソコン雑誌 "wikilink") [Category:日経BP社](https://ja.wikipedia.org/wiki/Category:日経BP社 "wikilink")
 

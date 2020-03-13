@@ -23,7 +23,7 @@
 2.  **Everlasthings**（Sachiko Shimada / Yasunori Masuda）
 3.  **[Where to begin](https://ja.wikipedia.org/wiki/Where_to_begin "wikilink")**（Miyako Kawahara / Kazuhiro Hara）
       -
-        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』1月エンディング・テーマ
+        [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』1月エンディング・テーマ
         復活第1弾シングル。
 4.  **You & me**（Miyako Kawahara / Junjiro Seki）
 5.  **Precious**（Junya Urushino / Takehiro Iida）
@@ -40,7 +40,7 @@
 10. **Be ever wonderful**（DJ KOO / YU-KI, DJ KOO）
 11. **One Nation**（Ken Harada, Maki Mihara / TETSUYA KOMURO）
       -
-        [2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に起きた[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")を受けて小室哲哉と[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")が立ち上げた[チャリティー](https://ja.wikipedia.org/wiki/チャリティー "wikilink")・プロジェクト「song+nation」参加曲。2000年代初頭は主に目立った楽曲制作はしておらず、2000年に入ってからの唯一の新曲でもある。
+        [2001年](../Page/2001年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")に起きた[アメリカ同時多発テロ事件](https://ja.wikipedia.org/wiki/アメリカ同時多発テロ事件 "wikilink")を受けて小室哲哉と[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")が立ち上げた[チャリティー](../Page/チャリティー.md "wikilink")・プロジェクト「song+nation」参加曲。2000年代初頭は主に目立った楽曲制作はしておらず、2000年に入ってからの唯一の新曲でもある。
 12. **ENGAGED '06**（TETSUYA KOMURO / TETSUYA KOMURO）
       -
         大ヒットアルバム『[dAnce to positive](https://ja.wikipedia.org/wiki/dAnce_to_positive "wikilink")』収録曲の2006年版。歌詞カードに歌詞が記載されていない。
@@ -50,17 +50,17 @@
 
 ### Disc 2
 
-1.  **[EZ DO DANCE](https://ja.wikipedia.org/wiki/EZ_DO_DANCE "wikilink") -meets [KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink")-**
+1.  **[EZ DO DANCE](https://ja.wikipedia.org/wiki/EZ_DO_DANCE "wikilink") -meets [KEIKO](../Page/KEIKO.md "wikilink")-**
 2.  **[Silver and Gold dance](https://ja.wikipedia.org/wiki/Silver_and_Gold_dance "wikilink") -meets [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")-**
 3.  **[survival dAnce 〜no no cry more〜](https://ja.wikipedia.org/wiki/survival_dAnce_〜no_no_cry_more〜 "wikilink") -meets [BoA](../Page/BoA.md "wikilink")-**
 4.  **[TRUTH '94](https://ja.wikipedia.org/wiki/BILLIONAIRE_〜BOY_MEETS_GIRL〜 "wikilink") -meets [Tomiko Van](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")-**
       -
         先行シングル「[Where to begin](https://ja.wikipedia.org/wiki/Where_to_begin "wikilink")」及び、伴都美子のカバー・アルバム『[Voice〜cover you with love〜](../Page/Voice〜cover_you_with_love〜.md "wikilink")』に収録。
-5.  **[CRAZY GONNA CRAZY](../Page/CRAZY_GONNA_CRAZY.md "wikilink") -meets [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")-**
+5.  **[CRAZY GONNA CRAZY](../Page/CRAZY_GONNA_CRAZY.md "wikilink") -meets [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")-**
       -
         AAAのカバー・アルバム『[CCC-CHALLENGE COVER COLLECTION-](../Page/CCC-CHALLENGE_COVER_COLLECTION-.md "wikilink")』に別テイクで収録。
-6.  **[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink") -meets [Youki Kudoh](https://ja.wikipedia.org/wiki/工藤夕貴 "wikilink")-**
-7.  **[Overnight Sensation 〜時代はあなたに委ねてる〜](../Page/Overnight_Sensation_〜時代はあなたに委ねてる〜.md "wikilink") -meets [Goro Kishitani](https://ja.wikipedia.org/wiki/岸谷五朗 "wikilink") & [Yasufumi Terawaki](https://ja.wikipedia.org/wiki/寺脇康文 "wikilink")-「[地球ゴージャス](../Page/地球ゴージャス.md "wikilink")」**
+6.  **[masquerade](https://ja.wikipedia.org/wiki/masquerade_\(trfの曲\) "wikilink") -meets [Youki Kudoh](../Page/工藤夕貴.md "wikilink")-**
+7.  **[Overnight Sensation 〜時代はあなたに委ねてる〜](../Page/Overnight_Sensation_〜時代はあなたに委ねてる〜.md "wikilink") -meets [Goro Kishitani](../Page/岸谷五朗.md "wikilink") & [Yasufumi Terawaki](../Page/寺脇康文.md "wikilink")-「[地球ゴージャス](../Page/地球ゴージャス.md "wikilink")」**
 8.  **[teens](https://ja.wikipedia.org/wiki/Happening_Here/teens "wikilink") -meets [AYUMI HAMASAKI](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")-**
       -
         浜崎あゆみの39thシングル「[Startin'/Born To Be...](https://ja.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")」にアコースティック・バージョンで収録。
@@ -90,7 +90,7 @@
 
   - [YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
   - [DJ KOO](../Page/DJ_KOO.md "wikilink")：[Voice](https://ja.wikipedia.org/wiki/声部 "wikilink") (\#1)、[Rap](../Page/ラップ.md "wikilink") (\#5)、[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#6)、[Scratch](https://ja.wikipedia.org/wiki/ディスクジョッキー#スクラッチ "wikilink") (\#8)
-  - [SAM](https://ja.wikipedia.org/wiki/SAM_\(ダンサー\) "wikilink")：Chorus (\#3,4,6,9,10)、Rap (\#5)
+  - [SAM](../Page/SAM_\(ダンサー\).md "wikilink")：Chorus (\#3,4,6,9,10)、Rap (\#5)
   - CHIHARU：Chorus (\#3,4,6,10)
   - ETSU：Chorus (\#3,4,6,10)
 
@@ -137,7 +137,7 @@
 
   - [YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")：[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink") (\#5)、[Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#4)
   - [DJ KOO](../Page/DJ_KOO.md "wikilink")
-  - [SAM](https://ja.wikipedia.org/wiki/SAM_\(ダンサー\) "wikilink")：Chorus (\#3)
+  - [SAM](../Page/SAM_\(ダンサー\).md "wikilink")：Chorus (\#3)
   - CHIHARU：Chorus (\#3)
   - ETSU：Chorus (\#3)
 
@@ -147,11 +147,11 @@
 
 <!-- end list -->
 
-  - [KEIKO](https://ja.wikipedia.org/wiki/KEIKO "wikilink")：Vocal (\#1)
+  - [KEIKO](../Page/KEIKO.md "wikilink")：Vocal (\#1)
   - [西川貴教](../Page/西川貴教.md "wikilink")：Vocal & Backing Vocal (\#2)
   - [BoA](../Page/BoA.md "wikilink")：Vocal (\#3)
   - [伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")：Vocal (\#4)
-  - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")：Vocal (\#5)
+  - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")：Vocal (\#5)
   - [岩佐俊秀](https://ja.wikipedia.org/wiki/岩佐俊秀 "wikilink")：[Synthesizer](../Page/シンセサイザー.md "wikilink") [Programming](../Page/デスクトップミュージック.md "wikilink") & [Protools](../Page/Pro_Tools.md "wikilink") [Editing](../Page/編集.md "wikilink") (\#1)
   - 鈴木覚：Synthesizer (\#2)
   - [柴崎浩](../Page/柴崎浩.md "wikilink")：[Guitar](../Page/ギター.md "wikilink") (\#2)
@@ -159,7 +159,7 @@
   - 樋口直彦：[Acoustic Guitar](../Page/アコースティック・ギター.md "wikilink") (\#4)
   - [宮永治郎](../Page/宮永治郎.md "wikilink")：Guitar (\#5)
   - [sin](https://ja.wikipedia.org/wiki/Sin_\(音楽プロデューサー\) "wikilink")：[Piano](../Page/ピアノ.md "wikilink") (\#4)
-  - [IKUO](https://ja.wikipedia.org/wiki/IKUO "wikilink")：[Bass](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink") (\#2)
+  - [IKUO](https://ja.wikipedia.org/wiki/IKUO "wikilink")：[Bass](../Page/ベース_\(弦楽器\).md "wikilink") (\#2)
   - [渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")：[Wood Bass](../Page/コントラバス.md "wikilink") (\#4)
   - [村石雅行](../Page/村石雅行.md "wikilink")：[Drums](../Page/ドラムセット.md "wikilink") (\#4)
   - [川村ゆみ](../Page/川村ゆみ.md "wikilink")：Chorus (\#3)

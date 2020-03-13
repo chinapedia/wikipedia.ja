@@ -14,7 +14,7 @@
   - MFコミックス comicoシリーズ
     『[comico](https://ja.wikipedia.org/wiki/comico "wikilink")』掲載作品。
   - MFコミックス フラッパーシリーズ
-    『[月刊コミックフラッパー](https://ja.wikipedia.org/wiki/コミックフラッパー "wikilink")』掲載作品。
+    『[月刊コミックフラッパー](../Page/コミックフラッパー.md "wikilink")』掲載作品。
   - MFコミックス アライブシリーズ
     公式サイトや一部の動画\[1\]では「アライブコミックス」の通称も使われている。
     『[月刊コミックアライブ](../Page/月刊コミックアライブ.md "wikilink")』、『[コミックアライブPlus](https://ja.wikipedia.org/wiki/コミックアライブPlus "wikilink")』掲載作品。
@@ -37,7 +37,7 @@
   - MFコミックス コミックアルファシリーズ
     『[コミックアルファ](https://ja.wikipedia.org/wiki/コミックアルファ "wikilink")』掲載作品。
   - MFコミックス ダ・ヴィンチシリーズ
-    『[ダ・ヴィンチ](https://ja.wikipedia.org/wiki/ダ・ヴィンチ "wikilink")』掲載作品。
+    『[ダ・ヴィンチ](../Page/ダ・ヴィンチ.md "wikilink")』掲載作品。
   - MFコミックス コミックキュットシリーズ
     『[コミックキュット](https://ja.wikipedia.org/wiki/コミックキュット "wikilink")』掲載作品。
 

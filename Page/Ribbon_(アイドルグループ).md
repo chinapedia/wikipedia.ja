@@ -1,17 +1,17 @@
 > この記事は[Ribbon \(\)](https://ja.wikipedia.org/wiki/Ribbon_\(\))から翻訳されています。
 
 
-**ribbon**（リボン）は、[1989年](../Page/1989年.md "wikilink")、[フジテレビのテレビ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[パラダイスGoGo\!\!](https://ja.wikipedia.org/wiki/パラダイスGoGo!! "wikilink")』内の「[乙女塾](https://ja.wikipedia.org/wiki/乙女塾 "wikilink")」から誕生した、[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。
+**ribbon**（リボン）は、[1989年](../Page/1989年.md "wikilink")、[フジテレビのテレビ番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[パラダイスGoGo\!\!](../Page/パラダイスGoGo!!.md "wikilink")』内の「[乙女塾](../Page/乙女塾.md "wikilink")」から誕生した、[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。
 
 ## メンバー
 
   - [永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")（ながさく ひろみ、 - ）乙女塾1期生
-  - [松野有里巳](https://ja.wikipedia.org/wiki/松野有里巳 "wikilink")（まつの ありみ、 - ）乙女塾1期生
+  - [松野有里巳](../Page/松野有里巳.md "wikilink")（まつの ありみ、 - ）乙女塾1期生
   - [佐藤愛子](https://ja.wikipedia.org/wiki/佐藤愛子_\(タレント\) "wikilink")（さとう あいこ、 - ）乙女塾3期生
 
 ## 概要
 
-メンバーは、[永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")、[松野有里巳](https://ja.wikipedia.org/wiki/松野有里巳 "wikilink")、[佐藤愛子の](https://ja.wikipedia.org/wiki/佐藤愛子_\(タレント\) "wikilink")3人。当初の結成計画では永作、松野と、[中嶋美智代](https://ja.wikipedia.org/wiki/中嶋美智代 "wikilink")の3人だった。
+メンバーは、[永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")、[松野有里巳](../Page/松野有里巳.md "wikilink")、[佐藤愛子の](https://ja.wikipedia.org/wiki/佐藤愛子_\(タレント\) "wikilink")3人。当初の結成計画では永作、松野と、[中嶋美智代](https://ja.wikipedia.org/wiki/中嶋美智代 "wikilink")の3人だった。
 
 [田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")所属ということもあって、[バラエティーアイドル](https://ja.wikipedia.org/wiki/バラエティーアイドル "wikilink")的な活動が多かったが、乙女塾出身タレントの中では歌唱力の優れたメンバーが揃い、楽曲もアイドルらしい愛らしい曲、旋律やハーモニーの美しい曲から、コミカルな曲まで、様々なタイプの曲をこなしている。
 
@@ -21,7 +21,7 @@
 
 ## グループ活動終了の経緯
 
-[Qlair](https://ja.wikipedia.org/wiki/Qlair "wikilink")同様、正式な解散発表も解散関連のリリースやイベントも一切行われず、徐々に段階的に活動が減少し解体されるに至った。したがって最終となったリリースやイベントも、実施された時点ではそのような告知はされておらず、グループ消滅によって「結果的に最後」だったことが確定したもののみである。またそれらは実施時期もバラバラである。
+[Qlair](../Page/Qlair.md "wikilink")同様、正式な解散発表も解散関連のリリースやイベントも一切行われず、徐々に段階的に活動が減少し解体されるに至った。したがって最終となったリリースやイベントも、実施された時点ではそのような告知はされておらず、グループ消滅によって「結果的に最後」だったことが確定したもののみである。またそれらは実施時期もバラバラである。
 
 1993年10月、シングル「夜明けなんていらない」発売。これがラストシングルとなる。
 
@@ -127,7 +127,7 @@
 
 ### バラエティ
 
-  - [パラダイスGoGo\!\!](https://ja.wikipedia.org/wiki/パラダイスGoGo!! "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
+  - [パラダイスGoGo\!\!](../Page/パラダイスGoGo!!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [週刊スタミナ天国](../Page/週刊スタミナ天国.md "wikilink")（フジテレビ）
   - [KURA・KURA](../Page/KURA・KURA.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - シンデレラEXPress（テレビ朝日）
@@ -145,7 +145,7 @@
 
 ### 舞台
 
-  - [劇団☆新感線](../Page/劇団☆新感線.md "wikilink")公演『[TIMESLIP 黄金丸](https://ja.wikipedia.org/wiki/TIMESLIP_黄金丸 "wikilink")』 （1993年3月3日 - 11日、[青山円形劇場](https://ja.wikipedia.org/wiki/青山円形劇場 "wikilink")、作：[中島かずき](https://ja.wikipedia.org/wiki/中島かずき "wikilink")、演出：[いのうえひでのり](https://ja.wikipedia.org/wiki/いのうえひでのり "wikilink")） - 主演
+  - [劇団☆新感線](../Page/劇団☆新感線.md "wikilink")公演『[TIMESLIP 黄金丸](https://ja.wikipedia.org/wiki/TIMESLIP_黄金丸 "wikilink")』 （1993年3月3日 - 11日、[青山円形劇場](../Page/青山円形劇場.md "wikilink")、作：[中島かずき](../Page/中島かずき.md "wikilink")、演出：[いのうえひでのり](../Page/いのうえひでのり.md "wikilink")） - 主演
 
 ### ラジオ
 

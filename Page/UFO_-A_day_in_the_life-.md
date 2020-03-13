@@ -156,7 +156,7 @@
 
   - [バンプール](https://ja.wikipedia.org/wiki/バンプール "wikilink") - 開発チームが設立したソフトハウス
   - [moon (アスキーのゲーム)](https://ja.wikipedia.org/wiki/moon_\(アスキーのゲーム\) "wikilink")
-  - [エンドネシア](https://ja.wikipedia.org/wiki/エンドネシア "wikilink")
+  - [エンドネシア](../Page/エンドネシア.md "wikilink")
   - [コロボール2002](https://ja.wikipedia.org/wiki/コロボール2002 "wikilink")
   - [もぎたてチンクルのばら色ルッピーランド](../Page/もぎたてチンクルのばら色ルッピーランド.md "wikilink")
 

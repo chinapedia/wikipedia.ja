@@ -1,7 +1,7 @@
 > この記事は[JUNK2 ](https://ja.wikipedia.org/wiki/JUNK2_)から翻訳されています。
 
 
-『**月曜JUNK2 笑い飯のトランジスタラジオくん**』（げつようジャンクツーわらいめしのトランジスタラジオくん）は、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、毎週[月曜日](../Page/月曜日.md "wikilink")深夜（[火曜日](../Page/火曜日.md "wikilink")午前）3:00 - 4:00に[TBSラジオ制作](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・[JRN系列](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")（一部除く）全国ネットで放送した[ラジオ番組](../Page/ラジオ番組.md "wikilink")。文字通り、月曜[JUNK2](https://ja.wikipedia.org/wiki/JUNK2 "wikilink")枠で放送された。
+『**月曜JUNK2 笑い飯のトランジスタラジオくん**』（げつようジャンクツーわらいめしのトランジスタラジオくん）は、[2005年](../Page/2005年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、毎週[月曜日](../Page/月曜日.md "wikilink")深夜（[火曜日](../Page/火曜日.md "wikilink")午前）3:00 - 4:00に[TBSラジオ制作](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")・[JRN系列](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")（一部除く）全国ネットで放送した[ラジオ番組](../Page/ラジオ番組.md "wikilink")。文字通り、月曜[JUNK2](../Page/JUNK2.md "wikilink")枠で放送された。
 
 ## 概要
 
@@ -104,7 +104,7 @@
 
   -
     女性の咳払いの声があえぎ声に似てると[哲夫が言い出した事から派生したコーナー](../Page/中西哲夫.md "wikilink")。グラビアアイドルなどが咳払いをしながら写真集などの宣伝をする。
-    初回のゲストである[時東ぁみ](https://ja.wikipedia.org/wiki/時東ぁみ "wikilink")がコメントの最後に当時番組内で流行していた「じゃこめし\!」というフレーズを言ってから他のゲストも「じゃこめし！」と言うようになった。
+    初回のゲストである[時東ぁみ](../Page/時東ぁみ.md "wikilink")がコメントの最後に当時番組内で流行していた「じゃこめし\!」というフレーズを言ってから他のゲストも「じゃこめし！」と言うようになった。
 
 ## これまでにゲスト出演した芸能人(マイジャー芸人以外)
 
@@ -119,7 +119,7 @@
   - [吉本峰之](https://ja.wikipedia.org/wiki/吉本峰之 "wikilink")([ストリーク](../Page/ストリーク.md "wikilink"))
   - [小林恵美](../Page/小林恵美.md "wikilink")
   - [美咲萌](https://ja.wikipedia.org/wiki/美咲萌 "wikilink")
-  - [浜田翔子](https://ja.wikipedia.org/wiki/浜田翔子_\(タレント\) "wikilink")
+  - [浜田翔子](../Page/浜田翔子_\(タレント\).md "wikilink")
   - [津田篤宏](https://ja.wikipedia.org/wiki/津田篤宏 "wikilink")([ダイアン](../Page/ダイアン.md "wikilink")）
   - [和田友徳](https://ja.wikipedia.org/wiki/和田友徳 "wikilink")([ヘッドライト](../Page/ヘッドライト_\(お笑い\).md "wikilink")）
   - [ジャルジャル](../Page/ジャルジャル.md "wikilink")

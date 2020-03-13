@@ -1,7 +1,7 @@
 > この記事は[ THE MOVIE ](https://ja.wikipedia.org/wiki/_THE_MOVIE_)から翻訳されています。
 
 
-『**特捜戦隊デカレンジャー THE MOVIE フルブラスト・アクション**』（とくそうせんたいデカレンジャー ザ ムービー フルブラスト・アクション）は、[2004年](../Page/2004年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された日本の映画作品。[特撮](../Page/特撮.md "wikilink")ヒーロー番組「[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")」『[特捜戦隊デカレンジャー](../Page/特捜戦隊デカレンジャー.md "wikilink")』の映画化作品である。同時上映は『[劇場版 仮面ライダー剣 MISSING ACE](https://ja.wikipedia.org/wiki/劇場版_仮面ライダー剣_MISSING_ACE "wikilink")』。
+『**特捜戦隊デカレンジャー THE MOVIE フルブラスト・アクション**』（とくそうせんたいデカレンジャー ザ ムービー フルブラスト・アクション）は、[2004年](../Page/2004年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")より[東映](../Page/東映.md "wikilink")系で公開された日本の映画作品。[特撮](../Page/特撮.md "wikilink")ヒーロー番組「[スーパー戦隊シリーズ](https://ja.wikipedia.org/wiki/スーパー戦隊シリーズ "wikilink")」『[特捜戦隊デカレンジャー](../Page/特捜戦隊デカレンジャー.md "wikilink")』の映画化作品である。同時上映は『[劇場版 仮面ライダー剣 MISSING ACE](../Page/劇場版_仮面ライダー剣_MISSING_ACE.md "wikilink")』。
 
 ## 概要
 
@@ -117,9 +117,9 @@
 ## キャスト
 
   - 赤座伴番 / デカレッド（声） - [載寧龍二](../Page/さいねい龍二.md "wikilink")
-  - 戸増宝児 / デカブルー（声） - [林剛史](https://ja.wikipedia.org/wiki/林剛史 "wikilink")
+  - 戸増宝児 / デカブルー（声） - [林剛史](../Page/林剛史.md "wikilink")
   - 江成仙一 / デカグリーン（声） - [伊藤陽佑](../Page/伊藤陽佑.md "wikilink")
-  - 礼紋茉莉花 / デカイエロー（声） - [木下あゆ美](https://ja.wikipedia.org/wiki/木下あゆ美 "wikilink")
+  - 礼紋茉莉花 / デカイエロー（声） - [木下あゆ美](../Page/木下あゆ美.md "wikilink")
   - 胡堂小梅 / デカピンク（声） - [菊地美香](../Page/菊地美香.md "wikilink")
   - 姶良鉄幹 / デカブレイク（声） - [吉田友一](../Page/吉田友一.md "wikilink")
   - 白鳥スワン - [石野真子](../Page/石野真子.md "wikilink")
@@ -143,14 +143,14 @@
 
 ### スーツアクター
 
-  - デカレッド\[15\]、デカベースロボ\[16\] - [福沢博文](https://ja.wikipedia.org/wiki/福沢博文 "wikilink")
+  - デカレッド\[15\]、デカベースロボ\[16\] - [福沢博文](../Page/福沢博文.md "wikilink")
   - [今井靖彦](../Page/今井靖彦.md "wikilink")
   - [三村幸司](../Page/三村幸司.md "wikilink")
-  - [橋本恵子](https://ja.wikipedia.org/wiki/橋本恵子 "wikilink")
+  - [橋本恵子](../Page/橋本恵子.md "wikilink")
   - [小島美穂](../Page/小島美穂.md "wikilink")
-  - [日下秀昭](https://ja.wikipedia.org/wiki/日下秀昭 "wikilink")
+  - [日下秀昭](../Page/日下秀昭.md "wikilink")
   - デカブレイク\[17\] - [大岩永徳](../Page/永徳_\(俳優\).md "wikilink")
-  - [蜂須賀祐一](https://ja.wikipedia.org/wiki/蜂須賀祐一 "wikilink")
+  - [蜂須賀祐一](../Page/蜂須賀祐一.md "wikilink")
   - [大林勝](../Page/大林勝.md "wikilink")
   - [竹内康博](../Page/竹内康博.md "wikilink")
   - [神尾直子](../Page/神尾直子.md "wikilink")
@@ -168,14 +168,14 @@
   - [藤榮史哉](../Page/藤榮史哉.md "wikilink")
   - [中島俊介](https://ja.wikipedia.org/wiki/中島俊介 "wikilink")
   - [宮川康裕](https://ja.wikipedia.org/wiki/宮川康裕 "wikilink")
-  - [小野友紀](https://ja.wikipedia.org/wiki/小野友紀 "wikilink")
+  - [小野友紀](../Page/小野友紀.md "wikilink")
   - [橋口未和](https://ja.wikipedia.org/wiki/橋口未和 "wikilink")
   - [金森規郎](https://ja.wikipedia.org/wiki/金森規郎 "wikilink")
   - [山口喜生](https://ja.wikipedia.org/wiki/山口喜生 "wikilink")
   - [宇田卓也](https://ja.wikipedia.org/wiki/宇田卓也 "wikilink")
   - [杉口秀樹](https://ja.wikipedia.org/wiki/杉口秀樹 "wikilink")
   - [金子佳代](https://ja.wikipedia.org/wiki/金子佳代 "wikilink")
-  - [中川素州](https://ja.wikipedia.org/wiki/中川素州 "wikilink")
+  - [中川素州](../Page/中川素州.md "wikilink")
   - [金田進一](https://ja.wikipedia.org/wiki/金田進一 "wikilink")
   - [花川仁教](https://ja.wikipedia.org/wiki/花川仁教 "wikilink")
   - [森田龍](https://ja.wikipedia.org/wiki/森田龍 "wikilink")
@@ -185,11 +185,11 @@
   - 原作 - [八手三郎](../Page/八手三郎.md "wikilink")
   - プロデュース - [塚田英明](../Page/塚田英明.md "wikilink")・土田真通（東映）、[シュレック・ヘドウィック](https://ja.wikipedia.org/wiki/シュレック・ヘドウィック "wikilink")（テレビ朝日）、矢田晃一（東映エージエンシー）
   - 監督 - [渡辺勝也](../Page/渡辺勝也.md "wikilink")
-  - 脚本 - [荒川稔久](https://ja.wikipedia.org/wiki/荒川稔久 "wikilink")
+  - 脚本 - [荒川稔久](../Page/荒川稔久.md "wikilink")
   - 音楽 - [亀山耕一郎](../Page/亀山耕一郎.md "wikilink")
   - 特撮監督 - [佛田洋](../Page/佛田洋.md "wikilink")
   - アクション監督 - [石垣広文](../Page/石垣広文.md "wikilink")
-  - 撮影 - [松村文雄](https://ja.wikipedia.org/wiki/松村文雄 "wikilink")
+  - 撮影 - [松村文雄](../Page/松村文雄.md "wikilink")
   - 照明 - 竹田勝三
   - 美術 - [大谷和正](https://ja.wikipedia.org/wiki/大谷和正 "wikilink")
   - 編集 - 州崎千恵子
@@ -252,7 +252,7 @@
 
 ## 漫画
 
-雑誌『[特撮エース](../Page/特撮エース.md "wikilink")』No.007 - 009に掲載。[竹山祐右](../Page/竹山祐右.md "wikilink")作画。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")に単行本発売。
+雑誌『[特撮エース](../Page/特撮エース.md "wikilink")』No.007 - 009に掲載。[竹山祐右](../Page/竹山祐右.md "wikilink")作画。[2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に単行本発売。
 
 ガスドリンカーズやマリーらを含め登場キャラは同じだが、ストーリー展開は映画と大きく異なっており、時系列的にはスワンが変身できることが既に知られているため36話以降となる。
 

@@ -5,7 +5,7 @@
 
 ## 内容
 
-約12年9ヶ月ぶりのアルバム。彼のこだわりを持ったジャンル（フラメンコなど）を中心に制作しており、ロック系は一切制作していない。聴いた者の間では「原曲のままにしてほしかった」「新鮮味がある」など意見が分かれている。[渚のオールスターズ](../Page/渚のオールスターズ.md "wikilink")として、セルフカバーした「シーズン・イン・ザ・サン」、「このまま君だけを奪い去りたい」「世界中の誰よりきっと」のリテイク・バージョンを収録。また、「Special Thanks」には、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")と表記している。これにより、[WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")への提供作品を全てセルフカバーをしたことになる。
+約12年9ヶ月ぶりのアルバム。彼のこだわりを持ったジャンル（フラメンコなど）を中心に制作しており、ロック系は一切制作していない。聴いた者の間では「原曲のままにしてほしかった」「新鮮味がある」など意見が分かれている。[渚のオールスターズ](../Page/渚のオールスターズ.md "wikilink")として、セルフカバーした「シーズン・イン・ザ・サン」、「このまま君だけを奪い去りたい」「世界中の誰よりきっと」のリテイク・バージョンを収録。また、「Special Thanks」には、[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")と表記している。これにより、[WANDS](../Page/WANDS.md "wikilink")への提供作品を全てセルフカバーをしたことになる。
 
 ## 収録曲
 
@@ -24,12 +24,12 @@
 5.  **[碧いうさぎ](https://ja.wikipedia.org/wiki/碧いうさぎ "wikilink")** - 原曲：[酒井法子](https://ja.wikipedia.org/wiki/酒井法子 "wikilink")
       -
         作詞：[牧穂エミ](../Page/牧穂エミ.md "wikilink") 作曲：織田哲郎 編曲：長田直也
-6.  **[突然](../Page/突然.md "wikilink")** - 原曲:[FIELD OF VIEW](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")
+6.  **[突然](../Page/突然.md "wikilink")** - 原曲:[FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
       -
         作詞：坂井泉水 作曲・編曲：織田哲郎
-7.  **[世界中の誰よりきっと](https://ja.wikipedia.org/wiki/世界中の誰よりきっと "wikilink")** - 原曲：[中山美穂](https://ja.wikipedia.org/wiki/中山美穂 "wikilink") & [WANDS](https://ja.wikipedia.org/wiki/WANDS "wikilink")
+7.  **[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")** - 原曲：[中山美穂](../Page/中山美穂.md "wikilink") & [WANDS](../Page/WANDS.md "wikilink")
       -
-        作詞：[上杉昇](https://ja.wikipedia.org/wiki/上杉昇 "wikilink")・中山美穂 作曲：織田哲郎 編曲：[ゴンチチ](../Page/ゴンチチ.md "wikilink")
+        作詞：[上杉昇](../Page/上杉昇.md "wikilink")・中山美穂 作曲：織田哲郎 編曲：[ゴンチチ](../Page/ゴンチチ.md "wikilink")
 8.  **[この愛に泳ぎ疲れても](https://ja.wikipedia.org/wiki/この愛に泳ぎ疲れても "wikilink")** - 原曲：ZARD
       -
         作詞：坂井泉水 作曲：織田哲郎 編曲：小松亮太
@@ -42,7 +42,7 @@
 11. **[恋心](../Page/恋心_\(相川七瀬の曲\).md "wikilink")** - 原曲：[相川七瀬](https://ja.wikipedia.org/wiki/相川七瀬 "wikilink")
       -
         作詞・作曲：織田哲郎 編曲：織田哲郎・タブラトゥーラ
-12. **[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")** - 原曲：[DEEN](https://ja.wikipedia.org/wiki/DEEN "wikilink")\[1\]
+12. **[このまま君だけを奪い去りたい](../Page/このまま君だけを奪い去りたい.md "wikilink")** - 原曲：[DEEN](../Page/DEEN.md "wikilink")\[1\]
       -
         作詞：上杉昇 作曲：織田哲郎 編曲：沢田完
 
@@ -53,10 +53,10 @@
 <!-- end list -->
 
   - [吉永雅人](https://ja.wikipedia.org/wiki/吉永雅人 "wikilink")、[勝俣泰](https://ja.wikipedia.org/wiki/勝俣泰 "wikilink") - ホルン
-  - [Saigenji](https://ja.wikipedia.org/wiki/Saigenji "wikilink") - ギター
+  - [Saigenji](../Page/Saigenji.md "wikilink") - ギター
   - [TOYO草薙](https://ja.wikipedia.org/wiki/TOYO草薙 "wikilink") - チャランゴ
   - [岡田浩安](https://ja.wikipedia.org/wiki/岡田浩安 "wikilink") - サンポーニャ
-  - [小沼ようすけ](https://ja.wikipedia.org/wiki/小沼ようすけ "wikilink") - ギター
+  - [小沼ようすけ](../Page/小沼ようすけ.md "wikilink") - ギター
   - [鳥越啓介](https://ja.wikipedia.org/wiki/鳥越啓介 "wikilink") - ベースギター
   - [楠均](https://ja.wikipedia.org/wiki/楠均 "wikilink") - ドラム
   - [沖仁](https://ja.wikipedia.org/wiki/沖仁 "wikilink") - フラメンコギター

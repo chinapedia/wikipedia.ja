@@ -7,13 +7,13 @@
 
 学生時代からの音楽経験を活かし、[1989年](../Page/1989年.md "wikilink")にポップユニット「黄細工」（イエローザイク）を結成する。
 
-[1991年](../Page/1991年.md "wikilink")、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[天才・たけしの元気が出るテレビ\!\!](https://ja.wikipedia.org/wiki/天才・たけしの元気が出るテレビ!! "wikilink")」内の企画「ダンス甲子園」に楽曲提供したのをきっかけにプロとしての活動を始める。
+[1991年](../Page/1991年.md "wikilink")、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")「[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")」内の企画「ダンス甲子園」に楽曲提供したのをきっかけにプロとしての活動を始める。
 
-[1993年](../Page/1993年.md "wikilink")、[徳間ジャパンと契約を結び](https://ja.wikipedia.org/wiki/徳間ジャパンコミュニケーションズ "wikilink")、[レーベル](../Page/レコードレーベル.md "wikilink")「TRANCEPLANT」を立ち上げる。本名から"**T2ya**"に改名し、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")ユニット「girl meets love」を結成。[キーボーディスト](https://ja.wikipedia.org/wiki/キーボーディスト "wikilink")・[サウンドプロデューサーとして活動をしていた](../Page/音楽プロデューサー.md "wikilink")。
+[1993年](../Page/1993年.md "wikilink")、[徳間ジャパンと契約を結び](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")、[レーベル](../Page/レコードレーベル.md "wikilink")「TRANCEPLANT」を立ち上げる。本名から"**T2ya**"に改名し、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")ユニット「girl meets love」を結成。[キーボーディスト](../Page/キーボーディスト.md "wikilink")・[サウンドプロデューサーとして活動をしていた](../Page/音楽プロデューサー.md "wikilink")。
 
 「girl meets love」活動終了以後は楽曲の提供とアーティストのプロデュースに専念することになる。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」では[ABYSS](https://ja.wikipedia.org/wiki/ABYSS "wikilink")(小林優美)・[FBI](https://ja.wikipedia.org/wiki/FBI "wikilink")(大泉めぐみ、現：[shela](https://ja.wikipedia.org/wiki/shela "wikilink"))をプロデュースしデビューさせた。
 
-[1999年](../Page/1999年.md "wikilink")6月、「T-INFINITY」を設立し、[EARTH](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\) "wikilink")・[Folder5](https://ja.wikipedia.org/wiki/Folder5 "wikilink")・[MAXなど多数のアーティストを手掛け多くのヒット曲を輩出した](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
+[1999年](../Page/1999年.md "wikilink")6月、「T-INFINITY」を設立し、[EARTH](../Page/EARTH_\(歌手グループ\).md "wikilink")・[Folder5](../Page/Folder5.md "wikilink")・[MAXなど多数のアーティストを手掛け多くのヒット曲を輩出した](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")。
 
 ## 楽曲提供作品一覧
 
@@ -165,7 +165,7 @@
 <tr class="odd">
 <td><p>1994.07.21</p></td>
 <td><p>ずっとZOOっと</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中嶋ミチヨ" title="wikilink">中嶋美智代</a></p></td>
+<td><p><a href="../Page/中嶋ミチヨ.md" title="wikilink">中嶋美智代</a></p></td>
 <td><p>田村由香</p></td>
 <td><p>橋長哲也</p></td>
 <td><p>新川博</p></td>
@@ -175,7 +175,7 @@
 <tr class="even">
 <td><p>1994.11.21</p></td>
 <td><p>君と冬と愛を</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小野正利" title="wikilink">小野正利</a></p></td>
+<td><p><a href="../Page/小野正利.md" title="wikilink">小野正利</a></p></td>
 <td><p>池永康記</p></td>
 <td><p>橋長哲也</p></td>
 <td><p>新川博</p></td>
@@ -660,7 +660,7 @@ T2ya</p></td>
 <td><p>観月ありさ</p></td>
 <td><p><a href="../Page/森浩美.md" title="wikilink">森浩美</a></p></td>
 <td><p>T2ya</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/葉山拓亮" title="wikilink">葉山拓亮</a></p></td>
+<td><p><a href="../Page/葉山拓亮.md" title="wikilink">葉山拓亮</a></p></td>
 <td><p>観月ありさ「<a href="https://ja.wikipedia.org/wiki/朝陽のあたる橋" title="wikilink">朝陽のあたる橋</a>」</p></td>
 <td><p>CX系ドラマ「<a href="../Page/天使のお仕事_(テレビドラマ).md" title="wikilink">天使のお仕事</a>」主題歌</p></td>
 </tr>
@@ -708,7 +708,7 @@ T2ya</p></td>
 <td><p>1999.05.19</p></td>
 <td><p>Melancholia</p></td>
 <td><p>千聖</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森雪之丞" title="wikilink">森雪之丞</a></p></td>
+<td><p><a href="../Page/森雪之丞.md" title="wikilink">森雪之丞</a></p></td>
 <td><p>千聖<br />
 重森美晴<br />
 T2ya</p></td>
@@ -745,7 +745,7 @@ T2ya</p></td>
 <tr class="odd">
 <td><p>1999.06.23</p></td>
 <td><p>太陽の季節</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/荻野目洋子" title="wikilink">荻野目洋子</a></p></td>
+<td><p><a href="../Page/荻野目洋子.md" title="wikilink">荻野目洋子</a></p></td>
 <td><p>荻野目洋子<br />
 T2ya</p></td>
 <td><p>T2ya</p></td>
@@ -814,7 +814,7 @@ T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>shela「White」</p></td>
-<td><p>日本テレビ系「<a href="https://ja.wikipedia.org/wiki/FUN" title="wikilink">FUN</a>」FUN'S RECOMMEND #008</p></td>
+<td><p>日本テレビ系「<a href="../Page/FUN.md" title="wikilink">FUN</a>」FUN'S RECOMMEND #008</p></td>
 </tr>
 <tr class="even">
 <td><p>1999.12.01</p></td>
@@ -882,7 +882,7 @@ Haya10</p></td>
 <tr class="even">
 <td><p>2000.02.23</p></td>
 <td><p>time after time</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/EARTH_(歌手グループ)" title="wikilink">EARTH</a></p></td>
+<td><p><a href="../Page/EARTH_(歌手グループ).md" title="wikilink">EARTH</a></p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
@@ -1042,7 +1042,7 @@ Hayato</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>EARTH「<a href="../Page/Your_song_(EARTHの曲).md" title="wikilink">Your song</a>」</p></td>
-<td><p>MBS/TBS系アニメ「<a href="https://ja.wikipedia.org/wiki/ゾイド_-ZOIDS-" title="wikilink">ゾイド</a>」エンディングテーマ</p></td>
+<td><p>MBS/TBS系アニメ「<a href="../Page/ゾイド_-ZOIDS-.md" title="wikilink">ゾイド</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>2000.11.08</p></td>
@@ -1119,7 +1119,7 @@ T2ya</p></td>
 <tr class="even">
 <td><p>2001.03.14</p></td>
 <td><p>STAY・・・</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Folder5" title="wikilink">Folder5</a></p></td>
+<td><p><a href="../Page/Folder5.md" title="wikilink">Folder5</a></p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
@@ -1232,7 +1232,7 @@ CM 中古車情報マガジン「カッチャオ」</p></td>
 <tr class="odd">
 <td><p>2001.08.01</p></td>
 <td><p>カナリア</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/椎名法子" title="wikilink">shiina</a></p></td>
+<td><p><a href="../Page/椎名法子.md" title="wikilink">shiina</a></p></td>
 <td><p>shiina</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
@@ -1323,7 +1323,7 @@ CM 中古車情報マガジン「カッチャオ」</p></td>
 <tr class="even">
 <td><p>2002.01.17</p></td>
 <td><p>BYE MY LOVE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FLAME" title="wikilink">FLAME</a></p></td>
+<td><p><a href="../Page/FLAME.md" title="wikilink">FLAME</a></p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>DeBose</p></td>
@@ -1349,7 +1349,7 @@ CM 中古車情報マガジン「カッチャオ」</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>今井絵理子「<a href="../Page/Don&#39;t_stop_the_music_(今井絵理子の曲).md" title="wikilink">Don't stop the music</a>」</p></td>
-<td><p>TBS系TV「<a href="https://ja.wikipedia.org/wiki/ランク王国" title="wikilink">ランク王国</a>」12,1月度オープニングテーマ</p></td>
+<td><p>TBS系TV「<a href="../Page/ランク王国.md" title="wikilink">ランク王国</a>」12,1月度オープニングテーマ</p></td>
 </tr>
 <tr class="odd">
 <td><p>2002.01.17</p></td>
@@ -1394,7 +1394,7 @@ CM 中古車情報マガジン「カッチャオ」</p></td>
 <tr class="odd">
 <td><p>2002.05.02</p></td>
 <td><p>Winner</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AI-SACHI" title="wikilink">AI-SACHI</a></p></td>
+<td><p><a href="../Page/AI-SACHI.md" title="wikilink">AI-SACHI</a></p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
@@ -1659,7 +1659,7 @@ Koma2 Kaz</p></td>
 <td><p>Haya10<br />
 <a href="https://ja.wikipedia.org/wiki/松下典由" title="wikilink">松下典由</a></p></td>
 <td><p>神宮寺結子「明日という未来」</p></td>
-<td><p>映画「<a href="https://ja.wikipedia.org/wiki/父と暮せば" title="wikilink">父と暮せば</a>」イメージソング</p></td>
+<td><p>映画「<a href="../Page/父と暮せば.md" title="wikilink">父と暮せば</a>」イメージソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>2004.08.11</p></td>
@@ -1674,7 +1674,7 @@ Koma2 Kaz</p></td>
 <tr class="even">
 <td><p>2004.11.24</p></td>
 <td><p>遠い星</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/下川みくに" title="wikilink">下川みくに</a></p></td>
+<td><p><a href="../Page/下川みくに.md" title="wikilink">下川みくに</a></p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/太田雅友" title="wikilink">太田雅友</a></p></td>
@@ -1688,7 +1688,7 @@ Koma2 Kaz</p></td>
 <td><p>T2ya</p></td>
 <td><p>T2ya</p></td>
 <td><p>h-wonder</p></td>
-<td><p>SMAP「<a href="https://ja.wikipedia.org/wiki/SAMPLE_BANG!" title="wikilink">SAMPLE BANG!</a>」</p></td>
+<td><p>SMAP「<a href="../Page/SAMPLE_BANG!.md" title="wikilink">SAMPLE BANG!</a>」</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1699,12 +1699,12 @@ Koma2 Kaz</p></td>
 <td><p>T2ya</p></td>
 <td><p>Koma2 Kaz</p></td>
 <td><p>玉置成実「<a href="https://ja.wikipedia.org/wiki/Get_Wild_(玉置成実の曲)" title="wikilink">Get Wild</a>」</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バンプレスト" title="wikilink">バンプレスト</a>社ゲーム「<a href="../Page/スーパーロボット大戦J.md" title="wikilink">スーパーロボット大戦J</a>」テーマソング</p></td>
+<td><p><a href="../Page/バンプレスト.md" title="wikilink">バンプレスト</a>社ゲーム「<a href="../Page/スーパーロボット大戦J.md" title="wikilink">スーパーロボット大戦J</a>」テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>2006.01.11</p></td>
 <td><p>smile&amp;wild</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中ノ森BAND" title="wikilink">中ノ森BAND</a></p></td>
+<td><p><a href="../Page/中ノ森BAND.md" title="wikilink">中ノ森BAND</a></p></td>
 <td><p>中ノ森文子<br />
 羽月美久</p></td>
 <td><p>中ノ森文子<br />
@@ -1774,7 +1774,7 @@ T2ya</p></td>
 <tr class="odd">
 <td><p>2006.10.18</p></td>
 <td><p>道標</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/橘慶太" title="wikilink">橘慶太</a></p></td>
+<td><p><a href="../Page/橘慶太.md" title="wikilink">橘慶太</a></p></td>
 <td><p>橘慶太</p></td>
 <td><p>T2ya</p></td>
 <td><p>Koma2 Kaz</p></td>
@@ -2143,7 +2143,7 @@ ROLL DAYS</p></td>
 <td><p>橋長哲也<br />
 ROLL DAYS</p></td>
 <td><p>ROLL DAYS「BREAK YOURSELF」</p></td>
-<td><p>ANB系「<a href="https://ja.wikipedia.org/wiki/マイティ・モーフィン・パワーレンジャー" title="wikilink">パワーレンジャー</a>」エンディングテーマ</p></td>
+<td><p>ANB系「<a href="../Page/マイティ・モーフィン・パワーレンジャー.md" title="wikilink">パワーレンジャー</a>」エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td><p>1996.04.05</p></td>

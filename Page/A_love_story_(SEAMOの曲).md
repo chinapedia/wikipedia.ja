@@ -1,7 +1,7 @@
 > この記事は[A love story \(SEAMO\)](https://ja.wikipedia.org/wiki/A_love_story_\(SEAMO\))から翻訳されています。
 
 
-「**a love story**」（ア・ラブ・ストーリー）は、[SEAMO](../Page/SEAMO.md "wikilink")の3枚目のシングル。[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[7月13日](../Page/7月13日.md "wikilink")に[BMG JAPANよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+「**a love story**」（ア・ラブ・ストーリー）は、[SEAMO](../Page/SEAMO.md "wikilink")の3枚目のシングル。[2005年](../Page/2005年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")に[BMG JAPANよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 解説
 

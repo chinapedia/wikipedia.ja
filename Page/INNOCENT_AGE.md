@@ -5,11 +5,11 @@
 
 ## 解説
 
-本作では、[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")や[インストゥルメンタルなど従来INFIXの楽曲にはなかった新たな試みの曲が見られる](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
+本作では、[アカペラ](https://ja.wikipedia.org/wiki/アカペラ "wikilink")や[インストゥルメンタルなど従来INFIXの楽曲にはなかった新たな試みの曲が見られる](../Page/器楽曲.md "wikilink")。
 
 ## 収録曲
 
-  - 全作詞・作曲：[長友仍世](https://ja.wikipedia.org/wiki/長友仍世 "wikilink")（特記以外）／編曲：[板倉雅一](https://ja.wikipedia.org/wiki/THE_FUSE "wikilink")
+  - 全作詞・作曲：[長友仍世](../Page/長友仍世.md "wikilink")（特記以外）／編曲：[板倉雅一](https://ja.wikipedia.org/wiki/THE_FUSE "wikilink")
 
 <!-- end list -->
 
@@ -19,7 +19,7 @@
       -
         作曲：佐藤晃
 4.  **風のエンブレム**
-      - 冒頭、“Course, I love you.”という[コーラスが入るが](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、当初、[長友仍世](https://ja.wikipedia.org/wiki/長友仍世 "wikilink")は“Gonna love you.”という詞を書いていた。しかしレコーディング時に“Course, I love you. ”で録音されてしまい、後から長友が間違いに気付いたものの、結局そのままCD化された\[1\]。
+      - 冒頭、“Course, I love you.”という[コーラスが入るが](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、当初、[長友仍世](../Page/長友仍世.md "wikilink")は“Gonna love you.”という詞を書いていた。しかしレコーディング時に“Course, I love you. ”で録音されてしまい、後から長友が間違いに気付いたものの、結局そのままCD化された\[1\]。
 5.  **素顔のままで**
 6.  **夢見るS・BOY**
 7.  **LET'S HAVE A PARTY\!\!**
@@ -31,7 +31,7 @@
       -
         作曲：板倉雅一・佐藤晃
 11. **[WINNERS FOREVER〜勝利者よ〜](../Page/WINNERS_FOREVER〜勝利者よ〜.md "wikilink") (Album Version)**
-      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士Vガンダム](https://ja.wikipedia.org/wiki/機動戦士Vガンダム "wikilink")』エンディングテーマのアルバムバージョン
+      - [テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士Vガンダム](../Page/機動戦士Vガンダム.md "wikilink")』エンディングテーマのアルバムバージョン
 12. **CHANGING MY LIFE**
       - ファン同士が集会など行う際に、会の名称に曲名が用いられる。（例：“CHANGING MY LIFE in 名古屋”）
 
@@ -39,4 +39,4 @@
 
 [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:infixのアルバム](https://ja.wikipedia.org/wiki/Category:infixのアルバム "wikilink")
 
-1.  [1993年](../Page/1993年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")『[FMナイトストリート](../Page/FMナイトストリート.md "wikilink")～[パジャマプレス](https://ja.wikipedia.org/wiki/パジャマプレス "wikilink")』番組内で[佐藤晃がコメント](https://ja.wikipedia.org/wiki/佐藤晃_\(ミュージシャン\) "wikilink")
+1.  [1993年](../Page/1993年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")『[FMナイトストリート](../Page/FMナイトストリート.md "wikilink")～[パジャマプレス](https://ja.wikipedia.org/wiki/パジャマプレス "wikilink")』番組内で[佐藤晃がコメント](../Page/佐藤晃_\(ミュージシャン\).md "wikilink")

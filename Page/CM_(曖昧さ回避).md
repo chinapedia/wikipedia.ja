@@ -6,12 +6,12 @@
 ## CM
 
   - [コマーシャルメッセージ](../Page/コマーシャルメッセージ.md "wikilink")
-  - [ハ音](https://ja.wikipedia.org/wiki/ハ音 "wikilink")[長三和音](https://ja.wikipedia.org/wiki/長三和音 "wikilink") (C Major)
-  - [コンストラクション・マネジメント](https://ja.wikipedia.org/wiki/コンストラクション・マネジメント "wikilink")
+  - [ハ音](https://ja.wikipedia.org/wiki/ハ音 "wikilink")[長三和音](../Page/長三和音.md "wikilink") (C Major)
+  - [コンストラクション・マネジメント](../Page/コンストラクション・マネジメント.md "wikilink")
   - [カメルーン](../Page/カメルーン.md "wikilink")の[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")
-  - [ローマ数字](../Page/ローマ数字.md "wikilink")で[900](https://ja.wikipedia.org/wiki/900 "wikilink")
+  - [ローマ数字](../Page/ローマ数字.md "wikilink")で[900](../Page/900.md "wikilink")
   - [ヴィンセンシオの宣教会](https://ja.wikipedia.org/wiki/ヴィンセンシオの宣教会 "wikilink") (Congregatio Missionis)。
-  - [ケーブルモデム](https://ja.wikipedia.org/wiki/ケーブルモデム "wikilink") (Cable Modem) 。
+  - [ケーブルモデム](../Page/ケーブルモデム.md "wikilink") (Cable Modem) 。
   - [コーネリアスのリミックス](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")・アルバム「[CM](https://ja.wikipedia.org/wiki/CM_\(アルバム\) "wikilink")」
   - 乗り物
       - 2代目[ヒュンダイ・サンタフェ](../Page/ヒュンダイ・サンタフェ.md "wikilink")の形式名。
@@ -24,13 +24,13 @@
   - [キャラクターメール](https://ja.wikipedia.org/wiki/キャラクターメール "wikilink") (**C**haracter **M**ail)の略。
   - コンタクトマニュファクチャラー（**C**ontract **M**anufacturer）の略。[協力会社](https://ja.wikipedia.org/wiki/協力会社 "wikilink")を参照。
   - [サイアノジェンモッド](https://ja.wikipedia.org/wiki/CyanogenMod "wikilink") (**C**yanogen**M**od) の略。
-  - アメリカのプロレスラー[CMパンク](https://ja.wikipedia.org/wiki/CMパンク "wikilink")
+  - アメリカのプロレスラー[CMパンク](../Page/CMパンク.md "wikilink")
   - 『[アイドルマスター シンデレラガールズ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ "wikilink")』のソロCDシリーズ「[THE IDOLM@STER CINDERELLA MASTER](https://ja.wikipedia.org/wiki/THE_IDOLM@STER_CINDERELLA_MASTER "wikilink")」。
   - CM関節（carpometacarpal joint、手根中手関節）\[1\]
 
 ## Cm
 
-  - [ハ音](https://ja.wikipedia.org/wiki/ハ音 "wikilink")[短三和音](https://ja.wikipedia.org/wiki/短三和音 "wikilink") (C minor)
+  - [ハ音](https://ja.wikipedia.org/wiki/ハ音 "wikilink")[短三和音](../Page/短三和音.md "wikilink") (C minor)
   - [キュリウム](../Page/キュリウム.md "wikilink")の[元素記号](../Page/元素記号.md "wikilink")
 
 ## cm

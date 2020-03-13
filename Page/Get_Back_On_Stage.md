@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - デビューアルバムとして、[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[10月26日](../Page/10月26日.md "wikilink")に[BMG JAPANよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。アルバムタイトルは「ステージ（メジャーシーン）に戻ってきたぜ」という意味が込められている。
+  - デビューアルバムとして、[2005年](../Page/2005年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")に[BMG JAPANよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。アルバムタイトルは「ステージ（メジャーシーン）に戻ってきたぜ」という意味が込められている。
   - [2007年](../Page/2007年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に、価格が安くなり、同内容で再発された。シングル「[軌跡](../Page/軌跡_\(SEAMOの曲\).md "wikilink")」と同時発売。
 
 ## 収録曲
@@ -13,7 +13,7 @@
 1.  **Intro 〜Here Comes the SEAMO〜**
 2.  **[a love story](https://ja.wikipedia.org/wiki/a_love_story_\(SEAMOの曲\) "wikilink")(album Version) / SEAMO with [BENNIE K](https://ja.wikipedia.org/wiki/BENNIE_K "wikilink")**
       -
-        [Lyrics](https://ja.wikipedia.org/wiki/作詞 "wikilink") by Naoki Takada & BENNIE K / Music by Naoki Takada & BENNIE K
+        [Lyrics](../Page/作詞.md "wikilink") by Naoki Takada & BENNIE K / Music by Naoki Takada & BENNIE K
         3rdシングル
 3.  **[DRIVE](https://ja.wikipedia.org/wiki/DRIVE_\(SEAMOの曲\) "wikilink")**
       -
@@ -51,7 +51,7 @@
       -
         Lyrics by Naoki Takada / Music by Naoki Takada & Hiroto Suzuki
 14. **Outro 〜A Music Box〜**
-15. **早漏オブ・ザ・メジャー**\*[隠しトラック](https://ja.wikipedia.org/wiki/隠しトラック "wikilink")
+15. **早漏オブ・ザ・メジャー**\*[隠しトラック](../Page/隠しトラック.md "wikilink")
       -
         Lyrics by Naoki Takada / Music by Naoki Takada
         「Outro 〜A Music Box〜」の終了後に、2〜3分の無音トラックをはさんでトラック46に存在する楽曲。ちなみにこの46という数字はSEAMO関連グッズにもいくつか見られるが、これはSEAMOがパチスロで46連チャンしたことにちなんでいる。

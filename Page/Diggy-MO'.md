@@ -1,11 +1,11 @@
 > この記事は[Diggy-MO\'](https://ja.wikipedia.org/wiki/Diggy-MO\')から翻訳されています。
 
 
-**Diggy-MO**'（ディギーモー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。所属[レコード会社](https://ja.wikipedia.org/wiki/レコード会社 "wikilink")は、[SME Records](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")、[SPACE SHOWER MUSIC](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC "wikilink")。日本のヒップホップグループ[SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")（2014年7月解散）の[メンバー](https://ja.wikipedia.org/wiki/メンバー "wikilink")であった。
+**Diggy-MO**'（ディギーモー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は、[SME Records](https://ja.wikipedia.org/wiki/SME_Records "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")、[SPACE SHOWER MUSIC](https://ja.wikipedia.org/wiki/SPACE_SHOWER_MUSIC "wikilink")。日本のヒップホップグループ[SOUL'd OUT](../Page/SOUL'd_OUT.md "wikilink")（2014年7月解散）の[メンバー](https://ja.wikipedia.org/wiki/メンバー "wikilink")であった。
 
 ## 人物
 
-幼少時代から、[ピアノ](../Page/ピアノ.md "wikilink")に親しんでおり、[クラシックを通じて音楽の基礎を習得](../Page/クラシック音楽.md "wikilink")。中学生・高校生時代には、知人と[バンドを組んでいた](../Page/バンド_\(音楽\).md "wikilink")。 [トレードマーク](https://ja.wikipedia.org/wiki/トレードマーク "wikilink")の[キャップは](../Page/帽子.md "wikilink")、SOUL'd OUTメジャーデビュー時から欠かさず被っており、キャップを外した姿で、[メディア](../Page/メディア.md "wikilink")や[ライブに出演することは](https://ja.wikipedia.org/wiki/演奏会 "wikilink")、滅多にない。デビュー当時から「ブレイズ&ビーズ」と呼ばれるヘアスタイルを通している。
+幼少時代から、[ピアノ](../Page/ピアノ.md "wikilink")に親しんでおり、[クラシックを通じて音楽の基礎を習得](../Page/クラシック音楽.md "wikilink")。中学生・高校生時代には、知人と[バンドを組んでいた](../Page/バンド_\(音楽\).md "wikilink")。 [トレードマーク](https://ja.wikipedia.org/wiki/トレードマーク "wikilink")の[キャップは](../Page/帽子.md "wikilink")、SOUL'd OUTメジャーデビュー時から欠かさず被っており、キャップを外した姿で、[メディア](../Page/メディア.md "wikilink")や[ライブに出演することは](../Page/演奏会.md "wikilink")、滅多にない。デビュー当時から「ブレイズ&ビーズ」と呼ばれるヘアスタイルを通している。
 
 影響を受けた[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")に、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")、[ザ・ルーツ](../Page/ザ・ルーツ.md "wikilink")などを挙げている。雑誌などでのインタビューでは、常に「S.Oをサザンオールスターズや[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")などのように幅広い層に愛されるグループに育て上げたい」と語る。
 
@@ -162,7 +162,7 @@ SECL-862</p></td>
 
 ## CM
 
-  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[ヴォクシー](https://ja.wikipedia.org/wiki/ヴォクシー "wikilink")」(初代・後期型)[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")([2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink"))。
+  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[ヴォクシー](https://ja.wikipedia.org/wiki/ヴォクシー "wikilink")」(初代・後期型)[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")([2006年](../Page/2006年.md "wikilink"))。
 
 ## タイアップ一覧
 

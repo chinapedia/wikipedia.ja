@@ -5,7 +5,7 @@
 
 ## 解説
 
-「サヨナラMISTY DAYS」は、[M\&M's](../Page/M&M's.md "wikilink")『[ミルクチョコレート](https://ja.wikipedia.org/wiki/ミルクチョコレート "wikilink")』CMソングで\[1\]、[DIMENSION](https://ja.wikipedia.org/wiki/DIMENSION "wikilink")の[勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")の[サックスを取り入れている](../Page/サクソフォーン.md "wikilink")。
+「サヨナラMISTY DAYS」は、[M\&M's](../Page/M&M's.md "wikilink")『[ミルクチョコレート](https://ja.wikipedia.org/wiki/ミルクチョコレート "wikilink")』CMソングで\[1\]、[DIMENSION](../Page/DIMENSION.md "wikilink")の[勝田かず樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")の[サックスを取り入れている](../Page/サクソフォーン.md "wikilink")。
 
 カップリングの「Dream, In My Love」は、[関西テレビ系](../Page/関西テレビ放送.md "wikilink")『[ウーマンドリーム](../Page/ウーマンドリーム.md "wikilink")』\[2\]挿入歌。
 
@@ -25,7 +25,7 @@
 
   - 葉山たけし - ギター
   - 勝田かず樹（DIMENSION） - サックス
-  - [川島だりあ](https://ja.wikipedia.org/wiki/川島だりあ "wikilink") - コーラス
+  - [川島だりあ](../Page/川島だりあ.md "wikilink") - コーラス
   - [生沢佑一](../Page/生沢佑一.md "wikilink")（[TWINZER](../Page/TWINZER.md "wikilink")） - コーラス
   - 山本千絵 - コーラス
 

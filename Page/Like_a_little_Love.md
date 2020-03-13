@@ -1,7 +1,7 @@
 > この記事は[Like a little Love](https://ja.wikipedia.org/wiki/Like_a_little_Love)から翻訳されています。
 
 
-「**Like a little Love**」（ライク ア リトル ラブ）は、[竹井詩織里](https://ja.wikipedia.org/wiki/竹井詩織里 "wikilink")の8枚目のシングル。
+「**Like a little Love**」（ライク ア リトル ラブ）は、[竹井詩織里](../Page/竹井詩織里.md "wikilink")の8枚目のシングル。
 
 ## 概要
 
@@ -12,7 +12,7 @@
 ## 収録曲
 
 1.  **Like a little Love**
-      - 作詞：[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")／作曲：[徳永暁人](https://ja.wikipedia.org/wiki/徳永暁人 "wikilink")／編曲：[小林哲](../Page/小林哲.md "wikilink")
+      - 作詞：[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")／作曲：[徳永暁人](../Page/徳永暁人.md "wikilink")／編曲：[小林哲](../Page/小林哲.md "wikilink")
 2.  **あたたかな冬の日**
       - 作詞：竹井詩織里／作曲：今井万紀／編曲：小林哲
 3.  **流星**
@@ -21,16 +21,16 @@
 
 ## 参加ミュージシャン
 
-  - [竹井詩織里](https://ja.wikipedia.org/wiki/竹井詩織里 "wikilink") - ボーカル、キーボード、コーラス
+  - [竹井詩織里](../Page/竹井詩織里.md "wikilink") - ボーカル、キーボード、コーラス
       - 小林哲 - プログラミング
       - 麻井寛史（[the★tambourines](https://ja.wikipedia.org/wiki/the★tambourines "wikilink")） - ベース
       - [大楠雄蔵](../Page/大楠雄蔵.md "wikilink")（[OOM](https://ja.wikipedia.org/wiki/OOM_\(バンド\) "wikilink")） - ピアノ
-      - [車谷啓介](https://ja.wikipedia.org/wiki/車谷啓介 "wikilink")（[三枝夕夏 IN db](https://ja.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")） - ドラム
+      - [車谷啓介](../Page/車谷啓介.md "wikilink")（[三枝夕夏 IN db](../Page/三枝夕夏_IN_db.md "wikilink")） - ドラム
 
 ## タイアップ
 
   - [MUSIC JAPAN TV系](https://ja.wikipedia.org/wiki/MUSIC_JAPAN_TV "wikilink")｢BREAK TV｣エンディングテーマ
-  - [チバテレビ系](https://ja.wikipedia.org/wiki/千葉テレビ放送 "wikilink")『[MU-GEN](../Page/MU-GEN.md "wikilink")』エンディングテーマ
+  - [チバテレビ系](../Page/千葉テレビ放送.md "wikilink")『[MU-GEN](../Page/MU-GEN.md "wikilink")』エンディングテーマ
 
 ## 収録アルバム
 

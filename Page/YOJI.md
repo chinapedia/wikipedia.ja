@@ -19,7 +19,7 @@
 
 2007年、Oliver Klitzing、Sterling Mossと共に新たな音楽ジャンル「[TECH DANCE](https://ja.wikipedia.org/wiki/TECH_DANCE "wikilink")（[テックダンス](https://ja.wikipedia.org/wiki/テックダンス "wikilink")）」を提唱、それを具現化したMIX CD「GIGA tech-dance extreme」を発表した。
 
-2008年現在までに発表したオリジナル楽曲は約30曲（未発表を含む）、更に50曲以上に渡るリミックスから、MIX CDの制作にまで至る。多くのアーティストや業界人から[マエストロ](https://ja.wikipedia.org/wiki/マエストロ "wikilink")（[マスター](https://ja.wikipedia.org/wiki/マスター "wikilink")）と称されており、一時期は日本でも「ハニカー」と呼ばれる熱狂的なファンを生んだ。
+2008年現在までに発表したオリジナル楽曲は約30曲（未発表を含む）、更に50曲以上に渡るリミックスから、MIX CDの制作にまで至る。多くのアーティストや業界人から[マエストロ](https://ja.wikipedia.org/wiki/マエストロ "wikilink")（[マスター](../Page/マスター.md "wikilink")）と称されており、一時期は日本でも「ハニカー」と呼ばれる熱狂的なファンを生んだ。
 
 2011年、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")が稼動しているアーケードゲーム[beatmania IIDXの最新作](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")「Lincle」にリミックスバージョンの「DON'T WAKE ME FROM THE DREAM(2010 Summer Edition)」が収録された。
 

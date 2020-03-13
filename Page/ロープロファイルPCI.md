@@ -9,7 +9,7 @@
 
 ## ロープロファイルPCI Express
 
-物理的には、ロープロファイルPCIで、仕様としては[PCI Expressに対応したもの](https://ja.wikipedia.org/wiki/PCI_Express "wikilink")。
+物理的には、ロープロファイルPCIで、仕様としては[PCI Expressに対応したもの](../Page/PCI_Express.md "wikilink")。
 
 ## フルPCI
 

@@ -1,7 +1,7 @@
 > この記事は[RAB](https://ja.wikipedia.org/wiki/RAB)から翻訳されています。
 
 
-**RAB女蛇山ラジオ送信所**（アールエービーめじゃやまラジオそうしんじょ）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")鶴ケ坂地区の女蛇山（[標高](https://ja.wikipedia.org/wiki/高さ "wikilink")154.2m）にある、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（RAB）の基幹[送信所](https://ja.wikipedia.org/wiki/送信所 "wikilink")である。
+**RAB女蛇山ラジオ送信所**（アールエービーめじゃやまラジオそうしんじょ）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")鶴ケ坂地区の女蛇山（[標高](../Page/高さ.md "wikilink")154.2m）にある、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（RAB）の基幹[送信所](../Page/送信所.md "wikilink")である。
 
 ## 送信施設概要
 
@@ -9,9 +9,9 @@
 <thead>
 <tr class="header">
 <th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/日本のラジオ放送局" title="wikilink">放送局名</a></p></th>
+<th><p><a href="../Page/日本のラジオ放送局.md" title="wikilink">放送局名</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/識別信号" title="wikilink">呼出符号</a></p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/空中線電力" title="wikilink">空中線<br />
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
 電力</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
@@ -30,7 +30,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p>-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1953年" title="wikilink">1953年</a><a href="https://ja.wikipedia.org/wiki/10月12日" title="wikilink">10月12日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/下北地方" title="wikilink">下北方面に</a><a href="../Page/指向性.md" title="wikilink">指向性</a>あり</p></td>
+<td><p><a href="../Page/下北地方.md" title="wikilink">下北方面に</a><a href="../Page/指向性.md" title="wikilink">指向性</a>あり</p></td>
 </tr>
 </tbody>
 </table>

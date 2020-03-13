@@ -1,7 +1,7 @@
 > この記事は[I album -iD-](https://ja.wikipedia.org/wiki/I_album_-iD-)から翻訳されています。
 
 
-『**I album -iD-**』（アイ・アルバム アイディー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")9作目のの[オリジナル・アルバム](https://ja.wikipedia.org/wiki/スタジオ・アルバム "wikilink")。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](https://ja.wikipedia.org/wiki/ジャニーズ・エンタテイメント "wikilink")。
+『**I album -iD-**』（アイ・アルバム アイディー）は、[KinKi Kidsの](../Page/KinKi_Kids.md "wikilink")9作目のの[オリジナル・アルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")発売。発売元は[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")。
 
 ## 解説
 
@@ -15,14 +15,14 @@
 
 ## チャート成績
 
-2006年12月25日付の[オリコン週間ランキングで初週](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")22.1万枚とを売り上げて、初登場1位を獲得した\[1\]。
+2006年12月25日付の[オリコン週間ランキングで初週](../Page/オリコンチャート.md "wikilink")22.1万枚とを売り上げて、初登場1位を獲得した\[1\]。
 
 ## 収録曲
 
 ※シングル曲の解説は各シングルのページを参照
 
 1.  **真冬のパンセ**
-    (作詞:[浅田信一](../Page/浅田信一.md "wikilink")　作曲:[石塚知生](../Page/石塚知生.md "wikilink")　編曲:[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU "wikilink"))
+    (作詞:[浅田信一](../Page/浅田信一.md "wikilink")　作曲:[石塚知生](../Page/石塚知生.md "wikilink")　編曲:[CHOKKAKU](../Page/CHOKKAKU.md "wikilink"))
       -
         シングル候補であった楽曲。[ピアノ](../Page/ピアノ.md "wikilink")と[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")を取り入れた楽曲となっている。
 2.  **藍色の夜風**
@@ -42,11 +42,11 @@
       -
         トラックダウンにも本人が関わっている。
 6.  **futari**
-    (作詞:[堂本光一](../Page/堂本光一.md "wikilink")　作曲:[堂本剛](../Page/堂本剛.md "wikilink")　編曲:[吉田建](https://ja.wikipedia.org/wiki/吉田建 "wikilink"))
+    (作詞:[堂本光一](../Page/堂本光一.md "wikilink")　作曲:[堂本剛](../Page/堂本剛.md "wikilink")　編曲:[吉田建](../Page/吉田建.md "wikilink"))
       -
         静かな別れのバラードの楽曲となっている。『H album -H・A・N・D-』収録曲の「恋涙」以来となる2人の共作であるが、今回は従来の組み合わせとは逆であり、この組み合わせでCD化されるのは初めてである。ただし、覆面名義では2002年の「[solitude 〜真実のサヨナラ〜](https://ja.wikipedia.org/wiki/solitude_〜真実のサヨナラ〜 "wikilink")」の初回盤にのみ収録されている「5×9=63」がある。
 7.  **Get it on** - 堂本光一
-    (作詞:[白井裕紀](../Page/白井裕紀.md "wikilink")・[新美香](https://ja.wikipedia.org/wiki/新美香 "wikilink")　作曲:[井手コウジ](https://ja.wikipedia.org/wiki/井手コウジ "wikilink")　編曲:[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink"))
+    (作詞:[白井裕紀](../Page/白井裕紀.md "wikilink")・[新美香](https://ja.wikipedia.org/wiki/新美香 "wikilink")　作曲:[井手コウジ](../Page/井手コウジ.md "wikilink")　編曲:[鈴木雅也](https://ja.wikipedia.org/wiki/鈴木雅也 "wikilink"))
       -
         エロティックな歌詞のダンスナンバー。
 8.  **Black Joke**
@@ -54,7 +54,7 @@
       -
         男女の友情が恋愛に発展する様子を皮肉混じりに描いた楽曲。
 9.  **[夏模様](../Page/夏模様_\(KinKi_Kidsの曲\).md "wikilink")**
-    (作詞:Satomi　作曲:[林田健司](https://ja.wikipedia.org/wiki/林田健司 "wikilink")　編曲:[佐久間誠](https://ja.wikipedia.org/wiki/佐久間誠 "wikilink")　ストリングスアレンジ:[佐藤泰将](https://ja.wikipedia.org/wiki/佐藤泰将 "wikilink"))
+    (作詞:Satomi　作曲:[林田健司](../Page/林田健司.md "wikilink")　編曲:[佐久間誠](https://ja.wikipedia.org/wiki/佐久間誠 "wikilink")　ストリングスアレンジ:[佐藤泰将](https://ja.wikipedia.org/wiki/佐藤泰将 "wikilink"))
       -
         23rdシングル
 10. **Parental Advisory Explicit Content**

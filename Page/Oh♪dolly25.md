@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[9月](../Page/9月.md "wikilink")に放送されていた『[Matthew's Best Hit TV](https://ja.wikipedia.org/wiki/Matthew's_Best_Hit_TV "wikilink")』の後継番組として、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月6日](../Page/10月6日.md "wikilink")放送開始。
+[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[9月](../Page/9月.md "wikilink")に放送されていた『[Matthew's Best Hit TV](../Page/Matthew's_Best_Hit_TV.md "wikilink")』の後継番組として、[2006年](../Page/2006年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")放送開始。
 
 メインMCの[藤井隆](../Page/藤井隆.md "wikilink")と、毎週一組のゲストが一夜限りの音楽ショーを展開する。ミュージシャンに限らず、俳優などもゲストとして登場する。[藤井隆](../Page/藤井隆.md "wikilink")とゲストがそれぞれ単独で歌うほかに、デュエットも披露する。トークコーナーや企画コーナーもある。番組セット内のモニターに映すCG映像を一般募集していた。
 
@@ -21,9 +21,9 @@
       - 「[朝まで生テレビ\!](../Page/朝まで生テレビ!.md "wikilink")」が放送される週は、放送休止（基本的に毎月最終週）
   - [大分朝日放送](../Page/大分朝日放送.md "wikilink")（OAB）同時ネット
   - [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")（AAB）土曜日17:00～17:30 [2007年](../Page/2007年.md "wikilink")2月3日放送開始
-  - [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月19日・12月22日に放送。
-  - [琉球朝日放送](../Page/琉球朝日放送.md "wikilink")（QAB）[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月22日に放送（1回のみ）。
-  - [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")（IAT）[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")11月から土曜日14:30～15:00に放送されていたが打ち切られた。後続は「[ザ・クイズマンショー](../Page/ザ・クイズマン!.md "wikilink")」。
+  - [北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）[2006年](../Page/2006年.md "wikilink")11月19日・12月22日に放送。
+  - [琉球朝日放送](../Page/琉球朝日放送.md "wikilink")（QAB）[2006年](../Page/2006年.md "wikilink")11月22日に放送（1回のみ）。
+  - [岩手朝日テレビ](../Page/岩手朝日テレビ.md "wikilink")（IAT）[2006年](../Page/2006年.md "wikilink")11月から土曜日14:30～15:00に放送されていたが打ち切られた。後続は「[ザ・クイズマンショー](../Page/ザ・クイズマン!.md "wikilink")」。
 
 ## 出典
 

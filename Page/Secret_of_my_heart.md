@@ -5,13 +5,13 @@
 
 ## 概要
 
-「[Love, Day After Tomorrow](https://ja.wikipedia.org/wiki/Love,_Day_After_Tomorrow "wikilink")」に続く自身2番目の売り上げ枚数（出荷ベースではミリオン達成）で、初動売上は自身最高を記録した。2000年5月15日付のオリコンチャートでは、ベスト15にデビュー作からの3曲が全てランクインした。
+「[Love, Day After Tomorrow](../Page/Love,_Day_After_Tomorrow.md "wikilink")」に続く自身2番目の売り上げ枚数（出荷ベースではミリオン達成）で、初動売上は自身最高を記録した。2000年5月15日付のオリコンチャートでは、ベスト15にデビュー作からの3曲が全てランクインした。
 
 サウンドプロデュースは、Perry Geyerのほか、Miguel Sá Pessoa、Michael Africkを加えた3者共同となった。
 
-PVは[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")で撮影され、観客が誰もいない中、ラジカセのスイッチを入れて歌うというものになっている。また、撮影にはビデオではなくフィルムが使われている。
+PVは[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で撮影され、観客が誰もいない中、ラジカセのスイッチを入れて歌うというものになっている。また、撮影にはビデオではなくフィルムが使われている。
 
-タイアップは、その後頻繁に担当することになるアニメ・『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』。[オリコンによる同アニメ関連のシングル売上では](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")、2016年現在歴代1位である。また、本曲が用いられたEDではヒロイン・[毛利蘭](https://ja.wikipedia.org/wiki/毛利蘭 "wikilink")が本曲を歌う設定となっている。
+タイアップは、その後頻繁に担当することになるアニメ・『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』。[オリコンによる同アニメ関連のシングル売上では](../Page/オリコンチャート.md "wikilink")、2016年現在歴代1位である。また、本曲が用いられたEDではヒロイン・[毛利蘭](../Page/毛利蘭.md "wikilink")が本曲を歌う設定となっている。
 
 長い間、音楽番組での披露はなかったが、[2014年](../Page/2014年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")の[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[ミュージックステーションスーパーライブ](../Page/ミュージックステーションスーパーライブ.md "wikilink")2014」でようやく初披露された。
 
@@ -43,7 +43,7 @@ PVは[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")
 ## 記録
 
   - [ゴールドディスク大賞](https://ja.wikipedia.org/wiki/ゴールドディスク大賞 "wikilink")「ソング・オブ・ザ・イヤー」受賞
-  - [2000年](../Page/2000年.md "wikilink")[オリコン年間チャート](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")16位。
+  - [2000年](../Page/2000年.md "wikilink")[オリコン年間チャート](../Page/オリコンチャート.md "wikilink")16位。
   - 2000年代テレビアニメ主題歌シングル売上1位。
 
 ## タイアップ
@@ -54,12 +54,12 @@ PVは[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")
 
   - 高山賢人(二胡奏者)がSecret of my heartをカバー。『At the time 〜記憶の旋律〜』に収録している。
   - Mei(ヴァイオリニスト)がSecret of my heartをカバー。『Mei’s selection OFF』に収録している。
-  - [DAIGO](https://ja.wikipedia.org/wiki/DAIGO "wikilink")が[ビーイング](../Page/ビーイング.md "wikilink")のヒット曲を集めたカバーアルバム『Deing』（2018年）に収録。
+  - [DAIGO](../Page/DAIGO.md "wikilink")が[ビーイング](../Page/ビーイング.md "wikilink")のヒット曲を集めたカバーアルバム『Deing』（2018年）に収録。
 
 ## 収録アルバム
 
   - [delicious way](https://ja.wikipedia.org/wiki/delicious_way "wikilink")（\#1）
-  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](https://ja.wikipedia.org/wiki/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜 "wikilink")（\#1）
+  - [THE BEST OF DETECTIVE CONAN 〜名探偵コナン テーマ曲集〜](../Page/THE_BEST_OF_DETECTIVE_CONAN_〜名探偵コナン_テーマ曲集〜.md "wikilink")（\#1）
   - [Wish You The Best](../Page/Wish_You_The_Best.md "wikilink")（\#1）
   - [ALL MY BEST](https://ja.wikipedia.org/wiki/ALL_MY_BEST "wikilink")（\#1）
   - [MAI KURAKI BEST 151A -LOVE & HOPE-](https://ja.wikipedia.org/wiki/MAI_KURAKI_BEST_151A_-LOVE_&_HOPE- "wikilink")（\#1）
@@ -68,7 +68,7 @@ PVは[渋谷公会堂](https://ja.wikipedia.org/wiki/渋谷公会堂 "wikilink")
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="https://ja.wikipedia.org/wiki/主題歌" title="wikilink">エンディングテーマ</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/テレビアニメ" title="wikilink">テレビアニメ</a>『<a href="https://ja.wikipedia.org/wiki/名探偵コナン_(アニメ)" title="wikilink">名探偵コナン</a>』<a href="../Page/主題歌.md" title="wikilink">エンディングテーマ</a><br />
 <a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/2月14日.md" title="wikilink">2月14日</a> - <a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/8月21日.md" title="wikilink">8月21日</a></p></td>
 </tr>
 <tr class="even">

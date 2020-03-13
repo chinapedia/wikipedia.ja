@@ -7,11 +7,11 @@
 
 容姿のコンプレックスで人生に迷った相談者を、人生のスタートラインに立たせて応援することを目的としている。相談者は容姿が原因でどのような経験をしたのかを説明し、[整形の決意を司会やゲストに伝える](../Page/美容外科学.md "wikilink")。その覚悟が伝わった時に司会者（紳助の役割だったが、降板後は和田が担当）の「**開け ビューティー・コロシアム**」との台詞で扉が開き、美の最前線で活躍する最高のアーティストとされる「**美のプロフェッショナル**」が、相談者を美しくする方法を提案する。
 
-2001年[10月26日](../Page/10月26日.md "wikilink")から2003年[9月26日](../Page/9月26日.md "wikilink")まで金曜19時台でのレギュラー放送が行われ、[2004年](../Page/2004年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")より『[カスペ\!](../Page/カスペ!.md "wikilink")』枠を中心に不定期で放送されている。レギュラー期の司会は[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")と[島田紳助](../Page/島田紳助.md "wikilink")。和田は2001年9月まで金曜20時台に放送されていた『[世界超密着TV\!ワレワレハ地球人ダ\!\!](https://ja.wikipedia.org/wiki/世界超密着TV!ワレワレハ地球人ダ!! "wikilink")』、紳助は前番組『[ザ\! キャッシュマン](../Page/ザ!_キャッシュマン.md "wikilink")』（2001年8月で[打ち切り](../Page/打ち切り.md "wikilink")）で司会を務めていた。「スペシャルは1度だけ」だと思っていた紳助が降板したためスペシャル版第2回（2004年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")放送分）以降は和田のみとなった。
+2001年[10月26日](../Page/10月26日.md "wikilink")から2003年[9月26日](../Page/9月26日.md "wikilink")まで金曜19時台でのレギュラー放送が行われ、[2004年](../Page/2004年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")より『[カスペ\!](../Page/カスペ!.md "wikilink")』枠を中心に不定期で放送されている。レギュラー期の司会は[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")と[島田紳助](../Page/島田紳助.md "wikilink")。和田は2001年9月まで金曜20時台に放送されていた『[世界超密着TV\!ワレワレハ地球人ダ\!\!](../Page/世界超密着TV!ワレワレハ地球人ダ!!.md "wikilink")』、紳助は前番組『[ザ\! キャッシュマン](../Page/ザ!_キャッシュマン.md "wikilink")』（2001年8月で[打ち切り](../Page/打ち切り.md "wikilink")）で司会を務めていた。「スペシャルは1度だけ」だと思っていた紳助が降板したためスペシャル版第2回（2004年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")放送分）以降は和田のみとなった。
 
 前番組『ザ\!キャッシュマン』（フジテレビ・[関西テレビ共同制作](../Page/関西テレビ放送.md "wikilink")）までとは異なりフジテレビの単独制作。金曜19時台はローカルセールス枠であり、ネットしない系列局も存在した（スペシャル版は放送されている）。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")放送分からは治療等にかかった費用も出されるようになったが、ほぼ100万円単位の高額だったため視聴者から批判が寄せられた。[視聴率](../Page/視聴率.md "wikilink")的な効果が特に見られなかったこともあり、2007年[2月6日](../Page/2月6日.md "wikilink")放送分からは再び非公開になった。
+[2005年](../Page/2005年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")放送分からは治療等にかかった費用も出されるようになったが、ほぼ100万円単位の高額だったため視聴者から批判が寄せられた。[視聴率](../Page/視聴率.md "wikilink")的な効果が特に見られなかったこともあり、2007年[2月6日](../Page/2月6日.md "wikilink")放送分からは再び非公開になった。
 
 [2006年](../Page/2006年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")収録分（2007年2月6日放送）からはハイビジョン制作を開始し、レギュラー放送時代から使用されていたスタジオセットも初めて変更した。
 
@@ -25,7 +25,7 @@
 
 その一例が2009年[6月23日](../Page/6月23日.md "wikilink")放送分である。この回では、病気の子供の介護疲れで顔が老けてしまった女性が登場。だが、「ただ若く見られたい、病気の子供に構いっきりで、何もできなかった長男に恩返しがしたい」ということを理由にしたため、和田だけでなく、[中尾彬](../Page/中尾彬.md "wikilink")をはじめとしたパネラーにも怒られ、その日は扉が開かれなかった。その後、この回のパネラーだった[FUJIWARA](../Page/FUJIWARA.md "wikilink")の[藤本敏史](../Page/藤本敏史.md "wikilink")が過去の出演者の中から、依頼者の女性と同じ境遇であり、番組で整形した出演者と面会させる。そこでアドバイスを貰って、2か月後に再び登場。歯を入れるなど自分なりに美しくした様子を見せ、年相応に見られたいと訴え、扉が開かれて大変身したケースがあった。
 
-番組の性格上、相談者はほとんどが女性であるが、なかには[ニューハーフ](https://ja.wikipedia.org/wiki/ニューハーフ "wikilink")や、[外国人](../Page/外国人.md "wikilink")、普通の男性が相談者として出演した回もあった。
+番組の性格上、相談者はほとんどが女性であるが、なかには[ニューハーフ](../Page/ニューハーフ.md "wikilink")や、[外国人](../Page/外国人.md "wikilink")、普通の男性が相談者として出演した回もあった。
 
 依頼者の中には、骨格などの問題で手術が困難なケースもある。そのため番組内に収まりきれず、結果が次回に持ち越されることもあるが、[2011年](../Page/2011年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink")放送分では結果の持ち越しやエンディングでの出演希望者募集告知が行われず、これ以後通常版の放送は行われていない。一方、先述の特別版は放送が継続されている。
 
@@ -52,11 +52,11 @@
   - [柳沢慎吾](../Page/柳沢慎吾.md "wikilink")
   - [薬丸裕英](../Page/薬丸裕英.md "wikilink")
   - [山咲トオル](../Page/山咲トオル.md "wikilink")
-  - [飯星景子](https://ja.wikipedia.org/wiki/飯星景子 "wikilink")
+  - [飯星景子](../Page/飯星景子.md "wikilink")
   - [光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")
   - [加藤明日美](../Page/加藤明日美.md "wikilink")
   - [熊切あさ美](https://ja.wikipedia.org/wiki/熊切あさ美 "wikilink")
-  - [浜口順子](https://ja.wikipedia.org/wiki/浜口順子 "wikilink")
+  - [浜口順子](../Page/浜口順子.md "wikilink")
   - [室井佑月](https://ja.wikipedia.org/wiki/室井佑月 "wikilink")
   - [宮崎美子](../Page/宮崎美子.md "wikilink")
   - [長井秀和](../Page/長井秀和.md "wikilink")
@@ -68,7 +68,7 @@
   - [東貴博](../Page/東貴博.md "wikilink")
   - [土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")
   - [鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")
-  - [千原ジュニア](https://ja.wikipedia.org/wiki/千原ジュニア "wikilink")
+  - [千原ジュニア](../Page/千原ジュニア.md "wikilink")
   - [はるな愛](../Page/はるな愛.md "wikilink") ほか
 
 ### 美のプロフェッショナル
@@ -110,7 +110,7 @@
 | ------------------------------------------------------------------------------------------- | ----- |
 | [2004年](../Page/2004年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")                      |       |
 | 2004年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")                              |       |
-| [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[5月31日](../Page/5月31日.md "wikilink") |       |
+| [2005年](../Page/2005年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")                    |       |
 | 2005年[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")                              |       |
 | [2006年](../Page/2006年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")                    | 16.7% |
 | 2006年[6月6日](../Page/6月6日.md "wikilink")                                                     | 16.0% |
@@ -179,7 +179,7 @@
   - チーフディレクター : [神崎茂](https://ja.wikipedia.org/wiki/神崎茂 "wikilink")
   - 総合演出 : 宮本忠浩
   - プロデューサー : 松原憲郎
-  - 技術協力 : [共立](../Page/共立_\(照明\).md "wikilink")、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")、[エクサインターナショナル](https://ja.wikipedia.org/wiki/エクサインターナショナル "wikilink")
+  - 技術協力 : [共立](../Page/共立_\(照明\).md "wikilink")、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")、[エクサインターナショナル](https://ja.wikipedia.org/wiki/エクサインターナショナル "wikilink")
   - 美術協力 : [フジアール](../Page/フジアール.md "wikilink")
   - 協力 : [大塚美容形成外科・歯科](https://ja.wikipedia.org/wiki/大塚美容形成外科・歯科 "wikilink")、[たかの友梨ビューティクリニック](https://ja.wikipedia.org/wiki/たかの友梨ビューティクリニック "wikilink")
   - スタッフ協力 : [R-1](../Page/ロール・ワン.md "wikilink")
@@ -217,7 +217,7 @@
   - リサーチ:松林順子、チャーリー藤澤、佐藤久美子他
   - 総合演出 : 宮本忠浩
   - プロデューサー : 細川邦夫、大林龍彦、関盛秀、林田竜一、栗林謙
-  - スタッフ協力 : [ncv](https://ja.wikipedia.org/wiki/ニッポンクリエイティブビジョン "wikilink")
+  - スタッフ協力 : [ncv](../Page/ニッポンクリエイティブビジョン.md "wikilink")
   - 制作協力 : 共同テレビ
   - 制作著作 : フジテレビ
 

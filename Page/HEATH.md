@@ -11,7 +11,7 @@
 
 <!-- end list -->
 
-  - 小学校4年生の時に母と兄に連れられて、[大阪府立体育会館](https://ja.wikipedia.org/wiki/大阪府立体育会館 "wikilink")で行われた[ヴァン・ヘイレン](https://ja.wikipedia.org/wiki/ヴァン・ヘイレン "wikilink")のコンサートを初めて見る。そこでのサウンド、主に[マイケル・アンソニー](../Page/マイケル・アンソニー.md "wikilink")が奏でるベースに衝撃を受け、ロックに目覚める。それからは、ヴァン・ヘイレンや[キッス](https://ja.wikipedia.org/wiki/キッス "wikilink")、[クイーン](../Page/クイーン_\(バンド\).md "wikilink")、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")などを聴いていた。一番好きなベーシストは、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の[ニッキー・シックス](../Page/ニッキー・シックス.md "wikilink")。洋楽にはまってから初めて買ったレコードは[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")の『[マシン・ヘッド](https://ja.wikipedia.org/wiki/マシン・ヘッド "wikilink")』、初めてコピーした曲は同じく「[スモーク・オン・ザ・ウォーター](../Page/スモーク・オン・ザ・ウォーター.md "wikilink")」。
+  - 小学校4年生の時に母と兄に連れられて、[大阪府立体育会館](../Page/大阪府立体育会館.md "wikilink")で行われた[ヴァン・ヘイレン](../Page/ヴァン・ヘイレン.md "wikilink")のコンサートを初めて見る。そこでのサウンド、主に[マイケル・アンソニー](../Page/マイケル・アンソニー.md "wikilink")が奏でるベースに衝撃を受け、ロックに目覚める。それからは、ヴァン・ヘイレンや[キッス](../Page/キッス.md "wikilink")、[クイーン](../Page/クイーン_\(バンド\).md "wikilink")、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")などを聴いていた。一番好きなベーシストは、[モトリー・クルー](../Page/モトリー・クルー.md "wikilink")の[ニッキー・シックス](../Page/ニッキー・シックス.md "wikilink")。洋楽にはまってから初めて買ったレコードは[ディープ・パープル](../Page/ディープ・パープル.md "wikilink")の『[マシン・ヘッド](../Page/マシン・ヘッド.md "wikilink")』、初めてコピーした曲は同じく「[スモーク・オン・ザ・ウォーター](../Page/スモーク・オン・ザ・ウォーター.md "wikilink")」。
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - 2000年、hide with Spread Beaverの[I.N.A](../Page/I.N.A.md "wikilink")、X JAPANの[PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")と共に[Dope HEADzを結成](../Page/Dope_HEADz.md "wikilink")。
+  - 2000年、hide with Spread Beaverの[I.N.A](../Page/I.N.A.md "wikilink")、X JAPANの[PATA](../Page/PATA.md "wikilink")と共に[Dope HEADzを結成](../Page/Dope_HEADz.md "wikilink")。
 
 <!-- end list -->
 
@@ -124,12 +124,12 @@
 
 ## 人物
 
-  - TAIJIの後任としてX JAPANに加入したが、[イアン・ヒル](../Page/イアン・ヒル.md "wikilink")や[ニッキー・シックス](../Page/ニッキー・シックス.md "wikilink")、[ジーン・シモンズの影響を公言する通り](../Page/ジーン・シモンズ_\(ミュージシャン\).md "wikilink")、そのプレイはオーソドックスな[ピック奏法](https://ja.wikipedia.org/wiki/ピック奏法 "wikilink")を主体とした堅実かつ謙虚なものであり、TAIJIのようなエキセントリックなプレイはあまりみられない。ただ、楽曲によっては[スラップ奏法](https://ja.wikipedia.org/wiki/スラップ奏法 "wikilink")や[スリーフィンガー・ピッキングなども用いり](https://ja.wikipedia.org/wiki/フィンガー・ピッキング#スリーフィンガー・ピッキング "wikilink")、「[SCARS](../Page/SCARS_\(X_JAPANの曲\).md "wikilink")」ではピック、スラップ、スリーフィンガーを駆使している。
+  - TAIJIの後任としてX JAPANに加入したが、[イアン・ヒル](../Page/イアン・ヒル.md "wikilink")や[ニッキー・シックス](../Page/ニッキー・シックス.md "wikilink")、[ジーン・シモンズの影響を公言する通り](../Page/ジーン・シモンズ_\(ミュージシャン\).md "wikilink")、そのプレイはオーソドックスな[ピック奏法](../Page/ピック奏法.md "wikilink")を主体とした堅実かつ謙虚なものであり、TAIJIのようなエキセントリックなプレイはあまりみられない。ただ、楽曲によっては[スラップ奏法](../Page/スラップ奏法.md "wikilink")や[スリーフィンガー・ピッキングなども用いり](https://ja.wikipedia.org/wiki/フィンガー・ピッキング#スリーフィンガー・ピッキング "wikilink")、「[SCARS](../Page/SCARS_\(X_JAPANの曲\).md "wikilink")」ではピック、スラップ、スリーフィンガーを駆使している。
   - X JAPANのライブにおけるソロコーナーにおいて、「[オペラ座の怪人](../Page/オペラ座の怪人.md "wikilink")」をベースで[演奏](../Page/演奏.md "wikilink")するというパフォーマンスを好んで行った。自らの曲である「daydream」も多く演奏した。
   - ソロコーナーでは、演奏していたベースを破壊するというパフォーマンスも非常に多く披露している。破壊したベースの種類などについては、使用機材の項に記述してある。
   - ライブの時にはエクステをよく付けるが、普段はブローした後は何もしないという。ちなみにシャンプーは、[ヴィダルサスーン](https://ja.wikipedia.org/wiki/ヴィダルサスーン "wikilink")を愛用。
   - X JAPAN再結成後のライブでは途中から上半身裸になることが多い。ちなみに、体型は昔から変わらず、体脂肪率も3～7%をキープしている。
-  - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")とは、自身がX JAPAN加入以前からの知り合い。SUGIZOからは「ハードロック、ヘヴィメタルにどっぷりつかってきたロック小僧だと思うけれど、資質はクラシックプレーヤーに近いんじゃないかな。本当にマジメで、常に練習してるし、譜面どおりに完璧に演奏するタイプ」と評されている。
+  - [SUGIZO](../Page/SUGIZO.md "wikilink")とは、自身がX JAPAN加入以前からの知り合い。SUGIZOからは「ハードロック、ヘヴィメタルにどっぷりつかってきたロック小僧だと思うけれど、資質はクラシックプレーヤーに近いんじゃないかな。本当にマジメで、常に練習してるし、譜面どおりに完璧に演奏するタイプ」と評されている。
 
 ## X JAPAN加入のきっかけ
 
@@ -141,11 +141,11 @@
 
 [Heath_at_Madison_Square_Garden.jpg](https://ja.wikipedia.org/wiki/File:Heath_at_Madison_Square_Garden.jpg "fig:Heath_at_Madison_Square_Garden.jpg") 当時Xは新しいベーシストの一般公募と平行して、X側からも一緒に音を出してみないかとジャンル問わず様々な人に声をかけていた。ベーシストの条件は「男性で、一緒に音を出して楽しいかどうか・感覚的に馬が合うかどうか・俺たちとピッチが合うかどうか」だった。公募の中には男性という条件にもかかわらず、女性も多数テープを送ってきていた（後日談だが、中にはベースは一切演奏できないにも関わらず、デモテープに意気込みだけを延々と吹き込んできた熱心なものもあったという。）。沢山のテープの中から実際に[オーディション](../Page/オーディション.md "wikilink")に来てもらった人もいたが、なかなか加入に至るまでの馬が合う人はいなかったという。そんな中で名前が挙がったのがHIDEの知り合いのHEATHだった。
 
-[1992年](../Page/1992年.md "wikilink")1月のX[東京ドーム](../Page/東京ドーム.md "wikilink")3days（[TAIJI脱退ライブ](https://ja.wikipedia.org/wiki/沢田泰司 "wikilink")）の数ヵ月後、HIDEはHEATHに電話をする。HEATHは飲みの誘いと思っていたが、ベーシストオーディション勧誘（正確には「音を一緒に出してみないか」という[セッション](../Page/セッション.md "wikilink")勧誘）の電話だった。HEATHはXが新しいベーシストを探していることは友人に聞いて知っていたが、当時は自身のバンドであるmedia youthもあり応募しようとは全く思っていなかった。そのため、勧誘の話をされてもHEATHは他のバンドのベーシストを紹介したりしていた。
+[1992年](../Page/1992年.md "wikilink")1月のX[東京ドーム](../Page/東京ドーム.md "wikilink")3days（[TAIJI脱退ライブ](../Page/沢田泰司.md "wikilink")）の数ヵ月後、HIDEはHEATHに電話をする。HEATHは飲みの誘いと思っていたが、ベーシストオーディション勧誘（正確には「音を一緒に出してみないか」という[セッション](../Page/セッション.md "wikilink")勧誘）の電話だった。HEATHはXが新しいベーシストを探していることは友人に聞いて知っていたが、当時は自身のバンドであるmedia youthもあり応募しようとは全く思っていなかった。そのため、勧誘の話をされてもHEATHは他のバンドのベーシストを紹介したりしていた。
 
 HEATHはその後、自身のバンドへの迷いがあったこともあり、入る入らないは別としてセッションならやりたいと承諾。結局、実際にはオーディションではなく、Xメンバーのほうからの希望でセッションと言う形でHEATHに来てもらう事になった。
 
-最初のセッションの時の演奏曲は「[Standing Sex](https://ja.wikipedia.org/wiki/Standing_Sex/Joker "wikilink")」「[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲 "wikilink")」「[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")」「[Joker](https://ja.wikipedia.org/wiki/Standing_Sex/Joker "wikilink")」「[Sadistic Desire](https://ja.wikipedia.org/wiki/Silent_Jealousy#収録曲 "wikilink")」の5曲。その前日から当日朝までHIDEとHEATHが一緒に飲んでいたこともあり、HEATHは二日酔いの状態でセッションに参加。仮眠も1、2時間ほどしかとらずHEATHは「間違えても仕方がない」と緊張していなかったがほぼ完璧に弾きこなす。逆にメンバーのほうが緊張して「下手なのがバレてナメられないようにしないといけないと思ってコチコチに緊張していた」と語る。物怖じしない性格や、終わって片づけをして、「じゃあ、結果は後日〜」とすぐに帰ってしまったHEATHに対しHIDEと[PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")は「大物だ」と感じたと同時に、「こいつはXにいてもおかしくない」と思ったという。
+最初のセッションの時の演奏曲は「[Standing Sex](https://ja.wikipedia.org/wiki/Standing_Sex/Joker "wikilink")」「[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD#収録曲 "wikilink")」「[ENDLESS RAIN](../Page/ENDLESS_RAIN.md "wikilink")」「[Joker](https://ja.wikipedia.org/wiki/Standing_Sex/Joker "wikilink")」「[Sadistic Desire](https://ja.wikipedia.org/wiki/Silent_Jealousy#収録曲 "wikilink")」の5曲。その前日から当日朝までHIDEとHEATHが一緒に飲んでいたこともあり、HEATHは二日酔いの状態でセッションに参加。仮眠も1、2時間ほどしかとらずHEATHは「間違えても仕方がない」と緊張していなかったがほぼ完璧に弾きこなす。逆にメンバーのほうが緊張して「下手なのがバレてナメられないようにしないといけないと思ってコチコチに緊張していた」と語る。物怖じしない性格や、終わって片づけをして、「じゃあ、結果は後日〜」とすぐに帰ってしまったHEATHに対しHIDEと[PATA](../Page/PATA.md "wikilink")は「大物だ」と感じたと同時に、「こいつはXにいてもおかしくない」と思ったという。
 
 その日のうちにHEATHのもとに「メンバーはHEATHを気に入ったがHEATHはどうだったか」という連絡が入る。さらにしばらくして、やはりベースはHEATHが良いとメンバー内で一致。すぐにHEATHに電話をするが、HEATHはそのとき自身で再結成させたバンドのこともあって、少し考えさせて欲しいと言った。結局2週間色々考えた末、セッションが楽しかったこともあり、決心して加入承諾の連絡をする。後のインタビューでHEATHは「あの中にいて違和感がなかった」「ピンとくるものが、Xに対してはすごく強くあった」と語っている。加入が決まったのは1992年5月中旬、HEATH24歳の時であった。
 
@@ -248,9 +248,9 @@ HEATHはその後、自身のバンドへの迷いがあったこともあり、
       - [YOSHIKI](../Page/YOSHIKI.md "wikilink")
       - [Toshl](https://ja.wikipedia.org/wiki/Toshl "wikilink")
       - [HIDE](https://ja.wikipedia.org/wiki/hide "wikilink")
-      - [PATA](https://ja.wikipedia.org/wiki/PATA "wikilink")
-      - [SUGIZO](https://ja.wikipedia.org/wiki/SUGIZO "wikilink")
-      - [TAIJI](https://ja.wikipedia.org/wiki/沢田泰司 "wikilink")
+      - [PATA](../Page/PATA.md "wikilink")
+      - [SUGIZO](../Page/SUGIZO.md "wikilink")
+      - [TAIJI](../Page/沢田泰司.md "wikilink")
   - [I.N.A](../Page/I.N.A.md "wikilink")
   - [media youth](https://ja.wikipedia.org/wiki/media_youth "wikilink")
 

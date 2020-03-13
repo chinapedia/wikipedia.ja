@@ -3,7 +3,7 @@
 
 『**AVENGER**』（**アヴェンジャー**）は、[2003年](../Page/2003年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から同年[12月25日](../Page/12月25日.md "wikilink")までの1:00 - 1:30（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")での場合）に[テレビ東京系列で放送された全](https://ja.wikipedia.org/wiki/TXN "wikilink")13話の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。地球に棄てられた未来の火星を舞台として、女戦士レイラ・アシュレイの復讐の旅を描く。
 
-[2004年](../Page/2004年.md "wikilink")から[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にかけて[AT-Xでも放送された](../Page/アニメシアターX.md "wikilink")。
+[2004年](../Page/2004年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて[AT-Xでも放送された](../Page/アニメシアターX.md "wikilink")。
 
 ## ストーリー
 
@@ -76,7 +76,7 @@
 ## スタッフ
 
   - 監督 - [真下耕一](../Page/真下耕一.md "wikilink")
-  - シリーズ構成 - [きむらひでふみ](https://ja.wikipedia.org/wiki/きむらひでふみ "wikilink")
+  - シリーズ構成 - [きむらひでふみ](../Page/きむらひでふみ.md "wikilink")
   - 世界観設定 - [沢村光彦](../Page/沢村光彦.md "wikilink")
   - キャラクター原案 - [田上俊介](https://ja.wikipedia.org/wiki/田上俊介 "wikilink")
   - キャラクターデザイン - [番由紀子](../Page/番由紀子.md "wikilink")
@@ -89,7 +89,7 @@
   - 音楽 - [ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")
   - 音響演出 - [なかのとおる](../Page/なかのとおる.md "wikilink")
   - プロデューサー - 池田慎一、[森本浩二](https://ja.wikipedia.org/wiki/森本浩二 "wikilink")、[里見哲朗](https://ja.wikipedia.org/wiki/里見哲朗 "wikilink")
-  - 制作 - [ビィートレイン](https://ja.wikipedia.org/wiki/ビィートレイン "wikilink")
+  - 制作 - [ビィートレイン](../Page/ビィートレイン.md "wikilink")
   - 制作協力 - [プロダクション・アイジー](../Page/プロダクション・アイジー.md "wikilink")
   - 製作 - [読売広告社](../Page/読売広告社.md "wikilink")、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")
 
@@ -102,7 +102,7 @@
   - 挿入歌「少女殉血」
   - 挿入歌「繭」
 
-全曲とも作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink") / 作曲・編曲：[片倉三起也](https://ja.wikipedia.org/wiki/片倉三起也 "wikilink") / 歌・演奏：[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")。
+全曲とも作詞：[宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink") / 作曲・編曲：[片倉三起也](../Page/片倉三起也.md "wikilink") / 歌・演奏：[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")。
 
 ## 各話リスト
 
@@ -121,7 +121,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>DOME</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/きむらひでふみ" title="wikilink">きむらひでふみ</a></p></td>
+<td><p><a href="../Page/きむらひでふみ.md" title="wikilink">きむらひでふみ</a></p></td>
 <td><p><a href="../Page/真下耕一.md" title="wikilink">真下耕一</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川面真也" title="wikilink">川面真也</a></p></td>
 <td><p><a href="../Page/番由紀子.md" title="wikilink">番由紀子</a></p></td>
@@ -234,7 +234,7 @@
 
 全6巻。各巻2話収録、定価6090円。放送終了後の1月から毎月1巻ずつリリースされた。各初回版に書き下ろしピンナップが付属、通常・初回に関わらず作品の内容を事細かに説明する解説書が同封されている。
 
-6巻のみ3話収録、定価7140円。第6巻の初回版には2004年1月号と2月号に「[月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/月刊電撃コミックガオ! "wikilink")」で[吉富昭仁](../Page/吉富昭仁.md "wikilink")の書いた漫画版と、同時掲載された監督との対談を収録。
+6巻のみ3話収録、定価7140円。第6巻の初回版には2004年1月号と2月号に「[月刊電撃コミックガオ\!](../Page/月刊電撃コミックガオ!.md "wikilink")」で[吉富昭仁](../Page/吉富昭仁.md "wikilink")の書いた漫画版と、同時掲載された監督との対談を収録。
 
   - AVENGER スペシャルDVD
     2004年の3月までにDVD第1巻初回版とサントラについてくる応募券をDVDの販売会社である[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")へ送ると、特典としてもらえた非売品。

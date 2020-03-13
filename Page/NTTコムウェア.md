@@ -7,7 +7,7 @@
 
 [NTTグループ](../Page/NTTグループ.md "wikilink")主要8社のひとつであり、[ユーザー系](../Page/ユーザー系.md "wikilink")の[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")である。
 
-主要事業は[NTTグループ](../Page/NTTグループ.md "wikilink")のシステム開発である。 NTTグループはNTT東日本や、[NTT西日本](https://ja.wikipedia.org/wiki/NTT西日本 "wikilink")、[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[日本電信電話](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")、[NTTファシリティーズ](https://ja.wikipedia.org/wiki/NTTファシリティーズ "wikilink")、[NTTファイナンス](../Page/NTTファイナンス.md "wikilink")、[NTT都市開発](../Page/NTT都市開発.md "wikilink")、[NTTアド](https://ja.wikipedia.org/wiki/NTTアド "wikilink")、[NTTロジスコ](https://ja.wikipedia.org/wiki/NTTロジスコ "wikilink")、[NTTソフトウェア](https://ja.wikipedia.org/wiki/NTTソフトウェア "wikilink")、[NTT-ME](../Page/NTT-ME.md "wikilink")、[NTTエレクトロニクス](https://ja.wikipedia.org/wiki/NTTエレクトロニクス "wikilink")などを中核とする総数946社\[1\] で構成されている。これら[NTTグループ](../Page/NTTグループ.md "wikilink")が提供するサービスには、ITシステムなくして実現できないものが数多くある。**NTTコムウェア**はそのITシステムを開発することによって、グループ各社のネットワークテクノロジーや、マーケティング、営業・販売、料金回収、顧客対応などを担い、[NTTグループ](../Page/NTTグループ.md "wikilink")のビジネスを推進する。この主要業務からの売上は、総売上比約8割を占める。\[2\]
+主要事業は[NTTグループ](../Page/NTTグループ.md "wikilink")のシステム開発である。 NTTグループはNTT東日本や、[NTT西日本](https://ja.wikipedia.org/wiki/NTT西日本 "wikilink")、[NTTコミュニケーションズ](../Page/NTTコミュニケーションズ.md "wikilink")、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")、[日本電信電話](../Page/日本電信電話.md "wikilink")、[NTTファシリティーズ](../Page/NTTファシリティーズ.md "wikilink")、[NTTファイナンス](../Page/NTTファイナンス.md "wikilink")、[NTT都市開発](../Page/NTT都市開発.md "wikilink")、[NTTアド](https://ja.wikipedia.org/wiki/NTTアド "wikilink")、[NTTロジスコ](https://ja.wikipedia.org/wiki/NTTロジスコ "wikilink")、[NTTソフトウェア](https://ja.wikipedia.org/wiki/NTTソフトウェア "wikilink")、[NTT-ME](../Page/NTT-ME.md "wikilink")、[NTTエレクトロニクス](https://ja.wikipedia.org/wiki/NTTエレクトロニクス "wikilink")などを中核とする総数946社\[1\] で構成されている。これら[NTTグループ](../Page/NTTグループ.md "wikilink")が提供するサービスには、ITシステムなくして実現できないものが数多くある。**NTTコムウェア**はそのITシステムを開発することによって、グループ各社のネットワークテクノロジーや、マーケティング、営業・販売、料金回収、顧客対応などを担い、[NTTグループ](../Page/NTTグループ.md "wikilink")のビジネスを推進する。この主要業務からの売上は、総売上比約8割を占める。\[2\]
 
 一方で、[NTTグループ](../Page/NTTグループ.md "wikilink")向け事業で得た大規模開発とネットワーク構築のノウハウを強みとして、一般市場の開拓も積極的に行なっている。一般市場からの売上は総売上比約2割である。\[3\]
 
@@ -17,11 +17,11 @@
 
 ## 沿革
 
-**NTTコムウェア**の起源は、[NTT](https://ja.wikipedia.org/wiki/NTT "wikilink")（[日本電信電話](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")）の社内組織であったソフトウェア開発センタと社内情報システム開発センタである。ソフトウェア開発センタは、[電子交換機やデジタル交換機のソフトウエア開発など](https://ja.wikipedia.org/wiki/電話交換機 "wikilink")、日本の通信ネットワークテクノロジーを支えてきた部門であった。社内情報システム開発センタは社内で利用する各種システムの開発、運用、保守を担ってきた部門であった。両センタは、それぞれ通信ソフトウェア本部発足と情報システム本部に改組され、その後統合されソフトウェア本部になった。
+**NTTコムウェア**の起源は、[NTT](https://ja.wikipedia.org/wiki/NTT "wikilink")（[日本電信電話](../Page/日本電信電話.md "wikilink")）の社内組織であったソフトウェア開発センタと社内情報システム開発センタである。ソフトウェア開発センタは、[電子交換機やデジタル交換機のソフトウエア開発など](https://ja.wikipedia.org/wiki/電話交換機 "wikilink")、日本の通信ネットワークテクノロジーを支えてきた部門であった。社内情報システム開発センタは社内で利用する各種システムの開発、運用、保守を担ってきた部門であった。両センタは、それぞれ通信ソフトウェア本部発足と情報システム本部に改組され、その後統合されソフトウェア本部になった。
 このソフトウェア本部が、再編成にあたり、1997年に第3分類（経営資源活用会社）として分社化されたことで、NTTコミュニケーションウェアが誕生した。
 後、**NTTコムウェア**に社名を変更して現在に至る。
 
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") [日本電信電話](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")株式会社内に中央ソフトウェアセンタ設置。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink") [日本電信電話](../Page/日本電信電話.md "wikilink")株式会社内に中央ソフトウェアセンタ設置。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") ソフトウェア開発センタ発足。社内情報システム開発センタ発足。
   - [1991年](../Page/1991年.md "wikilink") 通信ソフトウェア本部発足。情報システム本部発足。
   - [1996年](../Page/1996年.md "wikilink") 通信ソフトウェア本部と情報システム本部を統合して、ソフトウェア本部発足。

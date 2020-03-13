@@ -1,15 +1,15 @@
 > この記事は[de !DJ](https://ja.wikipedia.org/wiki/de_!DJ)から翻訳されています。
 
 
-『**テレビdeラジオ ヨロシク\!DJ**』（テレビでラジオ ヨロシク ディージェー）は、[1996年](../Page/1996年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送された[音楽番組](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")。
+『**テレビdeラジオ ヨロシク\!DJ**』（テレビでラジオ ヨロシク ディージェー）は、[1996年](../Page/1996年.md "wikilink")[7月5日](../Page/7月5日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[テレビ愛知](../Page/テレビ愛知.md "wikilink")で放送された[音楽番組](../Page/音楽番組.md "wikilink")。
 
 ## 概要
 
 番組タイトルが示す通り、深夜の[ラジオ番組](../Page/ラジオ番組.md "wikilink")のような企画をテレビ放送で行っていた[深夜番組](../Page/深夜番組.md "wikilink")である。
 
-番組は[プロモーションビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")（以下PV）の放送と各種音楽情報の紹介を主軸に進行。取り扱う楽曲のジャンルは[J-POP](../Page/J-POP.md "wikilink")がメインだったが、コーナーによっては[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")のPVを流すこともあった。[インターネット普及前の時代に放送された番組であるが](../Page/日本のインターネット.md "wikilink")、視聴者からのPVのリクエストを24時間常に受け付けていたのが特徴で、番組[パーソナリティたちが座るスタジオセットの前面にはリクエスト用の](../Page/ラジオパーソナリティ.md "wikilink")[FAX番号を記したプレートを設置し](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、番組の放送中常に目に付くようにしていた。また、毎回のCM入り前に表示する[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")にもFAX番号を記していた。
+番組は[プロモーションビデオ](../Page/ミュージック・ビデオ.md "wikilink")（以下PV）の放送と各種音楽情報の紹介を主軸に進行。取り扱う楽曲のジャンルは[J-POP](../Page/J-POP.md "wikilink")がメインだったが、コーナーによっては[洋楽](https://ja.wikipedia.org/wiki/洋楽 "wikilink")のPVを流すこともあった。[インターネット普及前の時代に放送された番組であるが](../Page/日本のインターネット.md "wikilink")、視聴者からのPVのリクエストを24時間常に受け付けていたのが特徴で、番組[パーソナリティたちが座るスタジオセットの前面にはリクエスト用の](../Page/ラジオパーソナリティ.md "wikilink")[FAX番号を記したプレートを設置し](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、番組の放送中常に目に付くようにしていた。また、毎回のCM入り前に表示する[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")にもFAX番号を記していた。
 
-この番組は、[ヤマギワソフト](https://ja.wikipedia.org/wiki/ヤマギワソフト "wikilink")の提供で放送されていた。その関係から、当時ヤマギワソフト[メルサ](../Page/メルサ.md "wikilink")店とヤマギワソフト[ナディアパーク](https://ja.wikipedia.org/wiki/ナディアパーク "wikilink")店にはこの番組用のリクエストBOXが置かれていた。これを利用すれば、ハガキやFAXを介さずとも据え付けのリクエスト用紙1枚で放送してほしいPVのリクエストをすることができた。
+この番組は、[ヤマギワソフト](../Page/ヤマギワソフト.md "wikilink")の提供で放送されていた。その関係から、当時ヤマギワソフト[メルサ](../Page/メルサ.md "wikilink")店とヤマギワソフト[ナディアパーク](https://ja.wikipedia.org/wiki/ナディアパーク "wikilink")店にはこの番組用のリクエストBOXが置かれていた。これを利用すれば、ハガキやFAXを介さずとも据え付けのリクエスト用紙1枚で放送してほしいPVのリクエストをすることができた。
 
 ## 放送時間
 

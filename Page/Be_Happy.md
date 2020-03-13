@@ -33,7 +33,7 @@
       -
         2ndシングル
 7.  **Can you feel my…?**
-      - 作曲:[岩井勇一郎](https://ja.wikipedia.org/wiki/岩井勇一郎 "wikilink")、編曲: 尾城九龍
+      - 作曲:[岩井勇一郎](../Page/岩井勇一郎.md "wikilink")、編曲: 尾城九龍
 8.  **[Ohh\! Paradise Taste\!\!](../Page/Ohh!_Paradise_Taste!!.md "wikilink")**
       - 作曲: 大野愛果、編曲: 尾城九龍
     <!-- end list -->
@@ -55,7 +55,7 @@
   - [大野愛果](../Page/大野愛果.md "wikilink")：Backing Chorus (\#2,3,6,8)
   - [Secil Minami](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")：Backing Chorus (\#4,7,10,11)
   - Yujirou：Backing Chorus (\#1)
-  - [山本耕史](https://ja.wikipedia.org/wiki/山本耕史 "wikilink")：Backing Chorus (\#6)
+  - [山本耕史](../Page/山本耕史.md "wikilink")：Backing Chorus (\#6)
   - [伊藤匠](https://ja.wikipedia.org/wiki/伊藤匠 "wikilink")：Backing Chorus (\#8)
   - [KIing Opal](https://ja.wikipedia.org/wiki/Soul_Crusaders#メンバー "wikilink")：[Rap](../Page/ラップ.md "wikilink") (\#6,8)
   - [大賀好修](../Page/大賀好修.md "wikilink")：[Guitar](../Page/ギター.md "wikilink") (\#1,2,3,7,10,11)

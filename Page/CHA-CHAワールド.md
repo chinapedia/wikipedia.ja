@@ -1,18 +1,18 @@
 > この記事は[CHA-CHA](https://ja.wikipedia.org/wiki/CHA-CHA)から翻訳されています。
 
 
-『**CHA-CHAワールド**』（チャチャワールド）は、[1989年](../Page/1989年.md "wikilink")[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")から同年[9月24日](../Page/9月24日.md "wikilink")まで[日本テレビで放送されていた](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週日曜 12:00 - 13:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。
+『**CHA-CHAワールド**』（チャチャワールド）は、[1989年](../Page/1989年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から同年[9月24日](../Page/9月24日.md "wikilink")まで[日本テレビで放送されていた](../Page/日本テレビ放送網.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週日曜 12:00 - 13:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。
 
 ## 概要
 
-金曜16:30枠で放送されていた『[ビギニング\!\!チャチャ](https://ja.wikipedia.org/wiki/ビギニング!!チャチャ "wikilink")』のリニューアル版で、同様に劇場型のスタジオに観客を招いての[公開収録を行っていた](../Page/公開放送.md "wikilink")。また、『[欽きらリン530\!\!](https://ja.wikipedia.org/wiki/欽きらリン530!! "wikilink")』から誕生したアイドルグループ・[CHA-CHA](https://ja.wikipedia.org/wiki/CHA-CHA "wikilink")が引き続きメインを務めていた。彼らはその他のレギュラー陣や番組が招いた2組のゲストとともに、ステージ上でコントやドラマ（戯曲）を繰り広げていた。
+金曜16:30枠で放送されていた『[ビギニング\!\!チャチャ](https://ja.wikipedia.org/wiki/ビギニング!!チャチャ "wikilink")』のリニューアル版で、同様に劇場型のスタジオに観客を招いての[公開収録を行っていた](../Page/公開放送.md "wikilink")。また、『[欽きらリン530\!\!](../Page/欽きらリン530!!.md "wikilink")』から誕生したアイドルグループ・[CHA-CHA](https://ja.wikipedia.org/wiki/CHA-CHA "wikilink")が引き続きメインを務めていた。彼らはその他のレギュラー陣や番組が招いた2組のゲストとともに、ステージ上でコントやドラマ（戯曲）を繰り広げていた。
 
-本番組の企画構成は、[萩本欽一](../Page/萩本欽一.md "wikilink")が「秋房子」名義で担当していた。萩本自身が番組に出演することはあまりなかったが、番組の流れや本人のモチベーション次第で[エキストラ](https://ja.wikipedia.org/wiki/エキストラ "wikilink")的に登場することもあった。この方式は、本番組の拡大リニューアル版である『[笑うと泣くぞ…ダハ\!](../Page/笑うと泣くぞ…ダハ!.md "wikilink")』にそのまま引き継がれた。
+本番組の企画構成は、[萩本欽一](../Page/萩本欽一.md "wikilink")が「秋房子」名義で担当していた。萩本自身が番組に出演することはあまりなかったが、番組の流れや本人のモチベーション次第で[エキストラ](../Page/エキストラ.md "wikilink")的に登場することもあった。この方式は、本番組の拡大リニューアル版である『[笑うと泣くぞ…ダハ\!](../Page/笑うと泣くぞ…ダハ!.md "wikilink")』にそのまま引き継がれた。
 
 ## 出演者
 
   - [CHA-CHA](https://ja.wikipedia.org/wiki/CHA-CHA "wikilink")
-  - [田中美佐子](https://ja.wikipedia.org/wiki/田中美佐子 "wikilink")
+  - [田中美佐子](../Page/田中美佐子.md "wikilink")
   - [JA-JA](../Page/JA-JA.md "wikilink")
   - [パワーズ](https://ja.wikipedia.org/wiki/パワーズ_\(お笑いコンビ\) "wikilink")
   - 中村ゆうじ（現・[中村有志](../Page/中村有志.md "wikilink")） - 当初はゲストで出演していたが、後にレギュラーに昇格した。
@@ -20,7 +20,7 @@
 ## スタッフ
 
   - 企画構成：秋房子（萩本欽一）
-  - 構成：[大岩賞介](https://ja.wikipedia.org/wiki/大岩賞介 "wikilink")、永井準、[詩村博史](https://ja.wikipedia.org/wiki/詩村博史 "wikilink")、鈴木しゅんじ、[鶴間政行](https://ja.wikipedia.org/wiki/鶴間政行 "wikilink")、荒木美子、[君塚良一](https://ja.wikipedia.org/wiki/君塚良一 "wikilink")（この中から週替わりで2人ずつが担当）
+  - 構成：[大岩賞介](../Page/大岩賞介.md "wikilink")、永井準、[詩村博史](../Page/詩村博史.md "wikilink")、鈴木しゅんじ、[鶴間政行](../Page/鶴間政行.md "wikilink")、荒木美子、[君塚良一](../Page/君塚良一.md "wikilink")（この中から週替わりで2人ずつが担当）
   - 音楽：入江淳、門司肇
   - 美術：小村一郎
   - 美術進行：高野豊
@@ -31,11 +31,11 @@
   - 技術：[日本テレビビデオ](../Page/日テレアックスオン.md "wikilink")
   - 照明：[共立照明](../Page/共立_\(照明\).md "wikilink")
   - 協力：[浅井企画](../Page/浅井企画.md "wikilink")
-  - 通信機器協力：[NTT](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")
+  - 通信機器協力：[NTT](../Page/日本電信電話.md "wikilink")
   - 製作：加藤光夫
   - プロデューサー：[金谷勲夫](../Page/金谷勲夫.md "wikilink")、松田道雄
   - ディレクター：西田弘一、近藤奏教、矢坂義之、竹田次彦
-  - 演出：篠木為八男、[土屋敏男](https://ja.wikipedia.org/wiki/土屋敏男 "wikilink")、[森下泰男](https://ja.wikipedia.org/wiki/森下泰男 "wikilink")
+  - 演出：篠木為八男、[土屋敏男](../Page/土屋敏男.md "wikilink")、[森下泰男](https://ja.wikipedia.org/wiki/森下泰男 "wikilink")
   - 製作著作：日本テレビ
 
 ## コーナー

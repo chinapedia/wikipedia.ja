@@ -7,7 +7,7 @@
 
 「パリン子学園」という架空の学園を舞台に繰り広げられるショートコント、前番組『ピンキーパンチ大逆転』にもあったアイドルの歌のコーナー、レギュラー陣が洋楽に日本語の詞による歌とダンスによるコーナーの3部構成。
 
-同時間帯はローカルセールス枠であったことから（現行のローカル枠とは別に設定）、系列局であってもこの番組を放送しなかった局や遅れネットで放送する局が多数存在した。例えば、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS) は当時この時間帯に『[シェフにおまかせ\!](https://ja.wikipedia.org/wiki/シェフにおまかせ! "wikilink")』を放送し、この番組を土曜 7:00 - 7:30 に放送していた。
+同時間帯はローカルセールス枠であったことから（現行のローカル枠とは別に設定）、系列局であってもこの番組を放送しなかった局や遅れネットで放送する局が多数存在した。例えば、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink") (MBS) は当時この時間帯に『[シェフにおまかせ\!](../Page/シェフにおまかせ!.md "wikilink")』を放送し、この番組を土曜 7:00 - 7:30 に放送していた。
 
 ## 出演者
 
@@ -15,15 +15,15 @@
 
   - [松本伊代](../Page/松本伊代.md "wikilink")
   - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")
-  - [堀ちえみ](https://ja.wikipedia.org/wiki/堀ちえみ "wikilink")
-  - [ジャニーズ少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")
+  - [堀ちえみ](../Page/堀ちえみ.md "wikilink")
+  - [ジャニーズ少年隊](../Page/少年隊.md "wikilink")
   - [コント赤信号](../Page/コント赤信号.md "wikilink")
   - [山田邦子](../Page/山田邦子.md "wikilink")
   - ほか
 
 ## スタッフ
 
-  - 構成：[大岩賞介](https://ja.wikipedia.org/wiki/大岩賞介 "wikilink")、[詩村博史](https://ja.wikipedia.org/wiki/詩村博史 "wikilink")、[浦沢義雄](https://ja.wikipedia.org/wiki/浦沢義雄 "wikilink")、[水谷龍二](https://ja.wikipedia.org/wiki/水谷龍二 "wikilink")、[川崎良](https://ja.wikipedia.org/wiki/川崎良 "wikilink")、[高橋秀樹](https://ja.wikipedia.org/wiki/高橋秀樹_\(放送作家\) "wikilink")、居作中一
+  - 構成：[大岩賞介](../Page/大岩賞介.md "wikilink")、[詩村博史](../Page/詩村博史.md "wikilink")、[浦沢義雄](../Page/浦沢義雄.md "wikilink")、[水谷龍二](https://ja.wikipedia.org/wiki/水谷龍二 "wikilink")、[川崎良](https://ja.wikipedia.org/wiki/川崎良 "wikilink")、[高橋秀樹](https://ja.wikipedia.org/wiki/高橋秀樹_\(放送作家\) "wikilink")、居作中一
   - 音楽：[小野寺忠和](https://ja.wikipedia.org/wiki/小野寺忠和 "wikilink")
   - 音楽構成：[高橋誠一](https://ja.wikipedia.org/wiki/高橋誠一 "wikilink")
   - 振付：[小井戸秀宅](https://ja.wikipedia.org/wiki/小井戸秀宅 "wikilink")、[西条満](https://ja.wikipedia.org/wiki/西条満_\(振付師\) "wikilink")、[名倉加代子](https://ja.wikipedia.org/wiki/名倉加代子 "wikilink")

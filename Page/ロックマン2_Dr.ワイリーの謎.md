@@ -5,9 +5,9 @@
 
 同社の『[ロックマンシリーズ](../Page/ロックマンシリーズ.md "wikilink")』の第2作目。前作『[ロックマン](../Page/ロックマン_\(ゲーム\).md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）で野望を阻止されたDr.ワイリーが、再び世界征服の野望を企み8体の新たなロボットを誕生させたため、主人公ロックマンを操作して野望を阻止する内容となっている。前作よりステージが増えており、8つの選択ステージとワイリーステージ（6ステージ）の計14のステージから構成される。操作性を始め、前作のシステムを元に、以降の作品の基礎となるシステムが構成されている。一般のユーザーによるボスキャラクターのデザイン募集も本作から開始された。
 
-開発はカプコン第2企画室が行い、ゲーム・デザインは前作に引き続き北村玲が担当、音楽は前作に引き続き[松前真奈美](https://ja.wikipedia.org/wiki/松前真奈美 "wikilink")が担当している他、アーケードゲーム『マッドギア』（1989年）を手掛けた立石孝とアーケードゲーム『[ストリートファイター](https://ja.wikipedia.org/wiki/ストリートファイター_\(ゲーム\) "wikilink")』（1987年）を手掛けた坂口由洋が担当している。
+開発はカプコン第2企画室が行い、ゲーム・デザインは前作に引き続き北村玲が担当、音楽は前作に引き続き[松前真奈美](../Page/松前真奈美.md "wikilink")が担当している他、アーケードゲーム『マッドギア』（1989年）を手掛けた立石孝とアーケードゲーム『[ストリートファイター](../Page/ストリートファイター_\(ゲーム\).md "wikilink")』（1987年）を手掛けた坂口由洋が担当している。
 
-後に各種プラットフォームに移植されるが、それぞれ仕様が異なる（[後述](https://ja.wikipedia.org/wiki/#移植版 "wikilink")）。復刻版である[PlayStation版のパッケージや説明書には](../Page/PlayStation_\(ゲーム機\).md "wikilink")「シリーズ最高傑作」という記述があり、全世界市場において全ロックマンシリーズ中、最高の販売本数を記録している作品である\[1\]。その他、2003年以降は[携帯電話ゲーム](https://ja.wikipedia.org/wiki/携帯電話ゲーム "wikilink")として配信された他、[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")対応ソフトとして[2007年](../Page/2007年.md "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[2012年](../Page/2012年.md "wikilink")に[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")、[2013年](../Page/2013年.md "wikilink")に[Wii U用としてそれぞれ配信された](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。
+後に各種プラットフォームに移植されるが、それぞれ仕様が異なる（[後述](https://ja.wikipedia.org/wiki/#移植版 "wikilink")）。復刻版である[PlayStation版のパッケージや説明書には](../Page/PlayStation_\(ゲーム機\).md "wikilink")「シリーズ最高傑作」という記述があり、全世界市場において全ロックマンシリーズ中、最高の販売本数を記録している作品である\[1\]。その他、2003年以降は[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として配信された他、[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")対応ソフトとして[2007年](../Page/2007年.md "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[2012年](../Page/2012年.md "wikilink")に[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")、[2013年](../Page/2013年.md "wikilink")に[Wii U用としてそれぞれ配信された](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。
 
 ## ゲーム内容
 
@@ -16,7 +16,7 @@
   - 登場するステージボスが6体から8体に増加した（以降、ロックマンシリーズのボスキャラ数は8体となる）。
   - 1度クリアしたステージに行けなくなった（携帯アプリ版では行けるようになった）。
   - [パスワードによるゲーム内容の記録が可能になった](../Page/パスワード_\(コンピュータゲーム\).md "wikilink")。ステージクリア時とゲームオーバー時に表示される。パスワードは文字を打つタイプのものではなく、5×5マスに赤丸を配置した表の形となっている\[2\]。
-  - エネルギー缶（E缶）が追加された。これは任意のタイミングで体力ゲージを全回復できるアイテムである\[3\]。最大4つまで所持できるが、ゲームオーバー時にストックが0に戻ってしまう。また、本作と[次作のみ体力ゲージ全快時でも誤って選択すると消費してしまう](https://ja.wikipedia.org/wiki/ロックマン3_Dr.ワイリーの最期!? "wikilink")\[4\]。なお、本作では「エネルギーパック」という名称であり。「エネルギー缶」という名称になったのは『3』以降である。
+  - エネルギー缶（E缶）が追加された。これは任意のタイミングで体力ゲージを全回復できるアイテムである\[3\]。最大4つまで所持できるが、ゲームオーバー時にストックが0に戻ってしまう。また、本作と[次作のみ体力ゲージ全快時でも誤って選択すると消費してしまう](../Page/ロックマン3_Dr.ワイリーの最期!?.md "wikilink")\[4\]。なお、本作では「エネルギーパック」という名称であり。「エネルギー缶」という名称になったのは『3』以降である。
   - ライフエネルギーと武器エネルギーのデザインが変更された。以降のファミリーコンピュータでの作品は、このデザインで統一されている。
   - スコアシステムの廃止（携帯アプリ版では継続）。
   - 水中でのジャンプ力の増加（動きが鈍るのは前作からの仕様）。
@@ -24,7 +24,7 @@
   - 一部を除き、敵キャラの被ダメージ後の無敵時間が非常に短くなった。耐久力の高い敵でも、至近距離からの連射で素早く倒せる。この仕様は次作まで続いた。
   - セレクトボタンでポーズをかけられなくなった。
   - ステージに置いてあるアイテムを入手した場合、ゲームオーバー時のみ復活するようになった。
-  - ステージセレクト画面では前作と異なり、最初から8ボスの中央にワイリー（のシンボルマーク）が表示されている。また、8体目を撃破するか、そこまで進めたパスワードを入力した際は、ステージセレクトに戻らずに直接ワイリーステージ開始時のデモが始まる。ただし、ゲームオーバーでステージセレクトに戻った場合は、カーソルをマークに合わせて選択することでワイリーステージが開始するようになっている。なお、[メガドライブ](../Page/メガドライブ.md "wikilink")版（『[ロックマンメガワールド](https://ja.wikipedia.org/wiki/ロックマンメガワールド "wikilink")』に収録）では、これと同様の方式となっている。
+  - ステージセレクト画面では前作と異なり、最初から8ボスの中央にワイリー（のシンボルマーク）が表示されている。また、8体目を撃破するか、そこまで進めたパスワードを入力した際は、ステージセレクトに戻らずに直接ワイリーステージ開始時のデモが始まる。ただし、ゲームオーバーでステージセレクトに戻った場合は、カーソルをマークに合わせて選択することでワイリーステージが開始するようになっている。なお、[メガドライブ](../Page/メガドライブ.md "wikilink")版（『[ロックマンメガワールド](../Page/ロックマンメガワールド.md "wikilink")』に収録）では、これと同様の方式となっている。
   - 被ダメージ時、身体が点滅している間だけトゲトラップ等の即死する地形に触れてもミスしないようになった（前作は点滅中に触れてもミス）。以降の作品は全てこの仕様になっている。これにより、わざとダメージを食らい、点滅中にトラップに触れてミスを回避する方法が使えるようになった。しかし、落とし穴などに落ちてしまうと点滅に関係なくミスにする。
   - シャッター通過後のボスの部屋までの通路が1画面分と短くなり（前作は、1回スクロールする2画面分あった）、敵も出現しなくなった。以降の作品ではこの通路の構造が踏襲されている。
 
@@ -243,7 +243,7 @@
 <td><p>7</p></td>
 <td><p>ロックマン2 Dr.ワイリーの謎</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BREW" title="wikilink">BREW</a>2.1対応機種<br />
+<td><p><a href="../Page/BREW.md" title="wikilink">BREW</a>2.1対応機種<br />
 （<a href="https://ja.wikipedia.org/wiki/EZアプリ" title="wikilink">EZアプリ</a>）</p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
@@ -329,7 +329,7 @@
 <td><p>ロックマン2 Dr.ワイリーの謎</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
-<a href="https://ja.wikipedia.org/wiki/PlayStation_Portable" title="wikilink">PlayStation Portable</a><br />
+<a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a><br />
 (<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
 <td><p>インテック</p></td>
 <td><p>カプコン</p></td>
@@ -419,7 +419,7 @@
 
   - 『ロックマンメガワールド』
       -
-        『[ロックマン](../Page/ロックマン_\(ゲーム\).md "wikilink")』『[3](https://ja.wikipedia.org/wiki/ロックマン3_Dr.ワイリーの最期!? "wikilink")』とのカップリング移植。
+        『[ロックマン](../Page/ロックマン_\(ゲーム\).md "wikilink")』『[3](../Page/ロックマン3_Dr.ワイリーの最期!?.md "wikilink")』とのカップリング移植。
 
 <!-- end list -->
 
@@ -436,15 +436,15 @@
 
 ## スタッフ
 
-  - キャラクター・デザイン：YASUKICHI（岸本泰明）、INAFKING（[稲船敬二](https://ja.wikipedia.org/wiki/稲船敬二 "wikilink")）、TOM PON（富田直哉）、NAGINEKO、2M03CM MAN、A.K.（北村玲）
-  - サウンド・プログラマー：OGERETSU KUN（立石孝）、MANAMI IETEL（[松前真奈美](https://ja.wikipedia.org/wiki/松前真奈美 "wikilink")）、YUUKICHAN'S PAPA（坂口由洋）
+  - キャラクター・デザイン：YASUKICHI（岸本泰明）、INAFKING（[稲船敬二](../Page/稲船敬二.md "wikilink")）、TOM PON（富田直哉）、NAGINEKO、2M03CM MAN、A.K.（北村玲）
+  - サウンド・プログラマー：OGERETSU KUN（立石孝）、MANAMI IETEL（[松前真奈美](../Page/松前真奈美.md "wikilink")）、YUUKICHAN'S PAPA（坂口由洋）
   - プログラマー：H.M.D.（松嶋延幸）
   - 企画：北村玲
   - スペシャル・サンクス：ごとうよしあき、[鈴木一也](../Page/鈴木一也_\(ゲームクリエイター\).md "wikilink")、ほそやともひろ、かとうじゅん、やまうちまさみ、たなかせいじ、河合英明、吉永拓三、いえなかしん、三浦徹也、もりもとたけお、さとうまさき、洗猛、まつむらひろのり
 
 ## 評価
 
-ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計28点（満40点）\[27\]、『[ファミリーコンピュータMagazine](https://ja.wikipedia.org/wiki/ファミリーコンピュータMagazine "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.99点（満30点）となっている\[28\]\[29\]。同誌1991年5月10日号特別付録の「ファミコンロムカセット オールカタログ」では、8体のボスキャラクターが前作よりも強くなっている事に言及した他、ボスキャラクターのデザインが一般公募によるものであると指摘した上で「個性豊かだ」と肯定的に評価している\[30\]。
+ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では合計28点（満40点）\[27\]、『[ファミリーコンピュータMagazine](../Page/ファミリーコンピュータMagazine.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、22.99点（満30点）となっている\[28\]\[29\]。同誌1991年5月10日号特別付録の「ファミコンロムカセット オールカタログ」では、8体のボスキャラクターが前作よりも強くなっている事に言及した他、ボスキャラクターのデザインが一般公募によるものであると指摘した上で「個性豊かだ」と肯定的に評価している\[30\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
@@ -452,7 +452,7 @@
 
 ## 備考
 
-  - 本作のタイトルデモで流れる[BGMは前作のエンディングBGMを一部流用している](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")。その後、曲調が変化するとタイトル画面になる。
+  - 本作のタイトルデモで流れる[BGMは前作のエンディングBGMを一部流用している](../Page/バックグラウンドミュージック.md "wikilink")。その後、曲調が変化するとタイトル画面になる。
   - ボス戦BGMが1種類のみで、ラストボスまで同じ曲が使われている。これは[2014年](../Page/2014年.md "wikilink")現在、[ナンバリング作品では唯一の例である](https://ja.wikipedia.org/wiki/ロックマンシリーズ#ナンバリング作品 "wikilink")\[31\]。
   - ボス決定デモのBGMは前作の決定デモBGMをアレンジしたものである。以降の作品（一部除く）でも多数の作品でアレンジバージョンが使われているが、『[ロックマン9 野望の復活\!\!](https://ja.wikipedia.org/wiki/ロックマン9_野望の復活!! "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）でのみ、本作のものがそのまま流用されている（『9』は他にワイリーステージ開始時のBGMも本作のもの流用している）。
   - 国外版（タイトルは『**Mega Man 2**』）の変更点として、難易度を抑えた「NORMALモード」の新設がある。NORMALモードでは敵に与えるダメージが全て2倍になっており、敵がライフエネルギーと武器エネルギーを落とす確率が大幅に上昇している。これにより、弱点武器で一撃で倒せるボスが存在する。また、日本版と同じ難易度の「DIFFICULTモード」もある。この国外版は、日本でも「[ロックマン クラシックス コレクション](https://ja.wikipedia.org/wiki/ロックマン_クラシックス_コレクション "wikilink")」でオプション設定により選択可能で、より簡単な「NORMALモード」でプレイすることも可能。　
@@ -484,7 +484,7 @@
 [Category:1988年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1988年のファミリーコンピュータ用ソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink") [Category:ロックマン](https://ja.wikipedia.org/wiki/Category:ロックマン "wikilink")
 
 1.
-2.  なお、以降の『[ロックマン3 Dr.ワイリーの最期\!?](https://ja.wikipedia.org/wiki/ロックマン3_Dr.ワイリーの最期!? "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）～『[ロックマン6 史上最大の戦い\!\!](https://ja.wikipedia.org/wiki/ロックマン6_史上最大の戦い!! "wikilink")』（[1993年](../Page/1993年.md "wikilink")）では6×6マスの表になり、作品によっては赤青2色の丸が配置される形になる。
+2.  なお、以降の『[ロックマン3 Dr.ワイリーの最期\!?](../Page/ロックマン3_Dr.ワイリーの最期!?.md "wikilink")』（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）～『[ロックマン6 史上最大の戦い\!\!](../Page/ロックマン6_史上最大の戦い!!.md "wikilink")』（[1993年](../Page/1993年.md "wikilink")）では6×6マスの表になり、作品によっては赤青2色の丸が配置される形になる。
 3.
 4.  『3』では体力全快時に使った瞬間は数字が減らないが、武器ウィンドウを閉じてもう一度開くと減っていることが確認できる。
 5.

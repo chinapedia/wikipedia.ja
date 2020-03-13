@@ -9,17 +9,17 @@
 
   - PCドキュメントビューワ
   - ミュージックプレイヤー（[AAC](../Page/AAC.md "wikilink")対応）
-  - [Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth "wikilink")
+  - [Bluetooth](../Page/Bluetooth.md "wikilink")
   - [トライリンガル](../Page/多言語.md "wikilink")（[日本語](../Page/日本語.md "wikilink")・[英語](../Page/英語.md "wikilink")・[韓国語](../Page/朝鮮語.md "wikilink")）
 
-| 主な対応サービス                                                                                 |
-| ---------------------------------------------------------------------------------------- |
-| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~                          |
-| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~                             |
-| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                                              |
-| [着うたフル](https://ja.wikipedia.org/wiki/着うたフル "wikilink")／[着うた](../Page/着うた.md "wikilink") |
-| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")                                  |
-| [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")                                |
+| 主な対応サービス                                                              |
+| --------------------------------------------------------------------- |
+| ~~[サークルトーク](https://ja.wikipedia.org/wiki/サークルトーク "wikilink")~~       |
+| ~~[S\!タウン](https://ja.wikipedia.org/wiki/S!タウン "wikilink")~~          |
+| [S\!ケータイ動画](../Page/S!ケータイ動画.md "wikilink")                           |
+| [着うたフル](../Page/着うたフル.md "wikilink")／[着うた](../Page/着うた.md "wikilink") |
+| [レコメール](https://ja.wikipedia.org/wiki/レコメール "wikilink")               |
+| [デルモジ表示](https://ja.wikipedia.org/wiki/デルモジ表示 "wikilink")             |
 
 ※アプリダウンロードにて対応
 

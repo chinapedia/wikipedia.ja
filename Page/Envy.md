@@ -17,7 +17,7 @@
 
 ## メンバー
 
-  - 深川哲也 ([vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink")/[sequencer](https://ja.wikipedia.org/wiki/ミュージックシーケンサー "wikilink"))※ベーシストの中川学と同じくBLIND JUSTICE時代から不動のオリジナルメンバーで、ライブのブッキング等バンドの中枢を担うリーダー的存在
+  - 深川哲也 ([vocals](https://ja.wikipedia.org/wiki/ボーカル "wikilink")/[sequencer](../Page/ミュージックシーケンサー.md "wikilink"))※ベーシストの中川学と同じくBLIND JUSTICE時代から不動のオリジナルメンバーで、ライブのブッキング等バンドの中枢を担うリーダー的存在
   - 河合信賢 ([guitar](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink"))/作曲者
   - 中川学 ([bass guitar](../Page/エレクトリックベース.md "wikilink"))
 

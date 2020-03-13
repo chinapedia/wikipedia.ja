@@ -1,7 +1,7 @@
 > この記事は[GF](https://ja.wikipedia.org/wiki/GF)から翻訳されています。
 
 
-**オーフスGF**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の中央部、[中央ユラン地域](https://ja.wikipedia.org/wiki/中央ユラン地域 "wikilink")の都市[オーフス](https://ja.wikipedia.org/wiki/オーフス "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。
+**オーフスGF**（）は、[デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink")の中央部、[中央ユラン地域](https://ja.wikipedia.org/wiki/中央ユラン地域 "wikilink")の都市[オーフス](../Page/オーフス.md "wikilink")に本拠を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。
 
 [1880年](../Page/1880年.md "wikilink")に創設された古参クラブ。国内カップ戦では最多優勝の9回を誇るが、2000年代になってからは3位以上の成績を収めたことはない。1960-1961シーズンの[UEFAチャンピオンズカップでは](../Page/UEFAチャンピオンズリーグ.md "wikilink")[レギア・ワルシャワ](../Page/レギア・ワルシャワ.md "wikilink")（ポーランド）と[フレドリクスタFK](https://ja.wikipedia.org/wiki/フレドリクスタFK "wikilink")（ノルウェー）を倒して準々決勝に進出した。準々決勝では[ベンフィカ](https://ja.wikipedia.org/wiki/ベンフィカ "wikilink")（ポルトガル）に敗れた。近年は低迷し、2006-2007シーズンはディビジョン1（2部）に降格した。
 

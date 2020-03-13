@@ -7,7 +7,7 @@
 
 ## 概要
 
-『[RABゴールデンナイター](https://ja.wikipedia.org/wiki/RABゴールデンナイター "wikilink")』が終了次第放送される[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")番組である。放送時間は火曜～金曜の21:00～22:00（2009年春から2017年春にかけては21:50まで、）。2010年現在、実際は「RABゴールデンナイター」本編終了後CM無しで、20:59（以降5分刻みで繰り下げ）から番組を開始している。
+『[RABゴールデンナイター](../Page/RABゴールデンナイター.md "wikilink")』が終了次第放送される[フィラー](https://ja.wikipedia.org/wiki/フィラー "wikilink")番組である。放送時間は火曜～金曜の21:00～22:00（2009年春から2017年春にかけては21:50まで、）。2010年現在、実際は「RABゴールデンナイター」本編終了後CM無しで、20:59（以降5分刻みで繰り下げ）から番組を開始している。
 
 土曜日は2006年度まで放送していたが、2007年度からはナイター中継が終了次第、生放送番組の『[土曜ワラッター\!](../Page/土曜ワラッター!.md "wikilink")』を放送するため放送がなくなった。『土曜ワラッター\!』は2016年3月で終了したが、下記の理由により終了後もナイター中継を編成していないため、当番組の放送は行われていない。
 
@@ -30,8 +30,8 @@
 
 ## 関連番組
 
-  - [栗山英樹](../Page/栗山英樹.md "wikilink")の[ミュージックブルペン](https://ja.wikipedia.org/wiki/ミュージックブルペン "wikilink")
-  - [スポーツミュージアム](https://ja.wikipedia.org/wiki/スポーツミュージアム "wikilink")
+  - [栗山英樹](../Page/栗山英樹.md "wikilink")の[ミュージックブルペン](../Page/ミュージックブルペン.md "wikilink")
+  - [スポーツミュージアム](../Page/スポーツミュージアム.md "wikilink")
 
 [Category:青森放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:青森放送のラジオ帯番組 "wikilink") [Category:ローカルラジオ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink")
 

@@ -4,9 +4,9 @@
 **EA** （イーエー）は
 
   - [エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink") (*Electronic Arts*) - [アメリカのビデオゲーム販売会社](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")
-  - [イースタン航空](https://ja.wikipedia.org/wiki/イースタン航空 "wikilink") (Eastern Airlines) の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")
+  - [イースタン航空](../Page/イースタン航空.md "wikilink") (Eastern Airlines) の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")
   - [エンタープライズアーキテクチャ](../Page/エンタープライズアーキテクチャ.md "wikilink") ([Enterprise Architecture](https://ja.wikipedia.org/wiki/:en:Enterprise_Architecture "wikilink"))
-  - [米国税理士](../Page/米国税理士.md "wikilink") (EA - Enrolled Agent) - [アメリカ合衆国内国歳入庁](../Page/アメリカ合衆国内国歳入庁.md "wikilink") (IRS) が管掌する米国の[税理士](https://ja.wikipedia.org/wiki/税理士 "wikilink")の略称。
+  - [米国税理士](../Page/米国税理士.md "wikilink") (EA - Enrolled Agent) - [アメリカ合衆国内国歳入庁](../Page/アメリカ合衆国内国歳入庁.md "wikilink") (IRS) が管掌する米国の[税理士](../Page/税理士.md "wikilink")の略称。
   - [環境会計](../Page/環境会計.md "wikilink") (Environmental Accounting) - 環境活動と経済活動を連係した環境経営ツール。
   - [イモーションズ・アノニマス](https://ja.wikipedia.org/wiki/イモーションズ・アノニマス "wikilink") (Emotions Anonymous) - 感情・情緒的な健康を求める人のための自助グループ[イモーションズ・アノニマス](https://ja.wikipedia.org/wiki/イモーションズ・アノニマス "wikilink")の略称。
   - [EA (バンド)](https://ja.wikipedia.org/wiki/EA_\(バンド\) "wikilink")（EA） - *マイカ・ルブテ* (Maika Leboutet) を中心として2009年に結成された東京のバンド。

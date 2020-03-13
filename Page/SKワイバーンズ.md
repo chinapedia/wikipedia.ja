@@ -3,7 +3,7 @@
 
 **SKワイバーンズ**（エスケー・ワイバーンズ, 에스케이 와이번스）は、[韓国の](../Page/大韓民国.md "wikilink")[プロ野球](../Page/プロ野球.md "wikilink")チームである。縁故地（[ホームタウン](../Page/ホームタウン.md "wikilink")）は[仁川広域市](../Page/仁川広域市.md "wikilink")。同市内にある[仁川SK幸福ドリーム球場（文鶴野球場）を本拠地とする](../Page/文鶴野球場.md "wikilink")。
 
-2000年、[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")で経営危機に陥った繊維メーカーのサンバンウルが傘下のプロ野球球団である[サンバンウル・レイダース](../Page/サンバンウル・レイダース.md "wikilink")を解散したあと、[SKグループ](https://ja.wikipedia.org/wiki/SKグループ "wikilink")がその選手たちを受け入れ「新球団」として誕生した。
+2000年、[アジア通貨危機](../Page/アジア通貨危機.md "wikilink")で経営危機に陥った繊維メーカーのサンバンウルが傘下のプロ野球球団である[サンバンウル・レイダース](../Page/サンバンウル・レイダース.md "wikilink")を解散したあと、[SKグループ](../Page/SKグループ.md "wikilink")がその選手たちを受け入れ「新球団」として誕生した。
 
 チーム名の「ワイバーンズ」は[ワイバーン](../Page/ワイバーン.md "wikilink")（wyvern、飛龍）の複数形。
 
@@ -16,12 +16,12 @@
 **[2002年](../Page/2002年.md "wikilink")**、[サッカーワールドカップ誘致に伴う仁川広域市の新総合運動場建設計画によって](../Page/2002_FIFAワールドカップ.md "wikilink")、[メインスタジアムの隣に受容人員](../Page/仁川文鶴競技場.md "wikilink")3万人規模の[文鶴（ムナク）野球場が完成](../Page/文鶴野球場.md "wikilink")。これに伴って仁川都心部の[桃園（ドウォン）球場から同球場に本拠地を移転](../Page/仁川公設運動場野球場.md "wikilink")。
 
 **2003年**、[曺凡鉉監督が就任し](https://ja.wikipedia.org/wiki/チョ凡鉉 "wikilink")4位でポーストシーズン初進出を果たす。準プレイオフから勝ち上がって球団史上初の韓国シリーズ進出を果たすも、[現代ユニコーンズ](../Page/現代ユニコーンズ.md "wikilink")の前に、7戦までもつれ込む接戦を演じながら敗れた。
-**2004年**に[LGツインズ](../Page/LGツインズ.md "wikilink")から元[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")の李尚勲（日本での登録名は[サムソン・リー](https://ja.wikipedia.org/wiki/サムソン・リー "wikilink")）が移籍するが、不振に陥りシーズン途中で電撃引退を発表し、この年は5位でポストシーズンに進出できなかった。
+**2004年**に[LGツインズ](../Page/LGツインズ.md "wikilink")から元[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")の李尚勲（日本での登録名は[サムソン・リー](https://ja.wikipedia.org/wiki/サムソン・リー "wikilink")）が移籍するが、不振に陥りシーズン途中で電撃引退を発表し、この年は5位でポストシーズンに進出できなかった。
 **2005年**は優勝争いを続け終盤2位をキープしていたが、最終戦で[斗山ベアーズ](../Page/斗山ベアーズ.md "wikilink")に追い越され3位に転落、[ハンファ・イーグルス](../Page/ハンファ・イーグルス.md "wikilink")との準プレーオフに敗れた。
 **2006年**は6位でポストシーズンには進出できず、曺凡鉉監督が退任した。
 
 **2007年**から[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")で1,2軍巡回コーチを勤めた[金星根](../Page/金星根.md "wikilink")が監督に就任し、[シカゴ・ホワイトソックス](../Page/シカゴ・ホワイトソックス.md "wikilink")でコーチを歴任した[李萬洙](../Page/李萬洙.md "wikilink")をヘッドコーチとして迎えた。同年度レギュラーシーズン1位で韓国シリーズに直行。プレイオフ勝者の斗山ベアーズを4勝2敗で下して悲願の初優勝を決めた。この時点で存在した韓国野球委員会所属の全球団が優勝を経験することになったが、2008年[現代ユニコーンズ](../Page/現代ユニコーンズ.md "wikilink")の解散、[ヒーローズの創設で](https://ja.wikipedia.org/wiki/ネクセン・ヒーローズ "wikilink")、また優勝未経験の球団が出てきた。
-韓国チャンピオンとして出場した同年の[アジアシリーズ](https://ja.wikipedia.org/wiki/アジアシリーズ "wikilink")では予選リーグで[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")を破り、初めて日本球団に勝利した球団になった。しかし、予選は3戦全勝で[決勝戦](https://ja.wikipedia.org/wiki/決勝戦 "wikilink")に進んだものの、決勝で中日に破れアジア王者とはならなかった。
+韓国チャンピオンとして出場した同年の[アジアシリーズ](../Page/アジアシリーズ.md "wikilink")では予選リーグで[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")を破り、初めて日本球団に勝利した球団になった。しかし、予選は3戦全勝で[決勝戦](../Page/決勝戦.md "wikilink")に進んだものの、決勝で中日に破れアジア王者とはならなかった。
 
 **2008年**は2007年以上の独走態勢で球団史上初の2年連続のレギュラーシーズン優勝、韓国シリーズ優勝を達成した。
 韓国チャンピオンとして2年連続で出場したアジアシリーズでは予選リーグで[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")を破ったが、台湾代表の[統一セブンイレブン・ライオンズ](https://ja.wikipedia.org/wiki/統一セブンイレブン・ライオンズ "wikilink")に大差で敗れて失点率で3位となり、決勝進出はならなかった。
@@ -90,7 +90,7 @@
 
   - 0 [金江珉](https://ja.wikipedia.org/wiki/金江ミン "wikilink")（キム・ガンミン）
   - 17 [慮壽匡](https://ja.wikipedia.org/wiki/慮壽匡 "wikilink")（ノ・スグァン）
-  - 37 [鄭義潤](https://ja.wikipedia.org/wiki/鄭義潤 "wikilink")（チョン・ウィユン）
+  - 37 [鄭義潤](../Page/鄭義潤.md "wikilink")（チョン・ウィユン）
   - 53 [高宗郁](https://ja.wikipedia.org/wiki/高宗郁 "wikilink")（コ・ジョンウク）
   - 62 [韓東旻](https://ja.wikipedia.org/wiki/韓東旻 "wikilink")（ハン・ドンミン）
 
@@ -101,7 +101,7 @@
 ### 韓国人選手
 
   - [金敬起](https://ja.wikipedia.org/wiki/金敬起 "wikilink")（キム・ギョンギ、2000-2001）
-  - [李尚勲](https://ja.wikipedia.org/wiki/李尚勲 "wikilink")（イ・サンフン、2004） - 元[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")
+  - [李尚勲](../Page/李尚勲.md "wikilink")（イ・サンフン、2004） - 元[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")
   - [金杞泰](https://ja.wikipedia.org/wiki/金杞泰 "wikilink")（キム・ギテ、2002-2005）
   - [魏在永](https://ja.wikipedia.org/wiki/魏在永 "wikilink")（ウィ・ジェヨン、2005-2006）
   - [李晋暎](../Page/李晋暎.md "wikilink")（イ・ジニョン、2000-2008）
@@ -129,23 +129,23 @@
   - [ハービー・プリアム](../Page/ハービー・プリアム.md "wikilink")（2000） - 元[オリックス・ブルーウェーブ](../Page/オリックス・バファローズ.md "wikilink")
   - [ヘンスリー・ミューレンス](../Page/ヘンスリー・ミューレンス.md "wikilink")（2000） - 元[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")、[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
   - [ペドロ・カステヤーノ](../Page/ペドロ・カステヤーノ.md "wikilink")（2002） - 元[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
-  - [ホセ・フェルナンデス](https://ja.wikipedia.org/wiki/ホセ・フェルナンデス_\(1974年生の内野手\) "wikilink")（2002） - 元[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")
+  - [ホセ・フェルナンデス](../Page/ホセ・フェルナンデス_\(1974年生の内野手\).md "wikilink")（2002） - 元[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")
   - [ジョニー・ラフィン](../Page/ジョニー・ラフィン.md "wikilink")（2002） - 元[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")
-  - [エディ・ディアス](https://ja.wikipedia.org/wiki/エディ・ディアス "wikilink")（2003） - 元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")
-  - [塩谷和彦](https://ja.wikipedia.org/wiki/塩谷和彦 "wikilink")（2006） - 元[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")
-  - [ケニー・レイボーン](https://ja.wikipedia.org/wiki/ケニー・レイボーン "wikilink")（2007-2008） - 元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")
-  - [マイク・ロマノ](https://ja.wikipedia.org/wiki/マイク・ロマノ "wikilink")（2007） - 元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")
-  - [ダーウィン・クビアン](../Page/ダーウィン・クビアン.md "wikilink")（2008） - 元[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")
+  - [エディ・ディアス](../Page/エディ・ディアス.md "wikilink")（2003） - 元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")
+  - [塩谷和彦](../Page/塩谷和彦.md "wikilink")（2006） - 元[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")
+  - [ケニー・レイボーン](../Page/ケニー・レイボーン.md "wikilink")（2007-2008） - 元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")
+  - [マイク・ロマノ](../Page/マイク・ロマノ.md "wikilink")（2007） - 元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")
+  - [ダーウィン・クビアン](../Page/ダーウィン・クビアン.md "wikilink")（2008） - 元[阪神タイガース](../Page/阪神タイガース.md "wikilink")
   - [ケニー・レイ](../Page/ケニー・レイ.md "wikilink")（2008） - 元[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")
-  - [エステバン・ジャン](../Page/エステバン・ジャン.md "wikilink")（2008） - 元[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")
+  - [エステバン・ジャン](../Page/エステバン・ジャン.md "wikilink")（2008） - 元[阪神タイガース](../Page/阪神タイガース.md "wikilink")
   - [マイク・ジョンソン](../Page/マイク・ジョンソン_\(1975年生の投手\).md "wikilink")（2009） - 元大阪近鉄バファローズ
   - [クリストファー・ニコースキー](../Page/クリストファー・ニコースキー.md "wikilink")（2009） - 元[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
-  - [門倉健](https://ja.wikipedia.org/wiki/門倉健 "wikilink")（2009-2010） - 元[中日ドラゴンズ](https://ja.wikipedia.org/wiki/中日ドラゴンズ "wikilink")、[近鉄バファローズ](https://ja.wikipedia.org/wiki/近鉄バファローズ "wikilink")、[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
+  - [門倉健](../Page/門倉健.md "wikilink")（2009-2010） - 元[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")、[近鉄バファローズ](https://ja.wikipedia.org/wiki/近鉄バファローズ "wikilink")、[横浜ベイスターズ](https://ja.wikipedia.org/wiki/横浜ベイスターズ "wikilink")、[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
   - [ゲーリー・グローバー](../Page/ゲーリー・グローバー.md "wikilink")（2009-2011） - 元[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
   - [ブライアン・ゴードン](https://ja.wikipedia.org/wiki/ブライアン・ゴードン "wikilink")（2011）
   - [アキリーノ・ロペス](https://ja.wikipedia.org/wiki/アキリーノ・ロペス "wikilink")（2012）
   - [デイブ・ブッシュ](../Page/デイブ・ブッシュ.md "wikilink")（2012）
-  - [マリオ・サンティアゴ](https://ja.wikipedia.org/wiki/マリオ・サンティアゴ "wikilink")（2012）- 元[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")
+  - [マリオ・サンティアゴ](https://ja.wikipedia.org/wiki/マリオ・サンティアゴ "wikilink")（2012）- 元[阪神タイガース](../Page/阪神タイガース.md "wikilink")
   - [ジョジョ・レイエス](https://ja.wikipedia.org/wiki/ジョジョ・レイエス "wikilink")（2013-2014）
   - [ルーク・スコット](https://ja.wikipedia.org/wiki/ルーク・スコット "wikilink")（2014）
   - [ロス・ウルフ](https://ja.wikipedia.org/wiki/ロス・ウルフ "wikilink")（2014）
@@ -156,11 +156,11 @@
   - [ダニー・ワース](https://ja.wikipedia.org/wiki/ダニー・ワース "wikilink")（2017）
   - [メリル・ケリー](https://ja.wikipedia.org/wiki/メリル・ケリー "wikilink")（2015-2018） - 現[アリゾナ・ダイヤモンドバックス](../Page/アリゾナ・ダイヤモンドバックス.md "wikilink")
   - [ヘンリー・ソーサ](https://ja.wikipedia.org/wiki/ヘンリー・ソーサ "wikilink")（2019）
-  - [エンジェル・サンチェス](https://ja.wikipedia.org/wiki/エンジェル・サンチェス "wikilink") (2018-2019) - 現[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
+  - [エンジェル・サンチェス](../Page/エンジェル・サンチェス.md "wikilink") (2018-2019) - 現[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
 
 ### 在日韓国人選手
 
-  - [金村大裕](../Page/金村大裕.md "wikilink")（2011） - 韓国名は金大裕(キム・デユ)。元[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")
+  - [金村大裕](../Page/金村大裕.md "wikilink")（2011） - 韓国名は金大裕(キム・デユ)。元[阪神タイガース](../Page/阪神タイガース.md "wikilink")
 
 ## 外部リンク
 

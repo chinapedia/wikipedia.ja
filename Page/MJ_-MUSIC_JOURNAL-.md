@@ -1,7 +1,7 @@
 > この記事は[MJ -MUSIC JOURNAL-](https://ja.wikipedia.org/wiki/MJ_-MUSIC_JOURNAL-)から翻訳されています。
 
 
-『**MJ -MUSIC JOURNAL-**』（エムジェイ ミュージック・ジャーナル）は、[1992年](../Page/1992年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで毎週[水曜日](../Page/水曜日.md "wikilink")22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に[フジテレビ系列局で](../Page/フジネットワーク.md "wikilink")[生放送](https://ja.wikipedia.org/wiki/生放送 "wikilink")された[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[音楽](https://ja.wikipedia.org/wiki/音楽番組 "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
+『**MJ -MUSIC JOURNAL-**』（エムジェイ ミュージック・ジャーナル）は、[1992年](../Page/1992年.md "wikilink")[10月14日](../Page/10月14日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")まで毎週[水曜日](../Page/水曜日.md "wikilink")22:00 - 22:54（[JST](../Page/日本標準時.md "wikilink")）に[フジテレビ系列局で](../Page/フジネットワーク.md "wikilink")[生放送](../Page/生放送.md "wikilink")された[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[音楽](../Page/音楽番組.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。
 
 ## 番組概要
 
@@ -19,7 +19,7 @@ MJでは通常放送以外にも、特集比重の通常版よりアーティス
 
 1.  1993年1月13日（22:00 - 23:24）
       -
-        本来なら1月6日の放送予定だったが、[皇室](../Page/皇室.md "wikilink")関係の[報道特別番組](https://ja.wikipedia.org/wiki/報道特別番組 "wikilink")（『[皇太子妃](../Page/皇太子妃.md "wikilink")に[小和田雅子さんが内定](https://ja.wikipedia.org/wiki/皇后雅子 "wikilink")』）放送の関係で1週繰り下げとなった。
+        本来なら1月6日の放送予定だったが、[皇室](../Page/皇室.md "wikilink")関係の[報道特別番組](../Page/報道特別番組.md "wikilink")（『[皇太子妃](../Page/皇太子妃.md "wikilink")に[小和田雅子さんが内定](https://ja.wikipedia.org/wiki/皇后雅子 "wikilink")』）放送の関係で1週繰り下げとなった。
 2.  1993年4月7日（21:30 - 23:24）
 3.  1993年10月13日（22:00 - 23:18）
 4.  1994年3月23日（22:00 - 23:24）:最終回
@@ -30,17 +30,17 @@ MJでは通常放送以外にも、特集比重の通常版よりアーティス
   - 放送中、視聴者からのFAXを随時紹介する形式を取っていた。実際、1993年3月24日放送分において、[山形テレビ](../Page/山形テレビ.md "wikilink")が[テレビ朝日系列へ](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[ネットチェンジ](../Page/ネットチェンジ.md "wikilink")するために放送が打ち切られることに対し、「山形県での放送が打ち切られることになったため、どうしても見たいのに見られなくなる」「（[仙台放送](../Page/仙台放送.md "wikilink")や[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")などの）近隣県の系列局で見なければならない」などの苦情や嘆きの声が番組中で紹介されるに至った。
   - CM時にMC陣の後ろのFAXガールがアップになり、脚を組み替えるという演出もあった。
   - 一度、出演する歌手が歌を歌い終えれば、エンディングには出演しなかった。これは番組の構成上、生放送ゆえに放送時間に制約があったためである。
-  - 1992年10月28日には後にメディア露出が極端に少なくなる[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が出演し、「[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")」を披露した。なおこの映像は、ボーカルの[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")が2007年5月に逝去した後の『[2009 FNS歌謡祭](https://ja.wikipedia.org/wiki/2009_FNS歌謡祭 "wikilink")』にて初めて放送された（2009年12月2日）。その他、同放送回においては[B'z](../Page/B'z.md "wikilink")が「[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")」を、[T-BOLAN](https://ja.wikipedia.org/wiki/T-BOLAN "wikilink")が「[じれったい愛](../Page/じれったい愛.md "wikilink")」を披露し、ビーイング系のアーティストがヒット曲を連続して演奏するという放送回であった。
+  - 1992年10月28日には後にメディア露出が極端に少なくなる[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")が出演し、「[IN MY ARMS TONIGHT](../Page/IN_MY_ARMS_TONIGHT.md "wikilink")」を披露した。なおこの映像は、ボーカルの[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")が2007年5月に逝去した後の『[2009 FNS歌謡祭](https://ja.wikipedia.org/wiki/2009_FNS歌謡祭 "wikilink")』にて初めて放送された（2009年12月2日）。その他、同放送回においては[B'z](../Page/B'z.md "wikilink")が「[ZERO](../Page/ZERO_\(B'zの曲\).md "wikilink")」を、[T-BOLAN](../Page/T-BOLAN.md "wikilink")が「[じれったい愛](../Page/じれったい愛.md "wikilink")」を披露し、ビーイング系のアーティストがヒット曲を連続して演奏するという放送回であった。
   - 番組のCMに、[BEREEVE](https://ja.wikipedia.org/wiki/BEREEVE "wikilink")「[君から目を離せない](https://ja.wikipedia.org/wiki/君から目を離せない "wikilink")」の替え歌 を使う時期があった。
   - 番組は、毎週[オリコン](../Page/オリコン.md "wikilink")のデータなどを元にしたシングルランキングTOP10を「MJ RANKING」のコーナーで発表していた。1994年最初の放送では、1993年度年間シングルランキングTOP100（MJ RANKING）を発表した（データは、オリコン1993年間TOP100を使用）。100位→71位、70位→41位、40位→11位、10位→1位。ランキングの合間に、ゲストとのトーク・ライブがあった。なお、2007年から2016年4月まで[NHK総合テレビで放送されていた](../Page/NHK総合テレビジョン.md "wikilink")『[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")』にも同名のコーナー「MJランキング」があるが、それとは無関係。
-  - 1993年ごろからは[遠距離恋愛](../Page/遠距離恋愛.md "wikilink")などをテーマに特集を構成。番組で女性ボーカリストを公募し「遠恋ソング」なるものを作ったり、[山根康広](https://ja.wikipedia.org/wiki/山根康広 "wikilink")「Get Along Together-愛を贈りたいから-」を番組で勝手に遠恋ソングに推薦したりし、さらには遠距離恋愛をテーマにしたMJ番組オリジナルCMを制作して放送したりもした。
-  - 番組内で大プッシュした[THE BOOM](https://ja.wikipedia.org/wiki/THE_BOOM "wikilink")「島唄」、[橘いずみ](../Page/榊いずみ.md "wikilink")「失格」は、放送後にそれぞれヒットし、他局での歌番組出演など頻繁にメディア露出が増え、この番組で紹介したアーティストはヒットすると確信したコメントがあったが、それ以降ヒットしたミュージシャンは出なかった。
+  - 1993年ごろからは[遠距離恋愛](../Page/遠距離恋愛.md "wikilink")などをテーマに特集を構成。番組で女性ボーカリストを公募し「遠恋ソング」なるものを作ったり、[山根康広](../Page/山根康広.md "wikilink")「Get Along Together-愛を贈りたいから-」を番組で勝手に遠恋ソングに推薦したりし、さらには遠距離恋愛をテーマにしたMJ番組オリジナルCMを制作して放送したりもした。
+  - 番組内で大プッシュした[THE BOOM](../Page/THE_BOOM.md "wikilink")「島唄」、[橘いずみ](../Page/榊いずみ.md "wikilink")「失格」は、放送後にそれぞれヒットし、他局での歌番組出演など頻繁にメディア露出が増え、この番組で紹介したアーティストはヒットすると確信したコメントがあったが、それ以降ヒットしたミュージシャンは出なかった。
   - 最終回のオープニングで、古舘は「番組タイトルの『J』は『[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")』の『J』に使われると思う」とコメントした。
-  - 1993年8月11日には、[NTT浦添ネットワークセンターのトラブルにより](https://ja.wikipedia.org/wiki/日本電信電話 "wikilink")2分程度、沖縄テレビに加えて[TBS系の](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[琉球放送](https://ja.wikipedia.org/wiki/琉球放送 "wikilink")で本番組が映るという放送事故があった。なお、琉球放送にて映画（[水曜ロードショー](../Page/水曜ロードショー_\(TBS\).md "wikilink")）を楽しみにしていた視聴者からは琉球放送などに苦情があった。
+  - 1993年8月11日には、[NTT浦添ネットワークセンターのトラブルにより](../Page/日本電信電話.md "wikilink")2分程度、沖縄テレビに加えて[TBS系の](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[琉球放送](../Page/琉球放送.md "wikilink")で本番組が映るという放送事故があった。なお、琉球放送にて映画（[水曜ロードショー](../Page/水曜ロードショー_\(TBS\).md "wikilink")）を楽しみにしていた視聴者からは琉球放送などに苦情があった。
 
 ## スタッフ
 
-  - 構成：[玉井貴代志](https://ja.wikipedia.org/wiki/玉井貴代志 "wikilink")／[沢口義明](../Page/沢口義明.md "wikilink")、[佐々木勝俊](../Page/佐々木勝俊.md "wikilink")、井辺清、金澤亜季子／[秋元康](../Page/秋元康.md "wikilink")
+  - 構成：[玉井貴代志](../Page/玉井貴代志.md "wikilink")／[沢口義明](../Page/沢口義明.md "wikilink")、[佐々木勝俊](../Page/佐々木勝俊.md "wikilink")、井辺清、金澤亜季子／[秋元康](../Page/秋元康.md "wikilink")
   - 企画協力：吉見佑子
   - リサーチ：マンダラハウス、オンリーユー
   - 音楽コーディネイト：ハーフトーンミュージック&システムズ
@@ -63,7 +63,7 @@ MJでは通常放送以外にも、特集比重の通常版よりアーティス
   - 演出：石本幸一、大前一彦
   - プロデューサー：笠井一二、井上信吾
   - 協力：[オリコン](../Page/オリコン.md "wikilink")、エアー・ミュージック・モニター、日本レコード協会ヒットチャートデータ
-  - 技術協力：ダブルビジョン、[FLT](https://ja.wikipedia.org/wiki/フジライティング・アンド・テクノロジイ "wikilink")
+  - 技術協力：ダブルビジョン、[FLT](../Page/フジライティング・アンド・テクノロジイ.md "wikilink")
   - 制作協力：オン・エアー、SCENE、4/8、ビデオサンモール、D3 Company
   - 制作著作：フジテレビ
 
@@ -216,7 +216,7 @@ MJでは通常放送以外にも、特集比重の通常版よりアーティス
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>（TNC）</p></td>
 <td></td>
 <td></td>

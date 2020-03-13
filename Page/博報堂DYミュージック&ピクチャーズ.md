@@ -1,19 +1,19 @@
 > この記事は[DY\&](https://ja.wikipedia.org/wiki/DY\&)から翻訳されています。
 
 
-**株式会社博報堂DYミュージック&ピクチャーズ**（はくほうどうディーワイミュージック アンド ピクチャーズ）は、[博報堂DYメディアパートナーズ](https://ja.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")の[完全子会社](https://ja.wikipedia.org/wiki/連結子会社 "wikilink")（[博報堂DYホールディングス](../Page/博報堂DYホールディングス.md "wikilink")の完全孫会社）で、アニメーション作品の製作・出資、イベント・プロモーション事業の制作、映画の製作・配給、海外映画・海外ドラマの買い付け及び映像ソフトの制作・発売を主な事業内容とする日本の企業。「**ショウゲート**」のブランドで映像事業を展開する。
+**株式会社博報堂DYミュージック&ピクチャーズ**（はくほうどうディーワイミュージック アンド ピクチャーズ）は、[博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")の[完全子会社](../Page/連結子会社.md "wikilink")（[博報堂DYホールディングス](../Page/博報堂DYホールディングス.md "wikilink")の完全孫会社）で、アニメーション作品の製作・出資、イベント・プロモーション事業の制作、映画の製作・配給、海外映画・海外ドラマの買い付け及び映像ソフトの制作・発売を主な事業内容とする日本の企業。「**ショウゲート**」のブランドで映像事業を展開する。
 
 ## 概要
 
-[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の芸能事務所である[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")のメディアビジュアル事業の中核会社として設立された「**株式会社アミューズビデオ**」が発祥である。「**アミューズピクチャーズ株式会社**」への商号変更、[東芝](../Page/東芝.md "wikilink")との事業提携を経て、その後東芝へ株式譲渡され「**東芝エンタテインメント株式会社**」（とうしばエンタテインメント）となる。そして2007年、東芝グループの事業再編成計画\[1\]による株式譲渡で[博報堂DYメディアパートナーズ](https://ja.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")の子会社「**株式会社ショウゲート**」となった。その後2015年に親会社博報堂DYメディアパートナーズからエンタテインメント事業の機能を引き継ぎ、同時に社名を「**株式会社博報堂DYミュージック&ピクチャーズ**」と改めた\[2\]。旧社名ショウゲートは映像事業展開やイベント制作におけるブランド名として引き続き使用される\[3\]。
+[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の芸能事務所である[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")のメディアビジュアル事業の中核会社として設立された「**株式会社アミューズビデオ**」が発祥である。「**アミューズピクチャーズ株式会社**」への商号変更、[東芝](../Page/東芝.md "wikilink")との事業提携を経て、その後東芝へ株式譲渡され「**東芝エンタテインメント株式会社**」（とうしばエンタテインメント）となる。そして2007年、東芝グループの事業再編成計画\[1\]による株式譲渡で[博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")の子会社「**株式会社ショウゲート**」となった。その後2015年に親会社博報堂DYメディアパートナーズからエンタテインメント事業の機能を引き継ぎ、同時に社名を「**株式会社博報堂DYミュージック&ピクチャーズ**」と改めた\[2\]。旧社名ショウゲートは映像事業展開やイベント制作におけるブランド名として引き続き使用される\[3\]。
 
 [アニメーション](../Page/アニメーション.md "wikilink")作品の製作・出資、[映画](../Page/映画.md "wikilink")の製作・配給、海外映画・海外ドラマの買い付け、[ビデオ](../Page/ビデオ.md "wikilink")・[DVD](../Page/DVD.md "wikilink")ソフトの制作・発売、権利保有映像作品の放映権販売、イベント・プロモーション事業プロデュースやプロパティ商品化など、エンタテインメント・コンテンツを核にした「360度ビジネス」を展開する博報堂DYグループの総合エンタテインメント事業会社。
 
-ディスク製造は、[メモリーテック](https://ja.wikipedia.org/wiki/メモリーテック "wikilink")御殿場工場（元東芝EMI御殿場工場)に対して主に委託。
+ディスク製造は、[メモリーテック](../Page/メモリーテック.md "wikilink")御殿場工場（元東芝EMI御殿場工場)に対して主に委託。
 
 ## 沿革
 
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - アミューズの[子会社](https://ja.wikipedia.org/wiki/子会社 "wikilink")として**株式会社アミューズビデオ**設立。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - アミューズの[子会社](../Page/子会社.md "wikilink")として**株式会社アミューズビデオ**設立。
   - [1994年](../Page/1994年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - アミューズビデオの[関連会社](../Page/関連会社.md "wikilink")としてアミューズソフト販売株式会社設立。
   - [2000年](../Page/2000年.md "wikilink")
       - [10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - **アミューズピクチャーズ株式会社**に商号変更。
@@ -26,7 +26,7 @@
       - 4月 - 東芝がアミューズからアミューズピクチャーズの株式を取得し子会社化。同時にアミューズがアミューズピクチャーズからアミューズソフト販売の株式を取得し直接子会社化。
       - [10月1日](../Page/10月1日.md "wikilink") - 東芝の完全子会社となり、**東芝エンタテインメント株式会社**に商号変更。同時に東芝の子会社・[東芝デジタルフロンティア](../Page/東芝デジタルフロンティア.md "wikilink")のデジタルコンテンツ事業部（主にDVDソフトを制作）を統合。
   - [2007年](../Page/2007年.md "wikilink")
-      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 東芝グループの事業再編成計画による株式譲渡で[博報堂DYメディアパートナーズ](https://ja.wikipedia.org/wiki/博報堂DYメディアパートナーズ "wikilink")の子会社となる\[4\]\[5\]\[6\]。
+      - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink") - 東芝グループの事業再編成計画による株式譲渡で[博報堂DYメディアパートナーズ](../Page/博報堂DYメディアパートナーズ.md "wikilink")の子会社となる\[4\]\[5\]\[6\]。
       - [6月1日](../Page/6月1日.md "wikilink") - **株式会社ショウゲート**に商号変更\[7\]。社名は社内公募で決定された\[8\]。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 春名慶から博報堂DYMPの百武弘二に社長交代\[9\]。
   - [2015年](../Page/2015年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 百武弘二から博報堂DYMPの村田嘉邦に社長交代。
@@ -43,19 +43,19 @@
       - 青い瞳の銀鈴「GinRei with blue eyes」
   - [獣兵衛忍風帖](../Page/獣兵衛忍風帖.md "wikilink") 龍宝玉篇
   - [スペーストラベラーズ](../Page/スペーストラベラーズ.md "wikilink") THE ANIMATION
-  - [火魅子伝](https://ja.wikipedia.org/wiki/火魅子伝 "wikilink")
+  - [火魅子伝](../Page/火魅子伝.md "wikilink")
   - [バンパイアハンター](https://ja.wikipedia.org/wiki/ヴァンパイア_\(ゲーム\)#OVA "wikilink")
-  - [ストリートファイターII V](https://ja.wikipedia.org/wiki/ストリートファイターII_V "wikilink")
+  - [ストリートファイターII V](../Page/ストリートファイターII_V.md "wikilink")
   - [アレクサンダー戦記](../Page/アレクサンダー戦記.md "wikilink") 劇場版
 
 など
 
 ### 東芝エンタテインメント
 
-  - [あぃまぃみぃ\!ストロベリー・エッグ](https://ja.wikipedia.org/wiki/あぃまぃみぃ!ストロベリー・エッグ "wikilink")
+  - [あぃまぃみぃ\!ストロベリー・エッグ](../Page/あぃまぃみぃ!ストロベリー・エッグ.md "wikilink")
   - [英國戀物語エマシリーズ](../Page/エマ_\(漫画\).md "wikilink")
   - [円盤皇女ワるきゅーレ](../Page/円盤皇女ワるきゅーレ.md "wikilink")シリーズ
-  - [奥さまは魔法少女](https://ja.wikipedia.org/wiki/奥さまは魔法少女 "wikilink")
+  - [奥さまは魔法少女](../Page/奥さまは魔法少女.md "wikilink")
   - [鴉 -KARAS-](../Page/鴉_-KARAS-.md "wikilink")
   - [神無月の巫女](../Page/神無月の巫女.md "wikilink")
   - [京四郎と永遠の空](../Page/京四郎と永遠の空.md "wikilink")
@@ -68,7 +68,7 @@
   - [女子高生 GIRL'S-HIGH](https://ja.wikipedia.org/wiki/女子高生_\(漫画\) "wikilink")
   - [神霊狩/GHOST HOUND](https://ja.wikipedia.org/wiki/神霊狩/GHOST_HOUND "wikilink")
   - [住めば都のコスモス荘 すっとこ大戦ドッコイダー](https://ja.wikipedia.org/wiki/住めば都のコスモス荘_すっとこ大戦ドッコイダー "wikilink")
-  - [The Soul Taker 〜魂狩〜](https://ja.wikipedia.org/wiki/The_Soul_Taker_〜魂狩〜 "wikilink")
+  - [The Soul Taker 〜魂狩〜](../Page/The_Soul_Taker_〜魂狩〜.md "wikilink")
   - [ナースウィッチ小麦ちゃんマジカルて](../Page/ナースウィッチ小麦ちゃんマジカルて.md "wikilink")シリーズ
   - [成恵の世界](../Page/成恵の世界.md "wikilink")
   - [ノエイン もうひとりの君へ](../Page/ノエイン_もうひとりの君へ.md "wikilink")
@@ -77,7 +77,7 @@
   - [撲殺天使ドクロちゃん](../Page/撲殺天使ドクロちゃん.md "wikilink")シリーズ
   - [無敵看板娘](https://ja.wikipedia.org/wiki/無敵看板娘 "wikilink")
   - [Mnemosyne-ムネモシュネの娘たち-](https://ja.wikipedia.org/wiki/Mnemosyne-ムネモシュネの娘たち- "wikilink")
-  - [落語天女おゆい](https://ja.wikipedia.org/wiki/落語天女おゆい "wikilink")
+  - [落語天女おゆい](../Page/落語天女おゆい.md "wikilink")
 
 など
 
@@ -159,7 +159,7 @@
 ## 海外ドラマ作品
 
   - [ツイン・ピークス](https://ja.wikipedia.org/wiki/ツイン・ピークス "wikilink") (現在、[NBCユニバーサル・エンターテイメントジャパン](../Page/NBCユニバーサル・エンターテイメントジャパン.md "wikilink")が販売を担当)
-  - [バンド・オブ・ブラザース](https://ja.wikipedia.org/wiki/バンド・オブ・ブラザース "wikilink")(現在、[ワーナー・ブラザース・ジャパン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・ジャパン "wikilink")が販売を担当)
+  - [バンド・オブ・ブラザース](../Page/バンド・オブ・ブラザース.md "wikilink")(現在、[ワーナー・ブラザース・ジャパン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・ジャパン "wikilink")が販売を担当)
   - [The Office](../Page/The_Office.md "wikilink")
   - The Office クリスマス・スペシャル
   - [宮廷の諍い女](https://ja.wikipedia.org/wiki/宮廷の諍い女 "wikilink")
@@ -195,7 +195,7 @@
   - クライム アンド パニッシュメント
   - コンセント
   - [サハラに舞う羽根](../Page/サハラに舞う羽根.md "wikilink")
-  - [JSA](https://ja.wikipedia.org/wiki/JSA_\(映画\) "wikilink")
+  - [JSA](../Page/JSA_\(映画\).md "wikilink")
   - [Jam Films](../Page/Jam_Films.md "wikilink")
   - [シュリ](../Page/シュリ.md "wikilink")
   - [人生は、時々晴れ](https://ja.wikipedia.org/wiki/人生は、時々晴れ "wikilink")
@@ -214,12 +214,12 @@
   - [ぼのぼの クモモの木のこと](https://ja.wikipedia.org/wiki/ぼのぼの_クモモの木のこと "wikilink")
   - [マーサの幸せレシピ](https://ja.wikipedia.org/wiki/マーサの幸せレシピ "wikilink")
   - [マグダレンの祈り](../Page/マグダレンの祈り.md "wikilink")
-  - [メメント](https://ja.wikipedia.org/wiki/メメント_\(映画\) "wikilink")
+  - [メメント](../Page/メメント_\(映画\).md "wikilink")
   - [メルシィ\!人生](https://ja.wikipedia.org/wiki/メルシィ!人生 "wikilink")
   - 燃ゆる月
   - ラッキー・ブレイク
   - [リターナー](../Page/リターナー.md "wikilink")
-  - [リベリオン](https://ja.wikipedia.org/wiki/リベリオン "wikilink")
+  - [リベリオン](../Page/リベリオン.md "wikilink")
   - [竜二 Forever](https://ja.wikipedia.org/wiki/竜二_Forever "wikilink")
   - [猟奇的な彼女](../Page/猟奇的な彼女.md "wikilink")
 
@@ -230,8 +230,8 @@
   - [愛の神、エロス](https://ja.wikipedia.org/wiki/愛の神、エロス "wikilink")
   - [あずみ2 Death or Love](https://ja.wikipedia.org/wiki/あずみ2_Death_or_Love "wikilink")
   - [アドルフの画集](../Page/アドルフの画集.md "wikilink")
-  - [アメリカン・スプレンダー](https://ja.wikipedia.org/wiki/アメリカン・スプレンダー "wikilink")
-  - [イン・ディス・ワールド](https://ja.wikipedia.org/wiki/イン・ディス・ワールド "wikilink")
+  - [アメリカン・スプレンダー](../Page/アメリカン・スプレンダー.md "wikilink")
+  - [イン・ディス・ワールド](../Page/イン・ディス・ワールド.md "wikilink")
   - 美しき野獣
   - [オープン・ウォーター2](../Page/オープン・ウォーター2.md "wikilink")
   - [オールド・ボーイ](../Page/オールド・ボーイ.md "wikilink")
@@ -245,7 +245,7 @@
   - 恋する神父
   - [GOAL\!](../Page/GOAL!.md "wikilink")
       - [GOAL\!2](https://ja.wikipedia.org/wiki/GOAL!2 "wikilink")
-  - [サマータイムマシン・ブルース](https://ja.wikipedia.org/wiki/サマータイムマシン・ブルース "wikilink")
+  - [サマータイムマシン・ブルース](../Page/サマータイムマシン・ブルース.md "wikilink")
   - [サマリア](https://ja.wikipedia.org/wiki/サマリア_\(映画\) "wikilink")
   - [世界で一番パパが好き\!](https://ja.wikipedia.org/wiki/世界で一番パパが好き! "wikilink")
   - Jam Films 2
@@ -255,7 +255,7 @@
   - [堕天使のパスポート](../Page/堕天使のパスポート.md "wikilink")
   - [誰にでも秘密がある](../Page/誰にでも秘密がある.md "wikilink")
   - 情痴 アヴァンチュール
-  - [血と骨](https://ja.wikipedia.org/wiki/血と骨 "wikilink")
+  - [血と骨](../Page/血と骨.md "wikilink")
   - 天空の草原のナンサ
   - 天国の青い蝶
   - [東京ゾンビ](../Page/東京ゾンビ.md "wikilink")
@@ -282,10 +282,10 @@
   - やさしい嘘
   - [ユア・マイ・サンシャイン](https://ja.wikipedia.org/wiki/ユア・マイ・サンシャイン_\(映画\) "wikilink")
   - 4人の食卓
-  - [ライフ・イズ・コメディ\! ピーター・セラーズの愛し方](https://ja.wikipedia.org/wiki/ライフ・イズ・コメディ!_ピーター・セラーズの愛し方 "wikilink")
+  - [ライフ・イズ・コメディ\! ピーター・セラーズの愛し方](../Page/ライフ・イズ・コメディ!_ピーター・セラーズの愛し方.md "wikilink")
   - ラブいぬ ベンジー はじめての冒険
   - [連理の枝](../Page/連理の枝.md "wikilink")
-  - [リディック](https://ja.wikipedia.org/wiki/リディック "wikilink")
+  - [リディック](../Page/リディック.md "wikilink")
 
 など
 
@@ -304,7 +304,7 @@
   - [アメリア 永遠の翼](https://ja.wikipedia.org/wiki/アメリア_永遠の翼 "wikilink")
   - [荒川アンダー ザ ブリッジ](../Page/荒川アンダー_ザ_ブリッジ.md "wikilink") THE MOVIE
   - 建築学概論
-  - アンティーク 〜[西洋骨董洋菓子店](https://ja.wikipedia.org/wiki/西洋骨董洋菓子店 "wikilink")〜
+  - アンティーク 〜[西洋骨董洋菓子店](../Page/西洋骨董洋菓子店.md "wikilink")〜
   - [行け\!男子高校演劇部](https://ja.wikipedia.org/wiki/行け!男子高校演劇部 "wikilink")
   - 痛いほどきみが好きなのに
   - [いつか眠りにつく前に](../Page/いつか眠りにつく前に.md "wikilink")
@@ -489,8 +489,8 @@
       - 歪んだ異形都市
   - FIFAオフィシャルDVD [2006 FIFAワールドカップ](../Page/2006_FIFAワールドカップ.md "wikilink")〜THE DOCUMENT〜
   - [マリア・シャラポワ](../Page/マリア・シャラポワ.md "wikilink")〜素顔のままで〜
-  - [三宅裕司のワークパラダイス](https://ja.wikipedia.org/wiki/三宅裕司のワークパラダイス "wikilink") 〜生瀬勝久 伝説のひとり不思議20職〜
-  - [サマータイムマシン・ブルース](https://ja.wikipedia.org/wiki/サマータイムマシン・ブルース "wikilink")2005 舞台版
+  - [三宅裕司のワークパラダイス](../Page/三宅裕司のワークパラダイス.md "wikilink") 〜生瀬勝久 伝説のひとり不思議20職〜
+  - [サマータイムマシン・ブルース](../Page/サマータイムマシン・ブルース.md "wikilink")2005 舞台版
   - [S/mile Factory](https://ja.wikipedia.org/wiki/S/mile_Factory "wikilink") 〜[スマイレージ](https://ja.wikipedia.org/wiki/スマイレージ "wikilink")4人で最後だYO\!めでたいのにっ\!〜
   - [テレタビーズ](../Page/テレタビーズ.md "wikilink")
   - [ローリー・ポーリー・オーリー](https://ja.wikipedia.org/wiki/ローリー・ポーリー・オーリー "wikilink")
@@ -511,7 +511,7 @@
   - [映画会社の一覧](../Page/映画会社の一覧.md "wikilink")
   - [伊平崇耶](../Page/伊平崇耶.md "wikilink")
   - [山中隆弘](https://ja.wikipedia.org/wiki/山中隆弘 "wikilink")
-  - [Showgate RADIO](https://ja.wikipedia.org/wiki/Showgate_RADIO "wikilink")
+  - [Showgate RADIO](../Page/Showgate_RADIO.md "wikilink")
   - [偽・うpのギョーカイ時事放談](../Page/偽・うpのギョーカイ時事放談.md "wikilink")
   - [UPLIFTかくかたりき](../Page/UPLIFTかくかたりき.md "wikilink")
 

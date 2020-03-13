@@ -3,11 +3,11 @@
 
 **JSR株式会社**（ジェイエスアール、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[化学](../Page/化学.md "wikilink")[メーカー](https://ja.wikipedia.org/wiki/メーカー "wikilink")である。
 
-[1957年](../Page/1957年.md "wikilink")、[合成ゴム](https://ja.wikipedia.org/wiki/合成ゴム "wikilink")の国産化を目指して政府および関連民間企業の出資（出資比率は政府40%、民間企業60%）によって設立された国策会社・[日本合成ゴム](https://ja.wikipedia.org/wiki/日本合成ゴム "wikilink")株式会社を前身とする。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に完全[民営化](../Page/民営化.md "wikilink")し、事業の多角化を進める。創立40周年を迎えた[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、現社名（日本合成ゴム株式会社の英文社名 **J**apan **S**ynthetic **R**ubber Co.,Ltd.に由来）に商号変更した。[高分子化学](../Page/高分子化学.md "wikilink")分野で培った[研究開発](https://ja.wikipedia.org/wiki/研究開発 "wikilink")力を活かして技術革新を進め、ファインケミカル、ライフサイエンスを第二、第三の収益柱としている。[信越化学](https://ja.wikipedia.org/wiki/信越化学 "wikilink")、[日東電工](https://ja.wikipedia.org/wiki/日東電工 "wikilink")と並び、化学業界屈指の高収益企業である。 企業理念は"*Materials Innovation*"。
+[1957年](../Page/1957年.md "wikilink")、[合成ゴム](https://ja.wikipedia.org/wiki/合成ゴム "wikilink")の国産化を目指して政府および関連民間企業の出資（出資比率は政府40%、民間企業60%）によって設立された国策会社・[日本合成ゴム](https://ja.wikipedia.org/wiki/日本合成ゴム "wikilink")株式会社を前身とする。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に完全[民営化](../Page/民営化.md "wikilink")し、事業の多角化を進める。創立40周年を迎えた[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、現社名（日本合成ゴム株式会社の英文社名 **J**apan **S**ynthetic **R**ubber Co.,Ltd.に由来）に商号変更した。[高分子化学](../Page/高分子化学.md "wikilink")分野で培った[研究開発](../Page/研究開発.md "wikilink")力を活かして技術革新を進め、ファインケミカル、ライフサイエンスを第二、第三の収益柱としている。[信越化学](https://ja.wikipedia.org/wiki/信越化学 "wikilink")、[日東電工](https://ja.wikipedia.org/wiki/日東電工 "wikilink")と並び、化学業界屈指の高収益企業である。 企業理念は"*Materials Innovation*"。
 
 ## 概要
 
-[合成ゴム](https://ja.wikipedia.org/wiki/合成ゴム "wikilink")で世界5位、日本国内首位。既存の[石油化学](../Page/石油化学.md "wikilink")系材料ではなく、[半導体](../Page/半導体.md "wikilink")系材料や[液晶](../Page/液晶.md "wikilink")表示系材料などの情報電子材料に注力し収益を伸ばしている。[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")(LCD)用材料で世界トップシェアの製品が数種あるほか、[半導体](../Page/半導体.md "wikilink")関連では[フォトリソグラフィ](../Page/フォトリソグラフィ.md "wikilink")工程に用いる[フォトレジスト](../Page/フォトレジスト.md "wikilink")が世界トップ、シリコン[ウェハー](https://ja.wikipedia.org/wiki/ウェハー "wikilink")を加工する CMP（[化学機械研磨](../Page/化学機械研磨.md "wikilink")）工程に用いる CMPスラリー、CMPパッドも新たな収益源に成長しつつある。また、優れた光学特性を有する樹脂を開発し、[光ファイバー](../Page/光ファイバー.md "wikilink")用コーティング材や光学接着剤、透明樹脂などでも高いシェアを持つ。2006年1月には[本田技研工業](../Page/本田技研工業.md "wikilink")との[燃料電池](../Page/燃料電池.md "wikilink")用材料共同開発の進展を発表、同年2月には米[IBM](../Page/IBM.md "wikilink")との半導体製造技術共同研究による最先端の成果を発表するなど、次代の材料開発を推進し、2017年度にはライフサイエンス分野を第3の収益の柱と位置付けている。\[1\]
+[合成ゴム](https://ja.wikipedia.org/wiki/合成ゴム "wikilink")で世界5位、日本国内首位。既存の[石油化学](../Page/石油化学.md "wikilink")系材料ではなく、[半導体](../Page/半導体.md "wikilink")系材料や[液晶](../Page/液晶.md "wikilink")表示系材料などの情報電子材料に注力し収益を伸ばしている。[液晶ディスプレイ](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")(LCD)用材料で世界トップシェアの製品が数種あるほか、[半導体](../Page/半導体.md "wikilink")関連では[フォトリソグラフィ](../Page/フォトリソグラフィ.md "wikilink")工程に用いる[フォトレジスト](../Page/フォトレジスト.md "wikilink")が世界トップ、シリコン[ウェハー](../Page/ウェハー.md "wikilink")を加工する CMP（[化学機械研磨](../Page/化学機械研磨.md "wikilink")）工程に用いる CMPスラリー、CMPパッドも新たな収益源に成長しつつある。また、優れた光学特性を有する樹脂を開発し、[光ファイバー](../Page/光ファイバー.md "wikilink")用コーティング材や光学接着剤、透明樹脂などでも高いシェアを持つ。2006年1月には[本田技研工業](../Page/本田技研工業.md "wikilink")との[燃料電池](../Page/燃料電池.md "wikilink")用材料共同開発の進展を発表、同年2月には米[IBM](../Page/IBM.md "wikilink")との半導体製造技術共同研究による最先端の成果を発表するなど、次代の材料開発を推進し、2017年度にはライフサイエンス分野を第3の収益の柱と位置付けている。\[1\]
 
 ## 拠点
 
@@ -26,7 +26,7 @@
   - [1964年](../Page/1964年.md "wikilink")（昭和39年）10月、[合成樹脂](../Page/合成樹脂.md "wikilink")生産開始。
   - [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（昭和43年）4月、千葉工場（[千葉県](../Page/千葉県.md "wikilink")[市原市](../Page/市原市.md "wikilink")）稼動開始。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）4月、「日本合成ゴム株式会社に関する臨時措置に関する法律を廃止する法律」により[民営化](../Page/民営化.md "wikilink")。
-  - [1970年](https://ja.wikipedia.org/wiki/1970年 "wikilink")（昭和45年）10月、株式を東証2部・大証2部に上場。
+  - [1970年](../Page/1970年.md "wikilink")（昭和45年）10月、株式を東証2部・大証2部に上場。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）1月、鹿島工場（[茨城県](../Page/茨城県.md "wikilink")[鹿島郡神栖町](../Page/鹿島郡_\(茨城県\).md "wikilink")、現：[神栖市](https://ja.wikipedia.org/wiki/神栖市 "wikilink")）稼動開始。
   - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）8月、株式を東証1部・大証1部に指定替え。
   - [1979年](../Page/1979年.md "wikilink")（昭和54年）4月、[フォトレジスト](../Page/フォトレジスト.md "wikilink")販売開始。
@@ -58,7 +58,7 @@
       - 2月、[エラストミックス](https://ja.wikipedia.org/wiki/エラストミックス "wikilink")がPT. [Prospect Motorとの間で合弁会社のPT](https://ja.wikipedia.org/wiki/Prospect_Motor "wikilink"). ELASTOMIX INDONESIAを設立。スイスのバイオ医薬品精製プロセス技術企業に戦略投資。
       - 3月、株式会社 [医学生物学研究所](../Page/医学生物学研究所.md "wikilink")と[資本業務提携](https://ja.wikipedia.org/wiki/資本業務提携 "wikilink")契約を締結。持分法適用関連会社化。
   - [2015年](../Page/2015年.md "wikilink")（平成27年）
-      - 3月、[株式公開買付け](https://ja.wikipedia.org/wiki/株式公開買付け "wikilink")により、株式会社医学生物学研究所に対する出資比率を引き上げ。米国バイオ医薬品開発・製造受託会社[KBI Biopharma](https://ja.wikipedia.org/wiki/KBI_Biopharma "wikilink") Inc.を[産業革新機構](https://ja.wikipedia.org/wiki/産業革新機構 "wikilink")・[シミックホールディングス](https://ja.wikipedia.org/wiki/シミックホールディングス "wikilink")と共同で買収。
+      - 3月、[株式公開買付け](../Page/株式公開買付け.md "wikilink")により、株式会社医学生物学研究所に対する出資比率を引き上げ。米国バイオ医薬品開発・製造受託会社[KBI Biopharma](https://ja.wikipedia.org/wiki/KBI_Biopharma "wikilink") Inc.を[産業革新機構](https://ja.wikipedia.org/wiki/産業革新機構 "wikilink")・[シミックホールディングス](https://ja.wikipedia.org/wiki/シミックホールディングス "wikilink")と共同で買収。
       - 10月、株式会社医学生物学研究所を連結子会社化。
       - 12月、[日本アイ・ビー・エム](../Page/日本アイ・ビー・エム.md "wikilink")、千住金属工業と300mmウェハ対応の半導体高密度実装用バンプ形成技術Injection Molded Solderを開発
   - [2016年](../Page/2016年.md "wikilink")（平成28年）
@@ -85,7 +85,7 @@
 ### エマルジョン事業
 
   - [紙塗工](https://ja.wikipedia.org/wiki/紙塗工 "wikilink")用[ラテックス](../Page/ラテックス.md "wikilink")
-  - 一般産業用ラテックス、[アクリルエマルジョン](https://ja.wikipedia.org/wiki/アクリル樹脂 "wikilink")（接着・粘着剤、繊維処理剤、アスファルト改質剤など）、等
+  - 一般産業用ラテックス、[アクリルエマルジョン](../Page/アクリル樹脂.md "wikilink")（接着・粘着剤、繊維処理剤、アスファルト改質剤など）、等
 
 ### 機能化学品事業
 
@@ -96,7 +96,7 @@
 
 ### 合成樹脂事業
 
-  - [ABS樹脂](https://ja.wikipedia.org/wiki/ABS樹脂 "wikilink")（車両、OA機器、家電など）
+  - [ABS樹脂](../Page/ABS樹脂.md "wikilink")（車両、OA機器、家電など）
   - [AES樹脂](https://ja.wikipedia.org/wiki/AES樹脂 "wikilink")（自動車部品、屋外使用機器、園芸用品、建材など）
   - [AS樹脂](https://ja.wikipedia.org/wiki/AS樹脂 "wikilink")
   - [ASA樹脂](https://ja.wikipedia.org/wiki/ASA樹脂 "wikilink")
@@ -116,7 +116,7 @@
   - [LCD](https://ja.wikipedia.org/wiki/LCD "wikilink")用途：[液晶配向膜](https://ja.wikipedia.org/wiki/液晶配向膜 "wikilink")、耐熱透明保護膜、着色[レジスト](../Page/レジスト.md "wikilink")、感光性[スペーサー](https://ja.wikipedia.org/wiki/スペーサー "wikilink")など
   - 新規[FPD](https://ja.wikipedia.org/wiki/FPD "wikilink")材料：　硬化型[コート材](https://ja.wikipedia.org/wiki/コート材 "wikilink")　
   - [有機エレクトロルミネッセンス](../Page/有機エレクトロルミネッセンス.md "wikilink") (OLED) ディスプレイ用材料
-  - [タッチパネル](https://ja.wikipedia.org/wiki/タッチパネル "wikilink")用材料
+  - [タッチパネル](../Page/タッチパネル.md "wikilink")用材料
   - [光学フィルム](https://ja.wikipedia.org/wiki/光学フィルム "wikilink")用材料　等
 
 ### エッジコンピューティング事業
@@ -141,7 +141,7 @@
 
 ### 日本国内
 
-  - [テクノUMG](https://ja.wikipedia.org/wiki/テクノUMG "wikilink")株式会社 - [ABS樹脂](https://ja.wikipedia.org/wiki/ABS樹脂 "wikilink")国内シェア1位
+  - [テクノUMG](https://ja.wikipedia.org/wiki/テクノUMG "wikilink")株式会社 - [ABS樹脂](../Page/ABS樹脂.md "wikilink")国内シェア1位
   - JMエナジー株式会社
   - 株式会社エラストミックス　- マスターバッチ国内首位
   - JSRライフサイエンス株式会社

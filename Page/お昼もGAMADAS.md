@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - GAMADAS（正式には、「**がまだす**」）とは[熊本弁](https://ja.wikipedia.org/wiki/熊本弁 "wikilink")で「**がんばります**」の意。「エフエム中九州」という社名であった[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に放送開始。以降同局の他のワイド番組がそれぞれ入れ替わっていく間もこの番組だけは歴史を重ね続け、同局の看板番組となっていた。
+  - GAMADAS（正式には、「**がまだす**」）とは[熊本弁](../Page/熊本弁.md "wikilink")で「**がんばります**」の意。「エフエム中九州」という社名であった[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")に放送開始。以降同局の他のワイド番組がそれぞれ入れ替わっていく間もこの番組だけは歴史を重ね続け、同局の看板番組となっていた。
 
 <!-- end list -->
 
@@ -19,7 +19,7 @@
 
   - [黒木よしひろ](../Page/黒木よしひろ.md "wikilink")
   - マッキー（月曜）
-  - [嶋本えみ](https://ja.wikipedia.org/wiki/嶋本えみ "wikilink")（火曜）
+  - [嶋本えみ](../Page/嶋本えみ.md "wikilink")（火曜）
   - [中村真弓](../Page/中村真弓.md "wikilink")（水曜）
   - 渡辺ひとみ（木曜）
 
@@ -31,7 +31,7 @@
 
 ## 放送時間
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月現在 11:30～14:35
+  - [2006年](../Page/2006年.md "wikilink")10月現在 11:30～14:35
 
 ## 放送当時の主なコーナー
 
@@ -57,7 +57,7 @@
 <!-- end list -->
 
   - 14:00〜 ウェザー・オン・ニューディスク
-      - 新譜CDを[BGMにした](https://ja.wikipedia.org/wiki/バックグラウンドミュージック "wikilink")[天気予報](../Page/天気予報.md "wikilink")
+      - 新譜CDを[BGMにした](../Page/バックグラウンドミュージック.md "wikilink")[天気予報](../Page/天気予報.md "wikilink")
   - 14:10～ （月曜）嫌いどグランプリ（テーマに基づき毎週「こんな○○はいやだ」というネタを紹介している）
 
 ## 外部リンク

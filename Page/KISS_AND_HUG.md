@@ -1,11 +1,11 @@
 > この記事は[KISS AND HUG](https://ja.wikipedia.org/wiki/KISS_AND_HUG)から翻訳されています。
 
 
-**KISS AND HUG**（キス・アンド・ハグ）は、[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週土曜6:00～8:00に放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター([DJ](../Page/ディスクジョッキー.md "wikilink"))は[SHELLY](../Page/SHELLY.md "wikilink")。
+**KISS AND HUG**（キス・アンド・ハグ）は、[2006年](../Page/2006年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[J-WAVE](../Page/J-WAVE.md "wikilink")で毎週土曜6:00～8:00に放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。ナビゲーター([DJ](../Page/ディスクジョッキー.md "wikilink"))は[SHELLY](../Page/SHELLY.md "wikilink")。
 
 ## 概要
 
-従来のJ-WAVEの各番組が対象としているリスナー層とは一線を画しており、主に小学生以下の子供とその親に向けた番組となっている。2006年10月5日にオープンした[キッザニア東京](../Page/キッザニア東京.md "wikilink")のラジオ局[パビリオン](https://ja.wikipedia.org/wiki/パビリオン "wikilink")にJ-WAVEが関わっていることから企画した番組ともいえる。
+従来のJ-WAVEの各番組が対象としているリスナー層とは一線を画しており、主に小学生以下の子供とその親に向けた番組となっている。2006年10月5日にオープンした[キッザニア東京](../Page/キッザニア東京.md "wikilink")のラジオ局[パビリオン](../Page/パビリオン.md "wikilink")にJ-WAVEが関わっていることから企画した番組ともいえる。
 
 2006年9月までは6:00～11:00はWEEKEND MAGICが放送されていたが、同年10月から開始時間が2時間繰り下げられ、6・7時台に当番組の放送枠が新たに設けられることとなった。
 

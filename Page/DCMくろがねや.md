@@ -10,9 +10,9 @@
   - [1966年](../Page/1966年.md "wikilink")（昭和41年） - **株式会社くろがねや**に改組\[3\]。
   - [1989年](../Page/1989年.md "wikilink")（平成元年） - 株式を店頭公開\[4\]。
   - [1999年](../Page/1999年.md "wikilink")（平成11年） - [東京証券取引所](../Page/東京証券取引所.md "wikilink")2部上場\[5\]。
-  - [2003年](../Page/2003年.md "wikilink")（平成15年） - カーマ（現・[DCMカーマ](https://ja.wikipedia.org/wiki/DCMカーマ "wikilink")）と提携\[6\]。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年） - カーマ（現・[DCMカーマ](../Page/DCMカーマ.md "wikilink")）と提携\[6\]。
   - [2016年](../Page/2016年.md "wikilink")（平成28年）
-      - 11月28日 - [上場廃止](https://ja.wikipedia.org/wiki/上場廃止 "wikilink")\[7\]。
+      - 11月28日 - [上場廃止](../Page/上場廃止.md "wikilink")\[7\]。
       - 12月1日 - [簡易株式交換により](../Page/簡易組織再編行為.md "wikilink")[DCMホールディングス](../Page/DCMホールディングス.md "wikilink")の完全子会社となり\[8\]、**DCMくろがねや株式会社**に商号変更\[9\]。
 
 ## 店舗
@@ -22,7 +22,7 @@
 ### 店舗数
 
   - 山梨県 - 13
-  - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink") - 3
+  - [東京都](../Page/東京都.md "wikilink") - 3
   - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") - 6
 
 ※2013年10月現在\[10\]

@@ -5,7 +5,7 @@
 
 ## 来歴
 
-[原宿](../Page/原宿.md "wikilink")の[ホコ天](https://ja.wikipedia.org/wiki/ホコ天 "wikilink")を中心に活動していたが、テレビ番組『[天才・たけしの元気が出るテレビ\!\!](https://ja.wikipedia.org/wiki/天才・たけしの元気が出るテレビ!! "wikilink")』で紹介されたり、[1989年](../Page/1989年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")放送の『[三宅裕司のいかすバンド天国](https://ja.wikipedia.org/wiki/三宅裕司のいかすバンド天国 "wikilink")』に出場したことで話題になり、1989年「ドリーミングナウ」で[EPIC/SONYからメジャーデビューした](https://ja.wikipedia.org/wiki/エピックレコードジャパン "wikilink")。
+[原宿](../Page/原宿.md "wikilink")の[ホコ天](https://ja.wikipedia.org/wiki/ホコ天 "wikilink")を中心に活動していたが、テレビ番組『[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")』で紹介されたり、[1989年](../Page/1989年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")放送の『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』に出場したことで話題になり、1989年「ドリーミングナウ」で[EPIC/SONYからメジャーデビューした](../Page/エピックレコードジャパン.md "wikilink")。
 
 1990年にリリースした「愛・オーランド」は、[ベガルタ仙台](../Page/ベガルタ仙台.md "wikilink")のサポーターソングとして、ベガルタ仙台が勝利した時に最後に歌われる。ただし、ベガルタ仙台の歌詞カードには、タイトルが「AURA」という表記になっている。1991年にリリースした「SMILE\&SMILE」は、『[シティーハンター'91](../Page/シティーハンター_\(アニメ\).md "wikilink")』のエンディングテーマを飾った。
 
@@ -15,7 +15,7 @@
 
 ## メンバー
 
-  - VOCAL：[REDS☆](../Page/Reds☆.md "wikilink")（みんなのれっず）/赤 [1967年](../Page/1967年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")、[千葉県](https://ja.wikipedia.org/wiki/千葉県 "wikilink")出身
+  - VOCAL：[REDS☆](../Page/Reds☆.md "wikilink")（みんなのれっず）/赤 [1967年](../Page/1967年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")出身
   - DRUMS：[KoREDS★](https://ja.wikipedia.org/wiki/KoREDS★ "wikilink")（あなたの子れっず）/紫 [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[函館市](../Page/函館市.md "wikilink")出身
   - GUITAR：PIE（龍巻のピー）※「竜巻のピー」と表記される場合もある/黄 1967年[3月21日](../Page/3月21日.md "wikilink")、[大阪府](../Page/大阪府.md "wikilink")出身　2013年5月に[肺がん](https://ja.wikipedia.org/wiki/肺がん "wikilink")で入院。同年12月28日死去。本名：平川秀治
   - BASS：Marble（ぷりんすマーブル）/緑 1968年[2月25日](../Page/2月25日.md "wikilink")、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身 現在は絹山不動産の代表取締役のほか、2019年11月開局のコミュニティFMである狛江ラジオ放送株式会社（コマラジ）の代表取締役社長などを務める\[1\]。
@@ -24,7 +24,7 @@
 
 ### 元メンバー
 
-  - DRUMS：ヒース(脱退後、[ZI:KILL](https://ja.wikipedia.org/wiki/ZI:KILL "wikilink"))
+  - DRUMS：ヒース(脱退後、[ZI:KILL](../Page/ZI:KILL.md "wikilink"))
 
 ### サポートメンバー
 
@@ -91,7 +91,7 @@
 
 <!-- end list -->
 
-  - [月曜ドラマスペシャル](https://ja.wikipedia.org/wiki/月曜ドラマスペシャル "wikilink")「[霊感商法株式会社〜星に呪いを〜](https://ja.wikipedia.org/wiki/霊感商法株式会社#テレビドラマ "wikilink")」（1991年8月（全4話）、TBS系）
+  - [月曜ドラマスペシャル](../Page/月曜ドラマスペシャル.md "wikilink")「[霊感商法株式会社〜星に呪いを〜](https://ja.wikipedia.org/wiki/霊感商法株式会社#テレビドラマ "wikilink")」（1991年8月（全4話）、TBS系）
 
 ## 脚注
 

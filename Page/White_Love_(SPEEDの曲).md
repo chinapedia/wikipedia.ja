@@ -5,11 +5,11 @@
 
 ## 解説
 
-累計売上は200万枚\[1\]。SPEED最大のヒット曲となっている。[オリコン集計での累計売上は](https://ja.wikipedia.org/wiki/オリコンチャート "wikilink")184万5000枚。
+累計売上は200万枚\[1\]。SPEED最大のヒット曲となっている。[オリコン集計での累計売上は](../Page/オリコンチャート.md "wikilink")184万5000枚。
 
 ## 収録曲
 
-全曲 作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink") / 編曲：[水島康貴](https://ja.wikipedia.org/wiki/水島康貴 "wikilink")
+全曲 作詞・作曲：[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink") / 編曲：[水島康貴](../Page/水島康貴.md "wikilink")
 
 1.  **White Love**
       -
@@ -41,7 +41,7 @@
   - [SPEED MEMORIAL LIVE “One More Dream” + Remix\!\!\!](https://ja.wikipedia.org/wiki/SPEED_MEMORIAL_LIVE_“One_More_Dream”_+_Remix!!! "wikilink")（\#1、ライブ音源とGospel mix）
   - [BEST HITS LIVE〜Save The Children SPEED LIVE 2003〜](../Page/BEST_HITS_LIVE〜Save_The_Children_SPEED_LIVE_2003〜.md "wikilink")（\#1、ライブ音源）
 
-**[PV集](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")**
+**[PV集](../Page/ミュージック・ビデオ.md "wikilink")**
 
   - [SPEED VIDEO CLIPS「SPEED SPIRITS I」](https://ja.wikipedia.org/wiki/SPEED_VIDEO_CLIPS「SPEED_SPIRITS_I」 "wikilink")[VHS](../Page/VHS.md "wikilink")、[DVD](../Page/DVD.md "wikilink")（\#1）
   - [SPEED VIDEO CLIPS「SPEED SPIRITS COMPLETE」DVD](../Page/SPEED_VIDEO_CLIPS「SPEED_SPIRITS_COMPLETE」.md "wikilink")（\#1）
@@ -54,7 +54,7 @@
   - Fantastic Christmas（\#1）
   - ウインターソング（\#1）
   - [Lovely\! Cute\&Sweet J-Ballads](https://ja.wikipedia.org/wiki/Lovely!_Cute&Sweet_J-Ballads "wikilink")（\#1）
-  - [CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink") NO.1 HITS〜コイウタ（\#1）
+  - [CDTV](../Page/COUNT_DOWN_TV.md "wikilink") NO.1 HITS〜コイウタ（\#1）
   - J-ポッパー伝説涙\[DJ和 in No.1 J-POP MIX\]（\#1）
   - 胸キュン90's 〜ひとりで聴きたい恋の唄〜（\#1、Re Track）
   - SUPER EURO GROOVE J-EURO SPECIAL SELECTION（\#1、Eurobeat Mix）
@@ -64,7 +64,7 @@
 ## カバー
 
   - [N's](https://ja.wikipedia.org/wiki/N's "wikilink") - 同ユニットのアルバム『N's』に収録。
-  - [たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink")・[今井麻美](https://ja.wikipedia.org/wiki/今井麻美 "wikilink") - 2008年1月20日放送の[ラジオ大阪のラジオ番組](../Page/大阪放送.md "wikilink")『[THE IDOLM@STER RADIO](../Page/THE_IDOLM@STER_RADIO.md "wikilink")』のコーナーの1つ「歌姫楽園」でカバーされ、楽曲は2008年6月4日発売のアルバム『THE IDOLM@STER RADIO COLORFUL MEMORIES』に収録された。
+  - [たかはし智秋](https://ja.wikipedia.org/wiki/たかはし智秋 "wikilink")・[今井麻美](../Page/今井麻美.md "wikilink") - 2008年1月20日放送の[ラジオ大阪のラジオ番組](../Page/大阪放送.md "wikilink")『[THE IDOLM@STER RADIO](../Page/THE_IDOLM@STER_RADIO.md "wikilink")』のコーナーの1つ「歌姫楽園」でカバーされ、楽曲は2008年6月4日発売のアルバム『THE IDOLM@STER RADIO COLORFUL MEMORIES』に収録された。
   - [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink") - 自身がリリースしたカバーアルバム『[Request](https://ja.wikipedia.org/wiki/Request_\(アルバム\) "wikilink")』（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）に収録。
   - 岡本あかり（[水瀬いのり](https://ja.wikipedia.org/wiki/水瀬いのり "wikilink")） - アニメ『[世紀末オカルト学院](https://ja.wikipedia.org/wiki/世紀末オカルト学院 "wikilink")』の本編第8、9話の予告編挿入歌としてカバー。フルバージョンは同アニメのBlu-ray Disc/DVD「Volume 5【完全生産限定版】」に収録。
   - [BABYMETAL](https://ja.wikipedia.org/wiki/BABYMETAL "wikilink") - ライブ・ビデオ『[LIVE 〜LEGEND I、D、Z APOCALYPSE〜](https://ja.wikipedia.org/wiki/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜 "wikilink")』（[2013年](../Page/2013年.md "wikilink")）に収録。
@@ -92,7 +92,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/台湾" title="wikilink">台湾</a></p></td>
 <td></td>
 <td><p>CD</p></td>
-<td><p><a href="../Page/タワーレコード.md" title="wikilink">タワーレコード</a>(台湾)、<a href="https://ja.wikipedia.org/wiki/EMI" title="wikilink">EMI</a>(台湾)</p></td>
+<td><p><a href="../Page/タワーレコード.md" title="wikilink">タワーレコード</a>(台湾)、<a href="../Page/EMI.md" title="wikilink">EMI</a>(台湾)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フィリピン" title="wikilink">フィリピン</a></p></td>
@@ -105,7 +105,7 @@
 
 ## すたーふらわーのカバー
 
-[2012年](../Page/2012年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に、[すたーふらわー](https://ja.wikipedia.org/wiki/すたーふらわー "wikilink")（[小林星蘭](https://ja.wikipedia.org/wiki/小林星蘭 "wikilink")・[谷花音](https://ja.wikipedia.org/wiki/谷花音 "wikilink")）の2枚目の[シングル](../Page/シングル.md "wikilink")として[ビクターエンタテインメント（現・JVCケンウッド・ビクターエンタテインメント）から発売された](https://ja.wikipedia.org/wiki/JVCケンウッド・ビクターエンタテインメント "wikilink")\[2\]。
+[2012年](../Page/2012年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")に、[すたーふらわー](https://ja.wikipedia.org/wiki/すたーふらわー "wikilink")（[小林星蘭](https://ja.wikipedia.org/wiki/小林星蘭 "wikilink")・[谷花音](https://ja.wikipedia.org/wiki/谷花音 "wikilink")）の2枚目の[シングル](../Page/シングル.md "wikilink")として[ビクターエンタテインメント（現・JVCケンウッド・ビクターエンタテインメント）から発売された](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")\[2\]。
 
 **収録曲**
 

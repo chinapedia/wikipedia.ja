@@ -24,7 +24,7 @@
 
 ## 主な提携カード
 
-  - [山梨交通OMCカード](../Page/バスICカード_\(山梨交通\).md "wikilink") - [山梨交通](https://ja.wikipedia.org/wiki/山梨交通 "wikilink")との提携カード。通称「バスOMCカード」。年会費永年無料。
+  - [山梨交通OMCカード](../Page/バスICカード_\(山梨交通\).md "wikilink") - [山梨交通](../Page/山梨交通.md "wikilink")との提携カード。通称「バスOMCカード」。年会費永年無料。
 
 ## 脚注
 

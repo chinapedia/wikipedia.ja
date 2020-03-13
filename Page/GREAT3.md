@@ -18,7 +18,7 @@
 
 ## メンバー
 
-  - **片寄明人**（かたよせ あきと、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月23日](../Page/5月23日.md "wikilink") - [東京都](https://ja.wikipedia.org/wiki/東京都 "wikilink")出身、B型、180cm）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
+  - **片寄明人**（かたよせ あきと、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月23日](../Page/5月23日.md "wikilink") - [東京都](../Page/東京都.md "wikilink")出身、B型、180cm）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")
 
 <!-- end list -->
 
@@ -27,7 +27,7 @@
     [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")、歌手・モデルの[Chocolat](../Page/Chocolat.md "wikilink")と結婚。chocolatとのデュオChocolat & Akitoとして活動。
     [2000年](../Page/2000年.md "wikilink")、[THE SEA AND CAKEや](https://ja.wikipedia.org/wiki/ザ・シー・アンド・ケイク "wikilink")、[TORTOISE](https://ja.wikipedia.org/wiki/TORTOISE "wikilink")で活躍している[ジョン・マッケンタイア](https://ja.wikipedia.org/wiki/ジョン・マッケンタイア "wikilink")のプロデュースにより、ソロアルバム『HEY MISTER GIRL\!』を発表。
     [資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink")のCMでのナレーションや、妻であるChocolatと[ニッカ](https://ja.wikipedia.org/wiki/ニッカウヰスキー "wikilink")・[シードルや](https://ja.wikipedia.org/wiki/シードル#日本 "wikilink")[UNIQLO](https://ja.wikipedia.org/wiki/UNIQLO "wikilink")のCM出演などの活動も行っている。
-    [フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink")のメジャーデビュー作『[フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック_\(アルバム\) "wikilink")』の全曲、いわゆる「四季盤」のシングル4枚プロデュース、[SOPHIA](https://ja.wikipedia.org/wiki/SOPHIA "wikilink")の「[黒いブーツ 〜oh my friend〜](https://ja.wikipedia.org/wiki/黒いブーツ_〜oh_my_friend〜 "wikilink")」、[SISTER JET](https://ja.wikipedia.org/wiki/SISTER_JET "wikilink")、[サクラメリーメン](../Page/サクラメリーメン.md "wikilink")、[LOVE LOVE LOVE](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE "wikilink")、[メレンゲ](https://ja.wikipedia.org/wiki/メレンゲ_\(バンド\) "wikilink")、[テスラは泣かない](https://ja.wikipedia.org/wiki/テスラは泣かない "wikilink")、[GO\!GO\!7188](https://ja.wikipedia.org/wiki/GO!GO!7188 "wikilink")、[Any](https://ja.wikipedia.org/wiki/Any_\(バンド\) "wikilink")、[Czecho No Republic](https://ja.wikipedia.org/wiki/Czecho_No_Republic "wikilink")、[daoko](https://ja.wikipedia.org/wiki/daoko "wikilink")、[acari](https://ja.wikipedia.org/wiki/acari "wikilink")、 [TENDOUJI](https://ja.wikipedia.org/wiki/TENDOUJI "wikilink")、[SHE IS SUMMER](https://ja.wikipedia.org/wiki/SHE_IS_SUMMER "wikilink")、[The Wisely Brothers](https://ja.wikipedia.org/wiki/The_Wisely_Brothers "wikilink") などのプロデューサーとしても活動している。
+    [フジファブリック](../Page/フジファブリック.md "wikilink")のメジャーデビュー作『[フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック_\(アルバム\) "wikilink")』の全曲、いわゆる「四季盤」のシングル4枚プロデュース、[SOPHIA](../Page/SOPHIA.md "wikilink")の「[黒いブーツ 〜oh my friend〜](https://ja.wikipedia.org/wiki/黒いブーツ_〜oh_my_friend〜 "wikilink")」、[SISTER JET](https://ja.wikipedia.org/wiki/SISTER_JET "wikilink")、[サクラメリーメン](../Page/サクラメリーメン.md "wikilink")、[LOVE LOVE LOVE](https://ja.wikipedia.org/wiki/LOVE_LOVE_LOVE "wikilink")、[メレンゲ](../Page/メレンゲ_\(バンド\).md "wikilink")、[テスラは泣かない](https://ja.wikipedia.org/wiki/テスラは泣かない "wikilink")、[GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")、[Any](https://ja.wikipedia.org/wiki/Any_\(バンド\) "wikilink")、[Czecho No Republic](https://ja.wikipedia.org/wiki/Czecho_No_Republic "wikilink")、[daoko](https://ja.wikipedia.org/wiki/daoko "wikilink")、[acari](https://ja.wikipedia.org/wiki/acari "wikilink")、 [TENDOUJI](https://ja.wikipedia.org/wiki/TENDOUJI "wikilink")、[SHE IS SUMMER](https://ja.wikipedia.org/wiki/SHE_IS_SUMMER "wikilink")、[The Wisely Brothers](https://ja.wikipedia.org/wiki/The_Wisely_Brothers "wikilink") などのプロデューサーとしても活動している。
     親戚に小説家の[北方謙三](../Page/北方謙三.md "wikilink")がいる。小学生の時に空手の大会で武道館に出た事がある。GREAT3の曲「SOUL GLOW」のPVでは正拳突きを披露している。
 
 <!-- end list -->
@@ -40,13 +40,13 @@
     元GREAT3メンバーの高桑とは幼馴染み。
     ソロユニットLAS VEGAS、Acapulcoとして、また他ミュージシャンのサウンドデザイナー、プロデューサーとしても活動している。
     シンプルながらテクニックを感じさせるドラムさばき。ドラム以外にピアノやフルコーラスをボーカル＆ドラムで参加するなど多才。
-    [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")、[高橋幸宏](../Page/高橋幸宏.md "wikilink")、[THE BEATNIKS](../Page/THE_BEATNIKS.md "wikilink")、[Bonnie Pink](https://ja.wikipedia.org/wiki/Bonnie_Pink "wikilink")、[Caravan](../Page/Caravan.md "wikilink")、[Chara](https://ja.wikipedia.org/wiki/Chara "wikilink")、[LEO今井](../Page/LEO今井.md "wikilink")、[KIMONOS](https://ja.wikipedia.org/wiki/KIMONOS "wikilink")、[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")、[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")、[チュール](https://ja.wikipedia.org/wiki/チュール_\(歌手\) "wikilink")、[中田裕二](https://ja.wikipedia.org/wiki/中田裕二 "wikilink")、[SOLEIL](https://ja.wikipedia.org/wiki/SOLEIL_\(バンド\) "wikilink") 、[大沢樹生](https://ja.wikipedia.org/wiki/大沢樹生 "wikilink")、[Kotoko Tanaka Band](https://ja.wikipedia.org/wiki/Kotoko_Tanaka_Band "wikilink") など、数々のミュージシャンのライブサポート、スタジオサポートとして参加している。
+    [YUKI](https://ja.wikipedia.org/wiki/YUKI_\(歌手\) "wikilink")、[高橋幸宏](../Page/高橋幸宏.md "wikilink")、[THE BEATNIKS](../Page/THE_BEATNIKS.md "wikilink")、[Bonnie Pink](https://ja.wikipedia.org/wiki/Bonnie_Pink "wikilink")、[Caravan](../Page/Caravan.md "wikilink")、[Chara](https://ja.wikipedia.org/wiki/Chara "wikilink")、[LEO今井](../Page/LEO今井.md "wikilink")、[KIMONOS](https://ja.wikipedia.org/wiki/KIMONOS "wikilink")、[LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")、[Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")、[チュール](https://ja.wikipedia.org/wiki/チュール_\(歌手\) "wikilink")、[中田裕二](https://ja.wikipedia.org/wiki/中田裕二 "wikilink")、[SOLEIL](https://ja.wikipedia.org/wiki/SOLEIL_\(バンド\) "wikilink") 、[大沢樹生](../Page/大沢樹生.md "wikilink")、[Kotoko Tanaka Band](https://ja.wikipedia.org/wiki/Kotoko_Tanaka_Band "wikilink") など、数々のミュージシャンのライブサポート、スタジオサポートとして参加している。
     その際、高桑とセットで参加することも多い。
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、Manmancerでソロデビュー。
 
 <!-- end list -->
 
-  - **jan**（やん [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - B型、187cm）ボーカル、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")
+  - **jan**（やん [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - B型、187cm）ボーカル、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
 <!-- end list -->
 
@@ -61,10 +61,10 @@
 <!-- end list -->
 
   -
-    ソロユニット[Curly Giraffe](https://ja.wikipedia.org/wiki/Curly_Giraffe "wikilink")（カーリー・ジラフ）や[曾田茂一](https://ja.wikipedia.org/wiki/曾田茂一 "wikilink")（元[EL-MALO](https://ja.wikipedia.org/wiki/EL-MALO "wikilink")ボーカル・ギター）とのバンド[HONESTY](https://ja.wikipedia.org/wiki/HONESTY "wikilink")としても活動している。
+    ソロユニット[Curly Giraffe](https://ja.wikipedia.org/wiki/Curly_Giraffe "wikilink")（カーリー・ジラフ）や[曾田茂一](https://ja.wikipedia.org/wiki/曾田茂一 "wikilink")（元[EL-MALO](../Page/EL-MALO.md "wikilink")ボーカル・ギター）とのバンド[HONESTY](https://ja.wikipedia.org/wiki/HONESTY "wikilink")としても活動している。
     メロディののったベースラインと、低くセクシーなボーカル、コーラスを放つ。
     数々のミュージシャンのライブサポート、スタジオサポートとして参加している。その際、白根とセットで参加することも多い。
-    [2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")にCurly Giraffeとしてソロデビュー。2008年[エイベックスよりメジャーデビュー](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。音源の発表とライブ活動のみというノンプロモーション、そして詳細なプロフィールは明かさないというスタイルを取っていた。本人曰く「音楽のブラインドテストをしてみたかった」とのこと\[1\]。
+    [2005年](../Page/2005年.md "wikilink")にCurly Giraffeとしてソロデビュー。2008年[エイベックスよりメジャーデビュー](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。音源の発表とライブ活動のみというノンプロモーション、そして詳細なプロフィールは明かさないというスタイルを取っていた。本人曰く「音楽のブラインドテストをしてみたかった」とのこと\[1\]。
     2012年5月、GREAT3の活動再開と同時にグループを脱退したことを発表した。
 
 ## ディスコグラフィー
@@ -128,8 +128,8 @@
 <td><p>1996年11月20日</p></td>
 <td><p><strong>GLASS ROOTS</strong></p></td>
 <td><p>TODT-3855</p></td>
-<td><p>GLASS ROOTS／崖～G-Surf(<a href="https://ja.wikipedia.org/wiki/砂原良徳" title="wikilink">YOSHINORI SUNAHARA</a> MIX)／GLASS ROOTS(INSTRUMENTAL VERSION)</p></td>
-<td><p>M1は<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="https://ja.wikipedia.org/wiki/COUNT_DOWN_TV" title="wikilink">COUNT DOWN TVエンディングテーマ</a><br />
+<td><p>GLASS ROOTS／崖～G-Surf(<a href="../Page/砂原良徳.md" title="wikilink">YOSHINORI SUNAHARA</a> MIX)／GLASS ROOTS(INSTRUMENTAL VERSION)</p></td>
+<td><p>M1は<a href="../Page/TBSテレビ.md" title="wikilink">TBS系列</a><a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TVエンディングテーマ</a><br />
 オリコン圏外</p></td>
 </tr>
 <tr class="odd">
@@ -146,7 +146,7 @@
 <td><p><strong>CALiGULA</strong></p></td>
 <td><p>TODT-5127</p></td>
 <td><p>CALIGULA／CALIGULA (INSTRUMENTAL)</p></td>
-<td><p>M1のゲストボーカルとして<a href="https://ja.wikipedia.org/wiki/CHARA" title="wikilink">CHARA</a>が参加。<a href="https://ja.wikipedia.org/wiki/スペースシャワーTV" title="wikilink">スペースシャワーTV</a>1998年5月度<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a><br />
+<td><p>M1のゲストボーカルとして<a href="https://ja.wikipedia.org/wiki/CHARA" title="wikilink">CHARA</a>が参加。<a href="../Page/スペースシャワーTV.md" title="wikilink">スペースシャワーTV</a>1998年5月度<a href="../Page/スペースシャワーTV歴代POWER_PUSH一覧.md" title="wikilink">POWER PUSH</a><br />
 オリコン最高71位</p></td>
 </tr>
 <tr class="odd">
@@ -284,7 +284,7 @@ TOCT-12001</p></td>
 <li>ビーチボール [4:39] 【作詞:片寄明人/作曲:片寄明人,高桑圭,白根賢一】</li>
 <li>Last Song [4:43] 【作詞:片寄明人/作曲:片寄明人,高桑圭,白根賢一/編曲:山本拓夫】</li>
 </ol>
-<p>※再発盤には上記に加えて、崖～G-Surf (<a href="https://ja.wikipedia.org/wiki/砂原良徳" title="wikilink">Yoshinori Sunahara</a> MIX)／DISCOMAN (Single Version)／GLASS ROOTS／Open My Eyes（<a href="../Page/トッド・ラングレン.md" title="wikilink">The NAZZのカバー</a>）がボーナストラックとして収録されている。</p></td>
+<p>※再発盤には上記に加えて、崖～G-Surf (<a href="../Page/砂原良徳.md" title="wikilink">Yoshinori Sunahara</a> MIX)／DISCOMAN (Single Version)／GLASS ROOTS／Open My Eyes（<a href="../Page/トッド・ラングレン.md" title="wikilink">The NAZZのカバー</a>）がボーナストラックとして収録されている。</p></td>
 <td><p>オリコン最高37位</p></td>
 </tr>
 <tr class="odd">
@@ -351,7 +351,7 @@ TOCT-12004</p></td>
 <li>Bee [4:11] 【作詞作曲編曲:GREAT3】</li>
 <li>Sad Dancer [3:14] 【作詞作曲:GREAT3/編曲:GREAT3,takuo yamamoto】</li>
 <li>ACAN [4:52] 【作詞作曲編曲:GREAT3】</li>
-<li>Sundowner [4:11] 【作詞作曲:GREAT3/編曲:GREAT3,<a href="https://ja.wikipedia.org/wiki/宮川弾" title="wikilink">dan miyakawa</a>】</li>
+<li>Sundowner [4:11] 【作詞作曲:GREAT3/編曲:GREAT3,<a href="../Page/宮川弾.md" title="wikilink">dan miyakawa</a>】</li>
 <li>Brother's Shadow [4:01] 【作詞作曲:GREAT3/編曲:GREAT3,takuo yamamoto】</li>
 <li>Dew [4:27] 【作詞作曲編曲:GREAT3】</li>
 <li>Mood Elevator [4:39] 【作曲編曲:GREAT3】</li>
@@ -539,7 +539,7 @@ TOBF-91136</p></td>
 
 <!-- end list -->
 
-  - '''We Love butchers '''(1999年6月18日)[Bloodthirsty butchersトリビュートアルバム](https://ja.wikipedia.org/wiki/Bloodthirsty_butchers "wikilink")
+  - '''We Love butchers '''(1999年6月18日)[Bloodthirsty butchersトリビュートアルバム](../Page/Bloodthirsty_butchers.md "wikilink")
 
 <!-- end list -->
 
@@ -672,11 +672,11 @@ TOBF-91136</p></td>
   - 2012年08月18日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2012
   - 2012年10月10日 - [NONA REEVES](https://ja.wikipedia.org/wiki/NONA_REEVES "wikilink") presents WAW 2012 -We Are the World-
   - 2012年11月06日・14日 - QUATTRO MIRAGE VOL.5
-  - 2012年12月13日 - [GRAPEVINE](https://ja.wikipedia.org/wiki/GRAPEVINE "wikilink")×GREAT3
+  - 2012年12月13日 - [GRAPEVINE](../Page/GRAPEVINE.md "wikilink")×GREAT3
   - 2013年05月23日 - SHINJUKU LOFT 14TH ANNIVERSARY
-  - 2013年07月16日 - Shibuya CLUB QUATTRO 25th Anniversary "QUATTRO QUARTER" 『Tuesday Night Fever』 With [フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink")
+  - 2013年07月16日 - Shibuya CLUB QUATTRO 25th Anniversary "QUATTRO QUARTER" 『Tuesday Night Fever』 With [フジファブリック](../Page/フジファブリック.md "wikilink")
   - 2013年10月13日 - Barbate Rock presents "MIRAGE of MUSIC"
-  - 2014年03月01日 - [ホフディラン](https://ja.wikipedia.org/wiki/ホフディラン "wikilink")とGREAT3
+  - 2014年03月01日 - [ホフディラン](../Page/ホフディラン.md "wikilink")とGREAT3
   - 2014年08月27日 - LIQUIDROOM 10th ANNIVERSARY
   - 2014年12月05日 - [SISTER JET](https://ja.wikipedia.org/wiki/SISTER_JET "wikilink") tour "our world" in TOKYO FINAL
   - 2015年08月08日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2015
@@ -702,9 +702,9 @@ TOBF-91136</p></td>
   - [Chocolat](../Page/Chocolat.md "wikilink")
   - [HONESTY](https://ja.wikipedia.org/wiki/HONESTY "wikilink")
   - [會田茂一](../Page/會田茂一.md "wikilink")
-  - [フジファブリック](https://ja.wikipedia.org/wiki/フジファブリック "wikilink")
+  - [フジファブリック](../Page/フジファブリック.md "wikilink")
   - [LOVE PSYCHEDELICO](https://ja.wikipedia.org/wiki/LOVE_PSYCHEDELICO "wikilink")
-  - [THEATRE BROOK](https://ja.wikipedia.org/wiki/THEATRE_BROOK "wikilink")
+  - [THEATRE BROOK](../Page/THEATRE_BROOK.md "wikilink")
   - [CHARA](https://ja.wikipedia.org/wiki/CHARA "wikilink")
   - [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink")
   - [佐野元春](../Page/佐野元春.md "wikilink")

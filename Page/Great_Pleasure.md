@@ -1,19 +1,19 @@
 > この記事は[Great Pleasure](https://ja.wikipedia.org/wiki/Great_Pleasure)から翻訳されています。
 
 
-**Great Pleasure**は、元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")のベーシスト、[Tamaのソロデビューアルバム](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")。
+**Great Pleasure**は、元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")のベーシスト、[Tamaのソロデビューアルバム](../Page/Tama_\(ベーシスト\).md "wikilink")。
 
-[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")にリリースされた。
+[2005年](../Page/2005年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")にリリースされた。
 
 ## 概要
 
-  - [2004年](../Page/2004年.md "wikilink")7月に[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")を脱退した[Tamaのソロデビューアルバム](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\) "wikilink")。
-  - 新型ミクスチャーインストアルバムというジャンルで、[インスト曲が大半である](https://ja.wikipedia.org/wiki/器楽曲 "wikilink")。
-  - Tamaは[トランペット](../Page/トランペット.md "wikilink")、[ベース](https://ja.wikipedia.org/wiki/ベース_\(弦楽器\) "wikilink")、[ギター](../Page/ギター.md "wikilink")、[コーラスを担当した](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")(一部の[キーボードも](../Page/キーボード_\(楽器\).md "wikilink"))。
+  - [2004年](../Page/2004年.md "wikilink")7月に[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")を脱退した[Tamaのソロデビューアルバム](../Page/Tama_\(ベーシスト\).md "wikilink")。
+  - 新型ミクスチャーインストアルバムというジャンルで、[インスト曲が大半である](../Page/器楽曲.md "wikilink")。
+  - Tamaは[トランペット](../Page/トランペット.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")、[コーラスを担当した](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")(一部の[キーボードも](../Page/キーボード_\(楽器\).md "wikilink"))。
   - 脱退直後から、ストイックなまでに製作されてきた楽曲全てが収録されている。
   - 本来はベースを使い分ける予定だったが、「しっくり来た」ので全楽曲を1本のベースで収録した。
   - 歌詞カードには[ライナーノーツ](../Page/ライナーノーツ.md "wikilink")が記されている。
-  - 初回限定盤には[PVと特典映像が収録された](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")[DVD](../Page/DVD.md "wikilink")付属。
+  - 初回限定盤には[PVと特典映像が収録された](../Page/ミュージック・ビデオ.md "wikilink")[DVD](../Page/DVD.md "wikilink")付属。
 
 ## 収録曲
 

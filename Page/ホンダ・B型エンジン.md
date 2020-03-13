@@ -1,7 +1,7 @@
 > この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
 
 
-**B型エンジン**（Bがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[Cセグメント](../Page/Cセグメント.md "wikilink")～[Dセグメント](../Page/Dセグメント.md "wikilink")車種用[直列4気筒](https://ja.wikipedia.org/wiki/直列4気筒 "wikilink")[エンジン](../Page/エンジン.md "wikilink")である。
+**B型エンジン**（Bがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[Cセグメント](../Page/Cセグメント.md "wikilink")～[Dセグメント](../Page/Dセグメント.md "wikilink")車種用[直列4気筒](../Page/直列4気筒.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")である。
 
 ## 機構
 
@@ -11,32 +11,32 @@
 
 [ZC型エンジンの基本構造を継承した機種で](../Page/ホンダ・ZC型エンジン.md "wikilink")、排気量はZC型と比較して拡大（1.8〜2.1L）された。DOHCエンジンとしては異例となる[ロングストローク](https://ja.wikipedia.org/wiki/ロングストローク "wikilink")型の[ボアストローク比](../Page/ボアストローク比.md "wikilink")で、軽量コンパクトながら実用域のトルクも高く、[フォーミュラ3](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")などのモータースポーツ用エンジンとしても転用された。
 
-[吸・排気バルブはそれぞれ](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")2個ずつのレイアウトで、[点火プラグ](../Page/点火プラグ.md "wikilink")は[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")の天井中央部に配置された。[アルミ製](https://ja.wikipedia.org/wiki/アルミニューム "wikilink")[シリンダーブロック](https://ja.wikipedia.org/wiki/シリンダーブロック "wikilink")には「NDC (New [Diecast](https://ja.wikipedia.org/wiki/ダイカスト "wikilink")) 」と呼ばれる高圧[鋳造](../Page/鋳造.md "wikilink")のクローズドデッキ仕様も存在する。
+[吸・排気バルブはそれぞれ](https://ja.wikipedia.org/wiki/バルブ#内燃機関におけるバルブ "wikilink")2個ずつのレイアウトで、[点火プラグ](../Page/点火プラグ.md "wikilink")は[燃焼室](https://ja.wikipedia.org/wiki/燃焼室 "wikilink")の天井中央部に配置された。[アルミ製](https://ja.wikipedia.org/wiki/アルミニューム "wikilink")[シリンダーブロック](../Page/シリンダーブロック.md "wikilink")には「NDC (New [Diecast](../Page/ダイカスト.md "wikilink")) 」と呼ばれる高圧[鋳造](../Page/鋳造.md "wikilink")のクローズドデッキ仕様も存在する。
 
-[CVデュアルキャブレター](https://ja.wikipedia.org/wiki/キャブレター#可変ベンチュリ型 "wikilink")（サイドドラフト、可変ベンチュリ）仕様と[PGM-FI仕様が存在し](../Page/燃料噴射装置.md "wikilink")、キャブレター仕様は[空燃比](../Page/空燃比.md "wikilink")をより精密に制御するための2次エアが導入されている。PGM-FI仕様は[インテークマニホールド](https://ja.wikipedia.org/wiki/インテークマニホールド "wikilink")の各気筒のポートにインジェクターが取付けられたマルチポイント式で、インテークマニホールドに可変吸気装置が装備されているものもある。[A型エンジンと同様に](../Page/ホンダ・A型エンジン.md "wikilink")[CVCC](../Page/CVCC.md "wikilink")は採用されておらず、[排気ガス](https://ja.wikipedia.org/wiki/排気ガス "wikilink")浄化のために[三元触媒](../Page/三元触媒.md "wikilink")と[排気2次エアー供給システムが採用された](https://ja.wikipedia.org/wiki/二次空気導入装置 "wikilink")。
+[CVデュアルキャブレター](https://ja.wikipedia.org/wiki/キャブレター#可変ベンチュリ型 "wikilink")（サイドドラフト、可変ベンチュリ）仕様と[PGM-FI仕様が存在し](../Page/燃料噴射装置.md "wikilink")、キャブレター仕様は[空燃比](../Page/空燃比.md "wikilink")をより精密に制御するための2次エアが導入されている。PGM-FI仕様は[インテークマニホールド](../Page/インテークマニホールド.md "wikilink")の各気筒のポートにインジェクターが取付けられたマルチポイント式で、インテークマニホールドに可変吸気装置が装備されているものもある。[A型エンジンと同様に](../Page/ホンダ・A型エンジン.md "wikilink")[CVCC](../Page/CVCC.md "wikilink")は採用されておらず、[排気ガス](../Page/排気ガス.md "wikilink")浄化のために[三元触媒](../Page/三元触媒.md "wikilink")と[排気2次エアー供給システムが採用された](https://ja.wikipedia.org/wiki/二次空気導入装置 "wikilink")。
 
 ### DOHC VTEC
 
   - B16A/B16B/B17A/B18C
 
-[NAエンジンにおいて](https://ja.wikipedia.org/wiki/自然吸気 "wikilink")[リッター](https://ja.wikipedia.org/wiki/リッター "wikilink")あたり100[PS超の高出力化を実現するために](../Page/馬力.md "wikilink")、[可変バルブタイミング・リフト機構である](../Page/可変バルブ機構.md "wikilink")[VTEC](../Page/VTEC.md "wikilink")が装備されている。カムシャフトに“ハイ”と“ロー”の2種類のカム駒を設け、そこに接するロッカーアームを切り替え、吸・排気バルブの開閉タイミング（バルブタイミング）とリフト量を変化させ、中・低速域のトルクと高速域の出力を両立させている。こちらもモータースポーツ用エンジンのベースとして用いられ、[全日本ツーリングカー選手権](https://ja.wikipedia.org/wiki/全日本ツーリングカー選手権_\(1994年-1998年\) "wikilink") (JTCC) 、[フォーミュラ4](https://ja.wikipedia.org/wiki/フォーミュラ4 "wikilink")などで使用された。
+[NAエンジンにおいて](../Page/自然吸気.md "wikilink")[リッター](https://ja.wikipedia.org/wiki/リッター "wikilink")あたり100[PS超の高出力化を実現するために](../Page/馬力.md "wikilink")、[可変バルブタイミング・リフト機構である](../Page/可変バルブ機構.md "wikilink")[VTEC](../Page/VTEC.md "wikilink")が装備されている。カムシャフトに“ハイ”と“ロー”の2種類のカム駒を設け、そこに接するロッカーアームを切り替え、吸・排気バルブの開閉タイミング（バルブタイミング）とリフト量を変化させ、中・低速域のトルクと高速域の出力を両立させている。こちらもモータースポーツ用エンジンのベースとして用いられ、[全日本ツーリングカー選手権](../Page/全日本ツーリングカー選手権_\(1994年-1998年\).md "wikilink") (JTCC) 、[フォーミュラ4](../Page/フォーミュラ4.md "wikilink")などで使用された。
 
 ### SOHC
 
   - B20A
 
-3代目[プレリュードに唯一搭載された](../Page/ホンダ・プレリュード.md "wikilink")。型式はDOHC仕様と同一で、他機種が前傾して搭載されているのに対し、プレリュードの低いボンネットフードに納めるために、後傾して搭載（DOHC仕様も同様）されている。[シリンダーヘッド構造はA型と同様であるが](https://ja.wikipedia.org/wiki/ヘッド "wikilink")、シリンダーブロックはDOHC仕様と共通で、CVデュアルキャブレター仕様がラインナップされた。
+3代目[プレリュードに唯一搭載された](../Page/ホンダ・プレリュード.md "wikilink")。型式はDOHC仕様と同一で、他機種が前傾して搭載されているのに対し、プレリュードの低いボンネットフードに納めるために、後傾して搭載（DOHC仕様も同様）されている。[シリンダーヘッド構造はA型と同様であるが](../Page/ヘッド.md "wikilink")、シリンダーブロックはDOHC仕様と共通で、CVデュアルキャブレター仕様がラインナップされた。
 
 ### DOHC (4連スリーブ)
 
   - B20B
 
-[CR-V](../Page/ホンダ・CR-V.md "wikilink")、[ステップワゴン等に搭載された機種](../Page/ホンダ・ステップワゴン.md "wikilink")。4連一体構造の[鋳鉄](https://ja.wikipedia.org/wiki/鋳鉄 "wikilink")スリーブがシリンダーブロックに鋳込まれ、それによってシリンダー間隔を広げずボア径を拡大することが可能になった。ZC型と同程度の大きさながら2.0Lの排気量を実現している。
+[CR-V](../Page/ホンダ・CR-V.md "wikilink")、[ステップワゴン等に搭載された機種](../Page/ホンダ・ステップワゴン.md "wikilink")。4連一体構造の[鋳鉄](../Page/鋳鉄.md "wikilink")スリーブがシリンダーブロックに鋳込まれ、それによってシリンダー間隔を広げずボア径を拡大することが可能になった。ZC型と同程度の大きさながら2.0Lの排気量を実現している。
 
 ## 歴史
 
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月4日](../Page/6月4日.md "wikilink")発表の3代目[アコード](../Page/ホンダ・アコード.md "wikilink")/[アコードエアロデッキ及び](../Page/ホンダ・アコードエアロデッキ.md "wikilink")2代目[ビガーに](https://ja.wikipedia.org/wiki/ホンダ・ビガー "wikilink")、**B20A**と**B18A**（CVデュアルキャブ）が初採用。
-  - [1989年](../Page/1989年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")、[インテグラに](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink")**B16A**を搭載。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月4日](../Page/6月4日.md "wikilink")発表の3代目[アコード](../Page/ホンダ・アコード.md "wikilink")/[アコードエアロデッキ及び](../Page/ホンダ・アコードエアロデッキ.md "wikilink")2代目[ビガーに](../Page/ホンダ・ビガー.md "wikilink")、**B20A**と**B18A**（CVデュアルキャブ）が初採用。
+  - [1989年](../Page/1989年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")、[インテグラに](../Page/ホンダ・インテグラ.md "wikilink")**B16A**を搭載。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月24日](../Page/8月24日.md "wikilink")、[インテグラタイプRにより高出力化を果たした](../Page/ホンダ・インテグラタイプR.md "wikilink")**B18C 96 spec.R**を搭載。
   - 1995年[10月9日](../Page/10月9日.md "wikilink")発表の[CR-Vに](../Page/ホンダ・CR-V.md "wikilink")**B20B**を搭載。
   - [2002年](../Page/2002年.md "wikilink")、[S-MXの生産終了によって同機種の生産も終了](../Page/ホンダ・S-MX.md "wikilink")。
@@ -190,7 +190,7 @@
 
 <!-- end list -->
 
-  - [インテグラ](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink") （DA6/8）
+  - [インテグラ](../Page/ホンダ・インテグラ.md "wikilink") （DA6/8）
   - [シビック](../Page/ホンダ・シビック.md "wikilink") （EF9/EG6/EK4）
   - [シビックフェリオ](../Page/ホンダ・シビックフェリオ.md "wikilink") （EG9/EK4）
   - [CR-X](../Page/ホンダ・CR-X.md "wikilink") （EF8）
@@ -202,7 +202,7 @@
 
 <!-- end list -->
 
-  - [シビックTYPE R](https://ja.wikipedia.org/wiki/ホンダ・シビックタイプR "wikilink") （EK9）
+  - [シビックTYPE R](../Page/ホンダ・シビックタイプR.md "wikilink") （EK9）
 
 <!-- end list -->
 
@@ -218,7 +218,7 @@
 
 <!-- end list -->
 
-  - [アコード](../Page/ホンダ・アコード.md "wikilink")／[アコードエアロデッキ](../Page/ホンダ・アコードエアロデッキ.md "wikilink")／[ビガー](https://ja.wikipedia.org/wiki/ホンダ・ビガー "wikilink") （CA2）
+  - [アコード](../Page/ホンダ・アコード.md "wikilink")／[アコードエアロデッキ](../Page/ホンダ・アコードエアロデッキ.md "wikilink")／[ビガー](../Page/ホンダ・ビガー.md "wikilink") （CA2）
 
 <!-- end list -->
 
@@ -227,7 +227,7 @@
 <!-- end list -->
 
   - [ドマーニ](../Page/ホンダ・ドマーニ.md "wikilink") （MA5）
-  - [インテグラ](https://ja.wikipedia.org/wiki/ホンダ・インテグラ "wikilink") （DB7）
+  - [インテグラ](../Page/ホンダ・インテグラ.md "wikilink") （DB7）
   - [オルティア](../Page/ホンダ・オルティア.md "wikilink") （EL1）
 
 <!-- end list -->
@@ -289,11 +289,11 @@
   - [VTEC](../Page/VTEC.md "wikilink")
   - [ホンダのエンジン型式一覧](https://ja.wikipedia.org/wiki/ホンダのエンジン型式一覧 "wikilink")
   - [ZC型エンジン](../Page/ホンダ・ZC型エンジン.md "wikilink")
-  - [F型エンジン](https://ja.wikipedia.org/wiki/ホンダ・F型エンジン "wikilink")
-  - [K型エンジン](https://ja.wikipedia.org/wiki/ホンダ・K型エンジン "wikilink")
-  - [全日本ツーリングカー選手権](https://ja.wikipedia.org/wiki/全日本ツーリングカー選手権_\(1994年-1998年\) "wikilink")（JTCC）
+  - [F型エンジン](../Page/ホンダ・F型エンジン.md "wikilink")
+  - [K型エンジン](../Page/ホンダ・K型エンジン.md "wikilink")
+  - [全日本ツーリングカー選手権](../Page/全日本ツーリングカー選手権_\(1994年-1998年\).md "wikilink")（JTCC）
   - [Formula 3](https://ja.wikipedia.org/wiki/フォーミュラ3 "wikilink")
-  - [Formula 4](https://ja.wikipedia.org/wiki/フォーミュラ4 "wikilink")
+  - [Formula 4](../Page/フォーミュラ4.md "wikilink")
 
 ## 外部リンク
 

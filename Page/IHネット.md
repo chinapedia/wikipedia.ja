@@ -1,7 +1,7 @@
 > この記事は[IH](https://ja.wikipedia.org/wiki/IH)から翻訳されています。
 
 
-**IHネット**（あいえいちねっと）は[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")の間に実施された、[岩手銀行](../Page/岩手銀行.md "wikilink")・[八戸信用金庫](../Page/八戸信用金庫.md "wikilink")（現：[青い森信用金庫](https://ja.wikipedia.org/wiki/青い森信用金庫 "wikilink")）相互間の[ATM・CD利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。
+**IHネット**（あいえいちねっと）は[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")の間に実施された、[岩手銀行](../Page/岩手銀行.md "wikilink")・[八戸信用金庫](../Page/八戸信用金庫.md "wikilink")（現：[青い森信用金庫](https://ja.wikipedia.org/wiki/青い森信用金庫 "wikilink")）相互間の[ATM・CD利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。
 
 提携先の一つである八戸信用金庫が、合併に対するATMネットワークの再構築のため、2009年11月9日付けで提携を解消した。このため以下の内容は、サービス終了前時点のものとなっている。
 
@@ -26,7 +26,7 @@
   - 平日08:00-08:45・18:00-21:00の出金、土曜日・日曜日・祝日09:00-17:00の出金：105円
 
 なお、キャッシュカード振込の場合は、他に各行所定の振込手数料が別途かかる。
-<small>（カード振込については両行庫のキャッシュカードを両行庫のATMで相互に利用できるが、岩手銀行のATMの一部については「いわぎんのATMにおけるカード振込の取り扱いは同行と[ACS加盟](https://ja.wikipedia.org/wiki/全国カードサービス "wikilink")64行のキャッシュカードのみ利用可（八戸信金を含む他業態キャッシュカードでは振込利用不可）」の旨の掲示が、未だに存在するところがある）</small>
+<small>（カード振込については両行庫のキャッシュカードを両行庫のATMで相互に利用できるが、岩手銀行のATMの一部については「いわぎんのATMにおけるカード振込の取り扱いは同行と[ACS加盟](../Page/全国カードサービス.md "wikilink")64行のキャッシュカードのみ利用可（八戸信金を含む他業態キャッシュカードでは振込利用不可）」の旨の掲示が、未だに存在するところがある）</small>
 
 ### 対象ATM
 
@@ -50,15 +50,15 @@
 
 ## 沿革
 
-  - [2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")[11月1日](../Page/11月1日.md "wikilink") - サービス開始
+  - [2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - サービス開始
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月19日](../Page/5月19日.md "wikilink") - 八戸信用金庫が[十和田信用金庫](../Page/十和田信用金庫.md "wikilink")との合併により、八戸信金における本サービス対象地域を[十和田市](https://ja.wikipedia.org/wiki/十和田市 "wikilink")・[三沢市](../Page/三沢市.md "wikilink")及び[上北郡](../Page/上北郡.md "wikilink")の各地域のATM（合計22カ所、旧十和田信金管理分）にも拡大。
-  - [2009年](../Page/2009年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - 八戸信金が[あおもり](../Page/あおもり信用金庫.md "wikilink")・[下北の](https://ja.wikipedia.org/wiki/下北信用金庫 "wikilink")2信金が合併して『[青い森信用金庫](https://ja.wikipedia.org/wiki/青い森信用金庫 "wikilink")』の発足に伴うATMネットワークの再構築のため、双方との本サービスにおける提携を解消（以降、他行庫扱い化）。
+  - [2009年](../Page/2009年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - 八戸信金が[あおもり](../Page/あおもり信用金庫.md "wikilink")・[下北の](../Page/下北信用金庫.md "wikilink")2信金が合併して『[青い森信用金庫](https://ja.wikipedia.org/wiki/青い森信用金庫 "wikilink")』の発足に伴うATMネットワークの再構築のため、双方との本サービスにおける提携を解消（以降、他行庫扱い化）。
 
 ## サービス終了へ
 
 本提携先の一つである八戸信用金庫が[2009年](../Page/2009年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")に、あおもり・下北の2信金と合併して『青い森信用金庫』が発足されることが決定している。本サービスの開始以降、八戸信金がそれぞれの信金との合併を行うこととなり、以前からATM無料提携を行っている[青森銀行](../Page/青森銀行.md "wikilink")の「[あすなろNET](../Page/あすなろNET.md "wikilink")」および「[AAIネット](https://ja.wikipedia.org/wiki/AAIネット "wikilink")」との地域的重複が多くなることを理由に、2009年[10月23日](../Page/10月23日.md "wikilink")に双方が本サービスによる業務提携を2009年11月9日付けをもって打ち切ることが発表された。\[1\]\[2\]
 
-これに伴い、3年ぶりに双方との出金手数料が他行庫（[MICS](../Page/MICS.md "wikilink")）扱いに、また八戸信用金庫の口座所有者に対して岩手県内にて無料で出金できる拠点が各信用金庫ATM<small>（及び[青森銀行](../Page/青森銀行.md "wikilink")盛岡支店や[東北労働金庫](https://ja.wikipedia.org/wiki/東北労働金庫 "wikilink")盛岡支店、[東京スター銀行](../Page/東京スター銀行.md "wikilink")など）</small>のみに、それぞれ戻されることになる。
+これに伴い、3年ぶりに双方との出金手数料が他行庫（[MICS](../Page/MICS.md "wikilink")）扱いに、また八戸信用金庫の口座所有者に対して岩手県内にて無料で出金できる拠点が各信用金庫ATM<small>（及び[青森銀行](../Page/青森銀行.md "wikilink")盛岡支店や[東北労働金庫](../Page/東北労働金庫.md "wikilink")盛岡支店、[東京スター銀行](../Page/東京スター銀行.md "wikilink")など）</small>のみに、それぞれ戻されることになる。
 
 ## 脚注
 

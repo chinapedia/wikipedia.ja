@@ -3,7 +3,7 @@
 
 **ats-**（エーティーエス、[5月7日](../Page/5月7日.md "wikilink")生まれ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽クリエーター、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")、[リミキサー](https://ja.wikipedia.org/wiki/リミキサー "wikilink")。
 
-[新潟県](../Page/新潟県.md "wikilink")[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")出身。音楽グループ[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")のメンバーとして活動していた。[現在はエイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink") [tearbridge production所属](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。Dark Heavy Unrealistic系サウンドを得意とする。楽曲のジャンルはロック、メタル、EDM、R\&B、バラード、ポップスと多彩。インスト楽曲や劇伴作品も数多い。
+[新潟県](../Page/新潟県.md "wikilink")[長岡市](https://ja.wikipedia.org/wiki/長岡市 "wikilink")出身。音楽グループ[HΛL](../Page/HΛL.md "wikilink")のメンバーとして活動していた。[現在はエイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink") [tearbridge production所属](https://ja.wikipedia.org/wiki/tearbridge_production "wikilink")。Dark Heavy Unrealistic系サウンドを得意とする。楽曲のジャンルはロック、メタル、EDM、R\&B、バラード、ポップスと多彩。インスト楽曲や劇伴作品も数多い。
 
 ## 概略
 
@@ -12,14 +12,14 @@
   - [1991年](../Page/1991年.md "wikilink") ハードロックバンド「Darlin's Darlin」のボーカリストとしてデビュー。
   - [1993年](../Page/1993年.md "wikilink") ソロデビュー。
   - [1994年](../Page/1994年.md "wikilink") ロックバンド「STAGGER」のキーボードとして活動。
-  - 作家活動をしながら1996年[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")に参加し、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")氏などの楽曲制作に携わる。
+  - 作家活動をしながら1996年[HΛL](../Page/HΛL.md "wikilink")に参加し、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")氏などの楽曲制作に携わる。
   - [2002年](../Page/2002年.md "wikilink")にHΛL脱退。以降、**ats-**名義で数多くのアーティストに楽曲を提供。
   - 2002年 『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』編曲賞受賞 [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」
   - 2006年 『[第48回日本レコード大賞](https://ja.wikipedia.org/wiki/第48回日本レコード大賞 "wikilink")』金賞受賞 [BoA](../Page/BoA.md "wikilink")の「Winter Love」
-  - 2011年 『[第53回日本レコード大賞](https://ja.wikipedia.org/wiki/第53回日本レコード大賞 "wikilink")』優秀作品賞受賞 [AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")「[CALL](https://ja.wikipedia.org/wiki/CALL/I4U "wikilink")」
-  - 2015年 『[第57回日本レコード大賞](https://ja.wikipedia.org/wiki/第57回日本レコード大賞 "wikilink")』優秀作品賞受賞[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")「[愛してるのに、愛せない](https://ja.wikipedia.org/wiki/愛してるのに、愛せない "wikilink")」
-  - 2016年 『[第58回日本レコード大賞](https://ja.wikipedia.org/wiki/第58回日本レコード大賞 "wikilink")』優秀作品賞受賞[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")「[涙のない世界](https://ja.wikipedia.org/wiki/涙のない世界 "wikilink")」
-  - 2017年 『[第59回日本レコード大賞](https://ja.wikipedia.org/wiki/第59回日本レコード大賞 "wikilink")』優秀作品賞受賞[AAAの](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")「[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(AAAの曲\) "wikilink")」
+  - 2011年 『[第53回日本レコード大賞](https://ja.wikipedia.org/wiki/第53回日本レコード大賞 "wikilink")』優秀作品賞受賞 [AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[CALL](https://ja.wikipedia.org/wiki/CALL/I4U "wikilink")」
+  - 2015年 『[第57回日本レコード大賞](https://ja.wikipedia.org/wiki/第57回日本レコード大賞 "wikilink")』優秀作品賞受賞[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[愛してるのに、愛せない](https://ja.wikipedia.org/wiki/愛してるのに、愛せない "wikilink")」
+  - 2016年 『[第58回日本レコード大賞](https://ja.wikipedia.org/wiki/第58回日本レコード大賞 "wikilink")』優秀作品賞受賞[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[涙のない世界](https://ja.wikipedia.org/wiki/涙のない世界 "wikilink")」
+  - 2017年 『[第59回日本レコード大賞](https://ja.wikipedia.org/wiki/第59回日本レコード大賞 "wikilink")』優秀作品賞受賞[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(AAAの曲\) "wikilink")」
 
 <!-- end list -->
 
@@ -64,15 +64,15 @@
     8.  Now And Forever（作詞・作曲・編曲）
     9.  YELLOW PEPPER（作詞・編曲）
     10. LAST THANKS（作詞・編曲）
-  - [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
+  - [HΛL](../Page/HΛL.md "wikilink")
       - Single
-          - [DECIDE](https://ja.wikipedia.org/wiki/DECIDE_\(HΛLの曲\) "wikilink")（作曲・編曲）TX系「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」エンディングテーマ C／W 「[CDTV](https://ja.wikipedia.org/wiki/COUNT_DOWN_TV "wikilink")」エンディングテーマ
+          - [DECIDE](https://ja.wikipedia.org/wiki/DECIDE_\(HΛLの曲\) "wikilink")（作曲・編曲）TX系「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」エンディングテーマ C／W 「[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")」エンディングテーマ
           - [Save Me](https://ja.wikipedia.org/wiki/Save_Me_\(HΛLの曲\) "wikilink")（編曲）TX系「[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")」エンディングテーマ CTV・NTV系「[ろみひー](../Page/ろみひー.md "wikilink")」エンディングテーマ
-          - [SPLIT UP](https://ja.wikipedia.org/wiki/SPLIT_UP "wikilink")（作曲・編曲）カネボウ「[REVUE](https://ja.wikipedia.org/wiki/カネボウ化粧品 "wikilink")」CMソング TBS系『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』テーマソング
-          - [☆the starry sky☆](https://ja.wikipedia.org/wiki/☆the_starry_sky☆ "wikilink")（作曲・編曲）TX系アニメ『[機動天使エンジェリックレイヤー](https://ja.wikipedia.org/wiki/ANGELIC_LAYER "wikilink")』エンディングテーマ
+          - [SPLIT UP](https://ja.wikipedia.org/wiki/SPLIT_UP "wikilink")（作曲・編曲）カネボウ「[REVUE](../Page/カネボウ化粧品.md "wikilink")」CMソング TBS系『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』テーマソング
+          - [☆the starry sky☆](https://ja.wikipedia.org/wiki/☆the_starry_sky☆ "wikilink")（作曲・編曲）TX系アニメ『[機動天使エンジェリックレイヤー](../Page/ANGELIC_LAYER.md "wikilink")』エンディングテーマ
           - [al di la](https://ja.wikipedia.org/wiki/al_di_la "wikilink")（作曲・編曲）ナムコ PlayStation 2用ゲームソフト「熱チュー\!プロ野球2002」テーマソング
           - [I'll be the one](https://ja.wikipedia.org/wiki/I'll_be_the_one "wikilink")（作曲・編曲）TX系アニメ『[ヒカルの碁](https://ja.wikipedia.org/wiki/ヒカルの碁_\(アニメ\) "wikilink")』オープニングテーマ
-          - [ONE LOVE/A LONG JOURNEY](https://ja.wikipedia.org/wiki/ONE_LOVE/A_LONG_JOURNEY "wikilink")（作曲・編曲）TX系『[ハマラジャ](https://ja.wikipedia.org/wiki/ハマラジャ "wikilink")』エンディングテーマ C／W『[内村プロデュース](https://ja.wikipedia.org/wiki/内村プロデュース "wikilink")』エンディング・テーマ
+          - [ONE LOVE/A LONG JOURNEY](https://ja.wikipedia.org/wiki/ONE_LOVE/A_LONG_JOURNEY "wikilink")（作曲・編曲）TX系『[ハマラジャ](../Page/ハマラジャ.md "wikilink")』エンディングテーマ C／W『[内村プロデュース](../Page/内村プロデュース.md "wikilink")』エンディング・テーマ
       - Album
           - [Violation of the rules](../Page/Violation_of_the_rules.md "wikilink")
         <!-- end list -->
@@ -110,42 +110,42 @@
 
 ## 主な提供楽曲
 
-【[HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")時代の主な提供楽曲】
+【[HΛL](../Page/HΛL.md "wikilink")時代の主な提供楽曲】
 
   - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
-      - [appears](https://ja.wikipedia.org/wiki/appears "wikilink")（編曲）「ソフィーナ・オーブ」クリスマス[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-      - [Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")（編曲）「[ライコス](../Page/ライコス.md "wikilink")」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-      - [Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")（編曲）「[ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-      - [SURREAL](../Page/SURREAL.md "wikilink")（編曲）「フジビューティ（[たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニック）」「恋する白肌」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+      - [appears](https://ja.wikipedia.org/wiki/appears "wikilink")（編曲）「ソフィーナ・オーブ」クリスマス[CMソング](../Page/コマーシャルソング.md "wikilink")
+      - [Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")（編曲）「[ライコス](../Page/ライコス.md "wikilink")」[CMソング](../Page/コマーシャルソング.md "wikilink")
+      - [Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")（編曲）「[ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海」[CMソング](../Page/コマーシャルソング.md "wikilink")
+      - [SURREAL](../Page/SURREAL.md "wikilink")（編曲）「フジビューティ（[たかの友梨](../Page/たかの友梨.md "wikilink")ビューティクリニック）」「恋する白肌」[CMソング](../Page/コマーシャルソング.md "wikilink")
       - [AUDIENCE](../Page/AUDIENCE.md "wikilink")（編曲）
-      - [M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")（編曲）「[ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
-      - [evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")（編曲）「 [コーセー](../Page/コーセー.md "wikilink")「ヴィセ」」[コマーシャルソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")/[アスミック・エース エンタテインメント配給映画](https://ja.wikipedia.org/wiki/アスミック・エース_エンタテインメント "wikilink")『[ヘルタースケルター](https://ja.wikipedia.org/wiki/ヘルタースケルター_\(漫画\)#映画版 "wikilink")』テーマソング
+      - [M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")（編曲）「[ツーカー](../Page/ツーカー.md "wikilink")セルラー東京・東海」[CMソング](../Page/コマーシャルソング.md "wikilink")
+      - [evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")（編曲）「 [コーセー](../Page/コーセー.md "wikilink")「ヴィセ」」[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")/[アスミック・エース エンタテインメント配給映画](https://ja.wikipedia.org/wiki/アスミック・エース_エンタテインメント "wikilink")『[ヘルタースケルター](https://ja.wikipedia.org/wiki/ヘルタースケルター_\(漫画\)#映画版 "wikilink")』テーマソング
       - [UNITE\!](../Page/UNITE!.md "wikilink")（編曲）「[キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「サプリ」」CMソング
-      - [Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")（編曲）[Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") F1」[CMソング](https://ja.wikipedia.org/wiki/コマーシャルソング "wikilink")
+      - [Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")（編曲）[Panasonic](https://ja.wikipedia.org/wiki/Panasonic "wikilink") [デジタルカメラ](../Page/デジタルカメラ.md "wikilink")「[LUMIX](../Page/LUMIX.md "wikilink") F1」[CMソング](../Page/コマーシャルソング.md "wikilink")
       - [Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")（編曲） 『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』編曲賞受賞 [Panasonic](https://ja.wikipedia.org/wiki/パナソニック "wikilink") MDステレオシステム「PM57MD」CMソング
       - Over（編曲）
   - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")
       - [Grip\!](../Page/Grip!.md "wikilink")（編曲）アニメ『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』オープニングテーマ
   - [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")
       - [Mysterious](../Page/Mysterious_\(Janne_Da_Arcの曲\).md "wikilink")（編曲）[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[アニメ](../Page/アニメ.md "wikilink")『[Sci-Fi HARRY](../Page/Sci-Fi_HARRY.md "wikilink")』オープニングテーマ。
-  - [少年隊](https://ja.wikipedia.org/wiki/少年隊 "wikilink")
+  - [少年隊](../Page/少年隊.md "wikilink")
       - BE COOL（作曲・編曲）
       - back to BACK（編曲）
 
 【ats-・佐藤あつし名義の提供楽曲】
 
   - [SweetS](https://ja.wikipedia.org/wiki/SweetS "wikilink")
-      - [LolitA☆Strawberry in summer](https://ja.wikipedia.org/wiki/LolitA☆Strawberry_in_summer "wikilink")（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[アソボット戦記五九](https://ja.wikipedia.org/wiki/アソボット戦記五九 "wikilink")』エンディングテーマ。テレビ東京系『[プラチナチケット](https://ja.wikipedia.org/wiki/プラチナチケット "wikilink")』エンディングテーマ
-      - Love★Raspberry Juice（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[アソボット戦記五九](https://ja.wikipedia.org/wiki/アソボット戦記五九 "wikilink")』エンディングテーマ/テレビ東京系『[プラチナチケット](https://ja.wikipedia.org/wiki/プラチナチケット "wikilink")』エンディングテーマ
+      - [LolitA☆Strawberry in summer](https://ja.wikipedia.org/wiki/LolitA☆Strawberry_in_summer "wikilink")（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[アソボット戦記五九](../Page/アソボット戦記五九.md "wikilink")』エンディングテーマ。テレビ東京系『[プラチナチケット](../Page/プラチナチケット.md "wikilink")』エンディングテーマ
+      - Love★Raspberry Juice（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[アソボット戦記五九](../Page/アソボット戦記五九.md "wikilink")』エンディングテーマ/テレビ東京系『[プラチナチケット](../Page/プラチナチケット.md "wikilink")』エンディングテーマ
       - into the daylight-ヒカリ射す方へ-（編曲）
       - Tear"Lemon"Drop（編曲）
       - Lonesome Cherry（編曲）
       - 虹色の永遠（作曲・編曲）
       - into the daylight -ヒカリ射す方へ-（編曲）
-      - oursong 〜別れの詩〜（編曲） 日本テレビ系『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』2005年2月度オープニングテーマ
+      - oursong 〜別れの詩〜（編曲） 日本テレビ系『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』2005年2月度オープニングテーマ
       - snow crystals（編曲）
       - 未来へ（編曲）
-      - ミエナイツバサ（作曲・編曲） テレビ東京系『[ぶちぬき](https://ja.wikipedia.org/wiki/ぶちぬき "wikilink")』2005年5月度エンディングテーマ
+      - ミエナイツバサ（作曲・編曲） テレビ東京系『[ぶちぬき](../Page/ぶちぬき.md "wikilink")』2005年5月度エンディングテーマ
       - Sentimental journey（作曲・編曲）
       - Grow into shinin' stars（編曲）
   - [dream](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")
@@ -158,20 +158,20 @@
       - M（編曲）
       - Colors -suspicion-（編曲）
       - それは永遠じゃない -collapse-（編曲）
-  - [嘉陽愛子](https://ja.wikipedia.org/wiki/嘉陽愛子 "wikilink")
+  - [嘉陽愛子](../Page/嘉陽愛子.md "wikilink")
       - 瞳の中の迷宮（編曲） アニメ 『[ヤミと帽子と本の旅人](../Page/ヤミと帽子と本の旅人.md "wikilink")』オープニング主題歌
       - solitude（編曲）
       - Eyes（編曲）
       - いえないコトバ（編曲） [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[サムライガン](https://ja.wikipedia.org/wiki/サムライガン#テレビアニメ "wikilink")』エンディングテーマ
       - ring\!Ring\!\!RING\!\!\!（編曲） [サンリオ](../Page/サンリオ.md "wikilink")「夢がキラめくクリスマス」イメージソング
-      - traveller（編曲） [日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](https://ja.wikipedia.org/wiki/音楽戦士_MUSIC_FIGHTER "wikilink")』エンディングテーマ
+      - traveller（編曲） [日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")『[音楽戦士 MUSIC FIGHTER](../Page/音楽戦士_MUSIC_FIGHTER.md "wikilink")』エンディングテーマ
       - Callin' 〜ぼくを呼ぶ声〜（編曲） 映画『[コアラ課長](https://ja.wikipedia.org/wiki/コアラ課長 "wikilink")』エンディングテーマ
       - 勇気のチカラ（編曲） [カプコン](../Page/カプコン.md "wikilink")社[PlayStation 2専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[史上最強の弟子ケンイチ 激闘\!ラグナレク八拳豪](https://ja.wikipedia.org/wiki/史上最強の弟子ケンイチ#ゲーム "wikilink")』オープニングテーマ
   - [Ruppina](https://ja.wikipedia.org/wiki/Ruppina "wikilink")
-      - [Thousand Lights](https://ja.wikipedia.org/wiki/FAITH/Thousand_Lights "wikilink")（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[プラチナチケット](https://ja.wikipedia.org/wiki/プラチナチケット "wikilink")』内コーナー「ラヴ・ダウト」テーマソング
-      - [i](https://ja.wikipedia.org/wiki/Ruppina_II "wikilink")（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[プラチナチケット](https://ja.wikipedia.org/wiki/プラチナチケット "wikilink")』内コーナー「ラヴ・ダウト」テーマソング
+      - [Thousand Lights](https://ja.wikipedia.org/wiki/FAITH/Thousand_Lights "wikilink")（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[プラチナチケット](../Page/プラチナチケット.md "wikilink")』内コーナー「ラヴ・ダウト」テーマソング
+      - [i](https://ja.wikipedia.org/wiki/Ruppina_II "wikilink")（編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系『[プラチナチケット](../Page/プラチナチケット.md "wikilink")』内コーナー「ラヴ・ダウト」テーマソング
       - [Little Flower](https://ja.wikipedia.org/wiki/Ruppina_II "wikilink")（編曲）
-      - [in the name of love](https://ja.wikipedia.org/wiki/in_the_name_of_love_\(Ruppina+の曲\) "wikilink")（編曲） [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[@サプリッ\!](https://ja.wikipedia.org/wiki/@サプリッ! "wikilink")』エンディングテーマ
+      - [in the name of love](https://ja.wikipedia.org/wiki/in_the_name_of_love_\(Ruppina+の曲\) "wikilink")（編曲） [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系『[@サプリッ\!](../Page/@サプリッ!.md "wikilink")』エンディングテーマ
       - [Nobody replies](https://ja.wikipedia.org/wiki/in_the_name_of_love_\(Ruppina+のアルバム\) "wikilink")（作曲・編曲） [NTT docomo東北](https://ja.wikipedia.org/wiki/NTT_docomo "wikilink")「FOMAのテレビ電話」CMソング
       - [The reason to be](https://ja.wikipedia.org/wiki/in_the_name_of_love_\(Ruppina+のアルバム\) "wikilink")（作曲・編曲）
       - [Why?](https://ja.wikipedia.org/wiki/in_the_name_of_love_\(Ruppina+のアルバム\) "wikilink")（編曲）
@@ -182,13 +182,13 @@
       - あなたのいない雨（編曲） 呪霊 劇場版 「〜黒呪霊〜」 主題歌
   - [玉置成実](../Page/玉置成実.md "wikilink")
       - Eternal Voice（編曲）
-      - [Reason](../Page/Reason_\(玉置成実の曲\).md "wikilink")（編曲） アニメ『[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY "wikilink")』エンディングテーマ
+      - [Reason](../Page/Reason_\(玉置成実の曲\).md "wikilink")（編曲） アニメ『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』エンディングテーマ
       - Sanctuary（作詞・作曲・編曲） [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[牙 -KIBA-](../Page/牙_\(アニメ\).md "wikilink")」前期オープニングテーマ。
   - [sifow](https://ja.wikipedia.org/wiki/sifow "wikilink")
       - & YOU REVOLUTION（編曲）
       - CLARITY（編曲）
       - キミと空（編曲）
-  - [下川みくに](https://ja.wikipedia.org/wiki/下川みくに "wikilink")
+  - [下川みくに](../Page/下川みくに.md "wikilink")
       - 輪舞-revolution（編曲）
       - GooD LucK（編曲）
       - タッチ（編曲）
@@ -197,14 +197,14 @@
       - ラヂオのじかん（編曲）
   - [GICODE](../Page/GICODE.md "wikilink")
       - ONE（編曲）
-      - G:I:C:O:D:E（編曲） 東映配給映画「[偶然にも最悪な少年](https://ja.wikipedia.org/wiki/偶然にも最悪な少年 "wikilink")」主題歌
-  - [鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師 "wikilink")
-      - RETURNABLE MEMORIES（作曲・編曲） [エドワード・エルリック](https://ja.wikipedia.org/wiki/エドワード・エルリック "wikilink")[鋼の錬金術師](https://ja.wikipedia.org/wiki/鋼の錬金術師 "wikilink")（[朴璐美](../Page/朴ロ美.md "wikilink")） キャラクターソング
+      - G:I:C:O:D:E（編曲） 東映配給映画「[偶然にも最悪な少年](../Page/偶然にも最悪な少年.md "wikilink")」主題歌
+  - [鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")
+      - RETURNABLE MEMORIES（作曲・編曲） [エドワード・エルリック](../Page/エドワード・エルリック.md "wikilink")[鋼の錬金術師](../Page/鋼の錬金術師.md "wikilink")（[朴璐美](../Page/朴ロ美.md "wikilink")） キャラクターソング
   - [mink](https://ja.wikipedia.org/wiki/mink "wikilink")
       - おまじない（編曲）
   - [REIRA starring YUNA ITO](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
       - ENDLESS STORY（訳詞） [映画](../Page/映画.md "wikilink")「[NANA-ナナ-](https://ja.wikipedia.org/wiki/NANA#NANA "wikilink")」の劇中歌
-  - [福田沙紀](https://ja.wikipedia.org/wiki/福田沙紀 "wikilink")
+  - [福田沙紀](../Page/福田沙紀.md "wikilink")
       - 刹那バイバイ（編曲）
   - [20th Century](../Page/V6_\(グループ\).md "wikilink")
       - [BLAZING AGE](https://ja.wikipedia.org/wiki/musicmind#収録曲 "wikilink")（編曲）
@@ -213,7 +213,7 @@
       - DVD V6 LIVE TOUR2008 VIBES NEXPLOSION（編曲）
       - [Orange "musicmind ver"](https://ja.wikipedia.org/wiki/musicmind#特典 "wikilink")（編曲）
       - Bouquet（編曲）
-  - [長野博](https://ja.wikipedia.org/wiki/長野博 "wikilink")&[岡田准一](https://ja.wikipedia.org/wiki/岡田准一 "wikilink")
+  - [長野博](../Page/長野博.md "wikilink")&[岡田准一](../Page/岡田准一.md "wikilink")
       - [旅立ちの翼-Rock Ver.-](https://ja.wikipedia.org/wiki/グッデイ!!#収録曲 "wikilink")（編曲）
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")
       - Sweet Kiss（編曲） [ロッテ](../Page/ロッテ.md "wikilink")「ピュアホワイトガム」CMソング
@@ -239,14 +239,14 @@
   - [misono](https://ja.wikipedia.org/wiki/misono "wikilink")
       - Tales...（編曲）
       - 二人三脚 ver.2013（編曲）
-  - [AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")
+  - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")
       - [Overdrive](https://ja.wikipedia.org/wiki/HEARTFUL "wikilink")（編曲）
       - [Summer Revolution](https://ja.wikipedia.org/wiki/HEARTFUL "wikilink")（編曲）[プロミス](https://ja.wikipedia.org/wiki/プロミス "wikilink")グループCMソング TOKYO MX ／2009年 [高校野球](https://ja.wikipedia.org/wiki/高校野球 "wikilink")東・西東京都大会テーマ曲
       - [Heart and Soul](https://ja.wikipedia.org/wiki/HEARTFUL "wikilink")（編曲） TBS「[にうすざんす](https://ja.wikipedia.org/wiki/にうすざんす "wikilink")」テーマソング
       - [Hide-away](https://ja.wikipedia.org/wiki/Hide-away "wikilink")（編曲）
       - [With you](https://ja.wikipedia.org/wiki/Hide-away "wikilink")（編曲） [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビアニメ](../Page/日本テレビ放送網.md "wikilink")『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink") 完結編』エンディングテーマ
       - [負けない心](https://ja.wikipedia.org/wiki/負けない心 "wikilink")（編曲） [テレビ朝日](../Page/テレビ朝日.md "wikilink")系列『[崖っぷちのエリー〜この世でいちばん大事な「カネ」の話〜](https://ja.wikipedia.org/wiki/この世でいちばん大事な「カネ」の話#テレビドラマ "wikilink")』主題歌、[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")[宮田和希](https://ja.wikipedia.org/wiki/宮田和希 "wikilink")選手登場曲
-      - [WOW WAR TONIGHT 〜時には起こせよムーヴメント](https://ja.wikipedia.org/wiki/負けない心 "wikilink")（編曲） [阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")[今成亮太](../Page/今成亮太.md "wikilink")選手登場曲
+      - [WOW WAR TONIGHT 〜時には起こせよムーヴメント](https://ja.wikipedia.org/wiki/負けない心 "wikilink")（編曲） [阪神タイガース](../Page/阪神タイガース.md "wikilink")[今成亮太](../Page/今成亮太.md "wikilink")選手登場曲
       - 涙のキズナ（編曲）
       - [DEPARTURES](https://ja.wikipedia.org/wiki/PARADISE/Endless_Fighters "wikilink")（編曲）
       - [サヨナラの行方](https://ja.wikipedia.org/wiki/ダイジナコト "wikilink")（編曲）
@@ -259,8 +259,8 @@
       - One Night Animal（編曲）
       - ウィーアー！（編曲）アニメ『[ONE PIECE エピソードオブナミ 〜航海士の涙と仲間の絆〜](https://ja.wikipedia.org/wiki/ONE_PIECE_エピソードオブナミ_〜航海士の涙と仲間の絆〜 "wikilink")』の主題歌
       - チューインガム（編曲）
-      - [虹](https://ja.wikipedia.org/wiki/虹 "wikilink")（編曲） [KONAMIオンラインゲーム](https://ja.wikipedia.org/wiki/コナミ "wikilink")「プロ野球ドリームナイン」テーマソング
-      - [good day](https://ja.wikipedia.org/wiki/虹 "wikilink")（編曲）[イトーヨーカドー](https://ja.wikipedia.org/wiki/イトーヨーカドー "wikilink")「goodday秋冬2012」TVCMソング
+      - [虹](../Page/虹.md "wikilink")（編曲） [KONAMIオンラインゲーム](https://ja.wikipedia.org/wiki/コナミ "wikilink")「プロ野球ドリームナイン」テーマソング
+      - [good day](../Page/虹.md "wikilink")（編曲）[イトーヨーカドー](https://ja.wikipedia.org/wiki/イトーヨーカドー "wikilink")「goodday秋冬2012」TVCMソング
       - HORIZON（編曲）
       - [MASK](https://ja.wikipedia.org/wiki/恋音と雨空 "wikilink")（編曲）映画『[タイガーマスク](../Page/タイガーマスク.md "wikilink")』主題歌
       - [LOVE](https://ja.wikipedia.org/wiki/Love_\(AAAの曲\) "wikilink")（編曲）日本赤十字社社平成26年はたちの献血キャンペーンソング
@@ -270,7 +270,7 @@
       - [Intro -GOLD SYMPHONY-](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")（補作曲、編曲）
       - [I'll be there](https://ja.wikipedia.org/wiki/I'll_be_there_\(AAAの曲\) "wikilink")（編曲）
       - [アシタノヒカリ](https://ja.wikipedia.org/wiki/アシタノヒカリ "wikilink")（編曲） [テレビ朝日](../Page/テレビ朝日.md "wikilink")[系](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[アニメ](../Page/アニメ.md "wikilink")『[ワールドトリガー](https://ja.wikipedia.org/wiki/ワールドトリガー "wikilink")』オープニングテーマ
-      - [LOVER](https://ja.wikipedia.org/wiki/LOVER "wikilink")（編曲） [イトーヨーカドー](https://ja.wikipedia.org/wiki/セブン&アイ・ホールディングス "wikilink")『飲料サマーキャンペーン』CMソング
+      - [LOVER](https://ja.wikipedia.org/wiki/LOVER "wikilink")（編曲） [イトーヨーカドー](../Page/セブン&アイ・ホールディングス.md "wikilink")『飲料サマーキャンペーン』CMソング
       - AAA ARENA TOUR 2015 10th Anniversary -Attack All Around-オープニングSE
       - a-nation 2015オープニングSE
       - [愛してるのに、愛せない](https://ja.wikipedia.org/wiki/愛してるのに、愛せない "wikilink")（編曲）テレビ朝日系『[オープンハウス](https://ja.wikipedia.org/wiki/オープンハウス "wikilink")』プロマーシャルソング
@@ -287,12 +287,12 @@
       - \-interlude-（作曲・編曲）(「[COLOR A LIFE](https://ja.wikipedia.org/wiki/COLOR_A_LIFE "wikilink")」収録)
       - [Kiss The Sky](https://ja.wikipedia.org/wiki/COLOR_A_LIFE "wikilink")（作曲・編曲）AbemaTV×[メ〜テレ](https://ja.wikipedia.org/wiki/メ〜テレ "wikilink")共同制作ドラマ『[星屑リベンジャーズ](https://ja.wikipedia.org/wiki/星屑リベンジャーズ "wikilink")』主題歌
       - Gotta Love Me（編曲）(「[COLOR A LIFE](https://ja.wikipedia.org/wiki/COLOR_A_LIFE "wikilink")」収録)
-  - [宇野実彩子](../Page/宇野実彩子.md "wikilink")（[AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")）、[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")（[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")）デュエット
+  - [宇野実彩子](../Page/宇野実彩子.md "wikilink")（[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")）、[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")（[アンジャッシュ](../Page/アンジャッシュ.md "wikilink")）デュエット
       - なろうよ（編曲）
   - [URATA NAOYA](../Page/浦田直也.md "wikilink")
       - [unlock -Introduction](https://ja.wikipedia.org/wiki/unlock_-Introduction "wikilink")（作曲・編曲）
       - 愛（作曲・編曲） 「[アイフルホーム](../Page/LIXIL住宅研究所.md "wikilink")」CM曲
-  - [梨花](https://ja.wikipedia.org/wiki/梨花 "wikilink")
+  - [梨花](../Page/梨花.md "wikilink")
       - MARIA（編曲） [映画](../Page/映画.md "wikilink")『[カンナさん大成功です\!](../Page/カンナさん大成功です!.md "wikilink")』日本版主題歌 [TBS](../Page/TBSテレビ.md "wikilink")『エンタメキャッチプラス』エンディングテーマ
       - smile（編曲） カンロ「ピュレグミ」CMソング
   - [白石涼子](https://ja.wikipedia.org/wiki/白石涼子 "wikilink")
@@ -304,11 +304,11 @@
   - [AZU](../Page/AZU.md "wikilink")
       - INTRO（編曲）
       - RAINBOW（編曲）
-  - [杏子](https://ja.wikipedia.org/wiki/杏子_\(ミュージシャン\) "wikilink")
+  - [杏子](../Page/杏子_\(ミュージシャン\).md "wikilink")
       - Galileo a Go Go（作曲）
       - HATAMEIWAKU（作曲）
   - [Letit go](https://ja.wikipedia.org/wiki/Letit_go "wikilink")
-      - 200倍の夢（作詞・作曲）[大塚製薬](../Page/大塚製薬.md "wikilink")「[ポカリスエット](https://ja.wikipedia.org/wiki/ポカリスエット "wikilink")」のCMソング
+      - 200倍の夢（作詞・作曲）[大塚製薬](../Page/大塚製薬.md "wikilink")「[ポカリスエット](../Page/ポカリスエット.md "wikilink")」のCMソング
       - 眩しい夏が来る前に（作曲・編曲）
       - All this time（作曲・編曲）
       - Only love
@@ -324,7 +324,7 @@
       - FREE BIRD（編曲）
       - innocence（編曲）
       - [LOVE BRACE](../Page/LOVE_BRACE.md "wikilink")（編曲）
-  - [アイドリング\!\!\!](https://ja.wikipedia.org/wiki/アイドリング!!! "wikilink")
+  - [アイドリング\!\!\!](../Page/アイドリング!!!.md "wikilink")
       - [3度目の記念日](https://ja.wikipedia.org/wiki/SUNRISE_\(アイドリング!!!のアルバム\) "wikilink")（編曲）
       - [粉雪が舞う街並みで](https://ja.wikipedia.org/wiki/やらかいはぁと "wikilink")（編曲）
   - [SUPER☆GiRLS](https://ja.wikipedia.org/wiki/SUPER☆GiRLS "wikilink")
@@ -340,7 +340,7 @@
       - 恋の予感（編曲）
       - kotodama（編曲）
   - [北乃きい](https://ja.wikipedia.org/wiki/北乃きい "wikilink")
-      - [トドカナイ](https://ja.wikipedia.org/wiki/絆 "wikilink")（編曲）ドラマBeeTV『 虹の向こうへ』 主題歌
+      - [トドカナイ](../Page/絆.md "wikilink")（編曲）ドラマBeeTV『 虹の向こうへ』 主題歌
       - [浮間舟渡](../Page/心.md "wikilink")（編曲）
       - Beautiful World（編曲）
       - [Dearest](https://ja.wikipedia.org/wiki/横顔 "wikilink")（編曲）
@@ -375,11 +375,11 @@
   - [遠藤舞](../Page/遠藤舞.md "wikilink")
       - [透明な白](https://ja.wikipedia.org/wiki/Today_is_The_Day "wikilink")（編曲）フジテレビ系列全国ネット「[奇跡体験\!アンビリバボー](../Page/奇跡体験!アンビリバボー.md "wikilink")」エンディングテーマ
       - [recorder〜de〜pieu](https://ja.wikipedia.org/wiki/最終回_\(アルバム\) "wikilink")（作曲・編曲）
-  - [吉野裕行](https://ja.wikipedia.org/wiki/吉野裕行 "wikilink")
+  - [吉野裕行](../Page/吉野裕行.md "wikilink")
       - ドリームフラッグ（作曲・編曲）
       - White Winter Tale（作曲・編曲）
   - [弱虫ペダル](https://ja.wikipedia.org/wiki/弱虫ペダル "wikilink")
-      - Blowing（作曲・編曲） [新開隼人](https://ja.wikipedia.org/wiki/新開隼人 "wikilink")&[泉田塔一郎](https://ja.wikipedia.org/wiki/泉田塔一郎 "wikilink")（[日野聡](https://ja.wikipedia.org/wiki/日野聡 "wikilink")、[阿部敦](../Page/阿部敦.md "wikilink")）キャラクターソング
+      - Blowing（作曲・編曲） [新開隼人](https://ja.wikipedia.org/wiki/新開隼人 "wikilink")&[泉田塔一郎](https://ja.wikipedia.org/wiki/泉田塔一郎 "wikilink")（[日野聡](../Page/日野聡.md "wikilink")、[阿部敦](../Page/阿部敦.md "wikilink")）キャラクターソング
   - [ROOT FIVE](https://ja.wikipedia.org/wiki/ROOT_FIVE "wikilink")
       - Tomorrow's Dream（編曲） フジテレビ『[奇跡体験\!アンビリバボー](../Page/奇跡体験!アンビリバボー.md "wikilink")』7月エンディングテーマ
       - MARIA-マリア-の残響（編曲）
@@ -424,10 +424,10 @@
       - SURVIVAL\!\!（作詞・作曲）
       - [Hey,Girls\!](https://ja.wikipedia.org/wiki/Hey,_Girls! "wikilink")（作曲）
   - [滝沢歌舞伎](https://ja.wikipedia.org/wiki/滝沢歌舞伎 "wikilink")
-      - 浮世艶姿桜（作詞・作曲・編曲）滝沢歌舞伎2016 [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")・[三宅健](https://ja.wikipedia.org/wiki/三宅健 "wikilink") ユニット曲
+      - 浮世艶姿桜（作詞・作曲・編曲）滝沢歌舞伎2016 [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")・[三宅健](../Page/三宅健.md "wikilink") ユニット曲
   - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")
       - [TODAY](https://ja.wikipedia.org/wiki/M\(A\)DE_IN_JAPAN "wikilink")（編曲）「[東京インテリア](https://ja.wikipedia.org/wiki/東京インテリア "wikilink")」CMソング
-  - [TRF](../Page/TRF.md "wikilink")・[AAA](https://ja.wikipedia.org/wiki/AAA_\(音楽グループ\) "wikilink")・[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")
+  - [TRF](../Page/TRF.md "wikilink")・[AAA](../Page/AAA_\(音楽グループ\).md "wikilink")・[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")
       - PLAY\!17（作曲） [江崎グリコ](https://ja.wikipedia.org/wiki/江崎グリコ "wikilink")の[セブンティーンアイス](https://ja.wikipedia.org/wiki/セブンティーンアイス "wikilink")CM曲
   - [Le Lien](https://ja.wikipedia.org/wiki/Le_Lien "wikilink")
       - オレンジの空（作詞・作曲・編曲）
@@ -450,7 +450,7 @@
   - [水樹奈々](../Page/水樹奈々.md "wikilink")
       - Please Download（作曲・編曲） ラジオ「[水樹奈々のMの世界](https://ja.wikipedia.org/wiki/水樹奈々のMの世界 "wikilink")」エンディングテーマ
       - WHAT YOU WANT（作曲・編曲） アニメ「[モンスターストライク](https://ja.wikipedia.org/wiki/モンスターストライク "wikilink")」エンディングテーマ
-  - [岡本信彦](https://ja.wikipedia.org/wiki/岡本信彦 "wikilink")
+  - [岡本信彦](../Page/岡本信彦.md "wikilink")
       - Good Good Time（作曲）
   - [Chubbiness](https://ja.wikipedia.org/wiki/Chubbiness "wikilink")
       - 恋のエモーション（編曲）
@@ -459,7 +459,7 @@
       - Time of Victory（編曲）「[仮面ライダーエグゼイド](https://ja.wikipedia.org/wiki/仮面ライダーエグゼイド "wikilink")」挿入歌
   - [蒼井翔太](../Page/蒼井翔太.md "wikilink")
       - Powder snow（編曲）
-  - [阿久悠](https://ja.wikipedia.org/wiki/阿久悠 "wikilink")トリビュートアルバム・[島袋寛子](../Page/島袋寛子.md "wikilink")
+  - [阿久悠](../Page/阿久悠.md "wikilink")トリビュートアルバム・[島袋寛子](../Page/島袋寛子.md "wikilink")
       - つかみそこねた幸福に（編曲）
   - [Def Will](https://ja.wikipedia.org/wiki/Def_Will "wikilink")
       - HOT GIRL（編曲）
@@ -471,7 +471,7 @@
       - Y.M.C.A（編曲）
   - [KEN☆Tackey](https://ja.wikipedia.org/wiki/KEN☆Tackey "wikilink")
       - 浮世艶姿桜（作詞・作曲・編曲）
-  - [貴水博之](https://ja.wikipedia.org/wiki/貴水博之 "wikilink")
+  - [貴水博之](../Page/貴水博之.md "wikilink")
       - Deep×Collage（作曲）
       - Avenge Ocean（作曲・編曲）
       - Burning My Soul（作曲・編曲）
@@ -504,8 +504,8 @@
 
 ## 関連項目
 
-  - [HΛL](https://ja.wikipedia.org/wiki/HΛL "wikilink")
-  - [きただにひろし](https://ja.wikipedia.org/wiki/きただにひろし "wikilink")
+  - [HΛL](../Page/HΛL.md "wikilink")
+  - [きただにひろし](../Page/きただにひろし.md "wikilink")
   - [清水武仁](../Page/清水武仁.md "wikilink")
   - [渡辺徹](../Page/渡辺徹_\(作曲家\).md "wikilink")
   - [ms-jacky](https://ja.wikipedia.org/wiki/ms-jacky "wikilink")

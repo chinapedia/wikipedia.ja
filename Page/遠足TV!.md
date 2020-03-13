@@ -1,7 +1,7 @@
 > この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
 
 
-『**遠足TV\!**』（えんそくテレビ）は、[関西テレビと](../Page/関西テレビ放送.md "wikilink")[関西テレビ☆京都チャンネル](https://ja.wikipedia.org/wiki/関西テレビ☆京都チャンネル "wikilink")で放送された[旅番組](https://ja.wikipedia.org/wiki/旅番組 "wikilink")。
+『**遠足TV\!**』（えんそくテレビ）は、[関西テレビと](../Page/関西テレビ放送.md "wikilink")[関西テレビ☆京都チャンネル](../Page/関西テレビ☆京都チャンネル.md "wikilink")で放送された[旅番組](../Page/旅番組.md "wikilink")。
 
 ## 概要
 
@@ -26,7 +26,7 @@
   - 第15回 [名古屋](../Page/名古屋.md "wikilink")編1 （2002年11月3日）
   - 第16回 名古屋編2 （2002年11月10日）
   - 第17回 \*\*データ無し\*\*
-  - 第18回 [南大阪](https://ja.wikipedia.org/wiki/南大阪 "wikilink")編2 （2002年11月24日）
+  - 第18回 [南大阪](../Page/南大阪.md "wikilink")編2 （2002年11月24日）
   - 第19回 南大阪編3 （2002年12月1日）
   - 第20回 [沖縄](https://ja.wikipedia.org/wiki/沖縄 "wikilink")編1 （2002年12月8日）
   - 第21回 沖縄編2 （2002年12月15日）

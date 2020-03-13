@@ -17,14 +17,14 @@
 
 1.  **CROSS ROAD** \[4:32\]
       - 作詞・作曲：[桜井和寿](../Page/桜井和寿.md "wikilink")　編曲：[小林武史](../Page/小林武史.md "wikilink") & Mr.Children
-      - [調](https://ja.wikipedia.org/wiki/調 "wikilink")：[ニ長調](https://ja.wikipedia.org/wiki/ニ長調 "wikilink")
+      - [調](https://ja.wikipedia.org/wiki/調 "wikilink")：[ニ長調](../Page/ニ長調.md "wikilink")
     <!-- end list -->
       -
         [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[同窓会](../Page/同窓会_\(テレビドラマ\).md "wikilink")』主題歌。
         桜井がドラマの第一話分の台本のみを読んで曲を作り\[2\]、曲完成後に「100万枚売れる曲ができた」と発言したエピソードがある。
         後に開催されたファンクラブ限定ツアー『Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」では11位に選ばれた\[3\]。 阪神タイガース・藤浪晋太郎投手のかつて（15年度シーズン）の登場曲だった。
         ライブではヒット曲ながらも滅多に演奏されない曲である。映像化は、2007年の"『[Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink")』のみである。こちらはバラードアレンジで演奏された。
-        [ミュージック・ビデオ](https://ja.wikipedia.org/wiki/ミュージック・ビデオ "wikilink")が存在し、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は信藤三雄。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が存在し、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。監督は信藤三雄。
 2.  **and I close to you** \[4:13\]
       - 作詞：桜井和寿　作曲：桜井和寿・小林武史　編曲：小林武史 & Mr.Children
     <!-- end list -->
@@ -43,7 +43,7 @@
 
 ## 収録アルバム
 
-  - 『[Atomic Heart](https://ja.wikipedia.org/wiki/Atomic_Heart "wikilink")』 (\#1)
+  - 『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』 (\#1)
   - 『[LAND IN ASIA](../Page/LAND_IN_ASIA.md "wikilink")』 (\#1)
   - 『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』 (\#1)
   - 『[Mr.Children 1992-2002 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_1992-2002_Thanksgiving_25 "wikilink")』 (\#1)

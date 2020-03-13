@@ -1,9 +1,9 @@
 > この記事は[Napster Japan](https://ja.wikipedia.org/wiki/Napster_Japan)から翻訳されています。
 
 
-**Napster Japan**とはナップスタージャパン株式会社が運営する、日本の[タワーレコード](../Page/タワーレコード.md "wikilink")株式会社と米国の[ナップスター社が展開する](../Page/Napster.md "wikilink")、日本で初めての音楽定額制配信サービスの名称である。[2006年](https://ja.wikipedia.org/wiki/2006年 "wikilink")10月よりサービスが開始された。
+**Napster Japan**とはナップスタージャパン株式会社が運営する、日本の[タワーレコード](../Page/タワーレコード.md "wikilink")株式会社と米国の[ナップスター社が展開する](../Page/Napster.md "wikilink")、日本で初めての音楽定額制配信サービスの名称である。[2006年](../Page/2006年.md "wikilink")10月よりサービスが開始された。
 
-**[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")をもって、ナップスタージャパンの全てのサービスの提供を終了した。**それに伴い、アカウントの新規作成・新規サービス登録・既存会員のコース変更は2010年3月31日で受付を終了するほか、定額聴き放題サービスについては5月分の課金は行わない\[1\]。サービス終了の理由は、米国本社が[DRMフリー化を推し進めており](https://ja.wikipedia.org/wiki/デジタル著作権管理 "wikilink")、日本国内でのサービス継続には楽曲の許諾およびシステム運用の為、大規模な支出が不可避となったため\[2\]である。
+**[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")をもって、ナップスタージャパンの全てのサービスの提供を終了した。**それに伴い、アカウントの新規作成・新規サービス登録・既存会員のコース変更は2010年3月31日で受付を終了するほか、定額聴き放題サービスについては5月分の課金は行わない\[1\]。サービス終了の理由は、米国本社が[DRMフリー化を推し進めており](../Page/デジタル著作権管理.md "wikilink")、日本国内でのサービス継続には楽曲の許諾およびシステム運用の為、大規模な支出が不可避となったため\[2\]である。
 
 ## 特徴
 
@@ -11,13 +11,13 @@
 
 Jポップからロック・R\&B・ヒップホップ・テクノ・レゲエ・ニューエイジ・ワールド・クラシックなど、とにかく豊富な曲数と専門性の高さが売り。 特に洋楽の品揃えが他サービスを圧倒している。
 
-  - [Windows Media Audioフォーマットを採用](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink")。ビットレートは192kbps（ストリーミングは128Kbps）。
+  - [Windows Media Audioフォーマットを採用](../Page/Windows_Media_Audio.md "wikilink")。ビットレートは192kbps（ストリーミングは128Kbps）。
 
 ## コース
 
 ### Napster To Go
 
-月額1980円で[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")（[Windows Media Audioおよび](https://ja.wikipedia.org/wiki/Windows_Media_Audio "wikilink") 10対応のもの、現時点では[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")は不可）やNTTドコモの携帯電話に無制限で転送できた。
+月額1980円で[デジタルオーディオプレーヤー](../Page/デジタルオーディオプレーヤー.md "wikilink")（[Windows Media Audioおよび](../Page/Windows_Media_Audio.md "wikilink") 10対応のもの、現時点では[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")は不可）やNTTドコモの携帯電話に無制限で転送できた。
 
 ### Napster Basic
 

@@ -9,7 +9,7 @@
 
 、[本田技研工業](../Page/本田技研工業.md "wikilink")の鈴鹿製作所で『**本田技研鈴鹿硬式野球部**』として創部。活動2年目のに[都市対抗野球に初出場](../Page/第43回都市対抗野球大会.md "wikilink")、には[日本選手権に初出場を果たした](https://ja.wikipedia.org/wiki/第1回社会人野球日本選手権大会 "wikilink")。
 
-の[都市対抗野球では](../Page/第65回都市対抗野球大会.md "wikilink")、史上初の東海勢同士の対決となった決勝戦で[西濃運輸に競り勝ち初優勝を果たした](https://ja.wikipedia.org/wiki/西濃運輸硬式野球部 "wikilink")。
+の[都市対抗野球では](../Page/第65回都市対抗野球大会.md "wikilink")、史上初の東海勢同士の対決となった決勝戦で[西濃運輸に競り勝ち初優勝を果たした](../Page/西濃運輸硬式野球部.md "wikilink")。
 
 、チーム名を『**ホンダ鈴鹿硬式野球部**』に改称した。
 
@@ -48,27 +48,27 @@
 
   - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink") - 出場22回、優勝1回（1994年）
   - [社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink") - 出場11回、4強1回（1998年）
-  - [JABA北海道大会](https://ja.wikipedia.org/wiki/JABA北海道大会 "wikilink") - 優勝1回（1984年）
-  - [JABA静岡大会](https://ja.wikipedia.org/wiki/JABA静岡大会 "wikilink") - 優勝1回（1996年）
-  - [JABA京都大会](https://ja.wikipedia.org/wiki/JABA京都大会 "wikilink") - 優勝1回（2008年）
-  - [JABAベーブルース杯争奪大会](https://ja.wikipedia.org/wiki/JABAベーブルース杯争奪大会 "wikilink") - 優勝2回（1977、1981年）
-  - [JABA高砂市長杯争奪大会](https://ja.wikipedia.org/wiki/JABA高砂市長杯争奪大会 "wikilink") - 優勝1回（1985年）
-  - [JABA富山市長旗争奪富山大会](https://ja.wikipedia.org/wiki/JABA富山市長旗争奪富山大会 "wikilink") - 優勝1回（2014年）
-  - [JABA長野県知事旗争奪野球大会](https://ja.wikipedia.org/wiki/JABA長野県知事旗争奪野球大会 "wikilink") - 優勝2回（1991、2016年）
-  - [JABA高山市長旗・飛騨市長杯争奪高山大会](https://ja.wikipedia.org/wiki/JABA高山市長旗・飛騨市長杯争奪高山大会 "wikilink") - 優勝2回（2001、2002年）
-  - [JABA伊勢・松阪大会](https://ja.wikipedia.org/wiki/JABA伊勢・松阪大会 "wikilink") - 優勝2回（1981、2009年）
+  - [JABA北海道大会](../Page/JABA北海道大会.md "wikilink") - 優勝1回（1984年）
+  - [JABA静岡大会](../Page/JABA静岡大会.md "wikilink") - 優勝1回（1996年）
+  - [JABA京都大会](../Page/JABA京都大会.md "wikilink") - 優勝1回（2008年）
+  - [JABAベーブルース杯争奪大会](../Page/JABAベーブルース杯争奪大会.md "wikilink") - 優勝2回（1977、1981年）
+  - [JABA高砂市長杯争奪大会](../Page/JABA高砂市長杯争奪大会.md "wikilink") - 優勝1回（1985年）
+  - [JABA富山市長旗争奪富山大会](../Page/JABA富山市長旗争奪富山大会.md "wikilink") - 優勝1回（2014年）
+  - [JABA長野県知事旗争奪野球大会](../Page/JABA長野県知事旗争奪野球大会.md "wikilink") - 優勝2回（1991、2016年）
+  - [JABA高山市長旗・飛騨市長杯争奪高山大会](../Page/JABA高山市長旗・飛騨市長杯争奪高山大会.md "wikilink") - 優勝2回（2001、2002年）
+  - [JABA伊勢・松阪大会](../Page/JABA伊勢・松阪大会.md "wikilink") - 優勝2回（1981、2009年）
 
 ## 主な出身プロ野球選手
 
   - [島津佳一](https://ja.wikipedia.org/wiki/島津佳一 "wikilink")（[外野手](../Page/外野手.md "wikilink")） - ドラフト2位で[日拓ホームフライヤーズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
-  - [山本功児](https://ja.wikipedia.org/wiki/山本功児 "wikilink")（[内野手](../Page/内野手.md "wikilink")） - ドラフト5位で[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に入団
+  - [山本功児](../Page/山本功児.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - ドラフト5位で[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に入団
   - [金本誠吉](../Page/金本誠吉.md "wikilink")（[投手](../Page/投手.md "wikilink")） - ドラフト6位で[阪急ブレーブスに入団](../Page/オリックス・バファローズ.md "wikilink")
   - [羅本新二](../Page/羅本新二.md "wikilink")（内野手） - 1978年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[ヤクルトスワローズに入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
   - [近田豊年](../Page/近田豊年.md "wikilink")（投手） - 1987年ドラフト外で[南海ホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
   - [猪久保吾一](../Page/猪久保吾一.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - 1988年ドラフト外で[ロッテオリオンズに入団](../Page/千葉ロッテマリーンズ.md "wikilink")（退団後）
   - [葉室太郎](https://ja.wikipedia.org/wiki/葉室太郎 "wikilink")（捕手） - 1988年ドラフト外で[オリックス・ブレーブスに入団](../Page/オリックス・バファローズ.md "wikilink")
-  - [湯舟敏郎](https://ja.wikipedia.org/wiki/湯舟敏郎 "wikilink")（投手） - ドラフト1位で[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")に入団
-  - [高宮和也](../Page/高宮和也.md "wikilink")（投手） - 大学生・社会人ドラフト[希望入団枠で](https://ja.wikipedia.org/wiki/希望入団枠制度 "wikilink")[横浜ベイスターズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
+  - [湯舟敏郎](../Page/湯舟敏郎.md "wikilink")（投手） - ドラフト1位で[阪神タイガース](../Page/阪神タイガース.md "wikilink")に入団
+  - [高宮和也](../Page/高宮和也.md "wikilink")（投手） - 大学生・社会人ドラフト[希望入団枠で](../Page/希望入団枠制度.md "wikilink")[横浜ベイスターズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [宮崎充登](../Page/宮崎充登.md "wikilink")（投手） - 大学生・社会人ドラフト希望入団枠で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団
   - [中東直己](../Page/中東直己.md "wikilink")（外野手） - 2006年大学生・社会人ドラフト5位で広島東洋カープに入団
   - [濱矢廣大](https://ja.wikipedia.org/wiki/濱矢廣大 "wikilink")（投手） - ドラフト3位で[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")に入団
@@ -77,12 +77,12 @@
   - [平井克典](https://ja.wikipedia.org/wiki/平井克典 "wikilink")（投手） - ドラフト5位で[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")に入団
   - [飯田大祐](https://ja.wikipedia.org/wiki/飯田大祐 "wikilink")（捕手） - 2016年ドラフト7位で[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")に入団
   - [山足達也](https://ja.wikipedia.org/wiki/山足達也 "wikilink")（内野手） - ドラフト8位でオリックス・バファローズに入団
-  - [柘植世那](https://ja.wikipedia.org/wiki/柘植世那 "wikilink")（捕手） - ドラフト5位で埼玉西武ライオンズに入団
-  - [瀧中瞭太](https://ja.wikipedia.org/wiki/瀧中瞭太 "wikilink")（投手） - 2019年ドラフト8位で東北楽天ゴールデンイーグルスに入団
+  - [柘植世那](../Page/柘植世那.md "wikilink")（捕手） - ドラフト5位で埼玉西武ライオンズに入団
+  - [瀧中瞭太](../Page/瀧中瞭太.md "wikilink")（投手） - 2019年ドラフト8位で東北楽天ゴールデンイーグルスに入団
 
 ## 元プロ野球選手の競技者登録
 
-  - [吉本亮](../Page/吉本亮_\(捕手\).md "wikilink")（元：[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")、[近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")） - コーチ兼任捕手（2004年）→コーチ（2005年）→コーチ兼任捕手（2006年）→コーチ（2007年～2009年）→監督（2009年～2011年）→退団
+  - [吉本亮](../Page/吉本亮_\(捕手\).md "wikilink")（元：[阪神タイガース](../Page/阪神タイガース.md "wikilink")、[近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")、[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")） - コーチ兼任捕手（2004年）→コーチ（2005年）→コーチ兼任捕手（2006年）→コーチ（2007年～2009年）→監督（2009年～2011年）→退団
 
 ## 脚注
 
@@ -92,7 +92,7 @@
   - [都市対抗野球大会 (三重県勢)](https://ja.wikipedia.org/wiki/都市対抗野球大会_\(三重県勢\) "wikilink")
   - [本田技研工業](../Page/本田技研工業.md "wikilink")の硬式野球部
       - [Honda硬式野球部](../Page/Honda硬式野球部.md "wikilink") - [埼玉県](../Page/埼玉県.md "wikilink")[狭山市](../Page/狭山市.md "wikilink")を拠点に活動。
-      - [Honda熊本硬式野球部](https://ja.wikipedia.org/wiki/Honda熊本硬式野球部 "wikilink") - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[菊池郡](../Page/菊池郡.md "wikilink")[大津町](../Page/大津町.md "wikilink")を拠点に活動。
+      - [Honda熊本硬式野球部](../Page/Honda熊本硬式野球部.md "wikilink") - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")[菊池郡](../Page/菊池郡.md "wikilink")[大津町](../Page/大津町.md "wikilink")を拠点に活動。
   - [Honda Elk](https://ja.wikipedia.org/wiki/ホンダエルク "wikilink") - [鈴鹿市](../Page/鈴鹿市.md "wikilink")を拠点とする本田技研工業の[ハンドボール](../Page/ハンドボール.md "wikilink")チーム。
   - [Honda Heat](../Page/ホンダヒート.md "wikilink") - 鈴鹿市を拠点とする本田技研工業の[ラグビー](../Page/ラグビー.md "wikilink")チーム。
 

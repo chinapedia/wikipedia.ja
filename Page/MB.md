@@ -19,7 +19,7 @@
   - [マスターブートレコード](../Page/マスターブートレコード.md "wikilink") () - 通常はMBRと略す。
   - [ミドルブロッカー](../Page/ミドルブロッカー.md "wikilink") - バレーボールのポジション
   - [メーターボックス](https://ja.wikipedia.org/wiki/メーターボックス "wikilink")
-  - [マーカービーコン](https://ja.wikipedia.org/wiki/マーカービーコン "wikilink")([:en:Marker beacon](https://ja.wikipedia.org/wiki/:en:Marker_beacon "wikilink")) - [計器着陸装置](https://ja.wikipedia.org/wiki/計器着陸装置 "wikilink")の構成要素
+  - [マーカービーコン](https://ja.wikipedia.org/wiki/マーカービーコン "wikilink")([:en:Marker beacon](https://ja.wikipedia.org/wiki/:en:Marker_beacon "wikilink")) - [計器着陸装置](../Page/計器着陸装置.md "wikilink")の構成要素
   - 中地下階を意味する。
 
 ### 固有名詞
@@ -29,14 +29,14 @@
       - [メノナイト・ブレザレン教団](../Page/日本メノナイト・ブレザレン教団.md "wikilink") - [キリスト教](../Page/キリスト教.md "wikilink")[プロテスタント](../Page/プロテスタント.md "wikilink")組織。
       - [ムスリム同胞団](../Page/ムスリム同胞団.md "wikilink") () - エジプトのイスラム原理主義組織。
       - [ミルトン・ブラッドリー・カンパニー](https://ja.wikipedia.org/wiki/ミルトン・ブラッドリー・カンパニー "wikilink") () - アメリカのゲーム会社。
-      - [名鉄バス](https://ja.wikipedia.org/wiki/名鉄バス "wikilink")
+      - [名鉄バス](../Page/名鉄バス.md "wikilink")
       - [MB Japan](https://ja.wikipedia.org/wiki/MB_Japan "wikilink") - イタリアを本社に置く世界を代表する建設機械アタッチメントメーカーの日本法人。
-  - [メタルブラック](https://ja.wikipedia.org/wiki/メタルブラック "wikilink") () - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
-  - [Missing Blue](https://ja.wikipedia.org/wiki/Missing_Blue "wikilink") - [トンキンハウス](https://ja.wikipedia.org/wiki/トンキンハウス "wikilink")製作の[デジタルノベルゲーム](../Page/アドベンチャーゲーム.md "wikilink")。
-  - [My Birthday](../Page/My_Birthday.md "wikilink") - [実業之日本社](https://ja.wikipedia.org/wiki/実業之日本社 "wikilink")から出版されていた月刊誌。
+  - [メタルブラック](../Page/メタルブラック.md "wikilink") () - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
+  - [Missing Blue](../Page/Missing_Blue.md "wikilink") - [トンキンハウス](../Page/トンキンハウス.md "wikilink")製作の[デジタルノベルゲーム](../Page/アドベンチャーゲーム.md "wikilink")。
+  - [My Birthday](../Page/My_Birthday.md "wikilink") - [実業之日本社](../Page/実業之日本社.md "wikilink")から出版されていた月刊誌。
   - [李明博](../Page/李明博.md "wikilink") () - [大韓民国大統領](https://ja.wikipedia.org/wiki/大韓民国大統領 "wikilink")
   - [メトロブス・デ・ラ・アバナ](https://ja.wikipedia.org/wiki/メトロブス・デ・ラ・アバナ "wikilink") () - キューバ・ハバナのバス路線。
-  - [東京メトロ丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")の[方南町](https://ja.wikipedia.org/wiki/方南町駅 "wikilink")[支線](https://ja.wikipedia.org/wiki/支線 "wikilink")部分に使われる[路線](https://ja.wikipedia.org/wiki/路線 "wikilink")[記号](../Page/記号.md "wikilink")。
+  - [東京メトロ丸ノ内線](../Page/東京メトロ丸ノ内線.md "wikilink")の[方南町](https://ja.wikipedia.org/wiki/方南町駅 "wikilink")[支線](../Page/支線.md "wikilink")部分に使われる[路線](https://ja.wikipedia.org/wiki/路線 "wikilink")[記号](../Page/記号.md "wikilink")。
   - [MB (バイヤー)](https://ja.wikipedia.org/wiki/MB_\(バイヤー\) "wikilink")
 
 ## コード・形式名

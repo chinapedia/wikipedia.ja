@@ -233,7 +233,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>スイス</p></td>
@@ -571,7 +571,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>グルジア</p></td>
@@ -847,7 +847,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>ドイツ</p></td>
@@ -1155,7 +1155,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アイスランド</p></td>
@@ -1427,7 +1427,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ルクセンブルク</p></td>
@@ -1717,7 +1717,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>イスラエル</p></td>
@@ -2045,7 +2045,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>スロバキア</p></td>
@@ -2339,7 +2339,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>マケドニア</p></td>
@@ -2664,7 +2664,7 @@
 <td><p> </p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="https://ja.wikipedia.org/wiki/9月8日" title="wikilink">9月8日</a></p></td>
+<td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/9月8日.md" title="wikilink">9月8日</a></p></td>
 </tr>
 <tr class="even">
 <td><p>フェロー諸島</p></td>
@@ -2823,7 +2823,7 @@
 ## 関連項目
 
   - [欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")
-  - [UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権 "wikilink")
+  - [UEFA欧州選手権](../Page/UEFA欧州選手権.md "wikilink")
   - [UEFA EURO 2000](../Page/UEFA_EURO_2000.md "wikilink")
 
 [Category:UEFA欧州選手権予選](https://ja.wikipedia.org/wiki/Category:UEFA欧州選手権予選 "wikilink") [Category:1998年のサッカー](https://ja.wikipedia.org/wiki/Category:1998年のサッカー "wikilink") [Category:1999年のサッカー](https://ja.wikipedia.org/wiki/Category:1999年のサッカー "wikilink") [Category:1998年のヨーロッパ](https://ja.wikipedia.org/wiki/Category:1998年のヨーロッパ "wikilink") [Category:1999年のヨーロッパ](https://ja.wikipedia.org/wiki/Category:1999年のヨーロッパ "wikilink") [Category:UEFA_EURO_2000](https://ja.wikipedia.org/wiki/Category:UEFA_EURO_2000 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[G-on](https://ja.wikipedia.org/wiki/G-on)から翻訳されています。
 
 
-『**G-onらいだーす♥**』（ジオンらいだーす）は[TNK](https://ja.wikipedia.org/wiki/ティー・エヌ・ケー "wikilink")・[SHAFT共同制作による](../Page/シャフト_\(アニメ制作会社\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。
+『**G-onらいだーす♥**』（ジオンらいだーす）は[TNK](../Page/ティー・エヌ・ケー.md "wikilink")・[SHAFT共同制作による](../Page/シャフト_\(アニメ制作会社\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。
 
 [2002年](../Page/2002年.md "wikilink")7月2日から10月1日まで[WOWOW](../Page/WOWOW.md "wikilink")の[ノンスクランブル](https://ja.wikipedia.org/wiki/ノンスクランブル "wikilink")枠で放送された 登場する女の子すべてが[めがねっ娘](https://ja.wikipedia.org/wiki/めがねっ娘 "wikilink")という大胆な設定であった。[月刊コミック電撃大王](../Page/月刊コミック電撃大王.md "wikilink")にて[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")もされた。
 
@@ -36,7 +36,7 @@
     星川学園の生徒。16歳。熱血漢でユウキの事が好き。第1話で拾った、ユウキが落としたイチゴのパンツを返せないで困っている。
     実は真田博士に改造されたサイボーグ。体内に青春のモヤモヤしたパワーが蓄積すると無敵のパワー誇る広島弁丸出し（声を担当する檜山は広島出身）の古風なコスモ番長に変身し、ユウキたちと共に戦う。変身時はヒーロー風のマスクを装着する。
   - 星川重蔵
-    声 - [中博史](https://ja.wikipedia.org/wiki/中博史 "wikilink")
+    声 - [中博史](../Page/中博史.md "wikilink")
     ヤヨイの祖父で、孫娘とは反対に厳格で強気な性格の持ち主。財閥総帥であり、G-onらいだーすの総責任者でもある。
   - 小田切シノブ
     声 - [浅野真澄](../Page/浅野真澄.md "wikilink")
@@ -98,7 +98,7 @@
 
 ## スタッフ
 
-  - 原作 - KATSUZO、[TNK](https://ja.wikipedia.org/wiki/ティー・エヌ・ケー "wikilink")
+  - 原作 - KATSUZO、[TNK](../Page/ティー・エヌ・ケー.md "wikilink")
   - 監督 - [木村真一郎](../Page/木村真一郎.md "wikilink")
   - シリーズ構成 - [水上清資](../Page/水上清資.md "wikilink")
   - キャラクターデザイン・総作画監督 - [平田雄三](../Page/平田雄三.md "wikilink")
@@ -112,7 +112,7 @@
   - 音楽 - 山中紀昌
   - 音響監督 - [高橋秀雄](https://ja.wikipedia.org/wiki/高橋秀雄_\(音響監督\) "wikilink")
   - プロデューサー - シバタミツテル
-  - アニメーション制作 - [TNK](https://ja.wikipedia.org/wiki/ティー・エヌ・ケー "wikilink") × [SHAFT](../Page/シャフト_\(アニメ制作会社\).md "wikilink")
+  - アニメーション制作 - [TNK](../Page/ティー・エヌ・ケー.md "wikilink") × [SHAFT](../Page/シャフト_\(アニメ制作会社\).md "wikilink")
   - 製作 - G-on PROJECT
 
 ## 主題歌
@@ -161,7 +161,7 @@ Glass.14のみ、OVAとして製作された。
 <td><p>メガネとはなんだ</p></td>
 <td><p>島津奔</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山口頼房" title="wikilink">山口頼房</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/内田順久" title="wikilink">内田順久</a></p></td>
+<td><p><a href="../Page/内田順久.md" title="wikilink">内田順久</a></p></td>
 <td><p>太陽型</p></td>
 <td></td>
 </tr>

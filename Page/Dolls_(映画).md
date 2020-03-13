@@ -18,13 +18,13 @@ __TOC__ {{-}}
 ## 出演
 
   - 佐和子 : [菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")
-  - 松本 : [西島秀俊](https://ja.wikipedia.org/wiki/西島秀俊 "wikilink")
-  - 親分 : [三橋達也](../Page/三橋達也.md "wikilink")、[津田寛治](https://ja.wikipedia.org/wiki/津田寛治 "wikilink")（若い頃）
-  - 良子 : [松原智恵子](https://ja.wikipedia.org/wiki/松原智恵子 "wikilink")、[大家由祐子](https://ja.wikipedia.org/wiki/大家由祐子 "wikilink")（若い頃）
+  - 松本 : [西島秀俊](../Page/西島秀俊.md "wikilink")
+  - 親分 : [三橋達也](../Page/三橋達也.md "wikilink")、[津田寛治](../Page/津田寛治.md "wikilink")（若い頃）
+  - 良子 : [松原智恵子](../Page/松原智恵子.md "wikilink")、[大家由祐子](https://ja.wikipedia.org/wiki/大家由祐子 "wikilink")（若い頃）
   - 春奈 : [深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink")
   - 温井 : [武重勉](../Page/武重勉.md "wikilink")
-  - 兄弟分の息子 : [ホーキング青山](https://ja.wikipedia.org/wiki/ホーキング青山 "wikilink")
-  - 松本の父 : [清水章吾](https://ja.wikipedia.org/wiki/清水章吾 "wikilink")
+  - 兄弟分の息子 : [ホーキング青山](../Page/ホーキング青山.md "wikilink")
+  - 松本の父 : [清水章吾](../Page/清水章吾.md "wikilink")
   - 松本の母 : [金沢碧](../Page/金沢碧.md "wikilink")
   - 松本の同僚 : [大森南朋](../Page/大森南朋.md "wikilink")
   - 松本の友達 : [大塚よしたか](https://ja.wikipedia.org/wiki/大塚よしたか "wikilink")
@@ -39,7 +39,7 @@ __TOC__ {{-}}
   - 忠兵衛 : [吉田玉女](https://ja.wikipedia.org/wiki/吉田玉女 "wikilink")
   - 大夫 : [豊竹嶋大夫](https://ja.wikipedia.org/wiki/豊竹嶋大夫 "wikilink")
   - 三味線 : [鶴澤清介](https://ja.wikipedia.org/wiki/鶴澤清介 "wikilink")
-  - 小学生 : [菅大輝](https://ja.wikipedia.org/wiki/菅大輝_\(俳優\) "wikilink")
+  - 小学生 : [菅大輝](../Page/菅大輝_\(俳優\).md "wikilink")
   - 殺し屋 : [ガンビーノ小林](../Page/ガンビーノ小林.md "wikilink")、[モロ師岡](../Page/モロ師岡.md "wikilink")
   - ヤクザ : [桐生康詩](https://ja.wikipedia.org/wiki/桐生康詩 "wikilink")
 
@@ -63,7 +63,7 @@ __TOC__ {{-}}
 
 ## 受賞歴
 
-佐和子役の[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")は、この作品で第40回[ゴールデン・アロー賞](https://ja.wikipedia.org/wiki/ゴールデン・アロー賞 "wikilink")映画賞を受賞。2002年度は[山田洋次](../Page/山田洋次.md "wikilink")監督、[真田広之](../Page/真田広之.md "wikilink")・[宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")主演の「[たそがれ清兵衛](https://ja.wikipedia.org/wiki/たそがれ清兵衛 "wikilink")」が映画賞を総ナメにしていたが、同賞の常連である北野作品から菅野が選出された。なお武が審査委員長を務める[東京スポーツ映画大賞](../Page/東京スポーツ映画大賞.md "wikilink")では、主演女優賞に菅野ではなく宮沢りえを選出している（菅野は助演女優賞受賞）。
+佐和子役の[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")は、この作品で第40回[ゴールデン・アロー賞](../Page/ゴールデン・アロー賞.md "wikilink")映画賞を受賞。2002年度は[山田洋次](../Page/山田洋次.md "wikilink")監督、[真田広之](../Page/真田広之.md "wikilink")・[宮沢りえ](https://ja.wikipedia.org/wiki/宮沢りえ "wikilink")主演の「[たそがれ清兵衛](../Page/たそがれ清兵衛.md "wikilink")」が映画賞を総ナメにしていたが、同賞の常連である北野作品から菅野が選出された。なお武が審査委員長を務める[東京スポーツ映画大賞](../Page/東京スポーツ映画大賞.md "wikilink")では、主演女優賞に菅野ではなく宮沢りえを選出している（菅野は助演女優賞受賞）。
 
   - ダマスカス国際映画祭・最優秀作品賞
   - 第4回[文化庁](../Page/文化庁.md "wikilink")優秀映画賞・長編映画部門優秀映画賞

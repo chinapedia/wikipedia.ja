@@ -19,7 +19,7 @@
 
 、チーム名を『**Honda熊本硬式野球部**』に改称した\[2\]\[3\]。
 
-、[4月16日](https://ja.wikipedia.org/wiki/4月16日 "wikilink")に発生した[熊本地震により工場が被災し操業停止となり](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、完全復旧は8月までかかることになった\[4\]。チームは[茨城県](../Page/茨城県.md "wikilink")で行なわれる[JABA日立市長杯争奪大会](https://ja.wikipedia.org/wiki/JABA日立市長杯争奪大会 "wikilink")の予選リーグ参加を予定していたが急遽棄権し、[フェリー](../Page/フェリー.md "wikilink")と[バス](../Page/バス.md "wikilink")を乗り継ぎ熊本に戻った\[5\]。一時的に活動を休止したが、[4月21日](../Page/4月21日.md "wikilink")から活動を再開し、選手たちは練習後に支援物資の仕分けや引越しの手伝い等の[ボランティア](../Page/ボランティア.md "wikilink")活動に従事した\[6\]\[7\]。その中で、同年の[都市対抗野球に九州第](https://ja.wikipedia.org/wiki/第87回都市対抗野球大会 "wikilink")1代表として出場を決め、開会式ではボランティア等の震災支援が評価され、同じく熊本に本拠地を置く[鮮ど市場ゴールデンラークスと共に](../Page/熊本ゴールデンラークス.md "wikilink")「地域の元気　総務大臣賞」の表彰を受けた\[8\]。試合は初戦で[日本新薬に逆転負けを喫したが](https://ja.wikipedia.org/wiki/日本新薬硬式野球部 "wikilink")、スタンドには熊本のご当地キャラクターである[くまモン](https://ja.wikipedia.org/wiki/くまモン "wikilink")が登場し、社員や家族、私設応援団、浜松や栃木の工場などから約1万5000人の応援が詰めかけた\[9\]。
+、[4月16日](../Page/4月16日.md "wikilink")に発生した[熊本地震により工場が被災し操業停止となり](https://ja.wikipedia.org/wiki/熊本地震_\(2016年\) "wikilink")、完全復旧は8月までかかることになった\[4\]。チームは[茨城県](../Page/茨城県.md "wikilink")で行なわれる[JABA日立市長杯争奪大会](https://ja.wikipedia.org/wiki/JABA日立市長杯争奪大会 "wikilink")の予選リーグ参加を予定していたが急遽棄権し、[フェリー](../Page/フェリー.md "wikilink")と[バス](../Page/バス.md "wikilink")を乗り継ぎ熊本に戻った\[5\]。一時的に活動を休止したが、[4月21日](../Page/4月21日.md "wikilink")から活動を再開し、選手たちは練習後に支援物資の仕分けや引越しの手伝い等の[ボランティア](../Page/ボランティア.md "wikilink")活動に従事した\[6\]\[7\]。その中で、同年の[都市対抗野球に九州第](https://ja.wikipedia.org/wiki/第87回都市対抗野球大会 "wikilink")1代表として出場を決め、開会式ではボランティア等の震災支援が評価され、同じく熊本に本拠地を置く[鮮ど市場ゴールデンラークスと共に](../Page/熊本ゴールデンラークス.md "wikilink")「地域の元気　総務大臣賞」の表彰を受けた\[8\]。試合は初戦で[日本新薬に逆転負けを喫したが](../Page/日本新薬硬式野球部.md "wikilink")、スタンドには熊本のご当地キャラクターである[くまモン](https://ja.wikipedia.org/wiki/くまモン "wikilink")が登場し、社員や家族、私設応援団、浜松や栃木の工場などから約1万5000人の応援が詰めかけた\[9\]。
 
 ## 設立・沿革
 
@@ -41,14 +41,14 @@
 
   - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink") - 出場11回、準優勝1回（2002年）
   - [社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink") - 出場13回、準優勝1回（1988年）
-  - [JABA九州大会](https://ja.wikipedia.org/wiki/JABA九州大会 "wikilink") - 優勝1回（2013年）
-  - [JABA徳山(スポニチ)大会](https://ja.wikipedia.org/wiki/JABA徳山\(スポニチ\)大会 "wikilink") - 優勝1回（2001年）
+  - [JABA九州大会](../Page/JABA九州大会.md "wikilink") - 優勝1回（2013年）
+  - [JABA徳山(スポニチ)大会](../Page/JABA徳山\(スポニチ\)大会.md "wikilink") - 優勝1回（2001年）
 
 ## 主な出身プロ野球選手
 
   - [山田武史](https://ja.wikipedia.org/wiki/山田武史 "wikilink")（[投手](../Page/投手.md "wikilink")） - 1986年[ドラフト外で](../Page/ドラフト外入団.md "wikilink")[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に入団
-  - [吉田豊彦](https://ja.wikipedia.org/wiki/吉田豊彦 "wikilink")（投手） - ドラフト1位で[南海ホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
-  - [高村洋介](../Page/高村洋介.md "wikilink")（投手） - 1988年ドラフト外で[阪神タイガース](https://ja.wikipedia.org/wiki/阪神タイガース "wikilink")に入団
+  - [吉田豊彦](../Page/吉田豊彦.md "wikilink")（投手） - ドラフト1位で[南海ホークスに入団](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")
+  - [高村洋介](../Page/高村洋介.md "wikilink")（投手） - 1988年ドラフト外で[阪神タイガース](../Page/阪神タイガース.md "wikilink")に入団
   - [内山正博](../Page/内山正博_\(野球\).md "wikilink")（投手） - 1989年ドラフト外で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
   - [田代尚幸](https://ja.wikipedia.org/wiki/田代尚幸 "wikilink")（投手） - 1990年ドラフト外で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団
   - [佐藤和宏](../Page/佐藤和宏.md "wikilink")（投手） - ドラフト6位で[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")に入団

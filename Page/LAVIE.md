@@ -3,13 +3,13 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Lavie-LJ730L.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:PC-LS550CS6W.JPG "wikilink") **LAVIE**（ラヴィ）は、[日本電気](../Page/日本電気.md "wikilink")(NEC)の[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")を含めた個人向け製品のブランド名。
 
-2011年以降、[レノボ](https://ja.wikipedia.org/wiki/レノボ "wikilink")傘下でNECの関連会社である[NECパーソナルコンピュータ](https://ja.wikipedia.org/wiki/NECパーソナルコンピュータ "wikilink")が企画・開発・製造を行っている。
+2011年以降、[レノボ](../Page/レノボ.md "wikilink")傘下でNECの関連会社である[NECパーソナルコンピュータ](https://ja.wikipedia.org/wiki/NECパーソナルコンピュータ "wikilink")が企画・開発・製造を行っている。
 
 ## 概要
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[Windows 95発売を機に](../Page/Microsoft_Windows_95.md "wikilink")[PC-9821シリーズ](../Page/PC-9821シリーズ.md "wikilink")の[ノートパソコン](../Page/ノートパソコン.md "wikilink")「[98NOTE](../Page/98NOTE.md "wikilink") Lavie」として発売するが、 PC-9821のシェアが落ちたために、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、現在の[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")の仕様（[PC98-NXシリーズ](https://ja.wikipedia.org/wiki/PC98-NXシリーズ "wikilink")/愛称LaVie-NX）になった。PC98-NXを機に、**LaVie**は国内パーソナルユーザー向けのノートパソコンとして販売されていた。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[Windows 95発売を機に](../Page/Microsoft_Windows_95.md "wikilink")[PC-9821シリーズ](../Page/PC-9821シリーズ.md "wikilink")の[ノートパソコン](../Page/ノートパソコン.md "wikilink")「[98NOTE](../Page/98NOTE.md "wikilink") Lavie」として発売するが、 PC-9821のシェアが落ちたために、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、現在の[PC/AT互換機](https://ja.wikipedia.org/wiki/PC/AT互換機 "wikilink")の仕様（[PC98-NXシリーズ](../Page/PC98-NXシリーズ.md "wikilink")/愛称LaVie-NX）になった。PC98-NXを機に、**LaVie**は国内パーソナルユーザー向けのノートパソコンとして販売されていた。
 
-[2004年](../Page/2004年.md "wikilink")春モデル（2004年1月発売）で発売以来初めてブランドロゴが変更されて2代目に移行した（デスクトップパソコンの「[VALUESTAR](https://ja.wikipedia.org/wiki/VALUESTAR "wikilink")」も同時にブランドロゴを変更して2代目となった）。
+[2004年](../Page/2004年.md "wikilink")春モデル（2004年1月発売）で発売以来初めてブランドロゴが変更されて2代目に移行した（デスクトップパソコンの「[VALUESTAR](../Page/VALUESTAR.md "wikilink")」も同時にブランドロゴを変更して2代目となった）。
 
 [2015年](../Page/2015年.md "wikilink")に発売20年を迎え、ノートパソコンに加え、2014年秋冬モデルまで「VALUESTAR」のブランド名で発売されていたデスクトップパソコンを吸収統合して個人向けパソコンのブランドに再定義し、主要搭載アプリにも「LaVie」を冠するようになった\[1\]。2015年夏モデルで大文字表記の「**LAVIE**」に改めるとともに、ロゴマークも約11年4ヶ月ぶりに替わり、ロゴの左側に2つの[直角二等辺三角形](../Page/直角二等辺三角形.md "wikilink")で構成された「Wトライアングル」を組み合わせた3代目に移行した\[2\]\[3\]。
 
@@ -36,13 +36,13 @@ LAVIEとは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wiki
 
 ## CM
 
-[PC98-NXシリーズ](https://ja.wikipedia.org/wiki/PC98-NXシリーズ "wikilink")にあるイメージキャラクターを参照
+[PC98-NXシリーズ](../Page/PC98-NXシリーズ.md "wikilink")にあるイメージキャラクターを参照
 
 ## 注釈
 
 ## 関連項目
 
-  - [VALUESTAR](https://ja.wikipedia.org/wiki/VALUESTAR "wikilink")
+  - [VALUESTAR](../Page/VALUESTAR.md "wikilink")
   - [VersaPro](../Page/VersaPro.md "wikilink")
 
 ## 外部リンク

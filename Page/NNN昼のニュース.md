@@ -40,7 +40,7 @@
 <td><p>1980.03.31</p></td>
 <td><p>1988.04.03</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/竹内公一" title="wikilink">竹内公一</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/芦沢俊美" title="wikilink">芦沢俊美</a></p></td>
+<td><p><a href="../Page/芦沢俊美.md" title="wikilink">芦沢俊美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1988.04.04</p></td>
@@ -89,7 +89,7 @@
 
   - 備考
 
-シフト勤務は、主に『NNNきょうの出来事』週末スポーツキャスター（[多昌博志](../Page/多昌博志.md "wikilink")、[河村亮](../Page/河村亮.md "wikilink")、[村山喜彦](../Page/村山喜彦.md "wikilink")）が担当した。これは『NNN朝のニュース』のキャスターを前夜の『[NNNスポーツニュース](https://ja.wikipedia.org/wiki/NNNスポーツニュース "wikilink")』の担当者が兼務した名残である。
+シフト勤務は、主に『NNNきょうの出来事』週末スポーツキャスター（[多昌博志](../Page/多昌博志.md "wikilink")、[河村亮](../Page/河村亮.md "wikilink")、[村山喜彦](../Page/村山喜彦.md "wikilink")）が担当した。これは『NNN朝のニュース』のキャスターを前夜の『[NNNスポーツニュース](../Page/NNNスポーツニュース.md "wikilink")』の担当者が兼務した名残である。
 
 ## 放送時間の変遷
 
@@ -132,7 +132,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/札幌テレビ放送" title="wikilink">札幌テレビ</a>（STV）</p></td>
+<td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a>（STV）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -278,7 +278,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/福岡県" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/福岡放送.md" title="wikilink">福岡放送</a>（FBS）</p></td>
 <td></td>
 <td></td>
@@ -334,7 +334,7 @@
 ### ネット局について
 
   - 日本テレビ系列とテレビ朝日系列との[クロスネット局](../Page/クロスネット局.md "wikilink")は11:30〜「昼のニュース」、11:40〜ローカルニュース、11:45〜『ANNニュースライナー』というパターンであった（福井放送では現在もほぼこのスタイルで放送している）。
-  - その一方で、[NNNに参加していながら](../Page/日本ニュースネットワーク.md "wikilink")、1981年9月までの福島中央テレビ（ANNとのクロスネット）、1981年3月までの[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")（FNN・ANNとの[トリプルネット](https://ja.wikipedia.org/wiki/トリプルネット "wikilink")）、1991年3月までのテレビ信州（ANNとのクロスネット）、1982年3月までの[テレビ熊本](../Page/テレビ熊本.md "wikilink")（FNN・ANNとのトリプルネット）、1985年3月までの鹿児島テレビ（FNNとのクロスネット）、及び[テレビ大分](../Page/テレビ大分.md "wikilink")（[FNNとのクロスネット](../Page/フジニュースネットワーク.md "wikilink")）、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")（FNN・ANNとのトリプルネット）では放送されなかったが福島県内・新潟県内・長野県内・熊本県内・大分県内・宮崎県内・鹿児島県内で重大事故・ニュースが発生した場合は[裏送り](https://ja.wikipedia.org/wiki/裏送り "wikilink")で対応していた。福島中央テレビのクロスネット時代は本来の時間帯に『[FCT ニュースロータリー](https://ja.wikipedia.org/wiki/FCT_ニュースロータリー "wikilink")』（『ANNニュースライナー』を内包）を放送していた。
+  - その一方で、[NNNに参加していながら](../Page/日本ニュースネットワーク.md "wikilink")、1981年9月までの福島中央テレビ（ANNとのクロスネット）、1981年3月までの[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")（FNN・ANNとの[トリプルネット](https://ja.wikipedia.org/wiki/トリプルネット "wikilink")）、1991年3月までのテレビ信州（ANNとのクロスネット）、1982年3月までの[テレビ熊本](../Page/テレビ熊本.md "wikilink")（FNN・ANNとのトリプルネット）、1985年3月までの鹿児島テレビ（FNNとのクロスネット）、及び[テレビ大分](../Page/テレビ大分.md "wikilink")（[FNNとのクロスネット](../Page/フジニュースネットワーク.md "wikilink")）、[テレビ宮崎](../Page/テレビ宮崎.md "wikilink")（FNN・ANNとのトリプルネット）では放送されなかったが福島県内・新潟県内・長野県内・熊本県内・大分県内・宮崎県内・鹿児島県内で重大事故・ニュースが発生した場合は[裏送り](../Page/裏送り.md "wikilink")で対応していた。福島中央テレビのクロスネット時代は本来の時間帯に『[FCT ニュースロータリー](https://ja.wikipedia.org/wiki/FCT_ニュースロータリー "wikilink")』（『ANNニュースライナー』を内包）を放送していた。
   - 札幌テレビや中京テレビなど一部系列局では、右下に局ロゴを表示していた。局ロゴではないが、広島テレビの場合は、4代目タイトルの末期から右下に「ひろしま」と入れ、『[NNN昼のニュースひろしま](https://ja.wikipedia.org/wiki/NNN昼のニュースひろしま "wikilink")』としていた。4代目については、タイトルに「ひろしま」と太ゴシック体で入ったものを製作して自社送出で差し替えていたが、5代目からは細ゴシック体でのテロップ表示での対応となり、『ニュースダッシュ』初期まで続いた。中京テレビでは、スポンサーがないときはスポンサークレジット部分で、NNN加盟局の地図テロップを出していた（「[NNN朝のニュース](../Page/NNN朝のニュース.md "wikilink")」も同じ）。
   - 山形放送では一時期、当番組やANNニュースライナー、そして[YBC社説放送](../Page/YBC社説放送.md "wikilink")を包含した、11時から1時間の「YBC昼のニュース」として放送していた時期もある。
 

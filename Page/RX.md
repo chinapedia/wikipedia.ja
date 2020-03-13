@@ -3,7 +3,7 @@
 
 [Rx_symbol_border.svg](https://ja.wikipedia.org/wiki/File:Rx_symbol_border.svg "fig:Rx_symbol_border.svg") **RX**
 
-  - 国際的に[処方箋](https://ja.wikipedia.org/wiki/処方箋 "wikilink")を示す。元は[後期ラテン語](https://ja.wikipedia.org/wiki/後期ラテン語 "wikilink")で「処方する」を意味する recipere の略語 Rc であったがｃが R の足と組み合わさり Rxとなった。[コンピューター](https://ja.wikipedia.org/wiki/コンピューター "wikilink")が扱う文字設定（[文字コード](../Page/文字コード.md "wikilink")）では ℞ という一文字の形でもサポートしている。
+  - 国際的に[処方箋](../Page/処方箋.md "wikilink")を示す。元は[後期ラテン語](https://ja.wikipedia.org/wiki/後期ラテン語 "wikilink")で「処方する」を意味する recipere の略語 Rc であったがｃが R の足と組み合わさり Rxとなった。[コンピューター](https://ja.wikipedia.org/wiki/コンピューター "wikilink")が扱う文字設定（[文字コード](../Page/文字コード.md "wikilink")）では ℞ という一文字の形でもサポートしている。
   - 受信 (receive) （送信はTX）
   - [受信機](../Page/受信機.md "wikilink")
   - [RS-232](../Page/RS-232.md "wikilink")、[EIA-422](../Page/EIA-422.md "wikilink")、[EIA-485](../Page/EIA-485.md "wikilink")など全二重方式で通信する[ICの受信用ポート](../Page/集積回路.md "wikilink")
@@ -48,7 +48,7 @@
 
 ### 楽器
 
-  - KAWAI RXシリーズ - [河合楽器製作所](https://ja.wikipedia.org/wiki/河合楽器製作所 "wikilink")が製造・販売する[グランドピアノ](https://ja.wikipedia.org/wiki/グランドピアノ "wikilink")。
+  - KAWAI RXシリーズ - [河合楽器製作所](../Page/河合楽器製作所.md "wikilink")が製造・販売する[グランドピアノ](../Page/グランドピアノ.md "wikilink")。
 
 ### その他
 

@@ -18,7 +18,7 @@
 
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")\[1\] - 「PEACH-PIT」として作品を発表する。
   - [2000年](../Page/2000年.md "wikilink") - [ブロッコリー原作のゲーム](../Page/ブロッコリー_\(企業\).md "wikilink")『[プリズムパレット](https://ja.wikipedia.org/wiki/プリズムパレット "wikilink")』のコミカライズ作品の連載を開始し、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")として本格的にプロ[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")。
-  - [2001年](../Page/2001年.md "wikilink") - 初のオリジナル長編作となる『[DearS](../Page/DearS.md "wikilink")』の連載を開始（[2005年](https://ja.wikipedia.org/wiki/2005年 "wikilink")完結）。その他、短編作品『みずたま』を執筆。この頃に、ブランドン博士・ディラン教授等の名義を、それぞれ**千道万里**・**えばら渋子**に統一している。
+  - [2001年](../Page/2001年.md "wikilink") - 初のオリジナル長編作となる『[DearS](../Page/DearS.md "wikilink")』の連載を開始（[2005年](../Page/2005年.md "wikilink")完結）。その他、短編作品『みずたま』を執筆。この頃に、ブランドン博士・ディラン教授等の名義を、それぞれ**千道万里**・**えばら渋子**に統一している。
   - [2002年](../Page/2002年.md "wikilink") - 『[Rozen Maiden](https://ja.wikipedia.org/wiki/ローゼンメイデン "wikilink")』『ZOMBIE-LOAN』を立て続けに連載開始、3誌で執筆を掛け持つ。
   - [2006年](../Page/2006年.md "wikilink") - 初の少女漫画『しゅごキャラ\!』を連載開始。
   - [2007年](../Page/2007年.md "wikilink") - 『Rozen Maiden』の執筆を一旦終了するも、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月より掲載誌を移して新連載『ローゼンメイデン』として再開。
@@ -38,7 +38,7 @@
 
 | 作品名       | メイン作画 | 掲載誌                                                                                                | 単行本  |
 | --------- | ----- | -------------------------------------------------------------------------------------------------- | ---- |
-| 暁のヴァンピレス  |       | （[一迅社](https://ja.wikipedia.org/wiki/一迅社 "wikilink")）\[2\]                                         | 既刊2巻 |
+| 暁のヴァンピレス  |       | （[一迅社](../Page/一迅社.md "wikilink")）\[2\]                                                            | 既刊2巻 |
 | 清少納言と申します |       | [BE・LOVE](https://ja.wikipedia.org/wiki/BE・LOVE "wikilink")（[講談社](../Page/講談社.md "wikilink")）\[3\] |      |
 
 ### 過去の漫画作品
@@ -63,7 +63,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/水玉" title="wikilink">みずたま</a></p></td>
 <td><p>えばら渋子</p></td>
-<td><p>月刊<a href="https://ja.wikipedia.org/wiki/ヤングキングアワーズ" title="wikilink">ヤングキングアワーズ</a>（<a href="../Page/少年画報社.md" title="wikilink">少年画報社</a>）</p></td>
+<td><p>月刊<a href="../Page/ヤングキングアワーズ.md" title="wikilink">ヤングキングアワーズ</a>（<a href="../Page/少年画報社.md" title="wikilink">少年画報社</a>）</p></td>
 <td><p>初期作品集『もものたね』</p></td>
 </tr>
 <tr class="odd">
@@ -74,7 +74,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ZOMBIE-LOAN.md" title="wikilink">ZOMBIE-LOAN</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/月刊Gファンタジー" title="wikilink">月刊Gファンタジー</a>（<a href="../Page/スクウェア・エニックス.md" title="wikilink">スクウェア・エニックス</a>）</p></td>
+<td><p><a href="../Page/月刊Gファンタジー.md" title="wikilink">月刊Gファンタジー</a>（<a href="../Page/スクウェア・エニックス.md" title="wikilink">スクウェア・エニックス</a>）</p></td>
 <td><p>全13巻</p></td>
 <td></td>
 </tr>
@@ -146,7 +146,7 @@
 ### 挿絵
 
   - スプラッシュ\!（著：[三田誠](../Page/三田誠.md "wikilink")、[富士見ファンタジア文庫](../Page/富士見ファンタジア文庫.md "wikilink")）
-  - ネオクーロン（著：[鷹見一幸](https://ja.wikipedia.org/wiki/鷹見一幸 "wikilink")、[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")）
+  - ネオクーロン（著：[鷹見一幸](../Page/鷹見一幸.md "wikilink")、[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")）
   - おおかみかくし（原作：コナミデジタルエンタテインメント、著：政木亮、[ガガガ文庫](../Page/ガガガ文庫.md "wikilink")）
   - 暁のヴァンピレス〜アグレイアーデンの緋百合〜（著：[桜井光](https://ja.wikipedia.org/wiki/桜井光 "wikilink")、[一迅社文庫](../Page/一迅社文庫.md "wikilink")）※挿絵だけでなく原作としてもクレジットされている。
 
@@ -163,14 +163,14 @@
 
   - 作画作業は作品ごとに分担しているが、上述のように完全に分かれているわけではなく、漫画完成までの行程には2人による打ち合わせが重ねられている。
   - 『しゅごキャラ！』のキャラクターの体は主に千道が描いている。『ZOMBIE-LOAN』、『ローゼンメイデン』は千道、えばらがそれぞれまるごと描いている。
-  - 2人とも共通して[造形](https://ja.wikipedia.org/wiki/造形 "wikilink")の趣味を持ち、特に[スーパードルフィー](https://ja.wikipedia.org/wiki/スーパードルフィー "wikilink")が気に入っており、『ローゼンメイデン』のヒロイン、「真紅」・「翠星石」・「蒼星石」・「雛苺」・「水銀燈」は限定発売されている。
+  - 2人とも共通して[造形](https://ja.wikipedia.org/wiki/造形 "wikilink")の趣味を持ち、特に[スーパードルフィー](../Page/スーパードルフィー.md "wikilink")が気に入っており、『ローゼンメイデン』のヒロイン、「真紅」・「翠星石」・「蒼星石」・「雛苺」・「水銀燈」は限定発売されている。
   - コンビ名及び旧名は『[ビバリーヒルズ高校白書](../Page/ビバリーヒルズ高校白書.md "wikilink")』に由来している。
-  - 多くの作品が[エブリデイ・マジック](../Page/エブリデイ・マジック.md "wikilink")の要素を持ち、『ローゼンメイデン』や『ZOMBIE-LOAN』での[ラプラスの魔](../Page/ラプラスの悪魔.md "wikilink")・[シュレーディンガーの猫](../Page/シュレーディンガーの猫.md "wikilink")・[アカシックレコード](https://ja.wikipedia.org/wiki/アカシックレコード "wikilink")などといった哲学的な世界観を持つ専門用語を交えての[精神世界](../Page/精神世界.md "wikilink")の描写や、『DearS』などからも、かなりの[SF的センスをもっていることが窺え](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、[人間の尊厳や](../Page/個人の尊厳.md "wikilink")[ジェンダー](../Page/ジェンダー.md "wikilink")を問うような作風がみられる。また、妙に[昭和](../Page/昭和.md "wikilink")的でベタなネーミング（[桜田ジュンや](https://ja.wikipedia.org/wiki/桜田淳子 "wikilink")[ラン・ミキ・スゥ](../Page/キャンディーズ.md "wikilink")）を好む傾向がある。
+  - 多くの作品が[エブリデイ・マジック](../Page/エブリデイ・マジック.md "wikilink")の要素を持ち、『ローゼンメイデン』や『ZOMBIE-LOAN』での[ラプラスの魔](../Page/ラプラスの悪魔.md "wikilink")・[シュレーディンガーの猫](../Page/シュレーディンガーの猫.md "wikilink")・[アカシックレコード](../Page/アカシックレコード.md "wikilink")などといった哲学的な世界観を持つ専門用語を交えての[精神世界](../Page/精神世界.md "wikilink")の描写や、『DearS』などからも、かなりの[SF的センスをもっていることが窺え](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、[人間の尊厳や](../Page/個人の尊厳.md "wikilink")[ジェンダー](../Page/ジェンダー.md "wikilink")を問うような作風がみられる。また、妙に[昭和](../Page/昭和.md "wikilink")的でベタなネーミング（[桜田ジュンや](../Page/桜田淳子.md "wikilink")[ラン・ミキ・スゥ](../Page/キャンディーズ.md "wikilink")）を好む傾向がある。
   - [ペンネーム](../Page/ペンネーム.md "wikilink")を和訳すると「もものたね」になる。これは公式サイトや初期作品集の名前などに使われ、本人たちも「ももたね」と称する事があり、ファンからも「ももたね先生」・「桃種先生」と愛称されている。また、最近は『しゅごキャラ\!』の読者（主に小中学生）から「ぴっとっち」や「ピーチャン」とも呼ばれている。
   - 『しゅごキャラ\!』などの単行本の表紙の裏に載っているPEACH-PITの似顔絵の名前はピーチマン（しゅごキャラ\!12巻より）。
   - 2人には[幽霊](../Page/幽霊.md "wikilink")が見えないらしいが、怪談話は大好きである。
   - えばらは酷い[花粉症](../Page/花粉症.md "wikilink")で、春先は例年仕事の効率が下がるのが悩みの種だったらしい。それゆえ、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の[春](../Page/春.md "wikilink")は、避粉の為に[沖縄県](../Page/沖縄県.md "wikilink")へ 長期滞在して執筆し、打ち合わせなどにのみ千葉に戻る生活を送った。
-  - [2009年](../Page/2009年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")には[講談社](../Page/講談社.md "wikilink")の『[なかよし](../Page/なかよし.md "wikilink")』、[集英社](../Page/集英社.md "wikilink")の『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")の『[月刊Gファンタジー](https://ja.wikipedia.org/wiki/月刊Gファンタジー "wikilink")』の連載を急病により休載した。
+  - [2009年](../Page/2009年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")には[講談社](../Page/講談社.md "wikilink")の『[なかよし](../Page/なかよし.md "wikilink")』、[集英社](../Page/集英社.md "wikilink")の『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")の『[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")』の連載を急病により休載した。
   - 「第二の[CLAMP](../Page/CLAMP.md "wikilink")」と言われることもあるが、CLAMPが4人の「集団」なのに対し、こちらは2人の「ユニット」である。
   - 2010年9月で漫画家10周年を迎え、本人らのサイトで記念の企画をいくつか行っている。
   - チャリティ活動にも取り組んでおり、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の被災者を支援する為に他の漫画家と共同で[東日本大震災チャリティ同人誌「pray for Japan」で執筆する](https://ja.wikipedia.org/wiki/東日本大震災チャリティ同人誌「pray_for_Japan」 "wikilink")\[8\]。

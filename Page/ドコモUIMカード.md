@@ -1,4 +1,4 @@
-> この記事は[UIM](https://ja.wikipedia.org/wiki/UIM)から翻訳されています。
+> この記事は[ドコモUIMカード](https://ja.wikipedia.org/wiki/ドコモUIMカード)から翻訳されています。
 
 
 **ドコモUIMカード**（ドコモユーアイエムカード）は、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[第3世代移動通信システム](../Page/第3世代移動通信システム.md "wikilink")サービス『[FOMA](../Page/FOMA.md "wikilink")』と[第3.9世代移動通信システム](https://ja.wikipedia.org/wiki/第3.9世代移動通信システム "wikilink")サービス『[Xi](https://ja.wikipedia.org/wiki/Xi_\(携帯電話\) "wikilink")』で使われている[SIMカード](../Page/SIMカード.md "wikilink")（[UIMカード](../Page/UIMカード.md "wikilink")）の一種。バージョン3（白色）以前の名称は**FOMAカード**（フォーマカード）であった。

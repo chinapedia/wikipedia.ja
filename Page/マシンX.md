@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[マシンX](https://ja.wikipedia.org/wiki/マシンX)から翻訳されています。
 
 
 [300px](https://ja.wikipedia.org/wiki/ファイル:C210Skyline2000GT.jpg "wikilink") **マシンX**（マシンエックス）とは、[テレビドラマ](../Page/テレビドラマ.md "wikilink")・『[西部警察（PART-I）](../Page/西部警察_\(PART1\).md "wikilink")』第45話から登場した初代大門軍団特殊車両で[日産・スカイライン](../Page/日産・スカイライン.md "wikilink")2000GTターボ（KHGC211型、通称ジャパン）をベースとしている[架空](../Page/架空.md "wikilink")の[車両](../Page/車両.md "wikilink")。谷が一度だけ「ターボ車」と呼んだほか、『[PART-III](../Page/西部警察_PART-III.md "wikilink")』の第47話では「M-X（エム・エックス）」とも呼称されている。

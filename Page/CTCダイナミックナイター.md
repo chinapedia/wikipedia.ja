@@ -1,4 +1,4 @@
-> この記事は[CTC](https://ja.wikipedia.org/wiki/CTC)から翻訳されています。
+> この記事は[CTCダイナミックナイター](https://ja.wikipedia.org/wiki/CTCダイナミックナイター)から翻訳されています。
 
 
 **CTCダイナミックナイター** （*CTC Dynamic Night Games* - シーティーシーダイナミックナイター）は、[千葉テレビ放送](../Page/千葉テレビ放送.md "wikilink")で放送されていた[プロ野球](../Page/プロ野球.md "wikilink")中継番組の呼称。

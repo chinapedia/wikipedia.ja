@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTT東日本硬式野球部](https://ja.wikipedia.org/wiki/NTT東日本硬式野球部)から翻訳されています。
 
 
 **NTT東日本硬式野球部**（エヌティーティーひがしにほんこうしきやきゅうぶ）は、[東京都](../Page/東京都.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に所属する[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。合宿所と練習グラウンドである[NTT東日本船橋グラウンド](../Page/NTT東日本船橋グラウンド.md "wikilink")は、[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")に所在する。

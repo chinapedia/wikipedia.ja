@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA四国大会](https://ja.wikipedia.org/wiki/JABA四国大会)から翻訳されています。
 
 
 **JABA四国大会**（JABAしこくたいかい）は、[日本野球連盟](../Page/日本野球連盟.md "wikilink")の四国地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の大会である。[社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink")選考対象大会の1つである。

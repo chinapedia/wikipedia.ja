@@ -1,4 +1,4 @@
-> この記事は[KLM](https://ja.wikipedia.org/wiki/KLM)から翻訳されています。
+> この記事は[KLMオランダ航空](https://ja.wikipedia.org/wiki/KLMオランダ航空)から翻訳されています。
 
 
 **KLMオランダ航空**（ケイエルエムオランダこうくう、、）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")における[エールフランス‐KLM](../Page/エールフランス‐KLM.md "wikilink")傘下の[航空会社](../Page/航空会社.md "wikilink")。オランダのいわゆる[フラッグ・キャリア](../Page/フラッグ・キャリア.md "wikilink")である\[1\]。[1919年](../Page/1919年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")設立\[2\]。略称の **KLM** のオランダ語での発音は「カーエルエム、カーエレム」に近い。
@@ -27,7 +27,7 @@
 
 ### 運航機材
 
-2019年10月現在、KLMの機材は以下の通りである。
+2020年12月末現在、KLMの機材は以下の通りである。
 
 <center>
 

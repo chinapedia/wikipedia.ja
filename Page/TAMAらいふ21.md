@@ -1,4 +1,4 @@
-> この記事は[TAMA21](https://ja.wikipedia.org/wiki/TAMA21)から翻訳されています。
+> この記事は[TAMAらいふ21](https://ja.wikipedia.org/wiki/TAMAらいふ21)から翻訳されています。
 
 
 **TAMAらいふ21**（たまらいふにじゅういち）は、[多摩地域](../Page/多摩地域.md "wikilink")（[北多摩郡](../Page/北多摩郡.md "wikilink")・[南多摩郡](../Page/南多摩郡.md "wikilink")・[西多摩郡](../Page/西多摩郡.md "wikilink")）の[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")からの[東京府](../Page/東京府.md "wikilink")編入100周年記念を記念して、『「多摩新時代の創造」-世界に開かれた人間都市・東京の新機軸-』をテーマとして、[立川市](../Page/立川市.md "wikilink")を中心に開かれたイベントである\[1\]。1988年（[昭和](../Page/昭和.md "wikilink")63年）をピークに、既に[地方博覧会](https://ja.wikipedia.org/wiki/地方博覧会 "wikilink")ブームは終わっていたこと、[バブル景気](../Page/バブル景気.md "wikilink")がはじけた後だったことから、協賛企業集めに苦労し、テーマがはっきりしていなかったことなどから、CMなどを積極的に打ち、末期には各家庭の郵便受けに無料券を配布までしたにも関わらず、入場者数も低調に終わった。

@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[硝酸鉛\(II\)](https://ja.wikipedia.org/wiki/硝酸鉛\(II\))から翻訳されています。
 
 
 [LeadNitrateCrystalStructure.png](https://ja.wikipedia.org/wiki/File:LeadNitrateCrystalStructure.png "fig:LeadNitrateCrystalStructure.png") **硝酸鉛(II)** （しょうさんなまり に、lead(II) nitrate）とは[鉛](https://ja.wikipedia.org/wiki/鉛 "wikilink")の[硝酸塩](../Page/硝酸塩.md "wikilink")である。化学式は**Pb(NO<sub>3</sub>)<sub>2</sub>**、 [分子量](../Page/分子量.md "wikilink") 331.2、[CAS登録番号](../Page/CAS登録番号.md "wikilink") 10099-74-8、[PRTR法](https://ja.wikipedia.org/wiki/PRTR法 "wikilink")の規制対象物質である。

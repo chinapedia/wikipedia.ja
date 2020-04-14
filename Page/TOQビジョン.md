@@ -1,4 +1,4 @@
-> この記事は[TOQ](https://ja.wikipedia.org/wiki/TOQ)から翻訳されています。
+> この記事は[TOQビジョン](https://ja.wikipedia.org/wiki/TOQビジョン)から翻訳されています。
 
 
 **TOQビジョン**（トーキュービジョン）は、[東急電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")の動画PRサービスで、東急グループの[広告代理店](../Page/広告代理店.md "wikilink")である[東急エージェンシー](https://ja.wikipedia.org/wiki/東急エージェンシー "wikilink")の「OOH\[1\]」部門 が媒体社となって運用している。

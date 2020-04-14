@@ -1,4 +1,4 @@
-> この記事は[SF ](https://ja.wikipedia.org/wiki/SF_)から翻訳されています。
+> この記事は[SFドラマ 猿の軍団](https://ja.wikipedia.org/wiki/SFドラマ_猿の軍団)から翻訳されています。
 
 
 『**SFドラマ 猿の軍団**』（エスエフドラマ さるのぐんだん）は、[1974年](../Page/1974年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1975年](../Page/1975年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[TBS系で毎週日曜日](../Page/TBSテレビ.md "wikilink")19:30 - 20:00に全26話が放送された、[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")製作の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[特撮](../Page/特撮.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")。

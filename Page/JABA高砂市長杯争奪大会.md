@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA高砂市長杯争奪大会](https://ja.wikipedia.org/wiki/JABA高砂市長杯争奪大会)から翻訳されています。
 
 
 **JABA高砂市長杯争奪大会**（JABAたかさごしちょうはいそうだつたいかい）は、[兵庫県](../Page/兵庫県.md "wikilink")[高砂市](../Page/高砂市.md "wikilink")で開催される[社会人野球](../Page/社会人野球.md "wikilink")の大会。近年は[クラブチームのみ出場する大会となっている](../Page/クラブチーム_\(社会人野球\).md "wikilink")。

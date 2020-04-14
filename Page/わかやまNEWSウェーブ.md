@@ -1,4 +1,4 @@
-> この記事は[NEWS](https://ja.wikipedia.org/wiki/NEWS)から翻訳されています。
+> この記事は[わかやまNEWSウェーブ](https://ja.wikipedia.org/wiki/わかやまNEWSウェーブ)から翻訳されています。
 
 
 『**わかやまNEWSウェーブ**』（わかやまニュースウェーブ）は、[NHK和歌山放送局](../Page/NHK和歌山放送局.md "wikilink")が2004年度から7年にわたり[和歌山県](../Page/和歌山県.md "wikilink")内向けに放送した夕方の[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。

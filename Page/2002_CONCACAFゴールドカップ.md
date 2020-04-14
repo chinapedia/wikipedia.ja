@@ -1,4 +1,4 @@
-> この記事は[2002 CONCACAF](https://ja.wikipedia.org/wiki/2002_CONCACAF)から翻訳されています。
+> この記事は[2002 CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/2002_CONCACAFゴールドカップ)から翻訳されています。
 
 
 **2002 CONCACAFゴールドカップ** (2002 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々によって争われる、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink") (CONCACAF) 主催の、第6回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。

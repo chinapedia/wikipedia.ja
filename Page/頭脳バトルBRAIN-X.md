@@ -1,4 +1,4 @@
-> この記事は[BRAIN-X](https://ja.wikipedia.org/wiki/BRAIN-X)から翻訳されています。
+> この記事は[頭脳バトルBRAIN-X](https://ja.wikipedia.org/wiki/頭脳バトルBRAIN-X)から翻訳されています。
 
 
 **頭脳バトルBRAIN-X**（ずのうバトル ブレインエックス）は、[BS日テレで](../Page/BS日本.md "wikilink")、2004年4月から毎週土曜日、夜8時から放送していた双方向[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")。2001年10月～2004年3月まで放送されていた「頭脳バトルBRAIN MAX」を司会の[大鶴義丹](../Page/大鶴義丹.md "wikilink")が降板したため、司会者を置かない形にして、この番組が始まった。 司会の代わりに[垂木勉](../Page/垂木勉.md "wikilink")が出題などのナレーションを担当した。

@@ -1,4 +1,4 @@
-> この記事は[FRIDAY GOES ON! !](https://ja.wikipedia.org/wiki/FRIDAY_GOES_ON!_!)から翻訳されています。
+> この記事は[FRIDAY GOES ON! 〜あっ、それいただきっ!〜](https://ja.wikipedia.org/wiki/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜)から翻訳されています。
 
 
 **FRIDAY GOES ON\! 〜あっ、それいただきっ\!〜**（フライデー ゴーズ オン\! 〜あっ、それいただきっ\!〜）は、[JFNC制作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
@@ -17,7 +17,7 @@
 
 ## ネット局
 
-全て金曜の放送で、それぞれ放送時間の早い順から記載。★印は2020年2月現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアム含む）で聴取可能な放送局。
+全て金曜の放送で、それぞれ放送時間の早い順から記載。★印は2020年4月現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアム含む）で聴取可能な放送局。
 
 ### 現在
 
@@ -45,7 +45,7 @@
 <tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/長野エフエム放送.md" title="wikilink">長野エフエム放送</a>（FM長野）★</p></td>
-<td><p>13:55 - 14:00：エコチル信州応援団</p></td>
+<td><p>13:55 - 14:00：<a href="../Page/積水ハウス.md" title="wikilink">SEKISUI HOUSE</a> presents エコチル信州応援団</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -61,7 +61,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
-<td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）</p></td>
+<td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）★</p></td>
 <td><p>2003年4月4日 - 2005年3月25日<br />
 2013年4月5日 -</p></td>
 <td><p>13:55 - 14:00：ガンガン☆トラベル</p></td>
@@ -90,7 +90,7 @@
 <td><p><a href="../Page/エフエム群馬.md" title="wikilink">エフエム群馬</a>（FM GUNMA）★</p></td>
 <td><p>2016年4月1日 -</p></td>
 <td><p>13:55 - 14:00：MY OLYMPIC α<br />
-14:15 - 14:20：ニュース、交通、天気</p></td>
+14:15 - 14:20：ニュース、交通、天気情報</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -104,7 +104,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
-<td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）</p></td>
+<td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）★</p></td>
 <td><p>14:00 - 15:55[6]</p></td>
 <td><p>2003年4月4日 - 2010年3月26日<br />
 2019年4月5日 -</p></td>
@@ -139,7 +139,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
-<td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）</p></td>
+<td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）★</p></td>
 <td><p>2003年4月4日 - ?<br />
 2011年4月1日 - 2019年3月29日</p></td>
 <td><p>「MIZUKI-SHIGERUのFRIDAY×FRIDAY」放送開始のため、<br />
@@ -163,7 +163,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
-<td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）</p></td>
+<td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）★</p></td>
 <td><p>13:30 - 15:45[14]</p></td>
 <td><p>2003年4月4日 - 2008年3月28日</p></td>
 <td><p>「牛嶋俊明 ドリームファクトリー」の放送開始のため、打ち切り。</p></td>
@@ -219,7 +219,7 @@
 3.  2006年10月から15時台のみネット、2007年9月で打ち切り。2009年4月よりネットを再開し15時台は未ネットしたが、2010年4月改編で14時台のみの放送に変更。2011年10月よりフルネットとなったが、2012年2月 - 2013年12月は15時台は「岐阜活性化プログラム G.F COMPANY」の開始に伴い再び未ネットとなったが、2014年1月に再びフルネットに戻った。
 4.  実質的な当番組の終了時間は「MY OLYMPIC α」開始までの14:55であるが、局発行の番組表では**「MY OLYMPIC α」を内包番組として表記しているため、15:00終了と表記**している。
 5.  2011年1月 - 2012年3月、同年11月 - 2013年3月は13:30 - 14:55の放送だった。
-6.  「石田純一のNo Socks J Life」（13:30 - 13:55）、「Future-lists」（13:55 - 14:00）の放送のため、途中で飛び乗り。
+6.  「石田純一のNo Socks J Life」（13:30 - 13:55）、「ビートルズは終わらない〜The Beatles 4 Ever〜」（13:55 - 14:00）の放送のため、途中で飛び乗り。
 7.  「岩崎敬のラジオロイド」の放送開始のため、打ち切られていたが、同番組の放送終了に伴い、放送再開。
 8.  「MUSIC FOEVER」の放送開始のため、途中で飛び降り。
 9.  2019年3月までは15:00 - 15:55「ちぇけら♪FRIDAY♪」を放送したため、飛び降りていた。

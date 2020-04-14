@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[メンB](https://ja.wikipedia.org/wiki/メンB)から翻訳されています。
 
 
 『**メンB**』（めんびー）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（NTV）系列で放送されていた[コント](../Page/コント.md "wikilink")中心の深夜の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間や曜日は、各系列局ごとに異なっている。関東地区（NTV）では[2004年](../Page/2004年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")に放送開始、[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")終了。タイトルは、裏の顔を意味する「B面」を逆さにした[業界用語](https://ja.wikipedia.org/wiki/業界用語 "wikilink")である。(番組内でアンジャッシュ渡部が説明した。佐久間ほか渡部以外のレギュラーメンバー達はその意味を知らずに出演していた。)

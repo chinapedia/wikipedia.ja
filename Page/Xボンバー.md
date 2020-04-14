@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[Xボンバー](https://ja.wikipedia.org/wiki/Xボンバー)から翻訳されています。
 
 
 『**Xボンバー**』（エックスボンバー）は、[永井豪](../Page/永井豪.md "wikilink")原作によるテレビ番組、漫画および劇中に登場する宇宙船の名称。

@@ -1,4 +1,4 @@
-> この記事は[TUY](https://ja.wikipedia.org/wiki/TUY)から翻訳されています。
+> この記事は[TUYニュースの森やまがた](https://ja.wikipedia.org/wiki/TUYニュースの森やまがた)から翻訳されています。
 
 
 『**TUYニュースの森やまがた**』（ティーユーワイ ニュースのもりやまがた）とは、[2000年](../Page/2000年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[テレビユー山形](../Page/テレビユー山形.md "wikilink")で放送された平日夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組で](../Page/報道番組.md "wikilink")、『[JNNニュースの森](../Page/JNNニュースの森.md "wikilink")』の[山形県](../Page/山形県.md "wikilink")ローカルパートに相当する。

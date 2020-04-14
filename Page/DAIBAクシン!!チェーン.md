@@ -1,4 +1,4 @@
-> この記事は[DAIBA!!](https://ja.wikipedia.org/wiki/DAIBA!!)から翻訳されています。
+> この記事は[DAIBAクシン!!チェーン](https://ja.wikipedia.org/wiki/DAIBAクシン!!チェーン)から翻訳されています。
 
 
 **DAIBAクシン\!\!チェーン**（だいばくしんちぇーん）は[フジテレビにて毎週月](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")～木曜の[平日](../Page/平日.md "wikilink")夕方の午後4時25分～4時30分に放送されていた[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")（[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")～[9月30日](../Page/9月30日.md "wikilink")）。提供は[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")（[セガ・エンタープライゼス（後のセガサミーホールディングス）](../Page/セガサミーホールディングス.md "wikilink")）。

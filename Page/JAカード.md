@@ -1,4 +1,4 @@
-> この記事は[JA](https://ja.wikipedia.org/wiki/JA)から翻訳されています。
+> この記事は[JAカード](https://ja.wikipedia.org/wiki/JAカード)から翻訳されています。
 
 
 **JAカード**（ジェイエーカード）は、[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社（MUN）が[JAバンクと提携し発行する](https://ja.wikipedia.org/wiki/#JAバンク "wikilink")[クレジットカード](../Page/クレジットカード.md "wikilink")である。

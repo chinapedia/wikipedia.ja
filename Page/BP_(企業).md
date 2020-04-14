@@ -1,4 +1,4 @@
-> この記事は[BP \(\)](https://ja.wikipedia.org/wiki/BP_\(\))から翻訳されています。
+> この記事は[BP \(企業\)](https://ja.wikipedia.org/wiki/BP_\(企業\))から翻訳されています。
 
 
 **BP**（ビーピー、英：BP p.l.c.）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")関連事業を展開する[多国籍企業](../Page/多国籍企業.md "wikilink")。[一代貴族](https://ja.wikipedia.org/wiki/一代貴族 "wikilink")を量産してきた[国際石油資本](../Page/国際石油資本.md "wikilink")の典型。[民営化](../Page/民営化.md "wikilink")で進められた垂直的統合により、[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")や[天然ガス](../Page/天然ガス.md "wikilink")の探鉱（[シュルンベルジェ](../Page/シュルンベルジェ.md "wikilink")と連携）から採掘、輸送（[パイプライン](https://ja.wikipedia.org/wiki/パイプライン "wikilink")ふくむ）、[石油精製](../Page/石油精製.md "wikilink")、小売まで一括で行う。他のスーパーメジャーと同じく、裾野がさらに広い。天然ガスの生産とそれを利用した発電事業、[再生可能エネルギー](../Page/再生可能エネルギー.md "wikilink")としての[太陽光発電](../Page/太陽光発電.md "wikilink")・[風力発電](../Page/風力発電.md "wikilink")、[石油化学製品の製造](https://ja.wikipedia.org/wiki/石油化学工業 "wikilink")・販売も手がけている。

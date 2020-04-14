@@ -1,4 +1,4 @@
-> この記事は[NC](https://ja.wikipedia.org/wiki/NC)から翻訳されています。
+> この記事は[NC加工](https://ja.wikipedia.org/wiki/NC加工)から翻訳されています。
 
 
 **NC加工**（エヌシーかこう、[英語](../Page/英語.md "wikilink")：numerical control machining）とは、[数値制御](../Page/数値制御.md "wikilink")（NC）による[機械](../Page/機械.md "wikilink")の[加工](https://ja.wikipedia.org/wiki/加工 "wikilink")方法である。[ドリルなどに代表される切削用工具の刃先の動作を座標値によって定義し](../Page/ドリル_\(工具\).md "wikilink")、その情報をもとに[工作機械](../Page/工作機械.md "wikilink")に内蔵された[サーボモータ](../Page/サーボモータ.md "wikilink")が動くことによって工具や被加工物が動作し、加工が行われる。一連の刃先の加工動作情報をNC装置へ入力する必要があるが、この情報を記述したものを、NC加工NCプログラムと呼ぶ。[JISではNCを](https://ja.wikipedia.org/wiki/日本工業規格 "wikilink")「数値制御工作機械において、工作物に対する工具の位置を、それに対応する数値情報で指令する制御方式」と定義している。

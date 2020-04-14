@@ -1,4 +1,4 @@
-> この記事は[JX-ENEOS](https://ja.wikipedia.org/wiki/JX-ENEOS)から翻訳されています。
+> この記事は[JX-ENEOS野球部](https://ja.wikipedia.org/wiki/JX-ENEOS野球部)から翻訳されています。
 
 
 **JX-ENEOS野球部**（ジェイエックスエネオスやきゅうぶ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。

@@ -1,4 +1,4 @@
-> この記事は[UGA \(\)](https://ja.wikipedia.org/wiki/UGA_\(\))から翻訳されています。
+> この記事は[UGA \(カラオケ\)](https://ja.wikipedia.org/wiki/UGA_\(カラオケ\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:UGA-01.JPG "wikilink") **UGA**（ウガ、**Ultra Gorgeous Audio system**）は、[エクシング](../Page/エクシング.md "wikilink")が運用する[通信カラオケ](../Page/通信カラオケ.md "wikilink")機器、および通信カラオケ機種のブランドである。

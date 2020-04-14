@@ -1,4 +1,4 @@
-> この記事は[ \(BD7\)](https://ja.wikipedia.org/wiki/_\(BD7\))から翻訳されています。
+> この記事は[少年探偵団 \(BD7\)](https://ja.wikipedia.org/wiki/少年探偵団_\(BD7\))から翻訳されています。
 
 
 『**少年探偵団**』（しょうねんたんていだん）は、[1975年](../Page/1975年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1976年](../Page/1976年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、[日本テレビ系で毎週土曜日](../Page/日本テレビ放送網.md "wikilink")18：00-18:30に放送した[特撮](../Page/特撮.md "wikilink")番組。全26話。

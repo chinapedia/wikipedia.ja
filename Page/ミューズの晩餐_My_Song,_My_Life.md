@@ -1,4 +1,4 @@
-> この記事は[ My Song, My Life](https://ja.wikipedia.org/wiki/_My_Song,_My_Life)から翻訳されています。
+> この記事は[ミューズの晩餐 My Song, My Life](https://ja.wikipedia.org/wiki/ミューズの晩餐_My_Song,_My_Life)から翻訳されています。
 
 
 『**ミューズの晩餐 My Song, My Life**』（ミューズのばんさん マイ・ソング マイ・ライフ）は、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")のタイトル。
@@ -38,7 +38,7 @@
 
 ## 外部リンク
 
-  - [ミューズの楽譜 My Song, My Life](http://www.tv-tokyo.co.jp/muse/)
-  - [ミューズの晩餐 My Song, My Life](http://www.tv-tokyo.co.jp/bansan/)
+  - [ミューズの楽譜 My Song, My Life](https://www.tv-tokyo.co.jp/muse/)
+  - [ミューズの晩餐 My Song, My Life](https://www.tv-tokyo.co.jp/bansan/)
 
 [Category:2008年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2008年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:テレビ東京の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の音楽番組 "wikilink") [Category:テレビ東京の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の一社提供番組 "wikilink") [Category:大和ハウスグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:大和ハウスグループ単独提供番組 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink")

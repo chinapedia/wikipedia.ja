@@ -1,4 +1,4 @@
-> この記事は[DCM](https://ja.wikipedia.org/wiki/DCM)から翻訳されています。
+> この記事は[DCMサンワ](https://ja.wikipedia.org/wiki/DCMサンワ)から翻訳されています。
 
 
 <div class="pathnavbox">

@@ -1,4 +1,4 @@
-> この記事は[H.C.](https://ja.wikipedia.org/wiki/H.C.)から翻訳されています。
+> この記事は[H.C.栃木日光アイスバックス](https://ja.wikipedia.org/wiki/H.C.栃木日光アイスバックス)から翻訳されています。
 
 
 **H.C.栃木日光アイスバックス**（ホッケークラブ とちぎ にっこうアイスバックス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[日光市](../Page/日光市.md "wikilink")にホームを置く、[アジアリーグアイスホッケー](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")に加盟する現在の日本では唯一のプロ[アイスホッケー](../Page/アイスホッケー.md "wikilink")クラブである。

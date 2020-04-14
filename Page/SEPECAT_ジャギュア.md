@@ -1,4 +1,4 @@
-> この記事は[SEPECAT ](https://ja.wikipedia.org/wiki/SEPECAT_)から翻訳されています。
+> この記事は[SEPECAT ジャギュア](https://ja.wikipedia.org/wiki/SEPECAT_ジャギュア)から翻訳されています。
 
 
 **SEPECAT ジャギュア**（SEPECAT Jaguar）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")と[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")が共同開発した[訓練機および](../Page/練習機.md "wikilink")[超音速軽攻撃機](../Page/攻撃機.md "wikilink")。名称の由来は、[日本語](../Page/日本語.md "wikilink")で[ジャガー](../Page/ジャガー.md "wikilink")と呼ばれる動物だが、この訓練・攻撃機を指す場合はジャギュアと表記される。[イギリス英語](../Page/イギリス英語.md "wikilink")でジャギュア（）、[アメリカ英語](../Page/アメリカ英語.md "wikilink")ではジャグヮー（）であり\[1\]、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")では「ジャグワール」と発音する。
@@ -35,20 +35,15 @@
 
 ファイル:Jaguar (41831816155).jpg|ジャギュア(単座型) ファイル:Jaguar 3 (18811881395).jpg|ジャギュア([2015年](../Page/2015年.md "wikilink")度のコスフォード航空ショーに参加した機体) ファイル:SEPECAT Jaguar GR1 XZ382 (7221187198).jpg|ゲートガードとして保存されている機体 ファイル:SEPECAT Jaguar T2A XX829 (14627166593).jpg|ジャギュアT.2A(機体番号XX829号)
 
-  - ジャギュア A
-    [フランス空軍](../Page/フランス空軍.md "wikilink")向け単座[攻撃機](../Page/攻撃機.md "wikilink")型。
-  - ジャギュア B
-    フランス空軍向け複座操縦転換訓練型。
-  - ジャギュア M
-    [フランス海軍](../Page/フランス海軍.md "wikilink")向け単座攻撃機型。試作のみ。
-  - ジャギュア S（GR Mk.1）
+  -
+    ジャギュア S（GR Mk.1）
     [イギリス空軍](../Page/イギリス空軍.md "wikilink")向け単座攻撃機型。[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")ではGR Mk.1と呼ぶ。
       - ジャギュア GR Mk.1A
         GR Mk.1の能力向上型。
           - ジャギュア GR Mk.1B
             GR Mk.1Aに[TIALDの携行能力を与えたタイプ](https://ja.wikipedia.org/wiki/:en:TIALD "wikilink")。
-  - ジャギュア E（T Mk.2）
-    イギリス空軍向け複座[練習機](../Page/練習機.md "wikilink")型。イギリスではT Mk.2と呼ぶ。
+  - ジャギュア T Mk.2
+    イギリス空軍向け複座[練習機](../Page/練習機.md "wikilink")型。
       - ジャギュア T Mk.2A
         T Mk.2の能力向上型。
           - ジャギュア T Mk.2B
@@ -61,6 +56,14 @@
         T Mk.2の近代化改修型。
       - ジャギュア インターナショナル
         S型をベースにした輸出型。[エンジン](../Page/エンジン.md "wikilink")を強力なものに換装している。
+    **ジャギュア A**
+    [フランス空軍](../Page/フランス空軍.md "wikilink")向け単座[攻撃機](../Page/攻撃機.md "wikilink")型。
+  - ジャギュア B
+    フランス空軍向け複座操縦転換訓練型。
+    **ジャギュア E**
+    フランス空軍向け複座[練習機](../Page/練習機.md "wikilink")型。
+  - ジャギュア M
+    [フランス海軍](../Page/フランス海軍.md "wikilink")向け単座攻撃機型。試作のみ。
   - ジャギュア IM
     [インド](../Page/インド.md "wikilink")において[ライセンス生産](../Page/ライセンス生産.md "wikilink")されたタイプ。エンジンを強化し、[レーダー](../Page/レーダー.md "wikilink")を換装している。[インド空軍](../Page/インド空軍.md "wikilink")ではシャムシャー (Shamsher) と呼ぶ。
 

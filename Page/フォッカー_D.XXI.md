@@ -1,4 +1,4 @@
-> この記事は[ D.XXI](https://ja.wikipedia.org/wiki/_D.XXI)から翻訳されています。
+> この記事は[フォッカー D.XXI](https://ja.wikipedia.org/wiki/フォッカー_D.XXI)から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=フォッカー D-XXI | 画像=<File:Fokker> D.XXI Soesterberg.jpg | キャプション=オランダ空軍Soesterberg基地にて | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者= | 製造者=[フォッカー](../Page/フォッカー.md "wikilink")社 | 運用者=[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")（[オランダ空軍](https://ja.wikipedia.org/wiki/オランダ空軍 "wikilink")） | 運用者 more= | 初飛行年月日=[1936年](../Page/1936年.md "wikilink") | 生産数= | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況= | ユニットコスト= }} [Фоккер_D_XXI.jpg](https://ja.wikipedia.org/wiki/File:Фоккер_D_XXI.jpg "fig:Фоккер_D_XXI.jpg") **フォッカー D-21**は[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")初期の[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[戦闘機](../Page/戦闘機.md "wikilink")である。[1936年](../Page/1936年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に初飛行した。胴体は鋼管溶接骨組みに前半は金属外皮、後半は羽布張り、木製主翼に固定脚という構成である。

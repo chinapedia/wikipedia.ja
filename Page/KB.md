@@ -22,7 +22,7 @@
   - Korean Boatの略。[不審船](../Page/不審船.md "wikilink")を参照。
   - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』及び後継番組『[オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")』の採点方法（キロバトル）。
   - [キックボクシング](../Page/キックボクシング.md "wikilink")の略称。
-  - [ハンガリー語](https://ja.wikipedia.org/wiki/ハンガリー語 "wikilink")「」（＝[およそ](https://ja.wikipedia.org/wiki/wikt:およそ "wikilink")）の省略形。
+  - [ハンガリー語](../Page/ハンガリー語.md "wikilink")「」（＝[およそ](https://ja.wikipedia.org/wiki/wikt:およそ "wikilink")）の省略形。
 
 ### 固有名詞
 

@@ -1,4 +1,4 @@
-> この記事は[SBD \(\)](https://ja.wikipedia.org/wiki/SBD_\(\))から翻訳されています。
+> この記事は[SBD \(航空機\)](https://ja.wikipedia.org/wiki/SBD_\(航空機\))から翻訳されています。
 
 
 **SBD ドーントレス**（*Douglas SBD Dauntless* ）は、[ダグラス社が開発し](../Page/ダグラス・エアクラフト.md "wikilink")、第二次世界大戦期にアメリカ海軍で運用された偵察爆撃機。

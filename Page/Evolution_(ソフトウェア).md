@@ -1,4 +1,4 @@
-> この記事は[Evolution \(\)](https://ja.wikipedia.org/wiki/Evolution_\(\))から翻訳されています。
+> この記事は[Evolution \(ソフトウェア\)](https://ja.wikipedia.org/wiki/Evolution_\(ソフトウェア\))から翻訳されています。
 
 
 **Evolution**（**エボリューション**。以前は**Novell Evolution**）は、[GNOME](../Page/GNOME.md "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")標準の[個人情報管理ツールかつワークグループ管理ツールで](../Page/Personal_Information_Manager.md "wikilink")、[メールクライアント](../Page/電子メールクライアント.md "wikilink")、[カレンダー](../Page/カレンダー.md "wikilink")、アドレス管理、タスク管理機能などを備えている。GNOME 2.8から正式にGNOMEの一部となった。[ノベルが](../Page/ノベル_\(企業\).md "wikilink")[スポンサー](../Page/スポンサー.md "wikilink")となって開発が進められていた。ノベルが[Ximian](https://ja.wikipedia.org/wiki/Ximian "wikilink")を買収する[2003年](../Page/2003年.md "wikilink")以前は、**Ximian Evolution**と名乗っていた。

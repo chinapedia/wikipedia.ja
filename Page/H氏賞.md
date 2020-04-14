@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[H氏賞](https://ja.wikipedia.org/wiki/H氏賞)から翻訳されています。
 
 
 **H氏賞**（エイチししょう）は[日本現代詩人会](https://ja.wikipedia.org/wiki/日本現代詩人会 "wikilink")が主催する、新人の優れた[現代詩](../Page/現代詩.md "wikilink")の[詩人](../Page/詩人.md "wikilink")の[詩集](https://ja.wikipedia.org/wiki/詩集 "wikilink")を広く社会に推奨することを目的とした[文学賞](../Page/文学賞.md "wikilink")。**詩壇の[芥川賞](https://ja.wikipedia.org/wiki/芥川賞 "wikilink")**とも呼ばれる。

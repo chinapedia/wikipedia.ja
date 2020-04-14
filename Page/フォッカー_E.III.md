@@ -1,4 +1,4 @@
-> この記事は[ E.III](https://ja.wikipedia.org/wiki/_E.III)から翻訳されています。
+> この記事は[フォッカー E.III](https://ja.wikipedia.org/wiki/フォッカー_E.III)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Fokker_EIII_210-16.jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:FokkerEIII.jpg "wikilink") **フォッカー E.III**（）は[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")初期の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[戦闘機](../Page/戦闘機.md "wikilink")である。機銃同調装置を初めて搭載し、固定銃を装備して敵の航空機を撃墜する機体として量産された世界初の戦闘機\[1\]。

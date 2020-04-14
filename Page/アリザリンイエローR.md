@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[アリザリンイエローR](https://ja.wikipedia.org/wiki/アリザリンイエローR)から翻訳されています。
 
 
 | Section2 =  | Section3 =  }}

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[トヨタ・マークX](https://ja.wikipedia.org/wiki/トヨタ・マークX)から翻訳されています。
 
 
 **マークX**（マークエックス、*MARK X*）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")がかつて製造・販売していた4ドア[セダン](../Page/セダン.md "wikilink")である。生産工場は当初、[岩手県](../Page/岩手県.md "wikilink")の[金ケ崎町](../Page/金ケ崎町.md "wikilink")（岩手県[胆沢郡](../Page/胆沢郡.md "wikilink")）にある[関東自動車工業](../Page/関東自動車工業.md "wikilink")（現：[トヨタ自動車東日本](https://ja.wikipedia.org/wiki/トヨタ自動車東日本 "wikilink")）の岩手工場、および[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の元町工場であったが、初代モデルの途中から元町工場のみの生産となった。

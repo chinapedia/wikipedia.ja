@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[Zゲージ](https://ja.wikipedia.org/wiki/Zゲージ)から翻訳されています。
 
 
 **Zゲージ**（ゼットゲージ）とは[鉄道模型](../Page/鉄道模型.md "wikilink")の規格のひとつ。**Zスケール**とも呼ばれる。

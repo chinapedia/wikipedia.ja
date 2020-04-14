@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[エリザベス・H・ブラックバーン](https://ja.wikipedia.org/wiki/エリザベス・H・ブラックバーン)から翻訳されています。
 
 
 **エリザベス・H・ブラックバーン**（**Elizabeth Helen Blackburn**, [1948年](../Page/1948年.md "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")。[テトラヒメナ](../Page/テトラヒメナ.md "wikilink")から[テロメア](../Page/テロメア.md "wikilink")配列を同定し、テロメアを伸長する[酵素](../Page/酵素.md "wikilink")・[テロメラーゼ](../Page/テロメラーゼ.md "wikilink")を発見した業績で知られる。[2009年](../Page/2009年.md "wikilink")、[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")受賞。

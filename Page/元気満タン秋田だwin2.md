@@ -1,4 +1,4 @@
-> この記事は[win2](https://ja.wikipedia.org/wiki/win2)から翻訳されています。
+> この記事は[元気満タン秋田だwin2](https://ja.wikipedia.org/wiki/元気満タン秋田だwin2)から翻訳されています。
 
 
 **元気満タン秋田だwin2**（げんきまんたんあきただういんず）は、[秋田放送](https://ja.wikipedia.org/wiki/秋田放送 "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")の、月曜 - 金曜日の12:20～15:25に放送された昼ワイド番組である。中継車[ラジPAL](https://ja.wikipedia.org/wiki/ラジPAL "wikilink")による街頭中継も行われていた。

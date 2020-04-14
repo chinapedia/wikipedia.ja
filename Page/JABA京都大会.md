@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA京都大会](https://ja.wikipedia.org/wiki/JABA京都大会)から翻訳されています。
 
 
 [300px](https://ja.wikipedia.org/wiki/ファイル:Nishikyogoku_nighter.jpg "wikilink")

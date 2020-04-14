@@ -1,4 +1,4 @@
-> この記事は[PRTR](https://ja.wikipedia.org/wiki/PRTR)から翻訳されています。
+> この記事は[PRTR制度](https://ja.wikipedia.org/wiki/PRTR制度)から翻訳されています。
 
 
 **PRTR制度**（ぴーあーるてぃーあーるせいど）は、有害性が疑われる[化学物質](../Page/化学物質.md "wikilink")が、どこから、どのくらい、[環境](../Page/環境.md "wikilink")（[大気](https://ja.wikipedia.org/wiki/大気 "wikilink")・[水域](../Page/水域.md "wikilink")・[土壌](../Page/土壌.md "wikilink")など）中へ排出されているか（[排出量](https://ja.wikipedia.org/wiki/排出量 "wikilink")）、[廃棄物](../Page/廃棄物.md "wikilink")などとして移動しているか（[移動量](https://ja.wikipedia.org/wiki/移動量 "wikilink")）を把握し、集計・公表する仕組み。事業者の化学物質管理を促進したり、化学物質リスクコミュニケーションの基礎資料となったりして、環境中の化学物質のリスク低減を目的とする。

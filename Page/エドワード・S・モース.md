@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[エドワード・S・モース](https://ja.wikipedia.org/wiki/エドワード・S・モース)から翻訳されています。
 
 
 **エドワード・シルヴェスター・モース**（**Edward Sylvester Morse**、[1838年](../Page/1838年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink") - [1925年](../Page/1925年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")）は、[アメリカの動物学者](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。標本採集に来日し、請われて[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の[お雇い教授を](../Page/お雇い外国人.md "wikilink")2年務め、大学の社会的・国際的姿勢の確立に尽力した。[大森貝塚](../Page/大森貝塚.md "wikilink")を発掘し、日本の人類学、考古学の基礎をつくった\[1\]。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に初めて、[ダーウィンの](../Page/チャールズ・ダーウィン.md "wikilink")[進化論](../Page/進化論.md "wikilink")を体系的に紹介した。名字の「モース」は「**モールス**」とも書かれる。

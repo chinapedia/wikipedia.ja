@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[日本SF作家クラブ](https://ja.wikipedia.org/wiki/日本SF作家クラブ)から翻訳されています。
 
 
 **日本SF作家クラブ**（にほんSFさっかクラブ、**SFWJ** : Science Fiction and Fantasy Writers of Japan）は、[1963年](../Page/1963年.md "wikilink")発足の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")・翻訳者や評論家、編集者による親睦団体であった。2017年8月24日に[一般社団法人](https://ja.wikipedia.org/wiki/一般社団法人 "wikilink")化した。
@@ -176,6 +176,11 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/藤井太洋" title="wikilink">藤井太洋</a>(2015/09～)</p></td>
 <td><p>森岡浩之→YOUCHAN</p></td>
 </tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p><a href="../Page/林譲治_(作家).md" title="wikilink">林譲治</a>(2018/09～)</p></td>
+<td><p>鬼嶋清美</p></td>
+</tr>
 </tbody>
 </table></td>
 </tr>
@@ -229,7 +234,8 @@ SF作家クラブでは一つの不文律ができあがっていた。星新一
 <!-- end list -->
 
   - [大森望](../Page/大森望.md "wikilink")
-    2014年4月に日本SF大賞特別賞を受賞、その結果無推薦入会動議がクラブ総会にかけられたが、1/3以上の反対票により入会が認められなかった。これによりクラブ選考による賞は与えられたが入会を拒否されたという立場となった。大森は1992年にも同様に入会が却下されており、これらの経緯はすべて[小谷真理](https://ja.wikipedia.org/wiki/小谷真理 "wikilink")および[巽孝之](../Page/巽孝之.md "wikilink")との確執が原因とされた\[49\]\[50\]。さらに、このような事が起こる一方で声優の[池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")を「ファン代表」のような形で入会させているのはおかしいという主張をするものもいた\[51\]（なお実際には、池澤は2009年以降[本の雑誌](https://ja.wikipedia.org/wiki/本の雑誌 "wikilink")や[SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")に書評エッセイ連載を持つ文筆家であり、会則通りの通常の手続きを経て入会している。また、入会翌年の2014年には単独著書として書評集を出版している）。これらの過程で「排他的体質」([東浩紀](../Page/東浩紀.md "wikilink"))、「サークルの雰囲気優先」([我孫子武丸](../Page/我孫子武丸.md "wikilink"))などと批判が続出し\[52\]、[牧野修](../Page/牧野修.md "wikilink")・[菅浩江](../Page/菅浩江.md "wikilink")・[図子慧](https://ja.wikipedia.org/wiki/図子慧 "wikilink")・[福田和代](https://ja.wikipedia.org/wiki/福田和代 "wikilink")・[小川一水](../Page/小川一水.md "wikilink")・[我孫子武丸](../Page/我孫子武丸.md "wikilink")・[倉阪鬼一郎](../Page/倉阪鬼一郎.md "wikilink")・[森下一仁](../Page/森下一仁.md "wikilink")らが一斉退会するという事態に発展した\[53\]。（退会者のうち、牧野修は、2016年『月世界小説』で第35回[日本SF大賞](../Page/日本SF大賞.md "wikilink")・特別賞受賞。）さらに、この事件の前後に、[山田正紀](../Page/山田正紀.md "wikilink")、[堀晃](../Page/堀晃.md "wikilink")、[東浩紀](../Page/東浩紀.md "wikilink")、[笠井潔](../Page/笠井潔.md "wikilink")、[横田順彌](../Page/横田順彌.md "wikilink")、[神林長平](../Page/神林長平.md "wikilink")、[上田早夕里](../Page/上田早夕里.md "wikilink")、[田中啓文](../Page/田中啓文.md "wikilink")らも退会していた（このうち山田・神林は元会長）。
+    2014年4月に日本SF大賞特別賞を受賞、その結果無推薦入会動議がクラブ総会にかけられたが、1/3以上の反対票により入会が認められなかった。これによりクラブ選考による賞は与えられたが入会を拒否されたという立場となった。大森は1992年にも同様に入会が却下されており、これらの経緯はすべて[小谷真理](https://ja.wikipedia.org/wiki/小谷真理 "wikilink")および[巽孝之](../Page/巽孝之.md "wikilink")との確執が原因とされた\[49\]\[50\]。さらに、このような事が起こる一方で声優の[池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")を「ファン代表」のような形で入会させているのはおかしいという主張をするものもいた\[51\]（なお実際には、池澤は2009年以降[本の雑誌](https://ja.wikipedia.org/wiki/本の雑誌 "wikilink")や[SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")に書評エッセイ連載を持つ文筆家であり、会則通りの通常の手続きを経て入会している。また、入会翌年の2014年には単独著書として書評集を出版している）。これらの過程で「排他的体質」([東浩紀](../Page/東浩紀.md "wikilink"))、「サークルの雰囲気優先」([我孫子武丸](../Page/我孫子武丸.md "wikilink"))などと批判が続出し\[52\]、[牧野修](../Page/牧野修.md "wikilink")・[菅浩江](../Page/菅浩江.md "wikilink")・[図子慧](https://ja.wikipedia.org/wiki/図子慧 "wikilink")・[福田和代](https://ja.wikipedia.org/wiki/福田和代 "wikilink")・[小川一水](../Page/小川一水.md "wikilink")・[我孫子武丸](../Page/我孫子武丸.md "wikilink")・[倉阪鬼一郎](../Page/倉阪鬼一郎.md "wikilink")・[森下一仁](../Page/森下一仁.md "wikilink")らが一斉退会するという事態に発展した\[53\]。（退会者のうち、牧野修は、2016年に『月世界小説』で第35回[日本SF大賞](../Page/日本SF大賞.md "wikilink")・特別賞受賞。小川一水は2020年に『天冥の標』シリーズで第40回日本SF大賞を受賞。）さらに、この事件の前後に、[山田正紀](../Page/山田正紀.md "wikilink")、[堀晃](../Page/堀晃.md "wikilink")、[東浩紀](../Page/東浩紀.md "wikilink")、[笠井潔](../Page/笠井潔.md "wikilink")、[横田順彌](../Page/横田順彌.md "wikilink")、[神林長平](../Page/神林長平.md "wikilink")、[上田早夕里](../Page/上田早夕里.md "wikilink")、[田中啓文](../Page/田中啓文.md "wikilink")らも退会していた（このうち山田・神林は元会長）。
+    大森は、2020年、第40回日本SF大賞において、[日下三蔵](../Page/日下三蔵.md "wikilink")と共編の『年刊日本SF傑作選』により、再度、特別賞を受賞。
 
 ## 「日本SF作家クラブ」名義の書籍
 
@@ -238,6 +244,7 @@ SF作家クラブでは一つの不文律ができあがっていた。星新一
   - 『日本SF作家クラブ40年史: 日本SF作家クラブ40周年記念誌: 1963～2003』 日本SF作家クラブ, 2007
   - 『世界のSFがやって来た\!\!: ニッポンコン・ファイル2007: [第65回ワールドコン/第46回日本SF大会Nippon 2007](../Page/第65回世界SF大会.md "wikilink")』 日本SF作家クラブ編, [小松左京](../Page/小松左京.md "wikilink")監修, 角川春樹事務所 2008
   - 『日本SF短篇50: 日本SF作家クラブ創立50周年記念アンソロジー』全5巻 日本SF作家クラブ編, 早川書房 2013 (ハヤカワ文庫 JA)
+      - 編集担当は、[北原尚彦](https://ja.wikipedia.org/wiki/北原尚彦 "wikilink")、[星敬](https://ja.wikipedia.org/wiki/星敬 "wikilink")、[山岸真](../Page/山岸真.md "wikilink")、[日下三蔵](../Page/日下三蔵.md "wikilink")
   - 『SF JACK』 日本SF作家クラブ編, 角川書店 2013　のち文庫
   - 『未来力養成教室』 日本SF作家クラブ編, 岩波書店 2013 (岩波ジュニア新書)
   - 『国際SFシンポジウム全記録: 冷戦以後から3・11 以後へ』日本SF作家クラブ編, [巽孝之](../Page/巽孝之.md "wikilink")監修、彩流社 2015

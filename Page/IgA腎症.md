@@ -1,4 +1,4 @@
-> この記事は[IgA](https://ja.wikipedia.org/wiki/IgA)から翻訳されています。
+> この記事は[IgA腎症](https://ja.wikipedia.org/wiki/IgA腎症)から翻訳されています。
 
 
 **IgA腎症**（アイジーエーじんしょう、）は、主に[免疫グロブリンの一種である](../Page/抗体.md "wikilink")[IgAが免疫複合体を形成し](../Page/免疫グロブリンA.md "wikilink")、腎[糸球体](../Page/糸球体.md "wikilink")[メサンギウム](https://ja.wikipedia.org/wiki/メサンギウム "wikilink")領域に沈着することを特徴とする[疾患](https://ja.wikipedia.org/wiki/疾患 "wikilink")である。 [1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のベルジェらが提唱したことによりベルジェ病とも言われる。

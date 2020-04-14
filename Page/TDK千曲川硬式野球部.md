@@ -1,4 +1,4 @@
-> この記事は[TDK](https://ja.wikipedia.org/wiki/TDK)から翻訳されています。
+> この記事は[TDK千曲川硬式野球部](https://ja.wikipedia.org/wiki/TDK千曲川硬式野球部)から翻訳されています。
 
 
 **TDK千曲川硬式野球部**（ティーディーケーちくまがわこうしきやきゅうぶ）は、[長野県](../Page/長野県.md "wikilink")[佐久市](../Page/佐久市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟していた[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。のシーズン開幕前に解散した。

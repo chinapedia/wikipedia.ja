@@ -1,4 +1,4 @@
-> この記事は[MPD](https://ja.wikipedia.org/wiki/MPD)から翻訳されています。
+> この記事は[MPDアークジェット](https://ja.wikipedia.org/wiki/MPDアークジェット)から翻訳されています。
 
 
 [Self-field_MPD_thruster-CGI_illustration.jpeg](https://ja.wikipedia.org/wiki/File:Self-field_MPD_thruster-CGI_illustration.jpeg "fig:Self-field_MPD_thruster-CGI_illustration.jpeg") **MPDアークジェット**（Magnetoplasmadynamic thruster）は主に同軸構造を持つ陰極（[カソード](../Page/カソード.md "wikilink")）、陽極（[アノード](https://ja.wikipedia.org/wiki/アノード "wikilink")）間に数kAの大電流を流すことにより、推進剤を電離し高密度の[プラズマ](https://ja.wikipedia.org/wiki/プラズマ "wikilink")を生成すると同時に、電極間に流れる放電電流と[アンペールの法則](../Page/アンペールの法則.md "wikilink")によってその電流周りに生み出される磁力との相互作用（[ローレンツ力](../Page/ローレンツ力.md "wikilink")）により、生成したプラズマを強制排気するというコンセプトの推進機である。

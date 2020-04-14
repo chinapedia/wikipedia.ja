@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[ハードSF研究所](https://ja.wikipedia.org/wiki/ハードSF研究所)から翻訳されています。
 
 
 **ハードSF研究所**（ハードエスエフけんきゅうじょ、Hard SF Laboratory）は、1982年5月にSF作家[石原藤夫](../Page/石原藤夫.md "wikilink")によって設立された、[ハードSF](../Page/ハードSF.md "wikilink")及び本格[SFの研究](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")、ハードSFの振興を目的とするSFファンクラブである。主宰は石原藤夫、所長は[竹本一男](https://ja.wikipedia.org/wiki/竹本一男 "wikilink")。

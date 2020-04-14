@@ -1,4 +1,4 @@
-> この記事は[ \(GNOME\)](https://ja.wikipedia.org/wiki/_\(GNOME\))から翻訳されています。
+> この記事は[ファイル \(GNOME\)](https://ja.wikipedia.org/wiki/ファイル_\(GNOME\))から翻訳されています。
 
 
 **ファイル**（以前は**Nautilus**）は[GNOME](../Page/GNOME.md "wikilink")デスクトップの標準[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインターフェース "wikilink")[ファイルマネージャ](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")。[GVfs](https://ja.wikipedia.org/wiki/GVfs "wikilink")を通して[Samba](../Page/Samba.md "wikilink")、[NFSなどのリモート](../Page/Network_File_System.md "wikilink")[ファイルシステム](../Page/ファイルシステム.md "wikilink")に透過的にアクセスすることもできる。オプションでフォルダ内に[ウェブサイト](../Page/ウェブサイト.md "wikilink")を表示することもできる。

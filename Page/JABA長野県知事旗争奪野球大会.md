@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA長野県知事旗争奪野球大会](https://ja.wikipedia.org/wiki/JABA長野県知事旗争奪野球大会)から翻訳されています。
 
 
 **JABA長野県知事旗争奪野球大会**（JABAながのけんちじきそうだつやきゅうたいかい）は、[日本野球連盟](../Page/日本野球連盟.md "wikilink")の北信越地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の大会である。略称は「JABA長野大会」。

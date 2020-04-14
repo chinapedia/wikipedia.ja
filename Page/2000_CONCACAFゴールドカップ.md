@@ -1,4 +1,4 @@
-> この記事は[2000 CONCACAF](https://ja.wikipedia.org/wiki/2000_CONCACAF)から翻訳されています。
+> この記事は[2000 CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/2000_CONCACAFゴールドカップ)から翻訳されています。
 
 
 **2000 CONCACAFゴールドカップ** (2000 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の代表チームによって争われた、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink") (CONCACAF) 主催の、第5回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。

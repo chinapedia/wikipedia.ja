@@ -1,4 +1,4 @@
-> この記事は[2003 CONCACAF](https://ja.wikipedia.org/wiki/2003_CONCACAF)から翻訳されています。
+> この記事は[2003 CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/2003_CONCACAFゴールドカップ)から翻訳されています。
 
 
 **2003 CONCACAFゴールドカップ** (2003 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々によって争われる、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink") (CONCACAF) 主催の、第7回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。

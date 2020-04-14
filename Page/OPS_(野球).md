@@ -1,4 +1,4 @@
-> この記事は[OPS \(\)](https://ja.wikipedia.org/wiki/OPS_\(\))から翻訳されています。
+> この記事は[OPS \(野球\)](https://ja.wikipedia.org/wiki/OPS_\(野球\))から翻訳されています。
 
 
 **OPS**（オプス、オーピーエス）は *On-base plus slugging* の略であり、[野球](../Page/野球.md "wikilink")において[打者](../Page/打者.md "wikilink")を評価する指標の1つ。[出塁率](../Page/出塁率.md "wikilink")と[長打率](../Page/長打率.md "wikilink")とを足し合わせた値である。

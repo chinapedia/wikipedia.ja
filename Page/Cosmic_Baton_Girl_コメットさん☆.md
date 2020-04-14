@@ -1,4 +1,4 @@
-> この記事は[Cosmic Baton Girl ](https://ja.wikipedia.org/wiki/Cosmic_Baton_Girl_)から翻訳されています。
+> この記事は[Cosmic Baton Girl コメットさん☆](https://ja.wikipedia.org/wiki/Cosmic_Baton_Girl_コメットさん☆)から翻訳されています。
 
 
 『**Cosmic Baton Girl コメットさん☆**』（コスミック バトン ガール コメットさん）は、TVドラマ『[コメットさん](../Page/コメットさん.md "wikilink")』を原案\[1\]として、[2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")にかけて、[テレビ大阪](../Page/テレビ大阪.md "wikilink")・[テレビ東京系列で放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。
@@ -83,7 +83,7 @@
     紫色のタマネギ鳥のような姿のメテオの侍従長。メテオのワガママに振り回される苦労性な性格。妻子持ちで、地球へは単身赴任中。なお、ヴァイツェン[クネーデル](../Page/クネーデル.md "wikilink")（Weizenknodel）とはドイツ語で「[小麦](https://ja.wikipedia.org/wiki/小麦 "wikilink")団子」。
   - カスタネット星国女王
     声 - [深見梨加](../Page/深見梨加.md "wikilink")
-    メテオの母親。娘以上に強引な性格で、メテオからも恐れられる。
+    メテオの母親。メテオをそのまま成長させたような美女だが娘以上に強引な性格で、メテオからも恐れられる。
 
 #### タンバリン星国
 
@@ -147,6 +147,9 @@
   - 風岡 留子（かざおか とめこ）
     声 - [香椎くに子](../Page/香椎くに子.md "wikilink")
     幸治郎の妻。メテオの里親。上品な老婦人。
+  - 風岡 美沙子 (かざおか みさこ)
+    幸治郎と留子の一人娘で、故人。
+    髪と目の色以外はメテオと瓜二つの容姿を持つ少女で同じ年頃に亡くなっている。
 
 #### 少年たち
 

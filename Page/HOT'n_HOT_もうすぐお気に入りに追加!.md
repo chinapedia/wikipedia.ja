@@ -1,4 +1,4 @@
-> この記事は[HOT\'n HOT !](https://ja.wikipedia.org/wiki/HOT\'n_HOT_!)から翻訳されています。
+> この記事は[HOT\'n HOT もうすぐお気に入りに追加!](https://ja.wikipedia.org/wiki/HOT\'n_HOT_もうすぐお気に入りに追加!)から翻訳されています。
 
 
 **HOT'n HOT もうすぐお気に入りに追加\!**（ほっつんほっともうすぐおきにいりについか\!）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。HOT'n HOT お気に入りに追加\!の事前番組・姉妹番組で放送開始は[2004年](../Page/2004年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")で[2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")終了。

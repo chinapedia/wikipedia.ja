@@ -1,11 +1,11 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[フォーメーションZ](https://ja.wikipedia.org/wiki/フォーメーションZ)から翻訳されています。
 
 
 『**フォーメーションZ**』（フォーメーションゼット、FORMATION Z）は、[ジャレコ](../Page/ジャレコ.md "wikilink")より[1984年](../Page/1984年.md "wikilink")に稼動された[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。日本国外版タイトルは『**Aeroboto**』（エアロボット）。
 
 ## 概要
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")(同年8月9日説もある)\[1\]。に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用として[移植された](../Page/移植_\(ソフトウェア\).md "wikilink")。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")(同年8月9日説もある)\[1\]に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用として[移植された](../Page/移植_\(ソフトウェア\).md "wikilink")。
 
 その他、[PC-8801などの](https://ja.wikipedia.org/wiki/PC-8800シリーズ "wikilink")[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")版に[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")版などがリリースされ、また、[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")『ジャレココレクションVol.1』（[2003年](../Page/2003年.md "wikilink")）にファミリーコンピュータ版の移植が収録された他、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用『じゃじゃ丸Jr.伝承記〜ジャレコレもあり候〜』（[2004年](../Page/2004年.md "wikilink")）にも収録されている。
 
@@ -198,6 +198,20 @@
 <td><p>-</p></td>
 <td><p>ファミリーコンピュータ版の移植</p></td>
 </tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>フォーメーションZ</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_4" title="wikilink">PlayStation 4</a><br />
+<a href="https://ja.wikipedia.org/wiki/Nintendo_Switch" title="wikilink">Nintendo Switch</a></p></td>
+<td><p>ジャレコ</p></td>
+<td><p><a href="../Page/ハムスター_(ゲーム会社).md" title="wikilink">ハムスター</a></p></td>
+<td><p>ダウンロード<br />
+（<a href="https://ja.wikipedia.org/wiki/アーケードアーカイブス" title="wikilink">アーケードアーカイブス</a>）</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>アーケード版の移植</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -208,6 +222,10 @@
   - [ゲーム天国](../Page/ゲーム天国.md "wikilink")
 
 ## 外部リンク
+
+  - [ハムスターアーケードアーカイブス公式サイト フォーメーションZ(PS4版)](http://www.hamster.co.jp/arcadearchives/formationZ.htm)
+
+  - [ハムスターアーケードアーカイブス公式サイト フォーメーションZ(Nintendo Switch版)](http://www.hamster.co.jp/arcadearchives/switch/formationZ.htm)
 
   -
   - [フォーメーションZ（ファミリーコンピュータ版）](https://www.nintendo.co.jp/titles/20010000012628) - Wii Uバーチャルコンソール
@@ -221,6 +239,6 @@
       - [株式会社ジャレコ](https://web.archive.org/web/20050203050001/http://www.jaleco.co.jp/)
       - [ジャレコiギャレッソ](http://game.jaleco.co.jp/igareso/index.html)
 
-[Category:1984年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1984年のアーケードゲーム "wikilink") [Category:1985年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1985年のファミリーコンピュータ用ソフト "wikilink") [Category:FM-7シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM-7シリーズ用ゲームソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:X1用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X1用ゲームソフト "wikilink") [Category:巨大ロボットを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたコンピュータゲーム "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ジャレコのゲームソフト](https://ja.wikipedia.org/wiki/Category:ジャレコのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:プロジェクトEGG対応ソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトEGG対応ソフト "wikilink") [Category:横スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールシューティングゲーム "wikilink") [Category:ファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:ファミリーコンピュータ用ソフト "wikilink")
+[Category:1984年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1984年のアーケードゲーム "wikilink") [Category:1985年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1985年のファミリーコンピュータ用ソフト "wikilink") [Category:FM-7シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM-7シリーズ用ゲームソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:X1用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X1用ゲームソフト "wikilink") [Category:巨大ロボットを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたコンピュータゲーム "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ジャレコのゲームソフト](https://ja.wikipedia.org/wiki/Category:ジャレコのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:プロジェクトEGG対応ソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトEGG対応ソフト "wikilink") [Category:アーケードアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:アーケードアーカイブス対応ソフト "wikilink") [Category:横スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールシューティングゲーム "wikilink") [Category:ファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:ファミリーコンピュータ用ソフト "wikilink")
 
 1.  マイウェイ出版『死ぬ前にクリアしたい200の無理ゲー ファミコン&スーファミ』 (ISBN 9784865119855、2018年10月10日発行)、5ページ

@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA富山市長旗争奪富山大会](https://ja.wikipedia.org/wiki/JABA富山市長旗争奪富山大会)から翻訳されています。
 
 
 **JABA富山市長旗争奪富山大会**（JABAとやましちょうきそうだつとやまたいかい）は、[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[富山市](https://ja.wikipedia.org/wiki/富山市 "wikilink")で行なわれている[日本野球連盟](../Page/日本野球連盟.md "wikilink")の北信越地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の大会である。

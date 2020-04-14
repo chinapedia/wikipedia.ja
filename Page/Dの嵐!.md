@@ -1,4 +1,4 @@
-> この記事は[D!](https://ja.wikipedia.org/wiki/D!)から翻訳されています。
+> この記事は[Dの嵐!](https://ja.wikipedia.org/wiki/Dの嵐!)から翻訳されています。
 
 
 『**Dの嵐\!**』（ディーのあらし\!）は、[日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")[2003年](../Page/2003年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")、毎週[水曜日](../Page/水曜日.md "wikilink")深夜24時50分 - 25時20分に放送された[嵐の](../Page/嵐_\(グループ\).md "wikilink")[冠](https://ja.wikipedia.org/wiki/冠番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

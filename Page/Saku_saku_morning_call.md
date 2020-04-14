@@ -85,7 +85,7 @@
 
 <references />
 
-[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:Saku_saku](https://ja.wikipedia.org/wiki/Category:Saku_saku "wikilink") [Category:PUFFY](https://ja.wikipedia.org/wiki/Category:PUFFY "wikilink")
+[Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:テレビ神奈川の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の音楽番組 "wikilink") [Category:Saku_saku](https://ja.wikipedia.org/wiki/Category:Saku_saku "wikilink") [Category:PUFFY](https://ja.wikipedia.org/wiki/Category:PUFFY "wikilink")
 
 1.
 2.  通称「ボス」。

@@ -435,7 +435,7 @@ JR四国のICOCA導入発表後に、IruCaを含めた四国の他のICカード
 30. 前年度のクレジットカード（ショッピング）利用が年間12万円以上、もしくは、月々の携帯電話・PHS・電気料金の利用料金をSalutCaで支払いの場合。
 31. [共通カード導入へ JR四国など3社（[四国新聞](../Page/四国新聞.md "wikilink")ニュース）](http://www.shikoku-np.co.jp/kagawa_news/economy/article.aspx?id=20020226000100)
 32.
-33. [JR四国の次期社長らが会見「逆風の中の交代」](http://www.47news.jp/CN/201005/CN2010052501000934.html)47NEWS2010年 5月25日
+33. [JR四国の次期社長らが会見「逆風の中の交代」](http://web.archive.org/web/20100531191326/http://www.47news.jp/CN/201005/CN2010052501000934.html)47NEWS2010年 5月25日
 34. [JR四国社長に泉氏、ICカードや列車高速化、時速200キロめざす。](http://www.shopbiz.jp/ic/news/61330.html)日本経済新聞2010年5月26日（リンクは日経Shopbizへの転載）
 35. [2駅にICカード改札](http://mytown.asahi.com/ehime/news.php?k_id=39000151108310004)asahi.com 2011年8月31日
 36. [JR四国香川県内13駅でのICカード乗車券「ICOCA」導入について](http://www.jr-shikoku.co.jp/03_news/press/12-07-30/01.htm) 四国旅客鉄道プレスリリース 2012年7月30日

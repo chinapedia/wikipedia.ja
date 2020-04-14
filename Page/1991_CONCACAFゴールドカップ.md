@@ -1,4 +1,4 @@
-> この記事は[1991 CONCACAF](https://ja.wikipedia.org/wiki/1991_CONCACAF)から翻訳されています。
+> この記事は[1991 CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/1991_CONCACAFゴールドカップ)から翻訳されています。
 
 
 **1991 CONCACAFゴールドカップ** (1991 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々によって争われる、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink") (CONCACAF) 主催の、第1回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。

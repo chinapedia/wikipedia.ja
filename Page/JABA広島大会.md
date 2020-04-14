@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA広島大会](https://ja.wikipedia.org/wiki/JABA広島大会)から翻訳されています。
 
 
 **JABA広島大会**（JABAひろしまたいかい）は、[日本野球連盟](../Page/日本野球連盟.md "wikilink")の中国地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の大会である。[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")で行われている。

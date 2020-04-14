@@ -1,4 +1,4 @@
-> この記事は[ D.XXIII](https://ja.wikipedia.org/wiki/_D.XXIII)から翻訳されています。
+> この記事は[フォッカー D.XXIII](https://ja.wikipedia.org/wiki/フォッカー_D.XXIII)から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=フォッカー D-XXIII | 画像=<File:Fokker> D.XXIII kl1.png | キャプション= | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者= | 製造者=[フォッカー](../Page/フォッカー.md "wikilink")社 | 運用者=[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")（[オランダ空軍](https://ja.wikipedia.org/wiki/オランダ空軍 "wikilink")） | 運用者 more= | 初飛行年月日=[1939年](../Page/1939年.md "wikilink") | 生産数=1機 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況= | ユニットコスト= }}

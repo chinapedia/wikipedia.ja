@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[スーパーJチャンネルABA](https://ja.wikipedia.org/wiki/スーパーJチャンネルABA)から翻訳されています。
 
 
 『**スーパーJチャンネルABA**』（スーパージェイチャンネルエービーエー）は、[青森朝日放送](../Page/青森朝日放送.md "wikilink")で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")から放送されている夕方の[ローカルニュース番組である](../Page/報道番組.md "wikilink")。

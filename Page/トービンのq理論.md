@@ -1,4 +1,4 @@
-> この記事は[q](https://ja.wikipedia.org/wiki/q)から翻訳されています。
+> この記事は[トービンのq理論](https://ja.wikipedia.org/wiki/トービンのq理論)から翻訳されています。
 
 
 **トービンのq理論** (Tobin's q theory) とは、[アメリカの経済学者](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ジェームズ・トービン](../Page/ジェームズ・トービン.md "wikilink")が提唱した[投資理論](https://ja.wikipedia.org/wiki/投資理論 "wikilink")であり、**トービンのq**は[株式市場](https://ja.wikipedia.org/wiki/株式市場 "wikilink")で評価された企業の価値を[資本](../Page/資本.md "wikilink")の再取得価格で割った値として定義される。

@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JALウェイズ](https://ja.wikipedia.org/wiki/JALウェイズ)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:JAL_Narita_Operation_Center_Building.JPG "wikilink") **株式会社ジャルウェイズ**（[英称](../Page/英語.md "wikilink"):*JALways Co., Ltd.*）とは、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[航空会社](../Page/航空会社.md "wikilink")である。[日本航空 (JAL) グループの構成会社であった](../Page/日本航空.md "wikilink")。前身は**ジャパンエアチャーター**。

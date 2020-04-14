@@ -1,4 +1,4 @@
-> この記事は[DAIBA!!](https://ja.wikipedia.org/wiki/DAIBA!!)から翻訳されています。
+> この記事は[DAIBAッテキ!!](https://ja.wikipedia.org/wiki/DAIBAッテキ!!)から翻訳されています。
 
 
 **DAIBAッテキ\!\!**（だいばってき）は[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")1998年から1999年にかけて放送されていた[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")。放送時間は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の毎週月～金曜の16:25 - 16:55。メイン司会は[ドロンズ](../Page/ドロンズ.md "wikilink")。[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")[チェキッ娘](../Page/チェキッ娘.md "wikilink")を生み出したことで知られる。提供は[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")（[セガ・エンタープライゼス（後のセガサミーホールディングス）](../Page/セガサミーホールディングス.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[ P.180 ](https://ja.wikipedia.org/wiki/_P.180_)から翻訳されています。
+> この記事は[ピアッジョ P.180 アヴァンティ](https://ja.wikipedia.org/wiki/ピアッジョ_P.180_アヴァンティ)から翻訳されています。
 
 
 [Aeronautica_Militare_Piaggio_P-180_Avanti.jpg](https://ja.wikipedia.org/wiki/File:Aeronautica_Militare_Piaggio_P-180_Avanti.jpg "fig:Aeronautica_Militare_Piaggio_P-180_Avanti.jpg") [Piaggio_P_180_Avanti_2004_by-RaBoe.jpg](https://ja.wikipedia.org/wiki/File:Piaggio_P_180_Avanti_2004_by-RaBoe.jpg "fig:Piaggio_P_180_Avanti_2004_by-RaBoe.jpg") **ピアッジョ P.180 アヴァンティ**（Piaggio P.180 Avanti）は、[イタリア](../Page/イタリア.md "wikilink")の[ピアッジョ・エアロ社の民間航空機である](https://ja.wikipedia.org/wiki/ピアジオ・エアロ・インダストリーズ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ARIA \(\)](https://ja.wikipedia.org/wiki/ARIA_\(\))から翻訳されています。
+> この記事は[ARIA \(漫画\)](https://ja.wikipedia.org/wiki/ARIA_\(漫画\))から翻訳されています。
 
 
 『**AQUA**』（アクア）および『**ARIA**』（アリア）は、[天野こずえ](../Page/天野こずえ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[2001年](../Page/2001年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")にかけて、1話完結形式で月刊誌に連載された。単行本は『AQUA』『ARIA』両題合わせて全14巻で、累計420万部、関連書籍は60万部が発行された\[1\]。『ARIA 完全版』は2016年から2017年にかけ両題を全7巻構成で刊行された。
@@ -1522,9 +1522,9 @@ Navigation</p></td>
 
   - [「ARIA The AVVENIRE」公式サイト](http://www.ariacompany.net/)
 
-  - [「ARIA The NATURAL」公式サイト](http://www.tv-tokyo.co.jp/anime/aria_na/)（テレビ東京）
+  - [「ARIA The NATURAL」公式サイト](https://www.tv-tokyo.co.jp/anime/aria_na/)（テレビ東京）
 
-  - [「ARIA The ORIGINATION」公式サイト](http://www.tv-tokyo.co.jp/anime/aria/)（テレビ東京）
+  - [「ARIA The ORIGINATION」公式サイト](https://www.tv-tokyo.co.jp/anime/aria/)（テレビ東京）
 
   -
   -

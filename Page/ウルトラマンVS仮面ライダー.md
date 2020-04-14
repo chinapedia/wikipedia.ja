@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[ウルトラマンVS仮面ライダー](https://ja.wikipedia.org/wiki/ウルトラマンVS仮面ライダー)から翻訳されています。
 
 
 <div class="pathnavbox">

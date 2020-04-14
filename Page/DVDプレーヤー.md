@@ -1,4 +1,4 @@
-> この記事は[DVD](https://ja.wikipedia.org/wiki/DVD)から翻訳されています。
+> この記事は[DVDプレーヤー](https://ja.wikipedia.org/wiki/DVDプレーヤー)から翻訳されています。
 
 
 **DVDプレーヤー**（ディーブイディープレーヤー）とは[DVD-Video](../Page/DVD-Video.md "wikilink")（ディーブイディービデオ）を再生する装置である。DVDプレーヤーは再生専用機を指し、記録型[DVD](../Page/DVD.md "wikilink")に動画などを記録できる装置は「[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")」という。

@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTT出版](https://ja.wikipedia.org/wiki/NTT出版)から翻訳されています。
 
 
 **エヌ・ティ・ティ出版株式会社**（エヌ・ティ・ティしゅっぱん、**NTT出版**、英：*NTT Publishing Co., Ltd.*）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区 "wikilink")にある[NTTグループ](../Page/NTTグループ.md "wikilink")の[出版社](../Page/出版社.md "wikilink")である。

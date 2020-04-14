@@ -1,4 +1,4 @@
-> この記事は[JAL](https://ja.wikipedia.org/wiki/JAL)から翻訳されています。
+> この記事は[JAL音舞台シリーズ](https://ja.wikipedia.org/wiki/JAL音舞台シリーズ)から翻訳されています。
 
 
 **音舞台シリーズ**（おとぶたいシリーズ）は、毎年9月ごろに[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")・[奈良](../Page/奈良.md "wikilink")の歴史建造建物である[寺院](../Page/寺院.md "wikilink")を舞台に、国内・海外の一流[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")を招いて行われる[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")である。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")から[2011年](../Page/2011年.md "wikilink")までは10月開催となり、[2012年](../Page/2012年.md "wikilink")以降からは9月上旬または8月末の開催となる。

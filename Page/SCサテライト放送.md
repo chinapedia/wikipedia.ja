@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[SCサテライト放送](https://ja.wikipedia.org/wiki/SCサテライト放送)から翻訳されています。
 
 
 **SCサテライト放送株式会社**（エスシーサテライトほうそう）は、[スカパー\!を](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")[プラットフォームとする](../Page/有料放送管理事業者.md "wikilink")[衛星基幹放送事業者である](https://ja.wikipedia.org/wiki/基幹放送事業者 "wikilink")。
@@ -98,7 +98,7 @@
   - 心と技の日本遺産
   - 日本の名刹と紅葉
   - 日本の神社と祭礼
-      - [BS朝日で](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")「ハイビジョン紀行」の番組名で放送された。
+      - [BS朝日で](../Page/ビーエス朝日.md "wikilink")「ハイビジョン紀行」の番組名で放送された。
   - Energy To The People
   - ビキニ・デスティネーション
   - 韓流熱風

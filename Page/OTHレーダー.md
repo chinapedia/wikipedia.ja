@@ -1,4 +1,4 @@
-> この記事は[OTH](https://ja.wikipedia.org/wiki/OTH)から翻訳されています。
+> この記事は[OTHレーダー](https://ja.wikipedia.org/wiki/OTHレーダー)から翻訳されています。
 
 
 [ROTHR_USNavy_a.png](https://ja.wikipedia.org/wiki/File:ROTHR_USNavy_a.png "fig:ROTHR_USNavy_a.png") **OTHレーダー** () は、[水平線](https://ja.wikipedia.org/wiki/水平線 "wikilink")以遠を観測する[レーダー](../Page/レーダー.md "wikilink")システムである。**超水平線レーダー**とも呼ばれる。

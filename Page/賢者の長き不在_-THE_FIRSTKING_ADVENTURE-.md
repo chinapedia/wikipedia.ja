@@ -1,4 +1,4 @@
-> この記事は[ -THE FIRSTKING ADVENTURE-](https://ja.wikipedia.org/wiki/_-THE_FIRSTKING_ADVENTURE-)から翻訳されています。
+> この記事は[賢者の長き不在 -THE FIRSTKING ADVENTURE-](https://ja.wikipedia.org/wiki/賢者の長き不在_-THE_FIRSTKING_ADVENTURE-)から翻訳されています。
 
 
 『**賢者の長き不在 -THE FIRSTKING ADVENTURE-**』（けんじゃのながきふざい ザ・ファーストキング・アドベンチャー）は[マッグガーデン](../Page/マッグガーデン.md "wikilink")の[月刊コミックブレイド](../Page/月刊コミックブレイド.md "wikilink")にて連載されていた[藤野もやむ](https://ja.wikipedia.org/wiki/藤野もやむ "wikilink")の[ファンタジー](../Page/ファンタジー.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。略称は「**賢長不**」または「賢者」。キャラクターグッズ化もされている。全8巻。

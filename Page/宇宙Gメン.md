@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[宇宙Gメン](https://ja.wikipedia.org/wiki/宇宙Gメン)から翻訳されています。
 
 
 『**宇宙Gメン**』（うちゅうジーメン）は、[1963年](../Page/1963年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")から同年[10月8日](../Page/10月8日.md "wikilink")まで[日本テレビ系で全](../Page/日本テレビ放送網.md "wikilink")8話が放送された、[日本電波映画](https://ja.wikipedia.org/wiki/日本電波映画 "wikilink")製作の[特撮](../Page/特撮.md "wikilink")番組。モノクロ。30分番組。[三洋電機](../Page/三洋電機.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")。

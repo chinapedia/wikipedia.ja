@@ -1,4 +1,4 @@
-> この記事は[SUBARU](https://ja.wikipedia.org/wiki/SUBARU)から翻訳されています。
+> この記事は[SUBARU硬式野球部](https://ja.wikipedia.org/wiki/SUBARU硬式野球部)から翻訳されています。
 
 
 **SUBARU硬式野球部**（スバルこうしきやきゅうぶ）は、[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[太田市](../Page/太田市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。

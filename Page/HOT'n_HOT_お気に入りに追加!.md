@@ -1,4 +1,4 @@
-> この記事は[HOT\'n HOT !](https://ja.wikipedia.org/wiki/HOT\'n_HOT_!)から翻訳されています。
+> この記事は[HOT\'n HOT お気に入りに追加!](https://ja.wikipedia.org/wiki/HOT\'n_HOT_お気に入りに追加!)から翻訳されています。
 
 
 **HOT'n HOT お気に入りに追加\!**（ホッツンホット おきにいりについか\!）は[2004年](../Page/2004年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2005年](../Page/2005年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送された[ニッポン放送](../Page/ニッポン放送.md "wikilink")の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
@@ -112,7 +112,7 @@
 | [茨城放送](../Page/茨城放送.md "wikilink")                        | [信越放送](https://ja.wikipedia.org/wiki/信越放送 "wikilink")（※） | [山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")          | [北日本放送](https://ja.wikipedia.org/wiki/北日本放送 "wikilink")    | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink") |
 | [福井放送](https://ja.wikipedia.org/wiki/福井放送 "wikilink")     | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")    | [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")                         | [KBS京都](../Page/京都放送.md "wikilink")                        | [ラジオ関西](../Page/ラジオ関西.md "wikilink")                  |
 | [和歌山放送](https://ja.wikipedia.org/wiki/和歌山放送 "wikilink")   | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")    | [山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")          | [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink") | [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink") |
-| [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink") | [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")    | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")          | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")      | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") |
+| [九州朝日放送](../Page/KBCラジオ.md "wikilink")                    | [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")    | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")          | [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")      | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") |
 |                                                           |                                                          |                                                                |                                                            |                                                       |
 
   - （※）IBC岩手放送では金曜日に限り23:00～24:00の短縮放送。また、信越放送では火～金曜日の放送。

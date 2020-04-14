@@ -1,4 +1,4 @@
-> この記事は[IDC](https://ja.wikipedia.org/wiki/IDC)から翻訳されています。
+> この記事は[IDCフロンティア](https://ja.wikipedia.org/wiki/IDCフロンティア)から翻訳されています。
 
 
 **株式会社IDCフロンティア**（英称：IDC Frontier Inc.）はIaaS型クラウドサービスとデータセンター事業を軸としたITインフラを提供している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の事業者であり、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")のグループ[企業](../Page/企業.md "wikilink")である。

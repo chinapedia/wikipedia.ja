@@ -1,4 +1,4 @@
-> この記事は[Microsoft932](https://ja.wikipedia.org/wiki/Microsoft932)から翻訳されています。
+> この記事は[Microsoftコードページ932](https://ja.wikipedia.org/wiki/Microsoftコードページ932)から翻訳されています。
 
 
 [lang=ja](https://ja.wikipedia.org/wiki/画像:Euler_diag_for_jp_charsets.svg "wikilink")\]\]

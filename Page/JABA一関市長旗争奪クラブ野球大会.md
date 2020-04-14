@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA一関市長旗争奪クラブ野球大会](https://ja.wikipedia.org/wiki/JABA一関市長旗争奪クラブ野球大会)から翻訳されています。
 
 
 **JABA一関市長旗争奪クラブ野球大会**（JABAいちのせきしちょうきそうだつクラブやきゅうたいかい）は、毎年7月下旬に[岩手県](../Page/岩手県.md "wikilink")[一関市](../Page/一関市.md "wikilink")で行われる[社会人野球](../Page/社会人野球.md "wikilink")[クラブチームの大会である](../Page/クラブチーム_\(社会人野球\).md "wikilink")。

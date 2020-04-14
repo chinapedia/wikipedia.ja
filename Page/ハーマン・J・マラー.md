@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ハーマン・J・マラー](https://ja.wikipedia.org/wiki/ハーマン・J・マラー)から翻訳されています。
 
 
 **ハーマン・ジョーゼフ・マラー**（Hermann Joseph Muller、[1890年](../Page/1890年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink") - [1967年](../Page/1967年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[遺伝学](../Page/遺伝学.md "wikilink")者。[ショウジョウバエ](../Page/ショウジョウバエ.md "wikilink")に対する[X線](../Page/X線.md "wikilink")照射の実験で[人為突然変異](https://ja.wikipedia.org/wiki/人為突然変異 "wikilink")を誘発できることを発見した。この業績により[1946年](../Page/1946年.md "wikilink")に[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞している。[精子バンク](https://ja.wikipedia.org/wiki/精子バンク "wikilink")の提唱者でもある。

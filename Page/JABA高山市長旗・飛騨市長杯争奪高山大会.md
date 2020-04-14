@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA高山市長旗・飛騨市長杯争奪高山大会](https://ja.wikipedia.org/wiki/JABA高山市長旗・飛騨市長杯争奪高山大会)から翻訳されています。
 
 
 **JABA高山市長旗・飛騨市長杯争奪高山大会**（JABAたかやましちょうき・ひだしちょうはいそうだつたかやまたいかい）は、[岐阜県](../Page/岐阜県.md "wikilink")[高山市](../Page/高山市.md "wikilink")（高山市中山公園野球場）及び[飛騨市](../Page/飛騨市.md "wikilink")（[飛騨市サン・スポーツランドふるかわ野球場](https://ja.wikipedia.org/wiki/飛騨市サン・スポーツランドふるかわ野球場 "wikilink")）で開催される[社会人野球](../Page/社会人野球.md "wikilink")の大会である。

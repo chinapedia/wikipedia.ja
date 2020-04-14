@@ -1,4 +1,4 @@
-> この記事は[Dream Factory \(\)](https://ja.wikipedia.org/wiki/Dream_Factory_\(\))から翻訳されています。
+> この記事は[Dream Factory \(ラジオ番組\)](https://ja.wikipedia.org/wiki/Dream_Factory_\(ラジオ番組\))から翻訳されています。
 
 
 **Dream Factory**（ドリーム・ファクトリー）は、[1989年](../Page/1989年.md "wikilink")4月 - [2004年](../Page/2004年.md "wikilink")9月まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[音楽番組](../Page/音楽番組.md "wikilink")）である。かつて7局ネットで放送されていた。

@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[マーサ・E・ロジャーズ](https://ja.wikipedia.org/wiki/マーサ・E・ロジャーズ)から翻訳されています。
 
 
 **マーサ・E・ロジャーズ**（Martha Elizabeth Rogers、[1914年](../Page/1914年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") - [1994年](../Page/1994年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[看護学者](https://ja.wikipedia.org/wiki/看護学者 "wikilink")。[テキサス州](../Page/テキサス州.md "wikilink")[ダラス](../Page/ダラス.md "wikilink")の生まれ。1931年-1933年テネシー州ノックスビルにある[テネシー大学](../Page/テネシー大学.md "wikilink")で学び、この大学は卒業したかどうか定かではないが、いずれにせよ、その後同市のノックスビル総合病院看護学校で[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")免許を取得している。

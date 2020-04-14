@@ -1,4 +1,4 @@
-> この記事は[FDTD](https://ja.wikipedia.org/wiki/FDTD)から翻訳されています。
+> この記事は[FDTD法](https://ja.wikipedia.org/wiki/FDTD法)から翻訳されています。
 
 
 **FDTD法**（Finite-difference time-domain method; FDTD method）は、[数値計算の手法の](https://ja.wikipedia.org/wiki/数値解析 "wikilink")1つ。日本語訳として「時間領域差分法」「有限差分時間領域法」などの呼び方もあるが、もっぱらFDTD法と呼ばれる。

@@ -1,4 +1,4 @@
-> この記事は[NAGISA \(\)](https://ja.wikipedia.org/wiki/NAGISA_\(\))から翻訳されています。
+> この記事は[NAGISA \(映画\)](https://ja.wikipedia.org/wiki/NAGISA_\(映画\))から翻訳されています。
 
 
 『**NAGISA**』（なぎさ）は、[2000年](../Page/2000年.md "wikilink")の[日本映画](../Page/日本映画.md "wikilink")。

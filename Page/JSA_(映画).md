@@ -1,4 +1,4 @@
-> この記事は[JSA \(\)](https://ja.wikipedia.org/wiki/JSA_\(\))から翻訳されています。
+> この記事は[JSA \(映画\)](https://ja.wikipedia.org/wiki/JSA_\(映画\))から翻訳されています。
 
 
 『**JSA**』（ジェイエスエイ、原題：*공동경비구역 JSA*）は、[2000年公開の](../Page/2000年の映画.md "wikilink")[韓国映画](../Page/韓国映画.md "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[2001年](../Page/2001年.md "wikilink")に公開された。

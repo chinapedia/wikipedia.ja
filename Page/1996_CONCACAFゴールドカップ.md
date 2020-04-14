@@ -1,4 +1,4 @@
-> この記事は[1996 CONCACAF](https://ja.wikipedia.org/wiki/1996_CONCACAF)から翻訳されています。
+> この記事は[1996 CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/1996_CONCACAFゴールドカップ)から翻訳されています。
 
 
 **1996 CONCACAFゴールドカップ** (1996 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々によって争われる、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink") (CONCACAF) 主催の、第3回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である。

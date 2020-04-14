@@ -3,11 +3,11 @@
 
 **Z shell**（ズィーシェル、**zsh**）は[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")の[コマンドシェルの](../Page/シェル.md "wikilink")1つである。 対話的な[ログイン](https://ja.wikipedia.org/wiki/ログイン "wikilink")[コマンドシェルとしても](../Page/シェル.md "wikilink")、強力な[シェルスクリプト](../Page/シェルスクリプト.md "wikilink")[コマンドの](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")[インタープリタ](https://ja.wikipedia.org/wiki/インタープリタ "wikilink")ーとしても使うことができる。
 
-zsh は数多くの改良を含んだ[Bourne Shellの拡張版という見方もできる](../Page/Bourne_Shell.md "wikilink")。のみならず、[bash](https://ja.wikipedia.org/wiki/bash "wikilink")や[ksh](../Page/KornShell.md "wikilink")、[tcsh](https://ja.wikipedia.org/wiki/tcsh "wikilink")の非常に有用な機能も一部取り込まれている。また、Windows上でネイティブUnix環境を提供する [Interix](https://ja.wikipedia.org/wiki/Interix "wikilink") サブシステム上では[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")版のソースコードをビルドして[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")上で使用することができる。
+zsh は数多くの改良を含んだ[Bourne Shellの拡張版という見方もできる](../Page/Bourne_Shell.md "wikilink")。のみならず、[bash](https://ja.wikipedia.org/wiki/bash "wikilink")や[ksh](../Page/KornShell.md "wikilink")、[tcsh](https://ja.wikipedia.org/wiki/tcsh "wikilink")の非常に有用な機能も一部取り込まれている。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")ではmacOS 10.15 Catalinaから[デフォルト](https://ja.wikipedia.org/wiki/デフォルト "wikilink")のシェルとして設定されている\[1\]。また、Windows上でネイティブUnix環境を提供する [Interix](https://ja.wikipedia.org/wiki/Interix "wikilink") サブシステム上では[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")版のソースコードをビルドして[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")上で使用することができる。
 
 ## 起源
 
-zsh の最初のバージョンは、1990年 \[1\] に、当時 [プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")の学生であった Paul Falstad によって作成された。 zsh の名前は、当時プリンストン大学のティーチングアシスタントであった[イェール大学](../Page/イェール大学.md "wikilink")教授 Zhong Shao のログイン名 "zsh" に由来して名付けられた\[2\]\[3\]。
+zsh の最初のバージョンは、1990年 \[2\] に、当時 [プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")の学生であった Paul Falstad によって作成された。 zsh の名前は、当時プリンストン大学のティーチングアシスタントであった[イェール大学](../Page/イェール大学.md "wikilink")教授 Zhong Shao のログイン名 "zsh" に由来して名付けられた\[3\]\[4\]。
 
 ## 特徴
 
@@ -46,3 +46,4 @@ zsh の特徴として次のようなことが挙げられる。
 1.
 2.
 3.
+4.

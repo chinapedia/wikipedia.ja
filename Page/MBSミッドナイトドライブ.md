@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBSミッドナイトドライブ](https://ja.wikipedia.org/wiki/MBSミッドナイトドライブ)から翻訳されています。
 
 
 **MBSミッドナイトドライブ**（エムビーエスミッドナイトドライブ）は、[毎日放送](../Page/毎日放送.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")）でかつて深夜に放送されていた音楽[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

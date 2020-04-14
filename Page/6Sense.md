@@ -9,7 +9,7 @@
 
 実際のところ、MORNING FREEWAYが放送されていた2004年7月ごろからすでに七尾が1人で番組を進行していた。これは、MORNING FREEWAYを担当していた[立花裕人](../Page/立花裕人.md "wikilink")が番組中に[アテネオリンピックに関する取材を行ったり](https://ja.wikipedia.org/wiki/アテネオリンピック_\(2004年\) "wikilink")、番組を卒業するに当たって、「降板前に東京の朝をこの目で見ておきたい。」という思いで街頭取材を行ったりしていた為。
 
-2006年4月3日からは[JFNCの](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")「[グッドモーニング\!ザッツ・ウェイクマンショー](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")」と合体し、「[アイズ・オン・ジャパン](../Page/Eyes_on_Japan.md "wikilink")」と番組タイトルを変更し、5:00開始に拡大された。内容もMORNING FREEWAY同様、ニュース･スポーツ･エンターテイメントなどの情報を各番組10分程度にまとめ、あわただしい朝の時間帯に役立つ情報が満載の番組である。さらに七尾の堪能な英語力を利用して、海外からのインタビューを七尾本人に通訳させたり、七尾自ら海外と電話をつなぎインタビューを行ったりもする。インタビューの人選も含め、これらの内容が新聞やテレビなどの間隙をつく番組の構成を生み、独自性の高い情報を提供している。
+2006年4月3日からは[JFNCの](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")「[グッドモーニング\!ザッツ・ウェイクマンショー](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")」と合体し、「[アイズ・オン・ジャパン](../Page/Eyes_on_Japan.md "wikilink")」と番組タイトルを変更し、5:00開始に拡大された。内容もMORNING FREEWAY同様、ニュース･スポーツ･エンターテイメントなどの情報を各番組10分程度にまとめ、あわただしい朝の時間帯に役立つ情報が満載の番組である。さらに七尾の堪能な英語力を利用して、海外からのインタビューを七尾本人に通訳させたり、七尾自ら海外と電話をつなぎインタビューを行ったりもする。インタビューの人選も含め、これらの内容が新聞やテレビなどの間隙をつく番組の構成を生み、独自性の高い情報を提供している。
 
 これまで同様、6:00 - 7:00の間は一部の放送局で、6:40 - 6:45の「[コスモアースコンシャスアクト ずっと地球で暮らそう。](https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。 "wikilink")」と、7:00 - 7:30、8:00 - 8:20の間は全国の[JFN加盟のFM局](../Page/全国FM放送協議会.md "wikilink")38局で同時ネットされている（但し、8:00 - 8:20は、一部地域を除く）。
 
@@ -22,7 +22,7 @@
   - [おはようSMAP](../Page/おはようSMAP.md "wikilink") - [SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")が東京地方の天気を伝える。
   - [コスモアースコンシャスアクト ずっと地球で暮らそう。](https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。 "wikilink") - 2003年4月に独立した番組としてスタート。JFNとコスモ石油が共同で繰り広げているキャンペーン「アースコンシャス〜地球を愛し、感じる心」に関連した番組。6Senseスタートと同時にこの番組内に内包。
   - [マルコメ カラダがよろこぶ朝ごはん](https://ja.wikipedia.org/wiki/マルコメ_カラダがよろこぶ朝ごはん "wikilink") - 簡単でおいしい朝ごはんのレシピを紹介。
-  - [MY OLYMPIC](../Page/MY_OLYMPIC.md "wikilink") - [ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")制作。
+  - [MY OLYMPIC](../Page/MY_OLYMPIC.md "wikilink") - [ジャパンエフエムネットワーク制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。
 
 （7時台）
 
@@ -40,7 +40,7 @@
   - [SUZUKI](../Page/スズキ_\(企業\).md "wikilink") NEWS NUMBERS - 数字に関連したニュースを取り上げる。
   - [ROOTS](https://ja.wikipedia.org/wiki/日本たばこ産業 "wikilink") TODAY'S INSPIRATION - CM扱いであるが、タイムテーブル上に掲載されている。[缶コーヒー](../Page/缶コーヒー.md "wikilink")「ROOTS」のキャッチコピー「飲スピレーション」にちなんで、その日に関連した「インスピレーション」の話題を放送する。
   - [Honda SWEET MISSION](../Page/Honda_SWEET_MISSION.md "wikilink")（[2005年](../Page/2005年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink") - ） - [フローラン・ダバディー](https://ja.wikipedia.org/wiki/フローラン・ダバディー "wikilink")と[パンツェッタ・ジローラモ](../Page/パンツェッタ・ジローラモ.md "wikilink")が世界のOLをリサーチする。
-  - [モーニングショット](../Page/アサヒ飲料.md "wikilink") Presents [JFN](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink") 朝はコレッ - CM扱いであるが、タイムテーブル上に掲載されている。週替わりでゲストが自分にとっての朝の定番を紹介。
+  - [モーニングショット](../Page/アサヒ飲料.md "wikilink") Presents [JFN](../Page/全国FM放送協議会.md "wikilink") 朝はコレッ - CM扱いであるが、タイムテーブル上に掲載されている。週替わりでゲストが自分にとっての朝の定番を紹介。
   - [SHINSEIDO](../Page/新星堂.md "wikilink") SOUND FILE - 毎日あるテーマに沿った曲をかける。
 
 ## 終了したコーナー
@@ -61,7 +61,7 @@
       - （全くネットしていない局）[FM群馬](../Page/エフエム群馬.md "wikilink")・[FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")
     <!-- end list -->
       -
-        また、8時台は各放送局の朝ワイド番組または[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")制作の「[Open Sesame\!](../Page/Open_Sesame!.md "wikilink")」「[SOMETHING](../Page/SOMETHING.md "wikilink")」に内包されている場合が多い。
+        また、8時台は各放送局の朝ワイド番組または[ジャパンエフエムネットワーク制作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")「[Open Sesame\!](../Page/Open_Sesame!.md "wikilink")」「[SOMETHING](../Page/SOMETHING.md "wikilink")」に内包されている場合が多い。
 
 ## 外部リンク
 

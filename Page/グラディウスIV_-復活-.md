@@ -1,4 +1,4 @@
-> この記事は[IV --](https://ja.wikipedia.org/wiki/IV_--)から翻訳されています。
+> この記事は[グラディウスIV -復活-](https://ja.wikipedia.org/wiki/グラディウスIV_-復活-)から翻訳されています。
 
 
 『**グラディウスIV -復活-**』（グラディウスフォー ふっかつ、*GRADIUS IV*）は、[1999年](../Page/1999年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として稼動された[コナミの横スクロール](../Page/コナミアミューズメント.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
@@ -336,7 +336,8 @@ BGMは[渡辺篤紀](https://ja.wikipedia.org/wiki/渡辺篤紀 "wikilink")（"A
 
 ## 外部リンク
 
-  - [『グラディウス ポータブル』公式サイト](http://www.konami.jp/gs/game/gra_psp/)
+  - [グラディウスIVアーケード版公式サイト](https://web.archive.org/web/20060615004345/http://www.konami.jp/am/gra4/gra4.html)（アーカイブ）
+  - [『グラディウス ポータブル』公式サイト](https://web.archive.org/web/20180902110437/http://www.konami.jp/gs/game/gra_psp/)（アーカイブ）
 
 [Category:1999年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1999年のアーケードゲーム "wikilink") [Category:グラディウスシリーズ](https://ja.wikipedia.org/wiki/Category:グラディウスシリーズ "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")
 

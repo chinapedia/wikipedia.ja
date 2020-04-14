@@ -177,7 +177,7 @@
 作曲：小松未歩<br />
 編曲：葉山たけし</p></td>
 <td><p>14位</p></td>
-<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系「<a href="../Page/超次元タイムボンバー.md" title="wikilink">超次元タイムボンバー</a>」EDテーマ</p></td>
+<td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>系「<a href="../Page/超次元タイムボンバー.md" title="wikilink">超次元タイムボンバー</a>」3代目EDテーマ</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -1,4 +1,4 @@
-> この記事は[DAIBA!!cheki b.](https://ja.wikipedia.org/wiki/DAIBA!!cheki_b.)から翻訳されています。
+> この記事は[DAIBAクシン!!cheki b.](https://ja.wikipedia.org/wiki/DAIBAクシン!!cheki_b.)から翻訳されています。
 
 
 **DAIBAクシン\!\!cheki b.**（だいばくしんちぇきべえ）は[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）に放送されていた[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")。放送は[1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[4月3日](../Page/4月3日.md "wikilink") - [1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）[9月25日](../Page/9月25日.md "wikilink")の毎週土曜日13:00-14:00。新聞の[ラテ欄には](https://ja.wikipedia.org/wiki/番組表 "wikilink")「**ちぇきべえ**」と表記されていた。
@@ -135,12 +135,12 @@
   - [藤井尚之](../Page/藤井尚之.md "wikilink")（8月7日） - 現・フジテレビアナウンサー[藤井弘輝](https://ja.wikipedia.org/wiki/藤井弘輝 "wikilink")の叔父。
   - [坂崎幸之助](../Page/坂崎幸之助.md "wikilink")（[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")）（8月21日）
   - [DA PUMP](../Page/DA_PUMP.md "wikilink")（8月28日） - チェキッ娘メンバーが料理でもてなすという企画を行なった。
-  - [the end of genesis T.M.R.evolution turbo type D](../Page/T.M.Revolution.md "wikilink")（[西川貴教](../Page/西川貴教.md "wikilink")）（9月4日）
+  - [the end of genesis T.M.R.evolution turbo type D](../Page/T.M.Revolution.md "wikilink")（[西川貴教](../Page/西川貴教.md "wikilink")）\[7\]（9月4日）
   - [19](../Page/19_\(音楽グループ\).md "wikilink")（9月11日）
 
 ## KBS京都で放送された回
 
-（以下出典：\[7\]） 日付の前者はフジテレビ、後者はKBS京都での放送日。
+（以下出典：\[8\]） 日付の前者はフジテレビ、後者はKBS京都での放送日。
 
   - 第1回（4月3日 → 4月29日）
   - 第4回（4月24日 → 5月6日）
@@ -173,4 +173,5 @@
 4.
 5.  アルバム『[CXCO](../Page/CXCO.md "wikilink")』収録。なお、この曲の『[海へ行こう〜Love Beach Love〜](https://ja.wikipedia.org/wiki/海へ行こう〜Love_Beach_Love〜 "wikilink")』のカップリングとアルバム『[Best Memories](https://ja.wikipedia.org/wiki/Best_Memories "wikilink")』収録のそれぞれのバージョンはスタジオ収録で「Single Version」とされており、野麦峠収録のバージョンが収録されているのは『CXCO』のみである。
 6.
-7.
+7.  当時「T.M.Revolution」は[封印中](https://ja.wikipedia.org/wiki/T.M.Revolution#the_end_of_genesis_T.M.R._evolution_turbo_type_Dとしての活動 "wikilink")。
+8.

@@ -1,4 +1,4 @@
-> この記事は[ my Love](https://ja.wikipedia.org/wiki/_my_Love)から翻訳されています。
+> この記事は[アリー my Love](https://ja.wikipedia.org/wiki/アリー_my_Love)から翻訳されています。
 
 
 『**アリー my Love**』（アリー・マイ・ラブ、*Ally McBeal*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[FOXで](../Page/フォックス放送.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[2002年](../Page/2002年.md "wikilink")まで、5シーズンにわたって放送された[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")ドラマシリーズ。
@@ -357,8 +357,10 @@
 
 ## 外部リンク
 
-  - [アリー・myラブ - 番組データ](http://www.geocities.co.jp/hollywood/4103/eplib1/amc_ep.htm) 海外ドラマ情報ページ
-  - [アリー・myラブ - 出演者データ](http://www.geocities.co.jp/hollywood/4103/guest/amc_gs.htm) 海外ドラマ情報ページ
+  - 海外ドラマ情報ページ
+
+  - 海外ドラマ情報ページ
+
   - [英語と日本語のスクリプト（一部）](http://www007.upp.so-net.ne.jp/comet/am/am.htm) 海外ドラマ聞き取り挑戦！
 
 [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:弁護士ドラマ](https://ja.wikipedia.org/wiki/Category:弁護士ドラマ "wikilink") [Category:ボストンを舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:ボストンを舞台としたテレビ番組 "wikilink") [Category:FOX](https://ja.wikipedia.org/wiki/Category:FOX "wikilink") [Category:Dlifeのテレビ番組](https://ja.wikipedia.org/wiki/Category:Dlifeのテレビ番組 "wikilink")

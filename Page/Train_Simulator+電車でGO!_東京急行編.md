@@ -1,4 +1,4 @@
-> この記事は[Train Simulator+GO! ](https://ja.wikipedia.org/wiki/Train_Simulator+GO!_)から翻訳されています。
+> この記事は[Train Simulator+電車でGO! 東京急行編](https://ja.wikipedia.org/wiki/Train_Simulator+電車でGO!_東京急行編)から翻訳されています。
 
 
 『**Train Simulator+電車でGO\! 東京急行編**』（トレインシミュレータプラスでんしゃでゴー とうきょうきゅうこうへん）は[2003年](../Page/2003年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に[音楽館](../Page/音楽館.md "wikilink")から発売された、[PlayStation 2用電車運転ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。総合プロデューサーは[向谷実](../Page/向谷実.md "wikilink")。

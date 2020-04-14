@@ -1,4 +1,4 @@
-> この記事は[CONCACAF](https://ja.wikipedia.org/wiki/CONCACAF)から翻訳されています。
+> この記事は[CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/CONCACAFゴールドカップ)から翻訳されています。
 
 
 **CONCACAFゴールドカップ**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。北中米およびカリブ海諸島の国・地域によって争われる大会であるが、CONCACAF以外の大陸連盟の加盟国が招待されることもある。基本的には[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")での開催となるが、[メキシコ](../Page/メキシコ.md "wikilink")との共同開催となる場合もある。

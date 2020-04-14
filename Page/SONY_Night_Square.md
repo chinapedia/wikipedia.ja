@@ -32,6 +32,6 @@
   - [東海ラジオ](../Page/東海ラジオ放送.md "wikilink")（日）22:30 - 23:00
   - [朝日放送](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")（日）22:30 - 23:00
   - [中国放送](../Page/中国放送.md "wikilink")（土）23:00 - 23:30
-  - [KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")（土）23:30 - 24:00
+  - [KBCラジオ](../Page/KBCラジオ.md "wikilink")（土）23:30 - 24:00
 
 [Category:ニッポン放送の番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の番組の歴史 "wikilink") [Category:ラジオ放送枠](https://ja.wikipedia.org/wiki/Category:ラジオ放送枠 "wikilink") [Category:ソニー一社提供番組](https://ja.wikipedia.org/wiki/Category:ソニー一社提供番組 "wikilink") [Category:南こうせつ](https://ja.wikipedia.org/wiki/Category:南こうせつ "wikilink") [Category:山口百恵](https://ja.wikipedia.org/wiki/Category:山口百恵 "wikilink") [Category:松田聖子](https://ja.wikipedia.org/wiki/Category:松田聖子 "wikilink") [Category:ラジオのアイドル番組](https://ja.wikipedia.org/wiki/Category:ラジオのアイドル番組 "wikilink")

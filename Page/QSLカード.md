@@ -1,4 +1,4 @@
-> この記事は[QSL](https://ja.wikipedia.org/wiki/QSL)から翻訳されています。
+> この記事は[QSLカード](https://ja.wikipedia.org/wiki/QSLカード)から翻訳されています。
 
 
 [thumbのアマチュア局の交信証明書](https://ja.wikipedia.org/wiki/画像:Qsl_karte_stahleck1.jpg "wikilink")

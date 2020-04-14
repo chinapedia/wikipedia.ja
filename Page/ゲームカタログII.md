@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ゲームカタログII](https://ja.wikipedia.org/wiki/ゲームカタログII)から翻訳されています。
 
 
 『**ゲームカタログII**』（ゲームカタログツー）は、[1994年](../Page/1994年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送された[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[ゲーム番組](../Page/ゲーム番組.md "wikilink")）。略称は「ゲーカタ」。この項では1994年4月8日から9月30日まで放送された前身番組『ファミ通ゲームカタログ』についても触れる。
@@ -73,12 +73,28 @@
   - 制作協力：J.V.プロデュース
   - 制作：テレビ朝日、ジャパンヴィステック
 
-## エンディングテーマ
+## テーマ曲
 
-  - SUNDAY ([RUBY RUBY STAR](https://ja.wikipedia.org/wiki/RUBY_RUBY_STAR "wikilink"))
-  - Everybody go\!go\!go\! （[ひふみかおり](../Page/ひふみかおり.md "wikilink")）
-  - DESTINY （[LAZY KNACK](../Page/LAZY_KNACK.md "wikilink")）
-  - きっとできるさ （[ドミンゴス](https://ja.wikipedia.org/wiki/ドミンゴス "wikilink")）
+### オープニングテーマ
+
+  - BASS PARTY/[BASS MASTERS](https://ja.wikipedia.org/wiki/BASS_MASTERS "wikilink")
+
+### エンディングテーマ
+
+  - 灼熱のMY BABY/[m.c.A.T.](https://ja.wikipedia.org/wiki/m.c.A.T. "wikilink")
+  - non non non/[Les 5-4-3-2-1](https://ja.wikipedia.org/wiki/Les_5-4-3-2-1 "wikilink")
+  - 550を捜せ\!/[STRAY](https://ja.wikipedia.org/wiki/STRAY "wikilink")
+  - SUNDAY /[RUBY RUBY STAR](https://ja.wikipedia.org/wiki/RUBY_RUBY_STAR "wikilink")
+  - おしえて神様/[モードロック](https://ja.wikipedia.org/wiki/モードロック "wikilink")
+  - Everybody go\!go\!go\!/[ひふみかおり](../Page/ひふみかおり.md "wikilink")
+  - FIRE/[CONFUSION](https://ja.wikipedia.org/wiki/CONFUSION "wikilink")
+  - 宇宙犬のテーマ/[宇宙犬](https://ja.wikipedia.org/wiki/宇宙犬 "wikilink")
+  - MIND MOTION/高橋里華
+  - ジュンスイムク ノ テクにシャン/[Hi-posi](https://ja.wikipedia.org/wiki/Hi-posi "wikilink")
+  - DESTINY/[LAZY KNACK](../Page/LAZY_KNACK.md "wikilink")
+  - 40日ボンバー/808
+  - オレは宇宙のファンタジー/アリラン明電
+  - きっとできるさ/[ドミンゴス](https://ja.wikipedia.org/wiki/ドミンゴス "wikilink")
 
 ## 参考文献
 

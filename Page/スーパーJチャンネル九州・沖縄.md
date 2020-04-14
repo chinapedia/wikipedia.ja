@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スーパーJチャンネル九州・沖縄](https://ja.wikipedia.org/wiki/スーパーJチャンネル九州・沖縄)から翻訳されています。
 
 
 『**スーパーJチャンネル九州・沖縄**』（スーパージェイチャンネルきゅうしゅう おきなわ）は、[2000年](../Page/2000年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")までの間、[九州](../Page/九州.md "wikilink")・[沖縄地方の](../Page/沖縄県.md "wikilink")[ANN各局の](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[ブロックネット](../Page/ブロックネット.md "wikilink")で放送された[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink") (KBC) 制作の[報道番組](../Page/報道番組.md "wikilink")である。

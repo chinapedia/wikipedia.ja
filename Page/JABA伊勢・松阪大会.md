@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA伊勢・松阪大会](https://ja.wikipedia.org/wiki/JABA伊勢・松阪大会)から翻訳されています。
 
 
 [JABA_Ise-Matsusaka_2016.jpg](https://ja.wikipedia.org/wiki/File:JABA_Ise-Matsusaka_2016.jpg "fig:JABA_Ise-Matsusaka_2016.jpg")対[トヨタ自動車の試合の様子](../Page/トヨタ自動車硬式野球部.md "wikilink")。（10月4日、伊勢市倉田山公園野球場）\]\] **JABA伊勢・松阪大会**（JABAいせ・まつさかたいかい）は、[日本野球連盟](../Page/日本野球連盟.md "wikilink")の東海地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の大会である。正式名称は「伊勢神宮奉納社会人野球 JABA伊勢・松阪大会」。

@@ -125,8 +125,9 @@ TeslaはGPGPUプログラムの開発・実行環境として主に[CUDA](../Pag
 
 ## 外部リンク
 
-  - [NVIDIA](http://www.nvidia.co.jp/)
+  - [NVIDIA](https://www.nvidia.com/ja-jp/)
 
+  -
   -
   -
   -

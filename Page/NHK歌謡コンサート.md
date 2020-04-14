@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK歌謡コンサート](https://ja.wikipedia.org/wiki/NHK歌謡コンサート)から翻訳されています。
 
 
 『**NHK歌謡コンサート**』（エヌエイチケイかようコンサート）は、[NHKテレビジョンで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1993年](../Page/1993年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[2016年](../Page/2016年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")まで23年間・948回に渡り放送された生の[公開放送](../Page/公開放送.md "wikilink")形式の[音楽番組](../Page/音楽番組.md "wikilink")（[字幕放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")）。通称**歌コン**（うたこん。[2006年](../Page/2006年.md "wikilink")4月に新設された公式サイト・公式ブログにも使われていた）。

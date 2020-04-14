@@ -1,4 +1,4 @@
-> この記事は[UFO ! ](https://ja.wikipedia.org/wiki/UFO_!_)から翻訳されています。
+> この記事は[UFO大戦争 戦え! レッドタイガー](https://ja.wikipedia.org/wiki/UFO大戦争_戦え!_レッドタイガー)から翻訳されています。
 
 
 『**UFO大戦争 戦え\! レッドタイガー**』（ユーフォーだいせんそう たたかえ レッドタイガー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）[4月8日](../Page/4月8日.md "wikilink")から同年[12月28日](../Page/12月28日.md "wikilink")まで、[東京12チャンネル（現・テレビ東京）で毎週土曜日](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")18：00 - 18：30（13話まで）、毎週火曜日19：30 - 20：00（14話から25話まで）、毎週木曜日19：30 - 20：00（26話から）に全39話が放送された、[創英舎](https://ja.wikipedia.org/wiki/創英舎 "wikilink")製作の[特撮テレビ番組である](../Page/特撮テレビ番組一覧.md "wikilink")。

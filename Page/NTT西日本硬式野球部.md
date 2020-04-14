@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTT西日本硬式野球部](https://ja.wikipedia.org/wiki/NTT西日本硬式野球部)から翻訳されています。
 
 
 **NTT西日本硬式野球部**（エヌティーティーにしにほんこうしきやきゅうぶ）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に本拠地を置き、[日本野球連盟](../Page/日本野球連盟.md "wikilink")に加盟する[社会人野球](../Page/社会人野球.md "wikilink")の企業チームである。合宿所・練習グラウンドは、[京都府](../Page/京都府.md "wikilink")[久世郡](../Page/久世郡.md "wikilink")[久御山町](../Page/久御山町.md "wikilink")に所在する。
@@ -35,8 +35,8 @@
 
 「電電近畿」「NTT関西」時代を含む
 
-  - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")：出場28回、優勝1回（1965年）
-  - [社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink")：出場19回、準優勝1回（2005年）
+  - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink")：出場30回、優勝1回（1965年）
+  - [社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink")：出場21回、準優勝1回（2005年）
   - [JABA北海道大会](../Page/JABA北海道大会.md "wikilink")：優勝1回（2013年）
   - [JABA東京スポニチ大会](../Page/JABA東京スポニチ大会.md "wikilink")：優勝1回（2011年）
   - [JABA京都大会](../Page/JABA京都大会.md "wikilink")：優勝5回（2001、2002、2012、2014、2017年）

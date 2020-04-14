@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[Nソウルタワー](https://ja.wikipedia.org/wiki/Nソウルタワー)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Korea-Seoul-Namsan_Cable_Car-02.jpg "wikilink")\]\] **Nソウルタワー**は、[大韓民国](../Page/大韓民国.md "wikilink")[ソウル特別市](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[龍山区の](../Page/龍山区_\(ソウル特別市\).md "wikilink")[南山](../Page/南山.md "wikilink")公園内、頂上付近にある[塔](../Page/塔.md "wikilink")である。旧名は「南山タワー」。タワーの高さは236.7mである。南山の高さは243ｍなので、海抜からの高さは479.7mとなる。ソウル市内の各所から見ることができ、夜にはライトアップされた姿が浮かび上がる。テレビ・FMラジオ送信などを目的とした総合電波塔として建設されたが、展望台から市内を一望できるため観光地としても人気がある。アクセスは南山の麓と山頂を結ぶ[ロープウェイである](../Page/索道.md "wikilink")[南山ケーブルカー](https://ja.wikipedia.org/wiki/南山ケーブルカー "wikilink")を用いる。

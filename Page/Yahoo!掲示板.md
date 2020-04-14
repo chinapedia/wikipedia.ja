@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!掲示板](https://ja.wikipedia.org/wiki/Yahoo!掲示板)から翻訳されています。
 
 
 **Yahoo\!掲示板**（ヤフーけいじばん）とは、[Yahoo\! JAPANが運営していた](../Page/Yahoo!_JAPAN.md "wikilink")、[インターネット](../Page/インターネット.md "wikilink")[電子掲示板](../Page/電子掲示板.md "wikilink")[サイトであり](../Page/ウェブサイト.md "wikilink")、[匿名掲示板](../Page/匿名掲示板.md "wikilink")。運営期間は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")7月 - [2013年](../Page/2013年.md "wikilink")3月。本項目では実質上の後継である**textream**（テキストリーム）についても解説する。

@@ -114,7 +114,7 @@
 
   - [SONY MUSIC ACCESS](http://web.archive.org/web/20081203235121/http://www.tvk-yokohama.com/sma/) - 閉鎖。（2008年12月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
-[Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink") [Category:ローカルテレビ局の音楽番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の音楽番組 "wikilink") [Category:テレビ神奈川の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の深夜番組 "wikilink") [Category:KBS京都の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:KBS京都の深夜テレビ番組 "wikilink") [Category:ソニー一社提供番組](https://ja.wikipedia.org/wiki/Category:ソニー一社提供番組 "wikilink")
+[Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink") [Category:テレビ神奈川の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の音楽番組 "wikilink") [Category:テレビ神奈川の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の深夜番組 "wikilink") [Category:KBS京都の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:KBS京都の深夜テレビ番組 "wikilink") [Category:ソニー一社提供番組](https://ja.wikipedia.org/wiki/Category:ソニー一社提供番組 "wikilink")
 
 1.  音声多重放送になってすぐ切り替わったのではない。少なくとも1985年中は共同制作であった。このときは「TVK」「KBS」と製作局が併記されていたが、単独製作になって「TVK-TV」に変更となった。
 2.  ただし、1995年11月1日に開局した[TOKYO MXは](../Page/東京メトロポリタンテレビジョン.md "wikilink")、 1995/1996年はTVK制作のものを放送せず自社制作のものを放送したが、1996/1997年から1998/1999年まではTVK制作のものを放送した。

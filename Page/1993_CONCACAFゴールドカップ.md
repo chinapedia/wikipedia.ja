@@ -1,4 +1,4 @@
-> この記事は[1993 CONCACAF](https://ja.wikipedia.org/wiki/1993_CONCACAF)から翻訳されています。
+> この記事は[1993 CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/1993_CONCACAFゴールドカップ)から翻訳されています。
 
 
 **1993 CONCACAFゴールドカップ** (1993 CONCACAF Gold Cup) は、北中米およびカリブ海諸島の国々によって争われる、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink") (CONCACAF) 主催の、第2回目の[CONCACAFゴールドカップ](../Page/CONCACAFゴールドカップ.md "wikilink")である（前身も含めれば12回目）。

@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABAびわこ杯争奪社会人クラブ野球大会](https://ja.wikipedia.org/wiki/JABAびわこ杯争奪社会人クラブ野球大会)から翻訳されています。
 
 
 **JABAびわこ杯争奪社会人クラブ野球大会**（JABAびわこはいそうだつしゃかいじんクラブやきゅうたいかい）は、[日本野球連盟](../Page/日本野球連盟.md "wikilink")（JABA）の近畿地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の[クラブチームの大会である](../Page/クラブチーム_\(社会人野球\).md "wikilink")。[社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink")の対象大会にはなっていない。毎年10月下旬に[滋賀県](../Page/滋賀県.md "wikilink")で開催されている。略称は「JABAびわこ杯」。

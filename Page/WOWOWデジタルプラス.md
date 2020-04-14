@@ -1,4 +1,4 @@
-> この記事は[WOWOW](https://ja.wikipedia.org/wiki/WOWOW)から翻訳されています。
+> この記事は[WOWOWデジタルプラス](https://ja.wikipedia.org/wiki/WOWOWデジタルプラス)から翻訳されています。
 
 
 **WOWOWデジタルプラス**（ワウワウデジタルプラス）は、かつて株式会社[WOWOW](../Page/WOWOW.md "wikilink")が運営していた[東経110度CS放送の](../Page/日本における衛星放送.md "wikilink")[有料放送管理サービス](../Page/有料放送管理事業者.md "wikilink")（プラットフォーム）である。

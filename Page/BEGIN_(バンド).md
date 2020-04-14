@@ -1,4 +1,4 @@
-> この記事は[BEGIN \(\)](https://ja.wikipedia.org/wiki/BEGIN_\(\))から翻訳されています。
+> この記事は[BEGIN \(バンド\)](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\))から翻訳されています。
 
 
 **BEGIN**（ビギン）は、[沖縄県](../Page/沖縄県.md "wikilink")[石垣市](../Page/石垣市.md "wikilink")出身の3人からなる、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアコースティック[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。[レコード会社](../Page/レコード会社.md "wikilink")は[Imperial Records](../Page/インペリアルレコード_\(日本\).md "wikilink")。『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』出身のバンドである。「[涙そうそう](../Page/涙そうそう.md "wikilink")」や「[島人ぬ宝](../Page/島人ぬ宝.md "wikilink")」などヒット曲を世に送り出し、[紅白歌合戦にも出場した](../Page/NHK紅白歌合戦.md "wikilink")。
@@ -70,54 +70,53 @@
 
 ### シングル
 
-| \#   | 発売日         | タイトル                                                                                 | 最高順位 | 備考                                                                                                                                                   |
-| ---- | ----------- | ------------------------------------------------------------------------------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st  | 1990年3月21日  | [恋しくて](../Page/恋しくて_\(BEGINの曲\).md "wikilink")                                       | 4位   | [日産自動車](../Page/日産自動車.md "wikilink")CMソング、『[新金色夜叉 百年の恋](../Page/新金色夜叉_百年の恋.md "wikilink")』主題歌                                                        |
-| 2nd  | 1990年12月1日  | [Blue Snow](https://ja.wikipedia.org/wiki/Blue_Snow "wikilink")                      | 25位  |                                                                                                                                                      |
-| 3rd  | 1991年11月10日 | [YOU/これがはじまりだから](https://ja.wikipedia.org/wiki/YOU/これがはじまりだから "wikilink")            | 82位  | YOU[ユニマット](https://ja.wikipedia.org/wiki/ユニマット "wikilink")TVCMタイアップ曲 これがはじまりだから[アサヒほろにが](https://ja.wikipedia.org/wiki/アサヒほろにが "wikilink")TVCMタイアップ曲 |
-| 4th  | 1992年10月25日 | [あふれる涙](https://ja.wikipedia.org/wiki/あふれる涙 "wikilink")                              |      | [ファンハウス](https://ja.wikipedia.org/wiki/ファンハウス "wikilink")移籍第一弾                                                                                       |
-| 5th  | 1993年2月25日  | [さよなら、そしてありがとう](https://ja.wikipedia.org/wiki/さよなら、そしてありがとう "wikilink")              |      |                                                                                                                                                      |
-| 6th  | 1993年7月25日  | [誰かが君を呼ぶ声が](https://ja.wikipedia.org/wiki/誰かが君を呼ぶ声が "wikilink")                      |      |                                                                                                                                                      |
-| 7th  | 1993年11月1日  | [花待ち人](https://ja.wikipedia.org/wiki/花待ち人 "wikilink")                                |      |                                                                                                                                                      |
-| 8th  | 1994年7月25日  | [OKINAWAN SHOUT](https://ja.wikipedia.org/wiki/OKINAWAN_SHOUT "wikilink")            |      |                                                                                                                                                      |
-| 9th  | 1995年3月25日  | [君だけをつれて](https://ja.wikipedia.org/wiki/君だけをつれて "wikilink")                          |      |                                                                                                                                                      |
-| 10th | 1996年7月6日   | [声のおまもりください](https://ja.wikipedia.org/wiki/声のおまもりください "wikilink")                    | 36位  |                                                                                                                                                      |
-| 11th | 1997年5月21日  | [Birthday Song](https://ja.wikipedia.org/wiki/Birthday_Song "wikilink")              |      | [テイチク](https://ja.wikipedia.org/wiki/テイチク "wikilink")復帰第一弾                                                                                           |
-| 12th | 1997年9月3日   | [空に星があるように](../Page/空に星があるように.md "wikilink")                                         |      |                                                                                                                                                      |
-| 13th | 1997年11月21日 | [愛が走る](https://ja.wikipedia.org/wiki/愛が走る "wikilink")                                |      | 『[南町奉行事件帖 怒れ\!求馬](../Page/南町奉行事件帖_怒れ!求馬.md "wikilink")』主題歌                                                                                           |
-| 14th | 1998年3月21日  | [家へ帰ろう](https://ja.wikipedia.org/wiki/家へ帰ろう_\(BEGINの曲\) "wikilink")                  |      |                                                                                                                                                      |
-| 15th | 1998年6月24日  | [未来の君へ](https://ja.wikipedia.org/wiki/未来の君へ "wikilink")                              |      |                                                                                                                                                      |
-| 16th | 1998年8月12日  | [防波堤で見た景色](https://ja.wikipedia.org/wiki/防波堤で見た景色 "wikilink")                        | 99位  |                                                                                                                                                      |
-| 17th | 1999年10月21日 | [愛を捨てないで](https://ja.wikipedia.org/wiki/愛を捨てないで "wikilink")                          |      |                                                                                                                                                      |
-| 18th | 2000年3月23日  | [涙そうそう](https://ja.wikipedia.org/wiki/涙そうそう#シングル_\(BEGIN\) "wikilink")               | 159位 | 初マキシシングル                                                                                                                                             |
-| 19th | 2000年5月31日  | [空に星があるように](../Page/空に星があるように.md "wikilink")                                         | 47位  | 新装再発売マキシシングル                                                                                                                                         |
-| 20th | 2000年10月18日 | [風よ](https://ja.wikipedia.org/wiki/風よ "wikilink")                                    |      |                                                                                                                                                      |
-| 21st | 2001年10月24日 | [灯り](https://ja.wikipedia.org/wiki/灯り_\(BEGINの曲\) "wikilink")                        |      |                                                                                                                                                      |
-| 22nd | 2002年2月27日  | [ボトル二本とチョコレート](https://ja.wikipedia.org/wiki/ボトル二本とチョコレート "wikilink")                |      |                                                                                                                                                      |
-| 23rd | 2002年5月22日  | [島人ぬ宝](../Page/島人ぬ宝.md "wikilink")                                                   | 47位  |                                                                                                                                                      |
-| 24th | 2002年6月26日  | 涙そうそう/島人ぬ宝                                                                           |      | カセットテープ                                                                                                                                              |
-| 25th | 2003年2月20日  | [オジー自慢のオリオンビール (エイサー・バージョン)](https://ja.wikipedia.org/wiki/オジー自慢のオリオンビール "wikilink") |      | 沖縄限定発売マキシシングル                                                                                                                                        |
-| 26th | 2003年6月18日  | [その時生まれたもの](https://ja.wikipedia.org/wiki/その時生まれたもの "wikilink")                      | 38位  |                                                                                                                                                      |
-| 27th | 2004年2月25日  | [いつまでも/ユガフ島](https://ja.wikipedia.org/wiki/いつまでも/ユガフ島 "wikilink")                    | 49位  |                                                                                                                                                      |
-| 28th | 2004年8月11日  | [誓い](https://ja.wikipedia.org/wiki/誓い_\(BEGINの曲\) "wikilink")                        | 37位  |                                                                                                                                                      |
-| 29th | 2004年12月16日 | [君を見ている](https://ja.wikipedia.org/wiki/君を見ている "wikilink")                            | 98位  |                                                                                                                                                      |
-| 30th | 2006年10月25日 | [三線の花](https://ja.wikipedia.org/wiki/三線の花 "wikilink")                                | 20位  |                                                                                                                                                      |
-| 31st | 2007年2月7日   | [ミーファイユー](https://ja.wikipedia.org/wiki/ミーファイユー "wikilink")                          | 75位  |                                                                                                                                                      |
-| 32nd | 2007年7月25日  | [ここから未来へ](https://ja.wikipedia.org/wiki/ここから未来へ "wikilink")                          | 115位 |                                                                                                                                                      |
-| 33rd | 2008年6月28日  | [僕らのこの素晴らしき世界](https://ja.wikipedia.org/wiki/僕らのこの素晴らしき世界 "wikilink")                | 99位  |                                                                                                                                                      |
-| 34th | 2008年10月22日 | [イチャリバオハナ](https://ja.wikipedia.org/wiki/イチャリバオハナ "wikilink")                        | 112位 |                                                                                                                                                      |
-| 35th | 2009年1月7日   | [笑顔のまんま](https://ja.wikipedia.org/wiki/笑顔のまんま "wikilink")                            | 12位  | **BEGIN with アホナスターズ**名義                                                                                                                             |
-| 36th | 2012年9月7日   | [国道508号線](https://ja.wikipedia.org/wiki/国道508号線 "wikilink")                          | 72位  | 沖縄限定発売マキシシングル                                                                                                                                        |
-| 37th | 2013年3月20日  | [春にゴンドラ](https://ja.wikipedia.org/wiki/春にゴンドラ "wikilink")                            | 156位 |                                                                                                                                                      |
-| 38th | 2015年8月26日  | ハンドル                                                                                 |      | 配信シングル                                                                                                                                               |
-| 39th | 2016年6月1日   | 海の声 ～SPECIAL PACKAGE～                                                                |      | 配信シングル                                                                                                                                               |
-| 40th | 2016年9月16日  | 苗                                                                                    |      | 沖縄限定発売                                                                                                                                               |
-| 41st | 2016年10月26日 | 網にも掛からん別れ話                                                                           | 188位 |                                                                                                                                                      |
-| 42nd | 2018年1月13日  | ソウセイ                                                                                 |      | 沖縄限定発売                                                                                                                                               |
-| 43rd | 2018年6月20日  | 笑顔のまんま（マルシャ ショーラ・フル・バージョン）                                                           |      | 配信シングル                                                                                                                                               |
-| 44th | 2018年8月12日  | バンドを組もうよ                                                                             |      | 配信シングル                                                                                                                                               |
-| 45th | 2018年8月12日  | 飛んで火に入る腹の虫                                                                           |      | 配信シングル                                                                                                                                               |
-|      |             |                                                                                      |      |                                                                                                                                                      |
+| \#   | 発売日         | タイトル                                                                                | 最高順位 | 備考                                                                                                                                                   |
+| ---- | ----------- | ----------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st  | 1990年3月21日  | [恋しくて](../Page/恋しくて_\(BEGINの曲\).md "wikilink")                                      | 4位   | [日産自動車](../Page/日産自動車.md "wikilink")CMソング、『[新金色夜叉 百年の恋](../Page/新金色夜叉_百年の恋.md "wikilink")』主題歌                                                        |
+| 2nd  | 1990年12月1日  | [Blue Snow](https://ja.wikipedia.org/wiki/Blue_Snow "wikilink")                     | 25位  |                                                                                                                                                      |
+| 3rd  | 1991年11月10日 | [YOU/これがはじまりだから](https://ja.wikipedia.org/wiki/YOU/これがはじまりだから "wikilink")           | 82位  | YOU[ユニマット](https://ja.wikipedia.org/wiki/ユニマット "wikilink")TVCMタイアップ曲 これがはじまりだから[アサヒほろにが](https://ja.wikipedia.org/wiki/アサヒほろにが "wikilink")TVCMタイアップ曲 |
+| 4th  | 1992年10月25日 | [あふれる涙](https://ja.wikipedia.org/wiki/あふれる涙 "wikilink")                             |      | [ファンハウス](https://ja.wikipedia.org/wiki/ファンハウス "wikilink")移籍第一弾                                                                                       |
+| 5th  | 1993年2月25日  | [さよなら、そしてありがとう](https://ja.wikipedia.org/wiki/さよなら、そしてありがとう "wikilink")             |      |                                                                                                                                                      |
+| 6th  | 1993年7月25日  | [誰かが君を呼ぶ声が](https://ja.wikipedia.org/wiki/誰かが君を呼ぶ声が "wikilink")                     |      |                                                                                                                                                      |
+| 7th  | 1993年11月1日  | [花待ち人](https://ja.wikipedia.org/wiki/花待ち人 "wikilink")                               |      |                                                                                                                                                      |
+| 8th  | 1994年7月25日  | [OKINAWAN SHOUT](https://ja.wikipedia.org/wiki/OKINAWAN_SHOUT "wikilink")           |      |                                                                                                                                                      |
+| 9th  | 1995年3月25日  | [君だけをつれて](https://ja.wikipedia.org/wiki/君だけをつれて "wikilink")                         |      |                                                                                                                                                      |
+| 10th | 1996年7月6日   | [声のおまもりください](https://ja.wikipedia.org/wiki/声のおまもりください "wikilink")                   | 36位  |                                                                                                                                                      |
+| 11th | 1997年5月21日  | [Birthday Song](https://ja.wikipedia.org/wiki/Birthday_Song "wikilink")             |      | [テイチク](https://ja.wikipedia.org/wiki/テイチク "wikilink")復帰第一弾                                                                                           |
+| 12th | 1997年9月3日   | [空に星があるように](../Page/空に星があるように.md "wikilink")                                        |      |                                                                                                                                                      |
+| 13th | 1997年11月21日 | [愛が走る](https://ja.wikipedia.org/wiki/愛が走る "wikilink")                               |      | 『[南町奉行事件帖 怒れ\!求馬](../Page/南町奉行事件帖_怒れ!求馬.md "wikilink")』主題歌                                                                                           |
+| 14th | 1998年3月21日  | [家へ帰ろう](https://ja.wikipedia.org/wiki/家へ帰ろう_\(BEGINの曲\) "wikilink")                 |      |                                                                                                                                                      |
+| 15th | 1998年6月24日  | [未来の君へ](https://ja.wikipedia.org/wiki/未来の君へ "wikilink")                             |      |                                                                                                                                                      |
+| 16th | 1998年8月12日  | [防波堤で見た景色](https://ja.wikipedia.org/wiki/防波堤で見た景色 "wikilink")                       | 99位  |                                                                                                                                                      |
+| 17th | 1999年10月21日 | [愛を捨てないで](https://ja.wikipedia.org/wiki/愛を捨てないで "wikilink")                         |      |                                                                                                                                                      |
+| 18th | 2000年3月23日  | [涙そうそう](https://ja.wikipedia.org/wiki/涙そうそう#シングル_\(BEGIN\) "wikilink")              | 159位 | 初マキシシングル                                                                                                                                             |
+| 19th | 2000年5月31日  | [空に星があるように](../Page/空に星があるように.md "wikilink")                                        | 47位  | 新装再発売マキシシングル                                                                                                                                         |
+| 20th | 2000年10月18日 | [風よ](https://ja.wikipedia.org/wiki/風よ "wikilink")                                   |      |                                                                                                                                                      |
+| 21st | 2001年10月24日 | [灯り](https://ja.wikipedia.org/wiki/灯り_\(BEGINの曲\) "wikilink")                       |      |                                                                                                                                                      |
+| 22nd | 2002年2月27日  | [ボトル二本とチョコレート](https://ja.wikipedia.org/wiki/ボトル二本とチョコレート "wikilink")               |      |                                                                                                                                                      |
+| 23rd | 2002年5月22日  | [島人ぬ宝](../Page/島人ぬ宝.md "wikilink")                                                  | 47位  |                                                                                                                                                      |
+| 24th | 2002年6月26日  | 涙そうそう/島人ぬ宝                                                                          |      | カセットテープ                                                                                                                                              |
+| 25th | 2003年2月20日  | [オジー自慢のオリオンビール](https://ja.wikipedia.org/wiki/オジー自慢のオリオンビール "wikilink")（エイサー・バージョン） |      | 沖縄限定発売マキシシングル                                                                                                                                        |
+| 26th | 2003年6月18日  | [その時生まれたもの](https://ja.wikipedia.org/wiki/その時生まれたもの "wikilink")                     | 38位  |                                                                                                                                                      |
+| 27th | 2004年2月25日  | [いつまでも/ユガフ島](https://ja.wikipedia.org/wiki/いつまでも/ユガフ島 "wikilink")                   | 49位  |                                                                                                                                                      |
+| 28th | 2004年8月11日  | [誓い](https://ja.wikipedia.org/wiki/誓い_\(BEGINの曲\) "wikilink")                       | 37位  |                                                                                                                                                      |
+| 29th | 2004年12月16日 | [君を見ている](https://ja.wikipedia.org/wiki/君を見ている "wikilink")                           | 98位  |                                                                                                                                                      |
+| 30th | 2006年10月25日 | [三線の花](https://ja.wikipedia.org/wiki/三線の花 "wikilink")                               | 20位  |                                                                                                                                                      |
+| 31st | 2007年2月7日   | [ミーファイユー](https://ja.wikipedia.org/wiki/ミーファイユー "wikilink")                         | 75位  |                                                                                                                                                      |
+| 32nd | 2007年7月25日  | [ここから未来へ](https://ja.wikipedia.org/wiki/ここから未来へ "wikilink")                         | 115位 |                                                                                                                                                      |
+| 33rd | 2008年6月28日  | [僕らのこの素晴らしき世界](https://ja.wikipedia.org/wiki/僕らのこの素晴らしき世界 "wikilink")               | 99位  |                                                                                                                                                      |
+| 34th | 2008年10月22日 | [イチャリバオハナ](https://ja.wikipedia.org/wiki/イチャリバオハナ "wikilink")                       | 112位 |                                                                                                                                                      |
+| 35th | 2009年1月7日   | [笑顔のまんま](https://ja.wikipedia.org/wiki/笑顔のまんま "wikilink")                           | 12位  | **BEGIN with アホナスターズ**名義                                                                                                                             |
+| 36th | 2012年9月7日   | [国道508号線](https://ja.wikipedia.org/wiki/国道508号線 "wikilink")                         | 72位  | 沖縄限定発売マキシシングル                                                                                                                                        |
+| 37th | 2013年3月20日  | [春にゴンドラ](https://ja.wikipedia.org/wiki/春にゴンドラ "wikilink")                           | 156位 |                                                                                                                                                      |
+| 38th | 2015年8月26日  | ハンドル                                                                                |      | 配信シングル                                                                                                                                               |
+| 39th | 2016年6月1日   | 海の声 ～SPECIAL PACKAGE～                                                               |      | 配信シングル                                                                                                                                               |
+| 40th | 2016年9月16日  | 苗                                                                                   |      | 沖縄限定発売                                                                                                                                               |
+| 41st | 2016年10月26日 | 網にも掛からん別れ話                                                                          | 188位 |                                                                                                                                                      |
+| 42nd | 2018年1月13日  | ソウセイ                                                                                |      | 沖縄限定発売                                                                                                                                               |
+| 43rd | 2018年6月20日  | 笑顔のまんま（マルシャ ショーラ・フル・バージョン）                                                          |      | 配信シングル                                                                                                                                               |
+| 44th | 2018年8月12日  | バンドを組もうよ                                                                            |      | 配信シングル                                                                                                                                               |
+| 45th | 2018年8月12日  | 飛んで火に入る腹の虫                                                                          |      | 配信シングル                                                                                                                                               |
 
 ### アルバム
 
@@ -417,51 +416,44 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </tbody>
 </table>
 
 ### その他
 
-1.  1989年11月 Album 『[Beginning](https://ja.wikipedia.org/wiki/Beginning_\(BEGINのアルバム\) "wikilink")』 （[イカ天レーベルCD](../Page/三宅裕司のいかすバンド天国.md "wikilink")）
-2.  1994年12月1日 Single 「[Paper Moon 〜再会のテーマ〜](https://ja.wikipedia.org/wiki/Paper_Moon_〜再会のテーマ〜 "wikilink")」 （[真田広之](../Page/真田広之.md "wikilink")とのセッションバンド）
-3.  1997年1月21日 Single 「[WISH ―鳥たちよ！](https://ja.wikipedia.org/wiki/WISH_―鳥たちよ！ "wikilink")」 （[比嘉栄昇](https://ja.wikipedia.org/wiki/比嘉栄昇 "wikilink")初のソロ・シングル）
-4.  2004年1月1日 Album 『[テイチクアワー 一五一会](https://ja.wikipedia.org/wiki/テイチクアワー_一五一会 "wikilink")』 （[テイチク](https://ja.wikipedia.org/wiki/テイチク "wikilink")創立70周年記念企画第一弾アルバム）
-5.  2005年5月25日 Album 『Beginning』 （イカ天レーベルCD復刻盤、エキストラ特典映像付）
-6.  2005年7月17日 Single 「[こころのこだま](https://ja.wikipedia.org/wiki/こころのこだま "wikilink")」 （[いちごいちえ](https://ja.wikipedia.org/wiki/いちごいちえ "wikilink")）
-7.  2006年8月1日 Single 「[ティダナダ](https://ja.wikipedia.org/wiki/ティダナダ "wikilink")」 （比嘉栄昇ソロ・シングル）（沖縄本島限定発売マキシシングル）
-8.  2006年8月1日 Single 「[八重のふるさと](https://ja.wikipedia.org/wiki/八重のふるさと "wikilink")」 （比嘉栄昇ソロ・シングル）（石垣島限定発売マキシシングル）
-9.  2006年8月1日 Single 「[アララガマまたワイド](https://ja.wikipedia.org/wiki/アララガマまたワイド "wikilink")」 （比嘉栄昇ソロ・シングル）（宮古島限定発売マキシシングル）
-10. 2006年8月23日 Album 『[とうさんか](https://ja.wikipedia.org/wiki/とうさんか "wikilink")』 （比嘉栄昇初のソロアルバム）
-11. 2011年3月2日 Album 「[BEGIN 20th ANNIVERSARY SPECIAL TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/BEGIN_20th_ANNIVERSARY_SPECIAL_TRIBUTE_ALBUM "wikilink")」（BEGINのトリビュートアルバム）
-12. 2011年3月2日 Album 「[BEGIN 20th ANNIVERSARY SPECIAL COVER ALBUM](https://ja.wikipedia.org/wiki/BEGIN_20th_ANNIVERSARY_SPECIAL_COVER_ALBUM "wikilink")」（BEGINのカバーアルバム）
+1.  1989年11月 Album『[Beginning](https://ja.wikipedia.org/wiki/Beginning_\(BEGINのアルバム\) "wikilink")』（[イカ天レーベルCD](../Page/三宅裕司のいかすバンド天国.md "wikilink")）
+2.  1994年12月1日 Single「[Paper Moon 〜再会のテーマ〜](https://ja.wikipedia.org/wiki/Paper_Moon_〜再会のテーマ〜 "wikilink")」（[真田広之](../Page/真田広之.md "wikilink")とのセッションバンド）
+3.  1997年1月21日 Single「[WISH ―鳥たちよ！](https://ja.wikipedia.org/wiki/WISH_―鳥たちよ！ "wikilink")」（[比嘉栄昇](https://ja.wikipedia.org/wiki/比嘉栄昇 "wikilink")初のソロ・シングル）
+4.  2004年1月1日 Album『[テイチクアワー 一五一会](https://ja.wikipedia.org/wiki/テイチクアワー_一五一会 "wikilink")』 （[テイチク](https://ja.wikipedia.org/wiki/テイチク "wikilink")創立70周年記念企画第一弾アルバム）
+5.  2005年5月25日 Album『Beginning』（イカ天レーベルCD復刻盤、エキストラ特典映像付）
+6.  2005年7月17日 Single「[こころのこだま](https://ja.wikipedia.org/wiki/こころのこだま "wikilink")」（[いちごいちえ](https://ja.wikipedia.org/wiki/いちごいちえ "wikilink")）
+7.  2006年8月1日 Single「[ティダナダ](https://ja.wikipedia.org/wiki/ティダナダ "wikilink")」（比嘉栄昇ソロ・シングル）（沖縄本島限定発売マキシシングル）
+8.  2006年8月1日 Single「[八重のふるさと](https://ja.wikipedia.org/wiki/八重のふるさと "wikilink")」（比嘉栄昇ソロ・シングル）（石垣島限定発売マキシシングル）
+9.  2006年8月1日 Single「[アララガマまたワイド](https://ja.wikipedia.org/wiki/アララガマまたワイド "wikilink")」（比嘉栄昇ソロ・シングル）（宮古島限定発売マキシシングル）
+10. 2006年8月23日 Album『[とうさんか](https://ja.wikipedia.org/wiki/とうさんか "wikilink")』（比嘉栄昇初のソロアルバム）
+11. 2011年3月2日 Album「[BEGIN 20th ANNIVERSARY SPECIAL TRIBUTE ALBUM](https://ja.wikipedia.org/wiki/BEGIN_20th_ANNIVERSARY_SPECIAL_TRIBUTE_ALBUM "wikilink")」（BEGINのトリビュートアルバム）
+12. 2011年3月2日 Album「[BEGIN 20th ANNIVERSARY SPECIAL COVER ALBUM](https://ja.wikipedia.org/wiki/BEGIN_20th_ANNIVERSARY_SPECIAL_COVER_ALBUM "wikilink")」（BEGINのカバーアルバム）
 
 また、『[2008年FNS27時間テレビ](../Page/FNS27時間テレビ_\(2008年\).md "wikilink")』で、「笑顔のまんま」を作詞・作曲している。
 
 ### 参加作品
 
-1.  1998年05月21日 『[祭囃子〜ゲームトリビュート](https://ja.wikipedia.org/wiki/祭囃子〜ゲームトリビュート "wikilink")』（[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")20周年記念[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")／島袋のみ参加）
-2.  2002年03月06日 『[和音〜Songs for Children〜](../Page/和音〜Songs_for_Children〜.md "wikilink")』（[DEEN](../Page/DEEN.md "wikilink")初のカバーアルバム）
-3.  2008年10月22日 『[さだまさしトリビュート さだのうた](https://ja.wikipedia.org/wiki/さだまさしトリビュート_さだのうた "wikilink")』（[さだまさし](../Page/さだまさし.md "wikilink")デビュー35周年記念トリビュート・アルバム）
-4.  2009年07月21日 『[BOOMANIA～THE BOOM SPECIAL BEST COVERS～](https://ja.wikipedia.org/wiki/BOOMANIA～THE_BOOM_SPECIAL_BEST_COVERS～ "wikilink")』（[THE BOOMデビュー](../Page/THE_BOOM.md "wikilink")20周年記念トリビュート・アルバム）
-5.  2011年12月14日 『[Happy Holidays\! ～CITY POPS COVERS～](https://ja.wikipedia.org/wiki/Happy_Holidays!_～CITY_POPS_COVERS～ "wikilink")』（シティ・ポップスのカバーアルバム）
-6.  2012年05月02日 『KING OF SONGWRITER～SONGS OF COVERS～』（[忌野清志郎](../Page/忌野清志郎.md "wikilink")のカバーアルバム）
+1.  1998年05月21日『[祭囃子〜ゲームトリビュート](https://ja.wikipedia.org/wiki/祭囃子〜ゲームトリビュート "wikilink")』（[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")20周年記念[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")／島袋のみ参加）
+2.  2002年03月06日『[和音〜Songs for Children〜](../Page/和音〜Songs_for_Children〜.md "wikilink")』（[DEEN](../Page/DEEN.md "wikilink")初のカバーアルバム）
+3.  2008年10月22日『[さだまさしトリビュート さだのうた](https://ja.wikipedia.org/wiki/さだまさしトリビュート_さだのうた "wikilink")』（[さだまさし](../Page/さだまさし.md "wikilink")デビュー35周年記念トリビュート・アルバム）
+4.  2009年07月21日『[BOOMANIA～THE BOOM SPECIAL BEST COVERS～](https://ja.wikipedia.org/wiki/BOOMANIA～THE_BOOM_SPECIAL_BEST_COVERS～ "wikilink")』（[THE BOOMデビュー](../Page/THE_BOOM.md "wikilink")20周年記念トリビュート・アルバム）
+5.  2011年12月14日『[Happy Holidays\! ～CITY POPS COVERS～](https://ja.wikipedia.org/wiki/Happy_Holidays!_～CITY_POPS_COVERS～ "wikilink")』（シティ・ポップスのカバーアルバム）
+6.  2012年05月02日『KING OF SONGWRITER～SONGS OF COVERS～』（[忌野清志郎](../Page/忌野清志郎.md "wikilink")のカバーアルバム）
 
 ### DVD
 
-1.  2005年7月6日 『[BEGIN 15th ANNIVERSARY CONCERT 〜Wonderful Tonight〜 at 武道館](https://ja.wikipedia.org/wiki/BEGIN_15th_ANNIVERSARY_CONCERT_〜Wonderful_Tonight〜_at_武道館 "wikilink")』
+1.  2005年7月6日『[BEGIN 15th ANNIVERSARY CONCERT 〜Wonderful Tonight〜 at 武道館](https://ja.wikipedia.org/wiki/BEGIN_15th_ANNIVERSARY_CONCERT_〜Wonderful_Tonight〜_at_武道館 "wikilink")』
       - （2005年3月17日、[日本武道館](../Page/日本武道館.md "wikilink")にて収録）
-2.  2005年7月6日 『[BEGIN 15th ANNIVERSARY CONCERT 〜Wonderful Tonight〜 at 大阪城ホール](https://ja.wikipedia.org/wiki/BEGIN_15th_ANNIVERSARY_CONCERT_〜Wonderful_Tonight〜_at_大阪城ホール "wikilink")』
+2.  2005年7月6日『[BEGIN 15th ANNIVERSARY CONCERT 〜Wonderful Tonight〜 at 大阪城ホール](https://ja.wikipedia.org/wiki/BEGIN_15th_ANNIVERSARY_CONCERT_〜Wonderful_Tonight〜_at_大阪城ホール "wikilink")』
       - （2005年4月2日、[大阪城ホール](../Page/大阪城ホール.md "wikilink")にて収録）
-3.  2005年7月6日 『[BEGIN 15周年ドキュメント音楽旅団 〜そしてライブが始まる〜](https://ja.wikipedia.org/wiki/BEGIN_15周年ドキュメント音楽旅団_〜そしてライブが始まる〜 "wikilink")』
-4.  2005年7月6日 『[BEGIN 15周年記念DVD BOX](https://ja.wikipedia.org/wiki/BEGIN_15周年記念DVD_BOX "wikilink")』 （同発のDVD3タイトルにスペシャル特典DVDをプラスした4枚組）
-5.  2008年2月27日 『[BEGIN アコースティックコンサート2007 らいぶ いず 往来（オーライ）](https://ja.wikipedia.org/wiki/BEGIN_アコースティックコンサート2007_らいぶ_いず_往来（オーライ） "wikilink")』
+3.  2005年7月6日『[BEGIN 15周年ドキュメント音楽旅団 〜そしてライブが始まる〜](https://ja.wikipedia.org/wiki/BEGIN_15周年ドキュメント音楽旅団_〜そしてライブが始まる〜 "wikilink")』
+4.  2005年7月6日『[BEGIN 15周年記念DVD BOX](https://ja.wikipedia.org/wiki/BEGIN_15周年記念DVD_BOX "wikilink")』（同発のDVD3タイトルにスペシャル特典DVDをプラスした4枚組）
+5.  2008年2月27日『[BEGIN アコースティックコンサート2007 らいぶ いず 往来（オーライ）](https://ja.wikipedia.org/wiki/BEGIN_アコースティックコンサート2007_らいぶ_いず_往来（オーライ） "wikilink")』
       - （2007年11月24日、[新宿コマ劇場](../Page/新宿コマ劇場.md "wikilink")にて収録）
 
 ### 楽曲提供
@@ -531,7 +523,7 @@
 
   - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[ちゅらさん](../Page/ちゅらさん.md "wikilink")』（2001年）
   - [Music Lovers](../Page/Music_Lovers.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")、2010年11月14日）出演
-  - [Panasonic 3D Music Studio](https://ja.wikipedia.org/wiki/Panasonic_3D_Music_Studio "wikilink")（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、2011年3月14日～18日）出演
+  - [Panasonic 3D Music Studio](https://ja.wikipedia.org/wiki/Panasonic_3D_Music_Studio "wikilink")（[BS朝日](../Page/ビーエス朝日.md "wikilink")、2011年3月14日～18日）出演
   - [課外授業 ようこそ先輩](../Page/課外授業_ようこそ先輩.md "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2012年1月7日）先輩として母校・登野城小の校歌を生徒たちとレコーディング
   - BEGINの音色旅団 デビュー25年目の真実（BS朝日、2015年3月29日）
   - [SONGS (テレビ番組)](../Page/SONGS_\(テレビ番組\).md "wikilink")(2019年3月9日、[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink"))
@@ -564,11 +556,8 @@
   - [夏川りみ](https://ja.wikipedia.org/wiki/夏川りみ "wikilink")（同じ石垣島出身。姉がBEGINメンバーと同級生）
   - [やなわらばー](https://ja.wikipedia.org/wiki/やなわらばー "wikilink")（同じ石垣島出身で八重山高校の後輩）
   - [大嶺祐太](../Page/大嶺祐太.md "wikilink")（同上、[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")所属で応援歌を提供している。）
-  - [スティッチ\!](https://ja.wikipedia.org/wiki/スティッチ! "wikilink")（ディズニーのテレビアニメ、オープニング及びエンディングを担当。作中の舞台が沖縄）
+  - [スティッチ\!](https://ja.wikipedia.org/wiki/スティッチ! "wikilink")（ディズニーのテレビアニメ、オープニングおよびエンディングを担当。作中の舞台が沖縄）
   - [三宅裕司のいかすバンド天国に出場したバンド](../Page/三宅裕司のいかすバンド天国に出場したバンド.md "wikilink")
-
-<!-- end list -->
-
   - 比嘉舜太郎（息子 学生バンド、ソーラーライツのドラムとして活動 八重山高校生徒会長も務めた）
 
 ## 外部リンク

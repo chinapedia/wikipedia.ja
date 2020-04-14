@@ -437,7 +437,7 @@ melody. PREMIUM ACOUSTIC LIVE
 
 ### ラジオ
 
-  - melody. Flow's On（[JFN](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")／2004年3月30日-2006年9月26日）
+  - melody. Flow's On（[JFN](../Page/全国FM放送協議会.md "wikilink")／2004年3月30日-2006年9月26日）
   - [α-MONTHLY COLORS](https://ja.wikipedia.org/wiki/α-MONTHLY_COLORS "wikilink")（[α-station](../Page/エフエム京都.md "wikilink")／2006年4月）
   - melody. PARK（[FM OSAKA](../Page/エフエム大阪.md "wikilink")／ 「[MUSIC COASTER FRIDAY](https://ja.wikipedia.org/wiki/MUSIC_COASTER#MUSIC_COASTER_FRIDAY "wikilink")」内／2007年10月12日-2008年5月）
 

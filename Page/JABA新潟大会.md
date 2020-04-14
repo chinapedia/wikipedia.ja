@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA新潟大会](https://ja.wikipedia.org/wiki/JABA新潟大会)から翻訳されています。
 
 
 **JABA新潟大会**（JABAにいがたたいかい）は、[日本野球連盟](../Page/日本野球連盟.md "wikilink")の北信越地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の大会である。正式名称は、「**JABA選抜新潟大会**（JABAせんばつにいがたたいかい）」である。

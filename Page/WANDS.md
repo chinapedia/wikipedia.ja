@@ -1,7 +1,7 @@
 > この記事は[WANDS](https://ja.wikipedia.org/wiki/WANDS)から翻訳されています。
 
 
-**WANDS**（ワンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性3人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1991年](../Page/1991年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属[レコードレーベル](../Page/レコードレーベル.md "wikilink")は[GIZA studio傘下の](../Page/GIZA_studio.md "wikilink")[D-GO](https://ja.wikipedia.org/wiki/D-GO "wikilink")。
+**WANDS**（ワンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性3人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。[1991年](../Page/1991年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[Ading](../Page/Ading.md "wikilink")。所属[レコードレーベル](../Page/レコードレーベル.md "wikilink")は[GIZA studio傘下の](../Page/GIZA_studio.md "wikilink")[D-GO](https://ja.wikipedia.org/wiki/D-GO "wikilink")。公式ファンクラブは「WANDER-LAND NEO」。
 
 ## メンバー
 
@@ -98,37 +98,37 @@
 
 ### 結成、デビュー 〜 解体（1991年 - 2000年）
 
-[1991年](../Page/1991年.md "wikilink")夏頃、[ビーイング](../Page/ビーイング.md "wikilink")の音楽プロデューサー[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")を介し、ビーイングが主催している音楽振興会在籍の上杉と、BADオーディションで最終選考に残っていた柴崎、さらに[LOUDNESS](../Page/LOUDNESS.md "wikilink")のサポートメンバーとして活動していた大島を加えて結成\[5\]。同年12月にシングル「[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")」でデビュー。
+[1991年](../Page/1991年.md "wikilink")夏頃、[ビーイング](../Page/ビーイング.md "wikilink")の音楽プロデューサー[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")を介し、当時のBeing音楽振興会（後の[Being Music School](https://ja.wikipedia.org/wiki/Being_Music_School "wikilink")）在籍の上杉と、BADオーディション（Being Artist Development Audition）で最終選考に残っていた柴崎、さらに[LOUDNESS](../Page/LOUDNESS.md "wikilink")のサポートメンバーとして活動していた大島を加えて結成\[5\]。同年12月にシングル『[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")』でデビュー。
 
-[1992年](../Page/1992年.md "wikilink")7月、3rdシングル「[もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")」を発表。この作品を最後に、大島が自身のユニット**[SO-FI](../Page/SO-FI.md "wikilink")**を結成するために脱退。後任として、柴崎の[YAMAHA音楽院時代の知人であった木村が加入した](../Page/ヤマハ音楽院.md "wikilink")。10月、[中山美穂](../Page/中山美穂.md "wikilink")とのコラボレーション作品として、**中山美穂 & WANDS**名義で発表したシングル「[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")」が[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")の大ヒットを記録。1992年の『[第43回NHK紅白歌合戦](../Page/第43回NHK紅白歌合戦.md "wikilink")』に中山がこの曲で出場した際、正式な出場歌手ではないもののWANDSも参加した。「もっと強く抱きしめたなら」も、オリコンチャート登場29週目にして1位となりミリオンセラーを記録する。
+[1992年](../Page/1992年.md "wikilink")7月、3rdシングル『[もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")』を発表。この作品を最後に、大島が自身のユニット**[SO-FI](../Page/SO-FI.md "wikilink")**を結成するために脱退。後任として、柴崎の[YAMAHA音楽院時代の知人であった木村が加入した](../Page/ヤマハ音楽院.md "wikilink")。10月、[中山美穂](../Page/中山美穂.md "wikilink")とのコラボレーション作品として、**中山美穂 & WANDS**名義で発表したシングル『[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")』が[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")の大ヒットを記録。1992年の『[第43回NHK紅白歌合戦](../Page/第43回NHK紅白歌合戦.md "wikilink")』に中山がこの曲で出場した際、正式な出場歌手ではないもののWANDSも参加した。『もっと強く抱きしめたなら』も、オリコンチャート登場29週目にして1位となりミリオンセラーを記録する。
 
-[1993年](../Page/1993年.md "wikilink")2月、4thシングル「[時の扉](../Page/時の扉_\(WANDSの曲\).md "wikilink")」を発表。4月にはシングルと同タイトルの2ndアルバム『[時の扉](../Page/時の扉_\(WANDSのアルバム\).md "wikilink")』を発表。いずれもオリコンチャート1位、ミリオンセラー記録の大ヒットとなり、日本の音楽界においてトップアーティストとしての地位を確立する。1993年度はシングル4,112,008枚、アルバム3,187,564枚の売り上げを記録し、第8回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")を受賞した。以降1995年まで、シングル「[愛を語るより口づけをかわそう](../Page/愛を語るより口づけをかわそう.md "wikilink")」「[世界が終るまでは…](../Page/世界が終るまでは….md "wikilink")」、アルバム『[Little Bit…](../Page/Little_Bit….md "wikilink")』『[PIECE OF MY SOUL](../Page/PIECE_OF_MY_SOUL.md "wikilink")』が、それぞれミリオンセラーを記録。シングル「[恋せよ乙女](https://ja.wikipedia.org/wiki/恋せよ乙女 "wikilink")」「[Secret Night 〜It's My Treat〜](../Page/Secret_Night_〜It's_My_Treat〜.md "wikilink")」もオリコンチャート1位獲得のヒットとなった。
+[1993年](../Page/1993年.md "wikilink")2月、4thシングル『[時の扉](../Page/時の扉_\(WANDSの曲\).md "wikilink")』、4月には同名のアルバム『[時の扉](../Page/時の扉_\(WANDSのアルバム\).md "wikilink")』を発表。いずれもオリコンチャート1位、ミリオンセラー記録の大ヒットとなり、日本の音楽界においてトップアーティストとしての地位を確立する。1993年度はシングル4,112,008枚、アルバム3,187,564枚の売り上げを記録し、第8回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")を受賞した。以降1995年まで、シングル『[愛を語るより口づけをかわそう](../Page/愛を語るより口づけをかわそう.md "wikilink")』『[世界が終るまでは…](../Page/世界が終るまでは….md "wikilink")』、アルバム『[Little Bit…](../Page/Little_Bit….md "wikilink")』『[PIECE OF MY SOUL](../Page/PIECE_OF_MY_SOUL.md "wikilink")』が、それぞれミリオンセラーを記録。シングル『[恋せよ乙女](https://ja.wikipedia.org/wiki/恋せよ乙女 "wikilink")』『[Secret Night 〜It's My Treat〜](../Page/Secret_Night_〜It's_My_Treat〜.md "wikilink")』もオリコンチャート1位獲得のヒットとなった。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月、10thシングル「[Same Side](../Page/Same_Side.md "wikilink")」を発表。2ndシングル以来のメンバーのみの手によるシングル曲で、上杉が志向する欧米的な流れである[ニルヴァーナ風の](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")[オルタナティブのサウンドを如実に示すものであったが](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")、当時の日本での売れ筋J-POP路線とは一線を画していたため前作から大幅に売上を落とす結果となった。しかし現在ファンの間では再評価され、上杉自身も「この曲が今の自分の音楽の原点となった。」と発言している。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")12月、10thシングル『[Same Side](../Page/Same_Side.md "wikilink")』を発表。2ndシングル以来のメンバーのみの手によるシングル曲で、上杉が志向する欧米的な流れである[ニルヴァーナ風の](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")[オルタナティブのサウンドを如実に示すものであったが](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")、当時の日本での売れ筋J-POP路線とは一線を画していたため前作から大幅に売上を落とす結果となった。しかし現在ファンの間では再評価され、上杉自身も「この曲が今の自分の音楽の原点となった。」と発言している。
 
-[1996年](../Page/1996年.md "wikilink")2月、11thシングル「[WORST CRIME 〜About a rock star who was a swindler〜/Blind To My Heart](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")」を発表後、長戸が求めるWANDSのスタイルと音楽性との違いを理由に[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")初頭に上杉昇と柴崎浩が脱退（後に2人は**[al.ni.co](https://ja.wikipedia.org/wiki/al.ni.co "wikilink")**を結成）し、活動を休止。ビーイングが「WANDS」の名前を商標登録していたため、残った木村真也は2代目ボーカルに和久二郎、ギターに杉元一生を迎え、第3期WANDSとして活動を再開する。
+[1996年](../Page/1996年.md "wikilink")2月、11thシングル『[WORST CRIME 〜About a rock star who was a swindler〜/Blind To My Heart](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")』を発表後、長戸が求めるWANDSのスタイルと音楽性との違いを理由に[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")初頭に上杉昇と柴崎浩が脱退（後に2人は**[al.ni.co](https://ja.wikipedia.org/wiki/al.ni.co "wikilink")**を結成）し、活動を休止。ビーイングが「WANDS」の名前を商標登録していたため、残った木村真也は2代目ボーカルに和久二郎、ギターに杉元一生を迎え、第3期WANDSとして活動を再開する。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月、当時デビュー直後であった[小松未歩](../Page/小松未歩.md "wikilink")の楽曲提供により、12thシングル「[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")」を発表。その後も[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")や[GARNET CROWとしてデビューする前の](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")からの楽曲提供を受け、シングル4枚、オリジナルアルバム1枚を発表したが、[2000年](../Page/2000年.md "wikilink")3月に公式サイト上で「解体」（解散）を表明。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")9月、当時デビュー直後であった[小松未歩](../Page/小松未歩.md "wikilink")の楽曲提供により、12thシングル『[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")』を発表。その後も[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の[坂井泉水](https://ja.wikipedia.org/wiki/坂井泉水 "wikilink")や[GARNET CROWとしてデビューする前の](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[AZUKI七](https://ja.wikipedia.org/wiki/AZUKI七 "wikilink")からの楽曲提供を受け、シングル4枚、オリジナルアルバム1枚を発表したが、[2000年](../Page/2000年.md "wikilink")3月に公式サイト上で「解体」（解散）を表明。
 
 ### 解体後（2000年 - 2019年）
 
 ※ここでは、メンバー間の繋がりがある事例のみを記載する。
 
-[2006年](../Page/2006年.md "wikilink")の[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")のアルバム『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』のレコーディングに柴崎と大島が参加。以前からT.M.Revolutionのライブにサポートメンバーとして参加していた柴崎の仲介で大島を起用できたと[西川貴教](../Page/西川貴教.md "wikilink")がインタビューで語っている。[2011年](../Page/2011年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に行われた西川主催のチャリティーライブ「STAND UP\! JAPAN 中央共同募金会」では前述のアルバムで大島が編曲とキーボード、柴崎がギターを手掛けた「[HEART OF SWORD 〜夜明け前〜](../Page/HEART_OF_SWORD_〜夜明け前〜.md "wikilink")」を大島、柴崎を含むメンバーでライブ演奏している。2人のライブでの共演はWANDS時代を含め初めてであった。イベント終了後、2人が「WANDSとしてサインした」という大島がWANDS時代に使用していたシンセサイザー、[YAMAHA DX7II-FDがチャリティーオークションに出品された](https://ja.wikipedia.org/wiki/YAMAHA_DXシリーズ "wikilink")。
+[2006年](../Page/2006年.md "wikilink")の[T.M.Revolution](../Page/T.M.Revolution.md "wikilink")のアルバム『[UNDER:COVER](../Page/UNDER:COVER.md "wikilink")』のレコーディングに柴崎と大島が参加。以前からT.M.Revolutionのライブにサポートメンバーとして参加していた柴崎の仲介で大島を起用できたと[西川貴教](../Page/西川貴教.md "wikilink")がインタビューで語っている。[2011年](../Page/2011年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に行われた西川主催のチャリティーライブ『STAND UP\! JAPAN 中央共同募金会』では前述のアルバムで大島が編曲とキーボード、柴崎がギターを手掛けた「[HEART OF SWORD 〜夜明け前〜](../Page/HEART_OF_SWORD_〜夜明け前〜.md "wikilink")」を大島、柴崎を含むメンバーでライブ演奏している。2人のライブでの共演はWANDS時代を含め初めてであった。イベント終了後、2人が「WANDSとしてサインした」という大島がWANDS時代に使用していたシンセサイザー、[YAMAHA DX7II-FDがチャリティーオークションに出品された](https://ja.wikipedia.org/wiki/YAMAHA_DXシリーズ "wikilink")。
 
-[2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、杉元（現・安保）が出演したライブに、和久が、本名の"松元治郎"名義でゲストボーカルとして参加\[6\]。[尾崎豊](../Page/尾崎豊.md "wikilink")の「[僕が僕であるために](https://ja.wikipedia.org/wiki/僕が僕であるために_\(曲\) "wikilink")」を歌唱している。2人のライブでの共演はWANDS時代を含め初めてであった。その後、[2012年](../Page/2012年.md "wikilink")に松元は安保の支援を受けて音楽活動を再開\[7\]。同年10月にリリースされた松元の初ソロアルバム『[Reverb](https://ja.wikipedia.org/wiki/Reverb_\(松元治郎のアルバム\) "wikilink")』は、安保が[プロデューサー](../Page/プロデューサー.md "wikilink")を務めており、収録曲「Journey」の作家クレジットは「作詞：松元治郎　作曲：木村真也　編曲：安保一生」といった第3期メンバーの並びとなった\[8\]。[2012年](../Page/2012年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に開催された初ワンマンライブ「松元治郎 1st LIVE」で、松元と安保が再び共演した\[9\]。
+[2011年](../Page/2011年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")、杉元（現・安保）が出演したライブに、和久が、本名の"松元治郎"名義でゲストボーカルとして参加\[6\]。[尾崎豊](../Page/尾崎豊.md "wikilink")の「[僕が僕であるために](https://ja.wikipedia.org/wiki/僕が僕であるために_\(曲\) "wikilink")」を歌唱している。2人のライブでの共演はWANDS時代を含め初めてであった。その後、[2012年](../Page/2012年.md "wikilink")に松元は安保の支援を受けて音楽活動を再開\[7\]。同年10月にリリースされた松元の初ソロアルバム『[Reverb](https://ja.wikipedia.org/wiki/Reverb_\(松元治郎のアルバム\) "wikilink")』は、安保が[プロデューサー](../Page/プロデューサー.md "wikilink")を務めており、収録曲「Journey」の作家クレジットは「作詞：松元治郎　作曲：木村真也　編曲：安保一生」といった第3期メンバーの並びとなった\[8\]。[2012年](../Page/2012年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")に開催された初ワンマンライブ『松元治郎 1st LIVE』で、松元と安保が再び共演した\[9\]。
 
-[2016年](../Page/2016年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")、「松元治郎 2nd LIVE」では引き続き安保が参加、またスペシャルゲストとして木村真也が参加したことで、第3期WANDSのメンバーが全員揃っての初のライブとなり、第3期WANDS時代の楽曲（シングル曲全て）も披露された。
+[2016年](../Page/2016年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")、『松元治郎 2nd LIVE』では引き続き安保が参加、またスペシャルゲストとして木村真也が参加したことで、第3期WANDSのメンバーが全員揃っての初のライブとなり、第3期WANDS時代の楽曲（シングル曲全て）も披露された。
 
 ### 再始動（2019年 - ）
 
-[2019年](../Page/2019年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、新ボーカリスト[上原大史](https://ja.wikipedia.org/wiki/上原大史 "wikilink")を3代目ボーカルに迎え第5期として活動を再開することを発表した。プロデューサーの長戸は2018年からWANDSの再始動に向けて動いており、大島康祐、柴崎浩、上原大史の3人体制を第4期とし、楽曲の制作を行なっていた。その後大島は制作に専念し、木村がメンバーに加わることが決定。上原、柴崎、木村の3人で第5期の活動となった\[10\]。[11月17日](../Page/11月17日.md "wikilink")に行われるフリーライブ『DFT presents [音都](https://ja.wikipedia.org/wiki/音都 "wikilink") ONTO vol.6 @[堂島リバーフォーラム](../Page/堂島リバーフォーラム.md "wikilink")』の模様を[YouTube Liveで生配信](https://ja.wikipedia.org/wiki/YouTube#YouTube_Live "wikilink")、[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")にニューシングル「[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")」を発売することが併せて発表された。
+[2019年](../Page/2019年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、新ボーカリスト[上原大史](https://ja.wikipedia.org/wiki/上原大史 "wikilink")を3代目ボーカルに迎え第5期として活動を再開することを発表した。プロデューサーの長戸は2018年からWANDSの再始動に向けて動いており、大島康祐、柴崎浩、上原大史の3人体制を第4期とし、楽曲の制作を行なっていた。その後大島は制作に専念し、木村がメンバーに加わることが決定。上原、柴崎、木村の3人で第5期の活動となった\[10\]。[11月17日](../Page/11月17日.md "wikilink")に行われるフリーライブ『DFT presents [音都](https://ja.wikipedia.org/wiki/音都 "wikilink") ONTO vol.6 @[堂島リバーフォーラム](../Page/堂島リバーフォーラム.md "wikilink")』の模様を[YouTube Liveで生配信](https://ja.wikipedia.org/wiki/YouTube#YouTube_Live "wikilink")、[2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")にシングル『[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")』を発売することが併せて発表された。
 
 ## バンド名の由来
 
-実際のバンド名の由来は、プロデューサーである長戸が付けたもので\[11\]、[大島康祐は](../Page/大島こうすけ.md "wikilink")、[タロットカード](https://ja.wikipedia.org/wiki/タロットカード "wikilink")の用語であるワンド（wand/wands：「魔法の杖」のこと。「理想」「情熱に向かって進む」という意味を持つ）から名づけられたものであると述べていて、同じ内容を第3期時に木村もファンクラブ会報で述べている。
+「WANDS」というバンド名は、プロデューサーである長戸が付けたもので、[タロットカード](https://ja.wikipedia.org/wiki/タロットカード "wikilink")の用語であるワンド（wand/wands：「魔法の杖」のこと。厳密には「ワンド」の中に複数の種類があり、WANDSの場合は「[ワンドのエース](https://ja.wikipedia.org/wiki/ワンドのエース "wikilink")」のことを指す。「ワンドのエース」には、「理想」「情熱に向かって進む」という意味がある）から名づけられたもの\[11\]。
 
-これとは別に後付けで、上杉（**W**esugi）と柴崎（**S**hibasaki）の頭文字から“**W**esugi **AND** **S**hibasaki”としたというものもある。上杉は[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")\[12\]において、第一期では上杉の苗字のスペルは、本来正しい表記である『**U**esugi』になっていたが、「ゴロ合わせが好きなプロデューサーだったので、「**U**」じゃなくて「**W**」の方が見てくれもかっこいい、ということから始まった」と発言している。また、この時「実は**W**esugi **AND** **S**hibasakiじゃなくて“**W**esugi **AND** **S**how”なんですよ」という発言もしている。また、WANDS第二期の人気絶頂時に、TBS『[突然バラエティー速報\!\!COUNT DOWN100](../Page/突然バラエティー速報!!COUNT_DOWN100.md "wikilink")』に上杉が生出演しているが、司会の[山田邦子](../Page/山田邦子.md "wikilink")からWANDSの命名の由来を話題に挙げられ、その際は、上杉（Wesugi）と柴崎（Shibasaki）説を説明している。第3期メンバーの和久（**W**aku）と杉元（**S**ugimoto）、第5期メンバーの上原(**W**ehara）も、芸名の苗字の頭文字が「**W**」と「**S**」になるように付けられている。
+第3期メンバーの和久（**W**aku）と杉元（**S**ugimoto）、第5期メンバーの上原(**W**ehara）も、芸名の苗字の頭文字が「**W**」と「**S**」になるように付けられている。
 
 ## ディスコグラフィー
 
@@ -216,7 +216,7 @@
 <td><p>TODT-2859<br />
 </p></td>
 <td><p>1位</p></td>
-<td><p>3プラチナ</p></td>
+<td><p>ミリオン</p></td>
 <td><p>1,662,690枚</p></td>
 <td><p><strong><a href="../Page/時の扉_(WANDSのアルバム).md" title="wikilink">時の扉</a></strong></p></td>
 </tr>
@@ -251,7 +251,7 @@
 <td><p>TODT-3001<br />
 </p></td>
 <td><p>1位</p></td>
-<td><p>3プラチナ</p></td>
+<td><p>ミリオン</p></td>
 <td><p>1,442,870枚</p></td>
 <td><p><strong>時の扉</strong></p></td>
 </tr>
@@ -440,19 +440,43 @@
 <tr class="even">
 <td><p>16th</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/1月29日.md" title="wikilink">1月29日</a></p></td>
-<td><p><strong><a href="../Page/真っ赤なLip.md" title="wikilink">真っ赤なLip</a></strong>[13]</p></td>
+<td><p><strong><a href="../Page/真っ赤なLip.md" title="wikilink">真っ赤なLip</a></strong></p></td>
 <td><p><a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>GZCD-7005<br />
 </p></td>
 <td><p>14位</p></td>
 <td></td>
 <td><p>6,167枚</p></td>
-<td><p>rowspan="2" </p></td>
+<td><p>rowspan="4" </p></td>
 </tr>
 <tr class="odd">
 <td><p>GZCD-7006<br />
 </p></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>17th</p></td>
+<td><p>2020年<a href="../Page/5月20日.md" title="wikilink">5月20日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/抱き寄せ_高まる_君の体温と共に" title="wikilink">抱き寄せ 高まる 君の体温と共に</a></strong></p></td>
+<td><p>CD+<a href="../Page/DVD.md" title="wikilink">DVD</a></p></td>
+<td><p>GZCD-7007<br />
+</p></td>
+<td><p>TBA</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>CD</p></td>
+<td><p>GZCD-7008<br />
+</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -488,9 +512,9 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/8センチCD" title="wikilink">8cm CD</a></p></td>
 <td><p>KIDS-111</p></td>
 <td><p>1位</p></td>
-<td><p>4プラチナ<br />
+<td><p>2ミリオン<br />
 ゴールド</p></td>
-<td><p>1,833,000枚</p></td>
+<td><p>1,33,000枚</p></td>
 <td><p>中山美穂『<a href="../Page/Dramatic_Songs.md" title="wikilink">Dramatic Songs</a>』</p></td>
 </tr>
 <tr class="even">
@@ -503,7 +527,7 @@
 <td><p>2位</p></td>
 <td><p>プラチナ</p></td>
 <td><p>726,310枚</p></td>
-<td><p>ZARD『<a href="https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜" title="wikilink">ZARD BEST The Single Collection 〜軌跡〜</a>』[14]</p></td>
+<td><p>ZARD『<a href="https://ja.wikipedia.org/wiki/ZARD_BEST_The_Single_Collection_〜軌跡〜" title="wikilink">ZARD BEST The Single Collection 〜軌跡〜</a>』[12]</p></td>
 </tr>
 </tbody>
 </table>
@@ -573,12 +597,11 @@
 <tr class="even">
 <td><p>1993年1月20日</p></td>
 <td><p>中山美穂『<a href="../Page/Dramatic_Songs.md" title="wikilink">Dramatic Songs</a>』</p></td>
-<td><p>世界中の誰よりきっと<PartⅡ>（アコースティック・バージョン）[15] ◆</p></td>
+<td><p>世界中の誰よりきっと<PartⅡ>（アコースティック・バージョン）[13] ◆</p></td>
 </tr>
 <tr class="odd">
 <td><p>1995年3月20日</p></td>
-<td><p>TVアニメ サウンドトラック<br />
-Various Artists『SLAM DUNK オリジナルサウンドトラック 〜Special TV Version〜』</p></td>
+<td><p>Various Artists『SLAM DUNK オリジナルサウンドトラック 〜Special TV Version〜』</p></td>
 <td><p>世界が終るまでは…（TVサイズ） ◆</p></td>
 </tr>
 <tr class="even">
@@ -614,7 +637,7 @@ Various Artists『SLAM DUNK オリジナルサウンドトラック 〜Special T
 <td><p>〜TBSテレビ&amp;フジテレビ 主題歌&amp;テーマ曲BEST〜』</p></td>
 </tr>
 <tr class="even">
-<td><p>2005年11月[16]</p></td>
+<td><p>2005年11月[14]</p></td>
 <td><p>Various Artists『<a href="../Page/COUNTDOWN_BEING.md" title="wikilink">COUNTDOWN BEING</a>』</p></td>
 <td><p>恋せよ乙女<br />
 世界中の誰よりきっと 〜Album Version〜<br />
@@ -661,9 +684,15 @@ Various Artists『SLAM DUNK オリジナルサウンドトラック 〜Special T
 Jumpin' Jack Boy</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><p>2020年3月25日</p></td>
+<td><p>Various Artists『<a href="../Page/THE_BEST_OF_DETECTIVE_CONAN_6_〜名探偵コナン_テーマ曲集6〜.md" title="wikilink">THE BEST OF DETECTIVE CONAN 6 〜名探偵コナン テーマ曲集6〜</a>』</p></td>
+<td><p>真っ赤なLip (TV size)</p></td>
+</tr>
+<tr class="even">
+<td><p>2020年4月8日予定</p></td>
+<td><p>Various Artists『キミが好きだと叫びたい 〜Love &amp; Yell〜 mixed by <a href="https://ja.wikipedia.org/wiki/DJ和" title="wikilink">DJ和</a>』[15]</p></td>
+<td><p>恋せよ乙女<br />
+もっと強く抱きしめたなら</p></td>
 </tr>
 </tbody>
 </table>
@@ -684,28 +713,29 @@ Jumpin' Jack Boy</p></td>
 
 | 曲名                                                                                                                    | タイアップ                                                                                                                                                                                           | 収録作品                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 寂しさは秋の色                                                                                                               | [関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")"おんなの企業サスペンス"『[ホテルウーマン](../Page/ホテルウーマン.md "wikilink")』挿入歌 | シングル「[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")」                                                                                     |
-| ふりむいて抱きしめて                                                                                                            | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[OH\!エルくらぶ](../Page/OH!エルくらぶ.md "wikilink")』オープニングテーマ                                                                                                     | シングル「[ふりむいて抱きしめて](../Page/ふりむいて抱きしめて.md "wikilink")」                                                                               |
-| もっと強く抱きしめたなら                                                                                                          | [三井生命CMソング](../Page/大樹生命保険.md "wikilink")                                                                                                                                                       | シングル「[もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")」                                                                           |
-| 世界中の誰よりきっと                                                                                                            | フジテレビ系ドラマ『[誰かが彼女を愛してる](../Page/誰かが彼女を愛してる.md "wikilink")』主題歌                                                                                                                                    | シングル「[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")」                                                                               |
+| 寂しさは秋の色                                                                                                               | [関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")"おんなの企業サスペンス"『[ホテルウーマン](../Page/ホテルウーマン.md "wikilink")』挿入歌 | シングル『[寂しさは秋の色](../Page/寂しさは秋の色.md "wikilink")』                                                                                     |
+| ふりむいて抱きしめて                                                                                                            | [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[OH\!エルくらぶ](../Page/OH!エルくらぶ.md "wikilink")』オープニングテーマ                                                                                                     | シングル『[ふりむいて抱きしめて](../Page/ふりむいて抱きしめて.md "wikilink")』                                                                               |
+| もっと強く抱きしめたなら                                                                                                          | [三井生命CMソング](../Page/大樹生命保険.md "wikilink")                                                                                                                                                       | シングル『[もっと強く抱きしめたなら](../Page/もっと強く抱きしめたなら.md "wikilink")』                                                                           |
+| 世界中の誰よりきっと                                                                                                            | フジテレビ系ドラマ『[誰かが彼女を愛してる](../Page/誰かが彼女を愛してる.md "wikilink")』主題歌                                                                                                                                    | シングル『[世界中の誰よりきっと](../Page/世界中の誰よりきっと.md "wikilink")』                                                                               |
 | 世界中の誰よりきっと <PartⅡ>                                                                                                    | フジテレビ系ドラマ『誰かが彼女を愛してる』挿入歌                                                                                                                                                                        |                                                                                                                                    |
-| 時の扉                                                                                                                   | テレビ朝日系『[ネオドラマ](../Page/ネオドラマ.md "wikilink")』主題歌                                                                                                                                                 | シングル「[時の扉](../Page/時の扉_\(WANDSの曲\).md "wikilink")」                                                                                 |
-| 愛を語るより口づけをかわそう                                                                                                        | [三貴](../Page/三貴.md "wikilink")「ブティックJOY」CMソング                                                                                                                                                   | シングル「[愛を語るより口づけをかわそう](../Page/愛を語るより口づけをかわそう.md "wikilink")」                                                                       |
+| 時の扉                                                                                                                   | テレビ朝日系『[ネオドラマ](../Page/ネオドラマ.md "wikilink")』主題歌                                                                                                                                                 | シングル『[時の扉](../Page/時の扉_\(WANDSの曲\).md "wikilink")』                                                                                 |
+| 愛を語るより口づけをかわそう                                                                                                        | [三貴](../Page/三貴.md "wikilink")「ブティックJOY」CMソング                                                                                                                                                   | シングル『[愛を語るより口づけをかわそう](../Page/愛を語るより口づけをかわそう.md "wikilink")』                                                                       |
 | 果てしない夢を                                                                                                               | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『\[\[Fun\!BASEBALL                                                                                                                                      | |劇空間プロ野球93\]\]』テーマソング                                                                                                              |
-| 恋せよ乙女                                                                                                                 | 三貴「ブティックJOY」CMソング                                                                                                                                                                               | シングル「[恋せよ乙女](../Page/恋せよ乙女_\(WANDSの曲\).md "wikilink")」                                                                             |
-| Jumpin' Jack Boy                                                                                                      | [ミズノ](../Page/ミズノ.md "wikilink")スキーウエア「インパルス」CMソング                                                                                                                                              | シングル「[Jumpin' Jack Boy](../Page/Jumpin'_Jack_Boy.md "wikilink")」                                                                   |
-| 世界が終るまでは…                                                                                                             | テレビ朝日系[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")』エンディングテーマ                                                                             | シングル「[世界が終るまでは…](../Page/世界が終るまでは….md "wikilink")」                                                                                 |
-| Secret Night 〜It's My Treat〜                                                                                          | [TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』1995年1月・2月度オープニングテーマ                                                                                  | シングル「[Secret Night 〜It's My Treat〜](../Page/Secret_Night_〜It's_My_Treat〜.md "wikilink")」                                           |
-| Same Side                                                                                                             | テレビ朝日系『[NBA FAST BREAK](https://ja.wikipedia.org/wiki/NBA_FAST_BREAK "wikilink")』エンディングテーマ                                                                                                      | シングル「[Same Side](../Page/Same_Side.md "wikilink")」                                                                                 |
+| 恋せよ乙女                                                                                                                 | 三貴「ブティックJOY」CMソング                                                                                                                                                                               | シングル『[恋せよ乙女](../Page/恋せよ乙女_\(WANDSの曲\).md "wikilink")』                                                                             |
+| Jumpin' Jack Boy                                                                                                      | [ミズノ](../Page/ミズノ.md "wikilink")スキーウエア「インパルス」CMソング                                                                                                                                              | シングル『[Jumpin' Jack Boy](../Page/Jumpin'_Jack_Boy.md "wikilink")』                                                                   |
+| 世界が終るまでは…                                                                                                             | テレビ朝日系[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")』エンディングテーマ                                                                             | シングル『[世界が終るまでは…](../Page/世界が終るまでは….md "wikilink")』                                                                                 |
+| Secret Night 〜It's My Treat〜                                                                                          | [TBS系](../Page/TBSテレビ.md "wikilink")『[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")』1995年1月・2月度オープニングテーマ                                                                                  | シングル『[Secret Night 〜It's My Treat〜](../Page/Secret_Night_〜It's_My_Treat〜.md "wikilink")』                                           |
+| Same Side                                                                                                             | テレビ朝日系『[NBA FAST BREAK](https://ja.wikipedia.org/wiki/NBA_FAST_BREAK "wikilink")』エンディングテーマ                                                                                                      | シングル『[Same Side](../Page/Same_Side.md "wikilink")』                                                                                 |
 | [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")「[What's in\!](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」CMソング |                                                                                                                                                                                                 |                                                                                                                                    |
-| WORST CRIME〜About a rock star who was a swindler〜                                                                     | TBS系『COUNT DOWN TV』1996年2月度オープニングテーマ                                                                                                                                                            | シングル「[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")」 |
-| 錆びついたマシンガンで今を撃ち抜こう                                                                                                    | フジテレビ系アニメ『[ドラゴンボールGT](https://ja.wikipedia.org/wiki/ドラゴンボールGT "wikilink")』エンディングテーマ                                                                                                             | シングル「[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")」                                                               |
-| Brand New Love                                                                                                        | [三菱自動車](../Page/三菱自動車工業.md "wikilink")「[ミラージュマリオン](../Page/三菱・ミラージュ.md "wikilink")＆[チャレンジャーシティクルージング](../Page/三菱・チャレンジャー.md "wikilink")」CMソング                                                   | シングル「[Brand New Love](../Page/Brand_New_Love.md "wikilink")」                                                                       |
-| 明日もし君が壊れても                                                                                                            | テレビ朝日系アニメ『[遊☆戯☆王](../Page/遊☆戯☆王_\(アニメ第1作\).md "wikilink")』エンディングテーマ                                                                                                                             | シングル「[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")」                                                                               |
-| 「今日、ナニカノハズミデ生きている」                                                                                                    | TBS系『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』1999年3月度エンディングテーマ                                                                                                                           | シングル「[「今日、ナニカノハズミデ生きている」](../Page/「今日、ナニカノハズミデ生きている」.md "wikilink")」                                                               |
+| WORST CRIME〜About a rock star who was a swindler〜                                                                     | TBS系『COUNT DOWN TV』1996年2月度オープニングテーマ                                                                                                                                                            | シングル『[WORST CRIME〜About a rock star who was a swindler〜](../Page/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜.md "wikilink")』 |
+| 錆びついたマシンガンで今を撃ち抜こう                                                                                                    | フジテレビ系アニメ『[ドラゴンボールGT](https://ja.wikipedia.org/wiki/ドラゴンボールGT "wikilink")』エンディングテーマ                                                                                                             | シングル『[錆びついたマシンガンで今を撃ち抜こう](../Page/錆びついたマシンガンで今を撃ち抜こう.md "wikilink")』                                                               |
+| Brand New Love                                                                                                        | [三菱自動車](../Page/三菱自動車工業.md "wikilink")「[ミラージュマリオン](../Page/三菱・ミラージュ.md "wikilink")＆[チャレンジャーシティクルージング](../Page/三菱・チャレンジャー.md "wikilink")」CMソング                                                   | シングル『[Brand New Love](../Page/Brand_New_Love.md "wikilink")』                                                                       |
+| 明日もし君が壊れても                                                                                                            | テレビ朝日系アニメ『[遊☆戯☆王](../Page/遊☆戯☆王_\(アニメ第1作\).md "wikilink")』エンディングテーマ                                                                                                                             | シングル『[明日もし君が壊れても](../Page/明日もし君が壊れても.md "wikilink")』                                                                               |
+| 「今日、ナニカノハズミデ生きている」                                                                                                    | TBS系『[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")』1999年3月度エンディングテーマ                                                                                                                           | シングル『[「今日、ナニカノハズミデ生きている」](../Page/「今日、ナニカノハズミデ生きている」.md "wikilink")』                                                               |
 | FREEZE                                                                                                                | [プレイステーション用ゲームソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")「Cybernetic EMPIRE」イメージソング                                                                                                        |                                                                                                                                    |
 | AWAKE                                                                                                                 | ミズノ「インターナショナル」CMソング                                                                                                                                                                             | アルバム『[AWAKE](../Page/AWAKE_\(WANDSのアルバム\).md "wikilink")』                                                                          |
-| 真っ赤なLip                                                                                                               | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系テレビアニメ](../Page/日本テレビ系列.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ                                | シングル「[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")」                                                                                     |
+| 真っ赤なLip                                                                                                               | [読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系テレビアニメ](../Page/日本テレビ系列.md "wikilink")『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』オープニングテーマ\[16\]                          | シングル『[真っ赤なLip](../Page/真っ赤なLip.md "wikilink")』                                                                                     |
+| 抱き寄せ 高まる 君の体温と共に                                                                                                      | [BSテレ東](../Page/BSテレビ東京.md "wikilink")[土曜ドラマ9](https://ja.wikipedia.org/wiki/土曜ドラマ9 "wikilink")『[サイレント・ヴォイス season2](https://ja.wikipedia.org/wiki/行動心理捜査官・楯岡絵麻#テレビドラマ "wikilink")』主題歌\[17\]    | シングル『[抱き寄せ 高まる 君の体温と共に](https://ja.wikipedia.org/wiki/抱き寄せ_高まる_君の体温と共に "wikilink")』                                                |
 
 ## ライブ
 
@@ -781,20 +811,37 @@ Jumpin' Jack Boy</p></td>
 
 ## 外部リンク
 
+<div style="float:left; width:50%">
+
   - [WANDS Official Web Site](https://wands-official.jp/)
 
-      - [上杉昇](http://www.wesugi.net/modules/news/) 公式サイト
       - [【SHIBASAKI HIROSHI】](http://shibasaki-hiroshi.net/top.php) 柴崎浩 Official Website
-      - [松元治郎](https://jiromatsmoto.wixsite.com/official) 公式サイト
-      - [INTERSTELLAR PRODUCTION](http://lit-hum.com/Interstellar_Production/TOP.html) 安保一生公式サイト
 
   -
   -   -
       -
-      -
-      -
+  -
+
+</div>
+
+<div style="float:left; width:50%">
+
+  - 旧メンバー
+
+<!-- end list -->
+
+  - [上杉昇](http://www.wesugi.net/modules/news/) 公式サイト
+
+  - [松元治郎](https://jiromatsmoto.wixsite.com/official) 公式サイト
+
+  - [INTERSTELLAR PRODUCTION](http://lit-hum.com/Interstellar_Production/TOP.html) 安保一生公式サイト
+
   -
   -
+  -
+
+</div>
+
 [Category:WANDS](https://ja.wikipedia.org/wiki/Category:WANDS "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:ポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・ロック・バンド "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink") [Category:2019年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に再結成した音楽グループ "wikilink")
 
 1.  1991年〜1992年
@@ -808,8 +855,9 @@ Jumpin' Jack Boy</p></td>
 9.  [松元治郎公式サイトのライブ情報](http://jiromatsumoto.hp2.jp/JIRO_MATSUMOTO_Official_Website/LIVE.html)の『BAND MEMBER』参照。『[Brand New Love](../Page/Brand_New_Love.md "wikilink")』を提供した[綿貫正顕](../Page/綿貫正顕.md "wikilink")も、ゲストで参加した。
 10.
 11.
-12. V-net LUNCH BARKS 第452回
-13.
-14. 白ディスクの音源を収録。黒ディスクの音源は『[ZARD SINGLE COLLECTION 〜20th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ZARD_SINGLE_COLLECTION_〜20th_ANNIVERSARY〜 "wikilink")』、『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』に収録。
-15. 初回限定盤のみ収録。なお、『[30th Anniversary THE PERFECT SINGLES BOX](https://ja.wikipedia.org/wiki/30th_Anniversary_THE_PERFECT_SINGLES_BOX "wikilink")』には「世界中の誰よりきっと (PartⅡ Album Version)」と表記されている。
-16. [通信販売限定商品](../Page/通販CD.md "wikilink")
+12. 白ディスクの音源を収録。黒ディスクの音源は『[ZARD SINGLE COLLECTION 〜20th ANNIVERSARY〜](https://ja.wikipedia.org/wiki/ZARD_SINGLE_COLLECTION_〜20th_ANNIVERSARY〜 "wikilink")』、『[ZARD Forever Best 〜25th Anniversary〜](https://ja.wikipedia.org/wiki/ZARD_Forever_Best_〜25th_Anniversary〜 "wikilink")』に収録。
+13. 初回限定盤のみ収録。なお、『[30th Anniversary THE PERFECT SINGLES BOX](https://ja.wikipedia.org/wiki/30th_Anniversary_THE_PERFECT_SINGLES_BOX "wikilink")』には「世界中の誰よりきっと (PartⅡ Album Version)」と表記されている。
+14. [通信販売限定商品](../Page/通販CD.md "wikilink")
+15. ノンストップミックス収録。
+16.
+17.

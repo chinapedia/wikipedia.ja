@@ -1,4 +1,4 @@
-> この記事は[SURF\&SNOW \(\)](https://ja.wikipedia.org/wiki/SURF\&SNOW_\(\))から翻訳されています。
+> この記事は[SURF\&SNOW \(ラジオ番組\)](https://ja.wikipedia.org/wiki/SURF\&SNOW_\(ラジオ番組\))から翻訳されています。
 
 
 **SURF\&SNOW**（サーフ・アンド・スノウ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月に[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送開始した、[松宮一彦](../Page/松宮一彦.md "wikilink")が[パーソナリティの](../Page/ラジオパーソナリティ.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。
@@ -29,13 +29,13 @@
 
 ### 番組の終焉とその後
 
-[1992年](../Page/1992年.md "wikilink")4月には『[パックインミュージック21](../Page/パックインミュージック21.md "wikilink")』の金曜日枠に組み込まれたが、番組人気の低下に伴い[1993年](../Page/1993年.md "wikilink")10月以降は放送時間が頻繁に変更された。[1994年](../Page/1994年.md "wikilink")には再び月－金の帯番組として復活したものの、末期の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月には日曜日の昼の番組の1コーナーに格下げとなり、[1996年](../Page/1996年.md "wikilink")10月をもってTBSラジオでの放送は終了。11年の歴史の幕を閉じた。
+[1992年](../Page/1992年.md "wikilink")4月には『[パックインミュージック21](../Page/パックインミュージック21.md "wikilink")』の金曜日枠に組み込まれたが（土曜未明の放送）、番組人気の低下に伴い[1993年](../Page/1993年.md "wikilink")10月以降は放送時間が頻繁に変更された。[1994年](../Page/1994年.md "wikilink")には再び月－金の帯番組として復活したものの、末期の[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")10月には日曜日の昼の番組の1コーナーに格下げとなり、[1996年](../Page/1996年.md "wikilink")10月をもってTBSラジオでの放送は終了。11年の歴史の幕を閉じた。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月末にTBSを退社した松宮は、同年10月より[NACK5にて同タイトルの番組をスタート](../Page/エフエムナックファイブ.md "wikilink")。同時間帯の聴取率1位を取ったが、自身のスキャンダルで番組は半年で[打ち切り](../Page/打ち切り.md "wikilink")になってしまった。なおその翌年に松宮は、前述のスキャンダルを週刊誌にスクープされたことで引っ込みがつかなくなったことにもより[自殺](../Page/自殺.md "wikilink")、他界した。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月末にTBSを退社した松宮は、同年10月より[NACK5にて同タイトルの番組をスタート](../Page/エフエムナックファイブ.md "wikilink")。同時間帯の聴取率1位を取ったが、自身のスキャンダルで番組は半年で[打ち切り](../Page/打ち切り.md "wikilink")になってしまった。その後翌年に松宮は、前述のスキャンダルを週刊誌にスクープされたことで引っ込みがつかなくなったことにもより[自殺](../Page/自殺.md "wikilink")、他界した。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月3日](../Page/1月3日.md "wikilink")の10:00よりTBSラジオのスペシャル番組『SURF\&SNOW 2010』として、TBSアナウンサーの[小林豊のパーソナリティで](../Page/小林豊_\(アナウンサー\).md "wikilink")、[1980年代](../Page/1980年代.md "wikilink")の[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")を中心に、アーティストからのメッセージや過去の放送の音源を放送した。小林は松宮の弟子とも言える存在であり、エンディングでは松宮との思い出を語っていた。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月3日](../Page/1月3日.md "wikilink")の10:00よりTBSラジオのスペシャル番組『SURF\&SNOW 2010』として、TBSアナウンサー（当時）の[小林豊のパーソナリティで](../Page/小林豊_\(アナウンサー\).md "wikilink")、[1980年代](../Page/1980年代.md "wikilink")の[ポップ・ミュージック](../Page/ポップ・ミュージック.md "wikilink")を中心に、アーティストからのメッセージや過去の放送の音源を放送した。小林は松宮の弟子とも言える存在であり、エンディングでは松宮との思い出を語っていた。
 
-[2019年](../Page/2019年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")未明の同局『[ラジオアーカイブ](https://ja.wikipedia.org/wiki/ラジオアーカイブ "wikilink")』内で、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")放送の第2000回放送分が再放送された。
+[2019年](../Page/2019年.md "wikilink")[2月17日](../Page/2月17日.md "wikilink")未明の同局『[ラジオアーカイブ](https://ja.wikipedia.org/wiki/ラジオアーカイブ "wikilink")』内で、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月11日](../Page/8月11日.md "wikilink")放送の第2000回放送分が再放送された。[2020年](../Page/2020年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")未明には、1995年[6月23日](../Page/6月23日.md "wikilink")および[1993年](../Page/1993年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")未明放送分が編集の上再放送された。
 
 ## 放送時間
 

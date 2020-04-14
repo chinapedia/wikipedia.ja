@@ -1,4 +1,4 @@
-> この記事は[DAIBA!!GOLD](https://ja.wikipedia.org/wiki/DAIBA!!GOLD)から翻訳されています。
+> この記事は[DAIBAクシン!!GOLD](https://ja.wikipedia.org/wiki/DAIBAクシン!!GOLD)から翻訳されています。
 
 
 **DAIBAクシン\!\!GOLD**（だいばくしんゴールド）は、[フジテレビにて](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")1999年に放送されていた[バラエティー番組](https://ja.wikipedia.org/wiki/バラエティー番組 "wikilink")。放送期間は[1999年](../Page/1999年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")～[1999年](../Page/1999年.md "wikilink")[9月24日](../Page/9月24日.md "wikilink")の毎週金曜の16:25 - 16:55。司会は[ドロンズ](../Page/ドロンズ.md "wikilink")。提供は[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")（[セガ・エンタープライゼス（後のセガサミーホールディングス）](../Page/セガサミーホールディングス.md "wikilink")）。
@@ -58,26 +58,106 @@
 <!-- end list -->
 
   -
-    番組の最初にドロンズに指名されたチェキッ娘メンバーがすぐにメイクなどを施し、有名人などのコスプレに挑戦したコーナー。1999年9月17日に『クイーン決定スペシャル』が放送された。コスプレをしたメンバーは以下のとおり。
-    [森知子](../Page/森知子.md "wikilink") - [藤原紀香](../Page/藤原紀香.md "wikilink")（[5月7日](../Page/5月7日.md "wikilink")）
-    [田中里奈](../Page/田中里奈.md "wikilink")、[甲斐田聡美](../Page/甲斐田聡美.md "wikilink") - [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")（[5月14日](../Page/5月14日.md "wikilink")）
-    [野崎恵](../Page/野崎恵.md "wikilink")、[大瀧彩乃](../Page/大瀧彩乃.md "wikilink") - [T.M.Revolution](../Page/T.M.Revolution.md "wikilink")（[西川貴教](../Page/西川貴教.md "wikilink")）（[5月21日](../Page/5月21日.md "wikilink")）
-      -
-        ちなみに野崎は「[HOT LIMIT](../Page/HOT_LIMIT.md "wikilink")」、そして大瀧は「[WILD RUSH](https://ja.wikipedia.org/wiki/WILD_RUSH "wikilink")」のコスプレだった。
-    [小林裕美](../Page/小林裕美.md "wikilink") - [古畑任三郎](../Page/古畑任三郎.md "wikilink")（[田村正和](../Page/田村正和.md "wikilink")）（[5月28日](../Page/5月28日.md "wikilink")）
-    [大田祐歌](../Page/大田祐歌.md "wikilink") - [河村隆一](../Page/河村隆一.md "wikilink")（5月28日）
-    [新井利佳](../Page/新井利佳.md "wikilink") - [Misia](https://ja.wikipedia.org/wiki/Misia "wikilink")（[6月4日](../Page/6月4日.md "wikilink")）
-    [松本江里子](../Page/松本江里子.md "wikilink") - [ローリン・ヒル](../Page/ローリン・ヒル.md "wikilink")（6月4日）
-    [五十嵐恵](../Page/五十嵐恵.md "wikilink") - [鈴木その子](../Page/鈴木その子.md "wikilink")（[6月11日](../Page/6月11日.md "wikilink")）
-    [藤岡麻美](../Page/藤岡麻美.md "wikilink") - [バカ殿様](../Page/志村けんのバカ殿様.md "wikilink")（[志村けん](../Page/志村けん.md "wikilink")）（6月11日）
-    [矢作美樹](../Page/矢作美樹.md "wikilink") - [江頭2:50](../Page/江頭2:50.md "wikilink")（[6月18日](../Page/6月18日.md "wikilink")）
-    [上田愛美](../Page/上田愛美.md "wikilink") - [坂田利夫](../Page/坂田利夫.md "wikilink")（6月18日）
-      -
-        直後に坂田本人も登場した。ちなみに坂田は、その後「ひと夏だけのフィーリングカップル5vs5」にも出演している。
-    [町田恵](../Page/町田恵_\(タレント\).md "wikilink") - [井手らっきょ](../Page/井手らっきょ.md "wikilink")（[6月25日](../Page/6月25日.md "wikilink")）
-    [久志麻理奈](../Page/久志麻理奈.md "wikilink") - [なすび](../Page/なすび_\(タレント\).md "wikilink")（[電波少年的懸賞生活](../Page/電波少年的懸賞生活.md "wikilink")\[3\]）（6月25日）
+    番組の最初にドロンズに指名されたチェキッ娘メンバーがすぐにメイクなどを施し、有名人などのコスプレに挑戦したコーナー。1999年9月17日に『クイーン決定スペシャル』が放送された。コスプレをしたメンバーおよび役名は以下のとおり。
 
-<!-- end list -->
+<table>
+<thead>
+<tr class="header">
+<th><p>放送日</p></th>
+<th><p>メンバー</p></th>
+<th><p>役名</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/5月7日.md" title="wikilink">5月7日</a></p></td>
+<td><p><a href="../Page/森知子.md" title="wikilink">森知子</a></p></td>
+<td><p><a href="../Page/藤原紀香.md" title="wikilink">藤原紀香</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/5月14日.md" title="wikilink">5月14日</a></p></td>
+<td><p><a href="../Page/田中里奈.md" title="wikilink">田中里奈</a><br />
+<a href="../Page/甲斐田聡美.md" title="wikilink">甲斐田聡美</a></p></td>
+<td><p><a href="../Page/宇多田ヒカル.md" title="wikilink">宇多田ヒカル</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
+<td><p><a href="../Page/野崎恵.md" title="wikilink">野崎恵</a></p></td>
+<td><p><a href="../Page/T.M.Revolution.md" title="wikilink">T.M.Revolution</a>（<a href="../Page/西川貴教.md" title="wikilink">西川貴教</a>）<ref>ちなみに西川は、その後9月4日の『[[DAIBAクシン</p></td>
+<td><p>cheki_b.#ゲスト|DAIBAクシン</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大瀧彩乃.md" title="wikilink">大瀧彩乃</a></p></td>
+<td><p>「<a href="https://ja.wikipedia.org/wiki/WILD_RUSH" title="wikilink">WILD RUSH</a>」のコスプレ</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/5月28日.md" title="wikilink">5月28日</a></p></td>
+<td><p><a href="../Page/小林裕美.md" title="wikilink">小林裕美</a></p></td>
+<td><p><a href="../Page/古畑任三郎.md" title="wikilink">古畑任三郎</a>（<a href="../Page/田村正和.md" title="wikilink">田村正和</a>）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/大田祐歌.md" title="wikilink">大田祐歌</a></p></td>
+<td><p><a href="../Page/河村隆一.md" title="wikilink">河村隆一</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
+<td><p><a href="../Page/新井利佳.md" title="wikilink">新井利佳</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Misia" title="wikilink">Misia</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/松本江里子.md" title="wikilink">松本江里子</a></p></td>
+<td><p><a href="../Page/ローリン・ヒル.md" title="wikilink">ローリン・ヒル</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/6月11日.md" title="wikilink">6月11日</a></p></td>
+<td><p><a href="../Page/五十嵐恵.md" title="wikilink">五十嵐恵</a></p></td>
+<td><p><a href="../Page/鈴木その子.md" title="wikilink">鈴木その子</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/藤岡麻美.md" title="wikilink">藤岡麻美</a></p></td>
+<td><p><a href="../Page/志村けんのバカ殿様.md" title="wikilink">バカ殿様</a>（<a href="../Page/志村けん.md" title="wikilink">志村けん</a>）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/6月18日.md" title="wikilink">6月18日</a></p></td>
+<td><p><a href="../Page/矢作美樹.md" title="wikilink">矢作美樹</a></p></td>
+<td><p><a href="../Page/江頭2:50.md" title="wikilink">江頭2:50</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/上田愛美.md" title="wikilink">上田愛美</a></p></td>
+<td><p><a href="../Page/坂田利夫.md" title="wikilink">坂田利夫</a></p></td>
+<td><p>直後に坂田本人も登場した。ちなみに坂田は、その後「ひと夏だけのフィーリ<br />
+ングカップル5vs5」にも出演している。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/6月25日.md" title="wikilink">6月25日</a></p></td>
+<td><p><a href="../Page/町田恵_(タレント).md" title="wikilink">町田恵</a></p></td>
+<td><p><a href="../Page/井手らっきょ.md" title="wikilink">井手らっきょ</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/久志麻理奈.md" title="wikilink">久志麻理奈</a></p></td>
+<td><p><a href="../Page/なすび_(タレント).md" title="wikilink">なすび</a></p></td>
+<td><p>「<a href="../Page/電波少年的懸賞生活.md" title="wikilink">電波少年的懸賞生活</a>」[3]のシーン</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - これチェキ・ギャラリー
   - QUIZ ゴムパッチンROCK ON
@@ -105,7 +185,7 @@
 
   -
     男性ゲストを5人迎え、チェキッ娘メンバー5人がそれぞれ質問後にキスをしてもらいたいという相手を指名。「OK」か「NO」かの判断は口にくわえたゴムパッチンで行なわれた（NOなら口からゴムを離す）。
-    ゲストは[中里栄臣](https://ja.wikipedia.org/wiki/中里栄臣 "wikilink")、[O-JIRO](https://ja.wikipedia.org/wiki/O-JIRO "wikilink")（[PENICILLIN](../Page/PENICILLIN.md "wikilink")）、[袴田吉彦](../Page/袴田吉彦.md "wikilink")、[坂田利夫](../Page/坂田利夫.md "wikilink")、[佐野瑞樹](../Page/佐野瑞樹_\(アナウンサー\).md "wikilink")（フジテレビアナウンサー）。
+    ゲストは[中里栄臣](https://ja.wikipedia.org/wiki/中里栄臣 "wikilink")\[4\]、[O-JIRO](https://ja.wikipedia.org/wiki/O-JIRO "wikilink")（[PENICILLIN](../Page/PENICILLIN.md "wikilink")）、[袴田吉彦](../Page/袴田吉彦.md "wikilink")、[坂田利夫](../Page/坂田利夫.md "wikilink")、[佐野瑞樹](../Page/佐野瑞樹_\(アナウンサー\).md "wikilink")（フジテレビアナウンサー）。
     チェキッ娘からは、矢作美樹、久志麻理奈、森知子、上田愛美、町田恵が出場。
 
 <!-- end list -->
@@ -135,4 +215,5 @@
 
 1.  なお、本番組のすぐあとの16:55～17:25では『[∀ガンダム](../Page/∀ガンダム.md "wikilink")』を放送していた。
 2.  [\#外部リンク](https://ja.wikipedia.org/wiki/#外部リンク "wikilink")節掲載の公式ページ「DAIBA Database」より（以下執筆当時の2009年3月当時は以下の詳細が閲覧可能だった）
-3.  ちなみに司会のドロンズも、もとは『[電波少年](../Page/進め!電波少年.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）の「[南北アメリカ大陸縦断ヒッチハイク](https://ja.wikipedia.org/wiki/進め!電波少年#南北アメリカ大陸縦断ヒッチハイク "wikilink")」に参加していた。
+3.  当時の『[電波少年](../Page/進ぬ!電波少年.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）の企画。ちなみに司会のドロンズも、もとは電波少年の「[南北アメリカ大陸縦断ヒッチハイク](https://ja.wikipedia.org/wiki/進め!電波少年#南北アメリカ大陸縦断ヒッチハイク "wikilink")」に参加していた。
+4.  ドラマ『[夏までのダイアリー](https://ja.wikipedia.org/wiki/DAIBAクシン!!cheki_b.#ドラマ「夏までのダイアリー」 "wikilink")』に出演していた。

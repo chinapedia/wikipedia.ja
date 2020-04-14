@@ -1,4 +1,4 @@
-> この記事は[JABA\(\)](https://ja.wikipedia.org/wiki/JABA\(\))から翻訳されています。
+> この記事は[JABA徳山\(スポニチ\)大会](https://ja.wikipedia.org/wiki/JABA徳山\(スポニチ\)大会)から翻訳されています。
 
 
 **JABA徳山（スポニチ）大会**（JABAとくやま（すぽにち）たいかい）は、毎年[ゴールデンウィーク](https://ja.wikipedia.org/wiki/ゴールデンウィーク "wikilink")に[山口県](../Page/山口県.md "wikilink")[周南市](../Page/周南市.md "wikilink")（旧：[徳山市](../Page/徳山市.md "wikilink")）の[周南市野球場](../Page/周南市野球場.md "wikilink")で行われる[日本野球連盟](../Page/日本野球連盟.md "wikilink")の中国地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の大会である。

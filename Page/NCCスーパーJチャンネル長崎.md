@@ -1,4 +1,4 @@
-> この記事は[NCCJ](https://ja.wikipedia.org/wiki/NCCJ)から翻訳されています。
+> この記事は[NCCスーパーJチャンネル長崎](https://ja.wikipedia.org/wiki/NCCスーパーJチャンネル長崎)から翻訳されています。
 
 
 『**NCCスーパーJチャンネル長崎**』（エヌシーシースーパージェイチャンネルながさき）は、[2000年](../Page/2000年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink") (ncc) で放送されている[長崎県](../Page/長崎県.md "wikilink")向けのローカル[ニュース番組である](../Page/報道番組.md "wikilink")。放送開始から長らく『**スーパーJチャンネルながさき**』と題して放送されていたが\[1\]、2015年3月30日放送分をもって改題した。

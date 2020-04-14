@@ -1,4 +1,4 @@
-> この記事は[ATURAL](https://ja.wikipedia.org/wiki/ATURAL)から翻訳されています。
+> この記事は[ИATURAL](https://ja.wikipedia.org/wiki/ИATURAL)から翻訳されています。
 
 
 『**ИATURAL**』（ナチュラル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミクスチャーバンド](../Page/ミクスチャー・ロック.md "wikilink")、[ORANGE RANGEの](../Page/ORANGE_RANGE.md "wikilink")3枚目のオリジナルアルバム。

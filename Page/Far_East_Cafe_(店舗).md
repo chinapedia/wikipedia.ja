@@ -1,4 +1,4 @@
-> この記事は[Far East Cafe \(\)](https://ja.wikipedia.org/wiki/Far_East_Cafe_\(\))から翻訳されています。
+> この記事は[Far East Cafe \(店舗\)](https://ja.wikipedia.org/wiki/Far_East_Cafe_\(店舗\))から翻訳されています。
 
 
 **Far East Café** （ファー・イースト・カフェ）は、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[小田和正](../Page/小田和正.md "wikilink")の[アンテナショップ](../Page/アンテナショップ.md "wikilink")。[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[7月30日](../Page/7月30日.md "wikilink")に[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[神宮前](../Page/神宮前_\(渋谷区\).md "wikilink")1丁目\[1\] にオープンした。[1999年](../Page/1999年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")に東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[南青山](../Page/南青山.md "wikilink")5丁目\[2\] に移転している。名前は小田の[同名のアルバムから来ている](../Page/Far_East_Cafe_\(アルバム\).md "wikilink")。

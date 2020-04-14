@@ -10,8 +10,6 @@
   -
   - （[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")領）
 
-  - （オーストラリア領、冬期）
-
   -
   -   - [ブーゲンビル自治州](../Page/ブーゲンビル州.md "wikilink")
 
@@ -21,6 +19,10 @@
   -   - [マガダン時間](../Page/マガダン時間.md "wikilink") - MAGT
 
   -   -
+### 標準時（南半球冬）
+
+  - （オーストラリア領）
+
 ### 夏時間（南半球）
 
   -   - [東部夏時間](https://ja.wikipedia.org/wiki/オーストラリア東部夏時間 "wikilink") - AEDT

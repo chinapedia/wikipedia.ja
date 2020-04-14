@@ -1,4 +1,4 @@
-> この記事は[VM](https://ja.wikipedia.org/wiki/VM)から翻訳されています。
+> この記事は[ごま書房新社VM](https://ja.wikipedia.org/wiki/ごま書房新社VM)から翻訳されています。
 
 
 株式会社**ごま書房新社VM**（ごましょぼうしんしゃブイエム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")。

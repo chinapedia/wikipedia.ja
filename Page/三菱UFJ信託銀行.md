@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[三菱UFJ信託銀行](https://ja.wikipedia.org/wiki/三菱UFJ信託銀行)から翻訳されています。
 
 
 **三菱UFJ信託銀行株式会社**（みつびしユーエフジェイしんたくぎんこう、、略称：**MUTB**）は、[2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に設立された、日本の[信託銀行](../Page/信託銀行.md "wikilink")。[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")傘下の子会社で、[信託](../Page/信託.md "wikilink")業務では[三井住友信託銀行](https://ja.wikipedia.org/wiki/三井住友信託銀行 "wikilink")に次ぎ国内第2位の規模である。

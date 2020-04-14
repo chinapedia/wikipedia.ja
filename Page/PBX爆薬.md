@@ -1,4 +1,4 @@
-> この記事は[PBX](https://ja.wikipedia.org/wiki/PBX)から翻訳されています。
+> この記事は[PBX爆薬](https://ja.wikipedia.org/wiki/PBX爆薬)から翻訳されています。
 
 
 **PBX爆薬**（PBXばくやく、Polymer bonded explosive または Plastic bonded explosive) とは、爆薬の粒子を[ナイロン](https://ja.wikipedia.org/wiki/ナイロン "wikilink")や[ポリスチレン](../Page/ポリスチレン.md "wikilink")などのプラスチックと水中で混合し溶剤を気化させて、プラスチックでコーティングした爆薬粒子に加工したものである。

@@ -1,4 +1,4 @@
-> この記事は[LRT](https://ja.wikipedia.org/wiki/LRT)から翻訳されています。
+> この記事は[ハノーファーLRT](https://ja.wikipedia.org/wiki/ハノーファーLRT)から翻訳されています。
 
 
 [Hannover_-_Kroepcke_B-Tunnel.jpg](https://ja.wikipedia.org/wiki/File:Hannover_-_Kroepcke_B-Tunnel.jpg "fig:Hannover_-_Kroepcke_B-Tunnel.jpg") **ハノーファーLRT**（**Stadtbahn Hannover**）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ハノーファー](../Page/ハノーファー.md "wikilink")で運行されている[ライトレール](../Page/ライトレール.md "wikilink")（ドイツではStadtbahn（[シュタットバーン](https://ja.wikipedia.org/wiki/シュタットバーン "wikilink")）と呼ばれる）。全部で15路線。

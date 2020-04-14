@@ -1,4 +1,4 @@
-> この記事は[D-X](https://ja.wikipedia.org/wiki/D-X)から翻訳されています。
+> この記事は[D-ジェネレーションX](https://ja.wikipedia.org/wiki/D-ジェネレーションX)から翻訳されています。
 
 
 **D-ジェネレーションX**（*D-Generation X*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[WWE](../Page/WWE.md "wikilink")に登場する[プロレスラー](../Page/プロレスラー.md "wikilink")のユニット名称である。略称は**DX**。「D-ジェネレーション」とは「de-generation」（[ショーン・マイケルズ](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink")の造語）であり、世代を否定する、ひっくり返すくらいの意味。元来反体制的な色彩の強いユニットだった。
@@ -9,13 +9,13 @@
 
   - [ショーン・マイケルズ](https://ja.wikipedia.org/wiki/ショーン・マイケルズ "wikilink")
   - [トリプルH](../Page/トリプルH.md "wikilink")
-  - [リック・ルード](../Page/リック・ルード.md "wikilink")
+  - [リック・ルード](../Page/リック・ルード.md "wikilink")(マネージャーとして。後に脱退、死去)
   - [トリー](https://ja.wikipedia.org/wiki/テリー・ポーチ "wikilink")
   - [チャイナ](https://ja.wikipedia.org/wiki/ジョーニー・ローラー "wikilink")
   - [Xパック](../Page/ショーン・ウォルトマン.md "wikilink")
   - [ロード・ドッグ](../Page/ブライアン・ジェイムス.md "wikilink")
   - [ビリー・ガン](../Page/モンティ・ソップ.md "wikilink")
-  - [マイク・タイソン](../Page/マイク・タイソン.md "wikilink")
+  - [マイク・タイソン](../Page/マイク・タイソン.md "wikilink")(ストーリーライン上での一時的な加入)
   - [ホーンスワグル](https://ja.wikipedia.org/wiki/ホーンスワグル "wikilink")(DXの公式マスコットキャラクターとして)
 
 ## 概要

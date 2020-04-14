@@ -1,4 +1,4 @@
-> この記事は[\&9th IMAGE](https://ja.wikipedia.org/wiki/\&9th_IMAGE)から翻訳されています。
+> この記事は[織田哲郎\&9th IMAGE](https://ja.wikipedia.org/wiki/織田哲郎\&9th_IMAGE)から翻訳されています。
 
 
 **織田哲郎 & 9th IMAGE**（おだてつろう・アンド・ナインス・イメージ）は[織田哲郎](../Page/織田哲郎.md "wikilink")を中心に結成したバンド。

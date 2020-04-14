@@ -1,4 +1,4 @@
-> この記事は[QED ](https://ja.wikipedia.org/wiki/QED_)から翻訳されています。
+> この記事は[QED 百人一首の呪](https://ja.wikipedia.org/wiki/QED_百人一首の呪)から翻訳されています。
 
 
 『**QED 百人一首の呪**』（キューイーディー ひゃくにんいっしゅのしゅ）は、[高田崇史](../Page/高田崇史.md "wikilink")による[推理小説](../Page/推理小説.md "wikilink")。第9回[メフィスト賞](../Page/メフィスト賞.md "wikilink")受賞作品。[QEDシリーズ](../Page/QEDシリーズ.md "wikilink")の第1作である。

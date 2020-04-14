@@ -1,4 +1,4 @@
-> この記事は[AD](https://ja.wikipedia.org/wiki/AD)から翻訳されています。
+> この記事は[ADサンカエターノ](https://ja.wikipedia.org/wiki/ADサンカエターノ)から翻訳されています。
 
 
 **ADサンカエターノ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[サンカエターノ・ド・スル](https://ja.wikipedia.org/wiki/サンカエターノ・ド・スル "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

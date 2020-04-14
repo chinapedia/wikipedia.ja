@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[ウィチタ・ドワイト・D・アイゼンハワー国際空港](https://ja.wikipedia.org/wiki/ウィチタ・ドワイト・D・アイゼンハワー国際空港)から翻訳されています。
 
 
 **ウィチタ・ドワイト・D・アイゼンハワー国際空港**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カンザス州](../Page/カンザス州.md "wikilink")[ウィチタ](../Page/ウィチタ.md "wikilink")にある[空港](../Page/空港.md "wikilink")。

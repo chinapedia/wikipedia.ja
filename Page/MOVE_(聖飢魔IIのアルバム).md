@@ -1,4 +1,4 @@
-> この記事は[MOVE \(II\)](https://ja.wikipedia.org/wiki/MOVE_\(II\))から翻訳されています。
+> この記事は[MOVE \(聖飢魔IIのアルバム\)](https://ja.wikipedia.org/wiki/MOVE_\(聖飢魔IIのアルバム\))から翻訳されています。
 
 
 『**MOVE**』（ムーヴ）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第十四教典で[B.D.](../Page/魔暦.md "wikilink")1年（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）[7月23日](../Page/7月23日.md "wikilink")に発布された、オリジナル作品としては11作目となる大教典。

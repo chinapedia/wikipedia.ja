@@ -1,4 +1,4 @@
-> この記事は[DS](https://ja.wikipedia.org/wiki/DS)から翻訳されています。
+> この記事は[ヨッシーアイランドDS](https://ja.wikipedia.org/wiki/ヨッシーアイランドDS)から翻訳されています。
 
 
 『**ヨッシーアイランドDS**』（ヨッシーアイランドディーエス）は、[任天堂](../Page/任天堂.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。北米地域では『**Yoshi's Island DS**』として[2006年](../Page/2006年.md "wikilink")11月13日に発売され、同年に[オーストラリア](../Page/オーストラリア.md "wikilink")や[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")でも続いて発売された。
@@ -307,9 +307,7 @@
 
 ## 外部リンク
 
-  - [ヨッシーアイランドDS 公式サイト](https://www.nintendo.co.jp/ds/aywj/index.html)
-
-  - [E3 2006 ニンテンドーDSタイトル情報](http://www.nintendo.co.jp/n10/e3_2006/ds/index.html)（任天堂公式ページ内）
+  - [ヨッシーアイランドDS 公式サイト](https://www.nintendo.co.jp/ds/aywj/)
 
   -
 [Category:2007年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2007年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink") [Category:マーベラスのゲームソフト](https://ja.wikipedia.org/wiki/Category:マーベラスのゲームソフト "wikilink") [Category:スーパーマリオワールド](https://ja.wikipedia.org/wiki/Category:スーパーマリオワールド "wikilink") [Category:ヨッシーシリーズ](https://ja.wikipedia.org/wiki/Category:ヨッシーシリーズ "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:アクションゲーム](https://ja.wikipedia.org/wiki/Category:アクションゲーム "wikilink") [Category:島を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:島を舞台としたコンピュータゲーム "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink")

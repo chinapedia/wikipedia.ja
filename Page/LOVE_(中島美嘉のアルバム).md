@@ -1,4 +1,4 @@
-> この記事は[LOVE \(\)](https://ja.wikipedia.org/wiki/LOVE_\(\))から翻訳されています。
+> この記事は[LOVE \(中島美嘉のアルバム\)](https://ja.wikipedia.org/wiki/LOVE_\(中島美嘉のアルバム\))から翻訳されています。
 
 
 『**LØVE**』（ラヴ）は、[2003年](../Page/2003年.md "wikilink")[11月6日](../Page/11月6日.md "wikilink")にリリースされた[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")の2枚目の[オリジナル・アルバム](https://ja.wikipedia.org/wiki/オリジナル・アルバム "wikilink")。『[TRUE](../Page/TRUE_\(中島美嘉のアルバム\).md "wikilink")』に次いで2作目となる[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった。

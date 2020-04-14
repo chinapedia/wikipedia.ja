@@ -1,7 +1,7 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[FMナイトストリート](https://ja.wikipedia.org/wiki/FMナイトストリート)から翻訳されています。
 
 
-**FMナイトストリート**（エフエム-）は[JFN制作で](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")、[1984年](../Page/1984年.md "wikilink")12月から[1994年](../Page/1994年.md "wikilink")3月まで放送されていたラジオ番組である。
+**FMナイトストリート**（エフエム-）は[JFN制作で](../Page/全国FM放送協議会.md "wikilink")、[1984年](../Page/1984年.md "wikilink")12月から[1994年](../Page/1994年.md "wikilink")3月まで放送されていたラジオ番組である。
 
 ## 概要
 

@@ -1,4 +1,4 @@
-> この記事は[PCM](https://ja.wikipedia.org/wiki/PCM)から翻訳されています。
+> この記事は[PCMジャズ喫茶](https://ja.wikipedia.org/wiki/PCMジャズ喫茶)から翻訳されています。
 
 
 **PCMジャズ喫茶**（ピーシーエムジャズきっさ）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")の『122ch The Jazz』で隔週の土曜日に放送されている[トーク番組](../Page/トーク番組.md "wikilink")である。2011年8月よりタイトルを『**ジャズ喫茶「MUSIC BIRD」**』（ジャズきっさ ミュージックバード）に変更した。PCM時代から既に10年を突破している[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")である。

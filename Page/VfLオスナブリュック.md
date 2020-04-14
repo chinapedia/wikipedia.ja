@@ -1,4 +1,4 @@
-> この記事は[VfL](https://ja.wikipedia.org/wiki/VfL)から翻訳されています。
+> この記事は[VfLオスナブリュック](https://ja.wikipedia.org/wiki/VfLオスナブリュック)から翻訳されています。
 
 
 **VfLオスナブリュック**（**VfL Osnabrück**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ニーダーザクセン州](../Page/ニーダーザクセン州.md "wikilink")の[オスナブリュック](../Page/オスナブリュック.md "wikilink")を本拠地とする[サッカークラブ](https://ja.wikipedia.org/wiki/サッカークラブ "wikilink")。

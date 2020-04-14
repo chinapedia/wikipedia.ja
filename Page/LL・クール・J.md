@@ -1,4 +1,4 @@
-> この記事は[LLJ](https://ja.wikipedia.org/wiki/LLJ)から翻訳されています。
+> この記事は[LL・クール・J](https://ja.wikipedia.org/wiki/LL・クール・J)から翻訳されています。
 
 
 **LL・クール・J**（LL Cool J, エルエルクールジェイ、本名**James Todd Smith**、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[1月14日](../Page/1月14日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")・[俳優](../Page/俳優.md "wikilink")。

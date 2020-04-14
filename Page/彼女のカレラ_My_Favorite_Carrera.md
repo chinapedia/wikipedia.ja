@@ -1,4 +1,4 @@
-> この記事は[ My Favorite Carrera](https://ja.wikipedia.org/wiki/_My_Favorite_Carrera)から翻訳されています。
+> この記事は[彼女のカレラ My Favorite Carrera](https://ja.wikipedia.org/wiki/彼女のカレラ_My_Favorite_Carrera)から翻訳されています。
 
 
 『**彼女のカレラ My Favorite Carrera**』（かのじょのカレラ）は、[麻宮騎亜](../Page/麻宮騎亜.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊プレイボーイ](../Page/週刊プレイボーイ.md "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて、2004年30号より2011年19・20号まで誌上連載。連載初期は不定期だったが、しばらくして1週間おきの掲載になり、2007年17号からは毎週連載となった。

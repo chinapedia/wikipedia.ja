@@ -1,4 +1,4 @@
-> この記事は[JDC](https://ja.wikipedia.org/wiki/JDC)から翻訳されています。
+> この記事は[JDCシリーズ](https://ja.wikipedia.org/wiki/JDCシリーズ)から翻訳されています。
 
 
 **JDCシリーズ**は、[講談社](../Page/講談社.md "wikilink")から刊行されている[清涼院流水](../Page/清涼院流水.md "wikilink")の[推理小説](../Page/推理小説.md "wikilink")の[シリーズ作品](../Page/シリーズ_\(作品\).md "wikilink")。JDCは、**Japan Detectives Club**（日本探偵倶楽部）のことで、[探偵](https://ja.wikipedia.org/wiki/探偵 "wikilink")たちの集団である。そのJDCの探偵たちが事件を解決していくことから、JDCシリーズと呼ばれる。

@@ -1,4 +1,4 @@
-> この記事は[B-CLUB \(\)](https://ja.wikipedia.org/wiki/B-CLUB_\(\))から翻訳されています。
+> この記事は[B-CLUB \(模型雑誌\)](https://ja.wikipedia.org/wiki/B-CLUB_\(模型雑誌\))から翻訳されています。
 
 
 『**B-CLUB**』（ビークラブ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")10月から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")2月にかけて[バンダイ](../Page/バンダイ.md "wikilink")出版課から発行された[模型雑誌](../Page/模型雑誌.md "wikilink")。またその誌上で発表された作例等を販売していた[ガレージキット](../Page/ガレージキット.md "wikilink")ブランドを指す。

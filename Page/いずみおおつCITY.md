@@ -1,4 +1,4 @@
-> この記事は[CITY](https://ja.wikipedia.org/wiki/CITY)から翻訳されています。
+> この記事は[いずみおおつCITY](https://ja.wikipedia.org/wiki/いずみおおつCITY)から翻訳されています。
 
 
 [Izumiotsu-Sta003.JPG](https://ja.wikipedia.org/wiki/File:Izumiotsu-Sta003.JPG "fig:Izumiotsu-Sta003.JPG")[泉大津市](../Page/泉大津市.md "wikilink")旭町18-3\]\] **いずみおおつCITY**（いずみおおつシティ）は、[大阪府](../Page/大阪府.md "wikilink")[泉大津市](../Page/泉大津市.md "wikilink")旭町にある[南海電鉄グループの](../Page/南海電気鉄道.md "wikilink")[ショッピングモール](../Page/ショッピングセンター.md "wikilink")。

@@ -78,4 +78,4 @@
 
   - [DSW公式サイト](http://www.dswrestling.com/)（英語）
 
-[Category:現在活動していないアメリカ合衆国のプロレス団体](https://ja.wikipedia.org/wiki/Category:現在活動していないアメリカ合衆国のプロレス団体 "wikilink") [Category:WWE](https://ja.wikipedia.org/wiki/Category:WWE "wikilink") [Category:ジョージア州のスポーツ](https://ja.wikipedia.org/wiki/Category:ジョージア州のスポーツ "wikilink")
+[Category:現在活動していないアメリカ合衆国のプロレス団体](https://ja.wikipedia.org/wiki/Category:現在活動していないアメリカ合衆国のプロレス団体 "wikilink") [Category:WWE](https://ja.wikipedia.org/wiki/Category:WWE "wikilink") [Category:ジョージア州のスポーツ](https://ja.wikipedia.org/wiki/Category:ジョージア州のスポーツ "wikilink") [Category:ジョージア州の組織](https://ja.wikipedia.org/wiki/Category:ジョージア州の組織 "wikilink")

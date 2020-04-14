@@ -1,4 +1,4 @@
-> この記事は[IBC!!](https://ja.wikipedia.org/wiki/IBC!!)から翻訳されています。
+> この記事は[IBCラジオドラマチック競馬中継〜生の感動!!みちのくレース](https://ja.wikipedia.org/wiki/IBCラジオドラマチック競馬中継〜生の感動!!みちのくレース)から翻訳されています。
 
 
 **IBCラジオ実況中継 岩手競馬クロス**（アイビーシーラジオじっきょうちゅうけい いわてけいばクロス）は、[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")（IBCラジオ）で放送されている[競馬中継](../Page/競馬中継.md "wikilink")番組である。提供は[岩手県競馬組合](../Page/岩手県競馬組合.md "wikilink")。

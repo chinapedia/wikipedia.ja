@@ -1,4 +1,4 @@
-> この記事は[F2G \(\)](https://ja.wikipedia.org/wiki/F2G_\(\))から翻訳されています。
+> この記事は[F2G \(航空機\)](https://ja.wikipedia.org/wiki/F2G_\(航空機\))から翻訳されています。
 
 
 '''F2G *'（*Goodyear F2G''）は、[グッドイヤー](../Page/グッドイヤー.md "wikilink")社が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")向けに開発した[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。

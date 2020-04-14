@@ -1,4 +1,4 @@
-> この記事は[BEST \(\)](https://ja.wikipedia.org/wiki/BEST_\(\))から翻訳されています。
+> この記事は[BEST \(中島美嘉のアルバム\)](https://ja.wikipedia.org/wiki/BEST_\(中島美嘉のアルバム\))から翻訳されています。
 
 
 『**BEST**』（ベスト）は、[2005年](../Page/2005年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")にリリースされた[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")のベスト・アルバム、及びビデオクリップ集。

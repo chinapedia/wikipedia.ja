@@ -1,4 +1,4 @@
-> この記事は[M ](https://ja.wikipedia.org/wiki/M_)から翻訳されています。
+> この記事は[M エム](https://ja.wikipedia.org/wiki/M_エム)から翻訳されています。
 
 
 『**M エム**』（エム）は、[桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")による青年向け[恋愛](../Page/恋愛.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[Trash \(\)](https://ja.wikipedia.org/wiki/Trash_\(\))から翻訳されています。
+> この記事は[Trash \(ザ・スターリンのアルバム\)](https://ja.wikipedia.org/wiki/Trash_\(ザ・スターリンのアルバム\))から翻訳されています。
 
 
 『**trash**』（トラッシュ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")・[ザ・スターリン](../Page/ザ・スターリン.md "wikilink")の初の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。

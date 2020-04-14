@@ -1,4 +1,4 @@
-> この記事は[ LEMON](https://ja.wikipedia.org/wiki/_LEMON)から翻訳されています。
+> この記事は[プレゼント・フロム LEMON](https://ja.wikipedia.org/wiki/プレゼント・フロム_LEMON)から翻訳されています。
 
 
 『**プレゼント・フロム LEMON**』（プレゼントフロムレモン、PRESENT FROM LEMON）は、[桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

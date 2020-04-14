@@ -1,4 +1,4 @@
-> この記事は[PMT](https://ja.wikipedia.org/wiki/PMT)から翻訳されています。
+> この記事は[PMT航空](https://ja.wikipedia.org/wiki/PMT航空)から翻訳されています。
 
 
 **PMT航空**（PMT air、Progress MulTi Air）は[カンボジア](../Page/カンボジア.md "wikilink")の[航空会社](../Page/航空会社.md "wikilink")である。

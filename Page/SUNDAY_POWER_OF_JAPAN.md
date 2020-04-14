@@ -1,7 +1,7 @@
 > この記事は[SUNDAY POWER OF JAPAN](https://ja.wikipedia.org/wiki/SUNDAY_POWER_OF_JAPAN)から翻訳されています。
 
 
-**SUNDAY POWER OF JAPAN**（サンデー・パワー・オブ・ジャパン）は、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN加盟の全国](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")38局（開始当初は37局）で放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2002年](../Page/2002年.md "wikilink")10月から[2003年](../Page/2003年.md "wikilink")9月にかけて放送された。
+**SUNDAY POWER OF JAPAN**（サンデー・パワー・オブ・ジャパン）は、[TOKYO FMをキーステーションに](../Page/エフエム東京.md "wikilink")[JFN加盟の全国](../Page/全国FM放送協議会.md "wikilink")38局（開始当初は37局）で放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2002年](../Page/2002年.md "wikilink")10月から[2003年](../Page/2003年.md "wikilink")9月にかけて放送された。
 
 13時台の一部が[東京MXテレビで同時放送された関係もあって](../Page/東京メトロポリタンテレビジョン.md "wikilink")、TOKYO FMのスタジオからではなく2社で運営していた[有楽町](../Page/有楽町.md "wikilink")のサテライトスタジオ「XEBEC（ゼベック）」から放送されていた。但し、スポンサーCMについてはラジオのみで流され、MXTVではCMの時間帯は、TOKYO FMの[番組宣伝](../Page/番組宣伝.md "wikilink")CMが流されていた。
 

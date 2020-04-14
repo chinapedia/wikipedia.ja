@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/三菱UFJフィナンシャル・グループ)から翻訳されています。
 
 
 **株式会社三菱UFJフィナンシャル・グループ**（みつびしユーエフジェイフィナンシャルグループ、、略称: **MUFG**）は、日本の[金融持株会社](../Page/金融持株会社.md "wikilink")であり、[TOPIX Core30の構成銘柄の一つである](https://ja.wikipedia.org/wiki/TOPIX_Core30 "wikilink")。

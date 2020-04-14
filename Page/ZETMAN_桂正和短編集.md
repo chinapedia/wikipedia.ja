@@ -1,4 +1,4 @@
-> この記事は[ZETMAN ](https://ja.wikipedia.org/wiki/ZETMAN_)から翻訳されています。
+> この記事は[ZETMAN 桂正和短編集](https://ja.wikipedia.org/wiki/ZETMAN_桂正和短編集)から翻訳されています。
 
 
 『**ZETMAN 桂正和短編集**』（ゼットマン かつらまさかずたんぺんしゅう）は、[桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")短編集。

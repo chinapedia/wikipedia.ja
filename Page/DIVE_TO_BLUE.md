@@ -23,7 +23,7 @@
         前作「[winter fall](https://ja.wikipedia.org/wiki/winter_fall "wikilink")」と同じく発売前の[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[東京ドーム](../Page/東京ドーム.md "wikilink")で行われたライブ「1997 REINCARNATION」で先行演奏された\[2\]。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")の内容には男性が[飛び降り](../Page/飛び降り.md "wikilink")自殺を図る描写があり、このような内容から、インターネット上などでは歌詞自体も自殺を題材としたものではないかと解釈をするファンなども見られる。なお、シングル発売当初の雑誌に掲載された[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")へのインタビュー記事では、歌詞には前向きな意味を込めて作詞したことが語られており、自殺を題材とした歌詞ではない事が伺える\[3\]\[4\]\[5\]。また、ミュージック・ビデオではtetsuyaが[女装](../Page/女装.md "wikilink")しているシーンが存在する。
         [歌詞](../Page/歌詞.md "wikilink")についてhydeは、「勝手にレールを作っているのは自分。（仕事などで）他にやりたい事があればすればいいと思う。境界線があるから渡れないと思い込んでるけど、実はその境界線は自分が作ったもの。境界線はあってないようなものだと言いたかった」というような事を語っている\[6\]\[7\]\[8\]。また、この曲のタイトルにおける"BLUE"とは"自由"のことだと[日本テレビ系音楽番組](../Page/日本テレビ放送網.md "wikilink")『[速報\!歌の大辞テン](../Page/速報!歌の大辞テン.md "wikilink")』で語られている。
-        ライブでこの曲を歌う際は必ず[サビ](../Page/サビ.md "wikilink")前でhydeが飛びはねる。この曲の仮タイトルは「Ah\![香港](https://ja.wikipedia.org/wiki/香港 "wikilink")」で、tetsuyaが曲作りで訪れた香港でこの曲ができたため、そのような仮タイトルになったとされているが、実際はすでに[東京](../Page/東京.md "wikilink")でできていたとtetsuya本人が語っている。
+        この曲の仮タイトルは「Ah\![香港](https://ja.wikipedia.org/wiki/香港 "wikilink")」で、tetsuyaが曲作りで訪れた香港でこの曲ができたため、そのような仮タイトルになったとされているが、実際はすでに[東京](../Page/東京.md "wikilink")でできていたとtetsuya本人が語っている。
         かつて、元[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")の[鈴木健はこの曲を入場曲に使用していた](../Page/鈴木健_\(内野手\).md "wikilink")。
 2.  **Peeping Tom**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano

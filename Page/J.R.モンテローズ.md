@@ -1,4 +1,4 @@
-> この記事は[J.R.](https://ja.wikipedia.org/wiki/J.R.)から翻訳されています。
+> この記事は[J.R.モンテローズ](https://ja.wikipedia.org/wiki/J.R.モンテローズ)から翻訳されています。
 
 
 **J.R.モンテローズ**（J. R. Monterose, [1927年](../Page/1927年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") デトロイト - [1993年](../Page/1993年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink") ラスベガス）は、[ジャズ](../Page/ジャズ.md "wikilink")の[サクソフォーン](../Page/サクソフォーン.md "wikilink")奏者、アレンジャー。

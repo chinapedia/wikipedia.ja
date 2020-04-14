@@ -1,4 +1,4 @@
-> この記事は[ARASHI](https://ja.wikipedia.org/wiki/ARASHI)から翻訳されています。
+> この記事は[A・RA・SHI](https://ja.wikipedia.org/wiki/A・RA・SHI)から翻訳されています。
 
 
 「**A・RA・SHI**」（アラシ）は、[嵐のデビュー](../Page/嵐_\(グループ\).md "wikilink")[シングル](../Page/シングル.md "wikilink")である。[1999年](../Page/1999年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。

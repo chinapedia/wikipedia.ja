@@ -1,4 +1,4 @@
-> この記事は[A \(\)](https://ja.wikipedia.org/wiki/A_\(\))から翻訳されています。
+> この記事は[セリエA \(バレーボール\)](https://ja.wikipedia.org/wiki/セリエA_\(バレーボール\))から翻訳されています。
 
 
 **セリエA**（Serie A、セリエ・アー）は、[イタリア](../Page/イタリア.md "wikilink")のプロ[バレーボール](../Page/バレーボール.md "wikilink")リーグであるレガ・パッラヴォーロ（Lega Pallavolo）のトップディビジョンである。上位リーグのセリエA1と下位リーグのセリエA2で構成される。

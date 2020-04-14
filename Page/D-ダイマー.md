@@ -1,4 +1,4 @@
-> この記事は[D-](https://ja.wikipedia.org/wiki/D-)から翻訳されています。
+> この記事は[D-ダイマー](https://ja.wikipedia.org/wiki/D-ダイマー)から翻訳されています。
 
 
 **D-ダイマー** (D-dimer) は[フィブリン](../Page/フィブリン.md "wikilink")が[プラスミン](https://ja.wikipedia.org/wiki/プラスミン "wikilink")によって分解される際の生成物である。[血液検査](../Page/血液検査.md "wikilink")において[血栓症](https://ja.wikipedia.org/wiki/血栓症 "wikilink")の判定に用いられる。「D-D ダイマー」とも呼ばれる。

@@ -1,4 +1,4 @@
-> この記事は[MOTHER \(\)](https://ja.wikipedia.org/wiki/MOTHER_\(\))から翻訳されています。
+> この記事は[MOTHER \(ゲーム\)](https://ja.wikipedia.org/wiki/MOTHER_\(ゲーム\))から翻訳されています。
 
 
 『**MOTHER**』（マザー）は、[任天堂](../Page/任天堂.md "wikilink")が[1989年](../Page/1989年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")に発売した[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用の[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。

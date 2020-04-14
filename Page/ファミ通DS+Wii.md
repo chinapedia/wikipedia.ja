@@ -1,4 +1,4 @@
-> この記事は[DS+Wii](https://ja.wikipedia.org/wiki/DS+Wii)から翻訳されています。
+> この記事は[ファミ通DS+Wii](https://ja.wikipedia.org/wiki/ファミ通DS+Wii)から翻訳されています。
 
 
 『**ファミ通DS+Wii**』（ファミつうディーエスプラスウィー）は、[カドカワ](https://ja.wikipedia.org/wiki/カドカワ "wikilink")が発行していた、『[週刊ファミ通](https://ja.wikipedia.org/wiki/週刊ファミ通 "wikilink")』の姉妹誌。発売は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")、ブランドは[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")。[任天堂](../Page/任天堂.md "wikilink")系ハードの記事を扱う。新ハードが発売するのに伴って誌名も変化している。

@@ -1,4 +1,4 @@
-> この記事は[MINIBOX](https://ja.wikipedia.org/wiki/MINIBOX)から翻訳されています。
+> この記事は[MINI☆BOX](https://ja.wikipedia.org/wiki/MINI☆BOX)から翻訳されています。
 
 
 **MINI☆BOX**（ミニボックス）は、幼稚園からの仲良し3人組(MOKA・LAO・RIKU)で2002年に結成されたスーパーキッズ・ダンスミュージック・プロジェクト。デビュー時は小学校3年生。所属[レーベルは](../Page/レコードレーベル.md "wikilink")[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[JCB](https://ja.wikipedia.org/wiki/JCB)から翻訳されています。
+> この記事は[JCBグループ](https://ja.wikipedia.org/wiki/JCBグループ)から翻訳されています。
 
 
 **JCBグループ**とは、株式会社[ジェーシービー](../Page/ジェーシービー.md "wikilink")(JCB)及びJCBと[フランチャイズ](../Page/フランチャイズ.md "wikilink")(FC)契約を結び[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")でJCBカードを取り扱う[会社](../Page/会社.md "wikilink")の総称である。

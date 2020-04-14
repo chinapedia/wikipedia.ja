@@ -1,4 +1,4 @@
-> この記事は[-X](https://ja.wikipedia.org/wiki/-X)から翻訳されています。
+> この記事は[スタティック-X](https://ja.wikipedia.org/wiki/スタティック-X)から翻訳されています。
 
 
 **スタティック-X** (**Static-X**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ニュー・メタル](../Page/ニュー・メタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1994年にカリフォルニア州ロサンゼルスにて結成。自分達の音楽を「**イビル・ディスコ(悪のディスコ)**」と呼称しており楽曲はヘヴィメタルやハードコアの持つ激しいリフとテクノの持つミニマリズムかつ機械的な音と重音性をベースにした曲が多い。激しい[オーバードライブの歪曲音](../Page/エフェクター.md "wikilink")、[ゴシック・ロック](https://ja.wikipedia.org/wiki/ゴシック・ロック "wikilink")を彷彿とさせるキーボード、バスリフとテンポの速いあたかも怒っているかのようなボーカルスタイルを特徴としている。[ミニストリー](https://ja.wikipedia.org/wiki/ミニストリー_\(バンド\) "wikilink")、そして[タイプ・オー・ネガティヴ](../Page/タイプ・オー・ネガティヴ.md "wikilink")の影響を受けており、それらに加えてファンや批評家は[ホワイト・ゾンビ](https://ja.wikipedia.org/wiki/ホワイト・ゾンビ_\(バンド\) "wikilink")、[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")、[フィア・ファクトリー](../Page/フィア・ファクトリー.md "wikilink")、[ダンジグ](https://ja.wikipedia.org/wiki/ダンジグ "wikilink")、[コール・チェンバー](https://ja.wikipedia.org/wiki/コール・チェンバー "wikilink")などに似ていると評している。

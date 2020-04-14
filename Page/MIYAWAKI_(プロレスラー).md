@@ -1,4 +1,4 @@
-> この記事は[MIYAWAKI \(\)](https://ja.wikipedia.org/wiki/MIYAWAKI_\(\))から翻訳されています。
+> この記事は[MIYAWAKI \(プロレスラー\)](https://ja.wikipedia.org/wiki/MIYAWAKI_\(プロレスラー\))から翻訳されています。
 
 
 **MIYAWAKI**（ミヤワキ、[1977年](../Page/1977年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。

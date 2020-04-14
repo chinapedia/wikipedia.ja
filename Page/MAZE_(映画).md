@@ -1,4 +1,4 @@
-> この記事は[MAZE \(\)](https://ja.wikipedia.org/wiki/MAZE_\(\))から翻訳されています。
+> この記事は[MAZE \(映画\)](https://ja.wikipedia.org/wiki/MAZE_\(映画\))から翻訳されています。
 
 
 『**MAZE マゼ 〜南風〜**』は、[高知県](../Page/高知県.md "wikilink")[香美郡](../Page/香美郡.md "wikilink")[夜須町](../Page/夜須町_\(高知県\).md "wikilink")（現[香南市](../Page/香南市.md "wikilink")）を舞台にした漁村の無骨だが温かい人情や家族の絆と和解、少年の[トラウマ](https://ja.wikipedia.org/wiki/トラウマ "wikilink")の克服と成長などを描いた[日本映画](../Page/日本映画.md "wikilink")。題名は、[漁師](../Page/漁師.md "wikilink")が漁をしている際に南側から吹き込む[気象](../Page/気象.md "wikilink")の変化を告げる風にちなんでいる。 高知県内では、2005年11月より先行上映され、関東地方では、2006年4月24日、[ヤクルトホール](../Page/ヤクルトホール.md "wikilink")で抽選による無料試写会、4月29日から5月12日にかけて[銀座シネパトス](https://ja.wikipedia.org/wiki/銀座シネパトス "wikilink")（[東京都](../Page/東京都.md "wikilink")[中央区銀座](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")）でロードショーが行われた。

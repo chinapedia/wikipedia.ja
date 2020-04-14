@@ -1,4 +1,4 @@
-> この記事は[SINGLES \(Janne Da Arc\)](https://ja.wikipedia.org/wiki/SINGLES_\(Janne_Da_Arc\))から翻訳されています。
+> この記事は[SINGLES \(Janne Da Arcのアルバム\)](https://ja.wikipedia.org/wiki/SINGLES_\(Janne_Da_Arcのアルバム\))から翻訳されています。
 
 
 『**SINGLES**』（シングルス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")[Janne Da Arc初のシングル曲集](../Page/Janne_Da_Arc.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")発売。発売元は[motorod](https://ja.wikipedia.org/wiki/motorod "wikilink")([avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink"))。

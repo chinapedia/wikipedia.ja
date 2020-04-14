@@ -1,4 +1,4 @@
-> この記事は[LDL](https://ja.wikipedia.org/wiki/LDL)から翻訳されています。
+> この記事は[LDL受容体](https://ja.wikipedia.org/wiki/LDL受容体)から翻訳されています。
 
 
 **[LDL](https://ja.wikipedia.org/wiki/LDL "wikilink")（低比重リポタンパク質）[受容体](../Page/受容体.md "wikilink")ファミリー**はLDLをはじめとする種々のリガンドの細胞内取り込み、あるいは[シグナル伝達](../Page/シグナル伝達.md "wikilink")を司る多機能[タンパク質](../Page/タンパク質.md "wikilink")である。[ファミリーを構成する](https://ja.wikipedia.org/wiki/タンパク質ファミリー "wikilink")[分子](../Page/分子.md "wikilink")は10種類以上を数える。その働きは非常に重要かつ多様であり、一部を以下に列挙する。

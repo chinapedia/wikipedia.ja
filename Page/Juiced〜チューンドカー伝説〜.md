@@ -1,4 +1,4 @@
-> この記事は[Juiced](https://ja.wikipedia.org/wiki/Juiced)から翻訳されています。
+> この記事は[Juiced〜チューンドカー伝説〜](https://ja.wikipedia.org/wiki/Juiced〜チューンドカー伝説〜)から翻訳されています。
 
 
 『**Juiced〜チューンドカー伝説〜**』（ジュースド チューンドカーでんせつ、欧米版タイトル*Juiced* ）はアメリカ[THQ](../Page/THQ.md "wikilink")より発売されたカー[レースゲーム](../Page/レースゲーム.md "wikilink")。欧米では2005年6月に[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox用が発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[YOU](https://ja.wikipedia.org/wiki/YOU)から翻訳されています。
+> この記事は[YOUテレビ](https://ja.wikipedia.org/wiki/YOUテレビ)から翻訳されています。
 
 
 **YOUテレビ株式会社**（ゆーテレビ）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")に本社がある[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。

@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ティーガーII](https://ja.wikipedia.org/wiki/ティーガーII)から翻訳されています。
 
 
 **ティーガーII**（）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[重戦車](../Page/重戦車.md "wikilink")（70トン級）である[VI号戦車](../Page/VI号戦車.md "wikilink")の通称。VI号戦車にはI型とII型の2種類の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")が存在し、それぞれ**[ティーガーI](../Page/ティーガーI.md "wikilink")**、**ティーガーII**と呼ばれる。本稿での表記は**ティーガーII**で統一する。

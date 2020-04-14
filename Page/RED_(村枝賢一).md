@@ -1,4 +1,4 @@
-> この記事は[RED \(\)](https://ja.wikipedia.org/wiki/RED_\(\))から翻訳されています。
+> この記事は[RED \(村枝賢一\)](https://ja.wikipedia.org/wiki/RED_\(村枝賢一\))から翻訳されています。
 
 
 『**RED**』（レッド）は、[村枝賢一](../Page/村枝賢一.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[西部開拓時代](../Page/西部開拓時代.md "wikilink")末期を舞台にした[復讐劇である](https://ja.wikipedia.org/wiki/復讐悲劇 "wikilink")。

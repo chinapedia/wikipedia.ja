@@ -159,9 +159,9 @@
 
 ## 外部リンク
 
-  - [Fonogenico ナオコ「ネコもきたよ」](http://ameblo.jp/fonogenico-naoko/) - 高山奈帆子による公式ブログ
+  - [Fonogenico ナオコ「ネコもきたよ」](https://ameblo.jp/fonogenico-naoko/) - 高山奈帆子による公式ブログ
 
-  - [Fonogenico | SonyMusic](http://www.sonymusic.co.jp/artist/fonogenico/)(更新停止)
+  - [Fonogenico | SonyMusic](https://www.sonymusic.co.jp/artist/fonogenico/)(更新停止)
 
   - [carneiro（カルネイロ） Official Web](http://carne-iro.com/disco.html)
 

@@ -1,4 +1,4 @@
-> この記事は[DEVIL BLESS YOU! II FINAL WORKS](https://ja.wikipedia.org/wiki/DEVIL_BLESS_YOU!_II_FINAL_WORKS)から翻訳されています。
+> この記事は[DEVIL BLESS YOU! 〜聖飢魔II FINAL WORKS〜](https://ja.wikipedia.org/wiki/DEVIL_BLESS_YOU!_〜聖飢魔II_FINAL_WORKS〜)から翻訳されています。
 
 
 『**DEVIL BLESS YOU\! 〜聖飢魔II FINAL WORKS〜**』（デヴィル・ブレス・ユー せいきまつ ファイナル・ワークス）は、[D.C.](../Page/魔暦.md "wikilink")2年（[2000年](../Page/2000年.md "wikilink")）[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に発布された、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第19教典で[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")としては4枚目となる大教典。

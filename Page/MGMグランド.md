@@ -1,4 +1,4 @@
-> この記事は[MGM](https://ja.wikipedia.org/wiki/MGM)から翻訳されています。
+> この記事は[MGMグランド](https://ja.wikipedia.org/wiki/MGMグランド)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:20080404-Vegas-MGMGrand-Day.jpg "wikilink") **MGM（メトロ・ゴールドウィン・メイヤー）グランド・ラスベガス**（*MGM Grand Las Vegas*）とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ネバダ州](../Page/ネバダ州.md "wikilink")[ラスベガス](../Page/ラスベガス.md "wikilink")にある、[カジノ](../Page/カジノ.md "wikilink")・[ホテル](../Page/ホテル.md "wikilink")である。

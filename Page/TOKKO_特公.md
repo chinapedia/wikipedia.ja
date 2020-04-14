@@ -1,7 +1,7 @@
-> この記事は[TOKKO ](https://ja.wikipedia.org/wiki/TOKKO_)から翻訳されています。
+> この記事は[TOKKO 特公](https://ja.wikipedia.org/wiki/TOKKO_特公)から翻訳されています。
 
 
-『**TOKKO 特公**』（とっこう）は、[藤沢とおる](../Page/藤沢とおる.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。漫画は「[月刊アフタヌーン](../Page/月刊アフタヌーン.md "wikilink")」にて連載されていた。未完。
+『**TOKKO 特公**』（とっこう）は、[藤沢とおる](../Page/藤沢とおる.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[アニメ](../Page/アニメ.md "wikilink")。『[月刊アフタヌーン](../Page/月刊アフタヌーン.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）において連載されていた。未完。
 
 [2013年](../Page/2013年.md "wikilink")より「[月刊ヒーローズ](https://ja.wikipedia.org/wiki/月刊ヒーローズ "wikilink")」にて本作の前史にあたる「[特公 零](https://ja.wikipedia.org/wiki/特公_零 "wikilink")」が隔月で連載されている（ただし、藤沢は原作のみであり、作画は[浅田有皆](https://ja.wikipedia.org/wiki/浅田有皆 "wikilink")が担当している）。
 
@@ -11,55 +11,55 @@
 
 ## 登場人物
 
-  - 申道蘭丸（しんどう　らんまる）
-    声‐[鈴村健一](../Page/鈴村健一.md "wikilink")
+  - 申道蘭丸（しんどう らんまる）
+    声 - [鈴村健一](../Page/鈴村健一.md "wikilink")
     本作品の[主人公](../Page/主人公.md "wikilink")。高校生の時に町田の事件で両親を殺され、犯人を捜すために特殊機動捜査隊に入隊する。
     基本的に勝気だが、妹の沙也には弱い。さくらとは事件前から面識がある。
     単行本第2巻で自らの体内のファントムを覚醒させ、共生者となり、特公に入る。
-  - 六条さくら（ろくじょう　さくら）
-    声-[折笠富美子](../Page/折笠富美子.md "wikilink")
+  - 六条さくら（ろくじょう さくら）
+    声 - [折笠富美子](../Page/折笠富美子.md "wikilink")
     本作品の[ヒロイン](../Page/ヒロイン.md "wikilink")。赤いアッシュ 系の髪をしている。共生者の一人。町田の事件で植物状態になった弟を持ち、彼の復讐のために特公に入る。
     申道とは事件前から面識がある。そのためか、申道の夢にも姿を現していた。
-  - 鈴鹿紅葉（すずか　くれは）
-    声-[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
+  - 鈴鹿紅葉（すずか くれは）
+    声 - [植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
     特公きっての実力を持つ共生者の少女。大人のしたたかさと、少女ならではの残酷さを併せ持つ。
     町田の事件で両親を失い、ファントムと化した弟の秋人を手に掛けた。
     豊満なバスト、金髪のストレートロングヘアーが特徴。上半身裸にジャケットを羽織るのみという、露出度の高いエロティックな格好であるため、胸元が大きく開き、首にアクセサリーをしている。
     申道の事を気にかけており、横浜でのデートの際にはキスしている。
-  - 伊吹涼子（いぶき　りょうこ）
-    声‐[夏樹リオ](../Page/夏樹リオ.md "wikilink")
+  - 伊吹涼子（いぶき りょうこ）
+    声 - [夏樹リオ](../Page/夏樹リオ.md "wikilink")
     眼鏡をかけた特公のチーフ。婚約者を町田で亡くした公安のキャリア。
     事件後に出会った紅葉の世話役をしている。
-  - 犬飼武流（いぬかい　たける）
-    声‐[赤城進](../Page/赤城進.md "wikilink")
+  - 犬飼武流（いぬかい たける）
+    声 - [赤城進](../Page/赤城進.md "wikilink")
     共生者の一人で、元々さくらとは知り合いだったらしい。彼女と同い年。
     無口だが、大太刀を使うなど、特公での役割が大きい。
-  - 申道沙也（しんどう　さや）
-    声‐[神田朱未](../Page/神田朱未.md "wikilink")
+  - 申道沙也（しんどう さや）
+    声 - [神田朱未](../Page/神田朱未.md "wikilink")
     申道蘭丸の妹。両親を失って以来、兄に世話を焼くようになる。
-  - 花園一郎（はなぞの　いちろう）
-    声‐[武藤正史](../Page/武藤正史.md "wikilink")
+  - 花園一郎（はなぞの いちろう）
+    声 - [武藤正史](../Page/武藤正史.md "wikilink")
     警察学校時代の申道の同期。風俗が趣味。
-  - 國樹田薫（くにきだ　かおる）
-    声‐[高木渉](../Page/高木渉.md "wikilink")
+  - 國樹田薫（くにきだ かおる）
+    声 - [高木渉](../Page/高木渉.md "wikilink")
     渋谷特機隊の隊長。機動隊では「鬼の國樹田」と恐れられるほど取り締まりに命をかける。妻子がいる。
-  - 村正将吾（ぬらまさ　しょうご）
-    声‐[土田大](../Page/土田大.md "wikilink")
+  - 村正将吾（ぬらまさ しょうご）
+    声 - [土田大](../Page/土田大.md "wikilink")
     國樹田の部下で、彼の右腕となり、特機隊を支える。
-  - 荒羅木一斗（あららぎ　いっと）
-    声‐[松林大樹](../Page/松林大樹.md "wikilink")
+  - 荒羅木一斗（あららぎ いっと）
+    声 - [松林大樹](../Page/松林大樹.md "wikilink")
     17歳。繭の兄。幼いときに町田の事件で両親を殺され、以降共生者として繭とともに生活を送る。
     ファントムへの復讐のため、ファントムを喰らい、能力を増やし続けている。物理攻撃が得意。
-  - 荒羅木繭（あららぎ　まゆ）
-    声‐[河原木志穂](../Page/河原木志穂.md "wikilink")
+  - 荒羅木繭（あららぎ まゆ）
+    声 - [河原木志穂](../Page/河原木志穂.md "wikilink")
     16歳。一斗の妹。幼いときに町田の事件で両親を殺され、以降共生者として一斗とともに生活を送る。
     おっとりとしているが、戦うときは容赦しない。精神攻撃が得意。また、ファントムの存在を探知する能力をもつ。
-  - 白石雪乃（しらいし　ゆきの）
-    声‐[遠藤綾](../Page/遠藤綾.md "wikilink")
+  - 白石雪乃（しらいし ゆきの）
+    声 - [遠藤綾](../Page/遠藤綾.md "wikilink")
     立川K大に通う20歳。父が同じ大学の教授。探究心に富み、真面目。責任感も強いがどこか抜けている。
     ファントムに操られていたところを荒羅木兄妹に救われる。
-  - 六条大樹（ろくじょう　ひろき）
-    声‐[下野紘](../Page/下野紘.md "wikilink")
+  - 六条大樹（ろくじょう ひろき）
+    声 - [下野紘](../Page/下野紘.md "wikilink")
     さくらの弟。町田の事件でファントムに襲われ瀕死になり、植物状態となる。
 
 ## 用語解説
@@ -80,17 +80,6 @@
 ## テレビアニメ
 
 [2006年](../Page/2006年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")から[WOWOW](../Page/WOWOW.md "wikilink")にて放送。R-15指定相当作品。
-
-### キャスト
-
-  - 申道蘭丸：[鈴村健一](../Page/鈴村健一.md "wikilink")
-  - 六条さくら：[折笠富美子](../Page/折笠富美子.md "wikilink")
-  - 申道沙也：[神田朱未](../Page/神田朱未.md "wikilink")
-  - 鈴鹿紅葉：[植田佳奈](https://ja.wikipedia.org/wiki/植田佳奈 "wikilink")
-  - 伊吹涼子：[夏樹リオ](../Page/夏樹リオ.md "wikilink")
-  - 犬飼武流：[赤城進](../Page/赤城進.md "wikilink")
-  - 國樹田薫：[高木渉](../Page/高木渉.md "wikilink")
-  - 村正将吾：[土田大](../Page/土田大.md "wikilink")
 
 ### スタッフ
 
@@ -240,4 +229,4 @@
   -
   -
   -
-[Category:藤沢とおる](https://ja.wikipedia.org/wiki/Category:藤沢とおる "wikilink") [Category:漫画作品_と](https://ja.wikipedia.org/wiki/Category:漫画作品_と "wikilink") [Category:月刊アフタヌーン](https://ja.wikipedia.org/wiki/Category:月刊アフタヌーン "wikilink") [Category:ホラー漫画](https://ja.wikipedia.org/wiki/Category:ホラー漫画 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:猟奇漫画](https://ja.wikipedia.org/wiki/Category:猟奇漫画 "wikilink") [Category:カニバリズムを題材とした作品](https://ja.wikipedia.org/wiki/Category:カニバリズムを題材とした作品 "wikilink") [Category:スリラーアニメ](https://ja.wikipedia.org/wiki/Category:スリラーアニメ "wikilink") [Category:スリラー漫画](https://ja.wikipedia.org/wiki/Category:スリラー漫画 "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink") [Category:アニメ作品_と](https://ja.wikipedia.org/wiki/Category:アニメ作品_と "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:WOWOWの深夜アニメ](https://ja.wikipedia.org/wiki/Category:WOWOWの深夜アニメ "wikilink") [Category:グループ・タック](https://ja.wikipedia.org/wiki/Category:グループ・タック "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:松竹のアニメ作品](https://ja.wikipedia.org/wiki/Category:松竹のアニメ作品 "wikilink") [Category:モーニングKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:モーニングKCのアニメ作品 "wikilink") [Category:ホラーアニメ](https://ja.wikipedia.org/wiki/Category:ホラーアニメ "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:R指定のアニメ](https://ja.wikipedia.org/wiki/Category:R指定のアニメ "wikilink")
+[Category:藤沢とおる](https://ja.wikipedia.org/wiki/Category:藤沢とおる "wikilink") [Category:漫画作品_と](https://ja.wikipedia.org/wiki/Category:漫画作品_と "wikilink") [Category:月刊アフタヌーン](https://ja.wikipedia.org/wiki/Category:月刊アフタヌーン "wikilink") [Category:ホラー漫画](https://ja.wikipedia.org/wiki/Category:ホラー漫画 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:猟奇漫画](https://ja.wikipedia.org/wiki/Category:猟奇漫画 "wikilink") [Category:カニバリズムを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:カニバリズムを題材とした漫画作品 "wikilink") [Category:カニバリズムを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:カニバリズムを題材としたアニメ作品 "wikilink") [Category:スリラーアニメ](https://ja.wikipedia.org/wiki/Category:スリラーアニメ "wikilink") [Category:スリラー漫画](https://ja.wikipedia.org/wiki/Category:スリラー漫画 "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink") [Category:アニメ作品_と](https://ja.wikipedia.org/wiki/Category:アニメ作品_と "wikilink") [Category:2006年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2006年のテレビアニメ "wikilink") [Category:WOWOWの深夜アニメ](https://ja.wikipedia.org/wiki/Category:WOWOWの深夜アニメ "wikilink") [Category:グループ・タック](https://ja.wikipedia.org/wiki/Category:グループ・タック "wikilink") [Category:AIC](https://ja.wikipedia.org/wiki/Category:AIC "wikilink") [Category:松竹のアニメ作品](https://ja.wikipedia.org/wiki/Category:松竹のアニメ作品 "wikilink") [Category:モーニングKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:モーニングKCのアニメ作品 "wikilink") [Category:ホラーアニメ](https://ja.wikipedia.org/wiki/Category:ホラーアニメ "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:R指定のアニメ](https://ja.wikipedia.org/wiki/Category:R指定のアニメ "wikilink")

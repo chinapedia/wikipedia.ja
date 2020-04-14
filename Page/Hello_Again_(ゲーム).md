@@ -1,4 +1,4 @@
-> この記事は[Hello Again \(\)](https://ja.wikipedia.org/wiki/Hello_Again_\(\))から翻訳されています。
+> この記事は[Hello Again \(ゲーム\)](https://ja.wikipedia.org/wiki/Hello_Again_\(ゲーム\))から翻訳されています。
 
 
 『**Hello Again**』（ハロー アゲイン）は、[2000年](../Page/2000年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に[Active](https://ja.wikipedia.org/wiki/Active "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。

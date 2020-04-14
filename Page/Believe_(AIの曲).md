@@ -1,4 +1,4 @@
-> この記事は[Believe \(AI\)](https://ja.wikipedia.org/wiki/Believe_\(AI\))から翻訳されています。
+> この記事は[Believe \(AIの曲\)](https://ja.wikipedia.org/wiki/Believe_\(AIの曲\))から翻訳されています。
 
 
 「**Believe**」（ビリーヴ）は、[AIの](https://ja.wikipedia.org/wiki/AI_\(歌手\) "wikilink")13枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に[ユニバーサルミュージックから発売された](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。収録曲数の関係もあり、日本レコード協会では[アルバム](../Page/アルバム.md "wikilink")に分類している。

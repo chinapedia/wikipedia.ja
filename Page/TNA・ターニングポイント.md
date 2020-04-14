@@ -1,4 +1,4 @@
-> この記事は[TNA](https://ja.wikipedia.org/wiki/TNA)から翻訳されています。
+> この記事は[TNA・ターニングポイント](https://ja.wikipedia.org/wiki/TNA・ターニングポイント)から翻訳されています。
 
 
 **ターニング・ポイント**（*Turning Point*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")団体[TNAが主催する](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[プロレス](../Page/プロレス.md "wikilink")の興行、およびそれを取り扱った[PPVの名称](../Page/ペイ・パー・ビュー.md "wikilink")。

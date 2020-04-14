@@ -1,7 +1,7 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[B型の彼氏](https://ja.wikipedia.org/wiki/B型の彼氏)から翻訳されています。
 
 
-『**B型の彼氏**』（ビーがたのかれし、原題：B, 英題：*My Boyfriend is Type B*）は、[2005年](../Page/2005年.md "wikilink")に公開された[韓国映画](../Page/韓国映画.md "wikilink")。
+『**B型の彼氏**』（ビーがたのかれし、原題：B、英題：*My Boyfriend is Type B*）は、[2005年](../Page/2005年.md "wikilink")に公開された[韓国映画](../Page/韓国映画.md "wikilink")。
 
 わがままな[B型の男と小心者の](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型の女の子の斬新な](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[ラブストーリー](../Page/ラブストーリー.md "wikilink")を描いた[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")ドラマ。
 

@@ -1,4 +1,4 @@
-> この記事は[TNA](https://ja.wikipedia.org/wiki/TNA)から翻訳されています。
+> この記事は[TNA・ロックダウン](https://ja.wikipedia.org/wiki/TNA・ロックダウン)から翻訳されています。
 
 
 **TNA・ロックダウン**(*Lockdown*)は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[プロレス](../Page/プロレス.md "wikilink")団体、[TNAが主宰する](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[プロレス](../Page/プロレス.md "wikilink")の興行、およびそれを取り扱った[PPVの名称](../Page/ペイ・パー・ビュー.md "wikilink")。

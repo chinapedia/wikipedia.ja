@@ -1,4 +1,4 @@
-> この記事は[WHY \(\)](https://ja.wikipedia.org/wiki/WHY_\(\))から翻訳されています。
+> この記事は[WHY \(バンド\)](https://ja.wikipedia.org/wiki/WHY_\(バンド\))から翻訳されています。
 
 
 **WHY**（ホワイ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")。[ビーイング](../Page/ビーイング.md "wikilink")所属。

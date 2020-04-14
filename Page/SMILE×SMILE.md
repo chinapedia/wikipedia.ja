@@ -1,4 +1,4 @@
-> この記事は[SMILESMILE](https://ja.wikipedia.org/wiki/SMILESMILE)から翻訳されています。
+> この記事は[SMILE×SMILE](https://ja.wikipedia.org/wiki/SMILE×SMILE)から翻訳されています。
 
 
 『**SMILE×SMILE**』（スマイル スマイル）は、[飯塚雅弓](../Page/飯塚雅弓.md "wikilink")の7枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[徳間ジャパンコミュニケーションズ](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")から発売された。

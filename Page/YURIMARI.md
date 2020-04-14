@@ -208,7 +208,7 @@
 
 ### ラジオ
 
-  - YURIMARIでぬりつぶせ（[JFN](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - YURIMARIでぬりつぶせ（[JFN](../Page/全国FM放送協議会.md "wikilink")）
   - GIRL POP STREET（[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
 
 ### CM

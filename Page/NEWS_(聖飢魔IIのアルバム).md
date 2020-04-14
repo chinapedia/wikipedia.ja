@@ -1,4 +1,4 @@
-> この記事は[NEWS \(II\)](https://ja.wikipedia.org/wiki/NEWS_\(II\))から翻訳されています。
+> この記事は[NEWS \(聖飢魔IIのアルバム\)](https://ja.wikipedia.org/wiki/NEWS_\(聖飢魔IIのアルバム\))から翻訳されています。
 
 
 『**NEWS**』（ニューズ）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")の第十三教典で[B.D.](../Page/魔暦.md "wikilink")2年（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")）[7月2日](../Page/7月2日.md "wikilink")に発布された、オリジナル作品としては10作目となる大教典。

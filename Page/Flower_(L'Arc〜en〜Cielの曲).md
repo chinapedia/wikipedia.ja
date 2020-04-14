@@ -1,4 +1,4 @@
-> この記事は[Flower \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/Flower_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[Flower \(L\'Arc〜en〜Cielの曲\)](https://ja.wikipedia.org/wiki/Flower_\(L\'Arc〜en〜Cielの曲\))から翻訳されています。
 
 
 「**flower**」（フラワー）は、日本の[ロックバンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の5作目の[シングル](../Page/シングル.md "wikilink")。[1996年](../Page/1996年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")発売。発売元は[Ki/oon Sony Records](../Page/キューンミュージック.md "wikilink")。

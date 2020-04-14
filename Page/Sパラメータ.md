@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[Sパラメータ](https://ja.wikipedia.org/wiki/Sパラメータ)から翻訳されています。
 
 
 **Sパラメータ**([Scattering parameters](https://ja.wikipedia.org/wiki/:en:Scattering_parameters "wikilink"))とは、[高周波](../Page/高周波.md "wikilink")[電子回路](../Page/電子回路.md "wikilink")や高周波[電子部品](../Page/電子部品.md "wikilink")の特性を表すために使用される[回路網パラメータのひとつ](../Page/二端子対回路.md "wikilink")。**散乱行列**（**S行列**）または**散乱パラメータ**とも呼ばれる。回路網の通過・反射電力特性を表現する。

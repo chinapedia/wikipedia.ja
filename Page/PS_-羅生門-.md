@@ -1,4 +1,4 @@
-> この記事は[PS --](https://ja.wikipedia.org/wiki/PS_--)から翻訳されています。
+> この記事は[PS -羅生門-](https://ja.wikipedia.org/wiki/PS_-羅生門-)から翻訳されています。
 
 
 『**PS -羅生門-**』（ポリスステーション らしょうもん）は、[矢島正雄](../Page/矢島正雄.md "wikilink")原作、[中山昌亮](../Page/中山昌亮.md "wikilink")による日本の漫画。[小学館](../Page/小学館.md "wikilink")の『[ビッグコミックオリジナル](../Page/ビッグコミックオリジナル.md "wikilink")』に2002年1号から2005年11号にかけて連載された。「PS」は「POLICE STATION」の略で、単行本表紙のタイトルロゴでは大きく書かれた「PS」に「POLICE STATION」が重ね書きされている（さらに登場人物が重なって文字の一部が隠れている）。

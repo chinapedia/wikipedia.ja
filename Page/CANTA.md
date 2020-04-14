@@ -66,6 +66,8 @@
   - 160409LIVE\! (2017)
   - 170408LIVE\! (2017)
 
+## 脚注
+
 ## 外部リンク
 
   - [CANTA Official Website](http://www.canta.jp/)

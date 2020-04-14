@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[みお \(AV女優\)](https://ja.wikipedia.org/wiki/みお_\(AV女優\))から翻訳されています。
 
 
 **みお**（[1982年](../Page/1982年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。

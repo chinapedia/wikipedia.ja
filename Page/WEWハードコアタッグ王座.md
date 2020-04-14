@@ -1,4 +1,4 @@
-> この記事は[WEW](https://ja.wikipedia.org/wiki/WEW)から翻訳されています。
+> この記事は[WEWハードコアタッグ王座](https://ja.wikipedia.org/wiki/WEWハードコアタッグ王座)から翻訳されています。
 
 
 **WEWハードコアタッグ王座**は、過去に存在した王座。

@@ -1,4 +1,4 @@
-> この記事は[JYB \(\)](https://ja.wikipedia.org/wiki/JYB_\(\))から翻訳されています。
+> この記事は[JYB \(ゲーム\)](https://ja.wikipedia.org/wiki/JYB_\(ゲーム\))から翻訳されています。
 
 
 **JYB ～メハメ・ハルーガは秘密の呪文～**（ジャイブ）は[1993年](../Page/1993年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に[カクテル・ソフト](../Page/カクテル・ソフト.md "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。

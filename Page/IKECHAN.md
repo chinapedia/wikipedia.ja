@@ -64,7 +64,7 @@
 
 ## 外部リンク
 
-  - \[<http://keyakinokami.com/office.html>　IKECHAN公式サイト\]
+  - \[ <https://www.ikechan.info/> IKECHAN公式サイト\]
 
 [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink")
 

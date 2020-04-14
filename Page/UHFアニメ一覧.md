@@ -1,4 +1,4 @@
-> この記事は[UHF](https://ja.wikipedia.org/wiki/UHF)から翻訳されています。
+> この記事は[UHFアニメ一覧](https://ja.wikipedia.org/wiki/UHFアニメ一覧)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -7890,7 +7890,7 @@
 | [理系が恋に落ちたので証明してみた。](https://ja.wikipedia.org/wiki/理系が恋に落ちたので証明してみた。 "wikilink")               | BS11、UHB        |                |                |
 | [ケンガンアシュラ](https://ja.wikipedia.org/wiki/ケンガンアシュラ "wikilink")                                 | MBS             |                |                |
 | [ぼくのとなりに暗黒破壊神がいます。](https://ja.wikipedia.org/wiki/ぼくのとなりに暗黒破壊神がいます。 "wikilink")               | AT-X            | 1月11日          |                |
-| [22/7](https://ja.wikipedia.org/wiki/22/7_\(アイドル\) "wikilink")                                | MX、BS11、メ～テレ    | ABCアニメーション製作参加 |                |
+| [22/7](https://ja.wikipedia.org/wiki/22/7_\(アニメ\) "wikilink")                                 | MX、BS11、メ～テレ    | ABCアニメーション製作参加 |                |
 | [異種族レビュアーズ](https://ja.wikipedia.org/wiki/異種族レビュアーズ "wikilink")                               | AT-X            |                |                |
 | [ドロヘドロ](../Page/ドロヘドロ.md "wikilink")                                                          | BS11、MBS        | 1月12日          |                |
 | [ARP Backstage Pass](https://ja.wikipedia.org/wiki/ARP_Backstage_Pass "wikilink")             | MX              | 1月13日          |                |

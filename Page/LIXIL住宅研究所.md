@@ -1,4 +1,4 @@
-> この記事は[LIXIL](https://ja.wikipedia.org/wiki/LIXIL)から翻訳されています。
+> この記事は[LIXIL住宅研究所](https://ja.wikipedia.org/wiki/LIXIL住宅研究所)から翻訳されています。
 
 
 **株式会社LIXIL住宅研究所**（リクシルじゅうたくけんきゅうしょ、*LIXIL Housing Research Institute, Ltd.*）は、株式会社[LIXILグループ](../Page/LIXILグループ.md "wikilink")傘下にある[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[建設会社](https://ja.wikipedia.org/wiki/建設会社 "wikilink")。

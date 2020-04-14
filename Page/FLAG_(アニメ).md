@@ -1,4 +1,4 @@
-> この記事は[FLAG \(\)](https://ja.wikipedia.org/wiki/FLAG_\(\))から翻訳されています。
+> この記事は[FLAG \(アニメ\)](https://ja.wikipedia.org/wiki/FLAG_\(アニメ\))から翻訳されています。
 
 
 『**FLAG**』（フラッグ）は、[2006年](../Page/2006年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に[バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")より放送された全13話の[Webアニメ](../Page/Webアニメ.md "wikilink")作品である。その後[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")などで放送され、[2009年](../Page/2009年.md "wikilink")[1月3日](../Page/1月3日.md "wikilink")からは[TOKYO MXで地上波初放送される](../Page/東京メトロポリタンテレビジョン.md "wikilink")。同年2月22日NHK BS-hiのアニメ映画劇場枠で、総集編である「FLAG 一千万のクフラの記録」が放送された。

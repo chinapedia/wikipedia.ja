@@ -16,6 +16,10 @@
 
   -   - [アラゴアス州](https://ja.wikipedia.org/wiki/アラゴアス州 "wikilink")
       - [アマパ州](https://ja.wikipedia.org/wiki/アマパ州 "wikilink")
+      - [エスピリトサント州](../Page/エスピリトサント州.md "wikilink")
+      - [ゴイアス州](../Page/ゴイアス州.md "wikilink")
+      - [サンタカタリーナ州](../Page/サンタカタリーナ州.md "wikilink")
+      - [サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")
       - [セアラ州](https://ja.wikipedia.org/wiki/セアラ州 "wikilink")
       - [セルジッペ州](https://ja.wikipedia.org/wiki/セルジッペ州 "wikilink")
       - [トカンチンス州](https://ja.wikipedia.org/wiki/トカンチンス州 "wikilink")
@@ -23,9 +27,14 @@
       - [パラ州](https://ja.wikipedia.org/wiki/パラ州 "wikilink")
       - [パライバ州](../Page/パライバ州.md "wikilink")
       - [ピアウイ州](../Page/ピアウイ州.md "wikilink")
+      - [パラナ州](../Page/パラナ州.md "wikilink")
+      - [ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")
       - [ペルナンブーコ州](../Page/ペルナンブーコ州.md "wikilink")
       - [マラニョン州](../Page/マラニョン州.md "wikilink")
+      - [ミナスジェライス州](../Page/ミナスジェライス州.md "wikilink")
+      - [リオグランデドスル州](https://ja.wikipedia.org/wiki/リオグランデドスル州 "wikilink")
       - [リオグランデドノルチ州](https://ja.wikipedia.org/wiki/リオグランデドノルチ州 "wikilink")
+      - [リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")
 
   -
   -   -
@@ -37,19 +46,7 @@
 
   - （[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")領）
 
-### 標準時（南半球冬）
-
-  -   - [エスピリトサント州](../Page/エスピリトサント州.md "wikilink")
-      - [ゴイアス州](../Page/ゴイアス州.md "wikilink")
-      - [サンタカタリーナ州](../Page/サンタカタリーナ州.md "wikilink")
-      - [サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")
-      - [パラナ州](../Page/パラナ州.md "wikilink")
-      - [ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")
-      - [ミナスジェライス州](../Page/ミナスジェライス州.md "wikilink")
-      - [リオグランデドスル州](https://ja.wikipedia.org/wiki/リオグランデドスル州 "wikilink")
-      - [リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")
-
-### 標準時（南半球冬）
+### 夏時間（北半球）
 
   - [大西洋夏時間](https://ja.wikipedia.org/wiki/大西洋夏時間 "wikilink") - ADT
       -
@@ -70,9 +67,6 @@
   -   - [マガジャネス・イ・デ・ラ・アンタルティカ・チレーナ州](https://ja.wikipedia.org/wiki/マガジャネス・イ・デ・ラ・アンタルティカ・チレーナ州 "wikilink")を除く大陸部
 
   -
-  -   - [マトグロッソ州](https://ja.wikipedia.org/wiki/マトグロッソ州 "wikilink")
-      - [マットグロッソ・ド・スル州](../Page/マットグロッソ・ド・スル州.md "wikilink")
-
   -   -
 ## 歴史
 

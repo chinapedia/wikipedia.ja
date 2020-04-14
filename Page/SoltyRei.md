@@ -259,7 +259,7 @@
   - 「wish」（23話挿入歌、「clover」のカップリング曲）
     作詞・作曲 - meg rock / 編曲 - 加藤大祐
 
-※「Return to Love」は英語歌詞版(「Return to Love (Jazz Version)」歌：Geila Zilkha)も使われている(アルバム『ソルティレイ O.S.T. Vol.2』に収録)。
+※「Return to Love」は英語歌詞版(「Return to Love (Jazz Version)」歌：)も使われている(アルバム『ソルティレイ O.S.T. Vol.2』に収録)。
 
 ## 各話リスト
 

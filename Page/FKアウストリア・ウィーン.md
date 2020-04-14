@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKアウストリア・ウィーン](https://ja.wikipedia.org/wiki/FKアウストリア・ウィーン)から翻訳されています。
 
 
 **FKアウストリア・ウィーン** () は、[オーストリア](../Page/オーストリア.md "wikilink")の首都[ウィーン](https://ja.wikipedia.org/wiki/ウィーン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[オーストリア・ブンデスリーガに加盟し](../Page/サッカー・ブンデスリーガ_\(オーストリア\).md "wikilink")、[SKラピード・ウィーン](../Page/SKラピード・ウィーン.md "wikilink")や[レッドブル・ザルツブルク](../Page/レッドブル・ザルツブルク.md "wikilink")と共にリーグを代表する強豪である。

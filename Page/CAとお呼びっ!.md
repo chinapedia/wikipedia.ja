@@ -1,4 +1,4 @@
-> この記事は[CA!](https://ja.wikipedia.org/wiki/CA!)から翻訳されています。
+> この記事は[CAとお呼びっ!](https://ja.wikipedia.org/wiki/CAとお呼びっ!)から翻訳されています。
 
 
 『**CAとお呼びっ\!**』（シーエーとおよびっ）は、[花津ハナヨ](../Page/花津ハナヨ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[小学館](../Page/小学館.md "wikilink")「[ビッグコミックスピリッツ](https://ja.wikipedia.org/wiki/ビッグコミックスピリッツ "wikilink")」で[2005年](../Page/2005年.md "wikilink")から[2007年](../Page/2007年.md "wikilink")2号まで連載された。

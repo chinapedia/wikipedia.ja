@@ -1,4 +1,4 @@
-> この記事は[Be-side Your Life](https://ja.wikipedia.org/wiki/Be-side_Your_Life)から翻訳されています。
+> この記事は[石川・ホンマ・ぶるんのBe-side Your Life](https://ja.wikipedia.org/wiki/石川・ホンマ・ぶるんのBe-side_Your_Life)から翻訳されています。
 
 
 **石川・ホンマ・ぶるんのBe-side Your Life**（いしかわ ホンマ ぶるんの ビーサイド ユア ライフ）は、株式会社[ファイが運営する](../Page/ファイ_\(プロダクション\).md "wikilink")[ポッドキャスト](../Page/ポッドキャスト.md "wikilink")を利用した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組である。通称「**ビーサイ**」。

@@ -1,4 +1,4 @@
-> この記事は[Su-9 \(\)](https://ja.wikipedia.org/wiki/Su-9_\(\))から翻訳されています。
+> この記事は[Su-9 \(航空機\)](https://ja.wikipedia.org/wiki/Su-9_\(航空機\))から翻訳されています。
 
 
 **Su-9**（スホーイ9、スホイ9；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>スー・ヂェーヴャチ</small>）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[スホーイ](../Page/スホーイ.md "wikilink")設計局で開発された[迎撃戦闘機](../Page/要撃機.md "wikilink")（）である。[1960年代](../Page/1960年代.md "wikilink")にソ連の[防空軍の主力機として使用された](../Page/ソ連防空軍.md "wikilink")。

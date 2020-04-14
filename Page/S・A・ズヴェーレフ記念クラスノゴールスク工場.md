@@ -1,4 +1,4 @@
-> この記事は[SA](https://ja.wikipedia.org/wiki/SA)から翻訳されています。
+> この記事は[S・A・ズヴェーレフ記念クラスノゴールスク工場](https://ja.wikipedia.org/wiki/S・A・ズヴェーレフ記念クラスノゴールスク工場)から翻訳されています。
 
 
 **S・A・ズヴェーレフ記念クラスノゴールスク工場**（**クラスノゴールスク機械工場**、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")  、[英語](../Page/英語.md "wikilink") ）は、[ロシア](../Page/ロシア.md "wikilink")の[カメラメーカー](../Page/カメラメーカー.md "wikilink")・[レンズメーカー](../Page/レンズメーカー.md "wikilink")である。工場名は、所在地である[モスクワ州](../Page/モスクワ州.md "wikilink")の[クラスノゴールスクに由来する](https://ja.wikipedia.org/wiki/クラスノゴルスク "wikilink")。略称**KMZ**（**** ） 。

@@ -1,4 +1,4 @@
-> この記事は[QUALLT](https://ja.wikipedia.org/wiki/QUALLT)から翻訳されています。
+> この記事は[大王QUALLT](https://ja.wikipedia.org/wiki/大王QUALLT)から翻訳されています。
 
 
 **大王QUÄLLT**（だいおうカルト、[1977年](../Page/1977年.md "wikilink")[1月13日](../Page/1月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[覆面レスラー](../Page/覆面レスラー.md "wikilink")。本名：**瀬野 優**（せの まさる）。
@@ -31,7 +31,10 @@
 
   - [フロッグスプラッシュ](https://ja.wikipedia.org/wiki/ボディ・プレス#屈伸式ダイビング・ボディ・プレス "wikilink")
     バズーカうどん
-    [ペディグリー](../Page/ペディグリー.md "wikilink")
+
+アルゼンチンバックブリーカーを極めた後に開脚し、シットダウン式フェイスバスターで叩きつける技。
+
+  - [ペディグリー](../Page/ペディグリー.md "wikilink")
     [チョークスラム](../Page/チョークスラム.md "wikilink")
 
 ## タイトル歴

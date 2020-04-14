@@ -1,4 +1,4 @@
-> この記事は[VOICE](https://ja.wikipedia.org/wiki/VOICE)から翻訳されています。
+> この記事は[ナマ・イキVOICE](https://ja.wikipedia.org/wiki/ナマ・イキVOICE)から翻訳されています。
 
 
 『**ナマ・イキVOICE**』（ナマイキボイス）は、[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")（KTS）制作の女性向け[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。制作局の[鹿児島テレビ放送](../Page/鹿児島テレビ放送.md "wikilink")では、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[5月5日](../Page/5月5日.md "wikilink")に放送が開始された。[鹿児島県](../Page/鹿児島県.md "wikilink")のローカル番組としては[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")の『[どーんと鹿児島](../Page/どーんと鹿児島.md "wikilink")』に次ぐ[長寿番組](https://ja.wikipedia.org/wiki/長寿番組 "wikilink")である。
@@ -34,7 +34,7 @@
 
   - [庄村奈津美](https://ja.wikipedia.org/wiki/庄村奈津美 "wikilink")（KTSアナウンサー・12代目\[7\]（2011年4月2日 -）・13代目MC）
   - [美川愛実](https://ja.wikipedia.org/wiki/美川愛実 "wikilink")（KTSアナウンサー・13代目MC）
-  - [高塚まい](https://ja.wikipedia.org/wiki/高塚まい "wikilink")（KTSリポーター、12代目MC後期から番組リポート担当）
+  - [高橋幸](https://ja.wikipedia.org/wiki/高橋幸 "wikilink")（KTSアナウンサー、13代目途中からリポーターとして出演）
 
 ### 過去の司会者
 
@@ -47,6 +47,7 @@
   - [武田みどり](https://ja.wikipedia.org/wiki/武田みどり "wikilink")（2008年7月 - 2011年3月・11代目MC\[9\]）
   - [井上彩香](https://ja.wikipedia.org/wiki/井上彩香 "wikilink")（KTSアナウンサー、12代目MC時代に番組リポート担当）
   - [みえかおり](https://ja.wikipedia.org/wiki/みえかおり "wikilink")（2011年3月までは番組リポーター・12代目MC\[10\]・2011年4月2日 - 2016年3月26日）
+  - [高塚まい](https://ja.wikipedia.org/wiki/高塚まい "wikilink")（KTSリポーター、12代目MC後期から番組リポート担当）
 
 福留、武田はKTS専属タレント。他はKTSアナウンサー（いずれも当時）。他にも多くの女性アナウンサー・専属タレントがレポーターとして出演した。
 
@@ -62,7 +63,7 @@
 
   - [2003年](../Page/2003年.md "wikilink")[1月18日](../Page/1月18日.md "wikilink")まで…鹿児島商工会議所ビル1階[JALスタジオから公開生放送](../Page/日本航空.md "wikilink")\[11\][Nama_iki_voice_1990to2003_jal_studio_2016.JPG](https://ja.wikipedia.org/wiki/File:Nama_iki_voice_1990to2003_jal_studio_2016.JPG "fig:Nama_iki_voice_1990to2003_jal_studio_2016.JPG")[1月31日](../Page/1月31日.md "wikilink")撮影）\]\]
   - [2006年](../Page/2006年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで…鹿児島テレビ本社内スタジオから録画放送
-  - 2006年[4月8日](../Page/4月8日.md "wikilink")から現在…鹿児島テレビ放送局内1階ロビーから公開生放送、これに合わせてロビーが大幅にリニューアルされた。
+  - 2006年[4月8日](../Page/4月8日.md "wikilink")から現在…鹿児島テレビ放送局内1階ロビーから公開生放送、これに合わせてロビーが大幅にリニューアルされた。全編VTR構成や出先からの出張放送の場合通常の公開生放送が行われない場合がある、この他[新型コロナウイルス感染予防対策のため](../Page/2019新型コロナウイルス.md "wikilink")、2020年2月29日以降公開生放送は行われていない（2月22日放送分は元々中継先からの生放送のため、公開生放送は行われる予定は無かった）。
 
 ## 放送形態
 

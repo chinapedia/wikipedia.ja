@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jドリーム](https://ja.wikipedia.org/wiki/Jドリーム)から翻訳されています。
 
 
 **Jドリーム**（ジェイドリーム）は、[塀内夏子](../Page/塀内夏子.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて[1993年](../Page/1993年.md "wikilink")3・4合併号から[1999年](../Page/1999年.md "wikilink")44号まで連載された。

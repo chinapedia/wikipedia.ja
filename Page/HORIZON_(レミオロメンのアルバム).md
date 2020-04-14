@@ -1,4 +1,4 @@
-> この記事は[HORIZON \(\)](https://ja.wikipedia.org/wiki/HORIZON_\(\))から翻訳されています。
+> この記事は[HORIZON \(レミオロメンのアルバム\)](https://ja.wikipedia.org/wiki/HORIZON_\(レミオロメンのアルバム\))から翻訳されています。
 
 
 『**HORIZON**』（ホライズン）は、[レミオロメン](../Page/レミオロメン.md "wikilink")の3枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[SPEEDSTAR RECORDS浮雲レーベルから発売](../Page/SPEEDSTAR_RECORDS.md "wikilink")。

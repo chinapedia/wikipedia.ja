@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[英国SF協会賞](https://ja.wikipedia.org/wiki/英国SF協会賞)から翻訳されています。
 
 
 **英国SF協会賞**（British Science Fiction Association Awards）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")国内で前年に刊行された[SF](../Page/SF.md "wikilink")作品を対象として贈られる文学賞。
@@ -63,12 +63,12 @@
   - 2010年 イアン・マクドナルド『旋舞の千年都市』*The Dervish House*
   - 2011年 クリストファー・プリースト『夢幻諸島から』*The Islanders*
   - 2012年 [アダム・ロバーツ](https://ja.wikipedia.org/wiki/アダム・ロバーツ "wikilink")『ジャック・グラス伝』 *Jack Glass*
-  - 2013年 『ガンメタル・ゴースト』*Ack-Ack Macaque*、[アン・レッキー](https://ja.wikipedia.org/wiki/アン・レッキー "wikilink")『叛逆航路』*Ancillary Justice*
+  - 2013年 [ガレス・L・パウエル](../Page/ガレス・L・パウエル.md "wikilink")『ガンメタル・ゴースト』*Ack-Ack Macaque*、[アン・レッキー](https://ja.wikipedia.org/wiki/アン・レッキー "wikilink")『叛逆航路』*Ancillary Justice*
   - 2014年 アン・レッキー『亡霊星域』*Ancillary Sword*
   - 2015年  *House of Shattered Wings*
   - 2016年  *Europe in Winter*
   - 2017年  *The Rift*
-  - 2018年  *Embers of War*
+  - 2018年 [ガレス・L・パウエル](../Page/ガレス・L・パウエル.md "wikilink") *Embers of War*
 
 ### 短編部門
 

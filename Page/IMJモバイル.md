@@ -1,4 +1,4 @@
-> この記事は[IMJ](https://ja.wikipedia.org/wiki/IMJ)から翻訳されています。
+> この記事は[IMJモバイル](https://ja.wikipedia.org/wiki/IMJモバイル)から翻訳されています。
 
 
 **株式会社IMJモバイル**（英語表記　IMJ Mobile Inc.）は、かつて存在した携帯サイト構築を行う企業で、[アイ・エム・ジェイ](../Page/アイ・エム・ジェイ.md "wikilink")の子会社であった。[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")に本社を置いていた。

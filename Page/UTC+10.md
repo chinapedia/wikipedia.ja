@@ -7,6 +7,9 @@
 
 ### 標準時（通年）
 
+  -   - [チャモロ標準時](https://ja.wikipedia.org/wiki/チャモロ標準時 "wikilink") - ChST
+          -
+          -
   -   - [東部標準時](https://ja.wikipedia.org/wiki/オーストラリア東部標準時 "wikilink") - AEST
           - [クイーンズランド州](../Page/クイーンズランド州.md "wikilink")
 
@@ -20,9 +23,6 @@
   -   -
 ### 標準時（南半球冬）
 
-  -   - [チャモロ標準時](https://ja.wikipedia.org/wiki/チャモロ標準時 "wikilink") - ChST
-          -
-          -
   -   - 東部標準時 - AEST
           - [オーストラリア首都特別地域](../Page/オーストラリア首都特別地域.md "wikilink")
           - [タスマニア州](../Page/タスマニア州.md "wikilink")

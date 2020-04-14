@@ -1,4 +1,4 @@
-> この記事は[ASIA \(\)](https://ja.wikipedia.org/wiki/ASIA_\(\))から翻訳されています。
+> この記事は[ASIA \(アルバム\)](https://ja.wikipedia.org/wiki/ASIA_\(アルバム\))から翻訳されています。
 
 
 『**ASIA**』（エイジア）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の4枚目のオリジナルアルバム。[2006年](../Page/2006年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

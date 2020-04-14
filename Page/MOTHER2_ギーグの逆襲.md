@@ -1,4 +1,4 @@
-> この記事は[MOTHER2 ](https://ja.wikipedia.org/wiki/MOTHER2_)から翻訳されています。
+> この記事は[MOTHER2 ギーグの逆襲](https://ja.wikipedia.org/wiki/MOTHER2_ギーグの逆襲)から翻訳されています。
 
 
 『**MOTHER2 ギーグの逆襲**』（マザーツー ギーグのぎゃくしゅう、英題: EarthBound）は、[1994年](../Page/1994年.md "wikilink")[8月27日](../Page/8月27日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用の[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。

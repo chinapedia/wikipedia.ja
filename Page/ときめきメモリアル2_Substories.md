@@ -1,4 +1,4 @@
-> この記事は[2 Substories](https://ja.wikipedia.org/wiki/2_Substories)から翻訳されています。
+> この記事は[ときめきメモリアル2 Substories](https://ja.wikipedia.org/wiki/ときめきメモリアル2_Substories)から翻訳されています。
 
 
 『**ときめきメモリアル2 Substories**』（ときめきメモリアルツー サブストーリーズ）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）が発売した[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")3部作の名称である。
@@ -99,20 +99,18 @@
 
 ## 脚注
 
-<div class="references-small">
+### 注釈
 
-<references />
-
-</div>
+### 出典
 
 ## 外部リンク
 
-  - [ときめきメモリアル2 Substories ～Dancing Summer Vacation～](https://web.archive.org/web/20080305083917/http://www.konami.jp/gs/game/toki2/vx200_1.html)
-      - [ときめきメモリアル2 Substories～Dancing Summer Vacaition～(Ps one Books)](http://www.konami.jp/products/tokimeki2_dsv_psbest_ps/)
-  - [ときめきメモリアル2 Substories ～Leaping School Festival～](https://web.archive.org/web/20070311043450/http://www.konami.jp/gs/game/toki2/sub2/)
-      - [ときめきメモリアル2 Substories～Leaping School Festival～(Ps one Books)](http://www.konami.jp/products/tokimeki2_lsf_psbest_ps/)
-  - [ときめきメモリアル2 Substories ～Memories Ringing On～](https://web.archive.org/web/20070311043500/http://www.konami.jp/gs/game/toki2/sub3/)
-      - [ときめきメモリアル2 Substories～Memories Ringing On～(Ps one Books)](http://www.konami.jp/products/tokimeki2_mro_psbest_ps/)
+  - [ときめきメモリアル2 Substories Dancing Summer Vacation](https://web.archive.org/web/20080305083917/http://www.konami.jp/gs/game/toki2/vx200_1.html)
+      - [ときめきメモリアル2 Substories Dancing Summer Vacaition(Ps one Books)](http://www.konami.jp/products/tokimeki2_dsv_psbest_ps/)
+  - [ときめきメモリアル2 Substories Leaping School Festival](https://web.archive.org/web/20070311043450/http://www.konami.jp/gs/game/toki2/sub2/)
+      - [ときめきメモリアル2 Substories Leaping School Festival(Ps one Books)](http://www.konami.jp/products/tokimeki2_lsf_psbest_ps/)
+  - [ときめきメモリアル2 Substories Memories Ringing On](https://web.archive.org/web/20070311043500/http://www.konami.jp/gs/game/toki2/sub3/)
+      - [ときめきメモリアル2 Substories Memories Ringing On(Ps one Books)](http://www.konami.jp/products/tokimeki2_mro_psbest_ps/)
   - [ときめきメモリアル2](http://www.konami.jp/gs/game/tokimeki2/)
   - [ときめきメモリアルシリーズポータルサイト](http://www.konami.jp/gs/game/tokimeki/)
 

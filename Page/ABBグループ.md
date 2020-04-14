@@ -1,4 +1,4 @@
-> この記事は[ABB](https://ja.wikipedia.org/wiki/ABB)から翻訳されています。
+> この記事は[ABBグループ](https://ja.wikipedia.org/wiki/ABBグループ)から翻訳されています。
 
 
 **ABBグループ** （**Asea Brown Boveri**、**アセア・ブラウン・ボベリ**）は、[電力](../Page/電力.md "wikilink")関連、重電、[重工業](https://ja.wikipedia.org/wiki/重工業 "wikilink")を主たる業とする、[スイス](../Page/スイス.md "wikilink")に本社を置く[多国籍企業](../Page/多国籍企業.md "wikilink")で、100カ国以上に進出している。1988年にスウェーデンの[アセア](https://ja.wikipedia.org/wiki/アセア "wikilink")とスイスの[ブラウン・ボベリ](https://ja.wikipedia.org/wiki/ブラウン・ボベリ "wikilink")が合併して成立した。[ファナック](../Page/ファナック.md "wikilink")、[安川電機](../Page/安川電機.md "wikilink")、[クーカ](../Page/クーカ.md "wikilink")と並んで世界4大[産業用ロボット](../Page/産業用ロボット.md "wikilink")メーカーのひとつ\[1\]。

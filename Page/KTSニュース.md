@@ -1,4 +1,4 @@
-> この記事は[KTS](https://ja.wikipedia.org/wiki/KTS)から翻訳されています。
+> この記事は[KTSニュース](https://ja.wikipedia.org/wiki/KTSニュース)から翻訳されています。
 
 
 『**KTSニュース**』（ケーティーエスニュース）は、[鹿児島テレビと](../Page/鹿児島テレビ放送.md "wikilink")[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局の[鹿児島シティエフエム](../Page/鹿児島シティエフエム.md "wikilink")（フレンズFM、鹿児島テレビの関連企業）で放送されている[ニュース番組の名称](../Page/報道番組.md "wikilink")。

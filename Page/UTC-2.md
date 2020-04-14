@@ -24,18 +24,6 @@
 
   - （[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")領）
 
-### 夏時間（南半球）
-
-  -   - [エスピリトサント州](../Page/エスピリトサント州.md "wikilink")
-      - [ゴイアス州](../Page/ゴイアス州.md "wikilink")
-      - [サンタカタリーナ州](../Page/サンタカタリーナ州.md "wikilink")
-      - [サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")
-      - [パラナ州](../Page/パラナ州.md "wikilink")
-      - [ブラジリア連邦直轄区](../Page/ブラジリア連邦直轄区.md "wikilink")
-      - [ミナスジェライス州](../Page/ミナスジェライス州.md "wikilink")
-      - [リオグランデドスル州](https://ja.wikipedia.org/wiki/リオグランデドスル州 "wikilink")
-      - [リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")
-
 ## 歴史
 
 [アルゼンチン](../Page/アルゼンチン.md "wikilink")は2008-2009年の夏までは夏時間 UTC-2 を行っていたが、翌夏以降、夏時間を採用していない\[1\]。

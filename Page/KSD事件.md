@@ -1,4 +1,4 @@
-> この記事は[KSD](https://ja.wikipedia.org/wiki/KSD)から翻訳されています。
+> この記事は[KSD事件](https://ja.wikipedia.org/wiki/KSD事件)から翻訳されています。
 
 
 **KSD事件**（ケーエスデーじけん）は、財団法人「ケーエスデー中小企業経営者福祉事業団」（現：[あんしん財団](../Page/あんしん財団.md "wikilink")）の創立者[古関忠男](https://ja.wikipedia.org/wiki/古関忠男 "wikilink")が、「ものつくり大学」設置を目指し、数々の政界工作を[自由民主党](../Page/自由民主党_\(日本\).md "wikilink")[議員に対して展開したとされる](https://ja.wikipedia.org/wiki/日本の国会議員 "wikilink")[汚職](../Page/汚職.md "wikilink")事件。

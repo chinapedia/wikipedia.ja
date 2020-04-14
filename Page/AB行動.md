@@ -1,4 +1,4 @@
-> この記事は[AB](https://ja.wikipedia.org/wiki/AB)から翻訳されています。
+> この記事は[AB行動](https://ja.wikipedia.org/wiki/AB行動)から翻訳されています。
 
 
 **AB行動**（ドイツ語:AB-Aktion, Außerordentliche Befriedungsaktion, 特別平定行動）とは、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[ポーランド](../Page/ポーランド.md "wikilink")の指導層や知識層を対象に行われた[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の作戦。[総督府](https://ja.wikipedia.org/wiki/総督府 "wikilink")において[1940年](../Page/1940年.md "wikilink")の春から夏にかけて30,000人以上の[ポーランド人](../Page/ポーランド人.md "wikilink")がドイツ官憲によって逮捕された。そのうち約7,000人が殺害され、残りは[強制収容所に送られた](https://ja.wikipedia.org/wiki/強制収容所_\(ナチス\) "wikilink")。

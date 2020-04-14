@@ -1,4 +1,4 @@
-> この記事は[Au](https://ja.wikipedia.org/wiki/Au)から翻訳されています。
+> この記事は[Auカブコム証券](https://ja.wikipedia.org/wiki/Auカブコム証券)から翻訳されています。
 
 
 **auカブコム証券株式会社**（エーユーカブコムしょうけん、）は、[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")の[インターネット](../Page/インターネット.md "wikilink")専業の[証券会社](../Page/証券会社.md "wikilink")。
@@ -10,6 +10,8 @@
 [2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に、旧[三菱東京フィナンシャル・グループ](../Page/三菱東京フィナンシャル・グループ.md "wikilink")（現在の[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")）系の**[Meネット証券](../Page/Meネット証券.md "wikilink")**と合併した。株式の上場維持の関係などから、他の三菱・UFJ統合事例と異なりUFJ系列のカブドットコム証券が存続会社となった。
 
 2019年4月末、総合口座数111万口座。\[1\]
+
+2019年8月、KDDIの完全子会社である[auフィナンシャルホールディングス](https://ja.wikipedia.org/wiki/auフィナンシャルホールディングス "wikilink")が[株式公開買付け](../Page/株式公開買付け.md "wikilink")（TOB）により議決権ベースで37.96%の株式を取得。上場廃止により、株主は三菱UFJ証券ホールディングス、[auフィナンシャルホールディングス](https://ja.wikipedia.org/wiki/auフィナンシャルホールディングス "wikilink")の２社のみとなった。
 
 ## 沿革
 

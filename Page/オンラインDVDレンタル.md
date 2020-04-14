@@ -1,4 +1,4 @@
-> この記事は[DVD](https://ja.wikipedia.org/wiki/DVD)から翻訳されています。
+> この記事は[オンラインDVDレンタル](https://ja.wikipedia.org/wiki/オンラインDVDレンタル)から翻訳されています。
 
 
 **オンラインDVDレンタル**（オンラインディーブイディーレンタル）とは、[インターネット](../Page/インターネット.md "wikilink")を使って[DVDをレンタルできる宅配サービスである](../Page/DVD-Video.md "wikilink")。

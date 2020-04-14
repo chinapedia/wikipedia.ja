@@ -1,4 +1,4 @@
-> この記事は[SE](https://ja.wikipedia.org/wiki/SE)から翻訳されています。
+> この記事は[SEマツバラ](https://ja.wikipedia.org/wiki/SEマツバラ)から翻訳されています。
 
 
 **SEマツバラ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[パラナ州](../Page/パラナ州.md "wikilink")[カンバラ](https://ja.wikipedia.org/wiki/カンバラ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

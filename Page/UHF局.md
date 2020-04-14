@@ -1,4 +1,4 @@
-> この記事は[UHF](https://ja.wikipedia.org/wiki/UHF)から翻訳されています。
+> この記事は[UHF局](https://ja.wikipedia.org/wiki/UHF局)から翻訳されています。
 
 
 **UHF局**（ユーエイチエフきょく）は、[極超短波](../Page/極超短波.md "wikilink")（UHF）を使用する[無線局](https://ja.wikipedia.org/wiki/無線局 "wikilink")のことである。
@@ -45,7 +45,7 @@ UHFは、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[放送]
 
 [地上デジタルテレビ放送では](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")、全局UHF帯（13-52ch、53-62chは過渡期のみ使用）を使用する。
 
-VHFの内、テレビジョン放送に使用していた周波数は、アナログ放送が終了した後に開始が予定されている[移動受信用地上放送](https://ja.wikipedia.org/wiki/移動受信用地上放送 "wikilink")、および中波ラジオ局の[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")を除き、放送以外の用途に転用される。この結果、VHFを使用する放送は[超短波放送](../Page/超短波放送.md "wikilink")・FM補完中継局、及び移動受信用地上放送となる予定である（「[超短波](../Page/超短波.md "wikilink")」も参照）。
+VHFの内、テレビジョン放送に使用していた周波数は、アナログ放送が終了した後に開始が予定されている[移動受信用地上放送](https://ja.wikipedia.org/wiki/移動受信用地上放送 "wikilink")、および中波ラジオ局の[FM補完中継局](https://ja.wikipedia.org/wiki/FM補完中継局 "wikilink")を除き、放送以外の用途に転用される。この結果、VHFを使用する放送は[超短波放送](../Page/超短波放送.md "wikilink")・FM補完中継局、及び移動受信用地上放送となる予定である（「[超短波](../Page/超短波.md "wikilink")」、「[マルチメディア放送\#日本における展開](https://ja.wikipedia.org/wiki/マルチメディア放送#日本における展開 "wikilink")」も参照）。
 
 ## 脚注
 

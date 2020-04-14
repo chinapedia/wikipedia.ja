@@ -1,4 +1,4 @@
-> この記事は[TOUGH BANANA \(\)](https://ja.wikipedia.org/wiki/TOUGH_BANANA_\(\))から翻訳されています。
+> この記事は[TOUGH BANANA \(アルバム\)](https://ja.wikipedia.org/wiki/TOUGH_BANANA_\(アルバム\))から翻訳されています。
 
 
 『**TOUGH BANANA**』（タフ・バナナ）はバンド[TOUGH BANANAのアルバム](../Page/TOUGH_BANANA.md "wikilink")。

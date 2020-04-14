@@ -46,6 +46,8 @@
       - （イギリス領）
 
   -   - [アマゾナス州](../Page/アマゾナス州.md "wikilink")（南西部を除く）
+      - [マトグロッソ州](https://ja.wikipedia.org/wiki/マトグロッソ州 "wikilink")
+      - [マットグロッソ・ド・スル州](../Page/マットグロッソ・ド・スル州.md "wikilink")
       - [ロライマ州](../Page/ロライマ州.md "wikilink")
       - [ロンドニア州](../Page/ロンドニア州.md "wikilink")
 
@@ -72,9 +74,6 @@
   -   - [マガジャネス・イ・デ・ラ・アンタルティカ・チレーナ州](https://ja.wikipedia.org/wiki/マガジャネス・イ・デ・ラ・アンタルティカ・チレーナ州 "wikilink")を除く大陸部
 
   -
-  -   - [マトグロッソ州](https://ja.wikipedia.org/wiki/マトグロッソ州 "wikilink")
-      - [マットグロッソ・ド・スル州](../Page/マットグロッソ・ド・スル州.md "wikilink")
-
   -   -
 ### 夏時間（北半球）
 

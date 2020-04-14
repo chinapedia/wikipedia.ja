@@ -40,13 +40,15 @@
       -   - [太平洋標準時](../Page/太平洋標準時.md "wikilink")採用地域
 
       -   - ブリティッシュコロンビア州の大部分
-          - [ユーコン準州](../Page/ユーコン準州.md "wikilink")
+          - [ユーコン準州](../Page/ユーコン準州.md "wikilink")（通年使用）
 
       -   - [バハ・カリフォルニア州](../Page/バハ・カリフォルニア州.md "wikilink")
 
 ## 歴史
 
-[メキシコ](../Page/メキシコ.md "wikilink")の[チワワ州](../Page/チワワ州.md "wikilink")は1998年より [UTC-6](../Page/UTC-6.md "wikilink")（冬期）から UTC-7（冬期）に変更した。
+[メキシコ](../Page/メキシコ.md "wikilink")の[チワワ州](../Page/チワワ州.md "wikilink")は1998年より [UTC-6](../Page/UTC-6.md "wikilink")（冬期）から UTC-7（冬期）に変更した。[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[ユーコン準州](../Page/ユーコン準州.md "wikilink")は[2020年](../Page/2020年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")より[太平洋夏時間](https://ja.wikipedia.org/wiki/太平洋夏時間 "wikilink")の通年使用に移行した\[1\]。
+
+## 脚注
 
 ## 関連項目
 
@@ -60,3 +62,5 @@
 [es:Huso horario\#UTC−07:00, T](https://ja.wikipedia.org/wiki/es:Huso_horario#UTC−07:00,_T "wikilink")
 
 [Category:協定世界時との差](https://ja.wikipedia.org/wiki/Category:協定世界時との差 "wikilink")
+
+1.  [Yukon to end seasonal time change](https://yukon.ca/en/news/yukon-end-seasonal-time-change).Government of Yukon、2020年3月10日閲覧。

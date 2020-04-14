@@ -1,4 +1,4 @@
-> この記事は[Dream Power  ](https://ja.wikipedia.org/wiki/Dream_Power__)から翻訳されています。
+> この記事は[Dream Power ジョン・レノン スーパー・ライヴ](https://ja.wikipedia.org/wiki/Dream_Power_ジョン・レノン_スーパー・ライヴ)から翻訳されています。
 
 
 **Dream Power ジョン・レノン スーパー・ライヴ**は、ジョン・レノン音楽祭の一環として、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")のパートナーであり、前衛芸術家の[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")のDream Powerの提唱の下、アジア・アフリカの教育機会に恵まれない子どもたちの学校建設資金を売上金からチャリティするため、[2001年](../Page/2001年.md "wikilink")からジョンの誕生日もしくは命日あたりで毎年行われている、チャリティ・コンサートである。

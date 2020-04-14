@@ -1,4 +1,4 @@
-> この記事は[TRUE \(\)](https://ja.wikipedia.org/wiki/TRUE_\(\))から翻訳されています。
+> この記事は[TRUE \(中島美嘉のアルバム\)](https://ja.wikipedia.org/wiki/TRUE_\(中島美嘉のアルバム\))から翻訳されています。
 
 
 『**TRUE**』（トゥルー）は、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")のデビュー[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")発売。

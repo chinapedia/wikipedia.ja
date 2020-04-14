@@ -1,4 +1,4 @@
-> この記事は[J+](https://ja.wikipedia.org/wiki/J+)から翻訳されています。
+> この記事は[Jチャン+](https://ja.wikipedia.org/wiki/Jチャン+)から翻訳されています。
 
 
 『**Jチャン+**』（じぇいちゃんぷらす）は、[2019年](../Page/2019年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[鹿児島放送](../Page/鹿児島放送.md "wikilink")で平日夕方に放送されている[鹿児島県](../Page/鹿児島県.md "wikilink")向けのローカル[ニュース番組](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。ここでは[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送された『**KKBスーパーJチャンネルかごしま**』→『**KKBスーパーJチャンネル**』および、2012年度から2年間17時台後半に放送されていた『**早出しJチャンネル**』（このタイトルは2012年度のみ）についてもここで記載する。
@@ -176,9 +176,17 @@
 </tr>
 <tr class="even">
 <td><p>2019.10.1</p></td>
-<td><p>現在</p></td>
+<td><p>2020.3.27予定</p></td>
 <td><center>
 <p>菅原稿二</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p>2020.3.30</p></td>
+<td><p>予定</p></td>
+<td><center>
+<p>村川裕<br />
+<a href="https://ja.wikipedia.org/wiki/小田都由" title="wikilink">小田都由</a></p>
 </center></td>
 </tr>
 </tbody>
@@ -307,8 +315,11 @@
   - 不詳 - 2019年3月
     18:25 - 19:00（火曜日）
     18:25 - 18:55（火曜日以外）
-  - 2019年4月1日 - 現在
+  - 2019年4月1日 - 2020年3月27日
     16:48 - 16:50
+    18:15 - 18:55
+  - 2020年3月30日 - 現在
+    16:38 - 16:50
     18:15 - 18:55
 
 ### 土曜日・日曜日の放送

@@ -26,4 +26,4 @@
   - [Archive](http://www.petting-zoo.net/~deadbeef/archive/1137.html)
   - [Swedish couple fined for naming their child "Brfxxccxxmnpcccclll mmnprxvclmnckssqlbb11116"](http://www.boingboing.net/2008/02/20/swedish-couple-fined.html)
 
-[Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:個人名](https://ja.wikipedia.org/wiki/Category:個人名 "wikilink") [Category:スウェーデンの人物](https://ja.wikipedia.org/wiki/Category:スウェーデンの人物 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:1991年生](https://ja.wikipedia.org/wiki/Category:1991年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:個人名](https://ja.wikipedia.org/wiki/Category:個人名 "wikilink") [Category:スウェーデンの人物](https://ja.wikipedia.org/wiki/Category:スウェーデンの人物 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

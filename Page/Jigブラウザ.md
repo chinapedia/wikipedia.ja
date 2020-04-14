@@ -1,4 +1,4 @@
-> この記事は[Jig](https://ja.wikipedia.org/wiki/Jig)から翻訳されています。
+> この記事は[Jigブラウザ](https://ja.wikipedia.org/wiki/Jigブラウザ)から翻訳されています。
 
 
 **jigブラウザ**（ジグブラウザ）は、[携帯電話](../Page/携帯電話.md "wikilink")からインターネット上のウェブページを閲覧するための[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")（[フルブラウザ](../Page/フルブラウザ.md "wikilink")）である。株式会社[jig.jp](https://ja.wikipedia.org/wiki/jig.jp "wikilink")が[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")に公開した。[2012年](../Page/2012年.md "wikilink")までに累計900万以上のユーザーに利用されている\[1\]。

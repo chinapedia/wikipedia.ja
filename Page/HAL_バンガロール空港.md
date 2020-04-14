@@ -1,4 +1,4 @@
-> この記事は[HAL ](https://ja.wikipedia.org/wiki/HAL_)から翻訳されています。
+> この記事は[HAL バンガロール空港](https://ja.wikipedia.org/wiki/HAL_バンガロール空港)から翻訳されています。
 
 
 **HAL バンガロール空港**（HAL バンガロールくうこう、[英語](../Page/英語.md "wikilink"):HAL Bangalore Airport ）は、[インド](../Page/インド.md "wikilink")の[カルナータカ州](../Page/カルナータカ州.md "wikilink")[バンガロール](https://ja.wikipedia.org/wiki/バンガロール "wikilink")にある[空港](../Page/空港.md "wikilink")。運営母体の[ヒンドスタン航空機](https://ja.wikipedia.org/wiki/ヒンドスタン航空機 "wikilink")（Hindustan Aeronautics Limited, HAL）の頭文字がつけられている。

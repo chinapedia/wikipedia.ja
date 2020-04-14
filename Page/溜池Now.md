@@ -1,4 +1,4 @@
-> この記事は[Now](https://ja.wikipedia.org/wiki/Now)から翻訳されています。
+> この記事は[溜池Now](https://ja.wikipedia.org/wiki/溜池Now)から翻訳されています。
 
 
 『**溜池Now**』（ためいけナウ）は、株式会社[USEN](../Page/USEN.md "wikilink")が運営する無料動画配信サービス[GyaOにて](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")2006年3月20日から2008年11月24日まで配信されていた情報番組。

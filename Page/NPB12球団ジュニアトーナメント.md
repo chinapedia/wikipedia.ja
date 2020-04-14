@@ -1,4 +1,4 @@
-> この記事は[NPB12](https://ja.wikipedia.org/wiki/NPB12)から翻訳されています。
+> この記事は[NPB12球団ジュニアトーナメント](https://ja.wikipedia.org/wiki/NPB12球団ジュニアトーナメント)から翻訳されています。
 
 
 **NPB12球団ジュニアトーナメント**（NPB12きゅうだんジュニアトーナメント）は、[2005年](../Page/2005年.md "wikilink")より毎年12月下旬に、[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")（NPB）及び同機構に属する[プロ野球](../Page/プロ野球.md "wikilink")12球団が主催する[少年野球](../Page/少年野球.md "wikilink")の大会である。[日能研](../Page/日能研.md "wikilink")特別協賛（第10回（2014年）までは[JX日鉱日石エネルギー特別協賛としてENEOS](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink") CUP）。

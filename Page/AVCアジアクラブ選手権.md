@@ -1,4 +1,4 @@
-> この記事は[AVC](https://ja.wikipedia.org/wiki/AVC)から翻訳されています。
+> この記事は[AVCアジアクラブ選手権](https://ja.wikipedia.org/wiki/AVCアジアクラブ選手権)から翻訳されています。
 
 
 **AVCアジアクラブ選手権**(**AVC Asian Club Volleyball Championship**)は、[アジアバレーボール連盟](../Page/アジアバレーボール連盟.md "wikilink")が主催するクラブの[バレーボール](../Page/バレーボール.md "wikilink")の国際大会。

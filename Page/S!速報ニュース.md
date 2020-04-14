@@ -1,4 +1,4 @@
-> この記事は[S!](https://ja.wikipedia.org/wiki/S!)から翻訳されています。
+> この記事は[S!速報ニュース](https://ja.wikipedia.org/wiki/S!速報ニュース)から翻訳されています。
 
 
 **S\!速報ニュース**（えす\!そくほうニュース）は、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が[SoftBank 3Gに提供するサービスである](../Page/SoftBank_3G.md "wikilink")。旧名称は、「**ライブモニター**」。

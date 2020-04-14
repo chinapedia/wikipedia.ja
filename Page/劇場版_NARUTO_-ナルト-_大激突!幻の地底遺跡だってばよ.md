@@ -1,4 +1,4 @@
-> この記事は[ NARUTO -- !](https://ja.wikipedia.org/wiki/_NARUTO_--_!)から翻訳されています。
+> この記事は[劇場版 NARUTO -ナルト- 大激突!幻の地底遺跡だってばよ](https://ja.wikipedia.org/wiki/劇場版_NARUTO_-ナルト-_大激突!幻の地底遺跡だってばよ)から翻訳されています。
 
 
 『**劇場版 NARUTO -ナルト- 大激突\!幻の地底遺跡だってばよ**』（げきじょうばん ナルト だいげきとつ\!まぼろしのちていいせきだってばよ）は、[2005年](../Page/2005年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")に公開された漫画『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』を原作とした[テレビアニメの劇場版第](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")2作目。本作のゲスト声優として[河相我聞](https://ja.wikipedia.org/wiki/河相我聞 "wikilink")が出演した。

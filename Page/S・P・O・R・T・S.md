@@ -1,4 +1,4 @@
-> この記事は[SPORTS](https://ja.wikipedia.org/wiki/SPORTS)から翻訳されています。
+> この記事は[S・P・O・R・T・S](https://ja.wikipedia.org/wiki/S・P・O・R・T・S)から翻訳されています。
 
 
 『**S・P・O・R・T・S**』（スポーツ）は、[THE SQUAREの](../Page/T-SQUARE.md "wikilink")11枚目の[アルバム](../Page/アルバム.md "wikilink")である。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[3月5日](../Page/3月5日.md "wikilink")にリリースされた。

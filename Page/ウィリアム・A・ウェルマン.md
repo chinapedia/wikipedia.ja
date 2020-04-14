@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ウィリアム・A・ウェルマン](https://ja.wikipedia.org/wiki/ウィリアム・A・ウェルマン)から翻訳されています。
 
 
 **ウィリアム・A・ウェルマン**（**William A. Wellman**, 本名: William Augustus Wellman, [1896年](../Page/1896年.md "wikilink")[2月29日](../Page/2月29日.md "wikilink") - [1975年](../Page/1975年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")出身の[映画監督](../Page/映画監督.md "wikilink")である。

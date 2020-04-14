@@ -1,19 +1,19 @@
-> この記事は[ONE PIECE THE MOVIE ](https://ja.wikipedia.org/wiki/ONE_PIECE_THE_MOVIE_)から翻訳されています。
+> この記事は[ONE PIECE THE MOVIE デッドエンドの冒険](https://ja.wikipedia.org/wiki/ONE_PIECE_THE_MOVIE_デッドエンドの冒険)から翻訳されています。
 
 
 『**ONE PIECE THE MOVIE デッドエンドの冒険**』（ワンピース ザ ムービー デッドエンドのぼうけん）は、[2003年](../Page/2003年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](../Page/ONE_PIECE_\(アニメ\).md "wikilink")4作目。
 
 ## 概要
 
-劇場版『ONE PIECE』4作目にして、初の長編映画。麦わらの一味の7人目の仲間となったニコ･ロビンの映画デビュー作でもある。
+劇場版『ONE PIECE』4作目にして、初の長編映画。麦わらの一味の7人目の仲間となったニコ・ロビンの映画デビュー作でもある。
 
-[監督](../Page/監督.md "wikilink")はTVシリーズのシリーズディレクターを勤めていた[宇田鋼之介](../Page/宇田鋼之介.md "wikilink")。キャラクターデザイン・作画監督は[小泉昇](../Page/小泉昇.md "wikilink")。TVシリーズの音楽を担当しているが劇場版には参加していなかった音楽家、[浜口史郎](https://ja.wikipedia.org/wiki/浜口史郎 "wikilink")が映画初参加。また、エンディングテーマには[BUMP OF CHICKENが起用され](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")、次回作以降も[レコード会社](../Page/レコード会社.md "wikilink")の枠にとらわれないアーティストを起用するようになった。[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")の特別出演も試みられており、本作では女優の[酒井美紀](https://ja.wikipedia.org/wiki/酒井美紀 "wikilink")が参加したが、彼女の出演を強調した宣伝は本作ではあまり行われなかった。
+監督はTVシリーズのシリーズディレクターを勤めていた[宇田鋼之介](../Page/宇田鋼之介.md "wikilink")。キャラクターデザイン・作画監督は[小泉昇](../Page/小泉昇.md "wikilink")。TVシリーズの音楽を担当しているが劇場版には参加していなかった音楽家、[浜口史郎](https://ja.wikipedia.org/wiki/浜口史郎 "wikilink")が映画初参加。エンディングテーマには[BUMP OF CHICKENが起用された](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")。[芸能人](https://ja.wikipedia.org/wiki/芸能人 "wikilink")の特別出演も試みられており、本作では女優の[酒井美紀](https://ja.wikipedia.org/wiki/酒井美紀 "wikilink")が参加した。
 
 映像ソフトは[DVD](../Page/DVD.md "wikilink")が2003年7月21日発売。『ONE PIECE』映画化10作を記念して[Blu-ray Disc版が](../Page/Blu-ray_Disc.md "wikilink")2009年12月11日発売。
 
 2009年12月12日に公開された『[ONE PIECE FILM STRONG WORLD](https://ja.wikipedia.org/wiki/ONE_PIECE_FILM_STRONG_WORLD "wikilink")』の大ヒットを記念して、年末にかけて今作が全国のフジテレビ系列局で順次放送された。
 
-2003年[1月24日](../Page/1月24日.md "wikilink")、[東京湾](../Page/東京湾.md "wikilink")内の船上で行われた本作の製作発表会見の席にて、当時の[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")編集長・[高橋俊昌](../Page/高橋俊昌.md "wikilink")が突然倒れ、[救急車](../Page/救急車.md "wikilink")で[聖路加国際病院](../Page/聖路加国際病院.md "wikilink")へ運ばれたが[クモ膜下出血](../Page/クモ膜下出血.md "wikilink")により[急逝](https://ja.wikipedia.org/wiki/急逝 "wikilink")している。
+2003年1月24日に行われた本作の製作発表会見では、当時の[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")編集長・[高橋俊昌](../Page/高橋俊昌.md "wikilink")が突然倒れ、病院へ運ばれたが急逝している。
 
 ## ストーリー
 

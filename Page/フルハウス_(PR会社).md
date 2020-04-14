@@ -1,4 +1,4 @@
-> この記事は[ \(PR\)](https://ja.wikipedia.org/wiki/_\(PR\))から翻訳されています。
+> この記事は[フルハウス \(PR会社\)](https://ja.wikipedia.org/wiki/フルハウス_\(PR会社\))から翻訳されています。
 
 
 株式会社**フルハウス**は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[北青山](../Page/北青山.md "wikilink")に本社を置く、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[PR会社](../Page/パブリック・リレーションズ.md "wikilink")。

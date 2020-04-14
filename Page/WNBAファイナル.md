@@ -1,4 +1,4 @@
-> この記事は[WNBA](https://ja.wikipedia.org/wiki/WNBA)から翻訳されています。
+> この記事は[WNBAファイナル](https://ja.wikipedia.org/wiki/WNBAファイナル)から翻訳されています。
 
 
 **WNBAファイナル**は北米の[バスケットボール](../Page/バスケットボール.md "wikilink")リーグ[WNBA](https://ja.wikipedia.org/wiki/WNBA "wikilink")でそのシーズンのイースタン・カンファレスとウェスタン・カンファレンスの王者が対決してチャンピオンを決定するシリーズ。プレーオフの締めくくりであり、シーズン最後のイベントでもある。[NBAファイナル](../Page/NBAファイナル.md "wikilink")とは違い、5回戦制で先に3勝先取でチャンピオンとなる。

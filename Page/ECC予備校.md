@@ -1,4 +1,4 @@
-> この記事は[ECC](https://ja.wikipedia.org/wiki/ECC)から翻訳されています。
+> この記事は[ECC予備校](https://ja.wikipedia.org/wiki/ECC予備校)から翻訳されています。
 
 
 **ECC予備校**（ECCよびこう）は、[ECC総合教育機関](../Page/ECC総合教育機関.md "wikilink")の一社である**株式会社ECC予備校**が運営する[予備校](../Page/予備校.md "wikilink")である。

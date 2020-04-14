@@ -1,4 +1,4 @@
-> この記事は[LOVE BRACE \(\)](https://ja.wikipedia.org/wiki/LOVE_BRACE_\(\))から翻訳されています。
+> この記事は[LOVE BRACE \(曲\)](https://ja.wikipedia.org/wiki/LOVE_BRACE_\(曲\))から翻訳されています。
 
 
 「**LOVE BRACE**」（ラヴ・ブレス）は、日本の女性歌手、[華原朋美](../Page/華原朋美.md "wikilink")の4枚目のシングル。同名のアルバム『[LOVE BRACE](../Page/LOVE_BRACE.md "wikilink")』からのシングルカットで、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。

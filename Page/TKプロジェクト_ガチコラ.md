@@ -1,4 +1,4 @@
-> この記事は[TK ](https://ja.wikipedia.org/wiki/TK_)から翻訳されています。
+> この記事は[TKプロジェクト ガチコラ](https://ja.wikipedia.org/wiki/TKプロジェクト_ガチコラ)から翻訳されています。
 
 
 **TKプロジェクト ガチコラ**とは、[2006年](../Page/2006年.md "wikilink")に[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")と[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が行ったお笑い芸人の楽曲制作プロジェクト。

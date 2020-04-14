@@ -5,9 +5,9 @@
 
 [2011年](../Page/2011年.md "wikilink")（[平成](../Page/平成.md "wikilink")23年）[3月31日](../Page/3月31日.md "wikilink")までは、以下の3波体勢で放送されていた。
 
-  - [NHK衛星第1テレビジョン](../Page/NHK_BS1.md "wikilink")（旧BS1） - デジタル101ch／アナログBS-7ch。
-  - [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（BS2） - デジタル102ch／アナログBS-11ch。
-  - [NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")（BShi） - デジタル103・104・105ch。旧NHK-BSの代表サービス。
+  - [NHK衛星第1テレビジョン](../Page/NHK_BS1.md "wikilink")（旧BS1） - デジタル101ch／アナログBS-7ch（[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[6月1日](../Page/6月1日.md "wikilink")から）。
+  - [NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（BS2） - デジタル102ch／アナログBS-11ch（[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[6月1日](../Page/6月1日.md "wikilink")から）。
+  - [NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")（BShi） - デジタル103・104・105ch。旧NHK-BSの代表サービス（[2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）[12月1日](../Page/12月1日.md "wikilink")から）。
       - データ放送 - デジタル700・701・707・708ch。
 
 2011年（平成23年）[4月1日](../Page/4月1日.md "wikilink")から[2018年](../Page/2018年.md "wikilink")（平成30年）[11月30日](../Page/11月30日.md "wikilink")までは以下の2波体勢で放送されていた。

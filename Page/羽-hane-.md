@@ -1,4 +1,4 @@
-> この記事は[-hane-](https://ja.wikipedia.org/wiki/-hane-)から翻訳されています。
+> この記事は[羽-hane-](https://ja.wikipedia.org/wiki/羽-hane-)から翻訳されています。
 
 
 『**羽-hane-**』（はね-）は、[KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")のファースト・アルバム。

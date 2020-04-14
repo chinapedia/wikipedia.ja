@@ -1,4 +1,4 @@
-> この記事は[DEEP \(\)](https://ja.wikipedia.org/wiki/DEEP_\(\))から翻訳されています。
+> この記事は[DEEP \(歌手グループ\)](https://ja.wikipedia.org/wiki/DEEP_\(歌手グループ\))から翻訳されています。
 
 
 **DEEP** （ディープ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コーラス・グループ](../Page/コーラス・グループ.md "wikilink")。[LDH所属](../Page/LDH_\(芸能プロダクション\).md "wikilink")。レーベルは[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。
@@ -521,7 +521,7 @@
   - DEEP COUNTDOWN LIVE 2015-2016（12月31日）
   - EXILE THE SECOND LIVE TOUR 2017-2018 "ROUTE 6・6"（10月28日 - 5月24日）\[19\]
   - DEEP LIVE TOUR 2018 "THE SINGER"（11月26日 - 12月26日）
-  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（3月25日、4月4日）
+  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月25日、4月4日</s>）新型ウイルスによる政府の自粛要請に従い中止
 
 ## 出演
 
@@ -553,7 +553,7 @@
 
 **ライブ**
 
-  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（3月26日、4月5日）
+  - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月26日、4月5日</s>）新型ウイルスによる政府の自粛要請に従い中止
 
 ## 脚注
 

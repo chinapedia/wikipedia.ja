@@ -1,4 +1,4 @@
-> この記事は[ONE PIECE ](https://ja.wikipedia.org/wiki/ONE_PIECE_)から翻訳されています。
+> この記事は[ONE PIECE 呪われた聖剣](https://ja.wikipedia.org/wiki/ONE_PIECE_呪われた聖剣)から翻訳されています。
 
 
 『**ONE PIECE 呪われた聖剣**』（ワンピース のろわれたせいけん）は、[2004年](../Page/2004年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](../Page/ONE_PIECE_\(アニメ\).md "wikilink")5作目。

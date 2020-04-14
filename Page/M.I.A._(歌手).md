@@ -1,4 +1,4 @@
-> この記事は[M.I.A. \(\)](https://ja.wikipedia.org/wiki/M.I.A._\(\))から翻訳されています。
+> この記事は[M.I.A. \(歌手\)](https://ja.wikipedia.org/wiki/M.I.A._\(歌手\))から翻訳されています。
 
 
 **M.I.A.**（エム・アイ・エイ、本名：Mathangi "Maya" Arulpragasam（タミル語表記：மாதங்கி 'மாயா' அருள்பிரகாசம்；'''マータンギ・"マーヤー"・アルルピラガーサム '''）、[1975年](../Page/1975年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink") - ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[美術家](https://ja.wikipedia.org/wiki/美術家 "wikilink")、[デザイナー](../Page/デザイナー.md "wikilink")。民族的には[タミル](https://ja.wikipedia.org/wiki/タミル "wikilink")系[スリランカ](../Page/スリランカ.md "wikilink")人 。 芸名は「[Missing In Action](https://ja.wikipedia.org/wiki/MIA "wikilink")（戦闘中行方不明）」の略で、連絡の取れない[LTTEのメンバーとして活動中の](../Page/タミル・イーラム解放のトラ.md "wikilink")[タミル人](../Page/タミル人.md "wikilink")の父親に対するメッセージである。

@@ -1,4 +1,4 @@
-> この記事は[MAX](https://ja.wikipedia.org/wiki/MAX)から翻訳されています。
+> この記事は[超人ママMAX](https://ja.wikipedia.org/wiki/超人ママMAX)から翻訳されています。
 
 
 『**超人ママMAX**』は、『[プレコミックブンブン](../Page/月刊コミックブンブン.md "wikilink")』で連載された[北枕よしたけ](https://ja.wikipedia.org/wiki/北枕よしたけ "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。

@@ -1,4 +1,4 @@
-> この記事は[PF \(\)](https://ja.wikipedia.org/wiki/PF_\(\))から翻訳されています。
+> この記事は[PF \(ファイアウォール\)](https://ja.wikipedia.org/wiki/PF_\(ファイアウォール\))から翻訳されています。
 
 
 **PF** (**Packet Filter**) とは、[パケットフィルターである](../Page/ファイアウォール.md "wikilink")。元々は、[OpenBSD](../Page/OpenBSD.md "wikilink")用に開発されたが、現在ではその他の[BSDの子孫](../Page/BSDの子孫.md "wikilink")や[Windowsでも使うことが出来る](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。

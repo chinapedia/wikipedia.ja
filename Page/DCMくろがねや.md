@@ -1,4 +1,4 @@
-> この記事は[DCM](https://ja.wikipedia.org/wiki/DCM)から翻訳されています。
+> この記事は[DCMくろがねや](https://ja.wikipedia.org/wiki/DCMくろがねや)から翻訳されています。
 
 
 **DCMくろがねや株式会社**（ディーシーエムくろがねや、）は、[山梨県](../Page/山梨県.md "wikilink")を中心に[ホームセンター](../Page/ホームセンター.md "wikilink")を経営する、[DCMグループ](https://ja.wikipedia.org/wiki/DCMグループ "wikilink")の企業。

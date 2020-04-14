@@ -1,4 +1,4 @@
-> この記事は[CROSS ROAD \(Mr.Children\)](https://ja.wikipedia.org/wiki/CROSS_ROAD_\(Mr.Children\))から翻訳されています。
+> この記事は[CROSS ROAD \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/CROSS_ROAD_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 「**CROSS ROAD**」（クロス ロード）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

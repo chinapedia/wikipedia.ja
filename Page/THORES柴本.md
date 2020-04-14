@@ -1,7 +1,7 @@
-> この記事は[THORES](https://ja.wikipedia.org/wiki/THORES)から翻訳されています。
+> この記事は[THORES柴本](https://ja.wikipedia.org/wiki/THORES柴本)から翻訳されています。
 
 
-**THORES柴本**（とーれすしばもと、[11月1日](../Page/11月1日.md "wikilink") - ）は日本の[イラストレーター](../Page/イラストレーター.md "wikilink")である。[角川書店](../Page/角川書店.md "wikilink")刊の[ライトノベル](../Page/ライトノベル.md "wikilink")雑誌「[ザ・スニーカー](../Page/ザ・スニーカー.md "wikilink")」の読者イラスト投稿コーナーで頭角を現し、後に同誌連載の小説『[トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")』のイラスト担当に抜擢されプロデビューした。幻想的なイラストを得意とする。
+**THORES柴本**（トーレスしばもと、[11月1日](../Page/11月1日.md "wikilink") - ）は日本の[イラストレーター](../Page/イラストレーター.md "wikilink")である。[角川書店](../Page/角川書店.md "wikilink")刊の[ライトノベル](../Page/ライトノベル.md "wikilink")雑誌「[ザ・スニーカー](../Page/ザ・スニーカー.md "wikilink")」の読者イラスト投稿コーナーで頭角を現し、後に同誌連載の小説『[トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")』のイラスト担当に抜擢されプロデビューした。幻想的なイラストを得意とする。
 
 ペンネームの由来は、『[機動戦士ガンダムΖΖ](https://ja.wikipedia.org/wiki/機動戦士ガンダムΖΖ "wikilink")』の登場人物「[トーレス](https://ja.wikipedia.org/wiki/機動戦士Ζガンダムの登場人物#.E3.83.88.E3.83.BC.E3.83.AC.E3.82.B9 "wikilink")」と、トーレス役を演じている声優の[柴本浩行](../Page/柴本浩行.md "wikilink")から（トーレスは『[Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』にも登場しているが、THORESが初めて観たガンダムシリーズが『ΖΖ』だった為、敢えて「ΖΖのトーレス」としている）。
 

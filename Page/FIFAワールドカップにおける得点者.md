@@ -1,4 +1,4 @@
-> この記事は[FIFA](https://ja.wikipedia.org/wiki/FIFA)から翻訳されています。
+> この記事は[FIFAワールドカップにおける得点者](https://ja.wikipedia.org/wiki/FIFAワールドカップにおける得点者)から翻訳されています。
 
 
 **FIFAワールドカップにおける得点者**の項では、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")における得点上位者および国別得点者一覧を表記する。

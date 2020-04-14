@@ -29,7 +29,7 @@
 
 ### 2005年
 
-[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、m-flo loves EMYLI & [Diggy-MO'](https://ja.wikipedia.org/wiki/SOUL'd_OUT#メンバー "wikilink") のシングル曲、「[DOPAMINE](../Page/DOPAMINE.md "wikilink")」 をリリース。
+[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、m-flo loves EMYLI & [Diggy-MO'](https://ja.wikipedia.org/wiki/SOUL'd_OUT#メンバー "wikilink") のシングル曲、「[DOPEMAN？](https://ja.wikipedia.org/wiki/DOPEMAN？ "wikilink")」 をリリース。
 
 [7月](https://ja.wikipedia.org/wiki/7月 "wikilink")、m-flo loves EMYLI & [YOSHIKA](../Page/YOSHIKA.md "wikilink") のシングル曲、「[Loop In My Heart](https://ja.wikipedia.org/wiki/Loop_In_My_Heart_/_HEY! "wikilink")」（m-flo loves [Akiko Wada](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")「HEY\!」との両A面）をリリース。
 

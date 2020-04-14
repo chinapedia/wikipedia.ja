@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ジャガー・Xタイプ](https://ja.wikipedia.org/wiki/ジャガー・Xタイプ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Jaguar_X-TYPE.jpg "wikilink") **ジャガー・Xタイプ**は、イギリスの自動車メーカー[ジャガーブランドから販売されていた](../Page/ジャガー_\(自動車\).md "wikilink")[セダン](../Page/セダン.md "wikilink")型及び[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")型の[中型](../Page/Dセグメント.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")である。

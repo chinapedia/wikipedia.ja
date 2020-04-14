@@ -14,12 +14,13 @@
   - [1994年](../Page/1994年.md "wikilink") ロックバンド「STAGGER」のキーボードとして活動。
   - 作家活動をしながら1996年[HΛL](../Page/HΛL.md "wikilink")に参加し、[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")氏などの楽曲制作に携わる。
   - [2002年](../Page/2002年.md "wikilink")にHΛL脱退。以降、**ats-**名義で数多くのアーティストに楽曲を提供。
-  - 2002年 『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』編曲賞受賞 [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」
-  - 2006年 『[第48回日本レコード大賞](https://ja.wikipedia.org/wiki/第48回日本レコード大賞 "wikilink")』金賞受賞 [BoA](../Page/BoA.md "wikilink")の「Winter Love」
-  - 2011年 『[第53回日本レコード大賞](https://ja.wikipedia.org/wiki/第53回日本レコード大賞 "wikilink")』優秀作品賞受賞 [AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[CALL](https://ja.wikipedia.org/wiki/CALL/I4U "wikilink")」
-  - 2015年 『[第57回日本レコード大賞](https://ja.wikipedia.org/wiki/第57回日本レコード大賞 "wikilink")』優秀作品賞受賞[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[愛してるのに、愛せない](https://ja.wikipedia.org/wiki/愛してるのに、愛せない "wikilink")」
-  - 2016年 『[第58回日本レコード大賞](https://ja.wikipedia.org/wiki/第58回日本レコード大賞 "wikilink")』優秀作品賞受賞[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[涙のない世界](https://ja.wikipedia.org/wiki/涙のない世界 "wikilink")」
-  - 2017年 『[第59回日本レコード大賞](https://ja.wikipedia.org/wiki/第59回日本レコード大賞 "wikilink")』優秀作品賞受賞[AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(AAAの曲\) "wikilink")」
+  - 2002年 『[第44回日本レコード大賞](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")』編曲賞受賞 [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の「[Free & Easy](https://ja.wikipedia.org/wiki/Free_&_Easy "wikilink")」（編曲）
+  - 2006年 『[第48回日本レコード大賞](https://ja.wikipedia.org/wiki/第48回日本レコード大賞 "wikilink")』金賞受賞 [BoA](../Page/BoA.md "wikilink")の「Winter Love」（作曲・編曲）
+  - 2011年 『[第53回日本レコード大賞](https://ja.wikipedia.org/wiki/第53回日本レコード大賞 "wikilink")』優秀作品賞受賞 [AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[CALL](https://ja.wikipedia.org/wiki/CALL/I4U "wikilink")」（編曲）
+  - 2015年 『[第57回日本レコード大賞](https://ja.wikipedia.org/wiki/第57回日本レコード大賞 "wikilink")』優秀作品賞受賞 [AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[愛してるのに、愛せない](https://ja.wikipedia.org/wiki/愛してるのに、愛せない "wikilink")」（編曲）
+  - 2016年 『[第58回日本レコード大賞](https://ja.wikipedia.org/wiki/第58回日本レコード大賞 "wikilink")』優秀作品賞受賞 [AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[涙のない世界](https://ja.wikipedia.org/wiki/涙のない世界 "wikilink")」（編曲）
+  - 2017年 『[第59回日本レコード大賞](https://ja.wikipedia.org/wiki/第59回日本レコード大賞 "wikilink")』優秀作品賞受賞 [AAAの](../Page/AAA_\(音楽グループ\).md "wikilink")「[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(AAAの曲\) "wikilink")」（編曲）
+  - 2019年 『第56回日本クラウンヒット賞』シングルヒット賞 [川上大輔](https://ja.wikipedia.org/wiki/川上大輔 "wikilink")の「女神のリズム」（作詞・作曲・編曲）
 
 <!-- end list -->
 

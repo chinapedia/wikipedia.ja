@@ -1,4 +1,4 @@
-> この記事は[ \(Mr.Children\)](https://ja.wikipedia.org/wiki/_\(Mr.Children\))から翻訳されています。
+> この記事は[しるし \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/しるし_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 「**しるし**」は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。
@@ -24,7 +24,7 @@
       - [調](https://ja.wikipedia.org/wiki/調 "wikilink")：[変ニ長調](https://ja.wikipedia.org/wiki/変ニ長調 "wikilink")
     <!-- end list -->
       -
-        [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[14才の母](../Page/14才の母.md "wikilink")』主題歌。
+        [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[14才の母](../Page/14才の母.md "wikilink")』主題歌。演奏時間は7分12秒で、[2020年](../Page/2020年.md "wikilink")に「[君と重ねたモノローグ](https://ja.wikipedia.org/wiki/Birthday/君と重ねたモノローグ "wikilink")」が発売されるまではシングルA面曲で最長の曲だった。
         桜井はこの曲について「両極の物語の中心にある『愛』とかいうもの、それを実感してもらえたらと願っています。最高のラブソングができました」とコメントしている。
         歌詞について桜井は、恋愛中の男女のこととも別れてしまったカップルのことともどちらにも解釈できるものにしたと語っている。
         [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")には桜井のみ出演している\[1\]。監督は丹下紘希。[CMでは桜井のみのバージョンとメンバー全員が出演しているバージョンが存在する](../Page/コマーシャルメッセージ.md "wikilink")。ちなみにこのPVは「[SPACE SHOWER Music Video Awards 07](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")」で「BEST VIDEO OF THE YEAR」と「BEST GROUP VIDEO」の2つの賞を受賞した。この2つの賞の受賞は「SPACE SHOWER Music Video Awards 04」での「くるみ」以来。ミュージック・ビデオは[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2005-2010 ＜macro＞](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。

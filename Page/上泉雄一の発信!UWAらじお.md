@@ -1,4 +1,4 @@
-> この記事は[!UWA](https://ja.wikipedia.org/wiki/!UWA)から翻訳されています。
+> この記事は[上泉雄一の発信!UWAらじお](https://ja.wikipedia.org/wiki/上泉雄一の発信!UWAらじお)から翻訳されています。
 
 
 『**上泉雄一の発信\!UWAらじお**』（うわいずみゆういちのはっしん\!うわらじお）は、[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")で 2006年度のナイターオフシーズン（[2006年](../Page/2006年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")）に放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[毎日放送](../Page/毎日放送.md "wikilink")の[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")・[上泉雄一](../Page/上泉雄一.md "wikilink")が、入社15年目（当時）で初めて持つ[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")であった。本ページでは、2007年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から半年間放送された『**上泉雄一のUWAらじお シーズン2**』も取り上げる。

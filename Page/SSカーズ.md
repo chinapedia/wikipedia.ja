@@ -1,4 +1,4 @@
-> この記事は[SS](https://ja.wikipedia.org/wiki/SS)から翻訳されています。
+> この記事は[SSカーズ](https://ja.wikipedia.org/wiki/SSカーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Jaguar3,5_SS_DHC_1939.jpg "wikilink") **SSカーズ・リミテッド**（*SS Cars Ltd* ）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の自動車メーカー。[スワロー・サイドカー・カンパニー](../Page/スワロー・サイドカー・カンパニー.md "wikilink")から発展してできた会社で1934年にこの名前で登録されている。1945年に社名を[ジャガー・カーズに変更した](../Page/ジャガー_\(自動車\).md "wikilink")。

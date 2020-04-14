@@ -1,4 +1,4 @@
-> この記事は[UXVIIB](https://ja.wikipedia.org/wiki/UXVIIB)から翻訳されています。
+> この記事は[UボートXVIIB型](https://ja.wikipedia.org/wiki/UボートXVIIB型)から翻訳されています。
 
 
 **UボートXVIIB型** (U-Boot Klasse XVIIB) は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中の[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の沿岸哨戒[潜水艦](../Page/潜水艦.md "wikilink")。[ヘルムート・ヴァルター](../Page/ヘルムート・ヴァルター.md "wikilink")が提唱した、高濃度[過酸化水素](../Page/過酸化水素.md "wikilink")を用いた[非大気依存推進](../Page/非大気依存推進.md "wikilink") ([ヴァルター機関](../Page/ヴァルター機関.md "wikilink")) により、水中高速力を実現することを目指した実験艦。[1943年](../Page/1943年.md "wikilink")から[1944年](../Page/1944年.md "wikilink")までの間に3隻が建造された。

@@ -1,25 +1,89 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[パンドラTV](https://ja.wikipedia.org/wiki/パンドラTV)から翻訳されています。
 
 
 **パンドラTV**（パンドラティーヴィー、, Pandora TV）は、パンドラTV社が運営する[動画共有サイトである](../Page/動画共有サービス.md "wikilink")。
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")10月にサービスが開始された。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[英語](../Page/英語.md "wikilink")・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")・[日本語](../Page/日本語.md "wikilink")のサポートを開始し、[朝鮮語](../Page/朝鮮語.md "wikilink")を含め4か国語対応となった。
+[2004年](../Page/2004年.md "wikilink")10月にユーザー生成コンテンツをホスティングする動画共有サービスとして開始された。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に[英語](../Page/英語.md "wikilink")・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")・[日本語](../Page/日本語.md "wikilink")のサポートを開始し、[朝鮮語](../Page/朝鮮語.md "wikilink")を含め4か国語対応となった。
 
-[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")と比較して、アップロード容量無制限となっており、アップロード形式として、[AVI](https://ja.wikipedia.org/wiki/AVI "wikilink")、[WMV](https://ja.wikipedia.org/wiki/WMV "wikilink")、[MPEG-4](../Page/MPEG-4.md "wikilink")、[MOV](https://ja.wikipedia.org/wiki/MOV "wikilink")、[MPEG-2](../Page/MPEG-2.md "wikilink")、[ASFに対応している](../Page/Advanced_Systems_Format.md "wikilink")。
+2005年頃からライブストリーミングサービスを提供している\[1\]\[2\]。
 
-かつては著作権問題を抱えていたが、韓国国内では著作権問題は解決している。また[青瓦台](../Page/青瓦台.md "wikilink")や警察庁など行政機関が、パンドラTVを使った定例記者会見映像や広報映像の配信を行ったり、[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局との提携による番組配信、著作権者の許可を得て『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』・『[攻殻機動隊](../Page/攻殻機動隊.md "wikilink")』・『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH "wikilink")』などのアニメ作品を放映しているが、明らかに無許可の日本アニメやドラマなどもアップロードされ続けている。日本国内では24時間モニタリングされ、違法または問題となるコンテンツがアップされたら削除するようにしている。
-
-SBSのコンテンツは[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")からパンドラTVで放送を開始することが決定している。また、韓国の他の地上波テレビ局であるKBS、MBCのコンテンツも2010年度中にはパンドラTVで放映開始される予定である。
+かつては韓国市場1位の動画サービスだったが\[3\]、韓国のインターネット実名制の施行期間中に利用者が減少し、韓国の国内法の適用を受けない[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")に韓国市場1位の座を明け渡した\[4\]\[5\]。
 
 アクセス過多によるトラフィック増大で回線が混雑している場合、動画を見ることができない。 動画の高速アップロード、安定した動画視聴を楽しむためのプレミアム会員、それに加えて動画のダウンロード機能が付いたU-プレミアム会員（どちらも月額課金制）が存在する。
 
-[2007年](../Page/2007年.md "wikilink")（平成19年）4月以降の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")向けでの名称は**TVブレイク**となり、2008年（平成20年）[7月31日](../Page/7月31日.md "wikilink")には社名もパンドラTVからジャストオンラインに変更。当初はパンドラTVと提携して運営を開始したが、[2006年](../Page/2006年.md "wikilink")（平成18年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に資本関係を解消し、その後パンドラTVとはまったく無関係の企業及びサービスとなった。
+2019年2月、過去数年間の番組の配信を廃止し、全部の番組を削除した。
 
-### 著作権侵害と裁判
+## 歴史
 
-[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink") (JASRAC) は動画共有サイト「TVブレイク」の運営事業者である「ジャストオンライン」に対し著作権の侵害（JASRAC管理楽曲を含む動画が投稿された）と損害賠償を求めて2008年（平成20年）[8月6日](../Page/8月6日.md "wikilink")に提訴した。損害賠償支払いを命じる一審判決を不服としてジャストオンラインは知財高裁に控訴したが2010年（平成22年）[9月8日](../Page/9月8日.md "wikilink")控訴を棄却された。\[1\]2011年現在、TVブレイクのURLは消滅している。
+1999.02：**(주)시작시스템즈**（スタート・システムズ）を設立\[6\]（本店：ソウル特別市江南区駅三洞825）
+
+1999.09：**(주)레떼컴（Lettee.com）**に商号変更\[7\]（本店：ソウル特別市瑞草区瑞草洞1321-5）
+
+2001.11：ソウル特別市江南区駅三洞727-16に本店移転
+
+2004.10：動画プラットフォーム「**Pandora TV**（パンドラTV）」オープン
+
+2005.10： **(주)판도라티비（Pandora TV Co Ltd）**に商号変更
+
+2008.03：[K-Multimedia Player](https://ja.wikipedia.org/wiki/K-Multimedia_Player "wikilink")（KMPlayer）を買収
+
+2008.04：Pandora TVグローバル版オープン
+
+2009.04：日本での有料プレミアムサービスを実施\[8\]
+
+2009.08：企業付設研究所設立
+
+2010.04：子会社(주)케이엠피미디어を設立
+
+2012.01：[京畿道](../Page/京畿道.md "wikilink")[城南市](https://ja.wikipedia.org/wiki/城南市 "wikilink")[盆唐区](../Page/盆唐区.md "wikilink")大王板橋路644に本店移転
+
+2012.04：DASAN Networksと팬더미디어（Panda Media）を設立\[9\]
+
+2012.07：HYUNDAI HCNと에브리온TV（EveryOn TV）を設立\[10\]\[11\]
+
+2013.10：子会社(주)케이엠피미디어を吸収合併
+
+2014.07：ショートビデオ編集アプリ「원미닛」\[12\]、ゲームプラットフォーム「KMP Games」発売\[13\]
+
+2014.08：KONEX市場上場\[14\]
+
+2014.12：米国法人VIVA MOBILE CAMP INCを設立
+
+2014.12：メッセンジャーアプリケーション「잼」の㈜노바토を吸収合併\[15\]
+
+2015.08：モバイル放送アプリケーション「[plup](https://ja.wikipedia.org/wiki/:ko:플럽 "wikilink")」発売\[16\]
+
+2015.09：動画広告プラットフォーム「prism」発売
+
+2015.10：社内ベンチャー(주)레오나（LEONA）を設立 \[17\]
+
+2016.04：韓国の有名チャンネルを集約した「Korea Top 100」オープン\[18\]
+
+2016.09：(주)희일커뮤니케이션（Heeil Communications）、 (주)카카오대구경북센터の株式100％を買収
+
+2016.12：子会社(주)판도라에스피씨、(주)희일커뮤니케이션（Heeil Communications）、(주)희일컴즈を吸収合併し、(주)희일커뮤니케이션（Heeil Communications）に変更する
+
+2016.12：몬스터(주)（monster）の株式100％を買収
+
+2017.02：パンドラTVにて複数のライブ配信プラットフォームで同時配信できるサービスを開始\[19\]
+
+2017.03：ライブコマースサービスオープン
+
+2017.09：KMPlayer VRアプリ発売
+
+2018.08：ブランド動画プラットフォーム「パンドラTV WOW」発売
+
+2018.09：KMPlayer 64X発売
+
+## TVブレイク
+
+[2006年](../Page/2006年.md "wikilink")（平成18年）2月に韓国パンドラTV社と提携して日本の株式会社パンドラTVが、「パンドラTV日本版（pandoratv.jp）」運営を開始\[20\]。同年10月に韓国パンドラTV社との資本関係を解消し、[2007年](../Page/2007年.md "wikilink")（平成19年）4月以降パンドラTV日本版は、パンドラTVとはまったく無関係の「TVブレイク（tvbreak.jp）」というサービスとなった。2008年（平成20年）[7月31日](../Page/7月31日.md "wikilink")に社名も株式会社パンドラTVからジャストオンライン株式会社に変更された\[21\]\[22\]。
+
+### 著作権侵害
+
+[日本音楽著作権協会](../Page/日本音楽著作権協会.md "wikilink") (JASRAC) は動画共有サイト「TVブレイク」の運営事業者である「ジャストオンライン」に対し著作権の侵害（JASRAC管理楽曲を含む動画が投稿された）と損害賠償を求めて2008年（平成20年）[8月6日](../Page/8月6日.md "wikilink")に提訴した。損害賠償支払いを命じる一審判決を不服としてジャストオンラインは知財高裁に控訴したが2010年（平成22年）[9月8日](../Page/9月8日.md "wikilink")控訴を棄却された。\[23\]2011年現在、TVブレイクのURLは消滅している。
 
 ## 脚注
 
@@ -31,11 +95,34 @@ SBSのコンテンツは[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilin
 
 ## 外部リンク
 
-  - [パンドラTV](http://www.pandora.tv/)
-  - [K-Multimedia Player](http://www.kmplayer.com/forums/index.php)
-  - [パンドラTV ブログ](http://blog.pandora.tv/jpn/)
-  - [パンドラTV FANCAST](https://fancast.co.kr/)
+  - [pandora.tv](http://www.pandora.tv/)
+  - [PandoraTV Official Blog](http://blog.pandora.tv/)
+  - [KMPlayer](http://www.kmplayer.com/)
+  - [Heeil Communications](http://www.heeil.com/)
+  - [FileKuki](http://www.filekuki.com/)
 
 [Category:動画共有サイト](https://ja.wikipedia.org/wiki/Category:動画共有サイト "wikilink") [Category:韓国の企業](https://ja.wikipedia.org/wiki/Category:韓国の企業 "wikilink")
 
-1.  [「TVブレイク」は著作権侵害　知財高裁が控訴棄却　JASRACとの訴訟で](http://www.itmedia.co.jp/news/articles/1009/09/news082.html)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16. 「起業家と投資家を繋ぐ」テクノロジー＆スタートアップ関連の話題をお届けするブログメディア|accessdate=2020-03-07|language=ja}}
+17.
+18. 「起業家と投資家を繋ぐ」テクノロジー＆スタートアップ関連の話題をお届けするブログメディア|accessdate=2020-03-08|language=ja}}
+19.
+20.
+21.
+22.
+23. [「TVブレイク」は著作権侵害　知財高裁が控訴棄却　JASRACとの訴訟で](http://www.itmedia.co.jp/news/articles/1009/09/news082.html)

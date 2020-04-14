@@ -1,4 +1,4 @@
-> この記事は[SRAM \(\)](https://ja.wikipedia.org/wiki/SRAM_\(\))から翻訳されています。
+> この記事は[SRAM \(自転車メーカー\)](https://ja.wikipedia.org/wiki/SRAM_\(自転車メーカー\))から翻訳されています。
 
 
 **SRAM**（*SRAM Corporation* 、スラム\[1\]）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")パーツメーカーである。

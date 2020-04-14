@@ -1,4 +1,4 @@
-> この記事は[WORST CRIMEAbout a rock star who was a swindler](https://ja.wikipedia.org/wiki/WORST_CRIMEAbout_a_rock_star_who_was_a_swindler)から翻訳されています。
+> この記事は[WORST CRIME〜About a rock star who was a swindler〜](https://ja.wikipedia.org/wiki/WORST_CRIME〜About_a_rock_star_who_was_a_swindler〜)から翻訳されています。
 
 
 「**WORST CRIME 〜About a rock star who was a swindler〜/Blind To My Heart**」（ワースト・クライム 〜アバウト・ア・ロック・スター・フー・ワズ・ア・スウィンダラー〜/ブラインド・トゥー・マイ・ハート）\[1\]は[WANDS](../Page/WANDS.md "wikilink")の11thシングル。

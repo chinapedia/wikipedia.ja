@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ガス・G](https://ja.wikipedia.org/wiki/ガス・G)から翻訳されています。
 
 
 **ガス・G.**（**Gus G.** / 本名：コンスタンティノス "コスタス" カラミトロウディス ( / [ラテン文字](../Page/ラテン文字.md "wikilink")[転写](https://ja.wikipedia.org/wiki/転写 "wikilink"): Konstantinos "Kostas" Karamitroudis), [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月12日](../Page/9月12日.md "wikilink") - ）は、[ギリシャ](../Page/ギリシャ.md "wikilink")出身の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。世界でもトップクラスの技巧派ギタリストとして注目されている。

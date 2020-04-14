@@ -1,4 +1,4 @@
-> この記事は[SMH - ](https://ja.wikipedia.org/wiki/SMH_-_)から翻訳されています。
+> この記事は[SMH - 始末署の星](https://ja.wikipedia.org/wiki/SMH_-_始末署の星)から翻訳されています。
 
 
 『**SMH - 始末署の星**』（エスエムエイチ しまつしょのほし）は、[竹田エリ](https://ja.wikipedia.org/wiki/竹田エリ "wikilink")による、[刑事](../Page/刑事.md "wikilink")を主人公にした[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品である。『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』[2002年](../Page/2002年.md "wikilink")26号 - [2003年](../Page/2003年.md "wikilink")6・7号まで連載。単行本全1巻。

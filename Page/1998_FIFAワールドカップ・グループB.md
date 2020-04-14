@@ -1,4 +1,4 @@
-> この記事は[1998 FIFAB](https://ja.wikipedia.org/wiki/1998_FIFAB)から翻訳されています。
+> この記事は[1998 FIFAワールドカップ・グループB](https://ja.wikipedia.org/wiki/1998_FIFAワールドカップ・グループB)から翻訳されています。
 
 
 **[1998 FIFAワールドカップ](../Page/1998_FIFAワールドカップ.md "wikilink") グループB**は、[イタリア](../Page/イタリア.md "wikilink")・[チリ](../Page/チリ.md "wikilink")・[オーストリア](../Page/オーストリア.md "wikilink")・[カメルーン](../Page/カメルーン.md "wikilink")の4チームが組んだ。[6月11日](../Page/6月11日.md "wikilink")から[6月23日](../Page/6月23日.md "wikilink")まで6試合行い、[イタリア](../Page/イタリア.md "wikilink")・[チリ](../Page/チリ.md "wikilink")が決勝トーナメントへ進出した。

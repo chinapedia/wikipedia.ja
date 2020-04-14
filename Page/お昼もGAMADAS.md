@@ -1,4 +1,4 @@
-> この記事は[GAMADAS](https://ja.wikipedia.org/wiki/GAMADAS)から翻訳されています。
+> この記事は[お昼もGAMADAS](https://ja.wikipedia.org/wiki/お昼もGAMADAS)から翻訳されています。
 
 
 **お昼もGAMADAS**（おひるもガマダス）は、FMK[エフエム熊本](../Page/エフエム熊本.md "wikilink")で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた、平日11:30～14:35の人気生放送番組。今でも多くのファンに番組再開が望まれている。
@@ -47,7 +47,7 @@
 
 <!-- end list -->
 
-  - 13:00 [デイリーフライヤー](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")（[JFN](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")[ネット番組](../Page/ネット番組.md "wikilink")）
+  - 13:00 [デイリーフライヤー](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")（[JFN](../Page/全国FM放送協議会.md "wikilink")[ネット番組](../Page/ネット番組.md "wikilink")）
   - 13:30〜 日替わり企画
       - 月曜 - 達人への道　(黒木･マッキーがある分野の"達人"となるべく毎週試行錯誤する)
       - 火曜 - 熊日タウンパケットスクエアー　([熊本日日新聞](../Page/熊本日日新聞.md "wikilink")紙面とタイアップして携帯電話のカメラから送られてきた画像を紹介)

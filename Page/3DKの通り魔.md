@@ -1,4 +1,4 @@
-> この記事は[3DK](https://ja.wikipedia.org/wiki/3DK)から翻訳されています。
+> この記事は[3DKの通り魔](https://ja.wikipedia.org/wiki/3DKの通り魔)から翻訳されています。
 
 
 『**3DKの通り魔 家庭教師が私を襲う**』（さんディーケーのとおりま かていきょうしがわたしをおそう）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")」で[1982年](../Page/1982年.md "wikilink")8月28日に放送された単発[サスペンスドラマ](https://ja.wikipedia.org/wiki/サスペンスドラマ "wikilink")。サブタイトルは『**憎い\!娘を囮にするなんて…**』。

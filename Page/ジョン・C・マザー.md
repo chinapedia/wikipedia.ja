@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ジョン・C・マザー](https://ja.wikipedia.org/wiki/ジョン・C・マザー)から翻訳されています。
 
 
 ` `

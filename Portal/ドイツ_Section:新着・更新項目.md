@@ -1,8 +1,9 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:ドイツ/Section:新着・更新項目](https://ja.wikipedia.org/wiki/Portal:ドイツ/Section:新着・更新項目)から翻訳されています。
 
 
 <noinclude></noinclude> 新規記事作成後は[索引にも追加してください](https://ja.wikipedia.org/wiki/Wikipedia:索引 "wikilink")（[新着を探す](https://ja.wikipedia.org/wiki/特別:新しいページ "wikilink")）
 
+  - 20/3/30 - [ホーエンシュタウフェン城](../Page/ホーエンシュタウフェン城.md "wikilink")
   - 20/2/15 - [ヴィルヘルムスドルフ](../Page/ヴィルヘルムスドルフ.md "wikilink")
   - 20/2/11 - [ランゲンツェン](../Page/ランゲンツェン.md "wikilink")
   - 20/2/2 - [プッシェンドルフ](../Page/プッシェンドルフ.md "wikilink"), [トゥーヒェンバッハ](../Page/トゥーヒェンバッハ.md "wikilink")

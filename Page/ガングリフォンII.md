@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ガングリフォンII](https://ja.wikipedia.org/wiki/ガングリフォンII)から翻訳されています。
 
 
 **GUNGRIFFON II（ガングリフォン　ツー）**は、[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")が[セガサターン](../Page/セガサターン.md "wikilink")専用に[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")に発売した、[3D](../Page/3D.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。価格は6800円（対戦ケーブル同梱版は8000円）。前作と共通する世界観と時間軸をもつが、マニュアル内にある年表を参照すると、ミッションはすべて前作と同時期にあたる。プレイヤーは前作とは別の[中隊](../Page/中隊.md "wikilink")の[パイロット](https://ja.wikipedia.org/wiki/パイロット "wikilink")という設定。

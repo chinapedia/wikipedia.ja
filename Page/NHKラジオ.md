@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKラジオ](https://ja.wikipedia.org/wiki/NHKラジオ)から翻訳されています。
 
 
 **NHKラジオ**（エヌエイチケイ ラジオ,）では、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の[ラジオ放送](https://ja.wikipedia.org/wiki/ラジオ放送 "wikilink")について述べる。

@@ -1,4 +1,4 @@
-> この記事は[White Love \(SPEED\)](https://ja.wikipedia.org/wiki/White_Love_\(SPEED\))から翻訳されています。
+> この記事は[White Love \(SPEEDの曲\)](https://ja.wikipedia.org/wiki/White_Love_\(SPEEDの曲\))から翻訳されています。
 
 
 「**White Love**」（ホワイト・ラブ）は、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")に[TOY'S FACTORYから発売された](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")。

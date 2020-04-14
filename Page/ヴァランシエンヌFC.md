@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ヴァランシエンヌFC](https://ja.wikipedia.org/wiki/ヴァランシエンヌFC)から翻訳されています。
 
 
 **ヴァランシエンヌ・フットボール・クルブ**（**Valenciennes Football Club** (）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ヴァランシエンヌ](https://ja.wikipedia.org/wiki/ヴァランシエンヌ "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

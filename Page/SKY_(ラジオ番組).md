@@ -1,4 +1,4 @@
-> この記事は[SKY \(\)](https://ja.wikipedia.org/wiki/SKY_\(\))から翻訳されています。
+> この記事は[SKY \(ラジオ番組\)](https://ja.wikipedia.org/wiki/SKY_\(ラジオ番組\))から翻訳されています。
 
 
 **SKY**（スカイ）は、[TOKYO FM](../Page/エフエム東京.md "wikilink")・[JFNCのラジオ番組](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。TOKYO FM（東京半蔵門）のアースギャラリーから放送を行っていた。   [thumb](https://ja.wikipedia.org/wiki/image:Zeppelin_NT_Japan.jpg "wikilink")

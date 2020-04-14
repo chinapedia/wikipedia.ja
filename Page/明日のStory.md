@@ -1,4 +1,4 @@
-> この記事は[Story](https://ja.wikipedia.org/wiki/Story)から翻訳されています。
+> この記事は[明日のStory](https://ja.wikipedia.org/wiki/明日のStory)から翻訳されています。
 
 
 『**明日のStory**』（あしたのストーリー）は[MANISH](../Page/MANISH.md "wikilink")の8枚目のシングル。

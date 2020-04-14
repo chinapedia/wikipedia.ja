@@ -1,4 +1,4 @@
-> この記事は[ FRIENDS of MANA](https://ja.wikipedia.org/wiki/_FRIENDS_of_MANA)から翻訳されています。
+> この記事は[聖剣伝説 FRIENDS of MANA](https://ja.wikipedia.org/wiki/聖剣伝説_FRIENDS_of_MANA)から翻訳されています。
 
 
 『**聖剣伝説 FRIENDS of MANA**』（せいけんでんせつフレンズオブマナ）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")から2006年10月18日から配信された[SoftBank 3G端末用](../Page/SoftBank_3G.md "wikilink")[ネットワークRPG](https://ja.wikipedia.org/wiki/ネットワークRPG "wikilink")。[聖剣伝説](../Page/聖剣伝説.md "wikilink")シリーズの外伝。iモード版は2007年4月16日から、EZアプリ版は2007年11月8日配信開始。2011年2月28日にサービスを終了した。

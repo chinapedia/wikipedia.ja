@@ -1,4 +1,4 @@
-> この記事は[TV !](https://ja.wikipedia.org/wiki/TV_!)から翻訳されています。
+> この記事は[自信回復TV 胸はって行こう!](https://ja.wikipedia.org/wiki/自信回復TV_胸はって行こう!)から翻訳されています。
 
 
 『**自信回復TV 胸はって行こう\!**』（じしんかいふくテレビ むねはっていこう）は、[2002年](../Page/2002年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")から同年[11月19日](../Page/11月19日.md "wikilink")まで[フジテレビ系列局で放送されていた](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間は毎週火曜 19:00 - 19:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

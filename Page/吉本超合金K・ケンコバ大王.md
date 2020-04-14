@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[吉本超合金K・ケンコバ大王](https://ja.wikipedia.org/wiki/吉本超合金K・ケンコバ大王)から翻訳されています。
 
 
 『**吉本超合金K・ケンコバ大王**』（よしもとちょうごうきんケー・ケンコバだいおう）は、一部[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ大阪](../Page/テレビ大阪.md "wikilink")・[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")共同製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全23回。製作局のテレビ大阪では[2002年](../Page/2002年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで、毎週[日曜](../Page/日曜日.md "wikilink") 24:35 - 25:05に放送。

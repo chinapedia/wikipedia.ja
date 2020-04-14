@@ -1,4 +1,4 @@
-> この記事は[OL](https://ja.wikipedia.org/wiki/OL)から翻訳されています。
+> この記事は[日野OL不倫放火殺人事件](https://ja.wikipedia.org/wiki/日野OL不倫放火殺人事件)から翻訳されています。
 
 
 **日野OL不倫放火殺人事件**（ひのOLふりんほうかさつじんじけん）とは[1993年](../Page/1993年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[日野市](https://ja.wikipedia.org/wiki/日野市 "wikilink")で発生した[放火](https://ja.wikipedia.org/wiki/放火 "wikilink")[殺人](../Page/殺人.md "wikilink")事件であり、幼児2人が焼殺された事件である。

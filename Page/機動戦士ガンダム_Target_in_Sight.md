@@ -1,4 +1,4 @@
-> この記事は[ Target in Sight](https://ja.wikipedia.org/wiki/_Target_in_Sight)から翻訳されています。
+> この記事は[機動戦士ガンダム Target in Sight](https://ja.wikipedia.org/wiki/機動戦士ガンダム_Target_in_Sight)から翻訳されています。
 
 
 『**機動戦士ガンダム Target in Sight**』（きどうせんしガンダム ターゲット イン サイト、MOBILE SUIT GUNDAM Target in Sight）は、[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（バンダイレーベル）より発売の[PlayStation 3専用](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。[ガンダムシリーズの作品](../Page/ガンダムシリーズゲーム作品一覧.md "wikilink")。ジャンルは[3Dアクションシューティング](../Page/シューティングゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")に発売。PS3本体と同時発売5本の[ローンチタイトル](../Page/ローンチタイトル.md "wikilink")のうちの1本。

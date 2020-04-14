@@ -1,4 +1,4 @@
-> この記事は[A \(\)](https://ja.wikipedia.org/wiki/A_\(\))から翻訳されています。
+> この記事は[A代表 \(ラグビー\)](https://ja.wikipedia.org/wiki/A代表_\(ラグビー\))から翻訳されています。
 
 
 **[ラグビー](../Page/ラグビー.md "wikilink")**の**A代表**とは、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")におけるカテゴリーの一つである。

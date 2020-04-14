@@ -1,4 +1,4 @@
-> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+> この記事は[土曜ワイドハッピーTOKYO](https://ja.wikipedia.org/wiki/土曜ワイドハッピーTOKYO)から翻訳されています。
 
 
 **土曜ワイド 吉田照美のハッピーTOKYO**（どようワイド よしだてるみのハッピートーキョー）とは、[1988年](../Page/1988年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")にかけて、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で毎週[土曜日](../Page/土曜日.md "wikilink")に[生放送](../Page/生放送.md "wikilink")されていた[ワイド番組](../Page/ワイド番組.md "wikilink")。
@@ -71,6 +71,8 @@ TBSラジオ土曜の生ワイド『[土曜ワイドラジオTOKYO](https://ja.w
           - [えのきどいちろう](https://ja.wikipedia.org/wiki/えのきどいちろう "wikilink") 土曜ホットアングル（1990年4月 - ）
           - Fun to クイズ → 笑福亭笑瓶の満タンクイズ　- 担当はいずれも[笑福亭笑瓶](../Page/笑福亭笑瓶.md "wikilink")。前者のコーナー名はトヨタ自動車のキャッチフレーズ「Fun to Drive」から引用したもの。
       - TBSニュース、交通情報
+
+## 脚注
 
 ## 関連項目
 

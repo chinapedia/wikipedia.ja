@@ -1,4 +1,4 @@
-> この記事は[ZX-9R](https://ja.wikipedia.org/wiki/ZX-9R)から翻訳されています。
+> この記事は[カワサキ・ニンジャZX-9R](https://ja.wikipedia.org/wiki/カワサキ・ニンジャZX-9R)から翻訳されています。
 
 
 **カワサキ・ニンジャZX-9R**（ニンジャ ゼットエックス-ナインアール）とは、[川崎重工業](../Page/川崎重工業.md "wikilink")が製造・販売していた輸出市場向け[4ストローク](../Page/4ストローク機関.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")899ccの[大型自動二輪](https://ja.wikipedia.org/wiki/大型自動二輪 "wikilink")（[オートバイ](../Page/オートバイ.md "wikilink")）である。

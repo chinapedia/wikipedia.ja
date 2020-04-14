@@ -1,4 +1,4 @@
-> この記事は[ \(Ides\)](https://ja.wikipedia.org/wiki/_\(Ides\))から翻訳されています。
+> この記事は[殺しのドレス \(Ides\)](https://ja.wikipedia.org/wiki/殺しのドレス_\(Ides\))から翻訳されています。
 
 
 『**殺しのドレス**』（ころしのドレス）は、[フェアリーテール（アイデス）作の](../Page/フェアリーテール_\(ブランド\).md "wikilink")、[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")のシリーズである。同時期の『[リップスティックアドベンチャー](https://ja.wikipedia.org/wiki/リップスティックアドベンチャー "wikilink")』とテーマの選択の点で関連がある。

@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[ホンダ・B型エンジン](https://ja.wikipedia.org/wiki/ホンダ・B型エンジン)から翻訳されています。
 
 
 **B型エンジン**（Bがたエンジン）は、[本田技研工業](../Page/本田技研工業.md "wikilink")で製造されていた[Cセグメント](../Page/Cセグメント.md "wikilink")～[Dセグメント](../Page/Dセグメント.md "wikilink")車種用[直列4気筒](../Page/直列4気筒.md "wikilink")[エンジン](../Page/エンジン.md "wikilink")である。

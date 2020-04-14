@@ -1,4 +1,4 @@
-> この記事は[Paradise!](https://ja.wikipedia.org/wiki/Paradise!)から翻訳されています。
+> この記事は[人生はParadise!](https://ja.wikipedia.org/wiki/人生はParadise!)から翻訳されています。
 
 
 「**人生はParadise\!**」（じんせいはパラダイス）は[高岡亜衣](https://ja.wikipedia.org/wiki/高岡亜衣 "wikilink")の3枚目のシングル。

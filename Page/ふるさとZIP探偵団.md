@@ -1,4 +1,4 @@
-> この記事は[ZIP](https://ja.wikipedia.org/wiki/ZIP)から翻訳されています。
+> この記事は[ふるさとZIP探偵団](https://ja.wikipedia.org/wiki/ふるさとZIP探偵団)から翻訳されています。
 
 
 『**ふるさとZIP探偵団**』（ふるさとジップたんていだん）は、[関西テレビで毎週土曜日朝](../Page/関西テレビ放送.md "wikilink")10:00 - 10:54に放送されていた[旅番組](../Page/旅番組.md "wikilink")・[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全688回。ここでは、改題リニューアル後の番組『**ZIP\!**』についても紹介する。

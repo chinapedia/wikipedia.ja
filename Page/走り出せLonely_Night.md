@@ -1,4 +1,4 @@
-> この記事は[Lonely Night](https://ja.wikipedia.org/wiki/Lonely_Night)から翻訳されています。
+> この記事は[走り出せLonely Night](https://ja.wikipedia.org/wiki/走り出せLonely_Night)から翻訳されています。
 
 
 『**走り出せLonely Night**』（はしりだせロンリー・ナイト）は[MANISH](../Page/MANISH.md "wikilink")の9枚目のシングル。

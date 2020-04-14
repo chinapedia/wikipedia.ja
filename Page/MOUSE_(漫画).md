@@ -1,4 +1,4 @@
-> この記事は[MOUSE \(\)](https://ja.wikipedia.org/wiki/MOUSE_\(\))から翻訳されています。
+> この記事は[MOUSE \(漫画\)](https://ja.wikipedia.org/wiki/MOUSE_\(漫画\))から翻訳されています。
 
 
 『**MOUSE**』（マウス）は、原作：[あかほりさとる](../Page/あかほりさとる.md "wikilink")、作画：[板場広志](../Page/板場広志.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[白泉社](../Page/白泉社.md "wikilink")刊行「[ヤングアニマル](https://ja.wikipedia.org/wiki/ヤングアニマル "wikilink")」[1999年](../Page/1999年.md "wikilink")No.23から[2004年](../Page/2004年.md "wikilink")No.18まで連載された。単行本全14巻。[2003年](../Page/2003年.md "wikilink")には[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が15分枠で放送された。
@@ -250,7 +250,8 @@ UHFアニメであるが、[サンテレビや](../Page/サンテレビジョン
 ## 外部リンク
 
   - [漫画公式サイト](http://web.archive.org/web/20091212213410/http://www.younganimal.com/mouse/) - 閉鎖。（2009年12月12日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [MOUSE（メディアファクトリー特設サイト）](http://www.mediafactory.co.jp/anime/mouse/)
+
+  -
   - [MOUSE（キッズステーション特設サイト）](http://web.archive.org/web/20110917075733/http://www.kids-station.com/minisite/tokushu/mouse/) - 閉鎖。（2011年9月17日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:あかほりさとる](https://ja.wikipedia.org/wiki/Category:あかほりさとる "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:1999年の漫画](https://ja.wikipedia.org/wiki/Category:1999年の漫画 "wikilink") [Category:ヤングアニマルの漫画作品](https://ja.wikipedia.org/wiki/Category:ヤングアニマルの漫画作品 "wikilink") [Category:怪盗を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:怪盗を主人公とした漫画作品 "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:鼠小僧を題材にしたフィクション作品](https://ja.wikipedia.org/wiki/Category:鼠小僧を題材にしたフィクション作品 "wikilink") [Category:世田谷を舞台とした作品](https://ja.wikipedia.org/wiki/Category:世田谷を舞台とした作品 "wikilink") [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:スタジオディーン](https://ja.wikipedia.org/wiki/Category:スタジオディーン "wikilink") [Category:メディアファクトリーのアニメ作品](https://ja.wikipedia.org/wiki/Category:メディアファクトリーのアニメ作品 "wikilink") [Category:ブロッコリーのアニメ作品](https://ja.wikipedia.org/wiki/Category:ブロッコリーのアニメ作品 "wikilink") [Category:ヤングアニマルコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ヤングアニマルコミックスのアニメ作品 "wikilink") [Category:怪盗を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:怪盗を主人公としたアニメ作品 "wikilink") [Category:教師を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:教師を主人公としたアニメ作品 "wikilink") [Category:高等学校を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたアニメ作品 "wikilink") [Category:東京を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ作品 "wikilink")

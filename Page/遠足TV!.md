@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[遠足TV!](https://ja.wikipedia.org/wiki/遠足TV!)から翻訳されています。
 
 
 『**遠足TV\!**』（えんそくテレビ）は、[関西テレビと](../Page/関西テレビ放送.md "wikilink")[関西テレビ☆京都チャンネル](../Page/関西テレビ☆京都チャンネル.md "wikilink")で放送された[旅番組](../Page/旅番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ I LOVE YOU](https://ja.wikipedia.org/wiki/_I_LOVE_YOU)から翻訳されています。
+> この記事は[極東 I LOVE YOU](https://ja.wikipedia.org/wiki/極東_I_LOVE_YOU)から翻訳されています。
 
 
 『**極東 I LOVE YOU**』（きょくとう アイ・ラブ・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の12枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]。[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[BMGファンハウスよりリリースされた](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
@@ -11,6 +11,7 @@
   - 本作のアウトテイクとなった曲のうちの1曲はリアレンジされて、「Lullaby II」として後のアルバム『[十三階は月光](../Page/十三階は月光.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")）に、「Lullaby-III」としてアルバム『[memento mori](https://ja.wikipedia.org/wiki/memento_mori "wikilink")』（[2009年](../Page/2009年.md "wikilink")）に収録されたが、原曲は未発表のままである。
   - [ギタリスト](../Page/ギタリスト.md "wikilink")の[今井寿](../Page/今井寿.md "wikilink")曰く「ウチららしい問題作」。
   - [2017年](../Page/2017年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink")に、デビュー30周年を記念し、全曲リマスター・[ブルースペックCD](https://ja.wikipedia.org/wiki/ブルースペックCD "wikilink")2・紙ジャケット仕様で再発売された\[2\]。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## リリース履歴
 

@@ -1,4 +1,4 @@
-> この記事は[Sadie \(\)](https://ja.wikipedia.org/wiki/Sadie_\(\))から翻訳されています。
+> この記事は[Sadie \(バンド\)](https://ja.wikipedia.org/wiki/Sadie_\(バンド\))から翻訳されています。
 
 
 **Sadie**（サディ）は、[大阪出身の](../Page/大阪府.md "wikilink")[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

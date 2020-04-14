@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[シオドア・R・コグスウェル](https://ja.wikipedia.org/wiki/シオドア・R・コグスウェル)から翻訳されています。
 
 
 **シオドア・R・コグスウェル**（Theodore R. Cogswell、[1918年](../Page/1918年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink") - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月3日](../Page/2月3日.md "wikilink")）はアメリカ合衆国の短編[SF作家](../Page/SF作家.md "wikilink")。[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")生まれ。本業は大学教授であった。佳作家だが、代表作「壁の中」*The Wall Around the World* (1953）は有名。[スペイン内戦](../Page/スペイン内戦.md "wikilink")では、共和国側の[エイブラハム・リンカーン旅団に救急車の運転手として従軍した](../Page/国際旅団.md "wikilink")。

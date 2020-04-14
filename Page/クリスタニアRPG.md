@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[クリスタニアRPG](https://ja.wikipedia.org/wiki/クリスタニアRPG)から翻訳されています。
 
 
 **クリスタニアRPG**は、[ファンタジー](../Page/ファンタジー.md "wikilink")世界のクリスタニア大陸において[獣人](../Page/獣人.md "wikilink")となって遊ぶ[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。[グループSNE](../Page/グループSNE.md "wikilink")がデザインしており（世界デザインは[水野良](../Page/水野良.md "wikilink")）、[角川書店](../Page/角川書店.md "wikilink")および[メディアワークス](../Page/メディアワークス.md "wikilink")から出版された。

@@ -1,4 +1,4 @@
-> この記事は[AOIA](https://ja.wikipedia.org/wiki/AOIA)から翻訳されています。
+> この記事は[六甲ランドAOIA](https://ja.wikipedia.org/wiki/六甲ランドAOIA)から翻訳されています。
 
 
 **六甲ランドAOIA**（ろっこうランドアオイア）は、かつて[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[東灘区](../Page/東灘区.md "wikilink")にあった[レジャー施設](https://ja.wikipedia.org/wiki/レジャー施設 "wikilink")である。[セゾングループ](../Page/セゾングループ.md "wikilink")の六甲環境計画（現在は解散。[西洋環境開発](../Page/西洋環境開発.md "wikilink")の子会社）が経営していた。

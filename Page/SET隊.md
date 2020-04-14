@@ -1,4 +1,4 @@
-> この記事は[SET](https://ja.wikipedia.org/wiki/SET)から翻訳されています。
+> この記事は[SET隊](https://ja.wikipedia.org/wiki/SET隊)から翻訳されています。
 
 
 **SET隊**（せったい）は、[1980年代](../Page/1980年代.md "wikilink")後半から[1990年代](../Page/1990年代.md "wikilink")前半にかけて活動したコントユニット。

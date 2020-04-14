@@ -1,4 +1,4 @@
-> この記事は[Kira-kira](https://ja.wikipedia.org/wiki/Kira-kira)から翻訳されています。
+> この記事は[Kira-kira☆](https://ja.wikipedia.org/wiki/Kira-kira☆)から翻訳されています。
 
 
 『**kira-kira☆**』（キラキラ）は、[青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")ラジオで[2006年](../Page/2006年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から放送されている[プロ野球ナイター中継オフ期間限定の](../Page/プロ野球中継.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

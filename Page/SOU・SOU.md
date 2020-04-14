@@ -1,4 +1,4 @@
-> この記事は[SOUSOU](https://ja.wikipedia.org/wiki/SOUSOU)から翻訳されています。
+> この記事は[SOU・SOU](https://ja.wikipedia.org/wiki/SOU・SOU)から翻訳されています。
 
 
 **SOU・SOU**（そうそう）は、[京都](https://ja.wikipedia.org/wiki/京都 "wikilink")の[和装](https://ja.wikipedia.org/wiki/和装 "wikilink")製造販売の[デザインユニット](https://ja.wikipedia.org/wiki/デザインユニット "wikilink")。[地下足袋](https://ja.wikipedia.org/wiki/地下足袋 "wikilink")や[作務衣](../Page/作務衣.md "wikilink")などを得意とする。他、[帽子](../Page/帽子.md "wikilink")、[鞄](../Page/鞄.md "wikilink")など斬新な和のアイテムを創造している。

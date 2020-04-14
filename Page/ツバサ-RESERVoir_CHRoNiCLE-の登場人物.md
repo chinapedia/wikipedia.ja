@@ -1,4 +1,4 @@
-> この記事は[-RESERVoir CHRoNiCLE-](https://ja.wikipedia.org/wiki/-RESERVoir_CHRoNiCLE-)から翻訳されています。
+> この記事は[ツバサ-RESERVoir CHRoNiCLE-の登場人物](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-の登場人物)から翻訳されています。
 
 
 **ツバサ-RESERVoir CHRoNiCLE-の登場人物**では、[CLAMP](../Page/CLAMP.md "wikilink")の漫画『[ツバサ-RESERVoir CHRoNiCLE-](../Page/ツバサ-RESERVoir_CHRoNiCLE-.md "wikilink")』、およびそれを原作とするアニメ『ツバサ・クロニクル〜年代記〜』に登場する登場人物について説明する。作品の設定上、CLAMPの他作品の登場人物も数多く登場しているため、初出となる作品名も併記する。
@@ -322,7 +322,7 @@
 
 ## レコルト国
 
-魔法が一般に認知され、学校で教えられているほど生活に浸透している国。箒で空を飛ぶだけでなく、列車までも魔力で空を飛ぶ。そこの図書館には、開いた人の記憶を次に開いた人に見せる「記憶の本」がある。
+魔法が一般に認知され、学校で教えられているほど生活に浸透している国。箒で空を飛ぶだけでなく、列車までも魔力で空を飛ぶ。そこの図書館には、開いた人の記憶を次に開いた人に見せる「記憶の本」がある。小龍はその「記憶の本」を読んだことをきっかけに黒鋼の過去を知ることになった。
 
   - 司書A、司書B:声 - [柚木涼香](../Page/柚木涼香.md "wikilink")（司書A）、[中塚玲](../Page/中塚玲.md "wikilink")（司書B）
     2人とも中央図書館にいる司書であり、規律に厳しい。
@@ -330,7 +330,7 @@
 
 ## 東京（砂の国）
 
-人がいる所は東京23区くらいしか残っていない。 この世界は『[東京BABYLON](../Page/東京BABYLON.md "wikilink")』や『[X](../Page/X_\(漫画\).md "wikilink")』と同じ世界ではない。神威、昴流、封真については[ツバサ-RESERVoir CHRoNiCLE-の登場人物\#次元を旅する者を参照](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-の登場人物#次元を旅する者 "wikilink")。
+人がいる所は東京23区くらいしか残っていない。 この世界は『[東京BABYLON](../Page/東京BABYLON.md "wikilink")』や『[X](../Page/X_\(漫画\).md "wikilink")』と同じ世界ではない。都庁のメンバーとタワーのメンバーは水を巡って争っていたが、『小狼』たちの行動をきっかけに和解した。神威、昴流、封真については[ツバサ-RESERVoir CHRoNiCLE-の登場人物\#次元を旅する者を参照](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-の登場人物#次元を旅する者 "wikilink")。
 
 ### 都庁のメンバー
 
@@ -387,7 +387,7 @@
 
 転生した写身のさくらを含めた中学生4人が修学旅行で香港に来た。そこでさくらは、同じく転生した写身の小狼と出会う。日本と同じ次元にある（小狼とさくらの息子[『小狼』は](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-のメインキャラクター#『小狼』 "wikilink")、日本に在る**侑子のミセ**へと一人で来られた）。
 
-  - 光、海、風
+  - 光、海、風（ひかる、うみ、ふう）
     3人ともさくらの同級生。光は[天然ボケ](../Page/天然ボケ.md "wikilink")で黒髪、海は光を弄る。
     初出は『[魔法騎士レイアース](../Page/魔法騎士レイアース.md "wikilink")』の獅堂光、龍咲海（りゅうざき うみ）、鳳凰寺風（ほうおうじ ふう）。
 

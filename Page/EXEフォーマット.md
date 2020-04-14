@@ -1,4 +1,4 @@
-> この記事は[EXE](https://ja.wikipedia.org/wiki/EXE)から翻訳されています。
+> この記事は[EXEフォーマット](https://ja.wikipedia.org/wiki/EXEフォーマット)から翻訳されています。
 
 
 **EXEフォーマット**（エグゼフォーマット）とは[MS-DOS](../Page/MS-DOS.md "wikilink")およびその互換・後継である[Windowsの](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[実行ファイル](../Page/実行ファイル.md "wikilink")を格納する[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")である。EXE は"executable"の省略形であり、Windowsプログラムの標準的な[ファイル拡張子](https://ja.wikipedia.org/wiki/ファイル拡張子 "wikilink")である。多くのWindowsユーザーにとって、EXEファイルはWindowsプログラムと同義で".exe"は最も認知されている拡張子のひとつである\[1\]。

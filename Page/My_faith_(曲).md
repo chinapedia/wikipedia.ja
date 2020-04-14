@@ -1,4 +1,4 @@
-> この記事は[My faith \(\)](https://ja.wikipedia.org/wiki/My_faith_\(\))から翻訳されています。
+> この記事は[My faith \(曲\)](https://ja.wikipedia.org/wiki/My_faith_\(曲\))から翻訳されています。
 
 
 『**My faith**』（マイ フェイス）は、[2002年](../Page/2002年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に発売された[day after tomorrowの](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")2枚目のシングル及びDVDシングルである。

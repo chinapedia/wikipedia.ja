@@ -1,4 +1,4 @@
-> この記事は[!!vs](https://ja.wikipedia.org/wiki/!!vs)から翻訳されています。
+> この記事は[南国指令!!スパイvsスパイ](https://ja.wikipedia.org/wiki/南国指令!!スパイvsスパイ)から翻訳されています。
 
 
 『**南国指令\!\!スパイvsスパイ**』（なんごくしれい スパイアンドスパイ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[3月27日](../Page/3月27日.md "wikilink")に[コトブキシステム](../Page/コトブキシステム.md "wikilink")から発売されたファミリーコンピュータ用ソフト。

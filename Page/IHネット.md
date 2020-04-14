@@ -1,4 +1,4 @@
-> この記事は[IH](https://ja.wikipedia.org/wiki/IH)から翻訳されています。
+> この記事は[IHネット](https://ja.wikipedia.org/wiki/IHネット)から翻訳されています。
 
 
 **IHネット**（あいえいちねっと）は[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2009年](../Page/2009年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")の間に実施された、[岩手銀行](../Page/岩手銀行.md "wikilink")・[八戸信用金庫](../Page/八戸信用金庫.md "wikilink")（現：[青い森信用金庫](https://ja.wikipedia.org/wiki/青い森信用金庫 "wikilink")）相互間の[ATM・CD利用手数料無料提携サービスのことである](../Page/現金自動預け払い機.md "wikilink")。

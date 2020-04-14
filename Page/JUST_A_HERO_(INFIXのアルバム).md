@@ -1,4 +1,4 @@
-> この記事は[JUST A HERO \(INFIX\)](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(INFIX\))から翻訳されています。
+> この記事は[JUST A HERO \(INFIXのアルバム\)](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(INFIXのアルバム\))から翻訳されています。
 
 
 **JUST A HERO**（ジャスト・ア・ヒーロー）は[1992年](../Page/1992年.md "wikilink")11月21日に[アポロンより発売された](../Page/バンダイ・ミュージックエンタテインメント.md "wikilink")**[INFIX](https://ja.wikipedia.org/wiki/infix "wikilink")**の[アルバム](../Page/アルバム.md "wikilink")[CDである](../Page/コンパクトディスク.md "wikilink")。

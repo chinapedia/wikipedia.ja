@@ -1,4 +1,4 @@
-> この記事は[GOGO](https://ja.wikipedia.org/wiki/GOGO)から翻訳されています。
+> この記事は[GOGOサンデー](https://ja.wikipedia.org/wiki/GOGOサンデー)から翻訳されています。
 
 
 『**GOGOサンデー**』（ゴーゴーサンデー）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで[TBS系列局が編成していた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")である。編成時間は毎週日曜 19:30 - 20:54 （[日本標準時](../Page/日本標準時.md "wikilink")）。

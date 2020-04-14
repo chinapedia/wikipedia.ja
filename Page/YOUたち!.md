@@ -1,4 +1,4 @@
-> この記事は[YOU!](https://ja.wikipedia.org/wiki/YOU!)から翻訳されています。
+> この記事は[YOUたち!](https://ja.wikipedia.org/wiki/YOUたち!)から翻訳されています。
 
 
 『**YOUたち\!**』は、[2006年](../Page/2006年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")\[1\]から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[日本テレビ系で放送された](../Page/日本テレビ放送網.md "wikilink")[トーク](../Page/トーク番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")の[中丸雄一](../Page/中丸雄一.md "wikilink")と[田中聖](../Page/田中聖.md "wikilink")\[2\]、[オセロの](https://ja.wikipedia.org/wiki/オセロ_\(お笑いコンビ\) "wikilink")[中島知子](https://ja.wikipedia.org/wiki/中島知子 "wikilink")が[MCを務める](../Page/司会.md "wikilink")。

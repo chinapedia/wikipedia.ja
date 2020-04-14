@@ -1,4 +1,4 @@
-> この記事は[BOY+2](https://ja.wikipedia.org/wiki/BOY+2)から翻訳されています。
+> この記事は[BOY+愛2](https://ja.wikipedia.org/wiki/BOY+愛2)から翻訳されています。
 
 
 『**BOY+愛<sup>2</sup>**』（ボーイプラスあいのじじょう）は[1988年](../Page/1988年.md "wikilink")8月に発売された[山川純一](../Page/山川純一.md "wikilink")の[単行本](../Page/単行本.md "wikilink")「ワクワクBOY」に収録されている一話完結の漫画である。

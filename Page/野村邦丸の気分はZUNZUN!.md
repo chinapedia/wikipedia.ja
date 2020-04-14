@@ -1,4 +1,4 @@
-> この記事は[ZUNZUN!](https://ja.wikipedia.org/wiki/ZUNZUN!)から翻訳されています。
+> この記事は[野村邦丸の気分はZUNZUN!](https://ja.wikipedia.org/wiki/野村邦丸の気分はZUNZUN!)から翻訳されています。
 
 
 **野村邦丸の気分はZUNZUN\!**（のむらくにまるのきぶんはずんずん）は[文化放送](../Page/文化放送.md "wikilink")で[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")まで放送された平日のワイド番組。この時間帯前番組の「[小倉智昭の夕焼けアタックル](../Page/小倉智昭の夕焼けアタックル.md "wikilink")」からいくつかコーナーを引き継いでいる。放送時間は16:00 - 17:50（[2001年](../Page/2001年.md "wikilink")10月 - [2002年](../Page/2002年.md "wikilink")3月は18:30まで）。

@@ -1,4 +1,4 @@
-> この記事は[vs \(\)](https://ja.wikipedia.org/wiki/vs_\(\))から翻訳されています。
+> この記事は[スパイvsスパイ \(コンピュータゲーム\)](https://ja.wikipedia.org/wiki/スパイvsスパイ_\(コンピュータゲーム\))から翻訳されています。
 
 
 『**スパイvsスパイ**』（SPY vs SPY、スパイ アンド スパイ）は、[1984年](../Page/1984年.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のファーストスターソフトウェアから発売された[Atari 8ビット・コンピュータ用](../Page/Atari_8ビット・コンピュータ.md "wikilink")[固定画面アクションゲームおよび](../Page/アクションゲーム.md "wikilink")[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")である。

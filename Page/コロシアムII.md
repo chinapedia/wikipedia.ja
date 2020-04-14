@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[コロシアムII](https://ja.wikipedia.org/wiki/コロシアムII)から翻訳されています。
 
 
 **コロシアム II**\[1\]（Colosseum II）は、[イングランド](../Page/イングランド.md "wikilink")出身の[フュージョン](../Page/フュージョン_\(音楽\).md "wikilink") / [プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

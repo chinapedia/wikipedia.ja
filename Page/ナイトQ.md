@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[ナイトQ](https://ja.wikipedia.org/wiki/ナイトQ)から翻訳されています。
 
 
 **ナイトQ**（ナイトキュー）は、いずれも[朝日放送](../Page/朝日放送テレビ.md "wikilink") (ABC) で放送されていた番組。

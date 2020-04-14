@@ -1,4 +1,4 @@
-> この記事は[TAP](https://ja.wikipedia.org/wiki/TAP)から翻訳されています。
+> この記事は[TAP進学教室](https://ja.wikipedia.org/wiki/TAP進学教室)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:TAP_logo_notbig.jpg "wikilink") **TAP進学教室**（ティーエーピーしんがくきょうしつ、以下TAP）は、かつて[東京都](../Page/東京都.md "wikilink")に存在した[進学塾](https://ja.wikipedia.org/wiki/進学塾 "wikilink")。株式会社中央総合教育研究所が運営していた。主に小中学生を対象とし、集団授業と個別授業を展開していた。通称「**タップ**」。キャッチコピーは「入試で燃え尽きない頭脳の育成」であった。設立時の経営母体は田中某氏が設立したTAPスタジオという小さな印刷関連会社で、TAPとはそれぞれ「Technical（テクニカル）」「Art（アート）」「Print（プリント）」の意味。

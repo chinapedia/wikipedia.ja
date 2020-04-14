@@ -1,4 +1,4 @@
-> この記事は[RR](https://ja.wikipedia.org/wiki/RR)から翻訳されています。
+> この記事は[こと座RR型変光星](https://ja.wikipedia.org/wiki/こと座RR型変光星)から翻訳されています。
 
 
 **こと座RR型変光星**（ことざRRがたへんこうせい、RR Lyrae variable）は、[脈動変光星](../Page/脈動変光星.md "wikilink")の一種である。[天文学](../Page/天文学.md "wikilink")で距離を測定する際の[標準光源としてしばしば用いられる](https://ja.wikipedia.org/wiki/標準光源_\(天文\) "wikilink")。

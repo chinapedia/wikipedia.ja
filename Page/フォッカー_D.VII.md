@@ -1,4 +1,4 @@
-> この記事は[ D.VII](https://ja.wikipedia.org/wiki/_D.VII)から翻訳されています。
+> この記事は[フォッカー D.VII](https://ja.wikipedia.org/wiki/フォッカー_D.VII)から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=[22px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_the_German_Empire.svg "wikilink") フォッカー D.VII /  | 画像=<File:D7f.jpg> | キャプション=ドイツ空軍のフォッカー D.VII(F) | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者=[22px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_the_German_Empire.svg "wikilink") [ラインホルト・プラッツ](https://ja.wikipedia.org/wiki/ラインホルト・プラッツ "wikilink") | 製造者=[22px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_the_German_Empire.svg "wikilink") [フォッカー](../Page/フォッカー.md "wikilink")・フルークツォイクヴェルケ | 運用者=[22px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_the_German_Empire.svg "wikilink") [ドイツ空軍](../Page/ドイツ空軍.md "wikilink") | 運用者 more= | 初飛行年月日=[1918年](../Page/1918年.md "wikilink")1月 | 生産数=約3200機 | 生産開始年月日=1918年 | 運用開始年月日=1918年 | 退役年月日= | 運用状況=退役 | ユニットコスト= }} **フォッカー D.VII**（[ドイツ語](../Page/ドイツ語.md "wikilink"):****<small>フォッカー・デー・ズィーベン</small>）は、[ドイツ帝国](../Page/ドイツ帝国.md "wikilink")の[フォッカー](../Page/フォッカー.md "wikilink")社で開発された[戦闘機](../Page/戦闘機.md "wikilink")である。

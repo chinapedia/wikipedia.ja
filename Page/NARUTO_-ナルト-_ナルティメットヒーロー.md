@@ -1,7 +1,7 @@
-> この記事は[NARUTO -- ](https://ja.wikipedia.org/wiki/NARUTO_--_)から翻訳されています。
+> この記事は[NARUTO -ナルト- ナルティメットヒーロー](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_ナルティメットヒーロー)から翻訳されています。
 
 
-『**NARUTO-ナルト- ナルティメットヒーロー**』（NARUTO Naltimate Hero）は、[サイバーコネクトツー](../Page/サイバーコネクトツー.md "wikilink")開発・[バンダイ](../Page/バンダイナムコエンターテインメント.md "wikilink")（当時）発売による[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**NARUTO-ナルト- ナルティメットヒーロー**』（NARUTO Naltimate Hero）は、[サイバーコネクトツー](../Page/サイバーコネクトツー.md "wikilink")開発・バンダイ、バンダイナムコゲームス、および[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")発売による[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
 
 『ナルティメット』の由来は、「ナルト」と「アルティメット」を組み合わせた造語である。
 

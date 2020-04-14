@@ -1,4 +1,4 @@
-> この記事は[NAHA](https://ja.wikipedia.org/wiki/NAHA)から翻訳されています。
+> この記事は[NAHAマラソン](https://ja.wikipedia.org/wiki/NAHAマラソン)から翻訳されています。
 
 
 **NAHAマラソン**（なはマラソン）とは、毎年[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")の第1[日曜日](../Page/日曜日.md "wikilink")に[沖縄県](../Page/沖縄県.md "wikilink")[那覇市](../Page/那覇市.md "wikilink")・[豊見城市](../Page/豊見城市.md "wikilink")・[糸満市](../Page/糸満市.md "wikilink")・[南風原町](../Page/南風原町.md "wikilink")・[八重瀬町](../Page/八重瀬町.md "wikilink")の[沖縄本島](../Page/沖縄本島.md "wikilink")南西部5市町をコース（42.195km）に開催され、日本の中四国地方以西では最大の市民マラソン大会である。テーマは「**太陽と海とジョガーの祭典**」。

@@ -1,4 +1,4 @@
-> この記事は[Wii](https://ja.wikipedia.org/wiki/Wii)から翻訳されています。
+> この記事は[はじめてのWii](https://ja.wikipedia.org/wiki/はじめてのWii)から翻訳されています。
 
 
 『**はじめてのWii**』（はじめてのウィー）は、[任天堂](../Page/任天堂.md "wikilink")より発売された[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用の[ミニゲーム](../Page/ミニゲーム.md "wikilink")集[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

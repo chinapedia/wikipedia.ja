@@ -1,4 +1,4 @@
-> この記事は[FIBA](https://ja.wikipedia.org/wiki/FIBA)から翻訳されています。
+> この記事は[FIBA男子アジアカップ](https://ja.wikipedia.org/wiki/FIBA男子アジアカップ)から翻訳されています。
 
 
 **FIBA男子アジアカップ**（**FIBA Asia Cup**）は、[FIBAアジア](../Page/FIBAアジア.md "wikilink")が主催する[バスケットボール](../Page/バスケットボール.md "wikilink")の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[大陸選手権である](https://ja.wikipedia.org/wiki/大陸選手権_\(バスケットボール\) "wikilink")。FIBAアジア加盟国すべてに参加資格が与えられる。以前は Asian Basketball Confederation Championship、略称**ABC**。女子の大会については[FIBA女子アジアカップ](https://ja.wikipedia.org/wiki/FIBA女子アジアカップ "wikilink")を参照せよ。

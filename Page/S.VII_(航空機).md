@@ -1,4 +1,4 @@
-> この記事は[S.VII \(\)](https://ja.wikipedia.org/wiki/S.VII_\(\))から翻訳されています。
+> この記事は[S.VII \(航空機\)](https://ja.wikipedia.org/wiki/S.VII_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=   | 画像=Image:SPAD_SVII_4.jpg | キャプション=フランス空軍のSPAD S.VII | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者=  ルイ・ベシュロー | 製造者=  [スパッド社](../Page/SPAD_\(航空機メーカー\).md "wikilink") | 運用者=  [フランス空軍](../Page/フランス空軍.md "wikilink")他 | 運用者 more= | 初飛行年月日=[1916年](../Page/1916年.md "wikilink")4月 | 生産数=5600 機 | 生産開始年月日= | 運用開始年月日= | 退役年月日=[1928年](../Page/1928年.md "wikilink")(フランス空軍) | 運用状況=退役 | ユニットコスト= }} **SPAD S.VII**(**SPAD VII**、**S.VII**、**SPAD 7**などとも)は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[スパッド社が開発した](../Page/SPAD_\(航空機メーカー\).md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。高速戦闘機として、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")やその後の各地の戦闘で使用された。

@@ -1,4 +1,4 @@
-> この記事は[Honeywell 200](https://ja.wikipedia.org/wiki/Honeywell_200)から翻訳されています。
+> この記事は[Honeywell 200シリーズ](https://ja.wikipedia.org/wiki/Honeywell_200シリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:H200a.jpg "wikilink") 1402 パンチカードリーダ/パンチャー\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:H200c.jpg "wikilink") **Honeywell 200シリーズ**は[1960年代](../Page/1960年代.md "wikilink")に[ハネウェル](../Page/ハネウェル.md "wikilink")社が製造販売したキャラクター指向の2アドレス商用[コンピュータ](../Page/コンピュータ.md "wikilink")である。後の 1200、2200、4200、8200などの機種の基本となった。H200と略記される。

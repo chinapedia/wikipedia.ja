@@ -1,4 +1,4 @@
-> この記事は[Happiness3 Loneliness3](https://ja.wikipedia.org/wiki/Happiness3_Loneliness3)から翻訳されています。
+> この記事は[Happiness×3 Loneliness×3](https://ja.wikipedia.org/wiki/Happiness×3_Loneliness×3)から翻訳されています。
 
 
 「**Happiness×3 Loneliness×3**」（ハピネス・ハピネス・ハピネス ロンリネス・ロンリネス・ロンリネス）は、TM NETWORKの31枚目のシングル。

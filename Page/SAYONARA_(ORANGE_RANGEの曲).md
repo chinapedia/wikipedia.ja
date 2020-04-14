@@ -1,4 +1,4 @@
-> この記事は[SAYONARA \(ORANGE RANGE\)](https://ja.wikipedia.org/wiki/SAYONARA_\(ORANGE_RANGE\))から翻訳されています。
+> この記事は[SAYONARA \(ORANGE RANGEの曲\)](https://ja.wikipedia.org/wiki/SAYONARA_\(ORANGE_RANGEの曲\))から翻訳されています。
 
 
 「**SAYONARA**」（さよなら）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の [ミクスチャー](../Page/ミクスチャー・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ORANGE RANGEの通算](../Page/ORANGE_RANGE.md "wikilink")15枚目の[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[E-](https://ja.wikipedia.org/wiki/E-)から翻訳されています。
+> この記事は[E-文書法](https://ja.wikipedia.org/wiki/E-文書法)から翻訳されています。
 
 
 **e-文書法**（**いーぶんしょほう**）は[平成](../Page/平成.md "wikilink")16年 ([2004年](../Page/2004年.md "wikilink")) 11月に制定、翌年4月に施行された「民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律」（平成16年法律第149号）と「民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律の施行に伴う関係法律の整備等に関する法律」（平成16年法律第150号）の総称。「電子文書法」ともいう。
@@ -39,12 +39,9 @@ e-文書法によって、財務・税務関係の帳票類や取締役会議事
   - [e-文書法の施行について](https://www.kantei.go.jp/jp/singi/it2/others/e-bunsyou.html) - 首相官邸
   - [民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律](https://www.kantei.go.jp/jp/singi/it2/hourei/16-149gou/honbun.html) - 首相官邸
   - e文書法の活用術 (ITmediaエンタープライズ連載全4回：2005/12/9 - 2006/1/17)
-
-<!-- end list -->
-
-1.  [誤解から生まれるe文書法の落とし穴](http://www.itmedia.co.jp/enterprise/articles/0512/09/news022.html)
-2.  [e文書法は電子化のための金科玉条ではない](http://www.itmedia.co.jp/enterprise/articles/0512/19/news002.html)
-3.  [スキャンした紙文書に改ざんはないといえる？](http://www.itmedia.co.jp/enterprise/articles/0601/17/news004.html)（補足説明：[スキャンした電子文書の見読性](http://yosihiro.com/doc/tamper-document/index.html)）
-4.  [文書の電子化に踏み切る前に知っておきたい電子文書の特性](http://www.itmedia.co.jp/enterprise/articles/0601/30/news002.html)
+    1.  [誤解から生まれるe文書法の落とし穴](http://www.itmedia.co.jp/enterprise/articles/0512/09/news022.html)
+    2.  [e文書法は電子化のための金科玉条ではない](http://www.itmedia.co.jp/enterprise/articles/0512/19/news002.html)
+    3.  [スキャンした紙文書に改ざんはないといえる？](http://www.itmedia.co.jp/enterprise/articles/0601/17/news004.html)（補足説明：[スキャンした電子文書の見読性](http://yosihiro.com/doc/tamper-document/index.html)）
+    4.  [文書の電子化に踏み切る前に知っておきたい電子文書の特性](http://www.itmedia.co.jp/enterprise/articles/0601/30/news002.html)
 
 [Category:日本の法律](https://ja.wikipedia.org/wiki/Category:日本の法律 "wikilink") [Category:文書](https://ja.wikipedia.org/wiki/Category:文書 "wikilink") [Category:媒体](https://ja.wikipedia.org/wiki/Category:媒体 "wikilink") [Category:日本の情報法](https://ja.wikipedia.org/wiki/Category:日本の情報法 "wikilink")

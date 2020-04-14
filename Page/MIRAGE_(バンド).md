@@ -1,4 +1,4 @@
-> この記事は[MIRAGE \(\)](https://ja.wikipedia.org/wiki/MIRAGE_\(\))から翻訳されています。
+> この記事は[MIRAGE \(バンド\)](https://ja.wikipedia.org/wiki/MIRAGE_\(バンド\))から翻訳されています。
 
 
 **MIRAGE**（ミラージュ、1997年 - 2000年）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド。[Matina](../Page/Matina.md "wikilink")所属。[La:Sadie's解散後](../Page/La;Sadie's.md "wikilink")、[KISAKI](../Page/KISAKI.md "wikilink")によって結成された。

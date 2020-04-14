@@ -1,4 +1,4 @@
-> この記事は[-GAIJIN-](https://ja.wikipedia.org/wiki/-GAIJIN-)から翻訳されています。
+> この記事は[街刃-GAIJIN-](https://ja.wikipedia.org/wiki/街刃-GAIJIN-)から翻訳されています。
 
 
 『**街刃-GAIJIN-**』（がいじん）は、[天辰公暸](https://ja.wikipedia.org/wiki/天辰公暸 "wikilink")によるサイキックアクション[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。「[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")」[2006年](../Page/2006年.md "wikilink")10号（2006年2月8日）から、2ヶ月の連載休止を挟み、同年49号（2006年11月8日）まで連載されていた。全28話、全4巻。

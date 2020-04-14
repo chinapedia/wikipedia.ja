@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[森村あすか \(AV女優\)](https://ja.wikipedia.org/wiki/森村あすか_\(AV女優\))から翻訳されています。
 
 
 **森村 あすか**（もりむら あすか、[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[5月16日](../Page/5月16日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ Watch](https://ja.wikipedia.org/wiki/_Watch)から翻訳されています。
+> この記事は[ケータイ Watch](https://ja.wikipedia.org/wiki/ケータイ_Watch)から翻訳されています。
 
 
 **ケータイWatch**は、[Impress Watchのひとつで](../Page/Impress_Watch.md "wikilink")、[携帯電話](../Page/携帯電話.md "wikilink")・[PHS](../Page/PHS.md "wikilink")・[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")関連の[ニュース](../Page/ニュース.md "wikilink")を取り扱う[ウェブサイト](../Page/ウェブサイト.md "wikilink")である。

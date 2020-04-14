@@ -1,4 +1,4 @@
-> この記事は[TCG](https://ja.wikipedia.org/wiki/TCG)から翻訳されています。
+> この記事は[央華封神TCG](https://ja.wikipedia.org/wiki/央華封神TCG)から翻訳されています。
 
 
 『**央華封神TCG**』（おうかほうしんトレーディングカードゲーム）は、『[封神演義](../Page/封神演義.md "wikilink")』などをモデルとした古代中国風の[ファンタジー](../Page/ファンタジー.md "wikilink")世界・央華（おうか）において[仙人](../Page/仙人.md "wikilink")となって対戦する[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")である。発行は[メディアワークス](../Page/メディアワークス.md "wikilink")、発売は[主婦の友社](../Page/主婦の友社.md "wikilink")。

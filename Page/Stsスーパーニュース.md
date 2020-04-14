@@ -1,4 +1,4 @@
-> この記事は[Sts](https://ja.wikipedia.org/wiki/Sts)から翻訳されています。
+> この記事は[Stsスーパーニュース](https://ja.wikipedia.org/wiki/Stsスーパーニュース)から翻訳されています。
 
 
 『**SAGATVスーパーニュース**』（サガテレビ スーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*SAGA TV Super NEWS*）は、[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")で夕方に放送されていた[佐賀県](../Page/佐賀県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[ LAS \(\)](https://ja.wikipedia.org/wiki/_LAS_\(\))から翻訳されています。
+> この記事は[ヴォワザン LAS \(航空機\)](https://ja.wikipedia.org/wiki/ヴォワザン_LAS_\(航空機\))から翻訳されています。
 
 
 **ヴォワザン LAS**（[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink"):****、またはヴォワザン V）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で開発された[推進式複座](../Page/推進式_\(航空機\).md "wikilink")[複葉軽](../Page/複葉機.md "wikilink")[爆撃機](../Page/爆撃機.md "wikilink")/[偵察機](../Page/偵察機.md "wikilink")である。

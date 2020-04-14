@@ -1,4 +1,4 @@
-> この記事は[FINA](https://ja.wikipedia.org/wiki/FINA)から翻訳されています。
+> この記事は[FINAシンクロワールドカップ](https://ja.wikipedia.org/wiki/FINAシンクロワールドカップ)から翻訳されています。
 
 
 **FINAシンクロナイズドスイミングワールドカップ**（FINA Synchronized Swimming World Cup）とは、2014年まで開催されていた[国際水泳連盟](../Page/国際水泳連盟.md "wikilink")が開催する[アーティスティックスイミング](https://ja.wikipedia.org/wiki/アーティスティックスイミング "wikilink")3大大会の一つ。

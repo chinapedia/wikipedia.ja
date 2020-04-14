@@ -1,4 +1,4 @@
-> この記事は[IPod](https://ja.wikipedia.org/wiki/IPod)から翻訳されています。
+> この記事は[IPodのゲームタイトル一覧](https://ja.wikipedia.org/wiki/IPodのゲームタイトル一覧)から翻訳されています。
 
 
 **iPodのゲームタイトル一覧**（アイポッドのゲームタイトルいちらん）ではクリックホイール付き[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink")対応として発売した[ゲームソフト](../Page/ゲームソフト.md "wikilink")を発売順に列記する（発売日は日本時間）。

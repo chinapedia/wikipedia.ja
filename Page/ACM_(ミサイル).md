@@ -1,4 +1,4 @@
-> この記事は[ACM \(\)](https://ja.wikipedia.org/wiki/ACM_\(\))から翻訳されています。
+> この記事は[ACM \(ミサイル\)](https://ja.wikipedia.org/wiki/ACM_\(ミサイル\))から翻訳されています。
 
 
 | AGM-129A/B/C ACM                                                       |

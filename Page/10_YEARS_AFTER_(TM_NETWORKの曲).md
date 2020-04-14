@@ -1,4 +1,4 @@
-> この記事は[10 YEARS AFTER \(TM NETWORK\)](https://ja.wikipedia.org/wiki/10_YEARS_AFTER_\(TM_NETWORK\))から翻訳されています。
+> この記事は[10 YEARS AFTER \(TM NETWORKの曲\)](https://ja.wikipedia.org/wiki/10_YEARS_AFTER_\(TM_NETWORKの曲\))から翻訳されています。
 
 
 「**10 YEARS AFTER**」（テン・イヤーズ・アフター）は、[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")30枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[CBC制作昼の連続ドラマ](https://ja.wikipedia.org/wiki/CBC制作昼の連続ドラマ)から翻訳されています。
 
 
 **CBC制作昼の連続ドラマ**は、[中部日本放送](../Page/中部日本放送.md "wikilink")（現：[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")）制作で、[TBS系列](../Page/TBSテレビ.md "wikilink")（[JNN](https://ja.wikipedia.org/wiki/JNN "wikilink")）向けに、1971年4月5日から1992年4月3日まで、月 - 金曜の毎日（年末年始は除くが、祝日は放送）、13:45 - 14:00（[日本標準時](../Page/日本標準時.md "wikilink")）に放送されていた[帯](../Page/帯ドラマ.md "wikilink")[ドラマシリーズのタイトルである](../Page/テレビドラマ.md "wikilink")。

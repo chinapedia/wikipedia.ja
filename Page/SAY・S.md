@@ -1,4 +1,4 @@
-> この記事は[SAYS](https://ja.wikipedia.org/wiki/SAYS)から翻訳されています。
+> この記事は[SAY・S](https://ja.wikipedia.org/wiki/SAY・S)から翻訳されています。
 
 
 **SAY・S**（セイズ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")で、[光GENJI](../Page/光GENJI.md "wikilink")の派生ユニットである。メンバーは[諸星和己](../Page/諸星和己.md "wikilink")を除く[GENJIのメンバー](../Page/光GENJI.md "wikilink")4人によって構成される。

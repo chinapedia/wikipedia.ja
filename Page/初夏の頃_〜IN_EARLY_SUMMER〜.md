@@ -1,4 +1,4 @@
-> この記事は[ IN EARLY SUMMER](https://ja.wikipedia.org/wiki/_IN_EARLY_SUMMER)から翻訳されています。
+> この記事は[初夏の頃 〜IN EARLY SUMMER〜](https://ja.wikipedia.org/wiki/初夏の頃_〜IN_EARLY_SUMMER〜)から翻訳されています。
 
 
 『**初夏の頃 〜IN EARLY SUMMER〜**』（しょかのころ イン・アーリー・サマー）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")に発売された[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の[セルフカバー](../Page/セルフカバー.md "wikilink")[アルバム](../Page/コンピレーション・アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[NS](https://ja.wikipedia.org/wiki/NS)から翻訳されています。
+> この記事は[ホンダ・NS](https://ja.wikipedia.org/wiki/ホンダ・NS)から翻訳されています。
 
 
 **NS**（エヌエス）とは、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造発売した[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ[商標](../Page/商標.md "wikilink")である。

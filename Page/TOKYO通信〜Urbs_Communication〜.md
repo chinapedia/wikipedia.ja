@@ -1,4 +1,4 @@
-> この記事は[TOKYOUrbs Communication](https://ja.wikipedia.org/wiki/TOKYOUrbs_Communication)から翻訳されています。
+> この記事は[TOKYO通信〜Urbs Communication〜](https://ja.wikipedia.org/wiki/TOKYO通信〜Urbs_Communication〜)から翻訳されています。
 
 
 **TOKYO通信〜Urbs Communication〜**（とうきょうつうしん アーブス コミュニケーション）は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")11th[シングル](../Page/シングル.md "wikilink")である。
@@ -38,4 +38,4 @@
   - [2006年の音楽](../Page/2006年の音楽.md "wikilink")
   - [スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")
 
-[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink")
+[Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:SOUL'd_OUTの楽曲](https://ja.wikipedia.org/wiki/Category:SOUL'd_OUTの楽曲 "wikilink") [Category:東京を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:東京を題材とした楽曲 "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

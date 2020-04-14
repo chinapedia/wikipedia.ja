@@ -1,4 +1,4 @@
-> この記事は[INVIO!](https://ja.wikipedia.org/wiki/INVIO!)から翻訳されています。
+> この記事は[フットサルラジオINVIO!](https://ja.wikipedia.org/wiki/フットサルラジオINVIO!)から翻訳されています。
 
 
 『**フットサルラジオINVIO\!**』（ふっとさるらじおいんびーお）は、「[日経ラジオ社](../Page/日経ラジオ社.md "wikilink")（ラジオNIKKEI）」が、2004年4月2日からレギュラー放送を開始したラジオ番組。

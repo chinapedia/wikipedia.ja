@@ -1,4 +1,4 @@
-> この記事は[AERU](https://ja.wikipedia.org/wiki/AERU)から翻訳されています。
+> この記事は[うらかわ優駿ビレッジAERU](https://ja.wikipedia.org/wiki/うらかわ優駿ビレッジAERU)から翻訳されています。
 
 
 [Urakawa-aeru-welcome_center.JPG](https://ja.wikipedia.org/wiki/File:Urakawa-aeru-welcome_center.JPG "fig:Urakawa-aeru-welcome_center.JPG") [Urakawa-aeru-hobokujyo01.JPG](https://ja.wikipedia.org/wiki/File:Urakawa-aeru-hobokujyo01.JPG "fig:Urakawa-aeru-hobokujyo01.JPG") **うらかわ優駿ビレッジAERU**（うらかわゆうしゅんビレッジアエル）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[浦河郡](../Page/浦河郡.md "wikilink")[浦河町](../Page/浦河町.md "wikilink")にある総合保養施設で、「うらかわ優駿の里公園」内に立地する。[第三セクター](../Page/第三セクター.md "wikilink")（浦河町など出資）のうらかわ優駿の里振興株式会社が運営にあたっている。

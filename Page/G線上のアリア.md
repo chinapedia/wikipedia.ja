@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[G線上のアリア](https://ja.wikipedia.org/wiki/G線上のアリア)から翻訳されています。
 
 
 「**G線上のアリア**」（ゲーせんじょうのアリア\[1\]、ジーせんじょうのアリア。，）は、[ヨハン・ゼバスティアン・バッハ](../Page/ヨハン・ゼバスティアン・バッハ.md "wikilink")が作曲した『**[管弦楽組曲](../Page/管弦楽組曲.md "wikilink")第3番ニ長調 [BWV](https://ja.wikipedia.org/wiki/BWV "wikilink")1068**』の第2曲「[アリア](../Page/アリア.md "wikilink")（[エール](https://ja.wikipedia.org/wiki/エール_\(クラシック音楽\) "wikilink")）」を、[ヴァイオリニスト](../Page/ヴァイオリニスト.md "wikilink")の[アウグスト・ウィルヘルミ](../Page/アウグスト・ウィルヘルミ.md "wikilink")が[ピアノ](../Page/ピアノ.md "wikilink")伴奏付きの[ヴァイオリン](../Page/ヴァイオリン.md "wikilink")独奏のために[編曲](../Page/編曲.md "wikilink")したものの通称。

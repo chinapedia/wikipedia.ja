@@ -1,4 +1,4 @@
-> この記事は[ATP](https://ja.wikipedia.org/wiki/ATP)から翻訳されています。
+> この記事は[日本ATPユーザグループ](https://ja.wikipedia.org/wiki/日本ATPユーザグループ)から翻訳されています。
 
 
 **日本ATPユーザグループ**（にほんえいていぴいユーザグループ、略称：JAUG）は、日本及び東アジアにおけるATP（Alternative Transients Program）ライセンスの管理、プログラム等のリソース配布の簡素化・迅速化及び導入支援、ATP開発・保守の協力を目的として、1997年11月に発足した。

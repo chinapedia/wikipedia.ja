@@ -1,4 +1,4 @@
-> この記事は[OKI \(\)](https://ja.wikipedia.org/wiki/OKI_\(\))から翻訳されています。
+> この記事は[OKI \(ミュージシャン\)](https://ja.wikipedia.org/wiki/OKI_\(ミュージシャン\))から翻訳されています。
 
 
 **OKI**（オキ、加納 沖\[1\]、1957年\[2\]－）[樺太](../Page/樺太.md "wikilink")[アイヌ](../Page/アイヌ.md "wikilink")の伝統弦楽器[トンコリ](../Page/トンコリ.md "wikilink")奏者\[3\]\[4\]。

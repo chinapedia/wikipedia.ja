@@ -1,4 +1,4 @@
-> この記事は[Fairyland \(\)](https://ja.wikipedia.org/wiki/Fairyland_\(\))から翻訳されています。
+> この記事は[Fairyland \(小柳ゆきの曲\)](https://ja.wikipedia.org/wiki/Fairyland_\(小柳ゆきの曲\))から翻訳されています。
 
 
 「**fairyland**」（フェアリーランド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")歌手、[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に発売。発売元は[ドリーム・マシーン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。

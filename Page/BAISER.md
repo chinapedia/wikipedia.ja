@@ -16,18 +16,50 @@
 ## メンバー
 
   - 紫 -YUKARI-（Vocal）
-  - BAISER→Endorphine
-  - バンドのリーダーであり、メインコンポーザー。彼の創る世界観は歌謡曲じみたメロディーで線の細いバンドに思われがちではあるが、各楽器隊の演奏は安定していて且つ自己主張も激しい。バンドとしてもかなりアグレッシブな存在でアルバムではPOPな曲、HARDな曲、マニアックな曲、煽り倒す曲がバランス良く共存している。解散後Endorphineを結成するが、解散した。現在は結婚しており、フリーウィルでプロデューサーとして活動している。
+
+<!-- end list -->
+
+  -
+    BAISER→Endorphine
+    バンドのリーダーであり、メインコンポーザー。彼の創る世界観は歌謡曲じみたメロディーで線の細いバンドに思われがちではあるが、各楽器隊の演奏は安定していて且つ自己主張も激しい。バンドとしてもかなりアグレッシブな存在でアルバムではPOPな曲、HARDな曲、マニアックな曲、煽り倒す曲がバランス良く共存している。解散後Endorphineを結成するが、解散した。現在は結婚しており、フリーウィルでプロデューサーとして活動している。
+
+<!-- end list -->
+
   - 泰祐 -SHAISUKE-（Bass）
-  - Blanche(Ba)→PENICILLIN(Gt)→Deshabillz(Ba SHAISUKE)→BAISER(泰祐-SHAISUKE-)→Swallowtail(taisuke) 
-  - 灰二脱退後に1997年に加入。前所属バンドはDeshabillz。解散後は桂と零と共にSwallowtailを結成するが、2001年7月に死去。
+
+<!-- end list -->
+
+  -
+    Blanche(Ba)→PENICILLIN(Gt)→Deshabillz(Ba SHAISUKE)→BAISER(泰祐-SHAISUKE-)→Swallowtail(taisuke) 
+    灰二脱退後に1997年に加入。前所属バンドはDeshabillz。解散後は桂と零と共にSwallowtailを結成するが、2001年7月に死去。
+
+<!-- end list -->
+
   - 桂 -KATSURA-（Drums）
-  - SHAZNA→BAISER(桂) →Swallowtail(katsura) →Vinett(katsura)→Cannival Method(Katsura)
-  - 前メンバー俊美脱退後に泰祐と共に加入。解散後はSwallowtailを結成。いくつかのインディーズバンドを活動した後、音楽活動を引退。現在は結婚し子供もおり、野球をやっている。
+
+<!-- end list -->
+
+  -
+    SHAZNA→BAISER(桂) →Swallowtail(katsura) →Vinett(katsura)→Cannival Method(Katsura)
+    前メンバー俊美脱退後に泰祐と共に加入。解散後はSwallowtailを結成。いくつかのインディーズバンドを活動した後、音楽活動を引退。現在は結婚し子供もおり、野球をやっている。
+
+<!-- end list -->
+
   - 水月 -MIZUKI-（Guitar)
-  - Iris→BAISER→Endorphine 
+
+<!-- end list -->
+
+  -
+    Iris→BAISER→Endorphine 
+
+<!-- end list -->
+
   - 零 -REI-（Synth guitar）
-  - Iris→BAISER(Gt.零-REI-)→Swallowtail(Vo.sin)
+
+<!-- end list -->
+
+  -
+    Iris→BAISER(Gt.零-REI-)→Swallowtail(Vo.sin)
 
 ### 旧メンバー
 

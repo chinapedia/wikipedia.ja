@@ -1,4 +1,4 @@
-> この記事は[SE](https://ja.wikipedia.org/wiki/SE)から翻訳されています。
+> この記事は[S・E・ヒントン](https://ja.wikipedia.org/wiki/S・E・ヒントン)から翻訳されています。
 
 
 **S・E・ヒントン**（**スーザン・エロイーズ・ヒントン**、Susan Eloise Hinton, [1948年](../Page/1948年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink") - \[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の小説家。[オクラホマ州](../Page/オクラホマ州.md "wikilink")[タルサ出身](../Page/タルサ_\(オクラホマ州\).md "wikilink")。

@@ -7,7 +7,7 @@
 
   - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[めざましどようび](../Page/めざましどようび.md "wikilink")』テーマソングとして、2005年4月から6月まで使用された。
   - [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")では倉木自身がコンビニで働く店員役を演じており、顔見知りの中学生役を倉木と同じ[LOOP](../Page/LOOP.md "wikilink")所属の[麻亜里](../Page/麻亜里.md "wikilink")が演じている。
-  - 今回は作曲者が倉木としては初である[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")を起用している。
+  - 本作では作曲者に、倉木としては初である[GARNET CROWの](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")[岡本仁志](https://ja.wikipedia.org/wiki/岡本仁志 "wikilink")を起用している。
   - CDケースは「[Love,needing](../Page/Love,needing.md "wikilink")」と同じジュエルケースが使用されている。
 
 ## 収録曲
@@ -28,9 +28,5 @@
 ## 収録アルバム
 
   - [FUSE OF LOVE](../Page/FUSE_OF_LOVE.md "wikilink")（\#1）
-
-## 関連項目
-
-  - [2005年の音楽](../Page/2005年の音楽.md "wikilink")
 
 [Category:倉木麻衣の楽曲](https://ja.wikipedia.org/wiki/Category:倉木麻衣の楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:太陽を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:太陽を題材とした楽曲 "wikilink") [Category:楽曲_ひ](https://ja.wikipedia.org/wiki/Category:楽曲_ひ "wikilink")

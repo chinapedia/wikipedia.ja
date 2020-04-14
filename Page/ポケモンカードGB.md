@@ -1,4 +1,4 @@
-> この記事は[GB](https://ja.wikipedia.org/wiki/GB)から翻訳されています。
+> この記事は[ポケモンカードGB](https://ja.wikipedia.org/wiki/ポケモンカードGB)から翻訳されています。
 
 
 『**ポケモンカードGB**』（ポケモンカード ジービー）とは[ゲームボーイカラー](../Page/ゲームボーイカラー.md "wikilink")・[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用の[ゲームソフト](../Page/ゲームソフト.md "wikilink")で、[トレーディングカードゲーム](../Page/トレーディングカードゲーム.md "wikilink")である『[ポケモンカードゲーム](../Page/ポケモンカードゲーム.md "wikilink")』を再現したものである。1作目の『ポケモンカードGB』は[任天堂](../Page/任天堂.md "wikilink")より[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月18日](../Page/12月18日.md "wikilink")に発売され、『**ポケモンカードGB2 GR団参上\!**』（ポケモンカード ジービーツー グレートロケットだんさんじょう）は[ポケモンより](../Page/ポケモン_\(企業\).md "wikilink")[2001年](../Page/2001年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に発売された。本項目では2作をともに扱う。

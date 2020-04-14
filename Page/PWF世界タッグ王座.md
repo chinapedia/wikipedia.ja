@@ -1,4 +1,4 @@
-> この記事は[PWF](https://ja.wikipedia.org/wiki/PWF)から翻訳されています。
+> この記事は[PWF世界タッグ王座](https://ja.wikipedia.org/wiki/PWF世界タッグ王座)から翻訳されています。
 
 
 **PWF世界タッグ王座**（ピーダブリューエフせかいタッグおうざ）は、[PWF](../Page/PWF.md "wikilink")が認定し[全日本プロレス](../Page/全日本プロレス.md "wikilink")が管理、運営する[フラッグシップタイトルである](../Page/チャンピオンベルト.md "wikilink")。発足当初はPWFの認定に加え、[NWAと](../Page/NWA_\(プロレス\).md "wikilink")[AWAからも併せて認可を受けたとの権威付けがなされた王座であった](../Page/アメリカン・レスリング・アソシエーション.md "wikilink") 。現在は[世界タッグ王座](../Page/世界タッグ王座.md "wikilink")を構成する2本のベルトのうちの一つである。

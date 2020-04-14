@@ -1,4 +1,4 @@
-> この記事は[ THE DOOR FOR THE BLUE SKY](https://ja.wikipedia.org/wiki/_THE_DOOR_FOR_THE_BLUE_SKY)から翻訳されています。
+> この記事は[青空の扉 〜THE DOOR FOR THE BLUE SKY〜](https://ja.wikipedia.org/wiki/青空の扉_〜THE_DOOR_FOR_THE_BLUE_SKY〜)から翻訳されています。
 
 
 『**青空の扉 〜THE DOOR FOR THE BLUE SKY〜**』（あおぞらのとびら ザ・ドアー・フォア・ザ・ブルー・スカイ）は、[1996年](../Page/1996年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の15枚目のオリジナル[アルバム](../Page/アルバム.md "wikilink")。[オリコン初登場](../Page/オリコンチャート.md "wikilink")1位を獲得。

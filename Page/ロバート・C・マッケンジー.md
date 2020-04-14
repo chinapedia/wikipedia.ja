@@ -1,7 +1,7 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ロバート・C・マッケンジー](https://ja.wikipedia.org/wiki/ロバート・C・マッケンジー)から翻訳されています。
 
 
-**ロバート・カレン・「ボブ」・マッケンジー**（**Robert Callen MacKenzie**, [1948年](../Page/1948年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")、Bobは愛称）は、[アメリカの退役軍人](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[傭兵](../Page/傭兵.md "wikilink")。ローデシア[SAS](https://ja.wikipedia.org/wiki/SAS_\(イギリス陸軍\) "wikilink")、[南アフリカ国防軍](https://ja.wikipedia.org/wiki/南アフリカ国防軍 "wikilink")などに所属したほか、シエラレオネコマンド部隊の司令を務めた。
+**ロバート・カレン・「ボブ」・マッケンジー**（**Robert Callen MacKenzie**, [1948年](../Page/1948年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink") - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")、Bobは愛称）は、[アメリカの退役軍人](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[傭兵](../Page/傭兵.md "wikilink")。[ローデシアSAS](../Page/ローデシア特殊空挺部隊.md "wikilink")、[南アフリカ国防軍](https://ja.wikipedia.org/wiki/南アフリカ国防軍 "wikilink")などに所属したほか、シエラレオネコマンド部隊の司令を務めた。
 
 ## 軍在籍時
 
@@ -27,4 +27,4 @@
 
 1.  C中隊のローデシアでの活躍を称えるため、現在のSASではC中隊は存在しない。
 2.  同誌は外国人兵士を募る[ローデシア軍](../Page/ローデシア軍.md "wikilink")の広告ポスターの宣伝や、元軍人のライター兼傭兵が書く世界各地の戦場のレポートなどを掲載していた。
-3.  交渉をしたのは、経営陣のひとりであるマイク・ボーレイス（ローデシア軍特殊部隊「セルーツ・スカウツ」の隊長）と言われている。
+3.  交渉をしたのは、経営陣のひとりであるマイク・ボーレイス（ローデシア軍特殊部隊「[セルース・スカウツ](../Page/セルース・スカウツ.md "wikilink")」の隊長）と言われている。

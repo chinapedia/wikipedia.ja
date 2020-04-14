@@ -1,4 +1,4 @@
-> この記事は[CFS](https://ja.wikipedia.org/wiki/CFS)から翻訳されています。
+> この記事は[CFSコーポレーション](https://ja.wikipedia.org/wiki/CFSコーポレーション)から翻訳されています。
 
 
 **株式会社CFSコーポレーション**（シーエフエスコーポレーション、）は、かつて存在した[イオングループ](../Page/イオングループ.md "wikilink")の傘下で[静岡県](../Page/静岡県.md "wikilink")・[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")を地盤とした[ドラッグストア](../Page/ドラッグストア.md "wikilink")（**ハックドラッグ**など）を展開していた企業。本部機能を神奈川県[横浜市](../Page/横浜市.md "wikilink")[港北区](https://ja.wikipedia.org/wiki/港北区 "wikilink")[新横浜](../Page/新横浜.md "wikilink")に置き、本店は静岡県[三島市](../Page/三島市.md "wikilink")広小路町に置いていた。

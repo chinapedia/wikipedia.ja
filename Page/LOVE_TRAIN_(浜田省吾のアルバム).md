@@ -1,4 +1,4 @@
-> この記事は[LOVE TRAIN \(\)](https://ja.wikipedia.org/wiki/LOVE_TRAIN_\(\))から翻訳されています。
+> この記事は[LOVE TRAIN \(浜田省吾のアルバム\)](https://ja.wikipedia.org/wiki/LOVE_TRAIN_\(浜田省吾のアルバム\))から翻訳されています。
 
 
 『**LOVE TRAIN**』（ラブ・トレイン）は、[1977年](../Page/1977年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に発売された[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の2枚目のアルバム。

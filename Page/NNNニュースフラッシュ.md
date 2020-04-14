@@ -1,4 +1,4 @@
-> この記事は[NNN](https://ja.wikipedia.org/wiki/NNN)から翻訳されています。
+> この記事は[NNNニュースフラッシュ](https://ja.wikipedia.org/wiki/NNNニュースフラッシュ)から翻訳されています。
 
 
 『**NNNニュースフラッシュ**』（エヌエヌエヌニュースフラッシュ）は、[1956年](../Page/1956年.md "wikilink")4月から[1974年](../Page/1974年.md "wikilink")3月まで[日本テレビ系列局で放送された夕方の](../Page/日本テレビ放送網.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

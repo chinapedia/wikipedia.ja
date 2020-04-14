@@ -1,4 +1,4 @@
-> この記事は[ASA-CHANG\&](https://ja.wikipedia.org/wiki/ASA-CHANG\&)から翻訳されています。
+> この記事は[ASA-CHANG\&巡礼](https://ja.wikipedia.org/wiki/ASA-CHANG\&巡礼)から翻訳されています。
 
 
 **ASA-CHANG&巡礼**（あさちゃんあんどじゅんれい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。1998年に結成。既存のジャンルでは括りきれない独特の音楽を展開\[1\]。

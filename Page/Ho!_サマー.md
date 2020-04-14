@@ -1,4 +1,4 @@
-> この記事は[Ho! ](https://ja.wikipedia.org/wiki/Ho!_)から翻訳されています。
+> この記事は[Ho! サマー](https://ja.wikipedia.org/wiki/Ho!_サマー)から翻訳されています。
 
 
 「**Ho\! サマー**」（ホ\! サマー）は、[タッキー&翼](../Page/タッキー&翼.md "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

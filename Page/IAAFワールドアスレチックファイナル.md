@@ -1,4 +1,4 @@
-> この記事は[IAAF](https://ja.wikipedia.org/wiki/IAAF)から翻訳されています。
+> この記事は[IAAFワールドアスレチックファイナル](https://ja.wikipedia.org/wiki/IAAFワールドアスレチックファイナル)から翻訳されています。
 
 
 **IAAFワールドアスレチックファイナル（IAAF World Athletics Final）**は[2002年](../Page/2002年.md "wikilink")まで開催されていた**[IAAFグランプリファイナル](../Page/IAAFグランプリファイナル.md "wikilink")**の代替として[2003年](../Page/2003年.md "wikilink")にスタートした。
@@ -81,6 +81,6 @@ IAAFは世界ランキング上位5選手を優先招待し、残りの出場枠
 
 ## 脚注
 
-[Category:現存しない陸上競技大会](https://ja.wikipedia.org/wiki/Category:現存しない陸上競技大会 "wikilink") [Category:IAAF陸上競技大会](https://ja.wikipedia.org/wiki/Category:IAAF陸上競技大会 "wikilink")
+[Category:現存しない陸上競技大会](https://ja.wikipedia.org/wiki/Category:現存しない陸上競技大会 "wikilink") [Category:ワールドアスレティックスの大会](https://ja.wikipedia.org/wiki/Category:ワールドアスレティックスの大会 "wikilink")
 
 1.  [$3 Million Prize Money at Stake in Stuttgart - World Athletics Final](http://www.iaaf.org/WAF08/news/kind=101/newsid=47566.html). [IAAF](https://ja.wikipedia.org/wiki/IAAF "wikilink") (2008-09-09). Retrieved on 2009-09-07.

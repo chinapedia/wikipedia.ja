@@ -1,4 +1,4 @@
-> この記事は[Ir.D.F.](https://ja.wikipedia.org/wiki/Ir.D.F.)から翻訳されています。
+> この記事は[Ir.D.F.ヴァウダヘマール](https://ja.wikipedia.org/wiki/Ir.D.F.ヴァウダヘマール)から翻訳されています。
 
 
 **Ir.D.F.ヴァウダヘマール**（インジェニエール・デー・エフ-、[オランダ語](../Page/オランダ語.md "wikilink"): **Ir. D.F. Woudagemaal**）は[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")、[フリースラント州](../Page/フリースラント州.md "wikilink")南部の[アイセル湖](../Page/アイセル湖.md "wikilink")に面する町レメル (Lemmer) にある蒸気式揚水場で、世界最大の設備を有する。[1920年](../Page/1920年.md "wikilink")に完成。名称は建築に携わった技師D.F.ヴァウダ（Dirk Frederik Wouda, 1880年 - 1961年）にちなむ。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[ユネスコの世界遺産に登録された](../Page/国際連合教育科学文化機関.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[S.XII \(\)](https://ja.wikipedia.org/wiki/S.XII_\(\))から翻訳されています。
+> この記事は[S.XII \(航空機\)](https://ja.wikipedia.org/wiki/S.XII_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=  | 画像= | キャプション= | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者= [スパッド社](../Page/SPAD_\(航空機メーカー\).md "wikilink") | 製造者= スパッド社 | 運用者= | 運用者 more=

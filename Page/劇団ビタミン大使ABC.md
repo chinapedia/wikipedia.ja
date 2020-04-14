@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[劇団ビタミン大使ABC](https://ja.wikipedia.org/wiki/劇団ビタミン大使ABC)から翻訳されています。
 
 
 **劇団ビタミン大使ABC**（げきだんビタミンたいしエービーシー）は、日本の[劇団](../Page/劇団.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[PROMISED LAND ](https://ja.wikipedia.org/wiki/PROMISED_LAND_)から翻訳されています。
+> この記事は[PROMISED LAND 〜約束の地](https://ja.wikipedia.org/wiki/PROMISED_LAND_〜約束の地)から翻訳されています。
 
 
 『**PROMISED LAND 〜約束の地**』（プロミスド・ランド やくそくのち）は、[1982年](../Page/1982年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[浜田省吾](https://ja.wikipedia.org/wiki/浜田省吾 "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。英語表記は「*THE GATE OF THE PROMISED LAND*」（ザ・ゲート・オブ・ザ・プロミスド・ランド）。
@@ -54,7 +54,6 @@
 11. **** (IN THE WEEKEND)
       - 間奏に「OCEAN BEAUTY」のメロディが使われている。週末にドライブに出かけたある男女をモチーフにした語りが入る。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[The Best of Shogo Hamada vol.3 The Last Weekend](https://ja.wikipedia.org/wiki/The_Best_of_Shogo_Hamada_vol.3_The_Last_Weekend "wikilink")』のリード曲として[リメイク](../Page/リメイク.md "wikilink")され、そのベストアルバムと同時発売の映像作品は『[僕と彼女と週末に](https://ja.wikipedia.org/wiki/僕と彼女と週末に_\(映像作品\) "wikilink")』と題され[1988年](../Page/1988年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に浜名湖畔[渚園](../Page/渚園.md "wikilink")で行われたライブ「A PLACE IN THE SUN」のバージョンを収録。
       - [2011年](../Page/2011年.md "wikilink")4月スタートのコンサートツアー「[ON THE ROAD 2011 "The Last Weekend"](https://ja.wikipedia.org/wiki/ON_THE_ROAD_2011_"The_Last_Weekend"_\(コンサートツアー\) "wikilink")」の副題「The Last Weekend」は楽曲「僕と彼女と週末に」から付けられた\[5\]。2011年のON THE ROADツアーは2011年[3月11日](../Page/3月11日.md "wikilink")に起きた[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の復興支援を含むツアーで\[6\]、浜田はツアーについて「3月11日をもって、ON THE ROAD 2011は特別なものになりました」と言い\[7\]、ツアーで「僕と彼女と週末に」を歌っている。このツアーを報じた[読売新聞](../Page/読売新聞.md "wikilink")によると「僕と彼女と週末に」は[反原発](https://ja.wikipedia.org/wiki/反原発 "wikilink")のメッセージがあると解釈されている\[8\]。
-      - イギリスの[ジョン・ウェイト](https://ja.wikipedia.org/wiki/ジョン・ウェイト "wikilink")(John Waite)の作品「[going to the top](https://www.youtube.com/watch?v=59PVLkbBgqg)」(1982)に曲調、コード進行、メロディが酷似している。
 
 ## 参加ミュージシャン
 

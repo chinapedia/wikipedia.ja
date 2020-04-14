@@ -39,6 +39,7 @@
   - 現在の[出囃子は](https://ja.wikipedia.org/wiki/出囃子_\(お笑い\) "wikilink")[Ken Yokoyamaの](../Page/横山健.md "wikilink")「Ten Years from Now」。以前は[DA PUMP](../Page/DA_PUMP.md "wikilink")「[Crazy Beat Goes On\!](https://ja.wikipedia.org/wiki/Crazy_Beat_Goes_On! "wikilink")」を使用していた。
   - [2009年](../Page/2009年.md "wikilink")7月よりワラbに出演していたが、後にオーディションTryメンバーに降格。
   - [2012年](../Page/2012年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")より2代目の大阪府住みます芸人に就任。
+  - マコトが[折り紙](../Page/折り紙.md "wikilink")講師の資格を取得したのを機に、水本が「折り紙マン」というキャラクターに扮した折り紙[ワークショップ](../Page/ワークショップ.md "wikilink")を多く開催している。
 
 ## 賞レースでの戦績
 

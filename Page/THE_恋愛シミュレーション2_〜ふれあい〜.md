@@ -1,4 +1,4 @@
-> この記事は[THE 2 ](https://ja.wikipedia.org/wiki/THE_2_)から翻訳されています。
+> この記事は[THE 恋愛シミュレーション2 〜ふれあい〜](https://ja.wikipedia.org/wiki/THE_恋愛シミュレーション2_〜ふれあい〜)から翻訳されています。
 
 
 『**THE 恋愛シミュレーション2 〜ふれあい〜**』（ザ・れんあいシミュレーションツー ふれあい）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2001年](../Page/2001年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")に[プレイステーション向けで発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")[SIMPLE1500シリーズ第](../Page/SIMPLEシリーズ.md "wikilink")71作目のゲームソフト。

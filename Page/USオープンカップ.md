@@ -1,4 +1,4 @@
-> この記事は[US](https://ja.wikipedia.org/wiki/US)から翻訳されています。
+> この記事は[USオープンカップ](https://ja.wikipedia.org/wiki/USオープンカップ)から翻訳されています。
 
 
 **ラマー・ハント・U.S.オープンカップ**（）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")における[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[カップ戦](../Page/カップ戦.md "wikilink")である。[アメリカ合衆国サッカー連盟](https://ja.wikipedia.org/wiki/アメリカ合衆国サッカー連盟 "wikilink")によって組織される。

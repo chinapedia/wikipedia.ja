@@ -1,4 +1,4 @@
-> この記事は[SBS](https://ja.wikipedia.org/wiki/SBS)から翻訳されています。
+> この記事は[SBSトランジット](https://ja.wikipedia.org/wiki/SBSトランジット)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:VSOCitybuzz.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Singapore_Crystal_Mover.jpg "wikilink") **SBSトランジット**（**SBS Transit**, 中国語：**、**）は、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")で公共交通機関を運行する会社。シンガポール最大かつ世界第2位の運輸事業者である[ComfortDelGro Corporationの](https://ja.wikipedia.org/wiki/ComfortDelGro_Corporation "wikilink")[子会社](../Page/子会社.md "wikilink")（株式の75%を所有）である。主な競合相手は同じように[路線バス](../Page/路線バス.md "wikilink")・[鉄道](../Page/鉄道.md "wikilink")・[タクシー](../Page/タクシー.md "wikilink")を運行している[SMRTコーポレーション](../Page/SMRTコーポレーション.md "wikilink")である。今のところ217系統のバスを運行し、同事業で75%のシェアを占めている。

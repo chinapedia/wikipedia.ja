@@ -1,4 +1,4 @@
-> この記事は[EMD SD90MAC](https://ja.wikipedia.org/wiki/EMD_SD90MAC)から翻訳されています。
+> この記事は[EMD SD90MAC形ディーゼル機関車](https://ja.wikipedia.org/wiki/EMD_SD90MAC形ディーゼル機関車)から翻訳されています。
 
 
 **EMD SD90MAC**は、[GM-EMDによって開発された](../Page/エレクトロ・モーティブ・ディーゼル.md "wikilink")6000馬力(4470kW)級の電気式ディーゼル機関車である。自己操舵機構を備えた3軸台車により軸配置をC-Cとし、交流電動機によって駆動する。また、独立型運転席に運転席への衝撃を抑制するための[衝撃吸収装置を組み込み](../Page/ショックアブソーバー.md "wikilink")、衝突安全性を強化している。SD80MACや[EMD SD70ACe](https://ja.wikipedia.org/wiki/EMD_SD70シリーズディーゼル機関車 "wikilink")、[EMD SD70M-2と同様に](https://ja.wikipedia.org/wiki/EMD_SD70シリーズディーゼル機関車 "wikilink")、SD90MACもまた車幅一杯まで拡大された大型ラジエータを外観上の特徴としている。

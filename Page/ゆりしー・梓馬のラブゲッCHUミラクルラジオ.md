@@ -1,4 +1,4 @@
-> この記事は[CHU](https://ja.wikipedia.org/wiki/CHU)から翻訳されています。
+> この記事は[ゆりしー・梓馬のラブゲッCHUミラクルラジオ](https://ja.wikipedia.org/wiki/ゆりしー・梓馬のラブゲッCHUミラクルラジオ)から翻訳されています。
 
 
 『**ゆりしー・梓馬のラブゲッCHUミラクルラジオ**』（ゆりしー あずま の ラブゲッチュ ミラクルラジオ）は、[ラジオ大阪](../Page/大阪放送.md "wikilink")[V-STATIONの](../Page/1314_V-STATION.md "wikilink")[アニラジ](../Page/アニラジ.md "wikilink")番組。

@@ -23,11 +23,11 @@
 2.  **ハレもよう。**
       -
         作詞：鈴木亜美 / 作曲：ムラマツテツヤ / 編曲：[キハラ龍太郎](https://ja.wikipedia.org/wiki/キハラ龍太郎 "wikilink")
-3.  **Alright\!**(Instrumental)
-4.  **ハレもよう。**(Instrumental)
+3.  **Alright\!** (Instrumental)
+4.  **ハレもよう。** (Instrumental)
 
 ### DVD
 
-1.  **Alright\!**(Music Clip)
+1.  **Alright\!** (Music Clip)
 
 [Category:鈴木亜美の楽曲](https://ja.wikipedia.org/wiki/Category:鈴木亜美の楽曲 "wikilink") [Category:渡辺和紀が制作した楽曲](https://ja.wikipedia.org/wiki/Category:渡辺和紀が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:エイベックス・グループの楽曲](https://ja.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")

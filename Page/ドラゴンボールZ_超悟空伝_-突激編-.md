@@ -1,7 +1,7 @@
-> この記事は[Z  --](https://ja.wikipedia.org/wiki/Z__--)から翻訳されています。
+> この記事は[ドラゴンボールZ 超悟空伝 -突激編-](https://ja.wikipedia.org/wiki/ドラゴンボールZ_超悟空伝_-突激編-)から翻訳されています。
 
 
-『**ドラゴンボールZ 超悟空伝 -突激編-**』 （ドラゴンボールゼット スーパーごくうでん とつげきへん）は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のスーパーファミコン作品第5弾。
+『**ドラゴンボールZ 超悟空伝 -突激編-**』 （ドラゴンボールゼット スーパーごくうでん とつげきへん）は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")にバンダイ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のスーパーファミコン作品第5弾。
 
 『超悟空伝』の前編に当たり、原作漫画『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』の1 - 14巻を題材にしたプレイングコミックスである。
 

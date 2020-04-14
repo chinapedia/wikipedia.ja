@@ -1,4 +1,4 @@
-> この記事は[ DS](https://ja.wikipedia.org/wiki/_DS)から翻訳されています。
+> この記事は[ワンセグ受信アダプタ DSテレビ](https://ja.wikipedia.org/wiki/ワンセグ受信アダプタ_DSテレビ)から翻訳されています。
 
 
 [Nintendo_DS_television_tuner_(body-closed).jpg](https://ja.wikipedia.org/wiki/File:Nintendo_DS_television_tuner_\(body-closed\).jpg "fig:Nintendo_DS_television_tuner_(body-closed).jpg") [Nintendo_DS_television_tuner_(body-opened).jpg](https://ja.wikipedia.org/wiki/File:Nintendo_DS_television_tuner_\(body-opened\).jpg "fig:Nintendo_DS_television_tuner_(body-opened).jpg") **ワンセグ受信アダプタ DSテレビ**（ワンセグじゅしんアダプタ ディーエステレビ）は、[任天堂](../Page/任天堂.md "wikilink")が[2007年](../Page/2007年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に発売した[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[ワンセグ](../Page/ワンセグ.md "wikilink")受信チューナーである。ニンテンドーDSシリーズ本体（ニンテンドーDS・[ニンテンドーDS Lite](../Page/ニンテンドーDS_Lite.md "wikilink")・[ニンテンドーDSi](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")・[ニンテンドーDSi LL](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")・[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")・ニンテンドー3DS LL）で使用可能。価格は6,476円（税抜）。
@@ -90,9 +90,7 @@
 
 ## 外部リンク
 
-  - [DSテレビ 公式サイト](http://www.nintendo.co.jp/ds/unsj/)
-  - [社団法人デジタル放送推進協会（Dpa）ホームページ](http://www.dpa.or.jp/)
-      - [ワンセグ 放送エリアの目安](http://vip.mapion.co.jp/custom/DPA_B/)
+  - [ワンセグ受信アダプタ DSテレビ](https://www.nintendo.co.jp/ds/unsj/)
 
 [Category:ニンテンドーDS](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS "wikilink") [Category:ワンセグ](https://ja.wikipedia.org/wiki/Category:ワンセグ "wikilink")
 

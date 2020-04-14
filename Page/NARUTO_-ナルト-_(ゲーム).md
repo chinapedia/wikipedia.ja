@@ -1,4 +1,4 @@
-> この記事は[NARUTO -- \(\)](https://ja.wikipedia.org/wiki/NARUTO_--_\(\))から翻訳されています。
+> この記事は[NARUTO -ナルト- \(ゲーム\)](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(ゲーム\))から翻訳されています。
 
 
 **NARUTO -ナルト- (ゲーム)** では[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[NARUTO -ナルト-](../Page/NARUTO_-ナルト-.md "wikilink")』のゲーム化作品について解説する。

@@ -1,4 +1,4 @@
-> この記事は[OTOGI ](https://ja.wikipedia.org/wiki/OTOGI_)から翻訳されています。
+> この記事は[O・TO・GI 〜百鬼討伐絵巻〜](https://ja.wikipedia.org/wiki/O・TO・GI_〜百鬼討伐絵巻〜)から翻訳されています。
 
 
 『**O・TO・GI ～百鬼討伐絵巻～**』（おとぎ ひゃっきとうばつえまき）は、[フロム・ソフトウェア](../Page/フロム・ソフトウェア.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")に定価6800円（税別）で発売された[Xbox向け和風](../Page/Xbox_\(ゲーム機\).md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。同メーカーより[2002年](../Page/2002年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")発売の『[O・TO・GI ～御伽～](https://ja.wikipedia.org/wiki/O・TO・GI_～御伽～ "wikilink")』の続編。

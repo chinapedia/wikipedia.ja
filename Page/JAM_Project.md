@@ -5,15 +5,15 @@
 
 ## 概要
 
-[水木一郎](../Page/水木一郎.md "wikilink")の「21世紀へ古き良き“アニソン魂”を残したい」という呼びかけによって、結成された。この背景には、結成当時のアニメ・ゲーム主題歌等に話題の[アーティストによる](https://ja.wikipedia.org/wiki/芸能人 "wikilink")、およそ作品内容にそぐわない[タイアップ](../Page/タイアップ.md "wikilink")曲（アニメ・ゲームソングは全て作品とアーティストによるタイアップである）が起用されるという風潮に疑問を感じた事が挙げられる。
+[水木一郎](../Page/水木一郎.md "wikilink")の「21世紀へ古き良き“アニソン魂”を残したい」という呼びかけによって、結成された。この背景には、結成当時のアニメ・ゲーム主題歌などに話題の[アーティストによるおよそ作品内容にそぐわない](https://ja.wikipedia.org/wiki/芸能人 "wikilink")[タイアップ](../Page/タイアップ.md "wikilink")曲（アニメ・ゲームソングは全て作品とアーティストによるタイアップである）が起用されるという風潮に疑問を感じた事があげられる。
 
 正式名称は「（ジャパン・アニメーションソング・メイカーズ・プロジェクト）」である。
 
-初期メンバーに[ANTHEM](../Page/ANTHEM.md "wikilink")や[アニメタル](../Page/アニメタル.md "wikilink")で活躍していた、[さかもとえいぞうがいた事や](../Page/坂本英三.md "wikilink")、ハード路線で活動していた[レイジー](../Page/レイジー.md "wikilink")の影等の影響が強く、多くの楽曲は[ジャパニーズ・ヘヴィメタルや](../Page/ジャパニーズ・メタル.md "wikilink")[ハードロック](../Page/ハードロック.md "wikilink")にかなり近い。ライヴもテンションが高く、ヘヴィメタルのライヴの熱気に近い。バックバンド経験者も[河野陽吾](../Page/河野陽吾.md "wikilink")、[樋口宗孝](../Page/樋口宗孝.md "wikilink")、[そうる透](../Page/そうる透.md "wikilink")、[横関敦](https://ja.wikipedia.org/wiki/横関敦 "wikilink")、[寺沢功一](../Page/寺沢功一.md "wikilink")、[福田洋也](../Page/福田洋也.md "wikilink")、[ヌーノ・ベッテンコート](../Page/ヌーノ・ベッテンコート.md "wikilink")、[高崎晃](../Page/高崎晃.md "wikilink")等、ハードロックやヘヴィメタルに関係する人物が多数存在する。
+初期メンバーに[ANTHEM](../Page/ANTHEM.md "wikilink")や[アニメタル](../Page/アニメタル.md "wikilink")で活躍していた[さかもとえいぞうがいたことや](../Page/坂本英三.md "wikilink")、ハード路線で活動していた[レイジー](../Page/レイジー.md "wikilink")の影山らの影響が強く、多くの楽曲は[ジャパニーズ・ヘヴィメタルや](../Page/ジャパニーズ・メタル.md "wikilink")[ハードロック](../Page/ハードロック.md "wikilink")にかなり近い。ライヴもテンションが高く、ヘヴィメタルのライヴの熱気に近い。バックバンド経験者も[河野陽吾](../Page/河野陽吾.md "wikilink")、[樋口宗孝](../Page/樋口宗孝.md "wikilink")、[そうる透](../Page/そうる透.md "wikilink")、[横関敦](https://ja.wikipedia.org/wiki/横関敦 "wikilink")、[寺沢功一](../Page/寺沢功一.md "wikilink")、[福田洋也](../Page/福田洋也.md "wikilink")、[ヌーノ・ベッテンコート](../Page/ヌーノ・ベッテンコート.md "wikilink")、[高崎晃](../Page/高崎晃.md "wikilink")など、ハードロックやヘヴィメタルに関係する人物が多数存在する。
 
 プロデューサーは[井上俊次](../Page/井上俊次.md "wikilink")（ランティス代表でレイジーの[キーボーディスト](../Page/キーボーディスト.md "wikilink")）である。
 
-最近では、世界を周るツアーや[アニメタルUSA](https://ja.wikipedia.org/wiki/アニメタルUSA "wikilink")との共同ライブを行う等、日本だけではなく世界でも活躍をしている。
+最近では、世界を周るツアーや[アニメタルUSA](https://ja.wikipedia.org/wiki/アニメタルUSA "wikilink")との共同ライブを行うなど、日本だけではなく世界でも活躍をしている。
 
 ## メンバー
 
@@ -142,8 +142,16 @@
 
 **2019年**
 
+  - 1月13日、1月14日に[Zepp Osaka Baysideで](https://ja.wikipedia.org/wiki/Zepp_Osaka_Bayside "wikilink")、1月25日、1月26日に[豊洲PIT](https://ja.wikipedia.org/wiki/豊洲PIT "wikilink")にて「SPECIAL LIVE 2019 A-ROCK」が行われた。
+    それぞれ1日目が「Early numbers」2日目が「Later numbers」となっており、1日目が前期の楽曲中心で、2日目が後期の楽曲が中心となっている。またDJ KGコーナーなど新たな試みも見られた。
   - 6月23日　「20th Anniversary Live ランティス祭り2019 A・R・I・G・A・T・O ANISONG」に参加。
   - 7月17日、Zepp Tokyoにて結成20周年スペシャルライブ「JAM PARTY 2019 〜20周年に向け「エイエイオー！」を開催。
+
+**2020年**
+
+  - 1月1日 結成20周年に伴い、通算6枚目となるオリジナルアルバム「[The Age of Dragon Knights](https://ja.wikipedia.org/wiki/The_Age_of_Dragon_Knights "wikilink")」をリリース。
+    本アルバムでは、[ALI PROJECT](https://ja.wikipedia.org/wiki/ALI_PROJECT "wikilink")、[angela](https://ja.wikipedia.org/wiki/angela "wikilink")、[梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")、[GRANRODEO](../Page/GRANRODEO.md "wikilink")、[寺田志保](../Page/寺田志保.md "wikilink")、[畑亜貴](../Page/畑亜貴.md "wikilink")、[FLOW](../Page/FLOW.md "wikilink")、[宮崎誠](https://ja.wikipedia.org/wiki/宮崎誠 "wikilink")、[R・O・N](../Page/R・O・N.md "wikilink")など各アーティストから楽曲が提供されており、
+    バラエティに富んだアルバムとなっている。また同日には「20th Anniversary Complete BOX」も発売された。
 
 ## ディスコグラフィ
 
@@ -676,7 +684,7 @@ LACM-14855（アニメ盤）</p></td>
 | 3rd | 2013年10月23日 | **[THUMB RISE AGAIN](https://ja.wikipedia.org/wiki/THUMB_RISE_AGAIN "wikilink")**                               | LACA-15340 | 21位 |
 | 4th | 2016年6月29日  | **[AREA Z](https://ja.wikipedia.org/wiki/AREA_Z "wikilink")**                                                   | LACA-15555 | 23位 |
 | 5th | 2017年10月18日 | **[TOKYO DIVE](https://ja.wikipedia.org/wiki/TOKYO_DIVE "wikilink")**                                           | LACA-15670 | 24位 |
-| 6th | 2020年1月1日   | *' [The Age of Dragon Knights](https://ja.wikipedia.org/wiki/The_Age_of_Dragon_Knights "wikilink")*'            | LACA-15796 | TBA |
+| 6th | 2020年1月1日   | *' [The Age of Dragon Knights](https://ja.wikipedia.org/wiki/The_Age_of_Dragon_Knights "wikilink")*'            | LACA-15796 | 40位 |
 
 #### ベストアルバム
 
@@ -703,7 +711,7 @@ LACM-14855（アニメ盤）</p></td>
 | --- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------- | --- |
 | 1st | 2010年12月22日 | **[JAM Project 10th Anniversary Complete BOX](https://ja.wikipedia.org/wiki/JAM_Project_10th_Anniversary_Complete_BOX "wikilink")** | LACA-9190\~6  | 43位 |
 | 2nd | 2015年9月9日   | **JAM Project 15th Anniversary STRONG BOX**                                                                                         | LACA-35500    | 10位 |
-| 3rd | 2020年1月1日   | **JAM Project 20th Anniversary Complete BOX**                                                                                       | LACA-9700\~20 | TBA |
+| 3rd | 2020年1月1日   | **JAM Project 20th Anniversary Complete BOX**                                                                                       | LACA-9700\~20 | 87位 |
 
 ### 配信限定
 
@@ -938,6 +946,7 @@ LACM-14855（アニメ盤）</p></td>
 | 2010年                                        | TRANSFORMERS EVO.                                                                                                                                          | TVアニメ『[トランスフォーマー アニメイテッド](https://ja.wikipedia.org/wiki/トランスフォーマー_アニメイテッド "wikilink")』OP主題歌                                               |
 | MAXIMIZER                                    | テレビ東京 『[アニソ〜ンぷらす](https://ja.wikipedia.org/wiki/アニソンぷらす "wikilink")』2010年6月度オープニングテーマ                                                                      |                                                                                                                                           |
 | MAXON                                        | TVアニメ『[スーパーロボット大戦OG -ジ・インスペクター-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター- "wikilink")』OP主題歌                                                  |                                                                                                                                           |
+| 牙狼 〜SAVIOR IN THE DARK〜 RED REQUIEM ver.     | 劇場版『[牙狼＜GARO＞ 〜RED REQUIEM〜](https://ja.wikipedia.org/wiki/牙狼-GARO-_〜RED_REQUIEM〜 "wikilink")』エンディング主題歌                                                    |                                                                                                                                           |
 | 2011年                                        | Vanguard                                                                                                                                                   | TVアニメ『\[\[カードファイト                                                                                                                         |
 | NOAH                                         | PSPゲーム『[第2次スーパーロボット大戦Z 破界篇](https://ja.wikipedia.org/wiki/第2次スーパーロボット大戦Z "wikilink")』OP主題歌                                                                 |                                                                                                                                           |
 | 願い                                           | PSPゲーム『第2次スーパーロボット大戦Z 破界篇』ED主題歌                                                                                                                            |                                                                                                                                           |
@@ -961,6 +970,7 @@ LACM-14855（アニメ盤）</p></td>
 | 2013年                                        | THE MONSTERS                                                                                                                                               | TVアニメ『[戦勇。](https://ja.wikipedia.org/wiki/戦勇。 "wikilink")』ニコニコ動画特別版OP主題歌                                                                  |
 | Believe 〜永遠のLink〜                            | TVアニメ『戦勇。』ED主題歌                                                                                                                                            |                                                                                                                                           |
 | 夢スケッチ                                        | TVアニメ『[バクマン。](https://ja.wikipedia.org/wiki/バクマン。_\(アニメ\) "wikilink")』第3シリーズED主題歌                                                                          |                                                                                                                                           |
+| Strike ahead                                 | インドTV向け日本アニメ『BATU GAIDEN –THE RETURN OF ASI–』主題歌                                                                                                           |                                                                                                                                           |
 | R.I.P 〜友よ静かに眠れ〜                              | 劇場版アニメ『宇宙戦艦ヤマト2199 第6章』ED主題歌                                                                                                                               |                                                                                                                                           |
 | Victory Soul                                 | [Vジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")『創刊20周年』ソング                                                                                         |                                                                                                                                           |
 | 一触即発 〜Trigger of Crisis〜                     | 特撮ドラマ『[牙狼〈GARO〉 〜闇を照らす者〜](https://ja.wikipedia.org/wiki/牙狼-GARO-_〜闇を照らす者〜 "wikilink")』後期OP                                                                 |                                                                                                                                           |
@@ -1019,9 +1029,11 @@ LACM-14855（アニメ盤）</p></td>
 | Tread on the Tiger’s Tail                    | PS4 & Nintendo Switch用ソフト『[スーパーロボット大戦T](https://ja.wikipedia.org/wiki/スーパーロボット大戦T "wikilink")』OP主題歌                                                        |                                                                                                                                           |
 | RESET                                        | PS4 & Nintendo Switch用ソフト『[スーパーロボット大戦T](https://ja.wikipedia.org/wiki/スーパーロボット大戦T "wikilink")』ED主題歌                                                        |                                                                                                                                           |
 | 静寂のアポストル                                     | TVアニメ『[ワンパンマン](https://ja.wikipedia.org/wiki/ワンパンマン "wikilink")』第二期OP主題歌                                                                                   |                                                                                                                                           |
-| Returner 〜復活のレジェンド〜                          | ネット配信アニメ『バトルスピリッツ サーガブレイヴ』主題歌                                                                                                                              |                                                                                                                                           |
+| Returner 〜復活のレジェンド〜                          | ネット配信アニメ『バトルスピリッツ サーガブレイヴ』メインテーマソング                                                                                                                        |                                                                                                                                           |
 | 勝利の未来-とき-                                    | 中編特撮映画『HE-LOW THE SECOND』主題歌                                                                                                                               |                                                                                                                                           |
 | 雷牙-月虹ノ旅人-                                    | 劇場版『牙狼〈GARO〉-月虹ノ旅人-』エンディング主題歌                                                                                                                              |                                                                                                                                           |
+| 2020年                                        | Freaking out \! 〜復活のオイパンク〜                                                                                                                                 | PS4 / Xbox One『ONE PUNCH MAN A HERO NOBODY KNOWS』OP主題歌                                                                                    |
+| Versus Road 〜非現実的サバイバル〜                      | TVドラマ『[GARO -VERSUS ROAD-](https://ja.wikipedia.org/wiki/GARO_-VERSUS_ROAD- "wikilink")』エンディング主題歌                                                          |                                                                                                                                           |
 
 ## 出演
 
@@ -1729,6 +1741,45 @@ TAKEO(Guitar)<br />
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p>ツアー</p></td>
+<td><p>JAM Project LIVE 2020 20th Anniversary Tour<br />
+The Age of Dragon Knights</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+</div>
+<div class="NavContent" style="text-align:center;">
+<p>横関敦(Guitar)<br />
+TAKEO(Guitar)<br />
+青山英樹(Drums)<br />
+山本直哉(Bass)<br />
+西村奈央(Keyboards)<br />
+長崎祥子(Keyboards)[19]</p>
+</div>
+</div></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全14会場15公演</p>
+</div>
+<div class="NavContent" style="text-align:center;">
+<p>2020年4月11日 <a href="https://ja.wikipedia.org/wiki/和光市民文化センター" title="wikilink">和光市民文化センター</a> サンアゼリア<br />
+4月19日 <a href="https://ja.wikipedia.org/wiki/伊勢崎市文化会館" title="wikilink">伊勢崎市文化会館</a><br />
+4月25日 <a href="../Page/神戸国際会館.md" title="wikilink">神戸国際会館</a> こくさいホール<br />
+4月26日 <a href="../Page/愛知県芸術劇場.md" title="wikilink">愛知県芸術劇場</a> 大ホール<br />
+5月2日 <a href="../Page/オリックス劇場.md" title="wikilink">オリックス劇場</a><br />
+5月9日 <a href="../Page/長野市芸術館.md" title="wikilink">長野市芸術館</a><br />
+5月10日 <a href="../Page/金沢市文化ホール.md" title="wikilink">金沢市文化ホール</a><br />
+5月16日 <a href="https://ja.wikipedia.org/wiki/トークネットホール仙台" title="wikilink">トークネットホール仙台</a><br />
+5月17日 <a href="../Page/郡山市民文化センター.md" title="wikilink">郡山市民文化センター</a> 中ホール<br />
+5月23日 <a href="../Page/文化パルク城陽.md" title="wikilink">文化パルク城陽</a><br />
+5月24日 <a href="https://ja.wikipedia.org/wiki/スターピアくだまつ" title="wikilink">スターピアくだまつ</a><br />
+5月30日 <a href="../Page/静岡市民文化会館.md" title="wikilink">静岡市民文化会館</a> 大ホール<br />
+7月5日 <a href="../Page/福岡国際会議場.md" title="wikilink">福岡国際会議場</a><br />
+7月18日、7月19日 <a href="https://ja.wikipedia.org/wiki/大井町きゅりあん" title="wikilink">大井町きゅりあん</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1737,7 +1788,7 @@ TAKEO(Guitar)<br />
   - ランティスPresents JAM Projectの[キャララジオ](../Page/キャララジオ.md "wikilink")（2006年・全4回）
   - ランティスPresents JAM Projectのキャララジオ出張版（2006年）
   - JAM Project Power of Noborder（2007年 - 2008年、[A\&G 超RADIO SHOW〜アニスパ\!〜内コーナー](../Page/A&G_超RADIO_SHOW〜アニスパ!〜.md "wikilink")）
-  - JAM Projectの『GO\! GO\! GOING\! Radio』（2011年 - 2013年、[Date FM他](https://ja.wikipedia.org/wiki/Date_FM "wikilink")『週刊MUSIC PANCH\!』内コーナー・2013年、[超A\&G+](https://ja.wikipedia.org/wiki/超A&G+ "wikilink")）\[19\]
+  - JAM Projectの『GO\! GO\! GOING\! Radio』（2011年 - 2013年、[Date FM他](https://ja.wikipedia.org/wiki/Date_FM "wikilink")『週刊MUSIC PANCH\!』内コーナー・2013年、[超A\&G+](https://ja.wikipedia.org/wiki/超A&G+ "wikilink")）\[20\]
   - bayfm Starting STYLE\!\! 〜Countdown to Lantis matsuri〜（2019年 - 、[bayfm](../Page/ベイエフエム.md "wikilink")）
 
 ### テレビ
@@ -1801,4 +1852,5 @@ TAKEO(Guitar)<br />
 16. 札幌を除く国内公演を担当。
 17. 海外公演・札幌公演のみ担当。
 18. 中国広州・成都公演のみ担当。
-19. [JAM Projectの『GO\! GO\! GOING\! Radio』](http://lantis-net.com/jamproject/)
+19. 西村奈央不在時のみ担当
+20. [JAM Projectの『GO\! GO\! GOING\! Radio』](http://lantis-net.com/jamproject/)

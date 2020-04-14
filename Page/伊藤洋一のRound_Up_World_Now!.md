@@ -1,4 +1,4 @@
-> この記事は[Round Up World Now!](https://ja.wikipedia.org/wiki/Round_Up_World_Now!)から翻訳されています。
+> この記事は[伊藤洋一のRound Up World Now!](https://ja.wikipedia.org/wiki/伊藤洋一のRound_Up_World_Now!)から翻訳されています。
 
 
 **伊藤洋一のRound Up World Now\!**（いとうよういちのラウンドアップワールドナウ）は、[ラジオNIKKEIで](../Page/日経ラジオ社.md "wikilink")、1998年10月から放送されているラジオ番組。

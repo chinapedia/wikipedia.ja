@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[ECサント・アンドレ](https://ja.wikipedia.org/wiki/ECサント・アンドレ)から翻訳されています。
 
 
 **ECサント・アンドレ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")・[サントアンドレ](https://ja.wikipedia.org/wiki/サントアンドレ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。設立は[1967年](../Page/1967年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")。

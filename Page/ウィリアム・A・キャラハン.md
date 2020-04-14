@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ウィリアム・A・キャラハン](https://ja.wikipedia.org/wiki/ウィリアム・A・キャラハン)から翻訳されています。
 
 
 **ウィリアム・A・キャラハン**（William A. Callahan）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[国際政治学者](../Page/国際政治学者.md "wikilink")。専門は、[中国](../Page/中国.md "wikilink")外交、[東アジア](../Page/東アジア.md "wikilink")国際政治。

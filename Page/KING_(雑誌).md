@@ -1,4 +1,4 @@
-> この記事は[KING \(\)](https://ja.wikipedia.org/wiki/KING_\(\))から翻訳されています。
+> この記事は[KING \(雑誌\)](https://ja.wikipedia.org/wiki/KING_\(雑誌\))から翻訳されています。
 
 
 『**KING**』（キング）は、[講談社](../Page/講談社.md "wikilink")が発行していた男性向け月刊誌。[2004年](../Page/2004年.md "wikilink")から2年間の準備期間をかけて、[2006年](../Page/2006年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")に創刊され、2008年10月号をもって休刊（実質的な廃刊）した。

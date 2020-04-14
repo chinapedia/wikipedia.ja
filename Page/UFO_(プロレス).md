@@ -1,4 +1,4 @@
-> この記事は[UFO \(\)](https://ja.wikipedia.org/wiki/UFO_\(\))から翻訳されています。
+> この記事は[UFO \(プロレス\)](https://ja.wikipedia.org/wiki/UFO_\(プロレス\))から翻訳されています。
 
 
 **U.F.O.**（ユー・エフ・オー）は、[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")が設立した[総合格闘技](../Page/総合格闘技.md "wikilink")の[統一](../Page/統一.md "wikilink")[組織](https://ja.wikipedia.org/wiki/組織 "wikilink")（当初は世界規模の格闘技統一組織を目指して創設されたが実質的には[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")として活動していた）。正式名称は**ユニバーサル・ファイティングアーツ・オーガニゼーション**。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")名は**世界格闘技連盟**（せかいかくとうぎれんめい）。

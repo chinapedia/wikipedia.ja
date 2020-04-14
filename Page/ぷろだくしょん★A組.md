@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ぷろだくしょん★A組](https://ja.wikipedia.org/wiki/ぷろだくしょん★A組)から翻訳されています。
 
 
 **有限会社ぷろだくしょん★A組**（プロダクション エイぐみ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。[俳優](../Page/俳優.md "wikilink")と[声優](../Page/声優.md "wikilink")のマネージメント・育成を主業務とする。
@@ -68,6 +68,7 @@
   - [大竹宏](../Page/大竹宏.md "wikilink")（現所属：[81プロデュース](../Page/81プロデュース.md "wikilink")）
   - [大塚智則](https://ja.wikipedia.org/wiki/大塚智則 "wikilink")（現所属：リンク・エンタテインメンツ）
   - [岡田悠介](https://ja.wikipedia.org/wiki/岡田悠介 "wikilink")
+  - [金宗俊二](../Page/金宗俊二.md "wikilink")
   - [小林勝彦](../Page/小林勝彦.md "wikilink")（在籍中に死去）
   - [五代あつし](../Page/五代あつし.md "wikilink")
   - [西前忠久](../Page/西前忠久.md "wikilink")（現所属：アーツビジョン）

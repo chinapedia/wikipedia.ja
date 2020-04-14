@@ -1,4 +1,4 @@
-> この記事は[BURN](https://ja.wikipedia.org/wiki/BURN)から翻訳されています。
+> この記事は[超獣機神ダンクーガBURN](https://ja.wikipedia.org/wiki/超獣機神ダンクーガBURN)から翻訳されています。
 
 
 『**超獣機神ダンクーガBURN**』（ちょうじゅうきしんダンクーガバーン）は、[長谷川裕一](../Page/長谷川裕一.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にかけて[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")増刊「エースダッシュ」に連載された。テレビアニメ『[超獣機神ダンクーガ](../Page/超獣機神ダンクーガ.md "wikilink")』のリメイクまたは[スピンオフ](../Page/スピンオフ.md "wikilink")的な作品である。

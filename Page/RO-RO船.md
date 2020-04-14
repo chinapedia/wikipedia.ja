@@ -1,4 +1,4 @@
-> この記事は[RO-RO](https://ja.wikipedia.org/wiki/RO-RO)から翻訳されています。
+> この記事は[RO-RO船](https://ja.wikipedia.org/wiki/RO-RO船)から翻訳されています。
 
 
 [Ship_passing_through_Panama_Canal_01.jpg](https://ja.wikipedia.org/wiki/File:Ship_passing_through_Panama_Canal_01.jpg "fig:Ship_passing_through_Panama_Canal_01.jpg")を航行するRO-RO船。航行時はランプウェイを上げている\]\] **RO-RO船**（ローローせん、）は、[フェリー](../Page/フェリー.md "wikilink")のように[ランプを備え](../Page/斜路.md "wikilink")、[トレーラー](https://ja.wikipedia.org/wiki/トレーラー "wikilink")などの車両を収納する車両[甲板](https://ja.wikipedia.org/wiki/甲板 "wikilink")を持つ[貨物船](../Page/貨物船.md "wikilink")のことである。 車両甲板のおかげで搭載される車両はクレーンなどに頼らず自走で搭載/揚陸できる。対義語は**LO-LO船**（）。 一般的に判りやすく言うなら、旅客を乗せない[カーフェリー](https://ja.wikipedia.org/wiki/カーフェリー "wikilink")と考えればよい。[自動車運搬船](https://ja.wikipedia.org/wiki/自動車運搬船 "wikilink")も参照の事。

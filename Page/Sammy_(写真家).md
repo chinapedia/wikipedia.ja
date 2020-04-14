@@ -1,4 +1,4 @@
-> この記事は[Sammy \(\)](https://ja.wikipedia.org/wiki/Sammy_\(\))から翻訳されています。
+> この記事は[Sammy \(写真家\)](https://ja.wikipedia.org/wiki/Sammy_\(写真家\))から翻訳されています。
 
 
 **Sammy**（サミー、田中正文、[1959年](../Page/1959年.md "wikilink") - ）は、日本の[写真家](../Page/写真家.md "wikilink")。

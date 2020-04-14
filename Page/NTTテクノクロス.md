@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTテクノクロス](https://ja.wikipedia.org/wiki/NTTテクノクロス)から翻訳されています。
 
 
 **NTTテクノクロス株式会社**（エヌ・ティ・ティ・テクノクロス、NTT TechnoCross Corporation）は、[NTTグループ](../Page/NTTグループ.md "wikilink")に属し、[ソフトウェア](../Page/ソフトウェア.md "wikilink")・情報通信システムの設計・開発・運用、そしてそれらに関わる[コンサルティング](../Page/コンサルティング.md "wikilink")をしている[ICT（情報通信技術）企業である](https://ja.wikipedia.org/wiki/情報通信技術 "wikilink")。旧社名は**エヌ・ティ・ティ・ソフトウェア株式会社**（**NTTソフトウェア**、NTT Software Corporation、**NTT SOFT**とも表記）。

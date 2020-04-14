@@ -1,4 +1,4 @@
-> この記事は[GPWA](https://ja.wikipedia.org/wiki/GPWA)から翻訳されています。
+> この記事は[GPWA興行](https://ja.wikipedia.org/wiki/GPWA興行)から翻訳されています。
 
 
 **GPWA興行**は、**[グローバル・レスリング連盟](../Page/グローバル・レスリング連盟.md "wikilink")**が主催する[プロレス](../Page/プロレス.md "wikilink")[興行](../Page/興行.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Avex presents ](https://ja.wikipedia.org/wiki/Avex_presents_)から翻訳されています。
+> この記事は[Avex presents 茅原実里のいけないラジオ](https://ja.wikipedia.org/wiki/Avex_presents_茅原実里のいけないラジオ)から翻訳されています。
 
 
 **avex presents 茅原実里のいけないラジオ**（エイベックスプレゼンツ ちはらみのりのいけないラジオ）は、『[A\&G 超RADIO SHOW〜アニスパ\!〜](../Page/A&G_超RADIO_SHOW〜アニスパ!〜.md "wikilink")』の[内包番組として](../Page/フロート番組.md "wikilink")[2005年](../Page/2005年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")にかけて放送された[アニラジ](../Page/アニラジ.md "wikilink")番組。

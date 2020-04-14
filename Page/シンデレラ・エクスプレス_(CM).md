@@ -1,4 +1,4 @@
-> この記事は[ \(CM\)](https://ja.wikipedia.org/wiki/_\(CM\))から翻訳されています。
+> この記事は[シンデレラ・エクスプレス \(CM\)](https://ja.wikipedia.org/wiki/シンデレラ・エクスプレス_\(CM\))から翻訳されています。
 
 
 **シンデレラ・エクスプレス**とは、[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）が[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")と[1992年](../Page/1992年.md "wikilink")に展開していた[東海道新幹線](https://ja.wikipedia.org/wiki/東海道新幹線 "wikilink")のテレビ[CMである](../Page/コマーシャルメッセージ.md "wikilink")。

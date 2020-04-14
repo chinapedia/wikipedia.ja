@@ -1,4 +1,4 @@
-> この記事は[DEP \(\)](https://ja.wikipedia.org/wiki/DEP_\(\))から翻訳されています。
+> この記事は[DEP \(プロレス\)](https://ja.wikipedia.org/wiki/DEP_\(プロレス\))から翻訳されています。
 
 
 **DEP**（ディー・イー・ピー、ダイワ・エンターテイメント・プロレスリング）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[刈谷市](../Page/刈谷市.md "wikilink")を中心に活動している[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。

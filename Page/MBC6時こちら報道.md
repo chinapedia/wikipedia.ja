@@ -1,4 +1,4 @@
-> この記事は[MBC6](https://ja.wikipedia.org/wiki/MBC6)から翻訳されています。
+> この記事は[MBC6時こちら報道](https://ja.wikipedia.org/wiki/MBC6時こちら報道)から翻訳されています。
 
 
 『**MBC6時こちら報道**』（エムビースィーろくじ こちらほうどう）は、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBCテレビ）で夕方に放送されていた[鹿児島県](../Page/鹿児島県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

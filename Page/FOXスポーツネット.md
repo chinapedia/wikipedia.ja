@@ -1,4 +1,4 @@
-> この記事は[FOX](https://ja.wikipedia.org/wiki/FOX)から翻訳されています。
+> この記事は[FOXスポーツネット](https://ja.wikipedia.org/wiki/FOXスポーツネット)から翻訳されています。
 
 
 **FOXスポーツネット**（Fox Sports Net、**FSN**）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[スポーツ](../Page/スポーツ.md "wikilink")[専門チャンネル](../Page/専門チャンネル.md "wikilink")。[ESPN](../Page/ESPN.md "wikilink")のような全国向けの放送ではなく、ローカル向けの放送を行うRegional Sports Network（RSN）である。[シンクレア・ブロードキャスト・グループ](https://ja.wikipedia.org/wiki/シンクレア・ブロードキャスト・グループ "wikilink")傘下。

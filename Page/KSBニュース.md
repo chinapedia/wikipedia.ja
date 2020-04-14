@@ -1,4 +1,4 @@
-> この記事は[KSB](https://ja.wikipedia.org/wiki/KSB)から翻訳されています。
+> この記事は[KSBニュース](https://ja.wikipedia.org/wiki/KSBニュース)から翻訳されています。
 
 
 『**KSBニュース**』（ケイエスビーニュース）は、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")の[スポットニュース](../Page/スポットニュース.md "wikilink")番組の名称である。
@@ -32,8 +32,12 @@
 
 ## 外部リンク
 
-  - [瀬戸内海放送 ニュース](http://www.ksb.co.jp/newsweb/index)
+  - [KSB瀬戸内海放送 ニュース](https://www.ksb.co.jp/newsweb/index)
+
+  - （動画ニュースあり）
+
   - [Yahoo\!ニュース KSB瀬戸内海放送](https://news.yahoo.co.jp/media/ksbv) - 動画配信あり
+
   - [gooニュース KSB瀬戸内海放送](https://news.goo.ne.jp/publisher/ksb/) - 動画配信なし
 
 [Category:瀬戸内海放送の番組](https://ja.wikipedia.org/wiki/Category:瀬戸内海放送の番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:ANNニュースライナー](https://ja.wikipedia.org/wiki/Category:ANNニュースライナー "wikilink") [Category:ANNニュースレーダー](https://ja.wikipedia.org/wiki/Category:ANNニュースレーダー "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

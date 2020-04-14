@@ -1,4 +1,4 @@
-> この記事は[Avex presents ](https://ja.wikipedia.org/wiki/Avex_presents_)から翻訳されています。
+> この記事は[Avex presents 茅原実里の負けないラジオ](https://ja.wikipedia.org/wiki/Avex_presents_茅原実里の負けないラジオ)から翻訳されています。
 
 
 『**avex presents 茅原実里の負けないラジオ**』（えいべっくすぷれぜんつ ちはらみのりのまけないラジオ）は、[文化放送](../Page/文化放送.md "wikilink")で[2005年](../Page/2005年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")〜[2007年](../Page/2007年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")にかけて放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

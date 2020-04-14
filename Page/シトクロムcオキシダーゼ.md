@@ -1,4 +1,4 @@
-> この記事は[c](https://ja.wikipedia.org/wiki/c)から翻訳されています。
+> この記事は[シトクロムcオキシダーゼ](https://ja.wikipedia.org/wiki/シトクロムcオキシダーゼ)から翻訳されています。
 
 
 **シトクロム*c*オキシダーゼ** (cytochrome *c* oxidase, COX) または**複合体IV**（Complex IV）または**cytochrome *a<sub>3</sub>*** は、[バクテリア](https://ja.wikipedia.org/wiki/バクテリア "wikilink")および[ミトコンドリア](../Page/ミトコンドリア.md "wikilink")で見られる[膜貫通タンパク質](https://ja.wikipedia.org/wiki/膜貫通タンパク質 "wikilink")複合体の一つである。

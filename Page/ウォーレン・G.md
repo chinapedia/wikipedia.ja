@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ウォーレン・G](https://ja.wikipedia.org/wiki/ウォーレン・G)から翻訳されています。
 
 
 **ウォーレン・G**（**Warren G**、本名：Warren Griffin III、[1970年](../Page/1970年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")-）は[カリフォルニア州ロングビーチ出身で](../Page/ロングビーチ_\(カリフォルニア州\).md "wikilink")、[ウエスト・コースト](https://ja.wikipedia.org/wiki/ウエスト・サイド "wikilink")[ヒップホップ](../Page/ヒップホップ.md "wikilink")における[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")である。彼の最大のヒットシングルは[1994年](../Page/1994年.md "wikilink")に発表した、[ネイト・ドッグ](../Page/ネイト・ドッグ.md "wikilink")が共演した *Regulate* で、彼のプロデュースによる多くの楽曲同様[Gファンク](https://ja.wikipedia.org/wiki/Gファンク "wikilink")調のもの。音楽プロデューサー、MC、レコード会社経営者の[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")はウォーレンの母親の前夫との子供で、異父兄弟の義兄にあたる。

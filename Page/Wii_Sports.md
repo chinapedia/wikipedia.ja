@@ -131,8 +131,8 @@ RSPJ-0
 
 ## 外部リンク
 
-  - [Wii Sports 公式サイト](http://www.nintendo.co.jp/wii/rspj/index.html)
-  - [社長が訊く Wiiプロジェクト 『Wii Sports』編](http://www.nintendo.co.jp/wii/topics/interview/vol4/index.html)
+  - [Wii Sports 公式サイト](https://www.nintendo.co.jp/wii/rspj/)
+  - [社長が訊く Wiiプロジェクト『Wii Sports』編](https://www.nintendo.co.jp/wii/topics/interview/vol4/)
 
 [Category:2006年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2006年のコンピュータゲーム "wikilink") [Category:Wii用ソフト](https://ja.wikipedia.org/wiki/Category:Wii用ソフト "wikilink") [Category:スポーツゲーム](https://ja.wikipedia.org/wiki/Category:スポーツゲーム "wikilink") [Category:パーティーゲーム](https://ja.wikipedia.org/wiki/Category:パーティーゲーム "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:日本ゲーム大賞受賞ソフト](https://ja.wikipedia.org/wiki/Category:日本ゲーム大賞受賞ソフト "wikilink") [Category:オールタイム100ビデオゲーム選出](https://ja.wikipedia.org/wiki/Category:オールタイム100ビデオゲーム選出 "wikilink")
 

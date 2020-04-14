@@ -1,4 +1,4 @@
-> この記事は[f](https://ja.wikipedia.org/wiki/f)から翻訳されています。
+> この記事は[ルートf](https://ja.wikipedia.org/wiki/ルートf)から翻訳されています。
 
 
 『**ルートf**』（ルートエフ）は、[日本テレビ系列局で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[中京テレビ製作の](../Page/中京テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全52回。製作局の中京テレビでは[2003年](../Page/2003年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送。

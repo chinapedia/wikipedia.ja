@@ -1,4 +1,4 @@
-> この記事は[ \(au\)](https://ja.wikipedia.org/wiki/_\(au\))から翻訳されています。
+> この記事は[待ちうた \(au\)](https://ja.wikipedia.org/wiki/待ちうた_\(au\))から翻訳されています。
 
 
 **待ちうた**（まちうた）は、特定の相手が電話をかけたとき、相手側に聞こえる[呼出音](https://ja.wikipedia.org/wiki/呼出音 "wikilink")を歌やボイスに変える、[auのサービスで](../Page/Au_\(携帯電話\).md "wikilink")、[KDDI](../Page/KDDI.md "wikilink")の登録商標（第5276987号）である。2009年秋頃までは「EZ待ちうた」の名称が使用されていた。

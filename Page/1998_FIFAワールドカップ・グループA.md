@@ -1,4 +1,4 @@
-> この記事は[1998 FIFAA](https://ja.wikipedia.org/wiki/1998_FIFAA)から翻訳されています。
+> この記事は[1998 FIFAワールドカップ・グループA](https://ja.wikipedia.org/wiki/1998_FIFAワールドカップ・グループA)から翻訳されています。
 
 
 **[1998 FIFAワールドカップ](../Page/1998_FIFAワールドカップ.md "wikilink") グループA**は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ノルウェー](../Page/ノルウェー.md "wikilink")・[モロッコ](../Page/モロッコ.md "wikilink")・[スコットランド](../Page/スコットランド.md "wikilink")の4チームが組んだ。[6月10日](../Page/6月10日.md "wikilink")から[6月23日](../Page/6月23日.md "wikilink")まで6試合行い、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ノルウェー](../Page/ノルウェー.md "wikilink")が決勝トーナメントへ進出した。

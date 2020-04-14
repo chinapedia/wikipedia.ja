@@ -1,4 +1,4 @@
-> この記事は[-H](https://ja.wikipedia.org/wiki/-H)から翻訳されています。
+> この記事は[美女-H](https://ja.wikipedia.org/wiki/美女-H)から翻訳されています。
 
 
 **美女-H (びじょヒロイン)**は、2006年1月10日から2006年3月28日まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")で放送された深夜[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")([関東ローカル](../Page/関東ローカル.md "wikilink"))で、ヒロインシリーズの第2弾。[フォーサイド・ドット・コム](https://ja.wikipedia.org/wiki/フォーサイド・ドット・コム "wikilink")の[一社提供](../Page/一社提供.md "wikilink")。放映時間は、毎週火曜日深夜3時15分\~深夜3時45分。かつて、[静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink")・[テレ玉でも放送された](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")。

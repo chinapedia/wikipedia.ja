@@ -1,4 +1,4 @@
-> この記事は[V.I.P.](https://ja.wikipedia.org/wiki/V.I.P.)から翻訳されています。
+> この記事は[超V.I.P.](https://ja.wikipedia.org/wiki/超V.I.P.)から翻訳されています。
 
 
 **超V.I.P.**（ ちょう ビップ ）とは、1999年から2008年3月まで[フジテレビ制作](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・放送されていた深夜の情報番組。

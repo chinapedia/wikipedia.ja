@@ -31,4 +31,8 @@
   - 『[BEST 〜first things〜](../Page/BEST_〜first_things〜.md "wikilink")』
   - 『[BEST 〜BOUNCE & LOVERS〜](https://ja.wikipedia.org/wiki/BEST_〜BOUNCE_&_LOVERS〜 "wikilink")』※PV収録
 
+## 外部リンク
+
+  - [公式サイト作品紹介ページ So Into You](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004144)
+
 [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:JAPAN_COUNTDOWN](https://ja.wikipedia.org/wiki/Category:JAPAN_COUNTDOWN "wikilink") [Category:ランク王国](https://ja.wikipedia.org/wiki/Category:ランク王国 "wikilink") [Category:楽曲_そ](https://ja.wikipedia.org/wiki/Category:楽曲_そ "wikilink")

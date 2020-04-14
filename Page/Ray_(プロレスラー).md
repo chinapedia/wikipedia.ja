@@ -1,4 +1,4 @@
-> この記事は[Ray \(\)](https://ja.wikipedia.org/wiki/Ray_\(\))から翻訳されています。
+> この記事は[Ray \(プロレスラー\)](https://ja.wikipedia.org/wiki/Ray_\(プロレスラー\))から翻訳されています。
 
 
 **Ray**（レイ、生年月日非公表 - [2018年](../Page/2018年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女子](https://ja.wikipedia.org/wiki/女子 "wikilink")[プロレスラー](../Page/プロレスラー.md "wikilink")。

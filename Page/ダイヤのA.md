@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ダイヤのA](https://ja.wikipedia.org/wiki/ダイヤのA)から翻訳されています。
 
 
 『**ダイヤのA**』（ダイヤのエース、*Ace of Diamond*）は、[寺嶋裕二](../Page/寺嶋裕二.md "wikilink")による[日本の漫画](https://ja.wikipedia.org/wiki/日本の漫画 "wikilink")作品。『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて[2006年](../Page/2006年.md "wikilink")第24号から[2015年](../Page/2015年.md "wikilink")第7号まで第1部が連載され、同年第38号から第2部『**ダイヤのA actII**』（ダイヤのエース アクトツー）が連載開始した。
@@ -395,8 +395,8 @@
     薬師高校1年生クリーンナップの一人。投手、捕手、内野、外野のすべてのポジションを守ったことがあるオールラウンドプレイヤーで、雷蔵からの信頼も厚い。与えられた課題が難解なほど、燃えるタイプ。投手の時は、スリークウォーター気味のサイドスローでテンポ良く投げる。持ち球は縦のカーブ\[59\]。
   - 友部 先人（ともべ さきと）
     声 - [石井孝英](https://ja.wikipedia.org/wiki/石井孝英 "wikilink")
-    投手。左投げ。長南シニア出身。1年生。背番号18（1夏）
-    部員数の少ない薬師高校の貴重なサウスポー、鋭く曲がるスライダーとカーブが武器。また、手首の強さと下半身を柔らかく使うバッティングも評価されている。監督の雷蔵曰く「今年一番の拾いもの」。1年生ながら初の練習試合登板時から落ち着いたピッチングを見せ、真田に即戦力と言わしめた薬師の秘蔵っ子。
+    投手。左投げ左打ち。長南シニア出身。1年生。背番号18（1夏）
+    部員数の少ない薬師高校の貴重なサウスポー、鋭く曲がるスライダーとカーブが武器。また、柔らかい手首の使い方と変化球に崩されない下半身の強さを持つバッティングも評価されている。監督の雷蔵曰く「今年一番の拾いもの」。1年生ながら初の練習試合登板時から落ち着いたピッチングを見せ、真田に即戦力と言わしめた薬師の秘蔵っ子。
 
 #### 仙泉学園
 
@@ -587,7 +587,7 @@
 
 ## テレビアニメ
 
-2013年10月6日より[テレビ東京系列にて放送](../Page/TXNネットワーク.md "wikilink")。その後、2015年4月6日より、放送時間が日曜8時30分から月曜18時に変更され、新シリーズ『**ダイヤのA -SECOND SEASON-**』（ダイヤのエース セカンド・シーズン）が2016年3月28日まで放送された。2019年4月2日からは続編『**ダイヤのA actII**』が放送中\[64\]。第3期からは[細谷佳正](../Page/細谷佳正.md "wikilink")によるナレーションがつく。
+2013年10月6日より[テレビ東京系列にて放送](../Page/TXNネットワーク.md "wikilink")。その後、2015年4月6日より、放送時間が日曜8時30分から月曜18時に変更され、新シリーズ『**ダイヤのA -SECOND SEASON-**』（ダイヤのエース セカンド・シーズン）が2016年3月28日まで放送された。2019年4月2日からは続編『**ダイヤのA actII**』が2020年3月31日まで放送された\[64\]。第3期からは[細谷佳正](../Page/細谷佳正.md "wikilink")によるナレーションがついた。
 
 ストーリーはほぼ原作通りだが、放送時間の影響で下ネタや教育上悪影響を及ぼすと思われる描写はカットされている\[65\]。
 
@@ -777,7 +777,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>第1期 第1 - 25話・第2期 第1話</p></td>
+<td><p>第1期 第1 - 25話・第2期 第1話[70]</p></td>
 <td><p>'''Go EXCEED</p></td>
 <td><p>'''</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Tom-H@ck" title="wikilink">Tom-H@ck</a> featuring <a href="../Page/大石昌良.md" title="wikilink">大石昌良</a></p></td>
@@ -819,7 +819,7 @@
 </tr>
 <tr class="even">
 <td><p>第3期 第1 - 29話</p></td>
-<td><p><strong>はじまりのうた</strong>[70]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/G4・V-Democracy_2019-" title="wikilink">はじまりのうた</a></strong>[71]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -827,7 +827,7 @@
 </tr>
 <tr class="odd">
 <td><p>第3期 第30 -</p></td>
-<td><p><strong>流星のHowl</strong>[71]</p></td>
+<td><p><strong>流星のHowl</strong>[72]</p></td>
 <td><p><a href="../Page/TAKURO.md" title="wikilink">TAKURO</a></p></td>
 <td><p>TERU</p></td>
 <td><p>GLAY、Seiji kameda<br />
@@ -870,7 +870,7 @@ DJ Mass MAD Izm*</p></td>
 <tr class="odd">
 <td><p>第1期 第26 - 37話</p></td>
 <td><p><strong>未来へつなげ</strong></p></td>
-<td><p>D応P（ダイヤのA応援プロジェクト）[72]</p></td>
+<td><p>D応P（ダイヤのA応援プロジェクト）[73]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/矢吹香那" title="wikilink">矢吹香那</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/前口渉" title="wikilink">前口渉</a></p></td>
 <td></td>
@@ -878,7 +878,7 @@ DJ Mass MAD Izm*</p></td>
 <tr class="even">
 <td><p>第1期 第38 - 51話・第2期第2話</p></td>
 <td><p><strong>CLOUD NINE</strong></p></td>
-<td><p>青道高校野球部[73]</p></td>
+<td><p>青道高校野球部[74]</p></td>
 <td><p>稲葉エミ</p></td>
 <td><p>烏帽子マリ</p></td>
 <td></td>
@@ -894,7 +894,7 @@ DJ Mass MAD Izm*</p></td>
 <tr class="even">
 <td><p>第1期 第64 - 75話・第2期 第3話</p></td>
 <td><p><strong>FINAL VICTORY</strong></p></td>
-<td><p>青道高校野球部[74]</p></td>
+<td><p>青道高校野球部[75]</p></td>
 <td><p>烏帽子マリ</p></td>
 <td></td>
 <td></td>
@@ -910,7 +910,7 @@ DJ Mass MAD Izm*</p></td>
 <tr class="even">
 <td><p>第2期 第14 - 26話</p></td>
 <td><p><strong>BLUE WINDING ROAD</strong></p></td>
-<td><p>青道高校野球部[75]</p></td>
+<td><p>青道高校野球部[76]</p></td>
 <td><p>稲葉エミ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/園田健太郎" title="wikilink">園田健太郎</a></p></td>
 <td></td>
@@ -933,7 +933,7 @@ DJ Mass MAD Izm*</p></td>
 </tr>
 <tr class="odd">
 <td><p>第3期 第1 - 13話</p></td>
-<td><p><strong>ゴールデンアフタースクール</strong>[76]</p></td>
+<td><p><strong>ゴールデンアフタースクール</strong>[77]</p></td>
 <td><p>OxT</p></td>
 <td><p>大石昌良</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KanadeYUK" title="wikilink">KanadeYUK</a><br />
@@ -942,18 +942,26 @@ Tom-H@ck</p></td>
 </tr>
 <tr class="even">
 <td><p>第3期 第14 - 29話</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/鼓動エスカレーション" title="wikilink">鼓動エスカレーション</a></strong>[77]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/鼓動エスカレーション" title="wikilink">鼓動エスカレーション</a></strong>[78]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/内田真礼" title="wikilink">内田真礼</a></p></td>
 <td><p>hotaru</p></td>
 <td><p>Tom-H@ck</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第3期 第30 -</p></td>
-<td><p><strong>チャンス！</strong>[78]</p></td>
+<td><p>第3期 第30 - 39話</p></td>
+<td><p><strong>チャンス！</strong>[79]</p></td>
 <td><p>三森すずこ</p></td>
 <td><p>大石昌良</p></td>
 <td><p>大石昌良、yamazo</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第3期 第40 - 44話・第46 -</p></td>
+<td><p><strong>Everlasting Dream</strong></p></td>
+<td><p>OxT</p></td>
+<td><p>Tom-H@ck</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -2712,6 +2720,63 @@ Park Jae-ik</p></td>
 <td><p>Kim Hee-jung、Lee Bang-won</p></td>
 <td><p>2月25日</p></td>
 </tr>
+<tr class="even">
+<td><p>48</p></td>
+<td><p>Get Back</p></td>
+<td><p>澤井幸次</p></td>
+<td><p>渡邉こと乃</p></td>
+<td><p>岡郁美、早乙女啓、齊藤格<br />
+松本まみ子、志水よしこ<br />
+Park Soon-Ok、Kim Bong-Duck<br />
+Lee Bang-Won、Shim Min Hyeon<br />
+Song Jin-hee</p></td>
+<td><p>3月3日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>49</p></td>
+<td><p>本気の青道</p></td>
+<td><p>藤咲淳一</p></td>
+<td><p>竹内光</p></td>
+<td><p>ながはまのりひこ</p></td>
+<td><p>小山知洋</p></td>
+<td><p>3月10日</p></td>
+</tr>
+<tr class="even">
+<td><p>50</p></td>
+<td><p>FIRE AGE</p></td>
+<td><p>藤咲あゆな</p></td>
+<td><p>吉川浩司</p></td>
+<td><p>北川朋哉</p></td>
+<td><p>日向正樹、Hwang Il-Jin<br />
+Kim Eun-sun、Lee Bu-hee<br />
+Hong Yu-mi、Yu Seong-chul</p></td>
+<td><p>3月17日</p></td>
+</tr>
+<tr class="odd">
+<td><p>51</p></td>
+<td><p>それでこそ</p></td>
+<td><p>宇田川貴広</p></td>
+<td><p>しまづひろゆき</p></td>
+<td><p>高田恭輔<br />
+Kim Min-sun</p></td>
+<td><p>Song Jin-hee、Lee Boo-hee<br />
+Hwang Il-jin、THE SUN<br />
+早乙女啓、松本まみ子</p></td>
+<td><p>3月24日</p></td>
+</tr>
+<tr class="even">
+<td><p>52</p></td>
+<td><p>Ace Of Diamond</p></td>
+<td><p>古怒田健志</p></td>
+<td><p>三原武憲</p></td>
+<td><p>川野麻美<br />
+白石達也</p></td>
+<td><p>志水よしこ、松本まみ子<br />
+早乙女啓、岡郁美、小林亮<br />
+Go Gyoung Nam、Han Jung Y</p></td>
+<td><p>3月31日</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -2724,7 +2789,7 @@ Park Jae-ik</p></td>
 <table>
 <thead>
 <tr class="header">
-<th><p>巻[79]</p></th>
+<th><p>巻[80]</p></th>
 <th><p>発売日</p></th>
 <th><p>収録話</p></th>
 <th><p>規格品番</p></th>
@@ -2912,7 +2977,7 @@ Park Jae-ik</p></td>
 <td><p>PCBG-52357</p></td>
 </tr>
 <tr class="odd">
-<td><p>第3期[80]</p></td>
+<td><p>第3期[81]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2949,7 +3014,7 @@ Park Jae-ik</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>2020年3月25日予定</p></td>
+<td><p>2020年3月25日</p></td>
 <td><p>第28話 - 第33話</p></td>
 <td><p>PCXG-50666</p></td>
 </tr>
@@ -3314,23 +3379,23 @@ PCCN-00022</p></td>
 
 ### ダイヤのA The RADIO
 
-2017年1月5日より6月29日まで[文化放送](../Page/文化放送.md "wikilink")にて木曜21時30分に放送された\[81\]。パーソナリティはアニメで沢村栄純役を務める[逢坂良太](https://ja.wikipedia.org/wiki/逢坂良太 "wikilink")と、舞台で御幸一也役を務める[和田琢磨が週替わりで担当した](https://ja.wikipedia.org/wiki/和田琢磨_\(俳優\) "wikilink")。
+2017年1月5日より6月29日まで[文化放送](../Page/文化放送.md "wikilink")にて木曜21時30分に放送された\[82\]。パーソナリティはアニメで沢村栄純役を務める[逢坂良太](https://ja.wikipedia.org/wiki/逢坂良太 "wikilink")と、舞台で御幸一也役を務める[和田琢磨が週替わりで担当した](https://ja.wikipedia.org/wiki/和田琢磨_\(俳優\) "wikilink")。
 
 ## 舞台
 
-第1弾『**ダイヤのA The LIVE**』は、[2015年](../Page/2015年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")から[8月9日](../Page/8月9日.md "wikilink")まで[Zeppブルーシアター六本木](https://ja.wikipedia.org/wiki/Zeppブルーシアター六本木 "wikilink")で上演された。脚本・演出は[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")、制作はOffice ENDLESSが担当。[野球漫画](../Page/野球漫画.md "wikilink")が舞台化されるのは、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")の『[巨人の星](../Page/巨人の星.md "wikilink")』以来46年ぶりとなる\[82\]。
+第1弾『**ダイヤのA The LIVE**』は、[2015年](../Page/2015年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")から[8月9日](../Page/8月9日.md "wikilink")まで[Zeppブルーシアター六本木](https://ja.wikipedia.org/wiki/Zeppブルーシアター六本木 "wikilink")で上演された。脚本・演出は[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")、制作はOffice ENDLESSが担当。[野球漫画](../Page/野球漫画.md "wikilink")が舞台化されるのは、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")の『[巨人の星](../Page/巨人の星.md "wikilink")』以来46年ぶりとなる\[83\]。
 
-舞台化が発表された当初は、浅沼が脚本、浅沼と[川尻恵太](https://ja.wikipedia.org/wiki/川尻恵太 "wikilink")が演出で、[2015年](../Page/2015年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")から[1月31日](../Page/1月31日.md "wikilink")に[紀伊國屋サザンシアターで上演予定だったが](https://ja.wikipedia.org/wiki/紀伊國屋サザンシアター_TAKASHIMAYA "wikilink")、公演延期となっていた\[83\]。
+舞台化が発表された当初は、浅沼が脚本、浅沼と[川尻恵太](https://ja.wikipedia.org/wiki/川尻恵太 "wikilink")が演出で、[2015年](../Page/2015年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink")から[1月31日](../Page/1月31日.md "wikilink")に[紀伊國屋サザンシアターで上演予定だったが](https://ja.wikipedia.org/wiki/紀伊國屋サザンシアター_TAKASHIMAYA "wikilink")、公演延期となっていた\[84\]。
 
-第2弾『**ダイヤのA The LIVE II**』は、[2016年](../Page/2016年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")から[3月21日](../Page/3月21日.md "wikilink")まで[天王洲 銀河劇場で](../Page/天王洲_銀河劇場.md "wikilink")、[3月24日](../Page/3月24日.md "wikilink")に[名古屋文理大学文化フォーラム大ホールで](https://ja.wikipedia.org/wiki/稲沢市民会館 "wikilink")、[4月1日](../Page/4月1日.md "wikilink")から[4月3日](../Page/4月3日.md "wikilink")まで[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink")で上演された\[84\]。
+第2弾『**ダイヤのA The LIVE II**』は、[2016年](../Page/2016年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")から[3月21日](../Page/3月21日.md "wikilink")まで[天王洲 銀河劇場で](../Page/天王洲_銀河劇場.md "wikilink")、[3月24日](../Page/3月24日.md "wikilink")に[名古屋文理大学文化フォーラム大ホールで](https://ja.wikipedia.org/wiki/稲沢市民会館 "wikilink")、[4月1日](../Page/4月1日.md "wikilink")から[4月3日](../Page/4月3日.md "wikilink")まで[森ノ宮ピロティホール](https://ja.wikipedia.org/wiki/森ノ宮ピロティホール "wikilink")で上演された\[85\]。
 
-第3弾『**ダイヤのA The LIVE III**』は、2016年[8月19日](../Page/8月19日.md "wikilink")から[9月4日](../Page/9月4日.md "wikilink")までZeppブルーシアター六本木で上演された\[85\]。
+第3弾『**ダイヤのA The LIVE III**』は、2016年[8月19日](../Page/8月19日.md "wikilink")から[9月4日](../Page/9月4日.md "wikilink")までZeppブルーシアター六本木で上演された\[86\]。
 
-第4弾『**ダイヤのA The LIVE IV**』は、[2017年](../Page/2017年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[4月13日](../Page/4月13日.md "wikilink")まで[シアター1010](../Page/シアター1010.md "wikilink")で、[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")から[4月23日](../Page/4月23日.md "wikilink")まで[梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")で上演された\[86\]。
+第4弾『**ダイヤのA The LIVE IV**』は、[2017年](../Page/2017年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[4月13日](../Page/4月13日.md "wikilink")まで[シアター1010](../Page/シアター1010.md "wikilink")で、[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")から[4月23日](../Page/4月23日.md "wikilink")まで[梅田芸術劇場](../Page/梅田芸術劇場.md "wikilink")で上演された\[87\]。
 
 第3弾と第4弾ではマネージャーの吉川春乃役をテレビアニメ版と同じく声優の[遠藤ゆりか](https://ja.wikipedia.org/wiki/遠藤ゆりか "wikilink")が演じている。
 
-第5弾『**ダイヤのA The LIVE V**』は、2017年[9月7日](../Page/9月7日.md "wikilink")から[9月10日](../Page/9月10日.md "wikilink")まで[新神戸オリエンタル劇場で](../Page/新神戸オリエンタルシティ.md "wikilink")、[9月12日](../Page/9月12日.md "wikilink")から[9月14日](../Page/9月14日.md "wikilink")まで[JMSアステールプラザ中ホールで](../Page/アステールプラザ.md "wikilink")、[9月17日](../Page/9月17日.md "wikilink")から[9月18日](../Page/9月18日.md "wikilink")まで[北九州芸術劇場](../Page/北九州芸術劇場.md "wikilink")大ホールで、[9月20日](../Page/9月20日.md "wikilink")から[9月24日](../Page/9月24日.md "wikilink")までシアター1010で上演された\[87\]。また、9月24日に行われた大千秋楽公演の模様を全国の映画館で[ライブビューイング](../Page/ライブビューイング.md "wikilink")された\[88\]。
+第5弾『**ダイヤのA The LIVE V**』は、2017年[9月7日](../Page/9月7日.md "wikilink")から[9月10日](../Page/9月10日.md "wikilink")まで[新神戸オリエンタル劇場で](../Page/新神戸オリエンタルシティ.md "wikilink")、[9月12日](../Page/9月12日.md "wikilink")から[9月14日](../Page/9月14日.md "wikilink")まで[JMSアステールプラザ中ホールで](../Page/アステールプラザ.md "wikilink")、[9月17日](../Page/9月17日.md "wikilink")から[9月18日](../Page/9月18日.md "wikilink")まで[北九州芸術劇場](../Page/北九州芸術劇場.md "wikilink")大ホールで、[9月20日](../Page/9月20日.md "wikilink")から[9月24日](../Page/9月24日.md "wikilink")までシアター1010で上演された\[88\]。また、9月24日に行われた大千秋楽公演の模様を全国の映画館で[ライブビューイング](../Page/ライブビューイング.md "wikilink")された\[89\]。
 
 ## モバイルゲーム
 
@@ -3345,7 +3410,7 @@ PCCN-00022</p></td>
 ## コラボレーション
 
   - [ローソン](../Page/ローソン.md "wikilink")
-    2016年3月、「からあげクン」を手に持ったキャラクタービジュアルのクリアファイルが当たるキャンペーンのほか、グッズも販売。28日まで沢村（声・[逢坂良太](https://ja.wikipedia.org/wiki/逢坂良太 "wikilink")）が務める店内放送が流れる\[89\]。
+    2016年3月、「からあげクン」を手に持ったキャラクタービジュアルのクリアファイルが当たるキャンペーンのほか、グッズも販売。28日まで沢村（声・[逢坂良太](https://ja.wikipedia.org/wiki/逢坂良太 "wikilink")）が務める店内放送が流れる\[90\]。
   - [パワプロアプリ](https://ja.wikipedia.org/wiki/実況パワフルプロ野球_\(スマートフォン\) "wikilink")、[実況パワフルプロ野球サクセススペシャル](https://ja.wikipedia.org/wiki/実況パワフルプロ野球サクセススペシャル "wikilink")
     ダイヤのAの世界を舞台とした『青道高校』編を配信。シナリオにはダイヤのAの登場人物も登場。
 
@@ -3452,13 +3517,13 @@ PCCN-00022</p></td>
 67.
 68.
 69. [百石元](https://ja.wikipedia.org/wiki/百石元 "wikilink")、[小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink")、[Tom-H@ck](https://ja.wikipedia.org/wiki/Tom-H@ck "wikilink")、[yamazo](https://ja.wikipedia.org/wiki/yamazo "wikilink")、[奈良悠樹](https://ja.wikipedia.org/wiki/奈良悠樹 "wikilink")、丘ナオキ、[中山真斗](https://ja.wikipedia.org/wiki/中山真斗 "wikilink")
-70.
+70. 第3期45話では挿入歌として使用
 71.
-72. 蒼月若菜（[加地綾乃](https://ja.wikipedia.org/wiki/加地綾乃 "wikilink")）、吉川春乃（[遠藤ゆりか](https://ja.wikipedia.org/wiki/遠藤ゆりか "wikilink")）、藤原貴子（[山口立花子](../Page/山口立花子.md "wikilink")）、梅本幸子（[花守ゆみり](https://ja.wikipedia.org/wiki/花守ゆみり "wikilink")）、夏川唯（[高橋花林](https://ja.wikipedia.org/wiki/高橋花林 "wikilink")）、[A応P](https://ja.wikipedia.org/wiki/A応P "wikilink")。
-73. 沢村栄純（[逢坂良太](https://ja.wikipedia.org/wiki/逢坂良太 "wikilink")）、降谷暁（[島﨑信長](https://ja.wikipedia.org/wiki/島崎信長 "wikilink")）、小湊春市（[花江夏樹](https://ja.wikipedia.org/wiki/花江夏樹 "wikilink")）。
-74. ボーカル - 沢村栄純（逢坂良太） / コーラス - 降谷暁（島﨑信長）、御幸一也（[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")）、小湊春市（花江夏樹）、結城哲也（[細谷佳正](../Page/細谷佳正.md "wikilink")）、倉持洋一（[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")）、伊佐敷純（[小野友樹](../Page/小野友樹.md "wikilink")）、滝川・クリス・優（[浪川大輔](../Page/浪川大輔.md "wikilink")）、丹波光一郎（[森田成一](../Page/森田成一.md "wikilink")）、小湊亮介（[岡本信彦](../Page/岡本信彦.md "wikilink")）、川上憲史（[下野紘](../Page/下野紘.md "wikilink")）、増子透（[羽多野渉](../Page/羽多野渉.md "wikilink")）、金丸信二（[松岡禎丞](https://ja.wikipedia.org/wiki/松岡禎丞 "wikilink")）、東条秀明（[蒼井翔太](../Page/蒼井翔太.md "wikilink")）。
-75. 沢村栄純（逢坂良太）、降谷暁（島﨑信長）、小湊春市（花江夏樹）、金丸信二（松岡禎丞）、東条秀明（蒼井翔太）。
-76.
+72.
+73. 蒼月若菜（[加地綾乃](https://ja.wikipedia.org/wiki/加地綾乃 "wikilink")）、吉川春乃（[遠藤ゆりか](https://ja.wikipedia.org/wiki/遠藤ゆりか "wikilink")）、藤原貴子（[山口立花子](../Page/山口立花子.md "wikilink")）、梅本幸子（[花守ゆみり](https://ja.wikipedia.org/wiki/花守ゆみり "wikilink")）、夏川唯（[高橋花林](https://ja.wikipedia.org/wiki/高橋花林 "wikilink")）、[A応P](https://ja.wikipedia.org/wiki/A応P "wikilink")。
+74. 沢村栄純（[逢坂良太](https://ja.wikipedia.org/wiki/逢坂良太 "wikilink")）、降谷暁（[島﨑信長](https://ja.wikipedia.org/wiki/島崎信長 "wikilink")）、小湊春市（[花江夏樹](https://ja.wikipedia.org/wiki/花江夏樹 "wikilink")）。
+75. ボーカル - 沢村栄純（逢坂良太） / コーラス - 降谷暁（島﨑信長）、御幸一也（[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")）、小湊春市（花江夏樹）、結城哲也（[細谷佳正](../Page/細谷佳正.md "wikilink")）、倉持洋一（[浅沼晋太郎](../Page/浅沼晋太郎.md "wikilink")）、伊佐敷純（[小野友樹](../Page/小野友樹.md "wikilink")）、滝川・クリス・優（[浪川大輔](../Page/浪川大輔.md "wikilink")）、丹波光一郎（[森田成一](../Page/森田成一.md "wikilink")）、小湊亮介（[岡本信彦](../Page/岡本信彦.md "wikilink")）、川上憲史（[下野紘](../Page/下野紘.md "wikilink")）、増子透（[羽多野渉](../Page/羽多野渉.md "wikilink")）、金丸信二（[松岡禎丞](https://ja.wikipedia.org/wiki/松岡禎丞 "wikilink")）、東条秀明（[蒼井翔太](../Page/蒼井翔太.md "wikilink")）。
+76. 沢村栄純（逢坂良太）、降谷暁（島﨑信長）、小湊春市（花江夏樹）、金丸信二（松岡禎丞）、東条秀明（蒼井翔太）。
 77.
 78.
 79.
@@ -3472,3 +3537,4 @@ PCCN-00022</p></td>
 87.
 88.
 89.
+90.

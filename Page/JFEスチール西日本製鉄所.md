@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEスチール西日本製鉄所](https://ja.wikipedia.org/wiki/JFEスチール西日本製鉄所)から翻訳されています。
 
 
 **JFEスチール西日本製鉄所**（ジェイエフイースチールにしにほんせいてつしょ）は、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")鋼管町1番地および[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")[水島川崎通り](../Page/水島地域.md "wikilink")1丁目にある[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")の[銑鋼一貫製鉄所](https://ja.wikipedia.org/wiki/銑鋼一貫製鉄所 "wikilink")。福山地区と倉敷地区に分かれている。管理業務事務所は福山地区に所在。

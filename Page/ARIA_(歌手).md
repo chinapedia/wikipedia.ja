@@ -1,4 +1,4 @@
-> この記事は[ARIA \(\)](https://ja.wikipedia.org/wiki/ARIA_\(\))から翻訳されています。
+> この記事は[ARIA \(歌手\)](https://ja.wikipedia.org/wiki/ARIA_\(歌手\))から翻訳されています。
 
 
 **ARIA**（アリア、生年月日非公表）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")である。所属[レーベルは](../Page/レコードレーベル.md "wikilink")[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
@@ -256,6 +256,6 @@ RZCD-46045</p></td>
 
   - [ARIA OFFICIAL WEB //ARIA公式サイト](http://ariabiglove.com/)（公式ホームページ）
   - [U'S MUSIC Co.,Ltd. //ARIA](http://usmusic.co.jp/aria/)
-  - [ARIAオフィシャルブログ MUSIC AND THE CITY](http://ameblo.jp/aria-matc/)
+  - [ARIAオフィシャルブログ MUSIC AND THE CITY](https://ameblo.jp/aria-matc/)
 
 [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:GyaOジョッキー](https://ja.wikipedia.org/wiki/Category:GyaOジョッキー "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

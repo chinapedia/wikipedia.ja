@@ -1,4 +1,4 @@
-> この記事は[SHIHO \(\)](https://ja.wikipedia.org/wiki/SHIHO_\(\))から翻訳されています。
+> この記事は[SHIHO \(ボーカリスト\)](https://ja.wikipedia.org/wiki/SHIHO_\(ボーカリスト\))から翻訳されています。
 
 
 **SHIHO**（しほ、[12月16日](../Page/12月16日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")出身。[身長](../Page/身長.md "wikilink")161[cm](../Page/センチメートル.md "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。

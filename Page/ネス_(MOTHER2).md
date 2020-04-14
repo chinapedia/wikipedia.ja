@@ -1,4 +1,4 @@
-> この記事は[ \(MOTHER2\)](https://ja.wikipedia.org/wiki/_\(MOTHER2\))から翻訳されています。
+> この記事は[ネス \(MOTHER2\)](https://ja.wikipedia.org/wiki/ネス_\(MOTHER2\))から翻訳されています。
 
 
 **ネス**()は、[任天堂](../Page/任天堂.md "wikilink")が発売した[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")『[MOTHER2 ギーグの逆襲](../Page/MOTHER2_ギーグの逆襲.md "wikilink")』に登場する架空の人物で、同作の主人公。

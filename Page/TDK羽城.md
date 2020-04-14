@@ -1,4 +1,4 @@
-> この記事は[TDK](https://ja.wikipedia.org/wiki/TDK)から翻訳されています。
+> この記事は[TDK羽城](https://ja.wikipedia.org/wiki/TDK羽城)から翻訳されています。
 
 
 **TDK羽城株式会社**（ティーディーケイうじょう）は、中高圧コンデンサ、ディップコンデンサの製造を行っていた[TDK](../Page/TDK.md "wikilink")の100%出資の子会社。[秋田県](../Page/秋田県.md "wikilink")[潟上市](../Page/潟上市.md "wikilink")に本社があったが、平成24年7月に[TDK-MCC](../Page/TDK-MCC.md "wikilink")に吸収合併し消滅した\[1\]。

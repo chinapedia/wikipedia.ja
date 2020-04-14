@@ -1,4 +1,4 @@
-> この記事は[Chu!Lips](https://ja.wikipedia.org/wiki/Chu!Lips)から翻訳されています。
+> この記事は[Chu!☆Lips](https://ja.wikipedia.org/wiki/Chu!☆Lips)から翻訳されています。
 
 
 **Chu\!☆Lips**（チュッリップス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ。略称は**チュップス**。
@@ -341,11 +341,11 @@
 
   - [レコード会社のアーティストページ](http://www.south-to-north.net/artists/chu-lips)
 
-  - [なっちんのブログ](http://ameblo.jp/chu-nattin/)
+  - [なっちんのブログ](https://ameblo.jp/chu-nattin/)
 
-  - [りおのブログ](http://ameblo.jp/chu-rio/)
+  - [りおのブログ](https://ameblo.jp/chu-rio/)
 
-  - [栗田のブログ](http://ameblo.jp/shiori-kurita/)
+  - [栗田のブログ](https://ameblo.jp/shiori-kurita/)
 
   -
   -

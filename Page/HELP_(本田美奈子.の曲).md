@@ -1,4 +1,4 @@
-> この記事は[HELP \(.\)](https://ja.wikipedia.org/wiki/HELP_\(.\))から翻訳されています。
+> この記事は[HELP \(本田美奈子.の曲\)](https://ja.wikipedia.org/wiki/HELP_\(本田美奈子.の曲\))から翻訳されています。
 
 
 「**HELP**」（ヘルプ）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発売された[本田美奈子のシングル](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。

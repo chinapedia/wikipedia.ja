@@ -1,4 +1,4 @@
-> この記事は[Oz \(\)](https://ja.wikipedia.org/wiki/Oz_\(\))から翻訳されています。
+> この記事は[Oz \(プログラミング言語\)](https://ja.wikipedia.org/wiki/Oz_\(プログラミング言語\))から翻訳されています。
 
 
 **Oz** は、[ザールラント大学](https://ja.wikipedia.org/wiki/ザールラント大学 "wikilink") Programming Systems Lab で開発された[マルチパラダイム型プログラミング言語である](https://ja.wikipedia.org/wiki/マルチパラダイムプログラミング言語 "wikilink")。

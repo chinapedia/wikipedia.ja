@@ -1,4 +1,4 @@
-> この記事は[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA)から翻訳されています。
+> この記事は[KADOKAWAの漫画レーベル](https://ja.wikipedia.org/wiki/KADOKAWAの漫画レーベル)から翻訳されています。
 
 
 **KADOKAWAの漫画レーベル**（カドカワのまんがレーベル）では、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")が発行・発売している、もしくは旧[角川グループパブリッシング](https://ja.wikipedia.org/wiki/角川グループパブリッシング "wikilink")（角川GP）が発売元となっていた[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")単行本のレーベル一覧について、各[ブランド](../Page/ブランド.md "wikilink")（旧[ブランドカンパニー](../Page/社内カンパニー.md "wikilink")）別に記述する。

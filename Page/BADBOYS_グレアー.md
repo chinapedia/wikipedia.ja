@@ -1,4 +1,4 @@
-> この記事は[BADBOYS ](https://ja.wikipedia.org/wiki/BADBOYS_)から翻訳されています。
+> この記事は[BADBOYS グレアー](https://ja.wikipedia.org/wiki/BADBOYS_グレアー)から翻訳されています。
 
 
 『**BADBOYS グレアー**』（バッドボーイズ グレアー）は、[田中宏による](../Page/田中宏_\(漫画家\).md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

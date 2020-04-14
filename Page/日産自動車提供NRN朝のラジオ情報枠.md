@@ -1,4 +1,4 @@
-> この記事は[NRN](https://ja.wikipedia.org/wiki/NRN)から翻訳されています。
+> この記事は[日産自動車提供NRN朝のラジオ情報枠](https://ja.wikipedia.org/wiki/日産自動車提供NRN朝のラジオ情報枠)から翻訳されています。
 
 
 **日産自動車提供NRN朝のラジオ情報枠**は、[日産自動車](../Page/日産自動車.md "wikilink")の一社提供で、[ニッポン放送](../Page/ニッポン放送.md "wikilink")をはじめとする[NRN加盟局](../Page/全国ラジオネットワーク.md "wikilink")（[茨城放送](../Page/茨城放送.md "wikilink")、[栃木放送](https://ja.wikipedia.org/wiki/栃木放送 "wikilink")を除く）と　[岐阜放送](../Page/岐阜放送ラジオ.md "wikilink")（独立局）で、平日朝（主に7時台から8時台の間）に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[企画ネット番組](../Page/企画ネット番組.md "wikilink")）の枠名である。放送開始は、[1960年代](../Page/1960年代.md "wikilink")後期頃。基本的に、内容は各局別。一部の局は、タイトルが別である（STVラジオの「**日産オハヨージャーナル**」など）。[2006年](../Page/2006年.md "wikilink")3月までは、土曜日も放送していた。
@@ -58,7 +58,7 @@
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")
-  - [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")
+  - [九州朝日放送](../Page/KBCラジオ.md "wikilink")
   - [長崎放送](https://ja.wikipedia.org/wiki/長崎放送 "wikilink")
   - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
   - [大分放送](https://ja.wikipedia.org/wiki/大分放送 "wikilink")

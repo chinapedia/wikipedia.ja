@@ -1,4 +1,4 @@
-> この記事は[WM](https://ja.wikipedia.org/wiki/WM)から翻訳されています。
+> この記事は[W・M・ケック天文台](https://ja.wikipedia.org/wiki/W・M・ケック天文台)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:The_Keck_Subaru_and_Infrared_obervatories.JPG "wikilink") **ケック天文台** () は、[ハワイ島](../Page/ハワイ島.md "wikilink")[マウナケア山頂天文台群にある](../Page/マウナケア天文台群.md "wikilink")[天文台](../Page/天文台.md "wikilink")。10m光学近赤外線望遠鏡を2基保有し、数多くの[天文学](../Page/天文学.md "wikilink")的発見をしている。隣は日本の[すばる望遠鏡](https://ja.wikipedia.org/wiki/すばる望遠鏡 "wikilink")。

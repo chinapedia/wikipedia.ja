@@ -1,4 +1,4 @@
-> この記事は[ I](https://ja.wikipedia.org/wiki/_I)から翻訳されています。
+> この記事は[ユーズ・ユア・イリュージョン I](https://ja.wikipedia.org/wiki/ユーズ・ユア・イリュージョン_I)から翻訳されています。
 
 
 **ユーズ・ユア・イリュージョンI**（Use Your Illusion I）は、[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")の2枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。

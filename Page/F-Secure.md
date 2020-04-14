@@ -53,9 +53,9 @@ F-Secure TOTAL: 以下の3つのソフトウェアからなるスイート
 
   - \- F-SecureのChief Research Officer
 
-## 社員による不祥事
+## 事件・不祥事
 
-**元社員による意図的な個人情報公開事件**
+### 元社員による意図的な個人情報公開事件
 
 [2015年](../Page/2015年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")[はすみとしこ](https://ja.wikipedia.org/wiki/はすみとしこ "wikilink")が描いた難民を批判する[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")に対して[Facebook](../Page/Facebook.md "wikilink")上で評価した人物400人分の氏名、居住地、勤務先、出身校などの[個人情報](../Page/個人情報.md "wikilink")のリストがネット上に無断で公開される事件が発生した\[1\]。無断公開を行った人物は、[千葉麗子](../Page/千葉麗子.md "wikilink")の[Twitter](../Page/Twitter.md "wikilink")の書き込みから、千葉が反原発運動に参加するなかで知り合ったF-Secure日本法人の社員であることが特定された\[2\]。この人物が[SEALDsの支持者であり](https://ja.wikipedia.org/wiki/自由と民主主義のための学生緊急行動 "wikilink")、千葉に「ぱよぱよちーん」という特異なツイートを繰り返し集中的に発信していたことから[ネット上で炎上を招き](../Page/炎上_\(ネット用語\).md "wikilink")、インターネットユーザーにより特定されるに至ったものである\[3\]。
 

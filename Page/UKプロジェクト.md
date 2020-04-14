@@ -1,4 +1,4 @@
-> この記事は[UK](https://ja.wikipedia.org/wiki/UK)から翻訳されています。
+> この記事は[UKプロジェクト](https://ja.wikipedia.org/wiki/UKプロジェクト)から翻訳されています。
 
 
 **株式会社ユーケープロジェクト**（UK.PROJECT INC.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[レコード会社](../Page/レコード会社.md "wikilink")\[1\]及び、[芸能事務所](../Page/芸能事務所.md "wikilink")、[音楽出版社](https://ja.wikipedia.org/wiki/音楽出版社 "wikilink")。

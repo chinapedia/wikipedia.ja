@@ -1,4 +1,4 @@
-> この記事は[Io \(\)](https://ja.wikipedia.org/wiki/Io_\(\))から翻訳されています。
+> この記事は[Io \(プログラミング言語\)](https://ja.wikipedia.org/wiki/Io_\(プログラミング言語\))から翻訳されています。
 
 
 **Io**（イオあるいはアイオー\[1\]）は純粋な[オブジェクト指向](../Page/オブジェクト指向プログラミング.md "wikilink")[プログラミング言語](../Page/プログラミング言語.md "wikilink")であり、[Smalltalk](../Page/Smalltalk.md "wikilink")、[Self](../Page/Self.md "wikilink")、[Lua](../Page/Lua.md "wikilink")、[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")、Act1、の影響を受けている。Self や NewtonScript のような[プロトタイプベース](../Page/プロトタイプベース.md "wikilink")のオブジェクトモデルであり、[オブジェクトと](../Page/オブジェクト_\(プログラミング\).md "wikilink")[クラスを区別しない](../Page/クラス_\(コンピュータ\).md "wikilink")。Smalltalk のようにあらゆるものをオブジェクトとして扱い、[動的型付け](../Page/動的型付け.md "wikilink")を行う。LISPのように文の概念がなく、[制御フロー](https://ja.wikipedia.org/wiki/制御フロー "wikilink")は関数を使って実現される。Io は[アクターによる並行性を実現しており](../Page/アクターモデル.md "wikilink")、のプログラミング言語には珍しい特徴となっている。

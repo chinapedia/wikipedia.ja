@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFE東日本ジーエス](https://ja.wikipedia.org/wiki/JFE東日本ジーエス)から翻訳されています。
 
 
 **JFE東日本ジーエス株式会社**（ジェイエフイーひがしにほんジーエス）は、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの総合サービス会社。事業内容は、[ビルの管理や](https://ja.wikipedia.org/wiki/ビルディング "wikilink")、[緑化](../Page/緑化.md "wikilink")[造園](../Page/造園.md "wikilink")・[印刷](../Page/印刷.md "wikilink")など[製鉄所](../Page/製鉄所.md "wikilink")の周辺業務、[清掃](../Page/清掃.md "wikilink")業務、防災設備の工事および保守点検、[食品](../Page/食品.md "wikilink")[衛生](../Page/衛生.md "wikilink")検査分析、[環境](../Page/環境.md "wikilink")分析、[廃棄物](../Page/廃棄物.md "wikilink")の収集運搬処理、各種[コンサルティング](../Page/コンサルティング.md "wikilink")、[病院](../Page/病院.md "wikilink")サービスなどと多岐にわたる。

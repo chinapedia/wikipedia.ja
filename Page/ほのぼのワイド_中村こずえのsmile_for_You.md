@@ -1,4 +1,4 @@
-> この記事は[ smile for You](https://ja.wikipedia.org/wiki/_smile_for_You)から翻訳されています。
+> この記事は[ほのぼのワイド 中村こずえのsmile for You](https://ja.wikipedia.org/wiki/ほのぼのワイド_中村こずえのsmile_for_You)から翻訳されています。
 
 
 **ほのぼのワイド 中村こずえのsmile for You**（ほのぼのワイド なかむらこずえのスマイルフォーユー）は、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")で月曜 - 木曜の10:00 - 13:55に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。2003年3月31日にスタート。2017年3月30日終了。

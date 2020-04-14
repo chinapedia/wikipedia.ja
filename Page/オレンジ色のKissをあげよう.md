@@ -1,4 +1,4 @@
-> この記事は[Kiss](https://ja.wikipedia.org/wiki/Kiss)から翻訳されています。
+> この記事は[オレンジ色のKissをあげよう](https://ja.wikipedia.org/wiki/オレンジ色のKissをあげよう)から翻訳されています。
 
 
 『**オレンジ色のKissをあげよう**』（おれんじいろのキスをあげよう）は、米倉千尋の3rdシングルである。

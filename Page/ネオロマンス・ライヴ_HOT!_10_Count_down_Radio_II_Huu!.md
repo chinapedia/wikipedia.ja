@@ -1,4 +1,4 @@
-> この記事は[ HOT! 10 Count down Radio II Huu!](https://ja.wikipedia.org/wiki/_HOT!_10_Count_down_Radio_II_Huu!)から翻訳されています。
+> この記事は[ネオロマンス・ライヴ HOT! 10 Count down Radio II Huu!](https://ja.wikipedia.org/wiki/ネオロマンス・ライヴ_HOT!_10_Count_down_Radio_II_Huu!)から翻訳されています。
 
 
 **ネオロマンス♥ライヴ HOT\! 10 Count down Radio II Huu\!**（ネオロマンスライヴ ホット\! テンカウントダウンラジオツーフー\!）は、[2007年](../Page/2007年.md "wikilink")5月から11月まで、[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")から配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")。8月までは毎週水曜日配信、8月以降は隔週水曜日の配信で放送された。

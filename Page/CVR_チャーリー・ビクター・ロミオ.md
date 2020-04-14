@@ -1,4 +1,4 @@
-> この記事は[CVR ](https://ja.wikipedia.org/wiki/CVR_)から翻訳されています。
+> この記事は[CVR チャーリー・ビクター・ロミオ](https://ja.wikipedia.org/wiki/CVR_チャーリー・ビクター・ロミオ)から翻訳されています。
 
 
 『**CVR チャーリー・ビクター・ロミオ**』（**CVR: Charlie Victor Romeo**）は、[1999年](../Page/1999年.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で初演された舞台演劇作品。日本では[燐光群](https://ja.wikipedia.org/wiki/燐光群 "wikilink")によって[2002年](../Page/2002年.md "wikilink")に初演された。

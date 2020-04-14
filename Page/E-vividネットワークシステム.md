@@ -1,4 +1,4 @@
-> この記事は[E-vivid](https://ja.wikipedia.org/wiki/E-vivid)から翻訳されています。
+> この記事は[E-vividネットワークシステム](https://ja.wikipedia.org/wiki/E-vividネットワークシステム)から翻訳されています。
 
 
 **e-vividネットワークシステム**（イービビッド- ）とは、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")にて展開されている、映像機器、[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[インターネット](../Page/インターネット.md "wikilink")などの公衆ネットワーク回線を利用し、従来よりある[ポスター](../Page/ポスター.md "wikilink")、看板広告のスペースで[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")などの映像広告ならびに情報を配信、提供するシステム、およびそれを利用した広告配信サービスである。[デジタルサイネージ](../Page/デジタルサイネージ.md "wikilink")の一種。

@@ -1,4 +1,4 @@
-> この記事は[MTOFC](https://ja.wikipedia.org/wiki/MTOFC)から翻訳されています。
+> この記事は[MTO福山FC](https://ja.wikipedia.org/wiki/MTO福山FC)から翻訳されています。
 
 
 **MTO福山FC**（エムティーオーふくやまエフシー）は、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")を拠点とするサッカークラブである。旧名NKK福山サッカー部、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")西日本サッカー部。

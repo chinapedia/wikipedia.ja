@@ -1,4 +1,4 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[スーパービデオCD](https://ja.wikipedia.org/wiki/スーパービデオCD)から翻訳されています。
 
 
 **スーパービデオCD**（**SVCD**）は、[CD-ROM](../Page/CD-ROM.md "wikilink")に動画や音声などを記録し、対応機器で再生するための規格である。

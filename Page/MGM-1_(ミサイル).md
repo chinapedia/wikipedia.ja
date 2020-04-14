@@ -1,4 +1,4 @@
-> この記事は[MGM-1 \(\)](https://ja.wikipedia.org/wiki/MGM-1_\(\))から翻訳されています。
+> この記事は[MGM-1 \(ミサイル\)](https://ja.wikipedia.org/wiki/MGM-1_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=MGM-1 マタドール | 画像=Image:MGM-1 Matador.jpg | キャプション=[国立アメリカ空軍博物館](../Page/国立アメリカ空軍博物館.md "wikilink")に展示されているMGM-1C | 用途=戦術地対地攻撃 | 分類=[地対地ミサイル](https://ja.wikipedia.org/wiki/地対地ミサイル "wikilink")、[巡航ミサイル](../Page/巡航ミサイル.md "wikilink") | 設計者= | 製造者=[マーチン](../Page/グレン・L・マーティン.md "wikilink") | 運用者 =（[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")） | 初飛行年月日=[1949年](../Page/1949年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") | 生産数=1,200発 | 生産開始年月日= | 運用開始年月日=[1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink") | 退役年月日=[1962年](../Page/1962年.md "wikilink") | 運用状況=退役 | ユニットコスト=13万2,000ドル\[1\] }}

@@ -1,4 +1,4 @@
-> この記事は[NUMBERS ](https://ja.wikipedia.org/wiki/NUMBERS_)から翻訳されています。
+> この記事は[NUMBERS 天才数学者の事件ファイル](https://ja.wikipedia.org/wiki/NUMBERS_天才数学者の事件ファイル)から翻訳されています。
 
 
 『**NUMBERS 天才数学者の事件ファイル**』（ナンバーズ てんさいすうがくしゃのじけんファイル、原題: 、、公式には ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で[2005年](../Page/2005年.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")にかけて放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。
@@ -1273,7 +1273,7 @@ NUMBERSの第6シーズン（[2009年](../Page/2009年.md "wikilink")[9月25日]
   - [ナンバーズ〜天才数学者の事件ファイル〜（テレビ東京）](http://www.tv-tokyo.co.jp/numbers/)
   - [Numb3rs](http://www.imdb.com/title/tt0433309/)（英語） - [インターネット・ムービー・データベース](../Page/インターネット・ムービー・データベース.md "wikilink")
 
-[Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:推理ドラマ](https://ja.wikipedia.org/wiki/Category:推理ドラマ "wikilink") [Category:アメリカ合衆国の刑事ドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の刑事ドラマ "wikilink") [Category:CBS](https://ja.wikipedia.org/wiki/Category:CBS "wikilink") [Category:ロサンゼルスを舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台としたテレビドラマ "wikilink") [Category:連邦捜査局を舞台とした作品](https://ja.wikipedia.org/wiki/Category:連邦捜査局を舞台とした作品 "wikilink") [Category:数学を題材とした作品](https://ja.wikipedia.org/wiki/Category:数学を題材とした作品 "wikilink") [Category:家族を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:家族を題材としたテレビドラマ "wikilink")
+[Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:推理ドラマ](https://ja.wikipedia.org/wiki/Category:推理ドラマ "wikilink") [Category:アメリカ合衆国の刑事ドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の刑事ドラマ "wikilink") [Category:CBS](https://ja.wikipedia.org/wiki/Category:CBS "wikilink") [Category:ロサンゼルスを舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台としたテレビドラマ "wikilink") [Category:連邦捜査局を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:連邦捜査局を舞台としたテレビドラマ "wikilink") [Category:数学を題材とした作品](https://ja.wikipedia.org/wiki/Category:数学を題材とした作品 "wikilink") [Category:家族を題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:家族を題材としたテレビドラマ "wikilink")
 
 1.  当初は3月16日放送開始予定だったが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")による特別報道編成のため延期となった。
 2.

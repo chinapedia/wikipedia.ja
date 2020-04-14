@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[八戸テレビ・FM中継局](https://ja.wikipedia.org/wiki/八戸テレビ・FM中継局)から翻訳されています。
 
 
 **八戸テレビ・FM中継局**（はちのへてれびえふえむちゅうけいきょく）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[三戸郡](../Page/三戸郡.md "wikilink")に置かれているテレビとFMラジオの中継局。

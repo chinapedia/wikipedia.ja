@@ -1,4 +1,4 @@
-> この記事は[Temptation](https://ja.wikipedia.org/wiki/Temptation)から翻訳されています。
+> この記事は[Temptation（誘惑）](https://ja.wikipedia.org/wiki/Temptation（誘惑）)から翻訳されています。
 
 
 「**Temptation（誘惑）**」（テンプテーション ゆうわく）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")9月に発売された[本田美奈子のシングル](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")([EP](https://ja.wikipedia.org/wiki/レコード#レコード盤の形状 "wikilink"): WTP-17774)。

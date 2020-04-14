@@ -1,4 +1,4 @@
-> この記事は[ RADIO RONDO](https://ja.wikipedia.org/wiki/_RADIO_RONDO)から翻訳されています。
+> この記事は[武装神姫 RADIO RONDO](https://ja.wikipedia.org/wiki/武装神姫_RADIO_RONDO)から翻訳されています。
 
 
 **武装神姫 RADIO RONDO** (ぶそうしんき らじお ろんど) は、『[武装神姫](../Page/武装神姫.md "wikilink")』に関連した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。[i-revo](https://ja.wikipedia.org/wiki/i-revo "wikilink")にて[2007年](../Page/2007年.md "wikilink")（平成19年）[4月26日](../Page/4月26日.md "wikilink")から[10月25日](../Page/10月25日.md "wikilink")まで配信された。また、[音泉](../Page/音泉.md "wikilink")でも１週間遅れで配信された。毎週木曜日更新。

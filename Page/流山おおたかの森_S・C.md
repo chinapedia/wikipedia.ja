@@ -1,4 +1,4 @@
-> この記事は[ SC](https://ja.wikipedia.org/wiki/_SC)から翻訳されています。
+> この記事は[流山おおたかの森 S・C](https://ja.wikipedia.org/wiki/流山おおたかの森_S・C)から翻訳されています。
 
 
 **流山おおたかの森 S・C**（ながれやまおおたかのもり ショッピングセンター）は、[千葉県](../Page/千葉県.md "wikilink")[流山市](https://ja.wikipedia.org/wiki/流山市 "wikilink")おおたかの森南一丁目に所在する[高島屋](../Page/高島屋.md "wikilink")子会社の[東神開発](https://ja.wikipedia.org/wiki/東神開発 "wikilink")株式会社が運営する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。

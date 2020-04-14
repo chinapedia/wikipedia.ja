@@ -1,4 +1,4 @@
-> この記事は[ANGEL VOICE .](https://ja.wikipedia.org/wiki/ANGEL_VOICE_.)から翻訳されています。
+> この記事は[ANGEL VOICE 〜本田美奈子.メモリアル・ベスト〜](https://ja.wikipedia.org/wiki/ANGEL_VOICE_〜本田美奈子.メモリアル・ベスト〜)から翻訳されています。
 
 
 『**ANGEL VOICE 〜本田美奈子.メモリアル・ベスト〜**』（エンジェル・ボイス ほんだみなこメモリアルベスト）は、[本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")のベスト・アルバム。

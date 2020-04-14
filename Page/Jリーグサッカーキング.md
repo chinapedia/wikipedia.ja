@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[Jリーグサッカーキング](https://ja.wikipedia.org/wiki/Jリーグサッカーキング)から翻訳されています。
 
 
 **Jリーグサッカーキング**（ジェイリーグサッカーキング）は、[フロムワン](../Page/フロムワン.md "wikilink")が発行、[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")が発売する[プロサッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[Jリーグ専門誌であった](../Page/日本プロサッカーリーグ.md "wikilink")。

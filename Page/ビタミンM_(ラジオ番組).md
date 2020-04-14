@@ -1,4 +1,4 @@
-> この記事は[M \(\)](https://ja.wikipedia.org/wiki/M_\(\))から翻訳されています。
+> この記事は[ビタミンM \(ラジオ番組\)](https://ja.wikipedia.org/wiki/ビタミンM_\(ラジオ番組\))から翻訳されています。
 
 
 **ビタミンM**（びたみんえむ）とは[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

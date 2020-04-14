@@ -1,7 +1,7 @@
 > この記事は[Angelique](https://ja.wikipedia.org/wiki/Angelique)から翻訳されています。
 
 
-**Angelique**（アンジェリーク）は、JFN（[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）主催のインターネットオーディション企画「もものかん」で選ばれた**[岸本梓](../Page/岸本梓.md "wikilink")**（きしもと あずさ）、**[高橋絵美](https://ja.wikipedia.org/wiki/高橋絵美 "wikilink")**（たかはし えみ）、**[小川千尋](https://ja.wikipedia.org/wiki/小川千尋_\(1986年生\) "wikilink")**（おがわ ちひろ）の女性3人組ヴォーカルユニット。ユニット名のAngelique（アンジェリーク）は、フランス語で「天使のような」の意。
+**Angelique**（アンジェリーク）は、JFN（[ジャパンエフエムネットワーク](../Page/全国FM放送協議会.md "wikilink")）主催のインターネットオーディション企画「もものかん」で選ばれた**[岸本梓](../Page/岸本梓.md "wikilink")**（きしもと あずさ）、**[高橋絵美](https://ja.wikipedia.org/wiki/高橋絵美 "wikilink")**（たかはし えみ）、**[小川千尋](https://ja.wikipedia.org/wiki/小川千尋_\(1986年生\) "wikilink")**（おがわ ちひろ）の女性3人組ヴォーカルユニット。ユニット名のAngelique（アンジェリーク）は、フランス語で「天使のような」の意。
 
 ## 来歴
 
@@ -83,7 +83,7 @@
   - [YAMAMAN presents MUSIC SALAD FROM U-kari STUDIO オフィシャルウェブサイト](http://www.campairwave.co.jp/~music-salad/)
   - [MUSIC SALAD|AZUSA BLOG/ウェブリブログ](http://bayfm04.at.webry.info/)
   - [myspace canon](http://www.myspace.com/canon_sound/)
-  - [canon ameba ブログ](http://ameblo.jp/by-canon/)
+  - [canon ameba ブログ](https://ameblo.jp/by-canon/)
   - [canon twitter](https://twitter.com/m_by_canon/)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:フォーライフミュージックエンタテイメントのアーティスト](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアーティスト "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

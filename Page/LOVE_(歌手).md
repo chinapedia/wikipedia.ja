@@ -1,4 +1,4 @@
-> この記事は[LOVE \(\)](https://ja.wikipedia.org/wiki/LOVE_\(\))から翻訳されています。
+> この記事は[LOVE \(歌手\)](https://ja.wikipedia.org/wiki/LOVE_\(歌手\))から翻訳されています。
 
 
 **LOVE**（ラヴ、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[高槻市](../Page/高槻市.md "wikilink")出身。千里国際学園中等部・高等部（SIS）卒業。本名：**中村蕗子**（なかむら ふきこ）。所属事務所はKafkino。

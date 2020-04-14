@@ -1,4 +1,4 @@
-> この記事は[ \(MCU\)](https://ja.wikipedia.org/wiki/_\(MCU\))から翻訳されています。
+> この記事は[サヨナラ \(MCUの曲\)](https://ja.wikipedia.org/wiki/サヨナラ_\(MCUの曲\))から翻訳されています。
 
 
 「**サヨナラ**」は、日本の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ソロ[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[MCUのメジャー](../Page/MCU_\(ラッパー\).md "wikilink")6枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

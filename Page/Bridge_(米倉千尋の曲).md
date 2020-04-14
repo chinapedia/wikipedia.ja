@@ -1,4 +1,4 @@
-> この記事は[Bridge \(\)](https://ja.wikipedia.org/wiki/Bridge_\(\))から翻訳されています。
+> この記事は[Bridge \(米倉千尋の曲\)](https://ja.wikipedia.org/wiki/Bridge_\(米倉千尋の曲\))から翻訳されています。
 
 
 「**Bridge**」（ブリッジ）は、米倉千尋の19枚目のシングルである。初回盤は「[夏の終わりの花火](../Page/夏の終わりの花火.md "wikilink")」「tapestory」との連動特典用応募券を封入している。

@@ -1,4 +1,4 @@
-> この記事は[HJ](https://ja.wikipedia.org/wiki/HJ)から翻訳されています。
+> この記事は[HJ文庫大賞](https://ja.wikipedia.org/wiki/HJ文庫大賞)から翻訳されています。
 
 
 **HJ文庫大賞**（エイチジェイぶんこたいしょう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")・[ホビージャパン](../Page/ホビージャパン.md "wikilink")が[2006年](../Page/2006年.md "wikilink")より開催している[ライトノベル](../Page/ライトノベル.md "wikilink")の公募[文学賞](../Page/文学賞.md "wikilink")である。

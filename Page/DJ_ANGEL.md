@@ -1,7 +1,7 @@
 > この記事は[DJ ANGEL](https://ja.wikipedia.org/wiki/DJ_ANGEL)から翻訳されています。
 
 
-**DJ ANGEL**（ディージェイエンジェル）は[ハッピーハードコア](../Page/ハッピーハードコア.md "wikilink")[DJ](../Page/ディスクジョッキー.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である。
+**DJ ANGEL**（ディージェイ・エンジェル）は[ハッピーハードコア](../Page/ハッピーハードコア.md "wikilink")[DJ](../Page/ディスクジョッキー.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である。
 
 ## 人物
 
@@ -29,4 +29,4 @@
   - 「HARDCORE JUNKIEEE VOL.1」(2004年) - MADDEST CHIK\`NDOM（JAPAN）MC\#12
   - 「HARDCORE JUNKIEEE VOL.2」 (2005年) - MADDEST CHIK\`NDOM（JAPAN）MC\#15
 
-[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink")
+[Category:日本のDJ](https://ja.wikipedia.org/wiki/Category:日本のDJ "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:生年非公表](https://ja.wikipedia.org/wiki/Category:生年非公表 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

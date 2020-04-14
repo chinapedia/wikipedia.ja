@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BSふれあいステージ](https://ja.wikipedia.org/wiki/BSふれあいステージ)から翻訳されています。
 
 
 **BSふれあいステージ**（ビーエス・ふれあいステージ）は、[NHKデジタル衛星ハイビジョン](../Page/NHKデジタル衛星ハイビジョン.md "wikilink")、[衛星第2テレビ並びに](../Page/NHK衛星第2テレビジョン.md "wikilink")[NHKワールド・プレミアム](https://ja.wikipedia.org/wiki/NHKワールド・プレミアム "wikilink")にて[2007年](../Page/2007年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで1年間放送された公開番組。放送時間は衛星第2テレビでは月〜木の18:00〜18:45、デジタル衛星ハイビジョンでは月〜木の16:00〜16:45（再放送は翌週の同じ曜日の深夜=正式には火曜日から金曜日の1:00〜1:45）。ワールドプレミアムでは月〜木の00:10〜00:53。

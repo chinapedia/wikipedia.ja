@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JRホテルクレメント高松](https://ja.wikipedia.org/wiki/JRホテルクレメント高松)から翻訳されています。
 
 
 **JRホテルクレメント高松**（ジェイアールホテルクレメントたかまつ）は[香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")にある[ホテル](../Page/ホテル.md "wikilink")。JR四国ホテルズが運営する。

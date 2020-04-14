@@ -1,4 +1,4 @@
-> この記事は[WILL \(\)](https://ja.wikipedia.org/wiki/WILL_\(\))から翻訳されています。
+> この記事は[WILL \(米倉千尋の曲\)](https://ja.wikipedia.org/wiki/WILL_\(米倉千尋の曲\))から翻訳されています。
 
 
 「**WILL**」（ウィル）は、[米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")の10枚目のシングルである。

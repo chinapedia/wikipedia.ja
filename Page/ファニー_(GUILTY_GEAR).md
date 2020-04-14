@@ -1,4 +1,4 @@
-> この記事は[ \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/_\(GUILTY_GEAR\))から翻訳されています。
+> この記事は[ファニー \(GUILTY GEAR\)](https://ja.wikipedia.org/wiki/ファニー_\(GUILTY_GEAR\))から翻訳されています。
 
 
 **ファニー**(Fanny)は、2D[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[GUILTY GEARシリーズ](../Page/GUILTY_GEARシリーズ.md "wikilink")』に登場する架空の人物。登場作品は『GUILTY GEAR PETIT』、『GUILTY GEAR PETIT 2』。PETIT（プチ）シリーズのオリジナルキャラクターでもある。

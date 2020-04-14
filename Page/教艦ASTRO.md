@@ -1,4 +1,4 @@
-> この記事は[ASTRO](https://ja.wikipedia.org/wiki/ASTRO)から翻訳されています。
+> この記事は[教艦ASTRO](https://ja.wikipedia.org/wiki/教艦ASTRO)から翻訳されています。
 
 
 『**教艦ASTRO**』（きょうかんアストロ）は、[蕃納葱](https://ja.wikipedia.org/wiki/蕃納葱 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。『[まんがタイムきららキャラット](../Page/まんがタイムきららキャラット.md "wikilink")』（[芳文社](../Page/芳文社.md "wikilink")）にてvol.10（2005年2月24日発売）、vol.11（2005年4月23日発売）の2回にわたり読み切り作品としてゲスト掲載された後、半年以上後の2005年11月号（2005年9月28日発売）より月刊連載作品として連載を開始した。単行本は2014年6月現在、1巻まで刊行されている。なお、読み切り版は単行本第1巻にそれぞれ第1話、第2話という位置づけで収録されている。
@@ -91,4 +91,4 @@
 
 1.  2007年2月27日発売 ISBN 978-4-8322-7615-4
 
-[Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:まんがタイムきらら](https://ja.wikipedia.org/wiki/Category:まんがタイムきらら "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink")
+[Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:まんがタイムきららの4コマ漫画作品](https://ja.wikipedia.org/wiki/Category:まんがタイムきららの4コマ漫画作品 "wikilink") [Category:教師を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:教師を主人公とした漫画作品 "wikilink")

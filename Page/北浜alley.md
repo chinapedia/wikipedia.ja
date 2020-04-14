@@ -1,4 +1,4 @@
-> この記事は[alley](https://ja.wikipedia.org/wiki/alley)から翻訳されています。
+> この記事は[北浜alley](https://ja.wikipedia.org/wiki/北浜alley)から翻訳されています。
 
 
 **北浜alley**（きたはまアリー）は[香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")[北浜町にある古い](https://ja.wikipedia.org/wiki/北浜町_\(高松市\) "wikilink")[倉庫](../Page/倉庫.md "wikilink")を活用した[複合商業施設](../Page/複合商業施設.md "wikilink")。[2000年](../Page/2000年.md "wikilink")にオープンした[高松港](../Page/高松港.md "wikilink")[ウォーターフロント](../Page/ウォーターフロント.md "wikilink")のトレンドスポット。[ギャラリー](../Page/ギャラリー_\(美術\).md "wikilink")、ブティック、[カフェ](../Page/カフェ.md "wikilink")[レストラン](../Page/レストラン.md "wikilink")、[美容院](https://ja.wikipedia.org/wiki/美容院 "wikilink")、雑貨店などが入居し、広場では[フリーマーケット](https://ja.wikipedia.org/wiki/フリーマーケット "wikilink")や[コンサート](https://ja.wikipedia.org/wiki/コンサート "wikilink")などが開催される。 [thumb](https://ja.wikipedia.org/wiki/画像:Kitahama_alley04s3872.jpg "wikilink")

@@ -25,6 +25,6 @@
 
 ## 外部リンク
 
-  - [mingle-mangle Marsh-Mallow](http://blog.goo.ne.jp/min-man-marsh)
+  - [mingle-mangle Marsh-Mallow](https://blog.goo.ne.jp/min-man-marsh)
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

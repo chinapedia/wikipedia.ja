@@ -1,4 +1,4 @@
-> この記事は[MOONLIGHT MILE](https://ja.wikipedia.org/wiki/MOONLIGHT_MILE)から翻訳されています。
+> この記事は[MOONLIGHT MILEの登場人物](https://ja.wikipedia.org/wiki/MOONLIGHT_MILEの登場人物)から翻訳されています。
 
 
 本記事では、[日本の漫画](https://ja.wikipedia.org/wiki/日本の漫画 "wikilink")・[アニメ](../Page/アニメ.md "wikilink")作品 **MOONLIGHT MILEの登場人物**について記す。
@@ -48,7 +48,7 @@
 
 ### 池内 理代子
 
-  - (声：[田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink"))
+  - (声：[田中理恵](../Page/田中理恵_\(声優\).md "wikilink"))
 
 <!-- end list -->
 

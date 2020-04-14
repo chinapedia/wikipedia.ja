@@ -1,4 +1,4 @@
-> この記事は[TARO! TOKYO](https://ja.wikipedia.org/wiki/TARO!_TOKYO)から翻訳されています。
+> この記事は[TARO! TOKYO魔界大戦](https://ja.wikipedia.org/wiki/TARO!_TOKYO魔界大戦)から翻訳されています。
 
 
 『**TARO\! MOMOTARO IN TROUBLE**』（タロウ モモタロウ イン トラブル）は[1991年](../Page/1991年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")に公開された映画。[VHS](../Page/VHS.md "wikilink")ビデオソフト化に際し『**TARO\! TOKYO魔界大戦**』（タロウ トウキョウまかいたいせん）と改題。

@@ -1,4 +1,4 @@
-> この記事は[DMAT](https://ja.wikipedia.org/wiki/DMAT)から翻訳されています。
+> この記事は[東京DMAT](https://ja.wikipedia.org/wiki/東京DMAT)から翻訳されています。
 
 
 [Doctor_of_the_Tokyo_DMAT.JPG](https://ja.wikipedia.org/wiki/File:Doctor_of_the_Tokyo_DMAT.JPG "fig:Doctor_of_the_Tokyo_DMAT.JPG")に伴って設置された避難所の仮設救護所で[診療録](../Page/診療録.md "wikilink")を記載する医師。\]\] [Tokyo_DMAT_Ambulance_in_2014.jpg](https://ja.wikipedia.org/wiki/File:Tokyo_DMAT_Ambulance_in_2014.jpg "fig:Tokyo_DMAT_Ambulance_in_2014.jpg")の[DMATカー](https://ja.wikipedia.org/wiki/ドクターカー "wikilink")（[トヨタ・ハイメディック](../Page/トヨタ・ハイメディック.md "wikilink")）。\]\] **東京DMAT**（とうきょうディーマット）とは、[東京都](../Page/東京都.md "wikilink")のDisaster Medical Assistance Team略して[DMAT](../Page/災害派遣医療チーム.md "wikilink")（災害派遣医療チーム）のこと。

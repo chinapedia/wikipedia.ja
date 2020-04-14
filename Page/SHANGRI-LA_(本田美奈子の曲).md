@@ -1,4 +1,4 @@
-> この記事は[SHANGRI-LA \(\)](https://ja.wikipedia.org/wiki/SHANGRI-LA_\(\))から翻訳されています。
+> この記事は[SHANGRI-LA \(本田美奈子の曲\)](https://ja.wikipedia.org/wiki/SHANGRI-LA_\(本田美奈子の曲\))から翻訳されています。
 
 
 「**SHANGRI-LA**」（シャングリラ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に発売された[本田美奈子のシングル](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。

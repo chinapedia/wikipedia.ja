@@ -1,4 +1,4 @@
-> この記事は[TDK](https://ja.wikipedia.org/wiki/TDK)から翻訳されています。
+> この記事は[TDK由利本荘](https://ja.wikipedia.org/wiki/TDK由利本荘)から翻訳されています。
 
 
 **TDK由利本荘株式会社**（ティーディーケイゆりほんじょう）は、電子部品の製造・販売を行っている会社。[TDK](../Page/TDK.md "wikilink")の100%出資の子会社で、[秋田県](../Page/秋田県.md "wikilink")[由利本荘市](../Page/由利本荘市.md "wikilink")に本社を置く。

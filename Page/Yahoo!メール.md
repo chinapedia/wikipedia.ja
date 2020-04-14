@@ -1,4 +1,4 @@
-> この記事は[Yahoo!](https://ja.wikipedia.org/wiki/Yahoo!)から翻訳されています。
+> この記事は[Yahoo!メール](https://ja.wikipedia.org/wiki/Yahoo!メール)から翻訳されています。
 
 
 **Yahoo\!メール**（ヤフーメール）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から[Yahoo\!](../Page/Yahoo!.md "wikilink")が始めた[フリーメールサービス](../Page/フリーメールサービス.md "wikilink")。日本では[Yahoo\! JAPANが提供している](../Page/Yahoo!_JAPAN.md "wikilink")。[POP](../Page/Post_Office_Protocol.md "wikilink")/[IMAPのみならず](../Page/Internet_Message_Access_Protocol.md "wikilink")、[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")や[携帯電話](../Page/携帯電話.md "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")などでも使用可能（一部機能に制限あり（後述））な[Webメール](../Page/Webメール.md "wikilink")形式を採用している。

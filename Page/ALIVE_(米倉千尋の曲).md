@@ -1,4 +1,4 @@
-> この記事は[ALIVE \(\)](https://ja.wikipedia.org/wiki/ALIVE_\(\))から翻訳されています。
+> この記事は[ALIVE \(米倉千尋の曲\)](https://ja.wikipedia.org/wiki/ALIVE_\(米倉千尋の曲\))から翻訳されています。
 
 
 「**ALIVE**」（あらいぶ）は、米倉千尋の25thシングルである。初回盤は「巻き帯[ステッカー](https://ja.wikipedia.org/wiki/ステッカー "wikilink")（封神演義）」仕様＆10thアルバム『[Fairwings](../Page/Fairwings.md "wikilink")』との連動特典用応募券を封入していた。

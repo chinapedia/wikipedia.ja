@@ -1,4 +1,4 @@
-> この記事は[KA](https://ja.wikipedia.org/wiki/KA)から翻訳されています。
+> この記事は[K・A・カリーニン記念試作設計局](https://ja.wikipedia.org/wiki/K・A・カリーニン記念試作設計局)から翻訳されています。
 
 
 **K・A・カリーニン記念試作設計局**([ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>オーカーベー・イーミェニ・コンタンチーナ・アリクスィェーイェヴィチャ・カリーニナ</small>)は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[航空機](../Page/航空機.md "wikilink")メーカーである。[ウクライナ](../Page/ウクライナ.md "wikilink")出身の航空機設計者[コンスタンティン・アレクセーエヴィチ・カリーニン](https://ja.wikipedia.org/wiki/コンスタンティン・カリーニン "wikilink")([1889年](../Page/1889年.md "wikilink") - [1938年](../Page/1938年.md "wikilink"))が開設したことから、彼の名を冠して呼ばれるようになった。

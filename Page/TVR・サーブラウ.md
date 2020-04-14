@@ -1,4 +1,4 @@
-> この記事は[TVR](https://ja.wikipedia.org/wiki/TVR)から翻訳されています。
+> この記事は[TVR・サーブラウ](https://ja.wikipedia.org/wiki/TVR・サーブラウ)から翻訳されています。
 
 
 **サーブラウ**（*Cerbera* ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[TVR](../Page/TVR.md "wikilink")が製造・販売していた4人乗り(2+2)[クーペ](../Page/クーペ.md "wikilink")である。名前の由来は[ギリシア神話](../Page/ギリシア神話.md "wikilink")に登場する怪獣「[ケルベロス](../Page/ケルベロス.md "wikilink")（Cerberus）」。

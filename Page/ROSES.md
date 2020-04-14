@@ -72,7 +72,6 @@
 
 ## 外部リンク
 
-  - [jealkb Official WebSite: Invade 【初回盤A（CD＋LIVE DVD）】](http://jealkb.laff.jp/official/2011/02/roses-084b.html)
-  - [jealkb Official WebSite: ROSES](http://jealkb.laff.jp/official/2011/02/invade-bcdhisto.html)
-
+  -
+  -
 [Category:Jealkbのアルバム](https://ja.wikipedia.org/wiki/Category:Jealkbのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink")

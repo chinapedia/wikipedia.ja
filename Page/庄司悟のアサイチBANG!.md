@@ -1,4 +1,4 @@
-> この記事は[BANG!](https://ja.wikipedia.org/wiki/BANG!)から翻訳されています。
+> この記事は[庄司悟のアサイチBANG!](https://ja.wikipedia.org/wiki/庄司悟のアサイチBANG!)から翻訳されています。
 
 
 **庄司悟のアサイチBANG\!**（しょうじさとるのあさいちばん）は、[fm osakaで](../Page/エフエム大阪.md "wikilink")2007年7月31日まで放送されていたラジオ番組。

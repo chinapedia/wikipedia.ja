@@ -1,4 +1,4 @@
-> この記事は[LIFEthe first movement](https://ja.wikipedia.org/wiki/LIFEthe_first_movement)から翻訳されています。
+> この記事は[LIFE〜the first movement〜](https://ja.wikipedia.org/wiki/LIFE〜the_first_movement〜)から翻訳されています。
 
 
 『**LIFE〜the first movement〜**』（ライフ ザ ファースト ムーブメント）は[Janne Da Arcの](../Page/Janne_Da_Arc.md "wikilink")[ギタリスト](../Page/ギタリスト.md "wikilink")、[youが](../Page/You_\(Janne_Da_Arc\).md "wikilink")[バンド結成](../Page/バンド_\(音楽\).md "wikilink")10周年記念のソロ活動としてソロアルバム3部作の第一弾としてリリースの[インストゥルメンタル](../Page/器楽曲.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")発売。

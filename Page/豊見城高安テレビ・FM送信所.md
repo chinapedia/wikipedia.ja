@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[豊見城高安テレビ・FM送信所](https://ja.wikipedia.org/wiki/豊見城高安テレビ・FM送信所)から翻訳されています。
 
 
 **豊見城高安テレビ・FM送信所**（とみぐすくたかやすテレビ・エフエムそうしんじょ）は[沖縄県](../Page/沖縄県.md "wikilink")[豊見城市](../Page/豊見城市.md "wikilink")にある[NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")の[テレビ](../Page/テレビ.md "wikilink")・[FM](../Page/ラジオ.md "wikilink")、ならびに[RBC琉球放送テレビ](../Page/琉球放送.md "wikilink")（アナログのみ）と[OTV沖縄テレビ放送の基幹](../Page/沖縄テレビ放送.md "wikilink")[送信所](../Page/送信所.md "wikilink")である。なお、本項では、[2016年](../Page/2016年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")にサービスを終了\[1\]した[ジャパン・モバイルキャスティング](https://ja.wikipedia.org/wiki/ジャパン・モバイルキャスティング "wikilink")(モバキャス)（[2012年](../Page/2012年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")開局）の送信施設についても併せて記述する。

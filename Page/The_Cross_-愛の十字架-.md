@@ -1,4 +1,4 @@
-> この記事は[The Cross --](https://ja.wikipedia.org/wiki/The_Cross_--)から翻訳されています。
+> この記事は[The Cross -愛の十字架-](https://ja.wikipedia.org/wiki/The_Cross_-愛の十字架-)から翻訳されています。
 
 
 「**the Cross -愛の十字架-**」（ザ・クロス あいのじゅうじか）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に発売された[本田美奈子のシングル](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ VOL.2](https://ja.wikipedia.org/wiki/_VOL.2)から翻訳されています。
+> この記事は[イーグルス・グレイテスト・ヒッツ VOL.2](https://ja.wikipedia.org/wiki/イーグルス・グレイテスト・ヒッツ_VOL.2)から翻訳されています。
 
 
 『**イーグルス・グレイテスト・ヒッツVol.2**』 (*Eagles Greatest Hits, Vol. 2*) は、[1982年](../Page/1982年.md "wikilink")にリリースされたアメリカのロック・バンド、[イーグルス](../Page/イーグルス.md "wikilink")の2枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。

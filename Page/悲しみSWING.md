@@ -1,4 +1,4 @@
-> この記事は[SWING](https://ja.wikipedia.org/wiki/SWING)から翻訳されています。
+> この記事は[悲しみSWING](https://ja.wikipedia.org/wiki/悲しみSWING)から翻訳されています。
 
 
 「**悲しみSWING**」（かなしみスイング）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に発売された[本田美奈子のシングル](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink")。

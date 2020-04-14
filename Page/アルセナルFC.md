@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[アルセナルFC](https://ja.wikipedia.org/wiki/アルセナルFC)から翻訳されています。
 
 
 **アルセナルFC**（, ）は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[ブエノスアイレス州](../Page/ブエノスアイレス州.md "wikilink")[アベジャネーダ・パルティード](https://ja.wikipedia.org/wiki/アベジャネーダ・パルティード "wikilink")の[サランディ](https://ja.wikipedia.org/wiki/サランディ "wikilink")地区を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。**アルセナル・デ・サランディ**（, ）とも呼ばれる。

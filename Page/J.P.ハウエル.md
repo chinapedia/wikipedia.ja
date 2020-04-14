@@ -1,4 +1,4 @@
-> この記事は[J.P.](https://ja.wikipedia.org/wiki/J.P.)から翻訳されています。
+> この記事は[J.P.ハウエル](https://ja.wikipedia.org/wiki/J.P.ハウエル)から翻訳されています。
 
 
 **ジェームズ・フィリップ・ハウエル**（**James Phillip Howell**, [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月25日](../Page/4月25日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[スタニスラウス郡](https://ja.wikipedia.org/wiki/スタニスラウス郡_\(カリフォルニア州\) "wikilink")[モデスト出身の](https://ja.wikipedia.org/wiki/モデスト_\(カリフォルニア州\) "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[投手](../Page/投手.md "wikilink")）。左投左打。2019年現在は、独立リーグ・[パシフィック・アソシエーション](https://ja.wikipedia.org/wiki/パシフィック・アソシエーション "wikilink")の所属。
@@ -346,37 +346,65 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>通算：11年</p></td>
-<td><p>531</p></td>
+<td></td>
+<td><p><a href="../Page/トロント・ブルージェイズ.md" title="wikilink">TOR</a></p></td>
+<td><p>16</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>.500</p></td>
+<td><p>52</p></td>
+<td><p>11.0</p></td>
+<td><p>13</p></td>
+<td><p>2</p></td>
+<td><p>7</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>6</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>9</p></td>
+<td><p>9</p></td>
+<td><p>7.36</p></td>
+<td><p>1.82</p></td>
+</tr>
+<tr class="odd">
+<td><p>通算：12年</p></td>
+<td><p>547</p></td>
 <td><p>33</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
-<td><p>35</p></td>
-<td><p>29</p></td>
+<td><p>36</p></td>
+<td><p>30</p></td>
 <td><p>22</p></td>
 <td><p>81</p></td>
-<td><p>.547</p></td>
-<td><p>2603</p></td>
-<td><p>608.2</p></td>
-<td><p>548</p></td>
-<td><p>57</p></td>
-<td><p>263</p></td>
+<td><p>.545</p></td>
+<td><p>2655</p></td>
+<td><p>619.2</p></td>
+<td><p>561</p></td>
+<td><p>59</p></td>
+<td><p>270</p></td>
 <td><p>14</p></td>
 <td><p>32</p></td>
-<td><p>560</p></td>
-<td><p>34</p></td>
+<td><p>566</p></td>
+<td><p>35</p></td>
 <td><p>4</p></td>
-<td><p>277</p></td>
-<td><p>255</p></td>
-<td><p>3.77</p></td>
-<td><p>1.33</p></td>
+<td><p>286</p></td>
+<td><p>264</p></td>
+<td><p>3.83</p></td>
+<td><p>1.34</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-  - 2016年度シーズン終了時
+  - 2017年度シーズン終了時
   - 各年度の**太字**はリーグ最高
 
 ### 背番号

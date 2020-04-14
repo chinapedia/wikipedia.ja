@@ -1,4 +1,4 @@
-> この記事は[Return to myself \(\)](https://ja.wikipedia.org/wiki/Return_to_myself_\(\))から翻訳されています。
+> この記事は[Return to myself \(曲\)](https://ja.wikipedia.org/wiki/Return_to_myself_\(曲\))から翻訳されています。
 
 
 「**Return to myself**」（リターン トゥー マイセルフ）は、米倉千尋の13thシングルである。初回盤は「カード（モンコレナイト）」を封入している。

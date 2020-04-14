@@ -1,4 +1,4 @@
-> この記事は[Chubb](https://ja.wikipedia.org/wiki/Chubb)から翻訳されています。
+> この記事は[Chubb損害保険](https://ja.wikipedia.org/wiki/Chubb損害保険)から翻訳されています。
 
 
 **Chubb損害保険株式会社**（チャブそんがいほけん、）は、[スイス](../Page/スイス.md "wikilink")・[チューリッヒ](../Page/チューリッヒ.md "wikilink")を拠点に世界54カ国で事業を展開する[チャブ・リミテッドの日本法人](https://ja.wikipedia.org/wiki/:en:chubb_Limited "wikilink")。

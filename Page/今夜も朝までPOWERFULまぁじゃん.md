@@ -1,4 +1,4 @@
-> この記事は[POWERFUL](https://ja.wikipedia.org/wiki/POWERFUL)から翻訳されています。
+> この記事は[今夜も朝までPOWERFULまぁじゃん](https://ja.wikipedia.org/wiki/今夜も朝までPOWERFULまぁじゃん)から翻訳されています。
 
 
 『**今夜も朝までPOWERFULまぁじゃん**』（こんやもあさまでぱわふるまあじゃん）は、[1988年](../Page/1988年.md "wikilink")に[デービーソフト](../Page/デービーソフト.md "wikilink")から発売された[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。[1989年](../Page/1989年.md "wikilink")には続編『**今夜も朝までPOWERFULまぁじゃん2**』が発売された。

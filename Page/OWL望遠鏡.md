@@ -1,4 +1,4 @@
-> この記事は[OWL](https://ja.wikipedia.org/wiki/OWL)から翻訳されています。
+> この記事は[OWL望遠鏡](https://ja.wikipedia.org/wiki/OWL望遠鏡)から翻訳されています。
 
 
 **OWL望遠鏡**（）とは、[ヨーロッパ南天天文台](../Page/ヨーロッパ南天天文台.md "wikilink")（ESO）にて検討が行われた、単一口径100m鏡相当を持つ次世代大型光赤外望遠鏡のこと。その後、より実現可能なサイズである口径39mの[欧州超大型望遠鏡](https://ja.wikipedia.org/wiki/欧州超大型望遠鏡 "wikilink")（E-ELT）計画の準備が行われている。

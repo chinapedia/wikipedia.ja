@@ -1,4 +1,4 @@
-> この記事は[  Mountain of Faith.](https://ja.wikipedia.org/wiki/__Mountain_of_Faith.)から翻訳されています。
+> この記事は[東方風神録 〜 Mountain of Faith.](https://ja.wikipedia.org/wiki/東方風神録_〜_Mountain_of_Faith.)から翻訳されています。
 
 
 『**東方風神録　〜 Mountain of Faith.**』（とうほうふうじんろく マウンテン・オブ・フェイス）とは、[同人サークル](../Page/同人サークル.md "wikilink")[上海アリス幻樂団](https://ja.wikipedia.org/wiki/上海アリス幻樂団 "wikilink")制作の[弾幕系シューティング](https://ja.wikipedia.org/wiki/弾幕系シューティング "wikilink")ゲームであり、[東方Project](https://ja.wikipedia.org/wiki/東方Project "wikilink")の第10弾にあたる作品である。

@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEアドバンテック](https://ja.wikipedia.org/wiki/JFEアドバンテック)から翻訳されています。
 
 
 **JFEアドバンテック株式会社**（ジェイエフイーアドバンテック）は、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")の子会社で、[計量器](https://ja.wikipedia.org/wiki/計量器 "wikilink")、水位計、設備診断機器、[計測機器](https://ja.wikipedia.org/wiki/計測機器 "wikilink")などの製造販売を行う[企業](../Page/企業.md "wikilink")である。

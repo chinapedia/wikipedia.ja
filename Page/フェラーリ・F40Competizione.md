@@ -1,4 +1,4 @@
-> この記事は[F40Competizione](https://ja.wikipedia.org/wiki/F40Competizione)から翻訳されています。
+> この記事は[フェラーリ・F40Competizione](https://ja.wikipedia.org/wiki/フェラーリ・F40Competizione)から翻訳されています。
 
 
 **フェラーリ F40 Competizione** （F40コンペティツィオーネ）とは、世界の著名なフェラーリストのために、[イタリア](../Page/イタリア.md "wikilink")の[フェラーリ](../Page/フェラーリ.md "wikilink")社が[フェラーリ F40をベースに限定](https://ja.wikipedia.org/wiki/フェラーリ_F40 "wikilink")19台のみ生産した車。[1992年](../Page/1992年.md "wikilink")の第29回[東京モーターショー](../Page/東京モーターショー.md "wikilink")に出展された。

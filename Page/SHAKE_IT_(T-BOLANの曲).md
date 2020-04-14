@@ -1,4 +1,4 @@
-> この記事は[SHAKE IT \(T-BOLAN\)](https://ja.wikipedia.org/wiki/SHAKE_IT_\(T-BOLAN\))から翻訳されています。
+> この記事は[SHAKE IT \(T-BOLANの曲\)](https://ja.wikipedia.org/wiki/SHAKE_IT_\(T-BOLANの曲\))から翻訳されています。
 
 
 「**SHAKE IT**」（シェイク・イット）は、[T-BOLAN](../Page/T-BOLAN.md "wikilink")の13枚目のシングル。

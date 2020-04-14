@@ -1,4 +1,4 @@
-> この記事は[ELP](https://ja.wikipedia.org/wiki/ELP)から翻訳されています。
+> この記事は[アンコールズ、リジェンズ、アンド・パラドックス〜トリビュート・トゥ・ザ・ミュージック・オブ・ELP](https://ja.wikipedia.org/wiki/アンコールズ、リジェンズ、アンド・パラドックス〜トリビュート・トゥ・ザ・ミュージック・オブ・ELP)から翻訳されています。
 
 
 『**アンコールズ、リジェンズ、アンド・パラドックス〜トリビュート・トゥ・ザ・ミュージック・オブ・ELP**』 (*Encores, Legends, and Paradox, A Tribute to the Music of ELP*) は、[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")のメンバー以外のミュージシャンが曲を[トリビュート](https://ja.wikipedia.org/wiki/トリビュート "wikilink")した[アルバム](../Page/アルバム.md "wikilink")。

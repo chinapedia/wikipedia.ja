@@ -1,4 +1,4 @@
-> この記事は[CP](https://ja.wikipedia.org/wiki/CP)から翻訳されています。
+> この記事は[CPシステム](https://ja.wikipedia.org/wiki/CPシステム)から翻訳されています。
 
 
 **CPシステム**（シーピーシステム）または**カプコン・CPシステム**（カプコン・シーピーシステム）とは、[1988年](../Page/1988年.md "wikilink")に『[ロストワールド](../Page/ロストワールド_\(ゲーム\).md "wikilink")』とともに出荷された[カプコン](../Page/カプコン.md "wikilink")開発の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")用基板である。[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")を代表する『[ストリートファイターII](../Page/ストリートファイターII.md "wikilink")』でこの基板が使用されている。後に広く普及した[CPシステムII](../Page/CPシステムII.md "wikilink")と区別するため**CPシステムI**あるいは**CPS-1**と呼称されることがある。

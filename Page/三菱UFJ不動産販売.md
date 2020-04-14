@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[三菱UFJ不動産販売](https://ja.wikipedia.org/wiki/三菱UFJ不動産販売)から翻訳されています。
 
 
 **三菱UFJ不動産販売株式会社**（みつびしユーエフジェイふどうさんはんばい）は、[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")の[不動産会社](https://ja.wikipedia.org/wiki/不動産流通業 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[WOW WAR TONIGHT ](https://ja.wikipedia.org/wiki/WOW_WAR_TONIGHT_)から翻訳されています。
+> この記事は[WOW WAR TONIGHT 〜時には起こせよムーヴメント](https://ja.wikipedia.org/wiki/WOW_WAR_TONIGHT_〜時には起こせよムーヴメント)から翻訳されています。
 
 
 **「WOW WAR TONIGHT 〜時には起こせよムーヴメント」**（ウォウ・ウォー・トゥナイト ときにはおこせよムーヴメント）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である[H Jungle with tの](../Page/H_Jungle_with_t.md "wikilink")1枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[エイベックスよりリリースされた](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[W\?!](https://ja.wikipedia.org/wiki/W\?!)から翻訳されています。
+> この記事は[Wパパにオマケの子\?!](https://ja.wikipedia.org/wiki/Wパパにオマケの子\?!)から翻訳されています。
 
 
 『**Wパパにオマケの子?\!**』（ダブルぱぱにおまけのこ）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月9日](../Page/10月9日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。全24話。放送時間は、毎週[金曜](../Page/金曜日.md "wikilink")19:30 - 20:00（[JST](../Page/日本標準時.md "wikilink")）。

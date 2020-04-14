@@ -1,11 +1,11 @@
-> この記事は[WHATEVER \(\)](https://ja.wikipedia.org/wiki/WHATEVER_\(\))から翻訳されています。
+> この記事は[WHATEVER \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/WHATEVER_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**WHATEVER**」（ホワットエヴァー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の6th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
+「**WHATEVER**」（ホワットエヴァー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
 
 ## 解説
 
-シングルとしては、前作「[Depend on you](../Page/Depend_on_you.md "wikilink")」より、約2ヶ月ぶりとなる。
+シングルとしては、前作「[Depend on you](../Page/Depend_on_you.md "wikilink")」より、約2か月ぶりとなる。
 
 "version M" のPVは制作されたが、"version J" は、制作されていない。また、2種類のCM SPOT（"version M"・"version J"）が存在。"version J" の映像は前述のPVとは全く別のもので、オレンジを風景にしたものとなっている。なお、"version J" に関しては、アルバムにも収録されておらず、このシングルのみの収録である。
 

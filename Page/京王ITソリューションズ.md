@@ -1,4 +1,4 @@
-> この記事は[IT](https://ja.wikipedia.org/wiki/IT)から翻訳されています。
+> この記事は[京王ITソリューションズ](https://ja.wikipedia.org/wiki/京王ITソリューションズ)から翻訳されています。
 
 
 株式会社**京王ITソリューションズ**（けいおうあいてぃそりゅーしょんず・英語表記：KEIO INFORMATION TECHNOLOGY SOLUTIONS Co.,Ltd）は、光ファイバーケーブルの賃貸窓口業務、コンサルタント事業、無線LANの技術的バックアップ、業務用アプリケーションソフトの設計・開発・運用、ネットワーク（イントラネット、インターネット）の設計開発・導入、ハウジングサービス・ホスティングサービス、パソコン・プリンター等機器の購入斡旋および導入の手伝いを執り行う[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")。[京王グループ](../Page/京王グループ.md "wikilink")に属する。本社は[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")小島町。東京都[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[幡ヶ谷](../Page/幡ヶ谷.md "wikilink")にシステムセンターが所在する。

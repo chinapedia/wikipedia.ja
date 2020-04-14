@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[ソード・ワールドPC](https://ja.wikipedia.org/wiki/ソード・ワールドPC)から翻訳されています。
 
 
 『**ソード・ワールドPC**』とは、[グループSNE](../Page/グループSNE.md "wikilink")が制作した[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")の『**[ソード・ワールドRPG](https://ja.wikipedia.org/wiki/ソード・ワールドRPG "wikilink")**』を[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")化した[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")用の[パソコンゲーム](../Page/パソコンゲーム.md "wikilink")である。発売は[T\&E SOFT](../Page/T&E_SOFT.md "wikilink")。シナリオは下村家惠子が作成、イラスト（キャラクター、背景全て）は米良仁（白井影二）が担当した。

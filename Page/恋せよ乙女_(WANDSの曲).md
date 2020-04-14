@@ -1,4 +1,4 @@
-> この記事は[ \(WANDS\)](https://ja.wikipedia.org/wiki/_\(WANDS\))から翻訳されています。
+> この記事は[恋せよ乙女 \(WANDSの曲\)](https://ja.wikipedia.org/wiki/恋せよ乙女_\(WANDSの曲\))から翻訳されています。
 
 
 「**恋せよ乙女**」（こいせよおとめ）は、[WANDS](../Page/WANDS.md "wikilink")の6枚目のシングル。
@@ -38,6 +38,7 @@ PVはショートクリップが撮影され、スタジオでのライブと、
   - [WANDS BEST HITS](../Page/WANDS_BEST_HITS.md "wikilink") (\#1,2)
   - [COUNTDOWN BEING](../Page/COUNTDOWN_BEING.md "wikilink") (\#1)
   - [BEST HIT BEING](https://ja.wikipedia.org/wiki/BEST_HIT_BEING "wikilink") (\#1)
+  - [キミが好きだと叫びたい 〜Love & Yell〜](../Page/キミが好きだと叫びたい_〜Love_&_Yell〜.md "wikilink")（\#1）
 
 ## 関連項目
 

@@ -1,4 +1,4 @@
-> この記事は[TORCH](https://ja.wikipedia.org/wiki/TORCH)から翻訳されています。
+> この記事は[TORCH症候群](https://ja.wikipedia.org/wiki/TORCH症候群)から翻訳されています。
 
 
 **TORCH症候群**（トーチしょうこうぐん、）とは、母体の症状は軽微であるのに対して、[妊娠](../Page/妊娠.md "wikilink")中の感染によって[胎児](../Page/胎児.md "wikilink")に奇形または重篤な母子感染症を引き起こす恐れのある[疾患](https://ja.wikipedia.org/wiki/疾患 "wikilink")の総称である\[1\]\[2\]。

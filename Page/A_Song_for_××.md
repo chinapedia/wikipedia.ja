@@ -1,4 +1,4 @@
-> この記事は[A Song for ](https://ja.wikipedia.org/wiki/A_Song_for_)から翻訳されています。
+> この記事は[A Song for ××](https://ja.wikipedia.org/wiki/A_Song_for_××)から翻訳されています。
 
 
 『**A Song for ××**』（エイ・ソング・フォー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の1枚目のオリジナル・[アルバム](../Page/アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

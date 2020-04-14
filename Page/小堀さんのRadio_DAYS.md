@@ -1,4 +1,4 @@
-> この記事は[Radio DAYS](https://ja.wikipedia.org/wiki/Radio_DAYS)から翻訳されています。
+> この記事は[小堀さんのRadio DAYS](https://ja.wikipedia.org/wiki/小堀さんのRadio_DAYS)から翻訳されています。
 
 
 **小堀さんのRadio DAYS**（こぼりさんのラジオデイズ）は、[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[6月2日](https://ja.wikipedia.org/wiki/6月2日 "wikilink")まで、[CBCラジオ](../Page/CBCラジオ.md "wikilink")（[中部日本放送](../Page/中部日本放送.md "wikilink")）で放送されたラジオ番組。放送時間は、月曜日 - 金曜日12時 - 15時30分。

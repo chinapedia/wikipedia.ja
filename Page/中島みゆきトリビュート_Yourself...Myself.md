@@ -1,4 +1,4 @@
-> この記事は[ Yourself...Myself](https://ja.wikipedia.org/wiki/_Yourself...Myself)から翻訳されています。
+> この記事は[中島みゆきトリビュート Yourself...Myself](https://ja.wikipedia.org/wiki/中島みゆきトリビュート_Yourself...Myself)から翻訳されています。
 
 
 『**中島みゆきトリビュート Yourself...Myself**』（なかじまみゆきトリビュート ユアセルフ マイセルフ）は、[2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")に[ユニバーサルミュージックK.K.からリリースされた日本国外アーティストによる](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[トリビュート（カバー）アルバムである](../Page/トリビュート・アルバム.md "wikilink")。

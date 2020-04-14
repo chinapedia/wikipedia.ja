@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[Eライン](https://ja.wikipedia.org/wiki/Eライン)から翻訳されています。
 
 
 **Eライン**（E-line）とは、歯科医が[1954年](../Page/1954年.md "wikilink")に提唱した[美](../Page/美.md "wikilink")の基準のひとつで、人間の横顔で鼻骨の先と顎骨の先を直線で結んだラインのこと。

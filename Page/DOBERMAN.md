@@ -21,11 +21,21 @@
 
 ## 概要
 
-スカミュージックを基軸とした独特の感性と幅広い音楽性でナイトクラブを喰い散らかし、まもなくオーサカアンダーグランドシーンから頭角を現す。世界各地でDOBERMANパーティーは繰り広げられ、瞳孔開きっぱなしの圧倒的なライブパフォーマンスはオーディエンスのドーパミンを大量放出させ続けた。現在進行形の楽曲は海外からも注目を集め、スペシャルズ、バッドマナーズ、 バスターズらスカレジェンドらとの共演も果たし称賛を浴びた。ステージは世界に開かれヨーロッパツアー・韓国の大型フェスへの出演など、精力的に活動場所を開拓し、国内では[フジロック・フェスティバル](https://ja.wikipedia.org/wiki/フジロック・フェスティバル "wikilink")、[アラバキロックフェスティバル](https://ja.wikipedia.org/wiki/アラバキロックフェスティバル "wikilink")、福岡サンセットライブなど大型フェスに多数出演。
+2TONE/NEOSKAに強く影響を受け、新たなSKAシーンを築くべく活動 を展開。
 
-結成15年を越え、新たな価値観を求め尚も変化を恐れず走り続ける。大阪を中心に活動を行い、2013年2月までに2枚のミニアルバムと6枚のアルバムを発表、国内外を問わず精力的にライブ活動を行っている。
+SKAベースに独自の感性と幅広い音楽性で他とは一線を画す。ルーツミュージックを尊重しながらも既成の概念を打ち壊す姿勢と
+
+圧倒的なライブパフォーマンスは現在進行形のSKA MUSICを感じさせる。
+
+これまでに「FUJI ROCK」「SUNSET LIVE」「ARABAKI ROCK」など全国各地のフェスに出演する他、
+
+二度のヨーロッパツアーや韓国の野外フェスなど日本にとどまらず活動中。2018年12月新メンバーSeasir(ex,浅草ジンタ)を迎え、その勢いはとどまることを知らない。
 
 音楽性に関しては、[スカ](../Page/スカ.md "wikilink")（SKA）を基盤とした独自の音楽性を確立している。ライブバンドとして各方面からの評価が高い。
+
+SKAをベースに独特の感性と音楽性で他とは一線を画すDOBERMANが結成20年を迎え今までの楽曲を再アレンジした
+
+2020年2月12日に新装アルバム「グランドリニューアル」をリリース
 
 ## 来歴
 
@@ -171,12 +181,31 @@
 
 
 
-  - 2018年12月9日、DOBERMAN 単独公演2018 　この年の瀬の忙しい時に緊急生発表ってよ\!\! 　にて 元浅草ジンタ シーサー(トランペット)加入。この日のLIVEはYoutube LIVEにて配信。下記のサイトから再生可能。
+  - 2018年12月9日、DOBERMAN 単独公演2018 　この年の瀬の忙しい時に緊急生発表ってよ\!\! にて
+  - 元浅草ジンタ シーサー(トランペット)加入。この日のLIVEはYoutube LIVEにて配信。下記のサイトから再生可能。
   - <https://www.youtube.com/watch?v=Li0oOXDe96k>
   -
+<!-- end list -->
+
   - 2019年7月20日、DOBERMAN presents 　MOONSTRUCK JAMBOREE 2019開催。
 
-　出演　DOBEMAN　[ベッド・イン](../Page/MONGOL800.md "wikilink")　[Scoobie Do](../Page/Scoobie_Do.md "wikilink")　オールディックフォギー UKULELE GYPSY from MONGOL800 キヨサク　[赤犬](../Page/赤犬.md "wikilink")　
+　 出演　DOBEMAN　[ベッド・イン](../Page/MONGOL800.md "wikilink")　[Scoobie Do](../Page/Scoobie_Do.md "wikilink")　オールディックフォギー UKULELE GYPSY from MONGOL800 キヨサク　[赤犬](../Page/赤犬.md "wikilink")
+
+
+
+  - SKAをベースに独特の感性と音楽性で他とは一線を画すDOBERMANが結成20年を迎え
+
+　 今までの楽曲を再アレンジした2020年2月12日に7年ぶりに7thアルバム「グランドリニューアル」を発売。
+
+トランペット シーサー加入後の現在のメンバーでの初の録音アルバム。
+
+
+
+  - 7thアルバム「グランドリニューアル」　ストリーミング配信情報は下記のサイトから
+
+　 <http://control-doberman.com/?cat=3#20_03_03>
+
+　
 
 
 
@@ -196,7 +225,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>2003年2月25日</p></td>
+<td><p>2003年2月25日　　　</p></td>
 <td><p><strong>ザラザラテクスチャー</strong></p></td>
 <td><p>PCD-5694</p></td>
 <td><ol>
@@ -210,8 +239,7 @@
 <li>ケバナセ</li>
 <li>Beerジョッキを手に</li>
 </ol></td>
-<td><p>P-VINE RECORDS<br />
-オリコン圏外</p></td>
+<td><p>P-VINE RECORDS</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
@@ -231,8 +259,7 @@
 <li>夕暮れ on the beach</li>
 <li>マイチルマーチ</li>
 </ol></td>
-<td><p>SUBSTANCE RECORDS<br />
-オリコン圏外</p></td>
+<td><p>SUBSTANCE RECORDS</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -253,8 +280,7 @@
 <li>足音だけが世界に響く</li>
 </ol></td>
 <td><p>P-VINE RECORDS<br />
-ヨーロッパツアードキュメント付き<br />
-オリコン圏外</p></td>
+ヨーロッパツアードキュメント付き</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -280,8 +306,7 @@
 <li>夕暮れ on the beach</li>
 <li>Bella Ciao</li>
 </ol></td>
-<td><p>P-VINE RECORDS<br />
-オリコン圏外</p></td>
+<td><p>P-VINE RECORDS</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -302,8 +327,7 @@
 <li>処方箋</li>
 <li>ポアンカレ回帰</li>
 </ol></td>
-<td><p>Control Records<br />
-オリコン圏外</p></td>
+<td><p>Control Records</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -323,10 +347,33 @@
 <li>スモーキーマウンテン</li>
 <li>ユーレイ!</li>
 </ol></td>
-<td><p>Control Records<br />
-オリコン圏外</p></td>
+<td><p>Control Records</p></td>
 </tr>
 <tr class="odd">
+<td><p>7th</p></td>
+<td><p>2020年2月12日</p></td>
+<td><p><strong>グランドリニューアル</strong></p></td>
+<td><p>CTRL-0010</p></td>
+<td><ol>
+<li>ホットレモネード</li>
+<li>諸行無常に弧を描いて</li>
+<li>朱い太陽</li>
+<li>マシジャ</li>
+<li>beautiful</li>
+<li>imagination trip</li>
+<li>パブロピカソ</li>
+<li>ゴッドブレス</li>
+<li>マンネーラ</li>
+<li>マリー</li>
+<li>まるで青春みたいだった</li>
+<li>それぞれのパレード</li>
+<li>ロマンチックにいかないオレたち</li>
+<li>ありきたりの言葉</li>
+<li>leap for joy</li>
+</ol></td>
+<td><p>Control Records</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -337,7 +384,8 @@
 </tbody>
 </table>
 
-### ミニアルバム
+
+\=== ミニアルバム ===
 
 <table>
 <thead>
@@ -518,16 +566,16 @@
 
 ## 外部リンク
 
-  - [DOBERMAN OFFICIAL SITE](http://control-doberman.com/) - 公式サイト
+  - [DOBERMAN OFFICIAL](http://control-doberman.com/) - 公式サイト
 
   - [DOBERMAN OFFICIAL BLOG](http://control-doberman.com/blog/index.cgi) - 公式ブログ
 
   - [DOBERMAN OFFICIAL FACE BOOK](http://www.facebook.com/control.doberman#) - 公式FACE BOOK
 
-  - [HIGHWAVE](http://www.highwave.co.jp/)　所属レーベル
-
-  - [-----MySpace.com - DOBERMAN-----](http://www.myspace.com/japanesedoberman) - MySpace (※日本国外ファンによる開設)
+  - [DOBERMAN Instagram](https://www.instagram.com/doberman_ska/?hl=ja) - 公式Instagram
 
   -   -
       -
+      - [ケンジ](https://twitter.com/DOBERMAN_kenji)(@DOBERMAN_kenji) - Twitter
+
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[Dパラダイス](https://ja.wikipedia.org/wiki/Dパラダイス)から翻訳されています。
 
 
 **Dパラダイス**（ディーパラダイス）は、[日本テレビで](../Page/日本テレビ放送網.md "wikilink")[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")まで放送されていた[テレビドラマ](../Page/テレビドラマ.md "wikilink")[再放送](../Page/再放送.md "wikilink")枠。基本的放送時間は、[月曜](../Page/月曜日.md "wikilink") - [木曜の](../Page/木曜日.md "wikilink")15:55 - 16:53([JST](../Page/日本標準時.md "wikilink"))。終了後、（CMを挟んで）日テレかわら版を放送（16:49:25）。

@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ジョン・W・キャンベル記念賞](https://ja.wikipedia.org/wiki/ジョン・W・キャンベル記念賞)から翻訳されています。
 
 
 **ジョン・W・キャンベル記念賞**（ジョン・W・キャンベルきねんしょう、*John W. Campbell Memorial Award for Best Science Fiction Novel*）は、1994年を除いて毎年授与されている、SF小説（[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")）の[文学賞](../Page/文学賞.md "wikilink")である。前年に英語で出版された長篇SF小説を対象としている。1973年[ハリイ・ハリスン](../Page/ハリイ・ハリスン.md "wikilink")と[ブライアン・オールディス](../Page/ブライアン・オールディス.md "wikilink")が、SF編集者[ジョン・W・キャンベル](../Page/ジョン・W・キャンベル.md "wikilink")にちなんで、キャンベルのようにSF作家たちを励ますことを目的として創設した\[1\]。

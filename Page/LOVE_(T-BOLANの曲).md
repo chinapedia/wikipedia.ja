@@ -1,4 +1,4 @@
-> この記事は[LOVE \(T-BOLAN\)](https://ja.wikipedia.org/wiki/LOVE_\(T-BOLAN\))から翻訳されています。
+> この記事は[LOVE \(T-BOLANの曲\)](https://ja.wikipedia.org/wiki/LOVE_\(T-BOLANの曲\))から翻訳されています。
 
 
 **LOVE**（ラブ）は[T-BOLAN](../Page/T-BOLAN.md "wikilink")の11thシングル。

@@ -1,4 +1,4 @@
-> この記事は[ \(T-BOLAN\)](https://ja.wikipedia.org/wiki/_\(T-BOLAN\))から翻訳されています。
+> この記事は[マリア \(T-BOLANの曲\)](https://ja.wikipedia.org/wiki/マリア_\(T-BOLANの曲\))から翻訳されています。
 
 
 「**マリア**」は、[T-BOLAN](../Page/T-BOLAN.md "wikilink")の12枚目のシングル。

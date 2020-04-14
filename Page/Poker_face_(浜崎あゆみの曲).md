@@ -1,7 +1,7 @@
-> この記事は[Poker face \(\)](https://ja.wikipedia.org/wiki/Poker_face_\(\))から翻訳されています。
+> この記事は[Poker face \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Poker_face_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**poker face**」（ポーカー・フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の1st[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**poker face**」（ポーカー・フェイス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の1枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 [1999年](../Page/1999年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売し、[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")には[12cmCDで再発売している](../Page/コンパクトディスク.md "wikilink")。
 

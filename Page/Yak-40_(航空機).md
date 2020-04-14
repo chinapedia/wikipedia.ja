@@ -1,4 +1,4 @@
-> この記事は[Yak-40 \(\)](https://ja.wikipedia.org/wiki/Yak-40_\(\))から翻訳されています。
+> この記事は[Yak-40 \(航空機\)](https://ja.wikipedia.org/wiki/Yak-40_\(航空機\))から翻訳されています。
 
 
 |                                                                   Yak-40                                                                    |

@@ -1,4 +1,4 @@
-> この記事は[ Just on my Love](https://ja.wikipedia.org/wiki/_Just_on_my_Love)から翻訳されています。
+> この記事は[愛 Just on my Love](https://ja.wikipedia.org/wiki/愛_Just_on_my_Love)から翻訳されています。
 
 
 「**愛 Just on my Love**」（あい ジャスト・オン・マイ・ラブ）は、[シャ乱Q](../Page/シャ乱Q.md "wikilink")の17枚目のシングル。

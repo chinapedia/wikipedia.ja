@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[ガンドッグ \(TRPG\)](https://ja.wikipedia.org/wiki/ガンドッグ_\(TRPG\))から翻訳されています。
 
 
 『**ガンドッグ**』 (GUNDOG) は、[2004年](../Page/2004年.md "wikilink")に[新紀元社](../Page/新紀元社.md "wikilink")から発売された近未来を舞台に銃撃戦を主体にした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。テーブルトークRPG専門誌『[Role\&Roll](../Page/Role&Roll.md "wikilink")』上で企画されて出版された、初めての作品。作者は[狩岡源](https://ja.wikipedia.org/wiki/狩岡源 "wikilink")／[アークライト](../Page/アークライト_\(企業\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[!!PON](https://ja.wikipedia.org/wiki/!!PON)から翻訳されています。
+> この記事は[多田しげおの気分爽快!!朝からP・O・N](https://ja.wikipedia.org/wiki/多田しげおの気分爽快!!朝からP・O・N)から翻訳されています。
 
 
 『**多田しげおの気分爽快\!\!朝からP・O・N**』（ただしげおのきぶんそうかい\!\!あさからピー・オー・エヌ）は、[CBCラジオ](../Page/CBCラジオ.md "wikilink")で放送されている朝の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。通称『**朝PON**』（あさポン）。フリーアナウンサー・[多田しげお](../Page/多田しげお.md "wikilink")（元[CBC](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")[アナウンサー](../Page/日本のアナウンサー.md "wikilink")）の現在の冠番組である。[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")に放送開始。放送時間は平日 6:30 - 9:00。
@@ -29,7 +29,7 @@
 #### 現在
 
   - [桐生順子](../Page/桐生順子.md "wikilink")（[2015年](../Page/2015年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - \[3\]）月曜・火曜・水曜担当。
-  - [山内彩加](https://ja.wikipedia.org/wiki/山内彩加 "wikilink")（[2018年](../Page/2018年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - ）金曜→木曜・金曜担当。\[4\]　　　　　　　　　
+  - [加藤愛](https://ja.wikipedia.org/wiki/加藤愛_\(アナウンサー\) "wikilink")（[2020年](../Page/2020年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - ）木曜・金曜担当。
 
 #### 過去
 
@@ -45,8 +45,11 @@
   - [加藤由香](../Page/加藤由香.md "wikilink")（2013年[4月4日](../Page/4月4日.md "wikilink") - 2016年[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")） - 木曜・金曜→金曜担当。
   - [南部志穂](../Page/南部志穂.md "wikilink")（2013年[10月2日](../Page/10月2日.md "wikilink") - 2016年[9月22日](../Page/9月22日.md "wikilink")） - 水曜→水曜・木曜担当。
   - [鷲塚美知代](https://ja.wikipedia.org/wiki/鷲塚美知代 "wikilink")（2013年[10月1日](../Page/10月1日.md "wikilink") - 2014年3月25日） - 火曜担当。
-  - [原田裕見子](../Page/原田裕見子.md "wikilink")（[2014年](../Page/2014年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 2018年3月29日） - 木曜担当\[5\]。
-  - [小倉理恵](../Page/小倉理恵.md "wikilink")（[2016年](../Page/2016年.md "wikilink")9月28日 - 2018年[1月12日](../Page/1月12日.md "wikilink")） - 金曜担当\[6\]。
+  - [原田裕見子](../Page/原田裕見子.md "wikilink")（[2014年](../Page/2014年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 2018年3月29日） - 木曜担当\[4\]。
+  - [小倉理恵](../Page/小倉理恵.md "wikilink")（[2016年](../Page/2016年.md "wikilink")9月28日 - 2018年[1月12日](../Page/1月12日.md "wikilink")） - 金曜担当\[5\]。
+  - [山内彩加](https://ja.wikipedia.org/wiki/山内彩加 "wikilink")（[2018年](../Page/2018年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - 2020年3月27日）金曜→木曜・金曜担当。\[6\]　
+
+　
 
 ### 「情報サプリメント」レポーター
 
@@ -254,9 +257,9 @@
 1.
 2.
 3.  2018年1月19日は妊娠中の小倉理恵が前週で降板したため代役を務めた。
-4.  [CBCアナウンサーズブログ「山内彩加のハッピーエンターテインメント⑱＆朝PON」](http://blog.hicbc.com/weblog/announcer/2018/02/#link23117)2018年2月2日
-5.  2018年1月26日は妊娠中の小倉理恵が前週で降板したため代役を務めた。
-6.  妊娠中の体調面を考慮した上で急きょ入院のため降板したことを、1月19日の放送内で触れられた。
+4.  2018年1月26日は妊娠中の小倉理恵が前週で降板したため代役を務めた。
+5.  妊娠中の体調面を考慮した上で急きょ入院のため降板したことを、1月19日の放送内で触れられた。
+6.  [CBCアナウンサーズブログ「山内彩加のハッピーエンターテインメント⑱＆朝PON」](http://blog.hicbc.com/weblog/announcer/2018/02/#link23117)2018年2月2日
 7.  番組開始当初から数年後に行わなくなったが、6:30スタートになってから復活した。現在はリスナーのリクエストに応える形だが、開始当初はランダムであった。
 8.  CBC制作で全国ネット。
 9.  理由は定かではないが、土・日曜の同時間帯の番組（「[ニュースマン\!\!](https://ja.wikipedia.org/wiki/石塚元章_ニュースマン!! "wikilink")」および「[新栄トークジャンボリー](https://ja.wikipedia.org/wiki/小堀勝啓の新栄トークジャンボリー "wikilink")」）ではナレーションがない通常のジングルを使用していることから、通勤等で自動車を使うなど忙しい時間帯の放送でもあることの配慮でもある らしい。

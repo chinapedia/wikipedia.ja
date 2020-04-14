@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAベレス・サルスフィエルド](https://ja.wikipedia.org/wiki/CAベレス・サルスフィエルド)から翻訳されています。
 
 
 **クルブ・アトレティコ・ベレス・サルスフィエルド** (\[1\]) は、[アルゼンチン](../Page/アルゼンチン.md "wikilink")・[ブエノスアイレス州](../Page/ブエノスアイレス州.md "wikilink")[ブエノスアイレス](../Page/ブエノスアイレス.md "wikilink")を本拠地とする[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。[スーペルリーガ・アルヘンティーナに所属する](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(アルゼンチン\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")部門がよく知られている。

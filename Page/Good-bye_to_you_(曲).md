@@ -1,4 +1,4 @@
-> この記事は[Good-bye to you \(\)](https://ja.wikipedia.org/wiki/Good-bye_to_you_\(\))から翻訳されています。
+> この記事は[Good-bye to you \(曲\)](https://ja.wikipedia.org/wiki/Good-bye_to_you_\(曲\))から翻訳されています。
 
 
 「**Good-bye to you**」（グッバイ・トゥ・ユー）は[栗林誠一郎](../Page/栗林誠一郎.md "wikilink")の2枚目のシングル。

@@ -1,4 +1,4 @@
-> この記事は[ FBI\?](https://ja.wikipedia.org/wiki/_FBI\?)から翻訳されています。
+> この記事は[コーキー・ロマーノ FBI潜入捜査官\?](https://ja.wikipedia.org/wiki/コーキー・ロマーノ_FBI潜入捜査官\?)から翻訳されています。
 
 
 『**コーキー・ロマーノ FBI潜入捜査官?**』（コーキー・ロマーノ FBIせんにゅうそうさかん、*Corky Romano*）は、[2001年](../Page/2001年.md "wikilink")に公開された[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ映画 "wikilink")。アクション、コメディ、ホームドラマ。[ロブ・プリッツ](https://ja.wikipedia.org/wiki/ロブ・プリッツ "wikilink")初監督作品。
@@ -29,4 +29,4 @@
   -
   -
   -
-[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:アメリカ合衆国のコメディ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコメディ映画 "wikilink") [Category:アメリカ合衆国のマフィア映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のマフィア映画 "wikilink") [Category:ランディ・エデルマンの作曲映画](https://ja.wikipedia.org/wiki/Category:ランディ・エデルマンの作曲映画 "wikilink") [Category:連邦捜査局を舞台とした作品](https://ja.wikipedia.org/wiki/Category:連邦捜査局を舞台とした作品 "wikilink")
+[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:アメリカ合衆国のコメディ映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のコメディ映画 "wikilink") [Category:アメリカ合衆国のマフィア映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のマフィア映画 "wikilink") [Category:ランディ・エデルマンの作曲映画](https://ja.wikipedia.org/wiki/Category:ランディ・エデルマンの作曲映画 "wikilink") [Category:連邦捜査局を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:連邦捜査局を舞台とした映画作品 "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[! KSB](https://ja.wikipedia.org/wiki/!_KSB)から翻訳されています。
+> この記事は[情報スパーク! KSBひるズ](https://ja.wikipedia.org/wiki/情報スパーク!_KSBひるズ)から翻訳されています。
 
 
 『**情報スパーク\! KSBひるズ**』（じょうほうスパーク ケイエスビーひるズ）は、[2003年](../Page/2003年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")で[月曜日](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink") 11:30 - 12:00 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")。通称は「**KSBひるズ**」で、新聞の[テレビ欄および](https://ja.wikipedia.org/wiki/番組表 "wikilink")[地上デジタル放送の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[EPGではこの表記が用いられていた](../Page/電子番組ガイド.md "wikilink")。

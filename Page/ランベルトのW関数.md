@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ランベルトのW関数](https://ja.wikipedia.org/wiki/ランベルトのW関数)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/file:Lambert-w.svg "wikilink") [数学](../Page/数学.md "wikilink")における**ランベルト W 函数**（ランベルトWかんすう、）あるいは**オメガ函数** (*ω function*), 対数積（*product logarithm*; 乗積対数）は、函数  の[逆関係](https://ja.wikipedia.org/wiki/逆関係 "wikilink")の[分枝として得られる](https://ja.wikipedia.org/wiki/分岐点 "wikilink")[函数](https://ja.wikipedia.org/wiki/函数 "wikilink")  の総称である。ここに  は[指数函数](https://ja.wikipedia.org/wiki/指数函数 "wikilink")で  は任意の[複素数](../Page/複素数.md "wikilink")とする。すなわち  は  を満たす。

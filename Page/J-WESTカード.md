@@ -1,4 +1,4 @@
-> この記事は[J-WEST](https://ja.wikipedia.org/wiki/J-WEST)から翻訳されています。
+> この記事は[J-WESTカード](https://ja.wikipedia.org/wiki/J-WESTカード)から翻訳されています。
 
 
 **J-WESTカード**（ジェイ ウエスト カード\[1\]、*J-WEST CARD* ）は、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）と[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")および株式会社[ジェーシービー](../Page/ジェーシービー.md "wikilink") (JCB) が提携して発行する[クレジットカード](../Page/クレジットカード.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[マーティン・J・ウィットマン・スクール・オブ・マネージメント](https://ja.wikipedia.org/wiki/マーティン・J・ウィットマン・スクール・オブ・マネージメント)から翻訳されています。
 
 
 **マーティン・J・ウィットマン・スクール・オブ・マネージメント** (**Martin J. Whitman School of Management**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[シラキュースにある](../Page/シラキュース_\(ニューヨーク州\).md "wikilink")[シラキューズ大学](https://ja.wikipedia.org/wiki/シラキューズ大学 "wikilink")の[ビジネス・スクール](https://ja.wikipedia.org/wiki/ビジネス・スクール "wikilink")である。[1948年](../Page/1948年.md "wikilink")に設立され、現在1,540人の[大学生](https://ja.wikipedia.org/wiki/大学生 "wikilink")、373人の[大学院生](https://ja.wikipedia.org/wiki/大学院生 "wikilink")（[MBA](../Page/経営学修士.md "wikilink")）、35人の[博士](../Page/博士.md "wikilink")課程の生徒が所属している。[インターネット](../Page/インターネット.md "wikilink")を使った[通信教育](../Page/通信教育.md "wikilink")（iMBAと呼ばれる）も実施されており157人の生徒が利用している。

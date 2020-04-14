@@ -1,4 +1,4 @@
-> この記事は[ NEXT DOOR](https://ja.wikipedia.org/wiki/_NEXT_DOOR)から翻訳されています。
+> この記事は[夢の扉 〜NEXT DOOR〜](https://ja.wikipedia.org/wiki/夢の扉_〜NEXT_DOOR〜)から翻訳されています。
 
 
 『**夢の扉 〜NEXT DOOR〜**』（ゆめのとびら ネクストドア）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、[2004年](../Page/2004年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")まで、毎週[日曜日](../Page/日曜日.md "wikilink")の18時30分から19時（[JST](../Page/日本標準時.md "wikilink")）に放送された[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組。

@@ -1,4 +1,4 @@
-> この記事は[My Babe ](https://ja.wikipedia.org/wiki/My_Babe_)から翻訳されています。
+> この記事は[My Babe 君が眠るまで](https://ja.wikipedia.org/wiki/My_Babe_君が眠るまで)から翻訳されています。
 
 
 『**My Babe 君が眠るまで**』（マイ ベイブ きみがねむるまで）は[シャ乱Q](../Page/シャ乱Q.md "wikilink")の9枚目のシングル。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[BMG JAPANから発売された](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。

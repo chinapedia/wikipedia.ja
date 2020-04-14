@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[Fランク](https://ja.wikipedia.org/wiki/Fランク)から翻訳されています。
 
 
 **Fランク**（エフランク、F rank）はA、B、C、D、Eの次のランクのこと。日本特有の表現であり、転じて次の意味を持つ。

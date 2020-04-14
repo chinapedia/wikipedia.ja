@@ -1,4 +1,4 @@
-> この記事は[Memories Off](https://ja.wikipedia.org/wiki/Memories_Off)から翻訳されています。
+> この記事は[Memories Offシリーズの登場人物](https://ja.wikipedia.org/wiki/Memories_Offシリーズの登場人物)から翻訳されています。
 
 
 **Memories Off シリーズの登場人物**は、[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")『[Memories Offシリーズ](../Page/Memories_Offシリーズ.md "wikilink")』に登場する、[架空](../Page/架空.md "wikilink")の人物の一覧である。

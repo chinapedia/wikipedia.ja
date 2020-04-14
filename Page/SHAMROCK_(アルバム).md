@@ -1,4 +1,4 @@
-> この記事は[SHAMROCK \(\)](https://ja.wikipedia.org/wiki/SHAMROCK_\(\))から翻訳されています。
+> この記事は[SHAMROCK \(アルバム\)](https://ja.wikipedia.org/wiki/SHAMROCK_\(アルバム\))から翻訳されています。
 
 
 『**SHAMROCK**』（シャムロック）は、[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")の4枚目の[アルバム](../Page/アルバム.md "wikilink")。[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から[1993年](../Page/1993年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink")に発売、[2005年](../Page/2005年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に再発売された。

@@ -1,7 +1,7 @@
 > この記事は[VMware](https://ja.wikipedia.org/wiki/VMware)から翻訳されています。
 
 
-[VMware_HQ_campus_3401_Hillview_entrance.JPG](https://ja.wikipedia.org/wiki/File:VMware_HQ_campus_3401_Hillview_entrance.JPG "fig:VMware_HQ_campus_3401_Hillview_entrance.JPG") **VMware, Inc**(ヴイエムウェア)は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[パロアルトに本拠を置くIT企業である](../Page/パロアルト_\(カリフォルニア州\).md "wikilink")。ITの[仮想化](../Page/仮想化.md "wikilink")市場において世界一のシェアを誇る製品やサービスを開発・販売しており、ソフトウェアベンダー全体としても世界第5位\[1\]の売上高である。
+[VMware_HQ_campus_3401_Hillview_entrance.JPG](https://ja.wikipedia.org/wiki/File:VMware_HQ_campus_3401_Hillview_entrance.JPG "fig:VMware_HQ_campus_3401_Hillview_entrance.JPG") **VMware, Inc**（ヴイエムウェア）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[パロアルトに本拠を置くIT企業である](../Page/パロアルト_\(カリフォルニア州\).md "wikilink")。ITの[仮想化](../Page/仮想化.md "wikilink")市場において世界一のシェアを誇る製品やサービスを開発・販売しており、ソフトウェアベンダー全体としても世界第5位\[1\]の売上高である。
 
 ## 概要
 

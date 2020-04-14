@@ -5,7 +5,7 @@
 
 ## 解説
 
-オリジナルアルバムとしては前作『[Duty](../Page/Duty.md "wikilink")』より、1年3ヶ月ぶりとなる。本作において初めて浜崎本人がCREA名義で作曲を行った。
+オリジナルアルバムとしては前作『[Duty](../Page/Duty.md "wikilink")』より、1年3か月ぶりとなる。本作において初めて浜崎本人がCREA名義で作曲を行った。
 
 「[Connected](https://ja.wikipedia.org/wiki/Connected "wikilink")」と「[Naturally](https://ja.wikipedia.org/wiki/Naturally_\(浜崎あゆみの曲\) "wikilink")」は後に海外でシングルとして発売された（日本では未発売）。
 
@@ -39,7 +39,7 @@
       -
         作曲：CREA / 編曲：CMJK
         コーセー「ヴィセ」CM曲
-7.  **[NEVER EVER](../Page/NEVER_EVER.md "wikilink")**
+7.  **[NEVER EVER](https://ja.wikipedia.org/wiki/NEVER_EVER_\(浜崎あゆみの曲\) "wikilink")**
       -
         作曲：CREA / 編曲：CHOKKAKU
         21stシングル

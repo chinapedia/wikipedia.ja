@@ -1,4 +1,4 @@
-> この記事は[EL\&P](https://ja.wikipedia.org/wiki/EL\&P)から翻訳されています。
+> この記事は[ベスト・オブ・EL\&P](https://ja.wikipedia.org/wiki/ベスト・オブ・EL\&P)から翻訳されています。
 
 
 **ベスト・オブ・EL\&P** (***THE BEST OF EMERSON,LAKE AND PALMER***) は、[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。尚、便宜上、次回作はブラック・ムーンになっているが、途中で「[エマーソン・レイク・アンド・パウエル](../Page/エマーソン・レイク・アンド・パウエル.md "wikilink")」と「[3(スリー)](../Page/3_\(バンド\).md "wikilink")」というバンドが存在し、それぞれアルバムを発表している。

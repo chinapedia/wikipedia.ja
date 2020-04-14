@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[老人Z](https://ja.wikipedia.org/wiki/老人Z)から翻訳されています。
 
 
 『**老人Z**』（ろうじんゼット）は、日本の[アニメ映画](https://ja.wikipedia.org/wiki/アニメ映画 "wikilink")。[高齢化社会](../Page/高齢化社会.md "wikilink")などの老人問題をテーマに作成したSFアニメーション。[1991年](../Page/1991年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")公開\[1\]。

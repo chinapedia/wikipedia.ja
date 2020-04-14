@@ -1,4 +1,4 @@
-> この記事は[\&Lizzie](https://ja.wikipedia.org/wiki/\&Lizzie)から翻訳されています。
+> この記事は[リジー\&Lizzie](https://ja.wikipedia.org/wiki/リジー\&Lizzie)から翻訳されています。
 
 
 『**リジー\&Lizzie**』（原題 *Lizzie McGuire*）は、[2003年](../Page/2003年.md "wikilink")から[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")で放送された[海外ドラマ](../Page/海外ドラマ.md "wikilink")。オリジナルは[2001年](../Page/2001年.md "wikilink")から[アメリカで放送されたもの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。

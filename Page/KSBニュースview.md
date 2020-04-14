@@ -1,4 +1,4 @@
-> この記事は[KSBview](https://ja.wikipedia.org/wiki/KSBview)から翻訳されています。
+> この記事は[KSBニュースview](https://ja.wikipedia.org/wiki/KSBニュースview)から翻訳されています。
 
 
 『**KSBニュースview**』（ケイエスビーニュース ビュー）は、[瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")で放送されている深夜の[ニュース番組](../Page/報道番組.md "wikilink")。『[報道ステーション](https://ja.wikipedia.org/wiki/報道ステーション "wikilink")』後の月曜 - 金曜 23:15 - 23:20に放送されている。

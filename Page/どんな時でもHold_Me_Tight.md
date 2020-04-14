@@ -1,4 +1,4 @@
-> この記事は[Hold Me Tight](https://ja.wikipedia.org/wiki/Hold_Me_Tight)から翻訳されています。
+> この記事は[どんな時でもHold Me Tight](https://ja.wikipedia.org/wiki/どんな時でもHold_Me_Tight)から翻訳されています。
 
 
 **どんな時でもHold Me Tight**( - ときでも ホールド・ミー・タイト)は、[BAAD](../Page/BAAD.md "wikilink")の1枚目のデビューシングル。

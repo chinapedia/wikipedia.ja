@@ -1,4 +1,4 @@
-> この記事は[THE !!!](https://ja.wikipedia.org/wiki/THE_!!!)から翻訳されています。
+> この記事は[THE マンパワー!!!](https://ja.wikipedia.org/wiki/THE_マンパワー!!!)から翻訳されています。
 
 
 「**THE マンパワー\!\!\!**」（ザ マンパワー\!\!\!）は[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の25枚目の[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")に[zetima](https://ja.wikipedia.org/wiki/zetima "wikilink")から発売された。

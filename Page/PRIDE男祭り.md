@@ -1,4 +1,4 @@
-> この記事は[PRIDE](https://ja.wikipedia.org/wiki/PRIDE)から翻訳されています。
+> この記事は[PRIDE男祭り](https://ja.wikipedia.org/wiki/PRIDE男祭り)から翻訳されています。
 
 
 **PRIDE 男祭り**（プライド おとこまつり）は、[ドリームステージエンターテインメント](../Page/ドリームステージエンターテインメント.md "wikilink")（DSE）が運営する日本の[総合格闘技](../Page/総合格闘技.md "wikilink")イベント[PRIDEの](../Page/PRIDE_\(格闘技イベント\).md "wikilink")[大晦日](../Page/大晦日.md "wikilink")の大会。

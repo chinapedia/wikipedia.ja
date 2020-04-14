@@ -1,4 +1,4 @@
-> この記事は[ \(ELP\)](https://ja.wikipedia.org/wiki/_\(ELP\))から翻訳されています。
+> この記事は[ライヴ・アット・ロイヤル・アルバート・ホール \(ELPのアルバム\)](https://ja.wikipedia.org/wiki/ライヴ・アット・ロイヤル・アルバート・ホール_\(ELPのアルバム\))から翻訳されています。
 
 
 **ライヴ・アット・ロイヤル・アルバート・ホール** (***Live at the Royal Albert Hall***) は、[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[MkI](https://ja.wikipedia.org/wiki/MkI)から翻訳されています。
+> この記事は[スタームルガーMkI](https://ja.wikipedia.org/wiki/スタームルガーMkI)から翻訳されています。
 
 
 **スタームルガーMk I**（）は、[1950年](../Page/1950年.md "wikilink")に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[スターム・ルガー](../Page/スターム・ルガー.md "wikilink")社が競技用として開発した自動[拳銃](../Page/拳銃.md "wikilink")である。

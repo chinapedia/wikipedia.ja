@@ -53,7 +53,7 @@
 
 ### メインキャスター
 
-  - [笹崎里菜](https://ja.wikipedia.org/wiki/笹崎里菜 "wikilink")（日本テレビアナウンサー、**月**曜日担当）（2017年2月20日 - ）イメージカラーはイエロー。
+  - [杉原凛](https://ja.wikipedia.org/wiki/杉原凛 "wikilink")（日本テレビアナウンサー、**月**曜日担当）（2020年3月30日 - ）イメージカラーはイエロー。
   - [郡司恭子](https://ja.wikipedia.org/wiki/郡司恭子 "wikilink")（日本テレビアナウンサー、**火**曜日担当\[20\]）（2017年10月2日 - ) イメージカラーはレッド。
   - [市來玲奈](https://ja.wikipedia.org/wiki/市來玲奈 "wikilink") (日本テレビアナウンサー、**水**曜日担当\[21\])   (2019年10月2日 - ) イメージカラーはブルー。
   - [後呂有紗](https://ja.wikipedia.org/wiki/後呂有紗 "wikilink") (日本テレビアナウンサー、**木**曜日担当)   (2019年10月3日 - ) イメージカラーはグリーン。
@@ -67,9 +67,9 @@
 
 2019年10月1日現在\[22\]。担当曜日はいずれも担当当初より変わっている。なお、他番組への出演による日程調整等の理由で不定期に差し変わることがある。
 
-  - [伊藤大海](https://ja.wikipedia.org/wiki/伊藤大海 "wikilink")（日本テレビアナウンサー、**月**曜日担当）（2018年10月4日 - ）
-  - [大町怜央](https://ja.wikipedia.org/wiki/大町怜央 "wikilink")（日本テレビアナウンサー、**火**曜日担当）（2019年10月1日 - ）
-  - [川畑一志](https://ja.wikipedia.org/wiki/川畑一志 "wikilink")（日本テレビアナウンサー、**水**曜日担当）（2017年10月4日 - ）
+  - [川畑一志](https://ja.wikipedia.org/wiki/川畑一志 "wikilink")（日本テレビアナウンサー、**月**曜日担当）（2017年10月4日 - ）
+  - [大町怜央](https://ja.wikipedia.org/wiki/大町怜央 "wikilink")（日本テレビアナウンサー、**火**曜日担当）（2018年10月4日 - ）
+  - [伊藤大海](https://ja.wikipedia.org/wiki/伊藤大海 "wikilink")（日本テレビアナウンサー、**水**曜日担当）（2019年10月1日 - ）
   - [山﨑誠](https://ja.wikipedia.org/wiki/山崎誠_\(アナウンサー\) "wikilink")（日本テレビアナウンサー、**木**曜日担当）（2019年4月5日 - ）
   - [山本健太](https://ja.wikipedia.org/wiki/山本健太 "wikilink")（日本テレビアナウンサー、**金**曜日担当）（2016年10月6日 - ）
 
@@ -138,7 +138,8 @@
 | 2017.4.3  | 2017.9.29  | [笹崎里菜](https://ja.wikipedia.org/wiki/笹崎里菜 "wikilink")                   | [滝菜月](https://ja.wikipedia.org/wiki/滝菜月 "wikilink")         |                                                       |                                                       |
 | 2017.10.2 | 2018.3.30  | [郡司恭子](https://ja.wikipedia.org/wiki/郡司恭子 "wikilink")                   | 笹崎里菜                                                        | 後藤晴菜                                                  |                                                       |
 | 2018.4.2  | 2019.9.27  | [佐藤梨那](https://ja.wikipedia.org/wiki/佐藤梨那 "wikilink")                   |                                                             |                                                       |                                                       |
-| 2019.9.30 | 現在         | 笹崎里菜                                                                    | 郡司恭子                                                        | [市来玲奈](https://ja.wikipedia.org/wiki/市來玲奈 "wikilink") | [後呂有紗](https://ja.wikipedia.org/wiki/後呂有紗 "wikilink") |
+| 2019.9.30 | 2020.3.27  | 笹崎里菜                                                                    | 郡司恭子                                                        | [市来玲奈](https://ja.wikipedia.org/wiki/市來玲奈 "wikilink") | [後呂有紗](https://ja.wikipedia.org/wiki/後呂有紗 "wikilink") |
+| 2020.3.30 | 現在         | [杉原凛](https://ja.wikipedia.org/wiki/杉原凛 "wikilink")                     | 市来玲奈                                                        | 岩田絵里奈                                                 | 後呂有紗                                                  |
 
   - ニュースキャスター
 
@@ -256,10 +257,15 @@
 </tr>
 <tr class="even">
 <td><p>2019.9.30</p></td>
-<td><p>現在</p></td>
+<td><p>2020.3.27</p></td>
 <td><p>伊藤大海</p></td>
 </tr>
 <tr class="odd">
+<td><p>2020.3.30</p></td>
+<td><p>現在</p></td>
+<td><p>川畑一志</p></td>
+</tr>
+<tr class="even">
 <td><p><small></p>
 <ul>
 <li><sup>1</sup>　月・火曜</li>

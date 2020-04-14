@@ -1,4 +1,4 @@
-> この記事は[LS](https://ja.wikipedia.org/wiki/LS)から翻訳されています。
+> この記事は[レクサス・LS](https://ja.wikipedia.org/wiki/レクサス・LS)から翻訳されています。
 
 
 [2017-03-07_Geneva_Motor_Show_1217.JPG](https://ja.wikipedia.org/wiki/File:2017-03-07_Geneva_Motor_Show_1217.JPG "fig:2017-03-07_Geneva_Motor_Show_1217.JPG")

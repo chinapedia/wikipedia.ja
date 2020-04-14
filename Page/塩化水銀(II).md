@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[塩化水銀\(II\)](https://ja.wikipedia.org/wiki/塩化水銀\(II\))から翻訳されています。
 
 
 **塩化水銀(II)**（えんかすいぎん に）は、[水銀](../Page/水銀.md "wikilink")の[塩化物](../Page/塩化物.md "wikilink")の1種である。**塩化第二水銀**（えんかだいにすいぎん）とも表記される。水銀の塩化物である[塩化水銀](https://ja.wikipedia.org/wiki/塩化水銀 "wikilink")は2種類があり、もう1つは[塩化水銀(I)](../Page/塩化水銀\(I\).md "wikilink")　である。塩化水銀(II)　はHgCl<sub>2</sub>という組成をもち、**昇汞**（しょうこう）と呼ばれる。[水溶性](https://ja.wikipedia.org/wiki/水溶性 "wikilink")の無色または白色の[針状結晶](https://ja.wikipedia.org/wiki/針状結晶 "wikilink")である。水にやや溶けやすい（常温で水1kgに約60g溶ける）。[アルコール](https://ja.wikipedia.org/wiki/アルコール "wikilink")や[エーテルにも溶ける](../Page/エーテル_\(化学\).md "wikilink")。[蛋白質](https://ja.wikipedia.org/wiki/蛋白質 "wikilink")を変性させる作用が強い猛毒である。また、[昇華しやすい](../Page/昇華_\(化学\).md "wikilink")。

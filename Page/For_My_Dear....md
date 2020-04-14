@@ -1,7 +1,7 @@
 > この記事は[For My Dear...](https://ja.wikipedia.org/wiki/For_My_Dear...)から翻訳されています。
 
 
-「**For My Dear...**」（フォー・マイ・ディアー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の4th[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
+「**For My Dear...**」（フォー・マイ・ディアー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に[12cmCDで再発売](../Page/コンパクトディスク.md "wikilink")。
 
 ## 解説
 

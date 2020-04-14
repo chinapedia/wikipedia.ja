@@ -1,17 +1,17 @@
-> この記事は[Vogue \(\)](https://ja.wikipedia.org/wiki/Vogue_\(\))から翻訳されています。
+> この記事は[Vogue \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Vogue_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**vogue**」（ヴォーグ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の14th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**vogue**」（ヴォーグ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の14枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 
-シングルとしては前作「[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")」より、約2ヶ月半振りのシングル。[オリコン週間シングルチャートでは最高](../Page/オリコンチャート.md "wikilink")3位ながら、累計76.8万枚を売り上げるヒットとなった\[2\]。
+シングルとしては前作「[Fly high](../Page/Fly_high_\(浜崎あゆみの曲\).md "wikilink")」より、約2か月半振りのシングル。[オリコン週間シングルチャートでは最高](../Page/オリコンチャート.md "wikilink")3位ながら、累計76.8万枚を売り上げるヒットとなった\[2\]。
 
 本作は、次作「[Far away](../Page/Far_away_\(浜崎あゆみの曲\).md "wikilink")」、次々作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」とともに、「絶望3部作」と呼ばれたシングル3部作の1作目にあたり\[3\]、[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")も3作品で繋がっている。
 
 カップリングの「ever free」は、本作付属の歌詞カードには歌詞が掲載されていない（ライブDVD『[ayumi hamasaki concert tour 2000 A 第2幕](https://ja.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")』には掲載されている）。
 
-2000年[7月12日](../Page/7月12日.md "wikilink")には、3部作のミュージック・ビデオ等を収めた「[Vogue Far away SEASONS](https://ja.wikipedia.org/wiki/Vogue_Far_away_SEASONS "wikilink")」が発売された。
+2000年[7月12日](../Page/7月12日.md "wikilink")には、3部作のミュージック・ビデオなどを収めた「[Vogue Far away SEASONS](https://ja.wikipedia.org/wiki/Vogue_Far_away_SEASONS "wikilink")」が発売された。
 
 ## 収録曲
 

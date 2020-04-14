@@ -1,4 +1,4 @@
-> この記事は[IX](https://ja.wikipedia.org/wiki/IX)から翻訳されています。
+> この記事は[三國志IX](https://ja.wikipedia.org/wiki/三國志IX)から翻訳されています。
 
 
 『**三國志IX**』（さんごくし・ナイン）は、2003年に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第9作。パソコン版で発売された後、[PlayStation 2や](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[PlayStation Portableに移植された](../Page/PlayStation_Portable.md "wikilink")。音楽は[栗山和樹](../Page/栗山和樹.md "wikilink")が担当。

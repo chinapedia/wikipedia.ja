@@ -7,7 +7,7 @@
 
 ## 楽曲
 
-  - [BOYS & GIRLS (大江千里の曲)](https://ja.wikipedia.org/wiki/BOYS_&_GIRLS_\(大江千里の曲\) "wikilink") - [大江千里のシングル曲](../Page/大江千里_\(アーティスト\).md "wikilink")。
+  - [BOYS & GIRLS (大江千里の曲)](../Page/BOYS_&_GIRLS_\(大江千里の曲\).md "wikilink") - [大江千里のシングル曲](../Page/大江千里_\(アーティスト\).md "wikilink")。
   - [Boys & Girls (サディスティック・ミカ・バンドの曲)](https://ja.wikipedia.org/wiki/Boys_&_Girls_\(サディスティック・ミカ・バンドの曲\) "wikilink") - [サディスティック・ミカ・バンド](../Page/サディスティック・ミカ・バンド.md "wikilink")のシングル曲。
   - [Boys & Girls (浜崎あゆみの曲)](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink") - [浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")のシングル曲。
   - Boys & Girls - [堀江美都子](../Page/堀江美都子.md "wikilink")のシングル曲。

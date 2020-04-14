@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[USAネットワーク](https://ja.wikipedia.org/wiki/USAネットワーク)から翻訳されています。
 
 
 **USAネットワーク**（USA Network）は、[アメリカの衛星テレビおよび](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")向け娯楽専門[テレビ放送局](https://ja.wikipedia.org/wiki/テレビ放送局 "wikilink")である。現在は3大ネットワークの[NBC](../Page/NBC.md "wikilink")などと共に、[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")の傘下にある。

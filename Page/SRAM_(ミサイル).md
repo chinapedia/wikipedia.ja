@@ -1,4 +1,4 @@
-> この記事は[SRAM \(\)](https://ja.wikipedia.org/wiki/SRAM_\(\))から翻訳されています。
+> この記事は[SRAM \(ミサイル\)](https://ja.wikipedia.org/wiki/SRAM_\(ミサイル\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:AGM-69A_SRAM_loaded_into_B-1B.jpg "wikilink") **SRAM**（Short Range Attack Missile）は、[冷戦](../Page/冷戦.md "wikilink")中期に[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")が運用していた[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")の一種で、[核ミサイル](../Page/核ミサイル.md "wikilink")に分類される。[日本語](../Page/日本語.md "wikilink")では「短距離攻撃ミサイル」などと訳される。制式名称**AGM-69**。

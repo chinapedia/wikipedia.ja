@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[こだわりミュージックBOX](https://ja.wikipedia.org/wiki/こだわりミュージックBOX)から翻訳されています。
 
 
 『**こだわりミュージックBOX**』（こだわりミュージックボックス）は、[文化放送](../Page/文化放送.md "wikilink")が制作していた地方局向けの[裏送り](../Page/裏送り.md "wikilink")のリクエスト[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。放送期間は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")より[2000年](../Page/2000年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで。

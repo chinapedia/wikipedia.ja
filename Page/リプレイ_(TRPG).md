@@ -1,4 +1,4 @@
-> この記事は[ \(TRPG\)](https://ja.wikipedia.org/wiki/_\(TRPG\))から翻訳されています。
+> この記事は[リプレイ \(TRPG\)](https://ja.wikipedia.org/wiki/リプレイ_\(TRPG\))から翻訳されています。
 
 
 **リプレイ**は、主に[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink") (TRPG) などのゲームを実際に遊び、その経緯をなんらかの媒体に記録したものである。

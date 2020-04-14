@@ -1,4 +1,4 @@
-> この記事は[ DH.114 ](https://ja.wikipedia.org/wiki/_DH.114_)から翻訳されています。
+> この記事は[デ・ハビランド DH.114 ヘロン](https://ja.wikipedia.org/wiki/デ・ハビランド_DH.114_ヘロン)から翻訳されています。
 
 
 [026155_heron_croyport.jpg](https://ja.wikipedia.org/wiki/File:026155_heron_croyport.jpg "fig:026155_heron_croyport.jpg") **デ・ハビランド DH.114 ヘロン** (de Havilland 114 Heron) は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[デ・ハビランド](../Page/デ・ハビランド・エアクラフト.md "wikilink") (de Havilland Aircraft Company) が開発した4発[レシプロ](https://ja.wikipedia.org/wiki/レシプロ "wikilink")[旅客機](../Page/旅客機.md "wikilink")である。[DH.104 ダブと姉妹機でもあるがこちらは双発機であった](../Page/デ・ハビランド_DH.104_ダブ.md "wikilink")。また[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においても[1950年代](../Page/1950年代.md "wikilink")に近距離旅客機として運用されていた。なお、ヘロンとは[水鳥](https://ja.wikipedia.org/wiki/水鳥 "wikilink")の[サギ](../Page/サギ.md "wikilink")の意である。

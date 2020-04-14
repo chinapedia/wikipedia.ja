@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[P・チダンバラム](https://ja.wikipedia.org/wiki/P・チダンバラム)から翻訳されています。
 
 
 **P・チダンバラム**（ப. சிதம்பரம் : P. Chidambaram ; チダンバラム・パラニヤッパン、パラニヤッパンは[父名](../Page/インド人の名前.md "wikilink")。சிதம்பரம் பலனியப்பன் : Chidambaram Palaniyappan）は、[タミル人](../Page/タミル人.md "wikilink")の[政治家](../Page/政治家.md "wikilink")、[弁護士](../Page/弁護士.md "wikilink")。[インド](../Page/インド.md "wikilink")政府の[財務大臣](../Page/財務大臣.md "wikilink")を務めた。

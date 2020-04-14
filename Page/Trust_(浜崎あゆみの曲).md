@@ -1,13 +1,13 @@
-> この記事は[Trust \(\)](https://ja.wikipedia.org/wiki/Trust_\(\))から翻訳されています。
+> この記事は[Trust \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Trust_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**Trust**」（トラスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の3rd[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Trust**」（トラスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月5日](../Page/8月5日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 [1999年](../Page/1999年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売し、[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")には[12cmCDで再発売している](../Page/コンパクトディスク.md "wikilink")。
 
 ## 解説
 
-本作で、自身初の[オリコン週間シングルチャートTOP](../Page/オリコンチャート.md "wikilink")10入りを果たした\[2\]。
+本作で、初の[オリコン週間シングルチャートTOP](../Page/オリコンチャート.md "wikilink")10入りを果たした\[2\]。
 
 また、この曲で同年の『[日本有線大賞](../Page/日本有線大賞.md "wikilink")』の新人賞、『[大阪有線大賞](../Page/全日本有線放送大賞.md "wikilink")』の新人賞をそれぞれ受賞した\[3\]。
 

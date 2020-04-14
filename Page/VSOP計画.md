@@ -1,4 +1,4 @@
-> この記事は[VSOP](https://ja.wikipedia.org/wiki/VSOP)から翻訳されています。
+> この記事は[VSOP計画](https://ja.wikipedia.org/wiki/VSOP計画)から翻訳されています。
 
 
 **VSOP計画** () は、[宇宙科学研究所](../Page/宇宙科学研究所.md "wikilink")（現[宇宙航空研究開発機構](https://ja.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")）・[国立天文台](../Page/国立天文台.md "wikilink")で研究・開発・運用が行われた**スペースVLBI計画**である。

@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[M・カルナーニディ](https://ja.wikipedia.org/wiki/M・カルナーニディ)から翻訳されています。
 
 
 **M・カルナーニディ**（**மு. கருணாநிதி** : M. Karunanidhi、1924年6月3日 - 2018年8月7日）は、[タミル人](../Page/タミル人.md "wikilink")の[政治家](../Page/政治家.md "wikilink")、[文学者](https://ja.wikipedia.org/wiki/文学者 "wikilink")。[タミル・ナードゥ州](../Page/タミル・ナードゥ州.md "wikilink")の[ドラーヴィダ進歩党](../Page/ドラーヴィダ進歩党.md "wikilink")の創立者たちの一人であり、同党の党首を務めた。また同州の州首相を非連続ながら合計で5期務めた。

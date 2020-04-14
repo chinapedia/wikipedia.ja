@@ -1,4 +1,4 @@
-> この記事は[ASAHI](https://ja.wikipedia.org/wiki/ASAHI)から翻訳されています。
+> この記事は[ASAHIパソコン](https://ja.wikipedia.org/wiki/ASAHIパソコン)から翻訳されています。
 
 
 朝日ビジネスPASO | 特記事項 = }} 「**ASAHIパソコン**」（あさひパソコン）は、[朝日新聞社](../Page/朝日新聞社.md "wikilink")が発行していた、月2回刊の[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")。

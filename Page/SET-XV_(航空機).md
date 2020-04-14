@@ -1,4 +1,4 @@
-> この記事は[SET-XV \(\)](https://ja.wikipedia.org/wiki/SET-XV_\(\))から翻訳されています。
+> この記事は[SET-XV \(航空機\)](https://ja.wikipedia.org/wiki/SET-XV_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称= | 画像= | キャプション= | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[戦闘機](../Page/戦闘機.md "wikilink")、[練習機](../Page/練習機.md "wikilink") | 設計者=[ケオルギ・ゼムフェレスク](https://ja.wikipedia.org/wiki/ケオルギ・ゼムフェレスク "wikilink") | 製造者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [SET](https://ja.wikipedia.org/wiki/SET "wikilink")社 | 運用者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [ルーマニア空軍](../Page/ルーマニア空軍.md "wikilink") | 運用者 more= | 初飛行年月日=[1934年](../Page/1934年.md "wikilink") | 生産数= | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=不採用 | ユニットコスト= }} **SET-XV**は、[ルーマニア](../Page/ルーマニア.md "wikilink")の[SET](https://ja.wikipedia.org/wiki/SET "wikilink")社()の設計した[戦闘機](../Page/戦闘機.md "wikilink")。

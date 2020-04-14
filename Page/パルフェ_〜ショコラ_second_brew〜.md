@@ -1,4 +1,4 @@
-> この記事は[  second brew](https://ja.wikipedia.org/wiki/__second_brew)から翻訳されています。
+> この記事は[パルフェ 〜ショコラ second brew〜](https://ja.wikipedia.org/wiki/パルフェ_〜ショコラ_second_brew〜)から翻訳されています。
 
 
 『**パルフェ 〜Chocolat second brew〜**』（パルフェ ショコラ セカンド ブリュー）は、[戯画より](../Page/戯画_\(ブランド\).md "wikilink")[2005年](../Page/2005年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[18禁メイド喫茶アドベンチャーゲーム](../Page/アダルトゲーム.md "wikilink")。

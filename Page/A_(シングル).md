@@ -1,21 +1,21 @@
-> この記事は[A \(\)](https://ja.wikipedia.org/wiki/A_\(\))から翻訳されています。
+> この記事は[A \(シングル\)](https://ja.wikipedia.org/wiki/A_\(シングル\))から翻訳されています。
 
 
 「**A**」（エー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の10th[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。タイトル『A』はロゴ表記。
 
 ## 解説
 
-前作「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」より僅か1ヶ月でのリリースとなった。
+前作「[Boys & Girls](../Page/Boys_&_Girls_\(浜崎あゆみの曲\).md "wikilink")」よりわずか1か月でのリリースとなった。
 
 シングルのタイトルは『A』であるが、「A」というタイトルの曲が収録されているわけではなく、「monochrome」、「too late」、「Trauma」、「End roll」の4曲を収録した作品となっている。
 
-4曲共に[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は制作されず、各楽曲のタイアップCM映像を編集し制作した短い映像（TV-Spot及び店頭用ビデオ）が作られたのみである。
+4曲共に[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")は制作されず、各楽曲のタイアップCM映像を編集し制作した短い映像（TVスポットおよび店頭用ビデオ）が作られたのみである。
 
-累計163.1万枚を売り上げ（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）、自身初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")シングルとなったが、収録曲数の関係上、日本レコード協会では[アルバム](../Page/アルバム.md "wikilink")扱いとなっている。シングルとして取り扱う場合は、自身最大のヒットシングルである。
+累計163.1万枚を売り上げ（[オリコン調べ](../Page/オリコンチャート.md "wikilink")）、初の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")シングルとなったが、収録曲数の関係上、日本レコード協会では[アルバム](../Page/アルバム.md "wikilink")扱いとなっている。シングルとして扱う場合は、最大のヒットシングルである。
 
 1999年[10月6日](../Page/10月6日.md "wikilink")には、本作収録曲の[リミックス](../Page/リミックス.md "wikilink")を収録した[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")『[A -side TYO](http://avex.jp/ayu/discography/detail.php?id=1003299)』と『[A -side NYC](http://avex.jp/ayu/discography/detail.php?id=1003300)』が[Rhythm REPUBLICより](../Page/Rhythm_REPUBLIC.md "wikilink")2作同時発売された。なお[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[2001年](../Page/2001年.md "wikilink")に「End roll」を除く3曲のリミックスがそれぞれアナログ盤でavex usaより発売されている\[1\]\[2\]\[3\]。
 
-翌年の3月の『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』にて本作が、ソング・オブ・ザ・イヤー ゴールドディスクとなった\[4\]。
+翌年3月の『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』にて本作が、ソング・オブ・ザ・イヤー ゴールドディスクとなった\[4\]。
 
 ## 収録曲
 
@@ -127,7 +127,7 @@
 
   - [DISCOGRAPHY – ayumi hamasaki](http://avex.jp/ayu/discography/detail.php?id=1003297)
 
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:クアトロA面シングル](https://ja.wikipedia.org/wiki/Category:クアトロA面シングル "wikilink") [Category:夏を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:夏を題材とした楽曲 "wikilink")
+[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:1999年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:クアトロA面シングル](https://ja.wikipedia.org/wiki/Category:クアトロA面シングル "wikilink")
 
 1.  [Monochrome (Vinyl) at Discogs](http://www.discogs.com/ja/Ayumi-Hamasaki-Monochrome/release/547530)
 2.  [Too Late (Remixed By Soul Solution) (Vinyl) at Discogs](http://www.discogs.com/ja/Ayumi-Hamasaki-Too-Late/release/547234)

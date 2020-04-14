@@ -1,4 +1,4 @@
-> この記事は[ \(ELP\)](https://ja.wikipedia.org/wiki/_\(ELP\))から翻訳されています。
+> この記事は[キング・ビスケット・ライヴ \(ELPのアルバム\)](https://ja.wikipedia.org/wiki/キング・ビスケット・ライヴ_\(ELPのアルバム\))から翻訳されています。
 
 
 **キング・ビスケット・ライヴ**(***King Biscuit Flower Hour: Greatest Hits Live***)は、[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")のライブ・[アルバム](../Page/アルバム.md "wikilink")。

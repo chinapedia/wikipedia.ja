@@ -1,4 +1,4 @@
-> この記事は[RGB21](https://ja.wikipedia.org/wiki/RGB21)から翻訳されています。
+> この記事は[RGB21ピン](https://ja.wikipedia.org/wiki/RGB21ピン)から翻訳されています。
 
 
 **RGB21ピン**とは、[アナログ](../Page/アナログ.md "wikilink")で映像・音声を伝送するための[端子](https://ja.wikipedia.org/wiki/端子 "wikilink")の名称。[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")で標準化された[SCART端子](../Page/SCART端子.md "wikilink")と同一形状である。SCART規格では[コンポジット](../Page/コンポジット映像信号.md "wikilink")、[RGB](../Page/RGB.md "wikilink")（RGBの代わりに[S端子](../Page/S端子.md "wikilink")映像信号を伝送する拡張規格もある）と2チャンネルの音声を伝送出来るが、日本ではゲーム機器や一部のパソコンなどのRGB接続手段として使われることが多く、コンポジット接続は省略されたためRGB接続専用端子として「RGB21ピン端子」という名称が多用されている\[1\]。[EIAJで規格化された端子である](../Page/電子情報技術産業協会.md "wikilink") (EIAJ CPR-1201)。

@@ -620,7 +620,7 @@ VIBL-17:DVD</p></td>
 
   - [Finch Liqueur](http://www.finchliqueur.net/) GUNIWTOOLS SHILFEE AND TULIPCOROBOCKLES TAFUCA（ライブ情報等）
 
-  - [古川ともオフィシャルブログ](http://ameblo.jp/shilfee/)
+  - [古川ともオフィシャルブログ](https://ameblo.jp/shilfee/)
 
   -
   - [cloudchair official website](http://www.cloudchair.net/) cloudchir 公式サイト

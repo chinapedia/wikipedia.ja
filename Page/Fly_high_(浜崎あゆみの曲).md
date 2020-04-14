@@ -1,11 +1,11 @@
-> この記事は[Fly high \(\)](https://ja.wikipedia.org/wiki/Fly_high_\(\))から翻訳されています。
+> この記事は[Fly high \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Fly_high_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**Fly high**」（フライ・ハイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の13th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**Fly high**」（フライ・ハイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の13枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 解説
 
-前作「[kanariya](https://ja.wikipedia.org/wiki/kanariya "wikilink")」に引き続き、2nd[アルバム](../Page/アルバム.md "wikilink")『[LOVEppears](../Page/LOVEppears.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。30万枚完全限定生産。ピクチャーレーベル仕様。赤の半透明のケースに収められている。
+前作「[kanariya](https://ja.wikipedia.org/wiki/kanariya "wikilink")」に引き続き、2枚目の[アルバム](../Page/アルバム.md "wikilink")『[LOVEppears](../Page/LOVEppears.md "wikilink")』からの[リカット](../Page/リカット.md "wikilink")シングル。30万枚完全限定生産。ピクチャーレーベル仕様。赤の半透明のケースに収められている。
 
 リカットシングルではあるが、アルバム『LOVEppears』収録のオリジナルバージョンは収録されていない（ただし、「Album Version」の-Instrumental-が収録されている）。トラック最後の「Fly high "Vocal Track"」は一般からの[リミックス](../Page/リミックス.md "wikilink")作品を広く募集するために収録された。
 

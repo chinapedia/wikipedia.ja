@@ -1,4 +1,4 @@
-> この記事は[NB](https://ja.wikipedia.org/wiki/NB)から翻訳されています。
+> この記事は[NB建設](https://ja.wikipedia.org/wiki/NB建設)から翻訳されています。
 
 
 **株式会社NB建設**（エヌビーけんせつ）は、[日成ビルド工業](../Page/日成ビルド工業.md "wikilink")の完全子会社である建設会社。2013年2月1日に[相鉄ホールディングス](https://ja.wikipedia.org/wiki/相鉄ホールディングス "wikilink")から[日成ビルド工業](../Page/日成ビルド工業.md "wikilink")に当社の全株式が譲渡され、**相鉄建設株式会社**から商号変更した\[1\]\[2\]。

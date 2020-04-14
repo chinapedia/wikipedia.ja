@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[U型エンジン](https://ja.wikipedia.org/wiki/U型エンジン)から翻訳されています。
 
 
 [thumbエンジン](https://ja.wikipedia.org/wiki/image:King-Bugatti.jpg "wikilink")\]\] [U-Engine.gif](https://ja.wikipedia.org/wiki/File:U-Engine.gif "fig:U-Engine.gif") **U型エンジン**とは2つの[直列エンジン](https://ja.wikipedia.org/wiki/直列エンジン "wikilink")（2つの[クランクシャフト](../Page/クランクシャフト.md "wikilink")）を[ギア](https://ja.wikipedia.org/wiki/ギア "wikilink")か[チェーン](../Page/チェーン.md "wikilink")によって結合した[レシプロエンジン](https://ja.wikipedia.org/wiki/レシプロエンジン "wikilink")である。

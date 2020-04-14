@@ -19,6 +19,8 @@
 
 ウェブサイトではかつてはMSNスポーツ、その後[goo](https://ja.wikipedia.org/wiki/goo "wikilink")と共同であったが、現在は独立。本誌とは別に各種記事・コラムを配信している。
 
+2020年3月26日の刊行で、第1000号を記録した\[5\]。第1000号の表紙は、イチローが飾った\[6\]。
+
 ## 特徴
 
 かつては月2回発行であったが、現在は隔週誌になっている。誌面構成はスポーツライターによる特集記事、[インタビュー](../Page/インタビュー.md "wikilink")記事、対談記事、写真特集などが中心となっている。
@@ -29,13 +31,13 @@
 
 毎号、特集記事を組んでおり、巻末にコラム記事等が書かれている。特集記事は、基本的に[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")発足以降は[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")特集記事が最も多くを占めるようになったが、その時期で世間の話題が高いスポーツを特集しており、様々なジャンルのスポーツが特集される。
 
-発刊当初の1980年代は、日本の[プロ野球](../Page/プロ野球.md "wikilink")・[競馬](../Page/競馬.md "wikilink")・[ラグビー](../Page/ラグビー.md "wikilink")が特集されることが多く、1980年代後半にはF1ブームの影響もあり、F1が多く特集されるようになった。1990年代に入ると、[NBA](../Page/NBA.md "wikilink")や[MLB等も特集されるようになり](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、1980年代から1990年代にかけて定期的に特集されていた[プロレス](../Page/プロレス.md "wikilink")に代わって、[2000年代](../Page/2000年代.md "wikilink")前半になると[総合格闘技](../Page/総合格闘技.md "wikilink")を中心とした[格闘技](../Page/格闘技.md "wikilink")特集が掲載されることが多くなったが、総合格闘技イベント[PRIDEの大会停止により](../Page/PRIDE_\(格闘技イベント\).md "wikilink")、2007年代以降は特集の回数が減っている。プロレスに関しては、2015年7月16日発売の882号「[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")、No.1宣言。」で14年ぶりの特集が組まれた。同号では、創刊以来初となる「[インターネット](../Page/インターネット.md "wikilink")投票（新日本プロレス総選挙）で表紙を決める」という試みが行われ\[5\]、結果1位に選ばれた[棚橋弘至](../Page/棚橋弘至.md "wikilink")が表紙を飾った\[6\]。
+発刊当初の1980年代は、日本の[プロ野球](../Page/プロ野球.md "wikilink")・[競馬](../Page/競馬.md "wikilink")・[ラグビー](../Page/ラグビー.md "wikilink")が特集されることが多く、1980年代後半にはF1ブームの影響もあり、F1が多く特集されるようになった。1990年代に入ると、[NBA](../Page/NBA.md "wikilink")や[MLB等も特集されるようになり](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")、1980年代から1990年代にかけて定期的に特集されていた[プロレス](../Page/プロレス.md "wikilink")に代わって、[2000年代](../Page/2000年代.md "wikilink")前半になると[総合格闘技](../Page/総合格闘技.md "wikilink")を中心とした[格闘技](../Page/格闘技.md "wikilink")特集が掲載されることが多くなったが、総合格闘技イベント[PRIDEの大会停止により](../Page/PRIDE_\(格闘技イベント\).md "wikilink")、2007年代以降は特集の回数が減っている。プロレスに関しては、2015年7月16日発売の882号「[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")、No.1宣言。」で14年ぶりの特集が組まれた。同号では、創刊以来初となる「[インターネット](../Page/インターネット.md "wikilink")投票（新日本プロレス総選挙）で表紙を決める」という試みが行われ\[7\]、結果1位に選ばれた[棚橋弘至](../Page/棚橋弘至.md "wikilink")が表紙を飾った\[8\]。
 
 日本のプロ野球の記事は減少の傾向にあるが、現在も特集記事は組まれている。[西鉄ライオンズ](https://ja.wikipedia.org/wiki/西鉄ライオンズ "wikilink")、[阪神タイガース](../Page/阪神タイガース.md "wikilink")、[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")、[西武ライオンズ等の特定の球団の特集や](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")、[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")・[中畑清](../Page/中畑清.md "wikilink")・[マイケル・ジョーダン](../Page/マイケル・ジョーダン.md "wikilink")・[野茂英雄](../Page/野茂英雄.md "wikilink")・[武豊](../Page/武豊.md "wikilink")・[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")・[中田英寿](../Page/中田英寿.md "wikilink")・[本田圭佑](https://ja.wikipedia.org/wiki/本田圭佑 "wikilink")等、特定の選手を特集することもあった。[オリンピック開催時は夏冬とも通例的に特集される](../Page/近代オリンピック.md "wikilink")。
 
 2000年代後半頃からは、「愛読書」「メンタル」「思考法」などのスポーツジャンルにとらわれない特集テーマを設定し、それに関係の深い選手をあらゆる競技からピックアップすることも多くなった。
 
-創刊から10年あまりの時期においては、「エアロビクス ライフスタイル・ブック」（1982年12月16日発売）「ネコと友達物語」（1986年7月15日発売）「さよなら国鉄（ニューJRスタート記念号）」（1987年4月7日発売）といった、現在のグラフィック誌としてのイメージとは程遠い別冊も発行された\[7\]。
+創刊から10年あまりの時期においては、「エアロビクス ライフスタイル・ブック」（1982年12月16日発売）「ネコと友達物語」（1986年7月15日発売）「さよなら国鉄（ニューJRスタート記念号）」（1987年4月7日発売）といった、現在のグラフィック誌としてのイメージとは程遠い別冊も発行された\[9\]。
 
 毎年年末に[日本シリーズ](https://ja.wikipedia.org/wiki/日本シリーズ "wikilink")を特集している。1試合ごとに[江夏豊](../Page/江夏豊.md "wikilink")などのOBによる詳細な分析・解説を載せていたが、編集長が変わったこともあり、2011年度を最後に1試合ごとの解説はなくなり、総括的な記事となっている。
 
@@ -96,7 +98,7 @@
 
 2010年11月、「見るスポーツ」から「するスポーツ」を特集する「[Number Do](https://ja.wikipedia.org/wiki/Number_Do "wikilink")」を創刊。
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されている[スポーツ番組](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")『[GET SPORTS](../Page/GET_SPORTS.md "wikilink")』は開始当初、本誌の「テレビ版」を目指して制作されていた。\[8\]
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されている[スポーツ番組](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")『[GET SPORTS](../Page/GET_SPORTS.md "wikilink")』は開始当初、本誌の「テレビ版」を目指して制作されていた。\[10\]
 
 ## 関連項目
 
@@ -105,7 +107,7 @@
   - [神を見た夜](https://ja.wikipedia.org/wiki/J1参入決定予備戦 "wikilink")
   - [秋天の陽炎](../Page/1999年J2最終節.md "wikilink")
   - [高橋直人](https://ja.wikipedia.org/wiki/高橋直人 "wikilink")
-  - [青島健太](../Page/青島健太.md "wikilink") - 1992年頃に掲載された「野球少年よ、和式便器を使え！」でスポーツライターとしてデビューした。\[9\]
+  - [青島健太](../Page/青島健太.md "wikilink") - 1992年頃に掲載された「野球少年よ、和式便器を使え！」でスポーツライターとしてデビューした。\[11\]
   - [柳澤健](https://ja.wikipedia.org/wiki/柳澤健_\(ノンフィクション作家\) "wikilink") - 元編集部員
 
 ## 出典
@@ -130,8 +132,10 @@
 2.  村手久枝「一人が帰った日、一人が逝った… 「江夏の21球」から一五年 「Number」初代編集長・岡崎満義」『メディアを動かす顔 新聞から見た雑誌人』東京新聞出版局、1996年。
 3.  [ラグビー人気ここでも…「Number」特集号が3刷りで累計15万部](http://www.sponichi.co.jp/sports/news/2015/10/19/kiji/K20151019011349850.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2015年10月19日 17:48。
 4.  \[<http://www.okinawatimes.co.jp/article.php?id=137899>　『Number』ラグビー増刊号、史上初の4刷り　サッカーW杯特集に匹敵の累計20万部\]、[沖縄タイムス](../Page/沖縄タイムス.md "wikilink")＋プラス、2015年10月20日 16:56。
-5.  [創刊35年で初\!「Number」表紙を読者投票で決める](http://www.hochi.co.jp/topics/20150527-OHT1T50209.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2015年5月28日　6:00。
-6.  Number編集部「[Number Ex 新日本プロレス総選挙の結果発表\!\! 初代1位に輝いたのは……あの逸材。](http://number.bunshun.jp/articles/-/823739)」、Number Web、2015年7月16日 10:30。
-7.  ただしこれらは本誌とは事実上無関係で、単発企画としてのいわゆる[ムック](https://ja.wikipedia.org/wiki/ムック "wikilink")を出版する際にその流通を円滑化させるため、便宜的に本誌の別冊という体裁にしたものである。
-8.  [大下容子　過去の担当番組](http://www.tv-asahi.co.jp/announcer/personal/women/ooshita/kako/get.html)
-9.  [1](https://www.kouenirai.com/kakeru/magazine/ma_interview/2816)
+5.
+6.
+7.  [創刊35年で初\!「Number」表紙を読者投票で決める](http://www.hochi.co.jp/topics/20150527-OHT1T50209.html)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2015年5月28日　6:00。
+8.  Number編集部「[Number Ex 新日本プロレス総選挙の結果発表\!\! 初代1位に輝いたのは……あの逸材。](http://number.bunshun.jp/articles/-/823739)」、Number Web、2015年7月16日 10:30。
+9.  ただしこれらは本誌とは事実上無関係で、単発企画としてのいわゆる[ムック](https://ja.wikipedia.org/wiki/ムック "wikilink")を出版する際にその流通を円滑化させるため、便宜的に本誌の別冊という体裁にしたものである。
+10. [大下容子　過去の担当番組](http://www.tv-asahi.co.jp/announcer/personal/women/ooshita/kako/get.html)
+11. [1](https://www.kouenirai.com/kakeru/magazine/ma_interview/2816)

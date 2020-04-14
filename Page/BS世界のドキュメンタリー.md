@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BS世界のドキュメンタリー](https://ja.wikipedia.org/wiki/BS世界のドキュメンタリー)から翻訳されています。
 
 
 『**BS世界のドキュメンタリー**』（ビーエスせかいのドキュメンタリー）は、[2004年](../Page/2004年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に放送を開始した[NHK BS1の](../Page/NHK_BS1.md "wikilink")[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。世界各地で制作されたドキュメンタリーを放送する。

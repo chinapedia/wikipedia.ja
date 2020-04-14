@@ -1,4 +1,4 @@
-> この記事は[ \(Windows\)](https://ja.wikipedia.org/wiki/_\(Windows\))から翻訳されています。
+> この記事は[電卓 \(Windows\)](https://ja.wikipedia.org/wiki/電卓_\(Windows\))から翻訳されています。
 
 
 **Windows 電卓** （でんたく）とは、[Microsoft Windowsに付属する](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[電卓](../Page/電卓.md "wikilink")ソフトウェアの名称。ファイル名はcalc.exe。全てのバージョンのWindowsに標準搭載されている。

@@ -1,4 +1,4 @@
-> この記事は[SET-7 \(\)](https://ja.wikipedia.org/wiki/SET-7_\(\))から翻訳されています。
+> この記事は[SET-7 \(航空機\)](https://ja.wikipedia.org/wiki/SET-7_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称= | 画像= | キャプション= | 用途=[偵察機](../Page/偵察機.md "wikilink") | 分類= | 設計者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [IAR](https://ja.wikipedia.org/wiki/IAR "wikilink")社 | 製造者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") IAR社 | 運用者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [ルーマニア空軍](../Page/ルーマニア空軍.md "wikilink") | 運用者 more= | 初飛行年月日=[1935年](../Page/1935年.md "wikilink") | 生産数= | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=退役 | ユニットコスト= }} **SET-7**([ルーマニア語](../Page/ルーマニア語.md "wikilink"):****<small>セト・シャプテ</small>)は、[ルーマニア](../Page/ルーマニア.md "wikilink")の[SET](https://ja.wikipedia.org/wiki/SET "wikilink")社()で開発された[偵察機](../Page/偵察機.md "wikilink")である。

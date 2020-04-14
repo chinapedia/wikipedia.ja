@@ -1,4 +1,4 @@
-> この記事は[JULIA \(ZYYG\)](https://ja.wikipedia.org/wiki/JULIA_\(ZYYG\))から翻訳されています。
+> この記事は[JULIA \(ZYYGの曲\)](https://ja.wikipedia.org/wiki/JULIA_\(ZYYGの曲\))から翻訳されています。
 
 
 「**JULIA**」（ジュリア）は、[ZYYG](../Page/ZYYG.md "wikilink")の6枚目のシングル。
@@ -21,4 +21,4 @@
   - [池田大介](../Page/池田大介_\(編曲家\).md "wikilink") - キーボード
   - 加藤貴也 - キーボード
 
-[Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:ZYYGの楽曲](https://ja.wikipedia.org/wiki/Category:ZYYGの楽曲 "wikilink") [Category:ホ長調](https://ja.wikipedia.org/wiki/Category:ホ長調 "wikilink")
+[Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:ZYYGの楽曲](https://ja.wikipedia.org/wiki/Category:ZYYGの楽曲 "wikilink")

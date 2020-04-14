@@ -1,4 +1,4 @@
-> この記事は[IAR-14 \(\)](https://ja.wikipedia.org/wiki/IAR-14_\(\))から翻訳されています。
+> この記事は[IAR-14 \(航空機\)](https://ja.wikipedia.org/wiki/IAR-14_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称= | 画像= | | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類=[戦闘機](../Page/戦闘機.md "wikilink")、[練習機](../Page/練習機.md "wikilink") | 設計者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [IAR](https://ja.wikipedia.org/wiki/IAR "wikilink")社 | 製造者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") IAR社 | 運用者=[22x20px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Romania.svg "wikilink") [ルーマニア空軍](../Page/ルーマニア空軍.md "wikilink") | 運用者 more= | 初飛行年月日=[1933年](../Page/1933年.md "wikilink") | 生産数= | 生産開始年月日=1933年 | 運用開始年月日=1933年 | 退役年月日= | 運用状況=退役 | ユニットコスト= }} **IAR-14**([ルーマニア語](../Page/ルーマニア語.md "wikilink"):****<small>パイスプレゼチェ</small>)は、[ルーマニア](../Page/ルーマニア.md "wikilink")初の国産[戦闘機](../Page/戦闘機.md "wikilink")。

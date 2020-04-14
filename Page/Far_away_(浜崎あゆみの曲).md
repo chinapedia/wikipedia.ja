@@ -1,11 +1,11 @@
-> この記事は[Far away \(\)](https://ja.wikipedia.org/wiki/Far_away_\(\))から翻訳されています。
+> この記事は[Far away \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/Far_away_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**Far away**」（ファラウェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の15th[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
+「**Far away**」（ファラウェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の15枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。2000年[8月10日](../Page/8月10日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売。
 
 ## 解説
 
-シングルとしては前作「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」より、約1ヶ月ぶりとなる。前作「vogue」と、次作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」とともに、「絶望3部作」と呼ばれたシングル3部作の2作目にあたるシングルで\[2\]、累計51.0万枚を売り上げた\[3\]。
+シングルとしては前作「[vogue](https://ja.wikipedia.org/wiki/vogue_\(浜崎あゆみの曲\) "wikilink")」より、約1か月ぶりとなる。前作「vogue」と、次作「[SEASONS](../Page/SEASONS_\(浜崎あゆみの曲\).md "wikilink")」とともに、「絶望3部作」と呼ばれたシングル3部作の2作目にあたるシングルで\[2\]、累計51.0万枚を売り上げた\[3\]。
 
 作曲は[菊池一仁](../Page/菊池一仁.md "wikilink")と[D・A・I](https://ja.wikipedia.org/wiki/D・A・I "wikilink")の共作であるが、本来は前年の浜崎の誕生日に2人が贈った楽曲であったという\[4\]。
 

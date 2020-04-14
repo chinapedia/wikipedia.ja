@@ -1,4 +1,4 @@
-> この記事は[PIECE OF LOVE \(\)](https://ja.wikipedia.org/wiki/PIECE_OF_LOVE_\(\))から翻訳されています。
+> この記事は[PIECE OF LOVE \(アルバム\)](https://ja.wikipedia.org/wiki/PIECE_OF_LOVE_\(アルバム\))から翻訳されています。
 
 
 『**PIECE OF LOVE**』（ピース オブ ラブ）は、[北原愛子](../Page/北原愛子.md "wikilink")の1stアルバム。

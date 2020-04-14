@@ -1,4 +1,4 @@
-> この記事は[TVPOWER PUSH](https://ja.wikipedia.org/wiki/TVPOWER_PUSH)から翻訳されています。
+> この記事は[スペースシャワーTV歴代POWER PUSH一覧](https://ja.wikipedia.org/wiki/スペースシャワーTV歴代POWER_PUSH一覧)から翻訳されています。
 
 
 **スペースシャワーTV歴代POWER PUSH一覧**（スペースシャワーティーヴィれきだいパワープッシュいちらん）は、[CS放送](https://ja.wikipedia.org/wiki/CS放送 "wikilink")音楽チャンネル[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")が毎月[ヘビーローテーション](https://ja.wikipedia.org/wiki/ヘビーローテーション "wikilink")としている**POWER PUSH**の歴代楽曲の一覧。POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")（洋楽は[2002年](../Page/2002年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")）にスタートし、。[2005年](../Page/2005年.md "wikilink")から[2006年](../Page/2006年.md "wikilink")にかけては、かつてPOWER PUSHに選曲されたアーティストによる「POWER PUSH LIVE」が[リキッドルーム](https://ja.wikipedia.org/wiki/リキッドルーム "wikilink")にて行われた。
@@ -196,20 +196,20 @@
 
 ### 2005年
 
-| 月   | 曲名                                                                        | アーティスト名                                                               |
-| --- | ------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| 1月  | [ナキムシのうた](https://ja.wikipedia.org/wiki/ナキムシのうた "wikilink")               | [風味堂](../Page/風味堂.md "wikilink")                                      |
-| 2月  | [GREAT & FUNKEY](https://ja.wikipedia.org/wiki/GREAT_&_FUNKEY "wikilink") | [GREAT ADVENTURE](../Page/GREAT_ADVENTURE.md "wikilink")              |
-| 3月  | [ON THE RUN](https://ja.wikipedia.org/wiki/ON_THE_RUN "wikilink")         | [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") |
-| 4月  | [石コロブ](https://ja.wikipedia.org/wiki/石コロブ "wikilink")                     | [セカイイチ](../Page/セカイイチ.md "wikilink")                                  |
-| 5月  | [彗星](https://ja.wikipedia.org/wiki/彗星_\(Salyuの曲\) "wikilink")             | [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")               |
-| 6月  | [紫陽花](https://ja.wikipedia.org/wiki/紫陽花/螺旋階段 "wikilink")                  | [椿屋四重奏](../Page/椿屋四重奏.md "wikilink")                                  |
-| 7月  | [ソノサキニ](https://ja.wikipedia.org/wiki/ソノサキニ "wikilink")                   | [タカチャ](../Page/タカチャ.md "wikilink")                                    |
-| 8月  | [緑のアーチ](https://ja.wikipedia.org/wiki/緑のアーチ "wikilink")                   | [湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink")                 |
-| 9月  | [The Fire](https://ja.wikipedia.org/wiki/High_Pressure "wikilink")        | [DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")                    |
-| 10月 | [キミトベ](https://ja.wikipedia.org/wiki/キミトベ "wikilink")                     | [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")   |
-| 11月 | [HeartBreaker](../Page/BEEF_or_CHICKEN.md "wikilink")                     | [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")                  |
-| 12月 | [Space Sonic](https://ja.wikipedia.org/wiki/Space_Sonic "wikilink")       | [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")                        |
+| 月   | 曲名                                                                          | アーティスト名                                                               |
+| --- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1月  | [ナキムシのうた](https://ja.wikipedia.org/wiki/ナキムシのうた "wikilink")                 | [風味堂](../Page/風味堂.md "wikilink")                                      |
+| 2月  | [GREAT & FUNKEY](https://ja.wikipedia.org/wiki/GREAT_&_FUNKEY "wikilink")   | [GREAT ADVENTURE](../Page/GREAT_ADVENTURE.md "wikilink")              |
+| 3月  | [ON THE RUN](https://ja.wikipedia.org/wiki/ON_THE_RUN "wikilink")           | [HOME MADE 家族](https://ja.wikipedia.org/wiki/HOME_MADE_家族 "wikilink") |
+| 4月  | [石コロブ](https://ja.wikipedia.org/wiki/石コロブ "wikilink")                       | [セカイイチ](../Page/セカイイチ.md "wikilink")                                  |
+| 5月  | [彗星](https://ja.wikipedia.org/wiki/彗星_\(Salyuの曲\) "wikilink")               | [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")               |
+| 6月  | [紫陽花](https://ja.wikipedia.org/wiki/紫陽花/螺旋階段 "wikilink")                    | [椿屋四重奏](../Page/椿屋四重奏.md "wikilink")                                  |
+| 7月  | [ソノサキニ](https://ja.wikipedia.org/wiki/ソノサキニ "wikilink")                     | [タカチャ](../Page/タカチャ.md "wikilink")                                    |
+| 8月  | [緑のアーチ](https://ja.wikipedia.org/wiki/緑のアーチ "wikilink")                     | [湯川潮音](https://ja.wikipedia.org/wiki/湯川潮音 "wikilink")                 |
+| 9月  | [The Fire](https://ja.wikipedia.org/wiki/High_Pressure_\(アルバム\) "wikilink") | [DOPING PANDA](../Page/DOPING_PANDA.md "wikilink")                    |
+| 10月 | [キミトベ](https://ja.wikipedia.org/wiki/キミトベ "wikilink")                       | [キャプテンストライダム](https://ja.wikipedia.org/wiki/キャプテンストライダム "wikilink")   |
+| 11月 | [HeartBreaker](../Page/BEEF_or_CHICKEN.md "wikilink")                       | [TERIYAKI BOYZ](../Page/TERIYAKI_BOYZ.md "wikilink")                  |
+| 12月 | [Space Sonic](https://ja.wikipedia.org/wiki/Space_Sonic "wikilink")         | [ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")                        |
 
 ### 2006年
 
@@ -464,7 +464,8 @@
 | 1月 | GOLD TRAIN | [リーガルリリー](https://ja.wikipedia.org/wiki/リーガルリリー "wikilink") |
 | 2月 | ユースレスマシン   | [ハンブレッダーズ](../Page/ハンブレッダーズ.md "wikilink")                  |
 | 3月 | アイスクリーム    | [Rude-α](https://ja.wikipedia.org/wiki/Rude-α "wikilink")   |
-| 4月 |            |                                                             |
+| 4月 | life hack  | [Vaundy](https://ja.wikipedia.org/wiki/Vaundy "wikilink")   |
+| 5月 |            |                                                             |
 |    |            |                                                             |
 
 ## POWER PUSH\! INTERNATIONAL
@@ -788,7 +789,8 @@
 | 1月 | OWN IT feat.ED SHEERAN & BURNA BOY | [STORMZY](https://ja.wikipedia.org/wiki/STORMZY "wikilink")                 |
 | 2月 | DANCE MONKEY                       | [TONES AND I](https://ja.wikipedia.org/wiki/TONES_AND_I "wikilink")         |
 | 3月 | CELESTE                            | [Stop This Flame](https://ja.wikipedia.org/wiki/Stop_This_Flame "wikilink") |
-| 4月 |                                    |                                                                             |
+| 4月 | WISH YOU WERE SOBE                 | [CONAN GRAY](https://ja.wikipedia.org/wiki/CONAN_GRAY "wikilink")           |
+| 5月 |                                    |                                                                             |
 |    |                                    |                                                                             |
 
 ## その他

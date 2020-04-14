@@ -1,4 +1,4 @@
-> この記事は[Neon \(\)](https://ja.wikipedia.org/wiki/Neon_\(\))から翻訳されています。
+> この記事は[Neon \(携帯電話\)](https://ja.wikipedia.org/wiki/Neon_\(携帯電話\))から翻訳されています。
 
 
 **neon**（ねおん）は、[東芝](../Page/東芝.md "wikilink")が開発・生産した[KDDI](../Page/KDDI.md "wikilink")、および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の各[auブランドの](../Page/Au_\(携帯電話\).md "wikilink")[CDMA 1X WIN方式の](../Page/CDMA_1X_WIN.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")で、製品型番は**W42T**（だぶりゅ よんに てぃー）である。

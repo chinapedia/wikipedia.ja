@@ -1,4 +1,4 @@
-> この記事は[TONE \(\)](https://ja.wikipedia.org/wiki/TONE_\(\))から翻訳されています。
+> この記事は[TONE \(企業\)](https://ja.wikipedia.org/wiki/TONE_\(企業\))から翻訳されています。
 
 
 **TONE株式会社**（とね、）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[浪速区](../Page/浪速区.md "wikilink")に本社を置く[工具](../Page/工具.md "wikilink")メーカーである。[1925年](../Page/1925年.md "wikilink")（[大正](../Page/大正.md "wikilink")14年）創業。

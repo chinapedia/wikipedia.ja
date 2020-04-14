@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[Gユニット](https://ja.wikipedia.org/wiki/Gユニット)から翻訳されています。
 
 
 **Gユニット**（G-Unit）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")[クイーンズ](https://ja.wikipedia.org/wiki/クイーンズ "wikilink")で結成された[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット。

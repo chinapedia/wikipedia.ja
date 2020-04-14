@@ -1,4 +1,4 @@
-> この記事は[VIS wz1935](https://ja.wikipedia.org/wiki/VIS_wz1935)から翻訳されています。
+> この記事は[ラドムVIS wz1935](https://ja.wikipedia.org/wiki/ラドムVIS_wz1935)から翻訳されています。
 
 
 **ラドムVIS wz1935**は、[ポーランド](../Page/ポーランド.md "wikilink")の[ラドム造兵廠で作られた](https://ja.wikipedia.org/wiki/ファブルィカ・ブローニ・ウーチュニク "wikilink")[大型自動式拳銃である](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。

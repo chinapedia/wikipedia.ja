@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ダンディー・ユナイテッドFC](https://ja.wikipedia.org/wiki/ダンディー・ユナイテッドFC)から翻訳されています。
 
 
 **ダンディー・ユナイテッドFC**（）は、[スコットランド](../Page/スコットランド.md "wikilink")東部の都市[ダンディーを本拠地とする](https://ja.wikipedia.org/wiki/ダンディー_\(スコットランド\) "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

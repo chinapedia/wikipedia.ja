@@ -1,4 +1,4 @@
-> この記事は[Distance](https://ja.wikipedia.org/wiki/Distance)から翻訳されています。
+> この記事は[君とのDistance](https://ja.wikipedia.org/wiki/君とのDistance)から翻訳されています。
 
 
 『**君とのDistance**』（きみとのディスタンス）は、[ZARD](https://ja.wikipedia.org/wiki/ZARD "wikilink")の11枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
@@ -87,10 +87,7 @@
         </div>
 
         間奏に[トランペット](../Page/トランペット.md "wikilink")が入る。編曲は「[この涙 星になれ](../Page/この涙_星になれ.md "wikilink")」以来の古井弘人。
-
-<!-- end list -->
-
-1.  **[Last Good-bye](../Page/Last_Good-bye.md "wikilink")**
+7.  **[Last Good-bye](../Page/Last_Good-bye.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -102,10 +99,7 @@
         </div>
 
         [FIELD OF VIEWに提供した楽曲の](../Page/FIELD_OF_VIEW.md "wikilink")[セルフカバー](../Page/セルフカバー.md "wikilink")。原曲は1995年発売であり、10年越しのセルフカバーとなった。
-
-<!-- end list -->
-
-1.  **[星のかがやきよ](https://ja.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル\(帆\)のように "wikilink")**
+8.  **[星のかがやきよ](https://ja.wikipedia.org/wiki/星のかがやきよ/夏を待つセイル\(帆\)のように "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -117,7 +111,7 @@
         </div>
 
         両A面による40thシングルの1曲目。TVアニメ『[名探偵コナン](https://ja.wikipedia.org/wiki/名探偵コナン_\(アニメ\) "wikilink")』のオープニングテーマ。このアルバムでは1番[テンポ](../Page/テンポ.md "wikilink")が速い。
-2.  **月に願いを**
+9.  **月に願いを**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -129,7 +123,7 @@
         </div>
 
         3拍子の[ワルツ](../Page/ワルツ.md "wikilink")調の曲。この曲は大野愛果がまだ小学生の頃に思い浮かんだメロディがモチーフになっている。
-3.  **[あなたと共に生きてゆく](../Page/あなたと共に生きてゆく.md "wikilink")**
+10. **[あなたと共に生きてゆく](../Page/あなたと共に生きてゆく.md "wikilink")**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -145,7 +139,7 @@
         間奏に[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")のセリフと[二胡](../Page/二胡.md "wikilink")を取り入れている。
 
         オリジナルカラオケの音盤化はされていなかったが、2018年4月18日発売「ZARD CD＆DVD COLLECTION　第31号　あなたと共に生きてゆく」の付属CDにて初音盤化された。
-4.  **I can't tell**
+11. **I can't tell**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -157,7 +151,7 @@
         </div>
 
         栗林誠一郎のストック。前作に小林哲編曲で収録予定だったが、葉山たけし編曲のオケに収録済みのヴォーカルをエディットされた。
-5.  **good-night sweetheart**
+12. **good-night sweetheart**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">
@@ -169,7 +163,7 @@
         </div>
 
         初の徳永、葉山の共同作品。[コーラスがやや強調されている](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。この曲のヴォーカルは、レコーディングブースではなく、スタジオのソファーで座りながら歌ったテイクが採用された。
-6.  **君と今日の事を一生忘れない**
+13. **君と今日の事を一生忘れない**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">

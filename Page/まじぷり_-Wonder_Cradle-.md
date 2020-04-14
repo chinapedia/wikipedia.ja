@@ -1,4 +1,4 @@
-> この記事は[ -Wonder Cradle-](https://ja.wikipedia.org/wiki/_-Wonder_Cradle-)から翻訳されています。
+> この記事は[まじぷり -Wonder Cradle-](https://ja.wikipedia.org/wiki/まじぷり_-Wonder_Cradle-)から翻訳されています。
 
 
 『**まじぷり -Wonder Cradle-**』（-ワンダークレイドル）は[2004年](../Page/2004年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")に[Purple softwareから発売された](../Page/Purple_software.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。

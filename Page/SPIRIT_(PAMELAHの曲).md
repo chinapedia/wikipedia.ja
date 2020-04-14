@@ -1,11 +1,11 @@
-> この記事は[SPIRIT \(PAMELAH\)](https://ja.wikipedia.org/wiki/SPIRIT_\(PAMELAH\))から翻訳されています。
+> この記事は[SPIRIT \(PAMELAHの曲\)](https://ja.wikipedia.org/wiki/SPIRIT_\(PAMELAHの曲\))から翻訳されています。
 
 
 「**SPIRIT**」（スピリット）は、[PAMELAH](../Page/PAMELAH.md "wikilink")の7枚目のシングル。
 
 ## 概要
 
-表題曲は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[地獄先生ぬ〜べ〜](../Page/地獄先生ぬ〜べ〜.md "wikilink")』第2期エンディングテーマ。PAMELAHのシングルでは自己最高のセールスを記録。
+表題曲は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系アニメ『[地獄先生ぬ〜べ〜](../Page/地獄先生ぬ〜べ〜.md "wikilink")』の後期エンディングテーマとして採用。PAMELAHのシングルでは自己最高のセールスを記録。
 
 ## 収録曲
 

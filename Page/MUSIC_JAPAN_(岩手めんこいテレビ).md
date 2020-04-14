@@ -1,4 +1,4 @@
-> この記事は[MUSIC JAPAN \(\)](https://ja.wikipedia.org/wiki/MUSIC_JAPAN_\(\))から翻訳されています。
+> この記事は[MUSIC JAPAN \(岩手めんこいテレビ\)](https://ja.wikipedia.org/wiki/MUSIC_JAPAN_\(岩手めんこいテレビ\))から翻訳されています。
 
 
 『**MUSIC JAPAN**』（ミュージックジャパン）は、[テラモバイル](https://ja.wikipedia.org/wiki/テラモバイル "wikilink")・[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")・[放芸](../Page/放芸.md "wikilink")の3社共同制作による30分間の音楽番組である。2006年7月からは、番組をリニューアルし『[music holic](https://ja.wikipedia.org/wiki/music_holic "wikilink")』を放送した。（後の[Break Point\!](https://ja.wikipedia.org/wiki/Break_Point! "wikilink")(2009年3月放送終了)）

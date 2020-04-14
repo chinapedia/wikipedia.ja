@@ -1,7 +1,7 @@
-> この記事は[Y](https://ja.wikipedia.org/wiki/Y)から翻訳されています。
+> この記事は[Yウイング](https://ja.wikipedia.org/wiki/Yウイング)から翻訳されています。
 
 
-[Star_Wars_Celebration_Orlando_EFX_Y-Wing.jpg](https://ja.wikipedia.org/wiki/File:Star_Wars_Celebration_Orlando_EFX_Y-Wing.jpg "fig:Star_Wars_Celebration_Orlando_EFX_Y-Wing.jpg") **Yウィング**（Y-Wing）はアメリカ映画『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の[戦闘機](../Page/戦闘機.md "wikilink")である。
+**Yウィング**（Y-Wing）はアメリカ映画『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』に登場する[架空](../Page/架空.md "wikilink")の[戦闘機](../Page/戦闘機.md "wikilink")である。
 
 ## 諸元
 

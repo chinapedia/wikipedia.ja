@@ -1,4 +1,4 @@
-> この記事は[\(I\)](https://ja.wikipedia.org/wiki/\(I\))から翻訳されています。
+> この記事は[塩化水銀\(I\)](https://ja.wikipedia.org/wiki/塩化水銀\(I\))から翻訳されています。
 
 
 **塩化水銀(I)**（えんかすいぎん いち、calomel）は、[水銀](../Page/水銀.md "wikilink")の[塩化物](../Page/塩化物.md "wikilink")の1つ。水銀の塩化物である[塩化水銀](https://ja.wikipedia.org/wiki/塩化水銀 "wikilink")は2種類あり、もう1つは[塩化水銀(II)](../Page/塩化水銀\(II\).md "wikilink") である。Hg<sub>2</sub>Cl<sub>2</sub> という組成をもち、**塩化第一水銀**（えんかだいいちすいぎん）、**甘汞**（かんこう）、**カロメル**とも言う。水銀原子同士が[共有結合](../Page/共有結合.md "wikilink")により結合しているため HgCl とは表記しない。

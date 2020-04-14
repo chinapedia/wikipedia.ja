@@ -48,6 +48,6 @@
 
 ### ラジオ
 
-  - [坂崎さんの番組という番組](../Page/坂崎さんの番組という番組.md "wikilink")（1996年 - 1997年、[JFN系列](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）アシスタントレギュラー
+  - [坂崎さんの番組という番組](../Page/坂崎さんの番組という番組.md "wikilink")（1996年 - 1997年、[JFN系列](../Page/全国FM放送協議会.md "wikilink")）アシスタントレギュラー
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")

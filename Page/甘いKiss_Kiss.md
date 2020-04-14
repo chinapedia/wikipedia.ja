@@ -1,4 +1,4 @@
-> この記事は[Kiss Kiss](https://ja.wikipedia.org/wiki/Kiss_Kiss)から翻訳されています。
+> この記事は[甘いKiss Kiss](https://ja.wikipedia.org/wiki/甘いKiss_Kiss)から翻訳されています。
 
 
 「**甘いKiss Kiss**」（あまいキス キス）は[REVの](../Page/出口雅之.md "wikilink")1枚目のシングル。

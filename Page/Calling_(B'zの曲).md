@@ -1,7 +1,7 @@
-> この記事は[Calling \(B\'z\)](https://ja.wikipedia.org/wiki/Calling_\(B\'z\))から翻訳されています。
+> この記事は[Calling \(B\'zの曲\)](https://ja.wikipedia.org/wiki/Calling_\(B\'zの曲\))から翻訳されています。
 
 
-「**Calling**」(コーリング)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の22作目の[シングル](../Page/シングル.md "wikilink")。
+「**Calling**」(コーリング)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の楽曲。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月9日](../Page/7月9日.md "wikilink")に[Rooms RECORDSより](../Page/VERMILLION_RECORDS.md "wikilink")22作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 
@@ -9,7 +9,7 @@
 
 ジャケット写真は雨が降る[沖縄県](../Page/沖縄県.md "wikilink")で、[魚眼レンズ](../Page/魚眼レンズ.md "wikilink")を駆使してメンバーが乗っている車のボンネットをデフォルメして撮影された\[2\]。
 
-オリコンでは初動で50万枚超え、累計売上は前作「[FIREBALL](../Page/FIREBALL_\(B'zの曲\).md "wikilink")」を上回り、シングルとしては1996年発売の「[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")」以来1年ぶり、通算14作目の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では1992年の「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」から本作まで13作連続でミリオンセラーに認定された。ただし、最終週に累計売上100万20枚でミリオンセラーとなったため、オリコンでは最もギリギリでミリオンセラーを達成したシングルとなった。
+オリコンでは初動で50万枚超え、累計売上は前作『[FIREBALL](../Page/FIREBALL_\(B'zの曲\).md "wikilink")』を上回り、シングルとしては1996年発売の『[Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")』以来1年ぶり、通算14作目の[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")となった。[日本レコード協会](../Page/日本レコード協会.md "wikilink")の集計では1992年の『[BLOWIN'](../Page/BLOWIN'.md "wikilink")』から本作まで13作連続でミリオンセラーに認定された。ただし、最終週に累計売上100万20枚でミリオンセラーとなったため、オリコンでは最もギリギリでミリオンセラーを達成したシングルとなった。
 
 ## 収録曲
 
@@ -19,7 +19,7 @@
         まったく異なる2つの曲が融合してできた楽曲で、この曲には全くタイプの違う[サビ](../Page/サビ.md "wikilink")が2種類存在している。
         元々はライブ限定の曲として披露され、ファンの声によりシングル化となった。なお、楽曲自体はアメリカ滞在時に松本が友人から詞を渡されたことをきっかけに、プレゼントする気持ちで書いたもの\[4\]。
         同年に行われたツアー『B'z LIVE-GYM Pleasure'97 "FIREBALL"』のアンコールで、未発表曲として初披露された際は、中盤の[バラード](../Page/バラード.md "wikilink")部分しか存在しなかった。
-        [PVは前作](../Page/ミュージック・ビデオ.md "wikilink")「[FIREBALL](../Page/FIREBALL_\(B'zの曲\).md "wikilink")」の続きで、最初に「FIREBALL」のサビ部分が少し流れるようになっている\[5\]。「FIREBALL」が炎の中での演奏だったのに対し、雨の中で演奏しているもので、使用した水の量は約5トンである。また、二つの曲調部分がそれぞれ青光画面と白黒画面に二分されている。映像内では松本がピアノやヴァイオリンを演奏しているシーンが含まれている\[6\]。
+        [PVは](../Page/ミュージック・ビデオ.md "wikilink")「[FIREBALL](../Page/FIREBALL_\(B'zの曲\).md "wikilink")」の続きで、冒頭に「FIREBALL」のサビ部分が少し流れるようになっている\[5\]。「FIREBALL」が炎の中での演奏だったのに対し、雨の中で演奏しているもので、使用した水の量は約5トンである。また、二つの曲調部分がそれぞれ青光画面と白黒画面に二分されている。映像内では松本がピアノやヴァイオリンを演奏しているシーンが含まれている\[6\]。
         テレビでは[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[7月11日](../Page/7月11日.md "wikilink")放送の『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』\[7\]で初披露され、同年7月12日の『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』でも披露、同年12月の『[500回記念 ミュージックステーションスペシャル スーパーライブ97](https://ja.wikipedia.org/wiki/ミュージックステーションスーパーライブ#第6回（1997年） "wikilink")』では「[スイマーよ\!\!](../Page/SURVIVE.md "wikilink")」と一緒に披露された\[8\]。
 2.  **Gimme your love (Live at Tokyo Dome)** (6:05)
       -
@@ -84,7 +84,7 @@
 
   - [1997年の音楽](../Page/1997年の音楽.md "wikilink")
 
-[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:ガラスの仮面](https://ja.wikipedia.org/wiki/Category:ガラスの仮面 "wikilink") [Category:テレビ朝日月曜ドラマ・インの主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日月曜ドラマ・インの主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
+[Category:B'zの楽曲](https://ja.wikipedia.org/wiki/Category:B'zの楽曲 "wikilink") [Category:稲葉浩志が制作した楽曲](https://ja.wikipedia.org/wiki/Category:稲葉浩志が制作した楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:ガラスの仮面](https://ja.wikipedia.org/wiki/Category:ガラスの仮面 "wikilink") [Category:テレビ朝日月曜ドラマ・インの主題歌](https://ja.wikipedia.org/wiki/Category:テレビ朝日月曜ドラマ・インの主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:楽曲_こ](https://ja.wikipedia.org/wiki/Category:楽曲_こ "wikilink")
 
 1.
 2.

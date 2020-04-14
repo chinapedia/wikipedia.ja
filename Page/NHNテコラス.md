@@ -1,4 +1,4 @@
-> この記事は[NHN](https://ja.wikipedia.org/wiki/NHN)から翻訳されています。
+> この記事は[NHNテコラス](https://ja.wikipedia.org/wiki/NHNテコラス)から翻訳されています。
 
 
 **NHNテコラス株式会社**（*NHN Techorus Corp.*）は、[韓国のエンターテインメント企業NHN](../Page/大韓民国.md "wikilink") Entertainmentの[日本法人](https://ja.wikipedia.org/wiki/日本法人 "wikilink")、[NHN JAPANの完全子会社で](../Page/NHN_JAPAN.md "wikilink")[インターネットデータセンター](../Page/インターネットデータセンター.md "wikilink")およびセキュリティ事業などのインターネットサービスを提供する企業である。

@@ -1,4 +1,4 @@
-> この記事は[NX](https://ja.wikipedia.org/wiki/NX)から翻訳されています。
+> この記事は[NXビット](https://ja.wikipedia.org/wiki/NXビット)から翻訳されています。
 
 
 **NXビット** (No eXecute bit) は、[ノイマン型](../Page/ノイマン型.md "wikilink")アーキテクチャの[コンピュータ](../Page/コンピュータ.md "wikilink")において特定のメモリ領域（に置かれたデータ）に付与する実行不可[属性](https://ja.wikipedia.org/wiki/属性#コンピュータ分野 "wikilink")、またはその属性付与機能を指す。

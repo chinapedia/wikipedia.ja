@@ -1,4 +1,4 @@
-> この記事は[Destiny](https://ja.wikipedia.org/wiki/Destiny)から翻訳されています。
+> この記事は[お誂え向きのDestiny](https://ja.wikipedia.org/wiki/お誂え向きのDestiny)から翻訳されています。
 
 
 『**お誂え向きのDestiny**』（おあつらえむきのデスティニー）は[KEY WEST CLUBの](../Page/KEY_WEST_CLUB.md "wikilink")[シングル](../Page/シングル.md "wikilink")、及び[アルバム](../Page/アルバム.md "wikilink")。

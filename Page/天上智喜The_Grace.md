@@ -1,4 +1,4 @@
-> この記事は[The Grace](https://ja.wikipedia.org/wiki/The_Grace)から翻訳されています。
+> この記事は[天上智喜The Grace](https://ja.wikipedia.org/wiki/天上智喜The_Grace)から翻訳されています。
 
 
 **天上智喜The Grace** （、てんじょうちき・ザ・グレース、*TENJOCHIKI*）は、主に[韓国で活動していた女性](../Page/大韓民国.md "wikilink")4人組[ダンス](../Page/ダンス.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")アイドルグループ。「女性版・[東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")」として結成された。[グループ](https://ja.wikipedia.org/wiki/グループ "wikilink")名の意味は、天上の智恵と喜びで四人の名字を並べたものでもある。[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")所属。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[rhythm zoneからデビュー](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。公式に解散は発表はしていないが、2009年以降完全活動休止状態である。

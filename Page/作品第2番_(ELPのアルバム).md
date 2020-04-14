@@ -1,4 +1,4 @@
-> この記事は[2 \(ELP\)](https://ja.wikipedia.org/wiki/2_\(ELP\))から翻訳されています。
+> この記事は[作品第2番 \(ELPのアルバム\)](https://ja.wikipedia.org/wiki/作品第2番_\(ELPのアルバム\))から翻訳されています。
 
 
 **作品第2番** (***Works, Vol.2***) は、[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。

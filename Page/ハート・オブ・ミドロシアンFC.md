@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ハート・オブ・ミドロシアンFC](https://ja.wikipedia.org/wiki/ハート・オブ・ミドロシアンFC)から翻訳されています。
 
 
 **ハート・オブ・ミドロシアン・フットボール・クラブ**（）は、[スコットランド](../Page/スコットランド.md "wikilink")東部の都市[エディンバラ](../Page/エディンバラ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。
@@ -727,7 +727,7 @@
 
   - [ポール・ハートリー](../Page/ポール・ハートリー.md "wikilink")
 
-  - [タキス・フィッサス](https://ja.wikipedia.org/wiki/タキス・フィッサス "wikilink")
+  - [サム・ニコルソン](../Page/サム・ニコルソン.md "wikilink")
 
   - [スティーヴン・プレスリー](../Page/スティーヴン・プレスリー.md "wikilink")
 
@@ -764,7 +764,7 @@
 
   - [Complete Statistical Record](http://www.londonhearts.com/scores/scores.htm)
 
-[Category:スコットランドのサッカークラブ](https://ja.wikipedia.org/wiki/Category:スコットランドのサッカークラブ "wikilink") [Category:エディンバラのスポーツ](https://ja.wikipedia.org/wiki/Category:エディンバラのスポーツ "wikilink")
+[Category:スコットランドのサッカークラブ](https://ja.wikipedia.org/wiki/Category:スコットランドのサッカークラブ "wikilink") [Category:エディンバラのスポーツ](https://ja.wikipedia.org/wiki/Category:エディンバラのスポーツ "wikilink") [Category:1874年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1874年設立のスポーツチーム "wikilink")
 
 1.  The Scottish Football League was not formed until 1890.
 2.  The League Cup competition did not start until the 1946–47 season.

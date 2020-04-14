@@ -1,4 +1,4 @@
-> この記事は[BEAT GOES ON \(Bon-Bon Blanco\)](https://ja.wikipedia.org/wiki/BEAT_GOES_ON_\(Bon-Bon_Blanco\))から翻訳されています。
+> この記事は[BEAT GOES ON \(Bon-Bon Blancoのアルバム\)](https://ja.wikipedia.org/wiki/BEAT_GOES_ON_\(Bon-Bon_Blancoのアルバム\))から翻訳されています。
 
 
 『**BEAT GOES ON**』（ビート・ゴーズ・オン）は、[Bon-Bon Blancoの](https://ja.wikipedia.org/wiki/Bon-Bon_Blanco "wikilink")1枚目のアルバム。

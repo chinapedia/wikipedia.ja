@@ -1,4 +1,4 @@
-> この記事は[BLUE \(\)](https://ja.wikipedia.org/wiki/BLUE_\(\))から翻訳されています。
+> この記事は[BLUE \(山本直樹の漫画\)](https://ja.wikipedia.org/wiki/BLUE_\(山本直樹の漫画\))から翻訳されています。
 
 
 『**BLUE**』（ブルー）は、[山本直樹](../Page/山本直樹.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の短編[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、および同作を収録した単行本のタイトル。作中の性描写が問題となり、[東京都](../Page/東京都.md "wikilink")により[不健全図書の指定を受け](../Page/有害図書.md "wikilink")、版元回収となったことで話題になった。

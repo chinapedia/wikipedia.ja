@@ -1,4 +1,4 @@
-> この記事は[AWAKE \(WANDS\)](https://ja.wikipedia.org/wiki/AWAKE_\(WANDS\))から翻訳されています。
+> この記事は[AWAKE \(WANDSのアルバム\)](https://ja.wikipedia.org/wiki/AWAKE_\(WANDSのアルバム\))から翻訳されています。
 
 
 『**AWAKE**』（アウェイク）は[WANDS](../Page/WANDS.md "wikilink")の5枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。

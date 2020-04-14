@@ -101,7 +101,7 @@
       - アニメ『[新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")』エンディングテーマで有名なスタンダード・ジャズ・ナンバーのカバー曲。
     <!-- end list -->
       -
-        オリジナルアーティストは[ケイ・バラード](https://ja.wikipedia.org/wiki/:en:Kaye_Ballard "wikilink")。
+        オリジナルアーティストは[クレア・リトリー](../Page/クレア・リトリー.md "wikilink")。
 16. **Thirty** \[4:54\]
       -
         作詞・作曲：MEGUMI、編曲：岩本正樹

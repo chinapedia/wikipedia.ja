@@ -1,4 +1,4 @@
-> この記事は[Peace Of Mind \(\)](https://ja.wikipedia.org/wiki/Peace_Of_Mind_\(\))から翻訳されています。
+> この記事は[Peace Of Mind \(アルバム\)](https://ja.wikipedia.org/wiki/Peace_Of_Mind_\(アルバム\))から翻訳されています。
 
 
 『**Peace Of Mind**』（ピース・オブ・マインド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")のボーカリスト・[稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink")がソロでリリースした、3作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。

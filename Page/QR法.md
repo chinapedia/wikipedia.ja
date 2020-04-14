@@ -1,4 +1,4 @@
-> この記事は[QR](https://ja.wikipedia.org/wiki/QR)から翻訳されています。
+> この記事は[QR法](https://ja.wikipedia.org/wiki/QR法)から翻訳されています。
 
 
 **QR法**（きゅーあーるほう、QR algorithm）は、行列Aの[固有値](../Page/固有値.md "wikilink")を求める方法の一つで、 行列の[QR分解](../Page/QR分解.md "wikilink")を利用するものである。QR法は[数値解析的に安定な](https://ja.wikipedia.org/wiki/数値的安定性 "wikilink")[アルゴリズム](../Page/アルゴリズム.md "wikilink")である。

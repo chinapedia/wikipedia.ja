@@ -1,4 +1,4 @@
-> この記事は[Papyrus \(\)](https://ja.wikipedia.org/wiki/Papyrus_\(\))から翻訳されています。
+> この記事は[Papyrus \(電子辞書\)](https://ja.wikipedia.org/wiki/Papyrus_\(電子辞書\))から翻訳されています。
 
 
 **Papyrus**（パピルス）は[シャープ](../Page/シャープ.md "wikilink")の[電子辞書](../Page/電子辞書.md "wikilink")の名称。2005年に、それまでの「e-dictionary」から改称された。 電子辞書「[エクスワード](../Page/エクスワード.md "wikilink")」シリーズ（[カシオ計算機](../Page/カシオ計算機.md "wikilink")）と人気を二分する。以前は、電子辞書としては珍しくカラー液晶や[ワンセグ](../Page/ワンセグ.md "wikilink")チューナーを搭載した機種を発売していたが、2008年8月発売のPW-AC830/AC880よりカラー液晶搭載モデルは[Brainに移行し](https://ja.wikipedia.org/wiki/Brain_\(電子辞書\) "wikilink")、Papyrusとの棲み分けを行っている。

@@ -1,4 +1,4 @@
-> この記事は[BB](https://ja.wikipedia.org/wiki/BB)から翻訳されています。
+> この記事は[テレ朝BB](https://ja.wikipedia.org/wiki/テレ朝BB)から翻訳されています。
 
 
 **テレ朝bb**（テレあさビービー、**tv asahi bb**）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")が行う[インターネット](../Page/インターネット.md "wikilink")を利用した[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink") (VOD) 事業の名称で、それまでの[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")サイトを集約する形でスタートした。[2006年](../Page/2006年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")未明より開始。[2009年](../Page/2009年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、『[テレ朝動画](https://ja.wikipedia.org/wiki/テレ朝動画 "wikilink")』に引き継がれるかたちで一旦終了した。

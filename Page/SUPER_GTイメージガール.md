@@ -1,4 +1,4 @@
-> この記事は[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT)から翻訳されています。
+> この記事は[SUPER GTイメージガール](https://ja.wikipedia.org/wiki/SUPER_GTイメージガール)から翻訳されています。
 
 
 **SUPER GTイメージガール**（スーパージーティーイメージガール）、旧称・**JGTCイメージガール**は、[SUPER GT](https://ja.wikipedia.org/wiki/SUPER_GT "wikilink")（旧[全日本GT選手権](https://ja.wikipedia.org/wiki/全日本GT選手権 "wikilink") (JGTC) ）のPR活動を行っている[イメージガールの名称である](../Page/キャンペーンガール.md "wikilink")。グループ数は4人（2010年は8人、2013年は3人）。

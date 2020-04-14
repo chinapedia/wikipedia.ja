@@ -1,4 +1,4 @@
-> この記事は[!BOO3](https://ja.wikipedia.org/wiki/!BOO3)から翻訳されています。
+> この記事は[夜はこれから!BOO3](https://ja.wikipedia.org/wiki/夜はこれから!BOO3)から翻訳されています。
 
 
 **夜はこれからBOO3**（よるはこれから ぶーぶーぶー）は、[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")で2004年4月から2006年9月まで毎週土曜日に[生放送](../Page/生放送.md "wikilink")された[ラジオ](../Page/ラジオ番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[夜はこれから\!AM派宣言](https://ja.wikipedia.org/wiki/夜はこれから!AM派宣言 "wikilink")の妹番組のような存在で、若者向けの番組であった。パーソナリティの3人組を**BOO3ガールズ**と称していた。

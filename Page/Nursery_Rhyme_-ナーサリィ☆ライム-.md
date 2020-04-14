@@ -1,4 +1,4 @@
-> この記事は[Nursery Rhyme --](https://ja.wikipedia.org/wiki/Nursery_Rhyme_--)から翻訳されています。
+> この記事は[Nursery Rhyme -ナーサリィ☆ライム-](https://ja.wikipedia.org/wiki/Nursery_Rhyme_-ナーサリィ☆ライム-)から翻訳されています。
 
 
 『**Nursery Rhyme -ナーサリィ☆ライム-**』は、[2005年](../Page/2005年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")に[Lump of Sugarより発売された](../Page/Lump_of_Sugar.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。

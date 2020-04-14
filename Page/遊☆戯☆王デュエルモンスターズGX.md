@@ -1,4 +1,4 @@
-> この記事は[GX](https://ja.wikipedia.org/wiki/GX)から翻訳されています。
+> この記事は[遊☆戯☆王デュエルモンスターズGX](https://ja.wikipedia.org/wiki/遊☆戯☆王デュエルモンスターズGX)から翻訳されています。
 
 
 『**遊☆戯☆王デュエルモンスターズGX**』（ゆうぎおうデュエルモンスターズジーエックス）は、[2004年](../Page/2004年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで放映された[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系の](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。全180話。再放送は[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")まで、テレビ東京系列で毎週土曜7時30分 - 8時00分に放送。[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")では[2017年](../Page/2017年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")に第1話から第10話、2017年[10月23日](../Page/10月23日.md "wikilink")に第11話から第26話の上映会が行われた。[字幕放送](https://ja.wikipedia.org/wiki/字幕放送 "wikilink")。

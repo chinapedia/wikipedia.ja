@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[ロバート・J・ソウヤー](https://ja.wikipedia.org/wiki/ロバート・J・ソウヤー)から翻訳されています。
 
 
 **ロバート・ジェームズ・ソウヤー**（Robert James Sawyer, [1960年](../Page/1960年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink") - ）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[SF作家](../Page/SF作家.md "wikilink")\[1\]。2012年時点までに22作の長編を出版しており\[2\]、*[アナログ](../Page/アスタウンディング.md "wikilink")*、*[アメージング・ストーリーズ](../Page/アメージング・ストーリーズ.md "wikilink")*、*[On Spec](https://ja.wikipedia.org/wiki/:en:On_Spec "wikilink")*、*[ネイチャー](https://ja.wikipedia.org/wiki/ネイチャー "wikilink")* といった雑誌や多くのアンソロジーにSF短編を発表している\[3\]\[4\]。小説についての賞を14回受賞しており\[5\]\[6\]、[ネビュラ賞](../Page/ネビュラ賞.md "wikilink") (1995)\[7\]、[ヒューゴー賞](../Page/ヒューゴー賞.md "wikilink") (2003)\[8\]、[ジョン・W・キャンベル記念賞](../Page/ジョン・W・キャンベル記念賞.md "wikilink") (2006)\[9\] も受賞している。
@@ -113,6 +113,7 @@
   - *Triggers* （2012年）
   - *Red Planet Blues* (2013年)
   - *Quantum Night* (2016年3月1日)
+  - *The Oppenheimer Alternative* (2020年)
 
 ## 脚注
 

@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR札幌病院](https://ja.wikipedia.org/wiki/JR札幌病院)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:JR_Sapporo_hospital01.JPG "wikilink") **JR札幌病院**（ジェイ・アールさっぽろびょういん）は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区にある](../Page/中央区_\(札幌市\).md "wikilink")[病院](../Page/病院.md "wikilink")（[企業立病院](https://ja.wikipedia.org/wiki/企業立病院 "wikilink")）。建物・運営に関して、三菱商事グループ（[三菱商事](../Page/三菱商事.md "wikilink")、エム・シー・ヘルスケアなど）と提携している\[1\]。

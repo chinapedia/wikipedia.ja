@@ -1,4 +1,4 @@
-> この記事は[SV](https://ja.wikipedia.org/wiki/SV)から翻訳されています。
+> この記事は[SVヴェーエン・ヴィースバーデン](https://ja.wikipedia.org/wiki/SVヴェーエン・ヴィースバーデン)から翻訳されています。
 
 
 **SVヴェーエン・ヴィースバーデン**（**SV Wehen Wiesbaden**）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ヘッセン州](../Page/ヘッセン州.md "wikilink")の[タウヌスシュタイン](https://ja.wikipedia.org/wiki/タウヌスシュタイン "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

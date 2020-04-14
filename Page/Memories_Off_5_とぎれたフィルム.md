@@ -1,4 +1,4 @@
-> この記事は[Memories Off 5 ](https://ja.wikipedia.org/wiki/Memories_Off_5_)から翻訳されています。
+> この記事は[Memories Off 5 とぎれたフィルム](https://ja.wikipedia.org/wiki/Memories_Off_5_とぎれたフィルム)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

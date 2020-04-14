@@ -1,4 +1,4 @@
-> この記事は[ESCO](https://ja.wikipedia.org/wiki/ESCO)から翻訳されています。
+> この記事は[ESCO事業](https://ja.wikipedia.org/wiki/ESCO事業)から翻訳されています。
 
 
 **ESCO事業**(エスコじぎょう)とは**E**nergy **S**ervice **Co**mpany事業の略。顧客の光熱水費等の経費削減を行い、削減実績から対価を得るビジネス形態のこと。

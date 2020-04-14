@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[イレギュラーハンターX](https://ja.wikipedia.org/wiki/イレギュラーハンターX)から翻訳されています。
 
 
 **イレギュラーハンターX**（イレギュラーハンターエックス、IRREGULAR HUNTER X、海外名：MEGA MAN MAVERICK HUNTER X）は、[2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")から発売された[PlayStation Portable専用の](../Page/PlayStation_Portable.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。

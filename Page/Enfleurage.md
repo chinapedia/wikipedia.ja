@@ -53,13 +53,13 @@
 11. **[Until Strawberry Sherbet](../Page/Until_Strawberry_Sherbet.md "wikilink")** <DUAL VOCAL Version> \[5:17\]
       -
         歌：林原めぐみ with [Greg Lee](https://ja.wikipedia.org/wiki/Greg_Lee "wikilink")
-        作詞：[李醒獅](https://ja.wikipedia.org/wiki/李醒獅 "wikilink")、English Words by [Mamie.D.Lee](https://ja.wikipedia.org/wiki/Mamie.D.Lee "wikilink")、作曲・編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
+        作詞：[李醒獅](https://ja.wikipedia.org/wiki/李醒獅 "wikilink")、English Words by [Mamie D. Lee](https://ja.wikipedia.org/wiki/Mamie_D._Lee "wikilink")、作曲・編曲：[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
 12. **My dear** <New Version> \[3:45\]
       -
         作詞：木本慶子、作曲：[高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink")、編曲：Vink
 13. **心のプラネット** <NUKU NUKU Version> \[5:28\]
       -
-        作詞：[小坂恭子](../Page/小坂恭子.md "wikilink")、作曲：[松田弘](../Page/松田弘.md "wikilink")、編曲：[B.C.GUYS](https://ja.wikipedia.org/wiki/B.C.GUYS "wikilink")
+        作詞：[小坂恭子](../Page/小坂恭子.md "wikilink")、作曲：[松田弘](../Page/松田弘.md "wikilink")、編曲：[B.C. GUYS](https://ja.wikipedia.org/wiki/B.C._GUYS "wikilink")
 14. **FAI・FAI・TU\!** \[4:03\]
       -
         作詞・作曲：[伊藤千夏](https://ja.wikipedia.org/wiki/伊藤千夏 "wikilink")、編曲：矢吹俊郎

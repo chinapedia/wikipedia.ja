@@ -1,19 +1,19 @@
 > この記事は[Depend on you](https://ja.wikipedia.org/wiki/Depend_on_you)から翻訳されています。
 
 
-『**Depend on you**』（ディペンド・オン・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の5th[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Depend on you**』（ディペンド・オン・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 [1999年](../Page/1999年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売し、[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")には[12cmCDで再発売している](../Page/コンパクトディスク.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2004年](../Page/2004年.md "wikilink")に**Ayu**名義で発売（[Depend on you (Ayuの曲)参照](https://ja.wikipedia.org/wiki/#Depend_on_you_\(Ayuの曲\) "wikilink")）。
 
 ## 解説
 
-1999年発売の1stアルバム『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』の先行シングル。
+1999年発売の1枚目のアルバム『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』の先行シングル。
 
 1999年[7月17日](../Page/7月17日.md "wikilink")にアナログ盤で再発売された。
 
-翌年の3月の『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』にて、「Depend on you」が、ニュー・アーティスト・オブ・ザ・イヤー ゴールドディスクとなった\[2\]。
+翌年3月の『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』にて、「Depend on you」が、ニュー・アーティスト・オブ・ザ・イヤー ゴールドディスクとなった\[2\]。
 
-2008年の43rdシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」には、10th Anniversary versionとして新録音された。
+2008年の43枚目のシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」には、10th Anniversary versionとして新録音された。
 
 ## 収録曲
 

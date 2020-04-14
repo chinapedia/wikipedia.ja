@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOデジロック](https://ja.wikipedia.org/wiki/GMOデジロック)から翻訳されています。
 
 
 **株式会社GMOデジロック**（英称：*GMO DigiRock, Inc.*）はドメイン・ウェブホスティングサービスを行なっている、[大阪府](../Page/大阪府.md "wikilink")の[GMOインターネット](../Page/GMOインターネット.md "wikilink")グループの企業である。
@@ -52,9 +52,9 @@
 
 ## 外部リンク
 
-  - [GMOデジロック株式会社](http://www.digirock.co.jp/)
-  - [XREA.COM](http://www.xrea.com/)
-  - [バリュードメイン](http://www.value-domain.com/)
+  - [GMOデジロック株式会社](https://www.digirock.co.jp/)
+  - [XREA.COM](https://www.xrea.com/)
+  - [バリュードメイン](https://www.value-domain.com/)
 
 [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:日本のインターネット企業](https://ja.wikipedia.org/wiki/Category:日本のインターネット企業 "wikilink") [Category:GMOインターネットグループ](https://ja.wikipedia.org/wiki/Category:GMOインターネットグループ "wikilink") [Category:ドメインのリセラー](https://ja.wikipedia.org/wiki/Category:ドメインのリセラー "wikilink") [Category:ウェブホスティング](https://ja.wikipedia.org/wiki/Category:ウェブホスティング "wikilink") [Category:大阪市北区の企業](https://ja.wikipedia.org/wiki/Category:大阪市北区の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink")
 

@@ -1,15 +1,15 @@
-> この記事は[YOU \(\)](https://ja.wikipedia.org/wiki/YOU_\(\))から翻訳されています。
+> この記事は[YOU \(浜崎あゆみの曲\)](https://ja.wikipedia.org/wiki/YOU_\(浜崎あゆみの曲\))から翻訳されています。
 
 
-「**YOU**」（ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の2nd[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月10日](../Page/6月10日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+「**YOU**」（ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月10日](../Page/6月10日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 [1999年](../Page/1999年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売し、[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")には[12cmCDで再発売している](../Page/コンパクトディスク.md "wikilink")。
 
 ## 解説
 
-前作「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から、わずか2ヶ月でのリリースとなった。この年のシングルリリースは、約2ヶ月に1枚のペースでのリリースとなる。
+前作「[poker face](https://ja.wikipedia.org/wiki/poker_face_\(浜崎あゆみの曲\) "wikilink")」から、わずか2か月でのリリースとなった。この年のシングルリリースは、約2か月に1枚のペースでのリリースとなる。
 
-2008年の43rdシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」には、10th Anniversary versionとして新録音された。
+2008年の43枚目のシングル「[Mirrorcle World](https://ja.wikipedia.org/wiki/Mirrorcle_World "wikilink")」には、10th Anniversary versionとして新録音された。
 
 ## 収録曲
 

@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[フリッツX](https://ja.wikipedia.org/wiki/フリッツX)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:FRITZ_X.jpg "wikilink") **フリッツX**（FritzX、-エックス）とは[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")が[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に開発した[滑空](https://ja.wikipedia.org/wiki/滑空 "wikilink")式[誘導爆弾](../Page/誘導爆弾.md "wikilink")である。ルールシュタール/クラマーX-1（Ruhrstahl/Kramer X-1）という名称も持っており、こちらが正式名称であるが、あまり有名ではないため、本稿ではフリッツXとする。SD1400X、FX1400X、PC1400Xという呼称もある。

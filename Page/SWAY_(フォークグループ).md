@@ -1,4 +1,4 @@
-> この記事は[SWAY \(\)](https://ja.wikipedia.org/wiki/SWAY_\(\))から翻訳されています。
+> この記事は[SWAY \(フォークグループ\)](https://ja.wikipedia.org/wiki/SWAY_\(フォークグループ\))から翻訳されています。
 
 
 **SWAY**（スウェイ）は、[1980年代](../Page/1980年代.md "wikilink")後半から[2000年代](../Page/2000年代.md "wikilink")初め頃にかけて活動した日本の女性[フォークデュオ](../Page/フォークデュオ.md "wikilink")である。
@@ -124,7 +124,7 @@
 
   - [公式サイト](http://www.outdex.net/sway/)
 
-  - [さそり座を眺めながら](http://www.geocities.co.jp/MusicStar-Bass/9901/)(公認ファンページ)
+  - (公認ファンページ)
 
   -
 [Category:日本のフォークグループ](https://ja.wikipedia.org/wiki/Category:日本のフォークグループ "wikilink") [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:ポプコン出身者](https://ja.wikipedia.org/wiki/Category:ポプコン出身者 "wikilink")

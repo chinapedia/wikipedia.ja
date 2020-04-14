@@ -1,4 +1,4 @@
-> この記事は[ \(ELP\)](https://ja.wikipedia.org/wiki/_\(ELP\))から翻訳されています。
+> この記事は[レディース・アンド・ジェントルメン \(ELPのアルバム\)](https://ja.wikipedia.org/wiki/レディース・アンド・ジェントルメン_\(ELPのアルバム\))から翻訳されています。
 
 
 **レディース・アンド・ジェントルメン**(Welcome Back My Friends To The Show That Never Ends...Ladies and Gentlemen)は、[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。

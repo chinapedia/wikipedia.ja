@@ -1,4 +1,4 @@
-> この記事は[VK](https://ja.wikipedia.org/wiki/VK)から翻訳されています。
+> この記事は[ローランド・VKシリーズ](https://ja.wikipedia.org/wiki/ローランド・VKシリーズ)から翻訳されています。
 
 
 **VKシリーズ**は、[ローランド](../Page/ローランド.md "wikilink")が販売しているコンボ・[オルガン](../Page/オルガン.md "wikilink")である。

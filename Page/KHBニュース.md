@@ -1,4 +1,4 @@
-> この記事は[KHB](https://ja.wikipedia.org/wiki/KHB)から翻訳されています。
+> この記事は[KHBニュース](https://ja.wikipedia.org/wiki/KHBニュース)から翻訳されています。
 
 
 『**KHBニュース**』（ケイ・エッチ・ビー・ニュース）とは、[東日本放送](../Page/東日本放送.md "wikilink")（KHB）で放送されている[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")の[ニュース番組](../Page/報道番組.md "wikilink")。一部の『[ANNニュース](https://ja.wikipedia.org/wiki/ANNニュース "wikilink")』の差し替えタイトルにもなっている。

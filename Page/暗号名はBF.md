@@ -1,4 +1,4 @@
-> この記事は[BF](https://ja.wikipedia.org/wiki/BF)から翻訳されています。
+> この記事は[暗号名はBF](https://ja.wikipedia.org/wiki/暗号名はBF)から翻訳されています。
 
 
 『**暗号名はBF**』（コードネームはベイビーフェイス）は、[田中保佐奈による](../Page/田中ほさな.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。「[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")」（[小学館](../Page/小学館.md "wikilink")）において、2003年30号に読切が掲載され、2004年7号より2004年37号まで連載された。のち読切作品である番外編『**暗号名はBF MISSION:BEGIN**』(コードネームはベイビーフェイス ミッションビギン)と『**MISSION:FEMALE 暗号名はJJ**』（ミッションフィメール コードネームはジェイジェイ）が[週刊少年サンデー超の](../Page/週刊少年サンデーS.md "wikilink")[2004年](../Page/2004年.md "wikilink")11月25日増刊号から[2005年](../Page/2005年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")増刊号まで、連続掲載されている。全29話、全4巻。

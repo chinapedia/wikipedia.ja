@@ -1,4 +1,4 @@
-> この記事は[CAMUI](https://ja.wikipedia.org/wiki/CAMUI)から翻訳されています。
+> この記事は[CAMUIロケット](https://ja.wikipedia.org/wiki/CAMUIロケット)から翻訳されています。
 
 
 **CAMUIロケット**（カムイロケット）とは、[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")「[北海道宇宙科学技術創成センター](https://ja.wikipedia.org/wiki/北海道宇宙科学技術創成センター "wikilink") (HASTIC)」が中心となり、[北海道大学](../Page/北海道大学.md "wikilink")、[北海道工業大学](https://ja.wikipedia.org/wiki/北海道工業大学 "wikilink")等の[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")内の大学・[植松電機](https://ja.wikipedia.org/wiki/植松電機 "wikilink")をはじめとする[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")内の民間企業によって開発が進められている[ハイブリッドロケット](https://ja.wikipedia.org/wiki/ハイブリッドロケット "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ \(ELP\)](https://ja.wikipedia.org/wiki/_\(ELP\))から翻訳されています。
+> この記事は[イン・コンサート \(ELPのアルバム\)](https://ja.wikipedia.org/wiki/イン・コンサート_\(ELPのアルバム\))から翻訳されています。
 
 
 **イン・コンサート** (***In Concert***) は、[エマーソン・レイク・アンド・パーマー](../Page/エマーソン・レイク・アンド・パーマー.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。

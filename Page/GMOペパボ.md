@@ -1,4 +1,4 @@
-> この記事は[GMO](https://ja.wikipedia.org/wiki/GMO)から翻訳されています。
+> この記事は[GMOペパボ](https://ja.wikipedia.org/wiki/GMOペパボ)から翻訳されています。
 
 
 **GMOペパボ株式会社**（ジーエムオーペパボ、英文社名 GMO Pepabo, Inc.）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")[桜丘町に本社](../Page/桜丘町_\(渋谷区\).md "wikilink")、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[中央区に支社を置く](../Page/中央区_\(福岡市\).md "wikilink")[インターネット](../Page/インターネット.md "wikilink")関連サービスを提供する会社である。レンタルサーバーの[ロリポップ\!](../Page/ロリポップ!.md "wikilink")や[ブログ](../Page/ブログ.md "wikilink")サービスのJUGEMなどを提供しており、愛称はペパボ。社長は[佐藤健太郎](https://ja.wikipedia.org/wiki/佐藤健太郎_\(実業家\) "wikilink")。

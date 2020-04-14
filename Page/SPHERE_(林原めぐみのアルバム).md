@@ -1,4 +1,4 @@
-> この記事は[SPHERE \(\)](https://ja.wikipedia.org/wiki/SPHERE_\(\))から翻訳されています。
+> この記事は[SPHERE \(林原めぐみのアルバム\)](https://ja.wikipedia.org/wiki/SPHERE_\(林原めぐみのアルバム\))から翻訳されています。
 
 
 『**SPHERE**』（スフィア）は、林原めぐみの5枚目の[アルバム](../Page/アルバム.md "wikilink")。[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から[1994年](../Page/1994年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")に発売された。のち[2005年](../Page/2005年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に再発された。

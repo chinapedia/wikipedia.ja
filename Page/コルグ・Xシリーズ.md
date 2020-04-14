@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[コルグ・Xシリーズ](https://ja.wikipedia.org/wiki/コルグ・Xシリーズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Korg_x3.jpg "wikilink") **Xシリーズ**（エックスシリーズ）は[コルグ](https://ja.wikipedia.org/wiki/コルグ "wikilink")の[シンセサイザー](../Page/シンセサイザー.md "wikilink")の型番・商品名。[01/Wシリーズの性能を凝縮したアマチュア用の](https://ja.wikipedia.org/wiki/コルグ・01/Wシリーズ "wikilink")[シンセサイザー](../Page/シンセサイザー.md "wikilink")/[音源モジュール](../Page/音源モジュール.md "wikilink")。型番からすれば[コルグ・01/Wシリーズ](https://ja.wikipedia.org/wiki/コルグ・01/Wシリーズ "wikilink")であるが事実としては**コルグX5**のモジュール版である**コルグ05R/W**、同じくコルグ製のDTM音源モジュール**コルグAG-10**も含めて紹介する。

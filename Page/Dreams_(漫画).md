@@ -1,4 +1,4 @@
-> この記事は[Dreams \(\)](https://ja.wikipedia.org/wiki/Dreams_\(\))から翻訳されています。
+> この記事は[Dreams \(漫画\)](https://ja.wikipedia.org/wiki/Dreams_\(漫画\))から翻訳されています。
 
 
 『**Dreams**』（ドリームス）は、原作：[七三太朗](../Page/七三太朗.md "wikilink")、漫画：[川三番地](../Page/川三番地.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[野球漫画](../Page/野球漫画.md "wikilink")。

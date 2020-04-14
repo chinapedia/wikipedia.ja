@@ -1,4 +1,4 @@
-> この記事は[NT-1](https://ja.wikipedia.org/wiki/NT-1)から翻訳されています。
+> この記事は[ガンダムNT-1](https://ja.wikipedia.org/wiki/ガンダムNT-1)から翻訳されています。
 
 
 **ガンダムNT-1**（ガンダム・エヌティー・ワン、GUNDAM NT-1）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」に登場する架空の兵器。[有人操縦式の人型ロボット兵器](../Page/架空のロボット兵器の一覧.md "wikilink")「**[モビルスーツ](../Page/モビルスーツ.md "wikilink")**(MS)」の一つ。初出は、1989年発表の[OVA](../Page/OVA.md "wikilink")『[機動戦士ガンダム0080 ポケットの中の戦争](../Page/機動戦士ガンダム0080_ポケットの中の戦争.md "wikilink")』。

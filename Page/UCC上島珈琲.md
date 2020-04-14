@@ -1,9 +1,9 @@
-> この記事は[UCC](https://ja.wikipedia.org/wiki/UCC)から翻訳されています。
+> この記事は[UCC上島珈琲](https://ja.wikipedia.org/wiki/UCC上島珈琲)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Ueshima_Coffee.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:UCC_Coffee_Museum13s3872.jpg "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:UCC_Hawaii.jpg "wikilink")
 
-**ユーシーシー上島珈琲株式会社**（ユーシーシーうえしまコーヒー、英：UCC Ueshima Coffee Co.,Ltd.）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区に本社を置く](../Page/中央区_\(神戸市\).md "wikilink")、[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")を中心とした飲料・食品メーカー。[みどり会](../Page/みどり会.md "wikilink")の会員企業であり[三和グループ](../Page/三和グループ.md "wikilink")に属している\[1\]。
+**ユーシーシー上島珈琲株式会社**（ユーシーシーうえしまコーヒー、）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区に本社を置く](../Page/中央区_\(神戸市\).md "wikilink")、[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")を中心とした飲料・食品メーカー。[みどり会](../Page/みどり会.md "wikilink")の会員企業であり[三和グループ](../Page/三和グループ.md "wikilink")に属している\[1\]。
 
 コーポレートメッセージは、“Good Coffee Smile”。
 
@@ -13,7 +13,7 @@
 
 自社のコーヒー農園を展開しており、[1981年](../Page/1981年.md "wikilink")（昭和56年）に[ジャマイカ](../Page/ジャマイカ.md "wikilink")で[ブルーマウンテン](../Page/ブルーマウンテン.md "wikilink")の農園を開設。[1989年](../Page/1989年.md "wikilink")（平成元年）には[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハワイ州](../Page/ハワイ州.md "wikilink")[ハワイ島](../Page/ハワイ島.md "wikilink")で[コナコーヒー](../Page/コナコーヒー.md "wikilink")の[農園を開設させた](https://ja.wikipedia.org/wiki/コナコーヒー・ベルト#州道180号線沿い "wikilink")。他にも[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）には[インドネシア](../Page/インドネシア.md "wikilink")[スマトラ島](../Page/スマトラ島.md "wikilink")で[マンデリン](https://ja.wikipedia.org/wiki/マンデリン "wikilink")の農園を開設している。なおブルーマウンテンコーヒーの直営農園は同社が初めてである。
 
-[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")に本社がある[ウエシマコーヒー](https://ja.wikipedia.org/wiki/ウエシマコーヒー "wikilink")は100%子会社であるが、兄の上島治忠が創業し、同じく神戸市中央区に本社を置く[ウエシマコーヒーフーズ](../Page/ウエシマコーヒーフーズ.md "wikilink")（U.COFFEE）との関連は、資本・経営面では一切ない。[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")で広く展開している[サッポロウエシマコーヒー](../Page/サッポロウエシマコーヒー.md "wikilink")（ユーコーヒーウエシマ）とは企業としての関連はなかったが、2008年に完全子会社化されている。また、[大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")の[上島珈琲貿易](../Page/上島珈琲貿易.md "wikilink")（マックコーヒー）は、UCCグループ会社ではないが、上島忠雄の兄である上島勝が創業者である。
+兄の上島治忠が創業し、同じく神戸市中央区に本社を置く[ウエシマコーヒーフーズ](../Page/ウエシマコーヒーフーズ.md "wikilink")（U.COFFEE）との関連は長年ほぼ無関係であったが、2018年に発行済株式の全てを取得し傘下に収めた。また、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")で広く展開している[サッポロウエシマコーヒー](../Page/サッポロウエシマコーヒー.md "wikilink")（ユーコーヒーウエシマ）は名称が類似しているだけで企業として特に関連はなかったが、こちらも2008年に傘下に収めている。そのほか、[東京都](../Page/東京都.md "wikilink")[目黒区](https://ja.wikipedia.org/wiki/目黒区 "wikilink")に本社がある[ウエシマコーヒー](https://ja.wikipedia.org/wiki/ウエシマコーヒー "wikilink")も100%子会社である。なお、[大阪府](../Page/大阪府.md "wikilink")[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")の[上島珈琲貿易](../Page/上島珈琲貿易.md "wikilink")（通称：マックコーヒー）はグループ会社ではないが、当社同様に上島商店をその源流とする（上島忠雄の兄である上島勝が創業。ただし当社との資本関係はない）。
 
 [東京ディズニーリゾート](../Page/東京ディズニーリゾート.md "wikilink")（[東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")・[東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink")）・[ユニバーサル・スタジオ・ジャパン](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")・[倉敷チボリ公園](../Page/倉敷チボリ公園.md "wikilink")（2008年閉園）・[ハウステンボス](https://ja.wikipedia.org/wiki/ハウステンボス "wikilink")・[宝塚歌劇](https://ja.wikipedia.org/wiki/宝塚歌劇 "wikilink")のオフィシャルスポンサーである。
 
@@ -22,8 +22,6 @@
 [2012年](../Page/2012年.md "wikilink")（平成24年）[3月30日](../Page/3月30日.md "wikilink")、シャディの全株を[ニッセンホールディングス](../Page/ニッセンホールディングス.md "wikilink")に譲渡するとともに、第三者割当増資により、ニッセンホールディングスの筆頭株主になる\[2\]。
 
 [2019年](../Page/2019年.md "wikilink")（令和元年）[11月29日](../Page/11月29日.md "wikilink")、UCCミルクコーヒー缶に使われる茶色（25%）、白色（30%）、赤色（45%）の3色柄について、[色彩を対象とする商標として](../Page/日本の商標制度.md "wikilink")[特許庁](../Page/特許庁.md "wikilink")から登録を受けた。食品業界では初の登録\[3\]。
-
-なお、ウエシマコーヒーフーズ（[上島コーヒーグループ](https://ja.wikipedia.org/wiki/上島コーヒーグループ "wikilink")）創始者・上島忠治と、[上島珈琲貿易](../Page/上島珈琲貿易.md "wikilink")の創業者・上島勝は、UCC上島珈琲創業者・上島忠雄の兄にあたるが、両社との資本関係は無い。
 
 ## 主力製品
 

@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[UFJ信託銀行](https://ja.wikipedia.org/wiki/UFJ信託銀行)から翻訳されています。
 
 
 **UFJ信託銀行 株式会社**（**ユーエフジェイしんたくぎんこう**）とは、[2005年](../Page/2005年.md "wikilink")（平成17年）[10月1日](../Page/10月1日.md "wikilink")をもって三菱信託銀行と合併し[三菱UFJ信託銀行](../Page/三菱UFJ信託銀行.md "wikilink")となった、2005年9月30日まで存在したUFJホールディングス傘下の[信託銀行](../Page/信託銀行.md "wikilink")。

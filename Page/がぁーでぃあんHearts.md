@@ -1,4 +1,4 @@
-> この記事は[Hearts](https://ja.wikipedia.org/wiki/Hearts)から翻訳されています。
+> この記事は[がぁーでぃあんHearts](https://ja.wikipedia.org/wiki/がぁーでぃあんHearts)から翻訳されています。
 
 
 『**がぁーでぃあんHearts**』（がぁーでぃあんはーつ）は、『[月刊少年エース](https://ja.wikipedia.org/wiki/月刊少年エース "wikilink")』および『少年エース桃組』にて連載された[天津冴](../Page/天津冴.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。略称は『がぁーつ』。単行本は全8巻。

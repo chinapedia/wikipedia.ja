@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK上方漫才コンテスト](https://ja.wikipedia.org/wiki/NHK上方漫才コンテスト)から翻訳されています。
 
 
 **NHK上方漫才コンテスト**（エヌエイチケイかみがたまんざいコンテスト）は、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")主催で毎年春に開催される若手[上方](https://ja.wikipedia.org/wiki/上方 "wikilink")[漫才](../Page/漫才.md "wikilink")家のための演芸[コンクール](../Page/コンクール.md "wikilink")。1971年に設立。現在は年度によるが、2月最終金曜日\[1\]、または3月の第1・2金曜日のいずれか（概ね[NHKのど自慢](../Page/NHKのど自慢.md "wikilink")チャンピオン大会の前日）に[NHK大阪ホール](../Page/NHK大阪ホール.md "wikilink")で生放送している。

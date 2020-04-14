@@ -1,4 +1,4 @@
-> この記事は[CERO12](https://ja.wikipedia.org/wiki/CERO12)から翻訳されています。
+> この記事は[CEROレーティング12才以上対象ソフトの一覧](https://ja.wikipedia.org/wiki/CEROレーティング12才以上対象ソフトの一覧)から翻訳されています。
 
 
 **CEROレーティング12才以上対象ソフトの一覧**（セロレーティング12さいいじょうたいしょうのソフトいちらん）は、[コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（CERO）によるレーティングで**旧基準の「12才以上対象」および新基準の「B 12才以上対象」**に区分されたゲームソフトの一覧である。
@@ -1587,7 +1587,7 @@
   - [MELTY BLOODシリーズ](../Page/MELTY_BLOOD.md "wikilink")
       - MELTY BLOOD Act Cadenza（コンテンツアイコン：「暴力」）
       - MELTY BLOOD Actress Again（コンテンツアイコン：「セクシャル、暴力」）
-  - [Monochrome](../Page/Monochrome.md "wikilink")（コンテンツアイコン：「恋愛」）
+  - [Monochrome](../Page/Monochrome_\(ゲーム\).md "wikilink")（コンテンツアイコン：「恋愛」）
   - [モノクローム・ファクター cross road](../Page/モノクローム・ファクター.md "wikilink")（コンテンツアイコン：「恋愛、暴力、犯罪」）
   - [幽☆遊☆白書FOREVER](../Page/幽☆遊☆白書FOREVER.md "wikilink")（コンテンツアイコン：「暴力」）
   - [雪語り リニューアル版](https://ja.wikipedia.org/wiki/雪語り "wikilink")（コンテンツアイコン：「恋愛」）

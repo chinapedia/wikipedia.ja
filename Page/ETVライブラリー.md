@@ -1,4 +1,4 @@
-> この記事は[ETV](https://ja.wikipedia.org/wiki/ETV)から翻訳されています。
+> この記事は[ETVライブラリー](https://ja.wikipedia.org/wiki/ETVライブラリー)から翻訳されています。
 
 
 **ETVライブラリー**は、[NHK教育テレビの深夜番組](../Page/NHK教育テレビジョン.md "wikilink")。

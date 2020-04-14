@@ -1,4 +1,4 @@
-> この記事は[!Navi](https://ja.wikipedia.org/wiki/!Navi)から翻訳されています。
+> この記事は[さきどり!Navi](https://ja.wikipedia.org/wiki/さきどり!Navi)から翻訳されています。
 
 
 『**さきどり\!Navi**』（さきどりナビ）は、[2003年](../Page/2003年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2004年](../Page/2004年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")までNNN24（現:[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink")）制作で、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[関東ローカル](../Page/関東ローカル.md "wikilink")）・NNN24（[CS放送](../Page/日本における衛星放送.md "wikilink")）・[BS日テレで放送された](../Page/BS日本.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。主にニュースや暮らしの情報、天気予報などが主な構成で、「さきどり列島ライブ」という地方局との中継を結び、ご当地の話題などを紹介するコーナーなどがあった。

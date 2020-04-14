@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[ミッドナイトジャーナル \(NHK総合\)](https://ja.wikipedia.org/wiki/ミッドナイトジャーナル_\(NHK総合\))から翻訳されています。
 
 
 『**ミッドナイトジャーナル**』（英称:*MIDNIGHT JOURNAL*）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[NHK総合テレビで放送された深夜の総合](../Page/NHK総合テレビジョン.md "wikilink")[ニュース番組](../Page/報道番組.md "wikilink")。

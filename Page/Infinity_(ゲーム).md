@@ -1,4 +1,4 @@
-> この記事は[Infinity \(\)](https://ja.wikipedia.org/wiki/Infinity_\(\))から翻訳されています。
+> この記事は[Infinity \(ゲーム\)](https://ja.wikipedia.org/wiki/Infinity_\(ゲーム\))から翻訳されています。
 
 
 『**infinity**』（インフィニティ）は、[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")に[PlayStationで発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")[サスペンス](../Page/サスペンス.md "wikilink")系[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")のシリーズ、およびその第1作である。本記事では第1作『infinity』、その完結編である『Never7』、およびその関連作品について述べる。

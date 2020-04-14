@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[Sボックス](https://ja.wikipedia.org/wiki/Sボックス)から翻訳されています。
 
 
 暗号技術において、**Sボックス** (**substitution box** or **S-box**) とは、[共通鍵暗号](../Page/共通鍵暗号.md "wikilink")の基本部品の一つである関数のことである。典型的には[ブロック暗号](../Page/ブロック暗号.md "wikilink")で、[平文](../Page/平文.md "wikilink")と[暗号文](../Page/暗号文.md "wikilink")の相関（線形性）を壊すための仕組みとして使用され、[暗号解読](../Page/暗号解読.md "wikilink")に耐性を有するように注意深く選択する必要がある部品である。

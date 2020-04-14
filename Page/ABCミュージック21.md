@@ -1,4 +1,4 @@
-> この記事は[ABC21](https://ja.wikipedia.org/wiki/ABC21)から翻訳されています。
+> この記事は[ABCミュージック21](https://ja.wikipedia.org/wiki/ABCミュージック21)から翻訳されています。
 
 
 **ABCミュージック21**（エービーシーミュージックトゥーワン）は、[1999年](../Page/1999年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[2009年](../Page/2009年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")まで放送されていた[朝日放送](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で平日および土曜日の夜21時台に放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[Kビジョン](https://ja.wikipedia.org/wiki/Kビジョン)から翻訳されています。
 
 
 **Kビジョン**株式会社（旧下松ケーブルビジョン）は、[山口県](../Page/山口県.md "wikilink")[下松市](../Page/下松市.md "wikilink")に本社がある[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局。下松市、[光市](https://ja.wikipedia.org/wiki/光市 "wikilink")、[周南市](../Page/周南市.md "wikilink")、[平生町](../Page/平生町.md "wikilink")、[上関町](../Page/上関町.md "wikilink")が出資する[第三セクター](../Page/第三セクター.md "wikilink")である。

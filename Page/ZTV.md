@@ -336,7 +336,7 @@
 | ~~20~~ | BS101       | [NHK BS1](../Page/NHK_BS1.md "wikilink")                            |
 | ~~21~~ | BS103       | [NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink") |
 |        | BS141 - 143 | [BS日テレ](../Page/BS日本.md "wikilink")                                 |
-|        | BS151 - 153 | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")             |
+|        | BS151 - 153 | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                |
 |        | BS161 - 163 | [BS-TBS](../Page/BS-TBS.md "wikilink")                              |
 |        | BS171 - 173 | [BSテレ東](../Page/BSテレビ東京.md "wikilink")                              |
 |        | BS181 - 183 | [BSフジ](../Page/BSフジ.md "wikilink")                                  |

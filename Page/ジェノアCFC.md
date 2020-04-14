@@ -1,4 +1,4 @@
-> この記事は[CFC](https://ja.wikipedia.org/wiki/CFC)から翻訳されています。
+> この記事は[ジェノアCFC](https://ja.wikipedia.org/wiki/ジェノアCFC)から翻訳されています。
 
 
 **ジェノア・クリケット・アンド・フットボール・クラブ**（**Genoa Cricket and Football Club s.p.a**）は、[イタリア](../Page/イタリア.md "wikilink")・[ジェノヴァ](../Page/ジェノヴァ.md "wikilink")をホームタウンとする、イタリアプロサッカーリーグ（[レガ・カルチョ](../Page/レガ・カルチョ.md "wikilink")）に加盟するプロサッカークラブ。2019-20シーズンは[セリエAに所属している](../Page/セリエA_\(サッカー\).md "wikilink")。
@@ -874,21 +874,280 @@
 
 </div>
 
-## 歴代所属選手
+## 主な歴代所属選手
 
 ### GK
 
-  - [ステファノ・タッコーニ](https://ja.wikipedia.org/wiki/ステファノ・タッコーニ "wikilink") 1994-1995
+  -
+    1919 - 1933
 
-  - [ルビーニョ](https://ja.wikipedia.org/wiki/ルベンス・フェルナンド・モエディム "wikilink") 2006 - 2009
+  -
+    1984 - 1987
 
-  - [マルコ・アメリア](../Page/マルコ・アメリア.md "wikilink") 2009 - 2010
+  - [ステファノ・タッコーニ](https://ja.wikipedia.org/wiki/ステファノ・タッコーニ "wikilink")
+    1992 - 1994
+
+<!-- end list -->
+
+  - [アレッシオ・スカルピ](https://ja.wikipedia.org/wiki/アレッシオ・スカルピ "wikilink")
+    2004 - 2012
+
+  - [ルビーニョ](https://ja.wikipedia.org/wiki/ルベンス・フェルナンド・モエディム "wikilink")
+    2006 - 2009, 2017
+
+  - [マルコ・アメリア](../Page/マルコ・アメリア.md "wikilink")
+    2009 - 2010
+
+<!-- end list -->
+
+  - [マッティア・ペリン](https://ja.wikipedia.org/wiki/マッティア・ペリン "wikilink")
+    2010 - 2018, 2020 -
+
+  - [セバスティアン・フレイ](../Page/セバスティアン・フレイ.md "wikilink")
+    2011 - 2013
 
 ### DF
 
+  -
+    1913 - 1929
+
+  -
+    1919 - 1932
+
+  -
+    1945 - 1961
+
+  - [セバスティアーノ・ネーラ](https://ja.wikipedia.org/wiki/セバスティアーノ・ネーラ "wikilink")
+    1978 - 1981
+
+  -
+    1985 - 2000
+
+  - [ニコラ・カリコラ](https://ja.wikipedia.org/wiki/ニコラ・カリコラ "wikilink")
+    1987 - 1994, 1994 - 1995
+
+  -
+    1988 - 1995
+
+  - [ブランコ](https://ja.wikipedia.org/wiki/クラウディオ・イブライム・バス・レアル "wikilink")
+    1991 - 1993
+
+  - [クリスティアン・パヌッチ](../Page/クリスティアン・パヌッチ.md "wikilink")
+    1991 - 1993
+
+<!-- end list -->
+
+  - [アンドレア・フォルトゥナート](https://ja.wikipedia.org/wiki/アンドレア・フォルトゥナート "wikilink")
+    1992 - 1993
+
+  - [ダン・ペトレスク](https://ja.wikipedia.org/wiki/ダン・ペトレスク "wikilink")
+    1993 - 1994
+
+  - [マッテオ・フェラーリ](../Page/マッテオ・フェラーリ.md "wikilink")
+    1997 - 1998, 2008 - 2009
+
+  - [アウダイール](../Page/アウダイール.md "wikilink")
+    2003 - 2004
+
+  - [ドメニコ・クリシート](../Page/ドメニコ・クリシート.md "wikilink")
+    2003 - 2004, 2006 - 2007, 2008 - 2011, 2018 -
+
+  - [ジュゼッペ・ビアーヴァ](https://ja.wikipedia.org/wiki/ジュゼッペ・ビアーヴァ "wikilink")
+    2008 - 2010
+
+  - [サルヴァトーレ・ボッケッティ](https://ja.wikipedia.org/wiki/サルヴァトーレ・ボッケッティ "wikilink")
+    2008 - 2010
+
+  - [ソクラティス・パパスタソプーロス](https://ja.wikipedia.org/wiki/ソクラティス・パパスタソプーロス "wikilink")
+    2008 - 2010
+
+<!-- end list -->
+
+  - [ジャンドメニコ・メスト](https://ja.wikipedia.org/wiki/ジャンドメニコ・メスト "wikilink")
+    2008 - 2012
+
+  - [ラフィーニャ](https://ja.wikipedia.org/wiki/マルシオ・ラファエウ・フェレイラ・デ・ソウザ "wikilink")
+    2010 - 2011
+
+  - [カハ・カラーゼ](../Page/カハ・カラーゼ.md "wikilink")
+    2010 - 2012
+
+  - [アンドレアス・グランクヴィスト](../Page/アンドレアス・グランクヴィスト.md "wikilink")
+    2011 - 2013
+
+  - [ルカ・アントネッリ](https://ja.wikipedia.org/wiki/ルカ・アントネッリ "wikilink")
+    2011 - 2015
+
+  - [シメ・ヴルサリコ](https://ja.wikipedia.org/wiki/シメ・ヴルサリコ "wikilink")
+    2013 - 2014
+
+  - [ニコラス・ブルディッソ](../Page/ニコラス・ブルディッソ.md "wikilink")
+    2014 - 2017
+
+  - [アルマンド・イッツォ](https://ja.wikipedia.org/wiki/アルマンド・イッツォ "wikilink")
+    2014 - 2018
+
 ### MF
 
+  - [グンナー・グレン](https://ja.wikipedia.org/wiki/グンナー・グレン "wikilink")
+    1955 - 1956
+
+  - [ブルーノ・コンティ](../Page/ブルーノ・コンティ.md "wikilink")
+    1975 - 1976, 1978 - 1979
+
+  -
+    1981 - 1983
+
+  - [ステファノ・エラーニオ](https://ja.wikipedia.org/wiki/ステファノ・エラーニオ "wikilink")
+    1984 - 1992
+
+  -
+    1988 - 2002
+
+  -
+    1990 - 1998
+
+  - [ヨン・ファント・シップ](../Page/ヨン・ファント・シップ.md "wikilink")
+    1992 - 1996
+
+  - [マッシモ・ムタレッリ](https://ja.wikipedia.org/wiki/マッシモ・ムタレッリ "wikilink")
+    1998 - 2002
+
+<!-- end list -->
+
+  - [パウル・コドレア](https://ja.wikipedia.org/wiki/パウル・コドレア "wikilink")
+    2001 - 2003
+
+  - [ヴァロン・ベーラミ](../Page/ヴァロン・ベーラミ.md "wikilink")
+    2003 - 2005, 2020 -
+
+  - [マルコ・ロッシ](https://ja.wikipedia.org/wiki/マルコ・ロッシ_\(1978年生のサッカー選手\) "wikilink")
+    2003 - 2013
+
+  - [イヴァン・ユリッチ](https://ja.wikipedia.org/wiki/イヴァン・ユリッチ "wikilink")
+    2006 - 2010
+
+  - [オマール・ミラネット](https://ja.wikipedia.org/wiki/オマール・ミラネット "wikilink")
+    2006 - 2011
+
+  - [フリオ・セサル・レオン](https://ja.wikipedia.org/wiki/フリオ・セサル・レオン "wikilink")
+    2007 - 2008
+
+  - / [ティアゴ・モッタ](../Page/ティアゴ・モッタ.md "wikilink")
+    2008 - 2009
+
+  - [ボシュコ・ヤンコヴィッチ](https://ja.wikipedia.org/wiki/ボシュコ・ヤンコヴィッチ "wikilink")
+    2008 - 2013
+
+<!-- end list -->
+
+  - [ミゲル・ヴェローゾ](../Page/ミゲル・ヴェローゾ.md "wikilink")
+    2010 - 2012, 2016 - 2019
+
+  - [ユライ・クツカ](https://ja.wikipedia.org/wiki/ユライ・クツカ "wikilink")
+    2011 - 2015
+
+  - [ステファノ・ストゥラーロ](https://ja.wikipedia.org/wiki/ステファノ・ストゥラーロ "wikilink")
+    2011 - 2015, 2019 -
+
+  - [トマス・リンコン](https://ja.wikipedia.org/wiki/トマス・リンコン "wikilink")
+    2014 - 2017
+
+  - [ディエゴ・ラクサール](https://ja.wikipedia.org/wiki/ディエゴ・ラクサール "wikilink")
+    2015 - 2018
+
+  - [ダルコ・ラゾヴィッチ](https://ja.wikipedia.org/wiki/ダルコ・ラゾヴィッチ "wikilink")
+    2015 - 2019
+
+  - [ラセ・シェーネ](https://ja.wikipedia.org/wiki/ラセ・シェーネ "wikilink")
+    2019 -
+
 ### FW
+
+  -
+    1925 - 1932
+
+  - [ギジェルモ・スタービレ](../Page/ギジェルモ・スタービレ.md "wikilink")
+    1930 - 1934, 1935
+
+  -
+    1956 - 1960
+
+  - [ロベルト・プルッツォ](https://ja.wikipedia.org/wiki/ロベルト・プルッツォ "wikilink")
+    1973 - 1978
+
+  -
+    1981 - 1984, 1987 - 1989
+
+  -
+    1988 - 1999
+
+  - [カルロス・アルベルト・アギレラ](https://ja.wikipedia.org/wiki/カルロス・アルベルト・アギレラ "wikilink")
+    1989 - 1992
+
+  - [トマーシュ・スクラビー](https://ja.wikipedia.org/wiki/トマーシュ・スクラビー "wikilink")
+    1990 - 1996
+
+  - [三浦知良](../Page/三浦知良.md "wikilink")
+    1994 - 1995
+
+<!-- end list -->
+
+  - [ヴィンチェンツォ・モンテッラ](../Page/ヴィンチェンツォ・モンテッラ.md "wikilink")
+    1995 - 1996
+
+  - [モハメド・カロン](../Page/モハメド・カロン.md "wikilink")
+    1997 - 1998
+
+  -
+    1999 - 2002, 2005
+
+  - [ディエゴ・ミリート](../Page/ディエゴ・ミリート.md "wikilink")
+    2003 - 2005, 2008 - 2009
+
+  - [ジュゼッペ・スクッリ](https://ja.wikipedia.org/wiki/ジュゼッペ・スクッリ "wikilink")
+    2006 - 2011, 2012, 2014
+
+  - [マルコ・ディ・ヴァイオ](../Page/マルコ・ディ・ヴァイオ.md "wikilink")
+    2007 - 2008
+
+  - [マルコ・ボリエッロ](https://ja.wikipedia.org/wiki/マルコ・ボリエッロ "wikilink")
+    2007 - 2008, 2012 - 2013, 2015
+
+  - [ラッファエレ・パッラディーノ](../Page/ラッファエレ・パッラディーノ.md "wikilink")
+    2008 - 2011, 2017 - 2018
+
+  - [エルナン・クレスポ](../Page/エルナン・クレスポ.md "wikilink")
+    2009 - 2010
+
+<!-- end list -->
+
+  - [ロドリゴ・パラシオ](../Page/ロドリゴ・パラシオ.md "wikilink")
+    2009 - 2012
+
+  - [ルカ・トーニ](../Page/ルカ・トーニ.md "wikilink")
+    2010 - 2011
+
+  - [ダビド・スアソ](../Page/ダビド・スアソ.md "wikilink")
+    2010
+
+  - [アルベルト・ジラルディーノ](../Page/アルベルト・ジラルディーノ.md "wikilink")
+    2012 - 2014
+
+  - [チーロ・インモービレ](https://ja.wikipedia.org/wiki/チーロ・インモービレ "wikilink")
+    2012 - 2013
+
+  - [ゴラン・パンデフ](../Page/ゴラン・パンデフ.md "wikilink")
+    2015 -
+
+  - [レオナルド・パヴォレッティ](https://ja.wikipedia.org/wiki/レオナルド・パヴォレッティ "wikilink")
+    2015 - 2017
+
+  - [ジョバンニ・シメオネ](https://ja.wikipedia.org/wiki/ジョバンニ・シメオネ "wikilink")
+    2016 - 2017
+
+  - [クシシュトフ・ピョンテク](https://ja.wikipedia.org/wiki/クシシュトフ・ピョンテク "wikilink")
+    2018 - 2019
 
 ## 永久欠番
 

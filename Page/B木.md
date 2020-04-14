@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[B木](https://ja.wikipedia.org/wiki/B木)から翻訳されています。
 
 
 **B木**（びーき）は、[コンピュータサイエンス](https://ja.wikipedia.org/wiki/コンピュータサイエンス "wikilink")における[データ構造](../Page/データ構造.md "wikilink")、特に[木構造の一つ](../Page/木構造_\(データ構造\).md "wikilink")。ブロック単位のランダムアクセスが可能な[補助記憶装置](../Page/補助記憶装置.md "wikilink")（[ハードディスクドライブ](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")など）上に木構造を実装するのに適した構造として知られる。

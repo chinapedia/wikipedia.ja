@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[A級戦犯](https://ja.wikipedia.org/wiki/A級戦犯)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Class-A_War_Criminals_in_bus.JPG "wikilink")、その斜め後ろが[東條英機](../Page/東條英機.md "wikilink")\]\] **A級戦犯**（Aきゅうせんぱん）は、 [第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の[連合国による](../Page/連合国_\(第二次世界大戦\).md "wikilink")[ポツダム宣言](../Page/ポツダム宣言.md "wikilink")六條\[1\]に基づき、[極東国際軍事裁判所条例第五条](https://ja.wikipedia.org/wiki/極東国際軍事裁判所憲章 "wikilink")（イ）項\[2\]により定義された[戦争犯罪](../Page/戦争犯罪.md "wikilink")に関し、[極東国際軍事裁判](../Page/極東国際軍事裁判.md "wikilink")（東京裁判）により有罪判決を受けた者である。

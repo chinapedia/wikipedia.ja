@@ -1,4 +1,4 @@
-> この記事は[CR-X](https://ja.wikipedia.org/wiki/CR-X)から翻訳されています。
+> この記事は[ホンダ・CR-X](https://ja.wikipedia.org/wiki/ホンダ・CR-X)から翻訳されています。
 
 
 **CR-X**（シーアール-エックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産、販売していた[小型乗用車](https://ja.wikipedia.org/wiki/小型乗用車 "wikilink")である。世代によって車名が異なる。

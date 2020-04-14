@@ -10,18 +10,18 @@
   - 血液型はA型。
   - 最年少メンバーにして\[1\]、[GLAY](../Page/GLAY.md "wikilink")の副リーダー的存在。また、[the pillowsのトリビュート](https://ja.wikipedia.org/wiki/the_pillows "wikilink")・アルバムにも参加経験あり。
   - メンバーの芸名では唯一本名に由来していない([TAKURO](../Page/TAKURO.md "wikilink")と[HISASHI](../Page/HISASHI.md "wikilink")は下の名前をそのまま、[TERU](../Page/TERU.md "wikilink")は本名の**照彦**の略称である)。由来は、GLAY加入前に所属していたバンド「ピエロ\[2\]」のボーカリストに名前を聞かれ、とっさに「JIRO」と答えたため\[3\]。本人も、何故自分が「JIRO」と言ったのかまったく分からないらしい。
-  - [GLAY](../Page/GLAY.md "wikilink")のメンバーを呼ぶ際は、[TAKURO](../Page/TAKURO.md "wikilink")は「TAKUROくん」、[HISASHI](../Page/HISASHI.md "wikilink")なら「トノくん」、[TERU](../Page/TERU.md "wikilink")なら「テッコくん」と呼んでいる。また元メンバーのAKIRA（上島明）のことは「ウエシマくん」、NOBUMASA（大庭伸公）のことは「オバちゃん」と呼んでいた。
+  - GLAYのメンバーを呼ぶ際は、[TAKURO](../Page/TAKURO.md "wikilink")は「TAKUROくん」、[HISASHI](../Page/HISASHI.md "wikilink")なら「トノくん」、[TERU](../Page/TERU.md "wikilink")なら「テッコくん」と呼んでいる。また元メンバーのAKIRA（上島明）のことは「ウエシマくん」、NOBUMASA（大庭伸公）のことは「オバちゃん」と呼んでいた。
   - ギターのように大きく腕を振って弾く、独特な奏法でベースを弾いている。ベースはギターと違い、和音ではなく単音を的確に弾く必要があるため、弾かない弦をミュートしている。また、影響を受けたベーシストに、元[ガンズ・アンド・ローゼズ](https://ja.wikipedia.org/wiki/ガンズ・アンド・ローゼズ "wikilink")の[ダフ・マッケイガン](../Page/ダフ・マッケイガン.md "wikilink")と[ZIGGY](https://ja.wikipedia.org/wiki/ZIGGY "wikilink")の[戸城憲夫](../Page/戸城憲夫.md "wikilink")を挙げている\[4\]。
   - その端正な顔立ちから、女性に非常に人気があり、芸能人でも[武井咲](https://ja.wikipedia.org/wiki/武井咲 "wikilink")や[佐々木希](https://ja.wikipedia.org/wiki/佐々木希 "wikilink")がJIROのファンを公言している。メンバー曰く、実際にGLAYの中で一番モテるのはJIROで、TAKUROは女の子からJIROのことについての相談も多々あったという。
   - 優れたファッションセンスの持ち主で、衣服にあまりこだわらないTAKUROから相談されるほど。[代官山](https://ja.wikipedia.org/wiki/代官山 "wikilink")でJIROとは気付かれずに「[雑誌](../Page/雑誌.md "wikilink")のオシャレ選手権に出ないか」とスカウトされたこともある。
   - デビュー当初はローラーブレードを履いてスタジオ入りした事があり、事務所側から叱責された。
-  - [趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink")は[カメラ](../Page/カメラ.md "wikilink")と[スノーボード](../Page/スノーボード.md "wikilink")。特にカメラは、[空](../Page/空.md "wikilink")や[風景](https://ja.wikipedia.org/wiki/風景 "wikilink")などを撮るのが好きで、[GLAY](../Page/GLAY.md "wikilink")の会報内でコーナーも設けられている。このコーナーでは、ファンからの投稿も採用しその時々の季節感やテーマにそっている。また、シングル「[Precious](https://ja.wikipedia.org/wiki/Precious_\(GLAYの曲\) "wikilink")」では、JIROが撮影した写真がCDのジャケットに用いられている。
+  - 趣味は[カメラ](../Page/カメラ.md "wikilink")と[スノーボード](../Page/スノーボード.md "wikilink")。特にカメラは、空や風景などを撮るのが好きで、GLAYの会報内でコーナーも設けられている。このコーナーでは、ファンからの投稿も採用し、その時々の季節感やテーマにそっている。また、シングル「[Precious](https://ja.wikipedia.org/wiki/Precious_\(GLAYの曲\) "wikilink")」では、JIROが撮影した写真がCDのジャケットに用いられている。
   - GLAYでも[THE PREDATORSでも](../Page/THE_PREDATORS.md "wikilink")、稀に作曲をする。自身が作曲したGLAYの楽曲「SHUTTER SPEEDSのテーマ」は、特にライブでも盛り上がる楽曲となっている。
-  - GLAYでは[TERU](../Page/TERU.md "wikilink")に次いでメインボーカルを担当することがあり、「[SHUTTER SPEEDSのテーマ](https://ja.wikipedia.org/wiki/BELOVED#収録曲 "wikilink")」「[ストロベリーシェイク](https://ja.wikipedia.org/wiki/BE_WITH_YOU_\(GLAYの曲\)#収録曲 "wikilink")」「[THE BIRTHDAY GIRL](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜#Disc_3 "wikilink")」などで自ら歌っている。なお、2005年からは、[THE PREDATORSのベーシストとしても活躍](../Page/THE_PREDATORS.md "wikilink")。
-  - HISASHIとは、なぜか2人きりになると気まずいムードになってしまう事が多いとのこと。ただ、決して仲が悪いわけではない。メジャーデビューから10年経ってようやく2人きりで飲みに行った、とのこと。
+  - GLAYでは[TERU](../Page/TERU.md "wikilink")に次いでメインボーカルを担当することがあり、「[SHUTTER SPEEDSのテーマ](https://ja.wikipedia.org/wiki/BELOVED_\(GLAYのアルバム\)#収録曲 "wikilink")」「[ストロベリーシェイク](https://ja.wikipedia.org/wiki/BE_WITH_YOU_\(GLAYの曲\)#収録曲 "wikilink")」「[THE BIRTHDAY GIRL](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜#Disc_3 "wikilink")」などで自ら歌っている。なお、2005年からは、[THE PREDATORSのベーシストとしても活躍](../Page/THE_PREDATORS.md "wikilink")。
+  - HISASHIとは、なぜか2人きりになると気まずいムードになってしまうことが多いとのこと。ただ、決して仲が悪いわけではない。メジャーデビューから10年経ってようやく2人きりで飲みに行った、とのこと。
   - インディーズ時代は「ハツリ屋」などのバイトをしていた。
   - TAKUROから新曲を聴かせられた際、TAKUROに対し「古いよ」と意見した事がある。TAKUROはこれまでにない自信作としてメンバーに新曲を聴かせたが、JIROだけが頭を抱えており、TAKUROが歩み寄り「この歌は俺自身なんだよね」と言いかける寸前に「TAKUROくん、こういうのって古いんだよね」と言われ、TAKUROは「俺は古いのか〜」とJIROに気付かされたとのこと。このエピソードは、TAKURO自身が「音楽活動をしていて一番辛かったこと」として語っている。
-  - [レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")、[レディオヘッド](https://ja.wikipedia.org/wiki/レディオヘッド "wikilink")、[ニルヴァーナ](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")、[チャットモンチー](../Page/チャットモンチー.md "wikilink")のファン。
+  - [レッド・ホット・チリ・ペッパーズ](../Page/レッド・ホット・チリ・ペッパーズ.md "wikilink")、[レディオヘッド](../Page/レディオヘッド.md "wikilink")、[ニルヴァーナ](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")、[チャットモンチー](../Page/チャットモンチー.md "wikilink")のファン。
   - TAKUROと同じ幼稚園に通っており、小学校もTAKUROが転校するまでは一緒だった。
   - セカンドシングルである[真夏の扉](../Page/真夏の扉.md "wikilink")では、プロデューサーであった[土屋昌巳](../Page/土屋昌巳.md "wikilink")から、「ピックで（ベース）弾いてるの？駄目だよ、それじゃあ。」と言われたところ、JIROはその場でピックを外したと言う。土屋は「ピックと指とで弾けるようにしろ、という意味でのアドバイスだった」と語っている。
   - 揚げ物が苦手な模様で、1994年のツアーで回った名古屋で味噌カツを食べた所、のちに蕁麻疹や高熱が出たためそれ以降、揚げ物は一切口にしなくなったという。

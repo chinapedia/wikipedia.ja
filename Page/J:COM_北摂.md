@@ -1,4 +1,4 @@
-> この記事は[J:COM ](https://ja.wikipedia.org/wiki/J:COM_)から翻訳されています。
+> この記事は[J:COM 北摂](https://ja.wikipedia.org/wiki/J:COM_北摂)から翻訳されています。
 
 
 **J:COM 北摂**（ジェイコム ほくせつ）は、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[ジェイコムウエスト](../Page/ジェイコムウエスト.md "wikilink")が運営する[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局のひとつ。

@@ -1,4 +1,4 @@
-> この記事は[AE \(\)](https://ja.wikipedia.org/wiki/AE_\(\))から翻訳されています。
+> この記事は[京成AE形電車 \(初代\)](https://ja.wikipedia.org/wiki/京成AE形電車_\(初代\))から翻訳されています。
 
 
 **京成AE形電車**（けいせいAEがたでんしゃ）は、[京成電鉄](https://ja.wikipedia.org/wiki/京成電鉄 "wikilink")に在籍していた[特急形電車](../Page/特急形車両.md "wikilink")。[1972年](../Page/1972年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")47年）3月から[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")（昭和53年）11月の間に6両編成7本計42両が製造され、[1973年](../Page/1973年.md "wikilink")（昭和48年）から[1993年](../Page/1993年.md "wikilink")（[平成](../Page/平成.md "wikilink")5年）まで「[スカイライナー](../Page/スカイライナー.md "wikilink")」などの有料[特別急行列車](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")専用車両として運行されていた。第17回（[1974年](../Page/1974年.md "wikilink")）[鉄道友の会](../Page/鉄道友の会.md "wikilink")[ブルーリボン賞受賞](../Page/ブルーリボン賞_\(鉄道\).md "wikilink")。

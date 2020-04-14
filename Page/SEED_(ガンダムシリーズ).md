@@ -1,4 +1,4 @@
-> この記事は[SEED \(\)](https://ja.wikipedia.org/wiki/SEED_\(\))から翻訳されています。
+> この記事は[SEED \(ガンダムシリーズ\)](https://ja.wikipedia.org/wiki/SEED_\(ガンダムシリーズ\))から翻訳されています。
 
 
 **SEED**（シード）は、[アニメ](../Page/アニメ.md "wikilink")『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』および『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』に登場する架空の[概念](../Page/概念.md "wikilink")・[能力](https://ja.wikipedia.org/wiki/能力 "wikilink")である。

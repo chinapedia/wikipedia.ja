@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[ハリー・S・トルーマン](https://ja.wikipedia.org/wiki/ハリー・S・トルーマン)から翻訳されています。
 
 
 **ハリー・S・トルーマン**（、[1884年](../Page/1884年.md "wikilink")[5月8日](../Page/5月8日.md "wikilink") - [1972年](../Page/1972年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")。[上院議員](../Page/アメリカ合衆国上院.md "wikilink")、第34代[副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")、第33代[大統領を歴任した](../Page/アメリカ合衆国大統領.md "wikilink")。[フランクリン・ルーズベルト](../Page/フランクリン・ルーズベルト.md "wikilink")の死を受けて[1945年](../Page/1945年.md "wikilink")に副大統領から大統領に昇格した。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の終了から[冷戦](../Page/冷戦.md "wikilink")の始まり、[国際連合](../Page/国際連合.md "wikilink")、[CIA](../Page/中央情報局.md "wikilink")、[NSA](../Page/アメリカ国家安全保障局.md "wikilink")、[ペンタゴン(国防総省)の創設および](../Page/アメリカ国防総省.md "wikilink")[朝鮮戦争](https://ja.wikipedia.org/wiki/朝鮮戦争 "wikilink")などに関与した。
@@ -161,7 +161,7 @@
 
 ### 批判
 
-原爆投下強硬派であるバーンズに同調してトルーマンが原爆投下を承認した事に対して、当時のアメリカ一般国民の支持率は85％だったが、トルーマンと政治的に対立する立場だった共和党や和平派からは酷評があったという。
+原爆投下強硬派であるバーンズに同調してトルーマンが原爆投下を承認した事に対して、当時のアメリカ一般国民の支持率は85%だったが、トルーマンと政治的に対立する立場だった共和党や和平派からは酷評があったという。
 
 原爆投下に対する批判のコメントについては『[日本への原子爆弾投下\#アメリカ側の原爆投下に対するコメント](https://ja.wikipedia.org/wiki/日本への原子爆弾投下#アメリカ側の原爆投下に対するコメント "wikilink")』を参照。
 
@@ -246,11 +246,11 @@
 
   - 『トルーマン回顧録』（全2巻、堀江芳孝訳、[恒文社](https://ja.wikipedia.org/wiki/恒文社 "wikilink")、1966年、再版1973年、新装版1992年）
 
-(新装版ISBN4-7704-0752-1 ２巻とも同じ、分売不可となっている） 「MEMOIRS BY HARRY S. TRUMAN Year of Decisions」 「MEMOIRS BY HARRY S. TRUMAN Years of Trial and Hope」
+(新装版 ISBN 4-7704-0752-1 2巻とも同じ、分売不可となっている） 「MEMOIRS BY HARRY S. TRUMAN Year of Decisions」 「MEMOIRS BY HARRY S. TRUMAN Years of Trial and Hope」
 
 ## 書籍
 
-  - 　『まさかの大統領』（A.J.ベイム、河内隆弥訳、[国書刊行会](../Page/国書刊行会.md "wikilink")、2018年　ISDN978-4-336-06259-8
+  - 『まさかの大統領』（A.J.ベイム、河内隆弥訳、[国書刊行会](../Page/国書刊行会.md "wikilink")、2018年 ISBN 978-4-336-06259-8
 
 「THE ACCIDENTAL PRESIDENT」
 
@@ -326,15 +326,15 @@
 22. ストーンはベトナム戦争の従軍体験から映画「プラトーン」を製作した40歳ごろまでは歴史の「原爆正当論」にとらわれており、自分の娘の高校教科書の広島・長崎についての記述が原爆投下を正当化するひどいものとも述べた。
 23.
 24. 1995年に、スミソニアン博物館が企画した原爆投下機エノラ・ゲイと広島・長崎の被爆資料を並べて展示する原爆展は、退役軍人らの猛反対で中止になったが、20年後の2015年に原爆投下をめぐる言説に挑戦するような作品に好意的な反応が寄せられるのは、20年前に猛反対した世代の多くは亡くなり、原爆投下決定をめぐる議論は沈静化したためと同教授は述べている。
-25. [（インタビュー　核といのちを考える）米国で原爆神話に挑む　ピーター・カズニックさん](http://www.asahi.com/articles/photo/AS20150602000131.html?jumpUrl=http%253A%252F%252Fdigital.asahi.com%252Farticles%252Fphoto%252FAS20150602000131.html%253F_requesturl%253Darticles%252Fphoto%252FAS20150602000131.html)(2015年6月2日)
+25. [（インタビュー 核といのちを考える）米国で原爆神話に挑む ピーター・カズニックさん](http://www.asahi.com/articles/photo/AS20150602000131.html?jumpUrl=http%253A%252F%252Fdigital.asahi.com%252Farticles%252Fphoto%252FAS20150602000131.html%253F_requesturl%253Darticles%252Fphoto%252FAS20150602000131.html)(2015年6月2日)
 26. 「朝日新聞」2014年8月5日
 27. 1983年8月6日（朝日新聞）
-28. NNNドキュメント「隠された被爆米兵　～ヒロシマの墓標は語る～」
+28. NNNドキュメント「隠された被爆米兵 ～ヒロシマの墓標は語る～」
 29. [袖井林二郎](../Page/袖井林二郎.md "wikilink") 『私たちは敵だったのか；在米被爆者の黙示録』（増補新版） [岩波同時代ライブラリー](../Page/岩波書店.md "wikilink")、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") ISBN 400260232X
 30. Prompt and Utter Destruction: Truman and the Use of Atomic Bombs Against Japan. Chapel Hill and London: University of North Carolina Press, 1997.訳「原爆投下とトルーマン」彩流社
-31. 中国新聞・ヒロシマ平和メディアセンター [「検証　ヒロシマ　1945-95　1救援・援助」](http://www.hiroshimapeacemedia.jp/mediacenter/article.php?story=20120203122224161_ja)
+31. 中国新聞・ヒロシマ平和メディアセンター [「検証 ヒロシマ 1945-95 1救援・援助」](http://www.hiroshimapeacemedia.jp/mediacenter/article.php?story=20120203122224161_ja)
 32. [原爆投下とキリスト教](http://www.prideandhistory.jp/topics/000811.html)
-33. 2016年8月6日に放送されたNHKスペシャル「決断なき原爆投下 ～米大統領　71年目の真実～」。
+33. 2016年8月6日に放送されたNHKスペシャル「決断なき原爆投下 ～米大統領 71年目の真実～」。
 34. [米トルーマン大統領、長崎への原爆投下認めた直後、後悔の念＝韓国ネット「反省する米国人は日本人とは違う」「韓国は原爆のおかげで解放された」](https://www.excite.co.jp/news/article/Recordchina_20150811032/)
 35. 長谷川毅『暗闘（下）』中公文庫、2011年、p71｡この内容は商務長官の[ヘンリー・A・ウォレス](../Page/ヘンリー・A・ウォレス.md "wikilink")によるという。
 36. 金子敦郎著「世界を不幸にする原爆カード」

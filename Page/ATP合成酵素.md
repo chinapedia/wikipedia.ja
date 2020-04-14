@@ -1,4 +1,4 @@
-> この記事は[ATP](https://ja.wikipedia.org/wiki/ATP)から翻訳されています。
+> この記事は[ATP合成酵素](https://ja.wikipedia.org/wiki/ATP合成酵素)から翻訳されています。
 
 
 **ATP合成酵素**（ATPごうせいこうそ）とは、[呼吸鎖複合体](https://ja.wikipedia.org/wiki/呼吸鎖複合体 "wikilink")によって形成された[プロトン濃度勾配と](../Page/水素イオン.md "wikilink")[膜電位](../Page/膜電位.md "wikilink")からなる[プロトン駆動力](https://ja.wikipedia.org/wiki/プロトン駆動力 "wikilink")を用いて、[ADPと](../Page/アデノシン二リン酸.md "wikilink")[リン酸](../Page/リン酸.md "wikilink")から[アデノシン三リン酸](../Page/アデノシン三リン酸.md "wikilink") (ATP) の合成を行う[酵素](../Page/酵素.md "wikilink")である。別名**ATPシンターゼ**、**呼吸鎖複合体V**、複合体Vなど。 なお、[シンテターゼ](https://ja.wikipedia.org/wiki/シンテターゼ "wikilink")はATPなどの高エネルギー化合物の分解と共役する反応を触媒する酵素を指すが、ATP合成に他のエネルギー化合物を用いることはないので、「ATPシンテターゼ」という呼称は正しくない。

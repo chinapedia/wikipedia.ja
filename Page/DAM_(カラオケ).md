@@ -1,4 +1,4 @@
-> この記事は[DAM \(\)](https://ja.wikipedia.org/wiki/DAM_\(\))から翻訳されています。
+> この記事は[DAM \(カラオケ\)](https://ja.wikipedia.org/wiki/DAM_\(カラオケ\))から翻訳されています。
 
 
 **DAM**（ダム、**Daiichikosho Amusement Multimedia**）は、[第一興商](../Page/第一興商.md "wikilink")が運用する業務用[通信カラオケ](../Page/通信カラオケ.md "wikilink")のシリーズの総称。

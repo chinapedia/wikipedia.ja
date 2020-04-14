@@ -146,8 +146,7 @@
       - 「せつなくて 〜オホーツクにたたずむ男〜 (カラオケ)」（アンドレ中村とオホーツクボーイズ名義のシングル『せつなくて 〜オホーツクにたたずむ男〜』収録）
       - 「笑顔の行方 (カラオケ)」（コンピレーションアルバム『[BEAT EXPRESS ORIGINAL KARAOKE VOX for WOMEN](https://ja.wikipedia.org/wiki/BEAT_EXPRESS#BEAT_EXPRESS_ORIGINAL_KARAOKE_VOX_for_WOMEN "wikilink")』収録）
       - 「うたえ！わすれものばんちょう」（『わすれものばんちょう』収録）
-      - 「この街で 〜INSTRUMENTAL VERSION〜」（『この街で』収録）
-      - 「AGAIN -INSTRUMENTAL-」（『AGAIN』収録）
+      - 51stシングル「[この街で](https://ja.wikipedia.org/wiki/この街で "wikilink")」以降のCDシングルには、表題曲のInstrumentalが収録されている傾向にある。
 
 ### シングル
 
@@ -761,9 +760,17 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/あなたとトゥラッタッタ♪/THE_WAY_I_DREAM" title="wikilink">あなたとトゥラッタッタ♪/THE WAY I DREAM</a></strong></p></td>
 <td><p>UMCK-5663</p></td>
 <td><p>9位</p></td>
-<td></td>
+<td><p>未収録</p></td>
 </tr>
 <tr class="even">
+<td><p>54</p></td>
+<td><p>2020年4月22日（予定）</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/YES_AND_NO／G" title="wikilink">YES AND NO／G</a></strong></p></td>
+<td><p>UMCK-5690</p></td>
+<td><p>TBA</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1342,7 +1349,7 @@
 | **愛がたどりつく場所**                                                                                                               | [ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink") 新ドーナツソング                                                                                               |
 | 「WE LOVE HOKKAIDO シリーズ 2015」テーマソング （※[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink") スペシャルコラボレーション）                    |                                                                                                                                                                      |
 | **[MY TIME TO SHINE](https://ja.wikipedia.org/wiki/MY_TIME_TO_SHINE "wikilink")**                                           | [ファンケル](../Page/ファンケル.md "wikilink") 無添加スキンケア CM ソング                                                                                                                 |
-| [TBS系全国ネット](../Page/TBSテレビ.md "wikilink")「アシタスイッチ～MY TIME TO SHINE～」テーマソング                                                  |                                                                                                                                                                      |
+| [TBS系全国ネット](../Page/TBSテレビ.md "wikilink")「アシタスイッチ〜MY TIME TO SHINE〜」テーマソング                                                  |                                                                                                                                                                      |
 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列「DANCE＠TV」11月度オープニングテーマ                                            |                                                                                                                                                                      |
 | **想像を超える明日へ**                                                                                                               | [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")\[「[エスティマ ハイブリッド](../Page/トヨタ・エスティマ.md "wikilink") 」X DREAMS COME TRUE プロジェクトソング                            |
 | **[愛して笑ってうれしくて涙して](https://ja.wikipedia.org/wiki/愛して笑ってうれしくて涙して "wikilink")**                                               | 映画『[綱引いちゃった\!](https://ja.wikipedia.org/wiki/綱引いちゃった! "wikilink")』主題歌                                                                                                |
@@ -1350,7 +1357,7 @@
 | **[さぁ鐘を鳴らせ](https://ja.wikipedia.org/wiki/さぁ鐘を鳴らせ/MADE_OF_GOLD_-featuring_DABADA- "wikilink")**                             | フジテレビ系「[救命病棟24時](../Page/救命病棟24時.md "wikilink")」主題歌                                                                                                                  |
 | 「2015北海道マラソン」オフィシャルソング                                                                                                      |                                                                                                                                                                      |
 | **[この街で](https://ja.wikipedia.org/wiki/この街で "wikilink")**                                                                   | [AEON](https://ja.wikipedia.org/wiki/ÆON "wikilink") SPECIAL 10 WEEKS \! コラボレーションソング                                                                                 |
-| **[AGAIN](https://ja.wikipedia.org/wiki/AGAIN_\(DREAMS_COME_TRUEの曲\) "wikilink")**                                          | 日本テレビ系「[NEWS ZERO](https://ja.wikipedia.org/wiki/NEWS_ZERO "wikilink")」テーマソング                                                                                        |
+| **[AGAIN](https://ja.wikipedia.org/wiki/AGAIN_\(DREAMS_COME_TRUEの曲\) "wikilink")**                                          | 日本テレビ系「[NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")」テーマソング                                                                                        |
 | **HAPPY HAPPY BIRTHDAY - 25th Anniv. Mix -**                                                                                | [AEON](https://ja.wikipedia.org/wiki/ÆON "wikilink") 40th Anniversary Song                                                                                           |
 | **[九州をどこまでも](https://ja.wikipedia.org/wiki/九州をどこまでも "wikilink")**                                                           | [JR九州](../Page/九州旅客鉄道.md "wikilink")「ドリカム新幹線」キャンペーンソング                                                                                                               |
 | **[愛しのライリー](https://ja.wikipedia.org/wiki/愛しのライリー "wikilink")**                                                             | ディズニー／ピクサー映画 「[インサイド・ヘッド](https://ja.wikipedia.org/wiki/インサイド・ヘッド "wikilink")」オリジナル書き下ろし主題歌                                                                          |
@@ -1363,6 +1370,7 @@
 | **世界中からサヨウナラ**                                                                                                              | 音楽ストリーミング配信サービス「[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink") \#今のサントラ 犬の散歩編」CFイメージソング                                                                 |
 | **あなたとトゥラッタッタ♪**                                                                                                            | NHK連続テレビ小説「[まんぷく](https://ja.wikipedia.org/wiki/まんぷく "wikilink")」主題歌                                                                                                 |
 | '''go for it\! - VERSION'18 - '''                                                                                           | SUBARU「インプレッサ」CMソング                                                                                                                                                  |
+| **YES AND NO**                                                                                                              | フジテレビ系ドラマ「[アンサング・シンデレラ 病院薬剤師の処方箋](https://ja.wikipedia.org/wiki/アンサングシンデレラ#テレビドラマ "wikilink")」主題歌                                                                    |
 
 ## コンサート
 

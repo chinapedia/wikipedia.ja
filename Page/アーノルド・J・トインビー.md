@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[アーノルド・J・トインビー](https://ja.wikipedia.org/wiki/アーノルド・J・トインビー)から翻訳されています。
 
 
 [Arnold_J._Toynbee_Anefo.jpg](https://ja.wikipedia.org/wiki/File:Arnold_J._Toynbee_Anefo.jpg "fig:Arnold_J._Toynbee_Anefo.jpg") **アーノルド・ジョゼフ・トインビー**（Arnold Joseph Toynbee、[1889年](../Page/1889年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink") - [1975年](../Page/1975年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[歴史学者](https://ja.wikipedia.org/wiki/歴史学者 "wikilink")。
@@ -24,8 +24,8 @@
   - 『歴史の研究』（全25巻、「歴史の研究」刊行会, 1966-72年）
   - 『ナイルとニジェールの間に』（[新潮社](../Page/新潮社.md "wikilink")［[新潮選書](https://ja.wikipedia.org/wiki/新潮選書 "wikilink")］, 1967年）
   - 『戦争と文明』（社会思想社, 1968年／[中公クラシックス](https://ja.wikipedia.org/wiki/中公クラシックス "wikilink"), 2018年）
-  - 『トインビー著作集』（全7巻+別巻、社会思想社, 1967-68年）、※別巻「トインビー研究」
-      - 1-3 歴史の研究、4 一歴史家の宗教観、5 試練に立つ文明、6 現代論集、7 歴史紀行
+  - 『トインビー著作集』（全7巻+別巻、社会思想社\[1\], 1967-68年）
+      - 1-3 歴史の研究、4 一歴史家の宗教観、5 試練に立つ文明、6 現代論集、7 歴史紀行、別巻「トインビー研究」
   - 『回想録（1・2）』（社会思想社, 1970年）
   - 『交遊録』（社会思想社, 1970年）
   - 『現代が受けている挑戦』（新潮選書, 1971年／[新潮文庫](../Page/新潮文庫.md "wikilink"), 2001年）
@@ -38,11 +38,22 @@
 ### 共著
 
   - （フィリップ・トインビー）『現代人の疑問――二つの世代の考え方』（毎日新聞社, 1967年）
-  - （[若泉敬](../Page/若泉敬.md "wikilink")）『未来を生きる――トインビーとの対話』（毎日新聞社, 1971年）
+  - （[若泉敬](../Page/若泉敬.md "wikilink")）『未来を生きる――トインビーとの対話』（毎日新聞社, 1971年） のち講談社文庫
   - （[池田大作](../Page/池田大作.md "wikilink")）『21世紀への対話』（[文藝春秋](../Page/文藝春秋.md "wikilink"), 1975年）
 
-## 参照
+## 主な研究評伝
+
+  - 『人間と文明のゆくえ　トインビー生誕100年記念論集』日本評論社、1989年。吉澤五郎・川窪啓資編
+  - 『文明の転換と東アジア　トインビー生誕100年アジア国際フォーラム』[藤原書店](../Page/藤原書店.md "wikilink")、1992年。吉澤五郎・川窪啓資編
+  - 川窪啓資『トインビーから比較文明へ』近代文藝社、2000年
+  - [吉澤五郎](https://ja.wikipedia.org/wiki/吉澤五郎 "wikilink")『トインビーとの対話　現代への挑戦・希望の道』[第三文明社](../Page/第三文明社.md "wikilink")・[レグルス文庫](https://ja.wikipedia.org/wiki/レグルス文庫 "wikilink")、2011年
+  - 吉澤五郎『トインビー　新装版』清水書院・シリーズ人と思想、2015年、初版1982年
+  - [佐藤優](../Page/佐藤優_\(作家\).md "wikilink")『地球時代の哲学　池田・トインビー対談を読み解く』潮出版社、2014年／潮新書、2017年
+
+## 脚注
 
 <references />
 
 [Category:イギリスの歴史学者](https://ja.wikipedia.org/wiki/Category:イギリスの歴史学者 "wikilink") [Category:文明評論家](https://ja.wikipedia.org/wiki/Category:文明評論家 "wikilink") [Category:オックスフォード大学出身の人物](https://ja.wikipedia.org/wiki/Category:オックスフォード大学出身の人物 "wikilink") [Category:ロンドン・スクール・オブ・エコノミクスの教員](https://ja.wikipedia.org/wiki/Category:ロンドン・スクール・オブ・エコノミクスの教員 "wikilink") [Category:キングス・カレッジ・ロンドンの教員](https://ja.wikipedia.org/wiki/Category:キングス・カレッジ・ロンドンの教員 "wikilink") [Category:王立国際問題研究所の人物](https://ja.wikipedia.org/wiki/Category:王立国際問題研究所の人物 "wikilink") [Category:ロンドン出身の人物](https://ja.wikipedia.org/wiki/Category:ロンドン出身の人物 "wikilink") [Category:1889年生](https://ja.wikipedia.org/wiki/Category:1889年生 "wikilink") [Category:1975年没](https://ja.wikipedia.org/wiki/Category:1975年没 "wikilink")
+
+1.  昭和期に第三文明社と社会思想社で研究が多く出版

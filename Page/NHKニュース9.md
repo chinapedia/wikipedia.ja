@@ -1,4 +1,4 @@
-> この記事は[NHK9](https://ja.wikipedia.org/wiki/NHK9)から翻訳されています。
+> この記事は[NHKニュース9](https://ja.wikipedia.org/wiki/NHKニュース9)から翻訳されています。
 
 
 『**NHK ニュース9**』（エヌエイチケイ ニュース・ナイン）は、[1993年](../Page/1993年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビと](../Page/NHK総合テレビジョン.md "wikilink")[モバイル放送](../Page/モバイル放送.md "wikilink")のモバイル.n、海外向けの[NHKワールド](https://ja.wikipedia.org/wiki/NHKワールド "wikilink")TV、NHKワールド・プレミアムで放送された[日本時間 (JST)](../Page/日本標準時.md "wikilink") の[平日](../Page/平日.md "wikilink")（後に[月曜日](../Page/月曜日.md "wikilink")〜[金曜日](../Page/金曜日.md "wikilink")）21時台の総合[報道番組](../Page/報道番組.md "wikilink")である。

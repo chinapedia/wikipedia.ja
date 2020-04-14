@@ -1,4 +1,4 @@
-> この記事は[UFJ](https://ja.wikipedia.org/wiki/UFJ)から翻訳されています。
+> この記事は[UFJホールディングス](https://ja.wikipedia.org/wiki/UFJホールディングス)から翻訳されています。
 
 
 [Bank_of_Tokyo-Mitsubishi_UFJ_Otemachi_Building_2012-01-26.JPG](https://ja.wikipedia.org/wiki/File:Bank_of_Tokyo-Mitsubishi_UFJ_Otemachi_Building_2012-01-26.JPG "fig:Bank_of_Tokyo-Mitsubishi_UFJ_Otemachi_Building_2012-01-26.JPG")東京ビル（後に 三菱東京UFJ銀行 大手町ビルに改称し、2012年に解体された）\]\] **株式会社UFJホールディングス**（ユーエフジェイホールディングス、英文名称：UFJ Holdings, Inc.）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[金融持株会社](../Page/金融持株会社.md "wikilink")。

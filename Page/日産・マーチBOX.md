@@ -1,4 +1,4 @@
-> この記事は[BOX](https://ja.wikipedia.org/wiki/BOX)から翻訳されています。
+> この記事は[日産・マーチBOX](https://ja.wikipedia.org/wiki/日産・マーチBOX)から翻訳されています。
 
 
 <div class="pathnavbox">

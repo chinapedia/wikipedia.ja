@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[Uシート](https://ja.wikipedia.org/wiki/Uシート)から翻訳されています。
 
 
 [thumbのuシート車内装](https://ja.wikipedia.org/wiki/ファイル:JRHokkaidoSeries785-uSeat.JPG "wikilink")\]\] [thumbのuシート車内装](https://ja.wikipedia.org/wiki/ファイル:New789_02.jpg "wikilink")\]\] **uシート**（ユーシート）とは、[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）が[電車](../Page/電車.md "wikilink")によって運行する一部の[特別急行列車](https://ja.wikipedia.org/wiki/特別急行列車 "wikilink")および[快速](../Page/快速列車.md "wikilink")「[エアポート](../Page/エアポート_\(列車\).md "wikilink")」に設定されている[普通車](../Page/普通車_\(鉄道車両\).md "wikilink")[座席指定席](../Page/座席指定席.md "wikilink")の愛称である。
@@ -47,13 +47,13 @@ JR北海道内完結の通常の普通車指定席と同様、[乗車券](../Pag
 
   - [721系電車](../Page/JR北海道721系電車.md "wikilink")：6両編成（2000年11月上旬 - ）
       -
-        快速「エアポート」
+        快速・特別快速「エアポート」
   - 721系電車：3両編成（F-1009編成のみ）（2000年11月上旬 - ）
       -
-        快速「エアポート」
+        快速・特別快速「エアポート」
   - [733系電車](https://ja.wikipedia.org/wiki/JR北海道733系電車 "wikilink")（3000番台）：6両編成（2014年7月19日 - ）
       -
-        快速「エアポート」
+        快速・特別快速「エアポート」
   - [785系電車（500番台）](https://ja.wikipedia.org/wiki/JR北海道785系電車#500番台 "wikilink")：5両編成（2002年3月16日 - ）
       -
         特急「すずらん」

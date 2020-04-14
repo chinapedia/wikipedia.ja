@@ -73,12 +73,10 @@
 <!-- end list -->
 
   - [キニナル金曜日](https://ja.wikipedia.org/wiki/キニナル金曜日 "wikilink")（2017年4月7日 -[TBSテレビ](../Page/TBSテレビ.md "wikilink")系列） **藤本 - MC、原西 - キニナルコメンテーター**
-  - [名医のTHE太鼓判\!](https://ja.wikipedia.org/wiki/名医のTHE太鼓判! "wikilink")（2017年10月9日 -、TBSテレビ系列） -**レギュラー出演**
   - [特盛\!よしもと 今田・八光のおしゃべりジャングル](https://ja.wikipedia.org/wiki/特盛!よしもと_今田・八光のおしゃべりジャングル "wikilink")（読売テレビ） - **準レギュラー**
   - [秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")（[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")） - **不定期出演**
   - [さんまのお笑い向上委員会](https://ja.wikipedia.org/wiki/さんまのお笑い向上委員会 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")系列） - **不定期出演**
   - [雨上がり決死隊のトーク番組アメトーーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列） - **不定期出演**
-  - [タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列） - **不定期出演**
   - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")（[TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系列） - **解答者として出演**
   - オールスター後夜祭（TBS）- 解答者として出演（居残り芸人で名札は印刷。）
   - [ニンゲン観察バラエティ モニタリング](https://ja.wikipedia.org/wiki/ニンゲン観察バラエティ_モニタリング "wikilink")（[TBS](https://ja.wikipedia.org/wiki/TBS "wikilink")系列） - **不定期出演**
@@ -88,7 +86,6 @@
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（TBS）- **不定期出演**
   - [上沼・高田のクギズケ\!](https://ja.wikipedia.org/wiki/上沼・高田のクギズケ! "wikilink")（読売テレビ）- **不定期出演**
   - [快傑えみちゃんねる](../Page/快傑えみちゃんねる.md "wikilink")（関西テレビ）- **不定期出演**
-  - [メッセンジャーの○○は大丈夫なのか?](https://ja.wikipedia.org/wiki/メッセンジャーの○○は大丈夫なのか? "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")）- **不定期出演**
   - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")（TBS系列）- **不定期出演**
   - [ダウンタウンのガキの使いやあらへんで\!](../Page/ダウンタウンのガキの使いやあらへんで!.md "wikilink")（日本テレビ系列）- **不定期出演**
   - [クイズ☆正解は一年後](https://ja.wikipedia.org/wiki/クイズ☆正解は一年後 "wikilink")（TBS系列）- **毎年出演**
@@ -123,7 +120,7 @@
   - [おもしろレンタルビデオ スピルバーガー](../Page/おもしろレンタルビデオ_スピルバーガー.md "wikilink")（朝日放送、2000年）
   - [ツッコメディ\!痛快パラダイス](https://ja.wikipedia.org/wiki/ツッコメディ!痛快パラダイス "wikilink")（朝日放送、2000年）
   - [なんやモー目茶苦茶屋](../Page/なんやモー目茶苦茶屋.md "wikilink")（テレビ朝日系、2000年 - 2002年）
-  - ホップ ステップ ベース（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、2001年）
+  - ホップ ステップ ベース（[BS朝日](../Page/ビーエス朝日.md "wikilink")、2001年）
   - フジワラの[百万馬力](../Page/百万馬力.md "wikilink")（朝日放送、2001年）
   - base生電波泥棒B（テレビ大阪、2001年）
   - [特ダネ野郎えぇチーム](https://ja.wikipedia.org/wiki/特ダネ野郎えぇチーム "wikilink")（テレビ朝日系、2002年）
@@ -161,8 +158,10 @@
       - ロンブー淳の一度は行きたい！武将の隠し湯 戦国一の温泉好き！信玄と美人の湯SP\[6\]（2017年2月18日、信越放送制作・TBS系列28局全国ネット）
       - ロンブー淳のじいちゃんばあちゃんに会うテレビ（2018年2月25日、信越放送制作、TBS系列28局全国ネット）
       - ロンブー淳のお宝温泉じゃーにー（2019年2月24日、信越放送製作、TBS系列28局全国ネット）
+  - [名医のTHE太鼓判\!](https://ja.wikipedia.org/wiki/名医のTHE太鼓判! "wikilink")（TBS系、2017年10月9日 - 2020年3月2日）- **レギュラー出演**
   - FUJIWARAの技ありキッチン（[東京MXTV](../Page/東京メトロポリタンテレビジョン.md "wikilink")）
   - FUJIWARAの歩き方 ～世界が認めたニッポン～（2019年9月28日、[岡山放送](../Page/岡山放送.md "wikilink")）
+  - [メッセンジャーの○○は大丈夫なのか?](https://ja.wikipedia.org/wiki/メッセンジャーの○○は大丈夫なのか? "wikilink")（毎日放送）- **不定期出演**
 
 ### ラジオ番組
 

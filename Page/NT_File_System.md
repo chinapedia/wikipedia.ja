@@ -125,7 +125,7 @@ Windows上では規模を拡大するNTFSだが、マイクロソフトの戦略
   - NTFS for Windows98\[16\]
     NTFS for Windows98は、Windows 98からNTFSにアクセスするソフトであったが、Windows 9x系のサポート終了に伴い提供を終えた。
   - 市販のアクセス ドライバ
-    「Paragon NTFS for Mac OS X」（ネットジャパン）[Paragon NTFS for Mac OS X 8](http://www.netjapan.co.jp/r/product_mac/pgm8/) macOSに対応している。
+    「[Microsoft NTFS for Mac by Paragon Software](https://www.paragon-software.com/jp/home/ntfs-mac/)」（パラゴン ソフトウェア社） macOSに対応している。
 
 ## 脚注
 

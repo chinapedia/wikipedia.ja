@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKおはようサンデー](https://ja.wikipedia.org/wiki/NHKおはようサンデー)から翻訳されています。
 
 
 『**NHKおはようサンデー**』（エヌエイチケイ- ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[NHK総合テレビで放送された](../Page/NHK総合テレビジョン.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

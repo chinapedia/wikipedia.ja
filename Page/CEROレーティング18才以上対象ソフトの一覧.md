@@ -1,4 +1,4 @@
-> この記事は[CERO18](https://ja.wikipedia.org/wiki/CERO18)から翻訳されています。
+> この記事は[CEROレーティング18才以上対象ソフトの一覧](https://ja.wikipedia.org/wiki/CEROレーティング18才以上対象ソフトの一覧)から翻訳されています。
 
 
 [CERO_18.svg](https://ja.wikipedia.org/wiki/File:CERO_18.svg "fig:CERO_18.svg") **CEROレーティング18才以上対象ソフトの一覧**（セロレーティング18さいいじょうたいしょうのソフトいちらん）は、[コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（CERO）によるレーティング**旧基準において18才以上対象**とされたゲームソフトの一覧。

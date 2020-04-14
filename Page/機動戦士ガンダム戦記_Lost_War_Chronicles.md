@@ -1,4 +1,4 @@
-> この記事は[ Lost War Chronicles](https://ja.wikipedia.org/wiki/_Lost_War_Chronicles)から翻訳されています。
+> この記事は[機動戦士ガンダム戦記 Lost War Chronicles](https://ja.wikipedia.org/wiki/機動戦士ガンダム戦記_Lost_War_Chronicles)から翻訳されています。
 
 
 『**機動戦士ガンダム戦記 Lost War Chronicles**』（きどうせんしがんだむせんき ロストウォークロニクルズ）は、[2002年](../Page/2002年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")が発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")3D[アクションゲーム](../Page/アクションゲーム.md "wikilink")。後に[PlayStation 3用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『**[機動戦士ガンダム サイドストーリーズ](https://ja.wikipedia.org/wiki/機動戦士ガンダム_サイドストーリーズ "wikilink")**』の一部としてリメイクされた。

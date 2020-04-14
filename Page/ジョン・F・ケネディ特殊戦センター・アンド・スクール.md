@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[ジョン・F・ケネディ特殊戦センター・アンド・スクール](https://ja.wikipedia.org/wiki/ジョン・F・ケネディ特殊戦センター・アンド・スクール)から翻訳されています。
 
 
 **ジョン・F・ケネディ特殊戦センター・アンド・スクール**（ジョン・エフ・ケネディとくしゅせんセンター・アンド・スクール、John F. Kennedy Special Warfare Center and School : USAJFKSWCS）は、[アメリカ陸軍特殊作戦コマンド](../Page/アメリカ陸軍特殊作戦コマンド.md "wikilink")に属する組織。現在は最先端特殊作戦センター（Special Operations Center of Excellence : SOCoE）とも呼ばれている。司令官は陸軍少将。

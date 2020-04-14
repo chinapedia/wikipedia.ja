@@ -1,4 +1,4 @@
-> この記事は[SPAD \(\)](https://ja.wikipedia.org/wiki/SPAD_\(\))から翻訳されています。
+> この記事は[SPAD \(航空機メーカー\)](https://ja.wikipedia.org/wiki/SPAD_\(航空機メーカー\))から翻訳されています。
 
 
 **SPAD**は[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")期の[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[航空機](../Page/航空機.md "wikilink")メーカーである。

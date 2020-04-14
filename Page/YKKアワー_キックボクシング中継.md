@@ -1,4 +1,4 @@
-> この記事は[YKK ](https://ja.wikipedia.org/wiki/YKK_)から翻訳されています。
+> この記事は[YKKアワー キックボクシング中継](https://ja.wikipedia.org/wiki/YKKアワー_キックボクシング中継)から翻訳されています。
 
 
 『**YKKアワー キックボクシング中継**』（ワイケイケイアワー キックボクシングちゅうけい）は、1968年9月30日から1979年3月26日まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/JNN "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[スポーツ中継](../Page/スポーツ中継.md "wikilink")番組である。番組表上では単に「**キックボクシング**」とだけ表記されていた。放送時間は毎週月曜 19:00 - 19:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。
@@ -8,6 +8,8 @@
 [日本キックボクシング協会](https://ja.wikipedia.org/wiki/日本キックボクシング協会 "wikilink")の試合を中心に放送。
 
 前期は複数社提供で放送されていたが、1973年10月からは吉田工業（現:[YKK](../Page/YKK.md "wikilink")）および吉田商事（現:[YKK AP](../Page/YKK_AP.md "wikilink")）のYKKグループ[一社提供](../Page/一社提供.md "wikilink")へ移行した。
+
+1979年3月をもってゴールデンタイムでの放送を終了し、4月から金曜23:30 - 0:00の深夜放送に移行したが、1980年3月に終了した。
 
 ## 出演者
 

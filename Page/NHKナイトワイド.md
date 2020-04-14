@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKナイトワイド](https://ja.wikipedia.org/wiki/NHKナイトワイド)から翻訳されています。
 
 
 『**NHKナイトワイド**』は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで[NHK総合テレビで放送されていた](../Page/NHK総合テレビジョン.md "wikilink")[報道番組](../Page/報道番組.md "wikilink")である。放送時間は毎週月曜 - 土曜 22:30 - 23:25 （[日本標準時](../Page/日本標準時.md "wikilink")）、最終回は23:50までの25分延長版で放送。

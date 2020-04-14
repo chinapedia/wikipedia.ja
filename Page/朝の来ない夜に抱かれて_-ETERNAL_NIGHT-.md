@@ -1,4 +1,4 @@
-> この記事は[ -ETERNAL NIGHT-](https://ja.wikipedia.org/wiki/_-ETERNAL_NIGHT-)から翻訳されています。
+> この記事は[朝の来ない夜に抱かれて -ETERNAL NIGHT-](https://ja.wikipedia.org/wiki/朝の来ない夜に抱かれて_-ETERNAL_NIGHT-)から翻訳されています。
 
 
 『**朝の来ない夜に抱かれて -ETERNAL NIGHT-**』（あさのこないよるにだかれて エターナル ナイト）は[2002年](../Page/2002年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")に[F\&C](../Page/F&C.md "wikilink")・FC03より発売された[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")。日本古来の伝承や[クトゥルー神話を題材にした](https://ja.wikipedia.org/wiki/クトゥルフ神話 "wikilink")[伝奇](https://ja.wikipedia.org/wiki/伝奇 "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。また、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")に[DLsite.com](https://ja.wikipedia.org/wiki/DLsite.com "wikilink")でダウンロード版が独占先行販売された。

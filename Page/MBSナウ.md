@@ -1,4 +1,4 @@
-> この記事は[MBS](https://ja.wikipedia.org/wiki/MBS)から翻訳されています。
+> この記事は[MBSナウ](https://ja.wikipedia.org/wiki/MBSナウ)から翻訳されています。
 
 
 『**MBSナウ**』（エムビーエス・ナウ、英称:*MBS NOW*）は、[1976年](../Page/1976年.md "wikilink")[1月5日](../Page/1月5日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）で放送された[報道番組](../Page/報道番組.md "wikilink")。関西地区で初めて誕生したニュースワイドである\[1\]。番組は単に「**ナウ**」とも呼ばれていた。また、「**NOW**」とも表記されていた。

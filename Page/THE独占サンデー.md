@@ -1,4 +1,4 @@
-> この記事は[THE](https://ja.wikipedia.org/wiki/THE)から翻訳されています。
+> この記事は[THE独占サンデー](https://ja.wikipedia.org/wiki/THE独占サンデー)から翻訳されています。
 
 
 『**The独占サンデー**』（ザ・どくせんサンデー）は、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")・[NNS](../Page/日本テレビネットワーク協議会.md "wikilink")）で、[2000年](../Page/2000年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")までにかけて放送された日曜夕方の[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

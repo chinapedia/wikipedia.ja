@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[スクラップド・プリンセスRPG](https://ja.wikipedia.org/wiki/スクラップド・プリンセスRPG)から翻訳されています。
 
 
 **スクラップド・プリンセスRPG**は、[榊一郎](../Page/榊一郎.md "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")『[スクラップド・プリンセス](../Page/スクラップド・プリンセス.md "wikilink")』を原作とした[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")である。メインデザイナーは黒田和人（[グループSNE](../Page/グループSNE.md "wikilink")）。[2003年](../Page/2003年.md "wikilink")に[富士見書房](../Page/富士見書房.md "wikilink")から文庫版として発売された。

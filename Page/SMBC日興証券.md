@@ -1,4 +1,4 @@
-> この記事は[SMBC](https://ja.wikipedia.org/wiki/SMBC)から翻訳されています。
+> この記事は[SMBC日興証券](https://ja.wikipedia.org/wiki/SMBC日興証券)から翻訳されています。
 
 
 **SMBC日興証券株式会社**（エスエムビーシーにっこうしょうけん、[英称](../Page/英語.md "wikilink")：SMBC Nikko Securities Inc.）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")3大[証券会社](../Page/証券会社.md "wikilink")の一つである総合証券会社。[三井住友フィナンシャルグループ](../Page/三井住友フィナンシャルグループ.md "wikilink")の子会社である。

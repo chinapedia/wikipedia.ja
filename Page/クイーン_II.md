@@ -1,4 +1,4 @@
-> この記事は[ II](https://ja.wikipedia.org/wiki/_II)から翻訳されています。
+> この記事は[クイーン II](https://ja.wikipedia.org/wiki/クイーン_II)から翻訳されています。
 
 
 『**クイーンII**』（***QUEEN II***）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[クイーンの](../Page/クイーン_\(バンド\).md "wikilink")2作目の[アルバム](../Page/アルバム.md "wikilink")である。本国では[1974年](../Page/1974年.md "wikilink")3月に発表され、日本では3か月後の6月に発売された。邦題には『ホワイト・クイーンとブラック・クイーンの啓示』という副題が付けられていた。

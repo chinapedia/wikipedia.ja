@@ -1,4 +1,4 @@
-> この記事は[MG](https://ja.wikipedia.org/wiki/MG)から翻訳されています。
+> この記事は[MGローバー](https://ja.wikipedia.org/wiki/MGローバー)から翻訳されています。
 
 
 **MG ローバー**（*MG Rover Group* ）は、2000年に設立された[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[自動車](../Page/自動車.md "wikilink")会社である。2005年に倒産し、自動車の製造・販売も終了、これにてイギリス資本の自動車メーカー・ブランドは消滅した。

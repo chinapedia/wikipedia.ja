@@ -1,4 +1,4 @@
-> この記事は[ABC NEWS](https://ja.wikipedia.org/wiki/ABC_NEWS)から翻訳されています。
+> この記事は[ABC NEWSゆう](https://ja.wikipedia.org/wiki/ABC_NEWSゆう)から翻訳されています。
 
 
 『**ABC NEWSゆう**』（エービーシー ニューズゆう）は、[朝日放送](../Page/朝日放送グループホールディングス.md "wikilink")（[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")）で放送された[関西ローカル](../Page/関西ローカル.md "wikilink")の[ワイドニュース番組](../Page/報道番組.md "wikilink")。それまでの『[ワイドABCDE〜す](../Page/ワイドABCDE〜す.md "wikilink")』枠内ローカルニュースコーナー『[ワイド630](../Page/ワイド630.md "wikilink")』を分離・独立し、放送時間を1.5倍に増やしてスタート。かつて、ABCの社屋移転前までスタジオは『[ワイドABCDE〜す](../Page/ワイドABCDE〜す.md "wikilink")』から『[ワイド630](../Page/ワイド630.md "wikilink")』『[ムーブ\!](../Page/ムーブ!.md "wikilink")』のものをそのまま使用し、キャスター席の後ろに**NEWSゆう**のタイトルデザインのバックボードが飾られていた。音声は[ステレオ放送](../Page/ステレオ放送.md "wikilink")。[ハイビジョン制作](../Page/ハイビジョン制作.md "wikilink")。

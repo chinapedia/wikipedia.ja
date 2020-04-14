@@ -1,4 +1,4 @@
-> この記事は[SSAWS](https://ja.wikipedia.org/wiki/SSAWS)から翻訳されています。
+> この記事は[ららぽーとスキードームSSAWS](https://ja.wikipedia.org/wiki/ららぽーとスキードームSSAWS)から翻訳されています。
 
 
 [20030927_27_September_2003_SSAWS_Spring_Summer_Autumn_Winter_Snow_1_Funabashi_Chiba_Tokyo_Japan.jpg](https://ja.wikipedia.org/wiki/File:20030927_27_September_2003_SSAWS_Spring_Summer_Autumn_Winter_Snow_1_Funabashi_Chiba_Tokyo_Japan.jpg "fig:20030927_27_September_2003_SSAWS_Spring_Summer_Autumn_Winter_Snow_1_Funabashi_Chiba_Tokyo_Japan.jpg") **ららぽーとスキードームSSAWS** （ららぽーとスキードームザウス） とは、かつて[千葉県](../Page/千葉県.md "wikilink")[船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")[浜町に存在していた屋内](../Page/浜町_\(船橋市\).md "wikilink")[スキー場](../Page/スキー場.md "wikilink")である。通称「ザウス」。

@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ソニー仙台FC](https://ja.wikipedia.org/wiki/ソニー仙台FC)から翻訳されています。
 
 
-**ソニー仙台FC**（ソニーせんだいエフシー）は、[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")（JFL）に所属する[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")の実業団[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。登録チーム名は**ソニー仙台フットボールクラブ**である。
+**ソニー仙台FC**（ソニーせんだいエフシー）は、[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")（JFL）に所属する[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")の実業団[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。登録チーム名は**ソニー仙台フットボールクラブ**である。
 
 ## 概要
 
@@ -160,7 +160,7 @@ OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[
 </tr>
 <tr class="even">
 <td><p><a href="../Page/第1回日本フットボールリーグ.md" title="wikilink">1999</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/日本フットボールリーグ" title="wikilink">JFL</a></p></td>
+<td><p><a href="../Page/日本フットボールリーグ.md" title="wikilink">JFL</a></p></td>
 <td><p><a href="../Page/長澤和明.md" title="wikilink">長澤和明</a></p></td>
 <td><p>24</p></td>
 <td><p>26</p></td>
@@ -521,8 +521,10 @@ OBの[田端秀規](../Page/田端秀規.md "wikilink")が監督に就任し、[
 ### チーム
 
   - 日本フットボールリーグ
-      - **優勝 : 1回** ([2015年](https://ja.wikipedia.org/wiki/第17回日本フットボールリーグ "wikilink"))
+      - **優勝：1回** ([2015年](https://ja.wikipedia.org/wiki/第17回日本フットボールリーグ "wikilink"))
       - **フェアプレー賞** （2014年）
+  - **[全国地域リーグ決勝大会](https://ja.wikipedia.org/wiki/全国地域リーグ決勝大会 "wikilink")**
+      - **優勝：1回** (1997年)
 
 ### 個人
 

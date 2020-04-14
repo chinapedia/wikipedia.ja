@@ -1,4 +1,4 @@
-> この記事は[CNN](https://ja.wikipedia.org/wiki/CNN)から翻訳されています。
+> この記事は[CNNデイウォッチ](https://ja.wikipedia.org/wiki/CNNデイウォッチ)から翻訳されています。
 
 
 『**CNNデイウォッチ**』（シーエヌエヌ デイウォッチ）は、[1984年](../Page/1984年.md "wikilink")（昭和59年）[4月2日](../Page/4月2日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")（平成5年）まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で深夜に放送されていた](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。
@@ -38,6 +38,7 @@
 <td><ul>
 <li><a href="../Page/久和ひとみ.md" title="wikilink">久和ひとみ</a>（1984年4月2日～1989年9月29日[2]）</li>
 <li>川瀬朗子</li>
+<li><a href="https://ja.wikipedia.org/wiki/川瀬眞由美" title="wikilink">川瀬眞由美</a></li>
 <li><a href="../Page/武見敬三.md" title="wikilink">武見敬三</a>（1984年4月2日～）</li>
 <li><a href="../Page/小西克哉.md" title="wikilink">小西克哉</a> （～1989年9月）</li>
 <li><a href="../Page/高木美也子.md" title="wikilink">高木美也子</a>（1987年10月4日～） - 平日→日曜日担当</li>
@@ -48,9 +49,7 @@
 <li><a href="../Page/秋葉忠利.md" title="wikilink">秋葉忠利</a></li>
 <li><a href="../Page/国府弘子.md" title="wikilink">国府弘子</a></li>
 <li><a href="../Page/伊藤信太郎.md" title="wikilink">伊藤信太郎</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/平野陽子" title="wikilink">平野陽子</a></li>
-</ul></td>
-<td><ul>
+<li><a href="https://ja.wikipedia.org/wiki/平野陽子" title="wikilink">平野陽子</a>|</li>
 <li><a href="../Page/首藤信彦.md" title="wikilink">首藤信彦</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/長窪正寛" title="wikilink">長窪正寛</a> - 1992年時点では日曜日担当</li>
 <li><a href="https://ja.wikipedia.org/wiki/菊池眉円美" title="wikilink">菊池眉円美</a> - 1992年時点では日曜日担当</li>

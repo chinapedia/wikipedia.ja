@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKモーニングワイド](https://ja.wikipedia.org/wiki/NHKモーニングワイド)から翻訳されています。
 
 
 『**NHKモーニングワイド**』（エヌエイチケイ モーニングワイド）は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")4月4日まで放送された[NHK総合テレビの](../Page/NHK総合テレビジョン.md "wikilink")[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")である。総合テレビのほか、[BS2でも試験放送の時代から放送されていた](../Page/NHK衛星第2テレビジョン.md "wikilink")。
@@ -123,13 +123,13 @@
 </tr>
 <tr class="even">
 <td><p>1991.5.27</p></td>
-<td><p>不明</p></td>
+<td><p>1991.6.7</p></td>
 <td><p>佐藤淳<sup>5</sup><br />
 草野満代<sup>6</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>不明</p></td>
+<td><p>1991.6.10</p></td>
 <td><p>1992.3.29</p></td>
 <td><p><a href="../Page/黒沢保裕.md" title="wikilink">黒沢保裕</a><br />
 草野満代<sup>6</sup></p></td>

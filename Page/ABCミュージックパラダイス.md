@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCミュージックパラダイス](https://ja.wikipedia.org/wiki/ABCミュージックパラダイス)から翻訳されています。
 
 
 『**ABCミュージックパラダイス**』（エービーシーミュージックパラダイス）とは、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")（朝日放送）で、月曜日～金曜日21:12～25:00に生放送していた[音楽番組](../Page/音楽番組.md "wikilink")である。略して「**ミューパラ**」と呼ばれる。
@@ -42,7 +42,7 @@
   - [芦沢誠](../Page/芦沢誠.md "wikilink")（1991年10月–2001年9月26日）
   - [生瀬勝久](https://ja.wikipedia.org/wiki/生瀬勝久 "wikilink")（1991年10月–1992年12月）
   - [大竹まこと](../Page/大竹まこと.md "wikilink")（1991年10月–1991年12月）
-  - [浦田博信](https://ja.wikipedia.org/wiki/浦田博信 "wikilink")（1992年1月–1992年9月）
+  - [浦田博信](../Page/浦田博信.md "wikilink")（1992年1月–1992年9月）
   - [芝田吾郎](https://ja.wikipedia.org/wiki/芝田吾郎 "wikilink")（1992年10月–1992年12月）
   - [保坂和拓](../Page/保坂和拓.md "wikilink")（1993年1月–1994年3月）
   - [小縣裕介](../Page/小縣裕介.md "wikilink")（1995年1月12日–2008年3月24日）

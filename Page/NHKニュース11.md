@@ -1,4 +1,4 @@
-> この記事は[NHK11](https://ja.wikipedia.org/wiki/NHK11)から翻訳されています。
+> この記事は[NHKニュース11](https://ja.wikipedia.org/wiki/NHKニュース11)から翻訳されています。
 
 
 『**NHKニュース11**』（エヌエイチケイ ニュース・イレブン）は、[1994年](../Page/1994年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")までの期間、[NHK総合テレビジョンで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[日本時間](../Page/日本標準時.md "wikilink")23時台の[ニュース](../Page/ニュース.md "wikilink")ワイド[番組である](../Page/テレビ番組.md "wikilink")。

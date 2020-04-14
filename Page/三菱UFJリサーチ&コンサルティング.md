@@ -1,4 +1,4 @@
-> この記事は[UFJ\&](https://ja.wikipedia.org/wiki/UFJ\&)から翻訳されています。
+> この記事は[三菱UFJリサーチ\&コンサルティング](https://ja.wikipedia.org/wiki/三菱UFJリサーチ\&コンサルティング)から翻訳されています。
 
 
 **三菱UFJリサーチ&コンサルティング株式会社**（みつびしユーエフジェイリサーチアンドコンサルティング）は、UFJ総合研究所と[三菱系ビジネスコンサルティング会社が統合して誕生した](../Page/三菱財閥.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンクタンク](../Page/シンクタンク.md "wikilink")。略称は**MURC**。
@@ -94,6 +94,6 @@
   -
   - [コンサルティング|三菱UFJ銀行](https://www.bk.mufg.jp/houjin/senryaku/consul/)
 
-[Category:日本のシンクタンク](https://ja.wikipedia.org/wiki/Category:日本のシンクタンク "wikilink") [Category:コンサルティングファーム](https://ja.wikipedia.org/wiki/Category:コンサルティングファーム "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/Category:三菱UFJフィナンシャル・グループ "wikilink") [Category:三菱UFJリサーチ&コンサルティングの人物](https://ja.wikipedia.org/wiki/Category:三菱UFJリサーチ&コンサルティングの人物 "wikilink") [Category:三和グループ](https://ja.wikipedia.org/wiki/Category:三和グループ "wikilink") [Category:みどり会](https://ja.wikipedia.org/wiki/Category:みどり会 "wikilink")
+[Category:日本のシンクタンク](https://ja.wikipedia.org/wiki/Category:日本のシンクタンク "wikilink") [Category:日本のコンサルティングファーム](https://ja.wikipedia.org/wiki/Category:日本のコンサルティングファーム "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/Category:三菱UFJフィナンシャル・グループ "wikilink") [Category:三菱UFJリサーチ&コンサルティングの人物](https://ja.wikipedia.org/wiki/Category:三菱UFJリサーチ&コンサルティングの人物 "wikilink") [Category:三和グループ](https://ja.wikipedia.org/wiki/Category:三和グループ "wikilink") [Category:みどり会](https://ja.wikipedia.org/wiki/Category:みどり会 "wikilink")
 
 1.  [メンバー会社一覧 - みどり会](http://www.midorikai.co.jp/member.html)

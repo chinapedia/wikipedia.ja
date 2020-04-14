@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKスタジオパーク](https://ja.wikipedia.org/wiki/NHKスタジオパーク)から翻訳されています。
 
 
 **NHKスタジオパーク**（エヌエイチケイスタジオパーク）は、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")神南の[NHK放送センター](../Page/NHK放送センター.md "wikilink")内に所在する観光施設。[1965年](../Page/1965年.md "wikilink")に「見学者コース」として公開、1985年に「NHK展示プラザ」に改称、放送70周年記念事業の一環として[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月22日](../Page/3月22日.md "wikilink")に視聴者体験型にリニューアルし開業した\[1\]。愛称・略称は**スタパ**。
@@ -558,8 +558,8 @@
 
 ### 交通アクセス
 
-  - [渋谷](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")、[JR](../Page/東日本旅客鉄道.md "wikilink")[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")[原宿](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")、[東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")[明治神宮前](https://ja.wikipedia.org/wiki/明治神宮前駅 "wikilink")、[東京メトロ千代田線](../Page/東京メトロ千代田線.md "wikilink")[代々木公園の各駅から徒歩](https://ja.wikipedia.org/wiki/代々木公園駅 "wikilink")12分
-  - 渋谷駅から[「NHKスタジオパーク」行直行バス](https://ja.wikipedia.org/wiki/京王バス東・永福町営業所#NHK線 "wikilink")（[京王バス東が運行](https://ja.wikipedia.org/wiki/京王電鉄バス#京王バス東 "wikilink")）あり。「[渋谷マークシティ](../Page/渋谷マークシティ.md "wikilink")前」2番乗り場から運行。
+  - 渋谷、[JR](../Page/東日本旅客鉄道.md "wikilink")[山手線](https://ja.wikipedia.org/wiki/山手線 "wikilink")[原宿](https://ja.wikipedia.org/wiki/原宿駅 "wikilink")、[東京メトロ](https://ja.wikipedia.org/wiki/東京地下鉄 "wikilink")[明治神宮前](https://ja.wikipedia.org/wiki/明治神宮前駅 "wikilink")、[東京メトロ千代田線](../Page/東京メトロ千代田線.md "wikilink")[代々木公園の各駅から徒歩](https://ja.wikipedia.org/wiki/代々木公園駅 "wikilink")12分
+  - [渋谷駅](https://ja.wikipedia.org/wiki/渋谷駅 "wikilink")から[「NHKスタジオパーク」行直行バス](https://ja.wikipedia.org/wiki/京王バス東・永福町営業所#NHK線 "wikilink")（[京王バス東が運行](https://ja.wikipedia.org/wiki/京王電鉄バス#京王バス東 "wikilink")）あり。「[渋谷マークシティ](../Page/渋谷マークシティ.md "wikilink")前」2番乗り場から運行。
 
 ## 脚注
 

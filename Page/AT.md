@@ -29,7 +29,7 @@
   - [アシストタイム](https://ja.wikipedia.org/wiki/アシストタイム "wikilink") - [パチスロ](../Page/パチスロ.md "wikilink")の役の一つ。
   - [アディショナルタイム](https://ja.wikipedia.org/wiki/アディショナルタイム "wikilink") (Additional Time)
   - [大西洋時間](../Page/大西洋標準時.md "wikilink") (Atlantic Time) - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[標準時](../Page/標準時.md "wikilink")の一つ。
-  - [学力考査](https://ja.wikipedia.org/wiki/学力考査 "wikilink") (achievement test)
+  - [学力検査](../Page/学力検査.md "wikilink") (achievement test)
   - 医学用語
       - [聴神経腫瘍](https://ja.wikipedia.org/wiki/聴神経腫瘍 "wikilink") (acoustic tumor)
       - [アンチトロンビン](https://ja.wikipedia.org/wiki/アンチトロンビン "wikilink") (antithrombin)

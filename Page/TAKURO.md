@@ -40,6 +40,7 @@
   - その他、影響を受けたミュージシャンに[尾崎豊](../Page/尾崎豊.md "wikilink")や[ブライアン・アダムス](../Page/ブライアン・アダムス.md "wikilink")などを挙げている。近年では、[オアシスのファンであることを公言しており](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、「圧倒的なギターサウンドが、自分にとってすごい心地いい」と語っている。ラジオ番組で、[ノエル・ギャラガー](../Page/ノエル・ギャラガー.md "wikilink")と対談を果たした。
   - GLAYのほとんどの楽曲の作詞・作曲をしている。GLAY内での名義はTAKUROだが、[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")のシングル「[For You／タイム・リミット](https://ja.wikipedia.org/wiki/For_You/タイム・リミット "wikilink")」収録の「タイム・リミット」では、本名のKubo Takuro名義を、[HISASHI](../Page/HISASHI.md "wikilink")との共作の場合はKombinat-12名義を用いている。ただ、本人は自分はプロデューサーは向いていないと語っている。
   - 作詞・作曲に関しては、自身が手がけた「[HOWEVER](../Page/HOWEVER.md "wikilink")」と「[BE WITH YOU](../Page/BE_WITH_YOU_\(GLAYの曲\).md "wikilink")」「[誘惑](../Page/誘惑_\(GLAYの曲\).md "wikilink")」「[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")」「[Winter,again](../Page/Winter,again.md "wikilink")」「[とまどい／SPECIAL THANKS](https://ja.wikipedia.org/wiki/とまどい/SPECIAL_THANKS "wikilink")」の6曲がミリオンセラーを記録している。
+  - 作詞について、GLAYの他のメンバーからは「私生活丸出し」と言われている。
   - ブレイクしてから忙しさのあまりに売れている実感はなかったが、テレビで共演した[渡辺徹に](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")「CD買ったよ」と言われ、「売れているんだ」と実感したという。
   - [1994年](../Page/1994年.md "wikilink") - [1999年](../Page/1999年.md "wikilink")に『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』で連載された『[Harlem Beat](../Page/Harlem_Beat.md "wikilink")』の中に登場したキャラクター「甲斐万丈」のデザインモデルにもなっている。
   - TERU曰く、「これほどGLAYを好きな人は他にいない」とのこと。

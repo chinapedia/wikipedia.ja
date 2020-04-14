@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東海八事球場](https://ja.wikipedia.org/wiki/JR東海八事球場)から翻訳されています。
 
 
 [Monument_of_the_birthplace_of_Senbatsu_20160525.jpg](https://ja.wikipedia.org/wiki/File:Monument_of_the_birthplace_of_Senbatsu_20160525.jpg "fig:Monument_of_the_birthplace_of_Senbatsu_20160525.jpg") **JR東海八事球場**（ジェイアールとうかい やごときゅうじょう）は、かつて[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[昭和区](../Page/昭和区.md "wikilink")にあった[野球場](../Page/野球場.md "wikilink")。[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）が運営管理を行っていたが、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（[平成](../Page/平成.md "wikilink")2年）限りで閉鎖、撤去された。
@@ -15,7 +15,7 @@
 
 [1947年](../Page/1947年.md "wikilink")（昭和22年）、[運輸省](../Page/運輸省.md "wikilink")（国鉄）名古屋鉄道局（のち[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")[名古屋鉄道管理局](../Page/東海旅客鉄道東海鉄道事業本部.md "wikilink")）が山本球場の用地を取得し、同鉄道局の硬式野球部（現[JR東海硬式野球部](../Page/JR東海硬式野球部.md "wikilink")）の練習場として使用し始め、同時期から所在地を冠して**国鉄八事球場**（こくてつ・やごときゅうじょう）と呼ばれるようになった。
 
-また[享栄商業高等学校（現在の享栄高等学校）硬式野球部が専用グラウンドがない時代](../Page/享栄高等学校.md "wikilink")、八事球場を借りて練習していた。享栄商業時代の[金田正一](../Page/金田正一.md "wikilink")の投球練習を国鉄職員の球場管理人が見て驚き、結成されたばかりのプロ野球球団であった[国鉄スワローズの球団幹部に金田のことが報告されて当時の](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[西垣徳雄](../Page/西垣徳雄.md "wikilink")監督が金田のスカウトに乗り出すこととなった逸話もある\[1\]。
+また[享栄商業高等学校（現在の享栄高等学校）硬式野球部が専用グラウンドがない時代](../Page/享栄高等学校.md "wikilink")、八事球場を借りて練習していた\[1\]。享栄商業時代の[金田正一](../Page/金田正一.md "wikilink")の投球練習を国鉄職員の球場管理人が見て驚き、結成されたばかりのプロ野球球団であった[国鉄スワローズの球団幹部に金田のことが報告されて当時の](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")[西垣徳雄](../Page/西垣徳雄.md "wikilink")監督が金田のスカウトに乗り出すこととなった逸話もある\[2\]。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）の国鉄分割民営化の際、名古屋市を中心とする地域はJR東海に移管。八事球場は引き続きJR東海野球部が練習場として使用した。しかし既に老朽化・狭隘化が著しく、また周辺も宅地化し改修や拡張が行えないことから、JR東海の練習グラウンドは[瀬戸市](../Page/瀬戸市.md "wikilink")に移転し、八事球場は1990年（平成2年）を以って閉鎖、撤去された。
 
@@ -31,4 +31,5 @@
 
 [Category:現存しない日本の野球場](https://ja.wikipedia.org/wiki/Category:現存しない日本の野球場 "wikilink") [Category:現存しない愛知県の建築物](https://ja.wikipedia.org/wiki/Category:現存しない愛知県の建築物 "wikilink") [Category:東海地方の野球場](https://ja.wikipedia.org/wiki/Category:東海地方の野球場 "wikilink") [Category:名古屋市のスポーツ施設](https://ja.wikipedia.org/wiki/Category:名古屋市のスポーツ施設 "wikilink") [Category:名古屋市のスポーツ史](https://ja.wikipedia.org/wiki/Category:名古屋市のスポーツ史 "wikilink") [Category:昭和区の歴史](https://ja.wikipedia.org/wiki/Category:昭和区の歴史 "wikilink") [Category:昭和区の建築物](https://ja.wikipedia.org/wiki/Category:昭和区の建築物 "wikilink") [Category:日本国有鉄道の歴史](https://ja.wikipedia.org/wiki/Category:日本国有鉄道の歴史 "wikilink") [Category:JR東海グループの歴史](https://ja.wikipedia.org/wiki/Category:JR東海グループの歴史 "wikilink") [Category:選抜高等学校野球大会](https://ja.wikipedia.org/wiki/Category:選抜高等学校野球大会 "wikilink") [Category:1922年開設のスポーツ施設](https://ja.wikipedia.org/wiki/Category:1922年開設のスポーツ施設 "wikilink") [Category:1990年廃止のスポーツ施設](https://ja.wikipedia.org/wiki/Category:1990年廃止のスポーツ施設 "wikilink") [Category:滝川町_(名古屋市)](https://ja.wikipedia.org/wiki/Category:滝川町_\(名古屋市\) "wikilink")
 
-1.
+1.  現在でも享栄高校の硬式野球部は、名古屋市内にグラウンドを設けることが困難であるという事情から、[瑞穂区](../Page/瑞穂区.md "wikilink")にある学校から郊外に出向いて練習を行っている。かつては[長久手市](https://ja.wikipedia.org/wiki/長久手市 "wikilink")の[栄徳高等学校](https://ja.wikipedia.org/wiki/栄徳高等学校 "wikilink")の隣に硬式野球部のグラウンドが存在したが、[名古屋瀬戸道路](../Page/名古屋瀬戸道路.md "wikilink")の建設に伴い[瀬戸市](../Page/瀬戸市.md "wikilink")台六町に移転した。
+2.

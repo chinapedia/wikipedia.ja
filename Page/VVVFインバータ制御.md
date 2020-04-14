@@ -1,4 +1,4 @@
-> この記事は[VVVF](https://ja.wikipedia.org/wiki/VVVF)から翻訳されています。
+> この記事は[VVVFインバータ制御](https://ja.wikipedia.org/wiki/VVVFインバータ制御)から翻訳されています。
 
 
 **VVVFインバータ制御**（ブイブイブイエフインバータせいぎょ）とは、[交流電動機](https://ja.wikipedia.org/wiki/交流電動機 "wikilink")を、その特性に合わせて任意の[速度](../Page/速度.md "wikilink")、[回転数](https://ja.wikipedia.org/wiki/回転数 "wikilink")で動作させるために、（静止）[インバータ](../Page/インバータ.md "wikilink")を用いて任意の[周波数](../Page/周波数.md "wikilink")と[電圧](../Page/電圧.md "wikilink")を発生させる[制御](https://ja.wikipedia.org/wiki/制御 "wikilink")方式。これを一般に「インバータ方式」というが、[鉄道](../Page/鉄道.md "wikilink")関係ではそれを特に「VVVFインバータ方式」、あるいは「VVVF方式＝[可変電圧可変周波数方式](https://ja.wikipedia.org/wiki/可変電圧可変周波数制御 "wikilink")」と呼んでいる。VVVFは可変電圧可変周波数を[直訳](https://ja.wikipedia.org/wiki/直訳 "wikilink")した[和製英語](../Page/和製英語.md "wikilink")**(Variable Voltage Variable Frequency)**であり、 [英語圏](../Page/英語圏.md "wikilink")ではVFD**(variable-frequency drive)**と言われる\[1\]｡

@@ -1,4 +1,4 @@
-> この記事は[JAPAN WEEKEND](https://ja.wikipedia.org/wiki/JAPAN_WEEKEND)から翻訳されています。
+> この記事は[ニュースJAPAN WEEKEND](https://ja.wikipedia.org/wiki/ニュースJAPAN_WEEKEND)から翻訳されています。
 
 
 『**ニュースJAPAN WEEKEND**』（ニュース・ジャパン ウィークエンド）は、『**[ニュースJAPAN](https://ja.wikipedia.org/wiki/ニュースJAPAN "wikilink")**』の週末版として、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")（[5日深夜](../Page/4月5日.md "wikilink")）から[2003年](../Page/2003年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")（[29日深夜](../Page/3月29日.md "wikilink")）にかけて[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）にて放送された最終版の[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[テーブルトークRPGのタイトル一覧](https://ja.wikipedia.org/wiki/テーブルトークRPGのタイトル一覧)から翻訳されています。
 
 
 **テーブルトークRPGのタイトル一覧**（テーブルトークアールピージーのタイトルいちらん）は、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")の一覧。
@@ -473,7 +473,8 @@
 ## 外部リンク
 
   - [TRPG博物館](http://museum.trpg.biz/) - 日本国内で発売されたTRPGについての情報一覧
-  - [TRPGの書庫](http://homepage2.nifty.com/zuityou/trpgdate/) - 同じく、日本国内で販売されたTRPGの情報一覧（ただし2002年より更新停止）
+
+  - \- 同じく、日本国内で販売されたTRPGの情報一覧（ただし2002年より更新停止）
 
 [sv:Lista över rollspel](https://ja.wikipedia.org/wiki/sv:Lista_över_rollspel "wikilink")
 

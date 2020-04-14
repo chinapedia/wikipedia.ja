@@ -1,4 +1,4 @@
-> この記事は[FNN!](https://ja.wikipedia.org/wiki/FNN!)から翻訳されています。
+> この記事は[FNN朝駆け第一報!](https://ja.wikipedia.org/wiki/FNN朝駆け第一報!)から翻訳されています。
 
 
 『**FNN朝駆け第一報\!**』（エフエヌエヌ あさがけだいいっぽう）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）で放送された朝の[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Trans\' ](https://ja.wikipedia.org/wiki/Trans\'_)から翻訳されています。
+> この記事は[Trans\' 〜僕とあたしの境界線〜](https://ja.wikipedia.org/wiki/Trans\'_〜僕とあたしの境界線〜)から翻訳されています。
 
 
 **Trans' 〜僕とあたしの境界線〜**は[2002年](../Page/2002年.md "wikilink")に[Catear](../Page/Catear.md "wikilink")より発売された[女装](../Page/異性装.md "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。

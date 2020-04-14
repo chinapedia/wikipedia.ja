@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNニュース工場](https://ja.wikipedia.org/wiki/FNNニュース工場)から翻訳されています。
 
 
 『**FNNニュース工場**』（エフエヌエヌニュースこうじょう）は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[9月30日](../Page/9月30日.md "wikilink")までに放送された[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）深夜最終版の総合[報道番組](../Page/報道番組.md "wikilink")。また、この項では前身の『**ニュース工場一本勝負\!**』（ニュースこうじょういっぽんしょうぶ）についても取り上げる。

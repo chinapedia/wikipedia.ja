@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKニュースワイド](https://ja.wikipedia.org/wiki/NHKニュースワイド)から翻訳されています。
 
 
 『**NHKニュースワイド**』（エヌエイチケイニュースワイド、英称: ** ）は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビで放送されていた](../Page/NHK総合テレビジョン.md "wikilink")[朝の情報番組](https://ja.wikipedia.org/wiki/朝の情報番組 "wikilink")・[報道番組](../Page/報道番組.md "wikilink")。

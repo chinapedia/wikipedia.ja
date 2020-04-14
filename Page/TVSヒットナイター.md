@@ -1,4 +1,4 @@
-> この記事は[TVS](https://ja.wikipedia.org/wiki/TVS)から翻訳されています。
+> この記事は[TVSヒットナイター](https://ja.wikipedia.org/wiki/TVSヒットナイター)から翻訳されています。
 
 
 **TVSヒットナイター**は[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")(テレ玉)で放送されている[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")のビジターでの試合を中心にした[プロ野球中継](../Page/プロ野球中継.md "wikilink")の番組タイトルである。なお、埼玉西武ライオンズ主催ゲームは[TVSライオンズアワー](../Page/TVSライオンズアワー.md "wikilink")として放送される。

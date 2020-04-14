@@ -1,4 +1,4 @@
-> この記事は[VIEW Suica](https://ja.wikipedia.org/wiki/VIEW_Suica)から翻訳されています。
+> この記事は[VIEW Suicaカード](https://ja.wikipedia.org/wiki/VIEW_Suicaカード)から翻訳されています。
 
 
 <div class="pathnavbox">

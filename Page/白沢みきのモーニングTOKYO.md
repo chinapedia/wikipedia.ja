@@ -1,4 +1,4 @@
-> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+> この記事は[白沢みきのモーニングTOKYO](https://ja.wikipedia.org/wiki/白沢みきのモーニングTOKYO)から翻訳されています。
 
 
 『**白沢みきのモーニングTOKYO**』（しらさわみきのモーニングとうきょう）は、[東京MXテレビで](../Page/東京メトロポリタンテレビジョン.md "wikilink")[1999年](../Page/1999年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送された早朝の情報番組。メインキャスターは文字通り[白沢みき](../Page/白沢みき.md "wikilink")が担当。放送時間は06:30～08:30。（番組終了時） 通称「**モーTO**」

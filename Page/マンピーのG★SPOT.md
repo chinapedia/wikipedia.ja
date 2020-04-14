@@ -1,4 +1,4 @@
-> この記事は[GSPOT](https://ja.wikipedia.org/wiki/GSPOT)から翻訳されています。
+> この記事は[マンピーのG★SPOT](https://ja.wikipedia.org/wiki/マンピーのG★SPOT)から翻訳されています。
 
 
 「**マンピーのG★SPOT**」（マンピーのジー・スポット）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の35枚目の[シングル](../Page/シングル.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[5月22日](../Page/5月22日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
@@ -88,7 +88,7 @@
 
   - [マンピーのG★SPOT](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=5550&cd=VICL-36035&search_cate=S) - SOUTHERN ALL STARS OFFICIAL SITE
 
-[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:コミックソング](https://ja.wikipedia.org/wiki/Category:コミックソング "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:性を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:性を題材とした楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink")
+[Category:サザンオールスターズの楽曲](https://ja.wikipedia.org/wiki/Category:サザンオールスターズの楽曲 "wikilink") [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:コミックソング](https://ja.wikipedia.org/wiki/Category:コミックソング "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:桑田佳祐が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桑田佳祐が制作した楽曲 "wikilink") [Category:性を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:性を題材とした楽曲 "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
 
 1.  [エロすぎる歌詞が話題に サザンオールスターズの「エロス三部作」](http://a.excite.co.jp/News/90s/20160218/E1455598281088.html) excite 2016年2月18日配信・閲覧
 2.

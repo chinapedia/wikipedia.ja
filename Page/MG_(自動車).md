@@ -1,4 +1,4 @@
-> この記事は[MG \(\)](https://ja.wikipedia.org/wiki/MG_\(\))から翻訳されています。
+> この記事は[MG \(自動車\)](https://ja.wikipedia.org/wiki/MG_\(自動車\))から翻訳されています。
 
 
 **MG**（エム・ジー）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[スポーツカー](../Page/スポーツカー.md "wikilink")の[ブランド](../Page/ブランド.md "wikilink")である。一般的には**MG**は元々、「モーリス・ガレージ」（*Morris Garages* ）を略したものであるとされている\[1\]。現在は、[中国の](../Page/中華人民共和国.md "wikilink")[上海汽車](https://ja.wikipedia.org/wiki/上海汽車 "wikilink")グループ傘下で、[タイ王国](../Page/タイ王国.md "wikilink")や[インド](../Page/インド.md "wikilink")など新興国市場を開拓する役割を担っている\[2\]。

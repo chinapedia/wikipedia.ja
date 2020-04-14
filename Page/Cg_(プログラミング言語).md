@@ -1,4 +1,4 @@
-> この記事は[Cg \(\)](https://ja.wikipedia.org/wiki/Cg_\(\))から翻訳されています。
+> この記事は[Cg \(プログラミング言語\)](https://ja.wikipedia.org/wiki/Cg_\(プログラミング言語\))から翻訳されています。
 
 
 **Cg**は[NVIDIA](../Page/NVIDIA.md "wikilink")が開発していた、リアルタイム[3次元コンピュータグラフィックス](../Page/3次元コンピュータグラフィックス.md "wikilink")における[プログラマブルシェーダー](https://ja.wikipedia.org/wiki/プログラマブルシェーダー "wikilink")のための[シェーディング言語](https://ja.wikipedia.org/wiki/シェーディング言語 "wikilink")である。[2012年](../Page/2012年.md "wikilink")を最後にバージョンアップは終了している。[GPUプログラミングのために特化](../Page/Graphics_Processing_Unit.md "wikilink")・最適化されており、[CG](https://ja.wikipedia.org/wiki/CG "wikilink")描画に向いている。この言語名の由来は「グラフィックスのためのC言語」(C for Graphics) であり、[C言語](../Page/C言語.md "wikilink") ([ANSI C](https://ja.wikipedia.org/wiki/ANSI_C "wikilink")) をベースとした[文法](../Page/文法.md "wikilink")を持つ。また、[C++](../Page/C++.md "wikilink")言語の類似機能も一部取り入れている。

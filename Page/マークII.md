@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[マークII](https://ja.wikipedia.org/wiki/マークII)から翻訳されています。
 
 
 **マークII**（マークツー）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")軍などで改良型を示す**Mk-II**から以下のような名称などに用いられている。

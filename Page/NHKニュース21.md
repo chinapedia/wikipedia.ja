@@ -1,4 +1,4 @@
-> この記事は[NHK21](https://ja.wikipedia.org/wiki/NHK21)から翻訳されています。
+> この記事は[NHKニュース21](https://ja.wikipedia.org/wiki/NHKニュース21)から翻訳されています。
 
 
 『**NHKニュース21**』（エヌエイチケイ ニュース・トゥエンティーワン）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")までにかけて[平日](../Page/平日.md "wikilink")21:00 - 22:00（[JST](../Page/日本標準時.md "wikilink")）に放送された、[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[総合テレビジョンの大型](../Page/NHK総合テレビジョン.md "wikilink")[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")。[NHK衛星第2テレビでも](../Page/NHK衛星第2テレビジョン.md "wikilink")[サイマル放送](../Page/サイマル放送.md "wikilink")していた（衛星第2テレビで特別編成が組まれる場合は[衛星第1テレビで代替放送](../Page/NHK_BS1.md "wikilink")。後継番組『NHKニュース9』以降は、原則としてBSでのサイマル放送を実施していない）。

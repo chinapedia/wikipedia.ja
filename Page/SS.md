@@ -91,7 +91,7 @@
 
   - 軍事・準軍事組織
 
-:\* [ナチス親衛隊](../Page/親衛隊_\(ナチス\).md "wikilink") (Schutzstaffel)
+:\* [ナチス親衛隊](../Page/親衛隊_\(ナチス\).md "wikilink")(Schutzstaffel) 、[武装親衛隊](../Page/武装親衛隊.md "wikilink")
 
 :\* [シーチ銃兵隊](../Page/シーチ銃兵隊.md "wikilink") ()
 

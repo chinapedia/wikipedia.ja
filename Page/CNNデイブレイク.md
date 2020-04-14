@@ -1,4 +1,4 @@
-> この記事は[CNN](https://ja.wikipedia.org/wiki/CNN)から翻訳されています。
+> この記事は[CNNデイブレイク](https://ja.wikipedia.org/wiki/CNNデイブレイク)から翻訳されています。
 
 
 『**CNNデイブレイク**』（シーエヌエヌ デイブレイク）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")までにかけて放送された[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ニュースチャンネル](../Page/ニュースチャンネル.md "wikilink")・[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")の映像を中心に据えた[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ATP](https://ja.wikipedia.org/wiki/ATP)から翻訳されています。
+> この記事は[ATPアーゼ](https://ja.wikipedia.org/wiki/ATPアーゼ)から翻訳されています。
 
 
 **ATPアーゼ**（ATPエース、ATPase、ATPases (ion transport)）とは、[アデノシン三リン酸](../Page/アデノシン三リン酸.md "wikilink") (ATP) の末端[高エネルギーリン酸結合](../Page/高エネルギーリン酸結合.md "wikilink")を[加水分解](../Page/加水分解.md "wikilink")する[酵素](../Page/酵素.md "wikilink")群の総称である（[EC番号](https://ja.wikipedia.org/wiki/EC番号 "wikilink") 3.6.1.3、3.6.3、3.6.4）。ATP は生体内のエネルギー通貨であるから、エネルギーを要する生物活動に関連した[タンパク質](../Page/タンパク質.md "wikilink")であれば、この酵素の活性を持っていることが多い。 日本語ではATPアーゼを「アデノシン三リン酸分解酵素」などと表現できる。なお、「[ホスファターゼ](https://ja.wikipedia.org/wiki/ホスファターゼ "wikilink")」は「リン酸分解酵素」のことであるから、「アデノシン三リン酸ホスファターゼ」という呼び方は「リン酸」の重言となり、正しくない。

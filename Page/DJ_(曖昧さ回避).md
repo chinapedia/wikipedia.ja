@@ -1,4 +1,4 @@
-> この記事は[DJ \(\)](https://ja.wikipedia.org/wiki/DJ_\(\))から翻訳されています。
+> この記事は[DJ \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/DJ_\(曖昧さ回避\))から翻訳されています。
 
 
 **DJ**（ディージェイ）

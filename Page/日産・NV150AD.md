@@ -1,4 +1,4 @@
-> この記事は[NV150AD](https://ja.wikipedia.org/wiki/NV150AD)から翻訳されています。
+> この記事は[日産・NV150AD](https://ja.wikipedia.org/wiki/日産・NV150AD)から翻訳されています。
 
 
 **NV150 AD**（エヌブイイチゴーマル エーディー）は、[日産車体](../Page/日産車体.md "wikilink")が製造、[日産自動車](../Page/日産自動車.md "wikilink")が発売する[商用車](../Page/商用車.md "wikilink")。かつては[OEM](../Page/OEM.md "wikilink")供給モデルとして、[三菱・ランサーカーゴ](../Page/三菱・ランサーカーゴ.md "wikilink")、[マツダ・ファミリアバンと](https://ja.wikipedia.org/wiki/マツダ・ファミリア#OEM "wikilink")[スバル・レオーネ](../Page/スバル・レオーネ.md "wikilink")バンも存在した。

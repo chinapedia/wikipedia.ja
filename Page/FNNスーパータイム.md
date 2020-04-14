@@ -1,4 +1,4 @@
-> この記事は[FNN](https://ja.wikipedia.org/wiki/FNN)から翻訳されています。
+> この記事は[FNNスーパータイム](https://ja.wikipedia.org/wiki/FNNスーパータイム)から翻訳されています。
 
 
 『**FNNスーパータイム**』（エフエヌエヌ - ）は、[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")（[FNN](../Page/フジニュースネットワーク.md "wikilink")）で[1984年](../Page/1984年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")59年）[10月1日](../Page/10月1日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（[平成](../Page/平成.md "wikilink")9年）[3月30日](../Page/3月30日.md "wikilink")（月 - 金曜版は1984年10月1日から1997年[3月28日](../Page/3月28日.md "wikilink")、土日版は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[4月6日](../Page/4月6日.md "wikilink")から1997年3月30日まで）にかけて放送されていた夕方の[ニュース番組](../Page/報道番組.md "wikilink")。略称および番組タイトルコールは「**スーパータイム**」。

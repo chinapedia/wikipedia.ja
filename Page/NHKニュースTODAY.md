@@ -1,4 +1,4 @@
-> この記事は[NHKTODAY](https://ja.wikipedia.org/wiki/NHKTODAY)から翻訳されています。
+> この記事は[NHKニュースTODAY](https://ja.wikipedia.org/wiki/NHKニュースTODAY)から翻訳されています。
 
 
 『**NHKニュースTODAY**』（エヌエイチケイ ニュース・トゥデイ）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）で、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで放送された大型[報道番組](../Page/報道番組.md "wikilink")である。

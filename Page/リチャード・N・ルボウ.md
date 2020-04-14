@@ -1,4 +1,4 @@
-> この記事は[N](https://ja.wikipedia.org/wiki/N)から翻訳されています。
+> この記事は[リチャード・N・ルボウ](https://ja.wikipedia.org/wiki/リチャード・N・ルボウ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Richard_Ned_Lebow_IMG_1882_edit.jpg "wikilink") **リチャード・ネッド・ルボウ**（Richard Ned Lebow, [1942年](../Page/1942年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[国際政治学者](../Page/国際政治学者.md "wikilink")。専攻は、[国際関係論](../Page/国際関係論.md "wikilink")、[危機管理](../Page/危機管理.md "wikilink")論。

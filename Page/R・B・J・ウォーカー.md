@@ -1,4 +1,4 @@
-> この記事は[RBJ](https://ja.wikipedia.org/wiki/RBJ)から翻訳されています。
+> この記事は[R・B・J・ウォーカー](https://ja.wikipedia.org/wiki/R・B・J・ウォーカー)から翻訳されています。
 
 
 **R・B・J・ウォーカー**（**R. B. J. (Rob) Walker**, [1947年](../Page/1947年.md "wikilink")-）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の政治学者。専攻は、[国際関係論](../Page/国際関係論.md "wikilink")、[政治理論](https://ja.wikipedia.org/wiki/政治理論 "wikilink")。

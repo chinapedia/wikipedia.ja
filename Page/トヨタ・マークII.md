@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[トヨタ・マークII](https://ja.wikipedia.org/wiki/トヨタ・マークII)から翻訳されています。
 
 
 **マークII**（MARK II）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")（[昭和](../Page/昭和.md "wikilink")43年）から[2004年](../Page/2004年.md "wikilink")（平成16年）まで製造・販売していた高級乗用車（Dセグメント）である。

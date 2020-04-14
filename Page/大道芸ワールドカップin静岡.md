@@ -1,4 +1,4 @@
-> この記事は[in](https://ja.wikipedia.org/wiki/in)から翻訳されています。
+> この記事は[大道芸ワールドカップin静岡](https://ja.wikipedia.org/wiki/大道芸ワールドカップin静岡)から翻訳されています。
 
 
 **大道芸ワールドカップin静岡**（だいどうげいワールドカップインしずおか）は、毎年11月初旬に[静岡県](../Page/静岡県.md "wikilink")[静岡市](../Page/静岡市.md "wikilink")で開催される[大道芸](../Page/大道芸.md "wikilink")を中心にしたイベントである。

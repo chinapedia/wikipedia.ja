@@ -1,4 +1,4 @@
-> この記事は[JNN22](https://ja.wikipedia.org/wiki/JNN22)から翻訳されています。
+> この記事は[JNNニュース22プライムタイム](https://ja.wikipedia.org/wiki/JNNニュース22プライムタイム)から翻訳されています。
 
 
 『**JNNニュース22プライムタイム**』（ジェイエヌエヌニュースにじゅうにプライムタイム）は、[TBS制作で](../Page/TBSテレビ.md "wikilink")[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")（JNN）にて[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")から[1988年](../Page/1988年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで放送されていた[ニュース番組である](../Page/報道番組.md "wikilink")。なお、タイトルロゴ上では『**ニュース22プライムタイム JNN**』（ニュースにじゅうにプライムタイム ジェイエヌエヌ）と表記された。呼称では『**ニュース22プライムタイムJNN**』であり、時間短縮のためJNNを省略することがあった。

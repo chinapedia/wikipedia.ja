@@ -1,4 +1,4 @@
-> この記事は[MDX](https://ja.wikipedia.org/wiki/MDX)から翻訳されています。
+> この記事は[アキュラ・MDX](https://ja.wikipedia.org/wiki/アキュラ・MDX)から翻訳されています。
 
 
 **MDX**（エムディーエックス）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が生産し、[アキュラ](../Page/アキュラ.md "wikilink")ブランド および ホンダブランド（初代のみ日本国内）で販売する[SUVである](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。

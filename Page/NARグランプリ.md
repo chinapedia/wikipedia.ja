@@ -1,4 +1,4 @@
-> この記事は[NAR](https://ja.wikipedia.org/wiki/NAR)から翻訳されています。
+> この記事は[NARグランプリ](https://ja.wikipedia.org/wiki/NARグランプリ)から翻訳されています。
 
 
 **NARグランプリ**（エヌエーアールグランプリ）は、[地方競馬](../Page/地方競馬.md "wikilink")での活躍をたたえるために、[地方競馬全国協会](../Page/地方競馬全国協会.md "wikilink")（NAR）が1990年度より設けている年間表彰制度である。

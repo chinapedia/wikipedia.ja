@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[テコンV](https://ja.wikipedia.org/wiki/テコンV)から翻訳されています。
 
 
 **テコンV**（Taekwon V、、）は、[1976年](../Page/1976年.md "wikilink")に[韓国で製作された](../Page/大韓民国.md "wikilink")、 劇場用巨大ロボットアニメ作品。

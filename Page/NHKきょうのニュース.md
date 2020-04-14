@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKきょうのニュース](https://ja.wikipedia.org/wiki/NHKきょうのニュース)から翻訳されています。
 
 
 **NHKきょうのニュース**（エヌエイチケイきょうのニュース）は[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[ラジオ第1](../Page/NHKラジオ第1放送.md "wikilink")・[FMラジオ](../Page/NHK-FM放送.md "wikilink")・[NHKワールド・ラジオ日本](../Page/NHKワールド・ラジオ日本.md "wikilink")で放送されているニュース番組である。この番組名は[NHK総合テレビジョン](../Page/NHK総合テレビジョン.md "wikilink")でも用いられていたが、1993年4月より「[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")」として放送される。
@@ -180,7 +180,7 @@
 <!-- end list -->
 
   -
-    ※過去には、平日は[石戸谷健一](../Page/石戸谷健一.md "wikilink")、[加藤昌男](https://ja.wikipedia.org/wiki/加藤昌男 "wikilink")、[伊丹賢太郎](https://ja.wikipedia.org/wiki/伊丹賢太郎 "wikilink")が、土日には[長谷川勝彦](https://ja.wikipedia.org/wiki/長谷川勝彦 "wikilink")などが担当していた。伊藤、末田、野村は過去に[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")の週末キャスターを歴任している。
+    ※過去には、平日は[石戸谷健一](../Page/石戸谷健一.md "wikilink")、[加藤昌男](../Page/加藤昌男.md "wikilink")、[伊丹賢太郎](https://ja.wikipedia.org/wiki/伊丹賢太郎 "wikilink")が、土日には[長谷川勝彦](https://ja.wikipedia.org/wiki/長谷川勝彦 "wikilink")などが担当していた。伊藤、末田、野村は過去に[NHKニュース7](https://ja.wikipedia.org/wiki/NHKニュース7 "wikilink")の週末キャスターを歴任している。
     ※2013年度途中までは祝日は土日担当とは別のアナウンサーが日替わりで担当した。
     ※2017年7月15日から9月3日までは土日祝日は[小見誠広](../Page/小見誠広.md "wikilink")、内藤啓史、野村正育、[山田康弘](https://ja.wikipedia.org/wiki/山田康弘 "wikilink")などが日替わりで担当。
 

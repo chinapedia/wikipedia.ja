@@ -1,4 +1,4 @@
-> この記事は[KJ](https://ja.wikipedia.org/wiki/KJ)から翻訳されています。
+> この記事は[K・J・ホルスティ](https://ja.wikipedia.org/wiki/K・J・ホルスティ)から翻訳されています。
 
 
 **K・J・ホルスティ**（Kalevi J. Holsti, [1935年](../Page/1935年.md "wikilink") - ）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・[ブリティッシュコロンビア大学](../Page/ブリティッシュコロンビア大学.md "wikilink")政治学部名誉教授。専攻は、[国際政治学](../Page/国際政治学.md "wikilink")、[紛争](../Page/紛争.md "wikilink")研究。

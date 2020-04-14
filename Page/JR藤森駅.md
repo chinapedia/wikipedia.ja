@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR藤森駅](https://ja.wikipedia.org/wiki/JR藤森駅)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Fujinomori2.JPG "wikilink") [JR-Fujinomori-Station-from-south.jpg](https://ja.wikipedia.org/wiki/File:JR-Fujinomori-Station-from-south.jpg "fig:JR-Fujinomori-Station-from-south.jpg")
@@ -120,6 +120,10 @@
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>3,104</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>3,159</p></td>
 </tr>
 </tbody>
 </table>

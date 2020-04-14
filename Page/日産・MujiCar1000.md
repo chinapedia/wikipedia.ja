@@ -1,4 +1,4 @@
-> この記事は[MujiCar1000](https://ja.wikipedia.org/wiki/MujiCar1000)から翻訳されています。
+> この記事は[日産・MujiCar1000](https://ja.wikipedia.org/wiki/日産・MujiCar1000)から翻訳されています。
 
 
 <div class="pathnavbox">

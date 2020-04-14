@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR三山木駅](https://ja.wikipedia.org/wiki/JR三山木駅)から翻訳されています。
 
 
 [230px](https://ja.wikipedia.org/wiki/ファイル:JR_Miyamaki_sta_003.jpg "wikilink") [230px](https://ja.wikipedia.org/wiki/ファイル:JR_Miyamaki_sta_002.jpg "wikilink") **JR三山木駅**（ジェイアールみやまきえき）は、[京都府](../Page/京都府.md "wikilink")[京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")三山木高飛にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[片町線](https://ja.wikipedia.org/wiki/片町線 "wikilink")（学研都市線）の[駅](../Page/鉄道駅.md "wikilink")。駅番号は**JR-H22**。
@@ -127,6 +127,10 @@
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>951</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td><p>1,003</p></td>
 </tr>
 </tbody>
 </table>

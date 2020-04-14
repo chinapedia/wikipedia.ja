@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR小倉駅](https://ja.wikipedia.org/wiki/JR小倉駅)から翻訳されています。
 
 
 **JR小倉駅**（ジェイアールおぐらえき）は、[京都府](../Page/京都府.md "wikilink")[宇治市](../Page/宇治市.md "wikilink")小倉町中畑にある、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")。駅番号は**JR-D10**。
@@ -128,6 +128,10 @@
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>1,877</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td><p>1,866</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-> この記事は[MANMAN!](https://ja.wikipedia.org/wiki/MANMAN!)から翻訳されています。
+> この記事は[吉田照美のやる気MANMAN!](https://ja.wikipedia.org/wiki/吉田照美のやる気MANMAN!)から翻訳されています。
 
 
 **吉田照美のやる気MANMAN\!**（よしだてるみのやるきまんまん）は、[文化放送](../Page/文化放送.md "wikilink")で[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（[昭和](../Page/昭和.md "wikilink")62年）[4月6日](../Page/4月6日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")（[平成](../Page/平成.md "wikilink")19年）[3月30日](../Page/3月30日.md "wikilink")まで20年間で放送された平日午後の[ラジオワイド番組](../Page/ラジオ番組.md "wikilink")。[通称](../Page/通称.md "wikilink")『やるMAN』。
@@ -24,7 +24,7 @@
       - 2人の一方が休みの際は主に文化放送アナウンサーやタレントが代役を務めた。「タイムテーブル」節の「もぎたて\! やる気スタート」内、「やるMANお笑いステージ」の記述も参照。
       - パーソナリティ以外のコーナーごとのレギュラー出演者は「タイムテーブル」もしくは「終了以前に存在したコーナー」節の各コーナーの記述を参照。
 
-[thumb](https://ja.wikipedia.org/wiki/画像:文化放送四谷旧社屋\(2006\).jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/画像:文化放送_四谷旧社屋\(2006\).jpg "wikilink")
 
 ## 放送時間の変遷
 

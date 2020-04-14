@@ -1,4 +1,4 @@
-> この記事は[TOTO \(\)](https://ja.wikipedia.org/wiki/TOTO_\(\))から翻訳されています。
+> この記事は[TOTO \(企業\)](https://ja.wikipedia.org/wiki/TOTO_\(企業\))から翻訳されています。
 
 
 **TOTO株式会社**（トートー、）は、[福岡県](../Page/福岡県.md "wikilink")[北九州市](https://ja.wikipedia.org/wiki/北九州市 "wikilink")[小倉北区](../Page/小倉北区.md "wikilink")に本社を置く、[衛生陶器](https://ja.wikipedia.org/wiki/衛生陶器 "wikilink")をはじめとする住宅設備機器などの製造販売を行うメーカーである。TOTOとは、創業時の社名「東洋陶器（とうようとうき。**To**yo **To**ki）」の略である（旧社名の**東陶機器**（とうとうきき）の「東陶」（とうとう）も創業当初の社名から由来）。[森村グループ](../Page/森村グループ.md "wikilink")の一員。[東京証券取引所](../Page/東京証券取引所.md "wikilink")第一部上場。[日経平均株価](../Page/日経平均株価.md "wikilink")採用銘柄。

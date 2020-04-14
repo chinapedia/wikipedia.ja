@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[Q符号](https://ja.wikipedia.org/wiki/Q符号)から翻訳されています。
 
 
 **Q符号**（キューふごう、Q code）とは、国際的に[無線通信](../Page/無線通信.md "wikilink")において用いられるQを頭文字とする3文字の略記号のことで、単に**略符号**とも呼ばれる。

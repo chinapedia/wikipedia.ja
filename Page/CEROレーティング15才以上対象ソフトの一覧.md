@@ -1,4 +1,4 @@
-> この記事は[CERO15](https://ja.wikipedia.org/wiki/CERO15)から翻訳されています。
+> この記事は[CEROレーティング15才以上対象ソフトの一覧](https://ja.wikipedia.org/wiki/CEROレーティング15才以上対象ソフトの一覧)から翻訳されています。
 
 
 **CEROレーティング15才以上対象ソフトの一覧**（セロレーティング15さいいじょうたいしょうのソフトいちらん）は、[コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")（CERO）によるレーティングで**旧基準の 「15才以上対象」および新基準の「C 15才以上対象」**に区分されたゲームソフトの一覧である。
@@ -1383,5 +1383,6 @@ Xbox 360
       - [ロスト プラネット エクストリーム コンディション](../Page/ロスト_プラネット_エクストリーム_コンディション.md "wikilink")
       - [ロストプラネット コロニーズ](https://ja.wikipedia.org/wiki/ロストプラネット_コロニーズ "wikilink")
       - [ロスト プラネット 2](https://ja.wikipedia.org/wiki/ロスト_プラネット_2 "wikilink")
+  - [けものフレンズ3](https://ja.wikipedia.org/wiki/けものフレンズ#ゲーム "wikilink")（コンテンツアイコン：「不明」）
 
 [Category:コンピュータゲームのタイトル一覧](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのタイトル一覧 "wikilink") [Category:コンピュータエンターテインメントレーティング機構](https://ja.wikipedia.org/wiki/Category:コンピュータエンターテインメントレーティング機構 "wikilink")

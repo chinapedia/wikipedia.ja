@@ -1,4 +1,4 @@
-> この記事は[UEFA](https://ja.wikipedia.org/wiki/UEFA)から翻訳されています。
+> この記事は[UEFAインタートトカップ](https://ja.wikipedia.org/wiki/UEFAインタートトカップ)から翻訳されています。
 
 
 **UEFAインタートトカップ**（**UEFA Intertoto Cup**）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が6〜8月に開催する欧州間のクラブによる国際大会。前身は1961年に始まった**International Football Cup**。1995年にUEFAインタートトカップとなる。

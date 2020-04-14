@@ -1,4 +1,4 @@
-> この記事は[NBC](https://ja.wikipedia.org/wiki/NBC)から翻訳されています。
+> この記事は[NBCナイトリーニュース](https://ja.wikipedia.org/wiki/NBCナイトリーニュース)から翻訳されています。
 
 
 『**NBC Nightly News**』（ナイトリー・ニュース）は、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[NBC](../Page/NBC.md "wikilink")で放送されている[NBCニュース](https://ja.wikipedia.org/wiki/NBCニュース "wikilink")製作の[報道番組](../Page/報道番組.md "wikilink")。放送時間は6:30-7:00pm/（ET/PT）。Podcastで無料配信されている。

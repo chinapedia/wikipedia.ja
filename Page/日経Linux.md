@@ -1,4 +1,4 @@
-> この記事は[Linux](https://ja.wikipedia.org/wiki/Linux)から翻訳されています。
+> この記事は[日経Linux](https://ja.wikipedia.org/wiki/日経Linux)から翻訳されています。
 
 
 **日経Linux**（にっけいりなっくす）は、[日経BP社](https://ja.wikipedia.org/wiki/日経BP社 "wikilink")が発行する書店売りの隔月刊[雑誌](../Page/雑誌.md "wikilink")。主に[Linux](../Page/Linux.md "wikilink")や[オープンソース](../Page/オープンソース.md "wikilink")に関する情報を掲載している。

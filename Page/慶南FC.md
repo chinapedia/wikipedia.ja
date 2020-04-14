@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[慶南FC](https://ja.wikipedia.org/wiki/慶南FC)から翻訳されています。
 
 
 **慶南FC**（キョンナムFC、[ハングル](https://ja.wikipedia.org/wiki/ハングル "wikilink"):、）は、[韓国の南東部](../Page/大韓民国.md "wikilink")、[慶尚南道](../Page/慶尚南道.md "wikilink")の[昌原を本拠地とする韓国プロサッカークラブである](https://ja.wikipedia.org/wiki/昌原市 "wikilink")。

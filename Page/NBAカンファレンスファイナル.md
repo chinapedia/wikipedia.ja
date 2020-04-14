@@ -1,4 +1,4 @@
-> この記事は[NBA](https://ja.wikipedia.org/wiki/NBA)から翻訳されています。
+> この記事は[NBAカンファレンスファイナル](https://ja.wikipedia.org/wiki/NBAカンファレンスファイナル)から翻訳されています。
 
 
 **NBAカンファレンスファイナル**　(NBA Conference Finals)は、[NBA](../Page/NBA.md "wikilink")の対戦シリーズの1つであり、[NBAファイナル](../Page/NBAファイナル.md "wikilink")に出場するチームを決定する[NBAプレーオフ](../Page/NBAプレーオフ.md "wikilink")の1シリーズである。東西各カンファレンスの優勝チームを決定する。[NBAファイナル](../Page/NBAファイナル.md "wikilink")を含むプレーオフを、全米チャンピオンを決するトーナメントとして見た場合には[準決勝](../Page/準決勝.md "wikilink")に相当する。**NBAカンファレンス決勝**と呼ばれることもある。

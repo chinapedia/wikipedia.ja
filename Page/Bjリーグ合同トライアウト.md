@@ -1,4 +1,4 @@
-> この記事は[Bj](https://ja.wikipedia.org/wiki/Bj)から翻訳されています。
+> この記事は[Bjリーグ合同トライアウト](https://ja.wikipedia.org/wiki/Bjリーグ合同トライアウト)から翻訳されています。
 
 
 **bjリーグ合同トライアウト**は、株式会社[日本プロバスケットボールリーグ](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")が主催する、入団希望者を対象とする[トライアウト](https://ja.wikipedia.org/wiki/トライアウト "wikilink")である。

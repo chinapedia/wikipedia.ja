@@ -1,4 +1,4 @@
-> この記事は[SWEET 19 BLUES \(\)](https://ja.wikipedia.org/wiki/SWEET_19_BLUES_\(\))から翻訳されています。
+> この記事は[SWEET 19 BLUES \(曲\)](https://ja.wikipedia.org/wiki/SWEET_19_BLUES_\(曲\))から翻訳されています。
 
 
 『**SWEET 19 BLUES**』（スウィート・ナインティーン・ブルース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では7枚目の同名アルバム『[SWEET 19 BLUES](../Page/SWEET_19_BLUES.md "wikilink")』からのリカットシングルで、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースによる楽曲である。

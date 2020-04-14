@@ -1,4 +1,4 @@
-> この記事は[UE](https://ja.wikipedia.org/wiki/UE)から翻訳されています。
+> この記事は[UEリェイダ](https://ja.wikipedia.org/wiki/UEリェイダ)から翻訳されています。
 
 
 **UEリェイダ**（）は、[カタルーニャ州](../Page/カタルーニャ州.md "wikilink")（[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")）の[リェイダ](../Page/リェイダ.md "wikilink")に本拠地を置いていた[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2011年に解散し、**[クルブ・リェイダ・エスポルティウ](https://ja.wikipedia.org/wiki/クルブ・リェイダ・エスポルティウ "wikilink")**(Club Lleida Esportiu)が実質的な後継クラブとして活動している。

@@ -1,4 +1,4 @@
-> この記事は[JNN](https://ja.wikipedia.org/wiki/JNN)から翻訳されています。
+> この記事は[JNNモーニング](https://ja.wikipedia.org/wiki/JNNモーニング)から翻訳されています。
 
 
 『**JNNモーニング**』（ジェイエヌエヌ モーニング）は、[CS衛星放送のJNNニュースバード](../Page/衛星放送.md "wikilink")（現：[TBS NEWS (CS放送)](https://ja.wikipedia.org/wiki/TBS_NEWS_\(CS放送\) "wikilink")）と[BSデジタル放送](https://ja.wikipedia.org/wiki/BSデジタル放送 "wikilink")のBS-i（現：[BS-TBS](../Page/BS-TBS.md "wikilink")）で放映されていた朝の[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")である。なお、BS-iのみの独自タイトルとして『JNNモーニング [i-NEWS](https://ja.wikipedia.org/wiki/i-NEWS "wikilink")』が使われていた。放送開始は『**[JNNイブニング](../Page/JNNイブニング.md "wikilink")**』と同じく、2002年4月から。

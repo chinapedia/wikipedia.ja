@@ -26,6 +26,10 @@
   - オリコン1996年間アーティストセールス1位。
   - 歴代アルバム売り上げ13位。
 
+## 批評
+
+[平山雄一は](https://ja.wikipedia.org/wiki/平山雄一_\(音楽評論家\) "wikilink")「メロディアスなユーロビートは高い声の魅力を引き出すことに重点を置いている」「『PRIVATE』のラップは中域のつぶやく様な声に集点を当てて安室の別の顔を見せてくれる」「雨のSEで始まる『Rainy DANCE』は往年の[ブラック・コンテンポラリー](https://ja.wikipedia.org/wiki/ブラック・コンテンポラリー "wikilink")を思い出させながら、思い切り大人っぽい面を強調する。19歳の安室の1つの可能性だ」「全体的に英語詞のノリに少々無理があるのと、もう少し安室が歌い込んでからレコーディングしてほしかったのが残念だが、日本語詞のキレは相変わらず良い」「セクシーなジャケットと合わせて彼女の"♪誰も見たことのない顔"に出会う。エステやケータイのスキマに吹く風を、小室と安室は『プライベート』というキーワードを通して描いている」と評している\[7\]。
+
 ## 収録曲
 
 ### 楽曲解説
@@ -33,20 +37,20 @@
   - **PRIVATE**
       - 。後期CMではアルバムと同一のヴァージョンが使用された。
   - **Don't wanna cry** (Eighteen's Summer Mix)
-      - 5thシングルのリミックス。グルーヴ感を出すためにシングル盤では打ち込みのベースを生音に差し替えた\[7\]。オリジナルにはなかった歌詞が追加されている他、若干だが、次の「Rainy DANCE」で雨の効果音が流れ、そのまま繋がるように加工されている。
+      - 5thシングルのリミックス。グルーヴ感を出すためにシングル盤では打ち込みのベースを生音に差し替えた\[8\]。オリジナルにはなかった歌詞が追加されている他、若干だが、次の「Rainy DANCE」で雨の効果音が流れ、そのまま繋がるように加工されている。
   - **Chase the Chance** (CC Mix)
-      - 4thシングルのリミックス。バンドサウンド中心のアレンジを施した\[8\]。
+      - 4thシングルのリミックス。バンドサウンド中心のアレンジを施した\[9\]。
   - **present**
-      - シングル「Don't wanna cry」に収録された同名の楽曲の「その後」をテーマに歌詞を書き換え、コーラス・サックスのパートを更に追加した\[9\]。
+      - シングル「Don't wanna cry」に収録された同名の楽曲の「その後」をテーマに歌詞を書き換え、コーラス・サックスのパートを更に追加した\[10\]。
   - **Interlude〜Don't wanna cry Symphonic Style**
-      - シングル「Don't wanna cry」が交響曲風にアレンジされたインタールード\[10\]。
+      - シングル「Don't wanna cry」が交響曲風にアレンジされたインタールード\[11\]。
   - **You're my sunshine** (Hollywood Mix)
-      - 6thシングルのリミックス。アメリカのテレビドラマ「[スパイ大作戦](../Page/スパイ大作戦.md "wikilink")」のメインテーマのフレーズを引用している\[11\]。
+      - 6thシングルのリミックス。アメリカのテレビドラマ「[スパイ大作戦](../Page/スパイ大作戦.md "wikilink")」のメインテーマのフレーズを引用し、ストリングスで奏でている\[12\]。
   - **Body Feels EXIT** (Latin House Mix)
-      - 3rdシングルのリミックス。[ラテン](https://ja.wikipedia.org/wiki/ラテン "wikilink")風のアレンジにしている\[12\]。
+      - 3rdシングルのリミックス。[ラテン](https://ja.wikipedia.org/wiki/ラテン "wikilink")風のアレンジにしている\[13\]。
   - **[SWEET 19 BLUES](../Page/SWEET_19_BLUES_\(曲\).md "wikilink")**
       - 後に7thシングルとしてシングルカット。
-      - シングル盤ではギターは[松尾和博](https://ja.wikipedia.org/wiki/松尾和博 "wikilink")が弾いていたが、本作では[マイケル・トンプソンによって録り直された](https://ja.wikipedia.org/wiki/:en:Michael_Thompson_\(guitarist\) "wikilink")。その際に小室の指示で松尾がディレクションを行い、その際に松尾はプリセットの使い方・スピーカーの音の設定等に大きな影響を受けた\[13\]。
+      - シングル盤ではギターは[松尾和博](https://ja.wikipedia.org/wiki/松尾和博 "wikilink")が弾いていたが、本作では[マイケル・トンプソンによって録り直された](https://ja.wikipedia.org/wiki/:en:Michael_Thompson_\(guitarist\) "wikilink")。その際に小室の指示で松尾がディレクションを行い、その際に松尾はプリセットの使い方・スピーカーの音の設定等に大きな影響を受けた\[14\]。
 
 ## タイアップ
 
@@ -86,16 +90,17 @@
 
 [Category:安室奈美恵のアルバム](https://ja.wikipedia.org/wiki/Category:安室奈美恵のアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:1996年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  株式会社スコラ刊「[スコラ](../Page/スコラ.md "wikilink")」1996年8月8日号123Pより。
+1.  株式会社スコラ刊「[スコラ](../Page/スコラ.md "wikilink")」1996年8月8日号「前人未踏の500万枚を目指す\!?安室奈美恵ニューアルバム魅力解剖」122P-123Pより。
 2.
-3.  株式会社スコラ刊「[スコラ](../Page/スコラ.md "wikilink")」1997年1月9日号31Pより。
-4.  [マガジンハウス](../Page/マガジンハウス.md "wikilink")刊 『[GINZA](../Page/GINZA.md "wikilink")』 2017年4月号111Pより。
+3.  株式会社スコラ刊「[スコラ](../Page/スコラ.md "wikilink")」1997年1月9日号「独占撮り下ろしインタビュー 安室奈美恵スペシャル」31Pより。
+4.  [マガジンハウス](../Page/マガジンハウス.md "wikilink")刊 『[GINZA](../Page/GINZA.md "wikilink")』 2017年4月号「岡村靖幸 presents 音楽のはなし with 小室哲哉」111Pより。
 5.  『[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")』1996年7月19日付東京夕刊。
 6.  [安室奈美恵ディスコグラフィー](http://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 7.
 8.
-9.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1996年9月号63Pより。
-10.
+9.
+10. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1996年9月号「安室奈美恵 夢と理想をつかみとった19歳のソウル&ブルース」63P、「BRAND NEW CD 100」196Pより。
 11.
 12.
-13. [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊『[ギター・マガジン](https://ja.wikipedia.org/wiki/ギター・マガジン "wikilink")』2019年11月号126Pより。
+13.
+14. [リットーミュージック](../Page/リットーミュージック.md "wikilink")刊『[ギター・マガジン](https://ja.wikipedia.org/wiki/ギター・マガジン "wikilink")』2019年11月号「Special Interview 小室サウンドを一手に担ったスゴ腕職人 松尾和博」126Pより。

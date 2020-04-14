@@ -1,4 +1,4 @@
-> この記事は[J-8II \(\)](https://ja.wikipedia.org/wiki/J-8II_\(\))から翻訳されています。
+> この記事は[J-8II \(航空機\)](https://ja.wikipedia.org/wiki/J-8II_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=J-8II（殲撃八型II、Jian-8II、-8II） | 画像=<File:KampfflugzeugF-8China-2009-29-03.jpg> | キャプション=J-8II | 用途=[戦闘機](../Page/戦闘機.md "wikilink") | 分類= | 設計者=第601航空機設計所 | 製造者=瀋陽航空廠（SAF） | 運用者=（[空軍](../Page/中国人民解放軍空軍.md "wikilink")・[海軍](../Page/中国人民解放軍空軍.md "wikilink")） | 運用者 more= | 初飛行年月日=1984年6月12日 | 生産数=260機 | 生産開始年月日= | 運用開始年月日=1988年 | 退役年月日= | 運用状況=現役 | ユニットコスト= }}

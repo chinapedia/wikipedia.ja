@@ -1,4 +1,4 @@
-> この記事は[Key \(\)](https://ja.wikipedia.org/wiki/Key_\(\))から翻訳されています。
+> この記事は[Key \(ゲームブランド\)](https://ja.wikipedia.org/wiki/Key_\(ゲームブランド\))から翻訳されています。
 
 
 **Key**（キー）は、ゲームソフトメーカーである[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")に所属するゲームブランドの一つである。**KEY** ・ **key** ・ **kEy** などの表記も使用される。また、ゲームブランドKeyに所属するシナリオライター [麻枝准](../Page/麻枝准.md "wikilink")の、作曲家として活動する際の個人名義として用いられることもある。

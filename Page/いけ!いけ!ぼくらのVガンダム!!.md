@@ -1,4 +1,4 @@
-> この記事は[!!V!!](https://ja.wikipedia.org/wiki/!!V!!)から翻訳されています。
+> この記事は[いけ!いけ!ぼくらのVガンダム!!](https://ja.wikipedia.org/wiki/いけ!いけ!ぼくらのVガンダム!!)から翻訳されています。
 
 
 『**いけ\! いけ\! ぼくらのVガンダム\!\!**』は、[ことぶきつかさ](../Page/ことぶきつかさ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[1993年](../Page/1993年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")に『[MEDIA COMIX DYNE](https://ja.wikipedia.org/wiki/MEDIA_COMIX_DYNE "wikilink")』（[バンダイ](../Page/バンダイ.md "wikilink")）および『[MS SAGA](../Page/MS_SAGA.md "wikilink")』（[メディアワークス](../Page/メディアワークス.md "wikilink")）に掲載された。

@@ -1,4 +1,4 @@
-> この記事は[GOLDENBEST ](https://ja.wikipedia.org/wiki/GOLDENBEST_)から翻訳されています。
+> この記事は[GOLDEN☆BEST レイジー](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_レイジー)から翻訳されています。
 
 
 『**GOLDEN☆BEST レイジー**』（ゴールデン・ベスト レイジー）は、[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に発売された[レイジー](../Page/レイジー.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。「[ゴールデン☆ベスト](../Page/ゴールデン☆ベスト.md "wikilink")」シリーズの1作。

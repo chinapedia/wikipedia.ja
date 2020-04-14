@@ -1,4 +1,4 @@
-> この記事は[N.W.A \(\)](https://ja.wikipedia.org/wiki/N.W.A_\(\))から翻訳されています。
+> この記事は[N.W.A \(ヒップホップグループ\)](https://ja.wikipedia.org/wiki/N.W.A_\(ヒップホップグループ\))から翻訳されています。
 
 
 **N.W.A**（エヌ・ダブリュ・エー）は、[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[コンプトンで結成された](../Page/コンプトン_\(カリフォルニア州\).md "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")[グループである](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")。名称は**Niggaz Wit Attitudes**（主張する黒人たち）の略。

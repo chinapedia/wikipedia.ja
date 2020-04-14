@@ -1,4 +1,4 @@
-> この記事は[NEW WORLD \(Do As Infinity\)](https://ja.wikipedia.org/wiki/NEW_WORLD_\(Do_As_Infinity\))から翻訳されています。
+> この記事は[NEW WORLD \(Do As Infinityのアルバム\)](https://ja.wikipedia.org/wiki/NEW_WORLD_\(Do_As_Infinityのアルバム\))から翻訳されています。
 
 
 『**NEW WORLD**』（ニュー・ワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")・[Do As Infinityの通算](../Page/Do_As_Infinity.md "wikilink")2枚目の[アルバム](../Page/アルバム.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[OAB](https://ja.wikipedia.org/wiki/OAB)から翻訳されています。
+> この記事は[OABプライムニュース](https://ja.wikipedia.org/wiki/OABプライムニュース)から翻訳されています。
 
 
 『**OABプライムニュース**』（オーエービープライムニュース）は、[1993年](../Page/1993年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[大分朝日放送](../Page/大分朝日放送.md "wikilink")で[平日](../Page/平日.md "wikilink")[夕](../Page/夕.md "wikilink")方に放送されていた[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")発『[ステーションEYE](../Page/ステーションEYE.md "wikilink")』→『[スーパーJチャンネル](https://ja.wikipedia.org/wiki/スーパーJチャンネル "wikilink")』の[大分県](../Page/大分県.md "wikilink")ローカルパート扱い）。

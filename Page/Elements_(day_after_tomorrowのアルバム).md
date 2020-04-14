@@ -1,4 +1,4 @@
-> この記事は[Elements \(day after tomorrow\)](https://ja.wikipedia.org/wiki/Elements_\(day_after_tomorrow\))から翻訳されています。
+> この記事は[Elements \(day after tomorrowのアルバム\)](https://ja.wikipedia.org/wiki/Elements_\(day_after_tomorrowのアルバム\))から翻訳されています。
 
 
 『**elements**』（エレメンツ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニット、[day after tomorrowの](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")に発売された。

@@ -1,4 +1,4 @@
-> この記事は[YBC6](https://ja.wikipedia.org/wiki/YBC6)から翻訳されています。
+> この記事は[YBCジパングあさ6](https://ja.wikipedia.org/wiki/YBCジパングあさ6)から翻訳されています。
 
 
 『**YBCジパングあさ6**』（ワイビーシー ジパングあさろく）は、[山形放送](../Page/山形放送.md "wikilink")（YBCテレビ）で放送されていた朝の[報道](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。全編女性アナウンサーたちが担当していた。

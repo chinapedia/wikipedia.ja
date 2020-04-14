@@ -5,15 +5,13 @@
 
 ## 解説
 
-前週発売の「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」と併せた**シングル2週連続発売**の2週目に発売されたシングル。
+前週発売の「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」と合わせ、**シングル2週連続発売**の2週目に発売されたシングル。
 
 本作リリース前に放映されたCMでは、3作同時シングル発売に引き続き[プロレスラー](../Page/プロレスラー.md "wikilink")の[藤原喜明](../Page/藤原喜明.md "wikilink")が出演している。
 
-初動で約50万枚を売上げ、[オリコンシングルチャート初登場](../Page/オリコンチャート.md "wikilink")1位を記録し、通算5作目の首位獲得となった。前週リリースの「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」が2位を記録したことにより、チャートの1位・2位を独占した。ラルクは既にこの年の7月、「[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")」と「[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")」で1位・2位を独占しており、これにより、史上初の**2度目のチャート1位・2位独占**を記録した。
+通算5作目のオリコン週間シングルチャート初登場1位を記録するとともに、前週リリースの「[snow drop](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink")」が2位を記録したことにより、チャートの1位・2位を独占した。L'Arc〜en〜Cielは既に1998年7月、「[HONEY](../Page/HONEY_\(L'Arc〜en〜Cielの曲\).md "wikilink")」と「[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink")」で1位・2位を独占しており、これにより**史上初の2度目のオリコン週間シングルチャート1位・2位独占**を記録した。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")発売のシングル「[虹](../Page/虹_\(L'Arc〜en〜Cielの曲\).md "wikilink")」での復活からわずか1年の間にラルクは8枚ものシングルをリリースし、一躍有名となった。よく対比される[GLAY](../Page/GLAY.md "wikilink")が、ブレイクするきっかけとなったシングル「[HOWEVER](../Page/HOWEVER.md "wikilink")」リリース後に[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』をリリースしたこともあって、「ラルクは1999年にベスト盤を出す」という噂が流れた。しかし、1999年の元旦、ラルクは「1999年にはベスト盤は出しません。オリジナルアルバムをお楽しみに。」というコメントを新聞広告にて発表している。
-
-なお、当時のL'Arc〜en〜CielとGLAYの対比構造は、当時ラルクの広告クリエイションを務めていた[箭内道彦](../Page/箭内道彦.md "wikilink")による戦略だったと、後年にGLAYの[HISASHI](../Page/HISASHI.md "wikilink")が述べている\[1\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")発売のシングル「[虹](../Page/虹_\(L'Arc〜en〜Cielの曲\).md "wikilink")」での活動再開から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")末までの僅か1年の間に、L'Arc〜en〜Cielは8枚ものシングルをリリースし、一躍有名となった。L'Arc〜en〜Cielと対比されることの多いロックバンド、[GLAY](../Page/GLAY.md "wikilink")が、ブレイクするきっかけとなったシングル「[HOWEVER](../Page/HOWEVER.md "wikilink")」リリース後に[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』をリリースしたこともあり、「ラルクは1999年にベスト盤を出す」という噂が流れた。しかし、[1999年](../Page/1999年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")の新聞朝刊の一面広告で、袴姿のメンバーを背景に『本年もよろしくお願いします。1999年にはベストアルバムは出しません。オリジナルアルバムをお楽しみに。』というコメントを発表している。
 
 ## 収録曲
 
@@ -67,10 +65,4 @@
 
   - 『[ectomorphed works](https://ja.wikipedia.org/wiki/ectomorphed_works "wikilink")』 (\#2,別リミックスバージョン)
 
-## 脚注
-
-<references />
-
 [Category:L'Arc〜en〜Cielの楽曲](https://ja.wikipedia.org/wiki/Category:L'Arc〜en〜Cielの楽曲 "wikilink") [Category:hydeが制作した楽曲](https://ja.wikipedia.org/wiki/Category:hydeが制作した楽曲 "wikilink") [Category:kenが制作した楽曲](https://ja.wikipedia.org/wiki/Category:kenが制作した楽曲 "wikilink") [Category:1998年のシングル](https://ja.wikipedia.org/wiki/Category:1998年のシングル "wikilink") [Category:1998年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
-
-1.  [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")『[モンスターロック](https://ja.wikipedia.org/wiki/モンスターロック "wikilink")』[2017年](../Page/2017年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")放送

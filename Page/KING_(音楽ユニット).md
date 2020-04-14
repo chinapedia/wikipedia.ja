@@ -1,4 +1,4 @@
-> この記事は[KING \(\)](https://ja.wikipedia.org/wiki/KING_\(\))から翻訳されています。
+> この記事は[KING \(音楽ユニット\)](https://ja.wikipedia.org/wiki/KING_\(音楽ユニット\))から翻訳されています。
 
 
 **KING**（キング）は、2003年から2004年まで活動した[女性アイドルグループ](../Page/ダンス.md "wikilink")。[クィーンズアベニューアルファ](https://ja.wikipedia.org/wiki/クィーンズアベニューアルファ "wikilink")所属。代表曲「**WE ARE THE KING**」。

@@ -1,4 +1,4 @@
-> この記事は[Call \(\)](https://ja.wikipedia.org/wiki/Call_\(\))から翻訳されています。
+> この記事は[Call \(オフコースの曲\)](https://ja.wikipedia.org/wiki/Call_\(オフコースの曲\))から翻訳されています。
 
 
 「**call**」（コール）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に発売された[オフコース](https://ja.wikipedia.org/wiki/オフコース "wikilink")通算28枚目の[シングル](../Page/シングル.md "wikilink")。

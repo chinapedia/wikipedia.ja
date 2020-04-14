@@ -1,4 +1,4 @@
-> この記事は[MP-1](https://ja.wikipedia.org/wiki/MP-1)から翻訳されています。
+> この記事は[トヨタ・MP-1](https://ja.wikipedia.org/wiki/トヨタ・MP-1)から翻訳されています。
 
 
 **トヨタ・MP-1**は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が[1975年](../Page/1975年.md "wikilink")の[東京モーターショー](../Page/東京モーターショー.md "wikilink")で参考出品した自動車である。

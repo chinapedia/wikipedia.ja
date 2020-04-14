@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABC諸島](https://ja.wikipedia.org/wiki/ABC諸島)から翻訳されています。
 
 
 [ABCEilandenLocatie.PNG](https://ja.wikipedia.org/wiki/File:ABCEilandenLocatie.PNG "fig:ABCEilandenLocatie.PNG") **ABC諸島**（ ）は、[ベネズエラ](../Page/ベネズエラ.md "wikilink")沖合いの[カリブ海](../Page/カリブ海.md "wikilink")に浮かぶ[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")領の3つの島、[アルバ](../Page/アルバ.md "wikilink")（**A**ruba）、[ボネール](../Page/ボネール島.md "wikilink")（**B**onaire）、[キュラソー](../Page/キュラソー島.md "wikilink")（**C**uraçao）の総称\[1\]。それぞれの頭文字をとっている。

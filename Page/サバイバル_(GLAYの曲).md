@@ -1,4 +1,4 @@
-> この記事は[ \(GLAY\)](https://ja.wikipedia.org/wiki/_\(GLAY\))から翻訳されています。
+> この記事は[サバイバル \(GLAYの曲\)](https://ja.wikipedia.org/wiki/サバイバル_\(GLAYの曲\))から翻訳されています。
 
 
 「**サバイバル**」は、[GLAY](../Page/GLAY.md "wikilink")の[ビデオシングル](https://ja.wikipedia.org/wiki/ビデオシングル "wikilink")。

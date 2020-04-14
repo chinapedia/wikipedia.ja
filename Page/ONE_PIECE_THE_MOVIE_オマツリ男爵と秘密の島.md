@@ -1,4 +1,4 @@
-> この記事は[ONE PIECE THE MOVIE ](https://ja.wikipedia.org/wiki/ONE_PIECE_THE_MOVIE_)から翻訳されています。
+> この記事は[ONE PIECE THE MOVIE オマツリ男爵と秘密の島](https://ja.wikipedia.org/wiki/ONE_PIECE_THE_MOVIE_オマツリ男爵と秘密の島)から翻訳されています。
 
 
 『**ONE PIECE THE MOVIE オマツリ男爵と秘密の島**』（ワンピース ザ ムービー オマツリだんしゃくとひみつのしま）は、[2005年](../Page/2005年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")に公開された日本の[アニメーション映画](../Page/アニメーション映画.md "wikilink")。漫画『[ONE PIECE](../Page/ONE_PIECE.md "wikilink")』を原作とした[テレビアニメの劇場版第](../Page/ONE_PIECE_\(アニメ\).md "wikilink")6作目。

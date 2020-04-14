@@ -58,7 +58,7 @@ FM情報誌としては最後発でありながら、競合誌より安い定価
   - [山内トモコ](https://ja.wikipedia.org/wiki/山内トモコ "wikilink")のトークタイム
   - シネマガイド - [TOKYO FM](../Page/エフエム東京.md "wikilink") [山内トモコのTOKYOエンタテイメント・ステーション](https://ja.wikipedia.org/wiki/山内トモコのTOKYOエンタテイメント・ステーション "wikilink")との連動企画
   - 好きな[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")（歌手）、嫌いなアーティスト（歌手） - 年に1度、読者投票で選ぶコンテスト。前者は本誌で特集が多かった[谷村有美](https://ja.wikipedia.org/wiki/谷村有美 "wikilink")、[遊佐未森](../Page/遊佐未森.md "wikilink")などに票が集中し、後者は当初は演歌歌手（特に[美空ひばり](../Page/美空ひばり.md "wikilink")）やアイドル歌手（特に[ジャニーズ系の男性アイドル](../Page/ジャニーズ事務所.md "wikilink")）、休刊直前は[小室ファミリー](../Page/小室ファミリー.md "wikilink")が上位を占めていた。
-  - FM PHOTO ESSAY - [JFN系](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")　[ハート・オブ・サンデー](../Page/ハート・オブ・サンデー.md "wikilink")との連動企画
+  - FM PHOTO ESSAY - [JFN系](../Page/全国FM放送協議会.md "wikilink")　[ハート・オブ・サンデー](../Page/ハート・オブ・サンデー.md "wikilink")との連動企画
   - AUDIO VUSUAL TRIBUNE/音楽をよりいい音で楽しむためのサウンド新聞 - 新製品[オーディオ](https://ja.wikipedia.org/wiki/オーディオ "wikilink")紹介。
   - [へびいちご](../Page/へびいちご.md "wikilink")島川・無責任編集「音楽業界シバキたおし\!\!」 - 島川の攻撃的な発言に対して、[クレーム](../Page/クレーム.md "wikilink")のハガキが毎号多数届いていた。特に[m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink")ファンとは相当な敵対関係にあった。
   - コレちゃんのDRIVINGギター - ギタリスト・[是方博邦](../Page/是方博邦.md "wikilink")の講師による著名曲を題材にしての誌面簡易ギター教室。

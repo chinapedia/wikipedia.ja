@@ -1,4 +1,4 @@
-> この記事は[MISTY \(\)](https://ja.wikipedia.org/wiki/MISTY_\(\))から翻訳されています。
+> この記事は[MISTY \(雑誌\)](https://ja.wikipedia.org/wiki/MISTY_\(雑誌\))から翻訳されています。
 
 
 『**MISTY**』（ミスティ）は、1980年から2011年まで[実業之日本社](../Page/実業之日本社.md "wikilink")より毎月17日に発売されていた[占い](../Page/占い.md "wikilink")専門の雑誌。編集は[説話社](https://ja.wikipedia.org/wiki/説話社 "wikilink")。同社の『[My Birthday](../Page/My_Birthday.md "wikilink")』と比べ対象年齢が高く、本格的な[占い](../Page/占い.md "wikilink")の記事が多かった。

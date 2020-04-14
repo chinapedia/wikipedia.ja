@@ -28,6 +28,6 @@
 
 ## 外部リンク
 
-  - [Tommy heavenly6／Hey my friend](http://www.sonymusic.co.jp/Music/Arch/DF/Tommyheavenly6/DFCL-1259/index.html)
+  - [Tommy heavenly6／Hey my friend](https://www.sonymusic.co.jp/artist/Tommyheavenly6/discography/DFCL-1259)
 
 [Category:デフスターレコーズのシングル](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのシングル "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:川瀬智子の楽曲](https://ja.wikipedia.org/wiki/Category:川瀬智子の楽曲 "wikilink") [Category:川瀬智子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:川瀬智子が制作した楽曲 "wikilink") [Category:楽曲_へ](https://ja.wikipedia.org/wiki/Category:楽曲_へ "wikilink")

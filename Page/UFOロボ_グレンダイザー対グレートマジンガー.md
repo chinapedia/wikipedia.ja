@@ -1,4 +1,4 @@
-> この記事は[UFO ](https://ja.wikipedia.org/wiki/UFO_)から翻訳されています。
+> この記事は[UFOロボ グレンダイザー対グレートマジンガー](https://ja.wikipedia.org/wiki/UFOロボ_グレンダイザー対グレートマジンガー)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -169,7 +169,7 @@
   - [グレートマジンガー](../Page/グレートマジンガー.md "wikilink")
   - [マジンガーZ](../Page/マジンガーZ.md "wikilink")
 
-[Category:アニメ作品_ゆ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ゆ "wikilink") [Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:1976年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1976年のアニメ映画 "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:フジテレビ系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメのクロスオーバー作品 "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:菊池俊輔の作曲映画](https://ja.wikipedia.org/wiki/Category:菊池俊輔の作曲映画 "wikilink")
+[Category:マジンガーのアニメ](https://ja.wikipedia.org/wiki/Category:マジンガーのアニメ "wikilink") [Category:アニメ作品_ゆ](https://ja.wikipedia.org/wiki/Category:アニメ作品_ゆ "wikilink") [Category:1976年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1976年のアニメ映画 "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:ロボットアニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのクロスオーバー作品 "wikilink") [Category:フジテレビ系アニメのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:フジテレビ系アニメのクロスオーバー作品 "wikilink") [Category:東映・東映アニメーションのロボットアニメ](https://ja.wikipedia.org/wiki/Category:東映・東映アニメーションのロボットアニメ "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:巨大ロボットを題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたアニメ映画 "wikilink") [Category:菊池俊輔の作曲映画](https://ja.wikipedia.org/wiki/Category:菊池俊輔の作曲映画 "wikilink") [Category:渡辺宙明の作曲映画](https://ja.wikipedia.org/wiki/Category:渡辺宙明の作曲映画 "wikilink")
 
 1.  1975年12月に公開された映画化第1作『UFOロボ グレンダイザー』は、TV本編第7話のブロウアップ版。またこの回の『東映まんがまつり』は一部都市のみの上映であるため、全国公開は本作が初。
 2.  甲児の回想シーンでグレートマジンガーを操縦する同作の主人公、剣鉄也の姿が映るのみ。

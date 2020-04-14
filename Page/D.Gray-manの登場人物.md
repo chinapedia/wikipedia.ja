@@ -1,4 +1,4 @@
-> この記事は[D.Gray-man](https://ja.wikipedia.org/wiki/D.Gray-man)から翻訳されています。
+> この記事は[D.Gray-manの登場人物](https://ja.wikipedia.org/wiki/D.Gray-manの登場人物)から翻訳されています。
 
 
 **D.Gray-manの登場人物**（ディーグレイマンのとうじょうじんぶつ）は、「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")」（集英社）において2004年27号から2009年22・23合併号まで連載、以後『[ジャンプスクエア](../Page/ジャンプスクエア.md "wikilink")』において2009年12月号から連載されている[星野桂](../Page/星野桂.md "wikilink")作の[ダーク](../Page/ダーク・ファンタジー.md "wikilink")・[ファンタジー漫画](../Page/ファンタジー漫画.md "wikilink")『[D.Gray-man](../Page/D.Gray-man.md "wikilink")』、およびそれを原作としたテレビアニメ作品に登場する架空の人物について解説する。

@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[ヴィヴィカ・A・フォックス](https://ja.wikipedia.org/wiki/ヴィヴィカ・A・フォックス)から翻訳されています。
 
 
 **ヴィヴィカ・A・フォックス**（Vivica A. Fox、[1964年](../Page/1964年.md "wikilink")[7月30日](../Page/7月30日.md "wikilink") - ）、本名ヴィヴィカ・アンジャネッタ・フォックス（Vivica Anjanetta Fox）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[インディアナ州](../Page/インディアナ州.md "wikilink")[サウスベンド出身の女優](../Page/サウスベンド_\(インディアナ州\).md "wikilink")。**ヴィヴィカ・フォックス**とクレジットされることもある。

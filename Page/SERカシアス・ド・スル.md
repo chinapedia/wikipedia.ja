@@ -1,4 +1,4 @@
-> この記事は[SER](https://ja.wikipedia.org/wiki/SER)から翻訳されています。
+> この記事は[SERカシアス・ド・スル](https://ja.wikipedia.org/wiki/SERカシアス・ド・スル)から翻訳されています。
 
 
 **SERカシアス・ド・スル** () 、通称**カシアス** (Caxias) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")[カシアス・ド・スル](https://ja.wikipedia.org/wiki/カシアス・ド・スル "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

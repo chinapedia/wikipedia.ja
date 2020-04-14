@@ -89,6 +89,6 @@
 
 ## 外部リンク
 
-  - [ディスコグラフィー](http://www.sonymusic.co.jp/artist/AmiSuzuki/discography/AICT-1320)（ソニー・ミュージックエンタテインメント）
+  - [ディスコグラフィー](https://www.sonymusic.co.jp/artist/AmiSuzuki/discography/AICT-1320)（ソニー・ミュージックエンタテインメント）
 
 [Category:鈴木亜美のアルバム](https://ja.wikipedia.org/wiki/Category:鈴木亜美のアルバム "wikilink") [Category:2001年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2001年のベスト・アルバム "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:2001年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンアルバムチャート1位獲得作品 "wikilink")

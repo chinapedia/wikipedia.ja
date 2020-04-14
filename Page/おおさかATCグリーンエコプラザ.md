@@ -1,4 +1,4 @@
-> この記事は[ATC](https://ja.wikipedia.org/wiki/ATC)から翻訳されています。
+> この記事は[おおさかATCグリーンエコプラザ](https://ja.wikipedia.org/wiki/おおさかATCグリーンエコプラザ)から翻訳されています。
 
 
 [Atc_osaka03s3200.jpg](https://ja.wikipedia.org/wiki/File:Atc_osaka03s3200.jpg "fig:Atc_osaka03s3200.jpg") 大阪環境産業振興センター**おおさかATCグリーンエコプラザ**は、[大阪市](../Page/大阪市.md "wikilink")[住之江区](../Page/住之江区.md "wikilink")の[アジア太平洋トレードセンター](../Page/アジア太平洋トレードセンター.md "wikilink")11階にある常設の環境[展示場](https://ja.wikipedia.org/wiki/展示場 "wikilink")で環境保全活動に関係する企業が出展している。見学者も多く出展企業は環境ビジネスチャンス拡大だけでなく、企業の[社会貢献](https://ja.wikipedia.org/wiki/社会貢献 "wikilink")もアピールしている。また、入場者は子供から学識経験者や外国視察団などの幅広い層人が訪れており、環境教育と、環境[産業振興](https://ja.wikipedia.org/wiki/産業振興 "wikilink")との両面の機能を備えている。
@@ -35,7 +35,7 @@
 
 〒559-0034 大阪市住之江区南港北2丁目1-10 [ATCビル](../Page/アジア太平洋トレードセンター.md "wikilink") ITM棟11F西側
 
-  - 交通アクセス： [ニュートラム](../Page/大阪市高速電気軌道南港ポートタウン線.md "wikilink") [トレードセンター前駅](https://ja.wikipedia.org/wiki/トレードセンター前駅 "wikilink") 下車すぐ。
+  - 交通アクセス： [ニュートラム](https://ja.wikipedia.org/wiki/Osaka_Metro南港ポートタウン線 "wikilink") [トレードセンター前駅](https://ja.wikipedia.org/wiki/トレードセンター前駅 "wikilink") 下車すぐ。
 
 ## 関連項目
 

@@ -1,4 +1,4 @@
-> この記事は[Single Best \(day after tomorrow\)](https://ja.wikipedia.org/wiki/Single_Best_\(day_after_tomorrow\))から翻訳されています。
+> この記事は[Single Best \(day after tomorrowのアルバム\)](https://ja.wikipedia.org/wiki/Single_Best_\(day_after_tomorrowのアルバム\))から翻訳されています。
 
 
 『**single Best**』（シングル ベスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニット[day after tomorrowの](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[GOGO!](https://ja.wikipedia.org/wiki/GOGO!)から翻訳されています。
+> この記事は[GOGO!マリオワールド](https://ja.wikipedia.org/wiki/GOGO!マリオワールド)から翻訳されています。
 
 
 『**GOGO\!マリオワールド**』は、[兼本あつこ](https://ja.wikipedia.org/wiki/兼本あつこ "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")。[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")の[マリオシリーズ](../Page/マリオシリーズ.md "wikilink")を題材としている。

@@ -1,4 +1,4 @@
-> この記事は[ DARK RESURRECTION](https://ja.wikipedia.org/wiki/_DARK_RESURRECTION)から翻訳されています。
+> この記事は[鉄拳 DARK RESURRECTION](https://ja.wikipedia.org/wiki/鉄拳_DARK_RESURRECTION)から翻訳されています。
 
 
 『**鉄拳 DARK RESURRECTION**』（てっけんダーク・リザレクション）は、[2006年](../Page/2006年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")に[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")のナムコブランドより発売された[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）用の対戦格闘ゲーム。『**鉄拳DR**』と略される。[アーケードの](../Page/アーケードゲーム.md "wikilink")[鉄拳シリーズ](../Page/鉄拳シリーズ.md "wikilink")である『[鉄拳5 DARK RESURRECTION](https://ja.wikipedia.org/wiki/鉄拳5_DARK_RESURRECTION "wikilink")』のPSP移殖版だが、様々な追加要素が施されている。[2007年](../Page/2007年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")には「PSP The BEST」として廉価版が発売された。

@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK放送博物館](https://ja.wikipedia.org/wiki/NHK放送博物館)から翻訳されています。
 
 
 **NHK放送博物館**（エヌエイチケイほうそうはくぶつかん、）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink") (NHK)が運営する[放送](../Page/放送.md "wikilink")に関する[博物館](../Page/博物館.md "wikilink")である。

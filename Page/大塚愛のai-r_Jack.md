@@ -1,4 +1,4 @@
-> この記事は[ai-r Jack](https://ja.wikipedia.org/wiki/ai-r_Jack)から翻訳されています。
+> この記事は[大塚愛のai-r Jack](https://ja.wikipedia.org/wiki/大塚愛のai-r_Jack)から翻訳されています。
 
 
 「**大塚愛のai-r Jack**」（おおつかあいのエアージャック）は、全国31局ネット（当コーナー放送時）の[文化放送](../Page/文化放送.md "wikilink")『[レコメン\!](../Page/レコメン!.md "wikilink")』内で放送されていたコーナー。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")。放送時間は、毎週[月曜日](../Page/月曜日.md "wikilink")～[木曜日](../Page/木曜日.md "wikilink")の24:30-24:35（ただし1コーナーであったため、多少変動する(2分程度早く始まる)場合もあった）。[2007年](../Page/2007年.md "wikilink")[9月10日](../Page/9月10日.md "wikilink")の放送で番組が終了されることが発表され、同年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")で放送終了した。但し、同年[12月12日](../Page/12月12日.md "wikilink")のレコメンでは復活スペシャルを放送した。

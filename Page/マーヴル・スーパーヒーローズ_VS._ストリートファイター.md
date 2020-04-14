@@ -1,4 +1,4 @@
-> この記事は[ VS. ](https://ja.wikipedia.org/wiki/_VS._)から翻訳されています。
+> この記事は[マーヴル・スーパーヒーローズ VS. ストリートファイター](https://ja.wikipedia.org/wiki/マーヴル・スーパーヒーローズ_VS._ストリートファイター)から翻訳されています。
 
 
 『**マーヴル・スーパーヒーローズ VS. ストリートファイター**』（－バーサス－）（*MARVEL SUPER HEROES VS. STREET FIGHTER*）は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[カプコン](../Page/カプコン.md "wikilink")が[アーケードで稼動した](../Page/アーケードゲーム.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。本項目においてはゲームのタイトル、および当時の記述にならいMARVELの表記をマーヴルに統一する。略称は『**マヴスト**』など。

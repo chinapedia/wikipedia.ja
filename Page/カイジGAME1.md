@@ -1,4 +1,4 @@
-> この記事は[GAME1](https://ja.wikipedia.org/wiki/GAME1)から翻訳されています。
+> この記事は[カイジGAME1](https://ja.wikipedia.org/wiki/カイジGAME1)から翻訳されています。
 
 
 『**カイジGAME1**』は、[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2002年](../Page/2002年.md "wikilink")～[2003年](../Page/2003年.md "wikilink")に放送された[番組](../Page/番組.md "wikilink")。

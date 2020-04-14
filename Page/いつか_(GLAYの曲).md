@@ -1,4 +1,4 @@
-> この記事は[ \(GLAY\)](https://ja.wikipedia.org/wiki/_\(GLAY\))から翻訳されています。
+> この記事は[いつか \(GLAYの曲\)](https://ja.wikipedia.org/wiki/いつか_\(GLAYの曲\))から翻訳されています。
 
 
 『**いつか**』は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[GLAY](../Page/GLAY.md "wikilink")のDVDシングルである。[2003年](../Page/2003年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")にリリースされた。

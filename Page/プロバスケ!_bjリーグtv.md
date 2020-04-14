@@ -1,4 +1,4 @@
-> この記事は[! bjtv](https://ja.wikipedia.org/wiki/!_bjtv)から翻訳されています。
+> この記事は[プロバスケ! bjリーグtv](https://ja.wikipedia.org/wiki/プロバスケ!_bjリーグtv)から翻訳されています。
 
 
 『**プロバスケ\! bjリーグtv**』は、[BSフジ](../Page/BSフジ.md "wikilink")で放送していた、[日本プロバスケットボールリーグ](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")（bjリーグ）のダイジェスト番組。

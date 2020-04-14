@@ -1,4 +1,4 @@
-> この記事は[M \(\)](https://ja.wikipedia.org/wiki/M_\(\))から翻訳されています。
+> この記事は[M \(ミュージシャン\)](https://ja.wikipedia.org/wiki/M_\(ミュージシャン\))から翻訳されています。
 
 
 **M**（エム）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[ロビン・スコット](https://ja.wikipedia.org/wiki/ロビン・スコット "wikilink")による[音楽ユニット](../Page/音楽ユニット.md "wikilink")。

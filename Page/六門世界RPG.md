@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[六門世界RPG](https://ja.wikipedia.org/wiki/六門世界RPG)から翻訳されています。
 
 
 『**六門世界RPG**』（ろくもんせかいアールピージー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ファンタジー](../Page/ファンタジー.md "wikilink")[TRPG](../Page/テーブルトークRPG.md "wikilink")。[グループSNE](../Page/グループSNE.md "wikilink")の製作（監修・[安田均](../Page/安田均.md "wikilink")、メインデザイナー・[加藤ヒロノリ](https://ja.wikipedia.org/wiki/加藤ヒロノリ "wikilink")）。[2003年](../Page/2003年.md "wikilink")夏に[富士見書房](../Page/富士見書房.md "wikilink")が第1版ルールブックを発売し、それ以降は富士見書房と[新紀元社](../Page/新紀元社.md "wikilink")より製品が発売された。[2007年](../Page/2007年.md "wikilink")7月には、大幅にルールを変更した第2版が「六門世界RPGセカンドエディション」として新紀元社より発行された。本作は[モンスター・コレクション](../Page/モンスター・コレクション.md "wikilink")シリーズの一環をなす。

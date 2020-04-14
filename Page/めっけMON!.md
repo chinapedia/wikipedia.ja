@@ -1,4 +1,4 @@
-> この記事は[MON!](https://ja.wikipedia.org/wiki/MON!)から翻訳されています。
+> この記事は[めっけMON!](https://ja.wikipedia.org/wiki/めっけMON!)から翻訳されています。
 
 
 『**めっけMON\!**』（めっけもん）とは、[2001年](../Page/2001年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")から[9月18日](../Page/9月18日.md "wikilink")まで、[TBS系列で放送された](../Page/TBSテレビ.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。放送時間は、毎週[火曜](../Page/火曜日.md "wikilink")19:00 - 19:54（[JST](../Page/日本標準時.md "wikilink")）。

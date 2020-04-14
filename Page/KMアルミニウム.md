@@ -1,4 +1,4 @@
-> この記事は[KM](https://ja.wikipedia.org/wiki/KM)から翻訳されています。
+> この記事は[KMアルミニウム](https://ja.wikipedia.org/wiki/KMアルミニウム)から翻訳されています。
 
 
 **KMアルミニウム株式会社**は[アルミ](https://ja.wikipedia.org/wiki/アルミ "wikilink")合金ビレット・スラブ、高純度アルミ、アルミ鋳物用合金、アルミ鍛造用素材、アルミ鋳物製品、半導体製造装置用部品等の製造・販売を行う会社である。

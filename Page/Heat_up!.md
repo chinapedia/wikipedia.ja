@@ -8,11 +8,19 @@
   - 前作『[Spirits\!\!](https://ja.wikipedia.org/wiki/Spirits!! "wikilink")』から約10ヶ月振りのリリース。
   - 本作は初回生産限定、通常盤の2形態で発売。
   - 2006年5月から6月にかけて行われたライブツアー『関ジャニ∞ Concert Tour 2006 Funky Tokyo Osaka Nagoya』の千秋楽である[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館公演を収録。
-  - 初回生産限定盤の特典DVDには、収録コントとは別バージョンのコント「**∞（エイト）レンジャー ～あった！黒バイク…！？～**」と本公演のダブルアンコールの「**[好きやねん、大阪。](https://ja.wikipedia.org/wiki/好きやねん、大阪。/桜援歌\(Oh!ENKA\)/無限大 "wikilink")**」と
-
-「**[∞SAKAおばちゃんROCK](https://ja.wikipedia.org/wiki/∞SAKAおばちゃんROCK/大阪ロマネスク "wikilink")**」のMVを収録。
-
+  - 初回生産限定盤の特典DVDには、収録コントとは別バージョンのコント「**∞（エイト）レンジャー ～あった！黒バイク…！？～**」と本公演のダブルアンコールの「**[好きやねん、大阪。](https://ja.wikipedia.org/wiki/好きやねん、大阪。/桜援歌\(Oh!ENKA\)/無限大 "wikilink")**」と「**[∞SAKAおばちゃんROCK](https://ja.wikipedia.org/wiki/∞SAKAおばちゃんROCK/大阪ロマネスク "wikilink")**」のMVを収録。
   - 2006年9月18日付のオリコンDVD総合チャート及び音楽DVDチャートで初登場1位を記録し、『[Excite\!\!](https://ja.wikipedia.org/wiki/Excite!! "wikilink")』、『[Spirits\!\!](https://ja.wikipedia.org/wiki/Spirits!! "wikilink")』、『[DREAM BOYS](../Page/DREAM_BOY.md "wikilink")』（[KAT-TUN](https://ja.wikipedia.org/wiki/KAT-TUN "wikilink")と共演）に続き、4作連続でオリコン音楽DVD1位を獲得した。
+
+## 販売形態
+
+  - 発売日：2006年9月6日
+      - **初回生産限定盤（TEBH-28、DVD-60018：2DVD）**
+          - 特典DVD封入
+          - おたのしみ B券（応募ハガキ）封入
+      - **通常盤（TEBH-38：DVD）**
+  - 発売日：2015年7月1日
+      - **通常盤：再発売（JABA-5210：DVD）**
+          - 自身の所属レコード会社を『[テイチクエンタテインメント](../Page/テイチクエンタテインメント.md "wikilink")』から『[INFINITY RECORDS](https://ja.wikipedia.org/wiki/INFINITY_RECORDS "wikilink")』へ移籍したため、INFINITY RECORDSより再発売。
 
 ## 収録内容
 
@@ -27,7 +35,8 @@
 
             <div class="NavContent" style="text-align: left;font-size:small;">
 
-            作詞：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")　作曲：森元康介
+            作詞：[TAKESHI](https://ja.wikipedia.org/wiki/TAKESHI "wikilink")
+            作曲：森元康介
 
             </div>
     3.  **[浪花いろは節](../Page/浪花いろは節.md "wikilink")**
@@ -39,7 +48,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")　作曲：[陶山隼](https://ja.wikipedia.org/wiki/陶山隼 "wikilink")
+        作詞：[渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")
+        作曲：[陶山隼](https://ja.wikipedia.org/wiki/陶山隼 "wikilink")
 
         </div>
 7.  **[果テナキ空](../Page/KJ1_F・T・O.md "wikilink")** - [安田章大](../Page/安田章大.md "wikilink")・[錦戸亮](../Page/錦戸亮.md "wikilink")
@@ -53,7 +63,8 @@
 
             <div class="NavContent" style="text-align: left;font-size:small;">
 
-            作詞：岡部真理子　作曲：[Gajin](../Page/Gajin.md "wikilink")
+            作詞：岡部真理子
+            作曲：[Gajin](../Page/Gajin.md "wikilink")
 
             </div>
     5.  コント2
@@ -71,7 +82,8 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        作詞：相田毅　作曲：谷本新
+        作詞：相田毅
+        作曲：谷本新
 
         </div>
 13. **[Cool magic city](../Page/浪花いろは節.md "wikilink")**

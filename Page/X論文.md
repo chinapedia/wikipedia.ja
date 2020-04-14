@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[X論文](https://ja.wikipedia.org/wiki/X論文)から翻訳されています。
 
 
 [George_F._Kennan_1947.jpg](https://ja.wikipedia.org/wiki/File:George_F._Kennan_1947.jpg "fig:George_F._Kennan_1947.jpg") **X論文**（）は、[アメリカ国務省の](../Page/アメリカ合衆国国務省.md "wikilink")[政策企画本部長](https://ja.wikipedia.org/wiki/政策企画本部長 "wikilink")[ジョージ・F・ケナン](https://ja.wikipedia.org/wiki/ジョージ・F・ケナン "wikilink")（George F. Kennan）が『[フォーリン・アフェアーズ](../Page/フォーリン・アフェアーズ.md "wikilink")（*Foreign Affairs*）』誌（1947年7月号）に寄稿した[論文](../Page/論文.md "wikilink")である。正式名は『**ソヴィエトの行動の源泉**（*The Sources of Soviet Conduct）*』。発表時の著者名が「X」となっていたことから、「X論文」と通称する（ただし、筆者がケナンであることは早くから知られていた）。

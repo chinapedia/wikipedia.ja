@@ -1,4 +1,4 @@
-> この記事は[YBC V](https://ja.wikipedia.org/wiki/YBC_V)から翻訳されています。
+> この記事は[YBCジュニア放送局 君にVキュン](https://ja.wikipedia.org/wiki/YBCジュニア放送局_君にVキュン)から翻訳されています。
 
 
 『**YBCジュニア放送局 君にVキュン**』（ワイビーシージュニアほうそうきょく きみにブイキュン）は、[山形放送](../Page/山形放送.md "wikilink")テレビでかつて放送されていた[山形県](../Page/山形県.md "wikilink")内の小中学生をターゲットにしたローカル生[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。放送期間は[1984年](../Page/1984年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink") - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")で、放送時間は月曜 - 金曜 17:30 - 18:00（[JST](../Page/日本標準時.md "wikilink")）。

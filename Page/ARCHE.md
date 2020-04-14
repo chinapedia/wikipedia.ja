@@ -112,7 +112,7 @@
 
 ## 外部リンク
 
-  - [ARCHE（アーチ）オフィシャルブログ](http://ameblo.jp/arche0920/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
+  - [ARCHE（アーチ）オフィシャルブログ](https://ameblo.jp/arche0920/) - [アメーバブログ](../Page/アメーバブログ.md "wikilink")
 
   -
   -

@@ -1,4 +1,4 @@
-> この記事は[TSK](https://ja.wikipedia.org/wiki/TSK)から翻訳されています。
+> この記事は[TSKスーパーニュース](https://ja.wikipedia.org/wiki/TSKスーパーニュース)から翻訳されています。
 
 
 『**TSKスーパーニュース**』（ティーエスケイスーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*TSK Super NEWS*）は、[山陰中央テレビで放送された](https://ja.wikipedia.org/wiki/山陰中央テレビジョン放送 "wikilink")[夕](../Page/夕.md "wikilink")方の[山陰地方](../Page/山陰地方.md "wikilink")向け[ローカルワイドニュース番組](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（[地上デジタル放送のみ](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

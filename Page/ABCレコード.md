@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCレコード](https://ja.wikipedia.org/wiki/ABCレコード)から翻訳されています。
 
 
 **ABCレコード**（ABC Records, Inc）は1955年から1979年にかけて存続した[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[レコード会社](../Page/レコード会社.md "wikilink")、[レコードレーベル](../Page/レコードレーベル.md "wikilink")。当初は**ABCパラマウント・レコード**（ABC-Paramount Records, Inc）であったが、1966年にABCレコードに改称した。

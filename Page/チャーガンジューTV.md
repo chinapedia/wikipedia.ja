@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[チャーガンジューTV](https://ja.wikipedia.org/wiki/チャーガンジューTV)から翻訳されています。
 
 
 『**チャーガンジューTV**』（チャーガンジューテレビ）とは、[2006年](../Page/2006年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[琉球朝日放送](../Page/琉球朝日放送.md "wikilink")（QAB）で毎月最終土曜 24:30 - 25:25（日付は[日曜未明](../Page/日曜日.md "wikilink")）に放送されていたローカル[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[ABCマート](../Page/ABCマート.md "wikilink")の一社提供。

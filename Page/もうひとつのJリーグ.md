@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[もうひとつのJリーグ](https://ja.wikipedia.org/wiki/もうひとつのJリーグ)から翻訳されています。
 
 
 『**もうひとつのJリーグ**』は、[日本テレビ系列で](../Page/日本テレビネットワーク協議会.md "wikilink")[1993年](../Page/1993年.md "wikilink")[10月22日](../Page/10月22日.md "wikilink")から[12月3日](../Page/12月3日.md "wikilink")まで毎週[金曜](../Page/金曜日.md "wikilink")20:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。

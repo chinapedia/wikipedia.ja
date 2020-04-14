@@ -1,4 +1,4 @@
-> この記事は[Jr.](https://ja.wikipedia.org/wiki/Jr.)から翻訳されています。
+> この記事は[サンコンJr.](https://ja.wikipedia.org/wiki/サンコンJr.)から翻訳されています。
 
 
 **サンコンJr.**（サンコンジュニア、[1970年](../Page/1970年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - ）は、[ウルフルズ](../Page/ウルフルズ.md "wikilink")の[ドラマー](../Page/ドラマー.md "wikilink")である。

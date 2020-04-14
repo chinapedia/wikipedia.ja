@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[フェルナンド・J・コルバト](https://ja.wikipedia.org/wiki/フェルナンド・J・コルバト)から翻訳されています。
 
 
 **フェンルナンド・ホセ・コルバト**（*Fernando José Corbató*、[1926年](../Page/1926年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") - [2019年](../Page/2019年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")\[1\]）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[計算機科学](../Page/計算機科学.md "wikilink")者であり、[タイムシェアリング](../Page/タイムシェアリングシステム.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")の先駆的開発で特に知られている。

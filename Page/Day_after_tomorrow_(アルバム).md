@@ -1,4 +1,4 @@
-> この記事は[Day after tomorrow \(\)](https://ja.wikipedia.org/wiki/Day_after_tomorrow_\(\))から翻訳されています。
+> この記事は[Day after tomorrow \(アルバム\)](https://ja.wikipedia.org/wiki/Day_after_tomorrow_\(アルバム\))から翻訳されています。
 
 
 『**day after tomorrow**』（デイ アフター トゥモロー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニット、[day after tomorrowの](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")[ミニアルバム](https://ja.wikipedia.org/wiki/アルバム#長さによる分類 "wikilink")。

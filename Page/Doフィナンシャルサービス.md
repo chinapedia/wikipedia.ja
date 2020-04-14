@@ -1,4 +1,4 @@
-> この記事は[Do](https://ja.wikipedia.org/wiki/Do)から翻訳されています。
+> この記事は[Doフィナンシャルサービス](https://ja.wikipedia.org/wiki/Doフィナンシャルサービス)から翻訳されています。
 
 
 **株式会社Doフィナンシャルサービス**(**Do Financial Service Co.,LTD.**)は、日本のみなし[貸金業者](https://ja.wikipedia.org/wiki/貸金業者 "wikilink")である。

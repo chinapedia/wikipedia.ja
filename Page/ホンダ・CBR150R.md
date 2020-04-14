@@ -1,4 +1,4 @@
-> この記事は[CBR150R](https://ja.wikipedia.org/wiki/CBR150R)から翻訳されています。
+> この記事は[ホンダ・CBR150R](https://ja.wikipedia.org/wiki/ホンダ・CBR150R)から翻訳されています。
 
 
 **CBR150R**（シービーアールひゃくごじゅうアール）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が製造販売する[オートバイ](../Page/オートバイ.md "wikilink")である。

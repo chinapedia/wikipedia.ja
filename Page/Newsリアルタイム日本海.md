@@ -1,4 +1,4 @@
-> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+> この記事は[Newsリアルタイム日本海](https://ja.wikipedia.org/wiki/Newsリアルタイム日本海)から翻訳されています。
 
 
 『**Newsリアルタイム日本海**』（ニュースリアルタイムにほんかい）は、[日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink") (NKT) の平日夕方の[ニュース番組](../Page/報道番組.md "wikilink")（[山陰準広域圏ローカル](../Page/山陰地方.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[\* canary\*lunar Market](https://ja.wikipedia.org/wiki/\*_canary\*lunar_Market)から翻訳されています。
+> この記事は[ゆかな\*はるな canary\*lunar Market](https://ja.wikipedia.org/wiki/ゆかな\*はるな_canary\*lunar_Market)から翻訳されています。
 
 
 **ゆかな＊はるな canary\*lunar Market**（ゆかな・はるな カナルナマーケット）は、[音泉](../Page/音泉.md "wikilink")・[BEWE](../Page/BEWE.md "wikilink")で配信されていたオリジナル[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。

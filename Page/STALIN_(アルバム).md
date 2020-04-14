@@ -1,4 +1,4 @@
-> この記事は[STALIN \(\)](https://ja.wikipedia.org/wiki/STALIN_\(\))から翻訳されています。
+> この記事は[STALIN \(アルバム\)](https://ja.wikipedia.org/wiki/STALIN_\(アルバム\))から翻訳されています。
 
 
 『**STALIN**』（スターリン）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[スターリンの通算](../Page/ザ・スターリン.md "wikilink")2枚目のアルバム。

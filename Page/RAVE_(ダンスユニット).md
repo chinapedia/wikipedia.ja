@@ -1,4 +1,4 @@
-> この記事は[RAVE \(\)](https://ja.wikipedia.org/wiki/RAVE_\(\))から翻訳されています。
+> この記事は[RAVE \(ダンスユニット\)](https://ja.wikipedia.org/wiki/RAVE_\(ダンスユニット\))から翻訳されています。
 
 
 **RAVE**（レイブ）とは、過去に[キャレスV\&Dスクール](https://ja.wikipedia.org/wiki/キャレスV&Dスクール "wikilink")内で存在したロック[ダンス](../Page/ダンス.md "wikilink")ユニット。

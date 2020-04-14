@@ -1,4 +1,4 @@
-> この記事は[de](https://ja.wikipedia.org/wiki/de)から翻訳されています。
+> この記事は[チョコボdeモバイル](https://ja.wikipedia.org/wiki/チョコボdeモバイル)から翻訳されています。
 
 
 『**チョコボdeモバイル**』（*Chocobo de MOBILE*、チョコボでモバイル）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")が配信する[携帯電話](../Page/携帯電話.md "wikilink")用[アプリ](https://ja.wikipedia.org/wiki/アプリ "wikilink")ゲームである。キャリアは[au](../Page/Au_\(携帯電話\).md "wikilink")（[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")）の[EZweb](../Page/EZweb.md "wikilink")（[EZアプリ（BREW）](../Page/BREW.md "wikilink")）と[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[iモード](https://ja.wikipedia.org/wiki/iモード "wikilink")（[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")）に対応している。ジャンルは能力チェックミニゲーム集である。

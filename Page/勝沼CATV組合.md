@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[勝沼CATV組合](https://ja.wikipedia.org/wiki/勝沼CATV組合)から翻訳されています。
 
 
 **勝沼町CATV組合**（かつぬまちょうケーブルテレビくみあい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。2012年4月に勝沼CATV株式会社となった。

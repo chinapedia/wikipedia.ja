@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[いつか \(AV女優\)](https://ja.wikipedia.org/wiki/いつか_\(AV女優\))から翻訳されています。
 
 
 **いつか**（いつか、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[11月11日](../Page/11月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。[POPSTARグループ](https://ja.wikipedia.org/wiki/POPSTARグループ "wikilink")所属。笹岡三咲、峰島今日子、岡本裕美　名義でも活動している。

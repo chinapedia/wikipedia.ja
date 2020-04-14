@@ -1,4 +1,4 @@
-> この記事は[HeLa](https://ja.wikipedia.org/wiki/HeLa)から翻訳されています。
+> この記事は[HeLa細胞](https://ja.wikipedia.org/wiki/HeLa細胞)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:HeLa_cells.jpg "wikilink") **HeLa細胞**（ヒーラさいぼう）は、[ヒト](../Page/ヒト.md "wikilink")由来の最初の[細胞株](../Page/培養細胞.md "wikilink")。[in vitroでの](https://ja.wikipedia.org/wiki/in_vitro "wikilink")[細胞](../Page/細胞.md "wikilink")を用いる試験や研究に幅広く用いられている。[1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")に[子宮頸癌](https://ja.wikipedia.org/wiki/子宮頸癌 "wikilink")で亡くなった30代[黒人](../Page/黒人.md "wikilink")女性の[腫瘍](../Page/腫瘍.md "wikilink")病変から分離され、株化された。この細胞の名称は、原患者氏名[ヘンリエッタ・ラックス](https://ja.wikipedia.org/wiki/ヘンリエッタ・ラックス "wikilink")から命名された。

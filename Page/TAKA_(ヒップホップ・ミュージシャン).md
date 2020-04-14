@@ -1,7 +1,7 @@
-> この記事は[TAKA \(\)](https://ja.wikipedia.org/wiki/TAKA_\(\))から翻訳されています。
+> この記事は[TAKA \(ヒップホップ・ミュージシャン\)](https://ja.wikipedia.org/wiki/TAKA_\(ヒップホップ・ミュージシャン\))から翻訳されています。
 
 
-**TAKA**（たか、本名：森川 貴嗣。[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月18日](../Page/1月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")である。大阪出身。血液型A型。[ソロアーティスト](https://ja.wikipedia.org/wiki/ソロアーティスト "wikilink")でありHowManyRED?、DONAIYA OSAKAのメンバー。
+**TAKA**（たか、本名：**森川 貴嗣**、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月18日](../Page/1月18日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")である。大阪出身。血液型A型。[ソロアーティスト](https://ja.wikipedia.org/wiki/ソロアーティスト "wikilink")でありHowManyRED?、DONAIYA OSAKAのメンバー。
 
 ソロ活動のほか、[ET-KING](../Page/ET-KING.md "wikilink")のメンバー[KLUTCH](../Page/KLUTCH.md "wikilink")とHowManyRED?としても活動している。また[ET-KING](../Page/ET-KING.md "wikilink")のメンバー[TENN](../Page/TENN.md "wikilink")が主宰したフットサルチーム兼、音楽グループのDONAIYA OSAKAのメンバーとしても活動している。
 
@@ -60,4 +60,4 @@ LIVE活動においては交友のある[m-flo](https://ja.wikipedia.org/wiki/m-
   - [TAKA 公式Twitter](https://twitter.com/takamc29)
   - [TAKA 公式instagram](http://instagram.com/takamc29)
 
-[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:芦屋大学出身の人物](https://ja.wikipedia.org/wiki/Category:芦屋大学出身の人物 "wikilink") [Category:関西福祉科学大学出身の人物](https://ja.wikipedia.org/wiki/Category:関西福祉科学大学出身の人物 "wikilink") [Category:大阪大学出身の人物](https://ja.wikipedia.org/wiki/Category:大阪大学出身の人物 "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:芦屋大学出身の人物](https://ja.wikipedia.org/wiki/Category:芦屋大学出身の人物 "wikilink") [Category:関西福祉科学大学出身の人物](https://ja.wikipedia.org/wiki/Category:関西福祉科学大学出身の人物 "wikilink") [Category:大阪大学出身の人物](https://ja.wikipedia.org/wiki/Category:大阪大学出身の人物 "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

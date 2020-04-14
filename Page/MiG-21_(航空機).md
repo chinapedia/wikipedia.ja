@@ -1,4 +1,4 @@
-> この記事は[MiG-21 \(\)](https://ja.wikipedia.org/wiki/MiG-21_\(\))から翻訳されています。
+> この記事は[MiG-21 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-21_\(航空機\))から翻訳されています。
 
 
 **MiG-21**（ミグ21；）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ミグ](../Page/MiG.md "wikilink")[設計局](../Page/設計局.md "wikilink")が開発した[戦闘機](../Page/戦闘機.md "wikilink")。多くの機数が生産され、世界各国に配備された。

@@ -1,4 +1,4 @@
-> この記事は[GO!GO!](https://ja.wikipedia.org/wiki/GO!GO!)から翻訳されています。
+> この記事は[GO!GO!ミニ四ファイター](https://ja.wikipedia.org/wiki/GO!GO!ミニ四ファイター)から翻訳されています。
 
 
 『**GO\!GO\!ミニ四ファイター**』（ゴー\!ゴー\!ミニよんファイター）は[おちよしひこ](../Page/おちよしひこ.md "wikilink")による[少年漫画](../Page/少年漫画.md "wikilink")。

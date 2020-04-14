@@ -1,4 +1,4 @@
-> この記事は[B.J.](https://ja.wikipedia.org/wiki/B.J.)から翻訳されています。
+> この記事は[B.J.アームストロング](https://ja.wikipedia.org/wiki/B.J.アームストロング)から翻訳されています。
 
 
 **B.J.アームストロング**（**Benjamin Roy ("B.J.") Armstrong, Jr.** [1967年](../Page/1967年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")- ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の元プロ[バスケットボール選手](https://ja.wikipedia.org/wiki/バスケットボール選手 "wikilink")。[ミシガン州](../Page/ミシガン州.md "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")出身。[ポイントガード](../Page/ポイントガード.md "wikilink")として[1990年代](../Page/1990年代.md "wikilink")[シカゴ・ブルズ](../Page/シカゴ・ブルズ.md "wikilink")の栄光を支えた。身長188cm。

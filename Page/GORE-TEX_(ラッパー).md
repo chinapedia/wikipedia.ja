@@ -1,4 +1,4 @@
-> この記事は[GORE-TEX \(\)](https://ja.wikipedia.org/wiki/GORE-TEX_\(\))から翻訳されています。
+> この記事は[GORE-TEX \(ラッパー\)](https://ja.wikipedia.org/wiki/GORE-TEX_\(ラッパー\))から翻訳されています。
 
 
 **GORE-TEX**（ゴア・テックス、本名：宮森 智浩、[1975年](../Page/1975年.md "wikilink") - ）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[NITRO MICROPHONE UNDERGROUNDのMCとしても知られる](../Page/NITRO_MICROPHONE_UNDERGROUND.md "wikilink")。通称：**トラ**。

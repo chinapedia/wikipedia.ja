@@ -1,4 +1,4 @@
-> この記事は[KAGETORA \(\)](https://ja.wikipedia.org/wiki/KAGETORA_\(\))から翻訳されています。
+> この記事は[KAGETORA \(プロレスラー\)](https://ja.wikipedia.org/wiki/KAGETORA_\(プロレスラー\))から翻訳されています。
 
 
 **Kagetora**（カゲトラ、[1982年](../Page/1982年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。本名：**橋本 史之**（はしもと ふみゆき）。

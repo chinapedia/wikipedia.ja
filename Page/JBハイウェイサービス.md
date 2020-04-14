@@ -1,4 +1,4 @@
-> この記事は[JB](https://ja.wikipedia.org/wiki/JB)から翻訳されています。
+> この記事は[JBハイウェイサービス](https://ja.wikipedia.org/wiki/JBハイウェイサービス)から翻訳されています。
 
 
 **JBハイウェイサービス株式会社**（ジェイビーハイウェイサービス）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[中央区に本社を置く](../Page/中央区_\(神戸市\).md "wikilink")[本州四国連絡高速道路](../Page/本州四国連絡高速道路.md "wikilink")管轄内の[サービスエリア](../Page/サービスエリア.md "wikilink")、[パーキングエリア](../Page/パーキングエリア.md "wikilink")の管理運営会社である。

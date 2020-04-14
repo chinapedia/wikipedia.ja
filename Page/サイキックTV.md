@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[サイキックTV](https://ja.wikipedia.org/wiki/サイキックTV)から翻訳されています。
 
 
 **サイキックTV** (Psychic TV)は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[インダストリアル](../Page/インダストリアル.md "wikilink")・ミュージックのバンド。

@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[グルッポ・ムジカーレII](https://ja.wikipedia.org/wiki/グルッポ・ムジカーレII)から翻訳されています。
 
 
 **グルッポ・ムジカーレII**（**Gruppo Musicale II**）は、[1993年](../Page/1993年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")に発売された[坂本龍一](../Page/坂本龍一.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

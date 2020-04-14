@@ -1,4 +1,4 @@
-> この記事は[UF \(\)](https://ja.wikipedia.org/wiki/UF_\(\))から翻訳されています。
+> この記事は[UF \(坂本龍一のアルバム\)](https://ja.wikipedia.org/wiki/UF_\(坂本龍一のアルバム\))から翻訳されています。
 
 
 『**UF**』（**ユーエフ**）は[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に同時発売された[坂本龍一](../Page/坂本龍一.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")3作品の一つ（他は『[US](../Page/US_\(坂本龍一のアルバム\).md "wikilink")』と『[CM/TV](https://ja.wikipedia.org/wiki/CM/TV "wikilink")』）。

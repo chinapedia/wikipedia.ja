@@ -1,4 +1,4 @@
-> この記事は[DEAR \(\)](https://ja.wikipedia.org/wiki/DEAR_\(\))から翻訳されています。
+> この記事は[DEAR \(小説\)](https://ja.wikipedia.org/wiki/DEAR_\(小説\))から翻訳されています。
 
 
 『**DEAR**』（ディア）は、[新井輝](../Page/新井輝.md "wikilink")/著、[久瀬たかし](https://ja.wikipedia.org/wiki/久瀬たかし "wikilink")/イラストによる[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。2001年3月より発刊中。[富士見ミステリー文庫](../Page/富士見ミステリー文庫.md "wikilink")刊。短編集においては[季遊月あすか](../Page/きゆづきさとこ.md "wikilink")/本文イラスト、[朝倉哲也](https://ja.wikipedia.org/wiki/朝倉哲也 "wikilink")/口絵デザイン。 本編の各巻タイトルに曜日名がつけられていることから、**曜日シリーズ**とも呼ばれる。木曜のあとがきによれば、ゲームを意識して書かれた作品とのことで、繰り返される一日と、そのたびに選択肢が変更されていくという手法はまさしく[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")のようである。

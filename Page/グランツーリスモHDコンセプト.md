@@ -1,4 +1,4 @@
-> この記事は[HD](https://ja.wikipedia.org/wiki/HD)から翻訳されています。
+> この記事は[グランツーリスモHDコンセプト](https://ja.wikipedia.org/wiki/グランツーリスモHDコンセプト)から翻訳されています。
 
 
 『**グランツーリスモHDコンセプト**』 (GRAN TURISMO HD Concept) は、[2006年](../Page/2006年.md "wikilink")[12月24日](../Page/12月24日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで提供された[グランツーリスモシリーズ](../Page/グランツーリスモシリーズ.md "wikilink")初の[PlayStation 3向け作品である](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。[PLAYSTATION Storeで無料配信された](../Page/PlayStation_Store.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[LA](https://ja.wikipedia.org/wiki/LA)から翻訳されています。
+> この記事は[LA音源](https://ja.wikipedia.org/wiki/LA音源)から翻訳されています。
 
 
 **LA音源**（エルエーおんげん）[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")発売の[シンセサイザー](../Page/シンセサイザー.md "wikilink")D-50に搭載されたローランド初のフルデジタル音源。

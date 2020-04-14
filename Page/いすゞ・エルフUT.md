@@ -1,4 +1,4 @@
-> この記事は[UT](https://ja.wikipedia.org/wiki/UT)から翻訳されています。
+> この記事は[いすゞ・エルフUT](https://ja.wikipedia.org/wiki/いすゞ・エルフUT)から翻訳されています。
 
 
 **エルフUT**はかつて[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")が製造販売していたセミ[ウォークスルーバン](../Page/ウォークスルーバン.md "wikilink")タイプの[自動車](../Page/自動車.md "wikilink")である。

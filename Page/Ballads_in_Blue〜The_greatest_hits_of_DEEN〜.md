@@ -1,4 +1,4 @@
-> この記事は[Ballads in BlueThe greatest hits of DEEN](https://ja.wikipedia.org/wiki/Ballads_in_BlueThe_greatest_hits_of_DEEN)から翻訳されています。
+> この記事は[Ballads in Blue〜The greatest hits of DEEN〜](https://ja.wikipedia.org/wiki/Ballads_in_Blue〜The_greatest_hits_of_DEEN〜)から翻訳されています。
 
 
 『**Ballads in Blue 〜The greatest hits of DEEN〜**』（バラーズ・イン・ブルー ザ・グレイスト・ヒッツ・オブ・ディーン）は、[DEEN](../Page/DEEN.md "wikilink")の6thアルバム。

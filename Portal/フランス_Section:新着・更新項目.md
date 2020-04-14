@@ -1,4 +1,4 @@
-> この記事は[Portal:/Section:](https://ja.wikipedia.org/wiki/Portal:/Section:)から翻訳されています。
+> この記事は[Portal:フランス/Section:新着・更新項目](https://ja.wikipedia.org/wiki/Portal:フランス/Section:新着・更新項目)から翻訳されています。
 
 
   - **[新着項目を探す](https://ja.wikipedia.org/wiki/特別:Newpages "wikilink")** - [ログ](https://ja.wikipedia.org/wiki/Portal:フランス/新着項目/過去ログ "wikilink") - [ヨーロッパの新着項目](https://ja.wikipedia.org/wiki/Portal:ヨーロッパ#newarticles "wikilink") - [バスクの新着項目](https://ja.wikipedia.org/wiki/Portal:バスク "wikilink") - [ウィキニュース：フランス](https://ja.wikipedia.org/wiki/n:Category:フランス "wikilink")

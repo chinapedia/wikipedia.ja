@@ -1,4 +1,4 @@
-> この記事は[eye](https://ja.wikipedia.org/wiki/eye)から翻訳されています。
+> この記事は[こうちeye](https://ja.wikipedia.org/wiki/こうちeye)から翻訳されています。
 
 
 『**こうちeye**』（こうちアイ）は、[2006年](../Page/2006年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")にスタートした[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（RKCテレビ）の平日夕方の地域[ニュース番組](../Page/報道番組.md "wikilink")。放送時間は月曜 - 金曜 18:15 - 18:56。

@@ -1,4 +1,4 @@
-> この記事は[RCA](https://ja.wikipedia.org/wiki/RCA)から翻訳されています。
+> この記事は[RCAドーム](https://ja.wikipedia.org/wiki/RCAドーム)から翻訳されています。
 
 
 **RCAドーム**（*RCA Dome*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[インディアナ州](../Page/インディアナ州.md "wikilink")[インディアナポリス](../Page/インディアナポリス.md "wikilink")にあった多目的[ドームである](../Page/ドーム球場.md "wikilink")。

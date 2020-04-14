@@ -1,4 +1,4 @@
-> この記事は[Scramble Commander](https://ja.wikipedia.org/wiki/Scramble_Commander)から翻訳されています。
+> この記事は[スーパーロボット大戦Scramble Commander](https://ja.wikipedia.org/wiki/スーパーロボット大戦Scramble_Commander)から翻訳されています。
 
 
 『**スーパーロボット大戦Scramble Commander**』（スーパーロボットたいせん スクランブルコマンダー）とは、[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した[PlayStation 2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。

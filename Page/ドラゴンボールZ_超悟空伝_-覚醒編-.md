@@ -1,7 +1,7 @@
-> この記事は[Z  --](https://ja.wikipedia.org/wiki/Z__--)から翻訳されています。
+> この記事は[ドラゴンボールZ 超悟空伝 -覚醒編-](https://ja.wikipedia.org/wiki/ドラゴンボールZ_超悟空伝_-覚醒編-)から翻訳されています。
 
 
-『'''ドラゴンボールZ 超悟空伝 -覚醒編- '''』（ドラゴンボールゼット スーパーごくうでん かくせいへん）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のスーパーファミコン作品第6弾。
+『'''ドラゴンボールZ 超悟空伝 -覚醒編- '''』（ドラゴンボールゼット スーパーごくうでん かくせいへん）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[9月22日](../Page/9月22日.md "wikilink")にバンダイ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) から発売された[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のスーパーファミコン作品第6弾。
 
 『[ドラゴンボールZ 超悟空伝 -突激編-](../Page/ドラゴンボールZ_超悟空伝_-突激編-.md "wikilink")』から約6ヶ月後に発売された同作の続編であり、『超悟空伝』の後編に当たる。原作漫画『[ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")』の 14 - 28 巻（第二十三回天下一武道会からフリーザ編）を題材としている。
 

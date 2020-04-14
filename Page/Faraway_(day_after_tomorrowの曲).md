@@ -1,4 +1,4 @@
-> この記事は[Faraway \(day after tomorrow\)](https://ja.wikipedia.org/wiki/Faraway_\(day_after_tomorrow\))から翻訳されています。
+> この記事は[Faraway \(day after tomorrowの曲\)](https://ja.wikipedia.org/wiki/Faraway_\(day_after_tomorrowの曲\))から翻訳されています。
 
 
 「**faraway**」（ファーラウェイ）は、[2002年](../Page/2002年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")に発売された[day after tomorrowのデビューシングル及びDVDシングルである](https://ja.wikipedia.org/wiki/day_after_tomorrow "wikilink")。

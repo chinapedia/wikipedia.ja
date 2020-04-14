@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[RPGドラゴン](https://ja.wikipedia.org/wiki/RPGドラゴン)から翻訳されています。
 
 
 『**RPGドラゴン**』（アールピージードラゴン）は、[富士見書房](../Page/富士見書房.md "wikilink")から出版された[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）専門誌。『[月刊ドラゴンマガジン](../Page/ドラゴンマガジン_\(富士見書房\).md "wikilink")』のTRPG記事を分離・拡大し、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")5月号増刊として創刊。以後[季刊](https://ja.wikipedia.org/wiki/季刊 "wikilink")として発行されていたが1997年7月号増刊の13号の発売が予定より2か月遅れ、14号は出ないまま休刊した。このため、未完に終わるか、そもそも実現しなかった企画も多い。

@@ -1,4 +1,4 @@
-> この記事は[VANILLA \(\)](https://ja.wikipedia.org/wiki/VANILLA_\(\))から翻訳されています。
+> この記事は[VANILLA \(バンド\)](https://ja.wikipedia.org/wiki/VANILLA_\(バンド\))から翻訳されています。
 
 
 **VANILLA**（バニラ）は、1994年結成の日本のロックバンド。1995年デビュー。1999年4月、無期限活動停止。

@@ -1,4 +1,4 @@
-> この記事は[NEWS5-30](https://ja.wikipedia.org/wiki/NEWS5-30)から翻訳されています。
+> この記事は[なんかいNEWS5-30](https://ja.wikipedia.org/wiki/なんかいNEWS5-30)から翻訳されています。
 
 
 『**なんかいNEWS530**』（なんかいニュース ごーさんまる）は、1986年9月29日から[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")がテレビ放送していた夕方のローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -315,9 +315,9 @@ STRAWBERRY MOON（neut mix）</p></td>
 ## 外部リンク
 
   - [CASCADE OFFICIAL WEB SITE](http://www.cascade-web.net/) - 公式ウェブサイト
-  - [ガムガムグミグミ](http://ameblo.jp/cscd-tama/) - TAMAMIZU（TAMA）によるブログ
-  - [井戸水をヒトクチ](http://ameblo.jp/cscd-masashi/) - MASASHIによるブログ
-  - [カナヅチとノコギリは不要！](http://ameblo.jp/cscd-hiroshi/) - HIROSHIによるブログ
+  - [ガムガムグミグミ](https://ameblo.jp/cscd-tama/) - TAMAMIZU（TAMA）によるブログ
+  - [井戸水をヒトクチ](https://ameblo.jp/cscd-masashi/) - MASASHIによるブログ
+  - [カナヅチとノコギリは不要！](https://ameblo.jp/cscd-hiroshi/) - HIROSHIによるブログ
   -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:1993年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1993年に結成した音楽グループ "wikilink")
 

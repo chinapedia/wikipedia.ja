@@ -1,4 +1,4 @@
-> この記事は[MAXSTORY](https://ja.wikipedia.org/wiki/MAXSTORY)から翻訳されています。
+> この記事は[峠MAXシリーズのSTORYの登場人物一覧](https://ja.wikipedia.org/wiki/峠MAXシリーズのSTORYの登場人物一覧)から翻訳されています。
 
 
 **峠MAXシリーズのSTORYの登場人物一覧**（とうげマックスしりーずのストーリーのとうじょうじんぶついちらん）は、[峠MAXシリーズ](https://ja.wikipedia.org/wiki/峠MAXシリーズ "wikilink")に登場する人物の一覧である。

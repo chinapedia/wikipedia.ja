@@ -1,11 +1,11 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[ベン・E・キング](https://ja.wikipedia.org/wiki/ベン・E・キング)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Ben_E._King2.jpg "wikilink") **ベン・E・キング**（**Benjamin Earl King**、本名Benjamin Earl Nelson、[1938年](../Page/1938年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink") - [2015年](../Page/2015年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ソウル歌手](../Page/ソウルミュージック.md "wikilink")。「[スタンド・バイ・ミー](https://ja.wikipedia.org/wiki/スタンド・バイ・ミー_\(ベン・E・キングの曲\) "wikilink")」のヒットで知られる。
 
 ## 略歴
 
-[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")生まれ。[1958年](../Page/1958年.md "wikilink")にリードシンガーとして[ドリフターズに加入](../Page/ドリフターズ_\(アメリカ\).md "wikilink")。「ダンス・ウィズ・ミー」、「[ラストダンスは私に](https://ja.wikipedia.org/wiki/ラストダンスは私に "wikilink")」などの数々のヒットを放つ。
+[ノースカロライナ州](../Page/ノースカロライナ州.md "wikilink")[ヘンダーソン生まれ](https://ja.wikipedia.org/wiki/ヘンダーソン_\(ノースカロライナ州\) "wikilink")。[1958年](../Page/1958年.md "wikilink")にリードシンガーとして[ドリフターズに加入](../Page/ドリフターズ_\(アメリカ\).md "wikilink")。「ダンス・ウィズ・ミー」、「[ラストダンスは私に](https://ja.wikipedia.org/wiki/ラストダンスは私に "wikilink")」などの数々のヒットを放つ。
 
 [1960年](../Page/1960年.md "wikilink")にドリフターズを脱退しソロ歌手に転向。[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")に「スタンド・バイ・ミー」の大ヒットを放った。この曲はスタンダードナンバーとして[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")をはじめ多くの歌手にカバーされている。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")には映画「[スタンド・バイ・ミー](../Page/スタンド・バイ・ミー.md "wikilink")」の主題歌に起用されてリバイバルヒットした。
 
@@ -68,7 +68,7 @@
   - [ワーナーミュージック・ジャパン - ベン・E・キング](https://wmg.jp/ben-e-king/)
   - [ユニバーサルミュージック　ベン・E.キング](https://www.universal-music.co.jp/ben-e-king/)
 
-[Category:アメリカ合衆国のR\&B歌手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のR&B歌手 "wikilink") [Category:アメリカ合衆国の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男性シンガーソングライター "wikilink") [Category:ノースカロライナ州の人物](https://ja.wikipedia.org/wiki/Category:ノースカロライナ州の人物 "wikilink") [Category:1938年生](https://ja.wikipedia.org/wiki/Category:1938年生 "wikilink") [Category:2015年没](https://ja.wikipedia.org/wiki/Category:2015年没 "wikilink")
+[Category:アメリカ合衆国のR\&B歌手](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のR&B歌手 "wikilink") [Category:アメリカ合衆国の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の男性シンガーソングライター "wikilink") [Category:ノースカロライナ州ヘンダーソン郡出身の人物](https://ja.wikipedia.org/wiki/Category:ノースカロライナ州ヘンダーソン郡出身の人物 "wikilink") [Category:1938年生](https://ja.wikipedia.org/wiki/Category:1938年生 "wikilink") [Category:2015年没](https://ja.wikipedia.org/wiki/Category:2015年没 "wikilink")
 
 1.
 2.  [「スタンド・バイ・ミー」のベン・E・キングさん死去](http://www.oricon.co.jp/news/2052420/full/) ORICON STYLE 2015年5月1日

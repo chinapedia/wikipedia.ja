@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[佐々木優 \(AV女優\)](https://ja.wikipedia.org/wiki/佐々木優_\(AV女優\))から翻訳されています。
 
 
 **佐々木 優**（ささき ゆう、[1974年](../Page/1974年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV女優](../Page/AV女優.md "wikilink")。

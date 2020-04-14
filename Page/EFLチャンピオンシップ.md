@@ -1,4 +1,4 @@
-> この記事は[EFL](https://ja.wikipedia.org/wiki/EFL)から翻訳されています。
+> この記事は[EFLチャンピオンシップ](https://ja.wikipedia.org/wiki/EFLチャンピオンシップ)から翻訳されています。
 
 
 **EFLチャンピオンシップ**（**EFL Championship**）は、[イングランド](../Page/イングランド.md "wikilink")の[プロサッカーリーグのディビジョンの一つで](../Page/イングランドサッカーのリーグ構成.md "wikilink")、最上位である[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")の一つ下のディビジョンである。また、[イングリッシュ・フットボールリーグ](../Page/イングリッシュ・フットボールリーグ.md "wikilink")の中では、最上位に位置している（実質2部相当）。

@@ -1,4 +1,4 @@
-> この記事は[Bee](https://ja.wikipedia.org/wiki/Bee)から翻訳されています。
+> この記事は[宇宙快盗ファニーBee](https://ja.wikipedia.org/wiki/宇宙快盗ファニーBee)から翻訳されています。
 
 
 『**宇宙快盗ファニーBee**』（うちゅうかいとうファニービー）は、[アリスソフト](../Page/アリスソフト.md "wikilink")より[1994年](../Page/1994年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に発売（[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[1996年](../Page/1996年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")発売）された[コメディ](https://ja.wikipedia.org/wiki/コメディ "wikilink")[ADVタイプの](../Page/アドベンチャーゲーム.md "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")[ソフト](../Page/ゲームソフト.md "wikilink")。

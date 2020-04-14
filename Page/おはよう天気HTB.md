@@ -1,4 +1,4 @@
-> この記事は[HTB](https://ja.wikipedia.org/wiki/HTB)から翻訳されています。
+> この記事は[おはよう天気HTB](https://ja.wikipedia.org/wiki/おはよう天気HTB)から翻訳されています。
 
 
 『**おはよう天気HTB**』（おはようてんきエイチティービー）は、HTB[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")で毎週[月曜日](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink")の5:30 - 6:25 ([JST](../Page/日本標準時.md "wikilink")) に放送されていた[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

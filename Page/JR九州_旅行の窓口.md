@@ -1,4 +1,4 @@
-> この記事は[JR ](https://ja.wikipedia.org/wiki/JR_)から翻訳されています。
+> この記事は[JR九州 旅行の窓口](https://ja.wikipedia.org/wiki/JR九州_旅行の窓口)から翻訳されています。
 
 
 **JR九州 旅行の窓口**（ジェイアールきゅうしゅうりょこうのまどぐち）は、[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）の[鉄道事業本部営業部傘下の旅行課が用いている](https://ja.wikipedia.org/wiki/九州旅客鉄道鉄道事業本部 "wikilink")[旅行代理店](../Page/旅行代理店.md "wikilink")の名称である。2018年4月1日ににそれまでの**JR九州旅行**から改称した。2008年までの旧々名称の**ジョイロード**は[頭文字が](../Page/イニシャル.md "wikilink")[JR](../Page/JR.md "wikilink")になることから名付けられた。

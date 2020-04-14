@@ -1,4 +1,4 @@
-> この記事は[AA](https://ja.wikipedia.org/wiki/AA)から翻訳されています。
+> この記事は[金のA様×銀のA様](https://ja.wikipedia.org/wiki/金のA様×銀のA様)から翻訳されています。
 
 
 『**金のA様×銀のA様**』（きんのエーさま ぎんのエーさま）は、[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[6月22日](../Page/6月22日.md "wikilink")まで毎週[木曜日](../Page/木曜日.md "wikilink")19:58 - 20:54（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

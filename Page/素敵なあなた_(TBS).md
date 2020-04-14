@@ -1,4 +1,4 @@
-> この記事は[ \(TBS\)](https://ja.wikipedia.org/wiki/_\(TBS\))から翻訳されています。
+> この記事は[素敵なあなた \(TBS\)](https://ja.wikipedia.org/wiki/素敵なあなた_\(TBS\))から翻訳されています。
 
 
 『**素敵なあなた**』（すてきなあなた）は、[1996年](../Page/1996年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[TBS系列局](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")\[1\]で[平日](../Page/平日.md "wikilink") 15:00 - 15:55（[JST](../Page/日本標準時.md "wikilink")）に放送された[TBSと](../Page/TBSテレビ.md "wikilink")[泉放送制作](../Page/泉放送制作.md "wikilink")による共同製作の[生活情報番組](../Page/生活情報番組.md "wikilink")である。

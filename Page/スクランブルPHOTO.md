@@ -1,4 +1,4 @@
-> この記事は[PHOTO](https://ja.wikipedia.org/wiki/PHOTO)から翻訳されています。
+> この記事は[スクランブルPHOTO](https://ja.wikipedia.org/wiki/スクランブルPHOTO)から翻訳されています。
 
 
 **スクランブルPHOTO**（すくらんぶるふぉと）は、日本の写真雑誌。

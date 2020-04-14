@@ -1,4 +1,4 @@
-> この記事は[VI ](https://ja.wikipedia.org/wiki/VI_)から翻訳されています。
+> この記事は[英雄伝説VI 空の軌跡](https://ja.wikipedia.org/wiki/英雄伝説VI_空の軌跡)から翻訳されています。
 
 
 |- |colspan="2" style="padding:0"|

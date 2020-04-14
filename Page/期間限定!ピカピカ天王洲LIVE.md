@@ -1,4 +1,4 @@
-> この記事は[!LIVE](https://ja.wikipedia.org/wiki/!LIVE)から翻訳されています。
+> この記事は[期間限定!ピカピカ天王洲LIVE](https://ja.wikipedia.org/wiki/期間限定!ピカピカ天王洲LIVE)から翻訳されています。
 
 
 『**期間限定\!ピカピカ天王洲LIVE**』（きかんげんてい・ぴかぴかてんのうずライブ）は、[2000年](../Page/2000年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で日曜21:54 - 22:54(JST)に放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。略称は「**ピカてん**」。

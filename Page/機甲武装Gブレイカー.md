@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[機甲武装Gブレイカー](https://ja.wikipedia.org/wiki/機甲武装Gブレイカー)から翻訳されています。
 
 
 『**機甲武装Gブレイカー**』（きこうぶそうジーブレイカー）は、[サンライズインタラクティブ](../Page/サンライズインタラクティブ.md "wikilink")より発売の[PlayStation 2用ゲームのシリーズ](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。

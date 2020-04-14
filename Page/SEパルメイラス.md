@@ -1,4 +1,4 @@
-> この記事は[SE](https://ja.wikipedia.org/wiki/SE)から翻訳されています。
+> この記事は[SEパルメイラス](https://ja.wikipedia.org/wiki/SEパルメイラス)から翻訳されています。
 
 
 **SEパルメイラス** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[サンパウロ](../Page/サンパウロ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。[ブラジルポルトガル語](../Page/ブラジルポルトガル語.md "wikilink")発音の**パウメイラス**と表記されることもある。

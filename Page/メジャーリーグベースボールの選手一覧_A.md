@@ -1,4 +1,4 @@
-> この記事は[ A](https://ja.wikipedia.org/wiki/_A)から翻訳されています。
+> この記事は[メジャーリーグベースボールの選手一覧 A](https://ja.wikipedia.org/wiki/メジャーリーグベースボールの選手一覧_A)から翻訳されています。
 
 
 このリストは、姓がアルファベットの「**A**」で始まる[MLBの選手の一覧である](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")。

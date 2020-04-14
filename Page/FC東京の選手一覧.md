@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FC東京の選手一覧](https://ja.wikipedia.org/wiki/FC東京の選手一覧)から翻訳されています。
 
 
 **FC東京の選手一覧** (エフシーとうきょうのせんしゅいちらん)は、**[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")**に所属している選手・監督・コーチの一覧。
@@ -316,6 +316,15 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>34</strong></p></td>
+<td><p><a href="../Page/チャヤトーン・タプスワナウォン.md" title="wikilink">チャヤトーン</a></p></td>
+<td></td>
+<td><p>2020年3月 -</p></td>
+<td><p><a href="../Page/バンコク・ユナイテッドFC.md" title="wikilink">バンコク・ユナイテッドFC</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>35</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木喜丈" title="wikilink">鈴木喜丈</a></p></td>
 <td></td>
@@ -324,7 +333,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>38</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/紺野和也" title="wikilink">紺野和也</a></p></td>
 <td></td>
@@ -333,7 +342,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>40</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平川怜" title="wikilink">平川怜</a></p></td>
 <td></td>
@@ -343,7 +352,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>44</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/品田愛斗" title="wikilink">品田愛斗</a></p></td>
 <td></td>
@@ -352,7 +361,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>45</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルトゥール・シルバ" title="wikilink">アルトゥール・シルバ</a></p></td>
 <td></td>
@@ -361,7 +370,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/フォワード_(サッカー).md" title="wikilink">FW</a></p></td>
 <td><p><strong>9</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディエゴ・オリヴェイラ・デ・ケイロス" title="wikilink">ディエゴ・オリヴェイラ</a></p></td>
@@ -370,7 +379,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/柏レイソル" title="wikilink">柏レイソル</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>11</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/永井謙佑" title="wikilink">永井謙佑</a></p></td>
 <td></td>
@@ -379,7 +388,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>23</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/矢島輝一" title="wikilink">矢島輝一</a></p></td>
 <td></td>
@@ -388,7 +397,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>24</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/原大智_(サッカー選手)" title="wikilink">原大智</a></p></td>
 <td></td>
@@ -397,7 +406,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>27</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/田川亨介" title="wikilink">田川亨介</a></p></td>
 <td></td>
@@ -406,7 +415,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -439,6 +448,14 @@
 <td><p>鹿島と対戦する公式戦出場不可</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/チャヤトーン・タプスワナウォン.md" title="wikilink">チャヤトーン</a></p></td>
+<td></td>
+<td><p><a href="../Page/バンコク・ユナイテッドFC.md" title="wikilink">バンコク・ユナイテッドFC</a></p></td>
+<td><p>2020年3月1日 - 2021年1月1日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -557,7 +574,7 @@
 <tr class="even">
 <td><p>2002</p></td>
 <td><p><a href="../Page/ジャーン・カルロ・ウィッテ.md" title="wikilink">ジャーン</a></p></td>
-<td><p><a href="../Page/マルセロ・マットス.md" title="wikilink">マルセロ</a>(-9月)<br />
+<td><p><a href="../Page/マルセロ・メンドーサ・デ・マットス.md" title="wikilink">マルセロ</a>(-9月)<br />
  <a href="../Page/エーベル・グロリア・デ・オリベイラ.md" title="wikilink">オリベイラ</a> (9月-)</p></td>
 <td></td>
 </tr>
@@ -1639,7 +1656,7 @@
 <td><p>安倍柊斗</p></td>
 <td><p>ジョアン・オマリ</p></td>
 <td><p>林彰洋</p></td>
-<td><p>-</p></td>
+<td><p>チャヤトーン</p></td>
 <td><p>鈴木喜丈</p></td>
 <td><p>柳貴博</p></td>
 <td><p>中村帆高</p></td>
@@ -1652,8 +1669,8 @@
 <td><p>渡辺剛</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>大森晃太郎</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3093,7 +3110,7 @@
 <td><p>ボタフォゴFC</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/マルセロ・マットス.md" title="wikilink">マルセロ</a></p></td>
+<td><p><a href="../Page/マルセロ・メンドーサ・デ・マットス.md" title="wikilink">マルセロ</a></p></td>
 <td><p>2002</p></td>
 <td></td>
 <td></td>
@@ -3517,7 +3534,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ペドロ・ビスポ・モレイラ・ジュニオール" title="wikilink">ペドロ・ジュニオール</a></p></td>
 <td><p>2011</p></td>
 <td><p>期限付き移籍での加入</p></td>
-<td><p><a href="../Page/ホール・ファカン・クラブ.md" title="wikilink">ホール・ファカン・クラブ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サムットプラーカーン・シティFC" title="wikilink">サムットプラーカーン・シティFC</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高松大樹.md" title="wikilink">高松大樹</a></p></td>

@@ -1,4 +1,4 @@
-> この記事は[MTT](https://ja.wikipedia.org/wiki/MTT)から翻訳されています。
+> この記事は[MTT・タービン・スーパーバイク](https://ja.wikipedia.org/wiki/MTT・タービン・スーパーバイク)から翻訳されています。
 
 
 **MTT・タービン・スーパーバイク**（*MTT Turbine SUPERBIKE*）とは、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[マリン・タービン・テクノロジー](https://ja.wikipedia.org/wiki/マリン・タービン・テクノロジー "wikilink")（Marine Turbine Technologies inc.、以下MTT社）が開発し、アメリカ本国で発売された、[ガスタービンエンジン](../Page/ガスタービンエンジン.md "wikilink")搭載の[オートバイ](../Page/オートバイ.md "wikilink")。

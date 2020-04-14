@@ -1,4 +1,4 @@
-> この記事は[CMOS](https://ja.wikipedia.org/wiki/CMOS)から翻訳されています。
+> この記事は[CMOSイメージセンサ](https://ja.wikipedia.org/wiki/CMOSイメージセンサ)から翻訳されています。
 
 
 **CMOSイメージセンサ**（シーモスイメージセンサ、）は[CMOS](../Page/CMOS.md "wikilink")を用いた[固体撮像素子](../Page/固体撮像素子.md "wikilink")。[CCDイメージセンサ](../Page/CCDイメージセンサ.md "wikilink")と同様に、[フォトダイオード](../Page/フォトダイオード.md "wikilink")(PD)を使用するが、製造プロセスと信号の読み出し方法が異なる\[1\]。 [Matrixw.jpg](https://ja.wikipedia.org/wiki/File:Matrixw.jpg "fig:Matrixw.jpg")

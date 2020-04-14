@@ -1,4 +1,4 @@
-> この記事は[EC](https://ja.wikipedia.org/wiki/EC)から翻訳されています。
+> この記事は[クルゼイロEC](https://ja.wikipedia.org/wiki/クルゼイロEC)から翻訳されています。
 
 
 **クルゼイロ・エスポルテ・クルーベ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[ミナスジェライス州](../Page/ミナスジェライス州.md "wikilink")の州都[ベロオリゾンテ](../Page/ベロオリゾンテ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

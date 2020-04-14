@@ -1,4 +1,4 @@
-> この記事は[I](https://ja.wikipedia.org/wiki/I)から翻訳されています。
+> この記事は[ピレトリンI](https://ja.wikipedia.org/wiki/ピレトリンI)から翻訳されています。
 
 
 **ピレトリンI**(Pyrethrin I)は、[殺虫剤](https://ja.wikipedia.org/wiki/殺虫剤 "wikilink")としての活性を持つ2つの天然[有機化合物](../Page/有機化合物.md "wikilink")の1つである。(+)-*trans*-[菊酸](../Page/菊酸.md "wikilink")と(*S*)-(*Z*)-[ピレトロロン](https://ja.wikipedia.org/wiki/ピレトロロン "wikilink")の[エステル](../Page/エステル.md "wikilink")である。

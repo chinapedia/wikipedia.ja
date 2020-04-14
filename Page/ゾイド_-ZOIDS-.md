@@ -1,4 +1,4 @@
-> この記事は[ -ZOIDS-](https://ja.wikipedia.org/wiki/_-ZOIDS-)から翻訳されています。
+> この記事は[ゾイド -ZOIDS-](https://ja.wikipedia.org/wiki/ゾイド_-ZOIDS-)から翻訳されています。
 
 
 『**ゾイド -ZOIDS-**』は、[トミー](../Page/トミー_\(企業\).md "wikilink")（現[タカラトミー](../Page/タカラトミー.md "wikilink")）の玩具「[ゾイド](../Page/ゾイド.md "wikilink")」をモチーフにした[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のテレビ[アニメ](../Page/アニメ.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")まで[MBS](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")（[テレビ山口](../Page/テレビ山口.md "wikilink")除く）で毎週土曜18時00分から18時30分（通称[土6枠](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")）に放送された。

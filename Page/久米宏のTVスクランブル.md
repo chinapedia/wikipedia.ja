@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[久米宏のTVスクランブル](https://ja.wikipedia.org/wiki/久米宏のTVスクランブル)から翻訳されています。
 
 
 『**久米宏のTVスクランブル**』（くめひろしのテレビスクランブル）は、[1982年](../Page/1982年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[日本テレビで放送された](../Page/日本テレビ放送網.md "wikilink")[生放送](../Page/生放送.md "wikilink")の[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、[久米宏](../Page/久米宏.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 20:00 - 20:54 ([JST](../Page/日本標準時.md "wikilink")) 。

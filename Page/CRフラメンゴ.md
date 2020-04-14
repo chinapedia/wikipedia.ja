@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRフラメンゴ](https://ja.wikipedia.org/wiki/CRフラメンゴ)から翻訳されています。
 
 
 **クルーベ・ジ・レガタス・ド・フラメンゴ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")をホームタウンとする、ブラジルプロサッカーリーグ（[ブラジルリーグ](../Page/カンピオナート・ブラジレイロ.md "wikilink")）に加盟するプロサッカークラブ。
@@ -112,7 +112,7 @@
 
   - [2020年](../Page/2020年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")現在
 
-([副主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Poland.svg "wikilink"))
+([副主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))              ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"), [12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Poland.svg "wikilink"))
 
   - [監督](../Page/監督.md "wikilink")
 
@@ -156,7 +156,7 @@
 
   - [公式サイト](https://www.flamengo.com.br/)
 
-[Category:ブラジルのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ブラジルのサッカークラブ "wikilink") [Category:リオデジャネイロのサッカークラブ](https://ja.wikipedia.org/wiki/Category:リオデジャネイロのサッカークラブ "wikilink") [Category:1895年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1895年設立のスポーツチーム "wikilink")
+[Category:CRフラメンゴ](https://ja.wikipedia.org/wiki/Category:CRフラメンゴ "wikilink") [Category:ブラジルのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ブラジルのサッカークラブ "wikilink") [Category:リオデジャネイロのサッカークラブ](https://ja.wikipedia.org/wiki/Category:リオデジャネイロのサッカークラブ "wikilink") [Category:1895年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1895年設立のスポーツチーム "wikilink")
 
 1.  <http://www.lanacion.com.ar/642142-flamengo-el-equipo-mas-popular-de-brasil>
 2.

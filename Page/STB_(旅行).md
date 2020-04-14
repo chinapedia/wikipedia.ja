@@ -1,4 +1,4 @@
-> この記事は[STB \(\)](https://ja.wikipedia.org/wiki/STB_\(\))から翻訳されています。
+> この記事は[STB \(旅行\)](https://ja.wikipedia.org/wiki/STB_\(旅行\))から翻訳されています。
 
 
 **STB**（ステビー）とは、[鉄道駅](../Page/鉄道駅.md "wikilink")を[旅行](../Page/旅行.md "wikilink")中の宿泊地として利用すること\[1\]\[2\]、あるいは駅で寝る旅そのものを指す\[3\]。**station bivouac**（ステーション・ビバーク）の略。**駅寝**（えきね）とも称する\[4\]\[5\]。

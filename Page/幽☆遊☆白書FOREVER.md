@@ -1,4 +1,4 @@
-> この記事は[FOREVER](https://ja.wikipedia.org/wiki/FOREVER)から翻訳されています。
+> この記事は[幽☆遊☆白書FOREVER](https://ja.wikipedia.org/wiki/幽☆遊☆白書FOREVER)から翻訳されています。
 
 
 『**幽☆遊☆白書FOREVER**』（ゆうゆうはくしょフォーエバー）は、[バンプレスト](../Page/バンプレスト.md "wikilink")が[2005年](../Page/2005年.md "wikilink")[5月19日](../Page/5月19日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。[CEROレーティング](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink")12歳以上対象。また、[2006年](../Page/2006年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")より廉価版『**幽☆遊☆白書FOREVER PlayStation 2 the Best**』が発売された。

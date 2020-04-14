@@ -1,4 +1,4 @@
-> この記事は[SOS ](https://ja.wikipedia.org/wiki/SOS_)から翻訳されています。
+> この記事は[地球SOS それいけコロリン](https://ja.wikipedia.org/wiki/地球SOS_それいけコロリン)から翻訳されています。
 
 
 **地球SOS それいけコロリン**（ちきゅうSOS それいけコロリン）は、[1992年](../Page/1992年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月10日](../Page/3月10日.md "wikilink")まで[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[6時だ\!ETV](https://ja.wikipedia.org/wiki/6時だ!ETV "wikilink")内で放送された全26回の[教育](../Page/教育番組.md "wikilink")・[アニメ番組](https://ja.wikipedia.org/wiki/アニメ番組 "wikilink")である。放送時間は18:00 - 18:25であった。

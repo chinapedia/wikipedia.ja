@@ -1,4 +1,4 @@
-> この記事は[GoGo!!](https://ja.wikipedia.org/wiki/GoGo!!)から翻訳されています。
+> この記事は[パラダイスGoGo!!](https://ja.wikipedia.org/wiki/パラダイスGoGo!!)から翻訳されています。
 
 
 『**パラダイスGoGo\!\!**』（パラダイスゴーゴー）は、[1989年](../Page/1989年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")から[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")まで[フジテレビで放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。 通称：**パラGo**。

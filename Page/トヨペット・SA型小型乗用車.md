@@ -1,4 +1,4 @@
-> この記事は[SA](https://ja.wikipedia.org/wiki/SA)から翻訳されています。
+> この記事は[トヨペット・SA型小型乗用車](https://ja.wikipedia.org/wiki/トヨペット・SA型小型乗用車)から翻訳されています。
 
 
 **トヨペット・SA型小型乗用車**は[トヨタ自動車工業](https://ja.wikipedia.org/wiki/トヨタ自動車工業 "wikilink")（現・[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）が[1947年](../Page/1947年.md "wikilink")に開発した[乗用車](../Page/乗用車.md "wikilink")である。

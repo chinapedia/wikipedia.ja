@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[フルミネンセFC](https://ja.wikipedia.org/wiki/フルミネンセFC)から翻訳されています。
 
 
 **フルミネンセFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

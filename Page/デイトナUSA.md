@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[デイトナUSA](https://ja.wikipedia.org/wiki/デイトナUSA)から翻訳されています。
 
 
 『**デイトナUSA**』（*Daytona USA*）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")並びに後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）よりリリースされた[レースゲーム](../Page/レースゲーム.md "wikilink")のシリーズである。

@@ -1,4 +1,4 @@
-> この記事は[NBS NEWS\&SPORTS](https://ja.wikipedia.org/wiki/NBS_NEWS\&SPORTS)から翻訳されています。
+> この記事は[NBSスーパータイム NEWS\&SPORTS](https://ja.wikipedia.org/wiki/NBSスーパータイム_NEWS\&SPORTS)から翻訳されています。
 
 
 『**NBSスーパータイム NEWS\&SPORTS**』（エヌビーエススーパータイム ニュースアンドスポーツ）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[長野放送](../Page/長野放送.md "wikilink")で夕方に生放送されていた[長野県](../Page/長野県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[FR](https://ja.wikipedia.org/wiki/FR)から翻訳されています。
+> この記事は[ボタフォゴFR](https://ja.wikipedia.org/wiki/ボタフォゴFR)から翻訳されています。
 
 
 **ボタフォゴFR** () 、通称**ボタフォゴ** (Botafogo) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

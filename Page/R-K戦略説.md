@@ -1,4 +1,4 @@
-> この記事は[R-K](https://ja.wikipedia.org/wiki/R-K)から翻訳されています。
+> この記事は[R-K戦略説](https://ja.wikipedia.org/wiki/R-K戦略説)から翻訳されています。
 
 
 **r-K戦略説**とは、[生物](../Page/生物.md "wikilink")の[種が](../Page/種_\(分類学\).md "wikilink")、どのように子孫を残そうとするかについて、2つの戦略の間で選択を迫られているとする説である。rとKは[ロジスティック式](https://ja.wikipedia.org/wiki/ロジスティック式 "wikilink")の[内的自然増加率](../Page/内的自然増加率.md "wikilink") *r* と[環境収容力](https://ja.wikipedia.org/wiki/環境収容力 "wikilink") *K* に基づく。**r-K選択説**とも呼ばれる。

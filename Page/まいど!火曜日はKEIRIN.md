@@ -1,4 +1,4 @@
-> この記事は[!KEIRIN](https://ja.wikipedia.org/wiki/!KEIRIN)から翻訳されています。
+> この記事は[まいど!火曜日はKEIRIN](https://ja.wikipedia.org/wiki/まいど!火曜日はKEIRIN)から翻訳されています。
 
 
 **まいど\!火曜日はKEIRIN**（まいど\!かようびはけいりん）とは、[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")で[2005年](../Page/2005年.md "wikilink")4月から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月まで放送されていた[競輪](../Page/競輪.md "wikilink")の中継および関連情報の番組である。

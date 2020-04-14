@@ -1,4 +1,4 @@
-> この記事は[F8F \(\)](https://ja.wikipedia.org/wiki/F8F_\(\))から翻訳されています。
+> この記事は[F8F \(航空機\)](https://ja.wikipedia.org/wiki/F8F_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称 = F8F ベアキャット | 画像 = <File:Ray> Wagner Collection Image (16157058629).jpg | キャプション = 飛行するF8F-1 95318号機

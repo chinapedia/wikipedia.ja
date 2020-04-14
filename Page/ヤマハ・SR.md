@@ -1,4 +1,4 @@
-> この記事は[SR](https://ja.wikipedia.org/wiki/SR)から翻訳されています。
+> この記事は[ヤマハ・SR](https://ja.wikipedia.org/wiki/ヤマハ・SR)から翻訳されています。
 
 
 **SR**（エスアール）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造・販売している[単気筒エンジン](../Page/単気筒エンジン.md "wikilink")を搭載する[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種。 販売当初から大きな変更なく受け継がれるスタイルに全ての年代で人気がある車種。 オートバイの原型とされるスタイル。美しいデザインにファンが多い。
@@ -134,7 +134,7 @@ SRXシリーズは、250cc・400cc・600ccモデルとも[1990年](https://ja.wi
 2.
 3.
 4.
-5.  [特別な装いと価格で感謝のメッセージ、発売35周年記念モデル　「SR400」35th Anniversary Edition発売について](http://global.yamaha-motor.com/jp/news/2013/0122/sr400.html#__utma=168174206.1629092812.1391333561.1391333561.1391333561.1&__utmb=168174206.18.9.1391334478827&__utmc=168174206&__utmx=-&__utmz=168174206.1391333561.1.1.utmcsr=%28direct%29%7Cutmccn=%28direct%29%7Cutmcmd=%28none%29&__utmv=-&__utmk=255512200)
+5.  [特別な装いと価格で感謝のメッセージ、発売35周年記念モデル　「SR400」35th Anniversary Edition発売について](https://global.yamaha-motor.com/jp/news/2013/0122/sr400.html)
 6.  [](http://www.g-mark.org/award/describe/39059)
 7.
 8.  [ヤマハバイク生産終了モデルのご案内](https://news.yamaha-motor.co.jp/2017/014958.html) - ヤマハ発動機・2017年9月5日

@@ -1,4 +1,4 @@
-> この記事は[PKO](https://ja.wikipedia.org/wiki/PKO)から翻訳されています。
+> この記事は[P・K・O](https://ja.wikipedia.org/wiki/P・K・O)から翻訳されています。
 
 
 **P・K・O**（ピーケーオー）は[アニメーション](../Page/アニメーション.md "wikilink")を中心にした[メディアミックス](../Page/メディアミックス.md "wikilink")作品『[デ・ジ・キャラット](../Page/デ・ジ・キャラット.md "wikilink")』シリーズに登場する架空の悪の組織 [ブラックゲマゲマ団](https://ja.wikipedia.org/wiki/ブラックゲマゲマ団 "wikilink")（通称:BG、BG団、ブゲ団、以後 BG団と略）の幹部の三人組を指す名称と、その役を演じる[声優](../Page/声優.md "wikilink")の[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")、[鈴木千尋](../Page/鈴木千尋_\(声優\).md "wikilink")、[サエキトモ](../Page/サエキトモ.md "wikilink")による[ユニット](../Page/ユニット.md "wikilink")。ラジオ、CD、コンサートイベント等、幅広く活躍した。

@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[翔ぶが如く \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/翔ぶが如く_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**翔ぶが如く**』（とぶがごとく）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[1月7日](../Page/1月7日.md "wikilink")から[12月9日](../Page/12月9日.md "wikilink")に放送された28作目の[大河ドラマ](../Page/大河ドラマ.md "wikilink")。原作は[司馬遼太郎](../Page/司馬遼太郎.md "wikilink")の同名小説『[翔ぶが如く](../Page/翔ぶが如く.md "wikilink")』。[西田敏行](../Page/西田敏行.md "wikilink")が演じる**[西郷隆盛](../Page/西郷隆盛.md "wikilink")**と[鹿賀丈史](../Page/鹿賀丈史.md "wikilink")が演じる**[大久保利通](../Page/大久保利通.md "wikilink")**が主役。大河ドラマ初の2部構成作品（第1部29話、第2部19話の全48話）。

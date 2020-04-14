@@ -1,4 +1,4 @@
-> この記事は[PJ](https://ja.wikipedia.org/wiki/PJ)から翻訳されています。
+> この記事は[P・J・ホーガン](https://ja.wikipedia.org/wiki/P・J・ホーガン)から翻訳されています。
 
 
 **P・J・ホーガン**（**P.J. Hogan**, [1962年](../Page/1962年.md "wikilink") - ）は、[オーストラリア](../Page/オーストラリア.md "wikilink")出身の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")である。

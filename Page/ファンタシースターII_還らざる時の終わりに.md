@@ -1,13 +1,19 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[ファンタシースターII 還らざる時の終わりに](https://ja.wikipedia.org/wiki/ファンタシースターII_還らざる時の終わりに)から翻訳されています。
 
 
-『**ファンタシースターII 還らざる時の終わりに**』（ファンタシースターツー かえらざるときのおわりに）は、[1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[メガドライブ](../Page/メガドライブ.md "wikilink")（以下「MD」と略す場合あり）用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。セガの[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")RPGシリーズ「[ファンタシースターシリーズ](../Page/ファンタシースターシリーズ.md "wikilink")」の1作にあたる。
+『**ファンタシースターII 還らざる時の終わりに**』（ファンタシースターツー かえらざるときのおわりに）は、[1989年](../Page/1989年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に日本の[セガから発売された](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[メガドライブ](../Page/メガドライブ.md "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
+
+同社の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")RPGシリーズ『[ファンタシースターシリーズ](../Page/ファンタシースターシリーズ.md "wikilink")』の第2作目。前作にあたる[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")/[マスターシステム](https://ja.wikipedia.org/wiki/マスターシステム "wikilink")用ソフト『[ファンタシースター](../Page/ファンタシースター.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）から千年後の世界を舞台に、主人公たちを操作して惑星モタビアおよびデゾリスにおけるバイオモンスター発生の原因を調査する事を目的としている。
+
+開発は[セガ第7AM研究開発部が行い](https://ja.wikipedia.org/wiki/セガワウ "wikilink")、プロデューサーおよびプログラムはセガ・マークIII用ソフト『[スペースハリアー](../Page/スペースハリアー.md "wikilink")』（[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")）を手掛けた[中裕司](https://ja.wikipedia.org/wiki/中裕司 "wikilink")、ディレクターおよびシナリオは前作にてアシスタントを手掛けた青木千恵子、音楽は前作に引き続き上保徳彦が担当している。
+
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された他、[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として配信された。[2009年](../Page/2009年.md "wikilink")には[Xbox 360用ソフトとして](../Page/Xbox_360.md "wikilink")[Xbox Live Arcadeにて配信](https://ja.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には[iOS用ソフトとして配信された](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。また、[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『**ファンタシースターコレクション**』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）や[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**セガエイジス2500シリーズ Vol.17 ファンタシースター generation:2**』（[2005年](../Page/2005年.md "wikilink")）、『**SEGA AGES 2500シリーズ Vol.32 ファンタシースター コンプリートコレクション**』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）などのオムニバスソフトに収録された。
 
 ## 概要
 
 ファンタシースターシリーズの初期4部作（詳細は当該項目先を参照）において、第2作目にあたる\[1\]。
 
-元々は前作『[ファンタシースター](../Page/ファンタシースター.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")　[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")/[マスターシステム](https://ja.wikipedia.org/wiki/マスターシステム "wikilink")用ソフト・以下『PS1』）のスタッフであった青木千恵子の温めていたシナリオ設定を元に、PS1同様にマークIII用ゲームとして企画が進められていた。その後、セガは新しい家庭用ゲーム機としてメガドライブをリリースしたので本作もそれにあわせてMD初期の目玉ソフトとして発売された。なお、本作はMDを普及させるという重要な役割を担わされ、発売日については絶対死守が命ぜられていた。そのため、ハードウェアを変更するという大きな出来事があったのにもかかわらず、変更決定から企画の練り直しやデバッグも含め、わずか半年間というハードスケジュールで制作が行われた。
+元々は前作『ファンタシースター』（以下『PS1』）のスタッフであった青木千恵子の温めていたシナリオ設定を元に、PS1同様にマークIII用ゲームとして企画が進められていた。その後、セガは新しい家庭用ゲーム機としてメガドライブをリリースしたので本作もそれにあわせてMD初期の目玉ソフトとして発売された。なお、本作はMDを普及させるという重要な役割を担わされ、発売日については絶対死守が命ぜられていた。そのため、ハードウェアを変更するという大きな出来事があったのにもかかわらず、変更決定から企画の練り直しやデバッグも含め、わずか半年間というハードスケジュールで制作が行われた。
 
 本作はメガドライブRPG群の中でも初期4部作中でも、かなり難易度が高い部類に属している。その理由としては広大なダンジョン、レベル上げに必要な経験値の多さ、骨の折れるイベント（多くのダミーから本物のマルエラリーブを探す　など）が挙げられる。当時のプレイヤーは、これら多くの障壁に屈し、挫折に追い込まれたと伝わる\[2\]。。
 
@@ -141,6 +147,185 @@
 
 ## 他機種版
 
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>ファンタシースターコレクション</p></td>
+<td></td>
+<td><p><a href="../Page/セガサターン.md" title="wikilink">セガサターン</a></p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
+<td><p>GS-9186</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>Phantasy Star Collection</p></td>
+<td></td>
+<td><p><a href="../Page/ゲームボーイアドバンス.md" title="wikilink">ゲームボーイアドバンス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:w:Backbone_Entertainment" title="wikilink">Digital Eclipse</a><br />
+<a href="https://ja.wikipedia.org/wiki/セガワウ" title="wikilink">オーバーワークス</a></p></td>
+<td></td>
+<td><p>8メガビットロムカセット</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>セガエイジス2500シリーズ Vol.17<br />
+ファンタシースター generation:2</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>CD-ROM</p></td>
+<td></td>
+<td><p>リメイク版+メガドライブ版の移植</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>ファンタシースターII<br />
+還らざる時の終わりに</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a></p></td>
+<td><p>セガ第7AM研究開発部</p></td>
+<td><p>セガ</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
+（<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>）</p></td>
+<td><p>-</p></td>
+<td><p>メガドライブ版の仮想移植。2019年1月31日　配信・販売終了。</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>SEGA AGES 2500シリーズ Vol.32<br />
+ファンタシースター コンプリートコレクション</p></td>
+<td></td>
+<td><p>PlayStation 2</p></td>
+<td><p><a href="../Page/M2_(ゲーム会社).md" title="wikilink">エムツー</a></p></td>
+<td><p>セガ</p></td>
+<td><p>CD-ROM</p></td>
+<td><p>SLPM-62775</p></td>
+<td><p>メガドライブ版の移植。（『I』・『II』・『IV』他と合わせて収録）</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>ファンタシースターII</p></td>
+<td></td>
+<td><p><a href="../Page/FOMA.md" title="wikilink">FOMA</a>903i、703iシリーズ以降<br />
+（<a href="https://ja.wikipedia.org/wiki/iアプリ" title="wikilink">iアプリ</a>）</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+（★ぷよぷよ！セガ）</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>ファンタシースターII</p></td>
+<td></td>
+<td><p><a href="../Page/BREW.md" title="wikilink">BREW</a>3.1 、BREW4.0<br />
+（<a href="https://ja.wikipedia.org/wiki/EZアプリ" title="wikilink">EZアプリ</a>）</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+（★ぷよぷよ！セガ）</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>ファンタシースターII 還らざる時の終わりに</p></td>
+<td></td>
+<td><p><a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a></p></td>
+<td><p>セガ第7AM研究開発部</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+(<a href="https://ja.wikipedia.org/wiki/Xbox_Live_Arcade" title="wikilink">Xbox Live Arcade</a>)</p></td>
+<td><p>-</p></td>
+<td><p>メガドライブ版の移植</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>ファンタシースターII 還らざる時の終わりに</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iPhone" title="wikilink">iPhone</a>、<a href="https://ja.wikipedia.org/wiki/iPod_touch" title="wikilink">iPod touch</a><br />
+(<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>)</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td><p>メガドライブ版の移植</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>Phantasy Star II</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+(<a href="../Page/Steam.md" title="wikilink">Steam</a>)</p></td>
+<td><p>211203</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>SEGA AGES 2500シリーズ Vol.32<br />
+ファンタシースター コンプリートコレクション</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
+(<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
+<td><p>エムツー</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+（<a href="https://ja.wikipedia.org/wiki/ゲームアーカイブス" title="wikilink">PlayStation 2アーカイブス</a>）</p></td>
+<td><p>NPJD-00028</p></td>
+<td><p>PS2版を仮想移植した版</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>SEGA AGES 2500シリーズ Vol.17<br />
+ファンタシースター generation:2</p></td>
+<td><p>{{vgrelease new|JP|2014年8月20日[11]<ref>{{Cite web |author=皐月誠 |date=2014-08-20</p></td>
+<td><p>title=『ファンタシースター generation』シリーズが配信開始。初期『ファンタシースター』のリメイク版がPS3にて再登場！ |website=<a href="https://ja.wikipedia.org/wiki/アスキー・メディアワークス" title="wikilink">電撃オンライン</a> |publisher=<a href="https://ja.wikipedia.org/wiki/KADOKAWA" title="wikilink">KADOKAWA</a> |language= <a href="../Page/日本語.md" title="wikilink">日本語</a> |accessdate=2020-03-08}}</ref>[12]}}</p></td>
+<td><p>PlayStation 3<br />
+(PlayStation Network)</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+（PlayStation 2アーカイブス）</p></td>
+<td><p>NPJD-00058</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>ファンタシースターII 還らざる時の終わりに</p></td>
+<td></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
   - 携帯アプリ版
 
 先述のとおり、携帯版はNTTドコモの[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")・auの[EZアプリ](https://ja.wikipedia.org/wiki/EZアプリ "wikilink")・ソフトバンクモバイルの[S\!アプリ](../Page/S!アプリ.md "wikilink")に移植されている。その際に以下の変更が行われている。
@@ -167,17 +352,17 @@
 
 ## 評価
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「クロスレビュー」では、7・7・8・6の合計28点（満40点）になっており\[11\]\[12\]、レビュアーの意見としては、「2重スクロールはいいよね。ダンジョンの感じがよくでてる。（中略）ただ、マップが広すぎるんだよね」などと評されている\[13\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では、7・7・8・6の合計28点（満40点）になっており\[13\]\[14\]、レビュアーの意見としては、「2重スクロールはいいよね。ダンジョンの感じがよくでてる。（中略）ただ、マップが広すぎるんだよね」などと評されている\[15\]。
 
 <!-- end list -->
 
-  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.13点（満30点）となっている\[14\]。また、同雑誌1993年7月号特別付録の「メガドライブ&ゲームギア オールカタログ'93」では、「ゲーム中の戦闘シーンにはアニメーション処理を多用して、各キャラの持つ特殊能力（テクニック）を使うと、より派手なグラフィックが楽しめる。また、ダンジョン内では2重スクロールが効果的に使われ画面に立体感を出している」と紹介されている\[15\]。
+  - ゲーム誌『[メガドライブFAN](../Page/ドリームキャストFAN.md "wikilink")』の読者投票による「ゲーム通信簿」での評価は以下の通りとなっており、23.13点（満30点）となっている\[16\]。また、同雑誌1993年7月号特別付録の「メガドライブ&ゲームギア オールカタログ'93」では、戦闘シーンにおいてアニメーション処理が多用されている点や、各キャラクターの特殊能力の使用による特殊効果に関して「より派手なグラフィックが楽しめる」と肯定的に評価、またダンジョン内において2重スクロールが効果的に使用されていると指摘した上で「立体感を出している」と肯定的に評価した\[17\]。
 
 | 項目 | キャラクタ | 音楽   | 操作性  | 熱中度  | お買得度 | オリジナリティ | 総合    |
 | -- | ----- | ---- | ---- | ---- | ---- | ------- | ----- |
 | 得点 | 4.30  | 3.84 | 3.51 | 3.96 | 3.76 | 3.76    | 23.13 |
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「流れる宇宙空間をバックに、銃を撃ち、剣を振り下ろし、ツメで引っかくというアクションたっぷりに描く戦闘シーン。そしてダンジョンは平面ながら、手前には天井のパイプ、後ろには通路を置き、それぞれ別々の速度でスクロールして奥行きある立体感を表現する手法は、マジックそのものだった」と評している\[16\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、宇宙空間を背景とした戦闘シーンに関して「銃を撃ち、剣を振り下ろし、ツメで引っかくというアクションたっぷりに描く戦闘シーン」と肯定的に評価、また手前に天井のパイプを表示して後ろに通路を配置、個別の速度でスクロールさせることで奥行きのある立体感を表現している事に関して「マジックそのものだった」と称賛した\[18\]。
 
 ## 関連作品
 
@@ -245,3 +430,5 @@
 14.
 15.
 16.
+17.
+18.

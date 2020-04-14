@@ -1,4 +1,4 @@
-> この記事は[  2ND](https://ja.wikipedia.org/wiki/__2ND)から翻訳されています。
+> この記事は[メダル・オブ・オナー アライドアサルト リロード2ND](https://ja.wikipedia.org/wiki/メダル・オブ・オナー_アライドアサルト_リロード2ND)から翻訳されています。
 
 
 『**メダル・オブ・オナー アライドアサルトリロード2ND**』 (*Medal of Honor: Allied Assault Breakthrough*) は、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")より発売されている[一人称視点シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink") (FPS)。

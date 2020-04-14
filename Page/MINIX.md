@@ -79,6 +79,8 @@ MINIXは、C、[C++](../Page/C++.md "wikilink")、[FORTRAN](../Page/FORTRAN.md "
 
   - [MINIX on VMware Player](http://minixvmp.com/)
 
+  - [GitHubのMinixリポジトリ](https://github.com/Stichting-MINIX-Research-Foundation/minix/)
+
 [Category:Unix系オペレーティングシステム](https://ja.wikipedia.org/wiki/Category:Unix系オペレーティングシステム "wikilink") [Category:フリーソフトウェアOS](https://ja.wikipedia.org/wiki/Category:フリーソフトウェアOS "wikilink") [Category:教育ソフトウェア](https://ja.wikipedia.org/wiki/Category:教育ソフトウェア "wikilink") [Category:1987年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1987年のソフトウェア "wikilink")
 
 1.  [UNIX\#UNIXの普及と展開](https://ja.wikipedia.org/wiki/UNIX#UNIXの普及と展開 "wikilink")

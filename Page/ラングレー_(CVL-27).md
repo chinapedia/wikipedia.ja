@@ -1,4 +1,4 @@
-> この記事は[ \(CVL-27\)](https://ja.wikipedia.org/wiki/_\(CVL-27\))から翻訳されています。
+> この記事は[ラングレー \(CVL-27\)](https://ja.wikipedia.org/wiki/ラングレー_\(CVL-27\))から翻訳されています。
 
 
 |                                                                                                                                                                                                                                                                                                                                                                                                  |

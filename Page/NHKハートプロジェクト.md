@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKハートプロジェクト](https://ja.wikipedia.org/wiki/NHKハートプロジェクト)から翻訳されています。
 
 
 **NHKハートプロジェクト**は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")が、障害のある人も無い人も共に生きる社会の実現を目指すことを目的に行っているキャンペーン全体の総称。

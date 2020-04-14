@@ -1,4 +1,4 @@
-> この記事は[ \(CVN-65\)](https://ja.wikipedia.org/wiki/_\(CVN-65\))から翻訳されています。
+> この記事は[エンタープライズ \(CVN-65\)](https://ja.wikipedia.org/wiki/エンタープライズ_\(CVN-65\))から翻訳されています。
 
 
 **エンタープライズ** (**USS Enterprise, CVAN/CVN-65**) は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[航空母艦](../Page/航空母艦.md "wikilink")。世界初の[原子力空母](../Page/原子力空母.md "wikilink")であり、アメリカ海軍の戦闘艦船として最長の就役年数を持ち、半世紀にわたって同海軍の象徴となっていた\[1\]。[バージニア州](../Page/バージニア州.md "wikilink")[ノーフォークにある](../Page/ノーフォーク_\(バージニア州\).md "wikilink")[ノーフォーク海軍基地](https://ja.wikipedia.org/wiki/ノーフォーク海軍基地 "wikilink")を母港とした\[2\]。

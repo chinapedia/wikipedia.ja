@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[レイジェンド滋賀FC](https://ja.wikipedia.org/wiki/レイジェンド滋賀FC)から翻訳されています。
 
 
 **レイジェンド滋賀FC**（レイジェンドしがフットボールクラブ、）は、[滋賀県](../Page/滋賀県.md "wikilink")[守山市](../Page/守山市.md "wikilink")を本拠地とする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のクラブチーム。[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の一つである。
@@ -13,7 +13,7 @@
 
 2011年11月にクラブ名の公募を行い、12月に「**レイジェンド滋賀FC**」に改名した\[2\]。レイジェンドとはレイク (Lake) とレジェンド (Legend) を組み合わせた造語で、滋賀県を中心にクラブが発展を続け、遥か未来に「湖の伝説」として語り継がれて欲しいという願いが込められている\[3\]。2012年は2部2位となり、1部への再昇格を果たした。
 
-2015年5月、[JFLに所属する](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[MIOびわこ滋賀](../Page/MIOびわこ滋賀.md "wikilink")と統合予定と[京都新聞](../Page/京都新聞.md "wikilink")に報じられた\[4\]。しかし交渉がまとまらず、2015年9月、チーム統合を断念して独自にJリーグ加盟を目指す方針になった旨報じられた\[5\]。
+2015年5月、[JFLに所属する](../Page/日本フットボールリーグ.md "wikilink")[MIOびわこ滋賀](../Page/MIOびわこ滋賀.md "wikilink")と統合予定と[京都新聞](../Page/京都新聞.md "wikilink")に報じられた\[4\]。しかし交渉がまとまらず、2015年9月、チーム統合を断念して独自にJリーグ加盟を目指す方針になった旨報じられた\[5\]。
 
 ## チーム成績・歴代監督
 
@@ -38,7 +38,7 @@
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 7位                                      | 8      | 14 | 2  | 2  | 10 | 7   | 21 | \-14 | [橋本雄二](../Page/橋本雄二.md "wikilink")                         | \-                                                       |                                                |
 | [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 関西2部                                    | 2位     | 30 | 14 | 9  | 3  | 2   | 26 | 13   | 13                                                         | 橋本雄二/[出口司](https://ja.wikipedia.org/wiki/出口司 "wikilink") | \-                                             |
 | [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 関西1部                                    | 6位     | 12 | 14 | 3  | 3  | 8   | 14 | 28   | \-14                                                       | 出口司                                                      | \-                                             |
-| [2020](https://ja.wikipedia.org/wiki/2020年の地域リーグ_\(サッカー\) "wikilink") |                                         |        | 14 |    |    |    |     |    |      | [今西晃一](https://ja.wikipedia.org/wiki/今西晃一 "wikilink")      |                                                          |                                                |
+| [2020](https://ja.wikipedia.org/wiki/2020年の地域リーグ_\(サッカー\) "wikilink") |                                         |        | 14 |    |    |    |     |    |      | [今西晃一](../Page/今西晃一.md "wikilink")                         |                                                          |                                                |
 
 ## タイトル
 
@@ -49,7 +49,7 @@
 
 ## 所属選手・スタッフ
 
-  - 2019年
+  - 2020年
 
 ### スタッフ
 
@@ -63,29 +63,35 @@
 </tr>
 <tr class="even">
 <td><p><strong>監督</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/出口司" title="wikilink">出口司</a></p></td>
-<td><p>レイジェンド滋賀FC コーチ</p></td>
-<td><p>レイジェンド滋賀FC U-15 コーチ兼任</p></td>
+<td><p><a href="../Page/今西晃一.md" title="wikilink">今西晃一</a></p></td>
+<td><p><a href="../Page/京都府立南丹高等学校.md" title="wikilink">南丹高校サッカー部</a> 監督</p></td>
+<td><p>新任</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>コーチ</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山内義博" title="wikilink">山内義博</a></p></td>
 <td><p>レイジェンド滋賀FC 監督</p></td>
-<td><p>新任</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><strong>コーチ</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田名部博光" title="wikilink">田名部博光</a></p></td>
+<td><p><a href="../Page/アルビレックス新潟シンガポール.md" title="wikilink">アルビレックス新潟シンガポール</a> トレーナー</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>コーチ</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松下哲広" title="wikilink">松下哲広</a></p></td>
 <td><p>レイジェンド滋賀FC 総監督</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>コーチ</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/杉本聡" title="wikilink">杉本聡</a></p></td>
 <td><p>TOJITSU滋賀FC コーチ</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -109,53 +115,44 @@
 <tr class="even">
 <td><p><strong>GK</strong></p></td>
 <td><p><strong>1</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐久間秀" title="wikilink">佐久間秀</a></p></td>
+<td><p><a href="../Page/アルテリーヴォ和歌山.md" title="wikilink">アルテリーヴォ和歌山</a></p></td>
+<td><p>2020年</p></td>
+<td><p>新加入</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>23</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/金城賢司" title="wikilink">金城賢司</a></p></td>
 <td><p><a href="../Page/MIOびわこ滋賀.md" title="wikilink">MIOびわこ滋賀</a></p></td>
 <td><p>2017年</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>23</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上河健太" title="wikilink">上河健太</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/学校法人吉田学園_(北海道)#専門学校北海道体育大学校" title="wikilink">専門学校北海道体育大学校</a></p></td>
-<td><p>2016年</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>30</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/太田俊輔" title="wikilink">太田俊輔</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ブリオベッカ浦安" title="wikilink">ブリオベッカ浦安</a></p></td>
-<td><p>2019年</p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><strong>37</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/兒島拓哉" title="wikilink">兒島拓哉</a></p></td>
 <td><p><a href="../Page/追手門学院大学.md" title="wikilink">追手門学院大学</a></p></td>
 <td><p>2019年</p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>DF</strong></p></td>
-<td><p><strong>2</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山田大地" title="wikilink">山田大地</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴィアティン三重" title="wikilink">ヴィアティン三重</a></p></td>
-<td><p>2019年</p></td>
-<td><p>新加入<br />
-<a href="../Page/期限付き移籍.md" title="wikilink">期限付き移籍</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><strong>DF</strong></p></td>
+<td><p><strong>2</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/飯塚稔也" title="wikilink">飯塚稔也</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC_CASA_FORTUNA_OYAMA" title="wikilink">FC CASA FORTUNA OYAMA</a></p></td>
+<td><p>2019年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>3</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平山創士" title="wikilink">平山創士</a></p></td>
 <td><p><a href="../Page/東京23フットボールクラブ.md" title="wikilink">東京23FC</a></p></td>
@@ -163,7 +160,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>4</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/長谷川圭_(サッカー選手)" title="wikilink">長谷川圭</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北陸大学サッカー部" title="wikilink">北陸大学</a></p></td>
@@ -171,15 +168,15 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>5</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/飯塚稔也" title="wikilink">飯塚稔也</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC_CASA_FORTUNA_OYAMA" title="wikilink">FC CASA FORTUNA OYAMA</a></p></td>
-<td><p>2019年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/竹本章人" title="wikilink">竹本章人</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FK_COBALT" title="wikilink">FK COBALT</a></p></td>
+<td><p>2020年</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>6</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/久保卓哉" title="wikilink">久保卓哉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FC大阪" title="wikilink">FC大阪</a></p></td>
@@ -187,7 +184,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>7</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/町田太壱" title="wikilink">町田太壱</a></p></td>
 <td><p><a href="../Page/アイゴッソ高知.md" title="wikilink">アイゴッソ高知</a></p></td>
@@ -195,12 +192,20 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong>20</strong></p></td>
+<tr class="even">
+<td><p><strong>15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中野拓海" title="wikilink">中野拓海</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西南FC" title="wikilink">西南FC</a></p></td>
 <td><p>2018年</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>16</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山岡龍次郎" title="wikilink">山岡龍次郎</a></p></td>
+<td><p><a href="../Page/大阪経済大学.md" title="wikilink">大阪経済大学</a></p></td>
+<td><p>2020年</p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -208,22 +213,6 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/前田正治_(サッカー選手)" title="wikilink">前田正治</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鹿児島城西高等学校" title="wikilink">鹿児島城西高校</a></p></td>
 <td><p>2010年</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>24</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/塚本大耀" title="wikilink">塚本大耀</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FC徳島" title="wikilink">FC徳島</a></p></td>
-<td><p>2019年</p></td>
-<td><p>新加入</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>26</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/廣畑香月" title="wikilink">廣畑香月</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デッツォーラ島根" title="wikilink">デッツォーラ島根</a>EC</p></td>
-<td><p>2018年</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -241,7 +230,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/山田清人_(サッカー選手)" title="wikilink">山田清人</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/つくばFC" title="wikilink">ジョイフル本田つくばFC</a></p></td>
 <td><p>2019年</p></td>
-<td><p>新加入</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>10</strong></p></td>
@@ -253,9 +242,9 @@
 </tr>
 <tr class="even">
 <td><p><strong>13</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/渡辺翔貴" title="wikilink">渡辺翔貴</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/バンディオンセ加古川" title="wikilink">バンディオンセ加古川</a></p></td>
-<td><p>2018年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/杉本涼" title="wikilink">杉本涼</a></p></td>
+<td><p><a href="../Page/ルネス学園甲賀サッカークラブ.md" title="wikilink">ルネス学園甲賀SC</a></p></td>
+<td><p>2019年</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -268,22 +257,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>15</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/杉本涼" title="wikilink">杉本涼</a></p></td>
-<td><p><a href="../Page/ルネス学園甲賀サッカークラブ.md" title="wikilink">ルネス学園甲賀SC</a></p></td>
+<td><p><strong>17</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/井上大介_(サッカー選手)" title="wikilink">井上大介</a></p></td>
+<td><p><a href="../Page/甲南大学.md" title="wikilink">甲南大学</a></p></td>
 <td><p>2019年</p></td>
-<td><p>新加入</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>17</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川崎圭亮" title="wikilink">川﨑圭亮</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポルベニルカシハラ" title="wikilink">ポルベニル飛鳥</a></p></td>
-<td><p>2019年</p></td>
-<td><p>再加入</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><strong>18</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡田慧" title="wikilink">岡田慧</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/環太平洋大学体育会サッカー部" title="wikilink">環太平洋大学</a></p></td>
@@ -291,19 +272,27 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>21</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田中慶吾" title="wikilink">田中慶吾</a></p></td>
+<td><p><a href="../Page/京都橘中学校・高等学校.md" title="wikilink">京都橘高校</a></p></td>
+<td><p>2020年</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
 <tr class="odd">
-<td><p><strong>19</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/堀田裕一郎" title="wikilink">堀田裕一郎</a></p></td>
-<td><p>ルネス学園甲賀SC</p></td>
-<td><p>2019年</p></td>
+<td><p><strong>25</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岡田優樹" title="wikilink">岡田優樹</a></p></td>
+<td><p>ルネス学園SC</p></td>
+<td><p>2020年</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>28</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/井上大介_(サッカー選手)" title="wikilink">井上大介</a></p></td>
-<td><p><a href="../Page/甲南大学.md" title="wikilink">甲南大学</a></p></td>
-<td><p>2019年</p></td>
+<td><p><strong>27</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤松潤" title="wikilink">藤松潤</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東海大学体育会サッカー部" title="wikilink">東海大学</a></p></td>
+<td><p>2020年</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
@@ -318,9 +307,9 @@
 <tr class="even">
 <td><p><strong>FW</strong></p></td>
 <td><p><strong>9</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/小畑賄人" title="wikilink">小畑賄人</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/沖縄SV" title="wikilink">沖縄SV</a></p></td>
-<td><p>2019年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小國憲弥" title="wikilink">小國憲弥</a></p></td>
+<td><p>阪南大学</p></td>
+<td><p>2020年</p></td>
 <td><p>新加入</p></td>
 </tr>
 <tr class="odd">
@@ -328,32 +317,47 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/長谷川慎梧" title="wikilink">長谷川慎梧</a></p></td>
 <td><p>ジョイフル本田つくばFC</p></td>
 <td><p>2019年</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>19</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山本健介_(サッカー選手)" title="wikilink">山本健介</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北陸大学サッカー部" title="wikilink">FC北陸</a></p></td>
+<td><p>2020年</p></td>
+<td><p>新加入</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>20</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大塚光一郎" title="wikilink">大塚光一郎</a></p></td>
+<td><p>MIOびわこ滋賀</p></td>
+<td><p>2020年</p></td>
 <td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>21</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/森崎有哉" title="wikilink">森﨑有哉</a></p></td>
-<td><p>ヴィアティン三重</p></td>
-<td><p>2019年</p></td>
-<td><p>新加入<br />
-期限付き移籍</p></td>
+<td><p><strong>24</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/高橋陸" title="wikilink">高橋陸</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FC岐阜SECOND" title="wikilink">FC岐阜SECOND</a></p></td>
+<td><p>2020年</p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>25</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/木村達哉_(サッカー選手)" title="wikilink">木村達哉</a></p></td>
-<td><p><a href="../Page/JAPANサッカーカレッジ.md" title="wikilink">JAPANサッカーカレッジ</a></p></td>
-<td><p>2016年</p></td>
-<td></td>
+<td><p><strong>26</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/平賀能捷" title="wikilink">平賀能捷</a></p></td>
+<td><p><a href="../Page/アルビレックス新潟シンガポール.md" title="wikilink">アルビレックス新潟シンガポール</a></p></td>
+<td><p>2020年</p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>28</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中村将吾" title="wikilink">中村将吾</a></p></td>
+<td><p><a href="../Page/東山中学校・高等学校.md" title="wikilink">東山高校</a></p></td>
+<td><p>2020年</p></td>
+<td><p>新加入</p></td>
 <td></td>
 </tr>
 </tbody>

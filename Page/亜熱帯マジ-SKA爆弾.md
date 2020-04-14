@@ -1,4 +1,4 @@
-> この記事は[-SKA](https://ja.wikipedia.org/wiki/-SKA)から翻訳されています。
+> この記事は[亜熱帯マジ-SKA爆弾](https://ja.wikipedia.org/wiki/亜熱帯マジ-SKA爆弾)から翻訳されています。
 
 
 **亜熱帯マジ-SKA爆弾**（あねったいまじすかばくだん）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")株式会社の[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")（[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")）で活躍する、[小野秀幸](../Page/小野秀幸.md "wikilink")を隊長として、[Jimmy Weckl](https://ja.wikipedia.org/wiki/上高治巳 "wikilink")、Doki Doki Dokkyが結成した[スカ](../Page/スカ.md "wikilink")ユニット。主に『[GUITARFREAKS](../Page/GUITARFREAKS.md "wikilink")』、『[drummania](https://ja.wikipedia.org/wiki/drummania "wikilink")』、『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』に曲提供をしている。ユニット名はジャズバンド「[熱帯JAZZ楽団](../Page/熱帯JAZZ楽団.md "wikilink")」のパロディ。

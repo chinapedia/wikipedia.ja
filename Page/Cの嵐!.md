@@ -1,4 +1,4 @@
-> この記事は[C!](https://ja.wikipedia.org/wiki/C!)から翻訳されています。
+> この記事は[Cの嵐!](https://ja.wikipedia.org/wiki/Cの嵐!)から翻訳されています。
 
 
 『**Cの嵐\!**』（クレームのあらし\!）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")[冠](https://ja.wikipedia.org/wiki/冠番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。 [日本テレビ系で](../Page/日本テレビ放送網.md "wikilink")[2002年](../Page/2002年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink") - [2003年](../Page/2003年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")、毎週[水曜日](../Page/水曜日.md "wikilink")24:58 - 25:28に放送された。

@@ -1,4 +1,4 @@
-> この記事は[BTS \(\)](https://ja.wikipedia.org/wiki/BTS_\(\))から翻訳されています。
+> この記事は[BTS \(放送技術規格\)](https://ja.wikipedia.org/wiki/BTS_\(放送技術規格\))から翻訳されています。
 
 
 **BTS**（ビーティーエス、Broadcasters Technical Standard）は、かつて[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）が制定した[放送](../Page/放送.md "wikilink")技術規格である。**NHK放送技術規格**ともいう。

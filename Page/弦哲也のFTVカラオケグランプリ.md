@@ -1,4 +1,4 @@
-> この記事は[FTV](https://ja.wikipedia.org/wiki/FTV)から翻訳されています。
+> この記事は[弦哲也のFTVカラオケグランプリ](https://ja.wikipedia.org/wiki/弦哲也のFTVカラオケグランプリ)から翻訳されています。
 
 
 『**弦哲也のFTVカラオケグランプリ**』（げんてつやのエフティーブイカラオケグランプリ）は、[福島テレビ](../Page/福島テレビ.md "wikilink")（FTV）で、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月14日](../Page/4月14日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")まで放送されていた視聴者参加型の[ローカル番組](../Page/ローカル番組.md "wikilink")・[音楽番組](../Page/音楽番組.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ Lon-mu](https://ja.wikipedia.org/wiki/_Lon-mu)から翻訳されています。
+> この記事は[倫敦音楽館 Lon-mu](https://ja.wikipedia.org/wiki/倫敦音楽館_Lon-mu)から翻訳されています。
 
 
 『**倫敦音楽館 Lon-Mu**』（ロンドンミュージアム ロンミュー）は、[テレビ東京系列局ほかで放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")と[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")の共同製作。全24回。テレビ東京系列局では[2001年](../Page/2001年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")から[2002年](../Page/2002年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで、毎週火曜 22:00 - 22:54 （[日本標準時](../Page/日本標準時.md "wikilink")）に放送。

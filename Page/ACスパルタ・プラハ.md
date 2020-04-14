@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[ACスパルタ・プラハ](https://ja.wikipedia.org/wiki/ACスパルタ・プラハ)から翻訳されています。
 
 
 **ACスパルタ・プラハ**（）は、[チェコ](../Page/チェコ.md "wikilink")共和国の首都[プラハ](../Page/プラハ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

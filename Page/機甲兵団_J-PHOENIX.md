@@ -1,4 +1,4 @@
-> この記事は[ J-PHOENIX](https://ja.wikipedia.org/wiki/_J-PHOENIX)から翻訳されています。
+> この記事は[機甲兵団 J-PHOENIX](https://ja.wikipedia.org/wiki/機甲兵団_J-PHOENIX)から翻訳されています。
 
 
 『**機甲兵団 J-PHOENIX**』（**きこうへいだん ジェイフェニックス**）は、[2001年](../Page/2001年.md "wikilink")から[2004年](../Page/2004年.md "wikilink")にかけて発売された[タカラの対戦ロボット](../Page/タカラ_\(玩具メーカー\).md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。

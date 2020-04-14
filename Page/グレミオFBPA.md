@@ -1,4 +1,4 @@
-> この記事は[FBPA](https://ja.wikipedia.org/wiki/FBPA)から翻訳されています。
+> この記事は[グレミオFBPA](https://ja.wikipedia.org/wiki/グレミオFBPA)から翻訳されています。
 
 
 **グレミオ・フットボール・ポルト・アレグレンセ** () 、通称**グレミオ** (Grêmio) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオグランデ・ド・スル州](../Page/リオグランデ・ド・スル州.md "wikilink")の州都[ポルト・アレグレ](../Page/ポルト・アレグレ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。グレミオは[ブラジルポルトガル語](../Page/ブラジルポルトガル語.md "wikilink")で、団体・組織・組合・クラブを意味する。グレーミオと表記されることもある。
@@ -7,7 +7,7 @@
 
 1903年にドイツ系移民によって創立された。[リオグランデ・ド・スル州選手権](https://ja.wikipedia.org/wiki/カンピオナート・ガウショ "wikilink")33回優勝のほか、[ブラジル全国選手権](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink")4回、[コパ・リベルタドーレス](https://ja.wikipedia.org/wiki/コパ・リベルタドーレス "wikilink")2回、[トヨタカップ](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")1回優勝を経験している。その伝統的なプレースタイルは、激しくスピード感にあふれ、ヨーロッパのスタイルに近い。同じポルト・アレグレを本拠地とする[SCインテルナシオナル](../Page/SCインテルナシオナル.md "wikilink")とはライバル関係にあり、その試合は「Gre-Nal (グレ-ナウ) 」と呼ばれるポルト・アレグレ伝統のクラシコとして盛り上がる。ブラジル全国で7番目に人気のあるクラブで、リオグランデ・ド・スル州で1番人気のあるクラブである。\[1\]
 
-また、1997年から2000年までは日本の[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（98年までは[旧JFL](../Page/ジャパンフットボールリーグ.md "wikilink")）の[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")と提携し、日本人選手の留学受け入れや[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")選手の斡旋などを行っていた。川崎のユニフォームやエンブレムはグレミオを模した物となり、2001年の提携解消後も川崎はグレミオ提携時からのチームカラーである水色と黒を継承している。2013年[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")所属の [FC大阪](https://ja.wikipedia.org/wiki/FC大阪 "wikilink") とクラブ提携を結んでいる。
+また、1997年から2000年までは日本の[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（98年までは[旧JFL](../Page/ジャパンフットボールリーグ.md "wikilink")）の[川崎フロンターレ](https://ja.wikipedia.org/wiki/川崎フロンターレ "wikilink")と提携し、日本人選手の留学受け入れや[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")選手の斡旋などを行っていた。川崎のユニフォームやエンブレムはグレミオを模した物となり、2001年の提携解消後も川崎はグレミオ提携時からのチームカラーである水色と黒を継承している。2013年[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink")所属の [FC大阪](https://ja.wikipedia.org/wiki/FC大阪 "wikilink") とクラブ提携を結んでいる。
 
 ## タイトル
 

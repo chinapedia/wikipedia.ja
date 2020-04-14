@@ -1,4 +1,4 @@
-> この記事は[ARB \(\)](https://ja.wikipedia.org/wiki/ARB_\(\))から翻訳されています。
+> この記事は[ARB \(バンド\)](https://ja.wikipedia.org/wiki/ARB_\(バンド\))から翻訳されています。
 
 
 **ARB**（エーアールビー）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

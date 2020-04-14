@@ -1,4 +1,4 @@
-> この記事は[SBS](https://ja.wikipedia.org/wiki/SBS)から翻訳されています。
+> この記事は[SBSテレビ夕刊](https://ja.wikipedia.org/wiki/SBSテレビ夕刊)から翻訳されています。
 
 
 『**SBSテレビ夕刊**』（エスビーエステレビゆうかん）は、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBSテレビ）で放送された夕方の[報道番組](../Page/報道番組.md "wikilink")（静岡県内ローカル、協力：[静岡新聞](../Page/静岡新聞.md "wikilink")）。

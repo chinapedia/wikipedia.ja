@@ -3,7 +3,7 @@
 
 『**MUSIX\!**』（ミュージックス\!）は[2000年](../Page/2000年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")から[2003年](../Page/2003年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列（[TXN](https://ja.wikipedia.org/wiki/TXN "wikilink")）で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。
 
-[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")（JFN）の『[WORLDMUSIX](https://ja.wikipedia.org/wiki/WORLDMUSIX "wikilink")』との関係性はない。
+[ジャパンエフエムネットワーク](../Page/全国FM放送協議会.md "wikilink")（JFN）の『[WORLDMUSIX](https://ja.wikipedia.org/wiki/WORLDMUSIX "wikilink")』との関係性はない。
 
 ## 番組概要
 

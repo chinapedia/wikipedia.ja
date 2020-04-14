@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[レスター・B・ピアソン](https://ja.wikipedia.org/wiki/レスター・B・ピアソン)から翻訳されています。
 
 
 ` `

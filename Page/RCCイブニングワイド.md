@@ -1,4 +1,4 @@
-> この記事は[RCC](https://ja.wikipedia.org/wiki/RCC)から翻訳されています。
+> この記事は[RCCイブニングワイド](https://ja.wikipedia.org/wiki/RCCイブニングワイド)から翻訳されています。
 
 
 **RCCイブニングワイド**は、RCC[中国放送](../Page/中国放送.md "wikilink")で[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで、平日15:54 - 18:55（[JST](../Page/日本標準時.md "wikilink")）に放送された[ローカル](../Page/ローカル番組.md "wikilink")[コンプレックス番組である](../Page/コンプレックス_\(番組形式\).md "wikilink")。

@@ -14,18 +14,19 @@
       - [グリーン・デイ](../Page/グリーン・デイ.md "wikilink")の[ビリー・ジョー・アームストロング](../Page/ビリー・ジョー・アームストロング.md "wikilink")のようなギタリストをもっと評価するべきだと語ったことがある\[6\]。
   - **高田 雄一**（たかだ ゆういち、 - ）
       - [ベースとコーラスを担当](../Page/ベース_\(弦楽器\).md "wikilink")\[7\]。
-      - 2018年5月からMAYKIDZのベーシストとしても活動\[8\]。
+      - バンドの活動休止後の2009年の2月にMEANINGにベーシストとして正式加入\[8\]。（2018年12月11日のライブを以って脱退\[9\]）
+      - 2018年5月からMAYKIDZのベーシストとしても活動\[10\]。
   - **高橋 宏貴**（たかはし ひろたか、 - ）
-      - [ドラムスとコーラスを担当](../Page/ドラムセット.md "wikilink")\[9\]。バンドの名付け親。
-      - バンドの活動休止後の2009年に[Scars Boroughを結成](https://ja.wikipedia.org/wiki/Scars_Borough "wikilink")（2016年3月から活動休止）\[10\]\[11\]。また2010年3月、[THE PREDATORSにドラマーとして加入](../Page/THE_PREDATORS.md "wikilink")。2018年札幌を中心に活動しているバンド、[トリコンドル](https://ja.wikipedia.org/wiki/トリコンドル "wikilink")のギター久米と共に2人組インストバンド「PAM」を結成\[12\]。
+      - [ドラムスとコーラスを担当](../Page/ドラムセット.md "wikilink")\[11\]。バンドの名付け親。
+      - バンドの活動休止後の2009年に[Scars Boroughを結成](https://ja.wikipedia.org/wiki/Scars_Borough "wikilink")（2016年3月から活動休止）\[12\]\[13\]。また2010年3月、[THE PREDATORSにドラマーとして加入](../Page/THE_PREDATORS.md "wikilink")。2018年札幌を中心に活動しているバンド、[トリコンドル](https://ja.wikipedia.org/wiki/トリコンドル "wikilink")のギター久米と共に2人組インストバンド「PAM」を結成\[14\]。
 
 ## 概要
 
-細美武士（Vo,G）、生形真一（G）、高田雄一（B）、高橋宏貴（Dr）の4人からなるロックバンド\[13\]。1998年12月末に千葉県で結成\[14\]。2001年にアルバム『ELLEGARDEN』で全国デビュー。5枚のスタジオ・アルバムをリリースし、2006年11月発売のアルバム『ELEVEN FIRE CRACKER』はインディーズリリースながらオリコンチャート初登場1位を記録、2007年3月には幕張メッセでのワンマンライブを成功させる\[15\]。作品制作においてメンバー間にモチベーションの差が出てきたことを理由に、2008年より活動を休止\[16\]。2018年5月10日、約10年ぶりとなる活動再開を発表\[17\]。
+細美武士（Vo,G）、生形真一（G）、高田雄一（B）、高橋宏貴（Dr）の4人からなるロックバンド\[15\]。1998年12月末に千葉県で結成\[16\]。2001年にアルバム『ELLEGARDEN』で全国デビュー。5枚のスタジオ・アルバムをリリースし、2006年11月発売のアルバム『ELEVEN FIRE CRACKER』はインディーズリリースながらオリコンチャート初登場1位を記録、2007年3月には幕張メッセでのワンマンライブを成功させる\[17\]。作品制作においてメンバー間にモチベーションの差が出てきたことを理由に、2008年より活動を休止\[18\]。2018年5月10日、約10年ぶりとなる活動再開を発表\[19\]。
 
 ### バンド名の由来
 
-高橋は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")に開催されるライブチケットを印刷する際、どこにもない個性的なバンド名を付したいと考え、[昭文社](../Page/昭文社.md "wikilink")発行の「漢字用語辞典・外来語辞典」をめくり、ふさわしい言葉を探した\[18\]。そして高橋は、「ELLE」という単語に知的な響きを、「GARDEN」という単語に馬鹿馬鹿しさを感じ、これらを組み合わせてバンド名とした\[19\]。
+高橋は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")に開催されるライブチケットを印刷する際、どこにもない個性的なバンド名を付したいと考え、[昭文社](../Page/昭文社.md "wikilink")発行の「漢字用語辞典・外来語辞典」をめくり、ふさわしい言葉を探した\[20\]。そして高橋は、「ELLE」という単語に知的な響きを、「GARDEN」という単語に馬鹿馬鹿しさを感じ、これらを組み合わせてバンド名とした\[21\]。
 
 ### アルバム名
 
@@ -85,18 +86,18 @@
 
 ### 逸話
 
-  - フランスのファッションブランドである「ELLE」に、[商標](../Page/商標.md "wikilink")権の侵害として告訴された。[2007年](../Page/2007年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")、[東京地裁はこれらの訴えを認め](../Page/東京地方裁判所.md "wikilink")、[不正競争防止法](../Page/不正競争防止法.md "wikilink")違反として該当するELLEGARDENのグッズなどの販売を一部差し止める[判決](https://ja.wikipedia.org/wiki/判決 "wikilink")を下した\[20\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")、[東京高裁は上記訴訟の](../Page/東京高等裁判所.md "wikilink")[控訴審](https://ja.wikipedia.org/wiki/控訴審 "wikilink")において「ELLEGARDEN」を「ELLE」と「GARDEN」の二段に分けて表記したロゴについて、不正競争防止法に違反するとして使用差止請求を認め、その余の請求を棄却した\[21\]。
-  - 2006年12月21日、福岡ドラムロゴスで[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")ツアーをしていた[ALLiSTERと一夜かぎりの合同バンド](https://ja.wikipedia.org/wiki/アリスター "wikilink")「DEATH BY FONDUE」を結成した。名前の由来はツアー中に[チーズフォンデュ](../Page/チーズフォンデュ.md "wikilink")を食べた翌日にALLiSTERのドラマー、マイク・レヴェランツが[ノロウイルス](../Page/ノロウイルス.md "wikilink")に感染したことから来ている\[22\]。
+  - フランスのファッションブランドである「ELLE」に、[商標](../Page/商標.md "wikilink")権の侵害として告訴された。[2007年](../Page/2007年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")、[東京地裁はこれらの訴えを認め](../Page/東京地方裁判所.md "wikilink")、[不正競争防止法](../Page/不正競争防止法.md "wikilink")違反として該当するELLEGARDENのグッズなどの販売を一部差し止める[判決](https://ja.wikipedia.org/wiki/判決 "wikilink")を下した\[22\]。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")、[東京高裁は上記訴訟の](../Page/東京高等裁判所.md "wikilink")[控訴審](https://ja.wikipedia.org/wiki/控訴審 "wikilink")において「ELLEGARDEN」を「ELLE」と「GARDEN」の二段に分けて表記したロゴについて、不正競争防止法に違反するとして使用差止請求を認め、その余の請求を棄却した\[23\]。
+  - 2006年12月21日、福岡ドラムロゴスで[対バン](https://ja.wikipedia.org/wiki/対バン "wikilink")ツアーをしていた[ALLiSTERと一夜かぎりの合同バンド](https://ja.wikipedia.org/wiki/アリスター "wikilink")「DEATH BY FONDUE」を結成した。名前の由来はツアー中に[チーズフォンデュ](../Page/チーズフォンデュ.md "wikilink")を食べた翌日にALLiSTERのドラマー、マイク・レヴェランツが[ノロウイルス](../Page/ノロウイルス.md "wikilink")に感染したことから来ている\[24\]。
   - [スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")内番組「爆音アトモス」で、細美が[the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](../Page/山中さわお.md "wikilink")と対談した際、「今度対バンした時、これ着て（その時着用していた全身黒タイツ）アンコールで『Funny Bunny』をやろう」という約束をし、2007年10月22日、Zepp Nagoya公演にて実現。
   - アルバム『[My Own Destruction](../Page/My_Own_Destruction.md "wikilink")』収録の「右手」は、[矢野顕子](../Page/矢野顕子.md "wikilink")によって各ライヴやアルバム『[音楽堂](https://ja.wikipedia.org/wiki/音楽堂_\(アルバム\) "wikilink")』などでカヴァーされている。
 
 ## 経歴
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")大晦日の0時にELLEGARDEN結成\[23\]\[24\]。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")大晦日の0時にELLEGARDEN結成\[25\]\[26\]。
 
-2000年5月、自主制作[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『[Stupid](https://ja.wikipedia.org/wiki/Stupid "wikilink")』を発売。9月27日、ライブハウス、[Shibuya eggmanにてワンマンライブを開催](../Page/Shibuya_eggman.md "wikilink")\[25\]。
+2000年5月、自主制作[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")『[Stupid](https://ja.wikipedia.org/wiki/Stupid "wikilink")』を発売。9月27日、ライブハウス、[Shibuya eggmanにてワンマンライブを開催](../Page/Shibuya_eggman.md "wikilink")\[27\]。
 
-2001年4月1日 - 5月13日、初のライブツアー「みんなでYou Bitch\!\!\!」を開催。5月23日、1stミニアルバム『[ELLEGARDEN](../Page/ELLEGARDEN_\(アルバム\).md "wikilink")』でインディーズ[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")\[26\]\[27\]。10月12日、1st[シングル](../Page/シングル.md "wikilink")「[Bare Foot](https://ja.wikipedia.org/wiki/Bare_Foot "wikilink")」を発売。
+2001年4月1日 - 5月13日、初のライブツアー「みんなでYou Bitch\!\!\!」を開催。5月23日、1stミニアルバム『[ELLEGARDEN](../Page/ELLEGARDEN_\(アルバム\).md "wikilink")』でインディーズ[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")\[28\]\[29\]。10月12日、1st[シングル](../Page/シングル.md "wikilink")「[Bare Foot](https://ja.wikipedia.org/wiki/Bare_Foot "wikilink")」を発売。
 
 2002年2月20日、2ndシングル「指輪」を発売。4月3日、1st[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")『[DON'T TRUST ANYONE BUT US](../Page/DON'T_TRUST_ANYONE_BUT_US.md "wikilink")』を発売。10月16日、2ndミニアルバム『[My Own Destruction](../Page/My_Own_Destruction.md "wikilink")』を発売。
 
@@ -104,15 +105,15 @@
 
 2004年5月26日、3rdスタジオ・アルバム『[Pepperoni Quattro](../Page/Pepperoni_Quattro.md "wikilink")』を発売。2ndライブDVD『BRING YOUR BOARD\!\! TOUR BOOTLEG Ⅱ』を発売。11月3日、4thシングル「[Missing](https://ja.wikipedia.org/wiki/Missing_\(ELLEGARDENの曲\) "wikilink")」を発売。
 
-2005年2月26日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")にて、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のロックバンド[SUM 41主催のライブツアー](https://ja.wikipedia.org/wiki/SUM_41 "wikilink")「SUM 41 Japan Tour 2005」にオープニングアクトとして出演\[28\]。4月20日、4thスタジオ・アルバム『[RIOT ON THE GRILL](../Page/RIOT_ON_THE_GRILL.md "wikilink")』を発売。3rdライブDVD『Bad For Education TOUR LAST BOOTLEG』を発売。11月、5thアルバム『ELEVEN FIRE CRACKERS』をリリース。オリコンのアルバム・ウィークリーランキングで初の首位を獲得\[29\]。12月7日、5thシングル「[Space Sonic](https://ja.wikipedia.org/wiki/Space_Sonic "wikilink")」を発売。
+2005年2月26日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")にて、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")のロックバンド[SUM 41主催のライブツアー](https://ja.wikipedia.org/wiki/SUM_41 "wikilink")「SUM 41 Japan Tour 2005」にオープニングアクトとして出演\[30\]。4月20日、4thスタジオ・アルバム『[RIOT ON THE GRILL](../Page/RIOT_ON_THE_GRILL.md "wikilink")』を発売。3rdライブDVD『Bad For Education TOUR LAST BOOTLEG』を発売。11月、5thアルバム『ELEVEN FIRE CRACKERS』をリリース。オリコンのアルバム・ウィークリーランキングで初の首位を獲得\[31\]。12月7日、5thシングル「[Space Sonic](https://ja.wikipedia.org/wiki/Space_Sonic "wikilink")」を発売。
 
-2006年4月15日、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にて『[RIOT ON THE GRILL](../Page/RIOT_ON_THE_GRILL.md "wikilink")』のアメリカ盤を発売\[30\]。3月18日、アメリカ合衆国の[テキサス州](../Page/テキサス州.md "wikilink")[オースティンのAustin](../Page/オースティン_\(テキサス州\).md "wikilink") Convention Centerにて、ロックフェス「SXSW 2006 Music Festival」に出演\[31\]。3月20日 - 3月27日、アメリカ合衆国の[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[ボストン](../Page/ボストン.md "wikilink")、[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[デンバー](../Page/デンバー.md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")、[ポートランドを回るライブツアー](../Page/ポートランド_\(オレゴン州\).md "wikilink")「ジャパン・ナイト USツアー2006」に出演\[32\]。8月9日、6thシングル「[Salamander](https://ja.wikipedia.org/wiki/Salamander "wikilink")」と4thライブDVD『Doggy Bags』を発売。10月12日から約半年をかけて全国ライブツアー「ELLEGARDEN ELEVEN FIRE CRACKERS TOUR 06-07」を開催。最終日である3月24日は[千葉県](../Page/千葉県.md "wikilink")の国際展示場[MAKUHARI MESSE \<展示場ホール9,10,11\>にて行われ](../Page/幕張メッセ.md "wikilink")、ツアー全体で3万人を動員した\[33\]。11月8日、5thスタジオ・アルバム『[ELEVEN FIRE CRACKERS](../Page/ELEVEN_FIRE_CRACKERS.md "wikilink")』を発売し、発売初週で21.6万枚を売り上げ、[オリコン](../Page/オリコン.md "wikilink")のアルバムウィークリーランキングで初の首位を獲得した\[34\]。
+2006年4月15日、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にて『[RIOT ON THE GRILL](../Page/RIOT_ON_THE_GRILL.md "wikilink")』のアメリカ盤を発売\[32\]。3月18日、アメリカ合衆国の[テキサス州](../Page/テキサス州.md "wikilink")[オースティンのAustin](../Page/オースティン_\(テキサス州\).md "wikilink") Convention Centerにて、ロックフェス「SXSW 2006 Music Festival」に出演\[33\]。3月20日 - 3月27日、アメリカ合衆国の[ニューヨーク](../Page/ニューヨーク.md "wikilink")、[ボストン](../Page/ボストン.md "wikilink")、[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")、[シカゴ](../Page/シカゴ.md "wikilink")、[デンバー](../Page/デンバー.md "wikilink")、[シアトル](../Page/シアトル.md "wikilink")、[ポートランドを回るライブツアー](../Page/ポートランド_\(オレゴン州\).md "wikilink")「ジャパン・ナイト USツアー2006」に出演\[34\]。8月9日、6thシングル「[Salamander](https://ja.wikipedia.org/wiki/Salamander "wikilink")」と4thライブDVD『Doggy Bags』を発売。10月12日から約半年をかけて全国ライブツアー「ELLEGARDEN ELEVEN FIRE CRACKERS TOUR 06-07」を開催。最終日である3月24日は[千葉県](../Page/千葉県.md "wikilink")の国際展示場[MAKUHARI MESSE \<展示場ホール9,10,11\>にて行われ](../Page/幕張メッセ.md "wikilink")、ツアー全体で3万人を動員した\[35\]。11月8日、5thスタジオ・アルバム『[ELEVEN FIRE CRACKERS](../Page/ELEVEN_FIRE_CRACKERS.md "wikilink")』を発売し、発売初週で21.6万枚を売り上げ、[オリコン](../Page/オリコン.md "wikilink")のアルバムウィークリーランキングで初の首位を獲得した\[36\]。
 
-2007年6月1日、ZeppOsakaにてThe Birthdayと対バンイベントである「SPRING un/desca? ver.69」を開催\[35\]。10月24日、5thライブDVD『ELEVEN FIRE CRACKERS TOUR 06-07 〜AFTER PARTY』を発売。
+2007年6月1日、ZeppOsakaにてThe Birthdayと対バンイベントである「SPRING un/desca? ver.69」を開催\[37\]。10月24日、5thライブDVD『ELEVEN FIRE CRACKERS TOUR 06-07 〜AFTER PARTY』を発売。
 
-2008年5月2日、オフィシャルサイトにて活動休止を発表\[36\]。7月2日、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[ELLEGARDEN BEST 1999-2008](https://ja.wikipedia.org/wiki/ELLEGARDEN_BEST_1999-2008 "wikilink")』を発売。そして、9月7日、[STUDIO COASTでのラストライブをもって活動を休止し](../Page/STUDIO_COAST.md "wikilink")、その様子を収めた6thライブDVD『[2008.09.07. STUDIO COAST](https://ja.wikipedia.org/wiki/2008.09.07._STUDIO_COAST "wikilink")』が2009年4月8日にリリースされた\[37\]。
+2008年5月2日、オフィシャルサイトにて活動休止を発表\[38\]。7月2日、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[ELLEGARDEN BEST 1999-2008](https://ja.wikipedia.org/wiki/ELLEGARDEN_BEST_1999-2008 "wikilink")』を発売。そして、9月7日、[STUDIO COASTでのラストライブをもって活動を休止し](../Page/STUDIO_COAST.md "wikilink")、その様子を収めた6thライブDVD『[2008.09.07. STUDIO COAST](https://ja.wikipedia.org/wiki/2008.09.07._STUDIO_COAST "wikilink")』が2009年4月8日にリリースされた\[39\]。
 
-[2018年](../Page/2018年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")、10年振りの復活をオフィシャルサイトにて発表。それに伴いライブツアー『THE BOYS ARE BACK IN TOWN TOUR 2018』を開催\[38\]。
+[2018年](../Page/2018年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")、10年振りの復活をオフィシャルサイトにて発表。それに伴いライブツアー『THE BOYS ARE BACK IN TOWN TOUR 2018』を開催\[40\]。
 
 ## 使用機材
 
@@ -711,8 +712,8 @@ SRCL-5719</p></td>
 5.
 6.
 7.
-8.
-9.
+8.  <https://rockinon.com/news/detail/17292> ELLEGARDEN、高田雄一が新バンドに加入！
+9.  <https://natalie.mu/music/news/301978> MEANING高田雄一が卒業、現体制ラストツアーで新シングル発売
 10.
 11.
 12.
@@ -721,13 +722,13 @@ SRCL-5719</p></td>
 15.
 16.
 17.
-18. 判例タイムズ1269号、288頁。
-19. 「ELLE」とはドイツ語で、「骨尺」という意味で、長さの単位（55 - 85cm）である。
-20. [オフィシャルサイト日本語版（2007年5月17日更新分）](http://www.ellegarden.jp/ja/20070517.html)
-21.
-22. DVD『ELEVEN FIRE CRACKERS TOUR 06-07 〜AFTER PARTY』のドキュメンタリー
+18.
+19.
+20. 判例タイムズ1269号、288頁。
+21. 「ELLE」とはドイツ語で、「骨尺」という意味で、長さの単位（55 - 85cm）である。
+22. [オフィシャルサイト日本語版（2007年5月17日更新分）](http://www.ellegarden.jp/ja/20070517.html)
 23.
-24.
+24. DVD『ELEVEN FIRE CRACKERS TOUR 06-07 〜AFTER PARTY』のドキュメンタリー
 25.
 26.
 27.
@@ -742,3 +743,5 @@ SRCL-5719</p></td>
 36.
 37.
 38.
+39.
+40.

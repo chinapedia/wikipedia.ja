@@ -1,4 +1,4 @@
-> この記事は[Earth Dreaming!](https://ja.wikipedia.org/wiki/Earth_Dreaming!)から翻訳されています。
+> この記事は[Earth Dreaming〜ガラスの地球を救え!](https://ja.wikipedia.org/wiki/Earth_Dreaming〜ガラスの地球を救え!)から翻訳されています。
 
 
 『**Earth Dreaming〜ガラスの地球を救え〜**』（アース・ドリーミング ガラスのちきゅうをすくえ）は、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")（朝日放送）で毎週日曜日に放送されていた、地球環境をテーマにした番組。

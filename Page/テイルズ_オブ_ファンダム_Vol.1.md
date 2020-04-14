@@ -1,4 +1,4 @@
-> この記事は[   Vol.1](https://ja.wikipedia.org/wiki/___Vol.1)から翻訳されています。
+> この記事は[テイルズ オブ ファンダム Vol.1](https://ja.wikipedia.org/wiki/テイルズ_オブ_ファンダム_Vol.1)から翻訳されています。
 
 
 『**テイルズ オブ ファンダム Vol.1**』（Tales of Fandom Vol.1）は、[2002年](../Page/2002年.md "wikilink")1月31日に[ナムコから発売された](https://ja.wikipedia.org/wiki/ナムコ_\(1955年設立の企業\) "wikilink")[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink") (PS) 用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。

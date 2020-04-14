@@ -1,4 +1,4 @@
-> この記事は[ -THE MOTION PICTURE-](https://ja.wikipedia.org/wiki/_-THE_MOTION_PICTURE-)から翻訳されています。
+> この記事は[餓狼伝説 -THE MOTION PICTURE-](https://ja.wikipedia.org/wiki/餓狼伝説_-THE_MOTION_PICTURE-)から翻訳されています。
 
 
 『**餓狼伝説 -THE MOTION PICTURE-**』（がろうでんせつ ザ モーション ピクチャー）は、[1994年](../Page/1994年.md "wikilink")[7月16日](../Page/7月16日.md "wikilink")に公開された[アニメーション映画](../Page/アニメーション映画.md "wikilink")\[1\]。

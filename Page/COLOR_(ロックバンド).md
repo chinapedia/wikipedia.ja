@@ -1,4 +1,4 @@
-> この記事は[COLOR \(\)](https://ja.wikipedia.org/wiki/COLOR_\(\))から翻訳されています。
+> この記事は[COLOR \(ロックバンド\)](https://ja.wikipedia.org/wiki/COLOR_\(ロックバンド\))から翻訳されています。
 
 
 **COLOR**（カラー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。

@@ -5,11 +5,11 @@
 
 [東京都](../Page/東京都.md "wikilink")出身。所属[芸能事務所](../Page/芸能事務所.md "wikilink")はタレントとしては[A-PLUS](../Page/A-PLUS.md "wikilink")、歌手活動では[Being](https://ja.wikipedia.org/wiki/Being "wikilink")に所属。
 
-母方の[祖父は元](https://ja.wikipedia.org/wiki/祖父母 "wikilink")[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員で、[第74代](../Page/竹下内閣.md "wikilink")[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")の[竹下登](../Page/竹下登.md "wikilink")。姉は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")。[金丸信](../Page/金丸信.md "wikilink")や[小沢一郎](https://ja.wikipedia.org/wiki/小沢一郎 "wikilink")とも親戚関係にあり、[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")とも親戚関係にあることが判明した。妻は女優の[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")\[2\]。
+母方の[祖父は元](https://ja.wikipedia.org/wiki/祖父母 "wikilink")[衆議院](https://ja.wikipedia.org/wiki/衆議院 "wikilink")議員で、[第74代](../Page/竹下内閣.md "wikilink")[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")の[竹下登](../Page/竹下登.md "wikilink")。父は竹下登の秘書を務め、後に[KBS京都](https://ja.wikipedia.org/wiki/KBS京都 "wikilink")の役員（常務社長室長）に就いた[内藤武宣](https://ja.wikipedia.org/wiki/内藤武宣 "wikilink")。姉は[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")の[影木栄貴](../Page/影木栄貴.md "wikilink")。妻は女優の[北川景子](https://ja.wikipedia.org/wiki/北川景子 "wikilink")\[2\]。
 
 [2003年](../Page/2003年.md "wikilink")、**DAIGO☆STARDUST**（ダイゴ☆スターダスト）の[芸名](../Page/芸名.md "wikilink")で[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。[2007年](../Page/2007年.md "wikilink")、BREAKERZ結成を機にDAIGOに[改名](../Page/改名.md "wikilink")した。
 
-## 略歴、音楽性
+## 来歴
 
 ### 1978年 - 2001年 （誕生からインディーズバンド時代）
 
@@ -779,6 +779,9 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [ちょっとザワつくイメージ調査 もしかしてズレてる?](https://ja.wikipedia.org/wiki/ちょっとザワつくイメージ調査_もしかしてズレてる? "wikilink")（2017年1月23日 - 12月25日、[関西テレビ](../Page/関西テレビ放送.md "wikilink")・フジテレビ） - MC
   - [ZIP](https://ja.wikipedia.org/wiki/ZIP! "wikilink")\! （2019年4月26日 - 5月31日までの毎週金曜日、日本テレビ） - 金曜ZIP\! 5月マンスリーパーソナリティー
   - [アオハル（青春）TV](https://ja.wikipedia.org/wiki/アオハル（青春）TV "wikilink")（2019年1月27日 - 2019年8月18日、フジテレビ）- レギュラー
+  - 誰だって波瀾爆笑 （2019年9月1日、日本テレビ）ゲスト
+  - 逃走中 （2020年1月5日、フジテレビ）
+  - 一番遠い親戚さん （2020年2月11日、日本テレビ）
 
 ### ラジオ
 
@@ -799,6 +802,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [嘘を愛する女](https://ja.wikipedia.org/wiki/嘘を愛する女 "wikilink")（2018年1月20日） - 木村 役
   - [ニセコイ](https://ja.wikipedia.org/wiki/ニセコイ "wikilink")（2018年12月21日） - クロード 役
   - [フォルトゥナの瞳](https://ja.wikipedia.org/wiki/フォルトゥナの瞳#映画 "wikilink")（2019年2月15日） - 宇津井和幸 役\[95\]
+  - [貴族降臨](https://ja.wikipedia.org/wiki/貴族降臨 "wikilink")（2020年3月13日）-シニア（安藤タロウ）役
 
 ### テレビドラマ
 
@@ -809,6 +813,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [ヒガンバナ〜警視庁捜査七課〜](https://ja.wikipedia.org/wiki/ヒガンバナ〜警視庁捜査七課〜 "wikilink")（2016年1月13日 - 3月16日、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")） - 菊池謙人 役\[98\]
   - [営業部長 吉良奈津子](https://ja.wikipedia.org/wiki/営業部長_吉良奈津子 "wikilink")（2016年7月21日 - 9月22日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 一条達哉 役\[99\]
   - [ブラックリベンジ](https://ja.wikipedia.org/wiki/ブラックリベンジ "wikilink")（2017年10月5日 - 12月8日、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")・[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")） - 城田純一 役
+  - [貴族誕生](../Page/貴族誕生_-PRINCE_OF_LEGEND-.md "wikilink")（2019年11月28日 - 12月26日）- シニア（安藤タロウ）役
 
 ### 舞台
 
@@ -865,6 +870,8 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [ティーバイティー](https://ja.wikipedia.org/wiki/ティーバイティー "wikilink")「買取王子」（2017年 - ）\[106\]
   - [第一生命](../Page/第一生命保険.md "wikilink") 「ジャスト」（2018年 - ） - [今田美桜](https://ja.wikipedia.org/wiki/今田美桜 "wikilink")と[ノブ](https://ja.wikipedia.org/wiki/ノブ_\(お笑い芸人\) "wikilink")（[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")）と共演。
   - [米久](../Page/米久.md "wikilink")「御殿場高原あらびきポーク」『スーパー篇』『食卓篇』（2019年 - ）\[107\]
+  - スクウェア・エニックス・ホールディングス「星のドラゴンクエスト」（2019年 - ）
+  - マネジメントソリューションズ（MSOL）『PMOってなんなんだ？篇』（2020年 - ）
 
 ### ポスター
 

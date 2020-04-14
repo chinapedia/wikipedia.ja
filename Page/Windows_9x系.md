@@ -1,4 +1,4 @@
-> この記事は[Windows 9x](https://ja.wikipedia.org/wiki/Windows_9x)から翻訳されています。
+> この記事は[Windows 9x系](https://ja.wikipedia.org/wiki/Windows_9x系)から翻訳されています。
 
 
 **Windows 9x系**（**ウィンドウズ 9エックスけい**）とは、[マイクロソフト](../Page/マイクロソフト.md "wikilink")製の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")（OS）のうち、[Windows 95及びそれを元に開発されたOSの総称である](../Page/Microsoft_Windows_95.md "wikilink")。

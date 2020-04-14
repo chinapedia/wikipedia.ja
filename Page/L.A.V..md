@@ -1,9 +1,9 @@
 > この記事は[L.A.V.](https://ja.wikipedia.org/wiki/L.A.V.)から翻訳されています。
 
 
-『**L.A.V.**』（エル・エー・ヴイ）は、[JFNC制作で毎週月曜](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")～木曜の21:00～21:55に放送されていた[JFN系](../Page/全国FM放送協議会.md "wikilink")[全国ネット](https://ja.wikipedia.org/wiki/全国ネット "wikilink")番組（※ただし特定の曜日しかネットしない放送局もある）。[2003年](../Page/2003年.md "wikilink")10月放送開始。[2007年](../Page/2007年.md "wikilink")3月放送終了。番組名は「**L**isten（聴く） **A**ccess（アクセスする） **V**iew（見る）」（リッスン・アクセス・ビュー）を略したもので、インターネットという最先端メディアをフル活用することをコンセプトとしたことが大きな話題となり、ネット局数が少ないとはいえ一躍人気番組となった。
+『**L.A.V.**』（エル・エー・ヴイ）は、[JFNC制作で毎週月曜](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")～木曜の21:00～21:55に放送されていた[JFN系](../Page/全国FM放送協議会.md "wikilink")[全国ネット](https://ja.wikipedia.org/wiki/全国ネット "wikilink")番組（※ただし特定の曜日しかネットしない放送局もある）。[2003年](../Page/2003年.md "wikilink")10月放送開始。[2007年](../Page/2007年.md "wikilink")3月放送終了。番組名は「**L**isten（聴く） **A**ccess（アクセスする） **V**iew（見る）」（リッスン・アクセス・ビュー）を略したもので、インターネットという最先端メディアをフル活用することをコンセプトとしたことが大きな話題となり、ネット局数が少ないとはいえ一躍人気番組となった。
 
-また、この番組は[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の3社が共同運営している地上デジタルラジオ放送チャンネル･Digital Radio 98 The Voiceでのサイマル放送も行っていた。
+また、この番組は[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")、[TOKYO FM](../Page/エフエム東京.md "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")の3社が共同運営している地上デジタルラジオ放送チャンネル･Digital Radio 98 The Voiceでのサイマル放送も行っていた。
 
 ## 歴代のパーソナリティー
 
@@ -80,7 +80,7 @@
 
 ## 備考
 
-  - 新聞のラジオ欄ではタイトルの後はいつも**「メッセージと写真」**としか書かれていない場合が多かった。それはゲスト出演が決まっている時も同じ。これは[JFNCが番組情報を各ネット局に送っていないことによるものと言われている](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")。
+  - 新聞のラジオ欄ではタイトルの後はいつも**「メッセージと写真」**としか書かれていない場合が多かった。それはゲスト出演が決まっている時も同じ。これは[JFNCが番組情報を各ネット局に送っていないことによるものと言われている](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。
   - そもそも、「インターネットをフル活用する」番組の元祖となったのは、同じくJFN制作の『[IR3 JAPAN](../Page/IR3_JAPAN.md "wikilink")』だった。しかし、「IR3 JAPAN」は2005年3月に放送を終了。よって当番組が「インターネットをフル活用する」唯一の番組であった。
 
 [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:JFN系ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのバラエティ番組 "wikilink")

@@ -106,6 +106,6 @@
 ## 外部リンク
 
   -
-[Category:愛知県の遊園地](https://ja.wikipedia.org/wiki/Category:愛知県の遊園地 "wikilink") [Category:日本の遊園地_(閉園)](https://ja.wikipedia.org/wiki/Category:日本の遊園地_\(閉園\) "wikilink") [Category:現存しない愛知県の建築物](https://ja.wikipedia.org/wiki/Category:現存しない愛知県の建築物 "wikilink") [Category:ポケットモンスター](https://ja.wikipedia.org/wiki/Category:ポケットモンスター "wikilink") [Category:愛知万博](https://ja.wikipedia.org/wiki/Category:愛知万博 "wikilink") [Category:中村区の歴史](https://ja.wikipedia.org/wiki/Category:中村区の歴史 "wikilink") [Category:平池町_(名古屋市)](https://ja.wikipedia.org/wiki/Category:平池町_\(名古屋市\) "wikilink") [Category:中村区の建築物](https://ja.wikipedia.org/wiki/Category:中村区の建築物 "wikilink")
+[Category:愛知県の遊園地](https://ja.wikipedia.org/wiki/Category:愛知県の遊園地 "wikilink") [Category:日本の遊園地_(閉園)](https://ja.wikipedia.org/wiki/Category:日本の遊園地_\(閉園\) "wikilink") [Category:現存しない愛知県の建築物](https://ja.wikipedia.org/wiki/Category:現存しない愛知県の建築物 "wikilink") [Category:ポケットモンスター](https://ja.wikipedia.org/wiki/Category:ポケットモンスター "wikilink") [Category:愛知万博](https://ja.wikipedia.org/wiki/Category:愛知万博 "wikilink") [Category:中村区の歴史](https://ja.wikipedia.org/wiki/Category:中村区の歴史 "wikilink") [Category:平池町_(名古屋市)](https://ja.wikipedia.org/wiki/Category:平池町_\(名古屋市\) "wikilink") [Category:中村区の建築物](https://ja.wikipedia.org/wiki/Category:中村区の建築物 "wikilink") [Category:任天堂の関連施設](https://ja.wikipedia.org/wiki/Category:任天堂の関連施設 "wikilink")
 
 1.

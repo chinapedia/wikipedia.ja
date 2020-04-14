@@ -1,4 +1,4 @@
-> この記事は[FMQ](https://ja.wikipedia.org/wiki/FMQ)から翻訳されています。
+> この記事は[FMQリーグ](https://ja.wikipedia.org/wiki/FMQリーグ)から翻訳されています。
 
 
 **FMQリーグ**（エフエム・キュー・リーグ）は、[九州・山口地方](../Page/九州・山口地方.md "wikilink")の[JFN系列](../Page/全国FM放送協議会.md "wikilink")8局で構成する[ネットワーク](../Page/ネットワーク_\(放送\).md "wikilink")。

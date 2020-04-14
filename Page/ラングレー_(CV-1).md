@@ -1,4 +1,4 @@
-> この記事は[ \(CV-1\)](https://ja.wikipedia.org/wiki/_\(CV-1\))から翻訳されています。
+> この記事は[ラングレー \(CV-1\)](https://ja.wikipedia.org/wiki/ラングレー_\(CV-1\))から翻訳されています。
 
 
 |                                                                                                                      |

@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[スーパーダイスQ](https://ja.wikipedia.org/wiki/スーパーダイスQ)から翻訳されています。
 
 
 『**スーパーダイスQ**』は、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月3日](../Page/3月3日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[TBS系列局で放送されたランチタイムの](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[クイズ](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")&[ゲーム](../Page/ゲーム.md "wikilink")番組である。『[ベルトクイズQ\&Q](../Page/ベルトクイズQ&Q.md "wikilink")』をフルモデルチェンジしてスタート。放送時間は、月曜日から金曜日の正午からの20分間。司会は[土居まさる](../Page/土居まさる.md "wikilink")。

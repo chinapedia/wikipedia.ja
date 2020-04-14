@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRヴァスコ・ダ・ガマ](https://ja.wikipedia.org/wiki/CRヴァスコ・ダ・ガマ)から翻訳されています。
 
 
 **CRヴァスコ・ダ・ガマ** () は、1898年創立の[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")を本拠地とするレガッタ・クラブから始まった[スポーツクラブ](https://ja.wikipedia.org/wiki/スポーツクラブ "wikilink")である。

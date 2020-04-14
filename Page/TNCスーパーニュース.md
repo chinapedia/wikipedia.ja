@@ -1,4 +1,4 @@
-> この記事は[TNC](https://ja.wikipedia.org/wiki/TNC)から翻訳されています。
+> この記事は[TNCスーパーニュース](https://ja.wikipedia.org/wiki/TNCスーパーニュース)から翻訳されています。
 
 
 『**TNCスーパーニュース**』（ティーエヌシースーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*TNC Super NEWS*）は、[テレビ西日本](../Page/テレビ西日本.md "wikilink")で[夕](../Page/夕.md "wikilink")方に放送されていた[福岡県](../Page/福岡県.md "wikilink")向けの[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

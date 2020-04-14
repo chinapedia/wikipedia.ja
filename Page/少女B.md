@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[少女B](https://ja.wikipedia.org/wiki/少女B)から翻訳されています。
 
 
 『**少女B**』（しょうじょビー）は、[2005年](../Page/2005年.md "wikilink")に[日本テレビ系列で放送されていた](../Page/日本テレビ放送網.md "wikilink")、[コント](../Page/コント.md "wikilink")中心の深夜の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。放送時間や曜日は各系列局ごとに異なる。関東地区では[2005年](../Page/2005年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")に放送開始。

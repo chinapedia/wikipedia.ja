@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[仮面ライダーSD](https://ja.wikipedia.org/wiki/仮面ライダーSD)から翻訳されています。
 
 
 **仮面ライダーSD**（かめんライダー エスディー）は[1990年代](../Page/1990年代.md "wikilink")に発表された[玩具](../Page/玩具.md "wikilink")の企画、およびそれを基に展開された[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、[OVA](../Page/OVA.md "wikilink")、[ゲーム](../Page/ゲーム.md "wikilink")作品。

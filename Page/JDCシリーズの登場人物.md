@@ -1,4 +1,4 @@
-> この記事は[JDC](https://ja.wikipedia.org/wiki/JDC)から翻訳されています。
+> この記事は[JDCシリーズの登場人物](https://ja.wikipedia.org/wiki/JDCシリーズの登場人物)から翻訳されています。
 
 
 **JDCシリーズの登場人物**（JDCシリーズのとうじょうじんぶつ）では、[清涼院流水](../Page/清涼院流水.md "wikilink")の作品[JDCシリーズ](../Page/JDCシリーズ.md "wikilink")に登場する人物を扱う。

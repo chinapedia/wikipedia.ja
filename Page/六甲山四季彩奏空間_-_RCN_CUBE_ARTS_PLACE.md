@@ -1,4 +1,4 @@
-> この記事は[ - RCN CUBE ARTS PLACE](https://ja.wikipedia.org/wiki/_-_RCN_CUBE_ARTS_PLACE)から翻訳されています。
+> この記事は[六甲山四季彩奏空間 - RCN CUBE ARTS PLACE](https://ja.wikipedia.org/wiki/六甲山四季彩奏空間_-_RCN_CUBE_ARTS_PLACE)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:050808_RCN_CUBE_Mt_Rokko_Kobe_Japan01s5.jpg "wikilink") **六甲山四季彩奏空間** ― **RCN CUBE ARTS PLACE**（ろっこうさんしきさいそうくうかん RCNキューブ・アーツ・プレース） は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")の[六甲山](../Page/六甲山.md "wikilink")上にあった[美術館](../Page/美術館.md "wikilink")。

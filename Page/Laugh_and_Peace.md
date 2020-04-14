@@ -1,9 +1,9 @@
 > この記事は[Laugh and Peace](https://ja.wikipedia.org/wiki/Laugh_and_Peace)から翻訳されています。
 
 
-**Laugh and Peace**（ラフ・アンド・ピース）は音楽プロデュースユニット。 andを[記号](../Page/記号.md "wikilink")化し**Laugh & Peace**とも。
+**Laugh and Peace**（ラフ・アンド・ピース）は、音楽プロデュースユニット。andを[記号](../Page/記号.md "wikilink")化し**Laugh & Peace**とも。
 
-別名**UNCO☆STAR**（ユー・エヌ・シー・オー・スター）、**KYO-KI**（キョーキ）。 [1991年](../Page/1991年.md "wikilink")結成。
+別名**UNCO☆STAR**（ユー・エヌ・シー・オー・スター）、**KYO-KI**（キョーキ）。[1991年](../Page/1991年.md "wikilink")結成。
 
 [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[インストゥルメンタル](../Page/器楽曲.md "wikilink")、[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")、[リミックス](../Page/リミックス.md "wikilink")、[アレンジ](../Page/編曲.md "wikilink")、[CM用の音楽などを手がけている](../Page/コマーシャルメッセージ.md "wikilink")。
 
@@ -11,10 +11,10 @@
 
   - **景山 俊之**（かげやま としゆき、[1970年](../Page/1970年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink") - ）
       -
-        [奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+        [奈良県](../Page/奈良県.md "wikilink")[大和郡山市](https://ja.wikipedia.org/wiki/大和郡山市 "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
   - **廣田 幸一**（ひろた こういち、1970年[7月29日](../Page/7月29日.md "wikilink") - ）
       -
-        [大阪府](../Page/大阪府.md "wikilink")[富田林市](https://ja.wikipedia.org/wiki/富田林市 "wikilink")出身。血液型[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+        [大阪府](../Page/大阪府.md "wikilink")[富田林市](https://ja.wikipedia.org/wiki/富田林市 "wikilink")出身。血液型O型。
 
 ## 略歴
 
@@ -39,7 +39,7 @@
         廣田幸一。血液型A型。アニメでは[成田剣](../Page/成田剣.md "wikilink")が声優を務めている。
   - **ゲーリー**（[1979年](../Page/1979年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - ）
       -
-        景山俊之。血液型[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。アニメでは[山口勝平](../Page/山口勝平.md "wikilink")が声優を務めている。
+        景山俊之。血液型AB型。アニメでは[山口勝平](../Page/山口勝平.md "wikilink")が声優を務めている。
 
 ユニット名UNCO☆STARは[うんこと](../Page/糞.md "wikilink")[リンゴ・スター](../Page/リンゴ・スター.md "wikilink")、ビック・ベンは[大便](../Page/糞.md "wikilink")、ゲーリーは[下痢](../Page/下痢.md "wikilink")が元ネタである。
 
@@ -80,7 +80,7 @@
 
   - Far away "Laugh & Peace MIX"（[2000年](../Page/2000年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")） - 「[M](../Page/M_\(浜崎あゆみの曲\).md "wikilink")」（[浜崎あゆみ](https://ja.wikipedia.org/wiki/浜崎あゆみ "wikilink")）、[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")
   - End of the World "Laugh & Peace MIX"（[2001年](../Page/2001年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")） - 「[evolution](https://ja.wikipedia.org/wiki/evolution_\(浜崎あゆみの曲\) "wikilink")」（浜崎あゆみ）、エイベックス
-  - NEVER EVER "Laugh & Peace MIX"（2001年[3月7日](../Page/3月7日.md "wikilink")） - 「[NEVER EVER](../Page/NEVER_EVER.md "wikilink")」（浜崎あゆみ）、エイベックス
+  - NEVER EVER "Laugh & Peace MIX"（2001年[3月7日](../Page/3月7日.md "wikilink")） - 「[NEVER EVER](../Page/NEVER_EVER_\(浜崎あゆみの曲\).md "wikilink")」（浜崎あゆみ）、エイベックス
   - Dearest "Laugh & Peace MIX"（2001年[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")） - 「[Dearest](../Page/Dearest_\(浜崎あゆみの曲\).md "wikilink")」（浜崎あゆみ）、エイベックス
   - no more words "Laugh & Peace MIX"（[2002年](../Page/2002年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")） - 「[Daybreak](../Page/Daybreak_\(浜崎あゆみの曲\).md "wikilink")」（浜崎あゆみ）、エイベックス
 

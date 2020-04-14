@@ -1,4 +1,4 @@
-> この記事は[NPO](https://ja.wikipedia.org/wiki/NPO)から翻訳されています。
+> この記事は[日本NPO学会](https://ja.wikipedia.org/wiki/日本NPO学会)から翻訳されています。
 
 
 **日本NPO学会**（**にほんえぬぴーおーがっかい**）は、[NPO](../Page/NPO.md "wikilink")、[NGO](../Page/非政府組織.md "wikilink")、[ボランティア](../Page/ボランティア.md "wikilink")、[フィランソロピー](../Page/フィランソロピー.md "wikilink")など、[民間非営利活動](https://ja.wikipedia.org/wiki/民間非営利活動 "wikilink")に関する研究および活動成果の発表と交流、教育の普及を行う日本の[学会](../Page/学会.md "wikilink")である\[1\]。[1999年](../Page/1999年.md "wikilink")3月に設立された。個人会員数は、現在約700人で、研究者 (52 %)、実務者 (34 %)、学生 (14 %) の割合である。年次大会が毎年3月から6月に開催されている\[2\]。

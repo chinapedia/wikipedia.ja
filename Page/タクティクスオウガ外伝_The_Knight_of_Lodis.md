@@ -1,4 +1,4 @@
-> この記事は[ The Knight of Lodis](https://ja.wikipedia.org/wiki/_The_Knight_of_Lodis)から翻訳されています。
+> この記事は[タクティクスオウガ外伝 The Knight of Lodis](https://ja.wikipedia.org/wiki/タクティクスオウガ外伝_The_Knight_of_Lodis)から翻訳されています。
 
 
 『**タクティクスオウガ外伝 The Knight of Lodis**』（タクティクスオウガがいでん ザ・ナイト・オブ・ローディス、*Tactics Ogre: The Knight of Lodis*）は、[2001年](../Page/2001年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用[シミュレーションRPG](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。『[タクティクスオウガ](../Page/タクティクスオウガ.md "wikilink")』（[オウガバトルシリーズ](../Page/オウガバトルサーガ.md "wikilink")）の外伝的作品である。

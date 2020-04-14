@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[徳川家康 \(NHK大河ドラマ\)](https://ja.wikipedia.org/wiki/徳川家康_\(NHK大河ドラマ\))から翻訳されています。
 
 
 『**徳川家康**』（とくがわいえやす）は、[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")から[12月18日](../Page/12月18日.md "wikilink")にかけて放送された[大河ドラマ](../Page/大河ドラマ.md "wikilink")第21作。主人公は[徳川家康](../Page/徳川家康.md "wikilink")。
@@ -334,7 +334,7 @@
   - おふう
     演 : [石井めぐみ](../Page/石井めぐみ.md "wikilink")
   - 阿紀
-    演 :[深水真紀子](../Page/深水真紀子.md "wikilink")
+    演 : [深水真紀子](../Page/深水真紀子.md "wikilink")
   - 小侍従
     演 : [二木てるみ](../Page/二木てるみ.md "wikilink")
     徳姫の侍女。

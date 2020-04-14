@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[Z会東大進学教室](https://ja.wikipedia.org/wiki/Z会東大進学教室)から翻訳されています。
 
 
 **Z会東大進学教室**（ゼットかいとうだいしんがくきょうしつ）は、[株式会社Z会](https://ja.wikipedia.org/wiki/株式会社Z会 "wikilink")が経営する、1991年（平成3年）に開校された大学受験[予備校](../Page/予備校.md "wikilink")である。

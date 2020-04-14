@@ -1,4 +1,4 @@
-> この記事は[DT](https://ja.wikipedia.org/wiki/DT)から翻訳されています。
+> この記事は[梅田DTタワー](https://ja.wikipedia.org/wiki/梅田DTタワー)から翻訳されています。
 
 
 **梅田DTタワー**（うめだディティタワー）は[大阪市](../Page/大阪市.md "wikilink")[北区](../Page/北区_\(大阪市\).md "wikilink")[梅田](../Page/梅田.md "wikilink")1丁目に建つ[高層ビル](https://ja.wikipedia.org/wiki/高層ビル "wikilink")である。

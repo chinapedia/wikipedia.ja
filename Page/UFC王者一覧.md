@@ -1,4 +1,4 @@
-> この記事は[UFC](https://ja.wikipedia.org/wiki/UFC)から翻訳されています。
+> この記事は[UFC王者一覧](https://ja.wikipedia.org/wiki/UFC王者一覧)から翻訳されています。
 
 
 **UFC王者一覧**は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の王座変遷表である。
@@ -581,8 +581,9 @@ UFC 31にて新設。
 <td><p>11</p></td>
 <td><p>イスラエル・アデサンヤ</p></td>
 <td><p>2019年10月6日 - 現在</p></td>
-<td><p>0</p></td>
-<td><p>ロバートウィテカーとの王座戦により獲得</p></td>
+<td><p>1</p></td>
+<td><p>正規王者ロバート・ウィテカーとの王座統一戦により獲得<br />
+○ <a href="https://ja.wikipedia.org/wiki/ヨエル・ロメロ" title="wikilink">ヨエル・ロメロ</a>（<a href="../Page/UFC_248.md" title="wikilink">UFC 248</a>)</p></td>
 </tr>
 </tbody>
 </table>
@@ -892,7 +893,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アル・アイアキンタ" title="wikilink">アル・アイアキンタ</a>との王座決定戦により獲得<br />
 ○ <a href="https://ja.wikipedia.org/wiki/コナー・マクレガー" title="wikilink">コナー・マクレガー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_229" title="wikilink">UFC 229</a>）<br />
-○ <a href="https://ja.wikipedia.org/wiki/ダスティン・ポイエー" title="wikilink">ダスティン・ポイエー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_242" title="wikilink">UFC 242</a>）</p></td>
+○ <a href="https://ja.wikipedia.org/wiki/ダスティン・ポイエー" title="wikilink">ダスティン・ポイエー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_242" title="wikilink">UFC 242</a>）：王座統一</p></td>
 </tr>
 <tr class="odd">
 <td><p>暫</p></td>
@@ -1136,7 +1137,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘンリー・セフード" title="wikilink">ヘンリー・セフード</a></p></td>
-<td><p>2018年8月4日 - 2019年12月19日</p></td>
+<td><p>2018年8月4日 - 2020年2月29日</p></td>
 <td><p>1</p></td>
 <td><p>デメトリアス・ジョンソンとの王座戦により獲得<br />
 ○ <a href="https://ja.wikipedia.org/wiki/TJ・ディラショー" title="wikilink">TJ・ディラショー</a></p></td>
@@ -1144,9 +1145,9 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <tr class="odd">
 <td><p>-</p></td>
 <td><p>空位</p></td>
-<td><p>　　　　 2019年12月19日 - 現在</p></td>
+<td><p>　　　　 2020年2月29日 - 現在</p></td>
 <td><p>-</p></td>
-<td><p>タイトル戦線を停滞させている為王座剥奪</p></td>
+<td><p>セフードのバンタム級王座獲得によるフライ級王座返上により空位</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1374,7 +1375,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>2017年11月4日 - 2019年5月11日</p></td>
 <td><p>1</p></td>
 <td><p>ヨアナ・イェンジェイチックとの王座戦により獲得<br />
-○ ヨアナ・イェンジェイチック（<a href="https://ja.wikipedia.org/wiki/UFC_223" title="wikilink">UFC 223</a>）</p></td>
+○ <a href="https://ja.wikipedia.org/wiki/ヨアナ・イェンジェイチック" title="wikilink">ヨアナ・イェンジェイチック</a>（<a href="https://ja.wikipedia.org/wiki/UFC_223" title="wikilink">UFC 223</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -1387,8 +1388,9 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャン・ウェイリー" title="wikilink">ジャン・ウェイリー</a></p></td>
 <td><p>2019年8月31日 - 現在</p></td>
-<td><p>0</p></td>
-<td><p>ジェシカ・アンドラージとの王座戦により獲得</p></td>
+<td><p>1</p></td>
+<td><p>ジェシカ・アンドラージとの王座戦により獲得<br />
+○ <a href="https://ja.wikipedia.org/wiki/ヨアナ・イェンジェイチック" title="wikilink">ヨアナ・イェンジェイチック</a>（<a href="../Page/UFC_248.md" title="wikilink">UFC 248</a>)</p></td>
 </tr>
 <tr class="even">
 <td></td>

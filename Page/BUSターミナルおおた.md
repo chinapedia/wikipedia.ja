@@ -1,4 +1,4 @@
-> この記事は[BUS](https://ja.wikipedia.org/wiki/BUS)から翻訳されています。
+> この記事は[BUSターミナルおおた](https://ja.wikipedia.org/wiki/BUSターミナルおおた)から翻訳されています。
 
 
 **BUSターミナルおおた**（バスターミナルおおた）は[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[太田市](../Page/太田市.md "wikilink")飯塚町にある[バスターミナル](../Page/バスターミナル.md "wikilink")で、太田市が管理している。 別名「**まちの駅おおた**」。近くには[パワーモールおおた](https://ja.wikipedia.org/wiki/パワーモールおおた "wikilink")や[太田市民会館](https://ja.wikipedia.org/wiki/太田市民会館 "wikilink")がある。

@@ -1,4 +1,4 @@
-> この記事は[AX \(\)](https://ja.wikipedia.org/wiki/AX_\(\))から翻訳されています。
+> この記事は[AX \(曖昧さ回避\)](https://ja.wikipedia.org/wiki/AX_\(曖昧さ回避\))から翻訳されています。
 
 
 **AX**、**Ax**、**ax**

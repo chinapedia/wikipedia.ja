@@ -1,4 +1,4 @@
-> この記事は[US](https://ja.wikipedia.org/wiki/US)から翻訳されています。
+> この記事は[USエアウェイズ](https://ja.wikipedia.org/wiki/USエアウェイズ)から翻訳されています。
 
 
 [USAirwaysHQTempe.jpg](https://ja.wikipedia.org/wiki/File:USAirwaysHQTempe.jpg "fig:USAirwaysHQTempe.jpg") **USエアウェイズ**（）はかつて存在した[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の航空会社。2015年に[アメリカン航空](../Page/アメリカン航空.md "wikilink")に経営統合され消滅した。US Airways Group, Inc. が所有する[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")[テンピ](https://ja.wikipedia.org/wiki/テンピ_\(アリゾナ州\) "wikilink")（[Tempe, Arizona](https://ja.wikipedia.org/wiki/:en:Tempe,_Arizona "wikilink")）に本拠を置く[航空会社](../Page/航空会社.md "wikilink")であり、**USエアー**（USAir）と呼ばれることが多かった。

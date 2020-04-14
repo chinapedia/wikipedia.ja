@@ -1,4 +1,4 @@
-> この記事は[INAX](https://ja.wikipedia.org/wiki/INAX)から翻訳されています。
+> この記事は[INAXの商品](https://ja.wikipedia.org/wiki/INAXの商品)から翻訳されています。
 
 
 **INAXの商品**（イナックスのしょうひん）では、[LIXILグループ](../Page/LIXILグループ.md "wikilink")の[LIXIL](https://ja.wikipedia.org/wiki/LIXIL "wikilink")によるブランド「[INAX](../Page/INAX.md "wikilink")」の主な商品を取り上げている。

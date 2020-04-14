@@ -1,4 +1,4 @@
-> この記事は[Mihimania ](https://ja.wikipedia.org/wiki/Mihimania_)から翻訳されています。
+> この記事は[Mihimania〜コレクション アルバム〜](https://ja.wikipedia.org/wiki/Mihimania〜コレクション_アルバム〜)から翻訳されています。
 
 
 『**mihimania〜コレクション アルバム〜**』（ミヒマニア　コレクション アルバム）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")、裏[ベストともいえる](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")リリース。限定10万枚。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

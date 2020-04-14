@@ -1,4 +1,4 @@
-> この記事は[Mi-8 \(\)](https://ja.wikipedia.org/wiki/Mi-8_\(\))から翻訳されています。
+> この記事は[Mi-8 \(航空機\)](https://ja.wikipedia.org/wiki/Mi-8_\(航空機\))から翻訳されています。
 
 
 **Mi-8**（ミル8；<small>ミー・ヴォースィェミ</small>）は、[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")の[ミル設計局で開発された](../Page/M・L・ミーリ記念モスクワ・ヘリコプター工場.md "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")である。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")（NATO）の使用した[NATOコードネームでは](../Page/NATOコードネームの一覧_\(航空機\).md "wikilink")「ヒップ」（）と呼ばれた。

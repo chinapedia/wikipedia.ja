@@ -1,4 +1,4 @@
-> この記事は[POP JAM X\'mas DJ OZMAHOLY](https://ja.wikipedia.org/wiki/POP_JAM_X\'mas_DJ_OZMAHOLY)から翻訳されています。
+> この記事は[POP JAM X\'masスペシャル DJ OZMAのアゲ♂アゲ♂HOLY☆騎士](https://ja.wikipedia.org/wiki/POP_JAM_X\'masスペシャル_DJ_OZMAのアゲ♂アゲ♂HOLY☆騎士)から翻訳されています。
 
 
 **POP JAM X'masスペシャル DJ OZMAのアゲ♂アゲ♂HOLY☆騎士**（ポップジャム・クリスマス スペシャル・ディージェイ オズマのアゲ・アゲ・ホーリー・ナイト）は、[2006年](../Page/2006年.md "wikilink")[12月23日](../Page/12月23日.md "wikilink")深夜24:15 - 25:00（[12月24日](../Page/12月24日.md "wikilink")未明）に[NHK総合テレビで放送された](../Page/NHK総合テレビジョン.md "wikilink")[音楽](../Page/音楽番組.md "wikilink")[特別番組](../Page/特別番組.md "wikilink")である。

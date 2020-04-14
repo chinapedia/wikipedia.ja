@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[ピンク・レディーX](https://ja.wikipedia.org/wiki/ピンク・レディーX)から翻訳されています。
 
 
 **ピンク・レディーX**（ピンクレディーエックス）は、[1996年](../Page/1996年.md "wikilink")、「[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の再来」としてデビューした2人組の[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に**PLX**に改名。メンバーは「さやか（筒井明日）」と「ちずる（[征矢千鶴](https://ja.wikipedia.org/wiki/征矢千鶴 "wikilink")）」。

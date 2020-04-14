@@ -1,4 +1,4 @@
-> この記事は[SHAKE \(SMAP\)](https://ja.wikipedia.org/wiki/SHAKE_\(SMAP\))から翻訳されています。
+> この記事は[SHAKE \(SMAPの曲\)](https://ja.wikipedia.org/wiki/SHAKE_\(SMAPの曲\))から翻訳されています。
 
 
 「**SHAKE**」（シェイク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の23枚目の[シングル](../Page/シングル.md "wikilink")である。[1996年](../Page/1996年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に[ビクターエンタテインメントから](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。
@@ -13,6 +13,9 @@
   - 高校野球での応援曲としても使用されており、主に[大阪桐蔭高等学校の吹奏楽部が使用している](../Page/大阪桐蔭中学校・高等学校.md "wikilink")。
   - 「[ジャニーズカウントダウンライブ](https://ja.wikipedia.org/wiki/ジャニーズカウントダウンライブ "wikilink")2011-2012」では、本曲を[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")が歌唱した。
   - 歌詞に用いられている「チョー ベリ ベリ」とは、当時流行した[ギャル語](../Page/ギャル語.md "wikilink")の「[チョベリバ](https://ja.wikipedia.org/wiki/チョベリバ "wikilink")・チョベリグ」からきている\[3\]。
+  - SMAP解散後、[2020年](../Page/2020年.md "wikilink")にソロ歌手デビューした木村が同年2月8日に行われたライブツアー『[TAKUYA　KIMURA　Live Tоur 2020 Gо with the　Flоw](https://ja.wikipedia.org/wiki/TAKUYA_KIMURA_Live_Tоur_2020_Gо_with_the_Flоw "wikilink")』にて、『[夜空ノムコウ](../Page/夜空ノムコウ.md "wikilink")』とともに、同曲を披露した<ref>
+
+[木村拓哉がソロライブでSMAP曲を熱唱も、『新しい地図』が歌わないのはナゼ？](https://www.msn.com/ja-jp/entertainment/celebrity/%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E3%81%8C%E3%82%BD%E3%83%AD%E3%83%A9%E3%82%A4%E3%83%96%E3%81%A7smap%E6%9B%B2%E3%82%92%E7%86%B1%E5%94%B1%E3%82%82%E3%80%81%E3%80%8E%E6%96%B0%E3%81%97%E3%81%84%E5%9C%B0%E5%9B%B3%E3%80%8F%E3%81%8C%E6%AD%8C%E3%82%8F%E3%81%AA%E3%81%84%E3%81%AE%E3%81%AF%E3%83%8A%E3%82%BC%EF%BC%9F/ar-BB105Tp8) 週刊女性PRIME 2020年2月18日</ref>。
 
 ## チャート成績
 

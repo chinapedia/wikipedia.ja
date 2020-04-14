@@ -1,4 +1,4 @@
-> この記事は[GOO \(\)](https://ja.wikipedia.org/wiki/GOO_\(\))から翻訳されています。
+> この記事は[GOO \(アルバム\)](https://ja.wikipedia.org/wiki/GOO_\(アルバム\))から翻訳されています。
 
 
 『**GOO**』は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")、[ソニック・ユース](../Page/ソニック・ユース.md "wikilink")のメジャー・デビュー・アルバム。

@@ -1,4 +1,4 @@
-> この記事は[My best friend \(\)](https://ja.wikipedia.org/wiki/My_best_friend_\(\))から翻訳されています。
+> この記事は[My best friend \(堀江由衣の曲\)](https://ja.wikipedia.org/wiki/My_best_friend_\(堀江由衣の曲\))から翻訳されています。
 
 
 「**my best friend**」（マイ・ベスト・フレンド）は、[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の1作目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月18日](../Page/11月18日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。

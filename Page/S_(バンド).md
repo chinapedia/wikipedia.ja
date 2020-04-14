@@ -1,4 +1,4 @@
-> この記事は[S \(\)](https://ja.wikipedia.org/wiki/S_\(\))から翻訳されています。
+> この記事は[S \(バンド\)](https://ja.wikipedia.org/wiki/S_\(バンド\))から翻訳されています。
 
 
 **S**（エス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロックバンド](../Page/ロック_\(音楽\).md "wikilink")。1996年1月に結成し、1998年、岐阜・名古屋を中心に活動する\[1\]\[2\]。2002年3月までマネージメントオフィスと[レコードレーベル](../Page/レコードレーベル.md "wikilink")を兼ねた[Soleil](https://ja.wikipedia.org/wiki/Soleil "wikilink")に所属していた。シークレットライブでは「**魔**」を名乗る事もある。

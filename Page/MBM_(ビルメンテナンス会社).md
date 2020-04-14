@@ -1,4 +1,4 @@
-> この記事は[MBM \(\)](https://ja.wikipedia.org/wiki/MBM_\(\))から翻訳されています。
+> この記事は[MBM \(ビルメンテナンス会社\)](https://ja.wikipedia.org/wiki/MBM_\(ビルメンテナンス会社\))から翻訳されています。
 
 
 **株式会社MBM**（エムビーエム、英：MBM Co.,Ltd）は、[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[美浜に本社を置く](https://ja.wikipedia.org/wiki/美浜_\(浦安市\) "wikilink")[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")（OLC）グループの企業の一つである。旧称・**舞浜ビルメンテナンス**。

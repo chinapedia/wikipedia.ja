@@ -1,4 +1,4 @@
-> この記事は[MIRACLE \(BoA\)](https://ja.wikipedia.org/wiki/MIRACLE_\(BoA\))から翻訳されています。
+> この記事は[MIRACLE \(BoAのアルバム\)](https://ja.wikipedia.org/wiki/MIRACLE_\(BoAのアルバム\))から翻訳されています。
 
 
 『**MIRACLE**』（ミラクル）は、[韓国出身の女性](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の、韓国版[オリジナルアルバム](../Page/アルバム.md "wikilink")2.5集として発表されたアルバム。

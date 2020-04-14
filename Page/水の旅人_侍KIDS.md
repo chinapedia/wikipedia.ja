@@ -1,4 +1,4 @@
-> この記事は[ KIDS](https://ja.wikipedia.org/wiki/_KIDS)から翻訳されています。
+> この記事は[水の旅人 侍KIDS](https://ja.wikipedia.org/wiki/水の旅人_侍KIDS)から翻訳されています。
 
 
 『**水の旅人 侍KIDS**』（みずのたびびと さむらいキッズ）は、[1993年公開の](../Page/1993年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。

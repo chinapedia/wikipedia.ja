@@ -1,4 +1,4 @@
-> この記事は[NEVER LAND \(\)](https://ja.wikipedia.org/wiki/NEVER_LAND_\(\))から翻訳されています。
+> この記事は[NEVER LAND \(ヒップホップユニット\)](https://ja.wikipedia.org/wiki/NEVER_LAND_\(ヒップホップユニット\))から翻訳されています。
 
 
 **NEVER LAND**（ネヴァーランド）は、日本の[ヒップホップ](../Page/ヒップホップ.md "wikilink")ユニット。

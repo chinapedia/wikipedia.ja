@@ -1,4 +1,4 @@
-> この記事は[PARADISE](https://ja.wikipedia.org/wiki/PARADISE)から翻訳されています。
+> この記事は[ツインビーPARADISE](https://ja.wikipedia.org/wiki/ツインビーPARADISE)から翻訳されています。
 
 
 『**ツインビーPARADISE**』（ツインビーパラダイス）は[1993年](../Page/1993年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")から[文化放送](../Page/文化放送.md "wikilink")にて放送されたラジオ番組。[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")のシューティングゲーム「[ツインビー](../Page/ツインビー.md "wikilink")」シリーズを原作とする[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")。
@@ -18,52 +18,52 @@
   - ナビゲーター（パーソナリティ）：國府田マリ子（シリーズ全期間）
   - 番組OPテーマ「HOPE」（シリーズ全期間）
       -
-        作曲：[古川もとあき](https://ja.wikipedia.org/wiki/古川もとあき "wikilink")　演奏：[コナミ矩形波倶楽部](../Page/コナミ矩形波倶楽部.md "wikilink")
+        作曲：[古川もとあき](https://ja.wikipedia.org/wiki/古川もとあき "wikilink") 演奏：[コナミ矩形波倶楽部](../Page/コナミ矩形波倶楽部.md "wikilink")
   - ツインビーPARADISE（第1シリーズ）
       -
         [1993年](../Page/1993年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")-[1994年](../Page/1994年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") 全24話
-        毎週日曜日24:00-24:30（放送時間はJST・文化放送）
+        日曜24:00 - 24:30（放送時間はJST・文化放送）
         ドラマOP主題歌「Twin memories」
           -
             作詞：WINBEE　作曲：[コナミ矩形波倶楽部](../Page/コナミ矩形波倶楽部.md "wikilink")　歌：國府田マリ子
         番組EDテーマ「夢の約束」
           -
-            作詞：山本秀行　作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")　歌：市川陽子
+            作詞：山本秀行 作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink") 歌：市川陽子
   - ツインビーPARADISE2（第2シリーズ）
       -
         [1994年](../Page/1994年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月2日](../Page/4月2日.md "wikilink") 全24話
-        毎週日曜日20:30-21:00（放送時間はJST・文化放送）
+        日曜20:30 - 21:00（放送時間はJST・文化放送）
         ドラマOP主題歌「[僕らのステキ](https://ja.wikipedia.org/wiki/僕らのステキ/Harmony "wikilink")」
           -
-            作詞：戸沢暢美　作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink")　歌：國府田マリ子
+            作詞：戸沢暢美 作曲：[前田克樹](https://ja.wikipedia.org/wiki/前田克樹 "wikilink") 歌：國府田マリ子
         番組EDテーマ（前期）「[Harmony](https://ja.wikipedia.org/wiki/僕らのステキ/Harmony "wikilink")」
           -
-            作詞：國府田マリ子　作曲：[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")　歌：國府田マリ子
+            作詞：國府田マリ子 作曲：[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink") 歌：國府田マリ子
         番組EDテーマ（後期）「瞳はVenus」
           -
-            作詞：[長沢ゆりか](../Page/長沢ゆりか.md "wikilink")　作曲：土井淳一　歌：長沢ゆりか
+            作詞：[長沢ゆりか](../Page/長沢ゆりか.md "wikilink") 作曲：土井淳一 歌：長沢ゆりか
   - ツインビーPARADISE3（第3シリーズ）
       -
-        [1996年](../Page/1996年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") 全48話
-        毎週土曜日24:00-24:30（放送時間はJST・文化放送）
+        [1996年](../Page/1996年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") 全48話
+        土曜24:00 - 24:30（放送時間はJST・文化放送）
         ドラマOP主題歌「Miracle Power」
           -
-            作詞：久保裕美 鶴田加奈子　作曲：三原淑治　歌：[鶴田加奈子](https://ja.wikipedia.org/wiki/鶴田加奈子 "wikilink")
+            作詞：久保裕美 鶴田加奈子 作曲：三原淑治 歌：[鶴田加奈子](https://ja.wikipedia.org/wiki/鶴田加奈子 "wikilink")
         番組EDテーマ（前期）「[私が天使だったらいいのに](https://ja.wikipedia.org/wiki/私が天使だったらいいのに "wikilink")」
           -
-            作詞：[三浦徳子](../Page/三浦徳子.md "wikilink")　國府田マリ子　作曲：[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink")　歌：國府田マリ子
+            作詞：[三浦徳子](../Page/三浦徳子.md "wikilink") 國府田マリ子 作曲：[松原みき](https://ja.wikipedia.org/wiki/松原みき "wikilink") 歌：國府田マリ子
         番組EDテーマ（後期）「[夢はひとりみるものじゃない](https://ja.wikipedia.org/wiki/夢はひとりみるものじゃない "wikilink")」
           -
-            作詞：國府田マリ子　作曲：松原みき　歌：國府田マリ子
+            作詞：國府田マリ子 作曲：松原みき 歌：國府田マリ子
   - ワルモンMONMONパラダイス（スピンオフ）
       -
         [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[5月25日](../Page/5月25日.md "wikilink")
-        毎週土曜日24:00-24:30（放送時間はJST・文化放送）
+        土曜24:00 - 24:30（放送時間はJST・文化放送）
   - ツインビーPARADISE'99（特別番組）
       -
         [1999年](../Page/1999年.md "wikilink")1月-3月
-        毎週土曜21:40～21:50（放送時間はJST・文化放送）
-  - [文化放送モバイルplus presents 國府田マリ子の生放送！復活！ツインビーPARADISE SPECIAL 合言葉はBee！](https://ja.wikipedia.org/wiki/文化放送モバイルplus_presents_生放送! "wikilink")（特別番組）
+        土曜21:40 - 21:50（放送時間はJST・文化放送）
+  - [文化放送モバイルplus presents 國府田マリ子の生放送\!復活\!ツインビーPARADISE SPECIAL 合言葉はBee\!](https://ja.wikipedia.org/wiki/文化放送モバイルplus_presents_生放送! "wikilink")（特別番組）
       -
         [2018年](../Page/2018年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")\[3\]
         22:00-23:00（放送時間はJST・[超A\&G+](https://ja.wikipedia.org/wiki/超A&G+ "wikilink")）
@@ -76,9 +76,9 @@
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")の[10月10日](../Page/10月10日.md "wikilink")には[文化放送A\&Gゾーン](../Page/文化放送A&Gゾーン.md "wikilink")の[超機動放送アニゲマスター](../Page/超機動放送アニゲマスター.md "wikilink")内において一夜限りの特別番組として特番で復活。
 
-その後の[1999年](../Page/1999年.md "wikilink")の1月～3月にかけて同じく[文化放送A\&Gゾーン](../Page/文化放送A&Gゾーン.md "wikilink")の[超機動放送アニゲマスター](../Page/超機動放送アニゲマスター.md "wikilink")の特別番組として「ごめんねアニゲマスター、ツインビーPARADISEは今夜も電波ジャックしますよ！」として主人公であるライト、パステルらのデザート中学の卒業式を描いたドラマ完結編にあたる「ツインビーPARADISE'99」が放送された。
+その後の[1999年](../Page/1999年.md "wikilink")の1月 - 3月にかけて同じく[文化放送A\&Gゾーン](../Page/文化放送A&Gゾーン.md "wikilink")の[超機動放送アニゲマスター](../Page/超機動放送アニゲマスター.md "wikilink")の特別番組として「ごめんねアニゲマスター、ツインビーPARADISEは今夜も電波ジャックしますよ\!」として主人公であるライト、パステルらのデザート中学の卒業式を描いたドラマ完結編にあたる「ツインビーPARADISE'99」が放送された。
 
-2018年11月28日にはツインビーPARADISE番組放送開始25周年を記念し、超A\&G+の「文化放送モバイルplus presents 生放送\!」枠内で「文化放送モバイルplus presents 國府田マリ子の生放送！復活！ツインビーPARADISE SPECIAL 合言葉はBee！」が放送された。番組特別ゲストとしては沼田祐介が登場した。番組内容はドラマパートはなくトークコーナーがメインで番組リスナーからよせられたメールの紹介や番組で使用された楽曲がかけられるなどされた。
+2018年11月28日にはツインビーPARADISE番組放送開始25周年を記念し、超A\&G+の「文化放送モバイルplus presents 生放送\!」枠内で「文化放送モバイルplus presents 國府田マリ子の生放送\!復活\!ツインビーPARADISE SPECIAL 合言葉はBee\!」が放送された。番組特別ゲストとしては沼田祐介が登場した。番組内容はドラマパートはなくトークコーナーがメインで番組リスナーからよせられたメールの紹介や番組で使用された楽曲がかけられるなどされた。
 
 ## 主なキャスト
 

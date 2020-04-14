@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK時計](https://ja.wikipedia.org/wiki/NHK時計)から翻訳されています。
 
 
 **NHK時計**（エヌエイチケイとけい、エヌエイチケイどけい）は、

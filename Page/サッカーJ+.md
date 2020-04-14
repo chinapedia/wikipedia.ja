@@ -1,11 +1,11 @@
-> この記事は[J+](https://ja.wikipedia.org/wiki/J+)から翻訳されています。
+> この記事は[サッカーJ+](https://ja.wikipedia.org/wiki/サッカーJ+)から翻訳されています。
 
 
 『**サッカーJ+**』（サッカージェイプラス）は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")が発行する日本国内の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")情報を扱う不定期刊行の雑誌であった。
 
 ## 特徴
 
-一般誌では取り上げることの少ない [日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）、[日本フットボールリーグ](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink") (JFL)、[地域リーグ](../Page/地域リーグ_\(サッカー\).md "wikilink")、[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（なでしこリーグ）という国内のサッカー情報に主眼を置き、「Jリーグをこよなく愛する[サポーターのために](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink")」をモットーとしている。 そのため、[日本代表に関する記事が皆無であることが特徴となっている](../Page/サッカー日本代表.md "wikilink")（日本代表は別冊『[サッカーN+](https://ja.wikipedia.org/wiki/サッカーN+ "wikilink")』が扱っている）。
+一般誌では取り上げることの少ない [日本プロサッカーリーグ](../Page/日本プロサッカーリーグ.md "wikilink")（Jリーグ）、[日本フットボールリーグ](../Page/日本フットボールリーグ.md "wikilink") (JFL)、[地域リーグ](../Page/地域リーグ_\(サッカー\).md "wikilink")、[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（なでしこリーグ）という国内のサッカー情報に主眼を置き、「Jリーグをこよなく愛する[サポーターのために](https://ja.wikipedia.org/wiki/サポーター_\(サッカー\) "wikilink")」をモットーとしている。 そのため、[日本代表に関する記事が皆無であることが特徴となっている](../Page/サッカー日本代表.md "wikilink")（日本代表は別冊『[サッカーN+](https://ja.wikipedia.org/wiki/サッカーN+ "wikilink")』が扱っている）。
 
 創刊号 (VOL.01) では全国各地の書店で購入可能な「全国版」に加え、表紙と6ページ分がJ1・J2各30チーム（当時）の独自記事となっている[ホームタウン](../Page/ホームタウン.md "wikilink")地域限定の「各チーム限定版（各チーム別特製[ストラップ](../Page/ストラップ.md "wikilink")付き）」の合わせて31種類が発売された。
 

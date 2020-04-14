@@ -1,4 +1,4 @@
-> この記事は[BOIN](https://ja.wikipedia.org/wiki/BOIN)から翻訳されています。
+> この記事は[リゾートBOIN](https://ja.wikipedia.org/wiki/リゾートBOIN)から翻訳されています。
 
 
 『**リゾートBOIN**』（リゾートボイン）は、[2007年](../Page/2007年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")に[Crossnet-Pieから発売された](../Page/CROSSNET.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。および、それを原作として同年[12月25日](../Page/12月25日.md "wikilink")に[Milkyから発売された](../Page/ミルキーレーベル.md "wikilink")[アダルトアニメ](../Page/アダルトアニメ.md "wikilink")。

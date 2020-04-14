@@ -1,4 +1,4 @@
-> この記事は[ \(DJ\)](https://ja.wikipedia.org/wiki/_\(DJ\))から翻訳されています。
+> この記事は[スコット・ブラウン \(DJ\)](https://ja.wikipedia.org/wiki/スコット・ブラウン_\(DJ\))から翻訳されています。
 
 
 **スコット・ブラウン**(**Scott Brown**)は、[スコットランド](../Page/スコットランド.md "wikilink")の[グラスゴー](../Page/グラスゴー.md "wikilink")をベースに活動している[プロデューサー](../Page/音楽プロデューサー.md "wikilink")、および[DJである](https://ja.wikipedia.org/wiki/ディスクジョッキー#ディスクジョッキー（音楽家） "wikilink")。作曲・DJするものは多岐に及び、それらは一般に[レイブに位置付けられる](../Page/レイブ_\(音楽\).md "wikilink")。最も深く関わっているのは[バウンシー・テクノ](https://ja.wikipedia.org/wiki/バウンシー・テクノ "wikilink")であるが、彼の音楽スタイルは[ハッピーハードコア](../Page/ハッピーハードコア.md "wikilink")を始め、[ハードコアトランス](https://ja.wikipedia.org/wiki/ハードコアトランス "wikilink")から[ガバまでの広い範囲に及ぶ](../Page/ガバ_\(音楽\).md "wikilink")。

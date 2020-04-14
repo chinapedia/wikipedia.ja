@@ -1,4 +1,4 @@
-> この記事は[ PC](https://ja.wikipedia.org/wiki/_PC)から翻訳されています。
+> この記事は[熱血高校ドッジボール部 PCサッカー編](https://ja.wikipedia.org/wiki/熱血高校ドッジボール部_PCサッカー編)から翻訳されています。
 
 
 『**熱血高校ドッジボール部 PCサッカー編**』（ねっけつこうこうドッジボールぶぴーしーサッカーへん）は、[ナグザット](https://ja.wikipedia.org/wiki/ナグザット "wikilink")より[1992年](../Page/1992年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に発売された[PCエンジン](../Page/PCエンジン.md "wikilink")用ゲームソフト（[HuCARD](../Page/HuCARD.md "wikilink")）。[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用『[熱血高校ドッジボール部 サッカー編](../Page/熱血高校ドッジボール部_サッカー編.md "wikilink")』の移植版である。
@@ -135,6 +135,37 @@
 （協力：[青二プロダクション](../Page/青二プロダクション.md "wikilink")）
 
 ### 他機種版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>熱血高校ドッジボール部<br />
+CDサッカー編</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a></p></td>
+<td><p>テクノスジャパン</p></td>
+<td><p><a href="../Page/加賀電子.md" title="wikilink">加賀クリエイト</a></p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a><br />
+(<a href="../Page/バーチャルコンソール.md" title="wikilink">バーチャルコンソール</a>)</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### スタッフ
 

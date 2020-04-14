@@ -1,4 +1,4 @@
-> この記事は[7 TRUTHS 7 LIES](https://ja.wikipedia.org/wiki/7_TRUTHS_7_LIES)から翻訳されています。
+> この記事は[7 TRUTHS 7 LIES〜ヴァージンロードの彼方で](https://ja.wikipedia.org/wiki/7_TRUTHS_7_LIES〜ヴァージンロードの彼方で)から翻訳されています。
 
 
 「**7 TRUTHS 7 LIES〜ヴァージンロードの彼方で**」（セブントゥルース・セブンライズ ヴァージンロードのかなたで）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の35枚目のシングル。[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（TOCT-22150）。31枚目のオリジナルアルバム『[acacia(アケイシャ)](https://ja.wikipedia.org/wiki/acacia_\(松任谷由実のアルバム\) "wikilink")』に収録。

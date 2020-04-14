@@ -1,4 +1,4 @@
-> この記事は[BjMVPMVP](https://ja.wikipedia.org/wiki/BjMVPMVP)から翻訳されています。
+> この記事は[Bjリーグ週間MVP・月間MVP](https://ja.wikipedia.org/wiki/Bjリーグ週間MVP・月間MVP)から翻訳されています。
 
 
 **bjリーグ週間MVP・月間MVP**（びーじぇーりーぐしゅうかんMVP・げっかんMVP）は、[bjリーグにおける選手表彰の一つである](https://ja.wikipedia.org/wiki/日本プロバスケットボールリーグ "wikilink")。

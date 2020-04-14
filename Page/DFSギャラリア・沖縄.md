@@ -1,4 +1,4 @@
-> この記事は[DFS](https://ja.wikipedia.org/wiki/DFS)から翻訳されています。
+> この記事は[DFSギャラリア・沖縄](https://ja.wikipedia.org/wiki/DFSギャラリア・沖縄)から翻訳されています。
 
 
 [250pxギャラリア](https://ja.wikipedia.org/wiki/ファイル:DFS_GALLERIA_OKINAWA01.JPG "wikilink")・沖縄\]\] [250px](https://ja.wikipedia.org/wiki/ファイル:DFS-Okinawa2.JPG "wikilink")
@@ -52,7 +52,7 @@ DFSギャラリア建設前は、[マチナトハウジングエリア](https://
 
   - [Tギャラリア沖縄 by DFS：公式サイト](http://www.dfs.com/jp/tgalleria-okinawa)
   - [新DFS「Tギャラリア 沖縄」免税店へ！ たびらい沖縄](http://www.okitour.net/sightseeing/tatsujin/00155/)
-  - [DFSスタッフブログ](http://ameblo.jp/dfsokinawa/)（閉鎖）
+  - [DFSスタッフブログ](https://ameblo.jp/dfsokinawa/)（閉鎖）
   - [ちゅらちゃん　DFS公式Twitter](http://twitter.com/chura_okinawa/)（閉鎖）
   - [@woman×DFSギャラリア・沖縄特集](http://www.woman.co.jp/lifestyle/contents/dfs/index.html)（閉鎖）
 

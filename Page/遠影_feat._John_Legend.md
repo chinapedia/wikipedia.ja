@@ -1,4 +1,4 @@
-> この記事は[ feat. John Legend](https://ja.wikipedia.org/wiki/_feat._John_Legend)から翻訳されています。
+> この記事は[遠影 feat. John Legend](https://ja.wikipedia.org/wiki/遠影_feat._John_Legend)から翻訳されています。
 
 
 「**遠影 feat. John Legend**」（とおかげ・フィーチャリング・ジョン・レジェンド）は、[2006年](../Page/2006年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の通算18枚目のシングル。 発売元は、[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")。

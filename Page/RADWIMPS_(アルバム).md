@@ -1,4 +1,4 @@
-> この記事は[RADWIMPS \(\)](https://ja.wikipedia.org/wiki/RADWIMPS_\(\))から翻訳されています。
+> この記事は[RADWIMPS \(アルバム\)](https://ja.wikipedia.org/wiki/RADWIMPS_\(アルバム\))から翻訳されています。
 
 
 『**RADWIMPS**』（ラッドウィンプス）は、[2003年](../Page/2003年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")にリリースされた[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の1枚目のアルバムである。

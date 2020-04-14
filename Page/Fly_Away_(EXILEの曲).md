@@ -1,4 +1,4 @@
-> この記事は[Fly Away \(EXILE\)](https://ja.wikipedia.org/wiki/Fly_Away_\(EXILE\))から翻訳されています。
+> この記事は[Fly Away \(EXILEの曲\)](https://ja.wikipedia.org/wiki/Fly_Away_\(EXILEの曲\))から翻訳されています。
 
 
 「**Fly Away**」（フライ アウェイ）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の3枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

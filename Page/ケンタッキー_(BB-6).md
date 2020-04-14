@@ -1,4 +1,4 @@
-> この記事は[ \(BB-6\)](https://ja.wikipedia.org/wiki/_\(BB-6\))から翻訳されています。
+> この記事は[ケンタッキー \(BB-6\)](https://ja.wikipedia.org/wiki/ケンタッキー_\(BB-6\))から翻訳されています。
 
 
 |                                                                                                                                             |

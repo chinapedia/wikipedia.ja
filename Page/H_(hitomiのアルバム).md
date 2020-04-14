@@ -1,4 +1,4 @@
-> この記事は[H \(hitomi\)](https://ja.wikipedia.org/wiki/H_\(hitomi\))から翻訳されています。
+> この記事は[H \(hitomiのアルバム\)](https://ja.wikipedia.org/wiki/H_\(hitomiのアルバム\))から翻訳されています。
 
 
 『**h**』（エイチ）は、日本の女性歌手[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[1999年](../Page/1999年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
@@ -12,7 +12,7 @@
 
 ## 収録曲
 
-1.  **[CANDY GIRL](https://ja.wikipedia.org/wiki/CANDY_GIRL "wikilink")**
+1.  **[CANDY GIRL](https://ja.wikipedia.org/wiki/CANDY_GIRL_\(hitomiの曲\) "wikilink")**
       -
         作詞：[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")、作曲：[Tetsuya Komuro](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")、編曲：Tetsuya Komuro and [Cozy Kubo](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")
         3rdシングル。[コダック](../Page/コダック.md "wikilink")「[スナップキッズ](../Page/スナップキッズ.md "wikilink")」CFソング。

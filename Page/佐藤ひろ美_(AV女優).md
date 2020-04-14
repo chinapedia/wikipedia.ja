@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[佐藤ひろ美 \(AV女優\)](https://ja.wikipedia.org/wiki/佐藤ひろ美_\(AV女優\))から翻訳されています。
 
 
 **佐藤 ひろ美**（さとう ひろみ、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月11日](../Page/1月11日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")。

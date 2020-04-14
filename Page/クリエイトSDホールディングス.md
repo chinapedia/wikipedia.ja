@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[クリエイトSDホールディングス](https://ja.wikipedia.org/wiki/クリエイトSDホールディングス)から翻訳されています。
 
 
 **株式会社クリエイトSDホールディングス**（クリエイトエスディーホールディングス、）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")に所在する[持株会社](../Page/持株会社.md "wikilink")である。事業会社は[ドラッグストア](../Page/ドラッグストア.md "wikilink")（薬店）・調剤薬局を運営する**株式会社クリエイトエス・ディー**()など4社である。

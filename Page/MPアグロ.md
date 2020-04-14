@@ -1,4 +1,4 @@
-> この記事は[MP](https://ja.wikipedia.org/wiki/MP)から翻訳されています。
+> この記事は[MPアグロ](https://ja.wikipedia.org/wiki/MPアグロ)から翻訳されています。
 
 
 **MPアグロ株式会社**（エムピーアグロ）は、動物用医薬品等を卸売する企業で、[メディパルホールディングス](../Page/メディパルホールディングス.md "wikilink")グループの一社である。

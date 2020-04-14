@@ -1,4 +1,4 @@
-> この記事は[O](https://ja.wikipedia.org/wiki/O)から翻訳されています。
+> この記事は[O級駆逐艦](https://ja.wikipedia.org/wiki/O級駆逐艦)から翻訳されています。
 
 
 **O級駆逐艦**（）は[イギリス海軍](../Page/イギリス海軍.md "wikilink")の[駆逐艦](../Page/駆逐艦.md "wikilink")の艦級。[1940年](../Page/1940年.md "wikilink")度戦時予算に基づく[第1次戦時急造艦隊として](https://ja.wikipedia.org/wiki/:en:War_Emergency_Programme_destroyers "wikilink")8隻が建造され、[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")から[1942年](../Page/1942年.md "wikilink")にかけて順次に就役した\[1\]。[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")において船団護衛を務め、一部は[1950年代](../Page/1950年代.md "wikilink")に[16型フリゲート](https://ja.wikipedia.org/wiki/16型フリゲート "wikilink")へ改装されて、[水中高速潜時代の](../Page/潜水艦.md "wikilink")[対潜戦](../Page/対潜戦.md "wikilink")を担った\[2\]\[3\]。

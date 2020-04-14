@@ -1,4 +1,4 @@
-> この記事は[AGM-45 \(\)](https://ja.wikipedia.org/wiki/AGM-45_\(\))から翻訳されています。
+> この記事は[AGM-45 \(ミサイル\)](https://ja.wikipedia.org/wiki/AGM-45_\(ミサイル\))から翻訳されています。
 
 
 **AGM-45 シュライク**（）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のNWCで開発され、[テキサス・インスツルメンツ](../Page/テキサス・インスツルメンツ.md "wikilink")が製造した[対レーダーミサイル](../Page/対レーダーミサイル.md "wikilink")である\[1\]。[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")中から使用されはじめた\[2\]。

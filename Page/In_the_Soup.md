@@ -491,7 +491,7 @@
 
   - [公式サイト](http://inthesoup.net/home.html)
 
-  - [中尾諭介「人生レールの車窓から」](http://ameblo.jp/jinseirail/)
+  - [中尾諭介「人生レールの車窓から」](https://ameblo.jp/jinseirail/)
 
   -   -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")

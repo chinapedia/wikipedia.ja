@@ -1,4 +1,4 @@
-> この記事は[H.I.P.](https://ja.wikipedia.org/wiki/H.I.P.)から翻訳されています。
+> この記事は[ガクエン情報部H.I.P.](https://ja.wikipedia.org/wiki/ガクエン情報部H.I.P.)から翻訳されています。
 
 
 『**ガクエン情報部H.I.P.**』（ガクエンじょうほうぶヒップ）は[富沢順](../Page/富沢順.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。連載は[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")[1984年](../Page/1984年.md "wikilink")44号から[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")22号。

@@ -1,4 +1,4 @@
-> この記事は[JOE \(\)](https://ja.wikipedia.org/wiki/JOE_\(\))から翻訳されています。
+> この記事は[JOE \(ドラマー\)](https://ja.wikipedia.org/wiki/JOE_\(ドラマー\))から翻訳されています。
 
 
 **JOE**（ジョー、本名:**上野浩二** - うえのこうじ）は、日本の[ドラマー](../Page/ドラマー.md "wikilink")。[1972年](../Page/1972年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink")生まれ、O型、[長崎県](../Page/長崎県.md "wikilink")[大村市](../Page/大村市.md "wikilink")出身。[SEX MACHINEGUNSでの活動時は](../Page/SEX_MACHINEGUNS.md "wikilink")**SPEED STAR SYPAN JOE**名義で活動。

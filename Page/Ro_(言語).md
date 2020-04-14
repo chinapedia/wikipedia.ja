@@ -1,4 +1,4 @@
-> この記事は[Ro \(\)](https://ja.wikipedia.org/wiki/Ro_\(\))から翻訳されています。
+> この記事は[Ro \(言語\)](https://ja.wikipedia.org/wiki/Ro_\(言語\))から翻訳されています。
 
 
 **Ro**は、[1904年](../Page/1904年.md "wikilink")から[エドワード・パウエル・フォスター](https://ja.wikipedia.org/wiki/エドワード・パウエル・フォスター "wikilink")(Edward Powell Foster)によって作られた[アプリオリ](https://ja.wikipedia.org/wiki/アプリオリ言語 "wikilink")[人工言語](https://ja.wikipedia.org/wiki/人工言語 "wikilink")である。Roにおいて、語は[分類](../Page/分類.md "wikilink")システムを用いて作られる。たとえば、赤という語は"bofoc"で、黄色は"bofof"である。"bofo-"で始まる全ての語は色を示す。フォスターは、単に一般的なより良い言語を設計しようとしたのではなく、未知語の認知可能性として、一つの設計基準として彼の言語を最適化しようとした。

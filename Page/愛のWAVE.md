@@ -1,4 +1,4 @@
-> この記事は[WAVE](https://ja.wikipedia.org/wiki/WAVE)から翻訳されています。
+> この記事は[愛のWAVE](https://ja.wikipedia.org/wiki/愛のWAVE)から翻訳されています。
 
 
 『**愛のWAVE**』（あいのウェーブ）は、[1992年](../Page/1992年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")に発売された[松任谷由実](../Page/松任谷由実.md "wikilink")・[カールスモーキー石井](https://ja.wikipedia.org/wiki/石井竜也 "wikilink")（[米米CLUB](../Page/米米CLUB.md "wikilink")）の名義で発表されたシングル。

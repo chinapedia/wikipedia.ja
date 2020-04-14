@@ -1,4 +1,4 @@
-> この記事は[Facade ](https://ja.wikipedia.org/wiki/Facade_)から翻訳されています。
+> この記事は[Facade パターン](https://ja.wikipedia.org/wiki/Facade_パターン)から翻訳されています。
 
 
 **Facade パターン**あるいは **Façade パターン**（ファサード・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")（Gang of Four; 4人のギャングたち）によって定義された、[コンピュータ](../Page/コンピュータ.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。Facade（[ファサード](../Page/ファサード.md "wikilink")）とは「建物の正面」を意味する。異なるサブシステムを単純な操作だけを持ったFacade[クラスで結び](../Page/クラス_\(コンピュータ\).md "wikilink")、サブシステム間の独立性を高める事を目的とする。

@@ -1,4 +1,4 @@
-> この記事は[-And The Band Played On-](https://ja.wikipedia.org/wiki/-And_The_Band_Played_On-)から翻訳されています。
+> この記事は[ウワサの伴奏-And The Band Played On-](https://ja.wikipedia.org/wiki/ウワサの伴奏-And_The_Band_Played_On-)から翻訳されています。
 
 
 『**ウワサの伴奏-And The Band Played On-**』（うわさのばんそう・アンド・ザ・バンド・プレイド・オン）は[2002年](../Page/2002年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")発売された、[RHYMESTER](../Page/RHYMESTER.md "wikilink")の[メジャー](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")2枚目([インディーズ](../Page/インディーズ.md "wikilink")を含めると5枚目)の[アルバム](../Page/アルバム.md "wikilink")である。

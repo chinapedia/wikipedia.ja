@@ -1,4 +1,4 @@
-> この記事は[Cross never say die](https://ja.wikipedia.org/wiki/Cross_never_say_die)から翻訳されています。
+> この記事は[Cross 〜never say die〜](https://ja.wikipedia.org/wiki/Cross_〜never_say_die〜)から翻訳されています。
 
 
 「**Cross 〜never say die〜**」（クロス ネヴァー セイ ダイ）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SA \(\)](https://ja.wikipedia.org/wiki/SA_\(\))から翻訳されています。
+> この記事は[SA \(バンド\)](https://ja.wikipedia.org/wiki/SA_\(バンド\))から翻訳されています。
 
 
 **SA**（エスエー）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。海外で活動をする際は**SA aka. Samurai Attack**の名称を用いる。[1984年](../Page/1984年.md "wikilink")、ヴォーカルのTAISEIを中心に[岐阜市](../Page/岐阜市.md "wikilink")で結成され、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に一度解散する。その後、[1999年](../Page/1999年.md "wikilink")からTAISEIが[ソロプロジェクトとして活動を再開し](../Page/一人バンド.md "wikilink")、[2002年](../Page/2002年.md "wikilink")からTAISEI/NAOKI/KEN/SHOHEIの4人のメンバーが揃い、ライブを中心としたバンド活動を行う。

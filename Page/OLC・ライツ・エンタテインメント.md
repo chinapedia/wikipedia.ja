@@ -1,4 +1,4 @@
-> この記事は[OLC](https://ja.wikipedia.org/wiki/OLC)から翻訳されています。
+> この記事は[OLC・ライツ・エンタテインメント](https://ja.wikipedia.org/wiki/OLC・ライツ・エンタテインメント)から翻訳されています。
 
 
 **OLC・ライツ・エンタテインメント**（おーえるしー -）は、かつて[東京都](../Page/東京都.md "wikilink")[中央区にあった](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")グループの企業の一つである。

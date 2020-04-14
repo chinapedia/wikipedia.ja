@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[敦賀FM放送](https://ja.wikipedia.org/wiki/敦賀FM放送)から翻訳されています。
 
 
 **敦賀FM放送株式会社**（つるがエフエムほうそう）は、[福井県](../Page/福井県.md "wikilink")[敦賀市](../Page/敦賀市.md "wikilink")の一部地域を[放送区域](https://ja.wikipedia.org/wiki/放送区域 "wikilink")として[超短波放送](../Page/超短波放送.md "wikilink")（[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")）を行っている[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。

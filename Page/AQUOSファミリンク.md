@@ -1,4 +1,4 @@
-> この記事は[AQUOS](https://ja.wikipedia.org/wiki/AQUOS)から翻訳されています。
+> この記事は[AQUOSファミリンク](https://ja.wikipedia.org/wiki/AQUOSファミリンク)から翻訳されています。
 
 
 **AQUOSファミリンク**は、[シャープ](../Page/シャープ.md "wikilink")が採用する、[AV機器](https://ja.wikipedia.org/wiki/AV機器 "wikilink")同士を[HDMI](https://ja.wikipedia.org/wiki/HDMI "wikilink")で接続し、一つの操作系（[リモコン](../Page/リモコン.md "wikilink")等）で全ての機器を制御可能とする機能の名称である。

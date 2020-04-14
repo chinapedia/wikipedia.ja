@@ -1,4 +1,4 @@
-> この記事は[ \(SMAP\)](https://ja.wikipedia.org/wiki/_\(SMAP\))から翻訳されています。
+> この記事は[ダイナマイト \(SMAPの曲\)](https://ja.wikipedia.org/wiki/ダイナマイト_\(SMAPの曲\))から翻訳されています。
 
 
 「**ダイナマイト**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の24作目の[シングル](../Page/シングル.md "wikilink")である。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月26日](../Page/2月26日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")された。

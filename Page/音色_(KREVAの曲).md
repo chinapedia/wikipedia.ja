@@ -1,4 +1,4 @@
-> この記事は[ \(KREVA\)](https://ja.wikipedia.org/wiki/_\(KREVA\))から翻訳されています。
+> この記事は[音色 \(KREVAの曲\)](https://ja.wikipedia.org/wiki/音色_\(KREVAの曲\))から翻訳されています。
 
 
 「**音色**」（ねいろ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[KREVA](../Page/KREVA.md "wikilink")のメジャーデビュー[シングル](../Page/シングル.md "wikilink")。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

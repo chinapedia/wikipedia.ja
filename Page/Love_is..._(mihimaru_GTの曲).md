@@ -1,4 +1,4 @@
-> この記事は[Love is... \(mihimaru GT\)](https://ja.wikipedia.org/wiki/Love_is..._\(mihimaru_GT\))から翻訳されています。
+> この記事は[Love is... \(mihimaru GTの曲\)](https://ja.wikipedia.org/wiki/Love_is..._\(mihimaru_GTの曲\))から翻訳されています。
 
 
 『**Love is...**』（ラブイズ）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")6枚目となる[シングル](../Page/シングル.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[9月7日](../Page/9月7日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

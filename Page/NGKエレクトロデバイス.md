@@ -1,4 +1,4 @@
-> この記事は[NGK](https://ja.wikipedia.org/wiki/NGK)から翻訳されています。
+> この記事は[NGKエレクトロデバイス](https://ja.wikipedia.org/wiki/NGKエレクトロデバイス)から翻訳されています。
 
 
 **NGKエレクトロデバイス株式会社**（エヌジーケーエレクトロデバイス）は[山口県](../Page/山口県.md "wikilink")[美祢市](../Page/美祢市.md "wikilink")に本社を置く[半導体](../Page/半導体.md "wikilink")パッケージなど電子部品のメーカー。[鳴海製陶](../Page/鳴海製陶.md "wikilink")株式会社の電子[セラミックス](../Page/セラミックス.md "wikilink")部門を母体としている。

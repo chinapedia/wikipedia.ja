@@ -1,4 +1,4 @@
-> この記事は[TM](https://ja.wikipedia.org/wiki/TM)から翻訳されています。
+> この記事は[ジョーンズTM](https://ja.wikipedia.org/wiki/ジョーンズTM)から翻訳されています。
 
 
 **ジョーンズTM株式会社**(JonesTM, Inc.)は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テキサス州](../Page/テキサス州.md "wikilink")[ダラス](../Page/ダラス.md "wikilink")に本社がある[ジングル制作会社である](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。

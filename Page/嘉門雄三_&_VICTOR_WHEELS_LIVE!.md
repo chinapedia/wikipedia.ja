@@ -1,4 +1,4 @@
-> この記事は[ \& VICTOR WHEELS LIVE!](https://ja.wikipedia.org/wiki/_\&_VICTOR_WHEELS_LIVE!)から翻訳されています。
+> この記事は[嘉門雄三 \& VICTOR WHEELS LIVE!](https://ja.wikipedia.org/wiki/嘉門雄三_\&_VICTOR_WHEELS_LIVE!)から翻訳されています。
 
 
 『**嘉門雄三 & VICTOR WHEELS LIVE\!**』（かもんゆうぞう アンド ビクター・ホイールズ・ライヴ）は、嘉門雄三の名義で発売した[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")の[ライブ・アルバム](../Page/アルバム.md "wikilink")。[1982年](../Page/1982年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売。発売元は[Invitation](../Page/Invitation_\(レーベル\).md "wikilink")。

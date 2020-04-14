@@ -1,4 +1,4 @@
-> この記事は[YUMING Presents  DVD](https://ja.wikipedia.org/wiki/YUMING_Presents__DVD)から翻訳されています。
+> この記事は[YUMING Presents 天国の本屋〜恋火 ミュージックDVD](https://ja.wikipedia.org/wiki/YUMING_Presents_天国の本屋〜恋火_ミュージックDVD)から翻訳されています。
 
 
 『**YUMING Presents 天国の本屋〜恋火 ミュージックDVD**』（ユーミン・プレゼンツ てんごくのほんや～こいび ミュージックディーブイディー）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン） の「DVDシングル」。[2004年](../Page/2004年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（TOBF-5316）。

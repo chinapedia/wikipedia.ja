@@ -1,4 +1,4 @@
-> この記事は[Song for you \(EXILE\)](https://ja.wikipedia.org/wiki/Song_for_you_\(EXILE\))から翻訳されています。
+> この記事は[Song for you \(EXILEの曲\)](https://ja.wikipedia.org/wiki/Song_for_you_\(EXILEの曲\))から翻訳されています。
 
 
 「**song for you**」（ソング フォー ユー）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

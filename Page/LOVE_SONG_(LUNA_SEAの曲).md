@@ -1,4 +1,4 @@
-> この記事は[LOVE SONG \(LUNA SEA\)](https://ja.wikipedia.org/wiki/LOVE_SONG_\(LUNA_SEA\))から翻訳されています。
+> この記事は[LOVE SONG \(LUNA SEAの曲\)](https://ja.wikipedia.org/wiki/LOVE_SONG_\(LUNA_SEAの曲\))から翻訳されています。
 
 
 「**LOVE SONG**」（ラヴ・ソング）は[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")14枚目の[シングル](../Page/シングル.md "wikilink")である。[2000年](../Page/2000年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")発売。初回限定盤は特殊ジャケット仕様。

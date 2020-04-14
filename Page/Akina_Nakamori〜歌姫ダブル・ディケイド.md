@@ -1,4 +1,4 @@
-> この記事は[Akina Nakamori](https://ja.wikipedia.org/wiki/Akina_Nakamori)から翻訳されています。
+> この記事は[Akina Nakamori〜歌姫ダブル・ディケイド](https://ja.wikipedia.org/wiki/Akina_Nakamori〜歌姫ダブル・ディケイド)から翻訳されています。
 
 
 『**Akina Nakamori〜歌姫ダブル・ディケイド**』（アキナ・ナカモリ うたひめダブル・ディケイド）は、日本の歌手[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")のセルフカバー・[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。このアルバムは2002年12月4日に[ユニバーサルJよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")([CD](../Page/コンパクトディスク.md "wikilink"): UMCK-1139)\[1\]。

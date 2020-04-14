@@ -1,4 +1,4 @@
-> この記事は[AGM-78 \(\)](https://ja.wikipedia.org/wiki/AGM-78_\(\))から翻訳されています。
+> この記事は[AGM-78 \(ミサイル\)](https://ja.wikipedia.org/wiki/AGM-78_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=AGM-78 スタンダードARM | 画像=Image:Agm-78.jpg | キャプション=[国立アメリカ空軍博物館](../Page/国立アメリカ空軍博物館.md "wikilink")にあるAGM-78 | 用途=[対レーダーミサイル](../Page/対レーダーミサイル.md "wikilink") | 分類=通常兵器 | 設計者= | 製造者=[ジェネラル・ダイナミクス](../Page/ジェネラル・ダイナミクス.md "wikilink") | 運用者 more=

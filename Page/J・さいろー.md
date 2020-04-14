@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[J・さいろー](https://ja.wikipedia.org/wiki/J・さいろー)から翻訳されています。
 
 
 **J・さいろー**（ジェイ・さいろー、[2月9日](../Page/2月9日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")、[小説家](../Page/小説家.md "wikilink")、[ゲームシナリオライター](https://ja.wikipedia.org/wiki/ゲームシナリオライター "wikilink")。「豺狼出版」・「さいろー書店」名義での[同人](https://ja.wikipedia.org/wiki/同人 "wikilink")活動もしている。

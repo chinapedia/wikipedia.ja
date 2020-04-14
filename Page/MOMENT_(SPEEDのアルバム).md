@@ -1,4 +1,4 @@
-> この記事は[MOMENT \(SPEED\)](https://ja.wikipedia.org/wiki/MOMENT_\(SPEED\))から翻訳されています。
+> この記事は[MOMENT \(SPEEDのアルバム\)](https://ja.wikipedia.org/wiki/MOMENT_\(SPEEDのアルバム\))から翻訳されています。
 
 
 『**MOMENT**』（モーメント）は、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の初の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")である。

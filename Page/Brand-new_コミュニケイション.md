@@ -1,4 +1,4 @@
-> この記事は[Brand-new ](https://ja.wikipedia.org/wiki/Brand-new_)から翻訳されています。
+> この記事は[Brand-new コミュニケイション](https://ja.wikipedia.org/wiki/Brand-new_コミュニケイション)から翻訳されています。
 
 
 「**brand-new コミュニケイション**」（ブランニュー コミュニケイション）は、[堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")の[シングル](../Page/シングル.md "wikilink")。1999年3月17日、ポニーキャニオンより発売。

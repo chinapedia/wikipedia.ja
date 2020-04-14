@@ -1,4 +1,4 @@
-> この記事は[ WEST WIND](https://ja.wikipedia.org/wiki/_WEST_WIND)から翻訳されています。
+> この記事は[大阪発疾走ステージ WEST WIND](https://ja.wikipedia.org/wiki/大阪発疾走ステージ_WEST_WIND)から翻訳されています。
 
 
 『**大阪発疾走ステージ WEST WIND**』（おおさかはつしっそうステージ うえすとうぃんど）は、[NHK大阪放送局](../Page/NHK大阪放送局.md "wikilink")製作で[2007年](../Page/2007年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")（第4週日曜日）に[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")で放送された[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。2007年[4月29日](../Page/4月29日.md "wikilink")よりレギュラー放送開始。

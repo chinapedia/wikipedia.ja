@@ -1,4 +1,4 @@
-> この記事は[GT](https://ja.wikipedia.org/wiki/GT)から翻訳されています。
+> この記事は[GT書体](https://ja.wikipedia.org/wiki/GT書体)から翻訳されています。
 
 
 **GT書体**（ジーティーしょたい）とは、[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")多国語処理研究会の「マルチメディア通信システムにおける多国語処理の研究プロジェクト」として行われている、[漢字](../Page/漢字.md "wikilink")や[国字](../Page/国字.md "wikilink")の蒐集活動によって纏められた[大規模文字セット](../Page/大規模文字セット.md "wikilink")の書体である。

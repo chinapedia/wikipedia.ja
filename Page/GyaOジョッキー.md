@@ -1,4 +1,4 @@
-> この記事は[GyaO](https://ja.wikipedia.org/wiki/GyaO)から翻訳されています。
+> この記事は[GyaOジョッキー](https://ja.wikipedia.org/wiki/GyaOジョッキー)から翻訳されています。
 
 
 『**GyaOジョッキー**』（ギャオジョッキー）とは、株式会社GyaO\!(2009年3月まで株式会社[USEN](../Page/USEN.md "wikilink")が運営)の無料動画配信サービス「[GyaO](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")」で2006年11月13日から配信開始された「[インターネットテレビ](../Page/インターネットテレビ.md "wikilink")」番組の時間帯枠。

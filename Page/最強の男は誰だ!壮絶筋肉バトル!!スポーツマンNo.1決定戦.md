@@ -1,4 +1,4 @@
-> この記事は[!!!No.1](https://ja.wikipedia.org/wiki/!!!No.1)から翻訳されています。
+> この記事は[最強の男は誰だ!壮絶筋肉バトル!!スポーツマンNo.1決定戦](https://ja.wikipedia.org/wiki/最強の男は誰だ!壮絶筋肉バトル!!スポーツマンNo.1決定戦)から翻訳されています。
 
 
 『**最強の男は誰だ\!壮絶筋肉バトル\!\!スポーツマンNo.1決定戦**』（さいきょうのおとこはだれだ そうぜつきんにくバトル スポーツマンナンバーワンけっていせん）とは、[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[特別番組](../Page/特別番組.md "wikilink")である。略称は、『**スポーツマンNo.1決定戦**』。

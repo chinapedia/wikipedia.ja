@@ -1,4 +1,4 @@
-> この記事は[Millennium \(Yuming+Pocket Biscuits\)](https://ja.wikipedia.org/wiki/Millennium_\(Yuming+Pocket_Biscuits\))から翻訳されています。
+> この記事は[Millennium \(Yuming+Pocket Biscuitsの曲\)](https://ja.wikipedia.org/wiki/Millennium_\(Yuming+Pocket_Biscuitsの曲\))から翻訳されています。
 
 
 『**Millennium**』（ミレニアム）は、**[Yuming](../Page/松任谷由実.md "wikilink")＋[Pocket Biscuits](../Page/ポケットビスケッツ.md "wikilink")**名義で発売されたシングル。[2000年](../Page/2000年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・[ユニバーサル ミュージック/EMI R](https://ja.wikipedia.org/wiki/ユニバーサル_ミュージック_\(日本\)#EMI_R "wikilink")）からリリースされた（TOCT-4200）。

@@ -1,4 +1,4 @@
-> この記事は[ \(YMO\)](https://ja.wikipedia.org/wiki/_\(YMO\))から翻訳されています。
+> この記事は[シールド \(YMOのアルバム\)](https://ja.wikipedia.org/wiki/シールド_\(YMOのアルバム\))から翻訳されています。
 
 
 『**シールド**』 (*SEALED*) は、[YMOのベスト](../Page/イエロー・マジック・オーケストラ.md "wikilink")・アルバム。[1984年](../Page/1984年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[アルファレコード](../Page/アルファレコード.md "wikilink")よりリリースされた。

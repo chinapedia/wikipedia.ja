@@ -1,4 +1,4 @@
-> この記事は[ASMP \(\)](https://ja.wikipedia.org/wiki/ASMP_\(\))から翻訳されています。
+> この記事は[ASMP \(ミサイル\)](https://ja.wikipedia.org/wiki/ASMP_\(ミサイル\))から翻訳されています。
 
 
 **ASMP**（Air-Sol Moyenne Portée / 中距離[空対地ミサイル](../Page/空対地ミサイル.md "wikilink")）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[アエロスパシアル](../Page/アエロスパシアル.md "wikilink")（現[MBDA](../Page/MBDA.md "wikilink")）製の[空中発射巡航ミサイルである](../Page/巡航ミサイル.md "wikilink")。[核弾頭](../Page/核弾頭.md "wikilink")を搭載し、フランスの[核抑止](../Page/核抑止.md "wikilink")力（Force de frappe）の一翼を担い、全面的な[核戦争](../Page/核戦争.md "wikilink")へ移行する直前の段階で使用される。改良型にASMP-Aがある。

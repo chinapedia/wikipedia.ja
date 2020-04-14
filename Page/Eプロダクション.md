@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[Eプロダクション](https://ja.wikipedia.org/wiki/Eプロダクション)から翻訳されています。
 
 
 **Eプロダクション**（イープロダクション）は、かつて[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[舞浜](../Page/舞浜.md "wikilink")にあった[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")グループの[芸能事務所](../Page/芸能事務所.md "wikilink")。

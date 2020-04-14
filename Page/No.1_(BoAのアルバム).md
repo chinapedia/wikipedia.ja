@@ -1,4 +1,4 @@
-> この記事は[No.1 \(BoA\)](https://ja.wikipedia.org/wiki/No.1_\(BoA\))から翻訳されています。
+> この記事は[No.1 \(BoAのアルバム\)](https://ja.wikipedia.org/wiki/No.1_\(BoAのアルバム\))から翻訳されています。
 
 
 『**No.1**』（ナンバーワン）は、[韓国出身の女性](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の、韓国版[アルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")2集として発表されたアルバム。

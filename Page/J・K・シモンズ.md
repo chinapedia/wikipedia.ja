@@ -1,4 +1,4 @@
-> この記事は[JK](https://ja.wikipedia.org/wiki/JK)から翻訳されています。
+> この記事は[J・K・シモンズ](https://ja.wikipedia.org/wiki/J・K・シモンズ)から翻訳されています。
 
 
 **J・K・シモンズ**（J K Simmons、本名：Jonathan Kimble Simmons、[1955年](../Page/1955年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミシガン州](../Page/ミシガン州.md "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")出身の俳優。

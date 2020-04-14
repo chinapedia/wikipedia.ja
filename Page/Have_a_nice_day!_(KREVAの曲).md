@@ -1,4 +1,4 @@
-> この記事は[Have a nice day! \(KREVA\)](https://ja.wikipedia.org/wiki/Have_a_nice_day!_\(KREVA\))から翻訳されています。
+> この記事は[Have a nice day! \(KREVAの曲\)](https://ja.wikipedia.org/wiki/Have_a_nice_day!_\(KREVAの曲\))から翻訳されています。
 
 
 「**Have a nice day\!**」（ハヴ・ア・ナイス・デイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[KREVA](../Page/KREVA.md "wikilink")のメジャー7枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

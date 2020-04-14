@@ -1,4 +1,4 @@
-> この記事は[MotorStorm ](https://ja.wikipedia.org/wiki/MotorStorm_)から翻訳されています。
+> この記事は[MotorStorm 〜モーターストーム〜](https://ja.wikipedia.org/wiki/MotorStorm_〜モーターストーム〜)から翻訳されています。
 
 
 『**MotorStorm 〜モーターストーム〜**』は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が[2006年](../Page/2006年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に日本で発売した[プレイステーション3用](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。開発および発売元は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[Evolution Studios](https://ja.wikipedia.org/wiki/Evolution_Studios "wikilink")。北米・欧州では2007年3月に発売された。全世界で300万本を突破し、特に[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")では非常に知名度が高い。

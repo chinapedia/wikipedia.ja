@@ -1,4 +1,4 @@
-> この記事は[HOPE \(\)](https://ja.wikipedia.org/wiki/HOPE_\(\))から翻訳されています。
+> この記事は[HOPE \(アルバム\)](https://ja.wikipedia.org/wiki/HOPE_\(アルバム\))から翻訳されています。
 
 
 『**HOPE**』（ホープ）は、[遊佐未森](../Page/遊佐未森.md "wikilink")の4枚目のオリジナルアルバム。前作から1年後の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[9月21日](../Page/9月21日.md "wikilink")に[エピックソニー](../Page/エピックレコードジャパン.md "wikilink") から発売された。サウンドプロデュースは[外間隆史](../Page/外間隆史.md "wikilink")と[中原信雄](https://ja.wikipedia.org/wiki/中原信雄 "wikilink")。

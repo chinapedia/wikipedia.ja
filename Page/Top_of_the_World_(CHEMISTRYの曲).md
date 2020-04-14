@@ -1,4 +1,4 @@
-> この記事は[Top of the World \(CHEMISTRY\)](https://ja.wikipedia.org/wiki/Top_of_the_World_\(CHEMISTRY\))から翻訳されています。
+> この記事は[Top of the World \(CHEMISTRYの曲\)](https://ja.wikipedia.org/wiki/Top_of_the_World_\(CHEMISTRYの曲\))から翻訳されています。
 
 
 「**Top of the World**」（トップ・オブ・ザ・ワールド）は、[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に発売された[CHEMISTRY](../Page/CHEMISTRY.md "wikilink")の通算19枚目のシングル。 発売元は、[デフスターレコーズ](../Page/デフスターレコーズ.md "wikilink")。

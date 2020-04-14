@@ -1,4 +1,4 @@
-> この記事は[My Name \(BoA\)](https://ja.wikipedia.org/wiki/My_Name_\(BoA\))から翻訳されています。
+> この記事は[My Name \(BoAのアルバム\)](https://ja.wikipedia.org/wiki/My_Name_\(BoAのアルバム\))から翻訳されています。
 
 
 『**My Name**』（マイ・ネーム）は、[韓国出身の女性](../Page/大韓民国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[BoA](../Page/BoA.md "wikilink")の、4集として発表されたアルバム。

@@ -1,4 +1,4 @@
-> この記事は[ \(KREVA\)](https://ja.wikipedia.org/wiki/_\(KREVA\))から翻訳されています。
+> この記事は[スタート \(KREVAの曲\)](https://ja.wikipedia.org/wiki/スタート_\(KREVAの曲\))から翻訳されています。
 
 
 「**スタート**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[KREVA](../Page/KREVA.md "wikilink")のメジャー5th[シングル](../Page/シングル.md "wikilink")。

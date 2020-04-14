@@ -1,4 +1,4 @@
-> この記事は[JB](https://ja.wikipedia.org/wiki/JB)から翻訳されています。
+> この記事は[ダイハツ・JB型エンジン](https://ja.wikipedia.org/wiki/ダイハツ・JB型エンジン)から翻訳されています。
 
 
 **ダイハツ・JB型エンジン**は、[1994年](../Page/1994年.md "wikilink")（平成6年）から[2012年](../Page/2012年.md "wikilink")（平成24年）まで[ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")が生産していた[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")用[エンジン](../Page/エンジン.md "wikilink")の一つである。

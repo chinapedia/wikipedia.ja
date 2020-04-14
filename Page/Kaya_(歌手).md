@@ -1,4 +1,4 @@
-> この記事は[Kaya \(\)](https://ja.wikipedia.org/wiki/Kaya_\(\))から翻訳されています。
+> この記事は[Kaya \(歌手\)](https://ja.wikipedia.org/wiki/Kaya_\(歌手\))から翻訳されています。
 
 
 **Kaya**（かや、[7月17日](../Page/7月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ソロシンガー、[シャンソン](../Page/シャンソン.md "wikilink")歌手、[作詞家](../Page/作詞家.md "wikilink")、[プロデューサー](../Page/プロデューサー.md "wikilink")。ヴィジュアル系バンド**Femme Fatale**（ファム ファタール、2014 - 2016）についても本項にて扱う。

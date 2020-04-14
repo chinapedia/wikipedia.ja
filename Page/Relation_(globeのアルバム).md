@@ -1,4 +1,4 @@
-> この記事は[Relation \(globe\)](https://ja.wikipedia.org/wiki/Relation_\(globe\))から翻訳されています。
+> この記事は[Relation \(globeのアルバム\)](https://ja.wikipedia.org/wiki/Relation_\(globeのアルバム\))から翻訳されています。
 
 
 『**Relation**』（リレーション）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の4枚目のフル[アルバム](../Page/アルバム.md "wikilink")。

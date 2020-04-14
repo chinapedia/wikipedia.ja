@@ -1,4 +1,4 @@
-> この記事は[negai](https://ja.wikipedia.org/wiki/negai)から翻訳されています。
+> この記事は[願〜negai〜](https://ja.wikipedia.org/wiki/願〜negai〜)から翻訳されています。
 
 
 『**願 〜negai〜**』（ねがい）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[7月28日](../Page/7月28日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

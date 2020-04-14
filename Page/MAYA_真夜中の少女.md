@@ -1,4 +1,4 @@
-> この記事は[MAYA ](https://ja.wikipedia.org/wiki/MAYA_)から翻訳されています。
+> この記事は[MAYA 真夜中の少女](https://ja.wikipedia.org/wiki/MAYA_真夜中の少女)から翻訳されています。
 
 
 『**MAYA 真夜中の少女**』（マヤ まよなかのしょうじょ）は、[本島幸久](../Page/本島幸久.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。講談社刊行『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』に[1994年](../Page/1994年.md "wikilink")から[1996年](../Page/1996年.md "wikilink")まで連載。単行本全9巻。[2002年](../Page/2002年.md "wikilink")に実写ドラマ化された。

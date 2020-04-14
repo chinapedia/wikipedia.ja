@@ -1,4 +1,4 @@
-> この記事は[GENEON Presents ](https://ja.wikipedia.org/wiki/GENEON_Presents_)から翻訳されています。
+> この記事は[GENEON Presents 週刊アニメプレス](https://ja.wikipedia.org/wiki/GENEON_Presents_週刊アニメプレス)から翻訳されています。
 
 
 **GENEON Presents 週刊アニメプレス**（ジェネオン プレゼンツ しゅうかんアニメプレス）は、[文化放送](../Page/文化放送.md "wikilink")・[BSフジ](../Page/BSフジ.md "wikilink")の[BSデジタルラジオ局](https://ja.wikipedia.org/wiki/衛星放送#BSデジタル "wikilink")[BSQR489](../Page/BSQR489.md "wikilink")で放送されていた静止画付きの[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

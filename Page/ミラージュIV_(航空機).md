@@ -1,4 +1,4 @@
-> この記事は[IV \(\)](https://ja.wikipedia.org/wiki/IV_\(\))から翻訳されています。
+> この記事は[ミラージュIV \(航空機\)](https://ja.wikipedia.org/wiki/ミラージュIV_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=ミラージュIV / [Logo_Mirage_IV.png](https://ja.wikipedia.org/wiki/File:Logo_Mirage_IV.png "fig:Logo_Mirage_IV.png") | 画像=<File:Mirage_IV_A_Musee_du_Bourget_P1020036.JPG> | キャプション=ミラージュIV A

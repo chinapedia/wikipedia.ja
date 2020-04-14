@@ -1,4 +1,4 @@
-> この記事は[IS F](https://ja.wikipedia.org/wiki/IS_F)から翻訳されています。
+> この記事は[レクサス・IS F](https://ja.wikipedia.org/wiki/レクサス・IS_F)から翻訳されています。
 
 
 **IS F**（アイエス・エフ）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が展開する[高級車](../Page/高級車.md "wikilink")ブランド「**[レクサス](../Page/レクサス.md "wikilink")**」から販売されていた高級[スポーツセダン](https://ja.wikipedia.org/wiki/スポーツセダン "wikilink")である。

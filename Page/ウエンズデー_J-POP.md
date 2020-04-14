@@ -1,4 +1,4 @@
-> この記事は[ J-POP](https://ja.wikipedia.org/wiki/_J-POP)から翻訳されています。
+> この記事は[ウエンズデー J-POP](https://ja.wikipedia.org/wiki/ウエンズデー_J-POP)から翻訳されています。
 
 
 『**ウエンズデー J-POP**』（ウエンズデー・ジェイ・ポップ、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：**WEDNESDAY J-POP**）は、[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（BS2）で[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[2011年](../Page/2011年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで毎週[水曜日](../Page/水曜日.md "wikilink")に放送されていた[音楽](../Page/音楽番組.md "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。ライブと情報性を融合させた番組であった。

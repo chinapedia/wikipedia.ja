@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[Mテック](https://ja.wikipedia.org/wiki/Mテック)から翻訳されています。
 
 
 **Mテック**（エムテック）は、[千葉県](../Page/千葉県.md "wikilink")[浦安市](https://ja.wikipedia.org/wiki/浦安市 "wikilink")[舞浜](../Page/舞浜.md "wikilink")にある[オリエンタルランド](../Page/オリエンタルランド.md "wikilink")グループの企業の一つである。

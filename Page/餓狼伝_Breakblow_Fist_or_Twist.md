@@ -1,4 +1,4 @@
-> この記事は[ Breakblow Fist or Twist](https://ja.wikipedia.org/wiki/_Breakblow_Fist_or_Twist)から翻訳されています。
+> この記事は[餓狼伝 Breakblow Fist or Twist](https://ja.wikipedia.org/wiki/餓狼伝_Breakblow_Fist_or_Twist)から翻訳されています。
 
 
 『**餓狼伝 Breakblow Fist or Twist**（がろうでん ブレイクブロウ フィストオアツイスト）』は、[2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に発売のPlayStation 2用ゲームソフト。『[餓狼伝 Breakblow](https://ja.wikipedia.org/wiki/餓狼伝_Breakblow "wikilink")』の第2弾であり、漫画に登場しなかった原作キャラクター梅川丈次や、力王山・工藤健介などの新キャラクターが追加されている。

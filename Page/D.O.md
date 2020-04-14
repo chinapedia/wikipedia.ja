@@ -5,7 +5,7 @@
 
 ## 人物
 
-3つ編みにサングラスを掛け、全身に入った刺青と云う特殊な風貌と、上ずった鼻声でのラップを組み合わせた奇怪なキャラクター設定で、音楽活動を行う。雷では[SHINNOSK8](https://ja.wikipedia.org/wiki/SHINNOSK8 "wikilink")、GAMA（ガマ、現ヨシピィ・ダ・ガマ）とともにサイドMC的な役割を担っている。
+3つ編みにサングラスを掛け、全身に入った刺青と云う特殊な風貌と、上ずった鼻声でのラップを組み合わせた奇怪なキャラクター設定で、音楽活動を行う。雷ではサイドMC的な役割を担っている。
 
   - 東京都練馬区[大泉学園](https://ja.wikipedia.org/wiki/大泉学園 "wikilink")を溺愛しており、地元で老舗の個人経営レストランである[サンロイヤル](http://tabelog.com/tokyo/A1321/A132103/13041861/)は子供の頃から常連客として通っている。\[1\]
 
@@ -81,7 +81,7 @@
 <!-- end list -->
 
   -
-    9\. DELUX RELAX feat. [SHINNOSK8](https://ja.wikipedia.org/wiki/SHINNOSK8 "wikilink"), D.O
+    9\. DELUX RELAX feat. SHINNOSK8, D.O
 
 <!-- end list -->
 

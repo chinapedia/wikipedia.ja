@@ -1,4 +1,4 @@
-> この記事は[CSS \(\)](https://ja.wikipedia.org/wiki/CSS_\(\))から翻訳されています。
+> この記事は[CSS \(バンド\)](https://ja.wikipedia.org/wiki/CSS_\(バンド\))から翻訳されています。
 
 
 **CSS**（シー・エス・エス）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")の[ディスコ](../Page/ディスコ.md "wikilink")・[パンク](../Page/パンク・ロック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。[サンパウロ](../Page/サンパウロ.md "wikilink")出身。2000年代後半に発祥した[ニューレイヴ](https://ja.wikipedia.org/wiki/ニューレイヴ "wikilink")のバンドに分類される。歌は[英語](../Page/英語.md "wikilink")と[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")で歌われている。

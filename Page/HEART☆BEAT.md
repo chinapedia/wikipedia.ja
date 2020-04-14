@@ -1,4 +1,4 @@
-> この記事は[HEARTBEAT](https://ja.wikipedia.org/wiki/HEARTBEAT)から翻訳されています。
+> この記事は[HEART☆BEAT](https://ja.wikipedia.org/wiki/HEART☆BEAT)から翻訳されています。
 
 
 「**HEART☆BEAT**」（ハート・ビート）は、[2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")にリリースされた[MARIAの](../Page/MARIA_\(バンド\).md "wikilink")3枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -48,7 +48,7 @@
 
 ## 外部リンク
 
-  - [HEART☆BEAT（初回生産限定盤）](http://www.sonymusic.co.jp/Music/Arch/SR/Maria/SRCL-6495/index.html)
-  - [HEART☆BEAT](http://www.sonymusic.co.jp/Music/Arch/SR/Maria/SRCL-6497/index.html)
+  - [HEART☆BEAT（初回生産限定盤）](https://www.sonymusic.co.jp/artist/Maria/discography/SRCL-6495)
+  - [HEART☆BEAT](https://www.sonymusic.co.jp/artist/Maria/discography/SRCL-6497)
 
 [Category:テレビ愛知のテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ愛知のテレビアニメ主題歌 "wikilink") [Category:MARIAの楽曲](https://ja.wikipedia.org/wiki/Category:MARIAの楽曲 "wikilink") [Category:ソニー・ミュージックレコーズのシングル](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのシングル "wikilink") [Category:2007年のシングル](https://ja.wikipedia.org/wiki/Category:2007年のシングル "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")

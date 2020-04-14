@@ -1,4 +1,4 @@
-> この記事は[Internet](https://ja.wikipedia.org/wiki/Internet)から翻訳されています。
+> この記事は[信長の野望Internet](https://ja.wikipedia.org/wiki/信長の野望Internet)から翻訳されています。
 
 
 『**信長の野望Internet**』（のぶながのやぼう・いんたーねっと）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[Windows用](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[信長の野望シリーズ](../Page/信長の野望シリーズ.md "wikilink")」の1つである\[1\]\[2\]。コンピュータ相手に1人でのプレイも可能だが、[インターネット](../Page/インターネット.md "wikilink")による通信対戦を前提とした造りになっている。

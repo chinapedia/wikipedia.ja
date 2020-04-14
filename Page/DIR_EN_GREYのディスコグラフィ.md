@@ -1,4 +1,4 @@
-> この記事は[DIR EN GREY](https://ja.wikipedia.org/wiki/DIR_EN_GREY)から翻訳されています。
+> この記事は[DIR EN GREYのディスコグラフィ](https://ja.wikipedia.org/wiki/DIR_EN_GREYのディスコグラフィ)から翻訳されています。
 
 
 **DIR EN GREYのディスコグラフィ**（ディル・アン・グレイのディスコグラフィ）は、[DIR EN GREYの作品の一覧](../Page/DIR_EN_GREY.md "wikilink")。

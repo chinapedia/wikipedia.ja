@@ -1,4 +1,4 @@
-> この記事は[TOTO](https://ja.wikipedia.org/wiki/TOTO)から翻訳されています。
+> この記事は[TOTOの商品](https://ja.wikipedia.org/wiki/TOTOの商品)から翻訳されています。
 
 
 [Calmic-3.jpg](https://ja.wikipedia.org/wiki/File:Calmic-3.jpg "fig:Calmic-3.jpg")一体型便器ネオレストSD\]\] [C480.jpg](https://ja.wikipedia.org/wiki/File:C480.jpg "fig:C480.jpg")

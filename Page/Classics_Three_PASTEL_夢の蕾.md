@@ -1,4 +1,4 @@
-> この記事は[Classics Three PASTEL ](https://ja.wikipedia.org/wiki/Classics_Three_PASTEL_)から翻訳されています。
+> この記事は[Classics Three PASTEL 夢の蕾](https://ja.wikipedia.org/wiki/Classics_Three_PASTEL_夢の蕾)から翻訳されています。
 
 
 『**Classics Three PASTEL 夢の蕾**』（クラシックス・スリー・パステル ゆめのつぼみ）は、[DEEN](../Page/DEEN.md "wikilink")のコンセプチュアル・マキシシングル。

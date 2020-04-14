@@ -1,4 +1,4 @@
-> この記事は[ZOFFY VS](https://ja.wikipedia.org/wiki/ZOFFY_VS)から翻訳されています。
+> この記事は[ウルトラマンZOFFY ウルトラの戦士VS大怪獣軍団](https://ja.wikipedia.org/wiki/ウルトラマンZOFFY_ウルトラの戦士VS大怪獣軍団)から翻訳されています。
 
 
 『**ウルトラマンZOFFY ウルトラの戦士VS大怪獣軍団**』（ウルトラマンゾフィー ウルトラのせんしブイエスだいかいじゅうぐんだん）は、歴代の[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")の作品を再編集した[劇場公開作品](../Page/映画.md "wikilink")。[1984年](../Page/1984年.md "wikilink")[3月17日](../Page/3月17日.md "wikilink")公開、[松竹富士](../Page/松竹富士.md "wikilink")配給。

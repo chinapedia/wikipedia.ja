@@ -1,4 +1,4 @@
-> この記事は[ \(JR\)](https://ja.wikipedia.org/wiki/_\(JR\))から翻訳されています。
+> この記事は[石川駅 \(JR東日本\)](https://ja.wikipedia.org/wiki/石川駅_\(JR東日本\))から翻訳されています。
 
 
 **石川駅**（いしかわえき）は、[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[弘前市](../Page/弘前市.md "wikilink")大字[石川字野崎にある](https://ja.wikipedia.org/wiki/石川_\(弘前市\) "wikilink")、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）[奥羽本線](https://ja.wikipedia.org/wiki/奥羽本線 "wikilink")の[駅である](../Page/鉄道駅.md "wikilink")\[1\]。

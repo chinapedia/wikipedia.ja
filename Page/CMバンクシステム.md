@@ -1,4 +1,4 @@
-> この記事は[CM](https://ja.wikipedia.org/wiki/CM)から翻訳されています。
+> この記事は[CMバンクシステム](https://ja.wikipedia.org/wiki/CMバンクシステム)から翻訳されています。
 
 
 **CMバンクシステム**は、[テレビコマーシャル](https://ja.wikipedia.org/wiki/テレビコマーシャル "wikilink")等の[コマーシャルを](../Page/コマーシャルメッセージ.md "wikilink")、バンク（[銀行](../Page/銀行.md "wikilink")）のようにためておき、[スケジュール](https://ja.wikipedia.org/wiki/スケジュール "wikilink")にそって送出するための設備である。

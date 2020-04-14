@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[アラン・J・パクラ](https://ja.wikipedia.org/wiki/アラン・J・パクラ)から翻訳されています。
 
 
 **アラン・J・パクラ**（**Alan J. Pakula**, [1928年](../Page/1928年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月19日](../Page/11月19日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[ニューヨーク](../Page/ニューヨーク.md "wikilink")出身の[映画監督](../Page/映画監督.md "wikilink")、[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")。

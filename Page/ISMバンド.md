@@ -1,4 +1,4 @@
-> この記事は[ISM](https://ja.wikipedia.org/wiki/ISM)から翻訳されています。
+> この記事は[ISMバンド](https://ja.wikipedia.org/wiki/ISMバンド)から翻訳されています。
 
 
 **ISMバンド**（アイエスエムバンド、ISM band）とは、[無線周波数](../Page/高周波.md "wikilink")(RF)エネルギーを[電気通信](../Page/電気通信.md "wikilink")以外の[工業](../Page/工業.md "wikilink")・[科学](../Page/科学.md "wikilink")・[医療](../Page/医療.md "wikilink")の目的に使用するために、[国際電気通信連合](../Page/国際電気通信連合.md "wikilink")(ITU)によって国際的に確保されている[周波数帯](https://ja.wikipedia.org/wiki/周波数帯 "wikilink")である\[1\] 。ISMは"industry science and medical"の略で、この部分を日本語訳して**産業科学医療用バンド**と言うこともある。

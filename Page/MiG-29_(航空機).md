@@ -1,4 +1,4 @@
-> この記事は[MiG-29 \(\)](https://ja.wikipedia.org/wiki/MiG-29_\(\))から翻訳されています。
+> この記事は[MiG-29 \(航空機\)](https://ja.wikipedia.org/wiki/MiG-29_\(航空機\))から翻訳されています。
 
 
 **MiG-29**（ミグ29、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")：<span style="font-size:90%">ミーグ・ドヴァーッツァヂ・ヂェーヴャチ</span>）は、[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ミグ設計局で開発された](../Page/MiG.md "wikilink")[戦闘機](../Page/戦闘機.md "wikilink")である。[北大西洋条約機構](../Page/北大西洋条約機構.md "wikilink")（NATO）の使用する[NATOコードネームは](../Page/NATOコードネームの一覧_\(航空機\).md "wikilink")「**フルクラム/ファルクラム**（Fulcrum）」。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では「[ラーストチカ](https://ja.wikipedia.org/wiki/ラーストチカ "wikilink")（Ласточка)」の愛称でも呼ばれるが、この呼称はロシアでは使われていない。

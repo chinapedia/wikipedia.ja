@@ -1,4 +1,4 @@
-> この記事は[MFJ](https://ja.wikipedia.org/wiki/MFJ)から翻訳されています。
+> この記事は[MF文庫J](https://ja.wikipedia.org/wiki/MF文庫J)から翻訳されています。
 
 
 **MF文庫J**（エムエフぶんこジェイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[出版社](../Page/出版社.md "wikilink")である[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")・[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")ブランドから発刊されている[ライトノベル](../Page/ライトノベル.md "wikilink")系[文庫](../Page/文庫本.md "wikilink")[レーベル](https://ja.wikipedia.org/wiki/レーベル "wikilink")。[2002年](../Page/2002年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")創刊\[1\]。
@@ -1146,7 +1146,7 @@ SS3巻</p></td>
 <td><p>むらさきゆきや<br />
 溝口ケージ（企画）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/溝口ケージ" title="wikilink">溝口ケージ</a></p></td>
-<td><p>既刊7巻</p></td>
+<td><p>既刊8巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シュラキ" title="wikilink">シュラキ</a>ZERO　きみが私の騎士だから!</p></td>
@@ -1220,7 +1220,7 @@ SS3巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スコップ無双" title="wikilink">スコップ無双 「スコップ波動砲！」(　｀・ω・´)♂〓〓〓〓★(゜Д　゜　;;;).:∴ドゴォォ</a></p></td>
 <td><p>つちせ八十八</p></td>
 <td><p>憂姫はぐれ</p></td>
-<td><p>既刊3巻</p></td>
+<td><p>既刊4巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ストライプ・ザ・パンツァー" title="wikilink">ストライプ・ザ・パンツァー</a></p></td>
@@ -1767,7 +1767,7 @@ SS3巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/何故か学校一の美少女が休み時間の度に、ぼっちの俺に話しかけてくるんだが?" title="wikilink">何故か学校一の美少女が休み時間の度に、ぼっちの俺に話しかけてくるんだが?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/出井愛" title="wikilink">出井愛</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/西沢5ミリ" title="wikilink">西沢5ミリ</a></p></td>
-<td><p>既刊4巻</p></td>
+<td><p>既刊5巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/なぜ僕の世界を誰も覚えていないのか?" title="wikilink">なぜ僕の世界を誰も覚えていないのか?</a></p></td>
@@ -2602,7 +2602,7 @@ SS3巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ライアー・ライアー" title="wikilink">ライアー・ライアー</a></p></td>
 <td><p>久追遥希</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/きのこのみ" title="wikilink">konomi（きのこのみ）</a></p></td>
-<td><p>既刊3巻</p></td>
+<td><p>既刊4巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ライフアライヴ!" title="wikilink">ライフアライヴ!</a></p></td>
@@ -2644,10 +2644,10 @@ SS3巻</p></td>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活" title="wikilink">Re:ゼロから始める異世界生活</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/長月達平" title="wikilink">長月達平</a></p></td>
-<td><p><a href="../Page/大塚真一郎.md" title="wikilink">大塚真一郎</a>（第1巻 - 第21巻、短編集1 - 2）<br />
+<td><p><a href="../Page/大塚真一郎.md" title="wikilink">大塚真一郎</a>（第1巻 - 第22巻、短編集1 - 2）<br />
 <a href="https://ja.wikipedia.org/wiki/楓月誠" title="wikilink">楓月誠</a>（短編集3）<br />
 <a href="https://ja.wikipedia.org/wiki/イセ川ヤスタカ" title="wikilink">イセ川ヤスタカ</a>（短編集4 - 5）</p></td>
-<td><p>既刊21巻<br />
+<td><p>既刊22巻<br />
 短編集5巻</p></td>
 </tr>
 <tr class="even">
@@ -2728,7 +2728,7 @@ SS3巻</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/わたしの知らない、先輩の100コのこと" title="wikilink">わたしの知らない、先輩の100コのこと</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/兎谷あおい" title="wikilink">兎谷あおい</a></p></td>
+<td><p><a href="../Page/兎谷あおい.md" title="wikilink">兎谷あおい</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ふーみ" title="wikilink">ふーみ</a></p></td>
 <td><p>既刊2巻</p></td>
 </tr>
@@ -2776,9 +2776,9 @@ SS3巻</p></td>
 
 ## 外部リンク
 
-  - [メディアファクトリー・MF文庫J](http://www.mediafactory.co.jp/bunkoj/)
+  - [MF文庫J オフィシャルウェブサイト](https://mfbunkoj.jp/)
 
-  - [MF文庫J編集部ブログ](http://medimo.tv/blog/mfbunkoj/)
+  - [MF文庫J編集部ブログ](https://mfbunkoj.jp/blog/)
 
   -
   -

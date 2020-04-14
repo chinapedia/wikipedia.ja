@@ -1,4 +1,4 @@
-> この記事は[ \(TBS\)](https://ja.wikipedia.org/wiki/_\(TBS\))から翻訳されています。
+> この記事は[スーパーサッカー \(TBSのサッカー番組\)](https://ja.wikipedia.org/wiki/スーパーサッカー_\(TBSのサッカー番組\))から翻訳されています。
 
 
 『**スーパーサッカー**』（[英](../Page/英語.md "wikilink")：*SUPER SOCCER*）は、[TBS系列で](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[1993年](../Page/1993年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink")から放送されている[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。当項目はこの番組の母体となったブロックネット番組の『**速報 Jリーグ**』、更に全国ネット以後化されて以後の一連の『**スーパーサッカーシリーズ**』についてまとめて触れる。
@@ -322,7 +322,6 @@
 ## ネット局
 
 ・TBSテレビ(制作局)
-・HBC北海道放送
 ・TBC東北放送
 ・UTYテレビ山梨
 ・SBC信越放送
@@ -467,7 +466,7 @@
 <!-- end list -->
 
   -
-    2010年3月の『S☆1・スパサカ』最終回では、同年に[JFLの](https://ja.wikipedia.org/wiki/日本フットボールリーグ "wikilink")[ツエーゲン金沢](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")へ移籍した[久保竜彦](../Page/久保竜彦.md "wikilink")への取材を、その時の対戦相手だった[FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")の[相馬直樹](../Page/相馬直樹.md "wikilink")監督（当時）へのインタビューを交えて行った。
+    2010年3月の『S☆1・スパサカ』最終回では、同年に[JFLの](../Page/日本フットボールリーグ.md "wikilink")[ツエーゲン金沢](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")へ移籍した[久保竜彦](../Page/久保竜彦.md "wikilink")への取材を、その時の対戦相手だった[FC町田ゼルビア](https://ja.wikipedia.org/wiki/FC町田ゼルビア "wikilink")の[相馬直樹](../Page/相馬直樹.md "wikilink")監督（当時）へのインタビューを交えて行った。
 
 <!-- end list -->
 

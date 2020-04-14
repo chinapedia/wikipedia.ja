@@ -1,4 +1,4 @@
-> この記事は[WING](https://ja.wikipedia.org/wiki/WING)から翻訳されています。
+> この記事は[月刊ガンガンWING](https://ja.wikipedia.org/wiki/月刊ガンガンWING)から翻訳されています。
 
 
 『**月刊ガンガンWING**』（げっかんガンガンウイング）は、[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")が[2009年](../Page/2009年.md "wikilink")まで発行していた[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[月刊](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")[少年](../Page/少年漫画.md "wikilink")[漫画雑誌](../Page/日本の漫画雑誌.md "wikilink")。毎月26日発売。

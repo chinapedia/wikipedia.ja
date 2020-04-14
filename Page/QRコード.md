@@ -1,4 +1,4 @@
-> この記事は[QR](https://ja.wikipedia.org/wiki/QR)から翻訳されています。
+> この記事は[QRコード](https://ja.wikipedia.org/wiki/QRコード)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:QR_code_desktop_Japanese_Wikipedia.svg "wikilink") **QRコード**（キューアールコード）は、[1994年](../Page/1994年.md "wikilink")（[平成](../Page/平成.md "wikilink")6年）に自動車部品メーカーである[デンソー](https://ja.wikipedia.org/wiki/デンソー "wikilink")（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")）の開発部門（現在は分離し[デンソーウェーブ](../Page/デンソーウェーブ.md "wikilink")）が[発明](../Page/発明.md "wikilink")した[マトリックス](../Page/マトリックス.md "wikilink")型[二次元コード](../Page/二次元コード.md "wikilink")である。
@@ -213,6 +213,8 @@ QRコードの中心部に、絵や文字などを入れるためのキャンバ
       -
       -
       -
+      - [(MIT) Javascript QR Code Generator](https://github.com/datalog/qrcode-svg)
+
 [Category:バーコード](https://ja.wikipedia.org/wiki/Category:バーコード "wikilink") [Category:携帯電話](https://ja.wikipedia.org/wiki/Category:携帯電話 "wikilink") [Category:トヨタグループの技術](https://ja.wikipedia.org/wiki/Category:トヨタグループの技術 "wikilink") [Category:JIS](https://ja.wikipedia.org/wiki/Category:JIS "wikilink") [Category:ISO/IEC標準](https://ja.wikipedia.org/wiki/Category:ISO/IEC標準 "wikilink") [Category:自動認識およびデータ取得](https://ja.wikipedia.org/wiki/Category:自動認識およびデータ取得 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink") [Category:デンソー](https://ja.wikipedia.org/wiki/Category:デンソー "wikilink") [Category:日本の発明](https://ja.wikipedia.org/wiki/Category:日本の発明 "wikilink")
 
 1.  [商標公報4075066](https://www.j-platpat.inpit.go.jp/web/TR/JPT_4075066/01593CC1AD14CFD1366D6EEB71D3CE77) - J-PlatPat

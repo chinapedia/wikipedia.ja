@@ -3,7 +3,7 @@
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Intel_4004.jpg "wikilink") **4004**（よんまるまるよん、と読まれることが多い）は、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")社によって開発された1チップの[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")であり、軍用の[MP944](https://ja.wikipedia.org/wiki/セントラル・エア・データ・コンピュータ "wikilink")\[1\]、組み込み用のTI製[TMS-1000](https://ja.wikipedia.org/wiki/TMS-1000 "wikilink")等とほぼ同時期の、世界最初期のマイクロプロセッサのひとつである。周辺ファミリ[ICを含めてMCS](../Page/集積回路.md "wikilink")-4 Micro Computer Set、あるいは略し単にMCS-4とも呼ぶ。
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")発表、[4ビット](https://ja.wikipedia.org/wiki/4ビット "wikilink")マイクロプロセッサである。[クロック周波数](https://ja.wikipedia.org/wiki/クロック周波数 "wikilink")は、500[kHzから](../Page/ヘルツ.md "wikilink")741kHz\[2\]である。回路構成は[クロック同期設計](../Page/クロック同期設計.md "wikilink")で、pMOSプロセスで3[mm](../Page/ミリメートル.md "wikilink")×4mmのチップ（ダイ）の上に2,300個の[トランジスタ](../Page/トランジスタ.md "wikilink")を集積、10[μm](../Page/マイクロメートル.md "wikilink") (0.01mm) ピッチの[プロセス・ルールで製造された](https://ja.wikipedia.org/wiki/集積回路#プロセス・ルール "wikilink")。当時のICとして標準的な16ピン[DIPの](https://ja.wikipedia.org/wiki/集積回路#DIP_\(Dual_Inline_Package\) "wikilink")[パッケージに収納するため](../Page/パッケージ_\(電子部品\).md "wikilink")、物理的に4ビット幅の[バスを](../Page/バス_\(コンピュータ\).md "wikilink")、アドレスとデータで時分割で使用している。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")発表、[4ビット](https://ja.wikipedia.org/wiki/4ビット "wikilink")マイクロプロセッサである。[クロック周波数](https://ja.wikipedia.org/wiki/クロック周波数 "wikilink")は、500[kHzから](../Page/ヘルツ.md "wikilink")741kHz\[2\]である。回路構成は[クロック同期設計](../Page/クロック同期設計.md "wikilink")で、pMOSプロセスで3[mm](../Page/ミリメートル.md "wikilink")×4mmのチップ（ダイ）の上に2,300個の[トランジスタ](../Page/トランジスタ.md "wikilink")を集積、10[µm](../Page/マイクロメートル.md "wikilink") (0.01mm) ピッチの[プロセス・ルールで製造された](https://ja.wikipedia.org/wiki/集積回路#プロセス・ルール "wikilink")。当時のICとして標準的な16ピン[DIPの](https://ja.wikipedia.org/wiki/集積回路#DIP_\(Dual_Inline_Package\) "wikilink")[パッケージに収納するため](../Page/パッケージ_\(電子部品\).md "wikilink")、物理的に4ビット幅の[バスを](../Page/バス_\(コンピュータ\).md "wikilink")、アドレスとデータで時分割で使用している。
 
 ## 歴史
 
@@ -71,7 +71,7 @@
 [Category:インテルのマイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:インテルのマイクロプロセッサ "wikilink")
 
 1.  [F-14戦闘機用](../Page/F-14_\(戦闘機\).md "wikilink")[Central Air Data Computer](https://ja.wikipedia.org/wiki/セントラル・エア・データ・コンピュータ "wikilink")
-2.  より:クロック周期最小1.35μsec（約741kHz）/最大2.0μsec（500kHz）。『マイクロコンピュータの誕生』によれば、先に周波数を750kHzと決め、そこからその周期内で動作するよう機能を決めている
+2.  より:クロック周期最小1.35µsec（約741kHz）/最大2.0µsec（500kHz）。『マイクロコンピュータの誕生』によれば、先に周波数を750kHzと決め、そこからその周期内で動作するよう機能を決めている
 3.  [国立科学博物館](http://www.kahaku.go.jp/exhibitions/vm/past_parmanent/rikou/Field_1/Detail_106.html)
 4.  『[電子立国日本の自叙伝](../Page/電子立国日本の自叙伝.md "wikilink")』第5回「8ミリ角のコンピューター」ではこれを「ストアードプログラム」と説明しているが、普通のコンピュータのような汎用という訳ではない。また嶋は著書で「ランダム論理」（ワイヤード論理制御）に対するものとして「プログラム論理」という語を使っている。
 5.  嶋の著書『マイクロコンピュータの誕生』によれば、何回か提案しており数は上下する。インテルは12種類としている。嶋は最終的にはプリンタ付きで8個、表示のみで6個まで削減できたと書いている。

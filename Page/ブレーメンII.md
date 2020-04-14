@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ブレーメンII](https://ja.wikipedia.org/wiki/ブレーメンII)から翻訳されています。
 
 
 『**ブレーメンII**』（ブレーメンツー）は、[川原泉](../Page/川原泉.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。「[PUTAO](https://ja.wikipedia.org/wiki/PUTAO "wikilink")」（[白泉社](../Page/白泉社.md "wikilink")）にて[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に連載を開始し、その後、[1999年](../Page/1999年.md "wikilink")に同社の「[メロディ](../Page/MELODY_\(雑誌\).md "wikilink")」に掲載誌を移して[2004年](../Page/2004年.md "wikilink")まで連載された。単行本は白泉社[ジェッツコミックス](https://ja.wikipedia.org/wiki/ジェッツコミックス "wikilink")全5巻、文庫全4巻。

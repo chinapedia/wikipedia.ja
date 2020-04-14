@@ -1,4 +1,4 @@
-> この記事は[ATM](https://ja.wikipedia.org/wiki/ATM)から翻訳されています。
+> この記事は[コンビニATM](https://ja.wikipedia.org/wiki/コンビニATM)から翻訳されています。
 
 
 **コンビニATM**（コンビニ エーティーエム）とは、[コンビニエンスストア](../Page/コンビニエンスストア.md "wikilink")などに設置されている[現金自動預け払い機](../Page/現金自動預け払い機.md "wikilink")（ATM）のことである。

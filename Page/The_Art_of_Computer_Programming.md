@@ -5,11 +5,11 @@
 
 その全体構想から見れば現在も未完であるが、十分な業績としてみなされていることは、3巻初版までが刊行されていた1974年に受賞した[チューリング賞](../Page/チューリング賞.md "wikilink")の受賞理由に功績として本シリーズが含まれていることからも分かる。また、1976年に2巻の第2版の準備をしていた際に、初版のような[鉛版](../Page/鉛版.md "wikilink")による[組版](../Page/組版.md "wikilink") ([:en:Hot metal typesetting](https://ja.wikipedia.org/wiki/:en:Hot_metal_typesetting "wikilink")) が行われなくなっていたために仕上がりに納得せず、組版システムの [](../Page/TeX.md "wikilink") を（当初は1978年の[サバティカル](https://ja.wikipedia.org/wiki/サバティカル "wikilink")が終わるまでには完全に仕上げるつもりで）作り始めてしまったことなど、逸話も多い。
 
-現在3巻までと4巻の分冊が刊行されている。今後の計画についてはwebページ\[1\]で確認できるが、おおむね執筆開始当初の構想と変わっておらず、5巻は構文的 (syntactic) アルゴリズムについてで、9章が字句スキャナ、10章が（文字列）解析の技術、6巻は文脈自由文法の理論、7巻がコンパイラ技術となっている。ただし位置付けとして、5巻までの内容は central core of computer programming for sequential machines であるのに対し、6・7巻の内容は important but more specialized である、としている（またドラゴンブック等、この40年の間に書籍が充実した分野でもある）。Vol.4 Fascicle 1:2009年において, 湊真一が考案したデータ構造「ZDD」 が項目として詳しく掲載された（日本人初）\[2\]。この題材はJSTの展示でも取り上げ、小さい子供から注目が集まっている\[3\]。
+現在3巻までと4巻の分冊が刊行されている。今後の計画についてはwebページ\[1\]で確認できるが、おおむね執筆開始当初の構想と変わっておらず、5巻は構文的 (syntactic) アルゴリズムについてで、9章が字句スキャナ、10章が（文字列）解析の技術、6巻は文脈自由文法の理論、7巻がコンパイラ技術となっている。ただし位置付けとして、5巻までの内容は central core of computer programming for sequential machines であるのに対し、6・7巻の内容は important but more specialized である、としている（またドラゴンブック等、この40年の間に書籍が充実した分野でもある）。
 
-[サイエンス社](../Page/サイエンス社.md "wikilink")から出版されていた旧日本語訳版は、原著2巻相当分の4巻までしか出ていない。出版時期がアスキー版よりも古い。[専門用語](../Page/専門用語.md "wikilink")について可能な限りカタカナ語を使わず訳すという数学界における慣習によっている。和訳における専門用語の扱いにおける歴史的かつ論理的な例になっている。
+1970年代〜1980年代に[サイエンス社](../Page/サイエンス社.md "wikilink")から出版された旧日本語訳版は、原著2巻相当分の4巻までしか出ていない。[専門用語](../Page/専門用語.md "wikilink")について可能な限りカタカナ語を使わず訳すとどうなるかという実例に なっている。\[2\]
 
-[アスキーから日本語訳が出版されていた](../Page/アスキー_\(企業\).md "wikilink")。2007年9月までに3巻までと改訂版分冊1巻、4巻の分冊2,3が刊行されていた。 その後、KADOKAWAドワンゴに在籍する元アスキーの編集者が担当する「アスキードワンゴ」レーベル\[4\]により、2015年6月の1巻再刊から再開され、2017年3月に旧4巻0-4のまとまった分冊である4A巻が刊行されている\[5\]。
+その後、21世紀に入った後に改めて、[アスキーから新しい日本語訳版が出版された](../Page/アスキー_\(企業\).md "wikilink")。こちらの翻訳は前述のような無理をせず、カタカナですでに通用している表現はそのままカタカナになっている。2007年9月までに3巻までと改訂版分冊1巻、4巻の分冊2,3が刊行されていた。 その後、KADOKAWAドワンゴに在籍する元アスキーの編集者が担当する「アスキードワンゴ」レーベル\[3\]により、2015年6月の1巻再刊から再開され、2017年3月に旧4巻0-4のまとまった分冊である4A巻が刊行されている\[4\]。
 
 ## 書籍
 
@@ -50,7 +50,6 @@
 [Category:プログラミング](https://ja.wikipedia.org/wiki/Category:プログラミング "wikilink") [Category:アルゴリズム解析](https://ja.wikipedia.org/wiki/Category:アルゴリズム解析 "wikilink") [Category:コンピュータの文献](https://ja.wikipedia.org/wiki/Category:コンピュータの文献 "wikilink") [Category:1997年の書籍](https://ja.wikipedia.org/wiki/Category:1997年の書籍 "wikilink") [Category:ドナルド・クヌース](https://ja.wikipedia.org/wiki/Category:ドナルド・クヌース "wikilink")
 
 1.  The Art of Computer Programming (TAOCP) <http://www-cs-faculty.stanford.edu/~knuth/taocp.html>
-2.  湊真一 <http://www.lab2.kuis.kyoto-u.ac.jp/minato/index-j.html>
-3.  『フカシギの数え方』 おねえさんといっしょ：組み合わせ爆発の凄さ <https://qiita.com/kaizen_nagoya/items/f309b0c2bb015bbc71c3>
-4.  KADOKAWA <http://asciidwango.jp/>
-5.  4A巻 <https://www.amazon.co.jp/dp/4048930559/>
+2.  実際に読んで見ればわかるが、結果としては数学において「[群](https://ja.wikipedia.org/wiki/群_\(数学\) "wikilink")」や「[圏](https://ja.wikipedia.org/wiki/圏_\(数学\) "wikilink")」といった語が使われているのとは異なり、「算譜」をはじめとする「算なんとか」といった多数の造語であるとか、ソースコード中で識別子として使われている英単語が、本文中ではそれが訳されてしまうといった点など、従来の数学書とは異なった問題が起きるということが浮き彫りになっている。
+3.  KADOKAWA <http://asciidwango.jp/>
+4.  4A巻 <https://www.amazon.co.jp/dp/4048930559/>

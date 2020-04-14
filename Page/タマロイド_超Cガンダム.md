@@ -1,4 +1,4 @@
-> この記事は[ C](https://ja.wikipedia.org/wiki/_C)から翻訳されています。
+> この記事は[タマロイド 超Cガンダム](https://ja.wikipedia.org/wiki/タマロイド_超Cガンダム)から翻訳されています。
 
 
 『**タマロイド 超Cガンダム**』（タマロイドちょうシーガンダム）は、[1991年](../Page/1991年.md "wikilink")に[コミックボンボン](../Page/コミックボンボン.md "wikilink")（[講談社](../Page/講談社.md "wikilink")）に連載された[神矢みのる](../Page/神矢みのる.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

@@ -1,4 +1,4 @@
-> この記事は[PD](https://ja.wikipedia.org/wiki/PD)から翻訳されています。
+> この記事は[P・D・ジェイムズ](https://ja.wikipedia.org/wiki/P・D・ジェイムズ)から翻訳されています。
 
 
 **ホランド・パークのジェイムズ女男爵、フィリス・ドロシー・ジェイムズ**（**Phyllis Dorothy James, Baroness James of Holland Park,**, [1920年](../Page/1920年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink") - [2014年](../Page/2014年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の女流[推理作家](../Page/推理作家.md "wikilink")である。
@@ -63,6 +63,6 @@
 
   - [『女の顔を覆え』解説](http://www.inscript.co.jp/wakashima/Mystery/w14%20PDJames.htm)（[若島正](../Page/若島正.md "wikilink")）
 
-[Category:20世紀イギリスの女性著作家](https://ja.wikipedia.org/wiki/Category:20世紀イギリスの女性著作家 "wikilink") [Category:21世紀イギリスの女性著作家](https://ja.wikipedia.org/wiki/Category:21世紀イギリスの女性著作家 "wikilink") [Category:イギリスの女性小説家](https://ja.wikipedia.org/wiki/Category:イギリスの女性小説家 "wikilink") [Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:SFとファンタジーの女性著作家](https://ja.wikipedia.org/wiki/Category:SFとファンタジーの女性著作家 "wikilink") [Category:一代貴族](https://ja.wikipedia.org/wiki/Category:一代貴族 "wikilink") [Category:大英帝国勲章](https://ja.wikipedia.org/wiki/Category:大英帝国勲章 "wikilink") [Category:1920年生](https://ja.wikipedia.org/wiki/Category:1920年生 "wikilink") [Category:2014年没](https://ja.wikipedia.org/wiki/Category:2014年没 "wikilink")
+[Category:20世紀イギリスの女性著作家](https://ja.wikipedia.org/wiki/Category:20世紀イギリスの女性著作家 "wikilink") [Category:21世紀イギリスの女性著作家](https://ja.wikipedia.org/wiki/Category:21世紀イギリスの女性著作家 "wikilink") [Category:イギリスの女性小説家](https://ja.wikipedia.org/wiki/Category:イギリスの女性小説家 "wikilink") [Category:イングランドの小説家](https://ja.wikipedia.org/wiki/Category:イングランドの小説家 "wikilink") [Category:イギリスの推理作家](https://ja.wikipedia.org/wiki/Category:イギリスの推理作家 "wikilink") [Category:SFとファンタジーの女性著作家](https://ja.wikipedia.org/wiki/Category:SFとファンタジーの女性著作家 "wikilink") [Category:一代貴族](https://ja.wikipedia.org/wiki/Category:一代貴族 "wikilink") [Category:大英帝国勲章受章者](https://ja.wikipedia.org/wiki/Category:大英帝国勲章受章者 "wikilink") [Category:1920年生](https://ja.wikipedia.org/wiki/Category:1920年生 "wikilink") [Category:2014年没](https://ja.wikipedia.org/wiki/Category:2014年没 "wikilink")
 
 1.  [英推理作家Ｐ．Ｄ．ジェイムズさん死去](http://www.asahi.com/articles/ASGCX01X6GCWUHBI02J.html) 朝日新聞 2014-11-28

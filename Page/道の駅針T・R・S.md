@@ -1,4 +1,4 @@
-> この記事は[TRS](https://ja.wikipedia.org/wiki/TRS)から翻訳されています。
+> この記事は[道の駅針T・R・S](https://ja.wikipedia.org/wiki/道の駅針T・R・S)から翻訳されています。
 
 
 **道の駅針T・R・S**（みちのえき はりテラス\[1\]）は、[奈良県](../Page/奈良県.md "wikilink")[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")針町にある[名阪国道](../Page/名阪国道.md "wikilink")（[国道25号](../Page/国道25号.md "wikilink")）の[道の駅](../Page/道の駅.md "wikilink")である。

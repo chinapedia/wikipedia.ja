@@ -1,4 +1,4 @@
-> この記事は[KABA.](https://ja.wikipedia.org/wiki/KABA.)から翻訳されています。
+> この記事は[KABA.ちゃん](https://ja.wikipedia.org/wiki/KABA.ちゃん)から翻訳されています。
 
 
 **KABA.ちゃん**（カバちゃん\[1\]、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[6月19日](../Page/6月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[タレント](../Page/タレント.md "wikilink")、[振付師](../Page/振付師.md "wikilink")。本名、**椛島 一華**（かばしま いちか）\[2\]。
@@ -49,7 +49,7 @@ dos時代、話すとオネエ口調で[同性愛者](https://ja.wikipedia.org/w
       -
         [テレビ朝日](../Page/テレビ朝日.md "wikilink")『[三竹占い](../Page/三竹占い.md "wikilink")』エンディングテーマ
         パチンコ台『CRびんぼー頭巾』挿入歌
-  - [JFN](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")『[ミッドナイトランブラー](../Page/ミッドナイトランブラー.md "wikilink")』デビュープロジェクト『青空にTAKE OFF 〜きらきら輝くの〜』（2006年3月3日、JFN ONLINE）
+  - [JFN](../Page/全国FM放送協議会.md "wikilink")『[ミッドナイトランブラー](../Page/ミッドナイトランブラー.md "wikilink")』デビュープロジェクト『青空にTAKE OFF 〜きらきら輝くの〜』（2006年3月3日、JFN ONLINE）
       -
         「パトロールシスターズの天下取り大作戦」より
 

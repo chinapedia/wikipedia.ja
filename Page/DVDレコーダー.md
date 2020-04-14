@@ -1,4 +1,4 @@
-> この記事は[DVD](https://ja.wikipedia.org/wiki/DVD)から翻訳されています。
+> この記事は[DVDレコーダー](https://ja.wikipedia.org/wiki/DVDレコーダー)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Sony_RDZ-D700.jpg "wikilink") **DVDレコーダー**（ディーブイディーレコーダー）とは[DVD-Video](../Page/DVD-Video.md "wikilink")の再生のほかに、[記録型DVDに動画などを記録できる据え置き型映像機器である](https://ja.wikipedia.org/wiki/DVD#記録型DVD "wikilink")。これに対し録画機能の無い再生専用機は「[DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")」、携帯用の[カメラ一体型](https://ja.wikipedia.org/wiki/カメラ一体型 "wikilink")タイプは「DVD[ビデオカメラ](../Page/ビデオカメラ.md "wikilink")（[カムコーダー](https://ja.wikipedia.org/wiki/カムコーダー "wikilink")）」と呼び分ける。

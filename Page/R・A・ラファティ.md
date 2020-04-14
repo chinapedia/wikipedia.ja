@@ -1,4 +1,4 @@
-> この記事は[RA](https://ja.wikipedia.org/wiki/RA)から翻訳されています。
+> この記事は[R・A・ラファティ](https://ja.wikipedia.org/wiki/R・A・ラファティ)から翻訳されています。
 
 
 **レイフェル・アロイシャス・ラファティ**（**Raphael Aloysius Lafferty**、[1914年](../Page/1914年.md "wikilink")[11月7日](../Page/11月7日.md "wikilink") - [2002年](../Page/2002年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[SF作家](../Page/SF作家.md "wikilink")。[アイオワ州](https://ja.wikipedia.org/wiki/アイオワ州 "wikilink")[ネオラ](https://ja.wikipedia.org/wiki/ネオラ "wikilink")生まれ。アイルランド系。

@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[ミスター味っ子II](https://ja.wikipedia.org/wiki/ミスター味っ子II)から翻訳されています。
 
 
 『**ミスター味っ子II**』（ミスターあじっこツー）は、[寺沢大介](../Page/寺沢大介.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[イブニング](../Page/イブニング.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）で連載。

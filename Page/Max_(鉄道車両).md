@@ -1,4 +1,4 @@
-> この記事は[Max \(\)](https://ja.wikipedia.org/wiki/Max_\(\))から翻訳されています。
+> この記事は[Max \(鉄道車両\)](https://ja.wikipedia.org/wiki/Max_\(鉄道車両\))から翻訳されています。
 
 
 [270px](https://ja.wikipedia.org/wiki/ファイル:Shinkansen-e1.jpg "wikilink") [270px](https://ja.wikipedia.org/wiki/ファイル:Max_JR_east-Japan.jpg "wikilink") **Max**（マックス）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が保有する[全車2階建て](../Page/2階建車両.md "wikilink")[新幹線の](../Page/新幹線車両.md "wikilink")[愛称](https://ja.wikipedia.org/wiki/車両愛称 "wikilink")。[E1系](../Page/新幹線E1系電車.md "wikilink")（12両編成）および[E4系](../Page/新幹線E4系電車.md "wikilink")（8両編成）車両の愛称で、名称は*"**M**ulti **A**menity e**X**press"*を略したものである\[1\]。
@@ -42,7 +42,7 @@ E1系は1 - 4号車、E4系は1 - 3号車の2階席が[自由席](../Page/自由
 
 ## 今後の予定
 
-[2018年](../Page/2018年.md "wikilink")（平成30年）度から[上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")に[E7系](https://ja.wikipedia.org/wiki/新幹線E7系・W7系電車 "wikilink")（12両編成・[グランクラス](https://ja.wikipedia.org/wiki/グランクラス "wikilink")連結）を投入してE4系を置き換え、[2020年](../Page/2020年.md "wikilink")（令和2年）度をもって全車2階建て新幹線「Max」の運用は終了となる予定。
+[2018年](../Page/2018年.md "wikilink")（平成30年）度から[上越新幹線](https://ja.wikipedia.org/wiki/上越新幹線 "wikilink")に[E7系](https://ja.wikipedia.org/wiki/新幹線E7系・W7系電車 "wikilink")（12両編成・[グランクラス](https://ja.wikipedia.org/wiki/グランクラス "wikilink")連結）を投入してE4系を置き換え、[2020年](../Page/2020年.md "wikilink")（令和2年）度をもって全車2階建て新幹線「Max」の運用は終了となる予定であったが、2019年10月の[台風19号で](https://ja.wikipedia.org/wiki/令和元年東日本台風 "wikilink")、[北陸新幹線](https://ja.wikipedia.org/wiki/北陸新幹線 "wikilink")長野新幹線車両センターが水没し、車両不足のため当分の間運用終了が先延ばしになる見通し。\[7\]。
 
 ## 脚注
 
@@ -51,6 +51,11 @@ E1系は1 - 4号車、E4系は1 - 3号車の2階席が[自由席](../Page/自由
   - [新幹線](../Page/新幹線.md "wikilink")
   - [鉄道車両](../Page/鉄道車両.md "wikilink")
   - [フランス国鉄TGV Duplex](https://ja.wikipedia.org/wiki/TGV_Duplex "wikilink")
+  - [Maxとき315号](https://ja.wikipedia.org/wiki/Maxとき315号 "wikilink") - [NGT48](https://ja.wikipedia.org/wiki/NGT48 "wikilink")の楽曲。Maxを冠した便名を楽曲名としている。（Maxとき315号は2019年3月15日まで運行されていた。）
+
+## 外部リンク
+
+  - [E4系：JR東日本](https://www.jreast.co.jp/train/shinkan/e4.html)
 
 [Category:新幹線の列車愛称](https://ja.wikipedia.org/wiki/Category:新幹線の列車愛称 "wikilink") [Category:東日本旅客鉄道の新幹線電車](https://ja.wikipedia.org/wiki/Category:東日本旅客鉄道の新幹線電車 "wikilink")
 
@@ -60,3 +65,4 @@ E1系は1 - 4号車、E4系は1 - 3号車の2階席が[自由席](../Page/自由
 4.  北陸新幹線乗り入れ対応のP51・P52・P81・P82編成のいずれかを充当。
 5.
 6.  乗客を乗せた状態で、[安中榛名から軽井沢までの登り急勾配を走行することができないため](../Page/安中榛名駅.md "wikilink")、上り列車のみの運用となった。
+7.

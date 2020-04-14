@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK交響楽団](https://ja.wikipedia.org/wiki/NHK交響楽団)から翻訳されています。
 
 
 [NHK-Hall.jpg](https://ja.wikipedia.org/wiki/File:NHK-Hall.jpg "fig:NHK-Hall.jpg")\]\]  **公益財団法人NHK交響楽団**（エヌエイチケイこうきょうがくだん、）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")にある[オーケストラ](../Page/オーケストラ.md "wikilink")の一つ。通称「**N響**（エヌきょう）」。所在地は[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[高輪](../Page/高輪.md "wikilink")二丁目16番49号。[公益社団法人](https://ja.wikipedia.org/wiki/公益社団法人 "wikilink")[日本オーケストラ連盟](https://ja.wikipedia.org/wiki/日本オーケストラ連盟 "wikilink")正会員。

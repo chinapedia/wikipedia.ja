@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[スターオーシャンEX](https://ja.wikipedia.org/wiki/スターオーシャンEX)から翻訳されています。
 
 
 『**スターオーシャンEX**』（スターオーシャンイーエックス、STAR OCEAN EX）は、[PS用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation "wikilink")『[スターオーシャン セカンドストーリー](../Page/スターオーシャン_セカンドストーリー.md "wikilink")』および[東まゆみ](../Page/東まゆみ.md "wikilink")による同ゲームの[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化作品を原作とした日本の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。2001年4月から9月まで放送された。

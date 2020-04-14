@@ -1,4 +1,4 @@
-> この記事は[BSD](https://ja.wikipedia.org/wiki/BSD)から翻訳されています。
+> この記事は[BSDの子孫](https://ja.wikipedia.org/wiki/BSDの子孫)から翻訳されています。
 
 
 **BSDの子孫**（ビーエスディーのしそん）では、[BSD](../Page/BSD.md "wikilink")をもとに開発が行われている[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) について解説する。主要なものに[FreeBSD](../Page/FreeBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[OpenBSD](../Page/OpenBSD.md "wikilink")、[DragonFly BSD](../Page/DragonFly_BSD.md "wikilink")、[BSD/OS](https://ja.wikipedia.org/wiki/BSD/OS "wikilink") などがある。一部では[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")も含める場合がある。これはmacOSの基礎部分に、[Mach](../Page/Mach.md "wikilink")[カーネル](../Page/カーネル.md "wikilink")と[FreeBSD](../Page/FreeBSD.md "wikilink")の環境を組み合わせた[Darwinを利用しているからである](../Page/Darwin_\(オペレーティングシステム\).md "wikilink")。

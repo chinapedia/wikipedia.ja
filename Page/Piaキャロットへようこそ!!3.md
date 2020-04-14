@@ -1,4 +1,4 @@
-> この記事は[Pia!!3](https://ja.wikipedia.org/wiki/Pia!!3)から翻訳されています。
+> この記事は[Piaキャロットへようこそ!!3](https://ja.wikipedia.org/wiki/Piaキャロットへようこそ!!3)から翻訳されています。
 
 
 『**Pia♥キャロットへようこそ\!\!3**』（**Pia3**、**Piaキャロ3**）は、[2001年](../Page/2001年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")に[F\&C FC02より発売された](../Page/F&C.md "wikilink")18禁恋愛アドベンチャーゲーム+恋愛シミュレーションゲーム。

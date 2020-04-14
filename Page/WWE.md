@@ -707,7 +707,7 @@ PPVのスケジュールは以下の通りで、日付は現地時間。
 | [1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink") | [Royal Rumble](../Page/ロイヤルランブル.md "wikilink")                                    | [テキサス州](../Page/テキサス州.md "wikilink")[ヒューストン](../Page/ヒューストン.md "wikilink")                              | [ミニッツメイド・パーク](../Page/ミニッツメイド・パーク.md "wikilink")                                       |
 | [2月27日](../Page/2月27日.md "wikilink")                    | [Super ShowDown](https://ja.wikipedia.org/wiki/WWEスーパーショーダウン "wikilink")\[37\]    | [サウジアラビア](../Page/サウジアラビア.md "wikilink")・[リヤド](../Page/リヤド.md "wikilink")                               | [キング・ファハド国際スタジアム](https://ja.wikipedia.org/wiki/キング・ファハド国際スタジアム "wikilink")            |
 | [3月8日](../Page/3月8日.md "wikilink")                      | [Elimination Chamber](https://ja.wikipedia.org/wiki/WWEエリミネーション・チェンバー "wikilink") | [ペンシルバニア州](https://ja.wikipedia.org/wiki/ペンシルバニア州 "wikilink")[フィラデルフィア](../Page/フィラデルフィア.md "wikilink") | [ウェルズ・ファーゴ・センター](https://ja.wikipedia.org/wiki/ウェルズ・ファーゴ・センター_\(フィラデルフィア\) "wikilink") |
-| [4月5日](../Page/4月5日.md "wikilink")                      | [WrestleMania](../Page/レッスルマニア36.md "wikilink")                                   | [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[タンパ](../Page/タンパ.md "wikilink")                 | [レイモンド・ジェームス・スタジアム](../Page/レイモンド・ジェームス・スタジアム.md "wikilink")                           |
+| [4月5日](../Page/4月5日.md "wikilink")                      | [WrestleMania](../Page/レッスルマニア36.md "wikilink")                                   | [フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[オーランド](../Page/オーランド.md "wikilink")             | WWEパフォーマンスセンター                                                                         |
 | [7月19日](../Page/7月19日.md "wikilink")                    | [Extreme Rules](https://ja.wikipedia.org/wiki/WWEエキストリーム・ルールズ "wikilink")\[38\]   | [カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンノゼ](../Page/サンノゼ.md "wikilink")                            | [SAPセンター](../Page/SAPセンター.md "wikilink")                                               |
 | [8月23日](../Page/8月23日.md "wikilink")                    | [SummerSlam](../Page/サマースラム.md "wikilink")\[39\]                                  | [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ボストン](../Page/ボストン.md "wikilink")                          | [TDガーデン](https://ja.wikipedia.org/wiki/TDガーデン "wikilink")                              |
 
@@ -736,7 +736,7 @@ PPVのスケジュールは以下の通りで、日付は現地時間。
   - [Over the Edge](https://ja.wikipedia.org/wiki/オーバー・ジ・エッジ "wikilink")（1998年 - 1999年）
   - [Fully Loaded](https://ja.wikipedia.org/wiki/フューリー・ローデッド "wikilink")（1998年 - 2000年）
   - [InVasion](https://ja.wikipedia.org/wiki/WWF・インベイジョン "wikilink")（2001年）
-  - [King of the Ring](../Page/キング・オブ・ザ・リング.md "wikilink")（1993年 - 2002年、2006年、2008年、2010年、2015年）
+  - [King of the Ring](../Page/キング・オブ・ザ・リング.md "wikilink")（1993年 - 2002年、2006年、2008年、2010年、2015年、2019年）
   - [Bad Blood](https://ja.wikipedia.org/wiki/バッド・ブラッド "wikilink")（1997年、2003年 - 2004年）
   - [Taboo Tuesday](../Page/タブー・チューズデイ.md "wikilink")（2004年 - 2005年） Cyber Sundayに変更
   - [December to Dismember](../Page/ECW_ディセンバー・トゥ・ディスメンバー.md "wikilink")（2006年）

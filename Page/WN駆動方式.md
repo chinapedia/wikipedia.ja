@@ -1,4 +1,4 @@
-> この記事は[WN](https://ja.wikipedia.org/wiki/WN)から翻訳されています。
+> この記事は[WN駆動方式](https://ja.wikipedia.org/wiki/WN駆動方式)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:WN_Drive_01.gif "wikilink") **WN駆動方式**（WNくどうほうしき、WN Drive）は、[電車](../Page/電車.md "wikilink")の駆動方式の一種である。

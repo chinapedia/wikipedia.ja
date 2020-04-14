@@ -1,4 +1,4 @@
-> この記事は[PK](https://ja.wikipedia.org/wiki/PK)から翻訳されています。
+> この記事は[PK戦](https://ja.wikipedia.org/wiki/PK戦)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:nisigaoka-soccer-stadium-PK.JPG "wikilink"))\]\] **PK戦**（ピーケーせん）とは、[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")において、規定の試合時間を終了して決着がつかなかった際に行うものである。英語では公式には "Kicks from the penalty mark" (KFPM)、または "penalty shoot-out" (PSO) と呼ぶ。

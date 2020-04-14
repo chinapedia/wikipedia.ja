@@ -1,4 +1,4 @@
-> この記事は[Dear \(\)](https://ja.wikipedia.org/wiki/Dear_\(\))から翻訳されています。
+> この記事は[Dear \(漫画\)](https://ja.wikipedia.org/wiki/Dear_\(漫画\))から翻訳されています。
 
 
 『**dear**』（ディア）は[藤原ここあ](../Page/藤原ここあ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。または、それを原作としたドラマCDの総称。

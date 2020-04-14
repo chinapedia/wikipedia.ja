@@ -1,4 +1,4 @@
-> この記事は[DAYDREAM](https://ja.wikipedia.org/wiki/DAYDREAM)から翻訳されています。
+> この記事は[低俗霊DAYDREAM](https://ja.wikipedia.org/wiki/低俗霊DAYDREAM)から翻訳されています。
 
 
 『**低俗霊DAYDREAM**』（ていぞくれいデイドリーム）は、[奥瀬サキ](../Page/奥瀬サキ.md "wikilink")原作、[目黒三吉](../Page/目黒三吉.md "wikilink")作画による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、またそれを原作とした[OVA](../Page/OVA.md "wikilink")、[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")。

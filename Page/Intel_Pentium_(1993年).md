@@ -1,4 +1,4 @@
-> この記事は[Intel Pentium \(1993\)](https://ja.wikipedia.org/wiki/Intel_Pentium_\(1993\))から翻訳されています。
+> この記事は[Intel Pentium \(1993年\)](https://ja.wikipedia.org/wiki/Intel_Pentium_\(1993年\))から翻訳されています。
 
 
 **Pentium**（ペンティアム）は、[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")が[1993年](../Page/1993年.md "wikilink")5月から出荷を開始した、[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")アーキテクチャの[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")([CPU](../Page/CPU.md "wikilink"))ファミリーのブランド名である。

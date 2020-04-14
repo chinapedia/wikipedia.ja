@@ -1,4 +1,4 @@
-> この記事は[2003 THE KING\'S JUBILEE](https://ja.wikipedia.org/wiki/2003_THE_KING\'S_JUBILEE)から翻訳されています。
+> この記事は[新世紀2003ウルトラマン伝説 THE KING\'S JUBILEE](https://ja.wikipedia.org/wiki/新世紀2003ウルトラマン伝説_THE_KING\'S_JUBILEE)から翻訳されています。
 
 
 『**新世紀2003 ウルトラマン伝説 THE KING'S JUBILEE**』（しんせいきにせんさん ウルトラマンでんせつ ザ キングズ ジュビリー）は、[2003年](../Page/2003年.md "wikilink")製作の[短編映画](../Page/短編映画.md "wikilink")である。[松竹](../Page/松竹.md "wikilink")配給、2003年8月2日公開。同時上映は『[ウルトラマンコスモスVSウルトラマンジャスティス THE FINAL BATTLE](../Page/ウルトラマンコスモスVSウルトラマンジャスティス_THE_FINAL_BATTLE.md "wikilink")』。

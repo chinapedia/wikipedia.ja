@@ -1,4 +1,4 @@
-> この記事は[JD](https://ja.wikipedia.org/wiki/JD)から翻訳されています。
+> この記事は[J・D・サリンジャー](https://ja.wikipedia.org/wiki/J・D・サリンジャー)から翻訳されています。
 
 
 **ジェローム・デイヴィッド・サリンジャー**（Jerome David Salinger、[1919年](../Page/1919年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")\[1\]）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[小説家](../Page/小説家.md "wikilink")。『[ライ麦畑でつかまえて](../Page/ライ麦畑でつかまえて.md "wikilink")』などで知られる。晩年は一切作品を発表せず、公にも姿を見せない隠遁生活を送った。

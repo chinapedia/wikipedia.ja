@@ -1,4 +1,4 @@
-> この記事は[:WorldMap ja.png](https://ja.wikipedia.org/wiki/:WorldMap_ja.png)から翻訳されています。
+> この記事は[ファイル:WorldMap ja.png](https://ja.wikipedia.org/wiki/ファイル:WorldMap_ja.png)から翻訳されています。
 
 
 まだまだ stub な**世界地図**。

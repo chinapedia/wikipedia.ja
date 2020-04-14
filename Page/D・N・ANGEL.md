@@ -1,4 +1,4 @@
-> この記事は[DNANGEL](https://ja.wikipedia.org/wiki/DNANGEL)から翻訳されています。
+> この記事は[D・N・ANGEL](https://ja.wikipedia.org/wiki/D・N・ANGEL)から翻訳されています。
 
 
 『**D・N・ANGEL**』（ディー・エヌ・エンジェル）は、[杉崎ゆきる](../Page/杉崎ゆきる.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品及びこれを原作とする[メディアミックス](../Page/メディアミックス.md "wikilink")作品。
@@ -80,6 +80,8 @@
     素性が一切不明な作中で最も謎の多い人物。怜にすらも「本名も経歴も全く知らない」と言われることもあった。
   - 氷狩深青（ひかり ふかみ）
     怜の先祖の1人。天才だが頑固で神経質な上にぶっきらぼうな性格。上述の通り頑固者だが、使用人の優と出会い、心を開くようになる。
+  - 優（ゆう）
+    深青に使える使用人の少女。[耳が遠いため](https://ja.wikipedia.org/wiki/難聴 "wikilink")、よく失敗をやらかしていた。深青に忠誠を誓っていたが、大世と出会い、2人の間で心が揺れる。
 
 ### 東野第2中学校
 
@@ -634,7 +636,7 @@
   - [Internet Archive - Dnangel.tv](https://web.archive.org/web/*/dnangel.tv)
   - [Victor Entertainment - D・N・ANGEL](https://www.jvcmusic.co.jp/flyingdog/tv/dn_angel/)
 
-[Category:漫画作品_て](https://ja.wikipedia.org/wiki/Category:漫画作品_て "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:角川ビーンズ文庫](https://ja.wikipedia.org/wiki/Category:角川ビーンズ文庫 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:アニメ作品_て](https://ja.wikipedia.org/wiki/Category:アニメ作品_て "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:XEBEC](https://ja.wikipedia.org/wiki/Category:XEBEC "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:角川コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:角川コミックスのアニメ作品 "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:怪盗を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:怪盗を主人公とした漫画作品 "wikilink") [Category:怪盗を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:怪盗を主人公としたアニメ作品 "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:変身ヒーロー](https://ja.wikipedia.org/wiki/Category:変身ヒーロー "wikilink")
+[Category:漫画作品_て](https://ja.wikipedia.org/wiki/Category:漫画作品_て "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:1997年の漫画](https://ja.wikipedia.org/wiki/Category:1997年の漫画 "wikilink") [Category:角川ビーンズ文庫](https://ja.wikipedia.org/wiki/Category:角川ビーンズ文庫 "wikilink") [Category:日本のファンタジー小説](https://ja.wikipedia.org/wiki/Category:日本のファンタジー小説 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:アニメ作品_て](https://ja.wikipedia.org/wiki/Category:アニメ作品_て "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:XEBEC](https://ja.wikipedia.org/wiki/Category:XEBEC "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:角川コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:角川コミックスのアニメ作品 "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:怪盗を主人公とした漫画作品](https://ja.wikipedia.org/wiki/Category:怪盗を主人公とした漫画作品 "wikilink") [Category:怪盗を主人公としたアニメ作品](https://ja.wikipedia.org/wiki/Category:怪盗を主人公としたアニメ作品 "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:変身ヒーロー](https://ja.wikipedia.org/wiki/Category:変身ヒーロー "wikilink")
 
 1.  ただし、日渡が丹羽家に上がり込んできたときは渋々彼の面倒を見ていた。
 2.  氷狩側のスパイであり、主である日渡の養父には逆らえなかった。

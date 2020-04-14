@@ -1,4 +1,4 @@
-> この記事は[Funfun](https://ja.wikipedia.org/wiki/Funfun)から翻訳されています。
+> この記事は[Funfun工房](https://ja.wikipedia.org/wiki/Funfun工房)から翻訳されています。
 
 
 『**funfun工房**』（ファンファンファクトリー）は、[渡辺祥智](../Page/渡辺祥智.md "wikilink")による[少女漫画](../Page/少女漫画.md "wikilink")。略称は「fff」、「ファンファン」。

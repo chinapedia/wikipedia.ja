@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[ジェームズ・M・ブキャナン](https://ja.wikipedia.org/wiki/ジェームズ・M・ブキャナン)から翻訳されています。
 
 
 **ジェームズ・マギル・ブキャナン・ジュニア**（James McGill Buchanan Jr.、[1919年](../Page/1919年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")）は、[公共選択論](../Page/公共選択論.md "wikilink")を提唱した[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[経済学者](../Page/経済学者.md "wikilink")・[財政学](../Page/財政学.md "wikilink")者。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に[ノーベル経済学賞](../Page/ノーベル経済学賞.md "wikilink")を受賞。[ヴァージニア学派](https://ja.wikipedia.org/wiki/ヴァージニア学派 "wikilink")の中心人物のひとり。

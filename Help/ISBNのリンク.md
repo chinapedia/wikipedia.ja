@@ -1,4 +1,4 @@
-> この記事は[Help:ISBN](https://ja.wikipedia.org/wiki/Help:ISBN)から翻訳されています。
+> この記事は[Help:ISBNのリンク](https://ja.wikipedia.org/wiki/Help:ISBNのリンク)から翻訳されています。
 
 
 ウィキペディアでは、[ウィキテキスト中にある](https://ja.wikipedia.org/wiki/Wikipedia:チュートリアル_整形 "wikilink")、**国際的な書籍番号である [ISBN](https://ja.wikipedia.org/wiki/ISBN "wikilink") の番号が識別されます**。これは[:のページと組み合わさり](https://ja.wikipedia.org/wiki/{{ns:Project}}:{{MediaWiki:Booksources}} "wikilink")、利用者はその文献を図書館などの書籍のデータベースや書店で簡便に探すことができます。

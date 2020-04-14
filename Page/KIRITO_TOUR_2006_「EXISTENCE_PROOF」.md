@@ -1,4 +1,4 @@
-> この記事は[KIRITO TOUR 2006 EXISTENCE PROOF](https://ja.wikipedia.org/wiki/KIRITO_TOUR_2006_EXISTENCE_PROOF)から翻訳されています。
+> この記事は[KIRITO TOUR 2006 「EXISTENCE PROOF」](https://ja.wikipedia.org/wiki/KIRITO_TOUR_2006_「EXISTENCE_PROOF」)から翻訳されています。
 
 
 **KIRITO TOUR 2006 EXISTENCE PROOF**は、[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")から[8月14日](../Page/8月14日.md "wikilink")まで開催された[キリト](../Page/キリト.md "wikilink")の2回目のライヴ・ツアーである。

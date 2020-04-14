@@ -1,4 +1,4 @@
-> この記事は[GAU-8 \(\)](https://ja.wikipedia.org/wiki/GAU-8_\(\))から翻訳されています。
+> この記事は[GAU-8 \(機関砲\)](https://ja.wikipedia.org/wiki/GAU-8_\(機関砲\))から翻訳されています。
 
 
 **GAU-8** Avenger（アヴェンジャー）は、[GE製の](../Page/ゼネラル・エレクトリック.md "wikilink")30mm [ガトリング砲](../Page/ガトリング砲.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ \(AO-6\)](https://ja.wikipedia.org/wiki/_\(AO-6\))から翻訳されています。
+> この記事は[ペコス \(AO-6\)](https://ja.wikipedia.org/wiki/ペコス_\(AO-6\))から翻訳されています。
 
 
 |                                                                                                                                                                                                                                                                                    |

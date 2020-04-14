@@ -1,4 +1,4 @@
-> この記事は[TIME](https://ja.wikipedia.org/wiki/TIME)から翻訳されています。
+> この記事は[トレセンTIME](https://ja.wikipedia.org/wiki/トレセンTIME)から翻訳されています。
 
 
 **トレセンTIME**（とれせんたいむ）は、[グリーンチャンネル](../Page/グリーンチャンネル.md "wikilink")で[2007年](../Page/2007年.md "wikilink")から[2012年](../Page/2012年.md "wikilink")まで[放送](../Page/放送.md "wikilink")された、[競馬](../Page/競馬.md "wikilink")に関する[テレビ番組](../Page/テレビ番組.md "wikilink")。

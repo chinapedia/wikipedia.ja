@@ -1,4 +1,4 @@
-> この記事は[Sha la la -NIGHT-](https://ja.wikipedia.org/wiki/Sha_la_la_-NIGHT-)から翻訳されています。
+> この記事は[Sha la la -アヤカシNIGHT-](https://ja.wikipedia.org/wiki/Sha_la_la_-アヤカシNIGHT-)から翻訳されています。
 
 
 **Sha la la -アヤカシNIGHT-**（シャ ラ ラ アヤカシナイト）は、日本の女性[歌手](../Page/歌手.md "wikilink")、[宇浦冴香](https://ja.wikipedia.org/wiki/宇浦冴香 "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。

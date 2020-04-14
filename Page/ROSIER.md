@@ -9,6 +9,8 @@
 
 [プロモーション・ビデオは](../Page/ミュージック・ビデオ.md "wikilink")1994年[第36回日本レコード大賞](https://ja.wikipedia.org/wiki/第36回日本レコード大賞 "wikilink")最優秀プロモーションビデオ賞に選ばれた。
 
+アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
+
 ## 収録曲
 
 全作詞・作曲・編曲: [LUNA SEA](../Page/LUNA_SEA.md "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[FROM ME TO YOU \(YUI\)](https://ja.wikipedia.org/wiki/FROM_ME_TO_YOU_\(YUI\))から翻訳されています。
+> この記事は[FROM ME TO YOU \(YUIのアルバム\)](https://ja.wikipedia.org/wiki/FROM_ME_TO_YOU_\(YUIのアルバム\))から翻訳されています。
 
 
 『**FROM ME TO YOU**』（フロム ミー トゥー ユー）は、[YUIの](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")1枚目のアルバムである。キャッチコピーは、「問い合わせ殺到\!\! YUIファーストアルバムがついに完成しました\!\!」。

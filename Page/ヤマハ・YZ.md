@@ -1,4 +1,4 @@
-> この記事は[YZ](https://ja.wikipedia.org/wiki/YZ)から翻訳されています。
+> この記事は[ヤマハ・YZ](https://ja.wikipedia.org/wiki/ヤマハ・YZ)から翻訳されています。
 
 
 **YZ**（ワイゼット）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売している[2ストロークの](../Page/2ストローク機関.md "wikilink")[モトクロス](../Page/モトクロス.md "wikilink")競技用[オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として排気量別に数車種が生産されている。

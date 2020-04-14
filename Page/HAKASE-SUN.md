@@ -60,6 +60,6 @@
 
   - [HAKASE-SUN official web site](http://www.hakase-sun.com/) - HAKASE-SUNの公式サイト。
   - [nowgomix Records](http://www.nowgomix.com/)
-  - [Bass & Love .](http://blog.goo.ne.jp/hakasesun) - ブログ。
+  - [Bass & Love .](https://blog.goo.ne.jp/hakasesun) - ブログ。
 
 [Category:1967年生](https://ja.wikipedia.org/wiki/Category:1967年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本のキーボーディスト](https://ja.wikipedia.org/wiki/Category:日本のキーボーディスト "wikilink")

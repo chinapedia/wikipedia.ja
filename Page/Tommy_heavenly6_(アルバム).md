@@ -1,4 +1,4 @@
-> この記事は[Tommy heavenly6 \(\)](https://ja.wikipedia.org/wiki/Tommy_heavenly6_\(\))から翻訳されています。
+> この記事は[Tommy heavenly6 \(アルバム\)](https://ja.wikipedia.org/wiki/Tommy_heavenly6_\(アルバム\))から翻訳されています。
 
 
 『**Tommy heavenly<sup>6</sup>**』（トミー ヘヴンリー）とは[2005年](../Page/2005年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")に発売した、[the brilliant greenのボーカル](https://ja.wikipedia.org/wiki/the_brilliant_green "wikilink")、[川瀬智子](https://ja.wikipedia.org/wiki/川瀬智子 "wikilink")のソロプロジェクト「Tommy heavenly<sup>6</sup>」のファーストアルバムである。発売元は[ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。

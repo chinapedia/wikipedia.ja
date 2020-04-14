@@ -1,4 +1,4 @@
-> この記事は[Totocalcio da J LEAGUE](https://ja.wikipedia.org/wiki/Totocalcio_da_J_LEAGUE)から翻訳されています。
+> この記事は[Toto〜calcio da J LEAGUE](https://ja.wikipedia.org/wiki/Toto〜calcio_da_J_LEAGUE)から翻訳されています。
 
 
 **toto〜calcio da J LEAGUE**（トト カルチョ ダ ジェイ リーグ）は[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[11月](../Page/11月.md "wikilink")まで放送された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のラジオ番組。[TOKYO FMをキーステーションに全国](../Page/エフエム東京.md "wikilink")16局ネットで、毎週木曜または金曜の放送。10分番組で、放送日時は放送局によって異なった。録音。[日本スポーツ振興センター](../Page/日本スポーツ振興センター.md "wikilink")提供。

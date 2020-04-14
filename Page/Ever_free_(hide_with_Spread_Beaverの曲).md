@@ -1,4 +1,4 @@
-> この記事は[Ever free \(hide with Spread Beaver\)](https://ja.wikipedia.org/wiki/Ever_free_\(hide_with_Spread_Beaver\))から翻訳されています。
+> この記事は[Ever free \(hide with Spread Beaverの曲\)](https://ja.wikipedia.org/wiki/Ever_free_\(hide_with_Spread_Beaverの曲\))から翻訳されています。
 
 
 「**ever free**」（エヴァー・フリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")、[hide](https://ja.wikipedia.org/wiki/hide "wikilink")のソロ10枚目、hide with Spread Beaver名義では3枚目となる[シングル](../Page/シングル.md "wikilink")。

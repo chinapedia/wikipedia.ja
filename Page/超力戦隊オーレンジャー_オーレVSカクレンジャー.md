@@ -1,4 +1,4 @@
-> この記事は[ VS](https://ja.wikipedia.org/wiki/_VS)から翻訳されています。
+> この記事は[超力戦隊オーレンジャー オーレVSカクレンジャー](https://ja.wikipedia.org/wiki/超力戦隊オーレンジャー_オーレVSカクレンジャー)から翻訳されています。
 
 
 <div class="pathnavbox">

@@ -1,4 +1,4 @@
-> この記事は[SBS](https://ja.wikipedia.org/wiki/SBS)から翻訳されています。
+> この記事は[SBSフレック](https://ja.wikipedia.org/wiki/SBSフレック)から翻訳されています。
 
 
 **SBSフレック株式会社**は、[SBSホールディングス](../Page/SBSホールディングス.md "wikilink")に属する食品物流を主体とした総合物流企業。

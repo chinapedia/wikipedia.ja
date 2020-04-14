@@ -1,4 +1,4 @@
-> この記事は[PTS \(\)](https://ja.wikipedia.org/wiki/PTS_\(\))から翻訳されています。
+> この記事は[PTS \(旅行会社\)](https://ja.wikipedia.org/wiki/PTS_\(旅行会社\))から翻訳されています。
 
 
 **株式会社PTS**は、かつて[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")に本社を置いていた[JTB](../Page/JTB.md "wikilink")グループの[旅行会社](../Page/旅行代理店.md "wikilink")。[セゾングループ](../Page/セゾングループ.md "wikilink")の旅行会社として発足、発展してきたが、[2003年](../Page/2003年.md "wikilink")にJTBグループとなった。クルーズやウエディング関連の旅行に力を入れている。

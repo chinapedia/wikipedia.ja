@@ -1,4 +1,4 @@
-> この記事は[P.37 \(\)](https://ja.wikipedia.org/wiki/P.37_\(\))から翻訳されています。
+> この記事は[P.37 \(航空機\)](https://ja.wikipedia.org/wiki/P.37_\(航空機\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:PZL_P-37.JPG "wikilink") **P.37ウォシ**([ポーランド語](../Page/ポーランド語.md "wikilink"):****<small>ペ・トジヂェーシチ・シェーデム・ウォーシ</small>)は、[ポーランド](../Page/ポーランド.md "wikilink")の[航空機](../Page/航空機.md "wikilink")メーカー[PZL](https://ja.wikipedia.org/wiki/PZL_\(航空機メーカー\) "wikilink")(<small>パィンストフォーヴェ・ザクワードィ・ロトニーチェ</small>:国立航空機工場)で開発された中型[爆撃機](../Page/爆撃機.md "wikilink")である。愛称は、ポーランド語で「[ヘラジカ](../Page/ヘラジカ.md "wikilink")」のこと。**PZL 37**とも呼ばれる。

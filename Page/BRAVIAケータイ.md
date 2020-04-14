@@ -1,4 +1,4 @@
-> この記事は[BRAVIA](https://ja.wikipedia.org/wiki/BRAVIA)から翻訳されています。
+> この記事は[BRAVIAケータイ](https://ja.wikipedia.org/wiki/BRAVIAケータイ)から翻訳されています。
 
 
 **BRAVIAケータイ**(ブラビア-)、および**BRAVIA Phone**(ブラビア フォン)は[ソニーモバイルコミュニケーションズ](../Page/ソニーモバイルコミュニケーションズ.md "wikilink")（旧・[ソニー・エリクソン・モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・エリクソン・モバイルコミュニケーションズ "wikilink")(SEMC)）製[ワンセグ](../Page/ワンセグ.md "wikilink")対応携帯端末の愛称で、BRAVIAケータイは[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[FOMA](../Page/FOMA.md "wikilink")向け端末の通称で、BRAVIA Phoneは[auブランドを展開する](../Page/Au_\(携帯電話\).md "wikilink")[KDDI](../Page/KDDI.md "wikilink")および[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")向け端末の通称である。

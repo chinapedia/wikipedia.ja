@@ -1,4 +1,4 @@
-> この記事は[C1000 presents yuumiLOVELY DAY](https://ja.wikipedia.org/wiki/C1000_presents_yuumiLOVELY_DAY)から翻訳されています。
+> この記事は[C1000 presents yuumiのLOVELY DAY](https://ja.wikipedia.org/wiki/C1000_presents_yuumiのLOVELY_DAY)から翻訳されています。
 
 
 **C1000 presents yuumiのLOVELY DAY**（シーセン プレゼンツ ユウミ- ラブリー デイ）は、かつて放送された[静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink")（K-MIX）制作の[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

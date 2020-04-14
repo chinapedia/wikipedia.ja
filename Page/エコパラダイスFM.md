@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[エコパラダイスFM](https://ja.wikipedia.org/wiki/エコパラダイスFM)から翻訳されています。
 
 
 **エコパラダイスFM**（ - えふえむ）とは、[パラオ共和国](https://ja.wikipedia.org/wiki/パラオ共和国 "wikilink")[アラカベサン島](https://ja.wikipedia.org/wiki/アラカベサン島 "wikilink")にある[FMの](https://ja.wikipedia.org/wiki/ラジオ#FM放送（超短波放送） "wikilink")[国営放送](../Page/国営放送.md "wikilink")である（正式局名はパラオ共和国国営放送）。

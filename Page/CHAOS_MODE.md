@@ -19,6 +19,8 @@
         曲名の由来は[アイレムの](../Page/アピエス.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")「[R-TYPE](https://ja.wikipedia.org/wiki/R-TYPE "wikilink")」から。[PVが存在する](../Page/ミュージック・ビデオ.md "wikilink")。
 3.  **Psycho Dance**
     (作詞:YASU 作曲:Janne Da Arc)
+      -
+        作曲がJanne Da Arcとなっているが、本当は[ka-yu](https://ja.wikipedia.org/wiki/ka-yu "wikilink")加入前のベーシストが作曲した。
 4.  **....song**
     (作詞:YASU 作曲:KIYO)
       -
@@ -31,5 +33,7 @@
     (作詞・作曲:YASU)
       -
         サビにはいる前の部分は本当は英語だったが、分りにくいということで日本語になった。
+        曲の最後に囁いてる言葉を書き記したメモがあったが、実家の母親に昔のデモテープと一緒に処分されてしまったらしい。
+        デモでこの曲を聞いた際にkiyoは「（yasuに対して）怖い曲を作る人やな」と思ったという。
 
 [Category:1999年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:1999年のミニ・アルバム "wikilink") [Category:Janne_Da_Arcのミニ・アルバム](https://ja.wikipedia.org/wiki/Category:Janne_Da_Arcのミニ・アルバム "wikilink")

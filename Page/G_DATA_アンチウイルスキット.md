@@ -1,4 +1,4 @@
-> この記事は[G DATA ](https://ja.wikipedia.org/wiki/G_DATA_)から翻訳されています。
+> この記事は[G DATA アンチウイルスキット](https://ja.wikipedia.org/wiki/G_DATA_アンチウイルスキット)から翻訳されています。
 
 
 **G DATA アンチウイルスキット**（じー でーた あんちういるすきっと）とは、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[コンピュータセキュリティ](../Page/コンピュータセキュリティ.md "wikilink")会社[G DATA Software社が開発している](../Page/G_DATA_Software.md "wikilink")、[アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")である。日本での販売は、株式会社ジャングルが行なっている。

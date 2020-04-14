@@ -1,4 +1,4 @@
-> この記事は[EMD SD9](https://ja.wikipedia.org/wiki/EMD_SD9)から翻訳されています。
+> この記事は[EMD SD9形ディーゼル機関車](https://ja.wikipedia.org/wiki/EMD_SD9形ディーゼル機関車)から翻訳されています。
 
 
 **EMD SD9**は1954年1月から1959年6月にかけて製造された[GM-EMD社製の](../Page/エレクトロ・モーティブ・ディーゼル.md "wikilink")6動軸駆動[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")である。アメリカ合衆国で主に使用され、少数が韓国・チリ・ベネズエラに輸出された。

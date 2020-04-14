@@ -1,4 +1,4 @@
-> この記事は[REBIRTH ](https://ja.wikipedia.org/wiki/REBIRTH_)から翻訳されています。
+> この記事は[REBIRTH 〜女神転生〜](https://ja.wikipedia.org/wiki/REBIRTH_〜女神転生〜)から翻訳されています。
 
 
 「**REBIRTH 〜女神転生〜**」（リバース 〜めがみてんせい〜）は、[田村ゆかり](https://ja.wikipedia.org/wiki/田村ゆかり "wikilink")の[キャラクターソング](../Page/キャラクターソング.md "wikilink")\[1\]である。

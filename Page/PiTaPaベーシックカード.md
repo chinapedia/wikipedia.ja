@@ -1,4 +1,4 @@
-> この記事は[PiTaPa](https://ja.wikipedia.org/wiki/PiTaPa)から翻訳されています。
+> この記事は[PiTaPaベーシックカード](https://ja.wikipedia.org/wiki/PiTaPaベーシックカード)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:PiTaPa_basic_card_01.jpg "wikilink") **PiTaPaベーシックカード**（ピタパベーシックカード）とは、[スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")が発行しているポストペイ方式の[ICカード](../Page/乗車カード.md "wikilink")「**[PiTaPa](../Page/PiTaPa.md "wikilink")**」のうち、PiTaPa の機能（乗車券機能・電子マネー機能）のみに特化したカードのことである\[1\]。

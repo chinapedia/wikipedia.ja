@@ -1,4 +1,4 @@
-> この記事は[Peace!!](https://ja.wikipedia.org/wiki/Peace!!)から翻訳されています。
+> この記事は[Peaceお届け!!](https://ja.wikipedia.org/wiki/Peaceお届け!!)から翻訳されています。
 
 
 「**Peaceお届け\!\!**」（ピースおとどけ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[歌手](../Page/歌手.md "wikilink")、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")のコラボレーション企画“join”の2枚目のシングル。[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。3週連続でのリリースの第2弾。

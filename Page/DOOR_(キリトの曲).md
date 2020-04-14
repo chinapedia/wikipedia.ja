@@ -1,4 +1,4 @@
-> この記事は[DOOR \(\)](https://ja.wikipedia.org/wiki/DOOR_\(\))から翻訳されています。
+> この記事は[DOOR \(キリトの曲\)](https://ja.wikipedia.org/wiki/DOOR_\(キリトの曲\))から翻訳されています。
 
 
 「**DOOR**」（ドアー）は、[キリト](../Page/キリト.md "wikilink")のソロデビューシングル。[2005年](../Page/2005年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")発売。発売元は[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。

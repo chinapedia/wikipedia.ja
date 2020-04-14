@@ -1,4 +1,4 @@
-> この記事は[GET \(\)](https://ja.wikipedia.org/wiki/GET_\(\))から翻訳されています。
+> この記事は[GET \(プロレス\)](https://ja.wikipedia.org/wiki/GET_\(プロレス\))から翻訳されています。
 
 
 **GET**（ゲット）は、かつて[全日本プロレス](../Page/全日本プロレス.md "wikilink")に存在したプロレスラーのユニット。ユニット名は**Global,Energish,Tough**（グローバル・エネルギッシュ・タフ）の略称で、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[6月6日](../Page/6月6日.md "wikilink")の日本武道館大会で発表された。メンバーは、[小橋健太](../Page/小橋建太.md "wikilink")（現・建太）、[ジョニー・エース](../Page/ジョン・ロウリネイティス.md "wikilink")、[パトリオットの](https://ja.wikipedia.org/wiki/パトリオット_\(プロレスラー\) "wikilink")3人で、準メンバー的なレスラーが数人存在した。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")に活動停止。

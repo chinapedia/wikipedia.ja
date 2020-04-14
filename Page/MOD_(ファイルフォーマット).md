@@ -1,4 +1,4 @@
-> この記事は[MOD \(\)](https://ja.wikipedia.org/wiki/MOD_\(\))から翻訳されています。
+> この記事は[MOD \(ファイルフォーマット\)](https://ja.wikipedia.org/wiki/MOD_\(ファイルフォーマット\))から翻訳されています。
 
 
 **MOD** は、[コモドール](../Page/コモドール.md "wikilink")社のホームコンピューターである [Amiga](../Page/Amiga.md "wikilink") で生まれた音楽[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")の1つ、または複数ファイルフォーマットの総称。soundTracker がモチーフになっている。MOD といったとき、XM (FastTracker2), S3M (Scream Tracker), IT (Implse Tracker) などの複数のフォーマットを指すこともあり、また元祖のフォーマットである MOD を指すこともある。

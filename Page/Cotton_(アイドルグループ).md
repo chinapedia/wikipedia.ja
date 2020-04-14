@@ -1,4 +1,4 @@
-> この記事は[Cotton \(\)](https://ja.wikipedia.org/wiki/Cotton_\(\))から翻訳されています。
+> この記事は[Cotton \(アイドルグループ\)](https://ja.wikipedia.org/wiki/Cotton_\(アイドルグループ\))から翻訳されています。
 
 
 **Cotton**（こっとん）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に「ラビットの玉子たち」でデビューした女性3人組（岡田有紀、福田浩子、谷内智美）の学研「[モモコクラブ](../Page/モモコクラブ.md "wikilink")」桃組出身者からなる[ユニット](../Page/ユニット.md "wikilink")による[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")。岡田有紀脱退後、2人で活動した時期を経て小塚さおりが加入。キャッチフレーズが平成のキャンディーズ\[1\]\[2\]。セイヨー、[コロムビアレコード所属](../Page/日本コロムビア.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[おしゃべり横丁ABC](https://ja.wikipedia.org/wiki/おしゃべり横丁ABC)から翻訳されています。
 
 
 **おしゃべり横丁ABC**（-よこちょうえーびーしー）は、[大阪市](../Page/大阪市.md "wikilink")の[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で[1975年](../Page/1975年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")50年）[3月31日](../Page/3月31日.md "wikilink")から、[1979年](../Page/1979年.md "wikilink")（昭和54年）[3月30日](../Page/3月30日.md "wikilink")まで放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。

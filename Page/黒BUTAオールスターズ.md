@@ -1,4 +1,4 @@
-> この記事は[BUTA](https://ja.wikipedia.org/wiki/BUTA)から翻訳されています。
+> この記事は[黒BUTAオールスターズ](https://ja.wikipedia.org/wiki/黒BUTAオールスターズ)から翻訳されています。
 
 
 **黒BUTAオールスターズ**（くろぶたオールスターズ）は、かつて[文化放送](../Page/文化放送.md "wikilink")で放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")『[黒BUTA天国・素肌にC-jack](https://ja.wikipedia.org/wiki/黒BUTA天国・素肌にC-jack "wikilink")』（[1993年](../Page/1993年.md "wikilink")放送開始）および、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の[深夜番組](../Page/深夜番組.md "wikilink")『[黒BUTA天国](https://ja.wikipedia.org/wiki/黒BUTA天国 "wikilink")』のマスコットガールユニット（[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループ）である。

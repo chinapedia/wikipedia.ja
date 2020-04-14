@@ -32,6 +32,6 @@
 ## 外部リンク
 
   - [公式番組サイト](http://www.j-wave.co.jp/original/realitybites/)
-  - [FENDI B.MIX Cinderella Blog](http://blog.goo.ne.jp/fendibmix)
+  - [FENDI B.MIX Cinderella Blog](https://blog.goo.ne.jp/fendibmix)
 
 [Category:J-WAVEの番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組の歴史 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")

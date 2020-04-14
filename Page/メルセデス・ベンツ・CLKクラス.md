@@ -1,4 +1,4 @@
-> この記事は[CLK](https://ja.wikipedia.org/wiki/CLK)から翻訳されています。
+> この記事は[メルセデス・ベンツ・CLKクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・CLKクラス)から翻訳されています。
 
 
 [thumb仕様](https://ja.wikipedia.org/wiki/ファイル:CLK_209_\(Cabriolet\).jpg "wikilink")\]\] **メルセデス・ベンツ・CLKクラス**（*Mercedes-Benz CLK-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドでかつて展開していた、4人乗りの[クーペ](../Page/クーペ.md "wikilink")または[カブリオレタイプの](../Page/オープンカー.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")である。現在の直接の後継車は、[Eクラス・クーペである](../Page/メルセデス・ベンツ・Eクラス.md "wikilink")。

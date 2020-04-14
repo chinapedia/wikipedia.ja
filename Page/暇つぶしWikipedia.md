@@ -1,4 +1,4 @@
-> この記事は[Wikipedia](https://ja.wikipedia.org/wiki/Wikipedia)から翻訳されています。
+> この記事は[暇つぶしWikipedia](https://ja.wikipedia.org/wiki/暇つぶしWikipedia)から翻訳されています。
 
 
 **暇つぶしWikipedia**（ひまつぶしウィキペディア）は、eucaly.net（ユウカリネット）によって運営されている[携帯端末向け](../Page/携帯電話.md "wikilink")[ウェブサイト](../Page/ウェブサイト.md "wikilink")（[プロキシ](../Page/プロキシ.md "wikilink")）である。[ウィキペディア日本語版](../Page/ウィキペディア日本語版.md "wikilink")のデータをキャッシュし端末に合わせて整形して配信している。

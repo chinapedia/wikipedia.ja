@@ -1,4 +1,4 @@
-> この記事は[ TERMINATOR GIRL](https://ja.wikipedia.org/wiki/_TERMINATOR_GIRL)から翻訳されています。
+> この記事は[でいじーちぇーん 〜TERMINATOR GIRL〜](https://ja.wikipedia.org/wiki/でいじーちぇーん_〜TERMINATOR_GIRL〜)から翻訳されています。
 
 
 『**でいじーちぇーん 〜TERMINATOR GIRL〜**』（- ターミネーターガール）は、[鱚から](https://ja.wikipedia.org/wiki/鱚_\(ゲームブランド\) "wikilink")[2005年](../Page/2005年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")ソフトである。

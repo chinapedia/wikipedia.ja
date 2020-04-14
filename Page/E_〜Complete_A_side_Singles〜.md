@@ -1,4 +1,4 @@
-> この記事は[E Complete A side Singles](https://ja.wikipedia.org/wiki/E_Complete_A_side_Singles)から翻訳されています。
+> この記事は[E 〜Complete A side Singles〜](https://ja.wikipedia.org/wiki/E_〜Complete_A_side_Singles〜)から翻訳されています。
 
 
 『**E 〜Complete A side Singles〜**』（イー コンプリート・エー・サイド・シングルス）は、[ZONEの](../Page/ZONE_\(バンド\).md "wikilink")[シングル](../Page/シングル.md "wikilink")A面を網羅した[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")発売。発売元は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
@@ -97,7 +97,7 @@ Disc2は初回盤のみである。
 
 ## 外部リンク
 
-  - [E 〜Complete A side Singles〜（通常盤）](http://www.sonymusic.co.jp/Music/Arch/SR/Zone/SRCL-5963/)
-  - [E 〜Complete A side Singles〜（初回生産限定版）](http://www.sonymusic.co.jp/Music/Arch/SR/Zone/SRCL-5961/)
+  - [E 〜Complete A side Singles〜（通常盤）](https://www.sonymusic.co.jp/artist/Zone/discography/SRCL-5963)
+  - [E 〜Complete A side Singles〜（初回生産限定版）](https://www.sonymusic.co.jp/artist/Zone/discography/SRCL-5961)
 
 [Category:ZONEのアルバム](https://ja.wikipedia.org/wiki/Category:ZONEのアルバム "wikilink") [Category:2005年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2005年のベスト・アルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink") [Category:2005年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンアルバムチャート1位獲得作品 "wikilink")

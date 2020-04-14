@@ -1,4 +1,4 @@
-> この記事は[ABN](https://ja.wikipedia.org/wiki/ABN)から翻訳されています。
+> この記事は[ABNアムロ銀行](https://ja.wikipedia.org/wiki/ABNアムロ銀行)から翻訳されています。
 
 
 **ABNアムロ銀行** （えーびーえぬアムロぎんこう） は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")・[アムステルダム](https://ja.wikipedia.org/wiki/アムステルダム "wikilink")に本拠を置く大手[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")。[リーマン・ショック](https://ja.wikipedia.org/wiki/リーマン・ショック "wikilink")後の一時国有化を経て、現在は[持株会社](../Page/持株会社.md "wikilink")の**ABNアムロ・グループ**の傘下に位置づけられている。同グループは[2015年](../Page/2015年.md "wikilink")11月、[ユーロネクスト・アムステルダム](https://ja.wikipedia.org/wiki/ユーロネクスト・アムステルダム "wikilink")市場（）に株式公開を行った\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[III \(\)](https://ja.wikipedia.org/wiki/III_\(\))から翻訳されています。
+> この記事は[ザ・グレイトバトルIII \(漫画\)](https://ja.wikipedia.org/wiki/ザ・グレイトバトルIII_\(漫画\))から翻訳されています。
 
 
 『**ザ・グレイトバトルIII**』（ザ・グレイトバトルスリー）とは、[バンプレスト](../Page/バンプレスト.md "wikilink")による[コンパチヒーローシリーズ](../Page/コンパチヒーローシリーズ.md "wikilink")の同名ゲームソフトを原作とする[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。および同作品と「[バトルベースボール](https://ja.wikipedia.org/wiki/バトルベースボール "wikilink")」「[バトルドッジボールII](../Page/バトルドッジボールII.md "wikilink")」を原作とした漫画の計3作品を同時収録した[単行本](../Page/単行本.md "wikilink")の名前。3作品いずれも「[コミックボンボン](../Page/コミックボンボン.md "wikilink")」（[講談社](../Page/講談社.md "wikilink")）に連載された。作者は[ときた洸一](../Page/ときた洸一.md "wikilink")。

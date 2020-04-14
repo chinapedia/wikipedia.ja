@@ -1,4 +1,4 @@
-> この記事は[ \(ISS\)](https://ja.wikipedia.org/wiki/_\(ISS\))から翻訳されています。
+> この記事は[エレクトロン \(ISS\)](https://ja.wikipedia.org/wiki/エレクトロン_\(ISS\))から翻訳されています。
 
 
 [John_Phillips_working_on_Elektron.jpg](https://ja.wikipedia.org/wiki/File:John_Phillips_working_on_Elektron.jpg "fig:John_Phillips_working_on_Elektron.jpg")飛行士\]\] **エレクトロン**（**Elektron**）は、[国際宇宙ステーション](../Page/国際宇宙ステーション.md "wikilink") (ISS) で使われている[ロシア](../Page/ロシア.md "wikilink")製の酸素発生装置である。エレクトロンは[電気分解](../Page/電気分解.md "wikilink")で酸素を生成する。この製法では、ステーション内で他から回収した水分子を電気分解して酸素と水素に分離する。酸素は船室内に放出され、水素は船外に廃棄される。

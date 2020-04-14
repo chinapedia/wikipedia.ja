@@ -1,4 +1,4 @@
-> この記事は[Voicecover you with love](https://ja.wikipedia.org/wiki/Voicecover_you_with_love)から翻訳されています。
+> この記事は[Voice〜cover you with love〜](https://ja.wikipedia.org/wiki/Voice〜cover_you_with_love〜)から翻訳されています。
 
 
 **Voice〜cover you with love〜**（ヴォイス～カヴァー・ユー・ウィズ・ラブ～）は、[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")の1枚目の[カバー](../Page/カバー.md "wikilink")[アルバム](../Page/アルバム.md "wikilink")。

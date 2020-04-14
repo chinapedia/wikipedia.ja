@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[鹿児島親局テレビ・FM放送所](https://ja.wikipedia.org/wiki/鹿児島親局テレビ・FM放送所)から翻訳されています。
 
 
 **鹿児島親局テレビ・FM放送所**（かごしまおやきょくテレビ・えふえむほうそうじょ）は、日本の[鹿児島県](../Page/鹿児島県.md "wikilink")[鹿児島市](../Page/鹿児島市.md "wikilink")内に2ヶ所ある鹿児島県のテレビ・FM放送の親局の総称。放送局により呼称は様々で、単に「鹿児島」とされる場合や「[城山](https://ja.wikipedia.org/wiki/城山_\(鹿児島市城山町\) "wikilink")」「[紫原](https://ja.wikipedia.org/wiki/紫原 "wikilink")」（むらさきばる）とされることもある。

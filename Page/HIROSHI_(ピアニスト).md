@@ -1,4 +1,4 @@
-> この記事は[HIROSHI \(\)](https://ja.wikipedia.org/wiki/HIROSHI_\(\))から翻訳されています。
+> この記事は[HIROSHI \(ピアニスト\)](https://ja.wikipedia.org/wiki/HIROSHI_\(ピアニスト\))から翻訳されています。
 
 
 **HIROSHI**（ひろし）あるいは**ピアニスターHIROSHI**（本名: 吉田洋、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[8月10日](../Page/8月10日.md "wikilink") - ）は、日本のピアニスト兼作編曲家。右手と左手で違う曲を同時演奏できる得意技を持つ。

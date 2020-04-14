@@ -1,4 +1,4 @@
-> この記事は[CRH5](https://ja.wikipedia.org/wiki/CRH5)から翻訳されています。
+> この記事は[中国高速鉄道CRH5型電車](https://ja.wikipedia.org/wiki/中国高速鉄道CRH5型電車)から翻訳されています。
 
 
 **中国高速鉄道CRH5型電車**（ちゅうごくこうそくてつどうCRH5がたでんしゃ）とは、[中国の](../Page/中華人民共和国.md "wikilink")[中華人民共和国鉄道部](../Page/中華人民共和国鉄道部.md "wikilink")（中国国鉄）が第6次在来線スピードアップのために、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[TGV](https://ja.wikipedia.org/wiki/TGV "wikilink")を製造した[アルストム](../Page/アルストム.md "wikilink")社と提携して導入した[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。なお、外国からの技術移転を基に[ライセンス生産](../Page/ライセンス生産.md "wikilink")されている全てのCRH車両は「[和諧号](../Page/和諧号.md "wikilink")」（和諧＝調和の意）と呼ばれている。

@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[ホンダ・CR](https://ja.wikipedia.org/wiki/ホンダ・CR)から翻訳されています。
 
 
 **CR**（シーアール）は、かつて[本田技研工業](../Page/本田技研工業.md "wikilink")が製造販売していた[モトクロス](../Page/モトクロス.md "wikilink")競技用[オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として排気量別に数車種が生産されていた。

@@ -1,4 +1,4 @@
-> この記事は[EVE-MASKED RIDER GAIA-](https://ja.wikipedia.org/wiki/EVE-MASKED_RIDER_GAIA-)から翻訳されています。
+> この記事は[仮面ライダーEVE-MASKED RIDER GAIA-](https://ja.wikipedia.org/wiki/仮面ライダーEVE-MASKED_RIDER_GAIA-)から翻訳されています。
 
 
 『**仮面ライダーEVE-MASKED RIDER GAIA-**』（かめんライダーイブ マスクドライダーガイア）は、[角川書店](../Page/角川書店.md "wikilink")の雑誌『[特撮エース](../Page/特撮エース.md "wikilink")』にNo.016まで連載された[早瀬マサト](../Page/早瀬マサト.md "wikilink")の小説。

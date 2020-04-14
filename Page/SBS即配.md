@@ -1,4 +1,4 @@
-> この記事は[SBS](https://ja.wikipedia.org/wiki/SBS)から翻訳されています。
+> この記事は[SBS即配](https://ja.wikipedia.org/wiki/SBS即配)から翻訳されています。
 
 
 **SBS即配株式会社**は、[SBSホールディングス](../Page/SBSホールディングス.md "wikilink")傘下の即日配達事業を行っていた運送企業。

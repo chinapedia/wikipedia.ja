@@ -1,4 +1,4 @@
-> この記事は[  overture](https://ja.wikipedia.org/wiki/__overture)から翻訳されています。
+> この記事は[聖闘士星矢 天界編 序奏〜overture〜](https://ja.wikipedia.org/wiki/聖闘士星矢_天界編_序奏〜overture〜)から翻訳されています。
 
 
 『**聖闘士星矢 天界編 序奏〜overture〜**』（セイントセイヤ てんかいへん じょそう）は、[2004年](../Page/2004年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に公開された『[聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")』シリーズの劇場公開作品第5弾。

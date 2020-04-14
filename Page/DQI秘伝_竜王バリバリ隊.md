@@ -1,4 +1,4 @@
-> この記事は[DQI ](https://ja.wikipedia.org/wiki/DQI_)から翻訳されています。
+> この記事は[DQI秘伝 竜王バリバリ隊](https://ja.wikipedia.org/wiki/DQI秘伝_竜王バリバリ隊)から翻訳されています。
 
 
 『**DQI秘伝 竜王バリバリ隊**』（ドラクエワンひでん りゅうおうバリバリたい）は、原作 - [三条陸](../Page/三条陸.md "wikilink")、漫画 - [稲田浩司](../Page/稲田浩司.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。[集英社](../Page/集英社.md "wikilink")『[ブイジャンプ](https://ja.wikipedia.org/wiki/Vジャンプ "wikilink")』の[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")12月12日号および[1991年](../Page/1991年.md "wikilink")6月26日号に掲載された。全2話。

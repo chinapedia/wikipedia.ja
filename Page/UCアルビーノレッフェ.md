@@ -1,4 +1,4 @@
-> この記事は[UC](https://ja.wikipedia.org/wiki/UC)から翻訳されています。
+> この記事は[UCアルビーノレッフェ](https://ja.wikipedia.org/wiki/UCアルビーノレッフェ)から翻訳されています。
 
 
 **ウニオーネ・カルチョ・アルビーノレッフェ**（**Unione Calcio AlbinoLeffe**）は、[イタリア](../Page/イタリア.md "wikilink")・[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[ベルガモ県](../Page/ベルガモ県.md "wikilink")の[レッフェ](../Page/レッフェ.md "wikilink")および[アルビーノ](../Page/アルビーノ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2018-19シーズンは、[セリエCに所属している](https://ja.wikipedia.org/wiki/セリエC_\(サッカー\) "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Singles II \(\)](https://ja.wikipedia.org/wiki/Singles_II_\(\))から翻訳されています。
+> この記事は[Singles II \(中島みゆきのアルバム\)](https://ja.wikipedia.org/wiki/Singles_II_\(中島みゆきのアルバム\))から翻訳されています。
 
 
 『**Singles II**』（シングルス・ツー）は、[1994年](../Page/1994年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")に発売された[中島みゆき](https://ja.wikipedia.org/wiki/中島みゆき "wikilink")の2枚組コレクション・アルバムである。

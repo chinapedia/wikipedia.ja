@@ -1,4 +1,4 @@
-> この記事は[LM](https://ja.wikipedia.org/wiki/LM)から翻訳されています。
+> この記事は[LMガイド](https://ja.wikipedia.org/wiki/LMガイド)から翻訳されています。
 
 
 **LMガイド**（えるえむガイド）は、[機械](../Page/機械.md "wikilink")の[直線](../Page/直線.md "wikilink")[運動部を](../Page/運動_\(物理学\).md "wikilink")「ころがり」を用いてガイドする[機械要素](https://ja.wikipedia.org/wiki/機械要素 "wikilink")部品である。名称は『**Linear Motion Guide**（リニア・モーション・ガイド）』の略である。

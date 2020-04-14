@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[サンダーVスペシャル](https://ja.wikipedia.org/wiki/サンダーVスペシャル)から翻訳されています。
 
 
 『**サンダーVスペシャル**』（-ぶい-）は[2006年](../Page/2006年.md "wikilink")11月に株式会社エレコが開発、[アルゼ株式会社が販売した](../Page/ユニバーサルエンターテインメント.md "wikilink")[5号機の](../Page/5号機_\(パチスロ\).md "wikilink")[パチスロ](../Page/パチスロ.md "wikilink")機。[保通協における型式名は](../Page/保安通信協会.md "wikilink")「サンダーVスペシャルDX2」。

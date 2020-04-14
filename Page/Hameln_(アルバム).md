@@ -1,4 +1,4 @@
-> この記事は[Hameln \(\)](https://ja.wikipedia.org/wiki/Hameln_\(\))から翻訳されています。
+> この記事は[Hameln \(アルバム\)](https://ja.wikipedia.org/wiki/Hameln_\(アルバム\))から翻訳されています。
 
 
 『**Hameln**』（ハーメルン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のミュージシャン[キリト](../Page/キリト.md "wikilink")の1枚目のアルバム。[2005年](../Page/2005年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に発売される。発売元は[avex](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。

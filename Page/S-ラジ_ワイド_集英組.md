@@ -1,4 +1,4 @@
-> この記事は[S-  ](https://ja.wikipedia.org/wiki/S-__)から翻訳されています。
+> この記事は[S-ラジ ワイド 集英組](https://ja.wikipedia.org/wiki/S-ラジ_ワイド_集英組)から翻訳されています。
 
 
 **S-ラジ ワイド 集英組**（えすらじわいど しゅうえいぐみ）は、[2006年](../Page/2006年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[S-ラジ](https://ja.wikipedia.org/wiki/S-ラジ "wikilink")にて配信されていた[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")[番組](../Page/番組.md "wikilink")で、毎週金曜日に更新されていた。提供は[集英社](../Page/集英社.md "wikilink")。

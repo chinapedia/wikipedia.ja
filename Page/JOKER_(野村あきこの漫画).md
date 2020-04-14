@@ -1,4 +1,4 @@
-> この記事は[JOKER \(\)](https://ja.wikipedia.org/wiki/JOKER_\(\))から翻訳されています。
+> この記事は[JOKER \(野村あきこの漫画\)](https://ja.wikipedia.org/wiki/JOKER_\(野村あきこの漫画\))から翻訳されています。
 
 
 『**JOKER**』（ジョーカー）は、[野村あきこ](../Page/野村あきこ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[なかよし](../Page/なかよし.md "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")12月号から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")11月号まで連載された。[単行本](../Page/単行本.md "wikilink")は全2巻。
@@ -84,7 +84,7 @@
 
 ## 外部リンク
 
-[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:なかよし本誌の漫画作品](https://ja.wikipedia.org/wiki/Category:なかよし本誌の漫画作品 "wikilink") [Category:音楽漫画](https://ja.wikipedia.org/wiki/Category:音楽漫画 "wikilink") [Category:ロックを題材とした作品](https://ja.wikipedia.org/wiki/Category:ロックを題材とした作品 "wikilink")
+[Category:漫画作品_し](https://ja.wikipedia.org/wiki/Category:漫画作品_し "wikilink") [Category:なかよし本誌の漫画作品](https://ja.wikipedia.org/wiki/Category:なかよし本誌の漫画作品 "wikilink") [Category:ロックを題材とした漫画](https://ja.wikipedia.org/wiki/Category:ロックを題材とした漫画 "wikilink")
 
 1.
 2.

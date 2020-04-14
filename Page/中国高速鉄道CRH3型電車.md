@@ -1,4 +1,4 @@
-> この記事は[CRH3](https://ja.wikipedia.org/wiki/CRH3)から翻訳されています。
+> この記事は[中国高速鉄道CRH3型電車](https://ja.wikipedia.org/wiki/中国高速鉄道CRH3型電車)から翻訳されています。
 
 
 **中国高速鉄道CRH3型電車**（ちゅうごくこうそくてつどうCRH3がたでんしゃ）は、[中華人民共和国](../Page/中華人民共和国.md "wikilink")[鉄道部](../Page/中華人民共和国鉄道部.md "wikilink")（中国国鉄）が第6次在来線スピードアップのために、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[シーメンス](../Page/シーメンス.md "wikilink")社の技術供与によって中国の車両メーカーが製造する[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。

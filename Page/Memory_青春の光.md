@@ -1,4 +1,4 @@
-> この記事は[Memory ](https://ja.wikipedia.org/wiki/Memory_)から翻訳されています。
+> この記事は[Memory 青春の光](https://ja.wikipedia.org/wiki/Memory_青春の光)から翻訳されています。
 
 
 「**Memory 青春の光**」（メモリー せいしゅんのひかり）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の4枚目の[シングル](../Page/シングル.md "wikilink")。

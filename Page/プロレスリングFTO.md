@@ -1,4 +1,4 @@
-> この記事は[FTO](https://ja.wikipedia.org/wiki/FTO)から翻訳されています。
+> この記事は[プロレスリングFTO](https://ja.wikipedia.org/wiki/プロレスリングFTO)から翻訳されています。
 
 
 **プロレスリングFTO**（プロレスリング・エフ・ティー・オー）は、[大分県](../Page/大分県.md "wikilink")を中心に活動している[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。
@@ -50,7 +50,7 @@
   - 別府湯布院・温泉マン
   - 鳥人メジロー
   - ホバーマン
-  - 神崎ユウキ
+  - [神崎ユウキ](../Page/神崎ユウキ.md "wikilink")
   - [富豪富豪夢路](https://ja.wikipedia.org/wiki/富豪富豪夢路 "wikilink")
   - 椎茸男
 

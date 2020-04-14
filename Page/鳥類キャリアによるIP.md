@@ -1,4 +1,4 @@
-> この記事は[IP](https://ja.wikipedia.org/wiki/IP)から翻訳されています。
+> この記事は[鳥類キャリアによるIP](https://ja.wikipedia.org/wiki/鳥類キャリアによるIP)から翻訳されています。
 
 
 [Junge_Frau_mit_Taubenpost.jpg](https://ja.wikipedia.org/wiki/File:Junge_Frau_mit_Taubenpost.jpg "fig:Junge_Frau_mit_Taubenpost.jpg") **鳥類キャリアによるIP**（ちょうるいキャリアによるアイピー、）は、[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")に[RFCで発表された](../Page/Request_for_Comments.md "wikilink")[ジョーク](../Page/ジョーク.md "wikilink")規格、[伝書鳩](../Page/伝書鳩.md "wikilink")（文書内には Avian とあるだけで明確に伝書鳩と定めてはいない）を使って[Internet Protocol](../Page/Internet_Protocol.md "wikilink") の[データ通信](../Page/データ通信.md "wikilink")を行うというもの。

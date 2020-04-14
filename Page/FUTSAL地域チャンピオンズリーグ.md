@@ -1,4 +1,4 @@
-> この記事は[FUTSAL](https://ja.wikipedia.org/wiki/FUTSAL)から翻訳されています。
+> この記事は[FUTSAL地域チャンピオンズリーグ](https://ja.wikipedia.org/wiki/FUTSAL地域チャンピオンズリーグ)から翻訳されています。
 
 
 **FUTSAL地域チャンピオンズリーグ**（フットサルちいきチャンピオンズリーグ）は、[日本フットサル連盟](../Page/日本フットサル連盟.md "wikilink")が主催する[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の[地域リーグ上位チームによる全国大会である](../Page/地域リーグ_\(フットサル\).md "wikilink")。後援は[日本サッカー協会](../Page/日本サッカー協会.md "wikilink")。
@@ -42,6 +42,7 @@
   - 2017 - [名古屋オーシャンズサテライト](https://ja.wikipedia.org/wiki/名古屋オーシャンズサテライト "wikilink")（東海リーグ）
   - 2018 - [名古屋オーシャンズサテライト](https://ja.wikipedia.org/wiki/名古屋オーシャンズサテライト "wikilink")（東海リーグ）
   - 2019 - [名古屋オーシャンズサテライト](https://ja.wikipedia.org/wiki/名古屋オーシャンズサテライト "wikilink")（東海リーグ）
+  - 2020 - [名古屋オーシャンズサテライト](https://ja.wikipedia.org/wiki/名古屋オーシャンズサテライト "wikilink")（東海リーグ）
 
 ## 関連項目
 

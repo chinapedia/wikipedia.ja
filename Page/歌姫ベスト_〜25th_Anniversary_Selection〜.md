@@ -1,4 +1,4 @@
-> この記事は[ 25th Anniversary Selection](https://ja.wikipedia.org/wiki/_25th_Anniversary_Selection)から翻訳されています。
+> この記事は[歌姫ベスト 〜25th Anniversary Selection〜](https://ja.wikipedia.org/wiki/歌姫ベスト_〜25th_Anniversary_Selection〜)から翻訳されています。
 
 
 『**歌姫ベスト 〜25th Anniversary Selection〜**』（うたひめベスト トゥエンティフィフス・アニバーサリー・セレクション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の[カバー](../Page/カバー.md "wikilink")・アルバム[歌姫シリーズの](https://ja.wikipedia.org/wiki/歌姫_\(中森明菜のアルバム\)#歌姫シリーズ "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。このアルバムは2007年1月17日に[ユニバーサルシグマよりリリースされた](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（[CD](../Page/コンパクトディスク.md "wikilink"): UMCK-1218、CD+[DVD](../Page/DVD.md "wikilink"): UMCK-9154、[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")）。

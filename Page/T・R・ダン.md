@@ -1,4 +1,4 @@
-> この記事は[TR](https://ja.wikipedia.org/wiki/TR)から翻訳されています。
+> この記事は[T・R・ダン](https://ja.wikipedia.org/wiki/T・R・ダン)から翻訳されています。
 
 
 **T・R・ダン**（**Theodore Roosevelt "T.R." Dunn**、[1955年](../Page/1955年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - ）は[アラバマ州](../Page/アラバマ州.md "wikilink")[バーミングハム出身の](../Page/バーミングハム_\(アラバマ州\).md "wikilink")[バスケットボール](../Page/バスケットボール.md "wikilink")選手、バスケットボール指導者。[NBA](../Page/NBA.md "wikilink")で14シーズンプレイした後NBAの数チームでアシスタントコーチを務めている。ポジションはガード/フォワード。

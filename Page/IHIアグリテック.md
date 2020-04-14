@@ -1,4 +1,4 @@
-> この記事は[IHI](https://ja.wikipedia.org/wiki/IHI)から翻訳されています。
+> この記事は[IHIアグリテック](https://ja.wikipedia.org/wiki/IHIアグリテック)から翻訳されています。
 
 
 **株式会社IHIアグリテック**（アイ・エイチ・アイ アグリテック）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[千歳市](../Page/千歳市.md "wikilink")に本社を置く[エンジン](../Page/エンジン.md "wikilink")（[ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")などの産業用エンジン）、農業用機械、農業用機械用インプルメント、医療機器、[消防](../Page/消防.md "wikilink")[ポンプ](../Page/ポンプ.md "wikilink")等の防災関連機器（シバウラブランド、および[ラビット](../Page/ラビット.md "wikilink")\[1\]ブランド）のメーカーである。『STAR』、および『シバウラ』ブランドで知られる。

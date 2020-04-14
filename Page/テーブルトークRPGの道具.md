@@ -1,4 +1,4 @@
-> この記事は[RPG](https://ja.wikipedia.org/wiki/RPG)から翻訳されています。
+> この記事は[テーブルトークRPGの道具](https://ja.wikipedia.org/wiki/テーブルトークRPGの道具)から翻訳されています。
 
 
 **テーブルトークRPG(ロールプレイングゲーム)の道具**（テーブルトークアールピージーのどうぐ）では、[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")のプレイに使われる道具について解説する。

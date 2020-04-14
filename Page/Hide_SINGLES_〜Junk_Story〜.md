@@ -1,4 +1,4 @@
-> この記事は[Hide SINGLES Junk Story](https://ja.wikipedia.org/wiki/Hide_SINGLES_Junk_Story)から翻訳されています。
+> この記事は[Hide SINGLES 〜Junk Story〜](https://ja.wikipedia.org/wiki/Hide_SINGLES_〜Junk_Story〜)から翻訳されています。
 
 
 『**hide SINGLES 〜Junk Story〜**』（ヒデ・シングルス ジャンクストーリー）は、日本のミュージシャン[hide](https://ja.wikipedia.org/wiki/hide "wikilink")の2枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。[2002年](../Page/2002年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。
@@ -7,6 +7,7 @@
 
   - リマスタリングが施された全てのシングルA面曲を、年代順に収録。
   - 初回限定特典は、未発表写真を含むスペシャルパッケージ
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
   - [HDCD](../Page/HDCD.md "wikilink")対応
 
 ## 収録曲

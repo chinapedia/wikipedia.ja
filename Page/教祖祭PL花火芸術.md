@@ -1,4 +1,4 @@
-> この記事は[PL](https://ja.wikipedia.org/wiki/PL)から翻訳されています。
+> この記事は[教祖祭PL花火芸術](https://ja.wikipedia.org/wiki/教祖祭PL花火芸術)から翻訳されています。
 
 
 **教祖祭PL花火芸術**（きょうそさいピーエルはなびげいじゅつ）は、毎年[8月1日](../Page/8月1日.md "wikilink")に[大阪府](../Page/大阪府.md "wikilink")[富田林市](https://ja.wikipedia.org/wiki/富田林市 "wikilink")の光丘カントリー倶楽部で行われる[パーフェクト リバティー教団](../Page/パーフェクト_リバティー教団.md "wikilink")（PL）の[祭礼](https://ja.wikipedia.org/wiki/祭礼 "wikilink")であり、日本有数の巨大[花火大会](https://ja.wikipedia.org/wiki/花火大会 "wikilink")である。

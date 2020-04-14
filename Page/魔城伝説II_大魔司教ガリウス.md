@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[魔城伝説II 大魔司教ガリウス](https://ja.wikipedia.org/wiki/魔城伝説II_大魔司教ガリウス)から翻訳されています。
 
 
 『**魔城伝説II 大魔司教ガリウス**』（まじょうでんせつツー だいましきょうガリウス）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[コナミから発売された](../Page/コナミデジタルエンタテインメント.md "wikilink")[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[アクションRPG](../Page/アクションロールプレイングゲーム.md "wikilink")。

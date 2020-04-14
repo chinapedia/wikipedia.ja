@@ -1,4 +1,4 @@
-> この記事は[CRH2](https://ja.wikipedia.org/wiki/CRH2)から翻訳されています。
+> この記事は[中国高速鉄道CRH2型電車](https://ja.wikipedia.org/wiki/中国高速鉄道CRH2型電車)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:E2J61Furukawa.jpg "wikilink")\]\] **中国高速鉄道CRH2型電車**（ちゅうごくこうそくてつどうCRH2がたでんしゃ）とは、[中華人民共和国](../Page/中華人民共和国.md "wikilink")[鉄道部](../Page/中華人民共和国鉄道部.md "wikilink")（中国国鉄）が第6次在来線スピードアップのために[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[川崎重工業車両カンパニー](../Page/川崎重工業車両カンパニー.md "wikilink")から購入した[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。日本の[E2系1000番台新幹線電車がベースになっている](../Page/新幹線E2系電車.md "wikilink")。[新幹線](../Page/新幹線.md "wikilink")車両の日本国外への輸出は、[台湾高速鉄道](https://ja.wikipedia.org/wiki/台湾高速鉄道 "wikilink")の[700T型に次ぐものである](../Page/台湾高速鉄道700T型電車.md "wikilink")。愛称は子弾頭（子弾＝[弾丸](../Page/弾丸.md "wikilink")の意）。なお、外国からの技術移転を基に[ライセンス生産](../Page/ライセンス生産.md "wikilink")されている全てのCRH車両は「[和諧号](../Page/和諧号.md "wikilink")」（和諧＝調和、ハーモニーの意）と呼ばれている\[1\]。

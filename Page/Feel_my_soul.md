@@ -38,7 +38,7 @@
 
 ## 外部リンク
 
-  - [ソニー・ミュージックエンタテインメントによる紹介ページ](http://www.sonymusic.co.jp/Music/Arch/SR/Yui/SRCL-5880/)
+  - [ソニー・ミュージックエンタテインメントによる紹介ページ](https://www.sonymusic.co.jp/artist/Yui/discography/SRCL-5880)
 
 [Category:YUIの楽曲](https://ja.wikipedia.org/wiki/Category:YUIの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:YUIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YUIが制作した楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:ヘ長調](https://ja.wikipedia.org/wiki/Category:ヘ長調 "wikilink")
 

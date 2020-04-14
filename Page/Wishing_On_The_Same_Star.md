@@ -34,12 +34,11 @@
       - ベスト『**[BEST FICTION](../Page/BEST_FICTION.md "wikilink")**』
       - ベスト『**[Ballada](https://ja.wikipedia.org/wiki/Ballada "wikilink")**』
           - 最後のコーラス部分を短くカットして収録。
-
-<!-- end list -->
-
   - **Did U**
       - 未収録。
 
 ## 脚注
 
-[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:ダイアン・ウォーレンが制作した楽曲](https://ja.wikipedia.org/wiki/Category:ダイアン・ウォーレンが制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+<references />
+
+[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:ダイアン・ウォーレンが制作した楽曲](https://ja.wikipedia.org/wiki/Category:ダイアン・ウォーレンが制作した楽曲 "wikilink") [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:星を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:星を題材とした楽曲 "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")

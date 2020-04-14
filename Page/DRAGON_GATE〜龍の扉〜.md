@@ -1,4 +1,4 @@
-> この記事は[DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE)から翻訳されています。
+> この記事は[DRAGON GATE〜龍の扉〜](https://ja.wikipedia.org/wiki/DRAGON_GATE〜龍の扉〜)から翻訳されています。
 
 
 『**DRAGON GATE〜龍の扉〜**』（ドラゴンゲート〜りゅうのとびら〜）は、[TNCで毎月](../Page/テレビ西日本.md "wikilink")1回、日曜深夜（月曜未明、[JST](../Page/日本標準時.md "wikilink")）に放送されている1時間の[プロレス中継](../Page/プロレス中継.md "wikilink")番組。前身番組である『**UNO DOS TRES 闘龍門**』（ウノ・ドス・トレス・とうりゅうもん）についてはTNCと[DRAGON GATEの両者が同一番組に位置づけているため](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")、この項目で述べる。DRAGON GATEの詳細については、同項目を参照のこと。

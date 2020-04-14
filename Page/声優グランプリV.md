@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[声優グランプリV](https://ja.wikipedia.org/wiki/声優グランプリV)から翻訳されています。
 
 
 **声優グランプリV**（せいゆうグランプリブイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニラジ](../Page/アニラジ.md "wikilink")系[携帯電話](../Page/携帯電話.md "wikilink")用サイト。[2011年](../Page/2011年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に**声優・V-STATION**と**声優グランプリmobile**が統合してサービスを開始した。

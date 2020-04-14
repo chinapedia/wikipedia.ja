@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[Wホワイト](https://ja.wikipedia.org/wiki/Wホワイト)から翻訳されています。
 
 
 **Wホワイト**（ダブルホワイト\[1\]）は、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")が提供する[ホワイトプラン](../Page/ホワイトプラン.md "wikilink")専用の割引サービス。[2007年](../Page/2007年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")発表。[2007年](../Page/2007年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")より提供開始。なお一部契約者には2007年[2月21日](../Page/2月21日.md "wikilink")より先行して提供が開始された。

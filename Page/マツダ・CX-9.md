@@ -1,4 +1,4 @@
-> この記事は[CX-9](https://ja.wikipedia.org/wiki/CX-9)から翻訳されています。
+> この記事は[マツダ・CX-9](https://ja.wikipedia.org/wiki/マツダ・CX-9)から翻訳されています。
 
 
 **CX-9**（シーエックス-ナイン）は、[マツダ](https://ja.wikipedia.org/wiki/マツダ "wikilink")が製造・販売している[クロスオーバーSUV](../Page/クロスオーバーSUV.md "wikilink")である。

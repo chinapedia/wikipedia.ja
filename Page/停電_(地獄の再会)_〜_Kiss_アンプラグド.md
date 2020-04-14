@@ -1,4 +1,4 @@
-> この記事は[ \(\)  Kiss ](https://ja.wikipedia.org/wiki/_\(\)__Kiss_)から翻訳されています。
+> この記事は[停電 \(地獄の再会\) 〜 Kiss アンプラグド](https://ja.wikipedia.org/wiki/停電_\(地獄の再会\)_〜_Kiss_アンプラグド)から翻訳されています。
 
 
 **停電 (地獄の再会) 〜 Kiss アンプラグド** (*Kiss Unplugged*) とは、[1996年](../Page/1996年.md "wikilink")に[MTVアンプラグド](../Page/MTVアンプラグド.md "wikilink")にて[キッス](../Page/キッス.md "wikilink")が出した[アルバム](../Page/アルバム.md "wikilink")である。

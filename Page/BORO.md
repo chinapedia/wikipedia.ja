@@ -1290,8 +1290,8 @@ BOROはその告知のなかで、
 
 ## 外部リンク
 
-  - [BORO公式サイト【Onpu Club】](http://8onpu.com/)
-  - [所属レーベル【BBBレコードl】](http://www.bbbrecords.com/)
+  - [BORO公式サイト【Onpu Club】](https://8onpu.com/)
+  - [所属レーベル【BBBレコードl】](https://www.bbbrecords.com/)
   - [Facebookグループ【BOROの前向き言葉推進委員会】](https://www.facebook.com/groups/815091521910722/)
 
 [カテゴリ:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/カテゴリ:日本の音楽プロデューサー "wikilink")

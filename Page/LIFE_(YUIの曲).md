@@ -1,4 +1,4 @@
-> この記事は[LIFE \(YUI\)](https://ja.wikipedia.org/wiki/LIFE_\(YUI\))から翻訳されています。
+> この記事は[LIFE \(YUIの曲\)](https://ja.wikipedia.org/wiki/LIFE_\(YUIの曲\))から翻訳されています。
 
 
 「**LIFE**」（ライフ）は、[YUIが](https://ja.wikipedia.org/wiki/YUI_\(歌手\) "wikilink")[2005年](../Page/2005年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")に[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")からリリースした3作目の[シングル](../Page/シングル.md "wikilink")。初回版には「[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")」絵柄ステッカーを付属。キャッチコピーは「18歳シンガーソングライターYUI待望のサードシングル」。

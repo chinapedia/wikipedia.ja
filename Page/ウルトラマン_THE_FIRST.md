@@ -1,4 +1,4 @@
-> この記事は[ THE FIRST](https://ja.wikipedia.org/wiki/_THE_FIRST)から翻訳されています。
+> この記事は[ウルトラマン THE FIRST](https://ja.wikipedia.org/wiki/ウルトラマン_THE_FIRST)から翻訳されています。
 
 
 『'''ウルトラマン THE FIRST '''』（ - ザファースト）は、特撮テレビ番組『[ウルトラマン](../Page/ウルトラマン.md "wikilink")』を原作とする[高田裕三](../Page/高田裕三.md "wikilink")の漫画作品。[角川書店](../Page/角川書店.md "wikilink")の雑誌『[特撮エース](../Page/特撮エース.md "wikilink")』創刊号より連載。同誌休刊後は、『[特撮ニュータイプ](https://ja.wikipedia.org/wiki/月刊ニュータイプ#姉妹誌 "wikilink")』に掲載紙を移した。

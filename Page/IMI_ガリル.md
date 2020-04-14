@@ -1,4 +1,4 @@
-> この記事は[IMI ](https://ja.wikipedia.org/wiki/IMI_)から翻訳されています。
+> この記事は[IMI ガリル](https://ja.wikipedia.org/wiki/IMI_ガリル)から翻訳されています。
 
 
 **IMI ガリル**（Galil）は、[イスラエル](../Page/イスラエル.md "wikilink")の[IMI社製の](../Page/イスラエル・ミリタリー・インダストリーズ.md "wikilink")[歩兵](../Page/歩兵.md "wikilink")用[小銃](../Page/小銃.md "wikilink")（[アサルトライフル](../Page/アサルトライフル.md "wikilink")・システム）である。[2005年](../Page/2005年.md "wikilink")以降は同社[小火器](../Page/小火器.md "wikilink")部門が独立状態となり設立された[イスラエル・ウェポン・インダストリーズ](https://ja.wikipedia.org/wiki/イスラエル・ウェポン・インダストリーズ "wikilink")（IWI）社が生産・プロモーションする。
@@ -103,19 +103,26 @@
 
 [250px](https://ja.wikipedia.org/wiki/ファイル:VektorR4.png "wikilink")
 
-  -
-\*:ガリルARMのバット[ストックとハンドガードを延長し](../Page/銃床.md "wikilink")、キャリングハンドルを省略したものを**[R4](https://ja.wikipedia.org/wiki/ベクターR4 "wikilink")**として正式採用した（このほか、SARに相当する**R5**と、MARに相当する**R6**も生産された）。生産はデネル・グループ・ベクター社。更に機関部をそのまま流用した次世代型**[CR21](https://ja.wikipedia.org/wiki/ベクター_CR21 "wikilink")**と言う[ブルパップ方式](../Page/ブルパップ方式.md "wikilink")の[アサルトライフル](../Page/アサルトライフル.md "wikilink")も存在する。なお、現在のベクターはR4シリーズの生産を中止しており、代替品として同国の[ツルベロ・アーモリー](https://ja.wikipedia.org/wiki/ツルベロ・アーモリー "wikilink")社がガリルをベースとした**[ラプター・アサルトライフル](https://ja.wikipedia.org/wiki/ツルベロ_ラプター "wikilink")**を開発した。
+  -   -
+        ガリルARMのバット[ストックとハンドガードを延長し](../Page/銃床.md "wikilink")、キャリングハンドルを省略したものを**[R4](https://ja.wikipedia.org/wiki/ベクターR4 "wikilink")**として正式採用した（このほか、SARに相当する**R5**と、MARに相当する**R6**も生産された）。生産はデネル・グループ・ベクター社。更に機関部をそのまま流用した次世代型**[CR21](https://ja.wikipedia.org/wiki/ベクター_CR21 "wikilink")**と言う[ブルパップ方式](../Page/ブルパップ方式.md "wikilink")の[アサルトライフル](../Page/アサルトライフル.md "wikilink")も存在する。なお、現在のベクターはR4シリーズの生産を中止しており、代替品として同国の[ツルベロ・アーモリー](https://ja.wikipedia.org/wiki/ツルベロ・アーモリー "wikilink")社がガリルをベースとした**[ラプター・アサルトライフル](https://ja.wikipedia.org/wiki/ツルベロ_ラプター "wikilink")**を開発した。
+        また、R4シリーズの民間向け半自動モデルである**LM**シリーズも存在する。
 
-\*:また、R4シリーズの民間向け半自動モデルである**LM**シリーズも存在する。
+[Aps95.jpg](https://ja.wikipedia.org/wiki/File:Aps95.jpg "fig:Aps95.jpg")
 
   -   -
-        ハンドガードの変更やスコープの標準装備など大幅に手を加えた**APS 95**を少数生産した。
+        ハンドガードの変更やスコープの標準装備など大幅に手を加えた**APS-95**を少数生産した。
+
+<!-- end list -->
 
   -   -
         NMW社が**NM-1**として5.56ARMを[ライセンス生産](../Page/ライセンス生産.md "wikilink")し、これを元にオリジナルの**D.NM-1・M2**を開発した。
 
+[FFV_890_C.jpg](https://ja.wikipedia.org/wiki/File:FFV_890_C.jpg "fig:FFV_890_C.jpg")
+
   -   -
-        ハンドガードを変更した**FFV-890C**（5.56AR）が[Ak 5との競合として試作された](https://ja.wikipedia.org/wiki/Ak_5 "wikilink")。
+        ハンドガードを変更した**FFV 890C**（5.56AR）が[Ak 5との競合として試作された](https://ja.wikipedia.org/wiki/Ak_5 "wikilink")。
+
+<!-- end list -->
 
   -   -
         ベルナルデリ社が少し手を加え[M16の](../Page/M16自動小銃.md "wikilink")[マガジンを使用できるようにした](../Page/弾倉.md "wikilink")**VB-STD**（5.56AR）と**VB-SR**（5.56SAR）や外観が異なり射撃競技などに使用される威力の弱い[.22LR弾を使用する](https://ja.wikipedia.org/wiki/.22ロングライフル弾 "wikilink")**イエーガーAP84**（AR）が存在する。
@@ -284,11 +291,11 @@
 
   - [IWI社公式HP（ガリル・スナイパー）](https://iwi.net/galil/)
 
-  - [モダン・ファイアアームズ（アサルトライフル）](http://world.guns.ru/assault/as23-e.htm)
+  - [モダン・ファイアアームズ（アサルトライフル）](https://modernfirearms.net/en/assault-rifles/israel-assault-rifles/galil-eng/)
 
-  - [モダン・ファイアアームズ（エース・シリーズ）](http://world.guns.ru/assault/as111-e.htm)
+  - [モダン・ファイアアームズ（エース・シリーズ）](https://modernfirearms.net/en/assault-rifles/israel-assault-rifles/galil-ace-eng/)
 
-  - [モダン・ファイアアームズ（ガラッツ・モデル）](http://world.guns.ru/sniper/sn32-e.htm)
+  - [モダン・ファイアアームズ（ガラッツ・モデル）](https://modernfirearms.net/en/sniper-rifles/standart-caliber-rifles/israel-standart-caliber-rifles/galil-sniper-eng/)
 
 [Category:自動小銃](https://ja.wikipedia.org/wiki/Category:自動小銃 "wikilink") [Category:アサルトライフル](https://ja.wikipedia.org/wiki/Category:アサルトライフル "wikilink") [Category:イスラエルの小火器](https://ja.wikipedia.org/wiki/Category:イスラエルの小火器 "wikilink") [Category:5.56mm銃](https://ja.wikipedia.org/wiki/Category:5.56mm銃 "wikilink") [Category:7.62mm銃](https://ja.wikipedia.org/wiki/Category:7.62mm銃 "wikilink") [Category:イスラエル・ミリタリー・インダストリーズ](https://ja.wikipedia.org/wiki/Category:イスラエル・ミリタリー・インダストリーズ "wikilink")
 

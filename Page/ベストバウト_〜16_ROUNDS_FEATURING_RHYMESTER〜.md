@@ -1,4 +1,4 @@
-> この記事は[ 16 ROUNDS FEATURING RHYMESTER](https://ja.wikipedia.org/wiki/_16_ROUNDS_FEATURING_RHYMESTER)から翻訳されています。
+> この記事は[ベストバウト 〜16 ROUNDS FEATURING RHYMESTER〜](https://ja.wikipedia.org/wiki/ベストバウト_〜16_ROUNDS_FEATURING_RHYMESTER〜)から翻訳されています。
 
 
 『**ベストバウト 〜16 ROUNDS FEATURING RHYMESTER〜**』（ベストバウト 16ラウンズ フィーチャリング ライムスター）は、[2007年](../Page/2007年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のヒップホップグループ[RHYMESTER](../Page/RHYMESTER.md "wikilink")の[アルバム](../Page/アルバム.md "wikilink")。RHYMESTERがこれまでにゲスト参加してきた、他アーティストの曲をRHYMESTER本人が選曲してまとめたワークス集。キャッチコピーは「裏ベスト」。全16曲を収録。

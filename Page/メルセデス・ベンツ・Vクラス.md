@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[メルセデス・ベンツ・Vクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・Vクラス)から翻訳されています。
 
 
 **メルセデス・ベンツ・Vクラス**（*Mercedes-Benz V-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開する、[ミニバン](../Page/ミニバン.md "wikilink")型の[乗用車](../Page/乗用車.md "wikilink")である。

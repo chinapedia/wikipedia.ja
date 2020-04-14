@@ -1,4 +1,4 @@
-> この記事は[GNU](https://ja.wikipedia.org/wiki/GNU)から翻訳されています。
+> この記事は[GNUデバッガ](https://ja.wikipedia.org/wiki/GNUデバッガ)から翻訳されています。
 
 
 **GNUデバッガ**（単に**GDB**とも）は、[GNU](../Page/GNU.md "wikilink")ソフトウェア・システムで動く標準の[デバッガ](../Page/デバッガ.md "wikilink")である。 これは、多くの[Unix系](../Page/Unix系.md "wikilink")システムで動作可能な移植性の高いデバッガであり、[Ada](../Page/Ada.md "wikilink")、[C言語](../Page/C言語.md "wikilink")、[C++](../Page/C++.md "wikilink")、[FORTRAN](https://ja.wikipedia.org/wiki/Fortran "wikilink")、[FreeBASIC](../Page/FreeBASIC.md "wikilink")といった[プログラミング言語](../Page/プログラミング言語.md "wikilink")に対応している。

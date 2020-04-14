@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[タイタンIV](https://ja.wikipedia.org/wiki/タイタンIV)から翻訳されています。
 
 
 [Titan_IVB_launching_DSP-22_satellite.jpg](https://ja.wikipedia.org/wiki/File:Titan_IVB_launching_DSP-22_satellite.jpg "fig:Titan_IVB_launching_DSP-22_satellite.jpg") [LR91-AJ-11_rocket_engine_-_Thrust_chamber.jpg](https://ja.wikipedia.org/wiki/File:LR91-AJ-11_rocket_engine_-_Thrust_chamber.jpg "fig:LR91-AJ-11_rocket_engine_-_Thrust_chamber.jpg")-AJ-11ロケットエンジン\]\] **タイタンIV** (Titan IV) は、[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")が運用していた衛星打ち上げ用[使い捨て型ロケット](../Page/使い捨て型ロケット.md "wikilink")(ELV)。[タイタン・ロケット](../Page/タイタン_\(ロケット\).md "wikilink")・シリーズの最終型として、[1989年](../Page/1989年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")まで用いられた。打ち上げには[ケープカナベラル空軍基地](../Page/ケープカナベラル空軍基地.md "wikilink")\[1\]\[2\]と[ヴァンデンバーグ空軍基地](../Page/ヴァンデンバーグ空軍基地.md "wikilink")\[3\]の打ち上げ施設が使用されていた。導入当時タイタンIVはアメリカ空軍が使用していた最大の無人ロケットだった。\[4\] タイタンIVはタイタンシリーズの最後のロケットだった。2005年に運用が高コストである事を理由に退役した。

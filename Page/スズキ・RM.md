@@ -1,4 +1,4 @@
-> この記事は[RM](https://ja.wikipedia.org/wiki/RM)から翻訳されています。
+> この記事は[スズキ・RM](https://ja.wikipedia.org/wiki/スズキ・RM)から翻訳されています。
 
 
 **RM**（アールエム）とは、[スズキ株式会社が製造販売している](../Page/スズキ_\(企業\).md "wikilink")[2ストロークの](../Page/2ストローク機関.md "wikilink")[モトクロス](../Page/モトクロス.md "wikilink")競技用[オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として排気量別に数車種が生産されている。

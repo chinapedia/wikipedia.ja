@@ -1,4 +1,4 @@
-> この記事は[JTB](https://ja.wikipedia.org/wiki/JTB)から翻訳されています。
+> この記事は[JTBトラベランド](https://ja.wikipedia.org/wiki/JTBトラベランド)から翻訳されています。
 
 
 [thumb店](https://ja.wikipedia.org/wiki/ファイル:JTB_TRAVELAND_Nishijin.jpg "wikilink")（[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[早良区](../Page/早良区.md "wikilink")）\]\] **株式会社JTBトラベランド**（ジェイティービートラベランド）は、かつて存在した[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[日本橋兜町](../Page/日本橋兜町.md "wikilink")に本社を置く[ジェイティービーの関連子会社](../Page/JTB.md "wikilink")。

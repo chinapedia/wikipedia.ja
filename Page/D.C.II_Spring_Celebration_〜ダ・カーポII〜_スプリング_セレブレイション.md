@@ -1,4 +1,4 @@
-> この記事は[D.C.II Spring Celebration II  ](https://ja.wikipedia.org/wiki/D.C.II_Spring_Celebration_II__)から翻訳されています。
+> この記事は[D.C.II Spring Celebration 〜ダ・カーポII〜 スプリング セレブレイション](https://ja.wikipedia.org/wiki/D.C.II_Spring_Celebration_〜ダ・カーポII〜_スプリング_セレブレイション)から翻訳されています。
 
 
 『**D.C.II Spring Celebration 〜ダ・カーポII〜 スプリング セレブレイション**』は、[CIRCUS NORTHERNから](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[2007年](../Page/2007年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に発売された[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")。通称『D.C.II S.C.』。

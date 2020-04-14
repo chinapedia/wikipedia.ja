@@ -1,4 +1,4 @@
-> この記事は[FRENZY \(\)](https://ja.wikipedia.org/wiki/FRENZY_\(\))から翻訳されています。
+> この記事は[FRENZY \(ゴスペラーズのアルバム\)](https://ja.wikipedia.org/wiki/FRENZY_\(ゴスペラーズのアルバム\))から翻訳されています。
 
 
 『**FRENZY**』（フレンジー）は、[2002年](../Page/2002年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に発売された[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")のメジャーデビュー後7枚目のオリジナルアルバム。

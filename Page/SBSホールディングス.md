@@ -1,4 +1,4 @@
-> この記事は[SBS](https://ja.wikipedia.org/wiki/SBS)から翻訳されています。
+> この記事は[SBSホールディングス](https://ja.wikipedia.org/wiki/SBSホールディングス)から翻訳されています。
 
 
 **SBSホールディングス**株式会社（エスビーエスホールディングス）は、[東京都](../Page/東京都.md "wikilink")[墨田区](../Page/墨田区.md "wikilink")に本社を置く運送、不動産賃貸管理業、金融、人材事業会社である。
@@ -43,8 +43,8 @@
 <!-- end list -->
 
   - [SBSスタッフ](https://ja.wikipedia.org/wiki/SBSスタッフ "wikilink")株式会社（人材派遣）（持株会社直接の完全子会社）
-  - 株式会社[エーマックス](https://ja.wikipedia.org/wiki/エーマックス "wikilink")（不動産事業）（持株会社直接の完全子会社）
-  - 株式会社[エルマックス](https://ja.wikipedia.org/wiki/エルマックス "wikilink")（不動産事業）（エーマックス傘下）
+  - ＳＢＳアセットマネジメント株式会社（不動産事業）（持株会社直接の完全子会社・平成28年4月1日エーマックス㈱より商号変更）
+  - 株式会社[エルマックス](https://ja.wikipedia.org/wiki/エルマックス "wikilink")（不動産事業）（ＳＢＳアセットマネジメント傘下）
 
 <!-- end list -->
 

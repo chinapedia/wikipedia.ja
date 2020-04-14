@@ -1,4 +1,4 @@
-> この記事は[CRH1](https://ja.wikipedia.org/wiki/CRH1)から翻訳されています。
+> この記事は[中国高速鉄道CRH1型電車](https://ja.wikipedia.org/wiki/中国高速鉄道CRH1型電車)から翻訳されています。
 
 
 **中国高速鉄道CRH1型電車**は、[広深線](../Page/広深線.md "wikilink")などで用いられている[高速鉄道](../Page/高速鉄道.md "wikilink")[車両である](../Page/鉄道車両.md "wikilink")。

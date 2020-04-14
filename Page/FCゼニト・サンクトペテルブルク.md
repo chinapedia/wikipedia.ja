@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCゼニト・サンクトペテルブルク](https://ja.wikipedia.org/wiki/FCゼニト・サンクトペテルブルク)から翻訳されています。
 
 
 **FCゼニト・サンクトペテルブルク**（、）は、[ロシア](../Page/ロシア.md "wikilink")・[サンクトペテルブルク](../Page/サンクトペテルブルク.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")時代はゼニト・レニングラードとして知られた。「ゼニト（ゼニート）」とは、ロシア語で「[天頂](../Page/天頂.md "wikilink")」など「絶頂、頂点」のこと。

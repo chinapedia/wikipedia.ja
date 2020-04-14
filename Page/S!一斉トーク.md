@@ -1,4 +1,4 @@
-> この記事は[S!](https://ja.wikipedia.org/wiki/S!)から翻訳されています。
+> この記事は[S!一斉トーク](https://ja.wikipedia.org/wiki/S!一斉トーク)から翻訳されています。
 
 
 **S\!一斉トーク**（えす\!いっせいトーク）は、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[SoftBank 3Gに提供される](../Page/SoftBank_3G.md "wikilink")[プッシュ・ツー・トーク](../Page/プッシュ・ツー・トーク.md "wikilink")サービス。旧名称は、「**サークルトーク**」。

@@ -1,4 +1,4 @@
-> この記事は[NNN7](https://ja.wikipedia.org/wiki/NNN7)から翻訳されています。
+> この記事は[NNNモーニング7](https://ja.wikipedia.org/wiki/NNNモーニング7)から翻訳されています。
 
 
 『**NNNモーニング7**』（エヌエヌエヌ モーニングセブン）とは、[1972年](../Page/1972年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")から[1974年](../Page/1974年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")（[NNN](https://ja.wikipedia.org/wiki/Nippon_News_Network "wikilink")）で放送された朝一番の[ニュース番組である](../Page/報道番組.md "wikilink")。前番組は『[NNNあさ7時のニュース](../Page/NNNあさ7時のニュース.md "wikilink")』。

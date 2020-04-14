@@ -1,4 +1,4 @@
-> この記事は[The Gospellers \(\)](https://ja.wikipedia.org/wiki/The_Gospellers_\(\))から翻訳されています。
+> この記事は[The Gospellers \(アルバム\)](https://ja.wikipedia.org/wiki/The_Gospellers_\(アルバム\))から翻訳されています。
 
 
 『**The Gospellers**』（ザ・ゴスペラーズ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に発売された[ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")のメジャーデビュー後1枚目の[アルバム](../Page/アルバム.md "wikilink")。

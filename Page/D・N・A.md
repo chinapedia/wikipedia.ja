@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[D・N・A](https://ja.wikipedia.org/wiki/D・N・A)から翻訳されています。
 
 
 『**D・N・A**』（ディー・エヌ・エー）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[Janne Da Arcのメジャーデビュー後](../Page/Janne_Da_Arc.md "wikilink")、初の[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売。発売元は[cutting edge](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")。

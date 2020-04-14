@@ -1,4 +1,4 @@
-> この記事は[SSM](https://ja.wikipedia.org/wiki/SSM)から翻訳されています。
+> この記事は[ホンダ・SSM](https://ja.wikipedia.org/wiki/ホンダ・SSM)から翻訳されています。
 
 
 **ホンダ・SSM**（エスエスエム）とは、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の第31回[東京モーターショー](../Page/東京モーターショー.md "wikilink")で[ホンダブースに参考展示された](../Page/本田技研工業.md "wikilink")[コンセプトカー](../Page/コンセプトカー.md "wikilink")。[1999年](../Page/1999年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")まで販売された[スポーツカー](../Page/スポーツカー.md "wikilink")・[S2000の試作モデルである](../Page/ホンダ・S2000.md "wikilink")。

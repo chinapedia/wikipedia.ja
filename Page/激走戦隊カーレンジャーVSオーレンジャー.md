@@ -1,4 +1,4 @@
-> この記事は[VS](https://ja.wikipedia.org/wiki/VS)から翻訳されています。
+> この記事は[激走戦隊カーレンジャーVSオーレンジャー](https://ja.wikipedia.org/wiki/激走戦隊カーレンジャーVSオーレンジャー)から翻訳されています。
 
 
 <div class="pathnavbox">
@@ -113,6 +113,7 @@ VSシリーズ</p></td>
   - シグナルマン - [O-BITOH](https://ja.wikipedia.org/wiki/O-BITOH "wikilink")
   - [中川清人](../Page/中川清人.md "wikilink")
   - [村上利恵](../Page/村上利恵.md "wikilink")
+  - オーブルー - [喜多川務](https://ja.wikipedia.org/wiki/喜多川務 "wikilink")
 
 ## 音楽
 

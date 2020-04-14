@@ -1,4 +1,4 @@
-> この記事は[TL](https://ja.wikipedia.org/wiki/TL)から翻訳されています。
+> この記事は[スズキ・TL](https://ja.wikipedia.org/wiki/スズキ・TL)から翻訳されています。
 
 
 **TL**（ティーエル）とは[スズキが製造販売していたスポーツタイプの大型](../Page/スズキ_\(企業\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。

@@ -104,7 +104,7 @@ ArchiCAD 13で革命的な改良がなされた新しいチームワーク機能
   - [EMF](../Page/Windows_Metafile.md "wikilink")
   - [HPGL](https://ja.wikipedia.org/wiki/HPGL "wikilink")
   - PMK
-  - [ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")
+  - [ASCII](../Page/ASCII.md "wikilink")
   - [TXT](../Page/テキストファイル.md "wikilink")
   - [RTF](../Page/Rich_Text_Format.md "wikilink")
   - [HTML](../Page/HyperText_Markup_Language.md "wikilink")

@@ -1,4 +1,4 @@
-> この記事は[CONCACAF U-202007](https://ja.wikipedia.org/wiki/CONCACAF_U-202007)から翻訳されています。
+> この記事は[CONCACAF U-20トーナメント2007](https://ja.wikipedia.org/wiki/CONCACAF_U-20トーナメント2007)から翻訳されています。
 
 
 **CONCACAF U-20トーナメント2007**（）は、[2007年](../Page/2007年.md "wikilink")[1月17日](https://ja.wikipedia.org/wiki/1月17日 "wikilink")から[2月25日](../Page/2月25日.md "wikilink")にかけて、[パナマ](https://ja.wikipedia.org/wiki/パナマ "wikilink")と[メキシコ](../Page/メキシコ.md "wikilink")で開催された第21回目の[CONCACAF U-20トーナメントである](../Page/CONCACAF_U-20選手権.md "wikilink")。

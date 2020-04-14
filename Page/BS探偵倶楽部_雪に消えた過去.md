@@ -1,4 +1,4 @@
-> この記事は[BS ](https://ja.wikipedia.org/wiki/BS_)から翻訳されています。
+> この記事は[BS探偵倶楽部 雪に消えた過去](https://ja.wikipedia.org/wiki/BS探偵倶楽部_雪に消えた過去)から翻訳されています。
 
 
 『**BS探偵倶楽部 雪に消えた過去**』（ビーエスたんていくらぶ ゆきにきえたかこ）は、[任天堂](../Page/任天堂.md "wikilink")の[サテラビュー](../Page/サテラビュー.md "wikilink")で放送された[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。

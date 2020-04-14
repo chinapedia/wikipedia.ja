@@ -1,4 +1,4 @@
-> この記事は[Tops \(\)](https://ja.wikipedia.org/wiki/Tops_\(\))から翻訳されています。
+> この記事は[Tops \(バンド\)](https://ja.wikipedia.org/wiki/Tops_\(バンド\))から翻訳されています。
 
 
 **TOPS**（トップス）は日本の[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")に結成し、[1991年](../Page/1991年.md "wikilink")に解散した。強力な[ホーンセクションと](../Page/管楽器.md "wikilink")3名体制のボーカルで、迫力ある演奏を聴かせる[ファンク](../Page/ファンク.md "wikilink")系バンドであった。

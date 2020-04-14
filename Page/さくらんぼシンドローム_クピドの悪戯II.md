@@ -1,4 +1,4 @@
-> この記事は[ II](https://ja.wikipedia.org/wiki/_II)から翻訳されています。
+> この記事は[さくらんぼシンドローム クピドの悪戯II](https://ja.wikipedia.org/wiki/さくらんぼシンドローム_クピドの悪戯II)から翻訳されています。
 
 
 『**さくらんぼシンドローム クピドの悪戯II**』（さくらんぼシンドローム クピドのいたずらツー）は、[北崎拓](../Page/北崎拓.md "wikilink")の[成人向け](https://ja.wikipedia.org/wiki/成人向け漫画 "wikilink")[青年漫画](../Page/青年漫画.md "wikilink")作品。『[週刊ヤングサンデー](../Page/週刊ヤングサンデー.md "wikilink")』で連載、2008年に同誌が休刊した後は『[スピリッツ増刊 YSスペシャル](../Page/週刊ヤングサンデー.md "wikilink")』に移ったが、2009年5号をもって連載終了となった。 『[クピドの悪戯 虹玉](../Page/クピドの悪戯_虹玉.md "wikilink")』に続く〈[クピドの悪戯](../Page/クピドの悪戯.md "wikilink")〉シリーズの第2弾である。

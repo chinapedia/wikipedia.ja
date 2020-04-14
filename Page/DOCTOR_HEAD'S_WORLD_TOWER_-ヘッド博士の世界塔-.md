@@ -1,4 +1,4 @@
-> この記事は[DOCTOR HEAD\'S WORLD TOWER --](https://ja.wikipedia.org/wiki/DOCTOR_HEAD\'S_WORLD_TOWER_--)から翻訳されています。
+> この記事は[DOCTOR HEAD\'S WORLD TOWER -ヘッド博士の世界塔-](https://ja.wikipedia.org/wiki/DOCTOR_HEAD\'S_WORLD_TOWER_-ヘッド博士の世界塔-)から翻訳されています。
 
 
 『**DOCTOR HEAD'S WORLD TOWER -ヘッド博士の世界塔-**』（ドクター・ヘッズ・ワールド・タワー ヘッドはかせのせかいとう）は[1991年](../Page/1991年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink")に発売された[フリッパーズ・ギター](../Page/フリッパーズ・ギター.md "wikilink")通算3作目にして最後の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")<span style="font-size:90%;">(CD:PSCR-1024)</span>。

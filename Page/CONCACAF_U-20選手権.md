@@ -1,4 +1,4 @@
-> この記事は[CONCACAF U-20](https://ja.wikipedia.org/wiki/CONCACAF_U-20)から翻訳されています。
+> この記事は[CONCACAF U-20選手権](https://ja.wikipedia.org/wiki/CONCACAF_U-20選手権)から翻訳されています。
 
 
 **CONCACAF U-20選手権**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、20歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。[FIFA U-20ワールドカップ](../Page/FIFA_U-20ワールドカップ.md "wikilink")（2005年大会までは「FIFAワールドユース」）の予選を兼ねて2年に1度開催される。

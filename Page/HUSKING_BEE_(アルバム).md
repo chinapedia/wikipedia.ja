@@ -1,4 +1,4 @@
-> この記事は[HUSKING BEE \(\)](https://ja.wikipedia.org/wiki/HUSKING_BEE_\(\))から翻訳されています。
+> この記事は[HUSKING BEE \(アルバム\)](https://ja.wikipedia.org/wiki/HUSKING_BEE_\(アルバム\))から翻訳されています。
 
 
 『**HUSKING BEE**』（ハスキング・ビー）は2005年に解散した同名の日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[ハスキング・ビー](https://ja.wikipedia.org/wiki/ハスキング・ビー "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")である。

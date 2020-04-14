@@ -1,4 +1,4 @@
-> この記事は[DOCOMOMO JAPAN ](https://ja.wikipedia.org/wiki/DOCOMOMO_JAPAN_)から翻訳されています。
+> この記事は[DOCOMOMO JAPAN選定 日本におけるモダン・ムーブメントの建築](https://ja.wikipedia.org/wiki/DOCOMOMO_JAPAN選定_日本におけるモダン・ムーブメントの建築)から翻訳されています。
 
 
 **DOCOMOMO JAPAN選定 日本におけるモダン・ムーブメントの建築**（ドコモモ ジャパンせんてい にほんにおけるモダン・ムーブメントのけんちく）は、[DOCOMOMO](../Page/DOCOMOMO.md "wikilink") Japanが現存する[近代建築](https://ja.wikipedia.org/wiki/近代建築 "wikilink")として選定した216件の建築である。
@@ -1160,7 +1160,7 @@ U研究室</p></td>
 <td><p>明倫学園円形校舎<br />
 （<a href="../Page/横浜清風高等学校.md" title="wikilink">横浜清風高等学校</a>円形講堂）</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/坂本鹿名夫" title="wikilink">坂本鹿名夫</a></p></td>
+<td><p><a href="../Page/坂本鹿名夫.md" title="wikilink">坂本鹿名夫</a></p></td>
 <td><p>1959年</p></td>
 <td><p>神奈川県横浜市保土ケ谷区</p></td>
 <td><p>現存せず</p></td>
@@ -1532,7 +1532,7 @@ U研究室</p></td>
 <td><p><a href="../Page/東京芸術大学.md" title="wikilink">東京芸術大学</a>（図書館・絵画棟・彫刻棟）</p></td>
 <td></td>
 <td><p><a href="../Page/天野太郎.md" title="wikilink">天野太郎</a><br />
-<a href="https://ja.wikipedia.org/wiki/茂木計一郎" title="wikilink">茂木計一郎</a><br />
+<a href="../Page/茂木計一郎.md" title="wikilink">茂木計一郎</a><br />
 <a href="https://ja.wikipedia.org/wiki/平島二郎" title="wikilink">平島二郎</a><br />
 <a href="https://ja.wikipedia.org/wiki/天野吉原設計事務所" title="wikilink">天野吉原設計事務所</a></p></td>
 <td><p>1964年（図書館）<br />

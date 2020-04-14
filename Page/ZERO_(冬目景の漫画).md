@@ -1,4 +1,4 @@
-> この記事は[ZERO \(\)](https://ja.wikipedia.org/wiki/ZERO_\(\))から翻訳されています。
+> この記事は[ZERO \(冬目景の漫画\)](https://ja.wikipedia.org/wiki/ZERO_\(冬目景の漫画\))から翻訳されています。
 
 
 『**ZERO**』（ゼロ）は、[冬目景](../Page/冬目景.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。

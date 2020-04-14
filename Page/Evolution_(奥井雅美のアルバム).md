@@ -1,4 +1,4 @@
-> この記事は[Evolution \(\)](https://ja.wikipedia.org/wiki/Evolution_\(\))から翻訳されています。
+> この記事は[Evolution \(奥井雅美のアルバム\)](https://ja.wikipedia.org/wiki/Evolution_\(奥井雅美のアルバム\))から翻訳されています。
 
 
 『**evolution**』（エヴォリューション）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の12thの[アルバム](../Page/アルバム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")に[evolutionから発売された](https://ja.wikipedia.org/wiki/ドワンゴ・エージー・エンタテインメント "wikilink")。

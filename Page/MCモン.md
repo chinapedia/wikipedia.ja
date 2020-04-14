@@ -1,4 +1,4 @@
-> この記事は[MC](https://ja.wikipedia.org/wiki/MC)から翻訳されています。
+> この記事は[MCモン](https://ja.wikipedia.org/wiki/MCモン)から翻訳されています。
 
 
 **MCモン**（　本名：申東鉉（シン・ドンヒョン）、[1979年](../Page/1979年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")-）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")アーティスト。 1998年HIPHOPグループPeople Crewでデビュー。

@@ -1,4 +1,4 @@
-> この記事は[ELIZA](https://ja.wikipedia.org/wiki/ELIZA)から翻訳されています。
+> この記事は[ELIZA効果](https://ja.wikipedia.org/wiki/ELIZA効果)から翻訳されています。
 
 
 **ELIZA効果**（イライザこうか、）は、意識的にはわかっていても、無意識的に[コンピュータ](../Page/コンピュータ.md "wikilink")の動作が人間と似ていると仮定する傾向を指す。これは、プログラミングの限界の自覚と[プログラムの](../Page/プログラム_\(コンピュータ\).md "wikilink")[出力](https://ja.wikipedia.org/wiki/出力 "wikilink")を生む動作との微妙な[認知的不協和](../Page/認知的不協和.md "wikilink")の結果とされる。ELIZA効果は[人工知能](../Page/人工知能.md "wikilink")研究における重要な発見であり、[チューリングテスト](https://ja.wikipedia.org/wiki/チューリングテスト "wikilink")についてそれまで考えられていたような、言語（文字）を通した会話というだけではなく、人間の認知的性質といったことについても、より眼が向けられるようになった。

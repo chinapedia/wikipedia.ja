@@ -1,4 +1,4 @@
-> この記事は[Prayer \(\)](https://ja.wikipedia.org/wiki/Prayer_\(\))から翻訳されています。
+> この記事は[Prayer \(玉置成実の曲\)](https://ja.wikipedia.org/wiki/Prayer_\(玉置成実の曲\))から翻訳されています。
 
 
 「**Prayer**」（プレイヤー）は、[2003年](../Page/2003年.md "wikilink")[11月12日](../Page/11月12日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")の3枚目のシングル。レーベルは[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。

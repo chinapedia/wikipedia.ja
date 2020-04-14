@@ -28,7 +28,7 @@
       - 作詞：奥井雅美、作曲・編曲：矢吹俊郎
 8.  **[CUTIE](https://ja.wikipedia.org/wiki/CUTIE_\(奥井雅美の曲\) "wikilink")**
       - 作詞：奥井雅美、作曲・編曲：矢吹俊郎
-9.  **[Just do it](https://ja.wikipedia.org/wiki/Just_do_it "wikilink")**
+9.  **[Just do it](https://ja.wikipedia.org/wiki/Just_do_it_\(奥井雅美の曲\) "wikilink")**
       - 作詞：奥井雅美、作曲・編曲：矢吹俊郎
 10. **[空にかける橋](https://ja.wikipedia.org/wiki/空にかける橋 "wikilink")**
       - 作詞・作曲：奥井雅美、編曲：矢吹俊郎

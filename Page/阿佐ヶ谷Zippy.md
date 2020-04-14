@@ -1,4 +1,4 @@
-> この記事は[Zippy](https://ja.wikipedia.org/wiki/Zippy)から翻訳されています。
+> この記事は[阿佐ヶ谷Zippy](https://ja.wikipedia.org/wiki/阿佐ヶ谷Zippy)から翻訳されています。
 
 
 『**阿佐ヶ谷Zippy**』は[岩佐あきらこ](https://ja.wikipedia.org/wiki/岩佐あきらこ "wikilink")作のオカルトコメディ[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")[作品](https://ja.wikipedia.org/wiki/作品 "wikilink")。「[月刊Gファンタジー](../Page/月刊Gファンタジー.md "wikilink")」（[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）刊）にて連載されていた。全11巻。三度の読み切りを経て2001年10月号より連載開始、2007年1月号で最終回を迎えた。2007年6月27日には[ドラマCDが](../Page/ラジオドラマ.md "wikilink")[WAYUTA](https://ja.wikipedia.org/wiki/WAYUTA "wikilink")から発売された。

@@ -1,4 +1,4 @@
-> この記事は[PL](https://ja.wikipedia.org/wiki/PL)から翻訳されています。
+> この記事は[PLランド](https://ja.wikipedia.org/wiki/PLランド)から翻訳されています。
 
 
 **PLランド**（ピーエルランド）は、[大阪府](../Page/大阪府.md "wikilink")[富田林市](https://ja.wikipedia.org/wiki/富田林市 "wikilink")にかつて存在した[遊園地](../Page/遊園地.md "wikilink")。 [パーフェクト リバティー教団](../Page/パーフェクト_リバティー教団.md "wikilink")（PL教団）の広大な敷地内に建設され、同教団のベンチャー企業である[光丘](../Page/光丘.md "wikilink")が経営していた。閉園前の数年間は、「**桜ヶ丘遊園**（さくらがおかゆうえん）」の名称に変更して運営されていた。

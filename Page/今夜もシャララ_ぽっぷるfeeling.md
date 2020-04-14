@@ -1,4 +1,4 @@
-> この記事は[ feeling](https://ja.wikipedia.org/wiki/_feeling)から翻訳されています。
+> この記事は[今夜もシャララ ぽっぷるfeeling](https://ja.wikipedia.org/wiki/今夜もシャララ_ぽっぷるfeeling)から翻訳されています。
 
 
 『**今夜もシャララ ぽっぷるfeeling**』（こんやもシャララ ぽっぷるフィーリング）は、[1982年](../Page/1982年.md "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")から[1984年](../Page/1984年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで[CBCラジオ](../Page/CBCラジオ.md "wikilink")（[中部日本放送](../Page/中部日本放送.md "wikilink")）で平日深夜に放送されていた若者向けの[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRピンクレディー](https://ja.wikipedia.org/wiki/CRピンクレディー)から翻訳されています。
 
 
 **CRピンクレディー**は、[2002年](../Page/2002年.md "wikilink")9月に[大一商会](../Page/大一商会.md "wikilink")が開発、発売した[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。[歌手](../Page/歌手.md "wikilink")の[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")を主人公とした[タイアップ](../Page/タイアップ.md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。同社の『[CR天才バカボン](../Page/CR天才バカボン.md "wikilink")』で人気だったゲーム性を引き継いでおり、当時の大一機種としては『CR天才バカボン』が持っていた自社の売上記録を塗り替えるヒット機となった。また、本機のヒットを受けて、ピンク自身の人気も再上昇し、再々々々結成のきっかけともなった。

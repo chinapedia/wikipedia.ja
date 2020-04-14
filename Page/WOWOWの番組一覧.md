@@ -1,4 +1,4 @@
-> この記事は[WOWOW](https://ja.wikipedia.org/wiki/WOWOW)から翻訳されています。
+> この記事は[WOWOWの番組一覧](https://ja.wikipedia.org/wiki/WOWOWの番組一覧)から翻訳されています。
 
 
 **WOWOWの番組の一覧**は、[WOWOW](../Page/WOWOW.md "wikilink")で編成されている番組についての一覧である。
@@ -304,7 +304,7 @@ WOWOWが収録した素材が民放のワイドショーで流されることも
 
 ## 外部リンク
 
-  - [WOWOW公式サイト](http://www.wowow.co.jp/)
+  - [eプログラムガイド](https://www.wowow.co.jp/dpm/) - WOWOW（PDFによる月間番組表）
 
 [Category:WOWOWのテレビ番組](https://ja.wikipedia.org/wiki/Category:WOWOWのテレビ番組 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
 

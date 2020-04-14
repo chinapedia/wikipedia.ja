@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[かきこみTV](https://ja.wikipedia.org/wiki/かきこみTV)から翻訳されています。
 
 
 『**かきこみTV**』（ -テレビ）は、[NHK教育テレビで放送された投稿型](../Page/NHK教育テレビジョン.md "wikilink")[視聴者参加](https://ja.wikipedia.org/wiki/視聴者参加型番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

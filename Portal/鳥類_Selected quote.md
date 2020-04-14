@@ -1,4 +1,4 @@
-> この記事は[Portal:/Selected quote](https://ja.wikipedia.org/wiki/Portal:/Selected_quote)から翻訳されています。
+> この記事は[Portal:鳥類/Selected quote](https://ja.wikipedia.org/wiki/Portal:鳥類/Selected_quote)から翻訳されています。
 
 
 __TOC__ これは[Portal:鳥類](https://ja.wikipedia.org/wiki/Portal:鳥類 "wikilink")の**特選引用句**のアーカイブです。

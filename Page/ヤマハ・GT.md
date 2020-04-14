@@ -1,4 +1,4 @@
-> この記事は[GT](https://ja.wikipedia.org/wiki/GT)から翻訳されています。
+> この記事は[ヤマハ・GT](https://ja.wikipedia.org/wiki/ヤマハ・GT)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:1972_Yamaha_GT50_in_the_Yamaha_Communication_Plaza.JPG "wikilink") **ヤマハ・GT**（ジーティー）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造していた[オートバイ](../Page/オートバイ.md "wikilink")の車種名。通称は**ミニトレ**。排気量50ccクラスの**GT50**と、同80ccクラスの**GT80**がシリーズ車種として展開された。

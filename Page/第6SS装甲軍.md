@@ -1,4 +1,4 @@
-> この記事は[6SS](https://ja.wikipedia.org/wiki/6SS)から翻訳されています。
+> この記事は[第6SS装甲軍](https://ja.wikipedia.org/wiki/第6SS装甲軍)から翻訳されています。
 
 
 **第6SS装甲軍**は[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の[武装SS](../Page/武装親衛隊.md "wikilink")（[ナチス親衛隊](https://ja.wikipedia.org/wiki/ナチス親衛隊 "wikilink")の戦闘部隊）で編成された最初の装甲軍であり、設立当初は第6装甲軍であり、1945年4月2日にドイツ国防軍から武装SSへ移籍、第6SS装甲軍となった。

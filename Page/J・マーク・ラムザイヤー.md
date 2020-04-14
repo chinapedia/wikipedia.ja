@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[J・マーク・ラムザイヤー](https://ja.wikipedia.org/wiki/J・マーク・ラムザイヤー)から翻訳されています。
 
 
 **ジョン・マーク・ラムザイヤー**（John Mark Ramseyer、 [1954年](../Page/1954年.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[法学者](https://ja.wikipedia.org/wiki/法学者 "wikilink")。[ハーバード・ロー・スクール](../Page/ハーバード・ロー・スクール.md "wikilink")[教授](../Page/教授.md "wikilink")。専門は[日本法](../Page/日本法.md "wikilink")及び[法と経済学](../Page/法と経済学.md "wikilink")。[シカゴ](../Page/シカゴ.md "wikilink")生まれの[宮崎県](../Page/宮崎県.md "wikilink")育ち。

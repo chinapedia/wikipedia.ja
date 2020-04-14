@@ -1,4 +1,4 @@
-> この記事は[CLAMPMINI SOUND TRACK](https://ja.wikipedia.org/wiki/CLAMPMINI_SOUND_TRACK)から翻訳されています。
+> この記事は[「CLAMP学園探偵団」MINI SOUND TRACK](https://ja.wikipedia.org/wiki/「CLAMP学園探偵団」MINI_SOUND_TRACK)から翻訳されています。
 
 
 『**「CLAMP学園探偵団」MINI SOUND TRACK**』（クランプがくえんたんていだん ミニ サウンド トラック）は、サウンドトラックCDである。

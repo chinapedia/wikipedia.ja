@@ -1,4 +1,4 @@
-> この記事は[LOVER](https://ja.wikipedia.org/wiki/LOVER)から翻訳されています。
+> この記事は[大阪LOVER](https://ja.wikipedia.org/wiki/大阪LOVER)から翻訳されています。
 
 
 「**大阪LOVER**」（おおさかラヴァー）は、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")38枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に[NAYUTAWAVE RECORDSよりリリース](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

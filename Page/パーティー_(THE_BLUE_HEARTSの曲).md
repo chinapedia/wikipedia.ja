@@ -1,4 +1,4 @@
-> この記事は[ \(THE BLUE HEARTS\)](https://ja.wikipedia.org/wiki/_\(THE_BLUE_HEARTS\))から翻訳されています。
+> この記事は[パーティー \(THE BLUE HEARTSの曲\)](https://ja.wikipedia.org/wiki/パーティー_\(THE_BLUE_HEARTSの曲\))から翻訳されています。
 
 
 「**パーティー**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE BLUE HEARTSの通算](../Page/THE_BLUE_HEARTS.md "wikilink")16枚目の[シングル](../Page/シングル.md "wikilink")。

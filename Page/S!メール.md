@@ -1,4 +1,4 @@
-> この記事は[S!](https://ja.wikipedia.org/wiki/S!)から翻訳されています。
+> この記事は[S!メール](https://ja.wikipedia.org/wiki/S!メール)から翻訳されています。
 
 
 **S\!メール**（エス！メール）とは、[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")が自社の携帯電話向けに提供する[MMS機能の名称であり](../Page/マルチメディアメッセージングサービス.md "wikilink")、[SoftBank 3G向け](../Page/SoftBank_3G.md "wikilink")[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")に付随するサービスの一つである。

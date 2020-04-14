@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR岐阜駅バスターミナル](https://ja.wikipedia.org/wiki/JR岐阜駅バスターミナル)から翻訳されています。
 
 
 [サムネイルから見下ろす](https://ja.wikipedia.org/wiki/ファイル:JR_Gifu_Station_Bus_Terminal_from_Gifu_City_Tower_43.jpg "wikilink")[JR岐阜駅北口あるJR岐阜駅バスターミナル](https://ja.wikipedia.org/wiki/岐阜駅 "wikilink")（2016年2月）\]\]  **JR岐阜駅バスターミナル**（ジェーアールぎふえきバスターミナル）は、[岐阜駅](https://ja.wikipedia.org/wiki/岐阜駅 "wikilink")北口にある[バスターミナル](../Page/バスターミナル.md "wikilink")である。停留所名は**JR岐阜**であり、「駅」や「ターミナル」の語が付かない。

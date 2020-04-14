@@ -1,4 +1,4 @@
-> この記事は[Love is... \(\)](https://ja.wikipedia.org/wiki/Love_is..._\(\))から翻訳されています。
+> この記事は[Love is... \(河村隆一の曲\)](https://ja.wikipedia.org/wiki/Love_is..._\(河村隆一の曲\))から翻訳されています。
 
 
 『**Love is...**』（ラブ イズ）は[河村隆一](../Page/河村隆一.md "wikilink")の4枚目のシングル。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月15日](../Page/10月15日.md "wikilink")発売。

@@ -1,4 +1,4 @@
-> この記事は[ Heart\&Soul](https://ja.wikipedia.org/wiki/_Heart\&Soul)から翻訳されています。
+> この記事は[大胆にいきましょう ↑Heart\&Soul↑](https://ja.wikipedia.org/wiki/大胆にいきましょう_↑Heart\&Soul↑)から翻訳されています。
 
 
 『**大胆にいきましょう ↑Heart\&Soul↑**』（だいたんにいきましょう ハート アンド ソウル）は、[2004年](../Page/2004年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")に発売された、[玉置成実](../Page/玉置成実.md "wikilink")の5枚目のシングル。レーベルは[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Realize \(\)](https://ja.wikipedia.org/wiki/Realize_\(\))から翻訳されています。
+> この記事は[Realize \(玉置成実の曲\)](https://ja.wikipedia.org/wiki/Realize_\(玉置成実の曲\))から翻訳されています。
 
 
 「**Realize**」（リアライズ）は、[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")の2枚目のシングル。レーベルは[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。

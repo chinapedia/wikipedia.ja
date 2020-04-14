@@ -1,11 +1,11 @@
 > この記事は[Li-Book 2000](https://ja.wikipedia.org/wiki/Li-Book_2000)から翻訳されています。
 
 
-『**Li-Book 2000**』（リブックにせん）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の2nd[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から発売された。
+『**Li-Book 2000**』（リブックにせん）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の2枚目の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から発売された。
 
 ## 概要
 
-  - 前年に発売された『[BEST-EST](../Page/BEST-EST.md "wikilink")』に続くライヴアルバムであり、今作はオリジナルアルバムに収録されている楽曲もある。
+  - 前年に発売された『[BEST-EST](../Page/BEST-EST.md "wikilink")』に続くライブ・アルバムであり、本作はオリジナルアルバムに収録されている楽曲もある。
   - 『BEST-EST』と同じく初回期間限定生産されたので、現在は廃盤になっている。
 
 ## 収録曲
@@ -30,7 +30,7 @@
       - 作詞・作曲：奥井雅美、編曲：[渡辺格](../Page/渡辺格_\(ミュージシャン\).md "wikilink")
 10. **[kiss in the dark](../Page/Do-can.md "wikilink")**
       - 作詞・作曲：奥井雅美、編曲：大平勉
-11. **[Just do it](https://ja.wikipedia.org/wiki/Just_do_it "wikilink")**
+11. **[Just do it](https://ja.wikipedia.org/wiki/Just_do_it_\(奥井雅美の曲\) "wikilink")**
       - 作詞：奥井雅美、作曲・編曲：矢吹俊郎
 12. **[ビタミン 〜ぜったい、そうだ。〜](../Page/Do-can.md "wikilink")**
       - 作詞：奥井雅美、作曲・編曲：矢吹俊郎

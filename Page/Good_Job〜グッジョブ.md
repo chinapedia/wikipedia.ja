@@ -1,4 +1,4 @@
-> この記事は[Good Job](https://ja.wikipedia.org/wiki/Good_Job)から翻訳されています。
+> この記事は[Good Job〜グッジョブ](https://ja.wikipedia.org/wiki/Good_Job〜グッジョブ)から翻訳されています。
 
 
 『**Good Job〜グッジョブ**』は、[かたおかみさお](../Page/かたおかみさお.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、またこれを原作とする[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。

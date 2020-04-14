@@ -1,4 +1,4 @@
-> この記事は[DASH!](https://ja.wikipedia.org/wiki/DASH!)から翻訳されています。
+> この記事は[DASH!ザスパ](https://ja.wikipedia.org/wiki/DASH!ザスパ)から翻訳されています。
 
 
 『**DASH\!ザスパ**\[1\]\[2\]\[3\]』（ダッシュ ザスパ）は、2007年3月8日から2008年12月18日まで[群馬テレビ](../Page/群馬テレビ.md "wikilink")で放送されていた[ザスパ草津関連の](https://ja.wikipedia.org/wiki/ザスパクサツ群馬 "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。放送時間は毎週木曜 22:00 - 22:30、[再放送](../Page/再放送.md "wikilink")は毎週土曜 7:30 - 8:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。

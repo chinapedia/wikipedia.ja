@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[ダンジョンV](https://ja.wikipedia.org/wiki/ダンジョンV)から翻訳されています。
 
 
 『**ダンジョンV**』（ダンジョンブイ）は、[1993年](../Page/1993年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")\[1\]。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 18:30 - 19:00 （[日本標準時](../Page/日本標準時.md "wikilink")）。

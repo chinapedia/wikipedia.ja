@@ -1,4 +1,4 @@
-> この記事は[DEVOTION \(\)](https://ja.wikipedia.org/wiki/DEVOTION_\(\))から翻訳されています。
+> この記事は[DEVOTION \(奥井雅美のアルバム\)](https://ja.wikipedia.org/wiki/DEVOTION_\(奥井雅美のアルバム\))から翻訳されています。
 
 
 『**DEVOTION**』（ディヴォーション）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の7作目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink")に [スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から発売された。

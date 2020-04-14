@@ -1,4 +1,4 @@
-> この記事は[PBSUCCESS](https://ja.wikipedia.org/wiki/PBSUCCESS)から翻訳されています。
+> この記事は[PBSUCCESS作戦](https://ja.wikipedia.org/wiki/PBSUCCESS作戦)から翻訳されています。
 
 
 **PBSUCCESS作戦**（ピービーサクセスさくせん、）とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[中央情報局](../Page/中央情報局.md "wikilink")（CIA）が[1954年](../Page/1954年.md "wikilink")に行った、[グアテマラ](../Page/グアテマラ.md "wikilink")の[ハコボ・アルベンス・グスマン](https://ja.wikipedia.org/wiki/ハコボ・アルベンス・グスマン "wikilink")（）政権に対する転覆作戦である。この作戦が後の[グアテマラ内戦](https://ja.wikipedia.org/wiki/グアテマラ内戦 "wikilink")に繋がった。「」というのは、立案に当たってついた[コードネーム](../Page/コードネーム.md "wikilink")で、[英語版ウィキペディア](../Page/英語版ウィキペディア.md "wikilink")では本項は「1954年グアテマラ[クーデター](../Page/クーデター.md "wikilink")」となっている。

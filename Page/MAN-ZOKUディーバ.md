@@ -1,4 +1,4 @@
-> この記事は[MAN-ZOKU](https://ja.wikipedia.org/wiki/MAN-ZOKU)から翻訳されています。
+> この記事は[MAN-ZOKUディーバ](https://ja.wikipedia.org/wiki/MAN-ZOKUディーバ)から翻訳されています。
 
 
 **MAN-ZOKUディーバ** (マンゾクディーバ、別名:**マンゾクディーバ**/**満足女神**) とは、風俗情報サイト・風俗情報誌「[マンゾクネット](https://ja.wikipedia.org/wiki/マンゾクネット "wikilink")」「MAN-ZOKU」のイメージガールである。

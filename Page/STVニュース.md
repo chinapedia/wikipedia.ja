@@ -1,4 +1,4 @@
-> この記事は[STV](https://ja.wikipedia.org/wiki/STV)から翻訳されています。
+> この記事は[STVニュース](https://ja.wikipedia.org/wiki/STVニュース)から翻訳されています。
 
 
 **STVニュース**（エスティーブイニュース）は、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")で放送される[ニュース番組である](../Page/報道番組.md "wikilink")。

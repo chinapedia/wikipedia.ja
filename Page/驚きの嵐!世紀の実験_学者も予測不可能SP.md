@@ -1,4 +1,4 @@
-> この記事は[! SP](https://ja.wikipedia.org/wiki/!_SP)から翻訳されています。
+> この記事は[驚きの嵐!世紀の実験 学者も予測不可能SP](https://ja.wikipedia.org/wiki/驚きの嵐!世紀の実験_学者も予測不可能SP)から翻訳されています。
 
 
 『**驚きの嵐\!世紀の実験 学者も予測不可能SP**』（おどろきのあらし\!せいきのじっけん がくしゃもよそくふかのうスペシャル）は、[2006年](../Page/2006年.md "wikilink")から[2009年](../Page/2009年.md "wikilink")にかけて、不定期に[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で放送された](../Page/日本テレビネットワーク協議会.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")・[特別番組](../Page/特別番組.md "wikilink")である。アイドルグループ[嵐の冠番組](../Page/嵐_\(グループ\).md "wikilink")。

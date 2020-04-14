@@ -447,7 +447,7 @@
 | **監督**                                                  | **曲名**                                                                                      |
 | [井上哲央](../Page/井上哲央.md "wikilink")                      | 「Brand-new Ground」「Fight for your right」                                                    |
 | [MASAO](https://ja.wikipedia.org/wiki/MASAO "wikilink") | 「DRAGORUM」                                                                                  |
-| [御代川治子](https://ja.wikipedia.org/wiki/御代川治子 "wikilink") | 「[光跡](http://www.indiesmusic.com/musicvideo/video.asp?id=10042)」                            |
+| [御代川治子](https://ja.wikipedia.org/wiki/御代川治子 "wikilink") | 「[光跡](https://www.indiesmusic.com/musicvideo/video.asp?id=10042)」                           |
 | 不明                                                      | 「Break'em out」「24.7〜Super Sonic Shoes」「Friendship Song」「July」「Lucy」「play?」「風に吹かれて」「陽のあたる場所」 |
 |                                                         |                                                                                             |
 

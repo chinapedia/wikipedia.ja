@@ -1,4 +1,4 @@
-> この記事は[KG](https://ja.wikipedia.org/wiki/KG)から翻訳されています。
+> この記事は[KG情報](https://ja.wikipedia.org/wiki/KG情報)から翻訳されています。
 
 
 **株式会社KG情報**（ケージーじょうほう、）は日本の情報・サービス提供会社。主に中国・四国・九州・関東地方で各種情報誌を発行している。[東証ジャスダックに上場し有料職業紹介事業も行っている](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")。
@@ -121,4 +121,4 @@
 
   - [KG情報](https://www.kg-net.co.jp/)
 
-[Category:日本のタウン情報誌](https://ja.wikipedia.org/wiki/Category:日本のタウン情報誌 "wikilink") [Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:岡山市北区の企業](https://ja.wikipedia.org/wiki/Category:岡山市北区の企業 "wikilink") [Category:高松市の企業](https://ja.wikipedia.org/wiki/Category:高松市の企業 "wikilink") [Category:ジャスダック上場企業](https://ja.wikipedia.org/wiki/Category:ジャスダック上場企業 "wikilink") [Category:2004年上場の企業](https://ja.wikipedia.org/wiki/Category:2004年上場の企業 "wikilink") [Category:1980年設立の企業](https://ja.wikipedia.org/wiki/Category:1980年設立の企業 "wikilink") [Category:情報サービス](https://ja.wikipedia.org/wiki/Category:情報サービス "wikilink")
+[Category:日本のタウン情報誌](https://ja.wikipedia.org/wiki/Category:日本のタウン情報誌 "wikilink") [Category:日本の出版社](https://ja.wikipedia.org/wiki/Category:日本の出版社 "wikilink") [Category:岡山市北区の企業](https://ja.wikipedia.org/wiki/Category:岡山市北区の企業 "wikilink") [Category:高松市の企業](https://ja.wikipedia.org/wiki/Category:高松市の企業 "wikilink") [Category:ジャスダック上場企業](https://ja.wikipedia.org/wiki/Category:ジャスダック上場企業 "wikilink") [Category:2004年上場の企業](https://ja.wikipedia.org/wiki/Category:2004年上場の企業 "wikilink") [Category:1980年設立の企業](https://ja.wikipedia.org/wiki/Category:1980年設立の企業 "wikilink") [Category:情報処理・提供サービス業‎](https://ja.wikipedia.org/wiki/Category:情報処理・提供サービス業‎ "wikilink")

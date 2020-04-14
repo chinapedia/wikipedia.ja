@@ -1,4 +1,4 @@
-> この記事は[Dragonfly \(\)](https://ja.wikipedia.org/wiki/Dragonfly_\(\))から翻訳されています。
+> この記事は[Dragonfly \(アルバム\)](https://ja.wikipedia.org/wiki/Dragonfly_\(アルバム\))から翻訳されています。
 
 
 『**Dragonfly**』（ドラゴンフライ）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の10thの[アルバム](../Page/アルバム.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に[evolutionからリリースされた](https://ja.wikipedia.org/wiki/ドワンゴ・エージー・エンタテインメント "wikilink")。

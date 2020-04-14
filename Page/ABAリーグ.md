@@ -1,4 +1,4 @@
-> この記事は[ABA](https://ja.wikipedia.org/wiki/ABA)から翻訳されています。
+> この記事は[ABAリーグ](https://ja.wikipedia.org/wiki/ABAリーグ)から翻訳されています。
 
 
 **アドリアティック・バスケットボール・アソシエーション**（**A**driatic **B**asketball **A**ssociation）リーグ、**ABAリーグ**は[ボスニア・ヘルツェゴビナ](../Page/ボスニア・ヘルツェゴビナ.md "wikilink")、[クロアチア](../Page/クロアチア.md "wikilink")、[モンテネグロ](../Page/モンテネグロ.md "wikilink")、[セルビア](../Page/セルビア.md "wikilink")、[スロベニア](../Page/スロベニア.md "wikilink")のチームで構成されるプロ[バスケットボール](../Page/バスケットボール.md "wikilink")の[独立リーグ](../Page/独立リーグ.md "wikilink")。[2001年](../Page/2001年.md "wikilink")設立。2001年から[2006年](../Page/2006年.md "wikilink")までは、スポンサーに因んで**[グッドイヤー](../Page/グッドイヤー.md "wikilink")・リーガ**、2006年から[2011年](../Page/2011年.md "wikilink")までは、[新リュブリャナ銀行](https://ja.wikipedia.org/wiki/新リュブリャナ銀行 "wikilink")（NLB）に因んで**NLBリーグ**と呼ばれていた。シーズンは12チームが参加している。

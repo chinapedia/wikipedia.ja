@@ -1,4 +1,4 @@
-> この記事は[:13Vendmiaire.jpg](https://ja.wikipedia.org/wiki/:13Vendmiaire.jpg)から翻訳されています。
+> この記事は[ファイル:13Vendémiaire.jpg](https://ja.wikipedia.org/wiki/ファイル:13Vendémiaire.jpg)から翻訳されています。
 
 
 ## Summary

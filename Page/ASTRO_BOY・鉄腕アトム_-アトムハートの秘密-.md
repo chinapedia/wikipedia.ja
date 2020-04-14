@@ -1,4 +1,4 @@
-> この記事は[ASTRO BOY --](https://ja.wikipedia.org/wiki/ASTRO_BOY_--)から翻訳されています。
+> この記事は[ASTRO BOY・鉄腕アトム -アトムハートの秘密-](https://ja.wikipedia.org/wiki/ASTRO_BOY・鉄腕アトム_-アトムハートの秘密-)から翻訳されています。
 
 
 『**ASTRO BOY・鉄腕アトム -アトムハートの秘密-**』は、[トレジャー](../Page/トレジャー.md "wikilink")が開発、セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から[2003年](../Page/2003年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")に発売された[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")専用の[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。

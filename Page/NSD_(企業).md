@@ -1,4 +1,4 @@
-> この記事は[NSD \(\)](https://ja.wikipedia.org/wiki/NSD_\(\))から翻訳されています。
+> この記事は[NSD \(企業\)](https://ja.wikipedia.org/wiki/NSD_\(企業\))から翻訳されています。
 
 
 **株式会社NSD**（エヌエスディー）は、日本の[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")（[独立系](https://ja.wikipedia.org/wiki/ISV "wikilink")）。[東京証券取引所](../Page/東京証券取引所.md "wikilink")第一部上場。

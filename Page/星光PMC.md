@@ -1,4 +1,4 @@
-> この記事は[PMC](https://ja.wikipedia.org/wiki/PMC)から翻訳されています。
+> この記事は[星光PMC](https://ja.wikipedia.org/wiki/星光PMC)から翻訳されています。
 
 
 **星光PMC株式会社**（せいこうピーエムシー、*Seiko PMC Corporation*）は、日本の化学メーカー。[DICの子会社](../Page/DIC_\(企業\).md "wikilink")。
@@ -43,6 +43,10 @@
   - 静岡工場 - [静岡県](../Page/静岡県.md "wikilink")[富士宮市](../Page/富士宮市.md "wikilink")
   - 播磨工場 - [兵庫県](../Page/兵庫県.md "wikilink")[播磨町](../Page/播磨町.md "wikilink")
   - 水島工場 - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[倉敷市](../Page/倉敷市.md "wikilink")
+
+## 受賞
+
+  - 2020年 第2回[日本オープンイノベーション大賞](https://ja.wikipedia.org/wiki/日本オープンイノベーション大賞 "wikilink") 選考委員会特別賞
 
 ## 脚注
 

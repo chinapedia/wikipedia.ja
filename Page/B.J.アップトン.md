@@ -1,4 +1,4 @@
-> この記事は[B.J.](https://ja.wikipedia.org/wiki/B.J.)から翻訳されています。
+> この記事は[B.J.アップトン](https://ja.wikipedia.org/wiki/B.J.アップトン)から翻訳されています。
 
 
 **B.J.アップトン**（B.J. Upton）こと**メルビン・エマニュエル・アップトン**（**Melvin Emanuel Upton**, [1984年](../Page/1984年.md "wikilink")[8月21日](../Page/8月21日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[バージニア州](../Page/バージニア州.md "wikilink")[ノーフォーク出身の元](../Page/ノーフォーク_\(バージニア州\).md "wikilink")[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[外野手](../Page/外野手.md "wikilink")）。右投右打。

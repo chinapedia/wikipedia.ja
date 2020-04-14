@@ -1,4 +1,4 @@
-> この記事は[ \(THE BLUE HEARTS\)](https://ja.wikipedia.org/wiki/_\(THE_BLUE_HEARTS\))から翻訳されています。
+> この記事は[ラブレター \(THE BLUE HEARTSの曲\)](https://ja.wikipedia.org/wiki/ラブレター_\(THE_BLUE_HEARTSの曲\))から翻訳されています。
 
 
 「**ラブレター**」は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE BLUE HEARTSの通算](../Page/THE_BLUE_HEARTS.md "wikilink")7枚目の[シングル](../Page/シングル.md "wikilink")。

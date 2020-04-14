@@ -1,4 +1,4 @@
-> この記事は[Shining Star ](https://ja.wikipedia.org/wiki/Shining_Star_)から翻訳されています。
+> この記事は[Shining Star ☆忘れないから☆](https://ja.wikipedia.org/wiki/Shining_Star_☆忘れないから☆)から翻訳されています。
 
 
 「**Shining Star☆忘れないから☆**」（シャイニング スター わすれないから）は、[玉置成実](../Page/玉置成実.md "wikilink")の4枚目のシングルで、[2004年](../Page/2004年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")に[レーベルゲートCD2](../Page/コピーコントロールCD.md "wikilink")（SRCL 5628）として発売された。後に[CDDA](https://ja.wikipedia.org/wiki/CDDA "wikilink")として「SRCL 6100」が再発と同時にSRCL 5628の流通を停止。レーベルは[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。

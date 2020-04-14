@@ -1,4 +1,4 @@
-> この記事は[Portal:/Nominations](https://ja.wikipedia.org/wiki/Portal:/Nominations)から翻訳されています。
+> この記事は[Portal:鳥類/Nominations](https://ja.wikipedia.org/wiki/Portal:鳥類/Nominations)から翻訳されています。
 
 
 <table>

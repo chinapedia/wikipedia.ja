@@ -1,4 +1,4 @@
-> この記事は[DTS \(\)](https://ja.wikipedia.org/wiki/DTS_\(\))から翻訳されています。
+> この記事は[DTS \(情報システム\)](https://ja.wikipedia.org/wiki/DTS_\(情報システム\))から翻訳されています。
 
 
 **株式会社DTS**（ディーティーエス、）は、 [東京都](../Page/東京都.md "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、独立系のシステムインテグレーターである。金融・通信向けの開発実績や強みを持っている。[東京証券取引所](../Page/東京証券取引所.md "wikilink")第一部上場（証券コード:9682）。

@@ -1,4 +1,4 @@
-> この記事は[Wii](https://ja.wikipedia.org/wiki/Wii)から翻訳されています。
+> この記事は[Wii伝言板](https://ja.wikipedia.org/wiki/Wii伝言板)から翻訳されています。
 
 
 **Wii伝言板**（ウィーでんごんばん）とは、[任天堂](../Page/任天堂.md "wikilink")より発売されている家庭用ゲーム機[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の機能の一つ。ゲーム内の成績や、ユーザー作成のテキストメッセージ等を記録する事が出来る。

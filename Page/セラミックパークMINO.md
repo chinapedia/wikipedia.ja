@@ -1,4 +1,4 @@
-> この記事は[MINO](https://ja.wikipedia.org/wiki/MINO)から翻訳されています。
+> この記事は[セラミックパークMINO](https://ja.wikipedia.org/wiki/セラミックパークMINO)から翻訳されています。
 
 
 **セラミックパークMINO**（セラミックパークミノ、*Ceramics Park MINO*）は、[岐阜県](../Page/岐阜県.md "wikilink")[多治見市](../Page/多治見市.md "wikilink")にある[美術館](../Page/美術館.md "wikilink")、イベントホール、国際会議場などで構成される複合施設。

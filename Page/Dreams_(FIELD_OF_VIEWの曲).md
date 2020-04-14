@@ -1,4 +1,4 @@
-> この記事は[Dreams \(FIELD OF VIEW\)](https://ja.wikipedia.org/wiki/Dreams_\(FIELD_OF_VIEW\))から翻訳されています。
+> この記事は[Dreams \(FIELD OF VIEWの曲\)](https://ja.wikipedia.org/wiki/Dreams_\(FIELD_OF_VIEWの曲\))から翻訳されています。
 
 
 『**Dreams**』（ドリームズ）は[FIELD OF VIEWの](../Page/FIELD_OF_VIEW.md "wikilink")6thシングル。

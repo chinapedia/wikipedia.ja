@@ -1,17 +1,17 @@
 > この記事は[NEEI](https://ja.wikipedia.org/wiki/NEEI)から翻訳されています。
 
 
-『**NEEI**』（ネエイ）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の6th[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から発売された。
+『**NEEI**』（ネエイ）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の6枚目[アルバム](../Page/アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")に[スターチャイルド](../Page/スターチャイルド.md "wikilink")（[キングレコード](../Page/キングレコード.md "wikilink")）から発売された。
 
 ## 概要
 
   - タイトルの由来を詳しくは語られていないが、人の名を呼ぶ前に使う「ねえ」が語源とされている。
-  - 前作「[Her-Day](../Page/Her-Day.md "wikilink")」はプロデューサーの矢吹がほとんどの楽曲で作曲・編曲・サウンドを手掛けていたが、今作では打って変わって前々作「Do-can」と同じく海外ミュージシャンを起用して、[TOTOのボーカル](../Page/TOTO_\(バンド\).md "wikilink")・ギターの[スティーヴ・ルカサー](../Page/スティーヴ・ルカサー.md "wikilink")や、[Mr.Big](https://ja.wikipedia.org/wiki/Mr.Big "wikilink")のベーシストの[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")が参加している。
+  - 前作『[Her-Day](../Page/Her-Day.md "wikilink")』はプロデューサーの矢吹がほとんどの楽曲で作曲・編曲・サウンドを手掛けていたが、本作では打って変わって前々作『Do-can』と同じく海外ミュージシャンを起用して、[TOTOのボーカル](../Page/TOTO_\(バンド\).md "wikilink")・ギターの[スティーヴ・ルカサー](../Page/スティーヴ・ルカサー.md "wikilink")や、[Mr.Big](https://ja.wikipedia.org/wiki/Mr.Big "wikilink")のベーシストの[ビリー・シーン](../Page/ビリー・シーン.md "wikilink")が参加している。
   - 前作とは異なり、打ち込みに頼らない楽曲制作にシフトしたことで多くのミュージシャンが参加したが、奥井と矢吹の楽曲や制作に対する溝は解消されなかった。
 
 ## 収録曲
 
-1.  **[Just do it](https://ja.wikipedia.org/wiki/Just_do_it "wikilink")（NEEI mix）**
+1.  **[Just do it](https://ja.wikipedia.org/wiki/Just_do_it_\(奥井雅美の曲\) "wikilink")（NEEI mix）**
       - [作詞](../Page/作詞.md "wikilink")：奥井雅美、作曲・編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
 2.  **M.M FAMILY**
       - 作詞：奥井雅美、作曲：矢吹俊郎、編曲：山田正人・矢吹俊郎

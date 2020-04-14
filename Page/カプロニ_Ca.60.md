@@ -1,4 +1,4 @@
-> この記事は[ Ca.60](https://ja.wikipedia.org/wiki/_Ca.60)から翻訳されています。
+> この記事は[カプロニ Ca.60](https://ja.wikipedia.org/wiki/カプロニ_Ca.60)から翻訳されています。
 
 
 [CaproniCa.60.jpg](https://ja.wikipedia.org/wiki/File:CaproniCa.60.jpg "fig:CaproniCa.60.jpg") **カプロニ Ca.60 トランスアエロ** (Caproni Ca.60 Transaereo) は、100名の乗客を乗せて[大西洋横断飛行](../Page/大西洋横断飛行.md "wikilink")を横断する計画の下に、[イタリア](../Page/イタリア.md "wikilink")の[カプロニ](https://ja.wikipedia.org/wiki/カプロニ "wikilink")社によって製造された9枚の主翼を持つ試作[飛行艇](../Page/飛行艇.md "wikilink")。8基のエンジンと、三葉で3セットある主翼が特徴。機体の安定性を保つために、両脇に[フロート](https://ja.wikipedia.org/wiki/フロート "wikilink")が取り付けられている。前後三列に三葉の主翼を持つ世界で唯一の機体である。

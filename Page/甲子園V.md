@@ -1,4 +1,4 @@
-> この記事は[V](https://ja.wikipedia.org/wiki/V)から翻訳されています。
+> この記事は[甲子園V](https://ja.wikipedia.org/wiki/甲子園V)から翻訳されています。
 
 
 [甲子園 (ゲーム)](../Page/甲子園_\(ゲーム\).md "wikilink") \> 甲子園V

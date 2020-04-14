@@ -1,4 +1,4 @@
-> この記事は[PML](https://ja.wikipedia.org/wiki/PML)から翻訳されています。
+> この記事は[地震PML](https://ja.wikipedia.org/wiki/地震PML)から翻訳されています。
 
 
 **地震PML**（じしんPML）とは、[地震](../Page/地震.md "wikilink")による予想最大損失額（PML = Probable Maximum Loss）のこと。

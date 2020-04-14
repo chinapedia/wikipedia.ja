@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[究極タイガーII](https://ja.wikipedia.org/wiki/究極タイガーII)から翻訳されています。
 
 
 『**究極タイガーII**』（きゅうきょくタイガーツー、**Twin Cobra II**）は、[タクミコーポレーション](../Page/タクミコーポレーション.md "wikilink")が開発し、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にリリースされた[アーケード用縦スクロール](../Page/アーケードゲーム.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")\[1\]\[2\]。

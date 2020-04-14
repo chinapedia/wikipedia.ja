@@ -1,7 +1,7 @@
 > この記事は[Favicon](https://ja.wikipedia.org/wiki/Favicon)から翻訳されています。
 
 
-[thumbの左側にある](https://ja.wikipedia.org/wiki/ファイル:Favicon.png "wikilink")、Wの画像がfaviconである。\]\] **favicon**（ファビコン）は、[ウェブサイト](../Page/ウェブサイト.md "wikilink")のシンボルマーク・イメージとして、ウェブサイト運営者がウェブサイトやウェブページに配置する[アイコン](../Page/アイコン.md "wikilink")の俗称である。favorite icon（フェイバリット・アイコン：お気に入りアイコン）という[英語](../Page/英語.md "wikilink")の語句を縮約したものである。
+[thumbの左側にある](https://ja.wikipedia.org/wiki/ファイル:Favicon.png "wikilink")、Wの画像がfaviconである。\]\] **favicon**（ファビコン）は、[ウェブサイト](../Page/ウェブサイト.md "wikilink")のシンボルマーク・イメージとして、ウェブサイト運営者がウェブサイトやウェブページに配置する[アイコン](../Page/アイコン.md "wikilink")の俗称である。favorite icon（フェイバリット・アイコン：お気に入りアイコン）という[英語](../Page/英語.md "wikilink")の語句を縮約した[かばん語](../Page/かばん語.md "wikilink")である。
 
 ## 概要
 

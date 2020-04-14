@@ -1,4 +1,4 @@
-> この記事は[ HOLIDAY TV](https://ja.wikipedia.org/wiki/_HOLIDAY_TV)から翻訳されています。
+> この記事は[神言基地 〜HOLIDAY TV〜](https://ja.wikipedia.org/wiki/神言基地_〜HOLIDAY_TV〜)から翻訳されています。
 
 
 『**神言基地 〜HOLIDAY TV〜**』（しんげんきち ホリデイティービー）は、[テレビ大阪](../Page/テレビ大阪.md "wikilink")と[テレビ和歌山](https://ja.wikipedia.org/wiki/テレビ和歌山 "wikilink")で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")である。テレビ大阪では[2006年](../Page/2006年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")まで放送。

@@ -1,4 +1,4 @@
-> この記事は[MRI](https://ja.wikipedia.org/wiki/MRI)から翻訳されています。
+> この記事は[四肢専用MRI](https://ja.wikipedia.org/wiki/四肢専用MRI)から翻訳されています。
 
 
 **四肢専用MRI**（ししせんようMRI）は小型の[MRIである](../Page/核磁気共鳴画像法.md "wikilink")。

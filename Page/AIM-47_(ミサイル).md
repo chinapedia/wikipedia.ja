@@ -1,4 +1,4 @@
-> この記事は[AIM-47 \(\)](https://ja.wikipedia.org/wiki/AIM-47_\(\))から翻訳されています。
+> この記事は[AIM-47 \(ミサイル\)](https://ja.wikipedia.org/wiki/AIM-47_\(ミサイル\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=AIM-47 ファルコン | 画像=Image:AIM-47.jpg | キャプション=YF-12の兵器倉に搭載されようとしているAIM-47 | 用途=対空迎撃 | 分類=[空対空ミサイル](../Page/空対空ミサイル.md "wikilink") | 設計者= | 製造者=[ヒューズ](https://ja.wikipedia.org/wiki/ヒューズ・エアクラフト "wikilink") | 運用者 = [アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（[アメリカ空軍](https://ja.wikipedia.org/wiki/アメリカ空軍 "wikilink")） | 初飛行年月日=[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[8月](../Page/8月.md "wikilink")（地上発射） | 生産数=80発 | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=量産前生産で終了 | ユニットコスト= }}

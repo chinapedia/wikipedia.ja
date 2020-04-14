@@ -1,4 +1,4 @@
-> この記事は[ \(THE BLUE HEARTS\)](https://ja.wikipedia.org/wiki/_\(THE_BLUE_HEARTS\))から翻訳されています。
+> この記事は[夕暮れ \(THE BLUE HEARTSの曲\)](https://ja.wikipedia.org/wiki/夕暮れ_\(THE_BLUE_HEARTSの曲\))から翻訳されています。
 
 
 「**夕暮れ**」（ゆうぐれ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[THE BLUE HEARTSの通算](../Page/THE_BLUE_HEARTS.md "wikilink")17枚目となる最後の[シングル](../Page/シングル.md "wikilink")。
@@ -11,7 +11,7 @@
     （作詞・作曲: [甲本ヒロト](../Page/甲本ヒロト.md "wikilink")）
       -
         [沢知恵](../Page/沢知恵.md "wikilink")がカバーし、マキシシングル「小さな恋のうた」アルバム『いいうたいろいろ2』『シンガー』に収録されている。
-        ライブでのイントロとは大幅に異なる。
+        ミューッジックビデオ、ライブでのイントロとは大幅に異なる。
 2.  **すてごま（Live version）**
     （作詞・作曲: 甲本ヒロト）
       -

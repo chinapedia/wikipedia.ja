@@ -1,4 +1,4 @@
-> この記事は[EX](https://ja.wikipedia.org/wiki/EX)から翻訳されています。
+> この記事は[ワールドスタジアムEX](https://ja.wikipedia.org/wiki/ワールドスタジアムEX)から翻訳されています。
 
 
 『**ワールドスタジアムEX**』*(WORLD STADIUM EX)* はナムコ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) より発売された[PlayStation用の野球ゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")。同社の人気シリーズである[ファミスタ](https://ja.wikipedia.org/wiki/ファミスタ "wikilink")、[ワースタシリーズの流れを汲む作品](../Page/プロ野球ワールドスタジアム.md "wikilink")。ナムコの野球ゲーム初のPlayStationソフトで、数々の新要素が搭載された。

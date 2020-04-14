@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK文化センター](https://ja.wikipedia.org/wiki/NHK文化センター)から翻訳されています。
 
 
 **株式会社エヌエイチケイ文化センター**（**NHK文化センター**、エヌエイチケイぶんかセンター）は、[NHKの関連会社](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。主要事業は「[カルチャー講座の企画](../Page/カルチャーセンター.md "wikilink")、運営」\[1\]である。他のカルチャーセンターと異なる点は、NHKの関連会社であることから、NHKの放送と連携して行われる講座も少なくない点である。また、NHKを退職した[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")や現役のアナウンサーが、[日本語](../Page/日本語.md "wikilink")や会話・朗読に関する講座を行うことも特徴のひとつである。

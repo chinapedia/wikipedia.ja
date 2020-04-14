@@ -1,4 +1,4 @@
-> この記事は[BoA THE LIVE 2006 --](https://ja.wikipedia.org/wiki/BoA_THE_LIVE_2006_--)から翻訳されています。
+> この記事は[BoA THE LIVE 2006 -裏ボア…聴かせ系-](https://ja.wikipedia.org/wiki/BoA_THE_LIVE_2006_-裏ボア…聴かせ系-)から翻訳されています。
 
 
 **BoA THE LIVE 2006 -裏ボア…聴かせ系-**（ボア・ザ・ライブ2006 うらボア きかせけい）は、2006年に開催された[韓国出身の女性歌手である](../Page/大韓民国.md "wikilink")[BoA](../Page/BoA.md "wikilink")のライブツアーである。ここでは、同ライブツアー終了後に開催された**「BoA THE LIVE 2006“20th Birthday”」**及び**「SHIDAX presents“Winter Love”X'mas LIVE」**についても記述する。

@@ -1,4 +1,4 @@
-> この記事は[S.F](https://ja.wikipedia.org/wiki/S.F)から翻訳されています。
+> この記事は[創雅都市S.F](https://ja.wikipedia.org/wiki/創雅都市S.F)から翻訳されています。
 
 
 『**創雅都市S.F**』（そうがとしサンフランシスコ）は『[都市シリーズ](../Page/都市シリーズ.md "wikilink")』の作品。[川上稔](../Page/川上稔.md "wikilink")と[さとやす](https://ja.wikipedia.org/wiki/さとやす "wikilink")の共著である。

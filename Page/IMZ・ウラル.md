@@ -1,4 +1,4 @@
-> この記事は[IMZ](https://ja.wikipedia.org/wiki/IMZ)から翻訳されています。
+> この記事は[IMZ・ウラル](https://ja.wikipedia.org/wiki/IMZ・ウラル)から翻訳されています。
 
 
 **IMZ・ウラル**(, )は、[ロシア](../Page/ロシア.md "wikilink")のIMZ社が製造している[オートバイ](../Page/オートバイ.md "wikilink")および[サイドカー](../Page/サイドカー.md "wikilink")のブランドである。

@@ -1,4 +1,4 @@
-> この記事は[Cue!!](https://ja.wikipedia.org/wiki/Cue!!)から翻訳されています。
+> この記事は[うさぎちゃんでCue!!](https://ja.wikipedia.org/wiki/うさぎちゃんでCue!!)から翻訳されています。
 
 
 『**うさぎちゃんでCue \!\!**』（うさぎちゃんでキュー）は、[佐野タカシ](../Page/佐野タカシ.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびそれを原作とした[アニメ](../Page/アニメ.md "wikilink")。[ヤングキングアワーズ](../Page/ヤングキングアワーズ.md "wikilink")（[少年画報社](../Page/少年画報社.md "wikilink")）で連載された。

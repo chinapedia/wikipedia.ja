@@ -1,4 +1,4 @@
-> この記事は[Portal:/new articles](https://ja.wikipedia.org/wiki/Portal:/new_articles)から翻訳されています。
+> この記事は[Portal:鳥類/new articles](https://ja.wikipedia.org/wiki/Portal:鳥類/new_articles)から翻訳されています。
 
 
 #### 新着項目

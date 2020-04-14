@@ -1,14 +1,6 @@
 > この記事は[KENNEDY](https://ja.wikipedia.org/wiki/KENNEDY)から翻訳されています。
 
 
-**KENNEDY**
-
-1.  **KENNEDY**は1980年代に活動した日本の[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")バンド。後述。
-2.  [ケネディ](../Page/ケネディ.md "wikilink")（Kennedy）はアイルランド系の姓。[曖昧さ回避のページへ](../Page/ケネディ.md "wikilink")。
-3.  かつて存在した[ステーキ](../Page/ステーキ.md "wikilink")店チェーン。[ステークス (ステーキ店)を参照](https://ja.wikipedia.org/wiki/ステークス_\(ステーキ店\) "wikilink")。
-
------
-
 **KENNEDY**（ケネディ）は1985年に[泉陸奥彦](../Page/泉陸奥彦.md "wikilink")を中心に結成された、[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")バンドである。
 
 ## 歴史

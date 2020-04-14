@@ -1,4 +1,4 @@
-> この記事は[ for ](https://ja.wikipedia.org/wiki/_for_)から翻訳されています。
+> この記事は[でじこのへや for ウィンターガーデン](https://ja.wikipedia.org/wiki/でじこのへや_for_ウィンターガーデン)から翻訳されています。
 
 
 **でじこのへや for ウィンターガーデン**は[2007年](../Page/2007年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")から[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")まで隔週[金曜日](../Page/金曜日.md "wikilink")に[音泉](../Page/音泉.md "wikilink")&[BEWE](../Page/BEWE.md "wikilink")で配信された全4回の短期放送。

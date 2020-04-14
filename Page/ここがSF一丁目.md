@@ -1,4 +1,4 @@
-> この記事は[SF](https://ja.wikipedia.org/wiki/SF)から翻訳されています。
+> この記事は[ここがSF一丁目](https://ja.wikipedia.org/wiki/ここがSF一丁目)から翻訳されています。
 
 
 **ここがSF一丁目**（ - えすえふいっちょうめ）は、[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送されていた夜の若者向けワイド[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")10月から[1988年](../Page/1988年.md "wikilink")9月まで放送されていた。

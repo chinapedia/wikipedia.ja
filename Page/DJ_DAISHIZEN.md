@@ -160,6 +160,6 @@
 
   - [TWITTER](https://twitter.com/daishizen) TWITTERアカウント
   - [DJ大自然の大辞典](http://dj-daishizen.blog.jp/) ブログ
-  - [DJ大自然の大辞典](http://ameblo.jp/djdaishizen/) 旧ブログ
+  - [DJ大自然の大辞典](https://ameblo.jp/djdaishizen/) 旧ブログ
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:マニピュレーター](https://ja.wikipedia.org/wiki/Category:マニピュレーター "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink")

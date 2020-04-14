@@ -1,4 +1,4 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[DJクオールズ](https://ja.wikipedia.org/wiki/DJクオールズ)から翻訳されています。
 
 
 **ドナルド・ジョセフ・クオールズ**（**Donald Joseph Qualls**,[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[6月12日](../Page/6月12日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[テネシー州](../Page/テネシー州.md "wikilink")[ナッシュビル](https://ja.wikipedia.org/wiki/ナッシュビル "wikilink")出身の[俳優](../Page/俳優.md "wikilink")である。

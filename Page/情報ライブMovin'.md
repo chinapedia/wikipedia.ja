@@ -1,4 +1,4 @@
-> この記事は[Movin\'](https://ja.wikipedia.org/wiki/Movin\')から翻訳されています。
+> この記事は[情報ライブMovin\'](https://ja.wikipedia.org/wiki/情報ライブMovin\')から翻訳されています。
 
 
 『**情報ライブMovin**'』（じょうほうライブムービン）は、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")まで[仙台放送](../Page/仙台放送.md "wikilink")で放送されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")。

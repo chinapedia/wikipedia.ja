@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[特捜TV!ガブリンチョ](https://ja.wikipedia.org/wiki/特捜TV!ガブリンチョ)から翻訳されています。
 
 
 『**特捜TV\!ガブリンチョ**』（とくそうテレビ ガブリンチョ）は、[1996年](../Page/1996年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")まで、[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送された[番組宣伝](../Page/番組宣伝.md "wikilink")を兼ねた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

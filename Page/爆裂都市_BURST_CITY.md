@@ -1,4 +1,4 @@
-> この記事は[ BURST CITY](https://ja.wikipedia.org/wiki/_BURST_CITY)から翻訳されています。
+> この記事は[爆裂都市 BURST CITY](https://ja.wikipedia.org/wiki/爆裂都市_BURST_CITY)から翻訳されています。
 
 
 『**爆裂都市 BURST CITY**』（ばくれつとし バースト・シティ）は、[1982年](../Page/1982年.md "wikilink")に公開された[日本の](../Page/日本映画.md "wikilink")[SFアクション映画](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[Portal:/Selected bird](https://ja.wikipedia.org/wiki/Portal:/Selected_bird)から翻訳されています。
+> この記事は[Portal:鳥類/Selected bird](https://ja.wikipedia.org/wiki/Portal:鳥類/Selected_bird)から翻訳されています。
 
 
 __TOC__ これは[Portal:鳥類](https://ja.wikipedia.org/wiki/Portal:鳥類 "wikilink")の**鳥ピックアップ**のアーカイブです。

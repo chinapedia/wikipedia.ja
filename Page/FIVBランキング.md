@@ -1,4 +1,4 @@
-> この記事は[FIVB](https://ja.wikipedia.org/wiki/FIVB)から翻訳されています。
+> この記事は[FIVBランキング](https://ja.wikipedia.org/wiki/FIVBランキング)から翻訳されています。
 
 
 **FIVBランキング**（英語表記: **FIVB World Ranking**）は、[国際バレーボール連盟](../Page/国際バレーボール連盟.md "wikilink")（FIVB）より発表されるランキングである。

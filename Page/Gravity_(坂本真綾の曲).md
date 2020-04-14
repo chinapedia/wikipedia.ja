@@ -1,4 +1,4 @@
-> この記事は[Gravity \(\)](https://ja.wikipedia.org/wiki/Gravity_\(\))から翻訳されています。
+> この記事は[Gravity \(坂本真綾の曲\)](https://ja.wikipedia.org/wiki/Gravity_\(坂本真綾の曲\))から翻訳されています。
 
 
 「**gravity**」（グラビティー）は、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")の10作目の[シングル](../Page/シングル.md "wikilink")。

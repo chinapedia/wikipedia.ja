@@ -1,4 +1,4 @@
-> この記事は[Portal:/Selected picture](https://ja.wikipedia.org/wiki/Portal:/Selected_picture)から翻訳されています。
+> この記事は[Portal:鳥類/Selected picture](https://ja.wikipedia.org/wiki/Portal:鳥類/Selected_picture)から翻訳されています。
 
 
 __TOC__

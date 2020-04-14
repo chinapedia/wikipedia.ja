@@ -1,4 +1,4 @@
-> この記事は[Believe \(\)](https://ja.wikipedia.org/wiki/Believe_\(\))から翻訳されています。
+> この記事は[Believe \(玉置成実の曲\)](https://ja.wikipedia.org/wiki/Believe_\(玉置成実の曲\))から翻訳されています。
 
 
 「**Believe**」（ビリーヴ）は、[2003年](../Page/2003年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")のデビューシングル。レーベルは[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。

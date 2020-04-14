@@ -1,4 +1,4 @@
-> この記事は[BATT \(\)](https://ja.wikipedia.org/wiki/BATT_\(\))から翻訳されています。
+> この記事は[BATT \(プロレス\)](https://ja.wikipedia.org/wiki/BATT_\(プロレス\))から翻訳されています。
 
 
 **BATT**（バット）は、複数の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")の所属選手によって形成された[ユニット](../Page/ユニット.md "wikilink")。

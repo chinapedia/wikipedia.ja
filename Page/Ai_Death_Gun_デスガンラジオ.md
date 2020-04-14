@@ -1,4 +1,4 @@
-> この記事は[Ai Death Gun ](https://ja.wikipedia.org/wiki/Ai_Death_Gun_)から翻訳されています。
+> この記事は[Ai Death Gun デスガンラジオ](https://ja.wikipedia.org/wiki/Ai_Death_Gun_デスガンラジオ)から翻訳されています。
 
 
 **Ai Death Gun デスガンラジオ**（アイデス・ガン デスガンラジオ）は、[音泉](../Page/音泉.md "wikilink")、[BEWE](../Page/BEWE.md "wikilink")及び[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")で配信されている[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")[番組](../Page/ラジオ番組.md "wikilink")。

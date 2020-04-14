@@ -1,4 +1,4 @@
-> この記事は[CB400SS](https://ja.wikipedia.org/wiki/CB400SS)から翻訳されています。
+> この記事は[ホンダ・CB400SS](https://ja.wikipedia.org/wiki/ホンダ・CB400SS)から翻訳されています。
 
 
 **CB400SS**（シービーよんひゃくエスエス）は[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて製造販売した[オートバイ](../Page/オートバイ.md "wikilink")である。

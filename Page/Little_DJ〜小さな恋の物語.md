@@ -1,4 +1,4 @@
-> この記事は[Little DJ](https://ja.wikipedia.org/wiki/Little_DJ)から翻訳されています。
+> この記事は[Little DJ〜小さな恋の物語](https://ja.wikipedia.org/wiki/Little_DJ〜小さな恋の物語)から翻訳されています。
 
 
 『**Little DJ〜小さな恋の物語**』（リトル・ディージェー ちいさなこいのものがたり）は、[2007年](../Page/2007年.md "wikilink")に発刊された[鬼塚忠](../Page/鬼塚忠.md "wikilink")の小説（[ポプラ社](../Page/ポプラ社.md "wikilink")刊）、およびこれを原作とした映画。
@@ -18,7 +18,7 @@
   - 高野太郎（12歳、中学1年生）：[神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")
   - 海乃たまき（13歳、中学2年生）：[福田麻由子](../Page/福田麻由子.md "wikilink")
   - 高崎太郎（太郎の主治医、通称・若先生）：佐藤重幸（現･[戸次重幸](../Page/戸次重幸.md "wikilink")）
-  - 海乃たまき（29歳、ラジオ局のプロデューサー）：[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")
+  - 海乃たまき（29歳、ラジオ局のディレクター）：[広末涼子](https://ja.wikipedia.org/wiki/広末涼子 "wikilink")
   - 西村かなえ（28歳、太郎の叔母、看護婦）：[村川絵梨](../Page/村川絵梨.md "wikilink")
   - 中村捨次（太郎と同室の入院患者）：[松重豊](../Page/松重豊.md "wikilink")
   - 結城道夫（太郎と同室の入院患者）：[光石研](../Page/光石研.md "wikilink")
@@ -103,6 +103,7 @@
 
   - [ポプラビーチ 小説「Little DJ」](http://www.poplarbeech.com/book/index313.html)
 
+  -
   -
   -
 [Category:2007年の小説](https://ja.wikipedia.org/wiki/Category:2007年の小説 "wikilink") [Category:日本の小説](https://ja.wikipedia.org/wiki/Category:日本の小説 "wikilink") [Category:横須賀市を舞台とした小説](https://ja.wikipedia.org/wiki/Category:横須賀市を舞台とした小説 "wikilink") [Category:医療機関を舞台とした小説](https://ja.wikipedia.org/wiki/Category:医療機関を舞台とした小説 "wikilink") [Category:2007年の映画](https://ja.wikipedia.org/wiki/Category:2007年の映画 "wikilink") [Category:日本の恋愛映画](https://ja.wikipedia.org/wiki/Category:日本の恋愛映画 "wikilink") [Category:テレビ東京製作の映画](https://ja.wikipedia.org/wiki/Category:テレビ東京製作の映画 "wikilink") [Category:アミューズ製作の映画](https://ja.wikipedia.org/wiki/Category:アミューズ製作の映画 "wikilink") [Category:医療機関を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:医療機関を舞台とした映画作品 "wikilink") [Category:函館市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:函館市を舞台とした映画作品 "wikilink") [Category:闘病を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:闘病を題材とした映画作品 "wikilink") [Category:小説を原作とする映画](https://ja.wikipedia.org/wiki/Category:小説を原作とする映画 "wikilink") [Category:佐藤直紀の作曲映画](https://ja.wikipedia.org/wiki/Category:佐藤直紀の作曲映画 "wikilink") [Category:広末涼子](https://ja.wikipedia.org/wiki/Category:広末涼子 "wikilink")

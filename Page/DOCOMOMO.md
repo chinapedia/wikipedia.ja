@@ -13,7 +13,7 @@
 
 [2005](../Page/2005年.md "wikilink")（平成17）年度から[2009](../Page/2009年.md "wikilink")（平成21）年度、[2012](../Page/2012年.md "wikilink")（平成24）年度から[2016](../Page/2016年.md "wikilink")（平成28）年度の毎年に選定建築物を追加しており、[2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）10月現在で**226選**となっている\[1\]。
 
-初代代表は[鈴木博之](../Page/鈴木博之.md "wikilink")[青山学院大学](../Page/青山学院大学.md "wikilink")[教授](../Page/教授.md "wikilink")（[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")名誉教授）。 現在の代表（2代目）は[松隈洋](https://ja.wikipedia.org/wiki/松隈洋 "wikilink")[京都工芸繊維大学](../Page/京都工芸繊維大学.md "wikilink")[教授](../Page/教授.md "wikilink")。
+初代代表は[鈴木博之](../Page/鈴木博之.md "wikilink")[青山学院大学](../Page/青山学院大学.md "wikilink")[教授](../Page/教授.md "wikilink")（[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")名誉教授）。 2代目代表は[松隈洋](https://ja.wikipedia.org/wiki/松隈洋 "wikilink")[京都工芸繊維大学](../Page/京都工芸繊維大学.md "wikilink")[教授](../Page/教授.md "wikilink")。 現在の代表（3代目）は渡邉研司東海大学教授。
 
 ## 脚注
 

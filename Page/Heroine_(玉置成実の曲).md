@@ -1,4 +1,4 @@
-> この記事は[Heroine \(\)](https://ja.wikipedia.org/wiki/Heroine_\(\))から翻訳されています。
+> この記事は[Heroine \(玉置成実の曲\)](https://ja.wikipedia.org/wiki/Heroine_\(玉置成実の曲\))から翻訳されています。
 
 
 「**Heroine**」（ヒロイン）は、[2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")に発売された[玉置成実](../Page/玉置成実.md "wikilink")の8枚目のシングル。レーベルは[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")。

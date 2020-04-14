@@ -1,4 +1,4 @@
-> この記事は[I WISH \(\)](https://ja.wikipedia.org/wiki/I_WISH_\(\))から翻訳されています。
+> この記事は[I WISH \(モーニング娘。の曲\)](https://ja.wikipedia.org/wiki/I_WISH_\(モーニング娘。の曲\))から翻訳されています。
 
 
 「**I WISH**」（アイ ウィッシュ）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の10枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")に[ゼティマ](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")（現・[アップフロントワークス](../Page/アップフロントワークス.md "wikilink")）から発売された。

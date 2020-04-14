@@ -1,4 +1,4 @@
-> この記事は[OB](https://ja.wikipedia.org/wiki/OB)から翻訳されています。
+> この記事は[明治高校マンドリン部OB孝友会オーケストラ](https://ja.wikipedia.org/wiki/明治高校マンドリン部OB孝友会オーケストラ)から翻訳されています。
 
 
 **明治高校マンドリン部・孝友会オーケストラ**は、[2004年](../Page/2004年.md "wikilink")に明治高校マンドリン部のOBによって結成された新進の[オーケストラ](../Page/オーケストラ.md "wikilink")。音楽監督・指揮は[久保田孝](https://ja.wikipedia.org/wiki/久保田孝 "wikilink")。運営委員長は[加藤英之](https://ja.wikipedia.org/wiki/加藤英之 "wikilink")。メンバーは現役時に久保田孝より直接指導を受けた者で構成されている。

@@ -1,4 +1,4 @@
-> この記事は[Boys](https://ja.wikipedia.org/wiki/Boys)から翻訳されています。
+> この記事は[あっぱれメガバカBoys](https://ja.wikipedia.org/wiki/あっぱれメガバカBoys)から翻訳されています。
 
 
 『**あっぱれメガバカBoys**』（あっぱれメガバカボーイズ）は[のむらしんぼ](../Page/のむらしんぼ.md "wikilink")による[ギャグ漫画](../Page/ギャグ漫画.md "wikilink")作品。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』誌上において2000年9月号より2002年8月号まで連載。コミックスは全2巻。

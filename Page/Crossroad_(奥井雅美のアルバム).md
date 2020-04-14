@@ -1,4 +1,4 @@
-> この記事は[Crossroad \(\)](https://ja.wikipedia.org/wiki/Crossroad_\(\))から翻訳されています。
+> この記事は[Crossroad \(奥井雅美のアルバム\)](https://ja.wikipedia.org/wiki/Crossroad_\(奥井雅美のアルバム\))から翻訳されています。
 
 
 『**crossroad**』（クロスロード）は、[奥井雅美](../Page/奥井雅美.md "wikilink")の8枚目の[アルバム](../Page/アルバム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[9月4日](../Page/9月4日.md "wikilink")に[キングレコード](../Page/キングレコード.md "wikilink")から発売された。

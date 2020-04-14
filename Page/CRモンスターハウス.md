@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRモンスターハウス](https://ja.wikipedia.org/wiki/CRモンスターハウス)から翻訳されています。
 
 
 『**CRモンスターハウス**』は、[1996年](../Page/1996年.md "wikilink")に[竹屋](https://ja.wikipedia.org/wiki/竹屋 "wikilink")が開発、発売した西洋の[妖怪](../Page/妖怪.md "wikilink")をキャラクターとした[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。CRデジパチ機の規制（リミッターや1/2確変など）時期の変遷期に登場し、竹屋を代表するヒット機種となった。

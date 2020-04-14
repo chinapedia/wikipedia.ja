@@ -1,4 +1,4 @@
-> この記事は[JMB KIPS](https://ja.wikipedia.org/wiki/JMB_KIPS)から翻訳されています。
+> この記事は[JMB KIPSカード](https://ja.wikipedia.org/wiki/JMB_KIPSカード)から翻訳されています。
 
 
 **JMB KIPSカード**（ジェイエムビー キップスカード）は、[三菱UFJニコス](../Page/三菱UFJニコス.md "wikilink")株式会社が[近畿日本鉄道](../Page/近畿日本鉄道.md "wikilink")株式会社（近鉄）および[日本航空](../Page/日本航空.md "wikilink")株式会社（JAL）と提携し発行する[クレジットカード](../Page/クレジットカード.md "wikilink")である。

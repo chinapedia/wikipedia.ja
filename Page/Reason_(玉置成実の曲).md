@@ -1,4 +1,4 @@
-> この記事は[Reason \(\)](https://ja.wikipedia.org/wiki/Reason_\(\))から翻訳されています。
+> この記事は[Reason \(玉置成実の曲\)](https://ja.wikipedia.org/wiki/Reason_\(玉置成実の曲\))から翻訳されています。
 
 
 「**Reason**」（リーズン）は、[玉置成実](../Page/玉置成実.md "wikilink")の6枚目のシングル。[2004年](../Page/2004年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に[ソニーミュージックレコーズ](https://ja.wikipedia.org/wiki/ソニーミュージックレコーズ "wikilink")からリリース。

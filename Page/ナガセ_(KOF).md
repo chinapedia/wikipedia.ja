@@ -1,4 +1,4 @@
-> この記事は[ \(KOF\)](https://ja.wikipedia.org/wiki/_\(KOF\))から翻訳されています。
+> この記事は[ナガセ \(KOF\)](https://ja.wikipedia.org/wiki/ナガセ_\(KOF\))から翻訳されています。
 
 
 **ナガセ**（流星）は、[SNKの](../Page/SNK_\(2001年設立の企業\).md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[KOF MAXIMUM IMPACT](../Page/KOF_MAXIMUM_IMPACT.md "wikilink")』シリーズに登場する架空の人物。担当声優は[谷藤リョーコ](../Page/谷藤リョーコ.md "wikilink")。

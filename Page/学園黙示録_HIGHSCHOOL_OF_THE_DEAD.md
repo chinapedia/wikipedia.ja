@@ -1,4 +1,4 @@
-> この記事は[ HIGHSCHOOL OF THE DEAD](https://ja.wikipedia.org/wiki/_HIGHSCHOOL_OF_THE_DEAD)から翻訳されています。
+> この記事は[学園黙示録 HIGHSCHOOL OF THE DEAD](https://ja.wikipedia.org/wiki/学園黙示録_HIGHSCHOOL_OF_THE_DEAD)から翻訳されています。
 
 
 『**学園黙示録 HIGHSCHOOL OF THE DEAD**』（がくえんもくしろく ハイスクール・オブ・ザ・デッド）は、原作：[佐藤大輔](../Page/佐藤大輔.md "wikilink")、作画：[佐藤ショウジ](../Page/佐藤ショウジ.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。略称は、「**H.O.T.D.**」\[1\]「**HOTD**」「**スクデッド**」\[2\]など。 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に単行本第4巻までの内容が[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化された。2017年に原作者が逝去したため、本原作は[絶筆](https://ja.wikipedia.org/wiki/絶筆 "wikilink")となった。詳しくは後述。

@@ -27,7 +27,7 @@ TOKYO FM[報道部制作の](../Page/報道局.md "wikilink")[ニュース](../P
 <!-- end list -->
 
   -
-    [JFNC制作で](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")、平日午後に[JFN](../Page/全国FM放送協議会.md "wikilink")27局に生放送されている同種番組。
+    [JFNC制作で](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")、平日午後に[JFN](../Page/全国FM放送協議会.md "wikilink")27局に生放送されている同種番組。
 
 ## 外部リンク
 

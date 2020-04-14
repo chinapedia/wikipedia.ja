@@ -1,4 +1,4 @@
-> この記事は[Mr. \(\)](https://ja.wikipedia.org/wiki/Mr._\(\))から翻訳されています。
+> この記事は[Mr.ビッグ \(龍虎の拳\)](https://ja.wikipedia.org/wiki/Mr.ビッグ_\(龍虎の拳\))から翻訳されています。
 
 
 **Mr.ビッグ**（ミスター・ビッグ、Mr.Big）は、[SNK](../Page/SNK_\(1978年設立の企業\).md "wikilink")（[SNKプレイモア](https://ja.wikipedia.org/wiki/SNKプレイモア "wikilink")）の[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")『[龍虎の拳](../Page/龍虎の拳.md "wikilink")』や『[ザ・キング・オブ・ファイターズ](../Page/ザ・キング・オブ・ファイターズ.md "wikilink")』などに登場する架空の人物。
@@ -125,6 +125,7 @@
   - [家弓家正](../Page/家弓家正.md "wikilink") - アニメ『[バトルスピリッツ 龍虎の拳](../Page/バトルスピリッツ_龍虎の拳.md "wikilink")』
   - [小野友樹](../Page/小野友樹.md "wikilink") - 実写映画版『ザ・キング・オブ・ファイターズ』日本語吹き替え
   - [荒井勇樹](https://ja.wikipedia.org/wiki/荒井勇樹 "wikilink") - 3DCGアニメ『THE KING OF FIGHTERS:DESTINY』、アプリ『THE KING OF FIGHTERS ALLSTAR』
+  - [齋藤綾](https://ja.wikipedia.org/wiki/齋藤綾 "wikilink") - アプリ『THE KING OF FIGHTERS ALLSTAR』：プリティー・ビッグ
 
 ### 担当俳優
 

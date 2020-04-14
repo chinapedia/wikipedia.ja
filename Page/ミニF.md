@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[ミニF](https://ja.wikipedia.org/wiki/ミニF)から翻訳されています。
 
 
 **ミニF**（ミニエフ）は、[タミヤ](../Page/タミヤ.md "wikilink")の動力付き[自動車](../Page/自動車.md "wikilink")[模型](../Page/模型.md "wikilink")の一種である。[1992年](../Page/1992年.md "wikilink")から[1993年](../Page/1993年.md "wikilink")にかけて組み立てキットが順次発売され、その後生産終了されたが、[2006年](../Page/2006年.md "wikilink")12月に完成車として再発売された。

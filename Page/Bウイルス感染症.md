@@ -1,4 +1,4 @@
-> この記事は[B](https://ja.wikipedia.org/wiki/B)から翻訳されています。
+> この記事は[Bウイルス感染症](https://ja.wikipedia.org/wiki/Bウイルス感染症)から翻訳されています。
 
 
 **Bウイルス感染症**（びーういるすかんせんしょう）とは[旧世界ザル](https://ja.wikipedia.org/wiki/旧世界ザル "wikilink")由来の[人獣共通感染症](../Page/人獣共通感染症.md "wikilink")。[感染症](../Page/感染症.md "wikilink")法における四類感染症。[ヒト](../Page/ヒト.md "wikilink")および[新世界ザル](https://ja.wikipedia.org/wiki/新世界ザル "wikilink")において致死的な疾病として知られる。

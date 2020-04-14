@@ -1,4 +1,4 @@
-> この記事は[US\&](https://ja.wikipedia.org/wiki/US\&)から翻訳されています。
+> この記事は[USニューズ\&ワールド・レポート](https://ja.wikipedia.org/wiki/USニューズ\&ワールド・レポート)から翻訳されています。
 
 
 **USニューズ&ワールド・レポート**（ユーエスニューズ・アンド・ワールド・レポート、）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")で発行されている[雑誌](../Page/雑誌.md "wikilink")。

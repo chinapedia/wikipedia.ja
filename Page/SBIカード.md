@@ -1,4 +1,4 @@
-> この記事は[SBI](https://ja.wikipedia.org/wiki/SBI)から翻訳されています。
+> この記事は[SBIカード](https://ja.wikipedia.org/wiki/SBIカード)から翻訳されています。
 
 
 **SBIカード株式会社**（SBI Card Co.,Ltd.）は、[クレジットカード](../Page/クレジットカード.md "wikilink")関連事業を行う日本の[株式会社で](../Page/株式会社_\(日本\).md "wikilink")、[住信SBIネット銀行](https://ja.wikipedia.org/wiki/住信SBIネット銀行 "wikilink")株式会社の[子会社](../Page/子会社.md "wikilink")である。

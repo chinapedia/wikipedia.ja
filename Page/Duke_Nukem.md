@@ -34,7 +34,7 @@
 
   - [Duke Nukem Forever 日本語版公式サイト](http://www.2kgames.jp/dnf/)（※18歳以上のみ向け（[CERO](https://ja.wikipedia.org/wiki/コンピュータエンターテインメントレーティング機構 "wikilink") Z）ソフト）
 
-[Category:シューティングゲーム](https://ja.wikipedia.org/wiki/Category:シューティングゲーム "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink")
+[Category:シューティングゲーム](https://ja.wikipedia.org/wiki/Category:シューティングゲーム "wikilink") [Category:ファーストパーソン・シューティングゲーム](https://ja.wikipedia.org/wiki/Category:ファーストパーソン・シューティングゲーム "wikilink") [Category:1991年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1991年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:アメリカで開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカで開発されたコンピュータゲーム "wikilink")
 
 1.  [海外人気ゲーム・DUKENUKEM MOBILE 3D](http://www.m-fpg.com/duke3d/)（ソケッツ）
 2.  [4Gamer.net ― あの人が携帯アプリになって帰ってきた。なんてこったい（デューク ニューケム フォーエバー）](http://www.4gamer.net/games/002/G000281/20070921026/)（4gamer.net、2007.9）

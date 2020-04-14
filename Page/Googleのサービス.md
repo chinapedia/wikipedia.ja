@@ -1,4 +1,4 @@
-> この記事は[Google](https://ja.wikipedia.org/wiki/Google)から翻訳されています。
+> この記事は[Googleのサービス](https://ja.wikipedia.org/wiki/Googleのサービス)から翻訳されています。
 
 
 **Googleのサービス**（グーグルのサービス）は、[Google](../Page/Google.md "wikilink")が提供する[ウェブサービス](https://ja.wikipedia.org/wiki/ウェブサービス "wikilink")、または[ウェブアプリケーション](https://ja.wikipedia.org/wiki/ウェブアプリケーション "wikilink")、[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")[アプリケーション](../Page/アプリケーションソフトウェア.md "wikilink")、[モバイル](https://ja.wikipedia.org/wiki/モバイル "wikilink")[アプリケーション](https://ja.wikipedia.org/wiki/アプリケーション "wikilink")を総じたもの。

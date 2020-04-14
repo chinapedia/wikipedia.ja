@@ -1,7 +1,7 @@
 > この記事は[MUSIQ\?](https://ja.wikipedia.org/wiki/MUSIQ\?)から翻訳されています。
 
 
-**MUSIQ?**（ミュージッキュー）は、[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")が出版、アウト・オブ・ミュージック（OUT of MUSIC）が発行していた隔月刊の音楽番組DVD付き[音楽雑誌](https://ja.wikipedia.org/wiki/音楽雑誌 "wikilink")。現在は特別号「MUSIQ? SPECIAL OUT of MUSIC」として不定期で発売される。
+**MUSIQ?**（ミュージッキュー）は、[シンコーミュージック・エンタテイメント](../Page/シンコーミュージック・エンタテイメント.md "wikilink")が出版、アウト・オブ・ミュージック（OUT of MUSIC）が発行していた隔月刊の音楽番組DVD付き[音楽雑誌](../Page/音楽雑誌.md "wikilink")。現在は特別号「MUSIQ? SPECIAL OUT of MUSIC」として不定期で発売される。
 
 ## 概要
 

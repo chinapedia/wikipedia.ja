@@ -1,4 +1,4 @@
-> この記事は[B.C.](https://ja.wikipedia.org/wiki/B.C.)から翻訳されています。
+> この記事は[B.C.リッチ](https://ja.wikipedia.org/wiki/B.C.リッチ)から翻訳されています。
 
 
 [240px](https://ja.wikipedia.org/wiki/ファイル:BCRichWarlockbody.jpg "wikilink") **B.C. リッチ**（英：B.C. Rich Guitars）は1969年にBernardo Chavez Ricoによって設立された[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[エレクトリックギター](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink")および[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")を製造するメーカー。同社は1970年代に[変形シェイプで注目されたエレクトリック](https://ja.wikipedia.org/wiki/変形ギター "wikilink")・ギターを作り始め、10年間でヘヴィメタルの人気を基に広範な露出を獲得して以来、しばしばその音楽シーンにリンクしてきた。2000年代にケンタッキー州ヘブロンに本社を置く流通会社Hanser Music Groupが買収する前に、同社は1990年代に所有者を一時的に転換。BC Richはその後、カリフォルニア州オレンジに本拠を置くPraxis Musicalに買収された。ハイエンドモデルはアメリカ製のカスタムメイドだが、中・低予算モデルは[韓国](../Page/大韓民国.md "wikilink")、[中国](../Page/中国.md "wikilink")等アジア各地で生産されている。多くのモデルが鋭角に尖った独特のルックスを持っており、[スラッシュメタル](../Page/スラッシュメタル.md "wikilink")や[デスメタル](../Page/デスメタル.md "wikilink")などの[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")系ミュージシャンから根強く支持され続けている\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[SEVENTH HEAVEN \(L\'ArcenCiel\)](https://ja.wikipedia.org/wiki/SEVENTH_HEAVEN_\(L\'ArcenCiel\))から翻訳されています。
+> この記事は[SEVENTH HEAVEN \(L\'Arc〜en〜Cielの曲\)](https://ja.wikipedia.org/wiki/SEVENTH_HEAVEN_\(L\'Arc〜en〜Cielの曲\))から翻訳されています。
 
 
 「**SEVENTH HEAVEN**」（セヴンス ヘヴン）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の30作目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
@@ -23,7 +23,7 @@
       -
         [日本テレビ系番組](../Page/日本テレビ放送網.md "wikilink")『[スポーツうるぐす](../Page/スポーツうるぐす.md "wikilink")』テーマソング。
         CDシングルのA面曲としては1stシングル「[Blurry Eyes](../Page/Blurry_Eyes.md "wikilink")」以来となるセルフアレンジ楽曲である。
-        構成に関して作詞・作曲を手がけた[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")は、「当初[デッド・オア・アライヴの現代版をイメージして製作した](../Page/デッド・オア・アライヴ_\(バンド\).md "wikilink")」と語っており\[1\]、本楽曲を「[ディスコ](../Page/ディスコ.md "wikilink")[パンク](../Page/パンク・ロック.md "wikilink")」と表現している。
+        構成に関して作詞・作曲を手がけた[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")は、「当初[デッド・オア・アライヴの現代版をイメージして制作した](../Page/デッド・オア・アライヴ_\(バンド\).md "wikilink")」と語っており\[1\]、本楽曲を「[ディスコ](../Page/ディスコ.md "wikilink")[パンク](../Page/パンク・ロック.md "wikilink")」と表現している。
         本作のプロモーションの為のテレビ音楽番組出演時、頻繁に[眼帯](https://ja.wikipedia.org/wiki/眼帯 "wikilink")を付けていたのは、同バンドの[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ピート・バーンズ](../Page/ピート・バーンズ.md "wikilink")のオマージュであると後年述べている\[2\]。
         hydeは「もちろん曲は難しい/簡単で、いい/悪いが決まったりはしないけど、簡単に歌える曲があってもいいんじゃないかってずっと前から思っていた\[3\]」「皆が踊って盛り上がれるように作った」と述べており、シンプルかつ遊びのある楽曲を目指していたという。また、hydeは[テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽番組](../Page/音楽番組.md "wikilink")『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』でのトークで「ラルクの曲は難しいとよく言われるため、簡単な曲を制作しようとしたが、結果的に難しい曲になった」と語っている。
         アレンジにおいてメンバーの意見が多く飛び交った楽曲であり、プリプロの段階で打ち込みパートが100トラックを超えていたという\[4\]。さらに、hydeはデモ段階で3種類の[サビ](../Page/サビ.md "wikilink")を制作しており、制作過程についてhydeは「あの音はこうじゃない、サビはこうなったほうがいいんじゃねえかとか、とにかく紆余曲折があった\[5\]」「どのヴァージョンが採用されたのか、俺の中でもわからない」と発言している。

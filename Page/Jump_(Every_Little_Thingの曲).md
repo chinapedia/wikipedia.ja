@@ -1,4 +1,4 @@
-> この記事は[Jump \(Every Little Thing\)](https://ja.wikipedia.org/wiki/Jump_\(Every_Little_Thing\))から翻訳されています。
+> この記事は[Jump \(Every Little Thingの曲\)](https://ja.wikipedia.org/wiki/Jump_\(Every_Little_Thingの曲\))から翻訳されています。
 
 
 「**jump**」（ジャンプ）は、日本の音楽グループ[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")19thシングル。[2001年](../Page/2001年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に発売された。

@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THE ビリヤード](https://ja.wikipedia.org/wiki/THE_ビリヤード)から翻訳されています。
 
 
 『**THE ビリヤード**』（ザ・ビリヤード）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より発売されている[SIMPLEシリーズ](../Page/SIMPLEシリーズ.md "wikilink")の3D[ビリヤード](../Page/ビリヤード.md "wikilink")ゲーム。開発は[アジェンダ](../Page/アジェンダ_\(企業\).md "wikilink")。

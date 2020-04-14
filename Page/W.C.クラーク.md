@@ -1,4 +1,4 @@
-> この記事は[W.C.](https://ja.wikipedia.org/wiki/W.C.)から翻訳されています。
+> この記事は[W.C.クラーク](https://ja.wikipedia.org/wiki/W.C.クラーク)から翻訳されています。
 
 
 **W.C.クラーク**（**W.C. Clark**、[1939年](../Page/1939年.md "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink") - ）は、[テキサス州](../Page/テキサス州.md "wikilink")[オースティン生まれの](../Page/オースティン_\(テキサス州\).md "wikilink")[ブルース](../Page/ブルース.md "wikilink")、[ソウル](../Page/ソウルミュージック.md "wikilink")・[ギタリスト](../Page/ギタリスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。本名は、ウェスリー・カーリー・クラーク。[スティーヴィー・レイ・ヴォーン](../Page/スティーヴィー・レイ・ヴォーン.md "wikilink")がデビュー前に活動をともにしていたことでも知られ、オースティンのブルース・シーンのゴッドファーザーとして親しまれている。ハイ・サウンドあたりを彷彿させるソウル・ミュージックとコンテンポラリー・ブルースを垣根を感じさせることなくプレイする。

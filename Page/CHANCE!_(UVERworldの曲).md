@@ -1,4 +1,4 @@
-> この記事は[CHANCE! \(UVERworld\)](https://ja.wikipedia.org/wiki/CHANCE!_\(UVERworld\))から翻訳されています。
+> この記事は[CHANCE! \(UVERworldの曲\)](https://ja.wikipedia.org/wiki/CHANCE!_\(UVERworldの曲\))から翻訳されています。
 
 
 「**CHANCE\!**」（チャンス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンド、[UVERworld](../Page/UVERworld.md "wikilink")の2作目の[シングル](../Page/シングル.md "wikilink")である。

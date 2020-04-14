@@ -1,4 +1,4 @@
-> この記事は[SPORTSSTAR!!](https://ja.wikipedia.org/wiki/SPORTSSTAR!!)から翻訳されています。
+> この記事は[ビビる大木のSPORTS☆STAR!!](https://ja.wikipedia.org/wiki/ビビる大木のSPORTS☆STAR!!)から翻訳されています。
 
 
 **Monday SPORTS Entertainment ビビる大木のSPORTS☆STAR\!\!**（マンデースポーツエンターテイメント ビビるおおきのスポーツスター）は、[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")まで1年間放送された。

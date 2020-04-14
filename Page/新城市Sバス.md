@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[新城市Sバス](https://ja.wikipedia.org/wiki/新城市Sバス)から翻訳されています。
 
 
 [Shinshiro_City_S_Bus_ac.jpg](https://ja.wikipedia.org/wiki/File:Shinshiro_City_S_Bus_ac.jpg "fig:Shinshiro_City_S_Bus_ac.jpg") **新城市Sバス**（しんしろしエスバス）は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[新城市](../Page/新城市.md "wikilink")の[コミュニティバス](../Page/コミュニティバス.md "wikilink")である。「新城Sバス」、または単に「Sバス」と呼ばれることもある。

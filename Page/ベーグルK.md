@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[ベーグルK](https://ja.wikipedia.org/wiki/ベーグルK)から翻訳されています。
 
 
 **ベーグル☆K**（ベーグルケー、*BAGEL K*）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベーグル](../Page/ベーグル.md "wikilink")専門店。

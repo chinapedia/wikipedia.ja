@@ -1,4 +1,4 @@
-> この記事は[CATCH ME \(\)](https://ja.wikipedia.org/wiki/CATCH_ME_\(\))から翻訳されています。
+> この記事は[CATCH ME \(アルバム\)](https://ja.wikipedia.org/wiki/CATCH_ME_\(アルバム\))から翻訳されています。
 
 
 **CATCH ME**（キャッチ・ミー）は[やしきたかじん](../Page/やしきたかじん.md "wikilink")の5枚目のアルバム。

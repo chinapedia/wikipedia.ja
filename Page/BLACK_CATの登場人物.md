@@ -1,4 +1,4 @@
-> この記事は[BLACK CAT](https://ja.wikipedia.org/wiki/BLACK_CAT)から翻訳されています。
+> この記事は[BLACK CATの登場人物](https://ja.wikipedia.org/wiki/BLACK_CATの登場人物)から翻訳されています。
 
 
 **BLACK CATの登場人物**（ブラックキャットのとうじょうじんぶつ）は、[矢吹健太朗](../Page/矢吹健太朗.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびこれを原作とする[アニメ](../Page/アニメ.md "wikilink")など関連作品『[BLACK CAT](../Page/BLACK_CAT.md "wikilink")』に登場する架空の人物の一覧である。

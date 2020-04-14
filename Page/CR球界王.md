@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR球界王](https://ja.wikipedia.org/wiki/CR球界王)から翻訳されています。
 
 
 **CR球界王**（-きゅうかいおう）は、[1994年](../Page/1994年.md "wikilink")及び[2007年](../Page/2007年.md "wikilink")に、[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")[西陣が発売した](../Page/西陣_\(企業\).md "wikilink")、[野球](../Page/野球.md "wikilink")をモチーフとした[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。

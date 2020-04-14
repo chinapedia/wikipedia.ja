@@ -1,4 +1,4 @@
-> この記事は[LINEAR \(\)](https://ja.wikipedia.org/wiki/LINEAR_\(\))から翻訳されています。
+> この記事は[LINEAR \(アルバム\)](https://ja.wikipedia.org/wiki/LINEAR_\(アルバム\))から翻訳されています。
 
 
 『**LINEAR**』（リニア）は、日本のバンド、[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")のメジャー4枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")である。[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")発売。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。

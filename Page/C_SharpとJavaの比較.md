@@ -1,4 +1,4 @@
-> この記事は[C SharpJava](https://ja.wikipedia.org/wiki/C_SharpJava)から翻訳されています。
+> この記事は[C SharpとJavaの比較](https://ja.wikipedia.org/wiki/C_SharpとJavaの比較)から翻訳されています。
 
 
 **C\#とJavaの比較**（シーシャープとジャバのひかく）の記事では、[プログラミング言語](../Page/プログラミング言語.md "wikilink")[C\#と](../Page/C_Sharp.md "wikilink")[Java](https://ja.wikipedia.org/wiki/Java "wikilink")の比較について説明する。

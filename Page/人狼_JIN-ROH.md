@@ -1,4 +1,4 @@
-> この記事は[ JIN-ROH](https://ja.wikipedia.org/wiki/_JIN-ROH)から翻訳されています。
+> この記事は[人狼 JIN-ROH](https://ja.wikipedia.org/wiki/人狼_JIN-ROH)から翻訳されています。
 
 
 『**人狼 JIN-ROH**』（じんろう）は、[2000年](../Page/2000年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")に公開された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメーション映画](../Page/アニメーション映画.md "wikilink")である。上映時間98分。

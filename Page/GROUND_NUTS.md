@@ -70,7 +70,7 @@
 ## 外部リンク
 
   - [MIKIO ITO Official Web Site](http://www.mikio.net/)
-  - [アコースティック・ライフ](http://ameblo.jp/fairies-valley/)
+  - [アコースティック・ライフ](https://ameblo.jp/fairies-valley/)
   - [ナベタケン(鍋田健)twitter](https://twitter.com/442ken)
   - [マエカシ(前田カシ)twitter](https://twitter.com/maekashi_ver1)
   - [Ryuji.K(鐘ヶ江隆二)Twitter](https://twitter.com/kryu0823)

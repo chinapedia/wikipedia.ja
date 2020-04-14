@@ -1,4 +1,4 @@
-> この記事は[ RPG](https://ja.wikipedia.org/wiki/_RPG)から翻訳されています。
+> この記事は[鋼鉄の虹 パンツァーメルヒェンRPG](https://ja.wikipedia.org/wiki/鋼鉄の虹_パンツァーメルヒェンRPG)から翻訳されています。
 
 
 『**鋼鉄の虹 パンツァーメルヒェンRPG』**（こうてつのにじ パンツァーメルヒェンRPG）は[遊演体](../Page/遊演体.md "wikilink")の[田中桂](https://ja.wikipedia.org/wiki/田中桂 "wikilink")、坂東いるか（[坂東真紅郎](https://ja.wikipedia.org/wiki/坂東真紅郎 "wikilink")）らによって製作された、近代ヨーロッパを舞台とする[架空ロボット戦記](https://ja.wikipedia.org/wiki/架空戦記 "wikilink")[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[アスペクトより](../Page/アスペクト_\(企業\).md "wikilink")[四六判](https://ja.wikipedia.org/wiki/四六判 "wikilink")の[書籍として発売された](../Page/本.md "wikilink")。

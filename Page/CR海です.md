@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR海です](https://ja.wikipedia.org/wiki/CR海です)から翻訳されています。
 
 
 **CR海です**（-うみです、機種名「See Study 海です」）は、[2003年](../Page/2003年.md "wikilink")に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が発売した](../Page/西陣_\(企業\).md "wikilink")[三洋物産](https://ja.wikipedia.org/wiki/三洋物産 "wikilink")の[海物語シリーズ](../Page/海物語シリーズ.md "wikilink")をモチーフとした[CR機](../Page/CR機.md "wikilink")または[現金機](../Page/現金機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。

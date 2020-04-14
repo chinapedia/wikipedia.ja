@@ -1,4 +1,4 @@
-> この記事は[GOOD LOOKINCLUB](https://ja.wikipedia.org/wiki/GOOD_LOOKINCLUB)から翻訳されています。
+> この記事は[GOOD LOOKIN′CLUB](https://ja.wikipedia.org/wiki/GOOD_LOOKIN′CLUB)から翻訳されています。
 
 
 **GOOD LOOKIN′CLUB**（グッドルッキンクラブ）は[日本テレビ系列で](../Page/日本テレビ放送網.md "wikilink")[2006年](../Page/2006年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで放送していた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")で、出演者は[名倉潤](https://ja.wikipedia.org/wiki/名倉潤 "wikilink")（[ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")）、[アンガールズ](../Page/アンガールズ.md "wikilink")（[田中卓志](../Page/田中卓志.md "wikilink")、[山根良顕](../Page/山根良顕.md "wikilink")）。

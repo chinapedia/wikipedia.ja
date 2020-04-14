@@ -19,11 +19,11 @@ MacJapaneseは[IANAによって登録されていない](../Page/Internet_Assign
 
 ### 1バイト
 
-0x00から0x7Fまでと0xA1から0xDFまでの部分（いわゆる[半角](https://ja.wikipedia.org/wiki/半角 "wikilink")文字の部分）は[JIS X 0201に準ずる](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")。ただし0x7Eには[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")に倣ってU+7Eの[チルダ](../Page/チルダ.md "wikilink")が割り当てられている。
+0x00から0x7Fまでと0xA1から0xDFまでの部分（いわゆる[半角](https://ja.wikipedia.org/wiki/半角 "wikilink")文字の部分）は[JIS X 0201に準ずる](https://ja.wikipedia.org/wiki/JIS_X_0201 "wikilink")。ただし0x7Eには[ASCII](../Page/ASCII.md "wikilink")に倣ってU+7Eの[チルダ](../Page/チルダ.md "wikilink")が割り当てられている。
 
 次の記号が追加されている。
 
-  - 0x80 …… U+5C reverse solidus (= backslash)、半角[バックスラッシュ](../Page/バックスラッシュ.md "wikilink")「」（[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink") の0x5Cと同じ）
+  - 0x80 …… U+5C reverse solidus (= backslash)、半角[バックスラッシュ](../Page/バックスラッシュ.md "wikilink")「」（[ASCII](../Page/ASCII.md "wikilink") の0x5Cと同じ）
   - 0xA0 …… U+A0 no-break space、[ノーブレークスペース](../Page/ノーブレークスペース.md "wikilink") (NBSP)
   - 0xFD …… U+A9 copyright sign、[著作権記号](https://ja.wikipedia.org/wiki/著作権記号 "wikilink")「」（○で囲まれた「C」）
   - 0xFE …… U+2122 trade mark sign、商標記号「」（「」）
@@ -1450,7 +1450,7 @@ U+0076</p></td>
 
 [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")においては、MacJapaneseは「Shift_JIS (Mac)」（文字パレット）あるいは「日本語 (Mac OS)」（[テキストエディット](https://ja.wikipedia.org/wiki/TextEdit "wikilink")）と表現される。
 
-また、macOS附属のフォントでは[OsakaのみがMacJapaneseに完全対応している](../Page/Osaka_\(書体\).md "wikilink")。[ヒラギノ](../Page/ヒラギノ.md "wikilink")はUnicodeと[CIDに対応しているため](../Page/CID_\(文字コード\).md "wikilink")、Unicodeを扱えるアプリケーション上ではUnicodeに対応する文字が存在しない18字（上記の区分5〜7 ）を除いてMacJapaneseの文字を表示できる。一方、CID を扱えるアプリケーション上でヒラギノを使う場合には、halfwidth horizontal ellipsis （半角三点リーダー）以外の文字を全て表示できる。
+また、macOS附属のフォントでは[OsakaのみがMacJapaneseに完全対応している](../Page/Osaka_\(書体\).md "wikilink")。[ヒラギノ](../Page/ヒラギノ.md "wikilink")はUnicodeと[Adobe-Japan1](../Page/Adobe-Japan1.md "wikilink")文字コレクションに対応しているため、Unicodeを扱えるアプリケーション上ではUnicodeに対応する文字が存在しない18字（上記の区分5〜7 ）を除いてMacJapaneseの文字を表示できる。一方、CID を扱えるアプリケーション上でヒラギノを使う場合には、halfwidth horizontal ellipsis （半角三点リーダー）以外の文字を全て表示できる。
 
 ## iPod での対応
 

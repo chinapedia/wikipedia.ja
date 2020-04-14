@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[新機動戦記ガンダムW〜ティエルの衝動〜](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW〜ティエルの衝動〜)から翻訳されています。
 
 
 『**新機動戦記ガンダムW〜ティエルの衝動〜**』（しんきどうせんきガンダムウイング ティエルのしょうどう）は、[ガンダムシリーズのうち](../Page/ガンダムシリーズ一覧.md "wikilink")、『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』を初めとする[アフターコロニー](../Page/アフターコロニー.md "wikilink")を舞台とした世界観に属する[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

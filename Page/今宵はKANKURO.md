@@ -1,4 +1,4 @@
-> この記事は[KANKURO](https://ja.wikipedia.org/wiki/KANKURO)から翻訳されています。
+> この記事は[今宵はKANKURO](https://ja.wikipedia.org/wiki/今宵はKANKURO)から翻訳されています。
 
 
 『**今宵はKANKURO**』（こよいはかんくろう）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[10月7日](../Page/10月7日.md "wikilink")から[1991年](../Page/1991年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで、[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[トーク番組](../Page/トーク番組.md "wikilink")である。5代目中村勘九郎（後の[18代目中村勘三郎](../Page/中村勘三郎_\(18代目\).md "wikilink")）の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）と[KANOXの共同制作](https://ja.wikipedia.org/wiki/カノックス "wikilink")。放送時間は毎週[日曜](../Page/日曜日.md "wikilink") 22:30 - 22:54（[JST](../Page/日本標準時.md "wikilink")）\[1\] 。提供は[JAL一社単独](../Page/日本航空.md "wikilink")。[カウキャッチャーは](../Page/カウキャッチャー_\(放送\).md "wikilink")[アートネイチャー](../Page/アートネイチャー.md "wikilink")であった。

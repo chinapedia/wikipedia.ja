@@ -1,4 +1,4 @@
-> この記事は[Believe In You \(\)](https://ja.wikipedia.org/wiki/Believe_In_You_\(\))から翻訳されています。
+> この記事は[Believe In You \(岡田有希子の曲\)](https://ja.wikipedia.org/wiki/Believe_In_You_\(岡田有希子の曲\))から翻訳されています。
 
 
 「**Believe In You**」（ビリーブ・イン・ユー）は、[岡田有希子](../Page/岡田有希子.md "wikilink")の楽曲。[2002年](../Page/2002年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から、通算9作目となるシングルが発売された。

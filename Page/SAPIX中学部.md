@@ -1,4 +1,4 @@
-> この記事は[SAPIX](https://ja.wikipedia.org/wiki/SAPIX)から翻訳されています。
+> この記事は[SAPIX中学部](https://ja.wikipedia.org/wiki/SAPIX中学部)から翻訳されています。
 
 
 **SAPIX中学部**（サピックスちゅうがくぶ）は、小学5年生～中学3年生の難関高校受験を対象とした[学習塾](../Page/学習塾.md "wikilink")。[1989年](../Page/1989年.md "wikilink")設立。2011年10月1日より、「株式会社日本入試センター」が経営母体となっている。

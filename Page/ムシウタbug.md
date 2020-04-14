@@ -1,4 +1,4 @@
-> この記事は[bug](https://ja.wikipedia.org/wiki/bug)から翻訳されています。
+> この記事は[ムシウタbug](https://ja.wikipedia.org/wiki/ムシウタbug)から翻訳されています。
 
 
 『**ムシウタbug**』は、[ザ・スニーカー](../Page/ザ・スニーカー.md "wikilink")で2004年2月号から2008年10月号まで連載され、[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")から文庫版が刊行された[岩井恭平](../Page/岩井恭平.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[るろお](../Page/るろお.md "wikilink")。『[ムシウタ](../Page/ムシウタ.md "wikilink")』の短編作品にあたる。本編の数年前の物語が一之黒亜梨子の視点で描かれており、中編と本編をつなげている。

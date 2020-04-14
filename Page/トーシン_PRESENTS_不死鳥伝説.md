@@ -1,4 +1,4 @@
-> この記事は[ PRESENTS ](https://ja.wikipedia.org/wiki/_PRESENTS_)から翻訳されています。
+> この記事は[トーシン PRESENTS 不死鳥伝説](https://ja.wikipedia.org/wiki/トーシン_PRESENTS_不死鳥伝説)から翻訳されています。
 
 
 **トーシン PRESENTS 不死鳥伝説**（トーシン プレゼンツ ふしちょうでんせつ）\[1\]\[2\]\[3\]は、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から同年[9月24日](../Page/9月24日.md "wikilink")まで半年間に渡り[TBSラジオ](../Page/TBSラジオ.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[トーシンパートナーズ](https://ja.wikipedia.org/wiki/トーシンパートナーズ "wikilink")の[一社提供](../Page/一社提供.md "wikilink")による冠スポンサー番組\[4\]\[5\]。スポンサー名などを外し単に「**不死鳥伝説**」と表記する場合もあった\[6\]\[7\]\[8\]。

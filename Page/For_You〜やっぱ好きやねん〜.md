@@ -1,4 +1,4 @@
-> この記事は[For You](https://ja.wikipedia.org/wiki/For_You)から翻訳されています。
+> この記事は[For You〜やっぱ好きやねん〜](https://ja.wikipedia.org/wiki/For_You〜やっぱ好きやねん〜)から翻訳されています。
 
 
 **For You〜やっぱ好きやねん〜**（フォー・ユー 〜やっぱすきやねん〜）は[やしきたかじん](../Page/やしきたかじん.md "wikilink")の6枚目のアルバム。

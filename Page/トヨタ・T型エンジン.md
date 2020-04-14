@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[トヨタ・T型エンジン](https://ja.wikipedia.org/wiki/トヨタ・T型エンジン)から翻訳されています。
 
 
 **T型エンジン**（ティーがたエンジン）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の[系列である](../Page/トヨタのエンジン系列名.md "wikilink")。先代のR型（1,500 - 2,400cc）の1,800cc以下のクラスの性能強化を目的に登場。

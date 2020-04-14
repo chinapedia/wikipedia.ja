@@ -1,4 +1,4 @@
-> この記事は[ZOIDSZi](https://ja.wikipedia.org/wiki/ZOIDSZi)から翻訳されています。
+> この記事は[ZOIDS惑星Zi](https://ja.wikipedia.org/wiki/ZOIDS惑星Zi)から翻訳されています。
 
 
 **ZOIDS惑星Zi**（ゾイドプラネットズィー）は、[塩崎雄二](../Page/塩崎雄二.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』誌上において[2001年](../Page/2001年.md "wikilink")12月 - [2003年](../Page/2003年.md "wikilink")7月号まで連載された。単行本は全3巻。

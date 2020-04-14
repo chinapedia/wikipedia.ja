@@ -1,4 +1,4 @@
-> この記事は[CVA-01](https://ja.wikipedia.org/wiki/CVA-01)から翻訳されています。
+> この記事は[CVA-01級航空母艦](https://ja.wikipedia.org/wiki/CVA-01級航空母艦)から翻訳されています。
 
 
 **CVA-01級航空母艦**は、[1960年代](../Page/1960年代.md "wikilink")に[イギリス海軍](../Page/イギリス海軍.md "wikilink")で計画された[大型航空母艦](../Page/正規空母.md "wikilink")。

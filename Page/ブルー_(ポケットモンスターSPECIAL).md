@@ -1,4 +1,4 @@
-> この記事は[ \(SPECIAL\)](https://ja.wikipedia.org/wiki/_\(SPECIAL\))から翻訳されています。
+> この記事は[ブルー \(ポケットモンスターSPECIAL\)](https://ja.wikipedia.org/wiki/ブルー_\(ポケットモンスターSPECIAL\))から翻訳されています。
 
 
 **ブルー**は、漫画『[ポケットモンスターSPECIAL](../Page/ポケットモンスターSPECIAL.md "wikilink")』に登場する架空の人物である。

@@ -1,4 +1,4 @@
-> この記事は[ \(SPECIAL\)](https://ja.wikipedia.org/wiki/_\(SPECIAL\))から翻訳されています。
+> この記事は[クリスタル \(ポケットモンスターSPECIAL\)](https://ja.wikipedia.org/wiki/クリスタル_\(ポケットモンスターSPECIAL\))から翻訳されています。
 
 
 **クリスタル**は、漫画『[ポケットモンスターSPECIAL](../Page/ポケットモンスターSPECIAL.md "wikilink")』に登場する架空の人物である。

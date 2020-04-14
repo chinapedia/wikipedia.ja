@@ -1,4 +1,4 @@
-> この記事は[His](https://ja.wikipedia.org/wiki/His)から翻訳されています。
+> この記事は[Hisタグ](https://ja.wikipedia.org/wiki/Hisタグ)から翻訳されています。
 
 
 **Hisタグ**（ひす-、ひすちじん-）は6個程度の連続する[ヒスチジン](../Page/ヒスチジン.md "wikilink")(His)残基からなる[タグペプチド](https://ja.wikipedia.org/wiki/タグペプチド "wikilink")の一種であり、通常は遺伝子工学的に産生した[タンパク質](../Page/タンパク質.md "wikilink")を固定化金属イオン[アフィニティクロマトグラフィー](https://ja.wikipedia.org/wiki/アフィニティクロマトグラフィー "wikilink")によって精製する際に用いられる。**His・Tag**はドイツの[メルク社の](../Page/メルク_\(ドイツ\).md "wikilink")[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")である。

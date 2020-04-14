@@ -1,4 +1,4 @@
-> この記事は[BoA](https://ja.wikipedia.org/wiki/BoA)から翻訳されています。
+> この記事は[BoAのライブツアー](https://ja.wikipedia.org/wiki/BoAのライブツアー)から翻訳されています。
 
 
 **BoAのライブツアー**では、[韓国出身の](../Page/大韓民国.md "wikilink")[BoA](../Page/BoA.md "wikilink")が[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内においてこれまで開催したコンサートのツアーについて記述する。

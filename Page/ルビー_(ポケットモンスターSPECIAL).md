@@ -1,4 +1,4 @@
-> この記事は[ \(SPECIAL\)](https://ja.wikipedia.org/wiki/_\(SPECIAL\))から翻訳されています。
+> この記事は[ルビー \(ポケットモンスターSPECIAL\)](https://ja.wikipedia.org/wiki/ルビー_\(ポケットモンスターSPECIAL\))から翻訳されています。
 
 
 **ルビー**は、漫画『[ポケットモンスターSPECIAL](../Page/ポケットモンスターSPECIAL.md "wikilink")』に登場する架空の人物である。

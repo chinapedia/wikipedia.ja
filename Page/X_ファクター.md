@@ -1,4 +1,4 @@
-> この記事は[X ](https://ja.wikipedia.org/wiki/X_)から翻訳されています。
+> この記事は[X ファクター](https://ja.wikipedia.org/wiki/X_ファクター)から翻訳されています。
 
 
 『**X ファクター**』(**The X Factor**)は、[アイアン・メイデン](../Page/アイアン・メイデン.md "wikilink")の10枚目のスタジオアルバム。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[10月25日](../Page/10月25日.md "wikilink")に発売された。

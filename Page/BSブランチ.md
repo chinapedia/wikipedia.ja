@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BSブランチ](https://ja.wikipedia.org/wiki/BSブランチ)から翻訳されています。
 
 
 **BSブランチ**（ビーエスブランチ、**BS BRUNCH**）は[2002年](../Page/2002年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")から[2012年](../Page/2012年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[BSデジタルの](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[BS-TBS](../Page/BS-TBS.md "wikilink")\[1\]で『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』第1部終了後の毎週土曜日**11:42 - 11:53**([JST](../Page/日本標準時.md "wikilink"))に放送されていた[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[音楽](../Page/音楽.md "wikilink")・[映画](../Page/映画.md "wikilink")・[演劇](../Page/演劇.md "wikilink")など幅広く[アートな](../Page/芸術.md "wikilink")[エンターテインメント](../Page/エンターテインメント.md "wikilink")を放送していた。

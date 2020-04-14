@@ -1,4 +1,4 @@
-> この記事は[FBS!](https://ja.wikipedia.org/wiki/FBS!)から翻訳されています。
+> この記事は[FBS大感謝祭!](https://ja.wikipedia.org/wiki/FBS大感謝祭!)から翻訳されています。
 
 
 『**FBS大感謝祭\!**』（エフビーエスだいかんしゃさい）→『**FBS元気まつり**』（エフビーエスげんきまつり）とは、[2005年](../Page/2005年.md "wikilink")に開局35周年を迎えた[福岡放送](../Page/福岡放送.md "wikilink")が、毎年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")第2・第3[土曜日](../Page/土曜日.md "wikilink")に放送している開局記念番組。

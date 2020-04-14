@@ -1,4 +1,4 @@
-> この記事は[Sanctuary \(\)](https://ja.wikipedia.org/wiki/Sanctuary_\(\))から翻訳されています。
+> この記事は[Sanctuary \(玉置成実の曲\)](https://ja.wikipedia.org/wiki/Sanctuary_\(玉置成実の曲\))から翻訳されています。
 
 
 『**Sanctuary**』（サンクチュアリ）は[玉置成実](../Page/玉置成実.md "wikilink")の12枚目のシングルで、[2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")に発売された。レーベルは[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[STS](https://ja.wikipedia.org/wiki/STS)から翻訳されています。
+> この記事は[キャデラック・STS](https://ja.wikipedia.org/wiki/キャデラック・STS)から翻訳されています。
 
 
 **STS**は、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")が製造、[キャデラック](../Page/キャデラック.md "wikilink")ブランドで販売していた自動車である。

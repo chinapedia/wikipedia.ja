@@ -1,4 +1,4 @@
-> この記事は[TROPICALISM -0](https://ja.wikipedia.org/wiki/TROPICALISM_-0)から翻訳されています。
+> この記事は[TROPICALISM -0°](https://ja.wikipedia.org/wiki/TROPICALISM_-0°)から翻訳されています。
 
 
 『**TROPICALISM -0°**』（トロピカリズム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンドである[THE BOOMが発表した](../Page/THE_BOOM.md "wikilink")7枚目のオリジナル・アルバム。また、当時所属していた[ソニー・ミュージックエンタテインメントからリリースされた最後のアルバムでもある](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。[1996年](../Page/1996年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")発売。

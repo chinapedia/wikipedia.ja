@@ -1,4 +1,4 @@
-> この記事は[BoA](https://ja.wikipedia.org/wiki/BoA)から翻訳されています。
+> この記事は[BoAのディスコグラフィ](https://ja.wikipedia.org/wiki/BoAのディスコグラフィ)から翻訳されています。
 
 
 BoAのディスコグラフィでは、[BoA](../Page/BoA.md "wikilink")が発表した[CD](https://ja.wikipedia.org/wiki/CD "wikilink")・[DVD](../Page/DVD.md "wikilink")などを解説。

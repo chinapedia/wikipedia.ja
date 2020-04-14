@@ -20,16 +20,13 @@ CD EXTRAには期間限定特設サイト（[2003年](../Page/2003年.md "wikili
         (作曲：[原一博](../Page/原一博.md "wikilink")、編曲：[HΛL](../Page/HΛL.md "wikilink")）
         [よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列アニメ](../Page/日本テレビ放送網.md "wikilink")『[犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")』オープニングテーマ。
         TVアニメに流れているものはシングルバージョンとはボーカルとミックスが若干異なっている。
-
-<!-- end list -->
-
-1.  **ゆらゆら**
+2.  **ゆらゆら**
       -
         (作曲：[多胡邦夫](../Page/多胡邦夫.md "wikilink")、編曲：[大谷靖夫](../Page/大谷靖夫.md "wikilink")、[中尾昌文](https://ja.wikipedia.org/wiki/中尾昌文 "wikilink")、[伊藤一朗](../Page/伊藤一朗.md "wikilink")）
         映画「[犬夜叉 鏡の中の夢幻城](https://ja.wikipedia.org/wiki/犬夜叉_鏡の中の夢幻城 "wikilink")」主題歌。
         Every Little Thing名義のアルバムには未収録であるが、アニメ「犬夜叉」の主題歌集である『BEST OF INUYASHA 百花繚乱 -犬夜叉 テーマ全集-』と『犬夜叉 ベストソング ヒストリー』の2作でのみ「Grip\!」と共に収録されている。
-2.  Grip\! ([Instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink"))
-3.  ゆらゆら (Instrumental)
+3.  Grip\! ([Instrumental](https://ja.wikipedia.org/wiki/オフヴォーカル "wikilink"))
+4.  ゆらゆら (Instrumental)
 
 ## 収録アルバム
 

@@ -1,4 +1,4 @@
-> この記事は[IT\'S ALL RIGHT](https://ja.wikipedia.org/wiki/IT\'S_ALL_RIGHT)から翻訳されています。
+> この記事は[愛あらばIT\'S ALL RIGHT](https://ja.wikipedia.org/wiki/愛あらばIT\'S_ALL_RIGHT)から翻訳されています。
 
 
 「**愛あらばIT'S ALL RIGHT**」（あいあらば イッツオールライト）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の21枚目の[シングル](../Page/シングル.md "wikilink")。

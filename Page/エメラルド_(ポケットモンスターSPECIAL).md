@@ -1,4 +1,4 @@
-> この記事は[ \(SPECIAL\)](https://ja.wikipedia.org/wiki/_\(SPECIAL\))から翻訳されています。
+> この記事は[エメラルド \(ポケットモンスターSPECIAL\)](https://ja.wikipedia.org/wiki/エメラルド_\(ポケットモンスターSPECIAL\))から翻訳されています。
 
 
 **エメラルド**は、漫画『[ポケットモンスターSPECIAL](../Page/ポケットモンスターSPECIAL.md "wikilink")』に登場する架空の人物である。

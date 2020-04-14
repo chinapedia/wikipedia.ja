@@ -1,4 +1,4 @@
-> この記事は[LSI](https://ja.wikipedia.org/wiki/LSI)から翻訳されています。
+> この記事は[システムLSI](https://ja.wikipedia.org/wiki/システムLSI)から翻訳されています。
 
 
 **システムLSI** () とは、一般的に[マイクロコントローラ](../Page/マイクロコントローラ.md "wikilink")を含んで[組み込みシステム](../Page/組み込みシステム.md "wikilink")製品の主要な電子回路を1チップ程度に集積した[半導体](../Page/半導体.md "wikilink")素子であり、[SoCによる具体的な部品という性格もある](../Page/System-on-a-chip.md "wikilink")\[1\]。狭義にはカスタム[LSI](https://ja.wikipedia.org/wiki/LSI "wikilink")だけを指すが、広義にはカスタム[LSI](https://ja.wikipedia.org/wiki/LSI "wikilink")に汎用のCPUやDSPを加えたLSIを含める\[2\]。

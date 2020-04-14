@@ -1,4 +1,4 @@
-> この記事は[Pineapple \(\)](https://ja.wikipedia.org/wiki/Pineapple_\(\))から翻訳されています。
+> この記事は[Pineapple \(アルバム\)](https://ja.wikipedia.org/wiki/Pineapple_\(アルバム\))から翻訳されています。
 
 
 『**Pineapple**』（パイナップル）は、[松田聖子](../Page/松田聖子.md "wikilink")の5枚目の[アルバム](../Page/アルバム.md "wikilink")。[1982年](../Page/1982年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")にリリースされた。

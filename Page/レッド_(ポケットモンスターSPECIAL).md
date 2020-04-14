@@ -1,4 +1,4 @@
-> この記事は[ \(SPECIAL\)](https://ja.wikipedia.org/wiki/_\(SPECIAL\))から翻訳されています。
+> この記事は[レッド \(ポケットモンスターSPECIAL\)](https://ja.wikipedia.org/wiki/レッド_\(ポケットモンスターSPECIAL\))から翻訳されています。
 
 
 **レッド**は、漫画『[ポケットモンスターSPECIAL](../Page/ポケットモンスターSPECIAL.md "wikilink")』に登場する架空の人物である。
@@ -207,7 +207,7 @@
 
   - ブイ
 
-:\* [イーブイ](https://ja.wikipedia.org/wiki/イーブイ "wikilink")♂→[エーフィ](https://ja.wikipedia.org/wiki/エーフィ "wikilink")♂ Lv.65
+:\* [イーブイ](../Page/イーブイ.md "wikilink")♂→[エーフィ](https://ja.wikipedia.org/wiki/エーフィ "wikilink")♂ Lv.65
 
 :\* 特性：てきおうりょく（イーブイ）・シンクロ（エーフィ） 性格：おっとり 個性：とてもきちょうめん
 

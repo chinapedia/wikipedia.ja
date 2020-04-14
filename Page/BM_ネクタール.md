@@ -1,4 +1,4 @@
-> この記事は[BM ](https://ja.wikipedia.org/wiki/BM_)から翻訳されています。
+> この記事は[BM ネクタール](https://ja.wikipedia.org/wiki/BM_ネクタール)から翻訳されています。
 
 
 『**BM ネクタール**』（ビーエム ネクタール）は、[藤澤勇希](https://ja.wikipedia.org/wiki/藤澤勇希 "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[秋田書店](../Page/秋田書店.md "wikilink")刊行『[週刊少年チャンピオン](https://ja.wikipedia.org/wiki/週刊少年チャンピオン "wikilink")』にて、2000年3号から2000年13号（第一部）、2000年22号から2001年18号（第二部）、2001年33号から2002年33号（第三部）までそれぞれ連載された。全105話。単行本は[秋田書店](../Page/秋田書店.md "wikilink")の[少年チャンピオンコミックス](https://ja.wikipedia.org/wiki/少年チャンピオンコミックス "wikilink")より全12巻が発売されている。

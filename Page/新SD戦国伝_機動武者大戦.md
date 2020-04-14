@@ -1,4 +1,4 @@
-> この記事は[SD ](https://ja.wikipedia.org/wiki/SD_)から翻訳されています。
+> この記事は[新SD戦国伝 機動武者大戦](https://ja.wikipedia.org/wiki/新SD戦国伝_機動武者大戦)から翻訳されています。
 
 
 『**新SD戦国伝 機動武者大戦**』（しんエスディーせんごくでん きどうむしゃたいせん）は、[1996年](../Page/1996年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")ゲーム。

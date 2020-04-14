@@ -1,4 +1,4 @@
-> この記事は[Sure \(Every Little Thing\)](https://ja.wikipedia.org/wiki/Sure_\(Every_Little_Thing\))から翻訳されています。
+> この記事は[Sure \(Every Little Thingの曲\)](https://ja.wikipedia.org/wiki/Sure_\(Every_Little_Thingの曲\))から翻訳されています。
 
 
 「**sure**」（シュアー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ、[Every Little Thingの](../Page/Every_Little_Thing.md "wikilink")14thシングル。

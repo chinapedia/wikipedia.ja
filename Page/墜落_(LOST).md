@@ -1,4 +1,4 @@
-> この記事は[ \(LOST\)](https://ja.wikipedia.org/wiki/_\(LOST\))から翻訳されています。
+> この記事は[墜落 \(LOST\)](https://ja.wikipedia.org/wiki/墜落_\(LOST\))から翻訳されています。
 
 
 『**墜落**』（ついらく、***Pilot Part1***）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")においての『[LOST](https://ja.wikipedia.org/wiki/LOST "wikilink")』シーズン1のエピソード1の題名である。監督は[J・J・エイブラムス](../Page/J・J・エイブラムス.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ \(SPECIAL\)](https://ja.wikipedia.org/wiki/_\(SPECIAL\))から翻訳されています。
+> この記事は[グリーン \(ポケットモンスターSPECIAL\)](https://ja.wikipedia.org/wiki/グリーン_\(ポケットモンスターSPECIAL\))から翻訳されています。
 
 
 **グリーン**は、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")『[ポケットモンスターSPECIAL](../Page/ポケットモンスターSPECIAL.md "wikilink")』に登場する架空の人物である。

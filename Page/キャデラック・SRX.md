@@ -1,4 +1,4 @@
-> この記事は[SRX](https://ja.wikipedia.org/wiki/SRX)から翻訳されています。
+> この記事は[キャデラック・SRX](https://ja.wikipedia.org/wiki/キャデラック・SRX)から翻訳されています。
 
 
 **SRX (エスアールエックス)**は、[GMが製造](../Page/ゼネラルモーターズ.md "wikilink")、[キャデラック](../Page/キャデラック.md "wikilink")ブランドで販売していた自動車である。

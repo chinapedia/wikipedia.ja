@@ -1,4 +1,4 @@
-> この記事は[ LP](https://ja.wikipedia.org/wiki/_LP)から翻訳されています。
+> この記事は[ザ・スリム・シェイディ LP](https://ja.wikipedia.org/wiki/ザ・スリム・シェイディ_LP)から翻訳されています。
 
 
 **The Slim Shady LP**は[アメリカ出身の白人](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")、[エミネムのファースト](https://ja.wikipedia.org/wiki/EMINEM "wikilink")・[アルバム](../Page/アルバム.md "wikilink")で、[1999年](../Page/1999年.md "wikilink")に[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")率いる[アフターマス・エンターテインメント](../Page/アフターマス・エンターテインメント.md "wikilink")からのリリースされた。

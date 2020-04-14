@@ -1,4 +1,4 @@
-> この記事は[ HIPHOP](https://ja.wikipedia.org/wiki/_HIPHOP)から翻訳されています。
+> この記事は[サムライチャンプルー HIPHOPサムライアクション](https://ja.wikipedia.org/wiki/サムライチャンプルー_HIPHOPサムライアクション)から翻訳されています。
 
 
 『**サムライチャンプルー**』は、[グラスホッパー・マニファクチュア](../Page/グラスホッパー・マニファクチュア.md "wikilink")が開発し、[バンダイ](../Page/バンダイ.md "wikilink")が[2006年](../Page/2006年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")に発売した[プレイステーション2専用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。

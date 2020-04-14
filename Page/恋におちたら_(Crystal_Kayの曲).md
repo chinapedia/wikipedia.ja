@@ -1,4 +1,4 @@
-> この記事は[ \(Crystal Kay\)](https://ja.wikipedia.org/wiki/_\(Crystal_Kay\))から翻訳されています。
+> この記事は[恋におちたら \(Crystal Kayの曲\)](https://ja.wikipedia.org/wiki/恋におちたら_\(Crystal_Kayの曲\))から翻訳されています。
 
 
 「**恋におちたら**」（こいにおちたら）は、[Crystal Kayの通算](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")17枚目のシングル。[2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")に、[エピックレコードジャパン](../Page/エピックレコードジャパン.md "wikilink")から発売された。

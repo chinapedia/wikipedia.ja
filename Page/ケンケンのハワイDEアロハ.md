@@ -1,4 +1,4 @@
-> この記事は[DE](https://ja.wikipedia.org/wiki/DE)から翻訳されています。
+> この記事は[ケンケンのハワイDEアロハ](https://ja.wikipedia.org/wiki/ケンケンのハワイDEアロハ)から翻訳されています。
 
 
 **ケンケンのハワイDEアロハ**（けんけんのはわいであろは）は、[2007年](../Page/2007年.md "wikilink")3月に[平和が開発](../Page/平和_\(パチンコ\).md "wikilink")、発売したアニメ『[チキチキマシン猛レース](../Page/チキチキマシン猛レース.md "wikilink")』に登場する「ケンケン」を主人公とした[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。『[燃える闘魂アントニオ猪木](https://ja.wikipedia.org/wiki/燃える闘魂アントニオ猪木 "wikilink")』に続くHEIWA SSシリーズ第2弾。

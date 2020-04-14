@@ -1,4 +1,4 @@
-> この記事は[LIVE](https://ja.wikipedia.org/wiki/LIVE)から翻訳されています。
+> この記事は[かぐや姫LIVE](https://ja.wikipedia.org/wiki/かぐや姫LIVE)から翻訳されています。
 
 
 『**かぐや姫LIVE**』（かぐやひめライヴ）は、[第2期かぐや姫の](../Page/かぐや姫_\(フォークグループ\).md "wikilink")2枚目の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")で、5枚目の[アルバム](../Page/アルバム.md "wikilink")である。

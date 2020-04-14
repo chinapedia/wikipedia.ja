@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK宮古島事務所](https://ja.wikipedia.org/wiki/NHK宮古島事務所)から翻訳されています。
 
 
 **NHK宮古島事務所**（エヌエイチケイみやこじまじむしょ）は、[沖縄県](../Page/沖縄県.md "wikilink")[宮古島市](../Page/宮古島市.md "wikilink")にある、[NHK沖縄放送局](../Page/NHK沖縄放送局.md "wikilink")の出先機関。[宮古島市](../Page/宮古島市.md "wikilink")と[宮古郡](../Page/宮古郡.md "wikilink")[多良間村](../Page/多良間村.md "wikilink")における報道取材・受信料事務・受信相談業務を受け持つ。

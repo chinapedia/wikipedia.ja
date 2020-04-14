@@ -1,4 +1,4 @@
-> この記事は[CATV](https://ja.wikipedia.org/wiki/CATV)から翻訳されています。
+> この記事は[若葉台CATV](https://ja.wikipedia.org/wiki/若葉台CATV)から翻訳されています。
 
 
 **若葉台CATV**（わかばだいシーエーティーヴィ）とは、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある、 財団法人若葉台管理センターが管理運営していた[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")である。現在は、[イッツ・コミュニケーションズ](../Page/イッツ・コミュニケーションズ.md "wikilink")（以下、イッツコム）に管理運営を委託している。
@@ -50,7 +50,7 @@
 | ~~C20~~ | ~~BS102~~ | ~~[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")~~                |
 |         | BS103     | [NHKBSプレミアム](https://ja.wikipedia.org/wiki/NHKBSプレミアム "wikilink")                                                   |
 |         | BS141     | [BS日テレ](../Page/BS日本.md "wikilink")                                                                                 |
-|         | BS151     | [BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")                                                             |
+|         | BS151     | [BS朝日](../Page/ビーエス朝日.md "wikilink")                                                                                |
 |         | BS161     | [BS-TBS](../Page/BS-TBS.md "wikilink")                                                                              |
 |         | BS171     | [BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")                                                           |
 |         | BS181     | [BSフジ](../Page/BSフジ.md "wikilink")                                                                                  |

@@ -1,4 +1,4 @@
-> この記事は[SCARS \(X JAPAN\)](https://ja.wikipedia.org/wiki/SCARS_\(X_JAPAN\))から翻訳されています。
+> この記事は[SCARS \(X JAPANの曲\)](https://ja.wikipedia.org/wiki/SCARS_\(X_JAPANの曲\))から翻訳されています。
 
 
 「**SCARS**」（スカーズ）は、ロックバンドの[X JAPANが](../Page/X_JAPAN.md "wikilink")1996年11月18日にリリースした16作目の[シングル](../Page/シングル.md "wikilink")。

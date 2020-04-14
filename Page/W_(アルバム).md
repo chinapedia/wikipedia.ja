@@ -1,4 +1,4 @@
-> この記事は[W \(\)](https://ja.wikipedia.org/wiki/W_\(\))から翻訳されています。
+> この記事は[W \(アルバム\)](https://ja.wikipedia.org/wiki/W_\(アルバム\))から翻訳されています。
 
 
 『**W**』（ダブリュー）は、[1982年](../Page/1982年.md "wikilink")にリリースされた、ロックバンド[ARBの](../Page/ARB_\(バンド\).md "wikilink")5枚目のアルバムである。

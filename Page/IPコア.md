@@ -1,4 +1,4 @@
-> この記事は[IP](https://ja.wikipedia.org/wiki/IP)から翻訳されています。
+> この記事は[IPコア](https://ja.wikipedia.org/wiki/IPコア)から翻訳されています。
 
 
 **IPコア**（あいぴーコア、）とは、[LSIを構成するための部分的な回路情報で](../Page/集積回路.md "wikilink")、特に機能単位でまとめられているものを指す。単にIPと呼ぶ場合もある。

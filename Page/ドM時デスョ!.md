@@ -1,4 +1,4 @@
-> この記事は[M!](https://ja.wikipedia.org/wiki/M!)から翻訳されています。
+> この記事は[ドM時デスョ!](https://ja.wikipedia.org/wiki/ドM時デスョ!)から翻訳されています。
 
 
 『**ドM時デスョ\!**』（ドエムじデスョ）は、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")の[独立UHF局](https://ja.wikipedia.org/wiki/全国独立UHF放送協議会 "wikilink")・[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")で[2007年](../Page/2007年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで放送されていた[お色気番組](../Page/お色気番組.md "wikilink")である。放送時間は毎週[土曜日](../Page/土曜日.md "wikilink")（[日曜日](../Page/日曜日.md "wikilink")未明）の深夜0:00 - 0:55（[JST](../Page/日本標準時.md "wikilink")）。

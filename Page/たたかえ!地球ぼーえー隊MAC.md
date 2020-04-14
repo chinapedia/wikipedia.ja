@@ -1,4 +1,4 @@
-> この記事は[!MAC](https://ja.wikipedia.org/wiki/!MAC)から翻訳されています。
+> この記事は[たたかえ!地球ぼーえー隊MAC](https://ja.wikipedia.org/wiki/たたかえ!地球ぼーえー隊MAC)から翻訳されています。
 
 
 **たたかえ！地球ぼーえー隊MAC**は、2000年5月～2002年4月号まで連載されていた[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")の作品。原作は[うおりゃー大橋](https://ja.wikipedia.org/wiki/うおりゃー大橋 "wikilink")。

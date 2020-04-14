@@ -1,4 +1,4 @@
-> この記事は[TEAM \(\)](https://ja.wikipedia.org/wiki/TEAM_\(\))から翻訳されています。
+> この記事は[TEAM \(宣教団体\)](https://ja.wikipedia.org/wiki/TEAM_\(宣教団体\))から翻訳されています。
 
 
 **TEAM**（ゼ・エバンゼリカル・アライアンス・ミッション、The Evangelical Alliance Mission）はアメリカのプロテスタントの[超教派](../Page/超教派.md "wikilink")の宣教団体。

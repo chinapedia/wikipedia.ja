@@ -180,17 +180,21 @@
   - 2019年『[アベンジャーズ/エンドゲーム](https://ja.wikipedia.org/wiki/アベンジャーズ/エンドゲーム "wikilink")』 *Avengers: Endgame*
   - 2019年『[ゴジラ キング・オブ・モンスターズ](https://ja.wikipedia.org/wiki/ゴジラ_キング・オブ・モンスターズ "wikilink")』 *Godzilla: King of the Monsters*
   - 2019年『[メン・イン・ブラック:インターナショナル](https://ja.wikipedia.org/wiki/メン・イン・ブラック:インターナショナル "wikilink")』 *Men in Black: International*
+  - 2019年『[リチャード・ジュエル](https://ja.wikipedia.org/wiki/リチャード・ジュエル_\(映画\) "wikilink")』 *Richard Jewell*
   - 2019年『[リム・オブ・ザ・ワールド](https://ja.wikipedia.org/wiki/リム・オブ・ザ・ワールド "wikilink")』 *Rim of the World*
   - 2019年『[ワイルド・スピード/スーパーコンボ](https://ja.wikipedia.org/wiki/ワイルド・スピード/スーパーコンボ "wikilink")』 *Fast & Furious Presents: Hobbs & Shaw*
+  - 2019年『[エンツォ レーサーになりたかった犬とある家族の物語](https://ja.wikipedia.org/wiki/エンツォ_レーサーになりたかった犬とある家族の物語 "wikilink")』 *The Art of Racing in the Rain*
   - 2019年『[キング](https://ja.wikipedia.org/wiki/キング_\(映画\) "wikilink")』 *The King*
 
 #### 2020年代
 
   - 2020年『[007 ノー・タイム・トゥ・ダイ](https://ja.wikipedia.org/wiki/007_ノー・タイム・トゥ・ダイ "wikilink")』 *No Time to Die*
   - 2020年『[ブラック・ウィドウ](../Page/ブラック・ウィドウ_\(映画\).md "wikilink")』 *Black Widow*
+  - 2020年『[ワイルド・スピード/ジェットブレイク](https://ja.wikipedia.org/wiki/ワイルド・スピード/ジェットブレイク "wikilink")』 *F9*
   - 2020年『[ワンダーウーマン 1984](../Page/ワンダーウーマン_1984.md "wikilink")』 *Wonder Woman 1984*
+  - 2020年『[ジャングル・クルーズ](../Page/ジャングル・クルーズ.md "wikilink")』 *Jungle Cruise*
   - 2020年『[TENET テネット](https://ja.wikipedia.org/wiki/TENET_テネット "wikilink")』 *Tenet*
-  - 2020年『[ゴーストバスターズ/アフターライフ](https://ja.wikipedia.org/wiki/ゴーストバスターズ/アフターライフ "wikilink")』 ''Ghostbusters: Afterlife
+  - 2020年『[ゴーストバスターズ/アフターライフ](https://ja.wikipedia.org/wiki/ゴーストバスターズ/アフターライフ "wikilink")』 *Ghostbusters: Afterlife*
   - 2020年『[ニュー・ミュータンツ](https://ja.wikipedia.org/wiki/ニュー・ミュータンツ "wikilink")』 *The New Mutants*
   - 2020年『[デューン](../Page/デューン_\(2020年の映画\).md "wikilink")』 *Dune*
 
@@ -207,18 +211,21 @@
   - 2016年『[エメラルドシティ](https://ja.wikipedia.org/wiki/エメラルドシティ "wikilink")』 *Emerald City*
   - 2016年『[ヤング・ポープ 美しき異端児](https://ja.wikipedia.org/wiki/ヤング・ポープ_美しき異端児 "wikilink")』 *The Young Pope*
   - 2017年『[マーベル インヒューマンズ](https://ja.wikipedia.org/wiki/マーベル_インヒューマンズ "wikilink")』 *Inhumans*
+  - 2017年『[マーベル ランナウェイズ](https://ja.wikipedia.org/wiki/マーベル_ランナウェイズ "wikilink")』 *Runaways*
   - 2017年『[ブラックミラー](https://ja.wikipedia.org/wiki/ブラックミラー "wikilink")』(シーズン4) *Black Mirror*
   - 2018年『[エレクトリック・ドリームズ](https://ja.wikipedia.org/wiki/エレクトリック・ドリームズ "wikilink")』 *Electric Dreams*
   - 2018年『[オルタード・カーボン](https://ja.wikipedia.org/wiki/オルタード・カーボン_\(テレビドラマ\) "wikilink")』 *Altered Carbon*
   - 2018年『[クリプトン](https://ja.wikipedia.org/wiki/クリプトン_\(テレビドラマ\) "wikilink")』 *Krypton*
-  - 2018年『[ウエストワールド](https://ja.wikipedia.org/wiki/ウエストワールド_\(テレビドラマ\) "wikilink")』(シーズン2) *Westworld*
-  - 2018年『[ドクター・フー](https://ja.wikipedia.org/wiki/ドクター・フー "wikilink")』(シーズン11) *Doctor Who*
+  - 2018年『[ウエストワールド](https://ja.wikipedia.org/wiki/ウエストワールド_\(テレビドラマ\) "wikilink")』(シーズン2より) *Westworld*
+  - 2018年『[ドクター・フー](https://ja.wikipedia.org/wiki/ドクター・フー "wikilink")』(シーズン11より) *Doctor Who*
   - 2018年『[ロマノフ家の末裔 〜それぞれの人生〜](https://ja.wikipedia.org/wiki/ロマノフ家の末裔_〜それぞれの人生〜 "wikilink")』 *The Romanoffs*
   - 2019年『[スタートレック:ディスカバリー](https://ja.wikipedia.org/wiki/スタートレック:ディスカバリー "wikilink")』(シーズン2) *Star Trek: Discovery*
   - 2019年『[ハンナ 〜殺人兵器になった少女〜](https://ja.wikipedia.org/wiki/ハンナ_〜殺人兵器になった少女〜 "wikilink")』 *Hanna*
   - 2019年『[チェルノブイリ](https://ja.wikipedia.org/wiki/チェルノブイリ_\(テレビドラマ\) "wikilink")』 *Chernobyl*
   - 2019年『[ザ・ボーイズ](https://ja.wikipedia.org/wiki/ザ・ボーイズ_\(テレビドラマ\) "wikilink")』 *The Boys*
   - 2019年『[ダーククリスタル: エイジ・オブ・レジスタンス](https://ja.wikipedia.org/wiki/ダーククリスタル:_エイジ・オブ・レジスタンス "wikilink")』 *The Dark Crystal: Age of Resistance*
+  - 2020年『[ロック&キー](https://ja.wikipedia.org/wiki/ロック&キー "wikilink")』 *Locke & Key*
+  - 2020年『[王への手紙](https://ja.wikipedia.org/wiki/王への手紙 "wikilink")』 *Letter for the King*
 
 ## 脚注
 

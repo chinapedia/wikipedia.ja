@@ -1,4 +1,4 @@
-> この記事は[Graduation Singles](https://ja.wikipedia.org/wiki/Graduation_Singles)から翻訳されています。
+> この記事は[Graduation 〜Singles〜](https://ja.wikipedia.org/wiki/Graduation_〜Singles〜)から翻訳されています。
 
 
 『**Graduation 〜Singles〜**』（グラデュエーション シングルズ）は、[2006年](../Page/2006年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に発売された日本の歌手・[玉置成実](../Page/玉置成実.md "wikilink")の初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。発売元は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

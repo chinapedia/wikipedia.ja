@@ -1,4 +1,4 @@
-> この記事は[AZITO \(\)](https://ja.wikipedia.org/wiki/AZITO_\(\))から翻訳されています。
+> この記事は[AZITO \(テレビ制作\)](https://ja.wikipedia.org/wiki/AZITO_\(テレビ制作\))から翻訳されています。
 
 
 **株式会社AZITO**（アジト）（英称：Creative unit Azito）は、大阪市に存在する[テレビ番組](../Page/テレビ番組.md "wikilink")の企画・制作を行う[制作プロダクション](../Page/制作プロダクション.md "wikilink")。

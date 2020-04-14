@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ユヴェントスFCの選手一覧](https://ja.wikipedia.org/wiki/ユヴェントスFCの選手一覧)から翻訳されています。
 
 
 **ユヴェントスFCの選手一覧**（ユヴェントスのせんしゅいちらん）は、イタリア・トリノを本拠地とするサッカークラブチーム・[ユヴェントス](https://ja.wikipedia.org/wiki/ユヴェントス "wikilink")に所属経験のある選手の一覧。

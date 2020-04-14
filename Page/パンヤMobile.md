@@ -1,4 +1,4 @@
-> この記事は[Mobile](https://ja.wikipedia.org/wiki/Mobile)から翻訳されています。
+> この記事は[パンヤMobile](https://ja.wikipedia.org/wiki/パンヤMobile)から翻訳されています。
 
 
 **パンヤMobile**とは、[ゲームポット](https://ja.wikipedia.org/wiki/ゲームポット "wikilink")が[2006年](../Page/2006年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")より[2012年](../Page/2012年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")まで運営していた[スカッとゴルフ パンヤの](../Page/スカッとゴルフ_パンヤ.md "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")用サイトのこと。正式名称は「スカッとゴルフパンヤ Mobile」。[i-mode](https://ja.wikipedia.org/wiki/i-mode "wikilink")・[EZweb](../Page/EZweb.md "wikilink")・[Yahoo\!ケータイ](../Page/Yahoo!ケータイ.md "wikilink")に対応していた。

@@ -1,4 +1,4 @@
-> この記事は[Mood--](https://ja.wikipedia.org/wiki/Mood--)から翻訳されています。
+> この記事は[Mood-夢見る男のために-](https://ja.wikipedia.org/wiki/Mood-夢見る男のために-)から翻訳されています。
 
 
 『**Mood-夢見る男のために-**』（ムード ゆめみるおとこのために）は、[1993年](../Page/1993年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に発売された[やしきたかじん](../Page/やしきたかじん.md "wikilink")通算10作目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")。

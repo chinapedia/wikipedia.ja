@@ -1,4 +1,4 @@
-> この記事は[PARADE \(\)](https://ja.wikipedia.org/wiki/PARADE_\(\))から翻訳されています。
+> この記事は[PARADE \(スガシカオのアルバム\)](https://ja.wikipedia.org/wiki/PARADE_\(スガシカオのアルバム\))から翻訳されています。
 
 
 『**PARADE**』（パレード）は、[スガシカオ](../Page/スガシカオ.md "wikilink")の7枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")。[2006年](../Page/2006年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")発売。

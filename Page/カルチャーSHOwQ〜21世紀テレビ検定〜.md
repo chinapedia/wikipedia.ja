@@ -1,4 +1,4 @@
-> この記事は[SHOwQ21](https://ja.wikipedia.org/wiki/SHOwQ21)から翻訳されています。
+> この記事は[カルチャーSHOwQ〜21世紀テレビ検定〜](https://ja.wikipedia.org/wiki/カルチャーSHOwQ〜21世紀テレビ検定〜)から翻訳されています。
 
 
 『**カルチャーSHOwQ〜21世紀テレビ検定〜**』（カルチャーショック・にじゅういっせいきテレビけんてい）とは[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[tvkなどの](../Page/テレビ神奈川.md "wikilink")[全国独立放送協議会](../Page/全国独立放送協議会.md "wikilink")のうち、6局が参加する[東名阪ネット6](../Page/東名阪ネット6.md "wikilink")で毎週[月曜日](../Page/月曜日.md "wikilink")の20:00-20:55（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[トークショーを兼ねた](../Page/トーク番組.md "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。

@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[道の駅風Wとままえ](https://ja.wikipedia.org/wiki/道の駅風Wとままえ)から翻訳されています。
 
 
 **道の駅風Wとままえ**（みちのえき ふわっととままえ）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[苫前郡](../Page/苫前郡.md "wikilink")[苫前町](../Page/苫前町.md "wikilink")にある[国道232号](../Page/国道232号.md "wikilink")の[道の駅](../Page/道の駅.md "wikilink")である。

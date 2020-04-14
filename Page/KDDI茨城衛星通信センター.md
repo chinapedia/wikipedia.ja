@@ -1,4 +1,4 @@
-> この記事は[KDDI](https://ja.wikipedia.org/wiki/KDDI)から翻訳されています。
+> この記事は[KDDI茨城衛星通信センター](https://ja.wikipedia.org/wiki/KDDI茨城衛星通信センター)から翻訳されています。
 
 
 [240px](https://ja.wikipedia.org/wiki/ファイル:KDDI_Ibaraki.jpg "wikilink") **KDDI茨城衛星通信センター**（ケイディディアイ いばらきえいせいつうしんセンター）は、[茨城県](../Page/茨城県.md "wikilink")[高萩市](../Page/高萩市.md "wikilink")および[日立市](../Page/日立市.md "wikilink")にまたがって開設されていた、[KDDI](../Page/KDDI.md "wikilink")の衛星通信施設であった。

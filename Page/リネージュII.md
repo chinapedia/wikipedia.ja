@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[リネージュII](https://ja.wikipedia.org/wiki/リネージュII)から翻訳されています。
 
 
 **リネージュII**（）は、[韓国の](../Page/大韓民国.md "wikilink")[NCSOFT](https://ja.wikipedia.org/wiki/NCSOFT "wikilink")が開発した[MMORPG](../Page/MMORPG.md "wikilink")。韓国・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[中国](../Page/中華人民共和国.md "wikilink")・[アメリカなどで人気を集めた](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[MMORPG](../Page/MMORPG.md "wikilink") 「[リネージュ](../Page/リネージュ.md "wikilink")」の後継作。通称は**リネ2**。韓国、日本、台湾、[東南アジア](../Page/東南アジア.md "wikilink")、アメリカ、[インドネシア](../Page/インドネシア.md "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[欧州共同体](../Page/欧州共同体.md "wikilink")、[ロシア](../Page/ロシア.md "wikilink")の9カ国で公式に運営を行っている。 日本では、[エヌ・シー・ジャパン](../Page/エヌ・シー・ジャパン.md "wikilink")株式会社がサービスを展開している。課金方式は月額課金制。

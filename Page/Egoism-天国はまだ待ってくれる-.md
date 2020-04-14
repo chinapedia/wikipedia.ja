@@ -1,4 +1,4 @@
-> この記事は[Egoism--](https://ja.wikipedia.org/wiki/Egoism--)から翻訳されています。
+> この記事は[Egoism-天国はまだ待ってくれる-](https://ja.wikipedia.org/wiki/Egoism-天国はまだ待ってくれる-)から翻訳されています。
 
 
 『**egoism-天国はまだ待ってくれる-**』（エゴイズム てんごくはまだまってくれる ）は[やしきたかじん](../Page/やしきたかじん.md "wikilink")の11枚目のアルバム。

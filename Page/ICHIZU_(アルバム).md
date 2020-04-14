@@ -1,4 +1,4 @@
-> この記事は[ICHIZU \(\)](https://ja.wikipedia.org/wiki/ICHIZU_\(\))から翻訳されています。
+> この記事は[ICHIZU \(アルバム\)](https://ja.wikipedia.org/wiki/ICHIZU_\(アルバム\))から翻訳されています。
 
 
 **ICHIZU**（イチズ）は[やしきたかじん](../Page/やしきたかじん.md "wikilink")の7枚目のアルバム。

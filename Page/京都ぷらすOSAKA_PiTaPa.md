@@ -1,4 +1,4 @@
-> この記事は[OSAKA PiTaPa](https://ja.wikipedia.org/wiki/OSAKA_PiTaPa)から翻訳されています。
+> この記事は[京都ぷらすOSAKA PiTaPa](https://ja.wikipedia.org/wiki/京都ぷらすOSAKA_PiTaPa)から翻訳されています。
 
 
 **京都ぷらすOSAKA PiTaPa**（きょうとぷらすおおさかピタパ）は、[大阪メトロサービス](../Page/大阪メトロサービス.md "wikilink")が発行する[京都市交通局](../Page/京都市交通局.md "wikilink")版[OSAKA PiTaPaである](../Page/OSAKA_PiTaPa.md "wikilink")。ロゴマークはOSAKA PiTaPaと同じだが、バックのデザインが紫地になっている。申し込み開始日は[2007年](../Page/2007年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")で、同年[5月1日](../Page/5月1日.md "wikilink")から発行を開始した。

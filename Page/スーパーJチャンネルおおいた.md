@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[スーパーJチャンネルおおいた](https://ja.wikipedia.org/wiki/スーパーJチャンネルおおいた)から翻訳されています。
 
 
 『**スーパーJチャンネルおおいた**』（スーパージェイチャンネルおおいた）は、[2007年](../Page/2007年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2019年](../Page/2019年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[大分朝日放送](../Page/大分朝日放送.md "wikilink")で平日 18:25 - 18:55（[JST](../Page/日本標準時.md "wikilink")）に放送された。夕方の[ローカルワイド](../Page/ローカルワイド番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。

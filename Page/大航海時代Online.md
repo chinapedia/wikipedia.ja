@@ -1,4 +1,4 @@
-> この記事は[Online](https://ja.wikipedia.org/wiki/Online)から翻訳されています。
+> この記事は[大航海時代Online](https://ja.wikipedia.org/wiki/大航海時代Online)から翻訳されています。
 
 
 『**大航海時代 Online**』（だいこうかいじだいおんらいん）は、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")が同社の[リコエイションゲーム](https://ja.wikipedia.org/wiki/リコエイションゲーム "wikilink")『[大航海時代シリーズ](../Page/大航海時代シリーズ.md "wikilink")』の世界観をベースに開発した[MMO](https://ja.wikipedia.org/wiki/MMO "wikilink")である。

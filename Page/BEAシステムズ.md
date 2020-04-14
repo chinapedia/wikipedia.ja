@@ -1,4 +1,4 @@
-> この記事は[BEA](https://ja.wikipedia.org/wiki/BEA)から翻訳されています。
+> この記事は[BEAシステムズ](https://ja.wikipedia.org/wiki/BEAシステムズ)から翻訳されています。
 
 
 **BEAシステムズ**（[英](../Page/英語.md "wikilink"): **BEA Systems, Inc.**、）は、1995年から2008年まで存在した、米国を拠点とした企業インフラ[ソフトウェア](../Page/ソフトウェア.md "wikilink")専門の会社である。

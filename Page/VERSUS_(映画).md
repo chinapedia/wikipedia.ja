@@ -1,4 +1,4 @@
-> この記事は[VERSUS \(\)](https://ja.wikipedia.org/wiki/VERSUS_\(\))から翻訳されています。
+> この記事は[VERSUS \(映画\)](https://ja.wikipedia.org/wiki/VERSUS_\(映画\))から翻訳されています。
 
 
 『**VERSUS**』（ヴァーサス）は、[2001年製作の](../Page/2001年の映画.md "wikilink")[日本映画](../Page/日本映画.md "wikilink")。[監督は](../Page/映画監督.md "wikilink")[北村龍平](../Page/北村龍平.md "wikilink")。[ゾンビ](../Page/ゾンビ.md "wikilink")、[ガンアクション](../Page/銃.md "wikilink")、[カンフー](https://ja.wikipedia.org/wiki/カンフー "wikilink")、[ブレードバトルというB級アクションの定番素材を組み合わせた](../Page/チャンバラ.md "wikilink")[サンプリング映画](https://ja.wikipedia.org/wiki/サンプリング映画 "wikilink")。インディーズ製作としては高レベルな映像技術が注目をあつめた。

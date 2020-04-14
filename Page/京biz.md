@@ -1,4 +1,4 @@
-> この記事は[biz](https://ja.wikipedia.org/wiki/biz)から翻訳されています。
+> この記事は[京biz](https://ja.wikipedia.org/wiki/京biz)から翻訳されています。
 
 
 『**京biz**』（きょうビズ）は、[2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")まで[KBS京都テレビで放送されていた](../Page/京都放送.md "wikilink")[経済](../Page/経済.md "wikilink")関連の[報道番組](../Page/報道番組.md "wikilink")。放送時間は毎週[火曜](../Page/火曜日.md "wikilink") 21:25 - 21:55、[再放送](../Page/再放送.md "wikilink")は毎週[日曜](../Page/日曜日.md "wikilink") 7:30 - 8:00。

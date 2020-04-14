@@ -1,4 +1,4 @@
-> この記事は[ALIVE \(SPEED\)](https://ja.wikipedia.org/wiki/ALIVE_\(SPEED\))から翻訳されています。
+> この記事は[ALIVE \(SPEEDの曲\)](https://ja.wikipedia.org/wiki/ALIVE_\(SPEEDの曲\))から翻訳されています。
 
 
 「**ALIVE**」（アライヴ）は、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")の楽曲。7枚目の[シングル](../Page/シングル.md "wikilink")として[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[7月1日](../Page/7月1日.md "wikilink")にリリース。

@@ -1,4 +1,4 @@
-> この記事は[Online](https://ja.wikipedia.org/wiki/Online)から翻訳されています。
+> この記事は[信長の野望Online](https://ja.wikipedia.org/wiki/信長の野望Online)から翻訳されています。
 
 
 **信長の野望Online**（のぶながのやぼう・オンライン）は、[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")（旧・[コーエー](../Page/コーエー.md "wikilink")）が同社の[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")『[信長の野望シリーズ](../Page/信長の野望シリーズ.md "wikilink")』の世界観をベースに開発した[MMORPG](../Page/MMORPG.md "wikilink")である。通称「信on（のぶおん）」\[1\]。本作は[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 用としては『[ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink")』に次いで2番目に開始されたMMORPGであるが、プレイヤーキャラ同士の対戦や勢力同士の合戦が可能であることが『ファイナルファンタジーXI』との違いである。

@@ -1,4 +1,4 @@
-> この記事は[ \(Every Little Thing\)](https://ja.wikipedia.org/wiki/_\(Every_Little_Thing\))から翻訳されています。
+> この記事は[愛のカケラ \(Every Little Thingの曲\)](https://ja.wikipedia.org/wiki/愛のカケラ_\(Every_Little_Thingの曲\))から翻訳されています。
 
 
 『**愛のカケラ**』（あいのかけら）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽グループ[Every Little Thingが](../Page/Every_Little_Thing.md "wikilink")[2000年](../Page/2000年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")に発売した16th[シングル](../Page/シングル.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[CA](https://ja.wikipedia.org/wiki/CA)から翻訳されています。
+> この記事は[CAラヌース](https://ja.wikipedia.org/wiki/CAラヌース)から翻訳されています。
 
 
 **クルブ・アトレティコ・ラヌース** () は、1915年1月3日に[アルゼンチン](../Page/アルゼンチン.md "wikilink")の中東部、[ブエノスアイレス州](../Page/ブエノスアイレス州.md "wikilink")の都市[ラヌース](https://ja.wikipedia.org/wiki/ラヌース "wikilink")に設立された総合[スポーツ](../Page/スポーツ.md "wikilink")クラブである。愛称はEl Granate（[ガーネット](../Page/柘榴石.md "wikilink")）。サッカー部門は[スーペルリーガ・アルヘンティーナ](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン_\(アルゼンチン\) "wikilink")（1部）に所属しており、[バスケットボール](../Page/バスケットボール.md "wikilink")部門も強豪である。
@@ -81,7 +81,7 @@
 
   - [ルイス・スベルディア](https://ja.wikipedia.org/wiki/ルイス・スベルディア "wikilink") (2008-2010)
 
-  - [ガブリエル・シュレール](https://ja.wikipedia.org/wiki/ガブリエル・シュレール "wikilink") (2011-2012)
+  - [ガブリエル・シュレール](../Page/ガブリエル・シュレール.md "wikilink") (2011-2012)
 
   - [ギジェルモ・バロス・スチェロット](../Page/ギジェルモ・バロスケロット.md "wikilink") (2012-2015)
 

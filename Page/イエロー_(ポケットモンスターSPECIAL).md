@@ -1,4 +1,4 @@
-> この記事は[ \(SPECIAL\)](https://ja.wikipedia.org/wiki/_\(SPECIAL\))から翻訳されています。
+> この記事は[イエロー \(ポケットモンスターSPECIAL\)](https://ja.wikipedia.org/wiki/イエロー_\(ポケットモンスターSPECIAL\))から翻訳されています。
 
 
 **イエロー**は、漫画『[ポケットモンスターSPECIAL](../Page/ポケットモンスターSPECIAL.md "wikilink")』に登場する架空の人物である。

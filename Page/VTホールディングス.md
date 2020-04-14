@@ -1,4 +1,4 @@
-> この記事は[VT](https://ja.wikipedia.org/wiki/VT)から翻訳されています。
+> この記事は[VTホールディングス](https://ja.wikipedia.org/wiki/VTホールディングス)から翻訳されています。
 
 
 **VTホールディングス株式会社**（ブイティーホールディングス、）とは、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")に本社を置く、[自動車ディーラー](../Page/自動車ディーラー.md "wikilink")の[持株会社](../Page/持株会社.md "wikilink")である。
@@ -27,7 +27,7 @@
   - [2016年](../Page/2016年.md "wikilink")4月 - 三盛自動車販売の全事業を譲受\[16\]。受け皿子会社として「モトーレン静岡」を設立。
       - 7月1日 - 本店所在地を愛知県[東海市](https://ja.wikipedia.org/wiki/東海市 "wikilink")から愛知県名古屋市中区（旧名古屋事務所所在地）に移転\[17\]。
   - [2016年](../Page/2016年.md "wikilink")6月 - グループ企業のピーシーアイが、同年で日本から撤退する[フォード・モーター](../Page/フォード・モーター.md "wikilink")の、日本国内におけるフォード車の部品供給・車両保証・リコール及びユーザーへのアフターサービス業務を引き継ぎ、同年10月より事業開始。
-  - [2019年](../Page/2019年.md "wikilink")8月 - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北見市](https://ja.wikipedia.org/wiki/北見市 "wikilink")の[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")・[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")正規ディーラー「北洋自動車」の全事業を譲受し子会社化
+  - [2019年](../Page/2019年.md "wikilink")8月 - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[北見市](https://ja.wikipedia.org/wiki/北見市 "wikilink")の[フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")・[アウディ](https://ja.wikipedia.org/wiki/アウディ "wikilink")正規ディーラー「光洋自動車」の全事業を譲受し子会社化
       - 9月20日 - 自動車用コーティングや洗車の専門店の運営等を行う企業「[KeePer技研](https://ja.wikipedia.org/wiki/KeePer技研 "wikilink")」の議決権所有割合の20.06%の株式を取得し持分法適用関連会社とする。
       - 10月1日 - 刈谷市のディーラー「アイカーズ」のBMW部門「アイモトーレン」を譲受し受け皿子会社として「モトーレン三河」を設立。
 

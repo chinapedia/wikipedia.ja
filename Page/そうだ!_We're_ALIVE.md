@@ -1,4 +1,4 @@
-> この記事は[! We\'re ALIVE](https://ja.wikipedia.org/wiki/!_We\'re_ALIVE)から翻訳されています。
+> この記事は[そうだ! We\'re ALIVE](https://ja.wikipedia.org/wiki/そうだ!_We\'re_ALIVE)から翻訳されています。
 
 
 「**そうだ\! We're ALIVE**」（そうだ\! ウィア アライブ）は、[モーニング娘。](https://ja.wikipedia.org/wiki/モーニング娘。 "wikilink")の14枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に発売された。

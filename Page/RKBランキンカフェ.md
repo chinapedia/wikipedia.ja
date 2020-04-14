@@ -1,4 +1,4 @@
-> この記事は[RKB](https://ja.wikipedia.org/wiki/RKB)から翻訳されています。
+> この記事は[RKBランキンカフェ](https://ja.wikipedia.org/wiki/RKBランキンカフェ)から翻訳されています。
 
 
 **RKBランキンカフェ**（あーるけーびーらんきんかふぇ)は[2006年](../Page/2006年.md "wikilink")4月より[2007年](../Page/2007年.md "wikilink")12月28日まで[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されていた平日夜の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。

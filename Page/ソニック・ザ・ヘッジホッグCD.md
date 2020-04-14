@@ -1,15 +1,15 @@
-> この記事は[CD](https://ja.wikipedia.org/wiki/CD)から翻訳されています。
+> この記事は[ソニック・ザ・ヘッジホッグCD](https://ja.wikipedia.org/wiki/ソニック・ザ・ヘッジホッグCD)から翻訳されています。
 
 
-『**ソニック・ザ・ヘッジホッグ CD**』 は、[1993年](../Page/1993年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）が発売した[メガCD](../Page/メガCD.md "wikilink")用横スクロール[アクションゲーム](../Page/アクションゲーム.md "wikilink")\[1\]。
+『**ソニック・ザ・ヘッジホッグCD**』 は、[1993年](../Page/1993年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")に日本の[セガから発売された](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")[メガCD](../Page/メガCD.md "wikilink")用[横スクロールアクションゲーム](../Page/アクションゲーム.md "wikilink")\[1\]。略称は**ソニックCD**。
 
-## 概要
+[メガドライブ](../Page/メガドライブ.md "wikilink")での『[ソニックシリーズ](../Page/ソニックシリーズ.md "wikilink")』の3作目。主人公のソニックを操作し、惑星「リトルプラネット」の巨大な湖「ネバーレイク」を占拠しているDr.エッグマンを倒して世界征服の野望を阻止する事を目的としている。この作品でエミー・ローズとメタルソニックが初めて登場した（キャラクターの詳しい説明は「[ソニックシリーズに登場するキャラクターの一覧](https://ja.wikipedia.org/wiki/ソニックシリーズに登場するキャラクターの一覧 "wikilink")」を参照）。なおOP及びEDアニメーションは東映動画（後の[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）が担当した。販売本数は150万本（全世界）。
 
-[メガドライブ](../Page/メガドライブ.md "wikilink")での[ソニックシリーズ](../Page/ソニックシリーズ.md "wikilink")の3作目。略称は**ソニック CD**。この作品でエミー・ローズとメタルソニックが初めて登場した（キャラクターの詳しい説明は「[ソニックシリーズに登場するキャラクターの一覧](https://ja.wikipedia.org/wiki/ソニックシリーズに登場するキャラクターの一覧 "wikilink")」を参照）。なおOP及びEDアニメーションは東映動画（後の[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）が担当した。販売本数は150万本（全世界）。
+開発は[ソニックCDチームおよびH](../Page/ソニックチーム.md "wikilink").I.Cが行い、プロデューサーは後にメガドライブ用ソフト『[リスター・ザ・シューティングスター](https://ja.wikipedia.org/wiki/リスター・ザ・シューティングスター "wikilink")』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）を手掛けた金成実およびメガドライブ用ソフト『Jリーグプロストライカー2』（[1994年](../Page/1994年.md "wikilink")）を手掛けた押谷誠、ディレクターはメガドライブ用ソフト『[ソニック・ザ・ヘッジホッグ](../Page/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\).md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）にてキャラクター・デザインを手掛けた[大島直人](https://ja.wikipedia.org/wiki/大島直人 "wikilink")、音楽は[ゲームギア](../Page/ゲームギア.md "wikilink")用ソフト『[ソニック・ザ・ヘッジホッグ2](../Page/ソニック・ザ・ヘッジホッグ2.md "wikilink")』（[1992年](../Page/1992年.md "wikilink")）を手掛けた尾形雅史および幡谷尚史が担当している。
 
-[1996年](../Page/1996年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")には[Windows版が発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。家庭用ゲーム機では[GC](../Page/ニンテンドーゲームキューブ.md "wikilink")・[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ソニック ジェムズ コレクション](../Page/ソニック_ジェムズ_コレクション.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")）で初めて移植された。
+[1996年](../Page/1996年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")には[Windows版が発売された](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。家庭用ゲーム機では[GC](../Page/ニンテンドーゲームキューブ.md "wikilink")・[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ソニック ジェムズ コレクション](../Page/ソニック_ジェムズ_コレクション.md "wikilink")』（[2005年](../Page/2005年.md "wikilink")）で初めて移植された。[2011年](../Page/2011年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")には[Android](../Page/Android.md "wikilink")端末向けに[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")によって配信され、同年12月15日から[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")においても配信された。なお、日本国外では[Xbox 360](../Page/Xbox_360.md "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Windows向けの配信もされたが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、日本国内では配信されていない。
 
-[2011年](../Page/2011年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")には[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")、[Android](../Page/Android.md "wikilink")端末向けに[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")による配信が開始されている。なお、海外では[Xbox 360](../Page/Xbox_360.md "wikilink")、[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、[Winwows向けの配信も開始されたが](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、日本国内では現時点で配信が行われていない。
+メガCD版はゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」にてゴールド殿堂を獲得した。
 
 ## ゲーム内容
 
@@ -33,27 +33,6 @@
 
 リングを50枚以上取得している状態でゴールにたどり着くと、巨大リングが出現する。これに触れると、スペシャルステージに進む。目的は[迷路](../Page/迷路.md "wikilink")の上空を動いている[UFOを制限時間内にすべて破壊する事](../Page/未確認飛行物体.md "wikilink")。マップは3Dで描かれており、段差は無いが柵やスプリング、ファンやトラップが存在する。常に制限時間は減り続けるが、ソニックが迷路から外れて水に落ちると制限時間がかなりのスピードで減ってしまう。UFOを破壊するごとにリングかハイスピードのアイテムが手に入るが、時間を回復するには残り時間が少なくなると出てくる補給用の色違いのUFOを破壊するしか手段が無い。UFOをすべて破壊できればタイムストーンが獲得でき、タイムストーンをすべて取得してクリアすると真のエンディングが見られる。
 
-### ステージ構成
-
-この作品は初期シリーズの中では異例で、ステージが『ZONE』でなく『ROUND』で表記される。またそれとともに他の作品での『ACT』は『ZONE』に変わっている。各ラウンドごとに三つのゾーンがあり、三つ目のゾーンにはボスが登場する。
-
-  - ROUND1 PALMTREE PANIC（パームツリーパニック；ヤシの木の混乱）
-    亜熱帯のステージ。ソニック1のグリーンヒルゾーンに雰囲気が似ている。
-  - ROUND2 COLLISION CHAOS（コリジョンカオス；混沌の衝突）
-    ピンボール、フリッパーなどがいくつか設置されている。また、このステージの序盤で、エミー・ローズがメタルソニックにさらわれてしまう。ソニック1のスプリングヤードゾーンを思わせる要素がある。なお、このステージはネバーレイクから見てリトルプラネットの下部に位置しており、空には反転したネバーレイクの水面が確認出来る。
-  - ROUND3 TIDAL TEMPEST（タイダルテンペスト；潮の嵐）
-    半ば水没した遺跡ステージ。主に水中を進んでいき、水中では床から噴き出す泡で息継ぎが必要になる。タイルなどのグラフィックが、初代ラビリンスゾーンに酷似している。
-  - ROUND4 QUARTZ QUADRANT（クォーツクワドラント；水晶の象限）
-    クリスタル採掘所跡。螺旋状のパイプやベルトコンベアが設置されている。
-  - ROUND5 WACKY WORKBENCH（ワッキーワークベンチ；おかしな作業台）
-    工場内部。 光る床に触れると高くジャンプしてしまうほか、放電装置が多数設置されている。
-  - ROUND6 STARDUST SPEEDWAY（スターダストスピードウェイ；星くずのサーキット）
-    星空をバックに夜の街を進んでいく。ソニック1のスターライトゾーンを思わせる要素がある。ゾーン3ではメタルソニックとの戦いになり、先にゴールすれば勝利となる。
-  - ROUND7 METALLIC MADNESS（メタリックマッドネス；金属の狂気）
-    エッグマンの要塞。仕掛けの中には、ソニック1のスクラップブレインゾーンとほぼ同じ物がある。
-  - Bonus Stage（ボーナスステージ）
-    1992年夏に発行されたセガの商戦カタログに写真のみ掲載されたステージで、製品版には採用されなかった。『[ソニック1](../Page/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\).md "wikilink")』のスペシャルステージをイメージにしたボーナスステージだったと思われる。なお、ボーナスステージの導入は『[ソニック3](../Page/ソニック・ザ・ヘッジホッグ3.md "wikilink")』及び『[ソニック&ナックルズ](../Page/ソニック&ナックルズ.md "wikilink")』で行われている。
-
 ### 時間移動
 
 今作では各ステージが四つの時代を持っている。通常ステージは『現代』から始まるが、「Future」や「Past」と書かれたタイムワープマーカーに触れて一定以上の速度で走り続けると、『未来』あるいは『過去』にワープできる。現代は、エッグマンによる侵略が行われている時代。未来のステージはエッグマンに完全に占拠されて機械的になり、一部の建築･造型物が破損しているなど荒々しい雰囲気が流れている時代。過去はまだ侵略が始まっていない（または侵略直後の）時代で、自然が多く近代的な仕掛けや足場があまり無いのが特徴である。なおエッグマンと対決するゾーン3は、未来のステージしか存在しない。
@@ -75,13 +54,36 @@
   - ハイスピード
     しばらくの間移動速度が上がる。
 
-## プロローグ
+## 設定
+
+### ストーリー
 
 小さく美しい星「**リトルプラネット**」。その星は1年の内1ヶ月の間巨大な湖「ネバーレイク」の上空にやってくる。リトルプラネットには時間を自由に支配し、時をこえた出来事\[3\]を起こす不思議な石「**タイムストーン**」が眠っている。
 
 タイムストーンの力に目をつけたDr.エッグマンはリトルプラネットをネバーレイク上空に固定し、巨大要塞の建設を開始し、タイムストーンの力で世界征服を達成するべく行動を起こした。
 
 一方何も知らないソニックはリトルプラネットに会うためにネバーレイクへやって来た。岩から伸びる鎖に固定され、無惨な姿となったリトルプラネットと岩の斜面に掘られたエッグマンの顔を見たソニックはリトルプラネットを自由にするため、鎖を伝って走り出した。
+
+### ステージ構成
+
+この作品は初期シリーズの中では異例で、ステージが『ZONE』でなく『ROUND』で表記される。またそれとともに他の作品での『ACT』は『ZONE』に変わっている。各ラウンドごとに三つのゾーンがあり、三つ目のゾーンにはボスが登場する。
+
+  - ROUND1 PALMTREE PANIC（パームツリーパニック；ヤシの木の混乱）
+    亜熱帯のステージ。ソニック1のグリーンヒルゾーンに雰囲気が似ている。
+  - ROUND2 COLLISION CHAOS（コリジョンカオス；混沌の衝突）
+    ピンボール、フリッパーなどがいくつか設置されている。また、このステージの序盤で、エミー・ローズがメタルソニックにさらわれてしまう。ソニック1のスプリングヤードゾーンを思わせる要素がある。なお、このステージはネバーレイクから見てリトルプラネットの下部に位置しており、空には反転したネバーレイクの水面が確認出来る。
+  - ROUND3 TIDAL TEMPEST（タイダルテンペスト；潮の嵐）
+    半ば水没した遺跡ステージ。主に水中を進んでいき、水中では床から噴き出す泡で息継ぎが必要になる。タイルなどのグラフィックが、初代ラビリンスゾーンに酷似している。
+  - ROUND4 QUARTZ QUADRANT（クォーツクワドラント；水晶の象限）
+    クリスタル採掘所跡。螺旋状のパイプやベルトコンベアが設置されている。
+  - ROUND5 WACKY WORKBENCH（ワッキーワークベンチ；おかしな作業台）
+    工場内部。 光る床に触れると高くジャンプしてしまうほか、放電装置が多数設置されている。
+  - ROUND6 STARDUST SPEEDWAY（スターダストスピードウェイ；星くずのサーキット）
+    星空をバックに夜の街を進んでいく。ソニック1のスターライトゾーンを思わせる要素がある。ゾーン3ではメタルソニックとの戦いになり、先にゴールすれば勝利となる。
+  - ROUND7 METALLIC MADNESS（メタリックマッドネス；金属の狂気）
+    エッグマンの要塞。仕掛けの中には、ソニック1のスクラップブレインゾーンとほぼ同じ物がある。
+  - Bonus Stage（ボーナスステージ）
+    1992年夏に発行されたセガの商戦カタログに写真のみ掲載されたステージで、製品版には採用されなかった。『[ソニック1](../Page/ソニック・ザ・ヘッジホッグ_\(1991年のゲーム\).md "wikilink")』のスペシャルステージをイメージにしたボーナスステージだったと思われる。なお、ボーナスステージの導入は『[ソニック3](../Page/ソニック・ザ・ヘッジホッグ3.md "wikilink")』及び『[ソニック&ナックルズ](../Page/ソニック&ナックルズ.md "wikilink")』で行われている。
 
 ## キャラクター
 
@@ -111,7 +113,113 @@
     メカブ
     ポービー
 
-## 他機種版
+## 移植版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>発売日</p></th>
+<th><p>対応機種</p></th>
+<th><p>開発元</p></th>
+<th><p>発売元</p></th>
+<th><p>メディア</p></th>
+<th><p>型式</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>ソニック・ザ・ヘッジホッグCD</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a></p></td>
+<td><p>ソニックCDチーム<br />
+H.I.C</p></td>
+<td></td>
+<td><p>CD-ROM</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><a href="../Page/ソニック_ジェムズ_コレクション.md" title="wikilink">ソニック ジェムズ コレクション</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a><br />
+<a href="../Page/ニンテンドーゲームキューブ.md" title="wikilink">ゲームキューブ</a></p></td>
+<td><p>ソニックチーム</p></td>
+<td><p>セガ</p></td>
+<td><p><strong>PS2:</strong><a href="https://ja.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM</a><br />
+<strong>GC:</strong>8センチ<a href="../Page/光ディスク.md" title="wikilink">光ディスク</a></p></td>
+<td><p><strong>PS2:</strong><strong>GC:</strong></p></td>
+<td><p>PlayStation 2版は日本、欧州のみ発売</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>ソニックCD</p></td>
+<td></td>
+<td><p><a href="../Page/Android.md" title="wikilink">Android</a>端末<br />
+<a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
+(<a href="https://ja.wikipedia.org/wiki/PSN" title="wikilink">PSN</a>)<br />
+<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a><br />
+(<a href="https://ja.wikipedia.org/wiki/Xbox_Live_Arcade" title="wikilink">XBLA</a>)</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p><a href="../Page/ダウンロード販売.md" title="wikilink">ダウンロード</a></p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>ソニックCD</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iPhone" title="wikilink">iPhone</a><br />
+<a href="https://ja.wikipedia.org/wiki/iPod_Touch" title="wikilink">iPod Touch</a><br />
+(<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>)</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>Sonic the hedgehog CD</p></td>
+<td></td>
+<td><p>Windows</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+(<a href="../Page/Steam.md" title="wikilink">Steam</a>)</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>Sonic the hedgehog CD</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Windows_Phone" title="wikilink">Windows Phone</a></p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>Sonic Hits Collection</p></td>
+<td></td>
+<td><p>Windows</p></td>
+<td><p>セガ</p></td>
+<td><p>セガ</p></td>
+<td><p>ダウンロード<br />
+(Steam)</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - 機種による違い
 
@@ -220,7 +328,7 @@
 
 ## 評価
 
-  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』のクロスレビューでは9・8・7・8の合計32点（満40点）でゴールド殿堂入りを獲得\[6\]、レビュアーの意見としては「CDになったことで、とくにサウンド面のパワーアップが光っていた」、「前作よりいろいろな仕掛けが増えて、しかもソニックのスピード感も増したカンジ」、「今回初登場の時間の旅は、ステージをクリアするぞというガンとした気持ちをなくさせて、適当にリング集めて走り回ろーというお気軽なノリにしちゃったみたい」、「50キロオーバーのスピード違反で一発免停な部分がより強調されたカンジ」などと評されている\[7\]。
+  - ゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」では9・8・7・8の合計32点（満40点）でゴールド殿堂入りを獲得\[6\]、レビュアーからはCDメディアになった事でサウンド面が強化されたという意見や、前作よりも仕掛けが増加しソニックのスピード感も増したという意見、スピード感がより強調されたなど肯定的な意見が多く挙げられたが、一方でステージをクリアするよりも適当に走り回りリングを集めるというゲーム性になっており好みが分かれるといった意見や、じっくり遊びたい人には向かないといった意見も挙げられた\[7\]。
 
 <!-- end list -->
 
@@ -230,7 +338,7 @@
 | -- | ----- | --- | ---- | --- | --- | ------- | ---- |
 | 得点 | 4.6   | 4.5 | 3.8  | 4.2 | 4.0 | 3.8     | 25.0 |
 
-  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、「『ソニックチーム制作じゃないソニック』だが、本家には引けを取らない」、「CD音源のBGMが素晴らしく、宇徳敬子ボーカルの主題歌は疾走感あふれる」と評している\[9\]。
+  - ゲーム本『メガドライブ大全』（[2004年](../Page/2004年.md "wikilink")、[太田出版](../Page/太田出版.md "wikilink")）では、本作がソニックチームの制作ではない事を指摘した上で「本家には引けを取らない」と称賛、CD音源によるBGMが素晴らしいとした上で「宇徳敬子ボーカルの主題歌は疾走感あふれる」と肯定的に評価した\[9\]。
 
 {{-}}
 
@@ -243,9 +351,12 @@
 ## 外部リンク
 
   - [PC版ソニック・ザ・ヘッジホッグCD](http://www.sega.jp/pc/soniccd/)
+
   - [SEGAサイト内の紹介](http://sonic.sega.jp/gems/games_cd.html)
 
-[Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:ソニックシリーズ](https://ja.wikipedia.org/wiki/Category:ソニックシリーズ "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:iPad用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPad用ゲームソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:ファミ通クロスレビューゴールド殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューゴールド殿堂入りソフト "wikilink") [Category:タイムトラベルを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたコンピュータゲーム "wikilink")
+  - （英語）
+
+[Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:iPad用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPad用ゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox_Live_Arcade対応ソフト](https://ja.wikipedia.org/wiki/Category:Xbox_Live_Arcade対応ソフト "wikilink") [Category:ソニックシリーズ](https://ja.wikipedia.org/wiki/Category:ソニックシリーズ "wikilink") [Category:タイムトラベルを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:タイムトラベルを題材としたコンピュータゲーム "wikilink") [Category:ファミ通クロスレビューゴールド殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューゴールド殿堂入りソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink")
 
 1.
 2.  [当時の声担当者によるTwitterでの発言](https://twitter.com/Mazin__/status/597905450147819520?p=v)

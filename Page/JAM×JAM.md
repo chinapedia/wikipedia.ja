@@ -1,4 +1,4 @@
-> この記事は[JAMJAM](https://ja.wikipedia.org/wiki/JAMJAM)から翻訳されています。
+> この記事は[JAM×JAM](https://ja.wikipedia.org/wiki/JAM×JAM)から翻訳されています。
 
 
 **JAM×JAM**は、[2006年](../Page/2006年.md "wikilink")10月より木曜日20時から21時50分放送の[ラジオ関西](../Page/ラジオ関西.md "wikilink")のワイド番組（[コンプレックス](../Page/コンプレックス_\(番組形式\).md "wikilink")）である。[2007年](../Page/2007年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")より放送日が土曜日の19時から21時までになった。2010年4月より放送日が日曜日の22時から24時までになった。関西の他のNRN加盟局で放送されていない2つの番組を[箱番組](https://ja.wikipedia.org/wiki/箱番組 "wikilink")として内包しているのも特徴。

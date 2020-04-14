@@ -1,4 +1,4 @@
-> この記事は[VAMP \(\)](https://ja.wikipedia.org/wiki/VAMP_\(\))から翻訳されています。
+> この記事は[VAMP \(中森明菜のアルバム\)](https://ja.wikipedia.org/wiki/VAMP_\(中森明菜のアルバム\))から翻訳されています。
 
 
 『**VAMP**』（ヴァンプ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")[中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")の[ミニ・アルバム](https://ja.wikipedia.org/wiki/アルバム#アルバムの種類 "wikilink")。このアルバムは1996年12月18日に[MCAビクター](https://ja.wikipedia.org/wiki/MCAビクター "wikilink")よりリリースされた ([CD](../Page/コンパクトディスク.md "wikilink"): MVCZ-1002)。

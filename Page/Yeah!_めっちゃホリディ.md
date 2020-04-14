@@ -1,4 +1,4 @@
-> この記事は[Yeah! ](https://ja.wikipedia.org/wiki/Yeah!_)から翻訳されています。
+> この記事は[Yeah! めっちゃホリディ](https://ja.wikipedia.org/wiki/Yeah!_めっちゃホリディ)から翻訳されています。
 
 
 「**Yeah\! めっちゃホリディ**」（イェーイ\! めっちゃホリディ）は、[松浦亜弥](../Page/松浦亜弥.md "wikilink")の6枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")に[ゼティマから発売された](../Page/アップフロントワークス.md "wikilink")。

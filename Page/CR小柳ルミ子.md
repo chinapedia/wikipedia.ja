@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR小柳ルミ子](https://ja.wikipedia.org/wiki/CR小柳ルミ子)から翻訳されています。
 
 
 **CR小柳ルミ子**（シーアールこやなぎルミこ、機種名「小柳ルミ子CYBER SPACEルミチャンネル」）は、[2006年](../Page/2006年.md "wikilink")9月に[ソフィアが開発し](../Page/ソフィア_\(パチンコ\).md "wikilink")、[西陣が発売した](../Page/西陣_\(企業\).md "wikilink")[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。歌手、[小柳ルミ子](../Page/小柳ルミ子.md "wikilink")とのタイアップ機。

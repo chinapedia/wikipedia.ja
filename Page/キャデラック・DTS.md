@@ -1,4 +1,4 @@
-> この記事は[DTS](https://ja.wikipedia.org/wiki/DTS)から翻訳されています。
+> この記事は[キャデラック・DTS](https://ja.wikipedia.org/wiki/キャデラック・DTS)から翻訳されています。
 
 
 **DTS**は、[GMが製造](../Page/ゼネラルモーターズ.md "wikilink")、[キャデラック](../Page/キャデラック.md "wikilink")ブランドで販売していた自動車である。

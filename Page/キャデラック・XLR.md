@@ -1,4 +1,4 @@
-> この記事は[XLR](https://ja.wikipedia.org/wiki/XLR)から翻訳されています。
+> この記事は[キャデラック・XLR](https://ja.wikipedia.org/wiki/キャデラック・XLR)から翻訳されています。
 
 
 **キャデラック・XLR**および**XLR-V**(CADILLAC XLR,XLR-V)とは、[ゼネラルモーターズ](../Page/ゼネラルモーターズ.md "wikilink")(GM)が[キャデラック](../Page/キャデラック.md "wikilink")ブランドで販売していた[クーペカブリオレ](../Page/クーペカブリオレ.md "wikilink")型の[高級車](../Page/高級車.md "wikilink")である。

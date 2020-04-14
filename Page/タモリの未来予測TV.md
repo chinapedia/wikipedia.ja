@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[タモリの未来予測TV](https://ja.wikipedia.org/wiki/タモリの未来予測TV)から翻訳されています。
 
 
 『**タモリの未来予測TV**』（タモリのみらいよそくテレビ）とは、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列にて](../Page/フジネットワーク.md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")（[月曜日](../Page/月曜日.md "wikilink")）から[2月27日](../Page/2月27日.md "wikilink")（[木曜日](../Page/木曜日.md "wikilink")）の23:00 - 23:45（[JST](../Page/日本標準時.md "wikilink")）に[バラパラ](../Page/バラパラ.md "wikilink")枠で4夜連続で放送された[教養](../Page/教育番組.md "wikilink")・[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")・[特別番組](../Page/特別番組.md "wikilink")である。[司会](../Page/司会.md "wikilink")を務める[タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。[ステレオ放送](../Page/ステレオ放送.md "wikilink")、[文字多重放送](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")が実施された。正式な番組タイトルは『**FNSサイエンススペシャル タモリの未来予測TV**』である。通称は「**未来予測TV**」。

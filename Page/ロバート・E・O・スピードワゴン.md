@@ -1,4 +1,4 @@
-> この記事は[EO](https://ja.wikipedia.org/wiki/EO)から翻訳されています。
+> この記事は[ロバート・E・O・スピードワゴン](https://ja.wikipedia.org/wiki/ロバート・E・O・スピードワゴン)から翻訳されています。
 
 
 **ロバート・E・O・スピードワゴン**（*Robert E. O. Speedwagon*）は、[荒木飛呂彦](../Page/荒木飛呂彦.md "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品『[ジョジョの奇妙な冒険](../Page/ジョジョの奇妙な冒険.md "wikilink")』に登場する架空の人物。Part1『[ファントムブラッド](https://ja.wikipedia.org/wiki/ファントムブラッド "wikilink")』、Part2『[戦闘潮流](../Page/戦闘潮流.md "wikilink")』に登場。

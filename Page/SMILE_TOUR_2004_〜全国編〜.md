@@ -1,4 +1,4 @@
-> この記事は[SMILE TOUR 2004 ](https://ja.wikipedia.org/wiki/SMILE_TOUR_2004_)から翻訳されています。
+> この記事は[SMILE TOUR 2004 〜全国編〜](https://ja.wikipedia.org/wiki/SMILE_TOUR_2004_〜全国編〜)から翻訳されています。
 
 
 『**SMILE TOUR 2004 〜全国編〜**』（スマイル ツアー にせんよん ぜんこくへん）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")のライブビデオ。[DVD版は](../Page/DVD-Video.md "wikilink")[2005年](../Page/2005年.md "wikilink")[6月1日](../Page/6月1日.md "wikilink")、[BD版は](../Page/Blu-ray_Disc.md "wikilink")[2014年](../Page/2014年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。

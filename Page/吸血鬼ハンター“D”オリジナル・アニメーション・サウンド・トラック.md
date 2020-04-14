@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[吸血鬼ハンター“D”オリジナル・アニメーション・サウンド・トラック](https://ja.wikipedia.org/wiki/吸血鬼ハンター“D”オリジナル・アニメーション・サウンド・トラック)から翻訳されています。
 
 
 **吸血鬼ハンター“D”オリジナル・アニメーション・サウンド・トラック**（バンパイア・ハンター・ディー・オリジナル・アニメーション・サウンド・トラック）は、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月21日](../Page/12月21日.md "wikilink")にリリースした[OVA](../Page/OVA.md "wikilink")『[吸血鬼ハンターD](../Page/吸血鬼ハンターD.md "wikilink")』の[サウンドトラック](../Page/サウンドトラック.md "wikilink")アルバムCD。

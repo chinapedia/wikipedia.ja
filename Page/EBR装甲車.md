@@ -1,4 +1,4 @@
-> この記事は[EBR](https://ja.wikipedia.org/wiki/EBR)から翻訳されています。
+> この記事は[EBR装甲車](https://ja.wikipedia.org/wiki/EBR装甲車)から翻訳されています。
 
 
 **EBR装甲車**（[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")：）は、[パナール](../Page/パナール.md "wikilink")社が開発・製造した[偵察戦闘車](../Page/偵察戦闘車.md "wikilink")（[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")）である。75mm砲装備の**EBR 75**と90mm砲装備の**EBR 90**がある。

@@ -1,4 +1,4 @@
-> この記事は[Via](https://ja.wikipedia.org/wiki/Via)から翻訳されています。
+> この記事は[ホンダ・Via](https://ja.wikipedia.org/wiki/ホンダ・Via)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Honda_Sky_SGX50_black.jpg "wikilink") **ビア** (*Via* \[1\]) とは、[本田技研工業](../Page/本田技研工業.md "wikilink")がかつて生産していた[スクーター](../Page/スクーター.md "wikilink")タイプの[原動機付自転車](../Page/原動機付自転車.md "wikilink")（[オートバイ](../Page/オートバイ.md "wikilink")）である。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では**スカイ**という[商標](../Page/商標.md "wikilink")で販売された。

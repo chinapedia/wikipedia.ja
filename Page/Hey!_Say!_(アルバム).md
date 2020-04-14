@@ -1,4 +1,4 @@
-> この記事は[Hey! Say! \(\)](https://ja.wikipedia.org/wiki/Hey!_Say!_\(\))から翻訳されています。
+> この記事は[Hey! Say! \(アルバム\)](https://ja.wikipedia.org/wiki/Hey!_Say!_\(アルバム\))から翻訳されています。
 
 
 『**Hey\! Say\!**』（ヘイ・セイ）は、[光GENJI](../Page/光GENJI.md "wikilink")の3枚目の[アルバム](../Page/アルバム.md "wikilink")。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

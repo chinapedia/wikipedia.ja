@@ -1,4 +1,4 @@
-> この記事は[AMX-10P](https://ja.wikipedia.org/wiki/AMX-10P)から翻訳されています。
+> この記事は[AMX-10P歩兵戦闘車](https://ja.wikipedia.org/wiki/AMX-10P歩兵戦闘車)から翻訳されています。
 
 
 **AMX-10P**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[歩兵戦闘車](../Page/歩兵戦闘車.md "wikilink")であり、[ウォータージェット推進](../Page/ウォータージェット推進.md "wikilink")による[水陸両用機能と](../Page/水陸両用車.md "wikilink")[NBC防護機能を有する](../Page/規制が議論されている兵器.md "wikilink")。

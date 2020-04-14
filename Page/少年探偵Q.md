@@ -1,4 +1,4 @@
-> この記事は[Q](https://ja.wikipedia.org/wiki/Q)から翻訳されています。
+> この記事は[少年探偵Q](https://ja.wikipedia.org/wiki/少年探偵Q)から翻訳されています。
 
 
 『**少年探偵Q**』（**しょうねんたんていキュー**）は[集英社](../Page/集英社.md "wikilink")の雑誌『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』で[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")11号から26号まで連載された、原作[円陣](https://ja.wikipedia.org/wiki/円陣_\(漫画原作者\) "wikilink")、作画[しんがぎん](../Page/しんがぎん.md "wikilink")による[推理漫画](../Page/推理漫画.md "wikilink")。単行本は全2巻。

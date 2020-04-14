@@ -1,4 +1,4 @@
-> この記事は[EBC](https://ja.wikipedia.org/wiki/EBC)から翻訳されています。
+> この記事は[EBCビビットホール](https://ja.wikipedia.org/wiki/EBCビビットホール)から翻訳されています。
 
 
 **EBCビビットホール**（イービーシービビットホール）は、[愛媛県](../Page/愛媛県.md "wikilink")[松山市](../Page/松山市.md "wikilink")藤原町に存在していた、[多目的ホール](../Page/多目的ホール.md "wikilink")である。

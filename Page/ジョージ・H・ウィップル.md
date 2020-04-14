@@ -1,4 +1,4 @@
-> この記事は[H](https://ja.wikipedia.org/wiki/H)から翻訳されています。
+> この記事は[ジョージ・H・ウィップル](https://ja.wikipedia.org/wiki/ジョージ・H・ウィップル)から翻訳されています。
 
 
 **ジョージ・H・ウィップル**（George Hoyt Whipple、[1878年](../Page/1878年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink") - [1976年](../Page/1976年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[内科医](https://ja.wikipedia.org/wiki/内科医 "wikilink")で[医学者](https://ja.wikipedia.org/wiki/医学者 "wikilink")で医学教育者。ウィップルは、[貧血](../Page/貧血.md "wikilink")に対する[肝臓](../Page/肝臓.md "wikilink")療法の発見の業績により、[ジョージ・リチャーズ・マイノット](../Page/ジョージ・リチャーズ・マイノット.md "wikilink")、[ウィリアム・P・マーフィ](../Page/ウィリアム・P・マーフィ.md "wikilink")とともに1934年度の[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞した。

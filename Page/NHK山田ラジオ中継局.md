@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHK山田ラジオ中継局](https://ja.wikipedia.org/wiki/NHK山田ラジオ中継局)から翻訳されています。
 
 
 [NHK_Yamada_radio_station1.JPG](https://ja.wikipedia.org/wiki/File:NHK_Yamada_radio_station1.JPG "fig:NHK_Yamada_radio_station1.JPG") **NHK山田ラジオ中継局**（エヌエイチケイやまだラジオちゅうけいきょく）は、[岩手県](../Page/岩手県.md "wikilink")[下閉伊郡](../Page/下閉伊郡.md "wikilink")[山田町](../Page/山田町.md "wikilink")にある[NHK盛岡放送局](../Page/NHK盛岡放送局.md "wikilink")[ラジオ第1放送の](../Page/NHKラジオ第1放送.md "wikilink")[中継局](../Page/中継局.md "wikilink")である。なお、正式な中継局名称は、「山田ラジオ中継放送所」である。

@@ -1,4 +1,4 @@
-> この記事は[ STAND ALONE COMPLEX \(\)](https://ja.wikipedia.org/wiki/_STAND_ALONE_COMPLEX_\(\))から翻訳されています。
+> この記事は[攻殻機動隊 STAND ALONE COMPLEX \(ゲーム\)](https://ja.wikipedia.org/wiki/攻殻機動隊_STAND_ALONE_COMPLEX_\(ゲーム\))から翻訳されています。
 
 
 『**攻殻機動隊 STAND ALONE COMPLEX**』は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")から2004年3月に発売された[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルはアクション・シューティング・アドベンチャー。アニメ『[攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX.md "wikilink")』シリーズをゲーム化。

@@ -1,4 +1,4 @@
-> この記事は[PL 7 \(\)](https://ja.wikipedia.org/wiki/PL_7_\(\))から翻訳されています。
+> この記事は[PL 7 \(航空機\)](https://ja.wikipedia.org/wiki/PL_7_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=PL. 7 | 画像=<File:Levasseur> PL.7 Annuaire de L'Aéronautique 1931.jpg | キャプション=Levasseur PL.7 | 用途=雷撃 | 分類=艦上攻撃機 | 設計者= | 製造者= | 運用者=[フランス海軍](../Page/フランス海軍.md "wikilink") | 初飛行年月日=1926年 | 生産数= | 生産開始年月日= | 運用開始年月日= | 退役年月日= | 運用状況=退役 | ユニットコスト= }} ルバッスール **PL 7**は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")のルバッスール社によって[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")前に開発・生産された[艦上攻撃機](../Page/艦上攻撃機.md "wikilink")である。

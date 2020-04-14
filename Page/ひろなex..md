@@ -1,4 +1,4 @@
-> この記事は[ex.](https://ja.wikipedia.org/wiki/ex.)から翻訳されています。
+> この記事は[ひろなex.](https://ja.wikipedia.org/wiki/ひろなex.)から翻訳されています。
 
 
 『**ひろなex.**』（ひろなイーエックス）は、[すかによる](https://ja.wikipedia.org/wiki/すか_\(漫画家\) "wikilink")[4コマ漫画](../Page/4コマ漫画.md "wikilink")作品。[芳文社](../Page/芳文社.md "wikilink")刊行の漫画雑誌『[まんがタイムきららMAX](../Page/まんがタイムきららMAX.md "wikilink")』にて、[2005年](../Page/2005年.md "wikilink")10月号から[2014年](../Page/2014年.md "wikilink")2月号にかけて連載された。
@@ -58,4 +58,4 @@
 4.  2012年6月10日初版発行（同年5月26日発売） ISBN 978-4-8322-4152-7 - 2010年9月号 - 2012年5月号掲載（2011年7月号は休載）分と描き下ろしを掲載。
 5.  2014年3月14日初版発行（同年2月27日発売） ISBN 978-4-8322-4409-2 - 2012年7月号 - 2014年2月号掲載（2013年10月号は休載）分ときららMAX読者プレゼント用イラストと描き下ろしを掲載。
 
-[Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:まんがタイムきらら](https://ja.wikipedia.org/wiki/Category:まんがタイムきらら "wikilink") [Category:4コマ漫画](https://ja.wikipedia.org/wiki/Category:4コマ漫画 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink")
+[Category:漫画作品_ひ](https://ja.wikipedia.org/wiki/Category:漫画作品_ひ "wikilink") [Category:2005年の漫画](https://ja.wikipedia.org/wiki/Category:2005年の漫画 "wikilink") [Category:まんがタイムきららの4コマ漫画作品](https://ja.wikipedia.org/wiki/Category:まんがタイムきららの4コマ漫画作品 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink")

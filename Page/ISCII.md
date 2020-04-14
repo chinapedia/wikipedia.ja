@@ -7,7 +7,7 @@
 
 単一の符号化を使用する動機の1つは、ある書記系から他のものへの[翻字](../Page/翻字.md "wikilink")が容易になることである。しかしながら、あまりに非互換性が大きいためこれは実際には現実的な考えではない。[ISCIIについて](http://acharya.iitm.ac.in/multi_sys/exist_codes.php#Interchange)を参照。
 
-ISCIIは固定長の8ビット符号である。下位128個の符号位置は[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")そのままで、上位128個の符号位置がISCII特有である。 ISCIIではデフォルトで使われる「デフォルト書記系」を指定する手段は提供されていない。
+ISCIIは固定長の8ビット符号である。下位128個の符号位置は[ASCII](../Page/ASCII.md "wikilink")そのままで、上位128個の符号位置がISCII特有である。 ISCIIではデフォルトで使われる「デフォルト書記系」を指定する手段は提供されていない。
 
 ## ATR符号
 

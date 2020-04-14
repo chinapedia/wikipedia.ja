@@ -1,4 +1,4 @@
-> この記事は[USA](https://ja.wikipedia.org/wiki/USA)から翻訳されています。
+> この記事は[桃太郎電鉄USA](https://ja.wikipedia.org/wiki/桃太郎電鉄USA)から翻訳されています。
 
 
 **桃太郎電鉄USA**（ももたろうでんてつユーエスエー）は、[ハドソン](../Page/ハドソン.md "wikilink")が[2004年](../Page/2004年.md "wikilink")[11月18日](../Page/11月18日.md "wikilink")に発売した[PlayStation 2用ボードゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[桃太郎電鉄シリーズ](../Page/桃太郎電鉄シリーズ.md "wikilink")第13作。

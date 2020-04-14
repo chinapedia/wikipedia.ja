@@ -1,4 +1,4 @@
-> この記事は[CGTN \(TV\)](https://ja.wikipedia.org/wiki/CGTN_\(TV\))から翻訳されています。
+> この記事は[CGTN \(TVチャンネル\)](https://ja.wikipedia.org/wiki/CGTN_\(TVチャンネル\))から翻訳されています。
 
 
 **CGTN**（シージー ティーエヌ、、中国語：）は[中華人民共和国](../Page/中華人民共和国.md "wikilink")の国営テレビ局[中国中央電視台](../Page/中国中央電視台.md "wikilink")の[中国グローバルテレビジョンネットワーク（中国環球電視網）の](https://ja.wikipedia.org/wiki/CGTN_\(放送事業者\) "wikilink")[英語](../Page/英語.md "wikilink")による国際ニュース放送[チャンネル](https://ja.wikipedia.org/wiki/チャンネル "wikilink")である。24時間放送を行なっている。かつては「CCTV-NEWS」「CCTV-9」「CCTV International」として知られていた。

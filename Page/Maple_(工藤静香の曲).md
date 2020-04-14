@@ -1,4 +1,4 @@
-> この記事は[Maple \(\)](https://ja.wikipedia.org/wiki/Maple_\(\))から翻訳されています。
+> この記事は[Maple \(工藤静香の曲\)](https://ja.wikipedia.org/wiki/Maple_\(工藤静香の曲\))から翻訳されています。
 
 
 「**maple**」（メイプル）は、[工藤静香](../Page/工藤静香.md "wikilink")通算36枚目の[シングル](../Page/シングル.md "wikilink")。2002年4月24日発売。発売元は[エクスタシー・ジャパン](https://ja.wikipedia.org/wiki/エクスタシー・ジャパン "wikilink")、販売元は[ユニバーサルミュージック株式会社](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

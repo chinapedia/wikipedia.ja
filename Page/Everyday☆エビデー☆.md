@@ -1,4 +1,4 @@
-> この記事は[Everyday](https://ja.wikipedia.org/wiki/Everyday)から翻訳されています。
+> この記事は[Everyday☆エビデー☆](https://ja.wikipedia.org/wiki/Everyday☆エビデー☆)から翻訳されています。
 
 
 **Everyday☆エビデー☆**（エビデー）は、[SONOMIの](../Page/SONOMI_\(歌手\).md "wikilink")[メジャーデビューとなるミニアルバムである](https://ja.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")・[Knife Edge](https://ja.wikipedia.org/wiki/Knife_Edge "wikilink")。[e-radio HotStuff](https://ja.wikipedia.org/wiki/e-radio_HotStuff "wikilink")2007年7月の邦楽部門に選ばれる。

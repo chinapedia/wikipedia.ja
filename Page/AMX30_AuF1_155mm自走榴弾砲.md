@@ -1,4 +1,4 @@
-> この記事は[AMX30 AuF1 155mm](https://ja.wikipedia.org/wiki/AMX30_AuF1_155mm)から翻訳されています。
+> この記事は[AMX30 AuF1 155mm自走榴弾砲](https://ja.wikipedia.org/wiki/AMX30_AuF1_155mm自走榴弾砲)から翻訳されています。
 
 
 **AMX-30 AuF1**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の155mm[自走榴弾砲である](../Page/自走砲.md "wikilink")。

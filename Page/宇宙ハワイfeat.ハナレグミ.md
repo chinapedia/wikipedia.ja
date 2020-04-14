@@ -1,4 +1,4 @@
-> この記事は[feat.](https://ja.wikipedia.org/wiki/feat.)から翻訳されています。
+> この記事は[宇宙ハワイfeat.ハナレグミ](https://ja.wikipedia.org/wiki/宇宙ハワイfeat.ハナレグミ)から翻訳されています。
 
 
 **宇宙ハワイfeat.ハナレグミ**（うちゅう - ）は、[アルファのメジャー](../Page/アルファ_\(音楽グループ\).md "wikilink")11枚目の[シングル](../Page/シングル.md "wikilink")。発売元は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")。

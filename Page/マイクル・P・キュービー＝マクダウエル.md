@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[マイクル・P・キュービー＝マクダウエル](https://ja.wikipedia.org/wiki/マイクル・P・キュービー＝マクダウエル)から翻訳されています。
 
 
 '''マイクル・P・キュービー=マクダウエル '''（Michael P. Kube-McDowell、[1954年](../Page/1954年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")出身の[SF](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")・ノンフィクション作家。

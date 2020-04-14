@@ -1,4 +1,4 @@
-> この記事は[ JUVENILE REMIX](https://ja.wikipedia.org/wiki/_JUVENILE_REMIX)から翻訳されています。
+> この記事は[魔王 JUVENILE REMIX](https://ja.wikipedia.org/wiki/魔王_JUVENILE_REMIX)から翻訳されています。
 
 
 『**魔王 JUVENILE REMIX**』（まおう ジュブナイル リミックス）は、[2007年](../Page/2007年.md "wikilink")27号から[2009年](../Page/2009年.md "wikilink")30号まで[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")で連載された[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。原作は[伊坂幸太郎](https://ja.wikipedia.org/wiki/伊坂幸太郎 "wikilink")、漫画は[大須賀めぐみ](../Page/大須賀めぐみ.md "wikilink")。英語版タイトルは「MAOH JUVENILE REMIX」。

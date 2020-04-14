@@ -1,4 +1,4 @@
-> この記事は[B-KING](https://ja.wikipedia.org/wiki/B-KING)から翻訳されています。
+> この記事は[スズキ・B-KING](https://ja.wikipedia.org/wiki/スズキ・B-KING)から翻訳されています。
 
 
 **B-KING**（ビーキング）は[スズキの大型二輪車](../Page/スズキ_\(企業\).md "wikilink")。機種記号はGSX1300BK。排気量1,340ccの[ネイキッドタイプの](../Page/ネイキッド_\(オートバイ\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。

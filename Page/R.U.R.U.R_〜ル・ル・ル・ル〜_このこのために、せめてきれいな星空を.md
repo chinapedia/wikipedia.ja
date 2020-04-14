@@ -1,4 +1,4 @@
-> この記事は[R.U.R.U.R  ](https://ja.wikipedia.org/wiki/R.U.R.U.R__)から翻訳されています。
+> この記事は[R.U.R.U.R 〜ル・ル・ル・ル〜 このこのために、せめてきれいな星空を](https://ja.wikipedia.org/wiki/R.U.R.U.R_〜ル・ル・ル・ル〜_このこのために、せめてきれいな星空を)から翻訳されています。
 
 
 『**R.U.R.U.R ル・ル・ル・ル このこのために、せめてきれいな星空を**』（ルルルル このこのために せめてきれいなほしぞらを）は、[light](https://ja.wikipedia.org/wiki/light "wikilink")より[2007年](../Page/2007年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")に発売されたパソコン用[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。

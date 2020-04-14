@@ -1,4 +1,4 @@
-> この記事は[JAL IC](https://ja.wikipedia.org/wiki/JAL_IC)から翻訳されています。
+> この記事は[JAL ICサービス](https://ja.wikipedia.org/wiki/JAL_ICサービス)から翻訳されています。
 
 
 **JAL ICサービス**（ジャルアイシーサービス）は、[日本航空](../Page/日本航空.md "wikilink")（JAL）が[2005年](../Page/2005年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に導入した、[ソニー](../Page/ソニー.md "wikilink")の非接触[ICカード](../Page/ICカード.md "wikilink")技術[FeliCa](../Page/FeliCa.md "wikilink")を用いた、[電子航空券](../Page/電子航空券.md "wikilink")によるチケットレス搭乗などのサービスである。[JALマイレージバンク](../Page/JALマイレージバンク.md "wikilink")（以下JMB）の会員カードのほか、[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")でも利用できる。

@@ -1,4 +1,4 @@
-> この記事は[MASH \(\)](https://ja.wikipedia.org/wiki/MASH_\(\))から翻訳されています。
+> この記事は[MASH \(ミュージシャン\)](https://ja.wikipedia.org/wiki/MASH_\(ミュージシャン\))から翻訳されています。
 
 
 **MASH**（マッシュ、[1979年](../Page/1979年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink")\[1\] - 、本名：増田憲一）は、日本の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である。

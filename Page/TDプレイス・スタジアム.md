@@ -1,4 +1,4 @@
-> この記事は[TD](https://ja.wikipedia.org/wiki/TD)から翻訳されています。
+> この記事は[TDプレイス・スタジアム](https://ja.wikipedia.org/wiki/TDプレイス・スタジアム)から翻訳されています。
 
 
 **TDプレイス・スタジアム**（英語：**TD Place Stadium**）は、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")の[オタワ](../Page/オタワ.md "wikilink")にある[カナディアンフットボール](../Page/カナディアンフットボール.md "wikilink")の競技場。[リドー運河](../Page/リドー運河.md "wikilink")に面した[ランズダウン公園に位置する](https://ja.wikipedia.org/wiki/:en:Lansdowne_Park "wikilink")。

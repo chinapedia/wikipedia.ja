@@ -1,4 +1,4 @@
-> この記事は[ KWAIDAN](https://ja.wikipedia.org/wiki/_KWAIDAN)から翻訳されています。
+> この記事は[怪談 KWAIDAN](https://ja.wikipedia.org/wiki/怪談_KWAIDAN)から翻訳されています。
 
 
 『**怪談 KWAIDAN**』（かいだん）は、[フジテレビで放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[小泉八雲](../Page/小泉八雲.md "wikilink")の『[怪談](../Page/怪談_\(小泉八雲\).md "wikilink")』を原作としたスペシャルドラマ。同じく小泉八雲の怪談を原作とした『**怪談 KWAIDAN II**』と『**怪談 KWAIDAN III 牡丹燈籠**』も本項で取り扱う。

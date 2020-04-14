@@ -1,4 +1,4 @@
-> この記事は[VAB](https://ja.wikipedia.org/wiki/VAB)から翻訳されています。
+> この記事は[VAB装甲車](https://ja.wikipedia.org/wiki/VAB装甲車)から翻訳されています。
 
 
 **VAB装甲車**（[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")：）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")製の[装輪式](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")[装甲兵員輸送車](../Page/装甲兵員輸送車.md "wikilink")である。[1976年](../Page/1976年.md "wikilink")に就役し、5,000両が生産されている。

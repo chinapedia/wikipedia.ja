@@ -1,7 +1,7 @@
 > この記事は[TSCII](https://ja.wikipedia.org/wiki/TSCII)から翻訳されています。
 
 
-**TSCII** (**T**amil **S**cript **C**ode for **I**nformation **I**nterchange、情報交換用タミル文字符号) は[タミル文字](https://ja.wikipedia.org/wiki/タミル文字 "wikilink")を表現するための符号化方式である。下位128個の符号位置は純粋な[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")で、上位128個の符号位置はTSCII特有である。インターネットでは長い間私的な合意にのみ基づいて使われていたが、2007年に[IANAへの登録に成功した](../Page/Internet_Assigned_Numbers_Authority.md "wikilink")\[1\]。
+**TSCII** (**T**amil **S**cript **C**ode for **I**nformation **I**nterchange、情報交換用タミル文字符号) は[タミル文字](https://ja.wikipedia.org/wiki/タミル文字 "wikilink")を表現するための符号化方式である。下位128個の符号位置は純粋な[ASCII](../Page/ASCII.md "wikilink")で、上位128個の符号位置はTSCII特有である。インターネットでは長い間私的な合意にのみ基づいて使われていたが、2007年に[IANAへの登録に成功した](../Page/Internet_Assigned_Numbers_Authority.md "wikilink")\[1\]。
 
 **TSCII**はタミル文字タイプライタを使うときと同様、文字を視覚的な (書かれる) 順序で符号化する。
 

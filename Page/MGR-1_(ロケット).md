@@ -1,4 +1,4 @@
-> この記事は[MGR-1 \(\)](https://ja.wikipedia.org/wiki/MGR-1_\(\))から翻訳されています。
+> この記事は[MGR-1 \(ロケット\)](https://ja.wikipedia.org/wiki/MGR-1_\(ロケット\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称=MGR-1 オネスト・ジョン | 画像=<File:MGR-1> Honest John 05.jpg | キャプション=トラックの[M386発射機上にあるMGR](https://ja.wikipedia.org/wiki/M54_5tトラック#ミサイルキャリアー型 "wikilink")-1A オネスト・ジョン。 | 用途=地対地戦域攻撃 | 分類=[地対地ロケット弾](../Page/ロケット弾.md "wikilink")、[核ロケット](../Page/核ミサイル.md "wikilink") | 設計者=[ダグラス・エアクラフト](../Page/ダグラス・エアクラフト.md "wikilink") | 製造者=ダグラス・エアクラフト、エマーソン・エレクトリック | 運用者 more=

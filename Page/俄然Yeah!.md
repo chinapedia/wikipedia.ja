@@ -1,4 +1,4 @@
-> この記事は[Yeah!](https://ja.wikipedia.org/wiki/Yeah!)から翻訳されています。
+> この記事は[俄然Yeah!](https://ja.wikipedia.org/wiki/俄然Yeah!)から翻訳されています。
 
 
 『**俄然Yeah\!**』（がぜんイェー）は、[mihimaru GTの](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")14枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[8月15日](../Page/8月15日.md "wikilink")発売。発売元は、[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

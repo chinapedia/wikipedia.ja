@@ -1,4 +1,4 @@
-> この記事は[FNS](https://ja.wikipedia.org/wiki/FNS)から翻訳されています。
+> この記事は[FNS地球特捜隊ダイバスターの登場人物](https://ja.wikipedia.org/wiki/FNS地球特捜隊ダイバスターの登場人物)から翻訳されています。
 
 
 本記事では[フジテレビ系列による](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[アニメ](../Page/アニメ.md "wikilink")と[特撮](../Page/特撮.md "wikilink")を融合させた[深夜番組](../Page/深夜番組.md "wikilink")、『**FNS地球特捜隊ダイバスター**』（エフエヌエスちきゅうとくそうたいダイバスター）の登場キャラクターについて解説する。

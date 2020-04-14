@@ -1,4 +1,4 @@
-> この記事は[E-CUP SLAVE ](https://ja.wikipedia.org/wiki/E-CUP_SLAVE_)から翻訳されています。
+> この記事は[E-CUP SLAVE 愉芽の絆](https://ja.wikipedia.org/wiki/E-CUP_SLAVE_愉芽の絆)から翻訳されています。
 
 
 **E-CUP SLAVE 愉芽の絆** （いーかっぷ　すれいぶ　ゆめのきずな）は、[岡本百合](../Page/岡本百合.md "wikilink")主演の[シネマジック](../Page/シネマジック.md "wikilink")の[AV作品である](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")。

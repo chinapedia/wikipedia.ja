@@ -1,4 +1,4 @@
-> この記事は[SIREN \(SION\)](https://ja.wikipedia.org/wiki/SIREN_\(SION\))から翻訳されています。
+> この記事は[SIREN \(SIONのアルバム\)](https://ja.wikipedia.org/wiki/SIREN_\(SIONのアルバム\))から翻訳されています。
 
 
 『**SIREN**』（サイレン）は、[SION](../Page/SION.md "wikilink")の3枚目のオリジナルアルバム。[1988年](../Page/1988年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売。発売元はBAIDIS（[テイチク](../Page/テイチクエンタテインメント.md "wikilink")）。

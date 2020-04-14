@@ -1,4 +1,4 @@
-> この記事は[CC8S](https://ja.wikipedia.org/wiki/CC8S)から翻訳されています。
+> この記事は[ケーニグセグ・CC8S](https://ja.wikipedia.org/wiki/ケーニグセグ・CC8S)から翻訳されています。
 
 
 **ケーニグセグ・CC8S**とは、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ケーニグセグ](../Page/ケーニグセグ.md "wikilink")が製造・販売していた[スーパーカー](../Page/スーパーカー.md "wikilink")である。

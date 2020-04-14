@@ -1,4 +1,4 @@
-> この記事は[SKiP](https://ja.wikipedia.org/wiki/SKiP)から翻訳されています。
+> この記事は[SKiPサービス](https://ja.wikipedia.org/wiki/SKiPサービス)から翻訳されています。
 
 
 **SKiPサービス**（スキップサービス）は、[全日本空輸](https://ja.wikipedia.org/wiki/全日本空輸 "wikilink")(ANA)が[2006年](../Page/2006年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に導入した、[QRコード](../Page/QRコード.md "wikilink")または[FeliCa](../Page/FeliCa.md "wikilink")チップを用いた、[電子航空券](../Page/電子航空券.md "wikilink")によるチケットレス搭乗サービスである。[ANAマイレージクラブ](../Page/ANAマイレージクラブ.md "wikilink")（以下AMC）の会員でない場合はQRコードでの利用に限られるが、AMCの会員であればFeliCaチップ内蔵のAMC会員カードまたは利用登録した[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")でも利用できる。

@@ -1,7 +1,7 @@
-> この記事は[JRT](https://ja.wikipedia.org/wiki/JRT)から翻訳されています。
+> この記事は[JRTゴールデンナイター](https://ja.wikipedia.org/wiki/JRTゴールデンナイター)から翻訳されています。
 
 
-**JRTゴールデンナイター**（ジェイアールティーゴールデンナイター）は、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")ラジオで毎年4月 - 9月までの毎週水曜から金曜の夜に放送されている、[プロ野球](../Page/プロ野球.md "wikilink")（[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")）の[ナイター](../Page/ナイター.md "wikilink")中継である。この項では[四国アイランドリーグplus](../Page/四国アイランドリーグplus.md "wikilink")・[徳島インディゴソックス](../Page/徳島インディゴソックス.md "wikilink")戦を中継する**ラジオを持ってスタジアムへ行こう\!徳島インディゴソックス戦中継**についても取り扱う。
+**JRTゴールデンナイター**（ジェイアールティーゴールデンナイター）は、[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")ラジオで毎年4月 - 9月までの毎週水曜から金曜の夜に放送されている、[プロ野球](../Page/日本プロ野球.md "wikilink")（[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")）の[ナイター](../Page/ナイター.md "wikilink")中継である。この項では[四国アイランドリーグplus](../Page/四国アイランドリーグplus.md "wikilink")・[徳島インディゴソックス](../Page/徳島インディゴソックス.md "wikilink")戦を中継する**ラジオを持ってスタジアムへ行こう\!徳島インディゴソックス戦中継**についても取り扱う。
 
 ## 概要
 
@@ -75,7 +75,7 @@ Steve Morse Band - Barbary Coast
 
   - [DRAMATIC BASEBALL](../Page/Fun!BASEBALL!!.md "wikilink")（JRTテレビ）
 
-[Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:四国放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:四国放送のラジオ番組 "wikilink") [Category:徳島ヴォルティス](https://ja.wikipedia.org/wiki/Category:徳島ヴォルティス "wikilink") [Category:徳島インディゴソックス](https://ja.wikipedia.org/wiki/Category:徳島インディゴソックス "wikilink")
+[Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:四国放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:四国放送のラジオ番組 "wikilink") [Category:徳島ヴォルティス](https://ja.wikipedia.org/wiki/Category:徳島ヴォルティス "wikilink") [Category:徳島インディゴソックス](https://ja.wikipedia.org/wiki/Category:徳島インディゴソックス "wikilink")
 
 1.  四国IL中継を行う場合など、例外はある。
 2.  2019年日本シリーズ中継ネット時には例外的にRKC・RNCへの裏送り対応を行っている

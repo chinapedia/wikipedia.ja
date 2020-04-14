@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本研究開発センター](https://ja.wikipedia.org/wiki/JR東日本研究開発センター)から翻訳されています。
 
 
 **JR東日本研究開発センター**（ジェイアールひがしにほんけんきゅうかいはつセンター）は、[埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")[北区にある](https://ja.wikipedia.org/wiki/北区_\(さいたま市\) "wikilink")、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の企業内研究機関である。

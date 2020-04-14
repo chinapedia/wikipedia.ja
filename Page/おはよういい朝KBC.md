@@ -1,7 +1,7 @@
-> この記事は[KBC](https://ja.wikipedia.org/wiki/KBC)から翻訳されています。
+> この記事は[おはよういい朝KBC](https://ja.wikipedia.org/wiki/おはよういい朝KBC)から翻訳されています。
 
 
-**おはよういい朝KBC**は、[KBCラジオ](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink")で放送していた、早朝の番組である。2011年4月2日放送終了。
+**おはよういい朝KBC**は、[KBCラジオ](../Page/KBCラジオ.md "wikilink")で放送していた、早朝の番組である。2011年4月2日放送終了。
 
 [パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")、[清水千晴](https://ja.wikipedia.org/wiki/清水千晴 "wikilink")（月曜～金曜日）、[小柳有紀](https://ja.wikipedia.org/wiki/小柳有紀 "wikilink")（土曜日）。
 

@@ -1,4 +1,4 @@
-> この記事は[DISCHARGE \(SION\)](https://ja.wikipedia.org/wiki/DISCHARGE_\(SION\))から翻訳されています。
+> この記事は[DISCHARGE \(SIONのアルバム\)](https://ja.wikipedia.org/wiki/DISCHARGE_\(SIONのアルバム\))から翻訳されています。
 
 
 『**DISCHARGE**』（ディスチャージ）は、[SION](../Page/SION.md "wikilink")が[1999年](../Page/1999年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")に[東芝EMIからリリースした](../Page/EMIミュージック・ジャパン.md "wikilink")、13枚目のオリジナルアルバムである。

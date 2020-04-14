@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ディキソン・W・リチャーズ](https://ja.wikipedia.org/wiki/ディキソン・W・リチャーズ)から翻訳されています。
 
 
 ` `

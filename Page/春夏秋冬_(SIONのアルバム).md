@@ -1,4 +1,4 @@
-> この記事は[ \(SION\)](https://ja.wikipedia.org/wiki/_\(SION\))から翻訳されています。
+> この記事は[春夏秋冬 \(SIONのアルバム\)](https://ja.wikipedia.org/wiki/春夏秋冬_\(SIONのアルバム\))から翻訳されています。
 
 
 『**春夏秋冬**』（しゅんかしゅうとう）は、[SION](../Page/SION.md "wikilink")の2枚目のオリジナルアルバム。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[1月21日](../Page/1月21日.md "wikilink")発売。発売元はBAIDIS（[テイチクレコード](../Page/テイチクエンタテインメント.md "wikilink")）。

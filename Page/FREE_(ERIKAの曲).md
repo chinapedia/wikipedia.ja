@@ -1,4 +1,4 @@
-> この記事は[FREE \(ERIKA\)](https://ja.wikipedia.org/wiki/FREE_\(ERIKA\))から翻訳されています。
+> この記事は[FREE \(ERIKAの曲\)](https://ja.wikipedia.org/wiki/FREE_\(ERIKAの曲\))から翻訳されています。
 
 
 「**FREE**」（フリー）は、[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")が**ERIKA**名義で発売した事実上の[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")発売。発売元は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

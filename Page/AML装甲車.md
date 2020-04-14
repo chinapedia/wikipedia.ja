@@ -1,4 +1,4 @@
-> この記事は[AML](https://ja.wikipedia.org/wiki/AML)から翻訳されています。
+> この記事は[AML装甲車](https://ja.wikipedia.org/wiki/AML装甲車)から翻訳されています。
 
 
 **AML装甲車**（[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")：）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[パナール](../Page/パナール.md "wikilink")社で設計された四輪の[装輪装甲車](https://ja.wikipedia.org/wiki/装輪装甲車 "wikilink")・[偵察戦闘車](../Page/偵察戦闘車.md "wikilink")である（パナールにおける社内コードはAML 245）。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ラーフ・アーハンFC](https://ja.wikipedia.org/wiki/ラーフ・アーハンFC)から翻訳されています。
 
 
 **ラーフ・アーハンFC**（、）は、[イラン](../Page/イラン.md "wikilink")の首都[テヘラン](../Page/テヘラン.md "wikilink")を本拠地とするサッカークラブである。ラーフ・アーハンはペルシア語で鉄道を意味する。

@@ -1,4 +1,4 @@
-> この記事は[Something4 Saturday](https://ja.wikipedia.org/wiki/Something4_Saturday)から翻訳されています。
+> この記事は[石塚恵子のSomething4 Saturday](https://ja.wikipedia.org/wiki/石塚恵子のSomething4_Saturday)から翻訳されています。
 
 
 **石塚恵子のSomething4 Saturday**（いしづかけいこのサムシングフォーサタデー）は、[ミュージックバード](../Page/ミュージックバード.md "wikilink")で、[2006年](../Page/2006年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")から[2009年](../Page/2009年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで放送されていた番組。放送時間は、毎週土曜日の16:00～17:55（JST）。また、一部の[コミュニティ放送](../Page/コミュニティ放送.md "wikilink")局でもネットされていた。

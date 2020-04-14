@@ -1,4 +1,4 @@
-> この記事は[ EOS Kiss ](https://ja.wikipedia.org/wiki/_EOS_Kiss_)から翻訳されています。
+> この記事は[キヤノン EOS Kiss デジタル](https://ja.wikipedia.org/wiki/キヤノン_EOS_Kiss_デジタル)から翻訳されています。
 
 
 **キヤノン EOS Kiss デジタル**（キヤノン イオス キス デジタル）は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")製[デジタル](../Page/デジタル.md "wikilink")[一眼レフカメラ](../Page/一眼レフカメラ.md "wikilink")の入門・ファミリーユース向けシリーズである。上位機種は[EOS 10Dシリーズ](https://ja.wikipedia.org/wiki/キヤノン_EOS_10D "wikilink")。

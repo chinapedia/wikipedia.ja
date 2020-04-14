@@ -1,4 +1,4 @@
-> この記事は[ \(SION\)](https://ja.wikipedia.org/wiki/_\(SION\))から翻訳されています。
+> この記事は[螢 \(SIONのアルバム\)](https://ja.wikipedia.org/wiki/螢_\(SIONのアルバム\))から翻訳されています。
 
 
 『**螢**』（ほたる）は、[SION](../Page/SION.md "wikilink")の7枚目のオリジナルアルバム。[1992年](../Page/1992年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")発売。発売元はBAIDIS（[テイチク](../Page/テイチクエンタテインメント.md "wikilink")）。

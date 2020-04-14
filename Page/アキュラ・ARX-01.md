@@ -1,4 +1,4 @@
-> この記事は[ARX-01](https://ja.wikipedia.org/wiki/ARX-01)から翻訳されています。
+> この記事は[アキュラ・ARX-01](https://ja.wikipedia.org/wiki/アキュラ・ARX-01)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/file:Highcroft_Acura.jpg "wikilink") [right](https://ja.wikipedia.org/wiki/file:Highcroft_ARX-01B.jpg "wikilink") **アキュラ・ARX-01**は、[アメリカン・ルマン・シリーズ](https://ja.wikipedia.org/wiki/アメリカン・ルマン・シリーズ "wikilink")（ALMS）のLMP2クラスへの参戦のために開発された[スポーツプロトタイプカー](https://ja.wikipedia.org/wiki/プロトタイプレーシングカー "wikilink")。[ホンダとしては初のスポーツプロトタイプシャシーである](../Page/本田技研工業.md "wikilink")。クラージュ・コンペティションが製作したクラージュ・LC75をベースに、大幅に改良し独自のものとした。

@@ -1,4 +1,4 @@
-> この記事は[M \(\)](https://ja.wikipedia.org/wiki/M_\(\))から翻訳されています。
+> この記事は[ヘンリー・M・ジャクソン \(原子力潜水艦\)](https://ja.wikipedia.org/wiki/ヘンリー・M・ジャクソン_\(原子力潜水艦\))から翻訳されています。
 
 
 <div class="thumb tright">

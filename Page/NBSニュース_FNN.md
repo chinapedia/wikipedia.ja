@@ -1,4 +1,4 @@
-> この記事は[NBS FNN](https://ja.wikipedia.org/wiki/NBS_FNN)から翻訳されています。
+> この記事は[NBSニュース FNN](https://ja.wikipedia.org/wiki/NBSニュース_FNN)から翻訳されています。
 
 
 『**NBSニュース FNN**』（エヌビーエスニュース エフエヌエヌ）は、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")の開局から[2003年](../Page/2003年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")まで[長野放送](../Page/長野放送.md "wikilink")で使用されていた『[産経テレニュースFNN](https://ja.wikipedia.org/wiki/産経テレニュースFNN "wikilink")』の差し替えタイトルである。

@@ -1,4 +1,4 @@
-> この記事は[ Do.N](https://ja.wikipedia.org/wiki/_Do.N)から翻訳されています。
+> この記事は[ドルニエ Do.N](https://ja.wikipedia.org/wiki/ドルニエ_Do.N)から翻訳されています。
 
 
 {{ Infobox 航空機

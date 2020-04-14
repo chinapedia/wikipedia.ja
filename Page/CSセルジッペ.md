@@ -1,4 +1,4 @@
-> この記事は[CS](https://ja.wikipedia.org/wiki/CS)から翻訳されています。
+> この記事は[CSセルジッペ](https://ja.wikipedia.org/wiki/CSセルジッペ)から翻訳されています。
 
 
 **CSセルジッペ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[セルジッペ州](https://ja.wikipedia.org/wiki/セルジッペ州 "wikilink")[アラカジュ](../Page/アラカジュ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

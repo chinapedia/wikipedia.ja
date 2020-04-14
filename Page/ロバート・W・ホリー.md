@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[ロバート・W・ホリー](https://ja.wikipedia.org/wiki/ロバート・W・ホリー)から翻訳されています。
 
 
 **ロバート・ウィリアム・ホリー**（Robert William Holley, [1922年](../Page/1922年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink") - [1993年](../Page/1993年.md "wikilink")[2月11日](../Page/2月11日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[生化学者](https://ja.wikipedia.org/wiki/生化学者 "wikilink")で、[アラニン](../Page/アラニン.md "wikilink")の[運搬RNA](https://ja.wikipedia.org/wiki/運搬RNA "wikilink")を介して[DNAと](../Page/デオキシリボ核酸.md "wikilink")[タンパク質合成](https://ja.wikipedia.org/wiki/タンパク質合成 "wikilink")を結びつけた研究で、[ハー・ゴビンド・コラナ](../Page/ハー・ゴビンド・コラナ.md "wikilink")、[マーシャル・ニーレンバーグ](../Page/マーシャル・ニーレンバーグ.md "wikilink")とともに1968年度の[ノーベル生理学・医学賞](../Page/ノーベル生理学・医学賞.md "wikilink")を受賞した。

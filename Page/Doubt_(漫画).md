@@ -1,4 +1,4 @@
-> この記事は[Doubt \(\)](https://ja.wikipedia.org/wiki/Doubt_\(\))から翻訳されています。
+> この記事は[Doubt \(漫画\)](https://ja.wikipedia.org/wiki/Doubt_\(漫画\))から翻訳されています。
 
 
 『**Doubt**』（ダウト）は、[外海良基](../Page/外海良基.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[月刊少年ガンガン](../Page/月刊少年ガンガン.md "wikilink")』（[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）にて、[2007年](../Page/2007年.md "wikilink")8月号から[2009年](../Page/2009年.md "wikilink")3月号まで連載された。[デス・ゲーム](https://ja.wikipedia.org/wiki/デス・ゲーム "wikilink")を題材としたスリラーコミック。

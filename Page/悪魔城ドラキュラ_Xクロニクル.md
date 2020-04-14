@@ -1,4 +1,4 @@
-> この記事は[ X](https://ja.wikipedia.org/wiki/_X)から翻訳されています。
+> この記事は[悪魔城ドラキュラ Xクロニクル](https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_Xクロニクル)から翻訳されています。
 
 
 『**悪魔城ドラキュラ Xクロニクル**』（あくまじょうドラキュラ エックスクロニクル、英題: *[Castlevania: The Dracula X Chronicles](https://ja.wikipedia.org/wiki/:en:Castlevania:_The_Dracula_X_Chronicles "wikilink")*）は、[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")から2007年11月8日に発売された[PlayStation Portable用ソフトのアクションゲーム](../Page/PlayStation_Portable.md "wikilink")。旧作『[悪魔城ドラキュラX 血の輪廻](../Page/悪魔城ドラキュラX_血の輪廻.md "wikilink")』と『[悪魔城ドラキュラX 月下の夜想曲](../Page/悪魔城ドラキュラX_月下の夜想曲.md "wikilink")』も同時収録されている。

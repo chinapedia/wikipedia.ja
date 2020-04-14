@@ -1,4 +1,4 @@
-> この記事は[CBC](https://ja.wikipedia.org/wiki/CBC)から翻訳されています。
+> この記事は[CBCラジオ長島送信所](https://ja.wikipedia.org/wiki/CBCラジオ長島送信所)から翻訳されています。
 
 
 [CBC_Radio_Nagashima_Transmitting_Station_20160331.JPG](https://ja.wikipedia.org/wiki/File:CBC_Radio_Nagashima_Transmitting_Station_20160331.JPG "fig:CBC_Radio_Nagashima_Transmitting_Station_20160331.JPG") **CBCラジオ長島送信所**（シービーシーラジオ ながしまそうしんじょ）は、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[桑名市](../Page/桑名市.md "wikilink")長島町白鶏に置かれている[CBCラジオ](../Page/CBCラジオ.md "wikilink")の主幹[送信所](../Page/送信所.md "wikilink")。通称は「CBCラジオ名古屋送信所」。

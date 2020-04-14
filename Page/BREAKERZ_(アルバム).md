@@ -1,4 +1,4 @@
-> この記事は[BREAKERZ \(\)](https://ja.wikipedia.org/wiki/BREAKERZ_\(\))から翻訳されています。
+> この記事は[BREAKERZ \(アルバム\)](https://ja.wikipedia.org/wiki/BREAKERZ_\(アルバム\))から翻訳されています。
 
 
 『**BREAKERZ**』（ブレイカーズ）は、[BREAKERZ](https://ja.wikipedia.org/wiki/BREAKERZ "wikilink")の1枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")に[ZAIN RECORDSから発売された](../Page/ZAIN_RECORDS.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[SION \(\)](https://ja.wikipedia.org/wiki/SION_\(\))から翻訳されています。
+> この記事は[SION \(アルバム\)](https://ja.wikipedia.org/wiki/SION_\(アルバム\))から翻訳されています。
 
 
 『**SION**』（シオン）は、[SION](../Page/SION.md "wikilink")の1枚目のオリジナルアルバム。[1986年](https://ja.wikipedia.org/wiki/1986年 "wikilink")[6月21日](../Page/6月21日.md "wikilink")発売。発売元はCONTINENTAL（[テイチクレコード](../Page/テイチクエンタテインメント.md "wikilink")）。

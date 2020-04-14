@@ -1,4 +1,4 @@
-> この記事は[HelloI Love You](https://ja.wikipedia.org/wiki/HelloI_Love_You)から翻訳されています。
+> この記事は[Hello…I Love You](https://ja.wikipedia.org/wiki/Hello…I_Love_You)から翻訳されています。
 
 
 『**Hello…I Love You**』（ハロー・アイ・ラヴ・ユー）は、[光GENJI](../Page/光GENJI.md "wikilink")の4枚目の[アルバム](../Page/アルバム.md "wikilink")。[1989年](../Page/1989年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

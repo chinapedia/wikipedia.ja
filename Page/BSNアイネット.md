@@ -1,4 +1,4 @@
-> この記事は[BSN](https://ja.wikipedia.org/wiki/BSN)から翻訳されています。
+> この記事は[BSNアイネット](https://ja.wikipedia.org/wiki/BSNアイネット)から翻訳されています。
 
 
 **株式会社BSNアイネット**（ビーエスエヌ・アイネット）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")[情報処理](../Page/情報処理.md "wikilink")サービス、[システムソフトウェア](../Page/システムソフトウェア.md "wikilink")開発などを行う会社。[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")の関連会社である。なお、BSNアイネットの「BSN」のロゴはかつて新潟放送が使用していたロゴである。

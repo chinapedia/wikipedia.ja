@@ -1,4 +1,4 @@
-> この記事は[Lotus --](https://ja.wikipedia.org/wiki/Lotus_--)から翻訳されています。
+> この記事は[Lotus -生まれし花-](https://ja.wikipedia.org/wiki/Lotus_-生まれし花-)から翻訳されています。
 
 
 「**Lotus〜生まれし花〜**」（ロータス うまれしはな）は、[工藤静香](../Page/工藤静香.md "wikilink")通算37枚目の[シングル](../Page/シングル.md "wikilink")。2005年2月16日発売。発売元は[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")。

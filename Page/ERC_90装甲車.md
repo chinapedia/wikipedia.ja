@@ -1,4 +1,4 @@
-> この記事は[ERC 90](https://ja.wikipedia.org/wiki/ERC_90)から翻訳されています。
+> この記事は[ERC 90装甲車](https://ja.wikipedia.org/wiki/ERC_90装甲車)から翻訳されています。
 
 
 **ERC 90**（[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")：）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")製の6輪式[偵察用装甲車であり](../Page/偵察戦闘車.md "wikilink")、水上走行能力と[NBC防護能力を備えている](../Page/規制が議論されている兵器.md "wikilink")。当初は輸出用として開発されたが、後にフランス軍にも採用されている。

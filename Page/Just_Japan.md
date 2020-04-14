@@ -82,4 +82,4 @@
   - [政府広報オンライン内紹介ページ](http://web.archive.org/web/20081229070827/http://www.gov-online.go.jp/pr/media/tv/just/index.html)（2008年12月29日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
   - [tvk-BB](http://www.tvk-bb.tv/justjapan/)
 
-[Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink") [Category:政府広報番組](https://ja.wikipedia.org/wiki/Category:政府広報番組 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink")
+[Category:テレビ神奈川の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組の歴史 "wikilink") [Category:政府広報番組](https://ja.wikipedia.org/wiki/Category:政府広報番組 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:2007年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2007年のテレビ番組_\(日本\) "wikilink")

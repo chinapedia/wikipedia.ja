@@ -1,4 +1,4 @@
-> この記事は[SONGS \(SION\)](https://ja.wikipedia.org/wiki/SONGS_\(SION\))から翻訳されています。
+> この記事は[SONGS \(SIONのアルバム\)](https://ja.wikipedia.org/wiki/SONGS_\(SIONのアルバム\))から翻訳されています。
 
 
 『**SONGS**』（ソングス）は、[SION](../Page/SION.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[東芝EMIからリリースした](../Page/EMIミュージック・ジャパン.md "wikilink")、カバーアルバムである。

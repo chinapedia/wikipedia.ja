@@ -1,4 +1,4 @@
-> この記事は[SAS ](https://ja.wikipedia.org/wiki/SAS_)から翻訳されています。
+> この記事は[SAS スペシャル・アナスタシア・サービス](https://ja.wikipedia.org/wiki/SAS_スペシャル・アナスタシア・サービス)から翻訳されています。
 
 
 『**SAS スペシャル・アナスタシア・サービス**』（*Special Anastasia Service*）は、[鳥居羊](https://ja.wikipedia.org/wiki/鳥居羊 "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ライトノベル](../Page/ライトノベル.md "wikilink")。[イラスト](https://ja.wikipedia.org/wiki/イラスト "wikilink")は[まったくモー助](../Page/まったくモー助.md "wikilink")が担当。第1回（[2006年](../Page/2006年.md "wikilink")）[ノベルジャパン大賞](../Page/HJ文庫大賞.md "wikilink")〈優秀賞〉受賞作。

@@ -1,4 +1,4 @@
-> この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
+> この記事は[JR東日本リテールネット](https://ja.wikipedia.org/wiki/JR東日本リテールネット)から翻訳されています。
 
 
 **株式会社JR東日本リテールネット**（ジェイアールひがしにほんリテールネット）は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[西新宿](../Page/西新宿.md "wikilink")に本社を置く[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）の完全[子会社](../Page/子会社.md "wikilink")（[連結子会社](../Page/連結子会社.md "wikilink")）。

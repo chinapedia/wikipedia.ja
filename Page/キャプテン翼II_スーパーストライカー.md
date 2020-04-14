@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[キャプテン翼II スーパーストライカー](https://ja.wikipedia.org/wiki/キャプテン翼II_スーパーストライカー)から翻訳されています。
 
 
 『**キャプテン翼II スーパーストライカー**』（きゃぷてんつばさツー ―）は、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[テクモ](../Page/テクモ.md "wikilink")より発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用のゲーム。

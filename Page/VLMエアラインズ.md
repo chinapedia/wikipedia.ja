@@ -1,4 +1,4 @@
-> この記事は[VLM](https://ja.wikipedia.org/wiki/VLM)から翻訳されています。
+> この記事は[VLMエアラインズ](https://ja.wikipedia.org/wiki/VLMエアラインズ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:OO-VLO-Fokker_50-VLM-2001.11.28.jpg "wikilink")

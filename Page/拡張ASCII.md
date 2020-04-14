@@ -1,7 +1,7 @@
-> この記事は[ASCII](https://ja.wikipedia.org/wiki/ASCII)から翻訳されています。
+> この記事は[拡張ASCII](https://ja.wikipedia.org/wiki/拡張ASCII)から翻訳されています。
 
 
-**拡張ASCII**(extended ASCIIもしくはhigh ASCII) は、他のものに加えて標準の7[ビット](../Page/ビット.md "wikilink")[ASCII](https://ja.wikipedia.org/wiki/ASCII "wikilink")を含み、[8ビット](../Page/8ビット.md "wikilink")かそれより大きい[文字コード](../Page/文字コード.md "wikilink")を表す用語である。この用語の使用は批判されることがある。ASCII標準が128個より多くの文字を含むように更新されたとか、この用語は単一の符号化方式を曖昧さなしに識別するというような (どちらも真実ではない) 誤解を招きかねないためである。
+**拡張ASCII**(extended ASCIIもしくはhigh ASCII) は、他のものに加えて標準の7[ビット](../Page/ビット.md "wikilink")[ASCII](../Page/ASCII.md "wikilink")を含み、[8ビット](../Page/8ビット.md "wikilink")かそれより大きい[文字コード](../Page/文字コード.md "wikilink")を表す用語である。この用語の使用は批判されることがある。ASCII標準が128個より多くの文字を含むように更新されたとか、この用語は単一の符号化方式を曖昧さなしに識別するというような (どちらも真実ではない) 誤解を招きかねないためである。
 
 ## 拡張の理由
 

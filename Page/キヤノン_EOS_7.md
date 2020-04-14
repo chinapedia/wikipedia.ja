@@ -1,4 +1,4 @@
-> この記事は[ EOS 7](https://ja.wikipedia.org/wiki/_EOS_7)から翻訳されています。
+> この記事は[キヤノン EOS 7](https://ja.wikipedia.org/wiki/キヤノン_EOS_7)から翻訳されています。
 
 
 [250px](https://ja.wikipedia.org/wiki/画像:Canon_EOS_30.jpg "wikilink") **キヤノン EOS 7**（キヤノン イオスセブン）は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")が[2000年](../Page/2000年.md "wikilink")10月に、[EOS 55の後継機として開発](../Page/キヤノン_EOS_55.md "wikilink")･発売したハイアマチュアクラス35mm一眼レフカメラ。当時の上位機種には[EOS-3](https://ja.wikipedia.org/wiki/キヤノン_EOS-3 "wikilink")、下位機種には[EOS Kiss IIIがあった](../Page/キヤノン_EOS_Kiss.md "wikilink")。基本コンセプトは「高品位と斬新さを兼ね備えた存在感のある造形」。

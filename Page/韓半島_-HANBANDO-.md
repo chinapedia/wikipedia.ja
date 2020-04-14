@@ -1,4 +1,4 @@
-> この記事は[ -HANBANDO-](https://ja.wikipedia.org/wiki/_-HANBANDO-)から翻訳されています。
+> この記事は[韓半島 -HANBANDO-](https://ja.wikipedia.org/wiki/韓半島_-HANBANDO-)から翻訳されています。
 
 
 『**韓半島 -HANBANDO-**』（ハンバンド、原題：*한반도*）は、[2006年](../Page/2006年.md "wikilink")公開の[韓国映画](../Page/韓国映画.md "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では映画館での劇場公開はされなかったが、[2011年](../Page/2011年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")に[DVD](../Page/DVD.md "wikilink")ソフトが発売された。

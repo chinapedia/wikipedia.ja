@@ -1,4 +1,4 @@
-> この記事は[G \(\)](https://ja.wikipedia.org/wiki/G_\(\))から翻訳されています。
+> この記事は[Gシリーズ \(小説\)](https://ja.wikipedia.org/wiki/Gシリーズ_\(小説\))から翻訳されています。
 
 
 『**Gシリーズ**』（G series）は、[講談社](../Page/講談社.md "wikilink")より発行されている[森博嗣](../Page/森博嗣.md "wikilink")による[推理小説](../Page/推理小説.md "wikilink")のシリーズである。シリーズの名前の由来はギリシャ文字を示すGreekから取ったものと言われる。

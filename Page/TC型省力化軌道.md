@@ -1,4 +1,4 @@
-> この記事は[TC](https://ja.wikipedia.org/wiki/TC)から翻訳されています。
+> この記事は[TC型省力化軌道](https://ja.wikipedia.org/wiki/TC型省力化軌道)から翻訳されています。
 
 
 **TC型省力化軌道**（TCがたしょうりょくかきどう）とは、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）本社総合技術開発推進部テクニカルセンター（現：[JR東日本研究開発センター](../Page/JR東日本研究開発センター.md "wikilink")テクニカルセンター）によって独自に開発された[省力化軌道](https://ja.wikipedia.org/wiki/省力化軌道 "wikilink")である。

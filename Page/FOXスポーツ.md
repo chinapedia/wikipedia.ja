@@ -1,4 +1,4 @@
-> この記事は[FOX](https://ja.wikipedia.org/wiki/FOX)から翻訳されています。
+> この記事は[FOXスポーツ](https://ja.wikipedia.org/wiki/FOXスポーツ)から翻訳されています。
 
 
 [FOX_Sports_logo.svg](https://ja.wikipedia.org/wiki/File:FOX_Sports_logo.svg "fig:FOX_Sports_logo.svg")

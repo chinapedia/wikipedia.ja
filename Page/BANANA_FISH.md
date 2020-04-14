@@ -75,7 +75,17 @@
   - アッシュ・リンクス（Ash Lynx）
     声 - [古澤徹](../Page/古澤徹.md "wikilink") / [内田雄馬](https://ja.wikipedia.org/wiki/内田雄馬 "wikilink")、[塙真奈美](https://ja.wikipedia.org/wiki/塙真奈美 "wikilink")（幼少期）
     演 - 柄谷吾史（2005年、2009年版） 演- 永井樹（幼少期） 演 - [磯村洋祐](https://ja.wikipedia.org/wiki/磯村洋祐 "wikilink")（2012年版）
-    本作の主人公。17歳（初登場時）〜19歳（最終回）。「アッシュ（灰）・リンクス（山猫）」は通称であり、本名はAslan Jade Callenreese（アスラン・ジェイド・カーレンリース、物語中盤でディノ・ゴルツィネとの間に[養子縁組](https://ja.wikipedia.org/wiki/養子縁組 "wikilink")が成立し、以降の姓はゴルツィネとなる）生年月日は[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月12日](../Page/8月12日.md "wikilink")生まれ。身長: 17歳時5フィート9インチ（約175.26cm）→5フィート11インチ（約180.34cm）、体重: 135ポンド（約61.235kg）、19歳時5フィート11インチ（約180.34cm）、体重: 150ポンド1/2オンス（約68.053kg）、[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ケープコッド](../Page/ケープコッド.md "wikilink")出身。母は幼い頃に失踪し、父は実家で小さな[ダイナー](https://ja.wikipedia.org/wiki/ダイナー "wikilink")兼[酒場](../Page/酒場.md "wikilink")を営んでいる。
+    本作の主人公。17歳（初登場時）〜19歳（最終回）。「アッシュ（灰）・リンクス（山猫）」は通称であり、本名はAslan Jade Callenreese（アスラン・ジェイド・カーレンリース、物語中盤でディノ・ゴルツィネとの間に[養子縁組](https://ja.wikipedia.org/wiki/養子縁組 "wikilink")が成立し、以降の姓はゴルツィネとなる）生年月日は[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")[8月12日](../Page/8月12日.md "wikilink")生まれ。
+
+身長: 17歳時；5フィート9インチ（約175.26cm）、体重: 135ポンド（約61.235kg）、
+
+  -
+    18歳時；5フィート11インチ（約180.34cm）、体重: 135ポンド（約61.235kg）、
+    19歳時；5フィート12インチ（約182.88cm）、体重: 150ポンド1/2オンス（約68.053kg）、
+
+[マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")[ケープコッド](../Page/ケープコッド.md "wikilink")出身。母は幼い頃に失踪し、父は実家で小さな[ダイナー](https://ja.wikipedia.org/wiki/ダイナー "wikilink")兼[酒場](../Page/酒場.md "wikilink")を営んでいる。
+
+  -
     [ニューヨーク](../Page/ニューヨーク.md "wikilink")・ダウンタウンのストリートキッズグループを統括するボス。金髪、緑の瞳の並外れて整った容姿と[IQ](../Page/知能指数.md "wikilink")180以上（マナーハイムの調査では210）の頭脳、人の上にたつ圧倒的な[カリスマ](../Page/カリスマ.md "wikilink")性を持ち、運動神経も抜群。戦闘に関しても、射撃の腕は一流でナイフの扱いにも長けている。
     兄グリフィンを[廃人](../Page/廃人.md "wikilink")同然にした「バナナフィッシュ」の謎を追ううちに、自らを男娼としていたディノと敵対することになる。孤独と幼少時からの精神的外傷（作中では、7歳の時に最初の[性犯罪](../Page/性犯罪.md "wikilink")の被害に遭っている。）、自己嫌悪、罪悪感に苛まれながらも配下・敵の前では常に冷酷非情とも取れる強い態度を崩さない。
     英二と出会い無償の愛を知ることで、心が癒され救われていく。しかし英二を命懸けで守ろうとするが故に、英二の存在が最大にして唯一の弱点となる。
@@ -99,7 +109,7 @@
   - グリフィン・カーレンリース
     声 - [橋本じゅん](../Page/橋本じゅん.md "wikilink") / [布施川一寛](https://ja.wikipedia.org/wiki/布施川一寛 "wikilink")
     演 - 武原広幸（2005年、2009年版）、[田中稔彦](https://ja.wikipedia.org/wiki/田中稔彦 "wikilink")（2012年版）
-    アッシュの年の離れた兄。物静かで大人しい詩人タイプの人間だったため、凄惨を極めるベトナムの戦場に耐えられず[ドラッグ](https://ja.wikipedia.org/wiki/ドラッグ "wikilink")に手を出した。それがエイブラハム・ドースンがもたらした「バナナ・フィッシュ」であったため精神を破壊され廃人同然となってしまう。その後入院していた病院からアッシュによって連れ出され、彼の看護を受けながら十年間後遺症に苦しむが、一時的に匿われていた町医者の元を訪れた英二を尾行してきたエイブラハムに発見され動揺した彼に撃たれて死亡する。のちに自らドラッグに手を出したわけではなく、エイブラハムの動きに気付いてしまったためにドラッグを打たれたことが語られた。
+    アッシュの年の離れた兄。物静かで大人しい詩人タイプの人間だったため、凄惨を極めるベトナムの戦場に耐えられず[ドラッグ](../Page/ドラッグ.md "wikilink")に手を出した。それがエイブラハム・ドースンがもたらした「バナナ・フィッシュ」であったため精神を破壊され廃人同然となってしまう。その後入院していた病院からアッシュによって連れ出され、彼の看護を受けながら十年間後遺症に苦しむが、一時的に匿われていた町医者の元を訪れた英二を尾行してきたエイブラハムに発見され動揺した彼に撃たれて死亡する。のちに自らドラッグに手を出したわけではなく、エイブラハムの動きに気付いてしまったためにドラッグを打たれたことが語られた。
   - ジョージ・スコット
     声 - / [稲垣拓哉](https://ja.wikipedia.org/wiki/稲垣拓哉 "wikilink")
     マックス・ロボの友人であり、弁護士。マックス・ロボと元妻ジェシカ・ランディの息子マイケル（声 - [富田美憂](https://ja.wikipedia.org/wiki/富田美憂 "wikilink")）の養育権争いでマックス・ロボの弁護を担当している。マックス・ロボからアッシュ・リンクスの保釈手続きを依頼される。黒髪で顔一面に髭を生やした男性。
@@ -253,7 +263,7 @@
 
 ## ラジオドラマ
 
-[1994年](../Page/1994年.md "wikilink")の初夏と[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の初夏に、[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")「[青春アドベンチャー](https://ja.wikipedia.org/wiki/青春アドベンチャー "wikilink")」枠内で放送された。
+[1994年](../Page/1994年.md "wikilink")の初夏と[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")の初夏に、[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")「[青春アドベンチャー](../Page/青春アドベンチャー.md "wikilink")」枠内で放送された。
 
 ### キャスト
 
@@ -455,7 +465,7 @@
   - [TVアニメ「BANANA FISH」公式サイト](http://bananafish.tv/)
 
   -
-[Category:吉田秋生](https://ja.wikipedia.org/wiki/Category:吉田秋生 "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:1985年の漫画](https://ja.wikipedia.org/wiki/Category:1985年の漫画 "wikilink") [Category:別冊少女コミック](https://ja.wikipedia.org/wiki/Category:別冊少女コミック "wikilink") [Category:ニューヨーク市を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした漫画作品 "wikilink") [Category:推理漫画](https://ja.wikipedia.org/wiki/Category:推理漫画 "wikilink") [Category:犯罪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材とした漫画作品 "wikilink") [Category:薬物を題材とした作品](https://ja.wikipedia.org/wiki/Category:薬物を題材とした作品 "wikilink") [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:2018年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2018年のテレビアニメ "wikilink") [Category:ノイタミナ](https://ja.wikipedia.org/wiki/Category:ノイタミナ "wikilink") [Category:MAPPA](https://ja.wikipedia.org/wiki/Category:MAPPA "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:フラワーコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:フラワーコミックスのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:犯罪を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材としたアニメ作品 "wikilink") [Category:ニューヨーク市を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台としたアニメ作品 "wikilink")
+[Category:吉田秋生](https://ja.wikipedia.org/wiki/Category:吉田秋生 "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:1985年の漫画](https://ja.wikipedia.org/wiki/Category:1985年の漫画 "wikilink") [Category:別冊少女コミック](https://ja.wikipedia.org/wiki/Category:別冊少女コミック "wikilink") [Category:ニューヨーク市を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした漫画作品 "wikilink") [Category:推理漫画](https://ja.wikipedia.org/wiki/Category:推理漫画 "wikilink") [Category:犯罪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材とした漫画作品 "wikilink") [Category:薬物を題材とした作品](https://ja.wikipedia.org/wiki/Category:薬物を題材とした作品 "wikilink") [Category:薬物を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:薬物を題材とした漫画作品 "wikilink") [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:2018年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2018年のテレビアニメ "wikilink") [Category:ノイタミナ](https://ja.wikipedia.org/wiki/Category:ノイタミナ "wikilink") [Category:MAPPA](https://ja.wikipedia.org/wiki/Category:MAPPA "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:フラワーコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:フラワーコミックスのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:犯罪を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材としたアニメ作品 "wikilink") [Category:ニューヨーク市を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台としたアニメ作品 "wikilink") [Category:薬物を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:薬物を題材としたアニメ作品 "wikilink")
 
 1.  [first-ace.com](http://stage.first-ace.com/bananafish/)、[shogakukan.co.jp](http://flowers.shogakukan.co.jp/y_diary/index.html)
 2.  この単語は[J・D・サリンジャー](../Page/J・D・サリンジャー.md "wikilink")の[短編](https://ja.wikipedia.org/wiki/短編 "wikilink")集「[ナイン・ストーリーズ](../Page/ナイン・ストーリーズ.md "wikilink")」に納められた短編"A Perfect Day for Bananafish"（邦題：「[バナナフィッシュにうってつけの日](https://ja.wikipedia.org/wiki/バナナフィッシュにうってつけの日 "wikilink")」「バナナ魚日和」など）に由来すると本作の中で語られている。本作ではバナナフィッシュを「見ると死にたくなる魚」とされている。なお、サリンジャーの短編は、ある青年がバナナを見ると見境無く食べてしまう架空の魚「バナナフィッシュ」についての会話を見知らぬ少女と交わした後、拳銃自殺するという筋書きであり、「見ると死にたくなる」という記述は存在しない。

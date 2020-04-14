@@ -1,4 +1,4 @@
-> この記事は[ \(CV-7\)](https://ja.wikipedia.org/wiki/_\(CV-7\))から翻訳されています。
+> この記事は[ワスプ \(CV-7\)](https://ja.wikipedia.org/wiki/ワスプ_\(CV-7\))から翻訳されています。
 
 
 <table>

@@ -1,4 +1,4 @@
-> この記事は[KBC](https://ja.wikipedia.org/wiki/KBC)から翻訳されています。
+> この記事は[KBCオーガスタゴルフトーナメント](https://ja.wikipedia.org/wiki/KBCオーガスタゴルフトーナメント)から翻訳されています。
 
 
 **KBCオーガスタゴルフトーナメント**は、[KBC九州朝日放送主催による](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。
@@ -84,12 +84,12 @@
 
 ## テレビ中継
 
-第2日、第3日の模様をKBC[九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")ローカルで、最終日の模様を[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[フルネット局で](../Page/ネットワーク_\(放送\).md "wikilink")、いずれも生中継。また、最終日は、[BSデジタル放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[BS朝日でも](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")[地上波](../Page/地上波.md "wikilink")放送からのリレー形式による[時差放送で生中継する](../Page/遅れネット.md "wikilink")。コメンタリー陣は以下の通り。
+第2日、第3日の模様を福岡県ローカルで、最終日の模様を[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[フルネット局で](../Page/ネットワーク_\(放送\).md "wikilink")、いずれも生中継。また、最終日は、[BSデジタル放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink")[BS朝日でも](../Page/ビーエス朝日.md "wikilink")[地上波](../Page/地上波.md "wikilink")放送からのリレー形式による[時差放送で生中継する](../Page/遅れネット.md "wikilink")。コメンタリー陣は以下の通り。
 
   - 解説 : [青木功](../Page/青木功.md "wikilink")、[田中秀道](../Page/田中秀道.md "wikilink")
   - ラウンド解説 : [金谷多一郎](https://ja.wikipedia.org/wiki/金谷多一郎 "wikilink")
-  - 実況 : [沖繁義](../Page/沖繁義.md "wikilink") (KBCアナウンサー)
-  - ラウンドリポーター : [居内陽平](https://ja.wikipedia.org/wiki/居内陽平 "wikilink")(KBCアナウンサー)
+  - 実況 : [沖繁義](../Page/沖繁義.md "wikilink") (九州朝日放送アナウンサー)
+  - ラウンドリポーター : [居内陽平](https://ja.wikipedia.org/wiki/居内陽平 "wikilink")(九州朝日放送アナウンサー)
 
 また、[CS放送の](https://ja.wikipedia.org/wiki/日本における衛星放送#CSデジタル放送 "wikilink")[スカイAでは](../Page/スカイ・エー.md "wikilink")『[スカイA ゴルフシリーズ](../Page/スカイA_ゴルフシリーズ.md "wikilink")』として、第3日と最終日の朝の競技開始から前半終了まで生放送する\[7\]。 なお以前は第1日・第2日を九州朝日放送を含む[九州](../Page/九州.md "wikilink")ブロックと一部系列局（[広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")等）で放送していた。2010年は第2日を九州・[山口ブロックネットで放送](../Page/山口県.md "wikilink")。
 
@@ -117,7 +117,7 @@
 4.  [大会名称変更のお知らせ](http://www.kbc.co.jp/sports/augusta/pdf/augusta2014s.pdf) - KBC九州朝日放送 2014年3月31日
 5.  [大会名称変更のお知らせ](http://www.kbc.co.jp/pdf/kbc_augusta2015_01.pdf) - KBC九州朝日放送
 6.
-7.  但し放送スタッフは地上波放送とは別となっており、実況・リポーターは[朝日放送（ABC）のアナウンサーが担当している](../Page/朝日放送テレビ.md "wikilink")。
+7.  但し放送スタッフは地上波放送とは別となっており、実況・リポーターは[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")のアナウンサーが担当している。
 8.  [アンダーアーマーKBCオーガスタ 2006 テレビ朝日系列3社がたちあげたジュニア育成の共同プロジェクト、その第2戦](http://www.jgto.org/pc/TourTopicsDetail.do?year=2006&tournaKbnCd=0&conferenceCd=21&languageKbn=0&administerNo=99) - 日本ゴルフツアー機構
 9.  [ジュニア育成プロジェクト｜第44回RIZAP KBCオーガスタゴルフトーナメント2016｜KBC九州朝日放送](http://www.kbc.co.jp/sports/augusta/2016/jgto-junior/)（2017年8月20日閲覧）
 10. [第2回 RIZAP KBCオーガスタジュニアチャレンジゴルフ選手権｜第44回RIZAP KBCオーガスタゴルフトーナメント2016｜KBC九州朝日放送](http://www.kbc.co.jp/sports/augusta/jgto-junior-golf/) （2016年4月28日閲覧）

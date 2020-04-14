@@ -1,4 +1,4 @@
-> この記事は[ Modello 1938A](https://ja.wikipedia.org/wiki/_Modello_1938A)から翻訳されています。
+> この記事は[ベレッタ Modello 1938A](https://ja.wikipedia.org/wiki/ベレッタ_Modello_1938A)から翻訳されています。
 
 
 **ベレッタ Modello 1938A**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")に[イタリア](../Page/イタリア.md "wikilink")で開発された[短機関銃](../Page/短機関銃.md "wikilink")である。愛称は「モスキート」。

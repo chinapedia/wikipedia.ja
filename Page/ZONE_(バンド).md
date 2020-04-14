@@ -1,4 +1,4 @@
-> この記事は[ZONE \(\)](https://ja.wikipedia.org/wiki/ZONE_\(\))から翻訳されています。
+> この記事は[ZONE \(バンド\)](https://ja.wikipedia.org/wiki/ZONE_\(バンド\))から翻訳されています。
 
 
 **ZONE**（ゾーン）は日本のガールズロックバンド。[2001年](../Page/2001年.md "wikilink")に[メジャー・デビューし](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")、[2005年](../Page/2005年.md "wikilink")に解散したが、[2011年](../Page/2011年.md "wikilink")に再結成された。その後、メンバーの引退やトラブルにより[2013年](../Page/2013年.md "wikilink")4月に活動終了。所属[事務所は](../Page/芸能事務所.md "wikilink")[ランタイムミュージックエンタテインメント](../Page/ランタイムミュージックエンタテインメント.md "wikilink")で、所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。公式ファンクラブは「ザジズゼZONE」\[1\]。

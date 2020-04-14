@@ -1,4 +1,4 @@
-> この記事は[BC](https://ja.wikipedia.org/wiki/BC)から翻訳されています。
+> この記事は[アタランタBC](https://ja.wikipedia.org/wiki/アタランタBC)から翻訳されています。
 
 
 [220px](https://ja.wikipedia.org/wiki/ファイル:Atalanta_1913-14.jpg "wikilink")
@@ -6,6 +6,8 @@
 **アタランタ・ベルガマスカ・カルチョ**（**Atalanta Bergamasca Calcio s.p.a.**）は、[イタリア](../Page/イタリア.md "wikilink")の[ロンバルディア州](../Page/ロンバルディア州.md "wikilink")[ベルガモ](../Page/ベルガモ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。チーム名のアタランタとは[ギリシア神話](../Page/ギリシア神話.md "wikilink")の[アタランテー](../Page/アタランテー.md "wikilink")のこと。
 
 ## 歴史
+
+レスラトンでの会合ががきっかけとなって、1907年10月17日、ジノとフェルッチョのアマティ兄弟、エウジェニオ・エリオ、ジョバンニ・ロベルティ、アレッサンドロ・フォルリニの5人の男達によって創設された。この頃のユニフォームの配色は白と黒。戦争などの中断期間を経た後、1920年の全国選手権はベルガモから出場できるのは1チームだけという規定があったので同じ市内のライバルチームであるベルガマスカとブレシアで試合をおこない2-0と破った後、4月4日にベルガマスカと合併。この時にユニフォームの配色がアタランタの黒とベルガマスカの青を組み合わせて青黒になった。\[1\]
 
 定評ある選手育成においては、[ロベルト・ドナドーニ](../Page/ロベルト・ドナドーニ.md "wikilink")、[ドメニコ・モルフェオ](https://ja.wikipedia.org/wiki/ドメニコ・モルフェオ "wikilink")ら、数々の優秀な選手を輩出している。ビッグクラブで出場機会の少ない有望な若手などの有力な(レンタル)移籍先ともなっている。[フィリッポ・インザーギ](../Page/フィリッポ・インザーギ.md "wikilink")が得点王を獲得し、スターダムへ駆け昇るきっかけとなったクラブでもある。また[マルチェロ・リッピ](../Page/マルチェロ・リッピ.md "wikilink")、[チェーザレ・プランデッリ](../Page/チェーザレ・プランデッリ.md "wikilink")、[フランチェスコ・グイドリン](https://ja.wikipedia.org/wiki/フランチェスコ・グイドリン "wikilink")など優れた指導者を輩出するクラブでもある。1999年から2003年まで、下部組織からチーム作りに携わってきた[ジョヴァンニ・ヴァヴァッソーリ](https://ja.wikipedia.org/wiki/ジョヴァンニ・ヴァヴァッソーリ "wikilink")が監督を務めた。2004-05シーズンに[アンドレア・マンドルリーニ](https://ja.wikipedia.org/wiki/アンドレア・マンドルリーニ "wikilink")の下で[セリエAに昇格したが](../Page/セリエA_\(サッカー\).md "wikilink")、同シーズン終了時に降格となった。
 
@@ -17,11 +19,11 @@
 
 2009年夏にはエースの[セルジオ・フロッカリ](https://ja.wikipedia.org/wiki/セルジオ・フロッカリ "wikilink")とプレーメーカーの[ルカ・チガリーニ](https://ja.wikipedia.org/wiki/ルカ・チガリーニ "wikilink")を合わせて約32億円で売却したが、その1/4程度の値段でFW[ロベルト・アクアフレスカ](../Page/ロベルト・アクアフレスカ.md "wikilink")、MF[エドガル・バレット](https://ja.wikipedia.org/wiki/エドガル・バレット "wikilink")を獲得して穴を埋めた。[サンプドリア](https://ja.wikipedia.org/wiki/サンプドリア "wikilink")監督に転身した[ルイジ・デルネーリ](../Page/ルイジ・デルネーリ.md "wikilink")監督に代わって[アンジェロ・グレグッチ](https://ja.wikipedia.org/wiki/アンジェロ・グレグッチ "wikilink")監督が就任したが、前回のセリエA挑戦(2005年、[USレッチェ](../Page/USレッチェ.md "wikilink"))の際は5試合で解任されているため、手腕を疑問視する声もあった。開幕から不振が続いたため、9月21日にグレグッチ監督を解任し、[アントニオ・コンテ](../Page/アントニオ・コンテ.md "wikilink")監督を招聘した。しかしコンテはチームを立て直すことが出来ず、2010年1月7日に辞任。1月11日、[ボルトロ・ムッティ](https://ja.wikipedia.org/wiki/ボルトロ・ムッティ "wikilink")が新監督に任命されたものの、18位でセリエB降格となった。
 
-コラントゥオーノ監督が復帰した2010-11シーズンは、セリエBで優勝し1年でセリエA復帰を決めた。2011-12シーズンは2011年8月9日、下部リーグの[八百長](../Page/八百長.md "wikilink")に関与したとして、勝ち点が6減点され、キャプテンの[クリスティアーノ・ドニ](../Page/クリスティアーノ・ドニ.md "wikilink")に3年半の出場停止処分が下された\[1\]。しかし最初の3試合で勝ち点7を獲得し、ペナルティを早々に帳消しにした。最終的には12位に入り、難なく残留を決めた。八百長スキャンダルの影響でやはり勝ち点減点2からのスタートとなった翌2012-13シーズンも、代表に初招集された[ジャコモ・ボナヴェントゥーラ](https://ja.wikipedia.org/wiki/ジャコモ・ボナヴェントゥーラ "wikilink")の活躍もあり、序盤戦で[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")や[インテルを撃破](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")。15位で2年連続のセリエA残留を果たした。
+コラントゥオーノ監督が復帰した2010-11シーズンは、セリエBで優勝し1年でセリエA復帰を決めた。2011-12シーズンは2011年8月9日、下部リーグの[八百長](../Page/八百長.md "wikilink")に関与したとして、勝ち点が6減点され、キャプテンの[クリスティアーノ・ドニ](../Page/クリスティアーノ・ドニ.md "wikilink")に3年半の出場停止処分が下された\[2\]。しかし最初の3試合で勝ち点7を獲得し、ペナルティを早々に帳消しにした。最終的には12位に入り、難なく残留を決めた。八百長スキャンダルの影響でやはり勝ち点減点2からのスタートとなった翌2012-13シーズンも、代表に初招集された[ジャコモ・ボナヴェントゥーラ](https://ja.wikipedia.org/wiki/ジャコモ・ボナヴェントゥーラ "wikilink")の活躍もあり、序盤戦で[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")や[インテルを撃破](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")。15位で2年連続のセリエA残留を果たした。
 
-以降はセリエA定着と中位を目指すシーズンが続いていたが、[2016年](../Page/2016年.md "wikilink")に就任した[ジャン・ピエロ・ガスペリーニ](https://ja.wikipedia.org/wiki/ジャン・ピエロ・ガスペリーニ "wikilink")が[3バックを軸に対戦相手によって中盤と攻撃陣を柔軟に変化させるシステムを採用し](https://ja.wikipedia.org/wiki/サッカーのフォーメーション#3バック "wikilink")\[2\]、快進撃を披露。さらに[ロベルト・ガリアルディーニ](https://ja.wikipedia.org/wiki/ロベルト・ガリアルディーニ "wikilink")、[マッティア・カルダラ](https://ja.wikipedia.org/wiki/マッティア・カルダラ "wikilink")、[レオナルド・スピナッツォーラ](https://ja.wikipedia.org/wiki/レオナルド・スピナッツォーラ "wikilink")、[アンドレア・コンティなど下部組織出身を含む多くの若手選手が台頭した](https://ja.wikipedia.org/wiki/アンドレア・コンティ_\(1994年生のサッカー選手\) "wikilink")。2018-19シーズンはサパタが23ゴール、イリチッチが13ゴールとツートップが好調を維持し、冬の移籍市場で選手の引き抜きにあいながらも[ナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ASローマ](../Page/ASローマ.md "wikilink")などの上位陣を撃破。クラブ史上最高となる3位でシーズンを終え、クラブ史上初となる[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")出場権を獲得した。
+以降はセリエA定着と中位を目指すシーズンが続いていたが、[2016年](../Page/2016年.md "wikilink")に就任した[ジャン・ピエロ・ガスペリーニ](https://ja.wikipedia.org/wiki/ジャン・ピエロ・ガスペリーニ "wikilink")が[3バックを軸に対戦相手によって中盤と攻撃陣を柔軟に変化させるシステムを採用し](https://ja.wikipedia.org/wiki/サッカーのフォーメーション#3バック "wikilink")\[3\]、快進撃を披露。さらに[ロベルト・ガリアルディーニ](https://ja.wikipedia.org/wiki/ロベルト・ガリアルディーニ "wikilink")、[マッティア・カルダラ](https://ja.wikipedia.org/wiki/マッティア・カルダラ "wikilink")、[レオナルド・スピナッツォーラ](https://ja.wikipedia.org/wiki/レオナルド・スピナッツォーラ "wikilink")、[アンドレア・コンティなど下部組織出身を含む多くの若手選手が台頭した](https://ja.wikipedia.org/wiki/アンドレア・コンティ_\(1994年生のサッカー選手\) "wikilink")。2018-19シーズンはサパタが23ゴール、イリチッチが13ゴールとツートップが好調を維持し、冬の移籍市場で選手の引き抜きにあいながらも[ナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")、[インテル](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")、[ASローマ](../Page/ASローマ.md "wikilink")などの上位陣を撃破。クラブ史上最高となる3位でシーズンを終え、クラブ史上初となる[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")出場権を獲得した。
 
-2019-20シーズンUEFAチャンピオンズリーグでは3連敗でスタートしたが、その後は勝ち点を重ね大逆転で決勝トーナメントに進出した。
+2019-20シーズンUEFAチャンピオンズリーグでは3連敗でスタートしたが、その後は勝ち点を重ね大逆転で決勝トーナメントに進出、決勝トーナメント1回戦の[バレンシアCF](../Page/バレンシアCF.md "wikilink")戦ではファーストレグを4－1、セカンドレグでは[イリチッチが](https://ja.wikipedia.org/wiki/ヨシップ・イリチッチ "wikilink")4ゴールを挙げ4－3とそれぞれ勝利、2戦合計8－4としクラブ史上初の準々決勝に進出した\[4\]。
 
 ## タイトル
 
@@ -122,7 +124,7 @@
 
 ## 記録
 
-  - 2019年12月11日現在
+  - 2020年3月10日現在
 
 ### 欧州の成績
 
@@ -176,6 +178,16 @@
 <td><p>ラウンド16</p></td>
 <td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>4-1</p></td>
+<td><p>4-3</p></td>
+<td><p>'''8-4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>準々決勝</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td><p>'''</p></td>
 <td></td>
@@ -402,6 +414,8 @@
 
 ### 欧州での記録
 
+  - 2020年3月10日現在
+
 | 大会                                                                          | 試 | 勝 | 分 | 敗 | 得 | 失 | 差 | 勝率 |
 | --------------------------------------------------------------------------- | - | - | - | - | - | - | - | -- |
 | **[UEFAチャンピオンズカップ / UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")** |   |   |   |   |   |   |   |    |
@@ -421,7 +435,7 @@
 
   - 2020年1月31日現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(副主将)   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cameroon.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(第3主将)  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))★ ★   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland.svg "wikilink"))★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(副主将)   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cameroon.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(第3主将)  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))★ ★   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland.svg "wikilink"))★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))  ★
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -534,4 +548,6 @@
 [Category:アタランタBC](https://ja.wikipedia.org/wiki/Category:アタランタBC "wikilink") [Category:イタリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:イタリアのサッカークラブ "wikilink") [Category:ベルガモ県](https://ja.wikipedia.org/wiki/Category:ベルガモ県 "wikilink") [Category:ロンバルディア州のサッカークラブ](https://ja.wikipedia.org/wiki/Category:ロンバルディア州のサッカークラブ "wikilink")
 
 1.
-2.  [なぜアタランタは躍進したのか？特異な3バックを徹底分析](https://www.footballista.jp/column/36782) - footballista 2017年7月12日
+2.
+3.  [なぜアタランタは躍進したのか？特異な3バックを徹底分析](https://www.footballista.jp/column/36782) - footballista 2017年7月12日
+4.

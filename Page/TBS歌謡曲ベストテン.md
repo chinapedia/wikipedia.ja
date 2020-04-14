@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBS歌謡曲ベストテン](https://ja.wikipedia.org/wiki/TBS歌謡曲ベストテン)から翻訳されています。
 
 
 『**TBS歌謡曲ベストテン**』（ティービーエスかようきょくベストテン）は、[1965年](../Page/1965年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")\[1\]から[1967年](../Page/1967年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")\[2\]まで[TBS系列局で放送されていた](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")[TBS製作の](../Page/TBSテレビ.md "wikilink")[歌謡番組である](../Page/音楽番組.md "wikilink")。放送時間は毎週火曜 20:00 - 20:56 （[日本標準時](../Page/日本標準時.md "wikilink")）。

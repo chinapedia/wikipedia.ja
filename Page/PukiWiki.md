@@ -11,7 +11,7 @@
 
 ## 特徴
 
-  - PHPで実装されている。PHP4.1〜PHP7.3に対応。
+  - PHPで実装されている。PHP4.1〜PHP7.4に対応。
   - [UTF-8](../Page/UTF-8.md "wikilink")により多言語に対応している（旧バージョンとの互換のため[EUC-JP](../Page/EUC-JP.md "wikilink")版も用意）。
   - [インターウィキ](https://ja.wikipedia.org/wiki/インターウィキ "wikilink")に対応している。
   - ページの内容は[テキストファイル](../Page/テキストファイル.md "wikilink")形式で保存され、データベース管理システムを必要としない。画像などの[バイナリ](../Page/バイナリ.md "wikilink")ファイルも各ページに紐付けられてファイル保存される。

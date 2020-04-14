@@ -1,4 +1,4 @@
-> この記事は[ATA](https://ja.wikipedia.org/wiki/ATA)から翻訳されています。
+> この記事は[ATA航空](https://ja.wikipedia.org/wiki/ATA航空)から翻訳されています。
 
 
 **ATA航空**（**ATA Airlines** 旧称；**American Trans Air**）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[インディアナ州](../Page/インディアナ州.md "wikilink")[インディアナポリス](../Page/インディアナポリス.md "wikilink")市を本拠地としていた[格安航空会社](https://ja.wikipedia.org/wiki/格安航空会社 "wikilink")である。ATAホールディングス ([OTCBB](https://ja.wikipedia.org/wiki/w:OTC_Bulletin_Board "wikilink")：[ATAHQ](http://www.otcbb.com/asp/Info_Center.asp?symbol=ATAHQ)) による全額出資子会社であり、ATA航空は3,000人のスタッフを従業員として雇っていた。[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")市内の[ミッドウェイ空港](https://ja.wikipedia.org/wiki/ミッドウェイ空港 "wikilink")の[ハブから定期旅客便及び世界へのチャーター便の運航を行っていたが](../Page/ハブ空港.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")に二度目の[連邦倒産法第11章](../Page/連邦倒産法第11章.md "wikilink")の適用を受けて全便の運航を停止した\[1\]\[2\]。

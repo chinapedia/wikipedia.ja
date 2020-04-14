@@ -1,4 +1,4 @@
-> この記事は[AJ](https://ja.wikipedia.org/wiki/AJ)から翻訳されています。
+> この記事は[AJオセール](https://ja.wikipedia.org/wiki/AJオセール)から翻訳されています。
 
 
 **アソシアシヨン・ドゥ・ラ・ジュネス・オセロワーズ**（**Association de la Jeunesse auxerroise**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[オセール](../Page/オセール.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。現在は[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")に所属している。

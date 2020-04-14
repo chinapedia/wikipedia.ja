@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[おおぐま座Z星](https://ja.wikipedia.org/wiki/おおぐま座Z星)から翻訳されています。
 
 
 **おおぐま座Z星**（おおぐまざずぃーせい）は、[おおぐま座](../Page/おおぐま座.md "wikilink")にある有名な[半規則型の](https://ja.wikipedia.org/wiki/半規則型変光星 "wikilink")[脈動変光星](../Page/脈動変光星.md "wikilink")。学名はZ Ursae Majoris（略称はZ UMa）。

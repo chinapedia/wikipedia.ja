@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCパワフルアフタヌーン](https://ja.wikipedia.org/wiki/ABCパワフルアフタヌーン)から翻訳されています。
 
 
 **ABCパワフルアフタヌーン**(エイビーシーパワフルアフタヌーン)は、[朝日放送ラジオ](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で平日12時00分〜15時00分（[JST](../Page/日本標準時.md "wikilink")）に放送している[ラジオ番組](../Page/ラジオ番組.md "wikilink")の総称である。

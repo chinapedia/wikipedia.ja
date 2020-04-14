@@ -1,4 +1,4 @@
-> この記事は[AV](https://ja.wikipedia.org/wiki/AV)から翻訳されています。
+> この記事は[AVマルチ](https://ja.wikipedia.org/wiki/AVマルチ)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:PS2_IGP3830.JPG "wikilink") **AVマルチ** (AV MULTI) コネクターとは、[アナログ](../Page/アナログ.md "wikilink")[映像信号](../Page/映像信号.md "wikilink")とアナログ[ステレオ](../Page/ステレオ.md "wikilink")[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")[信号をまとめて伝送できるコネクター](../Page/信号_\(電気工学\).md "wikilink")（接続端子および接続ケーブル）のこと。以下、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の[PlayStation](https://ja.wikipedia.org/wiki/PlayStation "wikilink")系の[ゲーム機](../Page/ゲーム機.md "wikilink")や[テレビで使われている](../Page/テレビ受像機.md "wikilink")「12ピン**AVマルチ入出力コネクター**」について解説する。主にテレビ側が[コンポジット](../Page/コンポジット映像信号.md "wikilink")（[RCA端子](../Page/RCA端子.md "wikilink")）などになった接続ケーブルが用いられる。

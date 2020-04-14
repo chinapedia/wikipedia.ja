@@ -1,4 +1,4 @@
-> この記事は[FNS](https://ja.wikipedia.org/wiki/FNS)から翻訳されています。
+> この記事は[FNS超テレビの祭典](https://ja.wikipedia.org/wiki/FNS超テレビの祭典)から翻訳されています。
 
 
 『**FNS超テレビの祭典**』（エフエヌエスちょうテレビのさいてん）は、[1996年](../Page/1996年.md "wikilink")[春](../Page/春.md "wikilink")・[秋](../Page/秋.md "wikilink")に[フジテレビ系列で放送された](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の番組対抗形式の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[クイズ番組](https://ja.wikipedia.org/wiki/クイズ番組 "wikilink")である。元々フジテレビの番組対抗特番としては、『[FNS番組対抗\!なるほど\!ザ・春秋の祭典スペシャル](../Page/FNS番組対抗!なるほど!ザ・春秋の祭典スペシャル.md "wikilink")』が放送されていたが、メインの『[なるほど\!ザ・ワールド](../Page/なるほど!ザ・ワールド.md "wikilink")』が1996年3月に終了したため、新たにこの番組が放送された。司会は[ビートたけし](../Page/ビートたけし.md "wikilink")と[所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")と[中居正広](../Page/中居正広.md "wikilink")（1996年秋のみ）である。

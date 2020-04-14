@@ -1,4 +1,4 @@
-> この記事は[JABA](https://ja.wikipedia.org/wiki/JABA)から翻訳されています。
+> この記事は[JABA北海道大会](https://ja.wikipedia.org/wiki/JABA北海道大会)から翻訳されています。
 
 
 **JABA北海道大会**（JABAほっかいどうたいかい）は、[日本野球連盟](../Page/日本野球連盟.md "wikilink")の北海道地区連盟が主催する[社会人野球](../Page/社会人野球.md "wikilink")の大会である。[社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink")の選考対象大会の1つである。

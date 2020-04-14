@@ -1,4 +1,4 @@
-> この記事は[NNN1](https://ja.wikipedia.org/wiki/NNN1)から翻訳されています。
+> この記事は[NNNニュースプラス1ふくしま](https://ja.wikipedia.org/wiki/NNNニュースプラス1ふくしま)から翻訳されています。
 
 
 『**NNNニュースプラス1ふくしま**』（エヌエヌエヌニュースプラスワンふくしま）は、[1988年](../Page/1988年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[1994年](../Page/1994年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")まで[福島中央テレビ](../Page/福島中央テレビ.md "wikilink")（FCT）で放送されていた平日夕方のローカル[ニュース番組](../Page/報道番組.md "wikilink")（『[NNNニュースプラス1](../Page/NNNニュースプラス1.md "wikilink")』の福島県ローカルパート）。

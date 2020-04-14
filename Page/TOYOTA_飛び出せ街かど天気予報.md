@@ -1,4 +1,4 @@
-> この記事は[TOYOTA ](https://ja.wikipedia.org/wiki/TOYOTA_)から翻訳されています。
+> この記事は[TOYOTA 飛び出せ街かど天気予報](https://ja.wikipedia.org/wiki/TOYOTA_飛び出せ街かど天気予報)から翻訳されています。
 
 
 **TOYOTA 飛び出せ街かど天気予報**（トヨタ とびだせまちかどてんきよほう）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[単独提供で](../Page/一社提供.md "wikilink")、[1994年](../Page/1994年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")～[2006年](../Page/2006年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")に[ニッポン放送](../Page/ニッポン放送.md "wikilink")の朝～夕方までのワイド番組内に放送されていた天気予報の[ラジオ](../Page/ラジオ.md "wikilink")生中継コーナーであった。スポンサーは[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の他に東京都内のトヨタディーラー各社。

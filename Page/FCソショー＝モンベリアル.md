@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCソショー＝モンベリアル](https://ja.wikipedia.org/wiki/FCソショー＝モンベリアル)から翻訳されています。
 
 
 [220px](https://ja.wikipedia.org/wiki/ファイル:Stade_Sochaux_Bonale_2.jpg "wikilink")

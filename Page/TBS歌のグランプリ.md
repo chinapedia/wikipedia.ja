@@ -1,4 +1,4 @@
-> この記事は[TBS](https://ja.wikipedia.org/wiki/TBS)から翻訳されています。
+> この記事は[TBS歌のグランプリ](https://ja.wikipedia.org/wiki/TBS歌のグランプリ)から翻訳されています。
 
 
 『**TBS歌のグランプリ**』（ティービーエスうたのグランプリ）は、1967年4月4日から1971年9月28日まで[TBS系列局で放送されていた](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")[歌謡番組である](../Page/音楽番組.md "wikilink")。放送時間は毎週火曜 20:00 - 20:56 （[日本標準時](../Page/日本標準時.md "wikilink")）。

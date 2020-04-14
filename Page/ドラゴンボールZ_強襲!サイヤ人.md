@@ -1,7 +1,7 @@
-> この記事は[Z !](https://ja.wikipedia.org/wiki/Z_!)から翻訳されています。
+> この記事は[ドラゴンボールZ 強襲!サイヤ人](https://ja.wikipedia.org/wiki/ドラゴンボールZ_強襲!サイヤ人)から翻訳されています。
 
 
-『**ドラゴンボールZ 強襲\!サイヤ人**』（ドラゴンボールゼット きょうしゅう\!サイヤじん）は、[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（以下、FC）用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。アニメ『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』（[1989年](../Page/1989年.md "wikilink") - [1996年](../Page/1996年.md "wikilink")）のFC作品第1弾。
+『**ドラゴンボールZ 強襲\!サイヤ人**』（ドラゴンボールゼット きょうしゅう\!サイヤじん）は、バンダイ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")（以下、FC）用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。アニメ『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』（[1989年](../Page/1989年.md "wikilink") - [1996年](../Page/1996年.md "wikilink")）のFC作品第1弾。
 
 ## 概要
 

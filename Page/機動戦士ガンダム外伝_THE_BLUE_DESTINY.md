@@ -1,4 +1,4 @@
-> この記事は[ THE BLUE DESTINY](https://ja.wikipedia.org/wiki/_THE_BLUE_DESTINY)から翻訳されています。
+> この記事は[機動戦士ガンダム外伝 THE BLUE DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダム外伝_THE_BLUE_DESTINY)から翻訳されています。
 
 
 『**機動戦士ガンダム外伝 THE BLUE DESTINY**』（きどうせんしガンダムがいでん ザ ブルー ディスティニー、**MOBILE SUIT GUNDAM SIDE STORY THE BLUE DESTINY**）は、[アニメ](../Page/アニメ.md "wikilink")作品群『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』の一つで、[ゲーム](../Page/コンピュータゲーム.md "wikilink")『[機動戦士ガンダム外伝](../Page/機動戦士ガンダム外伝.md "wikilink")』シリーズの第一作。[1996年](../Page/1996年.md "wikilink")から[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にかけて[セガサターン](../Page/セガサターン.md "wikilink")用に三部作として販売された3D[シューティング](../Page/シューティングゲーム.md "wikilink")[ゲーム](../Page/ゲームソフト.md "wikilink")、またそれを原作にした一連の小説や漫画である。
@@ -237,12 +237,23 @@ MSパイロットをはじめとする人員は各方面から選抜された者
 
 開発当時の状況は、セガサターンのポリゴン性能はライバル機であったプレイステーションに見劣りするものであったし、またジムや新規のモビルスーツが主役のオリジナル作品は未知の分野であり受け入れられるかどうかも分からず、タイトル発表時は期待されていなかったという。　しかし各媒体へのテストロムの配布後に状況は好転する。各ゲーム雑誌でも大きく取り上げられるようになり、また体験版の配布などでは[セガの協力も得ることができた](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")（当時は劇中設定が厳密に規定・管理されておらず、劇中設定と矛盾するMSをゲームに使うことができた。そのため公式設定と異なる部分があるという注釈をつけて発売されることになった。一作目でパッケージにジム、ゲーム本編にジム・コマンドが使われているのはこれが理由）\[18\]。
 
-## 派生作品
+## 関連作品
 
-  - 機動戦士ガンダム外伝 THE BLUE DESTINY（漫画版）
-    [講談社](../Page/講談社.md "wikilink")の「[覇王マガジン](../Page/覇王マガジン.md "wikilink")」で連載されていたもの。作者は[高山瑞穂](../Page/高山瑞穂.md "wikilink")。雑誌の休刊の影響で、ゲーム版の第2部までしか漫画化されていない。
+### 漫画
+
+  - 機動戦士ガンダム外伝 THE BLUE DESTINY（覇王マガジン版）
+    作画は[高山瑞穂](../Page/高山瑞穂.md "wikilink")。[講談社](../Page/講談社.md "wikilink")の「[覇王マガジン](../Page/覇王マガジン.md "wikilink")」で連載されていたもの。雑誌の休刊の影響で、ゲーム版の第2部までしか漫画化されていない。
     現在はKCデラックス版が入手可能（ISBN 4-06-334965-9）。
     なお、[スタジオDNAの](../Page/一迅社.md "wikilink")『ギレンの野望 コミックアンソロジー』（ISBN 4-921066-02-7）にて同作者はブルーディスティニー2号機と3号機の決着シーンが含まれた漫画『蒼い残照』を掲載している。
+
+<!-- end list -->
+
+  - 機動戦士ガンダム外伝　ザ・ブルー・ディスティニー（角川コミックス・エース版）
+    [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")の『[ガンダムエース](../Page/ガンダムエース.md "wikilink")』で連載中の漫画。漫画：たいち庸、シナリオ：千葉智宏（スタジオオルフェ）、メカニックデザイン：[大河原邦男](../Page/大河原邦男.md "wikilink")・NAOKI。セガサターン版以降のゲームやアニメ作品の設定やデザインを反映・リファインされている。作品初期にモルモット小隊が搭乗するジムも陸戦型ジムに変更されている。後にコミックオリジナルの機体ジム・ドミナンスなども登場。
+    『機動戦士ガンダム外伝 ミッシングリンク』や、『[機動戦士ガンダム外伝 宇宙、閃光の果てに…](../Page/機動戦士ガンダム外伝_宇宙、閃光の果てに….md "wikilink")』ともリンクされていて、これらの作品の登場人物が本作にも登場している。単行本は既刊8巻。
+
+### 小説
+
   - 機動戦士ガンダム外伝 THE BLUE DESTINY（小説版）
     作者は[皆川ゆか](../Page/皆河有伽.md "wikilink")。
     現在は[講談社文庫](../Page/講談社文庫.md "wikilink")版が入手可能（ISBN 4-06-273571-7）。
@@ -255,14 +266,10 @@ MSパイロットをはじめとする人員は各方面から選抜された者
         「蒼き騎士の探究」：ニムバスとユウの遭遇とキャリフォルニアベースでの戦闘と、マリオンが事故により意識を失うエピソード。
       - 講談社「覇王ゲームスペシャル81」機動戦士ガンダム外伝III 裁かれし者 テクニカルガイドブック（ISBN 4-06-329281-9）
         「蒼き騎士と眠り姫」：IIの後半からIIIのストーリーをユウ、アルフ、ニムバス、マリオンの視点から描く。
-  - ザ・ブルー・ディスティニー（漫画）
-    [KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")の『[ガンダムエース](../Page/ガンダムエース.md "wikilink")』で連載中の漫画。漫画：たいち庸、シナリオ：千葉智宏（スタジオオルフェ）、メカニックデザイン：[大河原邦男](../Page/大河原邦男.md "wikilink")・NAOKI。セガサターン版以降のゲームやアニメ作品の設定やデザインを反映・リファインされている。作品初期にモルモット小隊が搭乗するジムも陸戦型ジムに変更されている。後にコミックオリジナルの機体ジム・ドミナンスなども登場。
-    『機動戦士ガンダム外伝 ミッシングリンク』や、『[機動戦士ガンダム外伝 宇宙、閃光の果てに…](../Page/機動戦士ガンダム外伝_宇宙、閃光の果てに….md "wikilink")』ともリンクされていて、これらの作品の登場人物が本作にも登場している。
-    単行本は既刊8巻。
 
 ## 脚注
 
-[Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:ガンダムシリーズゲーム作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズゲーム作品 "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:1997年の漫画](https://ja.wikipedia.org/wiki/Category:1997年の漫画 "wikilink") [Category:2015年の漫画](https://ja.wikipedia.org/wiki/Category:2015年の漫画 "wikilink") [Category:ガンダムシリーズ小説作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ小説作品 "wikilink") [Category:1997年の小説](https://ja.wikipedia.org/wiki/Category:1997年の小説 "wikilink")
+[Category:宇宙世紀](https://ja.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:宇宙戦争を題材とした作品](https://ja.wikipedia.org/wiki/Category:宇宙戦争を題材とした作品 "wikilink") [Category:ガンダムシリーズゲーム作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズゲーム作品 "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink") [Category:1997年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1997年のコンピュータゲーム "wikilink") [Category:宇宙を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:宇宙を舞台としたコンピュータゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ガンダムシリーズ漫画作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ漫画作品 "wikilink") [Category:月刊ガンダムエースの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊ガンダムエースの漫画作品 "wikilink") [Category:1997年の漫画](https://ja.wikipedia.org/wiki/Category:1997年の漫画 "wikilink") [Category:2015年の漫画](https://ja.wikipedia.org/wiki/Category:2015年の漫画 "wikilink") [Category:ガンダムエース](https://ja.wikipedia.org/wiki/Category:ガンダムエース "wikilink") [Category:ガンダムシリーズ小説作品](https://ja.wikipedia.org/wiki/Category:ガンダムシリーズ小説作品 "wikilink") [Category:1997年の小説](https://ja.wikipedia.org/wiki/Category:1997年の小説 "wikilink") [Category:ロボットアニメのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ロボットアニメのスピンオフ作品 "wikilink")
 
 1.  『月刊ガンダムエース』2015年11月号108頁。徳島氏発言より
 2.  漫画版ではモルモット隊とブルーの実験部隊は別個の部隊として扱われており、ユウは実験部隊へ異動という形になっている。また、先述のアムロのデータによる任務内容の変更の描写もない。

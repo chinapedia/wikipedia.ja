@@ -38,6 +38,5 @@ WindowsNT4.0/95/98/2000
 
 ## 外部リンク
 
-  - [LCLの部屋](http://www.geocities.co.jp/Playtown-Denei/2837/LRC.htm)
-
+  -
 [Category:コーデック](https://ja.wikipedia.org/wiki/Category:コーデック "wikilink") [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink")

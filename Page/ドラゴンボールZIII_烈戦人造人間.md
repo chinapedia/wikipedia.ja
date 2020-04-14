@@ -1,7 +1,7 @@
-> この記事は[ZIII ](https://ja.wikipedia.org/wiki/ZIII_)から翻訳されています。
+> この記事は[ドラゴンボールZIII 烈戦人造人間](https://ja.wikipedia.org/wiki/ドラゴンボールZIII_烈戦人造人間)から翻訳されています。
 
 
-『**ドラゴンボールZIII 烈戦人造人間\!\!**』（ドラゴンボールゼットスリー れっせんじんぞうにんげん）は、[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のファミコンゲーム作品第3弾。
+『**ドラゴンボールZIII 烈戦人造人間\!\!**』（ドラゴンボールゼットスリー れっせんじんぞうにんげん）は、1992年8月7日にバンダイ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) より発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』のファミコンゲーム作品第3弾。
 
 ## 概要
 

@@ -1,4 +1,4 @@
-> この記事は[YZF-R1](https://ja.wikipedia.org/wiki/YZF-R1)から翻訳されています。
+> この記事は[ヤマハ・YZF-R1](https://ja.wikipedia.org/wiki/ヤマハ・YZF-R1)から翻訳されています。
 
 
 **YZF-R1**（ワイゼットエフ アールワン）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売開始した[4ストローク](../Page/4ストローク機関.md "wikilink")998ccの[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")（[オートバイ](../Page/オートバイ.md "wikilink")）である。[2015年](../Page/2015年.md "wikilink")現在は日本国外市場向けモデルとなっている。

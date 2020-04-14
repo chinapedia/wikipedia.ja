@@ -1,4 +1,4 @@
-> この記事は[IP](https://ja.wikipedia.org/wiki/IP)から翻訳されています。
+> この記事は[IP放送](https://ja.wikipedia.org/wiki/IP放送)から翻訳されています。
 
 
 **IP放送**（アイピーほうそう）とは、 [Internet Protocol](../Page/Internet_Protocol.md "wikilink") (IP) を利用する[放送](../Page/放送.md "wikilink")（[有線放送](https://ja.wikipedia.org/wiki/有線放送 "wikilink")）に類似した[通信](../Page/通信.md "wikilink")サービスである。

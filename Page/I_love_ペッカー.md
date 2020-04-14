@@ -1,4 +1,4 @@
-> この記事は[I love ](https://ja.wikipedia.org/wiki/I_love_)から翻訳されています。
+> この記事は[I love ペッカー](https://ja.wikipedia.org/wiki/I_love_ペッカー)から翻訳されています。
 
 
 『**I love ペッカー**』（*Pecker*）は[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に制作され、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で[1999年](../Page/1999年.md "wikilink")に公開された[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ映画 "wikilink")。

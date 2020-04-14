@@ -1,4 +1,4 @@
-> この記事は[FM](https://ja.wikipedia.org/wiki/FM)から翻訳されています。
+> この記事は[国楽FM放送](https://ja.wikipedia.org/wiki/国楽FM放送)から翻訳されています。
 
 
 **国楽FM放送**(こくがくえふえむほうそう)は、[大韓民国](../Page/大韓民国.md "wikilink")の伝統民俗音楽“国楽”を専門に扱う公営FMラジオ放送局である。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCジロンダン・ボルドー](https://ja.wikipedia.org/wiki/FCジロンダン・ボルドー)から翻訳されています。
 
 
 **フットボール・クルブ・デ・ジロンダン・ドゥ・ボルドー**（**Football Club des Girondins de Bordeaux**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ボルドー](../Page/ボルドー.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。なお、「ジロンダン」とは、「[ジロンド県](../Page/ジロンド県.md "wikilink")の」という意味である。

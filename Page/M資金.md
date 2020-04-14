@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[M資金](https://ja.wikipedia.org/wiki/M資金)から翻訳されています。
 
 
 **M資金**（エムしきん）とは、[連合国軍最高司令官総司令部](../Page/連合国軍最高司令官総司令部.md "wikilink")（GHQ）が[占領下の日本](https://ja.wikipedia.org/wiki/占領下の日本 "wikilink")で接収した財産などを基に、現在も極秘に運用されていると噂される秘密資金である。**M**は、GHQ経済科学局<ref>Economic and Scientific Section、略称 ESS

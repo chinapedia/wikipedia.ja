@@ -1,4 +1,4 @@
-> この記事は[K](https://ja.wikipedia.org/wiki/K)から翻訳されています。
+> この記事は[片岡K](https://ja.wikipedia.org/wiki/片岡K)から翻訳されています。
 
 
 **片岡 K**（かたおか けい、本名：片岡 啓、[1964年](../Page/1964年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のテレビ演出家・映像クリエイター・[映画監督](../Page/映画監督.md "wikilink")・脚本家・作家など。
@@ -17,7 +17,7 @@ BSフジ『[宝島の地図](../Page/宝島の地図.md "wikilink")』内の1コ
 
 2010年、自身の[Twitter](../Page/Twitter.md "wikilink")内で劇団結成を呼びかけ、プロアマ混在の劇団ツイゲキを立ち上げる。Twitter投票によって看板女優を決めTwitterでしか宣伝しないというスタイルを採用している。片岡K自身の脚本・演出によるツイゲキの第1回公演「FUKENZEN」は“テレビでは絶対に放送出来ないこと”をテーマに掲げたナンセンスブラックコメディという内容。ツイゲキは翌年も新宿シアターブラッツで第2回公演「MAJIME」を行っている。
 
-2011年にはTwitter発の自主映画プロジェクト・[ツイルム](https://ja.wikipedia.org/wiki/ツイルム "wikilink")を始動。フォロワーの中から[星野優花](https://ja.wikipedia.org/wiki/星野優花 "wikilink")という一般女性を主演女優に抜擢し、映画製作発表をおこなった。
+2011年にはTwitter発の自主映画プロジェクト・[ツイルム](https://ja.wikipedia.org/wiki/ツイルム "wikilink")を始動。フォロワーの中から[星野優花](https://ja.wikipedia.org/wiki/星野優花 "wikilink")という一般女性を主演女優に抜擢し、映画製作発表をおこなった。 しかし製作資金を募り何度かイベントを行うも映画製作は進まず、事実上の頓挫状態であり未だ有耶無耶となっている。
 
 また、2011年7月にネットで拾った写真とTwitterでのつぶやきだけで構成された（いずれも、著作権者の了解を得ない無断転載）書籍『ジワジワ来る◯◯』（アスペクト）を出版、10万部突破となる。
 
@@ -90,7 +90,7 @@ BSフジ『[宝島の地図](../Page/宝島の地図.md "wikilink")』内の1コ
     宝島の地図エイト - BSフジ
     宝島の地図セブン - BSフジ
   - [2005年](../Page/2005年.md "wikilink")
-    [女優開発プロジェクト ××プロ](../Page/女優開発プロジェクト_××プロ.md "wikilink") -テレビ朝日、[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")
+    [女優開発プロジェクト ××プロ](../Page/女優開発プロジェクト_××プロ.md "wikilink") -テレビ朝日、[BS朝日](../Page/ビーエス朝日.md "wikilink")
     [正しい恋愛のススメ](../Page/正しい恋愛のススメ.md "wikilink") - TBS
   - [2006年](../Page/2006年.md "wikilink")
     [ドラマコンプレックス](https://ja.wikipedia.org/wiki/ドラマコンプレックス "wikilink")『[59番目のプロポーズ](../Page/59番目のプロポーズ.md "wikilink")』 - 日本テレビ

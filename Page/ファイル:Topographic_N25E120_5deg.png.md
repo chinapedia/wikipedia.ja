@@ -1,4 +1,4 @@
-> この記事は[:Topographic N25E120 5deg.png](https://ja.wikipedia.org/wiki/:Topographic_N25E120_5deg.png)から翻訳されています。
+> この記事は[ファイル:Topographic N25E120 5deg.png](https://ja.wikipedia.org/wiki/ファイル:Topographic_N25E120_5deg.png)から翻訳されています。
 
 
 北緯25, 東経120

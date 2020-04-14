@@ -1,4 +1,4 @@
-> この記事は[UH-1 \(\)](https://ja.wikipedia.org/wiki/UH-1_\(\))から翻訳されています。
+> この記事は[UH-1 \(航空機\)](https://ja.wikipedia.org/wiki/UH-1_\(航空機\))から翻訳されています。
 
 
 **UH-1**（・イロコイ、愛称：・ヒューイ、旧称：HU-1）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ベル・エアクラフト](../Page/ベル・エアクラフト.md "wikilink")社が開発した[モデル 204/205/212](https://ja.wikipedia.org/wiki/ベル_ヒューイ "wikilink")[ヘリコプター](../Page/ヘリコプター.md "wikilink")の[アメリカ軍](../Page/アメリカ軍.md "wikilink")における制式名称。[1959年](../Page/1959年.md "wikilink")より[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")で採用され、[ベトナム戦争](../Page/ベトナム戦争.md "wikilink")などで活躍した。現在は後継機種の[シコルスキー](../Page/シコルスキー・エアクラフト.md "wikilink")[UH-60 ブラックホークに置き換えがすすんでいるが](https://ja.wikipedia.org/wiki/UH-60_ブラックホーク "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[陸上自衛隊](../Page/陸上自衛隊.md "wikilink")を含めて多くの国々では現役である。

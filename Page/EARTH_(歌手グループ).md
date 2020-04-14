@@ -1,4 +1,4 @@
-> この記事は[EARTH \(\)](https://ja.wikipedia.org/wiki/EARTH_\(\))から翻訳されています。
+> この記事は[EARTH \(歌手グループ\)](https://ja.wikipedia.org/wiki/EARTH_\(歌手グループ\))から翻訳されています。
 
 
 **EARTH**（アース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性3人組[ダンス＆ボーカルユニット](../Page/音楽ユニット.md "wikilink")。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")。[2005年](../Page/2005年.md "wikilink")に解散した。

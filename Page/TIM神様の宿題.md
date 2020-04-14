@@ -1,4 +1,4 @@
-> この記事は[TIM](https://ja.wikipedia.org/wiki/TIM)から翻訳されています。
+> この記事は[TIM神様の宿題](https://ja.wikipedia.org/wiki/TIM神様の宿題)から翻訳されています。
 
 
 **TIM 神様の宿題**（ティーアイエムかみさまのしゅくだい）は[中国放送](../Page/中国放送.md "wikilink")（RCC）で放送されていた広島ローカル[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。[あいテレビ](../Page/あいテレビ.md "wikilink")にもネットされた。

@@ -1,4 +1,4 @@
-> この記事は[ \(CV-4\)](https://ja.wikipedia.org/wiki/_\(CV-4\))から翻訳されています。
+> この記事は[レンジャー \(CV-4\)](https://ja.wikipedia.org/wiki/レンジャー_\(CV-4\))から翻訳されています。
 
 
 <table>

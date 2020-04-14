@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[ASリヴォルノ・カルチョ](https://ja.wikipedia.org/wiki/ASリヴォルノ・カルチョ)から翻訳されています。
 
 
 **アッソチアツィオーネ・スポルティーバ・リヴォルノ・カルチョ**（）は、[イタリア](../Page/イタリア.md "wikilink")・[トスカーナ州](../Page/トスカーナ州.md "wikilink")[リヴォルノ](../Page/リヴォルノ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。2019-20シーズンは、[セリエBに所属している](../Page/セリエB_\(サッカー\).md "wikilink")。

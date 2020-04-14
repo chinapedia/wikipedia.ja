@@ -1,4 +1,4 @@
-> この記事は[PP](https://ja.wikipedia.org/wiki/PP)から翻訳されています。
+> この記事は[ワルサーPP](https://ja.wikipedia.org/wiki/ワルサーPP)から翻訳されています。
 
 
 **ワルサーPP**（Walther PP）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[カール・ワルサー社が](../Page/ワルサー.md "wikilink")[1929年](../Page/1929年.md "wikilink")に発表した[ダブルアクション](../Page/ダブルアクション.md "wikilink")式[自動拳銃である](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")。.22口径（5.6mm）、.32ACP口径（7.65mm）、.380ACP口径（9mm）の3種類がある。PPとはPolizeipistole（警察用拳銃）を意味する。

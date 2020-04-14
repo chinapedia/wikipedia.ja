@@ -1,4 +1,4 @@
-> この記事は[AOR](https://ja.wikipedia.org/wiki/AOR)から翻訳されています。
+> この記事は[A・O・R](https://ja.wikipedia.org/wiki/A・O・R)から翻訳されています。
 
 
 『**A・O・R**』（エイ・オー・アール）は、[2004年](../Page/2004年.md "wikilink")10月より一部の[JFN系列局で放送されている](../Page/全国FM放送協議会.md "wikilink")[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（JFNC）制作の[ラジオ番組](../Page/ラジオ番組.md "wikilink")。放送時間は毎週月曜 - 木曜 19:00 - 20:55\[1\]。
@@ -36,9 +36,9 @@
 
 ## ネット局
 
-2019年4月現在。放送時間の早い順から記載。★は『[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")』（同プレミアム）で聴取可能な放送局。
+2020年4月現在。放送時間の早い順から記載。★は『[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")』（同プレミアム）で聴取可能な放送局。
 
-  - 本番組開始当初はネット局が少なかったが、2008年からネット局が徐々に増え、2019年4月現在は[JFN系列](../Page/全国FM放送協議会.md "wikilink")29局がネットしている（そのうちフルネットしているのは11局）。
+  - 本番組開始当初はネット局が少なかったが、2008年からネット局が徐々に増え、2020年3月現在は[JFN系列](../Page/全国FM放送協議会.md "wikilink")29局がネットしている（そのうちフルネットしているのは10局）。
   - 19時台のみのネット局が多いが、中には20時台のみのネット局もある。
   - 19時台は、最後の曲をオンエアする前にユキが「[ドコデモFM](https://ja.wikipedia.org/wiki/ドコデモFM "wikilink")」・「[LISMO WAVE](https://ja.wikipedia.org/wiki/LISMO#LISMO_WAVE "wikilink")」・「radiko」および自身の[Facebook](../Page/Facebook.md "wikilink")ページの案内を行い、「**この後もお聴きのステーションでお楽しみください。**」とコメントして締める。
   - 19・20時台飛び降り局は、曲の途中で音量が半分下がり「**残念ながら、お別れの時間が近づいてまいりました『A・O・R』、いかがでしたでしょうか、またお会いしましょう。I'm Yuki Line-hart, praying for peace tonight. （中略） Good night.**」などの降りコメントが挿入され、曲が普通の音量に戻ったのちフェードアウトし、終了する。
@@ -58,7 +58,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
-<td><p><a href="../Page/エフエム秋田.md" title="wikilink">エフエム秋田</a>（AFM）</p></td>
+<td><p><a href="../Page/エフエム秋田.md" title="wikilink">エフエム秋田</a>（AFM）★</p></td>
 <td><p>毎週月曜 - 木曜 19:00 - 20:55</p></td>
 <td><p>[2]</p></td>
 </tr>
@@ -100,7 +100,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
-<td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）</p></td>
+<td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）★</p></td>
 <td><p>[7]</p></td>
 <td></td>
 </tr>
@@ -130,7 +130,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/山形県.md" title="wikilink">山形県</a></p></td>
-<td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）</p></td>
+<td><p><a href="../Page/エフエム山形.md" title="wikilink">エフエム山形</a>（Rhythm Station）★</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -160,7 +160,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
-<td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）</p></td>
+<td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）★</p></td>
 <td><p>[15]</p></td>
 <td></td>
 </tr>
@@ -198,7 +198,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a></p></td>
 <td><p><a href="../Page/エフエム群馬.md" title="wikilink">エフエム群馬</a>（FM GUNMA）★</p></td>
-<td><p>毎週月曜 - 水曜 19:00 - 19:55</p></td>
+<td><p>毎週月曜 - 水曜、木曜（不定期）19:00 - 19:55</p></td>
 <td><p>[20]</p></td>
 </tr>
 <tr class="odd">
@@ -209,7 +209,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
-<td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）</p></td>
+<td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）★</p></td>
 <td><p>毎週月曜 - 木曜 20:00 - 20:55</p></td>
 <td><p>[22]</p></td>
 </tr>
@@ -221,7 +221,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
-<td><p><a href="../Page/エフエム宮崎.md" title="wikilink">エフエム宮崎</a>（JOY FM）</p></td>
+<td><p><a href="../Page/エフエム宮崎.md" title="wikilink">エフエム宮崎</a>（JOY FM）★</p></td>
 <td><p>[24]</p></td>
 <td></td>
 </tr>
@@ -299,7 +299,7 @@
 17. 水曜のみ『洋子の湖北ミュージックラウンジ』放送のため19:45飛び降り。
 18. 放送開始 - 2009年9月は20時台もネットしていた。
 19. 放送開始 - 2006年9月にネットしたが、一旦打ち切り。2009年8月よりネット再開し、同年10月より20時台もネットを開始。放送前に番組紹介が挿入され、スポンサーが付いている。2012年7月 - 2017年12月に『Love in Action』の関係で20:45で飛び降りていた。2019年4月より木曜は自社制作の『[SHINGO](../Page/橘しんご.md "wikilink")'S RADIO SHOW モ・ク・シ・チ』を放送するために月曜 - 水曜の放送となる。
-20. 2015年3月で木曜 19時台のみ自社制作番組『[148 neo](../Page/チャンネル148.md "wikilink")』の放送時間拡大でネット打ち切り。但し、148自体が年末年始等で放送休止や放送時間短縮になった場合は木曜 19時台も臨時ネットする。また、ユキは148に電話でゲスト出演した経験もある。
+20. 2015年3月で木曜の19時台のみ自社制作番組『[続・チャンネル148（仮）](../Page/チャンネル148.md "wikilink")』→『[148neo](../Page/チャンネル148.md "wikilink")』の放送時間拡大でネット打ち切り。但し、148自体が年末年始等で放送休止や放送時間短縮になった場合は木曜の19時台も臨時ネットする。また、ユキは148に電話でゲスト出演した経験もある。
 21. 2004年10月 - 2013年3月は20時台のみネットしたが一旦打ち切り。2016年4月 - 2017年3月は自社制作番組『5COLORS』の時間短縮に伴い19:00 ‐ 19:45に放送。2019年4月より3度目のネット開始。
 22. 2016年10月より自社制作番組『[TWILIGHT PAVEMENT](https://ja.wikipedia.org/wiki/TWILIGHT_PAVEMENT "wikilink")』が放送時間を1時間拡大したため、同年9月をもって19時台のネットを打ち切り。
 23.

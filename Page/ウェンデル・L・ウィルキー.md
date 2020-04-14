@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ウェンデル・L・ウィルキー](https://ja.wikipedia.org/wiki/ウェンデル・L・ウィルキー)から翻訳されています。
 
 
 [Wendell_Willkie.jpg](https://ja.wikipedia.org/wiki/File:Wendell_Willkie.jpg "fig:Wendell_Willkie.jpg") **ウェンデル・ルイス・ウィルキー**（**Wendell Lewis Willkie**, [1892年](../Page/1892年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink") - [1944年](../Page/1944年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")）は、[アメリカの政治家](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、弁護士。[1940年](../Page/1940年.md "wikilink")の[共和党大統領候補](../Page/共和党_\(アメリカ\).md "wikilink")。

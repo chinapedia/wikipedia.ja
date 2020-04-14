@@ -1,4 +1,4 @@
-> この記事は[ACR](https://ja.wikipedia.org/wiki/ACR)から翻訳されています。
+> この記事は[ACRメッシーナ](https://ja.wikipedia.org/wiki/ACRメッシーナ)から翻訳されています。
 
 
 **アッソチャツィオーネ・カルチョ・リウニーテ・メッシーナ**（**Associazioni Calcio Riunite Messina S.r.l.**）は、[イタリア](../Page/イタリア.md "wikilink")・[メッシーナ](../Page/メッシーナ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2018-19シーズンは[セリエDに所属している](../Page/セリエD_\(サッカー\).md "wikilink")。

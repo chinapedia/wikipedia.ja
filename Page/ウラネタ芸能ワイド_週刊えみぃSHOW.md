@@ -1,4 +1,4 @@
-> この記事は[ SHOW](https://ja.wikipedia.org/wiki/_SHOW)から翻訳されています。
+> この記事は[ウラネタ芸能ワイド 週刊えみぃSHOW](https://ja.wikipedia.org/wiki/ウラネタ芸能ワイド_週刊えみぃSHOW)から翻訳されています。
 
 
 『**ウラネタ芸能ワイド 週刊えみぃSHOW**』（ウラネタげいのうワイド しゅうかんえみぃショー）は、[読売テレビ（ytv）で毎週](../Page/讀賣テレビ放送.md "wikilink")[日曜日](../Page/日曜日.md "wikilink")の11:40〜13:05（スタート当初は〜12:35まで、[2002年](../Page/2002年.md "wikilink")4月に30分拡大）（[JST](../Page/日本標準時.md "wikilink")）まで放映されていた[芸能](../Page/芸能.md "wikilink")[ワイドショー番組](https://ja.wikipedia.org/wiki/ワイドショー番組 "wikilink")であり、[上沼恵美子](../Page/上沼恵美子.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")でもある。通称は『**週刊えみぃSHOW**』、もう一つの通称及び略称は『**えみぃSHOW**』である。

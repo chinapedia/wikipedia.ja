@@ -1,7 +1,9 @@
-> この記事は[Taka \(ONE OK ROCK\)](https://ja.wikipedia.org/wiki/Taka_\(ONE_OK_ROCK\))から翻訳されています。
+> この記事は[Taka \(ONE OK ROCKのメンバー\)](https://ja.wikipedia.org/wiki/Taka_\(ONE_OK_ROCKのメンバー\))から翻訳されています。
 
 
-**Taka**（タカ、本名：森内貴寛（もりうち たかひろ）、[1988年](../Page/1988年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。 [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のアイドルグループ・[NEWSの初期メンバーであった](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")。 歌手の[森進一](../Page/森進一.md "wikilink")と、同じく歌手の[森昌子](../Page/森昌子.md "wikilink")の長男である。弟(三男)はロックバンド・[MY FIRST STORYの](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")[Hiro](../Page/森内寛樹.md "wikilink")。
+**Taka**（タカ、本名：森内貴寛（もりうち たかひろ）、[1988年](../Page/1988年.md "wikilink")[4月17日](../Page/4月17日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[ONE OK ROCKの](../Page/ONE_OK_ROCK.md "wikilink")[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")。 [ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のアイドルグループ・[NEWSの初期メンバーであった](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")。
+
+歌手の[森進一](../Page/森進一.md "wikilink")と、同じく歌手の[森昌子](../Page/森昌子.md "wikilink")の長男である。弟(三男)はロックバンド・[MY FIRST STORYの](https://ja.wikipedia.org/wiki/MY_FIRST_STORY "wikilink")[Hiro](../Page/森内寛樹.md "wikilink")。
 
 ## 略歴
 
@@ -31,7 +33,7 @@
 
   - 7月26日、芸能事務所[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")と契約。インディーズから再CDデビュー。
 
-## 生い立ち
+## 経歴
 
 ### 幼少期
 
@@ -148,7 +150,7 @@
   - 8月30日(木)発売の [ROCKIN'ON JAPAN](../Page/ROCKIN'ON_JAPAN.md "wikilink") 10月号にて、10年間の活動休止を経て活動再開した[ELLEGARDEN](../Page/ELLEGARDEN.md "wikilink")の復活にTakaの並々ならぬ助力があったとしてELLEGARDEN 細美氏と ONE OK ROCK Takaの対談記事が掲載された\[32\]。ELLEGARDENは、ONE OK ROCK結成のきっかけであるRIZEと並び、ONE OK ROCKおよびTakaに多大な影響を及ぼしたバンド\[33\]。復活ライブのゲストアクトもONE OK ROCKが務めた\[34\]。
   - HondaのTVCM『Go, Vantage Point.』シリーズでONE OK ROCKが楽曲を書き下ろし、Takaはナレーションも担当した。[1](http://spice.eplus.jp/articles/216470)
 
-### 参加作品一覧
+## 参加作品
 
 <table>
 <thead>
@@ -260,14 +262,6 @@
 </tbody>
 </table>
 
-## 脚注
-
-### 注釈
-
-### 出典
-
-<http://www.hochi.co.jp/entertainment/20180309-OHT1T50050.html> 『僕の青春、終わっちゃうのは本当に寂しい・・・』めちゃイケの収録を見学。
-
 ## 関連項目
 
   - [森進一](../Page/森進一.md "wikilink") - Takaの父、歌手。
@@ -278,6 +272,14 @@
   - [佐藤健](../Page/佐藤健_\(俳優\).md "wikilink") - 親友。\[37\]
 
 ## 脚注
+
+### 注釈
+
+### 出典
+
+### 参考文献
+
+  - [『僕の青春！終わっちゃうのは本当に寂しい・・・』](http://www.hochi.co.jp/entertainment/20180309-OHT1T50050.html) めちゃイケの収録を見学。
 
 ## 外部リンク
 

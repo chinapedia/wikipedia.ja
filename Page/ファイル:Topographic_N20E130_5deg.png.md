@@ -1,4 +1,4 @@
-> この記事は[:Topographic N20E130 5deg.png](https://ja.wikipedia.org/wiki/:Topographic_N20E130_5deg.png)から翻訳されています。
+> この記事は[ファイル:Topographic N20E130 5deg.png](https://ja.wikipedia.org/wiki/ファイル:Topographic_N20E130_5deg.png)から翻訳されています。
 
 
 北緯20, 東経130

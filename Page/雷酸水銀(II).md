@@ -1,4 +1,4 @@
-> この記事は[\(II\)](https://ja.wikipedia.org/wiki/\(II\))から翻訳されています。
+> この記事は[雷酸水銀\(II\)](https://ja.wikipedia.org/wiki/雷酸水銀\(II\))から翻訳されています。
 
 
 **雷酸水銀**（らいさんすいぎん）は[水銀](../Page/水銀.md "wikilink")の[雷酸](../Page/雷酸.md "wikilink")塩で、淡青色の斜方錐状晶。[シアン酸水銀](https://ja.wikipedia.org/wiki/シアン酸水銀 "wikilink")の異性体である。

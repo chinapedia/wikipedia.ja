@@ -1,4 +1,4 @@
-> この記事は[JAGoGo](https://ja.wikipedia.org/wiki/JAGoGo)から翻訳されています。
+> この記事は[JA全農Go・Go賞](https://ja.wikipedia.org/wiki/JA全農Go・Go賞)から翻訳されています。
 
 
 **JA全農Go・Go賞**（ジェーエーぜんのうゴーゴーしょう）は、[1992年](../Page/1992年.md "wikilink")から[2012年](../Page/2012年.md "wikilink")まで存在した[日本野球機構](https://ja.wikipedia.org/wiki/日本野球機構 "wikilink")の選手表彰の一つ。毎年[4月](https://ja.wikipedia.org/wiki/4月 "wikilink") - [9月](../Page/9月.md "wikilink")の各月に設定された表彰テーマに沿って、最も活躍した選手を表彰した。このほか[2011年](../Page/2011年.md "wikilink")シーズンからは、各月の受賞選手の中からJA全農とセ・パ両リーグが協議の上、「最優秀JA全農Go・Go賞」を選出し表彰した。

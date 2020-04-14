@@ -1,4 +1,4 @@
-> この記事は[SAKURA \(\)](https://ja.wikipedia.org/wiki/SAKURA_\(\))から翻訳されています。
+> この記事は[SAKURA \(歌手\)](https://ja.wikipedia.org/wiki/SAKURA_\(歌手\))から翻訳されています。
 
 
 **SAKURA**（サクラ、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[11月23日](../Page/11月23日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。[スイス](../Page/スイス.md "wikilink")生まれ、[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身\[1\]\[2\]\[3\]。[LDH JAPAN所属](../Page/LDH_\(芸能プロダクション\).md "wikilink")。

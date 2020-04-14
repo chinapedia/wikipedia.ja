@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[魔法少女猫X](https://ja.wikipedia.org/wiki/魔法少女猫X)から翻訳されています。
 
 
 『**魔法少女猫X**』（まほうしょうじょねこエックス）は、[おりもとみまな](../Page/おりもとみまな.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

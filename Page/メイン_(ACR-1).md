@@ -1,4 +1,4 @@
-> この記事は[ \(ACR-1\)](https://ja.wikipedia.org/wiki/_\(ACR-1\))から翻訳されています。
+> この記事は[メイン \(ACR-1\)](https://ja.wikipedia.org/wiki/メイン_\(ACR-1\))から翻訳されています。
 
 
 |                                                                                                                 |

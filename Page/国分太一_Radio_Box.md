@@ -1,4 +1,4 @@
-> この記事は[ Radio Box](https://ja.wikipedia.org/wiki/_Radio_Box)から翻訳されています。
+> この記事は[国分太一 Radio Box](https://ja.wikipedia.org/wiki/国分太一_Radio_Box)から翻訳されています。
 
 
 **国分太一 Radio Box**（こくぶんたいち レディオ ボックス、略称は「**レディボ**」）はの[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[JFN系列のFMラジオ局](../Page/全国FM放送協議会.md "wikilink")25局前後で全国的に放送されている。放送基準日は毎週金曜 21:00 - 21:55。[2001年](../Page/2001年.md "wikilink")4月に放送開始。
@@ -252,9 +252,9 @@
 
 ## ネット局
 
-2020年2月現在。放送時間の早い順から記載。
+2020年4月現在。放送時間の早い順から記載。
 
-★は2020年2月現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアムを含む）で聴取可能な放送局。
+★は2020年4月現在、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」（プレミアムを含む）で聴取可能な放送局。
 
 ### 現在
 
@@ -263,26 +263,26 @@
 | [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")               | [三重エフエム放送](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink")（レディオキューブ FM三重）★ | 毎週金曜 19:00 - 19:55 | \[2\]      |
 | [福島県](../Page/福島県.md "wikilink")                                  | [エフエム福島](../Page/エフエム福島.md "wikilink")（ふくしまFM）★                               | 毎週金曜 20:00 - 20:55 | \[3\]      |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [エフエム青森](../Page/エフエム青森.md "wikilink")（AFB）★\[4\]                             | 毎週金曜 21:00 - 21:55 | **基準放送時間** |
-| [秋田県](../Page/秋田県.md "wikilink")                                  | [エフエム秋田](../Page/エフエム秋田.md "wikilink")（AFM）\[5\]                              |                    |            |
+| [秋田県](../Page/秋田県.md "wikilink")                                  | [エフエム秋田](../Page/エフエム秋田.md "wikilink")（AFM）★\[5\]                             |                    |            |
+| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")               | [エフエム群馬](../Page/エフエム群馬.md "wikilink")（FM GUNMA）★\[6\]                        |                    |            |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")               | [富山エフエム放送](../Page/富山エフエム放送.md "wikilink")（FMとやま）★                            |                    |            |
 | [福井県](../Page/福井県.md "wikilink")                                  | [福井エフエム放送](../Page/福井エフエム放送.md "wikilink")（FM FUKUI）★                         |                    |            |
 | [長野県](../Page/長野県.md "wikilink")                                  | [長野エフエム放送](../Page/長野エフエム放送.md "wikilink")（FM長野）★                             |                    |            |
 | [滋賀県](../Page/滋賀県.md "wikilink")                                  | [エフエム滋賀](../Page/エフエム滋賀.md "wikilink")（e-radio）★                              |                    |            |
-| [島根県](../Page/島根県.md "wikilink")・[鳥取県](../Page/鳥取県.md "wikilink") | [エフエム山陰](../Page/エフエム山陰.md "wikilink")（V-air）\[6\]                            |                    |            |
-| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")               | [岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")（FM OKAYAMA）\[7\]                   |                    |            |
-| [香川県](../Page/香川県.md "wikilink")                                  | [エフエム香川](../Page/エフエム香川.md "wikilink")（FM香川）★\[8\]                            |                    |            |
+| [島根県](../Page/島根県.md "wikilink")・[鳥取県](../Page/鳥取県.md "wikilink") | [エフエム山陰](../Page/エフエム山陰.md "wikilink")（V-air）★\[7\]                           |                    |            |
+| [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")               | [岡山エフエム放送](../Page/岡山エフエム放送.md "wikilink")（FM OKAYAMA）★\[8\]                  |                    |            |
+| [香川県](../Page/香川県.md "wikilink")                                  | [エフエム香川](../Page/エフエム香川.md "wikilink")（FM香川）★\[9\]                            |                    |            |
 | [佐賀県](../Page/佐賀県.md "wikilink")                                  | [エフエム佐賀](../Page/エフエム佐賀.md "wikilink")（FMS）                                   |                    |            |
 | [大分県](../Page/大分県.md "wikilink")                                  | [エフエム大分](../Page/エフエム大分.md "wikilink")（Air-Radio FM88）★                       |                    |            |
-| [岐阜県](../Page/岐阜県.md "wikilink")                                  | [エフエム岐阜](../Page/エフエム岐阜.md "wikilink")（FM GIFU）★                              | 毎週土曜 19:00 - 19:55 | \[9\]      |
+| [岐阜県](../Page/岐阜県.md "wikilink")                                  | [エフエム岐阜](../Page/エフエム岐阜.md "wikilink")（FM GIFU）★                              | 毎週土曜 19:00 - 19:55 | \[10\]     |
 | [岩手県](../Page/岩手県.md "wikilink")                                  | [エフエム岩手](../Page/エフエム岩手.md "wikilink")（FM IWATE）★                             | 毎週土曜 20:00 - 20:55 |            |
 | [栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")               | [エフエム栃木](https://ja.wikipedia.org/wiki/エフエム栃木 "wikilink")（RADIO BERRY）★       |                    |            |
-| [新潟県](../Page/新潟県.md "wikilink")                                  | [エフエムラジオ新潟](../Page/エフエムラジオ新潟.md "wikilink")（FM-NIIGATA）★                     | \[10\]             |            |
-| [高知県](../Page/高知県.md "wikilink")                                  | [エフエム高知](../Page/エフエム高知.md "wikilink")（Hi-Six）                                | \[11\]             |            |
-| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")               | [エフエム群馬](../Page/エフエム群馬.md "wikilink")（FM GUNMA）★                             | 毎週土曜 21:00 - 21:55 | \[12\]     |
+| [新潟県](../Page/新潟県.md "wikilink")                                  | [エフエムラジオ新潟](../Page/エフエムラジオ新潟.md "wikilink")（FM-NIIGATA）★                     | \[11\]             |            |
+| [高知県](../Page/高知県.md "wikilink")                                  | [エフエム高知](../Page/エフエム高知.md "wikilink")（Hi-Six）★                               | \[12\]             |            |
 | [兵庫県](../Page/兵庫県.md "wikilink")                                  | [兵庫エフエム放送](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")（Kiss FM KOBE）★  | 毎週土曜 26:00 - 26:55 | \[13\]     |
 | [山口県](../Page/山口県.md "wikilink")                                  | [エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")（FMY）★               | 毎週日曜 20:00 - 20:55 | \[14\]     |
 | [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [エフエム熊本](../Page/エフエム熊本.md "wikilink")（FMK）★                                  | 毎週日曜 21:00 - 21:55 | \[15\]     |
-| [山形県](../Page/山形県.md "wikilink")                                  | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station）                        | 毎週日曜 22:00 - 22:55 | \[16\]     |
+| [山形県](../Page/山形県.md "wikilink")                                  | [エフエム山形](../Page/エフエム山形.md "wikilink")（Rhythm Station）★                       | 毎週日曜 22:00 - 22:55 | \[16\]     |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")               | [エフエム石川](../Page/エフエム石川.md "wikilink")（HELLO FIVE）★                           | \[17\]             |            |
 | [大阪府](../Page/大阪府.md "wikilink")                                  | [エフエム大阪](../Page/エフエム大阪.md "wikilink")（FM OH\!）★                              | 毎週月曜 28:00 - 28:55 | \[18\]     |
 | [広島県](../Page/広島県.md "wikilink")                                  | [広島エフエム放送](../Page/広島エフエム放送.md "wikilink")（HFM）★                              | 毎週水曜 28:00 - 28:55 | \[19\]     |
@@ -317,13 +317,13 @@
 3.  時期は不明だが、以前は毎週土曜 19:00 - 19:55、毎週火曜 20:00 - 20:55、2010年4月より毎週火曜 21:00 - 21:55、毎週水曜 20:00 - 20:55、毎週金曜 21:00 - 21:55の順に放送時間変更していた。
 4.  時期は不明だが、金曜 19:00 - 19:55に放送していた。
 5.
-6.  2019年3月までは毎週金曜 19:00 - 19:55に放送していた。
-7.  2008年9月までは毎週金曜 19:00 - 19:55に放送していた。
-8.  2012年6月までは毎週金曜 19:00 - 19:55に放送していた。
-9.  2017年3月までは毎週金曜 19:00 - 19:55に放送していた。
-10. 一時期、2008年4月から毎週月曜 12:00 - 12:55に再放送されている時期があった。
-11. 2008年9月で一旦終了したが、毎週土曜 24:00 - 24:55に放送再開し、その後放送時間変更した。
-12. 2017年3月までは金曜 21:00 - 21:55に放送していた。
+6.  開始 - 2017年3月までは毎週金曜 21:00 - 21:55に、2017年4月 - 2020年3月までは毎週土曜21:00 - 21:55に放送していた
+7.  2019年3月までは毎週金曜 19:00 - 19:55に放送していた。
+8.  2008年9月までは毎週金曜 19:00 - 19:55に放送していた。
+9.  2012年6月までは毎週金曜 19:00 - 19:55に放送していた。
+10. 2017年3月までは毎週金曜 19:00 - 19:55に放送していた。
+11. 一時期、2008年4月から毎週月曜 12:00 - 12:55に再放送されている時期があった。
+12. 2008年9月で一旦終了したが、毎週土曜 24:00 - 24:55に放送再開し、その後放送時間変更した。
 13. 時期は不明だが、毎週日曜 22:00 - 22:55の後、2017年4月までは毎週月曜 21:00 - 21:55に放送していた。
 14. 時期は不明だが、毎週金曜 20:00 - 20:55の後、2017年3月までは毎週金曜 19:00 - 19:55に放送していた。
 15. 2011年までは毎週日曜 22:00 - 22:55に放送していた。

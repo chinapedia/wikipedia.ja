@@ -1,4 +1,4 @@
-> この記事は[SEED DESTINY](https://ja.wikipedia.org/wiki/SEED_DESTINY)から翻訳されています。
+> この記事は[機動戦士ガンダムSEED DESTINY](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINY)から翻訳されています。
 
 
 『**機動戦士ガンダムSEED DESTINY**』（きどうせんしガンダムシード デスティニー、**MOBILE SUIT GUNDAM SEED DESTINY**）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」のテレビシリーズ。『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』の続編として製作され、[2004年](../Page/2004年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")（一部地域は同年[10月16日](../Page/10月16日.md "wikilink")）から[2005年](../Page/2005年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")（一部地域は同年[10月8日](../Page/10月8日.md "wikilink")）まで、[MBSを製作局として](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[TBS系列で全](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")50話が放送された。。
@@ -9,13 +9,13 @@
 
 前作『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』での終盤の舞台となった戦い、第二次[ヤキン・ドゥーエ攻防戦から](https://ja.wikipedia.org/wiki/コズミック・イラの施設#ヤキン・ドゥーエ "wikilink")2年後の世界が舞台であり、物語の舞台が「[宇宙世紀](../Page/宇宙世紀.md "wikilink")」ではないガンダムシリーズ作品の続編作品が、TVシリーズとして制作されたのは本作が初である。
 
-本作ではAパートのみ[アイキャッチ](https://ja.wikipedia.org/wiki/アイキャッチ "wikilink")がなく、番組ロゴが表示されるのみ\[2\]。
+本作ではAパートのみ[アイキャッチ](../Page/アイキャッチ.md "wikilink")がなく、番組ロゴが表示されるのみ\[2\]。
 
 本作の[ザフト軍のモビルスーツには](https://ja.wikipedia.org/wiki/プラント_\(ガンダムシリーズ\)#ザフト "wikilink")、宇宙世紀シリーズで登場した[ジオン公国](../Page/ジオン公国.md "wikilink")の[ザクや](../Page/ザクII.md "wikilink")[グフ](../Page/グフ.md "wikilink")、[ドム](../Page/ドム.md "wikilink")を[オマージュ](../Page/オマージュ.md "wikilink")したものが登場する。
 
 ### 主人公
 
-設定・シナリオ担当の下村敬治は、月刊誌『[ニュータイプ](../Page/月刊ニュータイプ.md "wikilink")』のコラムで「キラこそが最も主役に相応しかったのではないか」とコメントしている\[3\]。また、ラクス役の[田中理恵は](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")、シンが主人公ながらに憎しみに陥っていく姿が、『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』のエピソード1～3の主人公である[アナキン・スカイウォーカー](../Page/アナキン・スカイウォーカー.md "wikilink")（[ダース・ベイダー](../Page/ダース・ベイダー.md "wikilink")）に似ていると評している\[4\]。一方で、当作品の監督の[福田己津央](../Page/福田己津央.md "wikilink")は「**一つの物語に三軸の主人公を据えて、三つの視点から描くことに挑戦してみたかった**」と述べている\[5\]\[6\]\[7\]。また、媒体によっては「ガンダムSEED DESTINYの二人の主人公」「もう一人の主人公キラ・ヤマト」など双方を主人公とする表現も用いられる\[8\]。
+設定・シナリオ担当の下村敬治は、月刊誌『[ニュータイプ](../Page/月刊ニュータイプ.md "wikilink")』のコラムで「キラこそが最も主役に相応しかったのではないか」とコメントしている\[3\]。また、ラクス役の[田中理恵は](../Page/田中理恵_\(声優\).md "wikilink")、シンが主人公ながらに憎しみに陥っていく姿が、『[スター・ウォーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』のエピソード1～3の主人公である[アナキン・スカイウォーカー](../Page/アナキン・スカイウォーカー.md "wikilink")（[ダース・ベイダー](../Page/ダース・ベイダー.md "wikilink")）に似ていると評している\[4\]。一方で、当作品の監督の[福田己津央](../Page/福田己津央.md "wikilink")は「**一つの物語に三軸の主人公を据えて、三つの視点から描くことに挑戦してみたかった**」と述べている\[5\]\[6\]\[7\]。また、媒体によっては「ガンダムSEED DESTINYの二人の主人公」「もう一人の主人公キラ・ヤマト」など双方を主人公とする表現も用いられる\[8\]。
 
 ### 制作側の発言
 
@@ -78,7 +78,7 @@
 
 :\* [タリア・グラディス](../Page/タリア・グラディス.md "wikilink") （声 - [小山茉美](../Page/小山茉美.md "wikilink")）
 
-:\* [ミーア・キャンベル](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINYの登場人物#ミーア・キャンベル "wikilink") （声 - [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")）
+:\* [ミーア・キャンベル](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINYの登場人物#ミーア・キャンベル "wikilink") （声 - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink")）
 
 :\* [メイリン・ホーク](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEED_DESTINYの登場人物#メイリン・ホーク "wikilink") （声 - [折笠富美子](../Page/折笠富美子.md "wikilink")）
 
@@ -92,7 +92,7 @@
 
 :\* [アスラン・ザラ](../Page/アスラン・ザラ.md "wikilink") （声 - [石田彰](../Page/石田彰.md "wikilink")）
 
-:\* [ラクス・クライン](../Page/ラクス・クライン.md "wikilink") （声 - [田中理恵](https://ja.wikipedia.org/wiki/田中理恵_\(声優\) "wikilink")）
+:\* [ラクス・クライン](../Page/ラクス・クライン.md "wikilink") （声 - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink")）
 
 :\* [マリュー・ラミアス](../Page/マリュー・ラミアス.md "wikilink") （声 - [三石琴乃](../Page/三石琴乃.md "wikilink")）
 
@@ -301,7 +301,7 @@
 スペシャルエディション完結編 自由の代償</p></td>
 <td></td>
 <td><p>梶浦由記</p></td>
-<td><p><a href="../Page/ラクス・クライン.md" title="wikilink">ラクス・クライン</a>（<a href="https://ja.wikipedia.org/wiki/田中理恵_(声優)" title="wikilink">田中理恵</a>）</p></td>
+<td><p><a href="../Page/ラクス・クライン.md" title="wikilink">ラクス・クライン</a>（<a href="../Page/田中理恵_(声優).md" title="wikilink">田中理恵</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

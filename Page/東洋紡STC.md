@@ -1,4 +1,4 @@
-> この記事は[STC](https://ja.wikipedia.org/wiki/STC)から翻訳されています。
+> この記事は[東洋紡STC](https://ja.wikipedia.org/wiki/東洋紡STC)から翻訳されています。
 
 
 **東洋紡STC株式会社**（とうようぼう エス・ティー・シー）は[大阪市](../Page/大阪市.md "wikilink")[北区にある繊維系会社](../Page/北区_\(大阪市\).md "wikilink")。

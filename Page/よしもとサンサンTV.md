@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[よしもとサンサンTV](https://ja.wikipedia.org/wiki/よしもとサンサンTV)から翻訳されています。
 
 
 『**よしもとサンサンTV**』（よしもとサンサンテレビ）は、[サンテレビジョン](../Page/サンテレビジョン.md "wikilink")で放映されていた[お笑い番組](../Page/お笑い番組.md "wikilink")。

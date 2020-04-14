@@ -1,7 +1,7 @@
-> この記事は[SS](https://ja.wikipedia.org/wiki/SS)から翻訳されています。
+> この記事は[SSローブル・シエーナ](https://ja.wikipedia.org/wiki/SSローブル・シエーナ)から翻訳されています。
 
 
-**ソチエタ・スポルティーヴァ・ローブル・シエーナ**（**Società Sportiva Robur Siena S.r.l.**）は、[イタリア](../Page/イタリア.md "wikilink")・[シエーナ](../Page/シエーナ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2018-19シーズンは[セリエCに所属している](https://ja.wikipedia.org/wiki/セリエC_\(サッカー\) "wikilink")。**アッソチャツィオーネ・カルチョ・シエーナ**（**Associazione Calcio Siena s.p.a**）が前身となっている。
+**ローブル・シエーナ**（**Robur Siena S.p.A.**）は、[イタリア](../Page/イタリア.md "wikilink")・[シエーナ](../Page/シエーナ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[セリエCに所属している](https://ja.wikipedia.org/wiki/セリエC_\(サッカー\) "wikilink")。**アッソチアツィオーネ・カルチョ・シエーナ**（**Associazione Calcio Siena S.p.A**）が前身となっている。
 
 ## 概要
 

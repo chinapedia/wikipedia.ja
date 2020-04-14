@@ -1,4 +1,4 @@
-> この記事は[PEARL \(\)](https://ja.wikipedia.org/wiki/PEARL_\(\))から翻訳されています。
+> この記事は[PEARL \(バンド\)](https://ja.wikipedia.org/wiki/PEARL_\(バンド\))から翻訳されています。
 
 
 **PEARL**（パール）は、**[田村直美](../Page/田村直美.md "wikilink")(SHO-TA)**を中心としたロックバンドである。

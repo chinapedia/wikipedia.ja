@@ -1,4 +1,4 @@
-> この記事は[TBC](https://ja.wikipedia.org/wiki/TBC)から翻訳されています。
+> この記事は[TBCグループ](https://ja.wikipedia.org/wiki/TBCグループ)から翻訳されています。
 
 
 **TBCグループ株式会社**(TBC GROUP Co.,LTD.)は、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に本社を置き、エステティックTBC、メンズTBCを日本全国で運営する[エステティック](../Page/エステティック.md "wikilink")最大手企業である。2016年3月現在で、全国237店舗を直営展開で構える。（うち43がメンズ、37がエピレ）会員制でフェイシャルエステ、[脱毛などの施術サービスを個室にて行う](https://ja.wikipedia.org/wiki/脱毛_\(美容\) "wikilink")。 なお、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")に本社のあるTBC[東北放送](../Page/東北放送.md "wikilink")とは無関係である。

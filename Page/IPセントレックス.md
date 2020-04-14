@@ -1,4 +1,4 @@
-> この記事は[IP](https://ja.wikipedia.org/wiki/IP)から翻訳されています。
+> この記事は[IPセントレックス](https://ja.wikipedia.org/wiki/IPセントレックス)から翻訳されています。
 
 
 **IPセントレックス**(IP centrex)は、[企業](../Page/企業.md "wikilink")などが[内線電話](../Page/内線電話.md "wikilink")の[VoIP](../Page/VoIP.md "wikilink")網制御装置を集中して設置・管理する構成方法である。

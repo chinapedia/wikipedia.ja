@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[FCナント](https://ja.wikipedia.org/wiki/FCナント)から翻訳されています。
 
 
 **フットボール・クルブ・ドゥ・ナント**（**Football Club de Nantes**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[ナント](../Page/ナント.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[リーグ・アン](../Page/リーグ・アン.md "wikilink")（1部）にする。

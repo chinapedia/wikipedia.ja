@@ -1,4 +1,4 @@
-> この記事は[with](https://ja.wikipedia.org/wiki/with)から翻訳されています。
+> この記事は[あややムwithエコハムず](https://ja.wikipedia.org/wiki/あややムwithエコハムず)から翻訳されています。
 
 
 **あややムwithエコハムず**（あややム ウィズ エコハムず）は日本のアニメ映画の劇中キャラクターユニット。

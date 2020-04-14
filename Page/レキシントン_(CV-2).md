@@ -1,4 +1,4 @@
-> この記事は[ \(CV-2\)](https://ja.wikipedia.org/wiki/_\(CV-2\))から翻訳されています。
+> この記事は[レキシントン \(CV-2\)](https://ja.wikipedia.org/wiki/レキシントン_\(CV-2\))から翻訳されています。
 
 
 <table>

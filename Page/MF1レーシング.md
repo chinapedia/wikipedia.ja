@@ -1,4 +1,4 @@
-> この記事は[MF1](https://ja.wikipedia.org/wiki/MF1)から翻訳されています。
+> この記事は[MF1レーシング](https://ja.wikipedia.org/wiki/MF1レーシング)から翻訳されています。
 
 
 **MF1レーシング** (**MF1 Racing**) は2006年のみ[F1に参戦していた](../Page/フォーミュラ1.md "wikilink")[コンストラクター](../Page/F1コンストラクターの一覧.md "wikilink")。「MF1」とは「**ミッドランドF1**」の略称。イギリスに本拠を置くが、チームの国籍登録はロシアであった。

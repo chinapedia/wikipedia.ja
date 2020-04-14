@@ -1,4 +1,4 @@
-> この記事は[D.C. ](https://ja.wikipedia.org/wiki/D.C._)から翻訳されています。
+> この記事は[D.C. 〜ダ・カーポ〜](https://ja.wikipedia.org/wiki/D.C._〜ダ・カーポ〜)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

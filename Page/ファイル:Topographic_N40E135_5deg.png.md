@@ -1,4 +1,4 @@
-> この記事は[:Topographic N40E135 5deg.png](https://ja.wikipedia.org/wiki/:Topographic_N40E135_5deg.png)から翻訳されています。
+> この記事は[ファイル:Topographic N40E135 5deg.png](https://ja.wikipedia.org/wiki/ファイル:Topographic_N40E135_5deg.png)から翻訳されています。
 
 
 北緯40, 東経135

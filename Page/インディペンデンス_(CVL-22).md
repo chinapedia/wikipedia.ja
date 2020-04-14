@@ -1,4 +1,4 @@
-> この記事は[ \(CVL-22\)](https://ja.wikipedia.org/wiki/_\(CVL-22\))から翻訳されています。
+> この記事は[インディペンデンス \(CVL-22\)](https://ja.wikipedia.org/wiki/インディペンデンス_\(CVL-22\))から翻訳されています。
 
 
 |                                                                                                                                                                                 |

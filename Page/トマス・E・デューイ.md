@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[トマス・E・デューイ](https://ja.wikipedia.org/wiki/トマス・E・デューイ)から翻訳されています。
 
 
 **トマス・エドマンド・デューイ**（、[1902年](../Page/1902年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") - [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の政治家、[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")知事（[1943年](../Page/1943年.md "wikilink")-[1955年](../Page/1955年.md "wikilink")）。[1944年](../Page/1944年.md "wikilink")及び[1948年](../Page/1948年.md "wikilink")の[共和党大統領候補](../Page/共和党_\(アメリカ\).md "wikilink")。20世紀に生まれた最初の大統領候補でもあった。

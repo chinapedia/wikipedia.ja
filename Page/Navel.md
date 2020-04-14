@@ -62,7 +62,7 @@
       - 2017年12月22日 - 月に寄りそう乙女の作法2.2 A×L+SA\!\!
   - 2018年4月27日 - [君と目覚める幾つかの方法](https://ja.wikipedia.org/wiki/君と目覚める幾つかの方法 "wikilink")
   - 2019年2月28日 - [SPIRAL\!\!](https://ja.wikipedia.org/wiki/SPIRAL!! "wikilink")
-  - 2020年5月29日 - [SHUFFLE\! エピソード2 神にも悪魔にも狙われている男](https://ja.wikipedia.org/wiki/SHUFFLE!_エピソード2_神にも悪魔にも狙われている男 "wikilink")
+  - 2020年5月29日 - [SHUFFLE\! エピソード2 神にも悪魔にも狙われている男](../Page/SHUFFLE!_エピソード2_神にも悪魔にも狙われている男.md "wikilink")
 
 <!-- end list -->
 

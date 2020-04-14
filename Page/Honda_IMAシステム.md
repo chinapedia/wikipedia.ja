@@ -1,4 +1,4 @@
-> この記事は[Honda IMA](https://ja.wikipedia.org/wiki/Honda_IMA)から翻訳されています。
+> この記事は[Honda IMAシステム](https://ja.wikipedia.org/wiki/Honda_IMAシステム)から翻訳されています。
 
 
 **Honda IMAシステム**（ホンダ・アイエムエー・システム、Honda **I**ntegrated **M**otor **A**ssist System：ホンダ・インテグレーテッド・モーター・アシスト・システム）は、[本田技研工業](../Page/本田技研工業.md "wikilink")が開発した小型・普通[乗用車](../Page/乗用車.md "wikilink")用[ハイブリッドシステムである](../Page/ハイブリッドカー.md "wikilink")。一時期 、「IMA」を「イマ」とローマ字読みして「IMA（イマ）は、未来」とプロモーションしていた事がある。2000年の[インターナショナル・エンジン・オブ・ザ・イヤー](https://ja.wikipedia.org/wiki/インターナショナル・エンジン・オブ・ザ・イヤー "wikilink")に選ばれている

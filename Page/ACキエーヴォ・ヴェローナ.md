@@ -1,4 +1,4 @@
-> この記事は[AC](https://ja.wikipedia.org/wiki/AC)から翻訳されています。
+> この記事は[ACキエーヴォ・ヴェローナ](https://ja.wikipedia.org/wiki/ACキエーヴォ・ヴェローナ)から翻訳されています。
 
 
 **アッソチャツィオーネ・カルチョ・キエーヴォ・ヴェローナ**（**Associazione Calcio Chievo Verona**）は、[イタリア](../Page/イタリア.md "wikilink")・[ヴェローナ](https://ja.wikipedia.org/wiki/ヴェローナ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは[セリエBに所属している](../Page/セリエB_\(サッカー\).md "wikilink")。
@@ -255,7 +255,7 @@
 <td><p>15</p></td>
 </tr>
 <tr class="even">
-<td><p>1999-00</p></td>
+<td><p>1999-2000</p></td>
 <td><p>セリエB</p></td>
 <td><p>38</p></td>
 <td><p>11</p></td>
@@ -493,11 +493,11 @@
 
   - [ジュゼッペ・イアキーニ](https://ja.wikipedia.org/wiki/ジュゼッペ・イアキーニ "wikilink") 2007-2008
 
-  - [ドメニコ・ディ・カルロ](https://ja.wikipedia.org/wiki/ドメニコ・ディ・カルロ "wikilink") 2008.11-2010, 2011-2012.10
+  - [ドメニコ・ディ・カルロ](https://ja.wikipedia.org/wiki/ドメニコ・ディ・カルロ "wikilink") 2008-2010, 2011-2012
 
   - [ステファノ・ピオリ](https://ja.wikipedia.org/wiki/ステファノ・ピオリ "wikilink") 2010-2011
 
-  - [エウジェニオ・コリーニ](../Page/エウジェニオ・コリーニ.md "wikilink") 2012.10-2013.6, 2013.11-2014.10
+  - [エウジェニオ・コリーニ](../Page/エウジェニオ・コリーニ.md "wikilink") 2012-2013, 2013-2014
 
   - [ジュゼッペ・サンニーノ](https://ja.wikipedia.org/wiki/ジュゼッペ・サンニーノ "wikilink") 2013
 
@@ -509,7 +509,9 @@
 
   - [ドメニコ・ディ・カルロ](https://ja.wikipedia.org/wiki/ドメニコ・ディ・カルロ "wikilink") 2018-2019
 
-  - [ミケーレ・マルコリーニ](https://ja.wikipedia.org/wiki/ミケーレ・マルコリーニ "wikilink") 2019-
+  - [ミケーレ・マルコリーニ](https://ja.wikipedia.org/wiki/ミケーレ・マルコリーニ "wikilink") 2019-2020
+
+  - [アルフレード・アッリェッティ](https://ja.wikipedia.org/wiki/アルフレード・アッリェッティ "wikilink") 2020-
 
 ## 歴代所属選手
 

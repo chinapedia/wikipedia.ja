@@ -76,4 +76,4 @@
 
   - [AIR-G' R advance RAD'S](http://www.air-g.co.jp/rads/)
 
-[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink")
+[Category:AIR-G'の帯番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の帯番組 "wikilink") [Category:CREATIVE_OFFICE_CUE](https://ja.wikipedia.org/wiki/Category:CREATIVE_OFFICE_CUE "wikilink") [Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:TEAM_NACS](https://ja.wikipedia.org/wiki/Category:TEAM_NACS "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink")

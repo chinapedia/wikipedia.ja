@@ -1,4 +1,4 @@
-> この記事は[XML](https://ja.wikipedia.org/wiki/XML)から翻訳されています。
+> この記事は[XMLデータベース](https://ja.wikipedia.org/wiki/XMLデータベース)から翻訳されています。
 
 
 **XMLデータベース**とは、[XMLを扱うための機能を持つ](../Page/Extensible_Markup_Language.md "wikilink")[データベース](../Page/データベース.md "wikilink")である。

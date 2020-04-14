@@ -135,8 +135,10 @@
 ## 外部リンク
 
   - [THE CHAIR番組宣伝](http://www.tbs.co.jp/program/thechair.html)（TBS）
+
   - [THE CHAIR番組宣伝2](http://www.tbs.co.jp/program/thechair_20050928.html)（TBS）
-  - [アメリカ版「THE CHAIR」紹介ページ](http://www.geocities.co.jp/Hollywood-Miyuki/2064/tvs/02/chairchamber.htm)
+
+  -
   - [イギリスBBC THE CHAIR「Flash Game」](http://www.bbc.co.uk/entertainment/thechair/game.shtml)
 
 [Category:2000年代のテレビ番組](https://ja.wikipedia.org/wiki/Category:2000年代のテレビ番組 "wikilink") [Category:アメリカ合衆国のクイズ番組](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のクイズ番組 "wikilink") [Category:フランチャイズ番組](https://ja.wikipedia.org/wiki/Category:フランチャイズ番組 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:TBSの特別番組](https://ja.wikipedia.org/wiki/Category:TBSの特別番組 "wikilink") [Category:TBSのクイズ番組](https://ja.wikipedia.org/wiki/Category:TBSのクイズ番組 "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:浜田雅功](https://ja.wikipedia.org/wiki/Category:浜田雅功 "wikilink")

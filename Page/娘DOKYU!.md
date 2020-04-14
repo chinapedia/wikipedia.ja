@@ -1,4 +1,4 @@
-> この記事は[DOKYU!](https://ja.wikipedia.org/wiki/DOKYU!)から翻訳されています。
+> この記事は[娘DOKYU!](https://ja.wikipedia.org/wiki/娘DOKYU!)から翻訳されています。
 
 
 『**娘DOKYU\!**』（むすめドキュ）は、[2005年](../Page/2005年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、[テレビ北海道](../Page/テレビ北海道.md "wikilink")）で[平日](../Page/平日.md "wikilink")[深夜](../Page/深夜.md "wikilink")24:53 - 25:00（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")メンバー出演の[テレビ番組](../Page/テレビ番組.md "wikilink")である。

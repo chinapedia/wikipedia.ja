@@ -1,4 +1,4 @@
-> この記事は[PSYCHO \(\)](https://ja.wikipedia.org/wiki/PSYCHO_\(\))から翻訳されています。
+> この記事は[PSYCHO \(プロレスラー\)](https://ja.wikipedia.org/wiki/PSYCHO_\(プロレスラー\))から翻訳されています。
 
 
 **PSYCHO**（サイコ、生年不明[1月5日](../Page/1月5日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレスラー](../Page/プロレスラー.md "wikilink")。

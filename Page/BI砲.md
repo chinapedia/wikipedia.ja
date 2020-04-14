@@ -1,4 +1,4 @@
-> この記事は[BI](https://ja.wikipedia.org/wiki/BI)から翻訳されています。
+> この記事は[BI砲](https://ja.wikipedia.org/wiki/BI砲)から翻訳されています。
 
 
 **BI砲**（BIほう）とは、[1960年代](../Page/1960年代.md "wikilink")後半から[1970年代](../Page/1970年代.md "wikilink")初頭にかけて[日本プロレス](../Page/日本プロレス.md "wikilink")で活動した、**[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")**と**[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")**による[プロレス](../Page/プロレス.md "wikilink")の[タッグチーム](../Page/タッグチーム.md "wikilink")である。

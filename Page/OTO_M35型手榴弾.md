@@ -1,4 +1,4 @@
-> この記事は[OTO M35](https://ja.wikipedia.org/wiki/OTO_M35)から翻訳されています。
+> この記事は[OTO M35型手榴弾](https://ja.wikipedia.org/wiki/OTO_M35型手榴弾)から翻訳されています。
 
 
 [OTO35_manuale.jpg](https://ja.wikipedia.org/wiki/File:OTO35_manuale.jpg "fig:OTO35_manuale.jpg")に記載されていた、OTO M35型手榴弾の画\]\] **OTO M35型手榴弾**（OTO M35がたしゅりゅうだん）は、[イタリア](../Page/イタリア.md "wikilink")の[オート・メラーラ](../Page/オート・メラーラ.md "wikilink")で開発された[手榴弾](../Page/手榴弾.md "wikilink")である。

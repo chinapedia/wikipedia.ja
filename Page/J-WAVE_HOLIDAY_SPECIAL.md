@@ -584,7 +584,7 @@
 <!-- end list -->
 
   -
-    [VieVie](https://ja.wikipedia.org/wiki/VieVie "wikilink")(Part1,[RENDEZ-VOUS](../Page/RENDEZ-VOUS.md "wikilink"))/クリス智子(Part2,[BOOM TOWN](../Page/BOOM_TOWN.md "wikilink"))/[野村友里](https://ja.wikipedia.org/wiki/野村友里 "wikilink")、[ペオ・エクベリ](https://ja.wikipedia.org/wiki/ペオ・エクベリ "wikilink")(Part3,[LOHAS SUNDAY](../Page/LOHAS_SUNDAY.md "wikilink"))
+    [VieVie](../Page/VieVie.md "wikilink")(Part1,[RENDEZ-VOUS](../Page/RENDEZ-VOUS.md "wikilink"))/クリス智子(Part2,[BOOM TOWN](../Page/BOOM_TOWN.md "wikilink"))/[野村友里](https://ja.wikipedia.org/wiki/野村友里 "wikilink")、[ペオ・エクベリ](https://ja.wikipedia.org/wiki/ペオ・エクベリ "wikilink")(Part3,[LOHAS SUNDAY](../Page/LOHAS_SUNDAY.md "wikilink"))
 
 <!-- end list -->
 
@@ -1390,7 +1390,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 <!-- end list -->
 
   -
-    [VieVie](https://ja.wikipedia.org/wiki/VieVie "wikilink")
+    [VieVie](../Page/VieVie.md "wikilink")
 
 <!-- end list -->
 
@@ -2909,6 +2909,189 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
   -
     板井麻衣子、ミズノマリ
 
+<!-- end list -->
+
+  - 10月10日 [H\&M](../Page/H&M.md "wikilink") presents EXCITING AUTUMN (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    平井理央
+
+<!-- end list -->
+
+  - 10月10日 [AMERICAN EXPRESS](../Page/アメリカン・エキスプレス.md "wikilink") 15YEARS OF [JAKE SHIMABUKURO](../Page/ジェイク・シマブクロ.md "wikilink") (18:00-19:55)
+
+<!-- end list -->
+
+  -
+    坂倉アコ
+
+<!-- end list -->
+
+  - 11月3日 MY BOOKSHELF (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    [本谷有希子](../Page/本谷有希子.md "wikilink")、大倉眞一郎
+
+<!-- end list -->
+
+  - 11月3日 [TOKYU HANDS](../Page/東急ハンズ.md "wikilink") CREATIVE LIFE & MUSIC (18:00-19:55)
+
+<!-- end list -->
+
+  -
+    [山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")、クリス智子
+
+<!-- end list -->
+
+  - 11月23日 [NITTOCHI](https://ja.wikipedia.org/wiki/日本土地建物 "wikilink") presents TIME TRIP TOKYO ～from EDO to 2020～ (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    渡辺祐、[佐藤栞里](../Page/佐藤栞里.md "wikilink")
+
+<!-- end list -->
+
+  - 12月31日 J-WAVE YEAR END & NEW YEAR SPECIAL TIME FOR MUSIC (22:00-翌3:00)
+
+<!-- end list -->
+
+  -
+    ハマ・オカモト
+
+</div>
+
+</div>
+
+### 2017年
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead">
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 1月1日 ZAPPA - HAPPY NEW YEAR 2017 (3:00-6:00)
+
+<!-- end list -->
+
+  -
+    [山中タイキ](https://ja.wikipedia.org/wiki/山中タイキ "wikilink")、[マッシュー](https://ja.wikipedia.org/wiki/マッシュー "wikilink")、[前田智子](https://ja.wikipedia.org/wiki/前田智子 "wikilink")
+
+<!-- end list -->
+
+  - 1月2日 J-WAVE NEW YEAR SPECIAL EYES FOR THE FUTURE (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    [津田大介](../Page/津田大介.md "wikilink")、[宮本絢子](../Page/宮本絢子.md "wikilink")
+
+<!-- end list -->
+
+  - 1月2日 THE KINGS PLACE LIVE SPECIAL (18:00-21:55)
+
+<!-- end list -->
+
+  -
+    androp、[夜の本気ダンス](https://ja.wikipedia.org/wiki/夜の本気ダンス "wikilink")、[パスピエ](https://ja.wikipedia.org/wiki/パスピエ_\(バンド\) "wikilink")、[キュウソネコカミ](https://ja.wikipedia.org/wiki/キュウソネコカミ "wikilink")、[Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")、[04 Limited Sazabys](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink")
+
+<!-- end list -->
+
+  - 1月9日 [TSUCHIYA](../Page/TSUCHIYA.md "wikilink") presents ALL THE BEST COMFORT (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    [小山薫堂](../Page/小山薫堂.md "wikilink")、[クリス智子](../Page/クリス智子.md "wikilink")
+
+<!-- end list -->
+
+  - 3月20日 [MIZUHO](../Page/みずほ銀行.md "wikilink") presents TOKYO NEW LIFE (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    [グローバー](../Page/グローバー_\(ミュージシャン\).md "wikilink")
+
+<!-- end list -->
+
+  - 3月20日 WORD STOMP (18:00-19:55)
+
+<!-- end list -->
+
+  -
+    [ACE](https://ja.wikipedia.org/wiki/ACE_\(ラッパー\) "wikilink")、[DOTAMA](https://ja.wikipedia.org/wiki/DOTAMA "wikilink")
+
+<!-- end list -->
+
+  - 3月20日 GET STARTED WITH FIVE SENSES (20:00-21:55)
+
+<!-- end list -->
+
+  -
+    [宮本絢子](../Page/宮本絢子.md "wikilink")
+
+<!-- end list -->
+
+  - 5月3日 J-WAVE GOLDEN WEEK SPECIAL [MITSUBISHI CORPORATION](../Page/三菱商事.md "wikilink") presents UNIVERSAL LOVE 2017 (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    グローバー
+
+<!-- end list -->
+
+  - 5月3日 LIVING WITH HAPPINESS (18:00-19:55)
+
+<!-- end list -->
+
+  -
+    [今宿麻美](../Page/今宿麻美.md "wikilink")、宮本絢子
+
+<!-- end list -->
+
+  - 5月4日 J-WAVE GOLDEN WEEK SPECIAL LIVE GREEN, LOVE GREEN (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    [藤田琢己](../Page/藤田琢己.md "wikilink")、[岡田マリア](../Page/岡田マリア.md "wikilink")
+
+<!-- end list -->
+
+  - 5月4日 “[STAR WARS](../Page/スター・ウォーズシリーズ.md "wikilink")” WE ALL LOVE (18:00-19:55)
+
+<!-- end list -->
+
+  -
+    [DJ TARO](../Page/DJ_TARO.md "wikilink")、[サッシャ](../Page/Sascha.md "wikilink")
+
+<!-- end list -->
+
+  - 5月5日 J-WAVE GOLDEN WEEK SPECIAL [RAIZIN](https://ja.wikipedia.org/wiki/大正製薬製品一覧#エナジードリンク "wikilink") presents TOKYO CREATIVE SWITCH (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    [佐藤オオキ](https://ja.wikipedia.org/wiki/佐藤オオキ "wikilink")、クリス智子
+
+<!-- end list -->
+
+  - 5月5日 JAPAN SMART DRIVER DRIVE IN THE GROOVE (18:00-19:55)
+
+<!-- end list -->
+
+  -
+    [小宮山雄飛](../Page/小宮山雄飛.md "wikilink")、[篠田麻里子](https://ja.wikipedia.org/wiki/篠田麻里子 "wikilink")
+
 </div>
 
 </div>
@@ -3460,6 +3643,61 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 </div>
 
+### 2016年
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead">
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+23日にHOLIDAY SPECIALとして深夜まで特別編成。
+
+  - 12月23日 JAPAN AIRLINES presents HOLLY JOLLY CHRISTMAS (9:00-17:55)
+
+<!-- end list -->
+
+  -
+    [別所哲也](../Page/別所哲也.md "wikilink")、[クリス智子](../Page/クリス智子.md "wikilink")
+
+<!-- end list -->
+
+  - 12月23日 J-WAVE × [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink") KEYAKIZAKA CHRISTMAS PARTY 2016（18:00-19:55）
+
+<!-- end list -->
+
+  -
+    クリス・ペプラー、宮澤エマ、[レイチェル・チャン](../Page/レイチェル・チャン.md "wikilink")、[小松靖](../Page/小松靖.md "wikilink")\[3\]
+    AbemaTVと同時生放送。
+
+<!-- end list -->
+
+  - 12月23日 LIMINE STYLE YOUR TIME（20:00-21:55）
+
+<!-- end list -->
+
+  -
+    岡田マリア
+
+<!-- end list -->
+
+  - 12月23日 LYRIC FOR SILENT NIGHT（22:00-23:30）
+
+<!-- end list -->
+
+  -
+    [ぼくのりりっくのぼうよみ](https://ja.wikipedia.org/wiki/ぼくのりりっくのぼうよみ "wikilink")、[鈴木あきえ](../Page/鈴木あきえ.md "wikilink")
+
+<!-- end list -->
+
+  - 12月25日 沢木耕太郎 〜MIDNIGHT EXPRESS 天涯へ 2016〜 (0:00-3:00)
+
+</div>
+
+</div>
+
 ## J-WAVE ANNIVERSARY SPECIAL
 
 **J-WAVE ANNIVERSARY SPECIAL**（ジェイウェーブ・アニバーサリー・スペシャル）は、J-WAVEが放送する開局記念番組。
@@ -3670,7 +3908,7 @@ J-WAVEの開局20周年を記念してこの年のHOLIDAY SPECIALには20th J-WA
 
 ## J-WAVE SPRING SPECIAL
 
-**J-WAVE SPRING SPECIAL** (ジェイウェーブ スプリング スペシャル)は、2016年3月に毎週日曜日の18時に1ヶ月間放送された特別番組\[3\]。
+**J-WAVE SPRING SPECIAL** (ジェイウェーブ スプリング スペシャル)は、2016年3月に毎週日曜日の18時に1ヶ月間放送された特別番組\[4\]。
 
 eighteen＝18歳をテーマに様々な内容の番組を放送する。
 
@@ -3721,4 +3959,5 @@ eighteen＝18歳をテーマに様々な内容の番組を放送する。
 
 1.
 2.
-3.
+3.  [テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー
+4.

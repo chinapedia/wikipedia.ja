@@ -1,4 +1,4 @@
-> この記事は[Pia!!](https://ja.wikipedia.org/wiki/Pia!!)から翻訳されています。
+> この記事は[Piaキャロットへようこそ!!](https://ja.wikipedia.org/wiki/Piaキャロットへようこそ!!)から翻訳されています。
 
 
 『**Pia♥キャロットへようこそ\!\!**』は、[1996年](../Page/1996年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[カクテル・ソフト](../Page/カクテル・ソフト.md "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")+[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")である。『[Pia♥キャロットへようこそ\!\!シリーズ](../Page/Piaキャロットへようこそ!!シリーズ.md "wikilink")』で本作品のみをさす場合は**Pia1**及び**Piaキャロ1**と略する場合もある。

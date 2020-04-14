@@ -1,4 +1,4 @@
-> この記事は[:Topographic N45E140 5deg.png](https://ja.wikipedia.org/wiki/:Topographic_N45E140_5deg.png)から翻訳されています。
+> この記事は[ファイル:Topographic N45E140 5deg.png](https://ja.wikipedia.org/wiki/ファイル:Topographic_N45E140_5deg.png)から翻訳されています。
 
 
 北緯45, 東経140

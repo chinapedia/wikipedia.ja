@@ -75,7 +75,7 @@
         2004年[8月26日](../Page/8月26日.md "wikilink")発売。一般ネットユーザーが応募した、「社歌」と「希望の丘陵」をベースとしたリミックス作品を収録したコンピレーションアルバム。
 2.  [フルスロットル 〜TO THE TOP〜](../Page/フルスロットル_\(応援歌\).md "wikilink")
       -
-        2006年[3月27日](../Page/3月27日.md "wikilink")発売。[MotoGP](https://ja.wikipedia.org/wiki/MotoGP "wikilink")ライダー[関口太郎選手応援CD](../Page/関口太郎_\(レーサー\).md "wikilink")。2ちゃんねる[バイク板](https://ja.wikipedia.org/wiki/バイク板 "wikilink")の関口選手応援スレ発祥の楽曲「フルスロットル」（作詞：[naos](https://ja.wikipedia.org/wiki/naos "wikilink") 作曲：1-456）がメイン。他の同スレ発祥楽曲（作曲：[若林友一](https://ja.wikipedia.org/wiki/若林友一 "wikilink")、naos）もmanzoプロデュースで収録。なお、売り上げの一部は関口太郎選手のスポンサー料となる。
+        2006年[3月27日](../Page/3月27日.md "wikilink")発売。[MotoGP](https://ja.wikipedia.org/wiki/MotoGP "wikilink")ライダー[関口太郎選手応援CD](../Page/関口太郎_\(レーサー\).md "wikilink")。2ちゃんねる[バイク板](https://ja.wikipedia.org/wiki/バイク板 "wikilink")の関口選手応援スレ発祥の楽曲「フルスロットル」（作詞：[naos](https://ja.wikipedia.org/wiki/naos "wikilink") 作曲：1-456）がメイン。他の同スレ発祥楽曲（作曲：[若林友一](../Page/若林友一.md "wikilink")、naos）もmanzoプロデュースで収録。なお、売り上げの一部は関口太郎選手のスポンサー料となる。
 3.  萬Z。Best
       -
         [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink")発売。萬Z名義・manzo名義の主要曲の新録、新曲、及びCD未収録曲を集めたベストアルバム。ジャケットイラストを手がけたのは漫画家の[榎本俊二](../Page/榎本俊二.md "wikilink")。[スターチャイルド](../Page/スターチャイルド.md "wikilink")より発売\[8\]。

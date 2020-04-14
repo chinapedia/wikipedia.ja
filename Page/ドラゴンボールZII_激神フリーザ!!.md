@@ -1,7 +1,7 @@
-> この記事は[ZII !!](https://ja.wikipedia.org/wiki/ZII_!!)から翻訳されています。
+> この記事は[ドラゴンボールZII 激神フリーザ!!](https://ja.wikipedia.org/wiki/ドラゴンボールZII_激神フリーザ!!)から翻訳されています。
 
 
-『**ドラゴンボールZII 激神フリーザ\!\!**』（ドラゴンボールゼットツー げきしんフリーザ）は、[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』（[1989年](../Page/1989年.md "wikilink") - [1996年](../Page/1996年.md "wikilink")）を題材としたファミコン作品第2弾。
+『**ドラゴンボールZII 激神フリーザ\!\!**』（ドラゴンボールゼットツー げきしんフリーザ）は、バンダイ (後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")) から発売された[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")用[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』（[1989年](../Page/1989年.md "wikilink") - [1996年](../Page/1996年.md "wikilink")）を題材としたファミコン作品第2弾。
 
 ## 概要
 

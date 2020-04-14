@@ -1,4 +1,4 @@
-> この記事は[E](https://ja.wikipedia.org/wiki/E)から翻訳されています。
+> この記事は[リチャード・E・グラント](https://ja.wikipedia.org/wiki/リチャード・E・グラント)から翻訳されています。
 
 
 **リチャード・E・グラント**（Richard E. Grant, 本名: Richard Grant Esterhuysen, [1957年](../Page/1957年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink") - ）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[俳優](../Page/俳優.md "wikilink")。

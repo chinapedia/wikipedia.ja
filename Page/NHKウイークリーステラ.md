@@ -1,4 +1,4 @@
-> この記事は[NHK](https://ja.wikipedia.org/wiki/NHK)から翻訳されています。
+> この記事は[NHKウイークリーステラ](https://ja.wikipedia.org/wiki/NHKウイークリーステラ)から翻訳されています。
 
 
 『**NHKウイークリーステラ**』（エヌエイチケイウイークリーステラ、STERA）とは[NHKの関連団体](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")・[NHKサービスセンター](../Page/NHKサービスセンター.md "wikilink")発行の週刊[テレビ情報誌](../Page/テレビ情報誌.md "wikilink")である。略称は『**ステラ**』、誌名の由来は**S**atellite（[衛星](../Page/衛星放送.md "wikilink")）、**Te**levision（[テレビ](../Page/テレビ.md "wikilink")）、**Ra**dio（[ラジオ](../Page/ラジオ.md "wikilink")）から\[1\]。

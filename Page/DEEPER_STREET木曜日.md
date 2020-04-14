@@ -1,4 +1,4 @@
-> この記事は[DEEPER STREET](https://ja.wikipedia.org/wiki/DEEPER_STREET)から翻訳されています。
+> この記事は[DEEPER STREET木曜日](https://ja.wikipedia.org/wiki/DEEPER_STREET木曜日)から翻訳されています。
 
 
 『**DEEPER STREET木曜日**』（ディーパーストリートもくようび）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[JFN](../Page/全国FM放送協議会.md "wikilink")31局でスタートした月曜から木曜の深夜枠の帯番組『[DEEPER STREET](../Page/DEEPER_STREET.md "wikilink")』の木曜日バージョン。[1999年](../Page/1999年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")で放送終了。

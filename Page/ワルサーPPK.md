@@ -1,4 +1,4 @@
-> この記事は[PPK](https://ja.wikipedia.org/wiki/PPK)から翻訳されています。
+> この記事は[ワルサーPPK](https://ja.wikipedia.org/wiki/ワルサーPPK)から翻訳されています。
 
 
 **ワルサーPPK**（Walther PPK）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[カール・ワルサー社が開発した](../Page/ワルサー.md "wikilink")[小型セミオートマチック拳銃で](https://ja.wikipedia.org/wiki/拳銃#自動式拳銃 "wikilink")、[警察](../Page/警察.md "wikilink")用[拳銃](../Page/拳銃.md "wikilink")として開発された[ワルサーPP](../Page/ワルサーPP.md "wikilink")（Polizei Pistole）を私服刑事向けに小型化したものである。

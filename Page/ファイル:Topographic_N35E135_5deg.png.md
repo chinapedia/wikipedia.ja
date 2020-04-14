@@ -1,4 +1,4 @@
-> この記事は[:Topographic N35E135 5deg.png](https://ja.wikipedia.org/wiki/:Topographic_N35E135_5deg.png)から翻訳されています。
+> この記事は[ファイル:Topographic N35E135 5deg.png](https://ja.wikipedia.org/wiki/ファイル:Topographic_N35E135_5deg.png)から翻訳されています。
 
 
 北緯35, 東経135

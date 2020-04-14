@@ -1,4 +1,4 @@
-> この記事は[PUSH!](https://ja.wikipedia.org/wiki/PUSH!)から翻訳されています。
+> この記事は[アタヤンPUSH!](https://ja.wikipedia.org/wiki/アタヤンPUSH!)から翻訳されています。
 
 
 **アタヤンPUSH\!**（アタヤンプッシュ\!）は、[STVラジオ](https://ja.wikipedia.org/wiki/STVラジオ "wikilink")（旧:札幌テレビ放送ラジオ局）が放送をしていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")放送開始、[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送終了。

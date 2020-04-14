@@ -1,11 +1,11 @@
 > この記事は[DJ POCKY](https://ja.wikipedia.org/wiki/DJ_POCKY)から翻訳されています。
 
 
-**DJ POCKY** とは、宮崎、[鹿児島](../Page/鹿児島県.md "wikilink")、[福岡](../Page/福岡県.md "wikilink"),　東京、ハワイでラジオ、テレビをメインにCMナレーター、講演会など幅広く活躍中のフリーパーソナリティ。
+**DJ POCKY**（本名：**坂元 誠一**（さかもと　せいいち）、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink") - ）とは、宮崎、[鹿児島県](../Page/鹿児島県.md "wikilink")、[福岡県](../Page/福岡県.md "wikilink")、東京、ハワイでラジオ、テレビをメインにCMナレーター、講演会など幅広く活躍中のフリーパーソナリティ。
 
-## [プロフィール](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")
+## プロフィール
 
-1961年生まれ。本名は坂元誠一（さかもと　せいいち）。[宮崎県](../Page/宮崎県.md "wikilink")[日南市](../Page/日南市.md "wikilink")[飫肥](https://ja.wikipedia.org/wiki/飫肥 "wikilink")に生まれる。飫肥小、飫肥中学校、[宮崎県立日南高等学校](../Page/宮崎県立日南高等学校.md "wikilink")卒業後、アメリカ・ノースカロライナ州メソジスト大学に留学。アメリカ在住時に聴いたラジオ番組をきっかけにDJを志すようになる。1985年帰国、英語塾講師を経て[エフエム宮崎](../Page/エフエム宮崎.md "wikilink")のDJとして『サザンウインド』でデビュー。看板大人気番組『トワイライトステーション』のメインパーソナリティを10年以上務め、『ポッキーのスーパーレディオクラブ』など数々の名番組を生み出した。
+[宮崎県](../Page/宮崎県.md "wikilink")[日南市](../Page/日南市.md "wikilink")[飫肥](https://ja.wikipedia.org/wiki/飫肥 "wikilink")に生まれる。飫肥小、飫肥中学校、[宮崎県立日南高等学校](../Page/宮崎県立日南高等学校.md "wikilink")卒業後、アメリカ・ノースカロライナ州メソジスト大学に留学。アメリカ在住時に聴いたラジオ番組をきっかけにDJを志すようになる。1985年帰国、英語塾講師を経て[エフエム宮崎](../Page/エフエム宮崎.md "wikilink")のDJとして『サザンウインド』でデビュー。看板大人気番組『トワイライトステーション』のメインパーソナリティを10年以上務め、『ポッキーのスーパーレディオクラブ』など数々の名番組を生み出した。
 
 1990年にアナウンサーとして[エフエム宮崎](../Page/エフエム宮崎.md "wikilink")に入社し、幅広く活動するが、1997年に退社し、個人事務所有限会社ジャム・クリエーションを設立。その後、テレビラジオフリーパーソナリティとして活動開始。
 
@@ -169,4 +169,4 @@
   - マネージメント お問い合わせ：[PUNCH-LINE](https://www.punch-line.asia/)
   - TEL 092-724-6669
 
-[Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:エフエム宮崎のアナウンサー](https://ja.wikipedia.org/wiki/Category:エフエム宮崎のアナウンサー "wikilink") [Category:宮崎県立日南高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県立日南高等学校出身の人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:エフエム宮崎のアナウンサー](https://ja.wikipedia.org/wiki/Category:エフエム宮崎のアナウンサー "wikilink") [Category:宮崎県立日南高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県立日南高等学校出身の人物 "wikilink") [Category:宮崎県出身の人物](https://ja.wikipedia.org/wiki/Category:宮崎県出身の人物 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

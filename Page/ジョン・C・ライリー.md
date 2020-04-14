@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ジョン・C・ライリー](https://ja.wikipedia.org/wiki/ジョン・C・ライリー)から翻訳されています。
 
 
 **ジョン・クリストファー・ライリー**（John Christopher Reilly, [1965年](../Page/1965年.md "wikilink")[5月24日](../Page/5月24日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")[シカゴ](../Page/シカゴ.md "wikilink")出身の[俳優](../Page/俳優.md "wikilink")である。

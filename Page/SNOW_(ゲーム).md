@@ -1,4 +1,4 @@
-> この記事は[SNOW \(\)](https://ja.wikipedia.org/wiki/SNOW_\(\))から翻訳されています。
+> この記事は[SNOW \(ゲーム\)](https://ja.wikipedia.org/wiki/SNOW_\(ゲーム\))から翻訳されています。
 
 
 『**SNOW**』（スノー）は、[2003年](../Page/2003年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")、当時[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")傘下にあった[スタジオメビウス](../Page/スタジオメビウス.md "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[MADARA](https://ja.wikipedia.org/wiki/MADARA)から翻訳されています。
+> この記事は[魍魎戦記MADARAシリーズ](https://ja.wikipedia.org/wiki/魍魎戦記MADARAシリーズ)から翻訳されています。
 
 
 『**魍魎戦記MADARAシリーズ**』（もうりょうせんきマダラシリーズ）は、『[魍魎戦記MADARA](../Page/魍魎戦記MADARA.md "wikilink")』（原作・[大塚英志](../Page/大塚英志.md "wikilink")、画・[田島昭宇](../Page/田島昭宇.md "wikilink")）に端を発する一連の作品群である。漫画、小説、コンピュータRPG、OVA、ラジオドラマ（CDドラマ）に展開する[メディアミックス](../Page/メディアミックス.md "wikilink")作品群。

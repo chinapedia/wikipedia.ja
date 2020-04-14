@@ -1,4 +1,4 @@
-> この記事は[ \(CV-3\)](https://ja.wikipedia.org/wiki/_\(CV-3\))から翻訳されています。
+> この記事は[サラトガ \(CV-3\)](https://ja.wikipedia.org/wiki/サラトガ_\(CV-3\))から翻訳されています。
 
 
 **サラトガ**（**USS Saratoga, CV-3**）は、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")の[航空母艦](../Page/航空母艦.md "wikilink")。[レキシントン級航空母艦](../Page/レキシントン級航空母艦.md "wikilink")の2番艦。[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")において[サラトガの名を受け継いだ艦としては](../Page/サラトガ_\(ニューヨーク州\).md "wikilink")5隻目にあたる。 「サラ」、「シスター・サラ」、「縦縞煙突のサラ（Stripe-Stack Sara）」、「サラ丸（Sara Maru）」などの愛称で呼ばれていた\[1\]。

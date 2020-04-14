@@ -1,4 +1,4 @@
-> この記事は[SY-1 \(\)](https://ja.wikipedia.org/wiki/SY-1_\(\))から翻訳されています。
+> この記事は[SY-1 \(ミサイル\)](https://ja.wikipedia.org/wiki/SY-1_\(ミサイル\))から翻訳されています。
 
 
 **SY-1**（, ）は、[中国で開発された](../Page/中華人民共和国.md "wikilink")[対艦ミサイル](../Page/対艦ミサイル.md "wikilink")。[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")製の[P-15 テルミート](../Page/P-15_\(ミサイル\).md "wikilink")（SS-N-2 スティックス）の[ライセンス生産](../Page/ライセンス生産.md "wikilink")版であり、[西側諸国](../Page/西側諸国.md "wikilink")においては、[アメリカ国防総省](../Page/アメリカ国防総省.md "wikilink")（DoD）識別番号としては**CSS-N-1**、[NATOコードネームとしては](https://ja.wikipedia.org/wiki/NATOコードネームの一覧_\(ミサイル\) "wikilink")「**スクラブブラッシュ**」（）と呼ばれた\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[ \(CV-8\)](https://ja.wikipedia.org/wiki/_\(CV-8\))から翻訳されています。
+> この記事は[ホーネット \(CV-8\)](https://ja.wikipedia.org/wiki/ホーネット_\(CV-8\))から翻訳されています。
 
 
 |                                                                                                          |

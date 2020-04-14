@@ -1,4 +1,4 @@
-> この記事は[PID](https://ja.wikipedia.org/wiki/PID)から翻訳されています。
+> この記事は[PID制御](https://ja.wikipedia.org/wiki/PID制御)から翻訳されています。
 
 
 [PID_en.svg](https://ja.wikipedia.org/wiki/File:PID_en.svg "fig:PID_en.svg") [PID_Compensation_Animated.gif](https://ja.wikipedia.org/wiki/File:PID_Compensation_Animated.gif "fig:PID_Compensation_Animated.gif") **PID制御**（ピーアイディーせいぎょ、Proportional-Integral-Differential Controller、PID Controller）は、[制御工学](../Page/制御工学.md "wikilink")における[フィードバック](../Page/フィードバック.md "wikilink")制御の一種であり、入力値の制御を出力値と目標値との偏差、その[積分](https://ja.wikipedia.org/wiki/積分 "wikilink")、および[微分](../Page/微分.md "wikilink")の3つの要素によって行う方法のことである。[制御理論](../Page/制御理論.md "wikilink")の一分野をなす[古典制御論](../Page/古典制御論.md "wikilink")の枠組みで体系化されたもので長い歴史を持っている。フィードバック制御の基礎ともなっており、様々な制御手法が開発・提案され続けている今に至っても、過去の実績や技術者の経験則の蓄積により調整を行いやすいため、産業界では主力の制御手法であると言われている。

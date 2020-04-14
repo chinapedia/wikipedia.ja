@@ -1,4 +1,4 @@
-> この記事は[:Topographic N30E125 5deg.png](https://ja.wikipedia.org/wiki/:Topographic_N30E125_5deg.png)から翻訳されています。
+> この記事は[ファイル:Topographic N30E125 5deg.png](https://ja.wikipedia.org/wiki/ファイル:Topographic_N30E125_5deg.png)から翻訳されています。
 
 
 北緯30, 東経125

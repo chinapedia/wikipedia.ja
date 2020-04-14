@@ -1,4 +1,4 @@
-> この記事は[Basic](https://ja.wikipedia.org/wiki/Basic)から翻訳されています。
+> この記事は[Basic認証](https://ja.wikipedia.org/wiki/Basic認証)から翻訳されています。
 
 
 **Basic認証**（ベーシックにんしょう、）とは、[HTTPで定義される](../Page/Hypertext_Transfer_Protocol.md "wikilink")[認証](../Page/認証.md "wikilink")方式の一つ。**基本認証**と呼ばれることも。

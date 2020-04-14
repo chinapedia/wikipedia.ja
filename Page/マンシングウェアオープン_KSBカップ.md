@@ -1,4 +1,4 @@
-> この記事は[ KSB](https://ja.wikipedia.org/wiki/_KSB)から翻訳されています。
+> この記事は[マンシングウェアオープン KSBカップ](https://ja.wikipedia.org/wiki/マンシングウェアオープン_KSBカップ)から翻訳されています。
 
 
 **マンシングウェアオープン KSBカップ**は、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで行われていた[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。

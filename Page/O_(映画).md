@@ -1,4 +1,4 @@
-> この記事は[O \(\)](https://ja.wikipedia.org/wiki/O_\(\))から翻訳されています。
+> この記事は[O \(映画\)](https://ja.wikipedia.org/wiki/O_\(映画\))から翻訳されています。
 
 
 『**O**』（オー）は、[2001年](../Page/2001年.md "wikilink")製作の[アメリカ映画](https://ja.wikipedia.org/wiki/アメリカ映画 "wikilink")である。[ティム・ブレイク・ネルソン](../Page/ティム・ブレイク・ネルソン.md "wikilink")監督。[シェイクスピアの](../Page/ウィリアム・シェイクスピア.md "wikilink")「[オセロ](../Page/オセロ_\(シェイクスピア\).md "wikilink")」を、現代アメリカのハイスクールに舞台を移して描く。設定は変更されているものの、展開は細部まで忠実に再現されている。

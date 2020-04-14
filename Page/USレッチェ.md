@@ -1,4 +1,4 @@
-> この記事は[US](https://ja.wikipedia.org/wiki/US)から翻訳されています。
+> この記事は[USレッチェ](https://ja.wikipedia.org/wiki/USレッチェ)から翻訳されています。
 
 
 **USレッチェ**（**Unione Sportiva Lecce**）は、[イタリア](../Page/イタリア.md "wikilink")・[レッチェ](../Page/レッチェ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2019-20シーズンは、[セリエAに所属している](../Page/セリエA_\(サッカー\).md "wikilink")。

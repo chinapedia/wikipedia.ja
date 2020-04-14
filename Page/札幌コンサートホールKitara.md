@@ -1,4 +1,4 @@
-> この記事は[Kitara](https://ja.wikipedia.org/wiki/Kitara)から翻訳されています。
+> この記事は[札幌コンサートホールKitara](https://ja.wikipedia.org/wiki/札幌コンサートホールKitara)から翻訳されています。
 
 
 **札幌コンサートホール Kitara**（さっぽろコンサートホール きたら）は、[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[中央区にある](../Page/中央区_\(札幌市\).md "wikilink")[コンサートホール](../Page/コンサートホール.md "wikilink")。「[優良ホール100選](../Page/優良ホール100選.md "wikilink")」選定。愛称の「Kitara」には、[ギリシャ神話](https://ja.wikipedia.org/wiki/ギリシャ神話 "wikilink")の芸術の神・[アポローン](../Page/アポローン.md "wikilink")の楽器「[キタラー](../Page/キタラー.md "wikilink")」と方位の「北」の意味が込められている。 その音響は世界的と評価されており、その一例として1998年に[バーミンガム市交響楽団](../Page/バーミンガム市交響楽団.md "wikilink")を伴って演奏に訪れた指揮者[サイモン・ラトル](../Page/サイモン・ラトル.md "wikilink")は「近代的なコンサートホールとしては世界一」と評した\[1\]。

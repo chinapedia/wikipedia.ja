@@ -1,4 +1,4 @@
-> この記事は[D ](https://ja.wikipedia.org/wiki/D_)から翻訳されています。
+> この記事は[Dのゲキジョー 〜運命のジャッジ〜](https://ja.wikipedia.org/wiki/Dのゲキジョー_〜運命のジャッジ〜)から翻訳されています。
 
 
 『**Dのゲキジョー 〜運命のジャッジ〜**』（ディーのゲキジョー うんめいのジャッジ）は、[2005年](../Page/2005年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月21日](../Page/9月21日.md "wikilink")まで[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列で毎週](../Page/フジネットワーク.md "wikilink")[金曜日](../Page/金曜日.md "wikilink")の19:00 - 19:57（[JST](../Page/日本標準時.md "wikilink")、一部地域除く）に放送されていた、[ドキュメンタリー番組](https://ja.wikipedia.org/wiki/ドキュメンタリー番組 "wikilink")を兼ねた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

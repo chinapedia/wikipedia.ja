@@ -1,4 +1,4 @@
-> この記事は[BSD](https://ja.wikipedia.org/wiki/BSD)から翻訳されています。
+> この記事は[BSDデーモン](https://ja.wikipedia.org/wiki/BSDデーモン)から翻訳されています。
 
 
 **BSDデーモン**（）は、[BSD](../Page/BSD.md "wikilink")[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")の[マスコット](../Page/マスコット.md "wikilink")である。BSD関連書籍やBSDの関連[サイト](../Page/ウェブサイト.md "wikilink")、BSDの[スクリーンセーバー](../Page/スクリーンセーバー.md "wikilink")などで見受けられる。公式な名前は無く、愛称は**BSDデーモン君**、**デーモン君**、**ビースティ君**（）。

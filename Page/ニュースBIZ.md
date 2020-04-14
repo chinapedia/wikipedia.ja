@@ -1,4 +1,4 @@
-> この記事は[BIZ](https://ja.wikipedia.org/wiki/BIZ)から翻訳されています。
+> この記事は[ニュースBIZ](https://ja.wikipedia.org/wiki/ニュースBIZ)から翻訳されています。
 
 
 『**KANSAI BUSINESS NEWS ニュースBIZ**』（カンサイビジネスニュース ニュースビズ）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ大阪](../Page/テレビ大阪.md "wikilink")で放送されていたローカル経済ニュース番組。

@@ -1,4 +1,4 @@
-> この記事は[NEO](https://ja.wikipedia.org/wiki/NEO)から翻訳されています。
+> この記事は[サラリーマンNEO](https://ja.wikipedia.org/wiki/サラリーマンNEO)から翻訳されています。
 
 
 『**サラリーマンNEO**』（サラリーマン・ネオ、\[1\]、サブタイトル:*for the new age of office workers*）は、[NHK総合で放送されていた](../Page/NHK総合テレビジョン.md "wikilink")[コント](../Page/コント.md "wikilink")や[ショートドラマ中心の](../Page/ドラマ.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。2006年のseason1まで、正式名称は『**謎のホームページ サラリーマンNEO**』（なぞのホームページ サラリーマンネオ）だった。

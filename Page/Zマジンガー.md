@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[Zマジンガー](https://ja.wikipedia.org/wiki/Zマジンガー)から翻訳されています。
 
 
 『**Zマジンガー**』（ゼットマジンガー）は、[永井豪](../Page/永井豪.md "wikilink")作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、およびその作中で主人公が乗り込む巨大[ロボット](../Page/ロボット.md "wikilink")の名称。1998年から[講談社](../Page/講談社.md "wikilink")『[マガジンスペシャル](https://ja.wikipedia.org/wiki/マガジンスペシャル "wikilink")』誌上にて連載。単行本は全5巻。

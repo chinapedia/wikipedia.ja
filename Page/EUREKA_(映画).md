@@ -1,4 +1,4 @@
-> この記事は[EUREKA \(\)](https://ja.wikipedia.org/wiki/EUREKA_\(\))から翻訳されています。
+> この記事は[EUREKA \(映画\)](https://ja.wikipedia.org/wiki/EUREKA_\(映画\))から翻訳されています。
 
 
 『**EUREKA**』（ユリイカ）は、[青山真治](../Page/青山真治.md "wikilink")監督による[2001年](../Page/2001年.md "wikilink")公開の[日本映画](../Page/日本映画.md "wikilink")。『[Helpless](https://ja.wikipedia.org/wiki/Helpless "wikilink")』から本作へ、そして『[サッド ヴァケイション](../Page/サッド_ヴァケイション.md "wikilink")』へ続く「北九州サーガ」の第2作である。[ユリイカ](https://ja.wikipedia.org/wiki/ユリイカ "wikilink") (EUREKA) は、ギリシャ語で「発見」の意。[キャッチフレーズは](../Page/キャッチコピー.md "wikilink")「癒しと再生の一大叙事詩」。

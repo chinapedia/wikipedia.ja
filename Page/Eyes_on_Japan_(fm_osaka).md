@@ -9,7 +9,7 @@
 
 基本的に前番組とほぼ同じ構成であった。
 
-[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JFNの](https://ja.wikipedia.org/wiki/JAPAN_FM_NETWORK "wikilink")[Eyes on Japanが](../Page/Eyes_on_Japan.md "wikilink")2006年9月で終了するに伴い、Eyes on Japan 大阪エディションも終了となった。
+[TOKYO FM](../Page/エフエム東京.md "wikilink")、[JFNの](../Page/全国FM放送協議会.md "wikilink")[Eyes on Japanが](../Page/Eyes_on_Japan.md "wikilink")2006年9月で終了するに伴い、Eyes on Japan 大阪エディションも終了となった。
 
 ## 出演
 

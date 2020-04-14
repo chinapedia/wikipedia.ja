@@ -1,4 +1,4 @@
-> この記事は[Kiss You \(\)](https://ja.wikipedia.org/wiki/Kiss_You_\(\))から翻訳されています。
+> この記事は[Kiss You \(世界は宇宙と恋におちる\)](https://ja.wikipedia.org/wiki/Kiss_You_\(世界は宇宙と恋におちる\))から翻訳されています。
 
 
 「**Kiss You（世界は宇宙と恋におちる）**」（キス・ユー - せかいはうちゅうとこいにおちる）は、[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")11枚目のシングル。

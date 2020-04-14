@@ -1,4 +1,4 @@
-> この記事は[DVD](https://ja.wikipedia.org/wiki/DVD)から翻訳されています。
+> この記事は[テックウィンDVD](https://ja.wikipedia.org/wiki/テックウィンDVD)から翻訳されています。
 
 
 『**テックウィンDVD**』（*TECH Win DVD*）は、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")が刊行していた[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")付き[パソコン雑誌](../Page/パソコン雑誌.md "wikilink")。毎号、付録DVD-ROM（創刊時は[CD-ROM](../Page/CD-ROM.md "wikilink")）に多数の[フリーウェア](../Page/フリーウェア.md "wikilink")や[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の体験版、オリジナルの[ドラマ](../Page/ドラマ.md "wikilink")や[声優](../Page/声優.md "wikilink")インタビューなどの[コンテンツ](../Page/コンテンツ.md "wikilink")を収録している。

@@ -1,4 +1,4 @@
-> この記事は[PLUS-DISC](https://ja.wikipedia.org/wiki/PLUS-DISC)から翻訳されています。
+> この記事は[月姫PLUS-DISC](https://ja.wikipedia.org/wiki/月姫PLUS-DISC)から翻訳されています。
 
 
 『**月姫PLUS-DISC**』（**つきひめプラスディスク**）とは、[2001年](../Page/2001年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")に[同人サークル](../Page/同人サークル.md "wikilink")（当時）[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")によって製作された、『[月姫](../Page/月姫_\(ゲーム\).md "wikilink")』の追加特典ディスクである。

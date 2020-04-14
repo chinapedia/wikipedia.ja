@@ -1,4 +1,4 @@
-> この記事は[SP](https://ja.wikipedia.org/wiki/SP)から翻訳されています。
+> この記事は[SPコード](https://ja.wikipedia.org/wiki/SPコード)から翻訳されています。
 
 
 **SPコード**（エスピーコード）とは、[文字](../Page/文字.md "wikilink")情報を内包した[二次元コード](../Page/二次元コード.md "wikilink")の一種で、対応の読取装置で読み取ると、[音声](https://ja.wikipedia.org/wiki/音声 "wikilink")で文字情報を聴くことができるコードである\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[UXXIII](https://ja.wikipedia.org/wiki/UXXIII)から翻訳されています。
+> この記事は[UボートXXIII型](https://ja.wikipedia.org/wiki/UボートXXIII型)から翻訳されています。
 
 
 **XXIII型Uボート** (U-Boot-Klasse XXIII) は[ドイツ海軍](../Page/ドイツ海軍.md "wikilink")の沿岸用[潜水艦](../Page/潜水艦.md "wikilink")。

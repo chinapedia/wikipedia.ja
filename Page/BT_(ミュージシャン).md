@@ -1,4 +1,4 @@
-> この記事は[BT \(\)](https://ja.wikipedia.org/wiki/BT_\(\))から翻訳されています。
+> この記事は[BT \(ミュージシャン\)](https://ja.wikipedia.org/wiki/BT_\(ミュージシャン\))から翻訳されています。
 
 
 **ブライアン・トランソー**（**Brian Wayne Transeau**, [1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink") - ）通称「**BT**」は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[メリーランド州](../Page/メリーランド州.md "wikilink")[ロックヴィル](https://ja.wikipedia.org/wiki/ロックヴィル "wikilink")出身の音楽アーティスト。ジャンルは[エレクトロニカ](../Page/エレクトロニカ.md "wikilink")に分類されるのが普通だが、[トランス](../Page/トランス_\(音楽\).md "wikilink")、[ブレイクビーツ](../Page/ブレイクビーツ.md "wikilink")、[クラシック](../Page/クラシック音楽.md "wikilink")、[ポップス](../Page/ポップ・ミュージック.md "wikilink")、[ロック](../Page/ロック_\(音楽\).md "wikilink")、[アンビエント](https://ja.wikipedia.org/wiki/アンビエント "wikilink")、[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[ジャズ](../Page/ジャズ.md "wikilink")、[ニュー・ウェイヴといった様々なジャンルを融合した音楽をプロデュースする](../Page/ニュー・ウェイヴ_\(音楽\).md "wikilink")。90年代にはKaistar、Libra、Dharma、Prana、Elastic Reality、Elastic Chakra、GTB、2 Phat Cunts（[DJサシャ](https://ja.wikipedia.org/wiki/DJサシャ "wikilink")と）などの名義でもレコードをリリースしている。近年は映画音楽なども手がけるようになった。

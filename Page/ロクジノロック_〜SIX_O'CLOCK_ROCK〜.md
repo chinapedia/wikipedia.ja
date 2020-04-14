@@ -1,4 +1,4 @@
-> この記事は[ SIX O\'CLOCK ROCK](https://ja.wikipedia.org/wiki/_SIX_O\'CLOCK_ROCK)から翻訳されています。
+> この記事は[ロクジノロック 〜SIX O\'CLOCK ROCK〜](https://ja.wikipedia.org/wiki/ロクジノロック_〜SIX_O\'CLOCK_ROCK〜)から翻訳されています。
 
 
 **ロック教養目覚まし番組 ロクジノロック〜SIX O'CLOCK**（ -きょうよう めざ- ばんぐみ- シックス オクロック）は、[静岡エフエム放送](../Page/静岡エフエム放送.md "wikilink")（K-mix）が毎週日曜日6時00分 - 7時00分に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")（[音楽番組](../Page/音楽番組.md "wikilink")）である。

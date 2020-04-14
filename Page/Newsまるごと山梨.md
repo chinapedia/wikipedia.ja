@@ -1,4 +1,4 @@
-> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+> この記事は[Newsまるごと山梨](https://ja.wikipedia.org/wiki/Newsまるごと山梨)から翻訳されています。
 
 
 『**Newsまるごと山梨**』（ニュースまるごとやまなし）は、[NHK甲府放送局](../Page/NHK甲府放送局.md "wikilink")（[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")）で毎週月曜日 - 金曜日に放送されていた[山梨県](../Page/山梨県.md "wikilink")域の夕方枠ローカル[ニュース番組である](../Page/報道番組.md "wikilink")。前番組『[ニュースフレッシュ山梨](https://ja.wikipedia.org/wiki/ニュースフレッシュ山梨 "wikilink")』に替わって[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")に放送を開始した。オープニングの音楽は一時期[ネットワークニュース北海道](https://ja.wikipedia.org/wiki/ネットワークニュース北海道 "wikilink")の初期の音楽を使用していた。なお、[ワンセグ](../Page/ワンセグ.md "wikilink")では当分の間放送されておらず、『[首都圏ネットワーク](../Page/首都圏ネットワーク.md "wikilink")』に差し替えられていた。[2017年](../Page/2017年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")放送終了。
@@ -15,6 +15,9 @@
   - 2012年1月 - 3月 [泉浩司](../Page/泉浩司.md "wikilink")、小林巳記
   - 2012年度 - 2014年度 泉浩司、[小倉実華](https://ja.wikipedia.org/wiki/小倉実華 "wikilink")（不在時には[丹野なな子](https://ja.wikipedia.org/wiki/丹野なな子 "wikilink")）
   - 2015年度 - 2016年6月29日 [斉藤孝信](../Page/斉藤孝信.md "wikilink")、[早川美奈](https://ja.wikipedia.org/wiki/早川美奈 "wikilink")
+
+　この2人は週刊誌の報道で不倫が発覚したため番組を降板した。
+
   - 2016年6月30日 - 2017年3月31日 [岩野吉樹](https://ja.wikipedia.org/wiki/岩野吉樹 "wikilink")、[濱本梨沙](https://ja.wikipedia.org/wiki/濱本梨沙 "wikilink")
 
 ### 代理キャスター

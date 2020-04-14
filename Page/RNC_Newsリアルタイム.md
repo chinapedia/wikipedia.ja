@@ -1,4 +1,4 @@
-> この記事は[RNC News](https://ja.wikipedia.org/wiki/RNC_News)から翻訳されています。
+> この記事は[RNC Newsリアルタイム](https://ja.wikipedia.org/wiki/RNC_Newsリアルタイム)から翻訳されています。
 
 
 『**RNC Newsリアルタイム**』（アールエヌシー ニュースリアルタイム）は、2006年4月から2010年3月まで放送されていた、[西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")（RNC）製作の夕方ローカル[ニュース番組](../Page/報道番組.md "wikilink")。[放送対象地域である](https://ja.wikipedia.org/wiki/放送#放送対象地域 "wikilink")[香川県](../Page/香川県.md "wikilink")・[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")関係の[ニュース](../Page/ニュース.md "wikilink")をメインに据えつつも、[料理](../Page/料理.md "wikilink")コーナーなどを設け、[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")の側面も持たせたニュース番組である。放送時間は月曜日 - 木曜日 16:53 - 19:00、金曜日 17:00 - 19:00 （[JST](../Page/日本標準時.md "wikilink")）。番組中の表記やオープニングでは「RNC NEWSリアルタイム」となる。

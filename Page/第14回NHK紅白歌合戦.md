@@ -1,4 +1,4 @@
-> この記事は[14NHK](https://ja.wikipedia.org/wiki/14NHK)から翻訳されています。
+> この記事は[第14回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第14回NHK紅白歌合戦)から翻訳されています。
 
 
 『**第14回NHK紅白歌合戦**』（だいじゅうよんかいエヌエイチケイこうはくうたがっせん）は、[1963年](../Page/1963年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")38年）[12月31日](../Page/12月31日.md "wikilink")([JST](../Page/日本標準時.md "wikilink"))に[東京宝塚劇場](../Page/東京宝塚劇場.md "wikilink")で行われた14回目の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")。21時05分から23時45分（JST）に[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")・[ラジオ第1放送で](../Page/NHKラジオ第1放送.md "wikilink")[生放送](../Page/生放送.md "wikilink")された。

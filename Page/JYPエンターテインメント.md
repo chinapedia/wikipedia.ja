@@ -1,4 +1,4 @@
-> この記事は[JYP](https://ja.wikipedia.org/wiki/JYP)から翻訳されています。
+> この記事は[JYPエンターテインメント](https://ja.wikipedia.org/wiki/JYPエンターテインメント)から翻訳されています。
 
 
 **株式会社JYPエンターテインメント** (JYP Entertainment Corporation) は、[大韓民国](../Page/大韓民国.md "wikilink")[ソウル市に本社を置く総合エンターテインメント会社](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。
@@ -12,10 +12,10 @@
 ### 歌手
 
   - [パク・ジニョン](https://ja.wikipedia.org/wiki/パク・ジニョン "wikilink")（1992年 - ）
-  - [ユビン](https://ja.wikipedia.org/wiki/ユビン "wikilink")（2007年 - ）※元Wonder Girls
-  - へリム（2007年 - ）※元Wonder Girls
+  - [ユビン](https://ja.wikipedia.org/wiki/ユビン "wikilink")（2007年 - 2020年）※元Wonder Girls
   - [2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")（2008年 - ）
   - [ワン・フェイフェイ](https://ja.wikipedia.org/wiki/ワン・フェイフェイ "wikilink")（2010年 - ）※元miss A
+  - JJPROJECT(2012年-)
   - [GOT7](https://ja.wikipedia.org/wiki/GOT7 "wikilink")（2014年 - ）
   - ナクジュン（2014年 - ）
   - [DAY6](https://ja.wikipedia.org/wiki/DAY6 "wikilink")（2015年 - ）
@@ -63,6 +63,7 @@
       - イェウン
       - [ソンミ](https://ja.wikipedia.org/wiki/ソンミ_\(歌手\) "wikilink")
       - アン・ソヒ
+      - へリム
   - [ジュ](https://ja.wikipedia.org/wiki/ジュ "wikilink")
   - San E
   - [パク・ジェボム](https://ja.wikipedia.org/wiki/パク・ジェボム "wikilink")　※元[2PM](https://ja.wikipedia.org/wiki/2PM "wikilink")
@@ -117,5 +118,8 @@
 ## 外部リンク
 
   - [公式サイト](https://www.jype.com/)
+  - [韓国公式Twitter](https://twitter.com/jypnation)
+  - [日本公式Twitter](https://twitter.com/JYPE_JAPAN)
+  - [Facebook](https://www.facebook.com/jypnation)
 
 [Category:韓国の芸能事務所](https://ja.wikipedia.org/wiki/Category:韓国の芸能事務所 "wikilink") [Category:KOSDAQ上場企業](https://ja.wikipedia.org/wiki/Category:KOSDAQ上場企業 "wikilink") [Category:ソウル特別市の企業](https://ja.wikipedia.org/wiki/Category:ソウル特別市の企業 "wikilink")

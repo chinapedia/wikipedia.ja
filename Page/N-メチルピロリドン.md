@@ -1,4 +1,4 @@
-> この記事は[N-](https://ja.wikipedia.org/wiki/N-)から翻訳されています。
+> この記事は[N-メチルピロリドン](https://ja.wikipedia.org/wiki/N-メチルピロリドン)から翻訳されています。
 
 
 ***N*-メチル-2-ピロリドン** (*N*-methylpyrrolidone、**NMP**) は[ラクタム](../Page/ラクタム.md "wikilink")構造を含む 5員環の構造を持つ[有機化合物](../Page/有機化合物.md "wikilink")で、極性[溶媒](https://ja.wikipedia.org/wiki/溶媒 "wikilink")のひとつである。別名は ***N*-メチルピロリドン**、***N*-メチルピロリジン-2-オン**、**1-メチル-2-ピロリドン**、***N*-メチル-2-ピロリジノン** (*N*-methylpyrrolidinone)、**M-Pyrol** などである。

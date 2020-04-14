@@ -1,4 +1,4 @@
-> この記事は[ALCM \(\)](https://ja.wikipedia.org/wiki/ALCM_\(\))から翻訳されています。
+> この記事は[ALCM \(ミサイル\)](https://ja.wikipedia.org/wiki/ALCM_\(ミサイル\))から翻訳されています。
 
 
 <div class="thumb tright">

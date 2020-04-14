@@ -1,4 +1,4 @@
-> この記事は[UXXVII](https://ja.wikipedia.org/wiki/UXXVII)から翻訳されています。
+> この記事は[UボートXXVII型](https://ja.wikipedia.org/wiki/UボートXXVII型)から翻訳されています。
 
 
 [Submarine_S622.jpg](https://ja.wikipedia.org/wiki/File:Submarine_S622.jpg "fig:Submarine_S622.jpg")、艇下に魚雷を装備している。[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[ブレストに所在する国立海軍博物館の収蔵品](../Page/ブレスト_\(フランス\).md "wikilink")。\]\] **UボートXXVII型**は第二次世界大戦中にドイツが開発した特殊潜航艇である。これはXXVIIA**ヘヒト**（Hecht）及びXXVIIB**ゼーフント**（Seehund）の2つの艦級に細分化される。ドイツ語でヘヒトは[カワカマス](https://ja.wikipedia.org/wiki/カワカマス "wikilink")を意味した。またゼーフントは[アザラシ](../Page/アザラシ.md "wikilink")を意味する。2名の搭乗員により操縦されるこれらの特殊潜航艇は1944年に設計された。ドイツ海軍は戦争終結間際の数ヶ月間この兵器を運用し、9隻の商船を沈め、さらに3隻を損傷させた。損害は35隻であり、大半の原因は悪天候によると考えられている。

@@ -1,4 +1,4 @@
-> この記事は[MEREMANOID ](https://ja.wikipedia.org/wiki/MEREMANOID_)から翻訳されています。
+> この記事は[MEREMANOID 〜マーメノイド〜](https://ja.wikipedia.org/wiki/MEREMANOID_〜マーメノイド〜)から翻訳されています。
 
 
 『**MEREMANOID 〜マーメノイド〜**』は、[エクシング](../Page/エクシング.md "wikilink") (XING) から[1999年](../Page/1999年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売された[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。[2017年](../Page/2017年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")より[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信開始。

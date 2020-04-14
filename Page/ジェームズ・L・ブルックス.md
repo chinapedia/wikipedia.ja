@@ -1,4 +1,4 @@
-> この記事は[L](https://ja.wikipedia.org/wiki/L)から翻訳されています。
+> この記事は[ジェームズ・L・ブルックス](https://ja.wikipedia.org/wiki/ジェームズ・L・ブルックス)から翻訳されています。
 
 
 **ジェームズ・L・ブルックス**（, [1940年](../Page/1940年.md "wikilink")[5月9日](../Page/5月9日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画監督](../Page/映画監督.md "wikilink")・[脚本家](../Page/脚本家.md "wikilink")・[プロデューサー](../Page/映画プロデューサー.md "wikilink")。[ニューヨーク](../Page/ニューヨーク.md "wikilink")市[ブルックリン出身](../Page/ブルックリン区.md "wikilink")。

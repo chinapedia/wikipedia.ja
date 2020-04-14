@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRイヤミのここで一発](https://ja.wikipedia.org/wiki/CRイヤミのここで一発)から翻訳されています。
 
 
 **イヤミのここで一発**は、[大一商会](../Page/大一商会.md "wikilink")が販売した[羽根モノ](../Page/羽根モノ.md "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")で、CR[おそ松くん](../Page/おそ松くん.md "wikilink")の[スピンオフ](../Page/スピンオフ.md "wikilink")機種。 本項目では、直撃抽選機能を搭載した「チビ太のここで一発J10」とそのスペック違いの「激チビ太のここで一発JS50」についても記述する。

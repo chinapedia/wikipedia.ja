@@ -1,4 +1,4 @@
-> この記事は[SMBC](https://ja.wikipedia.org/wiki/SMBC)から翻訳されています。
+> この記事は[SMBCモビット](https://ja.wikipedia.org/wiki/SMBCモビット)から翻訳されています。
 
 
 **株式会社SMBCモビット**（SMBC Mobit Co., LTD.）は、日本の[銀行系消費者金融会社である](https://ja.wikipedia.org/wiki/消費者金融#銀行系消費者金融 "wikilink")。社名のモビットは“Mobile”“Money”のMoと、データ単位のBit（[ビット](../Page/ビット.md "wikilink")）という[情報化社会](../Page/情報化社会.md "wikilink")にちなんだ語句を合わせた造語である。

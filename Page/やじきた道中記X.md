@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[やじきた道中記X](https://ja.wikipedia.org/wiki/やじきた道中記X)から翻訳されています。
 
 
 **やじきた道中記X**は、[2003年](../Page/2003年.md "wikilink")にミズホが開発し、[ユニバーサルエンターテインメント](../Page/ユニバーサルエンターテインメント.md "wikilink")が販売した[パチスロ](../Page/パチスロ.md "wikilink")機。ビッグ、[レギュラーボーナス](https://ja.wikipedia.org/wiki/レギュラーボーナス "wikilink")のほか[ATのやじきた祭りを搭載した](https://ja.wikipedia.org/wiki/アシストタイム "wikilink")[Aタイプ](https://ja.wikipedia.org/wiki/Aタイプ "wikilink")である。

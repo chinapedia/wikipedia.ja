@@ -1,4 +1,4 @@
-> この記事は[IMPAC](https://ja.wikipedia.org/wiki/IMPAC)から翻訳されています。
+> この記事は[国際IMPACダブリン文学賞](https://ja.wikipedia.org/wiki/国際IMPACダブリン文学賞)から翻訳されています。
 
 
 **国際IMPACダブリン文学賞** (the **International IMPAC Dublin Literary Award**) は、[英語](../Page/英語.md "wikilink")で発行された[小説](../Page/小説.md "wikilink")に対して授与される最大の国際文学賞。他言語の翻訳作品も審査対象に含まれる。[アイルランド](../Page/アイルランド.md "wikilink")の[ダブリン](../Page/ダブリン.md "wikilink")市およびコンサルティングを業務とする私企業IMPACの後援およびダブリン市図書館の主催により運営されている。1994年の市憲章制定を受け、1996年に開始された。
@@ -85,7 +85,7 @@
       - Dennis Bock, *The Ash Garden*
       - Achmat Dangor, *Bitter Fruit*
       - [ペール・オロフ・エンクイスト](https://ja.wikipedia.org/wiki/ペール・オロフ・エンクイスト "wikilink"), *The Royal Physician's Visit*
-      - [ジョナサン・フランゼン](https://ja.wikipedia.org/wiki/ジョナサン・フランゼン "wikilink"), *The Corrections* (日本語訳『コレクションズ』ISBN 978-4105425012)
+      - [ジョナサン・フランゼン](../Page/ジョナサン・フランゼン.md "wikilink"), *The Corrections* (日本語訳『コレクションズ』ISBN 978-4105425012)
       - [リディア・ジョルジェ](https://ja.wikipedia.org/wiki/リディア・ジョルジェ "wikilink"), *The Migrant Painter of Birds*
       - [ジョン・マクガハン](../Page/ジョン・マクガハン.md "wikilink"), *That They May Face the Rising Sun*(日本語訳『湖畔』ISBN 978-4336051721)
       - [アン・パチェット](https://ja.wikipedia.org/wiki/アン・パチェット "wikilink"), *Bel Canto* (日本語訳『ベル・カント』ISBN 4152084812)

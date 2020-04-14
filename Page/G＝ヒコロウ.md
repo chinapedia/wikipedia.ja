@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[G＝ヒコロウ](https://ja.wikipedia.org/wiki/G＝ヒコロウ)から翻訳されています。
 
 
 **G＝ヒコロウ**（ジーヒコロウ、本名：**遠藤 総理**（えんどう まさおみ）、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[1月13日](../Page/1月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")。[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink") 出身。

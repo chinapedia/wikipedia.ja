@@ -1,4 +1,4 @@
-> この記事は[TV!](https://ja.wikipedia.org/wiki/TV!)から翻訳されています。
+> この記事は[光パーフェクTV!](https://ja.wikipedia.org/wiki/光パーフェクTV!)から翻訳されています。
 
 
 **光パーフェクTV\!**（ひかりパーフェクティーヴィ\!、**光PerfecTV\!**）は、[スカパーJSAT](../Page/スカパーJSAT.md "wikilink")株式会社による標準テレビジョン方式[有線一般放送](https://ja.wikipedia.org/wiki/一般放送 "wikilink")（[光放送](../Page/光放送.md "wikilink")）の非直轄区域のうち、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")におけるサービス名である。これらの地域では[スカイパーフェクTV\!](../Page/スカパー!プレミアムサービス.md "wikilink")（[旧スカパー\!](../Page/スカパー!プレミアムサービス.md "wikilink")・[スカパー\!e2](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")）のブランド呼称が**「スカパー\!」**（[光放送](../Page/光放送.md "wikilink")は**「[スカパー\!プレミアムサービス光](../Page/スカパー!プレミアムサービス光.md "wikilink")」）**に統一されて以後も、「光パーフェクTV\!」の愛称をそのまま使用している。2013年3月までは[長野県](../Page/長野県.md "wikilink")[阿智村](../Page/阿智村.md "wikilink")、[岐阜県](../Page/岐阜県.md "wikilink")[恵那市](../Page/恵那市.md "wikilink")でも同サービスを展開していた。

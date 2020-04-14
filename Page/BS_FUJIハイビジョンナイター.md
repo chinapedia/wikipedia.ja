@@ -1,4 +1,4 @@
-> この記事は[BS FUJI](https://ja.wikipedia.org/wiki/BS_FUJI)から翻訳されています。
+> この記事は[BS FUJIハイビジョンナイター](https://ja.wikipedia.org/wiki/BS_FUJIハイビジョンナイター)から翻訳されています。
 
 
 『**BS FUJI ハイビジョンナイター**』（ビーエス フジハイビジョンナイター）は、[2001年](../Page/2001年.md "wikilink")に[BSフジ](../Page/BSフジ.md "wikilink")で放送されたプロ野球中継番組。[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[フジテレビ系列の](../Page/フジネットワーク.md "wikilink")「**ナイター中継（西暦）**/**プロ野球中継（西暦）**」（現・[野球道](../Page/野球道_\(フジテレビ系列\).md "wikilink")）の派生番組である。フジテレビスポーツ局と共同制作。
@@ -47,7 +47,7 @@ BSデジタル放送の利点、ならびに当時の最新鋭機能を生かし
   - 『[NHKプロ野球](../Page/NHKプロ野球.md "wikilink")』（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")〈[BS1](../Page/NHK_BS1.md "wikilink")、[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")〉）
   - 『[DRAMATIC BASEBALL](../Page/Fun!BASEBALL!!.md "wikilink")』（[BS日テレ](https://ja.wikipedia.org/wiki/ビーエス日本 "wikilink")、[日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")）
   - 『[スーパーベースボール](../Page/スーパーベースボール_\(テレビ朝日系列\).md "wikilink")』（[BS朝日](https://ja.wikipedia.org/wiki/ビーエス朝日 "wikilink")、[テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）
-  - 『[SAMURAI BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』（[BS-TBS](../Page/BS-TBS.md "wikilink")、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）
+  - 『[S☆1 BASEBALL](https://ja.wikipedia.org/wiki/SAMURAI_BASEBALL "wikilink")』（[BS-TBS](../Page/BS-TBS.md "wikilink")、[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）
   - 『[ALWAYS Baseball](../Page/ベースボールLive.md "wikilink")』（[BSテレビ東京](../Page/BSテレビ東京.md "wikilink")、[テレビ東京系列](../Page/TXNネットワーク.md "wikilink")）
   - 『[BS12 プロ野球中継](https://ja.wikipedia.org/wiki/BS12_プロ野球中継 "wikilink")』（[TwellV](../Page/ワールド・ハイビジョン・チャンネル.md "wikilink")）
       - 北海道日本ハムファイターズを除くパ・リーグ主催試合を放送。

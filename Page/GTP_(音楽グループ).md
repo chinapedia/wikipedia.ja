@@ -1,4 +1,4 @@
-> この記事は[GTP \(\)](https://ja.wikipedia.org/wiki/GTP_\(\))から翻訳されています。
+> この記事は[GTP \(音楽グループ\)](https://ja.wikipedia.org/wiki/GTP_\(音楽グループ\))から翻訳されています。
 
 
 **GTP**は、日本の音楽[バンド](../Page/バンド_\(音楽\).md "wikilink")。女性3人組で、高校卒業とともにメンバーがそれぞれ上京し、同じ音楽学校（[専門学校東京ミュージック&メディアアーツ尚美](https://ja.wikipedia.org/wiki/専門学校東京ミュージック&メディアアーツ尚美 "wikilink")）の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")科にて出会い結成。[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")所属。GTPはGo To Pantyの略。また、2007年8月9日の[bayfmBATTLE](../Page/ベイエフエム.md "wikilink") NIGHT RYO『キックorチョップ』にて、Go Toh Producer(後藤プロデューサー)の略でもあることを発表。

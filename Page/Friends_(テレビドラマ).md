@@ -1,4 +1,4 @@
-> この記事は[Friends \(\)](https://ja.wikipedia.org/wiki/Friends_\(\))から翻訳されています。
+> この記事は[Friends \(テレビドラマ\)](https://ja.wikipedia.org/wiki/Friends_\(テレビドラマ\))から翻訳されています。
 
 
 『**Friends**』（フレンズ）は、[2000年](../Page/2000年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[9月15日](../Page/9月15日.md "wikilink")まで毎週金曜日22:00 - 22:54に[TBS系の](../Page/TBSテレビ.md "wikilink")「[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")」で放送された日本の[テレビドラマ](../Page/テレビドラマ.md "wikilink")。

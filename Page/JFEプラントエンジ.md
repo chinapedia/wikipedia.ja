@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEプラントエンジ](https://ja.wikipedia.org/wiki/JFEプラントエンジ)から翻訳されています。
 
 
 **JFEプラントエンジ株式会社**（ジェイエフイープラントエンジ、[英](../Page/英語.md "wikilink"):JFE Plant Engineering Co., Ltd.）は、[製鉄所](../Page/製鉄所.md "wikilink")[機械](../Page/機械.md "wikilink")などの工場設備の建設や[クレーン](../Page/クレーン.md "wikilink")・[ブラストマシン](https://ja.wikipedia.org/wiki/ブラストマシン "wikilink")などの製造、機械の[メンテナンス](../Page/メンテナンス.md "wikilink")を行う[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの企業である。

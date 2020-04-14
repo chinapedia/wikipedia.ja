@@ -1,4 +1,4 @@
-> この記事は[SOHO \(\)](https://ja.wikipedia.org/wiki/SOHO_\(\))から翻訳されています。
+> この記事は[SOHO \(探査機\)](https://ja.wikipedia.org/wiki/SOHO_\(探査機\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:SOHO_ready_for_encapsulation.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Atlas_IIAS_launch_with_SOHO.jpg "wikilink") **SOHO**（**So**lar and **H**eliospheric **O**bservatory、'''太陽・太陽圏観測機 '''）とは、[欧州宇宙機関](../Page/欧州宇宙機関.md "wikilink") (ESA) と、[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md "wikilink") (NASA) によって開発された、[太陽](../Page/太陽.md "wikilink")観測機（observatory）である（探査機（probe）と呼ばれていることは少ない\[1\]）。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月2日](../Page/12月2日.md "wikilink")に打上げられた。なお、NASAが太陽に関して「探査(機)」（probe）という表現を使っている[宇宙機](../Page/宇宙機.md "wikilink")ないしミッションの例としては、Parker Solar Probe（[パーカー・ソーラー・プローブ](https://ja.wikipedia.org/wiki/ソーラー・プローブ・プラス "wikilink")）がある。

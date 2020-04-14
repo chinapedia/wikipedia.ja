@@ -1,4 +1,4 @@
-> この記事は[CAC \(\)](https://ja.wikipedia.org/wiki/CAC_\(\))から翻訳されています。
+> この記事は[CAC \(ケーブルテレビ\)](https://ja.wikipedia.org/wiki/CAC_\(ケーブルテレビ\))から翻訳されています。
 
 
 株式会社**CAC**は、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[半田市](../Page/半田市.md "wikilink")に本社を置く[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局。旧社名**シーエーテイーブイ愛知**株式会社。

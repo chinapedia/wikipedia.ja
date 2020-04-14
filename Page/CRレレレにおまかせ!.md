@@ -1,4 +1,4 @@
-> この記事は[CR!](https://ja.wikipedia.org/wiki/CR!)から翻訳されています。
+> この記事は[CRレレレにおまかせ!](https://ja.wikipedia.org/wiki/CRレレレにおまかせ!)から翻訳されています。
 
 
 **CRレレレにおまかせ\!**は、[大一商会](../Page/大一商会.md "wikilink")が販売した[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機で[羽根モノ](../Page/羽根モノ.md "wikilink")に該当する。

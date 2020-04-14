@@ -1,4 +1,4 @@
-> この記事は[TSB News](https://ja.wikipedia.org/wiki/TSB_News)から翻訳されています。
+> この記事は[TSB Newsリアルタイム](https://ja.wikipedia.org/wiki/TSB_Newsリアルタイム)から翻訳されています。
 
 
 『**TSB Newsリアルタイム**』（ティーエスビー ニュースリアルタイム）は、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")まで[テレビ信州](../Page/テレビ信州.md "wikilink") (TSB) で平日夕方と土曜日夕方に[生放送](../Page/生放送.md "wikilink")されていた[報道番組](../Page/報道番組.md "wikilink")である。2007年10月以降は土曜版のみが放送されている。

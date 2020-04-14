@@ -1,4 +1,4 @@
-> この記事は[EPG](https://ja.wikipedia.org/wiki/EPG)から翻訳されています。
+> この記事は[EPG装甲工兵車](https://ja.wikipedia.org/wiki/EPG装甲工兵車)から翻訳されています。
 
 
 **EPG装甲工兵車**は、[DNG/DCL戦車回収車](https://ja.wikipedia.org/wiki/DNG/DCL戦車回収車 "wikilink")をもとに開発された、[工兵](../Page/工兵.md "wikilink")用の[装甲作業車である](https://ja.wikipedia.org/wiki/戦闘工兵車 "wikilink")。DNG/DCL戦車回収車は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[Nexter社](https://ja.wikipedia.org/wiki/ネクスター "wikilink")（旧GIAT社）製[主力戦車](../Page/主力戦車.md "wikilink")・[ルクレール](../Page/ルクレール.md "wikilink")をもとに開発されたので、本車もルクレールと共通性がある。

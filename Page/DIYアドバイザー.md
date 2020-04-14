@@ -1,4 +1,4 @@
-> この記事は[DIY](https://ja.wikipedia.org/wiki/DIY)から翻訳されています。
+> この記事は[DIYアドバイザー](https://ja.wikipedia.org/wiki/DIYアドバイザー)から翻訳されています。
 
 
 **DIYアドバイザー**（ディーアイワイ-）は、[DIY](../Page/DIY.md "wikilink")の知識と技能を認定する[公的資格](../Page/資格.md "wikilink")。[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に制定され、[経済産業省](../Page/経済産業省.md "wikilink")所管の公益法人である社団法人[日本DIY協会](https://ja.wikipedia.org/wiki/日本DIY協会 "wikilink")が試験の実施と資格の認定を行っている。

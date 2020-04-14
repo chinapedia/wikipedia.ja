@@ -1,4 +1,4 @@
-> この記事は[ZAP!](https://ja.wikipedia.org/wiki/ZAP!)から翻訳されています。
+> この記事は[今池ZAP!](https://ja.wikipedia.org/wiki/今池ZAP!)から翻訳されています。
 
 
 『**今池ZAP\!**』（いまいけザップ）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[7月6日](../Page/7月6日.md "wikilink")から同年[10月5日](../Page/10月5日.md "wikilink")まで[中京テレビで放送されていた](../Page/中京テレビ放送.md "wikilink")[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。全14回。放送時間は毎週木曜 24:45 - 25:00\[1\]（[日本標準時](../Page/日本標準時.md "wikilink")）。

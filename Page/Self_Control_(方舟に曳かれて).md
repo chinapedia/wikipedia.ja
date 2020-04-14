@@ -1,4 +1,4 @@
-> この記事は[Self Control \(\)](https://ja.wikipedia.org/wiki/Self_Control_\(\))から翻訳されています。
+> この記事は[Self Control \(方舟に曳かれて\)](https://ja.wikipedia.org/wiki/Self_Control_\(方舟に曳かれて\))から翻訳されています。
 
 
 「**Self Control（方舟に曳かれて）**」（セルフ・コントロール はこぶねにひかれて）は、[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。

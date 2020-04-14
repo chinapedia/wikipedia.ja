@@ -32,6 +32,8 @@
   - [ナンバーガール](../Page/ナンバーガール.md "wikilink")の[中尾憲太郎](../Page/中尾憲太郎.md "wikilink")に影響され、[ダウンピッキングを多用する](https://ja.wikipedia.org/wiki/ピック奏法#奏法 "wikilink")。また、[指弾き](https://ja.wikipedia.org/wiki/指弾き "wikilink")でなく[ピック弾きなのは男らしい音を出すためである](../Page/ピック奏法.md "wikilink")\[7\]。
   - バンド結成当初は[キーボードとして加入したが](../Page/キーボード_\(楽器\).md "wikilink")、後にベースへと転向。
   - 既婚者。2012年2月、結婚を発表。
+  - 映画『[リンダリンダリンダ](https://ja.wikipedia.org/wiki/リンダリンダリンダ "wikilink")』に出演。
+  - 『[Mステーション](https://ja.wikipedia.org/wiki/Mステーション "wikilink")』出演時の[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")と[櫻井敦司](../Page/櫻井敦司.md "wikilink")のコラボ曲『駆け落ち者』にベースで参加。
 
 **堀之内 大介** - Drums,Chorus
 
@@ -753,7 +755,7 @@
 |                                                                          |                                                                                                          |                                                                     |            |                                          |                                                                       |        |                                                                                |
 | [2012年](../Page/2012年.md "wikilink")[2月22日](../Page/2月22日.md "wikilink") | [カノジョは嘘を愛しすぎてる MIX TAPE VOL.1](https://ja.wikipedia.org/wiki/カノジョは嘘を愛しすぎてる#映画#ディスコグラフィ#アルバム "wikilink")  | [V.A.](https://ja.wikipedia.org/wiki/オムニバス盤 "wikilink")             | BVCL-214   | 4\. short hair / Base Ball Bear          | [Ariola Japan](https://ja.wikipedia.org/wiki/Ariola_Japan "wikilink") | 296    | オムニバス盤                                                                         |
 | [2014年](../Page/2014年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink") | [ROCK AND SYMPATHY -tribute to the pillows-](https://ja.wikipedia.org/wiki/ROCK_AND_SYMPATHY "wikilink") | [the pillows](https://ja.wikipedia.org/wiki/the_pillows "wikilink") | AVCD-38831 | 4\. Funny Bunny / Base Ball Bear         | [avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")       | 24     | [the pillowsのトリビュートアルバム](https://ja.wikipedia.org/wiki/the_pillows "wikilink") |
-| [2019年](../Page/2019年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")   | epoch                                                                                                    | [フルカワユタカ](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink")         | NIW-147    | 1\. コトバとオト feat.Base Ball Bear / フルカワユタカ | Niw\!                                                                 |        | フルカワユタカのアルバムに客演参加                                                              |
+| [2019年](../Page/2019年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")   | epoch                                                                                                    | [フルカワユタカ](https://ja.wikipedia.org/wiki/フルカワユタカ "wikilink")         | NIW-147    | 1\. コトバとオト feat.Base Ball Bear / フルカワユタカ | Niw\!                                                                 | 82     | フルカワユタカのアルバムに客演参加                                                              |
 |                                                                          |                                                                                                          |                                                                     |            |                                          |                                                                       |        |                                                                                |
 
 ### 提供曲
@@ -824,7 +826,7 @@ Base Ball Bearとしての出演は現在テレビ・ラジオともにない。
 
   - Base Ball BearのオールナイトニッポンR（特番、2006年12月2日・2007年3月3日、[ニッポン放送](../Page/ニッポン放送.md "wikilink")）
   - [ベボベ LOCKS\!](../Page/ARTIST_LOCKS!.md "wikilink")（2007年より[TOKYO FM制作](../Page/エフエム東京.md "wikilink")、[JFN](https://ja.wikipedia.org/wiki/JFN "wikilink")系[SCHOOL OF LOCK\!](https://ja.wikipedia.org/wiki/SCHOOL_OF_LOCK! "wikilink") WEBサイトでネットラジオ配信→2009年9月22日より火曜日レギュラー→月曜日レギュラー→2010年7月より再びwebラジオ→2010年10月5日より再度火曜レギュラー→2014年3月25日終了。）
-  - [Base Ball Bearのソフトボール同好会](https://ja.wikipedia.org/wiki/Base_Ball_Bearのソフトボール同好会 "wikilink")（[JFNC系](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink") 放送時間は局によって異なる。2009年9月終了）
+  - [Base Ball Bearのソフトボール同好会](https://ja.wikipedia.org/wiki/Base_Ball_Bearのソフトボール同好会 "wikilink")（[JFNC系](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink") 放送時間は局によって異なる。2009年9月終了）
 
 ### その他
 

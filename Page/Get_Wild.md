@@ -104,6 +104,7 @@
   - [GET WILD SONG MAFIA](https://ja.wikipedia.org/wiki/GET_WILD_SONG_MAFIA "wikilink")
   - [劇場版シティーハンター 〈新宿プライベート・アイズ〉-VOCAL COLLECTION-](../Page/シティーハンター_\(アニメ\).md "wikilink")
   - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink")
+  - [キミが好きだと叫びたい 〜Love & Yell〜](../Page/キミが好きだと叫びたい_〜Love_&_Yell〜.md "wikilink")
 
 **Get Wild (Original Single Back Track)**
 
@@ -179,7 +180,7 @@
 ## 外部リンク
 
   - [エイベックスによる「Get Wild Mafia」のディスコグラフィー](http://avex.jp/tm/discography/)
-  - [ソニーミュージックによる2017年アナログ盤ディスコグラフィー](http://www.sonymusic.co.jp/artist/TMNetwork/discography/MHJL-15)
+  - [ソニーミュージックによる2017年アナログ盤ディスコグラフィー](https://www.sonymusic.co.jp/artist/TMNetwork/discography/MHJL-15)
 
 [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:シティーハンターの音楽](https://ja.wikipedia.org/wiki/Category:シティーハンターの音楽 "wikilink") [Category:1987年のシングル](https://ja.wikipedia.org/wiki/Category:1987年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:読売テレビのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:読売テレビのテレビアニメ主題歌 "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:楽曲_け](https://ja.wikipedia.org/wiki/Category:楽曲_け "wikilink")
 

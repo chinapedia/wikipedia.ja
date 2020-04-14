@@ -1,4 +1,4 @@
-> この記事は[ Four Dimensions](https://ja.wikipedia.org/wiki/_Four_Dimensions)から翻訳されています。
+> この記事は[四次元 Four Dimensions](https://ja.wikipedia.org/wiki/四次元_Four_Dimensions)から翻訳されています。
 
 
 {{Infobox Single | Name = 四次元
@@ -68,7 +68,7 @@ Four Dimensions | Artist = [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Childr
   - 『[Mr.Children 2001-2005 <micro>](https://ja.wikipedia.org/wiki/Mr.Children_2001-2005_＜micro＞ "wikilink")』(\#1、\#2、\#3)
   - 『[Mr.Children 2003-2015 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_2003-2015_Thanksgiving_25 "wikilink")』(\#1、\#2、\#3)
 
-[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:トイズファクトリーのシングル](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのシングル "wikilink") [Category:クアトロA面シングル](https://ja.wikipedia.org/wiki/Category:クアトロA面シングル "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink") [Category:日清カップヌードルのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:日清カップヌードルのコマーシャルソング "wikilink")
+[Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:トイズファクトリーのシングル](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのシングル "wikilink") [Category:クアトロA面シングル](https://ja.wikipedia.org/wiki/Category:クアトロA面シングル "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2005年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2005年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:ロ長調](https://ja.wikipedia.org/wiki/Category:ロ長調 "wikilink") [Category:日清カップヌードルのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:日清カップヌードルのコマーシャルソング "wikilink") [Category:ポカリスエットのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ポカリスエットのコマーシャルソング "wikilink") [Category:日本映画の主題歌](https://ja.wikipedia.org/wiki/Category:日本映画の主題歌 "wikilink") [Category:ポンキッキーズの楽曲](https://ja.wikipedia.org/wiki/Category:ポンキッキーズの楽曲 "wikilink")
 
 1.  [Internet Archive - トイズファクトリー公式サイト 2006年7月20日時点](https://web.archive.org/web/20060720040401/http://www.toysfactory.co.jp/mrchildren/index.html)
 2.  映画「Mr.Children REFLECTION」 劇場公開パンフレット

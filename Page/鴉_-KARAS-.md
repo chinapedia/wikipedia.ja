@@ -1,4 +1,4 @@
-> この記事は[ -KARAS-](https://ja.wikipedia.org/wiki/_-KARAS-)から翻訳されています。
+> この記事は[鴉 -KARAS-](https://ja.wikipedia.org/wiki/鴉_-KARAS-)から翻訳されています。
 
 
 『**鴉 -KARAS-**』（からす）は、[タツノコプロ](../Page/タツノコプロ.md "wikilink")製作のオリジナルビデオアニメ（[OVA](../Page/OVA.md "wikilink")）。

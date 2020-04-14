@@ -1,4 +1,4 @@
-> この記事は[PIANO \(\)](https://ja.wikipedia.org/wiki/PIANO_\(\))から翻訳されています。
+> この記事は[PIANO \(アルバム\)](https://ja.wikipedia.org/wiki/PIANO_\(アルバム\))から翻訳されています。
 
 
 『**PIANO**』（ピアノ）は、[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")にリリースされた[加古隆](../Page/加古隆.md "wikilink")のピアノ・ソロ・アルバム。収録曲は加古隆自身による選曲。ピアノ・ソロのアルバムとしては、1993年に発表した『水の前奏曲』以来、13年ぶりのものである。録音は、[浜離宮](https://ja.wikipedia.org/wiki/浜離宮 "wikilink")朝日ホールで行われた。このアルバムに収録されている曲を収載した楽譜が発売されている。

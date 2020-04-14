@@ -1,4 +1,4 @@
-> この記事は[Z ](https://ja.wikipedia.org/wiki/Z_)から翻訳されています。
+> この記事は[ドラゴンボールZ 悟空飛翔伝](https://ja.wikipedia.org/wiki/ドラゴンボールZ_悟空飛翔伝)から翻訳されています。
 
 
 『**ドラゴンボールZ 悟空飛翔伝**』（ドラゴンボールゼット ごくうひしょうでん）は[1994年](../Page/1994年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")に[バンダイ](../Page/バンダイ.md "wikilink")から発売された[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用タクティカル[RPGである](../Page/コンピュータRPG.md "wikilink")。

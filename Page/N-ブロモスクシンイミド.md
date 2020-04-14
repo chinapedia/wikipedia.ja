@@ -1,4 +1,4 @@
-> この記事は[N-](https://ja.wikipedia.org/wiki/N-)から翻訳されています。
+> この記事は[N-ブロモスクシンイミド](https://ja.wikipedia.org/wiki/N-ブロモスクシンイミド)から翻訳されています。
 
 
 ***N*-ブロモスクシンイミド**（**NBS**、英：**''N**''-**B**romo**s**uccinimide）は[有機化学](../Page/有機化学.md "wikilink")において[ラジカル置換](https://ja.wikipedia.org/wiki/ラジカル置換 "wikilink")、[求電子付加反応](../Page/求電子付加反応.md "wikilink")に用いられる[化学物質](../Page/化学物質.md "wikilink")である。NBSは[臭素](https://ja.wikipedia.org/wiki/臭素 "wikilink")源として重宝される。[アセトン](../Page/アセトン.md "wikilink")、[THF](../Page/テトラヒドロフラン.md "wikilink")、[DMF](https://ja.wikipedia.org/wiki/ジメチルホルムアミド "wikilink")、[DMSO](../Page/ジメチルスルホキシド.md "wikilink")、[アセトニトリル](../Page/アセトニトリル.md "wikilink")に可溶であり、[水](../Page/水.md "wikilink")や[酢酸](../Page/酢酸.md "wikilink")に溶けにくい。[ジエチルエーテル](../Page/ジエチルエーテル.md "wikilink")、[ヘキサン](../Page/ヘキサン.md "wikilink")、[四塩化炭素](https://ja.wikipedia.org/wiki/四塩化炭素 "wikilink")には不溶である。

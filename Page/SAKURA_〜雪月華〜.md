@@ -1,4 +1,4 @@
-> この記事は[SAKURA ](https://ja.wikipedia.org/wiki/SAKURA_)から翻訳されています。
+> この記事は[SAKURA 〜雪月華〜](https://ja.wikipedia.org/wiki/SAKURA_〜雪月華〜)から翻訳されています。
 
 
 『**SAKURA〜雪月華〜**』（さくら・せつげっか）は[2003年](../Page/2003年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")に[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")より発売された、[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。正式なタイトルは『**Sakura〜雪月華〜**』

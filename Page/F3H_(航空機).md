@@ -1,4 +1,4 @@
-> この記事は[F3H \(\)](https://ja.wikipedia.org/wiki/F3H_\(\))から翻訳されています。
+> この記事は[F3H \(航空機\)](https://ja.wikipedia.org/wiki/F3H_\(航空機\))から翻訳されています。
 
 
 **F3H ディーマン**（*McDonnell F3H Demon*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[マクダネル社が開発し](../Page/マクドネル・エアクラフト.md "wikilink")、[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")で運用された[艦上ジェット戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")。 [アメリカ海軍](../Page/アメリカ海軍.md "wikilink")における艦上全天候戦闘機として、1950年代から1960年代にかけて運用された。

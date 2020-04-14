@@ -1,4 +1,4 @@
-> この記事は[ \(AV\)](https://ja.wikipedia.org/wiki/_\(AV\))から翻訳されています。
+> この記事は[しみけん \(AV男優\)](https://ja.wikipedia.org/wiki/しみけん_\(AV男優\))から翻訳されています。
 
 
 **しみけん**（[1979年](../Page/1979年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[AV男優](https://ja.wikipedia.org/wiki/AV男優 "wikilink")、[AV監督](../Page/AV監督.md "wikilink")である。また著述家、飲食店の経営者でもある。

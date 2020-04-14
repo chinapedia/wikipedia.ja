@@ -1,4 +1,4 @@
-> この記事は[SLK](https://ja.wikipedia.org/wiki/SLK)から翻訳されています。
+> この記事は[メルセデス・ベンツ・SLKクラス](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・SLKクラス)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Mercedes-Benz_SLK_250_BlueEFFICIENCY_\(R_172\)_–_Frontansicht_\(2\),_11._März_2011,_Teneriffa.jpg "wikilink") **メルセデス・ベンツ・SLKクラス**（*Mercedes-Benz SLK-Class* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで展開していた[クーペカブリオレ](../Page/クーペカブリオレ.md "wikilink")タイプの[スポーツカー](../Page/スポーツカー.md "wikilink")である。

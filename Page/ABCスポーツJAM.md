@@ -1,4 +1,4 @@
-> この記事は[ABCJAM](https://ja.wikipedia.org/wiki/ABCJAM)から翻訳されています。
+> この記事は[ABCスポーツJAM](https://ja.wikipedia.org/wiki/ABCスポーツJAM)から翻訳されています。
 
 
 **ABCスポーツJAM**（えいびーしースポーツじゃむ）は、[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")（朝日放送）で、[2006年](../Page/2006年.md "wikilink")度上半期に毎週土曜日14時から17時55分に放送されたスポーツ情報・プロ野球デーゲーム中継番組である。
@@ -21,4 +21,4 @@
   - [ABCフレッシュアップベースボール](../Page/ABCフレッシュアップベースボール.md "wikilink")
   - [ダンディー・ウィークエンド](../Page/ダンディー・ウィークエンド.md "wikilink")→[サンデー・エクスプレス](../Page/サンデー・エクスプレス_\(ABCラジオ\).md "wikilink")
 
-[Category:朝日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオ番組の歴史 "wikilink") [Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
+[Category:朝日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオ番組の歴史 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

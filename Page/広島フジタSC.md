@@ -1,4 +1,4 @@
-> この記事は[SC](https://ja.wikipedia.org/wiki/SC)から翻訳されています。
+> この記事は[広島フジタSC](https://ja.wikipedia.org/wiki/広島フジタSC)から翻訳されています。
 
 
 **広島フジタSC**（ひろしまフジタエスシー）は、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")を拠点とするサッカークラブ。創設にあたり、元[参議院](https://ja.wikipedia.org/wiki/参議院 "wikilink")議員および藤田組（現[フジタ](../Page/フジタ.md "wikilink")）元副社長である[藤田正明](https://ja.wikipedia.org/wiki/藤田正明 "wikilink")がオーナーとなっており、正明の没後の2009年時点では、その息子であり第6代[広島県知事の](../Page/広島県知事一覧.md "wikilink")[藤田雄山](../Page/藤田雄山.md "wikilink")（2015年没）が顧問となっていた。

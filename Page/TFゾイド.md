@@ -1,4 +1,4 @@
-> この記事は[TF](https://ja.wikipedia.org/wiki/TF)から翻訳されています。
+> この記事は[TFゾイド](https://ja.wikipedia.org/wiki/TFゾイド)から翻訳されています。
 
 
 **TFゾイド**（トランスファイターゾイド）は、玩具メーカー[タカラトミー](../Page/タカラトミー.md "wikilink")（旧[トミー](../Page/トミー_\(企業\).md "wikilink")）より発売されている『[ゾイド](../Page/ゾイド.md "wikilink")』シリーズに登場する架空の兵器。

@@ -1,4 +1,4 @@
-> この記事は[STRONGEST-K TAG](https://ja.wikipedia.org/wiki/STRONGEST-K_TAG)から翻訳されています。
+> この記事は[STRONGEST-K TAG王座](https://ja.wikipedia.org/wiki/STRONGEST-K_TAG王座)から翻訳されています。
 
 
 **STRONGEST-K TAG王座**（ストロンゲスト-ケー・タッグおうざ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")の団体[KAIENTAI DOJOの管理していた](../Page/KAIENTAI_DOJO.md "wikilink")[チャンピオンベルト](../Page/チャンピオンベルト.md "wikilink")である。

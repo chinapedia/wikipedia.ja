@@ -1,4 +1,4 @@
-> この記事は[BAR](https://ja.wikipedia.org/wiki/BAR)から翻訳されています。
+> この記事は[BARレモン・ハート](https://ja.wikipedia.org/wiki/BARレモン・ハート)から翻訳されています。
 
 
 『**BARレモン・ハート**』（バーレモンハート）は、[古谷三敏](../Page/古谷三敏.md "wikilink")（ファミリー企画）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[うんちく](https://ja.wikipedia.org/wiki/うんちく "wikilink")を扱った漫画作品で、『[漫画アクション](https://ja.wikipedia.org/wiki/漫画アクション "wikilink")』（[双葉社](https://ja.wikipedia.org/wiki/双葉社 "wikilink")）にて連載中である。内容は酒場で繰り広げられる数々の人間模様と、それに関係した様々な酒の紹介となっている。

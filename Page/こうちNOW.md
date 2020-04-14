@@ -1,4 +1,4 @@
-> この記事は[NOW](https://ja.wikipedia.org/wiki/NOW)から翻訳されています。
+> この記事は[こうちNOW](https://ja.wikipedia.org/wiki/こうちNOW)から翻訳されています。
 
 
 『**こうちNOW**』（こうちナウ）は、[1989年](../Page/1989年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（RKCテレビ）で平日夕方に放送されていたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

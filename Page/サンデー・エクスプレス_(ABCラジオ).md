@@ -1,4 +1,4 @@
-> この記事は[ \(ABC\)](https://ja.wikipedia.org/wiki/_\(ABC\))から翻訳されています。
+> この記事は[サンデー・エクスプレス \(ABCラジオ\)](https://ja.wikipedia.org/wiki/サンデー・エクスプレス_\(ABCラジオ\))から翻訳されています。
 
 
 **サンデー・エクスプレス**は、[朝日放送](../Page/朝日放送ラジオ.md "wikilink")（ABCラジオ）で[2006年](../Page/2006年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2007年](../Page/2007年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")、日曜日の昼に放送していたラジオ番組である。
@@ -45,4 +45,4 @@
   - [ABCスポーツJAM](../Page/ABCスポーツJAM.md "wikilink")（2006年度土曜デーゲーム中継）
   - [ABCフレッシュアップJAM](../Page/ABCフレッシュアップJAM.md "wikilink")
 
-[Category:朝日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオ番組の歴史 "wikilink") [Category:ローカルラジオ局のスポーツ番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のスポーツ番組 "wikilink") [Category:野球番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:野球番組_\(ラジオ\) "wikilink") [Category:ローカルラジオ局の競馬番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の競馬番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")
+[Category:朝日放送ラジオ番組の歴史](https://ja.wikipedia.org/wiki/Category:朝日放送ラジオ番組の歴史 "wikilink") [Category:ローカルラジオ局の野球番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の野球番組 "wikilink") [Category:ローカルラジオ局の競馬番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の競馬番組 "wikilink") [Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink")

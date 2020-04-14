@@ -1,4 +1,4 @@
-> この記事は[VIVA! 67](https://ja.wikipedia.org/wiki/VIVA!_67)から翻訳されています。
+> この記事は[VIVA! 6×7](https://ja.wikipedia.org/wiki/VIVA!_6×7)から翻訳されています。
 
 
 『**VIVA\! 6×7**』（ビバ・シックス・バイ・セブン）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の33枚目のオリジナルアルバム。[2004年](../Page/2004年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（初回盤：TOCT-25600、通常盤：TOCT-25601）。2004年12月20日～2005年6月17日『VIVA\! 6×7』コンサートツアーが行われた。

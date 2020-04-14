@@ -1,4 +1,4 @@
-> この記事は[VENT!](https://ja.wikipedia.org/wiki/VENT!)から翻訳されています。
+> この記事は[VENTスポ!](https://ja.wikipedia.org/wiki/VENTスポ!)から翻訳されています。
 
 
 『**VENTスポ\!**』（ヴァンスポ）は、[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[山梨放送](https://ja.wikipedia.org/wiki/山梨放送 "wikilink")で毎週日曜日に[生放送](../Page/生放送.md "wikilink")されていた[テレビ番組](../Page/テレビ番組.md "wikilink")。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作。[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[ヴァンフォーレ甲府](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")の応援が主目的である。

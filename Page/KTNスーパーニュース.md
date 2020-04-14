@@ -1,4 +1,4 @@
-> この記事は[KTN](https://ja.wikipedia.org/wiki/KTN)から翻訳されています。
+> この記事は[KTNスーパーニュース](https://ja.wikipedia.org/wiki/KTNスーパーニュース)から翻訳されています。
 
 
 『**KTNスーパーニュース**』（ケイティーエヌスーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*KTN Super NEWS*）は、[テレビ長崎](../Page/テレビ長崎.md "wikilink")で[夕](../Page/夕.md "wikilink")方に放送されていた[長崎県](../Page/長崎県.md "wikilink")向けの[ローカルワイドニュース番組である](../Page/報道番組.md "wikilink")（全国ニュース『[FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")』を内包）。

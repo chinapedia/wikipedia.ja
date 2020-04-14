@@ -5,7 +5,7 @@
 
 ## 概要
 
-それまで、平日の朝に放送されていた[JFNC製作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")[good morning\! That's wakeman showと](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")[TOKYO FM制作の](../Page/エフエム東京.md "wikilink")[6Sense](../Page/6Sense.md "wikilink")が統合された形でTOKYO FM制作の番組として開始となった。数多くの放送局では6時台のTFM制作番組のネットは初となるが、Boy FMとK-MIXはかつて[モーニングフリーウェーの](../Page/立花裕人のMORNING_FREEWAY.md "wikilink")6時台をネットしていた。
+それまで、平日の朝に放送されていた[JFNC製作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")[good morning\! That's wakeman showと](https://ja.wikipedia.org/wiki/good_morning!_That's_wakeman_show "wikilink")[TOKYO FM制作の](../Page/エフエム東京.md "wikilink")[6Sense](../Page/6Sense.md "wikilink")が統合された形でTOKYO FM制作の番組として開始となった。数多くの放送局では6時台のTFM制作番組のネットは初となるが、Boy FMとK-MIXはかつて[モーニングフリーウェーの](../Page/立花裕人のMORNING_FREEWAY.md "wikilink")6時台をネットしていた。
 
 これまで同様、6:40-6:45の「[コスモアースコンシャスアクト ずっと地球で暮らそう。](https://ja.wikipedia.org/wiki/コスモアースコンシャスアクト_ずっと地球で暮らそう。 "wikilink")」と、7:00-7:30、8:00-8:20の間は全国のJFN加盟のFM局38局で同時ネットされている。（但し、8:00-8:20は、一部地域を除く）。また、6:55-7:00の「[MY OLYMPIC](../Page/MY_OLYMPIC.md "wikilink")」（JFNC制作）も38局ネットとなっている（一部の局で時間が異なる）。7:30-8:00と8:20-8:30はTOKYO FMのみでの放送であった。後番組は[SKYで](../Page/SKY_\(ラジオ番組\).md "wikilink")、JFNC制作枠とTOKYO FM制作枠の統合構成を引き継いだ。
 
@@ -126,7 +126,7 @@
   -
 
       -
-        [ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")制作。
+        [ジャパンエフエムネットワーク制作](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")。
 
 ### Part2 ヒューマンコンシャスを背景にした「新NEWSワイド」
 

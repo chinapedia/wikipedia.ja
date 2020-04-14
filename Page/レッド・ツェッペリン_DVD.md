@@ -1,4 +1,4 @@
-> この記事は[ DVD](https://ja.wikipedia.org/wiki/_DVD)から翻訳されています。
+> この記事は[レッド・ツェッペリン DVD](https://ja.wikipedia.org/wiki/レッド・ツェッペリン_DVD)から翻訳されています。
 
 
 『**レッド・ツェッペリンDVD**』（*Led Zeppelin DVD*）は、イギリスのバンド、[レッド・ツェッペリン](../Page/レッド・ツェッペリン.md "wikilink")のライブ・パフォーマンスなどを収録したDVD2枚組映像/音楽作品。

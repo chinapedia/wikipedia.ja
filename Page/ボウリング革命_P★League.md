@@ -1,4 +1,4 @@
-> この記事は[ PLeague](https://ja.wikipedia.org/wiki/_PLeague)から翻訳されています。
+> この記事は[ボウリング革命 P★League](https://ja.wikipedia.org/wiki/ボウリング革命_P★League)から翻訳されています。
 
 
 『**ボウリング革命 P★League**』（ボウリングかくめい ピーリーグ）は、[BS日テレおよび](../Page/BS日本.md "wikilink")[日テレジータス](../Page/日テレジータス.md "wikilink")で放送されている、日本の女子プロ・女子アマチュアボウラーによる[ボウリング](../Page/ボウリング.md "wikilink")[トーナメント番組](../Page/トーナメント方式.md "wikilink")\[1\]。[2006年](../Page/2006年.md "wikilink")[4月2日](../Page/4月2日.md "wikilink")に放送開始。

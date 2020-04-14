@@ -1,4 +1,4 @@
-> この記事は[News](https://ja.wikipedia.org/wiki/News)から翻訳されています。
+> この記事は[Newsリアルタイムやまぐち](https://ja.wikipedia.org/wiki/Newsリアルタイムやまぐち)から翻訳されています。
 
 
 『**Newsリアルタイムやまぐち**』（ニュースリアルタイムやまぐち）は、[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")（KRYテレビ）で放送されていた[報道番組](../Page/報道番組.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")まで、毎週月曜日 - 金曜日 18:16 - 18:54（[JST](../Page/日本標準時.md "wikilink")）に放送された。

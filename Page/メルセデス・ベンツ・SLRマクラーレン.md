@@ -1,4 +1,4 @@
-> この記事は[SLR](https://ja.wikipedia.org/wiki/SLR)から翻訳されています。
+> この記事は[メルセデス・ベンツ・SLRマクラーレン](https://ja.wikipedia.org/wiki/メルセデス・ベンツ・SLRマクラーレン)から翻訳されています。
 
 
 **メルセデス・ベンツ・SLRマクラーレン**（*Mercedes-Benz SLR McLaren* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカーである[ダイムラーが](../Page/ダイムラー_\(自動車メーカー\).md "wikilink")[メルセデス・ベンツ](https://ja.wikipedia.org/wiki/メルセデス・ベンツ "wikilink")ブランドで生産していた[スーパーカー](../Page/スーパーカー.md "wikilink")である。

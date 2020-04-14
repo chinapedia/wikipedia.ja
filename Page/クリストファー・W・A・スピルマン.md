@@ -1,4 +1,4 @@
-> この記事は[WA](https://ja.wikipedia.org/wiki/WA)から翻訳されています。
+> この記事は[クリストファー・W・A・スピルマン](https://ja.wikipedia.org/wiki/クリストファー・W・A・スピルマン)から翻訳されています。
 
 
 **クリストファー・ヴワディスワフ・アントニ・スピルマン**（Christopher Władysław Antoni Szpilman, [1951年](https://ja.wikipedia.org/wiki/1951年 "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink") - ）は、[ポーランド](../Page/ポーランド.md "wikilink")出身の歴史学者。歴史学博士。元[九州産業大学](../Page/九州産業大学.md "wikilink")国際文化学部教授。専門分野は日本近代政治思想史。特に[平沼騏一郎](../Page/平沼騏一郎.md "wikilink")や[大川周明](../Page/大川周明.md "wikilink")、[北一輝](../Page/北一輝.md "wikilink")、[満川亀太郎](../Page/満川亀太郎.md "wikilink")など、[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")から[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")までの日本のナショナリズムやアジア主義を研究している。妻は日本の歴史学者の[佐藤千登勢](../Page/佐藤千登勢.md "wikilink")。
@@ -29,7 +29,7 @@
 
 [1993年](../Page/1993年.md "wikilink")6月、イェール大学大学院歴史学科博士号取得（歴史学博士，Ph.D）。
 
-[1993年](../Page/1993年.md "wikilink")8月から[1994年](../Page/1994年.md "wikilink")7月まで、[コネチカット大学](https://ja.wikipedia.org/wiki/コネチカット大学 "wikilink")（Conn College)歴史学部講師。
+[1993年](../Page/1993年.md "wikilink")8月から[1994年](../Page/1994年.md "wikilink")7月まで、[コネチカット・カレッジ](../Page/コネチカット・カレッジ.md "wikilink")歴史学部講師。
 
 [1994年](../Page/1994年.md "wikilink")、米国[デューク大学](../Page/デューク大学.md "wikilink")大学院に留学中だった日本人女性の[佐藤千登勢](../Page/佐藤千登勢.md "wikilink")と結婚。同年、夫人を伴って来日。
 
@@ -82,7 +82,7 @@
 
   - [公式ページ](http://www.kyusan-u.ac.jp/J/szpilman/top-jp.html)
 
-[Category:ポーランドの歴史学者](https://ja.wikipedia.org/wiki/Category:ポーランドの歴史学者 "wikilink") [Category:イギリスの歴史学者](https://ja.wikipedia.org/wiki/Category:イギリスの歴史学者 "wikilink") [Category:日本近現代思想史家](https://ja.wikipedia.org/wiki/Category:日本近現代思想史家 "wikilink") [Category:日本研究者](https://ja.wikipedia.org/wiki/Category:日本研究者 "wikilink") [Category:九州産業大学の教員](https://ja.wikipedia.org/wiki/Category:九州産業大学の教員 "wikilink") [Category:コネチカット大学の教員](https://ja.wikipedia.org/wiki/Category:コネチカット大学の教員 "wikilink") [Category:ユダヤ系イギリス人](https://ja.wikipedia.org/wiki/Category:ユダヤ系イギリス人 "wikilink") [Category:ユダヤ系ポーランド人](https://ja.wikipedia.org/wiki/Category:ユダヤ系ポーランド人 "wikilink") [Category:在日ポーランド人](https://ja.wikipedia.org/wiki/Category:在日ポーランド人 "wikilink") [Category:ワルシャワ出身の人物](https://ja.wikipedia.org/wiki/Category:ワルシャワ出身の人物 "wikilink") [Category:1951年生](https://ja.wikipedia.org/wiki/Category:1951年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:リーズ大学出身の人物](https://ja.wikipedia.org/wiki/Category:リーズ大学出身の人物 "wikilink") [Category:ロンドン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ロンドン大学出身の人物 "wikilink") [Category:イェール大学出身の人物](https://ja.wikipedia.org/wiki/Category:イェール大学出身の人物 "wikilink")
+[Category:ポーランドの歴史学者](https://ja.wikipedia.org/wiki/Category:ポーランドの歴史学者 "wikilink") [Category:イギリスの歴史学者](https://ja.wikipedia.org/wiki/Category:イギリスの歴史学者 "wikilink") [Category:日本近現代思想史家](https://ja.wikipedia.org/wiki/Category:日本近現代思想史家 "wikilink") [Category:日本研究者](https://ja.wikipedia.org/wiki/Category:日本研究者 "wikilink") [Category:九州産業大学の教員](https://ja.wikipedia.org/wiki/Category:九州産業大学の教員 "wikilink") [Category:ユダヤ系イギリス人](https://ja.wikipedia.org/wiki/Category:ユダヤ系イギリス人 "wikilink") [Category:ユダヤ系ポーランド人](https://ja.wikipedia.org/wiki/Category:ユダヤ系ポーランド人 "wikilink") [Category:在日ポーランド人](https://ja.wikipedia.org/wiki/Category:在日ポーランド人 "wikilink") [Category:ワルシャワ出身の人物](https://ja.wikipedia.org/wiki/Category:ワルシャワ出身の人物 "wikilink") [Category:1951年生](https://ja.wikipedia.org/wiki/Category:1951年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:リーズ大学出身の人物](https://ja.wikipedia.org/wiki/Category:リーズ大学出身の人物 "wikilink") [Category:ロンドン大学出身の人物](https://ja.wikipedia.org/wiki/Category:ロンドン大学出身の人物 "wikilink") [Category:イェール大学出身の人物](https://ja.wikipedia.org/wiki/Category:イェール大学出身の人物 "wikilink")
 
 1.  『シュピルマンの時計』（[小学館](../Page/小学館.md "wikilink")、2003年）187頁
 2.  鑑定額は60万円。これは『[戦場のピアニスト](../Page/戦場のピアニスト.md "wikilink")』が日本で公開される前の金額である。

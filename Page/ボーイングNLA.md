@@ -1,4 +1,4 @@
-> この記事は[NLA](https://ja.wikipedia.org/wiki/NLA)から翻訳されています。
+> この記事は[ボーイングNLA](https://ja.wikipedia.org/wiki/ボーイングNLA)から翻訳されています。
 
 
 **ボーイングNLA**（**Boeing NLA**）とは、[アメリカの航空機メーカー](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ボーイング](../Page/ボーイング.md "wikilink")社が[ボーイング747](https://ja.wikipedia.org/wiki/ボーイング747 "wikilink")ジャンボジェットよりも大型の[旅客機](../Page/旅客機.md "wikilink")の構想として発表した、New Large Aircraft構想(新大型機旅客機計画)のことである。

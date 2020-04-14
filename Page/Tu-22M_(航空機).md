@@ -1,4 +1,4 @@
-> この記事は[Tu-22M \(\)](https://ja.wikipedia.org/wiki/Tu-22M_\(\))から翻訳されています。
+> この記事は[Tu-22M \(航空機\)](https://ja.wikipedia.org/wiki/Tu-22M_\(航空機\))から翻訳されています。
 
 
 **Tu-22M**(ツポレフ22M；[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):****<small>トゥー・ドヴァーッツァヂ・ドヴァー・エーム</small>)は、[冷戦](../Page/冷戦.md "wikilink")時代に[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[ツポレフ](../Page/ツポレフ.md "wikilink")設計局で設計・製造された中距離[爆撃機](../Page/爆撃機.md "wikilink")である。超音速、[可変翼](../Page/可変翼.md "wikilink")、長航続距離を特徴とし、ソ連では、「ミサイル爆撃機」に分類された。[ロシア](../Page/ロシア.md "wikilink")連邦により現在も運用されている。

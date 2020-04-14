@@ -1,7 +1,7 @@
 > この記事は[MCJ](https://ja.wikipedia.org/wiki/MCJ)から翻訳されています。
 
 
-**株式会社MCJ**（エムシージェイ）は、[コンピュータ](../Page/コンピュータ.md "wikilink")に関連する[企業](../Page/企業.md "wikilink")を傘下とする[持株会社](../Page/持株会社.md "wikilink")である。
+**株式会社MCJ**（エムシージェイ）および傘下の**マウスコンピュータジャパン**を中心とした会社群は、[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")本体および周辺機器を製造販売するグループ企業体である。(有)高島屋衣類店の3代目にあたる高島勇二が19歳で[DOS/V](https://ja.wikipedia.org/wiki/DOS/V "wikilink")自作パソコンの製造販売をはじめた。衣料業を廃業し社名を(有)タカシマとしパソコンに専念。1998年にはマウスコンピュータージャパン(株)と社名変更。パソコン周辺機器会社の買収を経て持株会社MCJ設立。一時期MCJにマウスコンピュータージャパンを吸収して実業兼業もしたが2006年に再び傘下事業会社としてマウスコンピューターを運営している。傘下にはディスプレイで一斉を風靡した[iiyama](https://ja.wikipedia.org/wiki/iiyama "wikilink")などがある。iiyamaは傘下企業として存続したのちマウスコンピュータに吸収してブランドとして維持するなどパソコン事業の国際的な波に応じた変化を続けている。\[1\]
 
 ## 主な沿革
 
@@ -42,3 +42,5 @@
   - [株式会社MCJ](https://www.mcj.jp/)
 
 [Category:日本のコンピュータ企業](https://ja.wikipedia.org/wiki/Category:日本のコンピュータ企業 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:春日部市の企業](https://ja.wikipedia.org/wiki/Category:春日部市の企業 "wikilink") [Category:東証二部上場企業](https://ja.wikipedia.org/wiki/Category:東証二部上場企業 "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink") [Category:1998年設立の企業](https://ja.wikipedia.org/wiki/Category:1998年設立の企業 "wikilink") [Category:2004年上場の企業](https://ja.wikipedia.org/wiki/Category:2004年上場の企業 "wikilink")
+
+1.  <http://mousebto.hatenablog.com/entry/2015/03/13/020000>

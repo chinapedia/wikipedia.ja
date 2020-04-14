@@ -1,4 +1,4 @@
-> この記事は[presents JAM](https://ja.wikipedia.org/wiki/presents_JAM)から翻訳されています。
+> この記事は[まるごとステーションpresents ハイブリッドJAM](https://ja.wikipedia.org/wiki/まるごとステーションpresents_ハイブリッドJAM)から翻訳されています。
 
 
 『**まるごとステーションpresents ハイブリッドJAM**』（まるごとステーションプレゼンツ・ハイブリッドジャム）は、[2006年](../Page/2006年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から同年[10月1日](../Page/10月1日.md "wikilink")まで、[文化放送](../Page/文化放送.md "wikilink")を[キーステーションとして](https://ja.wikipedia.org/wiki/キー局 "wikilink")、[日曜未明に放送されていた](../Page/日曜日.md "wikilink")[音楽](../Page/音楽.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。番組の体裁としては、30分をひとつの単位（一部例外あり）として、タイトルも「まるごと（パーソナリティー名）」で統一している。

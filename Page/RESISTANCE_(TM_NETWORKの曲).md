@@ -1,4 +1,4 @@
-> この記事は[RESISTANCE \(TM NETWORK\)](https://ja.wikipedia.org/wiki/RESISTANCE_\(TM_NETWORK\))から翻訳されています。
+> この記事は[RESISTANCE \(TM NETWORKの曲\)](https://ja.wikipedia.org/wiki/RESISTANCE_\(TM_NETWORKの曲\))から翻訳されています。
 
 
 「**RESISTANCE**」（レジスタンス）は、[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")12枚目のシングル。

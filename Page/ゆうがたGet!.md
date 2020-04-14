@@ -1,4 +1,4 @@
-> この記事は[Get!](https://ja.wikipedia.org/wiki/Get!)から翻訳されています。
+> この記事は[ゆうがたGet!](https://ja.wikipedia.org/wiki/ゆうがたGet!)から翻訳されています。
 
 
 『**ゆうがたGet\!**』（ゆうがたゲット）は、[1999年](../Page/1999年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[テレビ信州](../Page/テレビ信州.md "wikilink")で放送されている[ローカル番組](../Page/ローカル番組.md "wikilink")。
@@ -140,7 +140,7 @@
   - 小出博治（長野国際親善クラブ会長）
   - [小林可奈子](https://ja.wikipedia.org/wiki/小林可奈子 "wikilink")（[アトランタ五輪](https://ja.wikipedia.org/wiki/アトランタ五輪 "wikilink")[MTB](https://ja.wikipedia.org/wiki/MTB "wikilink")日本代表）
   - [小林節子](https://ja.wikipedia.org/wiki/小林節子_\(フリーアナウンサー\) "wikilink")（[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")）
-  - 小長谷悠紀（[長野大学](../Page/長野大学.md "wikilink")環境ツーリズム学部[准教授](../Page/准教授.md "wikilink")）
+  - [小長谷悠紀](https://ja.wikipedia.org/wiki/小長谷悠紀 "wikilink")（[長野大学](../Page/長野大学.md "wikilink")環境ツーリズム学部[准教授](../Page/准教授.md "wikilink")）\[12\]
   - 佐藤隆平（[キルト](https://ja.wikipedia.org/wiki/キルト "wikilink")[作家](../Page/作家.md "wikilink")）
   - [清水まなぶ](../Page/清水まなぶ.md "wikilink")（[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")）
   - 杉野BEAT（[漫画家](https://ja.wikipedia.org/wiki/漫画家 "wikilink")）
@@ -205,7 +205,7 @@
 ## 備考
 
   - さだまさしとコラボレーション
-    2016年3月4日、テレビ信州開局35周年記念特別番組として長野県とも縁のあるシンガーソングライターの[さだまさし](../Page/さだまさし.md "wikilink")と[コラボレーション](../Page/コラボレーション.md "wikilink")し、4時間特番『ゆうがたGet\!プレミアム そ〜なの。信州信濃のさだまさしなの（仮）』が放送された\[12\]。なお、テレビ信州はかつて、開局25周年記念ドキュメンタリー番組「さだまさし 旅詩人〜海人が愛する山里のうた〜」\[13\]を制作・放送したことがあり、テレビ信州とさだがタッグを組むのは約10年ぶりである。
+    2016年3月4日、テレビ信州開局35周年記念特別番組として長野県とも縁のあるシンガーソングライターの[さだまさし](../Page/さだまさし.md "wikilink")と[コラボレーション](../Page/コラボレーション.md "wikilink")し、4時間特番『ゆうがたGet\!プレミアム そ〜なの。信州信濃のさだまさしなの（仮）』が放送された\[13\]。なお、テレビ信州はかつて、開局25周年記念ドキュメンタリー番組「さだまさし 旅詩人〜海人が愛する山里のうた〜」\[14\]を制作・放送したことがあり、テレビ信州とさだがタッグを組むのは約10年ぶりである。
   - [一番Get](../Page/夕方ワイド新潟一番.md "wikilink")\!
     2017年3月3日の18:40-19:56の枠で[テレビ新潟と共同で番組を放送](../Page/テレビ新潟放送網.md "wikilink")。テレビ新潟のスタジオから[諸橋碧](../Page/諸橋碧.md "wikilink")と[堀敏彦](../Page/堀敏彦.md "wikilink")、[伊東陽司](https://ja.wikipedia.org/wiki/伊東陽司 "wikilink")と[内田有紗](https://ja.wikipedia.org/wiki/内田有紗 "wikilink")が出演。
     2018年3月2日はテレビ信州のスタジオから松井美幸、諸橋碧、下嶋兄、寺島舞が出演。
@@ -230,5 +230,6 @@
 9.  2008年10月から2014年3月まではコンビで月曜レギュラーだったが、2014年4月からは分離出演。
 10. 水曜(隔週) - 金曜メインキャスター兼務
 11. 2014年3月31日 - 2015年12月24日は 月 - 金のメインキャスター、2017年4月3日からは月 - 木のメインキャスター
-12.
+12. 前述・伊東秀一の古巣である[IBC岩手放送](https://ja.wikipedia.org/wiki/IBC岩手放送 "wikilink")アナウンサー時代の元同僚。
 13.
+14.

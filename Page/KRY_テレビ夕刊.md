@@ -1,4 +1,4 @@
-> この記事は[KRY ](https://ja.wikipedia.org/wiki/KRY_)から翻訳されています。
+> この記事は[KRY テレビ夕刊](https://ja.wikipedia.org/wiki/KRY_テレビ夕刊)から翻訳されています。
 
 
 『**KRY テレビ夕刊**』（ケイ・アール・ワイ テレビゆうかん）は、[1962年](../Page/1962年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（途中[1974年](../Page/1974年.md "wikilink")から[1976年](../Page/1976年.md "wikilink")の中断期間あり）まで[山口放送](https://ja.wikipedia.org/wiki/山口放送 "wikilink")テレビ局（KRYテレビ）で放送されたローカル[ニュース番組である](../Page/報道番組.md "wikilink")。

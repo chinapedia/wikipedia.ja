@@ -1,4 +1,4 @@
-> この記事は[S.A.S. ](https://ja.wikipedia.org/wiki/S.A.S._)から翻訳されています。
+> この記事は[S.A.S. 英国特殊部隊](https://ja.wikipedia.org/wiki/S.A.S._英国特殊部隊)から翻訳されています。
 
 
 『**S.A.S. 英国特殊部隊**』（エス・エー・エス えいこくとくしゅぶたい、原題：**Ultimate Force**）は、実在の[特殊部隊](../Page/特殊部隊.md "wikilink")「[S.A.S.](https://ja.wikipedia.org/wiki/SAS_\(イギリス陸軍\) "wikilink")」の活躍を描いた[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")[ITV1の](https://ja.wikipedia.org/wiki/w:ITV1 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")。

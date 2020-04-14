@@ -1,4 +1,4 @@
-> この記事は[PA](https://ja.wikipedia.org/wiki/PA)から翻訳されています。
+> この記事は[ジャPAニーズ](https://ja.wikipedia.org/wiki/ジャPAニーズ)から翻訳されています。
 
 
 **ジャPAニーズ** （ジャパニーズ）は、かつて[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属していたバックダンスグループである。愛称は**ジャPA**。旧名は「**ジャパニーズ**」。前身は[ソウルグループ](../Page/ソウルミュージック.md "wikilink")「**インフォメーション**」。1978年結成。1982年5月18日解散。派生グループは「ジャPAニーズ・ジュニア」、「ジャPAニーズHi」。
@@ -165,8 +165,11 @@
 ## 外部リンク
 
   - [トミーズアーティストカンパニー](http://www.tommys.co.jp/)
+
   - [劇団前方公演墳オフィシャルサイト 「ぜんぽうドットNET」](http://www.zenpou.net/)
+
   - [「ボビー吉野ジャズダンススタジオ」](http://www.bobby-dance.com/)
-  - [板野としおの弟子による「リズミックス」紹介ページ](http://www.geocities.co.jp/Bookend-Ryunosuke/5171/)
+
+  -
   -
 [Category:過去のジャニーズ所属者](https://ja.wikipedia.org/wiki/Category:過去のジャニーズ所属者 "wikilink")

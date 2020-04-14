@@ -1,4 +1,4 @@
-> この記事は[ABC](https://ja.wikipedia.org/wiki/ABC)から翻訳されています。
+> この記事は[ABCアシッド映画館](https://ja.wikipedia.org/wiki/ABCアシッド映画館)から翻訳されています。
 
 
 『**ABCアシッド映画館**』（エー・ビー・シー・アシッドえいがかん）は、毎週土曜日深夜に放送されていた[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")（[朝日放送](../Page/朝日放送グループホールディングス.md "wikilink")）自社製作の映画情報・予想番組である。

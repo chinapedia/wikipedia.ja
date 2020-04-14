@@ -1,4 +1,4 @@
-> この記事は[NWA](https://ja.wikipedia.org/wiki/NWA)から翻訳されています。
+> この記事は[NWA世界タッグチーム王座](https://ja.wikipedia.org/wiki/NWA世界タッグチーム王座)から翻訳されています。
 
 
 **NWA世界タッグチーム王座**（エヌ・ダブル・エーせかいタッグチームおうざ、*NWA World Tag Team Championship*）は、[プロレス](../Page/プロレス.md "wikilink")の[王座である](../Page/チャンピオンベルト.md "wikilink")。管理組織は[NWAで](../Page/NWA_\(プロレス\).md "wikilink")、[タッグチーム](../Page/タッグチーム.md "wikilink")を対象とした王座となっている。[TNAが](https://ja.wikipedia.org/wiki/TNAレスリング "wikilink")[2014年](../Page/2014年.md "wikilink")までの独占管理権を有しており、実質的にTNAのタッグ王座となっていたが、[2007年](../Page/2007年.md "wikilink")5月に[TNA世界タッグ王座を設立により](https://ja.wikipedia.org/wiki/TNA世界タッグチーム王座 "wikilink")、剥奪している。

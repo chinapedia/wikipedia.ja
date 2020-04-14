@@ -1,4 +1,4 @@
-> この記事は[Apr \(\)](https://ja.wikipedia.org/wiki/Apr_\(\))から翻訳されています。
+> この記事は[Apr \(自動車事業\)](https://ja.wikipedia.org/wiki/Apr_\(自動車事業\))から翻訳されています。
 
 
 **株式会社エー・ピー・アール**（）は、[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[厚木市](../Page/厚木市.md "wikilink")に本社を置く[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。[モータースポーツ](https://ja.wikipedia.org/wiki/モータースポーツ "wikilink")関連事業を主力とし、自動車用パーツや2輪車用パーツの製造販売も行なっている。

@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[テキトーTV](https://ja.wikipedia.org/wiki/テキトーTV)から翻訳されています。
 
 
 『**テキトーTV ダメバイブル**』（テキトーティーヴィー ダメバイブル）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")『[ドスペ2](../Page/ドスペ2.md "wikilink")』枠で不定期放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。外国語表記は「TEQUITO TV」。

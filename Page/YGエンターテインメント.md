@@ -1,9 +1,9 @@
-> この記事は[YG](https://ja.wikipedia.org/wiki/YG)から翻訳されています。
+> この記事は[YGエンターテインメント](https://ja.wikipedia.org/wiki/YGエンターテインメント)から翻訳されています。
 
 
 **YGエンタテインメント**（、）は、[ヤン・ヒョンソク](https://ja.wikipedia.org/wiki/ヤン・ヒョンソク "wikilink")（梁鉉錫）が設立した[韓国の](../Page/大韓民国.md "wikilink")[芸能事務所](../Page/芸能事務所.md "wikilink")。
 
-[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の自主性を重んじる社風で、[2012年](../Page/2012年.md "wikilink")に[カンナムスタイル](https://ja.wikipedia.org/wiki/カンナムスタイル "wikilink")で世界的に有名となった[PSY](https://ja.wikipedia.org/wiki/PSY "wikilink")に代表されるように多くのアーティストが自ら[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")や[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")を行う。現在の他所属アーティストに日本市場での本格的成功を果たした[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")・[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")・[WINNER](https://ja.wikipedia.org/wiki/WINNER_\(音楽グループ\) "wikilink")・[iKON](https://ja.wikipedia.org/wiki/iKON "wikilink")・[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")などがいる。 しかし、代表のヤンヒョンソク自ら不祥事を起こすなどのことがあった。
+[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")の自主性を重んじる社風で、[2012年](../Page/2012年.md "wikilink")に[カンナムスタイル](https://ja.wikipedia.org/wiki/カンナムスタイル "wikilink")で世界的に有名となった[PSY](https://ja.wikipedia.org/wiki/PSY "wikilink")に代表されるように多くのアーティストが自ら[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")や[パフォーマンス](https://ja.wikipedia.org/wiki/パフォーマンス "wikilink")の[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")を行う。現在の他所属アーティストに日本市場での本格的成功を果たした[BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink")・[2NE1](https://ja.wikipedia.org/wiki/2NE1 "wikilink")・[WINNER](https://ja.wikipedia.org/wiki/WINNER_\(音楽グループ\) "wikilink")・[iKON](https://ja.wikipedia.org/wiki/iKON "wikilink")・[BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")・[TREASURE](https://ja.wikipedia.org/wiki/TREASURE "wikilink")がいる。しかし、代表のヤンヒョンソク自ら不祥事を起こすなどのことがあった。
 
 ## 沿革
 
@@ -52,7 +52,6 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [iKON](https://ja.wikipedia.org/wiki/iKON "wikilink") (아이콘)
   - [Sechs Kies](https://ja.wikipedia.org/wiki/Sechs_Kies "wikilink") (젝스키스)
   - [BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink") (블랙핑크)
-  - [ONE](../Page/ONE.md "wikilink") (원)
   - [TREASURE](https://ja.wikipedia.org/wiki/TREASURE "wikilink") (트레저)
   - [チョン・ソミ](https://ja.wikipedia.org/wiki/チョン・ソミ "wikilink")（전소미)
 
@@ -72,6 +71,7 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [PSY](https://ja.wikipedia.org/wiki/PSY "wikilink") (2018年)
   - [ケイティ・キム](https://ja.wikipedia.org/wiki/ケイティ・キム "wikilink") (2018年)
   - [Epik High](https://ja.wikipedia.org/wiki/Epik_High "wikilink") (2018年)
+  - ONE(チョン・ジェウォン) (2019年)
 
 ### 俳優
 
@@ -80,7 +80,7 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [チャン・ヒョンソン](https://ja.wikipedia.org/wiki/チャン・ヒョンソン "wikilink") （장현성）
   - [チャ・スンウォン](https://ja.wikipedia.org/wiki/チャ・スンウォン "wikilink") （차승원）
   - [カン・ドンウォン](../Page/カン・ドンウォン.md "wikilink") （강동원）
-  - [チェ・スンヒョン](https://ja.wikipedia.org/wiki/T.O.P "wikilink") （T.O.P）
+  - [チェ・スンヒョン](../Page/T.O.P.md "wikilink") （T.O.P）
   - [ソン・ホジュン](https://ja.wikipedia.org/wiki/ソン・ホジュン "wikilink") （손호준）
   - [イ・スヒョク](https://ja.wikipedia.org/wiki/イ・スヒョク "wikilink") （이수혁）
   - [ペ・ジョンナム](https://ja.wikipedia.org/wiki/ペ・ジョンナム "wikilink") （배정남）
@@ -120,6 +120,9 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - カン・ウクジン
   - DEE.P
   - レベッカ・ジョンソン
+  - R.tee
+  - MILLENIUM
+  - AiRPLAY
 
 ## ディスコグラフィ
 

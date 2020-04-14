@@ -1,4 +1,4 @@
-> この記事は[FZX](https://ja.wikipedia.org/wiki/FZX)から翻訳されています。
+> この記事は[ヤマハ・FZX](https://ja.wikipedia.org/wiki/ヤマハ・FZX)から翻訳されています。
 
 
 **FZX**（エフゼットエックス）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が販売していた[オートバイ](../Page/オートバイ.md "wikilink")の車種名である。[排気量](../Page/排気量.md "wikilink")を付さず単にFZXと称する場合は[750ccの](../Page/ナナハン.md "wikilink")「FZX750」を指す場合が多い。なお250ccネイキッド「[ジール](../Page/ヤマハ・ジール.md "wikilink")」の機種名も「FZX250」であるが、本項では[大型自動二輪車](../Page/大型自動二輪車.md "wikilink")のシリーズ車両について詳述する。

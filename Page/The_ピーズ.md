@@ -1,4 +1,4 @@
-> この記事は[The ](https://ja.wikipedia.org/wiki/The_)から翻訳されています。
+> この記事は[The ピーズ](https://ja.wikipedia.org/wiki/The_ピーズ)から翻訳されています。
 
 
 **Theピーズ** （ザ・ピーズ,*The Pees*）は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に結成した日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[8月](../Page/8月.md "wikilink")の東北ツアーを最後に一旦活動休止し、[2002年](../Page/2002年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に活動再開した。

@@ -1,4 +1,4 @@
-> この記事は[BEYOND THE TIME \(\)](https://ja.wikipedia.org/wiki/BEYOND_THE_TIME_\(\))から翻訳されています。
+> この記事は[BEYOND THE TIME \(メビウスの宇宙を越えて\)](https://ja.wikipedia.org/wiki/BEYOND_THE_TIME_\(メビウスの宇宙を越えて\))から翻訳されています。
 
 
 「**BEYOND THE TIME (メビウスの宇宙を越えて)**」（ビヨンド・ザ・タイム メビウスのそらをこえて）は、[TM NETWORKの](../Page/TM_NETWORK.md "wikilink")13枚目のシングル。[1988年](../Page/1988年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")発売。発売元は[エピックソニーレコード](../Page/エピックレコードジャパン.md "wikilink")。
@@ -40,7 +40,7 @@
   - [CAROL DELUXE EDITION](../Page/CAROL_〜A_DAY_IN_A_GIRL'S_LIFE_1991〜.md "wikilink") (Disc2に“Expanded Version”、Disc3に“Expanded Version”基調のインスト版が収録)
   - [TETSUYA KOMURO ARCHIVES](https://ja.wikipedia.org/wiki/TETSUYA_KOMURO_ARCHIVES "wikilink") (CDシングルのカットアウト版)
   - [Gift from Fanks T](../Page/Gift_from_Fanks_T.md "wikilink") (Expanded Version)
-  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")
+  - [Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink") (EPのフェードアウト版)
 
 ## カバー
 

@@ -109,6 +109,6 @@
 
 ## 備考
 
-山田は番組初回の自己紹介において、「まりや」の「や」の字を強調しながら挨拶していた。これは、「山田まりあ」と誤記されることが多かったことと、ほぼ同時期に「山田まりあ」という彼女とは別人の[ヌードモデル](../Page/ヌードモデル.md "wikilink")がグラビア誌に登場していたことに起因する。
+山田まりやは番組初回の自己紹介において、「まりや」の「や」の字を強調しながら挨拶していた。これは、「山田まりあ」と誤記されることが多かったことと、ほぼ同時期に山田まりあという別人の[ヌードモデル](../Page/ヌードモデル.md "wikilink")がグラビア誌に登場していたことに起因する。
 
 [Category:1996年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1996年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京のバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のバラエティ番組の歴史 "wikilink") [Category:テレビ東京の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の深夜番組の歴史 "wikilink") [Category:テレビのアイドル番組](https://ja.wikipedia.org/wiki/Category:テレビのアイドル番組 "wikilink") [Category:テレビのお色気番組](https://ja.wikipedia.org/wiki/Category:テレビのお色気番組 "wikilink")

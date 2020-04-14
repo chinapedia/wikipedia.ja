@@ -1,4 +1,4 @@
-> この記事は[YOU](https://ja.wikipedia.org/wiki/YOU)から翻訳されています。
+> この記事は[スタジオYOU](https://ja.wikipedia.org/wiki/スタジオYOU)から翻訳されています。
 
 
 **スタジオYOU**は、[ユウメディア](../Page/ユウメディア.md "wikilink")が主催する[同人誌即売会](../Page/同人誌即売会.md "wikilink")事業のブランド名。全国各地で即売会を開催している。

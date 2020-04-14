@@ -1,4 +1,4 @@
-> この記事は[H.Q.](https://ja.wikipedia.org/wiki/H.Q.)から翻訳されています。
+> この記事は[チェイスH.Q.](https://ja.wikipedia.org/wiki/チェイスH.Q.)から翻訳されています。
 
 
 『**チェイスH.Q.**』（*Chase H.Q.*）は、[1988年](../Page/1988年.md "wikilink")に日本の[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")から稼働された[アーケード用](../Page/アーケードゲーム.md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")。

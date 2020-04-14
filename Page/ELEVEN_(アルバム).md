@@ -1,4 +1,4 @@
-> この記事は[ELEVEN \(\)](https://ja.wikipedia.org/wiki/ELEVEN_\(\))から翻訳されています。
+> この記事は[ELEVEN \(アルバム\)](https://ja.wikipedia.org/wiki/ELEVEN_\(アルバム\))から翻訳されています。
 
 
 『**ELEVEN**』(イレヴン)は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")・[B'z](../Page/B'z.md "wikilink")の11作目の[オリジナル・アルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")に[Rooms RECORDSよりリリース](../Page/VERMILLION_RECORDS.md "wikilink")。
@@ -186,7 +186,7 @@
 6.  当時は「SURFIN' 2000」
 7.
 8.
-9.  「[May](../Page/May_\(B'zの曲\).md "wikilink")」の2nd beatとなった「You pray, I stay」も彼との共同作業で制作された曲
+9.  28thシングル『[May](../Page/May_\(B'zの曲\).md "wikilink")』の2nd beatとなった「You pray, I stay」も彼との共同作業で制作された曲
 10.
 11.
 12.

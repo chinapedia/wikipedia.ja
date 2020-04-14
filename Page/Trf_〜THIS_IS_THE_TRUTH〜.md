@@ -1,4 +1,4 @@
-> この記事は[Trf THIS IS THE TRUTH](https://ja.wikipedia.org/wiki/Trf_THIS_IS_THE_TRUTH)から翻訳されています。
+> この記事は[Trf 〜THIS IS THE TRUTH〜](https://ja.wikipedia.org/wiki/Trf_〜THIS_IS_THE_TRUTH〜)から翻訳されています。
 
 
 『**trf 〜THIS IS THE TRUTH〜**』（ティーアールエフ・ディス・イズ・ザ・トゥルース）は、[trfのデビューアルバムである](../Page/TRF.md "wikilink")。[1993年](../Page/1993年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")発売。発売元は[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[Dカード](https://ja.wikipedia.org/wiki/Dカード)から翻訳されています。
 
 
 **dカード**（ディーカード）とは、株式会社[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")（以下「ドコモ」）の[クレジットサービスである](https://ja.wikipedia.org/wiki/信用販売 "wikilink")。旧称は**DCMX**（ディーシーエムエックス）。

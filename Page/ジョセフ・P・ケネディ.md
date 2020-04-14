@@ -1,4 +1,4 @@
-> この記事は[P](https://ja.wikipedia.org/wiki/P)から翻訳されています。
+> この記事は[ジョセフ・P・ケネディ](https://ja.wikipedia.org/wiki/ジョセフ・P・ケネディ)から翻訳されています。
 
 
 **ジョセフ・パトリック・“ジョー”・ケネディ・シニア**（Joseph Patrick "Joe" Kennedy, Sr.、[1888年](../Page/1888年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink") - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[11月18日](../Page/11月18日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[政治家](../Page/政治家.md "wikilink")・[実業家](../Page/実業家.md "wikilink")、第35代[大統領の](../Page/アメリカ合衆国大統領.md "wikilink")[ジョン・F・ケネディ](../Page/ジョン・F・ケネディ.md "wikilink")の父である。「ジョー」は「ジョセフ」の[短縮形](https://ja.wikipedia.org/wiki/英語人名の短縮形 "wikilink")。

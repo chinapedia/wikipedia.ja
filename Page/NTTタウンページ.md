@@ -1,4 +1,4 @@
-> この記事は[NTT](https://ja.wikipedia.org/wiki/NTT)から翻訳されています。
+> この記事は[NTTタウンページ](https://ja.wikipedia.org/wiki/NTTタウンページ)から翻訳されています。
 
 
 **NTTタウンページ株式会社**（エヌ・ティ・ティタウンページ、英:NTT TownPage Corporation）は、1999年3月、再編成実施前の[日本電信電話](../Page/日本電信電話.md "wikilink")（NTT）の電話帳部門と情報案内部門の統合・一本化により営業開始した[企業](../Page/企業.md "wikilink")。現在は[東日本電信電話](../Page/東日本電信電話.md "wikilink")（NTT東日本）が100パーセント出資しており、[電話帳](../Page/電話帳.md "wikilink")の発行・[電話番号案内](../Page/電話番号案内.md "wikilink")・データベース販売などを行っている。

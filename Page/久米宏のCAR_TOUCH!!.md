@@ -1,4 +1,4 @@
-> この記事は[CAR TOUCH!!](https://ja.wikipedia.org/wiki/CAR_TOUCH!!)から翻訳されています。
+> この記事は[久米宏のCAR TOUCH!!](https://ja.wikipedia.org/wiki/久米宏のCAR_TOUCH!!)から翻訳されています。
 
 
 **久米宏のCAR TOUCH\!\!**（くめひろしのカータッチ）は、[USEN](../Page/USEN.md "wikilink")が運営する[インターネット](../Page/インターネット.md "wikilink")動画配信サービス・[GyaOで配信された](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、[オフィス・トゥー・ワン](../Page/オフィス・トゥー・ワン.md "wikilink")制作の自動車番組である。

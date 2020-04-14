@@ -1,4 +1,4 @@
-> この記事は[-Kiss the Future-](https://ja.wikipedia.org/wiki/-Kiss_the_Future-)から翻訳されています。
+> この記事は[未来にキスを-Kiss the Future-](https://ja.wikipedia.org/wiki/未来にキスを-Kiss_the_Future-)から翻訳されています。
 
 
 『**未来にキスを -Kiss the Future-**』（みらいにキスを）は、2001年9月21日に[otherwise](https://ja.wikipedia.org/wiki/otherwise "wikilink")（[ビジュアルアーツ](../Page/ビジュアルアーツ.md "wikilink")傘下の美少女ゲームブランド）より発売された18禁アドベンチャーゲームである。otherwise解散後の2005年7月15日に[13cm](../Page/13cm.md "wikilink")よりStandard Editionが発売されたほか、2017年11月にはアニゲマよりAndroid移植版が発売された\[1\]。

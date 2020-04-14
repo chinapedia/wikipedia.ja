@@ -1,4 +1,4 @@
-> この記事は[HNK](https://ja.wikipedia.org/wiki/HNK)から翻訳されています。
+> この記事は[HNKハイドゥク・スプリト](https://ja.wikipedia.org/wiki/HNKハイドゥク・スプリト)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Poljud_-_full_stands.jpg "wikilink") **フルヴァツキ・ノゴメトニ・クルブ・ハイドゥク・スプリトŠ.D.D.**（**Hrvatski nogometni klub Hajduk Split Š.D.D.**）は、[クロアチア](../Page/クロアチア.md "wikilink")・[スプリト](../Page/スプリト.md "wikilink")を本拠地とするサッカークラブ。

@@ -1,4 +1,4 @@
-> この記事は[PIKANCHI](https://ja.wikipedia.org/wiki/PIKANCHI)から翻訳されています。
+> この記事は[PIKA☆NCHI](https://ja.wikipedia.org/wiki/PIKA☆NCHI)から翻訳されています。
 
 
 「**PIKA☆NCHI**」（ピカンチ）は、[嵐の](../Page/嵐_\(グループ\).md "wikilink")9枚目の[シングル](../Page/シングル.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")に[J Stormから発売された](../Page/ジェイ・ストーム.md "wikilink")。

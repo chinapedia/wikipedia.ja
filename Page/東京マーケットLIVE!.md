@@ -1,4 +1,4 @@
-> この記事は[LIVE!](https://ja.wikipedia.org/wiki/LIVE!)から翻訳されています。
+> この記事は[東京マーケットLIVE!](https://ja.wikipedia.org/wiki/東京マーケットLIVE!)から翻訳されています。
 
 
 **東京マーケットLIVE\!**（とうきょうマーケットライブ）は、[ラジオNIKKEIの第](../Page/日経ラジオ社.md "wikilink")1・第2放送他で、[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")の間放送されていた総合経済[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")である。

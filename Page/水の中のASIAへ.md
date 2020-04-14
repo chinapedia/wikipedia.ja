@@ -1,4 +1,4 @@
-> この記事は[ASIA](https://ja.wikipedia.org/wiki/ASIA)から翻訳されています。
+> この記事は[水の中のASIAへ](https://ja.wikipedia.org/wiki/水の中のASIAへ)から翻訳されています。
 
 
 『**水の中のASIAへ**』（みずのなかのアジアへ）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の[12インチEPで](../Page/レコード.md "wikilink")、11枚目のオリジナルアルバムとカウントされている作品。[1981年](../Page/1981年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[EP](../Page/レコード.md "wikilink")：ETP-40143、[CT](../Page/コンパクトカセット.md "wikilink")：ZT15-789）。

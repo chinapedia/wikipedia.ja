@@ -1,4 +1,4 @@
-> この記事は[GALZOO](https://ja.wikipedia.org/wiki/GALZOO)から翻訳されています。
+> この記事は[GALZOOアイランド](https://ja.wikipedia.org/wiki/GALZOOアイランド)から翻訳されています。
 
 
 『**GALZOO アイランド**』（ギャルズーアイランド）は、[2005年](../Page/2005年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[アリスソフト](../Page/アリスソフト.md "wikilink")から発売された[18禁](../Page/アダルトゲーム.md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。2009年3月19日に廉価版が発売された。

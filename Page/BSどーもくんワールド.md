@@ -1,4 +1,4 @@
-> この記事は[BS](https://ja.wikipedia.org/wiki/BS)から翻訳されています。
+> この記事は[BSどーもくんワールド](https://ja.wikipedia.org/wiki/BSどーもくんワールド)から翻訳されています。
 
 
 **BSどーもくんワールド**（びーえす- ）は、[2002年](../Page/2002年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[NHKBS2で放送された](../Page/NHK衛星第2テレビジョン.md "wikilink")[こども番組である](../Page/子供番組.md "wikilink")。

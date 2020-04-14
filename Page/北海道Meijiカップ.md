@@ -1,4 +1,4 @@
-> この記事は[Meiji](https://ja.wikipedia.org/wiki/Meiji)から翻訳されています。
+> この記事は[北海道Meijiカップ](https://ja.wikipedia.org/wiki/北海道Meijiカップ)から翻訳されています。
 
 
 **北海道meiji（明治）カップ**（ほっかいどうめいじカップ）は[日本女子プロゴルフ協会](../Page/日本女子プロゴルフ協会.md "wikilink")公認による女子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントの一つである](../Page/トーナメント方式.md "wikilink")。[2017年](../Page/2017年.md "wikilink")からこの大会名称となり、8月第1週に開催されている。[北海道文化放送](../Page/北海道文化放送.md "wikilink")・[北海道新聞](../Page/北海道新聞.md "wikilink")社・[道新スポーツ](../Page/道新スポーツ.md "wikilink")主催、[明治グループ](https://ja.wikipedia.org/wiki/明治_\(企業\) "wikilink")（2010年までは[明治製菓](../Page/明治製菓.md "wikilink")）の特別協賛により行われている。[2019年](../Page/2019年.md "wikilink")現在、賞金総額9000万円、優勝賞金1620万円\[1\]。

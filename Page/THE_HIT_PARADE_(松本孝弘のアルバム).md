@@ -1,4 +1,4 @@
-> この記事は[THE HIT PARADE \(\)](https://ja.wikipedia.org/wiki/THE_HIT_PARADE_\(\))から翻訳されています。
+> この記事は[THE HIT PARADE \(松本孝弘のアルバム\)](https://ja.wikipedia.org/wiki/THE_HIT_PARADE_\(松本孝弘のアルバム\))から翻訳されています。
 
 
 『**THE HIT PARADE**』（ザ・ヒット・パレード）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[ギタリスト](../Page/ギタリスト.md "wikilink")である[松本孝弘](../Page/松本孝弘.md "wikilink")が、「**TAK MATSUMOTO**」名義でリリースした6作目のアルバム。

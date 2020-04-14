@@ -1,4 +1,4 @@
-> この記事は[M](https://ja.wikipedia.org/wiki/M)から翻訳されています。
+> この記事は[アーサー・M・サックラー・ギャラリー](https://ja.wikipedia.org/wiki/アーサー・M・サックラー・ギャラリー)から翻訳されています。
 
 
 [Sackler_Gallery.jpg](https://ja.wikipedia.org/wiki/File:Sackler_Gallery.jpg "fig:Sackler_Gallery.jpg")

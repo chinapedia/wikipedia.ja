@@ -1,4 +1,4 @@
-> この記事は[Q \(\)](https://ja.wikipedia.org/wiki/Q_\(\))から翻訳されています。
+> この記事は[チョロQ \(ゲーム\)](https://ja.wikipedia.org/wiki/チョロQ_\(ゲーム\))から翻訳されています。
 
 
 「**チョロQ**」（チョロキュー）は、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現:[タカラトミー](../Page/タカラトミー.md "wikilink")）から発売されている[ぜんまい式](../Page/ぜんまいばね.md "wikilink")[ミニカー](../Page/ミニカー_\(玩具\).md "wikilink")、[チョロQ](../Page/チョロQ.md "wikilink")を題材にした[ゲームソフト](../Page/ゲームソフト.md "wikilink")のシリーズである。一般的にシリーズと認識されているのは[1996年](../Page/1996年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")に発売されたPS版第一作以降のテレビゲーム作品であるが、ここではPC用ゲームソフトとして発売されたものも記述する。
@@ -19,7 +19,7 @@
 
 ## シリーズ
 
-<small>機種略称 PS＝[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、PS2＝[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、PSVita＝[PlayStation VitaN](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")64＝[NINTENDO64](../Page/NINTENDO64.md "wikilink")、GC＝[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、Wii＝[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、GB＝[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")、GBA＝[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、SS＝[セガサターン](../Page/セガサターン.md "wikilink")、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")、88=[PC-8801](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")、Win=[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、Mac=[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、mob=[携帯電話](../Page/携帯電話.md "wikilink")、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")ゲーム=ひかりTV</small>
+<small>機種略称 PS＝[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、PS2＝[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、PSVita＝[PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、N64＝[NINTENDO64](../Page/NINTENDO64.md "wikilink")、GC＝[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、Wii＝[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、GB＝[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")、GBA＝[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")、SS＝[セガサターン](../Page/セガサターン.md "wikilink")、[MSX](https://ja.wikipedia.org/wiki/MSX "wikilink")、88=[PC-8801](https://ja.wikipedia.org/wiki/PC-8801 "wikilink")、Win=[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、Mac=[Mac OS](https://ja.wikipedia.org/wiki/Mac_OS "wikilink")、mob=[携帯電話](../Page/携帯電話.md "wikilink")、[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")ゲーム=ひかりTV</small>
 
   - チョロQ（PS）
 

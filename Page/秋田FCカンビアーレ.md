@@ -1,7 +1,7 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[秋田FCカンビアーレ](https://ja.wikipedia.org/wiki/秋田FCカンビアーレ)から翻訳されています。
 
 
-**秋田FCカンビアーレ**（あきたエフシーカンビアーレ、'' Akita FC Cambiare''）は、[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")をホームタウンとする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のクラブチーム。[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")
+**秋田FCカンビアーレ**（あきたエフシーカンビアーレ、'' Akita FC Cambiare''）は、[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")をホームタウンとする社会人[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")のクラブチーム。[東北社会人サッカーリーグ](../Page/東北社会人サッカーリーグ.md "wikilink")2部北所属。
 
 ## 概要
 
@@ -63,7 +63,7 @@
 | [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\) "wikilink") | 東北2部北                                       | 2位     | 44 | 18 | 14 | 2  | 2  | 57 | 18   | 39   |                                                     |
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | **優勝**                                      | 41     | 18 | 13 | 2  | 3  | 58 | 22 | 36   |      |                                                     |
 | [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 東北1部                                        | 7位     | 18 | 22 | 7  | 1  | 10 | 24 | 36   | \-12 | 菊池広之                                                |
-| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") |                                             |        |    |    |    |    |    |    |      |      |                                                     |
+| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 10位                                         | 10     | 18 | 3  | 1  | 14 | 21 | 86 | \-65 |      |                                                     |
 
 ## 所属選手・スタッフ
 

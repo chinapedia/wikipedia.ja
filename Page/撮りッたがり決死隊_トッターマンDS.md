@@ -1,4 +1,4 @@
-> この記事は[ DS](https://ja.wikipedia.org/wiki/_DS)から翻訳されています。
+> この記事は[撮りッたがり決死隊 トッターマンDS](https://ja.wikipedia.org/wiki/撮りッたがり決死隊_トッターマンDS)から翻訳されています。
 
 
 『**撮りッたがり決死隊 トッターマンDS**』は、[2006年](../Page/2006年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[系で放送された](https://ja.wikipedia.org/wiki/TXN "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。[帯番組](https://ja.wikipedia.org/wiki/帯番組 "wikilink")「[スキバラ](../Page/スキバラ.md "wikilink")」の[水曜日](../Page/水曜日.md "wikilink")にあたる。放送時間は18:30 - 19:00 ([JST](../Page/日本標準時.md "wikilink"))。

@@ -1,4 +1,4 @@
-> この記事は[KDX](https://ja.wikipedia.org/wiki/KDX)から翻訳されています。
+> この記事は[カワサキ・KDX](https://ja.wikipedia.org/wiki/カワサキ・KDX)から翻訳されています。
 
 
 **KDX**（ケーディーエックス）とは、かつて[川崎重工業](../Page/川崎重工業.md "wikilink")が製造していた[2ストロークのオフロードタイプの](https://ja.wikipedia.org/wiki/2サイクル機関 "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。

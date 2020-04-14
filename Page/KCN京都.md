@@ -1,4 +1,4 @@
-> この記事は[KCN](https://ja.wikipedia.org/wiki/KCN)から翻訳されています。
+> この記事は[KCN京都](https://ja.wikipedia.org/wiki/KCN京都)から翻訳されています。
 
 
 株式会社**KCN京都**は、[京都府](../Page/京都府.md "wikilink")[相楽郡](../Page/相楽郡.md "wikilink")[精華町](../Page/精華町.md "wikilink")に本社がある[近鉄グループ](https://ja.wikipedia.org/wiki/近鉄グループ "wikilink")の[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局である。[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に[近鉄ケーブルネットワーク](../Page/近鉄ケーブルネットワーク.md "wikilink")京都支店とキネットが経営統合し、キネットから社名変更して再スタートした。

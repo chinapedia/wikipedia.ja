@@ -1,4 +1,4 @@
-> この記事は[III](https://ja.wikipedia.org/wiki/III)から翻訳されています。
+> この記事は[決戦III](https://ja.wikipedia.org/wiki/決戦III)から翻訳されています。
 
 
 『**決戦III**』（けっせんスリー）は、[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")。「[決戦シリーズ](https://ja.wikipedia.org/wiki/決戦シリーズ "wikilink")」の第3作。舞台は戦国時代の日本、主人公の[織田信長](../Page/織田信長.md "wikilink")やその周りの家臣たちを操作し、ストーリーを進めていくゲームである。

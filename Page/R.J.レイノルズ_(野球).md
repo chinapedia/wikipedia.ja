@@ -1,4 +1,4 @@
-> この記事は[R.J. \(\)](https://ja.wikipedia.org/wiki/R.J._\(\))から翻訳されています。
+> この記事は[R.J.レイノルズ \(野球\)](https://ja.wikipedia.org/wiki/R.J.レイノルズ_\(野球\))から翻訳されています。
 
 
 **ロバート・ジェームズ・レイノルズ**（**Robert James "R. J." Reynolds** , [1959年](../Page/1959年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")出身の元[プロ野球選手](../Page/プロ野球選手.md "wikilink")（[外野手](../Page/外野手.md "wikilink")）。右投両打。ニックネームとして「**R.J.**」と呼ばれていた。

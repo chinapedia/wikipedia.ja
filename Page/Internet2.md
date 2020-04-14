@@ -1,7 +1,7 @@
 > この記事は[Internet2](https://ja.wikipedia.org/wiki/Internet2)から翻訳されています。
 
 
-**Internet2**（インターネット2）とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の最先端[ネットワーキング](../Page/コンピュータネットワーク.md "wikilink")[コンソーシアム](../Page/コンソーシアム.md "wikilink")であり、[研究](../Page/研究.md "wikilink")[教育](../Page/教育.md "wikilink")[コミュニティ](https://ja.wikipedia.org/wiki/コミュニティ "wikilink")、[企業](../Page/企業.md "wikilink")、[政府](../Page/政府.md "wikilink")機関などがメンバーとして参加している\[1\]。正確な表記は"the internet"。
+**Internet2**（インターネット2）とは、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の最先端[ネットワーキング](../Page/コンピュータネットワーク.md "wikilink")[コンソーシアム](../Page/コンソーシアム.md "wikilink")であり、[研究](../Page/研究.md "wikilink")[教育](../Page/教育.md "wikilink")[コミュニティ](https://ja.wikipedia.org/wiki/コミュニティ "wikilink")、[企業](../Page/企業.md "wikilink")、[政府](../Page/政府.md "wikilink")機関などがメンバーとして参加している\[1\]。正確な表記は"the Internet"。
 
 ## 概要
 

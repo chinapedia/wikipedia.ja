@@ -1,4 +1,4 @@
-> この記事は[-CDM](https://ja.wikipedia.org/wiki/-CDM)から翻訳されています。
+> この記事は[Λ-CDMモデル](https://ja.wikipedia.org/wiki/Λ-CDMモデル)から翻訳されています。
 
 
 **Λ-CDMモデル**とは、「[冷たい暗黒物質](https://ja.wikipedia.org/wiki/冷たい暗黒物質 "wikilink") （Cold Dark Matter, CDM）モデル」に[宇宙項](https://ja.wikipedia.org/wiki/宇宙項 "wikilink") Λ を加えた宇宙モデルのこと。英語圏では“Lambda-Cold Dark Matter Model”とも表記し、「ラムダ・コールド・ダークマター・モデル」と読む。**Λ-CDM**あるいは**LCDM**と略記される場合が多い\[1\]。それを敢えて日本語に直訳すれば「ラムダ項入りの冷たいダークマター・モデル」あるいは「宇宙項入りの冷たい暗黒物質モデル」などとなるが、いずれにせよ不自然な日本語になるため、ここでは**Λ-CDMモデル**という表記を採用する。

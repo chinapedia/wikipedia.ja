@@ -1,4 +1,4 @@
-> この記事は[BMW5](https://ja.wikipedia.org/wiki/BMW5)から翻訳されています。
+> この記事は[BMW・5シリーズ](https://ja.wikipedia.org/wiki/BMW・5シリーズ)から翻訳されています。
 
 
 [300px](https://ja.wikipedia.org/wiki/ファイル:BMW_523d_Luxury_\(G30\)_by_Japan_specification.jpg "wikilink") **BMW・5シリーズ**（*BMW 5 Series* ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー・[BMW](../Page/BMW.md "wikilink")が製造・販売している[セダン](../Page/セダン.md "wikilink")あるいは[ステーションワゴン](../Page/ステーションワゴン.md "wikilink")である。

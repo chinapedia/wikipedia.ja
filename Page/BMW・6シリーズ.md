@@ -1,4 +1,4 @@
-> この記事は[BMW6](https://ja.wikipedia.org/wiki/BMW6)から翻訳されています。
+> この記事は[BMW・6シリーズ](https://ja.wikipedia.org/wiki/BMW・6シリーズ)から翻訳されています。
 
 
 [350px](https://ja.wikipedia.org/wiki/ファイル:BMW_M5_\(8504340557\).jpg "wikilink") **BMW 6シリーズ**は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[自動車](../Page/自動車.md "wikilink")メーカー・[BMW](../Page/BMW.md "wikilink")が製造・販売している[乗用車](../Page/乗用車.md "wikilink")である。[クーペ](../Page/クーペ.md "wikilink")・[カブリオレ](../Page/オープンカー.md "wikilink")・グランツーリスモ(ラグジュアリー・ハッチバック)のボディ形式を持つ。

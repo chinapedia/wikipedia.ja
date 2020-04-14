@@ -1,4 +1,4 @@
-> この記事は[JCR](https://ja.wikipedia.org/wiki/JCR)から翻訳されています。
+> この記事は[JCRファーマ](https://ja.wikipedia.org/wiki/JCRファーマ)から翻訳されています。
 
 
 **JCRファーマ株式会社**は、[兵庫県](../Page/兵庫県.md "wikilink")[芦屋市](https://ja.wikipedia.org/wiki/芦屋市 "wikilink")に本社を置く[医薬品](../Page/医薬品.md "wikilink")メーカー。

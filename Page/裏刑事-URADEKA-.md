@@ -1,4 +1,4 @@
-> この記事は[-URADEKA-](https://ja.wikipedia.org/wiki/-URADEKA-)から翻訳されています。
+> この記事は[裏刑事-URADEKA-](https://ja.wikipedia.org/wiki/裏刑事-URADEKA-)から翻訳されています。
 
 
 『**裏刑事**』（うらでか）は、[1992年](../Page/1992年.md "wikilink")4月14日から同年6月30日まで、[テレビ朝日系列で放映された](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")[松竹芸能](../Page/松竹芸能.md "wikilink")・[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")制作のテレビドラマである。放送時間は、毎週[火曜](../Page/火曜日.md "wikilink")21:00 - 21:54（[JST](../Page/日本標準時.md "wikilink")）。全12話。

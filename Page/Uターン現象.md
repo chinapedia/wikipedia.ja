@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[Uターン現象](https://ja.wikipedia.org/wiki/Uターン現象)から翻訳されています。
 
 
 **Uターン現象**（ユーターンげんしょう）とは、[人口](../Page/人口.md "wikilink")還流現象のひとつで、[地方](../Page/地方.md "wikilink")から[都市](../Page/都市.md "wikilink")部へ移住した者が再び地方の生まれ故郷に戻る現象。人の流れを[地図](../Page/地図.md "wikilink")上に見立てて[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")の[U](../Page/U.md "wikilink")の字を描くような移動のためにこう呼ばれる。

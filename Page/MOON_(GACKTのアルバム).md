@@ -1,4 +1,4 @@
-> この記事は[MOON \(GACKT\)](https://ja.wikipedia.org/wiki/MOON_\(GACKT\))から翻訳されています。
+> この記事は[MOON \(GACKTのアルバム\)](https://ja.wikipedia.org/wiki/MOON_\(GACKTのアルバム\))から翻訳されています。
 
 
 『**MOON**』（ムーン）は、[2002年](../Page/2002年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")に発表された[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")の3枚目のフル[アルバム](../Page/アルバム.md "wikilink")。

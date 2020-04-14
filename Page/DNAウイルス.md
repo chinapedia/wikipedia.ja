@@ -1,4 +1,4 @@
-> この記事は[DNA](https://ja.wikipedia.org/wiki/DNA)から翻訳されています。
+> この記事は[DNAウイルス](https://ja.wikipedia.org/wiki/DNAウイルス)から翻訳されています。
 
 
 **DNAウイルス**とは、[ゲノム](../Page/ゲノム.md "wikilink")として[DNAをもつ](../Page/デオキシリボ核酸.md "wikilink")[ウイルス](../Page/ウイルス.md "wikilink")のこと。

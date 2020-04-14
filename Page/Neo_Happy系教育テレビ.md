@@ -1,4 +1,4 @@
-> この記事は[Neo Happy](https://ja.wikipedia.org/wiki/Neo_Happy)から翻訳されています。
+> この記事は[Neo Happy系教育テレビ](https://ja.wikipedia.org/wiki/Neo_Happy系教育テレビ)から翻訳されています。
 
 
 『**Neo Happy系教育テレビ**』（ネオハッピーけい きょういくテレビ）は、[2006年](../Page/2006年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで[テレビ大阪](../Page/テレビ大阪.md "wikilink")で放送されていた[SODクリエイト](../Page/SODクリエイト.md "wikilink")製作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[お色気番組](../Page/お色気番組.md "wikilink")）である。放送時間は毎週[金曜](../Page/金曜日.md "wikilink") 25時30分 - 26時00分（[土曜](../Page/土曜日.md "wikilink") 1時30分 - 2時00分）。

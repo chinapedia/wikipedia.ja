@@ -1,4 +1,4 @@
-> この記事は[ \(DREAMS COME TRUE\)](https://ja.wikipedia.org/wiki/_\(DREAMS_COME_TRUE\))から翻訳されています。
+> この記事は[忘れないで \(DREAMS COME TRUEの曲\)](https://ja.wikipedia.org/wiki/忘れないで_\(DREAMS_COME_TRUEの曲\))から翻訳されています。
 
 
 「**忘れないで**」（わすれないで）は、[1991年](../Page/1991年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")にリリースされた[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")10枚目の[シングル](../Page/シングル.md "wikilink")。
@@ -34,4 +34,4 @@
 
   - THE RANKIN FILE PROJECT (1992年、アルバム『ENGLISH COVERVERSION IN HIT POPS 1』収録)
 
-[Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:イ短調](https://ja.wikipedia.org/wiki/Category:イ短調 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")
+[Category:DREAMS_COME_TRUEの楽曲](https://ja.wikipedia.org/wiki/Category:DREAMS_COME_TRUEの楽曲 "wikilink") [Category:1991年のシングル](https://ja.wikipedia.org/wiki/Category:1991年のシングル "wikilink") [Category:吉田美和が制作した楽曲](https://ja.wikipedia.org/wiki/Category:吉田美和が制作した楽曲 "wikilink") [Category:楽曲_わ](https://ja.wikipedia.org/wiki/Category:楽曲_わ "wikilink")

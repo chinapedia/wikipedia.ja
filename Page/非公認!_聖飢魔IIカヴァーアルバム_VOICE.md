@@ -1,4 +1,4 @@
-> この記事は[! II VOICE](https://ja.wikipedia.org/wiki/!_II_VOICE)から翻訳されています。
+> この記事は[非公認! 聖飢魔IIカヴァーアルバム VOICE](https://ja.wikipedia.org/wiki/非公認!_聖飢魔IIカヴァーアルバム_VOICE)から翻訳されています。
 
 
 『**非公認\! 聖飢魔IIカヴァーアルバム VOICE**』（ひこうにん\! せいきまつカヴァーアルバム ヴォイス）は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")地球デビュー20周年を記念してリリースされたカヴァー・アルバム。

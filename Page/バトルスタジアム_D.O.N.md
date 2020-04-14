@@ -1,11 +1,11 @@
-> この記事は[ D.O.N](https://ja.wikipedia.org/wiki/_D.O.N)から翻訳されています。
+> この記事は[バトルスタジアム D.O.N](https://ja.wikipedia.org/wiki/バトルスタジアム_D.O.N)から翻訳されています。
 
 
-『**バトルスタジアム D.O.N**』（バトルスタジアム ディー・オー・エヌ）は、バンダイナムコゲームス（現：[バンダイナムコエンターテイメント](https://ja.wikipedia.org/wiki/バンダイナムコエンターテイメント "wikilink")）から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームキューブのマルチで発売された](../Page/ニンテンドーゲームキューブ.md "wikilink")。また、ゲームキューブ版は日本のゲームキューブ用ソフトで最後の[サードパーティー](../Page/サードパーティー.md "wikilink")製ソフトである。
+『**バトルスタジアム D.O.N**』（バトルスタジアム ディー・オー・エヌ）は、[バンダイナムコゲームスから発売された](../Page/バンダイナムコエンターテインメント.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に[PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームキューブのマルチで発売された](../Page/ニンテンドーゲームキューブ.md "wikilink")。
 
 ## 概要
 
-『[DRAGON BALL Z](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』、『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』、『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』の登場キャラクターが入り混じって戦う[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")。タイトルの「D.O.N」はこの3作品の頭文字を並べたものである。
+集英社の少年漫画雑誌「[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")」に原作が連載されたアニメ『[DRAGON BALL Z](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』、『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』、『[NARUTO -ナルト-](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_\(アニメ\) "wikilink")』の登場キャラクターが入り混じって戦う[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")。タイトルの「D.O.N」はこの3作品の頭文字を並べたものである。
 
 ## 登場キャラクター
 

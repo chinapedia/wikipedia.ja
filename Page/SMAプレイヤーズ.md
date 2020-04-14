@@ -1,4 +1,4 @@
-> この記事は[SMA](https://ja.wikipedia.org/wiki/SMA)から翻訳されています。
+> この記事は[SMAプレイヤーズ](https://ja.wikipedia.org/wiki/SMAプレイヤーズ)から翻訳されています。
 
 
 **株式会社SMAプレイヤーズ**（SMA PLAYERS Inc.）は、株式会社[ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink")の[子会社](../Page/子会社.md "wikilink")で、[芸能事務所](../Page/芸能事務所.md "wikilink")である。

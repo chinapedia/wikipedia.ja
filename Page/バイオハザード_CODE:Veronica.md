@@ -1,4 +1,4 @@
-> この記事は[ CODE:Veronica](https://ja.wikipedia.org/wiki/_CODE:Veronica)から翻訳されています。
+> この記事は[バイオハザード CODE:Veronica](https://ja.wikipedia.org/wiki/バイオハザード_CODE:Veronica)から翻訳されています。
 
 
 『**バイオハザード CODE：Veronica**』（バイオハザード コード:ベロニカ、BIOHAZARD CODE：Veronica）は、[2000年](../Page/2000年.md "wikilink")に[カプコン](../Page/カプコン.md "wikilink")より[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用として発売された『[バイオハザードシリーズ](https://ja.wikipedia.org/wiki/バイオハザードシリーズ "wikilink")』第4作目の[ホラー](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")[アクションアドベンチャーゲーム](../Page/アクションアドベンチャーゲーム.md "wikilink")。本作以降はタイトルナンバーと発売順が一致しなくなった。開発は[ネクステック](../Page/ネクスエンタテインメント.md "wikilink")。

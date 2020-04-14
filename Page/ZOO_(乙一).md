@@ -1,4 +1,4 @@
-> この記事は[ZOO \(\)](https://ja.wikipedia.org/wiki/ZOO_\(\))から翻訳されています。
+> この記事は[ZOO \(乙一\)](https://ja.wikipedia.org/wiki/ZOO_\(乙一\))から翻訳されています。
 
 
 『**ZOO**』（ズー）は、[乙一](../Page/乙一.md "wikilink")の[2002年](../Page/2002年.md "wikilink")の短編小説。また、それを表題とする短編集。[集英社](../Page/集英社.md "wikilink")から単行本（ISBN 4087745341）、文庫（ZOO1、ZOO2）がそれぞれ刊行されている。

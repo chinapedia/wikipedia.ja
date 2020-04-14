@@ -1,4 +1,4 @@
-> この記事は[Love Letter \(1995\)](https://ja.wikipedia.org/wiki/Love_Letter_\(1995\))から翻訳されています。
+> この記事は[Love Letter \(1995年の映画\)](https://ja.wikipedia.org/wiki/Love_Letter_\(1995年の映画\))から翻訳されています。
 
 
 『**Love Letter**』（ラヴレター）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に公開された[日本映画](../Page/日本映画.md "wikilink")。[中山美穂](../Page/中山美穂.md "wikilink")、[豊川悦司](../Page/豊川悦司.md "wikilink")主演。テレビドラマやCMなどで活躍していた[岩井俊二](../Page/岩井俊二.md "wikilink")の劇場用長編映画監督第1作である\[1\]。また、後に数々の映画を手掛ける[ロボットが初めて関わった映画作品である](../Page/ロボット_\(企業\).md "wikilink")\[2\]。
@@ -9,9 +9,11 @@
 
 [第19回日本アカデミー賞](https://ja.wikipedia.org/wiki/第19回日本アカデミー賞 "wikilink")にて、作品が優秀作品賞を、秋葉茂を演じた[豊川悦司](../Page/豊川悦司.md "wikilink")が優秀助演男優賞と話題賞（俳優部門）を、少年時代の藤井樹を演じた[柏原崇](../Page/柏原崇.md "wikilink")と、少女時代の藤井樹を演じた[酒井美紀](https://ja.wikipedia.org/wiki/酒井美紀 "wikilink")が新人俳優賞を、[REMEDIOSが優秀音楽賞を受賞した](https://ja.wikipedia.org/wiki/麗美 "wikilink")\[3\]。一人二役を演じた[中山美穂](../Page/中山美穂.md "wikilink")は、[ブルーリボン賞](../Page/ブルーリボン賞_\(映画\).md "wikilink")、[報知映画賞](../Page/報知映画賞.md "wikilink")、[ヨコハマ映画祭](../Page/ヨコハマ映画祭.md "wikilink")、[高崎映画祭](../Page/高崎映画祭.md "wikilink")などで主演女優賞を受賞した\[4\]。1995年度『[キネマ旬報](../Page/キネマ旬報.md "wikilink")』ベストテン第3位、同・読者選出ベストテン第1位\[5\]。
 
-[1999年](../Page/1999年.md "wikilink")には[韓国でも公開され人気を博し](../Page/大韓民国.md "wikilink")、劇中に登場する「お元気ですか？」という台詞が流行語となったり、[豊川悦司](../Page/豊川悦司.md "wikilink")の「それが山田さん家ィやったら、手紙は届かへんのや」という[関西弁の台詞がバラエティ番組でモノマネされるなどの話題を呼び](https://ja.wikipedia.org/wiki/近畿方言 "wikilink")、舞台となった小樽には韓国人観光客が大勢訪れた\[6\]（[韓国ドラマ](../Page/韓国ドラマ.md "wikilink")『甘い人生』は、序盤、本作の影響で主人公が小樽に行く設定）。
+製作は[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")、[韓国では](../Page/大韓民国.md "wikilink")1999年に[映画](../Page/映画.md "wikilink")を公開した。[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")で140万人の観客を動員する興行記録\[6\]。
 
-なお、藤井樹（女性）の自宅という設定だった小樽市の[旧坂別邸](https://ja.wikipedia.org/wiki/旧坂別邸 "wikilink")は、[2007年](../Page/2007年.md "wikilink")5月26日に火災で焼失している\[7\]。
+[1999年](../Page/1999年.md "wikilink")に[韓国でも公開され人気を博し](../Page/大韓民国.md "wikilink")、劇中に登場する「お元気ですか？」という台詞が流行語となったり、[豊川悦司](../Page/豊川悦司.md "wikilink")の「それが山田さん家ィやったら、手紙は届かへんのや」という[関西弁の台詞がバラエティ番組でモノマネされるなどの話題を呼び](https://ja.wikipedia.org/wiki/近畿方言 "wikilink")、舞台となった小樽には韓国人観光客が大勢訪れた\[7\]（[韓国ドラマ](../Page/韓国ドラマ.md "wikilink")『甘い人生』は、序盤、本作の影響で主人公が小樽に行く設定）。
+
+なお、藤井樹（女性）の自宅という設定だった小樽市の[旧坂別邸](https://ja.wikipedia.org/wiki/旧坂別邸 "wikilink")は、[2007年](../Page/2007年.md "wikilink")5月26日に火災で焼失している\[8\]。
 
 ## あらすじ
 
@@ -120,6 +122,10 @@
   - **第46回[芸術選奨](../Page/芸術選奨.md "wikilink")**
       - [新人賞](https://ja.wikipedia.org/wiki/芸術選奨新人賞 "wikilink")：岩井俊二
 
+## 関連項目
+
+  - [探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink") - 映画のストーリーは、1993年8月13日放送の「手紙をくれた少女」というエピソードに着想を得たもの\[9\]。
+
 ## 脚注
 
 ## 外部リンク
@@ -137,3 +143,5 @@
 5.
 6.
 7.
+8.
+9.  『探偵\!ナイトスクープ − アホの遺伝子』（[松本修](../Page/松本修_\(プロデューサー\).md "wikilink") 著、2005年4月、ポプラ社 ）、259ページ

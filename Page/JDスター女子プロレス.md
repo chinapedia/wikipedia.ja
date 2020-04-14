@@ -1,4 +1,4 @@
-> この記事は[JD](https://ja.wikipedia.org/wiki/JD)から翻訳されています。
+> この記事は[JDスター女子プロレス](https://ja.wikipedia.org/wiki/JDスター女子プロレス)から翻訳されています。
 
 
 **JDスター女子プロレス**（ジェー・ディー・スターじょしプロレス）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女子プロレス](../Page/女子プロレス.md "wikilink")[興行](../Page/興行.md "wikilink")[会社](../Page/会社.md "wikilink")。

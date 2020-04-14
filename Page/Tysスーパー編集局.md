@@ -1,4 +1,4 @@
-> この記事は[Tys](https://ja.wikipedia.org/wiki/Tys)から翻訳されています。
+> この記事は[Tysスーパー編集局](https://ja.wikipedia.org/wiki/Tysスーパー編集局)から翻訳されています。
 
 
 『**tysスーパー編集局**』（ティーワイエス スーパーへんしゅうきょく）は、[2005年](../Page/2005年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")から[2016年](../Page/2016年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")まで、[テレビ山口](../Page/テレビ山口.md "wikilink")で放送されていたローカル[ニュース](../Page/報道番組.md "wikilink")・[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")だった。翌週[9月5日](../Page/9月5日.md "wikilink")より新番組『[tysニュースタイム](https://ja.wikipedia.org/wiki/tysニュースタイム "wikilink")』に番組をバトンタッチされる。『[JNNイブニング・ニュース](../Page/JNNイブニング・ニュース.md "wikilink")』の後のローカルニュース枠として、それまでテレビ山口が放送していた『[TYS夕やけニュース21](../Page/TYS夕やけニュース21.md "wikilink")』に替わってスタートした。略称は「**スパ編**」。

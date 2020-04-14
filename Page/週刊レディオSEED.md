@@ -1,4 +1,4 @@
-> この記事は[SEED](https://ja.wikipedia.org/wiki/SEED)から翻訳されています。
+> この記事は[週刊レディオSEED](https://ja.wikipedia.org/wiki/週刊レディオSEED)から翻訳されています。
 
 
 『**週刊レディオSEED**』（しゅうかんレディオシード）は、[1314 V-STATION](../Page/1314_V-STATION.md "wikilink")（[ラジオ大阪](../Page/大阪放送.md "wikilink")）の製作により、[声優](../Page/声優.md "wikilink")の[豊口めぐみ](../Page/豊口めぐみ.md "wikilink")と、2週間交代のウィークリー[パーソナリティが務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。2004年には『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の放送に合わせ、『[週刊レディオSEED DESTINY](../Page/週刊レディオSEED_DESTINY.md "wikilink")』が製作、放送された。

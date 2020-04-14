@@ -1,4 +1,4 @@
-> この記事は[GB](https://ja.wikipedia.org/wiki/GB)から翻訳されています。
+> この記事は[コナミGBコレクション](https://ja.wikipedia.org/wiki/コナミGBコレクション)から翻訳されています。
 
 
 **コナミGBコレクション**（コナミジービーコレクション）は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")が発売した[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")用ソフト4部作のシリーズ名である。開発は[コナミコンピュータエンタテインメントジャパン](../Page/コナミコンピュータエンタテインメントジャパン.md "wikilink")。

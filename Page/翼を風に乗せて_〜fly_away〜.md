@@ -1,4 +1,4 @@
-> この記事は[ fly away](https://ja.wikipedia.org/wiki/_fly_away)から翻訳されています。
+> この記事は[翼を風に乗せて 〜fly away〜](https://ja.wikipedia.org/wiki/翼を風に乗せて_〜fly_away〜)から翻訳されています。
 
 
 **翼を風に乗せて〜fly away〜**（つばさをかぜにのせて フライ・アウェイ）は、[DEEN](../Page/DEEN.md "wikilink")の25枚目のシングル。

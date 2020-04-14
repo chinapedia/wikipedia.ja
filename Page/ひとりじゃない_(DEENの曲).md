@@ -1,4 +1,4 @@
-> この記事は[ \(DEEN\)](https://ja.wikipedia.org/wiki/_\(DEEN\))から翻訳されています。
+> この記事は[ひとりじゃない \(DEENの曲\)](https://ja.wikipedia.org/wiki/ひとりじゃない_\(DEENの曲\))から翻訳されています。
 
 
 「**ひとりじゃない**」は、[DEEN](../Page/DEEN.md "wikilink")の9th[シングル](../Page/シングル.md "wikilink")。

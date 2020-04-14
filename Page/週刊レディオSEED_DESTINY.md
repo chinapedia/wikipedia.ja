@@ -1,4 +1,4 @@
-> この記事は[SEED DESTINY](https://ja.wikipedia.org/wiki/SEED_DESTINY)から翻訳されています。
+> この記事は[週刊レディオSEED DESTINY](https://ja.wikipedia.org/wiki/週刊レディオSEED_DESTINY)から翻訳されています。
 
 
 『**週刊レディオSEED DESTINY**』（しゅうかんレディオシードデスティニー）は、[1314 V-STATION](../Page/1314_V-STATION.md "wikilink")（[ラジオ大阪](../Page/大阪放送.md "wikilink")）の製作により、『機動戦士ガンダムSEED DESTINY』の[シン・アスカ](../Page/シン・アスカ.md "wikilink")役・[鈴村健一](../Page/鈴村健一.md "wikilink")と、2週間交代のウィークリー[パーソナリティが司会を務めた](../Page/ラジオパーソナリティ.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。『[週刊レディオSEED](../Page/週刊レディオSEED.md "wikilink")』に続くラジオ番組として放送された。

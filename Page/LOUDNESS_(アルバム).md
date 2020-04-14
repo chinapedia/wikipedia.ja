@@ -1,4 +1,4 @@
-> この記事は[LOUDNESS \(\)](https://ja.wikipedia.org/wiki/LOUDNESS_\(\))から翻訳されています。
+> この記事は[LOUDNESS \(アルバム\)](https://ja.wikipedia.org/wiki/LOUDNESS_\(アルバム\))から翻訳されています。
 
 
 『**LOUDNESS**』（ラウドネス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")・[LOUDNESS](../Page/LOUDNESS.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink")に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")からリリースした、10枚目（英語版、日本語版、リミックス版も含めると13枚目）のオリジナルアルバムである。[2002年](../Page/2002年.md "wikilink")[2月14日](../Page/2月14日.md "wikilink")に第2期以降の他のアルバムと一緒に廉価盤がリリースされた。その際、帯と歌詞カード、レーベル面のデザインが変更されている。

@@ -1,4 +1,4 @@
-> この記事は[DREAMAGE-DREAMS COME TRUE LOVE BALLAD COLLECTION](https://ja.wikipedia.org/wiki/DREAMAGE-DREAMS_COME_TRUE_LOVE_BALLAD_COLLECTION)から翻訳されています。
+> この記事は[DREAMAGE-DREAMS COME TRUE “LOVE BALLAD COLLECTION”](https://ja.wikipedia.org/wiki/DREAMAGE-DREAMS_COME_TRUE_“LOVE_BALLAD_COLLECTION”)から翻訳されています。
 
 
 『**DREAMAGE -DREAMS COME TRUE "LOVE BALLAD COLLECTION"-**』（ドリマージュ ドリームズ カム トゥルー ラブバラードコレクション）は、[2003年](../Page/2003年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")にリリースされた[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")（バラード・コレクションアルバム）である。

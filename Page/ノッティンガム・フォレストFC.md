@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ノッティンガム・フォレストFC](https://ja.wikipedia.org/wiki/ノッティンガム・フォレストFC)から翻訳されています。
 
 
 **ノッティンガム・フォレスト・フットボール・クラブ**（**Nottingham Forest Football Club**）は[イングランド](../Page/イングランド.md "wikilink")・[ノッティンガム](../Page/ノッティンガム.md "wikilink")を本拠地とするサッカークラブである。

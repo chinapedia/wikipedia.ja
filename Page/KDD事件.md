@@ -1,4 +1,4 @@
-> この記事は[KDD](https://ja.wikipedia.org/wiki/KDD)から翻訳されています。
+> この記事は[KDD事件](https://ja.wikipedia.org/wiki/KDD事件)から翻訳されています。
 
 
 **KDD事件**（KDDじけん）とは、[1979年](../Page/1979年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")54年）[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に明るみに出た、[国際電信電話](../Page/国際電信電話.md "wikilink")株式会社（KDD。現・[KDDI](../Page/KDDI.md "wikilink")）による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[汚職](../Page/汚職.md "wikilink")・[密輸](../Page/密輸.md "wikilink")[事件](../Page/事件.md "wikilink")である。

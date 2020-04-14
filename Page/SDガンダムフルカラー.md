@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[SDガンダムフルカラー](https://ja.wikipedia.org/wiki/SDガンダムフルカラー)から翻訳されています。
 
 
 **SDガンダムフルカラー**とは、[BANDAIが](../Page/バンダイ.md "wikilink")[カプセル](https://ja.wikipedia.org/wiki/カプセル "wikilink")[自動販売機](../Page/自動販売機.md "wikilink")で販売した[SDガンダム](../Page/SDガンダム.md "wikilink")の手のひらサイズ彩色済み[フィギュア](../Page/フィギュア.md "wikilink")商品（カプセルトイ）の名称で、ネット上では**SDFC**と略されて呼ばれる。

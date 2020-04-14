@@ -1,4 +1,4 @@
-> この記事は[II ](https://ja.wikipedia.org/wiki/II_)から翻訳されています。
+> この記事は[ダ・カーポII 〜あさきゆめみし君と〜](https://ja.wikipedia.org/wiki/ダ・カーポII_〜あさきゆめみし君と〜)から翻訳されています。
 
 
 「**ダ・カーポII 〜あさきゆめみし君と〜**」（ダ・カーポツー 〜あさきゆめみしきみと〜）は、[yozuca\*](https://ja.wikipedia.org/wiki/yozuca* "wikilink")の12枚目\[1\]、[rino](https://ja.wikipedia.org/wiki/rino "wikilink")の2枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")に[Lantisから発売された](../Page/ランティス.md "wikilink")。

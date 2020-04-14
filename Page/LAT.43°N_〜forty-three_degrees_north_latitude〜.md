@@ -1,4 +1,4 @@
-> この記事は[LAT.43N forty-three degrees north latitude](https://ja.wikipedia.org/wiki/LAT.43N_forty-three_degrees_north_latitude)から翻訳されています。
+> この記事は[LAT.43°N 〜forty-three degrees north latitude〜](https://ja.wikipedia.org/wiki/LAT.43°N_〜forty-three_degrees_north_latitude〜)から翻訳されています。
 
 
 「**LAT.43°N 〜forty-three degrees north latitude〜**」（フォーティー・スリー・ディグリーズ・ノース・ラティチュード）は、[1989年](../Page/1989年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")にリリースされた[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")4枚目の[シングル](../Page/シングル.md "wikilink")。アルバム『[LOVE GOES ON…](../Page/LOVE_GOES_ON….md "wikilink")』と同時発売。

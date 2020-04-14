@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ダヌービオFC](https://ja.wikipedia.org/wiki/ダヌービオFC)から翻訳されています。
 
 
 **ダヌービオ・フットボル・クルブ**（）は、[ウルグアイ](https://ja.wikipedia.org/wiki/ウルグアイ "wikilink")の首都[モンテビデオ](../Page/モンテビデオ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。2016シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン_\(ウルグアイ\).md "wikilink")（1部）に所属している。

@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[パウリスタFC](https://ja.wikipedia.org/wiki/パウリスタFC)から翻訳されています。
 
 
 **パウリスタFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")・[ジュンジアイ](https://ja.wikipedia.org/wiki/ジュンジアイ "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

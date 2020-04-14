@@ -1,4 +1,4 @@
-> この記事は[ETV ](https://ja.wikipedia.org/wiki/ETV_)から翻訳されています。
+> この記事は[ETVワイド ともに生きる](https://ja.wikipedia.org/wiki/ETVワイド_ともに生きる)から翻訳されています。
 
 
 **ETVワイド ともに生きる**（ETVワイド ともにいきる）は、[2005年](../Page/2005年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")から[2011年](../Page/2011年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")まで[NHK教育テレビで年数回にわたって放送された](../Page/NHK教育テレビジョン.md "wikilink")、[福祉](../Page/福祉.md "wikilink")に関する大型[特別番組](../Page/特別番組.md "wikilink")。
@@ -19,7 +19,7 @@
 
   - 第1回　4月23日　発達障害
   - 第2回　5月28日　うつ
-  - 第3回　6月25日　[ガン](https://ja.wikipedia.org/wiki/ガン "wikilink")
+  - 第3回　6月25日　[ガン](../Page/悪性腫瘍.md "wikilink")
   - 第4回　9月24日　認知症
   - 第5回　10月29日 [障害者](../Page/障害者.md "wikilink")の[介護](../Page/介護.md "wikilink")
   - 第6回　12月3日　障害者の就労

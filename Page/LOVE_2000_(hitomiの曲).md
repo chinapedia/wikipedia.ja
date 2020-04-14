@@ -1,4 +1,4 @@
-> この記事は[LOVE 2000 \(hitomi\)](https://ja.wikipedia.org/wiki/LOVE_2000_\(hitomi\))から翻訳されています。
+> この記事は[LOVE 2000 \(hitomiの曲\)](https://ja.wikipedia.org/wiki/LOVE_2000_\(hitomiの曲\))から翻訳されています。
 
 
 「**LOVE 2000**」（ラブ にせん）は、[2000年](../Page/2000年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に発売された[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")の17枚目のシングル。[hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink")初の[マキシシングルである](https://ja.wikipedia.org/wiki/シングル#CDシングル "wikilink")。 発売元は、[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
@@ -53,9 +53,8 @@
 
 ## 関連項目
 
-  - [高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")…上記参照。
   - [鎌田雅人](../Page/鎌田雅人.md "wikilink")
-  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")…同じ年に、全く同じタイトルの曲（「[LOVE 2000](../Page/LOVE_2000_\(安室奈美恵の曲\).md "wikilink")」、但しラブニセンと読まず英語読みする）をリリースした。
+  - [安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink") - 同じ年に、全く同じタイトルの曲（「[LOVE 2000](../Page/LOVE_2000_\(安室奈美恵の曲\).md "wikilink")」、ただしラブニセンと読まず英語読みする）をリリースした。
   - [八木真澄](../Page/八木真澄.md "wikilink")（[サバンナ](../Page/サバンナ_\(お笑いコンビ\).md "wikilink")）
   - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
 
@@ -63,7 +62,7 @@
 
   - \[<https://www.hitomilovelife.net/discography/detail.php?id=1002411>　hitomi offical website　DISCOGRAPHY\]
 
-[Category:Hitomiの楽曲](https://ja.wikipedia.org/wiki/Category:Hitomiの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:スポーツ音楽](https://ja.wikipedia.org/wiki/Category:スポーツ音楽 "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink") [Category:高橋尚子](https://ja.wikipedia.org/wiki/Category:高橋尚子 "wikilink")
+[Category:Hitomiの楽曲](https://ja.wikipedia.org/wiki/Category:Hitomiの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:日本テレビの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビの主題歌 "wikilink") [Category:スポーツ音楽](https://ja.wikipedia.org/wiki/Category:スポーツ音楽 "wikilink") [Category:変ニ長調](https://ja.wikipedia.org/wiki/Category:変ニ長調 "wikilink") [Category:高橋尚子](https://ja.wikipedia.org/wiki/Category:高橋尚子 "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_ら](https://ja.wikipedia.org/wiki/Category:楽曲_ら "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
-> この記事は[AA](https://ja.wikipedia.org/wiki/AA)から翻訳されています。
+> この記事は[AAポンチ・プレッタ](https://ja.wikipedia.org/wiki/AAポンチ・プレッタ)から翻訳されています。
 
 
 **AAポンチ・プレッタ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")・[カンピーナス](../Page/カンピーナス.md "wikilink")市を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。

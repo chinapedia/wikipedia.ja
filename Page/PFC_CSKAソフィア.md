@@ -1,4 +1,4 @@
-> この記事は[PFC CSKA](https://ja.wikipedia.org/wiki/PFC_CSKA)から翻訳されています。
+> この記事は[PFC CSKAソフィア](https://ja.wikipedia.org/wiki/PFC_CSKAソフィア)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:CSKA_Sofia_team_1973.jpg "wikilink")

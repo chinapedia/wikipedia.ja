@@ -1,4 +1,4 @@
-> この記事は[no!](https://ja.wikipedia.org/wiki/no!)から翻訳されています。
+> この記事は[たかじんnoどォ!](https://ja.wikipedia.org/wiki/たかじんnoどォ!)から翻訳されています。
 
 
 『**たかじんnoどォ\!**』（たかじんのどぉ）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送されていた[読売テレビ制作の](../Page/讀賣テレビ放送.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。1992年から1996年まで同時間帯で放送されていた『[たかじんnoばぁ〜](../Page/たかじんnoばぁ〜.md "wikilink")』の後継番組。制作局の読売テレビでは毎週[土曜](../Page/土曜日.md "wikilink") 24:25 - 25:25 ([JST](../Page/日本標準時.md "wikilink")) に放送。[日本テレビでは](../Page/日本テレビ放送網.md "wikilink")『たかじんnoばぁ〜』と同じ土曜日深夜2時台に放送された。

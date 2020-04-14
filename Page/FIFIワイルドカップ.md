@@ -1,4 +1,4 @@
-> この記事は[FIFI](https://ja.wikipedia.org/wiki/FIFI)から翻訳されています。
+> この記事は[FIFIワイルドカップ](https://ja.wikipedia.org/wiki/FIFIワイルドカップ)から翻訳されています。
 
 
 FIFIワイルドカップ（英: FIFI Wild Cup）は、Federation of International Football Independentsが主催する、FIFAに参加していないサッカーチームによる大会である。FIFAに**加盟できない国**（＝国家として国際的に承認されていない政権）が多く含まれる点でもユニークである。

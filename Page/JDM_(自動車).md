@@ -1,4 +1,4 @@
-> この記事は[JDM \(\)](https://ja.wikipedia.org/wiki/JDM_\(\))から翻訳されています。
+> この記事は[JDM \(自動車\)](https://ja.wikipedia.org/wiki/JDM_\(自動車\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Jdm.jpg "wikilink")（[ACURA仕様](../Page/アキュラ.md "wikilink")）

@@ -1,4 +1,4 @@
-> この記事は[Crescent \(GACKT\)](https://ja.wikipedia.org/wiki/Crescent_\(GACKT\))から翻訳されています。
+> この記事は[Crescent \(GACKTのアルバム\)](https://ja.wikipedia.org/wiki/Crescent_\(GACKTのアルバム\))から翻訳されています。
 
 
 『**Crescent**』（クレセント）は、[2003年](../Page/2003年.md "wikilink")[12月3日](../Page/12月3日.md "wikilink")に発表された[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")の4枚目のフル[アルバム](../Page/アルバム.md "wikilink")。

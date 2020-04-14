@@ -1,4 +1,4 @@
-> この記事は[ THE NEXT](https://ja.wikipedia.org/wiki/_THE_NEXT)から翻訳されています。
+> この記事は[尾木プロ THE NEXT](https://ja.wikipedia.org/wiki/尾木プロ_THE_NEXT)から翻訳されています。
 
 
 **株式会社尾木プロ THE NEXT**（おぎプロ ザ ネクスト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[芸能事務所](../Page/芸能事務所.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[中央区](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")に所在。旧社名は**Y・M・O**（ワイ・エム・オー）。

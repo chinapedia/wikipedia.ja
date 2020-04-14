@@ -1,4 +1,4 @@
-> この記事は[VB](https://ja.wikipedia.org/wiki/VB)から翻訳されています。
+> この記事は[V・B・ローズ](https://ja.wikipedia.org/wiki/V・B・ローズ)から翻訳されています。
 
 
 『**V・B・ローズ**』（ベルベット・ブルー・ローズ）は、[日高万里](../Page/日高万里.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。

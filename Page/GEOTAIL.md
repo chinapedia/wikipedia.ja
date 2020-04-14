@@ -59,7 +59,7 @@
 
   - [宇宙政策委員会 宇宙科学・探査部会 第１回会合資料](https://www8.cao.go.jp/space/comittee/kagaku-dai1/siryou5-6.pdf) GEOTAILの科学成果と今後期待される成果 2013年3月26日
 
-[Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:アメリカ合衆国の人工衛星](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の人工衛星 "wikilink") [Category:NASA](https://ja.wikipedia.org/wiki/Category:NASA "wikilink") [Category:1992年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1992年の宇宙飛行 "wikilink") [Category:天文学に関する記事](https://ja.wikipedia.org/wiki/Category:天文学に関する記事 "wikilink")
+[Category:日本の人工衛星](https://ja.wikipedia.org/wiki/Category:日本の人工衛星 "wikilink") [Category:アメリカ合衆国の人工衛星](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の人工衛星 "wikilink") [Category:NASA](https://ja.wikipedia.org/wiki/Category:NASA "wikilink") [Category:1992年の宇宙飛行](https://ja.wikipedia.org/wiki/Category:1992年の宇宙飛行 "wikilink")
 
 1.
 2.

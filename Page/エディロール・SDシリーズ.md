@@ -1,4 +1,4 @@
-> この記事は[SD](https://ja.wikipedia.org/wiki/SD)から翻訳されています。
+> この記事は[エディロール・SDシリーズ](https://ja.wikipedia.org/wiki/エディロール・SDシリーズ)から翻訳されています。
 
 
 **SDシリーズ**（エスディーシリーズ）は、EDIROL（エディロール）ブランドで販売される[ローランド](../Page/ローランド.md "wikilink")の[DTM用](../Page/デスクトップミュージック.md "wikilink")[音源モジュール](../Page/音源モジュール.md "wikilink")の型番・商品名。総称はスタジオ・キャンバス (*Studio Canvas*) 。 ※SD-50はモバイル･スタジオ･キャンバス（*Mobile Studio Canvas*）

@@ -1,4 +1,4 @@
-> この記事は[Your eyes only ](https://ja.wikipedia.org/wiki/Your_eyes_only_)から翻訳されています。
+> この記事は[Your eyes only 〜曖昧なぼくの輪郭〜](https://ja.wikipedia.org/wiki/Your_eyes_only_〜曖昧なぼくの輪郭〜)から翻訳されています。
 
 
 「**Your eyes only 〜曖昧なぼくの輪郭〜**」（ユア アイズ オンリー あいまいなぼくのかたち）は、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")に[rhythm zoneから発売](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。

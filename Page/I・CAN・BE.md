@@ -1,4 +1,4 @@
-> この記事は[ICANBE](https://ja.wikipedia.org/wiki/ICANBE)から翻訳されています。
+> この記事は[I・CAN・BE](https://ja.wikipedia.org/wiki/I・CAN・BE)から翻訳されています。
 
 
 **I・CAN・BE** （アイ・キャン・ビー）は[米米CLUB](../Page/米米CLUB.md "wikilink")のデビュー[シングル](../Page/シングル.md "wikilink")。[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")に[EPとして発売され](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")[シングル](../Page/シングル.md "wikilink")として再発された（ランキングデータは再発時のもの）。発売元はCBSソニーレコード（現[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")）。

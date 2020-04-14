@@ -1,4 +1,4 @@
-> この記事は[U](https://ja.wikipedia.org/wiki/U)から翻訳されています。
+> この記事は[Uターン](https://ja.wikipedia.org/wiki/Uターン)から翻訳されています。
 
 
 **Uターン**（ユーターン、）は、[進路](https://ja.wikipedia.org/wiki/進路 "wikilink")を180度変えて、今までの進行方向とは正反対に進むこと。アルファベットの[U](../Page/U.md "wikilink")にちなむ。

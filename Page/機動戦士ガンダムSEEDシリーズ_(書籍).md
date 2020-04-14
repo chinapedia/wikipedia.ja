@@ -1,4 +1,4 @@
-> この記事は[SEED \(\)](https://ja.wikipedia.org/wiki/SEED_\(\))から翻訳されています。
+> この記事は[機動戦士ガンダムSEEDシリーズ \(書籍\)](https://ja.wikipedia.org/wiki/機動戦士ガンダムSEEDシリーズ_\(書籍\))から翻訳されています。
 
 
 **機動戦士ガンダムSEEDシリーズ（書籍）**（きどうせんしガンダムシードシリーズ（しょせき））では、アニメ『[機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")』及び『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の関連書籍を紹介する。

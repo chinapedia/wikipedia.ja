@@ -1,4 +1,4 @@
-> この記事は[MTV](https://ja.wikipedia.org/wiki/MTV)から翻訳されています。
+> この記事は[MTV・アンプラグド・イン・ニューヨーク](https://ja.wikipedia.org/wiki/MTV・アンプラグド・イン・ニューヨーク)から翻訳されています。
 
 
 『**MTV・アンプラグド・ニューヨーク**』（MTV Unplugged in New York）は、1994年に発売された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のロックバンド、[ニルヴァーナのライブ](../Page/ニルヴァーナ_\(アメリカ合衆国のバンド\).md "wikilink")・アルバム。

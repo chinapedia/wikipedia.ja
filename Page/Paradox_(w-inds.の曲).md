@@ -1,4 +1,4 @@
-> この記事は[Paradox \(w-inds.\)](https://ja.wikipedia.org/wiki/Paradox_\(w-inds.\))から翻訳されています。
+> この記事は[Paradox \(w-inds.の曲\)](https://ja.wikipedia.org/wiki/Paradox_\(w-inds.の曲\))から翻訳されています。
 
 
 『**Paradox**』（パラドックス）は、[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")の3枚目のマキシシングル。[2001年](../Page/2001年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")発売。[FLIGHT MASTERよりリリースされた](../Page/ポニーキャニオン.md "wikilink")。

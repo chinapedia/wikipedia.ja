@@ -1,4 +1,4 @@
-> この記事は[DELIGHT \(\)](https://ja.wikipedia.org/wiki/DELIGHT_\(\))から翻訳されています。
+> この記事は[DELIGHT \(アルバム\)](https://ja.wikipedia.org/wiki/DELIGHT_\(アルバム\))から翻訳されています。
 
 
 『**DELIGHT**』（ディライト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[愛内里菜](https://ja.wikipedia.org/wiki/愛内里菜 "wikilink")が[2006年](../Page/2006年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")に[GIZA studioから発売した](../Page/GIZA_studio.md "wikilink")5枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。

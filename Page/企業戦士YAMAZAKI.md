@@ -1,4 +1,4 @@
-> この記事は[YAMAZAKI](https://ja.wikipedia.org/wiki/YAMAZAKI)から翻訳されています。
+> この記事は[企業戦士YAMAZAKI](https://ja.wikipedia.org/wiki/企業戦士YAMAZAKI)から翻訳されています。
 
 
 『**企業戦士YAMAZAKI**』（ビジネスコマンドー・ヤマザキ）は、[富沢順](../Page/富沢順.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、及びそれを原作とした[オリジナルビデオ](../Page/オリジナルビデオ.md "wikilink")や[OVA](../Page/OVA.md "wikilink")。[1992年](../Page/1992年.md "wikilink")から[1999年](../Page/1999年.md "wikilink")まで、[集英社](../Page/集英社.md "wikilink")の『[スーパージャンプ](../Page/スーパージャンプ.md "wikilink")』に連載されていた。単行本は全12巻。

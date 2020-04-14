@@ -1,4 +1,4 @@
-> この記事は[ \(Ada\)](https://ja.wikipedia.org/wiki/_\(Ada\))から翻訳されています。
+> この記事は[予約語 \(Ada\)](https://ja.wikipedia.org/wiki/予約語_\(Ada\))から翻訳されています。
 
 
 この項目では[プログラミング言語](../Page/プログラミング言語.md "wikilink")**[Ada](../Page/Ada.md "wikilink")**における**[予約語](../Page/予約語.md "wikilink")**（よやくご）に関して説明する。

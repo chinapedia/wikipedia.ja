@@ -1,4 +1,4 @@
-> この記事は[GM](https://ja.wikipedia.org/wiki/GM)から翻訳されています。
+> この記事は[G・M・ベリーエフ記念タガンローク航空科学技術複合体](https://ja.wikipedia.org/wiki/G・M・ベリーエフ記念タガンローク航空科学技術複合体)から翻訳されています。
 
 
 **G・M・ベリーエフ記念タガンローク航空科学技術複合** ([ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink"):  、) は、[ロシア](../Page/ロシア.md "wikilink")連邦の[航空機](../Page/航空機.md "wikilink")メーカーである。

@@ -1,4 +1,4 @@
-> この記事は[Starting Over \(DEEN\)](https://ja.wikipedia.org/wiki/Starting_Over_\(DEEN\))から翻訳されています。
+> この記事は[Starting Over \(DEENの曲\)](https://ja.wikipedia.org/wiki/Starting_Over_\(DEENの曲\))から翻訳されています。
 
 
 **Starting Over**（スターティング・オーヴァー）は[DEEN](../Page/DEEN.md "wikilink")の32枚目のシングル。

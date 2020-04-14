@@ -1,4 +1,4 @@
-> この記事は[ICOCA](https://ja.wikipedia.org/wiki/ICOCA)から翻訳されています。
+> この記事は[ICOCA電子マネー](https://ja.wikipedia.org/wiki/ICOCA電子マネー)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:7-Eleven_Heart-in_JR_Kobe_Station_chuo-guchi_store.JPG "wikilink")・[神戸駅構内](https://ja.wikipedia.org/wiki/神戸駅_\(兵庫県\) "wikilink")）にある[セブン・イレブン](https://ja.wikipedia.org/wiki/セブン・イレブン "wikilink")[ハートイン](../Page/ハート・イン.md "wikilink")\]\] **ICOCA電子マネー**（イコカでんしマネー）とは、[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）のICカード乗車券[ICOCA](../Page/ICOCA.md "wikilink")を活用した[電子マネー](../Page/電子マネー.md "wikilink")サービスである。

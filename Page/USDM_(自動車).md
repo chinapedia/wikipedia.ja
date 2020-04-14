@@ -1,4 +1,4 @@
-> この記事は[USDM \(\)](https://ja.wikipedia.org/wiki/USDM_\(\))から翻訳されています。
+> この記事は[USDM \(自動車\)](https://ja.wikipedia.org/wiki/USDM_\(自動車\))から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Es250.jpg "wikilink") [レクサスES250仕様](https://ja.wikipedia.org/wiki/レクサス・ES "wikilink")\]\]

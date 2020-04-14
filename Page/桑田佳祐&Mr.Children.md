@@ -1,4 +1,4 @@
-> この記事は[\&Mr.Children](https://ja.wikipedia.org/wiki/\&Mr.Children)から翻訳されています。
+> この記事は[桑田佳祐\&Mr.Children](https://ja.wikipedia.org/wiki/桑田佳祐\&Mr.Children)から翻訳されています。
 
 
 **桑田佳祐 & Mr.Children**（くわた けいすけ アンド ミスターチルドレン）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")と、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の2組が、現在でいう[コラボレーション](../Page/コラボレーション.md "wikilink")企画として結成した期間限定バンドである。プロデュースは[小林武史](../Page/小林武史.md "wikilink")。

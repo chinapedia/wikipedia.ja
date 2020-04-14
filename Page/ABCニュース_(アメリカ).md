@@ -1,4 +1,4 @@
-> この記事は[ABC \(\)](https://ja.wikipedia.org/wiki/ABC_\(\))から翻訳されています。
+> この記事は[ABCニュース \(アメリカ\)](https://ja.wikipedia.org/wiki/ABCニュース_\(アメリカ\))から翻訳されています。
 
 
 **ABCニュース** (**ABC News**) は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[アメリカン・ブロードキャスティング・カンパニー](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")（[ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")）とその所有者である[ウォルト・ディズニー・テレビジョン](https://ja.wikipedia.org/wiki/ウォルト・ディズニー・テレビジョン "wikilink")の[ニュース番組](https://ja.wikipedia.org/wiki/ニュース番組 "wikilink")制作子会社。

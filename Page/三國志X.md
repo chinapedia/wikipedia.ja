@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[三國志X](https://ja.wikipedia.org/wiki/三國志X)から翻訳されています。
 
 
 『**三國志X**』（さんごくし・テン）は、2004年に[コーエー](../Page/コーエー.md "wikilink")（現・[コーエーテクモゲームス](https://ja.wikipedia.org/wiki/コーエーテクモゲームス "wikilink")）から発売された[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")。「[三國志シリーズ](../Page/三國志シリーズ.md "wikilink")」の第10作。[パソコン用で発売された後](../Page/パーソナルコンピュータ.md "wikilink")、[PlayStation 2に移植された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。音楽は[池頼広](../Page/池頼広.md "wikilink")が担当。

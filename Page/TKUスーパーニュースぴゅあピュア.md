@@ -1,4 +1,4 @@
-> この記事は[TKU](https://ja.wikipedia.org/wiki/TKU)から翻訳されています。
+> この記事は[TKUスーパーニュースぴゅあピュア](https://ja.wikipedia.org/wiki/TKUスーパーニュースぴゅあピュア)から翻訳されています。
 
 
 『**TKUスーパーニュースぴゅあピュア**』（ティーケーユースーパーニュースぴゅあピュア、通称「**ぴゅあピュア**」）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[テレビ熊本](../Page/テレビ熊本.md "wikilink")で[平日](../Page/平日.md "wikilink")に放送されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")である（[祝日](../Page/祝日.md "wikilink")にも放送あり）。[ハイビジョン](../Page/ハイビジョン.md "wikilink")制作（ハイビジョン放送は[地上デジタル放送のみで実施](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")）。

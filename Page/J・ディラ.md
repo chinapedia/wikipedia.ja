@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[J・ディラ](https://ja.wikipedia.org/wiki/J・ディラ)から翻訳されています。
 
 
 **J Dilla**（ジェイディラ、[1974年](../Page/1974年.md "wikilink")[2月7日](../Page/2月7日.md "wikilink") - [2006年](../Page/2006年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。本名**James Dewitt Yancey**。[ミシガン州](../Page/ミシガン州.md "wikilink")[デトロイト](../Page/デトロイト.md "wikilink")生まれ。アメリカで[ヒップホップ](../Page/ヒップホップ.md "wikilink")と[R\&B](https://ja.wikipedia.org/wiki/R&B "wikilink")を中心に幅広く活躍したプロデューサー（ビートメーカー）、MC（ラッパー）である。初期は**Jay Dee**（ジェイディー）、後期は**J Dilla**の名で、グループとしては、[1st Down](https://ja.wikipedia.org/wiki/1st_Down "wikilink")、[The Ummah](https://ja.wikipedia.org/wiki/The_Ummah "wikilink")、[The Soulquariansの一員として](https://ja.wikipedia.org/wiki/The_Soulquarians "wikilink")、またサイドプロジェクトでは[Jaylib](https://ja.wikipedia.org/wiki/Jaylib "wikilink")として数多くの作品を発表した。

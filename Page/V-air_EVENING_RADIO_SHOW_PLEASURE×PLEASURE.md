@@ -1,4 +1,4 @@
-> この記事は[V-air EVENING RADIO SHOW PLEASUREPLEASURE](https://ja.wikipedia.org/wiki/V-air_EVENING_RADIO_SHOW_PLEASUREPLEASURE)から翻訳されています。
+> この記事は[V-air EVENING RADIO SHOW PLEASURE×PLEASURE](https://ja.wikipedia.org/wiki/V-air_EVENING_RADIO_SHOW_PLEASURE×PLEASURE)から翻訳されています。
 
 
 『**V-air EVENING RADIO SHOW PLEASURE×PLEASURE**』（ブイエアー・イブニング・レディオ・ショー・プレジャー・プレジャー）は、[エフエム山陰](../Page/エフエム山陰.md "wikilink")で放送されていたラジオ番組である。放送時間は毎週月曜日から木曜日の17:15～19:55（開始当初は17:00～18:55）。パーソナリティーは[甲斐田貴之](../Page/甲斐田貴之.md "wikilink")。通称プレプレ。祝日、お盆休みなどは特別企画を放送するのが恒例だった。後番組は『[V-air EVENING Live THE MUSIC RADIO\!\!](../Page/Mラジ.md "wikilink")』。

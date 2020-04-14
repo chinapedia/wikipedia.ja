@@ -1,4 +1,4 @@
-> この記事は[HBC](https://ja.wikipedia.org/wiki/HBC)から翻訳されています。
+> この記事は[HBCメディアクリエート](https://ja.wikipedia.org/wiki/HBCメディアクリエート)から翻訳されています。
 
 
 **株式会社HBCメディアクリエート**（エッチビーシーメディアクリエート）は、テレビ・ラジオ番組・CM・VPなどの制作・技術協力、映像ライブラリー販売を行う、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")大手の総合プロダクションであった。その名称からもわかるように[北海道放送](../Page/北海道放送.md "wikilink")（HBC）の関連会社\[1\]。2015年（平成27年）7月1日、[HBCフレックス](https://ja.wikipedia.org/wiki/HBCフレックス "wikilink")と合併\[2\]。

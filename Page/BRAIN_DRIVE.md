@@ -101,7 +101,7 @@
 ## 外部リンク
 
   - [BRAINDRIVE OFFICIAL WEBSITE(公式)](http://braindrive.info/)
-  - [BRAIN DRIVE(MIZUTA個人ブログ）](http://ameblo.jp/brain-drive/)
+  - [BRAIN DRIVE(MIZUTA個人ブログ）](https://ameblo.jp/brain-drive/)
   - [BRΛIN DRIVE 4 LIFE（SPECIAL SITE）](http://blog.livedoor.jp/rfg/)
   - [BRAIN DRIVE(BARKS内アーティスト紹介)](http://www.barks.jp/artist/?id=1000000357)
 

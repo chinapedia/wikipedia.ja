@@ -1,4 +1,4 @@
-> この記事は[DREAMANIA DREAMS COME TRUE SMOOTH GROOVE COLLECTION](https://ja.wikipedia.org/wiki/DREAMANIA_DREAMS_COME_TRUE_SMOOTH_GROOVE_COLLECTION)から翻訳されています。
+> この記事は[DREAMANIA DREAMS COME TRUE 〜SMOOTH GROOVE COLLECTION〜](https://ja.wikipedia.org/wiki/DREAMANIA_DREAMS_COME_TRUE_〜SMOOTH_GROOVE_COLLECTION〜)から翻訳されています。
 
 
 『**DREAMANIA DREAMS COME TRUE〜SMOOTH GROOVE COLLECTION〜**』（ドリマニア ドリームズ カム トゥルー スムース [グルーブ](../Page/グルーヴ.md "wikilink") コレクション）は、[2004年](../Page/2004年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")にリリースされた[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")（コレクション・アルバム）である。

@@ -1,4 +1,4 @@
-> この記事は[MUSIC \(\)](https://ja.wikipedia.org/wiki/MUSIC_\(\))から翻訳されています。
+> この記事は[MUSIC \(中島美嘉のアルバム\)](https://ja.wikipedia.org/wiki/MUSIC_\(中島美嘉のアルバム\))から翻訳されています。
 
 
 『**MUSIC**』（ミュージック）は、[2005年](../Page/2005年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")にリリースされた[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")の3枚目のフルアルバム。発売後、全国ツアー「MIKA NAKASHIMA LET'S MUSIC TOUR 2005」を開催した。

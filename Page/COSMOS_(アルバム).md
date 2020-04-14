@@ -1,4 +1,4 @@
-> この記事は[COSMOS \(\)](https://ja.wikipedia.org/wiki/COSMOS_\(\))から翻訳されています。
+> この記事は[COSMOS \(アルバム\)](https://ja.wikipedia.org/wiki/COSMOS_\(アルバム\))から翻訳されています。
 
 
 『**COSMOS**』（コスモス）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンドである](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")の9枚目の[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")\[1\]。[1996年](../Page/1996年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[ビクター](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")[インビテーションよりリリースされた](../Page/Invitation_\(レーベル\).md "wikilink")。初回盤のみフォトプリント・カラーPケース仕様、抽選で「キャンディ[PVメイキングビデオ](../Page/ミュージック・ビデオ.md "wikilink")」が当たる応募ハガキ封入。
@@ -11,6 +11,7 @@
   - 元[サンハウス](../Page/サンハウス.md "wikilink")、[シーナ&ザ・ロケッツ](../Page/シーナ&ザ・ロケッツ.md "wikilink")の奈良敏博がリズム・ディレクター、共同プロデューサーとして参加している。
   - 歌詞カードの上下に配置されている細長い模様は、斜めから見るとある文字\[3\]が浮かび上がるという、ちょっとした仕掛けが隠されている。
   - 本アルバムリリース後に[マーキュリー・ミュージック・エンタテイメントへ移籍したため](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、ビクターエンタテインメント在籍時の最後のスタジオ・アルバムとなった。
+  - アートワークは[サカグチケン](https://ja.wikipedia.org/wiki/サカグチケン "wikilink")
 
 ## リリース履歴
 

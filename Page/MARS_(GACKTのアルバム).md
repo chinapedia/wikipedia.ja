@@ -1,4 +1,4 @@
-> この記事は[MARS \(GACKT\)](https://ja.wikipedia.org/wiki/MARS_\(GACKT\))から翻訳されています。
+> この記事は[MARS \(GACKTのアルバム\)](https://ja.wikipedia.org/wiki/MARS_\(GACKTのアルバム\))から翻訳されています。
 
 
 『**MARS**』（マーズ）は、[2000年](../Page/2000年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")に発表された[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")のソロ2枚目のアルバムで、初のフル・アルバムである。

@@ -1,4 +1,4 @@
-> この記事は[Portal://Commons](https://ja.wikipedia.org/wiki/Portal://Commons)から翻訳されています。
+> この記事は[Portal:日本の都道府県/神奈川県/Commons早見表](https://ja.wikipedia.org/wiki/Portal:日本の都道府県/神奈川県/Commons早見表)から翻訳されています。
 
 
   - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") - [:Commons:Category:Kanagawa prefecture](https://ja.wikipedia.org/wiki/:Commons:Category:Kanagawa_prefecture "wikilink") - [:Commons:Kanagawa Prefecture](https://ja.wikipedia.org/wiki/:Commons:Kanagawa_Prefecture "wikilink")

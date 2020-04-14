@@ -1,4 +1,4 @@
-> この記事は[MAGIC \(THE SQUARE\)](https://ja.wikipedia.org/wiki/MAGIC_\(THE_SQUARE\))から翻訳されています。
+> この記事は[MAGIC \(THE SQUAREのアルバム\)](https://ja.wikipedia.org/wiki/MAGIC_\(THE_SQUAREのアルバム\))から翻訳されています。
 
 
 『**MAGIC**』（マジック）は、[THE SQUAREの](../Page/T-SQUARE.md "wikilink")5枚目のアルバムである。[1981年](../Page/1981年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")にリリースされた。

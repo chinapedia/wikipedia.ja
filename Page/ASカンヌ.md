@@ -1,4 +1,4 @@
-> この記事は[AS](https://ja.wikipedia.org/wiki/AS)から翻訳されています。
+> この記事は[ASカンヌ](https://ja.wikipedia.org/wiki/ASカンヌ)から翻訳されています。
 
 
 **アソシアシヨン・スポルティーヴ・ドゥ・カンヌ**（**Association Sportive de Cannes**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[カンヌ](../Page/カンヌ.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。

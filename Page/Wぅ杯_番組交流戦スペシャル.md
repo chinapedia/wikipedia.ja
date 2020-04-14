@@ -1,4 +1,4 @@
-> この記事は[W ](https://ja.wikipedia.org/wiki/W_)から翻訳されています。
+> この記事は[Wぅ杯 番組交流戦スペシャル](https://ja.wikipedia.org/wiki/Wぅ杯_番組交流戦スペシャル)から翻訳されています。
 
 
 **Wぅ杯 番組交流戦スペシャル**（わらうはい ばんぐみこうりゅうせんスペシャル）は、[2006年](../Page/2006年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")〜[15日と](../Page/6月15日.md "wikilink")[18日の](../Page/6月18日.md "wikilink")4回にわたって、[フジテレビ系列で放送される](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ゴールデンタイム](https://ja.wikipedia.org/wiki/ゴールデンタイム "wikilink")で放送されている番組で同じフジテレビ系列で放送されている番組の出演者が担当している番組以外の番組に登場する[相互乗り入れ](https://ja.wikipedia.org/wiki/相互乗り入れ "wikilink")企画となっている。その企画は『[2006 FIFAワールドカップ](../Page/2006_FIFAワールドカップ.md "wikilink")』のグループステージ期間中でW杯ハイライトの裏で放送した。

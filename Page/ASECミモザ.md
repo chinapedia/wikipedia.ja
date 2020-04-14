@@ -1,4 +1,4 @@
-> この記事は[ASEC](https://ja.wikipedia.org/wiki/ASEC)から翻訳されています。
+> この記事は[ASECミモザ](https://ja.wikipedia.org/wiki/ASECミモザ)から翻訳されています。
 
 
 **ASECミモザ**（）は、[コートジボワール](../Page/コートジボワール.md "wikilink")の都市[アビジャン](../Page/アビジャン.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。日本では**ASECアビジャン**と表記されることも多い。

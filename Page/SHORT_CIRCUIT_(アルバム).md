@@ -1,4 +1,4 @@
-> この記事は[SHORT CIRCUIT \(\)](https://ja.wikipedia.org/wiki/SHORT_CIRCUIT_\(\))から翻訳されています。
+> この記事は[SHORT CIRCUIT \(アルバム\)](https://ja.wikipedia.org/wiki/SHORT_CIRCUIT_\(アルバム\))から翻訳されています。
 
 
 『**SHORT CIRCUIT**』（ショートサーキット）は、[I've](../Page/I've.md "wikilink")の1枚目の[コンセプト・アルバム](../Page/コンセプト・アルバム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[ファクトリーレコーズから発売された](../Page/I've.md "wikilink")。

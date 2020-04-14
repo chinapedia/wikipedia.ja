@@ -1,4 +1,4 @@
-> この記事は[DE!](https://ja.wikipedia.org/wiki/DE!)から翻訳されています。
+> この記事は[ジャングルDEいこう!](https://ja.wikipedia.org/wiki/ジャングルDEいこう!)から翻訳されています。
 
 
 『**ジャングルDEいこう\!**』は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に全3巻が発売された[OVA](../Page/OVA.md "wikilink")。

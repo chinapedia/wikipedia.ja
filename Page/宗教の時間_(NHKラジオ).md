@@ -1,4 +1,4 @@
-> この記事は[ \(NHK\)](https://ja.wikipedia.org/wiki/_\(NHK\))から翻訳されています。
+> この記事は[宗教の時間 \(NHKラジオ\)](https://ja.wikipedia.org/wiki/宗教の時間_\(NHKラジオ\))から翻訳されています。
 
 
 **宗教の時間**（しゅうきょうのじかん）は、[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")で放送されている[宗教番組](../Page/宗教番組.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[FC \(\)](https://ja.wikipedia.org/wiki/FC_\(\))から翻訳されています。
+> この記事は[ボタフォゴFC \(サンパウロ州\)](https://ja.wikipedia.org/wiki/ボタフォゴFC_\(サンパウロ州\))から翻訳されています。
 
 
 **ボタフォゴFC** () 、通称**ボタフォゴ・デ・リベイラン・プレト** (Botafogo de Ribeirão Preto) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[サンパウロ州](https://ja.wikipedia.org/wiki/サンパウロ州 "wikilink")[リベイラン・プレト](https://ja.wikipedia.org/wiki/リベイラン・プレト "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ブラジルには同名のクラブが複数存在するため、ボタフォゴ・デ・リベイラン・プレトと呼ばれている。またサンパウロ州の略称を表す「SP」を付けて**ボタフォゴ-SP** (Botafogo-SP) と表記されることがある。

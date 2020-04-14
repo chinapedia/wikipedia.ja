@@ -1,4 +1,4 @@
-> この記事は[LG](https://ja.wikipedia.org/wiki/LG)から翻訳されています。
+> この記事は[LG杯世界棋王戦](https://ja.wikipedia.org/wiki/LG杯世界棋王戦)から翻訳されています。
 
 
 **LG杯世界棋王戦**（LGはいせかいきおうせん、LG배 세계기왕전）は、[韓国](../Page/大韓民国.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[中国](../Page/中国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[米国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[欧州の棋士による](../Page/ヨーロッパ.md "wikilink")[囲碁](../Page/囲碁.md "wikilink")の国際[棋戦](https://ja.wikipedia.org/wiki/棋戦_\(囲碁\) "wikilink")。1996年に開始。前身の韓国国内棋戦だった[棋王戦から発展した](https://ja.wikipedia.org/wiki/棋王戦_\(韓国\) "wikilink")。

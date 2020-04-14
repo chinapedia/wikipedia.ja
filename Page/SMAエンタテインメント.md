@@ -1,4 +1,4 @@
-> この記事は[SMA](https://ja.wikipedia.org/wiki/SMA)から翻訳されています。
+> この記事は[SMAエンタテインメント](https://ja.wikipedia.org/wiki/SMAエンタテインメント)から翻訳されています。
 
 
 **SMAエンタテインメント** (*SMA Entertainment Inc.*) は、2006年4月1日、SMA([ソニー・ミュージックアーティスツ](../Page/ソニー・ミュージックアーティスツ.md "wikilink"))の分割・再編・統合により設立されていた[芸能事務所](../Page/芸能事務所.md "wikilink")。2009年4月1日、親会社であるSMAが他の子会社を含め再び合併。当事業所も統合された。

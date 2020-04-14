@@ -1,4 +1,4 @@
-> この記事は[in](https://ja.wikipedia.org/wiki/in)から翻訳されています。
+> この記事は[ザ・ゴルフトーナメントin御前崎](https://ja.wikipedia.org/wiki/ザ・ゴルフトーナメントin御前崎)から翻訳されています。
 
 
 **ザ・ゴルフトーナメントin御前崎**（ザ・ゴルフトーナメントインおまえざき）は[日本ゴルフツアー機構](../Page/日本ゴルフツアー機構.md "wikilink")（JGTO）公認の男子プロ[ゴルフ](../Page/ゴルフ.md "wikilink")[トーナメントで](../Page/トーナメント方式.md "wikilink")、[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")から4日間の日程で[静岡県](../Page/静岡県.md "wikilink")[御前崎市](../Page/御前崎市.md "wikilink")にある静岡カントリー浜岡コースを舞台に、[総合広告代理店](../Page/広告代理店.md "wikilink")・[I\&S BBDO](../Page/I&S_BBDO.md "wikilink")（アイアンドエス・ビービーディオー、旧・第一広告社）の主催で行われた。

@@ -1,4 +1,4 @@
-> この記事は[IV](https://ja.wikipedia.org/wiki/IV)から翻訳されています。
+> この記事は[グローランサーIV](https://ja.wikipedia.org/wiki/グローランサーIV)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

@@ -1,4 +1,4 @@
-> この記事は[S.M.A.P.](https://ja.wikipedia.org/wiki/S.M.A.P.)から翻訳されています。
+> この記事は[S.M.A.P.カード](https://ja.wikipedia.org/wiki/S.M.A.P.カード)から翻訳されています。
 
 
 **S.M.A.P.カード**（スマップカード）とは、[郵政省](../Page/郵政省.md "wikilink")（現・[総務省](../Page/総務省.md "wikilink")）の認可法人「通信・放送機構(TAO)」（現・[独立行政法人](../Page/独立行政法人.md "wikilink")「[情報通信研究機構](../Page/情報通信研究機構.md "wikilink")(NICT)」）の研究開発事業として[札幌圏で実験された非接触型](../Page/札幌都市圏.md "wikilink")[ICカード](../Page/ICカード.md "wikilink")の名称である。**S**apporo **M**ulti **A**ccess **P**ort の略。ソニーの[FeliCa](../Page/FeliCa.md "wikilink")の技術を採用している。

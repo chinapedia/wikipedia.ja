@@ -1,4 +1,4 @@
-> この記事は[ PARTIII](https://ja.wikipedia.org/wiki/_PARTIII)から翻訳されています。
+> この記事は[大都会 PARTIII](https://ja.wikipedia.org/wiki/大都会_PARTIII)から翻訳されています。
 
 
 『**大都会 PARTIII**』（だいとかい パートスリー）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")10月3日から[1979年](../Page/1979年.md "wikilink")9月11日まで[日本テレビ系列で毎週火曜日](../Page/日本テレビ放送網.md "wikilink")21:00 - 21:54に全49話が放送された、[石原プロモーション](../Page/石原プロモーション.md "wikilink")制作の[刑事ドラマ](../Page/刑事ドラマ.md "wikilink")である。『[大都会](https://ja.wikipedia.org/wiki/大都会_\(テレビドラマ\) "wikilink")』シリーズ第3作。
@@ -7,7 +7,7 @@
 
 前作『[大都会 PARTII](../Page/大都会_PARTII.md "wikilink")』終了から半年を経て製作されたシリーズ第3弾。舞台は前作と同じく城西署捜査課\[1\]であるが、人物設定に大きな変更が見られ、続篇ではなく独立した作品として位置付けられている。黒岩部長刑事を中心とする捜査課チームは新たに「**黒岩軍団**」という呼称が設定され、タイトルロゴのデザインも前2作で使われた賀茂牛道人による毛筆体からゴシック体に変更されている\[2\]。
 
-作風は前作よりも更に過激なものとなり、流血や暴力描写のほか、登場する犯人は射殺されることがほとんどで、捜査課の刑事も犯人に拉致監禁されるエピソードも多く作られた。大掛かりな爆破、自動小銃や[バズーカ砲](https://ja.wikipedia.org/wiki/バズーカ砲 "wikilink")などを用いたアクションシーンは前作以上にスケールアップが図られ、本作から車両協力に[日産自動車](../Page/日産自動車.md "wikilink")が参入したことで、主にカースタント用として大量の劇用車が投入された\[3\]。
+作風は前作よりも更にバイオレンス色が強められ、登場する犯人は黒岩に殺害されることがほとんどで、その一方で捜査課の刑事が犯人に拉致監禁されるエピソードも多く作られた。大掛かりな爆破、自動小銃や[バズーカ砲](https://ja.wikipedia.org/wiki/バズーカ砲 "wikilink")などを用いたアクションシーンは前作以上にスケールアップが図られ、本作から車両協力に[日産自動車](../Page/日産自動車.md "wikilink")が参入したことで、主にカースタント用として大量の劇用車が投入された\[3\]。
 
 全49話の視聴率も平均20%を突破するなど人気は高く、作品のフォーマットは『[西部警察](../Page/西部警察.md "wikilink")』へと引き継がれた（詳細は[後述](https://ja.wikipedia.org/wiki/大都会_PARTIII#西部警察への移行 "wikilink")）。
 
@@ -422,7 +422,7 @@
 <td><p>最後通告</p></td>
 <td><p>新井光</p></td>
 <td><p>渡辺拓也</p></td>
-<td><p><a href="../Page/本田博太郎.md" title="wikilink">本田博太郎</a>、椎谷建治、小林重四郎、多宮健二、晴海勇三、戸塚孝、小坂生男、<a href="https://ja.wikipedia.org/wiki/原のり子_(女優)" title="wikilink">原のり子</a>、<a href="https://ja.wikipedia.org/wiki/浅香久美子" title="wikilink">浅香久美子</a>、細野輝利、<a href="https://ja.wikipedia.org/wiki/中林義明" title="wikilink">中林義明</a>、<a href="https://ja.wikipedia.org/wiki/佐藤昇" title="wikilink">佐藤昇</a>、宮田光、<a href="https://ja.wikipedia.org/wiki/高橋広美" title="wikilink">高橋広美</a>、細沼茂、小野茂、加藤勝、<a href="https://ja.wikipedia.org/wiki/中山辰夫" title="wikilink">中山辰夫</a>、星野昇、大竹義夫、西内彰、<a href="https://ja.wikipedia.org/wiki/北斗太郎" title="wikilink">北斗太郎</a>、<a href="https://ja.wikipedia.org/wiki/清水忠一" title="wikilink">清水忠一</a></p></td>
+<td><p><a href="../Page/本田博太郎.md" title="wikilink">本田博太郎</a>、椎谷建治、小林重四郎、多宮健二、晴海勇三、戸塚孝、小坂生男、<a href="https://ja.wikipedia.org/wiki/原のり子_(女優)" title="wikilink">原のり子</a>、<a href="https://ja.wikipedia.org/wiki/浅香久美子" title="wikilink">浅香久美子</a>、細野輝利、<a href="https://ja.wikipedia.org/wiki/中林義明" title="wikilink">中林義明</a>、<a href="https://ja.wikipedia.org/wiki/佐藤昇_(俳優)" title="wikilink">佐藤昇</a>、宮田光、<a href="https://ja.wikipedia.org/wiki/高橋広美" title="wikilink">高橋広美</a>、細沼茂、小野茂、加藤勝、<a href="https://ja.wikipedia.org/wiki/中山辰夫" title="wikilink">中山辰夫</a>、星野昇、大竹義夫、西内彰、<a href="https://ja.wikipedia.org/wiki/北斗太郎" title="wikilink">北斗太郎</a>、<a href="https://ja.wikipedia.org/wiki/清水忠一" title="wikilink">清水忠一</a></p></td>
 <td><p>22.8%</p></td>
 </tr>
 <tr class="even">

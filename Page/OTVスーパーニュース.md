@@ -1,4 +1,4 @@
-> この記事は[OTV](https://ja.wikipedia.org/wiki/OTV)から翻訳されています。
+> この記事は[OTVスーパーニュース](https://ja.wikipedia.org/wiki/OTVスーパーニュース)から翻訳されています。
 
 
 『**OTVスーパーニュース**』（オーティーブイスーパーニュース、[ラテン文字](../Page/ラテン文字.md "wikilink")表記：*OTV Super NEWS*）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")まで[沖縄テレビで夕方に放送されていた](../Page/沖縄テレビ放送.md "wikilink")[沖縄県](../Page/沖縄県.md "wikilink")向けの[ローカルワイド](../Page/報道番組.md "wikilink")[ニュース番組である](../Page/報道番組.md "wikilink")。

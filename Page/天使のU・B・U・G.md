@@ -1,4 +1,4 @@
-> この記事は[UBUG](https://ja.wikipedia.org/wiki/UBUG)から翻訳されています。
+> この記事は[天使のU・B・U・G](https://ja.wikipedia.org/wiki/天使のU・B・U・G)から翻訳されています。
 
 
 『**天使のU・B・U・G**』（てんしのうぶげ）は、一部[フジテレビ系列局で放送された](../Page/フジネットワーク.md "wikilink")[フジテレビ製作の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。製作局のフジテレビでは[1994年](../Page/1994年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")まで、毎週[木曜](../Page/木曜日.md "wikilink") 25:15 - 26:15 （[金曜](../Page/金曜日.md "wikilink") 1:15 - 2:15）に放送。

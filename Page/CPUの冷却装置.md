@@ -1,4 +1,4 @@
-> この記事は[CPU](https://ja.wikipedia.org/wiki/CPU)から翻訳されています。
+> この記事は[CPUの冷却装置](https://ja.wikipedia.org/wiki/CPUの冷却装置)から翻訳されています。
 
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:AMD_heatsink_and_fan.jpg "wikilink") **CPUの冷却装置**（シーピーユーのれいきゃくそうち）の記事では専ら、「CPUクーラー」と呼ばれている[パソコンの](../Page/パーソナルコンピュータ.md "wikilink")[CPU](../Page/CPU.md "wikilink")の[冷却](../Page/冷却.md "wikilink")およびその装置について解説する。CPU以外の[GPUなどの](../Page/Graphics_Processing_Unit.md "wikilink")[プロセッサ](../Page/プロセッサ.md "wikilink")、あるいはもっと他の[集積回路](../Page/集積回路.md "wikilink")で発熱の著しいものにおける冷却、あるいはパソコン以前から存在して冷却が行われていた[メインフレーム](../Page/メインフレーム.md "wikilink")や[スーパーコンピュータ](../Page/スーパーコンピュータ.md "wikilink")、あるいは[ワークステーション](../Page/ワークステーション.md "wikilink")や[サーバ](../Page/サーバ.md "wikilink")における冷却と、本質的には何ら変わる所は無いのだが、パソコンの場合は[フォームファクタ](https://ja.wikipedia.org/wiki/フォームファクタ "wikilink")による制限という歴史的な都合などにより、「CPUクーラー」と、ビデオカードの主に[GPUを冷却する](../Page/Graphics_Processing_Unit.md "wikilink")「VGAクーラー」で形態が著しく異なるとか、本来は通風させる方向に沿っているべきであるマザーボード上の子基板がその向きに沿っていない（メモリモジュール等）といった事情がある。特に、互換性のあるパーツを集めて作るショップ系BTOや自作機ではそういった影響が大きい。一方でカスタムの幅が狭い前提で設計されるメーカー製PCや[PCサーバ](../Page/PCサーバ.md "wikilink")等では、フォームファクタに囚われず全体最適な設計が見られることも多い\[1\]。

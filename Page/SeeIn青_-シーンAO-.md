@@ -1,4 +1,4 @@
-> この記事は[SeeIn -AO-](https://ja.wikipedia.org/wiki/SeeIn_-AO-)から翻訳されています。
+> この記事は[SeeIn青 -シーンAO-](https://ja.wikipedia.org/wiki/SeeIn青_-シーンAO-)から翻訳されています。
 
 
 『**SeeIn青 -シーンAO-**』（シーンあお）は、[アリスソフト](../Page/アリスソフト.md "wikilink")から[2000年](../Page/2000年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")に発売された[18禁](../Page/アダルトゲーム.md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")には、[廉価版](../Page/廉価版.md "wikilink")として再発売された。

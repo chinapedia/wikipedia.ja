@@ -1,4 +1,4 @@
-> この記事は[UEFA U-17](https://ja.wikipedia.org/wiki/UEFA_U-17)から翻訳されています。
+> この記事は[UEFA U-17欧州選手権](https://ja.wikipedia.org/wiki/UEFA_U-17欧州選手権)から翻訳されています。
 
 
 **UEFA U-17欧州選手権**（）とは、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、17歳以下の[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。1982年から2001年までは**UEFA U-16欧州選手権**であり、16歳以下のナショナルチームが出場した。

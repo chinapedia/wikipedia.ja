@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[コリチーバFC](https://ja.wikipedia.org/wiki/コリチーバFC)から翻訳されています。
 
 
 **コリチーバFC** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[パラナ州](../Page/パラナ州.md "wikilink")[クリチバ](../Page/クリチバ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。ドイツ系コミュニティの若者達によって[1909年](../Page/1909年.md "wikilink")に設立。

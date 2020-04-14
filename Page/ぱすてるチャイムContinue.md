@@ -1,4 +1,4 @@
-> この記事は[Continue](https://ja.wikipedia.org/wiki/Continue)から翻訳されています。
+> この記事は[ぱすてるチャイムContinue](https://ja.wikipedia.org/wiki/ぱすてるチャイムContinue)から翻訳されています。
 
 
 『**ぱすてるチャイムContinue**』（ぱすてるチャイムコンティニュー）は、[2005年](../Page/2005年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink")に[アリスソフト](../Page/アリスソフト.md "wikilink")から発売された[18禁](../Page/アダルトゲーム.md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。
@@ -420,7 +420,7 @@
 ### PSP版
 
   - オープニングテーマ「[ぱすてるチャイム](https://ja.wikipedia.org/wiki/ぱすてるチャイム_\(曲\) "wikilink")」
-    歌 - バンビ・アイ feat.nao / 作詞 - nao、山下慎一狼 / 作曲 - 新井健史 / 編曲 - Demetori
+    歌 - バンビ・アイ feat.nao / 作詞 - nao、山下慎一狼 / 作曲 - 新井健史 / 編曲 - [Demetori](../Page/Demetori.md "wikilink")
   - 挿入歌「[ふぁ〜すと∞いんぷれっしょん](https://ja.wikipedia.org/wiki/ぱすてるチャイム_\(曲\) "wikilink")」
     歌・作詞 - nao / 作曲・編曲 - 山田重利
   - エンディングテーマ「Brand new & Continue」

@@ -1,4 +1,4 @@
-> この記事は[NBS](https://ja.wikipedia.org/wiki/NBS)から翻訳されています。
+> この記事は[NBSニュース](https://ja.wikipedia.org/wiki/NBSニュース)から翻訳されています。
 
 
 『**NBSニュース**』（エヌビーエスニュース）は、[長野放送](../Page/長野放送.md "wikilink")（NBS）で放送されている[報道番組](../Page/報道番組.md "wikilink")。

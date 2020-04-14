@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[脆弱X症候群](https://ja.wikipedia.org/wiki/脆弱X症候群)から翻訳されています。
 
 
 **脆弱X症候群**（ぜいじゃくエックスしょうこうぐん、フラジャイルエックスしょうこうぐん:**FXS**）は、2006年現在唯一[遺伝性であることが確認されている](../Page/遺伝子疾患.md "wikilink")[知的障害](https://ja.wikipedia.org/wiki/知的障害 "wikilink")である。英語ではfragile X syndrome。「フラジャイル」はfragile（脆い、の意）の[カタカナ書き](../Page/片仮名.md "wikilink")。

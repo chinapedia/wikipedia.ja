@@ -1,4 +1,4 @@
-> この記事は[Rebirth \(Gackt\)](https://ja.wikipedia.org/wiki/Rebirth_\(Gackt\))から翻訳されています。
+> この記事は[Rebirth \(Gacktのアルバム\)](https://ja.wikipedia.org/wiki/Rebirth_\(Gacktのアルバム\))から翻訳されています。
 
 
 『**Rebirth**』（リバース）は、[2001年](../Page/2001年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")に発表された[Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")の2枚目のフル[アルバム](../Page/アルバム.md "wikilink")。後の同年[6月27日](../Page/6月27日.md "wikilink")には「Gacktの心臓」を象ったとされる特殊パッケージ仕様で、同音源にて発売している。

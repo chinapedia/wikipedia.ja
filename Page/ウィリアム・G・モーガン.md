@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[ウィリアム・G・モーガン](https://ja.wikipedia.org/wiki/ウィリアム・G・モーガン)から翻訳されています。
 
 
 *'ウィリアム・ジョージ・モーガン **（**William George Morgan*', [1870年](../Page/1870年.md "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") - [1942年](../Page/1942年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[バレーボール](../Page/バレーボール.md "wikilink")考案者である。

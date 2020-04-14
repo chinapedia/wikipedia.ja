@@ -1,4 +1,4 @@
-> この記事は[Zao](https://ja.wikipedia.org/wiki/Zao)から翻訳されています。
+> この記事は[Zao号](https://ja.wikipedia.org/wiki/Zao号)から翻訳されています。
 
 
 [280px](https://ja.wikipedia.org/wiki/ファイル:Niigata-kotsu-307.jpg "wikilink") **Zao号**（ざおうごう）は、[山形県](../Page/山形県.md "wikilink")[山形市](../Page/山形市.md "wikilink")と[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")とを結ぶ[高速バス](../Page/高速バス.md "wikilink")路線の愛称である。

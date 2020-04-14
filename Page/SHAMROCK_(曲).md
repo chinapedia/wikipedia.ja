@@ -1,4 +1,4 @@
-> この記事は[SHAMROCK \(\)](https://ja.wikipedia.org/wiki/SHAMROCK_\(\))から翻訳されています。
+> この記事は[SHAMROCK \(曲\)](https://ja.wikipedia.org/wiki/SHAMROCK_\(曲\))から翻訳されています。
 
 
 「**SHAMROCK**」（シャムロック）は、[UVERworld](../Page/UVERworld.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。発売元は、[gr8\!records](../Page/ソニー・ミュージックレコーズ.md "wikilink")(SME)。

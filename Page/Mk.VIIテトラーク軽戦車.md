@@ -1,4 +1,4 @@
-> この記事は[Mk.VII](https://ja.wikipedia.org/wiki/Mk.VII)から翻訳されています。
+> この記事は[Mk.VIIテトラーク軽戦車](https://ja.wikipedia.org/wiki/Mk.VIIテトラーク軽戦車)から翻訳されています。
 
 
 **Mk.VII 軽戦車 テトラーク**は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")時にイギリスによって開発、使用された[軽戦車](../Page/軽戦車.md "wikilink")。[空挺戦車](../Page/空挺戦車.md "wikilink")としても使用された。「テトラーク (Tetrarch)」とは、[古代ローマ](../Page/古代ローマ.md "wikilink")における四帝分割（[テトラルキア](../Page/テトラルキア.md "wikilink")）時代の分割統治者の意味。

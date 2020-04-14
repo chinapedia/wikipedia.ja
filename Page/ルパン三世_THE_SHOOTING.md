@@ -1,4 +1,4 @@
-> この記事は[ THE SHOOTING](https://ja.wikipedia.org/wiki/_THE_SHOOTING)から翻訳されています。
+> この記事は[ルパン三世 THE SHOOTING](https://ja.wikipedia.org/wiki/ルパン三世_THE_SHOOTING)から翻訳されています。
 
 
 『**ルパン三世 THE SHOOTING**』（ルパンさんせい ザ・シューティング）は、セガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")） の[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")。[モンキー・パンチ](https://ja.wikipedia.org/wiki/モンキー・パンチ "wikilink")原作の[アニメ](../Page/アニメ.md "wikilink")『[ルパン三世](../Page/ルパン三世.md "wikilink")』を題材にした[ガンシューティングゲーム](../Page/ガンシューティングゲーム.md "wikilink")である。

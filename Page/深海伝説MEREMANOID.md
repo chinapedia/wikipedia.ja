@@ -1,4 +1,4 @@
-> この記事は[MEREMANOID](https://ja.wikipedia.org/wiki/MEREMANOID)から翻訳されています。
+> この記事は[深海伝説MEREMANOID](https://ja.wikipedia.org/wiki/深海伝説MEREMANOID)から翻訳されています。
 
 
 『**深海伝説MEREMANOID**』（しんかいでんせつマーメノイド）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送された[寺田憲史](../Page/寺田憲史.md "wikilink")、[XING](https://ja.wikipedia.org/wiki/XING "wikilink")原作の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。全24話。テレビ朝日初の深夜アニメ。[サムスングループ](../Page/サムスングループ.md "wikilink")が初めて製作したアニメでもある\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[Sign \(Mr.Children\)](https://ja.wikipedia.org/wiki/Sign_\(Mr.Children\))から翻訳されています。
+> この記事は[Sign \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/Sign_\(Mr.Childrenの曲\))から翻訳されています。
 
 
 {{Infobox Single | Name = Sign | Artist = [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") | Album = \[\[IラブU|I  「**Sign**」（サイン）は、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の26枚目の[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。

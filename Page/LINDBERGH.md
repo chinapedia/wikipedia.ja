@@ -13,11 +13,11 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
 
 他社の同様のPCベースの基板と比べると、電源は外付け、電源配線数の追加、吸気と排気を発泡スチロール製の仕切りで分けるなどのエアフロー対策、特殊I/Oに対応など業務用ゲーム向けの特徴が際だっている。しかし従来のNAOMI基板と比較すると動作が不安定になる弊害が頻繁に発生（電源周りの電圧低下、ノイズの影響の受けやすさ、当時としては超高発熱のCPUを搭載していたこと、環境次第では熱暴走を引き起こしやすく、グラフィックが安定しなくなるなど）。 また専用電源もファン固着問題が多発し、トラブルの大きな要因となった。発売から数年後にセガは問題を認め、対策品への無償交換及び、それまで支払った修理料金の返金が行われている。 このため後継機の[RINGシリーズのうち](https://ja.wikipedia.org/wiki/RING_\(アーケードゲーム基板\) "wikilink")、RINGEDGEとRINGEDGE2では内蔵電源に変更されている。また、NVIDIA製ビデオチップのロット不良の影響を受けており、『[頭文字D ARCADE STAGE 4](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』、『[セガネットワークカジノクラブ](../Page/セガネットワークカジノクラブ.md "wikilink")』、『[三国志大戦 ver2.1 若き獅子の鼓動](https://ja.wikipedia.org/wiki/三国志大戦 "wikilink")』などいくつかのタイトルではビデオカードの無償交換、修理料金の返金が行われている\[2\]\[3\]。 また新たな運営方法としてオペレーターに対して従量課金も行えるようになった（後述の課金システムP-ras）、該当タイトルはオフライン時にもプレイ数を記録するセキュリティボードが搭載されている。その場合は基板はセガ所有扱いとなり修理は無償であるものの、不正防止のために基板は封印シールで分解禁止となり、オペレーター側で内部清掃が行えないという事情もトラブルが多い印象の一因となっていたと推測される。
 
-部品調達難に伴い、『[レッツ ゴー ジャングル\!](https://ja.wikipedia.org/wiki/Let's_Go_JUNGLE! "wikilink")』と使用基板が[RINGに変更されてからも同一筐体を使用していた](https://ja.wikipedia.org/wiki/RING_\(アーケードゲーム基板\) "wikilink")『頭文字D ARCADE STAGE』（4〜5）以外の全タイトルの修理サポートは、2017年3月31日を以って\[4\]、『レッツ ゴー ジャングル\!』の修理サポートも2018年2月28日を以ってそれぞれ終了した\[5\]。LINDBERGHキャビネットの修理サポート自体も、2019年2月28日を以って修理サポートを終了した\[6\]。
+部品調達難に伴い、『[レッツ ゴー ジャングル\!](https://ja.wikipedia.org/wiki/Let's_Go_JUNGLE! "wikilink")』と使用基板が[RINGに変更されてからも同一筐体を使用していた](https://ja.wikipedia.org/wiki/RING_\(アーケードゲーム基板\) "wikilink")『頭文字D ARCADE STAGE』（4〜5）以外の全タイトルの修理サポートは、2017年3月31日を以って\[4\]、『レッツ ゴー ジャングル\!』の修理サポートも2018年2月28日を以ってそれぞれ終了した\[5\]。LINDBERGHキャビネットの修理サポート自体も、2019年2月28日を以って修理サポートを終了した\[6\]。そして『頭文字D ARCADE STAGE』（4〜5）の修理サポートも2020年2月28日を以って終了した\[7\]。
 
 ## 基板スペック
 
-  - [CPU](../Page/CPU.md "wikilink"):[HTテクノロジ対応](../Page/同時マルチスレッディング.md "wikilink") [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium 4プロセッサ](../Page/Pentium_4.md "wikilink") 3.0GHz\[7\]
+  - [CPU](../Page/CPU.md "wikilink"):[HTテクノロジ対応](../Page/同時マルチスレッディング.md "wikilink") [インテル](https://ja.wikipedia.org/wiki/インテル "wikilink") [Pentium 4プロセッサ](../Page/Pentium_4.md "wikilink") 3.0GHz\[8\]
     [GPU](../Page/Graphics_Processing_Unit.md "wikilink"):[NVIDIA](../Page/NVIDIA.md "wikilink")製 256bit幅 GDDR3 [VRAM](../Page/VRAM.md "wikilink")256MB搭載 [AGP接続](../Page/Accelerated_Graphics_Port.md "wikilink")
     [Vertex](https://ja.wikipedia.org/wiki/Vertex_Shader "wikilink") & [Pixel Shader](https://ja.wikipedia.org/wiki/Pixel_Shader "wikilink") 3.0、2画面同時出力も可能。実機の[ヒートシンク](../Page/ヒートシンク.md "wikilink")形状、部品構成は[GeForce](https://ja.wikipedia.org/wiki/GeForce "wikilink")6800Ultraと同じ。
   - サウンド:3Dオーディオシンセサイザーチップ搭載。最大64音、5.1ch[サラウンド出力対応](https://ja.wikipedia.org/wiki/デジタル音響システム "wikilink")
@@ -89,7 +89,7 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
 
 ### 発売中止
 
-  - PSY-PHI - ギリシア文字で「ΨΦ」と書いて読みは「サイファイ」。[タッチパネル](../Page/タッチパネル.md "wikilink")のみで操作する[対戦格闘ゲーム](https://ja.wikipedia.org/wiki/対戦格闘ゲーム "wikilink")。[鈴木裕](https://ja.wikipedia.org/wiki/鈴木裕 "wikilink")監修。2006年春稼働予定とされていたが、ロケーションテスト時にタッチパネル上で頻繁に高速で指をなぞり続けることで火傷による指の怪我が多発。PL法に抵触することが発覚し、発売中止が発表される（2006年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")下旬）\[8\]。
+  - PSY-PHI - ギリシア文字で「ΨΦ」と書いて読みは「サイファイ」。[タッチパネル](../Page/タッチパネル.md "wikilink")のみで操作する[対戦格闘ゲーム](https://ja.wikipedia.org/wiki/対戦格闘ゲーム "wikilink")。[鈴木裕](https://ja.wikipedia.org/wiki/鈴木裕 "wikilink")監修。2006年春稼働予定とされていたが、ロケーションテスト時にタッチパネル上で頻繁に高速で指をなぞり続けることで火傷による指の怪我が多発。PL法に抵触することが発覚し、発売中止が発表される（2006年[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")下旬）\[9\]。
 
 ## 脚注
 
@@ -105,5 +105,6 @@ LINDBERGH対応の第1弾タイトルとして[ガンシューティングゲー
 4.  [弊社製品保守対応の終了について](https://www2.sls-net.co.jp/cms/sls/pdf/news/201611_p_maintenance.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス 2016年11月
 5.  [弊社製品保守対応の終了について](https://www2.sls-net.co.jp/cms/sls/pdf/news/2nd_Termination_maintenance_201704.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス 2017年4月
 6.  [弊社製品保守対応の終了について](https://www2.sls-net.co.jp/cms/sls/pdf/news/18_04_Termination3.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス 2018年4月
-7.  ソケットはSocket478であり、90nmプロセスであるPrescott（プレスコット）を採用
-8.  [［GDC 2011］「バーチャファイター」の生みの親 鈴木 裕氏の経歴を振り返るセッション「Yu Suzuki’s Gameworks: A Career Retrospective」](http://www.4gamer.net/games/123/G012317/20110303030/) ([4Gamer](https://ja.wikipedia.org/wiki/4Gamer "wikilink"))
+7.  [弊社製品保守対応の終了について](https://www2.sls-net.co.jp/cms/sls/pdf/news/201905_Maintenance_response.pdf)セガ・インタラクティブ、セガ・ロジスティクスサービス 2019年5月
+8.  ソケットはSocket478であり、90nmプロセスであるPrescott（プレスコット）を採用
+9.  [［GDC 2011］「バーチャファイター」の生みの親 鈴木 裕氏の経歴を振り返るセッション「Yu Suzuki’s Gameworks: A Career Retrospective」](http://www.4gamer.net/games/123/G012317/20110303030/) ([4Gamer](https://ja.wikipedia.org/wiki/4Gamer "wikilink"))

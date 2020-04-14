@@ -1,11 +1,11 @@
-> この記事は[QT](https://ja.wikipedia.org/wiki/QT)から翻訳されています。
+> この記事は[QT延長症候群](https://ja.wikipedia.org/wiki/QT延長症候群)から翻訳されています。
 
 
 **QT延長症候群**（QTえんちょうしょうこうぐん、long QT syndrome; LQTS）は、[心臓](../Page/心臓.md "wikilink")の収縮後の再分極の遅延がおき、[心室頻拍](https://ja.wikipedia.org/wiki/心室頻拍 "wikilink")（Torsades de Pointes:TdP、心室性不整脈の一種）のリスクを増大させる心臓疾患である。
 
 ## 概要
 
-[心臓](../Page/心臓.md "wikilink")の収縮後の再分極の遅延によって生じる[心室頻拍](https://ja.wikipedia.org/wiki/心室頻拍 "wikilink")は[動悸](../Page/動悸.md "wikilink")、[失神](../Page/失神.md "wikilink")や[心室細動](../Page/心室細動.md "wikilink")による[突然死](../Page/突然死.md "wikilink")につながる可能性がある。症状は、条件のサブタイプに応じて、様々な刺激によって誘発される。[心臓](../Page/心臓.md "wikilink")に器質的疾患を持たないにもかかわらず、[心電図](../Page/心電図.md "wikilink")上で[QT時間](https://ja.wikipedia.org/wiki/QT時間 "wikilink")の延長を認める病態である。QT時間が0.46秒以上、または[RR](https://ja.wikipedia.org/wiki/RR "wikilink")間隔で補正したQTc時間では0.44秒以上である場合を指す。Torsades de pointes（[TdP](https://ja.wikipedia.org/wiki/トルサード・ド・ポワント "wikilink")）と呼ばれる[心室頻拍](https://ja.wikipedia.org/wiki/心室頻拍 "wikilink")を惹起することがある。より簡略にはT波の終点がRRの中点を越えていれば明らかにQTの延長とする。この方法は[スクリーニング](https://ja.wikipedia.org/wiki/スクリーニング "wikilink")診察時に用いることがある。
+[心臓](../Page/心臓.md "wikilink")の収縮後の再分極の遅延によって生じる[心室頻拍](https://ja.wikipedia.org/wiki/心室頻拍 "wikilink")は[動悸](../Page/動悸.md "wikilink")、[失神](../Page/失神.md "wikilink")や[心室細動](../Page/心室細動.md "wikilink")による[突然死](../Page/突然死.md "wikilink")につながる可能性がある。症状は、条件のサブタイプに応じて、様々な刺激によって誘発される。[心臓](../Page/心臓.md "wikilink")に器質的疾患を持たないにもかかわらず、[心電図](../Page/心電図.md "wikilink")上で[QT時間](https://ja.wikipedia.org/wiki/QT時間 "wikilink")の延長を認める病態である。QT時間が0.46秒以上、またはRR間隔で補正したQTc時間では0.44秒以上である場合を指す。Torsades de pointes（[TdP](https://ja.wikipedia.org/wiki/トルサード・ド・ポワント "wikilink")）と呼ばれる[心室頻拍](https://ja.wikipedia.org/wiki/心室頻拍 "wikilink")を惹起することがある。より簡略にはT波の終点がRRの中点を越えていれば明らかにQTの延長とする。この方法は[スクリーニング](https://ja.wikipedia.org/wiki/スクリーニング "wikilink")診察時に用いることがある。
 
 なお、精密には、QT時間は、RR間隔で補正する必要(Bazett 式のQTc = QT/Root(RR)、Heggliu. Holzman 式 QT = 0.39(RootRR) ± 0.04 sec)がある。
 

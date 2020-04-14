@@ -1,4 +1,4 @@
-> この記事は[JJ](https://ja.wikipedia.org/wiki/JJ)から翻訳されています。
+> この記事は[J・J・エイブラムス](https://ja.wikipedia.org/wiki/J・J・エイブラムス)から翻訳されています。
 
 
 **J・J・エイブラムス**（**J.J. Abrams**, [1966年](../Page/1966年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[映画プロデューサー](../Page/映画プロデューサー.md "wikilink")・クリエイター、[テレビプロデューサー](../Page/テレビプロデューサー.md "wikilink")・クリエイター、ドラマ・[映画監督](../Page/映画監督.md "wikilink")、[脚本家](../Page/脚本家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")。本名は**ジェフリー・ジェイコブ・エイブラムス（Jeffrey Jacob Abrams）**。[アクション](../Page/アクション映画.md "wikilink")、[ドラマ](../Page/ドラマ.md "wikilink")、[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")といったジャンルの作品で知られている。映画では[パラマウント映画](../Page/パラマウント映画.md "wikilink")、テレビドラマでは[ワーナー・ブラザース・テレビジョン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・テレビジョン "wikilink")と関係が深い。
@@ -31,7 +31,7 @@
 
 [スティーヴン・スピルバーグ](../Page/スティーヴン・スピルバーグ.md "wikilink")と[ブライアン・バーク](https://ja.wikipedia.org/wiki/ブライアン・バーク "wikilink")も製作に参加した[パラマウント映画](../Page/パラマウント映画.md "wikilink")の『[SUPER8/スーパーエイト](https://ja.wikipedia.org/wiki/SUPER8/スーパーエイト "wikilink")』(2011) で監督・脚本を務めた\[8\]。
 
-2012年、映画『[スター・ウォーズ/フォースの覚醒](https://ja.wikipedia.org/wiki/スター・ウォーズ/フォースの覚醒 "wikilink")』の監督に決定した。2019年12月20日公開予定の『[スター・ウォーズ/スカイウォーカーの夜明け](https://ja.wikipedia.org/wiki/スター・ウォーズ/スカイウォーカーの夜明け "wikilink")』でも脚本・監督を務める\[9\]。
+2012年、映画『[スター・ウォーズ/フォースの覚醒](https://ja.wikipedia.org/wiki/スター・ウォーズ/フォースの覚醒 "wikilink")』の監督に決定した。2019年12月20日公開の『[スター・ウォーズ/スカイウォーカーの夜明け](https://ja.wikipedia.org/wiki/スター・ウォーズ/スカイウォーカーの夜明け "wikilink")』でも脚本・監督を務める\[9\]。
 
 2020年から、所属のバッド・ロボットの映画製作契約がパラマウント映画から[ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")に変更する事が決まった。これで、[ワーナー・ブラザース・テレビジョン](https://ja.wikipedia.org/wiki/ワーナー・ブラザース・テレビジョン "wikilink")と共にバッド・ロボット作品をワーナー独占で手掛ける事になる。
 

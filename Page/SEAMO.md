@@ -782,7 +782,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - 「MUSIC FLAVER」（[Date fm](../Page/エフエム仙台.md "wikilink")、土曜日20:00 - ）
   - 「SUNMALL LIVE ON RADIO」（[HFM](../Page/広島エフエム放送.md "wikilink")、土曜日18:00 - ）準レギュラー
   - 「[杉本清のK-BAR](https://ja.wikipedia.org/wiki/杉本清のK-BAR "wikilink")」（[TOKYO FM](../Page/エフエム東京.md "wikilink")、金曜日19:30 - ）レギュラーではないがサブレギュラー扱いになっている。この番組では「杉本シーモ」と名乗っており、番組ジングルも彼が手がけている。[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送では[ドバイワールドカップ](../Page/ドバイワールドカップ.md "wikilink")の取材に出かけた[杉本清](../Page/杉本清.md "wikilink")、6月23日の放送では[ワールドカップ](../Page/ワールドカップ.md "wikilink")の取材に出かけた[藤丸由華](../Page/藤丸由華.md "wikilink")のピンチヒッターでパーソナリティを担当した。8月はほぼ毎週レース予想のメールを送り、[12月23日](../Page/12月23日.md "wikilink")の放送でも[第51回有馬記念](../Page/第51回有馬記念.md "wikilink")の予想メールを送っていた。
-  - 「[SEAMOの合格\!天狗ゼミナール](../Page/SEAMOの合格!天狗ゼミナール.md "wikilink")」（[JFNCファイル配信](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク "wikilink")）
+  - 「[SEAMOの合格\!天狗ゼミナール](../Page/SEAMOの合格!天狗ゼミナール.md "wikilink")」（[JFNCファイル配信](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）
   - TOKAIRADIO × TSUTAYA LIFESTYLE MUSIC 929（[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")、[2015年](../Page/2015年.md "wikilink")10月 - ）金曜日パーソナリティ\[8\]。
   - 「JOYFUL」（ZIP-FM、金曜日13:00 - ）ミュージックナビゲーター
 

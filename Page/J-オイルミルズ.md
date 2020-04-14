@@ -1,4 +1,4 @@
-> この記事は[J-](https://ja.wikipedia.org/wiki/J-)から翻訳されています。
+> この記事は[J-オイルミルズ](https://ja.wikipedia.org/wiki/J-オイルミルズ)から翻訳されています。
 
 
 **株式会社J-オイルミルズ**（ジェイオイルミルズ）は、[東京都](../Page/東京都.md "wikilink")[中央区に本社を置く](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")、食用油脂の製造・販売を主たる業務とする会社である。[2003年](../Page/2003年.md "wikilink")4月に味の素製油、ホーネンコーポレーション、吉原製油の3社が統合して設立された。
@@ -10,8 +10,6 @@
 現在は統合前のブランド名をそのまま使用している商品もあるが、多くは「J-オイル」ブランドへ統一されつつある。同じ業界で2002年に[日清製油](https://ja.wikipedia.org/wiki/日清製油 "wikilink")、[リノール油脂](https://ja.wikipedia.org/wiki/リノール油脂 "wikilink")、[ニッコー製油](https://ja.wikipedia.org/wiki/ニッコー製油 "wikilink")の3社が統合して[日清オイリオグループ](../Page/日清オイリオグループ.md "wikilink")を設立し、同社とともに業界内の2強である。
 
 [2011年](../Page/2011年.md "wikilink")6月に設立以来初めてコーポレートステートメントを制定し、コーポレートメッセージを「**おいしい♪は幸せのエネルギー。**」とした。 [2019年](../Page/2019年.md "wikilink")より「**Joy for life**」となり、[サウンドロゴ](../Page/サウンドロゴ.md "wikilink")はCM出演者が歌っている。
-
-## 沿革
 
 ## 沿革
 

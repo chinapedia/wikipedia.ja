@@ -507,20 +507,16 @@
 
 ## 外部リンク
 
-　・公式サイト　http://goomiey.com
+  - 　公式サイト　http://goomiey.com
+  - 　goomiey twitter(@_g_o_o_m_i_e_y)　https://twitter.com/_g_o_o_m_i_e_y
+  - 　平山舞桜 twitter(@mao_dakke)　https://twitter.com/mao_dakke
+  - 　大久保林香 twitter(@ior01fs)　https://twitter.com/ior01fs
+  - 　goomiey Instagram(@goomiey)　https://www.instagram.com/goomiey/
+  - 　平山舞桜 Instagram(@hirayamaamo)　https://www.instagram.com/hirayamaamo/
+  - 　岩堀聖奈 Instagram(＠kitto_seina)　https://www.instagram.com/kitto_seina/
+  - 　大久保林香 Instagram(@ior01fs)　https://www.instagram.com/ior01fs/
+  - 　youtube(STROKE RECORDSチャンネル)　https://www.youtube.com/user/strokerecrods
 
-　・goomiey twitter(@_g_o_o_m_i_e_y)　https://twitter.com/_g_o_o_m_i_e_y
+　
 
-　・平山舞桜 twitter(@mao_dakke)　https://twitter.com/mao_dakke
-
-　・大久保林香 twitter(@ior01fs)　https://twitter.com/ior01fs
-
-　・goomiey Instagram(@goomiey)　https://www.instagram.com/goomiey/
-
-　・平山舞桜 Instagram(@hirayamaamo)　https://www.instagram.com/hirayamaamo/
-
-　・岩堀聖奈 Instagram(＠kitto_seina)　https://www.instagram.com/kitto_seina/
-
-　・大久保林香 Instagram(@ior01fs)　https://www.instagram.com/ior01fs/
-
-　・youtube(STROKE RECORDSチャンネル)　https://www.youtube.com/user/strokerecrods
+[Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink")

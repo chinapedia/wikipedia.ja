@@ -1,4 +1,4 @@
-> この記事は[REDS](https://ja.wikipedia.org/wiki/REDS)から翻訳されています。
+> この記事は[河内REDS](https://ja.wikipedia.org/wiki/河内REDS)から翻訳されています。
 
 
 **河内REDS**（かわちれっず）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属事務所は[Showtitle](https://ja.wikipedia.org/wiki/Showtitle "wikilink")、レーベルは[ユニバーサルミュージックグループ](https://ja.wikipedia.org/wiki/ユニバーサルミュージックグループ "wikilink")傘下の[ユニバーサルシグマ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")。

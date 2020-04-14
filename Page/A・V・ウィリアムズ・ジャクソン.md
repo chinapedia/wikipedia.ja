@@ -1,4 +1,4 @@
-> この記事は[AV](https://ja.wikipedia.org/wiki/AV)から翻訳されています。
+> この記事は[A・V・ウィリアムズ・ジャクソン](https://ja.wikipedia.org/wiki/A・V・ウィリアムズ・ジャクソン)から翻訳されています。
 
 
 **アブラハム・ヴァレンタイン・ウィリアムズ・ジャクソン**（Abraham Valentine Williams Jackson、1862年2月9日 – 1937年8月8日）L.H.D. [Ph.D.](../Page/Doctor_of_Philosophy.md "wikilink") LL.D.は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[インド・ヨーロッパ言語専門家](../Page/インド・ヨーロッパ語族.md "wikilink")。

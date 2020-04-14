@@ -1,7 +1,7 @@
 > この記事は[MTV UNPLUGGED JUJU](https://ja.wikipedia.org/wiki/MTV_UNPLUGGED_JUJU)から翻訳されています。
 
 
-『**MTV UNPLUGGED JUJU**』(エムティーヴィー アンプラグド ジュジュ)は[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")のライブ・ビデオ。ライブ・アルバムの方もこちらに記載する。
+『**MTV UNPLUGGED JUJU**』(エムティーヴィー アンプラグド ジュジュ)は、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")のライブ・ビデオ。ライブ・アルバムの方もこちらに記載する。
 
 ## 解説
 

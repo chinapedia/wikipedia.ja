@@ -1,9 +1,9 @@
-> この記事は[YUTA](https://ja.wikipedia.org/wiki/YUTA)から翻訳されています。
+> この記事は[マジシャンYUTA](https://ja.wikipedia.org/wiki/マジシャンYUTA)から翻訳されています。
 
 
 **マジシャンYUTA**（本名：中内 勇太、なかうち ゆうた、[1992年](../Page/1992年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロマジシャンであり](https://ja.wikipedia.org/wiki/マジシャン_\(奇術\) "wikilink")、[YouTuber](https://ja.wikipedia.org/wiki/YouTuber "wikilink")である。[広島県](../Page/広島県.md "wikilink")[安芸郡出身](../Page/安芸郡_\(広島県\).md "wikilink")。
 
-「半径80㎝から平和を届ける」をキャッチコピーに、目の前で行う[クロースアップ・マジック](../Page/クロースアップ・マジック.md "wikilink")から100人規模の[ステージマジック](../Page/ステージマジック.md "wikilink")まで幅広いジャンルをこなす。
+「笑顔から平和を創る」をキャッチコピーに、目の前で行う[クロースアップ・マジック](../Page/クロースアップ・マジック.md "wikilink")から100人規模の[ステージマジック](../Page/ステージマジック.md "wikilink")まで幅広いジャンルをこなす。
 
 ## 概要
 

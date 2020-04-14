@@ -1,7 +1,7 @@
 > この記事は[20TH ANNIVERSARY SPECIAL BOX](https://ja.wikipedia.org/wiki/20TH_ANNIVERSARY_SPECIAL_BOX)から翻訳されています。
 
 
-『**20TH ANNIVERSARY SPECIAL BOX "MIYAZAKI" & "ATB"**』（トゥウェンディーズ アニバーサリー スペシャル ボックス ミヤザキ アンド エーティービー）は、フォークデュオ[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")の15枚目のライブDVD、ライブBlu-rayである。[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")発売。発売元は、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。
+『**20TH ANNIVERSARY SPECIAL BOX "MIYAZAKI" & "ATB"**』（トゥウェンティース アニバーサリー スペシャル ボックス ミヤザキ アンド エーティービー）は、フォークデュオ[コブクロ](https://ja.wikipedia.org/wiki/コブクロ "wikilink")の15枚目のライブDVD、ライブBlu-rayである。[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")発売。発売元は、[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")。
 
 ## 概要
 
@@ -15,62 +15,63 @@
 ### KOBUKURO 20TH ANNIVERSARY LIVE IN MIYAZAKI
 
 1.  **オープニング〜20180908**
-2.  **[君という名の翼](../Page/君という名の翼.md "wikilink")**
-3.  **[Summer rain](https://ja.wikipedia.org/wiki/虹_\(コブクロの曲\) "wikilink")**
-4.  **[太陽](https://ja.wikipedia.org/wiki/願いの詩/太陽 "wikilink")**
-5.  **[ストリートのテーマ](https://ja.wikipedia.org/wiki/FAN'S_MADE_BEST "wikilink")**
+2.  **君という名の翼**
+3.  **Summer rain**
+4.  **太陽**
+5.  **ストリートのテーマ**
 6.  **MC**
-7.  **[ONE TIMES ONE](https://ja.wikipedia.org/wiki/ONE_TIMES_ONE "wikilink")**
-8.  **[hana](https://ja.wikipedia.org/wiki/Hana_\(コブクロの曲\) "wikilink")**
-9.  **[未来](https://ja.wikipedia.org/wiki/未来_\(コブクロの曲\) "wikilink")**
+7.  **ONE TIMES ONE**
+8.  **hana**
+9.  **未来**
 10. **MC**
-11. **[太陽のメロディー](https://ja.wikipedia.org/wiki/太陽のメロディー "wikilink")**
-12. **[遠くで・・](https://ja.wikipedia.org/wiki/FAN'S_MADE_BEST "wikilink")**
-13. **[時の足音](https://ja.wikipedia.org/wiki/時の足音 "wikilink")**
+11. **太陽のメロディー**
+12. **遠くで・・**
+13. **時の足音**
 14. **MC**
-15. **[tOKi meki](https://ja.wikipedia.org/wiki/TIMELESS_WORLD "wikilink")**
-16. **[SPLASH](https://ja.wikipedia.org/wiki/One_Song_From_Two_Hearts "wikilink")**
-17. **[虹](https://ja.wikipedia.org/wiki/虹_\(コブクロの曲\) "wikilink")**
-18. **[轍-わだち-](../Page/轍-わだち-.md "wikilink")**
+15. **tOKi meki**
+16. **SPLASH**
+17. **虹**
+18. **轍-わだち-**
 19. **MC**
-20. **[桜](../Page/桜_\(コブクロの曲\).md "wikilink")**
+20. **桜**
 21. **アンコールMC**
-22. **[風をみつめて](https://ja.wikipedia.org/wiki/風をみつめて "wikilink")**
+22. **風をみつめて**
 23. **MC**
-24. **[晴々](https://ja.wikipedia.org/wiki/晴々 "wikilink")**
+24. **晴々**
 25. **クロージング**
 
-### KOBUKURO 20TH ANNIVERSARY TOUR 2019 ‘‘ATB’’ at 京セラドーム大阪
+
+\=== KOBUKURO 20TH ANNIVERSARY TOUR 2019 ‘‘ATB’’ at 京セラドーム大阪 ===
 
 1.  **オープニング**
-2.  **[桜](../Page/桜_\(コブクロの曲\).md "wikilink")**
-3.  **[DOOR](../Page/DOOR_\(コブクロの曲\).md "wikilink")**
-4.  **[遠まわり](../Page/轍-わだち-.md "wikilink")**
-5.  **[Bye Bye Oh\! Dear My Lover](../Page/Root_of_my_mind.md "wikilink")**
-6.  **[太陽](https://ja.wikipedia.org/wiki/願いの詩/太陽 "wikilink")**
-7.  **[YELL〜エール〜](https://ja.wikipedia.org/wiki/YELL〜エール〜/Bell "wikilink")**
+2.  **桜**
+3.  **DOOR**
+4.  **遠まわり**
+5.  **Bye Bye Oh\! Dear My Lover**
+6.  **太陽**
+7.  **YELL〜エール〜**
 8.  **MC**
-9.  **[赤い糸](https://ja.wikipedia.org/wiki/時の足音 "wikilink")**
-10. **[未来](https://ja.wikipedia.org/wiki/未来_\(コブクロの曲\) "wikilink")**
-11. **[あの太陽が、この世界を照らし続けるように。](https://ja.wikipedia.org/wiki/あの太陽が、この世界を照らし続けるように。 "wikilink")**
+9.  **赤い糸**
+10. **未来**
+11. **あの太陽が、この世界を照らし続けるように。**
 12. **MC**
-13. **[宝島](../Page/宝島_\(コブクロの曲\).md "wikilink")**
-14. **[轍-わだち-](../Page/轍-わだち-.md "wikilink")**
-15. **[tOKi meki](https://ja.wikipedia.org/wiki/TIMELESS_WORLD "wikilink")**
-16. **[Moon Light Party\!\!](../Page/ANSWER_\(コブクロのアルバム\).md "wikilink")**
-17. **[神風](https://ja.wikipedia.org/wiki/CALLING_\(コブクロのアルバム\) "wikilink")**
+13. **宝島**
+14. **轍-わだち-**
+15. **tOKi meki**
+16. **Moon Light Party\!\!**
+17. **神風**
 18. **MC**
-19. **[時の足音](https://ja.wikipedia.org/wiki/時の足音 "wikilink")**
-20. **[蕾](../Page/蕾_\(コブクロの曲\).md "wikilink")**
-21. **[風をみつめて](https://ja.wikipedia.org/wiki/風をみつめて "wikilink")**
+19. **時の足音**
+20. **蕾**
+21. **風をみつめて**
 22. **MC**
 23. **20180908**
-24. **[晴々](https://ja.wikipedia.org/wiki/晴々 "wikilink")**
+24. **晴々**
 25. **アンコールMC**
-26. **[SAKURA feat. KOBUKURO](https://ja.wikipedia.org/wiki/SAKURA_\(HONEST_BOYZの曲\) "wikilink")（[HONEST BOYZ®︎](https://ja.wikipedia.org/wiki/HONEST_BOYZ "wikilink")）**
+26. **SAKURA feat. KOBUKURO**（[HONEST BOYZ®︎](https://ja.wikipedia.org/wiki/HONEST_BOYZ "wikilink")）
 27. **MC**
-28. **[ココロの羽](https://ja.wikipedia.org/wiki/FAN'S_MADE_BEST "wikilink")**
-29. **[ANSWER](../Page/Roadmade.md "wikilink")**
+28. **ココロの羽**
+29. **ANSWER**
 30. **クロージング**
 
-[Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:コブクロの映像作品](https://ja.wikipedia.org/wiki/Category:コブクロの映像作品 "wikilink") [Category:2018年のコンサート](https://ja.wikipedia.org/wiki/Category:2018年のコンサート "wikilink") [Category:2019年のコンサート](https://ja.wikipedia.org/wiki/Category:2019年のコンサート "wikilink") [Category:2020年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2020年のライブ・ビデオ "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

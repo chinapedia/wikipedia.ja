@@ -1,4 +1,4 @@
-> この記事は[GEN](https://ja.wikipedia.org/wiki/GEN)から翻訳されています。
+> この記事は[大道芸人GEN](https://ja.wikipedia.org/wiki/大道芸人GEN)から翻訳されています。
 
 
 **大道芸人GEN**（だいどうげいにんジェン）は、日本の大道芸人である。
@@ -15,13 +15,10 @@
 
 ## 主な演目
 
-椅子倒立
-
-ジャイアントバルーン
-
-ジャグリング
-
-ファイヤーショー
+  - 椅子倒立
+  - ジャイアントバルーン
+  - ジャグリング
+  - ファイヤーショー
 
 ## 略歴
 
@@ -58,8 +55,5 @@ GちょこMarbleマーブル　(フランスナンテールで行われたフェ
 [ハッピーメリーサーカス](http://hmc.jp)
 
 [アルジェントさーかす](https://algento.site)
-
-
-__インデックス__
 
 [Category:大道芸](https://ja.wikipedia.org/wiki/Category:大道芸 "wikilink") [Category:大道芸人](https://ja.wikipedia.org/wiki/Category:大道芸人 "wikilink") [Category:サーカスパフォーマー](https://ja.wikipedia.org/wiki/Category:サーカスパフォーマー "wikilink") [Category:路上パフォーマンス](https://ja.wikipedia.org/wiki/Category:路上パフォーマンス "wikilink") [Category:ヘブンアーティスト](https://ja.wikipedia.org/wiki/Category:ヘブンアーティスト "wikilink")

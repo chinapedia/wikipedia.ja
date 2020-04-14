@@ -1,4 +1,4 @@
-> この記事は[THE ](https://ja.wikipedia.org/wiki/THE_)から翻訳されています。
+> この記事は[THEレイパー 暴行の餌食](https://ja.wikipedia.org/wiki/THEレイパー_暴行の餌食)から翻訳されています。
 
 
 『**THEレイパー 暴行の餌食**』（ザ・レイパー ぼうこうのえじき）は、[2007年](../Page/2007年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")に公開された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")映画。

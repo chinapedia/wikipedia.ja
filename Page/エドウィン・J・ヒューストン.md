@@ -1,4 +1,4 @@
-> この記事は[J](https://ja.wikipedia.org/wiki/J)から翻訳されています。
+> この記事は[エドウィン・J・ヒューストン](https://ja.wikipedia.org/wiki/エドウィン・J・ヒューストン)から翻訳されています。
 
 
 **エドウィン・ジェームス・ヒューストン**（Edwin James Houston、[1847年](../Page/1847年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - [1914年](../Page/1914年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の電気技師、学者、実業家、発明家、著述家である。

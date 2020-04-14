@@ -1,5 +1,7 @@
-> この記事は[ LIVE TOUR 2019 NOMAD](https://ja.wikipedia.org/wiki/_LIVE_TOUR_2019_NOMAD)から翻訳されています。
+> この記事は[錦戸亮 LIVE TOUR 2019 “NOMAD”](https://ja.wikipedia.org/wiki/錦戸亮_LIVE_TOUR_2019_“NOMAD”)から翻訳されています。
 
+
+{{ external media | align = right | video1 = [錦戸 亮 LIVE TOUR 2019 "NOMAD" Trailer](https://m.youtube.com/watch?v=a5mB4nXCR4E) }}
 
 『**錦戸亮 LIVE TOUR 2019 “NOMAD”**』（にしきどりょう ライブツアー 2019 ノマド）は、[錦戸亮](../Page/錦戸亮.md "wikilink")の1作目のライブBlu-ray/DVD。[2020年](../Page/2020年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")にNOMAD RECORDSから発売予定\[1\]。
 
@@ -11,6 +13,26 @@
   - WIZY限定盤には、2019年12月16日・19日に自身のアルバム『[NOMAD](https://ja.wikipedia.org/wiki/NOMAD_\(錦戸亮のアルバム\) "wikilink")』の発売記念イベントとして開催された、『**錦戸亮"NOMAD" リリース記念スペシャル・イベント**』の映像を収録。更に、WIZY限定 100Pスペシャルフォトブックを付属しており、スリーブケース付きBOX仕様となっている\[2\]。
   - 初回限定盤には、Disc.2に本ライブツアーの2019年11月22日の東京・[豊洲PIT公演を収録](https://ja.wikipedia.org/wiki/チームスマイル#施設一覧 "wikilink")。更に、48Pのフォトブックが付属しており、スリーブケース付きBOX仕様となっている。
   - 通常盤には、本編映像の他に、本ライブツアーのメイキングを収録。更に、収録公演のライブ音源が収録された「錦戸亮LIVE TOUR 2019 ”NOMAD” ライブアルバムCD」を付属。
+
+## 販売形態
+
+  - 発売日：2020年4月15日
+      - **WIZY限定盤（NOMAD-004：Blu-ray）**
+          - スリーブケース付きBOX仕様
+          - WIZY限定スペシャルフォトブック（100P）封入
+      - **WIZY限定盤（NOMAD-005：DVD）**
+          - スリーブケース付きBOX仕様
+          - WIZY限定スペシャルフォトブック（100P）封入
+      - **初回限定盤（NOMAD-006：2Blu-ray）**
+          - スリーブケース付きBOX仕様
+          - フォトブック（48P）封入
+      - **初回限定盤（NOMAD-007：2DVD）**
+          - スリーブケース付きBOX仕様
+          - フォトブック（48P）封入
+      - **通常盤（NOMAD-008：Blu-ray+CD）**
+          - 特典CD：「錦戸亮 LIVE TOUR 2019 ”NOMAD”ライブアルバムCD」封入
+      - **通常盤（NOMAD-009：DVD+CD）**
+          - 特典CD：「錦戸亮 LIVE TOUR 2019 ”NOMAD”ライブアルバムCD」封入
 
 ## 収録内容
 
@@ -34,7 +56,7 @@
 14. **[Potential](https://ja.wikipedia.org/wiki/NOMAD_\(錦戸亮のアルバム\) "wikilink")**
 15. **[Tokyoholic](https://ja.wikipedia.org/wiki/なぐりガキBEAT "wikilink")**
 16. **[ノマド](https://ja.wikipedia.org/wiki/NOMAD_\(錦戸亮のアルバム\) "wikilink")**
-17. **[オモイデドロボー](https://ja.wikipedia.org/wiki/オモイデドロボー "wikilink")**
+17. **[オモイデドロボー](../Page/オモイデドロボー.md "wikilink")**
 
 ### 特典映像
 
@@ -67,6 +89,8 @@
 ## 脚注
 
 ## 外部リンク
+
+  - [錦戸亮 LIVE TOUR 2019 “NOMAD”](https://www.ryonishikido.com/discography/?id=46) - 錦戸 亮 オフィシャルサイト
 
 [Category:錦戸亮の映像作品](https://ja.wikipedia.org/wiki/Category:錦戸亮の映像作品 "wikilink") [Category:2019年のコンサート](https://ja.wikipedia.org/wiki/Category:2019年のコンサート "wikilink") [Category:2020年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2020年のライブ・ビデオ "wikilink")
 

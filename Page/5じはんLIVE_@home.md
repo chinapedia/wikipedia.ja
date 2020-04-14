@@ -1,4 +1,4 @@
-> この記事は[5LIVE @home](https://ja.wikipedia.org/wiki/5LIVE_@home)から翻訳されています。
+> この記事は[5じはんLIVE @home](https://ja.wikipedia.org/wiki/5じはんLIVE_@home)から翻訳されています。
 
 
 『**5じはんLIVE @home**』（ごじはんらいぶ あっとほーむ）は、[とちぎテレビ](../Page/とちぎテレビ.md "wikilink")で放送されていた[ローカルワイド番組](../Page/ローカルワイド番組.md "wikilink")・[報道番組](../Page/報道番組.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ -in the sky- ](https://ja.wikipedia.org/wiki/_-in_the_sky-_)から翻訳されています。
+> この記事は[おっさんずラブ -in the sky- オリジナル・サウンドトラック](https://ja.wikipedia.org/wiki/おっさんずラブ_-in_the_sky-_オリジナル・サウンドトラック)から翻訳されています。
 
 
 『**おっさんずラブ -in the sky- オリジナル・サウンドトラック**』（おっさんずラブ イン ザ スカイ オリジナルサウンドトラック）は、[2020年](../Page/2020年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")に発売された同名[テレビドラマ](../Page/テレビドラマ.md "wikilink")の[サウンドトラック](https://ja.wikipedia.org/wiki/サウンドトラック#映像作品に伴う音楽としてのサウンドトラック "wikilink")[CD](../Page/CD-DA.md "wikilink")（[劇伴](../Page/劇伴.md "wikilink")）。音楽担当は[河野伸](../Page/河野伸.md "wikilink")。発売元は[バップ](../Page/バップ.md "wikilink")。[規格品番](../Page/規格品番.md "wikilink")はVPCD-86302。

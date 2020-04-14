@@ -1,4 +1,4 @@
-> この記事は[T](https://ja.wikipedia.org/wiki/T)から翻訳されています。
+> この記事は[スズキ・T](https://ja.wikipedia.org/wiki/スズキ・T)から翻訳されています。
 
 
 **T**（ティー）は、[スズキが製造販売していた](../Page/スズキ_\(企業\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")のシリーズ車種。

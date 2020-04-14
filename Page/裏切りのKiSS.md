@@ -1,4 +1,4 @@
-> この記事は[KiSS](https://ja.wikipedia.org/wiki/KiSS)から翻訳されています。
+> この記事は[裏切りのKiSS](https://ja.wikipedia.org/wiki/裏切りのKiSS)から翻訳されています。
 
 
 **裏切りのKiSS**（うらぎりのキス、Judas kiss)は、1998年のアメリカの[犯罪映画](https://ja.wikipedia.org/wiki/犯罪映画 "wikilink")。原題の「ユダのキス」とは、見せかけの好意を意味する言葉。

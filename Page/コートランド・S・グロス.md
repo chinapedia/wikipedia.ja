@@ -1,4 +1,4 @@
-> この記事は[S](https://ja.wikipedia.org/wiki/S)から翻訳されています。
+> この記事は[コートランド・S・グロス](https://ja.wikipedia.org/wiki/コートランド・S・グロス)から翻訳されています。
 
 
 **コートランド・シェリントン・ "コート"・グロス**（Courtlandt Sherrington *Cort* Gross、[1904年](../Page/1904年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink") – [1982年](../Page/1982年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の初期の飛行士で、35年間にわたっ[ロッキード](../Page/ロッキード.md "wikilink")の有力な役員であった。[1967年](../Page/1967年.md "wikilink")に、会長職を辞して引退した。

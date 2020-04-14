@@ -1,4 +1,4 @@
-> この記事は[Kauai hirtomo](https://ja.wikipedia.org/wiki/Kauai_hirtomo)から翻訳されています。
+> この記事は[Kauai hirótomo](https://ja.wikipedia.org/wiki/Kauai_hirótomo)から翻訳されています。
 
 
 **kauai hirótomo**（かわい ひろとも、1992年 - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽家](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")出身。[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")であると共に、[マルチプレイヤーとして数々の](../Page/マルチプレイヤー_\(音楽\).md "wikilink")[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")をサポートし、注目を集めている。サポート時の名義は河合宏知。
@@ -132,18 +132,16 @@
   - 月刊ラティーナ（2019年5月、10月、11月、2020年1月）　- 雑誌（インタビュー、ディスクレビュー等）
   - [EYESCREAM](https://ja.wikipedia.org/wiki/EYE_SCREAM "wikilink")（No.174） - 雑誌（インタビュー）
 
+## 脚注
+
+<references />
+
 ## 外部リンク
 
   - [Official Web Site](https://kauaihirotomo.tumblr.com/)
   - [『Another Galaxy』特設サイト](https://www.tonofon.com/kauaihirotomo/)
   - [Youtubeチャンネル（Greenside Records）](https://www.youtube.com/channel/UCkAJ6JAFA5kMvvCuSkyZ6Xg)
 
-## 脚注
-
-<references />
-
-__インデックス__
-
-[Category:音楽](https://ja.wikipedia.org/wiki/Category:音楽 "wikilink") [Category:ミュージシャン](https://ja.wikipedia.org/wiki/Category:ミュージシャン "wikilink") [Category:音楽家](https://ja.wikipedia.org/wiki/Category:音楽家 "wikilink") [Category:作曲家](https://ja.wikipedia.org/wiki/Category:作曲家 "wikilink") [Category:ドラマー](https://ja.wikipedia.org/wiki/Category:ドラマー "wikilink")
+[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本のドラマー](https://ja.wikipedia.org/wiki/Category:日本のドラマー "wikilink")
 
 1.

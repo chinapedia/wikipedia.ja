@@ -1,4 +1,4 @@
-> この記事は[T3R.P](https://ja.wikipedia.org/wiki/T3R.P)から翻訳されています。
+> この記事は[タトラT3R.P](https://ja.wikipedia.org/wiki/タトラT3R.P)から翻訳されています。
 
 
 **タトラT3R.P**は、[チェコ](../Page/チェコ.md "wikilink")や[スロバキア](../Page/スロバキア.md "wikilink")など世界各国の[路面電車](../Page/路面電車.md "wikilink")で使用されている[電車](../Page/電車.md "wikilink")の1形式。[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")時代に製造された路面電車車両・**[タトラT3](../Page/タトラT3.md "wikilink")**の電気機器を交換した車両で、**T3P**とも呼ばれる。この項目では、電気機器が異なる**タトラT3R.E**も併せて解説する。
@@ -27,7 +27,7 @@
 
   - [タトラT3R.PV](../Page/タトラT3R.PV.md "wikilink")、タトラT3R.EV - 各都市のタトラT3のうち、機器に加え車体の老朽化も進んでいた車両については、車体が[アライアンスTW](../Page/アライアンスTW.md "wikilink")が製造した「**VerCB3**」に交換されている\[3\]\[4\]。
 
-  - 、 - タトラT3の車体更新車のうち、車体を部分超低床式の「**VerCB3LF**」へ交換した形式。[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")ではタトラT3R.PからT3R.PLFへの改造も行われている\[5\]\[6\]。
+  - 、[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink")R - タトラT3の車体更新車のうち、車体を部分超低床式の「**VerCB3LF**」へ交換した形式。[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")ではタトラT3R.PからT3R.PLFへの改造も行われている\[5\]\[6\]。
 
 ## 脚注
 

@@ -1,4 +1,4 @@
-> この記事は[MCa.k.a](https://ja.wikipedia.org/wiki/MCa.k.a)から翻訳されています。
+> この記事は[MC☆ニガリa.k.a赤い稲妻](https://ja.wikipedia.org/wiki/MC☆ニガリa.k.a赤い稲妻)から翻訳されています。
 
 
 **MC☆ニガリa.k.a赤い稲妻**は、日本の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")。

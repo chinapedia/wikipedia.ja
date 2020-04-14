@@ -28,7 +28,7 @@
 
   - [赤と嘘/Streetトレーラー](https://m.youtube.com/watch?v=rCcQ3RMIMQc)（[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")）
 
-[Category:2015年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2015年のミニ・アルバム "wikilink")
+[Category:2015年のミニ・アルバム](https://ja.wikipedia.org/wiki/Category:2015年のミニ・アルバム "wikilink") [Category:森翼のアルバム](https://ja.wikipedia.org/wiki/Category:森翼のアルバム "wikilink")
 
 1.  [イヤフォン時代ならでは\!? アルバム全曲バイノーラルマイクで録音したユニット「赤と嘘」に聞く](https://av.watch.impress.co.jp/img/avw/docs/719/849/html/13.jpg.html)
 2.  [イヤフォン時代ならでは\!? アルバム全曲バイノーラルマイクで録音したユニット「赤と嘘」に聞く](https://av.watch.impress.co.jp/img/avw/docs/719/849/html/13.jpg.html)

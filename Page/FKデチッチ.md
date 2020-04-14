@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKデチッチ](https://ja.wikipedia.org/wiki/FKデチッチ)から翻訳されています。
 
 
 **FKデチッチ**（FK Dečić）は、[モンテネグロ](../Page/モンテネグロ.md "wikilink")の[トゥジ](https://ja.wikipedia.org/wiki/トゥジ "wikilink")をホームタウンとするサッカークラブである。

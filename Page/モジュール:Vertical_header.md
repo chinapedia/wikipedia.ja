@@ -1,4 +1,4 @@
-> この記事は[:Vertical header](https://ja.wikipedia.org/wiki/:Vertical_header)から翻訳されています。
+> この記事は[モジュール:Vertical header](https://ja.wikipedia.org/wiki/モジュール:Vertical_header)から翻訳されています。
 
 
 local p = {}

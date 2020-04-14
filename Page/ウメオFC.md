@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[ウメオFC](https://ja.wikipedia.org/wiki/ウメオFC)から翻訳されています。
 
 
 **ウメオFC**（）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の[ヴェステルボッテン県](../Page/ヴェステルボッテン県.md "wikilink")[ウメオ](../Page/ウメオ.md "wikilink")をホームタウンとするサッカークラブである。

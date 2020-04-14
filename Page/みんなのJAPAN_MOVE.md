@@ -1,4 +1,4 @@
-> この記事は[JAPAN MOVE](https://ja.wikipedia.org/wiki/JAPAN_MOVE)から翻訳されています。
+> この記事は[みんなのJAPAN MOVE](https://ja.wikipedia.org/wiki/みんなのJAPAN_MOVE)から翻訳されています。
 
 
 『**みんなのJAPAN MOVE**』は、[サンテレビ](https://ja.wikipedia.org/wiki/サンテレビ "wikilink")と[BS12](https://ja.wikipedia.org/wiki/BS12 "wikilink")で放送されている[トーク番組](../Page/トーク番組.md "wikilink")。番組ナビゲーターは[橋下徹](../Page/橋下徹.md "wikilink")\[1\]。

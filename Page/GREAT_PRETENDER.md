@@ -37,6 +37,8 @@
 
   -
   -
+{{+Ultra}}
+
 [Category:アニメ作品_く](https://ja.wikipedia.org/wiki/Category:アニメ作品_く "wikilink") [Category:2020年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2020年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:+Ultra](https://ja.wikipedia.org/wiki/Category:+Ultra "wikilink") [Category:ウィットスタジオのアニメ作品](https://ja.wikipedia.org/wiki/Category:ウィットスタジオのアニメ作品 "wikilink") [Category:詐欺を題材とした作品](https://ja.wikipedia.org/wiki/Category:詐欺を題材とした作品 "wikilink")
 
 1.

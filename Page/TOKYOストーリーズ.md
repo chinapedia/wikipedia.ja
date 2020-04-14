@@ -1,4 +1,4 @@
-> この記事は[TOKYO](https://ja.wikipedia.org/wiki/TOKYO)から翻訳されています。
+> この記事は[TOKYOストーリーズ](https://ja.wikipedia.org/wiki/TOKYOストーリーズ)から翻訳されています。
 
 
 『**TOKYOストーリーズ～ダンディズム東京～**』（トウキョウストーリーズ～ダンディズム東京～）は、2020年に向けて注目が集まる“TOKYO”を「五感」をフルに活用し発信し、表現する[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")。

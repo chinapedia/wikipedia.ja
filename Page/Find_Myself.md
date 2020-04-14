@@ -17,8 +17,6 @@
 
   - [公式サイトによる紹介ページ](https://sanaridayo.com/music/370)
 
- __インデックス__
-
 [Category:さなりの楽曲](https://ja.wikipedia.org/wiki/Category:さなりの楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:A-Sketchのシングル](https://ja.wikipedia.org/wiki/Category:A-Sketchのシングル "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.

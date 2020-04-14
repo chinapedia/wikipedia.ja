@@ -55,7 +55,7 @@
 
   - 第8試合 ライト級 5分3R
     ○  ブラッド・リデル vs.  マゴメド・ムスタファエフ ×
-    3R終了 判定3-0（30-27、30-27、30-27）
+    3R終了 判定2-1（29–28、28–29、29–28）
 
 <!-- end list -->
 
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - 第12試合 ライト級 5分3R
+  - 第12試合 ライト級 5分5R
     ○  [ダン・フッカー](https://ja.wikipedia.org/wiki/ダン・フッカー "wikilink") vs.  [ポール・フェルダー](https://ja.wikipedia.org/wiki/ポール・フェルダー "wikilink") ×
     5R終了 判定2-1（47-48、48-47、48-47）
 
@@ -100,7 +100,7 @@
 
 ## 外部リンク
 
-  - [UFC公式サイトの試合結果](http://jp.ufc.com/event/ufc-fight-night-february-23-2020#card_32485)
-  - [SHERDOG試合結果](https://m.sherdog.com/events/UFC-Fight-Night-168-Felder-vs-Hooker-82983)
-
+  -
+  -
+  -
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのニュージーランド大会](https://ja.wikipedia.org/wiki/Category:UFCのニュージーランド大会 "wikilink") [Category:2020年の総合格闘技](https://ja.wikipedia.org/wiki/Category:2020年の総合格闘技 "wikilink") [Category:2020年のニュージーランド](https://ja.wikipedia.org/wiki/Category:2020年のニュージーランド "wikilink") [Category:NZ・オークランドのスポーツ競技大会](https://ja.wikipedia.org/wiki/Category:NZ・オークランドのスポーツ競技大会 "wikilink") [Category:2020年2月](https://ja.wikipedia.org/wiki/Category:2020年2月 "wikilink")

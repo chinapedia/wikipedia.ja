@@ -1,4 +1,4 @@
-> この記事は[IWA ](https://ja.wikipedia.org/wiki/IWA_)から翻訳されています。
+> この記事は[IWA アウトドアクラシックス](https://ja.wikipedia.org/wiki/IWA_アウトドアクラシックス)から翻訳されています。
 
 
 **IWA アウトドアクラシックス** (**IWA OutdoorClassics**) は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[バイエルン州](https://ja.wikipedia.org/wiki/バイエルン州 "wikilink")[ニュルンベルク](../Page/ニュルンベルク.md "wikilink")にある(Messe Nürnberg) で毎年開催される[武器](../Page/武器.md "wikilink")の[見本市](../Page/見本市.md "wikilink")。「**IWA**」とは[ドイツ語](../Page/ドイツ語.md "wikilink")で「Internationale Waffen Ausstellung（国際武器展示会）」の意味であり、このことから単にIWA、IWAニュルンベルグとも呼ばれる。[射撃競技](../Page/射撃競技.md "wikilink")、[狩猟](../Page/狩猟.md "wikilink")、[アウトドア](../Page/アウトドア.md "wikilink")活動向け新商品や、民間[警備](../Page/警備.md "wikilink")会社及び、[法執行機関](https://ja.wikipedia.org/wiki/法執行機関 "wikilink")などを対象にした国際展示会である。

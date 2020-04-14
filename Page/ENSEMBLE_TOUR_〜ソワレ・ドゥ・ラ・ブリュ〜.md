@@ -1,4 +1,4 @@
-> この記事は[ENSEMBLE TOUR ](https://ja.wikipedia.org/wiki/ENSEMBLE_TOUR_)から翻訳されています。
+> この記事は[ENSEMBLE TOUR 〜ソワレ・ドゥ・ラ・ブリュ〜](https://ja.wikipedia.org/wiki/ENSEMBLE_TOUR_〜ソワレ・ドゥ・ラ・ブリュ〜)から翻訳されています。
 
 
 『**ENSEMBLE TOUR 〜ソワレ・ドゥ・ラ・ブリュ〜**』は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")・[Mrs. GREEN APPLEの](https://ja.wikipedia.org/wiki/Mrs._GREEN_APPLE "wikilink")2作目の映像作品。

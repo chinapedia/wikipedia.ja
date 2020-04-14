@@ -1,4 +1,4 @@
-> この記事は[T3R.PV](https://ja.wikipedia.org/wiki/T3R.PV)から翻訳されています。
+> この記事は[タトラT3R.PV](https://ja.wikipedia.org/wiki/タトラT3R.PV)から翻訳されています。
 
 
 **タトラT3R.PV**は、[チェコ](../Page/チェコ.md "wikilink")や[スロバキア](../Page/スロバキア.md "wikilink")など世界各国の[路面電車](../Page/路面電車.md "wikilink")で使用されている[電車](../Page/電車.md "wikilink")の1形式。[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")時代に製造された路面電車車両・**[タトラT3](../Page/タトラT3.md "wikilink")**の台車や一部機器と新造車体・電気機器を組み合わせた車両である。この項目では、電気機器が異なる**タトラT3R.EV**も併せて解説する。
@@ -15,7 +15,7 @@
 
 ## 運用・導入都市
 
-[2002年](../Page/2002年.md "wikilink")にT3R.EVの試作車が製造された後、[2003年](../Page/2003年.md "wikilink")以降両形式の量産が始まり、[2020年](../Page/2020年.md "wikilink")の時点でT3R.PVが83両、T3R.EVが5両作られている。T3R.PVが[チェコ](../Page/チェコ.md "wikilink")や[スロバキア](../Page/スロバキア.md "wikilink")のみならず[クロアチア](../Page/クロアチア.md "wikilink")、[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")にも導入されている一方、T3R.EVは牽引するVV60LFの故障が多発した事や増備計画が部分超低床電車のへ移行した事により少数の製造に留まっている。以下の表は、両形式を導入した都市や事業者を示したものである他、備考欄の「新デザイン」はフランティシェク・ペリカーンが手掛けた新設計の全面形状の事である\[5\]。
+[2002年](../Page/2002年.md "wikilink")にT3R.EVの試作車が製造された後、[2003年](../Page/2003年.md "wikilink")以降両形式の量産が始まり、[2020年](../Page/2020年.md "wikilink")の時点でT3R.PVが83両、T3R.EVが5両作られている。T3R.PVが[チェコ](../Page/チェコ.md "wikilink")や[スロバキア](../Page/スロバキア.md "wikilink")のみならず[クロアチア](../Page/クロアチア.md "wikilink")、[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")にも導入されている一方、T3R.EVは牽引するVV60LFの故障が多発した事や増備計画が部分超低床電車の[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink")へ移行した事により少数の製造に留まっている。以下の表は、両形式を導入した都市や事業者を示したものである他、備考欄の「新デザイン」はフランティシェク・ペリカーンが手掛けた新設計の全面形状の事である\[5\]。
 
 | **T3R.PV・T3R.EV 導入都市一覧**                                |
 | ------------------------------------------------------- |
@@ -37,7 +37,7 @@
 
 ## 関連項目
 
-  - 、 - タトラT3の車体更新車のうち、車体を部分超低床式の「VerCB3LF」へ交換した形式。[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")ではタトラT3R.PVからT3R.PLFへの改造も行われている\[6\]\[7\]。
+  - [タトラT3R.PLF](../Page/タトラT3R.PLF.md "wikilink")、タトラT3R.SLF、[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink") - タトラT3の車体更新車のうち、車体を部分超低床式の「VerCB3LF」へ交換した形式。[プラハ市電](https://ja.wikipedia.org/wiki/プラハ市電 "wikilink")ではタトラT3R.PVからT3R.PLFへの改造も行われている\[6\]\[7\]。
 
 ## 脚注
 

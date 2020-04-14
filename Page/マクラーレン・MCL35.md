@@ -1,4 +1,4 @@
-> この記事は[MCL35](https://ja.wikipedia.org/wiki/MCL35)から翻訳されています。
+> この記事は[マクラーレン・MCL35](https://ja.wikipedia.org/wiki/マクラーレン・MCL35)から翻訳されています。
 
 
 **マクラーレン・MCL35** () は、[マクラーレン](../Page/マクラーレン.md "wikilink")が[2020年のF1世界選手権](https://ja.wikipedia.org/wiki/2020年のF1世界選手権 "wikilink")参戦用に開発した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")である。
@@ -15,9 +15,11 @@
 
 ドライバーは[カルロス・サインツJr.](https://ja.wikipedia.org/wiki/カルロス・サインツJr. "wikilink")と[ランド・ノリス](https://ja.wikipedia.org/wiki/ランド・ノリス "wikilink")のコンビを継続。
 
+開幕戦となる予定だった[オーストラリアGPはスタッフが](https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ "wikilink")[2019新型コロナウイルス](../Page/2019新型コロナウイルス.md "wikilink")に感染したことによりレースから撤退した\[6\]。これを受け、同GPは中止となった\[7\]。
+
 ## スペック
 
-\[6\]
+\[8\]
 
 ### シャシー
 
@@ -35,7 +37,7 @@
   - [ステアリング](../Page/ステアリング.md "wikilink"): [ラック・アンド・ピニオン](https://ja.wikipedia.org/wiki/ラック・アンド・ピニオン "wikilink")型[パワーアシスト](../Page/パワーステアリング.md "wikilink")
   - [タイヤ](../Page/タイヤ.md "wikilink"): [ピレリ](../Page/ピレリ.md "wikilink") P-Zero
   - [ホイール](https://ja.wikipedia.org/wiki/ホイール "wikilink"): [エンケイ](../Page/エンケイ.md "wikilink")
-  - 無線機器：[ケンウッド](../Page/ケンウッド.md "wikilink")
+  - 無線機器：[クリプシュ](https://ja.wikipedia.org/wiki/Klipsch "wikilink")
   - 塗装: [アクゾノーベル](../Page/アクゾノーベル.md "wikilink")/シッケンズ
   - 冷却システム: [マレリ](../Page/マレリ_\(企業\).md "wikilink") チャージエア、エンジンオイル、[ERS冷却システム](https://ja.wikipedia.org/wiki/運動エネルギー回生システム#ERS "wikilink")
   - アドバンスド・マニュファクチャリング: [ストラタシス](https://ja.wikipedia.org/wiki/Stratasys "wikilink") [3Dプリント](../Page/3Dプリンター.md "wikilink")、[Mazak](../Page/ヤマザキマザック.md "wikilink") アドバンスド・テクノロジー・ソリューションズ
@@ -109,69 +111,69 @@
 <td><p>55</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カルロス・サインツJr." title="wikilink">サインツ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ" title="wikilink">AUS</a><br />
-</p></td>
+WD</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ベトナムグランプリ" title="wikilink">VIE</a><br />
-</p></td>
+-</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ハンガリーグランプリ" title="wikilink">HUN</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ベルギーグランプリ" title="wikilink">BEL</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年イタリアグランプリ" title="wikilink">ITA</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年シンガポールグランプリ" title="wikilink">SIN</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ロシアグランプリ" title="wikilink">RUS</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年日本グランプリ_(4輪)" title="wikilink">JPN</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年アメリカグランプリ" title="wikilink">USA</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年メキシコシティグランプリ" title="wikilink">MEX</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ブラジルグランプリ" title="wikilink">BRA</a><br />
-</p></td>
+-</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ランド・ノリス" title="wikilink">ノリス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ" title="wikilink">AUS</a><br />
-</p></td>
+WD</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ベトナムグランプリ" title="wikilink">VIE</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年オランダグランプリ" title="wikilink">NED</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年スペイングランプリ" title="wikilink">ESP</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年モナコグランプリ" title="wikilink">MON</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年アゼルバイジャングランプリ" title="wikilink">AZE</a><br />
-</p></td>
+-</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ハンガリーグランプリ" title="wikilink">HUN</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ベルギーグランプリ" title="wikilink">BEL</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年イタリアグランプリ" title="wikilink">ITA</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年シンガポールグランプリ" title="wikilink">SIN</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ロシアグランプリ" title="wikilink">RUS</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年日本グランプリ_(4輪)" title="wikilink">JPN</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年アメリカグランプリ" title="wikilink">USA</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年メキシコシティグランプリ" title="wikilink">MEX</a><br />
-</p></td>
+-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ブラジルグランプリ" title="wikilink">BRA</a><br />
-</p></td>
+-</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -190,7 +192,8 @@
   - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")
   - <sup>†</sup> 印はリタイアだが、90%以上の距離を走行したため規定により完走扱い。
   - <sup>\*</sup> : 今シーズンのポイント及び順位（現時点）。
-  - <sup>‡</sup> 中国GPは[新型コロナウイルスの](../Page/2019新型コロナウイルス.md "wikilink")[感染拡大により延期](../Page/2019年-2020年中国武漢における肺炎の流行.md "wikilink")\[7\]。
+  - オーストラリアGPはスタッフが[新型コロナウイルスに](../Page/2019新型コロナウイルス.md "wikilink")[感染したため撤退](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")\[9\]。これを受けてレース自体が中止となった\[10\]。
+  - <sup>‡</sup> 中国GPは新型コロナウイルスの感染拡大により延期\[11\]。
 
 ## 脚注
 
@@ -207,3 +210,7 @@
 5.
 6.
 7.
+8.
+9.
+10.
+11.

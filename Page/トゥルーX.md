@@ -1,4 +1,4 @@
-> この記事は[X](https://ja.wikipedia.org/wiki/X)から翻訳されています。
+> この記事は[トゥルーX](https://ja.wikipedia.org/wiki/トゥルーX)から翻訳されています。
 
 
 **トゥルーX**(**TrueX,inc**)とは、[21世紀フォックス](https://ja.wikipedia.org/wiki/21世紀フォックス "wikilink")(現在は[ウォルト・ディズニー・カンパニー](../Page/ウォルト・ディズニー・カンパニー.md "wikilink")傘下)が所有している[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のデジタル広告会社である。

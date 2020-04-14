@@ -663,22 +663,22 @@ TFCC-86646</p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <ul>
-<li>2/04 新代田FEVER</li>
-<li>2/09 奈良NEVER LAND</li>
-<li>2/10 KYOTO MUSE</li>
-<li>2/12 松本Sound Hall a.C</li>
-<li>2/17 LIVE HOUSE enn 2nd</li>
-<li>2/18 HEAVEN'S ROCK 宇都宮 VJ-2</li>
-<li>2/24 CLUB RIVERST</li>
-<li>2/25 mito LIGHT HOUSE</li>
-<li>3/03 札幌SOUND CRUE</li>
-<li>3/08 高崎club FLEEZ</li>
-<li>3/21 CRAZYMAMA 2nd Room</li>
-<li>3/24 天神Queblick</li>
-<li>3/25 広島CAVE-BE</li>
-<li>4/01 APOLLO BASE</li>
-<li>4/07 Music Club JANUS</li>
-<li>4/14 渋谷WWW
+<li>2/04 新代田FEVER (Guest: 踊Foot Works, STAMP(from Thailand))</li>
+<li>2/09 奈良NEVER LAND (Guest: ONIGAWARA)</li>
+<li>2/10 京都KYOTO MUSE (Guest: ONIGAWARA)</li>
+<li>2/12 松本Sound Hall a.C (Guest: DATS)</li>
+<li>2/17 仙台LIVE HOUSE enn 2nd (ONEMAN)</li>
+<li>2/18 栃木HEAVEN'S ROCK 宇都宮 VJ-2 (Guest: Survive Said The Prophet)</li>
+<li>2/24 新潟CLUB RIVERST (Guest: avengers In sci-fi)</li>
+<li>2/25 茨城mito LIGHT HOUSE (Guest: avengers In sci-fi)</li>
+<li>3/03 札幌SOUND CRUE (ONEMAN)</li>
+<li>3/08 高崎club FLEEZ (Guest: ONIGAWARA)</li>
+<li>3/21 岡山CRAZYMAMA 2nd Room (Guest: RAMMELLS)</li>
+<li>3/24 福岡Queblick (ONEMAN)</li>
+<li>3/25 広島CAVE-BE (Guest: avengers In sci-fi)</li>
+<li>4/01 名古屋APOLLO BASE (ONEMAN)</li>
+<li>4/07 大阪Music Club JANUS (ONEMAN)</li>
+<li>4/14 渋谷WWW (ONEMAN)
 </div>
 </div></li>
 </ul></td>
@@ -696,7 +696,7 @@ TFCC-86646</p></td>
 <tr class="odd">
 <td><p>2018年7月19日</p></td>
 <td><p>FIVE NEW OLD「Easy Come, Easy Go vol.13」</p></td>
-<td><p>＠名古屋CLUB QUATTRO w/DATS, <a href="https://ja.wikipedia.org/wiki/荒井岳史" title="wikilink">荒井岳史</a></p></td>
+<td><p>＠名古屋CLUB QUATTRO w/DATS, <a href="https://ja.wikipedia.org/wiki/荒井岳史" title="wikilink">荒井岳史</a>(the band apart)</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年9月30日〜11月18日</p></td>
@@ -758,9 +758,9 @@ TFCC-86646</p></td>
 <li>4/26 タイ マハーサーラカーム Mahaniyom</li>
 <li>4/27 タイ コラート Mum Bar</li>
 <li>4/28 タイ バンコク De commune</li>
-<li>5/18 梅田CLUB QUATTRO</li>
-<li>5/23 名古屋CLUB QUATTRO</li>
-<li>5/25 マイナビBLITZ赤坂
+<li>5/18 梅田CLUB QUATTRO (ONEMAN)</li>
+<li>5/23 名古屋CLUB QUATTRO (ONEMAN)</li>
+<li>5/25 マイナビBLITZ赤坂 (ONEMAN)
 </div>
 </div></li>
 </ul></td>
@@ -782,7 +782,7 @@ TFCC-86646</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年9月22日〜11月29日</p></td>
-<td><p>FIVE NEW OLD "Emulsification" Tour</p></td>
+<td><p>FIVE NEW OLD "Emulsification" Tour(ONEMAN TOUR)</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>詳細</p>

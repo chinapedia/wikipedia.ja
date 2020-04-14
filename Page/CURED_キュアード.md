@@ -1,4 +1,4 @@
-> この記事は[CURED ](https://ja.wikipedia.org/wiki/CURED_)から翻訳されています。
+> この記事は[CURED キュアード](https://ja.wikipedia.org/wiki/CURED_キュアード)から翻訳されています。
 
 
 『**CURED キュアード**』（原題:*The Cured*）は[2017年](../Page/2017年.md "wikilink")に公開された[愛](../Page/アイルランド.md "wikilink")[仏合作の](https://ja.wikipedia.org/wiki/フランス "wikilink")[ホラー映画](../Page/ホラー映画.md "wikilink")である。監督は[デヴィッド・フレイン](https://ja.wikipedia.org/wiki/デヴィッド・フレイン "wikilink")、主演は[エレン・ペイジ](../Page/エレン・ペイジ.md "wikilink")が務めた。なお、本作はフレインの映画監督デビュー作である。

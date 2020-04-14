@@ -11,7 +11,7 @@
 
 ## 受賞・上映歴
 
-  - 2012年 ボストン国際映画 最優秀撮影賞（『[Calling](https://ja.wikipedia.org/wiki/Calling "wikilink")』）
+  - 2012年 ボストン国際映画祭 最優秀撮影賞（『[Calling](https://ja.wikipedia.org/wiki/Calling "wikilink")』）
   - 2013年 ニューヨーク市国際映画祭 コンペティション部門入選（『雨粒の小さな歴史』）
   - 2014年 [東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink") スプラッシュ部門入選（『[愛の小さな歴史](https://ja.wikipedia.org/wiki/愛の小さな歴史 "wikilink")』）
   - 2015年 [東京国際映画祭](https://ja.wikipedia.org/wiki/東京国際映画祭 "wikilink") スプラッシュ部門入選（『[走れ、絶望に追いつかれない速さで](https://ja.wikipedia.org/wiki/走れ、絶望に追いつかれない速さで "wikilink")』）

@@ -1,4 +1,4 @@
-> この記事は[-auspice-](https://ja.wikipedia.org/wiki/-auspice-)から翻訳されています。
+> この記事は[アースピ-auspice-](https://ja.wikipedia.org/wiki/アースピ-auspice-)から翻訳されています。
 
 
 **アースピ-auspice-** は [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。[2019年](../Page/2019年.md "wikilink")（[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）6月1日デビューの[福岡県](../Page/福岡県.md "wikilink")拠点の3人組ロックアイドルユニット。
@@ -36,15 +36,15 @@
 <tr class="even">
 <td><p><strong>Yukino</strong></p></td>
 <td><p><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
-<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
-<td><p>元<a href="https://ja.wikipedia.org/wiki/HR_(グループ)" title="wikilink">HR</a>。RoaR初期メンバー。</p></td>
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a> RoaR初期メンバー。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Miu</strong></p></td>
 <td><p><a href="../Page/11月13日.md" title="wikilink">11月13日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p>元白金アイドル塾。2018年3/17RoaRの新メンバー（研究生）として加入。<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a> 2018年3/17RoaRの新メンバー（研究生）として加入。<br />
 同年4/8にRoaR正規メンバーとなった。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

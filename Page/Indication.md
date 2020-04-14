@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2019年](../Page/2019年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発売。7th Single。
+[2020年](../Page/2020年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発売。7th Single。
 
 前作『[NEEDLE](https://ja.wikipedia.org/wiki/NEEDLE_\(ナイトdeライトのCD\) "wikilink")』に引き続き、2020年の企画「12カ月連続CDリリース」の第2弾。
 

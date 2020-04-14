@@ -1,4 +1,4 @@
-> この記事は[CBS](https://ja.wikipedia.org/wiki/CBS)から翻訳されています。
+> この記事は[バイアコムCBS](https://ja.wikipedia.org/wiki/バイアコムCBS)から翻訳されています。
 
 
 **バイアコムCBS**（、、）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[メディア・コングロマリット](https://ja.wikipedia.org/wiki/メディア・コングロマリット "wikilink")。全米3大ネットワークの1つである[CBS](../Page/CBS.md "wikilink")、[MTV](../Page/MTV.md "wikilink")、[ニコロデオン](https://ja.wikipedia.org/wiki/ニコロデオン "wikilink")をはじめとする[ケーブルテレビ](../Page/ケーブルテレビ.md "wikilink")局向けチャンネル事業、および[パラマウント映画](../Page/パラマウント映画.md "wikilink")を傘下に持つ。

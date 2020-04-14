@@ -1,7 +1,7 @@
 > この記事は[B.EYES](https://ja.wikipedia.org/wiki/B.EYES)から翻訳されています。
 
 
-"B.EYES"(ビーアイズ) は[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")出身の[作曲家](../Page/作曲家.md "wikilink")である。B.EYESの意味はBrown Eyesから由来し、改名前はH.SUという名前で活動。
+**B.EYES**（ビーアイズ）は[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")出身の[作曲家](../Page/作曲家.md "wikilink")である。B.EYESの意味はBrown Eyesから由来し、改名前はH.SUという名前で活動。
 
 ## 来歴
 

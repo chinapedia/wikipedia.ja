@@ -1,5 +1,7 @@
-> この記事は[ \(Uru\)](https://ja.wikipedia.org/wiki/_\(Uru\))から翻訳されています。
+> この記事は[プロローグ \(Uruの曲\)](https://ja.wikipedia.org/wiki/プロローグ_\(Uruの曲\))から翻訳されています。
 
+
+{{ external media | align = right | video1 = [Uru 『プロローグ』初回盤 LIVEダイジェスト](https://www.youtube.com/watch?v=cJbkg0mRpOQ) }}
 
 「**プロローグ**」は、日本の[歌手](../Page/歌手.md "wikilink")・[Uru](https://ja.wikipedia.org/wiki/Uru "wikilink")の7作目の[シングル](../Page/シングル.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")に表題曲のみ単独で先行配信され \[1\]、同年[12月5日](../Page/12月5日.md "wikilink")に[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")から発売された。
 
@@ -7,7 +9,8 @@
 
   - 前作「[remember](https://ja.wikipedia.org/wiki/Remember_\(Uruの曲\) "wikilink")」から約2ヶ月ぶりのシングル。
   - 表題曲の「プロローグ」は、[TBS系](../Page/TBSテレビ.md "wikilink")[火曜ドラマ](https://ja.wikipedia.org/wiki/火曜ドラマ_\(TBS\) "wikilink")『[中学聖日記](https://ja.wikipedia.org/wiki/中学聖日記#テレビドラマ "wikilink")』主題歌である\[2\]。
-  - 収録曲の「[雪の華](https://ja.wikipedia.org/wiki/雪の華_\(曲\) "wikilink")」は[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")の楽曲のカバーを収録。
+  - カップリング曲である「[雪の華](https://ja.wikipedia.org/wiki/雪の華_\(曲\) "wikilink")」は[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")の楽曲のカバー。
+  - 初回盤DVD収録の「[ハッピーエンド](https://ja.wikipedia.org/wiki/ハッピーエンド_\(back_numberの曲\) "wikilink")」は[back numberの楽曲のカバーとなっている](https://ja.wikipedia.org/wiki/back_number "wikilink")。
 
 ## シングル収録曲
 
@@ -87,11 +90,15 @@
 
 「プロローグ」（2019年）
 
-## 出典
+## 脚注
+
+### 注釈
+
+### 出典
 
 ## 外部リンク
 
-  - [Uru 7th Single「プロローグ」特設ページ](https://uru-official.com/feature/prologue)
+  - [Uru 7th Single「プロローグ」特設ページ](https://uru-official.com/feature/prologue) - Uru Official Website
   - ソニー・ミュージックエンタテインメントによる紹介ページ
       - [初回生産限定盤](https://www.sonymusic.co.jp/artist/uru/discography/AICL-3611)
       - [通常盤](https://www.sonymusic.co.jp/artist/uru/discography/AICL-3613)

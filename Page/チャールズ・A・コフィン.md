@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[チャールズ・A・コフィン](https://ja.wikipedia.org/wiki/チャールズ・A・コフィン)から翻訳されています。
 
 
 **チャールズ・アルバート・コフィン**（Charles Albert Coffin、[1844年](../Page/1844年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink") - [1926年](../Page/1926年.md "wikilink")[7月14日](../Page/7月14日.md "wikilink")）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の実業家である。[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink")(GE)の共同設立者であり、同社の初代社長である。

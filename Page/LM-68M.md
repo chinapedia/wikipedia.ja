@@ -1,13 +1,13 @@
 > この記事は[LM-68M](https://ja.wikipedia.org/wiki/LM-68M)から翻訳されています。
 
 
-**LM-68M**（）は、かつて[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現：[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")）に存在した[輸送用機器](https://ja.wikipedia.org/wiki/輸送用機器 "wikilink")製造メーカーの[レニングラード都市輸送修理工場](https://ja.wikipedia.org/wiki/ペテルブルクトラム機械工場 "wikilink")（→ペテルブルクトラム機械工場）が、[1973年](../Page/1973年.md "wikilink")から[1988年](../Page/1988年.md "wikilink")まで製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")。従来の車両から製造工程・メンテナンスの簡素化や安全性の強化が図られ、2,100両以上の大量生産が行われた。形式名の「M（М）」にちなみ「**マシュカ（Машка）**」と言う愛称で呼ばれる事もある。
+**LM-68M**（）は、かつて[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現：[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")）に存在した[輸送用機器](https://ja.wikipedia.org/wiki/輸送用機器 "wikilink")製造メーカーの[レニングラード都市電気車両修理工場](https://ja.wikipedia.org/wiki/ペテルブルクトラム機械工場 "wikilink")（→ペテルブルク路面電車機械工場）が、[1973年](../Page/1973年.md "wikilink")から[1988年](../Page/1988年.md "wikilink")まで製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")。従来の車両から製造工程・メンテナンスの簡素化や安全性の強化が図られ、2,100両以上の大量生産が行われた。形式名の「M（М）」にちなみ「**マシュカ（Машка）**」と言う愛称で呼ばれる事もある。
 
 この項目では、LM-68Mを基に製造された発展形式および近代化工事後の形式についても解説する。
 
 ## 概要
 
-[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")以降、[レニングラード都市輸送修理工場では各地の路面電車の需要増加に対応するため](https://ja.wikipedia.org/wiki/ペテルブルクトラム機械工場 "wikilink")、間接制御を導入し[総括制御](../Page/総括制御.md "wikilink")による連結運転を可能とした**[LM-68](../Page/LM-68.md "wikilink")**の量産が行われていた。だが、天窓が存在する事により製造工程やメンテナンスが複雑化した事に加え、一部の側梁の省略による車体強度の不足が課題となっていた。そこで[1972年](../Page/1972年.md "wikilink")、これらの問題を解消した改良型車両を製造する計画が始まり、翌[1973年](../Page/1973年.md "wikilink")に最初の試作車が完成した。これがLM-68Mである\[1\]\[2\]。
+[1968年](https://ja.wikipedia.org/wiki/1968年 "wikilink")以降、[レニングラード都市電気車両修理工場では各地の路面電車の需要増加に対応するため](https://ja.wikipedia.org/wiki/ペテルブルクトラム機械工場 "wikilink")、[総括制御](../Page/総括制御.md "wikilink")による連結運転を可能とした**[LM-68](../Page/LM-68.md "wikilink")**の量産が行われていた。だが、天窓が存在する事により製造工程やメンテナンスが複雑化した事に加え、一部の側梁の省略による車体強度の不足が課題となっていた。そこで[1972年](../Page/1972年.md "wikilink")、これらの問題を解消した改良型車両を製造する計画が始まり、翌[1973年](../Page/1973年.md "wikilink")に最初の試作車が完成した。これがLM-68Mである\[1\]\[2\]。
 
 車体はLM-68と同様に直線を多用した角ばった形状が採用されたが、製造工程やメンテナンスの簡素化を図るためLM-68に存在した天窓が廃止され、代わりに側窓の面積が拡大した他、先頭や後方の窓部分の傾斜も無くなり、よりシンプルな外見に改められた。車内の床面高さについても、乗降扉付近に傾斜が存在したLM-68とは異なり全体が同一の高さとなり、[座席下部には暖房効果を高めるため](../Page/鉄道車両の座席.md "wikilink")[ヒーター](https://ja.wikipedia.org/wiki/ヒーター "wikilink")が設置された。折り戸式の乗降扉は右側面に3箇所設置されており、扉が開いている間は走行が出来ない安全機構も搭載された。
 
@@ -50,7 +50,8 @@
 (<a href="https://ja.wikipedia.org/wiki/テミルタウ市電" title="wikilink">テミルタウ市電</a>)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/ニジニ・ノヴゴロド.md" title="wikilink">ゴーリキー</a></p></td>
+<td><p><a href="../Page/ニジニ・ノヴゴロド.md" title="wikilink">ゴーリキー</a><br />
+()</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/チェレポヴェツ.md" title="wikilink">チェレポヴェツ</a></p></td>
@@ -88,6 +89,13 @@
 
 <File:Tram> LM-68M Training Car.jpg|[サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/サンクトペテルブルク市電 "wikilink")の[訓練車](https://ja.wikipedia.org/wiki/訓練車 "wikilink")に改造された車両 <File:Служебный> вагон ПР-51 на базе ЛМ-68М.jpg|サンクトペテルブルク市電の事業用車に改造された車両
 
+## 関連項目
+
+  - **同時期のソ連向け量産型路面電車車両**
+      - [タトラT3](../Page/タトラT3.md "wikilink") - [チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[タトラ国営会社スミーホフ工場（ČKDタトラ）製の](../Page/タトラ_\(自動車\).md "wikilink")[電車](../Page/電車.md "wikilink")。
+      - [KTM-5](https://ja.wikipedia.org/wiki/KTM-5 "wikilink") - ソビエト連邦（現：ロシア連邦）の[ウスチ＝カタフスキー車両製造工場](https://ja.wikipedia.org/wiki/ウスチ＝カタフスキー車両製造工場 "wikilink")製の電車。
+      - [RVZ-6](https://ja.wikipedia.org/wiki/RVZ-6 "wikilink") - [ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")（現：[ラトビア](https://ja.wikipedia.org/wiki/ラトビア "wikilink")）の[リガ車両製作工場](https://ja.wikipedia.org/wiki/リガ車両製作工場 "wikilink")製の電車。
+
 ## 脚注
 
 ### 注釈
@@ -100,7 +108,7 @@
 <!-- end list -->
 
   -
-[Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:1973年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1973年製の鉄道車両 "wikilink")
+[Category:ペテルブルク路面電車機械工場製の鉄道車両](https://ja.wikipedia.org/wiki/Category:ペテルブルク路面電車機械工場製の鉄道車両 "wikilink") [Category:ソビエト連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の路面電車車両 "wikilink") [Category:ロシア連邦の路面電車車両](https://ja.wikipedia.org/wiki/Category:ロシア連邦の路面電車車両 "wikilink") [Category:サンクトペテルブルク市電](https://ja.wikipedia.org/wiki/Category:サンクトペテルブルク市電 "wikilink") [Category:1973年製の鉄道車両](https://ja.wikipedia.org/wiki/Category:1973年製の鉄道車両 "wikilink")
 
 1.
 2.

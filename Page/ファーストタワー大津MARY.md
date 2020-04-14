@@ -1,4 +1,4 @@
-> この記事は[MARY](https://ja.wikipedia.org/wiki/MARY)から翻訳されています。
+> この記事は[ファーストタワー大津MARY](https://ja.wikipedia.org/wiki/ファーストタワー大津MARY)から翻訳されています。
 
 
 **ファーストタワー大津MARY**（ファーストタワーおおつマリー）は、[滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")にある[超高層マンション](../Page/超高層マンション.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[BL](https://ja.wikipedia.org/wiki/BL)から翻訳されています。
+> この記事は[B・L・ファン・デル・ヴェルデン](https://ja.wikipedia.org/wiki/B・L・ファン・デル・ヴェルデン)から翻訳されています。
 
 
 **バーテル・レーンデルト・ファン・デル・ヴェルデン**（Bartel Leendert van der Waerden ()、[1903年](../Page/1903年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink") - [1996年](../Page/1996年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の[数学](../Page/数学.md "wikilink")者、[数学史](https://ja.wikipedia.org/wiki/数学史 "wikilink")家。

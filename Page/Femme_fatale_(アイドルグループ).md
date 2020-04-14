@@ -1,7 +1,7 @@
-> この記事は[Femme fatale \(\)](https://ja.wikipedia.org/wiki/Femme_fatale_\(\))から翻訳されています。
+> この記事は[Femme fatale \(アイドルグループ\)](https://ja.wikipedia.org/wiki/Femme_fatale_\(アイドルグループ\))から翻訳されています。
 
 
-**femme fatale**（ファムファタール）は日本の女性アイドルユニット。[戦慄かなの](https://ja.wikipedia.org/wiki/戦慄かなの "wikilink")・[頓知気さきな](https://ja.wikipedia.org/wiki/頓知気さきな "wikilink")姉妹による完全セルフプロデュースユニットである。
+**femme fatale**（ファムファタール）は、日本の女性アイドルユニット。[戦慄かなの](https://ja.wikipedia.org/wiki/戦慄かなの "wikilink")・[頓知気さきな](https://ja.wikipedia.org/wiki/頓知気さきな "wikilink")姉妹による完全セルフプロデュースユニットである。
 
 ## 概要
 
@@ -43,7 +43,7 @@
 ### テレビ
 
   - [おしゃべりオジサン ヤバイ・オブ・ザ・イヤー2019](https://ja.wikipedia.org/wiki/おしゃべりオジサンと怒れる女 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2019年1月3日）
-  - [深夜に発見\!新shock感〜一度おためしください〜](https://ja.wikipedia.org/wiki/新shock感 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2019年3月24日）
+  - [深夜に発見\!新shock感〜一度おためしください〜](https://ja.wikipedia.org/wiki/新shock感 "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2019年3月24日・3月31日）
   - [アウト×デラックス](https://ja.wikipedia.org/wiki/アウト×デラックス "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2019年7月11日）
 
 ### インターネットラジオ

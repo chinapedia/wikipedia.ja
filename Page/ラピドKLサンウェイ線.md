@@ -1,4 +1,4 @@
-> この記事は[KL](https://ja.wikipedia.org/wiki/KL)から翻訳されています。
+> この記事は[ラピドKLサンウェイ線](https://ja.wikipedia.org/wiki/ラピドKLサンウェイ線)から翻訳されています。
 
 
 **BRTサンウェイ線**（BRT Sunway Line）は、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")の[セランゴール州](../Page/セランゴール州.md "wikilink")にある[ラピドKL](../Page/ラピドKL.md "wikilink")（RapidKL Bus）が運行する[バス高速輸送システム](https://ja.wikipedia.org/wiki/バス・ラピッド・トランジット "wikilink")（BRT）路線である。路線カラーはグリーンで番号はB1である。

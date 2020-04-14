@@ -1,4 +1,4 @@
-> この記事は[AMR33](https://ja.wikipedia.org/wiki/AMR33)から翻訳されています。
+> この記事は[ルノーAMR33](https://ja.wikipedia.org/wiki/ルノーAMR33)から翻訳されています。
 
 
 **ルノー AMR 33**とは[戦間期](../Page/戦間期.md "wikilink")に開発され、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で投入された[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[騎兵](../Page/騎兵.md "wikilink")用[軽戦車](../Page/軽戦車.md "wikilink")である。名称は**Automitrailleuse de Reconnaissance Renault Modèle 1933**または**ルノー VM**。

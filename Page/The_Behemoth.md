@@ -1,7 +1,7 @@
 > この記事は[The Behemoth](https://ja.wikipedia.org/wiki/The_Behemoth)から翻訳されています。
 
 
-**The Behemoth**（**ザ・ベヒモス**）は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")を拠点とする[ゲームメーカー](https://ja.wikipedia.org/wiki/ゲームメーカー "wikilink")である。
+**The Behemoth**（**ザ・ベヒモス**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")[サンディエゴ](../Page/サンディエゴ.md "wikilink")を拠点とする[ゲームメーカー](https://ja.wikipedia.org/wiki/ゲームメーカー "wikilink")である。
 
 ## 概要
 

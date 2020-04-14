@@ -1,4 +1,4 @@
-> この記事は[!SP](https://ja.wikipedia.org/wiki/!SP)から翻訳されています。
+> この記事は[緊急!公開大捜索SP](https://ja.wikipedia.org/wiki/緊急!公開大捜索SP)から翻訳されています。
 
 
 『**緊急\!公開大捜索SP**』（きんきゅう\!こうかいだいそうさくスペシャル）は、[TBS](../Page/TBSテレビ.md "wikilink")[系列で放送されている](https://ja.wikipedia.org/wiki/JNN "wikilink")[特別番組](../Page/特別番組.md "wikilink")（[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組）である。

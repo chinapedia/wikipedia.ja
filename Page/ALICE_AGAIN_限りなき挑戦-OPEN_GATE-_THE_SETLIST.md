@@ -1,4 +1,4 @@
-> この記事は[ALICE AGAIN -OPEN GATE- THE SETLIST](https://ja.wikipedia.org/wiki/ALICE_AGAIN_-OPEN_GATE-_THE_SETLIST)から翻訳されています。
+> この記事は[ALICE AGAIN 限りなき挑戦-OPEN GATE- THE SETLIST](https://ja.wikipedia.org/wiki/ALICE_AGAIN_限りなき挑戦-OPEN_GATE-_THE_SETLIST)から翻訳されています。
 
 
 『**ALICE AGAIN 限りなき挑戦 -OPEN GATE- THE SETLIST**』（アリス アゲイン かぎりなきちょうせん オープンゲート ザ・セットリスト）は、2019年5月1日にリリースされた[アリスの](../Page/アリス_\(フォークグループ\).md "wikilink")[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。

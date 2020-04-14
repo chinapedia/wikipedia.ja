@@ -1,7 +1,7 @@
-> この記事は[LISTENERS ](https://ja.wikipedia.org/wiki/LISTENERS_)から翻訳されています。
+> この記事は[LISTENERS リスナーズ](https://ja.wikipedia.org/wiki/LISTENERS_リスナーズ)から翻訳されています。
 
 
-『**LISTENERS リスナーズ**』は、[MAPPA](https://ja.wikipedia.org/wiki/MAPPA "wikilink")制作による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2020年](../Page/2020年.md "wikilink")4月より[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』ほかにて放送予定\[1\]。
+『**LISTENERS リスナーズ**』は、[MAPPA](https://ja.wikipedia.org/wiki/MAPPA "wikilink")制作による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")作品。[2020年](../Page/2020年.md "wikilink")4月より[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")・[TBS](../Page/TBSテレビ.md "wikilink")『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』B1ほかにて放送予定\[1\]。
 
 とある少年が身体にインプットジャックが空いた謎の少女であるミュウと出会って、共に世界を旅していくストーリーが描かれる\[2\]。
 
@@ -87,21 +87,32 @@
 
 ## 主題歌
 
-  - 「Into the blue's」
-    ACCAMERによるオープニングテーマ。作詞・作曲は[じん](https://ja.wikipedia.org/wiki/じん "wikilink")。
+[じん](https://ja.wikipedia.org/wiki/じん "wikilink")が主題歌全曲の作詞・作曲・プロデュースを手掛けており、オープニングテーマはACCAMERの歌唱による「Into the blue's」\[4\]、エンディングテーマはミュウ（[高橋李依](https://ja.wikipedia.org/wiki/高橋李依 "wikilink")）の歌唱による各話ごとに異なる楽曲となっている\[5\]。
 
 ## 放送局
 
-インターネットでは、[Amazon Prime Videoにて独占配信予定](https://ja.wikipedia.org/wiki/Amazon_Prime_Video "wikilink")。
+インターネットでは、同年4月4日より[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")にて配信。
+
+## BD
+
+| 巻 | 発売日\[6\]     | 収録話        | 規格品番      |
+| - | ------------ | ---------- | --------- |
+| 1 | 2020年7月29日予定 | 第1話 - 第6話  | DMPXA-120 |
+| 2 | 2020年8月26日予定 | 第7話 - 第12話 | DMPXA-122 |
 
 ## 出典
 
 ## 外部リンク
 
   -
+  - [LISTENERS | MBS](https://www.mbs.jp/listeners/) - 毎日放送による番組サイト
+
   -
 [Category:アニメ作品_り](https://ja.wikipedia.org/wiki/Category:アニメ作品_り "wikilink") [Category:2020年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2020年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:アニメイズム](https://ja.wikipedia.org/wiki/Category:アニメイズム "wikilink") [Category:MAPPA](https://ja.wikipedia.org/wiki/Category:MAPPA "wikilink") [Category:DMM_picturesのアニメ作品](https://ja.wikipedia.org/wiki/Category:DMM_picturesのアニメ作品 "wikilink") [Category:音楽を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:音楽を題材としたアニメ作品 "wikilink")
 
 1.
 2.
 3.
+4.
+5.
+6.

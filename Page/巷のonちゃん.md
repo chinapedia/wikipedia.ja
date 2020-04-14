@@ -1,4 +1,4 @@
-> この記事は[on](https://ja.wikipedia.org/wiki/on)から翻訳されています。
+> この記事は[巷のonちゃん](https://ja.wikipedia.org/wiki/巷のonちゃん)から翻訳されています。
 
 
 『**巷のonちゃん**』(ちまたのおんちゃん)は、[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")の[紀行番組](../Page/紀行番組.md "wikilink")。
@@ -58,7 +58,8 @@ HTBのマスコットキャラクター「[onちゃん](https://ja.wikipedia.org
 | \#149-151 | 上川町                                                 |                                                                                  |
 | \#152-158 | [新ひだか町](../Page/新ひだか町.md "wikilink")                |                                                                                  |
 | \#159-163 | [砂川市](../Page/砂川市.md "wikilink")                    |                                                                                  |
-| \#164-    | [今金町](../Page/今金町.md "wikilink")                    |                                                                                  |
+| \#164-167 | [今金町](../Page/今金町.md "wikilink")                    |                                                                                  |
+| \#168     | [千歳市](../Page/千歳市.md "wikilink")                    |                                                                                  |
 
 ## 出演・スタッフ
 
@@ -74,4 +75,4 @@ HTBのマスコットキャラクター「[onちゃん](https://ja.wikipedia.org
   - [HTBオンデマンド](https://hod.htb.co.jp/)(過去放送を無料配信 ※無料会員登録が必要)
   - [【公式】巷のonちゃん(YouTube)](https://m.youtube.com/playlist?list=PL0ktqkPR2ONB3tI3Cn5KBkh-68ivTF7RM)(過去放送を無料配信)
 
-[Category:北海道テレビ放送の番組‎](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組‎ "wikilink") [Category:ローカルテレビ局の紀行・旅番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の紀行・旅番組 "wikilink")
+[Category:北海道テレビ放送の番組](https://ja.wikipedia.org/wiki/Category:北海道テレビ放送の番組 "wikilink") [Category:ローカルテレビ局の紀行・旅番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の紀行・旅番組 "wikilink")

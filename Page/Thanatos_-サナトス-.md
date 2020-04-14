@@ -1,4 +1,4 @@
-> この記事は[Thanatos --](https://ja.wikipedia.org/wiki/Thanatos_--)から翻訳されています。
+> この記事は[Thanatos -サナトス-](https://ja.wikipedia.org/wiki/Thanatos_-サナトス-)から翻訳されています。
 
 
 『**Thanatos -サナトス-**』は[バーディーソフトから](../Page/メディアボックス_\(ゲーム会社\).md "wikilink")1991年3月に発売されたアダルトゲームである。

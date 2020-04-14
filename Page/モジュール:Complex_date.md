@@ -1,4 +1,4 @@
-> この記事は[:Complex date](https://ja.wikipedia.org/wiki/:Complex_date)から翻訳されています。
+> この記事は[モジュール:Complex date](https://ja.wikipedia.org/wiki/モジュール:Complex_date)から翻訳されています。
 
 
 \--\[\[

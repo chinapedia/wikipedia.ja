@@ -1,4 +1,4 @@
-> この記事は[ HOROSCOPE ](https://ja.wikipedia.org/wiki/_HOROSCOPE_)から翻訳されています。
+> この記事は[星占い HOROSCOPE 美川憲一女ごころをうたう](https://ja.wikipedia.org/wiki/星占い_HOROSCOPE_美川憲一女ごころをうたう)から翻訳されています。
 
 
 『**星占い HOROSCOPE 美川憲一女ごころをうたう**』（ほしうらない ホロスコープ みかわけんいちおんなごころをうたう）は、[1973年](../Page/1973年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に発表された[美川憲一](../Page/美川憲一.md "wikilink")の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")である。
@@ -94,3 +94,5 @@
 3.  **双子座生まれ（オリジナル・カラオケ）**
 4.  **双子座生まれ（女声用・カラオケ）**
 5.  **淑女のルンバ（オリジナル・カラオケ）**
+
+[Category:美川憲一の楽曲](https://ja.wikipedia.org/wiki/Category:美川憲一の楽曲 "wikilink") [Category:1973年のアルバム](https://ja.wikipedia.org/wiki/Category:1973年のアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink")

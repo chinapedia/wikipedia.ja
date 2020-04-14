@@ -30,7 +30,7 @@
 
   - [KABUKI-MON本公演「薔薇画茶（バラエティー）」](https://ja.wikipedia.org/wiki/KABUKI-MON本公演「薔薇画茶（バラエティー）」 "wikilink")（2010年12月1日 - 5日、池袋[シアターグリーン](../Page/シアターグリーン.md "wikilink")BOX in BOX THEATER）
   - [KABUKI-MON本公演バラエティーshowシリーズvol.2「ばらえ邸」](https://ja.wikipedia.org/wiki/KABUKI-MON本公演バラエティーshowシリーズvol.2「ばらえ邸」 "wikilink")（2011年7月21日 - 24日、 [テアトルBONBON](https://ja.wikipedia.org/wiki/テアトルBONBON "wikilink")）
-  - [KABUKI-MON本公演バラエティーShowシリーズvol.3「薔薇＆茶」](https://ja.wikipedia.org/wiki/KABUKI-MON本公演バラエティーShowシリーズvol.3「薔薇＆茶」 "wikilink")（2012年1月18日〜22日、池袋[シアターグリーン](../Page/シアターグリーン.md "wikilink")BOX in BOX THEATER\]\]）
+  - [KABUKI-MON本公演バラエティーShowシリーズvol.3「薔薇＆茶」](https://ja.wikipedia.org/wiki/KABUKI-MON本公演バラエティーShowシリーズvol.3「薔薇＆茶」 "wikilink")（2012年1月18日〜22日、池袋シアターグリーンBOX in BOX THEATER）
 
 ## 振付楽曲
 
@@ -868,7 +868,7 @@ GAM
 
   - [YOSHIKO](https://www.facebook.com/yoshiko.sato.14) (佐藤美子) - [Facebook](../Page/Facebook.md "wikilink")
 
-[Category:日本の振付家](https://ja.wikipedia.org/wiki/Category:日本の振付家 "wikilink") [Category:日本のダンサー](https://ja.wikipedia.org/wiki/Category:日本のダンサー "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:1969年生](https://ja.wikipedia.org/wiki/Category:1969年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ハロー\!プロジェクト](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト "wikilink") [Category:モーニング娘。](https://ja.wikipedia.org/wiki/Category:モーニング娘。 "wikilink")
+[Category:日本の振付家](https://ja.wikipedia.org/wiki/Category:日本の振付家 "wikilink") [Category:日本の女性ダンサー](https://ja.wikipedia.org/wiki/Category:日本の女性ダンサー "wikilink") [Category:広島県出身の人物](https://ja.wikipedia.org/wiki/Category:広島県出身の人物 "wikilink") [Category:1969年生](https://ja.wikipedia.org/wiki/Category:1969年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ハロー\!プロジェクト](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクト "wikilink") [Category:モーニング娘。](https://ja.wikipedia.org/wiki/Category:モーニング娘。 "wikilink")
 
 1.
 2.

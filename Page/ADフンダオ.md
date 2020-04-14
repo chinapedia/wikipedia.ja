@@ -1,4 +1,4 @@
-> この記事は[AD](https://ja.wikipedia.org/wiki/AD)から翻訳されています。
+> この記事は[ADフンダオ](https://ja.wikipedia.org/wiki/ADフンダオ)から翻訳されています。
 
 
 **ADフンダオ**（Associação Desportiva do Fundão）は、[ポルトガル](../Page/ポルトガル.md "wikilink")・[カステロ・ブランコ県](../Page/カステロ・ブランコ県.md "wikilink")[フンダン](https://ja.wikipedia.org/wiki/フンダン_\(ポルトガル\) "wikilink")（フンダオ）に本拠地を置く[スポーツ](../Page/スポーツ.md "wikilink")クラブ。**ADフンダン**と表記されることもある。[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")チームは（1部）に所属しており、その他には[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")チームなどを所有している。

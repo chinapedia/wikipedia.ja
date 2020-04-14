@@ -1,13 +1,13 @@
 > この記事は[Prima Porta](https://ja.wikipedia.org/wiki/Prima_Porta)から翻訳されています。
 
 
-**Prima Porta**（ぷりまぽるた）は、[大西亜玖璃](https://ja.wikipedia.org/wiki/大西亜玖璃 "wikilink")、[相良茉優](https://ja.wikipedia.org/wiki/相良茉優 "wikilink")、[内田秀](https://ja.wikipedia.org/wiki/内田秀 "wikilink")、[高柳知葉](https://ja.wikipedia.org/wiki/高柳知葉 "wikilink")、[首藤志奈](https://ja.wikipedia.org/wiki/首藤志奈 "wikilink")の5名によって構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")。略称は「**ぷりぽ**」。所属レーベルはストレイキャッツ。
+**Prima Porta**（ぷりま ぽるた）は、[大西亜玖璃](https://ja.wikipedia.org/wiki/大西亜玖璃 "wikilink")、[相良茉優](https://ja.wikipedia.org/wiki/相良茉優 "wikilink")、[内田秀](https://ja.wikipedia.org/wiki/内田秀 "wikilink")、[高柳知葉](https://ja.wikipedia.org/wiki/高柳知葉 "wikilink")、[首藤志奈](https://ja.wikipedia.org/wiki/首藤志奈 "wikilink")の5名によって構成される[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[声優ユニット](../Page/声優ユニット.md "wikilink")。略称は「**ぷりぽ**」。所属レーベルはストレイキャッツ。
 
 ## 概要
 
 [木皿陽平](https://ja.wikipedia.org/wiki/木皿陽平 "wikilink")プロデュースによる「5人組ガールズボイスアクトレスユニット」として、1年の構想期間を経てデビュー\[1\]。振り付けやダンス指導は[石川ゆみ](https://ja.wikipedia.org/wiki/石川ゆみ "wikilink")が担当。
 
-メンバーはNHKの音楽番組『[アニソン\!プレミアム\!](https://ja.wikipedia.org/wiki/アニソン!プレミアム! "wikilink")』の主題歌やアシスタントを担当している\[2\]\[3\]。
+メンバーはNHKの音楽番組『[アニソン\!プレミアム\!](https://ja.wikipedia.org/wiki/アニソン!プレミアム! "wikilink")』の主題歌を担当しており、また番組のアシスタントも務めている\[2\]\[3\]。
 
 ## 略歴
 
@@ -21,7 +21,7 @@
 | ------------------------------- | ------------ | ------------------------------------------------------------------------------------- | ---------- | ----------------------------------------- |
 | 1st                             | 2019年12月25日  | **[CALL\&GOAL\!](https://ja.wikipedia.org/wiki/CALL&GOAL! "wikilink")【Prima Porta盤】** | XNST-10022 | 59位                                       |
 | **CALL\&GOAL\!【GO GO\!ブロンコス盤】** | XNST-10023   | 57位                                                                                   |            |                                           |
-| 2nd                             | 2020年7月22日予定 | TBA                                                                                   | XNST-10024 | TBA                                       |
+| 2nd                             | 2020年7月22日予定 | 未定                                                                                    | XNST-10024 | TBA                                       |
 |                                 |              |                                                                                       |            |                                           |
 
 ### タイアップ曲
@@ -38,10 +38,10 @@
 
 原則としてリリースイベントは省略。
 
-| 公演年   | 形態     | タイトル                                          | 公演日・会場                                                                                            |
-| ----- | ------ | --------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 2020年 | 1stライブ | **Prima Porta LIVE 2020 “Open The 1st Door”** | 8月8日・9日 [浅草公会堂](https://ja.wikipedia.org/wiki/浅草公会堂 "wikilink")（[東京都](../Page/東京都.md "wikilink")） |
-|       |        |                                               |                                                                                                   |
+| 公演年   | 形態     | タイトル                                          | 公演日・会場                                                                                              |
+| ----- | ------ | --------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 2020年 | 1stライブ | **Prima Porta LIVE 2020 “Open The 1st Door”** | 8月8日・9日予定 [浅草公会堂](https://ja.wikipedia.org/wiki/浅草公会堂 "wikilink")（[東京都](../Page/東京都.md "wikilink")） |
+|       |        |                                               |                                                                                                     |
 
 ## 脚注
 

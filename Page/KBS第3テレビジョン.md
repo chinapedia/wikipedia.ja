@@ -1,7 +1,7 @@
-> この記事は[KBS3](https://ja.wikipedia.org/wiki/KBS3)から翻訳されています。
+> この記事は[KBS第3テレビジョン](https://ja.wikipedia.org/wiki/KBS第3テレビジョン)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:KBS_3TV_\(1981년_~_1990년\).png "wikilink")
+[KBS_3TV_(1981년_\~_1990년).png](https://ja.wikipedia.org/wiki/File:KBS_3TV_\(1981년_~_1990년\).png "fig:KBS_3TV_(1981년_~_1990년).png")
 
 **KBS第3テレビジョン**（けいびーえすだいにてれびじょん、韓国語表記：、略称：KBS 3TV）は、[韓国放送公社](../Page/韓国放送公社.md "wikilink")の国内向け地上波テレビチャンネルのひとつ。
 
@@ -22,20 +22,6 @@
     5月11日 - 『[初恋](../Page/初恋_\(1996年のテレビドラマ\).md "wikilink")』最終回で現行の[視聴率](../Page/視聴率.md "wikilink")調査制度移行後史上最高となる65.8%を記録\[3\]。
   - 1987年
     5月11日 - 地上デジタルテレビ放送開始\[4\]。
-
-## 主な番組
-
-  - グッドモーニング大韓民国
-  - [VJ特攻隊](../Page/VJ特攻隊.md "wikilink")
-  - [1 vs. 100](../Page/1_vs._100.md "wikilink")
-  - [ミュージックバンク](https://ja.wikipedia.org/wiki/ミュージックバンク "wikilink")
-  - [スポンジ0](../Page/スポンジ_\(テレビ番組\).md "wikilink")
-  - 芸能街中継
-  - ハッピーサンデー
-  - [ギャグコンサート](https://ja.wikipedia.org/wiki/ギャグコンサート "wikilink")
-  - 不朽の名曲 - 伝説を歌う
-  - [海の伝説 張保皐](https://ja.wikipedia.org/wiki/海の伝説_張保皐 "wikilink") (全26話 の海洋アクション[テレビアニメ](../Page/アニメ.md "wikilink")・[シリーズ](https://ja.wikipedia.org/wiki/シリーズ "wikilink"))
-  - [ハウス・オブ・マウス](../Page/ハウス・オブ・マウス.md "wikilink")
 
 ## 脚注
 

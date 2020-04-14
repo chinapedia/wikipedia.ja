@@ -1,4 +1,4 @@
-> この記事は[ABU TV 2019](https://ja.wikipedia.org/wiki/ABU_TV_2019)から翻訳されています。
+> この記事は[ABU TV ソング・フェスティバル2019](https://ja.wikipedia.org/wiki/ABU_TV_ソング・フェスティバル2019)から翻訳されています。
 
 
 **ABU TV ソング・フェスティバル2019 (ABU TV Song Festival 2019)**は、[アジア太平洋放送連合](../Page/アジア太平洋放送連合.md "wikilink") (ABU) 加盟放送局によって開催される、アジア規模の音楽コンテスト。

@@ -1,7 +1,5 @@
-> この記事は[DJ](https://ja.wikipedia.org/wiki/DJ)から翻訳されています。
+> この記事は[DJ神山](https://ja.wikipedia.org/wiki/DJ神山)から翻訳されています。
 
-
-**DJ神山**（ディージェーかみやま、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[1月28日](../Page/1月28日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ディスクジョッキー](../Page/ディスクジョッキー.md "wikilink")。
 
 ## 出演
 
@@ -13,7 +11,7 @@
 
   - 自動車タイヤの急ブレーキと砂利を踏みしめる音効付きで登場する。(SE:[C\&K](https://ja.wikipedia.org/wiki/C&K "wikilink") [パーティ☆キング](https://ja.wikipedia.org/wiki/パーティ☆キング "wikilink"))
   - 段ボール工場で働きながらDJの仕事を掛け持ちしていた(2020年現在、段ボール工場は退社している)。
-  - 現在は全国に通用する唐揚げを作る工場でアルバイトをしている。
+  - 現在は全国に流通するからあげ工場でからあげを揚げまくっている。
   - 出演番組は[bayじゃないか](https://ja.wikipedia.org/wiki/bayじゃないか "wikilink")限定であり、給料は出演一回につき200円とのこと。
   - [bayじゃないか](https://ja.wikipedia.org/wiki/bayじゃないか "wikilink")に出演したギャラでのり弁当を買っている。
   - 生まれつきこの声のため、イケボの秘訣や秘密などは特にないそう。
@@ -21,6 +19,7 @@
   - [濵田崇裕](https://ja.wikipedia.org/wiki/濵田崇裕 "wikilink")のお気に入りである。
   - 逆に[重岡大毅](https://ja.wikipedia.org/wiki/重岡大毅 "wikilink")からは「苦手」宣言を受けた。
   - [MCコター](https://ja.wikipedia.org/wiki/MCコター "wikilink")との共演を一部のリスナーから切望されている。
+  - [DJ向井](https://ja.wikipedia.org/wiki/DJ向井 "wikilink")との共演も切望されている。
   - 彼女はあまり途切れたことがないとのこと。
   - 好きな女の子のタイプはエロい子。
   - かなり束縛が激しい。「キッツキツに縛るよ？」
@@ -36,6 +35,7 @@
   - コンビニレジ打ち経験ありだが週5でしんどくなって辞める。
   - アドリブにはめっぽう弱い。
   - 男ばかりの三人兄弟で、幼少期にはスカートを履かされていたという。
+  - たまにめっちゃ噛む
 
 ## 語録
 

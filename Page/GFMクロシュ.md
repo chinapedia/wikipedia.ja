@@ -1,4 +1,4 @@
-> この記事は[GFM](https://ja.wikipedia.org/wiki/GFM)から翻訳されています。
+> この記事は[GFMクロシュ](https://ja.wikipedia.org/wiki/GFMクロシュ)から翻訳されています。
 
 
 [ウヴラージュ・モルバンジュに置かれたGFMタイプAクロシュ。](https://ja.wikipedia.org/wiki/File:Go-molvange-b8-cloche-gfm.jpg "fig:ウヴラージュ・モルバンジュに置かれたGFMタイプAクロシュ。") **GFMクロシュ**とは、[マジノライン](https://ja.wikipedia.org/wiki/マジノライン "wikilink")において最も一般的に備えられた防御用装備の一つである。クロシュとは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で鐘の意がある。これは固定式で地中への引き込みができない火点であり、内部の要員を防護するため分厚い鋳鉄で製造されていた。これと比較すると、砲塔は旋回でき、しばしば地中に引き込めるため、上部天蓋のみが露出していた。

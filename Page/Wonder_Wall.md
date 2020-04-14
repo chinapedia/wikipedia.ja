@@ -41,17 +41,27 @@
 
 ## 来歴
 
-#### 2016年
+  - 2016年
+
+<!-- end list -->
 
   - 7月11日 - 活動開始。\[2\]
 
-#### 2018年
+<!-- end list -->
+
+  - 2018年
+
+<!-- end list -->
 
   - 8月9日 - ファーストアルバム「plug」の発売
   - 8月12日 - ROCK IN JAPAN 2018出演
   - 10月17日 - 全国流通盤となる1stアルバム「plug」リリース
 
-#### 2019年
+<!-- end list -->
+
+  - 2019年
+
+<!-- end list -->
 
   - 1月30日 - ROCKIN'ON JAPAN３月号に掲載
   - 12月31日 - EP「赤く」リリース
@@ -157,7 +167,9 @@
 
 ## 外部リンク
 
-  - [公式サイト](https://wonderwall845.jimdofree.com)
+  - [公式サイト（旧ページ）](https://wonderwall845.jimdofree.com/)
+
+  - [公式サイト](https://wonderwall2015845.wixsite.com/website)
 
   -
   -

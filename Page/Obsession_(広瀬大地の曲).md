@@ -1,4 +1,4 @@
-> この記事は[Obsession \(\)](https://ja.wikipedia.org/wiki/Obsession_\(\))から翻訳されています。
+> この記事は[Obsession \(広瀬大地の曲\)](https://ja.wikipedia.org/wiki/Obsession_\(広瀬大地の曲\))から翻訳されています。
 
 
 「**Obsession**」（オブセッション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[広瀬大地](../Page/広瀬大地.md "wikilink")の[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。[2019年](../Page/2019年.md "wikilink")[10月23日](../Page/10月23日.md "wikilink")に3枚目のシングルとして配信限定でリリースされた\[1\]。
@@ -21,6 +21,6 @@
 
 ## 脚注
 
-[Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink")
+[Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:楽曲_お](https://ja.wikipedia.org/wiki/Category:楽曲_お "wikilink") [Category:広瀬大地の楽曲](https://ja.wikipedia.org/wiki/Category:広瀬大地の楽曲 "wikilink")
 
 1.  [1](https://www.barks.jp/news/?id=1000173441)

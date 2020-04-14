@@ -1,4 +1,4 @@
-> この記事は[TL](https://ja.wikipedia.org/wiki/TL)から翻訳されています。
+> この記事は[TL経営研修機構](https://ja.wikipedia.org/wiki/TL経営研修機構)から翻訳されています。
 
 
 **TL経営研修機構**はTL（トータルライフ）人間学（魂の学）に基く経営を学び、実践するための研修機構である。

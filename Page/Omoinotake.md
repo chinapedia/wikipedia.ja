@@ -44,122 +44,120 @@
 
 ## ディスコグラフィ
 
-### EP
+
+\=== EP ===
 
 <table>
 <thead>
 <tr class="header">
-<th></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
+<th><p>　</p></th>
+<th><p>発売日　　</p></th>
+<th><p>　　タイトル　　</p></th>
 <th><p>規格品番</p></th>
-<th><p>収録曲</p></th>
+<th><p>　　　　　　　　　収録曲　　　　　　　　</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>2012年　　　　</p></td>
-<td><p>Oｍoinotake　　　　　</p></td>
-<td><p>　　　　　</p></td>
-<td><p>　　　　　　　　 全2曲</p>
-<p>1.Omoinotake</p>
-<p>2.Room 102</p>
-<p>　　　　　　　　　　　　　　　　　　　　　　</p></td>
+<td><p>2012年</p></td>
+<td><p>Omoinotake</p></td>
+<td></td>
+<td><p>1.Omoinotake 2.Room 102</p>
+<p><br />
+</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2014年</p></td>
 <td><p>love songs</p></td>
 <td></td>
-<td><p>全5曲</p>
-<p>1.Lovita</p>
+<td><p>1.Lovita</p>
 <p>2.さよならポートレート</p>
 <p>3.Hitorigoto</p>
 <p>4.「3」</p>
-<p>5.雨上がりの窓辺</p></td>
+<p>5.雨上がりの窓辺<br />
+</p></td>
 </tr>
 <tr class="odd">
-<td><p>3rd</p>
-<p>　</p></td>
+<td><p>3rd</p></td>
 <td><p>2015年7月21日</p></td>
 <td><p>Yourbs</p></td>
 <td><p>NECR-1007</p></td>
-<td><p>　　 全4曲</p>
-<p>1.lake side</p>
+<td><p>1.lake side</p>
 <p>2.雨と喪失</p>
 <p>3.嵐の夜に</p>
-<p>4.mei</p></td>
+<p>4.mei<br />
+</p></td>
 </tr>
 <tr class="even">
-<td><p>4th</p>
-<p><br />
-</p></td>
+<td><p>4th</p></td>
 <td><p>2016年4月28日</p></td>
-<td><p>In Snumber</p></td>
+<td><p>InSnumber</p></td>
 <td><p>NECR-1011</p></td>
-<td><p>全4曲　</p>
-<p>1.One Love</p>
+<td><p>1.One Love</p>
 <p>2.Nightfly</p>
 <p>3.Ache</p>
-<p>4.1992</p>
-<p>　　</p></td>
+<p>4.1992<br />
+</p></td>
 </tr>
 </tbody>
 </table>
+
+
 
 ### カセットテープ
 
+
+{| class="wikitable" style="font-size:small;" \! \!発売日 \!タイトル \!　　規格品番　 \!　 収録曲 |- \!1st |2016年10月8日 |Yourbs/InSnumber |VSIC-1006 |SIDE:A
+
+1.lake side
+
+2.雨と喪失
+
+3.嵐の夜に
+
+4.mei
+
+SIDE:B
+
+1.One Love
+
+2.Nightfly
+
+3.Ache
+
+4.1992　　　　　　　　　　　　　
+
+
+|- \!2nd | 2017年10月14日
+
+|beside |VSIC-1007 |SIDE:A
+
+1.Ride on
+
+2.Freaky Night
+
+3.All of love
+
+SIDE:B
+
+1.Life goes on
+
+2.Sunshine Girl
+
+3.Bedroom　　　　　　　　　　　　　　　　　　
+
+
+|}
+\=== フルアルバム ===
+
 <table>
 <thead>
 <tr class="header">
 <th></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>規格品番</p></th>
-<th><p>収録曲</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p>2016年10月8日</p></td>
-<td><p><strong>Yourbs / InSnumber</strong></p></td>
-<td><p>VSIC1006　　</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
-<p><strong>全7曲</strong></p>
-</div>
-<div class="NavContent" style="text-align:left;">
-<p><strong>SIDE A：</strong></p>
-<ol>
-<li><strong>lake side</strong></li>
-<li><strong>雨と喪失</strong></li>
-<li><strong>嵐の夜に</strong></li>
-<li><strong>mei</strong></li>
-</ol>
-</div>
-<p><strong><br />
-</strong></p>
-</div>
-<p><strong>SIDE B：</strong></p>
-<ol>
-<li><strong>One Love</strong></li>
-<li><strong>Nightfly</strong></li>
-<li><strong>Ache1992　　　　　　　　　　　　　</strong></li>
-</ol></td>
-</tr>
-</tbody>
-</table>
-
-### フルアルバム
-
-<table>
-<thead>
-<tr class="header">
-<th></th>
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
+<th><p>　発売日</p></th>
+<th><p>　　タイトル　</p></th>
 <th><p>規格品番</p></th>
 <th><p>収録曲</p></th>
 </tr>
@@ -168,26 +166,19 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2017年1月11日</p></td>
-<td><p><strong>So far　　　　　　　　</strong></p></td>
+<td><p>So far</p></td>
 <td><p>NECR-1010</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
-<p>全10曲<br />
-</p>
-<ol>
-<li>Hit It Up</li>
-<li>fake me</li>
-<li>ダイアローグ feat.森心言（Alaska Jam）</li>
-<li>lake side</li>
-<li>Winter Bloomer</li>
-<li>mei</li>
-<li>東京falling</li>
-<li>Nightfly</li>
-<li>Moment</li>
-<li>1992</li>
-</ol>
-</div>
-</div></td>
+<td><p>1.Hit It Up</p>
+<p>2.fake me</p>
+<p>3.ダイアローグfeat.森心言（Alaska Jam)</p>
+<p>4.lake side</p>
+<p>5.Winter Bloomer</p>
+<p>6.mei</p>
+<p>7.東京falling</p>
+<p>8.Nightfly</p>
+<p>9.Moment</p>
+<p>10.1992<br />
+</p></td>
 </tr>
 </tbody>
 </table>
@@ -200,69 +191,51 @@
 <th></th>
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
-<th><p>規格品番</p></th>
-<th><p>収録曲</p></th>
+<th><p>　規格品番　　</p></th>
+<th><p>　収録曲</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1st Mini Album</p></td>
+<td><p>1st</p></td>
 <td><p>2017年8月2日</p></td>
 <td><p><strong>beside</strong></p></td>
-<td><p>NECR－1015</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
-<p>全6曲<br />
-</p>
-<ol>
-<li>Ride On</li>
-<li>Freaky Night</li>
-<li>All of Love</li>
-<li>Life goes on</li>
-<li>Sunshine Girl</li>
-<li>Bedroom</li>
-</ol>
-</div>
-</div></td>
+<td><p>NECR-1015</p></td>
+<td><p>1.Ride on</p>
+<p>2.Freaky Night</p>
+<p>3.All of love</p>
+<p>4.Life goes on</p>
+<p>5.Sunshine Girl</p>
+<p>6.Bedroom</p>
+<p><code>  </code><br />
+</p></td>
 </tr>
 <tr class="even">
-<td><p>2nd Mini Album</p></td>
+<td><p>2nd</p></td>
 <td><p>2018年10月10日</p></td>
 <td><p><strong>Street Light</strong></p></td>
 <td><p>NECR-1017</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
-<p>全6曲<br />
-</p>
-<ol>
-<li>Stand Alone</li>
-<li>Never Let You Go</li>
-<li>Still</li>
-<li>Temptation</li>
-<li>Bitter Sweet</li>
-<li>Friction</li>
-</ol>
-</div>
-</div></td>
+<td><p>1.Stand Alone</p>
+<p>2.Never Let You Go</p>
+<p>3.Still</p>
+<p>4.Temptation</p>
+<p>5.Bitter SweeT</p>
+<p>6.Friction<br />
+</p></td>
 </tr>
 <tr class="odd">
-<td><p>3rd Mini Album</p></td>
-<td><p>2019年2月19日</p></td>
+<td><p>3rd</p></td>
+<td><p>2020年2月19日</p></td>
 <td><p><strong>モラトリアム</strong></p></td>
-<td><p>NECR-1024：通常盤 NECR-1025：期間生産限定盤</p></td>
-<td><div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
-<p>全5曲<br />
-</p>
-<ol>
-<li>モラトリアム</li>
-<li>惑星</li>
-<li>トニカ</li>
-<li>Blanco</li>
-<li>So Far So Good</li>
-</ol>
-</div>
-</div></td>
+<td><p>NECR-1024 通常盤</p>
+<p>NECR-1025</p>
+<p>期間生産限定盤</p></td>
+<td><p>1.モラトリアム</p>
+<p>2.惑星</p>
+<p>3.トニカ</p>
+<p>4.Blanco</p>
+<p>5.So Far So Good<br />
+</p></td>
 </tr>
 </tbody>
 </table>
@@ -346,8 +319,9 @@
 
 ## ミュージックビデオ
 
-| 公開日        | 監督                 | 曲名                                                                                          | 備考 |
+|            |                    |                                                                                             |    |
 | ---------- | ------------------ | ------------------------------------------------------------------------------------------- | -- |
+| 公開日        | 監督                 | 曲名                                                                                          | 備考 |
 | 2016/04/27 | 瀬川功仁               | [logo Ache](https://www.youtube.com/watch?v=khc5KILx9J4&feature=emb)                        |    |
 | 2016/10/21 | Yohei Haga         | [Hit It Up](https://www.youtube.com/watch?v=-h-HMsE0UBA&feature=emb_logo)                   |    |
 | 2017/01/10 |                    | [ダイアローグ feat.森心言（Alaska Jam）](https://www.youtube.com/watch?v=-q0fxraqFd4&feature=emb_logo) |    |
@@ -356,6 +330,7 @@
 | 2018/08/23 | Rachel Chie Miller | [Stand Alone](https://www.youtube.com/watch?v=J1_0xfTpqCI&feature=emb_logo)                 |    |
 | 2019/12/17 | 大川直也               | [トニカ](https://www.youtube.com/watch?v=RfdV9kpPhm4&feature=emb_logo)                         |    |
 | 2020/01/01 | Ryoma Matsumoto    | [Blanco](https://www.youtube.com/watch?v=7MjZ4hFo5PI&feature=emb_logo)                      |    |
+| 2020/2/18  | Ryoma Matsumoto    | モラトリアム                                                                                      |    |
 
 ## 脚注
 

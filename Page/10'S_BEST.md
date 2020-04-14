@@ -258,6 +258,14 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
+        3rdシングルの1曲目
+
+        </div>
+
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
         [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[NARUTO -ナルト- SD ロック・リーの青春フルパワー忍伝](https://ja.wikipedia.org/wiki/ロック・リーの青春フルパワー忍伝#テレビアニメ "wikilink")』オープニングテーマ
 
         </div>
@@ -343,7 +351,23 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
+        作詞：オカモトショウ　作曲：オカモトショウ、オカモトコウキ
+
+        </div>
+    <!-- end list -->
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
         新曲
+
+        </div>
+
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        STORES「お店つくろう～雑貨篇～」CMソング\[6\]
 
         </div>
 2.  **[新世界](https://ja.wikipedia.org/wiki/HELLO_WORLD_\(アニメ映画\)#主題歌・劇伴 "wikilink")**
@@ -393,7 +417,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        初CD化\[6\]
+        初CD化\[7\]
 
         </div>
 4.  **Regret**
@@ -418,7 +442,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[アニパラ あなたのヒーローは誰ですか 第1弾"ブラインドサッカー編"](https://ja.wikipedia.org/wiki/アニ×パラ〜あなたのヒーローは誰ですか〜#第1弾「episode1_ブラインドサッカー」 "wikilink")』テーマソング\[7\]
+        [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[アニパラ あなたのヒーローは誰ですか 第1弾"ブラインドサッカー編"](https://ja.wikipedia.org/wiki/アニ×パラ〜あなたのヒーローは誰ですか〜#第1弾「episode1_ブラインドサッカー」 "wikilink")』テーマソング\[8\]
 
         </div>
 
@@ -576,7 +600,7 @@
 
         <div class="NavContent" style="text-align: left;font-size:small;">
 
-        5thシングル
+        5thシングルカップリング
 
         </div>
 14. **[サウンド・オブ・ミュージック](https://ja.wikipedia.org/wiki/サウンド・オブ・ミュージック_\(奥田民生の曲\) "wikilink")**
@@ -690,5 +714,6 @@
 3.  [ファン投票によるベストアルバム『10'S BEST』発売決定！](http://www.sonymusic.co.jp/Music/Info/okamotos/info/archive/?514104)
 4.  [BEST』詳細＆ジャケット写真公開！](https://www.okamotos.net/info/archive/?515972『10'S)
 5.
-6.  原曲の「ART(FCO2811)」は8thアルバム『[BOY](https://ja.wikipedia.org/wiki/BOY_\(OKAMOTO'Sのアルバム\) "wikilink")』でCD化はされているが、リミックス音源のCD化は初となる
-7.  [OKAMOTO'S、書き下ろしの新曲「Turn Up」がNHK"アニ×パラ あなたのヒーローは誰ですか"のブラインド・サッカー編テーマ曲に決定](https://skream.jp/news/2017/10/okamotos_ani-para_theme-song.php)
+6.  [OKAMOTO'SとCHAIがCMに出演、それぞれ書き下ろした新曲がCMソングに](https://natalie.mu/music/news/366113)
+7.  原曲の「ART(FCO2811)」は8thアルバム『[BOY](https://ja.wikipedia.org/wiki/BOY_\(OKAMOTO'Sのアルバム\) "wikilink")』でCD化はされているが、リミックス音源のCD化は初となる
+8.  [OKAMOTO'S、書き下ろしの新曲「Turn Up」がNHK"アニ×パラ あなたのヒーローは誰ですか"のブラインド・サッカー編テーマ曲に決定](https://skream.jp/news/2017/10/okamotos_ani-para_theme-song.php)

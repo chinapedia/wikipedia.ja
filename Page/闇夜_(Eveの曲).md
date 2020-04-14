@@ -1,4 +1,4 @@
-> この記事は[ \(Eve\)](https://ja.wikipedia.org/wiki/_\(Eve\))から翻訳されています。
+> この記事は[闇夜 \(Eveの曲\)](https://ja.wikipedia.org/wiki/闇夜_\(Eveの曲\))から翻訳されています。
 
 
 「**闇夜**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[Eveの楽曲](https://ja.wikipedia.org/wiki/Eve_\(歌手\) "wikilink")。デジタル配信限定シングルとして[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より2019年6月25日に各音楽配信サービスにてリリースされた\[1\]\[2\]\[3\]。
@@ -31,7 +31,7 @@
 
   - [闇夜](https://www.toysfactory.co.jp/sp/artist/eve/disco/2031)
 
-[Category:Eveの楽曲](https://ja.wikipedia.org/wiki/Category:Eveの楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:トイズファクトリーのシングル](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのシングル "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:TOKYO_MXのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:TOKYO_MXのテレビアニメ主題歌 "wikilink") [Category:楽曲_や](https://ja.wikipedia.org/wiki/Category:楽曲_や "wikilink")
+[Category:Eveの楽曲](https://ja.wikipedia.org/wiki/Category:Eveの楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:トイズファクトリーのシングル](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのシングル "wikilink") [Category:テレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:テレビアニメ主題歌 "wikilink") [Category:TOKYO_MXのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:TOKYO_MXのテレビアニメ主題歌 "wikilink") [Category:楽曲_や](https://ja.wikipedia.org/wiki/Category:楽曲_や "wikilink") [Category:Eve](https://ja.wikipedia.org/wiki/Category:Eve "wikilink")
 
 1.
 2.

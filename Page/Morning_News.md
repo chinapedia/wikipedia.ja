@@ -44,18 +44,17 @@
 
 <!-- end list -->
 
-  - [若林理紗](https://ja.wikipedia.org/wiki/若林理紗 "wikilink") (日曜・月曜担当)
-  - [山田幸美](../Page/山田幸美.md "wikilink") (火曜担当)
-  - [土谷映未](https://ja.wikipedia.org/wiki/土谷映未 "wikilink") (水曜担当)
-  - [鈴木理香子](../Page/鈴木理香子.md "wikilink") (木曜担当)
-  - [加田晶子](https://ja.wikipedia.org/wiki/加田晶子 "wikilink") (金曜担当)
+  - [神谷文乃](https://ja.wikipedia.org/wiki/神谷文乃 "wikilink") (月曜・水曜担当)
+  - [土谷映未](https://ja.wikipedia.org/wiki/土谷映未 "wikilink") (火曜・日曜担当)
+  - [若林理紗](https://ja.wikipedia.org/wiki/若林理紗 "wikilink") (木曜担当)
+  - [鈴木理香子](../Page/鈴木理香子.md "wikilink") (金曜担当)
   - [日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")アナウンサー (土曜担当)
 
 ※平日担当のキャスターについては、前の番組の「[Wake-Up News](https://ja.wikipedia.org/wiki/Wake-Up_News "wikilink")」と「[Market News](https://ja.wikipedia.org/wiki/Market_News "wikilink")」も担当する。
 
 ※土曜日担当の日本テレビアナウンサーは、その週によって異なるが、同じキャスターが[Lunch Update](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink")、[Afternoon Newsを担当することもある](https://ja.wikipedia.org/wiki/Afternoon_News "wikilink")。(別のキャスターが[Lunch Update以降を担当することもある](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink"))
 
-※日曜日担当の[若林理紗](https://ja.wikipedia.org/wiki/若林理紗 "wikilink")キャスターは[Lunch Update](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink")、[Afternoon Newsも担当する](https://ja.wikipedia.org/wiki/Afternoon_News "wikilink")。
+※日曜日担当の[土谷映未](https://ja.wikipedia.org/wiki/土谷映未 "wikilink")キャスターは[Lunch Update](https://ja.wikipedia.org/wiki/Lunch_Update "wikilink")、[Afternoon Newsも担当する](https://ja.wikipedia.org/wiki/Afternoon_News "wikilink")。
 
   - 気象予報士
 

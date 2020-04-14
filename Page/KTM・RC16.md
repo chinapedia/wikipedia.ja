@@ -1,7 +1,7 @@
-> この記事は[KTMRC16](https://ja.wikipedia.org/wiki/KTMRC16)から翻訳されています。
+> この記事は[KTM・RC16](https://ja.wikipedia.org/wiki/KTM・RC16)から翻訳されています。
 
 
-**RC16**（アールシーじゅうろく）は[オーストリア](../Page/オーストリア.md "wikilink")のオートバイメーカー[KTMが開発した競技用](../Page/KTM_\(オートバイ\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。より[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")MotoGPクラスに参戦している。
+**RC16**（アールシーじゅうろく）は、[オーストリア](../Page/オーストリア.md "wikilink")のオートバイメーカー[KTMが開発した競技用](../Page/KTM_\(オートバイ\).md "wikilink")[オートバイ](../Page/オートバイ.md "wikilink")である。より[ロードレース世界選手権](../Page/ロードレース世界選手権.md "wikilink")MotoGPクラスに参戦している。
 
 ## 概要
 

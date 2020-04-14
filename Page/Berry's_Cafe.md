@@ -59,6 +59,7 @@
   - [Berry' Cafe（ベリーズカフェ）](https://www.berrys-cafe.jp/pc/)
 
   -
+  -
 [Category:小説投稿サイト](https://ja.wikipedia.org/wiki/Category:小説投稿サイト "wikilink") [Category:文学のウェブサイト](https://ja.wikipedia.org/wiki/Category:文学のウェブサイト "wikilink") [Category:日本のウェブサイト](https://ja.wikipedia.org/wiki/Category:日本のウェブサイト "wikilink") [Category:スターツグループ](https://ja.wikipedia.org/wiki/Category:スターツグループ "wikilink")
 
 1.

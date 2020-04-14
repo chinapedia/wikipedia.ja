@@ -1,4 +1,4 @@
-> この記事は[RT6N1](https://ja.wikipedia.org/wiki/RT6N1)から翻訳されています。
+> この記事は[タトラRT6N1](https://ja.wikipedia.org/wiki/タトラRT6N1)から翻訳されています。
 
 
 **タトラRT6N1**は、かつて[チェコ](../Page/チェコ.md "wikilink")の[プラハ](../Page/プラハ.md "wikilink")に存在した**[ČKDタトラ](../Page/タトラ_\(自動車\).md "wikilink")**が製造した[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")（[タトラカー](https://ja.wikipedia.org/wiki/タトラカー "wikilink")）。[バリアフリー](../Page/バリアフリー.md "wikilink")に対応した[部分超低床電車として設計されたが](../Page/超低床電車.md "wikilink")、信頼性の低さやČKDタトラの破産により短期間かつ少数の生産に終わった。

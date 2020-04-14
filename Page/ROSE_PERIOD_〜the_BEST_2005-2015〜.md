@@ -1,4 +1,4 @@
-> この記事は[ROSE PERIOD the BEST 2005-2015](https://ja.wikipedia.org/wiki/ROSE_PERIOD_the_BEST_2005-2015)から翻訳されています。
+> この記事は[ROSE PERIOD 〜the BEST 2005-2015〜](https://ja.wikipedia.org/wiki/ROSE_PERIOD_〜the_BEST_2005-2015〜)から翻訳されています。
 
 
 『**ROSE PERIOD 〜the BEST 2005-2015〜**』（ローズ・ピリオド ザ・ベスト2005-2015）は、[山崎まさよし](https://ja.wikipedia.org/wiki/山崎まさよし "wikilink")通算5枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2015年](../Page/2015年.md "wikilink")[8月19日](../Page/8月19日.md "wikilink")発売。発売・販売元はAugument Records。[規格品番](../Page/規格品番.md "wikilink")は初回生産限定盤がXNAU-00012B、通常盤がXNAU-00013。

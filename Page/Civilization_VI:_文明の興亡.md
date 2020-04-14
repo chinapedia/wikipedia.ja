@@ -1,4 +1,4 @@
-> この記事は[Civilization VI: ](https://ja.wikipedia.org/wiki/Civilization_VI:_)から翻訳されています。
+> この記事は[Civilization VI: 文明の興亡](https://ja.wikipedia.org/wiki/Civilization_VI:_文明の興亡)から翻訳されています。
 
 
 '**'Civilization VI: 文明の興亡** ([英語](../Page/英語.md "wikilink"):Sid Meier's Civilization VI: Rise and Fall)は、[ターン制ストラテジー](https://ja.wikipedia.org/wiki/ターン制ストラテジー "wikilink")[ゲーム](../Page/ゲーム.md "wikilink")である[Civilization VIの公式](https://ja.wikipedia.org/wiki/Civilization_VI "wikilink")[拡張パック](../Page/拡張パック.md "wikilink")である。[2018年](../Page/2018年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink") ([日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では2月9日)に発売され、従来のCivilization VIの文明と指導者に加えて新たに8つの文明と9人の指導者が追加された\[1\]\[2\]。

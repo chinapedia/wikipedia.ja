@@ -1,4 +1,4 @@
-> この記事は[IPW:UK](https://ja.wikipedia.org/wiki/IPW:UK)から翻訳されています。
+> この記事は[IPW:UKジュニアヘビー級王座](https://ja.wikipedia.org/wiki/IPW:UKジュニアヘビー級王座)から翻訳されています。
 
 
 **IPW:UKジュニアヘビー級王座**は、[IPW:UKが管理](https://ja.wikipedia.org/wiki/インターナショナル・プロ・レスリング:ユナイテッド・キングダム "wikilink")、認定している王座。

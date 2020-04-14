@@ -1,4 +1,4 @@
-> この記事は[ HANAZONO](https://ja.wikipedia.org/wiki/_HANAZONO)から翻訳されています。
+> この記事は[パークハイアット ニセコHANAZONO](https://ja.wikipedia.org/wiki/パークハイアット_ニセコHANAZONO)から翻訳されています。
 
 
 **パークハイアット ニセコHANAZONO**（）は、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[虻田郡](../Page/虻田郡.md "wikilink")[倶知安町](../Page/倶知安町.md "wikilink")の[ニセコHANAZONOリゾート](https://ja.wikipedia.org/wiki/ニセコHANAZONOリゾート "wikilink")にある[ホテル](../Page/ホテル.md "wikilink")。

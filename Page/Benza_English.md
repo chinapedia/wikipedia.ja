@@ -17,7 +17,7 @@
 
 ## 登場人物
 
-[Benza_English_Full_Cast.jpg](https://ja.wikipedia.org/wiki/File:Benza_English_Full_Cast.jpg "fig:Benza_English_Full_Cast.jpg") メインキャスト
+メインキャスト
 
   - かおり
     池田香織
@@ -105,8 +105,6 @@
     肉食系イケメン。お腹が弱い日本人。
 
 ## スタッフ
-
-[Making_of_Benza_English.jpg](https://ja.wikipedia.org/wiki/File:Making_of_Benza_English.jpg "fig:Making_of_Benza_English.jpg")
 
   - 監督 - [西坂來人](https://ja.wikipedia.org/wiki/西坂來人 "wikilink")、マイケル・ウィリアムズ
   - 脚本 - クリス・マッコームス

@@ -1,7 +1,7 @@
-> この記事は[UFC Fight Night: Anderson vs. Bachowicz 2](https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Anderson_vs._Bachowicz_2)から翻訳されています。
+> この記事は[UFC Fight Night: Anderson vs. Błachowicz 2](https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Anderson_vs._Błachowicz_2)から翻訳されています。
 
 
-**UFC Fight Night: Anderson vs. Błachowicz 2**（ユーエフシー・ファイトナイト：アンダーソン・バーサス・ブラホヴィッチ、別名**UFC Fight Night 167**、**UFC on ESPN+ 25**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2020年](../Page/2020年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")、[ニューメキシコ州](../Page/ニューメキシコ州.md "wikilink")[リオランチョの](https://ja.wikipedia.org/wiki/リオランチョ_\(ニューメキシコ州\) "wikilink")[サンタアナ・スター・センターで開催された](https://ja.wikipedia.org/wiki/:en:Santa_Ana_Star_Center "wikilink")。
+**UFC Fight Night: Anderson vs. Błachowicz 2**（ユーエフシー・ファイトナイト：アンダーソン・バーサス・ブラホヴィッチ、別名**UFC Fight Night 167**、**UFC on ESPN+ 25**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[総合格闘技](../Page/総合格闘技.md "wikilink")団体「[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")」の大会の一つ。[2020年](../Page/2020年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")、[ニューメキシコ州](../Page/ニューメキシコ州.md "wikilink")[リオランチョのサンタアナ](https://ja.wikipedia.org/wiki/リオランチョ_\(ニューメキシコ州\) "wikilink")・スター・センターで開催された。
 
 ## 大会概要
 
@@ -48,7 +48,7 @@
 <!-- end list -->
 
   - 第7試合 ウェルター級 5分3R
-    ○  ダニエル・ロドリゲス　vs.  [ティム・ミーンズ](https://ja.wikipedia.org/wiki/ティム・ミーンズ "wikilink") ×
+    ○  ダニエル・ロドリゲス vs.  [ティム・ミーンズ](https://ja.wikipedia.org/wiki/ティム・ミーンズ "wikilink") ×
     2R 3:37 ギロチンチョーク
 
 ### メインカード
@@ -59,15 +59,16 @@
 
 <!-- end list -->
 
-  - 第9試合 128ポンド契約 5分3R
+  - 第9試合 58.1kg契約 5分3R
     ○  [レイ・ボーグ](https://ja.wikipedia.org/wiki/レイ・ボーグ "wikilink") vs.  ホジェリオ・ボントリン ×
     3R終了 判定3-0（30-27、30-27、30-25）
+    ※ボーグの体重超過によりフライ級から変更。
 
 <!-- end list -->
 
   - 第10試合 ライト級 5分3R
     ○  ブロク・ウィーバー vs.  カズラ・バーガス ×
-    1R 4:02 反則（手をついた状態のウィーバーにバーガスの膝蹴りが入ったため）
+    1R 4:02 反則（グランド状態の膝蹴り）
 
 <!-- end list -->
 
@@ -79,11 +80,11 @@
 
   - 第12試合 ウェルター級 5分3R
     ○  [ディエゴ・サンチェス](../Page/ディエゴ・サンチェス.md "wikilink") vs.  ミシェウ・ペレイラ ×
-    3R 3:09 反則（手をついた状態のサンチェスにペレイラの膝蹴りが入ったため）
+    3R 3:09 反則（グランド状態の膝蹴り）
 
 <!-- end list -->
 
-  - 第13試合 ライトヘビー級 5分3R
+  - 第13試合 ライトヘビー級 5分5R
     ○  [ヤン・ブラホヴィッチ](../Page/ヤン・ブラホヴィッチ.md "wikilink") vs.  [コーリー・アンダーソン](https://ja.wikipedia.org/wiki/コーリー・アンダーソン "wikilink") ×
     1R 3:08 KO（右フック）
 
@@ -106,7 +107,9 @@
 
 ## 外部リンク
 
-  - [UFC公式サイトの試合結果](http://jp.ufc.com/event/ufc-fight-night-february-15-2020)
-  - [SHERDOG試合結果](https://m.sherdog.com/events/UFC-Fight-Night-167-Anderson-vs-Blachowicz-2-82977)
+  -
+  - [GONG KAKUTOGIによる試合結果](https://gonkaku.jp/articles/3164)
 
+  -
+  -
 [Category:UFCの大会](https://ja.wikipedia.org/wiki/Category:UFCの大会 "wikilink") [Category:UFCのニューメキシコ州大会](https://ja.wikipedia.org/wiki/Category:UFCのニューメキシコ州大会 "wikilink") [Category:2020年の総合格闘技](https://ja.wikipedia.org/wiki/Category:2020年の総合格闘技 "wikilink") [Category:2020年のアメリカ合衆国のスポーツ](https://ja.wikipedia.org/wiki/Category:2020年のアメリカ合衆国のスポーツ "wikilink") [Category:2020年2月](https://ja.wikipedia.org/wiki/Category:2020年2月 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")

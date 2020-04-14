@@ -30,4 +30,4 @@
 
 ## 脚注
 
-[Category:JVCケンウッド・ビクターエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:JVCケンウッド・ビクターエンタテインメントのアルバム "wikilink") [Category:2018年のアルバム](https://ja.wikipedia.org/wiki/Category:2018年のアルバム "wikilink")
+[Category:ビクターエンタテインメントのアルバム](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアルバム "wikilink") [Category:2018年のアルバム](https://ja.wikipedia.org/wiki/Category:2018年のアルバム "wikilink")

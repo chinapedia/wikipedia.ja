@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[チャールズ・A・ウィンチェスター](https://ja.wikipedia.org/wiki/チャールズ・A・ウィンチェスター)から翻訳されています。
 
 
 **チャールズ・アレクサンダー・ウィンチェスター**（Charles Alexander Winchester、[1820年](../Page/1820年.md "wikilink")頃 - [1883年](../Page/1883年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")）は、主に[幕末](../Page/幕末.md "wikilink")の[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活躍した[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[外交官](../Page/外交官.md "wikilink")である。

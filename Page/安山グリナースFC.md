@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[安山グリナースFC](https://ja.wikipedia.org/wiki/安山グリナースFC)から翻訳されています。
 
 
 **安山グリナースFC**（あんさんぐりなーすFC、、）は、[大韓民国](../Page/大韓民国.md "wikilink")の[京畿道](../Page/京畿道.md "wikilink")[安山市](../Page/安山市.md "wikilink")をホームとする[サッカークラブ](https://ja.wikipedia.org/wiki/サッカークラブ "wikilink")である。グリナーズ、グリーナーズと表記されることもある。2017年創設で[Kリーグ2](https://ja.wikipedia.org/wiki/Kリーグ2 "wikilink")に属している。

@@ -1,4 +1,4 @@
-> この記事は[Officialdism one-man tour 2019 @](https://ja.wikipedia.org/wiki/Officialdism_one-man_tour_2019_@)から翻訳されています。
+> この記事は[Official髭男dism one-man tour 2019 @日本武道館](https://ja.wikipedia.org/wiki/Official髭男dism_one-man_tour_2019_@日本武道館)から翻訳されています。
 
 
 「**Official髭男dism one-man tour 2019 @日本武道館**」は、2月12日に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")からリリースされた、日本の[ピアノPOPバンド](../Page/バンド_\(音楽\).md "wikilink")、[Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")の1枚目の映像作品。
@@ -65,4 +65,4 @@
 
 ## 脚注
 
-[Category:Official髭男dismの映像作品](https://ja.wikipedia.org/wiki/Category:Official髭男dismの映像作品 "wikilink") [Category:2019年のコンサート](https://ja.wikipedia.org/wiki/Category:2019年のコンサート "wikilink") [Category:2020年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2020年のライブ・ビデオ "wikilink") [Category:ポニーキャニオン](https://ja.wikipedia.org/wiki/Category:ポニーキャニオン "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:Official髭男dism](https://ja.wikipedia.org/wiki/Category:Official髭男dism "wikilink") [Category:2019年のコンサート](https://ja.wikipedia.org/wiki/Category:2019年のコンサート "wikilink") [Category:2020年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2020年のライブ・ビデオ "wikilink") [Category:ポニーキャニオンの映像作品](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

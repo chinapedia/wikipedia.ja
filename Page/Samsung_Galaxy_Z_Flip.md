@@ -9,7 +9,7 @@
 
 #### ディスプレイ
 
-開いたときに使用するメインディスプレイと閉じている状態て使用するサブディスプレイがある。メインディスプレイは、6.7[インチ](../Page/インチ.md "wikilink")でHDR10+に対応した[有機EL](https://ja.wikipedia.org/wiki/有機EL "wikilink")「Dynamic AMOLED」、サブディスプレイは1.1インチの有機EL「Super AMOLED」。メインディスプレイは、パンチホールカメラを画面上部中央に配置した「Infinity-O Display」となっている。また、メインディスプレイには折りたたみスマートフォンとしては初めて[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")が使われている\[7\]\[8\]\[9\]\[10\]。
+開いたときに使用するメインディスプレイと閉じている状態て使用するサブディスプレイがある。メインディスプレイは、6.7[インチ](../Page/インチ.md "wikilink")でHDR10+に対応した[有機EL](https://ja.wikipedia.org/wiki/有機EL "wikilink")「Dynamic AMOLED」、サブディスプレイは1.1インチの有機EL「Super AMOLED」。メインディスプレイは、パンチホールカメラを画面上部中央に配置した「Infinity-O Display」となっている。また、メインディスプレイには折りたたみスマートフォンとしては初めて[ガラス](https://ja.wikipedia.org/wiki/ガラス "wikilink")が使われている\[7\]\[8\]\[9\]。折れ曲がるガラスには、極薄の「Ultra Thin Glass」（UTG）を採用。直接手が触れる面には[プラスチック](https://ja.wikipedia.org/wiki/プラスチック "wikilink")保護層があり、その下にUTGが配置されている\[10\]\[11\]。
 
 #### チップセット
 
@@ -25,11 +25,11 @@
 
 #### カメラ
 
-リアカメラは超広角と広角のデュアル構成。超広角カメラは約123°の視野角での撮影が可能。また、[4K](https://ja.wikipedia.org/wiki/4K "wikilink") UHD、HDR10+の動画撮影、[スーパー手ブレ補正](https://ja.wikipedia.org/wiki/光学式手ブレ補正 "wikilink")、写真/動画の背景ぼかし（ライブフォーカス）、ナイトモードに対応する。フロントカメラでは、折り曲げ角度をつけて机などに置いて撮影することが可能\[11\]。
+リアカメラは超広角と広角のデュアル構成。超広角カメラは約123°の視野角での撮影が可能。また、[4K](https://ja.wikipedia.org/wiki/4K "wikilink") UHD、HDR10+の動画撮影、[スーパー手ブレ補正](https://ja.wikipedia.org/wiki/光学式手ブレ補正 "wikilink")、写真/動画の背景ぼかし（ライブフォーカス）、ナイトモードに対応する。Flexモードでは、折り曲げ角度をつけテーブルなどに置いて、写真撮影することが可能\[12\]。セルフィーやナイトハイパーラプスを撮影する際に机に置くとブレが少なくなるほか、[UIも自動で変更される](https://ja.wikipedia.org/wiki/ユーザーインターフェイス "wikilink")。
 
 #### デザイン
 
-デザインテーマは、「A Brand New Vide」\[12\]\[13\]。デザインは、[化粧品](../Page/化粧品.md "wikilink")メーカーの[ランコム](https://ja.wikipedia.org/wiki/ランコム "wikilink")との共同開発。ディスプレイ面は、フレームを削ぎ落とした「Infinity-O Display」となっている。[指紋認証](https://ja.wikipedia.org/wiki/指紋認証 "wikilink")センサーは側面に配置されている。カラーはミラーパープル、ミラーブラック、ミラーゴールド。また、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のファッションデザイナーの[Thom Browneとのコラボレーションモデル](https://ja.wikipedia.org/wiki/トム・ブラウン\(ファッションデザイナー\) "wikilink")「Galaxy Z Flip Thom Browne Edition」も発売する\[14\]。新たな機構のヒンジ「Hideaway Hinge」は、ホコリやチリなどへの対策を一層強化している\[15\]。なお、カラーについては[\#カラーバリエーションも参照](https://ja.wikipedia.org/wiki/Galaxy_Z_Flip#カラーバリエーション "wikilink")。
+デザインテーマは、「A Brand New Vide」\[13\]\[14\]。デザインは、[化粧品](../Page/化粧品.md "wikilink")メーカーの[ランコム](https://ja.wikipedia.org/wiki/ランコム "wikilink")との共同開発\[15\]。ディスプレイ面は、フレームを削ぎ落とした「Infinity-O Display」となっている。[指紋認証](https://ja.wikipedia.org/wiki/指紋認証 "wikilink")センサーは側面に配置されている。カラーはミラーパープル、ミラーブラック、ミラーゴールド。「ミラー」の名称の通り、鏡面仕上げとなっている。また、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のファッションデザイナーの[Thom Browneとのコラボレーションモデル](https://ja.wikipedia.org/wiki/トム・ブラウン\(ファッションデザイナー\) "wikilink")「Galaxy Z Flip Thom Browne Edition」も発売する\[16\]。新たな機構のヒンジ「Hideaway Hinge」は、ホコリやチリなどへの対策を一層強化している\[17\]。なお、カラーについては[\#カラーバリエーションも参照](https://ja.wikipedia.org/wiki/Galaxy_Z_Flip#カラーバリエーション "wikilink")。
 
 #### 音響
 
@@ -95,27 +95,27 @@ Galaxy Z Flip Thom Browne Edition
 
 ### 展開状況
 
-Galaxy Z Flipのミラーパープルとミラーブラックはほとんどの国で展開されている。また、ミラーゴールドと、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のファッションデザイナー「Thom Browne」とのコラボレーションモデル「Galaxy Z Flip Thom Browne Edition」は一部の国と地域で展開されている。なお、現時点で[第5世代移動通信システム](https://ja.wikipedia.org/wiki/第5世代移動通信システム "wikilink")（5G）対応モデルは発表されていない\[16\]。
+Galaxy Z Flipのミラーパープルとミラーブラックはほとんどの国で展開されている。また、ミラーゴールドと、[ニューヨーク](../Page/ニューヨーク.md "wikilink")のファッションデザイナー「Thom Browne」とのコラボレーションモデル「Galaxy Z Flip Thom Browne Edition」は一部の国と地域で展開されている。なお、現時点で[第5世代移動通信システム](https://ja.wikipedia.org/wiki/第5世代移動通信システム "wikilink")（5G）対応モデルは発表されていない\[18\]。
 
 ### コラボレーションやイベント
 
-グローバル展開においては、2月12日に[ニューヨーク](../Page/ニューヨーク.md "wikilink")ファッションウィーク、2月14日に[ロンドン](../Page/ロンドン.md "wikilink")ファッションウィーク、2月20日に[ミラノ](../Page/ミラノ.md "wikilink")ファッションウィーク、最後に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")ファッションウィークにGalaxy Z Flipが登場し、[ファッション](../Page/ファッション.md "wikilink")性をアピールしている\[17\]。
+グローバル展開においては、2月12日に[ニューヨーク](../Page/ニューヨーク.md "wikilink")ファッションウィーク、2月14日に[ロンドン](../Page/ロンドン.md "wikilink")ファッションウィーク、2月20日に[ミラノ](../Page/ミラノ.md "wikilink")ファッションウィーク、最後に[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")ファッションウィークにGalaxy Z Flipが登場し、[ファッション](../Page/ファッション.md "wikilink")性をアピールしている\[19\]。
 
 #### Galaxy Z Flip Thom Browne Edition
 
-[ニューヨーク](../Page/ニューヨーク.md "wikilink")のファッションデザイナー「Thom Browne」とコラボレーションしたモデル。シルバーの下地に、紺、白、赤のラインが並んでいる。限定デザインのGalaxy Watch Active2やGalaxy Buds+、ケースなども付属する。また、搭載されているテーマや壁紙もThom Browne限定仕様となっている\[18\]\[19\]。
+[ニューヨーク](../Page/ニューヨーク.md "wikilink")のファッションデザイナー「Thom Browne」とコラボレーションしたモデル。シルバーの下地に、紺、白、赤のラインが並んでいる。限定デザインのGalaxy Watch Active2やGalaxy Buds+、ケースなども付属する。また、搭載されているテーマや壁紙もThom Browne限定仕様となっている\[20\]\[21\]。
 
 #### Ashley Williams × Galaxy Z Flip
 
-[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のファッションデザイナー「Ashley Williams」がデザインしたGalaxy Z Flip向けマイクロバッグが[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")など一部国と地域で発売されている\[20\]。
+[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")のファッションデザイナー「Ashley Williams」がデザインしたGalaxy Z Flip向けマイクロバッグが[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")など一部国と地域で発売されている\[22\]。
 
 #### Lancôme × Galaxy Z Flip
 
-Galaxy Z Flipのデザイン、設計には[化粧品](../Page/化粧品.md "wikilink")ブランドの[ランコム](https://ja.wikipedia.org/wiki/ランコム "wikilink")が参加している。折りたたんだ形のデザインは、[ファンデーション](https://ja.wikipedia.org/wiki/ファンデーション "wikilink")や[財布](../Page/財布.md "wikilink")の形状にインスパイヤされている\[21\]。
+Galaxy Z Flipのデザイン、設計には[化粧品](../Page/化粧品.md "wikilink")ブランドの[ランコム](https://ja.wikipedia.org/wiki/ランコム "wikilink")が参加している。折りたたんだ形のデザインは、[ファンデーション](https://ja.wikipedia.org/wiki/ファンデーション "wikilink")や[財布](../Page/財布.md "wikilink")の形状にインスパイヤされている\[23\]。
 
 ## 日本での展開
 
-[KDDI](../Page/KDDI.md "wikilink")（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")連合）が、[SCV47](https://ja.wikipedia.org/wiki/SCV47 "wikilink")として独占的に展開する\[22\]。日本では異例であるが、グローバル発表の直後に日本での発売が発表された\[23\]。2020年2月18日から予約開始、2020年2月28日から発売。[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")（各au）全店、au Online Shop、au取り扱い店、Galaxyのショールーム「[Galaxy Harajuku](https://ja.wikipedia.org/wiki/Galaxy_Harajuku "wikilink")」で販売。
+[KDDI](../Page/KDDI.md "wikilink")（[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")連合）が、[SCV47](https://ja.wikipedia.org/wiki/SCV47 "wikilink")として独占的に展開する\[24\]。日本では異例であるが、グローバル発表の直後に日本での発売が発表された\[25\]。2020年2月18日から予約開始、2020年2月28日から発売。[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")（各au）全店、au Online Shop、au取り扱い店、Galaxyのショールーム「[Galaxy Harajuku](https://ja.wikipedia.org/wiki/Galaxy_Harajuku "wikilink")」で販売。
 
 ## 脚注
 
@@ -138,17 +138,19 @@ Galaxy Z Flipのデザイン、設計には[化粧品](../Page/化粧品.md "wik
 7.  [サムスンの新しいタテ型折りたたみスマホ、画面には｢フィルムのように曲がるガラス｣が使われてる](https://www.gizmodo.jp/2020/02/samsung-galaxy-z-flip-glass-screen.html//) *Gizmodo Japan*、2020年2月17日閲覧。
 8.  [サムスンが「Galaxy Z Flip」を、あえて縦型の折りたたみにした理由とは？：ハンズオンレヴュー](https://wired.jp/2020/02/14/samsung-galaxy-z-flip-hands-on///) *Wired Japan*、2020年2月17日閲覧。
 9.  [縦折りスマホSamsung Galaxy Z Flipが示すフォルダブルの進むべき方向](https://jp-techcrunch-com.cdn.ampproject.org/v/s/jp.techcrunch.com/2020/02/13/2020-02-11-samsung-galaxy-z-flip-hands-on-this-is-more-like-it/amp/?amp_js_v=a3&_gsa=1&usqp=mq331AQCKAE%3D#aoh=15818170058025&referrer=https%3A%2F%2Fwww.google.com&_tf=%E3%82%BD%E3%83%BC%E3%82%B9%3A%20%251%24s&ampshare=https%3A%2F%2Fjp.techcrunch.com%2F2020%2F02%2F13%2F2020-02-11-samsung-galaxy-z-flip-hands-on-this-is-more-like-it%2F//) *Tech Crunch*、2020年2月17日閲覧。
-10. 折れ曲がる極薄ガラス「Ultra Thin Glass」（UTG）を採用。直接手が触れる面には保護層があり、その下にUTGが配置されている。
-11. [Galaxy Z Flipは「折りたたみスマホ」の完成形か。Galaxy Foldとの違いを見る](https://japanese.engadget.com/jp-2020-02-12-galaxy-z-flip-galaxy-fold.html//) *Engadget Japanese*、2020年2月17日閲覧。
-12. [Design Story - The Story Behind the Galaxy Z Flip’s Fashion-Forward Design](https://news.samsung.com/global/design-story-the-story-behind-the-galaxy-z-flips-fashion-forward-design//) *Samsung Global Newsroom*、2020年2月17日閲覧。
-13. [A Brand New Vide - Galaxy Z Flip Design Story](http://design.samsung.com/global/contents/galaxy-z-flip///) *Samsung Design*、2020年2月17日閲覧。
-14. [サムスンの折りたたみスマホ新作、「トム ブラウン」との限定コレクションが登場](https://www.fashionsnap.com/article/2020-02-12/galaxy-thombrowne///) *FashionSnap*、2020年2月17日閲覧。
-15. [Galaxy Z Flip rumors: Hideaway hinge and $1,400 price takes aim at Motorola Razr](https://www-cnet-com.cdn.ampproject.org/v/s/www.cnet.com/google-amp/news/galaxy-z-flip-rumors-hideaway-hinge-and-1400-price-takes-aim-at-motorola-razr/?amp_js_v=a3&_gsa=1&usqp=mq331AQCKAE%3D#aoh=15818185275057&referrer=https%3A%2F%2Fwww.google.com&_tf=%E3%82%BD%E3%83%BC%E3%82%B9%3A%20%251%24s&ampshare=https%3A%2F%2Fwww.cnet.com%2Fnews%2Fgalaxy-z-flip-rumors-hideaway-hinge-and-1400-price-takes-aim-at-motorola-razr%2F//) *CNET*、2020年2月17日閲覧。
-16. [なんでだよ...Galaxy S20は5Gネイティブなのに、なぜZ FlipはLTE止まりなんだよ](https://www.gizmodo.jp/2020/02/why-galaxy-z-flip-lte.html//) *Gizmodo Japan*、2020年2月17日閲覧。
-17. [In Pictures: The Galaxy Z Flip Takes Center Stage at Fashion Weeks Around the World](https://news.samsung.com/global/in-pictures-the-galaxy-z-flip-takes-center-stage-at-fashion-weeks-around-the-world?utm_source=rss&utm_medium=direct//) *Samsung Global Nemsroom*、2020年3月1日閲覧。
-18. [Thom Browne と Samsung が最新型の折りたたみ式スマホ Galaxy Z Flip の限定エディションを制作](https://hypebeast-com.cdn.ampproject.org/v/s/hypebeast.com/jp/2020/2/samsung-unpacked-galaxy-z-flip-thom-browne?amp_js_v=a3&amp_gsa=1&amp=1&usqp=mq331AQCKAE%3D#aoh=15830544210209&referrer=https%3A%2F%2Fwww.google.com&amp_tf=%E3%82%BD%E3%83%BC%E3%82%B9%3A%20%251%24s&ampshare=https%3A%2F%2Fhypebeast.com%2Fjp%2F2020%2F2%2Fsamsung-unpacked-galaxy-z-flip-thom-browne//) *HYPEBEAST*、2020年3月1日閲覧。
-19. [サムスンの折りたたみスマホ新作、「トム ブラウン」との限定コレクションが登場](https://www.fashionsnap.com/article/2020-02-12/galaxy-thombrowne///) *FashionSnap*、2020年3月1日閲覧。
-20. [Galaxy Z Flip made waves at the fashion week trifecta after launch](https://www.sammobile.com/news/galaxy-z-flip-waves-fashion-week-trifecta-launch///) *SamMobile*、2020年3月1日閲覧。
-21. [Futuristic Galaxy Z Flip lands to give the Razr a run for its price... and specs](https://www.phonearena.com/news/samsung-galaxy-z-flip-foldable-specs-price-release-date_id121483//) *PhoneArena*、2020年3月1日閲覧。
-22. [auが独占販売！ 折りたたみスマホ「Galaxy Z Flip」を触ってみた！](https://www.goodspress.jp/news/278933///) *GoodPress*、2020年2月17日閲覧。
-23. [縦折り「Galaxy Z Flip」auで発売決定！　実機写真＆KDDI雨宮氏インタビュー](https://k--tai-watch-impress-co-jp.cdn.ampproject.org/v/s/k-tai.watch.impress.co.jp/docs/interview/1234/541/amp.index.html?amp_js_v=a3&_gsa=1&usqp=mq331AQCKAE%3D#aoh=15818170058025&referrer=https%3A%2F%2Fwww.google.com&_tf=%E3%82%BD%E3%83%BC%E3%82%B9%3A%20%251%24s&ampshare=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Finterview%2F1234541.html//) *ケータイWatch*、2020年2月17日閲覧。
+10. [Galaxy Z Flip durability test calls Samsung’s Ultra Thin ‘Glass’ into question](https://www.theverge.com/2020/2/16/21139897/samsung-galaxy-z-flip-ultra-thin-glass-durability-scratch-test-jerryrigeverything//) *The Verge*、2020年3月9日閲覧。
+11. [「折り畳めるスマートフォン」の市場において、サムスンはここまで技術的に先行している](https://wired.jp/2020/03/09/samsung-ultra-thin-glass-z-flip///) *Wired Japan*、2020年3月9日閲覧。
+12. [Galaxy Z Flipは「折りたたみスマホ」の完成形か。Galaxy Foldとの違いを見る](https://japanese.engadget.com/jp-2020-02-12-galaxy-z-flip-galaxy-fold.html//) *Engadget Japanese*、2020年2月17日閲覧。
+13. [Design Story - The Story Behind the Galaxy Z Flip’s Fashion-Forward Design](https://news.samsung.com/global/design-story-the-story-behind-the-galaxy-z-flips-fashion-forward-design//) *Samsung Global Newsroom*、2020年2月17日閲覧。
+14. [A Brand New Vide - Galaxy Z Flip Design Story](http://design.samsung.com/global/contents/galaxy-z-flip///) *Samsung Design*、2020年2月17日閲覧。
+15. [Samsung CEO reveals name of the next foldable, confirms S20 family in secret meeting](https://m-gsmarena-com.cdn.ampproject.org/v/s/m.gsmarena.com/samsung_ceo_reveals_name_of_the_next_foldable_confirms_s20_family_in_secret_meeting-amp-40967.php?amp_js_v=a3&amp_gsa=1&usqp=mq331AQFKAGwASA%3D#aoh=15836389396534&referrer=https%3A%2F%2Fwww.google.com&amp_tf=%E3%82%BD%E3%83%BC%E3%82%B9%3A%20%251%24s&ampshare=https%3A%2F%2Fwww.gsmarena.com%2Fsamsung_ceo_reveals_name_of_the_next_foldable_confirms_s20_family_in_secret_meeting-news-40967.php//) *GSMARENA*、2020年3月8日閲覧。
+16. [サムスンの折りたたみスマホ新作、「トム ブラウン」との限定コレクションが登場](https://www.fashionsnap.com/article/2020-02-12/galaxy-thombrowne///) *FashionSnap*、2020年2月17日閲覧。
+17. [Galaxy Z Flip rumors: Hideaway hinge and $1,400 price takes aim at Motorola Razr](https://www-cnet-com.cdn.ampproject.org/v/s/www.cnet.com/google-amp/news/galaxy-z-flip-rumors-hideaway-hinge-and-1400-price-takes-aim-at-motorola-razr/?amp_js_v=a3&_gsa=1&usqp=mq331AQCKAE%3D#aoh=15818185275057&referrer=https%3A%2F%2Fwww.google.com&_tf=%E3%82%BD%E3%83%BC%E3%82%B9%3A%20%251%24s&ampshare=https%3A%2F%2Fwww.cnet.com%2Fnews%2Fgalaxy-z-flip-rumors-hideaway-hinge-and-1400-price-takes-aim-at-motorola-razr%2F//) *CNET*、2020年2月17日閲覧。
+18. [なんでだよ...Galaxy S20は5Gネイティブなのに、なぜZ FlipはLTE止まりなんだよ](https://www.gizmodo.jp/2020/02/why-galaxy-z-flip-lte.html//) *Gizmodo Japan*、2020年2月17日閲覧。
+19. [In Pictures: The Galaxy Z Flip Takes Center Stage at Fashion Weeks Around the World](https://news.samsung.com/global/in-pictures-the-galaxy-z-flip-takes-center-stage-at-fashion-weeks-around-the-world?utm_source=rss&utm_medium=direct//) *Samsung Global Nemsroom*、2020年3月1日閲覧。
+20. [Thom Browne と Samsung が最新型の折りたたみ式スマホ Galaxy Z Flip の限定エディションを制作](https://hypebeast-com.cdn.ampproject.org/v/s/hypebeast.com/jp/2020/2/samsung-unpacked-galaxy-z-flip-thom-browne?amp_js_v=a3&amp_gsa=1&amp=1&usqp=mq331AQCKAE%3D#aoh=15830544210209&referrer=https%3A%2F%2Fwww.google.com&amp_tf=%E3%82%BD%E3%83%BC%E3%82%B9%3A%20%251%24s&ampshare=https%3A%2F%2Fhypebeast.com%2Fjp%2F2020%2F2%2Fsamsung-unpacked-galaxy-z-flip-thom-browne//) *HYPEBEAST*、2020年3月1日閲覧。
+21. [サムスンの折りたたみスマホ新作、「トム ブラウン」との限定コレクションが登場](https://www.fashionsnap.com/article/2020-02-12/galaxy-thombrowne///) *FashionSnap*、2020年3月1日閲覧。
+22. [Galaxy Z Flip made waves at the fashion week trifecta after launch](https://www.sammobile.com/news/galaxy-z-flip-waves-fashion-week-trifecta-launch///) *SamMobile*、2020年3月1日閲覧。
+23. [Futuristic Galaxy Z Flip lands to give the Razr a run for its price... and specs](https://www.phonearena.com/news/samsung-galaxy-z-flip-foldable-specs-price-release-date_id121483//) *PhoneArena*、2020年3月1日閲覧。
+24. [auが独占販売！ 折りたたみスマホ「Galaxy Z Flip」を触ってみた！](https://www.goodspress.jp/news/278933///) *GoodPress*、2020年2月17日閲覧。
+25. [縦折り「Galaxy Z Flip」auで発売決定！　実機写真＆KDDI雨宮氏インタビュー](https://k--tai-watch-impress-co-jp.cdn.ampproject.org/v/s/k-tai.watch.impress.co.jp/docs/interview/1234/541/amp.index.html?amp_js_v=a3&_gsa=1&usqp=mq331AQCKAE%3D#aoh=15818170058025&referrer=https%3A%2F%2Fwww.google.com&_tf=%E3%82%BD%E3%83%BC%E3%82%B9%3A%20%251%24s&ampshare=https%3A%2F%2Fk-tai.watch.impress.co.jp%2Fdocs%2Finterview%2F1234541.html//) *ケータイWatch*、2020年2月17日閲覧。

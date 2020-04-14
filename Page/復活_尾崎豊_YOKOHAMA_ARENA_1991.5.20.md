@@ -1,4 +1,4 @@
-> この記事は[  YOKOHAMA ARENA 1991.5.20](https://ja.wikipedia.org/wiki/__YOKOHAMA_ARENA_1991.5.20)から翻訳されています。
+> この記事は[復活 尾崎豊 YOKOHAMA ARENA 1991.5.20](https://ja.wikipedia.org/wiki/復活_尾崎豊_YOKOHAMA_ARENA_1991.5.20)から翻訳されています。
 
 
 『**復活 尾崎豊 YOKOHAMA ARENA 1991.5.20**』（ふっかつ おざきゆたか ヨコハマ・アリーナ せんきゅうひゃくきゅうじゅういち ご にじゅう）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")である[尾崎豊](../Page/尾崎豊.md "wikilink")の18作目の映像作品。英題は『**Yutaka Ozaki Yokohama Arena 1991/5/20 The First Day**』。

@@ -70,7 +70,7 @@
 <td></td>
 <td><p><a href="../Page/千葉県.md" title="wikilink">千葉県</a></p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/11月2日.md" title="wikilink">11月2日</a></p></td>
-<td></td>
+<td><p>好きな食べ物・油そば 好きな日本酒・獺祭</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>砂糖 ひな</strong><br />
@@ -87,10 +87,10 @@
 <small>ねこの いのり</p></td>
 <td><p>いのりん</p></td>
 <td><p>青色</p></td>
-<td><p>{{生年月日と年齢</p></td>
-<td><p>2|26}}</p></td>
+<td></td>
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月9日.md" title="wikilink">2月9日</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

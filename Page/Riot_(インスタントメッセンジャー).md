@@ -1,4 +1,4 @@
-> この記事は[Riot \(\)](https://ja.wikipedia.org/wiki/Riot_\(\))から翻訳されています。
+> この記事は[Riot \(インスタントメッセンジャー\)](https://ja.wikipedia.org/wiki/Riot_\(インスタントメッセンジャー\))から翻訳されています。
 
 
 **Riot** (Riot.im) は、[Matrixプロトコルに基づいた](../Page/Matrix_\(プロトコル\).md "wikilink")[フリーかつオープンソースの](https://ja.wikipedia.org/wiki/FLOSS "wikilink")[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")である。[Apache License 2.0の下で配布されている](https://ja.wikipedia.org/wiki/Apache_License_2.0 "wikilink")。RiotはMatrixプロトコルを使用するので、ユーザは接続するサーバを選択することができる\[1\]。

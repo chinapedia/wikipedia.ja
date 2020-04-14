@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[忠南牙山FC](https://ja.wikipedia.org/wiki/忠南牙山FC)から翻訳されています。
 
 
 **忠南牙山FC**（チュンナムアサンFC）は、[大韓民国](../Page/大韓民国.md "wikilink")の[忠清南道](../Page/忠清南道.md "wikilink") [牙山市](../Page/牙山市.md "wikilink")をホームとする[サッカークラブ](https://ja.wikipedia.org/wiki/サッカークラブ "wikilink")である。[韓国警察](https://ja.wikipedia.org/wiki/韓国警察 "wikilink")が母体の[牙山ムグンファFC](https://ja.wikipedia.org/wiki/牙山ムグンファFC "wikilink")を前身とする。
@@ -9,12 +9,17 @@
 
 ## 現所属メンバー
 
+  - [2020年](../Page/2020年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")現在
+
 ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
 
 ## 脚注
 
 ## 外部リンク
 
+  -
+  -
+  -
   -
 [Category:韓国のサッカークラブ](https://ja.wikipedia.org/wiki/Category:韓国のサッカークラブ "wikilink") [Category:忠清南道](https://ja.wikipedia.org/wiki/Category:忠清南道 "wikilink")
 

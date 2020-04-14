@@ -1,4 +1,4 @@
-> この記事は[YUMA](https://ja.wikipedia.org/wiki/YUMA)から翻訳されています。
+> この記事は[中山優馬のYUMAにあ](https://ja.wikipedia.org/wiki/中山優馬のYUMAにあ)から翻訳されています。
 
 
 『**中山優馬のYUMAにあ**』（なかやまゆうまのゆうまにあ）は[2020年](../Page/2020年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")から[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（[RKBラジオ](../Page/RKBラジオ.md "wikilink")）で放送されている[トーク番組](../Page/トーク番組.md "wikilink")である。

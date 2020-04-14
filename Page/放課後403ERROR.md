@@ -1,13 +1,13 @@
-> この記事は[403ERROR](https://ja.wikipedia.org/wiki/403ERROR)から翻訳されています。
+> この記事は[放課後403ERROR](https://ja.wikipedia.org/wiki/放課後403ERROR)から翻訳されています。
 
 
 **放課後403ERROR**（ほうかごよんまるさんえらー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のROCK系[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループである。
 
-2017年11月3日に、「自由と制限」をコンセプトとして、デビュー。
+[2017年](../Page/2017年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に、「自由と制限」をコンセプトとしてデビュー。
 
 フリーランスセルフプロデュースグループである。
 
-シフト制での活動とガスマスクや黒マスクを衣装に取り入れる斬新さが特徴。
+[シフト制](https://ja.wikipedia.org/wiki/シフト制 "wikilink")での活動と[ガスマスク](../Page/ガスマスク.md "wikilink")や黒マスクを衣装に取り入れる斬新さが特徴。
 
 ## メンバー
 
@@ -573,20 +573,20 @@
 
 ## 外部リンク
 
-[公式HP](https://www.afterschool-403error.com/)
+  - [公式HP](https://www.afterschool-403error.com/)
+  - [少女ファシズム](https://twitter.com/girls_fashism)
 
-[少女ファシズム](https://twitter.com/girls_fashism)
+<!-- end list -->
 
-Twitter
+  - Twitter
+      - [グループ](https://twitter.com/403error_info)
+      - [咲原涼華](https://twitter.com/NANAME_ryoka)
+      - [坂下素直](https://twitter.com/naname_sunao)
+      - [鳳来楓花](https://twitter.com/NANAME_fuuka)
+      - [只野あかり](https://twitter.com/NANAME_akari)
+      - [こえだぽんぬ](https://twitter.com/NANAME_koedaponn)
+      - [佐藤えま](https://twitter.com/NANAME_ema)
+      - [猫田れん](https://twitter.com/NANAME_ren)
+      - [柴崎すずめ](https://twitter.com/NANAME_suzume)
 
-  - [グループ](https://twitter.com/403error_info)
-  - [咲原涼華](https://twitter.com/NANAME_ryoka)
-  - [坂下素直](https://twitter.com/naname_sunao)
-  - [鳳来楓花](https://twitter.com/NANAME_fuuka)
-  - [只野あかり](https://twitter.com/NANAME_akari)
-  - [こえだぽんぬ](https://twitter.com/NANAME_koedaponn)
-  - [佐藤えま](https://twitter.com/NANAME_ema)
-  - [猫田れん](https://twitter.com/NANAME_ren)
-  - [柴崎すずめ](https://twitter.com/NANAME_suzume)
-
-[Category:アイドル](https://ja.wikipedia.org/wiki/Category:アイドル "wikilink") [Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink")
+[Category:ライブアイドル](https://ja.wikipedia.org/wiki/Category:ライブアイドル "wikilink") [Category:2017年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に結成した音楽グループ "wikilink") [Category:8人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:8人組の音楽グループ "wikilink") [Category:日本のアイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のアイドルグループ "wikilink")

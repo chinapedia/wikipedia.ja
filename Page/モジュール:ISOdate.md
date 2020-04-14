@@ -1,4 +1,4 @@
-> この記事は[:ISOdate](https://ja.wikipedia.org/wiki/:ISOdate)から翻訳されています。
+> この記事は[モジュール:ISOdate](https://ja.wikipedia.org/wiki/モジュール:ISOdate)から翻訳されています。
 
 
 \--[This module is intended for processing of date strings. Please do not modify this code without applying the changes first at Module:ISOdate/sandbox and testing at Module:ISOdate/sandbox/testcases and Module talk:ISOdate/sandbox/testcases. Authors and maintainers: \* User:Parent5446 - original version of the function mimicking template:ISOdate \* User:Jarekt - original version of the functions mimicking template:Date and template:ISOyear](https://ja.wikipedia.org/wiki/This_module_is_intended_for_processing_of_date_strings._Please_do_not_modify_this_code_without_applying_the_changes_first_at_Module:ISOdate/sandbox_and_testing_at_Module:ISOdate/sandbox/testcases_and_Module_talk:ISOdate/sandbox/testcases._Authors_and_maintainers:_*_User:Parent5446_-_original_version_of_the_function_mimicking_template:ISOdate_*_User:Jarekt_-_original_version_of_the_functions_mimicking_template:Date_and_template:ISOyear "wikilink")

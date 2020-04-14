@@ -1,4 +1,4 @@
-> この記事は[SAP  FILE:M661-51](https://ja.wikipedia.org/wiki/SAP__FILE:M661-51)から翻訳されています。
+> この記事は[SAP 特殊行動警察 FILE:M661-51](https://ja.wikipedia.org/wiki/SAP_特殊行動警察_FILE:M661-51)から翻訳されています。
 
 
 『**SAP 特殊行動警察 <FILE:M661-51>**』（SAP とくしゅこうどうけいさつ ファイルM661-51）は、1990年12月にグレイトから発売されたPC-98シリーズ・X68000シリーズ用アダルトゲームである。 続編として『KIDS -SAP特殊行動警察 2nd.FILE-』が存在する。
@@ -64,4 +64,4 @@
   -   -
       -
       -
-[Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:1990年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1990年のアダルトゲーム "wikilink")
+[Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:1990年のアダルトゲーム](https://ja.wikipedia.org/wiki/Category:1990年のアダルトゲーム "wikilink") [Category:犯罪を題材とした作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材とした作品 "wikilink")

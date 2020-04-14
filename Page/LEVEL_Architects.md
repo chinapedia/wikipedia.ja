@@ -9,13 +9,7 @@
 
   - 下北沢の住宅\[1\]　
   - 西武線の住宅\[2\]\[3\]
-
-<!-- end list -->
-
   - 鎌倉の住宅\[4\]\[5\]
-
-<!-- end list -->
-
   - food cafe Legame (埼玉県吉川市）\[6\]
   - alnico TOKYO (東京都渋谷区）
   - 燻製キッチン五反田店 (東京都品川区）
@@ -52,16 +46,13 @@
 
 海外メディア :archdaily, domus, world-architects eMagazine, archello, gestalten等
 
+## 脚注
+
 ## 外部リンク
 
   - [LEVEL Architects | 注文住宅・リノベーション・店舗の建築設計](https://level-architects.com/)
-
-<!-- end list -->
-
   - <https://twitter.com/levelarchitects>
   - <https://www.instagram.com/level_architects/>
-
-## 脚注
 
 [Category:21世紀日本の建築家](https://ja.wikipedia.org/wiki/Category:21世紀日本の建築家 "wikilink") [Category:建築設計事務所](https://ja.wikipedia.org/wiki/Category:建築設計事務所 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink") [Category:高輪](https://ja.wikipedia.org/wiki/Category:高輪 "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:横浜市南区の企業](https://ja.wikipedia.org/wiki/Category:横浜市南区の企業 "wikilink")
 

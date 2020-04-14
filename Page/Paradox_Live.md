@@ -154,6 +154,15 @@
         02\. Voice Drama Part “The Cat's Wiskers”
         03\. Voice Drama Part “ cozmez”
         04\. Voice Drama Part “ 悪漢奴等”
+  - Paradox Live Stage Battle “DESIRE” BAE×cozmez
+    2020年03月31日発売。
+      - 01\. AmBitious\!\!\!
+        作詞 - MICRO / 作曲 - 藤本和則 / 編曲 - Kazunori Fujimoto / 歌 - BAE
+
+      - 02\. Get it
+        作詞 - GASHIMA from WHITE JAM / 作曲・編曲 - [SHIGE & SHIMI from BUZZER BEATS](https://ja.wikipedia.org/wiki/SHIGE_&_SHIMI_from_BUZZER_BEATS "wikilink") / 歌 - cozmez
+
+      - 03\. Voice drama
 
 ## 脚注
 

@@ -1,7 +1,7 @@
 > この記事は[League of Legends Japan League](https://ja.wikipedia.org/wiki/League_of_Legends_Japan_League)から翻訳されています。
 
 
-**League of Legends Japan League**（リーグ・オブ・レジェンド ジャパン・リーグ、略称:**LJL**）は、日本国内で[ライアットゲームズ](https://ja.wikipedia.org/wiki/ライアットゲームズ "wikilink")が行っている「[League of Legends](https://ja.wikipedia.org/wiki/League_of_Legends "wikilink")」の地域的なプロ[eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")リーグである。
+**League of Legends Japan League**（リーグ・オブ・レジェンド ジャパン・リーグ、略称**LJL**（エルジェール））とは、日本国内で[ライアットゲームズ](https://ja.wikipedia.org/wiki/ライアットゲームズ "wikilink")が行っている「[League of Legends](https://ja.wikipedia.org/wiki/League_of_Legends "wikilink")」の地域的なプロ[eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")リーグである。
 
 ## チーム
 

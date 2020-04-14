@@ -1,4 +1,4 @@
-> この記事は[AMDA](https://ja.wikipedia.org/wiki/AMDA)から翻訳されています。
+> この記事は[AMDA社会開発機構](https://ja.wikipedia.org/wiki/AMDA社会開発機構)から翻訳されています。
 
 
 **AMDA社会開発機構**（アムダしゃかいかいはつきこう、略称：AMDA-MINDS、アムダマインズ）は、[岡山市](../Page/岡山市.md "wikilink")[北区に本部を置く国際協力](../Page/北区_\(岡山市\).md "wikilink")[NGO](https://ja.wikipedia.org/wiki/NGO "wikilink")。[AMDA](https://ja.wikipedia.org/wiki/AMDA "wikilink")グループを構成する。主に[開発途上国](../Page/開発途上国.md "wikilink")における地域の発展と、人々の生活向上に寄与するため、中長期にわたる社会開発事業を実施している。同分野における専門性を高め、事業内容を拡充するため、母体である認定特定非営利活動法人アムダ（[AMDA](https://ja.wikipedia.org/wiki/AMDA "wikilink")）の海外事業本部が2007年4月に別法人化する形で設立。岡山市認証の[認定特定非営利活動法人](https://ja.wikipedia.org/wiki/認定特定非営利活動法人 "wikilink")。

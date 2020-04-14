@@ -23,7 +23,7 @@
 
 ## 脚注
 
-[Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink")
+[Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:楽曲_ま](https://ja.wikipedia.org/wiki/Category:楽曲_ま "wikilink") [Category:広瀬大地の楽曲](https://ja.wikipedia.org/wiki/Category:広瀬大地の楽曲 "wikilink")
 
 1.
 2.  [1](https://note.com/daichi_hirose/n/n37ae13614b17)

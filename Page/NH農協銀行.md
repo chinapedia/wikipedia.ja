@@ -1,4 +1,4 @@
-> この記事は[NH](https://ja.wikipedia.org/wiki/NH)から翻訳されています。
+> この記事は[NH農協銀行](https://ja.wikipedia.org/wiki/NH農協銀行)から翻訳されています。
 
 
 **NH農協銀行**（えぬえいちのうぎょうぎんこう、、注：NHはNonghyup＝農協の略）または**NHバンク**（）は、本部が[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")[ソウル](https://ja.wikipedia.org/wiki/ソウル "wikilink")にある[韓国農協系の金融機関である](../Page/農業協同組合_\(韓国\).md "wikilink")。\[1\]

@@ -1,4 +1,4 @@
-> この記事は[DASH](https://ja.wikipedia.org/wiki/DASH)から翻訳されています。
+> この記事は[DASH柳津](https://ja.wikipedia.org/wiki/DASH柳津)から翻訳されています。
 
 
 **DASH柳津**（ダッシュやないづ）は、[広島県](../Page/広島県.md "wikilink")[福山市](../Page/福山市.md "wikilink")にある[兵庫県競馬組合](../Page/兵庫県競馬組合.md "wikilink")の[場外勝馬投票券発売所](../Page/場外勝馬投票券発売所.md "wikilink")である。

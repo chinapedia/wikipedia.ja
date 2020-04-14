@@ -1,4 +1,4 @@
-> この記事は[Z](https://ja.wikipedia.org/wiki/Z)から翻訳されています。
+> この記事は[学園都市Z](https://ja.wikipedia.org/wiki/学園都市Z)から翻訳されています。
 
 
 『**学園都市Z**』は1991年にストライカーから発売された[PC-9800シリーズ](../Page/PC-9800シリーズ.md "wikilink")・[X68000シリーズ](https://ja.wikipedia.org/wiki/X68000シリーズ "wikilink")用アダルトゲームであり、アドベンチャーゲームとRPGを組み合わせた内容となっている。

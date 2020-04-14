@@ -1,4 +1,4 @@
-> この記事は[AMGF1 W11 EQ Performance](https://ja.wikipedia.org/wiki/AMGF1_W11_EQ_Performance)から翻訳されています。
+> この記事は[メルセデスAMG・F1 W11 EQ Performance](https://ja.wikipedia.org/wiki/メルセデスAMG・F1_W11_EQ_Performance)から翻訳されています。
 
 
 **メルセデスAMG・F1 W11 EQ Performance** () は、[メルセデスが](https://ja.wikipedia.org/wiki/メルセデスAMG_F1 "wikilink")[2020年のF1世界選手権](https://ja.wikipedia.org/wiki/2020年のF1世界選手権 "wikilink")参戦用に開発した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")である。
@@ -72,7 +72,7 @@
   - バルブ数: 24
   - 最高回転数: 15,000[rpm](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink")(レギュレーションで規定)
   - 最大燃料流量: 100kg/h（10,500rpm以上）
-  - 燃料噴射方式: 高圧縮直噴（1つの噴射機/シリンダーあたり最大500[bar](../Page/バール.md "wikilink")）
+  - 燃料噴射方式: 高圧縮直噴（1つの噴射機/シリンダーあたり最大500[bar](../Page/バール_\(単位\).md "wikilink")）
   - [ターボチャージャー](../Page/ターボチャージャー.md "wikilink"): 同軸単段コンプレッサー、排気タービン
   - エキゾーストタービン最大回転数: 125,000rpm
 
@@ -126,7 +126,7 @@ F1 M11 EQ Performance<br />
 <td><p>44</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルイス・ハミルトン" title="wikilink">ハミルトン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ" title="wikilink">AUS</a><br />
-</p></td>
+C</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ベトナムグランプリ" title="wikilink">VIE</a><br />
@@ -156,7 +156,7 @@ F1 M11 EQ Performance<br />
 <td><p>77</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バルテリ・ボッタス" title="wikilink">ボッタス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ" title="wikilink">AUS</a><br />
-</p></td>
+C</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ベトナムグランプリ" title="wikilink">VIE</a><br />
@@ -207,7 +207,8 @@ F1 M11 EQ Performance<br />
   - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")
   - <sup>†</sup> 印はリタイアだが、90%以上の距離を走行したため規定により完走扱い。
   - <sup>\*</sup> : 今シーズンのポイント及び順位（現時点）。
-  - <sup>‡</sup> 中国GPは[新型コロナウイルスの](../Page/2019新型コロナウイルス.md "wikilink")[感染拡大により延期](../Page/2019年-2020年中国武漢における肺炎の流行.md "wikilink")\[10\]。
+  - オーストラリアGPは[新型コロナウイルスの](../Page/2019新型コロナウイルス.md "wikilink")[感染拡大により中止](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")\[10\]。
+  - <sup>‡</sup> 中国GPは新型コロナウイルスの感染拡大により延期\[11\]。
 
 ## 脚注
 
@@ -227,3 +228,4 @@ F1 M11 EQ Performance<br />
 8.
 9.
 10.
+11.

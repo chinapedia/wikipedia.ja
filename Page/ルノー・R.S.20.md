@@ -1,4 +1,4 @@
-> この記事は[R.S.20](https://ja.wikipedia.org/wiki/R.S.20)から翻訳されています。
+> この記事は[ルノー・R.S.20](https://ja.wikipedia.org/wiki/ルノー・R.S.20)から翻訳されています。
 
 
 **ルノー・R.S.20** () は、[ルノーが](../Page/ルノーF1.md "wikilink")[2020年のF1世界選手権](https://ja.wikipedia.org/wiki/2020年のF1世界選手権 "wikilink")参戦用に開発した[フォーミュラ1カー](https://ja.wikipedia.org/wiki/フォーミュラ1カー "wikilink")である。
@@ -7,7 +7,9 @@
 
 [2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")・[シャンゼリゼ通り](../Page/シャンゼリゼ通り.md "wikilink")に面した[グループ・ルノーのフラッグシップストア](../Page/ルノー.md "wikilink")「ラトリエ・ルノー」で体制発表会を行ったが、本車両についてはプレシーズンテスト用のカラーリングが施されたマシンの一部を画像で公開するにとどまった。チーム代表のは、新車発表の時のマシンと実際にテストで走行するマシンが大きく異なる場合があるため、実際に走らないマシンを発表することに意味はないと述べ、開発の遅れを否定した\[1\]。[同月17日にシェイクダウンを行い](../Page/2月17日.md "wikilink")、[19日から始まった](../Page/2月19日.md "wikilink")[カタロニア・サーキット](../Page/カタロニア・サーキット.md "wikilink")でのプレシーズンテストでも正式発表がないまま、ブラック塗装でカーナンバーのみイエローのR.S.20を走行させた\[2\]。
 
-[前年の](https://ja.wikipedia.org/wiki/2019年のF1世界選手権 "wikilink")[R.S.19から](https://ja.wikipedia.org/wiki/ルノー・R.S.19 "wikilink")[空力コンセプトが変更され](../Page/空気力学.md "wikilink")、フロントノーズは[メルセデスに近い細いものとなった](https://ja.wikipedia.org/wiki/メルセデスAMG_F1 "wikilink")\[3\]。
+開幕直前の[3月11日](../Page/3月11日.md "wikilink")、[DPワールド](https://ja.wikipedia.org/wiki/DPワールド "wikilink")とのタイトルスポンサー契約締結に合わせてR.S.20の正式なカラーリングが披露された\[3\]。
+
+[前年の](https://ja.wikipedia.org/wiki/2019年のF1世界選手権 "wikilink")[R.S.19から](https://ja.wikipedia.org/wiki/ルノー・R.S.19 "wikilink")[空力コンセプトが変更され](../Page/空気力学.md "wikilink")、フロントノーズは[メルセデスに近い細いものとなった](https://ja.wikipedia.org/wiki/メルセデスAMG_F1 "wikilink")\[4\]。
 
 ## 2020年シーズン
 
@@ -15,7 +17,7 @@
 
 ## スペック
 
-\[4\]
+\[5\]
 
 ### シャシー
 
@@ -64,7 +66,7 @@
 #### パワーユニット概要
 
   - 重量: 145kg（[FIA既定の最低重量](../Page/国際自動車連盟.md "wikilink")）
-  - コンポーネント: 3基 - [内燃機関](../Page/内燃機関.md "wikilink")（エンジン,ICE）/[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")(TC)/MGU-H/MGU-K\[5\]、2基 - エナジーストア(ES)/コントロールエレクトロニクス(CE)
+  - コンポーネント: 3基 - [内燃機関](../Page/内燃機関.md "wikilink")（エンジン,ICE）/[ターボチャージャー](../Page/ターボチャージャー.md "wikilink")(TC)/MGU-H/MGU-K\[6\]、2基 - エナジーストア(ES)/コントロールエレクトロニクス(CE)
   - パワー: 950[hp以上](../Page/馬力.md "wikilink")
 
 ## 記録
@@ -95,7 +97,7 @@
 <td><p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ダニエル・リチャルド" title="wikilink">リカルド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ" title="wikilink">AUS</a><br />
-</p></td>
+C</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ベトナムグランプリ" title="wikilink">VIE</a><br />
@@ -125,7 +127,7 @@
 <td><p>31</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エステバン・オコン" title="wikilink">オコン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年オーストラリアグランプリ" title="wikilink">AUS</a><br />
-</p></td>
+C</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年バーレーングランプリ" title="wikilink">BHR</a><br />
 </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2020年ベトナムグランプリ" title="wikilink">VIE</a><br />
@@ -176,7 +178,8 @@
   - **太字**は[ポールポジション](../Page/ポールポジション.md "wikilink")、*斜字*は[ファステストラップ](../Page/ファステストラップ.md "wikilink")
   - <sup>†</sup> 印はリタイアだが、90%以上の距離を走行したため規定により完走扱い。
   - <sup>\*</sup> : 今シーズンのポイント及び順位（現時点）。
-  - <sup>‡</sup> 中国GPは[新型コロナウイルスの](../Page/2019新型コロナウイルス.md "wikilink")[感染拡大により延期](../Page/2019年-2020年中国武漢における肺炎の流行.md "wikilink")\[6\]。
+  - オーストラリアGPは[新型コロナウイルスの](../Page/2019新型コロナウイルス.md "wikilink")[感染拡大により中止](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症の流行_\(2019年-\) "wikilink")\[7\]。
+  - <sup>‡</sup> 中国GPは新型コロナウイルスの感染拡大により延期\[8\]。
 
 ## 脚注
 
@@ -190,5 +193,7 @@
 2.
 3.
 4.
-5.  本年は22戦に増やされたのを受け、MGU-Kは3基に緩和されている。
-6.
+5.
+6.  本年は22戦に増やされたのを受け、MGU-Kは3基に緩和されている。
+7.
+8.

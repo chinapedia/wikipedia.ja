@@ -1,4 +1,4 @@
-> この記事は[ \(YouTuber\)](https://ja.wikipedia.org/wiki/_\(YouTuber\))から翻訳されています。
+> この記事は[鈴木勝 \(バーチャルYouTuber\)](https://ja.wikipedia.org/wiki/鈴木勝_\(バーチャルYouTuber\))から翻訳されています。
 
 
 **鈴木勝**（すずき まさる）は、[いちから](https://ja.wikipedia.org/wiki/いちから "wikilink")株式会社が運営する[にじさんじ](https://ja.wikipedia.org/wiki/にじさんじ "wikilink")に所属するバーチャルライバー（[バーチャルYouTuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")）。2つ名として「**漆黒の捕食者 Darkness Eater**」「**D.E.**」を名乗っている。

@@ -1,8 +1,8 @@
-> この記事は[Toshizo](https://ja.wikipedia.org/wiki/Toshizo)から翻訳されています。
+> この記事は[Toshizoプロデュース](https://ja.wikipedia.org/wiki/Toshizoプロデュース)から翻訳されています。
 
 
 [right](https://ja.wikipedia.org/wiki/ファイル:Toshizoプロデュース.jpg "wikilink")
-[thumb](https://ja.wikipedia.org/wiki/ファイル:靴の中の小石.jpg "wikilink") Toshizoプロデュース（としぞうぷろでゅうす）は、藤原稔三主宰の劇団。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:靴の中の小石.jpg "wikilink") **Toshizoプロデュース**（としぞうぷろでゅうす）は、[藤原稔三](https://ja.wikipedia.org/wiki/藤原稔三 "wikilink")主宰の劇団。
 オリジナルの舞台・映画を企画制作している。
 主な舞台作品に『アンティゴネの夏』『ガウディ』『空の裏側』『ゲストハウス蒴果』などがある。
 

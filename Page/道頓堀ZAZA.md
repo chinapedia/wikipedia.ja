@@ -1,4 +1,4 @@
-> この記事は[ZAZA](https://ja.wikipedia.org/wiki/ZAZA)から翻訳されています。
+> この記事は[道頓堀ZAZA](https://ja.wikipedia.org/wiki/道頓堀ZAZA)から翻訳されています。
 
 
 **道頓堀ZAZA**（どうとんぼり ざざ）は、[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")[中央区](../Page/中央区_\(大阪市\).md "wikilink")[道頓堀](../Page/道頓堀.md "wikilink")にある民営の[劇場](../Page/劇場.md "wikilink")。収容人数の違う3つの劇場（HOUSE、POCKET’S、Box）を併設している\[1\]。
@@ -29,7 +29,7 @@
 
 \[15\]
 
-  - [Osaka Metro](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink") [なんば駅](https://ja.wikipedia.org/wiki/難波駅_\(大阪市高速電気軌道\) "wikilink") から徒歩5分
+  - [Osaka Metro](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink") [なんば駅](https://ja.wikipedia.org/wiki/難波駅_\(Osaka_Metro\) "wikilink") から徒歩5分
   - [近鉄](../Page/近畿日本鉄道.md "wikilink")・[阪神](../Page/阪神電気鉄道.md "wikilink") [大阪難波駅](https://ja.wikipedia.org/wiki/大阪難波駅 "wikilink") から徒歩6分
   - [南海電鉄](../Page/南海電気鉄道.md "wikilink") [難波駅](https://ja.wikipedia.org/wiki/難波駅_\(南海\) "wikilink") から徒歩7分
   - [関西本線](../Page/関西本線.md "wikilink") [JR難波駅](https://ja.wikipedia.org/wiki/JR難波駅 "wikilink") から徒歩9分

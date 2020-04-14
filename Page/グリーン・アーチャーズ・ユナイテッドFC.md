@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[グリーン・アーチャーズ・ユナイテッドFC](https://ja.wikipedia.org/wiki/グリーン・アーチャーズ・ユナイテッドFC)から翻訳されています。
 
 
 **グリーン・アーチャーズ・ユナイテッドFC**（）は、[フィリピン](https://ja.wikipedia.org/wiki/フィリピン "wikilink")・[バタンガス州](../Page/バタンガス州.md "wikilink")を[ホームタウン](../Page/ホームタウン.md "wikilink")とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブ。

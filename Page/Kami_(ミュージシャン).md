@@ -1,4 +1,4 @@
-> この記事は[Kami \(\)](https://ja.wikipedia.org/wiki/Kami_\(\))から翻訳されています。
+> この記事は[Kami \(ミュージシャン\)](https://ja.wikipedia.org/wiki/Kami_\(ミュージシャン\))から翻訳されています。
 
 
 **Kami**（カミ）は、[MALICE MIZERの元](../Page/MALICE_MIZER.md "wikilink")[ドラマー](../Page/ドラマー.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink")に[急逝](https://ja.wikipedia.org/wiki/急逝 "wikilink")。

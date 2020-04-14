@@ -1,4 +1,4 @@
-> この記事は[MSS](https://ja.wikipedia.org/wiki/MSS)から翻訳されています。
+> この記事は[MSSらいむレーシング](https://ja.wikipedia.org/wiki/MSSらいむレーシング)から翻訳されています。
 
 
 **MSSらいむレーシング**（MSS Rhyme Racing）は、avexのバーチャルラップユニット『[言霊少女プロジェクト](../Page/言霊少女プロジェクト.md "wikilink")』の一員である『向田らいむ』とコラボレーションし、レースを戦うレーシングチームである。

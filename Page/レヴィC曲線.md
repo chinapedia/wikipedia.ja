@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[レヴィC曲線](https://ja.wikipedia.org/wiki/レヴィC曲線)から翻訳されています。
 
 
 **レヴィC曲線（英：Lévy C curve、レヴィ曲線、レヴィ・ドラゴンとも呼ばれる）**は、数学において最初に記述された[自己相似](../Page/自己相似.md "wikilink")[フラクタル](../Page/フラクタル.md "wikilink")である。その図形の[微分可能性について](https://ja.wikipedia.org/wiki/微分可能関数 "wikilink")1906年に[アーネスト・チェザロ](https://ja.wikipedia.org/wiki/アーネスト・チェザロ "wikilink")、1910年にによって分析されたが、現在では[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[数学者](../Page/数学者.md "wikilink") [ポール・レヴィの名前を冠している](https://ja.wikipedia.org/wiki/ポール・レヴィ_\(数学者\) "wikilink")、彼はその図形の自己相似性について初めて言及し、[コッホ曲線](../Page/コッホ曲線.md "wikilink")と同じ種類の代表的な曲線として幾何学的な構造を規定した。 これは、特殊な倍周期曲線、である。

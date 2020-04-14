@@ -1,4 +1,4 @@
-> この記事は[YOU \(\)](https://ja.wikipedia.org/wiki/YOU_\(\))から翻訳されています。
+> この記事は[YOU \(阿部真央のアルバム\)](https://ja.wikipedia.org/wiki/YOU_\(阿部真央のアルバム\))から翻訳されています。
 
 
 『**YOU**』（ユー）は、[阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")の8枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")から発売された。

@@ -42,3 +42,5 @@
 ・[「Yes or Yes」公式Music Video](https://www.youtube.com/watch?v=MSpyrgWNnZc)
 
 ・[「YES or NOstalgic\!\!\!」収録曲視聴動画(楽曲解説コメント付き)](https://www.youtube.com/watch?v=N6rimXb3IAI)
+
+[Category:Mia_REGINA](https://ja.wikipedia.org/wiki/Category:Mia_REGINA "wikilink") [Category:ミニ・アルバム](https://ja.wikipedia.org/wiki/Category:ミニ・アルバム "wikilink") [Category:2017年のアルバム](https://ja.wikipedia.org/wiki/Category:2017年のアルバム "wikilink")

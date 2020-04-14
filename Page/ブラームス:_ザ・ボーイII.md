@@ -1,4 +1,4 @@
-> この記事は[: II](https://ja.wikipedia.org/wiki/:_II)から翻訳されています。
+> この記事は[ブラームス: ザ・ボーイII](https://ja.wikipedia.org/wiki/ブラームス:_ザ・ボーイII)から翻訳されています。
 
 
 『**ブラームス: ザ・ボーイII**』（原題:*Brahms: The Boy II*）は[2020年](../Page/2020年.md "wikilink")に公開された[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[ホラー映画](../Page/ホラー映画.md "wikilink")である。監督は[ウィリアム・ブレント・ベル](https://ja.wikipedia.org/wiki/ウィリアム・ブレント・ベル "wikilink")、主演は[ケイティ・ホームズ](../Page/ケイティ・ホームズ.md "wikilink")が務めた。本作は[2016年](../Page/2016年.md "wikilink")に公開された映画『[ザ・ボーイ 〜人形少年の館〜](https://ja.wikipedia.org/wiki/ザ・ボーイ_-人形少年の館- "wikilink")』の続編である。

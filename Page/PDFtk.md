@@ -25,6 +25,6 @@ PDFtkは、PDFの分割、統合、暗号化、復号化、解凍、再圧縮、
 
   - [PDFTK Builder](http://www.angusj.com/pdftkb/#pdftkbuilder),- Windows向けGUI（GPL）
 
-<!-- end list -->
+[Category:PDFソフト](https://ja.wikipedia.org/wiki/Category:PDFソフト "wikilink") [Category:Javaプラットフォームソフトウェア](https://ja.wikipedia.org/wiki/Category:Javaプラットフォームソフトウェア "wikilink")
 
 1.

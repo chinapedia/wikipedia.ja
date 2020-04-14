@@ -1,4 +1,4 @@
-> この記事は[FC](https://ja.wikipedia.org/wiki/FC)から翻訳されています。
+> この記事は[房総ローヴァーズ木更津FC](https://ja.wikipedia.org/wiki/房総ローヴァーズ木更津FC)から翻訳されています。
 
 
 **房総ローヴァーズ木更津FC**（ぼうそうろーゔぁーずきさらづFC、）は、[千葉県](../Page/千葉県.md "wikilink")[木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")を本拠とし、内房地域および外房地域を含む[房総半島](https://ja.wikipedia.org/wiki/房総半島 "wikilink")全域をホームタウンとするサッカークラブ。2020年度時点で[千葉県社会人サッカーリーグ](../Page/千葉県社会人サッカーリーグ.md "wikilink")1部に属する。[Jリーグ加盟を目指すクラブ](../Page/Jリーグ加盟を目指すクラブ.md "wikilink")の1つである。

@@ -1,4 +1,4 @@
-> この記事は[T3R.PLF](https://ja.wikipedia.org/wiki/T3R.PLF)から翻訳されています。
+> この記事は[タトラT3R.PLF](https://ja.wikipedia.org/wiki/タトラT3R.PLF)から翻訳されています。
 
 
 **タトラT3R.PLF**は、[チェコ](../Page/チェコ.md "wikilink")各地の[路面電車](../Page/路面電車.md "wikilink")で使用されている[電車](../Page/電車.md "wikilink")の1形式。[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")時代に製造された路面電車車両・**[タトラT3](../Page/タトラT3.md "wikilink")**の主要機器を流用して製造された[部分超低床電車である](../Page/超低床電車.md "wikilink")。この項目では、電気機器が異なる**タトラT3R.SLF**や、[ウクライナ](../Page/ウクライナ.md "wikilink")、[ロシア連邦](https://ja.wikipedia.org/wiki/ロシア連邦 "wikilink")でライセンス契約を受けて生産されている同型車両の**タトラT3UA-3**や**71-412**も併せて解説する。
@@ -42,7 +42,7 @@
 
 [Tram_Vario_LF_Ostrava.jpg](https://ja.wikipedia.org/wiki/File:Tram_Vario_LF_Ostrava.jpg "fig:Tram_Vario_LF_Ostrava.jpg")
 
-  - \- アライアンスTWが展開する「ヴァリオLF」（VarioLF）のうち、タトラT3の機器を流用した形式。車体はT3R.PLFやT3R.SLFと同様に部分超低床構造の「VarCB3LF」を用いるが前面形状や電気機器が異なっている。[2020年](../Page/2020年.md "wikilink")現在、アライアンスTWではT3R.PLFやT3R.SLFについてもヴァリオLFの車種の1つとしている。
+  - **[ヴァリオLF](https://ja.wikipedia.org/wiki/ヴァリオLF "wikilink")R** - アライアンスTWが展開する「ヴァリオLF」（VarioLF）のうち、タトラT3の機器を流用した形式。車体はT3R.PLFやT3R.SLFと同様に部分超低床構造の「VarCB3LF」を用いるが前面形状や電気機器が異なっている。[2020年](../Page/2020年.md "wikilink")現在、アライアンスTWではT3R.PLFやT3R.SLFについてもヴァリオLFの車種の1つとしている。
 
 ### 他国の類似例
 

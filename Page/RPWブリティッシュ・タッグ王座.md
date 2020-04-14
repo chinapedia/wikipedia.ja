@@ -1,4 +1,4 @@
-> この記事は[RPW](https://ja.wikipedia.org/wiki/RPW)から翻訳されています。
+> この記事は[RPWブリティッシュ・タッグ王座](https://ja.wikipedia.org/wiki/RPWブリティッシュ・タッグ王座)から翻訳されています。
 
 
 **RPWブリティッシュ・タッグ王座**は、[RPWが管理](https://ja.wikipedia.org/wiki/レボリューション・プロレスリング "wikilink")、認定している王座。

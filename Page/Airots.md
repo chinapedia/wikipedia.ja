@@ -9,11 +9,9 @@
 
 ## メンバー
 
-ういにゃす
-
-鈴湯
-
-中恵光城（リーダー）
+  - ういにゃす
+  - 鈴湯
+  - 中恵光城（リーダー）
 
 ## 作品
 
@@ -147,7 +145,7 @@
   -
   -
   -
-[Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
+[Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2019年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2019年に結成した音楽グループ "wikilink") [Category:日本の音楽グループ](https://ja.wikipedia.org/wiki/Category:日本の音楽グループ "wikilink")
 
 1.
 2.

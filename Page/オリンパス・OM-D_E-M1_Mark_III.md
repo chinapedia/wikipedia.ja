@@ -1,4 +1,4 @@
-> この記事は[OM-D E-M1 Mark III](https://ja.wikipedia.org/wiki/OM-D_E-M1_Mark_III)から翻訳されています。
+> この記事は[オリンパス・OM-D E-M1 Mark III](https://ja.wikipedia.org/wiki/オリンパス・OM-D_E-M1_Mark_III)から翻訳されています。
 
 
 **オリンパス・OM-D E-M1 Mark II**は、2020年2月28日に発売される、[マイクロフォーサーズシステム](../Page/マイクロフォーサーズシステム.md "wikilink")のデジタル[ミラーレス一眼カメラ](https://ja.wikipedia.org/wiki/ミラーレス一眼カメラ "wikilink")である\[1\]。
@@ -27,11 +27,9 @@
 
 ## 外部リンク
 
-[公式ウェブサイト](https://www.olympus-imaging.jp/product/dslr/em1mk3/index.html)
+[公式ウェブサイト](https://www.olympus-imaging.jp/product/dslr/em1mk3/)
 
-
-
-[Category:カメラ](https://ja.wikipedia.org/wiki/Category:カメラ "wikilink") [Category:ミラーレス一眼カメラ](https://ja.wikipedia.org/wiki/Category:ミラーレス一眼カメラ "wikilink") [Category:オリンパスのカメラ](https://ja.wikipedia.org/wiki/Category:オリンパスのカメラ "wikilink") [Category:フォーサーズシステム](https://ja.wikipedia.org/wiki/Category:フォーサーズシステム "wikilink")
+[Category:ミラーレス一眼カメラ](https://ja.wikipedia.org/wiki/Category:ミラーレス一眼カメラ "wikilink") [Category:フォーサーズシステム](https://ja.wikipedia.org/wiki/Category:フォーサーズシステム "wikilink") [Category:オリンパスのカメラ](https://ja.wikipedia.org/wiki/Category:オリンパスのカメラ "wikilink")
 
 1.
 2.   OM-D {{\!}} E-M1 Mark II|accessdate=2019-06-22|publisher=オリンパス株式会社}}

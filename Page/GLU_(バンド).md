@@ -1,4 +1,4 @@
-> この記事は[GLU \(\)](https://ja.wikipedia.org/wiki/GLU_\(\))から翻訳されています。
+> この記事は[GLU \(バンド\)](https://ja.wikipedia.org/wiki/GLU_\(バンド\))から翻訳されています。
 
 
 **GLU**は、3人組バンド。

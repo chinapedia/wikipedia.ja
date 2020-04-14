@@ -1,4 +1,4 @@
-> この記事は[ FROM THE DEEP](https://ja.wikipedia.org/wiki/_FROM_THE_DEEP)から翻訳されています。
+> この記事は[グリード FROM THE DEEP](https://ja.wikipedia.org/wiki/グリード_FROM_THE_DEEP)から翻訳されています。
 
 
 『**グリード FROM THE DEEP**』（原題: *食人虫*、英題: *Bugs*）は[2014年](../Page/2014年.md "wikilink")の[中国映画](../Page/中国映画.md "wikilink")。

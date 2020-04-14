@@ -1,4 +1,4 @@
-> この記事は[HELLO WORLD \(ACE COLLECTION\)](https://ja.wikipedia.org/wiki/HELLO_WORLD_\(ACE_COLLECTION\))から翻訳されています。
+> この記事は[HELLO WORLD \(ACE COLLECTIONのアルバム\)](https://ja.wikipedia.org/wiki/HELLO_WORLD_\(ACE_COLLECTIONのアルバム\))から翻訳されています。
 
 
 『**HELLO WORLD**』（ハロー・ワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[ACE COLLECTIONが](https://ja.wikipedia.org/wiki/ACE_COLLECTION "wikilink")[2019年](../Page/2019年.md "wikilink")[10月30日](../Page/10月30日.md "wikilink")に[Third Party Distribution Dealから発売した](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#EMI_Records "wikilink")1枚目（通算2作目）の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。
@@ -24,7 +24,7 @@
 
         </div>
 
-        今作の表題曲。
+        Instrumental。今作の表題曲。
 2.  **シンデレラ**
       -
 
@@ -199,6 +199,8 @@
 
         </div>
 
+        [ACE COLLECTIONを象徴する曲](https://ja.wikipedia.org/wiki/ACE_COLLECTION "wikilink")。タイトルはACE COLLECTION結成日の[12月9日](../Page/12月9日.md "wikilink")から取られた。
+
 ## 参加ミュージシャン
 
   - ACE COLLECTION
@@ -236,6 +238,6 @@
       - [初回限定盤](https://www.universal-music.co.jp/acecollection/products/pocs-21040/)
       - [通常盤](https://www.universal-music.co.jp/acecollection/products/pocs-21039/)
 
-[Category:2019年のアルバム](https://ja.wikipedia.org/wiki/Category:2019年のアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink")
+[Category:2019年のアルバム](https://ja.wikipedia.org/wiki/Category:2019年のアルバム "wikilink") [Category:ユニバーサルミュージックジャパンのアルバム](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアルバム "wikilink") [Category:ACE_COLLECTIONのアルバム](https://ja.wikipedia.org/wiki/Category:ACE_COLLECTIONのアルバム "wikilink")
 
 1.

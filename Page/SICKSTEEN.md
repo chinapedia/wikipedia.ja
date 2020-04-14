@@ -21,8 +21,6 @@
 
   - [公式サイトによる紹介ページ](https://sanaridayo.com/music/81)
 
- __インデックス__
-
 [Category:さなり](https://ja.wikipedia.org/wiki/Category:さなり "wikilink") [Category:2019年のアルバム](https://ja.wikipedia.org/wiki/Category:2019年のアルバム "wikilink") [Category:A-Sketchのアルバム](https://ja.wikipedia.org/wiki/Category:A-Sketchのアルバム "wikilink")
 
 1.

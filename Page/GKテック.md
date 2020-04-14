@@ -1,4 +1,4 @@
-> この記事は[GK](https://ja.wikipedia.org/wiki/GK)から翻訳されています。
+> この記事は[GKテック](https://ja.wikipedia.org/wiki/GKテック)から翻訳されています。
 
 
 **GKテック**(ジイケイ テック)は、[GKデザイングループ](https://ja.wikipedia.org/wiki/GKデザイングループ "wikilink")のグループ会社のひとつ。グループの中でも[デジタル](../Page/デジタル.md "wikilink")分野においての[UI](https://ja.wikipedia.org/wiki/UI "wikilink")・[UX](https://ja.wikipedia.org/wiki/UX "wikilink")等の[研究](../Page/研究.md "wikilink")・[企画](https://ja.wikipedia.org/wiki/企画 "wikilink")・[開発](../Page/開発.md "wikilink")の[デザイン](../Page/デザイン.md "wikilink")を行う。

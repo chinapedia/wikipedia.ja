@@ -1,4 +1,4 @@
-> この記事は[Thunder \(\)](https://ja.wikipedia.org/wiki/Thunder_\(\))から翻訳されています。
+> この記事は[Thunder \(歌手\)](https://ja.wikipedia.org/wiki/Thunder_\(歌手\))から翻訳されています。
 
 
 **Thunder**（本名：パク・サンヒョン、1990年10月7日 - ）は、大韓民国の歌手であり俳優である。

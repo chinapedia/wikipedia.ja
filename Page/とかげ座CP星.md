@@ -1,4 +1,4 @@
-> この記事は[CP](https://ja.wikipedia.org/wiki/CP)から翻訳されています。
+> この記事は[とかげ座CP星](https://ja.wikipedia.org/wiki/とかげ座CP星)から翻訳されています。
 
 
 **とかげ座CP星**（とかげざCPせい、CP Lacertae, CP Lac, Nova Lacertae 1936）は、1936年6月18日に[とかげ座](../Page/とかげ座.md "wikilink")で発見された[新星](https://ja.wikipedia.org/wiki/新星 "wikilink")。[長野県](../Page/長野県.md "wikilink")[上諏訪町](https://ja.wikipedia.org/wiki/上諏訪町 "wikilink")（現在の[諏訪市](../Page/諏訪市.md "wikilink")）のアマチュア天文家[五味一明](https://ja.wikipedia.org/wiki/五味一明 "wikilink")を始め、アメリカの[レスリー・ペルチャー](../Page/レスリー・ペルチャー.md "wikilink")など十数名の観測者によって独立して発見された。中でも五味一明の発見が最も早かったことから、日本では「**五味新星**」と呼ばれた。

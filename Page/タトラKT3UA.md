@@ -1,4 +1,4 @@
-> この記事は[KT3UA](https://ja.wikipedia.org/wiki/KT3UA)から翻訳されています。
+> この記事は[タトラKT3UA](https://ja.wikipedia.org/wiki/タトラKT3UA)から翻訳されています。
 
 
 **タトラKT3UA**は、[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）で製造された**[タトラT3](../Page/タトラT3.md "wikilink")**を改造する形で製造された[3車体連接式の](../Page/連接台車.md "wikilink")[路面電車](../Page/路面電車.md "wikilink")[車両](../Page/電車.md "wikilink")。[ウクライナ](../Page/ウクライナ.md "wikilink")各都市の路面電車に導入され、「[コブラ](https://ja.wikipedia.org/wiki/コブラ "wikilink")」（Кобра）とも呼ばれる。

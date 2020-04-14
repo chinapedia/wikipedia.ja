@@ -1,4 +1,4 @@
-> この記事は[II](https://ja.wikipedia.org/wiki/II)から翻訳されています。
+> この記事は[フランプトン・カムズ・アライヴII](https://ja.wikipedia.org/wiki/フランプトン・カムズ・アライヴII)から翻訳されています。
 
 
 『**フランプトン・カムズ・アライヴII**』（Frampton Comes Alive II）は、[イングランド](../Page/イングランド.md "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")・ミュージシャン、[ピーター・フランプトン](../Page/ピーター・フランプトン.md "wikilink")が[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に発表した[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。

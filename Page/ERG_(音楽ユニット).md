@@ -1,4 +1,4 @@
-> この記事は[ERG \(\)](https://ja.wikipedia.org/wiki/ERG_\(\))から翻訳されています。
+> この記事は[ERG \(音楽ユニット\)](https://ja.wikipedia.org/wiki/ERG_\(音楽ユニット\))から翻訳されています。
 
 
 **ERG** (エルグ) は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性ダンス＆ヴォーカルグループ。[EnterVision](https://ja.wikipedia.org/wiki/EnterVision "wikilink")所属。レーベルは[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink") 。

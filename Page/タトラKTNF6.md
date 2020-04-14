@@ -1,4 +1,4 @@
-> この記事は[KTNF6](https://ja.wikipedia.org/wiki/KTNF6)から翻訳されています。
+> この記事は[タトラKTNF6](https://ja.wikipedia.org/wiki/タトラKTNF6)から翻訳されています。
 
 
 **タトラKTNF6**は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")各地の[路面電車](../Page/路面電車.md "wikilink")で使用されている[電車](../Page/電車.md "wikilink")の1形式。[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（現：[チェコ](../Page/チェコ.md "wikilink")）の[タトラ国営会社スミーホフ工場（→ČKDタトラ）によって製造された](../Page/タトラ_\(自動車\).md "wikilink")[2車体連接車の](../Page/連接台車.md "wikilink")**[タトラKT4](../Page/タトラKT4.md "wikilink")**に新造した中間車体を挿入した[部分超低床電車である](../Page/超低床電車.md "wikilink")。この項目では、[エストニア](../Page/エストニア.md "wikilink")向けの**KT6T**および同様の改造が行われた部分超低床電車の**KTNF8**についても解説する。

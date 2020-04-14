@@ -1,4 +1,4 @@
-> この記事は[R](https://ja.wikipedia.org/wiki/R)から翻訳されています。
+> この記事は[ノーマン・R・オーガスティン](https://ja.wikipedia.org/wiki/ノーマン・R・オーガスティン)から翻訳されています。
 
 
 **ノーマン（ノーム）・R・オーガスティン**（1935年7月27日 - ）は、アメリカの航空宇宙実業家である。1975年から1977年にかけては、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")次官を務めた。また、[ロッキード・マーティン](../Page/ロッキード・マーティン.md "wikilink")社の会長兼CEOを務めた。さらに、[アメリカ有人宇宙飛行計画再評価委員会](https://ja.wikipedia.org/wiki/アメリカ有人宇宙飛行計画再評価委員会 "wikilink")の議長にも選出された。
@@ -25,11 +25,11 @@
 
 オーガスティンは、アメリカ合衆国大統領から[アメリカ国家技術賞](../Page/アメリカ国家技術賞.md "wikilink")、統合参謀長から殊勲公共奉仕章（[Distinguished Public Service Award](https://ja.wikipedia.org/wiki/:en:Awards_and_decorations_of_the_United_States_government#Joint_Chiefs_of_Staff "wikilink")）を授与されている。また、軍人以外の者に対する国防総省の最高の勲章である殊勲文官奉仕章（[Distinguished Civilian Service Award](https://ja.wikipedia.org/wiki/:en:Department_of_Defense_Distinguished_Civilian_Service_Award "wikilink")）を5回受章している。
 
-国防改革（The Defense Revolution）およびシェイクスピア・イン・チャージ（Shakespeare In Charge）の共著者であり、オーガスティンの法則（[Augustine's Laws](https://ja.wikipedia.org/wiki/:en:Augustine's_laws "wikilink")）およびオーガスティンの旅行（Augustine’s Travels）の著者である。34の名誉学位を取得し、フーズ・フー・イン・アメリカ（Who’s Who in America）および[アメリカ議会図書館](../Page/アメリカ議会図書館.md "wikilink")により、フーズ・フーの50周年を記念した「50人の偉大なアメリカ人（Fifty Great Americans）」の一人に選ばれた。130ヵ国以上の国々を旅行し、北極と南極の両方に行ったことがある。
+国防改革（The Defense Revolution）およびシェイクスピア・イン・チャージ（Shakespeare In Charge）の共著者であり、[オーガスティンの法則 Laws）およびオーガスティンの旅行](https://ja.wikipedia.org/wiki/オーガスティンの法則 "wikilink")（Augustine's（Augustine’s Travels）の著者である。34の名誉学位を取得し、フーズ・フー・イン・アメリカ（Who’s Who in America）および[アメリカ議会図書館](../Page/アメリカ議会図書館.md "wikilink")により、フーズ・フーの50周年を記念した「50人の偉大なアメリカ人（Fifty Great Americans）」の一人に選ばれた。130ヵ国以上の国々を旅行し、北極と南極の両方に行ったことがある。
 
 ## 表彰
 
-[リンク=<https://en.wikipedia.org/wiki/File:Augustine's_law.svg>](https://ja.wikipedia.org/wiki/File:Augustine's_law.svg "fig:リンク=https://en.wikipedia.org/wiki/File:Augustine's_law.svg")）第16「2054年には、全ての国防予算で1機の戦闘機しか調達できなくなる。」のプロット図\[9\]\]\]
+[リンク=<https://en.wikipedia.org/wiki/File:Augustine's_law.svg>](https://ja.wikipedia.org/wiki/File:Augustine's_law.svg "fig:リンク=https://en.wikipedia.org/wiki/File:Augustine's_law.svg")第16「西暦2054年には、国防予算の全額をはたいても、たった1機の飛行機しか買えない。」のプロット図\[9\]\]\]
 
   - Eagle Scout, 1952
   - National Space Club Goddard Award, 1991

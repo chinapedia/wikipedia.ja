@@ -1,4 +1,4 @@
-> この記事は[RPW](https://ja.wikipedia.org/wiki/RPW)から翻訳されています。
+> この記事は[RPWブリティッシュ・ヘビー級王座](https://ja.wikipedia.org/wiki/RPWブリティッシュ・ヘビー級王座)から翻訳されています。
 
 
 **RPWブリティッシュ・ヘビー級王座**は、[RPWが管理](https://ja.wikipedia.org/wiki/レボリューション・プロレスリング "wikilink")、認定している王座。
@@ -28,7 +28,7 @@
 <tbody>
 <tr class="odd">
 <td><p>初代</p></td>
-<td><p>Aviv Maayan</p></td>
+<td><p>アヴィヴ・マーヤン</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>2005年7月16日</p></td>
@@ -52,7 +52,7 @@
 </tr>
 <tr class="even">
 <td><p>第4代</p></td>
-<td><p>JC Thunder</p></td>
+<td><p>JC・サンダー</p></td>
 <td><p>1</p></td>
 <td><p>125</p></td>
 <td><p>2007年5月20日</p></td>
@@ -76,7 +76,7 @@
 </tr>
 <tr class="odd">
 <td><p>第7代</p></td>
-<td><p>Iestyn Rees</p></td>
+<td><p>アイスティン・リース</p></td>
 <td><p>1</p></td>
 <td><p>209</p></td>
 <td><p>2008年9月21日</p></td>
@@ -92,7 +92,7 @@
 </tr>
 <tr class="odd">
 <td><p>第9代</p></td>
-<td><p>Leroy Kincaide</p></td>
+<td><p>リロイ・キンケイド</p></td>
 <td><p>1</p></td>
 <td><p>161</p></td>
 <td><p>2009年9月13日</p></td>
@@ -108,7 +108,7 @@
 </tr>
 <tr class="odd">
 <td><p>第11代</p></td>
-<td><p>Sha Samuels</p></td>
+<td><p>シャ・サミュエルズ</p></td>
 <td><p>1</p></td>
 <td><p>686</p></td>
 <td><p>2011年5月15日</p></td>

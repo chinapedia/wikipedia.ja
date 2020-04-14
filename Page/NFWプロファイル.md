@@ -1,4 +1,4 @@
-> この記事は[NFW](https://ja.wikipedia.org/wiki/NFW)から翻訳されています。
+> この記事は[NFWプロファイル](https://ja.wikipedia.org/wiki/NFWプロファイル)から翻訳されています。
 
 
 **NFWプロファイル** () は[ダークマターハロー](https://ja.wikipedia.org/wiki/ダークマターハロー "wikilink")の密度プロファイルのモデル。[N体シミュレーション](https://ja.wikipedia.org/wiki/N体シミュレーション "wikilink")で得られるハローは普遍的にNFWプロファイルを持つ。このプロファイルを最初に提案した [Julio Navarro](https://ja.wikipedia.org/wiki/:en:Julio_Navarro_\(astrophysicist\) "wikilink")、[Carlos Frenk](https://ja.wikipedia.org/wiki/:en:Carlos_Frenk "wikilink")、[サイモン・ホワイト](../Page/サイモン・ホワイト.md "wikilink")にちなんで命名された\[1\]\[2\]\[3\]。

@@ -1,4 +1,4 @@
-> この記事は[ \(ASKA\)](https://ja.wikipedia.org/wiki/_\(ASKA\))から翻訳されています。
+> この記事は[星は何でも知っている \(ASKAの曲\)](https://ja.wikipedia.org/wiki/星は何でも知っている_\(ASKAの曲\))から翻訳されています。
 
 
 「**星は何でも知っている**」（ほしはなんでもしっている）は、[ASKA](https://ja.wikipedia.org/wiki/ASKA "wikilink")の配信限定[シングル](../Page/シングル.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に配信された。配信元は[DADAレーベル](https://ja.wikipedia.org/wiki/DADAレーベル "wikilink")。
@@ -10,11 +10,15 @@ ASKAが2018年3月から8月まで実施した毎月1回の楽曲配信シリー
 ## 収録曲
 
 1.  **星は何でも知っている** (3:17)
-    （作詞・作曲：ASKA）
+    （作詞・作曲・編曲：ASKA）
       -
         サビの繰り返しがない。このことについてASKAは自身のブログで「僕の作ってきた楽曲では初めての試みです。でも、それはただの「試み」ではなく、そうすることが、この楽曲には必要だったのです」と語っている\[2\]。
 
 ## 参加ミュージシャン
+
+  - Piano：澤近泰輔
+  - Guitar：鈴川真樹
+  - Programming：鈴川真樹、藤山祥太
 
 ## 収録アルバム
 

@@ -33,7 +33,7 @@
 </tr>
 <tr class="odd">
 <td><p>清水凛</p></td>
-<td><p>りんちゃん</p></td>
+<td><p>りんてゃ</p></td>
 <td></td>
 <td><p>2018年5月23日TOKYO PiXiONに加入。</p></td>
 </tr>
@@ -45,7 +45,7 @@
 </tr>
 <tr class="odd">
 <td><p>早見玲花</p></td>
-<td><p>れーちゃん</p></td>
+<td><p>はやみぃ</p></td>
 <td></td>
 <td><p>元<a href="https://ja.wikipedia.org/wiki/PPP!_PiXiON" title="wikilink">PPP! PiXiON</a></p></td>
 </tr>

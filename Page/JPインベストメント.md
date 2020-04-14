@@ -1,4 +1,4 @@
-> この記事は[JP](https://ja.wikipedia.org/wiki/JP)から翻訳されています。
+> この記事は[JPインベストメント](https://ja.wikipedia.org/wiki/JPインベストメント)から翻訳されています。
 
 
 **JPインベストメント株式会社**（JPインベストメント、）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")に本社を置く[プライベート・エクイティ・ファンド](https://ja.wikipedia.org/wiki/プライベート・エクイティ・ファンド "wikilink")運用会社。[日本郵政](../Page/日本郵政.md "wikilink")グループに属する企業で、株式会社[ゆうちょ銀行](../Page/ゆうちょ銀行.md "wikilink")の[連結子会社](../Page/連結子会社.md "wikilink")である。

@@ -15,6 +15,7 @@
 \*HELLO WORLD
 
   - December 9
+      - [ACE COLLECTIONを象徴する曲](https://ja.wikipedia.org/wiki/ACE_COLLECTION "wikilink")。本アルバムの表題曲、リード曲である。
   - 鬱憤
   - Lady
   - 君と花したい

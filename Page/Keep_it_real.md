@@ -1,7 +1,7 @@
 > この記事は[Keep it real](https://ja.wikipedia.org/wiki/Keep_it_real)から翻訳されています。
 
 
-『**Keep it real**』（キープ・イット・リアル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[ONE OK ROCKが](../Page/ONE_OK_ROCK.md "wikilink")[2006年](../Page/2006年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")に[zumania](https://ja.wikipedia.org/wiki/zumania "wikilink")から発売したインディーズ2枚目の[ミニアルバム](../Page/コンパクト盤.md "wikilink")。
+『**Keep it real**』（キープ・イット・リアル）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")・[ONE OK ROCKが](../Page/ONE_OK_ROCK.md "wikilink")[2006年](../Page/2006年.md "wikilink")[12月16日](../Page/12月16日.md "wikilink")にzumaniaから発売したインディーズ2枚目の[ミニアルバム](../Page/コンパクト盤.md "wikilink")。
 
 ## 内容
 

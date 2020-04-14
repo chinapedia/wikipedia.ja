@@ -1,4 +1,4 @@
-> この記事は[LBI \(\)](https://ja.wikipedia.org/wiki/LBI_\(\))から翻訳されています。
+> この記事は[LBI \(企業\)](https://ja.wikipedia.org/wiki/LBI_\(企業\))から翻訳されています。
 
 
 **株式会社LBI**（英：LBI Co.,Ltd.）は、[フィンテック](https://ja.wikipedia.org/wiki/フィンテック "wikilink")サービスを中心とした[システム開発](https://ja.wikipedia.org/wiki/システム開発 "wikilink")・研究を行う日本の[金融商品取引業者](https://ja.wikipedia.org/wiki/金融商品取引業者 "wikilink")。

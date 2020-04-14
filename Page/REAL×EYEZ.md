@@ -1,4 +1,4 @@
-> この記事は[REALEYEZ](https://ja.wikipedia.org/wiki/REALEYEZ)から翻訳されています。
+> この記事は[REAL×EYEZ](https://ja.wikipedia.org/wiki/REAL×EYEZ)から翻訳されています。
 
 
 ORICON NEWS|accessdate=2020-02-14|publisher=[オリコン](../Page/オリコン.md "wikilink")}}</ref> | Last single = | This single = | Next single = | Misc =   }} 「**REAL×EYEZ**」（リアライズ\[1\]）は、[J](../Page/J_\(ミュージシャン\).md "wikilink")×[Takanori Nishikawaの楽曲](../Page/西川貴教.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[1月4日](../Page/1月4日.md "wikilink")に表題曲のみ単独で先行配信され\[2\]、同年[1月22日](../Page/1月22日.md "wikilink")にシングルとして[avex traxから発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。

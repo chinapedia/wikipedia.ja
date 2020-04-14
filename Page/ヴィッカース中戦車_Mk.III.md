@@ -1,4 +1,4 @@
-> この記事は[ Mk.III](https://ja.wikipedia.org/wiki/_Mk.III)から翻訳されています。
+> この記事は[ヴィッカース中戦車 Mk.III](https://ja.wikipedia.org/wiki/ヴィッカース中戦車_Mk.III)から翻訳されています。
 
 
 **ヴィッカース中戦車 Mk.III**（ヴィッカースちゅうせんしゃまーくすりー、*Medium Mark III*）は[戦間期](../Page/戦間期.md "wikilink")に[ヴィッカースによって開発されていた](https://ja.wikipedia.org/wiki/ヴィッカース・アームストロング "wikilink")[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[中戦車](../Page/中戦車.md "wikilink")である。3輌しか生産されず、開発は失敗した。なお、[ヴィッカース中戦車 Mk.IIから直接派生したものではない](../Page/ヴィッカース中戦車_Mk.II.md "wikilink")。

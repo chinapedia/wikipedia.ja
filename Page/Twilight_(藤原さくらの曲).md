@@ -1,4 +1,4 @@
-> この記事は[Twilight \(\)](https://ja.wikipedia.org/wiki/Twilight_\(\))から翻訳されています。
+> この記事は[Twilight \(藤原さくらの曲\)](https://ja.wikipedia.org/wiki/Twilight_\(藤原さくらの曲\))から翻訳されています。
 
 
 「**Twilight**」（トワイライト）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[藤原さくらの](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")[配信限定](../Page/音楽配信.md "wikilink")[シングル](../Page/シングル.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[SPEEDSTAR RECORDSからリリースされた](../Page/SPEEDSTAR_RECORDS.md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[IRI](https://ja.wikipedia.org/wiki/IRI)から翻訳されています。
+> この記事は[IRIメダル](https://ja.wikipedia.org/wiki/IRIメダル)から翻訳されています。
 
 
 **IRIメダル**（IRI Medal）は[アメリカ国立科学財団](../Page/アメリカ国立科学財団.md "wikilink")によって設立された産業研究所（[Industrial Research Institute](https://ja.wikipedia.org/wiki/:en:Industrial_Research_Institute "wikilink")）が、1946年以来、技術革新とその産業的実施に対して授与する賞。

@@ -1,7 +1,7 @@
 > この記事は[The Songbards](https://ja.wikipedia.org/wiki/The_Songbards)から翻訳されています。
 
 
-**The Songbards**（ザ・ソングバーズ）は日本のバンド。
+**The Songbards**（ザ・ソングバーズ）は、日本のバンド。
 
 ## 概要
 

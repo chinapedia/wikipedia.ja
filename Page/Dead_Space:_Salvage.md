@@ -33,31 +33,31 @@
 
 ### カササギ（Magpies）
 
-  - *「ハンターズムーン」（Hunter's Moon）の*乗組員
-      - **ジェシカ・リー船長（Capt. Jessica Li） -** 事実上のリーダーであり、やっかいな乗組員達を指揮する「ピープルパーソン（社交的な人間）」。 数百万クレジットが関係していると噂された横領スキャンダルが発覚した後、リーは海兵隊を辞めた。
-      - **ステファン・シュナイダー（Stefan Schneider）-** リー船長だけが御しきれる副司令官。シュナイダーは、彼の合法的な炭鉱ビジネスが「コンコーダンス・エクストラクション社」（Concordance Extraction Corporation、CEC）の干渉と地球政府の降伏文書によって破綻した後、すべての権限に対する深い不信を抱くようになった。
-      - **ウェンボ（Wenbo）-** エンジニア
-      - **トールスセン（Thorssen） -** パイロット
-  - *「ブラックビーク」（Black Beak）の乗組員*
-      - **ベネディクト・マリエック船長（Capt. Benedykt Malyech）**、元CECの監督者であり、実践的なユニトロジスト。マリエックは企業秘密をメディアに暴露した後、契約違反でCECを解雇された。
-      - **ジュリア・コープランド（Julia Copland） -** 副司令官で生涯に渡る犯罪者の詐欺師。彼女は法律から身を隠す方法としてフリーランスの炭鉱を始め、その文化が彼女のふるまいに合っていると理解した。
-      - **ヴェンシフ（Venschiff） -** パイロット
-      - **ゴッテディル（Gottheddir） -** エンジニア
-  - *「サンセット」（Sunset）の乗組員*
-      - **ガトゥラ・オケケ船長（Capt. Gatura Okeke）**、船内住み込みの機械マニアおよび中級ユニトロジスト。過去に商用パイロットをしていたが不服従で解雇されている。
-  - *「リベルテ」（Liberté）の*乗組員
-      - **ベルヴィン船長（Capt. Bellevin） -** フリーランスの炭鉱のリスクと報酬の割合を誰よりもよく知っている生涯のカササギ\[3\]。
+  - 「ハンターズムーン」（Hunter's Moon）の乗員
+      - **ジェシカ・リー船長**（**Capt. Jessica Li**） - 事実上のリーダーであり、やっかいな乗組員達を指揮する「ピープルパーソン（社交的な人間）」。 数百万クレジットが関係していると噂された横領スキャンダルが発覚した後、リーは海兵隊を辞めた。
+      - **ステファン・シュナイダー**（**Stefan Schneider**）- リー船長だけが御しきれる副司令官。シュナイダーは、彼の合法的な炭鉱ビジネスが「コンコーダンス・エクストラクション社」（Concordance Extraction Corporation、CEC）の干渉と地球政府の降伏文書によって破綻した後、すべての権限に対する深い不信を抱くようになった。
+      - **ウェンボ**（**Wenbo**）- エンジニア
+      - **トールスセン**（**Thorssen**） - パイロット
+  - 「ブラックビーク」（Black Beak）の乗員'
+      - **ベネディクト・マリエック船長**（**Capt. Benedykt Malyech**）- 元CECの監督者であり、実践的なユニトロジスト。マリエックは企業秘密をメディアに暴露した後、契約違反でCECを解雇された。
+      - **ジュリア・コープランド**（**Julia Copland**）- 副司令官で生涯に渡る犯罪者の詐欺師。彼女は法律から身を隠す方法としてフリーランスの炭鉱を始め、その文化が彼女のふるまいに合っていると理解した。
+      - **ヴェンシフ**（**Venschiff**） - パイロット
+      - **ゴッテディル**（**Gottheddir**）- エンジニア
+  - 「サンセット」（Sunset）の乗員
+      - **ガトゥラ・オケケ船長**（**Capt. Gatura Okeke**）- 船内住み込みの機械マニアおよび中級ユニトロジスト。過去に商用パイロットをしていたが不服従で解雇されている。
+  - 「リベルテ」（Liberté）の乗員
+      - **ベルヴィン船長**（**Capt. Bellevin**） - フリーランスの炭鉱のリスクと報酬の割合を誰よりもよく知っている生涯のカササギ\[3\]。
 
 ### 地球政府（EarthGov）
 
-  - *「スカイロケット」（Skyrocket）の*乗組員\[4\]
-      - **デイビッド・チャン国防長官（Defense Secretary David Chang）-** 厳しい決断を下すことや地球政府の軍事的役割に対するタカ派的態度で有名な政府高官\[5\]
-  - *「USMビクトリー」（USM Victory）の乗組員*
-      - **船長（The Captain）** \[6\]
-  - ステルス船乗組員\[7\]
-      - **オラクル（The Oracles）-** 謎のエージェント達\[8\]
-  - *「USMイントレピッド」（USM Intrepid）の乗組員*\[9\]
-      - **アミズ大尉（Capt. Amise）**\[10\]
+  - 「スカイロケット」（Skyrocket）の乗員\[4\]
+      - **デイビッド・チャン国防長官**（**Defense Secretary David Chang**）- 厳しい決断を下すことや地球政府の軍事的役割に対するタカ派的態度で有名な政府高官\[5\]
+  - 「USMビクトリー」（USM Victory）の乗員
+      - **船長**（**The Captain**）\[6\]
+  - ステルス船乗員\[7\]
+      - **オラクル**（**The Oracles**）- 謎のエージェント達\[8\]
+  - 「USMイントレピッド」（USM Intrepid）の乗員\[9\]
+      - **アミズ大尉**（**Capt. Amise**）\[10\]
 
 ## コレクテッド・エディション
 
@@ -71,7 +71,7 @@
   - [DeadSpaceGame.com](http://www.deadspacegame.com/) -Dead Space公式サイト（英語）
   - [StudioRonin.com](http://www.studioronin.com/) -Studio Ronin公式サイト（英語）
 
-[Category:ホラー漫画](https://ja.wikipedia.org/wiki/Category:ホラー漫画 "wikilink") [Category:2010年の漫画](https://ja.wikipedia.org/wiki/Category:2010年の漫画 "wikilink")
+[Category:ホラー漫画](https://ja.wikipedia.org/wiki/Category:ホラー漫画 "wikilink") [Category:2010年の漫画](https://ja.wikipedia.org/wiki/Category:2010年の漫画 "wikilink") [Category:IDWパブリッシングの漫画作品](https://ja.wikipedia.org/wiki/Category:IDWパブリッシングの漫画作品 "wikilink")
 
 1.
 2.  Antony Johnston, *Dead Space: Salvage* one-shot, November 2010, Plot Summary

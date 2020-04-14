@@ -57,8 +57,6 @@
   - [studio15 公式サイト](https://studio15.co.jp/)
   - [studio15](https://www.instagram.com/studio15ig/)（studio15） - [Instagram](https://ja.wikipedia.org/wiki/Instagram "wikilink")
 
-__インデックス__
-
 [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:音楽プロダクション](https://ja.wikipedia.org/wiki/Category:音楽プロダクション "wikilink") [Category:目黒区の企業](https://ja.wikipedia.org/wiki/Category:目黒区の企業 "wikilink") [Category:2019年設立の企業](https://ja.wikipedia.org/wiki/Category:2019年設立の企業 "wikilink")
 
 1.

@@ -1,4 +1,4 @@
-> この記事は[MARQUEE](https://ja.wikipedia.org/wiki/MARQUEE)から翻訳されています。
+> この記事は[MARQUEE祭](https://ja.wikipedia.org/wiki/MARQUEE祭)から翻訳されています。
 
 
 **MARQUEE祭**（マーキーまつり）は、音楽雑誌[MARQUEE](https://ja.wikipedia.org/wiki/MARQUEE_\(雑誌\) "wikilink")（[マーキー・インコーポレイティド](https://ja.wikipedia.org/wiki/マーキー・インコーポレイティド "wikilink")）が主催・企画する[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")のライブイベントである。
@@ -90,6 +90,9 @@
 | 52    |
 | 53    |
 | 54    |
+| 55    |
+| 56    |
+| 57    |
 
 ### MARQUEE×DEARSTAGE祭
 
@@ -151,6 +154,8 @@
 | 36    |
 | 37    |
 | 38    |
+| 39    |
+| 40    |
 
 ## 脚注
 

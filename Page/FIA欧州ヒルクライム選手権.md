@@ -1,4 +1,4 @@
-> この記事は[FIA](https://ja.wikipedia.org/wiki/FIA)から翻訳されています。
+> この記事は[FIA欧州ヒルクライム選手権](https://ja.wikipedia.org/wiki/FIA欧州ヒルクライム選手権)から翻訳されています。
 
 
 **FIA欧州ヒルクライム選手権** (フランス語: *Championnat d'Europe de la Montagne de la FIA*、英語: *FIA European Hill Climb Championship*\[1\]) は、毎年[国際自動車連盟](../Page/国際自動車連盟.md "wikilink") (*Fedelation Internationale de l'Automobile*, 以下、**FIA**) が主催する[ヒルクライムの年間シリーズ戦である](https://ja.wikipedia.org/wiki/ヒルクライム_\(自動車\) "wikilink")。略称としてフランス語では**CEM**、英語では**EHC**も公式に用いられる\[2\]。
@@ -13,7 +13,7 @@ FIAの主催により、毎年4月から9月にかけて欧州各地の著名な
 
 ## 沿革
 
-[Bundesarchiv_Bild_102-08188,_Hans_von_Stuck.jpg](https://ja.wikipedia.org/wiki/File:Bundesarchiv_Bild_102-08188,_Hans_von_Stuck.jpg "fig:Bundesarchiv_Bild_102-08188,_Hans_von_Stuck.jpg") 自動車を用いたスポーツは自動車黎明期から既に始まっており、中でもヒルクライムは欧州で最も関心の高い種目であった。1920年代には[ラリー](../Page/ラリー.md "wikilink")や[グランプリロードレースを圧して競技会のほとんどがヒルクライムという状況であり](../Page/グランプリ_\(モータースポーツ\).md "wikilink")、これを受けて1930年に[国際認定自動車クラブ協会](https://ja.wikipedia.org/wiki/国際自動車連盟#歴史 "wikilink") (*Association Internationale des Automobile-Clubs Reconnus*, 以下、AIACR) は著名なヒルクライムを10大会\[7\]選出してシリーズ戦を組み、自らの主催で欧州選手権をかけて開始した\[8\]。当時、AIACRの国際スポーツ法典付則C項における自動車スポーツの車両分類は単座席のレーシング部門 (レーシングカー) と、二座席以上\[9\]で灯火類\[10\]と[フェンダーを備えた](../Page/フェンダー_\(自動車\).md "wikilink")[スポーツ部門しかない](https://ja.wikipedia.org/wiki/スポーツカー_\(モータースポーツ\) "wikilink")\[11\]ため、賞典もこの2部門が対象であった\[12\]。両部門とも参加にあたり多くの製造者が直接関与した\[13\]ため、選手権は[ワークス対決の最前線となった](../Page/ワークス・チーム.md "wikilink")。しかし主催するには多額の費用が問題であり、それゆえに1931年は12戦での実施を目論んだが、実際は8戦となった。1932年 (この年度のみ国際選手権) はさらに減り5戦となり、1933年は4戦を消化した時点でシリーズを打ち切り、タイトル授与も行わずシーズンは終了し、翌年以降は取りやめとなった\[14\]。
+[Rudolf_Caracciola_-_2.jpg](https://ja.wikipedia.org/wiki/File:Rudolf_Caracciola_-_2.jpg "fig:Rudolf_Caracciola_-_2.jpg") [Bundesarchiv_Bild_102-08188,_Hans_von_Stuck.jpg](https://ja.wikipedia.org/wiki/File:Bundesarchiv_Bild_102-08188,_Hans_von_Stuck.jpg "fig:Bundesarchiv_Bild_102-08188,_Hans_von_Stuck.jpg") 自動車を用いたスポーツは自動車黎明期から既に始まっており、中でもヒルクライムは欧州で最も関心の高い種目であった。1920年代には[ラリー](../Page/ラリー.md "wikilink")や[グランプリロードレースを圧して競技会のほとんどがヒルクライムという状況であり](../Page/グランプリ_\(モータースポーツ\).md "wikilink")、これを受けて1930年に[国際認定自動車クラブ協会](https://ja.wikipedia.org/wiki/国際自動車連盟#歴史 "wikilink") (*Association Internationale des Automobile-Clubs Reconnus*, 以下、AIACR) は著名なヒルクライムを10大会\[7\]選出してシリーズ戦を組み、自らの主催で欧州選手権をかけて開始した\[8\]。当時、AIACRの国際スポーツ法典付則C項における自動車スポーツの車両分類は単座席のレーシング部門 (レーシングカー) と、二座席以上\[9\]で灯火類\[10\]と[フェンダーを備えた](../Page/フェンダー_\(自動車\).md "wikilink")[スポーツ部門しかない](https://ja.wikipedia.org/wiki/スポーツカー_\(モータースポーツ\) "wikilink")\[11\]ため、賞典もこの2部門が対象であった\[12\]。両部門とも参加にあたり多くの製造者が直接関与した\[13\]ため、選手権は[ワークス対決の最前線となった](../Page/ワークス・チーム.md "wikilink")。しかし主催するには多額の費用が問題であり、それゆえに1931年は12戦での実施を目論んだが、実際は8戦となった。1932年 (この年度のみ国際選手権) はさらに減り5戦となり、1933年は4戦を消化した時点でシリーズを打ち切り、タイトル授与も行わずシーズンは終了し、翌年以降は取りやめとなった\[14\]。
 
 第二次世界大戦が終わり、欧州自動車製造者が疲弊している中、再開した欧州各地のヒルクライムは戦後急増している多くの個人競技者 ([プライベーター](https://ja.wikipedia.org/wiki/プライベーター "wikilink")) で占められていた。この状況のもと[全ドイツ自動車クラブ](https://ja.wikipedia.org/wiki/全ドイツ自動車クラブ "wikilink") (*Allgemeiner Deutscher Automobil-Club*, 以下、ADAC) の主導と働きかけにより、AIACRの後継組織であるFIAが1957年から年間6戦で復活させた\[15\]。そして1959年は米国の[パイクスピーク国際ヒルクライム](https://ja.wikipedia.org/wiki/パイクスピーク国際ヒルクライム "wikilink")もシリーズに加えられた。ただし、欧州と米国のどちらの選手も海を渡って遠征しあうことはなく、この試みは失敗した\[16\]。この時までの車両部門はスポーツカーのみであったが、さらなるプライベーターの参加を促すべく1960年から[グランドツーリングカー](https://ja.wikipedia.org/wiki/グランドツーリングカー "wikilink")が加えられた\[17\]。
 
@@ -25,33 +25,35 @@ FIAの主催により、毎年4月から9月にかけて欧州各地の著名な
 
 ## 構成競技会 (2012年度以降)
 
-  - [サンジャンデュガール-サンピエール峠国際ヒルクライム](https://ja.wikipedia.org/wiki/サンジャンデュガール-サンピエール峠国際ヒルクライム "wikilink") (*Course de Côte Internationale St. Jean du Gard - Col Saint Pierre*)
+：初回開催年|コース全長|平均勾配率
 
-  - [オーストリア大山岳賞レヒベルクレース](https://ja.wikipedia.org/wiki/オーストリア大山岳賞レヒベルクレース "wikilink") (*Grosser Bergpreis von Österreich Rechbergrennen*)
+  - [サンジャンデュガル-サンピエール峠国際ヒルクライム](https://ja.wikipedia.org/wiki/サンジャンデュガル-サンピエール峠国際ヒルクライム "wikilink") (*Course de Côte Internationale St. Jean du Gard - Col St. Pierre*)：1972年|5080メートル|6.60パーセント
 
-  - [ファウペハ国際ヒルクライム](https://ja.wikipedia.org/wiki/ファウペハ国際ヒルクライム "wikilink") (*Rampa Internacional da Falperra*)
+  - [オーストリア大山岳賞国際レヒベルクレース](https://ja.wikipedia.org/wiki/オーストリア大山岳賞国際レヒベルクレース "wikilink") (*Grosser Bergpreis von Österreich Internationales Rechberg-Rennen*)：1972年|5050メートル|5.30パーセント
 
-  - [フィート国際ヒルクライム](https://ja.wikipedia.org/wiki/フィート国際ヒルクライム "wikilink") (*Subida Internacional al Fito*)
+  - [ファウペハ国際ヒルクライム](https://ja.wikipedia.org/wiki/ファウペハ国際ヒルクライム "wikilink") (*Rampa Internacional da Falperra*)：1976年|5200メートル|5.00パーセント
 
-  - [エッチェオモ・シュテルンベルク](https://ja.wikipedia.org/wiki/エッチェオモ・シュテルンベルク "wikilink") (*Ecce Homo Sternberk*)
+  - [フィート国際ヒルクライム](https://ja.wikipedia.org/wiki/フィート国際ヒルクライム "wikilink") (*Subida Internacional al Fito*)：1970年|5320メートル|5.96パーセント
 
-  - [国際ADACクラスバッハレース](https://ja.wikipedia.org/wiki/国際ADACクラスバッハレース "wikilink") (*Internationales ADAC Glasbachrennen*)
+  - [エッツェホモ・シュテルンベルク](https://ja.wikipedia.org/wiki/エッツェホモ・シュテルンベルク "wikilink") (*Ecce Homo Šternberk*)：1905年|7800メートル|3.94パーセント
 
-  - [パオリーノ・テオドーリ杯](https://ja.wikipedia.org/wiki/パオリーノ・テオドーリ杯 "wikilink") (*Coppa Paolino Teodori*)
+  - [国際ADACグラースバッハレース](https://ja.wikipedia.org/wiki/国際ADACグラースバッハレース "wikilink") (*Internationales ADAC Glasbachrennen*)：1974年|5500メートル|4.70パーセント
 
-  - [トレント-ボンドーネ](https://ja.wikipedia.org/wiki/トレント-ボンドーネ "wikilink") (*Trento - Bondone*)
+  - [パオリーノ・テオドーリ杯](https://ja.wikipedia.org/wiki/パオリーノ・テオドーリ杯 "wikilink") (*Coppa Paolino Teodori*)：1962年|5031キロメートル|7.50パーセント
 
-  - [ドプシンの丘](https://ja.wikipedia.org/wiki/ドプシンの丘 "wikilink") (*Dobšinský kopec*)
+  - [トレント-ボンドーネ](https://ja.wikipedia.org/wiki/トレント-ボンドーネ "wikilink") (*Trento - Bondone*)：1925年|1万7300メートル|8.88パーセント
 
-  - [リマノヴァヒルクライム](https://ja.wikipedia.org/wiki/リマノヴァヒルクライム "wikilink") (*Limanowa Hill Climb*)
+  - [ドプシンの丘](https://ja.wikipedia.org/wiki/ドプシンの丘 "wikilink") (*Dobšinský Kopec*)：1973年|6810キロメートル|5.80パーセント
 
-  - [モンドール-シャンボンシュラックヒルクライム](https://ja.wikipedia.org/wiki/モンドール-シャンボンシュラックヒルクライム "wikilink") (*Course de Côte du Mont Dore - Chambon sur lac*)
+  - [リマノヴァヒルクライム](https://ja.wikipedia.org/wiki/リマノヴァヒルクライム "wikilink") (*Hill Climb Limanowa*)：1965年|5493メートル|5.17パーセント
 
-  - [サンテュルサンヌ-レランジェ国際ヒルクライム](https://ja.wikipedia.org/wiki/サンテュルサンヌ-レランジェ国際ヒルクライム "wikilink") (*Course de Côte Internationale St-Ursanne - Les Rangiers*)
+  - [モンドール・シャンボンシュラックヒルクライム](https://ja.wikipedia.org/wiki/モンドール・シャンボンシュラックヒルクライム "wikilink") (*Course de Côte du Mont-Dore Chambon-sur-Lac*)：1961年|5075メートル|7.5パーセント
 
-  - [イリルスカビストリツァヒルクライム](https://ja.wikipedia.org/wiki/GHDぺトロール・イリルスカ・ビストリツァ "wikilink") (*GHD Ilirska Bistrica*)
+  - [サンテュルサンヌ-レ・ランジェ国際ヒルクライム](https://ja.wikipedia.org/wiki/サンテュルサンヌ-レ・ランジェ国際ヒルクライム "wikilink") (*Course de Côte Internationale St-Ursanne - Les Rangiers*)：1926年|5180メートル|6.9パーセント
 
-  - [ブゼットの数日](https://ja.wikipedia.org/wiki/ブゼットの数日 "wikilink") (*Buzetski dani*)
+  - [イリルスカビストリツァヒルクライム](https://ja.wikipedia.org/wiki/イリルスカビストリツァヒルクライム "wikilink") (*GHD Ilirska Bistrica*)：1995年|5010メートル|5.07パーセント
+
+  - [ブゼットの数日](https://ja.wikipedia.org/wiki/ブゼットの数日 "wikilink") (*Buzetski Dani*)：1982年|5001メートル|5.01パーセント
 
 これらから、毎年度12大会を上限に選出されている。
 
@@ -82,7 +84,7 @@ FIAの主催により、毎年4月から9月にかけて欧州各地の著名な
 
 乗用車を対象としたカテゴリー1と、競技用車を対象としたカテゴリー2に大分類され、それぞれさらに車両類型別の数グループに中分類、エンジン[排気量](../Page/排気量.md "wikilink")の多寡による数クラスに小分類されている。クラスは、**1.6リットル以下**、**1.6リットル超から2.0リットル以下**、**2.0リットル超から3.0リットル以下**、**3.0リットル超**、の4クラスであり、最低重量は国際モータースポーツ競技規則 (国際スポーツ法典) 付則J項 (以下、J項) の規定が適用される\[32\]。
 
-選手はFIA国際[ドライバーライセンスのグレードA](https://ja.wikipedia.org/wiki/モータースポーツライセンス#四輪自動車 "wikilink")、B、C、D、R取得者でなければならず、さらにグループ別に制限が設けられている\[33\]。
+選手は**FIA国際[ドライバーライセンスのグレードA](https://ja.wikipedia.org/wiki/モータースポーツライセンス#四輪自動車 "wikilink")、B、C、D、R取得者**でなければならず、さらにグループ別に制限が設けられている\[33\]。
 
 ### カテゴリー1
 
@@ -163,14 +165,14 @@ FIAの主催により、毎年4月から9月にかけて欧州各地の著名な
 <tr class="odd">
 <td><p><strong>2015</strong></p></td>
 <td><p>イゴル・ステファノフスキ</p></td>
-<td><p>シモーネ・フォッジオリ</p></td>
+<td><p>シモーネ・ファッジオリ</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><strong>2014</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イゴル・ステファノフスキ" title="wikilink">イゴル・ステファノフスキ</a></p></td>
-<td><p>シモーネ・フォッジオリ</p></td>
+<td><p>シモーネ・ファッジオリ</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -208,20 +210,20 @@ FIAの主催により、毎年4月から9月にかけて欧州各地の著名な
 ## 外部リンク
 
   - [FIA European Hill Climb Championship](https://www.fia.com/node/3586)
-  - [Course de Côte Internationale St. Jean du Gard - Col Saint Pierre](https://www.asa-ales.fr/)
-  - [Grosser Bergpreis von Österreich Rechbergrennen](http://rechberg-rennen.at/)
+  - [Course de Côte Internationale St. Jean du Gard - Col St. Pierre](https://www.asa-ales.fr/)
+  - [Grosser Bergpreis von Österreich Internationales Rechberg-Rennen](http://rechberg-rennen.at/)
   - [Rampa Internacional da Falpella](http://rampadafalperra.pt/)
   - [Subida Internacional al Fito](http://subidaalfito.eu/)
-  - [Ecce Homo Sternberk](http://www.eccehomo.cz/)
+  - [Ecce Homo Šternberk](http://www.eccehomo.cz/)
   - [Internationales ADAC Glasbachrennen](http://www.glasbachrennen.de/)
   - [Coppa Paolino Teodori](http://www.gsacascoli.org/)
   - [Trento - Bondone](http://www.scuderiatrentina.it/)
-  - [Dobšinský kopec](https://www.dobsinskykopec.com/)
-  - [Limanowa Hill Climb](http://www.wysciggorski.pl/)
-  - [Course de Côte du Mont Dore - Chambon sur lac](https://www.coursedecote-montdore.com/)
+  - [Dobšinský Kopec](https://www.dobsinskykopec.com/)
+  - [Hill Climb Limanowa](http://www.wysciggorski.pl/)
+  - [Course de Côte du Mont-Dore Chambon-sur-Lac](https://www.coursedecote-montdore.com/)
   - [Course de Côte Internationale St-Ursanne - Les Rangiers](https://www.rangiers.ch/)
   - [GHD Ilirska Bistrica](http://ghd-ilirskabistrica.com/)
-  - [Buzetski dani](https://buzetski-dani.com/)
+  - [Buzetski Dani](https://buzetski-dani.com/)
   - [Rampa de Boticas](http://www.demoporto.com/)
 
 [Category:国際自動車連盟](https://ja.wikipedia.org/wiki/Category:国際自動車連盟 "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[STAYIN\' ALIVE](https://ja.wikipedia.org/wiki/STAYIN\'_ALIVE)から翻訳されています。
 
 
-『**STAYIN' ALIVE**』(ステイン・アライヴ)は[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")の39枚目のシングル。[2020年](../Page/2020年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に発売予定
+『**STAYIN' ALIVE**』(ステイン・アライヴ)は[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")の39枚目のシングル。[2020年](../Page/2020年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")先行配信、[2月26日](../Page/2月26日.md "wikilink")に発売。
 
 ## 解説
 

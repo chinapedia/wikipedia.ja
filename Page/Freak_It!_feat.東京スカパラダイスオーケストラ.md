@@ -1,4 +1,4 @@
-> この記事は[Freak It! feat.](https://ja.wikipedia.org/wiki/Freak_It!_feat.)から翻訳されています。
+> この記事は[Freak It! feat.東京スカパラダイスオーケストラ](https://ja.wikipedia.org/wiki/Freak_It!_feat.東京スカパラダイスオーケストラ)から翻訳されています。
 
 
 「**Freak It\! feat.東京スカパラダイスオーケストラ**」（フリーク・イット・フィーチャリング・とうきょうスカパラダイスオーケストラ）は、[MAN WITH A MISSIONの](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink")4作目の[配信シングル](../Page/シングル.md "wikilink")。[2018年](../Page/2018年.md "wikilink")[2月2日](../Page/2月2日.md "wikilink")に[Sony Music Records](../Page/ソニー・ミュージックレコーズ.md "wikilink") ([Sony Music Labels](https://ja.wikipedia.org/wiki/ソニー・ミュージックレーベルズ "wikilink"))から配信された\[1\]。

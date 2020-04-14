@@ -1,4 +1,4 @@
-> この記事は[YOUR STORY \(JUJU\)](https://ja.wikipedia.org/wiki/YOUR_STORY_\(JUJU\))から翻訳されています。
+> この記事は[YOUR STORY \(JUJUのアルバム\)](https://ja.wikipedia.org/wiki/YOUR_STORY_\(JUJUのアルバム\))から翻訳されています。
 
 
 『**YOUR STORY**』(ユア・ストーリー)は、日本の女性歌手[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")のベスト・アルバム。[2020年](../Page/2020年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")発売予定。
@@ -124,7 +124,9 @@
 9.  **[始まりはいつも突然に](https://ja.wikipedia.org/wiki/Hold_me,_Hold_you/始まりはいつも突然に "wikilink")**
       -
         28thシングル
-10. **READ MY LIPS**
+10. **[READ MY LIPS](https://ja.wikipedia.org/wiki/ミライ_\(JUJUの曲\) "wikilink")**
+      -
+        38thシングル「[ミライ](https://ja.wikipedia.org/wiki/ミライ_\(JUJUの曲\) "wikilink")」のカップリング
 11. **[Hold me, Hold you](https://ja.wikipedia.org/wiki/Hold_me,_Hold_you/始まりはいつも突然に "wikilink")**
       -
         28thシングル

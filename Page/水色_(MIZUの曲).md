@@ -1,4 +1,4 @@
-> この記事は[ \(MIZU\)](https://ja.wikipedia.org/wiki/_\(MIZU\))から翻訳されています。
+> この記事は[水色 \(MIZUの曲\)](https://ja.wikipedia.org/wiki/水色_\(MIZUの曲\))から翻訳されています。
 
 
 「**水色**」は[MIZUの初のオリジナル曲](https://ja.wikipedia.org/wiki/ゆず_\(音楽グループ\)#MIZU "wikilink")\[1\]。2020年2月14日に配信シングルとしてリリースされた\[2\]。

@@ -1,4 +1,4 @@
-> この記事は[CSR](https://ja.wikipedia.org/wiki/CSR)から翻訳されています。
+> この記事は[C・S・R・アンジャネユル](https://ja.wikipedia.org/wiki/C・S・R・アンジャネユル)から翻訳されています。
 
 
 **C・S・R・アンジャネユル**（C. S. R. Anjaneyulu、[1907年](../Page/1907年.md "wikilink")[7月11日](../Page/7月11日.md "wikilink") - [1963年](../Page/1963年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")\[1\]）は、[インド](../Page/インド.md "wikilink")の[俳優](../Page/俳優.md "wikilink")。「**CSR**」の通称で知られる[メソッド俳優であり](../Page/メソッド演技法.md "wikilink")、[テルグ語映画](https://ja.wikipedia.org/wiki/テルグ語映画 "wikilink")やテルグ語演劇を中心に活動していた。

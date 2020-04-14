@@ -37,7 +37,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/稗田寧々" title="wikilink">稗田寧々</a>（ひえだ ねね）</p></td>
 <td><p>ねーね</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/1月15日.md" title="wikilink">1月15日</a></p></td>
-<td><p>黄色</p></td>
+<td><p>黄</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p><a href="../Page/81プロデュース.md" title="wikilink">81プロデュース</a></p></td>
 </tr>
@@ -53,7 +53,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/緒方佑奈" title="wikilink">緒方佑奈</a>（おがた ゆうな）</p></td>
 <td><p>ゆーな</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
-<td><p>濃水色</p></td>
+<td><p>青色</p></td>
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p><a href="../Page/アイムエンタープライズ.md" title="wikilink">アイムエンタープライズ</a></p></td>
 </tr>
@@ -67,7 +67,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮原颯希" title="wikilink">宮原颯希</a>（みやはら さつき）</p></td>
-<td><p>さっぴぃ</p></td>
+<td><p>さっぴー[5]、さっぴ[6]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/1998年" title="wikilink">1998年</a><a href="https://ja.wikipedia.org/wiki/10月28日" title="wikilink">10月28日</a></p></td>
 <td><p>濃ピンク</p></td>
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/村上まなつ" title="wikilink">村上まなつ</a>（むらかみ まなつ）</p></td>
-<td><p>まなてぃ</p></td>
+<td><p>まなてぃー、まなてぃ</p></td>
 <td><p><a href="../Page/8月24日.md" title="wikilink">8月24日</a></p></td>
 <td><p>紫</p></td>
 <td><p>神奈川県</p></td>
@@ -96,15 +96,15 @@
 
 ### 2019年
 
-  - 6月24日 - 結成を発表\[5\]。
-  - 8月31日 - アニサマけやきひろばにてミニライブ開催\[6\]。
+  - 6月24日 - 結成を発表\[7\]。
+  - 8月31日 - アニサマけやきひろばにてミニライブ開催\[8\]。
   - 10月23日 - デビューシングル「はじめてのかくめい！」発売。
 
 ### 2020年
 
-  - 1月18日 - 「DIALOGUE+JAM」開催\[7\]。
-  - 4月8日 - 1st mini Album「DREAMY-LOGUE」発売予定\[8\]。
-  - 5月9日 - 「DIALOGUE+JAM Vol.2」開催予定\[9\] 。
+  - 1月18日 - 「DIALOGUE+JAM」開催\[9\]。
+  - 4月8日 - 1st mini Album「DREAMY-LOGUE」発売予定\[10\]。
+  - 5月9日 - 「DIALOGUE+JAM Vol.2」開催予定\[11\] 。
 
 ## ディスコグラフィ
 
@@ -141,10 +141,10 @@
 
 ### ミニアルバム
 
-|       | 発売日       | タイトル                                                      | 規格品番       |
-| ----- | --------- | --------------------------------------------------------- | ---------- |
-| 初回限定盤 | 通常盤       |                                                           |            |
-| 1st   | 2020年4月8日 | '''[DREAMY-LOGUE](../Page/DREAMY-LOGUE.md "wikilink") ''' | PCCG-01882 |
+|       | 発売日       | タイトル                                                   | 規格品番       |
+| ----- | --------- | ------------------------------------------------------ | ---------- |
+| 初回限定盤 | 通常盤       |                                                        |            |
+| 1st   | 2020年4月8日 | **[DREAMY-LOGUE](../Page/DREAMY-LOGUE.md "wikilink")** | PCCG-01882 |
 
 ## ライブ・イベント
 
@@ -175,3 +175,5 @@
 7.
 8.
 9.
+10.
+11.

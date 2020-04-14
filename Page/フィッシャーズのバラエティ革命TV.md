@@ -1,7 +1,7 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[フィッシャーズのバラエティ革命TV](https://ja.wikipedia.org/wiki/フィッシャーズのバラエティ革命TV)から翻訳されています。
 
 
-『**フィッシャーズのバラエティ革命TV**』（フィッシャーズのバラエティかくめいティービー）は、[2020年](../Page/2020年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")から[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")で配信されるバラエティ番組\[1\]。正式な番組名はスポンサー名を含む『**SUUMO Presents \#スーモくん通ります フィッシャーズのバラエティ革命TV**』
+『**フィッシャーズのバラエティ革命TV**』（フィッシャーズのバラエティかくめいティービー）は、[2020年](../Page/2020年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")から2月15日まで[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")で配信されたバラエティ番組\[1\]。正式な番組名はスポンサー名を含む『**SUUMO Presents \#スーモくん通ります フィッシャーズのバラエティ革命TV**』
 
 ## 内容
 

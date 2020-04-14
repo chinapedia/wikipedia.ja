@@ -1,4 +1,4 @@
-> この記事は[PCC \(\)](https://ja.wikipedia.org/wiki/PCC_\(\))から翻訳されています。
+> この記事は[PCCカー \(南東ペンシルベニア交通局\)](https://ja.wikipedia.org/wiki/PCCカー_\(南東ペンシルベニア交通局\))から翻訳されています。
 
 
 この項目では、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")各都市に導入された[路面電車](../Page/路面電車.md "wikilink")[車両である](../Page/電車.md "wikilink")**[PCCカー](https://ja.wikipedia.org/wiki/PCCカー "wikilink")**のうち、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ペンシルベニア州](../Page/ペンシルベニア州.md "wikilink")[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")に[路面電車](../Page/路面電車.md "wikilink")網を有する公営企業である**[南東ペンシルベニア交通局](../Page/南東ペンシルベニア交通局.md "wikilink")**（Southeastern Pennsylvania Transportation Authority、SEPTA）が所有する、もしくは所有していた車両について解説する。[1938年](../Page/1938年.md "wikilink")から[1948年](../Page/1948年.md "wikilink")まで買収前の各私鉄によって導入された車両の一部は、リニューアル工事を受けた上で[2020年](../Page/2020年.md "wikilink")現在も在籍しているが、同年[1月26日](https://ja.wikipedia.org/wiki/1月26日 "wikilink")から[2021年](../Page/2021年.md "wikilink")の間は大規模修繕工事のため一時的に全車運用から離脱している\[1\]。

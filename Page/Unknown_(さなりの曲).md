@@ -1,4 +1,4 @@
-> この記事は[Unknown \(\)](https://ja.wikipedia.org/wiki/Unknown_\(\))から翻訳されています。
+> この記事は[Unknown \(さなりの曲\)](https://ja.wikipedia.org/wiki/Unknown_\(さなりの曲\))から翻訳されています。
 
 
 「**unknown**」（アンノウン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")・[さなり](https://ja.wikipedia.org/wiki/さなり "wikilink")の楽曲。通算4枚目のシングルである。[2019年](../Page/2019年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")に[A-Sketch](https://ja.wikipedia.org/wiki/A-Sketch "wikilink")よりリリースされた。
@@ -18,8 +18,6 @@ MVは映像作家、山口洋介が監督を務めた作品。赤い糸に繋が
 ## 外部リンク
 
   - [公式サイトによる紹介ページ](https://sanaridayo.com/music/372)
-
- __インデックス__
 
 [Category:さなりの楽曲](https://ja.wikipedia.org/wiki/Category:さなりの楽曲 "wikilink") [Category:2019年のシングル](https://ja.wikipedia.org/wiki/Category:2019年のシングル "wikilink") [Category:A-Sketchのシングル](https://ja.wikipedia.org/wiki/Category:A-Sketchのシングル "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 

@@ -1,4 +1,4 @@
-> この記事は[THE KEBABS \(\)](https://ja.wikipedia.org/wiki/THE_KEBABS_\(\))から翻訳されています。
+> この記事は[THE KEBABS \(アルバム\)](https://ja.wikipedia.org/wiki/THE_KEBABS_\(アルバム\))から翻訳されています。
 
 
 『**THE KEBABS**』（ザ・ケバブス）は、[THE KEBABSの](https://ja.wikipedia.org/wiki/THE_KEBABS "wikilink")[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に[インペリアルレコードから発売](../Page/インペリアルレコード_\(日本\).md "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[F](https://ja.wikipedia.org/wiki/F)から翻訳されています。
+> この記事は[エドワード・F・コックス](https://ja.wikipedia.org/wiki/エドワード・F・コックス)から翻訳されています。
 
 
 border |caption = コックスと妻[トリシア・ニクソン](../Page/トリシア・ニクソン・コックス.md "wikilink")、1972年撮影。 |office = [共和党](../Page/共和党_\(アメリカ\).md "wikilink")[ニューヨーク州委員会委員長](https://ja.wikipedia.org/wiki/共和党ニューヨーク州委員会 "wikilink") |term_start = [2009年](../Page/2009年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink") |term_end = 2009年[7月1日](../Page/7月1日.md "wikilink") |predecessor =  |successor =  |birth_name = Edward Ridley Finch Cox |birth_date =  |birth_place =  [ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[サウサンプトン](https://ja.wikipedia.org/wiki/サウサンプトン_\(ニューヨーク州の村\) "wikilink") |death_date = |death_place = |party = [共和党](../Page/共和党_\(アメリカ\).md "wikilink") |spouse =  |children = [クリストファー](https://ja.wikipedia.org/wiki/クリストファー・ニクソン・コックス "wikilink") |education = [プリンストン大学](https://ja.wikipedia.org/wiki/プリンストン大学 "wikilink")

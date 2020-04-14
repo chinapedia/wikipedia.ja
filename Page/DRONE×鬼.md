@@ -1,4 +1,4 @@
-> この記事は[DRONE](https://ja.wikipedia.org/wiki/DRONE)から翻訳されています。
+> この記事は[DRONE×鬼](https://ja.wikipedia.org/wiki/DRONE×鬼)から翻訳されています。
 
 
 『**DRONE×鬼\!究極の鬼ごっこ\!**』とは、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")[系列で](../Page/日本テレビネットワーク協議会.md "wikilink")[2019年](../Page/2019年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink")19:00 - 20:54（[JST](../Page/日本標準時.md "wikilink")）に放送された[バラエティ](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")[特別番組](../Page/特別番組.md "wikilink")である。
@@ -32,7 +32,7 @@
   - [菊地亜美](https://ja.wikipedia.org/wiki/菊地亜美 "wikilink")
   - [熊田曜子](https://ja.wikipedia.org/wiki/熊田曜子 "wikilink")
   - [クロちゃん](https://ja.wikipedia.org/wiki/クロちゃん "wikilink")
-  - [C.C.ガールズ3](https://ja.wikipedia.org/wiki/C.C.ガールズ3 "wikilink")（[中川知香](https://ja.wikipedia.org/wiki/中川知香 "wikilink")、[花岡なつみ](https://ja.wikipedia.org/wiki/花岡なつみ "wikilink")、[豊田百佳](https://ja.wikipedia.org/wiki/豊田百佳 "wikilink")）
+  - [C.C.ガールズ](../Page/C.C.ガールズ.md "wikilink")3（[中川知香](https://ja.wikipedia.org/wiki/中川知香 "wikilink")、[花岡なつみ](https://ja.wikipedia.org/wiki/花岡なつみ "wikilink")、[豊田百佳](https://ja.wikipedia.org/wiki/豊田百佳 "wikilink")）
   - [Gパンパンダ](https://ja.wikipedia.org/wiki/Gパンパンダ "wikilink")
   - [鈴木奈々](https://ja.wikipedia.org/wiki/鈴木奈々 "wikilink")
   - [鈴木福](https://ja.wikipedia.org/wiki/鈴木福 "wikilink")

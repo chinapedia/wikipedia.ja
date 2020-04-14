@@ -1,4 +1,4 @@
-> この記事は[FIT](https://ja.wikipedia.org/wiki/FIT)から翻訳されています。
+> この記事は[FITスタジアム](https://ja.wikipedia.org/wiki/FITスタジアム)から翻訳されています。
 
 
 **FITスタジアム**（えふあいてぃスタジアム）は、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[東区の](../Page/東区_\(福岡市\).md "wikilink")[福岡工業大学](../Page/福岡工業大学.md "wikilink")塩浜総合グラウンドの専用野球場。主に[福岡工業大学](../Page/福岡工業大学.md "wikilink")の練習や福岡六大学野球リーグの試合会場として使用。

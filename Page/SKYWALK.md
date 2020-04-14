@@ -9,6 +9,8 @@
 
 タイトルは[スカイウォーク](https://ja.wikipedia.org/wiki/スカイウォーク "wikilink")のように、聴いてくれたリスナーが、何かと何か、誰かと誰かを繋ぎ合わせることができるような作品にしたいという意味が込められている\[2\]。
 
+メンバーの「勇太郎」脱退前最後のアルバムである。
+
 ## チャート成績
 
 オリコン[2018年](../Page/2018年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")付の週間ランキングで最高100位を記録。 \[3\]。
@@ -17,19 +19,82 @@
 
 1.  **Walking with you**
       -
-        Novelbrightの楽曲で初めて各サブスクチャートにてランクインした楽曲。
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：雄大 作曲：雄大・勇太朗
+
+        </div>
+
+        </div>
+
+          - Novelbrightの楽曲で初めて各サブスクチャートにてランクインした楽曲。
 2.  **Morning Light**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：雄大 作曲：雄大・勇太朗
+
+        </div>
+
+        </div>
 3.  **ヒカリへ**
       -
-        海斗曰く「[ピアノ](../Page/ピアノ.md "wikilink")や[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")などのアレンジを特にこだわって制作した」という\[4\]。
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：雄大 作曲：雄大・勇太朗
+
+        </div>
+
+        </div>
+
+          - 海斗曰く「[ピアノ](../Page/ピアノ.md "wikilink")や[ストリングス](https://ja.wikipedia.org/wiki/ストリングス "wikilink")、[シンセサイザー](../Page/シンセサイザー.md "wikilink")などのアレンジを特にこだわって制作した」という\[4\]。
 4.  **Count on me**
       -
-        1st配信限定シングルの表題曲。
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：雄大 作曲：雄大・勇太朗
+
+        </div>
+
+        </div>
+
+          - 1st配信限定シングルの表題曲。
 5.  **また明日**
       -
-        勇太郎はこの楽曲について「ボーカルの雄大の歌声をどれだけ生かせるか」というテーマのもと制作したと語っている\[5\]。
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：雄大 作曲：雄大・勇太朗
+
+        </div>
+
+        </div>
+
+          - 勇太郎はこの楽曲について「ボーカルの雄大の歌声をどれだけ生かせるか」というテーマのもと制作したと語っている\[5\]。
 6.  **My Savior**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：雄大 作曲：雄大・聡次郎
+
+        </div>
+
+        </div>
 7.  **We are calling you**
+      -
+
+        <div class="NavContent" style="text-align: left;font-size:small;">
+
+        作詞：雄大 作曲：雄大・勇太朗
+
+        </div>
+
+        </div>
 
 ## 脚注
 

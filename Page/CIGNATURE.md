@@ -5,7 +5,7 @@
 
 ## 概要
 
-グループ名の『CIGNATURE』には「音楽界のシグネイチャーになる」という意味とメンバーの覚悟が込められている。
+グループ名の『CIGNATURE』には「音楽界の『SIGNATURE(シグネイチャー)』になる」という意味とメンバーの覚悟が込められている。 CIGNATUREは、[2017年](../Page/2017年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")にデビューして[2019年](../Page/2019年.md "wikilink")[11月](../Page/11月.md "wikilink")に解散したGOOD DAYというガールズグループの再結成したグループでありチェソル・ジウォン・イェア・ソン・ベルの5人のメンバーは、元GOOD DAYのメンバーである。
 
 ## 略歴
 
@@ -19,10 +19,12 @@
 
 ### 2020年
 
-  - 2月3日、1stシングル「NUN NU NAN NA(눈누난나)」のMVを公開。
-  - 2月4日、1stシングル「NUN NU NAN NA(눈누난나)」をリリースしてデビュー。
+  - 2月3日、1stシングル(cignature debut lead single Ａ)「NUN NU NAN NA(눈누난나)」のMVを公開。
+  - 2月4日、1stシングル(cignature debut lead single Ａ)「NUN NU NAN NA(눈누난나)」をリリースしてデビュー。
 
 　同日、ILCHIアートホールにて発売記念ショーケースを開催\[4\]。
+
+  - 4月7日、2ndシングル(cignature debut lead single Ｂ)「ASSA(아싸)」をリリース予定。
 
 ## メンバー
 
@@ -44,7 +46,7 @@
 <li>血液型：A型</li>
 <li>出身地：<a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a><a href="../Page/衿川区.md" title="wikilink">衿川区</a></li>
 <li>ポジション：サブボーカル</li>
-<li>元GOOD DAYのメンバー</li>
+<li>元GOOD DAYのメンバー、前活動名も同名</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -57,7 +59,7 @@
 <li>血液型：O型</li>
 <li>出身地：<a href="../Page/釜山広域市.md" title="wikilink">釜山広域市</a></li>
 <li>ポジション：サブボーカル</li>
-<li>元GOOD DAYのメンバー</li>
+<li>元GOOD DAYのメンバー、前活動名も同名</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -70,7 +72,7 @@
 <li>血液型：B型</li>
 <li>出身地：</li>
 <li>ポジション：メインボーカル、メインダンサー</li>
-<li>元GOOD DAYのメンバー</li>
+<li>元GOOD DAYのメンバー、前活動名は、ハウン</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -83,7 +85,7 @@
 <li>血液型：A型</li>
 <li>出身地：<a href="https://ja.wikipedia.org/wiki/光州広域市" title="wikilink">光州広域市</a></li>
 <li>ポジション：メインダンサー、メインラッパー</li>
-<li>元GOOD DAYのメンバー</li>
+<li>元GOOD DAYのメンバー、前活動名は、VIVA(ビバ)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -93,7 +95,7 @@
 <li>本名：チョン・ヨンジョン (Jung Yeon-Jung、정연정)</li>
 <li>生年月日：</li>
 <li>身長：169cm</li>
-<li>血液型：?型</li>
+<li>血液型：?型（無公表）</li>
 <li>出身地：</li>
 <li>ポジション：リードボーカル</li>
 </ul></td>
@@ -107,8 +109,8 @@
 <li>身長：161cm</li>
 <li>血液型：A型</li>
 <li>出身地：<a href="../Page/全羅南道.md" title="wikilink">全羅南道</a><a href="../Page/羅州市.md" title="wikilink">羅州市</a></li>
-<li>ポジション：</li>
-<li>元GOOD DAYのメンバー</li>
+<li>ポジション：サブボーカル、リードダンサー</li>
+<li>元GOOD DAYのメンバー、前活動名は、LUCKY(ラッキー)</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -118,7 +120,7 @@
 <li>本名：ク・セミ (Goo Se-Mi、구세미)</li>
 <li>生年月日：</li>
 <li>身長：166cm</li>
-<li>血液型：?型</li>
+<li>血液型：?型（無公表）</li>
 <li>出身地：</li>
 <li>ポジション：サブボーカル、リードダンサー</li>
 <li>元JYP練習生</li>
@@ -146,6 +148,14 @@
 (2020年2月3日)</p></td>
 <td><ol>
 <li><strong>NUN NU NAN NA(눈누난나)</strong></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p><strong>Ｂ(2nd)</strong></p></td>
+<td><p><strong>ASSA(아싸)</strong><br />
+(2020年4月7日)</p></td>
+<td><ol>
+<li><strong>ASSA(아싸)</strong></li>
 </ol></td>
 </tr>
 </tbody>
@@ -179,12 +189,9 @@
 
 ## 外部リンク
 
-  - \[<https://twitter.com/cignature_J9>　cignature\] - Twitter
-
-  - \[<https://www.instagram.com/cignature_J9/>　cignature_J9\] -Instagram
-
-  - [C9_girlz](https://www.facebook.com/cignature.J9) -Facebook
-
+  -
+  -
+  -
   -
   - [CIGNATURE](https://channels.vlive.tv/A57B37/home) - V LIVE
 

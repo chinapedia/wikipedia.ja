@@ -1,4 +1,4 @@
-> この記事は[The The \(\)](https://ja.wikipedia.org/wiki/The_The_\(\))から翻訳されています。
+> この記事は[The The \(アイドル\)](https://ja.wikipedia.org/wiki/The_The_\(アイドル\))から翻訳されています。
 
 
 **The The**（ザザ）は、[関西](https://ja.wikipedia.org/wiki/関西 "wikilink")を中心に活動する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性アイドルグループ](https://ja.wikipedia.org/wiki/女性アイドルグループ "wikilink")である。メンバーは、[マリア・アインシュタイン](https://ja.wikipedia.org/wiki/マリア・アインシュタイン "wikilink")、[ユカタン半島](https://ja.wikipedia.org/wiki/谷口夕佳 "wikilink")、[エリー・マイラブ](https://ja.wikipedia.org/wiki/エリー・マイラブ "wikilink")の3人から構成される。

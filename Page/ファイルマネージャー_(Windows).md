@@ -1,4 +1,4 @@
-> この記事は[ \(Windows\)](https://ja.wikipedia.org/wiki/_\(Windows\))から翻訳されています。
+> この記事は[ファイルマネージャー \(Windows\)](https://ja.wikipedia.org/wiki/ファイルマネージャー_\(Windows\))から翻訳されています。
 
 
 **ファイルマネージャー**は1990年から1999年まで[Microsoft Windows内のアプリケーションとして存在していた](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[ファイル管理プログラムである](https://ja.wikipedia.org/wiki/ファイルマネージャ "wikilink")。また2018年4月6日から、[Windows 10を含む現代のWindowsにおいても任意でダウンロードすることで](https://ja.wikipedia.org/wiki/Windows_10 "wikilink")、動作させることができる。\[1\]\[2\]

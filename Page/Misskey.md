@@ -1,7 +1,7 @@
 > この記事は[Misskey](https://ja.wikipedia.org/wiki/Misskey)から翻訳されています。
 
 
-**Misskey**（ミスキー）は日本発の[分散型ミニブログ用のオープンソースソフトウェアである](https://ja.wikipedia.org/wiki/分散型ソーシャル・ネットワーク "wikilink")。syuiloが開発している。
+**Misskey**（ミスキー）は、日本発の[分散型ミニブログ用のオープンソースソフトウェアである](https://ja.wikipedia.org/wiki/分散型ソーシャル・ネットワーク "wikilink")。syuiloが開発している。
 
 ## 概要
 

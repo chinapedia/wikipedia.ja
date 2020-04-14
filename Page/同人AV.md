@@ -1,4 +1,4 @@
-> この記事は[AV](https://ja.wikipedia.org/wiki/AV)から翻訳されています。
+> この記事は[同人AV](https://ja.wikipedia.org/wiki/同人AV)から翻訳されています。
 
 
 **同人AV**（どうじんエーブイ）は個人、もしくは[同人サークル](../Page/同人サークル.md "wikilink")によって製作された[アダルトビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")（Adult Video＝AV）作品。対義語は商業AV。

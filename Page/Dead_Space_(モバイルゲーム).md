@@ -1,4 +1,4 @@
-> この記事は[Dead Space \(\)](https://ja.wikipedia.org/wiki/Dead_Space_\(\))から翻訳されています。
+> この記事は[Dead Space \(モバイルゲーム\)](https://ja.wikipedia.org/wiki/Dead_Space_\(モバイルゲーム\))から翻訳されています。
 
 
 **Dead Space**（デッドスペース）は、オーストラリアの企業IronMonkey Studiosが開発し、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")（EA）が[iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")、[BlackBerry Tablet OS](https://ja.wikipedia.org/wiki/BlackBerry_Tablet_OS "wikilink")、[Xperia Play](https://ja.wikipedia.org/wiki/SO-01D "wikilink")、[Android](../Page/Android.md "wikilink")および[BlackBerry 10端末向けに発売したSF](https://ja.wikipedia.org/wiki/BlackBerry_10 "wikilink")[サバイバルホラー](../Page/サバイバルホラー.md "wikilink")[モバイルゲーム](../Page/携帯電話ゲーム.md "wikilink")。本作は、[ノキア](../Page/ノキア.md "wikilink")との契約によりノキアブランドのWindows Phone独占でリリースされる数作品のEAゲームの一つとして[Windows Phone 8でのリリースも予定されていたが](https://ja.wikipedia.org/wiki/Windows_Phone_8 "wikilink")、リリース前にキャンセルされた\[1\]。

@@ -1,4 +1,4 @@
-> この記事は[GLA ](https://ja.wikipedia.org/wiki/GLA_)から翻訳されています。
+> この記事は[GLA 中京会館](https://ja.wikipedia.org/wiki/GLA_中京会館)から翻訳されています。
 
 
 GLA 中京会館は、愛知県名古屋市にある宗教法人GLAの施設。 GLA中京本部のある建物である。

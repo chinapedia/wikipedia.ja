@@ -5,7 +5,7 @@
 
 ## 概要
 
-[高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")自身のバンドを合体させ2015年に結成。略称はブラコメ。頭文字をとって「TBCCB」を載されることもある。
+[高野哲](https://ja.wikipedia.org/wiki/高野哲 "wikilink")自身のバンドを合体させ2015年に結成。略称はブラコメ。頭文字をとって「TBCCB」と記載されることもある。
 
 8月に大型新人バンドとして[RISING SUN ROCK FESTIVALで初公式ライブを行った](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")。
 
@@ -122,11 +122,36 @@
 </tbody>
 </table>
 
+## 主催イベント
+
+ゲストを呼び、主催イベント「ZONE」を定期的に開催している。 これについて高野哲はこのように語っている。 『「音」とは空気の振動であるらしい。 ならば「音楽」はどうか？ その振動はかなりの勢いでもって、 表現者の気持ちを伝達し、我々の聴覚に無遠慮に侵入する。 では「ロックバンド」はどうか？ ドラムのその心音をベースが揺らし、ギターが大きな波を呼んだその空間を、歌が、切り裂く。 ライブとは、空間を切り裂いた先の、「ZONE」である。 とかなんとか、そんな思いでこのイベントに「ZONE」って命名しました。 俺たちが尊敬してる大好きなバンドと一緒に切り裂く「ZONE」へ、 みなさん、飛び込んで。』\[5\]
+
+  - vol.1 2016年1月15日　新宿LOFT　(w/[ニューロティカ](../Page/ニューロティカ.md "wikilink"))【DJ】ISHIKAWA(DISK UNION / a.k.a.TIGER HOLE)
+  - vol.2 2016年2月19日　新宿LOFT　(w/[勝手にしやがれ](../Page/勝手にしやがれ.md "wikilink"))【DJ】ISHIKAWA(DISK UNION / a.k.a.TIGER HOLE)
+  - vol.3 2016年3月11日　新宿LOFT　(w/[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[THE JUNEJULYAUGUST](../Page/THE_JUNEJULYAUGUST.md "wikilink"))【DJ】ISHIKAWA(DISK UNION / a.k.a.TIGER HOLE)
+
+<!-- end list -->
+
+  - vol.4 2016年4月8日　新宿LOFT　(w/[TRI4TH](https://ja.wikipedia.org/wiki/TRI4TH "wikilink"))【DJ】ISHIKAWA(DISK UNION / a.k.a.TIGER HOLE)\[6\]
+  - vol.5 2017年2月27日　新宿LOFT　(w/[シアターブルック](https://ja.wikipedia.org/wiki/シアターブルック "wikilink"))
+  - vol.6 2017年3月29日　新宿LOFT　(w/[The Birthday](../Page/The_Birthday.md "wikilink"))\[7\]
+  - vol.7 2017年5月6日　梅田Zeela　(w/[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[THE JUNEJULYAUGUST](../Page/THE_JUNEJULYAUGUST.md "wikilink"))
+
+<!-- end list -->
+
+  - vol.8 2017年5月7日　名古屋ell size　(w/[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[THE JUNEJULYAUGUST](../Page/THE_JUNEJULYAUGUST.md "wikilink"))
+  - vol.9 2017年5月10日　新宿LOFT　(w/[nil](https://ja.wikipedia.org/wiki/nil "wikilink"),[THE JUNEJULYAUGUST](../Page/THE_JUNEJULYAUGUST.md "wikilink"))
+  - vol.10 2018年3月23日　新宿LOFT　(w/[BUGY CRAXONE](../Page/BUGY_CRAXONE.md "wikilink"),[チリヌルヲワカ](../Page/チリヌルヲワカ.md "wikilink"))\[8\]
+  - vol.11 2019年2月13日　高円寺HIGH　(w/[Large House Satisfaction](https://ja.wikipedia.org/wiki/Large_House_Satisfaction "wikilink"))
+  - vol.12 2019年3月25日　高円寺HIGH　(w/[THE SLUT BANKS](../Page/THE_SLUT_BANKS.md "wikilink"))
+  - vol.13 2019年12月13日　the five morioka　(w/CROSSØVER’S)
+  - vol.14 2020年3月1日　下北沢シェルター　(w/[HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink"))
+
 ## 出演イベント
 
   - 2015年8月14日　[RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")　(def garage)
   - 2015年9月26日　[中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink")　(village of illusion)
-  - 2016年9月10日　[中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink")　(REDEMPTION STAGE)
+  - 2016年9月10日　[中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink")　(REDEMPTION STAGE)\[9\]
   - 2018年9月28日　[中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink")　(REALIZE STAGE)
 
 ## 脚注
@@ -157,3 +182,8 @@
 2.
 3.  THE JUNEJULYAUGUSTの楽曲
 4.  [nil](https://ja.wikipedia.org/wiki/nil "wikilink")の楽曲
+5.
+6.
+7.
+8.
+9.

@@ -1,4 +1,4 @@
-> この記事は[ALL FOR YOU \(SECHSKIES\)](https://ja.wikipedia.org/wiki/ALL_FOR_YOU_\(SECHSKIES\))から翻訳されています。
+> この記事は[ALL FOR YOU \(SECHSKIESのアルバム\)](https://ja.wikipedia.org/wiki/ALL_FOR_YOU_\(SECHSKIESのアルバム\))から翻訳されています。
 
 
 『**ALL FOR YOU**』(オル・フォ・ユ)は、韓国の[アイドルグループ](https://ja.wikipedia.org/wiki/アイドルグループ "wikilink")「[ジェクスキス](https://ja.wikipedia.org/wiki/ジェクスキス "wikilink")([Sechs Kies](https://ja.wikipedia.org/wiki/Sechs_Kies "wikilink"))」が2020年にリリースしたグループ初のミニ・アルバム。2020年1月28日に音源リリース、29日アルバム発売\[1\]。

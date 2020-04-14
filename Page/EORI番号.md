@@ -1,4 +1,4 @@
-> この記事は[EORI](https://ja.wikipedia.org/wiki/EORI)から翻訳されています。
+> この記事は[EORI番号](https://ja.wikipedia.org/wiki/EORI番号)から翻訳されています。
 
 
 事業者登録識別番号（ Econoic Operators Registration and Identification Number : **EORI番号）**は、[EUに出入りする商品の輸入または輸出を行う企業のEU内での登録および](https://ja.wikipedia.org/wiki/欧州連合 "wikilink")[識別番号である](https://ja.wikipedia.org/wiki/管理番号 "wikilink")。「イオリ番号」または「イーオーアールアイ」番号と呼ばれる。

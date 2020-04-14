@@ -1,7 +1,7 @@
 > この記事は[REQUIEM AND SILENCE](https://ja.wikipedia.org/wiki/REQUIEM_AND_SILENCE)から翻訳されています。
 
 
-『**REQUIEM AND SILENCE**』(レクイエム・アンド・サイレンス)は日本の[歌手](../Page/歌手.md "wikilink")[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")のベスト・アルバム
+『**REQUIEM AND SILENCE**』(レクイエム・アンド・サイレンス)は、日本の[歌手](../Page/歌手.md "wikilink")[鬼束ちひろ](https://ja.wikipedia.org/wiki/鬼束ちひろ "wikilink")のベスト・アルバム。
 
 ## 解説
 

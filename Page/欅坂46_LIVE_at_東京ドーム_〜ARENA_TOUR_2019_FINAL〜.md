@@ -1,4 +1,4 @@
-> この記事は[46 LIVE at  ARENA TOUR 2019 FINAL](https://ja.wikipedia.org/wiki/46_LIVE_at__ARENA_TOUR_2019_FINAL)から翻訳されています。
+> この記事は[欅坂46 LIVE at 東京ドーム 〜ARENA TOUR 2019 FINAL〜](https://ja.wikipedia.org/wiki/欅坂46_LIVE_at_東京ドーム_〜ARENA_TOUR_2019_FINAL〜)から翻訳されています。
 
 
 『**欅坂46 LIVE at 東京ドーム 〜ARENA TOUR 2019 FINAL〜**』（けやきざかフォーティーシックス ライブ アット トウキョウドーム アリーナ ツアー 2019 ファイナル）は、女性アイドルグループ[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")が2019年9月18日から19日にかけて『欅坂46 夏の全国アリーナツアー2019』の追加公演として[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[東京都](../Page/東京都.md "wikilink")・[東京ドーム](../Page/東京ドーム.md "wikilink")で開催した公演2日目\[1\]を収録した、3枚目の映像作品。2020年1月29日にDVD・Blu-rayを発売\[2\]。

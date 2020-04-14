@@ -34,7 +34,7 @@
   - [Mia REGINA×こだまさおり対談　“涙とガールズトーク”する『citrus』EDテーマ秘話を語り合う](https://realsound.jp/2018/02/post-164197.html)
   - [Mia REGINA×菊田大介（Elements Garden）対談　楽曲における“ライブ”の重要性とは？](https://realsound.jp/2018/03/post-166985.html)
 
-[Category:2018年のシングル](https://ja.wikipedia.org/wiki/Category:2018年のシングル "wikilink") [Category:ランティスの楽曲](https://ja.wikipedia.org/wiki/Category:ランティスの楽曲 "wikilink") [Category:TOKYO_MXのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:TOKYO_MXのテレビアニメ主題歌 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+[Category:2018年のシングル](https://ja.wikipedia.org/wiki/Category:2018年のシングル "wikilink") [Category:Mia_REGINA](https://ja.wikipedia.org/wiki/Category:Mia_REGINA "wikilink") [Category:TOKYO_MXのテレビアニメ主題歌](https://ja.wikipedia.org/wiki/Category:TOKYO_MXのテレビアニメ主題歌 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 
 1.
 2.

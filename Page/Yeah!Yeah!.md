@@ -20,8 +20,6 @@
       - [期間生産限定盤](https://www.adachikana.com/disco/?disco_category=album&disco_type=single&disco_id=SECL-2337&disco_page=1&disco_now=4)
       - [通常盤](https://www.adachikana.com/disco/?disco_category=album&disco_type=single&disco_id=SECL-2339&disco_page=1&disco_now=5)
 
-__インデックス__
-
 [Category:足立佳奈](https://ja.wikipedia.org/wiki/Category:足立佳奈 "wikilink") [Category:2018年のアルバム](https://ja.wikipedia.org/wiki/Category:2018年のアルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink")
 
 1.

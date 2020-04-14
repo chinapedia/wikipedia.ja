@@ -1,4 +1,4 @@
-> この記事は[ \(VIXX\)](https://ja.wikipedia.org/wiki/_\(VIXX\))から翻訳されています。
+> この記事は[ラビ \(VIXX\)](https://ja.wikipedia.org/wiki/ラビ_\(VIXX\))から翻訳されています。
 
 
 **ラビ**（RAVI、、[1993年](../Page/1993年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - ）は、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[歌手](../Page/歌手.md "wikilink")。GROOVL1Nの下で活躍する韓国のラッパー、シンガー、ソングライター、レコードプロデューサー。韓国アイドルグループ・[少年グループ](https://ja.wikipedia.org/wiki/ボーイ・バンド "wikilink") [VIXX](https://ja.wikipedia.org/wiki/VIXX "wikilink")とそのサブユニット[VIXX LRのメンバー](https://ja.wikipedia.org/wiki/VIXX_LR "wikilink")\[1\]\[2\]。2017年1月9日にソロアーティストとしてデビューし、デビューミニアルバム『*R.EAL1ZE*』をリリース\[3\]。

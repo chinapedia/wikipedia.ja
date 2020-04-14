@@ -1,4 +1,4 @@
-> この記事は[SINGLE BEST \(DOUBLE\)](https://ja.wikipedia.org/wiki/SINGLE_BEST_\(DOUBLE\))から翻訳されています。
+> この記事は[SINGLE BEST \(DOUBLEのアルバム\)](https://ja.wikipedia.org/wiki/SINGLE_BEST_\(DOUBLEのアルバム\))から翻訳されています。
 
 
 『**SINGLE BEST**』（シングル・ベスト）は、[2014年](../Page/2014年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")にリリースされた[DOUBLEのベストアルバム](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink")。

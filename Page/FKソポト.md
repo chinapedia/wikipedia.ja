@@ -1,4 +1,4 @@
-> この記事は[FK](https://ja.wikipedia.org/wiki/FK)から翻訳されています。
+> この記事は[FKソポト](https://ja.wikipedia.org/wiki/FKソポト)から翻訳されています。
 
 
 **FKソポト**（）は、[セルビア](../Page/セルビア.md "wikilink")のサッカークラブ。

@@ -1,4 +1,4 @@
-> この記事は[GK](https://ja.wikipedia.org/wiki/GK)から翻訳されています。
+> この記事は[GKダイナミックス](https://ja.wikipedia.org/wiki/GKダイナミックス)から翻訳されています。
 
 
 **GKダイナミックス**(ジイケイダイナミックス)は、[GKデザイングループ](https://ja.wikipedia.org/wiki/GKデザイングループ "wikilink")の一社として[モーターサイクル](https://ja.wikipedia.org/wiki/モーターサイクル "wikilink")を中心に、[モビリティ](https://ja.wikipedia.org/wiki/モビリティ "wikilink")[デザイン](../Page/デザイン.md "wikilink")領域をメインにデザイン活動を行う。

@@ -1,4 +1,4 @@
-> この記事は[Ami \(\)](https://ja.wikipedia.org/wiki/Ami_\(\))から翻訳されています。
+> この記事は[Ami \(藤原さくらの曲\)](https://ja.wikipedia.org/wiki/Ami_\(藤原さくらの曲\))から翻訳されています。
 
 
 「**Ami**」（アミ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")[藤原さくらの](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")。[2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[SPEEDSTAR RECORDSからリリースされた](../Page/SPEEDSTAR_RECORDS.md "wikilink")。
@@ -34,7 +34,7 @@
 
 ## 脚注
 
-[Category:藤原さくらの楽曲](https://ja.wikipedia.org/wiki/Category:藤原さくらの楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:テレビ東京のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ主題歌 "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
+[Category:藤原さくらの楽曲](https://ja.wikipedia.org/wiki/Category:藤原さくらの楽曲 "wikilink") [Category:藤原さくらが制作した楽曲](https://ja.wikipedia.org/wiki/Category:藤原さくらが制作した楽曲 "wikilink") [Category:2020年のシングル](https://ja.wikipedia.org/wiki/Category:2020年のシングル "wikilink") [Category:テレビ東京のテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:テレビ東京のテレビドラマ主題歌 "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
 1.
 2.

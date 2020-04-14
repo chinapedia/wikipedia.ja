@@ -1,17 +1,19 @@
 > この記事は[TOKYO SPORTS GOOD](https://ja.wikipedia.org/wiki/TOKYO_SPORTS_GOOD)から翻訳されています。
 
 
-『**TOKYO SPORTS GOOD**』（トウキョウスポーツグッド）は、[2019年](../Page/2019年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink")から[TOKYO FMで毎週金曜](../Page/エフエム東京.md "wikilink") 13:00 - 14:55に[生放送](../Page/生放送.md "wikilink")で放送されている[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+『**TOKYO SPORTS GOOD**』（トウキョウスポーツグッド）は、[TOKYO FMで毎週金曜](../Page/エフエム東京.md "wikilink") 13:00 - 14:55に[生放送](../Page/生放送.md "wikilink")で放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
-2009年4月から2019年3月の10年間に渡って朝のワイド番組『[中西哲生のクロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』を担当してきた中西哲生がパーソナリティを務め、1週間のスポーツ情報をメインとした番組内容となっている。番組内の一部コーナーやスポンサーはクロノスから継続されている。
+2009年4月から2019年3月の10年間に渡って朝のワイド番組『[中西哲生のクロノス](https://ja.wikipedia.org/wiki/クロノス_\(ラジオ番組\) "wikilink")』を担当してきた中西哲生がパーソナリティを務め、1週間のスポーツ情報をメインとした番組内容となっていた。番組内の一部コーナーやスポンサーはクロノスから継続されていた。
 
-番組は[銀座ソニーパーク](https://ja.wikipedia.org/wiki/銀座ソニーパーク "wikilink")に設けられている『TOKYO FM GINZA SONY PARK STUDIO』から公開生放送を行っている。放送中や番組終了後、中西と小川はスタジオの外に出てリスナーとの写真やサインに応じるなどファンサービスを積極的に行っており、番組Twitterのハッシュタグにも『\#会えるてつお』を使用するなど、出演者との交流も番組の特徴となっている。
+番組は[銀座ソニーパーク](https://ja.wikipedia.org/wiki/銀座ソニーパーク "wikilink")に設けられている『TOKYO FM GINZA SONY PARK STUDIO』から公開生放送を行っていた。放送中や番組終了後、中西と小川はスタジオの外に出てリスナーとの写真やサインに応じるなどファンサービスを積極的に行っており、番組Twitterのハッシュタグにも『\#会えるてつお』を使用するなど、出演者との交流も番組の特徴となっていたが、[新型コロナウイルスの感染拡大防止のため](../Page/2019新型コロナウイルス.md "wikilink")、2020年2月27日からは公開生放送を中止し、半蔵門にあるTOKYO FMアースギャラリーから放送を行っていた。
 
 2019年4月5日の番組開始から2019年9月27日までは 金曜日13:00 - 13:55で放送していたが、2019年10月4日からは直後に放送されている『[TOKYO SOUNDS GOOD](https://ja.wikipedia.org/wiki/TOKYO_SOUNDS_GOOD "wikilink")』と14時台の枠を交換し、13:00 - 14:55での放送に変更された。
 
-金曜日が[国民の祝日](../Page/国民の祝日.md "wikilink")にあたる場合、『[TOKYO FM ホリデースペシャル](https://ja.wikipedia.org/wiki/TOKYO_FM_ホリデースペシャル "wikilink")』放送のため番組が休止になる事もあり、2019年5月3日（[憲法記念日](../Page/憲法記念日.md "wikilink")）は番組が休止になった。
+金曜日が[国民の祝日](../Page/国民の祝日.md "wikilink")にあたる場合、『[TOKYO FM ホリデースペシャル](https://ja.wikipedia.org/wiki/TOKYO_FM_ホリデースペシャル "wikilink")』放送のため番組が休止になる事もあり、2019年5月3日（[憲法記念日](../Page/憲法記念日.md "wikilink")）と2020年3月20日（[春分の日](../Page/春分の日.md "wikilink")）は番組が休止になった。
+
+2020年3月13日の放送で、3月27日をもって番組が終了する事を発表され同日に終了した。
 
 ## 出演者
 
@@ -90,6 +92,6 @@
   - [TOKYO SPORTS GOOD](https://www.tfm.co.jp/tspg/)
 
   -
-[Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:2019年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のラジオ番組_\(日本\) "wikilink")
+[Category:TOKYO_FMの番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組 "wikilink") [Category:2019年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2019年のラジオ番組_\(日本\) "wikilink") [Category:JFN系ラジオのスポーツ番組‎](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのスポーツ番組‎ "wikilink")
 
 1.  なお、クロノスの金曜日も中西が担当していた時は金曜日のみ『素敵な、週末を。』と締めていた。

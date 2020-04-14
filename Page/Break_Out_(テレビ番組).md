@@ -1,4 +1,4 @@
-> この記事は[Break Out \(\)](https://ja.wikipedia.org/wiki/Break_Out_\(\))から翻訳されています。
+> この記事は[Break Out \(テレビ番組\)](https://ja.wikipedia.org/wiki/Break_Out_\(テレビ番組\))から翻訳されています。
 
 
 『**Break Out**』（ブレイク・アウト）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列で放送している](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")。
@@ -152,7 +152,7 @@
 <tr class="odd">
 <td><p>宮城県</p></td>
 <td><p>東日本放送（KHB）</p></td>
-<td><p>火曜 2:00 - 2:30（月曜深夜）</p></td>
+<td><p>火曜 1:26 - 1:56（月曜深夜）【4月6日から時間変更予定】</p></td>
 <td><p>2012年1月23日</p></td>
 <td></td>
 <td></td>

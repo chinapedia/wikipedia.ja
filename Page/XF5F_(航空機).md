@@ -1,4 +1,4 @@
-> この記事は[XF5F \(\)](https://ja.wikipedia.org/wiki/XF5F_\(\))から翻訳されています。
+> この記事は[XF5F \(航空機\)](https://ja.wikipedia.org/wiki/XF5F_\(航空機\))から翻訳されています。
 
 
 **XF5F スカイロケット**（*Grumman XF5F Skyrocket* ）は、[グラマン](../Page/グラマン.md "wikilink")社が開発した試作[艦上戦闘機](https://ja.wikipedia.org/wiki/艦上戦闘機 "wikilink")である。

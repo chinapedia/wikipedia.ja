@@ -1,4 +1,4 @@
-> この記事は[D](https://ja.wikipedia.org/wiki/D)から翻訳されています。
+> この記事は[ロナルド・D・レイン](https://ja.wikipedia.org/wiki/ロナルド・D・レイン)から翻訳されています。
 
 
 **R・D・レイン**（**R. D. Laing**）こと**ロナルド・ディヴィッド・レイン**（**Ronald David Laing**、[1927年](../Page/1927年.md "wikilink")[10月7日](../Page/10月7日.md "wikilink") - [1989年](../Page/1989年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")）はスコットランド出身の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[医学者](https://ja.wikipedia.org/wiki/医学者 "wikilink")、[精神科医](../Page/精神科医.md "wikilink")、[精神分析家](../Page/精神分析家.md "wikilink")。

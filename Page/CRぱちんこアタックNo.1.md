@@ -1,4 +1,4 @@
-> この記事は[CRNo.1](https://ja.wikipedia.org/wiki/CRNo.1)から翻訳されています。
+> この記事は[CRぱちんこアタックNo.1](https://ja.wikipedia.org/wiki/CRぱちんこアタックNo.1)から翻訳されています。
 
 
 **CRぱちんこアタックNo.1**（-ナンバーワン）は、[2007年](../Page/2007年.md "wikilink")に[京楽産業.](../Page/京楽産業..md "wikilink")が開発、発売した[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプのパチンコ。[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")より放送されたテレビアニメ『[アタックNo.1](../Page/アタックNo.1.md "wikilink")』のタイアップ[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。放映当時の声優陣が声をあてている事がセールスポイントだったが、当時の声優はこずえ役の小鳩くるみやシェレーニナ役の増山江威子など各チームのキャプテンを務める声優のみで、他の部員や本郷コーチは独自のキャストが起用されている。

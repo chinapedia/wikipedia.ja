@@ -1,4 +1,4 @@
-> この記事は[GB2](https://ja.wikipedia.org/wiki/GB2)から翻訳されています。
+> この記事は[ボンバーマンGB2](https://ja.wikipedia.org/wiki/ボンバーマンGB2)から翻訳されています。
 
 
 『**ボンバーマンGB2**』は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の[ボンバーマンシリーズ](../Page/ボンバーマンシリーズ.md "wikilink")第3作目。

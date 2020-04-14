@@ -1,4 +1,4 @@
-> この記事は[CR2](https://ja.wikipedia.org/wiki/CR2)から翻訳されています。
+> この記事は[CRひとみの料理教室2](https://ja.wikipedia.org/wiki/CRひとみの料理教室2)から翻訳されています。
 
 
 **CRひとみの料理教室2**（-ひとみのりょうりきょうしつ2-）は、[2001年](../Page/2001年.md "wikilink")7月に[タイヨーエレック](../Page/タイヨーエレック.md "wikilink")が開発、発売した料理が趣味の女性「ひとみ」を主人公とした[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。

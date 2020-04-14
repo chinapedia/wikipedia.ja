@@ -1,4 +1,4 @@
-> この記事は[ W](https://ja.wikipedia.org/wiki/_W)から翻訳されています。
+> この記事は[スーパーボンバーマン ぱにっくボンバーW](https://ja.wikipedia.org/wiki/スーパーボンバーマン_ぱにっくボンバーW)から翻訳されています。
 
 
 『**スーパーボンバーマン ぱにっくボンバーW**』（スーパーボンバーマン ぱにっくボンバーワールド）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")用[落ち物パズル](../Page/落ち物パズル.md "wikilink")ゲーム。スーパーファミコンにおける[ボンバーマンシリーズ](../Page/ボンバーマンシリーズ.md "wikilink")第3作目。

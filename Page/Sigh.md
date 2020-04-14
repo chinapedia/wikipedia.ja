@@ -1,7 +1,7 @@
 > この記事は[Sigh](https://ja.wikipedia.org/wiki/Sigh)から翻訳されています。
 
 
-**SIGH**（サイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[エクストリーム・メタル](https://ja.wikipedia.org/wiki/エクストリーム・メタル "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。日本のブラックメタルバンドとしては、かなり早い時期から活動している。主に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")等の海外を中心に活動しており、それらの日本のバンドの海外進出の先駆的な存在である。[メイヘム](../Page/メイヘム.md "wikilink")の[ユーロニモス](https://ja.wikipedia.org/wiki/ユーロニモス "wikilink")が立ち上げた[デスライク・サイレンス・プロダクション](https://ja.wikipedia.org/wiki/デスライク・サイレンス・プロダクション "wikilink")がアルバムをリリースした唯一の非[スカンディナヴィア](../Page/スカンディナヴィア.md "wikilink")出身のバンドである。
+**SIGH**（サイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[エクストリーム・メタル](https://ja.wikipedia.org/wiki/エクストリーム・メタル "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。日本のブラックメタルバンドとしては、かなり早い時期から活動している。主に[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")等の海外を中心に活動しており、そのような日本のバンドが海外に進出した先駆的な存在である。[メイヘム](../Page/メイヘム.md "wikilink")の[ユーロニモス](https://ja.wikipedia.org/wiki/ユーロニモス "wikilink")が立ち上げた[デスライク・サイレンス・プロダクション](https://ja.wikipedia.org/wiki/デスライク・サイレンス・プロダクション "wikilink")がアルバムをリリースした唯一の非[スカンディナヴィア](../Page/スカンディナヴィア.md "wikilink")出身のバンドである。
 
 ## メンバー
 

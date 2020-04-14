@@ -1,4 +1,4 @@
-> この記事は[PC](https://ja.wikipedia.org/wiki/PC)から翻訳されています。
+> この記事は[聖PCハイスクール](https://ja.wikipedia.org/wiki/聖PCハイスクール)から翻訳されています。
 
 
 『**聖PCハイスクール**』（セイントピーシーハイスクール）は、[1992年](../Page/1992年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から同年[9月29日](../Page/9月29日.md "wikilink")まで[テレビ東京系列局で放送されていた](https://ja.wikipedia.org/wiki/TXN "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")（[ゲーム番組](../Page/ゲーム番組.md "wikilink")）である。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")とFOUR GRAM VISUAL ENTERTAINMENTの共同製作。全26回。[ハドソン](../Page/ハドソン.md "wikilink")の一社提供。放送時間は毎週火曜 18:00 - 18:30 （[日本標準時](../Page/日本標準時.md "wikilink")）。

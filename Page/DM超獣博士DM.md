@@ -1,4 +1,4 @@
-> この記事は[DMDM](https://ja.wikipedia.org/wiki/DMDM)から翻訳されています。
+> この記事は[DM超獣博士DM](https://ja.wikipedia.org/wiki/DM超獣博士DM)から翻訳されています。
 
 
 『**DM超獣博士DM**』（デュエル・マスターズ ちょうじゅうはかせ ドクター・メテオ）は、[御狐ちひろ](https://ja.wikipedia.org/wiki/御狐ちひろ "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[デュエル・マスターズ](../Page/デュエル・マスターズ_\(漫画\).md "wikilink")』の番外に当たる。主人公・**Dr.メテオ**が最新弾のカードの能力を診断し、使い方やコンボを教える漫画である。

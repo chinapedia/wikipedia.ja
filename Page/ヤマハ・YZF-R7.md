@@ -1,4 +1,4 @@
-> この記事は[YZF-R7](https://ja.wikipedia.org/wiki/YZF-R7)から翻訳されています。
+> この記事は[ヤマハ・YZF-R7](https://ja.wikipedia.org/wiki/ヤマハ・YZF-R7)から翻訳されています。
 
 
 **ヤマハ・YZF-R7**（ワイゼットエフ-アールセブン）は、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が[1999年](../Page/1999年.md "wikilink")に発売した[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")及び[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")市場向け[オートバイ](../Page/オートバイ.md "wikilink")である。

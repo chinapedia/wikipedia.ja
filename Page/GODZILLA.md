@@ -218,6 +218,8 @@
 |                                                                   |                                                       |
 
   - ソフト版：初回放送2016年8月1日『[午後のロードショー](../Page/午後のロードショー.md "wikilink")』
+      - 演出：[佐藤敏夫](https://ja.wikipedia.org/wiki/佐藤敏夫_\(音響監督\) "wikilink")、翻訳：[木原たけし](https://ja.wikipedia.org/wiki/木原たけし "wikilink")
+      - その他：[稲葉実](../Page/稲葉実.md "wikilink")、[岩田安生](../Page/岩田安生.md "wikilink")、[青山穣](../Page/青山穣.md "wikilink")、[伊藤和晃](../Page/伊藤和晃.md "wikilink")、[秋元羊介](../Page/秋元羊介.md "wikilink")、[小関一](../Page/小関一.md "wikilink")、[田原アルノ](../Page/田原アルノ.md "wikilink")、[長島雄一](../Page/チョー_\(俳優\).md "wikilink")、[立木文彦](../Page/立木文彦.md "wikilink")、[加瀬康之](../Page/加瀬康之.md "wikilink")、[樫井笙人](../Page/樫井笙人.md "wikilink")、[鈴木紀子](https://ja.wikipedia.org/wiki/鈴木紀子 "wikilink")、[小野美幸](../Page/小野未喜.md "wikilink")、加藤正人、児玉孝子、[乃村健次](../Page/乃村健次.md "wikilink")、[坪井智浩](../Page/坪井智浩.md "wikilink")、[くわはら利晃](https://ja.wikipedia.org/wiki/くわはら利晃 "wikilink")、[武内由紀子](../Page/武内由紀子.md "wikilink")
   - 日本テレビ版：初回放送2001年7月20日『[金曜ロードショー](https://ja.wikipedia.org/wiki/金曜ロードショー "wikilink")』
 
 ## 製作の背景
@@ -339,6 +341,7 @@
   - 小林丸の船員たちは[クライド・クサツ](https://ja.wikipedia.org/wiki/クライド・クサツ "wikilink")や[加藤雅也](../Page/加藤雅也.md "wikilink")などの日系人・日本人が演じている。
   - 日本では[ミスタードーナツ](https://ja.wikipedia.org/wiki/ミスタードーナツ "wikilink")とのタイアップが図られ、[ピンバッジ](https://ja.wikipedia.org/wiki/ピンバッジ "wikilink")プレゼントなどが行われた。
   - 公開当時『[週刊少年ジャンプ](https://ja.wikipedia.org/wiki/週刊少年ジャンプ "wikilink")』に連載された『[地獄先生ぬ〜べ〜](../Page/地獄先生ぬ〜べ〜.md "wikilink")』の「ニューヨークへ行く」ではハリウッドのゴジラ・ワールド・プレミアの招待券を貰った[ぬーべーが郷子](../Page/鵺野鳴介.md "wikilink")、美樹と共に本作のゴジラに会いに行くという内容になっている。この話は版権の関係で単行本未収録である。理由はパロディではなく正式に映画『GODZILLA』のゴジラが登場し、さらに「ゴジラ」という名称が登場しているため版権の関係で未収録となったことが、[ジャンプ・コミックス](../Page/ジャンプ・コミックス.md "wikilink")第30巻に掲載されている。
+  - 本作公開1か月後に公開された『釣りバカ日誌10』冒頭で浜崎伝助と鈴木一之介がゴジラを釣る漫画のお遊びがある。
 
 ## アニメ版
 

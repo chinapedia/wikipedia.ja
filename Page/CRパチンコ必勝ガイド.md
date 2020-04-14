@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRパチンコ必勝ガイド](https://ja.wikipedia.org/wiki/CRパチンコ必勝ガイド)から翻訳されています。
 
 
 **CRパチンコ必勝ガイド～古代P文明の秘密**（-ぱちんこひっしょうがいどこだいぴーぶんめいのひみつ）は、[2001年](../Page/2001年.md "wikilink")8月に[テクモ](../Page/テクモ.md "wikilink")（現・[コーエーテクモウェーブ](https://ja.wikipedia.org/wiki/コーエーテクモウェーブ "wikilink")）が開発し、[サンセイアールアンドディ](https://ja.wikipedia.org/wiki/サンセイアールアンドディ "wikilink")が発売した冒険家を主人公とした[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。『[パチンコ必勝ガイド](https://ja.wikipedia.org/wiki/パチンコ必勝ガイド "wikilink")』とのタイアップ機。

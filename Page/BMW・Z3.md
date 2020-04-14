@@ -1,4 +1,4 @@
-> この記事は[BMWZ3](https://ja.wikipedia.org/wiki/BMWZ3)から翻訳されています。
+> この記事は[BMW・Z3](https://ja.wikipedia.org/wiki/BMW・Z3)から翻訳されています。
 
 
 [BMW_Z3_1999.JPG](https://ja.wikipedia.org/wiki/File:BMW_Z3_1999.JPG "fig:BMW_Z3_1999.JPG") **Z3**（ズィー・スリー、ツェット・ドライ）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー[BMW](../Page/BMW.md "wikilink")が製造していた[クーペ](../Page/クーペ.md "wikilink")または[オープンタイプの](../Page/オープンカー.md "wikilink")[乗用車](../Page/乗用車.md "wikilink")である。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[サウスカロライナ州](../Page/サウスカロライナ州.md "wikilink")に完成した工場にて製造された初めてのBMW車であった。1代限りで生産は終了した。本稿では主に日本に導入されたモデルについて述べる。

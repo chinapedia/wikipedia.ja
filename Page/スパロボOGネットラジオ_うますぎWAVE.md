@@ -1,4 +1,4 @@
-> この記事は[OG WAVE](https://ja.wikipedia.org/wiki/OG_WAVE)から翻訳されています。
+> この記事は[スパロボOGネットラジオ うますぎWAVE](https://ja.wikipedia.org/wiki/スパロボOGネットラジオ_うますぎWAVE)から翻訳されています。
 
 
 **スパロボOGネットラジオ うますぎWAVE**（スパロボ オージー ネットラジオ うますぎウェーブ）は、[BEAT☆Net Radio\!及び](../Page/BEAT☆Net_Radio!.md "wikilink")[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")にて[2007年](../Page/2007年.md "wikilink")[1月9日](../Page/1月9日.md "wikilink")から毎週火曜日に配信されている、アニメ『[スーパーロボット大戦OG -ディバイン・ウォーズ-](../Page/スーパーロボット大戦OG_-ディバイン・ウォーズ-.md "wikilink")』並びにゲーム「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」と連動した[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")番組。

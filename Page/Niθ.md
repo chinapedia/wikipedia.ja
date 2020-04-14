@@ -1,4 +1,4 @@
-> この記事は[Ni](https://ja.wikipedia.org/wiki/Ni)から翻訳されています。
+> この記事は[Niθ](https://ja.wikipedia.org/wiki/Niθ)から翻訳されています。
 
 
 **Niθ**（ニシー）、は元[ニトロプラス](../Page/ニトロプラス.md "wikilink")社員で現在フリーの[原画家](https://ja.wikipedia.org/wiki/原画家 "wikilink")、[イラストレーター](../Page/イラストレーター.md "wikilink")、メカニックデザイナー。[兵庫県](../Page/兵庫県.md "wikilink")出身。

@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[アニメージュTV](https://ja.wikipedia.org/wiki/アニメージュTV)から翻訳されています。
 
 
 『**アニメージュTV**』（アニメージュ ティーヴィー）は、[徳間書店](../Page/徳間書店.md "wikilink")が制作していた[アニメ](../Page/アニメ.md "wikilink")関連の[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。
@@ -50,4 +50,4 @@
 
   - [アニメ問わず語り](http://web.archive.org/web/20100329031240/http://www.fami-geki.com/towazu/)（2010年3月29日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
-[Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:徳間書店の歴史](https://ja.wikipedia.org/wiki/Category:徳間書店の歴史 "wikilink") [Category:アニメ・ゲーム情報番組](https://ja.wikipedia.org/wiki/Category:アニメ・ゲーム情報番組 "wikilink") [Category:テレビ神奈川の番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組 "wikilink")
+[Category:1999年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のテレビ番組_\(日本\) "wikilink") [Category:徳間書店の歴史](https://ja.wikipedia.org/wiki/Category:徳間書店の歴史 "wikilink") [Category:アニメ・ゲーム情報番組](https://ja.wikipedia.org/wiki/Category:アニメ・ゲーム情報番組 "wikilink") [Category:テレビ神奈川の番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の番組の歴史 "wikilink")

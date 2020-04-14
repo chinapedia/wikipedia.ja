@@ -1,4 +1,4 @@
-> この記事は[I\'m Here \(\)](https://ja.wikipedia.org/wiki/I\'m_Here_\(\))から翻訳されています。
+> この記事は[I\'m Here \(伊藤由奈の曲\)](https://ja.wikipedia.org/wiki/I\'m_Here_\(伊藤由奈の曲\))から翻訳されています。
 
 
 「**I'm Here**」（アイム・ヒア）は、[伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")の7枚目の[シングル](../Page/シングル.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売。発売元は[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")。

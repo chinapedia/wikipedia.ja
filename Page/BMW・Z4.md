@@ -1,4 +1,4 @@
-> この記事は[BMWZ4](https://ja.wikipedia.org/wiki/BMWZ4)から翻訳されています。
+> この記事は[BMW・Z4](https://ja.wikipedia.org/wiki/BMW・Z4)から翻訳されています。
 
 
 **Z4**（ズィー・フォー、ツェット・フィーア）は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー・[BMW](../Page/BMW.md "wikilink")が製造・販売している[スポーツカー](../Page/スポーツカー.md "wikilink")である。[クーペ](../Page/クーペ.md "wikilink")または[ロードスターのボディ形式を持つ](../Page/オープンカー.md "wikilink")。

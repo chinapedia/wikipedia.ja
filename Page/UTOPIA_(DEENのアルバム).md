@@ -1,4 +1,4 @@
-> この記事は[UTOPIA \(DEEN\)](https://ja.wikipedia.org/wiki/UTOPIA_\(DEEN\))から翻訳されています。
+> この記事は[UTOPIA \(DEENのアルバム\)](https://ja.wikipedia.org/wiki/UTOPIA_\(DEENのアルバム\))から翻訳されています。
 
 
 **UTOPIA**（ユートピア）は[DEEN](../Page/DEEN.md "wikilink")のオリジナルアルバム。前作からおよそ1年振りのリリースとなった。

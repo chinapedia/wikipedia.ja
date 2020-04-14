@@ -1,4 +1,4 @@
-> この記事は[MAS 36](https://ja.wikipedia.org/wiki/MAS_36)から翻訳されています。
+> この記事は[MAS 36小銃](https://ja.wikipedia.org/wiki/MAS_36小銃)から翻訳されています。
 
 
 **MAS 36**（**M**anufacture d**'A**rmes de **S**aint-Etienne Modèle **36**）は、ベルティエ小銃や[ルベルM1886小銃](../Page/ルベルM1886小銃.md "wikilink")の後継[小銃](../Page/小銃.md "wikilink")として[1932年](../Page/1932年.md "wikilink")に[試作された](../Page/プロトタイプ.md "wikilink")**MAS 32**を改良し、完成した小銃である。[1936年](../Page/1936年.md "wikilink")に[フランス軍](../Page/フランス軍.md "wikilink")に制式採用され、その製造はMAS（[サン＝テティエンヌ](../Page/サン＝テティエンヌ.md "wikilink")造兵廠）で行われた。

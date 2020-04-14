@@ -1,4 +1,4 @@
-> この記事は[RADWIMPS 2 ](https://ja.wikipedia.org/wiki/RADWIMPS_2_)から翻訳されています。
+> この記事は[RADWIMPS 2 〜発展途上〜](https://ja.wikipedia.org/wiki/RADWIMPS_2_〜発展途上〜)から翻訳されています。
 
 
 『**RADWIMPS 2 〜発展途上〜**』（ラッドウィンプス・ツー 〜はってんとじょう〜）は、[2005年](../Page/2005年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")にリリースされた[RADWIMPS](https://ja.wikipedia.org/wiki/RADWIMPS "wikilink")の2枚目のアルバムである。インディーズ最後のアルバムでもある。

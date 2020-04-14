@@ -1,4 +1,4 @@
-> この記事は[GB](https://ja.wikipedia.org/wiki/GB)から翻訳されています。
+> この記事は[ボンバーマンGB](https://ja.wikipedia.org/wiki/ボンバーマンGB)から翻訳されています。
 
 
 『**ボンバーマンGB**』は、[1994年](../Page/1994年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")に[ハドソン](../Page/ハドソン.md "wikilink")から発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")。[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")の[ボンバーマンシリーズ](../Page/ボンバーマンシリーズ.md "wikilink")第2作目。
@@ -76,5 +76,5 @@
   -
 [Category:1994年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1994年のコンピュータゲーム "wikilink") [Category:ボンバーマン](https://ja.wikipedia.org/wiki/Category:ボンバーマン "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:コンピュータゲームのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:コンピュータゲームのクロスオーバー作品 "wikilink")
 
-1.  なお、プロローグは廃止されているが、性能とストーリーは日本版と同じ。
+1.  なお、プロローグは廃止されているが、ストーリーは日本版と同じ。
 2.  海外版では初めにプレイヤーキャラクターをワリオかボンバーマンから選択し、ボンバーマンはシャドウワリオ一味と戦い、ワリオはブラックボンバーマン一味と戦う。

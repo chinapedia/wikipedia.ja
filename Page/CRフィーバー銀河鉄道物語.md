@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRフィーバー銀河鉄道物語](https://ja.wikipedia.org/wiki/CRフィーバー銀河鉄道物語)から翻訳されています。
 
 
 **CRフィーバー銀河鉄道物語**（しーあーるふぃーばーぎんがてつどうものがたり）は、[三共から](../Page/三共_\(パチンコ\).md "wikilink")[2006年](../Page/2006年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[銀河鉄道物語](https://ja.wikipedia.org/wiki/銀河鉄道物語 "wikilink")とのタイアップ機。三共と[松本零士](../Page/松本零士.md "wikilink")のコラボレーション作品第3弾（第2弾は[CRF大ヤマト2](../Page/CRフィーバー大ヤマト.md "wikilink")）。

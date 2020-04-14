@@ -1,4 +1,4 @@
-> この記事は[ANZEN](https://ja.wikipedia.org/wiki/ANZEN)から翻訳されています。
+> この記事は[ANZENグループ](https://ja.wikipedia.org/wiki/ANZENグループ)から翻訳されています。
 
 
 **ANZENグループ**（あんぜんグループ ANZEN Group株式会社）は、[東京](../Page/東京都.md "wikilink")[23区](../Page/東京都区部.md "wikilink")[武](../Page/武蔵野市.md "wikilink")[三地区を営業地域にしていた運行車両数約](../Page/三鷹市.md "wikilink")640台\[1\]のタクシー事業者である\[2\]。

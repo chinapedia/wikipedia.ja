@@ -1,4 +1,4 @@
-> この記事は[I scream \(\)](https://ja.wikipedia.org/wiki/I_scream_\(\))から翻訳されています。
+> この記事は[I scream \(北出菜奈のアルバム\)](https://ja.wikipedia.org/wiki/I_scream_\(北出菜奈のアルバム\))から翻訳されています。
 
 
 『**I scream**』（アイ スクリーム）は、[2006年](../Page/2006年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink")にリリースされた[北出菜奈](../Page/北出菜奈.md "wikilink")の2枚目のアルバム。
@@ -100,7 +100,7 @@ SECL-451～SECL-453, ¥7,777
 
 ## 外部リンク
 
-  - [I scream](http://www.sonymusic.co.jp/Music/Arch/SMER/NanaKitade/SECL-455/index.html)
-  - [I scream 初回生産限定盤](http://www.sonymusic.co.jp/Music/Arch/SMER/NanaKitade/SECL-451/index.html)
+  - [I scream](https://www.sonymusic.co.jp/artist/NanaKitade/discography/SECL-455)
+  - [I scream 初回生産限定盤](https://www.sonymusic.co.jp/artist/NanaKitade/discography/SECL-451)
 
 [Category:エスエムイーレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:エスエムイーレコーズのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:北出菜奈のアルバム](https://ja.wikipedia.org/wiki/Category:北出菜奈のアルバム "wikilink")

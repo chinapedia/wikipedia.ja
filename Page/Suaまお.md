@@ -1,4 +1,4 @@
-> この記事は[Sua](https://ja.wikipedia.org/wiki/Sua)から翻訳されています。
+> この記事は[Suaまお](https://ja.wikipedia.org/wiki/Suaまお)から翻訳されています。
 
 
 **Suaまお**（**すあまお**）は[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")の[Suara](../Page/Suara.md "wikilink")と[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[ゆうまお](../Page/ゆうまお.md "wikilink")による、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")である。

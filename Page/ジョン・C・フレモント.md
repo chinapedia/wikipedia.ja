@@ -1,4 +1,4 @@
-> この記事は[C](https://ja.wikipedia.org/wiki/C)から翻訳されています。
+> この記事は[ジョン・C・フレモント](https://ja.wikipedia.org/wiki/ジョン・C・フレモント)から翻訳されています。
 
 
 **ジョン・チャールズ・フレモント**（**John Charles Frémont**、[1813年](../Page/1813年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink") - [1890年](../Page/1890年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink")）、本名ジョン・チャールズ・フリーモント（John Charles Fremont）は、[アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink")[将校](../Page/将校.md "wikilink")で[探検家](../Page/探検家.md "wikilink")。[共和党の最初の](../Page/共和党_\(アメリカ\).md "wikilink")[アメリカ合衆国大統領](../Page/アメリカ合衆国大統領.md "wikilink")候補者であり、また[奴隷制](../Page/奴隷制.md "wikilink")に反対した政治要綱を持つ多数党からの最初の大統領候補者。自らを「偉大な開拓者（The Great Pathfinder）」の称号で名乗った。[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")から初めて選出された合衆国上院議員の一人でもある。

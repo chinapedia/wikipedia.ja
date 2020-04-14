@@ -1,4 +1,4 @@
-> この記事は[ \(Salcedo\)](https://ja.wikipedia.org/wiki/_\(Salcedo\))から翻訳されています。
+> この記事は[サルチェード \(Salcedo\)](https://ja.wikipedia.org/wiki/サルチェード_\(Salcedo\))から翻訳されています。
 
 
 |frazioni = Laverda |comuniLimitrofi = [\#隣接コムーネ](https://ja.wikipedia.org/wiki/#隣接コムーネ "wikilink")参照 |cap = 36040 |prefisso = 0445 |istat = 024090 |fiscale = F810 |zonaSismica = 3 |nomeAbitanti = salcedesi |patrono = [聖アンナ](../Page/アンナ_\(マリアの母\).md "wikilink") ([Sant'Anna](https://ja.wikipedia.org/wiki/:it:Sant'Anna "wikilink")) |festivo = 7月26日 |gradiGiorno = 2579 |sito = <http://www.comune.salcedo.vi.it/> |Mappa = Map of comune of Salcedo (province of Vicenza, region Veneto, Italy).svg |Didascalia mappa=ヴィチェンツァ県におけるコムーネの領域  }} **サルチェード**（）は、[イタリア](../Page/イタリア.md "wikilink")共和国[ヴェネト州](../Page/ヴェネト州.md "wikilink")[ヴィチェンツァ県](../Page/ヴィチェンツァ県.md "wikilink")にある、人口約1,000人の[基礎自治体](../Page/基礎自治体.md "wikilink")（[コムーネ](../Page/コムーネ.md "wikilink")）である。

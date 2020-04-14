@@ -1,4 +1,4 @@
-> この記事は[JIN--](https://ja.wikipedia.org/wiki/JIN--)から翻訳されています。
+> この記事は[JIN-仁-](https://ja.wikipedia.org/wiki/JIN-仁-)から翻訳されています。
 
 
 『**JIN-仁-**』（じん）は、[村上もとか](../Page/村上もとか.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。また、これを[原作](../Page/原作.md "wikilink")とする[テレビドラマ](../Page/テレビドラマ.md "wikilink")のシリーズ。

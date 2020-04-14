@@ -1,4 +1,4 @@
-> この記事は[Love again \(\)](https://ja.wikipedia.org/wiki/Love_again_\(\))から翻訳されています。
+> この記事は[Love again \(アルバム\)](https://ja.wikipedia.org/wiki/Love_again_\(アルバム\))から翻訳されています。
 
 
 『**Love again**』（ラヴ・アゲイン）は、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")の3枚目のフル[アルバム](../Page/アルバム.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")発売。発売元は[avex globe](https://ja.wikipedia.org/wiki/avex_globe "wikilink")。

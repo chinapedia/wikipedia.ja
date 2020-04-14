@@ -1,4 +1,4 @@
-> この記事は[TS-](https://ja.wikipedia.org/wiki/TS-)から翻訳されています。
+> この記事は[TS-タカタサーキット](https://ja.wikipedia.org/wiki/TS-タカタサーキット)から翻訳されています。
 
 
 **TS-タカタサーキット**（ティーエス-タカタサーキット）は、[広島県](../Page/広島県.md "wikilink")[安芸高田市](../Page/安芸高田市.md "wikilink")にある[サーキット](../Page/サーキット.md "wikilink")である。有限会社ボデーショップタカタが運営。

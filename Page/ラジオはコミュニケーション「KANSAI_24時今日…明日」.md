@@ -1,4 +1,4 @@
-> この記事は[KANSAI 24](https://ja.wikipedia.org/wiki/KANSAI_24)から翻訳されています。
+> この記事は[ラジオはコミュニケーション「KANSAI 24時今日…明日」](https://ja.wikipedia.org/wiki/ラジオはコミュニケーション「KANSAI_24時今日…明日」)から翻訳されています。
 
 
 **ラジオはコミュニケーション「KANSAI 24時今日…明日」**は、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[8月31日](../Page/8月31日.md "wikilink")から[9月1日](../Page/9月1日.md "wikilink")まで、[大阪市](../Page/大阪市.md "wikilink")に本社をもつテレビ・ラジオ放送局、[毎日放送](../Page/毎日放送.md "wikilink")の開局記念に放送された、ラジオ特別番組である。なお、同じタイトル、同じ趣旨で翌年の1988年、1989年にも番組が放送されているが、この項では第1回にあたる1987年の放送について取り上げる。

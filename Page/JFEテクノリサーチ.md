@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEテクノリサーチ](https://ja.wikipedia.org/wiki/JFEテクノリサーチ)から翻訳されています。
 
 
 **JFEテクノリサーチ株式会社**は、[JFEスチール](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")グループの[企業](../Page/企業.md "wikilink")。技術サービスの会社として、[材料](https://ja.wikipedia.org/wiki/材料 "wikilink")、[環境](../Page/環境.md "wikilink")、[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")、[ITなどの技術分野において](../Page/情報技術.md "wikilink")、各種分析・評価、計測診断、数値解析、材料・構造試験、技術・知財調査、技術翻訳、システム・計測機器販売および[ISOマネジメント支援等の事業を展開している](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[ \(STEM\)](https://ja.wikipedia.org/wiki/_\(STEM\))から翻訳されています。
+> この記事は[茎 \(STEM\)](https://ja.wikipedia.org/wiki/茎_\(STEM\))から翻訳されています。
 
 
 「**茎（STEM）**」（ステム）または「**茎**」（くき）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")・[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")による[楽曲](https://ja.wikipedia.org/wiki/楽曲 "wikilink")。初出は[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（当時）より[2003年](../Page/2003年.md "wikilink")[1月22日](../Page/1月22日.md "wikilink")に発売された8枚目\[1\]の[シングル](../Page/シングル.md "wikilink")『**茎（STEM）〜大名遊ビ編〜**』に収録されている同名表題曲。

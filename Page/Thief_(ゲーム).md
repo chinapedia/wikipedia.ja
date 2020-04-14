@@ -1,4 +1,4 @@
-> この記事は[Thief \(\)](https://ja.wikipedia.org/wiki/Thief_\(\))から翻訳されています。
+> この記事は[Thief \(ゲーム\)](https://ja.wikipedia.org/wiki/Thief_\(ゲーム\))から翻訳されています。
 
 
 『**Thief**』（シーフ）は[アイドス](../Page/アイドス.md "wikilink")社が発売したPC用ゲームソフト、及びそのシリーズ。ジャンルは[ステルス系](../Page/ステルスゲーム.md "wikilink")[FPS](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")。

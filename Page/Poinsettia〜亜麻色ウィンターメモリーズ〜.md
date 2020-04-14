@@ -1,4 +1,4 @@
-> この記事は[Poinsettia](https://ja.wikipedia.org/wiki/Poinsettia)から翻訳されています。
+> この記事は[Poinsettia〜亜麻色ウィンターメモリーズ〜](https://ja.wikipedia.org/wiki/Poinsettia〜亜麻色ウィンターメモリーズ〜)から翻訳されています。
 
 
 『**Poinsettia〜亜麻色ウィンターメモリーズ〜**』（ポインセチア〜あまいろウィンターメモリーズ〜）は、[島谷ひとみ](https://ja.wikipedia.org/wiki/島谷ひとみ "wikilink")のミニアルバム。[2002年](../Page/2002年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")発売。[avex traxよりリリース](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[CCCD](../Page/コピーコントロールCD.md "wikilink")）。

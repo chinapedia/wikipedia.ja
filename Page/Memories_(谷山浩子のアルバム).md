@@ -1,4 +1,4 @@
-> この記事は[Memories \(\)](https://ja.wikipedia.org/wiki/Memories_\(\))から翻訳されています。
+> この記事は[Memories \(谷山浩子のアルバム\)](https://ja.wikipedia.org/wiki/Memories_\(谷山浩子のアルバム\))から翻訳されています。
 
 
 『**Memories**』（メモリーズ）は[谷山浩子](../Page/谷山浩子.md "wikilink")の24作目のアルバムで、3作目のオリジナルベストアルバム。

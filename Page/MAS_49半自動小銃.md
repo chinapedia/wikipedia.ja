@@ -1,4 +1,4 @@
-> この記事は[MAS 49](https://ja.wikipedia.org/wiki/MAS_49)から翻訳されています。
+> この記事は[MAS 49半自動小銃](https://ja.wikipedia.org/wiki/MAS_49半自動小銃)から翻訳されています。
 
 
 **MAS-49小銃**は、[MAS-36](../Page/MAS_36小銃.md "wikilink")[ボルトアクション](https://ja.wikipedia.org/wiki/ボルトアクション "wikilink")式小銃の後継小銃として[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")後にMAS(：[サン＝テティエンヌ](../Page/サン＝テティエンヌ.md "wikilink")造兵廠)にて設計された[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")製の[歩兵](../Page/歩兵.md "wikilink")用[セミオートマチック](https://ja.wikipedia.org/wiki/オートマチック方式_\(ライフル\) "wikilink")[小銃](../Page/小銃.md "wikilink")である。

@@ -1,4 +1,4 @@
-> この記事は[ \(BB-7\)](https://ja.wikipedia.org/wiki/_\(BB-7\))から翻訳されています。
+> この記事は[イリノイ \(BB-7\)](https://ja.wikipedia.org/wiki/イリノイ_\(BB-7\))から翻訳されています。
 
 
 |                                                                                                                 |
@@ -43,8 +43,11 @@
 
 ## 外部リンク
 
+  -
   - [NAVAL HISTORICAL CENTER USS Illinois (Battleship \# 7, later BB-7), 1901-1956. Later renamed Prairie State and designated IX-15.](http://www.history.navy.mil/photos/sh-usn/usnsh-i/bb7.htm)
+
   - [Maritimequest USS Illinois BB-7 Photo Gallery](http://www.maritimequest.com/warship_directory/us_navy_pages/uss_illinois_bb7.htm)
+
   - [NavSource Online: Battleship Photo Archive BB-7 USS ILLINOIS 1898 - 1905](http://www.navsource.org/archives/01/07a.htm)
 
 [Category:イリノイ級戦艦](https://ja.wikipedia.org/wiki/Category:イリノイ級戦艦 "wikilink") [Category:アメリカ合衆国の雑役艦](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の雑役艦 "wikilink") [Category:1901年竣工船](https://ja.wikipedia.org/wiki/Category:1901年竣工船 "wikilink")

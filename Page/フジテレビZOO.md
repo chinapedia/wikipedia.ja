@@ -1,4 +1,4 @@
-> この記事は[ZOO](https://ja.wikipedia.org/wiki/ZOO)から翻訳されています。
+> この記事は[フジテレビZOO](https://ja.wikipedia.org/wiki/フジテレビZOO)から翻訳されています。
 
 
 **フジテレビZOO**（フジテレビズー）は、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")公式[ウェブサイト](../Page/ウェブサイト.md "wikilink")内のオリジナルコンテンツ。[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")制作スタッフによる情報発信・コンテンツ配信を行っている。2006年11月16日開始。

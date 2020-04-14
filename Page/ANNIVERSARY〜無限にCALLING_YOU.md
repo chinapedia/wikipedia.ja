@@ -1,4 +1,4 @@
-> この記事は[ANNIVERSARYCALLING YOU](https://ja.wikipedia.org/wiki/ANNIVERSARYCALLING_YOU)から翻訳されています。
+> この記事は[ANNIVERSARY〜無限にCALLING YOU](https://ja.wikipedia.org/wiki/ANNIVERSARY〜無限にCALLING_YOU)から翻訳されています。
 
 
 「**ANNIVERSARY〜無限にCALLING YOU**」（アニバーサリー むげんにコーリング・ユー）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の23枚目のシングル。[1989年](../Page/1989年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に[東芝EMIからリリースされた](../Page/EMIミュージック・ジャパン.md "wikilink")（[EP](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")：RT07-2371、[CT](../Page/コンパクトカセット.md "wikilink")：ZT10-2371、[CDS](https://ja.wikipedia.org/wiki/8センチCD "wikilink")：XT10-2371）。シングルカセットのみオリジナル・カラオケを収録。[EPレコード盤での最後の作品である](https://ja.wikipedia.org/wiki/レコード#レコードの諸形態 "wikilink")。21枚目のオリジナルアルバム『[LOVE WARS](../Page/LOVE_WARS.md "wikilink")』にalbum mixで収録され、サブタイトルは外されている。35枚目のシングル『[7 TRUTHS 7 LIES〜ヴァージンロードの彼方で](../Page/7_TRUTHS_7_LIES〜ヴァージンロードの彼方で.md "wikilink")』にalbum mixで再収録。

@@ -1,4 +1,4 @@
-> この記事は[FOREVER LOVE \(\)](https://ja.wikipedia.org/wiki/FOREVER_LOVE_\(\))から翻訳されています。
+> この記事は[FOREVER LOVE \(鈴木亜美の曲\)](https://ja.wikipedia.org/wiki/FOREVER_LOVE_\(鈴木亜美の曲\))から翻訳されています。
 
 
 「**FOREVER LOVE**」（フォーエヴァー・ラブ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")の1枚目の[インディーズ](../Page/インディーズ.md "wikilink")[シングル](../Page/シングル.md "wikilink")である。

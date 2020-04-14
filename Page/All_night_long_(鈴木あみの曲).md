@@ -1,4 +1,4 @@
-> この記事は[All night long \(\)](https://ja.wikipedia.org/wiki/All_night_long_\(\))から翻訳されています。
+> この記事は[All night long \(鈴木あみの曲\)](https://ja.wikipedia.org/wiki/All_night_long_\(鈴木あみの曲\))から翻訳されています。
 
 
 「**all night long**」（オール・ナイト・ロング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")、[鈴木あみの](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")3枚目のシングルである。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[TRUE KiSS DiSCよりリリースされた](../Page/TRUE_KiSS_DiSC.md "wikilink")。

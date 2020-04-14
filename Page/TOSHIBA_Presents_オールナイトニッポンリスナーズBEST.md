@@ -1,4 +1,4 @@
-> この記事は[TOSHIBA Presents BEST](https://ja.wikipedia.org/wiki/TOSHIBA_Presents_BEST)から翻訳されています。
+> この記事は[TOSHIBA Presents オールナイトニッポンリスナーズBEST](https://ja.wikipedia.org/wiki/TOSHIBA_Presents_オールナイトニッポンリスナーズBEST)から翻訳されています。
 
 
 **[TOSHIBA](../Page/東芝.md "wikilink") Presents オールナイトニッポンリスナーズBEST**（とうしばプレゼンツ オールナイトニッポンリスナーズベスト）は[ニッポン放送](../Page/ニッポン放送.md "wikilink")の人気[深夜放送](../Page/深夜放送.md "wikilink")[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")の[土曜日](../Page/土曜日.md "wikilink")で、[吉田尚記](../Page/吉田尚記.md "wikilink")（ニッポン放送[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）が[パーソナリティ担当の](../Page/ラジオパーソナリティ.md "wikilink")[生放送](../Page/生放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。

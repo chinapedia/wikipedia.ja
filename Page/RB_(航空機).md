@@ -1,4 +1,4 @@
-> この記事は[RB \(\)](https://ja.wikipedia.org/wiki/RB_\(\))から翻訳されています。
+> この記事は[RB \(航空機\)](https://ja.wikipedia.org/wiki/RB_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称= バッド RB コネストガ | 画像= <File:Budd_RB_Conestoga_in_flight.jpg> | キャプション= | 用途=[輸送機](../Page/輸送機.md "wikilink") | 分類= | 設計者= | 製造者= [バッド](../Page/バッド_\(車両メーカー\).md "wikilink") | 運用者=[アメリカ海軍](../Page/アメリカ海軍.md "wikilink")、[フライング・タイガー・ライン](../Page/フライング・タイガー・ライン.md "wikilink") | 初飛行年月日=[1943年](../Page/1943年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink") | 生産数=20機 | 生産開始年月日= | 運用開始年月日=[1944年](../Page/1944年.md "wikilink") | 退役年月日= | 運用状況= | ユニットコスト= }} **バッド RB-1**（Budd RB-1）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")中に[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[バッド社が開発した](../Page/バッド_\(車両メーカー\).md "wikilink")[輸送機](../Page/輸送機.md "wikilink")である。愛称は**コネストガ**（Conestoga、[西部開拓時代](../Page/西部開拓時代.md "wikilink")に用いられた大型の[幌馬車](https://ja.wikipedia.org/wiki/幌馬車 "wikilink")の意）。

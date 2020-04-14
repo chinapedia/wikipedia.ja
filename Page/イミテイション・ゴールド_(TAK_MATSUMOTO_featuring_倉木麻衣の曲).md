@@ -1,4 +1,4 @@
-> この記事は[ \(TAK MATSUMOTO featuring \)](https://ja.wikipedia.org/wiki/_\(TAK_MATSUMOTO_featuring_\))から翻訳されています。
+> この記事は[イミテイション・ゴールド \(TAK MATSUMOTO featuring 倉木麻衣の曲\)](https://ja.wikipedia.org/wiki/イミテイション・ゴールド_\(TAK_MATSUMOTO_featuring_倉木麻衣の曲\))から翻訳されています。
 
 
 『**イミテイション・ゴールド**』は、[TAK MATSUMOTO](../Page/松本孝弘.md "wikilink") featuring [倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")の[シングル](../Page/シングル.md "wikilink")。CDコードはBMCV-5005。
@@ -33,4 +33,4 @@
 
   - [THE HIT PARADE](../Page/THE_HIT_PARADE_\(松本孝弘のアルバム\).md "wikilink")（\#1,2）
 
-[Category:松本孝弘の楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘の楽曲 "wikilink") [Category:2003年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2003年のコラボレーション・シングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:嬰ヘ短調](https://ja.wikipedia.org/wiki/Category:嬰ヘ短調 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")
+[Category:松本孝弘の楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘の楽曲 "wikilink") [Category:2003年のコラボレーション・シングル](https://ja.wikipedia.org/wiki/Category:2003年のコラボレーション・シングル "wikilink") [Category:2003年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2003年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:楽曲_い](https://ja.wikipedia.org/wiki/Category:楽曲_い "wikilink")

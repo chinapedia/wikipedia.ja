@@ -1,4 +1,4 @@
-> この記事は[ICM](https://ja.wikipedia.org/wiki/ICM)から翻訳されています。
+> この記事は[ICMパートナーズ](https://ja.wikipedia.org/wiki/ICMパートナーズ)から翻訳されています。
 
 
 **ICMパートナーズ**（**ICM Partners**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の大手エージェンシーの1つ。1975年創立の俳優、監督、脚本家等の映画、テレビタレント数千人を擁する巨大エージェンシー。[クリエイティブ・アーティスツ・エージェンシー](https://ja.wikipedia.org/wiki/クリエイティブ・アーティスツ・エージェンシー "wikilink")、[ウィリアム・モリス・エンデヴァー](../Page/ウィリアム・モリス・エンデヴァー・エンターテイメント.md "wikilink")、[ユナイテッド・タレント・エージェンシー](../Page/ユナイテッド・タレント・エージェンシー.md "wikilink")、と並び、ハリウッド4大エージェンシーに数えられる。

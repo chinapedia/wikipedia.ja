@@ -1,4 +1,4 @@
-> この記事は[VOYAGER](https://ja.wikipedia.org/wiki/VOYAGER)から翻訳されています。
+> この記事は[VOYAGER〜日付のない墓標](https://ja.wikipedia.org/wiki/VOYAGER〜日付のない墓標)から翻訳されています。
 
 
 「**VOYAGER〜日付のない墓標**」（ボイジャー ひづけのないぼひょう）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン） の20枚目のシングル。

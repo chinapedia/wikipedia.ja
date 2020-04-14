@@ -1,4 +1,4 @@
-> この記事は[\'88Love Story](https://ja.wikipedia.org/wiki/\'88Love_Story)から翻訳されています。
+> この記事は[\'88〜Love Story](https://ja.wikipedia.org/wiki/\'88〜Love_Story)から翻訳されています。
 
 
 『**'88〜Love Story／Love Ya**』（エイティエイト ラブ ストーリー／ラブ・ヤ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")が[1991年](../Page/1991年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")にリリースした1stシングル。

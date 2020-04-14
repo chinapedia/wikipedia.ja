@@ -59,7 +59,7 @@
 
   - [1999年の音楽](../Page/1999年の音楽.md "wikilink")
 
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:松本孝弘の楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘の楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:ホ短調](https://ja.wikipedia.org/wiki/Category:ホ短調 "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink")
+[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:松本孝弘の楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘の楽曲 "wikilink") [Category:松本孝弘が制作した楽曲](https://ja.wikipedia.org/wiki/Category:松本孝弘が制作した楽曲 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink")
 
 1.
 2.

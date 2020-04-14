@@ -1,4 +1,4 @@
-> この記事は[BRA](https://ja.wikipedia.org/wiki/BRA)から翻訳されています。
+> この記事は[BRA航空](https://ja.wikipedia.org/wiki/BRA航空)から翻訳されています。
 
 
 [Oficinas_de_BRA.jpg](https://ja.wikipedia.org/wiki/File:Oficinas_de_BRA.jpg "fig:Oficinas_de_BRA.jpg") **BRA航空**（BRAこうくう、BRA Transportes Aéreos）は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")にかつて存在した[航空会社](../Page/航空会社.md "wikilink")。[2007年](../Page/2007年.md "wikilink")11月7日に経営難から全便の運航を停止した。ブラジルでは[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink")読みにより「**ベーエヒアー**」と呼ぶ。

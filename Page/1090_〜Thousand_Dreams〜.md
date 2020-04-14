@@ -1,4 +1,4 @@
-> この記事は[1090 Thousand Dreams](https://ja.wikipedia.org/wiki/1090_Thousand_Dreams)から翻訳されています。
+> この記事は[1090 〜Thousand Dreams〜](https://ja.wikipedia.org/wiki/1090_〜Thousand_Dreams〜)から翻訳されています。
 
 
 「**\#1090 〜Thousand Dreams〜**」（ワンオーナインオー サウザンド・ドリームズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")[B'z](../Page/B'z.md "wikilink")の[松本孝弘](../Page/松本孝弘.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")にリリースした、2作目の[シングル](../Page/シングル.md "wikilink")。

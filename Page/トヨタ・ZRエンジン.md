@@ -1,4 +1,4 @@
-> この記事は[ZR](https://ja.wikipedia.org/wiki/ZR)から翻訳されています。
+> この記事は[トヨタ・ZRエンジン](https://ja.wikipedia.org/wiki/トヨタ・ZRエンジン)から翻訳されています。
 
 
 **ZRエンジン**とは、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[水冷](../Page/水冷エンジン.md "wikilink")[直列4気筒](../Page/直列4気筒.md "wikilink")[ガソリンエンジン](../Page/ガソリンエンジン.md "wikilink")の系列である。

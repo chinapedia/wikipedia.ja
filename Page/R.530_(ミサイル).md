@@ -1,4 +1,4 @@
-> この記事は[R.530 \(\)](https://ja.wikipedia.org/wiki/R.530_\(\))から翻訳されています。
+> この記事は[R.530 \(ミサイル\)](https://ja.wikipedia.org/wiki/R.530_\(ミサイル\))から翻訳されています。
 
 
 **R.530**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[マトラ](../Page/マトラ.md "wikilink")社製の[短射程空対空ミサイル](https://ja.wikipedia.org/wiki/空対空ミサイル#WVR "wikilink")。

@@ -1,4 +1,4 @@
-> この記事は[RPD](https://ja.wikipedia.org/wiki/RPD)から翻訳されています。
+> この記事は[RPD軽機関銃](https://ja.wikipedia.org/wiki/RPD軽機関銃)から翻訳されています。
 
 
 **RPD**（, 略称：РПД）は、[SKSカービン](https://ja.wikipedia.org/wiki/SKSカービン "wikilink")用に開発された[7.62x39mm弾](../Page/7.62x39mm弾.md "wikilink")を使用する[分隊支援火器](../Page/分隊支援火器.md "wikilink")として、前任の[DP28軽機関銃](../Page/DP28軽機関銃.md "wikilink")を設計したヴァシリ・A・デグチャレフが[1944年](../Page/1944年.md "wikilink")に設計した[軽機関銃](../Page/軽機関銃.md "wikilink")である。

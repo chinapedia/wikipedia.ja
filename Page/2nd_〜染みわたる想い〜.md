@@ -1,4 +1,4 @@
-> この記事は[2nd ](https://ja.wikipedia.org/wiki/2nd_)から翻訳されています。
+> この記事は[2nd 〜染みわたる想い〜](https://ja.wikipedia.org/wiki/2nd_〜染みわたる想い〜)から翻訳されています。
 
 
 **2nd 〜染みわたる想い〜**（セカンド しみわたるおもい）は[2006年](../Page/2006年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")に発売した[安倍なつみ](../Page/安倍なつみ.md "wikilink")の2枚目の[オリジナルアルバム](https://ja.wikipedia.org/wiki/オリジナルアルバム "wikilink")である。

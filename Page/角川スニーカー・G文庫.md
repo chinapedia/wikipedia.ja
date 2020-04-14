@@ -1,4 +1,4 @@
-> この記事は[G](https://ja.wikipedia.org/wiki/G)から翻訳されています。
+> この記事は[角川スニーカー・G文庫](https://ja.wikipedia.org/wiki/角川スニーカー・G文庫)から翻訳されています。
 
 
 **角川スニーカー・G文庫**（かどかわスニーカー・ジーぶんこ）は、[角川書店](../Page/角川書店.md "wikilink")（現：[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）から刊行されていた文庫のレーベル名の一つである。角川書店による[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")(TRPG）関係の書籍を出版するレーベルで[1994年](../Page/1994年.md "wikilink")に創刊した。

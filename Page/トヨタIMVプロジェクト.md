@@ -1,4 +1,4 @@
-> この記事は[IMV](https://ja.wikipedia.org/wiki/IMV)から翻訳されています。
+> この記事は[トヨタIMVプロジェクト](https://ja.wikipedia.org/wiki/トヨタIMVプロジェクト)から翻訳されています。
 
 
 **トヨタIMVプロジェクト**（トヨタアイエムブイプロジェクト）とは、[2002年](../Page/2002年.md "wikilink")に発表された[新興国](https://ja.wikipedia.org/wiki/新興国 "wikilink")市場をターゲットにした[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の[世界戦略車](../Page/世界戦略車.md "wikilink")[プロジェクト](../Page/プロジェクト.md "wikilink")である。生産供給して販売する体制を全世界で最適に構築して需要変動や為替損益による影響を排し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までにトヨタが世界市場の15パーセントを獲得する[コミットメント](https://ja.wikipedia.org/wiki/コミットメント "wikilink")である「グローバル15」、の主要プロジェクトの一つである。本施策から生み出された車は**IMVシリーズ**とよばれ、1種の[プラットフォームからボディタイプは](../Page/プラットフォーム_\(自動車\).md "wikilink")3種で5車種が生産販売される。

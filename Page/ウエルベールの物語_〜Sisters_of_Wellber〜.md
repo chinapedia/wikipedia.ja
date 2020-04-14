@@ -1,4 +1,4 @@
-> この記事は[ Sisters of Wellber](https://ja.wikipedia.org/wiki/_Sisters_of_Wellber)から翻訳されています。
+> この記事は[ウエルベールの物語 〜Sisters of Wellber〜](https://ja.wikipedia.org/wiki/ウエルベールの物語_〜Sisters_of_Wellber〜)から翻訳されています。
 
 
 『**ウエルベールの物語 〜Sisters of Wellber〜**』（ウエルベールのものがたり シスターズ オブ ウエルベール）は、[トランス・アーツ](../Page/トランス・アーツ.md "wikilink")制作（[Production I.G制作協力](../Page/プロダクション・アイジー.md "wikilink")）の日本の[深夜アニメ](../Page/深夜アニメ.md "wikilink")作品。2007年4月より6月まで放送された（以降、2007年放送分を第一幕と呼称する）。また第二幕が2008年1月から3月まで放送された。第1部に新作カットも大量に盛り込んだディレクターズカット版「哀しみの戦士ガラハドの挽歌」がある。

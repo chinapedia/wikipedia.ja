@@ -1,4 +1,4 @@
-> この記事は[TDR](https://ja.wikipedia.org/wiki/TDR)から翻訳されています。
+> この記事は[ヤマハ・TDR](https://ja.wikipedia.org/wiki/ヤマハ・TDR)から翻訳されています。
 
 
 **ヤマハ・TDR**（ティーディーアール）とは、[ヤマハ発動機](../Page/ヤマハ発動機.md "wikilink")が製造販売していた[オートバイ](../Page/オートバイ.md "wikilink")であり、シリーズ車種として数車種が生産されていた。

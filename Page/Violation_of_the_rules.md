@@ -10,7 +10,7 @@
 
 ## 収録曲
 
-全曲作詞：[HΛLNA](https://ja.wikipedia.org/wiki/HΛLNA "wikilink") / 作曲：[佐藤あつし](https://ja.wikipedia.org/wiki/ats- "wikilink") / 編曲：[HΛL](../Page/HΛL.md "wikilink")
+全曲作詞：[HΛLNA](../Page/HΛLNA.md "wikilink") / 作曲：[佐藤あつし](https://ja.wikipedia.org/wiki/ats- "wikilink") / 編曲：[HΛL](../Page/HΛL.md "wikilink")
 
 1.  **Introduction**
       -

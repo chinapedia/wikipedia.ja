@@ -1,4 +1,4 @@
-> この記事は[R.550 \(\)](https://ja.wikipedia.org/wiki/R.550_\(\))から翻訳されています。
+> この記事は[R.550 \(ミサイル\)](https://ja.wikipedia.org/wiki/R.550_\(ミサイル\))から翻訳されています。
 
 
 **R.550**は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[マトラ](../Page/マトラ.md "wikilink")社製の[短距離空対空ミサイル](https://ja.wikipedia.org/wiki/空対空ミサイル#WVR "wikilink")。[アメリカ製の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[AIM-9 サイドワインダーと競合する](../Page/サイドワインダー_\(ミサイル\).md "wikilink")[ミサイル](../Page/ミサイル.md "wikilink")であり、原型の**マジック**と、改良型の**マジック2**に分けられる。

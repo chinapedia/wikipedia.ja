@@ -1,4 +1,4 @@
-> この記事は[allnightnippon SUPER!](https://ja.wikipedia.org/wiki/allnightnippon_SUPER!)から翻訳されています。
+> この記事は[ポルノグラフィティのallnightnippon SUPER!](https://ja.wikipedia.org/wiki/ポルノグラフィティのallnightnippon_SUPER!)から翻訳されています。
 
 
 **ポルノグラフィティのallnightnippon SUPER\!**は[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されている[深夜番組](../Page/深夜番組.md "wikilink")「[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")」で放送された番組。

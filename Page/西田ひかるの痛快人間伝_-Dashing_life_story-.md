@@ -1,4 +1,4 @@
-> この記事は[ -Dashing life story-](https://ja.wikipedia.org/wiki/_-Dashing_life_story-)から翻訳されています。
+> この記事は[西田ひかるの痛快人間伝 -Dashing life story-](https://ja.wikipedia.org/wiki/西田ひかるの痛快人間伝_-Dashing_life_story-)から翻訳されています。
 
 
 『**西田ひかるの痛快人間伝 -Dashing life story-**』（にしだひかるのつうかいにんげんでん）は、[1991年](../Page/1991年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")まで[NHK総合テレビで放送された全](../Page/NHK総合テレビジョン.md "wikilink")51回の[教養番組](../Page/教養番組.md "wikilink")・[ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")番組である。

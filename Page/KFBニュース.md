@@ -1,4 +1,4 @@
-> この記事は[KFB](https://ja.wikipedia.org/wiki/KFB)から翻訳されています。
+> この記事は[KFBニュース](https://ja.wikipedia.org/wiki/KFBニュース)から翻訳されています。
 
 
 『**KFBニュース**』（ケーエフビーニュース）は、[福島放送](../Page/福島放送.md "wikilink")で放送されている[ニュース番組](../Page/報道番組.md "wikilink")。[1981年](../Page/1981年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")の[サービス放送](../Page/サービス放送.md "wikilink")開始時から放送されている。

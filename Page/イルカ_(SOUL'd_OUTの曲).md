@@ -1,4 +1,4 @@
-> この記事は[ \(SOUL\'d OUT\)](https://ja.wikipedia.org/wiki/_\(SOUL\'d_OUT\))から翻訳されています。
+> この記事は[イルカ \(SOUL\'d OUTの曲\)](https://ja.wikipedia.org/wiki/イルカ_\(SOUL\'d_OUTの曲\))から翻訳されています。
 
 
 **イルカ**は、[SOUL'd OUTの](../Page/SOUL'd_OUT.md "wikilink")9th[シングル](../Page/シングル.md "wikilink")である。

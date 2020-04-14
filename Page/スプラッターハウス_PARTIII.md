@@ -1,4 +1,4 @@
-> この記事は[ PARTIII](https://ja.wikipedia.org/wiki/_PARTIII)から翻訳されています。
+> この記事は[スプラッターハウス PARTIII](https://ja.wikipedia.org/wiki/スプラッターハウス_PARTIII)から翻訳されています。
 
 
 『**スプラッターハウス PART III**』（*SPLATTER HOUSE PART III*）は、[1993年](../Page/1993年.md "wikilink")にナムコ（後の[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")）から、[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[スプラッターハウス](../Page/スプラッターハウス.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）の家庭用オリジナル続編（シリーズ3作目）として[メガドライブ](../Page/メガドライブ.md "wikilink")で発売された[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。
@@ -186,7 +186,7 @@
   - [スプラッターハウス](../Page/スプラッターハウス.md "wikilink")
   - [スプラッターハウス PARTII](../Page/スプラッターハウス_PARTII.md "wikilink")
   - [スプラッターハウス わんぱくグラフィティ](../Page/スプラッターハウス_わんぱくグラフィティ.md "wikilink")
-  - [バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")
+  - [バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")
 
 [Category:ナムコのゲームソフト](https://ja.wikipedia.org/wiki/Category:ナムコのゲームソフト "wikilink") [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:ベルトスクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:ベルトスクロールアクションゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 

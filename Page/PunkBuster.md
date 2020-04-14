@@ -1,7 +1,7 @@
 > この記事は[PunkBuster](https://ja.wikipedia.org/wiki/PunkBuster)から翻訳されています。
 
 
-**PunkBuster**は[Even Balance社が開発した](https://ja.wikipedia.org/wiki/Even_Balance "wikilink")[コンピュータプログラムであり](../Page/プログラム_\(コンピュータ\).md "wikilink")、マルチプレイの[ネットワーク対戦ゲームにおいてプレーヤーの](../Page/オンラインゲーム.md "wikilink")[チート](../Page/チート.md "wikilink")行為を防ぐものである。[Battlefieldシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")、[America's Army](../Page/America's_Army.md "wikilink")、[Call of Dutyシリーズ](https://ja.wikipedia.org/wiki/Call_of_Duty "wikilink")、[Quake Ⅲ Arenaなど人気のあるネットワーク対戦ゲームに導入されている](../Page/Quake.md "wikilink")。
+**PunkBuster**（パンクバスター）は、Even Balanceが開発した不正行為（[チート](../Page/チート.md "wikilink")）を検出するためのアンチチート[ソフトウェア](../Page/ソフトウェア.md "wikilink")。[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")においてプレイヤーの不正行為を防ぐもので、[バトルフィールドシリーズや](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")[コール オブ デューティシリーズ](../Page/コール_オブ_デューティシリーズ.md "wikilink")、『[America's Army](../Page/America's_Army.md "wikilink")』、『[Quake Ⅲ Arena](../Page/Quake.md "wikilink")』などのゲームに導入されている。
 
 ## 特徴
 
@@ -53,6 +53,5 @@
 
 ## 外部リンク
 
-  - [Even Balance社公式サイト](http://www.evenbalance.com/)
-
+  -
 [Category:オンラインゲーム](https://ja.wikipedia.org/wiki/Category:オンラインゲーム "wikilink") [Category:コンピュータ・ネットワーク・セキュリティ](https://ja.wikipedia.org/wiki/Category:コンピュータ・ネットワーク・セキュリティ "wikilink") [Category:2000年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2000年のソフトウェア "wikilink")

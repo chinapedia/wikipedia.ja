@@ -1,4 +1,4 @@
-> この記事は[SWEET DREAMS \(\)](https://ja.wikipedia.org/wiki/SWEET_DREAMS_\(\))から翻訳されています。
+> この記事は[SWEET DREAMS \(松任谷由実の曲\)](https://ja.wikipedia.org/wiki/SWEET_DREAMS_\(松任谷由実の曲\))から翻訳されています。
 
 
 『**SWEET DREAMS**』（スウィート・ドリームス）は、[松任谷由実](../Page/松任谷由実.md "wikilink")（ユーミン）の22枚目の[シングル](../Page/シングル.md "wikilink")。 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[東芝EMIから](../Page/EMIミュージック・ジャパン.md "wikilink")[リリースされた](https://ja.wikipedia.org/wiki/発売 "wikilink")（EP：RT07-2032、CT：ZX10-6013、CDS：CT10-2003・XT10-2386）。シングルカセットのみオリジナル・[カラオケ](../Page/カラオケ.md "wikilink")を収録。

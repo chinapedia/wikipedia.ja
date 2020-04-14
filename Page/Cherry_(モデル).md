@@ -1,4 +1,4 @@
-> この記事は[Cherry \(\)](https://ja.wikipedia.org/wiki/Cherry_\(\))から翻訳されています。
+> この記事は[Cherry \(モデル\)](https://ja.wikipedia.org/wiki/Cherry_\(モデル\))から翻訳されています。
 
 
 **Cherry**（チェリー、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月4日](../Page/11月4日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[ファッションモデル](../Page/ファッションモデル.md "wikilink")、[タレント](../Page/タレント.md "wikilink")である。
@@ -85,7 +85,7 @@
 
   - [オフィシャルプロフィール](http://www.pinx.agency/models/cherry.html)
   - [インスタグラム](https://www.instagram.com/cherry.jerrera/)
-  - [Cherryオフィシャルブログ「Al mal tiempo buena Care！」](http://ameblo.jp/cherrykubota/)
+  - [Cherryオフィシャルブログ「Al mal tiempo buena Care！」](https://ameblo.jp/cherrykubota/)
   - \[<http://tokyogirlsrun.com/>　TOKYO GIRLS RUN\]
 
 [Category:1990年生](https://ja.wikipedia.org/wiki/Category:1990年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:スペイン系日本人](https://ja.wikipedia.org/wiki/Category:スペイン系日本人 "wikilink")

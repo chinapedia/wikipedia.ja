@@ -1,4 +1,4 @@
-> この記事は[Let It Be \(SMAP\)](https://ja.wikipedia.org/wiki/Let_It_Be_\(SMAP\))から翻訳されています。
+> この記事は[Let It Be \(SMAPの曲\)](https://ja.wikipedia.org/wiki/Let_It_Be_\(SMAPの曲\))から翻訳されています。
 
 
 「**Let It Be**」（レット・イット・ビー）は、[SMAP](https://ja.wikipedia.org/wiki/SMAP "wikilink")の31枚目の[シングル](../Page/シングル.md "wikilink")。[2000年](../Page/2000年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。

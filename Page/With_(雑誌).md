@@ -1,4 +1,4 @@
-> この記事は[With \(\)](https://ja.wikipedia.org/wiki/With_\(\))から翻訳されています。
+> この記事は[With \(雑誌\)](https://ja.wikipedia.org/wiki/With_\(雑誌\))から翻訳されています。
 
 
 『**with**』（ウィズ）は、[講談社](../Page/講談社.md "wikilink")から刊行されている20代〜30代女性向け[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[1981年](../Page/1981年.md "wikilink")8月創刊\[1\]。

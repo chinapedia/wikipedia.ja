@@ -1,4 +1,4 @@
-> この記事は[A](https://ja.wikipedia.org/wiki/A)から翻訳されています。
+> この記事は[Aの魔法陣](https://ja.wikipedia.org/wiki/Aの魔法陣)から翻訳されています。
 
 
 **Aの魔法陣**（エーのまほうじん）とは、[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")の製作でも知られている[芝村裕吏](../Page/芝村裕吏.md "wikilink")がデザインした汎用[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）のタイトル。[2006年](../Page/2006年.md "wikilink")に[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")から書籍版にて発売された。略称は「**Aマホ**」。

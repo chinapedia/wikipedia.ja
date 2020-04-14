@@ -1,4 +1,4 @@
-> この記事は[THE LAST LIVE](https://ja.wikipedia.org/wiki/THE_LAST_LIVE)から翻訳されています。
+> この記事は[THE LAST LIVE〜最後の夜〜](https://ja.wikipedia.org/wiki/THE_LAST_LIVE〜最後の夜〜)から翻訳されています。
 
 
 **THE LAST LIVE〜最後の夜〜**（ザ・ラスト・ライブ さいごのよる）は、日本のロックバンド[X JAPANが](../Page/X_JAPAN.md "wikilink")[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[12月31日](../Page/12月31日.md "wikilink")に[東京ドーム](../Page/東京ドーム.md "wikilink")で行った解散コンサート。

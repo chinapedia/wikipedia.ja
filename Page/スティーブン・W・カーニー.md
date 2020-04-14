@@ -1,4 +1,4 @@
-> この記事は[W](https://ja.wikipedia.org/wiki/W)から翻訳されています。
+> この記事は[スティーブン・W・カーニー](https://ja.wikipedia.org/wiki/スティーブン・W・カーニー)から翻訳されています。
 
 
 **スティーブン・ワッツ・カーニー**（**Stephen Watts Kearny**，[1794年](../Page/1794年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink") - [1848年](../Page/1848年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")）は[アメリカ合衆国陸軍](https://ja.wikipedia.org/wiki/アメリカ合衆国陸軍 "wikilink")の将校。[米墨戦争](../Page/米墨戦争.md "wikilink")の間の[南西部での活躍](../Page/アメリカ合衆国南西部.md "wikilink")、とりわけ[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")の征服で有名である。「[アメリカ軍騎馬隊](https://ja.wikipedia.org/wiki/アメリカ軍騎馬隊 "wikilink")([w:United States Cavalry](https://ja.wikipedia.org/wiki/w:United_States_Cavalry "wikilink"))の父」と言われる。カリフォルニオ政府の行動を管理した厳しい規律「[カーニー・コード](https://ja.wikipedia.org/wiki/カーニー・コード "wikilink")([w:Kearny code](https://ja.wikipedia.org/wiki/w:Kearny_code "wikilink"))」は彼の名にちなむ。

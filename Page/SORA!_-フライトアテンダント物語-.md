@@ -1,4 +1,4 @@
-> この記事は[SORA! --](https://ja.wikipedia.org/wiki/SORA!_--)から翻訳されています。
+> この記事は[SORA! -フライトアテンダント物語-](https://ja.wikipedia.org/wiki/SORA!_-フライトアテンダント物語-)から翻訳されています。
 
 
 『**SORA\!－フライトアテンダント物語－**』（そら フライトアテンダントものがたり）は、原作・[矢島正雄](../Page/矢島正雄.md "wikilink")、漫画・[引野真二](https://ja.wikipedia.org/wiki/引野真二 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。[小学館](../Page/小学館.md "wikilink")の漫画雑誌『[ビッグコミック](../Page/ビッグコミック.md "wikilink")』2005年18号（[9月25日](../Page/9月25日.md "wikilink")号）から2007年9号（[5月10日](../Page/5月10日.md "wikilink")号）まで連載された。単行本は全5巻が小学館[ビッグコミックス](https://ja.wikipedia.org/wiki/ビッグコミックス "wikilink")から刊行されている。

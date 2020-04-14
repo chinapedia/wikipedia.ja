@@ -1,4 +1,4 @@
-> この記事は[CRBANK](https://ja.wikipedia.org/wiki/CRBANK)から翻訳されています。
+> この記事は[CRばくばくBANK](https://ja.wikipedia.org/wiki/CRばくばくBANK)から翻訳されています。
 
 
 **CRばくばくBANK**（-ばくばくばんく）は、[2001年](../Page/2001年.md "wikilink")3月に[テクモ](../Page/テクモ.md "wikilink")（現・[コーエーテクモウェーブ](https://ja.wikipedia.org/wiki/コーエーテクモウェーブ "wikilink")）が開発し、[マルホンが発売した](../Page/マルホン工業.md "wikilink")[CR機](../Page/CR機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")。

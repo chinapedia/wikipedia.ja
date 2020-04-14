@@ -1,4 +1,4 @@
-> この記事は[KEMURI \(\)](https://ja.wikipedia.org/wiki/KEMURI_\(\))から翻訳されています。
+> この記事は[KEMURI \(プログラミング言語\)](https://ja.wikipedia.org/wiki/KEMURI_\(プログラミング言語\))から翻訳されています。
 
 
 **KEMURI**（ケムリ）は、[Brainfuck](../Page/Brainfuck.md "wikilink")に類した[プログラミング言語](../Page/プログラミング言語.md "wikilink")の一つ。実用言語ではない。

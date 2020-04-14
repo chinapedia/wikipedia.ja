@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR機動新撰組萌えよ剣](https://ja.wikipedia.org/wiki/CR機動新撰組萌えよ剣)から翻訳されています。
 
 
 **CR機動新撰組萌えよ剣**（シーアールきどうしんせんぐみもえよけん）は、[タイヨーエレック](../Page/タイヨーエレック.md "wikilink")から[2007年](../Page/2007年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。[保通協の登録型式名は](../Page/保安通信協会.md "wikilink")「CR萌えよ剣」。

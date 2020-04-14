@@ -1,4 +1,4 @@
-> この記事は[GOLDENBEST ](https://ja.wikipedia.org/wiki/GOLDENBEST_)から翻訳されています。
+> この記事は[GOLDEN☆BEST 影山ヒロノブ](https://ja.wikipedia.org/wiki/GOLDEN☆BEST_影山ヒロノブ)から翻訳されています。
 
 
 『**GOLDEN☆BEST 影山ヒロノブ**』（ゴールデン・ベスト かげやまひろのぶ）は、[影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")の4枚目の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に [ジャパンレコーズから発売された](../Page/徳間ジャパンコミュニケーションズ.md "wikilink")。

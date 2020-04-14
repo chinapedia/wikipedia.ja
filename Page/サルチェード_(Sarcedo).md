@@ -1,4 +1,4 @@
-> この記事は[ \(Sarcedo\)](https://ja.wikipedia.org/wiki/_\(Sarcedo\))から翻訳されています。
+> この記事は[サルチェード \(Sarcedo\)](https://ja.wikipedia.org/wiki/サルチェード_\(Sarcedo\))から翻訳されています。
 
 
 |frazioni = |comuniLimitrofi = [\#隣接コムーネ](https://ja.wikipedia.org/wiki/#隣接コムーネ "wikilink")参照 |cap = 36030 |prefisso = 0445 |istat = 024097 |fiscale = L157 |zonaSismica = 3 |nomeAbitanti = sarcedensi |patrono = Sant'Andrea |festivo = [11月30日](../Page/11月30日.md "wikilink") |gradiGiorno = 2445 |sito = <http://www.comune.sarcedo.vi.it/> |Mappa = Map of comune of Sarcedo (province of Vicenza, region Veneto, Italy).svg |Didascalia mappa=ヴィチェンツァ県におけるコムーネの領域  }} **サルチェード**（）は、[イタリア](../Page/イタリア.md "wikilink")共和国[ヴェネト州](../Page/ヴェネト州.md "wikilink")[ヴィチェンツァ県](../Page/ヴィチェンツァ県.md "wikilink")にある、人口約5,300人の[基礎自治体](../Page/基礎自治体.md "wikilink")（[コムーネ](../Page/コムーネ.md "wikilink")）。

@@ -1,4 +1,4 @@
-> この記事は[ \(Web\)](https://ja.wikipedia.org/wiki/_\(Web\))から翻訳されています。
+> この記事は[マッシュアップ \(Webプログラミング\)](https://ja.wikipedia.org/wiki/マッシュアップ_\(Webプログラミング\))から翻訳されています。
 
 
 **マッシュアップ**（Mashup）とは、[ウェブ上に公開されている情報を加工](../Page/World_Wide_Web.md "wikilink")、編集することで新たなサービスとすること。

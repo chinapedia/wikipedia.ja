@@ -1,4 +1,4 @@
-> この記事は[SMK \(\)](https://ja.wikipedia.org/wiki/SMK_\(\))から翻訳されています。
+> この記事は[SMK \(戦車\)](https://ja.wikipedia.org/wiki/SMK_\(戦車\))から翻訳されています。
 
 
 **SMK（）**とは[ソ連の試作](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[多砲塔重戦車である](../Page/多砲塔戦車.md "wikilink")。

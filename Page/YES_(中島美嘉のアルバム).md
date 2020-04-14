@@ -1,4 +1,4 @@
-> この記事は[YES \(\)](https://ja.wikipedia.org/wiki/YES_\(\))から翻訳されています。
+> この記事は[YES \(中島美嘉のアルバム\)](https://ja.wikipedia.org/wiki/YES_\(中島美嘉のアルバム\))から翻訳されています。
 
 
 『**YES**』（イエス）は、[中島美嘉](https://ja.wikipedia.org/wiki/中島美嘉 "wikilink")の4枚目のオリジナル・フルアルバム。[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")発売。

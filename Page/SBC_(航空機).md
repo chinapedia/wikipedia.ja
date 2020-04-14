@@ -1,4 +1,4 @@
-> この記事は[SBC \(\)](https://ja.wikipedia.org/wiki/SBC_\(\))から翻訳されています。
+> この記事は[SBC \(航空機\)](https://ja.wikipedia.org/wiki/SBC_\(航空機\))から翻訳されています。
 
 
 {{ Infobox 航空機 | 名称= XF12C / XS4C /SBC ヘルダイヴァー | 画像=<File:SBC-3> Helldiver VS-3 in flight c1939.jpeg | キャプション=飛行するSBC-3 0571号機

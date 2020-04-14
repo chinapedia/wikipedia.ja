@@ -1,4 +1,4 @@
-> この記事は[\&4th ](https://ja.wikipedia.org/wiki/\&4th_)から翻訳されています。
+> この記事は[ラチェット\&クランク4th ギリギリ銀河のギガバトル](https://ja.wikipedia.org/wiki/ラチェット\&クランク4th_ギリギリ銀河のギガバトル)から翻訳されています。
 
 
 『**ラチェット&クランク4th ギリギリ銀河のギガバトル**』（ラチェットアンドクランクフォース ぎりぎりぎんがのぎがばとる、欧題:*Ratchet: Deadlocked*）は米[インソムニアックゲームズ](../Page/インソムニアックゲームズ.md "wikilink")が[2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")に[PlayStation 2向けに発売した](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")。後に2回にわたって[廉価版](../Page/廉価版.md "wikilink")が発売された。

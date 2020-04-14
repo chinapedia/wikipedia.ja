@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CRローズテイルアルティメット](https://ja.wikipedia.org/wiki/CRローズテイルアルティメット)から翻訳されています。
 
 
 **CRローズテイルアルティメット**（しーあーる-）は、[豊丸産業](../Page/豊丸産業.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に発売された[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")タイプの[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")。基本的には演出は同じだがスペックが異なる「**CR野薔薇物語**（のばらものがたり）」も同時に発売されている。[萌え](../Page/萌え.md "wikilink")をテーマとしている。

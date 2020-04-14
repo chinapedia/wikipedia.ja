@@ -1,4 +1,4 @@
-> この記事は[To LOVE --](https://ja.wikipedia.org/wiki/To_LOVE_--)から翻訳されています。
+> この記事は[To LOVEる -とらぶる-](https://ja.wikipedia.org/wiki/To_LOVEる_-とらぶる-)から翻訳されています。
 
 
 |- | colspan="2" style="padding: 0;"|

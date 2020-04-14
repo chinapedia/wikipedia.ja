@@ -1,4 +1,4 @@
-> この記事は[-saku-](https://ja.wikipedia.org/wiki/-saku-)から翻訳されています。
+> この記事は[朔-saku-](https://ja.wikipedia.org/wiki/朔-saku-)から翻訳されています。
 
 
 「**朔-saku-**」（サク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のバンド[Dir en greyの](../Page/DIR_EN_GREY.md "wikilink")[メジャー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")17枚目の[シングル](../Page/シングル.md "wikilink")。

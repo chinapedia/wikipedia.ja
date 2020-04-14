@@ -1,4 +1,4 @@
-> この記事は[FS](https://ja.wikipedia.org/wiki/FS)から翻訳されています。
+> この記事は[プラジャス・デ・カステジョンFS](https://ja.wikipedia.org/wiki/プラジャス・デ・カステジョンFS)から翻訳されています。
 
 
 **プラジャス・デ・カステジョンFS**（Playas de Castellón Fútbol Sala）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[カステリョンを本拠地とする](../Page/カステリョン・デ・ラ・プラナ.md "wikilink")[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")クラブ。2017-18シーズンはLNFSのセグンダ・ディビシオン（2部）に所属している。

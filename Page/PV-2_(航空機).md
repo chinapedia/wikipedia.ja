@@ -1,4 +1,4 @@
-> この記事は[PV-2 \(\)](https://ja.wikipedia.org/wiki/PV-2_\(\))から翻訳されています。
+> この記事は[PV-2 \(航空機\)](https://ja.wikipedia.org/wiki/PV-2_\(航空機\))から翻訳されています。
 
 
 [thumbの](https://ja.wikipedia.org/wiki/画像:Lockheed_PV-2_NMNA.jpg "wikilink")[国立海軍航空博物館 Museum of Naval Aviation）の展示機](https://ja.wikipedia.org/wiki/国立海軍航空博物館 "wikilink")（National

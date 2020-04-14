@@ -1,4 +1,4 @@
-> この記事は[Tears \(X JAPAN\)](https://ja.wikipedia.org/wiki/Tears_\(X_JAPAN\))から翻訳されています。
+> この記事は[Tears \(X JAPANの曲\)](https://ja.wikipedia.org/wiki/Tears_\(X_JAPANの曲\))から翻訳されています。
 
 
 「**Tears**」（ティアーズ）は、ロックバンド、[X JAPANが](../Page/X_JAPAN.md "wikilink")1993年11月10日にリリースした9作目の[シングル](../Page/シングル.md "wikilink")である。
@@ -51,7 +51,7 @@
 
 ## 脚注
 
-[Category:X_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:X_JAPANの楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:TBS火曜9時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS火曜9時枠の連続ドラマ主題歌 "wikilink") [Category:映画挿入歌](https://ja.wikipedia.org/wiki/Category:映画挿入歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
+[Category:X_JAPANの楽曲](https://ja.wikipedia.org/wiki/Category:X_JAPANの楽曲 "wikilink") [Category:YOSHIKIが制作した楽曲](https://ja.wikipedia.org/wiki/Category:YOSHIKIが制作した楽曲 "wikilink") [Category:1993年のシングル](https://ja.wikipedia.org/wiki/Category:1993年のシングル "wikilink") [Category:TBS火曜9時枠の連続ドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBS火曜9時枠の連続ドラマ主題歌 "wikilink") [Category:映画挿入歌](https://ja.wikipedia.org/wiki/Category:映画挿入歌 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:涙を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:涙を題材とした楽曲 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 
 1.  2016年12月17日(土)放送[SONGS第](../Page/SONGS_\(テレビ番組\).md "wikilink")404回「X JAPAN」より。
 2.  [角川書店](../Page/角川書店.md "wikilink")刊「[月刊feature](../Page/月刊カドカワ.md "wikilink")」1999年6月号25Pより。

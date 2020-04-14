@@ -1,4 +1,4 @@
-> この記事は[MB8](https://ja.wikipedia.org/wiki/MB8)から翻訳されています。
+> この記事は[MB8作戦](https://ja.wikipedia.org/wiki/MB8作戦)から翻訳されています。
 
 
 **MB8作戦**はイギリス軍が1940年11月に[地中海](../Page/地中海.md "wikilink")で行った[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")である。[地中海艦隊と](../Page/地中海艦隊_\(イギリス\).md "wikilink")[H部隊](../Page/H部隊.md "wikilink")の5隻の戦艦、2隻の空母、10隻の巡洋艦などが出撃した。この作戦は以下のようなものを含む。

@@ -1,4 +1,4 @@
-> この記事は[de!](https://ja.wikipedia.org/wiki/de!)から翻訳されています。
+> この記事は[パズルdeポン!](https://ja.wikipedia.org/wiki/パズルdeポン!)から翻訳されています。
 
 
 **『パズルdeポン\!**』（パズルでポン、**Puzzle De Pon\!**）は、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から稼動されたアーケードゲームである。開発は[ビスコ](../Page/ビスコ_\(ゲーム会社\).md "wikilink")。ゲーム内容は『[パズルボブル](../Page/パズルボブル.md "wikilink")』とほぼ同じだが、本作は[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")より正式にライセンスを受けて製作販売されたものであり、クローンやコピー製品ではない。

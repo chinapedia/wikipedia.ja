@@ -1,4 +1,4 @@
-> この記事は[Bridge ](https://ja.wikipedia.org/wiki/Bridge_)から翻訳されています。
+> この記事は[Bridge パターン](https://ja.wikipedia.org/wiki/Bridge_パターン)から翻訳されています。
 
 
 **Bridge パターン**（ブリッジ・パターン）とは、[GoF](https://ja.wikipedia.org/wiki/ギャング・オブ・フォー_\(情報工学\) "wikilink")（Gang of Four; 4人のギャングたち）によって定義された[デザインパターンの](https://ja.wikipedia.org/wiki/デザインパターン_\(ソフトウェア\) "wikilink")1つである。 「橋渡し」のクラスを用意することによって、クラスを複数の方向に拡張させることを目的とする。

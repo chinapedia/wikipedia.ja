@@ -1,4 +1,4 @@
-> この記事は[QED](https://ja.wikipedia.org/wiki/QED)から翻訳されています。
+> この記事は[QEDシリーズ](https://ja.wikipedia.org/wiki/QEDシリーズ)から翻訳されています。
 
 
 『**QEDシリーズ**』（キューイーディー シリーズ）は、[高田崇史](../Page/高田崇史.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[推理小説](../Page/推理小説.md "wikilink")のシリーズ。2011年をもって本編が完結、2013年から外伝が3作発表され、2019年には7年ぶりに長編が発表される。全21巻。

@@ -1,4 +1,4 @@
-> この記事は[CR](https://ja.wikipedia.org/wiki/CR)から翻訳されています。
+> この記事は[CR天才バカボン](https://ja.wikipedia.org/wiki/CR天才バカボン)から翻訳されています。
 
 
 **CR天才バカボン**（シーアールてんさいバカボン）は、[大一商会](../Page/大一商会.md "wikilink")が開発・販売した、[CR機](../Page/CR機.md "wikilink")または[現金機](../Page/現金機.md "wikilink")[デジパチ](https://ja.wikipedia.org/wiki/デジパチ "wikilink")シリーズ。[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")原作の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")および[アニメ](../Page/アニメ.md "wikilink")『[天才バカボン](../Page/天才バカボン.md "wikilink")』の[タイアップ](../Page/タイアップ.md "wikilink")[パチンコ](https://ja.wikipedia.org/wiki/パチンコ "wikilink")機。

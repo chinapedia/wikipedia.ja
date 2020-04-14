@@ -1,7 +1,7 @@
 > この記事は[ASRock](https://ja.wikipedia.org/wiki/ASRock)から翻訳されています。
 
 
-**ASRock Incorporation**（華擎科技）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")を本拠地とした、変態的な性能への追究と堅実な製品が特徴的なメーカー。 当時の[ASUS](../Page/ASUS.md "wikilink")所属技術者による独立起業を出自とするが、2008年度以降は同社との資本関係はなく、 同じ出自の[Pegatron Corporationの代表的メーカーとして](https://ja.wikipedia.org/wiki/Pegatron_Corporation "wikilink")、[マザーボード](../Page/マザーボード.md "wikilink")、産業用[PC](../Page/PC.md "wikilink")、[HTPC](https://ja.wikipedia.org/wiki/HTPC "wikilink")等を生産している。
+**ASRock Incorporation**（アスロック、華擎科技）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")を本拠地とした、テッド・シュウ率いる[HTPC](https://ja.wikipedia.org/wiki/HTPC "wikilink")、[マザーボード](../Page/マザーボード.md "wikilink")を生産するメーカーである。 当時の[ASUS](../Page/ASUS.md "wikilink")所属技術者による独立起業を出自とするが、2008年度以降は同社との資本関係はなく、現在は台湾のエレクトロニクス企業 [Pegatron Corporationが所有しています](https://ja.wikipedia.org/wiki/Pegatron_Corporation "wikilink")。
 
 ## 沿革
 

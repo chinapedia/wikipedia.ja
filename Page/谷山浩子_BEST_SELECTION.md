@@ -1,4 +1,4 @@
-> この記事は[ BEST SELECTION](https://ja.wikipedia.org/wiki/_BEST_SELECTION)から翻訳されています。
+> この記事は[谷山浩子 BEST SELECTION](https://ja.wikipedia.org/wiki/谷山浩子_BEST_SELECTION)から翻訳されています。
 
 
 『**谷山浩子 BEST SELECTION**』（たにやまひろこ ベストセレクション）は、[谷山浩子](../Page/谷山浩子.md "wikilink")の[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")。「お早ようございますの帽子屋さん」から始まる、本作の時期までのキャニオン・レコード（現・[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")）からリリースされたシングルのA面曲を集めている。なお、LP版とCD版ではタイトルが異なり、LP版のタイトルは『谷山浩子』として発売された。CD版はLP版の帯に記載された「谷山浩子 BEST SELECTION」を採用したものと思われる。

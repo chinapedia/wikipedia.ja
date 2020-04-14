@@ -1,4 +1,4 @@
-> この記事は[BACK BEATs 1](https://ja.wikipedia.org/wiki/BACK_BEATs_1)から翻訳されています。
+> この記事は[BACK BEATs ＃1](https://ja.wikipedia.org/wiki/BACK_BEATs_＃1)から翻訳されています。
 
 
 『**BACK BEATs \#1**』（バック・ビーツ・シャープワン）は、[大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")が発売した初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。

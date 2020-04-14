@@ -1,4 +1,4 @@
-> この記事は[JFE](https://ja.wikipedia.org/wiki/JFE)から翻訳されています。
+> この記事は[JFEミネラル](https://ja.wikipedia.org/wiki/JFEミネラル)から翻訳されています。
 
 
 **JFEミネラル株式会社** （ジェイエフイーミネラル、[英文社名](../Page/英語.md "wikilink") *JFE MINERAL COMPANY, LTD.*）は、[鉱物](../Page/鉱物.md "wikilink")を中心とした[資源](../Page/資源.md "wikilink")・素材関連事業を手がける日本の[企業](../Page/企業.md "wikilink")である。

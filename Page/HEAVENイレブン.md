@@ -1,4 +1,4 @@
-> この記事は[HEAVEN](https://ja.wikipedia.org/wiki/HEAVEN)から翻訳されています。
+> この記事は[HEAVENイレブン](https://ja.wikipedia.org/wiki/HEAVENイレブン)から翻訳されています。
 
 
 『**HEAVENイレブン**』（ヘブンイレブン）は、[大和田秀樹](../Page/大和田秀樹.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[サッカー漫画作品](https://ja.wikipedia.org/wiki/スポーツ漫画#サッカー漫画 "wikilink")。『[チャンピオンRED](../Page/チャンピオンRED.md "wikilink")』（[秋田書店](../Page/秋田書店.md "wikilink")）にて、2002年10月号から2005年4月号まで連載されていた。単行本は[秋田書店](../Page/秋田書店.md "wikilink")（チャンピオンREDコミックス）刊、全5巻。

@@ -1,4 +1,4 @@
-> この記事は[ENEOS](https://ja.wikipedia.org/wiki/ENEOS)から翻訳されています。
+> この記事は[ENEOSウイング](https://ja.wikipedia.org/wiki/ENEOSウイング)から翻訳されています。
 
 
 [ENEOS_WING_Komaki_IC_SS_20160831.jpg](https://ja.wikipedia.org/wiki/File:ENEOS_WING_Komaki_IC_SS_20160831.jpg "fig:ENEOS_WING_Komaki_IC_SS_20160831.jpg") **株式会社ENEOSウイング**（エネオスウイング、）は、[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")販売（[ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink")）などを行っている[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")である。

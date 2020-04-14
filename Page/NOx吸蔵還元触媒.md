@@ -1,4 +1,4 @@
-> この記事は[NOx](https://ja.wikipedia.org/wiki/NOx)から翻訳されています。
+> この記事は[NOx吸蔵還元触媒](https://ja.wikipedia.org/wiki/NOx吸蔵還元触媒)から翻訳されています。
 
 
 **NO<sub>x</sub>吸蔵還元触媒**（NOxきゅうぞうかんげんしょくばい）とは、[排気ガス](../Page/排気ガス.md "wikilink")中の[NO<sub>x</sub>を一時的に吸蔵し](../Page/窒素酸化物.md "wikilink")、後に[還元](../Page/還元.md "wikilink")（[N](../Page/窒素.md "wikilink")<sub>2</sub>化）する[触媒](../Page/触媒.md "wikilink")である。

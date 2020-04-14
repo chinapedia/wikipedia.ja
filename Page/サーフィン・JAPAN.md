@@ -1,4 +1,4 @@
-> この記事は[JAPAN](https://ja.wikipedia.org/wiki/JAPAN)から翻訳されています。
+> この記事は[サーフィン・JAPAN](https://ja.wikipedia.org/wiki/サーフィン・JAPAN)から翻訳されています。
 
 
 **サーフィン・JAPAN**（サーフィンジャパン）は[Mi-Ke](../Page/Mi-Ke.md "wikilink")の7枚目のシングル。

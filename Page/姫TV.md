@@ -1,4 +1,4 @@
-> この記事は[TV](https://ja.wikipedia.org/wiki/TV)から翻訳されています。
+> この記事は[姫TV](https://ja.wikipedia.org/wiki/姫TV)から翻訳されています。
 
 
 『**姫TV。**』（ひめテレビ）は、[1988年](../Page/1988年.md "wikilink")秋から[1993年](../Page/1993年.md "wikilink")まで[テレビ朝日](../Page/テレビ朝日.md "wikilink")で放送されていた[ホリプロ](../Page/ホリプロ.md "wikilink")制作の[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。

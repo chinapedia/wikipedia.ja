@@ -1,4 +1,4 @@
-> この記事は[JOMO ](https://ja.wikipedia.org/wiki/JOMO_)から翻訳されています。
+> この記事は[JOMOハピネスストーリー ニューシミチコパラダイス](https://ja.wikipedia.org/wiki/JOMOハピネスストーリー_ニューシミチコパラダイス)から翻訳されています。
 
 
 **JOMOハピネスストーリー ニューシミチコパラダイス**は[ニッポン放送](../Page/ニッポン放送.md "wikilink")を始めとする[NRN基幹局を中心に放送されている](../Page/全国ラジオネットワーク.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")10月スタートし、2008年4月より東北放送以外は[JOMO童話の花束](https://ja.wikipedia.org/wiki/JOMO童話の花束 "wikilink")と統合して[清水ミチコのミッチャン・インポッシブル](../Page/清水ミチコのミッチャン・インポッシブル.md "wikilink")として30分番組となった。[JOMO](../Page/ジャパンエナジー.md "wikilink")（現[ENEOS](https://ja.wikipedia.org/wiki/JXTGエネルギー "wikilink")）の[単独提供番組](../Page/一社提供.md "wikilink")。
@@ -31,7 +31,7 @@
 | [関西広域圏](https://ja.wikipedia.org/wiki/関西広域圏 "wikilink") | [朝日放送](../Page/朝日放送ラジオ.md "wikilink")                     | 日曜日 12:50～13:00 |                                                                                                         |
 | [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")     | [山陽放送](https://ja.wikipedia.org/wiki/山陽放送ラジオ "wikilink")  | 日曜日 12:10～12:20 |                                                                                                         |
 | [広島県](../Page/広島県.md "wikilink")                        | [中国放送](../Page/中国放送.md "wikilink")                        | 土曜日 11:20～11:30 |                                                                                                         |
-| [福岡県](../Page/福岡県.md "wikilink")                        | [九州朝日放送](https://ja.wikipedia.org/wiki/KBCラジオ "wikilink") | 日曜日 12:20～12:30 | <small>「[KBCサンデーミュージックカウントダウン](https://ja.wikipedia.org/wiki/KBCサンデーミュージックカウントダウン "wikilink")」内</small> |
+| [福岡県](../Page/福岡県.md "wikilink")                        | [九州朝日放送](../Page/KBCラジオ.md "wikilink")                    | 日曜日 12:20～12:30 | <small>「[KBCサンデーミュージックカウントダウン](https://ja.wikipedia.org/wiki/KBCサンデーミュージックカウントダウン "wikilink")」内</small> |
 |                                                         |                                                           |                 |                                                                                                         |
 
 ※『[ラジオ番組表](../Page/ラジオ番組表.md "wikilink") 2007年秋号』（[三才ブックス](https://ja.wikipedia.org/wiki/三才ブックス "wikilink")刊行）による

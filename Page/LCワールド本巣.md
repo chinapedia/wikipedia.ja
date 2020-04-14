@@ -1,4 +1,4 @@
-> この記事は[LC](https://ja.wikipedia.org/wiki/LC)から翻訳されています。
+> この記事は[LCワールド本巣](https://ja.wikipedia.org/wiki/LCワールド本巣)から翻訳されています。
 
 
 **LCワールド本巣**（エルシーワールドもとす）は、[岐阜県](../Page/岐阜県.md "wikilink")[本巣市](../Page/本巣市.md "wikilink")政田に所在する[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")。

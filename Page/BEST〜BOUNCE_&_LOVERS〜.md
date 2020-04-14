@@ -1,4 +1,4 @@
-> この記事は[BESTBOUNCE \& LOVERS](https://ja.wikipedia.org/wiki/BESTBOUNCE_\&_LOVERS)から翻訳されています。
+> この記事は[BEST〜BOUNCE \& LOVERS〜](https://ja.wikipedia.org/wiki/BEST〜BOUNCE_\&_LOVERS〜)から翻訳されています。
 
 
 『**BEST〜BOUNCE & LOVERS〜**』（ベスト バウンス アンド ラヴァーズ）は、[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に発売された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink")初の企画ベストアルバム。発売元は、[rhythm zone](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")。
@@ -7,7 +7,7 @@
 
   - [ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")としては、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")発売の『[BEST〜second session〜](https://ja.wikipedia.org/wiki/BEST〜second_session〜 "wikilink")』以来約1年ぶりのリリース。35th[シングル](../Page/シングル.md "wikilink")「[BUT／愛証](https://ja.wikipedia.org/wiki/BUT/愛証 "wikilink")」と同日発売された。
   - 「[CD](../Page/コンパクトディスク.md "wikilink")＋[DVD](../Page/DVD-Video.md "wikilink")」のみで、『期間限定生産』での発売（「CDのみ」、及び『通常盤』の発売はなし）。ファン参加型企画[アルバム](../Page/アルバム.md "wikilink")である。
-  - CDの収録内容は**[バラード](../Page/バラード.md "wikilink")ベスト**となっており、収録曲は事前にファンクラブでの投票で決定され、[2000年](../Page/2000年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")までに発表されたシングル、アルバムの中から投票を元に選曲され、収録されている。また9年後の[2016年](../Page/2016年.md "wikilink")にも同じく、バラードコレクションアルバム「[WINTER of LOVE](https://ja.wikipedia.org/wiki/WINTER_of_LOVE "wikilink")」が発売されているが、あくまでこちらはバラードシングルを集めた物となっている。
+  - CDの収録内容は**[バラード](../Page/バラード.md "wikilink")ベスト**となっており、収録曲は事前にファンクラブでの投票で決定され、[2000年](../Page/2000年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")までに発表されたシングル、アルバムの中から投票を元に選曲され、収録されている。また9年後の[2016年](../Page/2016年.md "wikilink")にも同じく、バラードコレクションアルバム『[WINTER of LOVE](https://ja.wikipedia.org/wiki/WINTER_of_LOVE "wikilink")』が発売されているが、あくまでこちらはバラードシングルを集めた物となっている。
   - DVDの収録内容は**[ダンス](../Page/ダンス.md "wikilink")ベスト**になっており、バラードベスト同様、2000年から2005年に発表されたシングル、アルバムの中から選ばれたダンスナンバーの[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")を、本作のためにダンスシーンを中心に再編集して収録される。さらに5thアルバム『[Black Cherry](../Page/Black_Cherry.md "wikilink")』からは「**Get Up & Move\!\!**」の撮り下ろしミュージックビデオ、ダンスレッスンなど特典映像も収録している。
   - 当初は35万枚の『枚数限定生産』での発売予定であった\[1\]\[2\]が、発売直前になってエイベックスより、予約殺到のために『期間限定生産』に仕様を変更する\[3\]と発表された。
 

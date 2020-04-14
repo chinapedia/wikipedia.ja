@@ -1,4 +1,4 @@
-> この記事は[BMWX3](https://ja.wikipedia.org/wiki/BMWX3)から翻訳されています。
+> この記事は[BMW・X3](https://ja.wikipedia.org/wiki/BMW・X3)から翻訳されています。
 
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:BMW_X3_30i_\(G01\)_M_SPORT.png "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_X3_xDrive_20d_M_Sport,_Alpine_White_Ⅲ.jpg "wikilink") **X3**（エックススリー、クロススリー）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー、[BMW](../Page/BMW.md "wikilink")が製造・販売している高級[SUVである](../Page/スポーツ・ユーティリティ・ビークル.md "wikilink")。

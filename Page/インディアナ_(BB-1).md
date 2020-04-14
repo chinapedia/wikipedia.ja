@@ -1,4 +1,4 @@
-> この記事は[ \(BB-1\)](https://ja.wikipedia.org/wiki/_\(BB-1\))から翻訳されています。
+> この記事は[インディアナ \(BB-1\)](https://ja.wikipedia.org/wiki/インディアナ_\(BB-1\))から翻訳されています。
 
 
 |                                                                                                                                                          |

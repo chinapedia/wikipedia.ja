@@ -1,4 +1,4 @@
-> この記事は[FS](https://ja.wikipedia.org/wiki/FS)から翻訳されています。
+> この記事は[インテルFS](https://ja.wikipedia.org/wiki/インテルFS)から翻訳されています。
 
 
 **インテルFS**()は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[マドリード州](../Page/マドリード州.md "wikilink")[トレホン・デ・アルドス](https://ja.wikipedia.org/wiki/トレホン・デ・アルドス "wikilink")を本拠地とする[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")クラブ。リーガ・ナシオナル・デ・フットボル・サラ(LNFS)の[プリメーラ・ディビシオン](https://ja.wikipedia.org/wiki/プリメーラ・ディビシオン・デ・フットサル "wikilink")（1部）に所属している。ホームアリーナは。
